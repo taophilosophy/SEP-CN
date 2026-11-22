@@ -1,0 +1,812 @@
+{
+ "key": "machine learning",
+ "term": "machine learning",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-22T06:01:02+00:00",
+ "status": "ok",
+ "note": "variant=machine learning; 审定公布名词库=4853; 海峡两岸名词对照库=1379; 其他来源数据库=211; 预公布名词数据库=184; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "机器学习",
+   "en": "machine learning",
+   "source": "农学名词",
+   "wordNumber": "16.225",
+   "subjectFullName": "农业信息_农业信息技术",
+   "subjectName": "农业信息技术",
+   "publishYear": "2025",
+   "definition": "计算机通过对数据、事实或自身经验的自动分析和综合获取知识的过程。"
+  },
+  {
+   "cn": "机器学习",
+   "en": "machine learning",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.052",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "一门涉及概率论、统计学、算法复杂度理论、计算机科学的多领域交叉学科。研究计算机如何模拟人类的学习行为，以获取新的知识或技能，重新组织已有知识结构使之不断改善自身的性能。"
+  },
+  {
+   "cn": "机器学习",
+   "en": "machine learning",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.010",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "研究计算机怎样模拟或实现人类的学习行为，以获取新的知识或技能，重新组织已有的知识结构，使之不断改善自身的性能。"
+  },
+  {
+   "cn": "机器学习",
+   "en": "machine learning",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0211",
+   "subjectFullName": "计算机科学技术_人工智能_机器学习",
+   "subjectName": "机器学习",
+   "publishYear": "2018",
+   "definition": "计算机通过对数据、事实或自身经验的自动分析和综合获取知识的过程。"
+  },
+  {
+   "cn": "机器学习",
+   "en": "machine learning",
+   "source": "语言学名词",
+   "wordNumber": "11.248",
+   "subjectFullName": "语言学_计算语言学_应用系统",
+   "subjectName": "应用系统",
+   "publishYear": "2011",
+   "definition": "人工智能领域中研究人类学习行为的一个分支。借鉴认知科学、生物学、哲学、统计学、信息论、控制论、计算复杂性等学科或理论的观点，通过归纳、一般化、特殊化、类比等基本方法探索人类的认识规律和学习过程，建立各"
+  },
+  {
+   "cn": "线性学习机",
+   "en": "linear learning machine",
+   "source": "药学名词",
+   "wordNumber": "06.175",
+   "subjectFullName": "药学_药物分析",
+   "subjectName": "药物分析",
+   "publishYear": "2014",
+   "definition": "一种研究较为透彻的并在化学计量学中应用较广泛的有监督式识别方法。"
+  },
+  {
+   "cn": "学习",
+   "en": "learning",
+   "source": "行为医学名词",
+   "wordNumber": "3.113",
+   "subjectFullName": "行为医学_行为的生物学基础_生理学基础_本能行为",
+   "subjectName": "本能行为",
+   "publishYear": "2022",
+   "definition": "（1）从模仿、阅读、研究、生活实践中获得知识、技能和经验的过程。（2）从外界环境获取新信息的过程。"
+  },
+  {
+   "cn": "学习",
+   "en": "learning",
+   "source": "生理学名词",
+   "wordNumber": "03.671",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "学习",
+   "en": "learning",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0125",
+   "subjectFullName": "管理科学技术_一般管理理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "学习者通过经验而引起的自身知识或行为的相对持久的变化。"
+  },
+  {
+   "cn": "学习",
+   "en": "learning",
+   "source": "心理学名词",
+   "wordNumber": "09.004",
+   "subjectFullName": "心理学_教育心理学",
+   "subjectName": "教育心理学",
+   "publishYear": "2014",
+   "definition": "因练习、经验而获得新的、相对持久的信息、行为模式或能力的过程。"
+  },
+  {
+   "cn": "学习",
+   "en": "learning",
+   "source": "生态学名词",
+   "wordNumber": "03.009",
+   "subjectFullName": "生态学_行为生态学",
+   "subjectName": "行为生态学",
+   "publishYear": "2006",
+   "definition": "能够使动物的行为对特定的环境条件发生适应性变化的所有过程，或者说是动物借助于个体生活经历和经验使自身的行为发生适应性变化的过程。"
+  },
+  {
+   "cn": "学习",
+   "en": "learning",
+   "source": "昆虫学名词",
+   "wordNumber": "07.070",
+   "subjectFullName": "昆虫学_昆虫行为与信息化学",
+   "subjectName": "昆虫行为与信息化学",
+   "publishYear": "2000",
+   "definition": "由于经验或实践的结果而发生的持久或相对持久的适应性行为变化。"
+  },
+  {
+   "cn": "田间表型的机器学习模型",
+   "en": "machine learning model for agronomic trait",
+   "source": "农学名词",
+   "wordNumber": "15.332",
+   "subjectFullName": "农业生物技术_生物大数据和人工智能",
+   "subjectName": "生物大数据和人工智能",
+   "publishYear": "2025",
+   "definition": "一种利用机器学习技术从基因型数据或分子表型数据预测作物田间农艺性状的模型。"
+  },
+  {
+   "cn": "移动学习",
+   "en": "mobile learning,m-learning",
+   "source": "教育学名词",
+   "wordNumber": "13.139",
+   "subjectFullName": "教育学_教育技术",
+   "subjectName": "教育技术",
+   "publishYear": "2013",
+   "definition": "一种学习方式。通过移动通信网络、计算机网络、移动教学服务器和各种移动设备（如手机、个人数字助理、手持电脑）等构成的移动通信系统来进行。"
+  },
+  {
+   "cn": "潜伏学习",
+   "en": "latent learning,exploratory learning",
+   "source": "昆虫学名词",
+   "wordNumber": "07.074",
+   "subjectFullName": "昆虫学_昆虫行为与信息化学",
+   "subjectName": "昆虫行为与信息化学",
+   "publishYear": "2000",
+   "definition": "某些社会性昆虫在第一次外出觅食后即能通过记忆和辨认路标，循原路返巢的学习方式。"
+  },
+  {
+   "cn": "数字化学习",
+   "en": "electronic learning;e learning",
+   "source": "编辑与出版学名词",
+   "wordNumber": "07.05.024",
+   "subjectFullName": "编辑与出版学_出版物_网络出版产品与服务",
+   "subjectName": "网络出版产品与服务",
+   "publishYear": "2022",
+   "definition": "指通过电子、计算机、远程通信等技术手段开展的学习与教学活动。数字化学习提供具有丰富资源与全新沟通机制的学习环境，可以不受时间与空间的限制进行个性化学习。"
+  },
+  {
+   "cn": "机器",
+   "en": "machine",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.025",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "由具有特定性能的器件按照某种原理和法则组合而成的、具有某种结构的、能够完成更复杂任务，用以代替人的劳动，进行能量变换、信息处理的技术体系。"
+  },
+  {
+   "cn": "机器",
+   "en": "machine",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "01.0003",
+   "subjectFullName": "机械工程（一）_机构与机器人学_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "由零件组成的执行机械运动的装置。用来完成所赋予的功能，如变换或传递能量、变换与传递运动和力，以及传递物料与信息。"
+  },
+  {
+   "cn": "机器",
+   "en": "machine",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0391",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_生产运作管理",
+   "subjectName": "生产运作管理",
+   "publishYear": "2016",
+   "definition": "表示服务者、工厂里的各种机床、维修工人等。"
+  },
+  {
+   "cn": "机器与机器互联",
+   "en": "machine to machine",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.245",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "通过采用传感和网络技术实现机器之间的通信与互动。"
+  },
+  {
+   "cn": "机器学习",
+   "en": "machine learning",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "线性学习机",
+   "en": "linear learning machine",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "学习",
+   "en": "learning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "学习",
+   "en": "learning",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "观摩学习",
+   "en": "empathic learning\",\"observation learning",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "潜伏学习",
+   "en": "latent learning\",\"exploratory learning",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "学习曲线",
+   "en": "learning curve",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "同伴学习",
+   "en": "peer learning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "运动［技能］学习",
+   "en": "motor learning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "行动学习法",
+   "en": "action learning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "联想学习",
+   "en": "associative learning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "学习高原",
+   "en": "learning plateau",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "生成性学习",
+   "en": "generative learning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "学习目标",
+   "en": "learning goal",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "汇集学习",
+   "en": "confluence learning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "欲望学习",
+   "en": "appetitive learning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "概念学习",
+   "en": "concept learning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "掌握学习",
+   "en": "mastery learning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "潜伏学习",
+   "en": "latent learning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "机械学习",
+   "en": "rote learning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "机器学习",
+   "en": "Machine Learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "高级机器学习",
+   "en": "advanced machine learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大数据机器学习",
+   "en": "Big Data Machine Learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "AstroML（面向天文领域的机器学习和数据挖掘算法包）",
+   "en": "AstroML (machine learning for astrophysics)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "学",
+   "en": "Learn",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "深度学习",
+   "en": "deep learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "监督学习",
+   "en": "supervised learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无监督学习",
+   "en": "unsupervised learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "强化学习",
+   "en": "reinforcement learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "对抗学习",
+   "en": "adversarial learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "归纳学习",
+   "en": "inductive learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自适应学习",
+   "en": "adaptive learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "连接机制学习",
+   "en": "connectionist learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "迁移学习",
+   "en": "transfer learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "主动学习",
+   "en": "active learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "演化学习",
+   "en": "evolutional learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "反向传播学习",
+   "en": "backpropagation learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字化学习",
+   "en": "e-learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智慧学习",
+   "en": "smart learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "交互式学习",
+   "en": "interactive learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "学习",
+   "en": "learning",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习",
+   "subjectName": "学习",
+   "publishYear": "2025",
+   "definition": "从模仿、阅读、研究、生活实践中获得知识、技能和经验的过程。"
+  },
+  {
+   "cn": "终身学习",
+   "en": "lifelong learning",
+   "source": "社会医学名词",
+   "wordNumber": "8.11.1.6.8",
+   "subjectFullName": "卫生服务研究",
+   "subjectName": "卫生资源",
+   "publishYear": "2025",
+   "definition": "个人在其一生中，为适应社会发展与自身全面发展的需要，持续进行的自我主导或有组织的学习活动。"
+  },
+  {
+   "cn": "元学习",
+   "en": "meta-learning",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.5.13",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_生活技能教育",
+   "subjectName": "生活技能教育",
+   "publishYear": "2025",
+   "definition": "学习者对学习过程的认知和控制。元认知的一个分支，即元认知在学习领域的拓展应用。"
+  },
+  {
+   "cn": "学习环境",
+   "en": "learning environment",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.6.2.7.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_健康促进学校",
+   "subjectName": "健康促进学校",
+   "publishYear": "2025",
+   "definition": "促进学习的各种支持性条件的总称。包括情境、活动、资源、工具、学习支架、学习伙伴和学业评价等。"
+  },
+  {
+   "cn": "学习障碍",
+   "en": "learning disorder",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_儿童少年心理卫生问题",
+   "subjectName": "儿童少年心理卫生问题",
+   "publishYear": "2025",
+   "definition": "个体在听、说、读、写、算等方面显著落后于正常水平的现象。"
+  },
+  {
+   "cn": "学习动机",
+   "en": "learning motivation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.4.3.2",
+   "subjectFullName": "",
+   "subjectName": "学校心理健康促进",
+   "publishYear": "2025",
+   "definition": "激发个体启动、维持学习活动，并使其朝向特定的学习目标的一种内部动力机制。"
+  },
+  {
+   "cn": "学习负荷",
+   "en": "learning load",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习负荷",
+   "subjectName": "学习负荷",
+   "publishYear": "2025",
+   "definition": "学习时脑力工作的强度和时间。与教学内容的难度、数量，教学时间和方法及学生身心健康状况等有关。"
+  },
+  {
+   "cn": "课业学习",
+   "en": "schoolwork learning",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.5.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_作息制度卫生",
+   "subjectName": "作息制度卫生",
+   "publishYear": "2025",
+   "definition": "根据教师要求，学生在课上进行的学习活动。"
+  },
+  {
+   "cn": "社会学习理论",
+   "en": "social learning theory",
+   "source": "社会学名词",
+   "wordNumber": "4.1.2.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会心理学理论",
+   "subjectName": "社会心理学理论",
+   "publishYear": "2025",
+   "definition": "由美国心理学家班杜拉(Albert Bandura）提出的理论。认为人的行为可以藉由自身反应及所受强化的直接经验获得，但更为常见的是藉由观察他人（或榜样）的行为及其所受强化的间接经验获得。"
+  },
+  {
+   "cn": "结构化学习模式",
+   "en": "structured learning model",
+   "source": "社会学名词",
+   "wordNumber": "4.4.13.7",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作督导",
+   "subjectName": "社会工作督导",
+   "publishYear": "2025",
+   "definition": "强调系统化指导和学习的社会工作督导模式。基于教育模式，其强调要有周密的计划，按部就班，系统化地指导被督导者学习掌握相关知识技能，结合运用多种不同的教学方法和手段，尤其注重模拟教学法。"
+  },
+  {
+   "cn": "学风",
+   "en": "style of learning",
+   "source": "马克思主义",
+   "wordNumber": "03.0478",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国共产党党风的一个重要方面。是党的领导机关和干部党员的思想方法，特别是对待马克思列宁主义的态度。中国共产党倡导和坚持理论联系实际的学风。"
+  },
+  {
+   "cn": "马克思主义学习型政党",
+   "en": "Marxist learning Party",
+   "source": "马克思主义",
+   "wordNumber": "03.0791",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国共产党通过理论与实践相结合的不断学习，运用科学理论加以武装，具有世界眼光、善于把握规律、富有创新精神。是十七届四中全会从全面推进中国特色社会主义事业和党的建设新的伟大工程全局出发提出的一项重大战略"
+  },
+  {
+   "cn": "网络系统学习",
+   "en": "network system learning",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.2.3.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育方法",
+   "subjectName": "学校健康教育方法",
+   "publishYear": "2025",
+   "definition": "将与某教育项目有关的知识、信息和技能分门别类，编制成教学软件，放在学校计算机局域网上，学生通过计算机终端连接网络进行学习。"
+  },
+  {
+   "cn": "社会学习理论",
+   "en": "social learning theory",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.5.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_生活技能教育",
+   "subjectName": "生活技能教育",
+   "publishYear": "2025",
+   "definition": "班杜拉（Bandura）提出的个体可以通过观察他人的行为及行为后果来学习，进而形成自身行为的理论。"
+  },
+  {
+   "cn": "社会情感学习",
+   "en": "social-emotional learning",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.5.12",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_生活技能教育",
+   "subjectName": "生活技能教育",
+   "publishYear": "2025",
+   "definition": "获得和应用正确的自我认知、识别和管理情绪、设定和实现目标、感受和理解他人、建立和维持积极关系、作出负责任的决定等方面的知识、态度、技能的过程。"
+  },
+  {
+   "cn": "学习负荷评价",
+   "en": "learning load assessment",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习负荷评价",
+   "subjectName": "学习负荷评价",
+   "publishYear": "2025",
+   "definition": "评估学习时脑力工作的强度和时间的过程。"
+  },
+  {
+   "cn": "消毒机",
+   "en": "disinfection machine",
+   "source": "消毒学",
+   "wordNumber": "3.1.2.2",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "利用物理、化学或其他因子杀灭或去除微生物的有动力消毒装置，如水消毒机、空气消毒机、医疗器械清洗消毒机、内镜清洗消毒机等。"
+  },
+  {
+   "cn": "增长机器理论",
+   "en": "growth machine",
+   "source": "社会学名词",
+   "wordNumber": "3.4.5.4",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_政治经济学学派",
+   "subjectName": "政治经济学学派",
+   "publishYear": "2025",
+   "definition": "将经济增长作为城市发展的主要目标的理论。由罗根(John Logan）和莫洛敕(Harvey Molotch）提出，增长机器由金融资本家、工商业主、房地产商、政客以及投资者所组成的“城市增长联盟”推动"
+  },
+  {
+   "cn": "特定学习障碍",
+   "en": "specific learning disorder, SLD",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.2.3.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "智力正常儿童在阅读、书写、拼字、表达、计算等认知学习过程中存在一种或一种以上的特殊性障碍。通常在学龄期起病，其学习困难并非由视力或听力障碍、心理或神经障碍、心理社会困境或教育剥夺等因素所致。"
+  },
+  {
+   "cn": "早期学习机会",
+   "en": "opportunity for early learning",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.5.2.4",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童早期发展",
+   "subjectName": "儿童早期发展",
+   "publishYear": "2025",
+   "definition": "为婴幼儿提供学习身体运动、语言认知、社会交往和情绪调节技能的环境和机会。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

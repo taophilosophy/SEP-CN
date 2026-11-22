@@ -1,0 +1,722 @@
+{
+ "key": "social structures",
+ "term": "social structures",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-22T06:01:02+00:00",
+ "status": "ok",
+ "note": "variant=social structures; 审定公布名词库=6243; 海峡两岸名词对照库=1375; 其他来源数据库=219; 预公布名词数据库=746; jwt-direct（JWT 直连，raw 略；已滤维基 9 条）",
+ "hits": [
+  {
+   "cn": "社群结构",
+   "en": "social structure",
+   "source": "动物学名词",
+   "wordNumber": "7.041",
+   "subjectFullName": "动物学_动物生态学_种群生态学",
+   "subjectName": "种群生态学",
+   "publishYear": "2021",
+   "definition": "群体形成过程中的个体数量、性别比例、年龄结构、亲缘结构以及繁殖结构的综合结果。"
+  },
+  {
+   "cn": "社会结构",
+   "en": "social structure",
+   "source": "资源科学技术名词",
+   "wordNumber": "21.232",
+   "subjectFullName": "资源科学技术_人力资源学",
+   "subjectName": "人力资源学",
+   "publishYear": "2008",
+   "definition": "人力资源在教育水平、文化类别、宗教、职业、社会地位阶层、组织内雇佣等方面的结构。"
+  },
+  {
+   "cn": "科学的社会结构",
+   "en": "social structure of science",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.082",
+   "subjectFullName": "自然辩证法_科学、技术与社会_科学与社会",
+   "subjectName": "科学与社会",
+   "publishYear": "2024",
+   "definition": "包括两方面含义，一是指有利于科学发展的社会结构，默顿的科学社会学理论认为，科学是在特定的社会结构中发展起来的。二是指科学发展过程中形成的社会结构，是在科学建制化的过程中逐步形成与发展的。"
+  },
+  {
+   "cn": "人力资源社会结构形式",
+   "en": "social structure of human resources",
+   "source": "资源科学技术名词",
+   "wordNumber": "21.022",
+   "subjectFullName": "资源科学技术_人力资源学",
+   "subjectName": "人力资源学",
+   "publishYear": "2008",
+   "definition": "把一个社会或一个国家拥有的劳动人口看作一个整体，然后就其性质、作用与数量或比例分布进行分析而得出的不同结构类型。"
+  },
+  {
+   "cn": "社会性",
+   "en": "sociality",
+   "source": "行为医学名词",
+   "wordNumber": "1.027",
+   "subjectFullName": "行为医学_总论_行为基本概念",
+   "subjectName": "行为基本概念",
+   "publishYear": "2022",
+   "definition": "集体活动中的个体或社会成员表现出的有利于集体和社会发展的特性。"
+  },
+  {
+   "cn": "社会化",
+   "en": "socialization",
+   "source": "行为医学名词",
+   "wordNumber": "5.002",
+   "subjectFullName": "行为医学_行为的社会学基础_行为社会化",
+   "subjectName": "行为社会化",
+   "publishYear": "2022",
+   "definition": "个体接受社会教化、习得言语、行为及其内在心理结构，从自然人转为合格社会成员的过程。"
+  },
+  {
+   "cn": "社群化",
+   "en": "socialization",
+   "source": "动物学名词",
+   "wordNumber": "7.0319",
+   "subjectFullName": "动物学_动物生态学_个体生态学",
+   "subjectName": "个体生态学",
+   "publishYear": "2021",
+   "definition": "个体在特定的社群生活环境中，通过各种学习行为调整自己的适应性并积极作用于社群生活的过程。是动物个体和社群相互作用的结果。"
+  },
+  {
+   "cn": "社群性",
+   "en": "sociality",
+   "source": "动物学名词",
+   "wordNumber": "7.032",
+   "subjectFullName": "动物学_动物生态学_个体生态学",
+   "subjectName": "个体生态学",
+   "publishYear": "2021",
+   "definition": "动物种群中的个体倾向于在社会群体中形成合作社会的程度。"
+  },
+  {
+   "cn": "社会化",
+   "en": "socialization",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0739",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_知识管理",
+   "subjectName": "知识管理",
+   "publishYear": "2016",
+   "definition": "通过面对面的个人经验交流来分享隐性知识的过程。"
+  },
+  {
+   "cn": "社会化",
+   "en": "socialization",
+   "source": "心理学名词",
+   "wordNumber": "07.010",
+   "subjectFullName": "心理学_社会心理学",
+   "subjectName": "社会心理学",
+   "publishYear": "2014",
+   "definition": "个体接受社会教化，习得语言、行为及其内在心理结构，从自然人转化为合格社会成员的过程。"
+  },
+  {
+   "cn": "社会救助",
+   "en": "social assistance,social relief",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0493",
+   "subjectFullName": "管理科学技术_公共管理_政府管理",
+   "subjectName": "政府管理",
+   "publishYear": "2016",
+   "definition": "国家或社会依法建立的、面向无法维持最低生活水平的社会困难群体提供款物接济和扶助的社会保障制度。"
+  },
+  {
+   "cn": "社会习惯语",
+   "en": "social idiom,social dialect",
+   "source": "语言学名词",
+   "wordNumber": "05.231",
+   "subjectFullName": "语言学_语义学、词汇学_熟语",
+   "subjectName": "熟语",
+   "publishYear": "2011",
+   "definition": "各种社会集团、职业集团以及不同阶层内部使用的词语。是由于社会上各种不同行业、集团和阶层内部的交际需要而产生的词语。包括术语、行业语、集团语、阶级习惯语等。"
+  },
+  {
+   "cn": "群居寄生",
+   "en": "social parasitism,social symbiosis",
+   "source": "昆虫学名词",
+   "wordNumber": "06.148",
+   "subjectFullName": "昆虫学_昆虫生态学",
+   "subjectName": "昆虫生态学",
+   "publishYear": "2000",
+   "definition": "共生的一种形式。群居于社会性昆虫巢内，不是直接以宿主，而是以它的储粮为食的昆虫。"
+  },
+  {
+   "cn": "结构",
+   "en": "structure",
+   "source": "档案学名词",
+   "wordNumber": "06.01.016",
+   "subjectFullName": "档案学_电子文件管理_综合",
+   "subjectName": "综合",
+   "publishYear": "2024",
+   "definition": "文件内容信息的组织方式和表达方式。文件的组成要素之一。组织方式如正文和附件，表达方式如格式等。按照存在方式，结构可分为逻辑结构和物理结构。"
+  },
+  {
+   "cn": "结构",
+   "en": "structure",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "9.071",
+   "subjectFullName": "新闻学与传播学_组织传播_组织传播结构",
+   "subjectName": "组织传播结构",
+   "publishYear": "2022",
+   "definition": "表明组织各部分排列顺序、空间位置、聚散状态、联系方式及各要素之间相互关系的排列组成模式，是整个组织传播管理系统的框架。"
+  },
+  {
+   "cn": "[地质]构造",
+   "en": "structure",
+   "source": "地球物理学名词",
+   "wordNumber": "02.0287",
+   "subjectFullName": "地球物理学_地球动力学_大陆构造演化",
+   "subjectName": "大陆构造演化",
+   "publishYear": "2022",
+   "definition": "地壳或岩石层各个组成部分的形态及其相互结合的方式和面貌特征的总称。 "
+  },
+  {
+   "cn": "组织",
+   "en": "structure",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "12.006",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_磨料磨具_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "指磨具中磨粒、结合剂和孔隙的组成比例和分布状态。"
+  },
+  {
+   "cn": "结构",
+   "en": "structure",
+   "source": "建筑学名词",
+   "wordNumber": "13.0092",
+   "subjectFullName": "建筑学_建筑结构_结构类型",
+   "subjectName": "结构类型",
+   "publishYear": "2014",
+   "definition": "能承受作用并具有适当刚度的由各连接部件有机组合而成的整体。"
+  },
+  {
+   "cn": "结构",
+   "en": "structure",
+   "source": "语言学名词",
+   "wordNumber": "04.120",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "由若干单位按照一定的组合关系所形成的语言组合体。通常体现为合成词、词组（短语）等。"
+  },
+  {
+   "cn": "组织",
+   "en": "structure",
+   "source": "航天科学技术名词",
+   "wordNumber": "12.337",
+   "subjectFullName": "航天科学技术_航天材料",
+   "subjectName": "航天材料",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "社群结构",
+   "en": "social structure",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "社群结构",
+   "en": "social structure",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "社会化",
+   "en": "socialization",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "社会性",
+   "en": "sociality",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "社群化",
+   "en": "socialization",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "社群性",
+   "en": "sociality",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "社会寄生",
+   "en": "social parasitism\",\"social symbiosis",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "结构",
+   "en": "structure",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "结构",
+   "en": "structure",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "θ结构",
+   "en": "θ-structure",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "结构主义",
+   "en": "structuralism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "造构",
+   "en": "structuration",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "社会成本",
+   "en": "social cost",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "社会关系",
+   "en": "social relation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "社会心理学",
+   "en": "social psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "社会接触",
+   "en": "social contact",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "社会建构主义",
+   "en": "social constructivism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "社会风险",
+   "en": "social risk",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "社会认可，社会赞许",
+   "en": "social approval",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "社会禁忌",
+   "en": "social taboo",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "结构",
+   "en": "Structure",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社会计算",
+   "en": "Social Computing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社会数据",
+   "en": "social data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社交软件",
+   "en": "social software",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社会媒体",
+   "en": "social media",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社交金融",
+   "en": "Social Finance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社交基金",
+   "en": "social fund",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社交性投资者",
+   "en": "social investor",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社会技术",
+   "en": "social technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社会网络",
+   "en": "social network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社会救济",
+   "en": "social remedy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社会结构",
+   "en": "social structure",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.16",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "社会整体或社会系统各组成部分或构成要素之间比较持久、相对稳定的相互关联模式或存在方式，即社会构成要素之间的相互关系按照一定的秩序形成相对稳定的网络格局。具有复杂性、整体性、层次性、相对稳定性等重要特点"
+  },
+  {
+   "cn": "社会结构",
+   "en": "social structure",
+   "source": "马克思主义",
+   "wordNumber": "03.0160",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "社会各基本组成要素按照一定的方式所构成的相对稳定、持久的网络。在社会活动中，人与自然之间、人与人之间、人与团体之间、团体与团体之间不断相互作用，形成了相对固定的各种关系，这些社会关系按照一定的方式组合"
+  },
+  {
+   "cn": "社会结构",
+   "en": "social structure",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.009",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "社会体系各组成部分或诸要素之间比较持久、稳定的相互联系模式。"
+  },
+  {
+   "cn": "社会结构",
+   "en": "social structure",
+   "source": "社会医学名词",
+   "wordNumber": "3.4",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "社会结构",
+   "publishYear": "2025",
+   "definition": "社会构成要素之间的相互关系按照一定的秩序形成相对稳定的网络格局。具有复杂性、整体性、层次性、相对稳定性等重要特点。如阶级或阶层结构、社会的组织结构、权力结构等。"
+  },
+  {
+   "cn": "二元社会结构",
+   "en": "dualistic social structure",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0649",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "新古典“结构-功能论”在“社会结构”研究领域的概念。为观察中国的经济社会结构转型提出的两个（一对）新概念：“伞式社会”用于观察“官方”主导的资源配置和经济社会发展，“蜂窝式社会”用于观察“普通老百姓”"
+  },
+  {
+   "cn": "社会结构性因素",
+   "en": "social structural factors",
+   "source": "社会医学名词",
+   "wordNumber": "3.1.1",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "社会因素",
+   "publishYear": "2025",
+   "definition": "决定日常生活环境的社会政治经济条件，主要包括政治治理、社会政策与文化，以及社会规范与价值观，反映权力、财富和资源的分配模式。"
+  },
+  {
+   "cn": "社会网络结构",
+   "en": "structure of social network",
+   "source": "社会学名词",
+   "wordNumber": "2.7.1.2",
+   "subjectFullName": "社会学名词_社会学一般概念_社会网络与社会资本_社会网络分析",
+   "subjectName": "社会网络分析",
+   "publishYear": "2025",
+   "definition": "社会关系的整体或部分的形态特征，包括规模、密度、中心度、派系、结构对称等特征。"
+  },
+  {
+   "cn": "城乡二元社会结构",
+   "en": "urban-rural social structure",
+   "source": "社会学名词",
+   "wordNumber": "3.4.13.5",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_中国现代城市",
+   "subjectName": "中国现代城市",
+   "publishYear": "2025",
+   "definition": "在整个社会结构体系中，城市社会为一元、农村社会为另一元的分离状态。其核心内容是以农业和非农业人口作为身份标记，在公共管理与社会保障方面实行区别对待政策，即非农业人口享有高于农业人口的社会待遇。在两种不"
+  },
+  {
+   "cn": "资本积累的社会结构理论",
+   "en": "social structure of accumulation theory",
+   "source": "马克思主义",
+   "wordNumber": "05.0149",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "美国大卫·戈登（David Gordon）等提出和发展的理论，指为确保单个资本家能够进行资本积累,由一系列制度构成的整体。由四项制度结构构成:积累的当事人即公司结构；积累的动力即竞争结构和阶级斗争结构"
+  },
+  {
+   "cn": "社会化",
+   "en": "socialization",
+   "source": "社会学名词",
+   "wordNumber": "2.3.1.1",
+   "subjectFullName": "社会学名词_社会学一般概念_社会化_社会化",
+   "subjectName": "社会化",
+   "publishYear": "2025",
+   "definition": "社会规范和文化价值在个体身上内化(internalize)的过程。个体在家庭、学校等社会环境中，通过多种形式的人际互动，以及知识、技能的学习，学会扮演社会角色，认同并接受群体的规范体系和意义体系，并依"
+  },
+  {
+   "cn": "社会化",
+   "en": "socialization",
+   "source": "马克思主义",
+   "wordNumber": "03.0158",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "通过社会互动而形成个体的社会属性，促使个体与社会保持一致性，实现个体的社会生活的过程。具体来说，是自然人通过各种方式逐渐学习社会知识、技能与规范，熟悉社会的风俗、习惯、道德、法律，确立生活目标、价值观"
+  },
+  {
+   "cn": "社会主义",
+   "en": "socialism",
+   "source": "马克思主义",
+   "wordNumber": "03.0170",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与资本主义对立的思想体系和社会制度。社会主义一词来源于古拉丁文，一说由socialis（同伴的、同伙的）一词引出，一说由socius（喜欢社交的）一词引出，原有社会的、共同的、集体的生活之意。科学社会"
+  },
+  {
+   "cn": "社会化",
+   "en": "socialization",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.11.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "个体接受社会教化，习得语言、行为及其内在心理结构，从自然人转化为合格社会成员的过程。"
+  },
+  {
+   "cn": "社会化",
+   "en": "socialization",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0041",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "自然人成长为社会人的过程。即一个人出生以后，通过与其他社会成员、群体和组织的互动、学习和接受社会知识、技能和规范，不断适应社会生活的过程。"
+  },
+  {
+   "cn": "积累的社会结构学派",
+   "en": "school of social structure of accumulation",
+   "source": "马克思主义",
+   "wordNumber": "05.0156",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "积累的社会结构是由大卫·戈登（David Gordon）于1978年提出、由一批学者进一步发展而形成的一个学派（SSA学派）。该学派认为资本主义积累过程是在一个稳定、有利的制度环境和制度集合体中进行的"
+  },
+  {
+   "cn": "社会模式",
+   "en": "social pattern，social model",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.18",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "民族国家或世界某一地区根据自己的基本国情（或地区情况）和文化传统形成的具有自身历史和文明特色的社会发展道路、社会运行机制和社会管理的一定式样。"
+  },
+  {
+   "cn": "社会环境",
+   "en": "social environment，social milieu",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.19",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "人类生存及活动范围内的社会物质与精神条件的总和。即由人与人之间各种社会关系和社会意识所形成的、人活动的外部条件及其影响的综合。包括整个经济、政治、文化和社会体系。特指人类生活的直接客观的社会条件，如家"
+  },
+  {
+   "cn": "社会分裂",
+   "en": "social cleavage，social dissociation",
+   "source": "社会学名词",
+   "wordNumber": "2.1.4.14",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会现象",
+   "subjectName": "社会现象",
+   "publishYear": "2025",
+   "definition": "社会成员或群体因在政治、经济、文化、宗教、种族或阶级等方面存在巨大差异而彼此分开并处于相互矛盾甚至敌视的状态。"
+  },
+  {
+   "cn": "社会淘汰",
+   "en": "social cleaning，social selection",
+   "source": "社会学名词",
+   "wordNumber": "2.1.5.21",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会生活",
+   "subjectName": "社会生活",
+   "publishYear": "2025",
+   "definition": "社会优胜劣汰的现象。即面对社会变迁、发展而来的新环境新事物，一些社会主体因具有适应能力而获得保留或胜出，而另一些则由于缺乏适应性而落伍甚至遭到摒弃的社会现象。"
+  },
+  {
+   "cn": "社会环境",
+   "en": "social environment;social milieu",
+   "source": "社会医学名词",
+   "wordNumber": "3.3",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "社会环境",
+   "publishYear": "2025",
+   "definition": "由人与人之间各种社会关系和社会意识所形成的、人活动的外部条件及其影响的综合。包括整个经济、政治、文化和社会体系。特指人类生活的直接客观的社会条件，如家庭、邻里、学校、劳动组织和其他社团等。与自然环境相"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

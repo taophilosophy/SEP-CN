@@ -1,0 +1,742 @@
+{
+ "key": "representational content",
+ "term": "representational content",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-22T05:59:47+00:00",
+ "status": "ok",
+ "note": "variant=representational content; 审定公布名词库=2166; 海峡两岸名词对照库=642; 其他来源数据库=118; 预公布名词数据库=108; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "表征",
+   "en": "representation",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.009",
+   "subjectFullName": "新闻学与传播学_传播总论_传播行为与活动",
+   "subjectName": "传播行为与活动",
+   "publishYear": "2022",
+   "definition": "用象征符号代替或再现事物，通过代替，引起我们对该事物的想象。"
+  },
+  {
+   "cn": "表象",
+   "en": "representation",
+   "source": "物理学名词",
+   "wordNumber": "06.0427",
+   "subjectFullName": "物理学_相对论、量子理论_量子理论",
+   "subjectName": "量子理论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "表征",
+   "en": "representation",
+   "source": "生物物理学名词",
+   "wordNumber": "07.108",
+   "subjectFullName": "生物物理学_生物控制论_计算神经科学",
+   "subjectName": "计算神经科学",
+   "publishYear": "2018",
+   "definition": "外界信息在系统内部的一种表达方式。"
+  },
+  {
+   "cn": "表征",
+   "en": "representation",
+   "source": "心理学名词",
+   "wordNumber": "02.494",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "反映外部现实的内部认知符号。"
+  },
+  {
+   "cn": "可表示性",
+   "en": "representability",
+   "source": "数学名词",
+   "wordNumber": "02.0083",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "内容",
+   "en": "content",
+   "source": "档案学名词",
+   "wordNumber": "06.01.017",
+   "subjectFullName": "档案学_电子文件管理_综合",
+   "subjectName": "综合",
+   "publishYear": "2024",
+   "definition": "文件中所包含的表达作者意图的信息。文件的构成要素之一。"
+  },
+  {
+   "cn": "内容",
+   "en": "content",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "17.072",
+   "subjectFullName": "新闻学与传播学_媒体与传播法_公民(法人)的表达自由及禁限",
+   "subjectName": "公民(法人)的表达自由及禁限",
+   "publishYear": "2022",
+   "definition": "指向最终用户或观众的信息和体验。是通过某种媒介如言语、写作、艺术、现场活动等予以表达的东西。这个统称式的词汇将创作的价值一般化，无论是“写作”的作家，还是“拍电影”的制作人，都是“内容提供者”。内容本"
+  },
+  {
+   "cn": "内装物",
+   "en": "content",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.0633",
+   "subjectFullName": "食品科学技术_食品工程_食品专用技术与装备_贮藏保鲜",
+   "subjectName": "贮藏保鲜",
+   "publishYear": "2020",
+   "definition": "包装件内所装的产品或物品。"
+  },
+  {
+   "cn": "含量",
+   "en": "content",
+   "source": "计量学名词",
+   "wordNumber": "15.058",
+   "subjectFullName": "计量学_化学_化学测量的量",
+   "subjectName": "化学测量的量",
+   "publishYear": "2015",
+   "definition": "物质中所含组分的质量、摩尔或体积分数。"
+  },
+  {
+   "cn": "库容",
+   "en": "content",
+   "source": "数学名词",
+   "wordNumber": "011.0556",
+   "subjectFullName": "数学_运筹学_库存论·存储论",
+   "subjectName": "库存论?存储论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "争用",
+   "en": "contention",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.357",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "当两个站或更多个站在同一条公用传输信道上同时试图进行发送时，或者当彼此通常以单工方式操作的两个站同时试图进行发送时所引起的状态。"
+  },
+  {
+   "cn": "争用",
+   "en": "contention",
+   "source": "电子学名词",
+   "wordNumber": "21.371",
+   "subjectFullName": "电子学_通信",
+   "subjectName": "通信",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "建筑表现",
+   "en": "architectural representation",
+   "source": "风景园林名词",
+   "wordNumber": "07.0106",
+   "subjectFullName": "风景园林_风景园林建筑_设计技巧与表达",
+   "subjectName": "设计技巧与表达",
+   "publishYear": "2025",
+   "definition": "研究设计方案，表现设计构思的手段。主要有：方案设计阶段研究方案使用的设计草图（包括徒手草图与工具草图）；方案基本确定之后表现与介绍方案所用的各种建筑效果图；方案实施阶段所用的建筑工程图。"
+  },
+  {
+   "cn": "表现技法",
+   "en": "representation technique",
+   "source": "风景园林名词",
+   "wordNumber": "10.0032",
+   "subjectFullName": "风景园林_风景园林教育_风景园林学本科学位教育课程",
+   "subjectName": "风景园林学本科学位教育课程",
+   "publishYear": "2025",
+   "definition": "风景园林学科学位教育课程之一，讲授内容包括传统表现技法（水彩、水粉、彩色铅笔、马克笔等）、数字表现技术等。"
+  },
+  {
+   "cn": "心理表征",
+   "en": "mental representation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.551",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "认知科学中心智的计算理论的基本概念。认知状态和认知过程在某种类型的信息载体，如大脑结构中的生成、变换和存储，是认知主体用以反映认知对象的认知加工的对象。广义的理解是具有语义属性的心理对象。"
+  },
+  {
+   "cn": "知识表示",
+   "en": "knowledge representation",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.007",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "把知识客体中的知识因子与知识关联起来，便于人们识别和理解知识。"
+  },
+  {
+   "cn": "媒介再现",
+   "en": "media representation",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "15.035",
+   "subjectFullName": "新闻学与传播学_传播与社会发展_理论与方法",
+   "subjectName": "理论与方法",
+   "publishYear": "2022",
+   "definition": "传媒组织或个人通过选择、排除和建构，将散乱的事实元素或符号聚合成一个供受众理解其意义的过程。这一过程通常被看作政治性的。有能力、有权力选择与组合符号并进行传播的人或机构，透过其再现的文本可展示不同的意"
+  },
+  {
+   "cn": "简化画法",
+   "en": "simplified representation",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0197",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械制图_二维制图",
+   "subjectName": "二维制图",
+   "publishYear": "2021",
+   "definition": "包括规定画法、省略画法、示意画法等在内的图示方法。"
+  },
+  {
+   "cn": "规定画法",
+   "en": "specified representation",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0198",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械制图_二维制图",
+   "subjectName": "二维制图",
+   "publishYear": "2021",
+   "definition": "对标准中规定的某些特定表达对象，所采用的特殊图示方法。"
+  },
+  {
+   "cn": "省略画法",
+   "en": "omissive representation",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0199",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械制图_二维制图",
+   "subjectName": "二维制图",
+   "publishYear": "2021",
+   "definition": "通过省略重复投影、重复要素、重复图形等达到使图样简化的图示方法。"
+  },
+  {
+   "cn": "表征",
+   "en": "representation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "表征[再现]",
+   "en": "representation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "表示",
+   "en": "representation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "含量",
+   "en": "content",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "含量",
+   "en": "content",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "争用",
+   "en": "contention",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "表征思维",
+   "en": "representational thought",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "心理表征",
+   "en": "mental representation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "符号表征",
+   "en": "symbolic representation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "社会表征",
+   "en": "social representation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "命题表征",
+   "en": "propositional representation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "内部表征",
+   "en": "internal representation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "问题表征",
+   "en": "problem representation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "双重表征",
+   "en": "dual representation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "霍沃思表达式",
+   "en": "Haworth representation",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "地图表示方法",
+   "en": "cartographic representation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "矢量表示",
+   "en": "vector representation",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "数据表示",
+   "en": "data representation",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "密度表示法",
+   "en": "dasymetric representation",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "透视法",
+   "en": "perspective representation",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "知识表示",
+   "en": "knowledge representation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "文本表示",
+   "en": "text representation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "内容制作",
+   "en": "content creation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "内容法定",
+   "en": "statutory content",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络表示学习",
+   "en": "network representation learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "亚符号表示",
+   "en": "sub-symbolic representation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "文质",
+   "en": "Form and Content",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "内容管理框架",
+   "en": "content management framework",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字内容管理",
+   "en": "digital content management",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字内容产业",
+   "en": "digital content industry",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "内容安全监管",
+   "en": "content security supervision",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非结构化数据表示规范",
+   "en": "unstructured data representation specification",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "全要素数字表达技术",
+   "en": "total-factor digital representation technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "内容",
+   "en": "content",
+   "source": "马克思主义",
+   "wordNumber": "01.0056",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“形式”相对。指构成事物内部各种要素的总和，是事物存在的基础。它包括事物的各种内在矛盾以及由这些矛盾所决定的事物的特征、运动的过程和发展的趋势等。"
+  },
+  {
+   "cn": "社会表征",
+   "en": "social representations",
+   "source": "社会学名词",
+   "wordNumber": "4.1.7.3",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会认知",
+   "subjectName": "社会认知",
+   "publishYear": "2025",
+   "definition": "某一群体所共享的价值、观念及实践系统。作为一种社会共识性的知识体系，它具有双重功能，一是为个体在特定生活世界中的生存进行定向，二是提供可借以进行社会交流及对现实世界与个体、群体历史进行明晰分类的符号，"
+  },
+  {
+   "cn": "集体表象",
+   "en": "collective representation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0523",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "法国社会学家涂尔干（Émile Durkheim）提出的概念，指为某一特定社会的大多数人所接收的共同信仰和感觉，是社会强加给个人的观念，不是人从直接的经验中取得的。"
+  },
+  {
+   "cn": "内毒素含量",
+   "en": "endotoxin content",
+   "source": "消毒学",
+   "wordNumber": "6.2.31.1.1",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "革兰氏阴性菌合成的存在于细菌细胞壁最外层的脂多糖的含量。"
+  },
+  {
+   "cn": "内容分析",
+   "en": "content analysis",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.15",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "以系统和定量的方式刻画给定文本的意义的分析技术。"
+  },
+  {
+   "cn": "内容效度",
+   "en": "content validity",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.76",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "有某个量度符合测量目的和要求的程度来测量其效度的方法。"
+  },
+  {
+   "cn": "报告内容",
+   "en": "report content",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.6.1.4.5",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学校突发公共卫生事件管理",
+   "subjectName": "学校突发公共卫生事件管理",
+   "publishYear": "2025",
+   "definition": "责任报告单位和责任报告人在获得突发公共卫生事件相关信息后，对于符合报告要求的事件按照由下至上报告的原则，向所在地区人民政府卫生行政部门或有关单位报告事件信息和事件发生、发展、控制过程的信息。"
+  },
+  {
+   "cn": "酒精度",
+   "en": "alcohol content",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.12.5.2",
+   "subjectFullName": "食品卫生学_食品_酒类",
+   "subjectName": "酒类",
+   "publishYear": "2025",
+   "definition": "以蒸馏法去除样品中的不挥发性物质，用密度瓶法测出试样（酒精水溶液）20 度时的密度，求得在20 度时乙醇含量的体积分数。"
+  },
+  {
+   "cn": "内容分析",
+   "en": "content analysis",
+   "source": "社会医学名词",
+   "wordNumber": "4.2.3.2",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "定性研究",
+   "publishYear": "2025",
+   "definition": "对定性调查所获取信息资料的内容作结构化分析的方法。"
+  },
+  {
+   "cn": "内容效度",
+   "en": "content validity",
+   "source": "社会医学名词",
+   "wordNumber": "4.9.2.2",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "量表",
+   "publishYear": "2025",
+   "definition": "评价量表所涉及的内容，能在多大程度上覆盖研究目的要求达到的各个方面和领域。是一个由专家主观评价的测量结果与试图要达到的目标之间接近程度的指标。"
+  },
+  {
+   "cn": "安全水分",
+   "en": "Safe Moisture content",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.1.15",
+   "subjectFullName": "食品卫生学_食品_粮食",
+   "subjectName": "粮食",
+   "publishYear": "2025",
+   "definition": "在利用完好仓储设施储粮并采取科学保粮措施的条件下，保证粮食安全度夏储存的水分含量。"
+  },
+  {
+   "cn": "阳极热容量",
+   "en": "anode heat content",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.53",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "加载期间累积或加载后保留在X射线管阳极中的热量瞬间值。"
+  },
+  {
+   "cn": "放射性含量计",
+   "en": "radioactive content meter",
+   "source": "放射卫生学",
+   "wordNumber": "6.5.4.11",
+   "subjectFullName": "放射卫生学_放射防护_工业应用的放射防护_核仪表及其他应用",
+   "subjectName": "核仪表及其他应用",
+   "publishYear": "2025",
+   "definition": "带有放射源，用于分析物体中元素成分或物质含量的测量装置。"
+  },
+  {
+   "cn": "形式与内容",
+   "en": "form and content",
+   "source": "马克思主义",
+   "wordNumber": "01.0057",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "构成事物统一体的两个不可分割的基本方面。形式与内容相互依存，没有无形式的内容，也没有无内容的形式。内容决定形式，形式依赖于内容，并随着内容的发展而改变。形式反作用于内容，影响内容。在一定条件下，二者可"
+  },
+  {
+   "cn": "残留溶剂量",
+   "en": "residual solvent content",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.10.4.18",
+   "subjectFullName": "食品卫生学_食品_食用油脂",
+   "subjectName": "食用油脂",
+   "publishYear": "2025",
+   "definition": "油脂中留存的浸出溶剂含量。以1 千克油脂中浸出溶剂的质量分数毫克每千克（mg/kg）表示。"
+  },
+  {
+   "cn": "危险水分",
+   "en": "dangerous moisture content",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.1.13",
+   "subjectFullName": "食品卫生学_食品_粮食",
+   "subjectName": "粮食",
+   "publishYear": "2025",
+   "definition": "某种粮食在常规储存条件下，极易发热、霉变的最低水分含量"
+  },
+  {
+   "cn": "挥发性物质含量",
+   "en": "volatile substances content",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.12.5.6",
+   "subjectFullName": "食品卫生学_食品_酒类",
+   "subjectName": "酒类",
+   "publishYear": "2025",
+   "definition": "在特定条件下对酒类进行干燥所损失物质（乙醇除外）的质量。"
+  },
+  {
+   "cn": "单位含量剂量函数",
+   "en": "dose per content function",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.24",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "待积有效剂量系数（或组织器官当量剂量系数）与摄入单位活度的放射性核素t天时体内或器官活度m(t)（或日排泄量的预期值）的比值。"
+  },
+  {
+   "cn": "半安全水分",
+   "en": "semi-Safe moisture content",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.1.14",
+   "subjectFullName": "食品卫生学_食品_粮食",
+   "subjectName": "粮食",
+   "publishYear": "2025",
+   "definition": "介于安全水分和危险水分之间的水分含量"
+  },
+  {
+   "cn": "【军队卫生】监督内容",
+   "en": "military health supervision content",
+   "source": "军事预防医学名词",
+   "wordNumber": "1.4.3",
+   "subjectFullName": "军事预防医学_军事预防医学_军队卫生监督",
+   "subjectName": "军队卫生监督",
+   "publishYear": "2025",
+   "definition": "通过预防性和经常性监督，将食品卫生、环境卫生、军事作业与训练卫生、传染病防治等纳入规范化管理。其本质是将军事卫生法规与战斗力保障需求转化为具体执行标准，确保军队日常与战时良好卫生状态，为战斗力生成提供"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

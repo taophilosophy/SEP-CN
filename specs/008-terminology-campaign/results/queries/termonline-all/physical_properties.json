@@ -1,0 +1,722 @@
+{
+ "key": "physical properties",
+ "term": "physical properties",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-22T05:55:45+00:00",
+ "status": "ok",
+ "note": "variant=physical properties; 审定公布名词库=945; 海峡两岸名词对照库=253; 其他来源数据库=71; 预公布名词数据库=140; jwt-direct（JWT 直连，raw 略；已滤维基 9 条）",
+ "hits": [
+  {
+   "cn": "物性",
+   "en": "physical property",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "02.001",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_物质的基础物性与分子模拟",
+   "subjectName": "物质的基础物性与分子模拟",
+   "publishYear": "2024",
+   "definition": "物质在一定的状态下表现出来的物理性质。"
+  },
+  {
+   "cn": "矿物物性",
+   "en": "physical property",
+   "source": "地质学名词",
+   "wordNumber": "04.224",
+   "subjectFullName": "地质学_矿物学",
+   "subjectName": "矿物学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "土的物理性质",
+   "en": "soil physical property",
+   "source": "地质学名词",
+   "wordNumber": "17.02.095",
+   "subjectFullName": "地质学_工程地质学_工程岩土学",
+   "subjectName": "工程岩土学",
+   "publishYear": "2026",
+   "definition": "土本身由于三相物质相互比例和排列不同所表现的自然属性。如轻重、干湿、松密等。具体用土粒的相对密度、土的密度、含水率、饱和度、孔隙度、孔隙比等指标来说明。"
+  },
+  {
+   "cn": "土壤物理性质",
+   "en": "soil physical property",
+   "source": "风景园林名词",
+   "wordNumber": "12.0062",
+   "subjectFullName": "风景园林_风景园林生态_植物生态学",
+   "subjectName": "植物生态学",
+   "publishYear": "2025",
+   "definition": "能用物理术语和方程描述，由物理力引起的土壤特性、过程和反应。如土壤密度、导水率等。"
+  },
+  {
+   "cn": "物性模块",
+   "en": "physical property module",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "02.002",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_物质的基础物性与分子模拟",
+   "subjectName": "物质的基础物性与分子模拟",
+   "publishYear": "2024",
+   "definition": "用于计算物性的软件功能模块。常见的物性模块分为基础物性模块和热力学物性模块。"
+  },
+  {
+   "cn": "物性数据库",
+   "en": "physical property database",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "02.003",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_物质的基础物性与分子模拟",
+   "subjectName": "物质的基础物性与分子模拟",
+   "publishYear": "2024",
+   "definition": "用于储存物性参数的数据库。"
+  },
+  {
+   "cn": "物性数据",
+   "en": "physical property data",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "03.101",
+   "subjectFullName": "化工（五）_研发与工程化_基础研究与技术开发",
+   "subjectName": "基础研究与技术开发",
+   "publishYear": "2021",
+   "definition": "有关物质的物态、沸点、熔点、密度、饱和蒸气压随温度变化曲线、气液平衡、组成等数据。"
+  },
+  {
+   "cn": "食品物性",
+   "en": "food physical property",
+   "source": "食品科学技术名词",
+   "wordNumber": "02.0268",
+   "subjectFullName": "食品科学技术_食品科学_食品物理",
+   "subjectName": "食品物理",
+   "publishYear": "2020",
+   "definition": "食品原料及其加工过程中的热学性质、力学性质、电学性质、光学性质等物理性质。"
+  },
+  {
+   "cn": "土壤物理性质",
+   "en": "soil physical property",
+   "source": "林学名词",
+   "wordNumber": "02.202",
+   "subjectFullName": "林学_林学基础_森林土壤",
+   "subjectName": "森林土壤",
+   "publishYear": "2016",
+   "definition": "由物理因子引起的土壤特性、过程和反应，并能用物理术语和方程描述的性质。"
+  },
+  {
+   "cn": "土壤物理性质",
+   "en": "soil physical property",
+   "source": "土壤学名词",
+   "wordNumber": "03.001",
+   "subjectFullName": "土壤学_土壤物理",
+   "subjectName": "土壤物理",
+   "publishYear": "1998",
+   "definition": "由物理力引起的土壤特性、过程和反应，并能用物理术语和方程描述。如土壤密度、导水率等。"
+  },
+  {
+   "cn": "物性型传感器",
+   "en": "physical property type transducer,physical property type sensor",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "06.0129",
+   "subjectFullName": "机械工程（一）_机械测量与控制_机械传感器",
+   "subjectName": "机械传感器",
+   "publishYear": "2021",
+   "definition": "利用材料的物理特性及其各种物理、化学效应检测被测量的传感器。"
+  },
+  {
+   "cn": "岩石物性",
+   "en": "physical properties of rock",
+   "source": "石油名词",
+   "wordNumber": "01.0022",
+   "subjectFullName": "石油_石油学总类",
+   "subjectName": "石油学总类",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "地下水物理性质",
+   "en": "physical property of groundwater",
+   "source": "地质学名词",
+   "wordNumber": "16.04.009",
+   "subjectFullName": "地质学_水文地质学_水文地球化学",
+   "subjectName": "水文地球化学",
+   "publishYear": "2026",
+   "definition": "地下水的相对密度、温度、透明度、颜色、味道、气味、导电性、放射性等物理特性的总和。"
+  },
+  {
+   "cn": "物性扩充功能",
+   "en": "physical property expansion function",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "02.033",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_物质的基础物性与分子模拟",
+   "subjectName": "物质的基础物性与分子模拟",
+   "publishYear": "2024",
+   "definition": "物性数据库系统或过程模拟软件中的物性模块具有的将用户自己的物性数据扩充到数据系统中的功能。"
+  },
+  {
+   "cn": "物性分析仪器",
+   "en": "analyzer for physical property",
+   "source": "机械工程名词 第三分册",
+   "wordNumber": "05.013",
+   "subjectFullName": "机械工程_仪器仪表_分析仪器_分析仪器一般名词",
+   "subjectName": "分析仪器一般名词",
+   "publishYear": "2003",
+   "definition": "利用不同原理对物质物理特性如黏度、密度、浊度、湿度等进行分析的仪器。"
+  },
+  {
+   "cn": "物性型传感器",
+   "en": "physical property type transducer",
+   "source": "机械工程名词 第三分册",
+   "wordNumber": "08.025",
+   "subjectFullName": "机械工程_仪器仪表_传感器_传感器一般名词",
+   "subjectName": "传感器一般名词",
+   "publishYear": "2003",
+   "definition": "利用材料的固定物理特性及其各种物理、化学效应检测被测量的传感器。"
+  },
+  {
+   "cn": "岩石水理性",
+   "en": "hydro-physical properties of rock",
+   "source": "冶金学名词",
+   "wordNumber": "02.0219",
+   "subjectFullName": "冶金学_采矿_岩石力学",
+   "subjectName": "岩石力学",
+   "publishYear": "2019",
+   "definition": "岩石与水相互作用时所表现的性质。"
+  },
+  {
+   "cn": "[岩石]物理机械性质",
+   "en": "physical-mechanical properties of rock",
+   "source": "石油名词",
+   "wordNumber": "05.0130",
+   "subjectFullName": "石油_石油钻井工程",
+   "subjectName": "石油钻井工程",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "土壤理化性状",
+   "en": "soil physical and chemical property ",
+   "source": "草学名词",
+   "wordNumber": "3.0719",
+   "subjectFullName": "草学_草地资源与利用",
+   "subjectName": "草地资源与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "粉煤灰物理特性",
+   "en": "physical property of fly ash",
+   "source": "电力名词",
+   "wordNumber": "24.023",
+   "subjectFullName": "电力_环境保护",
+   "subjectName": "环境保护",
+   "publishYear": "2020",
+   "definition": "粉煤灰的粒度或粒径分布、密度、磨损性、比表面积、孔隙率等特性。"
+  },
+  {
+   "cn": "物理性质",
+   "en": "physical property",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "财物",
+   "en": "property",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "捕捉特性",
+   "en": "snapping properties",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "海洋物理学",
+   "en": "marine physics\",\"ocean physics",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "大气特性",
+   "en": "atmospheric property",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "总体性质",
+   "en": "bulk property",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "临界性质",
+   "en": "critical property",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "结块性",
+   "en": "caking property",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "热物理性质",
+   "en": "thermophysical property",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "驻点性质",
+   "en": "stagnation property",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "运输性质",
+   "en": "transport property",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "财产税",
+   "en": "property tax",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "可测量性质",
+   "en": "measurable property",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "加成性",
+   "en": "additive property",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "动力性质",
+   "en": "kinetic property",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "密封性能",
+   "en": "sealing property",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "运动性质",
+   "en": "kinematic property",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "触变性质",
+   "en": "thixotropic property",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "强度性质",
+   "en": "intensive property",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "性质变化",
+   "en": "property change",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "财产",
+   "en": "property",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络财产",
+   "en": "network property",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "属性图",
+   "en": "property graph",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "系统属性",
+   "en": "System Property",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "财产权",
+   "en": "property right",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟财产",
+   "en": "virtual property",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "物色",
+   "en": "Physical Features",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "物理模型",
+   "en": "physical model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "物理结构",
+   "en": "physical structure",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "物理数据",
+   "en": "physical data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "实体场景",
+   "en": "physical scenario",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "财产",
+   "en": "property",
+   "source": "马克思主义",
+   "wordNumber": "04.0038",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "财产最初意味着劳动的主体把自己的生产或再生产的条件看作是自己的东西。马克思认为财产是在复杂的阶级和社会阶层的制度中起重要作用的一种基本关系。财产形式的变化是标志经济社会形态演替的主要特征。"
+  },
+  {
+   "cn": "体格发育",
+   "en": "physical development, physical growth",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体格发育",
+   "subjectName": "体格发育",
+   "publishYear": "2025",
+   "definition": "人体外部形态、身体比例和体型等方面随年龄而发生变化的过程。"
+  },
+  {
+   "cn": "抗渗水性",
+   "en": "waterproof property",
+   "source": "消毒学",
+   "wordNumber": "1.7.1.18",
+   "subjectFullName": "消毒学_消毒学_防护",
+   "subjectName": "防护",
+   "publishYear": "2025",
+   "definition": "织物能够防止被水润湿和浸透的能力。"
+  },
+  {
+   "cn": "财产性收入",
+   "en": "property income",
+   "source": "马克思主义",
+   "wordNumber": "02.0426",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "经济主体凭借拥有的动产（如银行存款、有价证券等）、不动产（如房屋、车辆、土地、收藏品等）所获得的收入。它包括出让财产使用权所获得的利息、租金、专利收入，以及财产营运所获得的红利收入、财产增值收益等。"
+  },
+  {
+   "cn": "族产",
+   "en": "clan property",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0149",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "宗族的公有财产，是维持家族制度的经济支柱。民间族产包括土地、耕牛、山场、桥渡、沿海滩涂及水利工程、水碓、碾房等生产和生活设施。"
+  },
+  {
+   "cn": "测量性能",
+   "en": "measurement property",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.2",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "测量工具质量的属性。包括信度、效度、反应度和可解释性等。"
+  },
+  {
+   "cn": "物理监测",
+   "en": "physical monitoring",
+   "source": "消毒学",
+   "wordNumber": "1.2.3.1",
+   "subjectFullName": "消毒学_消毒学_灭菌",
+   "subjectName": "灭菌",
+   "publishYear": "2025",
+   "definition": "使用内置或外配记录仪对灭菌器压力、温度等物理参数进行的监测。"
+  },
+  {
+   "cn": "物理消毒",
+   "en": "physical disinfection",
+   "source": "消毒学",
+   "wordNumber": "2.2",
+   "subjectFullName": "消毒学_消毒技术",
+   "subjectName": "消毒技术",
+   "publishYear": "2025",
+   "definition": "利用热、辐射、紫外线、静电等物理因子或过滤方式杀灭或清除有害微生物的消毒处理。"
+  },
+  {
+   "cn": "实体防护",
+   "en": "physical protection",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.7.3",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_设施防护安全",
+   "subjectName": "设施防护安全",
+   "publishYear": "2025",
+   "definition": "保护核材料或授权设施的措施，旨在防止未经授权获取或移除裂变材料或破坏保障措施。"
+  },
+  {
+   "cn": "物理去污",
+   "en": "physical decontamination",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.5.10",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护_核设施去污和退役",
+   "subjectName": "核设施去污和退役",
+   "publishYear": "2025",
+   "definition": "利用机械方法去除或降低物体表面放射性污染的过程。"
+  },
+  {
+   "cn": "体力劳动",
+   "en": "physical labor",
+   "source": "马克思主义",
+   "wordNumber": "01.0126",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“脑力劳动”相对。以消耗体力为主的劳动，脑力劳动在其中起辅助作用。体力劳动与脑力劳动的分离是历史的产物，随着生产力的发展，体力劳动和脑力劳动的对立差别将逐渐缩小、消除。"
+  },
+  {
+   "cn": "物理治疗",
+   "en": "physical therapy",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.7.2.5",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病常用药物及治疗",
+   "subjectName": "风湿免疫病常用药物及治疗",
+   "publishYear": "2025",
+   "definition": "应用力、电、光、声、磁、冷、热、水等方法对疾病进行预防、治疗和康复的方法。是物理医学与康复的一个重要组成部分。通常分运动疗法和物理因子疗法。"
+  },
+  {
+   "cn": "体能",
+   "en": "physical fitness",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体能发育",
+   "subjectName": "体能发育",
+   "publishYear": "2025",
+   "definition": "人体具备的能胜任日常工作和学习而不感到疲劳，同时有余力能充分享受休闲娱乐生活，又可应付突发紧急状况的能力。"
+  },
+  {
+   "cn": "身体活动",
+   "en": "physical activity",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.3.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体能发育",
+   "subjectName": "体能发育",
+   "publishYear": "2025",
+   "definition": "由骨骼肌收缩引起的，导致机体能量消耗增加的一切活动，包括职业性、交通性、日常生活体力活动及闲暇时的体育锻炼。"
+  },
+  {
+   "cn": "生理自我",
+   "en": "physical self",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.10.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "个人对自己身躯的认识。是自我意识最原始形态。"
+  },
+  {
+   "cn": "物质环境因素",
+   "en": "physical environment",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "人类赖以生存的物质基础。其与社会环境、生产生活方式共同决定儿童青少年生长发育的可实现性。"
+  },
+  {
+   "cn": "物理性环境污染",
+   "en": "physical pollution",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.2.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "现代工业生产、通信信息生产使用、现代生活等过程中由物理因素引起的环境污染。包括噪声污染、电磁辐射污染、放射性污染等。"
+  },
+  {
+   "cn": "体育锻炼",
+   "en": "physical exercise",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.4.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "以身体练习和运动负荷为手段 ,以健身健美、娱乐休闲、保健康复、心理智能锻炼为活动内容 ,为增强体质、增进身心健康 ,提高和保持机体能力而进行的一类体育运动。"
+  },
+  {
+   "cn": "物理性污染",
+   "en": "physical pollution",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.1.5.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_学校营养食物供应",
+   "subjectName": "学校营养食物供应",
+   "publishYear": "2025",
+   "definition": "食品中杂质超过规定的含量，或食品吸附、吸收外来的放射性核素引起的食品污染。"
+  },
+  {
+   "cn": "体育课",
+   "en": "physical education",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_体力活动与体育锻炼",
+   "subjectName": "体力活动与体育锻炼",
+   "publishYear": "2025",
+   "definition": "在一定单位时间内，使学生能在身体、运动认知、运动技能、情感和社会方面和谐发展的教学活动。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

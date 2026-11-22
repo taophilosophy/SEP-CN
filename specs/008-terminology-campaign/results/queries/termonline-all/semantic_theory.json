@@ -1,0 +1,692 @@
+{
+ "key": "semantic theory",
+ "term": "semantic theory",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-22T05:58:19+00:00",
+ "status": "ok",
+ "note": "variant=semantic theory; 审定公布名词库=2440; 海峡两岸名词对照库=839; 其他来源数据库=187; 预公布名词数据库=265; jwt-direct（JWT 直连，raw 略；已滤维基 12 条）",
+ "hits": [
+  {
+   "cn": "语义网络理论",
+   "en": "semantic network theory",
+   "source": "语言学名词",
+   "wordNumber": "05.025",
+   "subjectFullName": "语言学_语义学、词汇学_语义学与语义理论",
+   "subjectName": "语义学与语义理论",
+   "publishYear": "2011",
+   "definition": "用于表示词与词之间的语义关系的一种网络理论。1973年由美国人工智能专家赫伯特·西蒙（Herbert A.Simon,亦作司马贺）提出。其原理是以句中词的概念为网络的结点，以沟通结点之间的有向弧来表示"
+  },
+  {
+   "cn": "场论",
+   "en": "field theory,semantic field theory",
+   "source": "语言学名词",
+   "wordNumber": "05.027",
+   "subjectFullName": "语言学_语义学、词汇学_语义学与语义理论",
+   "subjectName": "语义学与语义理论",
+   "publishYear": "2011",
+   "definition": "一种语义理论。认为语言的词汇是一个意义间互相联系的整体系统，语言中的某些词可以在一个共同概念的支配下组成一个语义场。"
+  },
+  {
+   "cn": "理论的语义观",
+   "en": "semantic view of theory",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.130",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "认为科学理论是非语言的模型的集合。"
+  },
+  {
+   "cn": "语义学",
+   "en": "semantics",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.206",
+   "subjectFullName": "新闻学与传播学_传播总论_模式与方法",
+   "subjectName": "模式与方法",
+   "publishYear": "2022",
+   "definition": "研究语义表达的规律性、内在解释、不同语言在语义表达方面的个性以及共性。人类语言中，词汇可以有着许多不同的意义(meaning)，然而同一时代的词汇却往往有着相似的意义。对跨文化传播而言，语义学在于让人"
+  },
+  {
+   "cn": "语义",
+   "en": "semantics",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0005",
+   "subjectFullName": "计算机科学技术_系统软件_语言与编译",
+   "subjectName": "语言与编译",
+   "publishYear": "2018",
+   "definition": "语言中各个成分的含义。"
+  },
+  {
+   "cn": "语义学",
+   "en": "semantics",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0484",
+   "subjectFullName": "计算机科学技术_人工智能_计算语言学",
+   "subjectName": "计算语言学",
+   "publishYear": "2018",
+   "definition": "研究自然语言或人工语言的形式和意义间关系的语言学分支。"
+  },
+  {
+   "cn": "语义",
+   "en": "semantics",
+   "source": "数学名词",
+   "wordNumber": "02.0016",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "语义学",
+   "en": "semantics,linguistic semantics",
+   "source": "语言学名词",
+   "wordNumber": "05.001",
+   "subjectFullName": "语言学_语义学、词汇学_语义学与语义理论",
+   "subjectName": "语义学与语义理论",
+   "publishYear": "2011",
+   "definition": "①研究语言意义的学科。从研究角度和研究范畴可分为语言语义学、逻辑语义学、普通语义学、哲学语义学、文化语义学等；从历时发展角度可分为传统语义学和现代语义学；从理论模式角度可分为结构语义学、解释语义学、生"
+  },
+  {
+   "cn": "模型论式语义学",
+   "en": "model theory,model theoretic semantics",
+   "source": "语言学名词",
+   "wordNumber": "05.013",
+   "subjectFullName": "语言学_语义学、词汇学_语义学与语义理论",
+   "subjectName": "语义学与语义理论",
+   "publishYear": "2011",
+   "definition": "逻辑语义学的一个分支。其理论观点为当句子S得到解释I后取得真值，那么，I就是S的模式。"
+  },
+  {
+   "cn": "语义检索",
+   "en": "semantic retrieval,semantic search",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.046",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_检索技术与方法",
+   "subjectName": "检索技术与方法",
+   "publishYear": "2019",
+   "definition": "通过正确分析语法格式，在理解词语的准确意思和词语之间关系的条件下，检索系统根据要求从语义层面上自动从信息源中查询和提取有关信息的过程。"
+  },
+  {
+   "cn": "语义分析",
+   "en": "semantic analysis,semantic parsing",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0534",
+   "subjectFullName": "计算机科学技术_人工智能_计算语言学",
+   "subjectName": "计算语言学",
+   "publishYear": "2018",
+   "definition": "对自然语言进行分析并得到其意义的形式化表示的过程、技术和方法。"
+  },
+  {
+   "cn": "普通语义学",
+   "en": "general semantics,theoretic semantics",
+   "source": "语言学名词",
+   "wordNumber": "05.004",
+   "subjectFullName": "语言学_语义学、词汇学_语义学与语义理论",
+   "subjectName": "语义学与语义理论",
+   "publishYear": "2011",
+   "definition": "语义学的一个分支。主要研究语言交际中的意义问题。"
+  },
+  {
+   "cn": "语义引擎",
+   "en": "semantic engine",
+   "source": "农学名词",
+   "wordNumber": "16.226",
+   "subjectFullName": "农业信息_农业信息技术",
+   "subjectName": "农业信息技术",
+   "publishYear": "2025",
+   "definition": "利用语义模型进行信息检索的方法。"
+  },
+  {
+   "cn": "语义规则",
+   "en": "semantic rule",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.128",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "为特定符号或者单词赋予意义的约定俗成的规则。"
+  },
+  {
+   "cn": "语义真理",
+   "en": "semantic truth",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.131",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "特定形式语言的所有句子都可以根据它们的基本专名与谓词的指称给出明确的真的定义。"
+  },
+  {
+   "cn": "语义分析",
+   "en": "semantic analysis",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.132",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "一个关联句法结构的过程，从词组、分句、句子、段落、整篇文章，到独立于语言的意义。"
+  },
+  {
+   "cn": "语义的不可通约性",
+   "en": "semantic incommensurability",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.184",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会_历史转向",
+   "subjectName": "历史转向",
+   "publishYear": "2024",
+   "definition": "不存在一种中立语言，使得新、旧两种范式的陈述可以翻译到该语言，从而实现新、旧范式之间的合理性对比。"
+  },
+  {
+   "cn": "语义引擎",
+   "en": "semantic engine",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.687",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "由丹尼尔·丹尼特（Daniel Dennett）提出的。用于指代语义遵从语法的自动形式系统。其是智能的充分必要条件。"
+  },
+  {
+   "cn": "语义信息",
+   "en": "semantic information",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.688",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "语法上恰当排列的有意义的数据所组成的信息，其所携带的意义即信息的语义。"
+  },
+  {
+   "cn": "语义网络",
+   "en": "semantic network",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.040",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "用来表达复杂的概念及其之间的相互关系，其顶点表示概念，而边则表示概念间的语义关系，从而形成一个由节点和弧组成的语义网络描述图。"
+  },
+  {
+   "cn": "语义理论",
+   "en": "semantic theory",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "语义",
+   "en": "semantic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "语义学",
+   "en": "semantics",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "语义编码",
+   "en": "semantic encoding\",\"semantic coding",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "语义分析",
+   "en": "semantic analysis",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "语义网络",
+   "en": "semantic network",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "语义启动",
+   "en": "semantic priming",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "语义记忆",
+   "en": "semantic memory",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "语义知识",
+   "en": "semantic knowledge",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "语义码",
+   "en": "semantic code",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "语义信息",
+   "en": "semantic information",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "语义转换器",
+   "en": "semantic Translator",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "语义场",
+   "en": "semantic field",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "语义词典",
+   "en": "semantic dictionary",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "语义分析",
+   "en": "semantic analysis",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "语义合一",
+   "en": "semantic unification",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "语义记忆",
+   "en": "semantic memory",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "语义检查",
+   "en": "semantic test",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "语义距离",
+   "en": "semantic distance",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "语义属性",
+   "en": "semantic attribute",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "语义网络",
+   "en": "semantic network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "语义搜索",
+   "en": "semantic search",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "语义对等",
+   "en": "semantic equivalence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "语义模型",
+   "en": "semantic model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "语义建模",
+   "en": "semantic modeling",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "隐性语义索引",
+   "en": "latent semantic indexing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "分布语义假设",
+   "en": "distributional semantics hypothesis",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据语义标准",
+   "en": "data semantics standard",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "语义的不可通约性",
+   "en": "semantic incommensurability",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.184",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "不存在一种中立语言，使得新、旧两种范式的陈述可以翻译到该语言，从而实现新、旧范式之间的合理性对比。"
+  },
+  {
+   "cn": "语义差异量表",
+   "en": "semantic differential scale",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.47",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "以形容词的正反意义为基础、通过等值的评定等级测量态度和感知的量表。是20世纪40年代到50年代由奥斯古德发展的。"
+  },
+  {
+   "cn": "语义网络分析",
+   "en": "semantic network analysis",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.16",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "表现概念间语义关系的网络图.是一种常见的知识呈现形式。"
+  },
+  {
+   "cn": "表意文字",
+   "en": "semantic script; ideography",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0195",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "文字类型之一。字符本身或其结构单位与所记录的词的意义有一定联系而与所记录词的读音没有直接联系的书写符号系统。"
+  },
+  {
+   "cn": "理论",
+   "en": "theory",
+   "source": "马克思主义",
+   "wordNumber": "01.0119",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "关于自然、社会和人自身的本质规律的抽象、合乎逻辑的一般推论或假说。理论来源于实践，接受实践的检验。理论服务于实践，随着实践的发展而发展。"
+  },
+  {
+   "cn": "原型理论",
+   "en": "prototype theory",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0031",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "认知科学的一种理论模型。认为人类对事物进行分类（范畴化）的过程并不存在非此即彼的明确界限，某一范畴中的核心成员会比其他成员更具典型性。例如在“飞禽”这个范畴里，“燕雀”比“鸡鸭”更具“飞禽”的特征。语"
+  },
+  {
+   "cn": "波浪理论",
+   "en": "wave theory",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.003",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "研究语言演变的一种动态模型。一种创新的语言特征从起源地往外扩散，其影响类似波浪扩散、随传播距离逐渐减小。"
+  },
+  {
+   "cn": "阶层化社会理论",
+   "en": "caste theory",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0143",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "美国教育人类学家奥格布（John Uzo Ogbu）提出，他认为少数民族的历史经历、社会地位以及由此造成的各种障碍等，必然会影响他们的学习态度和教育期望。"
+  },
+  {
+   "cn": "扎根理论",
+   "en": "grounded theory",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.7",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "对定性资料进行归纳、抽绎出理论概念、生成理论洞见的定性资料分析方法。是由格拉泽和施特劳斯提出的。"
+  },
+  {
+   "cn": "测量理论",
+   "en": "measurement theory",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.23",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "关于测量的性质和方法的理论。主要包括经典测量理论、概化理论和项目反应理论三种理论模型。"
+  },
+  {
+   "cn": "概化理论",
+   "en": "generalizability theory",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.33",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "克伦巴赫等人在20世纪60至70年代初提出一种测量理论。思想上，认为测量对象的值受到测量条件和环境的影响；概念上，用全域分数代替了经典测量理论的真分数，用概括化系数代替了信度；技术上，应用方法分析技术"
+  },
+  {
+   "cn": "社会理论",
+   "en": "social theory",
+   "source": "社会学名词",
+   "wordNumber": "2.1.7.6",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会意识",
+   "subjectName": "社会意识",
+   "publishYear": "2025",
+   "definition": "以社会学视角和方法对人类社会现象及问题所进行的各种系统性的理论探讨。重点涉及一切关于社会何以构成、存续和变迁的理论思考，以及关于这类理论思考何以可能（或合理）的认识论探讨。与“应用社会学”相对。"
+  },
+  {
+   "cn": "冲突理论",
+   "en": "conflict theory",
+   "source": "社会学名词",
+   "wordNumber": "2.6.6.6",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会分层理论",
+   "subjectName": "社会分层理论",
+   "publishYear": "2025",
+   "definition": "与结构功能主义理论相对立的社会学理论流派，该派理论家借鉴马克思的阶级冲突理论或马克斯•韦伯的权力冲突观点，强调个人或群体之间的经济利益冲突和权力冲突，对结构功能主义理论（特别是功能主义社会分层理论）提"
+  },
+  {
+   "cn": "现代化理论",
+   "en": "modernization theory",
+   "source": "社会学名词",
+   "wordNumber": "2.9.1.1",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_现代化理论",
+   "subjectName": "现代化理论",
+   "publishYear": "2025",
+   "definition": "产生于20世纪50、60年代，以塔尔科特帕森斯、列维（M.J.Levy）、英克尔斯（A.Inkeles）和艾森斯塔德（S.N.Eisenstadt）等人为代表，以研究传统社会的现代转化为主旨的理论。"
+  },
+  {
+   "cn": "依附理论",
+   "en": "dependency theory",
+   "source": "社会学名词",
+   "wordNumber": "2.9.2.1",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_依附理论",
+   "subjectName": "依附理论",
+   "publishYear": "2025",
+   "definition": "产生于20世纪60年代后期的一种发展理论，以弗兰克（Andre Frank）、多斯桑托斯（Theotonio Dos Santos）、阿明（Samir Amin）等人为代表，认为发达国家和发展中国家之"
+  },
+  {
+   "cn": "紧张理论",
+   "en": "strain theory",
+   "source": "社会学名词",
+   "wordNumber": "2.10.2.4",
+   "subjectFullName": "社会学名词_社会学一般概念_社会问题与社会控制_社会越轨",
+   "subjectName": "社会越轨",
+   "publishYear": "2025",
+   "definition": "解释社会越轨行为的一种理论。认为当一些人无法通过合法手段达到社会普遍认可的成功目标时，就会产生挫折感等紧张情绪，从而形成个人的目标和社会规范之间的冲突状态，进而引发越轨行为或者犯罪行为。由美国社会学家"
+  },
+  {
+   "cn": "标签理论",
+   "en": "labeling theory",
+   "source": "社会学名词",
+   "wordNumber": "2.10.2.7",
+   "subjectFullName": "社会学名词_社会学一般概念_社会问题与社会控制_社会越轨",
+   "subjectName": "社会越轨",
+   "publishYear": "2025",
+   "definition": "解释社会越轨行为的一种理论。把越轨行为分为初级越轨行为和继发越轨行为，并认为越轨行为的性质不在于行为本身，而是社会的定义和解释。因此，只有当一个行为被社会定义为越轨行为时，其行为者才会成为越轨行为者。"
+  },
+  {
+   "cn": "立场论",
+   "en": "standpoint theory",
+   "source": "社会学名词",
+   "wordNumber": "3.2.3.9",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别研究",
+   "subjectName": "性别研究",
+   "publishYear": "2025",
+   "definition": "女性主义认识论的一种主流观点，对传统认识论中的主客体两分法和价值中立的客观性原则持批判态度，认为从妇女日常生活经验和边缘化的底层立场出发，可以产生比男性主流知识更少偏见、更具有客观性的好知识。"
+  },
+  {
+   "cn": "博弈论",
+   "en": "game theory",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.14",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "研究多个个体或团队之间在特定条件制约下的对局里，利用相关方的策略而实施对应策略的理论。认为参加斗争或竞争的各方有不同的目标或利益，为了达到各自的目标和利益，各方必须考虑对手各种可能的行动方案，并力图选"
+  },
+  {
+   "cn": "权变理论",
+   "en": "contingency theory",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.22",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "认为没有普遍适用的、最合理的管理模式与原则，内部特征与所处环境的要求相匹配的组织适应性最强，所以组织必须随机制宜地处理管理问题的理论观点。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

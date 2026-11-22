@@ -1,0 +1,612 @@
+{
+ "key": "molecular biology",
+ "term": "molecular biology",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-22T06:02:14+00:00",
+ "status": "ok",
+ "note": "variant=molecular biology; 审定公布名词库=1208; 海峡两岸名词对照库=507; 其他来源数据库=48; 预公布名词数据库=23; jwt-direct（JWT 直连，raw 略；已滤维基 20 条）",
+ "hits": [
+  {
+   "cn": "分子生物学",
+   "en": "molecular biology",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.0016",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "从分子水平上研究生物大分子（蛋白质、核酸等）的结构和功能、生命现象基本过程、分子间相互作用及基因表达调控机制等，以揭示各种生命现象本质的学科。"
+  },
+  {
+   "cn": "分子生物学",
+   "en": "molecular biology",
+   "source": "医学遗传学名词",
+   "wordNumber": "1.009",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "从分子水平探讨生物大分子的结构及其在遗传信息和细胞信息传递中的作用，阐明遗传、生殖、生长和发育等生命基本特征的分子机制的学科。"
+  },
+  {
+   "cn": "分子生物学",
+   "en": "molecular biology",
+   "source": "结核病学名词",
+   "wordNumber": "03.652",
+   "subjectFullName": "结核病学_结核病诊断_诊断方法_分子生物学与免疫学诊断",
+   "subjectName": "分子生物学与免疫学诊断",
+   "publishYear": "2019",
+   "definition": "从分子水平上研究生命现象物质基础的学科。主要研究细胞成分的物理、化学性质和变化及这些性质和变化与生命现象的关系，如遗传信息的传递，基因的结构、复制、转录、翻译、表达调控和表达产物的生理功能，以及细胞信"
+  },
+  {
+   "cn": "分子生物学",
+   "en": "molecular biology",
+   "source": "核医学名词",
+   "wordNumber": "01.0020",
+   "subjectFullName": "核医学_总论",
+   "subjectName": "总论",
+   "publishYear": "2018",
+   "definition": "在分子水平上研究生物大分子(如核酸、蛋白质)的结构、功能、生物合成和代谢等来阐明各种生命现象本质的学科。"
+  },
+  {
+   "cn": "分子生物学",
+   "en": "molecular biology",
+   "source": "药学名词",
+   "wordNumber": "05.002",
+   "subjectFullName": "药学_生物药学",
+   "subjectName": "生物药学",
+   "publishYear": "2014",
+   "definition": "生物学的一个分支，主要研究对生命重要的生物大分子的生成、结构和功能，如核酸、蛋白质及其在细胞复制和遗传信息传递中的作用。"
+  },
+  {
+   "cn": "分子细胞生物学",
+   "en": "molecular cell biology",
+   "source": "细胞生物学名词",
+   "wordNumber": "01.003",
+   "subjectFullName": "细胞生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2009",
+   "definition": "结合生物化学、遗传学，完整系统地从分子水平深入研究细胞的结构和功能的学科。"
+  },
+  {
+   "cn": "昆虫分子生物学",
+   "en": "insect molecular biology",
+   "source": "昆虫学名词",
+   "wordNumber": "01.029",
+   "subjectFullName": "昆虫学_昆虫学总类",
+   "subjectName": "昆虫学总类",
+   "publishYear": "2000",
+   "definition": "从分子水平上研究昆虫的生理、生化、免疫、遗传、生长、进化等生命现象的学科。"
+  },
+  {
+   "cn": "生物学",
+   "en": "biology",
+   "source": "核医学名词",
+   "wordNumber": "01.0015",
+   "subjectFullName": "核医学_总论",
+   "subjectName": "总论",
+   "publishYear": "2018",
+   "definition": "研究生命现象和生物活动规律的学科。"
+  },
+  {
+   "cn": "妇科肿瘤分子生物学",
+   "en": "molecular biology of gynecologic tumor",
+   "source": "妇科肿瘤学名词",
+   "wordNumber": "1.009",
+   "subjectFullName": "妇科肿瘤学_总论",
+   "subjectName": "总论",
+   "publishYear": "2022",
+   "definition": "在分子水平上研究生物大分子（如核酸、蛋白质）的结构、功能、生物合成和代谢等来阐明妇科肿瘤发生机制的学科。"
+  },
+  {
+   "cn": "重力生物学",
+   "en": "gravitational biology,gravity biology",
+   "source": "生物物理学名词",
+   "wordNumber": "11.001",
+   "subjectFullName": "生物物理学_空间与极端环境生物物理学",
+   "subjectName": "空间与极端环境生物物理学",
+   "publishYear": "2018",
+   "definition": "研究不同重力环境(如重力、失重、超重，主要是失重)对生物影响的规律，辨认重力敏感系统，分析生物机体所有组织层次上的重力敏感响应，以阐明重力在生命形成过程及进化、发育中作用的学科。重点研究生物进入宇宙空"
+  },
+  {
+   "cn": "进化生物学",
+   "en": "evolutionary biology",
+   "source": "农学名词",
+   "wordNumber": "06.026",
+   "subjectFullName": "作物基因组学与遗传育种_作物起源进化与多样性",
+   "subjectName": "作物起源进化与多样性",
+   "publishYear": "2025",
+   "definition": "研究生命起源、进化、物种多样性及遗传多样性形成演变的学科。"
+  },
+  {
+   "cn": "合成生物学",
+   "en": "synthetic biology",
+   "source": "农学名词",
+   "wordNumber": "15.081",
+   "subjectFullName": "农业生物技术_基因工程",
+   "subjectName": "基因工程",
+   "publishYear": "2025",
+   "definition": "运用系统生物学和工程学原理，综合生物化学、生物物理学和生物信息学等技术，设计、改造和重建生物合成路径，构建人工生物体系的一门新兴学科。"
+  },
+  {
+   "cn": "生物灾害",
+   "en": "biology disaster",
+   "source": "急救医学名词",
+   "wordNumber": "05.009",
+   "subjectFullName": "急救医学_灾难医学_基本概念_通用概念",
+   "subjectName": "通用概念",
+   "publishYear": "2025",
+   "definition": "有害生物对人类生产、生活和生态空间的人、财产、资源环境造成损害的自然灾害。如植物病害、植物虫害、草害、鼠害、赤潮灾害、疫情灾害和其他生物灾害等。"
+  },
+  {
+   "cn": "土壤生物学",
+   "en": "soil biology",
+   "source": "农学名词",
+   "wordNumber": "09.175",
+   "subjectFullName": "土壤肥料_土壤学",
+   "subjectName": "土壤学",
+   "publishYear": "2025",
+   "definition": "研究土壤中生物的种类、分布、功能及与土壤和环境间相互关系的学科。"
+  },
+  {
+   "cn": "进化生物学",
+   "en": "evolutionary biology",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.433",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_生物学哲学",
+   "subjectName": "生物学哲学",
+   "publishYear": "2024",
+   "definition": "研究生物进化过程和生物群落特征的综合性学科。包括生态学、行为学和分类学等。"
+  },
+  {
+   "cn": "结构生物学",
+   "en": "structural biology",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.0021",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "以生物大分子（蛋白质、核酸等）的特定空间结构与其生物学功能的关系为基础，阐明生命现象与活动规律的学科。其研究核心是蛋白质及其与核酸、脂质、糖类等生物大分子形成复合物、组装体的精确三维结构、运动和相互作"
+  },
+  {
+   "cn": "系统生物学",
+   "en": "systems biology",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.0024",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "通过计算机运算、数学分析和建模等方法研究复杂生物系统组成成分（如基因、RNA和蛋白质等）的构成，以及在特定条件下这些组分间相互关系的学科。"
+  },
+  {
+   "cn": "合成生物学",
+   "en": "synthetic biology",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.0025",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "利用生物学与工程学等的原理和技术，通过设计和合成新的生物元件、装置和系统，或是对已有的生物系统进行重新设计和改造实现特定的生物功能的学科。"
+  },
+  {
+   "cn": "发育生物学",
+   "en": "developmental biology",
+   "source": "兽医学名词",
+   "wordNumber": "07.019",
+   "subjectFullName": "兽医学_家畜胚胎学",
+   "subjectName": "家畜胚胎学",
+   "publishYear": "2023",
+   "definition": "应用现代生物学技术研究多细胞生物体从生殖细胞的发生、受精、胚胎发育、生长到衰老、死亡的机制和规律的学科。"
+  },
+  {
+   "cn": "保护生物学",
+   "en": "conservation biology ",
+   "source": "草学名词",
+   "wordNumber": "3.0235",
+   "subjectFullName": "草学_草地资源与利用",
+   "subjectName": "草地资源与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "分子生物学",
+   "en": "molecular biology",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "分子生物学",
+   "en": "molecular biology",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "分子生物学",
+   "en": "molecular biology",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "分子生物学",
+   "en": "molecular biology",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "分子细胞生物学",
+   "en": "molecular cell biology",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "结构分子生物学",
+   "en": "structural molecular biology",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "分子细胞生物学",
+   "en": "molecular cell biology",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "昆虫分子生物学",
+   "en": "insect molecular biology",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "发育生物学",
+   "en": "developmental biology",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "细胞生物学",
+   "en": "cell biology",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "成花生物学",
+   "en": "floral biology",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "植物生物学",
+   "en": "plant biology",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "种群生物学",
+   "en": "population biology",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "海洋生物学",
+   "en": "marine biology",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "环境生物学",
+   "en": "environmental biology",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "行星生物学",
+   "en": "planetary biology",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "种群生物学",
+   "en": "population biology",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "进化生物学",
+   "en": "evolutionary biology",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "海洋生物学",
+   "en": "marine biology",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "河口生物学",
+   "en": "estuarine biology",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "分子生物学",
+   "en": "molecular biology",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.1.1",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_检测方法",
+   "subjectName": "检测方法",
+   "publishYear": "2025",
+   "definition": "从分子水平上研究生命现象物质基础的学科。研究细胞成分的物理、化学的性质和变化以及这些性质和变化与生命现象的关系，如遗传信息的传递，基因的结构、复制、转录、翻译、表达调控和表达产物的生理功能，以及细胞信"
+  },
+  {
+   "cn": "分子放射生物学",
+   "en": "molecular radiation biology",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.5",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "从分子水平上研究电离辐射所致核酸、蛋白质等生物大分子的结构、功能、生物合成和代谢等变化来阐明电离辐射生物效应及其机制的学科。"
+  },
+  {
+   "cn": "合成生物学",
+   "en": "synthetic biology",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.23.19",
+   "subjectFullName": "食品卫生学_食品_其他食品",
+   "subjectName": "其他食品",
+   "publishYear": "2025",
+   "definition": "运用系统生物学和工程学原理，以基因组和生化分子合成为基础，整合生物领域化学、物理和信息等技术的学科。旨在设计、改造、重建生物分子、生物组件和生物分化过程，构建具有生命活性的生物组件、系统及人造细胞或生"
+  },
+  {
+   "cn": "细胞放射生物学",
+   "en": "cellular radiation biology",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.4",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "从亚细胞、细胞和细胞群体的不同层次结构及细胞间关系，动态系统地阐明电离辐射对细胞单位生命活动影响基本规律的学科。"
+  },
+  {
+   "cn": "社会生物学",
+   "en": "social biology/ Sociobiology",
+   "source": "社会学名词",
+   "wordNumber": "2.1.7.18",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会意识",
+   "subjectName": "社会意识",
+   "publishYear": "2025",
+   "definition": "以生物学、进化论、动物行为学、动物学、族群遗传学、种群生态学等多学科观点和方法研究生物的社会行为、组织功能、种群活动规律等一般生物界现象，并试图以此结论来解释人类行为和社会生活的交叉学科。由美国学者爱"
+  },
+  {
+   "cn": "分子蒸馏",
+   "en": "molecular distillation",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.3.3.8",
+   "subjectFullName": "食品卫生学_食品添加剂_食品用香精香料",
+   "subjectName": "食品用香精香料",
+   "publishYear": "2025",
+   "definition": "在高真空下依据不同物质分子运动平均自由程的差异而实现物质分离的方法"
+  },
+  {
+   "cn": "分子遗传学方法",
+   "en": "molecular genetic methods.",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.1.1.67",
+   "subjectFullName": "食品卫生学_食品污染_食品生物性危害因素",
+   "subjectName": "食品生物性危害因素",
+   "publishYear": "2025",
+   "definition": "在种群水平上，利用遗传标记和高通量测序的方法，对遗传多样性进行检测和分析。"
+  },
+  {
+   "cn": "病原体分子分型",
+   "en": "pathogen molecular subtyping",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.21.5",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "利用分子生物学技术，在DNA, RNA,蛋白质等生物大分子水平上对病原体进行精细区分和分类的方法。它不同于形态、生化反应、血清型等传统表型分型方法，能够从遗传本质上识别和区分不同来源的菌株或病毒株。"
+  },
+  {
+   "cn": "生物样品个人监测",
+   "en": "personal monitoring with biology sampling",
+   "source": "放射卫生学",
+   "wordNumber": "5.4.2.3",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测类型",
+   "subjectName": "辐射监测类型",
+   "publishYear": "2025",
+   "definition": "内照射个人监测的一种方法。通过测量人体的生物样品，包括尿、粪、血液、唾液和汗液等样品的放射性并估算人员体内放射性沉积量而进行的监测。"
+  },
+  {
+   "cn": "分子起始事件",
+   "en": "molecular initiating event, MIE",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.2.54",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "外源化学物与生物体接触，在分子水平上产生的能引起下游事件并导致有害结局所必需的分子间相互作用的原初事件。"
+  },
+  {
+   "cn": "食源性致病菌分子溯源",
+   "en": "foodborne pathogen molecular tracing",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.34",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "通过对病人和食品中食源性致病菌分离株进行分子分型和聚类分析，识别聚集性病例，指导病因性食品的溯源调查的监测过程。"
+  },
+  {
+   "cn": "生态",
+   "en": "ecology",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0221",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "生物在一定的自然环境下生存和发展的状态，也指生物的生理特性和生活习性。"
+  },
+  {
+   "cn": "社会生态学",
+   "en": "social ecology",
+   "source": "社会学名词",
+   "wordNumber": "2.1.7.11",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会意识",
+   "subjectName": "社会意识",
+   "publishYear": "2025",
+   "definition": "研究人类社会系统与其环境（包括自然环境与社会文化环境）相互作用规律的交叉学科，包括根据这些规律所制定的既有利于人类社会生存发展，又有助于维护自然生态平衡和天人和谐关系的最优化社会活动方案。由美国社会学"
+  },
+  {
+   "cn": "组织生态",
+   "en": "organizational ecology",
+   "source": "社会学名词",
+   "wordNumber": "2.5.9.5",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织结构",
+   "subjectName": "组织结构",
+   "publishYear": "2025",
+   "definition": "在特定边界内具有共同形态的组织种群的产生、成长和死亡的过程及其与环境转变之间的相互关系。组织生态学由哈南(M.T.Hannan）与弗里曼(J.H.Freeman）在1977年提出。"
+  },
+  {
+   "cn": "人类生态学",
+   "en": "human ecology",
+   "source": "社会学名词",
+   "wordNumber": "3.4.4.3",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_城市理论或流派",
+   "subjectName": "城市理论或流派",
+   "publishYear": "2025",
+   "definition": "研究城市环境的空间分布以及人与环境关系的学说。由以派克(Robert E.Park）、伯吉斯（Ernest W.Burgess）等社会学者为代表的芝加哥学派于20世纪20年代创立，强调城市的物质环境对"
+  },
+  {
+   "cn": "种群生态理论",
+   "en": "population ecology",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.21",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "探讨在特定边界内具有共同形态的全部组织的创立、成长及死亡的过程及其与环境转变的关系的理论。强调环境对组织的选择和组织对环境的适应，是组织学研究借用生物种群生态学方法的成果。由汉南(M.T.Hannan"
+  },
+  {
+   "cn": "深层生态学",
+   "en": "deep ecology",
+   "source": "社会学名词",
+   "wordNumber": "3.14.2.8",
+   "subjectFullName": "社会学名词_分支社会学_环境社会学_现代环境社会学理论",
+   "subjectName": "现代环境社会学理论",
+   "publishYear": "2025",
+   "definition": "一种认为人类是错综复杂的生命网络中的一部分的观点，植物、动物、山脉与河流都有其自身的权利，而不是仅为了人类的愉悦而存在。与“浅层生态学”相对。"
+  },
+  {
+   "cn": "浅层生态学",
+   "en": "shallow ecology",
+   "source": "社会学名词",
+   "wordNumber": "3.14.2.9",
+   "subjectFullName": "社会学名词_分支社会学_环境社会学_现代环境社会学理论",
+   "subjectName": "现代环境社会学理论",
+   "publishYear": "2025",
+   "definition": "一种认为人类高于生命网络中其他部分的观点。与“深层生态学”相对。"
+  },
+  {
+   "cn": "病因学归因",
+   "en": "etiology attribution",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.13.4",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "将食源性疾病病例按特定致病因素进行分类归因，如微生物病原体或生物毒素等。"
+  },
+  {
+   "cn": "共刺激分子",
+   "en": "costimulatory molecule",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.5.47",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_炎症介质",
+   "subjectName": "炎症介质",
+   "publishYear": "2025",
+   "definition": "位于抗原呈递细胞上，可将共刺激信号传递给幼稚T细胞的细胞表面蛋白。例如树突细胞上的B7分子，它们是幼稚T细胞上CD28的配体。其概念于1970年由布雷斯特谢（Brestcher）和科恩（Cohn）首先"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

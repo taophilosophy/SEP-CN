@@ -1,0 +1,782 @@
+{
+ "key": "moral beliefs",
+ "term": "moral beliefs",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-22T05:56:12+00:00",
+ "status": "ok",
+ "note": "variant=moral beliefs; 审定公布名词库=636; 海峡两岸名词对照库=194; 其他来源数据库=31; 预公布名词数据库=107; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "道德信念",
+   "en": "moral belief",
+   "source": "心理学名词",
+   "wordNumber": "09.091",
+   "subjectFullName": "心理学_教育心理学",
+   "subjectName": "教育心理学",
+   "publishYear": "2014",
+   "definition": "个体意识中根深蒂固的、并遵循、信奉的道德观念和道德理想。"
+  },
+  {
+   "cn": "信念",
+   "en": "belief",
+   "source": "行为医学名词",
+   "wordNumber": "4.084",
+   "subjectFullName": "行为医学_行为的心理学基础_动机与行为",
+   "subjectName": "动机与行为",
+   "publishYear": "2022",
+   "definition": "个体对某种思想或准则坚信不疑的看法或心理状态。"
+  },
+  {
+   "cn": "信念",
+   "en": "belief",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0155",
+   "subjectFullName": "管理科学技术_金融工程_原理",
+   "subjectName": "原理",
+   "publishYear": "2016",
+   "definition": "人们对未来不确定状态发生可能性的判断。广义的信念类似于预期；狭义的信念具体化为人们对事件发生的主观概率的估计。"
+  },
+  {
+   "cn": "信念",
+   "en": "belief",
+   "source": "心理学名词",
+   "wordNumber": "07.100",
+   "subjectFullName": "心理学_社会心理学",
+   "subjectName": "社会心理学",
+   "publishYear": "2014",
+   "definition": "个体对某种思想或准则坚信不移的心理状态。"
+  },
+  {
+   "cn": "信念",
+   "en": "belief",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "09.089",
+   "subjectFullName": "全科医学与社区卫生_社区健康教育与健康促进",
+   "subjectName": "社区健康教育与健康促进",
+   "publishYear": "2014",
+   "definition": "对某一现象或某一事物的存在或其合理性确信无疑的看法。"
+  },
+  {
+   "cn": "士气",
+   "en": "morale",
+   "source": "心理学名词",
+   "wordNumber": "12.053",
+   "subjectFullName": "心理学_管理心理学",
+   "subjectName": "管理心理学",
+   "publishYear": "2014",
+   "definition": "成员在追求共同组织目标时表现出来的一致性和持续性。"
+  },
+  {
+   "cn": "道德",
+   "en": "morality",
+   "source": "经济学名词",
+   "wordNumber": "05.043",
+   "subjectFullName": "经济学_制度经济学",
+   "subjectName": "制度经济学",
+   "publishYear": "2020",
+   "definition": "人们在社会生活实践中形成的关于善恶、是非的观念、情感和行为习惯，并依靠社会舆论和良心指导的人格完善与调节人与人、人与社会、人与自然关系的规范体系。道德是由经济关系最终决定、按照善恶标准来评价并依靠社会"
+  },
+  {
+   "cn": "规范信念",
+   "en": "normative belief",
+   "source": "行为医学名词",
+   "wordNumber": "2.082",
+   "subjectFullName": "行为医学_行为医学基本理论_健康行为与行为改变理论",
+   "subjectName": "健康行为与行为改变理论",
+   "publishYear": "2022",
+   "definition": "个体感知到的重要他人（包括配偶、家人、同伴等）对其行为改变的认可和倾向程度。由标准信念和遵从动机两个成分构成。"
+  },
+  {
+   "cn": "标准信念",
+   "en": "standard belief",
+   "source": "行为医学名词",
+   "wordNumber": "2.083",
+   "subjectFullName": "行为医学_行为医学基本理论_健康行为与行为改变理论",
+   "subjectName": "健康行为与行为改变理论",
+   "publishYear": "2022",
+   "definition": "个体感知到的重要他人对其行为改变的支持和期望程度。"
+  },
+  {
+   "cn": "不合理信念",
+   "en": "irrational belief",
+   "source": "行为医学名词",
+   "wordNumber": "2.1",
+   "subjectFullName": "行为医学_行为医学基本理论_认知理论",
+   "subjectName": "认知理论",
+   "publishYear": "2022",
+   "definition": "个体内心不现实、不合逻辑、站不住脚的信念。是绝对化、过分概括化、极端化的思想认识。"
+  },
+  {
+   "cn": "健康信念",
+   "en": "health belief",
+   "source": "行为医学名词",
+   "wordNumber": "7.057",
+   "subjectFullName": "行为医学_健康相关行为_健康促进行为_戒烟",
+   "subjectName": "戒烟",
+   "publishYear": "2022",
+   "definition": "个体如何看待健康和疾病，如何认识预防措施和疾病易感性的心理状态。"
+  },
+  {
+   "cn": "信念收缩",
+   "en": "belief contraction",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0028",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "信念变化的基本类型之一。旨在将一个信念从信念集中删除。"
+  },
+  {
+   "cn": "信念修正",
+   "en": "belief revision",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0025",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "信念变化的基本类型之一。将公式 A加到信念集K中，同时去掉K中能导出非A的语句，使获得的新信念集合协调，该过程称为用A修正K 。"
+  },
+  {
+   "cn": "信念固化",
+   "en": "belief consolidation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0027",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "有两种用法：①按斯文·汉森（Sven Ove Hansson）的用法，固化就是对信念集合实行逻辑协调的过程；②按奥尔森（E.J.Olsson）的用法，固化就是对信念集合实行逻辑协调加上认知均衡（稳固）"
+  },
+  {
+   "cn": "信念融合",
+   "en": "belief merging",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0030",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "两个或更多的信念集合合并在一起，同时维持其逻辑一致性的操作。"
+  },
+  {
+   "cn": "智能体的信念",
+   "en": "agent belief",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0163",
+   "subjectFullName": "计算机科学技术_人工智能_多智能体系统",
+   "subjectName": "多智能体系统",
+   "publishYear": "2018",
+   "definition": "智能体的思维属性之一。表示智能体对外部世界的感知和认识，以及为达到某种效果所可能采取的行为路线的知识。"
+  },
+  {
+   "cn": "信念扩展",
+   "en": "belief expansion",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0029",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "信念变化的基本类型之一。旨在将一个信念在集合论意义下加入现有信念集合中，该操作不保证结果的逻辑一致性。"
+  },
+  {
+   "cn": "相信逻辑",
+   "en": "belief logic",
+   "source": "计算机科学技术名词",
+   "wordNumber": "10.0237",
+   "subjectFullName": "计算机科学技术_信息安全_信息系统安全防护技术",
+   "subjectName": "信息系统安全防护技术",
+   "publishYear": "2018",
+   "definition": "实体分类为主体和客体，通过形式化推理证明，判断对客体相信度的逻辑。"
+  },
+  {
+   "cn": "消费者信念",
+   "en": "consumer belief",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0191",
+   "subjectFullName": "管理科学技术_市场营销_营销机会",
+   "subjectName": "营销机会",
+   "publishYear": "2016",
+   "definition": "消费者关于某些事物的描述性看法。"
+  },
+  {
+   "cn": "非理性信念",
+   "en": "irrational belief",
+   "source": "心理学名词",
+   "wordNumber": "15.061",
+   "subjectFullName": "心理学_咨询心理学",
+   "subjectName": "咨询心理学",
+   "publishYear": "2014",
+   "definition": "引发情绪困扰、行为失调的不合理想法。"
+  },
+  {
+   "cn": "信念",
+   "en": "belief",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "士气",
+   "en": "morale",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "道德",
+   "en": "morality",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "非理性信念",
+   "en": "irrational belief",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "消费者信念",
+   "en": "consumer belief",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "不良适应信念",
+   "en": "maladaptive belief",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "信念坚持",
+   "en": "belief perseverance",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "可信度函数",
+   "en": "belief function",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "相信逻辑",
+   "en": "belief logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "信念修正",
+   "en": "belief revision",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "道德推理",
+   "en": "moral reasoning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "道德解离",
+   "en": "moral disengagement",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "道德两难",
+   "en": "moral dilemma",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "道德判断",
+   "en": "moral judgement",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "道德焦虑",
+   "en": "moral anxiety",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "道德发展",
+   "en": "moral development",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "组织士气",
+   "en": "organizational morale",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自律道德",
+   "en": "autonomous morality",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "习俗道德",
+   "en": "conventional morality",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "前习俗道德",
+   "en": "preconventional morality",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "道心",
+   "en": "Moral Mind / Moral Consciousness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "风教",
+   "en": "Moral Cultivation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "崇德",
+   "en": "Moral Elevation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "德操",
+   "en": "Moral Integrity",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "气节",
+   "en": "Moral Integrity",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "深度置信网络",
+   "en": "deep belief network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "风化",
+   "en": "Influence of Moral Cultivation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "充实之谓美",
+   "en": "Moral Fulfillment Is Beauty Itself.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "德性之知",
+   "en": "Knowledge from One’s Moral Nature",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "情教",
+   "en": "Moral Instruction Carried Out with Emotion",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "德性",
+   "en": "Virtuous Nature / Morals as Human Nature",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "师出有名",
+   "en": "Fighting a War with a Moral Justification",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "在全社会弘扬真善美",
+   "en": "to promote high moral standards throughout society",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "以义制事",
+   "en": "Handle Matters According to Morality and Justice",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "积善成德",
+   "en": "Moral Character Can Be Built by Accumulating Goodness.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "称情立文",
+   "en": "Establish Moral Standards in Keeping with Human Feelings",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "和而不流",
+   "en": "Living in Harmony with Others Without Losing Moral Ground",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "道德信念",
+   "en": "moral belief",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.0170000000000001",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "个体对道德理想和道德要求等深刻而有根据的坚信，以及由此而产生的对履行道德义务的强烈责任感。它是道德认识、道德情感和道德意志的有机统一，具有稳定性和持久性。"
+  },
+  {
+   "cn": "信仰",
+   "en": "belief",
+   "source": "社会学名词",
+   "wordNumber": "3.9.1.2",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教信仰现象",
+   "subjectName": "宗教信仰现象",
+   "publishYear": "2025",
+   "definition": "关于某一或某些存在、意义、价值等的认识及认可。"
+  },
+  {
+   "cn": "信念",
+   "en": "belief",
+   "source": "社会学名词",
+   "wordNumber": "4.1.15.6",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会态度",
+   "subjectName": "社会态度",
+   "publishYear": "2025",
+   "definition": "人们对自身、他人、社会以及世界的心理表征体系中信以为真的成份。在很大程度上与个人早期经验有关，由个体所处的社会文化环境塑造而成。"
+  },
+  {
+   "cn": "信仰",
+   "en": "belief",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.03",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "对某种思想或宗教，或者对某人、某物的信奉和敬仰，并把这些奉为自己的行为准则。"
+  },
+  {
+   "cn": "信念",
+   "en": "belief",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.1079999999999999",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "对事实或可能成为事实的理论、理想或目标的内在确信。在道德品质的构成中，道德信念居于基本的和核心的地位，是人们的道德认识、道德情感和道德意志反映在道德实践基础上的有机统一，具有稳定性和持久性的特点。"
+  },
+  {
+   "cn": "德性",
+   "en": "moral",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.111",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "道德品性。个人在长期的道德实践中表现出来的比较稳定的、一贯的行为特征和心理倾向。通过道德认识、道德情感、道德信念、道德意志和道德行为等因素表现出来。"
+  },
+  {
+   "cn": "道德",
+   "en": "morality",
+   "source": "社会学名词",
+   "wordNumber": "2.8.2.4",
+   "subjectFullName": "社会学名词_社会学一般概念_社会制度_社会规范",
+   "subjectName": "社会规范",
+   "publishYear": "2025",
+   "definition": "基于社会普遍认同的善恶标准，用来评价人们行为是否符合公序良俗，并指引和调整社会成员之间关系的准则与规范的总和。"
+  },
+  {
+   "cn": "道德",
+   "en": "morality",
+   "source": "马克思主义",
+   "wordNumber": "01.0154",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "一种社会意识形态，以善恶为评价标准，依靠社会舆论和主体内在信念的力量来评价和调整人们之间相互关系的行为原则和规范的总和。道德是一个历史范畴，受社会生产方式制约。随生产方式的变化，形成不同的道德要求和道"
+  },
+  {
+   "cn": "道德",
+   "en": "morality",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.006",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人们共同生活、工作的行为准则和规范及其在人们内心形成的品德。它通过人们的自律和他律对社会生活起约束作用。"
+  },
+  {
+   "cn": "四信",
+   "en": "four beliefs",
+   "source": "马克思主义",
+   "wordNumber": "03.0647",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "江泽民在建党80周年讲话中强调：坚定对马克思主义的信仰、坚定对社会主义的信念、增强对改革开放和现代化建设的信心、增强对党和政府的信任，简称“四信”。这是针对改革开放过程中人们思想观念发生的变化而提出需"
+  },
+  {
+   "cn": "渔民信仰",
+   "en": "fishermen beliefs",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0056",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "渔民自发对某种思想或宗教或追求的信奉敬仰，具有很强的实际需求导向和禳灾祈福意象。渔民信仰对象繁多，如沿海渔民信仰海神龙王爷、妈祖、鱼神、潮神、港神、船神、礁神等；在中国比较常见的有妈祖信仰、龙王信仰和"
+  },
+  {
+   "cn": "超凡信仰",
+   "en": "paranormal belief",
+   "source": "社会学名词",
+   "wordNumber": "3.9.1.12",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教信仰现象",
+   "subjectName": "宗教信仰现象",
+   "publishYear": "2025",
+   "definition": "相信在日常经验和科学解释之外的某些现象的存在，例如神秘物质或能量、外太空生命、UFO等。"
+  },
+  {
+   "cn": "民间信仰",
+   "en": "folk-belief",
+   "source": "社会学名词",
+   "wordNumber": "4.2.3.17",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化人类学基本概念",
+   "subjectName": "文化人类学基本概念",
+   "publishYear": "2025",
+   "definition": "不具有明确的传人、严格的教义、严密的组织，同时又有内在体系和自身运作规则的一种信仰形态。具备日常生活和草根性的基本特征。"
+  },
+  {
+   "cn": "信仰圈",
+   "en": "belief circles",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.064",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "中国台湾人类学家林美容提出的概念，指以一个神（或他的分身）的信仰为中心的区域性信徒所形成的志愿性信徒组织。"
+  },
+  {
+   "cn": "民俗信仰",
+   "en": "folk belief",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0277",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "在长期的历史发展过程中，在民众中产生和传承的一套神灵崇拜观念、行为习惯和相应的仪式制度。"
+  },
+  {
+   "cn": "健康信念",
+   "en": "health belief",
+   "source": "社会医学名词",
+   "wordNumber": "10.2.1.5.1",
+   "subjectFullName": "政策与策略",
+   "subjectName": "策略",
+   "publishYear": "2025",
+   "definition": "个体对健康、疾病、风险和预防措施的主观认知与态度。"
+  },
+  {
+   "cn": "节操",
+   "en": "moral integrity",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.081",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "气节和操守的统称。前者表示一个人的精神力量，后者表示其道德品质。坚守某种被誉为高尚品质的行为表现。"
+  },
+  {
+   "cn": "道德规律",
+   "en": "moral law",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.023",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "道德发生、发展、变化及其诸要素之间客观的、内在的本质联系。社会经济关系决定道德的发展，同时受上层建筑中许多其他因素的影响。"
+  },
+  {
+   "cn": "道德评价",
+   "en": "moral evaluation",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.028",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "依据一定的道德标准对人们的道德行为和各种道德现象所作的善恶是非判断。包括自我评价和他人评价。其评价依据是动机与效果、目的与手段的辩证统一。"
+  },
+  {
+   "cn": "道德商谈",
+   "en": "moral discussion",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.032",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "德国哲学家尤尔根·哈贝马斯（Jürgen Habermas）提出的一种探究正义的方法。认为道德判断建立在以交往为基础的交往主体性上，而道德判断的普遍性原则就建立在主体之间的理性交往形成的普遍同意之上。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,732 @@
+{
+ "key": "social groups",
+ "term": "social groups",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-22T05:59:25+00:00",
+ "status": "ok",
+ "note": "variant=social groups; 审定公布名词库=5836; 海峡两岸名词对照库=1428; 其他来源数据库=289; 预公布名词数据库=834; jwt-direct（JWT 直连，raw 略；已滤维基 8 条）",
+ "hits": [
+  {
+   "cn": "社会团体",
+   "en": "social group",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0566",
+   "subjectFullName": "管理科学技术_公共管理_非政府组织管理",
+   "subjectName": "非政府组织管理",
+   "publishYear": "2016",
+   "definition": "以特定社群及其社会关系为基础形成的会员制的社会组织。具有志愿性、非营利性和非政府性等特征。"
+  },
+  {
+   "cn": "群居",
+   "en": "group;colony;social",
+   "source": "动物学名词",
+   "wordNumber": "7.0311",
+   "subjectFullName": "动物学_动物生态学_个体生态学",
+   "subjectName": "个体生态学",
+   "publishYear": "2021",
+   "definition": "（1）广义指同种生物的个体在特定的环境空间和特定时间内三个以上的个体居住生活在一起的现象。与独居相对应。（2）狭义常指许多相同世代的个体使用共同的巢，但无共同育幼的行为。"
+  },
+  {
+   "cn": "体育社会团体",
+   "en": "social sport group",
+   "source": "运动医学名词",
+   "wordNumber": "09.084",
+   "subjectFullName": "运动医学_反兴奋剂_中华人民共和国《反兴奋剂条例》",
+   "subjectName": "中华人民共和国《反兴奋剂条例》",
+   "publishYear": "2019",
+   "definition": "公民自愿组成并经合法登记成立的从事体育健身、娱乐、竞技、科研等活动的群众性体育组织。我国的体育社会团体主要有中华全国体育总会、中国奥林匹克委员会、中国体育科学学会、全国性单项体育协会、各行业(系统)体"
+  },
+  {
+   "cn": "群体猎食",
+   "en": "group predation;social predation",
+   "source": "动物学名词",
+   "wordNumber": "7.0248",
+   "subjectFullName": "动物学_动物生态学_个体生态学",
+   "subjectName": "个体生态学",
+   "publishYear": "2021",
+   "definition": "捕食者集群合作猎捕比它们体型大的猎物的过程。"
+  },
+  {
+   "cn": "社会团体监督",
+   "en": "supervision by social group",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0163",
+   "subjectFullName": "管理科学技术_公共管理_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "各种社会团体作为监督主体对公共管理实行监督的活动。"
+  },
+  {
+   "cn": "社会性",
+   "en": "sociality",
+   "source": "行为医学名词",
+   "wordNumber": "1.027",
+   "subjectFullName": "行为医学_总论_行为基本概念",
+   "subjectName": "行为基本概念",
+   "publishYear": "2022",
+   "definition": "集体活动中的个体或社会成员表现出的有利于集体和社会发展的特性。"
+  },
+  {
+   "cn": "社会化",
+   "en": "socialization",
+   "source": "行为医学名词",
+   "wordNumber": "5.002",
+   "subjectFullName": "行为医学_行为的社会学基础_行为社会化",
+   "subjectName": "行为社会化",
+   "publishYear": "2022",
+   "definition": "个体接受社会教化、习得言语、行为及其内在心理结构，从自然人转为合格社会成员的过程。"
+  },
+  {
+   "cn": "社群化",
+   "en": "socialization",
+   "source": "动物学名词",
+   "wordNumber": "7.0319",
+   "subjectFullName": "动物学_动物生态学_个体生态学",
+   "subjectName": "个体生态学",
+   "publishYear": "2021",
+   "definition": "个体在特定的社群生活环境中，通过各种学习行为调整自己的适应性并积极作用于社群生活的过程。是动物个体和社群相互作用的结果。"
+  },
+  {
+   "cn": "社群性",
+   "en": "sociality",
+   "source": "动物学名词",
+   "wordNumber": "7.032",
+   "subjectFullName": "动物学_动物生态学_个体生态学",
+   "subjectName": "个体生态学",
+   "publishYear": "2021",
+   "definition": "动物种群中的个体倾向于在社会群体中形成合作社会的程度。"
+  },
+  {
+   "cn": "社会化",
+   "en": "socialization",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0739",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_知识管理",
+   "subjectName": "知识管理",
+   "publishYear": "2016",
+   "definition": "通过面对面的个人经验交流来分享隐性知识的过程。"
+  },
+  {
+   "cn": "社会化",
+   "en": "socialization",
+   "source": "心理学名词",
+   "wordNumber": "07.010",
+   "subjectFullName": "心理学_社会心理学",
+   "subjectName": "社会心理学",
+   "publishYear": "2014",
+   "definition": "个体接受社会教化，习得语言、行为及其内在心理结构，从自然人转化为合格社会成员的过程。"
+  },
+  {
+   "cn": "群",
+   "en": "group",
+   "source": "地质学名词",
+   "wordNumber": "07.01.100",
+   "subjectFullName": "地质学_地史学与地层学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "比“ 组” 高一级的正式岩石地层单位。两个或两个以上相邻“组”的组合或一套还没有做过深入研究，很可能划分为若干“组”的岩系。通常用地名加“群”来命名。"
+  },
+  {
+   "cn": "分组",
+   "en": "group",
+   "source": "核医学名词",
+   "wordNumber": "01.0035",
+   "subjectFullName": "核医学_总论",
+   "subjectName": "总论",
+   "publishYear": "2018",
+   "definition": "根据某种规则对群体对象进行分类的过程或结果。"
+  },
+  {
+   "cn": "基",
+   "en": "group",
+   "source": "化学名词",
+   "wordNumber": "01.0135",
+   "subjectFullName": "化学_无机化学_元素及无机化学",
+   "subjectName": "元素及无机化学",
+   "publishYear": "2016",
+   "definition": "化合物中以共价键与其他组分相结合的中性原子团。"
+  },
+  {
+   "cn": "群体",
+   "en": "group",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0128",
+   "subjectFullName": "管理科学技术_一般管理理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "两个或两个以上的相互依赖的个体，为实现某一特定的目标而组成的集合体。"
+  },
+  {
+   "cn": "群体",
+   "en": "group",
+   "source": "心理学名词",
+   "wordNumber": "07.047",
+   "subjectFullName": "心理学_社会心理学",
+   "subjectName": "社会心理学",
+   "publishYear": "2014",
+   "definition": "两个及以上认为自己是其成员，并至少有一个他人认可的个体集合。"
+  },
+  {
+   "cn": "群",
+   "en": "group",
+   "source": "昆虫学名词",
+   "wordNumber": "02.096",
+   "subjectFullName": "昆虫学_昆虫分类与进化",
+   "subjectName": "昆虫分类与进化",
+   "publishYear": "2000",
+   "definition": "一组分类单元的泛称，可适用于不同阶元。"
+  },
+  {
+   "cn": "群",
+   "en": "group",
+   "source": "数学名词",
+   "wordNumber": "04.1736",
+   "subjectFullName": "数学_代数学_代数几何学_群论",
+   "subjectName": "群论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "群",
+   "en": "group",
+   "source": "地质学名词",
+   "wordNumber": "02.035",
+   "subjectFullName": "地质学_地史学和地层学",
+   "subjectName": "地史学和地层学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "七十七国集团",
+   "en": "Group 77",
+   "source": "世界历史名词",
+   "wordNumber": "01.0552",
+   "subjectFullName": "世界历史_综合_国家集团、国际组织",
+   "subjectName": "国家集团、国际组织",
+   "publishYear": "2012",
+   "definition": "1964年第一届联合国贸易和发展会议上，为反对超级大国和国际垄断资本，七十七个发展中国家联合发表宣言。此后历年举行部长级会议，被称为“七十七国集团”。"
+  },
+  {
+   "cn": "社会化",
+   "en": "socialization",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "社会性",
+   "en": "sociality",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "社群化",
+   "en": "socialization",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "社群性",
+   "en": "sociality",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "群体,团体",
+   "en": "group",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "基",
+   "en": "group",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "群",
+   "en": "group",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "类群",
+   "en": "group",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "群",
+   "en": "group",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "社会寄生",
+   "en": "social parasitism\",\"social symbiosis",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "并系[类]群，偏系群",
+   "en": "paralogous group\",\"paraphyletic group",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "偏系群（=并系[类]群）",
+   "en": "paralogous group\",\"paraphyletic group",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "团体测验",
+   "en": "group test\",\"group testing",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "端基",
+   "en": "end group\",\"terminal group",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "基节板群",
+   "en": "coxal group\",\"epimeron group",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "社会成本",
+   "en": "social cost",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "社会关系",
+   "en": "social relation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "社会心理学",
+   "en": "social psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "社会接触",
+   "en": "social contact",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "社会建构主义",
+   "en": "social constructivism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "“直过民族”",
+   "en": "the directly-entering-socialism ethnic groups",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "群",
+   "en": "Group",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "团体",
+   "en": "group",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "分组",
+   "en": "group",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "大集团",
+   "en": "group\",\"main group",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "分组",
+   "en": "grouping",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "大部队",
+   "en": "bunch\",\"group\",\"main group",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "社会计算",
+   "en": "Social Computing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社会数据",
+   "en": "social data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社交软件",
+   "en": "social software",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社会媒体",
+   "en": "social media",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社交金融",
+   "en": "Social Finance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社会群体",
+   "en": "social group",
+   "source": "社会学名词",
+   "wordNumber": "2.5.1.1",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_群体",
+   "subjectName": "群体",
+   "publishYear": "2025",
+   "definition": "介于个人与组织之间的人群结合体，通过一定的社会关系，由具有一定的共同信仰、理想、目标、兴趣、爱好或情感而结合起来进行共同活动的集体。"
+  },
+  {
+   "cn": "社会化",
+   "en": "socialization",
+   "source": "社会学名词",
+   "wordNumber": "2.3.1.1",
+   "subjectFullName": "社会学名词_社会学一般概念_社会化_社会化",
+   "subjectName": "社会化",
+   "publishYear": "2025",
+   "definition": "社会规范和文化价值在个体身上内化(internalize)的过程。个体在家庭、学校等社会环境中，通过多种形式的人际互动，以及知识、技能的学习，学会扮演社会角色，认同并接受群体的规范体系和意义体系，并依"
+  },
+  {
+   "cn": "社会化",
+   "en": "socialization",
+   "source": "马克思主义",
+   "wordNumber": "03.0158",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "通过社会互动而形成个体的社会属性，促使个体与社会保持一致性，实现个体的社会生活的过程。具体来说，是自然人通过各种方式逐渐学习社会知识、技能与规范，熟悉社会的风俗、习惯、道德、法律，确立生活目标、价值观"
+  },
+  {
+   "cn": "社会主义",
+   "en": "socialism",
+   "source": "马克思主义",
+   "wordNumber": "03.0170",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与资本主义对立的思想体系和社会制度。社会主义一词来源于古拉丁文，一说由socialis（同伴的、同伙的）一词引出，一说由socius（喜欢社交的）一词引出，原有社会的、共同的、集体的生活之意。科学社会"
+  },
+  {
+   "cn": "社会化",
+   "en": "socialization",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.11.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "个体接受社会教化，习得语言、行为及其内在心理结构，从自然人转化为合格社会成员的过程。"
+  },
+  {
+   "cn": "社会化",
+   "en": "socialization",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0041",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "自然人成长为社会人的过程。即一个人出生以后，通过与其他社会成员、群体和组织的互动、学习和接受社会知识、技能和规范，不断适应社会生活的过程。"
+  },
+  {
+   "cn": "集团",
+   "en": "group",
+   "source": "社会学名词",
+   "wordNumber": "2.5.7.6",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "为了一定的目的组织起来共同行动的团体。在我国多指企业集团、公司集团或多个公司为达成某种特定目标而在业务、流通、生产等方面联系紧密，从而聚集在一起形成的公司（或者企业）联盟。"
+  },
+  {
+   "cn": "小组",
+   "en": "group",
+   "source": "社会学名词",
+   "wordNumber": "4.4.8.11",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的方法模式",
+   "subjectName": "社会工作的方法模式",
+   "publishYear": "2025",
+   "definition": "社会工作服务的对象单位，由数个至十数个个人组成。小组的特征包括：有两个或两个以上的人；感到有整体意识且会维持一段时间；互相影响；有控制其成员相互影响的明确规范；有一套角色。"
+  },
+  {
+   "cn": "社会模式",
+   "en": "social pattern，social model",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.18",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "民族国家或世界某一地区根据自己的基本国情（或地区情况）和文化传统形成的具有自身历史和文明特色的社会发展道路、社会运行机制和社会管理的一定式样。"
+  },
+  {
+   "cn": "社会环境",
+   "en": "social environment，social milieu",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.19",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "人类生存及活动范围内的社会物质与精神条件的总和。即由人与人之间各种社会关系和社会意识所形成的、人活动的外部条件及其影响的综合。包括整个经济、政治、文化和社会体系。特指人类生活的直接客观的社会条件，如家"
+  },
+  {
+   "cn": "社会分裂",
+   "en": "social cleavage，social dissociation",
+   "source": "社会学名词",
+   "wordNumber": "2.1.4.14",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会现象",
+   "subjectName": "社会现象",
+   "publishYear": "2025",
+   "definition": "社会成员或群体因在政治、经济、文化、宗教、种族或阶级等方面存在巨大差异而彼此分开并处于相互矛盾甚至敌视的状态。"
+  },
+  {
+   "cn": "社会淘汰",
+   "en": "social cleaning，social selection",
+   "source": "社会学名词",
+   "wordNumber": "2.1.5.21",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会生活",
+   "subjectName": "社会生活",
+   "publishYear": "2025",
+   "definition": "社会优胜劣汰的现象。即面对社会变迁、发展而来的新环境新事物，一些社会主体因具有适应能力而获得保留或胜出，而另一些则由于缺乏适应性而落伍甚至遭到摒弃的社会现象。"
+  },
+  {
+   "cn": "社会环境",
+   "en": "social environment;social milieu",
+   "source": "社会医学名词",
+   "wordNumber": "3.3",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "社会环境",
+   "publishYear": "2025",
+   "definition": "由人与人之间各种社会关系和社会意识所形成的、人活动的外部条件及其影响的综合。包括整个经济、政治、文化和社会体系。特指人类生活的直接客观的社会条件，如家庭、邻里、学校、劳动组织和其他社团等。与自然环境相"
+  },
+  {
+   "cn": "社会福利社会化",
+   "en": "socialization of social welfare",
+   "source": "社会学名词",
+   "wordNumber": "4.3.4.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会政策思潮及理论",
+   "subjectName": "社会政策思潮及理论",
+   "publishYear": "2025",
+   "definition": "中国经济体制改革后社会福利领域改革的指导思想，即从计划经济下福利制度中的单位小社会转向建设市场经济为导向下的社会保障制度。包括投资主体多元化、服务对象公众化、服务方式多样化和服务队伍专业化四个方面的内"
+  },
+  {
+   "cn": "社会主义社会建设",
+   "en": "social construction of socialism",
+   "source": "马克思主义",
+   "wordNumber": "03.0689",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "社会主义的社会建设中“社会”是整个社会主义社会发展中与其经济、政治、文化相并列的一个领域。社会主义的社会建设，是通过动员社会力量、整合社会资源、协调利益关系、发展社会事业、完善社会功能、健全社会保障、"
+  },
+  {
+   "cn": "社会民主党工作小组",
+   "en": "Working Group of the Social Democratic Party",
+   "source": "马克思主义",
+   "wordNumber": "04.0413",
+   "subjectFullName": "马克思主义_其他部分_重要组织政党_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "德国社会民主党中派组织。1916年3月24日社会民主党国会党团中以胡戈·哈阿兹（Hugo Haase）为首的18人，在国会中投票反对新的战争拨款，被右派占多数的党团以决议宣布丧失党团成员资格后当即组成"
+  },
+  {
+   "cn": "社会支持",
+   "en": "social support",
+   "source": "社会医学名词",
+   "wordNumber": "3.5",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "社会支持",
+   "publishYear": "2025",
+   "definition": "通过帮助或安慰他人，协助其应对生理、心理及社会压力的行为。支持来源于个人社会网络，包括家庭成员、朋友或支持团体等。支持形式包括实际帮助、物质援助及情感支持。"
+  },
+  {
+   "cn": "社会功能状态",
+   "en": "social wellbeing",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.1.3",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "反映个体参与基本和复杂人际互动的状态。包含社会交往和社会资源。"
+  },
+  {
+   "cn": "社会公正",
+   "en": "social justice",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.0269999999999997",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "社会行为层面的公正。政府在分配社会资源时公而不偏，根据基本需求人人平等，非基本需求合理差等原则进行宏观卫生资源的分配。"
+  },
+  {
+   "cn": "社会认同",
+   "en": "social identity",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0087",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "个体认识到他属于特定的社会群体，同时也认识到作为群体成员带给他的情感和价值意义。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

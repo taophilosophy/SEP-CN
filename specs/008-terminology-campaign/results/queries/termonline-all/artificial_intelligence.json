@@ -1,0 +1,812 @@
+{
+ "key": "artificial intelligence",
+ "term": "artificial intelligence",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-22T05:56:51+00:00",
+ "status": "ok",
+ "note": "variant=artificial intelligence; 审定公布名词库=937; 海峡两岸名词对照库=263; 其他来源数据库=159; 预公布名词数据库=30; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "人工智能",
+   "en": "artificial intelligence",
+   "source": "农学名词",
+   "wordNumber": "16.211",
+   "subjectFullName": "农业信息_农业信息技术",
+   "subjectName": "农业信息技术",
+   "publishYear": "2025",
+   "definition": "模拟、延伸和扩展人的智能行为的现代信息技术。"
+  },
+  {
+   "cn": "人工智能",
+   "en": "artificial intelligence",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "01.106",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_通论",
+   "subjectName": "通论",
+   "publishYear": "2024",
+   "definition": "采用计算机自主模拟人的思维行为，以及采用符号的非算法的方法进行问题求解，是模拟人脑能力的一门实验性科学。是计算机科学的分支。"
+  },
+  {
+   "cn": "人工智能",
+   "en": "artificial intelligence",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.034",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "研究机器人、语言识别、图像识别、自然语言处理和专家系统等的技术科学。"
+  },
+  {
+   "cn": "人工智能",
+   "en": "artificial intelligence",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.01.058",
+   "subjectFullName": "编辑与出版学_数字出版_综述",
+   "subjectName": "综述",
+   "publishYear": "2022",
+   "definition": "研究用计算机模拟人类智力活动的理论和技术，如归纳与演绎推理过程、学习过程、探索过程、理解过程、形成并使用概念模型的能力、对模型分类的能力、模式识别及环境适应、进行医疗诊断等。人工智能的研究领域包括机器"
+  },
+  {
+   "cn": "人工智能",
+   "en": "artificial intelligence",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0001",
+   "subjectFullName": "计算机科学技术_人工智能",
+   "subjectName": "人工智能",
+   "publishYear": "2018",
+   "definition": "解释和模拟人类智能、智能行为及其规律的学科。主要任务是建立智能信息处理理论，进而设计可展现近似于人类智能行为的计算机系统。它是1956年提出的计算科学的一个分支, 但也是人文科学的一门研究对象。"
+  },
+  {
+   "cn": "人工智能",
+   "en": "artificial intelligence",
+   "source": "药学名词",
+   "wordNumber": "06.183",
+   "subjectFullName": "药学_药物分析",
+   "subjectName": "药物分析",
+   "publishYear": "2014",
+   "definition": "计算机科学与心理学相结合而产生的研究用计算机实现人的智能行为和功能的一门学科。人工智能的智能范畴一般包括人的智能行为，如图像和声音识别、学习、计划、决策、解决问题、自然语言理解等。"
+  },
+  {
+   "cn": "人工智能",
+   "en": "artificial intelligence",
+   "source": "语言学名词",
+   "wordNumber": "11.010",
+   "subjectFullName": "语言学_计算语言学_总论",
+   "subjectName": "总论",
+   "publishYear": "2011",
+   "definition": "利用计算机系统模拟人类智能活动的研究领域。包括专家系统、自然语言理解、机器学习、自动定理证明、模式识别、知识工程、智能数据库、自动编程、智能控制等。"
+  },
+  {
+   "cn": "人工智能",
+   "en": "artificial intelligence,AI",
+   "source": "心理学名词",
+   "wordNumber": "02.012",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "研究和设计具有智能的机器系统的学科。"
+  },
+  {
+   "cn": "人工智能",
+   "en": "artificial intelligence,AI",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.411",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "研究、开发用于模拟、延伸和扩展人的智能的理论、方法、技术及应用系统的一门新的技术科学。"
+  },
+  {
+   "cn": "人工智能",
+   "en": "artificial intelligence,AI",
+   "source": "化学工程名词",
+   "wordNumber": "05.016",
+   "subjectFullName": "化学工程_过程系统工程_过程系统工程",
+   "subjectName": "过程系统工程",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "人工智能",
+   "en": "artificial intelligence,AI",
+   "source": "自动化名词",
+   "wordNumber": "05.021",
+   "subjectFullName": "自动化科学技术_模式识别、智能控制与机器人_模式识别与智能控制",
+   "subjectName": "模式识别与智能控制",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "人工智能媒介",
+   "en": "artificial intelligence media",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.082",
+   "subjectFullName": "新闻学与传播学_传播总论_传播研究基础",
+   "subjectName": "传播研究基础",
+   "publishYear": "2022",
+   "definition": "以人工智能技术作为技术支撑运维的内容生产、聚合、分发类平台。所应用的人工智能技术包括图像视频识别技术、信息整合与文本分析技术、个性化推荐、机器人写作、AI主播等。"
+  },
+  {
+   "cn": "人工智能",
+   "en": "artificial intelligence;AI",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "13.051",
+   "subjectFullName": "新闻学与传播学_新媒体传播_新媒体传播技术基础",
+   "subjectName": "新媒体传播技术基础",
+   "publishYear": "2022",
+   "definition": "由人工制造出来的系统所表现出来的智能。一般的定义是“智能主体(intelligent agent)的研究与设计”，智能主体是指一个可以观察周遭环境并做出行动以达至目标的系统。AI的核心问题包括推理、知"
+  },
+  {
+   "cn": "强人工智能",
+   "en": "strong artificial intelligence",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.645",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "一种可以实现任何人类认知能力的智能机器。可以真正推理和解决问题，并被认为具有知觉和自我意识。"
+  },
+  {
+   "cn": "人工智能系统",
+   "en": "artificial intelligent system",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.002",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "能产生人类智能行为的计算机系统。"
+  },
+  {
+   "cn": "人工智能语言",
+   "en": "artificial intelligent language",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.003",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "适用于人工智能和知识工程领域，且具有符号处理和逻辑推理能力的一类计算机程序设计语言。"
+  },
+  {
+   "cn": "人工智能疾病诊断",
+   "en": "artificial intelligence-guided diagnosis",
+   "source": "整形外科名词",
+   "wordNumber": "10.016",
+   "subjectFullName": "整形外科_整形外科数字化技术_人工智能",
+   "subjectName": "人工智能",
+   "publishYear": "2026",
+   "definition": "利用人工智能技术通过数据库学习和计算、样本比对，正确解释外部数据，辅助临床疾病诊断的技术。"
+  },
+  {
+   "cn": "分布式人工智能",
+   "en": "distributed artificial intelligence,DAI",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0184",
+   "subjectFullName": "计算机科学技术_人工智能_多智能体系统",
+   "subjectName": "多智能体系统",
+   "publishYear": "2018",
+   "definition": "人工智能的一个分支。包括多智能体系统和分布式问题求解。"
+  },
+  {
+   "cn": "实时人工智能",
+   "en": "real-time artificial intelligence",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.004",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "将实时系统和人工智能系统相互结合，能够根据动态的环境变化产生及时响应的系统。"
+  },
+  {
+   "cn": "人工智能伦理",
+   "en": "ethics of artificial intelligence",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.020",
+   "subjectFullName": "自然辩证法_科技伦理_高技术伦理",
+   "subjectName": "高技术伦理",
+   "publishYear": "2024",
+   "definition": "针对人工智能技术研究和运用过程中产生的社会问题而开展的伦理研究。涉及研究和开发人工智能技术应遵循的伦理原则和道德规范、人工智能技术取代人的智能性劳动的合理边界、人工智能体是否具有人格地位和道德责任等问"
+  },
+  {
+   "cn": "人工智能",
+   "en": "artificial intelligence",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "人工智能",
+   "en": "artificial intelligence",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "人工智能",
+   "en": "artificial intelligence",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "人工智能",
+   "en": "artificial intelligence\",\"AI",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "人工智能",
+   "en": "artificial intelligence\",\"AI",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "人工智能",
+   "en": "artificial intelligence\",\"AI",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "人工智能",
+   "en": "artificial intelligence\",\"AI",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "人工智能学",
+   "en": "artificial intelligence\",\"AI",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "人工智能程序设计",
+   "en": "artificial intelligence programming",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "人工智能语言",
+   "en": "artificial intelligent language",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "分布[式]人工智能",
+   "en": "distributed artificial intelligence\",\"DAI",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "大规模并行人工智能",
+   "en": "massive parallel artificial intelligence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "人工智能语言",
+   "en": "artificial intelligence language\",\"AI language",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "智力",
+   "en": "intelligence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "智能",
+   "en": "intelligence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "可懂度",
+   "en": "intelligibility",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "可懂度",
+   "en": "intelligibility",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "人工肺",
+   "en": "artificial lung\",\"artificial oxygenator",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "特殊智力",
+   "en": "specific intelligence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "实践智力",
+   "en": "practical intelligence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "人工智能",
+   "en": "Artificial Intelligence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人工智能",
+   "en": "Artificial Intelligence",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人工智能芯片",
+   "en": "artificial intelligence chip",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人工智能术语",
+   "en": "Artificial Intelligence Terminology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "弱人工智能",
+   "en": "weak artificial intelligence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "强人工智能",
+   "en": "strong artificial intelligence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "超级人工智能",
+   "en": "super artificial intelligence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "可解释的人工智能",
+   "en": "explainable artificial intelligence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "边缘人工智能",
+   "en": "edge artificial intelligence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人工智能技术",
+   "en": "artificial intelligence (AI) technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "欧盟人工智能战略",
+   "en": "Artificial Intelligence Strategy (EU)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人工智能实验室（谷歌）",
+   "en": "Artificial Intelligence Laboratory (Google)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "世界人工智能大会（中国）",
+   "en": "World Artificial Intelligence Conference (China)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人工智能领导力（美国）",
+   "en": "leadership in artificial intelligence (USA)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智",
+   "en": "Intelligence",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《20190851-T-469 信息技术 人工智能 术语》",
+   "en": "20190851-T-469 Information technology — Artificial intelligence — Terminology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "阿联酋人工智能国家部长",
+   "en": "Minister of State for Artificial Intelligence (UAE)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "新一代人工智能发展规划（中国）",
+   "en": "New-generation Artificial Intelligence Development Plan (China)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "欧盟人工智能需求平台",
+   "en": "The European Artificial Intelligence-On-Demand-Platform",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《产业战略：人工智能领域行动》（英国）",
+   "en": "Industrial Strategy: Artificial Intelligence Sector Deal (UK)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智力",
+   "en": "intelligence",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.1.4",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "认识客观事物和现象并解决实际问题的能力。包括观察力、记忆力、注意力、想象力、分析判定能力、应变能力等。"
+  },
+  {
+   "cn": "智力测试",
+   "en": "intelligence test",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.7.1.2.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育调查与评价",
+   "subjectName": "生长发育调查与评价",
+   "publishYear": "2025",
+   "definition": "评价智力水平高低的一种心理测验。"
+  },
+  {
+   "cn": "智力筛查",
+   "en": "intelligence screening",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "将智力落后个体从群体中区别出来的活动。"
+  },
+  {
+   "cn": "智商",
+   "en": "intelligence quotient",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.26",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "通过一系列标准测试所获得个人认知能力与同年龄段常模的比值。是智力测验中表示一个人智力水平的指数。"
+  },
+  {
+   "cn": "智能武器",
+   "en": "intelligent weapons",
+   "source": "军事预防医学名词",
+   "wordNumber": "13.1.3.2.2",
+   "subjectFullName": "军事预防医学_新概念武器及伤害_新概念武器",
+   "subjectName": "新概念武器",
+   "publishYear": "2025",
+   "definition": "利用人工智能技术，通过计算机、网络和自动化系统实现自主侦察、锁定目标、实施攻击的一种武器系统。能够自我识别、自我规划、自我决策和自我执行军事任务，具有高度的自主性和智能化能力。"
+  },
+  {
+   "cn": "人工自然",
+   "en": "artificial nature",
+   "source": "马克思主义",
+   "wordNumber": "01.0145",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人类的实践活动改造过的自然，也称人化自然。它的出现是自然发展史的飞跃。人工自然一方面服从自然规律，另一方面凝结了人的本质力量，因而具有社会性，受社会规律的制约和影响。"
+  },
+  {
+   "cn": "人工免疫",
+   "en": "artificial immunity",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.1.6",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫应答",
+   "subjectName": "免疫应答",
+   "publishYear": "2025",
+   "definition": "经人工接种而使机体主动或被动获得免疫力 。"
+  },
+  {
+   "cn": "人工换气",
+   "en": "artificial ventilation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.2.3.4.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_教室卫生",
+   "subjectName": "教室卫生",
+   "publishYear": "2025",
+   "definition": "采用工具、机械设备等进行强制性对流通风，从而实现室内外空气交换的方式。"
+  },
+  {
+   "cn": "人工授精",
+   "en": "artificial insemination",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.7.1",
+   "subjectFullName": "妇幼卫生学名词_生育调节_辅助生殖技术",
+   "subjectName": "辅助生殖技术",
+   "publishYear": "2025",
+   "definition": "用人工方式将精液注入女性体内以取代性交途径使其妊娠的一种方法。"
+  },
+  {
+   "cn": "人工放射性核素",
+   "en": "artificial radionuclide",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.4.31",
+   "subjectFullName": "食品卫生学_食品污染_食品放射性污染",
+   "subjectName": "食品放射性污染",
+   "publishYear": "2025",
+   "definition": "不需人工干预，自然界中自然存在的具有放射性的不稳定原子核，能自发地放出射线（如α射线、β射线、γ射线等），通过衰变形成稳定的核素。常见的有²³⁸U、²³²Th 和²³⁵U 等，可通过空气、土壤、水等途"
+  },
+  {
+   "cn": "智商",
+   "en": "intelligence quotient, IQ",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.1.4.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "表示个体智力发展水平的指标。现多采用离差智商表示智力的高低，即以100为均数、15为标准差，个体智商数值在70以下为智力低下；在130以上为智力超常。"
+  },
+  {
+   "cn": "智能消毒机器人",
+   "en": "intelligence disinfection robot",
+   "source": "消毒学",
+   "wordNumber": "3.2.3.5",
+   "subjectFullName": "消毒学_消毒用品_消毒相关用品",
+   "subjectName": "消毒相关用品",
+   "publishYear": "2025",
+   "definition": "在特定的程序操控下，可代替人力实现消毒操作并达到消毒效果的设备。"
+  },
+  {
+   "cn": "多元智力理论",
+   "en": "multiple intelligences theory",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.5.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_生活技能教育",
+   "subjectName": "生活技能教育",
+   "publishYear": "2025",
+   "definition": "加德纳（Gardner）提出的智力包括一组相对独立的能力，而并非一种一般能力的理论。"
+  },
+  {
+   "cn": "智力残疾分类",
+   "en": "intelligent disability classification",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.3.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "按智力残疾形成的原因、教育上的表现、适应性障碍、支持辅助等对智力残疾类型的划分。"
+  },
+  {
+   "cn": "智力残疾分级",
+   "en": "intelligent disability grade",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.3.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "根据智力测验和适应行为测验等结果，对智力和适应行为障碍程度的划分。"
+  },
+  {
+   "cn": "人工器官移植",
+   "en": "artificial organ transplantation",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.007",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "通过医疗手段，将人工制造的仿生器官、机械装置或生物工程器官植入患者体内，以替代或部分替代天然器官的功能，从而治疗器官衰竭或损伤的技术。"
+  },
+  {
+   "cn": "人工染菌",
+   "en": "artificial inoculating bacterium",
+   "source": "消毒学",
+   "wordNumber": "6.2.27.20",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "实验人员按照试验要求，将一定量的试验微生物涂染于载体或试验对象表面，或直接加入到流体中的过程。"
+  },
+  {
+   "cn": "人工辐射源",
+   "en": "artificial radiation source",
+   "source": "放射卫生学",
+   "wordNumber": "2.2",
+   "subjectFullName": "放射卫生学_辐射来源及其应用",
+   "subjectName": "辐射来源及其应用",
+   "publishYear": "2025",
+   "definition": "通过人工方法制造和/或伴随带来的辐射源，包括各类放射性同位素和X射线、加速器以及中子发生器等射线装置。"
+  },
+  {
+   "cn": "智能与风险评估",
+   "en": "intelligence or threat assessment",
+   "source": "军事预防医学名词",
+   "wordNumber": "9.4.1.1",
+   "subjectFullName": "军事预防医学_生物武器医学防护学_生物战剂袭击侦检",
+   "subjectName": "生物战剂袭击侦检",
+   "publishYear": "2025",
+   "definition": "采用智能感知、识别、分析、评估等技术手段开展生物战剂风险的预测、预警及风险判定。"
+  },
+  {
+   "cn": "人工破膜术",
+   "en": "artificial rupture of membrane",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.3.38",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "采用长针头刺破或钳子夹破胎膜，使羊水缓缓流出，造成子宫体积缩小和先露部位下降，压迫宫颈以反射性引起子宫收缩、加速分娩进程的一项技术，也是引产的一种手段。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

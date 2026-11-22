@@ -1,0 +1,824 @@
+{
+ "batch": "058-batch1",
+ "date": "2026-11-22",
+ "scope": "全库提取高置信术语首批（人工逐条定译，审定库凭证对齐）",
+ "evidence": "specs/008-terminology-campaign/results/queries/termonline-all/",
+ "rows": [
+  {
+   "en": "propositional logic",
+   "zh": "命题逻辑",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "审定名词库（海峡两岸信息科学技术名词·信息科学技术，2008；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "perceptual experience",
+   "zh": "知觉经验",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "decision theory",
+   "zh": "决策论",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "审定名词库（自然辩证法名词·自然辩证法_科学哲学_分支科学哲学_社会科学哲学，2024，03.791；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "physical properties",
+   "zh": "物理属性",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "second-order logic",
+   "zh": "二阶逻辑",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "审定名词库（海峡两岸信息科学技术名词·信息科学技术，2008；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "material objects",
+   "zh": "物质对象",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "excluded middle",
+   "zh": "排中律",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "property rights",
+   "zh": "财产权",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "external objects",
+   "zh": "外部对象",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "moral beliefs",
+   "zh": "道德信念",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "transcendental idealism",
+   "zh": "先验观念论",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "ontological status",
+   "zh": "本体论地位",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "visual experience",
+   "zh": "视觉经验",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "mental representations",
+   "zh": "心理表征",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "field theory",
+   "zh": "场论",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "审定名词库（物理学名词·物理学_原子核物理学、粒子物理学_粒子物理学，2019，09.1212；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "natural properties",
+   "zh": "自然属性",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "phenomenal character",
+   "zh": "现象特征",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "artificial intelligence",
+   "zh": "人工智能",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "审定名词库（农学名词·农业信息_农业信息技术，2025，16.211；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "political authority",
+   "zh": "政治权威",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "correspondence theory",
+   "zh": "符合论",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "quantum field",
+   "zh": "量子场",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "审定名词库（物理学名词·物理学_原子核物理学、粒子物理学_粒子物理学，2019，09.1551；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "civil rights",
+   "zh": "公民权利",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "sui generis",
+   "zh": "自成一类",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "causal powers",
+   "zh": "因果力",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "moral agents",
+   "zh": "道德行动者",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "human dignity",
+   "zh": "人的尊严",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "moral reasons",
+   "zh": "道德理由",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "political community",
+   "zh": "政治共同体",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "private property",
+   "zh": "私有财产",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "character traits",
+   "zh": "品格特征",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "legal rights",
+   "zh": "法定权利",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "moral agency",
+   "zh": "道德能动性",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "causal relation",
+   "zh": "因果关系",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "causal structure",
+   "zh": "因果结构",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "rational choice",
+   "zh": "理性选择",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "审定名词库（卫生经济学名词·卫生经济学名词_卫生经济学_卫生经济学，2025，1.1.2.2；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "physical system",
+   "zh": "物理系统",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "审定名词库（地球物理学名词·地球物理学_地震科学_震源，2022，01.1766；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "cognitive processes",
+   "zh": "认知过程",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "human existence",
+   "zh": "人的存在",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "general terms",
+   "zh": "普遍词项",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "human condition",
+   "zh": "人的境况",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "physical object",
+   "zh": "物理对象",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "necessary conditions",
+   "zh": "必要条件",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "modal operators",
+   "zh": "模态算子",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "cognitive capacities",
+   "zh": "认知能力",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "semantic theory",
+   "zh": "语义理论",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "审定名词库（海峡两岸信息科学技术名词·信息科学技术，2008；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "causal role",
+   "zh": "因果作用",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "divine nature",
+   "zh": "神性",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "semantic content",
+   "zh": "语义内容",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "logical analysis",
+   "zh": "逻辑分析",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "moral values",
+   "zh": "道德价值",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "empirical research",
+   "zh": "经验研究",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "highest good",
+   "zh": "至善",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "mathematical practice",
+   "zh": "数学实践",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "statistical mechanics",
+   "zh": "统计力学",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "审定名词库（物理学名词·物理学_热学、统计物理学_统计物理学，2019，05.0471；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "research program",
+   "zh": "研究纲领",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "conscious states",
+   "zh": "意识状态",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "moral goodness",
+   "zh": "道德善",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "logical structure",
+   "zh": "逻辑结构",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "审定名词库（计算机科学技术名词·计算机科学技术_理论计算机科学_数据结构，2018，02.0006；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "social groups",
+   "zh": "社会群体",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "classical mechanics",
+   "zh": "经典力学",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "审定名词库（物理学名词·物理学_力学，2019，02.0005；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "propositional knowledge",
+   "zh": "命题知识",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "necessary connection",
+   "zh": "必然联系",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "explanatory role",
+   "zh": "解释角色",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "representational content",
+   "zh": "表征内容",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "social welfare",
+   "zh": "社会福利",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "审定名词库（城乡规划学名词·城乡规划学_城乡规划总述_规划价值观和规划教育，2021，01.164；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "global justice",
+   "zh": "全球正义",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "moral disagreement",
+   "zh": "道德分歧",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "linguistic meaning",
+   "zh": "语言意义",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "social choice",
+   "zh": "社会选择",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "审定名词库（城乡规划学名词·城乡规划学_城乡规划总述_规划价值观和规划教育，2021，01.171；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "human intellect",
+   "zh": "人的理智",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "mental phenomena",
+   "zh": "心理现象",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "moral rights",
+   "zh": "道德权利",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "moral rules",
+   "zh": "道德规则",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "semantic values",
+   "zh": "语义值",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "standard model",
+   "zh": "标准模型",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "审定名词库（航天科学技术名词·航天科学技术_空气动力学与飞行原理，2005，06.576；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "causal connection",
+   "zh": "因果联系",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "inductive logic",
+   "zh": "归纳逻辑",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "审定名词库（自然辩证法名词·自然辩证法_科学哲学_一般科学哲学_归纳，2024，03.082；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "future generations",
+   "zh": "未来世代",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "empirical data",
+   "zh": "经验数据",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "error theory",
+   "zh": "错误论",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "machine learning",
+   "zh": "机器学习",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "审定名词库（农学名词·农业信息_农业信息技术，2025，16.225；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "mathematical entities",
+   "zh": "数学实体",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "social structures",
+   "zh": "社会结构",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "functional role",
+   "zh": "功能角色",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "semantic properties",
+   "zh": "语义属性",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "choice theory",
+   "zh": "选择理论",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "sense experience",
+   "zh": "感觉经验",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "sentient beings",
+   "zh": "有感觉的存在者",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "epistemic status",
+   "zh": "认知地位",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "physical laws",
+   "zh": "物理定律",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "scientific progress",
+   "zh": "科学进步",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "审定名词库（自然辩证法名词·自然辩证法_科学哲学_一般科学哲学_科学实在论，2024，03.029；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "possible outcomes",
+   "zh": "可能后果",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "common law",
+   "zh": "普通法",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "international law",
+   "zh": "国际法",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "审定名词库（海峡两岸经贸名词·经贸，2012；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "political economy",
+   "zh": "政治经济学",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "审定名词库（经济学名词·经济学_政治经济学，2020，02.001；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "molecular biology",
+   "zh": "分子生物学",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "审定名词库（生物化学与分子生物学名词·生物化学与分子生物学_总论，2024，1.0016；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "evolutionary biology",
+   "zh": "进化生物学",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "审定名词库（农学名词·作物基因组学与遗传育种_作物起源进化与多样性，2025，06.026；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "cosmological argument",
+   "zh": "宇宙论论证",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "ordinary objects",
+   "zh": "日常对象",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "religious experience",
+   "zh": "宗教经验",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "justified belief",
+   "zh": "得到辩护的信念",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  },
+  {
+   "en": "psychological states",
+   "zh": "心理状态",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22）",
+   "date": "2026-11-22"
+  }
+ ]
+}

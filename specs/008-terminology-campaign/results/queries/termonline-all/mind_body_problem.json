@@ -1,0 +1,742 @@
+{
+ "key": "mind-body problem",
+ "term": "mind-body problem",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-22T06:03:11+00:00",
+ "status": "ok",
+ "note": "variant=mind-body problem; 审定公布名词库=3754; 海峡两岸名词对照库=900; 其他来源数据库=147; 预公布名词数据库=114; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "心身问题",
+   "en": "mind-body problem",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.558",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "由笛卡儿提出。其经典表述是：如果心和身是完全不同性质的东西，而心对身的作用是显而易见的，那么，一个非物理的对象如何能够作用于物理的对象而不违背现有的物理规律？"
+  },
+  {
+   "cn": "心身问题",
+   "en": "mind-body problem",
+   "source": "心理学名词",
+   "wordNumber": "04.018",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "心理学基本理论问题之一，探讨身体与心理的关系，有唯物论、唯心论、身心平行论等形式。"
+  },
+  {
+   "cn": "心身同型论",
+   "en": "mind-body isomorphism",
+   "source": "心理学名词",
+   "wordNumber": "04.150",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "格式塔学者提出的一种理论。认为心理与生理有着同样格式塔的性质，两者在结构与形式方面完全等同。"
+  },
+  {
+   "cn": "心身相互作用论",
+   "en": "mind-body interactionism",
+   "source": "心理学名词",
+   "wordNumber": "04.020",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "身体与心理是彼此独立的实体，两者相互作用，互为因果的理论。以笛卡儿(R. Descartes)为代表。"
+  },
+  {
+   "cn": "心身平行论",
+   "en": "mind-body parallelism",
+   "source": "心理学名词",
+   "wordNumber": "04.019",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "身心关系理论。即心理和身体之间不存在因果关系，是两个相互分离而又平行的序列。"
+  },
+  {
+   "cn": "多体问题",
+   "en": "many-body problem",
+   "source": "天文学名词",
+   "wordNumber": "03.021",
+   "subjectFullName": "天文学_天体力学",
+   "subjectName": "天体力学",
+   "publishYear": "2024",
+   "definition": "由三个或三个以上的质点及其相互引力作用组成的力学模型。"
+  },
+  {
+   "cn": "多体问题",
+   "en": "many-body problem",
+   "source": "物理学名词",
+   "wordNumber": "05.0658",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "多体问题",
+   "en": "many-body problem",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_力学通类",
+   "subjectName": "力学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "多体问题",
+   "en": "many-body problem",
+   "source": "数学名词",
+   "wordNumber": "06.0136",
+   "subjectFullName": "数学_微分方程_积分方程_常微分方程",
+   "subjectName": "常微分方程",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "二体问题",
+   "en": "two-body problem",
+   "source": "天文学名词",
+   "wordNumber": "03.015",
+   "subjectFullName": "天文学_天体力学",
+   "subjectName": "天体力学",
+   "publishYear": "2024",
+   "definition": "由两个质点及其相互引力作用组成的力学模型。"
+  },
+  {
+   "cn": "三体问题",
+   "en": "three-body problem",
+   "source": "天文学名词",
+   "wordNumber": "03.016",
+   "subjectFullName": "天文学_天体力学",
+   "subjectName": "天体力学",
+   "publishYear": "2024",
+   "definition": "由三个质点及其相互引力作用组成的力学模型。"
+  },
+  {
+   "cn": "三体问题",
+   "en": "three-body problem",
+   "source": "物理学名词",
+   "wordNumber": "02.0453",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "二体问题",
+   "en": "two-body problem",
+   "source": "物理学名词",
+   "wordNumber": "02.0452",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "少体问题",
+   "en": "few-body problem",
+   "source": "物理学名词",
+   "wordNumber": "09.0323",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_原子核物理学",
+   "subjectName": "原子核物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "二体问题",
+   "en": "two-body problem",
+   "source": "航天科学技术名词",
+   "wordNumber": "03.178",
+   "subjectFullName": "航天科学技术_航天器",
+   "subjectName": "航天器",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "多体问题",
+   "en": "multi-body problem",
+   "source": "航天科学技术名词",
+   "wordNumber": "03.225",
+   "subjectFullName": "航天科学技术_航天器",
+   "subjectName": "航天器",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "三体问题",
+   "en": "three-body problem",
+   "source": "航天科学技术名词",
+   "wordNumber": "03.224",
+   "subjectFullName": "航天科学技术_航天器",
+   "subjectName": "航天器",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "二体问题",
+   "en": "two-body problem",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_力学通类",
+   "subjectName": "力学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "三体问题",
+   "en": "three-body problem",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_力学通类",
+   "subjectName": "力学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "心智",
+   "en": "mind",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.560",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "与心理及智能活动相关的一切精神现象。如意识、知觉、思想、记忆、注意、意志、情绪、感受等。"
+  },
+  {
+   "cn": "心身问题",
+   "en": "mind body problem",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "心身关系",
+   "en": "mind body relation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "多体问题",
+   "en": "many body problem",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "二体问题",
+   "en": "two-body problem",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "三体问题",
+   "en": "three-body problem",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "少体问题",
+   "en": "few-body problem",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "n体问题",
+   "en": "n-body problem",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "N体问题",
+   "en": "N-body problem",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "限制性三体问题",
+   "en": "restricted three-body problem",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "椭圆型限制性三体问题",
+   "en": "elliptic restricted three-body problem",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "圆型限制性三体问题",
+   "en": "circular restricted three-body problem",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "问题",
+   "en": "problem",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "心理理论",
+   "en": "theory of mind",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "胎",
+   "en": "body",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "反[演]问题",
+   "en": "inverse problem",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "问题解决",
+   "en": "problem solving",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "对应问题",
+   "en": "correspondence problem",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "内倾问题",
+   "en": "internalizing problem",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "问题空间",
+   "en": "problem space",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "同构问题",
+   "en": "isomorphic problem",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "心",
+   "en": "Heart / Mind",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "心知",
+   "en": "Mind Cognition",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "成心",
+   "en": "Biased Mind",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "思维导图",
+   "en": "mind map",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "狂者胸次",
+   "en": "An Unrestrained Mind",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "身体",
+   "en": "body",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "运输问题",
+   "en": "transportation problem",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无约束问题",
+   "en": "unconstrained problem",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "背包问题",
+   "en": "knapsack problem",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "停机问题",
+   "en": "halting problem",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "问题空间",
+   "en": "problem space",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "问题求解",
+   "en": "problem solving",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "问题导向",
+   "en": "problem-oriented",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "身体",
+   "en": "body",
+   "source": "社会学名词",
+   "wordNumber": "4.2.3.14",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化人类学基本概念",
+   "subjectName": "文化人类学基本概念",
+   "publishYear": "2025",
+   "definition": "哲学传统中意指相对于灵魂的躯体，即生物事实以外的，以文化事实、社会事实为基础的肉体表达系统。"
+  },
+  {
+   "cn": "环境问题",
+   "en": "environmental problem",
+   "source": "社会学名词",
+   "wordNumber": "3.14.3.3",
+   "subjectFullName": "社会学名词_分支社会学_环境社会学_环境问题及其产生根源",
+   "subjectName": "环境问题及其产生根源",
+   "publishYear": "2025",
+   "definition": "由于人类活动作用于周围环境所引起的环境质量变化，以及这种变化对人类的生产、生活和健康造成的影响。"
+  },
+  {
+   "cn": "妇女问题",
+   "en": "female problem",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.54",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "妇女因其性别而在经济、政治、社会和家庭省会中遇到的各种特殊障碍，导致她们在个人和家庭生活质量，以及在教育、就业、收入和社会政治参与等方面普遍存在劣势的问题。"
+  },
+  {
+   "cn": "民族问题",
+   "en": "national problem",
+   "source": "马克思主义",
+   "wordNumber": "03.0118",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在民族发展和交往过程中产生的民族与民族之间的各种矛盾和问题，如民族歧视、民族纠纷、民族压迫等。民族问题是一个历史问题和社会政治问题，它在历史发展的不同时期表现出不同的性质和特点。解决民族问题，核心是实"
+  },
+  {
+   "cn": "农民问题",
+   "en": "peasants problem",
+   "source": "马克思主义",
+   "wordNumber": "04.0080",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "列宁于1921年2月8日俄共（布）中央政治局会议上写了《农民问题提纲初稿》，这是一篇表明苏维埃俄国农业政策、甚至整个经济政策重大变化的文献。列宁开始考虑用粮食税代替余粮征集。这篇文献奠定了新经济政策的"
+  },
+  {
+   "cn": "总问题",
+   "en": "General problem",
+   "source": "马克思主义",
+   "wordNumber": "05.0069",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "来自于阿尔都塞《保卫马克思》，指文本的深层结构，即一种思想产生和发展时所处的意识形态环境与这一思想的内在整体。"
+  },
+  {
+   "cn": "社会问题",
+   "en": "social problem",
+   "source": "社会医学名词",
+   "wordNumber": "13.1",
+   "subjectFullName": "社会病",
+   "subjectName": "社会问题",
+   "publishYear": "2025",
+   "definition": "社会中存在的人与自然、人与社会以及人与人之间关系的严重失调或冲突现象，影响社会的正常运转，阻碍社会的协调发展。例如，人口问题、环境污染问题、腐败问题、贫困问题、就业问题等。"
+  },
+  {
+   "cn": "问题识别",
+   "en": "problem identification",
+   "source": "社会医学名词",
+   "wordNumber": "10.1.2.1.1",
+   "subjectFullName": "政策与策略",
+   "subjectName": "政策",
+   "publishYear": "2025",
+   "definition": "通过对社会现象的分析、公众意见的收集或专家判断，将某一具体情况明确为需要政策干预的公共问题的过程，是整个政策过程的起点。"
+  },
+  {
+   "cn": "社会问题",
+   "en": "social problems",
+   "source": "社会学名词",
+   "wordNumber": "2.10.2.12",
+   "subjectFullName": "社会学名词_社会学一般概念_社会问题与社会控制_社会越轨",
+   "subjectName": "社会越轨",
+   "publishYear": "2025",
+   "definition": "社会成员普遍认为不符合社会预期，违反社会价值，扰乱社会秩序的社会现象。对社会稳定有负面影响，需要运用社会力量对社会结构进行调整和干预，对社会制度进行修正。"
+  },
+  {
+   "cn": "搭便车问题",
+   "en": "free rider problem",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.13",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "因为公共物品具有非竞争性和非排他性特征，使得具有理性自利特征的行动者不会积极主动地发起集体行动、提供集体物品以满足所属集团或组织的需要，而是采取不付成本或少付成本，坐享他人付出之利的行动策略。这反过来"
+  },
+  {
+   "cn": "价值转形问题",
+   "en": "value transformation problem",
+   "source": "马克思主义",
+   "wordNumber": "05.0122",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "在马克思的劳动价值论中，价值转化为生产价格被学术界称为价值转形理论。"
+  },
+  {
+   "cn": "都留重人问题",
+   "en": "Shigeto Tsuru problem",
+   "source": "马克思主义",
+   "wordNumber": "05.0154",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "日本都留重人针对我国对外开放中出现的弊端曾指出“对外开放应该有节制”。事实上，我国经济在对外开放的牵引下取得了高速的增长，但也带来了过分依靠外资和外国技术的弊端，这种弊端现在也无法完全克服。"
+  },
+  {
+   "cn": "问题行为理论",
+   "en": "problem-behavior theory",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.5.5",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_生活技能教育",
+   "subjectName": "生活技能教育",
+   "publishYear": "2025",
+   "definition": "杰瑟尔（Jessor）提出的基于行为由人与环境相互作用产生的前提来阐述青少年问题行为的性质及发生发展过程的社会心理学框架。"
+  },
+  {
+   "cn": "认知问题解决",
+   "en": "cognitive problem solving",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.5.7",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_生活技能教育",
+   "subjectName": "生活技能教育",
+   "publishYear": "2025",
+   "definition": "舒尔（Shure）和斯皮瓦克（Spivack）提出的通过提升儿童解决问题的能力，以增强其社会适应能力的干预理论。"
+  },
+  {
+   "cn": "解决问题能力",
+   "en": "problem solving skill",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.5.10.10",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_生活技能教育",
+   "subjectName": "生活技能教育",
+   "publishYear": "2025",
+   "definition": "正确认识自己面临的主要问题，寻找解决该问题的方法并评价其利弊，以便从中选择合适的解决方法的能力。有助于减轻未解决的重大问题对个体造成的心理压力，避免其引起身体紧张和不适。生活技能的核心技能之一。"
+  },
+  {
+   "cn": "偶发性社会问题",
+   "en": "incidental social problem",
+   "source": "社会医学名词",
+   "wordNumber": "13.1.2",
+   "subjectFullName": "社会病",
+   "subjectName": "社会问题",
+   "publishYear": "2025",
+   "definition": "社会系统中突然发生、难以预测、具有突发性和紧迫性，并对社会秩序、个体权益或公共安全造成一定影响的问题。例如重大疫情爆发、特大安全事故。"
+  },
+  {
+   "cn": "过失性社会问题",
+   "en": "negligent social problem",
+   "source": "社会医学名词",
+   "wordNumber": "13.1.3",
+   "subjectFullName": "社会病",
+   "subjectName": "社会问题",
+   "publishYear": "2025",
+   "definition": "部分人群偏离社会正常生活和规范而产生的问题，往往不需要制定新的政策来解决，而是可以通过教育和道德引导来改善。例如网络暴力、公共场所的不文明行为。"
+  },
+  {
+   "cn": "必发性社会问题",
+   "en": "inevitable social problem",
+   "source": "社会医学名词",
+   "wordNumber": "13.1.1",
+   "subjectFullName": "社会病",
+   "subjectName": "社会问题",
+   "publishYear": "2025",
+   "definition": "在社会发展的特定阶段或特定进程中，由于其内在的规律性、结构性原因或普遍的发展趋势而难以完全避免的问题。例如人口老龄化，大城市病。"
+  },
+  {
+   "cn": "结构性社会问题",
+   "en": "constitutive social problem",
+   "source": "社会医学名词",
+   "wordNumber": "13.1.4",
+   "subjectFullName": "社会病",
+   "subjectName": "社会问题",
+   "publishYear": "2025",
+   "definition": "由某些制度性、政策性的因素或社会发展中不可逾越的阶段引起的社会问题。例如城乡二元结构、贫富差距。"
+  },
+  {
+   "cn": "身体政治",
+   "en": "body politics",
+   "source": "社会学名词",
+   "wordNumber": "3.2.2.19",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_女性主义",
+   "subjectName": "女性主义",
+   "publishYear": "2025",
+   "definition": "西方女性主义的一个核心议题。认为女性身体既是父权制下被物化和规训的客体，同时也是女性赋权的工具。身体本身是性别政治和权力支配的产物，但也可以作为一种政治抗争的武器。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

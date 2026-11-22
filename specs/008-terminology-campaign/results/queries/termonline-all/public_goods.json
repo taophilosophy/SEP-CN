@@ -1,0 +1,782 @@
+{
+ "key": "public goods",
+ "term": "public goods",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-22T05:58:59+00:00",
+ "status": "ok",
+ "note": "variant=public goods; 审定公布名词库=1130; 海峡两岸名词对照库=209; 其他来源数据库=187; 预公布名词数据库=201; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "公共产品",
+   "en": "public goods",
+   "source": "风景园林名词",
+   "wordNumber": "03.0047",
+   "subjectFullName": "风景园林_风景园林管理_行业和部门管理",
+   "subjectName": "行业和部门管理",
+   "publishYear": "2025",
+   "definition": "具有消费或使用上的非竞争性和受益上的非排他性的产品。"
+  },
+  {
+   "cn": "公共物品",
+   "en": "public goods",
+   "source": "城乡规划学名词",
+   "wordNumber": "01.155",
+   "subjectFullName": "城乡规划学_城乡规划总述_规划价值观和规划教育",
+   "subjectName": "规划价值观和规划教育",
+   "publishYear": "2021",
+   "definition": "所有人都可以自由获得的物品或平等提供给一定地域内所有居民的物品。"
+  },
+  {
+   "cn": "公共物品",
+   "en": "public goods",
+   "source": "经济学名词",
+   "wordNumber": "03.209",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "公共使用或消费的物品。一般具有非竞争性和非排他性，基本上分为三类：第一类是纯公共物品，即同时具有非排他性和非竞争性；第二类是具有非竞争性的公共物品，但却较为轻易地排他；第三类公共物品又称为共同资源或公"
+  },
+  {
+   "cn": "公共产品",
+   "en": "public goods",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0004",
+   "subjectFullName": "管理科学技术_公共管理_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "在消费方面具有不同程度的非竞争性，在使用方面具有不同程度的非排他性，或者既具有非竞争性又具有非排他性的产品。分为准公共产品和纯公共产品。"
+  },
+  {
+   "cn": "公共产品",
+   "en": "public goods",
+   "source": "教育学名词",
+   "wordNumber": "14.019",
+   "subjectFullName": "教育学_教育经济",
+   "subjectName": "教育经济",
+   "publishYear": "2013",
+   "definition": "具有消费或使用上的非竞争性和受益上的非排他性的产品。"
+  },
+  {
+   "cn": "公共物品",
+   "en": "public goods",
+   "source": "资源科学技术名词",
+   "wordNumber": "02.197",
+   "subjectFullName": "资源科学技术_资源经济学",
+   "subjectName": "资源经济学",
+   "publishYear": "2008",
+   "definition": "具有非竞争性、非排他性、不能依靠市场力量实现有效配置的产品。"
+  },
+  {
+   "cn": "拥挤性公共品",
+   "en": "congestible public goods",
+   "source": "经济学名词",
+   "wordNumber": "09.003",
+   "subjectFullName": "经济学_公共部门经济学",
+   "subjectName": "公共部门经济学",
+   "publishYear": "2020",
+   "definition": "那些随着消费者人数的增加而产生拥挤，从而会减少每个消费者可以从中获得效益的公共品或劳务。这种物品（劳务）的效用虽然为整个社会成员所共享，但消费具有一定的竞争性，即这种物品（劳务）在消费者人数达到拥挤点"
+  },
+  {
+   "cn": "准公共产品",
+   "en": "quasi-public goods",
+   "source": "教育学名词",
+   "wordNumber": "14.021",
+   "subjectFullName": "教育学_教育经济",
+   "subjectName": "教育经济",
+   "publishYear": "2013",
+   "definition": "具有消费或使用上有限的非竞争性或受益上有限的非排他性的公共产品。"
+  },
+  {
+   "cn": "价格排他性公共品",
+   "en": "price excludable public goods",
+   "source": "经济学名词",
+   "wordNumber": "09.014",
+   "subjectFullName": "经济学_公共部门经济学",
+   "subjectName": "公共部门经济学",
+   "publishYear": "2020",
+   "definition": "那些效益可以定价，从而可以在技术上实现排他的公共物品或劳务。"
+  },
+  {
+   "cn": "正商品",
+   "en": "goods",
+   "source": "经济学名词",
+   "wordNumber": "03.053",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "能够带来效用或满足的商品叫作正商品。对于这种商品，消费者倾向于选择更多而不是更少。"
+  },
+  {
+   "cn": "商品",
+   "en": "goods",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0011",
+   "subjectFullName": "管理科学技术_市场营销_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "可以被移动并出售的产品。"
+  },
+  {
+   "cn": "公众",
+   "en": "public",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0131",
+   "subjectFullName": "管理科学技术_市场营销_营销机会",
+   "subjectName": "营销机会",
+   "publishYear": "2016",
+   "definition": "与组织具有现实或潜在利益关系或者影响一个组织实现其目标能力的任何群体。通常的七种类型公众包括融资公众、媒体公众、政府公众、市民团体、本地公众、一般公众、内部公众。"
+  },
+  {
+   "cn": "公众",
+   "en": "publics",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.196",
+   "subjectFullName": "新闻学与传播学_政治传播_公民社会与政治传播",
+   "subjectName": "公民社会与政治传播",
+   "publishYear": "2022",
+   "definition": "形成和维持公共性的行动主体。它是复数的，具有交错的身份和能动形式；也是流动的，可能在特定时刻为特定项目而聚集。"
+  },
+  {
+   "cn": "公共性",
+   "en": "publicness",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.197",
+   "subjectFullName": "新闻学与传播学_政治传播_公民社会与政治传播",
+   "subjectName": "公民社会与政治传播",
+   "publishYear": "2022",
+   "definition": "人们在其个体或社群实践活动中形成的相互需要、彼此依存的社会属性及其利益相关的普遍状态。它所指称的概念，既是描述性的，也是规范性的，同时具备意识形态含义，常被用以标识与公共利益相关的人、空间以及制度，同"
+  },
+  {
+   "cn": "出版物",
+   "en": "publication",
+   "source": "编辑与出版学名词",
+   "wordNumber": "07.01.001",
+   "subjectFullName": "编辑与出版学_出版物_综述",
+   "subjectName": "综述",
+   "publishYear": "2022",
+   "definition": "以知识信息为内容，以一定的物质形态为载体，通过复制而传播的文化产品。"
+  },
+  {
+   "cn": "宣传",
+   "en": "publicity",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "1.054",
+   "subjectFullName": "新闻学与传播学_新闻理论_新闻与宣传",
+   "subjectName": "新闻与宣传",
+   "publishYear": "2022",
+   "definition": "运用各种符号传播一定的观点以影响和引导人们的态度及行为的一种社会性传播活动。"
+  },
+  {
+   "cn": "公共性",
+   "en": "publicness",
+   "source": "城乡规划学名词",
+   "wordNumber": "01.175",
+   "subjectFullName": "城乡规划学_城乡规划总述_规划价值观和规划教育",
+   "subjectName": "规划价值观和规划教育",
+   "publishYear": "2021",
+   "definition": "与私密性相对的概念。（1）能够联系或影响到所有个体或某些团体的特性。（2）为公众开放或共享的状态。（3）受政府或个体捐赠资助的非营利特性。"
+  },
+  {
+   "cn": "货物贸易",
+   "en": "goods trade",
+   "source": "农学名词",
+   "wordNumber": "19.134",
+   "subjectFullName": "农业经济与管理_农业市场与贸易",
+   "subjectName": "农业市场与贸易",
+   "publishYear": "2025",
+   "definition": "实物商品的贸易。"
+  },
+  {
+   "cn": "寝具",
+   "en": "sleeping goods",
+   "source": "睡眠医学名词",
+   "wordNumber": "5.167",
+   "subjectFullName": "睡眠医学_睡眠疾病治疗学_睡眠环境与睡眠卫生",
+   "subjectName": "睡眠环境与睡眠卫生",
+   "publishYear": "2022",
+   "definition": "与睡眠有关的床、床垫、床上用品等物品的统称。其空间方位、对躯体的承托、体表感受等均影响睡眠。"
+  },
+  {
+   "cn": "成品",
+   "en": "finished goods",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "01.026",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "完成全部生产过程，可供销售的制品。"
+  },
+  {
+   "cn": "保税货物",
+   "en": "bonded goods",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国际商品",
+   "en": "international goods",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "①过境货物 ②转口货物",
+   "en": "floating goods",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "[海关]扣押货物",
+   "en": "seized goods",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "货物报关单",
+   "en": "goods declaration",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "货物抵押贷款",
+   "en": "goods credit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "经济货物",
+   "en": "economic goods",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "亏本出售的商品",
+   "en": "sacrifice goods",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "垄断货物",
+   "en": "monopoly goods",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "期货",
+   "en": "forward goods",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "投资货物",
+   "en": "investment goods",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "现货",
+   "en": "actual goods",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "应税货物",
+   "en": "dutiable goods",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "正常货物",
+   "en": "normal goods",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "转口货物",
+   "en": "transit goods",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "日常用品",
+   "en": "convenience goods",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "良溶剂",
+   "en": "good solvent",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "良溶剂",
+   "en": "good solvent",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "好能见度（7级）",
+   "en": "visibility good",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "良好船艺",
+   "en": "good seamanship",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "数字公共产品",
+   "en": "digital public goods",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "高度重视公共利益",
+   "en": "serious concern for the public good",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "公众",
+   "en": "public",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "信",
+   "en": "Good Faith",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "界内！",
+   "en": "Good! In!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有效回击",
+   "en": "good return",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "合法发球",
+   "en": "good service",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有效回击",
+   "en": "good return",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "舆论",
+   "en": "Public Opinion",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公论",
+   "en": "Public Opinion",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公有链",
+   "en": "public blockchain",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公共数据",
+   "en": "public data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公权力",
+   "en": "public power",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公法",
+   "en": "public law",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公开告知",
+   "en": "public notice",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公共信托",
+   "en": "public trust",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公共充权",
+   "en": "public empowerment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公共产品",
+   "en": "public goods",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.2.1.1",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场",
+   "subjectName": "卫生服务市场",
+   "publishYear": "2025",
+   "definition": "既具有消费或使用上的非竞争性又具有受益上的非排他性的产品。分为准公共产品和纯公共产品。"
+  },
+  {
+   "cn": "纯公共产品",
+   "en": "pure public goods",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.2.1.1.1",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场",
+   "subjectName": "卫生服务市场",
+   "publishYear": "2025",
+   "definition": "在消费方面具有完全的非竞争性或受益上完全的非排他性公共产品。"
+  },
+  {
+   "cn": "准公共产品",
+   "en": "quasi-public goods",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.2.1.1.2",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场",
+   "subjectName": "卫生服务市场",
+   "publishYear": "2025",
+   "definition": "具有消费或使用上有限的非竞争性或受益上有限的非排他性的公共产品。"
+  },
+  {
+   "cn": "正常品",
+   "en": "normal goods",
+   "source": "卫生经济学名词",
+   "wordNumber": "4.3.2.2.1",
+   "subjectFullName": "卫生经济学名词_卫生服务需求_卫生服务需求弹性",
+   "subjectName": "卫生服务需求弹性",
+   "publishYear": "2025",
+   "definition": "需求的收入弹性为正的商品，消费者对这种商品的需求水平随着收入的增加而提高。"
+  },
+  {
+   "cn": "劣等品",
+   "en": "inferior goods",
+   "source": "卫生经济学名词",
+   "wordNumber": "4.3.2.2.3",
+   "subjectFullName": "卫生经济学名词_卫生服务需求_卫生服务需求弹性",
+   "subjectName": "卫生服务需求弹性",
+   "publishYear": "2025",
+   "definition": "需求的收入弹性为负的商品，消费者对该商品的需求水平随收入的增加而下降。"
+  },
+  {
+   "cn": "个人产品",
+   "en": "personal goods",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.2.1.2",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场",
+   "subjectName": "卫生服务市场",
+   "publishYear": "2025",
+   "definition": "具有消费或使用上的竞争性、受益上的排他性和缺乏外部效应特征的产品或服务。通常分为必需消费品和特需消费品两类。"
+  },
+  {
+   "cn": "善终",
+   "en": "good ending",
+   "source": "医学伦理学名词",
+   "wordNumber": "7.037999999999999",
+   "subjectFullName": "医学伦理学_临终关怀与死亡伦理",
+   "subjectName": "临终关怀与死亡伦理",
+   "publishYear": "2025",
+   "definition": "人因自然衰老而非祸患的无痛苦死亡。"
+  },
+  {
+   "cn": "良好健康",
+   "en": "good health",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.5.2.1",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童早期发展",
+   "subjectName": "儿童早期发展",
+   "publishYear": "2025",
+   "definition": "是养育人进行良好照护的结果，具体包括监测儿童身心健康状态、回应儿童日常需要、保护儿童免受环境威胁、注意卫生预防感染、利用预防保健服务并及时诊治儿童疾病。"
+  },
+  {
+   "cn": "优逝",
+   "en": "good death",
+   "source": "医学伦理学名词",
+   "wordNumber": "7.006",
+   "subjectFullName": "医学伦理学_临终关怀与死亡伦理",
+   "subjectName": "临终关怀与死亡伦理",
+   "publishYear": "2025",
+   "definition": "关注临终者死亡质量的理念。医疗实践中以个人和社会文化为基础，通过科学、规范、个体化的安宁疗护和姑息护理，提供全方位的心理支持与生理照护，减少终末期患者身心痛苦。"
+  },
+  {
+   "cn": "好撒玛利亚人",
+   "en": "Good Samarian",
+   "source": "民族学与文化学名词",
+   "wordNumber": "6.031",
+   "subjectFullName": "民族学与文化学_世界民族_欧洲地区",
+   "subjectName": "欧洲地区",
+   "publishYear": "2025",
+   "definition": "这是一个比喻，是耶稣在路加福音10：25-37 中讲述的一个教导故事。一位旅行者，被剥去衣服，殴打，在路旁半死。首先来了一位牧师，之后是利未人，但他们都绕过了这个人，没有理会。最后，是一位撒马利亚人来"
+  },
+  {
+   "cn": "公众照射",
+   "en": "public exposure",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.4.2.2",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_照射分类_照射人员分类",
+   "subjectName": "照射人员分类",
+   "publishYear": "2025",
+   "definition": "公众成员所受到的来自计划照射情况、应急照射情况和现存照射情况中的辐射源的照射。"
+  },
+  {
+   "cn": "公众信息",
+   "en": "public information",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.26.4",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "与公众进行交流的信息。由于可能不属于风险的议题，不全部都是风险沟通的资料，但是大多数风险沟通资料将都传递给公众。"
+  },
+  {
+   "cn": "公共距离",
+   "en": "public distance",
+   "source": "社会学名词",
+   "wordNumber": "2.4.1.8",
+   "subjectFullName": "社会学名词_社会学一般概念社会互动",
+   "subjectName": "社会学一般概念社会互动",
+   "publishYear": "2025",
+   "definition": "个体在公共场合的空间需求，是人际交往距离中约束感最弱的距离。除了在公共汽车、电梯等特定场合外，其范围一般都在3米以外，如公共场合中演讲者和台下听众，教室里老师和学生，舞台上演员和观众，以及在散步、行走"
+  },
+  {
+   "cn": "公共组织",
+   "en": "public organization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.7.9",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "以管理社会公共事务，提供公共产品和公共服务，维护和实现社会公共利益为目的，拥有法定的或授予的公共权力的组织实体，包括政府组织和非营利组织。"
+  },
+  {
+   "cn": "公共空间",
+   "en": "public space",
+   "source": "社会学名词",
+   "wordNumber": "3.4.7.1",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_城市文化",
+   "subjectName": "城市文化",
+   "publishYear": "2025",
+   "definition": "城市中向公众开放的场所。如街道、广场、公园、图书馆等，可以供人们聚会、交往、休闲娱乐等。"
+  },
+  {
+   "cn": "公共住房",
+   "en": "public housing",
+   "source": "社会学名词",
+   "wordNumber": "3.4.11.4",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_城市政策",
+   "subjectName": "城市政策",
+   "publishYear": "2025",
+   "definition": "由中央或地方政府投资兴建，并以较低租金提供给低收入群体的住房形式。各国实行的方式不同，有的国家允许相当比例的非盈利性社会组织参与融资、兴建、供给或管理，而被称为“社会住房”。"
+  },
+  {
+   "cn": "公共权力",
+   "en": "public power",
+   "source": "社会学名词",
+   "wordNumber": "3.6.2.5",
+   "subjectFullName": "社会学名词_分支社会学_政治社会学_权力与支配",
+   "subjectName": "权力与支配",
+   "publishYear": "2025",
+   "definition": "基于社会公众的意志而由国家机关和其他公共团体所行使的、以维护公益为目的强制力量，构成了公共行为主体对公共权力客体的制约能力和力量。"
+  },
+  {
+   "cn": "公共领域",
+   "en": "public sphere",
+   "source": "社会学名词",
+   "wordNumber": "3.6.4.1",
+   "subjectFullName": "社会学名词_分支社会学_政治社会学_公民权与公民参与",
+   "subjectName": "公民权与公民参与",
+   "publishYear": "2025",
+   "definition": "一种介于国家与社会之间并具有自治性的公共空间，是公民个体参与公共事务的媒介。与“私人领域”相对。"
+  },
+  {
+   "cn": "公共选择",
+   "en": "public option",
+   "source": "社会学名词",
+   "wordNumber": "3.6.4.6",
+   "subjectFullName": "社会学名词_分支社会学_政治社会学_公民权与公民参与",
+   "subjectName": "公民权与公民参与",
+   "publishYear": "2025",
+   "definition": "某一国家、地区或社区内的成员以辩论、协商、投票等集体行动形式，对公共资源进行决策和分配的行为。"
+  },
+  {
+   "cn": "品味公众",
+   "en": "taste public",
+   "source": "社会学名词",
+   "wordNumber": "3.8.4.3",
+   "subjectFullName": "社会学名词_分支社会学_文化社会学_群体文化",
+   "subjectName": "群体文化",
+   "publishYear": "2025",
+   "definition": "甘斯提出的概念，指参与到特定趣味文化中的社会群体。这些群体通常是自发聚集起来的，并不属于特定阶层，是一个分散性的社会阶层。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

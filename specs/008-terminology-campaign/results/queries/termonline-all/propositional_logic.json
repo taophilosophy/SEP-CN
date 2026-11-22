@@ -1,0 +1,662 @@
+{
+ "key": "propositional logic",
+ "term": "propositional logic",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-22T05:55:37+00:00",
+ "status": "ok",
+ "note": "variant=propositional logic; 审定公布名词库=850; 海峡两岸名词对照库=287; 其他来源数据库=31; 预公布名词数据库=17; jwt-direct（JWT 直连，raw 略；已滤维基 12 条）",
+ "hits": [
+  {
+   "cn": "命题",
+   "en": "proposition",
+   "source": "数学名词",
+   "wordNumber": "01.0014",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "命题态度",
+   "en": "propositional attitudes",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.520",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "具有表征内容的心理状态，反映了认知主体和某类抽象对象（心理内容）之间的特定关系。如信念、欲望和意图等。连接态度的命题必须是具有真值的对象。"
+  },
+  {
+   "cn": "命题演算",
+   "en": "propositional calculus",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0937",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "数理逻辑中基本的形式系统，用于描述命题及其逻辑关系。"
+  },
+  {
+   "cn": "命题表征",
+   "en": "propositional representation",
+   "source": "心理学名词",
+   "wordNumber": "02.540",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "认为长时记忆信息储存方式是以命题形式对信息进行表征，不受母语及感觉通道的影响。"
+  },
+  {
+   "cn": "命题函数",
+   "en": "propositional function",
+   "source": "数学名词",
+   "wordNumber": "02.0025",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "命题演算",
+   "en": "propositional calculus",
+   "source": "数学名词",
+   "wordNumber": "02.0022",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "命题μ演算",
+   "en": "propositional μ-calculus",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0934",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "在命题模态逻辑中引入最大、最小不动点算子得到的形式系统，可用于描述并发系统的时序性质。"
+  },
+  {
+   "cn": "全称命题",
+   "en": "universal proposition",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.075",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "对全部相关对象的特征描述。"
+  },
+  {
+   "cn": "命题语料库",
+   "en": "proposition bank",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0499",
+   "subjectFullName": "计算机科学技术_人工智能_计算语言学",
+   "subjectName": "计算语言学",
+   "publishYear": "2018",
+   "definition": "一种标记了谓词及其论元角色的语料库。"
+  },
+  {
+   "cn": "直言命题",
+   "en": "categorical proposition",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0119",
+   "subjectFullName": "计算机科学技术_人工智能_自动推理",
+   "subjectName": "自动推理",
+   "publishYear": "2018",
+   "definition": "具有主宾结构，直接陈述对象是否具有某种性质或对象之间是否具有某种关系的命题。例如，苏格拉底是人，等等。"
+  },
+  {
+   "cn": "价值主张",
+   "en": "value proposition",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0294",
+   "subjectFullName": "管理科学技术_市场营销_营销战略",
+   "subjectName": "营销战略",
+   "publishYear": "2016",
+   "definition": "品牌所赖以形成差异化与定位的所有利益的组合。是一个品牌的完整定位，回答顾客关于“为什么我应该买你的产品”的问题。"
+  },
+  {
+   "cn": "米勒–莫迪利安尼定理",
+   "en": "MillerModigliani proposition",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0558",
+   "subjectFullName": "管理科学技术_会计_公司财务",
+   "subjectName": "公司财务",
+   "publishYear": "2016",
+   "definition": "该理论认为，在不考虑公司所得税，且资本市场完备和企业经营风险相同等假设条件下，当资本结构不同时，公司的资本结构与其市场价值无关；在考虑公司所得税后，公司的资本结构与其市场价值正相关；在考虑公司所得税及"
+  },
+  {
+   "cn": "命题演算",
+   "en": "proposition calculus",
+   "source": "语言学名词",
+   "wordNumber": "11.097",
+   "subjectFullName": "语言学_计算语言学_形式化方法",
+   "subjectName": "形式化方法",
+   "publishYear": "2011",
+   "definition": "由命题与命题联结词构成的更复杂的命题，以及这样的命题之间的推理关系的运算。"
+  },
+  {
+   "cn": "逆命题",
+   "en": "converse proposition",
+   "source": "数学名词",
+   "wordNumber": "01.0016",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "否命题",
+   "en": "negative proposition",
+   "source": "数学名词",
+   "wordNumber": "01.0015",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "命题编码理论",
+   "en": "propositional code theory",
+   "source": "心理学名词",
+   "wordNumber": "02.541",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "认为长时记忆中只有一种编码形式的理论。即只有命题形式的、语义的、抽象的表征。"
+  },
+  {
+   "cn": "命题网络模型",
+   "en": "propositional network model",
+   "source": "心理学名词",
+   "wordNumber": "02.539",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "由命题表征表达的概念之间的关系建立的模型。网络中的节点表示概念，连线表示概念间的联系。"
+  },
+  {
+   "cn": "命题代数",
+   "en": "algebra of propositions",
+   "source": "数学名词",
+   "wordNumber": "02.0023",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "USP理论",
+   "en": "unique selling proposition",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "21.036",
+   "subjectFullName": "新闻学与传播学_广告_总论",
+   "subjectName": "总论",
+   "publishYear": "2022",
+   "definition": "广告大师罗塞·里夫斯(Rosser Reeves)在20世纪50年代首创。一个广告中必须包含一个向消费者提出的销售主张，这个主张须要具备三个要点：一是利益承诺；二是独特；三是强而有力。"
+  },
+  {
+   "cn": "形式不可判定命题",
+   "en": "formal undecidable proposition",
+   "source": "数学名词",
+   "wordNumber": "02.0145",
+   "subjectFullName": "数学_数理逻辑·数学基础_证明论",
+   "subjectName": "证明论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "命题逻辑",
+   "en": "propositional logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "命题表征",
+   "en": "propositional representation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "命题演算",
+   "en": "propositional calculus",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "归纳命题",
+   "en": "inductive proposition",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑",
+   "en": "logic",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑记录",
+   "en": "logical record\",\"logic record",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "模糊逻辑",
+   "en": "fuzzy logic",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "比例尺逻辑（＝尺度逻辑）",
+   "en": "scale logic",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "贝叶斯逻辑",
+   "en": "Bayesian logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "布尔逻辑",
+   "en": "Boolean logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "程序设计逻辑",
+   "en": "programming logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "代数逻辑",
+   "en": "algebraic logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "等式逻辑",
+   "en": "equational logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "恶意逻辑",
+   "en": "malicious logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "符号逻辑",
+   "en": "symbolic logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "概率逻辑",
+   "en": "probabilistic logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "关系逻辑",
+   "en": "relational logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "光逻辑",
+   "en": "optical logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "归纳逻辑",
+   "en": "inductive logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "过程逻辑",
+   "en": "process logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑部件",
+   "en": "logic unit",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑编程",
+   "en": "logic programming",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "协议逻辑",
+   "en": "protocol logic",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "Bieber逻辑",
+   "en": "Bieber logic",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑结构",
+   "en": "logical structure",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑编程语言",
+   "en": "logic programming language",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑数据模型",
+   "en": "logical data model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "BAN类逻辑",
+   "en": "Burrows-Abadi-Needham (BAN) logic",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "思辨逻辑",
+   "en": "speculative logic",
+   "source": "马克思主义",
+   "wordNumber": "01.0101",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "研究人类辩证思维的科学，是关于辩证思维的形式、规律和方法的科学。它把概念的辩证运动以及如何通过概念反映现实矛盾的问题作为自己的主要研究对象。原初含义专指黑格尔思辨哲学的逻辑形态。恩格斯最早明确地把这种"
+  },
+  {
+   "cn": "抽象逻辑思维",
+   "en": "abstract logic thinking",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.5.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "能进行假设演绎推理和命题推理的科学思维方式。"
+  },
+  {
+   "cn": "先逻辑思维",
+   "en": "pre-logical thinking",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0534",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "法国人类学家列维-布留尔（Lucien Lévy-Bruhl）提出的概念。他认为原始人的思维是前逻辑思维，本质上不同于文明人的逻辑思维，后者能够进行抽象、概括和分类。前逻辑思维在我们看来很荒谬，但在原"
+  },
+  {
+   "cn": "发展两岸关系促进祖国和平统一的八项主张",
+   "en": "eight propositions on the developing the crossstrait relations and promoting the peaceful reunification of the motherland",
+   "source": "马克思主义",
+   "wordNumber": "04.0189",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "江泽民就发展两岸关系、推进祖国和平统一进程的若干重大问题提出的八项主张和看法，即：坚持一个中国的原则；对于台湾同外国发展民间性经济文化关系，我们不持异议；再次建议双方就“正式结束两岸敌对状态、逐步实现"
+  },
+  {
+   "cn": "放射性同位素测井",
+   "en": "radioisotope log",
+   "source": "放射卫生学",
+   "wordNumber": "6.5.4.25",
+   "subjectFullName": "放射卫生学_放射防护_工业应用的放射防护_核仪表及其他应用",
+   "subjectName": "核仪表及其他应用",
+   "publishYear": "2025",
+   "definition": "用注入油井的非密封放射性物质确定流体在井管内或地层孔隙间的运动状态及其分布规律和井身工程质量参数的方法。"
+  },
+  {
+   "cn": "杀灭对数值",
+   "en": "killing log value",
+   "source": "消毒学",
+   "wordNumber": "6.2.20",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "在消毒试验评价杀菌效果时，消毒前后微生物数量的对数值差值。"
+  },
+  {
+   "cn": "灭活对数值",
+   "en": "inactivation log value",
+   "source": "消毒学",
+   "wordNumber": "6.2.21",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "在消毒试验评价病毒消毒效果时，消毒前后病毒数量的对数值差值。"
+  },
+  {
+   "cn": "对数线性模型",
+   "en": "log-linear model",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.107",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "把列联表的网格频数的对数表示为各变量及其交互效应的线性模型。"
+  },
+  {
+   "cn": "杀灭对数值",
+   "en": "killing log value",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.4.63",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品生产规范",
+   "subjectName": "食品生产规范",
+   "publishYear": "2025",
+   "definition": "当微生物数量以对数表示时，杀菌前后微生物减少的对数值。"
+  },
+  {
+   "cn": "对数罗杰斯蒂克模型",
+   "en": "Log-Logistic model",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.80",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "一种非负随机结果变量的统计回归模型。常用于拟合生物活性测定中的S 型剂量-反应曲线。"
+  },
+  {
+   "cn": "测井中子发生器",
+   "en": "neutron generator for well logging",
+   "source": "放射卫生学",
+   "wordNumber": "8.2.11",
+   "subjectFullName": "放射卫生学_放射卫生监管_工业及其他应用监管",
+   "subjectName": "工业及其他应用监管",
+   "publishYear": "2025",
+   "definition": "由中子管和中子管外接电路组成的装置，中子管外接电路通常由离子源电路和密封加速高压组成。"
+  },
+  {
+   "cn": "油气田测井",
+   "en": "oil and natural gas field for well logging",
+   "source": "放射卫生学",
+   "wordNumber": "8.2.10",
+   "subjectFullName": "放射卫生学_放射卫生监管_工业及其他应用监管",
+   "subjectName": "工业及其他应用监管",
+   "publishYear": "2025",
+   "definition": "在油气田使用放射性物质作为示踪剂，确定流体在井管内或地层孔隙间的运动状态及其分布规律和井身工程质量参数的方法。"
+  },
+  {
+   "cn": "对数单位",
+   "en": "logit",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.102",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "一个事件发生或一个状态存在的几率的自然对数。"
+  },
+  {
+   "cn": "对数单位模型",
+   "en": "logit model",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.103",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "将某一变量的某个类别的几率作为因变量，其他变量作为自变量的一种分析定类数据的模型。在数学上等价于对数线性模型。"
+  },
+  {
+   "cn": "正比计数管",
+   "en": "proportional counter tube",
+   "source": "放射卫生学",
+   "wordNumber": "5.2.5.21",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测设备_通用辐射监测设备",
+   "subjectName": "通用辐射监测设备",
+   "publishYear": "2025",
+   "definition": "一种工作在气体放电正比区的计数管。"
+  },
+  {
+   "cn": "按比例规律",
+   "en": "law of proportional",
+   "source": "马克思主义",
+   "wordNumber": "02.0177",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "按比例分配社会劳动的规律的简称，是社会生产与社会需要之间矛盾运动以及整个国民经济协调发展的规律。按比例规律的内在要求是，表现为人财物的社会总劳动要依据需要按比例地分配在社会生产和国民经济中。随着社会分"
+  },
+  {
+   "cn": "性别参政比例制",
+   "en": "gender proportional representation in political participation",
+   "source": "社会学名词",
+   "wordNumber": "3.2.6.11",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别与发展",
+   "subjectName": "性别与发展",
+   "publishYear": "2025",
+   "definition": "旨在保障不同性别平等参政的一种制度安排，通常以立法或决策的方式设定了弱势性别群体权力参与的最低比例。但这种制度安排究竟有利于还是不利于促进不同性别参政权和决策权的平等，甚至实质上是否是对妇女的一种保护"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

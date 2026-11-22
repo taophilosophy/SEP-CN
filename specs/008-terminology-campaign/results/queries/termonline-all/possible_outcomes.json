@@ -1,0 +1,692 @@
+{
+ "key": "possible outcomes",
+ "term": "possible outcomes",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-22T06:01:51+00:00",
+ "status": "ok",
+ "note": "variant=possible outcomes; 审定公布名词库=52; 海峡两岸名词对照库=20; 其他来源数据库=9; 预公布名词数据库=20; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "可能结局",
+   "en": "possible outcomes",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0244",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "为满足一个需求的策略的最终结局。由于一个需求对应一个图灵机，而一个图灵机计算一个部分函数，因此针对一个需求的策略的最终结局依赖于需求所对应的图灵机的规律。"
+  },
+  {
+   "cn": "可能性",
+   "en": "possibility",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0337",
+   "subjectFullName": "管理科学技术_运筹与管理_预测理论与方法",
+   "subjectName": "预测理论与方法",
+   "publishYear": "2016",
+   "definition": "事物发生的概率。是包含在事物之中并预示着事物发展趋势的量化指标。"
+  },
+  {
+   "cn": "结局",
+   "en": "outcome",
+   "source": "肠外肠内营养学名词",
+   "wordNumber": "05.104",
+   "subjectFullName": "肠外肠内营养学_基础研究与临床研究_临床研究",
+   "subjectName": "临床研究",
+   "publishYear": "2019",
+   "definition": "某件事或行为的结果。临床研究中通常为所研究疾病的转归或治疗的效果。"
+  },
+  {
+   "cn": "产出",
+   "en": "outcome",
+   "source": "药学名词",
+   "wordNumber": "10.050",
+   "subjectFullName": "药学_药物经济学",
+   "subjectName": "药物经济学",
+   "publishYear": "2014",
+   "definition": "医疗干预后，患者在临床指标、身体功能和主观感受等各方面变化。"
+  },
+  {
+   "cn": "结局",
+   "en": "outcome",
+   "source": "数学名词",
+   "wordNumber": "011.0405",
+   "subjectFullName": "数学_运筹学_对策论",
+   "subjectName": "对策论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "转归评价",
+   "en": "outcome assessment,outcome evaluation",
+   "source": "核医学名词",
+   "wordNumber": "06.0326",
+   "subjectFullName": "核医学_核医学研究_核医学临床研究",
+   "subjectName": "核医学临床研究",
+   "publishYear": "2018",
+   "definition": "以受试对象临床整体状态为主要观察指标的临床试验评价体系。"
+  },
+  {
+   "cn": "可能候选者",
+   "en": "possible candidate",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0243",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "选取的自然数作为满足某条件的证据的可能候选者。"
+  },
+  {
+   "cn": "可能世界",
+   "en": "possible world",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0016",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "克里普克（Kripke）提出的一种表述模态逻辑语义的基本单元。每一个可能世界是一种特定的语境，规定了在此语境中哪些模态命题为真，哪些为假。通过模态推理可以从一个可能世界到达另一个可能世界。"
+  },
+  {
+   "cn": "可能通行能力",
+   "en": "possible capacity",
+   "source": "公路交通科技名词",
+   "wordNumber": "03.165",
+   "subjectFullName": "公路交通科学技术_交通工程",
+   "subjectName": "交通工程",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "可能性理论",
+   "en": "possibility theory",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0110",
+   "subjectFullName": "计算机科学技术_人工智能_自动推理",
+   "subjectName": "自动推理",
+   "publishYear": "2018",
+   "definition": "一种基于模糊集和模糊逻辑，利用可能性度量和必要性度量处理不确定性的方法。"
+  },
+  {
+   "cn": "生产可能性",
+   "en": "production possibility",
+   "source": "资源科学技术名词",
+   "wordNumber": "02.082",
+   "subjectFullName": "资源科学技术_资源经济学",
+   "subjectName": "资源经济学",
+   "publishYear": "2008",
+   "definition": "指现有资源在一定的技术条件下可能生产的最大产量组合。"
+  },
+  {
+   "cn": "妊娠结局",
+   "en": "pregnancy outcome",
+   "source": "生殖医学名词",
+   "wordNumber": "6.088",
+   "subjectFullName": "生殖医学_辅助生殖技术",
+   "subjectName": "辅助生殖技术",
+   "publishYear": "2022",
+   "definition": "妊娠相关的结果。常指在辅助生殖技术治疗后的临床结局，包括活产、多胎、临床妊娠、流产、生化妊娠及反复植入失败等。"
+  },
+  {
+   "cn": "治疗转归",
+   "en": "treatment outcome",
+   "source": "结核病学名词",
+   "wordNumber": "04.092",
+   "subjectFullName": "结核病学_结核病治疗_化学药物治疗_治疗转归",
+   "subjectName": "治疗转归",
+   "publishYear": "2019",
+   "definition": "对肺结核患者抗结核治疗后效果的总结。分为治愈、完成疗程、死亡、失败、丢失、迁出等。敏感肺结核与耐药肺结核治疗转归标准不同。"
+  },
+  {
+   "cn": "次要结局",
+   "en": "secondary outcome",
+   "source": "肠外肠内营养学名词",
+   "wordNumber": "05.107",
+   "subjectFullName": "肠外肠内营养学_基础研究与临床研究_临床研究",
+   "subjectName": "临床研究",
+   "publishYear": "2019",
+   "definition": "一项研究中除主要终点指标外关注的其他结局或测量指标。"
+  },
+  {
+   "cn": "临床结局",
+   "en": "clinical outcome",
+   "source": "肠外肠内营养学名词",
+   "wordNumber": "01.098",
+   "subjectFullName": "肠外肠内营养学_总论",
+   "subjectName": "总论",
+   "publishYear": "2019",
+   "definition": "评价患者是否从某种治疗方法中受益的指标。包括感染性并发症发生率、死亡率、住院时间、质量调整生命年等。国内近年有少量已经发表的高质量证据显示，对有营养风险的患者给予合理的营养支持，可能降低感染性并发症发"
+  },
+  {
+   "cn": "主要结局",
+   "en": "primary outcome",
+   "source": "肠外肠内营养学名词",
+   "wordNumber": "05.106",
+   "subjectFullName": "肠外肠内营养学_基础研究与临床研究_临床研究",
+   "subjectName": "临床研究",
+   "publishYear": "2019",
+   "definition": "根据试验目标与设计决定的首要的、决定临床试验终止的指标和参数。"
+  },
+  {
+   "cn": "结果公平",
+   "en": "outcome fairness",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0110",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_个体行为基础",
+   "subjectName": "个体行为基础",
+   "publishYear": "2016",
+   "definition": "人们对于自己所得到的结果与其他人所得到的结果相比而做出的一种是否公平的判断。"
+  },
+  {
+   "cn": "中间产出",
+   "en": "intermediate outcome",
+   "source": "药学名词",
+   "wordNumber": "10.100",
+   "subjectFullName": "药学_药物经济学",
+   "subjectName": "药物经济学",
+   "publishYear": "2014",
+   "definition": "能影响病人最终健康产出的指标，但该指标本身不是治疗的最终目标。当最终产出难以在短期内观察到，常用来作为最终产出的代理变量。"
+  },
+  {
+   "cn": "临床结局",
+   "en": "clinical outcome",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "04.111",
+   "subjectFullName": "全科医学与社区卫生_全科医疗服务",
+   "subjectName": "全科医疗服务",
+   "publishYear": "2014",
+   "definition": "经过一定时间，某种健康问题、治疗方案和医学干预所显示的临床结果。"
+  },
+  {
+   "cn": "结果质量",
+   "en": "outcome quality",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "10.038",
+   "subjectFullName": "全科医学与社区卫生_社区卫生服务管理",
+   "subjectName": "社区卫生服务管理",
+   "publishYear": "2014",
+   "definition": "服务的最终结果。是多种质量特性和质量内涵的综合体现。"
+  },
+  {
+   "cn": "可能误差",
+   "en": "possible error",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "可能自我",
+   "en": "possible self",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "可能性界限",
+   "en": "possibility boundaries",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "可能性理论",
+   "en": "possibility theory",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "结果测量",
+   "en": "outcome measure",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "结果研究",
+   "en": "outcome research",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "可照时数",
+   "en": "duration of possible sunshine",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "可能碰撞点",
+   "en": "possible point of collision\",\"PPC",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "小骨",
+   "en": "ossicle",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "小骨",
+   "en": "ossiculum\",\"ossicle",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "不可能图形",
+   "en": "impossible figure",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "步带骨",
+   "en": "ambulacral ossicle",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "听小骨",
+   "en": "auditory ossicle",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "韦伯小骨",
+   "en": "Weber's ossicle",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "被动吸水",
+   "en": "possive water absorption",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "上步带骨",
+   "en": "supra-ambulacral ossicle",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "听小骨",
+   "en": "auditory ossicle\",\"ossicula auditus",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "听小骨关节",
+   "en": "articulation of auditory ossicle",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "听小骨肌",
+   "en": "muscle of auditory ossicle",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "听小骨韧带",
+   "en": "ligament of auditory ossicle",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "不诚无物",
+   "en": "Without Sincerity, Nothing Is Possible.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "“扶真贫、真扶贫”",
+   "en": "helping those in need and delivering genuine outcomes",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "吉凶由人",
+   "en": "The Outcome of Auspiciousness or Inauspiciousness Depends on Human Behavior.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "尽最大可能控制疫情波及范围",
+   "en": "to make every possible effort to curb the spread of the disease",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_理念信心",
+   "subjectName": "理念信心",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "做好返程人员疫情防控",
+   "en": "to take measures to help returnees from infected regions in order to prevent any possible spread of the coronavirus",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "不可能三角",
+   "en": "impossible trinity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无法判定",
+   "en": "judgment impossible",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "无法判断",
+   "en": "impossible judgment",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "可能性",
+   "en": "possibility",
+   "source": "马克思主义",
+   "wordNumber": "01.0064",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "由事物内部矛盾引起的，包含在事物中的预示事物发展变化的种种趋势，或事物转化的潜在因素，是潜在的尚未实现的东西。"
+  },
+  {
+   "cn": "可能病例",
+   "en": "possible case",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.19.5",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "在一定地区、人群和特定时间内，病例临床标本无实验室阳性结果或未采集到病例的临床标本，但具有典型的临床症状体征的病例。"
+  },
+  {
+   "cn": "结果评估",
+   "en": "outcome evaluation",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.20",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "在社会工作服务过程的最终阶段进行的评估，以考察服务的实际结果达成的情况，其主要检视计划介入目标实际实现的程度及其影响因素。"
+  },
+  {
+   "cn": "营养结局",
+   "en": "nutritional outcome",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.5.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "儿童生长发育和健康水平的总和，是由营养素、营养行为和营养气氛三个因素来决定的，而营养气氛包括烹调过程与进食过程。"
+  },
+  {
+   "cn": "结局评价",
+   "en": "outcome evaluation",
+   "source": "军事预防医学名词",
+   "wordNumber": "17.1.4.4",
+   "subjectFullName": "军事预防医学_军队健康教育与健康促进_军队健康教育",
+   "subjectName": "军队健康教育",
+   "publishYear": "2025",
+   "definition": "健康教育项目计划实施后，对目标人群健康状况和生活质量等变化的评价。"
+  },
+  {
+   "cn": "不良结局",
+   "en": "adverse outcome",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.2.56",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "外源化学物引起的具有法规监管意义的有害效应关键事件。通常与已确立的安全保护目标相符合、或与公认的毒性测试指南中的观察终点等效。"
+  },
+  {
+   "cn": "结果树",
+   "en": "outcome tree",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.5.24",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "由根节点、决策节点、概率节点和结果节点组成，连接不同节点，并标注相应的概率或结果值的方法。根节点表示决策问题起始点，决策节点表示不同决策选项，概率节点表示不同决策选项可能性，结果节点表示每个决策路径结"
+  },
+  {
+   "cn": "可能性与现实性",
+   "en": "possibility and actuality",
+   "source": "马克思主义",
+   "wordNumber": "01.0066",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "可能性与现实性是对立统一的关系。二者相互区别，不能等同。只有具备充分客观根据的可能性才能转化为现实性。二者又是统一的，它们相互依存、相互包含、相互转化。可能性作为潜在趋势存在于现实性之中，是还没有实现"
+  },
+  {
+   "cn": "不良妊娠结局",
+   "en": "adverse pregnancy outcomes",
+   "source": "军事预防医学名词",
+   "wordNumber": "16.1.5.2.3",
+   "subjectFullName": "军事预防医学_军事毒理学_军事毒理学基础",
+   "subjectName": "军事毒理学基础",
+   "publishYear": "2025",
+   "definition": "妊娠后不能产生外观和功能正常的子代，包括所有的不良结果，如流产、死胎、死产、宫内生长迟缓、发育异常、新生儿和婴幼儿期死亡等。"
+  },
+  {
+   "cn": "健康教育结果",
+   "en": "health educational outcome",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.8.1.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育与健康促进评价",
+   "subjectName": "学校健康教育与健康促进评价",
+   "publishYear": "2025",
+   "definition": "学生在接受健康教育后发生健康行为改变的状况。"
+  },
+  {
+   "cn": "不良妊娠结局",
+   "en": "adverse pregnancy outcome",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.6.2.1",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_生育间隔期保健",
+   "subjectName": "生育间隔期保健",
+   "publishYear": "2025",
+   "definition": "妊娠期、分娩及产后期或新生儿期发生的对孕妇、胎儿或新生儿健康产生负面影响的任何不良结果。母体结局包括孕产期并发症和孕产妇死亡，胎儿/新生儿结局包括死亡、流产、早产、窒息、出生体重异常及出生缺陷等。"
+  },
+  {
+   "cn": "不良出生结局",
+   "en": "adverse birth outcome",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.6.2.1.1",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_生育间隔期保健",
+   "subjectName": "生育间隔期保健",
+   "publishYear": "2025",
+   "definition": "特指出生后发现的新生儿健康问题或异常结果，包括死亡、流产、早产、窒息、出生体重异常及出生缺陷等。"
+  },
+  {
+   "cn": "生产可能性边界",
+   "en": "production possibility frontier，PPF",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.3.5.2",
+   "subjectFullName": "卫生经济学名词_卫生经济学_卫生服务与体系效率",
+   "subjectName": "卫生服务与体系效率",
+   "publishYear": "2025",
+   "definition": "在既定资源和技术条件下所能生产或提供的各种商品或服务的最大数量组合。"
+  },
+  {
+   "cn": "患者报告结果",
+   "en": "patient-reported outcomes, PROs",
+   "source": "社会医学名词",
+   "wordNumber": "5.2",
+   "subjectFullName": "生命质量",
+   "subjectName": "患者报告结果",
+   "publishYear": "2025",
+   "definition": "直接来自于患者的与健康状况和治疗有关的感受。"
+  },
+  {
+   "cn": "不良结局路径",
+   "en": "adverse outcome pathway, AOP",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.2.53",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "外源化学物作用于机体时引起的分子起始事件和最终有害结局之间相对完整的证据链条。包括在分子、细胞、组织、器官等不同生物结构水平依次发生的关键事件及相邻关键事件的上下游关系。"
+  },
+  {
+   "cn": "基于健康结局方法",
+   "en": "health outcome-based approach",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.5",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "计算由特定健康结局导致的疾病负担的方法。"
+  },
+  {
+   "cn": "妇幼卫生项目结果",
+   "en": "outcome of woman and child health project",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.7.7",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生项目管理",
+   "subjectName": "妇幼卫生项目管理",
+   "publishYear": "2025",
+   "definition": "妇幼卫生项目在实施中获得近期产出后，进而引发的目标人群行为改变，以及政策、环境支持条件的改变等，为间接效果。"
+  },
+  {
+   "cn": "36条目简明健康量表",
+   "en": "the Medical Outcomes Study 36-item short form health survey, SF-36",
+   "source": "社会医学名词",
+   "wordNumber": "5.4.2.2",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量测量工具",
+   "publishYear": "2025",
+   "definition": "美国波士顿健康研究所研制的简明生命质量通用型量表。量表包括36 个条目，评价健康相关生命质量的8 个维度，分别属于生理健康和心理健康两大类。"
+  },
+  {
+   "cn": "疗效风险分担",
+   "en": "performance-based risk sharing agreement,PBRSA，outcome-based risk sharing arrangement，OBRSA",
+   "source": "卫生经济学名词",
+   "wordNumber": "13.3.5.2.2.2",
+   "subjectFullName": "卫生经济学名词_药物经济学_药品政策与规制",
+   "subjectName": "药品政策与规制",
+   "publishYear": "2025",
+   "definition": "医保部门和药企签订协议，将药品在真实世界中的治疗结果作为触发事件，当治疗结果低于预期时，医保将要求药企降价、打折、返还已支付的医保基金，或调整未来医保支付的范围和标准，甚至要求药品退出医保目录的响应行"
+  },
+  {
+   "cn": "战争胜负的决定因素是人不是物",
+   "en": "factor which decides the outcome of a war is man but not any other things",
+   "source": "马克思主义",
+   "wordNumber": "03.0402",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东关于人力和武器在战争中的地位和作用的著名论断，是毛泽东人民战争理论的重要内容。抗日战争时期，毛泽东在批判“唯武器论”时指出，在战争中必须充分发挥人和物的两个因素，但前者始终居主导地位，只有充分发"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

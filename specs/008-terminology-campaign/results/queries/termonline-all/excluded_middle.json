@@ -1,0 +1,772 @@
+{
+ "key": "excluded middle",
+ "term": "excluded middle",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-22T05:56:03+00:00",
+ "status": "ok",
+ "note": "variant=excluded middle; 审定公布名词库=821; 海峡两岸名词对照库=245; 其他来源数据库=77; 预公布名词数据库=19; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "排中律",
+   "en": "law of excluded middle",
+   "source": "数学名词",
+   "wordNumber": "02.0039",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "排除鼠疫",
+   "en": "excluded plague",
+   "source": "地方病学名词",
+   "wordNumber": "07.210",
+   "subjectFullName": "地方病学_鼠疫_临床表现与诊断",
+   "subjectName": "临床表现与诊断",
+   "publishYear": "2016",
+   "definition": "疑似鼠疫病例在疾病过程中，具备以下条件者可排除鼠疫：①被确诊为其他疾病，可以解释所有的临床表现，且针对鼠疫进行的所有实验室检测结果均为阴性。②未确诊鼠疫，但发病30天后，针对鼠疫F1抗原的抗体检验结果"
+  },
+  {
+   "cn": "排除体积",
+   "en": "excluded volume",
+   "source": "化学名词",
+   "wordNumber": "05.0766",
+   "subjectFullName": "化学_高分子化学_高分子物理化学与高分子物理",
+   "subjectName": "高分子物理化学与高分子物理",
+   "publishYear": "2016",
+   "definition": "高分子或链段在溶液中可有效地排除所有其他高分子或链段的体积。"
+  },
+  {
+   "cn": "排除体积",
+   "en": "excluded volume",
+   "source": "材料科学技术名词",
+   "wordNumber": "04.0328",
+   "subjectFullName": "材料科学技术_高分子材料_高分子科学",
+   "subjectName": "高分子科学",
+   "publishYear": "2011",
+   "definition": "高分子或链段在溶液中可有效地排除所有其他高分子或链段的体积。"
+  },
+  {
+   "cn": "免除处所",
+   "en": "excluded spaces",
+   "source": "船舶工程名词",
+   "wordNumber": "02.258",
+   "subjectFullName": "船舶工程_船舶总体",
+   "subjectName": "船舶总体",
+   "publishYear": "1998",
+   "definition": "按吨位规范，吨位丈量中不列入围蔽处所内的处所。"
+  },
+  {
+   "cn": "隔王板",
+   "en": "queen excluder",
+   "source": "畜牧学名词",
+   "wordNumber": "09.156",
+   "subjectFullName": "畜牧学_养蜂_蜜蜂饲养管理",
+   "subjectName": "蜜蜂饲养管理",
+   "publishYear": "2020",
+   "definition": "用于限制蜂王在蜂箱内活动区域的栅板。由隔王栅片和框架构成。"
+  },
+  {
+   "cn": "受益的非排他性",
+   "en": "non-excludability",
+   "source": "经济学名词",
+   "wordNumber": "09.013",
+   "subjectFullName": "经济学_公共部门经济学",
+   "subjectName": "公共部门经济学",
+   "publishYear": "2020",
+   "definition": "指在技术上没有办法将拒绝为之付款的个人或厂商排除在公共物品或劳务的受益范围之外。或者说，任何个人或厂商都不能用拒绝付款的方法，将其不喜欢的公共物品或劳务排除在其享用品的范围外。"
+  },
+  {
+   "cn": "体斥效应",
+   "en": "excluded volume effect",
+   "source": "物理学名词",
+   "wordNumber": "08.2484",
+   "subjectFullName": "物理学_凝聚态物理学_软物质物理",
+   "subjectName": "软物质物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "中矿",
+   "en": "middlings",
+   "source": "冶金学名词",
+   "wordNumber": "03.0045",
+   "subjectFullName": "冶金学_选矿_一般术语",
+   "subjectName": "一般术语",
+   "publishYear": "2019",
+   "definition": "选矿过程中产出的需要返回原分选流程中再处理或单独处理的中间未完成产品。"
+  },
+  {
+   "cn": "中煤",
+   "en": "middlings",
+   "source": "煤炭科学技术名词",
+   "wordNumber": "09.163",
+   "subjectFullName": "煤炭科学技术_煤炭加工利用_选煤",
+   "subjectName": "选煤",
+   "publishYear": "1996",
+   "definition": "经过分选获得的灰分介于精煤与矸石之间的产品。"
+  },
+  {
+   "cn": "拒盐植物",
+   "en": "salt-excluding plant",
+   "source": "植物学名词",
+   "wordNumber": "01.0164",
+   "subjectFullName": "植物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2019",
+   "definition": "植物细胞原生质对盐分进入细胞的通透性很小，在环境介质中盐浓度高时，能保持对离子的选择透性而避免盐害的植物。"
+  },
+  {
+   "cn": "夹矸煤",
+   "en": "locked middlings,false middlings",
+   "source": "煤炭科学技术名词",
+   "wordNumber": "09.004",
+   "subjectFullName": "煤炭科学技术_煤炭加工利用_选煤",
+   "subjectName": "选煤",
+   "publishYear": "1996",
+   "definition": "煤和矸石的连生体。一般可用破碎的方法使之分离。"
+  },
+  {
+   "cn": "SCE条件",
+   "en": "specular component excluded condition",
+   "source": "光学名词",
+   "wordNumber": "05.114",
+   "subjectFullName": "光学_色度学",
+   "subjectName": "色度学",
+   "publishYear": "2021",
+   "definition": "颜色测量中不包含镜面光，而只关注颜色所附着的样品表面光泽度的测量方式。出现在 8°观察角的照明条件中。"
+  },
+  {
+   "cn": "价格排他性公共品",
+   "en": "price excludable public goods",
+   "source": "经济学名词",
+   "wordNumber": "09.014",
+   "subjectFullName": "经济学_公共部门经济学",
+   "subjectName": "公共部门经济学",
+   "publishYear": "2020",
+   "definition": "那些效益可以定价，从而可以在技术上实现排他的公共物品或劳务。"
+  },
+  {
+   "cn": "中熔结凝灰岩",
+   "en": "middle ignimbrite",
+   "source": "地质学名词",
+   "wordNumber": "04.04.388",
+   "subjectFullName": "地质学_火成岩岩石学_岩石类型",
+   "subjectName": "岩石类型",
+   "publishYear": "2026",
+   "definition": "熔结凝灰岩的一个变种。塑变强度中等，塑变玻屑常具弧面棱角形态，塑变岩屑发育，且和少量塑变玻屑常受刚性碎屑的挤压而出现明显的变形定向，形成流状构造。多呈较厚的堆积，剖面上位于喷发单元的中上部。"
+  },
+  {
+   "cn": "扇中",
+   "en": "middle fan",
+   "source": "地质学名词",
+   "wordNumber": "05.05.040",
+   "subjectFullName": "地质学_沉积学与沉积岩岩石学_沉积环境与沉积相",
+   "subjectName": "沉积环境与沉积相",
+   "publishYear": "2026",
+   "definition": "位于冲积扇的中部，并为其主要组成部分。以具有中到较低的沉积坡角和发育辫状河道为特征。沉积物主要由砂岩、含砾砂岩和砾岩组成。在砂岩、砾状砂岩中常具由辫状河流作用形成的不明显的平行层理和交错层理，甚至局部"
+  },
+  {
+   "cn": "中扇",
+   "en": "middle fan",
+   "source": "地质学名词",
+   "wordNumber": "05.05.135",
+   "subjectFullName": "地质学_沉积学与沉积岩岩石学_沉积环境与沉积相",
+   "subjectName": "沉积环境与沉积相",
+   "publishYear": "2026",
+   "definition": "位于内扇与外扇之间的部分。常形成叠覆扇叶状体(叠覆扇舌)。每个叶状体分为上部或近源的辫状水道部分和下部或远源的无水道部分。上部的辫状水道没有天然堤，常发生淤塞和侧向迁移，细粒沉积物常被冲刷掉，以沉积卵"
+  },
+  {
+   "cn": "中更新世",
+   "en": "middle Pleistocene",
+   "source": "地质学名词",
+   "wordNumber": "08.02.032",
+   "subjectFullName": "地质学_第四纪地质学_第四纪冰期与古气候",
+   "subjectName": "第四纪冰期与古气候",
+   "publishYear": "2026",
+   "definition": "第四纪冰川更新世中间的一个时期。起讫时间为78.1万~12.6万年。"
+  },
+  {
+   "cn": "中槛",
+   "en": "middle sill",
+   "source": "风景园林名词",
+   "wordNumber": "07.0325",
+   "subjectFullName": "风景园林_风景园林建筑_小木作",
+   "subjectName": "小木作",
+   "publishYear": "2025",
+   "definition": "古建筑中用以安装门窗的枋木，在外檐装修中为三道，位于中间的一道。"
+  },
+  {
+   "cn": "中柱",
+   "en": "middle column",
+   "source": "风景园林名词",
+   "wordNumber": "07.0257",
+   "subjectFullName": "风景园林_风景园林建筑_大木作",
+   "subjectName": "大木作",
+   "publishYear": "2025",
+   "definition": "古建筑大木作梁架柱子，位于室内中央，其顶端直接承托脊桁，在所有柱子中是最高的。"
+  },
+  {
+   "cn": "排除体积",
+   "en": "excluded volume",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "排除体积",
+   "en": "excluded volume",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "免除处所",
+   "en": "excluded spaces",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "拒盐植物",
+   "en": "salt-excluding plant",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "假盐生植物（=拒盐植物）",
+   "en": "pseudohalophyte (=salt-excluding plant)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "中窦",
+   "en": "middle sinus",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "中干",
+   "en": "middle trunk",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "中胶层",
+   "en": "middle lamella",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "中隧道",
+   "en": "middle tunnel",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "中叶",
+   "en": "middle lobe",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "中指",
+   "en": "middle finger",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "中纵隔",
+   "en": "middle mediastinum",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "中层",
+   "en": "middle layer",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "中层大气",
+   "en": "middle atmosphere",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "中云",
+   "en": "middle cloud",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "中质油",
+   "en": "middle oil",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "童年中期",
+   "en": "middle childhood",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "中耳",
+   "en": "middle ear",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "中央C",
+   "en": "middle C",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "中年",
+   "en": "middle age",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "罚出场",
+   "en": "exclude\",\"exclusion",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "罚出场",
+   "en": "exclude\",\"exclusion",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "罚出场",
+   "en": "exclude\",\"exclusion",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "非排他性",
+   "en": "non-excludability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中转",
+   "en": "middle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "半高球",
+   "en": "middle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "罚出场",
+   "en": "exclude\",\"suspend\",\"expulsion\",\"suspension",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "中投",
+   "en": "middle shot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "腰位",
+   "en": "middle post",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "中间拦网队员",
+   "en": "middle blocker",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "中间位置",
+   "en": "middle standing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "中道",
+   "en": "The Middle Way",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据中台",
+   "en": "Data Middle Office",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "模组化中台",
+   "en": "modular middle office",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "AI中台",
+   "en": "AI middle office",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "应用中台",
+   "en": "application middle office",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中长跑运动员",
+   "en": "middle-distance runner",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "中产阶级",
+   "en": "middle class",
+   "source": "社会学名词",
+   "wordNumber": "2.6.1.12",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会分层",
+   "subjectName": "社会分层",
+   "publishYear": "2025",
+   "definition": "在社会分层系统中处于中间位置的人群。这一词汇虽然被广泛使用，但其确切含义在社会学界尚未达成一致意见。不同流派理论家对中间位置的确定标准各有不同。马克思主义者认为是在资产阶级与无产阶级之间的人群（小资产"
+  },
+  {
+   "cn": "中间道路",
+   "en": "middle way",
+   "source": "社会学名词",
+   "wordNumber": "4.3.3.3",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会政策对象及领域",
+   "subjectName": "社会政策对象及领域",
+   "publishYear": "2025",
+   "definition": "自由放任主义所带来的社会经济问题必须增加国家的福利供给。福利改革兼具消灭贫困和支持资本主义的目的，提倡实用主义和福利多元主义。英国保守党代表麦克米伦在《中间道路》一书提出。"
+  },
+  {
+   "cn": "中间等级",
+   "en": "middle class",
+   "source": "马克思主义",
+   "wordNumber": "03.0224",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "资产阶级和无产阶级之间的阶级或集团。《共产党宣言》中提出了这一概念。在《法兰西内战》等著作又称中等阶级。主要指农民、手工业者、商人、店主等小资产阶级。"
+  },
+  {
+   "cn": "中间阶级",
+   "en": "middle class",
+   "source": "马克思主义",
+   "wordNumber": "03.0225",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "社会阶级结构中处于中间地位的阶级或阶层。在资产阶级反抗封建专制的革命时期，资产阶级或小资产阶级就是这样的阶级。16-17世纪，随着生产和贸易的发展，日益增长而且已经相当强大的中间阶级逐渐同贵族并列。到"
+  },
+  {
+   "cn": "中间势力",
+   "en": "middle forces",
+   "source": "马克思主义",
+   "wordNumber": "03.0370",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "民族资产阶级、开明绅士和地方实力派。中国共产党关于抗日民族统一战线的策略总方针是发展进步势力，争取中间势力，孤立顽固势力。争取中间力量要有一定的条件：一是共产党要有充足的力量；二是尊重他们的利益；三是"
+  },
+  {
+   "cn": "老中产阶级",
+   "en": "old middle class",
+   "source": "社会学名词",
+   "wordNumber": "2.6.5.9",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_阶级",
+   "subjectName": "阶级",
+   "publishYear": "2025",
+   "definition": "处于资产阶级与无产阶级之间的群体。由马克思提出，主要指小业主、小雇主及小手工业者等。与“新中产阶级”相对。"
+  },
+  {
+   "cn": "新中产阶级",
+   "en": "new middle class",
+   "source": "社会学名词",
+   "wordNumber": "2.6.4.10",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会流动",
+   "subjectName": "社会流动",
+   "publishYear": "2025",
+   "definition": "处于资产阶级与无产阶级之间的群体。由新马克思主义者提出，主要指受雇于他人的白领工人（领取薪金的非体力劳动者）。其阶级地位既不同于资产阶级（雇主），也不同于工人阶级（受雇的蓝领工人），与老中产阶级所指不"
+  },
+  {
+   "cn": "中产阶级文化",
+   "en": "middle class culture",
+   "source": "社会学名词",
+   "wordNumber": "3.8.4.15",
+   "subjectFullName": "社会学名词_分支社会学_文化社会学_群体文化",
+   "subjectName": "群体文化",
+   "publishYear": "2025",
+   "definition": "处于社会等级中间的阶层文化，是介于上层和劳工阶级的文化形式。"
+  },
+  {
+   "cn": "托洛茨基的中间道路",
+   "en": "Trotskys middle way",
+   "source": "马克思主义",
+   "wordNumber": "04.0346",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "在布尔什维克反对“取消派”和“召回派”进行两条战线斗争中，以托洛茨基为首的所谓“非派别”分子，打起“超党派”的旗号，调和所有社会民主党各派和各种思潮，鼓吹革命者和机会者和平相处，来为取消派和召回派效劳"
+  },
+  {
+   "cn": "中耳气压伤",
+   "en": "middle ear barotrauma",
+   "source": "军事预防医学名词",
+   "wordNumber": "12.2.3.3.1",
+   "subjectFullName": "军事预防医学_航海和潜水医学_潜水医学",
+   "subjectName": "潜水医学",
+   "publishYear": "2025",
+   "definition": "在潜水或高气压暴露过程中，由于中耳鼓室内外压力不平衡而产生的一种病理改变。"
+  },
+  {
+   "cn": "中程理论",
+   "en": "middle range theory",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0073",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "美国考古学家路易斯·宾福德（Lewis Binford）提出的一种理论体系，他将这种理论比作材料解读的罗塞达碑，通过采用民族考古学和实验考古学等方法，试图在残缺不全的考古遗存与现代民族考古学观察和实验"
+  },
+  {
+   "cn": "中耳及鼻窦气压性损伤",
+   "en": "barotrauma to the middle ear and sinuses",
+   "source": "军事预防医学名词",
+   "wordNumber": "11.1.1.5",
+   "subjectFullName": "军事预防医学_航空和航天医学_航空医学",
+   "subjectName": "航空医学",
+   "publishYear": "2025",
+   "definition": "飞机升降过程中，外界气体不易与中耳鼓室及鼻窦腔进行交换，形成腔内外压差所致的损伤，尤以下降过程最为明显。"
+  },
+  {
+   "cn": "谜语",
+   "en": "riddle",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0353",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "用于猜射娱乐的短小作品。一般由谜面、谜目和谜底三部分组成，谜面是隐喻性的短谣，谜目是猜射的范围和格式，谜底则是谜面所指的事物。"
+  },
+  {
+   "cn": "食品添加剂超范围使用",
+   "en": "food additive use exceeded allowed scope",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.25.7",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "在食品添加剂使用标准所允许使用的食品类别外的食品中添加食品添加剂"
+  },
+  {
+   "cn": "食品添加剂超限量使用",
+   "en": "food additive use exceeded maximum use level",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.25.8",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "在食品添加剂使用标准所允许的特定食品中超出使用限量添加食品添加剂"
+  },
+  {
+   "cn": "鞍鼻",
+   "en": "saddle nose，SN",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.3.4.10",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_体征",
+   "subjectName": "体征",
+   "publishYear": "2025",
+   "definition": "鼻梁比正常高度低，鼻梁外形平坦或向内塌陷凹入呈马鞍状畸形。其可见于多种疾病，如先天性鼻骨或中隔软骨发育不良、鼻中隔手术后遗症、呆小病、肉芽肿性多血管炎、复发性多软骨炎、梅毒/麻风特异性感染性疾病等。"
+  },
+  {
+   "cn": "航天器乘员舱化学污染",
+   "en": "chemical pollution in the spacecraft module",
+   "source": "军事预防医学名词",
+   "wordNumber": "11.2.5",
+   "subjectFullName": "军事预防医学_航空和航天医学_航天医学",
+   "subjectName": "航天医学",
+   "publishYear": "2025",
+   "definition": "航天器乘员舱中由航天员的代谢挥发物、乘员舱非金属材料脱出的有害气体和燃烧产物、有毒化学品的存放容器或管道的泄漏物、食品和生活用品的挥发物、大气悬浮颗粒等造成的污染。"
+  },
+  {
+   "cn": "三哩岛核事故",
+   "en": "Three Mile Island nuclear accident",
+   "source": "放射卫生学",
+   "wordNumber": "10.2.3.3",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_历史事件_核辐射事故",
+   "subjectName": "核辐射事故",
+   "publishYear": "2025",
+   "definition": "1979年3月28日发生在美国宾夕法尼亚州萨斯奎哈纳河三哩岛核电站2号压水堆事故。由于设备故障和人员误操作，造成2/3堆芯熔化或严重损坏，有50%的气态裂变产物从燃料中释放出来，大量放射性物质堆积在核"
+  },
+  {
+   "cn": "单克隆免疫球蛋白沉积病",
+   "en": "monoclonal immunoglobulin deposition disease ， MIDD",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.6.18",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_血液相关疾病",
+   "subjectName": "血液相关疾病",
+   "publishYear": "2025",
+   "definition": "一组由浆细胞异常增生产生的轻链和（或)重链，以非纤维样沉积于脏器、组织，造成多脏器损伤的疾病，刚果红染色阴性为特点，是浆细胞恶性肿瘤一种类型。肾为其最常累及的器官，也可沉积于心脏、肝、脾脏、神经系统、"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

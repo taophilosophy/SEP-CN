@@ -1,0 +1,672 @@
+{
+ "key": "evolutionary biology",
+ "term": "evolutionary biology",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-22T06:02:22+00:00",
+ "status": "ok",
+ "note": "variant=evolutionary biology; 审定公布名词库=562; 海峡两岸名词对照库=243; 其他来源数据库=44; 预公布名词数据库=39; jwt-direct（JWT 直连，raw 略；已滤维基 14 条）",
+ "hits": [
+  {
+   "cn": "进化生物学",
+   "en": "evolutionary biology",
+   "source": "农学名词",
+   "wordNumber": "06.026",
+   "subjectFullName": "作物基因组学与遗传育种_作物起源进化与多样性",
+   "subjectName": "作物起源进化与多样性",
+   "publishYear": "2025",
+   "definition": "研究生命起源、进化、物种多样性及遗传多样性形成演变的学科。"
+  },
+  {
+   "cn": "进化生物学",
+   "en": "evolutionary biology",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.433",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_生物学哲学",
+   "subjectName": "生物学哲学",
+   "publishYear": "2024",
+   "definition": "研究生物进化过程和生物群落特征的综合性学科。包括生态学、行为学和分类学等。"
+  },
+  {
+   "cn": "进化生物学",
+   "en": "evolutionary biology",
+   "source": "生物物理学名词",
+   "wordNumber": "06.002",
+   "subjectFullName": "生物物理学_生物信息学_生物信息学概要",
+   "subjectName": "生物信息学概要",
+   "publishYear": "2018",
+   "definition": "研究生命进化及演变原理与机制的学科。"
+  },
+  {
+   "cn": "演化生物学",
+   "en": "evolutionary biology",
+   "source": "计算机科学技术名词",
+   "wordNumber": "12.0155",
+   "subjectFullName": "计算机科学技术_计算机交叉学科_生物信息学",
+   "subjectName": "生物信息学",
+   "publishYear": "2018",
+   "definition": "生物学的一个分支。主要研究导致地球上生物多样性的生物进化过程。"
+  },
+  {
+   "cn": "植物进化生物学",
+   "en": "plant evolutionary biology",
+   "source": "植物学名词",
+   "wordNumber": "01.0019",
+   "subjectFullName": "植物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2019",
+   "definition": "研究植物物种的起源和多样化及其原因，并探讨植物谱系之间关系及其进化历史的综合性学科。"
+  },
+  {
+   "cn": "进化发育生物学",
+   "en": "evolutionary developmental biology,evo-devo",
+   "source": "植物学名词",
+   "wordNumber": "01.0020",
+   "subjectFullName": "植物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2019",
+   "definition": "研究生物表型遗传变化、发育机制的学科。目的在于揭示发育过程和机制在进化中是如何被修饰，以及曾有或现有的多样性是如何从这些变化中产生的。"
+  },
+  {
+   "cn": "演化发育生物学",
+   "en": "evolutionary developmental biology,evo-devo",
+   "source": "古生物学名词",
+   "wordNumber": "01.0034",
+   "subjectFullName": "古生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2009",
+   "definition": "研究发育和演化相互关系的学科。胚胎发育是一个从祖先基因到新近基因的依次表达过程，个体发育不可能完全重演系统发育的进程，却能显示其中的某些特征。"
+  },
+  {
+   "cn": "生物学",
+   "en": "biology",
+   "source": "核医学名词",
+   "wordNumber": "01.0015",
+   "subjectFullName": "核医学_总论",
+   "subjectName": "总论",
+   "publishYear": "2018",
+   "definition": "研究生命现象和生物活动规律的学科。"
+  },
+  {
+   "cn": "重力生物学",
+   "en": "gravitational biology,gravity biology",
+   "source": "生物物理学名词",
+   "wordNumber": "11.001",
+   "subjectFullName": "生物物理学_空间与极端环境生物物理学",
+   "subjectName": "空间与极端环境生物物理学",
+   "publishYear": "2018",
+   "definition": "研究不同重力环境(如重力、失重、超重，主要是失重)对生物影响的规律，辨认重力敏感系统，分析生物机体所有组织层次上的重力敏感响应，以阐明重力在生命形成过程及进化、发育中作用的学科。重点研究生物进入宇宙空"
+  },
+  {
+   "cn": "进化生态学",
+   "en": "evolutionary ecology",
+   "source": "动物学名词",
+   "wordNumber": "7.0008",
+   "subjectFullName": "动物学_动物生态学_概论",
+   "subjectName": "概论",
+   "publishYear": "2021",
+   "definition": "研究地球上众多物种如何在复杂的生物和物理环境中，不断地演变并获得完美的结构和相互适应能力的科学。"
+  },
+  {
+   "cn": "进化生态学",
+   "en": "evolutionary ecology",
+   "source": "生态学名词",
+   "wordNumber": "01.050",
+   "subjectFullName": "生态学_总论",
+   "subjectName": "总论",
+   "publishYear": "2006",
+   "definition": "研究地球上众多物种如何在复杂的生物和物理环境中,不断地演变并获得完美的结构和相互适应能力的学科。"
+  },
+  {
+   "cn": "合成生物学",
+   "en": "synthetic biology",
+   "source": "农学名词",
+   "wordNumber": "15.081",
+   "subjectFullName": "农业生物技术_基因工程",
+   "subjectName": "基因工程",
+   "publishYear": "2025",
+   "definition": "运用系统生物学和工程学原理，综合生物化学、生物物理学和生物信息学等技术，设计、改造和重建生物合成路径，构建人工生物体系的一门新兴学科。"
+  },
+  {
+   "cn": "生物灾害",
+   "en": "biology disaster",
+   "source": "急救医学名词",
+   "wordNumber": "05.009",
+   "subjectFullName": "急救医学_灾难医学_基本概念_通用概念",
+   "subjectName": "通用概念",
+   "publishYear": "2025",
+   "definition": "有害生物对人类生产、生活和生态空间的人、财产、资源环境造成损害的自然灾害。如植物病害、植物虫害、草害、鼠害、赤潮灾害、疫情灾害和其他生物灾害等。"
+  },
+  {
+   "cn": "土壤生物学",
+   "en": "soil biology",
+   "source": "农学名词",
+   "wordNumber": "09.175",
+   "subjectFullName": "土壤肥料_土壤学",
+   "subjectName": "土壤学",
+   "publishYear": "2025",
+   "definition": "研究土壤中生物的种类、分布、功能及与土壤和环境间相互关系的学科。"
+  },
+  {
+   "cn": "分子生物学",
+   "en": "molecular biology",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.0016",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "从分子水平上研究生物大分子（蛋白质、核酸等）的结构和功能、生命现象基本过程、分子间相互作用及基因表达调控机制等，以揭示各种生命现象本质的学科。"
+  },
+  {
+   "cn": "结构生物学",
+   "en": "structural biology",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.0021",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "以生物大分子（蛋白质、核酸等）的特定空间结构与其生物学功能的关系为基础，阐明生命现象与活动规律的学科。其研究核心是蛋白质及其与核酸、脂质、糖类等生物大分子形成复合物、组装体的精确三维结构、运动和相互作"
+  },
+  {
+   "cn": "系统生物学",
+   "en": "systems biology",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.0024",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "通过计算机运算、数学分析和建模等方法研究复杂生物系统组成成分（如基因、RNA和蛋白质等）的构成，以及在特定条件下这些组分间相互关系的学科。"
+  },
+  {
+   "cn": "合成生物学",
+   "en": "synthetic biology",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.0025",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "利用生物学与工程学等的原理和技术，通过设计和合成新的生物元件、装置和系统，或是对已有的生物系统进行重新设计和改造实现特定的生物功能的学科。"
+  },
+  {
+   "cn": "发育生物学",
+   "en": "developmental biology",
+   "source": "兽医学名词",
+   "wordNumber": "07.019",
+   "subjectFullName": "兽医学_家畜胚胎学",
+   "subjectName": "家畜胚胎学",
+   "publishYear": "2023",
+   "definition": "应用现代生物学技术研究多细胞生物体从生殖细胞的发生、受精、胚胎发育、生长到衰老、死亡的机制和规律的学科。"
+  },
+  {
+   "cn": "保护生物学",
+   "en": "conservation biology ",
+   "source": "草学名词",
+   "wordNumber": "3.0235",
+   "subjectFullName": "草学_草地资源与利用",
+   "subjectName": "草地资源与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "进化生物学",
+   "en": "evolutionary biology",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "进化生物学",
+   "en": "evolutionary biology",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "植物进化生物学",
+   "en": "plant evolutionary biology",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "进化发育遗传学（=进化发育生物学）",
+   "en": "evolutionary developmental genetics\",\"evodevotics (=evolutionary developmental biology)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "进化发育生物学",
+   "en": "evolutionary developmental biology\",\"evo-devo",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "进化发生生物学",
+   "en": "evolutionary developmental biology\",\"Evo-Devo",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "进化生态学",
+   "en": "evolutionary ecology",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "进化生态学,演化生态学",
+   "en": "evolutionary ecology",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "进化生态学",
+   "en": "evolutionary ecology",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "发育生物学",
+   "en": "developmental biology",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "分子生物学",
+   "en": "molecular biology",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "细胞生物学",
+   "en": "cell biology",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "成花生物学",
+   "en": "floral biology",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "植物生物学",
+   "en": "plant biology",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "种群生物学",
+   "en": "population biology",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "海洋生物学",
+   "en": "marine biology",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "分子生物学",
+   "en": "molecular biology",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "环境生物学",
+   "en": "environmental biology",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "行星生物学",
+   "en": "planetary biology",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "种群生物学",
+   "en": "population biology",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "进化机器人",
+   "en": "evolutionary robot",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "进化算法",
+   "en": "evolutionary algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "进化论",
+   "en": "evolutionary theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《奇点临近》（〔美〕雷·库兹韦尔）",
+   "en": "The Singularity Is Near: When Humans Transcend Biology (Ray Kurzweil, USA)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "未来三部曲（《必然》《失控》《科技想要什么》）（〔美〕凯文·凯利）",
+   "en": "The Future Trilogy — The Inevitable: Understanding the 12 Technological Forces That Will Shape Our Future; Out of Control: The New Biology of Machines, Social Systems, and the Economic World; What Technology Wants (Kevin Kelly, USA)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "演化学习",
+   "en": "evolutional learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "分子生物学",
+   "en": "molecular biology",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.1.1",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_检测方法",
+   "subjectName": "检测方法",
+   "publishYear": "2025",
+   "definition": "从分子水平上研究生命现象物质基础的学科。研究细胞成分的物理、化学的性质和变化以及这些性质和变化与生命现象的关系，如遗传信息的传递，基因的结构、复制、转录、翻译、表达调控和表达产物的生理功能，以及细胞信"
+  },
+  {
+   "cn": "合成生物学",
+   "en": "synthetic biology",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.23.19",
+   "subjectFullName": "食品卫生学_食品_其他食品",
+   "subjectName": "其他食品",
+   "publishYear": "2025",
+   "definition": "运用系统生物学和工程学原理，以基因组和生化分子合成为基础，整合生物领域化学、物理和信息等技术的学科。旨在设计、改造、重建生物分子、生物组件和生物分化过程，构建具有生命活性的生物组件、系统及人造细胞或生"
+  },
+  {
+   "cn": "进化论功能主义",
+   "en": "evolutionary functionalism",
+   "source": "社会学名词",
+   "wordNumber": "3.13.2.10",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的相关范式思路",
+   "subjectName": "历史社会学的相关范式思路",
+   "publishYear": "2025",
+   "definition": "一种在与有机体做类比中将人类社会视为自组织系统的理论，认为系统的各组成部分为了适应周边环境的变化而持续地发挥着各自的功能以保持整体的平衡，从而导致社会系统经历着从低级到高级、从简单到复杂不断进步的发展"
+  },
+  {
+   "cn": "进化伦理学",
+   "en": "evolutionary ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.207",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学相关学科",
+   "subjectName": "医学伦理学相关学科",
+   "publishYear": "2025",
+   "definition": "研究自然选择理论和伦理学之间关系与实践的学科。"
+  },
+  {
+   "cn": "进化伦理学",
+   "en": "evolutionary ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.146",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学流派",
+   "subjectName": "伦理学流派",
+   "publishYear": "2025",
+   "definition": "用进化论解释道德的起源、发展和本质的伦理学说。认为进化分为宇宙过程和自然过程，以生存竞争、适者生存为动力；社会是一个有机体，按照进化论的变异、自然选择、遗传等原理发展，人类道德发展规律服从于生物进化的"
+  },
+  {
+   "cn": "细胞放射生物学",
+   "en": "cellular radiation biology",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.4",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "从亚细胞、细胞和细胞群体的不同层次结构及细胞间关系，动态系统地阐明电离辐射对细胞单位生命活动影响基本规律的学科。"
+  },
+  {
+   "cn": "分子放射生物学",
+   "en": "molecular radiation biology",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.5",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "从分子水平上研究电离辐射所致核酸、蛋白质等生物大分子的结构、功能、生物合成和代谢等变化来阐明电离辐射生物效应及其机制的学科。"
+  },
+  {
+   "cn": "社会生物学",
+   "en": "social biology/ Sociobiology",
+   "source": "社会学名词",
+   "wordNumber": "2.1.7.18",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会意识",
+   "subjectName": "社会意识",
+   "publishYear": "2025",
+   "definition": "以生物学、进化论、动物行为学、动物学、族群遗传学、种群生态学等多学科观点和方法研究生物的社会行为、组织功能、种群活动规律等一般生物界现象，并试图以此结论来解释人类行为和社会生活的交叉学科。由美国学者爱"
+  },
+  {
+   "cn": "进化潜力法则",
+   "en": "law of evolutionary potential",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0583",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "美国人类学家塞维斯（Elman Rogers Service）在《进化的潜势》一文中，提出在“不发达的”文明社会中，存在着一定的发达社会所不具有的进化潜势。有一些落后社会它们通过引进发达社会的文化，从"
+  },
+  {
+   "cn": "生物样品个人监测",
+   "en": "personal monitoring with biology sampling",
+   "source": "放射卫生学",
+   "wordNumber": "5.4.2.3",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测类型",
+   "subjectName": "辐射监测类型",
+   "publishYear": "2025",
+   "definition": "内照射个人监测的一种方法。通过测量人体的生物样品，包括尿、粪、血液、唾液和汗液等样品的放射性并估算人员体内放射性沉积量而进行的监测。"
+  },
+  {
+   "cn": "革命阶级",
+   "en": "revolutionary class",
+   "source": "马克思主义",
+   "wordNumber": "03.0027",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在阶级社会适应生产力的发展要求、推动社会发展和人类进步的阶级。在奴隶社会，革命阶级是地主阶级和奴隶阶级。在封建社会，革命阶级可以是资产阶级和农民阶级。在资本主义社会，革命阶级则是工人阶级和广大农民同盟"
+  },
+  {
+   "cn": "革命危机",
+   "en": "revolutionary crisis",
+   "source": "马克思主义",
+   "wordNumber": "03.0028",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在资本主义危机中产生的无产阶级革命的条件和机会。资本主义生产方式在不断地制造自身的掘墓人无产阶级，也在不断的经济危机中制造革命危机。当经济危机中私人信用已经瘫痪，流通已经不畅，生产已经停滞时，无产阶级"
+  },
+  {
+   "cn": "革命人道主义",
+   "en": "revolutionary humanitarianism",
+   "source": "马克思主义",
+   "wordNumber": "03.0469",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东在革命战争时期提出的一项伦理原则, 是与无产阶级、劳动人民的革命斗争相联系的人道主义，是社会主义人道主义的前身。"
+  },
+  {
+   "cn": "革命法庭",
+   "en": "revolutionary tribunal",
+   "source": "马克思主义",
+   "wordNumber": "04.0071",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "1917—1922年间存在于苏维埃俄国，是处理反革命案件的特别法庭。当时在主要都市和城镇都设立了这种法庭。"
+  },
+  {
+   "cn": "革命民主主义",
+   "en": "revolutionary democracy",
+   "source": "马克思主义",
+   "wordNumber": "04.0307",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "反对封建专制制度的过程中形成的社会革命思潮和政治主张。依据革命领导权的不同，又可分为资产阶级革命民主主义和无产阶级革命民主主义。"
+  },
+  {
+   "cn": "革命护国主义",
+   "en": "Revolutionary Defensism",
+   "source": "马克思主义",
+   "wordNumber": "04.0363",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "第一次世界大战时期俄国社会民主党内产生的一种机会主义思潮。第一次世界大战爆发后，普列汉诺夫等人支持俄国参加帝国主义战争，认为这是保卫国家的合理战争；主张放弃阶级斗争，并竭力用资产阶级民族主义和社会沙文"
+  },
+  {
+   "cn": "革命现实主义和革命浪漫主义相结合",
+   "en": "combine revolutionary realism with revolutionary romanticism",
+   "source": "马克思主义",
+   "wordNumber": "03.0463",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "根据毛泽东1958年关于中国新诗“形式是民歌，内容应是现实主义和浪漫主义对立的统一”的精神而提出的文艺创作的一种方法。要求文艺工作者从无产阶级的立场出发，以马克思主义为指导去观察和表现生活，把客观现实"
+  },
+  {
+   "cn": "革命根据地",
+   "en": "revolutionary base areas",
+   "source": "马克思主义",
+   "wordNumber": "03.0357",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国共产党在第二次国内革命战争、抗日战争和解放战争时期据以长期进行武装斗争的区域。是共产党领导人民军队赖以执行自己的战略任务, 达到保存自己,消灭敌人之目的的战略基地，是中国革命胜利的基地。"
+  },
+  {
+   "cn": "社会革命党",
+   "en": "Socialist Revolutionary Party",
+   "source": "马克思主义",
+   "wordNumber": "04.0408",
+   "subjectFullName": "马克思主义_其他部分_重要组织政党_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "俄国最大的小资产阶级政党。该党于1901年底至1902年初由南方社会革命党、社会革命党人联合会等民粹派团体联合而成。社会革命党人的理论观点是民粹主义和修正主义思想的折中混合物。他们否认无产阶级在资产阶"
+  },
+  {
+   "cn": "革命国际主义运动",
+   "en": "revolutionary internationalist movement",
+   "source": "马克思主义",
+   "wordNumber": "05.0273",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_国外社会主义思想流派",
+   "subjectName": "国外社会主义思想流派",
+   "publishYear": "2025",
+   "definition": "由十多个国家的毛主义政党组成的、坚持马列主义毛泽东思想的毛泽东主义组织，成立于1984年。成员包括尼泊尔联合共产党（毛主义）、印度共产党（毛主义）、美国革命共产党、秘鲁共产党（光辉道路）以及菲律宾共产"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

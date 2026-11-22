@@ -1,0 +1,722 @@
+{
+ "key": "semantic values",
+ "term": "semantic values",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-22T06:00:36+00:00",
+ "status": "ok",
+ "note": "variant=semantic values; 审定公布名词库=2913; 海峡两岸名词对照库=861; 其他来源数据库=90; 预公布名词数据库=132; jwt-direct（JWT 直连，raw 略；已滤维基 9 条）",
+ "hits": [
+  {
+   "cn": "语义学",
+   "en": "semantics",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.206",
+   "subjectFullName": "新闻学与传播学_传播总论_模式与方法",
+   "subjectName": "模式与方法",
+   "publishYear": "2022",
+   "definition": "研究语义表达的规律性、内在解释、不同语言在语义表达方面的个性以及共性。人类语言中，词汇可以有着许多不同的意义(meaning)，然而同一时代的词汇却往往有着相似的意义。对跨文化传播而言，语义学在于让人"
+  },
+  {
+   "cn": "语义",
+   "en": "semantics",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0005",
+   "subjectFullName": "计算机科学技术_系统软件_语言与编译",
+   "subjectName": "语言与编译",
+   "publishYear": "2018",
+   "definition": "语言中各个成分的含义。"
+  },
+  {
+   "cn": "语义学",
+   "en": "semantics",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0484",
+   "subjectFullName": "计算机科学技术_人工智能_计算语言学",
+   "subjectName": "计算语言学",
+   "publishYear": "2018",
+   "definition": "研究自然语言或人工语言的形式和意义间关系的语言学分支。"
+  },
+  {
+   "cn": "语义",
+   "en": "semantics",
+   "source": "数学名词",
+   "wordNumber": "02.0016",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "语义学",
+   "en": "semantics,linguistic semantics",
+   "source": "语言学名词",
+   "wordNumber": "05.001",
+   "subjectFullName": "语言学_语义学、词汇学_语义学与语义理论",
+   "subjectName": "语义学与语义理论",
+   "publishYear": "2011",
+   "definition": "①研究语言意义的学科。从研究角度和研究范畴可分为语言语义学、逻辑语义学、普通语义学、哲学语义学、文化语义学等；从历时发展角度可分为传统语义学和现代语义学；从理论模式角度可分为结构语义学、解释语义学、生"
+  },
+  {
+   "cn": "语义检索",
+   "en": "semantic retrieval,semantic search",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.046",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_检索技术与方法",
+   "subjectName": "检索技术与方法",
+   "publishYear": "2019",
+   "definition": "通过正确分析语法格式，在理解词语的准确意思和词语之间关系的条件下，检索系统根据要求从语义层面上自动从信息源中查询和提取有关信息的过程。"
+  },
+  {
+   "cn": "语义分析",
+   "en": "semantic analysis,semantic parsing",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0534",
+   "subjectFullName": "计算机科学技术_人工智能_计算语言学",
+   "subjectName": "计算语言学",
+   "publishYear": "2018",
+   "definition": "对自然语言进行分析并得到其意义的形式化表示的过程、技术和方法。"
+  },
+  {
+   "cn": "普通语义学",
+   "en": "general semantics,theoretic semantics",
+   "source": "语言学名词",
+   "wordNumber": "05.004",
+   "subjectFullName": "语言学_语义学、词汇学_语义学与语义理论",
+   "subjectName": "语义学与语义理论",
+   "publishYear": "2011",
+   "definition": "语义学的一个分支。主要研究语言交际中的意义问题。"
+  },
+  {
+   "cn": "语义引擎",
+   "en": "semantic engine",
+   "source": "农学名词",
+   "wordNumber": "16.226",
+   "subjectFullName": "农业信息_农业信息技术",
+   "subjectName": "农业信息技术",
+   "publishYear": "2025",
+   "definition": "利用语义模型进行信息检索的方法。"
+  },
+  {
+   "cn": "语义规则",
+   "en": "semantic rule",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.128",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "为特定符号或者单词赋予意义的约定俗成的规则。"
+  },
+  {
+   "cn": "语义真理",
+   "en": "semantic truth",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.131",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "特定形式语言的所有句子都可以根据它们的基本专名与谓词的指称给出明确的真的定义。"
+  },
+  {
+   "cn": "语义分析",
+   "en": "semantic analysis",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.132",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "一个关联句法结构的过程，从词组、分句、句子、段落、整篇文章，到独立于语言的意义。"
+  },
+  {
+   "cn": "语义的不可通约性",
+   "en": "semantic incommensurability",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.184",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会_历史转向",
+   "subjectName": "历史转向",
+   "publishYear": "2024",
+   "definition": "不存在一种中立语言，使得新、旧两种范式的陈述可以翻译到该语言，从而实现新、旧范式之间的合理性对比。"
+  },
+  {
+   "cn": "语义引擎",
+   "en": "semantic engine",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.687",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "由丹尼尔·丹尼特（Daniel Dennett）提出的。用于指代语义遵从语法的自动形式系统。其是智能的充分必要条件。"
+  },
+  {
+   "cn": "语义信息",
+   "en": "semantic information",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.688",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "语法上恰当排列的有意义的数据所组成的信息，其所携带的意义即信息的语义。"
+  },
+  {
+   "cn": "语义网络",
+   "en": "semantic network",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.040",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "用来表达复杂的概念及其之间的相互关系，其顶点表示概念，而边则表示概念间的语义关系，从而形成一个由节点和弧组成的语义网络描述图。"
+  },
+  {
+   "cn": "语义规则",
+   "en": "semantic rule",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "8.007",
+   "subjectFullName": "新闻学与传播学_人际沟通_人际沟通基础",
+   "subjectName": "人际沟通基础",
+   "publishYear": "2022",
+   "definition": "沟通者双方给语言符号赋予特定意义的方式与约定。缺少语义规则，沟通是不可能实现的。"
+  },
+  {
+   "cn": "语义出版",
+   "en": "semantic publication",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.01.026",
+   "subjectFullName": "编辑与出版学_数字出版_综述",
+   "subjectName": "综述",
+   "publishYear": "2022",
+   "definition": "利用计算机对自然语言的含义及其关系进行处理并提供科学、权威和及时的知识服务，是一种自动快速地整合信息内容、可进行跨学科的知识链接并可获取文献内容中数据的智能化出版模式。"
+  },
+  {
+   "cn": "数据语义",
+   "en": "data semantic",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.01.043",
+   "subjectFullName": "编辑与出版学_数字出版_综述",
+   "subjectName": "综述",
+   "publishYear": "2022",
+   "definition": "数据由没有具体意义的符号到成为信息的过程中所赋予的含义。"
+  },
+  {
+   "cn": "语义分析",
+   "en": "semantic analysis",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.01.059",
+   "subjectFullName": "编辑与出版学_数字出版_综述",
+   "subjectName": "综述",
+   "publishYear": "2022",
+   "definition": "使计算机能够正确理解和处理自然语言各组成部分，包括词、词组、句子、段落和篇章的含义及其相互关系等。根据分析对象的不同，语义分析可分为语法分析、句法分析、篇章分析等，其目的在于挖掘数据中内在的、与描述语"
+  },
+  {
+   "cn": "语义",
+   "en": "semantic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "语义学",
+   "en": "semantics",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "语义编码",
+   "en": "semantic encoding\",\"semantic coding",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "语义分析",
+   "en": "semantic analysis",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "语义网络",
+   "en": "semantic network",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "语义启动",
+   "en": "semantic priming",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "语义记忆",
+   "en": "semantic memory",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "语义知识",
+   "en": "semantic knowledge",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "语义码",
+   "en": "semantic code",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "语义信息",
+   "en": "semantic information",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "语义转换器",
+   "en": "semantic Translator",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "语义场",
+   "en": "semantic field",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "语义词典",
+   "en": "semantic dictionary",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "语义分析",
+   "en": "semantic analysis",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "语义合一",
+   "en": "semantic unification",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "语义记忆",
+   "en": "semantic memory",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "语义检查",
+   "en": "semantic test",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "语义距离",
+   "en": "semantic distance",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "语义理论",
+   "en": "semantic theory",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "语义属性",
+   "en": "semantic attribute",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "语义网络",
+   "en": "semantic network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "语义搜索",
+   "en": "semantic search",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "语义对等",
+   "en": "semantic equivalence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "语义模型",
+   "en": "semantic model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "语义建模",
+   "en": "semantic modeling",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "价值",
+   "en": "value",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "隐性语义索引",
+   "en": "latent semantic indexing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "分布语义假设",
+   "en": "distributional semantics hypothesis",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据语义标准",
+   "en": "data semantics standard",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "共享价值观",
+   "en": "shared value",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "价值交换",
+   "en": "value exchange",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "语义的不可通约性",
+   "en": "semantic incommensurability",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.184",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "不存在一种中立语言，使得新、旧两种范式的陈述可以翻译到该语言，从而实现新、旧范式之间的合理性对比。"
+  },
+  {
+   "cn": "价值观",
+   "en": "values",
+   "source": "社会学名词",
+   "wordNumber": "3.8.2.7",
+   "subjectFullName": "社会学名词_分支社会学_文化社会学_大众传媒研究",
+   "subjectName": "大众传媒研究",
+   "publishYear": "2025",
+   "definition": "人们对事物及意义的评价体系，是人们采取行动或行为取向的评价尺度和选择标准。"
+  },
+  {
+   "cn": "价值",
+   "en": "value",
+   "source": "马克思主义",
+   "wordNumber": "02.0036",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "凝结在商品中无差别的人类劳动，包括脑力劳动和体力劳动。价值是商品所特有的属性，作为商品的社会属性，它反映的是商品生产者之间的社会关系。"
+  },
+  {
+   "cn": "价值",
+   "en": "value",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.1159999999999999",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "客体对主体需要的效用。作为元伦理范畴，价值是客体具有的满足主体需要、实现主体欲望、符合主体目的的效用性。"
+  },
+  {
+   "cn": "语义差异量表",
+   "en": "semantic differential scale",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.47",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "以形容词的正反意义为基础、通过等值的评定等级测量态度和感知的量表。是20世纪40年代到50年代由奥斯古德发展的。"
+  },
+  {
+   "cn": "语义网络分析",
+   "en": "semantic network analysis",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.16",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "表现概念间语义关系的网络图.是一种常见的知识呈现形式。"
+  },
+  {
+   "cn": "表意文字",
+   "en": "semantic script; ideography",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0195",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "文字类型之一。字符本身或其结构单位与所记录的词的意义有一定联系而与所记录词的读音没有直接联系的书写符号系统。"
+  },
+  {
+   "cn": "反价值",
+   "en": "anti-values",
+   "source": "社会学名词",
+   "wordNumber": "4.4.5.17",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的价值观",
+   "subjectName": "社会工作的价值观",
+   "publishYear": "2025",
+   "definition": "与社会工作专业价值取向相抵触的消极价值取向。其既可存在于社会工作者与案主的关系之中，又可存在于社会工作者与机构的关系之中，还可存在于社会工作者的相互关系之间。从理论形态而言，社会工作的反价值包括操纵和"
+  },
+  {
+   "cn": "教育价值观",
+   "en": "educational values",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0141",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "人们对整个教育核心价值或基础价值的看法或观念，以及对其他的教育观念有直接或间接的影响作用，与其他的教育观念一起规范着、指导着或调节着人们的教育行为。"
+  },
+  {
+   "cn": "S值",
+   "en": "S value, ",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.23",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "对于男性参考人和女性参考人，源区rS中给定放射性核素的每次核转变（核反应或衰变）到靶区rT的当量剂量，Sv(Bq·s)-1。"
+  },
+  {
+   "cn": "D值",
+   "en": "D value",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.115",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "在一定的处理环境中和在一定的热力致死温度条件下，某细菌数群中每杀死90%原有残存活菌数时所需要的时间。"
+  },
+  {
+   "cn": "A0值",
+   "en": "A0 value",
+   "source": "消毒学",
+   "wordNumber": "2.2.1.1",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "生物体在80℃时达到特定Z值所用的等效时间，是评价湿热消毒效果的指标之一，单位以秒（S）表示。A0值为600时实现低水平消毒，A0值为3000时实现中水平消毒。"
+  },
+  {
+   "cn": "标定值",
+   "en": "stated value",
+   "source": "消毒学",
+   "wordNumber": "3.1.4.4.2",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "当指示物变化达到指示物制造商定义的终点时，过程关键变量的值或值的范围。"
+  },
+  {
+   "cn": "D值",
+   "en": "D-value",
+   "source": "消毒学",
+   "wordNumber": "3.1.5.5",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "在规定条件下，杀灭试验微生物总数的90%所需的时间或剂量。"
+  },
+  {
+   "cn": "pH值",
+   "en": "pH value",
+   "source": "消毒学",
+   "wordNumber": "6.1.12.2",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "溶液中氢离子浓度的负对数值。"
+  },
+  {
+   "cn": "Q值",
+   "en": "Q value",
+   "source": "消毒学",
+   "wordNumber": "6.1.15.1",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "消毒作用温度每升高1℃消毒速度加快的倍数的温度系数。"
+  },
+  {
+   "cn": "Q10值",
+   "en": "Q10 value",
+   "source": "消毒学",
+   "wordNumber": "6.1.15.1.1",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "消毒作用温度每升高10℃消毒速度加快倍数的一种温度系数。"
+  },
+  {
+   "cn": "G值",
+   "en": "G value",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.1.1.35",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2025",
+   "definition": "表示辐射化学产额，物质每吸收100 eV电离辐射能量所形成的分子或基团数。其值大小，常与射线的能量和种类有关。"
+  },
+  {
+   "cn": "基线值",
+   "en": "baseline value",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.1.22",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_医用电离辐射",
+   "subjectName": "医用电离辐射",
+   "publishYear": "2025",
+   "definition": "设备性能参数的参考值。通常在验收检测合格后，由最初的性能检测得到，或者由相应的标准给定。"
+  },
+  {
+   "cn": "指导值",
+   "en": "guidance value",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.10",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "指定量的一个水平，高于该水平时应考虑采取适当的行动。某些情况下，在指定量实际上低于该水平时，亦可能需要考虑采取某些行动。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

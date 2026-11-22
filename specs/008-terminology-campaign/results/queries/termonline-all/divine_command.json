@@ -1,0 +1,782 @@
+{
+ "key": "divine command",
+ "term": "divine command",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-22T06:03:02+00:00",
+ "status": "ok",
+ "note": "variant=divine command; 审定公布名词库=2383; 海峡两岸名词对照库=661; 其他来源数据库=136; 预公布名词数据库=127; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "卜",
+   "en": "bu;divination",
+   "source": "中国古代史名词",
+   "wordNumber": "2.468",
+   "subjectFullName": "中国古代史_先秦_宗教",
+   "subjectName": "宗教",
+   "publishYear": "2022",
+   "definition": "用火灼龟甲、兽骨，据所产生裂纹形态预测吉凶的活动。殷商盛行，兼用“龟卜”“骨卜”，所用卜骨多为牛胛骨，亦有兽骨及少量人头骨，甲则多为龟腹、背甲。周人多用“龟卜”，用筮则称占。后世泛指各种占卜术。"
+  },
+  {
+   "cn": "命令",
+   "en": "command",
+   "source": "计算机科学技术名词",
+   "wordNumber": "03.0255",
+   "subjectFullName": "计算机科学技术_计算机体系结构_处理系统",
+   "subjectName": "处理系统",
+   "publishYear": "2018",
+   "definition": "规定计算机及相关设备应完成的基本动作，或者执行基本动作的一个或多个控制信号。"
+  },
+  {
+   "cn": "命令",
+   "en": "command",
+   "source": "地理信息系统名词",
+   "wordNumber": "02.313",
+   "subjectFullName": "地理信息系统_技术与应用",
+   "subjectName": "技术与应用",
+   "publishYear": "2012",
+   "definition": "给计算机程序的一个特定指示，由用户发出，计算机程序将执行相应的操作。"
+  },
+  {
+   "cn": "命令",
+   "en": "command",
+   "source": "电气工程名词",
+   "wordNumber": "16.082",
+   "subjectFullName": "电气工程_电气传动及其自动控制",
+   "subjectName": "电气传动及其自动控制",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "指令",
+   "en": "command",
+   "source": "电子学名词",
+   "wordNumber": "23.125",
+   "subjectFullName": "电子学_自控与三遥技术",
+   "subjectName": "自控与三遥技术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "指挥长",
+   "en": "commander",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.201",
+   "subjectFullName": "自然辩证法_科学、技术与社会_工程与社会",
+   "subjectName": "工程与社会",
+   "publishYear": "2024",
+   "definition": "一般在工程施工中为保证工程活动的有序运行，维护工程总目标的权威，协调、调度工程建设的各方，努力提高施工的效率，施工单位或公司设立的职位。该职位负责人受施工企业法人委托，代表施工企业，进行工程建设环节的"
+  },
+  {
+   "cn": "指令长",
+   "en": "commander",
+   "source": "航天科学技术名词",
+   "wordNumber": "11.014",
+   "subjectFullName": "航天科学技术_航天医学与载人航天",
+   "subjectName": "航天医学与载人航天",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "贞人",
+   "en": "zhen ren;diviner",
+   "source": "中国古代史名词",
+   "wordNumber": "2.109",
+   "subjectFullName": "中国古代史_先秦_政治_中央及地方职官",
+   "subjectName": "中央及地方职官",
+   "publishYear": "2022",
+   "definition": "殷墟甲骨卜辞中所见占卜过程的具体主持者。约相当于后世的卜官。"
+  },
+  {
+   "cn": "卜人",
+   "en": "bu ren;diviner",
+   "source": "中国古代史名词",
+   "wordNumber": "2.128",
+   "subjectFullName": "中国古代史_先秦_政治_中央及地方职官",
+   "subjectName": "中央及地方职官",
+   "publishYear": "2022",
+   "definition": "商周王室或贵族家族中主持占卜仪式的史官。"
+  },
+  {
+   "cn": "指示命令",
+   "en": "instruction command,standard command",
+   "source": "电力名词",
+   "wordNumber": "06.075",
+   "subjectFullName": "电力_调度与通信、电力市场",
+   "subjectName": "调度与通信、电力市场",
+   "publishYear": "2020",
+   "definition": "由控制中心发出的,且对有人站控制室中操作人员表明是一个标准的命令。如“启动发电机”、“调整发电机出力到……MW”等。"
+  },
+  {
+   "cn": "太卜",
+   "en": "tai bu;grand diviner",
+   "source": "中国古代史名词",
+   "wordNumber": "2.108",
+   "subjectFullName": "中国古代史_先秦_政治_中央及地方职官",
+   "subjectName": "中央及地方职官",
+   "publishYear": "2022",
+   "definition": "卜官之长。在周王室与诸侯国中掌管占卜事务。后世为负责具体占卜之事的官称。"
+  },
+  {
+   "cn": "风角",
+   "en": "feng jiao;wind divination",
+   "source": "中国古代史名词",
+   "wordNumber": "1.494",
+   "subjectFullName": "中国古代史_通论_思想文化_科技",
+   "subjectName": "科技",
+   "publishYear": "2022",
+   "definition": "观察风向、云气声色以占吉凶的知识技术。相传始于黄帝时期，商周已据四面八方风向、风力占测气候、农事、疾疫，相关数术战国以来受阴阳五行说影响而系统化，汉以来多以此称，常归入数术的五行类，其术趋于琐杂。"
+  },
+  {
+   "cn": "卜辞",
+   "en": "bu ci;divination inscriptions",
+   "source": "中国古代史名词",
+   "wordNumber": "2.397",
+   "subjectFullName": "中国古代史_先秦_思想文化_思想学术",
+   "subjectName": "思想学术",
+   "publishYear": "2022",
+   "definition": "商周时期契刻在卜骨、卜甲上的占卜记录，分为前辞、命辞、占辞、验辞、用辞（也称“孚辞”）等部分。"
+  },
+  {
+   "cn": "卜夕",
+   "en": "bu xi;evening divination",
+   "source": "中国古代史名词",
+   "wordNumber": "2.469",
+   "subjectFullName": "中国古代史_先秦_宗教",
+   "subjectName": "宗教",
+   "publishYear": "2022",
+   "definition": "殷商卜问夜晚有无灾祸、忧虑的仪式。殷墟甲骨文有卜“夕无忧”之辞。"
+  },
+  {
+   "cn": "习卜",
+   "en": "xi bu;repeat divination",
+   "source": "中国古代史名词",
+   "wordNumber": "2.471",
+   "subjectFullName": "中国古代史_先秦_宗教",
+   "subjectName": "宗教",
+   "publishYear": "2022",
+   "definition": "因袭前事而重复占卜。殷墟甲骨文有“习兹卜”“习龟卜”，西周亦有此习。"
+  },
+  {
+   "cn": "筮",
+   "en": "shi;counting rod divination",
+   "source": "中国古代史名词",
+   "wordNumber": "2.473",
+   "subjectFullName": "中国古代史_先秦_宗教",
+   "subjectName": "宗教",
+   "publishYear": "2022",
+   "definition": "以蓍草为工具的占卦活动。商周数字卦即在此基础上发展而来，西周以来盛行。"
+  },
+  {
+   "cn": "指令神经元",
+   "en": "command neuron",
+   "source": "生理学名词",
+   "wordNumber": "03.034",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "调度命令",
+   "en": "dispatching command",
+   "source": "电力名词",
+   "wordNumber": "06.015",
+   "subjectFullName": "电力_调度与通信、电力市场",
+   "subjectName": "调度与通信、电力市场",
+   "publishYear": "2020",
+   "definition": "电力系统值班调度员按照规定的权限对其调度范围内的下一级调度机构值班调度员和发电厂、变电站值班人员下达的调度任务和指令。"
+  },
+  {
+   "cn": "单命令",
+   "en": "single command",
+   "source": "电力名词",
+   "wordNumber": "06.064",
+   "subjectFullName": "电力_调度与通信、电力市场",
+   "subjectName": "调度与通信、电力市场",
+   "publishYear": "2020",
+   "definition": "使运行设备状态朝一个方向变化的命令。"
+  },
+  {
+   "cn": "双命令",
+   "en": "double command",
+   "source": "电力名词",
+   "wordNumber": "06.065",
+   "subjectFullName": "电力_调度与通信、电力市场",
+   "subjectName": "调度与通信、电力市场",
+   "publishYear": "2020",
+   "definition": "一对命令,其中每个命令都用来使运行设备改变到两个确定状态中的一个。"
+  },
+  {
+   "cn": "命令，指令",
+   "en": "command",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "命令",
+   "en": "command",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "神圣之诗",
+   "en": "Divine Poem\",\"The",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Scriabin (Skriabin), Alexander"
+  },
+  {
+   "cn": "连接命令",
+   "en": "link command",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "命令程序，指令程序",
+   "en": "command procedure",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "命令行",
+   "en": "command line",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "命令条",
+   "en": "command bar",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "用户命令",
+   "en": "user command",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "安全指令",
+   "en": "safety command",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "保密指令",
+   "en": "secret command",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "比例指令",
+   "en": "proportional command",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "操作命令",
+   "en": "operating command",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "操作员命令",
+   "en": "operator command",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "程序指令",
+   "en": "program command",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "断续指令",
+   "en": "discontinuous command",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "告警指令",
+   "en": "alarm command",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "回收指令",
+   "en": "recovery command",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "开关指令",
+   "en": "switch command",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "控制指令",
+   "en": "control command",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "离散指令",
+   "en": "discrete command",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "指令位姿",
+   "en": "command pose",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "远程侦查指挥",
+   "en": "remote investigation command",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "移动应急指挥平台",
+   "en": "mobile emergency command platform",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "合成作战指挥系统",
+   "en": "joint operations command system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "情指联动指挥系统",
+   "en": "intelligence-based policing command system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公共卫生应急指挥信息系统",
+   "en": "public health emergency command information system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "运用之妙，存乎一心",
+   "en": "The Skillful Use of Tactics Depends on the Thinking and Judgment of the Commander.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "道义可尊，无择负贩",
+   "en": "A Person Who Leads a Moral and Righteous Life Commands Respect Even If He Is a Humble Peddler.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "鱼跃救球",
+   "en": "dive\",\"diving save",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "鱼跃射门",
+   "en": "dive shot\",\"diving shot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "跳水运动",
+   "en": "diving",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数字鸿沟",
+   "en": "digital divide",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "鱼跃救球",
+   "en": "diving retrieve",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "跳水比赛",
+   "en": "diving competition",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "跳台跳水",
+   "en": "platform diving",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "双人跳水",
+   "en": "synchronized diving",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "跳板跳水",
+   "en": "springboard diving",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "占卜",
+   "en": "divination",
+   "source": "社会学名词",
+   "wordNumber": "4.2.9.34",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化现象",
+   "subjectName": "文化现象",
+   "publishYear": "2025",
+   "definition": "通过研究观察各种征兆所得到的不完全的依据来判断未知事物或预测未来的方法。通常被看成是巫术的组成部分，也与宗教有密切关联。"
+  },
+  {
+   "cn": "占卜",
+   "en": "divination",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0301",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "通过自然的、心理的或其他技法获得世间事物的信息以预测未来吉凶祸福的巫术；见于古今中外各地区。在西方，其主要形式为占星术，还有水晶球、纸牌等方式。在中国古代，“占”指观察，“卜”指烧灼龟壳，占卜最初指根"
+  },
+  {
+   "cn": "神判",
+   "en": "divine judgments",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0316",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "假鬼神意志裁决争论之是非曲直的一种活动；建立在神灵、鬼魂崇拜基础之上。一是用于驱逐灾魔。巫师念咒语，来回跳跃，表示以神的威力压倒邪恶；二是用于解决内部纠纷，裁决宗教诉讼。有捞油锅、捏鸡蛋、吃血酒等多种"
+  },
+  {
+   "cn": "僮仆都尉",
+   "en": "Servant Commandant",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0216",
+   "subjectFullName": "民族学与文化学_民族史_民族政治",
+   "subjectName": "民族政治",
+   "publishYear": "2025",
+   "definition": "汉代匈奴设置在西域的官职，主掌收取西域诸地之赋税。"
+  },
+  {
+   "cn": "道德戒律",
+   "en": "moral commandment",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.043",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "通过条文的形式加以规定并要求人们予以遵守的道德准则。当道德规范还没有变成人们自觉遵守的行为准则时，常常假借权威性的命令，把道德规范转变成具体的道德戒律予以推行。"
+  },
+  {
+   "cn": "安西都护府",
+   "en": "Anxi frontier command",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0591",
+   "subjectFullName": "民族学与文化学_民族史_新疆研究",
+   "subjectName": "新疆研究",
+   "publishYear": "2025",
+   "definition": "唐朝在西域设置的最高军政机构之一。设于640 年，治所在西州。648 年迁至龟兹，后升格为大都护府。公元8 世纪初北庭大都护府设立后，安西都护府主要管辖天山南部和中亚地区事务。德宗贞元六年（790）后"
+  },
+  {
+   "cn": "党指挥枪",
+   "en": "Party commands the gun",
+   "source": "马克思主义",
+   "wordNumber": "03.0405",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国共产党对人民军队绝对领导的原则的形象表述，毛泽东建军思想的核心。毛泽东1938年在中国共产党六届六中全会上提出“我们的原则是党指挥枪，而决不容许枪指挥党。”"
+  },
+  {
+   "cn": "新伊大都督府",
+   "en": "Chief Military Command of Yili",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0592",
+   "subjectFullName": "民族学与文化学_民族史_新疆研究",
+   "subjectName": "新疆研究",
+   "publishYear": "2025",
+   "definition": "1912 年1 月8 日，辛亥伊犁起义取得胜利，成立了革命政权-新伊大都督府，推举前伊犁将军广福任都督，杨缵绪、冯特民等分任各部部长。1912 年9 月，新疆都督府成立，杨增新任都督，新伊大都督府撤销"
+  },
+  {
+   "cn": "公社",
+   "en": "commune",
+   "source": "马克思主义",
+   "wordNumber": "03.0007",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "建立在公有制基础上，工业、农业和手工业直接结合的自给自足的经济共同体。其普遍的特征，是土地公有、农业和手工业结合、协作劳动、经济自给自足、彼此独立等等。"
+  },
+  {
+   "cn": "潜水医学",
+   "en": "diving medicine",
+   "source": "军事预防医学名词",
+   "wordNumber": "12.2",
+   "subjectFullName": "军事预防医学_航海和潜水医学_潜水医学",
+   "subjectName": "潜水医学",
+   "publishYear": "2025",
+   "definition": "研究和解决潜水作业过程中潜水员的保健和疾病防治的学科。研究内容主要包括水面及水下各种环境因素引起潜水从业人员的生理反应、病理变化、疾病的流行规律及其诊断与防治措施。"
+  },
+  {
+   "cn": "原始公社",
+   "en": "primitive commune",
+   "source": "社会学名词",
+   "wordNumber": "2.1.1.3",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会形态",
+   "subjectName": "社会形态",
+   "publishYear": "2025",
+   "definition": "以生产资料原始公社所有制为基础的人类共同体。已完成从猿到人过渡的人类最早的社会组织单位，氏族与部落成员共同生产、共同消费的社会结合形式。"
+  },
+  {
+   "cn": "股份公司",
+   "en": "Jointstock company",
+   "source": "马克思主义",
+   "wordNumber": "02.0240",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "通过发行股票将分散的资本集中经营的企业。随着资本主义机器大工业的发展，生产规模的扩大与资本有机构成的提高，使单个资本难以承担开办企业所需的最低限额的资本，在信用制度发展的基础上股份公司将分散的单个资本"
+  },
+  {
+   "cn": "原始社会",
+   "en": "primitive commune",
+   "source": "马克思主义",
+   "wordNumber": "03.0005",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "以生产资料原始公社所有制为基础的社会制度，标志着人类社会历史发展的第一个基本阶段，始于母系氏族的产生，终于奴隶制的形成。它的发展持续了两三百万年之久，先后经历了血缘家庭公社时期、氏族公社时期。极度低下"
+  },
+  {
+   "cn": "氏族公社",
+   "en": "clan commune",
+   "source": "马克思主义",
+   "wordNumber": "03.0008",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "原始社会的基本单位，以财产公有为基础、以血缘纽带和血统世系相联结的社会组织形式。曾普遍存在于世界各地的原始社会中，是人类社会发展的最初阶段。氏族公社经历母系氏族公社和父系氏族公社两个阶段。随着私有制和"
+  },
+  {
+   "cn": "家庭公社",
+   "en": "family commune",
+   "source": "马克思主义",
+   "wordNumber": "03.0013",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "原始氏族社会的一种社会组织和经济单位。最初形式是母系氏族后期出现的母系大家族；随着男子在生产和社会活动中取得主导地位，从妻居的婚姻形式变为从夫居，母系家庭公社通过双系制逐步过渡到父系家庭公社。家庭公社"
+  },
+  {
+   "cn": "农村公社",
+   "en": "rural commune",
+   "source": "马克思主义",
+   "wordNumber": "03.0126",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "原始社会解体过程中形成的、以地域性和生产资料所有制的二重性为特征的社会组织。其特点是：公社有共同的地域、共同的经济和共同的宗教祭祀活动；公社中各家庭聚族而居，公社内部同时存在私有制和公社所有制；公社实"
+  },
+  {
+   "cn": "巴黎公社",
+   "en": "Paris Commune",
+   "source": "马克思主义",
+   "wordNumber": "04.0400",
+   "subjectFullName": "马克思主义_其他部分_重要组织政党_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "1871年3月法国巴黎的无产阶级和革命群众举行反对资产阶级统治的武装起义并建立的无产阶级政府。1871年3月28日巴黎公社宣告成立。它是无产阶级专政的第一次尝试，实施了一系列带有社会主义性质的措施，但"
+  },
+  {
+   "cn": "家庭公社",
+   "en": "family commune",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0332",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "原始氏族社会的一种社会组织和经济单位，存在于母系氏族制后期至整个父系氏族制阶段。母系氏族的繁荣时期，氏族内部形成若干个母系大家族，逐步取代氏族的职能而成为社会的基本单位，每个母系大家族就是一个家庭公社"
+  },
+  {
+   "cn": "通用名",
+   "en": "common name",
+   "source": "消毒学",
+   "wordNumber": "5.2.5.1.1",
+   "subjectFullName": "消毒学_监督管理_产品监管",
+   "subjectName": "产品监管",
+   "publishYear": "2025",
+   "definition": "消毒产品名称中表示主要原料、主要功效成分或产品功能的文字。"
+  },
+  {
+   "cn": "共同富裕",
+   "en": "common prosperity",
+   "source": "马克思主义",
+   "wordNumber": "03.0554",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "全体人民通过辛勤劳动和相互帮助最终达到丰衣足食的生活水平。共同富裕是邓小平论述社会主义本质的重要内容和根本原则，是对以往社会两极分化的否定。其实现途径是：允许和鼓励一部分地区、一部分人通过诚实劳动和合"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

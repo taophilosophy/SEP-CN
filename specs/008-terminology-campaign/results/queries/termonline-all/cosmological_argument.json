@@ -1,0 +1,452 @@
+{
+ "key": "cosmological argument",
+ "term": "cosmological argument",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-22T06:02:22+00:00",
+ "status": "ok",
+ "note": "variant=cosmological argument; 审定公布名词库=85; 海峡两岸名词对照库=54; 其他来源数据库=3; 预公布名词数据库=2; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "宇宙论",
+   "en": "cosmology",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.082",
+   "subjectFullName": "自然辩证法_自然哲学_理论方法",
+   "subjectName": "理论方法",
+   "publishYear": "2024",
+   "definition": "关于宇宙的本原、存在、结构和运行以及人类在宇宙中地位的理论观点。最早由德国C. 沃尔弗（C. Wolff）使用，并进一步被黑格尔、马克思沿袭。"
+  },
+  {
+   "cn": "宇宙学",
+   "en": "cosmology",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.322",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_物理学哲学",
+   "subjectName": "物理学哲学",
+   "publishYear": "2024",
+   "definition": "研究宇宙的结构、起源和演化的科学理论。它的主要研究对象为整个可观测时空范围内的大尺度特征和规律。"
+  },
+  {
+   "cn": "宇宙学",
+   "en": "cosmology",
+   "source": "天文学名词",
+   "wordNumber": "07.007",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "从整体上研究宇宙的结构和演化，以及研究河外天体在宇宙年龄时标上演化的学科。"
+  },
+  {
+   "cn": "宇宙学",
+   "en": "cosmology",
+   "source": "物理学名词",
+   "wordNumber": "09.0911",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "宇宙学",
+   "en": "cosmology",
+   "source": "物理学名词",
+   "wordNumber": "09.0911",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "宇宙学原理",
+   "en": "cosmological principle",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.323",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_物理学哲学",
+   "subjectName": "物理学哲学",
+   "publishYear": "2024",
+   "definition": "假设宇宙中物质是均匀、各向同性分布的，从而宇宙空间的特性也是均匀和各向同性的。这一假说得到了观测宇宙学一定程度的支持。"
+  },
+  {
+   "cn": "宇宙奇点",
+   "en": "cosmological singularity",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.335",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_物理学哲学",
+   "subjectName": "物理学哲学",
+   "publishYear": "2024",
+   "definition": "时空曲率无限大的时空点。奇点被认为存在于黑洞中央，大爆炸之前宇宙的存在状态也被认为是奇点。"
+  },
+  {
+   "cn": "宇宙学红移",
+   "en": "cosmological redshift",
+   "source": "天文学名词",
+   "wordNumber": "07.269",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "宇宙膨胀引起的天体谱线红移。"
+  },
+  {
+   "cn": "宇宙学原理",
+   "en": "cosmological principle",
+   "source": "天文学名词",
+   "wordNumber": "07.418",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "宇宙在大尺度上保持均匀各向同性的假设。"
+  },
+  {
+   "cn": "宇宙学模型",
+   "en": "cosmological model",
+   "source": "天文学名词",
+   "wordNumber": "07.427",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "描述宇宙大尺度性质、起源和演化的模型。"
+  },
+  {
+   "cn": "宇宙学参数",
+   "en": "cosmological parameter",
+   "source": "天文学名词",
+   "wordNumber": "07.441",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "宇宙学模型中一些需由观测确定的参数，如哈勃常数、各种成分的相对密度等。"
+  },
+  {
+   "cn": "宇宙学模拟",
+   "en": "cosmological simulation",
+   "source": "天文学名词",
+   "wordNumber": "07.443",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "为研究宇宙学演化进行的数值模拟。"
+  },
+  {
+   "cn": "宇宙项",
+   "en": "cosmological term",
+   "source": "物理学名词",
+   "wordNumber": "06.0327",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "宇宙学原理",
+   "en": "cosmological principle",
+   "source": "物理学名词",
+   "wordNumber": "06.0344",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "宇宙学红移",
+   "en": "cosmological redshift",
+   "source": "物理学名词",
+   "wordNumber": "06.0291",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "宇宙[学]常数",
+   "en": "cosmological constant",
+   "source": "物理学名词",
+   "wordNumber": "06.0359",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "宇宙核合成",
+   "en": "cosmological nucleosynthesis",
+   "source": "物理学名词",
+   "wordNumber": "11.0014",
+   "subjectFullName": "物理学_交叉学科_天体物理学",
+   "subjectName": "天体物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "宇宙常数[量]Λ 项",
+   "en": "cosmological Λ-term",
+   "source": "物理学名词",
+   "wordNumber": "06.0360",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "牛顿宇宙学",
+   "en": "Newtonian cosmology",
+   "source": "天文学名词",
+   "wordNumber": "07.008",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "(1)牛顿提出或在其基本概念框架内建立的宇宙学理论。(2)使用牛顿力学或其推广形式分析宇宙动力学的理论。"
+  },
+  {
+   "cn": "量子宇宙学",
+   "en": "quantum cosmology",
+   "source": "天文学名词",
+   "wordNumber": "07.009",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "研究当量子力学效应在整个宇宙尺度上都很重要时的宇宙的理论。"
+  },
+  {
+   "cn": "宇宙学",
+   "en": "cosmology",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "宇宙学",
+   "en": "cosmology",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "宇宙论[观]",
+   "en": "cosmology",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "宇宙[学]常数",
+   "en": "cosmological constant",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "宇宙学红移",
+   "en": "cosmological redshift",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "宇宙学距离",
+   "en": "cosmological distance",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "宇宙学模型",
+   "en": "cosmological model",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "宇宙学原理",
+   "en": "cosmological principle",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "等级式宇宙论",
+   "en": "hierarchic cosmology",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "动力学宇宙学",
+   "en": "dynamical cosmology",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "反物质宇宙论",
+   "en": "antimatter cosmology",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "各向异性宇宙论",
+   "en": "anisotropic cosmology",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "观测宇宙学",
+   "en": "observational cosmology",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "混沌宇宙论",
+   "en": "chaotic cosmology",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "量子宇宙论",
+   "en": "quantum cosmology",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "牛顿宇宙论",
+   "en": "Newtonian cosmology",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "数值宇宙学",
+   "en": "numerical cosmology",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "相对论宇宙论",
+   "en": "relativistic cosmology",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "运动学宇宙学",
+   "en": "kinematic cosmology",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "论证",
+   "en": "argument",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "论说",
+   "en": "Writings of Argument and Persuasion",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "征圣立言",
+   "en": "Base Arguments and Writings on the Classical Writings of Sages",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "宇宙观",
+   "en": "cosmology",
+   "source": "社会学名词",
+   "wordNumber": "4.2.3.15",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化人类学基本概念",
+   "subjectName": "文化人类学基本概念",
+   "publishYear": "2025",
+   "definition": "在社会制度和人的行动中，体现与整个宇宙的关系及宇宙本身的构成和变化规律相关的认识论和信仰体系。不同文化大都基于对世间和超世间世界的关系来呈现其对整个存在的基本看法。"
+  },
+  {
+   "cn": "伦理论证法",
+   "en": "ethical argumentation method",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.228",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学研究方法",
+   "subjectName": "医学伦理学研究方法",
+   "publishYear": "2025",
+   "definition": "引用特定的伦理学理论、原则或规范等论据来证明某一伦理论题的合理性的研究方法。包括论证与反论证、演绎论证与归纳论证、概念分析、价值权衡等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

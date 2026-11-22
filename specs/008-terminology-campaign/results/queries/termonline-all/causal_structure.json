@@ -1,0 +1,762 @@
+{
+ "key": "causal structure",
+ "term": "causal structure",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-22T05:57:39+00:00",
+ "status": "ok",
+ "note": "variant=causal structure; 审定公布名词库=3917; 海峡两岸名词对照库=1024; 其他来源数据库=97; 预公布名词数据库=120; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "环境因果结构",
+   "en": "causal structure of environment",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0521",
+   "subjectFullName": "管理科学技术_一般管理理论_管理思想史",
+   "subjectName": "管理思想史",
+   "publishYear": "2016",
+   "definition": "由托尔曼(Edward Chase Tolman)和布伦斯威克(Egon Brunswik)于1935年提出，并被社会技术学派所应用。由于企业在现代条件下受到环境中的各种变动、特别是技术变动的重大影响"
+  },
+  {
+   "cn": "因果性",
+   "en": "causality",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.067",
+   "subjectFullName": "自然辩证法_自然哲学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2024",
+   "definition": "事物之间具有某种确定的生成关系。作为生成条件的事物称为前因，作为生成结果的事物称为后果。前因可分为内因（事物内部原因）和外因（事物外部原因）。"
+  },
+  {
+   "cn": "因果性",
+   "en": "causality",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1634",
+   "subjectFullName": "地球物理学_地震科学_震源",
+   "subjectName": "震源",
+   "publishYear": "2022",
+   "definition": "前后发生的事件之间具有因果关系的性质。 "
+  },
+  {
+   "cn": "因果性",
+   "en": "causality",
+   "source": "物理学名词",
+   "wordNumber": "06.0074",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "因果关系",
+   "en": "causality",
+   "source": "生物物理学名词",
+   "wordNumber": "07.150",
+   "subjectFullName": "生物物理学_生物控制论_脑理论",
+   "subjectName": "脑理论",
+   "publishYear": "2018",
+   "definition": "描述两个事件之间的关系，其中一个事件为另一个事件的结果。"
+  },
+  {
+   "cn": "因果律",
+   "en": "causality",
+   "source": "电子学名词",
+   "wordNumber": "05.193",
+   "subjectFullName": "电子学_信息论与信号处理技术",
+   "subjectName": "信息论与信号处理技术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "因果相关性",
+   "en": "causal relevance",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.070",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "两个事件之间的相关不仅仅是统计上的，而且具有内在的因果机制。"
+  },
+  {
+   "cn": "因果分析",
+   "en": "causal analysis",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.130",
+   "subjectFullName": "自然辩证法_科学技术方法论_分析与推理",
+   "subjectName": "分析与推理",
+   "publishYear": "2024",
+   "definition": "为了确定某一现象的变化原因，在研究对象的先行情况中，把与其变化相关的现象和其他非相关现象进行区分，或在研究对象的后行情况中，把与之变化结果相关的现象和其他的现象区分，并进行分析的过程。"
+  },
+  {
+   "cn": "因果信号",
+   "en": "causal signal",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1635",
+   "subjectFullName": "地球物理学_地震科学_震源",
+   "subjectName": "震源",
+   "publishYear": "2022",
+   "definition": "在脉冲信号未输入前没有输出的信号。 "
+  },
+  {
+   "cn": "因果函数",
+   "en": "causal function",
+   "source": "物理学名词",
+   "wordNumber": "05.0895",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "因果变换",
+   "en": "causal transform",
+   "source": "物理学名词",
+   "wordNumber": "05.0896",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "因果推理",
+   "en": "causal reasoning",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0105",
+   "subjectFullName": "计算机科学技术_人工智能_自动推理",
+   "subjectName": "自动推理",
+   "publishYear": "2018",
+   "definition": "研究因果关系及其推理规则的一类推理方法的统称。"
+  },
+  {
+   "cn": "因果逻辑",
+   "en": "causal logic",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0042",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "研究事件之间因果依赖关系的逻辑。"
+  },
+  {
+   "cn": "因果性归因",
+   "en": "causal attribution",
+   "source": "心理学名词",
+   "wordNumber": "07.031",
+   "subjectFullName": "心理学_社会心理学",
+   "subjectName": "社会心理学",
+   "publishYear": "2014",
+   "definition": "对于行为、事件的因果解释和推论。"
+  },
+  {
+   "cn": "因果推论",
+   "en": "causal inference",
+   "source": "心理学名词",
+   "wordNumber": "03.203",
+   "subjectFullName": "心理学_心理统计与测量",
+   "subjectName": "心理统计与测量",
+   "publishYear": "2014",
+   "definition": "根据实验设计中关于自变量、因变量的界定，采用统计方法对变量间的因果关系进行分析的过程。"
+  },
+  {
+   "cn": "因果模型",
+   "en": "causal model",
+   "source": "地理学名词",
+   "wordNumber": "21.021",
+   "subjectFullName": "地理学_旅游地理学",
+   "subjectName": "旅游地理学",
+   "publishYear": "2006",
+   "definition": "反映x和y两个变量之间非对应关系的一种数学模型，在旅游学中有比较广泛的运用。如旅游者行为研究、目的地选择、居民对旅游发展的态度和旅游者目的地服务的感知等。"
+  },
+  {
+   "cn": "因果子波",
+   "en": "causal wavelet",
+   "source": "石油名词",
+   "wordNumber": "03.0696",
+   "subjectFullName": "石油_石油地球物理",
+   "subjectName": "石油地球物理",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "因果系统",
+   "en": "causal system",
+   "source": "电子学名词",
+   "wordNumber": "05.194",
+   "subjectFullName": "电子学_信息论与信号处理技术",
+   "subjectName": "信息论与信号处理技术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "冗余因果性",
+   "en": "redundant causality",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.071",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "某事件的发生存在多个原因，但其中某些原因即使不发生，该事件也可能发生。"
+  },
+  {
+   "cn": "格兰杰因果关系",
+   "en": "Granger causality",
+   "source": "生物物理学名词",
+   "wordNumber": "07.151",
+   "subjectFullName": "生物物理学_生物控制论_脑理论",
+   "subjectName": "脑理论",
+   "publishYear": "2018",
+   "definition": "英国经济学家，2003年诺贝尔经济学奖获得者格兰杰(C. Granger)提出的一种确定某一时间序列是否能预测另一时间序列的统计假设检验。即如果时间序列X与时间序列Y之间存在格兰杰因果关系，那么X值可"
+  },
+  {
+   "cn": "因果性",
+   "en": "causality",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "因果律，因果性",
+   "en": "causality",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "因果性研究",
+   "en": "causal research",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "因果模型",
+   "en": "causal model",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "因果模型",
+   "en": "causal model",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "因果逻辑",
+   "en": "causal logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "因果推理",
+   "en": "causal reasoning",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "因果系统",
+   "en": "causal system",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "因果性归因",
+   "en": "causal attribution\",\"attribution of causality",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "因果启发法",
+   "en": "causality heuristics",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "因果分析系统",
+   "en": "causal analysis system",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "因果消息日志",
+   "en": "causal message logging",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "因果批判",
+   "en": "criticism of causality",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "结构",
+   "en": "structure",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "结构",
+   "en": "structure",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "θ结构",
+   "en": "θ-structure",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "结构主义",
+   "en": "structuralism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "造构",
+   "en": "structuration",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "因果关系",
+   "en": "cause and effect relationship\",\"causality",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "结构基因",
+   "en": "structural gene\",\"structure gene",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "因果推断",
+   "en": "causal inference",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "RCM模型",
+   "en": "Rubin causal model (RCM)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "结构",
+   "en": "Structure",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据结构",
+   "en": "Data Structure",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "存储结构",
+   "en": "storage structure",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑结构",
+   "en": "logical structure",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "物理结构",
+   "en": "physical structure",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "线性结构",
+   "en": "linear structure",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非线性结构",
+   "en": "nonlinear structure",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "拓扑结构",
+   "en": "topology structure",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "图结构",
+   "en": "graph structure",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "基因结构",
+   "en": "genetic structure",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗科研",
+   "subjectName": "医疗科研",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "结构化方法",
+   "en": "structured method",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "结构化数据",
+   "en": "structured data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "结构化环境",
+   "en": "structured environment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "因果关系",
+   "en": "causality",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.26",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "变量之间非对称的影响和效应关系。其中，因是一组因素或先决条件的函数，果是一组可能的结果。"
+  },
+  {
+   "cn": "因果关系",
+   "en": "causality",
+   "source": "马克思主义",
+   "wordNumber": "01.0050",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "客观事物普遍联系相互作用的形式之一。有因必有果；有果必有因。原因与结果的这种必然联系，就是因果关系。但前后相继的现象并不一定都是因果联系；因果关系具有多种多样的形式。"
+  },
+  {
+   "cn": "因果模型",
+   "en": "causal modeling",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.119",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "基于因果关系理论，描述变量间因果关系的模型。"
+  },
+  {
+   "cn": "因果关系判定原则",
+   "en": "principle of causality",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.3.8",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护",
+   "subjectName": "放射工作人员健康监护",
+   "publishYear": "2025",
+   "definition": "判定接触电离辐射与所患疾病之间的因果关系，应满足时序性原则、生物学合理性原则及生物学梯度原则。"
+  },
+  {
+   "cn": "结构化",
+   "en": "structuration",
+   "source": "社会学名词",
+   "wordNumber": "3.13.4.21",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的核心概念范畴",
+   "subjectName": "历史社会学的核心概念范畴",
+   "publishYear": "2025",
+   "definition": "主张社会结构与行动具有相互构成的性质，而居于二者之间的个人则成为克服这种对立的一种手段。"
+  },
+  {
+   "cn": "结构主义",
+   "en": "structuralism",
+   "source": "社会学名词",
+   "wordNumber": "4.2.8.9",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学理论",
+   "subjectName": "人类学理论",
+   "publishYear": "2025",
+   "definition": "由法国人类学家列维-斯特劳斯(C.Lévi-Strauss）在乔姆斯基(A.N.Chomsky）语言学的基础上发展并加以运用的结构分析理论及方法。这一流派认为，一旦文化的各个不同方面被还原成它们的结构"
+  },
+  {
+   "cn": "结构过程",
+   "en": "structuring",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0211",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "美国人类学家萧凤霞（Helen Siu）、中国历史学家刘志伟提出的概念，即个人透过他们有目的的行动，织造了关系和意义（结构）的网络，这一网络又进一步帮助或限制他们作出某些行动，这是一个永无止境的过程。"
+  },
+  {
+   "cn": "儿童死因链",
+   "en": "causal chain of child mortality",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.1.4.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "时间上先后发生的互为因果的5岁以下儿童死因之间，以及这些死因与5岁以下儿童死亡事件之间的关系。"
+  },
+  {
+   "cn": "孕产妇死因链",
+   "en": "causal chain of maternal mortality",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.2.3.4",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "时间上先后发生的互为因果的孕产妇死因之间，以及这些死因与孕产妇死亡事件之间的关系。"
+  },
+  {
+   "cn": "社会结构",
+   "en": "social structure",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.16",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "社会整体或社会系统各组成部分或构成要素之间比较持久、相对稳定的相互关联模式或存在方式，即社会构成要素之间的相互关系按照一定的秩序形成相对稳定的网络格局。具有复杂性、整体性、层次性、相对稳定性等重要特点"
+  },
+  {
+   "cn": "组织结构",
+   "en": "organizational structure",
+   "source": "社会学名词",
+   "wordNumber": "2.5.9.1",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织结构",
+   "subjectName": "组织结构",
+   "publishYear": "2025",
+   "definition": "组织内部各组成部分之间关系的稳定形态及结合方式，可达成组织职能和权力的配置，主要包括职位、目标、权威和角色等四大要素。可分为正式结构和非正式结构。"
+  },
+  {
+   "cn": "垂直结构",
+   "en": "vertical structure",
+   "source": "社会学名词",
+   "wordNumber": "2.5.10.14",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织制度",
+   "subjectName": "组织制度",
+   "publishYear": "2025",
+   "definition": "某种集权组织结构形式，自上而下形成垂直的易于控制的领导系统，信息纵向流通快，管理成本低，效率较高，但下级的权限和自主性较低。"
+  },
+  {
+   "cn": "扁平结构",
+   "en": "flat structure",
+   "source": "社会学名词",
+   "wordNumber": "2.5.10.15",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织制度",
+   "subjectName": "组织制度",
+   "publishYear": "2025",
+   "definition": "管理层次少而管理幅度大的一种组织结构形态，有利于缩短上下级距离，被管理者有较大的自主性、积极性和满足感，但由于管理幅度较宽，权力分散，不易实施严密控制，加重了对下属组织及人员进行协调的负担。"
+  },
+  {
+   "cn": "家庭结构",
+   "en": "family structure",
+   "source": "社会学名词",
+   "wordNumber": "3.1.1.7",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_家庭",
+   "subjectName": "家庭",
+   "publishYear": "2025",
+   "definition": "家庭成员的构成及其相互关系状态形成的稳定模式。包含家庭的代数结构和人口结构两个方面，涉及家庭成员及其数量、家庭成员间的代际和亲属关系等内容。"
+  },
+  {
+   "cn": "市场结构",
+   "en": "market structure",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.5",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "市场中生产者重复生产其行动的社会结构。怀特(Harrison C.White）认为市场是生产的市场，不是交换意义上的市场。在生产决策过程中，生产者相互观察了解彼此的差异，据此进行产量和价格决策，一旦生"
+  },
+  {
+   "cn": "深层结构",
+   "en": "deep structure",
+   "source": "社会学名词",
+   "wordNumber": "4.2.7.18",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学方法",
+   "subjectName": "人类学方法",
+   "publishYear": "2025",
+   "definition": "隐藏在社会或文化表层关系背后，不被该社会成员所观察到的“无意识”模式。是与句子的表意结构相对而言，必须通过文化人类学家建立的分析模型才能认识的意识结构。"
+  },
+  {
+   "cn": "经济结构",
+   "en": "economic structure",
+   "source": "马克思主义",
+   "wordNumber": "02.0016",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "国民经济中各个方面的内部构成，反映经济系统中各要素之间互相关联、互相结合的内在联系及相应数量对比关系。"
+  },
+  {
+   "cn": "社会结构",
+   "en": "social structure",
+   "source": "马克思主义",
+   "wordNumber": "03.0160",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "社会各基本组成要素按照一定的方式所构成的相对稳定、持久的网络。在社会活动中，人与自然之间、人与人之间、人与团体之间、团体与团体之间不断相互作用，形成了相对固定的各种关系，这些社会关系按照一定的方式组合"
+  },
+  {
+   "cn": "阶级结构",
+   "en": "class structure",
+   "source": "马克思主义",
+   "wordNumber": "03.0311",
+   "subjectFullName": "马克思主义_科学社会主义_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "通常反映有阶级社会的社会各阶级的区别及其相互关系。阶级结构由私有制和生产方式所决定和变化。"
+  },
+  {
+   "cn": "性格结构",
+   "en": "character structure",
+   "source": "马克思主义",
+   "wordNumber": "05.0047",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "弗洛伊德主义的马克思主义用来指人在日常生活和工作中表现出来的习惯行为的内在范型，与弗洛伊德不同的是，赖希（Wilhelm Reich）与弗洛姆注重性格结构形成中的社会因素。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

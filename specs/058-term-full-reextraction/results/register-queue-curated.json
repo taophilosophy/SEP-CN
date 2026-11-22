@@ -1,0 +1,982 @@
+[
+ {
+  "en": "truth values",
+  "freq": 602,
+  "spread": 162,
+  "type": "phrase",
+  "pool": "本轮新增"
+ },
+ {
+  "en": "propositional logic",
+  "freq": 444,
+  "spread": 133,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "thought experiments",
+  "freq": 422,
+  "spread": 119,
+  "type": "phrase",
+  "pool": "本轮新增"
+ },
+ {
+  "en": "perceptual experience",
+  "freq": 421,
+  "spread": 118,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "decision theory",
+  "freq": 407,
+  "spread": 81,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "physical properties",
+  "freq": 405,
+  "spread": 123,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "second-order logic",
+  "freq": 395,
+  "spread": 51,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "material objects",
+  "freq": 355,
+  "spread": 142,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "excluded middle",
+  "freq": 353,
+  "spread": 139,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "property rights",
+  "freq": 342,
+  "spread": 92,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "external objects",
+  "freq": 340,
+  "spread": 135,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "moral beliefs",
+  "freq": 338,
+  "spread": 65,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "transcendental idealism",
+  "freq": 337,
+  "spread": 71,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "ontological status",
+  "freq": 323,
+  "spread": 191,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "singular terms",
+  "freq": 323,
+  "spread": 88,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "visual experience",
+  "freq": 311,
+  "spread": 70,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "mental representations",
+  "freq": 309,
+  "spread": 84,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "field theory",
+  "freq": 308,
+  "spread": 58,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "natural properties",
+  "freq": 299,
+  "spread": 64,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "phenomenal character",
+  "freq": 296,
+  "spread": 44,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "artificial intelligence",
+  "freq": 295,
+  "spread": 124,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "political authority",
+  "freq": 293,
+  "spread": 82,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "correspondence theory",
+  "freq": 288,
+  "spread": 67,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "quantum field",
+  "freq": 284,
+  "spread": 44,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "civil rights",
+  "freq": 420,
+  "spread": 66,
+  "type": "term",
+  "pool": "池:new"
+ },
+ {
+  "en": "sui generis",
+  "freq": 419,
+  "spread": 131,
+  "type": "term",
+  "pool": "池:new"
+ },
+ {
+  "en": "causal powers",
+  "freq": 263,
+  "spread": 103,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "moral agents",
+  "freq": 253,
+  "spread": 108,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "Human dignity",
+  "freq": 252,
+  "spread": 55,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "moral reasons",
+  "freq": 251,
+  "spread": 116,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "political community",
+  "freq": 251,
+  "spread": 82,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "private property",
+  "freq": 251,
+  "spread": 81,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "character traits",
+  "freq": 246,
+  "spread": 99,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "legal rights",
+  "freq": 239,
+  "spread": 40,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "moral agency",
+  "freq": 239,
+  "spread": 68,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "causal relation",
+  "freq": 227,
+  "spread": 131,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "causal structure",
+  "freq": 227,
+  "spread": 77,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "rational choice",
+  "freq": 229,
+  "spread": 84,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "physical system",
+  "freq": 220,
+  "spread": 69,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "cognitive processes",
+  "freq": 219,
+  "spread": 93,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "future contingents",
+  "freq": 219,
+  "spread": 42,
+  "type": "phrase",
+  "pool": "本轮新增"
+ },
+ {
+  "en": "human existence",
+  "freq": 219,
+  "spread": 99,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "general terms",
+  "freq": 213,
+  "spread": 145,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "human condition",
+  "freq": 208,
+  "spread": 130,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "physical object",
+  "freq": 208,
+  "spread": 101,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "necessary conditions",
+  "freq": 207,
+  "spread": 141,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "modal operators",
+  "freq": 206,
+  "spread": 73,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "cognitive capacities",
+  "freq": 205,
+  "spread": 90,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "semantic theory",
+  "freq": 200,
+  "spread": 80,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "causal role",
+  "freq": 198,
+  "spread": 121,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "divine nature",
+  "freq": 198,
+  "spread": 62,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "semantic content",
+  "freq": 197,
+  "spread": 75,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "logical analysis",
+  "freq": 196,
+  "spread": 81,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "moral values",
+  "freq": 193,
+  "spread": 91,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "empirical research",
+  "freq": 191,
+  "spread": 110,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "highest good",
+  "freq": 191,
+  "spread": 54,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "public goods",
+  "freq": 190,
+  "spread": 46,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "mathematical practice",
+  "freq": 188,
+  "spread": 50,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "statistical mechanics",
+  "freq": 188,
+  "spread": 53,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "research program",
+  "freq": 186,
+  "spread": 111,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "moral agent",
+  "freq": 183,
+  "spread": 80,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "conscious states",
+  "freq": 182,
+  "spread": 56,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "moral goodness",
+  "freq": 182,
+  "spread": 61,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "logical structure",
+  "freq": 180,
+  "spread": 109,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "social groups",
+  "freq": 180,
+  "spread": 94,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "classical mechanics",
+  "freq": 179,
+  "spread": 59,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "propositional knowledge",
+  "freq": 179,
+  "spread": 50,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "necessary connection",
+  "freq": 178,
+  "spread": 86,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "explanatory role",
+  "freq": 175,
+  "spread": 92,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "representational content",
+  "freq": 173,
+  "spread": 67,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "social welfare",
+  "freq": 185,
+  "spread": 37,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "global justice",
+  "freq": 170,
+  "spread": 40,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "moral disagreement",
+  "freq": 183,
+  "spread": 37,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "linguistic meaning",
+  "freq": 169,
+  "spread": 68,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "social choice",
+  "freq": 186,
+  "spread": 36,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "human intellect",
+  "freq": 167,
+  "spread": 80,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "mental phenomena",
+  "freq": 167,
+  "spread": 72,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "moral rights",
+  "freq": 167,
+  "spread": 54,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "moral rules",
+  "freq": 167,
+  "spread": 66,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "semantic values",
+  "freq": 166,
+  "spread": 51,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "standard model",
+  "freq": 166,
+  "spread": 69,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "causal connection",
+  "freq": 165,
+  "spread": 87,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "inductive logic",
+  "freq": 165,
+  "spread": 47,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "future generations",
+  "freq": 164,
+  "spread": 71,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "empirical data",
+  "freq": 163,
+  "spread": 110,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "error theory",
+  "freq": 163,
+  "spread": 50,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "machine learning",
+  "freq": 163,
+  "spread": 50,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "mathematical entities",
+  "freq": 163,
+  "spread": 49,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "social structures",
+  "freq": 163,
+  "spread": 88,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "functional role",
+  "freq": 162,
+  "spread": 80,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "public good",
+  "freq": 162,
+  "spread": 61,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "semantic properties",
+  "freq": 162,
+  "spread": 44,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "singular term",
+  "freq": 162,
+  "spread": 56,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "choice theory",
+  "freq": 161,
+  "spread": 55,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "sense experience",
+  "freq": 161,
+  "spread": 73,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "sentient beings",
+  "freq": 160,
+  "spread": 59,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "epistemic status",
+  "freq": 159,
+  "spread": 90,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "physical laws",
+  "freq": 159,
+  "spread": 87,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "scientific progress",
+  "freq": 158,
+  "spread": 49,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "possible outcomes",
+  "freq": 156,
+  "spread": 71,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "common law",
+  "freq": 155,
+  "spread": 40,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "international law",
+  "freq": 344,
+  "spread": 51,
+  "type": "term",
+  "pool": "池:new"
+ },
+ {
+  "en": "Political Economy",
+  "freq": 225,
+  "spread": 71,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "molecular biology",
+  "freq": 223,
+  "spread": 39,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "evolutionary biology",
+  "freq": 248,
+  "spread": 87,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "cosmological argument",
+  "freq": 178,
+  "spread": 39,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "ordinary objects",
+  "freq": 304,
+  "spread": 82,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "perceptual experiences",
+  "freq": 235,
+  "spread": 61,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "religious experience",
+  "freq": 230,
+  "spread": 58,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "justified belief",
+  "freq": 231,
+  "spread": 77,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "psychological states",
+  "freq": 231,
+  "spread": 116,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "semantic externalism",
+  "freq": 43,
+  "spread": 14,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "procedural justice",
+  "freq": 27,
+  "spread": 19,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "legal positivism",
+  "freq": 101,
+  "spread": 26,
+  "type": "term",
+  "pool": "池:new"
+ },
+ {
+  "en": "divine command",
+  "freq": 98,
+  "spread": 39,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "Problem of evil",
+  "freq": 9,
+  "spread": 9,
+  "type": "term",
+  "pool": "池:new"
+ },
+ {
+  "en": "teleological argument",
+  "freq": 32,
+  "spread": 15,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "design argument",
+  "freq": 35,
+  "spread": 18,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "mind-body problem",
+  "freq": 96,
+  "spread": 42,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "computational theory",
+  "freq": 41,
+  "spread": 22,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "embodied cognition",
+  "freq": 85,
+  "spread": 23,
+  "type": "topic",
+  "pool": "池:new"
+ },
+ {
+  "en": "extended mind",
+  "freq": 73,
+  "spread": 13,
+  "type": "term",
+  "pool": "池:new"
+ },
+ {
+  "en": "predictive processing",
+  "freq": 31,
+  "spread": 10,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "counterfactual dependence",
+  "freq": 62,
+  "spread": 22,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "possible worlds",
+  "freq": 2096,
+  "spread": 349,
+  "type": "phrase",
+  "pool": "池:published@2026-10-31（登记行既存同步）"
+ },
+ {
+  "en": "modal realism",
+  "freq": 72,
+  "spread": 19,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "eternalism",
+  "freq": 87,
+  "spread": 30,
+  "type": "term",
+  "pool": "池:new"
+ },
+ {
+  "en": "four-dimensionalism",
+  "freq": 20,
+  "spread": 9,
+  "type": "term",
+  "pool": "池:new"
+ },
+ {
+  "en": "truthmaking",
+  "freq": 9,
+  "spread": 3,
+  "type": "term",
+  "pool": "池:new"
+ },
+ {
+  "en": "essential properties",
+  "freq": 221,
+  "spread": 90,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "relational properties",
+  "freq": 107,
+  "spread": 61,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "dispositional properties",
+  "freq": 63,
+  "spread": 34,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "categorical properties",
+  "freq": 49,
+  "spread": 21,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "brute facts",
+  "freq": 42,
+  "spread": 24,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "moral constructivism",
+  "freq": 19,
+  "spread": 7,
+  "type": "phrase",
+  "pool": "本轮新增"
+ },
+ {
+  "en": "moral universalism",
+  "freq": 5,
+  "spread": 5,
+  "type": "phrase",
+  "pool": "本轮新增"
+ },
+ {
+  "en": "moral relativism",
+  "freq": 117,
+  "spread": 27,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "deontological ethics",
+  "freq": 13,
+  "spread": 10,
+  "type": "phrase",
+  "pool": "池:new"
+ },
+ {
+  "en": "public reason",
+  "freq": 552,
+  "spread": 32,
+  "type": "topic",
+  "pool": "池:new"
+ },
+ {
+  "en": "civil disobedience",
+  "freq": 232,
+  "spread": 23,
+  "type": "term",
+  "pool": "池:new"
+ }
+]

@@ -1,0 +1,692 @@
+{
+ "key": "mathematical practice",
+ "term": "mathematical practice",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-22T05:58:59+00:00",
+ "status": "ok",
+ "note": "variant=mathematical practice; 审定公布名词库=465; 海峡两岸名词对照库=85; 其他来源数据库=55; 预公布名词数据库=60; jwt-direct（JWT 直连，raw 略；已滤维基 12 条）",
+ "hits": [
+  {
+   "cn": "数学",
+   "en": "mathematics",
+   "source": "数学名词",
+   "wordNumber": "01.0001",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "实践",
+   "en": "practice",
+   "source": "医学影像技术学名词",
+   "wordNumber": "07.047",
+   "subjectFullName": "医学影像技术学_X射线防护_X射线防护要求",
+   "subjectName": "X射线防护要求",
+   "publishYear": "2020",
+   "definition": "任何会引入新的照射源或照射途径、扩大受照人员范围或改变现有源的照射途径网络，从而使人们受到的照射、受到照射的可能性或受到照射的人数增加的人类活动。"
+  },
+  {
+   "cn": "实践",
+   "en": "practice",
+   "source": "电力名词",
+   "wordNumber": "17.828",
+   "subjectFullName": "电力_核电",
+   "subjectName": "核电",
+   "publishYear": "2020",
+   "definition": "任何引入新的照射源或照射途径、扩大受照人员范围、改变现有源的照射途径网络,从而使人们受到的照射或受到照射的可能性或受到照射的人数增加的人类活动。"
+  },
+  {
+   "cn": "实践",
+   "en": "practice",
+   "source": "放射医学与防护名词",
+   "wordNumber": "05.001",
+   "subjectFullName": "放射医学与防护_放射防护_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2014",
+   "definition": "任何引入新的照射源或照射途径、或扩大受照人员范围、或改变现有源的照射途径网络，从而使人们受到的照射或受到照射的可能性或受到照射的人数增加的人类活动。"
+  },
+  {
+   "cn": "数学地质",
+   "en": "mathematical geology",
+   "source": "地质学名词",
+   "wordNumber": "01.00.129",
+   "subjectFullName": "地质学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "由地质学、数学和计算机科学相互结合而产生的交叉学科。主要从数学定量角度研究和解决地质学的规律、理论和实际问题。"
+  },
+  {
+   "cn": "数学模拟",
+   "en": "mathematical simulation",
+   "source": "农学名词",
+   "wordNumber": "01.198",
+   "subjectFullName": "总论_农业试验统计",
+   "subjectName": "农业试验统计",
+   "publishYear": "2025",
+   "definition": "在对农业对象或过程进行数理分析或统计基础上，运行所建立数学模型并输出结果的过程。"
+  },
+  {
+   "cn": "《数学手稿》",
+   "en": "Mathematical Manuscripts",
+   "source": "自然辩证法名词",
+   "wordNumber": "01.001",
+   "subjectFullName": "自然辩证法_总论_理论和起源",
+   "subjectName": "理论和起源",
+   "publishYear": "2024",
+   "definition": "马克思关于数学问题的遗作。意图用数学方法研究经济学，为微积分学提供哲学论证，内容涉及微积分、代数学和数学史。"
+  },
+  {
+   "cn": "数学模型",
+   "en": "mathematical model",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "01.019",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_通论",
+   "subjectName": "通论",
+   "publishYear": "2024",
+   "definition": "用数学抽象概括来描述原型对象，其原型可以是具体对象及其性质、关系，也可以是数学对象及其性质、关系。在系统工程中，通常把与系统机理或特性有关的数量关系归纳整理或推导成数学方程组，称其为系统的数学模型。"
+  },
+  {
+   "cn": "数学悖论",
+   "en": "mathematical paradox",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.248",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "指一个自相矛盾的数学命题A，即在某个特定的理论背景下，可以证明A等价于A的否定。著名的悖论的例子是罗素悖论。另外，有些被称为悖论的数学命题，如斯科伦悖论，本质上并不是悖论。"
+  },
+  {
+   "cn": "数学模型",
+   "en": "mathematical model",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.253",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "对自然、社会科学以及工程领域理论的数学描述（建模）。以求在数学概念的抽象层面上简化和逼近复杂的实际情形，从而揭示该理论的结构，分析其各部分的关联，并预测其行为。"
+  },
+  {
+   "cn": "数学实验",
+   "en": "mathematical experiment",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.254",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "产生和检验数学猜想、发现和证实数学定理的过程中所使用的猜测、试错、数字搜索和数据分析等实验手段。"
+  },
+  {
+   "cn": "数学归纳法",
+   "en": "mathematical induction",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.256",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "通常指施于自然数的归纳证明方法。第一，证明最小的自然数具有某性质（归纳基始）；第二，证明后继运算保持该性质（归纳推步）。由上两步即得：所有的自然数具有该性质。"
+  },
+  {
+   "cn": "数学猜想",
+   "en": "mathematical conjecture",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.257",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "基于部分证据而提出，但尚未被证明也未被证伪的数学命题。如黎曼猜想、哥德巴赫猜想等。"
+  },
+  {
+   "cn": "数学工具主义",
+   "en": "mathematical instrumentalism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.294",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "认为数学仅仅是一种有用的工具，而不是对某种客观实在的描述。"
+  },
+  {
+   "cn": "数学直觉",
+   "en": "mathematical intuition",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.295",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "哲学上“直觉”的用法很多，针对不同的哲学，“直觉”有不同的含义和用法。从数学哲学的历史看，希尔伯特和布劳威尔关于“数学直觉”的思想受到康德哲学中“直觉”的影响。"
+  },
+  {
+   "cn": "数学自然主义",
+   "en": "mathematical naturalism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.296",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "方法论自然主义在数学领域的推广。认为数学具有方法论上的自主性，既不接受数学之外的批判，也不需要数学之外的证成。"
+  },
+  {
+   "cn": "数学方法",
+   "en": "mathematical method",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.182",
+   "subjectFullName": "自然辩证法_科学技术方法论_模型与假说",
+   "subjectName": "模型与假说",
+   "publishYear": "2024",
+   "definition": "利用数学提供的概念、理论和规律，对客观事物进行分析、推导和计算，以揭示其内在规律和本质联系的方法。"
+  },
+  {
+   "cn": "数学模拟",
+   "en": "mathematical imitation",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.183",
+   "subjectFullName": "自然辩证法_科学技术方法论_模型与假说",
+   "subjectName": "模型与假说",
+   "publishYear": "2024",
+   "definition": "根据模型与原型之间在数学形式方面的某些相似来进行的模拟。"
+  },
+  {
+   "cn": "数学形态学",
+   "en": "mathematical morphology",
+   "source": "光学名词",
+   "wordNumber": "17.046",
+   "subjectFullName": "光学_图像处理技术",
+   "subjectName": "图像处理技术",
+   "publishYear": "2021",
+   "definition": "研究不同类别的图像中不同像元之间特定的关联性构成的图像结构特征(形态)的理论和方法。这种结构特征也被称为结构元素。"
+  },
+  {
+   "cn": "数学制图学",
+   "en": "mathematical cartography",
+   "source": "测绘学名词",
+   "wordNumber": "04.129",
+   "subjectFullName": "测绘学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2020",
+   "definition": "用数学方法研究地球椭球面与地图平面之间、地面要素的复杂性与地图图形的抽象性之间的变换和表达的学科。"
+  },
+  {
+   "cn": "实践",
+   "en": "practice",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "数理气候",
+   "en": "mathematical climate",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数理统计[学]",
+   "en": "mathematical statistics",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数学模拟",
+   "en": "mathematical simulation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数学模型",
+   "en": "mathematical model",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "数学程序",
+   "en": "mathematical programming",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "数学模拟",
+   "en": "mathematical modeling",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "数学心理学",
+   "en": "mathematical psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "数学生态学",
+   "en": "mathematical ecology",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "数学模型",
+   "en": "mathematical model",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "数理地理学",
+   "en": "mathematical geography",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "数学地图学",
+   "en": "mathematical cartography",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "数学规划",
+   "en": "mathematical programming",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "数学表达式",
+   "en": "mathematical expression",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "数学函数",
+   "en": "mathematical function",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "数学模型",
+   "en": "mathematical model",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "[数学]期望",
+   "en": "mathematical expectation",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "数学大地测量学",
+   "en": "mathematical geodesy",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "数学地图学，地图投影学",
+   "en": "mathematical cartography",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "数理语言学",
+   "en": "mathematical linguistics",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "习",
+   "en": "Practice",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数学应用",
+   "en": "Mathematical Application",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数理统计",
+   "en": "Mathematical Statistics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "计算数学",
+   "en": "computational mathematics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "离散数学",
+   "en": "discrete mathematics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "练习赛",
+   "en": "practice regatta",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "练习障碍",
+   "en": "practice obstacle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自由练习",
+   "en": "free practice\",\"randori",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "实践",
+   "en": "practice",
+   "source": "马克思主义",
+   "wordNumber": "01.0120",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "实践是人所特有的对象性活动，是人为满足自身需要而有目的有意识地认识和改造世界的活动。实践不仅是客观物质性活动，而且是人的自觉认识活动；它不仅具有直接现实性，而且具有普遍统一性，具有社会历史性。马克思主"
+  },
+  {
+   "cn": "数学障碍",
+   "en": "mathematics disorder",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.2.3.2.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "以数字信息处理加工、学习计算、计算的准确性或流畅性明显受损为特征的一种特定学习障碍。"
+  },
+  {
+   "cn": "辐射实践",
+   "en": "radiation practice",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.1.1",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_放射防护基本概念",
+   "subjectName": "放射防护基本概念",
+   "publishYear": "2025",
+   "definition": "任何引入新的照射源或照射途径、或扩大受照人员范围、或改变现有源的照射途径网络，从而使人们受到的照射或受到照射的可能性或受到照射的人数增加的人类活动。"
+  },
+  {
+   "cn": "实践理论",
+   "en": "practice theory",
+   "source": "社会学名词",
+   "wordNumber": "4.2.8.16",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学理论",
+   "subjectName": "人类学理论",
+   "publishYear": "2025",
+   "definition": "以沟通主观能动性与客观社会现实之中介的“实践”为核心的理论。代表人物有布迪厄(P.Bourdieu)、吉登斯(A.Gidens)、萨林斯(M.Sahlins)。"
+  },
+  {
+   "cn": "整合的实务",
+   "en": "integrated practice",
+   "source": "社会学名词",
+   "wordNumber": "4.4.2.19",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的历史发展",
+   "subjectName": "社会工作的历史发展",
+   "publishYear": "2025",
+   "definition": "综合性地运用社会工作的个案、小组、社区三大方法，以实现以下一个或多个目标的社会工作实务模式：帮助人们获得实质性的服务；为个人、家庭和群体提供咨询和心理治疗；帮助社区或群体提供或改善社会服务与卫生服务；"
+  },
+  {
+   "cn": "批判实务",
+   "en": "critical practice",
+   "source": "社会学名词",
+   "wordNumber": "4.4.2.20",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的历史发展",
+   "subjectName": "社会工作的历史发展",
+   "publishYear": "2025",
+   "definition": "在服务过程中重视语言、社会文化环境、意识形态、价值观念、宗教信仰和权力关系对实际工作开展的影响，并通过重构权力和话语以实现助人解放目标的社会工作实务。"
+  },
+  {
+   "cn": "个人开业",
+   "en": "private practice",
+   "source": "社会学名词",
+   "wordNumber": "4.4.3.9",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的运作与实施",
+   "subjectName": "社会工作的运作与实施",
+   "publishYear": "2025",
+   "definition": "专业人员个体通过收费来提供服务的方式。服务由私人执业的社会工作者来提供，案主直接与该社会工作者或他所属的私人执业团体订立协议，案主通过保险、医疗保险计划或其他基金等直接为服务支付报酬。近些年在美国较为"
+  },
+  {
+   "cn": "理论实践",
+   "en": "theoretical practice",
+   "source": "马克思主义",
+   "wordNumber": "05.0070",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "一种特殊的实践，是加工由经验技术与意识形态实践等提供的特殊原料的实践，它生产的产品是“认识”。阿尔都塞认为，严格意义上的理论实践是科学的理论实践，它将导致认识论断裂的产生。"
+  },
+  {
+   "cn": "执业资格",
+   "en": "practice qualification ",
+   "source": "卫生经济学名词",
+   "wordNumber": "7.3.2.1",
+   "subjectFullName": "卫生经济学名词_卫生服务要素市场_医学教育人才市场",
+   "subjectName": "医学教育人才市场",
+   "publishYear": "2025",
+   "definition": "对具备一定学历的从事医疗活动的专业技术人员，通过考试和注册确定其执业的技术资格，获得相应医疗文件签字权的一种制度。"
+  },
+  {
+   "cn": "执业注册",
+   "en": "practice registration ",
+   "source": "卫生经济学名词",
+   "wordNumber": "7.3.2.2",
+   "subjectFullName": "卫生经济学名词_卫生服务要素市场_医学教育人才市场",
+   "subjectName": "医学教育人才市场",
+   "publishYear": "2025",
+   "definition": "对完成规定培训的医疗和护理等人员，在执业所进行的法定认证。"
+  },
+  {
+   "cn": "全科医学",
+   "en": "general practice",
+   "source": "社会医学名词",
+   "wordNumber": "11.6",
+   "subjectFullName": "社区卫生",
+   "subjectName": "全科医学",
+   "publishYear": "2025",
+   "definition": "基于现代医学模式和目标，以健康为中心，在社区卫生服务领域，面向界定的个人、家庭与社区，整合生物医学、行为科学与社会科学最新成果为一体，提供连续性、协调性、可及性服务的综合性临床二级学科。"
+  },
+  {
+   "cn": "实践理论",
+   "en": "practice theory",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0622",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "一种人类学的研究范式，解释人类行动及其与系统（社会或文化）的互动关系，弥合结构与能动性、社会与个体二分。实践论强调行动者的主体性与所处社会结构间的能动关系，实践因此蕴含了个体能动性和社会体系的互相推进"
+  },
+  {
+   "cn": "实际射程",
+   "en": "practical range",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.35",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "对电子束辐射，模体表面位于正常治疗距离，辐射束轴上吸收剂量分布下降最陡段（斜率最大处）切线的外推与深度吸收剂量分布曲线末端的外推线相交点处所对应的深度。"
+  },
+  {
+   "cn": "实践理性",
+   "en": "practical reason",
+   "source": "马克思主义",
+   "wordNumber": "01.0100",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "全称“纯粹实践理性”，又称“实践之知”。与“思辨理性”相对。德国古典唯心主义哲学家康德用语，指纯粹理性的实践能力，即给人的行为规定先天道德准则的先验理性。"
+  },
+  {
+   "cn": "实践理念",
+   "en": "practical idea",
+   "source": "马克思主义",
+   "wordNumber": "01.0121",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "实践活动除了要遵循外部世界的客观尺度，还要体现自己的需要和目的，即内在尺度。实践活动在实际进行之前，必须在头脑中观念地建构起这两种尺度的统一模式，在观念上首先实现两种尺度的统一，这种统一的模式观念就是"
+  },
+  {
+   "cn": "实践唯物主义",
+   "en": "practical materialism",
+   "source": "马克思主义",
+   "wordNumber": "01.0123",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在辩证唯物主义的世界观中，实践唯物主义是以实践为出发点和基础解释现实世界的理论，强调实践的观点是马克思主义的首要的和基本的观点，认识世界的目的在于改变世界。"
+  },
+  {
+   "cn": "实践的唯物主义者",
+   "en": "practical materialist",
+   "source": "马克思主义",
+   "wordNumber": "01.0124",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "马克思和恩格斯在《德意志意识形态》中说过，对实践的唯物主义者即共产主义者来说，全部问题都在于使现存世界革命化，实际地反对并改变现存的事物。这样把实践的唯物主义者等同于共产主义者，所强调的是马克思主义哲"
+  },
+  {
+   "cn": "实践哲学",
+   "en": "practical philosophy",
+   "source": "马克思主义",
+   "wordNumber": "05.0009",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "最初是由意大利马克思主义者拉布里奥拉（Antonio- Labriola）提出过的概念，葛兰西在《狱中札记》中对之做过较为系统的阐释，用以指称历史唯物主义和马克思主义，其主要见解是：（1）提倡“实践一"
+  },
+  {
+   "cn": "实践理性",
+   "en": "practical reason",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0623",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "最早出现在美国人类学家萨林斯的《文化与实践理性》一书中，指在生活者的世界中对其有意义的思维模式和行为习惯。萨林斯批判古典政治经济学中的英国式“上层建筑和经济基础”理论，及功能主义的功利论中过分强调的理"
+  },
+  {
+   "cn": "实践民俗学",
+   "en": "practical folkloristics",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0507",
+   "subjectFullName": "民族学与文化学_民俗学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "21 世纪初由吕微、户晓辉等中国民俗学家提出并论证的民俗学实践研究方法，它以康德对理论与实践的哲学划分为基础，指出民俗学学科对经验实证范式和实践理性范式的内在误用，进而从一般实践与理性实践的逻辑区分上"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

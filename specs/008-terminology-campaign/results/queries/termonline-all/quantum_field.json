@@ -1,0 +1,732 @@
+{
+ "key": "quantum field",
+ "term": "quantum field",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-22T05:56:51+00:00",
+ "status": "ok",
+ "note": "variant=quantum field; 审定公布名词库=2228; 海峡两岸名词对照库=517; 其他来源数据库=200; 预公布名词数据库=52; jwt-direct（JWT 直连，raw 略；已滤维基 8 条）",
+ "hits": [
+  {
+   "cn": "量子场",
+   "en": "quantum field",
+   "source": "物理学名词",
+   "wordNumber": "09.1551",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "场量子",
+   "en": "field quantum",
+   "source": "物理学名词",
+   "wordNumber": "06.0409",
+   "subjectFullName": "物理学_相对论、量子理论_量子理论",
+   "subjectName": "量子理论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "量子场论",
+   "en": "quantum field theory,QFT",
+   "source": "物理学名词",
+   "wordNumber": "09.1552",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "量子",
+   "en": "quantum",
+   "source": "医学影像技术学名词",
+   "wordNumber": "03.065",
+   "subjectFullName": "医学影像技术学_数字X射线成像技术_数字影像学基础",
+   "subjectName": "数字影像学基础",
+   "publishYear": "2020",
+   "definition": "能表现出某物质或物理量特性的最小单元。一个物理量存在的最小的不可分割的基本单位。"
+  },
+  {
+   "cn": "量子",
+   "en": "quantum",
+   "source": "物理学名词",
+   "wordNumber": "06.0373",
+   "subjectFullName": "物理学_相对论、量子理论_量子理论",
+   "subjectName": "量子理论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "量子",
+   "en": "quantum",
+   "source": "电气工程名词",
+   "wordNumber": "01.176",
+   "subjectFullName": "电气工程_电工基础及通用名词",
+   "subjectName": "电工基础及通用名词",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "量子产率",
+   "en": "quantum yield",
+   "source": "光学名词",
+   "wordNumber": "28.255",
+   "subjectFullName": "光学_生物光学与激光医疗",
+   "subjectName": "生物光学与激光医疗",
+   "publishYear": "2021",
+   "definition": "单位光子数和单位反应物浓度通过光化学反应形成产物的浓度值。"
+  },
+  {
+   "cn": "量子产额",
+   "en": "quantum yield",
+   "source": "物理学名词",
+   "wordNumber": "06.0907",
+   "subjectFullName": "物理学_相对论、量子理论_量子信息",
+   "subjectName": "量子信息",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "量子产率",
+   "en": "quantum yield",
+   "source": "植物学名词",
+   "wordNumber": "11.0249",
+   "subjectFullName": "植物学_植物生理学_植物光合作用",
+   "subjectName": "植物光合作用",
+   "publishYear": "2019",
+   "definition": "在植物光合作用中，每吸收一个光量子所固定的二氧化碳分子数或放出的氧分子数。"
+  },
+  {
+   "cn": "量子产率",
+   "en": "quantum yield",
+   "source": "化学名词",
+   "wordNumber": "04.0975",
+   "subjectFullName": "化学_物理化学_光化学",
+   "subjectName": "光化学",
+   "publishYear": "2016",
+   "definition": "物质吸光后发生某特定事件的原子或分子数目与所吸收光子数的比值。量子产率Φ(λ)=特定事件数目/吸收光子数。"
+  },
+  {
+   "cn": "量子产额",
+   "en": "quantum yield",
+   "source": "生态学名词",
+   "wordNumber": "02.260",
+   "subjectFullName": "生态学_生理生态学",
+   "subjectName": "生理生态学",
+   "publishYear": "2006",
+   "definition": "植物通过一个光量子所固定的二氧化碳分子数或放出的氧分子数。"
+  },
+  {
+   "cn": "量子效率",
+   "en": "quantum efficiency",
+   "source": "农学名词",
+   "wordNumber": "07.085",
+   "subjectFullName": "作物生理生态_产量与品质生理",
+   "subjectName": "产量与品质生理",
+   "publishYear": "2025",
+   "definition": "在光合作用中，每吸收一个光量子所固定的二氧化碳分子数或释放氧气的分子数。"
+  },
+  {
+   "cn": "量子化学",
+   "en": "quantum chemistry",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "02.048",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_物质的基础物性与分子模拟",
+   "subjectName": "物质的基础物性与分子模拟",
+   "publishYear": "2024",
+   "definition": "应用量子力学的基本原理和方法，研究化学问题的一门基础学科。是理论化学的一个分支学科。"
+  },
+  {
+   "cn": "量子纠缠",
+   "en": "quantum entanglement",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.370",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_物理学哲学",
+   "subjectName": "物理学哲学",
+   "publishYear": "2024",
+   "definition": "量子复合系统（具有两个或以上子系统）所特有的量子关联现象。子系统之间存在着一种超空间的远距离量子关联。处于纠缠态的两个力学量，如果一个力学量被确定，那么，另一力学量立即被确定。"
+  },
+  {
+   "cn": "量子信息",
+   "en": "quantum information",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.386",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_物理学哲学",
+   "subjectName": "物理学哲学",
+   "publishYear": "2024",
+   "definition": "在物理学和计算机科学中，处于量子系统的状态中的信息。它不同于经典信息。在哲学上，其是量子系统的状态与关联方式的显示。"
+  },
+  {
+   "cn": "量子隐形传态",
+   "en": "quantum teleportation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.391",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_物理学哲学",
+   "subjectName": "物理学哲学",
+   "publishYear": "2024",
+   "definition": "利用量子纠缠与未知量子信息的物理转换来超空间传递未知量子信息到任意位置的技术。其实质是超空间传递量子信息。"
+  },
+  {
+   "cn": "量子计算机",
+   "en": "quantum computer",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.634",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "一类遵循量子力学规律进行高速数学和逻辑运算、存储及处理量子信息的物理装置。其处理和计算的是量子信息，运行的是量子算法。"
+  },
+  {
+   "cn": "量子引力",
+   "en": "quantum gravitation",
+   "source": "天文学名词",
+   "wordNumber": "04.423",
+   "subjectFullName": "天文学_天体物理学",
+   "subjectName": "天体物理学",
+   "publishYear": "2024",
+   "definition": "用量子力学原理来描述引力的尝试性理论。"
+  },
+  {
+   "cn": "量子宇宙学",
+   "en": "quantum cosmology",
+   "source": "天文学名词",
+   "wordNumber": "07.009",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "研究当量子力学效应在整个宇宙尺度上都很重要时的宇宙的理论。"
+  },
+  {
+   "cn": "量子拍",
+   "en": "quantum beat",
+   "source": "光学名词",
+   "wordNumber": "02.075",
+   "subjectFullName": "光学_非线性光学与量子光学",
+   "subjectName": "非线性光学与量子光学",
+   "publishYear": "2021",
+   "definition": "两个量子过程的干涉现象。如V型三能级原子系统辐射光场的干涉，该干涉只能用全量子理论解释，而不能用经典或半经典理论解释。"
+  },
+  {
+   "cn": "量子",
+   "en": "quantum",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "量子产额（=量子产率）",
+   "en": "quantum yield",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "量子产率，量子产额",
+   "en": "quantum yield",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "量子[式]进化",
+   "en": "quantum evolution",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "量子效率",
+   "en": "quantum efficiency",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "量子需求量",
+   "en": "quantum requirement",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "量子理论",
+   "en": "quantum theory",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "量子效应",
+   "en": "quantum effect",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "量子微腔",
+   "en": "quantum microcavity",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "量子线",
+   "en": "quantum wire",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "量子效率",
+   "en": "quantum efficiency",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "量子宇宙",
+   "en": "quantum universe",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "量子宇宙论",
+   "en": "quantum cosmology",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "量子电化学",
+   "en": "quantum electrochemistry",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "量子进化",
+   "en": "quantum evolution",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "量子式物种形成",
+   "en": "quantum speciation",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "进口量",
+   "en": "import quantum",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "量子式物种形成,爆发式物种形成",
+   "en": "quantum speciation",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "量子电子学",
+   "en": "quantum electronics",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "量子计算机",
+   "en": "quantum computer",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "量子磁场测量",
+   "en": "quantum magnetic-field measurement",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "拓扑量子场论",
+   "en": "topological quantum field theory (TQFT)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量子",
+   "en": "quantum",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量子科技",
+   "en": "Quantum Technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量子力学",
+   "en": "quantum mechanics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量子引力",
+   "en": "quantum gravity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量子效应",
+   "en": "quantum effect",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量子密码学",
+   "en": "quantum cryptography",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量子计算",
+   "en": "Quantum Computing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量子比特",
+   "en": "quantum bit",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量子态",
+   "en": "quantum state",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量子处理器",
+   "en": "quantum processor",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "场域",
+   "en": "field",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0627",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "法国社会学家布尔迪厄（Pierre Bourdieu）提出的概念。场域是指在各种位置之间存在的客观关系的一个网络或一个构型，这些位置在不同类型的权力（或资本）的分配结构中实际的和潜在的处境中，以及它们"
+  },
+  {
+   "cn": "照射野",
+   "en": "radiation field",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.2.20",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_外照射屏蔽防护设计",
+   "subjectName": "外照射屏蔽防护设计",
+   "publishYear": "2025",
+   "definition": "射线束经准直器后垂直投照到受照体的范围。"
+  },
+  {
+   "cn": "现场去污",
+   "en": "field decontamination",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.15.4",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "在发生核或辐射突发事件现场采用物理、化学或生物过程完全或部分去除放射性污染的行动。包括从人员、设备和建筑物中去除污染物的各种过程，但不包括从人体内去除放射性核素，或通过自然风化或迁移过程去污。"
+  },
+  {
+   "cn": "田野笔记",
+   "en": "field notes",
+   "source": "社会学名词",
+   "wordNumber": "4.2.7.2",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学方法",
+   "subjectName": "人类学方法",
+   "publishYear": "2025",
+   "definition": "在田野工作中所记录的研究内容。包括笔记、实录、原文、日记、图表和谱系等形式，是民族志的基本依据。广义也包括音频和视频资料。"
+  },
+  {
+   "cn": "野战消毒",
+   "en": "field disinfection",
+   "source": "军事预防医学名词",
+   "wordNumber": "14.11.1.1",
+   "subjectFullName": "军事预防医学_军队流行病学_部队特定场合消杀灭",
+   "subjectName": "部队特定场合消杀灭",
+   "publishYear": "2025",
+   "definition": "野战条件下选择简便易行的物理或化学等消毒方法对容易受到污染的对象进行处理，以杀灭或清除可能导致传染病疫情和医院感染的病原微生物。"
+  },
+  {
+   "cn": "野战供膳",
+   "en": "field feeding",
+   "source": "军事预防医学名词",
+   "wordNumber": "7.4.2",
+   "subjectFullName": "军事预防医学_军队营养与食品卫生_军人供膳",
+   "subjectName": "军人供膳",
+   "publishYear": "2025",
+   "definition": "部队在野战条件下，按照军队规定的给养标准和营养相关标准提供的膳食，主要包括热食保障、军用食品保障、饮水保障及相应的保障装备。"
+  },
+  {
+   "cn": "野战食品",
+   "en": "field rations",
+   "source": "军事预防医学名词",
+   "wordNumber": "7.5.1",
+   "subjectFullName": "军事预防医学_军队营养与食品卫生_军用食品",
+   "subjectName": "军用食品",
+   "publishYear": "2025",
+   "definition": "部队人员行军、作战和一些特殊情况下热食供应困难时食用的制式食品，主要包括压缩干粮、脱水米饭、自加热食品、单兵口粮等。"
+  },
+  {
+   "cn": "消毒现场试验",
+   "en": "disinfection field test",
+   "source": "消毒学",
+   "wordNumber": "6.2.28",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "验证消毒剂或消毒器械对消毒对象上自然菌达到消毒合格要求所需使用剂量的试验方法。"
+  },
+  {
+   "cn": "光野指示器",
+   "en": "light field indicator",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.32",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "X射线设备中，通过可见光反映出照射野范围的装置。"
+  },
+  {
+   "cn": "射野灯",
+   "en": "field defining lamp",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.19.6",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "提供可见光用于照到人体表面以模拟实际照射野的光源。"
+  },
+  {
+   "cn": "视野残疾",
+   "en": "visual field disability",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.4.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "由于各种原因导致双眼不同程度的视野缩小，难能从事普通人所能从事的工作、学习或其它活动。"
+  },
+  {
+   "cn": "野营卫生侦查",
+   "en": "field hygiene reconnaissance",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.3.2.8",
+   "subjectFullName": "军事预防医学_军事环境卫生_驻扎环境卫生",
+   "subjectName": "驻扎环境卫生",
+   "publishYear": "2025",
+   "definition": "预先对部队在野外或近似野外条件下驻留时所处环境资源、卫生学情况、环境健康风险等进行实地勘察、检测、分析和评价。"
+  },
+  {
+   "cn": "野营卫生",
+   "en": "field camp sanitation",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.3.2",
+   "subjectFullName": "军事预防医学_军事环境卫生_驻扎环境卫生",
+   "subjectName": "驻扎环境卫生",
+   "publishYear": "2025",
+   "definition": "为使野营环境处于良好的卫生学状态而采取的医学预防等综合措施。"
+  },
+  {
+   "cn": "野外驻训卫生",
+   "en": "field training sanitation",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.3.2.7",
+   "subjectFullName": "军事预防医学_军事环境卫生_驻扎环境卫生",
+   "subjectName": "驻扎环境卫生",
+   "publishYear": "2025",
+   "definition": "在部队离开永久性固定营区到野外或近似野外条件下较长时间驻留和训练时，为使野外驻训环境处于良好的卫生学状态而采取的医学预防等综合措施。"
+  },
+  {
+   "cn": "高压静电场",
+   "en": "high-voltage electrostatic field",
+   "source": "消毒学",
+   "wordNumber": "2.2.5.1",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "通过高压放电形成的超强电场。可使静电场中的颗粒带正电。"
+  },
+  {
+   "cn": "消毒模拟现场试验",
+   "en": "disinfection simulation field test",
+   "source": "消毒学",
+   "wordNumber": "6.2.27",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "在消毒学试验中，用于验证消毒剂或消毒器械对模拟消毒对象上人工污染微生物消毒效果的试验方法。"
+  },
+  {
+   "cn": "现场消毒服务机构",
+   "en": "field disinfection service organization",
+   "source": "消毒学",
+   "wordNumber": "7.4.4.3",
+   "subjectFullName": "消毒学_其他_消毒服务机构",
+   "subjectName": "消毒服务机构",
+   "publishYear": "2025",
+   "definition": "对污染或可能被污染的物品或环境现场进行消毒的机构。"
+  },
+  {
+   "cn": "野营卫生管理",
+   "en": "field camp sanitation management",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.3.2.1",
+   "subjectFullName": "军事预防医学_军事环境卫生_驻扎环境卫生",
+   "subjectName": "驻扎环境卫生",
+   "publishYear": "2025",
+   "definition": "为创造卫生整洁并有利于保障部队健康、预防疾病的野营营区环境，根据相关条令和法规，结合野营的实际情况，制订、实施并监督完成相关医学预防规定及行为的活动。"
+  },
+  {
+   "cn": "军队现场流行病学调查",
+   "en": "military field epidemiological investigation",
+   "source": "军事预防医学名词",
+   "wordNumber": "14.8.4",
+   "subjectFullName": "军事预防医学_军队流行病学_军队突发公共卫生事件",
+   "subjectName": "军队突发公共卫生事件",
+   "publishYear": "2025",
+   "definition": "针对军队内部发生的或与军队有关的群体性疾病或健康事件现场所开展的疾病分布、原因分析与应急处理等综合性调查工作。"
+  },
+  {
+   "cn": "高原野营",
+   "en": "field camp in highland",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.3.2.4.3",
+   "subjectFullName": "军事预防医学_军事环境卫生_驻扎环境卫生",
+   "subjectName": "驻扎环境卫生",
+   "publishYear": "2025",
+   "definition": "在海拔高度超过3000 米、医学上对人体健康产生明显影响的地区，于野外或近似野外的条件下居留和住宿。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,722 @@
+{
+ "key": "semantic content",
+ "term": "semantic content",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-22T05:58:28+00:00",
+ "status": "ok",
+ "note": "variant=semantic content; 审定公布名词库=2315; 海峡两岸名词对照库=709; 其他来源数据库=125; 预公布名词数据库=114; jwt-direct（JWT 直连，raw 略；已滤维基 9 条）",
+ "hits": [
+  {
+   "cn": "实词素",
+   "en": "content semantic morpheme",
+   "source": "语言学名词",
+   "wordNumber": "05.203",
+   "subjectFullName": "语言学_语义学、词汇学_构词法、构词单位、造词法",
+   "subjectName": "构词法、构词单位、造词法",
+   "publishYear": "2011",
+   "definition": "表示一种有实在意义的词素。例如“人们”中的“人”。"
+  },
+  {
+   "cn": "语义学",
+   "en": "semantics",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.206",
+   "subjectFullName": "新闻学与传播学_传播总论_模式与方法",
+   "subjectName": "模式与方法",
+   "publishYear": "2022",
+   "definition": "研究语义表达的规律性、内在解释、不同语言在语义表达方面的个性以及共性。人类语言中，词汇可以有着许多不同的意义(meaning)，然而同一时代的词汇却往往有着相似的意义。对跨文化传播而言，语义学在于让人"
+  },
+  {
+   "cn": "语义",
+   "en": "semantics",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0005",
+   "subjectFullName": "计算机科学技术_系统软件_语言与编译",
+   "subjectName": "语言与编译",
+   "publishYear": "2018",
+   "definition": "语言中各个成分的含义。"
+  },
+  {
+   "cn": "语义学",
+   "en": "semantics",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0484",
+   "subjectFullName": "计算机科学技术_人工智能_计算语言学",
+   "subjectName": "计算语言学",
+   "publishYear": "2018",
+   "definition": "研究自然语言或人工语言的形式和意义间关系的语言学分支。"
+  },
+  {
+   "cn": "语义",
+   "en": "semantics",
+   "source": "数学名词",
+   "wordNumber": "02.0016",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "语义学",
+   "en": "semantics,linguistic semantics",
+   "source": "语言学名词",
+   "wordNumber": "05.001",
+   "subjectFullName": "语言学_语义学、词汇学_语义学与语义理论",
+   "subjectName": "语义学与语义理论",
+   "publishYear": "2011",
+   "definition": "①研究语言意义的学科。从研究角度和研究范畴可分为语言语义学、逻辑语义学、普通语义学、哲学语义学、文化语义学等；从历时发展角度可分为传统语义学和现代语义学；从理论模式角度可分为结构语义学、解释语义学、生"
+  },
+  {
+   "cn": "语义检索",
+   "en": "semantic retrieval,semantic search",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.046",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_检索技术与方法",
+   "subjectName": "检索技术与方法",
+   "publishYear": "2019",
+   "definition": "通过正确分析语法格式，在理解词语的准确意思和词语之间关系的条件下，检索系统根据要求从语义层面上自动从信息源中查询和提取有关信息的过程。"
+  },
+  {
+   "cn": "语义分析",
+   "en": "semantic analysis,semantic parsing",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0534",
+   "subjectFullName": "计算机科学技术_人工智能_计算语言学",
+   "subjectName": "计算语言学",
+   "publishYear": "2018",
+   "definition": "对自然语言进行分析并得到其意义的形式化表示的过程、技术和方法。"
+  },
+  {
+   "cn": "普通语义学",
+   "en": "general semantics,theoretic semantics",
+   "source": "语言学名词",
+   "wordNumber": "05.004",
+   "subjectFullName": "语言学_语义学、词汇学_语义学与语义理论",
+   "subjectName": "语义学与语义理论",
+   "publishYear": "2011",
+   "definition": "语义学的一个分支。主要研究语言交际中的意义问题。"
+  },
+  {
+   "cn": "内容",
+   "en": "content",
+   "source": "档案学名词",
+   "wordNumber": "06.01.017",
+   "subjectFullName": "档案学_电子文件管理_综合",
+   "subjectName": "综合",
+   "publishYear": "2024",
+   "definition": "文件中所包含的表达作者意图的信息。文件的构成要素之一。"
+  },
+  {
+   "cn": "内容",
+   "en": "content",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "17.072",
+   "subjectFullName": "新闻学与传播学_媒体与传播法_公民(法人)的表达自由及禁限",
+   "subjectName": "公民(法人)的表达自由及禁限",
+   "publishYear": "2022",
+   "definition": "指向最终用户或观众的信息和体验。是通过某种媒介如言语、写作、艺术、现场活动等予以表达的东西。这个统称式的词汇将创作的价值一般化，无论是“写作”的作家，还是“拍电影”的制作人，都是“内容提供者”。内容本"
+  },
+  {
+   "cn": "内装物",
+   "en": "content",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.0633",
+   "subjectFullName": "食品科学技术_食品工程_食品专用技术与装备_贮藏保鲜",
+   "subjectName": "贮藏保鲜",
+   "publishYear": "2020",
+   "definition": "包装件内所装的产品或物品。"
+  },
+  {
+   "cn": "含量",
+   "en": "content",
+   "source": "计量学名词",
+   "wordNumber": "15.058",
+   "subjectFullName": "计量学_化学_化学测量的量",
+   "subjectName": "化学测量的量",
+   "publishYear": "2015",
+   "definition": "物质中所含组分的质量、摩尔或体积分数。"
+  },
+  {
+   "cn": "库容",
+   "en": "content",
+   "source": "数学名词",
+   "wordNumber": "011.0556",
+   "subjectFullName": "数学_运筹学_库存论·存储论",
+   "subjectName": "库存论?存储论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "争用",
+   "en": "contention",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.357",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "当两个站或更多个站在同一条公用传输信道上同时试图进行发送时，或者当彼此通常以单工方式操作的两个站同时试图进行发送时所引起的状态。"
+  },
+  {
+   "cn": "争用",
+   "en": "contention",
+   "source": "电子学名词",
+   "wordNumber": "21.371",
+   "subjectFullName": "电子学_通信",
+   "subjectName": "通信",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "语义引擎",
+   "en": "semantic engine",
+   "source": "农学名词",
+   "wordNumber": "16.226",
+   "subjectFullName": "农业信息_农业信息技术",
+   "subjectName": "农业信息技术",
+   "publishYear": "2025",
+   "definition": "利用语义模型进行信息检索的方法。"
+  },
+  {
+   "cn": "语义规则",
+   "en": "semantic rule",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.128",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "为特定符号或者单词赋予意义的约定俗成的规则。"
+  },
+  {
+   "cn": "语义真理",
+   "en": "semantic truth",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.131",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "特定形式语言的所有句子都可以根据它们的基本专名与谓词的指称给出明确的真的定义。"
+  },
+  {
+   "cn": "语义分析",
+   "en": "semantic analysis",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.132",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "一个关联句法结构的过程，从词组、分句、句子、段落、整篇文章，到独立于语言的意义。"
+  },
+  {
+   "cn": "语义",
+   "en": "semantic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "语义学",
+   "en": "semantics",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "语义编码",
+   "en": "semantic encoding\",\"semantic coding",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "含量",
+   "en": "content",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "含量",
+   "en": "content",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "争用",
+   "en": "contention",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "语义分析",
+   "en": "semantic analysis",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "语义网络",
+   "en": "semantic network",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "语义启动",
+   "en": "semantic priming",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "语义记忆",
+   "en": "semantic memory",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "语义知识",
+   "en": "semantic knowledge",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "语义码",
+   "en": "semantic code",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "语义信息",
+   "en": "semantic information",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "语义转换器",
+   "en": "semantic Translator",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "语义场",
+   "en": "semantic field",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "语义词典",
+   "en": "semantic dictionary",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "语义分析",
+   "en": "semantic analysis",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "语义合一",
+   "en": "semantic unification",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "语义记忆",
+   "en": "semantic memory",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "语义检查",
+   "en": "semantic test",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "语义网络",
+   "en": "semantic network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "语义搜索",
+   "en": "semantic search",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "语义对等",
+   "en": "semantic equivalence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "语义模型",
+   "en": "semantic model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "语义建模",
+   "en": "semantic modeling",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "内容制作",
+   "en": "content creation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "内容法定",
+   "en": "statutory content",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "隐性语义索引",
+   "en": "latent semantic indexing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "分布语义假设",
+   "en": "distributional semantics hypothesis",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据语义标准",
+   "en": "data semantics standard",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "文质",
+   "en": "Form and Content",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "内容",
+   "en": "content",
+   "source": "马克思主义",
+   "wordNumber": "01.0056",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“形式”相对。指构成事物内部各种要素的总和，是事物存在的基础。它包括事物的各种内在矛盾以及由这些矛盾所决定的事物的特征、运动的过程和发展的趋势等。"
+  },
+  {
+   "cn": "语义的不可通约性",
+   "en": "semantic incommensurability",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.184",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "不存在一种中立语言，使得新、旧两种范式的陈述可以翻译到该语言，从而实现新、旧范式之间的合理性对比。"
+  },
+  {
+   "cn": "内毒素含量",
+   "en": "endotoxin content",
+   "source": "消毒学",
+   "wordNumber": "6.2.31.1.1",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "革兰氏阴性菌合成的存在于细菌细胞壁最外层的脂多糖的含量。"
+  },
+  {
+   "cn": "内容分析",
+   "en": "content analysis",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.15",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "以系统和定量的方式刻画给定文本的意义的分析技术。"
+  },
+  {
+   "cn": "内容效度",
+   "en": "content validity",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.76",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "有某个量度符合测量目的和要求的程度来测量其效度的方法。"
+  },
+  {
+   "cn": "报告内容",
+   "en": "report content",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.6.1.4.5",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学校突发公共卫生事件管理",
+   "subjectName": "学校突发公共卫生事件管理",
+   "publishYear": "2025",
+   "definition": "责任报告单位和责任报告人在获得突发公共卫生事件相关信息后，对于符合报告要求的事件按照由下至上报告的原则，向所在地区人民政府卫生行政部门或有关单位报告事件信息和事件发生、发展、控制过程的信息。"
+  },
+  {
+   "cn": "酒精度",
+   "en": "alcohol content",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.12.5.2",
+   "subjectFullName": "食品卫生学_食品_酒类",
+   "subjectName": "酒类",
+   "publishYear": "2025",
+   "definition": "以蒸馏法去除样品中的不挥发性物质，用密度瓶法测出试样（酒精水溶液）20 度时的密度，求得在20 度时乙醇含量的体积分数。"
+  },
+  {
+   "cn": "内容分析",
+   "en": "content analysis",
+   "source": "社会医学名词",
+   "wordNumber": "4.2.3.2",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "定性研究",
+   "publishYear": "2025",
+   "definition": "对定性调查所获取信息资料的内容作结构化分析的方法。"
+  },
+  {
+   "cn": "内容效度",
+   "en": "content validity",
+   "source": "社会医学名词",
+   "wordNumber": "4.9.2.2",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "量表",
+   "publishYear": "2025",
+   "definition": "评价量表所涉及的内容，能在多大程度上覆盖研究目的要求达到的各个方面和领域。是一个由专家主观评价的测量结果与试图要达到的目标之间接近程度的指标。"
+  },
+  {
+   "cn": "语义差异量表",
+   "en": "semantic differential scale",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.47",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "以形容词的正反意义为基础、通过等值的评定等级测量态度和感知的量表。是20世纪40年代到50年代由奥斯古德发展的。"
+  },
+  {
+   "cn": "语义网络分析",
+   "en": "semantic network analysis",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.16",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "表现概念间语义关系的网络图.是一种常见的知识呈现形式。"
+  },
+  {
+   "cn": "表意文字",
+   "en": "semantic script; ideography",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0195",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "文字类型之一。字符本身或其结构单位与所记录的词的意义有一定联系而与所记录词的读音没有直接联系的书写符号系统。"
+  },
+  {
+   "cn": "安全水分",
+   "en": "Safe Moisture content",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.1.15",
+   "subjectFullName": "食品卫生学_食品_粮食",
+   "subjectName": "粮食",
+   "publishYear": "2025",
+   "definition": "在利用完好仓储设施储粮并采取科学保粮措施的条件下，保证粮食安全度夏储存的水分含量。"
+  },
+  {
+   "cn": "阳极热容量",
+   "en": "anode heat content",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.53",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "加载期间累积或加载后保留在X射线管阳极中的热量瞬间值。"
+  },
+  {
+   "cn": "放射性含量计",
+   "en": "radioactive content meter",
+   "source": "放射卫生学",
+   "wordNumber": "6.5.4.11",
+   "subjectFullName": "放射卫生学_放射防护_工业应用的放射防护_核仪表及其他应用",
+   "subjectName": "核仪表及其他应用",
+   "publishYear": "2025",
+   "definition": "带有放射源，用于分析物体中元素成分或物质含量的测量装置。"
+  },
+  {
+   "cn": "形式与内容",
+   "en": "form and content",
+   "source": "马克思主义",
+   "wordNumber": "01.0057",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "构成事物统一体的两个不可分割的基本方面。形式与内容相互依存，没有无形式的内容，也没有无内容的形式。内容决定形式，形式依赖于内容，并随着内容的发展而改变。形式反作用于内容，影响内容。在一定条件下，二者可"
+  },
+  {
+   "cn": "残留溶剂量",
+   "en": "residual solvent content",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.10.4.18",
+   "subjectFullName": "食品卫生学_食品_食用油脂",
+   "subjectName": "食用油脂",
+   "publishYear": "2025",
+   "definition": "油脂中留存的浸出溶剂含量。以1 千克油脂中浸出溶剂的质量分数毫克每千克（mg/kg）表示。"
+  },
+  {
+   "cn": "危险水分",
+   "en": "dangerous moisture content",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.1.13",
+   "subjectFullName": "食品卫生学_食品_粮食",
+   "subjectName": "粮食",
+   "publishYear": "2025",
+   "definition": "某种粮食在常规储存条件下，极易发热、霉变的最低水分含量"
+  },
+  {
+   "cn": "挥发性物质含量",
+   "en": "volatile substances content",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.12.5.6",
+   "subjectFullName": "食品卫生学_食品_酒类",
+   "subjectName": "酒类",
+   "publishYear": "2025",
+   "definition": "在特定条件下对酒类进行干燥所损失物质（乙醇除外）的质量。"
+  },
+  {
+   "cn": "单位含量剂量函数",
+   "en": "dose per content function",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.24",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "待积有效剂量系数（或组织器官当量剂量系数）与摄入单位活度的放射性核素t天时体内或器官活度m(t)（或日排泄量的预期值）的比值。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

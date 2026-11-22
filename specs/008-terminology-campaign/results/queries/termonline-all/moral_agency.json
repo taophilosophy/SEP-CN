@@ -1,0 +1,782 @@
+{
+ "key": "moral agency",
+ "term": "moral agency",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-22T05:57:39+00:00",
+ "status": "ok",
+ "note": "variant=moral agency; 审定公布名词库=1534; 海峡两岸名词对照库=507; 其他来源数据库=42; 预公布名词数据库=195; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "能动性",
+   "en": "agency",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.527",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "主体在意图的指引下采取行动的过程中体现出来的主观意识、意志和对行动的控制能力，以及可对行动负责任的能力。"
+  },
+  {
+   "cn": "代理",
+   "en": "agency",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.03.046",
+   "subjectFullName": "编辑与出版学_发行与经营_发行交易",
+   "subjectName": "发行交易",
+   "publishYear": "2022",
+   "definition": "发行单位受出版物所有者委托，代表其从事出版物发行活动。"
+  },
+  {
+   "cn": "代理",
+   "en": "agency",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0568",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_采购与合同管理",
+   "subjectName": "采购与合同管理",
+   "publishYear": "2016",
+   "definition": "代理人在代理权限内，以被代理人的名义实施、由被代理人承担其民事责任的法律行为。"
+  },
+  {
+   "cn": "代办站",
+   "en": "agency",
+   "source": "公路交通科技名词",
+   "wordNumber": "06.127",
+   "subjectFullName": "公路交通科学技术_汽车运输",
+   "subjectName": "汽车运输",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "士气",
+   "en": "morale",
+   "source": "心理学名词",
+   "wordNumber": "12.053",
+   "subjectFullName": "心理学_管理心理学",
+   "subjectName": "管理心理学",
+   "publishYear": "2014",
+   "definition": "成员在追求共同组织目标时表现出来的一致性和持续性。"
+  },
+  {
+   "cn": "道德",
+   "en": "morality",
+   "source": "经济学名词",
+   "wordNumber": "05.043",
+   "subjectFullName": "经济学_制度经济学",
+   "subjectName": "制度经济学",
+   "publishYear": "2020",
+   "definition": "人们在社会生活实践中形成的关于善恶、是非的观念、情感和行为习惯，并依靠社会舆论和良心指导的人格完善与调节人与人、人与社会、人与自然关系的规范体系。道德是由经济关系最终决定、按照善恶标准来评价并依靠社会"
+  },
+  {
+   "cn": "道德行为者",
+   "en": "moral agent",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.227",
+   "subjectFullName": "自然辩证法_技术哲学_环境哲学",
+   "subjectName": "环境哲学",
+   "publishYear": "2024",
+   "definition": "能够在不同主体的相互关系中道德地或体现道德感地行动，能够承担起伦理义务和道德责任，也能够为自己的行为负责的人。"
+  },
+  {
+   "cn": "运带机构",
+   "en": "shipping agency",
+   "source": "编辑与出版学名词",
+   "wordNumber": "04.02.082",
+   "subjectFullName": "编辑与出版学_音像复制_磁带复制",
+   "subjectName": "磁带复制",
+   "publishYear": "2022",
+   "definition": "由电动机驱动使磁带对磁头作相对运动的机械装置。"
+  },
+  {
+   "cn": "发行单位",
+   "en": "distribution agency",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.01.002",
+   "subjectFullName": "编辑与出版学_发行与经营_发行基础",
+   "subjectName": "发行基础",
+   "publishYear": "2022",
+   "definition": "从事出版物发行活动的出版组织或机构。"
+  },
+  {
+   "cn": "独家代理",
+   "en": "exclusive agency",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.03.047",
+   "subjectFullName": "编辑与出版学_发行与经营_发行交易",
+   "subjectName": "发行交易",
+   "publishYear": "2022",
+   "definition": "以合同形式委托某商店在一定时期内和一定地区内，唯一地代理推销（不能另建代理关系或直接销售）某种商品。"
+  },
+  {
+   "cn": "一般代理",
+   "en": "general agency",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.03.048",
+   "subjectFullName": "编辑与出版学_发行与经营_发行交易",
+   "subjectName": "发行交易",
+   "publishYear": "2022",
+   "definition": "货主可在同一地区同时建立多家代理关系，也可越过代理人直接向该地区售货的销售方式。"
+  },
+  {
+   "cn": "广告代理商",
+   "en": "advertising agency",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.05.170",
+   "subjectFullName": "编辑与出版学_发行与经营_发行信息与管理",
+   "subjectName": "发行信息与管理",
+   "publishYear": "2022",
+   "definition": "受委托提供广告设计、制作、代理服务的法人、其他经济组织或者个人；具有广告发布职能的法人、其他经营者。既包括专门的大众传播机构，也包括具有自营媒介的一般广告经营者。"
+  },
+  {
+   "cn": "广告代理公司",
+   "en": "advertising agency",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "21.039",
+   "subjectFullName": "新闻学与传播学_广告_广告行业",
+   "subjectName": "广告行业",
+   "publishYear": "2022",
+   "definition": "站在广告主的立场制定广告方案并根据这个方案购买媒介，实施广告活动的机构。"
+  },
+  {
+   "cn": "代理契约",
+   "en": "agency contract",
+   "source": "经济学名词",
+   "wordNumber": "05.001",
+   "subjectFullName": "经济学_制度经济学",
+   "subjectName": "制度经济学",
+   "publishYear": "2020",
+   "definition": "委托人授权予代理人时双方所签署的契约。基本内容包括代理人为了委托人的利益应采取何种行动，委托人应向代理人支付何种报酬等。"
+  },
+  {
+   "cn": "代理成本",
+   "en": "agency cost",
+   "source": "经济学名词",
+   "wordNumber": "05.002",
+   "subjectFullName": "经济学_制度经济学",
+   "subjectName": "制度经济学",
+   "publishYear": "2020",
+   "definition": "委托人与代理人之间利益和信息不完全一致而带来的成本。包括委托人监督代理人的成本（监督成本）、委托人用来将代理人和企业利益结合在一起而出现的约束成本（代理人的担保成本），以及代理人并不选择那些在完全可监"
+  },
+  {
+   "cn": "代理理论",
+   "en": "agency theory",
+   "source": "经济学名词",
+   "wordNumber": "05.003",
+   "subjectFullName": "经济学_制度经济学",
+   "subjectName": "制度经济学",
+   "publishYear": "2020",
+   "definition": "研究自利导向的委托人与代理人在信息不对称的情形下如何行动的理论。规范的代理理论以模型为取向，研究在抽象的市场关系中委托人与代理人之间让渡决策权和责任的合同，重点关注的是风险偏好的程度、风险的分担和合同"
+  },
+  {
+   "cn": "编目机构",
+   "en": "cataloging agency",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "02.056",
+   "subjectFullName": "图书馆·情报与文献学_图书情报工作管理_组织机构",
+   "subjectName": "组织机构",
+   "publishYear": "2019",
+   "definition": "以制作新书书目记录或修改已有编目记录的形式提供权威性编目数据，且能被其他图书馆利用的机构。"
+  },
+  {
+   "cn": "代理成本",
+   "en": "agency cost",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.1032",
+   "subjectFullName": "管理科学技术_一般管理理论_企业理论",
+   "subjectName": "企业理论",
+   "publishYear": "2016",
+   "definition": "利益相互冲突的委托人与代理人之间在构造、监督及保证一系列契约履行时发生的费用总和。包括三部分：委托人的监督成本；代理人的担保成本；剩余损失。"
+  },
+  {
+   "cn": "林业机构",
+   "en": "forestry agency",
+   "source": "林学名词",
+   "wordNumber": "13.071",
+   "subjectFullName": "林学_林业经济_林业政策与管理",
+   "subjectName": "林业政策与管理",
+   "publishYear": "2016",
+   "definition": "具有执法监管、宏观调控或公共服务职能的综合协调林业发展的林业部门。"
+  },
+  {
+   "cn": "激励代理",
+   "en": "incentive agency",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0233",
+   "subjectFullName": "管理科学技术_金融工程_原理",
+   "subjectName": "原理",
+   "publishYear": "2016",
+   "definition": "关于委托人与代理人如何分享经营成果的一种契约。通过激励代理人的方法，减轻代理问题，减小委托人与代理人之间的利益冲突，能够使委托人与代理人的利益相一致，即代理人能够努力实现委托人利益即企业市场价值的最大"
+  },
+  {
+   "cn": "士气",
+   "en": "morale",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "道德",
+   "en": "morality",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "报关代理行",
+   "en": "customs agency",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "代理背书",
+   "en": "agency endorsement",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "代理期票",
+   "en": "agency bill",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "代理手续费，佣金",
+   "en": "agency commission",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "托收代理行",
+   "en": "collection agency",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "中间代理商",
+   "en": "intermediary agency",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "总经销，总代理",
+   "en": "general agency",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "人类能动性",
+   "en": "human agency",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "道德推理",
+   "en": "moral reasoning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "道德解离",
+   "en": "moral disengagement",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "道德两难",
+   "en": "moral dilemma",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "道德判断",
+   "en": "moral judgement",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "道德焦虑",
+   "en": "moral anxiety",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "道德发展",
+   "en": "moral development",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "组织士气",
+   "en": "organizational morale",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自律道德",
+   "en": "autonomous morality",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "习俗道德",
+   "en": "conventional morality",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "前习俗道德",
+   "en": "preconventional morality",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "道心",
+   "en": "Moral Mind / Moral Consciousness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "风教",
+   "en": "Moral Cultivation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "崇德",
+   "en": "Moral Elevation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "德操",
+   "en": "Moral Integrity",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "气节",
+   "en": "Moral Integrity",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际能源署",
+   "en": "International Energy Agency",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据交易机构",
+   "en": "data trading agency",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际原子能机构",
+   "en": "International Atomic Energy Agency",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "西班牙数据保护局",
+   "en": "Data Protection Agency (Spain)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "风化",
+   "en": "Influence of Moral Cultivation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "媒体大脑",
+   "en": "Media Brain (Xinhua News Agency)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "充实之谓美",
+   "en": "Moral Fulfillment Is Beauty Itself.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "阿帕网",
+   "en": "Advanced Research Projects Agency (ARPA) Network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "德性之知",
+   "en": "Knowledge from One’s Moral Nature",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "情教",
+   "en": "Moral Instruction Carried Out with Emotion",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "德性",
+   "en": "Virtuous Nature / Morals as Human Nature",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "师出有名",
+   "en": "Fighting a War with a Moral Justification",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "德性",
+   "en": "moral",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.111",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "道德品性。个人在长期的道德实践中表现出来的比较稳定的、一贯的行为特征和心理倾向。通过道德认识、道德情感、道德信念、道德意志和道德行为等因素表现出来。"
+  },
+  {
+   "cn": "道德",
+   "en": "morality",
+   "source": "社会学名词",
+   "wordNumber": "2.8.2.4",
+   "subjectFullName": "社会学名词_社会学一般概念_社会制度_社会规范",
+   "subjectName": "社会规范",
+   "publishYear": "2025",
+   "definition": "基于社会普遍认同的善恶标准，用来评价人们行为是否符合公序良俗，并指引和调整社会成员之间关系的准则与规范的总和。"
+  },
+  {
+   "cn": "道德",
+   "en": "morality",
+   "source": "马克思主义",
+   "wordNumber": "01.0154",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "一种社会意识形态，以善恶为评价标准，依靠社会舆论和主体内在信念的力量来评价和调整人们之间相互关系的行为原则和规范的总和。道德是一个历史范畴，受社会生产方式制约。随生产方式的变化，形成不同的道德要求和道"
+  },
+  {
+   "cn": "道德",
+   "en": "morality",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.006",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人们共同生活、工作的行为准则和规范及其在人们内心形成的品德。它通过人们的自律和他律对社会生活起约束作用。"
+  },
+  {
+   "cn": "志愿团体",
+   "en": "voluntary agency",
+   "source": "社会学名词",
+   "wordNumber": "2.5.2.3",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织化群体",
+   "subjectName": "组织化群体",
+   "publishYear": "2025",
+   "definition": "由志愿者在不谋求任何物质、金钱及相关利益回报的前提下，合理运用社会现有的资源，志愿奉献个人可以奉献的东西，在帮助弱者、消除贫困、保护环境、维护社会秩序和世界和平等方面，开展力所能及的、切合实际的，具一"
+  },
+  {
+   "cn": "机构督导",
+   "en": "agency supervisor",
+   "source": "社会学名词",
+   "wordNumber": "4.4.11.6",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实习",
+   "subjectName": "社会工作实习",
+   "publishYear": "2025",
+   "definition": "由社会工作服务机构有关人员对社会工作实习生进行的督导。通常是由机构内资深的专业人员，对其新进人员或实习生，透过定期、持续的督导程序，传授专业服务所需方法与技术，以增进从事人员的专业技巧，以确保服务受益"
+  },
+  {
+   "cn": "节操",
+   "en": "moral integrity",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.081",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "气节和操守的统称。前者表示一个人的精神力量，后者表示其道德品质。坚守某种被誉为高尚品质的行为表现。"
+  },
+  {
+   "cn": "道德规律",
+   "en": "moral law",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.023",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "道德发生、发展、变化及其诸要素之间客观的、内在的本质联系。社会经济关系决定道德的发展，同时受上层建筑中许多其他因素的影响。"
+  },
+  {
+   "cn": "道德评价",
+   "en": "moral evaluation",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.028",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "依据一定的道德标准对人们的道德行为和各种道德现象所作的善恶是非判断。包括自我评价和他人评价。其评价依据是动机与效果、目的与手段的辩证统一。"
+  },
+  {
+   "cn": "道德商谈",
+   "en": "moral discussion",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.032",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "德国哲学家尤尔根·哈贝马斯（Jürgen Habermas）提出的一种探究正义的方法。认为道德判断建立在以交往为基础的交往主体性上，而道德判断的普遍性原则就建立在主体之间的理性交往形成的普遍同意之上。"
+  },
+  {
+   "cn": "道义经济学",
+   "en": "moral economics",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.40",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "受生存伦理支配的经济活动。斯科特(James C.Scott）用此概念强调了生存规则的道德涵义。借助对东南亚农民反叛的考察与分析，他指出，农民追求的不是收入的最大化，而是“安全第一”的生存伦理，以及相"
+  },
+  {
+   "cn": "道德教育",
+   "en": "moral education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.3",
+   "subjectFullName": "社会学名词_分支社会学_教育社会学",
+   "subjectName": "教育社会学",
+   "publishYear": "2025",
+   "definition": "对受教育者有目的地施以道德影响的教育活动，强调责任、义务的履行和对至善道德、完美人性的追求。"
+  },
+  {
+   "cn": "道德共同体",
+   "en": "moral community",
+   "source": "马克思主义",
+   "wordNumber": "05.0065",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "晚年萨特在变革世界的方式上开始从暴力转向道德，希望用道德共同体来为个体自由和希望奠定基础。他把追寻道德的努力和消除匮乏的努力视作两种主要的合乎人性的态度，并指出道德的可能性基础在于兄弟关系的普遍性，即"
+  },
+  {
+   "cn": "道德风险",
+   "en": "moral hazard",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.3.3",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险市场",
+   "subjectName": "健康保险市场",
+   "publishYear": "2025",
+   "definition": "健康保险的第三方付费，引起参保者或医疗机构健康态度和行为上的改变，导致健康服务需求额外增加的行为"
+  },
+  {
+   "cn": "道德发展",
+   "en": "moral development",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.22",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "个体心理发展的一个方面。个体认识社会伦理道德规则和准则，形成道德认知、道德情感和道德行为的过程。既受到个体周围社会文化环境的影响，也受到个体成熟、认知及情绪发展，特别是其从事的交往活动和道德教育的制约"
+  },
+  {
+   "cn": "道德多元化",
+   "en": "moral pluralism",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.033",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "人类社会交往中呈现出的道德理论、道德原则、道德规范、道德选择的多样性。"
+  },
+  {
+   "cn": "道德境界",
+   "en": "moral state",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.042",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人们在道德修养过程中形成的道德觉悟和情操所达到的水平。由于人们所处地位和个人道德修养不同，道德境界有高低之别。"
+  },
+  {
+   "cn": "道德直觉",
+   "en": "moral intuition",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.025",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "无须借助经验证明和逻辑推理，凭借经验知识、记忆表象而作出的道德选择或道德评价。"
+  },
+  {
+   "cn": "道德价值",
+   "en": "moral value",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.024",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "个体或集体的品质、行为及其结果对于他人和社会所具有的道德上的意义。包括内在价值和外在价值。前者指主体对道德行为的内心感受，显现道德对提升德性和人格的精神价值；后者指道德行为的外在效果，显现道德的功利价"
+  },
+  {
+   "cn": "道德情感",
+   "en": "moral emotion",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.016",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人们基于一定的道德认识，对道德行为产生的爱憎或好恶的内心感受。对符合道德准则的行为感到满意、愉快、光荣，对不符合道德准则的行为感到义愤、内疚、羞耻。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

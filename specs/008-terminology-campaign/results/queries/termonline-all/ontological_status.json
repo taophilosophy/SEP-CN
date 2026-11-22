@@ -1,0 +1,742 @@
+{
+ "key": "ontological status",
+ "term": "ontological status",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-22T05:56:20+00:00",
+ "status": "ok",
+ "note": "variant=ontological status; 审定公布名词库=1436; 海峡两岸名词对照库=268; 其他来源数据库=35; 预公布名词数据库=66; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "本体论",
+   "en": "ontology",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.001",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "知识信息概念模型的规范说明，以实现知识信息共享。"
+  },
+  {
+   "cn": "本体",
+   "en": "ontology",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.01.135",
+   "subjectFullName": "编辑与出版学_数字出版_综述",
+   "subjectName": "综述",
+   "publishYear": "2022",
+   "definition": "知识的形式化说明，通常由概念、概念之间的关系、公理、规则组成。"
+  },
+  {
+   "cn": "本体",
+   "en": "ontology",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.106",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "对概念体系的明确的、形式化、可共享的规范说明。定义了组成主题领域的词汇表的基本术语及其关系，以及结合这些术语和关系来定义词汇表外延的规则。"
+  },
+  {
+   "cn": "本体",
+   "en": "ontology",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0671",
+   "subjectFullName": "计算机科学技术_人工智能_知识工程",
+   "subjectName": "知识工程",
+   "publishYear": "2018",
+   "definition": "对一个论域中存在的概念及其关系和性质的可共享的、形式化的、显现的描述；使用该本体所建立的模型可以被其他人员或系统共享。"
+  },
+  {
+   "cn": "本体",
+   "en": "ontology",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0777",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_知识管理",
+   "subjectName": "知识管理",
+   "publishYear": "2016",
+   "definition": "对一个特定领域中重要的共享概念的明确的形式化描述。包括①概念化，即客观对象的抽象模型；明确，即概念及它们之间的联系都被精确定义；②形式化，即精确的数学描述；共享，即本体所反映的知识是使用者共同认可的。"
+  },
+  {
+   "cn": "本体论",
+   "en": "ontology",
+   "source": "教育学名词",
+   "wordNumber": "01.090",
+   "subjectFullName": "教育学_教育基本理论",
+   "subjectName": "教育基本理论",
+   "publishYear": "2013",
+   "definition": "哲学的一个分支。研究存在的本质、变化的意义、宇宙的目的和意图、人类是否有自由意志等问题。"
+  },
+  {
+   "cn": "本体知识体系",
+   "en": "ontology",
+   "source": "语言学名词",
+   "wordNumber": "11.012",
+   "subjectFullName": "语言学_计算语言学_总论",
+   "subjectName": "总论",
+   "publishYear": "2011",
+   "definition": "对概念体系的明确的、形式化的、可共享的规范。“概念体系”指所描述的客观世界的现象中有关概念的抽象模型，“明确”指对于所使用的概念的类型以及概念用法的约束都明确地加以定义，“形式化”指本体知识体系应该是"
+  },
+  {
+   "cn": "地位",
+   "en": "status",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0133",
+   "subjectFullName": "管理科学技术_一般管理理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "个体在群体内部所占据的威望等级、阶层、职位。"
+  },
+  {
+   "cn": "通用本体",
+   "en": "general ontology,common ontology",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.111",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "用于描述若干个领域知识的一种专门本体。可在多个领域实现复用。"
+  },
+  {
+   "cn": "语义本体",
+   "en": "linguistic ontology,semantic ontology",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.108",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "主要的语义概念和这些概念之间的关系，以及它们之间的组织方式。"
+  },
+  {
+   "cn": "本体论承诺",
+   "en": "ontological commitment",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.258",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "蒯因提出的一个哲学概念。一个理论的本体论承诺就是该理论所指称和量化的对象的总体。用蒯因的话说，“存在就是约束变元的值”。"
+  },
+  {
+   "cn": "本体论节俭",
+   "en": "ontological parsimony",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.259",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "一个评价与取舍候选理论的原则。如果T1在本体论上比T2更节俭，即做出更少的本体论承诺，则在其他情况一样的条件下，优先选择T1。是奥卡姆剃刀原则的强化版本。"
+  },
+  {
+   "cn": "本体论中性",
+   "en": "ontological neutrality",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.590",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "一个命题或判断不依赖于其本体论预设。"
+  },
+  {
+   "cn": "本体论自然主义",
+   "en": "ontological naturalism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.591",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "认为自然的特性、自然事件和自然个体是唯一存在的特性、事件和个体，即那些可以被自然科学研究的对象才是唯一存在的。"
+  },
+  {
+   "cn": "工程本体论",
+   "en": "engineering ontology",
+   "source": "自然辩证法名词",
+   "wordNumber": "05.003",
+   "subjectFullName": "自然辩证法_工程哲学_工程哲学概论",
+   "subjectName": "工程哲学概论",
+   "publishYear": "2024",
+   "definition": "对工程本根或本体的认识和研究。强调工程相对于科学和技术的独立地位与基础地位，强调工程是直接生产力，是人类生存与发展的根本基础。"
+  },
+  {
+   "cn": "媒介本体论",
+   "en": "media ontology",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.081",
+   "subjectFullName": "新闻学与传播学_传播总论_传播研究基础",
+   "subjectName": "传播研究基础",
+   "publishYear": "2022",
+   "definition": "探讨媒介存在方式的学说。该学说反对形式-内容二元论，强调媒介物所扮演的基础性角色，认为媒介物以各种方式聚合起来，组织和安排了人与外部世界之间的关系，构成了人的生存境况。"
+  },
+  {
+   "cn": "地理本体",
+   "en": "geo-ontology",
+   "source": "测绘学名词",
+   "wordNumber": "05.013",
+   "subjectFullName": "测绘学_地理信息工程",
+   "subjectName": "地理信息工程",
+   "publishYear": "2020",
+   "definition": "地理信息科学领域共享概念的明确的形式化规范。"
+  },
+  {
+   "cn": "领域本体",
+   "en": "domain ontology",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.112",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "用于描述特定领域知识的一种专门本体。是揭示领域实体概念及相互关系、领域活动以及该领域所具有的特性和规律的一种形式化描述。可以明确专业术语、关系及其领域公理，使其形式化，并可实现共享，达到一定程度的领域"
+  },
+  {
+   "cn": "应用本体",
+   "en": "application ontology",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.114",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "特定领域和任务的概念以及概念之间的关系。"
+  },
+  {
+   "cn": "方法本体",
+   "en": "method ontology",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.116",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "用来描述问题求解方法的相关概念以及概念之间的关系。"
+  },
+  {
+   "cn": "位置",
+   "en": "status",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "地位",
+   "en": "status",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "配置状态",
+   "en": "configuration status",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "系统状况",
+   "en": "system status",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "状态询问",
+   "en": "status enquiry",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "优惠国待遇",
+   "en": "favoured nation status",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "状态－压力－响应",
+   "en": "status-pressure-response",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "错误状态字",
+   "en": "error status word",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "配置状态报告",
+   "en": "configuration status accounting",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "证书状态机构",
+   "en": "certificate status authority",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "完全运行状态",
+   "en": "full operational status",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "处理机状态字",
+   "en": "processor status word\",\"PSW",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "文件状态表",
+   "en": "file status table\",\"FST",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "移动地球站状态",
+   "en": "mobile earth station status",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "细胞学图",
+   "en": "cytological map",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "细胞学图",
+   "en": "cytological map",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "层云",
+   "en": "stratus",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "层云",
+   "en": "stratus",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "层云",
+   "en": "stratus\",\"St",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "黑层云",
+   "en": "black stratus",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "本体论",
+   "en": "ontology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "状态感知",
+   "en": "status awareness",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据标准现状调研",
+   "en": "data standard status investigation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "健康申报",
+   "en": "declaration of health status    ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "同归殊途",
+   "en": "Arrive at the Same Destination via Different Routes / Rely on a Common Ontological Entity",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "位卑未敢忘忧国",
+   "en": "Whatever my status, I will never lay aside my concern for the nation.",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "富贵不能淫，贫贱不能移，威武不能屈",
+   "en": "never be corrupted by wealth or status, depart from principle due to poverty or humble position, or bow down to power or force",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "静止",
+   "en": "statism",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "静态柔顺性",
+   "en": "static compliance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "静止姿势",
+   "en": "static position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "《美国标准战略》",
+   "en": "United States Standards Strategy (USSS)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中阿合作论坛",
+   "en": "China Arab States Cooperation Forum",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "定位打法",
+   "en": "slow play\",\"static play",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "本体论",
+   "en": "ontology",
+   "source": "马克思主义",
+   "wordNumber": "01.0008",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "关于世界的存在及其本质的学说。思维与存在、物质和意识何者是本原、何者是第一性的问题是本体论的核心问题。"
+  },
+  {
+   "cn": "身份",
+   "en": "status",
+   "source": "社会学名词",
+   "wordNumber": "2.6.3.1",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会结构",
+   "subjectName": "社会结构",
+   "publishYear": "2025",
+   "definition": "人与人之间相互区分、相互认同的社会属性符号。"
+  },
+  {
+   "cn": "希望本体论",
+   "en": "hope ontology",
+   "source": "马克思主义",
+   "wordNumber": "05.0064",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "萨特晚年提出的概念。在关于人的存在的本体论基础的思考上，萨特回到了著名哲学家布洛赫的希望理论，强调人是希望的主体，而希望不是简单的心理学范畴，而是一个本体论范畴，是人的生存的本体论结构。希望也是社会进"
+  },
+  {
+   "cn": "教育本体论",
+   "en": "education ontology",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.014",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "研究教育存在的最一般特征，它与人的本体论有极大关系，人要获得做人的价值和社会价值，具有存在的意义，必须借助教育；而教育要体现自身的存在，则要通过人，受教育者获得的价值越高，教育的存在就表现得越充分，教"
+  },
+  {
+   "cn": "状态检测",
+   "en": "status test",
+   "source": "放射卫生学",
+   "wordNumber": "8.1.4.2",
+   "subjectFullName": "放射卫生学_放射卫生监管_医用辐射监管_放射诊疗设备",
+   "subjectName": "放射诊疗设备",
+   "publishYear": "2025",
+   "definition": "对运行中的放射诊疗设备，为评价其防护和性能指标是否符合标准要求而定期进行的质量控制检测，该检测应由具有资质的放射卫生技术服务机构开展。"
+  },
+  {
+   "cn": "现状评价",
+   "en": "status evaluation",
+   "source": "放射卫生学",
+   "wordNumber": "8.3.6",
+   "subjectFullName": "放射卫生学_放射卫生监管_放射建设项目",
+   "subjectName": "放射建设项目",
+   "publishYear": "2025",
+   "definition": "对用人单位工作场所职业病危害因素及其接触水平、职业病防护设施及其他职业病防护措施与效果、职业病危害因素对劳动者的健康影响情况等进行的综合评价。"
+  },
+  {
+   "cn": "身份人格",
+   "en": "status personality",
+   "source": "社会学名词",
+   "wordNumber": "2.3.2.13",
+   "subjectFullName": "社会学名词_社会学一般概念_社会化_社会角色",
+   "subjectName": "社会角色",
+   "publishYear": "2025",
+   "definition": "与个体所在的特定身份群体相联系的人格型态。不同的人既共享该社会或文化所塑造的“基本人格”，也因为各自所属的身份群体的价值差异，而呈现出行为模式上的差异。美国人类学家拉尔夫·林顿（Ralph Linto"
+  },
+  {
+   "cn": "身份社会",
+   "en": "status society",
+   "source": "社会学名词",
+   "wordNumber": "2.3.2.14",
+   "subjectFullName": "社会学名词_社会学一般概念_社会化_社会角色",
+   "subjectName": "社会角色",
+   "publishYear": "2025",
+   "definition": "以血缘、宗法等先赋性关系为纽带而建立的等级制社会，与贵族制、身份等级制、人身依附关系等有着密切的联系。与之相对的是建立在平等、契约基础之上的“契约社会”。"
+  },
+  {
+   "cn": "社会地位",
+   "en": "social status",
+   "source": "社会学名词",
+   "wordNumber": "2.6.3.2",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会结构",
+   "subjectName": "社会结构",
+   "publishYear": "2025",
+   "definition": "在特定分层系统中由法律、政治和文化标准确定的身份或地位，通常按高低等级排列。"
+  },
+  {
+   "cn": "身份群体",
+   "en": "status group",
+   "source": "社会学名词",
+   "wordNumber": "2.6.3.3",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会结构",
+   "subjectName": "社会结构",
+   "publishYear": "2025",
+   "definition": "依据声望地位（社会主观评价）指标区分的社会群体。一些韦伯派分层理论家、功能主义分层理论家和后现代分层理论家认为，在当代社会已取代阶级成为社会分化的基本群体分类。"
+  },
+  {
+   "cn": "身份制",
+   "en": "status system",
+   "source": "社会学名词",
+   "wordNumber": "2.6.3.4",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会结构",
+   "subjectName": "社会结构",
+   "publishYear": "2025",
+   "definition": "针对中国1960和1970年代社会分层特殊性提出的概念。李强等人认为，当时的中国社会分层表现出一种以国家行政制度（户籍制度、单位制和行政档案分类）为基础的制度，依据个人在这些制度中的地位状况区分出社会"
+  },
+  {
+   "cn": "地位结晶化",
+   "en": "status crystallization",
+   "source": "社会学名词",
+   "wordNumber": "2.6.3.5",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会结构",
+   "subjectName": "社会结构",
+   "publishYear": "2025",
+   "definition": "个人或群体在多维分层指标（如收入、职业、教育等）中保持一致性的位置。比如，高教育水平的人获得高声望的职业和高收入。由美国社会学家伦斯基(Gerhard Lenski）提出。与“地位不一致性 ”相对。"
+  },
+  {
+   "cn": "地位获得",
+   "en": "status attainment",
+   "source": "社会学名词",
+   "wordNumber": "2.6.4.7",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会流动",
+   "subjectName": "社会流动",
+   "publishYear": "2025",
+   "definition": "个人通过某些方式和途径达到一定的社会经济地位（如职业地位、声望地位和经济地位等）。社会学家通过其考查社会分层的机制，即哪些个人因素和结构因素决定人们的社会经济地位。"
+  },
+  {
+   "cn": "先赋性身份",
+   "en": "ascribed status",
+   "source": "社会学名词",
+   "wordNumber": "2.6.4.10",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会流动",
+   "subjectName": "社会流动",
+   "publishYear": "2025",
+   "definition": "个人出生时即被赋予的身份特征。比如，性别、民族、种族、父辈的财富以及其他家庭背景等，影响个人后续的社会经济地位。在中国社会的典型体现是户口身份。与“自致性身份”相对。"
+  },
+  {
+   "cn": "自致性身份",
+   "en": "achieved status",
+   "source": "社会学名词",
+   "wordNumber": "2.6.4.11",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会流动",
+   "subjectName": "社会流动",
+   "publishYear": "2025",
+   "definition": "靠个人后天努力而获得的身份。比如，学历或专业技能资格等，以及基于学历和专业技能通过与他人竞争而获得的身份地位。与“先赋性身份”相对。"
+  },
+  {
+   "cn": "健康状况",
+   "en": "health status",
+   "source": "社会学名词",
+   "wordNumber": "3.11.2.7",
+   "subjectFullName": "社会学名词_分支社会学_医学社会学_健康现象与行为",
+   "subjectName": "健康现象与行为",
+   "publishYear": "2025",
+   "definition": "反映某个人或某个人群整体健康状况的指标，现有的健康状况指标有健康结果指标（发病率、死亡率等）、医疗服务利用指标（门诊数、住院天数等）、主观健康评价指标等。"
+  },
+  {
+   "cn": "社会经济状况",
+   "en": "socioeconomic status",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "根据个体或家庭能够获取或者控制的社会资源数量对其进行社会层级划分的综合性指标。通常由职业、受教育程度和收入这三个维度的指标构建而成。"
+  },
+  {
+   "cn": "疾病状态",
+   "en": "sick status",
+   "source": "军事预防医学名词",
+   "wordNumber": "17.1.1.2",
+   "subjectFullName": "军事预防医学_军队健康教育与健康促进_军队健康教育",
+   "subjectName": "军队健康教育",
+   "publishYear": "2025",
+   "definition": "个体表现出来的、能够被个人感知或他人观察到/测量到的异常状态，即个体功能的不正常状态。"
+  },
+  {
+   "cn": "生理状态",
+   "en": "physical status",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.1.1",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "反映个体体能和活动能力的状态。通常包括活动受限、角色受限和体力适度三方面的内容。"
+  },
+  {
+   "cn": "亚健康状态",
+   "en": "subhealth status",
+   "source": "军事预防医学名词",
+   "wordNumber": "17.1.1.3",
+   "subjectFullName": "军事预防医学_军队健康教育与健康促进_军队健康教育",
+   "subjectName": "军队健康教育",
+   "publishYear": "2025",
+   "definition": "个体因工作、学习或生活等方面的压力引起的介于健康和疾病之间的中间状态，既非健康、又非疾病的状态。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,782 @@
+{
+ "key": "explanatory role",
+ "term": "explanatory role",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-22T05:59:47+00:00",
+ "status": "ok",
+ "note": "variant=explanatory role; 审定公布名词库=1786; 海峡两岸名词对照库=528; 其他来源数据库=121; 预公布名词数据库=70; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "题解",
+   "en": "explanatory note",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.04.040",
+   "subjectFullName": "编辑与出版学_编辑_编辑加工",
+   "subjectName": "编辑加工",
+   "publishYear": "2022",
+   "definition": "说明书籍或文章的作者、内容、版本等情况的辅文。"
+  },
+  {
+   "cn": "释义注",
+   "en": "explanatory note",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.04.068",
+   "subjectFullName": "编辑与出版学_编辑_编辑加工",
+   "subjectName": "编辑加工",
+   "publishYear": "2022",
+   "definition": "对正文中的语句、用词进行说明的注释。"
+  },
+  {
+   "cn": "说明能力",
+   "en": "explanatory power",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.103",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "理论或假说可以有效说明所涉及主题的多少。"
+  },
+  {
+   "cn": "说明的还原论",
+   "en": "explanatory reductionism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.113",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "认为某层次或形式的说明可由另一层次或形式的说明推导得出。"
+  },
+  {
+   "cn": "解释鸿沟",
+   "en": "explanatory gap",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.516",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "J. 莱文（J. Levine）对物理知识无法说明主观意识体验的感受特性的一种反物理主义的知识论描述。无论我们掌握多少物理世界的知识，在概念上我们仍然无法解释某种复杂的大脑状态或计算过程，以及会让人感"
+  },
+  {
+   "cn": "解释变量",
+   "en": "explanatory variable",
+   "source": "经济学名词",
+   "wordNumber": "10.049",
+   "subjectFullName": "经济学_数量经济学",
+   "subjectName": "数量经济学",
+   "publishYear": "2020",
+   "definition": "着重研究的自变量，是研究者重点考查对因变量有何影响的变量。"
+  },
+  {
+   "cn": "解释性妄想",
+   "en": "explanatory delusion",
+   "source": "精神医学名词",
+   "wordNumber": "02.120",
+   "subjectFullName": "精神医学_症状与体征_思维障碍症状",
+   "subjectName": "思维障碍症状",
+   "publishYear": "2019",
+   "definition": "受检者的歪曲感受显得合理的妄想。如受检者感到很多陌生人都对自己跟踪盯梢，解释为这是一个组织串通了迫害他的证据。"
+  },
+  {
+   "cn": "一般参照",
+   "en": "explanatory reference",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.640",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_资源描述",
+   "subjectName": "资源描述",
+   "publishYear": "2019",
+   "definition": "一种概括性地指明标目的选取原则的方法。它向读者提供关于某个事项的一项普通说明或一条分类编目通例，使读者遵照它去查阅目录。凡是图书分类、著录规则或目录组织规则，需进一步说明时，都可编制一般参照卡片。采用"
+  },
+  {
+   "cn": "解释方式",
+   "en": "explanatory style",
+   "source": "医学美学与美容医学名词",
+   "wordNumber": "02.103",
+   "subjectFullName": "医学美学与美容医学_美容医学心理学",
+   "subjectName": "美容医学心理学",
+   "publishYear": "2015",
+   "definition": "对事件做出某种归因的相对稳定的倾向，特别是与抑郁有关的倾向。"
+  },
+  {
+   "cn": "解释性对等词",
+   "en": "explanatory equivalent",
+   "source": "语言学名词",
+   "wordNumber": "06.086",
+   "subjectFullName": "语言学_辞书学_辞书编纂",
+   "subjectName": "辞书编纂",
+   "publishYear": "2011",
+   "definition": "与“翻译对等词”相对。在处理目标语中缺失的文化特色词时，双语词典为解释词头所提供的释义性短语。"
+  },
+  {
+   "cn": "解释充分性",
+   "en": "explanatory adequacy",
+   "source": "语言学名词",
+   "wordNumber": "01.130",
+   "subjectFullName": "语言学_理论语言学_核心术语",
+   "subjectName": "核心术语",
+   "publishYear": "2011",
+   "definition": "见“观察充分性”。"
+  },
+  {
+   "cn": "解释性词典",
+   "en": "explanatory dictionary",
+   "source": "语言学名词",
+   "wordNumber": "06.233",
+   "subjectFullName": "语言学_辞书学_辞书类型",
+   "subjectName": "辞书类型",
+   "publishYear": "2011",
+   "definition": "词典的一种类型。对所收录词汇的意义、语法和语用等信息给予详细解释。一般指普通单语词典，也指那种帮助用户理解外语文本的双语词典。"
+  },
+  {
+   "cn": "解释性释义",
+   "en": "explanatory definition",
+   "source": "语言学名词",
+   "wordNumber": "06.306",
+   "subjectFullName": "语言学_辞书学_辞书释义",
+   "subjectName": "辞书释义",
+   "publishYear": "2011",
+   "definition": "释义方法的一种。构造一个与释义对象意义和语法功能相同的子句或短语来解释其意义。"
+  },
+  {
+   "cn": "角色",
+   "en": "role",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "07.101",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_企业经营管理",
+   "subjectName": "企业经营管理",
+   "publishYear": "2024",
+   "definition": "一系列权限的集合。用户通过获取权限来实现对企业统一资源的访问控制。"
+  },
+  {
+   "cn": "角色",
+   "en": "role",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0132",
+   "subjectFullName": "管理科学技术_一般管理理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "在一个社会单元中，人们对在组织中占据特定职位的个体所期望的一套行为模式。"
+  },
+  {
+   "cn": "角色",
+   "en": "role",
+   "source": "心理学名词",
+   "wordNumber": "07.071",
+   "subjectFullName": "心理学_社会心理学",
+   "subjectName": "社会心理学",
+   "publishYear": "2014",
+   "definition": "原意指剧本中的虚构人物。心理学上指社会对特定占据社会位置的人们的行为期待，它规定这个位置的权利义务与行为规范。"
+  },
+  {
+   "cn": "性别角色",
+   "en": "gender role,sex role",
+   "source": "心理学名词",
+   "wordNumber": "07.081",
+   "subjectFullName": "心理学_社会心理学",
+   "subjectName": "社会心理学",
+   "publishYear": "2014",
+   "definition": "个体基于性别差异而形成的与社会或群体规定相适应的心理特点和行为模式。"
+  },
+  {
+   "cn": "性别角色",
+   "en": "sex role;gender role",
+   "source": "男科及性医学名词",
+   "wordNumber": "17.005",
+   "subjectFullName": "男科及性医学_性心理、性取向与性行为",
+   "subjectName": "性心理、性取向与性行为",
+   "publishYear": "2023",
+   "definition": "人们所处的社会文化体系对男性或女性个体如何行事的社会期待。"
+  },
+  {
+   "cn": "性[别]角色",
+   "en": "gender role;sex role",
+   "source": "行为医学名词",
+   "wordNumber": "3.111",
+   "subjectFullName": "行为医学_行为的生物学基础_生理学基础_本能行为",
+   "subjectName": "本能行为",
+   "publishYear": "2022",
+   "definition": "个体基于性别差异形成的不同心理特点或行为模式。"
+  },
+  {
+   "cn": "说明款目",
+   "en": "general explanatory entry",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.473",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_资源描述",
+   "subjectName": "资源描述",
+   "publishYear": "2019",
+   "definition": "用于解释标目的选择方法、组织原则、目录使用方法、指导读者查找和选择有关标目的说明性款目。 "
+  },
+  {
+   "cn": "图外说明",
+   "en": "explanatory note",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "解释性地理学",
+   "en": "explanatory geography",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "说明注记",
+   "en": "explanatory text",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "角色",
+   "en": "role",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "性别角色",
+   "en": "gender role\",\"sex role",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "角色扮演",
+   "en": "role play",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "角色偏差",
+   "en": "role deviation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "角色紧张",
+   "en": "role strain",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "角色行为",
+   "en": "role behavior",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "角色理论",
+   "en": "role theory",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "旁观者角色",
+   "en": "spectator role",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "社会角色",
+   "en": "social role",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "角色承担,角色采摘",
+   "en": "role taking",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "角色协调",
+   "en": "role coordination",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "角色图式",
+   "en": "role scheme",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "角色适合性",
+   "en": "role appropriateness",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "角色认同",
+   "en": "role identity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "角色期待",
+   "en": "role expectation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "角色冲突",
+   "en": "role conflict",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "性别角色刻板印象",
+   "en": "gender role stereotype\",\"sex role stereotype",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "正确角色观",
+   "en": "the correct perspective on China's role",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "市场在资源配置中起决定性作用",
+   "en": "the decisive role of the market in resource allocation",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "丑",
+   "en": "Ugliness/ Chou (Role of Clown in a Traditional Chinese Opera)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "发挥经济体制改革的牵引作用",
+   "en": "letting economic structural reform play the role in leading other reforms",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "北京非首都功能疏解",
+   "en": "to relieve Beijing of functions non-essential to its role as China's capital",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "扶贫龙头企业、扶贫车间",
+   "en": "enterprises and workshops that employ local workers and play a major role in poverty alleviation",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "北京非首都功能集中承载地",
+   "en": "major recipient of functions relieved from Beijing that are non-essential to its role as China's capital",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "围绳",
+   "en": "rope",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "弹孔",
+   "en": "hole",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "滚翻",
+   "en": "roll",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "绳",
+   "en": "rope",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "撑杆",
+   "en": "pole",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "杆",
+   "en": "pole",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "孔",
+   "en": "hole",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "撑杆",
+   "en": "pole",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "绳",
+   "en": "rope",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "滚翻",
+   "en": "roll",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "角色扮演",
+   "en": "role-playing，role-taking",
+   "source": "社会学名词",
+   "wordNumber": "2.3.2.4",
+   "subjectFullName": "社会学名词_社会学一般概念_社会化_社会角色",
+   "subjectName": "社会角色",
+   "publishYear": "2025",
+   "definition": "在想象中模拟、扮演他人角色，试图通过理解他人角色的处境和特征，来确定自己的角色特点，规范及修正自己的角色行为。"
+  },
+  {
+   "cn": "病人角色",
+   "en": "sick role/patient role",
+   "source": "社会学名词",
+   "wordNumber": "3.11.3.1",
+   "subjectFullName": "社会学名词_分支社会学_医学社会学_健康角色与关系",
+   "subjectName": "健康角色与关系",
+   "publishYear": "2025",
+   "definition": "塔尔科特帕森斯将患病理解为患者无法承担正常角色的偏离行为。包括四个基本特征：（1）病人对他的疾病状态没有责任；（2）病人被免除了正常的社会角色；（3）病人有恢复健康的愿望；（4）病人寻求帮助恢复其社会"
+  },
+  {
+   "cn": "解释性序列设计",
+   "en": "explanatory sequential design",
+   "source": "社会医学名词",
+   "wordNumber": "4.4.2",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "混合方法研究",
+   "publishYear": "2025",
+   "definition": "先收集定量数据，然后收集并使用定性数据来更深入解释定量研究的结果的定性、定量混合研究方法。"
+  },
+  {
+   "cn": "社会角色",
+   "en": "social role",
+   "source": "社会学名词",
+   "wordNumber": "2.3.2.1",
+   "subjectFullName": "社会学名词_社会学一般概念_社会化_社会角色",
+   "subjectName": "社会角色",
+   "publishYear": "2025",
+   "definition": "在特定的社会环境下，特定个体应该遵守的行为规范与行为方式。一个个体通常需要扮演多个社会角色，角色常体现为对于占据特定位置者的期待。"
+  },
+  {
+   "cn": "自致角色",
+   "en": "achieved role",
+   "source": "社会学名词",
+   "wordNumber": "2.3.2.2",
+   "subjectFullName": "社会学名词_社会学一般概念_社会化_社会角色",
+   "subjectName": "社会角色",
+   "publishYear": "2025",
+   "definition": "不依赖于个体的先赋性条件，主要依靠自己后天的努力和行动而获得的角色地位。不过，这种角色与先赋性也具有一定联系，一些自致性角色可能只为那些由于先天性因素而具有优越条件的人开放。与“先赋角色”对立。"
+  },
+  {
+   "cn": "先赋角色",
+   "en": "ascribed role",
+   "source": "社会学名词",
+   "wordNumber": "2.3.2.3",
+   "subjectFullName": "社会学名词_社会学一般概念_社会化_社会角色",
+   "subjectName": "社会角色",
+   "publishYear": "2025",
+   "definition": "一个人不是通过后天的努力，而主要是由于其出身阶层、性别、种族等先天因素而获得的角色地位。通常情况下，任何个体的后天努力都无法改变这种角色地位。与“自致角色”对立。"
+  },
+  {
+   "cn": "角色期待",
+   "en": "role expectation",
+   "source": "社会学名词",
+   "wordNumber": "2.3.2.5",
+   "subjectFullName": "社会学名词_社会学一般概念_社会化_社会角色",
+   "subjectName": "社会角色",
+   "publishYear": "2025",
+   "definition": "社会或群体对处于一定角色位置的个体所应表现出来的行为的一种期待。这种角色的行为是被社会规范化了的行为，是社会对个体的制约，亦是社会整合的必要前提。"
+  },
+  {
+   "cn": "角色表现",
+   "en": "role performance",
+   "source": "社会学名词",
+   "wordNumber": "2.3.2.6",
+   "subjectFullName": "社会学名词_社会学一般概念_社会化_社会角色",
+   "subjectName": "社会角色",
+   "publishYear": "2025",
+   "definition": "个体按照社会或群体对某一角色行为规范的要求，努力扮演该角色的行为表现。不同个体的角色表现既受到角色行为规范本身内容的限制，也受到个体如何理解该角色行为规范的限制，因而往往存在一定程度上的差异。"
+  },
+  {
+   "cn": "角色冲突",
+   "en": "role conflict",
+   "source": "社会学名词",
+   "wordNumber": "2.3.2.7",
+   "subjectFullName": "社会学名词_社会学一般概念_社会化_社会角色",
+   "subjectName": "社会角色",
+   "publishYear": "2025",
+   "definition": "个体同时扮演的若干角色之间，或者先后扮演的新旧角色之间，或者一个角色所规定的各种行为规范之间所存在的矛盾或冲突的现象。"
+  },
+  {
+   "cn": "角色紧张",
+   "en": "role strain",
+   "source": "社会学名词",
+   "wordNumber": "2.3.2.8",
+   "subjectFullName": "社会学名词_社会学一般概念_社会化_社会角色",
+   "subjectName": "社会角色",
+   "publishYear": "2025",
+   "definition": "个体在扮演角色的过程中，因其行为表现与该角色行为规范（或角色期待）之间存在的差距、不符、甚至对立而产生的心理上的压力与胁迫。这种紧张感往往与他人角色期待的程度呈正比。"
+  },
+  {
+   "cn": "角色丛",
+   "en": "role-set",
+   "source": "社会学名词",
+   "wordNumber": "2.3.2.9",
+   "subjectFullName": "社会学名词_社会学一般概念_社会化_社会角色",
+   "subjectName": "社会角色",
+   "publishYear": "2025",
+   "definition": "与个体的某一身份有关的各种角色的总合。个体通常有若干社会身份，因而也通常有若干个角色丛。"
+  },
+  {
+   "cn": "角色距离",
+   "en": "role distance",
+   "source": "社会学名词",
+   "wordNumber": "2.3.2.10",
+   "subjectFullName": "社会学名词_社会学一般概念_社会化_社会角色",
+   "subjectName": "社会角色",
+   "publishYear": "2025",
+   "definition": "个体对某种角色的理解或其在扮演该角色时的行为表现，与该角色的社会行为规范或角色期待之间的距离。当个体对该角色的理解与角色规范、角色期待产生距离时，个体易于产生对该角色的消极抵抗。"
+  },
+  {
+   "cn": "角色规范",
+   "en": "role norm",
+   "source": "社会学名词",
+   "wordNumber": "2.3.2.11",
+   "subjectFullName": "社会学名词_社会学一般概念_社会化_社会角色",
+   "subjectName": "社会角色",
+   "publishYear": "2025",
+   "definition": "社会根据需要而期待个体在其所处的身份与地位中，应该达到的行为模式或行为标准。这些规范是在长期的社会生活中形成的，并在个体的社会实践活动中表现出来，是调节个体行为与思想的控制器。"
+  },
+  {
+   "cn": "角色认同",
+   "en": "role identity",
+   "source": "社会学名词",
+   "wordNumber": "2.3.2.12",
+   "subjectFullName": "社会学名词_社会学一般概念_社会化_社会角色",
+   "subjectName": "社会角色",
+   "publishYear": "2025",
+   "definition": "个体对某种角色具有某种亲近感或有扮演的愿望，或者仅指对该角色的社会行为规范表示基本的赞同。角色认同是扮演角色、克服角色距离的重要心理基础。"
+  },
+  {
+   "cn": "性别角色",
+   "en": "gender role",
+   "source": "社会学名词",
+   "wordNumber": "3.2.1.10",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别概念",
+   "subjectName": "性别概念",
+   "publishYear": "2025",
+   "definition": "社会制度和文化规范中有关男女两性的不同分工和责任安排。比如多数社会中男性更多扮演公共的、养家糊口的角色，而女性更多扮演私人的、相夫教子的角色，由此决定了两性之间在家庭和社会中的不同地位。这种的角色分工"
+  },
+  {
+   "cn": "表意性角色",
+   "en": "expressive role",
+   "source": "社会学名词",
+   "wordNumber": "3.2.4.4",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别与家庭",
+   "subjectName": "性别与家庭",
+   "publishYear": "2025",
+   "definition": "结构功能主义学派塔尔科特帕森斯提出的概念，用来描述现代工业社会中妻子或妇女在家庭中承担的角色，主要指向家庭内部事务，作为情感支撑者起到调节家庭关系、辅助丈夫、抚育儿童并照顾家庭成员的作用。"
+  },
+  {
+   "cn": "工具性角色",
+   "en": "instrumental role",
+   "source": "社会学名词",
+   "wordNumber": "3.2.4.5",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别与家庭",
+   "subjectName": "性别与家庭",
+   "publishYear": "2025",
+   "definition": "塔尔科特帕森斯提出的关于现代工业社会家庭角色的另一个概念，用来描述丈夫或男人在家庭中承担的角色，主要指向家庭外部，通过职业、教育、社会政治参与等活动，作为家庭经济支柱引领家庭适应外部世界，因而起到家庭"
+  },
+  {
+   "cn": "临终者角色",
+   "en": "death role",
+   "source": "社会学名词",
+   "wordNumber": "3.11.3.2",
+   "subjectFullName": "社会学名词_分支社会学_医学社会学_健康角色与关系",
+   "subjectName": "健康角色与关系",
+   "publishYear": "2025",
+   "definition": "被诊断患有临终疾病的患者角色的责任、义务与特权。与一般的病人角色不同，对临终者的角色期待更为宽容。临终者接受的是缓解治疗而并不期待治愈，他（她）更倚赖个人和家庭来解决情感问题，而医生的生理干预是次要的"
+  },
+  {
+   "cn": "角色扮演",
+   "en": "role play",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.2.2.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育方法",
+   "subjectName": "学校健康教育方法",
+   "publishYear": "2025",
+   "definition": "按设定的场景，让几位学生分别扮演不同的角色，以他人的视角来看待问题，理解他人的处境和感受，再现生活中经常遇到的问题和处理问题的方法。"
+  },
+  {
+   "cn": "角色缺如",
+   "en": "role deficiency",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.05",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "个体未能进入病人角色，虽被医生确诊患病或病情加重时，但否认自己有病，完全没有意识到或不愿意识到自己是病人的状态。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

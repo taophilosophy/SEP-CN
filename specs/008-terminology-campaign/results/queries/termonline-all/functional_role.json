@@ -1,0 +1,632 @@
+{
+ "key": "functional role",
+ "term": "functional role",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-22T06:01:11+00:00",
+ "status": "ok",
+ "note": "variant=functional role; 审定公布名词库=4150; 海峡两岸名词对照库=1088; 其他来源数据库=191; 预公布名词数据库=149; jwt-direct（JWT 直连，raw 略；已滤维基 18 条）",
+ "hits": [
+  {
+   "cn": "角色",
+   "en": "role",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "07.101",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_企业经营管理",
+   "subjectName": "企业经营管理",
+   "publishYear": "2024",
+   "definition": "一系列权限的集合。用户通过获取权限来实现对企业统一资源的访问控制。"
+  },
+  {
+   "cn": "角色",
+   "en": "role",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0132",
+   "subjectFullName": "管理科学技术_一般管理理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "在一个社会单元中，人们对在组织中占据特定职位的个体所期望的一套行为模式。"
+  },
+  {
+   "cn": "角色",
+   "en": "role",
+   "source": "心理学名词",
+   "wordNumber": "07.071",
+   "subjectFullName": "心理学_社会心理学",
+   "subjectName": "社会心理学",
+   "publishYear": "2014",
+   "definition": "原意指剧本中的虚构人物。心理学上指社会对特定占据社会位置的人们的行为期待，它规定这个位置的权利义务与行为规范。"
+  },
+  {
+   "cn": "性别角色",
+   "en": "gender role,sex role",
+   "source": "心理学名词",
+   "wordNumber": "07.081",
+   "subjectFullName": "心理学_社会心理学",
+   "subjectName": "社会心理学",
+   "publishYear": "2014",
+   "definition": "个体基于性别差异而形成的与社会或群体规定相适应的心理特点和行为模式。"
+  },
+  {
+   "cn": "性别角色",
+   "en": "sex role;gender role",
+   "source": "男科及性医学名词",
+   "wordNumber": "17.005",
+   "subjectFullName": "男科及性医学_性心理、性取向与性行为",
+   "subjectName": "性心理、性取向与性行为",
+   "publishYear": "2023",
+   "definition": "人们所处的社会文化体系对男性或女性个体如何行事的社会期待。"
+  },
+  {
+   "cn": "性[别]角色",
+   "en": "gender role;sex role",
+   "source": "行为医学名词",
+   "wordNumber": "3.111",
+   "subjectFullName": "行为医学_行为的生物学基础_生理学基础_本能行为",
+   "subjectName": "本能行为",
+   "publishYear": "2022",
+   "definition": "个体基于性别差异形成的不同心理特点或行为模式。"
+  },
+  {
+   "cn": "购买角色",
+   "en": "purchasing role",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "21.181",
+   "subjectFullName": "新闻学与传播学_广告_广告营销",
+   "subjectName": "广告营销",
+   "publishYear": "2022",
+   "definition": "消费者在购买过程中的行为类型。通常将消费者的购买行为类型划分为发起者、影响者、决策者、购买者、使用者等不同的角色。"
+  },
+  {
+   "cn": "社会角色",
+   "en": "social role",
+   "source": "行为医学名词",
+   "wordNumber": "3.138",
+   "subjectFullName": "行为医学_行为的生物学基础_生理学基础_本能行为",
+   "subjectName": "本能行为",
+   "publishYear": "2022",
+   "definition": "在社会系统中与一定社会位置相关联的、符合社会要求的一套个人行为模式。是个体在社会群体中被赋予的身份及该身份应发挥的功能。"
+  },
+  {
+   "cn": "角色社会化",
+   "en": "role socialization",
+   "source": "行为医学名词",
+   "wordNumber": "5.01",
+   "subjectFullName": "行为医学_行为的社会学基础_行为社会化",
+   "subjectName": "行为社会化",
+   "publishYear": "2022",
+   "definition": "个体按照社会期望、规范及与之相符的技能行事的过程。社会、民族、文化、风俗不同，对不同角色会有不同的期望和规范。"
+  },
+  {
+   "cn": "医者角色",
+   "en": "doctor role",
+   "source": "行为医学名词",
+   "wordNumber": "9.014",
+   "subjectFullName": "行为医学_医患行为_医者角色",
+   "subjectName": "医者角色",
+   "publishYear": "2022",
+   "definition": "在医疗保健系统中掌握医疗卫生知识和医疗技能，进行疾病防治工作的专业技术人员。"
+  },
+  {
+   "cn": "患者角色",
+   "en": "patient role",
+   "source": "行为医学名词",
+   "wordNumber": "9.028",
+   "subjectFullName": "行为医学_医患行为_患者角色",
+   "subjectName": "患者角色",
+   "publishYear": "2022",
+   "definition": "患者为自己的躯体或精神异常做出的、被社会承认并期待的行为方式。"
+  },
+  {
+   "cn": "角色适应不良",
+   "en": "role maladjustment",
+   "source": "行为医学名词",
+   "wordNumber": "9.039",
+   "subjectFullName": "行为医学_医患行为_患者角色",
+   "subjectName": "患者角色",
+   "publishYear": "2022",
+   "definition": "个体角色表现与角色的权利、义务及社会期望不适当、不协调的状态。"
+  },
+  {
+   "cn": "角色扮演",
+   "en": "role playing",
+   "source": "行为医学名词",
+   "wordNumber": "20.085",
+   "subjectFullName": "行为医学_行为干预与治疗_行为训练",
+   "subjectName": "行为训练",
+   "publishYear": "2022",
+   "definition": "由扮演者和个体一起扮演一个情境，通过行为互动体验帮助个体学习与他人交往的技巧。"
+  },
+  {
+   "cn": "指令性作用",
+   "en": "instructive role",
+   "source": "医学遗传学名词",
+   "wordNumber": "2.167",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "由基因、蛋白质或信号转导通路发出信息或刺激，决定发育过程中细胞分化方向的作 用。"
+  },
+  {
+   "cn": "性别角色",
+   "en": "gender role",
+   "source": "计划生育名词",
+   "wordNumber": "08.006",
+   "subjectFullName": "计划生育_性别与性",
+   "subjectName": "性别与性",
+   "publishYear": "2019",
+   "definition": "社会所期望的具有男性和女性特有行为模式的人。"
+  },
+  {
+   "cn": "语义角色",
+   "en": "semantic role",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0537",
+   "subjectFullName": "计算机科学技术_人工智能_计算语言学",
+   "subjectName": "计算语言学",
+   "publishYear": "2018",
+   "definition": "句子中谓词论元（通常是名词性成分）和谓词之间的意义联系。"
+  },
+  {
+   "cn": "角色模糊",
+   "en": "role ambiguity",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0239",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_领导与权力",
+   "subjectName": "领导与权力",
+   "publishYear": "2016",
+   "definition": "对给定角色的期望或规定缺乏明确的理解和认知。"
+  },
+  {
+   "cn": "管理者角色",
+   "en": "manager role",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0018",
+   "subjectFullName": "管理科学技术_一般管理理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "管理活动中管理者行为的具体类别。"
+  },
+  {
+   "cn": "角色冲突",
+   "en": "role conflict",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0238",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_领导与权力",
+   "subjectName": "领导与权力",
+   "publishYear": "2016",
+   "definition": "同时担任两个或多个角色时产生的矛盾。"
+  },
+  {
+   "cn": "角色扮演",
+   "en": "role play",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0487",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_人力资源招聘、选拔",
+   "subjectName": "人力资源招聘、选拔",
+   "publishYear": "2016",
+   "definition": "通过在模拟人际关系情景中的角色来评价受测者特征的方法。"
+  },
+  {
+   "cn": "角色",
+   "en": "role",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "性别角色",
+   "en": "gender role\",\"sex role",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "角色扮演",
+   "en": "role play",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "角色偏差",
+   "en": "role deviation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "角色紧张",
+   "en": "role strain",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "角色行为",
+   "en": "role behavior",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "角色理论",
+   "en": "role theory",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "旁观者角色",
+   "en": "spectator role",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "社会角色",
+   "en": "social role",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "角色承担,角色采摘",
+   "en": "role taking",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "角色协调",
+   "en": "role coordination",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "角色图式",
+   "en": "role scheme",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "角色适合性",
+   "en": "role appropriateness",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "角色认同",
+   "en": "role identity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "角色期待",
+   "en": "role expectation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "角色冲突",
+   "en": "role conflict",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "性别角色刻板印象",
+   "en": "gender role stereotype\",\"sex role stereotype",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "性别角色社会化",
+   "en": "sex role socialization",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "固定角色疗法",
+   "en": "fixed role therapy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "性别角色信念",
+   "en": "gender role belief",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "函数式编程",
+   "en": "functional programming",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "激活函数",
+   "en": "activation function",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "角色扮演",
+   "en": "role-playing，role-taking",
+   "source": "社会学名词",
+   "wordNumber": "2.3.2.4",
+   "subjectFullName": "社会学名词_社会学一般概念_社会化_社会角色",
+   "subjectName": "社会角色",
+   "publishYear": "2025",
+   "definition": "在想象中模拟、扮演他人角色，试图通过理解他人角色的处境和特征，来确定自己的角色特点，规范及修正自己的角色行为。"
+  },
+  {
+   "cn": "病人角色",
+   "en": "sick role/patient role",
+   "source": "社会学名词",
+   "wordNumber": "3.11.3.1",
+   "subjectFullName": "社会学名词_分支社会学_医学社会学_健康角色与关系",
+   "subjectName": "健康角色与关系",
+   "publishYear": "2025",
+   "definition": "塔尔科特帕森斯将患病理解为患者无法承担正常角色的偏离行为。包括四个基本特征：（1）病人对他的疾病状态没有责任；（2）病人被免除了正常的社会角色；（3）病人有恢复健康的愿望；（4）病人寻求帮助恢复其社会"
+  },
+  {
+   "cn": "社会角色",
+   "en": "social role",
+   "source": "社会学名词",
+   "wordNumber": "2.3.2.1",
+   "subjectFullName": "社会学名词_社会学一般概念_社会化_社会角色",
+   "subjectName": "社会角色",
+   "publishYear": "2025",
+   "definition": "在特定的社会环境下，特定个体应该遵守的行为规范与行为方式。一个个体通常需要扮演多个社会角色，角色常体现为对于占据特定位置者的期待。"
+  },
+  {
+   "cn": "自致角色",
+   "en": "achieved role",
+   "source": "社会学名词",
+   "wordNumber": "2.3.2.2",
+   "subjectFullName": "社会学名词_社会学一般概念_社会化_社会角色",
+   "subjectName": "社会角色",
+   "publishYear": "2025",
+   "definition": "不依赖于个体的先赋性条件，主要依靠自己后天的努力和行动而获得的角色地位。不过，这种角色与先赋性也具有一定联系，一些自致性角色可能只为那些由于先天性因素而具有优越条件的人开放。与“先赋角色”对立。"
+  },
+  {
+   "cn": "先赋角色",
+   "en": "ascribed role",
+   "source": "社会学名词",
+   "wordNumber": "2.3.2.3",
+   "subjectFullName": "社会学名词_社会学一般概念_社会化_社会角色",
+   "subjectName": "社会角色",
+   "publishYear": "2025",
+   "definition": "一个人不是通过后天的努力，而主要是由于其出身阶层、性别、种族等先天因素而获得的角色地位。通常情况下，任何个体的后天努力都无法改变这种角色地位。与“自致角色”对立。"
+  },
+  {
+   "cn": "角色期待",
+   "en": "role expectation",
+   "source": "社会学名词",
+   "wordNumber": "2.3.2.5",
+   "subjectFullName": "社会学名词_社会学一般概念_社会化_社会角色",
+   "subjectName": "社会角色",
+   "publishYear": "2025",
+   "definition": "社会或群体对处于一定角色位置的个体所应表现出来的行为的一种期待。这种角色的行为是被社会规范化了的行为，是社会对个体的制约，亦是社会整合的必要前提。"
+  },
+  {
+   "cn": "角色表现",
+   "en": "role performance",
+   "source": "社会学名词",
+   "wordNumber": "2.3.2.6",
+   "subjectFullName": "社会学名词_社会学一般概念_社会化_社会角色",
+   "subjectName": "社会角色",
+   "publishYear": "2025",
+   "definition": "个体按照社会或群体对某一角色行为规范的要求，努力扮演该角色的行为表现。不同个体的角色表现既受到角色行为规范本身内容的限制，也受到个体如何理解该角色行为规范的限制，因而往往存在一定程度上的差异。"
+  },
+  {
+   "cn": "角色冲突",
+   "en": "role conflict",
+   "source": "社会学名词",
+   "wordNumber": "2.3.2.7",
+   "subjectFullName": "社会学名词_社会学一般概念_社会化_社会角色",
+   "subjectName": "社会角色",
+   "publishYear": "2025",
+   "definition": "个体同时扮演的若干角色之间，或者先后扮演的新旧角色之间，或者一个角色所规定的各种行为规范之间所存在的矛盾或冲突的现象。"
+  },
+  {
+   "cn": "角色紧张",
+   "en": "role strain",
+   "source": "社会学名词",
+   "wordNumber": "2.3.2.8",
+   "subjectFullName": "社会学名词_社会学一般概念_社会化_社会角色",
+   "subjectName": "社会角色",
+   "publishYear": "2025",
+   "definition": "个体在扮演角色的过程中，因其行为表现与该角色行为规范（或角色期待）之间存在的差距、不符、甚至对立而产生的心理上的压力与胁迫。这种紧张感往往与他人角色期待的程度呈正比。"
+  },
+  {
+   "cn": "角色丛",
+   "en": "role-set",
+   "source": "社会学名词",
+   "wordNumber": "2.3.2.9",
+   "subjectFullName": "社会学名词_社会学一般概念_社会化_社会角色",
+   "subjectName": "社会角色",
+   "publishYear": "2025",
+   "definition": "与个体的某一身份有关的各种角色的总合。个体通常有若干社会身份，因而也通常有若干个角色丛。"
+  },
+  {
+   "cn": "角色距离",
+   "en": "role distance",
+   "source": "社会学名词",
+   "wordNumber": "2.3.2.10",
+   "subjectFullName": "社会学名词_社会学一般概念_社会化_社会角色",
+   "subjectName": "社会角色",
+   "publishYear": "2025",
+   "definition": "个体对某种角色的理解或其在扮演该角色时的行为表现，与该角色的社会行为规范或角色期待之间的距离。当个体对该角色的理解与角色规范、角色期待产生距离时，个体易于产生对该角色的消极抵抗。"
+  },
+  {
+   "cn": "角色规范",
+   "en": "role norm",
+   "source": "社会学名词",
+   "wordNumber": "2.3.2.11",
+   "subjectFullName": "社会学名词_社会学一般概念_社会化_社会角色",
+   "subjectName": "社会角色",
+   "publishYear": "2025",
+   "definition": "社会根据需要而期待个体在其所处的身份与地位中，应该达到的行为模式或行为标准。这些规范是在长期的社会生活中形成的，并在个体的社会实践活动中表现出来，是调节个体行为与思想的控制器。"
+  },
+  {
+   "cn": "角色认同",
+   "en": "role identity",
+   "source": "社会学名词",
+   "wordNumber": "2.3.2.12",
+   "subjectFullName": "社会学名词_社会学一般概念_社会化_社会角色",
+   "subjectName": "社会角色",
+   "publishYear": "2025",
+   "definition": "个体对某种角色具有某种亲近感或有扮演的愿望，或者仅指对该角色的社会行为规范表示基本的赞同。角色认同是扮演角色、克服角色距离的重要心理基础。"
+  },
+  {
+   "cn": "性别角色",
+   "en": "gender role",
+   "source": "社会学名词",
+   "wordNumber": "3.2.1.10",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别概念",
+   "subjectName": "性别概念",
+   "publishYear": "2025",
+   "definition": "社会制度和文化规范中有关男女两性的不同分工和责任安排。比如多数社会中男性更多扮演公共的、养家糊口的角色，而女性更多扮演私人的、相夫教子的角色，由此决定了两性之间在家庭和社会中的不同地位。这种的角色分工"
+  },
+  {
+   "cn": "表意性角色",
+   "en": "expressive role",
+   "source": "社会学名词",
+   "wordNumber": "3.2.4.4",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别与家庭",
+   "subjectName": "性别与家庭",
+   "publishYear": "2025",
+   "definition": "结构功能主义学派塔尔科特帕森斯提出的概念，用来描述现代工业社会中妻子或妇女在家庭中承担的角色，主要指向家庭内部事务，作为情感支撑者起到调节家庭关系、辅助丈夫、抚育儿童并照顾家庭成员的作用。"
+  },
+  {
+   "cn": "工具性角色",
+   "en": "instrumental role",
+   "source": "社会学名词",
+   "wordNumber": "3.2.4.5",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别与家庭",
+   "subjectName": "性别与家庭",
+   "publishYear": "2025",
+   "definition": "塔尔科特帕森斯提出的关于现代工业社会家庭角色的另一个概念，用来描述丈夫或男人在家庭中承担的角色，主要指向家庭外部，通过职业、教育、社会政治参与等活动，作为家庭经济支柱引领家庭适应外部世界，因而起到家庭"
+  },
+  {
+   "cn": "临终者角色",
+   "en": "death role",
+   "source": "社会学名词",
+   "wordNumber": "3.11.3.2",
+   "subjectFullName": "社会学名词_分支社会学_医学社会学_健康角色与关系",
+   "subjectName": "健康角色与关系",
+   "publishYear": "2025",
+   "definition": "被诊断患有临终疾病的患者角色的责任、义务与特权。与一般的病人角色不同，对临终者的角色期待更为宽容。临终者接受的是缓解治疗而并不期待治愈，他（她）更倚赖个人和家庭来解决情感问题，而医生的生理干预是次要的"
+  },
+  {
+   "cn": "角色扮演",
+   "en": "role play",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.2.2.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育方法",
+   "subjectName": "学校健康教育方法",
+   "publishYear": "2025",
+   "definition": "按设定的场景，让几位学生分别扮演不同的角色，以他人的视角来看待问题，理解他人的处境和感受，再现生活中经常遇到的问题和处理问题的方法。"
+  },
+  {
+   "cn": "角色缺如",
+   "en": "role deficiency",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.05",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "个体未能进入病人角色，虽被医生确诊患病或病情加重时，但否认自己有病，完全没有意识到或不愿意识到自己是病人的状态。"
+  },
+  {
+   "cn": "病人角色",
+   "en": "patient role",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.043",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "当一个人非因自身责任而患病时，被赋予的新的制度化的角色身份。由美国社会学家塔尔科特·帕森斯（Talcott Parsons）在1951 年出版《社会系统》（the social system）一书中系"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

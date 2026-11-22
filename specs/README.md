@@ -59,5 +59,9 @@
 | [052-mandatory-backfill](052-mandatory-backfill/spec.md) | 强制集存量回补与跨机收编件处置（specs/052） | — | ✓ | ✓ | — |
 | [053-en-template-audit](053-en-template-audit/spec.md) | 053 — EN 语料模板审计与勘误装配线 | — | ✓ | ✓ | 单文件 |
 | [054-catalog-network-replay](054-catalog-network-replay/spec.md) | specs/054 — 目录四方重放网络（catalog 网络转换完备性） | — | — | ✓ | 单文件 |
+| [055-mulu-frontier-recategorize](055-mulu-frontier-recategorize/spec.md) | specs/055 — mu-lu-s 前沿分类重审（两案骨架预览→选型→写回） | — | ✓ | ✓ | — |
+| [056-mulu-entrywise-adjudication](056-mulu-entrywise-adjudication/spec.md) | specs/056 — mu-lu-s 逐条目分类研判（不计成本全量覆盖） | — | ✓ | ✓ | — |
+| [057-mulu-fine-split](057-mulu-fine-split/spec.md) | 现象学／存在主义／诠释学拆分与全库“能细分就细分” | — | ✓ | ✓ | — |
+| [058-term-full-reextraction](058-term-full-reextraction/spec.md) | 规格：全库术语二次提取与 A–Z 总表（specs/058） | — | ✓ | ✓ | 单文件 |
 
-共 53 个规格目录。
+共 57 个规格目录。
