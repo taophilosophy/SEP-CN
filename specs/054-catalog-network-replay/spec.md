@@ -44,11 +44,19 @@
 
 1. `tools/parser.py`：`_CatalogHTMLParser` 升级——解析别名行族、母行族与页序，输出字段不变名不改（只增）；消费方 `summary_sync.py`/`fetch_catalog.py` 兼容（只增字段，schema 向后兼容）。
 2. `tools/rebuild_catalog.py`：目录域装配器。`--build` 从钉存快照生成模板账＋噪声池（冻结）；默认（重放）模式＝账⊕规则⊕池→逐字节装配 contents.html，`--check` 与指定钉存快照 sha256 对比，全等退出 0。装配件**只用于验证输出 sha，禁止写回** `en/_catalog/`（oracle 只读）。
-3. `tools/check_catalog_network.py`：四向重放门。G1 装配等值门（rebuild_catalog --check 对最新快照＋旧快照）；G2 en-SUMMARY 重放门（`gen_en_summary.py --check`）；G3 mu-lu 重放门（mulu-map ⊕ SUMMARY → mu-lu-s.md 字节全等）；G4 目录↔SUMMARY 对账（`summary_sync.py report` mapped 全覆盖）。`--gate` 入 `check_all.py`。
+3. `tools/check_catalog_network.py`：五向重放门。G1 装配等值门（rebuild_catalog --check 对最新快照＋旧快照）；G2 en-SUMMARY 重放门（`gen_en_summary.py --check`）；G3 mu-lu 重放门（mulu-map ⊕ SUMMARY → mu-lu-s.md 字节全等）；G4 目录↔SUMMARY 对账（`summary_sync.py report` mapped 全覆盖）；G5 官方基线快照门（official-snapshot ≡ 最新 contents.html 解析 ≡ catalog 账）。`--gate` 入 `check_all.py`。
 
 ## 4. 门禁登记（rules/05 判定权表）
 
 新增 gate key：`catalog-net`（判官只读；只增不改既有 16 项）；`gen_en_summary --check` 并入 G2 不单独立 key。门禁登记行同步 `rules/05-ci-and-tools.md` 门禁清单。
+
+### 4a. G5 增补（2026-11-22）
+
+**动因**：`.github/sep-baseline/official-snapshot.json` 是 `rebuild_dir check` 的 slug 权威，自 2026-11-15 起无生成器、无门禁（旧周检脚本已撤）。它停留在 11-14 快照，仍含上游已撤下的 `privacy-medicine`、缺 `privacy-health`／`inquiry`，把上游改名误报成“缺 yuanwen 镜像”。这是“派生物无生成器/门禁”缺口的第二次（首次为 `yuanwen/SUMMARY.md` 镜像 stale），按 ADR-0039 升级防线。
+
+**处置**：新增 `tools/sync_official_snapshot.py`（`--check` 比对／`--write` 写回；解析规则沿用旧周检脚本，main/alias 与历史基线同构；护栏 main≥1800、alias≥600）。G5 断言三处一致：official-snapshot 的 main 与 alias 集 ≡ 最新 contents.html 解析结果，且 ≡ `baseline/catalog.json` 的非别名 items 与 title/authors。负向探针（改一条 title）实测转红，`--write` 复原转绿。
+
+**本次同步**：`official-snapshot` 刷新到 `20261122T021217Z`——main 1872→1873（+`inquiry`、+`privacy-health`、−`privacy-medicine`）、alias 653 条（+`in health care and research`、−`and medicine`）、`history` 标题改名、6 处作者增补；`rebuild_dir check` 由“缺镜像 1 件”转为 0／1873。四方（catalog／SUMMARY／mu-lu-s／contents）`catalog_drift --latest` 报 `changed=false`，`summary_sync report` add 0／remove 0／mapped 1873，`gen_en_summary --check` 最新。
 
 ## 5. 理论落位
 

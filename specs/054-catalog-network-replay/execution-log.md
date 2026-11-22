@@ -138,3 +138,11 @@ cron `0 1,9,17 * * *`（北京 09:00／17:00／次日 01:00）；抓 contents.ht
   2. 正文变更检测保留（顺序门不变：仅目录干净时执行），但结果只落运行工件；issue 不再报告“上游变更待办 N 条”，队列也不参与 issue 开关。
   3. `sep-sync-broken` 不随目录干净自动关闭，留人工定性。
 - 同步更新 `rules/05/ci-workflows.md` 工作流表。当前无打开中的同步 issue；关闭路径待下一个目录干净班次实测。
+
+## 2026-11-22 官方基线快照同步与 G5 增补（用户指令“同步几方目录互转”）
+
+- **现状核查**：四方门 G1–G4 全绿；`catalog_drift --latest` 报 `changed=false`（新增/删除/改名/作者/别名全 0，SUMMARY 与 mu-lu-s 差集 0）；`summary_sync report` add 0／remove 0／mapped 1873；`gen_en_summary --check` 最新。唯一失配方是 `rebuild_dir check` 依赖的 `.github/sep-baseline/official-snapshot.json`——该文件自 2026-11-15 后无生成器/门禁，停留在 11-14 快照，仍含上游已撤下的 `privacy-medicine`，故误报“缺 yuanwen 镜像 1 件”。
+- **新增工具**：`tools/sync_official_snapshot.py`（`--check` 比对／`--write` 写回；解析规则沿用旧周检脚本，main/alias 与历史基线同构；护栏 main≥1800、alias≥600）。写回 `20261122T021217Z`：main 1872→1873（+`inquiry`、+`privacy-health`、−`privacy-medicine`）、alias 653（+`in health care and research`、−`and medicine`）、`history` 标题改为 “history and historiography, philosophy of”、6 处作者增补（argument／embodied-cognition／gadamer／hedonism／special-obligations 等）。
+- **G5 增补**：`check_catalog_network.py` 由四子门扩为五子门，G5 断言 official-snapshot ≡ 最新 contents.html 解析 ≡ catalog 账（sku 集、title/authors、alias 文本集）。负向探针（改 `abduction` 一条 title）实测转红，`--write` 复原转绿。
+- **依据**：这是“派生物无生成器/门禁”族缺口的第二次（首次为 `yuanwen/SUMMARY.md` 镜像 stale，2026-11-22 已登记），按 ADR-0039 升级防线而非只修数据。
+- **复核**：`rebuild_dir check` 0 缺镜像／1873；五子门全绿；`check_all` 17 项全绿。

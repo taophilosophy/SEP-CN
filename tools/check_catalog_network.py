@@ -1,12 +1,13 @@
 # -*- coding: utf-8 -*-
 """目录四方重放网络门禁（specs/054）：zh SUMMARY ／ en SUMMARY ／ contents.html ／ mu-lu-s。
 
-四子门（--gate，判官只读）：
+五子门（--gate，判官只读）：
   G1 装配等值：rebuild_catalog --check 对最新＋旧钉存快照 sha256 全等（B3.2 目录域）
   G2 en-SUMMARY 重放：gen_en_summary --check 直通（zh SUMMARY → SUMMARY-en.md 纯函数）
   G3 mu-lu 重放：mulu-map ⊕ SUMMARY → 重建 mu-lu-s.md 逐行全等
   G4 目录↔SUMMARY 对账：catalog slug 集 ↔ SUMMARY slug 行集双向差=0
      （反向豁免：别名 stub 行 −see- ＋ specs/001 catalog-verdict.json remove 挂起集）
+  G5 官方基线快照：official-snapshot ≡ 最新 contents.html 解析 ≡ catalog 账
 
 --build-mulu 从 mu-lu-s.md 现状抽账写 baseline/mulu-map.json（建账动作，非判定）。
 退出码 0 全绿 / 1 红 / 2 用法。结果 JSON 走 stdout。
@@ -187,6 +188,46 @@ def g4():
             "suspended": sorted(suspended)}
 
 
+def g5():
+    """G5 官方基线快照：official-snapshot ≡ 最新 contents.html 解析 ≡ catalog 账。
+
+    该文件是 rebuild_dir 的 slug 权威，长期无生成器/门禁（2026-11-15 后过期，
+    曾把上游改名误报成缺镜像）。三处一致才算绿；修正走
+    tools/sync_official_snapshot.py --write。
+    """
+    from tools import sync_official_snapshot as S
+    snap = S.latest_snap()
+    main_new, alias_new, dup = S.parse_contents(snap.read_bytes())
+    base = json.loads(S.BASELINE.read_text(encoding="utf-8"))
+    bm, ba = base.get("main", {}), base.get("alias", [])
+    account = load_json(repo_path("baseline", "catalog.json"))
+    am = {it["slug"]: it for it in account["items"] if not it.get("alias_of")}
+    b_alias = {(x["alias"], x["slug"]) for x in ba}
+    n_alias = {(x["alias"], x["slug"]) for x in alias_new}
+    title_chg = [s for s in sorted(set(bm) & set(main_new))
+                 if bm[s].get("title") != main_new[s].get("title")]
+    auth_chg = [s for s in sorted(set(bm) & set(main_new))
+                if bm[s].get("authors") != main_new[s].get("authors")]
+    acct_chg = [s for s in sorted(set(am) & set(bm))
+                if am[s].get("title") != bm[s].get("title")
+                or am[s].get("authors") != bm[s].get("authors")]
+    ok = (set(bm) == set(main_new) and set(am) == set(bm)
+          and b_alias == n_alias and not title_chg and not auth_chg
+          and not acct_chg and not dup)
+    return {"gate": "G5", "ok": ok, "snapshot": snap.name,
+            "baseline_fetched_at": base.get("fetched_at"),
+            "main_old": len(bm), "main_new": len(main_new),
+            "account": len(am),
+            "main_added": sorted(set(main_new) - set(bm))[:10],
+            "main_removed": sorted(set(bm) - set(main_new))[:10],
+            "alias_added": sorted(n_alias - b_alias)[:10],
+            "alias_removed": sorted(b_alias - n_alias)[:10],
+            "title_changed": title_chg[:10],
+            "authors_changed": auth_chg[:10],
+            "account_mismatch": acct_chg[:10],
+            "duplicates": dup[:10]}
+
+
 # ------------------------------------------------------------------- G1 ----
 
 def g1():
@@ -223,7 +264,7 @@ def g2():
 
 
 def gate():
-    results = [g1(), g2(), g3(), g4()]
+    results = [g1(), g2(), g3(), g4(), g5()]
     ok = all(r.get("ok") for r in results)
     print(json.dumps({"ok": ok, "gates": results}, ensure_ascii=False, indent=1))
     return 0 if ok else 1
@@ -233,7 +274,7 @@ def main(argv=None):
     ap = argparse.ArgumentParser()
     ap.add_argument("--build-mulu", action="store_true",
                     help="从 mu-lu-s.md 现状抽账写 baseline/mulu-map.json")
-    ap.add_argument("--gate", action="store_true", help="四子门判定（判官只读）")
+    ap.add_argument("--gate", action="store_true", help="五子门判定（判官只读）")
     args = ap.parse_args(argv)
     if args.build_mulu:
         return build_mulu()

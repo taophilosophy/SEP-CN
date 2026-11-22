@@ -370,3 +370,10 @@
 
 * 霍尔巴赫 1723–1789（法国，生于普法尔茨埃德斯海姆；Wikipedia 与 Voltaire Foundation：1723-12-08 受洗、1789-01-21 卒于巴黎）；普鲁士弗里德里希二世（腓特烈大帝）1712–1786（柏林生、波茨坦卒；SEP 原文作 the crown prince (later Friedrich II)）。
 * 计数：缺生卒 725→723，缺籍属 620→618，任一缺 783→781。King Milinda（弥兰陀王）断代前165／前155 两说未取，仍留空。
+
+## 2026-11-22 目录五方同步：官方基线快照刷新＋G5 门禁
+
+* **核查**：四方门 G1–G4 全绿，`catalog_drift --latest` 报 changed=false（目录差集全 0），`summary_sync report` add 0／remove 0／mapped 1873，en-SUMMARY 最新，中文镜像仅 `../` 前缀差。唯一失配：`rebuild_dir check` 用的 `.github/sep-baseline/official-snapshot.json` 自 11-15 后无生成器/门禁，停留在 11-14 快照，仍含上游已撤下的 privacy-medicine，误报缺镜像。
+* **同步**：新增 `tools/sync_official_snapshot.py`（--check／--write，解析沿用旧周检脚本，护栏 main≥1800、alias≥600）；写回最新快照：main 1872→1873（+inquiry、+privacy-health、−privacy-medicine）、history 改名、6 处作者增补、alias 同步。`rebuild_dir check` 转为 0 缺镜像／1873。
+* **防线**：`check_catalog_network` 四子门扩为五子门，G5 断言 official-snapshot ≡ 最新 contents 解析 ≡ catalog 账；负向探针转红、写回转绿。同族缺口（派生物无生成器/门禁）第二次，按 ADR-0039 升级。
+* **门禁**：五子门全绿，check_all 17 项全绿。

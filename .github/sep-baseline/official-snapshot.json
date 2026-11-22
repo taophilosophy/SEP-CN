@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-14 23:44:24 UTC",
+ "fetched_at": "2026-11-22 02:12:17 UTC",
  "main": {
   "abduction": {
    "title": "abduction",
@@ -439,7 +439,7 @@
   },
   "argument": {
    "title": "argument and argumentation",
-   "authors": "Catarina Dutilh Novaes"
+   "authors": "Catarina Dutilh Novaes and Marcin Lewiński"
   },
   "aristotelianism-renaissance": {
    "title": "in the Renaissance",
@@ -1207,7 +1207,7 @@
   },
   "embodied-cognition": {
    "title": "embodied",
-   "authors": "Lawrence Shapiro and Shannon Spaulding"
+   "authors": "Lawrence Shapiro, Shannon Spaulding, and Guy Dove"
   },
   "cognitive-disability": {
    "title": "cognitive disability and moral status",
@@ -2205,9 +2205,9 @@
    "title": "justice and access to health care",
    "authors": "Norman Daniels"
   },
-  "privacy-medicine": {
-   "title": "privacy and medicine",
-   "authors": "Anita Allen"
+  "privacy-health": {
+   "title": "privacy in health care and research",
+   "authors": "Leslie Francis"
   },
   "stem-cells": {
    "title": "stem cell research",
@@ -2667,7 +2667,7 @@
   },
   "gadamer": {
    "title": "Gadamer, Hans-Georg",
-   "authors": "Jeff Malpas"
+   "authors": "Jeff Malpas and Niall Keane"
   },
   "gadamer-aesthetics": {
    "title": "aesthetics",
@@ -2931,7 +2931,7 @@
   },
   "hedonism": {
    "title": "hedonism",
-   "authors": "Andrew Moore"
+   "authors": "Andrew Moore and Joseph Burke"
   },
   "hegel": {
    "title": "Hegel, Georg Wilhelm Friedrich",
@@ -3006,8 +3006,8 @@
    "authors": "Richard Zach"
   },
   "history": {
-   "title": "history, philosophy of",
-   "authors": "Daniel Little"
+   "title": "history and historiography, philosophy of",
+   "authors": "Jouni-Matti Kuukkanen"
   },
   "hobbes": {
    "title": "Hobbes, Thomas",
@@ -3364,6 +3364,10 @@
   "inner-speech": {
    "title": "inner speech",
    "authors": "Daniel Gregory and Peter Langland-Hassan"
+  },
+  "inquiry": {
+   "title": "inquiry",
+   "authors": "Arianna Falbo, David Thorstad, and Dennis Whitcomb"
   },
   "insolubles": {
    "title": "insolubles [= insolubilia]",
@@ -5075,7 +5079,7 @@
   },
   "special-obligations": {
    "title": "special",
-   "authors": "Diane Jeske"
+   "authors": "Diane Jeske and Jörg Löschke"
   },
   "self-obligations": {
    "title": "obligations to oneself",
@@ -9576,8 +9580,8 @@
    "slug": "it-privacy"
   },
   {
-   "alias": "and medicine",
-   "slug": "privacy-medicine"
+   "alias": "in health care and research",
+   "slug": "privacy-health"
   },
   {
    "alias": "probabilities, indeterminate",
