@@ -352,3 +352,10 @@
 * **批五七人**：二程（程颢 1032–1085／程颐 1033–1107，中国大百科全书）；忠宣王 1275–1325（原文只给在位 1308–1313，籍属随之由在位年改正为高丽）；崔汉绮 1803–1879（原文直给）；William Crathorn fl. 1330s（SEP 专条）；查理一世 1600–1649、二世 1630–1685（英国国王）、五世 1500–1558（首现 erasmus 语境＝神圣罗马皇帝；nicole-oresme、newton 语境为法王查理五世 1338–1380，同形异人，必要时另立条目）。
 * **假召回示例（不入表）**：Solomon 1021/2–57/8 系所罗门·伊本·盖比鲁勒；Philo 159/8–84/3 系拉里萨的斐洛；“Emperor Wu (Han) r. 502–549”系梁武帝；Aḥmad ibn al-Muʿtaṣim 条 833–842 系其父在位年，不可当生卒。
 * **计数**：缺生卒 763→740，缺籍属 695→675，任一缺 861→838。
+
+## 2026-11-22 续三：仅缺籍属行清账（批七—批九，四十七人）
+
+* **批七（18 人）**：仅缺籍属行按“名从地名／原文自述／规范档”逐人补：Akalaṅka Bhaṭṭa（印度·耆那教天衣派，原文 Digambara Jaina）、Ammonius Hermeiou（埃及·亚历山大里亚）、Aristoteles 与 Artemidorus（古希腊，辩证学派）、Augustine（罗马帝国·塔加斯特）、Cicero（古罗马·阿尔皮努姆）、Dante（意大利·佛罗伦萨）、Dietrich of Freiberg（德国·弗莱堡）、Durandus（法国·圣普尔桑）、汉诺威选帝侯夫人索菲（德国·汉诺威，生于海牙）、Eudorus（古希腊·亚历山大里亚）、Euphantus（古希腊·奥林托斯）、Eusebius（罗马帝国·凯撒利亚）、Fichte（德国·拉梅瑙）、Furlanus（克里特，Quaestio 2015 证其为克里特出身的希腊-威尼斯人）、Gundissalinus（西班牙·托莱多）、Shaul Ashkenazi（克里特·干尼亚，Encyclopaedia Judaica）、Albrecht Becker-Freyseng（德国）。另将裸名 Cordemoy 行并入 Cordemoy, Géraud de（同一人，别名与首现并集，表行 4589→4588）。
+* **批八（21 人）**：Joachim Lange（德国）、John of Dacia（丹麦）、Joscelin of Soissons（法国·苏瓦松）、Malliṣeṇa（印度·耆那教）、Miyahiro Sadao（日本）、Nicholas of Otranto（意大利）、Gerald Odonis（法国·诺曼底奥东）、Richard Rufus（英国·康沃尔）、Samantabhadra（印度·耆那教）、Shahrazurī（伊拉克·沙赫拉祖尔）、Siger of Courtrai（比利时·科特赖克）、Sotion（古希腊）、Stephanus of Alexandria（埃及）、Stephen Tempier（法国·奥尔良）、Tsuruya Ariyo（日本）、Vidyānanda（印度·耆那教）、John Winchelsey（英国·温切尔西）、季蒂昂的芝诺（塞浦路斯·基提翁）、Ṭabāṭabāʾī（伊朗·大不里士）、G.F. Stout（英国）、Girolamo Armellini（意大利·法恩扎；并据 Ereticopedia 补生卒约1470–约1550）。
+* **批九（8 人）**：洪大容 1731–1783（原文直给）、贺茂在满 1706–1751（国学院大学《神道百科》：1706 生于京都、1751 卒于江户）、奇大升 1527–1572（四七论辩文献）、嘉曹杰 1364–1432（Treasury of Lives，生于卫藏）、Philip van Limborch 1633–1712（荷兰哲学辞典）、本都的赫拉克利德 约前390–约前310（LC 规范档据 OCD）、欧塞尔的朗贝尔 fl. 约1250（SEP 专条，身份三家未定）、Johann Froben 约1460–1527（Britannica：哈默尔堡生、巴塞尔卒）。
+* **计数**（本线累计）：缺生卒 763→732，缺籍属 695→628，任一缺 861→790；表 4,588 行。剩余以当代引用作者为主（无公开生年），历史人物已基本清出。
