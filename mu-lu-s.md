@@ -1369,16 +1369,16 @@ outline: [1, 6]
 
 * [保罗·格莱斯 Paul Grice (Richard E. Grandy、Richard Warner)](g/grice.md)
 
+### 描述心理学（现象学前驱）
+
+* [弗朗兹·布伦塔诺 Franz Brentano (Wolfgang Huemer)](b/brentano.md)
+  * [布伦塔诺的判断理论 Brentano’s Theory of Judgement (Johannes L. Brandl、Mark Textor)](b/brentano-judgement.md)
+
 ### 现象学运动
 
 #### 现象学总论
 
 * [现象学 Phenomenology (David Woodruff Smith)](p/phenomenology.md)
-
-#### 现象学前驱
-
-* [弗朗兹·布伦塔诺 Franz Brentano (Wolfgang Huemer)](b/brentano.md)
-  * [布伦塔诺的判断理论 Brentano’s Theory of Judgement (Johannes L. Brandl、Mark Textor)](b/brentano-judgement.md)
 
 #### 布伦塔诺学派与早期现象学
 

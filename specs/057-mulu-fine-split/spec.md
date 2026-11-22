@@ -293,3 +293,20 @@ s3 每批均通过 check_mulu_s、G1–G4、check_all 17 项。
 
 **验收**：check_mulu_s 六项 0 硬错；mulu-map 重建；五子门全绿；check_all 17 项全绿。
 
+### s3j 布伦塔诺最终归位：H3「描述心理学（现象学前驱）」（2026-11-22 用户裁定）
+
+用户裁定：节名用“描述心理学（现象学前驱）”，放到与现象学同级（H3）上面。
+
+现代哲学 H3 序列相应为：… 分析哲学 → **描述心理学（现象学前驱）** → 现象学运动 → 存在主义 …
+新 H3 下直接列布伦塔诺母条（含判断理论簇）；现象学运动内不再有布伦塔诺节，
+自“布伦塔诺学派与早期现象学”开始（斯图姆夫与马蒂／厄棱费尔与迈农／特瓦尔多夫斯基）。
+
+**依据**：s3i 评估（`results/s3i-brentano-assessment.md`）——SEP 称其为现象学运动的 forerunner 而非成员，
+其本人的学科自我定位是描述心理学（有时径称 “phenomenology”）；PhilPapers 归 19 世纪奥地利哲学；
+Spiegelberg “with Brentano we are not yet in the phenomenological movement itself”。节名同时承载
+学科身份与运动位置，层级（H3）体现“前驱先于运动”。
+
+**工具**：`bin/promote_brentano.py`（取出 H4 块、升格为 H3 插到现象学运动前、母条唯一、旧节零残留、守恒 1883）。
+
+**验收**：check_mulu_s 六项 0 硬错；mulu-map 重建（1883）；五子门全绿；check_all 17 项全绿。
+

@@ -3811,23 +3811,23 @@
     },
     {
       "kind": "link",
-      "path": "p/phenomenology.md",
-      "text": "现象学 Phenomenology (David Woodruff Smith)",
-      "indent": 0,
-      "order": 544
-    },
-    {
-      "kind": "link",
       "path": "b/brentano.md",
       "text": "弗朗兹·布伦塔诺 Franz Brentano (Wolfgang Huemer)",
       "indent": 0,
-      "order": 545
+      "order": 544
     },
     {
       "kind": "link",
       "path": "b/brentano-judgement.md",
       "text": "布伦塔诺的判断理论 Brentano’s Theory of Judgement (Johannes L. Brandl、Mark Textor)",
       "indent": 2,
+      "order": 545
+    },
+    {
+      "kind": "link",
+      "path": "p/phenomenology.md",
+      "text": "现象学 Phenomenology (David Woodruff Smith)",
+      "indent": 0,
       "order": 546
     },
     {
@@ -16495,30 +16495,30 @@
       ],
       [
         544,
+        "### 描述心理学（现象学前驱）"
+      ],
+      [
+        544,
+        ""
+      ],
+      [
+        546,
+        ""
+      ],
+      [
+        546,
         "### 现象学运动"
       ],
       [
-        544,
+        546,
         ""
       ],
       [
-        544,
+        546,
         "#### 现象学总论"
       ],
       [
-        544,
-        ""
-      ],
-      [
-        545,
-        ""
-      ],
-      [
-        545,
-        "#### 现象学前驱"
-      ],
-      [
-        545,
+        546,
         ""
       ],
       [
