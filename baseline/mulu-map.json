@@ -8228,50 +8228,50 @@
     },
     {
       "kind": "link",
-      "path": "e/ethics-deontological.md",
-      "text": "义务伦理学 Deontological Ethics (Larry Alexander、Michael Moore)",
+      "path": "c/consequentialism-rule.md",
+      "text": "规则后果主义 Rule Consequentialism (Brad Hooker)",
       "indent": 0,
       "order": 1175
-    },
-    {
-      "kind": "link",
-      "path": "e/ethics-virtue.md",
-      "text": "德性伦理学 Virtue Ethics (Rosalind Hursthouse、Glen Pettigrove)",
-      "indent": 0,
-      "order": 1176
-    },
-    {
-      "kind": "link",
-      "path": "a/altruism.md",
-      "text": "利他主义 Altruism (Richard Kraut)",
-      "indent": 0,
-      "order": 1177
     },
     {
       "kind": "link",
       "path": "c/consequentializing.md",
       "text": "功利主义 Consequentializing (Douglas W. Portmore)",
       "indent": 0,
+      "order": 1176
+    },
+    {
+      "kind": "link",
+      "path": "r/repugnant-conclusion.md",
+      "text": "令人反感的结论 The Repugnant Conclusion (Gustaf Arrhenius、Jesper Ryberg、Torbjörn Tännsjö)",
+      "indent": 0,
+      "order": 1177
+    },
+    {
+      "kind": "link",
+      "path": "e/ethics-deontological.md",
+      "text": "义务伦理学 Deontological Ethics (Larry Alexander、Michael Moore)",
+      "indent": 0,
       "order": 1178
     },
     {
       "kind": "link",
-      "path": "c/contractarianism.md",
-      "text": "自利契约论 Contractarianism (Ann Cudd、Seena Eftekhari)",
+      "path": "n/natural-law-ethics.md",
+      "text": "伦理学中的自然法传统 The Natural Law Tradition in Ethics (Mark Murphy)",
       "indent": 0,
       "order": 1179
     },
     {
       "kind": "link",
-      "path": "c/contractualism.md",
-      "text": "非自利契约论 Contractualism (Elizabeth Ashford、Tim Mulgan)",
+      "path": "e/ethics-virtue.md",
+      "text": "德性伦理学 Virtue Ethics (Rosalind Hursthouse、Glen Pettigrove)",
       "indent": 0,
       "order": 1180
     },
     {
       "kind": "link",
-      "path": "e/egoism.md",
-      "text": "利己主义 Egoism (Robert Shaver)",
+      "path": "m/moral-character.md",
+      "text": "道德品质 Moral Character (Marcia Homiak)",
       "indent": 0,
       "order": 1181
     },
@@ -8284,64 +8284,64 @@
     },
     {
       "kind": "link",
-      "path": "m/moral-character.md",
-      "text": "道德品质 Moral Character (Marcia Homiak)",
+      "path": "w/wisdom-analytic.md",
+      "text": "当代分析哲学中的智慧 Wisdom in Contemporary Analytic Philosophy (Shane Ryan、Sharon Ryan)",
       "indent": 0,
       "order": 1183
+    },
+    {
+      "kind": "link",
+      "path": "c/contractarianism.md",
+      "text": "自利契约论 Contractarianism (Ann Cudd、Seena Eftekhari)",
+      "indent": 0,
+      "order": 1184
+    },
+    {
+      "kind": "link",
+      "path": "c/contractualism.md",
+      "text": "非自利契约论 Contractualism (Elizabeth Ashford、Tim Mulgan)",
+      "indent": 0,
+      "order": 1185
+    },
+    {
+      "kind": "link",
+      "path": "e/egoism.md",
+      "text": "利己主义 Egoism (Robert Shaver)",
+      "indent": 0,
+      "order": 1186
+    },
+    {
+      "kind": "link",
+      "path": "a/altruism.md",
+      "text": "利他主义 Altruism (Richard Kraut)",
+      "indent": 0,
+      "order": 1187
     },
     {
       "kind": "link",
       "path": "m/moral-demands-permissions.md",
       "text": "道德要求与许可/特权 Moral Demands and Permissions/Prerogatives (Thomas Hurka)",
       "indent": 0,
-      "order": 1184
+      "order": 1188
     },
     {
       "kind": "link",
       "path": "m/moral-luck.md",
       "text": "道德运气 Moral Luck (Dana K. Nelkin)",
       "indent": 0,
-      "order": 1185
-    },
-    {
-      "kind": "link",
-      "path": "c/consequentialism-rule.md",
-      "text": "规则后果主义 Rule Consequentialism (Brad Hooker)",
-      "indent": 0,
-      "order": 1186
-    },
-    {
-      "kind": "link",
-      "path": "s/suicide.md",
-      "text": "自杀 Suicide (Michael Cholbi、Brent Kious)",
-      "indent": 0,
-      "order": 1187
+      "order": 1189
     },
     {
       "kind": "link",
       "path": "s/supererogation.md",
       "text": "超义务 Supererogation (David Heyd)",
       "indent": 0,
-      "order": 1188
-    },
-    {
-      "kind": "link",
-      "path": "n/natural-law-ethics.md",
-      "text": "伦理学中的自然法传统 The Natural Law Tradition in Ethics (Mark Murphy)",
-      "indent": 0,
-      "order": 1189
-    },
-    {
-      "kind": "link",
-      "path": "r/repugnant-conclusion.md",
-      "text": "令人反感的结论 The Repugnant Conclusion (Gustaf Arrhenius、Jesper Ryberg、Torbjörn Tännsjö)",
-      "indent": 0,
       "order": 1190
     },
     {
       "kind": "link",
-      "path": "w/wisdom-analytic.md",
-      "text": "当代分析哲学中的智慧 Wisdom in Contemporary Analytic Philosophy (Shane Ryan、Sharon Ryan)",
+      "path": "s/suicide.md",
+      "text": "自杀 Suicide (Michael Cholbi、Brent Kious)",
       "indent": 0,
       "order": 1191
     },
@@ -8354,225 +8354,225 @@
     },
     {
       "kind": "link",
-      "path": "m/moral-epistemology-a-priori.md",
-      "text": "道德认识论中的先验主义 A Priorism in Moral Epistemology (Michael DePaul、Amelia Hicks)",
+      "path": "n/normativity-metaethics.md",
+      "text": "元伦理学的规范性 Normativity in Metaethics (David Copp、Justin Morton)",
       "indent": 0,
       "order": 1193
-    },
-    {
-      "kind": "link",
-      "path": "a/actualism-possibilism-ethics.md",
-      "text": "伦理学中的现实主义和可能性主义 Actualism and Possibilism in Ethics (Travis Timmerman、Yishai Cohen)",
-      "indent": 0,
-      "order": 1194
-    },
-    {
-      "kind": "link",
-      "path": "c/constructivism-metaethics.md",
-      "text": "元伦理学中的建构主义 Constructivism in Metaethics (Carla Bagnoli)",
-      "indent": 0,
-      "order": 1195
-    },
-    {
-      "kind": "link",
-      "path": "m/moral-responsibility-empirical.md",
-      "text": "道德责任的实证进路 Empirical Approaches to Moral Responsibility (Chandra Sripada)",
-      "indent": 0,
-      "order": 1196
-    },
-    {
-      "kind": "link",
-      "path": "i/intuitionism-ethics.md",
-      "text": "道德直觉主义 Intuitionism in Ethics (Matthew S. Bedke)",
-      "indent": 0,
-      "order": 1197
-    },
-    {
-      "kind": "link",
-      "path": "e/evil-kinds-origins.md",
-      "text": "恶的种类和起源 Kinds and Origins of Evil (Andrew Chignell)",
-      "indent": 0,
-      "order": 1198
-    },
-    {
-      "kind": "link",
-      "path": "m/moral-anti-realism.md",
-      "text": "道德反实在论 Moral Anti-Realism (Richard Joyce)",
-      "indent": 0,
-      "order": 1199
-    },
-    {
-      "kind": "link",
-      "path": "m/moral-cognitivism.md",
-      "text": "道德认知主义与非认知主义 Moral Cognitivism vs. Non-Cognitivism (Mark van Roojen)",
-      "indent": 0,
-      "order": 1200
-    },
-    {
-      "kind": "link",
-      "path": "d/disagreement-moral.md",
-      "text": "道德分歧 Moral Disagreement (Folke Tersman)",
-      "indent": 0,
-      "order": 1201
-    },
-    {
-      "kind": "link",
-      "path": "m/moral-epistemology.md",
-      "text": "道德认识论 Moral Epistemology (Richmond Campbell)",
-      "indent": 0,
-      "order": 1202
-    },
-    {
-      "kind": "link",
-      "path": "n/naturalism-moral.md",
-      "text": "道德自然主义 Moral Naturalism (Matthew Lutz)",
-      "indent": 0,
-      "order": 1203
-    },
-    {
-      "kind": "link",
-      "path": "m/moral-non-naturalism.md",
-      "text": "道德非自然主义 Moral Non-Naturalism (Michael Ridge)",
-      "indent": 0,
-      "order": 1204
-    },
-    {
-      "kind": "link",
-      "path": "m/moral-particularism.md",
-      "text": "道德特殊主义 Moral Particularism (Jonathan Dancy)",
-      "indent": 0,
-      "order": 1205
-    },
-    {
-      "kind": "link",
-      "path": "m/moral-particularism-generalism.md",
-      "text": "道德特殊主义与道德普遍主义 Moral Particularism and Moral Generalism (Michael Ridge、Sean McKeever)",
-      "indent": 0,
-      "order": 1206
-    },
-    {
-      "kind": "link",
-      "path": "m/moral-phenomenology.md",
-      "text": "道德现象学 Moral Phenomenology (John Drummond、Mark Timmons)",
-      "indent": 0,
-      "order": 1207
-    },
-    {
-      "kind": "link",
-      "path": "m/moral-realism.md",
-      "text": "道德实在论 Moral Realism (Geoff Sayre-McCord)",
-      "indent": 0,
-      "order": 1208
-    },
-    {
-      "kind": "link",
-      "path": "m/moral-relativism.md",
-      "text": "道德相对主义 Moral Relativism (Chris Gowans)",
-      "indent": 0,
-      "order": 1209
-    },
-    {
-      "kind": "link",
-      "path": "m/moral-responsibility.md",
-      "text": "道德责任 Moral Responsibility (Matthew Talbert)",
-      "indent": 0,
-      "order": 1210
-    },
-    {
-      "kind": "link",
-      "path": "a/alternative-possibilities.md",
-      "text": "道德责任与替代可能性原则 Moral Responsibility and the Principle of Alternative Possibilities (David Robb)",
-      "indent": 0,
-      "order": 1211
-    },
-    {
-      "kind": "link",
-      "path": "m/moral-sentimentalism.md",
-      "text": "道德情感主义 Moral Sentimentalism (Antti Kauppinen)",
-      "indent": 0,
-      "order": 1212
-    },
-    {
-      "kind": "link",
-      "path": "s/skepticism-moral.md",
-      "text": "道德怀疑论 Moral Skepticism (Walter Sinnott-Armstrong)",
-      "indent": 0,
-      "order": 1213
     },
     {
       "kind": "link",
       "path": "m/moral-theory.md",
       "text": "道德理论 Moral Theory (Julia Driver)",
       "indent": 0,
-      "order": 1214
-    },
-    {
-      "kind": "link",
-      "path": "m/morality-biology.md",
-      "text": "道德与演化生物学 Morality and Evolutionary Biology (William FitzPatrick)",
-      "indent": 0,
-      "order": 1215
-    },
-    {
-      "kind": "link",
-      "path": "n/normativity-metaethics.md",
-      "text": "元伦理学的规范性 Normativity in Metaethics (David Copp、Justin Morton)",
-      "indent": 0,
-      "order": 1216
-    },
-    {
-      "kind": "link",
-      "path": "s/skepticism-moral-responsibility.md",
-      "text": "道德责任怀疑论 Skepticism About Moral Responsibility (Gregg Caruso)",
-      "indent": 0,
-      "order": 1217
-    },
-    {
-      "kind": "link",
-      "path": "s/supervenience-ethics.md",
-      "text": "道德随附性 Supervenience in Ethics (Tristram McPherson)",
-      "indent": 0,
-      "order": 1218
-    },
-    {
-      "kind": "link",
-      "path": "c/concept-evil.md",
-      "text": "恶的概念 The Concept of Evil (Todd Calder)",
-      "indent": 0,
-      "order": 1219
-    },
-    {
-      "kind": "link",
-      "path": "l/lying-definition.md",
-      "text": "谎言与欺骗的定义 The Definition of Lying and Deception (James Edwin Mahon)",
-      "indent": 0,
-      "order": 1220
+      "order": 1194
     },
     {
       "kind": "link",
       "path": "m/morality-definition.md",
       "text": "道德的定义 The Definition of Morality (Joshua Gert、Bernard Gert)",
       "indent": 0,
-      "order": 1221
+      "order": 1195
+    },
+    {
+      "kind": "link",
+      "path": "m/moral-realism.md",
+      "text": "道德实在论 Moral Realism (Geoff Sayre-McCord)",
+      "indent": 0,
+      "order": 1196
+    },
+    {
+      "kind": "link",
+      "path": "m/moral-anti-realism.md",
+      "text": "道德反实在论 Moral Anti-Realism (Richard Joyce)",
+      "indent": 0,
+      "order": 1197
+    },
+    {
+      "kind": "link",
+      "path": "m/moral-non-naturalism.md",
+      "text": "道德非自然主义 Moral Non-Naturalism (Michael Ridge)",
+      "indent": 0,
+      "order": 1198
+    },
+    {
+      "kind": "link",
+      "path": "n/naturalism-moral.md",
+      "text": "道德自然主义 Moral Naturalism (Matthew Lutz)",
+      "indent": 0,
+      "order": 1199
+    },
+    {
+      "kind": "link",
+      "path": "s/skepticism-moral.md",
+      "text": "道德怀疑论 Moral Skepticism (Walter Sinnott-Armstrong)",
+      "indent": 0,
+      "order": 1200
+    },
+    {
+      "kind": "link",
+      "path": "m/moral-relativism.md",
+      "text": "道德相对主义 Moral Relativism (Chris Gowans)",
+      "indent": 0,
+      "order": 1201
+    },
+    {
+      "kind": "link",
+      "path": "m/moral-cognitivism.md",
+      "text": "道德认知主义与非认知主义 Moral Cognitivism vs. Non-Cognitivism (Mark van Roojen)",
+      "indent": 0,
+      "order": 1202
+    },
+    {
+      "kind": "link",
+      "path": "m/moral-sentimentalism.md",
+      "text": "道德情感主义 Moral Sentimentalism (Antti Kauppinen)",
+      "indent": 0,
+      "order": 1203
+    },
+    {
+      "kind": "link",
+      "path": "m/moral-phenomenology.md",
+      "text": "道德现象学 Moral Phenomenology (John Drummond、Mark Timmons)",
+      "indent": 0,
+      "order": 1204
+    },
+    {
+      "kind": "link",
+      "path": "m/moral-epistemology.md",
+      "text": "道德认识论 Moral Epistemology (Richmond Campbell)",
+      "indent": 0,
+      "order": 1205
+    },
+    {
+      "kind": "link",
+      "path": "m/moral-epistemology-a-priori.md",
+      "text": "道德认识论中的先验主义 A Priorism in Moral Epistemology (Michael DePaul、Amelia Hicks)",
+      "indent": 0,
+      "order": 1206
+    },
+    {
+      "kind": "link",
+      "path": "i/intuitionism-ethics.md",
+      "text": "道德直觉主义 Intuitionism in Ethics (Matthew S. Bedke)",
+      "indent": 0,
+      "order": 1207
+    },
+    {
+      "kind": "link",
+      "path": "d/disagreement-moral.md",
+      "text": "道德分歧 Moral Disagreement (Folke Tersman)",
+      "indent": 0,
+      "order": 1208
+    },
+    {
+      "kind": "link",
+      "path": "m/moral-particularism.md",
+      "text": "道德特殊主义 Moral Particularism (Jonathan Dancy)",
+      "indent": 0,
+      "order": 1209
+    },
+    {
+      "kind": "link",
+      "path": "m/moral-particularism-generalism.md",
+      "text": "道德特殊主义与道德普遍主义 Moral Particularism and Moral Generalism (Michael Ridge、Sean McKeever)",
+      "indent": 0,
+      "order": 1210
+    },
+    {
+      "kind": "link",
+      "path": "m/moral-conventional.md",
+      "text": "道德/习俗区分 The Moral/Conventional Distinction (Edouard Machery、Stephen Stich)",
+      "indent": 0,
+      "order": 1211
+    },
+    {
+      "kind": "link",
+      "path": "m/moral-responsibility.md",
+      "text": "道德责任 Moral Responsibility (Matthew Talbert)",
+      "indent": 0,
+      "order": 1212
     },
     {
       "kind": "link",
       "path": "m/moral-responsibility-epistemic.md",
       "text": "道德责任的认知条件 The Epistemic Condition for Moral Responsibility (Fernando Rudy-Hiller)",
       "indent": 0,
-      "order": 1222
+      "order": 1213
+    },
+    {
+      "kind": "link",
+      "path": "m/moral-responsibility-empirical.md",
+      "text": "道德责任的实证进路 Empirical Approaches to Moral Responsibility (Chandra Sripada)",
+      "indent": 0,
+      "order": 1214
+    },
+    {
+      "kind": "link",
+      "path": "a/alternative-possibilities.md",
+      "text": "道德责任与替代可能性原则 Moral Responsibility and the Principle of Alternative Possibilities (David Robb)",
+      "indent": 0,
+      "order": 1215
+    },
+    {
+      "kind": "link",
+      "path": "s/skepticism-moral-responsibility.md",
+      "text": "道德责任怀疑论 Skepticism About Moral Responsibility (Gregg Caruso)",
+      "indent": 0,
+      "order": 1216
+    },
+    {
+      "kind": "link",
+      "path": "s/supervenience-ethics.md",
+      "text": "道德随附性 Supervenience in Ethics (Tristram McPherson)",
+      "indent": 0,
+      "order": 1217
+    },
+    {
+      "kind": "link",
+      "path": "c/constructivism-metaethics.md",
+      "text": "元伦理学中的建构主义 Constructivism in Metaethics (Carla Bagnoli)",
+      "indent": 0,
+      "order": 1218
     },
     {
       "kind": "link",
       "path": "g/grounds-moral-status.md",
       "text": "道德地位的基础 The Grounds of Moral Status (Agnieszka Jaworska、Julie Tannenbaum)",
       "indent": 0,
+      "order": 1219
+    },
+    {
+      "kind": "link",
+      "path": "m/morality-biology.md",
+      "text": "道德与演化生物学 Morality and Evolutionary Biology (William FitzPatrick)",
+      "indent": 0,
+      "order": 1220
+    },
+    {
+      "kind": "link",
+      "path": "a/actualism-possibilism-ethics.md",
+      "text": "伦理学中的现实主义和可能性主义 Actualism and Possibilism in Ethics (Travis Timmerman、Yishai Cohen)",
+      "indent": 0,
+      "order": 1221
+    },
+    {
+      "kind": "link",
+      "path": "c/concept-evil.md",
+      "text": "恶的概念 The Concept of Evil (Todd Calder)",
+      "indent": 0,
+      "order": 1222
+    },
+    {
+      "kind": "link",
+      "path": "e/evil-kinds-origins.md",
+      "text": "恶的种类和起源 Kinds and Origins of Evil (Andrew Chignell)",
+      "indent": 0,
       "order": 1223
     },
     {
       "kind": "link",
-      "path": "m/moral-conventional.md",
-      "text": "道德/习俗区分 The Moral/Conventional Distinction (Edouard Machery、Stephen Stich)",
+      "path": "l/lying-definition.md",
+      "text": "谎言与欺骗的定义 The Definition of Lying and Deception (James Edwin Mahon)",
       "indent": 0,
       "order": 1224
     },
@@ -8669,106 +8669,106 @@
     },
     {
       "kind": "link",
-      "path": "f/friendship.md",
-      "text": "友谊 Friendship (Bennett Helm)",
+      "path": "s/special-obligations.md",
+      "text": "特殊义务 Special Obligations (Diane Jeske、Jörg Löschke)",
       "indent": 0,
       "order": 1238
-    },
-    {
-      "kind": "link",
-      "path": "h/hate-speech.md",
-      "text": "仇恨言论 Hate Speech (Luvell Anderson、Michael Barnes)",
-      "indent": 0,
-      "order": 1239
-    },
-    {
-      "kind": "link",
-      "path": "i/integrity.md",
-      "text": "诚信 Integrity (Damian Cox、Marguerite La Caze、Michael Levine)",
-      "indent": 0,
-      "order": 1240
-    },
-    {
-      "kind": "link",
-      "path": "j/justice-intergenerational.md",
-      "text": "代际正义 Intergenerational Justice (Lukas Meyer)",
-      "indent": 0,
-      "order": 1241
-    },
-    {
-      "kind": "link",
-      "path": "j/justice-bad-luck.md",
-      "text": "正义与厄运 Justice and Bad Luck (Kasper Lippert-Rasmussen)",
-      "indent": 0,
-      "order": 1242
-    },
-    {
-      "kind": "link",
-      "path": "j/justice-virtue.md",
-      "text": "作为美德的正义 Justice as a Virtue (Mark LeBar)",
-      "indent": 0,
-      "order": 1243
-    },
-    {
-      "kind": "link",
-      "path": "l/loyalty.md",
-      "text": "忠诚 Loyalty (John Kleinig)",
-      "indent": 0,
-      "order": 1244
-    },
-    {
-      "kind": "link",
-      "path": "m/marriage.md",
-      "text": "婚姻和同居伴侣 Marriage and Domestic Partnership (Elizabeth Brake)",
-      "indent": 0,
-      "order": 1245
-    },
-    {
-      "kind": "link",
-      "path": "v/vegetarianism.md",
-      "text": "伦理素食主义 Moral Vegetarianism (Tyler Doggett)",
-      "indent": 0,
-      "order": 1246
     },
     {
       "kind": "link",
       "path": "s/self-obligations.md",
       "text": "对自己的义务 Obligations to Oneself (Daniel Muñoz)",
       "indent": 0,
-      "order": 1247
+      "order": 1239
+    },
+    {
+      "kind": "link",
+      "path": "f/friendship.md",
+      "text": "友谊 Friendship (Bennett Helm)",
+      "indent": 0,
+      "order": 1240
+    },
+    {
+      "kind": "link",
+      "path": "t/trust.md",
+      "text": "信任 Trust (Carolyn McLeod)",
+      "indent": 0,
+      "order": 1241
+    },
+    {
+      "kind": "link",
+      "path": "l/loyalty.md",
+      "text": "忠诚 Loyalty (John Kleinig)",
+      "indent": 0,
+      "order": 1242
+    },
+    {
+      "kind": "link",
+      "path": "i/integrity.md",
+      "text": "诚信 Integrity (Damian Cox、Marguerite La Caze、Michael Levine)",
+      "indent": 0,
+      "order": 1243
     },
     {
       "kind": "link",
       "path": "p/personal-relationship-goods.md",
       "text": "人际关系中的物品 Personal Relationship Goods (Anca Gheaus)",
       "indent": 0,
-      "order": 1248
+      "order": 1244
     },
     {
       "kind": "link",
       "path": "p/promises.md",
       "text": "承诺 Promises (Allen Habib)",
       "indent": 0,
-      "order": 1249
+      "order": 1245
     },
     {
       "kind": "link",
       "path": "r/recognition.md",
       "text": "承认 Recognition (Mattias Iser)",
       "indent": 0,
-      "order": 1250
+      "order": 1246
     },
     {
       "kind": "link",
       "path": "r/reconciliation.md",
       "text": "和解 Reconciliation (Linda Radzik、Colleen Murphy)",
       "indent": 0,
+      "order": 1247
+    },
+    {
+      "kind": "link",
+      "path": "m/marriage.md",
+      "text": "婚姻和同居伴侣 Marriage and Domestic Partnership (Elizabeth Brake)",
+      "indent": 0,
+      "order": 1248
+    },
+    {
+      "kind": "link",
+      "path": "j/justice-intergenerational.md",
+      "text": "代际正义 Intergenerational Justice (Lukas Meyer)",
+      "indent": 0,
+      "order": 1249
+    },
+    {
+      "kind": "link",
+      "path": "j/justice-bad-luck.md",
+      "text": "正义与厄运 Justice and Bad Luck (Kasper Lippert-Rasmussen)",
+      "indent": 0,
+      "order": 1250
+    },
+    {
+      "kind": "link",
+      "path": "j/justice-virtue.md",
+      "text": "作为美德的正义 Justice as a Virtue (Mark LeBar)",
+      "indent": 0,
       "order": 1251
     },
     {
       "kind": "link",
-      "path": "s/special-obligations.md",
-      "text": "特殊义务 Special Obligations (Diane Jeske、Jörg Löschke)",
+      "path": "h/hate-speech.md",
+      "text": "仇恨言论 Hate Speech (Luvell Anderson、Michael Barnes)",
       "indent": 0,
       "order": 1252
     },
@@ -8781,22 +8781,22 @@
     },
     {
       "kind": "link",
-      "path": "t/trust.md",
-      "text": "信任 Trust (Carolyn McLeod)",
+      "path": "v/vegetarianism.md",
+      "text": "伦理素食主义 Moral Vegetarianism (Tyler Doggett)",
       "indent": 0,
       "order": 1254
     },
     {
       "kind": "link",
-      "path": "j/justice-climate.md",
-      "text": "气候正义 Climate Justice (Simon Caney)",
+      "path": "e/ethics-environmental.md",
+      "text": "环境伦理学 Environmental Ethics (Andrew Brennan、Norva Y. S. Lo)",
       "indent": 0,
       "order": 1255
     },
     {
       "kind": "link",
-      "path": "e/ethics-environmental.md",
-      "text": "环境伦理学 Environmental Ethics (Andrew Brennan、Norva Y. S. Lo)",
+      "path": "j/justice-climate.md",
+      "text": "气候正义 Climate Justice (Simon Caney)",
       "indent": 0,
       "order": 1256
     },
@@ -8809,15 +8809,15 @@
     },
     {
       "kind": "link",
-      "path": "l/life-meaning.md",
-      "text": "生命的意义 The Meaning of Life (Thaddeus Metz)",
+      "path": "d/death-definition.md",
+      "text": "死亡的定义 The Definition of Death (Adam Omelianchuk、David DeGrazia)",
       "indent": 0,
       "order": 1258
     },
     {
       "kind": "link",
-      "path": "e/eugenics.md",
-      "text": "优生学 Eugenics (Inmaculada de Melo-Martin、Sara Goering)",
+      "path": "l/life-meaning.md",
+      "text": "生命的意义 The Meaning of Life (Thaddeus Metz)",
       "indent": 0,
       "order": 1259
     },
@@ -8837,8 +8837,8 @@
     },
     {
       "kind": "link",
-      "path": "d/death-definition.md",
-      "text": "死亡的定义 The Definition of Death (Adam Omelianchuk、David DeGrazia)",
+      "path": "e/eugenics.md",
+      "text": "优生学 Eugenics (Inmaculada de Melo-Martin、Sara Goering)",
       "indent": 0,
       "order": 1262
     },
@@ -8858,43 +8858,43 @@
     },
     {
       "kind": "link",
-      "path": "h/hedonism.md",
-      "text": "享乐主义 Hedonism (Andrew Moore、Joseph Burke)",
+      "path": "v/value-intrinsic-extrinsic.md",
+      "text": "内在价值与外在价值 Intrinsic vs. Extrinsic Value (Michael J. Zimmerman、Ben Bradley)",
       "indent": 0,
       "order": 1265
     },
     {
       "kind": "link",
-      "path": "v/value-intrinsic-extrinsic.md",
-      "text": "内在价值与外在价值 Intrinsic vs. Extrinsic Value (Michael J. Zimmerman、Ben Bradley)",
+      "path": "v/value-incommensurable.md",
+      "text": "不可通约性价值 Incommensurable Values (Henrik Andersson、Nien-hê Hsieh)",
       "indent": 0,
       "order": 1266
     },
     {
       "kind": "link",
-      "path": "w/well-being.md",
-      "text": "福祉 Well-Being (Roger Crisp)",
+      "path": "v/value-pluralism.md",
+      "text": "价值多元主义 Value Pluralism (Elinor Mason)",
       "indent": 0,
       "order": 1267
     },
     {
       "kind": "link",
-      "path": "d/double-effect.md",
-      "text": "双重效应原则 Doctrine of Double Effect (Alison McIntyre)",
+      "path": "f/fitting-attitude-theories.md",
+      "text": "恰当态度的价值理论 Fitting Attitude Theories of Value (Christopher Howard)",
       "indent": 0,
       "order": 1268
     },
     {
       "kind": "link",
-      "path": "e/envy.md",
-      "text": "嫉妒 Envy (Justin D’Arms)",
+      "path": "h/hedonism.md",
+      "text": "享乐主义 Hedonism (Andrew Moore、Joseph Burke)",
       "indent": 0,
       "order": 1269
     },
     {
       "kind": "link",
-      "path": "f/fitting-attitude-theories.md",
-      "text": "恰当态度的价值理论 Fitting Attitude Theories of Value (Christopher Howard)",
+      "path": "w/well-being.md",
+      "text": "福祉 Well-Being (Roger Crisp)",
       "indent": 0,
       "order": 1270
     },
@@ -8907,36 +8907,36 @@
     },
     {
       "kind": "link",
-      "path": "v/value-incommensurable.md",
-      "text": "不可通约性价值 Incommensurable Values (Henrik Andersson、Nien-hê Hsieh)",
+      "path": "p/pleasure.md",
+      "text": "快乐 Pleasure (Leonard D. Katz)",
       "indent": 0,
       "order": 1272
+    },
+    {
+      "kind": "link",
+      "path": "r/respect.md",
+      "text": "尊重 Respect (Robin S. Dillon)",
+      "indent": 0,
+      "order": 1273
+    },
+    {
+      "kind": "link",
+      "path": "e/envy.md",
+      "text": "嫉妒 Envy (Justin D’Arms)",
+      "indent": 0,
+      "order": 1274
     },
     {
       "kind": "link",
       "path": "m/modesty-humility.md",
       "text": "谦逊与谦卑 Modesty and Humility (Nicolas Bommarito)",
       "indent": 0,
-      "order": 1273
+      "order": 1275
     },
     {
       "kind": "link",
       "path": "p/perfectionism-moral.md",
       "text": "伦理学和政治哲学中的完美主义 Perfectionism in Moral and Political Philosophy (Steven Wall)",
-      "indent": 0,
-      "order": 1274
-    },
-    {
-      "kind": "link",
-      "path": "p/pleasure.md",
-      "text": "快乐 Pleasure (Leonard D. Katz)",
-      "indent": 0,
-      "order": 1275
-    },
-    {
-      "kind": "link",
-      "path": "r/respect.md",
-      "text": "尊重 Respect (Robin S. Dillon)",
       "indent": 0,
       "order": 1276
     },
@@ -8949,8 +8949,8 @@
     },
     {
       "kind": "link",
-      "path": "v/value-pluralism.md",
-      "text": "价值多元主义 Value Pluralism (Elinor Mason)",
+      "path": "d/double-effect.md",
+      "text": "双重效应原则 Doctrine of Double Effect (Alison McIntyre)",
       "indent": 0,
       "order": 1278
     },
@@ -8963,15 +8963,15 @@
     },
     {
       "kind": "link",
-      "path": "a/anarchism.md",
-      "text": "无政府主义 Anarchism (Andrew Fiala)",
+      "path": "r/rights-human.md",
+      "text": "人权 Human Rights (James Nickel、Adam Etinson)",
       "indent": 0,
       "order": 1280
     },
     {
       "kind": "link",
-      "path": "c/capitalism.md",
-      "text": "资本主义 Capitalism (Chiara Cordelli)",
+      "path": "r/rights-group.md",
+      "text": "群体权利 Group Rights (Peter Jones)",
       "indent": 0,
       "order": 1281
     },
@@ -8984,155 +8984,155 @@
     },
     {
       "kind": "link",
-      "path": "c/coercion.md",
-      "text": "强制 Coercion (Scott Anderson)",
+      "path": "a/anarchism.md",
+      "text": "无政府主义 Anarchism (Andrew Fiala)",
       "indent": 0,
       "order": 1283
     },
     {
       "kind": "link",
-      "path": "c/communitarianism.md",
-      "text": "社群主义 Communitarianism (Daniel Bell)",
+      "path": "c/capitalism.md",
+      "text": "资本主义 Capitalism (Chiara Cordelli)",
       "indent": 0,
       "order": 1284
-    },
-    {
-      "kind": "link",
-      "path": "c/conservatism.md",
-      "text": "保守主义 Conservatism (Andy Hamilton)",
-      "indent": 0,
-      "order": 1285
-    },
-    {
-      "kind": "link",
-      "path": "c/constructivism-political.md",
-      "text": "政治哲学中的建构主义 Constructivism in Political Philosophy (Andrew Williams)",
-      "indent": 0,
-      "order": 1286
-    },
-    {
-      "kind": "link",
-      "path": "d/dignity.md",
-      "text": "尊严 Dignity (Remy Debes)",
-      "indent": 0,
-      "order": 1287
-    },
-    {
-      "kind": "link",
-      "path": "e/egalitarianism.md",
-      "text": "平等主义 Egalitarianism (Juliana Bidadanure、David Axelsen)",
-      "indent": 0,
-      "order": 1288
-    },
-    {
-      "kind": "link",
-      "path": "f/federalism.md",
-      "text": "联邦主义 Federalism (Andreas Follesdal)",
-      "indent": 0,
-      "order": 1289
-    },
-    {
-      "kind": "link",
-      "path": "r/rights-group.md",
-      "text": "群体权利 Group Rights (Peter Jones)",
-      "indent": 0,
-      "order": 1290
-    },
-    {
-      "kind": "link",
-      "path": "r/rights-human.md",
-      "text": "人权 Human Rights (James Nickel、Adam Etinson)",
-      "indent": 0,
-      "order": 1291
-    },
-    {
-      "kind": "link",
-      "path": "i/identity-politics.md",
-      "text": "身份政治 Identity Politics (Cressida Heyes)",
-      "indent": 0,
-      "order": 1292
-    },
-    {
-      "kind": "link",
-      "path": "i/ideology.md",
-      "text": "意识形态 Ideology (William Clare Roberts)",
-      "indent": 0,
-      "order": 1293
-    },
-    {
-      "kind": "link",
-      "path": "m/meritocracy.md",
-      "text": "优绩主义 Meritocracy (Thomas Mulligan)",
-      "indent": 0,
-      "order": 1294
-    },
-    {
-      "kind": "link",
-      "path": "n/nationalism.md",
-      "text": "民族主义 Nationalism (David Miller)",
-      "indent": 0,
-      "order": 1295
-    },
-    {
-      "kind": "link",
-      "path": "n/needs.md",
-      "text": "道德与政治哲学中的需求 Needs in Moral and Political Philosophy (Gillian Brock、David Miller)",
-      "indent": 0,
-      "order": 1296
-    },
-    {
-      "kind": "link",
-      "path": "p/paternalism.md",
-      "text": "家长主义 Paternalism (Gerald Dworkin)",
-      "indent": 0,
-      "order": 1297
-    },
-    {
-      "kind": "link",
-      "path": "p/patriotism.md",
-      "text": "爱国主义 Patriotism (Igor Primoratz)",
-      "indent": 0,
-      "order": 1298
-    },
-    {
-      "kind": "link",
-      "path": "p/personal-autonomy.md",
-      "text": "个人自主权 Personal Autonomy (Sarah Buss、Andrea Westlund)",
-      "indent": 0,
-      "order": 1299
-    },
-    {
-      "kind": "link",
-      "path": "p/prioritarianism.md",
-      "text": "作为价值理论的优先主义 Prioritarianism as a Theory of Value (Matthew Adler、Nils Holtug)",
-      "indent": 0,
-      "order": 1300
-    },
-    {
-      "kind": "link",
-      "path": "p/privacy.md",
-      "text": "隐私 Privacy (Beate Roessler、Judith DeCew)",
-      "indent": 0,
-      "order": 1301
     },
     {
       "kind": "link",
       "path": "s/socialism.md",
       "text": "社会主义 Socialism (Pablo Gilabert、Martin O’Neill)",
       "indent": 0,
-      "order": 1302
+      "order": 1285
+    },
+    {
+      "kind": "link",
+      "path": "c/conservatism.md",
+      "text": "保守主义 Conservatism (Andy Hamilton)",
+      "indent": 0,
+      "order": 1286
+    },
+    {
+      "kind": "link",
+      "path": "c/communitarianism.md",
+      "text": "社群主义 Communitarianism (Daniel Bell)",
+      "indent": 0,
+      "order": 1287
+    },
+    {
+      "kind": "link",
+      "path": "f/federalism.md",
+      "text": "联邦主义 Federalism (Andreas Follesdal)",
+      "indent": 0,
+      "order": 1288
+    },
+    {
+      "kind": "link",
+      "path": "n/nationalism.md",
+      "text": "民族主义 Nationalism (David Miller)",
+      "indent": 0,
+      "order": 1289
     },
     {
       "kind": "link",
       "path": "s/sovereignty.md",
       "text": "主权 Sovereignty (Daniel Philpott)",
       "indent": 0,
-      "order": 1303
+      "order": 1290
+    },
+    {
+      "kind": "link",
+      "path": "i/ideology.md",
+      "text": "意识形态 Ideology (William Clare Roberts)",
+      "indent": 0,
+      "order": 1291
+    },
+    {
+      "kind": "link",
+      "path": "m/meritocracy.md",
+      "text": "优绩主义 Meritocracy (Thomas Mulligan)",
+      "indent": 0,
+      "order": 1292
+    },
+    {
+      "kind": "link",
+      "path": "c/constructivism-political.md",
+      "text": "政治哲学中的建构主义 Constructivism in Political Philosophy (Andrew Williams)",
+      "indent": 0,
+      "order": 1293
+    },
+    {
+      "kind": "link",
+      "path": "p/personal-autonomy.md",
+      "text": "个人自主权 Personal Autonomy (Sarah Buss、Andrea Westlund)",
+      "indent": 0,
+      "order": 1294
+    },
+    {
+      "kind": "link",
+      "path": "p/paternalism.md",
+      "text": "家长主义 Paternalism (Gerald Dworkin)",
+      "indent": 0,
+      "order": 1295
+    },
+    {
+      "kind": "link",
+      "path": "c/coercion.md",
+      "text": "强制 Coercion (Scott Anderson)",
+      "indent": 0,
+      "order": 1296
     },
     {
       "kind": "link",
       "path": "t/toleration.md",
       "text": "宽容 Toleration (Rainer Forst)",
+      "indent": 0,
+      "order": 1297
+    },
+    {
+      "kind": "link",
+      "path": "p/privacy.md",
+      "text": "隐私 Privacy (Beate Roessler、Judith DeCew)",
+      "indent": 0,
+      "order": 1298
+    },
+    {
+      "kind": "link",
+      "path": "d/dignity.md",
+      "text": "尊严 Dignity (Remy Debes)",
+      "indent": 0,
+      "order": 1299
+    },
+    {
+      "kind": "link",
+      "path": "e/egalitarianism.md",
+      "text": "平等主义 Egalitarianism (Juliana Bidadanure、David Axelsen)",
+      "indent": 0,
+      "order": 1300
+    },
+    {
+      "kind": "link",
+      "path": "p/prioritarianism.md",
+      "text": "作为价值理论的优先主义 Prioritarianism as a Theory of Value (Matthew Adler、Nils Holtug)",
+      "indent": 0,
+      "order": 1301
+    },
+    {
+      "kind": "link",
+      "path": "n/needs.md",
+      "text": "道德与政治哲学中的需求 Needs in Moral and Political Philosophy (Gillian Brock、David Miller)",
+      "indent": 0,
+      "order": 1302
+    },
+    {
+      "kind": "link",
+      "path": "i/identity-politics.md",
+      "text": "身份政治 Identity Politics (Cressida Heyes)",
+      "indent": 0,
+      "order": 1303
+    },
+    {
+      "kind": "link",
+      "path": "p/patriotism.md",
+      "text": "爱国主义 Patriotism (Igor Primoratz)",
       "indent": 0,
       "order": 1304
     },
@@ -9166,134 +9166,134 @@
     },
     {
       "kind": "link",
-      "path": "a/autonomy-moral.md",
-      "text": "伦理学和政治哲学中的自主权 Autonomy in Moral and Political Philosophy (John Christman)",
-      "indent": 0,
-      "order": 1309
-    },
-    {
-      "kind": "link",
-      "path": "c/cognitive-disability.md",
-      "text": "认知障碍与道德地位 Cognitive Disability and Moral Status (David Wasserman、Adrienne Asch、Jeffrey Blustein、Daniel Putnam)",
-      "indent": 0,
-      "order": 1310
-    },
-    {
-      "kind": "link",
-      "path": "c/contractarianism-contemporary.md",
-      "text": "社会契约论的当代方法 Contemporary Approaches to the Social Contract (Fred D’Agostino、Gerald Gaus、John Thrasher)",
-      "indent": 0,
-      "order": 1311
-    },
-    {
-      "kind": "link",
-      "path": "d/disability-critical.md",
-      "text": "批判的残疾理论 Critical Disability Theory (Melinda C. Hall)",
-      "indent": 0,
-      "order": 1312
-    },
-    {
-      "kind": "link",
-      "path": "d/disability-justice.md",
-      "text": "残疾与正义 Disability and Justice (Jessica Begon、Daniel Putnam、David Wasserman、Jeffrey Blustein、Adrienne Asch)",
-      "indent": 0,
-      "order": 1313
-    },
-    {
-      "kind": "link",
-      "path": "d/discrimination.md",
-      "text": "歧视 Discrimination (Anthony Sangiuliano)",
-      "indent": 0,
-      "order": 1314
-    },
-    {
-      "kind": "link",
-      "path": "j/justice-moral-psych.md",
-      "text": "分配正义与经验道德心理学 Distributive Justice and Empirical Moral Psychology (Christian B. Miller)",
-      "indent": 0,
-      "order": 1315
-    },
-    {
-      "kind": "link",
-      "path": "e/equal-opportunity.md",
-      "text": "机会平等 Equality of Opportunity (Gideon Elford)",
-      "indent": 0,
-      "order": 1316
-    },
-    {
-      "kind": "link",
-      "path": "e/exploitation.md",
-      "text": "剥削 Exploitation (Matt Zwolinski、Benjamin Ferguson、Alan Wertheimer)",
-      "indent": 0,
-      "order": 1317
-    },
-    {
-      "kind": "link",
-      "path": "f/freedom-association.md",
-      "text": "结社自由 Freedom of Association (Kimberley Brownlee、David Jenkins)",
-      "indent": 0,
-      "order": 1318
-    },
-    {
-      "kind": "link",
-      "path": "f/freedom-speech.md",
-      "text": "言论自由 Freedom of Speech (Jeffrey W. Howard)",
-      "indent": 0,
-      "order": 1319
-    },
-    {
-      "kind": "link",
-      "path": "i/impartiality.md",
-      "text": "公正 Impartiality (Troy Jollimore)",
-      "indent": 0,
-      "order": 1320
-    },
-    {
-      "kind": "link",
-      "path": "j/justice-inequality-health.md",
-      "text": "正义、不平等和健康 Justice, Inequality, and Health (Douglas MacKay、Gopal Sreenivasan)",
-      "indent": 0,
-      "order": 1321
-    },
-    {
-      "kind": "link",
-      "path": "o/original-position.md",
-      "text": "原初状态 Original Position (Samuel Freeman)",
-      "indent": 0,
-      "order": 1322
-    },
-    {
-      "kind": "link",
       "path": "r/redistribution.md",
       "text": "再分配 Redistribution (Christian Barry)",
       "indent": 0,
-      "order": 1323
-    },
-    {
-      "kind": "link",
-      "path": "r/reflective-equilibrium.md",
-      "text": "反思平衡 Reflective Equilibrium (Carl Knight)",
-      "indent": 0,
-      "order": 1324
+      "order": 1309
     },
     {
       "kind": "link",
       "path": "s/social-minimum.md",
       "text": "社会最低保障 Social Minimum (Stuart White)",
       "indent": 0,
-      "order": 1325
+      "order": 1310
+    },
+    {
+      "kind": "link",
+      "path": "e/equal-opportunity.md",
+      "text": "机会平等 Equality of Opportunity (Gideon Elford)",
+      "indent": 0,
+      "order": 1311
+    },
+    {
+      "kind": "link",
+      "path": "i/impartiality.md",
+      "text": "公正 Impartiality (Troy Jollimore)",
+      "indent": 0,
+      "order": 1312
+    },
+    {
+      "kind": "link",
+      "path": "o/original-position.md",
+      "text": "原初状态 Original Position (Samuel Freeman)",
+      "indent": 0,
+      "order": 1313
+    },
+    {
+      "kind": "link",
+      "path": "r/reflective-equilibrium.md",
+      "text": "反思平衡 Reflective Equilibrium (Carl Knight)",
+      "indent": 0,
+      "order": 1314
+    },
+    {
+      "kind": "link",
+      "path": "f/freedom-speech.md",
+      "text": "言论自由 Freedom of Speech (Jeffrey W. Howard)",
+      "indent": 0,
+      "order": 1315
+    },
+    {
+      "kind": "link",
+      "path": "f/freedom-association.md",
+      "text": "结社自由 Freedom of Association (Kimberley Brownlee、David Jenkins)",
+      "indent": 0,
+      "order": 1316
+    },
+    {
+      "kind": "link",
+      "path": "a/autonomy-moral.md",
+      "text": "伦理学和政治哲学中的自主权 Autonomy in Moral and Political Philosophy (John Christman)",
+      "indent": 0,
+      "order": 1317
+    },
+    {
+      "kind": "link",
+      "path": "c/cognitive-disability.md",
+      "text": "认知障碍与道德地位 Cognitive Disability and Moral Status (David Wasserman、Adrienne Asch、Jeffrey Blustein、Daniel Putnam)",
+      "indent": 0,
+      "order": 1318
+    },
+    {
+      "kind": "link",
+      "path": "d/disability-critical.md",
+      "text": "批判的残疾理论 Critical Disability Theory (Melinda C. Hall)",
+      "indent": 0,
+      "order": 1319
+    },
+    {
+      "kind": "link",
+      "path": "d/disability-justice.md",
+      "text": "残疾与正义 Disability and Justice (Jessica Begon、Daniel Putnam、David Wasserman、Jeffrey Blustein、Adrienne Asch)",
+      "indent": 0,
+      "order": 1320
+    },
+    {
+      "kind": "link",
+      "path": "d/discrimination.md",
+      "text": "歧视 Discrimination (Anthony Sangiuliano)",
+      "indent": 0,
+      "order": 1321
     },
     {
       "kind": "link",
       "path": "c/capability-approach.md",
       "text": "可行能力 The Capability Approach (Ingrid Robeyns、Morten Fibieger Byskov)",
       "indent": 0,
-      "order": 1326
+      "order": 1322
+    },
+    {
+      "kind": "link",
+      "path": "j/justice-inequality-health.md",
+      "text": "正义、不平等和健康 Justice, Inequality, and Health (Douglas MacKay、Gopal Sreenivasan)",
+      "indent": 0,
+      "order": 1323
+    },
+    {
+      "kind": "link",
+      "path": "e/exploitation.md",
+      "text": "剥削 Exploitation (Matt Zwolinski、Benjamin Ferguson、Alan Wertheimer)",
+      "indent": 0,
+      "order": 1324
     },
     {
       "kind": "link",
       "path": "j/justice-transitional.md",
       "text": "转型正义 Transitional Justice (Nir Eisikovits)",
+      "indent": 0,
+      "order": 1325
+    },
+    {
+      "kind": "link",
+      "path": "c/contractarianism-contemporary.md",
+      "text": "社会契约论的当代方法 Contemporary Approaches to the Social Contract (Fred D’Agostino、Gerald Gaus、John Thrasher)",
+      "indent": 0,
+      "order": 1326
+    },
+    {
+      "kind": "link",
+      "path": "j/justice-moral-psych.md",
+      "text": "分配正义与经验道德心理学 Distributive Justice and Empirical Moral Psychology (Christian B. Miller)",
       "indent": 0,
       "order": 1327
     },
@@ -9306,29 +9306,29 @@
     },
     {
       "kind": "link",
-      "path": "c/corruption.md",
-      "text": "腐败 Corruption (Seumas Miller)",
+      "path": "p/political-representation.md",
+      "text": "政治代表 Political Representation (Suzanne Dovi、Wendy Salkin)",
       "indent": 0,
       "order": 1329
-    },
-    {
-      "kind": "link",
-      "path": "e/economic-democracy.md",
-      "text": "经济民主 Economic Democracy (Lisa Herzog)",
-      "indent": 0,
-      "order": 1330
     },
     {
       "kind": "link",
       "path": "j/jury-theorems.md",
       "text": "陪审团定理 Jury Theorems (Franz Dietrich、Kai Spiekermann)",
       "indent": 0,
+      "order": 1330
+    },
+    {
+      "kind": "link",
+      "path": "e/economic-democracy.md",
+      "text": "经济民主 Economic Democracy (Lisa Herzog)",
+      "indent": 0,
       "order": 1331
     },
     {
       "kind": "link",
-      "path": "p/political-representation.md",
-      "text": "政治代表 Political Representation (Suzanne Dovi、Wendy Salkin)",
+      "path": "c/corruption.md",
+      "text": "腐败 Corruption (Seumas Miller)",
       "indent": 0,
       "order": 1332
     },
@@ -9341,50 +9341,50 @@
     },
     {
       "kind": "link",
-      "path": "l/liberty-positive-negative.md",
-      "text": "积极自由和消极自由 Positive and Negative Liberty (Ian Carter、Ilkin Huseynli)",
+      "path": "n/neoliberalism.md",
+      "text": "新自由主义 Neoliberalism (Kevin Vallier)",
       "indent": 0,
       "order": 1334
-    },
-    {
-      "kind": "link",
-      "path": "h/humanism-civic.md",
-      "text": "公民人文主义 Civic Humanism (Cary Nederman)",
-      "indent": 0,
-      "order": 1335
-    },
-    {
-      "kind": "link",
-      "path": "c/constitutionalism.md",
-      "text": "宪政主义 Constitutionalism (Wil Waluchow、Dimitrios Kyritsis)",
-      "indent": 0,
-      "order": 1336
     },
     {
       "kind": "link",
       "path": "l/libertarianism.md",
       "text": "自由至上主义 Libertarianism (Bas van der Vossen、Billy Christmas)",
       "indent": 0,
-      "order": 1337
+      "order": 1335
     },
     {
       "kind": "link",
-      "path": "n/neoliberalism.md",
-      "text": "新自由主义 Neoliberalism (Kevin Vallier)",
+      "path": "l/liberty-positive-negative.md",
+      "text": "积极自由和消极自由 Positive and Negative Liberty (Ian Carter、Ilkin Huseynli)",
       "indent": 0,
-      "order": 1338
-    },
-    {
-      "kind": "link",
-      "path": "p/property.md",
-      "text": "财产和所有权 Property and Ownership (Jeremy Waldron、James Penner)",
-      "indent": 0,
-      "order": 1339
+      "order": 1336
     },
     {
       "kind": "link",
       "path": "r/republicanism.md",
       "text": "共和主义 Republicanism (Frank Lovett)",
+      "indent": 0,
+      "order": 1337
+    },
+    {
+      "kind": "link",
+      "path": "h/humanism-civic.md",
+      "text": "公民人文主义 Civic Humanism (Cary Nederman)",
+      "indent": 0,
+      "order": 1338
+    },
+    {
+      "kind": "link",
+      "path": "c/constitutionalism.md",
+      "text": "宪政主义 Constitutionalism (Wil Waluchow、Dimitrios Kyritsis)",
+      "indent": 0,
+      "order": 1339
+    },
+    {
+      "kind": "link",
+      "path": "p/property.md",
+      "text": "财产和所有权 Property and Ownership (Jeremy Waldron、James Penner)",
       "indent": 0,
       "order": 1340
     },
@@ -9404,78 +9404,78 @@
     },
     {
       "kind": "link",
-      "path": "c/citizenship.md",
-      "text": "公民 Citizenship (Dominique Leydet)",
-      "indent": 0,
-      "order": 1343
-    },
-    {
-      "kind": "link",
-      "path": "c/civic-education.md",
-      "text": "公民教育 Civic Education (Jack Crittenden、Peter Levine)",
-      "indent": 0,
-      "order": 1344
-    },
-    {
-      "kind": "link",
-      "path": "c/civil-disobedience.md",
-      "text": "公民不服从 Civil Disobedience (Candice Delmas、Kimberley Brownlee)",
-      "indent": 0,
-      "order": 1345
-    },
-    {
-      "kind": "link",
-      "path": "c/civil-rights.md",
-      "text": "公民权利 Civil Rights (Robin L. West)",
-      "indent": 0,
-      "order": 1346
-    },
-    {
-      "kind": "link",
-      "path": "d/domination.md",
-      "text": "支配 Domination (Richard C. McCammon)",
-      "indent": 0,
-      "order": 1347
-    },
-    {
-      "kind": "link",
       "path": "l/legitimacy.md",
       "text": "政治合法性 Political Legitimacy (Fabienne Peter)",
       "indent": 0,
-      "order": 1348
+      "order": 1343
     },
     {
       "kind": "link",
       "path": "j/justification-public.md",
       "text": "公共证成 Public Justification (Kevin Vallier)",
       "indent": 0,
-      "order": 1349
+      "order": 1344
     },
     {
       "kind": "link",
-      "path": "r/revolution.md",
-      "text": "革命 Revolution (Allen Buchanan、Alexander Motchoulski)",
+      "path": "c/citizenship.md",
+      "text": "公民 Citizenship (Dominique Leydet)",
       "indent": 0,
-      "order": 1350
+      "order": 1345
     },
     {
       "kind": "link",
-      "path": "s/secession.md",
-      "text": "分离 Secession (Allen Buchanan、Elizabeth Levinson)",
+      "path": "c/civic-education.md",
+      "text": "公民教育 Civic Education (Jack Crittenden、Peter Levine)",
       "indent": 0,
-      "order": 1351
+      "order": 1346
+    },
+    {
+      "kind": "link",
+      "path": "c/civil-disobedience.md",
+      "text": "公民不服从 Civil Disobedience (Candice Delmas、Kimberley Brownlee)",
+      "indent": 0,
+      "order": 1347
+    },
+    {
+      "kind": "link",
+      "path": "c/civil-rights.md",
+      "text": "公民权利 Civil Rights (Robin L. West)",
+      "indent": 0,
+      "order": 1348
     },
     {
       "kind": "link",
       "path": "v/voting.md",
       "text": "投票的道德与理性 The Ethics and Rationality of Voting (Jason Brennan)",
       "indent": 0,
-      "order": 1352
+      "order": 1349
     },
     {
       "kind": "link",
       "path": "f/free-rider.md",
       "text": "搭便车问题 The Free Rider Problem (Garrett Cullity)",
+      "indent": 0,
+      "order": 1350
+    },
+    {
+      "kind": "link",
+      "path": "d/domination.md",
+      "text": "支配 Domination (Richard C. McCammon)",
+      "indent": 0,
+      "order": 1351
+    },
+    {
+      "kind": "link",
+      "path": "r/revolution.md",
+      "text": "革命 Revolution (Allen Buchanan、Alexander Motchoulski)",
+      "indent": 0,
+      "order": 1352
+    },
+    {
+      "kind": "link",
+      "path": "s/secession.md",
+      "text": "分离 Secession (Allen Buchanan、Elizabeth Levinson)",
       "indent": 0,
       "order": 1353
     },
@@ -9495,64 +9495,64 @@
     },
     {
       "kind": "link",
+      "path": "i/international-justice.md",
+      "text": "全球分配正义 International Distributive Justice (Michael Blake、Patrick Taylor Smith)",
+      "indent": 0,
+      "order": 1356
+    },
+    {
+      "kind": "link",
       "path": "c/cosmopolitanism.md",
       "text": "世界主义 Cosmopolitanism (Pauline Kleingeld、Eric Brown)",
       "indent": 0,
-      "order": 1356
+      "order": 1357
     },
     {
       "kind": "link",
       "path": "g/global-democracy.md",
       "text": "全球民主 Global Democracy (Jonathan Kuyper)",
       "indent": 0,
-      "order": 1357
+      "order": 1358
+    },
+    {
+      "kind": "link",
+      "path": "w/world-government.md",
+      "text": "世界政府 World Government (Catherine Lu)",
+      "indent": 0,
+      "order": 1359
     },
     {
       "kind": "link",
       "path": "g/globalization.md",
       "text": "全球化 Globalization (William Scheuerman)",
       "indent": 0,
-      "order": 1358
+      "order": 1360
     },
     {
       "kind": "link",
       "path": "i/immigration.md",
       "text": "移民 Immigration (Christopher Heath Wellman)",
       "indent": 0,
-      "order": 1359
-    },
-    {
-      "kind": "link",
-      "path": "i/international-justice.md",
-      "text": "全球分配正义 International Distributive Justice (Michael Blake、Patrick Taylor Smith)",
-      "indent": 0,
-      "order": 1360
-    },
-    {
-      "kind": "link",
-      "path": "p/pacifism.md",
-      "text": "和平主义 Pacifism (Andrew Fiala)",
-      "indent": 0,
       "order": 1361
-    },
-    {
-      "kind": "link",
-      "path": "r/realism-intl-relations.md",
-      "text": "国际关系中的政治现实主义 Political Realism in International Relations (W. Julian Korab-Karpowicz)",
-      "indent": 0,
-      "order": 1362
     },
     {
       "kind": "link",
       "path": "t/territorial-rights.md",
       "text": "领土权利与领土正义 Territorial Rights and Territorial Justice (Margaret Moore)",
       "indent": 0,
+      "order": 1362
+    },
+    {
+      "kind": "link",
+      "path": "p/pacifism.md",
+      "text": "和平主义 Pacifism (Andrew Fiala)",
+      "indent": 0,
       "order": 1363
     },
     {
       "kind": "link",
-      "path": "w/world-government.md",
-      "text": "世界政府 World Government (Catherine Lu)",
+      "path": "r/realism-intl-relations.md",
+      "text": "国际关系中的政治现实主义 Political Realism in International Relations (W. Julian Korab-Karpowicz)",
       "indent": 0,
       "order": 1364
     },
@@ -9565,29 +9565,29 @@
     },
     {
       "kind": "link",
-      "path": "a/affirmative-action.md",
-      "text": "肯定性行动 Affirmative Action (Robert Fullinwider)",
+      "path": "c/critical-phil-race.md",
+      "text": "批判种族哲学 Critical Philosophy of Race (Linda Alcoff)",
       "indent": 0,
       "order": 1366
-    },
-    {
-      "kind": "link",
-      "path": "b/black-reparations.md",
-      "text": "黑人赔偿 Black Reparations (Bernard Boxill、J. Angelo Corlett)",
-      "indent": 0,
-      "order": 1367
     },
     {
       "kind": "link",
       "path": "c/colonialism.md",
       "text": "殖民主义 Colonialism (Margaret Kohn、Kavita Reddy)",
       "indent": 0,
+      "order": 1367
+    },
+    {
+      "kind": "link",
+      "path": "b/black-reparations.md",
+      "text": "黑人赔偿 Black Reparations (Bernard Boxill、J. Angelo Corlett)",
+      "indent": 0,
       "order": 1368
     },
     {
       "kind": "link",
-      "path": "c/critical-phil-race.md",
-      "text": "批判种族哲学 Critical Philosophy of Race (Linda Alcoff)",
+      "path": "a/affirmative-action.md",
+      "text": "肯定性行动 Affirmative Action (Robert Fullinwider)",
       "indent": 0,
       "order": 1369
     },
@@ -9600,92 +9600,92 @@
     },
     {
       "kind": "link",
-      "path": "a/academic-freedom.md",
-      "text": "学术自由 Academic Freedom (Jacob T. Levy)",
+      "path": "p/public-reason.md",
+      "text": "公共理性 Public Reason (Jonathan Quong)",
       "indent": 0,
       "order": 1371
-    },
-    {
-      "kind": "link",
-      "path": "w/work-labor.md",
-      "text": "工作和劳动的哲学方法 Philosophical Approaches to Work and Labor (Michael Cholbi)",
-      "indent": 0,
-      "order": 1372
     },
     {
       "kind": "link",
       "path": "p/public-goods.md",
       "text": "公共物品 Public Goods (Julian Reiss)",
       "indent": 0,
-      "order": 1373
-    },
-    {
-      "kind": "link",
-      "path": "p/public-reason.md",
-      "text": "公共理性 Public Reason (Jonathan Quong)",
-      "indent": 0,
-      "order": 1374
-    },
-    {
-      "kind": "link",
-      "path": "p/publicity.md",
-      "text": "公开性 Publicity (Axel Gosseries、Tom Parr)",
-      "indent": 0,
-      "order": 1375
-    },
-    {
-      "kind": "link",
-      "path": "s/solidarity.md",
-      "text": "社会与政治哲学中的团结 Solidarity in Social and Political Philosophy (Andrea Sangiovanni、Juri Viehoff)",
-      "indent": 0,
-      "order": 1376
+      "order": 1372
     },
     {
       "kind": "link",
       "path": "c/common-good.md",
       "text": "共同善 The Common Good (Waheed Hussain、Margaret Kohn)",
       "indent": 0,
+      "order": 1373
+    },
+    {
+      "kind": "link",
+      "path": "p/publicity.md",
+      "text": "公开性 Publicity (Axel Gosseries、Tom Parr)",
+      "indent": 0,
+      "order": 1374
+    },
+    {
+      "kind": "link",
+      "path": "w/work-labor.md",
+      "text": "工作和劳动的哲学方法 Philosophical Approaches to Work and Labor (Michael Cholbi)",
+      "indent": 0,
+      "order": 1375
+    },
+    {
+      "kind": "link",
+      "path": "a/academic-freedom.md",
+      "text": "学术自由 Academic Freedom (Jacob T. Levy)",
+      "indent": 0,
+      "order": 1376
+    },
+    {
+      "kind": "link",
+      "path": "s/solidarity.md",
+      "text": "社会与政治哲学中的团结 Solidarity in Social and Political Philosophy (Andrea Sangiovanni、Juri Viehoff)",
+      "indent": 0,
       "order": 1377
-    },
-    {
-      "kind": "link",
-      "path": "b/bounded-rationality.md",
-      "text": "有限理性 Bounded Rationality (Gregory Wheeler)",
-      "indent": 0,
-      "order": 1378
-    },
-    {
-      "kind": "link",
-      "path": "e/economics-early-modern.md",
-      "text": "早期现代哲学中的经济学 Economics in Early Modern Philosophy (Margaret Schabas)",
-      "indent": 0,
-      "order": 1379
-    },
-    {
-      "kind": "link",
-      "path": "m/markets.md",
-      "text": "市场 Markets (Lisa Herzog)",
-      "indent": 0,
-      "order": 1380
-    },
-    {
-      "kind": "link",
-      "path": "e/economic-justice.md",
-      "text": "规范经济学与经济正义 Normative Economics and Economic Justice (Marc Fleurbaey)",
-      "indent": 0,
-      "order": 1381
     },
     {
       "kind": "link",
       "path": "e/economics.md",
       "text": "经济学哲学 Philosophy of Economics (Daniel M. Hausman)",
       "indent": 0,
-      "order": 1382
+      "order": 1378
+    },
+    {
+      "kind": "link",
+      "path": "b/bounded-rationality.md",
+      "text": "有限理性 Bounded Rationality (Gregory Wheeler)",
+      "indent": 0,
+      "order": 1379
+    },
+    {
+      "kind": "link",
+      "path": "e/economics-early-modern.md",
+      "text": "早期现代哲学中的经济学 Economics in Early Modern Philosophy (Margaret Schabas)",
+      "indent": 0,
+      "order": 1380
+    },
+    {
+      "kind": "link",
+      "path": "m/markets.md",
+      "text": "市场 Markets (Lisa Herzog)",
+      "indent": 0,
+      "order": 1381
     },
     {
       "kind": "link",
       "path": "m/money-finance.md",
       "text": "货币与金融哲学 Philosophy of Money and Finance (Boudewijn de Bruin、Lisa Herzog、Martin O’Neill、Joakim Sandberg)",
+      "indent": 0,
+      "order": 1382
+    },
+    {
+      "kind": "link",
+      "path": "e/economic-justice.md",
+      "text": "规范经济学与经济正义 Normative Economics and Economic Justice (Marc Fleurbaey)",
       "indent": 0,
       "order": 1383
     },
@@ -9726,29 +9726,29 @@
     },
     {
       "kind": "link",
-      "path": "l/lawphil-nature.md",
-      "text": "法律的本质 The Nature of Law (Emad Atiq、Andrei Marmor、Alexander Sarch)",
+      "path": "a/austin-john.md",
+      "text": "约翰·奥斯丁 John Austin (Brian Bix)",
       "indent": 0,
       "order": 1389
     },
     {
       "kind": "link",
-      "path": "a/austin-john.md",
-      "text": "约翰·奥斯丁 John Austin (Brian Bix)",
+      "path": "l/lawphil-theory.md",
+      "text": "纯粹法理论 The Pure Theory of Law (Andrei Marmor)",
       "indent": 0,
       "order": 1390
     },
     {
       "kind": "link",
-      "path": "l/law-interpretivist.md",
-      "text": "法律解释主义 Legal Interpretivism (Nicos Stavropoulos)",
+      "path": "l/lawphil-nature.md",
+      "text": "法律的本质 The Nature of Law (Emad Atiq、Andrei Marmor、Alexander Sarch)",
       "indent": 0,
       "order": 1391
     },
     {
       "kind": "link",
-      "path": "l/legal-obligation.md",
-      "text": "法律义务和法律权威 Legal Obligation and Authority (Massimo Renzo、Leslie Green)",
+      "path": "l/law-interpretivist.md",
+      "text": "法律解释主义 Legal Interpretivism (Nicos Stavropoulos)",
       "indent": 0,
       "order": 1392
     },
@@ -9761,57 +9761,57 @@
     },
     {
       "kind": "link",
-      "path": "l/lawphil-naturalism.md",
-      "text": "法哲学中的自然主义 Naturalism in Legal Philosophy (Brian Leiter、Matthew X. Etchemendy)",
+      "path": "l/legal-obligation.md",
+      "text": "法律义务和法律权威 Legal Obligation and Authority (Massimo Renzo、Leslie Green)",
       "indent": 0,
       "order": 1394
-    },
-    {
-      "kind": "link",
-      "path": "l/law-limits.md",
-      "text": "法律的界限 The Limits of Law (John Stanton-Ife)",
-      "indent": 0,
-      "order": 1395
-    },
-    {
-      "kind": "link",
-      "path": "l/lawphil-theory.md",
-      "text": "纯粹法理论 The Pure Theory of Law (Andrei Marmor)",
-      "indent": 0,
-      "order": 1396
     },
     {
       "kind": "link",
       "path": "r/rule-of-law.md",
       "text": "法治与程序正义 The Rule of Law (Kristen Rundle、Jeremy Waldron)",
       "indent": 0,
-      "order": 1397
+      "order": 1395
     },
     {
       "kind": "link",
-      "path": "l/legal-reas-interpret.md",
-      "text": "法律推理的解释与连贯 Interpretation and Coherence in Legal Reasoning (Julie Dickson)",
+      "path": "l/law-limits.md",
+      "text": "法律的界限 The Limits of Law (John Stanton-Ife)",
       "indent": 0,
-      "order": 1398
+      "order": 1396
+    },
+    {
+      "kind": "link",
+      "path": "l/lawphil-naturalism.md",
+      "text": "法哲学中的自然主义 Naturalism in Legal Philosophy (Brian Leiter、Matthew X. Etchemendy)",
+      "indent": 0,
+      "order": 1397
     },
     {
       "kind": "link",
       "path": "l/legal-interpretation.md",
       "text": "法律解释 Legal Interpretation (Mark Greenberg)",
       "indent": 0,
-      "order": 1399
+      "order": 1398
     },
     {
       "kind": "link",
-      "path": "l/legal-probabilism.md",
-      "text": "法律概然性 Legal Probabilism (Rafal Urbaniak、Marcello Di Bello)",
+      "path": "l/legal-reas-interpret.md",
+      "text": "法律推理的解释与连贯 Interpretation and Coherence in Legal Reasoning (Julie Dickson)",
       "indent": 0,
-      "order": 1400
+      "order": 1399
     },
     {
       "kind": "link",
       "path": "l/legal-reas-prec.md",
       "text": "法律推理中的先例与类推 Precedent and Analogy in Legal Reasoning (Grant Lamond)",
+      "indent": 0,
+      "order": 1400
+    },
+    {
+      "kind": "link",
+      "path": "l/legal-probabilism.md",
+      "text": "法律概然性 Legal Probabilism (Rafal Urbaniak、Marcello Di Bello)",
       "indent": 0,
       "order": 1401
     },
@@ -9824,8 +9824,8 @@
     },
     {
       "kind": "link",
-      "path": "e/experimental-jurisprudence.md",
-      "text": "实验法理学 Experimental Jurisprudence (Kevin Tobia、Guilherme Almeida、Karolina Prochownik、Ivar Hannikainen)",
+      "path": "l/law-language.md",
+      "text": "法律与语言 Law and Language (Timothy Endicott)",
       "indent": 0,
       "order": 1403
     },
@@ -9838,50 +9838,50 @@
     },
     {
       "kind": "link",
-      "path": "l/law-language.md",
-      "text": "法律与语言 Law and Language (Timothy Endicott)",
+      "path": "l/legal-econanalysis.md",
+      "text": "法律经济学 The Economic Analysis of Law (Lewis Kornhauser)",
       "indent": 0,
       "order": 1405
     },
     {
       "kind": "link",
-      "path": "l/legal-econanalysis.md",
-      "text": "法律经济学 The Economic Analysis of Law (Lewis Kornhauser)",
+      "path": "e/experimental-jurisprudence.md",
+      "text": "实验法理学 Experimental Jurisprudence (Kevin Tobia、Guilherme Almeida、Karolina Prochownik、Ivar Hannikainen)",
       "indent": 0,
       "order": 1406
-    },
-    {
-      "kind": "link",
-      "path": "c/causation-law.md",
-      "text": "法律中的因果关系 Causation in the Law (Michael Moore)",
-      "indent": 0,
-      "order": 1407
     },
     {
       "kind": "link",
       "path": "c/contract-law.md",
       "text": "合同法哲学 Philosophy of Contract Law (Daniel Markovits、Emad Atiq)",
       "indent": 0,
-      "order": 1408
+      "order": 1407
     },
     {
       "kind": "link",
-      "path": "i/international-law.md",
-      "text": "国际法哲学 Philosophy of International Law (John Tasioulas、Guglielmo Verdirame)",
+      "path": "t/tort-theories.md",
+      "text": "普通法系下的侵权法理论 Theories of the Common Law of Torts (Arthur Ripstein)",
       "indent": 0,
-      "order": 1409
+      "order": 1408
     },
     {
       "kind": "link",
       "path": "c/criminal-law.md",
       "text": "刑法理论 Theories of Criminal Law (James Edwards)",
       "indent": 0,
+      "order": 1409
+    },
+    {
+      "kind": "link",
+      "path": "c/causation-law.md",
+      "text": "法律中的因果关系 Causation in the Law (Michael Moore)",
+      "indent": 0,
       "order": 1410
     },
     {
       "kind": "link",
-      "path": "t/tort-theories.md",
-      "text": "普通法系下的侵权法理论 Theories of the Common Law of Torts (Arthur Ripstein)",
+      "path": "i/international-law.md",
+      "text": "国际法哲学 Philosophy of International Law (John Tasioulas、Guglielmo Verdirame)",
       "indent": 0,
       "order": 1411
     },
@@ -10041,141 +10041,141 @@
     },
     {
       "kind": "link",
-      "path": "m/music.md",
-      "text": "音乐哲学 The Philosophy of Music (Andrew Kania)",
-      "indent": 0,
-      "order": 1434
-    },
-    {
-      "kind": "link",
-      "path": "b/beardsley-aesthetics.md",
-      "text": "比厄斯利的美学 Beardsley’s Aesthetics (Michael Wreen)",
-      "indent": 0,
-      "order": 1435
-    },
-    {
-      "kind": "link",
       "path": "c/conceptual-art.md",
       "text": "观念艺术 Conceptual Art (Elisabeth Schellekens)",
       "indent": 0,
-      "order": 1436
+      "order": 1434
     },
     {
       "kind": "link",
       "path": "c/creativity.md",
       "text": "创造力 Creativity (Elliot Samuel Paul、Dustin Stokes)",
       "indent": 0,
-      "order": 1437
-    },
-    {
-      "kind": "link",
-      "path": "c/croce-aesthetics.md",
-      "text": "克罗齐的美学 Croce’s Aesthetics (Gary Kemp)",
-      "indent": 0,
-      "order": 1438
-    },
-    {
-      "kind": "link",
-      "path": "d/depiction.md",
-      "text": "描绘 Depiction (John Hyman、Katerina Bantinaki)",
-      "indent": 0,
-      "order": 1439
-    },
-    {
-      "kind": "link",
-      "path": "f/fiction-emotion-response.md",
-      "text": "对虚构的情感反应 Emotional Responses to Fiction (Katie Tullmann)",
-      "indent": 0,
-      "order": 1440
-    },
-    {
-      "kind": "link",
-      "path": "e/erotic-art.md",
-      "text": "情色艺术 Erotic Art (Hans Maes)",
-      "indent": 0,
-      "order": 1441
+      "order": 1435
     },
     {
       "kind": "link",
       "path": "e/experimental-aesthetics.md",
       "text": "艺术与美学的实验哲学 Experimental Philosophy of Art and Aesthetics (Elzė Sigutė Mikalonytė、Ryan Doran、Shen-yi Liao)",
       "indent": 0,
-      "order": 1442
-    },
-    {
-      "kind": "link",
-      "path": "f/fiction.md",
-      "text": "虚构 Fiction (Fred Kroon、Alberto Voltolini)",
-      "indent": 0,
-      "order": 1443
+      "order": 1436
     },
     {
       "kind": "link",
       "path": "a/art-ontology-history.md",
       "text": "艺术本体论史 History of the Ontology of Art (Paisley Livingston)",
       "indent": 0,
-      "order": 1444
+      "order": 1437
+    },
+    {
+      "kind": "link",
+      "path": "m/music.md",
+      "text": "音乐哲学 The Philosophy of Music (Andrew Kania)",
+      "indent": 0,
+      "order": 1438
     },
     {
       "kind": "link",
       "path": "h/hist-westphilmusic-to-1800.md",
       "text": "西方音乐哲学史：古代至 History of Western Philosophy of Music: Antiquity to 1800 (Matteo Ravasio)",
       "indent": 0,
-      "order": 1445
+      "order": 1439
     },
     {
       "kind": "link",
       "path": "h/hist-westphilmusic-since-1800.md",
       "text": "西方音乐哲学史：自 1800 年以来 History of Western Philosophy of Music: since 1800 (Matteo Ravasio)",
       "indent": 0,
-      "order": 1446
-    },
-    {
-      "kind": "link",
-      "path": "a/architecture.md",
-      "text": "建筑哲学 Philosophy of Architecture (Saul Fisher)",
-      "indent": 0,
-      "order": 1447
+      "order": 1440
     },
     {
       "kind": "link",
       "path": "f/film.md",
       "text": "电影哲学 Philosophy of Film (Thomas Wartenberg)",
       "indent": 0,
-      "order": 1448
+      "order": 1441
     },
     {
       "kind": "link",
       "path": "t/theater.md",
       "text": "戏剧哲学 Philosophy of Theater (James R. Hamilton)",
       "indent": 0,
-      "order": 1449
-    },
-    {
-      "kind": "link",
-      "path": "l/langer.md",
-      "text": "苏珊·朗格 Susanne Langer (Juliet Floyd)",
-      "indent": 0,
-      "order": 1450
-    },
-    {
-      "kind": "link",
-      "path": "p/paradox-suspense.md",
-      "text": "悬疑悖论 The Paradox of Suspense (Aaron Smuts)",
-      "indent": 0,
-      "order": 1451
+      "order": 1442
     },
     {
       "kind": "link",
       "path": "d/dance.md",
       "text": "舞蹈哲学 The Philosophy of Dance (Renee Conroy、Aili Bresnahan)",
       "indent": 0,
-      "order": 1452
+      "order": 1443
+    },
+    {
+      "kind": "link",
+      "path": "a/architecture.md",
+      "text": "建筑哲学 Philosophy of Architecture (Saul Fisher)",
+      "indent": 0,
+      "order": 1444
     },
     {
       "kind": "link",
       "path": "d/digital-art.md",
       "text": "数字艺术哲学 The Philosophy of Digital Art (Katherine Thomson-Jones、Shelby Moser)",
+      "indent": 0,
+      "order": 1445
+    },
+    {
+      "kind": "link",
+      "path": "b/beardsley-aesthetics.md",
+      "text": "比厄斯利的美学 Beardsley’s Aesthetics (Michael Wreen)",
+      "indent": 0,
+      "order": 1446
+    },
+    {
+      "kind": "link",
+      "path": "c/croce-aesthetics.md",
+      "text": "克罗齐的美学 Croce’s Aesthetics (Gary Kemp)",
+      "indent": 0,
+      "order": 1447
+    },
+    {
+      "kind": "link",
+      "path": "l/langer.md",
+      "text": "苏珊·朗格 Susanne Langer (Juliet Floyd)",
+      "indent": 0,
+      "order": 1448
+    },
+    {
+      "kind": "link",
+      "path": "f/fiction.md",
+      "text": "虚构 Fiction (Fred Kroon、Alberto Voltolini)",
+      "indent": 0,
+      "order": 1449
+    },
+    {
+      "kind": "link",
+      "path": "f/fiction-emotion-response.md",
+      "text": "对虚构的情感反应 Emotional Responses to Fiction (Katie Tullmann)",
+      "indent": 0,
+      "order": 1450
+    },
+    {
+      "kind": "link",
+      "path": "d/depiction.md",
+      "text": "描绘 Depiction (John Hyman、Katerina Bantinaki)",
+      "indent": 0,
+      "order": 1451
+    },
+    {
+      "kind": "link",
+      "path": "p/paradox-suspense.md",
+      "text": "悬疑悖论 The Paradox of Suspense (Aaron Smuts)",
+      "indent": 0,
+      "order": 1452
+    },
+    {
+      "kind": "link",
+      "path": "e/erotic-art.md",
+      "text": "情色艺术 Erotic Art (Hans Maes)",
       "indent": 0,
       "order": 1453
     },
@@ -10188,64 +10188,64 @@
     },
     {
       "kind": "link",
-      "path": "f/feminism-epistemology.md",
-      "text": "女性主义认识论和科学哲学 Feminist Epistemology and Philosophy of Science (Elizabeth Anderson)",
-      "indent": 0,
-      "order": 1455
-    },
-    {
-      "kind": "link",
-      "path": "f/feminism-ethics.md",
-      "text": "女性主义伦理学 Feminist Ethics (Kathryn Norlock、Jordan Pascoe)",
-      "indent": 0,
-      "order": 1456
-    },
-    {
-      "kind": "link",
       "path": "f/femapproach-analytic.md",
       "text": "分析女性主义 Analytic Feminism (Ann Garry)",
       "indent": 0,
-      "order": 1457
+      "order": 1455
     },
     {
       "kind": "link",
       "path": "f/femapproach-continental.md",
       "text": "欧陆女性主义哲学 Continental Feminism (Dilek Huseyinzadegan、Jana McAuliffe、Jameliah Inga Shorter-Bourhanou、B. Tamsin Kimoto、Ege Selin Islekel、Marie Draz、Erika Brown)",
       "indent": 0,
+      "order": 1456
+    },
+    {
+      "kind": "link",
+      "path": "f/femapproach-analy-cont.md",
+      "text": "分析女性主义与欧陆女性主义之间的交汇 Intersections Between Analytic and Continental Feminism (Georgia Warnke)",
+      "indent": 0,
+      "order": 1457
+    },
+    {
+      "kind": "link",
+      "path": "f/femapproach-prag-cont.md",
+      "text": "实用主义女性主义与欧陆女性主义之间的交汇 Intersections Between Pragmatist and Continental Feminism (Shannon Sullivan、Erin Tarver)",
+      "indent": 0,
       "order": 1458
     },
     {
       "kind": "link",
-      "path": "f/feminism-aesthetics.md",
-      "text": "女性主义美学 Feminist Aesthetics (Carolyn Korsmeyer、Peg Brand Weiser)",
+      "path": "f/femapproach-pragmatism.md",
+      "text": "实用主义女性主义 Pragmatist Feminism (Judy Whipps、Danielle Lake)",
       "indent": 0,
       "order": 1459
+    },
+    {
+      "kind": "link",
+      "path": "f/feminism-ethics.md",
+      "text": "女性主义伦理学 Feminist Ethics (Kathryn Norlock、Jordan Pascoe)",
+      "indent": 0,
+      "order": 1460
     },
     {
       "kind": "link",
       "path": "f/feminist-bioethics.md",
       "text": "女性主义生命伦理学 Feminist Bioethics (Jackie Leach Scully)",
       "indent": 0,
-      "order": 1460
-    },
-    {
-      "kind": "link",
-      "path": "f/feminism-environmental.md",
-      "text": "女性主义环境哲学 Feminist Environmental Philosophy (Karen J. Warren)",
-      "indent": 0,
       "order": 1461
     },
     {
       "kind": "link",
-      "path": "f/feminism-femhist.md",
-      "text": "女性主义哲学史 Feminist History of Philosophy (Charlotte Witt、Lisa Shapiro、Christina Van Dyke、Lydia L. Moland、Marcia Robinson)",
+      "path": "f/feminism-political.md",
+      "text": "女性主义政治哲学 Feminist Political Philosophy (Noëlle McAfee、Katie B. Howard)",
       "indent": 0,
       "order": 1462
     },
     {
       "kind": "link",
-      "path": "f/feminism-metaphysics.md",
-      "text": "女性主义形而上学 Feminist Metaphysics (Katharine Jenkins、Matthew Cull、Sally Haslanger、Ásta)",
+      "path": "f/feminism-liberal.md",
+      "text": "自由主义女性主义 Liberal Feminism (Amy R. Baehr)",
       "indent": 0,
       "order": 1463
     },
@@ -10258,106 +10258,106 @@
     },
     {
       "kind": "link",
-      "path": "f/feminism-argumentation.md",
-      "text": "女性主义对论证的观点 Feminist Perspectives on Argumentation (Catherine E. Hundleby)",
+      "path": "f/feminism-epistemology.md",
+      "text": "女性主义认识论和科学哲学 Feminist Epistemology and Philosophy of Science (Elizabeth Anderson)",
       "indent": 0,
       "order": 1465
-    },
-    {
-      "kind": "link",
-      "path": "f/feminism-disability.md",
-      "text": "女性主义对残疾的观点 Feminist Perspectives on Disability (Anita Silvers)",
-      "indent": 0,
-      "order": 1466
-    },
-    {
-      "kind": "link",
-      "path": "f/feminism-globalization.md",
-      "text": "女性主义对全球化的观点 Feminist Perspectives on Globalization (Serena Parekh、Shelley Wilcox)",
-      "indent": 0,
-      "order": 1467
-    },
-    {
-      "kind": "link",
-      "path": "f/feminism-family.md",
-      "text": "女性主义对生育和家庭的观点 Feminist Perspectives on Reproduction and the Family (Debra Satz)",
-      "indent": 0,
-      "order": 1468
-    },
-    {
-      "kind": "link",
-      "path": "f/feminist-science.md",
-      "text": "女性主义对科学的观点 Feminist Perspectives on Science (Sharon Crasnow)",
-      "indent": 0,
-      "order": 1469
-    },
-    {
-      "kind": "link",
-      "path": "f/feminist-philosophy-biology.md",
-      "text": "女性主义生物学哲学 Feminist Philosophy of Biology (Carla Fehr、Letitia Meynell)",
-      "indent": 0,
-      "order": 1470
-    },
-    {
-      "kind": "link",
-      "path": "f/feminism-language.md",
-      "text": "女性主义语言哲学 Feminist Philosophy of Language (Jennifer Saul、Esa Diaz-Leon、Samia Hesni)",
-      "indent": 0,
-      "order": 1471
-    },
-    {
-      "kind": "link",
-      "path": "f/feminism-law.md",
-      "text": "女性主义法哲学 Feminist Philosophy of Law (Leslie Francis)",
-      "indent": 0,
-      "order": 1472
-    },
-    {
-      "kind": "link",
-      "path": "f/feminist-religion.md",
-      "text": "女性主义宗教哲学 Feminist Philosophy of Religion (Nancy Frankenberry、Mary-Jane Rubenstein)",
-      "indent": 0,
-      "order": 1473
-    },
-    {
-      "kind": "link",
-      "path": "f/feminism-political.md",
-      "text": "女性主义政治哲学 Feminist Political Philosophy (Noëlle McAfee、Katie B. Howard)",
-      "indent": 0,
-      "order": 1474
     },
     {
       "kind": "link",
       "path": "f/feminist-social-epistemology.md",
       "text": "女性主义社会认识论 Feminist Social Epistemology (Heidi Grasswick)",
       "indent": 0,
+      "order": 1466
+    },
+    {
+      "kind": "link",
+      "path": "f/feminist-science.md",
+      "text": "女性主义对科学的观点 Feminist Perspectives on Science (Sharon Crasnow)",
+      "indent": 0,
+      "order": 1467
+    },
+    {
+      "kind": "link",
+      "path": "f/feminist-philosophy-biology.md",
+      "text": "女性主义生物学哲学 Feminist Philosophy of Biology (Carla Fehr、Letitia Meynell)",
+      "indent": 0,
+      "order": 1468
+    },
+    {
+      "kind": "link",
+      "path": "f/feminism-metaphysics.md",
+      "text": "女性主义形而上学 Feminist Metaphysics (Katharine Jenkins、Matthew Cull、Sally Haslanger、Ásta)",
+      "indent": 0,
+      "order": 1469
+    },
+    {
+      "kind": "link",
+      "path": "f/feminism-language.md",
+      "text": "女性主义语言哲学 Feminist Philosophy of Language (Jennifer Saul、Esa Diaz-Leon、Samia Hesni)",
+      "indent": 0,
+      "order": 1470
+    },
+    {
+      "kind": "link",
+      "path": "f/feminism-femhist.md",
+      "text": "女性主义哲学史 Feminist History of Philosophy (Charlotte Witt、Lisa Shapiro、Christina Van Dyke、Lydia L. Moland、Marcia Robinson)",
+      "indent": 0,
+      "order": 1471
+    },
+    {
+      "kind": "link",
+      "path": "f/feminism-aesthetics.md",
+      "text": "女性主义美学 Feminist Aesthetics (Carolyn Korsmeyer、Peg Brand Weiser)",
+      "indent": 0,
+      "order": 1472
+    },
+    {
+      "kind": "link",
+      "path": "f/feminism-environmental.md",
+      "text": "女性主义环境哲学 Feminist Environmental Philosophy (Karen J. Warren)",
+      "indent": 0,
+      "order": 1473
+    },
+    {
+      "kind": "link",
+      "path": "f/feminism-argumentation.md",
+      "text": "女性主义对论证的观点 Feminist Perspectives on Argumentation (Catherine E. Hundleby)",
+      "indent": 0,
+      "order": 1474
+    },
+    {
+      "kind": "link",
+      "path": "f/feminism-disability.md",
+      "text": "女性主义对残疾的观点 Feminist Perspectives on Disability (Anita Silvers)",
+      "indent": 0,
       "order": 1475
     },
     {
       "kind": "link",
-      "path": "f/femapproach-analy-cont.md",
-      "text": "分析女性主义与欧陆女性主义之间的交汇 Intersections Between Analytic and Continental Feminism (Georgia Warnke)",
+      "path": "f/feminism-globalization.md",
+      "text": "女性主义对全球化的观点 Feminist Perspectives on Globalization (Serena Parekh、Shelley Wilcox)",
       "indent": 0,
       "order": 1476
     },
     {
       "kind": "link",
-      "path": "f/femapproach-prag-cont.md",
-      "text": "实用主义女性主义与欧陆女性主义之间的交汇 Intersections Between Pragmatist and Continental Feminism (Shannon Sullivan、Erin Tarver)",
+      "path": "f/feminism-family.md",
+      "text": "女性主义对生育和家庭的观点 Feminist Perspectives on Reproduction and the Family (Debra Satz)",
       "indent": 0,
       "order": 1477
     },
     {
       "kind": "link",
-      "path": "f/feminism-liberal.md",
-      "text": "自由主义女性主义 Liberal Feminism (Amy R. Baehr)",
+      "path": "f/feminism-law.md",
+      "text": "女性主义法哲学 Feminist Philosophy of Law (Leslie Francis)",
       "indent": 0,
       "order": 1478
     },
     {
       "kind": "link",
-      "path": "f/femapproach-pragmatism.md",
-      "text": "实用主义女性主义 Pragmatist Feminism (Judy Whipps、Danielle Lake)",
+      "path": "f/feminist-religion.md",
+      "text": "女性主义宗教哲学 Feminist Philosophy of Religion (Nancy Frankenberry、Mary-Jane Rubenstein)",
       "indent": 0,
       "order": 1479
     },
@@ -10384,92 +10384,92 @@
     },
     {
       "kind": "link",
-      "path": "f/feminism-autonomy.md",
-      "text": "女性主义对自主权的观点 Feminist Perspectives on Autonomy (Natalie Stoljar)",
+      "path": "t/trans.md",
+      "text": "跨性别哲学 Trans Philosophy (Perry Zurn)",
       "indent": 0,
       "order": 1483
-    },
-    {
-      "kind": "link",
-      "path": "f/feminism-class.md",
-      "text": "女性主义对阶级和工作的观点 Feminist Perspectives on Class and Work (Ann Ferguson、Rosemary Hennessy、Mechthild Nagel)",
-      "indent": 0,
-      "order": 1484
-    },
-    {
-      "kind": "link",
-      "path": "f/feminism-objectification.md",
-      "text": "女性主义视角下的物化 Feminist Perspectives on Objectification (Evangelia (Lina) Papadaki)",
-      "indent": 0,
-      "order": 1485
-    },
-    {
-      "kind": "link",
-      "path": "f/feminist-power.md",
-      "text": "女性主义对权力的观点 Feminist Perspectives on Power (Amy Allen)",
-      "indent": 0,
-      "order": 1486
-    },
-    {
-      "kind": "link",
-      "path": "f/feminist-body.md",
-      "text": "女性主义对身体的观点 Feminist Perspectives on the Body (Kathleen Lennon、Clara Fischer)",
-      "indent": 0,
-      "order": 1487
-    },
-    {
-      "kind": "link",
-      "path": "f/feminism-self.md",
-      "text": "女性主义对自我的观点 Feminist Perspectives on the Self (Ellie Anderson、Cynthia Willett、Diana Meyers)",
-      "indent": 0,
-      "order": 1488
-    },
-    {
-      "kind": "link",
-      "path": "f/feminism-trans.md",
-      "text": "女性主义对跨性别议题的观点 Feminist Perspectives on Trans Issues (Talia Bettcher)",
-      "indent": 0,
-      "order": 1489
     },
     {
       "kind": "link",
       "path": "h/homosexuality.md",
       "text": "同性恋 Homosexuality (Brent Pickett)",
       "indent": 0,
+      "order": 1484
+    },
+    {
+      "kind": "link",
+      "path": "f/feminism-autonomy.md",
+      "text": "女性主义对自主权的观点 Feminist Perspectives on Autonomy (Natalie Stoljar)",
+      "indent": 0,
+      "order": 1485
+    },
+    {
+      "kind": "link",
+      "path": "f/feminism-class.md",
+      "text": "女性主义对阶级和工作的观点 Feminist Perspectives on Class and Work (Ann Ferguson、Rosemary Hennessy、Mechthild Nagel)",
+      "indent": 0,
+      "order": 1486
+    },
+    {
+      "kind": "link",
+      "path": "f/feminism-objectification.md",
+      "text": "女性主义视角下的物化 Feminist Perspectives on Objectification (Evangelia (Lina) Papadaki)",
+      "indent": 0,
+      "order": 1487
+    },
+    {
+      "kind": "link",
+      "path": "f/feminist-power.md",
+      "text": "女性主义对权力的观点 Feminist Perspectives on Power (Amy Allen)",
+      "indent": 0,
+      "order": 1488
+    },
+    {
+      "kind": "link",
+      "path": "f/feminist-body.md",
+      "text": "女性主义对身体的观点 Feminist Perspectives on the Body (Kathleen Lennon、Clara Fischer)",
+      "indent": 0,
+      "order": 1489
+    },
+    {
+      "kind": "link",
+      "path": "f/feminism-self.md",
+      "text": "女性主义对自我的观点 Feminist Perspectives on the Self (Ellie Anderson、Cynthia Willett、Diana Meyers)",
+      "indent": 0,
       "order": 1490
     },
     {
       "kind": "link",
-      "path": "t/trans.md",
-      "text": "跨性别哲学 Trans Philosophy (Perry Zurn)",
+      "path": "f/feminism-trans.md",
+      "text": "女性主义对跨性别议题的观点 Feminist Perspectives on Trans Issues (Talia Bettcher)",
       "indent": 0,
       "order": 1491
     },
     {
       "kind": "link",
-      "path": "f/feminism-rape.md",
-      "text": "女性主义对强奸的观点 Feminist Perspectives on Rape (Rebecca Whisnant)",
+      "path": "s/sex-sexuality.md",
+      "text": "性与全性 Sex and Sexuality (Raja Halwani)",
       "indent": 0,
       "order": 1492
-    },
-    {
-      "kind": "link",
-      "path": "f/feminist-sex-markets.md",
-      "text": "女性主义对性产业的观点 Feminist Perspectives on Sex Markets (Lori Watson)",
-      "indent": 0,
-      "order": 1493
     },
     {
       "kind": "link",
       "path": "p/pornography-censorship.md",
       "text": "色情与审查 Pornography and Censorship (Caroline West)",
       "indent": 0,
+      "order": 1493
+    },
+    {
+      "kind": "link",
+      "path": "f/feminism-rape.md",
+      "text": "女性主义对强奸的观点 Feminist Perspectives on Rape (Rebecca Whisnant)",
+      "indent": 0,
       "order": 1494
     },
     {
       "kind": "link",
-      "path": "s/sex-sexuality.md",
-      "text": "性与全性 Sex and Sexuality (Raja Halwani)",
+      "path": "f/feminist-sex-markets.md",
+      "text": "女性主义对性产业的观点 Feminist Perspectives on Sex Markets (Lori Watson)",
       "indent": 0,
       "order": 1495
     },
@@ -10538,99 +10538,99 @@
     },
     {
       "kind": "link",
-      "path": "c/counterfactuals.md",
-      "text": "反事实 Counterfactuals (Willow Starr、Alex Kocurek)",
-      "indent": 0,
-      "order": 1505
-    },
-    {
-      "kind": "link",
       "path": "m/mally.md",
       "text": "恩斯特·马利 Ernst Mally (Alexander Hieke、Gerhard Zecha、Hamid Taieb)",
       "indent": 0,
-      "order": 1506
+      "order": 1505
     },
     {
       "kind": "link",
       "path": "m/mally-deontic.md",
       "text": "恩斯特·马利的道义逻辑 Mally’s Deontic Logic (Gert-Jan Lokhorst、Stefania Centrone、Pierluigi Minari)",
       "indent": 2,
-      "order": 1507
+      "order": 1506
     },
     {
       "kind": "link",
       "path": "b/boole.md",
       "text": "乔治·布尔 George Boole (Stanley Burris、Marcel Jackson)",
       "indent": 0,
-      "order": 1508
+      "order": 1507
     },
     {
       "kind": "link",
       "path": "s/scholz.md",
       "text": "海因里希·肖尔兹 Heinrich Scholz (Volker Peckhaus)",
       "indent": 0,
-      "order": 1509
-    },
-    {
-      "kind": "link",
-      "path": "c/conditionals.md",
-      "text": "直陈条件 Indicative Conditionals (Dorothy Edgington)",
-      "indent": 0,
-      "order": 1510
+      "order": 1508
     },
     {
       "kind": "link",
       "path": "b/brouwer.md",
       "text": "勒伊岑·艾赫贝特斯·扬·布劳威尔 Luitzen Egbertus Jan Brouwer (Mark van Atten)",
       "indent": 0,
-      "order": 1511
-    },
-    {
-      "kind": "link",
-      "path": "l/lvov-warsaw.md",
-      "text": "华沙学派 Lvov-Warsaw School (Jan Woleński)",
-      "indent": 0,
-      "order": 1512
-    },
-    {
-      "kind": "link",
-      "path": "l/lukasiewicz.md",
-      "text": "扬·武卡谢维奇 Jan Łukasiewicz (Peter Simons)",
-      "indent": 2,
-      "order": 1513
-    },
-    {
-      "kind": "link",
-      "path": "l/logic-modal-origins.md",
-      "text": "现代模态逻辑的起源 Modern Origins of Modal Logic (Roberta Ballarin)",
-      "indent": 0,
-      "order": 1514
-    },
-    {
-      "kind": "link",
-      "path": "p/psychologism.md",
-      "text": "心理主义 Psychologism (Martin Kusch)",
-      "indent": 0,
-      "order": 1515
+      "order": 1509
     },
     {
       "kind": "link",
       "path": "l/lesniewski.md",
       "text": "斯坦尼斯瓦夫·莱什涅夫斯基 Stanisław Leśniewski (Peter Simons)",
       "indent": 0,
-      "order": 1516
+      "order": 1510
+    },
+    {
+      "kind": "link",
+      "path": "l/lvov-warsaw.md",
+      "text": "华沙学派 Lvov-Warsaw School (Jan Woleński)",
+      "indent": 0,
+      "order": 1511
+    },
+    {
+      "kind": "link",
+      "path": "l/lukasiewicz.md",
+      "text": "扬·武卡谢维奇 Jan Łukasiewicz (Peter Simons)",
+      "indent": 2,
+      "order": 1512
+    },
+    {
+      "kind": "link",
+      "path": "l/logic-modal-origins.md",
+      "text": "现代模态逻辑的起源 Modern Origins of Modal Logic (Roberta Ballarin)",
+      "indent": 0,
+      "order": 1513
     },
     {
       "kind": "link",
       "path": "i/intuitionistic-logic-development.md",
       "text": "直觉主义逻辑的发展 The Development of Intuitionistic Logic (Mark van Atten)",
       "indent": 0,
-      "order": 1517
+      "order": 1514
     },
     {
       "kind": "link",
       "path": "l/logic-firstorder-emergence.md",
       "text": "一阶逻辑的出现 The Emergence of First-Order Logic (William Ewald)",
+      "indent": 0,
+      "order": 1515
+    },
+    {
+      "kind": "link",
+      "path": "p/psychologism.md",
+      "text": "心理主义 Psychologism (Martin Kusch)",
+      "indent": 0,
+      "order": 1516
+    },
+    {
+      "kind": "link",
+      "path": "c/conditionals.md",
+      "text": "直陈条件 Indicative Conditionals (Dorothy Edgington)",
+      "indent": 0,
+      "order": 1517
+    },
+    {
+      "kind": "link",
+      "path": "c/counterfactuals.md",
+      "text": "反事实 Counterfactuals (Willow Starr、Alex Kocurek)",
       "indent": 0,
       "order": 1518
     },
@@ -10643,78 +10643,78 @@
     },
     {
       "kind": "link",
-      "path": "q/quantification.md",
-      "text": "量词与量化 Quantifiers and Quantification (Gabriel Uzquiano)",
-      "indent": 0,
-      "order": 1520
-    },
-    {
-      "kind": "link",
-      "path": "l/logic-algebraic-propositional.md",
-      "text": "代数命题逻辑 Algebraic Propositional Logic (Ramon Jansana)",
-      "indent": 0,
-      "order": 1521
-    },
-    {
-      "kind": "link",
-      "path": "l/logic-infinitary.md",
-      "text": "无穷逻辑 Infinitary Logic (John L. Bell)",
-      "indent": 0,
-      "order": 1522
-    },
-    {
-      "kind": "link",
-      "path": "l/logical-constants.md",
-      "text": "逻辑常项 Logical Constants (John MacFarlane)",
-      "indent": 0,
-      "order": 1523
-    },
-    {
-      "kind": "link",
-      "path": "d/disjunction.md",
-      "text": "析取/逻辑或 Disjunction (Maria Aloni)",
-      "indent": 2,
-      "order": 1524
-    },
-    {
-      "kind": "link",
-      "path": "n/natural-deduction.md",
-      "text": "逻辑学中的自然演绎系统 Natural Deduction Systems in Logic (Francis Jeffry Pelletier、Allen Hazen)",
-      "indent": 0,
-      "order": 1525
-    },
-    {
-      "kind": "link",
-      "path": "n/necessary-sufficient.md",
-      "text": "必要条件和充分条件 Necessary and Sufficient Conditions (Andrew Brennan)",
-      "indent": 0,
-      "order": 1526
-    },
-    {
-      "kind": "link",
-      "path": "l/logic-dynamic.md",
-      "text": "命题动态逻辑 Propositional Dynamic Logic (Nicolas Troquard、Philippe Balbiani)",
-      "indent": 0,
-      "order": 1527
-    },
-    {
-      "kind": "link",
       "path": "l/logic-propositional.md",
       "text": "命题逻辑 Propositional Logic (Curtis Franks)",
       "indent": 0,
-      "order": 1528
+      "order": 1520
     },
     {
       "kind": "link",
       "path": "c/connectives-logic.md",
       "text": "形式逻辑中的句子连接词 Sentence Connectives in Formal Logic (Lloyd Humberstone)",
       "indent": 0,
-      "order": 1529
+      "order": 1521
+    },
+    {
+      "kind": "link",
+      "path": "l/logical-constants.md",
+      "text": "逻辑常项 Logical Constants (John MacFarlane)",
+      "indent": 0,
+      "order": 1522
+    },
+    {
+      "kind": "link",
+      "path": "d/disjunction.md",
+      "text": "析取/逻辑或 Disjunction (Maria Aloni)",
+      "indent": 2,
+      "order": 1523
+    },
+    {
+      "kind": "link",
+      "path": "n/natural-deduction.md",
+      "text": "逻辑学中的自然演绎系统 Natural Deduction Systems in Logic (Francis Jeffry Pelletier、Allen Hazen)",
+      "indent": 0,
+      "order": 1524
     },
     {
       "kind": "link",
       "path": "s/square.md",
       "text": "传统逻辑方阵 The Traditional Square of Opposition (Terence Parsons、Graziana Ciola)",
+      "indent": 0,
+      "order": 1525
+    },
+    {
+      "kind": "link",
+      "path": "q/quantification.md",
+      "text": "量词与量化 Quantifiers and Quantification (Gabriel Uzquiano)",
+      "indent": 0,
+      "order": 1526
+    },
+    {
+      "kind": "link",
+      "path": "n/necessary-sufficient.md",
+      "text": "必要条件和充分条件 Necessary and Sufficient Conditions (Andrew Brennan)",
+      "indent": 0,
+      "order": 1527
+    },
+    {
+      "kind": "link",
+      "path": "l/logic-algebraic-propositional.md",
+      "text": "代数命题逻辑 Algebraic Propositional Logic (Ramon Jansana)",
+      "indent": 0,
+      "order": 1528
+    },
+    {
+      "kind": "link",
+      "path": "l/logic-infinitary.md",
+      "text": "无穷逻辑 Infinitary Logic (John L. Bell)",
+      "indent": 0,
+      "order": 1529
+    },
+    {
+      "kind": "link",
+      "path": "l/logic-dynamic.md",
+      "text": "命题动态逻辑 Propositional Dynamic Logic (Nicolas Troquard、Philippe Balbiani)",
       "indent": 0,
       "order": 1530
     },
@@ -10727,8 +10727,8 @@
     },
     {
       "kind": "link",
-      "path": "l/logic-intuitionistic.md",
-      "text": "直觉主义逻辑 Intuitionistic Logic (Joan Moschovakis)",
+      "path": "l/logic-temporal.md",
+      "text": "时间逻辑 Temporal Logic (Valentin Goranko、Antje Rumberg)",
       "indent": 0,
       "order": 1532
     },
@@ -10741,274 +10741,274 @@
     },
     {
       "kind": "link",
-      "path": "l/logic-combining.md",
-      "text": "合并逻辑 Combining Logics (Walter Carnielli、Marcelo Esteban Coniglio)",
-      "indent": 0,
-      "order": 1534
-    },
-    {
-      "kind": "link",
-      "path": "l/logic-connexive.md",
-      "text": "连接逻辑 Connexive Logic (Heinrich Wansing)",
-      "indent": 0,
-      "order": 1535
-    },
-    {
-      "kind": "link",
-      "path": "l/logic-deontic.md",
-      "text": "道义逻辑 Deontic Logic (Paul McNamara、Frederik Van De Putte)",
-      "indent": 0,
-      "order": 1536
-    },
-    {
-      "kind": "link",
-      "path": "l/logic-dependence.md",
-      "text": "依赖逻辑 Dependence Logic (Pietro Galliani)",
-      "indent": 0,
-      "order": 1537
-    },
-    {
-      "kind": "link",
-      "path": "l/logic-dialogical.md",
-      "text": "对话逻辑 Dialogical Logic (Nicolas Clerbout、Zoe McConaughey)",
-      "indent": 0,
-      "order": 1538
-    },
-    {
-      "kind": "link",
-      "path": "d/dynamic-epistemic.md",
-      "text": "动态认知逻辑 Dynamic Epistemic Logic (Alexandru Baltag、Bryan Renne)",
-      "indent": 0,
-      "order": 1539
-    },
-    {
-      "kind": "link",
-      "path": "l/logic-epistemic.md",
-      "text": "认知逻辑 Epistemic Logic (Rasmus Rendsvig、John Symons、Yanjing Wang)",
-      "indent": 0,
-      "order": 1540
-    },
-    {
-      "kind": "link",
-      "path": "l/logic-free.md",
-      "text": "自由逻辑 Free Logic (Norbert Gratzl、Edi Pavlović、John Nolt)",
-      "indent": 0,
-      "order": 1541
-    },
-    {
-      "kind": "link",
       "path": "f/future-contingents.md",
       "text": "未来偶然性 Future Contingents (Peter Øhrstrøm、Per Hasle)",
       "indent": 0,
-      "order": 1542
-    },
-    {
-      "kind": "link",
-      "path": "l/logic-fuzzy.md",
-      "text": "模糊逻辑 Fuzzy Logic (Petr Cintula、Christian G. Fermüller、Carles Noguera)",
-      "indent": 0,
-      "order": 1543
-    },
-    {
-      "kind": "link",
-      "path": "g/generalized-quantifiers.md",
-      "text": "广义量词 Generalized Quantifiers (Dag Westerståhl)",
-      "indent": 0,
-      "order": 1544
+      "order": 1534
     },
     {
       "kind": "link",
       "path": "l/logic-hybrid.md",
       "text": "混合逻辑 Hybrid Logic (Torben Braüner)",
       "indent": 0,
-      "order": 1545
-    },
-    {
-      "kind": "link",
-      "path": "h/hyperintensionality.md",
-      "text": "超内涵性 Hyperintensionality (Francesco Berto、Daniel Nolan)",
-      "indent": 0,
-      "order": 1546
-    },
-    {
-      "kind": "link",
-      "path": "l/logic-if.md",
-      "text": "独立友好逻辑 Independence Friendly Logic (Tero Tulenheimo)",
-      "indent": 0,
-      "order": 1547
-    },
-    {
-      "kind": "link",
-      "path": "l/logic-intensional.md",
-      "text": "内涵逻辑 Intensional Logic (Melvin Fitting)",
-      "indent": 0,
-      "order": 1548
-    },
-    {
-      "kind": "link",
-      "path": "l/logic-justification.md",
-      "text": "确证逻辑 Justification Logic (Sergei Artemov、Melvin Fitting、Thomas Studer)",
-      "indent": 0,
-      "order": 1549
-    },
-    {
-      "kind": "link",
-      "path": "l/logic-linear.md",
-      "text": "线性逻辑 Linear Logic (Roberto Di Cosmo、Dale Miller)",
-      "indent": 0,
-      "order": 1550
-    },
-    {
-      "kind": "link",
-      "path": "l/logic-games.md",
-      "text": "逻辑与游戏 Logic and Games (Wilfrid Hodges、Jouko Väänänen)",
-      "indent": 0,
-      "order": 1551
-    },
-    {
-      "kind": "link",
-      "path": "l/logical-pluralism.md",
-      "text": "逻辑多元主义 Logical Pluralism (Gillian Russell、Christopher Blake-Turner)",
-      "indent": 0,
-      "order": 1552
-    },
-    {
-      "kind": "link",
-      "path": "l/logical-truth.md",
-      "text": "逻辑真理 Logical Truth (Mario Gómez-Torrente)",
-      "indent": 0,
-      "order": 1553
-    },
-    {
-      "kind": "link",
-      "path": "l/logics-for-games.md",
-      "text": "分析游戏的逻辑 Logics for Analyzing Games (Johan van Benthem、Dominik Klein)",
-      "indent": 0,
-      "order": 1554
-    },
-    {
-      "kind": "link",
-      "path": "l/logic-many-sorted.md",
-      "text": "多类逻辑 Many-Sorted Logic (María Manzano、Víctor Aranda)",
-      "indent": 0,
-      "order": 1555
-    },
-    {
-      "kind": "link",
-      "path": "l/logic-manyvalued.md",
-      "text": "多值逻辑 Many-Valued Logic (João Marcos、Adam Přenosil、Paul Egré)",
-      "indent": 0,
-      "order": 1556
-    },
-    {
-      "kind": "link",
-      "path": "l/logic-nonmonotonic.md",
-      "text": "非单调逻辑 Non-monotonic Logic (Christian Strasser、G. Aldo Antonelli)",
-      "indent": 0,
-      "order": 1557
-    },
-    {
-      "kind": "link",
-      "path": "l/logic-paraconsistent.md",
-      "text": "次协调逻辑 Paraconsistent Logic (Graham Priest、Koji Tanaka、Zach Weber)",
-      "indent": 0,
-      "order": 1558
+      "order": 1535
     },
     {
       "kind": "link",
       "path": "p/phil-multimodallogic.md",
       "text": "多模态逻辑的哲学方向 Philosophical Aspects of Multi-Modal Logic (Sonja Smets、Fernando Velázquez-Quesada)",
       "indent": 0,
-      "order": 1559
+      "order": 1536
     },
     {
       "kind": "link",
-      "path": "p/plural-quant.md",
-      "text": "多元量化 Plural Quantification (Øystein Linnebo)",
+      "path": "l/logic-intuitionistic.md",
+      "text": "直觉主义逻辑 Intuitionistic Logic (Joan Moschovakis)",
       "indent": 0,
-      "order": 1560
-    },
-    {
-      "kind": "link",
-      "path": "l/logic-provability.md",
-      "text": "可证性逻辑 Provability Logic (Rineke (L.C.) Verbrugge)",
-      "indent": 0,
-      "order": 1561
-    },
-    {
-      "kind": "link",
-      "path": "l/logic-power-games.md",
-      "text": "用于分析标准形式博弈中权力的逻辑 Reasoning About Power in Games (Paolo Turrini、Thomas Ågotnes)",
-      "indent": 0,
-      "order": 1562
-    },
-    {
-      "kind": "link",
-      "path": "l/logic-relevance.md",
-      "text": "相干逻辑 Relevance Logic (Edwin Mares)",
-      "indent": 0,
-      "order": 1563
-    },
-    {
-      "kind": "link",
-      "path": "l/logic-higher-order.md",
-      "text": "二阶逻辑与高阶逻辑 Second-order and Higher-order Logic (Jouko Väänänen)",
-      "indent": 0,
-      "order": 1564
-    },
-    {
-      "kind": "link",
-      "path": "s/situations-semantics.md",
-      "text": "自然语言语义学的情境 Situations in Natural Language Semantics (Angelika Kratzer)",
-      "indent": 0,
-      "order": 1565
+      "order": 1537
     },
     {
       "kind": "link",
       "path": "l/logic-substructural.md",
       "text": "子结构逻辑 Substructural Logics (Greg Restall)",
       "indent": 0,
-      "order": 1566
+      "order": 1538
     },
     {
       "kind": "link",
-      "path": "l/logic-temporal.md",
-      "text": "时间逻辑 Temporal Logic (Valentin Goranko、Antje Rumberg)",
+      "path": "l/logic-linear.md",
+      "text": "线性逻辑 Linear Logic (Roberto Di Cosmo、Dale Miller)",
       "indent": 0,
-      "order": 1567
+      "order": 1539
     },
     {
       "kind": "link",
-      "path": "l/logic-action.md",
-      "text": "行动的逻辑 The Logic of Action (Krister Segerberg、John-Jules Meyer、Marcus Kracht)",
+      "path": "l/logic-manyvalued.md",
+      "text": "多值逻辑 Many-Valued Logic (João Marcos、Adam Přenosil、Paul Egré)",
       "indent": 0,
-      "order": 1568
+      "order": 1540
     },
     {
       "kind": "link",
-      "path": "l/logic-conditionals.md",
-      "text": "条件逻辑 The Logic of Conditionals (Paul Egré、Hans Rott)",
+      "path": "l/logic-fuzzy.md",
+      "text": "模糊逻辑 Fuzzy Logic (Petr Cintula、Christian G. Fermüller、Carles Noguera)",
       "indent": 0,
-      "order": 1569
+      "order": 1541
     },
     {
       "kind": "link",
-      "path": "t/truth-values.md",
-      "text": "真值 Truth Values (Yaroslav Shramko、Heinrich Wansing)",
+      "path": "d/dynamic-epistemic.md",
+      "text": "动态认知逻辑 Dynamic Epistemic Logic (Alexandru Baltag、Bryan Renne)",
       "indent": 0,
-      "order": 1570
+      "order": 1542
+    },
+    {
+      "kind": "link",
+      "path": "l/logic-epistemic.md",
+      "text": "认知逻辑 Epistemic Logic (Rasmus Rendsvig、John Symons、Yanjing Wang)",
+      "indent": 0,
+      "order": 1543
+    },
+    {
+      "kind": "link",
+      "path": "l/logic-justification.md",
+      "text": "确证逻辑 Justification Logic (Sergei Artemov、Melvin Fitting、Thomas Studer)",
+      "indent": 0,
+      "order": 1544
+    },
+    {
+      "kind": "link",
+      "path": "l/logic-provability.md",
+      "text": "可证性逻辑 Provability Logic (Rineke (L.C.) Verbrugge)",
+      "indent": 0,
+      "order": 1545
+    },
+    {
+      "kind": "link",
+      "path": "l/logic-dialogical.md",
+      "text": "对话逻辑 Dialogical Logic (Nicolas Clerbout、Zoe McConaughey)",
+      "indent": 0,
+      "order": 1546
+    },
+    {
+      "kind": "link",
+      "path": "l/logic-relevance.md",
+      "text": "相干逻辑 Relevance Logic (Edwin Mares)",
+      "indent": 0,
+      "order": 1547
+    },
+    {
+      "kind": "link",
+      "path": "l/logic-paraconsistent.md",
+      "text": "次协调逻辑 Paraconsistent Logic (Graham Priest、Koji Tanaka、Zach Weber)",
+      "indent": 0,
+      "order": 1548
+    },
+    {
+      "kind": "link",
+      "path": "l/logic-connexive.md",
+      "text": "连接逻辑 Connexive Logic (Heinrich Wansing)",
+      "indent": 0,
+      "order": 1549
+    },
+    {
+      "kind": "link",
+      "path": "l/logic-dependence.md",
+      "text": "依赖逻辑 Dependence Logic (Pietro Galliani)",
+      "indent": 0,
+      "order": 1550
+    },
+    {
+      "kind": "link",
+      "path": "l/logic-if.md",
+      "text": "独立友好逻辑 Independence Friendly Logic (Tero Tulenheimo)",
+      "indent": 0,
+      "order": 1551
+    },
+    {
+      "kind": "link",
+      "path": "l/logic-free.md",
+      "text": "自由逻辑 Free Logic (Norbert Gratzl、Edi Pavlović、John Nolt)",
+      "indent": 0,
+      "order": 1552
+    },
+    {
+      "kind": "link",
+      "path": "l/logic-higher-order.md",
+      "text": "二阶逻辑与高阶逻辑 Second-order and Higher-order Logic (Jouko Väänänen)",
+      "indent": 0,
+      "order": 1553
+    },
+    {
+      "kind": "link",
+      "path": "g/generalized-quantifiers.md",
+      "text": "广义量词 Generalized Quantifiers (Dag Westerståhl)",
+      "indent": 0,
+      "order": 1554
+    },
+    {
+      "kind": "link",
+      "path": "p/plural-quant.md",
+      "text": "多元量化 Plural Quantification (Øystein Linnebo)",
+      "indent": 0,
+      "order": 1555
+    },
+    {
+      "kind": "link",
+      "path": "l/logic-many-sorted.md",
+      "text": "多类逻辑 Many-Sorted Logic (María Manzano、Víctor Aranda)",
+      "indent": 0,
+      "order": 1556
+    },
+    {
+      "kind": "link",
+      "path": "l/logic-intensional.md",
+      "text": "内涵逻辑 Intensional Logic (Melvin Fitting)",
+      "indent": 0,
+      "order": 1557
+    },
+    {
+      "kind": "link",
+      "path": "h/hyperintensionality.md",
+      "text": "超内涵性 Hyperintensionality (Francesco Berto、Daniel Nolan)",
+      "indent": 0,
+      "order": 1558
+    },
+    {
+      "kind": "link",
+      "path": "l/logic-games.md",
+      "text": "逻辑与游戏 Logic and Games (Wilfrid Hodges、Jouko Väänänen)",
+      "indent": 0,
+      "order": 1559
+    },
+    {
+      "kind": "link",
+      "path": "l/logics-for-games.md",
+      "text": "分析游戏的逻辑 Logics for Analyzing Games (Johan van Benthem、Dominik Klein)",
+      "indent": 0,
+      "order": 1560
+    },
+    {
+      "kind": "link",
+      "path": "l/logic-power-games.md",
+      "text": "用于分析标准形式博弈中权力的逻辑 Reasoning About Power in Games (Paolo Turrini、Thomas Ågotnes)",
+      "indent": 0,
+      "order": 1561
+    },
+    {
+      "kind": "link",
+      "path": "s/situations-semantics.md",
+      "text": "自然语言语义学的情境 Situations in Natural Language Semantics (Angelika Kratzer)",
+      "indent": 0,
+      "order": 1562
     },
     {
       "kind": "link",
       "path": "t/typelogical-grammar.md",
       "text": "类型语法 Typelogical Grammar (Michael Moortgat)",
       "indent": 0,
-      "order": 1571
+      "order": 1563
+    },
+    {
+      "kind": "link",
+      "path": "l/logic-combining.md",
+      "text": "合并逻辑 Combining Logics (Walter Carnielli、Marcelo Esteban Coniglio)",
+      "indent": 0,
+      "order": 1564
+    },
+    {
+      "kind": "link",
+      "path": "t/truth-values.md",
+      "text": "真值 Truth Values (Yaroslav Shramko、Heinrich Wansing)",
+      "indent": 0,
+      "order": 1565
+    },
+    {
+      "kind": "link",
+      "path": "l/logical-truth.md",
+      "text": "逻辑真理 Logical Truth (Mario Gómez-Torrente)",
+      "indent": 0,
+      "order": 1566
+    },
+    {
+      "kind": "link",
+      "path": "l/logical-pluralism.md",
+      "text": "逻辑多元主义 Logical Pluralism (Gillian Russell、Christopher Blake-Turner)",
+      "indent": 0,
+      "order": 1567
+    },
+    {
+      "kind": "link",
+      "path": "l/logic-nonmonotonic.md",
+      "text": "非单调逻辑 Non-monotonic Logic (Christian Strasser、G. Aldo Antonelli)",
+      "indent": 0,
+      "order": 1568
+    },
+    {
+      "kind": "link",
+      "path": "l/logic-action.md",
+      "text": "行动的逻辑 The Logic of Action (Krister Segerberg、John-Jules Meyer、Marcus Kracht)",
+      "indent": 0,
+      "order": 1569
+    },
+    {
+      "kind": "link",
+      "path": "l/logic-conditionals.md",
+      "text": "条件逻辑 The Logic of Conditionals (Paul Egré、Hans Rott)",
+      "indent": 0,
+      "order": 1570
     },
     {
       "kind": "link",
       "path": "v/vagueness.md",
       "text": "模糊性 Vagueness (Roy Sorensen)",
+      "indent": 0,
+      "order": 1571
+    },
+    {
+      "kind": "link",
+      "path": "l/logic-deontic.md",
+      "text": "道义逻辑 Deontic Logic (Paul McNamara、Frederik Van De Putte)",
       "indent": 0,
       "order": 1572
     },
@@ -11021,148 +11021,148 @@
     },
     {
       "kind": "link",
-      "path": "m/model-theory.md",
-      "text": "模型论 Model Theory (Wilfrid Hodges)",
-      "indent": 0,
-      "order": 1574
-    },
-    {
-      "kind": "link",
-      "path": "p/proof-theory.md",
-      "text": "证明论 Proof Theory (Michael Rathjen、Wilfried Sieg)",
-      "indent": 0,
-      "order": 1575
-    },
-    {
-      "kind": "link",
-      "path": "t/type-theory.md",
-      "text": "类型论 Type Theory (Thierry Coquand)",
-      "indent": 0,
-      "order": 1576
-    },
-    {
-      "kind": "link",
       "path": "s/settheory-alternative.md",
       "text": "替代性公理集合论 Alternative Axiomatic Set Theories (M. Randall Holmes)",
       "indent": 0,
-      "order": 1577
-    },
-    {
-      "kind": "link",
-      "path": "c/category-theory.md",
-      "text": "范畴论 Category Theory (Jean-Pierre Marquis)",
-      "indent": 0,
-      "order": 1578
-    },
-    {
-      "kind": "link",
-      "path": "l/logic-combinatory.md",
-      "text": "组合逻辑 Combinatory Logic (Katalin Bimbó)",
-      "indent": 0,
-      "order": 1579
-    },
-    {
-      "kind": "link",
-      "path": "m/modeltheory-fo.md",
-      "text": "一阶模型论 First-order Model Theory (Wilfrid Hodges、Thomas Scanlon)",
-      "indent": 0,
-      "order": 1580
-    },
-    {
-      "kind": "link",
-      "path": "i/independence-large-cardinals.md",
-      "text": "大基数与独立性 Independence and Large Cardinals (Peter Koellner)",
-      "indent": 0,
-      "order": 1581
-    },
-    {
-      "kind": "link",
-      "path": "t/type-theory-intuitionistic.md",
-      "text": "直觉主义类型论 Intuitionistic Type Theory (Peter Dybjer、Erik Palmgren)",
-      "indent": 0,
-      "order": 1582
-    },
-    {
-      "kind": "link",
-      "path": "l/large-cardinals-determinacy.md",
-      "text": "大基数与决定性 Large Cardinals and Determinacy (Peter Koellner)",
-      "indent": 0,
-      "order": 1583
-    },
-    {
-      "kind": "link",
-      "path": "l/logicism.md",
-      "text": "逻辑主义和新逻辑主义 Logicism and Neologicism (Neil Tennant)",
-      "indent": 0,
-      "order": 1584
-    },
-    {
-      "kind": "link",
-      "path": "n/nonwellfounded-set-theory.md",
-      "text": "非良基集合论 Non-wellfounded Set Theory (Lawrence S. Moss)",
-      "indent": 0,
-      "order": 1585
-    },
-    {
-      "kind": "link",
-      "path": "r/recursive-functions.md",
-      "text": "递归函数 Recursive Functions (Walter Dean、Alberto Naibo)",
-      "indent": 0,
-      "order": 1586
-    },
-    {
-      "kind": "link",
-      "path": "r/reverse-mathematics.md",
-      "text": "反推数学 Reverse Mathematics (Benedict Eastaugh)",
-      "indent": 0,
-      "order": 1587
-    },
-    {
-      "kind": "link",
-      "path": "s/set-theory-constructive.md",
-      "text": "集合论：构造主义和直觉主义 Set Theory: Constructive and Intuitionistic ZF (Laura Crosilla)",
-      "indent": 0,
-      "order": 1588
-    },
-    {
-      "kind": "link",
-      "path": "a/algebra-logic-tradition.md",
-      "text": "逻辑代数的传统 The Algebra of Logic Tradition (Stanley Burris、Javier Legris)",
-      "indent": 0,
-      "order": 1589
-    },
-    {
-      "kind": "link",
-      "path": "c/continuum-hypothesis.md",
-      "text": "集合论：连续统假设 The Continuum Hypothesis (Peter Koellner)",
-      "indent": 0,
-      "order": 1590
-    },
-    {
-      "kind": "link",
-      "path": "p/proof-theory-development.md",
-      "text": "证明论的发展 The Development of Proof Theory (Jan von Plato)",
-      "indent": 0,
-      "order": 1591
+      "order": 1574
     },
     {
       "kind": "link",
       "path": "s/settheory-early.md",
       "text": "集合论：集合论的早期发展 The Early Development of Set Theory (José Ferreirós)",
       "indent": 0,
-      "order": 1592
+      "order": 1575
+    },
+    {
+      "kind": "link",
+      "path": "n/nonwellfounded-set-theory.md",
+      "text": "非良基集合论 Non-wellfounded Set Theory (Lawrence S. Moss)",
+      "indent": 0,
+      "order": 1576
+    },
+    {
+      "kind": "link",
+      "path": "s/set-theory-constructive.md",
+      "text": "集合论：构造主义和直觉主义 Set Theory: Constructive and Intuitionistic ZF (Laura Crosilla)",
+      "indent": 0,
+      "order": 1577
+    },
+    {
+      "kind": "link",
+      "path": "z/zermelo-set-theory.md",
+      "text": "策梅洛的公理化集合论 Zermelo’s Axiomatization of Set Theory (Michael Hallett)",
+      "indent": 0,
+      "order": 1578
+    },
+    {
+      "kind": "link",
+      "path": "c/continuum-hypothesis.md",
+      "text": "集合论：连续统假设 The Continuum Hypothesis (Peter Koellner)",
+      "indent": 0,
+      "order": 1579
+    },
+    {
+      "kind": "link",
+      "path": "i/independence-large-cardinals.md",
+      "text": "大基数与独立性 Independence and Large Cardinals (Peter Koellner)",
+      "indent": 0,
+      "order": 1580
+    },
+    {
+      "kind": "link",
+      "path": "l/large-cardinals-determinacy.md",
+      "text": "大基数与决定性 Large Cardinals and Determinacy (Peter Koellner)",
+      "indent": 0,
+      "order": 1581
+    },
+    {
+      "kind": "link",
+      "path": "m/model-theory.md",
+      "text": "模型论 Model Theory (Wilfrid Hodges)",
+      "indent": 0,
+      "order": 1582
+    },
+    {
+      "kind": "link",
+      "path": "m/modeltheory-fo.md",
+      "text": "一阶模型论 First-order Model Theory (Wilfrid Hodges、Thomas Scanlon)",
+      "indent": 0,
+      "order": 1583
+    },
+    {
+      "kind": "link",
+      "path": "p/proof-theory.md",
+      "text": "证明论 Proof Theory (Michael Rathjen、Wilfried Sieg)",
+      "indent": 0,
+      "order": 1584
+    },
+    {
+      "kind": "link",
+      "path": "p/proof-theory-development.md",
+      "text": "证明论的发展 The Development of Proof Theory (Jan von Plato)",
+      "indent": 0,
+      "order": 1585
+    },
+    {
+      "kind": "link",
+      "path": "r/reverse-mathematics.md",
+      "text": "反推数学 Reverse Mathematics (Benedict Eastaugh)",
+      "indent": 0,
+      "order": 1586
+    },
+    {
+      "kind": "link",
+      "path": "t/type-theory.md",
+      "text": "类型论 Type Theory (Thierry Coquand)",
+      "indent": 0,
+      "order": 1587
+    },
+    {
+      "kind": "link",
+      "path": "t/type-theory-intuitionistic.md",
+      "text": "直觉主义类型论 Intuitionistic Type Theory (Peter Dybjer、Erik Palmgren)",
+      "indent": 0,
+      "order": 1588
+    },
+    {
+      "kind": "link",
+      "path": "l/lambda-calculus.md",
+      "text": "λ 演算 The Lambda Calculus (Jesse Alama、Johannes Korbmacher)",
+      "indent": 0,
+      "order": 1589
+    },
+    {
+      "kind": "link",
+      "path": "l/logic-combinatory.md",
+      "text": "组合逻辑 Combinatory Logic (Katalin Bimbó)",
+      "indent": 0,
+      "order": 1590
+    },
+    {
+      "kind": "link",
+      "path": "r/recursive-functions.md",
+      "text": "递归函数 Recursive Functions (Walter Dean、Alberto Naibo)",
+      "indent": 0,
+      "order": 1591
     },
     {
       "kind": "link",
       "path": "e/epsilon-calculus.md",
       "text": "ε 演算 The Epsilon Calculus (Jeremy Avigad、Richard Zach)",
       "indent": 0,
+      "order": 1592
+    },
+    {
+      "kind": "link",
+      "path": "c/category-theory.md",
+      "text": "范畴论 Category Theory (Jean-Pierre Marquis)",
+      "indent": 0,
       "order": 1593
     },
     {
       "kind": "link",
-      "path": "l/lambda-calculus.md",
-      "text": "λ 演算 The Lambda Calculus (Jesse Alama、Johannes Korbmacher)",
+      "path": "a/algebra-logic-tradition.md",
+      "text": "逻辑代数的传统 The Algebra of Logic Tradition (Stanley Burris、Javier Legris)",
       "indent": 0,
       "order": 1594
     },
@@ -11175,71 +11175,71 @@
     },
     {
       "kind": "link",
-      "path": "z/zermelo-set-theory.md",
-      "text": "策梅洛的公理化集合论 Zermelo’s Axiomatization of Set Theory (Michael Hallett)",
+      "path": "l/logicism.md",
+      "text": "逻辑主义和新逻辑主义 Logicism and Neologicism (Neil Tennant)",
       "indent": 0,
       "order": 1596
-    },
-    {
-      "kind": "link",
-      "path": "r/reasoning-analogy.md",
-      "text": "类比与类比推理 Analogy and Analogical Reasoning (Paul Bartha)",
-      "indent": 0,
-      "order": 1597
     },
     {
       "kind": "link",
       "path": "a/argument.md",
       "text": "论证与论辩 Argument and Argumentation (Catarina Dutilh Novaes、Marcin Lewiński)",
       "indent": 0,
+      "order": 1597
+    },
+    {
+      "kind": "link",
+      "path": "r/reasoning-analogy.md",
+      "text": "类比与类比推理 Analogy and Analogical Reasoning (Paul Bartha)",
+      "indent": 0,
       "order": 1598
-    },
-    {
-      "kind": "link",
-      "path": "c/contradiction.md",
-      "text": "矛盾 Contradiction (Laurence R. Horn)",
-      "indent": 0,
-      "order": 1599
-    },
-    {
-      "kind": "link",
-      "path": "c/curry-paradox.md",
-      "text": "柯里悖论 Curry’s Paradox (Lionel Shapiro、Jc Beall)",
-      "indent": 0,
-      "order": 1600
-    },
-    {
-      "kind": "link",
-      "path": "f/fallacies.md",
-      "text": "谬误 Fallacies (Hans Hansen)",
-      "indent": 0,
-      "order": 1601
-    },
-    {
-      "kind": "link",
-      "path": "l/logic-inductive.md",
-      "text": "归纳逻辑 Inductive Logic (James Hawthorne)",
-      "indent": 0,
-      "order": 1602
-    },
-    {
-      "kind": "link",
-      "path": "i/infinite-regress.md",
-      "text": "无限倒退论证 Infinite Regress Arguments (Ross Cameron)",
-      "indent": 0,
-      "order": 1603
     },
     {
       "kind": "link",
       "path": "l/logic-informal.md",
       "text": "非形式逻辑 Informal Logic (Leo Groarke)",
       "indent": 0,
+      "order": 1599
+    },
+    {
+      "kind": "link",
+      "path": "f/fallacies.md",
+      "text": "谬误 Fallacies (Hans Hansen)",
+      "indent": 0,
+      "order": 1600
+    },
+    {
+      "kind": "link",
+      "path": "i/infinite-regress.md",
+      "text": "无限倒退论证 Infinite Regress Arguments (Ross Cameron)",
+      "indent": 0,
+      "order": 1601
+    },
+    {
+      "kind": "link",
+      "path": "c/curry-paradox.md",
+      "text": "柯里悖论 Curry’s Paradox (Lionel Shapiro、Jc Beall)",
+      "indent": 0,
+      "order": 1602
+    },
+    {
+      "kind": "link",
+      "path": "p/paradox-skolem.md",
+      "text": "斯科伦悖论 Skolem’s Paradox (Timothy Bays)",
+      "indent": 0,
+      "order": 1603
+    },
+    {
+      "kind": "link",
+      "path": "p/paradoxes-contemporary-logic.md",
+      "text": "悖论与现代逻辑 Paradoxes and Contemporary Logic (Andrea Cantini、Riccardo Bruni)",
+      "indent": 0,
       "order": 1604
     },
     {
       "kind": "link",
-      "path": "l/logic-probability.md",
-      "text": "逻辑与概率 Logic and Probability (Lorenz Demey、Barteld Kooi、Joshua Sack)",
+      "path": "c/contradiction.md",
+      "text": "矛盾 Contradiction (Laurence R. Horn)",
       "indent": 0,
       "order": 1605
     },
@@ -11252,15 +11252,15 @@
     },
     {
       "kind": "link",
-      "path": "p/paradoxes-contemporary-logic.md",
-      "text": "悖论与现代逻辑 Paradoxes and Contemporary Logic (Andrea Cantini、Riccardo Bruni)",
+      "path": "l/logic-inductive.md",
+      "text": "归纳逻辑 Inductive Logic (James Hawthorne)",
       "indent": 0,
       "order": 1607
     },
     {
       "kind": "link",
-      "path": "p/paradox-skolem.md",
-      "text": "斯科伦悖论 Skolem’s Paradox (Timothy Bays)",
+      "path": "l/logic-probability.md",
+      "text": "逻辑与概率 Logic and Probability (Lorenz Demey、Barteld Kooi、Joshua Sack)",
       "indent": 0,
       "order": 1608
     },
@@ -11280,22 +11280,22 @@
     },
     {
       "kind": "link",
-      "path": "t/thomas-kuhn.md",
-      "text": "托马斯·库恩 Thomas Kuhn (Alexander Bird)",
+      "path": "l/lakatos.md",
+      "text": "伊姆雷·拉卡托斯 Imre Lakatos (Alan Musgrave、Charles Pigden)",
       "indent": 0,
       "order": 1611
     },
     {
       "kind": "link",
-      "path": "l/lakatos.md",
-      "text": "伊姆雷·拉卡托斯 Imre Lakatos (Alan Musgrave、Charles Pigden)",
+      "path": "t/thomas-kuhn.md",
+      "text": "托马斯·库恩 Thomas Kuhn (Alexander Bird)",
       "indent": 0,
       "order": 1612
     },
     {
       "kind": "link",
-      "path": "l/logical-empiricism.md",
-      "text": "逻辑经验主义 Logical Empiricism (Richard Creath)",
+      "path": "f/feyerabend.md",
+      "text": "保罗·费耶阿本德 Paul Feyerabend (Eric Oberheim、John Preston)",
       "indent": 0,
       "order": 1613
     },
@@ -11308,8 +11308,8 @@
     },
     {
       "kind": "link",
-      "path": "f/feyerabend.md",
-      "text": "保罗·费耶阿本德 Paul Feyerabend (Eric Oberheim、John Preston)",
+      "path": "l/logical-empiricism.md",
+      "text": "逻辑经验主义 Logical Empiricism (Richard Creath)",
       "indent": 0,
       "order": 1615
     },
@@ -11336,15 +11336,15 @@
     },
     {
       "kind": "link",
-      "path": "c/confirmation.md",
-      "text": "确证 Confirmation (Vincenzo Crupi)",
+      "path": "s/scientific-discovery.md",
+      "text": "科学发现 Scientific Discovery (Jutta Schickore)",
       "indent": 0,
       "order": 1619
     },
     {
       "kind": "link",
-      "path": "b/bayes-theorem.md",
-      "text": "贝叶斯定理 Bayes’ Theorem (James Joyce)",
+      "path": "t/thought-experiment.md",
+      "text": "思想实验 Thought Experiments (James Robert Brown、Yiftach Fehige)",
       "indent": 0,
       "order": 1620
     },
@@ -11357,71 +11357,71 @@
     },
     {
       "kind": "link",
-      "path": "e/experimental-philosophy.md",
-      "text": "实验哲学 Experimental Philosophy (Justin Sytsma、Kevin Reuter、Pascale Willemsen)",
+      "path": "o/operationalism.md",
+      "text": "操作主义 Operationalism (Hasok Chang)",
       "indent": 0,
       "order": 1622
     },
     {
       "kind": "link",
-      "path": "o/operationalism.md",
-      "text": "操作主义 Operationalism (Hasok Chang)",
+      "path": "c/confirmation.md",
+      "text": "确证 Confirmation (Vincenzo Crupi)",
       "indent": 0,
       "order": 1623
+    },
+    {
+      "kind": "link",
+      "path": "b/bayes-theorem.md",
+      "text": "贝叶斯定理 Bayes’ Theorem (James Joyce)",
+      "indent": 0,
+      "order": 1624
     },
     {
       "kind": "link",
       "path": "p/prediction-accommodation.md",
       "text": "预测与迁就 Prediction versus Accommodation (Eric Christian Barnes)",
       "indent": 0,
-      "order": 1624
-    },
-    {
-      "kind": "link",
-      "path": "p/pseudo-science.md",
-      "text": "科学与伪科学 Science and Pseudo-Science (Sven Ove Hansson)",
-      "indent": 0,
       "order": 1625
-    },
-    {
-      "kind": "link",
-      "path": "s/scientific-discovery.md",
-      "text": "科学发现 Scientific Discovery (Jutta Schickore)",
-      "indent": 0,
-      "order": 1626
-    },
-    {
-      "kind": "link",
-      "path": "s/scientific-pluralism.md",
-      "text": "科学多元主义 Scientific Pluralism (David Ludwig、Stéphanie Ruphy)",
-      "indent": 0,
-      "order": 1627
     },
     {
       "kind": "link",
       "path": "s/simplicity.md",
       "text": "简单性 Simplicity (Alan Baker)",
       "indent": 0,
+      "order": 1626
+    },
+    {
+      "kind": "link",
+      "path": "p/pseudo-science.md",
+      "text": "科学与伪科学 Science and Pseudo-Science (Sven Ove Hansson)",
+      "indent": 0,
+      "order": 1627
+    },
+    {
+      "kind": "link",
+      "path": "s/scientific-pluralism.md",
+      "text": "科学多元主义 Scientific Pluralism (David Ludwig、Stéphanie Ruphy)",
+      "indent": 0,
       "order": 1628
     },
     {
       "kind": "link",
-      "path": "t/thought-experiment.md",
-      "text": "思想实验 Thought Experiments (James Robert Brown、Yiftach Fehige)",
+      "path": "e/experimental-philosophy.md",
+      "text": "实验哲学 Experimental Philosophy (Justin Sytsma、Kevin Reuter、Pascale Willemsen)",
       "indent": 0,
       "order": 1629
     },
     {
       "kind": "link",
-      "path": "c/causal-explanation-science.md",
-      "text": "科学解释的因果方法 Causal Approaches to Scientific Explanation (Lauren Ross、James Woodward)",
+      "path": "s/scientific-explanation-20th.md",
+      "text": "20 世纪的科学解释理论 20th Century Theories of Scientific Explanation (James Woodward、Lauren Ross)",
       "indent": 0,
       "order": 1630
     },
     {
       "kind": "link",
-      "path": "c/ceteris-paribus.md",
-      "text": "其他条件不变律 Ceteris Paribus Laws (Alexander Reutlinger、Gerhard Schurz、Andreas Hüttemann、Siegfried Jaag)",
+      "path": "c/causal-explanation-science.md",
+      "text": "科学解释的因果方法 Causal Approaches to Scientific Explanation (Lauren Ross、James Woodward)",
       "indent": 0,
       "order": 1631
     },
@@ -11434,8 +11434,8 @@
     },
     {
       "kind": "link",
-      "path": "s/scientific-explanation-20th.md",
-      "text": "20 世纪的科学解释理论 20th Century Theories of Scientific Explanation (James Woodward、Lauren Ross)",
+      "path": "c/ceteris-paribus.md",
+      "text": "其他条件不变律 Ceteris Paribus Laws (Alexander Reutlinger、Gerhard Schurz、Andreas Hüttemann、Siegfried Jaag)",
       "indent": 0,
       "order": 1633
     },
@@ -11448,8 +11448,8 @@
     },
     {
       "kind": "link",
-      "path": "c/constructive-empiricism.md",
-      "text": "建构经验论 Constructive Empiricism (Chad Mohler、Bradley Monton)",
+      "path": "s/structural-realism.md",
+      "text": "结构实在论 Structural Realism (James Ladyman)",
       "indent": 0,
       "order": 1635
     },
@@ -11462,15 +11462,15 @@
     },
     {
       "kind": "link",
-      "path": "s/scientific-reduction.md",
-      "text": "科学还原论 Scientific Reduction (Raphael van Riel、Robert Van Gulick)",
+      "path": "c/constructive-empiricism.md",
+      "text": "建构经验论 Constructive Empiricism (Chad Mohler、Bradley Monton)",
       "indent": 0,
       "order": 1637
     },
     {
       "kind": "link",
-      "path": "s/structural-realism.md",
-      "text": "结构实在论 Structural Realism (James Ladyman)",
+      "path": "s/scientific-underdetermination.md",
+      "text": "科学理论的非充分决定性 Underdetermination of Scientific Theory (Kyle Stanford)",
       "indent": 0,
       "order": 1638
     },
@@ -11490,50 +11490,50 @@
     },
     {
       "kind": "link",
-      "path": "s/scientific-underdetermination.md",
-      "text": "科学理论的非充分决定性 Underdetermination of Scientific Theory (Kyle Stanford)",
+      "path": "s/scientific-reduction.md",
+      "text": "科学还原论 Scientific Reduction (Raphael van Riel、Robert Van Gulick)",
       "indent": 0,
       "order": 1641
-    },
-    {
-      "kind": "link",
-      "path": "l/laws-of-nature.md",
-      "text": "自然法则 Laws of Nature (John W. Carroll)",
-      "indent": 0,
-      "order": 1642
-    },
-    {
-      "kind": "link",
-      "path": "a/agent-modeling-philscience.md",
-      "text": "科学哲学中基于主体的模型 Agent-Based Modeling in the Philosophy of Science (Dunja Šešelja)",
-      "indent": 0,
-      "order": 1643
-    },
-    {
-      "kind": "link",
-      "path": "s/simulations-science.md",
-      "text": "科学中的计算机模拟 Computer Simulations in Science (Eric Winsberg、Ramon Alvarado)",
-      "indent": 0,
-      "order": 1644
     },
     {
       "kind": "link",
       "path": "m/models-science.md",
       "text": "科学模型 Models in Science (Roman Frigg、Stephan Hartmann)",
       "indent": 0,
-      "order": 1645
+      "order": 1642
+    },
+    {
+      "kind": "link",
+      "path": "s/structure-scientific-theories.md",
+      "text": "科学理论的结构 The Structure of Scientific Theories (Rasmus Grønfeldt Winther)",
+      "indent": 0,
+      "order": 1643
     },
     {
       "kind": "link",
       "path": "s/scientific-representation.md",
       "text": "科学表征 Scientific Representation (Roman Frigg、James Nguyen)",
       "indent": 0,
+      "order": 1644
+    },
+    {
+      "kind": "link",
+      "path": "l/laws-of-nature.md",
+      "text": "自然法则 Laws of Nature (John W. Carroll)",
+      "indent": 0,
+      "order": 1645
+    },
+    {
+      "kind": "link",
+      "path": "s/simulations-science.md",
+      "text": "科学中的计算机模拟 Computer Simulations in Science (Eric Winsberg、Ramon Alvarado)",
+      "indent": 0,
       "order": 1646
     },
     {
       "kind": "link",
-      "path": "s/structure-scientific-theories.md",
-      "text": "科学理论的结构 The Structure of Scientific Theories (Rasmus Grønfeldt Winther)",
+      "path": "a/agent-modeling-philscience.md",
+      "text": "科学哲学中基于主体的模型 Agent-Based Modeling in the Philosophy of Science (Dunja Šešelja)",
       "indent": 0,
       "order": 1647
     },
@@ -11553,22 +11553,22 @@
     },
     {
       "kind": "link",
-      "path": "r/rationality-historicist.md",
-      "text": "科学理性的历史主义 Historicist Theories of Scientific Rationality (Thomas Nickles)",
+      "path": "s/scientific-progress.md",
+      "text": "科学进步 Scientific Progress (Ilkka Niiniluoto)",
       "indent": 0,
       "order": 1650
     },
     {
       "kind": "link",
-      "path": "s/scientific-progress.md",
-      "text": "科学进步 Scientific Progress (Ilkka Niiniluoto)",
+      "path": "s/scientific-revolutions.md",
+      "text": "科学革命 Scientific Revolutions (Thomas Nickles)",
       "indent": 0,
       "order": 1651
     },
     {
       "kind": "link",
-      "path": "s/scientific-revolutions.md",
-      "text": "科学革命 Scientific Revolutions (Thomas Nickles)",
+      "path": "r/rationality-historicist.md",
+      "text": "科学理性的历史主义 Historicist Theories of Scientific Rationality (Thomas Nickles)",
       "indent": 0,
       "order": 1652
     },
@@ -11588,29 +11588,29 @@
     },
     {
       "kind": "link",
-      "path": "s/scientific-reproducibility.md",
-      "text": "科学结果的可重复性 Reproducibility of Scientific Results (Fiona Fidler、John Wilcox)",
+      "path": "s/scientific-objectivity.md",
+      "text": "科学客观性 Scientific Objectivity (Julian Reiss、Jan Sprenger)",
       "indent": 0,
       "order": 1655
     },
     {
       "kind": "link",
-      "path": "s/scientific-objectivity.md",
-      "text": "科学客观性 Scientific Objectivity (Julian Reiss、Jan Sprenger)",
+      "path": "s/scientific-reproducibility.md",
+      "text": "科学结果的可重复性 Reproducibility of Scientific Results (Fiona Fidler、John Wilcox)",
       "indent": 0,
       "order": 1656
     },
     {
       "kind": "link",
-      "path": "s/science-big-data.md",
-      "text": "科学研究与大数据 Scientific Research and Big Data (Sabina Leonelli)",
+      "path": "s/scientific-knowledge-social.md",
+      "text": "科学知识的社会维度 The Social Dimensions of Scientific Knowledge (Helen Longino)",
       "indent": 0,
       "order": 1657
     },
     {
       "kind": "link",
-      "path": "s/scientific-knowledge-social.md",
-      "text": "科学知识的社会维度 The Social Dimensions of Scientific Knowledge (Helen Longino)",
+      "path": "s/science-big-data.md",
+      "text": "科学研究与大数据 Scientific Research and Big Data (Sabina Leonelli)",
       "indent": 0,
       "order": 1658
     },
@@ -11966,246 +11966,246 @@
     },
     {
       "kind": "link",
-      "path": "e/evolution.md",
-      "text": "进化 Evolution (Roberta L. Millstein)",
+      "path": "l/life.md",
+      "text": "生命 Life (Carlos Mariscal)",
       "indent": 0,
       "order": 1709
-    },
-    {
-      "kind": "link",
-      "path": "n/natural-selection.md",
-      "text": "自然选择 Natural Selection (Peter Gildenhuys)",
-      "indent": 0,
-      "order": 1710
-    },
-    {
-      "kind": "link",
-      "path": "s/species.md",
-      "text": "物种 Species (Marc Ereshefsky)",
-      "indent": 0,
-      "order": 1711
-    },
-    {
-      "kind": "link",
-      "path": "a/adaptationism.md",
-      "text": "适应主义 Adaptationism (Steven Hecht Orzack、Patrick Forber)",
-      "indent": 0,
-      "order": 1712
-    },
-    {
-      "kind": "link",
-      "path": "c/cognition-animal.md",
-      "text": "动物认知 Animal Cognition (Kristin Andrews、Susana Monsó)",
-      "indent": 0,
-      "order": 1713
-    },
-    {
-      "kind": "link",
-      "path": "a/animal-communication.md",
-      "text": "动物交流 Animal Communication (Richard Moore、Giulia Palazzolo)",
-      "indent": 0,
-      "order": 1714
-    },
-    {
-      "kind": "link",
-      "path": "a/animal-normativity.md",
-      "text": "动物规范性 Animal Normativity (Simon Fitzpatrick)",
-      "indent": 0,
-      "order": 1715
-    },
-    {
-      "kind": "link",
-      "path": "a/animal-social-cognition.md",
-      "text": "动物社会认知 Animal Social Cognition (Cameron Buckner)",
-      "indent": 0,
-      "order": 1716
-    },
-    {
-      "kind": "link",
-      "path": "a/animal-thought.md",
-      "text": "动物思维 Animal Thought (Laura Danón)",
-      "indent": 0,
-      "order": 1717
-    },
-    {
-      "kind": "link",
-      "path": "b/biodiversity.md",
-      "text": "生物多样性 Biodiversity (Daniel P. Faith)",
-      "indent": 0,
-      "order": 1718
-    },
-    {
-      "kind": "link",
-      "path": "a/altruism-biological.md",
-      "text": "生物利他主义 Biological Altruism (Samir Okasha)",
-      "indent": 0,
-      "order": 1719
     },
     {
       "kind": "link",
       "path": "b/biology-individual.md",
       "text": "生物学个体 Biological Individuals (Robert A. Wilson、Matthew J. Barker)",
       "indent": 0,
-      "order": 1720
-    },
-    {
-      "kind": "link",
-      "path": "c/conservation-biology.md",
-      "text": "保育生物学 Conservation Biology (Jay Odenbaugh)",
-      "indent": 0,
-      "order": 1721
-    },
-    {
-      "kind": "link",
-      "path": "c/creationism.md",
-      "text": "神创论 Creationism (Michael Ruse)",
-      "indent": 0,
-      "order": 1722
-    },
-    {
-      "kind": "link",
-      "path": "o/origin-descent.md",
-      "text": "达尔文：从《物种起源》到《人类的由来》 Darwin: From the Origin of Species to the Descent of Man (Phillip Sloan)",
-      "indent": 0,
-      "order": 1723
-    },
-    {
-      "kind": "link",
-      "path": "d/darwinism.md",
-      "text": "达尔文主义 Darwinism (James Lennox、Charles H. Pence)",
-      "indent": 0,
-      "order": 1724
-    },
-    {
-      "kind": "link",
-      "path": "b/biology-developmental.md",
-      "text": "发育生物学 Developmental Biology (Alan Love、Yoshinari Yoshida)",
-      "indent": 0,
-      "order": 1725
-    },
-    {
-      "kind": "link",
-      "path": "e/ecological-genetics.md",
-      "text": "生态遗传学 Ecological Genetics (Michael Wade)",
-      "indent": 0,
-      "order": 1726
-    },
-    {
-      "kind": "link",
-      "path": "e/ecology.md",
-      "text": "生态学 Ecology (Alkistis Elliott-Graves)",
-      "indent": 0,
-      "order": 1727
-    },
-    {
-      "kind": "link",
-      "path": "e/evolution-development.md",
-      "text": "进化和发育 Evolution and Development (Jan Baedke、Scott F. Gilbert)",
-      "indent": 0,
-      "order": 1728
-    },
-    {
-      "kind": "link",
-      "path": "e/epistemology-evolutionary.md",
-      "text": "进化认识论 Evolutionary Epistemology (Michael Bradie、William Harms)",
-      "indent": 0,
-      "order": 1729
-    },
-    {
-      "kind": "link",
-      "path": "e/evolution-before-darwin.md",
-      "text": "达尔文之前的进化思想 Evolutionary Thought Before Darwin (Phillip Sloan)",
-      "indent": 0,
-      "order": 1730
-    },
-    {
-      "kind": "link",
-      "path": "b/biology-experiment.md",
-      "text": "生物学实验 Experiment in Biology (Marcel Weber)",
-      "indent": 0,
-      "order": 1731
-    },
-    {
-      "kind": "link",
-      "path": "f/fitness.md",
-      "text": "适合度 Fitness (Alexander Rosenberg、Frederic Bouchard)",
-      "indent": 0,
-      "order": 1732
-    },
-    {
-      "kind": "link",
-      "path": "g/gene.md",
-      "text": "基因 Gene (Robert Meunier)",
-      "indent": 0,
-      "order": 1733
-    },
-    {
-      "kind": "link",
-      "path": "g/genetic-drift.md",
-      "text": "遗传漂变 Genetic Drift (Roberta L. Millstein)",
-      "indent": 0,
-      "order": 1734
-    },
-    {
-      "kind": "link",
-      "path": "g/genetics.md",
-      "text": "遗传学 Genetics (James Tabery)",
-      "indent": 0,
-      "order": 1735
-    },
-    {
-      "kind": "link",
-      "path": "g/genomics.md",
-      "text": "基因组学和后基因组学 Genomics and Postgenomics (Stephan Guttinger、John Dupré)",
-      "indent": 0,
-      "order": 1736
-    },
-    {
-      "kind": "link",
-      "path": "h/heritability.md",
-      "text": "遗传力 Heritability (Stephen M. Downes、Lucas Matthews)",
-      "indent": 0,
-      "order": 1737
-    },
-    {
-      "kind": "link",
-      "path": "i/inheritance-systems.md",
-      "text": "遗传系统 Inheritance Systems (Ehud Lamm)",
-      "indent": 0,
-      "order": 1738
+      "order": 1710
     },
     {
       "kind": "link",
       "path": "l/levels-org-biology.md",
       "text": "生物学中的组织层级 Levels of Organization in Biology (Markus I. Eronen、Daniel Stephen Brooks)",
       "indent": 0,
-      "order": 1739
+      "order": 1711
     },
     {
       "kind": "link",
-      "path": "l/life.md",
-      "text": "生命 Life (Carlos Mariscal)",
+      "path": "e/evolution.md",
+      "text": "进化 Evolution (Roberta L. Millstein)",
       "indent": 0,
-      "order": 1740
+      "order": 1712
+    },
+    {
+      "kind": "link",
+      "path": "n/natural-selection.md",
+      "text": "自然选择 Natural Selection (Peter Gildenhuys)",
+      "indent": 0,
+      "order": 1713
+    },
+    {
+      "kind": "link",
+      "path": "a/adaptationism.md",
+      "text": "适应主义 Adaptationism (Steven Hecht Orzack、Patrick Forber)",
+      "indent": 0,
+      "order": 1714
+    },
+    {
+      "kind": "link",
+      "path": "f/fitness.md",
+      "text": "适合度 Fitness (Alexander Rosenberg、Frederic Bouchard)",
+      "indent": 0,
+      "order": 1715
+    },
+    {
+      "kind": "link",
+      "path": "g/genetic-drift.md",
+      "text": "遗传漂变 Genetic Drift (Roberta L. Millstein)",
+      "indent": 0,
+      "order": 1716
+    },
+    {
+      "kind": "link",
+      "path": "s/selection-units.md",
+      "text": "选择的单位与层次 Units and Levels of Selection (Elisabeth Lloyd)",
+      "indent": 0,
+      "order": 1717
+    },
+    {
+      "kind": "link",
+      "path": "a/altruism-biological.md",
+      "text": "生物利他主义 Biological Altruism (Samir Okasha)",
+      "indent": 0,
+      "order": 1718
+    },
+    {
+      "kind": "link",
+      "path": "s/sociobiology.md",
+      "text": "社会生物学 Sociobiology (Catherine Driscoll)",
+      "indent": 0,
+      "order": 1719
+    },
+    {
+      "kind": "link",
+      "path": "s/species.md",
+      "text": "物种 Species (Marc Ereshefsky)",
+      "indent": 0,
+      "order": 1720
+    },
+    {
+      "kind": "link",
+      "path": "o/origin-descent.md",
+      "text": "达尔文：从《物种起源》到《人类的由来》 Darwin: From the Origin of Species to the Descent of Man (Phillip Sloan)",
+      "indent": 0,
+      "order": 1721
+    },
+    {
+      "kind": "link",
+      "path": "d/darwinism.md",
+      "text": "达尔文主义 Darwinism (James Lennox、Charles H. Pence)",
+      "indent": 0,
+      "order": 1722
+    },
+    {
+      "kind": "link",
+      "path": "e/evolution-before-darwin.md",
+      "text": "达尔文之前的进化思想 Evolutionary Thought Before Darwin (Phillip Sloan)",
+      "indent": 0,
+      "order": 1723
+    },
+    {
+      "kind": "link",
+      "path": "c/creationism.md",
+      "text": "神创论 Creationism (Michael Ruse)",
+      "indent": 0,
+      "order": 1724
+    },
+    {
+      "kind": "link",
+      "path": "g/gene.md",
+      "text": "基因 Gene (Robert Meunier)",
+      "indent": 0,
+      "order": 1725
+    },
+    {
+      "kind": "link",
+      "path": "g/genetics.md",
+      "text": "遗传学 Genetics (James Tabery)",
+      "indent": 0,
+      "order": 1726
+    },
+    {
+      "kind": "link",
+      "path": "g/genomics.md",
+      "text": "基因组学和后基因组学 Genomics and Postgenomics (Stephan Guttinger、John Dupré)",
+      "indent": 0,
+      "order": 1727
+    },
+    {
+      "kind": "link",
+      "path": "m/molecular-genetics.md",
+      "text": "分子遗传学 Molecular Genetics (Ken Waters、Marcel Weber)",
+      "indent": 0,
+      "order": 1728
+    },
+    {
+      "kind": "link",
+      "path": "h/heritability.md",
+      "text": "遗传力 Heritability (Stephen M. Downes、Lucas Matthews)",
+      "indent": 0,
+      "order": 1729
+    },
+    {
+      "kind": "link",
+      "path": "i/inheritance-systems.md",
+      "text": "遗传系统 Inheritance Systems (Ehud Lamm)",
+      "indent": 0,
+      "order": 1730
+    },
+    {
+      "kind": "link",
+      "path": "g/genotype-phenotype.md",
+      "text": "基因型/表现型的区别 The Genotype/Phenotype Distinction (Michael Dietrich、Marina DiMarco)",
+      "indent": 0,
+      "order": 1731
+    },
+    {
+      "kind": "link",
+      "path": "h/human-genome.md",
+      "text": "人类基因组计划 The Human Genome Project (Lisa Gannett)",
+      "indent": 0,
+      "order": 1732
+    },
+    {
+      "kind": "link",
+      "path": "r/replication.md",
+      "text": "复制和繁殖 Replication and Reproduction (John S. Wilkins、Pierrick Bourrat)",
+      "indent": 0,
+      "order": 1733
+    },
+    {
+      "kind": "link",
+      "path": "b/biology-developmental.md",
+      "text": "发育生物学 Developmental Biology (Alan Love、Yoshinari Yoshida)",
+      "indent": 0,
+      "order": 1734
+    },
+    {
+      "kind": "link",
+      "path": "e/evolution-development.md",
+      "text": "进化和发育 Evolution and Development (Jan Baedke、Scott F. Gilbert)",
+      "indent": 0,
+      "order": 1735
+    },
+    {
+      "kind": "link",
+      "path": "t/theories-biological-development.md",
+      "text": "生物发育的理论 Theories of Biological Development (Melinda Bonnie Fagan、Jane Maienschein)",
+      "indent": 0,
+      "order": 1736
     },
     {
       "kind": "link",
       "path": "m/model-organisms.md",
       "text": "模式生物 Model Organisms (Michael Dietrich、Nedah Nemati)",
       "indent": 0,
+      "order": 1737
+    },
+    {
+      "kind": "link",
+      "path": "e/ecology.md",
+      "text": "生态学 Ecology (Alkistis Elliott-Graves)",
+      "indent": 0,
+      "order": 1738
+    },
+    {
+      "kind": "link",
+      "path": "e/ecological-genetics.md",
+      "text": "生态遗传学 Ecological Genetics (Michael Wade)",
+      "indent": 0,
+      "order": 1739
+    },
+    {
+      "kind": "link",
+      "path": "b/biodiversity.md",
+      "text": "生物多样性 Biodiversity (Daniel P. Faith)",
+      "indent": 0,
+      "order": 1740
+    },
+    {
+      "kind": "link",
+      "path": "c/conservation-biology.md",
+      "text": "保育生物学 Conservation Biology (Jay Odenbaugh)",
+      "indent": 0,
       "order": 1741
     },
     {
       "kind": "link",
-      "path": "m/molecular-biology.md",
-      "text": "分子生物学 Molecular Biology (Tudor Baetu、Monika Piotrowska、James Tabery)",
+      "path": "m/macroevolution.md",
+      "text": "宏观进化哲学 Philosophy of Macroevolution (Derek Turner、Joyce C. Havstad)",
       "indent": 0,
       "order": 1742
     },
     {
       "kind": "link",
-      "path": "m/molecular-genetics.md",
-      "text": "分子遗传学 Molecular Genetics (Ken Waters、Marcel Weber)",
+      "path": "p/phylogenetic-inference.md",
+      "text": "系统发生推断 Phylogenetic Inference (Matt Haber、Joel Velasco)",
       "indent": 0,
       "order": 1743
     },
@@ -12218,8 +12218,8 @@
     },
     {
       "kind": "link",
-      "path": "m/macroevolution.md",
-      "text": "宏观进化哲学 Philosophy of Macroevolution (Derek Turner、Joyce C. Havstad)",
+      "path": "m/molecular-biology.md",
+      "text": "分子生物学 Molecular Biology (Tudor Baetu、Monika Piotrowska、James Tabery)",
       "indent": 0,
       "order": 1745
     },
@@ -12239,78 +12239,78 @@
     },
     {
       "kind": "link",
-      "path": "p/phylogenetic-inference.md",
-      "text": "系统发生推断 Phylogenetic Inference (Matt Haber、Joel Velasco)",
+      "path": "c/cognition-animal.md",
+      "text": "动物认知 Animal Cognition (Kristin Andrews、Susana Monsó)",
       "indent": 0,
       "order": 1748
     },
     {
       "kind": "link",
-      "path": "p/population-genetics.md",
-      "text": "群体遗传学 Population Genetics (Samir Okasha)",
+      "path": "a/animal-communication.md",
+      "text": "动物交流 Animal Communication (Richard Moore、Giulia Palazzolo)",
       "indent": 0,
       "order": 1749
+    },
+    {
+      "kind": "link",
+      "path": "a/animal-normativity.md",
+      "text": "动物规范性 Animal Normativity (Simon Fitzpatrick)",
+      "indent": 0,
+      "order": 1750
+    },
+    {
+      "kind": "link",
+      "path": "a/animal-social-cognition.md",
+      "text": "动物社会认知 Animal Social Cognition (Cameron Buckner)",
+      "indent": 0,
+      "order": 1751
+    },
+    {
+      "kind": "link",
+      "path": "a/animal-thought.md",
+      "text": "动物思维 Animal Thought (Laura Danón)",
+      "indent": 0,
+      "order": 1752
+    },
+    {
+      "kind": "link",
+      "path": "b/biology-experiment.md",
+      "text": "生物学实验 Experiment in Biology (Marcel Weber)",
+      "indent": 0,
+      "order": 1753
     },
     {
       "kind": "link",
       "path": "r/reduction-biology.md",
       "text": "生物学中的还原论 Reductionism in Biology (Ingo Brigandt、Alan Love)",
       "indent": 0,
-      "order": 1750
-    },
-    {
-      "kind": "link",
-      "path": "r/replication.md",
-      "text": "复制和繁殖 Replication and Reproduction (John S. Wilkins、Pierrick Bourrat)",
-      "indent": 0,
-      "order": 1751
-    },
-    {
-      "kind": "link",
-      "path": "s/sociobiology.md",
-      "text": "社会生物学 Sociobiology (Catherine Driscoll)",
-      "indent": 0,
-      "order": 1752
+      "order": 1754
     },
     {
       "kind": "link",
       "path": "t/teleology-biology.md",
       "text": "生物学中的目的论观念 Teleological Notions in Biology (Colin Allen、Jacob Neal)",
       "indent": 0,
-      "order": 1753
+      "order": 1755
     },
     {
       "kind": "link",
       "path": "i/innate-acquired.md",
       "text": "先天性特征与后天获得性特征的区别 The Distinction Between Innate and Acquired Characteristics (Paul Griffiths、Stefan Linquist)",
       "indent": 0,
-      "order": 1754
-    },
-    {
-      "kind": "link",
-      "path": "g/genotype-phenotype.md",
-      "text": "基因型/表现型的区别 The Genotype/Phenotype Distinction (Michael Dietrich、Marina DiMarco)",
-      "indent": 0,
-      "order": 1755
-    },
-    {
-      "kind": "link",
-      "path": "h/human-genome.md",
-      "text": "人类基因组计划 The Human Genome Project (Lisa Gannett)",
-      "indent": 0,
       "order": 1756
     },
     {
       "kind": "link",
-      "path": "t/theories-biological-development.md",
-      "text": "生物发育的理论 Theories of Biological Development (Melinda Bonnie Fagan、Jane Maienschein)",
+      "path": "e/epistemology-evolutionary.md",
+      "text": "进化认识论 Evolutionary Epistemology (Michael Bradie、William Harms)",
       "indent": 0,
       "order": 1757
     },
     {
       "kind": "link",
-      "path": "s/selection-units.md",
-      "text": "选择的单位与层次 Units and Levels of Selection (Elisabeth Lloyd)",
+      "path": "p/population-genetics.md",
+      "text": "群体遗传学 Population Genetics (Samir Okasha)",
       "indent": 0,
       "order": 1758
     },
@@ -12330,36 +12330,36 @@
     },
     {
       "kind": "link",
-      "path": "a/algebra.md",
-      "text": "代数 Algebra (Vaughan Pratt)",
+      "path": "f/fictionalism-mathematics.md",
+      "text": "数学哲学中的虚构主义 Fictionalism in the Philosophy of Mathematics (Mark Balaguer)",
       "indent": 0,
       "order": 1761
     },
     {
       "kind": "link",
-      "path": "c/chance-randomness.md",
-      "text": "机会与随机性 Chance versus Randomness (Antony Eagle)",
+      "path": "f/formalism-mathematics.md",
+      "text": "数学哲学中的形式主义 Formalism in the Philosophy of Mathematics (Alan Weir)",
       "indent": 0,
       "order": 1762
     },
     {
       "kind": "link",
-      "path": "m/mathematics-constructive.md",
-      "text": "构造数学 Constructive Mathematics (Douglas Bridges、Erik Palmgren、Hajime Ishihara)",
+      "path": "i/intuitionism.md",
+      "text": "数学哲学中的直觉主义 Intuitionism in the Philosophy of Mathematics (Rosalie Iemhoff)",
       "indent": 0,
       "order": 1763
     },
     {
       "kind": "link",
-      "path": "c/continuity.md",
-      "text": "连续性与无穷小 Continuity and Infinitesimals (John L. Bell)",
+      "path": "n/nominalism-mathematics.md",
+      "text": "数学哲学中的唯名论 Nominalism in the Philosophy of Mathematics (Otávio Bueno)",
       "indent": 0,
       "order": 1764
     },
     {
       "kind": "link",
-      "path": "d/dedekind-foundations.md",
-      "text": "理查德·戴德金对数学基础的贡献 Dedekind’s Contributions to the Foundations of Mathematics (Erich Reck)",
+      "path": "s/structuralism-mathematics.md",
+      "text": "数学哲学中的结构主义 Structuralism in the Philosophy of Mathematics (Erich Reck、Georg Schiemer)",
       "indent": 0,
       "order": 1765
     },
@@ -12372,36 +12372,36 @@
     },
     {
       "kind": "link",
-      "path": "d/dutch-book.md",
-      "text": "荷兰赌论证 Dutch Book Arguments (Susan Vineberg)",
+      "path": "n/naturalism-mathematics.md",
+      "text": "数学哲学中的自然主义 Naturalism in the Philosophy of Mathematics (Alexander Paseau、Marianna Antonutti Marfori)",
       "indent": 0,
       "order": 1767
     },
     {
       "kind": "link",
-      "path": "e/epistemology-geometry.md",
-      "text": "几何学的认识论 Epistemology of Geometry (Jeremy Gray、José Ferreirós)",
+      "path": "i/infinity.md",
+      "text": "无限 Infinity (Kenny Easwaran、Alan Hájek、Paolo Mancosu、Graham Oppy)",
       "indent": 0,
       "order": 1768
     },
     {
       "kind": "link",
-      "path": "f/fictionalism-mathematics.md",
-      "text": "数学哲学中的虚构主义 Fictionalism in the Philosophy of Mathematics (Mark Balaguer)",
+      "path": "c/continuity.md",
+      "text": "连续性与无穷小 Continuity and Infinitesimals (John L. Bell)",
       "indent": 0,
       "order": 1769
     },
     {
       "kind": "link",
-      "path": "g/geometry-finitism.md",
-      "text": "几何学中的有穷主义 Finitism in Geometry (Jean Paul Van Bendegem)",
+      "path": "m/mathematics-constructive.md",
+      "text": "构造数学 Constructive Mathematics (Douglas Bridges、Erik Palmgren、Hajime Ishihara)",
       "indent": 0,
       "order": 1770
     },
     {
       "kind": "link",
-      "path": "f/formalism-mathematics.md",
-      "text": "数学哲学中的形式主义 Formalism in the Philosophy of Mathematics (Alan Weir)",
+      "path": "m/mathematics-inconsistent.md",
+      "text": "不一致数学 Inconsistent Mathematics (Chris Mortensen)",
       "indent": 0,
       "order": 1771
     },
@@ -12414,148 +12414,148 @@
     },
     {
       "kind": "link",
-      "path": "w/weyl.md",
-      "text": "赫尔曼·外尔 Hermann Weyl (John L. Bell、Herbert Korté)",
+      "path": "h/hilbert-program.md",
+      "text": "希尔伯特纲领 Hilbert’s Program (Richard Zach)",
       "indent": 0,
       "order": 1773
     },
     {
       "kind": "link",
-      "path": "h/hilbert-program.md",
-      "text": "希尔伯特纲领 Hilbert’s Program (Richard Zach)",
+      "path": "d/dedekind-foundations.md",
+      "text": "理查德·戴德金对数学基础的贡献 Dedekind’s Contributions to the Foundations of Mathematics (Erich Reck)",
       "indent": 0,
       "order": 1774
-    },
-    {
-      "kind": "link",
-      "path": "i/imprecise-probabilities.md",
-      "text": "非精确概率 Imprecise Probabilities (Seamus Bradley)",
-      "indent": 0,
-      "order": 1775
-    },
-    {
-      "kind": "link",
-      "path": "m/mathematics-inconsistent.md",
-      "text": "不一致数学 Inconsistent Mathematics (Chris Mortensen)",
-      "indent": 0,
-      "order": 1776
-    },
-    {
-      "kind": "link",
-      "path": "m/mathphil-indis.md",
-      "text": "数学哲学中的不可或缺性论证 Indispensability Arguments in the Philosophy of Mathematics (Mark Colyvan)",
-      "indent": 0,
-      "order": 1777
-    },
-    {
-      "kind": "link",
-      "path": "i/infinity.md",
-      "text": "无限 Infinity (Kenny Easwaran、Alan Hájek、Paolo Mancosu、Graham Oppy)",
-      "indent": 0,
-      "order": 1778
-    },
-    {
-      "kind": "link",
-      "path": "p/probability-interpret.md",
-      "text": "对概率的解释 Interpretations of Probability (Alan Hájek)",
-      "indent": 0,
-      "order": 1779
-    },
-    {
-      "kind": "link",
-      "path": "i/intuitionism.md",
-      "text": "数学哲学中的直觉主义 Intuitionism in the Philosophy of Mathematics (Rosalie Iemhoff)",
-      "indent": 0,
-      "order": 1780
-    },
-    {
-      "kind": "link",
-      "path": "m/mathematics-explanation.md",
-      "text": "数学解释 Mathematical Explanation (Paolo Mancosu、Francesca Poggiolesi、Christopher Pincock)",
-      "indent": 0,
-      "order": 1781
-    },
-    {
-      "kind": "link",
-      "path": "m/mathematical-style.md",
-      "text": "数学风格 Mathematical Style (Paolo Mancosu)",
-      "indent": 0,
-      "order": 1782
-    },
-    {
-      "kind": "link",
-      "path": "n/naturalism-mathematics.md",
-      "text": "数学哲学中的自然主义 Naturalism in the Philosophy of Mathematics (Alexander Paseau、Marianna Antonutti Marfori)",
-      "indent": 0,
-      "order": 1783
-    },
-    {
-      "kind": "link",
-      "path": "g/geometry-19th.md",
-      "text": "19 世纪几何学 Nineteenth Century Geometry (Roberto Torretti)",
-      "indent": 0,
-      "order": 1784
-    },
-    {
-      "kind": "link",
-      "path": "n/nominalism-mathematics.md",
-      "text": "数学哲学中的唯名论 Nominalism in the Philosophy of Mathematics (Otávio Bueno)",
-      "indent": 0,
-      "order": 1785
-    },
-    {
-      "kind": "link",
-      "path": "m/mathematics-nondeductive.md",
-      "text": "数学中的非演绎方法 Non-Deductive Methods in Mathematics (Alan Baker)",
-      "indent": 0,
-      "order": 1786
-    },
-    {
-      "kind": "link",
-      "path": "s/statistics.md",
-      "text": "统计学哲学 Philosophy of Statistics (Jan-Willem Romeijn)",
-      "indent": 0,
-      "order": 1787
     },
     {
       "kind": "link",
       "path": "p/propositional-function.md",
       "text": "命题函项 Propositional Function (Edwin Mares)",
       "indent": 0,
-      "order": 1788
-    },
-    {
-      "kind": "link",
-      "path": "p/paradox-simpson.md",
-      "text": "辛普森悖论 Simpson’s Paradox (Jan Sprenger、Naftali Weinberger)",
-      "indent": 0,
-      "order": 1789
-    },
-    {
-      "kind": "link",
-      "path": "s/structuralism-mathematics.md",
-      "text": "数学哲学中的结构主义 Structuralism in the Philosophy of Mathematics (Erich Reck、Georg Schiemer)",
-      "indent": 0,
-      "order": 1790
+      "order": 1775
     },
     {
       "kind": "link",
       "path": "a/axiom-choice.md",
       "text": "选择公理 The Axiom of Choice (John L. Bell)",
       "indent": 0,
-      "order": 1791
+      "order": 1776
+    },
+    {
+      "kind": "link",
+      "path": "e/epistemology-geometry.md",
+      "text": "几何学的认识论 Epistemology of Geometry (Jeremy Gray、José Ferreirós)",
+      "indent": 0,
+      "order": 1777
+    },
+    {
+      "kind": "link",
+      "path": "g/geometry-19th.md",
+      "text": "19 世纪几何学 Nineteenth Century Geometry (Roberto Torretti)",
+      "indent": 0,
+      "order": 1778
+    },
+    {
+      "kind": "link",
+      "path": "g/geometry-finitism.md",
+      "text": "几何学中的有穷主义 Finitism in Geometry (Jean Paul Van Bendegem)",
+      "indent": 0,
+      "order": 1779
+    },
+    {
+      "kind": "link",
+      "path": "c/chance-randomness.md",
+      "text": "机会与随机性 Chance versus Randomness (Antony Eagle)",
+      "indent": 0,
+      "order": 1780
+    },
+    {
+      "kind": "link",
+      "path": "i/imprecise-probabilities.md",
+      "text": "非精确概率 Imprecise Probabilities (Seamus Bradley)",
+      "indent": 0,
+      "order": 1781
+    },
+    {
+      "kind": "link",
+      "path": "p/probability-interpret.md",
+      "text": "对概率的解释 Interpretations of Probability (Alan Hájek)",
+      "indent": 0,
+      "order": 1782
+    },
+    {
+      "kind": "link",
+      "path": "s/statistics.md",
+      "text": "统计学哲学 Philosophy of Statistics (Jan-Willem Romeijn)",
+      "indent": 0,
+      "order": 1783
+    },
+    {
+      "kind": "link",
+      "path": "d/dutch-book.md",
+      "text": "荷兰赌论证 Dutch Book Arguments (Susan Vineberg)",
+      "indent": 0,
+      "order": 1784
+    },
+    {
+      "kind": "link",
+      "path": "p/paradox-simpson.md",
+      "text": "辛普森悖论 Simpson’s Paradox (Jan Sprenger、Naftali Weinberger)",
+      "indent": 0,
+      "order": 1785
+    },
+    {
+      "kind": "link",
+      "path": "m/mathematical-practice.md",
+      "text": "数学实践的哲学 The Philosophy of Mathematical Practice (Silvia De Toffoli、Paolo Mancosu)",
+      "indent": 0,
+      "order": 1786
+    },
+    {
+      "kind": "link",
+      "path": "m/mathematics-explanation.md",
+      "text": "数学解释 Mathematical Explanation (Paolo Mancosu、Francesca Poggiolesi、Christopher Pincock)",
+      "indent": 0,
+      "order": 1787
+    },
+    {
+      "kind": "link",
+      "path": "m/mathematical-style.md",
+      "text": "数学风格 Mathematical Style (Paolo Mancosu)",
+      "indent": 0,
+      "order": 1788
+    },
+    {
+      "kind": "link",
+      "path": "m/mathematics-nondeductive.md",
+      "text": "数学中的非演绎方法 Non-Deductive Methods in Mathematics (Alan Baker)",
+      "indent": 0,
+      "order": 1789
     },
     {
       "kind": "link",
       "path": "e/epistemology-visual-thinking.md",
       "text": "数学中的视觉思维认识论 The Epistemology of Visual Thinking in Mathematics (Marcus Giaquinto)",
       "indent": 0,
+      "order": 1790
+    },
+    {
+      "kind": "link",
+      "path": "w/weyl.md",
+      "text": "赫尔曼·外尔 Hermann Weyl (John L. Bell、Herbert Korté)",
+      "indent": 0,
+      "order": 1791
+    },
+    {
+      "kind": "link",
+      "path": "m/mathphil-indis.md",
+      "text": "数学哲学中的不可或缺性论证 Indispensability Arguments in the Philosophy of Mathematics (Mark Colyvan)",
+      "indent": 0,
       "order": 1792
     },
     {
       "kind": "link",
-      "path": "m/mathematical-practice.md",
-      "text": "数学实践的哲学 The Philosophy of Mathematical Practice (Silvia De Toffoli、Paolo Mancosu)",
+      "path": "a/algebra.md",
+      "text": "代数 Algebra (Vaughan Pratt)",
       "indent": 0,
       "order": 1793
     },
@@ -12568,43 +12568,43 @@
     },
     {
       "kind": "link",
-      "path": "c/consciousness-animal.md",
-      "text": "动物意识 Animal Consciousness (Michael Trestman、Jonathan Birch、Colin Allen)",
+      "path": "c/consciousness-neuroscience.md",
+      "text": "意识的神经科学 The Neuroscience of Consciousness (Wayne Wu、Jorge Morales)",
       "indent": 0,
       "order": 1795
     },
     {
       "kind": "link",
-      "path": "h/hermann-helmholtz.md",
-      "text": "赫尔曼·冯·亥姆霍兹 Hermann von Helmholtz (Lydia Patton)",
+      "path": "c/consciousness-animal.md",
+      "text": "动物意识 Animal Consciousness (Michael Trestman、Jonathan Birch、Colin Allen)",
       "indent": 0,
       "order": 1796
-    },
-    {
-      "kind": "link",
-      "path": "c/comparative-cognition.md",
-      "text": "比较认知学方法 Methods in Comparative Cognition (Marta Halina)",
-      "indent": 0,
-      "order": 1797
     },
     {
       "kind": "link",
       "path": "p/psychiatry.md",
       "text": "精神病学哲学 Philosophy of Psychiatry (Dominic Murphy)",
       "indent": 0,
-      "order": 1798
+      "order": 1797
     },
     {
       "kind": "link",
       "path": "p/psychotherapy.md",
       "text": "心理治疗的哲学 Philosophy of Psychotherapy (Megan Delehanty、Anya Plutynski)",
       "indent": 0,
+      "order": 1798
+    },
+    {
+      "kind": "link",
+      "path": "c/comparative-cognition.md",
+      "text": "比较认知学方法 Methods in Comparative Cognition (Marta Halina)",
+      "indent": 0,
       "order": 1799
     },
     {
       "kind": "link",
-      "path": "c/consciousness-neuroscience.md",
-      "text": "意识的神经科学 The Neuroscience of Consciousness (Wayne Wu、Jorge Morales)",
+      "path": "h/hermann-helmholtz.md",
+      "text": "赫尔曼·冯·亥姆霍兹 Hermann von Helmholtz (Lydia Patton)",
       "indent": 0,
       "order": 1800
     },
@@ -12806,71 +12806,71 @@
     },
     {
       "kind": "link",
-      "path": "a/algorithmic-fairness.md",
-      "text": "算法公平 Algorithmic Fairness (Deborah Hellman)",
+      "path": "t/technology.md",
+      "text": "技术哲学 Philosophy of Technology (Maarten Franssen、Ibo van de Poel、Michael Klenk、Filippo Santoni de Sio)",
       "indent": 0,
       "order": 1829
-    },
-    {
-      "kind": "link",
-      "path": "c/computing-responsibility.md",
-      "text": "计算机与道德责任 Computing and Moral Responsibility (Merel Noorman)",
-      "indent": 0,
-      "order": 1830
-    },
-    {
-      "kind": "link",
-      "path": "e/ethics-ai.md",
-      "text": "人工智能和机器人伦理 Ethics of Artificial Intelligence and Robotics (Vincent C. Müller)",
-      "indent": 0,
-      "order": 1831
     },
     {
       "kind": "link",
       "path": "i/it-moral-values.md",
       "text": "信息技术与道德价值 Information Technology and Moral Values (John Sullins)",
       "indent": 0,
-      "order": 1832
-    },
-    {
-      "kind": "link",
-      "path": "e/ethics-internet-research.md",
-      "text": "互联网研究伦理 Internet Research Ethics (Elizabeth A. Buchanan、Michael Zimmer)",
-      "indent": 0,
-      "order": 1833
-    },
-    {
-      "kind": "link",
-      "path": "e/ethics-it-phenomenology.md",
-      "text": "信息技术伦理学的现象学方法 Phenomenological Approaches to Ethics and Information Technology (Lucas Introna)",
-      "indent": 0,
-      "order": 1834
-    },
-    {
-      "kind": "link",
-      "path": "t/technology.md",
-      "text": "技术哲学 Philosophy of Technology (Maarten Franssen、Ibo van de Poel、Michael Klenk、Filippo Santoni de Sio)",
-      "indent": 0,
-      "order": 1835
+      "order": 1830
     },
     {
       "kind": "link",
       "path": "i/it-privacy.md",
       "text": "隐私与信息技术 Privacy and Information Technology (Jeroen van den Hoven、Martijn Blaauw、Wolter Pieters、Martijn Warnier)",
       "indent": 0,
-      "order": 1836
+      "order": 1831
+    },
+    {
+      "kind": "link",
+      "path": "e/ethics-ai.md",
+      "text": "人工智能和机器人伦理 Ethics of Artificial Intelligence and Robotics (Vincent C. Müller)",
+      "indent": 0,
+      "order": 1832
+    },
+    {
+      "kind": "link",
+      "path": "a/algorithmic-fairness.md",
+      "text": "算法公平 Algorithmic Fairness (Deborah Hellman)",
+      "indent": 0,
+      "order": 1833
+    },
+    {
+      "kind": "link",
+      "path": "c/computing-responsibility.md",
+      "text": "计算机与道德责任 Computing and Moral Responsibility (Merel Noorman)",
+      "indent": 0,
+      "order": 1834
+    },
+    {
+      "kind": "link",
+      "path": "e/ethics-internet-research.md",
+      "text": "互联网研究伦理 Internet Research Ethics (Elizabeth A. Buchanan、Michael Zimmer)",
+      "indent": 0,
+      "order": 1835
     },
     {
       "kind": "link",
       "path": "e/ethics-search.md",
       "text": "搜索引擎伦理 Search Engines and Ethics (Herman Tavani、Michael Zimmer)",
       "indent": 0,
-      "order": 1837
+      "order": 1836
     },
     {
       "kind": "link",
       "path": "e/ethics-social-networking.md",
       "text": "网络社交与伦理学 Social Networking and Ethics (Shannon Vallor)",
+      "indent": 0,
+      "order": 1837
+    },
+    {
+      "kind": "link",
+      "path": "e/ethics-it-phenomenology.md",
+      "text": "信息技术伦理学的现象学方法 Phenomenological Approaches to Ethics and Information Technology (Lucas Introna)",
       "indent": 0,
       "order": 1838
     },
@@ -12883,64 +12883,64 @@
     },
     {
       "kind": "link",
-      "path": "a/advance-directives.md",
-      "text": "预先指示和替代决策 Advance Directives and Substitute Decision-Making (Agnieszka Jaworska)",
+      "path": "h/health-disease.md",
+      "text": "疾病与健康的概念 Concepts of Disease and Health (Dominic Murphy)",
       "indent": 0,
       "order": 1840
+    },
+    {
+      "kind": "link",
+      "path": "b/biomedicine.md",
+      "text": "生物医学哲学 Philosophy of Biomedicine (Sean Valles、Yael Friedman)",
+      "indent": 0,
+      "order": 1841
+    },
+    {
+      "kind": "link",
+      "path": "i/immunology.md",
+      "text": "免疫学哲学 Philosophy of Immunology (Bartlomiej Swiatczak、Alfred I. Tauber)",
+      "indent": 0,
+      "order": 1842
     },
     {
       "kind": "link",
       "path": "c/cancer.md",
       "text": "癌症 Cancer (Anya Plutynski、Lucie Laplane)",
       "indent": 0,
-      "order": 1841
-    },
-    {
-      "kind": "link",
-      "path": "c/cloning.md",
-      "text": "克隆 Cloning (Katrien Devolder)",
-      "indent": 0,
-      "order": 1842
-    },
-    {
-      "kind": "link",
-      "path": "h/health-disease.md",
-      "text": "疾病与健康的概念 Concepts of Disease and Health (Dominic Murphy)",
-      "indent": 0,
       "order": 1843
+    },
+    {
+      "kind": "link",
+      "path": "i/informed-consent.md",
+      "text": "知情同意 Informed Consent (Nir Eyal)",
+      "indent": 0,
+      "order": 1844
     },
     {
       "kind": "link",
       "path": "d/decision-capacity.md",
       "text": "决策能力 Decision-Making Capacity (Jennifer Hawkins、Louis C. Charland)",
       "indent": 0,
-      "order": 1844
-    },
-    {
-      "kind": "link",
-      "path": "d/disability-care-rationing.md",
-      "text": "残疾与医疗卫生配给 Disability and Health Care Rationing (Jerome Bickenbach)",
-      "indent": 0,
       "order": 1845
     },
     {
       "kind": "link",
-      "path": "d/disability-well-being.md",
-      "text": "残疾与福祉 Disability and Well-Being (Stephen M. Campbell、Joseph A. Stramondo、David Wasserman)",
+      "path": "a/advance-directives.md",
+      "text": "预先指示和替代决策 Advance Directives and Substitute Decision-Making (Agnieszka Jaworska)",
       "indent": 0,
       "order": 1846
     },
     {
       "kind": "link",
-      "path": "d/disability.md",
-      "text": "残疾的定义与模型 Disability: Definitions and Models (David Wasserman、Sean Aas)",
+      "path": "c/clinical-research.md",
+      "text": "临床研究伦理 The Ethics of Clinical Research (David Wendler)",
       "indent": 0,
       "order": 1847
     },
     {
       "kind": "link",
-      "path": "s/stem-cells.md",
-      "text": "干细胞研究的伦理问题 Ethics of Stem Cell Research (Andrew Siegel)",
+      "path": "p/publichealth-ethics.md",
+      "text": "公共卫生伦理 Public Health Ethics (Ruth Faden、Justin Bernstein、Sirine Shebaya)",
       "indent": 0,
       "order": 1848
     },
@@ -12960,85 +12960,85 @@
     },
     {
       "kind": "link",
-      "path": "i/informed-consent.md",
-      "text": "知情同意 Informed Consent (Nir Eyal)",
+      "path": "c/cloning.md",
+      "text": "克隆 Cloning (Katrien Devolder)",
       "indent": 0,
       "order": 1851
     },
     {
       "kind": "link",
-      "path": "j/justice-healthcareaccess.md",
-      "text": "医疗保健的公正与获取 Justice and Access to Health Care (Norman Daniels)",
+      "path": "s/stem-cells.md",
+      "text": "干细胞研究的伦理问题 Ethics of Stem Cell Research (Andrew Siegel)",
       "indent": 0,
       "order": 1852
-    },
-    {
-      "kind": "link",
-      "path": "m/mental-disorder.md",
-      "text": "精神障碍（精神疾病） Mental Disorder (Illness) (Jennifer Radden、Jonathan Y. Tsou)",
-      "indent": 0,
-      "order": 1853
-    },
-    {
-      "kind": "link",
-      "path": "n/neuroethics.md",
-      "text": "神经伦理学 Neuroethics (Adina Roskies)",
-      "indent": 0,
-      "order": 1854
-    },
-    {
-      "kind": "link",
-      "path": "b/biomedicine.md",
-      "text": "生物医学哲学 Philosophy of Biomedicine (Sean Valles、Yael Friedman)",
-      "indent": 0,
-      "order": 1855
-    },
-    {
-      "kind": "link",
-      "path": "i/immunology.md",
-      "text": "免疫学哲学 Philosophy of Immunology (Bartlomiej Swiatczak、Alfred I. Tauber)",
-      "indent": 0,
-      "order": 1856
-    },
-    {
-      "kind": "link",
-      "path": "p/privacy-health.md",
-      "text": "健康照护与研究中的隐私 Privacy in Health Care and Research (Leslie Francis)",
-      "indent": 0,
-      "order": 1857
-    },
-    {
-      "kind": "link",
-      "path": "p/publichealth-ethics.md",
-      "text": "公共卫生伦理 Public Health Ethics (Ruth Faden、Justin Bernstein、Sirine Shebaya)",
-      "indent": 0,
-      "order": 1858
     },
     {
       "kind": "link",
       "path": "g/gametes-donation-sale.md",
       "text": "人类卵子和精子的捐献与买卖 The Donation and Sale of Human Eggs and Sperm (Reuven Brandt、Stephen Wilkinson、Nicola Williams)",
       "indent": 0,
-      "order": 1859
+      "order": 1853
     },
     {
       "kind": "link",
       "path": "o/organ-donation.md",
       "text": "人体器官捐献 The Donation of Human Organs (Martin Wilkinson、Stephen Wilkinson)",
       "indent": 0,
-      "order": 1860
-    },
-    {
-      "kind": "link",
-      "path": "c/clinical-research.md",
-      "text": "临床研究伦理 The Ethics of Clinical Research (David Wendler)",
-      "indent": 0,
-      "order": 1861
+      "order": 1854
     },
     {
       "kind": "link",
       "path": "o/organs-sale.md",
       "text": "人体器官买卖 The Sale of Human Organs (Stephen Wilkinson)",
+      "indent": 0,
+      "order": 1855
+    },
+    {
+      "kind": "link",
+      "path": "j/justice-healthcareaccess.md",
+      "text": "医疗保健的公正与获取 Justice and Access to Health Care (Norman Daniels)",
+      "indent": 0,
+      "order": 1856
+    },
+    {
+      "kind": "link",
+      "path": "d/disability-care-rationing.md",
+      "text": "残疾与医疗卫生配给 Disability and Health Care Rationing (Jerome Bickenbach)",
+      "indent": 0,
+      "order": 1857
+    },
+    {
+      "kind": "link",
+      "path": "d/disability-well-being.md",
+      "text": "残疾与福祉 Disability and Well-Being (Stephen M. Campbell、Joseph A. Stramondo、David Wasserman)",
+      "indent": 0,
+      "order": 1858
+    },
+    {
+      "kind": "link",
+      "path": "d/disability.md",
+      "text": "残疾的定义与模型 Disability: Definitions and Models (David Wasserman、Sean Aas)",
+      "indent": 0,
+      "order": 1859
+    },
+    {
+      "kind": "link",
+      "path": "p/privacy-health.md",
+      "text": "健康照护与研究中的隐私 Privacy in Health Care and Research (Leslie Francis)",
+      "indent": 0,
+      "order": 1860
+    },
+    {
+      "kind": "link",
+      "path": "m/mental-disorder.md",
+      "text": "精神障碍（精神疾病） Mental Disorder (Illness) (Jennifer Radden、Jonathan Y. Tsou)",
+      "indent": 0,
+      "order": 1861
+    },
+    {
+      "kind": "link",
+      "path": "n/neuroethics.md",
+      "text": "神经伦理学 Neuroethics (Adina Roskies)",
       "indent": 0,
       "order": 1862
     },
@@ -13135,29 +13135,29 @@
     },
     {
       "kind": "link",
+      "path": "e/education-philosophy.md",
+      "text": "教育哲学 Philosophy of Education (Randall Curren)",
+      "indent": 0,
+      "order": 1876
+    },
+    {
+      "kind": "link",
       "path": "c/critical-thinking.md",
       "text": "批判性思维 Critical Thinking (David Hitchcock)",
       "indent": 0,
-      "order": 1876
+      "order": 1877
     },
     {
       "kind": "link",
       "path": "e/equal-ed-opportunity.md",
       "text": "教育机会均等 Equality of Educational Opportunity (Liam Shields、Anne Newman、Debra Satz)",
       "indent": 0,
-      "order": 1877
-    },
-    {
-      "kind": "link",
-      "path": "j/johann-herbart.md",
-      "text": "约翰·弗里德里希·赫尔巴特 Johann Friedrich Herbart (Alan Kim)",
-      "indent": 0,
       "order": 1878
     },
     {
       "kind": "link",
-      "path": "m/montessori-maria.md",
-      "text": "玛丽亚·蒙台梭利 Maria Montessori (Patrick Frierson)",
+      "path": "c/childhood.md",
+      "text": "童年哲学 The Philosophy of Childhood (Gareth Matthews、Amy Mullin)",
       "indent": 0,
       "order": 1879
     },
@@ -13170,15 +13170,15 @@
     },
     {
       "kind": "link",
-      "path": "e/education-philosophy.md",
-      "text": "教育哲学 Philosophy of Education (Randall Curren)",
+      "path": "j/johann-herbart.md",
+      "text": "约翰·弗里德里希·赫尔巴特 Johann Friedrich Herbart (Alan Kim)",
       "indent": 0,
       "order": 1881
     },
     {
       "kind": "link",
-      "path": "c/childhood.md",
-      "text": "童年哲学 The Philosophy of Childhood (Gareth Matthews、Amy Mullin)",
+      "path": "m/montessori-maria.md",
+      "text": "玛丽亚·蒙台梭利 Maria Montessori (Patrick Frierson)",
       "indent": 0,
       "order": 1882
     }
@@ -19686,6 +19686,62 @@
         ""
       ],
       [
+        1174,
+        "### 后果主义"
+      ],
+      [
+        1174,
+        ""
+      ],
+      [
+        1178,
+        ""
+      ],
+      [
+        1178,
+        "### 义务论"
+      ],
+      [
+        1178,
+        ""
+      ],
+      [
+        1180,
+        ""
+      ],
+      [
+        1180,
+        "### 德性伦理学"
+      ],
+      [
+        1180,
+        ""
+      ],
+      [
+        1184,
+        ""
+      ],
+      [
+        1184,
+        "### 契约论与利己主义"
+      ],
+      [
+        1184,
+        ""
+      ],
+      [
+        1188,
+        ""
+      ],
+      [
+        1188,
+        "### 道德要求与运气"
+      ],
+      [
+        1188,
+        ""
+      ],
+      [
         1192,
         ""
       ],
@@ -19707,6 +19763,74 @@
       ],
       [
         1192,
+        ""
+      ],
+      [
+        1192,
+        "### 总论与规范性"
+      ],
+      [
+        1192,
+        ""
+      ],
+      [
+        1196,
+        ""
+      ],
+      [
+        1196,
+        "### 实在论与反实在论"
+      ],
+      [
+        1196,
+        ""
+      ],
+      [
+        1202,
+        ""
+      ],
+      [
+        1202,
+        "### 道德认知与情感"
+      ],
+      [
+        1202,
+        ""
+      ],
+      [
+        1205,
+        ""
+      ],
+      [
+        1205,
+        "### 道德认识论"
+      ],
+      [
+        1205,
+        ""
+      ],
+      [
+        1212,
+        ""
+      ],
+      [
+        1212,
+        "### 道德责任"
+      ],
+      [
+        1212,
+        ""
+      ],
+      [
+        1217,
+        ""
+      ],
+      [
+        1217,
+        "### 专题"
+      ],
+      [
+        1217,
         ""
       ],
       [
@@ -19746,12 +19870,52 @@
         ""
       ],
       [
+        1236,
+        "#### 责任与应得"
+      ],
+      [
+        1236,
+        ""
+      ],
+      [
+        1240,
+        ""
+      ],
+      [
+        1240,
+        "#### 关系与信任"
+      ],
+      [
+        1240,
+        ""
+      ],
+      [
+        1249,
+        ""
+      ],
+      [
+        1249,
+        "#### 正义与伤害"
+      ],
+      [
+        1249,
+        ""
+      ],
+      [
         1255,
         ""
       ],
       [
         1255,
         "### 环境哲学"
+      ],
+      [
+        1255,
+        ""
+      ],
+      [
+        1255,
+        "#### 环境伦理与气候正义"
       ],
       [
         1255,
@@ -19770,6 +19934,26 @@
         ""
       ],
       [
+        1257,
+        "#### 死亡与生命意义"
+      ],
+      [
+        1257,
+        ""
+      ],
+      [
+        1260,
+        ""
+      ],
+      [
+        1260,
+        "#### 生育与医学"
+      ],
+      [
+        1260,
+        ""
+      ],
+      [
         1264,
         ""
       ],
@@ -19779,6 +19963,38 @@
       ],
       [
         1264,
+        ""
+      ],
+      [
+        1264,
+        "### 价值总论"
+      ],
+      [
+        1264,
+        ""
+      ],
+      [
+        1269,
+        ""
+      ],
+      [
+        1269,
+        "### 善与幸福"
+      ],
+      [
+        1269,
+        ""
+      ],
+      [
+        1273,
+        ""
+      ],
+      [
+        1273,
+        "### 道德评价"
+      ],
+      [
+        1273,
         ""
       ],
       [
@@ -19802,6 +20018,50 @@
         ""
       ],
       [
+        1279,
+        "#### 权利"
+      ],
+      [
+        1279,
+        ""
+      ],
+      [
+        1283,
+        ""
+      ],
+      [
+        1283,
+        "#### 政治制度与意识形态"
+      ],
+      [
+        1283,
+        ""
+      ],
+      [
+        1294,
+        ""
+      ],
+      [
+        1294,
+        "#### 自由、强制与宽容"
+      ],
+      [
+        1294,
+        ""
+      ],
+      [
+        1300,
+        ""
+      ],
+      [
+        1300,
+        "#### 分配与群体"
+      ],
+      [
+        1300,
+        ""
+      ],
+      [
         1306,
         ""
       ],
@@ -19814,6 +20074,50 @@
         ""
       ],
       [
+        1306,
+        "#### 正义总论与分配"
+      ],
+      [
+        1306,
+        ""
+      ],
+      [
+        1315,
+        ""
+      ],
+      [
+        1315,
+        "#### 自由与权利"
+      ],
+      [
+        1315,
+        ""
+      ],
+      [
+        1318,
+        ""
+      ],
+      [
+        1318,
+        "#### 残疾与歧视"
+      ],
+      [
+        1318,
+        ""
+      ],
+      [
+        1323,
+        ""
+      ],
+      [
+        1323,
+        "#### 健康、剥削与转型"
+      ],
+      [
+        1323,
+        ""
+      ],
+      [
         1328,
         ""
       ],
@@ -19823,6 +20127,26 @@
       ],
       [
         1328,
+        ""
+      ],
+      [
+        1328,
+        "#### 民主总论与制度"
+      ],
+      [
+        1328,
+        ""
+      ],
+      [
+        1331,
+        ""
+      ],
+      [
+        1331,
+        "#### 经济民主与腐败"
+      ],
+      [
+        1331,
         ""
       ],
       [
@@ -19850,6 +20174,26 @@
         ""
       ],
       [
+        1333,
+        "#### 自由主义"
+      ],
+      [
+        1333,
+        ""
+      ],
+      [
+        1337,
+        ""
+      ],
+      [
+        1337,
+        "#### 共和主义与宪政"
+      ],
+      [
+        1337,
+        ""
+      ],
+      [
         1341,
         ""
       ],
@@ -19859,6 +20203,38 @@
       ],
       [
         1341,
+        ""
+      ],
+      [
+        1341,
+        "#### 权威与义务"
+      ],
+      [
+        1341,
+        ""
+      ],
+      [
+        1345,
+        ""
+      ],
+      [
+        1345,
+        "#### 公民与不服从"
+      ],
+      [
+        1345,
+        ""
+      ],
+      [
+        1351,
+        ""
+      ],
+      [
+        1351,
+        "#### 支配与革命"
+      ],
+      [
+        1351,
         ""
       ],
       [
@@ -19874,6 +20250,38 @@
         ""
       ],
       [
+        1355,
+        "#### 全球正义理论"
+      ],
+      [
+        1355,
+        ""
+      ],
+      [
+        1360,
+        ""
+      ],
+      [
+        1360,
+        "#### 全球化与移民"
+      ],
+      [
+        1360,
+        ""
+      ],
+      [
+        1363,
+        ""
+      ],
+      [
+        1363,
+        "#### 战争与和平"
+      ],
+      [
+        1363,
+        ""
+      ],
+      [
         1365,
         ""
       ],
@@ -19883,6 +20291,26 @@
       ],
       [
         1365,
+        ""
+      ],
+      [
+        1365,
+        "#### 种族理论"
+      ],
+      [
+        1365,
+        ""
+      ],
+      [
+        1368,
+        ""
+      ],
+      [
+        1368,
+        "#### 补偿与政策"
+      ],
+      [
+        1368,
         ""
       ],
       [
@@ -19898,6 +20326,26 @@
         ""
       ],
       [
+        1371,
+        "#### 公共理性与善"
+      ],
+      [
+        1371,
+        ""
+      ],
+      [
+        1375,
+        ""
+      ],
+      [
+        1375,
+        "#### 劳动、学术与团结"
+      ],
+      [
+        1375,
+        ""
+      ],
+      [
         1378,
         ""
       ],
@@ -19910,6 +20358,26 @@
         ""
       ],
       [
+        1378,
+        "#### 经济学哲学"
+      ],
+      [
+        1378,
+        ""
+      ],
+      [
+        1381,
+        ""
+      ],
+      [
+        1381,
+        "#### 市场、货币与正义"
+      ],
+      [
+        1381,
+        ""
+      ],
+      [
         1384,
         ""
       ],
@@ -19919,6 +20387,26 @@
       ],
       [
         1384,
+        ""
+      ],
+      [
+        1384,
+        "#### 文化与多元文化"
+      ],
+      [
+        1384,
+        ""
+      ],
+      [
+        1386,
+        ""
+      ],
+      [
+        1386,
+        "#### 体育"
+      ],
+      [
+        1386,
         ""
       ],
       [
@@ -19954,6 +20442,38 @@
         ""
       ],
       [
+        1387,
+        "#### 法律实证主义与自然法"
+      ],
+      [
+        1387,
+        ""
+      ],
+      [
+        1391,
+        ""
+      ],
+      [
+        1391,
+        "#### 法律本质与解释"
+      ],
+      [
+        1391,
+        ""
+      ],
+      [
+        1395,
+        ""
+      ],
+      [
+        1395,
+        "#### 法治与界限"
+      ],
+      [
+        1395,
+        ""
+      ],
+      [
         1398,
         ""
       ],
@@ -19963,6 +20483,26 @@
       ],
       [
         1398,
+        ""
+      ],
+      [
+        1398,
+        "#### 法律推理与解释"
+      ],
+      [
+        1398,
+        ""
+      ],
+      [
+        1401,
+        ""
+      ],
+      [
+        1401,
+        "#### 证据与概率"
+      ],
+      [
+        1401,
         ""
       ],
       [
@@ -19978,6 +20518,26 @@
         ""
       ],
       [
+        1403,
+        "#### 法律与语言"
+      ],
+      [
+        1403,
+        ""
+      ],
+      [
+        1405,
+        ""
+      ],
+      [
+        1405,
+        "#### 法经济学与实验法理学"
+      ],
+      [
+        1405,
+        ""
+      ],
+      [
         1407,
         ""
       ],
@@ -19990,6 +20550,26 @@
         ""
       ],
       [
+        1407,
+        "#### 私法"
+      ],
+      [
+        1407,
+        ""
+      ],
+      [
+        1409,
+        ""
+      ],
+      [
+        1409,
+        "#### 公法与刑法"
+      ],
+      [
+        1409,
+        ""
+      ],
+      [
         1412,
         ""
       ],
@@ -19999,6 +20579,26 @@
       ],
       [
         1412,
+        ""
+      ],
+      [
+        1412,
+        "#### 惩罚"
+      ],
+      [
+        1412,
+        ""
+      ],
+      [
+        1414,
+        ""
+      ],
+      [
+        1414,
+        "#### 自卫"
+      ],
+      [
+        1414,
         ""
       ],
       [
@@ -20026,6 +20626,50 @@
         ""
       ],
       [
+        1433,
+        "#### 艺术总论与定义"
+      ],
+      [
+        1433,
+        ""
+      ],
+      [
+        1438,
+        ""
+      ],
+      [
+        1438,
+        "#### 各艺术门类"
+      ],
+      [
+        1438,
+        ""
+      ],
+      [
+        1446,
+        ""
+      ],
+      [
+        1446,
+        "#### 美学理论家"
+      ],
+      [
+        1446,
+        ""
+      ],
+      [
+        1449,
+        ""
+      ],
+      [
+        1449,
+        "#### 虚构、描绘与情感"
+      ],
+      [
+        1449,
+        ""
+      ],
+      [
         1454,
         ""
       ],
@@ -20046,6 +20690,62 @@
         ""
       ],
       [
+        1454,
+        "#### 女性主义总论"
+      ],
+      [
+        1454,
+        ""
+      ],
+      [
+        1460,
+        ""
+      ],
+      [
+        1460,
+        "#### 女性主义伦理学与政治"
+      ],
+      [
+        1460,
+        ""
+      ],
+      [
+        1465,
+        ""
+      ],
+      [
+        1465,
+        "#### 女性主义认识论与科学"
+      ],
+      [
+        1465,
+        ""
+      ],
+      [
+        1469,
+        ""
+      ],
+      [
+        1469,
+        "#### 女性主义形而上学与语言"
+      ],
+      [
+        1469,
+        ""
+      ],
+      [
+        1472,
+        ""
+      ],
+      [
+        1472,
+        "#### 女性主义专题"
+      ],
+      [
+        1472,
+        ""
+      ],
+      [
         1482,
         ""
       ],
@@ -20058,6 +20758,26 @@
         ""
       ],
       [
+        1482,
+        "#### 性与性别"
+      ],
+      [
+        1482,
+        ""
+      ],
+      [
+        1485,
+        ""
+      ],
+      [
+        1485,
+        "#### 女性主义视角"
+      ],
+      [
+        1485,
+        ""
+      ],
+      [
         1492,
         ""
       ],
@@ -20067,6 +20787,26 @@
       ],
       [
         1492,
+        ""
+      ],
+      [
+        1492,
+        "#### 性与色情"
+      ],
+      [
+        1492,
+        ""
+      ],
+      [
+        1494,
+        ""
+      ],
+      [
+        1494,
+        "#### 女性主义视角"
+      ],
+      [
+        1494,
         ""
       ],
       [
@@ -20098,6 +20838,26 @@
         ""
       ],
       [
+        1497,
+        "#### 逻辑学家"
+      ],
+      [
+        1497,
+        ""
+      ],
+      [
+        1511,
+        ""
+      ],
+      [
+        1511,
+        "#### 逻辑史"
+      ],
+      [
+        1511,
+        ""
+      ],
+      [
         1519,
         ""
       ],
@@ -20122,6 +20882,26 @@
         ""
       ],
       [
+        1519,
+        "#### 经典逻辑总论"
+      ],
+      [
+        1519,
+        ""
+      ],
+      [
+        1526,
+        ""
+      ],
+      [
+        1526,
+        "#### 量化与条件"
+      ],
+      [
+        1526,
+        ""
+      ],
+      [
         1531,
         ""
       ],
@@ -20131,6 +20911,86 @@
       ],
       [
         1531,
+        ""
+      ],
+      [
+        1531,
+        "#### 模态与时态"
+      ],
+      [
+        1531,
+        ""
+      ],
+      [
+        1537,
+        ""
+      ],
+      [
+        1537,
+        "#### 直觉主义与构造"
+      ],
+      [
+        1537,
+        ""
+      ],
+      [
+        1542,
+        ""
+      ],
+      [
+        1542,
+        "#### 认识论与动态"
+      ],
+      [
+        1542,
+        ""
+      ],
+      [
+        1547,
+        ""
+      ],
+      [
+        1547,
+        "#### 相干、次协调与依赖"
+      ],
+      [
+        1547,
+        ""
+      ],
+      [
+        1553,
+        ""
+      ],
+      [
+        1553,
+        "#### 量词与高阶"
+      ],
+      [
+        1553,
+        ""
+      ],
+      [
+        1559,
+        ""
+      ],
+      [
+        1559,
+        "#### 游戏与语义"
+      ],
+      [
+        1559,
+        ""
+      ],
+      [
+        1565,
+        ""
+      ],
+      [
+        1565,
+        "#### 专题"
+      ],
+      [
+        1565,
         ""
       ],
       [
@@ -20146,6 +21006,50 @@
         ""
       ],
       [
+        1573,
+        "#### 集合论"
+      ],
+      [
+        1573,
+        ""
+      ],
+      [
+        1582,
+        ""
+      ],
+      [
+        1582,
+        "#### 模型论与证明论"
+      ],
+      [
+        1582,
+        ""
+      ],
+      [
+        1587,
+        ""
+      ],
+      [
+        1587,
+        "#### 类型论与计算"
+      ],
+      [
+        1587,
+        ""
+      ],
+      [
+        1593,
+        ""
+      ],
+      [
+        1593,
+        "#### 代数与基础"
+      ],
+      [
+        1593,
+        ""
+      ],
+      [
         1597,
         ""
       ],
@@ -20155,6 +21059,38 @@
       ],
       [
         1597,
+        ""
+      ],
+      [
+        1597,
+        "#### 推理与论证"
+      ],
+      [
+        1597,
+        ""
+      ],
+      [
+        1602,
+        ""
+      ],
+      [
+        1602,
+        "#### 悖论"
+      ],
+      [
+        1602,
+        ""
+      ],
+      [
+        1606,
+        ""
+      ],
+      [
+        1606,
+        "#### 逻辑后承与概率"
+      ],
+      [
+        1606,
         ""
       ],
       [
@@ -20190,6 +21126,38 @@
         ""
       ],
       [
+        1610,
+        "#### 批判理性主义"
+      ],
+      [
+        1610,
+        ""
+      ],
+      [
+        1612,
+        ""
+      ],
+      [
+        1612,
+        "#### 历史主义"
+      ],
+      [
+        1612,
+        ""
+      ],
+      [
+        1615,
+        ""
+      ],
+      [
+        1615,
+        "#### 逻辑经验主义与先驱"
+      ],
+      [
+        1615,
+        ""
+      ],
+      [
         1618,
         ""
       ],
@@ -20214,6 +21182,38 @@
         ""
       ],
       [
+        1618,
+        "#### 科学方法"
+      ],
+      [
+        1618,
+        ""
+      ],
+      [
+        1623,
+        ""
+      ],
+      [
+        1623,
+        "#### 确证与预测"
+      ],
+      [
+        1623,
+        ""
+      ],
+      [
+        1627,
+        ""
+      ],
+      [
+        1627,
+        "#### 划界与多元"
+      ],
+      [
+        1627,
+        ""
+      ],
+      [
         1630,
         ""
       ],
@@ -20223,6 +21223,26 @@
       ],
       [
         1630,
+        ""
+      ],
+      [
+        1630,
+        "#### 解释理论"
+      ],
+      [
+        1630,
+        ""
+      ],
+      [
+        1632,
+        ""
+      ],
+      [
+        1632,
+        "#### 机制与定律"
+      ],
+      [
+        1632,
         ""
       ],
       [
@@ -20238,6 +21258,38 @@
         ""
       ],
       [
+        1634,
+        "#### 实在论"
+      ],
+      [
+        1634,
+        ""
+      ],
+      [
+        1637,
+        ""
+      ],
+      [
+        1637,
+        "#### 反实在论"
+      ],
+      [
+        1637,
+        ""
+      ],
+      [
+        1639,
+        ""
+      ],
+      [
+        1639,
+        "#### 理论与观察"
+      ],
+      [
+        1639,
+        ""
+      ],
+      [
         1642,
         ""
       ],
@@ -20247,6 +21299,26 @@
       ],
       [
         1642,
+        ""
+      ],
+      [
+        1642,
+        "#### 理论与模型"
+      ],
+      [
+        1642,
+        ""
+      ],
+      [
+        1645,
+        ""
+      ],
+      [
+        1645,
+        "#### 定律与模拟"
+      ],
+      [
+        1645,
         ""
       ],
       [
@@ -20262,6 +21334,26 @@
         ""
       ],
       [
+        1648,
+        "#### 实验"
+      ],
+      [
+        1648,
+        ""
+      ],
+      [
+        1649,
+        ""
+      ],
+      [
+        1649,
+        "#### 测量"
+      ],
+      [
+        1649,
+        ""
+      ],
+      [
         1650,
         ""
       ],
@@ -20274,6 +21366,26 @@
         ""
       ],
       [
+        1650,
+        "#### 进步与革命"
+      ],
+      [
+        1650,
+        ""
+      ],
+      [
+        1653,
+        ""
+      ],
+      [
+        1653,
+        "#### 不可通约与统一"
+      ],
+      [
+        1653,
+        ""
+      ],
+      [
         1655,
         ""
       ],
@@ -20283,6 +21395,26 @@
       ],
       [
         1655,
+        ""
+      ],
+      [
+        1655,
+        "#### 客观性与可重复性"
+      ],
+      [
+        1655,
+        ""
+      ],
+      [
+        1657,
+        ""
+      ],
+      [
+        1657,
+        "#### 知识的社会维度"
+      ],
+      [
+        1657,
         ""
       ],
       [
@@ -20322,6 +21454,110 @@
         ""
       ],
       [
+        1708,
+        "### 生物学哲学总论"
+      ],
+      [
+        1708,
+        ""
+      ],
+      [
+        1712,
+        ""
+      ],
+      [
+        1712,
+        "### 进化与选择"
+      ],
+      [
+        1712,
+        ""
+      ],
+      [
+        1721,
+        ""
+      ],
+      [
+        1721,
+        "### 进化史与达尔文"
+      ],
+      [
+        1721,
+        ""
+      ],
+      [
+        1725,
+        ""
+      ],
+      [
+        1725,
+        "### 遗传学"
+      ],
+      [
+        1725,
+        ""
+      ],
+      [
+        1734,
+        ""
+      ],
+      [
+        1734,
+        "### 发育与模式生物"
+      ],
+      [
+        1734,
+        ""
+      ],
+      [
+        1738,
+        ""
+      ],
+      [
+        1738,
+        "### 生态与保育"
+      ],
+      [
+        1738,
+        ""
+      ],
+      [
+        1744,
+        ""
+      ],
+      [
+        1744,
+        "### 细胞、分子与微生物"
+      ],
+      [
+        1744,
+        ""
+      ],
+      [
+        1748,
+        ""
+      ],
+      [
+        1748,
+        "### 动物认知"
+      ],
+      [
+        1748,
+        ""
+      ],
+      [
+        1753,
+        ""
+      ],
+      [
+        1753,
+        "### 专题"
+      ],
+      [
+        1753,
+        ""
+      ],
+      [
         1759,
         ""
       ],
@@ -20334,6 +21570,86 @@
         ""
       ],
       [
+        1759,
+        "### 总论与流派"
+      ],
+      [
+        1759,
+        ""
+      ],
+      [
+        1768,
+        ""
+      ],
+      [
+        1768,
+        "### 基础与无穷"
+      ],
+      [
+        1768,
+        ""
+      ],
+      [
+        1777,
+        ""
+      ],
+      [
+        1777,
+        "### 几何"
+      ],
+      [
+        1777,
+        ""
+      ],
+      [
+        1780,
+        ""
+      ],
+      [
+        1780,
+        "### 概率与统计"
+      ],
+      [
+        1780,
+        ""
+      ],
+      [
+        1786,
+        ""
+      ],
+      [
+        1786,
+        "### 数学实践与解释"
+      ],
+      [
+        1786,
+        ""
+      ],
+      [
+        1791,
+        ""
+      ],
+      [
+        1791,
+        "### 人物"
+      ],
+      [
+        1791,
+        ""
+      ],
+      [
+        1792,
+        ""
+      ],
+      [
+        1792,
+        "### 应用与交叉"
+      ],
+      [
+        1792,
+        ""
+      ],
+      [
         1794,
         ""
       ],
@@ -20343,6 +21659,38 @@
       ],
       [
         1794,
+        ""
+      ],
+      [
+        1794,
+        "### 神经科学与意识"
+      ],
+      [
+        1794,
+        ""
+      ],
+      [
+        1797,
+        ""
+      ],
+      [
+        1797,
+        "### 心理学与精神病学"
+      ],
+      [
+        1797,
+        ""
+      ],
+      [
+        1800,
+        ""
+      ],
+      [
+        1800,
+        "### 人物"
+      ],
+      [
+        1800,
         ""
       ],
       [
@@ -20370,6 +21718,38 @@
         ""
       ],
       [
+        1829,
+        "#### 技术哲学总论"
+      ],
+      [
+        1829,
+        ""
+      ],
+      [
+        1832,
+        ""
+      ],
+      [
+        1832,
+        "#### 人工智能伦理"
+      ],
+      [
+        1832,
+        ""
+      ],
+      [
+        1835,
+        ""
+      ],
+      [
+        1835,
+        "#### 互联网伦理"
+      ],
+      [
+        1835,
+        ""
+      ],
+      [
         1839,
         ""
       ],
@@ -20379,6 +21759,62 @@
       ],
       [
         1839,
+        ""
+      ],
+      [
+        1839,
+        "### 医学哲学总论与概念"
+      ],
+      [
+        1839,
+        ""
+      ],
+      [
+        1844,
+        ""
+      ],
+      [
+        1844,
+        "### 伦理与决策"
+      ],
+      [
+        1844,
+        ""
+      ],
+      [
+        1849,
+        ""
+      ],
+      [
+        1849,
+        "### 增强与生殖"
+      ],
+      [
+        1849,
+        ""
+      ],
+      [
+        1856,
+        ""
+      ],
+      [
+        1856,
+        "### 正义与残疾"
+      ],
+      [
+        1856,
+        ""
+      ],
+      [
+        1861,
+        ""
+      ],
+      [
+        1861,
+        "### 心灵与神经"
+      ],
+      [
+        1861,
         ""
       ],
       [
@@ -20404,6 +21840,38 @@
       [
         1876,
         ""
+      ],
+      [
+        1876,
+        "#### 教育哲学总论"
+      ],
+      [
+        1876,
+        ""
+      ],
+      [
+        1879,
+        ""
+      ],
+      [
+        1879,
+        "#### 童年与儿童"
+      ],
+      [
+        1879,
+        ""
+      ],
+      [
+        1881,
+        ""
+      ],
+      [
+        1881,
+        "#### 人物"
+      ],
+      [
+        1881,
+        ""
       ]
     ],
     "head": [
@@ -20414,6 +21882,7 @@
       ""
     ],
     "tail": [
+      "",
       ""
     ]
   }
