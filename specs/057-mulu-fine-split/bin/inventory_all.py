@@ -84,10 +84,11 @@ def main():
               and n["level"] <= 5 and n["path"][0] not in ("前言", "关于")]
         print(f"  {z}：候选 {len(cz)} 节 / 条目 {sum(len(n['direct']) for n in cz)}")
     # ADR-0004 单体规模：按区分档输出（合出一文件超 1000 行／100 KB 门禁）
-    import unicodedata
     outdir = ROOT / "specs/057-mulu-fine-split/results/s3-inventory"
     outdir.mkdir(parents=True, exist_ok=True)
-    index = ["# s3 全库细分盘点索引（直属条目≥2 且无子节的节点，按区分档）", ""]
+    for old in outdir.glob("s3-inv-*.md"):      # 文件名按区固定，先清旧档防残留错位
+        old.unlink()
+    index = ["# s3 全库细分盘点索引（直属条目≥2 且无子节、层级≤H5 的节点，按区分档）", ""]
     for z, ns in zones.items():
         cz = [n for n in ns if len(n["direct"]) >= 2 and n["sub"] == 0
               and n["level"] <= 5 and n["path"][0] not in ("前言", "关于")]
@@ -101,7 +102,7 @@ def main():
                 extra = f"　［簇：{'、'.join(kids)}］" if kids else ""
                 lines.append(f"- `{slug}`｜{title}{extra}")
             lines.append("")
-        fn = f"s3-inv-{len(index):02d}.md"
+        fn = "s3-inv-" + re.sub(r"[、，\s]", "", z) + ".md"
         (outdir / fn).write_text("\n".join(lines) + "\n", encoding="utf-8", newline="\n")
         index.append(f"- `s3-inventory/{fn}`｜{z}：候选 {len(cz)} 节 / "
                      f"条目 {sum(len(n['direct']) for n in cz)}")
