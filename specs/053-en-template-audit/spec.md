@@ -242,6 +242,16 @@ B3.2 的 sha 全等清单即 OAIS fixity 账的实现形态；与 ADR-0076 已�
 **教训**：①判据试错的终点是**语义层**——R 侧形态试探三轮不收敛，把字面/定界在 C 侧转义分离后问题整体消失，“先改产生方再改判下方”；②C 改动必须**全量重转**（1,873 件 sha 登记 entries.json 同步更新）并以 B3.1 集合级对照止损，本轮逐族修复净 +117、终态转红 0；③嵌套强调的正确表示不是更强的正则而是**栈**，md 扁平形态表达不了的结构（em 套 em、跨行 em）宁可压平/不发表并交池补，也不产歧义星流。
 
 **附记（同批已回退的星歧义三轮）**：嵌套星对判据（歧义预模拟／括号收紧／贪心残留）三轮 B3.1 净退化 3→7 件均大于 B3.2 收益（+1），全部回退至 da27aa026——根因是 C 对嵌套 em 转不出外层星，H0 字面星残留与真嵌套在 md 扁平形态不可区分，登记专项（候选＝账记 em 嵌套结构或 yuanwen.py 转出嵌套标记）。
+## 10.7 B3.2 第八批实施记（2026-11-22，链接题注守卫与公式形态账）
+
+**缺陷一（links 账把内文引用挂到题注标签上，belief-merging 判例）**：H0 的 `Table 1` 可见出现序 0,2,3,4,5,6 全在正文，第 1 次是题注 span；游标法把首条链接挂到 C 注入的 `*Table 1:*` 题注行上。先试“全局出现序＝账 nth”精确匹配，全库实测池 **−9**（1,483→1,474，失池 17 件）——md 与 H0 出现次数不等时反而全错位，**已回退**。终法：保留文档序游标，加题注跳过守卫（md 侧 `*Xxx N:*` 题注行、锚文位于行首且后接 `:` 时不作为链接位）。
+
+**缺陷二（裸排显示环境多出定界符）**：C 的 `wrap_naked_envs`（ADR-0049 决策 6）把裸 `\begin{align}` 包成 `$$…$$` 送渲染，md 里两种形态都成 `$$`；R 一律发 `\[…\]`，裸排件文字层多出定界符（belief-merging 判例）。新增结构账 **`math_forms`**（文档序 `br`／`naked`，全库 289 件有账），R 按游标还原：账记 `naked` 时只发环境体、不补定界符。
+
+**实测**：池 **1,483→1,486（79.3%）／缺口 387／stale 0**；转池 4（axiom-choice／belief-merging／confirmation／decision-theory），失池 1（discourse-representation-theory，json 游标错位）；池占页 **38.59%**。B3.1 **1,569 不变**（链接账与公式账在 B3.1 判官路径下均为 None，R 行为恒等）。
+
+**教训**：①“用账里的精确序号替换启发式”不是无条件改进——账 nth 与 md 出现次数不等时反而全盘错位（−9 实测），启发式＋局部守卫更稳；②转换层为了渲染而加的包裹（`wrap_naked_envs`）必须同时记进结构账，否则右逆无从还原。
+
 ## 11. 现状与下一步（开工卡，2026-11-22）
 
 **验收线现状**（现查口径，勿引快照）：
@@ -249,7 +259,7 @@ B3.2 的 sha 全等清单即 OAIS fixity 账的实现形态；与 ADR-0076 已�
 | 判据 | 现状 | 取数命令 |
 | ---- | ---- | ---- |
 | B3.1 往返不动点 | **1,569/1,873（83.8%）**，集合级 0 退化（对 `results/assembly-scan-all.json`） | `python -B specs/053-en-template-audit/bin/reassemble.py --all --out <json>` |
-| B3.2 页面装配 | **pool 1,483（79.2%）／gap 390／stale 0**，池占页 38.49% | `python -B specs/053-en-template-audit/bin/page_assemble.py --all --build` |
+| B3.2 页面装配 | **pool 1,486（79.3%）／gap 387／stale 0**，池占页 38.59% | `python -B specs/053-en-template-audit/bin/page_assemble.py --all --build` |
 | I2/I3 转换保真 | `--gate` 0 issue（1,873 全过） | `python -B tools/check_yuanwen_fidelity.py --gate` |
 | 全库门禁 | check_all 17 项全绿 | `python -B tools/check_all.py` |
 
@@ -259,9 +269,8 @@ B3.2 的 sha 全等清单即 OAIS fixity 账的实现形态；与 ADR-0076 已�
 - **h0_extra 62**：书目结构元素——`<ol>` 手排号 `1.`（H0 文字层有数字、R 发出 `<ol>` 吞号，alyngton／arnauld／fallacies 判例）、缩写键块 `[AOP]…`（alain-locke／burke／contract-law）、文献分节标题（`Primary Literature`／`Secondary Literature`／`Other References`，habermas／chimeras）、表题 `Table 1`／`Game 1.`（bayes-theorem／heytesbury）、交叉引用注（`See section 2, above.` boethius-dacia）。**需账记列表形态与分节标题**（账现有 bib_* 只覆盖主文献区）。
 - **star 39／text 38／digit 39／math 24**：逐件仍待定位。
 
-**已定位的两个具体缺陷（下一批入口）**：
+**已修复的两个缺陷（第八批，见 §10.7）**：①`links` 账把内文引用挂到题注标签——游标法＋题注跳过守卫（精确 nth 法实测 −9 已回退）；②裸排显示环境多出定界符——`math_forms` 账（`br`／`naked`）。
 
-1. **`links` 账导致图注／表题段整段丢失**。判例 belief-merging：md `*Table 1:* The doctrinal paradox` 段在装配产物中消失；二分确认为 `reassemble_article(..., links=<账>)` 引起（无 links 时该段正常）。疑点：`_wrap_links` 的行内定位与 `_LINK_IDX` 游标（内文引用 `Table 1` 与题注文字同形，`_occ_positions` 命中错行后 `break` 阻塞后续条目）。复现：`python -B -c "…PA.assemble(lib,'belief-merging')"` 后查 `'Table 1:' in page`。
-2. **书目 `<ol>` 手排号 vs 字面 `1.`**：C 的 ol→md 保留 `N. ` 前缀，R 无条件发 `<ol>`，而 H0 有手排数字时文字层含 `1.`。需在结构账记「该列表是 ol 还是字面编号」。
+**下一批入口**：**书目 `<ol>` 手排号 vs 字面 `1.`**——C 的 ol→md 保留 `N. ` 前缀，R 无条件发 `<ol>`，而 H0 有手排数字时文字层含 `1.`；需在结构账记“该列表是 ol 还是字面编号”。其余 h0_extra 元素（缩写键块、文献分节标题、表题、交叉引用注）同批处理。
 
 **流程提醒**：动 C 必全量重转（`python -B tools/yuanwen.py --all-baselined`，约 18 分钟）＋B3.1 集合级对照止损；动 R/账只重跑 B3.1（约 10 分钟）＋建池（约 20 分钟）＋judge 复扫（约 25 分钟）；基线 `results/assembly-scan-all.json` 与 `results/page-scan-all.json` 只在收敛后人工更新并提交。

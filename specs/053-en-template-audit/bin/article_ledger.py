@@ -131,6 +131,23 @@ def _count_word(text, needle):
     return len(re.findall(pat, text))
 
 
+def extract_math_forms(art_inner):
+    """显示公式形态账（文档序）：`br`＝`\\[…\\]` 包裹，`naked`＝裸排环境。
+
+    C 侧 wrap_naked_envs（ADR-0049 决策 6）把裸 `\\begin{align}` 也包成
+    `$$…$$` 送渲染，md 里两种形态都成了 `$$`；右逆若一律发 `\\[…\\]`，裸排件
+    的文字层就多出定界符（belief-merging 判例：H0 `\\begin{align}` 对装配
+    `\\[\\begin{align}…`）。账记原位形态，R 按游标还原。"""
+    env = (r"align\*?|aligned|gather\*?|gathered|multline\*?|equation\*?|"
+           r"eqnarray\*?|displaymath")
+    pat = re.compile(r"\\\[.*?\\\]|\\begin\{(" + env + r")\}.*?\\end\{\1\}",
+                     re.S)
+    out = []
+    for m in pat.finditer(art_inner):
+        out.append("br" if m.group(0).startswith("\\[") else "naked")
+    return out
+
+
 def extract_links(art_inner):
     """C 丢弃的内部链接（跨词条 ../slug/、页内 #anchor），文档序＋出现序。
 
@@ -678,6 +695,9 @@ def extract(art_inner, md=None):
     nf = extract_note_forms(art_inner)
     if nf:
         led["note_forms"] = nf
+    mf = extract_math_forms(art_inner)
+    if mf:
+        led["math_forms"] = mf
     toc = extract_toc(art_inner)
     if toc:
         led["toc_block"] = toc

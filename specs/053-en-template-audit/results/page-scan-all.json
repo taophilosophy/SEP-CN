@@ -5,12 +5,12 @@
  "total": 1873,
  "counts": {
   "rule": 0,
-  "pool": 1483,
-  "gap": 390,
+  "pool": 1486,
+  "gap": 387,
   "stale": 0
  },
  "page_bytes": 235952045,
- "pool_bytes": 90814513,
+ "pool_bytes": 91063492,
  "entries": [
   {
    "slug": "18thGerman-preKant",
@@ -1236,12 +1236,9 @@
   {
    "slug": "axiom-choice",
    "page_len": 86836,
-   "status": "gap",
-   "why": "unaligned text units",
-   "sample": {
-    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
-    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
-   }
+   "status": "pool",
+   "n_patches": 208,
+   "pool_bytes": 71568
   },
   {
    "slug": "ayer",
@@ -1339,12 +1336,9 @@
   {
    "slug": "belief-merging",
    "page_len": 110993,
-   "status": "gap",
-   "why": "unaligned text units",
-   "sample": {
-    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
-    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
-   }
+   "status": "pool",
+   "n_patches": 188,
+   "pool_bytes": 77271
   },
   {
    "slug": "bell-theorem",
@@ -2554,12 +2548,9 @@
   {
    "slug": "confirmation",
    "page_len": 160635,
-   "status": "gap",
-   "why": "unaligned text units",
-   "sample": {
-    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
-    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
-   }
+   "status": "pool",
+   "n_patches": 301,
+   "pool_bytes": 78644
   },
   {
    "slug": "confucian-gender",
@@ -2716,8 +2707,8 @@
    "slug": "consequentializing",
    "page_len": 125621,
    "status": "pool",
-   "n_patches": 196,
-   "pool_bytes": 54943
+   "n_patches": 193,
+   "pool_bytes": 53925
   },
   {
    "slug": "conservation-biology",
@@ -3010,8 +3001,8 @@
    "slug": "critical-thinking",
    "page_len": 135045,
    "status": "pool",
-   "n_patches": 288,
-   "pool_bytes": 58008
+   "n_patches": 286,
+   "pool_bytes": 56335
   },
   {
    "slug": "croce-aesthetics",
@@ -3163,12 +3154,9 @@
   {
    "slug": "decision-theory",
    "page_len": 183488,
-   "status": "gap",
-   "why": "unaligned text units",
-   "sample": {
-    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
-    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
-   }
+   "status": "pool",
+   "n_patches": 356,
+   "pool_bytes": 90998
   },
   {
    "slug": "decision-theory-descriptive",
@@ -3586,9 +3574,12 @@
   {
    "slug": "discourse-representation-theory",
    "page_len": 116648,
-   "status": "pool",
-   "n_patches": 152,
-   "pool_bytes": 66815
+   "status": "gap",
+   "why": "unaligned text units",
+   "sample": {
+    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
+    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
+   }
   },
   {
    "slug": "discrimination",
@@ -10162,8 +10153,8 @@
    "slug": "paradox-simpson",
    "page_len": 134712,
    "status": "pool",
-   "n_patches": 297,
-   "pool_bytes": 81371
+   "n_patches": 296,
+   "pool_bytes": 81375
   },
   {
    "slug": "paradox-skolem",

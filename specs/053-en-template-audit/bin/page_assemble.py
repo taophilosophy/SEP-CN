@@ -94,7 +94,8 @@ def assemble(lib, slug):
     _t, flat = ra.reassemble_article(md0, authors, led.get("entities"),
                                      led.get("links"), led.get("greek"),
                                      led.get("italics"), led.get("greek_form"),
-                                     led.get("note_forms"))
+                                     led.get("note_forms"),
+                                     led.get("math_forms"))
     miss = ra.link_misses()
     art = AB.build(flat, led)
     if art is None:

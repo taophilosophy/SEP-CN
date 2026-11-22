@@ -75,6 +75,9 @@ _LINK_SEEN = None  # 各锚文已过历的词界出现次数（旧 nth 定位，
 _LINK_IDX = None  # 文档序游标：下一条待消费的链接账条目
 _ITAL = "em"  # 按件斜体标签名（em/i）
 _GREEK_FORM = None  # 按件希腊字形态："em" 表示 <em>&alpha;</em> 而非宏
+_MATH_FORMS = None  # 按件显示公式形态账（文档序 "br"／"naked"）
+_MATH_IDX = [0]     # 显示公式游标（reassemble_article 重置）
+
 _NOTE_FORMS = None  # 按件非规范脚注引用形（文档序列表 [{n, form}]）
 _NOTE_IDX = [0]  # note_forms 消费游标（跨行持续；reassemble_article 重置）
 _NOTE_SEEN = {}  # 已按规范形输出的键计数（游标跳过判据）
@@ -116,11 +119,18 @@ def restore_links(line):
     为 `Section 3 above`，旧法把第 1 处同时判给前两条，产出
     `<a>[Section 3](#Or</a>igSyllArts)`（al-farabi-logic 判例）。改为顺序
     推进：每条从本行已消费位置之后取首个词界出现，账序与文序同时对位。
+
+    题注标签不参与：C 注入的 `*Table 1:*`／`*Figure 1:*`（figlabel）与内文
+    引用同形，游标会把链接挂到题注标签上（belief-merging 判例：H0 的
+    `Table 1` 出现序 0,2,3,4,5,6 全在正文，第 1 次是题注 span）。2026-11-22
+    试过「全局出现序＝账 nth」的精确匹配，全库实测池 −9（1,483→1,474，失池
+    17 件：md 与 H0 的出现次数不等时反而全错位），已回退为游标法＋题注跳过。
     """
     global _LINK_IDX
     if not _LINKS:
         return line
     flat, pos = _stripped_map(line)
+    is_caption = bool(re.match(r"\s*\*[^*\n]", line))
     picks = []
     ceiling = 0
     j = _LINK_IDX or 0
@@ -132,9 +142,13 @@ def restore_links(line):
             continue
         st = None
         for cand in _occ_positions(flat, t):
-            if cand >= ceiling:
-                st = cand
-                break
+            if cand < ceiling:
+                continue
+            if (is_caption and cand == 0
+                    and flat[len(t):len(t) + 1] == ":"):
+                continue          # 题注标签位（`*Table 1:*`）：链接在正文
+            st = cand
+            break
         if st is None:
             break  # 本条不在本行（或在已消费区之前）——留待后续行
         picks.append((st, st + len(t), j, lk))
@@ -371,7 +385,16 @@ def _inline_md_to_html(text):
     # 数学占位还原（$x$ → \(x\)；$$x$$ → \[x\]）
     for idx, val in enumerate(math_store):
         if val.startswith("$$"):
-            rep = r"\[" + val[2:-2] + r"\]"
+            body = val[2:-2]
+            # 显示体形态按账：H0 裸排环境（`\begin{align}` 无 `\[…\]` 包裹）
+            # 原样发，不补定界符——C 的 wrap_naked_envs 只是渲染层约定，
+            # 右逆必须与 H0 逐字节一致（belief-merging 判例）
+            if (_MATH_FORMS and _MATH_IDX[0] < len(_MATH_FORMS)
+                    and _MATH_FORMS[_MATH_IDX[0]] == "naked"):
+                rep = body
+            else:
+                rep = r"\[" + body + r"\]"
+            _MATH_IDX[0] += 1
         else:
             rep = r"\(" + val[1:-1] + r"\)"
         s = s.replace("\x02%d\x02" % idx, rep)
@@ -527,7 +550,8 @@ def _td(cell):
 # ------------------------------------------------------------ 块级逆写 ----
 
 def reassemble_article(md, authors, entity_map=None, links=None, greek=None,
-                       italics=None, greek_form=None, note_forms=None):
+                       italics=None, greek_form=None, note_forms=None,
+                       math_forms=None):
     """md（主档全文）→ (title, article_html)。不动点验证在调用方闭环。
 
     entity_map：按件实体策略（codepoint → 实体串）；None 表示不编码。
@@ -535,11 +559,13 @@ def reassemble_article(md, authors, entity_map=None, links=None, greek=None,
            未消费条目经 LINK_MISSES 暴露给判官（账/文不一致即红）。
     greek：按件希腊宏覆盖（同名不同宏：pi/varphi 之类 C 侧同形不可分）。"""
     global _EM, _LINKS, _LINKS_USED, _LINK_SEEN, _LINK_IDX, _GREEK, _GREEK_IDX
-    global _ITAL, _GREEK_FORM, _NOTE_FORMS
+    global _ITAL, _GREEK_FORM, _NOTE_FORMS, _MATH_FORMS
     _GREEK = greek
     _GREEK_IDX = {}
     _EM = entity_map
     _NOTE_FORMS = note_forms
+    _MATH_FORMS = math_forms
+    _MATH_IDX[0] = 0
     _LINKS = links or []
     _LINKS_USED = {}
     _LINK_SEEN = {}
