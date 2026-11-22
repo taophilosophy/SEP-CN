@@ -24,6 +24,8 @@ ACAD_ROWS = (("sepman-icon.jpg", "sep man icon"),
 REGION_HEADS = {"Bibliography": "bibliography", "Academic Tools": "academic-tools",
                 "Other Internet Resources": "other-internet-resources",
                 "Related Entries": "related-entries"}
+# 致谢区题：Acknowledgment(s)／Acknowledgement(s) 四种拼写，级别 h2/h3 都有
+ACK_HEAD_RE = re.compile(r"^Acknowl")
 
 
 def split_blocks(art):
@@ -272,7 +274,7 @@ def build(md_article_html, ledger):
                        "related-entries": rel}[REGION_HEADS[txt]]
                 cur.append(b)
                 continue
-            if lv == 3 and txt == "Acknowledgments":
+            if lv in (2, 3) and ACK_HEAD_RE.match(txt):
                 cur = ack
                 cur.append(b)
                 continue
@@ -331,16 +333,38 @@ def build(md_article_html, ledger):
     # main-text
     mt = _render_main(main, hid_map)
     out.append('<div id="main-text">\n\n%s\n</div>\n' % (mt or ""))
-    out.append(_render_bib(bib, hid_map, ledger))
-    out.append(_render_acad(acad, hid_map, ledger))
-    out.append(_render_other(oth, hid_map))
-    out.append(_render_rel(rel, hid_map, ledger))
-    if ack:
-        head = ack[0]
-        inner = "\n".join(ack[1:])
-        inner = re.sub(r"^<p>", "<p>\n", inner)
-        out.append('\n<div id="acknowledgments">\n\n%s\n\n%s\n</div> \n' % (
-            heading_tag(3, hid_map.get(id(head)), head_of(head).group(2).strip()), inner))
+    # 尾部区按 md 标题次序发（md 序＝H0 序，C 按文档序落块）：常序 bib→acad→oth→rel；
+    # civil-disobedience 的致谢在书目之后、学术工具之前（H0 实测），固定次序会错位。
+    _pos = {}
+    for _i, _b in enumerate(rest):
+        _pos[id(_b)] = _i
+    _regions = [("bib", bib), ("acad", acad), ("oth", oth), ("rel", rel),
+                ("ack", ack)]
+    for _name, _lst in sorted(_regions,
+                              key=lambda x: _pos.get(id(x[1][0]), 10 ** 9)
+                              if x[1] else 10 ** 9):
+        if not _lst:
+            continue
+        if _name == "bib":
+            out.append(_render_bib(bib, hid_map, ledger))
+        elif _name == "acad":
+            out.append(_render_acad(acad, hid_map, ledger))
+        elif _name == "oth":
+            out.append(_render_other(oth, hid_map))
+        elif _name == "rel":
+            out.append(_render_rel(rel, hid_map, ledger))
+        else:
+            head = ack[0]
+            inner = "\n".join(ack[1:])
+            inner = re.sub(r"^<p>", "<p>\n", inner)
+            hd = heading_tag(int(head_of(head).group(1)), hid_map.get(id(head)),
+                             head_of(head).group(2).strip())
+            if (ledger or {}).get("ack_div", 1) == 0:
+                # H0 无独立包层：致谢题与段直接跟在 related-entries div 之后
+                out.append("\n%s\n\n%s\n" % (hd, inner))
+            else:
+                out.append('\n<div id="acknowledgments">\n\n%s\n\n%s\n</div> \n'
+                           % (hd, inner))
     out.append(SUFFIX)
     return wrap_article("".join(out), (ledger or {}).get("wrap_width"))
 

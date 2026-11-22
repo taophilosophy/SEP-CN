@@ -323,3 +323,12 @@ B3.1 回归：不动点 **1,435/1,873（76.6%）**（此前 1,240，＋195，无
 **缺陷一**：`extract` 取 bib 区用 `(.*?)\n</div> ` 非贪婪正则，嵌套 div 早断（aristotle-ethics bib_heads 只剩 3 项）→ 一律改 `_bib_region`，账变更 18 件，aristotle-ethics 转池。
 **缺陷二**：H0 书目区整条注释掉的 `<li>` 被账照收（C 已丢弃）→ `_bib_region` 剔除 `<!--…-->`，账变更 17 件，chimeras／jefferson 转池。
 **实测**：池 **1,619（86.4%）／缺口 254／stale 0**，转池 4、失池 0，池占页 42.54%。**
+
+## 2026-11-22 B3.2 第十七批：致谢区识别三轴（池 1,619→1,636）
+
+**缺陷一**：`render_page` 认致谢区只按 `lv==3 and txt=="Acknowledgments"` 精确串；全库 741 个致谢头里 23 件不合（`Acknowledgements` 12／`Acknowledgment` 3／h2 级 5+3）→ 整节落进 main-text、发在正文末尾，u 键序整体错位（普查归入 h0_extra）。改前缀匹配 `^Acknowl`＋级别 h2/h3。
+**缺陷二**：尾部区按固定次序 bib→acad→oth→rel→ack 发；H0 civil-disobedience 的致谢在书目之后、学术工具之前。改为按各区首块在 `rest` 的位次排序发射（md 序＝H0 序）；全库区序普查 1,872 件仅 2 件非 canonical。
+**缺陷三**：致谢一律包 `<div id="acknowledgments">`、题恒 h3；H0 有 6 件无包层（fallacies／formalism-mathematics／logic-linear／natural-properties／scientific-revolutions／social-procedures）。账新增一位 `ack_div`，级别与锚形按 `hids` 取。
+**账变更面**：全库重抽 747 件，**只有 `ack_div` 一个字段**变化，其余逐件逐值等。
+**实测**：26 件定点重建（25 唯一）→ 池 **1,636（87.4%）／缺口 237／stale 0**，转池 17、失池 0，池占页 **43.12%**；check_all 17 项全绿。余 8 件已缩到单点（`>` 前缀泄漏、related 首位 `|` 等）。
+**W8 定案**：接受残留不修——修法成本实测 1,580 条／121 件键名改判（或 19 件重置风险、或账补丁全量重算）换 3 件（0.16%）且仅键名标签，三件 B3.2 均 pool。

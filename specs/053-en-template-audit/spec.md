@@ -346,28 +346,43 @@ B3.2 的 sha 全等清单即 OAIS fixity 账的实现形态；与 ADR-0076 已�
 
 **教训**：①**账与 C 必须同语料**——C 丢弃什么（注释）账就不得看见，否则账多出的条目把分组与定位全部带偏；②同一区间在账里被多处使用（bib_heads／sections／seq／tree／indices）时，取域必须收敛到一个函数（`_bib_region`），否则每个用点各错各的。
 
+## 10.16 B3.2 第十七批实施记（2026-11-22，致谢区识别三轴：拼写变体·区序·包层）
+
+**缺陷一（区题精确串）**：`render_page` 认致谢区只按 `lv==3 and txt=="Acknowledgments"` 精确串。全库 741 个头里 23 件不合此形——`Acknowledgements`（12）／`Acknowledgment`（3）拼写变体，`## Acknowledgments`（5）级别为 h2。不认则整节落进 main-text、发在正文末尾（H0 在 related-entries 之后），u 键序整体错位，被普查归入 h0_extra（wilson／chinese-mind／civil-disobedience／scientific-revolutions 等）。
+
+**缺陷二（区序固定）**：尾部四区原按 bib→acad→oth→rel→ack 固定次序发。H0 实测 civil-disobedience 的致谢在书目之后、学术工具之前（`bibliography→acknowledgments→academic-tools→…`）。修法：各区按**首个块在 `rest` 中的位次**排序发射（md 序＝H0 序，C 按文档序落块）；全库区序普查 1,872 件中仅 2 件非 canonical（civil-disobedience、self-reference），改动面可证。
+
+**缺陷三（包层与级别硬编码）**：致谢一律包 `<div id="acknowledgments">` 且题恒为 h3。H0 有 6 件无此包层（`<h2>Acknowledgement</h2>` 直接跟在 related-entries div 之后：fallacies／formalism-mathematics／logic-linear／natural-properties／scientific-revolutions／social-procedures）。修法：账新增一位 `ack_div`（有包层 1／裸题 0），级别与锚形仍按 `hids` 位次取。
+
+**账变更面**：全库重抽，变更恰 747 件且**只有 `ack_div` 一个字段**（其余字段逐件逐值等），无历史账漂移。
+
+**实测**：26 件定点重建（25 件唯一）→ 池 **1,619→1,636（87.4%）／缺口 237／stale 0**，转池 17、失池 0（fallacies 存池），池占页 **42.54%→43.12%**；check_all 17 项全绿。余 8 件（logic-combinatory／logic-connexive／realism／logic-linear／social-procedures／formalism-mathematics／self-reference）已从「整节错位」缩到单点：`>` 前缀泄漏（logic-connexive）、related 列表首位 `|` 前置（realism）等。
+
+**教训**：①区题匹配按**前缀**不按精确串——拼写变体是上游事实（Acknowledgement/Acknowledgments 两轴叉乘）；②包层有无、区序都是 H0 事实，前者入账（一位）、后者以 md 标题次序为准，不靠约定；③「改动面窄」要用全库普查证明（区序 1,872 件仅 2 件异常），不是抽样。
+
 ## 11. 现状与下一步（开工卡，2026-11-22）
 
 **验收线现状**（现查口径，勿引快照）：
 
 | 判据 | 现状 | 取数命令 |
 | ---- | ---- | ---- |
-| B3.1 往返不动点 | **1,616/1,873（86.3%）**，集合级 +24／转红 3（W8 键名漂移，见 §10.12） | `python -B specs/053-en-template-audit/bin/reassemble.py --all --out <json>` |
-| B3.2 页面装配 | **pool 1,619（86.4%）／gap 254／stale 0**，池占页 42.54% | `python -B specs/053-en-template-audit/bin/page_assemble.py --all --build` |
+| B3.1 往返不动点 | **1,616/1,873（86.3%）**，集合级 +24／转红 3（W8 键名漂移，定案见下） | `python -B specs/053-en-template-audit/bin/reassemble.py --all --out <json>` |
+| B3.2 页面装配 | **pool 1,636（87.4%）／gap 237／stale 0**，池占页 43.12% | `python -B specs/053-en-template-audit/bin/page_assemble.py --all --build` |
 | I2/I3 转换保真 | `--gate` 0 issue（1,873 全过） | `python -B tools/check_yuanwen_fidelity.py --gate` |
 | 全库门禁 | check_all 17 项全绿 | `python -B tools/check_all.py` |
 
-**缺口 258 分族**（`script/tmp/b32_families2.py <scan-json>`，第八项基线为 271 件时的分布；本批后须重跑）：md_extra 居首（同步线），余为 h0_extra／math／text／digit／star／ok?／entity。
+**缺口 237 分族**（`script/tmp/b32_families2.py <scan-json>`；最近一次分族普查为 271 件基线，致谢区批转池后须重跑）：md_extra 居首（同步线），余为 h0_extra／math／text／digit／star／ok?／entity。已解族：表题 `caption`（第十四批）、书目区无年份散文、书目区取域与注释（第十六批）、致谢区识别（第十七批，text/digit 两族大面积收敛）。
 
 - **md_extra**：md 有而 H0 无＝md 与 en 版本差／译注污染，属 specs/001 同步线（`compare` 漂移），**不修规则**；收敛上限由它决定。
 - **h0_extra 余件**：本轮已解书目区无年份散文（`-nd` 伪键族）与表题 `caption`；余下如 aristotle／chinese-mind／habermas／hobbes-science 的分节题缺失、boethius-dacia 交叉引用注、ratnakirti 的 Note 段（年份键间隙）等，逐件用 `probe_align2.py` 定位。
 - **bayes-theorem**：题注已入位，整表并入 28 KB u 补丁后 `&nbsp;&nbsp;` 计账在 `tx` 切片失配（自洽门拦下）——`u` 补丁模型在超长合并块的空白计账待专项。
 
-**B3.1 转红 3 件（W8）**：engels／foucault／kant-religion——书目区年份起首条目键名在“H0 直转”与“R 重建书目（md 无条目，defs 并一 ul）”两条路径下不同。候选修法＝`build_cite_keys` 让年份起首无姓条目**不继承前一条目姓氏**、统一用 `fallback_author`（需全量重转＋B3.1 集合对照）。
+**B3.1 转红 3 件（W8）——定案：接受残留，不修**。取证：engels 实际漂移 22 条定义（`engels-*→marx-*`）、foucault 1 条（`foucault-2018→cours-2018`）、kant-religion 2 条（`kant-religion-*→kant’s-*`）。根因：R 把全部文献定义放在 References 区**最后一个标题之后**的单 `<ul>` 里，C 的 `build_cite_keys` 按 section 邻接继承姓氏，年份起首条目因而继承前一节末条（Marx）。候选修法成本实测：①年份起首不继承、统一 fallback → 改判 **1,580 条／121 件**键名（含把合法的 `lewis/Church` 类换成 slug 键，且影响译注标记），需全量重转；②同小节换 `<ul>` 重置 prev → 19 件（30 处）现有键被改判；③R 按键姓段切 ul → 账与补丁全量重算。收益 3 件（0.16%）且仅键名标签、定义文字与顺序全等（三件 B3.2 均 pool）。故**不修**，登记为已知残留。
 
 **下一批入口**（按收益排序）：
-1. **h0_extra 余件逐件定位**（分节题缺失族最集中：aristotle／aristotle-ethics／chimeras／habermas／hobbes-science／friedrich-lange／singular-terms-medieval／civil-disobedience／scientific-revolutions）。
-2. **W8 键名一致性**（消 B3.1 转红 3 件）。
-3. **md_extra**：转 specs/001 同步线（`compare` 漂移清单核对）。
+1. **致谢区批的 8 件残差**：`>` 前缀泄漏（logic-connexive）、related 列表首位 `|`（realism）＝R 侧块序/分隔两处小缺陷，可能一次修多件。
+2. **h0_extra 余件（22／现缺口）**：hobbes-science／boethius-dacia／gregory-rimini 的**题后散字**（`</h3> Works by Hobbes` 式裸文字）、leibniz-ethics 的**裸名 li**（`Descartes, René` 被 C 丢弃）——前者需账记「题后尾字」，后者需账记被跳过条目；其余为一题一形。
+3. **math 族（23）**：裸希腊字母被包进 `\(\phi\)`、`\$` 转义等，属 `greek` 账覆盖面。
+4. **md_extra**：转 specs/001 同步线（`compare` 漂移清单核对）。
 
 **流程提醒**：动 C 必全量重转（约 18 分钟）＋B3.1 集合级对照止损；动 R/账只重跑 B3.1（约 10 分钟）＋建池（约 20 分钟）＋judge 复扫（约 25 分钟）；**小改动走定点重建＋judge 拼接**（受影响件集＝账 diff ∪ md 变件 ∪ 结构特征件；`script/tmp/splice_b12.py`）；基线只在收敛后人工更新并提交。
