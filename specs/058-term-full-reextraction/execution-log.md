@@ -46,3 +46,7 @@
 * 取证：Wikidata 逐人查（限流退避；凭证 `results/people-wikidata-2026-11-22-b2.tsv`）。Tim van Gelder 无生卒数据，留“—”；Mark Schroeder 首检命中篮球运动员，改查 Q93387536（1977–）。
 * 落册：`term_flow` 干跑 15/0，实写 15；人名表 4573 数据行守恒；`check_terms` 硬错误 0；`check_all` 17 项全绿。
 * 当日累计：术语表 246 行；人名表 28 行（13＋15）。
+* 人名第三批：10 人：Julia Kristeva、Ludwig von Mises、Ernst Haeckel、公孙龙（Gongsun Long）、Ramon Llull、Ernst Mally、Philipp Frank、Patricia Hill Collins、Douglas Den Uyl、Stephen Davies。
+* 取证：Wikidata 逐人查（限流退避；凭证 `results/people-wikidata-2026-11-22-b3.tsv`）。Stephen Davies 首检命中英国法官，改查 Q7609025（新西兰美学家，1950–）；公孙龙生卒取 Wikidata 前325／前250 约数，记“约前325–前250”。
+* 落册：`term_flow` 干跑 10/0，实写 10；人名表 4583 数据行守恒；`check_terms` 硬错误 0；`check_all` 17 项全绿。
+* 当日累计：术语表 246 行；人名表 38 行（13＋15＋10）。
