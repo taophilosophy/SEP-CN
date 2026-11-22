@@ -314,6 +314,16 @@ B3.2 的 sha 全等清单即 OAIS fixity 账的实现形态；与 ADR-0076 已�
 
 **教训**：①**散文序与块序必须由同一谓词定义**——账侧“散文行”与 R 侧“`<p>` 块”是两个集合，任何一侧多收一类（表格行、列表行）就会静默越界；②可见文归一化要剥掉**全部非可见物**（脚注标记、链接包裹、强调星、转义符），漏一类就有一族条目定位失败；③注入式样本测试必须带全 `bib_*` 字段（`bib_tree` 节点索引错位会制造假反退）。
 
+## 10.13 B3.2 第十四批实施记（2026-11-22，表题 `caption` 回带）
+
+**缺陷**：R 侧已按 `***Table 1***` 紧贴表格的 md 形发 `<caption>`（bayes-theorem 判例），但 `article_build.render_tables` 按结构账**重建表格位形**时只发 `<table>`＋行列，题注被丢——A 侧表直接从表头起，文字层缺 `Table 1`（24 件 H0 含 caption，其中 21 件 gap）。
+
+**修复**：`render_tables` 从 R 侧表格块（`m.group(1)`）取回 `<caption>…</caption>` 原样带回（文字仍来自 md，账不必记题注）。
+
+**实测**：24 件定点重建＋judge 拼接 → 池 **1,602→1,615（86.2%）／缺口 258／stale 0**，转池 13（aristotle／aristotle-de-motu／biology-individual／justice-bad-luck／justice-moral-psych／law-limits／legal-probabilism／model-organisms／moral-decision-uncertainty／paradox-stpetersburg／public-goods／structure-scientific-theories／truth-primitivist）、失池 0，池占页 **42.43%**。bayes-theorem 仍 gap：题注入位后整表并入一个 28 KB 的 u 补丁，`&nbsp;&nbsp;` 与 H0 `&nbsp;` 的计账在 `tx` 切片上失配（自洽门拦下，见下条待办）。
+
+**教训**：R 与账**分工要核到底**——账记位形（行列/colspan/thead），而“表格块内还有什么”（题注）是 R 的事，重建时不能只按账发；凡是 `re.sub` 重建整块的地方，先问“原块里被丢弃的还有哪些”。
+
 ## 11. 现状与下一步（开工卡，2026-11-22）
 
 **验收线现状**（现查口径，勿引快照）：
@@ -321,21 +331,21 @@ B3.2 的 sha 全等清单即 OAIS fixity 账的实现形态；与 ADR-0076 已�
 | 判据 | 现状 | 取数命令 |
 | ---- | ---- | ---- |
 | B3.1 往返不动点 | **1,616/1,873（86.3%）**，集合级 +24／转红 3（W8 键名漂移，见 §10.12） | `python -B specs/053-en-template-audit/bin/reassemble.py --all --out <json>` |
-| B3.2 页面装配 | **pool 1,602（85.5%）／gap 271／stale 0**，池占页 42.00% | `python -B specs/053-en-template-audit/bin/page_assemble.py --all --build` |
+| B3.2 页面装配 | **pool 1,615（86.2%）／gap 258／stale 0**，池占页 42.43% | `python -B specs/053-en-template-audit/bin/page_assemble.py --all --build` |
 | I2/I3 转换保真 | `--gate` 0 issue（1,873 全过） | `python -B tools/check_yuanwen_fidelity.py --gate` |
 | 全库门禁 | check_all 17 项全绿 | `python -B tools/check_all.py` |
 
-**缺口 271 分族**（`script/tmp/b32_families2.py <scan-json>`，2026-11-22 现查）：md_extra 167／h0_extra 30／math 24／text 20／digit 17／ok? 7／star 4／entity 2。
+**缺口 258 分族**（`script/tmp/b32_families2.py <scan-json>`，第八项基线为 271 件时的分布；本批后须重跑）：md_extra 居首（同步线），余为 h0_extra／math／text／digit／star／ok?／entity。
 
-- **md_extra 167**：md 有而 H0 无＝md 与 en 版本差／译注污染，属 specs/001 同步线（`compare` 漂移），**不修规则**。这是最大族，B3.2 分母的收敛上限由它决定。
-- **h0_extra 30**：H0 文字层有、md 无的残留——本轮已解书目区无年份散文（`-nd` 伪键族）；余下按 §10.9／§10.12 残留族逐件定位（ratnakirti 的 Note 段仍属年份键间隙、burke／analysis／nicholai 等）。
-- **math 24／text 20／digit 17／star 4／ok? 7／entity 2**：逐件定位用 `script/tmp/probe_align2.py <slug>`。
+- **md_extra**：md 有而 H0 无＝md 与 en 版本差／译注污染，属 specs/001 同步线（`compare` 漂移），**不修规则**；收敛上限由它决定。
+- **h0_extra 余件**：本轮已解书目区无年份散文（`-nd` 伪键族）与表题 `caption`；余下如 aristotle／chinese-mind／habermas／hobbes-science 的分节题缺失、boethius-dacia 交叉引用注、ratnakirti 的 Note 段（年份键间隙）等，逐件用 `probe_align2.py` 定位。
+- **bayes-theorem**：题注已入位，整表并入 28 KB u 补丁后 `&nbsp;&nbsp;` 计账在 `tx` 切片失配（自洽门拦下）——`u` 补丁模型在超长合并块的空白计账待专项。
 
-**B3.1 转红 3 件（W8）**：engels／foucault／kant-religion——书目区年份起首条目键名在“H0 直转”与“R 重建书目（单 ul）”两条路径下不同。正解＝R 按 `bib_groups` 分节重建多个 `<ul>`；须先量测对全库 B3.1／池的影响再动。
+**B3.1 转红 3 件（W8）**：engels／foucault／kant-religion——书目区年份起首条目键名在“H0 直转”与“R 重建书目（md 无条目，defs 并一 ul）”两条路径下不同。候选修法＝`build_cite_keys` 让年份起首无姓条目**不继承前一条目姓氏**、统一用 `fallback_author`（需全量重转＋B3.1 集合对照）。
 
 **下一批入口**（按收益排序）：
-1. **W8 分节 ul 重建**（同时消 B3.1 转红 3 件）。
-2. **h0_extra 30 余件**逐件定位（`probe_align2.py`）。
-3. **md_extra 167**：转 specs/001 同步线（`compare` 漂移清单核对）。
+1. **h0_extra 余件逐件定位**（分节题缺失族最集中：aristotle／aristotle-ethics／chimeras／habermas／hobbes-science／friedrich-lange／singular-terms-medieval／civil-disobedience／scientific-revolutions）。
+2. **W8 键名一致性**（消 B3.1 转红 3 件）。
+3. **md_extra**：转 specs/001 同步线（`compare` 漂移清单核对）。
 
-**流程提醒**：动 C 必全量重转（约 18 分钟）＋B3.1 集合级对照止损；动 R/账只重跑 B3.1（约 10 分钟）＋建池（约 20 分钟）＋judge 复扫（约 25 分钟）；**小改动走定点重建＋judge 拼接**（受影响件集＝账 diff ∪ md 变件；`script/tmp/splice_b12.py`，须带全 `bib_*` 字段注入）；基线只在收敛后人工更新并提交。
+**流程提醒**：动 C 必全量重转（约 18 分钟）＋B3.1 集合级对照止损；动 R/账只重跑 B3.1（约 10 分钟）＋建池（约 20 分钟）＋judge 复扫（约 25 分钟）；**小改动走定点重建＋judge 拼接**（受影响件集＝账 diff ∪ md 变件 ∪ 结构特征件；`script/tmp/splice_b12.py`）；基线只在收敛后人工更新并提交。

@@ -184,10 +184,19 @@ def render_tables(html, ledger):
             return m.group(0)
         spec = tbls[idx[0]]
         idx[0] += 1
+        # 题注：账只记位形，题注文字在 R 侧块里（md `***Table 1***` 紧贴表格
+        # → R 发 <caption>）——重建时原样带回，否则表题整块丢失
+        # （bayes-theorem 判例：A 侧表从 Ratio/Difference 起，无 Table 1）
+        cap = ""
+        cm = re.search(r"<caption[^>]*>.*?</caption>", m.group(1), re.S)
+        if cm:
+            cap = cm.group(0)
         rrows = [[c.group(1) for c in re.finditer(
             "<t[hd][^>]*>(.*?)</t[hd]>", r.group(1), re.S)]
             for r in re.finditer(r"<tr[^>]*>(.*?)</tr>", m.group(1), re.S)]
         out = ["<table%s>\n" % spec.get("attrs", "")]
+        if cap:
+            out.append(cap + "\n")
         th_rows = spec.get("thead_rows", 0)
         for ri, row in enumerate(spec.get("rows", [])):
             if ri == 0 and spec.get("thead"):
