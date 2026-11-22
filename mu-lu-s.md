@@ -2182,16 +2182,21 @@ outline: [1, 6]
 
 ## 形而上学
 
+### 总论与解释
+
 * [形而上学 Metaphysics (Peter van Inwagen、Meghan Sullivan、Sara Bernstein)](m/metaphysics.md)
+* [形而上学解释 Metaphysical Explanation (Andrew Brenner、Anna-Sofia Maurin、Alexander Skiles、Robin Stenwall、Naomi Thompson)](m/metaphysical-explanation.md)
+* [自然主义 Naturalism (David Papineau)](n/naturalism.md)
+* [唯心主义 Idealism (Paul Guyer、Rolf-Peter Horstmann)](i/idealism.md)
+* [相对主义 Relativism (Maria Baghramian、J. Adam Carter)](r/relativism.md)
+
+### 属性与立场
+
 * [倾向 Dispositions (Sungho Choi、Michael Fara)](d/dispositions.md)
 * [涌现属性 Emergent Properties (Timothy O’Connor)](p/properties-emergent.md)
 * [本质属性与偶然属性 Essential vs. Accidental Properties (Philip Atkins、Fabrice Correia、Teresa Robertson Ishii)](e/essential-accidental.md)
-* [唯心主义 Idealism (Paul Guyer、Rolf-Peter Horstmann)](i/idealism.md)
-* [形而上学解释 Metaphysical Explanation (Andrew Brenner、Anna-Sofia Maurin、Alexander Skiles、Robin Stenwall、Naomi Thompson)](m/metaphysical-explanation.md)
-* [自然主义 Naturalism (David Papineau)](n/naturalism.md)
 * [形而上学中的唯名论 Nominalism in Metaphysics (Sam Cowling、Daniel Giberman)](n/nominalism-metaphysics.md)
 * [形而上学中的柏拉图主义 Platonism in Metaphysics (Mark Balaguer)](p/platonism.md)
-* [相对主义 Relativism (Maria Baghramian、J. Adam Carter)](r/relativism.md)
 
 ### 本体论
 
@@ -3408,17 +3413,25 @@ outline: [1, 6]
 >
 > 本节涵盖：生命起源与生育权、生命意义与生命价值、生命的本体论、生育观念
 
+### 生命伦理与动物
+
 * [生命伦理学与道德推理 Bioethics and Moral Reasoning (Jennifer Flynn)](b/bioethics-moral-reasoning.md)
-* [商业伦理学 Business Ethics (Jeffrey Moriarty)](e/ethics-business.md)
-* [造成伤害与允许伤害 Doing vs. Allowing Harm (Fiona Woollard、Frances Howard-Snyder、Charlotte Unruh)](d/doing-allowing.md)
-* [知识产权 Intellectual Property (Adam Moore、Ken Himma)](i/intellectual-property.md)
-* [慈善 Philanthropy (Theodore M. Lechterman、Emma Saunders-Hastings、Rob Reich)](p/philanthropy.md)
-* [恐怖主义 Terrorism (Igor Primoratz)](t/terrorism.md)
 * [堕胎的伦理学 The Ethics of Abortion (Elizabeth Harman)](a/abortion.md)
-* [文化遗产伦理 The Ethics of Cultural Heritage (Erich Hatala Matthes)](e/ethics-cultural-heritage.md)
 * [动物的道德地位 The Moral Status of Animals (Lori Gruen、Susana Monsó)](m/moral-animal.md)
 * [应用伦理学中的有益原则 The Principle of Beneficence in Applied Ethics (Tom Beauchamp)](p/principle-beneficence.md)
+* [造成伤害与允许伤害 Doing vs. Allowing Harm (Fiona Woollard、Frances Howard-Snyder、Charlotte Unruh)](d/doing-allowing.md)
+
+### 战争、恐怖主义与暴力
+
 * [战争 War (Seth Lazar)](w/war.md)
+* [恐怖主义 Terrorism (Igor Primoratz)](t/terrorism.md)
+
+### 商业、财产与慈善
+
+* [商业伦理学 Business Ethics (Jeffrey Moriarty)](e/ethics-business.md)
+* [知识产权 Intellectual Property (Adam Moore、Ken Himma)](i/intellectual-property.md)
+* [慈善 Philanthropy (Theodore M. Lechterman、Emma Saunders-Hastings、Rob Reich)](p/philanthropy.md)
+* [文化遗产伦理 The Ethics of Cultural Heritage (Erich Hatala Matthes)](e/ethics-cultural-heritage.md)
 
 ### 社会伦理学
 
@@ -5012,19 +5025,27 @@ outline: [1, 6]
 
 ## 社会科学哲学
 
+### 社会选择与聚合
+
 * [阿罗定理 Arrow’s Theorem (Michael Morreau)](a/arrows-theorem.md)
-* [信念合并与判断聚合 Belief Merging and Judgment Aggregation (Gabriella Pigozzi)](b/belief-merging.md)
-* [文化演化 Cultural Evolution (Tim Lewens、Andrew Buskell)](e/evolution-cultural.md)
-* [社会程序的形式化进路 Formal Approaches to Social Procedures (Jan van Eijck、Rineke (L.C.) Verbrugge)](s/social-procedures.md)
-* [社会科学中的整体主义方法论 Methodological Holism in the Social Sciences (Julie Zahle)](h/holism-social.md)
-* [方法论个人主义 Methodological Individualism (Joseph Heath)](m/methodological-individualism.md)
-* [社会建构的自然主义方法 Naturalistic Approaches to Social Construction (Ron Mallon)](s/social-construction-naturalistic.md)
-* [历史与史学史哲学 Philosophy of History and Historiography (Jouni-Matti Kuukkanen)](h/history.md)
 * [社会选择理论 Social Choice Theory (Christian List)](s/social-choice.md)
+* [投票方法 Voting Methods (Eric Pacuit)](v/voting-methods.md)
+* [信念合并与判断聚合 Belief Merging and Judgment Aggregation (Gabriella Pigozzi)](b/belief-merging.md)
+
+### 社会本体论与规范
+
+* [社会本体论 Social Ontology (Brian Epstein)](s/social-ontology.md)
 * [社会制度 Social Institutions (Seumas Miller)](s/social-institutions.md)
 * [社会规范 Social Norms (Cristina Bicchieri、Ryan Muldoon、Alessandro Sontuoso)](s/social-norms.md)
-* [社会本体论 Social Ontology (Brian Epstein)](s/social-ontology.md)
-* [投票方法 Voting Methods (Eric Pacuit)](v/voting-methods.md)
+* [社会建构的自然主义方法 Naturalistic Approaches to Social Construction (Ron Mallon)](s/social-construction-naturalistic.md)
+
+### 方法论与历史哲学
+
+* [社会科学中的整体主义方法论 Methodological Holism in the Social Sciences (Julie Zahle)](h/holism-social.md)
+* [方法论个人主义 Methodological Individualism (Joseph Heath)](m/methodological-individualism.md)
+* [社会程序的形式化进路 Formal Approaches to Social Procedures (Jan van Eijck、Rineke (L.C.) Verbrugge)](s/social-procedures.md)
+* [文化演化 Cultural Evolution (Tim Lewens、Andrew Buskell)](e/evolution-cultural.md)
+* [历史与史学史哲学 Philosophy of History and Historiography (Jouni-Matti Kuukkanen)](h/history.md)
 
 ### 教育哲学
 
