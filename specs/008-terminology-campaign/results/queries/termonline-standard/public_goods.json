@@ -1,0 +1,152 @@
+{
+ "key": "public goods",
+ "term": "public goods",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-22T09:53:40+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=502",
+ "hits": [
+  {
+   "cn": "大众",
+   "en": "popular",
+   "code": "GB/T 42369—2023",
+   "standard": "大众竞速类滑冰运动水平等级评价规范",
+   "subject": "家用和商用设备、文娱、体育"
+  },
+  {
+   "cn": "货物",
+   "en": "goods",
+   "code": "GB/T 8226—2023",
+   "standard": "道路运输术语",
+   "subject": "社会学、服务、公司（企业）的组织和管理、行政、运输"
+  },
+  {
+   "cn": "货物",
+   "en": "goods",
+   "code": "GB/T 41835—2022",
+   "standard": "可持续采购 指南 ",
+   "subject": "社会学、服务、公司（企业）的组织和管理、行政、运输"
+  },
+  {
+   "cn": "货物",
+   "en": "goods",
+   "code": "GB/Z 40846—2021",
+   "standard": "工程咨询 基本术语",
+   "subject": "社会学、服务、公司（企业）的组织和管理、行政、运输"
+  },
+  {
+   "cn": "物品",
+   "en": "goods",
+   "code": "GB/T 18354—2021",
+   "standard": "物流术语 ",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "货物",
+   "en": "goods",
+   "code": "GB/T 38702—2020",
+   "standard": "供应链安全管理体系 实施供应链安全、评估和计划的最佳实践 要求和指南",
+   "subject": "社会学、服务、公司（企业）的组织和管理、行政、运输"
+  },
+  {
+   "cn": "物品",
+   "en": "goods",
+   "code": "GB 51073—2014",
+   "standard": "医药工业仓储工程设计规范",
+   "subject": "其它"
+  },
+  {
+   "cn": "货物",
+   "en": "goods",
+   "code": "GB/T 6512—2012",
+   "standard": "运输方式代码",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "公众",
+   "en": "public",
+   "code": "GB/T 32577—2016",
+   "standard": "轨道交通有人环境中电子和电气设备 产生的磁场强度测量方法 ",
+   "subject": "电气工程"
+  },
+  {
+   "cn": "公众",
+   "en": "public",
+   "code": "GB/T 4960.5—1996",
+   "standard": "核科学技术术语 辐射防护与辐射源安全",
+   "subject": "能源和热传导工程"
+  },
+  {
+   "cn": "载货汽车",
+   "en": "goods vehicle",
+   "code": "GB 3799—2021",
+   "standard": "汽车发动机大修竣工出厂技术条件",
+   "subject": "其它"
+  },
+  {
+   "cn": "租赁物",
+   "en": "rental goods",
+   "code": "GB 50829—2013",
+   "standard": "租赁模板脚手架维修保养技术规范",
+   "subject": "其它"
+  },
+  {
+   "cn": "危险品",
+   "en": "dangerous goods",
+   "code": "GB 50089—2018",
+   "standard": "民用爆炸物品工程设计安全标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "货棚",
+   "en": "goods shed",
+   "code": "GB 51157—2016",
+   "standard": "物流建筑设计规范",
+   "subject": "其它"
+  },
+  {
+   "cn": "危险品",
+   "en": "dangerous goods",
+   "code": "GB 51157—2016",
+   "standard": "物流建筑设计规范",
+   "subject": "其它"
+  },
+  {
+   "cn": "场坪",
+   "en": "goods yard",
+   "code": "GB 51157—2016",
+   "standard": "物流建筑设计规范",
+   "subject": "其它"
+  },
+  {
+   "cn": "危险物品",
+   "en": "dangerous goods",
+   "code": "GB/T 50585—2019",
+   "standard": "岩土工程勘察安全标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "物品",
+   "en": "goods",
+   "code": "GB/T 43910—2024",
+   "standard": "物流仓储设备 术语",
+   "subject": "材料储运设备"
+  },
+  {
+   "cn": "重点货物",
+   "en": "priority goods",
+   "code": "GB/T 8226—2023",
+   "standard": "道路运输术语",
+   "subject": "社会学、服务、公司（企业）的组织和管理、行政、运输"
+  },
+  {
+   "cn": "件货",
+   "en": "piece goods",
+   "code": "GB/T 8226—2023",
+   "standard": "道路运输术语",
+   "subject": "社会学、服务、公司（企业）的组织和管理、行政、运输"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2024\": 15, \"2023\": 84, \"2022\": 15, \"2021\": 43, \"2020\": 40, \"2019\": 10, \"2018\": 16, \"2017\": 23, \"2016\": 20, \"2015\": 32, \"2014\": 18, \"2013\": 10, \"2012\": 13, \"2011\": 9, \"2010\": 3, \"2009\": 12, \"2008\": 21, \"2006\": 1, \"2005\": 4, \"2004\": 5, \"2001\": 2, \"1998\": 2, \"1997\": 60, \"1996\": 2, \"暂无年份\": 42}, \"sourceStats\": {\"道路车辆工程\": 13, \"货物的包装和调运\": 2, \"试验\": 1, \"能源和热传导工程\": 10, \"综合、术语学、标准化、文献\": 48, \"纺织和皮革技术\": 11, \"社会学、服务、公司（企业）的组织和管理、行政、运输\": 189, \"电气工程\": 10, \"电信、音频和视频工程\": 12, \"环保、保健和安全\": 41, \"材料储运设备\": 2, \"机械制造\": 8, \"数学、自然科学\": 1, \"建筑材料和建筑物\": 7, \"家用和商用设备、文娱、体育\": 11, \"土木工程\": 1, \"医药卫生技术\": 3, \"农业\": 2, \"其它\": 60, \"信息技术、办公机械\": 69}, \"typeStats\": {\"7\": 502}, \"totalRecords\": 502, \"tmWordList\": [{\"id\": \"07333a1ab83b455a9f4511fab260f852\", \"databaseId\": null, \"standardId\": \"3b4e539a88624cd290b78015e95c70a2\", \"standardCode\": \"GB/T 42369—2023\", \"standardName\": \"大众竞速类滑冰运动水平等级评价规范\", \"standardEnName\": \"Specifications  for grading and evaluation of popular racing skating sport level\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"家用和商用设备、文娱、体育\", \"termCode\": \"3.1\", \"cnName\": \"大众\", \"enName\": \"popular\", \"publishTime\": \"2023-07-18\", \"publishYear\": \"2023\", \"implementTime\": \"2024-02-01\", \"ics\": \"97.220\", \"ccs\": \"Y 55\", \"parentTermId\": null, \"titleId\": null, \"oid\": 65089, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"大众\", \"cnNameSearch\": \"大众\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"popular\", \"wordSearch\": \"popular\"}], \"allowableWord\": [], \"refuseWord\": []}, {\"id\": null, \"cnName\": \"public\", \"cnNameSearch\": \"public\", \"outType\": 2, \"extendWord\": [], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在某一方面有最大数量的社会成员认同或受欢迎的个体、组织。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"0c51b40c525d4fa7930eea7ae604bdcc\", \"databaseId\": null, \"standardId\": \"1f365aee66534080970b52e7fac7341e\", \"standardCode\": \"GB/T 8226—2023\", \"standardName\": \"道路运输术语\", \"standardEnName\": \"Road transport terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"社会学、服务、公司（企业）的组织和管理、行政、运输\", \"termCode\": \"5.1.1\", \"cnName\": \"货物\", \"enName\": \"goods\", \"publishTime\": \"2023-05-23\", \"publishYear\": \"2023\", \"implementTime\": \"2023-12-01\", \"ics\": \"03.220.20\", \"ccs\": \"R10\", \"parentTermId\": null, \"titleId\": null, \"oid\": 29641, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"货物\", \"cnNameSearch\": \"货物\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"goods\", \"wordSearch\": \"goods\"}], \"allowableWord\": [], \"refuseWord\": []}, {\"id\": null, \"cnName\": \"物品\", \"cnNameSearch\": \"物品\", \"outType\": 1, \"extendWord\": [], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"经济与社会活动中实体流动的物质资料。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [{\"source\": \"GB/T 18354—2021\", \"sourceCode\": \"3.1\", \"modifyStatus\": 0, \"modifyContent\": \"\"}], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"be8ef135da624e7bb5f8914ee074dd3e\", \"databaseId\": null, \"standardId\": \"b053ed5bd2b14c50a9dcdafe2e47bcfe\", \"standardCode\": \"GB/T 41835—2022\", \"standardName\": \"可持续采购 指南 \", \"standardEnName\": \"Sustainable procurement—Guidance \", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"社会学、服务、公司（企业）的组织和管理、行政、运输\", \"termCode\": \"3.7\", \"cnName\": \"货物\", \"enName\": \"goods\", \"publishTime\": \"2022-10-12\", \"publishYear\": \"2022\", \"implementTime\": \"2022-10-12\", \"ics\": \"ICS 03.100.01\", \"ccs\": \"CCS A 10\", \"parentTermId\": null, \"titleId\": null, \"oid\": 181944, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"货物\", \"cnNameSearch\": \"货物\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"goods\", \"wordSearch\": \"goods\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"供应链中在组织下单后为供组织使用或消费制造，加工、装卸或运输的零部件或原料。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [{\"source\": \"GB/T 38702—2020\", \"sourceCode\": \"3.11\", \"modifyStatus\": 1, \"modifyContent\": \"\"}], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"0c3281804c7c4c409e7953c44b73715a\", \"databaseId\": null, \"standardId\": \"8f3583f108da44bebdfa982b9cb1a5f7\", \"standardCode\": \"GB/Z 40846—2021\", \"standardName\": \"工程咨询 基本术语\", \"standardEnName\": \"Engineering consulting—Essential vocabulary\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"社会学、服务、公司（企业）的组织和管理、行政、运输\", \"termCode\": \"5.5.4\", \"cnName\": \"货物\", \"enName\": \"goods\", \"publishTime\": \"2021-10-11\", \"publishYear\": \"2021\", \"implementTime\": \"2022-05-01\", \"ics\": \"03.080.99\", \"ccs\": \"A 20\", \"parentTermId\": null, \"titleId\": null, \"oid\": 151198, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"货物\", \"cnNameSearch\": \"货物\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"goods\", \"wordSearch\": \"goods\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"承包商设备、材料、生产设备、临时工程，或其中之一。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"03d71ae247d74a55929dfdf79190b12e\", \"databaseId\": null, \"standardId\": \"ec7bfc9b26e74524a2d27ebc17711d45\", \"standardCode\": \"GB/T 18354—2021\", \"standardName\": \"物流术语 \", \"standardEnName\": \"Logistics terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"3.1\", \"cnName\": \"物品\", \"enName\": \"goods\", \"publishTime\": \"2021-08-20\", \"publishYear\": \"2021\", \"implementTime\": \"2021-12-01\", \"ics\": \"01.040.01\", \"ccs\": \"A 80\", \"parentTermId\": null, \"titleId\": null, \"oid\": 231276, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"物品\", \"cnNameSearch\": \"物品\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"goods\", \"wordSearch\": \"goods\"}], \"allowableWord\": [], \"refuseWord\": []}, {\"id\": null, \"cnName\": \"货物\", \"cnNameSearch\": \"货物\", \"outType\": 2, \"extendWord\": [], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"经济与社会活动中实体流动的物质资料。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"2444edca6989485a9a7e595b14d2a1fe\", \"databaseId\": null, \"standardId\": \"a1645322d4c74d54bb42cc41d03c08d4\", \"standardCode\": \"GB/T 38702—2020\", \"standardName\": \"供应链安全管理体系 实施供应链安全、评估和计划的最佳实践 要求和指南\", \"standardEnName\": \"Security management systems for the supply chain—Best practices for implementing supply chain security, assessments and plans—Requirements and guidance\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"社会学、服务、公司（企业）的组织和管理、行政、运输\", \"termCode\": \"3.11\", \"cnName\": \"货物\", \"enName\": \"goods\", \"publishTime\": \"2020-03-31\", \"publishYear\": \"2020\", \"implementTime\": \"2020-09-01\", \"ics\": \"03.100.0103\", \"ccs\": \"A90\", \"parentTermId\": null, \"titleId\": null, \"oid\": 166813, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"货物\", \"cnNameSearch\": \"货物\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"goods\", \"wordSearch\": \"goods\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"供应链中在买方下单后为供买方使用或消费制造、加工、装卸或运输的零部件或原料。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"b839003703d24a6f838ba97da32956a3\", \"databaseId\": null, \"standardId\": \"6893dbdf2659433c82f0bf3a8d7cf156\", \"standardCode\": \"GB 51073—2014\", \"standardName\": \"医药工业仓储工程设计规范\", \"standardEnName\": \"Code for design of warehousing project of pharmaceutical industry\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.15\", \"cnName\": \"物品\", \"enName\": \"goods\", \"publishTime\": \"2014-12-02\", \"publishYear\": \"2014\", \"implementTime\": \"2015-08-01\", \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 103643, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"物品\", \"cnNameSearch\": \"物品\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"goods\", \"wordSearch\": \"goods\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"储存于仓库中的物料、产品、备品备件、工具、五金材料及劳保用品等的总称。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"987e9306ffa94f5292ca18600972a5bc\", \"databaseId\": null, \"standardId\": \"267a4ea06e60453a817d597ef023dc7f\", \"standardCode\": \"GB/T 6512—2012\", \"standardName\": \"运输方式代码\", \"standardEnName\": \"Codes for modes of transport\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"2.4\", \"cnName\": \"货物\", \"enName\": \"goods\", \"publishTime\": \"2012-12-31\", \"publishYear\": \"2012\", \"implementTime\": \"2013-06-01\", \"ics\": \"35.04035\", \"ccs\": \"A24\", \"parentTermId\": null, \"titleId\": null, \"oid\": 36666, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"货物\", \"cnNameSearch\": \"货物\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"goods\", \"wordSearch\": \"goods\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"从托运人一方接收的全部物资。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"2aab61d3ec114e75934749164e1c1d16\", \"databaseId\": null, \"standardId\": \"e576bdfec77641f5a5cee5b4d9a8dd37\", \"standardCode\": \"GB/T 32577—2016\", \"standardName\": \"轨道交通有人环境中电子和电气设备 产生的磁场强度测量方法 \", \"standardEnName\": \"Measurement procedures of magnetic field levels generated by electronic and electrical apparatus in the railway environment with respect to human exposure \", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电气工程\", \"termCode\": \"3.8\", \"cnName\": \"公众\", \"enName\": \"public\", \"publishTime\": \"2016-04-25\", \"publishYear\": \"2016\", \"implementTime\": \"2016-11-01\", \"ics\": \"ICS 29.280\", \"ccs\": \"S 35\", \"parentTermId\": null, \"titleId\": null, \"oid\": 225564, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"公众\", \"cnNameSearch\": \"公众\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"public\", \"wordSearch\": \"public\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"轨道交通环境中除工作人员以外的所有人员。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"14d22fc6254a4bfcacdc3225c0771dbe\", \"databaseId\": null, \"standardId\": \"17a7a3d5620d44af973f39a8155c652d\", \"standardCode\": \"GB/T 4960.5—1996\", \"standardName\": \"核科学技术术语 辐射防护与辐射源安全\", \"standardEnName\": \"Glossary of terms: Nuclear science and technology Radiation protection and safety of radiation sources\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"能源和热传导工程\", \"termCode\": \"5.24\", \"cnName\": \"公众\", \"enName\": \"public\", \"publishTime\": \"1996-03-31\", \"publishYear\": \"1996\", \"implementTime\": \"1996-10-01\", \"ics\": \"27.120\", \"ccs\": \"F 04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 22743, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"公众\", \"cnNameSearch\": \"公众\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"public\", \"wordSearch\": \"public\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"除职业性辐射工作人员以外的其他社会成员。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"db7f3c17cd764dd1817cce4a38986fae\", \"databaseId\": null, \"standardId\": \"08d82bdcf1a7467096abbd355334e71a\", \"standardCode\": \"GB 3799—2021\", \"standardName\": \"汽车发动机大修竣工出厂技术条件\", \"standardEnName\": \"Technical requirements for completion and acceptance of vehicle engines overhaul\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"3.3 \", \"cnName\": \"载货汽车\", \"enName\": \"goods vehicle\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 8382, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"载货汽车\", \"cnNameSearch\": \"载货汽车\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"goods vehicle\", \"wordSearch\": \"goods vehicle\"}], \"allowableWord\": [], \"refuseWord\": []}, {\"id\": null, \"cnName\": \"货车\", \"cnNameSearch\": \"货车\", \"outType\": 2, \"extendWord\": [], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"设计和制造上主要用于载运货物或牵引挂车的汽车，也包括:a) 装置有专用设备或器具但以载运货物为主要目的的汽车;</p><p>b)由非封闭式货车改装的，虽装置有专用设备或器具，但不属于专项作业车的汽车。注:封闭式货车是指载货部位的结构为封闭箱体且与驾驶室联成一体，车身结构为一厢式或两厢式的载货汽车。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [{\"source\": \"GB 7258-2017\", \"sourceCode\": \"3.2.2\", \"modifyStatus\": 0, \"modifyContent\": \"\"}], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"931e846b37bf4042b8437f34392b6cf1\", \"databaseId\": null, \"standardId\": \"33b85bec36524b5094f4258f77491176\", \"standardCode\": \"GB 50829—2013\", \"standardName\": \"租赁模板脚手架维修保养技术规范\", \"standardEnName\": \"Technical code for maintenance and repair of rentable formwork and scaffold\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.3\", \"cnName\": \"租赁物\", \"enName\": \"rental goods\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 56204, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"租赁物\", \"cnNameSearch\": \"租赁物\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"rental goods\", \"wordSearch\": \"rental goods\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"租赁合同的标的物。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"138f3db343594b7eb9f07e91d086e729\", \"databaseId\": null, \"standardId\": \"6d45a5b35f5f40bcb42e88e6a071d4ad\", \"standardCode\": \"GB 50089—2018\", \"standardName\": \"民用爆炸物品工程设计安全标准\", \"standardEnName\": \"Safety standard for design of engineering of civil explosive materials\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.2\", \"cnName\": \"危险品\", \"enName\": \"dangerous goods\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 110894, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"危险品\", \"cnNameSearch\": \"危险品\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"dangerous goods\", \"wordSearch\": \"dangerous goods\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"民用爆炸物品行业科研、生产和销售过程中的具有燃烧、爆炸危险的原材料、在制品、半成品、成品等。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"4f48bc6b0261427ba804bee3827ccbfd\", \"databaseId\": null, \"standardId\": \"b594644ff8824e379707f3ad58994d37\", \"standardCode\": \"GB 51157—2016\", \"standardName\": \"物流建筑设计规范\", \"standardEnName\": \"Code for design of logistics building\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.9 \", \"cnName\": \"货棚\", \"enName\": \"goods shed\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 185196, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"货棚\", \"cnNameSearch\": \"货棚\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"goods shed\", \"wordSearch\": \"goods shed\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"设有顶盖和立柱，四周不建封顶围墙的物流生产建筑。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"2656f254531b48448377ba945a892cb4\", \"databaseId\": null, \"standardId\": \"b594644ff8824e379707f3ad58994d37\", \"standardCode\": \"GB 51157—2016\", \"standardName\": \"物流建筑设计规范\", \"standardEnName\": \"Code for design of logistics building\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.12 \", \"cnName\": \"危险品\", \"enName\": \"dangerous goods\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 185200, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"危险品\", \"cnNameSearch\": \"危险品\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"dangerous goods\", \"wordSearch\": \"dangerous goods\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"具有爆炸、易燃、毒害、感染、腐蚀、放射性等危险特性，在运输、储存、生产、经营、使用和处置中，容易造成人身伤害、财产损毁或环境污染而需要特别防护的物质和物品。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"e2f6d0a66d0b408a9a8ed8dc84c77f7c\", \"databaseId\": null, \"standardId\": \"b594644ff8824e379707f3ad58994d37\", \"standardCode\": \"GB 51157—2016\", \"standardName\": \"物流建筑设计规范\", \"standardEnName\": \"Code for design of logistics building\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.10 \", \"cnName\": \"场坪\", \"enName\": \"goods yard\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 185201, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"场坪\", \"cnNameSearch\": \"场坪\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"goods yard\", \"wordSearch\": \"goods yard\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"用于存放货物、器具或进行货物处理作业的露天场地。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"6a9b6c6752744c5fba4c44229ea096a7\", \"databaseId\": null, \"standardId\": \"d8006808ba7044089e53dbeba24df7dd\", \"standardCode\": \"GB/T 50585—2019\", \"standardName\": \"岩土工程勘察安全标准\", \"standardEnName\": \"Standard for safety of geotechnical investigation\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.1.1\", \"cnName\": \"危险物品\", \"enName\": \"dangerous goods\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 213036, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"危险物品\", \"cnNameSearch\": \"危险物品\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"dangerous goods\", \"wordSearch\": \"dangerous goods\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"易燃易爆物品、危险化学品、放射性物品等能够危及人身安全和财产安全的物品。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"e30c5e14b04c4fb19d4fcebf8001866f\", \"databaseId\": null, \"standardId\": \"2a7490fca3cf4eecad7cc76caf7514bd\", \"standardCode\": \"GB/T 43910—2024\", \"standardName\": \"物流仓储设备 术语\", \"standardEnName\": \"Warehouse logistics equipment—Vocabulary\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"材料储运设备\", \"termCode\": \"3.1.2\", \"cnName\": \"物品\", \"enName\": \"goods\", \"publishTime\": \"2024-04-25\", \"publishYear\": \"2024\", \"implementTime\": \"2024-11-01\", \"ics\": \"53.080\", \"ccs\": \"J83\", \"parentTermId\": null, \"titleId\": null, \"oid\": 40263, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"物品\", \"cnNameSearch\": \"物品\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"goods\", \"wordSearch\": \"goods\"}, {\"languageType\": 1, \"word\": \"article\", \"wordSearch\": \"article\"}], \"allowableWord\": [], \"refuseWord\": []}, {\"id\": null, \"cnName\": \"货物\", \"cnNameSearch\": \"货物\", \"outType\": 2, \"extendWord\": [], \"allowableWord\": [], \"refuseWord\": []}, {\"id\": null, \"cnName\": \"物料\", \"cnNameSearch\": \"物料\", \"outType\": 2, \"extendWord\": [], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"物流仓储活动中，实体流动的物质资料。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [{\"source\": \"GB/T 18354—2021\", \"sourceCode\": \"3.1\", \"modifyStatus\": 1, \"modifyContent\": \"\"}], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"3f51789f3169460c812a2e6efefca6f5\", \"databaseId\": null, \"standardId\": \"1f365aee66534080970b52e7fac7341e\", \"standardCode\": \"GB/T 8226—2023\", \"standardName\": \"道路运输术语\", \"standardEnName\": \"Road transport terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"社会学、服务、公司（企业）的组织和管理、行政、运输\", \"termCode\": \"5.1.14\", \"cnName\": \"重点货物\", \"enName\": \"priority goods\", \"publishTime\": \"2023-05-23\", \"publishYear\": \"2023\", \"implementTime\": \"2023-12-01\", \"ics\": \"03.220.20\", \"ccs\": \"R10\", \"parentTermId\": null, \"titleId\": null, \"oid\": 29276, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"重点货物\", \"cnNameSearch\": \"重点货物\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"priority goods\", \"wordSearch\": \"priority goods\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"关系国计民生的和抢险、救灾、防疫、战备等物资。<br>\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"18036bf755134a67b5611d4411fd4381\", \"databaseId\": null, \"standardId\": \"1f365aee66534080970b52e7fac7341e\", \"standardCode\": \"GB/T 8226—2023\", \"standardName\": \"道路运输术语\", \"standardEnName\": \"Road transport terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"社会学、服务、公司（企业）的组织和管理、行政、运输\", \"termCode\": \"5.1.12\", \"cnName\": \"件货\", \"enName\": \"piece goods\", \"publishTime\": \"2023-05-23\", \"publishYear\": \"2023\", \"implementTime\": \"2023-12-01\", \"ics\": \"03.220.20\", \"ccs\": \"R10\", \"parentTermId\": null, \"titleId\": null, \"oid\": 29318, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"件货\", \"cnNameSearch\": \"件货\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"piece goods\", \"wordSearch\": \"piece goods\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"按件托运和承运的货物。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 26}}, \"timestamp\": 1795341220355}"
+}

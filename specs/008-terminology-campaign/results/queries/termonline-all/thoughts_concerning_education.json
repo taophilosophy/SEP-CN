@@ -1,0 +1,792 @@
+{
+ "key": "thoughts concerning education",
+ "term": "Thoughts Concerning Education",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-22T13:33:26+00:00",
+ "status": "ok",
+ "note": "variant=Thoughts Concerning Education; 审定公布名词库=2461; 海峡两岸名词对照库=491; 其他来源数据库=119; 预公布名词数据库=235; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "教育思想",
+   "en": "educational thought",
+   "source": "教育学名词",
+   "wordNumber": "01.012",
+   "subjectFullName": "教育学_教育基本理论",
+   "subjectName": "教育基本理论",
+   "publishYear": "2013",
+   "definition": "一个社会历史时期对教育理论和实践起支配作用的教育观念、教育主张或教育理论体系。"
+  },
+  {
+   "cn": "教育思潮",
+   "en": "educational thought",
+   "source": "教育学名词",
+   "wordNumber": "01.005",
+   "subjectFullName": "教育学_教育基本理论",
+   "subjectName": "教育基本理论",
+   "publishYear": "2013",
+   "definition": "某一时期内反映特定哲学与社会立场、流传较广、影响较大的教育思想或主张。"
+  },
+  {
+   "cn": "思",
+   "en": "thought",
+   "source": "中医药学名词",
+   "wordNumber": "03.403",
+   "subjectFullName": "中医药学_中医基础理论_气血津液精神",
+   "subjectName": "气血津液精神",
+   "publishYear": "2004",
+   "definition": "思考。"
+  },
+  {
+   "cn": "横切关注点",
+   "en": "crosscutting concerns",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0384",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "跨越多个模块的关注点。横切关注点如果不能有效地分离和模块化，将使系统难以设计、理解、实现和演化。"
+  },
+  {
+   "cn": "约束关心",
+   "en": "constraint concern",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0991",
+   "subjectFullName": "管理科学技术_一般管理理论_企业理论",
+   "subjectName": "企业理论",
+   "publishYear": "2016",
+   "definition": "由个性特征组成的向量的一个元素，可和其他元素结合起来，用以反映理性的程度。"
+  },
+  {
+   "cn": "思维被夺",
+   "en": "thought withdrawal,thought deprivation",
+   "source": "精神医学名词",
+   "wordNumber": "02.087",
+   "subjectFullName": "精神医学_症状与体征_思维障碍症状",
+   "subjectName": "思维障碍症状",
+   "publishYear": "2019",
+   "definition": "受检者体验到自己的思想被拿走了或被某一外在的代理者挪用的一种精神病理状态。对干扰来源于“异己”的确信并不是继发推理的结果，而是发生于强制当时，与思想被撤走的体验同时发生。"
+  },
+  {
+   "cn": "思维鸣响",
+   "en": "audible thought,voiced thought",
+   "source": "精神医学名词",
+   "wordNumber": "02.054",
+   "subjectFullName": "精神医学_症状与体征_感觉与知觉障碍症状",
+   "subjectName": "感觉与知觉障碍症状",
+   "publishYear": "2019",
+   "definition": "受检者体验到自己的思想被重复或在头脑里回响(自己并没有发声说出来)的一种精神病理状态。原本的思想及其回声之间通常只间隔几秒钟。重复出来的思想，虽然内容与原来的一样，但却可以感到性质上有轻微改变。是精神"
+  },
+  {
+   "cn": "设计构思",
+   "en": "design thought",
+   "source": "风景园林名词",
+   "wordNumber": "07.0076",
+   "subjectFullName": "风景园林_风景园林建筑_设计内容",
+   "subjectName": "设计内容",
+   "publishYear": "2025",
+   "definition": "针对有目标和计划的风景园林创作行为及活动作系统性的、有中心及层次的、物化的整体性思维活动。"
+  },
+  {
+   "cn": "思想实验",
+   "en": "thought experiment",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.094",
+   "subjectFullName": "自然辩证法_科学技术方法论_实验与检验",
+   "subjectName": "实验与检验",
+   "publishYear": "2024",
+   "definition": "科学家在头脑中设计和构造出一套理想化的仪器设备和研究对象，进行纯粹理想化的实验操作和控制，发现和获取科学事实与自然规律的思维活动。"
+  },
+  {
+   "cn": "科学思想",
+   "en": "scientific thought",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.292",
+   "subjectFullName": "自然辩证法_科学、技术与社会_科学技术文化",
+   "subjectName": "科学技术文化",
+   "publishYear": "2024",
+   "definition": "人类通过实践所形成的关于物质世界的系统化、规律性的科学知识的基本观念。反映了对物质世界整体图景和规律的综合认识，主要表现为科学的基本理论和学说。"
+  },
+  {
+   "cn": "思维脱轨",
+   "en": "thought derailment",
+   "source": "行为医学名词",
+   "wordNumber": "16.043",
+   "subjectFullName": "行为医学_其他神经行为障碍_异常行为症状",
+   "subjectName": "异常行为症状",
+   "publishYear": "2022",
+   "definition": "思考历程不按条理及不合逻辑，从一个观念忽然转到另一个毫无关联观念的精神病理状态。"
+  },
+  {
+   "cn": "强制性思维",
+   "en": "forced thought",
+   "source": "行为医学名词",
+   "wordNumber": "16.051",
+   "subjectFullName": "行为医学_其他神经行为障碍_异常行为症状",
+   "subjectName": "异常行为症状",
+   "publishYear": "2022",
+   "definition": "感到自己头脑中有一些思想不属于自己、不是自己发动的一种思维形式障碍。"
+  },
+  {
+   "cn": "思维中断",
+   "en": "thought blocking",
+   "source": "行为医学名词",
+   "wordNumber": "16.052",
+   "subjectFullName": "行为医学_其他神经行为障碍_异常行为症状",
+   "subjectName": "异常行为症状",
+   "publishYear": "2022",
+   "definition": "在无意识障碍，又无外界干扰等状况下，思维过程突然中断的精神病理状态。说话时突然停顿，片刻之后又重新说话，但所说内容不是原来的话题。"
+  },
+  {
+   "cn": "思维被夺",
+   "en": "thought deprivation",
+   "source": "行为医学名词",
+   "wordNumber": "16.053",
+   "subjectFullName": "行为医学_其他神经行为障碍_异常行为症状",
+   "subjectName": "异常行为症状",
+   "publishYear": "2022",
+   "definition": "思维被某种外力抽走的感觉。常与客观观察到的思维中断同时发生。"
+  },
+  {
+   "cn": "强迫思维",
+   "en": "obsessional thought",
+   "source": "行为医学名词",
+   "wordNumber": "16.141",
+   "subjectFullName": "行为医学_其他神经行为障碍_强迫相关障碍",
+   "subjectName": "强迫相关障碍",
+   "publishYear": "2022",
+   "definition": "反复、持续地出现一些无法自控的观念和概念的精神病理现象。常伴有被强迫感和痛苦感。"
+  },
+  {
+   "cn": "强制性思维",
+   "en": "forced thought",
+   "source": "精神医学名词",
+   "wordNumber": "02.094",
+   "subjectFullName": "精神医学_症状与体征_思维障碍症状",
+   "subjectName": "思维障碍症状",
+   "publishYear": "2019",
+   "definition": "思维自主性出现异常的一种思维形式障碍。表现为受检者感到自己的一些思想不属于自己，不是自己发动的。他们体验到这些思想在脑海中自动地出现而没有内在的抵抗，为此感到异乎寻常和奇怪。虽然他们不能做出有意义的努"
+  },
+  {
+   "cn": "思维中断",
+   "en": "thought blocking",
+   "source": "精神医学名词",
+   "wordNumber": "02.084",
+   "subjectFullName": "精神医学_症状与体征_思维障碍症状",
+   "subjectName": "思维障碍症状",
+   "publishYear": "2019",
+   "definition": "思维联系途径出现异常的一种思维形式障碍。表现为受检者在既无意识障碍，又无外界干扰等状况下，思维过程突然出现中断。表现为说话时突然停顿，片刻之后又重新说话，但所说内容不是原来的话题。"
+  },
+  {
+   "cn": "思维障碍",
+   "en": "thought disorder",
+   "source": "精神医学名词",
+   "wordNumber": "02.070",
+   "subjectFullName": "精神医学_症状与体征_思维障碍症状",
+   "subjectName": "思维障碍症状",
+   "publishYear": "2019",
+   "definition": "受检者言语、交流或思维出现紊乱的一种精神病理状态。从看问题的角度，大略可以分为思维形式障碍和思维内容障碍。"
+  },
+  {
+   "cn": "思维播散",
+   "en": "thought broadcasting",
+   "source": "精神医学名词",
+   "wordNumber": "02.085",
+   "subjectFullName": "精神医学_症状与体征_思维障碍症状",
+   "subjectName": "思维障碍症状",
+   "publishYear": "2019",
+   "definition": "受检者体验到自己的思想立即被他人共享，或者为公众所知的一种精神病理状态。"
+  },
+  {
+   "cn": "思维插入",
+   "en": "thought insertion",
+   "source": "精神医学名词",
+   "wordNumber": "02.086",
+   "subjectFullName": "精神医学_症状与体征_思维障碍症状",
+   "subjectName": "思维障碍症状",
+   "publishYear": "2019",
+   "definition": "受检者体验到确认为异己的思想闯入自己思想的心理过程。对干扰来源于“异己”的确信并不是继发推理的结果，而是发生于强制当时，与思维被插入的体验同时发生。"
+  },
+  {
+   "cn": "思维，思考",
+   "en": "thinking\",\"thought",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "表征思维",
+   "en": "representational thought",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自动思维",
+   "en": "automatic thought",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "分析性思维",
+   "en": "analytical thought",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "思维控制训练",
+   "en": "thought control training",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "职业生涯教育",
+   "en": "career education",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "地理教育",
+   "en": "geographical education",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "教育地图集",
+   "en": "education atlas",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "胸腺培育， 胸腺驯育",
+   "en": "thymic education",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "胸腺驯育",
+   "en": "thymic education",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "教育测验",
+   "en": "educational testing",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "教育年龄",
+   "en": "educational age",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "教育心理学",
+   "en": "educational psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "地理学思想史",
+   "en": "history of geographic thought",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "驯化T[淋巴]细胞",
+   "en": "educated T lymphocyte， educated T cell",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "远程教育",
+   "en": "teleeducation\",\"distance education",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "教育地理学",
+   "en": "geography of education",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "点播教育",
+   "en": "education on demand\",\"EOD",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "船舶碰撞民事管辖权某些规定的国际公约",
+   "en": "International Convention on Certain Rules Concerning Civil Jurisdiction in Matters of Collision",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "教育与心理测验标准",
+   "en": "Standards for Educational and Psycholo gical Testing",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "对比赛装备的抗议",
+   "en": "protest concerning equipment",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "对参赛资格的抗议",
+   "en": "protest concerning eligibility",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "思无邪",
+   "en": "No Depraved Thoughts",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "对比赛线路的抗议",
+   "en": "protest concerning the course",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "对比赛的抗议",
+   "en": "protest concerning the race",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "对计时和成绩的抗议",
+   "en": "protest concerning timing and results",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "乐教",
+   "en": "Music Education",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "在线教育",
+   "en": "online education",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "互联网教育",
+   "en": "Internet education",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "远程教育",
+   "en": "distance education",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "泛在教育",
+   "en": "ubiquitous education",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "在线教育",
+   "en": "online education",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "诚意",
+   "en": "Be Sincere in Thought",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据资源权益",
+   "en": "rights and interests concerning data resource",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "高度重视公共利益",
+   "en": "serious concern for the public good",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "言不尽意",
+   "en": "Words Cannot Fully Express Thought.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "言尽意",
+   "en": "Words Can Fully Express Thought.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "诸子百家",
+   "en": "A Hundred Schools of Thought",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "思想",
+   "en": "thought",
+   "source": "马克思主义",
+   "wordNumber": "01.0014",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与作为思维活动的结果的理性认识同义，指人的意识对客观事物的本质和规律的反映。思想由社会存在决定，同时又对其有能动的反作用，具有相对独立性。"
+  },
+  {
+   "cn": "亲民",
+   "en": "people-concerned",
+   "source": "社会学名词",
+   "wordNumber": "1.1.1.5",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国古代社会思想",
+   "subjectName": "中国古代社会思想",
+   "publishYear": "2025",
+   "definition": "引导、稳定一般民众，培育和维持社会秩序的施政和制度建设。语出《大学》中“大学之道，在明明德，在亲民，在止于至善。”后世儒家对此多有阐释，如在宋儒那里，解释分别侧重教育（德治）或养民（财，事功）等不同方"
+  },
+  {
+   "cn": "社会思想",
+   "en": "social thought",
+   "source": "社会学名词",
+   "wordNumber": "2.1.7.2",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会意识",
+   "subjectName": "社会意识",
+   "publishYear": "2025",
+   "definition": "人们在不同历史阶段的社会生产和社会生活实践中所形成的种种社会观念、构想或理论体系。理论社会学范畴，涉及政治、经济、文化、宗教、艺术等各个方面。"
+  },
+  {
+   "cn": "教育",
+   "en": "education",
+   "source": "马克思主义",
+   "wordNumber": "04.0065",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "教育基本上是一种给人以知识和方法的实践活动。马克思主义教育必须确保人的全面发展。马克思从现代生产和社会经济发展的客观规律中揭示出教育与生产劳动相结合的必然性及其实现的途径。教育与物质生产相结合，就是把"
+  },
+  {
+   "cn": "教育",
+   "en": "education",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0136",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "培养人的一种社会活动，人类实现再生产的手段。它产生于人类社会初始阶段，存在于人类社会生活的各种活动过程中，并随着人类社会的发展而发展。"
+  },
+  {
+   "cn": "教育",
+   "en": "education",
+   "source": "社会医学名词",
+   "wordNumber": "3.3.3.2",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "社会环境",
+   "publishYear": "2025",
+   "definition": "培养人的一种社会活动，旨在传递知识、技能与价值观，是人类实现社会再生产的重要手段。"
+  },
+  {
+   "cn": "老龄工作",
+   "en": "work concerning the aging",
+   "source": "社会学名词",
+   "wordNumber": "3.15.1.8",
+   "subjectFullName": "社会学名词_分支社会学_老年和老龄化研究_个人老化",
+   "subjectName": "个人老化",
+   "publishYear": "2025",
+   "definition": "为解决人口老龄化带来的经济社会发展问题、满足老年人的特殊需要的所有工作。"
+  },
+  {
+   "cn": "以人为本",
+   "en": "people-oriented thought",
+   "source": "社会学名词",
+   "wordNumber": "4.3.4.8",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会政策思潮及理论",
+   "subjectName": "社会政策思潮及理论",
+   "publishYear": "2025",
+   "definition": "科学发展观的核心思想。社会经济发展的终极目的是促进人的全面发展，强调人人平等，尊重人作为“人”的基本权利及尊严，注重社会公平正义。“人”即人民，也包括作为个体的人；“本”即主体、本质、目的。"
+  },
+  {
+   "cn": "毛泽东思想",
+   "en": "Mao Zedong Thought",
+   "source": "马克思主义",
+   "wordNumber": "03.0321",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "以毛泽东同志为主要代表的中国共产党人，把马克思列宁主义的基本原理同中国革命的具体实践结合起来，创立了毛泽东思想。毛泽东思想是马克思列宁主义在中国的运用和发展，是被实践证明了的关于中国革命和建设的正确的"
+  },
+  {
+   "cn": "伦理思想实验法",
+   "en": "ethical thought experiment",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.234",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学研究方法",
+   "subjectName": "医学伦理学研究方法",
+   "publishYear": "2025",
+   "definition": "基于特定的伦理学理论、素材等材料，设定理想化的伦理情境，提出若干伦理问题，以激发人们伦理思考的实验方法。"
+  },
+  {
+   "cn": "关注浓度水平",
+   "en": "concentration level of concern",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.45",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "对判断样品中物质或分析物是否符合法规规定和要求的有决定性意义的浓度。如容许限浓度。"
+  },
+  {
+   "cn": "关注水平",
+   "en": "level of concern, LOC",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.5.1",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "为保护消费者健康而制定的用于临时管理的食品中某危害因素的含量水平"
+  },
+  {
+   "cn": "性教育",
+   "en": "sex education",
+   "source": "社会学名词",
+   "wordNumber": "3.3.3.1",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性发展",
+   "subjectName": "性发展",
+   "publishYear": "2025",
+   "definition": "关于性知识、性道德和性行为等方面的教育，一般应在青少年中实施，但不限于这一年龄段。"
+  },
+  {
+   "cn": "自然教育",
+   "en": "natural education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.1",
+   "subjectFullName": "社会学名词_分支社会学_教育社会学",
+   "subjectName": "教育社会学",
+   "publishYear": "2025",
+   "definition": "由卢梭提出的教育理念，以自然状态而非社会状态为基础对人的培养，要求儿童在自身的教育和成长中取得主动地位，无须成人的灌输、压制、强迫，教师只须创造学习的环境、防范不良的影响。"
+  },
+  {
+   "cn": "家庭教育",
+   "en": "family education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.2",
+   "subjectFullName": "社会学名词_分支社会学_教育社会学",
+   "subjectName": "教育社会学",
+   "publishYear": "2025",
+   "definition": "家庭中由家长对其子女实施的教育，具有终身教育的特点。家庭教育既是学校教育的基础，又是学校教育的补充和延伸。"
+  },
+  {
+   "cn": "道德教育",
+   "en": "moral education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.3",
+   "subjectFullName": "社会学名词_分支社会学_教育社会学",
+   "subjectName": "教育社会学",
+   "publishYear": "2025",
+   "definition": "对受教育者有目的地施以道德影响的教育活动，强调责任、义务的履行和对至善道德、完美人性的追求。"
+  },
+  {
+   "cn": "自由教育",
+   "en": "liberal education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.4",
+   "subjectFullName": "社会学名词_分支社会学_教育社会学",
+   "subjectName": "教育社会学",
+   "publishYear": "2025",
+   "definition": "西方教育史上的一种教育理想，因不同时代涵义有所不同。希腊时期为培养自由民的教育，中世纪时期指通过自由七艺的培养皈依基督的神性，现代自由教育则强调人格的全面发展。"
+  },
+  {
+   "cn": "通识教育",
+   "en": "general education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.4.1",
+   "subjectFullName": "社会学名词_分支社会学教育社会学",
+   "subjectName": "分支社会学教育社会学",
+   "publishYear": "2025",
+   "definition": "旨在培养学生对不同学科有所认识，对不同知识融会贯通的非专业性高等教育。"
+  },
+  {
+   "cn": "人文教育",
+   "en": "humanistic education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.4.2",
+   "subjectFullName": "社会学名词_分支社会学教育社会学",
+   "subjectName": "分支社会学教育社会学",
+   "publishYear": "2025",
+   "definition": "旨在通过涵养文化素质塑造健全人格的人性化教育。"
+  },
+  {
+   "cn": "公民教育",
+   "en": "civil education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.5",
+   "subjectFullName": "社会学名词_分支社会学_教育社会学",
+   "subjectName": "教育社会学",
+   "publishYear": "2025",
+   "definition": "培育公民参与国家和社会公共生活、维护公民权利和履行公民义务的各种教育手段。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

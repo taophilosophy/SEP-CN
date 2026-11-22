@@ -1,0 +1,152 @@
+{
+ "key": "psychological states",
+ "term": "psychological states",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-22T09:54:18+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=34",
+ "hits": [
+  {
+   "cn": "状态",
+   "en": "States",
+   "code": "GB/T 39521—2020",
+   "standard": "农业拖拉机和机械 拖拉机和自走式机械的自动导航系统 安全要求",
+   "subject": "农业"
+  },
+  {
+   "cn": "心理测验",
+   "en": "psychological test",
+   "code": "GB/T 26999—2021",
+   "standard": "职业经理人相关术语",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "心理测验",
+   "en": "psychological test",
+   "code": "GB/T 33529—2017",
+   "standard": "人力资源服务术语 ",
+   "subject": "社会学、服务、公司（企业）的组织和管理、行政、运输"
+  },
+  {
+   "cn": "咨询信息",
+   "en": "psychological counseling information",
+   "code": "GB/T 30446.3—2013",
+   "standard": "心理咨询服务 第3部分：咨询信息管理",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "灾害心理干预",
+   "en": "disaster psychological intervention",
+   "code": "GB/T 26376—2010",
+   "standard": "自然灾害管理基本术语",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "极限状态",
+   "en": "limit states",
+   "code": "GB/T 50083—2014",
+   "standard": "工程结构设计基本术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "极限状态",
+   "en": "limit states",
+   "code": "GB 50068—2018",
+   "standard": "建筑结构可靠性设计统一标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "极限状态",
+   "en": "limit states",
+   "code": "GB 50199—2013",
+   "standard": "水利水电工程结构可靠性设计统一标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "相干态",
+   "en": "coherent states",
+   "code": "GB/T 43737—2024",
+   "standard": "量子测量术语",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "运行状态",
+   "en": "operational states",
+   "code": "GB/T 42292—2022",
+   "standard": "压水堆核电厂职业照射剂量评价",
+   "subject": "环保、保健和安全"
+  },
+  {
+   "cn": "运行状态",
+   "en": "operational states",
+   "code": "GB/T 13976—2021",
+   "standard": "压水堆核电厂运行状态下的放射性源项",
+   "subject": "能源和热传导工程"
+  },
+  {
+   "cn": "运行状态",
+   "en": "operational states",
+   "code": "GB/T 41143—2021",
+   "standard": "核电厂仪表和控制术语",
+   "subject": "能源和热传导工程"
+  },
+  {
+   "cn": "极限状态",
+   "en": "limit states",
+   "code": "GB/T 40749—2021",
+   "standard": "海水重力式网箱设计技术规范",
+   "subject": "农业"
+  },
+  {
+   "cn": "咨询信息记录",
+   "en": "psychological counseling information recording",
+   "code": "GB/T 30446.3—2013",
+   "standard": "心理咨询服务 第3部分：咨询信息管理",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "承载能力极限状态",
+   "en": "ultimate limit states",
+   "code": "GB/T 50083—2014",
+   "standard": "工程结构设计基本术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "正常使用极限状态",
+   "en": "serviceability limit states",
+   "code": "GB/T 50083—2014",
+   "standard": "工程结构设计基本术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "耐久性极限状态",
+   "en": "durability limit states",
+   "code": "GB 50068—2018",
+   "standard": "建筑结构可靠性设计统一标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "承载能力极限状态",
+   "en": "ultimate limit states",
+   "code": "GB 50068—2018",
+   "standard": "建筑结构可靠性设计统一标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "承载能力极限状态",
+   "en": "ultimate limit states",
+   "code": "GB 50199—2013",
+   "standard": "水利水电工程结构可靠性设计统一标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "承载能力极限状态",
+   "en": "ultimate limit states",
+   "code": "GB/T 40749—2021",
+   "standard": "海水重力式网箱设计技术规范",
+   "subject": "农业"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2024\": 1, \"2022\": 1, \"2021\": 6, \"2020\": 1, \"2017\": 1, \"2016\": 1, \"2013\": 2, \"2012\": 1, \"2011\": 1, \"2004\": 1, \"暂无年份\": 18}, \"sourceStats\": {\"能源和热传导工程\": 2, \"综合、术语学、标准化、文献\": 6, \"社会学、服务、公司（企业）的组织和管理、行政、运输\": 1, \"电气工程\": 1, \"环保、保健和安全\": 2, \"农业\": 4, \"其它\": 18}, \"typeStats\": {\"7\": 34}, \"totalRecords\": 34, \"tmWordList\": [{\"id\": \"0f78316afcd2459196166198ab7de1fd\", \"databaseId\": null, \"standardId\": \"d9fc16c10fc245a6b685598d11b50829\", \"standardCode\": \"GB/T 39521—2020\", \"standardName\": \"农业拖拉机和机械 拖拉机和自走式机械的自动导航系统 安全要求\", \"standardEnName\": \"Tractors and machinery for agriculture—Auto-guidance systems for operator-controlled tractors and self-propelled machines—Safety requirements\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"农业\", \"termCode\": \"3.4\", \"cnName\": \"状态\", \"enName\": \"States\", \"publishTime\": \"2020-11-19\", \"publishYear\": \"2020\", \"implementTime\": \"2021-03-01\", \"ics\": \"ICS 65.060.01\", \"ccs\": \"B 90\", \"parentTermId\": null, \"titleId\": null, \"oid\": 214604, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"状态\", \"cnNameSearch\": \"状态\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"States\", \"wordSearch\": \"States\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": null, \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"1e5df31237ce4ccf82d17d4db033ed96\", \"databaseId\": null, \"standardId\": \"f60181bfb06e4d78a39e7244bfebea43\", \"standardCode\": \"GB/T 26999—2021\", \"standardName\": \"职业经理人相关术语\", \"standardEnName\": \"Terminology for professional managers\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"4.6\", \"cnName\": \"心理测验\", \"enName\": \"psychological test\", \"publishTime\": \"2021-08-20\", \"publishYear\": \"2021\", \"implementTime\": \"2021-08-20\", \"ics\": \"01.040.03\", \"ccs\": \"A22\", \"parentTermId\": null, \"titleId\": null, \"oid\": 241466, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"心理测验\", \"cnNameSearch\": \"心理测验\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"psychological test\", \"wordSearch\": \"psychological test\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"选择代表性和典型性的行为样本，对考评对象的某些心理特征进行量化推断的标准化测评工具。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"a8edfaee791a441d8ee018e2513fc1f6\", \"databaseId\": null, \"standardId\": \"f13ae73180fd4eb4aae3f88195f731da\", \"standardCode\": \"GB/T 33529—2017\", \"standardName\": \"人力资源服务术语 \", \"standardEnName\": \"Terminology of human resources service\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"社会学、服务、公司（企业）的组织和管理、行政、运输\", \"termCode\": \"10.2.2\", \"cnName\": \"心理测验\", \"enName\": \"psychological test\", \"publishTime\": \"2017-02-28\", \"publishYear\": \"2017\", \"implementTime\": \"2017-09-01\", \"ics\": \"ICS 03.080\", \"ccs\": \"A 12\", \"parentTermId\": null, \"titleId\": null, \"oid\": 236746, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"心理测验\", \"cnNameSearch\": \"心理测验\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"psychological test\", \"wordSearch\": \"psychological test\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"根据心理学原理编制人才测评工具，对受测者能力和心理特征进行测量和评价的方法。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"7297fe9fc8bf46208e9319c156caf782\", \"databaseId\": null, \"standardId\": \"b15b8348c7fe48448006f0d6f3598933\", \"standardCode\": \"GB/T 30446.3—2013\", \"standardName\": \"心理咨询服务 第3部分：咨询信息管理\", \"standardEnName\": \"Psychological counseling—Part 3: Information management\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"3.1\", \"cnName\": \"咨询信息\", \"enName\": \"psychological counseling information\", \"publishTime\": \"2013-12-31\", \"publishYear\": \"2013\", \"implementTime\": \"2014-12-01\", \"ics\": \"01.110\", \"ccs\": \"A12\", \"parentTermId\": null, \"titleId\": null, \"oid\": 182366, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"咨询信息\", \"cnNameSearch\": \"咨询信息\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"psychological counseling information\", \"wordSearch\": \"psychological counseling information\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"心理咨询服务过程中产生的有关来访者的背景资料、语言图文和行为内容等。\", \"footnote\": \"\", \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>咨询信息主要包括预约登记信息、心理测量结果、知情同意书或心理咨询协议书、心理咨询过程中的文字、图片、音频和视频记录、咨询回访情况、投诉处理信息/情况等。</p>\"], \"refer\": [], \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"dd8b8ab16aaf417d869f8316049bd123\", \"databaseId\": null, \"standardId\": \"7223e7e2445b412d95e5f3535d83b968\", \"standardCode\": \"GB/T 26376—2010\", \"standardName\": \"自然灾害管理基本术语\", \"standardEnName\": \"Basic terms on natural disaster management\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"5.3\", \"cnName\": \"灾害心理干预\", \"enName\": \"disaster psychological intervention\", \"publishTime\": \"2011-01-14\", \"publishYear\": \"2011\", \"implementTime\": \"2011-06-01\", \"ics\": \"01.040.01\", \"ccs\": \"A22\", \"parentTermId\": null, \"titleId\": null, \"oid\": 114797, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"灾害心理干预\", \"cnNameSearch\": \"灾害心理干预\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"disaster psychological intervention\", \"wordSearch\": \"disaster psychological intervention\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"运用心理咨询、治疗、训练和教育等手段，缓解或消除因灾导致的心理问题或疾病的过程。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"6f3ebdcd603244ca985c34568d659337\", \"databaseId\": null, \"standardId\": \"060dc7933ba4422c81404f3785c41628\", \"standardCode\": \"GB/T 50083—2014\", \"standardName\": \"工程结构设计基本术语标准\", \"standardEnName\": \"Standard for general terms used in design of engineering structures\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.5.19 \", \"cnName\": \"极限状态\", \"enName\": \"limit states\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 5233, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"极限状态\", \"cnNameSearch\": \"极限状态\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"limit states\", \"wordSearch\": \"limit states\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"整个结构或结构的一部分超过某一特定状态就不能满足设计规定的某一功能要求，此特定状态为该功能的极限状态。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"d2064e73fc654b299b839a81847a8b18\", \"databaseId\": null, \"standardId\": \"6101518af9fc4392bb29dddc7f16b565\", \"standardCode\": \"GB 50068—2018\", \"standardName\": \"建筑结构可靠性设计统一标准\", \"standardEnName\": \"Unified standard for reliability design of building structures\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.1.13\", \"cnName\": \"极限状态\", \"enName\": \"limit states\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 97435, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"极限状态\", \"cnNameSearch\": \"极限状态\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"limit states\", \"wordSearch\": \"limit states\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"整个结构或结构的一部分超过某一特定状态就不能满足设计规定的某一功能要求，此特定状态为该功能的极限状态。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"8823d06ad2fe4b4d9f1a062eb67b8810\", \"databaseId\": null, \"standardId\": \"db8c753ac18f44918c5f8f10e1ae4df4\", \"standardCode\": \"GB 50199—2013\", \"standardName\": \"水利水电工程结构可靠性设计统一标准\", \"standardEnName\": \"Unified standard for reliability design of hydraulic engineering structures\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.1.10\", \"cnName\": \"极限状态\", \"enName\": \"limit states\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 215675, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"极限状态\", \"cnNameSearch\": \"极限状态\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"limit states\", \"wordSearch\": \"limit states\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"整个结构或结构的一部分超过某一特定状态就不能满足设计规定的某一功能要求，此特定状态为该功能的极限状态。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"75aa15ce5c0146049b32005d0ba797a6\", \"databaseId\": null, \"standardId\": \"7b3ad0edd13f42b3be5268cb563c7588\", \"standardCode\": \"GB/T 43737—2024\", \"standardName\": \"量子测量术语\", \"standardEnName\": \"Terminology for quantum measurement\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"3.12\", \"cnName\": \"相干态\", \"enName\": \"coherent states\", \"publishTime\": \"2024-03-15\", \"publishYear\": \"2024\", \"implementTime\": \"2024-10-01\", \"ics\": \"01.040\", \"ccs\": \"A22\", \"parentTermId\": null, \"titleId\": null, \"oid\": 131872, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"相干态\", \"cnNameSearch\": \"相干态\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"coherent states\", \"wordSearch\": \"coherent states\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"具有完全相干特性，且满足海森堡不确定性原理极限的正交分量涨落分布呈圆形特征的量子态。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"0edd9a94c3c8440fa8a367e2e68ab0ca\", \"databaseId\": null, \"standardId\": \"2b4dc69737844f3db9aa3afe81aa476b\", \"standardCode\": \"GB/T 42292—2022\", \"standardName\": \"压水堆核电厂职业照射剂量评价\", \"standardEnName\": \"Occupational exposure dose assessment of pressurized water reactor nuclear power plant\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"环保、保健和安全\", \"termCode\": \"3.2\", \"cnName\": \"运行状态\", \"enName\": \"operational states\", \"publishTime\": \"2022-12-30\", \"publishYear\": \"2022\", \"implementTime\": \"2023-07-01\", \"ics\": \"13.28013\", \"ccs\": \"F 74\", \"parentTermId\": null, \"titleId\": null, \"oid\": 44570, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"运行状态\", \"cnNameSearch\": \"运行状态\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"operational states\", \"wordSearch\": \"operational states\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"正常运行和预计运行事件两类状态的统称。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"4fb11c50629c4d4a85df8ff5afdfe7ae\", \"databaseId\": null, \"standardId\": \"1bc92d123ecd4df7a5e151727a9cabe4\", \"standardCode\": \"GB/T 13976—2021\", \"standardName\": \"压水堆核电厂运行状态下的放射性源项\", \"standardEnName\": \"Radioactive source term of pressurized water reactor nuclear power plant foroperation states\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"能源和热传导工程\", \"termCode\": \"3.1\", \"cnName\": \"运行状态\", \"enName\": \"operational states\", \"publishTime\": \"2021-12-31\", \"publishYear\": \"2021\", \"implementTime\": \"2022-07-01\", \"ics\": \"27.120.10\", \"ccs\": \"F 72\", \"parentTermId\": null, \"titleId\": null, \"oid\": 26966, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"运行状态\", \"cnNameSearch\": \"运行状态\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"operational states\", \"wordSearch\": \"operational states\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"正常运行和预计运行事件两类状态的统称。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"d0b3be6a3c34435693ce5488957b8eba\", \"databaseId\": null, \"standardId\": \"9a3281b024204573a8330e152cafba1a\", \"standardCode\": \"GB/T 41143—2021\", \"standardName\": \"核电厂仪表和控制术语\", \"standardEnName\": \"Glossary of terms of instrumentation and control for nuclear power plants\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"能源和热传导工程\", \"termCode\": \"3.1\", \"cnName\": \"运行状态\", \"enName\": \"operational states\", \"publishTime\": \"2021-12-31\", \"publishYear\": \"2021\", \"implementTime\": \"2022-07-01\", \"ics\": \"27.120.01\", \"ccs\": \"F 80\", \"parentTermId\": null, \"titleId\": null, \"oid\": 160742, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"运行状态\", \"cnNameSearch\": \"运行状态\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"operational states\", \"wordSearch\": \"operational states\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"正常运行和预计运行事件两类状态的统称。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"4f055e92e2e84ebd953e30f6dcadd660\", \"databaseId\": null, \"standardId\": \"b0ebb4bae0824e73a2ef449534f38cc6\", \"standardCode\": \"GB/T 40749—2021\", \"standardName\": \"海水重力式网箱设计技术规范\", \"standardEnName\": \"Technical specification for design of ocean gravity cage\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"农业\", \"termCode\": \"3.5\", \"cnName\": \"极限状态\", \"enName\": \"limit states\", \"publishTime\": \"2021-10-11\", \"publishYear\": \"2021\", \"implementTime\": \"2022-05-01\", \"ics\": \"65.150\", \"ccs\": \"B 56\", \"parentTermId\": null, \"titleId\": null, \"oid\": 182280, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"极限状态\", \"cnNameSearch\": \"极限状态\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"limit states\", \"wordSearch\": \"limit states\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"整个结构或结构的一部分超过某一特定状态就不能满足设计规定的某一功能要求，此特定状态为该功能的极限状态。<br>\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [{\"source\": \"GB50153—2008\", \"sourceCode\": \"定义2.1.13\", \"modifyStatus\": 0, \"modifyContent\": \"\"}], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"79888acbe09f490aba9042a1dfb1998d\", \"databaseId\": null, \"standardId\": \"b15b8348c7fe48448006f0d6f3598933\", \"standardCode\": \"GB/T 30446.3—2013\", \"standardName\": \"心理咨询服务 第3部分：咨询信息管理\", \"standardEnName\": \"Psychological counseling—Part 3: Information management\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"3.2\", \"cnName\": \"咨询信息记录\", \"enName\": \"psychological counseling information recording\", \"publishTime\": \"2013-12-31\", \"publishYear\": \"2013\", \"implementTime\": \"2014-12-01\", \"ics\": \"01.110\", \"ccs\": \"A12\", \"parentTermId\": null, \"titleId\": null, \"oid\": 182364, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"咨询信息记录\", \"cnNameSearch\": \"咨询信息记录\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"psychological counseling information recording\", \"wordSearch\": \"psychological counseling information recording\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"心理咨询服务提供者针对心理咨询服务的预约信息、心理咨询过程中的交谈内容、来访者表现出的关键行为信息、心理咨询师的主观感受等所形成的记录。\", \"footnote\": \"\", \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>心理咨询师可根据咨询实际需要或咨询服务提供者的管理要求，在征求来访者同意的前提下，对整个咨询过程进行录音或录像。</p>\"], \"refer\": [], \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"6b86a8ce61f54a41b56b9cacf317c05b\", \"databaseId\": null, \"standardId\": \"060dc7933ba4422c81404f3785c41628\", \"standardCode\": \"GB/T 50083—2014\", \"standardName\": \"工程结构设计基本术语标准\", \"standardEnName\": \"Standard for general terms used in design of engineering structures\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.5.20 \", \"cnName\": \"承载能力极限状态\", \"enName\": \"ultimate limit states\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 4727, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"承载能力极限状态\", \"cnNameSearch\": \"承载能力极限状态\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"ultimate limit states\", \"wordSearch\": \"ultimate limit states\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"对应于结构或结构构件达到最大承载力或不适于继续承载的变形的状态。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"b8e226ce57bf407ba38388fc949ab31a\", \"databaseId\": null, \"standardId\": \"060dc7933ba4422c81404f3785c41628\", \"standardCode\": \"GB/T 50083—2014\", \"standardName\": \"工程结构设计基本术语标准\", \"standardEnName\": \"Standard for general terms used in design of engineering structures\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.5.21\", \"cnName\": \"正常使用极限状态\", \"enName\": \"serviceability limit states\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 4962, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"正常使用极限状态\", \"cnNameSearch\": \"正常使用极限状态\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"serviceability limit states\", \"wordSearch\": \"serviceability limit states\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"对应于结构或结构构件达到正常使用或耐久性能的某项规定限值的状态。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"e12b8cb63eb54cadb1ea9c5f9dd161f2\", \"databaseId\": null, \"standardId\": \"6101518af9fc4392bb29dddc7f16b565\", \"standardCode\": \"GB 50068—2018\", \"standardName\": \"建筑结构可靠性设计统一标准\", \"standardEnName\": \"Unified standard for reliability design of building structures\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.1.18\", \"cnName\": \"耐久性极限状态\", \"enName\": \"durability limit states\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 97403, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"耐久性极限状态\", \"cnNameSearch\": \"耐久性极限状态\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"durability limit states\", \"wordSearch\": \"durability limit states\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"对应于结构或结构构件在环境影响下出现的劣化达到耐久性能的某项规定限值或标志的状态。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"0f3bbfc80a884a56ad8f17188d738c10\", \"databaseId\": null, \"standardId\": \"6101518af9fc4392bb29dddc7f16b565\", \"standardCode\": \"GB 50068—2018\", \"standardName\": \"建筑结构可靠性设计统一标准\", \"standardEnName\": \"Unified standard for reliability design of building structures\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.1.14\", \"cnName\": \"承载能力极限状态\", \"enName\": \"ultimate limit states\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 97416, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"承载能力极限状态\", \"cnNameSearch\": \"承载能力极限状态\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"ultimate limit states\", \"wordSearch\": \"ultimate limit states\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"对应于结构或结构构件达到最大承载力或不适于继续承载的状态。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"b134184e6f604223b37219796c9201c6\", \"databaseId\": null, \"standardId\": \"db8c753ac18f44918c5f8f10e1ae4df4\", \"standardCode\": \"GB 50199—2013\", \"standardName\": \"水利水电工程结构可靠性设计统一标准\", \"standardEnName\": \"Unified standard for reliability design of hydraulic engineering structures\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.1.11\", \"cnName\": \"承载能力极限状态\", \"enName\": \"ultimate limit states\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 215692, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"承载能力极限状态\", \"cnNameSearch\": \"承载能力极限状态\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"ultimate limit states\", \"wordSearch\": \"ultimate limit states\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"对应于结构达到最大承载力或不适于继续承载的变形的状态。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"6d702344fc274e2faa35a28e4fcea36c\", \"databaseId\": null, \"standardId\": \"b0ebb4bae0824e73a2ef449534f38cc6\", \"standardCode\": \"GB/T 40749—2021\", \"standardName\": \"海水重力式网箱设计技术规范\", \"standardEnName\": \"Technical specification for design of ocean gravity cage\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"农业\", \"termCode\": \"3.7\", \"cnName\": \"承载能力极限状态\", \"enName\": \"ultimate limit states\", \"publishTime\": \"2021-10-11\", \"publishYear\": \"2021\", \"implementTime\": \"2022-05-01\", \"ics\": \"65.150\", \"ccs\": \"B 56\", \"parentTermId\": null, \"titleId\": null, \"oid\": 182276, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"承载能力极限状态\", \"cnNameSearch\": \"承载能力极限状态\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"ultimate limit states\", \"wordSearch\": \"ultimate limit states\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"对应于结构或结构构件达到最大承载力或不适于继续承载变形的状态。<br>\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [{\"source\": \"GB 50153—2008\", \"sourceCode\": \"定义2.1.14\", \"modifyStatus\": 0, \"modifyContent\": \"\"}], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 2}}, \"timestamp\": 1795341258526}"
+}

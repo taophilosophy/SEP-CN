@@ -1,0 +1,33 @@
+{
+ "key": "justified belief",
+ "term": "justified belief",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-22T09:54:11+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=3",
+ "hits": [
+  {
+   "cn": "信念（用于人工智能）",
+   "en": "belief (in artificial intelligence)",
+   "code": "GB/T 5271.28—2001",
+   "standard": "信息技术  词汇  第28部分:人工智能  基本概念与专家系统",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "左对齐",
+   "en": "left-aligned",
+   "code": "GB/T 5271.23—2000",
+   "standard": "信息技术  词汇  第23部分:文本处理",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "右对齐",
+   "en": "right-aligned",
+   "code": "GB/T 5271.23—2000",
+   "standard": "信息技术  词汇  第23部分:文本处理",
+   "subject": "综合、术语学、标准化、文献"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2001\": 1, \"2000\": 2}, \"sourceStats\": {\"综合、术语学、标准化、文献\": 2, \"信息技术、办公机械\": 1}, \"typeStats\": {\"7\": 3}, \"totalRecords\": 3, \"tmWordList\": [{\"id\": \"10bf1e91e22e4ae290bb7c972aabcc86\", \"databaseId\": null, \"standardId\": \"e736cc0658684d5288e44a7eeb228afc\", \"standardCode\": \"GB/T 5271.28—2001\", \"standardName\": \"信息技术  词汇  第28部分:人工智能  基本概念与专家系统\", \"standardEnName\": \"Information technology——Vocabulary——Part 28:Artificial intelligence——Basic concepts and expert system\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"28.02.02\", \"cnName\": \"信念（用于人工智能）\", \"enName\": \"belief (in artificial intelligence)\", \"publishTime\": \"2001-07-16\", \"publishYear\": \"2001\", \"implementTime\": \"2002-03-01\", \"ics\": \"35.020\", \"ccs\": \"L 70\", \"parentTermId\": null, \"titleId\": null, \"oid\": 228381, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"信念（用于人工智能）\", \"cnNameSearch\": \"信念（用于人工智能）\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"belief (in artificial intelligence)\", \"wordSearch\": \"belief (in artificial intelligence)\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"有关真实或概念世界中实体的一种陈述，其有效性由某一确定度衡量。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>信念有助于从不完全的知识中导出结论。</p>\", \"<p>具有高确定度的信念可作为事实。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"2fda1496e00e4f518cd9aac1eb1752ed\", \"databaseId\": null, \"standardId\": \"a187433d61ee4fdc85c9143fcb3483c7\", \"standardCode\": \"GB/T 5271.23—2000\", \"standardName\": \"信息技术  词汇  第23部分:文本处理\", \"standardEnName\": \"Information technology——Vocabulary——Part 23:Text processing\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"23.06.15\", \"cnName\": \"左对齐\", \"enName\": \"left-aligned\", \"publishTime\": \"2000-07-14\", \"publishYear\": \"2000\", \"implementTime\": \"2001-03-01\", \"ics\": \"01.040.35\", \"ccs\": \"L 70\", \"parentTermId\": null, \"titleId\": null, \"oid\": 166922, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"左对齐\", \"cnNameSearch\": \"左对齐\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"left-aligned\", \"wordSearch\": \"left-aligned\"}, {\"languageType\": 1, \"word\": \"left-adjusted\", \"wordSearch\": \"left-adjusted\"}, {\"languageType\": 1, \"word\": \"flush left\", \"wordSearch\": \"flush left\"}, {\"languageType\": 1, \"word\": \"left-justified\", \"wordSearch\": \"left-justified\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"使文本与左边缘对齐，而不必与右边缘对齐。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"93de8378f12941d2ad5a6cd299c101b8\", \"databaseId\": null, \"standardId\": \"a187433d61ee4fdc85c9143fcb3483c7\", \"standardCode\": \"GB/T 5271.23—2000\", \"standardName\": \"信息技术  词汇  第23部分:文本处理\", \"standardEnName\": \"Information technology——Vocabulary——Part 23:Text processing\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"23.06.14\", \"cnName\": \"右对齐\", \"enName\": \"right-aligned\", \"publishTime\": \"2000-07-14\", \"publishYear\": \"2000\", \"implementTime\": \"2001-03-01\", \"ics\": \"01.040.35\", \"ccs\": \"L 70\", \"parentTermId\": null, \"titleId\": null, \"oid\": 166942, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"右对齐\", \"cnNameSearch\": \"右对齐\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"right-aligned\", \"wordSearch\": \"right-aligned\"}, {\"languageType\": 1, \"word\": \"right-adjusted\", \"wordSearch\": \"right-adjusted\"}, {\"languageType\": 1, \"word\": \"flush right\", \"wordSearch\": \"flush right\"}, {\"languageType\": 1, \"word\": \"right-justified\", \"wordSearch\": \"right-justified\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"使文本与右边缘对齐，而不必与左边缘对齐。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1795341251498}"
+}

@@ -1,0 +1,152 @@
+{
+ "key": "molecular biology",
+ "term": "molecular biology",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-22T09:54:13+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=73",
+ "hits": [
+  {
+   "cn": "食品分子生物学实验室",
+   "en": "food molecular biology laboratory",
+   "code": "GB/T 32146.3—2015",
+   "standard": "检验检测实验室设计与建设技术要求  第3部分：食品实验室",
+   "subject": "建筑材料和建筑物"
+  },
+  {
+   "cn": "生物因子",
+   "en": "biology agents",
+   "code": "GB 51133—2015",
+   "standard": "医药工业环境保护设计规范",
+   "subject": "其它"
+  },
+  {
+   "cn": "生物学推动",
+   "en": "biology push",
+   "code": "GB/T 42444—2023",
+   "standard": "仿生学  术语、概念与方法论",
+   "subject": "数学、自然科学"
+  },
+  {
+   "cn": "比较生物学",
+   "en": "comparative biology",
+   "code": "GB/T 39759—2021",
+   "standard": "实验动物 术语",
+   "subject": "农业"
+  },
+  {
+   "cn": "生物活性",
+   "en": "biology activity",
+   "code": "GB/T 38484—2020",
+   "standard": "植物激素类次生代谢产物的生物活性测定细胞学评价法",
+   "subject": "数学、自然科学"
+  },
+  {
+   "cn": "草坪草生物学",
+   "en": "turfgrass biology",
+   "code": "GB/T 34741—2017",
+   "standard": "草坪术语",
+   "subject": "农业"
+  },
+  {
+   "cn": "系统生物学",
+   "en": "systems biology",
+   "code": "GB/T 29859—2013",
+   "standard": "生物信息学术语",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "结构生物学",
+   "en": "structural biology",
+   "code": "GB/T 29859—2013",
+   "standard": "生物信息学术语",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "渔业生物学",
+   "en": "fishery biology",
+   "code": "GB/T 8588—2001",
+   "standard": "渔业资源基本术语",
+   "subject": "农业"
+  },
+  {
+   "cn": "分子密封器",
+   "en": "molecular sealer",
+   "code": "GB 51029—2014",
+   "standard": "火炬工程施工及验收规范",
+   "subject": "其它"
+  },
+  {
+   "cn": "分子电子学",
+   "en": "molecular electronics",
+   "code": "GB/T 30544.12—2023",
+   "standard": "纳米科技 术语第12部分：纳米科技中的量子现象",
+   "subject": "数学、自然科学"
+  },
+  {
+   "cn": "分子扩散",
+   "en": "molecular diffusion",
+   "code": "GB/T 14157—2023",
+   "standard": "水 文 地 质 术 语",
+   "subject": "数学、自然科学"
+  },
+  {
+   "cn": "分子流",
+   "en": "molecular flow",
+   "code": "GB/T 40618—2021",
+   "standard": "回旋加速器术语",
+   "subject": "能源和热传导工程"
+  },
+  {
+   "cn": "分子筛",
+   "en": "molecular sieve",
+   "code": "GB/T 4016—2019",
+   "standard": "石油产品术语",
+   "subject": "石油及相关技术"
+  },
+  {
+   "cn": "分子筛",
+   "en": "molecular sieve",
+   "code": "GB/T 8188—2017",
+   "standard": "往复式内燃机 排放术语和定义",
+   "subject": "能源和热传导工程"
+  },
+  {
+   "cn": "分子漏孔",
+   "en": "molecular leak",
+   "code": "GB/T 32293—2015",
+   "standard": "真空技术  真空设备的检漏方法选择",
+   "subject": "流体系统和通用件"
+  },
+  {
+   "cn": "分子离子",
+   "en": "molecular ion",
+   "code": "GB/T 32267—2015",
+   "standard": "分析仪器性能测定术语",
+   "subject": "化工技术"
+  },
+  {
+   "cn": "分子对接",
+   "en": "molecular docking",
+   "code": "GB/T 29859—2013",
+   "standard": "生物信息学术语",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "分子蒸馏",
+   "en": "molecular distillation",
+   "code": "GB/T 8873—2008",
+   "standard": "粮油名词术语  油脂工业",
+   "subject": "食品技术"
+  },
+  {
+   "cn": "分子泵",
+   "en": "molecular pump",
+   "code": "GB/T 22360—2008",
+   "standard": "真空泵 安全要求",
+   "subject": "流体系统和通用件"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2023\": 7, \"2022\": 1, \"2021\": 6, \"2020\": 1, \"2019\": 2, \"2017\": 2, \"2016\": 1, \"2015\": 20, \"2014\": 3, \"2013\": 3, \"2008\": 5, \"2007\": 8, \"2005\": 1, \"2004\": 1, \"2003\": 1, \"2001\": 1, \"1998\": 1, \"暂无年份\": 9}, \"sourceStats\": {\"食品技术\": 1, \"采矿和矿产品\": 4, \"航空器和航天器工程\": 4, \"能源和热传导工程\": 3, \"综合、术语学、标准化、文献\": 6, \"纺织和皮革技术\": 4, \"社会学、服务、公司（企业）的组织和管理、行政、运输\": 1, \"石油及相关技术\": 1, \"环保、保健和安全\": 1, \"流体系统和通用件\": 11, \"木材技术\": 1, \"数学、自然科学\": 7, \"建筑材料和建筑物\": 1, \"医药卫生技术\": 2, \"化工技术\": 12, \"农业\": 4, \"其它\": 9, \"信息技术、办公机械\": 1}, \"typeStats\": {\"7\": 73}, \"totalRecords\": 73, \"tmWordList\": [{\"id\": \"1ac0a5aa42304c139e47df06622ee8c5\", \"databaseId\": null, \"standardId\": \"520f07db2dd94d95819eb79aa1b950bc\", \"standardCode\": \"GB/T 32146.3—2015\", \"standardName\": \"检验检测实验室设计与建设技术要求  第3部分：食品实验室\", \"standardEnName\": \"Technical requirements of design and construction for inspection and testing laboratory—Part 3: Food laboratory\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"建筑材料和建筑物\", \"termCode\": \"3.4\", \"cnName\": \"食品分子生物学实验室\", \"enName\": \"food molecular biology laboratory\", \"publishTime\": \"2015-12-10\", \"publishYear\": \"2015\", \"implementTime\": \"2016-07-01\", \"ics\": \"91.040.109\", \"ccs\": \"P33\", \"parentTermId\": null, \"titleId\": null, \"oid\": 84324, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"食品分子生物学实验室\", \"cnNameSearch\": \"食品分子生物学实验室\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"food molecular biology laboratory\", \"wordSearch\": \"food molecular biology laboratory\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"以分子生物学技术(如核酸技术等)为主要手段，以食品为检测对象的实验室。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"8243ac0c99f946ec823664ca1cc6b08b\", \"databaseId\": null, \"standardId\": \"b0103893d8114b25a69c16c2f2ee19f1\", \"standardCode\": \"GB 51133—2015\", \"standardName\": \"医药工业环境保护设计规范\", \"standardEnName\": \"Code for design of environmental protection of pharmaceutical industry\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.18\", \"cnName\": \"生物因子\", \"enName\": \"biology agents\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 181750, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"生物因子\", \"cnNameSearch\": \"生物因子\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"biology agents\", \"wordSearch\": \"biology agents\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"一切微生物和生物活性物质。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"5ade8c5b752e41b29ac698f0165baddc\", \"databaseId\": null, \"standardId\": \"adf0d4e8cf95404780f8854b950eed85\", \"standardCode\": \"GB/T 42444—2023\", \"standardName\": \"仿生学  术语、概念与方法论\", \"standardEnName\": \"Biomimetics—Terminology, concepts and methodology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"数学、自然科学\", \"termCode\": \"3.7\", \"cnName\": \"生物学推动\", \"enName\": \"biology push\", \"publishTime\": \"2023-03-17\", \"publishYear\": \"2023\", \"implementTime\": \"2023-10-01\", \"ics\": \"07.080\", \"ccs\": \"A 40\", \"parentTermId\": null, \"titleId\": null, \"oid\": 179983, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"生物学推动\", \"cnNameSearch\": \"生物学推动\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"biology push\", \"wordSearch\": \"biology push\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"以在生物学领域的基础研究中获得的知识为起点，应用于新技术产品开发的仿生开发过程。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>在技术领域，生物学推动被认为是一个自下面上的过程。</p>\", \"<p>在设计研究领域，生物学推动被认为是“解决方案驱动”<sup>[6]</sup>。</p>\", \"<p>参见技术拉动（3.19）。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"6dc13719c3a04caaa2bbc2e31c7004fe\", \"databaseId\": null, \"standardId\": \"8a49c5165dcb44be9ab1f112763d13d1\", \"standardCode\": \"GB/T 39759—2021\", \"standardName\": \"实验动物 术语\", \"standardEnName\": \"Laboratory animal—Terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"农业\", \"termCode\": \"2.14\", \"cnName\": \"比较生物学\", \"enName\": \"comparative biology\", \"publishTime\": \"2021-03-09\", \"publishYear\": \"2021\", \"implementTime\": \"2021-10-01\", \"ics\": \"ICS 65.020.30\", \"ccs\": \"B 44\", \"parentTermId\": null, \"titleId\": null, \"oid\": 145277, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"比较生物学\", \"cnNameSearch\": \"比较生物学\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"comparative biology\", \"wordSearch\": \"comparative biology\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"对不同种动物（包括人类）的生物学特性进行类比研究的一门综合性基础学科。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"c4c72e3906ec4912a7beeb024850fdff\", \"databaseId\": null, \"standardId\": \"9a5c5054717b4c94aedfd21d2c2bc717\", \"standardCode\": \"GB/T 38484—2020\", \"standardName\": \"植物激素类次生代谢产物的生物活性测定细胞学评价法\", \"standardEnName\": \"Determination of the biological activity for plant hormone-related secondary metabolites—Cytological method\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"数学、自然科学\", \"termCode\": \"3.1.2  \", \"cnName\": \"生物活性\", \"enName\": \"biology activity\", \"publishTime\": \"2020-11-19\", \"publishYear\": \"2020\", \"implementTime\": \"2020-11-19\", \"ics\": \"07.08007\", \"ccs\": \"A21\", \"parentTermId\": null, \"titleId\": null, \"oid\": 161070, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"生物活性\", \"cnNameSearch\": \"生物活性\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"biology activity\", \"wordSearch\": \"biology activity\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"单位浓度的植物激素类次生代谢产物与其相对应的标准物促进或抑制植物生长、发育与休眠能力的相对值。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"fbbf942253d044ffad8ba9901ce497b9\", \"databaseId\": null, \"standardId\": \"fc613787d1b64d9c94d93ce4b915281b\", \"standardCode\": \"GB/T 34741—2017\", \"standardName\": \"草坪术语\", \"standardEnName\": \"Turf terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"农业\", \"termCode\": \"2.9\", \"cnName\": \"草坪草生物学\", \"enName\": \"turfgrass biology\", \"publishTime\": \"2017-11-01\", \"publishYear\": \"2017\", \"implementTime\": \"2018-05-01\", \"ics\": \"65.020.4065\", \"ccs\": \"B40\", \"parentTermId\": null, \"titleId\": null, \"oid\": 245278, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"草坪草生物学\", \"cnNameSearch\": \"草坪草生物学\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"turfgrass biology\", \"wordSearch\": \"turfgrass biology\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"研究草坪植物的结构、功能、发生和发展规律的科学。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"ffe412228ff94725ab3d7ccde21dd846\", \"databaseId\": null, \"standardId\": \"a58375ab0b1c46c092e4eb682f07e9ff\", \"standardCode\": \"GB/T 29859—2013\", \"standardName\": \"生物信息学术语\", \"standardEnName\": \"Bioinformatics terms\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"2.4.21\", \"cnName\": \"系统生物学\", \"enName\": \"systems biology\", \"publishTime\": \"2013-11-12\", \"publishYear\": \"2013\", \"implementTime\": \"2014-04-15\", \"ics\": \"01.040.010\", \"ccs\": \"A22\", \"parentTermId\": null, \"titleId\": null, \"oid\": 169646, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"系统生物学\", \"cnNameSearch\": \"系统生物学\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"systems biology\", \"wordSearch\": \"systems biology\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"整合不同层次组学数据以理解生物系统如何行使功能的学科。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"b63a739f57e14834beb8680e6fb5d4d8\", \"databaseId\": null, \"standardId\": \"a58375ab0b1c46c092e4eb682f07e9ff\", \"standardCode\": \"GB/T 29859—2013\", \"standardName\": \"生物信息学术语\", \"standardEnName\": \"Bioinformatics terms\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"2.5.1\", \"cnName\": \"结构生物学\", \"enName\": \"structural biology\", \"publishTime\": \"2013-11-12\", \"publishYear\": \"2013\", \"implementTime\": \"2014-04-15\", \"ics\": \"01.040.010\", \"ccs\": \"A22\", \"parentTermId\": null, \"titleId\": null, \"oid\": 169708, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"结构生物学\", \"cnNameSearch\": \"结构生物学\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"structural biology\", \"wordSearch\": \"structural biology\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"以生物物理学和生物化学手段研究生物大分子的三维结构，以及结构与对应功能的关系的学科。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"5af50ca91ecc483ba7cd5be5c420ca85\", \"databaseId\": null, \"standardId\": \"d49627f0383f4133978f564dfaa47671\", \"standardCode\": \"GB/T 8588—2001\", \"standardName\": \"渔业资源基本术语\", \"standardEnName\": \"Fundamental terms of fisheries resource science\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"农业\", \"termCode\": \"2.1.1\", \"cnName\": \"渔业生物学\", \"enName\": \"fishery biology\", \"publishTime\": \"2001-11-12\", \"publishYear\": \"2001\", \"implementTime\": \"2002-03-01\", \"ics\": \"65.150\", \"ccs\": \"B50\", \"parentTermId\": null, \"titleId\": null, \"oid\": 210859, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"渔业生物学\", \"cnNameSearch\": \"渔业生物学\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"fishery biology\", \"wordSearch\": \"fishery biology\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"有关渔业生物生命物质的结构、功能、发生和发展规律以及与有关生物之间、环境之间的关系的科学。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"038ee3ab03f2478286e26d7babd3314a\", \"databaseId\": null, \"standardId\": \"092d6d437ecf4724a1b4da7d3385dfcf\", \"standardCode\": \"GB 51029—2014\", \"standardName\": \"火炬工程施工及验收规范\", \"standardEnName\": \"Code for construction and acceptance of flare project\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.7\", \"cnName\": \"分子密封器\", \"enName\": \"molecular sealer\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 8577, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"分子密封器\", \"cnNameSearch\": \"分子密封器\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"molecular sealer\", \"wordSearch\": \"molecular sealer\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"防止空气倒流至火炬筒引引起回火或爆炸的安全设备。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"8485a5973b1e445bb8f4934d292e80b4\", \"databaseId\": null, \"standardId\": \"58a5750f3e264752868d55129783e46a\", \"standardCode\": \"GB/T 30544.12—2023\", \"standardName\": \"纳米科技 术语第12部分：纳米科技中的量子现象\", \"standardEnName\": \"Nanotechnologies—Vocabulary—Part 12: Quantum phenomena in nanotechnology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"数学、自然科学\", \"termCode\": \"7.1\", \"cnName\": \"分子电子学\", \"enName\": \"molecular electronics\", \"publishTime\": \"2023-05-23\", \"publishYear\": \"2023\", \"implementTime\": \"2023-12-01\", \"ics\": \"07.120\", \"ccs\": \"A42\", \"parentTermId\": null, \"titleId\": null, \"oid\": 90938, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"分子电子学\", \"cnNameSearch\": \"分子电子学\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"molecular electronics\", \"wordSearch\": \"molecular electronics\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"利用分子作为组元，进行电子器件的设计、制造的科学与技术学科。\", \"footnote\": \"\", \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>部分分子需要功能化才能作为活性成分。</p>\"], \"refer\": [], \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"a33c79af50444278a9cfc32dc1af3285\", \"databaseId\": null, \"standardId\": \"770466f1dd894af78ad8b0ce30cca975\", \"standardCode\": \"GB/T 14157—2023\", \"standardName\": \"水 文 地 质 术 语\", \"standardEnName\": \"Terminology of hydrogeology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"数学、自然科学\", \"termCode\": \"3.3.5.3\", \"cnName\": \"分子扩散\", \"enName\": \"molecular diffusion\", \"publishTime\": \"2023-11-27\", \"publishYear\": \"2023\", \"implementTime\": \"2024-03-01\", \"ics\": \"07.06007\", \"ccs\": \"D14\", \"parentTermId\": null, \"titleId\": null, \"oid\": 121556, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"分子扩散\", \"cnNameSearch\": \"分子扩散\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"molecular diffusion\", \"wordSearch\": \"molecular diffusion\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在浓度差、温度差、压力差或其他推动力的作用下，由于分子、原子等的热运动所引起的物质在空间\\n的迁移现象。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"是质量传递的一种基本方式。\"], \"refer\": [], \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"db22fede313d48c79af6062ea20f713f\", \"databaseId\": null, \"standardId\": \"0c5942eccd8c48bb8fbc65fe800aaeb9\", \"standardCode\": \"GB/T 40618—2021\", \"standardName\": \"回旋加速器术语\", \"standardEnName\": \"Terminology for cyclotron\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"能源和热传导工程\", \"termCode\": \"5.6.31\", \"cnName\": \"分子流\", \"enName\": \"molecular flow\", \"publishTime\": \"2021-10-11\", \"publishYear\": \"2021\", \"implementTime\": \"2022-05-01\", \"ics\": \"27.120\", \"ccs\": \"F 91\", \"parentTermId\": null, \"titleId\": null, \"oid\": 11201, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"分子流\", \"cnNameSearch\": \"分子流\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"molecular flow\", \"wordSearch\": \"molecular flow\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"气体平均自由程远大于导管界面最大尺寸时气体通过导管的流动。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [{\"source\": \"GB/T 3163—2007\", \"sourceCode\": \"2.29\", \"modifyStatus\": 0, \"modifyContent\": \"\"}], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"4d9850067d8f48789628f5eb758529e1\", \"databaseId\": null, \"standardId\": \"e679c7b96bd34f828c05dfaeba8d0d28\", \"standardCode\": \"GB/T 4016—2019\", \"standardName\": \"石油产品术语\", \"standardEnName\": \"Terminology relating to petroleum products\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"石油及相关技术\", \"termCode\": \"3.50.015\", \"cnName\": \"分子筛\", \"enName\": \"molecular sieve\", \"publishTime\": \"2019-03-25\", \"publishYear\": \"2019\", \"implementTime\": \"2019-10-01\", \"ics\": \"75.080\", \"ccs\": \"E 30\", \"parentTermId\": null, \"titleId\": null, \"oid\": 227188, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"分子筛\", \"cnNameSearch\": \"分子筛\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"molecular sieve\", \"wordSearch\": \"molecular sieve\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"具有均一微孔结构，通过选择性吸附可以将大小不同、极性不同的有机化合物分开的一种合成泡沸石。可用来作催化剂。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"312cb0e6493b4a0e9d8a06b65943f962\", \"databaseId\": null, \"standardId\": \"8f7ea92eaa32419b8651f185fa432e5f\", \"standardCode\": \"GB/T 8188—2017\", \"standardName\": \"往复式内燃机 排放术语和定义\", \"standardEnName\": \"Reciprocating internal combustion engines—Emissions terminology and nomenclature\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"能源和热传导工程\", \"termCode\": \"5.4.3.5\", \"cnName\": \"分子筛\", \"enName\": \"molecular sieve\", \"publishTime\": \"2017-07-12\", \"publishYear\": \"2017\", \"implementTime\": \"2018-02-01\", \"ics\": \"27.020;13.04013\", \"ccs\": \"J90\", \"parentTermId\": null, \"titleId\": null, \"oid\": 152495, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"分子筛\", \"cnNameSearch\": \"分子筛\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"molecular sieve\", \"wordSearch\": \"molecular sieve\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"用分子级均匀孔隙表征的、能吸收细小分子的晶状体物质。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"11c5f92f72f04daead5be6cce80a5952\", \"databaseId\": null, \"standardId\": \"06dde108617842bcbe4e682e7921b3e0\", \"standardCode\": \"GB/T 32293—2015\", \"standardName\": \"真空技术  真空设备的检漏方法选择\", \"standardEnName\": \"Vacuum technology—Selection of leak test methods for vacuum equipment\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"流体系统和通用件\", \"termCode\": \"3.5\", \"cnName\": \"分子漏孔\", \"enName\": \"molecular leak\", \"publishTime\": \"2015-12-10\", \"publishYear\": \"2015\", \"implementTime\": \"2016-07-01\", \"ics\": \"23.160\", \"ccs\": \"J78\", \"parentTermId\": null, \"titleId\": null, \"oid\": 5874, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"分子漏孔\", \"cnNameSearch\": \"分子漏孔\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"molecular leak\", \"wordSearch\": \"molecular leak\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"漏孔的质量流率正比于流动气体分子质量平方根的倒数的一种漏孔。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"cfc47f402e464018aaddcde64f14d10b\", \"databaseId\": null, \"standardId\": \"64355c1a5481444a8181fd48406a1101\", \"standardCode\": \"GB/T 32267—2015\", \"standardName\": \"分析仪器性能测定术语\", \"standardEnName\": \"Terminology of performance testing for analytical instrument\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"化工技术\", \"termCode\": \"4.37\", \"cnName\": \"分子离子\", \"enName\": \"molecular ion\", \"publishTime\": \"2015-12-10\", \"publishYear\": \"2015\", \"implementTime\": \"2017-01-01\", \"ics\": \"71.040\", \"ccs\": \"N04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 99817, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"分子离子\", \"cnNameSearch\": \"分子离子\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"molecular ion\", \"wordSearch\": \"molecular ion\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"分子在离子化过程中未碎裂，只失去或得到一个电子，形成的正或负离子。\", \"footnote\": \"\", \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>其质荷比于相对分子质量。</p>\"], \"refer\": [], \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"6f7c9c60a543453eb34959b9858f3797\", \"databaseId\": null, \"standardId\": \"a58375ab0b1c46c092e4eb682f07e9ff\", \"standardCode\": \"GB/T 29859—2013\", \"standardName\": \"生物信息学术语\", \"standardEnName\": \"Bioinformatics terms\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"2.5.6\", \"cnName\": \"分子对接\", \"enName\": \"molecular docking\", \"publishTime\": \"2013-11-12\", \"publishYear\": \"2013\", \"implementTime\": \"2014-04-15\", \"ics\": \"01.040.010\", \"ccs\": \"A22\", \"parentTermId\": null, \"titleId\": null, \"oid\": 169670, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"分子对接\", \"cnNameSearch\": \"分子对接\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"molecular docking\", \"wordSearch\": \"molecular docking\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"模拟两个或多个分子之间的识别过程的方法。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"f3baa7dfd9e747d99f61e9608505b649\", \"databaseId\": null, \"standardId\": \"b9c0676d6b814fad93d08a9be9d6b11c\", \"standardCode\": \"GB/T 8873—2008\", \"standardName\": \"粮油名词术语  油脂工业\", \"standardEnName\": \"Terminology of grain and oils - Oils and fats industry\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"食品技术\", \"termCode\": \"3.4.7\", \"cnName\": \"分子蒸馏\", \"enName\": \"molecular distillation\", \"publishTime\": \"2008-11-04\", \"publishYear\": \"2008\", \"implementTime\": \"2009-01-20\", \"ics\": \"67.040\", \"ccs\": \"X04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 188723, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"分子蒸馏\", \"cnNameSearch\": \"分子蒸馏\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"molecular distillation\", \"wordSearch\": \"molecular distillation\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在残压0.013Pa~13.3Pa范围里进行的真空蒸馏。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"b7e6e551bb9448068953eeee8b12287a\", \"databaseId\": null, \"standardId\": \"cee636fcfc61401391317437daae7938\", \"standardCode\": \"GB/T 22360—2008\", \"standardName\": \"真空泵 安全要求\", \"standardEnName\": \"Vacuum pumps-Safety requirements\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"流体系统和通用件\", \"termCode\": \"3.17\", \"cnName\": \"分子泵\", \"enName\": \"molecular pump\", \"publishTime\": \"2008-08-28\", \"publishYear\": \"2008\", \"implementTime\": \"2009-10-01\", \"ics\": \"23.160\", \"ccs\": \"J 78\", \"parentTermId\": null, \"titleId\": null, \"oid\": 207192, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"分子泵\", \"cnNameSearch\": \"分子泵\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"molecular pump\", \"wordSearch\": \"molecular pump\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"高速旋转的转子将动量传给气体分子，使其传输到泵的出口的真空泵。例如;牵引分子泵和涡轮分子泵。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 4}}, \"timestamp\": 1795341253255}"
+}

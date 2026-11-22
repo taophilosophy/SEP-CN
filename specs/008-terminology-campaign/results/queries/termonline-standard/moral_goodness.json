@@ -1,0 +1,26 @@
+{
+ "key": "moral goodness",
+ "term": "moral goodness",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-22T09:53:48+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=2",
+ "hits": [
+  {
+   "cn": "优度",
+   "en": "goodness",
+   "code": "GB/T 37782—2019",
+   "standard": "金属材料 压入试验 强度、硬度和应力—应变曲线的测定",
+   "subject": "冶金"
+  },
+  {
+   "cn": "精神权",
+   "en": "moral right",
+   "code": "GB/T 4894—2009",
+   "standard": "信息与文献 术语",
+   "subject": "综合、术语学、标准化、文献"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2019\": 1, \"2009\": 1}, \"sourceStats\": {\"综合、术语学、标准化、文献\": 1, \"冶金\": 1}, \"typeStats\": {\"7\": 2}, \"totalRecords\": 2, \"tmWordList\": [{\"id\": \"50f82d81e0884c678f64512614e51321\", \"databaseId\": null, \"standardId\": \"f35621bebf344cebae765dec82452dfe\", \"standardCode\": \"GB/T 37782—2019\", \"standardName\": \"金属材料 压入试验 强度、硬度和应力—应变曲线的测定\", \"standardEnName\": \"Metallic materials—Indentation test—Determination of strength, hardness and stress—strain curve\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"冶金\", \"termCode\": \"3.5\", \"cnName\": \"优度\", \"enName\": \"goodness\", \"publishTime\": \"2019-08-30\", \"publishYear\": \"2019\", \"implementTime\": \"2020-07-01\", \"ics\": \"77.040.10\", \"ccs\": \"H22\", \"parentTermId\": null, \"titleId\": null, \"oid\": 239041, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"优度\", \"cnNameSearch\": \"优度\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"goodness\", \"wordSearch\": \"goodness\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"根据本标准方法测得的相同试样不同压人位置的材料应力-应变试验曲线的接近程度。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"c8b1aebd09fe4ffc9d2c31f1c2b770a8\", \"databaseId\": null, \"standardId\": \"e124160b0f1a4b1081277012df97d85b\", \"standardCode\": \"GB/T 4894—2009\", \"standardName\": \"信息与文献 术语\", \"standardEnName\": \"Information and documentation—Vocabulary\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"4.7.2.2.9.1\", \"cnName\": \"精神权\", \"enName\": \"moral right\", \"publishTime\": \"2009-09-30\", \"publishYear\": \"2009\", \"implementTime\": \"2010-02-01\", \"ics\": \"01.140.20\", \"ccs\": \"A 14\", \"parentTermId\": null, \"titleId\": null, \"oid\": 219885, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"精神权\", \"cnNameSearch\": \"精神权\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"moral right\", \"wordSearch\": \"moral right\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"著作权的永久的,不可让渡的和不受约束的部分。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1795341228893}"
+}

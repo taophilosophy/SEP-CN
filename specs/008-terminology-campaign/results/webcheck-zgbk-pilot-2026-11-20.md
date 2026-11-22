@@ -8,7 +8,7 @@
 2. AJAX 签名头 `token: hex_md5(会话串 + '/ecph 后路径')`（mtoken.js 实证）；
 3. 请求须携带页面会话 cookie（JSESSIONID 等）＋Referer，缺一即 401；
 4. 搜索端点 `POST /ecph/api/search`（form：conditions JSON［accuracy 1=精准/0=模糊、field=title、logic］＋pageIndex＋pageSize＋siteID），返回条目 title（含 font 高亮）/summary/subjectName/wikiType；另有 `/ecph/api/suggest`（标题联想）。
-   此前 2026-10-28 探测记录「内部 API 未破」就此收口。
+   此前 2026-10-28 探测记录“内部 API 未破”就此收口。
 
 ## 试金石批（60 词，与 OpenAlex 道同队列）
 

@@ -1,0 +1,82 @@
+{
+ "key": "hercules",
+ "term": "hercules",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-21T13:49:20+00:00",
+ "status": "ok",
+ "note": "variant=hercules; 审定公布名词库=4; 海峡两岸名词对照库=3; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "武仙X-1",
+   "en": "Hercules X-1",
+   "source": "天文学名词",
+   "wordNumber": "08.738",
+   "subjectFullName": "天文学_恒星和银河系",
+   "subjectName": "恒星和银河系",
+   "publishYear": "2024",
+   "definition": "位于武仙座方向的一个X射线源。"
+  },
+  {
+   "cn": "武仙大星团",
+   "en": "Great Cluster of Hercules",
+   "source": "天文学名词",
+   "wordNumber": "08.614",
+   "subjectFullName": "天文学_恒星和银河系",
+   "subjectName": "恒星和银河系",
+   "publishYear": "2024",
+   "definition": "一个位于武仙座的球状星团，包含约100万颗恒星，距离地球约25 100光年，直径145光年。"
+  },
+  {
+   "cn": "力蛋白",
+   "en": "herculin",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "2.0492",
+   "subjectFullName": "生物化学与分子生物学_氨基酸_肽与蛋白质_蛋白质_功能性蛋白质",
+   "subjectName": "功能性蛋白质",
+   "publishYear": "2024",
+   "definition": "人体MYF-6基因编码的肌肉生成调节蛋白质。是一种碱性螺旋-环-螺旋（bHLH）转录因子，诱导肌管成熟成为肌纤维。仅存在于骨骼肌。"
+  },
+  {
+   "cn": "武仙BL型星",
+   "en": "BL Herculis star",
+   "source": "天文学名词",
+   "wordNumber": "08.173",
+   "subjectFullName": "天文学_恒星和银河系",
+   "subjectName": "恒星和银河系",
+   "publishYear": "2024",
+   "definition": "一类星族Ⅱ造父变星，光变周期1～3天，处于水平支后的演化阶段。"
+  },
+  {
+   "cn": "武仙X-1",
+   "en": "Hercules X-1",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "海格立斯的青春",
+   "en": "La Jeunesse d’Hercule",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Saint-Saëns, Camille"
+  },
+  {
+   "cn": "力蛋白",
+   "en": "herculin",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

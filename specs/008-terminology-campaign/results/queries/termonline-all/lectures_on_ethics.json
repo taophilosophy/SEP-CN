@@ -1,0 +1,792 @@
+{
+ "key": "lectures on ethics",
+ "term": "Lectures on Ethics",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-22T13:33:17+00:00",
+ "status": "ok",
+ "note": "variant=Lectures on Ethics; 审定公布名词库=2172; 海峡两岸名词对照库=564; 其他来源数据库=406; 预公布名词数据库=470; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "讲师",
+   "en": "lecturer",
+   "source": "教育学名词",
+   "wordNumber": "08.138",
+   "subjectFullName": "教育学_高等教育_高等学校管理",
+   "subjectName": "高等学校管理",
+   "publishYear": "2013",
+   "definition": "高等学校教师中级专业技术职务名称。"
+  },
+  {
+   "cn": "微课",
+   "en": "micro lecture",
+   "source": "编辑与出版学名词",
+   "wordNumber": "07.05.033",
+   "subjectFullName": "编辑与出版学_出版物_网络出版产品与服务",
+   "subjectName": "网络出版产品与服务",
+   "publishYear": "2022",
+   "definition": "按照课程标准和教学实践要求，以视频为主要载体，围绕某个知识点或教学环节组织起来的呈现碎片化学习内容、过程及扩展素材的一种新型教学资源。微课的核心组成内容是课堂教学视频，同时还包含与该教学主题相关的教学"
+  },
+  {
+   "cn": "图书馆讲座",
+   "en": "library lecture",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "07.083",
+   "subjectFullName": "图书馆·情报与文献学_信息服务与用户研究_阅读辅导",
+   "subjectName": "阅读辅导",
+   "publishYear": "2019",
+   "definition": "通过举办各类讲座来进行知识传播，以进行读者教育的图书馆业务。是图书馆发挥其社会教育功能、信息传递功能、智力开发功能的重要活动形式。"
+  },
+  {
+   "cn": "学术讲座专论丛书",
+   "en": "lecture series",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.125",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_文献类型",
+   "subjectName": "文献类型",
+   "publishYear": "2019",
+   "definition": "围绕某个专题或若干主题所作系列讲座的文稿汇集。一般以丛书形式出版发行。"
+  },
+  {
+   "cn": "讲稿",
+   "en": "lecture notes",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.266",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_文献类型",
+   "subjectName": "文献类型",
+   "publishYear": "2019",
+   "definition": "演讲、报告或教课前所写的底稿。"
+  },
+  {
+   "cn": "演讲法",
+   "en": "lecture method",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0500",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_人力资源招聘、选拔",
+   "subjectName": "人力资源招聘、选拔",
+   "publishYear": "2016",
+   "definition": "通过对某一主题演讲来评价演讲者认知、语言等能力特征的评价方法。"
+  },
+  {
+   "cn": "阶梯教室",
+   "en": "lecture theater",
+   "source": "建筑学名词",
+   "wordNumber": "02.0186",
+   "subjectFullName": "建筑学_建筑类型及组成_教育建筑",
+   "subjectName": "教育建筑",
+   "publishYear": "2014",
+   "definition": "地面以台阶状逐步升高以创造良好的视线，用以学校中进行合班上课的公共教室。"
+  },
+  {
+   "cn": "讲授法",
+   "en": "lecture method",
+   "source": "教育学名词",
+   "wordNumber": "02.153",
+   "subjectFullName": "教育学_课程与教学",
+   "subjectName": "课程与教学",
+   "publishYear": "2013",
+   "definition": "教师运用口头语言，向学生传授知识的教学方法。包括讲述、讲解、讲读和讲演四种方式。"
+  },
+  {
+   "cn": "伦理",
+   "en": "ethics",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "06.127",
+   "subjectFullName": "阿尔茨海默病_治疗与康复_护理与康复",
+   "subjectName": "护理与康复",
+   "publishYear": "2019",
+   "definition": "从价值和信念体系中产生并涉及权利和义务的道德规范。"
+  },
+  {
+   "cn": "伦理学",
+   "en": "ethics",
+   "source": "核医学名词",
+   "wordNumber": "06.0239",
+   "subjectFullName": "核医学_核医学研究_核医学临床研究",
+   "subjectName": "核医学临床研究",
+   "publishYear": "2018",
+   "definition": "研究人与人、人与社会之间行为规范和原则的一门科学。"
+  },
+  {
+   "cn": "道德标准",
+   "en": "ethics",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0945",
+   "subjectFullName": "管理科学技术_一般管理理论_创业管理",
+   "subjectName": "创业管理",
+   "publishYear": "2016",
+   "definition": "一系列解释行为好坏对错的行为准则。"
+  },
+  {
+   "cn": "伦理学",
+   "en": "ethics",
+   "source": "教育学名词",
+   "wordNumber": "01.094",
+   "subjectFullName": "教育学_教育基本理论",
+   "subjectName": "教育基本理论",
+   "publishYear": "2013",
+   "definition": "哲学的一个分支。以道德现象为研究对象，以道德意识、道德活动、道德行为、道德规范等为主要研究内容的学科。"
+  },
+  {
+   "cn": "格拉诺夫斯基演讲",
+   "en": "Granovsky's Lectures",
+   "source": "世界历史名词",
+   "wordNumber": "05.0133",
+   "subjectFullName": "世界历史_近现代俄罗斯、东欧、高加索、中亚_俄罗斯人",
+   "subjectName": "俄罗斯人",
+   "publishYear": "2012",
+   "definition": "1843-1851年间，俄国历史学家格拉诺夫斯基发表的三次公开演讲，指出俄国和西欧是沿着同一道路发展的，农奴制在西欧早已消失，在俄国也必然崩溃。"
+  },
+  {
+   "cn": "大学授课资格",
+   "en": "lecture's qualification",
+   "source": "教育学名词",
+   "wordNumber": "05.154",
+   "subjectFullName": "教育学_比较教育_德国教育",
+   "subjectName": "德国教育",
+   "publishYear": "2013",
+   "definition": "德国大学授予的大学教授任职资格。申请者须具有博士学位，并提交一篇高水平学术论文（亦称大学授课资格论文），同时举行一次公开学术演讲。"
+  },
+  {
+   "cn": "高级讲师",
+   "en": "senior lecturer,reader",
+   "source": "教育学名词",
+   "wordNumber": "08.137",
+   "subjectFullName": "教育学_高等教育_高等学校管理",
+   "subjectName": "高等学校管理",
+   "publishYear": "2013",
+   "definition": "英国等英联邦国家的高等学校教师专业技术职务名称之一。低于教授而高于讲师，大致相当于美国大学的副教授但侧重于教学。"
+  },
+  {
+   "cn": "俗讲",
+   "en": "su jiang;popular lectures",
+   "source": "中国古代史名词",
+   "wordNumber": "5.228",
+   "subjectFullName": "中国古代史_隋唐五代_思想文化_文学艺术",
+   "subjectName": "文学艺术",
+   "publishYear": "2022",
+   "definition": "源于寺院讲经活动的说唱形式。常取佛经故事，用说唱相间的方式宣讲，有的还配以图像展示。其文字脚本称“变文”，讲唱之僧称“俗讲僧”，唐以来民间艺人亦多以此讲唱历史故事、民间传说。"
+  },
+  {
+   "cn": "经筵",
+   "en": "jing yan;court lecturer",
+   "source": "中国古代史名词",
+   "wordNumber": "1.05",
+   "subjectFullName": "中国古代史_通论_政治_中央及地方职官",
+   "subjectName": "中央及地方职官",
+   "publishYear": "2022",
+   "definition": "御前经史讲席。起于汉代，宋朝始有此称，常以翰林学士等文儒之臣为讲官，其讲期、仪式和参与听讲者俱有规定，既讲解经史精义以为鉴戒，亦示尊师重教。元明清沿此损益，其制渐趋完备隆重。"
+  },
+  {
+   "cn": "讲会",
+   "en": "jiang hui;lecture gatherings",
+   "source": "中国古代史名词",
+   "wordNumber": "1.37",
+   "subjectFullName": "中国古代史_通论_思想文化_思想学术",
+   "subjectName": "思想学术",
+   "publishYear": "2022",
+   "definition": "聚众讲学、传教的活动。源于官私学校讲堂中的授学问难，魏晋至隋唐以来，儒、佛、道各有不同规模和形式的聚众讲经、传教之举，有时亦儒、佛、道人士共聚一堂轮讲互辩。南宋吕祖谦邀请朱熹与陆九渊、陆九龄兄弟举行“"
+  },
+  {
+   "cn": "日讲",
+   "en": "ri jiang;daily lecture",
+   "source": "中国古代史名词",
+   "wordNumber": "8.076",
+   "subjectFullName": "中国古代史_明清_政治_中央及地方职官",
+   "subjectName": "中央及地方职官",
+   "publishYear": "2022",
+   "definition": "明清特拣官员为皇帝讲读经史的制度。御前侍读、侍讲之制源于汉，完备于唐宋，明朝行于每月初二、十二、二十日，清朝始于春分、秋分祭孔讲经大典后每日进讲，至夏至、冬至而止，故又称“小经筵”，乾隆以后很少举行。"
+  },
+  {
+   "cn": "生态伦理学",
+   "en": "ecological ethics",
+   "source": "风景园林名词",
+   "wordNumber": "12.0103",
+   "subjectFullName": "风景园林_风景园林生态_生态系统生态学",
+   "subjectName": "生态系统生态学",
+   "publishYear": "2025",
+   "definition": "研究生态的伦理价值和人类对待自然的行为规范的一门边缘学科。"
+  },
+  {
+   "cn": "伦理",
+   "en": "ethics",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "合乎道德的投资",
+   "en": "ethical investment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "通",
+   "en": "on",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "伦理守则,伦理规范",
+   "en": "code of ethics",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "一对一联系",
+   "en": "one to one relationship",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "在线",
+   "en": "on line",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "在线",
+   "en": "on-line",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "正轴",
+   "en": "on-axis",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "见票即付",
+   "en": "on demand",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "在线",
+   "en": "on-line",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "锤测航行区",
+   "en": "on soundings",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "登录",
+   "en": "sign-on",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "回送开放",
+   "en": "echo on",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "接通",
+   "en": "switch on",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "对遇",
+   "en": "end on",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "红套",
+   "en": "shrink-on",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "继续",
+   "en": "carry on",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "系住",
+   "en": "bend on",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "一步舞曲",
+   "en": "one-step",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "1-氧杂环戊-2-酮",
+   "en": "1-oxacyclopentan-2-one",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "微课",
+   "en": "micro lecture",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "伦理",
+   "en": "Ethics",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据伦理",
+   "en": "Data Ethics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络伦理",
+   "en": "Internet ethics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "伦理算法",
+   "en": "ethical algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人工智能准则（IBM）",
+   "en": "AI Ethics (IBM)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "一加一罚球",
+   "en": "one-and-one shot\",\"one-plus-one shot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "一加一罚球规则",
+   "en": "one-and-one rule",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "伦理数据管理协议",
+   "en": "ethical data management protocol",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "准备！(击剑)",
+   "en": "On guard!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "准备！",
+   "en": "On guard!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "一",
+   "en": "The One",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "一级上诉",
+   "en": "level one",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "备用品",
+   "en": "spare one",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "两次转移",
+   "en": "one-two",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "慎独",
+   "en": "Shendu&nbsp;(Ethical Self-cultivation)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "准备姿势",
+   "en": "placing on guard\",\"putting on guard",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "射门",
+   "en": "shoot on goal\",\"shot on goal",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "讲座",
+   "en": "lecture",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.2.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育方法",
+   "subjectName": "学校健康教育方法",
+   "publishYear": "2025",
+   "definition": "通常由学校或社区主办，围绕学生中比较普遍性的问题，请一名或多名专家开展专题报告的教学方法。"
+  },
+  {
+   "cn": "伦理",
+   "en": "ethics",
+   "source": "社会学名词",
+   "wordNumber": "2.8.2.5",
+   "subjectFullName": "社会学名词_社会学一般概念_社会制度_社会规范",
+   "subjectName": "社会规范",
+   "publishYear": "2025",
+   "definition": "社会成员与其他社会成员和外界互动中应当遵守的基于社会习俗和道德的规范总和。"
+  },
+  {
+   "cn": "伦理学",
+   "en": "ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.003",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "哲学的一个分支。以道德现象为研究对象，以道德意识、道德活动、道德行为、道德规范等为主要研究内容的学科。"
+  },
+  {
+   "cn": "伦理",
+   "en": "ethic",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.001",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人与人相处的各种道德准则及规范的理论或道理。"
+  },
+  {
+   "cn": "课堂讲授",
+   "en": "lecture in class",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.2.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育方法",
+   "subjectName": "学校健康教育方法",
+   "publishYear": "2025",
+   "definition": "教师以课本为教材，有教学大纲，有明确的教学重点和安排的教学方法。"
+  },
+  {
+   "cn": "产前诊断伦理委员会",
+   "en": "ethics committee on prenatal diagnosis",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.7.14",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生项目管理",
+   "subjectName": "妇幼卫生项目管理",
+   "publishYear": "2025",
+   "definition": "提供产前诊断服务机构内部的伦理审查组织，其职责包括负责审查和评估与产前诊断相关的伦理问题，以确保产前诊断技术的实施符合伦理和法律的要求，保护孕妇和胎儿的权益和安全。"
+  },
+  {
+   "cn": "辅助生殖医学伦理委员会",
+   "en": "ethics committee on assisted reproductive technology",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.7.13",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生项目管理",
+   "subjectName": "妇幼卫生项目管理",
+   "publishYear": "2025",
+   "definition": "提供辅助生殖医学服务机构内部的伦理审查组织，其职责包括审查和批准辅助生殖技术的使用、制定相关伦理准则和指导方针、解决与辅助生殖医学相关的伦理争议。"
+  },
+  {
+   "cn": "美德伦理学",
+   "en": "virtue ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.131",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学流派",
+   "subjectName": "伦理学流派",
+   "publishYear": "2025",
+   "definition": "将“美德”视为伦理学的基本范畴、把品格判断作为最基本的道德判断，强调人应当过一种有德性的生活的伦理学理论。"
+  },
+  {
+   "cn": "经济伦理",
+   "en": "economic ethics",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.63",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "调节和规范人们从事经济活动的一系列伦理原则和道德规范。是人们通过社会化习得的关于处理经济活动以及其中涉及的人际关系的道德伦理规定。"
+  },
+  {
+   "cn": "商谈伦理",
+   "en": "discourse ethics",
+   "source": "马克思主义",
+   "wordNumber": "05.0038",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "哈贝马斯认为交往行为实质上是一种商谈关系，强调在商谈伦理规导下，通过主体之间理解达到合理一致的真理，实现交往理性从理论向实践层面的转换，最终在社会成员之间相互理解和平相处的基础上达到文明进步目标。"
+  },
+  {
+   "cn": "进化伦理学",
+   "en": "evolutionary ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.207",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学相关学科",
+   "subjectName": "医学伦理学相关学科",
+   "publishYear": "2025",
+   "definition": "研究自然选择理论和伦理学之间关系与实践的学科。"
+  },
+  {
+   "cn": "治疗伦理",
+   "en": "therapeutic ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "5.033",
+   "subjectFullName": "医学伦理学_临床诊疗伦理",
+   "subjectName": "临床诊疗伦理",
+   "publishYear": "2025",
+   "definition": "临床治疗过程中涉及的伦理问题及规范。"
+  },
+  {
+   "cn": "诊断伦理",
+   "en": "diagnostic ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "5.022",
+   "subjectFullName": "医学伦理学_临床诊疗伦理",
+   "subjectName": "临床诊疗伦理",
+   "publishYear": "2025",
+   "definition": "在疾病诊断过程中约束和调节医疗行为的道德规范和价值观念的总称。"
+  },
+  {
+   "cn": "儿科伦理",
+   "en": "pediatric ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "5.064",
+   "subjectFullName": "医学伦理学_临床诊疗伦理",
+   "subjectName": "临床诊疗伦理",
+   "publishYear": "2025",
+   "definition": "在对新生儿至14 岁患者疾病诊治过程中涉及的伦理问题及应遵循的伦理规范。包括细心采集病史，及时诊治；密切观察病情，精心护理；重视儿童保护工作等。"
+  },
+  {
+   "cn": "疾病伦理",
+   "en": "disease ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "5.006",
+   "subjectFullName": "医学伦理学_临床诊疗伦理",
+   "subjectName": "临床诊疗伦理",
+   "publishYear": "2025",
+   "definition": "人们在看待和处理疾病问题时所涉及的伦理问题及规范。"
+  },
+  {
+   "cn": "医学伦理学",
+   "en": "medical ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.005",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "研究临床医学、公共卫生、医学科研等方面的医学道德问题，确立医学活动中应该遵循的道德规范的学科。"
+  },
+  {
+   "cn": "临床伦理学",
+   "en": "clinical ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.17",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学相关学科",
+   "subjectName": "医学伦理学相关学科",
+   "publishYear": "2025",
+   "definition": "研究医学伦理学的基本理论、原则和规范在临床医学和临床实践中具体运用的伦理学理论。重点研究医患之间、医务人员之间及医务人员与社会之间的伦理关系，涉及临床诊疗、检查、康复及新技术临床应用等伦理问题。"
+  },
+  {
+   "cn": "死亡伦理",
+   "en": "death ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "7.001",
+   "subjectFullName": "医学伦理学_临终关怀与死亡伦理",
+   "subjectName": "临终关怀与死亡伦理",
+   "publishYear": "2025",
+   "definition": "对死亡现象及其本质规律与意义的伦理判断、伦理规范和伦理原则体系。"
+  },
+  {
+   "cn": "心理治疗伦理",
+   "en": "psychotherapy ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.1909999999999998",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学相关学科",
+   "subjectName": "医学伦理学相关学科",
+   "publishYear": "2025",
+   "definition": "心理治疗从业人员在心理治疗过程中应当遵循的伦理规范和要求。"
+  },
+  {
+   "cn": "康复伦理",
+   "en": "rehabilitation ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.07",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "在康复医疗活动中涉及的伦理问题及应遵循的伦理规范。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

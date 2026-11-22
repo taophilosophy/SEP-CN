@@ -1,0 +1,152 @@
+{
+ "key": "singular term",
+ "term": "singular term",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-22T09:54:05+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=226",
+ "hits": [
+  {
+   "cn": "地下单体结构",
+   "en": "singular underground structure",
+   "code": "GB/T 51336—2018",
+   "standard": "地下结构抗震设计标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "术语",
+   "en": "term",
+   "code": "GB/T 20001.1—2024",
+   "standard": "标准起草规则 第1部分：术语 ",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "词条",
+   "en": "term",
+   "code": "GB/T 38377—2019",
+   "standard": "新闻出版 知识服务知识资源建设与服务基础术语",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "术语",
+   "en": "term",
+   "code": "GB/T 13725—2019",
+   "standard": "建立术语数据库的一般原则与方法",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "语词",
+   "en": "term",
+   "code": "GB/T 13190.2—2018",
+   "standard": "信息与文献 叙词表及与其他 词表的互操作 第2部分: 与其他词表的互操作",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "语词",
+   "en": "term",
+   "code": "GB/T 13190.1—2015",
+   "standard": "信息与文献 叙词表及与其他词表的互操作第1部分:用于信息检索的叙词表",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "术语",
+   "en": "term",
+   "code": "GB/T 15625—2014",
+   "standard": "术语数据库技术评价指南",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "术语",
+   "en": "term",
+   "code": "GB/T 15387.2—2014",
+   "standard": "术语数据库开发指南 ",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "术语",
+   "en": "term",
+   "code": "GB/T 15387.1—2014",
+   "standard": "术语数据库开发文件编制指南 ",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "术语",
+   "en": "term",
+   "code": "GB/T 5271.17—2010",
+   "standard": "信息技术 词汇 第17部分：数据库",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "术语",
+   "en": "term",
+   "code": "GB/T 4894—2009",
+   "standard": "信息与文献 术语",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "主题词款目",
+   "en": "term entry",
+   "code": "GB/T 40670—2021",
+   "standard": "中医药学主题词表编制规则",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "趋势项",
+   "en": "trend term",
+   "code": "GB/T 50095—2014",
+   "standard": "水文基本术语和符号标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "期间收益",
+   "en": "term income",
+   "code": "GB/T 50899—2013",
+   "standard": "房地产估价基本术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "不公平条款",
+   "en": "unfair term",
+   "code": "GB/T 42504—2023",
+   "standard": "消费者保证/担保准则",
+   "subject": "社会学、服务、公司（企业）的组织和管理、行政、运输"
+  },
+  {
+   "cn": "业务术语",
+   "en": "business term",
+   "code": "GB/T 42723—2023",
+   "standard": "国际贸易业务流程规范   电子国际公路货物运输托运单",
+   "subject": "社会学、服务、公司（企业）的组织和管理、行政、运输"
+  },
+  {
+   "cn": "缩略语",
+   "en": "abbreviated term",
+   "code": "GB/T 1844.1—2022",
+   "standard": "塑料符号和缩略语 第1部分：基础聚合物及其特征性能 ",
+   "subject": "橡胶和塑料工业"
+  },
+  {
+   "cn": "辐射源项",
+   "en": "source term",
+   "code": "GB/T 42142—2022",
+   "standard": "压水堆核电厂辅助系统及二回路系统 辐射源项分析准则 ",
+   "subject": "计量学和测量、物理现象"
+  },
+  {
+   "cn": "词频",
+   "en": "term frequency",
+   "code": "GB/T 41864—2022",
+   "standard": "信息技术 计算机视觉 术语 ",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "源项",
+   "en": "source term",
+   "code": "GB/T 41582—2022",
+   "standard": "核电厂事故源项快速估算方法",
+   "subject": "能源和热传导工程"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2024\": 6, \"2023\": 18, \"2022\": 11, \"2021\": 26, \"2020\": 16, \"2019\": 23, \"2018\": 12, \"2017\": 3, \"2016\": 6, \"2015\": 32, \"2014\": 7, \"2013\": 6, \"2011\": 2, \"2010\": 1, \"2009\": 19, \"2008\": 10, \"2007\": 1, \"2005\": 2, \"2000\": 2, \"1996\": 1, \"1995\": 2, \"暂无年份\": 20}, \"sourceStats\": {\"食品技术\": 3, \"造船和海上构筑物\": 1, \"试验\": 1, \"计量学和测量、物理现象\": 15, \"能源和热传导工程\": 8, \"综合、术语学、标准化、文献\": 75, \"社会学、服务、公司（企业）的组织和管理、行政、运输\": 6, \"石油及相关技术\": 3, \"电气工程\": 11, \"电子学\": 5, \"电信、音频和视频工程\": 6, \"环保、保健和安全\": 5, \"流体系统和通用件\": 1, \"橡胶和塑料工业\": 15, \"机械制造\": 7, \"数学、自然科学\": 1, \"成像技术\": 1, \"建筑材料和建筑物\": 8, \"土木工程\": 1, \"医药卫生技术\": 3, \"化工技术\": 3, \"冶金\": 1, \"农业\": 5, \"其它\": 30, \"信息技术、办公机械\": 10}, \"typeStats\": {\"7\": 226}, \"totalRecords\": 226, \"tmWordList\": [{\"id\": \"09bb9f5f2ce346dc9a2708a873228335\", \"databaseId\": null, \"standardId\": \"10fbac202c554b91a3d8b523154514de\", \"standardCode\": \"GB/T 51336—2018\", \"standardName\": \"地下结构抗震设计标准\", \"standardEnName\": \"Standard for seismic design of underground structures\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.1.13\", \"cnName\": \"地下单体结构\", \"enName\": \"singular underground structure\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 15658, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"地下单体结构\", \"cnNameSearch\": \"地下单体结构\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"singular underground structure\", \"wordSearch\": \"singular underground structure\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"独立的地下结构。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"0747617b372e42d9b0396af9a26a0e7d\", \"databaseId\": null, \"standardId\": \"fcd9e57c260b40d9b1aeb9029b950dd4\", \"standardCode\": \"GB/T 20001.1—2024\", \"standardName\": \"标准起草规则 第1部分：术语 \", \"standardEnName\": \"Rules for drafting standards——Part 1 : Terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"3.4.1.1.2\", \"cnName\": \"术语\", \"enName\": \"term\", \"publishTime\": \"2024-03-15\", \"publishYear\": \"2024\", \"implementTime\": \"2024-10-01\", \"ics\": \"ICS 01.020;01.120\", \"ccs\": \"CCS A 00\", \"parentTermId\": null, \"titleId\": null, \"oid\": 245608, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"术语\", \"cnNameSearch\": \"术语\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"term\", \"wordSearch\": \"term\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"通过语言方式表示一般概念的指称。\\n由，\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"术语的部分或整体有时是口头形式的，\"], \"refer\": [], \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"35a53a0071df4988bfa303a033758731\", \"databaseId\": null, \"standardId\": \"603b9d44649d416eb7e181b631cf3cb4\", \"standardCode\": \"GB/T 38377—2019\", \"standardName\": \"新闻出版 知识服务知识资源建设与服务基础术语\", \"standardEnName\": \"Press and publication-Knowledge services-Basic terms of knowledge resource development and know ledge services\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"2.16\", \"cnName\": \"词条\", \"enName\": \"term\", \"publishTime\": \"2019-12-31\", \"publishYear\": \"2019\", \"implementTime\": \"2020-07-01\", \"ics\": \"01.140.4001\", \"ccs\": \"A19\", \"parentTermId\": null, \"titleId\": null, \"oid\": 95954, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"词条\", \"cnNameSearch\": \"词条\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"term\", \"wordSearch\": \"term\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"用于特定目的的词或词组。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"c552c562aff34502b73a4ef447c905c6\", \"databaseId\": null, \"standardId\": \"ec5e2fd76cd4474280a9e989df01f795\", \"standardCode\": \"GB/T 13725—2019\", \"standardName\": \"建立术语数据库的一般原则与方法\", \"standardEnName\": \"General principles and methods for establishing terminology database\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"3.1\", \"cnName\": \"术语\", \"enName\": \"term\", \"publishTime\": \"2019-08-30\", \"publishYear\": \"2019\", \"implementTime\": \"2020-03-01\", \"ics\": \"01.020\", \"ccs\": \"A 22\", \"parentTermId\": null, \"titleId\": null, \"oid\": 231138, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"术语\", \"cnNameSearch\": \"术语\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"term\", \"wordSearch\": \"term\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在特定专业领域中一般概念的词语指称。[GB/T15237.1-2000，定义3.4.3]\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"0e493722823d4c7e99286d6387c848a7\", \"databaseId\": null, \"standardId\": \"edc5ead4c8af4369a67e44ee27c95094\", \"standardCode\": \"GB/T 13190.2—2018\", \"standardName\": \"信息与文献 叙词表及与其他 词表的互操作 第2部分: 与其他词表的互操作\", \"standardEnName\": \"Information and documentation-Thesauri and interoperability withother vocabularies-Part 2: Interoperability with other vocabularies\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"3.84\", \"cnName\": \"语词\", \"enName\": \"term\", \"publishTime\": \"2018-06-07\", \"publishYear\": \"2018\", \"implementTime\": \"2019-01-01\", \"ics\": \"01.140.20\", \"ccs\": \"A 14\", \"parentTermId\": null, \"titleId\": null, \"oid\": 232481, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"语词\", \"cnNameSearch\": \"语词\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"term\", \"wordSearch\": \"term\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"用于标识概念的单词或词组。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"2022a1996cb642789138659efebe05d9\", \"databaseId\": null, \"standardId\": \"318d1f4d5a02474e9637288da7f2c442\", \"standardCode\": \"GB/T 13190.1—2015\", \"standardName\": \"信息与文献 叙词表及与其他词表的互操作第1部分:用于信息检索的叙词表\", \"standardEnName\": \"Information and documentation-Thesauri and interoperabilitywith other vocabularies-Part 1: Thesauri for information retrieval\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"3.61\", \"cnName\": \"语词\", \"enName\": \"term\", \"publishTime\": \"2015-05-15\", \"publishYear\": \"2015\", \"implementTime\": \"2015-12-01\", \"ics\": \"01.140.20\", \"ccs\": \"A 14\", \"parentTermId\": null, \"titleId\": null, \"oid\": 52626, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"语词\", \"cnNameSearch\": \"语词\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"term\", \"wordSearch\": \"term\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"用于标识概念的单词或词组。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [\"<p>school(学校)</p>\", \"<p>school uniform(学校制服)</p>\", \"<p>costs of schooling(教育成本)</p>\"], \"notes\": [\"<p>叙词表语词可以是优选词,也可以是非优选词。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"ffbc2b8ab87949f1bade90fc70b308d3\", \"databaseId\": null, \"standardId\": \"3648adee6b604200a13a2f3d0df7396e\", \"standardCode\": \"GB/T 15625—2014\", \"standardName\": \"术语数据库技术评价指南\", \"standardEnName\": \"Guidelines for technical evaluation of terminological database\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"3.1\", \"cnName\": \"术语\", \"enName\": \"term\", \"publishTime\": \"2014-05-06\", \"publishYear\": \"2014\", \"implementTime\": \"2014-11-01\", \"ics\": \"01.02001\", \"ccs\": \"A22\", \"parentTermId\": null, \"titleId\": null, \"oid\": 59971, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"术语\", \"cnNameSearch\": \"术语\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"term\", \"wordSearch\": \"term\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在特定专业领域中一般概念的词语指称。\\nGB/T15237.1—2000，定义3.4.3\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"792b4ec12e9b435a8ca6ebb93a68efca\", \"databaseId\": null, \"standardId\": \"c547e2dc6554464c9fadff7a4fa87c4d\", \"standardCode\": \"GB/T 15387.2—2014\", \"standardName\": \"术语数据库开发指南 \", \"standardEnName\": \"Guidelines for the development of terminological database\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"3.1\", \"cnName\": \"术语\", \"enName\": \"term\", \"publishTime\": \"2014-05-06\", \"publishYear\": \"2014\", \"implementTime\": \"2014-11-01\", \"ics\": \"ICS 01.020\", \"ccs\": \"A 22\", \"parentTermId\": null, \"titleId\": null, \"oid\": 198361, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"术语\", \"cnNameSearch\": \"术语\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"term\", \"wordSearch\": \"term\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在特定专业领域中一般概念的词语指称。\\n[GB/T15237.1—2000，定义3.4.3]\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"412dabf91fb44c56912f2515b2a54897\", \"databaseId\": null, \"standardId\": \"ed9e2dfa6cb24c1d8e60d06f884a9b45\", \"standardCode\": \"GB/T 15387.1—2014\", \"standardName\": \"术语数据库开发文件编制指南 \", \"standardEnName\": \"Guidelines for the documentation for developing terminological database\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"3.1\", \"cnName\": \"术语\", \"enName\": \"term\", \"publishTime\": \"2014-05-06\", \"publishYear\": \"2014\", \"implementTime\": \"2014-11-01\", \"ics\": \"ICS 01.020\", \"ccs\": \"A 22\", \"parentTermId\": null, \"titleId\": null, \"oid\": 232383, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"术语\", \"cnNameSearch\": \"术语\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"term\", \"wordSearch\": \"term\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在特定专业领域中一般概念的词语指称。<br>\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"e40a97ab6aaa4886bdcb1af137d6dda9\", \"databaseId\": null, \"standardId\": \"dca4f6bb43ae4d65877e88ba063ead8b\", \"standardCode\": \"GB/T 5271.17—2010\", \"standardName\": \"信息技术 词汇 第17部分：数据库\", \"standardEnName\": \"Information technology—Vocabulary—Part: 17: Databases\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"17.07.14\", \"cnName\": \"术语\", \"enName\": \"term\", \"publishTime\": \"2010-12-01\", \"publishYear\": \"2010\", \"implementTime\": \"2011-04-01\", \"ics\": \"01.040.35；35.240.20\", \"ccs\": \"L 60\", \"parentTermId\": null, \"titleId\": null, \"oid\": 216543, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"术语\", \"cnNameSearch\": \"术语\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"term\", \"wordSearch\": \"term\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在某一概念模式语言中,指一个实体的语言学构造[成分]。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"2ec5fae1fd2a45bd8aacb12beb73218f\", \"databaseId\": null, \"standardId\": \"e124160b0f1a4b1081277012df97d85b\", \"standardCode\": \"GB/T 4894—2009\", \"standardName\": \"信息与文献 术语\", \"standardEnName\": \"Information and documentation—Vocabulary\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"4.1.1.2.17\", \"cnName\": \"术语\", \"enName\": \"term\", \"publishTime\": \"2009-09-30\", \"publishYear\": \"2009\", \"implementTime\": \"2010-02-01\", \"ics\": \"01.140.20\", \"ccs\": \"A 14\", \"parentTermId\": null, \"titleId\": null, \"oid\": 219589, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"术语\", \"cnNameSearch\": \"术语\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"term\", \"wordSearch\": \"term\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在一个特定的主题领域(1)中,一个一般概念的词语标识。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>来源于 GB/T 15237.1—2000。</p>\", \"<p>术语可以包含符号,并可能有变体(例如不同的拼写形式)。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"e6a0924d9b274e0b8caf08745f477eaf\", \"databaseId\": null, \"standardId\": \"0668c1818498497d98af4deec14810ea\", \"standardCode\": \"GB/T 40670—2021\", \"standardName\": \"中医药学主题词表编制规则\", \"standardEnName\": \"Guidelines for establishment and development of traditional Chinese medical thesauri\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"3.12\", \"cnName\": \"主题词款目\", \"enName\": \"term entry\", \"publishTime\": \"2021-10-11\", \"publishYear\": \"2021\", \"implementTime\": \"2021-10-11\", \"ics\": \"01.140.20\", \"ccs\": \"C 10\", \"parentTermId\": null, \"titleId\": null, \"oid\": 5547, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"主题词款目\", \"cnNameSearch\": \"主题词款目\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"term entry\", \"wordSearch\": \"term entry\"}, {\"languageType\": 1, \"word\": \"term block\", \"wordSearch\": \"term block\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"构成主题词表的基础单元。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>一般由主题词、汉语拼音、英译名、注释、范畴号（树形结构号）和参照项等组成。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"3daf7e2a7b2c410fab53d11864d4d6a1\", \"databaseId\": null, \"standardId\": \"2ab6223e540049078222788acd26c43f\", \"standardCode\": \"GB/T 50095—2014\", \"standardName\": \"水文基本术语和符号标准\", \"standardEnName\": \"Standard for essential terminology and symbol in hydrology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"7.2.25.1\", \"cnName\": \"趋势项\", \"enName\": \"trend term\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 41675, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"趋势项\", \"cnNameSearch\": \"趋势项\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"trend term\", \"wordSearch\": \"trend term\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"水文系列中随时程呈增加或减少变化的成分。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"3a6afeeccfb44e02b93b3ce199bd2d5c\", \"databaseId\": null, \"standardId\": \"5d36672f76954b50b06c80b613f1834e\", \"standardCode\": \"GB/T 50899—2013\", \"standardName\": \"房地产估价基本术语标准\", \"standardEnName\": \"Standard for basic terminology of real estate appraisal\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"6.2.14\", \"cnName\": \"期间收益\", \"enName\": \"term income\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 94028, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"期间收益\", \"cnNameSearch\": \"期间收益\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"term income\", \"wordSearch\": \"term income\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"预计在持有期间各年可获得的净收益。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"84b435372e0141dd8c48dfebf2a03c6a\", \"databaseId\": null, \"standardId\": \"3cd2470b032b4f00901154d74ee547fc\", \"standardCode\": \"GB/T 42504—2023\", \"standardName\": \"消费者保证/担保准则\", \"standardEnName\": \"Guidelines on consumer warranties/guarantees \", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"社会学、服务、公司（企业）的组织和管理、行政、运输\", \"termCode\": \"3.14\", \"cnName\": \"不公平条款\", \"enName\": \"unfair term\", \"publishTime\": \"2023-03-17\", \"publishYear\": \"2023\", \"implementTime\": \"2023-03-17\", \"ics\": \"03.080.30\", \"ccs\": \"A 16\", \"parentTermId\": null, \"titleId\": null, \"oid\": 65929, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"不公平条款\", \"cnNameSearch\": \"不公平条款\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"unfair term\", \"wordSearch\": \"unfair term\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"违背诚信要求，导致合同双方的权利义务严重失衡，损害消费者利益的格式条款。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [\"<p>比如“货品按样品售出”“所付款项概不退还”“售出货品概不退换”之类的条款。</p>\"], \"notes\": [], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"199d4009898645b8bcbc90debd8c0239\", \"databaseId\": null, \"standardId\": \"cdaef7e5781c4aa19da315ffd5dede03\", \"standardCode\": \"GB/T 42723—2023\", \"standardName\": \"国际贸易业务流程规范   电子国际公路货物运输托运单\", \"standardEnName\": \"Specification for international trade business process—Electronic international road consignment note(e—CMR)\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"社会学、服务、公司（企业）的组织和管理、行政、运输\", \"termCode\": \"3.8\", \"cnName\": \"业务术语\", \"enName\": \"business term\", \"publishTime\": \"2023-05-23\", \"publishYear\": \"2023\", \"implementTime\": \"2023-09-01\", \"ics\": \"03.100.01\", \"ccs\": \"A 02\", \"parentTermId\": null, \"titleId\": null, \"oid\": 206571, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"业务术语\", \"cnNameSearch\": \"业务术语\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"business term\", \"wordSearch\": \"business term\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"核心构件或业务信息实体在业务中被人熟知或使用的同义词。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>一个核心构件或业务信息实体可以有几个业务术语或同义词。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"ec1a6d6474c443d1b0913b7503750988\", \"databaseId\": null, \"standardId\": \"2a9b0dec3a5b40d9948af1fda6f522c3\", \"standardCode\": \"GB/T 1844.1—2022\", \"standardName\": \"塑料符号和缩略语 第1部分：基础聚合物及其特征性能 \", \"standardEnName\": \"Plastics—Symbols and abbreviated terms— Part 1 : Basic polymers and their special characteristics \", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"橡胶和塑料工业\", \"termCode\": \"3.1\", \"cnName\": \"缩略语\", \"enName\": \"abbreviated term\", \"publishTime\": \"2022-10-12\", \"publishYear\": \"2022\", \"implementTime\": \"2022-10-12\", \"ics\": \"83.080.01\", \"ccs\": \"G 31\", \"parentTermId\": null, \"titleId\": null, \"oid\": 40523, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"缩略语\", \"cnNameSearch\": \"缩略语\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"abbreviated term\", \"wordSearch\": \"abbreviated term\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"省略英文术语中某些部分面形成的仍指同一概念的术语。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"4d717052ceea4f19991738d1190ca9f4\", \"databaseId\": null, \"standardId\": \"3d904b43880d424e9d00264b858831e8\", \"standardCode\": \"GB/T 42142—2022\", \"standardName\": \"压水堆核电厂辅助系统及二回路系统 辐射源项分析准则 \", \"standardEnName\": \"Analysis criterion for radiation source term in auxiliary and secondary coolant systerm of pressurized water reactor nuclear power plant\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"计量学和测量、物理现象\", \"termCode\": \"3.2\", \"cnName\": \"辐射源项\", \"enName\": \"source term\", \"publishTime\": \"2022-12-30\", \"publishYear\": \"2022\", \"implementTime\": \"2023-07-01\", \"ics\": \"ICS 17.240\", \"ccs\": \"CCS F 74\", \"parentTermId\": null, \"titleId\": null, \"oid\": 66171, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"辐射源项\", \"cnNameSearch\": \"辐射源项\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"source term\", \"wordSearch\": \"source term\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"压水堆核电厂辅助系统及二回路系统正常运行工况下实际或可能释放的辐射和（或）放射性物质以及能量等的有关数据。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>如放射性核素的种类、数量、化学形态等。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"8167cd41096147bebabd21da0b88d1b5\", \"databaseId\": null, \"standardId\": \"4ae591d535014d39a40449007f1de2db\", \"standardCode\": \"GB/T 41864—2022\", \"standardName\": \"信息技术 计算机视觉 术语 \", \"standardEnName\": \"Information technology—Computer vision—Terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"3.5.2.2\", \"cnName\": \"词频\", \"enName\": \"term frequency\", \"publishTime\": \"2022-10-12\", \"publishYear\": \"2022\", \"implementTime\": \"2022-10-12\", \"ics\": \"ICS 35.240.01\", \"ccs\": \"CCS L 60\", \"parentTermId\": null, \"titleId\": null, \"oid\": 77862, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"词频\", \"cnNameSearch\": \"词频\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"term frequency\", \"wordSearch\": \"term frequency\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"视觉单词在图像中出现的频率。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"52b053a4d14d42cdacd944cd73f54e10\", \"databaseId\": null, \"standardId\": \"ff413fd8c1eb4b448dec9f2dab4499cc\", \"standardCode\": \"GB/T 41582—2022\", \"standardName\": \"核电厂事故源项快速估算方法\", \"standardEnName\": \"Fast estimation method of accident source term for nuclear power plant\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"能源和热传导工程\", \"termCode\": \"3.4\", \"cnName\": \"源项\", \"enName\": \"source term\", \"publishTime\": \"2022-07-11\", \"publishYear\": \"2022\", \"implementTime\": \"2023-02-01\", \"ics\": \"ICS 27.120 \", \"ccs\": \"CCS F 70\", \"parentTermId\": null, \"titleId\": null, \"oid\": 247635, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"源项\", \"cnNameSearch\": \"源项\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"source term\", \"wordSearch\": \"source term\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"释放到环境中的放射性核素的组成、形态、活度及其随时间的变化。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 12}}, \"timestamp\": 1795341245807}"
+}

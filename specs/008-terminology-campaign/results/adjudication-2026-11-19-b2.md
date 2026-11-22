@@ -1,7 +1,7 @@
 # 术语在线精确命中裁定报告 2026-11-19
-口径：用户裁定「科学哲学条目可批量登记；数学哲学特别豁免」。
+口径：用户裁定“科学哲学条目可批量登记；数学哲学特别豁免”。
 范围：JWT 直连凭证（queried_at ≥ 2026-11-18，status=ok）的精确命中（hit.en＝查询词）。
-体例：GB 方括号记法按 amniocentesis 先例展开为主译；键即英文原形，原文列作「—」；首现记「语料回收（specs/050 候选池）」。
+体例：GB 方括号记法按 amniocentesis 先例展开为主译；键即英文原形，原文列作“—”；首现记“语料回收（specs/050 候选池）”。
 
 ## 汇总
 
@@ -551,17 +551,17 @@
 
 ## 五、落册执行记录
 
-**执行**（2026-11-19，批二）：滚动快照至爬虫 4357/12721；新增可登记 8 条全部为科学哲学语境审定命中（induction、research tradition、universal proposition 等核心词），`term_flow` 实跑插入 8、池 publish 8，`check_terms` 绿。判读注记：`regularity → 规则性` 系审定读法，与既有 regularity theory 族行如有「规律性」异形，留审计判读口径（同族 D1 变体）。已登记键排除机制生效（批一 36 条未重报）。
+**执行**（2026-11-19，批二）：滚动快照至爬虫 4357/12721；新增可登记 8 条全部为科学哲学语境审定命中（induction、research tradition、universal proposition 等核心词），`term_flow` 实跑插入 8、池 publish 8，`check_terms` 绿。判读注记：`regularity → 规则性` 系审定读法，与既有 regularity theory 族行如有“规律性”异形，留审计判读口径（同族 D1 变体）。已登记键排除机制生效（批一 36 条未重报）。
 
-## 六、全量逐条研判汇总（用户指令「不需要人工判读，全量，不计成本，从既有词条逐个研判」）
+## 六、全量逐条研判汇总（用户指令“不需要人工判读，全量，不计成本，从既有词条逐个研判”）
 
 研判对象：本报告第三、四节单列的全部精确命中词（含数学豁免清单），按既有词条语境（yuanwen/ 2420 件忠实镜像逐词提取）逐条定夺。研判块 `script/tmp/tl-review/review-b2-01..10.md`（10 块 578 词），判定 `verdict-b2-01..10.json`。
 
 **判定结果：ADOPT 256（审定读法直接登记）｜ADJUST 65（按条目语境改读，依据列双录审定原读与研判理由）｜REJECT 129（拒录：普通词/多义随文/假命中/同概念合并）**；块内未及研判的余量滚动入下一批。`term_flow` 实跑插入 321、池 publish 321，`check_terms` 绿。
 
 **研判要点（抽样）**：
-- 审定学科标签大量误置，逐条语境研判必要性实证：Uniqueness「独创性」→唯一性（摹状词语境）、literal interpretation「望文生训」→字面解释、liberation「解离」→解放、diminishing marginal utility「边际效应递减规律」→边际效用递减、feminist theory「女权主义理论」→女性主义理论（库内词族）等 65 条改读。
+- 审定学科标签大量误置，逐条语境研判必要性实证：Uniqueness“独创性”→唯一性（摹状词语境）、literal interpretation“望文生训”→字面解释、liberation“解离”→解放、diminishing marginal utility“边际效应递减规律”→边际效用递减、feminist theory“女权主义理论”→女性主义理论（库内词族）等 65 条改读。
 - 确认审定哲学门类真命中：缘起、业、法家、思维插入、杰弗里条件化、能行可计算性、话语表现理论、理想元素、因果决策论等——数学豁免清单经逐条研判后多数应登记。
 - 词族一致性约束：feminist theory→女性主义理论（女性主义族）、Hegelianism→黑格尔主义（-主义族）、strict preference→严格偏好（偏好族）、sentiment→情感（与 emotion=情绪 分义）。
-- 去重纪律：「一行一概念」——moral judgement/moral judgment、social relation(s/ship)×3、sense modality/sensory modality、a priori probability/prior probability、logical relation(ship)×2、measuring instrument(s)、special science(s)、Chinese room argument 等变体键全部合并单行。
+- 去重纪律：“一行一概念”——moral judgement/moral judgment、social relation(s/ship)×3、sense modality/sensory modality、a priori probability/prior probability、logical relation(ship)×2、measuring instrument(s)、special science(s)、Chinese room argument 等变体键全部合并单行。
 - 拒录 129 条理由三型：普通词非术语（ability/conclusion 之类基本词除外，见各行理由）、审定学科义与条目语境无关（junk subject）、书题/子串假命中（morphism、function symbol、Habilitation 等）。拒录明细 `script/tmp/tl-review/rejects-b2.json`。

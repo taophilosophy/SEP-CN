@@ -1,0 +1,152 @@
+{
+ "key": "moral rights",
+ "term": "moral rights",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-22T09:53:49+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=38",
+ "hits": [
+  {
+   "cn": "精神权",
+   "en": "moral right",
+   "code": "GB/T 4894—2009",
+   "standard": "信息与文献 术语",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "权利限",
+   "en": "rights",
+   "code": "GB/T 30247—2013",
+   "standard": "信息技术  数字版权管理  术语",
+   "subject": "电信、音频和视频工程"
+  },
+  {
+   "cn": "法律权益",
+   "en": "legal rights",
+   "code": "GB/T 31279—2014",
+   "standard": "品牌价值评价  家用电器制造业",
+   "subject": "社会学、服务、公司（企业）的组织和管理、行政、运输"
+  },
+  {
+   "cn": "权限发行者",
+   "en": "rights issuer",
+   "code": "GB/T 30247—2013",
+   "standard": "信息技术  数字版权管理  术语",
+   "subject": "电信、音频和视频工程"
+  },
+  {
+   "cn": "权利对象",
+   "en": "rights object",
+   "code": "GB/T 30247—2013",
+   "standard": "信息技术  数字版权管理  术语",
+   "subject": "电信、音频和视频工程"
+  },
+  {
+   "cn": "使用权",
+   "en": "access rights",
+   "code": "GB/T 13191—2009",
+   "standard": "信息与文献图书馆统计",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "访问权",
+   "en": "access rights",
+   "code": "GB/T 4894—2009",
+   "standard": "信息与文献 术语",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "数宇版权管理",
+   "en": "digital rights management",
+   "code": "GB/T 51252—2017",
+   "standard": "网络电视工程技术规范",
+   "subject": "其它"
+  },
+  {
+   "cn": "知识产权",
+   "en": "intellectual property rights",
+   "code": "GB/T 42293—2022",
+   "standard": "商品交易市场知识产权保护规范",
+   "subject": "社会学、服务、公司（企业）的组织和管理、行政、运输"
+  },
+  {
+   "cn": "农村产权",
+   "en": "rural property rights",
+   "code": "GB/T 40638—2021",
+   "standard": "农村产权流转交易 服务术语和服务分类",
+   "subject": "农业"
+  },
+  {
+   "cn": "滥用会员权利",
+   "en": "membership rights abuse",
+   "code": "GB/T 38652—2020",
+   "standard": "电子商务业务术语",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "农村产权",
+   "en": "rural property rights",
+   "code": "GB/T 38748—2020",
+   "standard": "农村产权流转交易 服务通则",
+   "subject": "农业"
+  },
+  {
+   "cn": "知识产权",
+   "en": "intellectual property rights",
+   "code": "GB/T 32089—2015",
+   "standard": "科学技术研究项目知识产权管理",
+   "subject": "社会学、服务、公司（企业）的组织和管理、行政、运输"
+  },
+  {
+   "cn": "状态权利对象",
+   "en": "stateful rights object",
+   "code": "GB/T 30247—2013",
+   "standard": "信息技术  数字版权管理  术语",
+   "subject": "电信、音频和视频工程"
+  },
+  {
+   "cn": "无状态权利对象",
+   "en": "stateless rights object",
+   "code": "GB/T 30247—2013",
+   "standard": "信息技术  数字版权管理  术语",
+   "subject": "电信、音频和视频工程"
+  },
+  {
+   "cn": "数字版权管理",
+   "en": "digital rights management",
+   "code": "GB/T 30247—2013",
+   "standard": "信息技术  数字版权管理  术语",
+   "subject": "电信、音频和视频工程"
+  },
+  {
+   "cn": "权利描述语言",
+   "en": "rights expression language",
+   "code": "GB/T 30247—2013",
+   "standard": "信息技术  数字版权管理  术语",
+   "subject": "电信、音频和视频工程"
+  },
+  {
+   "cn": "专有权",
+   "en": "exclusive rights,pl",
+   "code": "GB/T 4894—2009",
+   "standard": "信息与文献 术语",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "经济权",
+   "en": "economic rights,pl",
+   "code": "GB/T 4894—2009",
+   "standard": "信息与文献 术语",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "邻接权",
+   "en": "neighbouring rights,pl",
+   "code": "GB/T 4894—2009",
+   "standard": "信息与文献 术语",
+   "subject": "综合、术语学、标准化、文献"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2023\": 2, \"2022\": 4, \"2021\": 7, \"2020\": 5, \"2015\": 1, \"2014\": 2, \"2013\": 7, \"2011\": 1, \"2009\": 7, \"2005\": 1, \"暂无年份\": 1}, \"sourceStats\": {\"造船和海上构筑物\": 1, \"综合、术语学、标准化、文献\": 10, \"社会学、服务、公司（企业）的组织和管理、行政、运输\": 6, \"电信、音频和视频工程\": 7, \"数学、自然科学\": 1, \"农业\": 11, \"其它\": 1, \"信息技术、办公机械\": 1}, \"typeStats\": {\"7\": 38}, \"totalRecords\": 38, \"tmWordList\": [{\"id\": \"c8b1aebd09fe4ffc9d2c31f1c2b770a8\", \"databaseId\": null, \"standardId\": \"e124160b0f1a4b1081277012df97d85b\", \"standardCode\": \"GB/T 4894—2009\", \"standardName\": \"信息与文献 术语\", \"standardEnName\": \"Information and documentation—Vocabulary\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"4.7.2.2.9.1\", \"cnName\": \"精神权\", \"enName\": \"moral right\", \"publishTime\": \"2009-09-30\", \"publishYear\": \"2009\", \"implementTime\": \"2010-02-01\", \"ics\": \"01.140.20\", \"ccs\": \"A 14\", \"parentTermId\": null, \"titleId\": null, \"oid\": 219885, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"精神权\", \"cnNameSearch\": \"精神权\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"moral right\", \"wordSearch\": \"moral right\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"著作权的永久的,不可让渡的和不受约束的部分。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"311a4ce5565342b39913e1175bfcfbd1\", \"databaseId\": null, \"standardId\": \"9392cca4fbe84cde87152bdde8021733\", \"standardCode\": \"GB/T 30247—2013\", \"standardName\": \"信息技术  数字版权管理  术语\", \"standardEnName\": \"Information technology―digital rights management―Terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电信、音频和视频工程\", \"termCode\": \"2.1.4\", \"cnName\": \"权利限\", \"enName\": \"rights\", \"publishTime\": \"2013-12-31\", \"publishYear\": \"2013\", \"implementTime\": \"2014-07-15\", \"ics\": \"33.160.253\", \"ccs\": \"M74\", \"parentTermId\": null, \"titleId\": null, \"oid\": 155616, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"权利限\", \"cnNameSearch\": \"权利限\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"rights\", \"wordSearch\": \"rights\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"与使用数字内容相关联的许可、限制或其他属性。泛指对内容所拥有的操作和约束。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"e6e6d607fcd6455bb72b9236aec687b3\", \"databaseId\": null, \"standardId\": \"dfd2ba65086c4432847ecec7cff19c65\", \"standardCode\": \"GB/T 31279—2014\", \"standardName\": \"品牌价值评价  家用电器制造业\", \"standardEnName\": \"Brand valuation—Household appliance manufacturing industry\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"社会学、服务、公司（企业）的组织和管理、行政、运输\", \"termCode\": \"3.2\", \"cnName\": \"法律权益\", \"enName\": \"legal rights\", \"publishTime\": \"2014-09-30\", \"publishYear\": \"2014\", \"implementTime\": \"2014-12-01\", \"ics\": \"03.140\", \"ccs\": \"A00\", \"parentTermId\": null, \"titleId\": null, \"oid\": 218859, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"法律权益\", \"cnNameSearch\": \"法律权益\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"legal rights\", \"wordSearch\": \"legal rights\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"企业成立初以及在生产经营过程中与品牌相关的所拥有的法定利益和资源。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"72c11d0ffe444ea5beb6270ee8ed6f25\", \"databaseId\": null, \"standardId\": \"9392cca4fbe84cde87152bdde8021733\", \"standardCode\": \"GB/T 30247—2013\", \"standardName\": \"信息技术  数字版权管理  术语\", \"standardEnName\": \"Information technology―digital rights management―Terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电信、音频和视频工程\", \"termCode\": \"2.4.3\", \"cnName\": \"权限发行者\", \"enName\": \"rights issuer\", \"publishTime\": \"2013-12-31\", \"publishYear\": \"2013\", \"implementTime\": \"2014-07-15\", \"ics\": \"33.160.253\", \"ccs\": \"M74\", \"parentTermId\": null, \"titleId\": null, \"oid\": 155627, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"权限发行者\", \"cnNameSearch\": \"权限发行者\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"rights issuer\", \"wordSearch\": \"rights issuer\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"DRM系统中提供权利限和限制的实体。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"b7845349116d40cb9b808a07d968f11f\", \"databaseId\": null, \"standardId\": \"9392cca4fbe84cde87152bdde8021733\", \"standardCode\": \"GB/T 30247—2013\", \"standardName\": \"信息技术  数字版权管理  术语\", \"standardEnName\": \"Information technology―digital rights management―Terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电信、音频和视频工程\", \"termCode\": \"2.3.4\", \"cnName\": \"权利对象\", \"enName\": \"rights object\", \"publishTime\": \"2013-12-31\", \"publishYear\": \"2013\", \"implementTime\": \"2014-07-15\", \"ics\": \"33.160.253\", \"ccs\": \"M74\", \"parentTermId\": null, \"titleId\": null, \"oid\": 155630, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"权利对象\", \"cnNameSearch\": \"权利对象\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"rights object\", \"wordSearch\": \"rights object\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"描述权利的实体。\", \"footnote\": \"\", \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>例如许可证(2.3.1)。</p>\"], \"refer\": [], \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"a87bf246db3b401389745ee9a188f731\", \"databaseId\": null, \"standardId\": \"bdd7c02fcfb341cc875f25961ee4f43e\", \"standardCode\": \"GB/T 13191—2009\", \"standardName\": \"信息与文献图书馆统计\", \"standardEnName\": \"Information and documentation-Library statistics\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"3.2.2\", \"cnName\": \"使用权\", \"enName\": \"access rights\", \"publishTime\": \"2009-03-13\", \"publishYear\": \"2009\", \"implementTime\": \"2009-09-01\", \"ics\": \"01.140.20\", \"ccs\": \"A 14\", \"parentTermId\": null, \"titleId\": null, \"oid\": 192115, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"使用权\", \"cnNameSearch\": \"使用权\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"access rights\", \"wordSearch\": \"access rights\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"获取或利用图书馆馆藏的权利。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>对电子馆藏而言,这意味着图书馆需要依据法律、许可或者其他契约或合作协议,确保其用户永久或暂时的获取权利。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"16860ad664234b6caf022de0f1008f7a\", \"databaseId\": null, \"standardId\": \"e124160b0f1a4b1081277012df97d85b\", \"standardCode\": \"GB/T 4894—2009\", \"standardName\": \"信息与文献 术语\", \"standardEnName\": \"Information and documentation—Vocabulary\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"4.5.1.15\", \"cnName\": \"访问权\", \"enName\": \"access rights\", \"publishTime\": \"2009-09-30\", \"publishYear\": \"2009\", \"implementTime\": \"2010-02-01\", \"ics\": \"01.140.20\", \"ccs\": \"A 14\", \"parentTermId\": null, \"titleId\": null, \"oid\": 219823, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"访问权\", \"cnNameSearch\": \"访问权\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"access rights\", \"wordSearch\": \"access rights\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"获取或利用图书馆(1)馆藏的权利。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>对电子馆藏而言,这意味着图书馆需要依据法律,许可或者其他契约或合作协议,确保其用户永久或暂时的获取权利。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"44fe6f111e78443da4616f208f8fe7a9\", \"databaseId\": null, \"standardId\": \"c13a5e50c35247f8923e07aced44fdb5\", \"standardCode\": \"GB/T 51252—2017\", \"standardName\": \"网络电视工程技术规范\", \"standardEnName\": \"Technical code for internet protocol television engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.1.9\", \"cnName\": \"数宇版权管理\", \"enName\": \"digital rights management\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 194312, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"数宇版权管理\", \"cnNameSearch\": \"数宇版权管理\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"digital rights management\", \"wordSearch\": \"digital rights management\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"出版者用来控制被保护数字媒体内容使用权的技术。通过内容加密、密钥管理、用户授权控制和内容解密等环节对数字媒体内容进行有效的保护，防止数字内容的非法使用。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"58aae409dcbd47168a615c2ea8dd5162\", \"databaseId\": null, \"standardId\": \"3ce9f8cbb41546d8976a56cbdebba5f5\", \"standardCode\": \"GB/T 42293—2022\", \"standardName\": \"商品交易市场知识产权保护规范\", \"standardEnName\": \"Specification for intellectual property protection of commodity trading markets\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"社会学、服务、公司（企业）的组织和管理、行政、运输\", \"termCode\": \"3.6\", \"cnName\": \"知识产权\", \"enName\": \"intellectual property rights\", \"publishTime\": \"2022-12-30\", \"publishYear\": \"2022\", \"implementTime\": \"2023-07-01\", \"ics\": \"03.14003\", \"ccs\": \"A 10\", \"parentTermId\": null, \"titleId\": null, \"oid\": 65999, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"知识产权\", \"cnNameSearch\": \"知识产权\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"intellectual property rights\", \"wordSearch\": \"intellectual property rights\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"自然人、法人或非法人组织基于创造性智力成果依法享有的权利，主要包括专利权、商标权、著作权、集成电路布图设计权、地理标志、植物新品种权、商业秘密等。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"cb8baa7297f34fa6968a9f204d2104de\", \"databaseId\": null, \"standardId\": \"8fe88c29ce8d4c9ea411f7858a72dba1\", \"standardCode\": \"GB/T 40638—2021\", \"standardName\": \"农村产权流转交易 服务术语和服务分类\", \"standardEnName\": \"Transfer transaction of rural property rights—Service terminology and service classification\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"农业\", \"termCode\": \"3.1.1\", \"cnName\": \"农村产权\", \"enName\": \"rural property rights\", \"publishTime\": \"2021-10-11\", \"publishYear\": \"2021\", \"implementTime\": \"2021-10-11\", \"ics\": \"65.020.01\", \"ccs\": \"B 04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 152703, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"农村产权\", \"cnNameSearch\": \"农村产权\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"rural property rights\", \"wordSearch\": \"rural property rights\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"集体经济组织和集体成员所有资产的所有权、经营权、使用权、收益权和处置权等各项权利集合。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>农村集体土地所有权除外。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"0683ec2211e6478ab07696bb5d6c3a87\", \"databaseId\": null, \"standardId\": \"a808f638b83742568992c785c0278748\", \"standardCode\": \"GB/T 38652—2020\", \"standardName\": \"电子商务业务术语\", \"standardEnName\": \"E-commerce business terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"8.17\", \"cnName\": \"滥用会员权利\", \"enName\": \"membership rights abuse\", \"publishTime\": \"2020-03-31\", \"publishYear\": \"2020\", \"implementTime\": \"2020-10-01\", \"ics\": \"35.24035\", \"ccs\": \"A10\", \"parentTermId\": null, \"titleId\": null, \"oid\": 171584, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"滥用会员权利\", \"cnNameSearch\": \"滥用会员权利\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"membership rights abuse\", \"wordSearch\": \"membership rights abuse\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"会员不以消费为目的，不合理利用会员权利损害他人合法权益、妨害平台运营秩序的行为。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"a3c1b682e16f45bca7d48d4e84591eb3\", \"databaseId\": null, \"standardId\": \"b2808fad4f504114b352402987757eb6\", \"standardCode\": \"GB/T 38748—2020\", \"standardName\": \"农村产权流转交易 服务通则\", \"standardEnName\": \"Transfer transaction of rural property rights—General rules of service\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"农业\", \"termCode\": \"3.1  \", \"cnName\": \"农村产权\", \"enName\": \"rural property rights\", \"publishTime\": \"2020-04-28\", \"publishYear\": \"2020\", \"implementTime\": \"2020-11-01\", \"ics\": \"65.020.0165\", \"ccs\": \"B00\", \"parentTermId\": null, \"titleId\": null, \"oid\": 183132, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"农村产权\", \"cnNameSearch\": \"农村产权\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"rural property rights\", \"wordSearch\": \"rural property rights\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"承包到户的及农村集体统一经营管理的资源性资产和经营性资产等的所有权、使用权、收益权和处置权。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"553c26ccf01644c2abca335f52f6aa94\", \"databaseId\": null, \"standardId\": \"e893a8f3290d4fc799fb9754f3958e2c\", \"standardCode\": \"GB/T 32089—2015\", \"standardName\": \"科学技术研究项目知识产权管理\", \"standardEnName\": \"Intellectual property rights management in science and technology research projects\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"社会学、服务、公司（企业）的组织和管理、行政、运输\", \"termCode\": \"3.4\", \"cnName\": \"知识产权\", \"enName\": \"intellectual property rights\", \"publishTime\": \"2015-12-10\", \"publishYear\": \"2015\", \"implementTime\": \"2016-07-01\", \"ics\": \"03.100.01\", \"ccs\": \"A00\", \"parentTermId\": null, \"titleId\": null, \"oid\": 228939, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"知识产权\", \"cnNameSearch\": \"知识产权\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"intellectual property rights\", \"wordSearch\": \"intellectual property rights\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"在科学技术、文学艺术等领域中，发明者、创造者等对自己的创造性劳动成果依法享有的专有权，其范围包括专利、商标、著作权及相关权、集成电路布图设计、地理标志、植物新品种、商业秘密等。\", \"footnote\": \"\", \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>改写GB/T 21374—2008，定义3.1.1。</p>\"], \"refer\": [], \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"f3711865002b48c481625753737d5524\", \"databaseId\": null, \"standardId\": \"9392cca4fbe84cde87152bdde8021733\", \"standardCode\": \"GB/T 30247—2013\", \"standardName\": \"信息技术  数字版权管理  术语\", \"standardEnName\": \"Information technology―digital rights management―Terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电信、音频和视频工程\", \"termCode\": \"2.3.6\", \"cnName\": \"状态权利对象\", \"enName\": \"stateful rights object\", \"publishTime\": \"2013-12-31\", \"publishYear\": \"2013\", \"implementTime\": \"2014-07-15\", \"ics\": \"33.160.253\", \"ccs\": \"M74\", \"parentTermId\": null, \"titleId\": null, \"oid\": 155602, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"状态权利对象\", \"cnNameSearch\": \"状态权利对象\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"stateful rights object\", \"wordSearch\": \"stateful rights object\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"一种终端设备必需维护其状态信息的权利的权利对象，以便能够正确实施权利对象里的许可中的权限和限制。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"75de79145ffb4cf79f9d11786fd09697\", \"databaseId\": null, \"standardId\": \"9392cca4fbe84cde87152bdde8021733\", \"standardCode\": \"GB/T 30247—2013\", \"standardName\": \"信息技术  数字版权管理  术语\", \"standardEnName\": \"Information technology―digital rights management―Terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电信、音频和视频工程\", \"termCode\": \"2.3.5\", \"cnName\": \"无状态权利对象\", \"enName\": \"stateless rights object\", \"publishTime\": \"2013-12-31\", \"publishYear\": \"2013\", \"implementTime\": \"2014-07-15\", \"ics\": \"33.160.253\", \"ccs\": \"M74\", \"parentTermId\": null, \"titleId\": null, \"oid\": 155605, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"无状态权利对象\", \"cnNameSearch\": \"无状态权利对象\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"stateless rights object\", \"wordSearch\": \"stateless rights object\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"一种不需要终端设备维护其状态信息的权利对象。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"380ca6d16ec5482f9c6f314ad5d4f6e4\", \"databaseId\": null, \"standardId\": \"9392cca4fbe84cde87152bdde8021733\", \"standardCode\": \"GB/T 30247—2013\", \"standardName\": \"信息技术  数字版权管理  术语\", \"standardEnName\": \"Information technology―digital rights management―Terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电信、音频和视频工程\", \"termCode\": \"2.1.5\", \"cnName\": \"数字版权管理\", \"enName\": \"digital rights management\", \"publishTime\": \"2013-12-31\", \"publishYear\": \"2013\", \"implementTime\": \"2014-07-15\", \"ics\": \"33.160.253\", \"ccs\": \"M74\", \"parentTermId\": null, \"titleId\": null, \"oid\": 155631, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"数字版权管理\", \"cnNameSearch\": \"数字版权管理\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"digital rights management\", \"wordSearch\": \"digital rights management\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"用来管理受版权保护的数字内容的方法和/或技术，涉及数字内容使用权利限的描述、认证、交易、保护、监测、跟踪，以及对使用权拥有者之间关系的管理等。\", \"footnote\": \"\", \"abbreviation\": [\"DRM\"], \"examples\": [], \"notes\": [], \"refer\": [], \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"ed9472235bce43a68d9d61d97010b195\", \"databaseId\": null, \"standardId\": \"9392cca4fbe84cde87152bdde8021733\", \"standardCode\": \"GB/T 30247—2013\", \"standardName\": \"信息技术  数字版权管理  术语\", \"standardEnName\": \"Information technology―digital rights management―Terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电信、音频和视频工程\", \"termCode\": \"2.3.3\", \"cnName\": \"权利描述语言\", \"enName\": \"rights expression language\", \"publishTime\": \"2013-12-31\", \"publishYear\": \"2013\", \"implementTime\": \"2014-07-15\", \"ics\": \"33.160.253\", \"ccs\": \"M74\", \"parentTermId\": null, \"titleId\": null, \"oid\": 155651, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"权利描述语言\", \"cnNameSearch\": \"权利描述语言\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"rights expression language\", \"wordSearch\": \"rights expression language\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"描述许可的语言。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"698f1f6ec3784d4d8132214b45682217\", \"databaseId\": null, \"standardId\": \"e124160b0f1a4b1081277012df97d85b\", \"standardCode\": \"GB/T 4894—2009\", \"standardName\": \"信息与文献 术语\", \"standardEnName\": \"Information and documentation—Vocabulary\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"4.7.2.2.8\", \"cnName\": \"专有权\", \"enName\": \"exclusive rights,pl\", \"publishTime\": \"2009-09-30\", \"publishYear\": \"2009\", \"implementTime\": \"2010-02-01\", \"ics\": \"01.140.20\", \"ccs\": \"A 14\", \"parentTermId\": null, \"titleId\": null, \"oid\": 219788, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"专有权\", \"cnNameSearch\": \"专有权\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"exclusive rights,pl\", \"wordSearch\": \"exclusive rights,pl\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"排除其他人从一种知识作品获得利益的著作权。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"352fbb67f2424ed2a5ac8e220bf3bb40\", \"databaseId\": null, \"standardId\": \"e124160b0f1a4b1081277012df97d85b\", \"standardCode\": \"GB/T 4894—2009\", \"standardName\": \"信息与文献 术语\", \"standardEnName\": \"Information and documentation—Vocabulary\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"4.7.2.2.10.1\", \"cnName\": \"经济权\", \"enName\": \"economic rights,pl\", \"publishTime\": \"2009-09-30\", \"publishYear\": \"2009\", \"implementTime\": \"2010-02-01\", \"ics\": \"01.140.20\", \"ccs\": \"A 14\", \"parentTermId\": null, \"titleId\": null, \"oid\": 220125, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"经济权\", \"cnNameSearch\": \"经济权\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"economic rights,pl\", \"wordSearch\": \"economic rights,pl\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"赋予为赢利目的而利用知识作品的专有权的著作权。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"9efe0049b2af4d0aa9d0fba1de820d43\", \"databaseId\": null, \"standardId\": \"e124160b0f1a4b1081277012df97d85b\", \"standardCode\": \"GB/T 4894—2009\", \"standardName\": \"信息与文献 术语\", \"standardEnName\": \"Information and documentation—Vocabulary\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"4.7.2.2.4\", \"cnName\": \"邻接权\", \"enName\": \"neighbouring rights,pl\", \"publishTime\": \"2009-09-30\", \"publishYear\": \"2009\", \"implementTime\": \"2010-02-01\", \"ics\": \"01.140.20\", \"ccs\": \"A 14\", \"parentTermId\": null, \"titleId\": null, \"oid\": 220135, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"邻接权\", \"cnNameSearch\": \"邻接权\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"neighbouring rights,pl\", \"wordSearch\": \"neighbouring rights,pl\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"赋予传播文学或艺术作品贡献者的著作权。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 2}}, \"timestamp\": 1795341229371}"
+}

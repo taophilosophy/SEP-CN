@@ -1,0 +1,124 @@
+{
+ "key": "evolutionary biology",
+ "term": "evolutionary biology",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-22T09:54:10+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=16",
+ "hits": [
+  {
+   "cn": "调优操作",
+   "en": "evolutionary operation",
+   "code": "GB/T 3358.3—2009",
+   "standard": "统计学词汇及符号 第3部分：实验设计",
+   "subject": "社会学、服务、公司（企业）的组织和管理、行政、运输"
+  },
+  {
+   "cn": "生物因子",
+   "en": "biology agents",
+   "code": "GB 51133—2015",
+   "standard": "医药工业环境保护设计规范",
+   "subject": "其它"
+  },
+  {
+   "cn": "生物学推动",
+   "en": "biology push",
+   "code": "GB/T 42444—2023",
+   "standard": "仿生学  术语、概念与方法论",
+   "subject": "数学、自然科学"
+  },
+  {
+   "cn": "比较生物学",
+   "en": "comparative biology",
+   "code": "GB/T 39759—2021",
+   "standard": "实验动物 术语",
+   "subject": "农业"
+  },
+  {
+   "cn": "生物活性",
+   "en": "biology activity",
+   "code": "GB/T 38484—2020",
+   "standard": "植物激素类次生代谢产物的生物活性测定细胞学评价法",
+   "subject": "数学、自然科学"
+  },
+  {
+   "cn": "草坪草生物学",
+   "en": "turfgrass biology",
+   "code": "GB/T 34741—2017",
+   "standard": "草坪术语",
+   "subject": "农业"
+  },
+  {
+   "cn": "系统生物学",
+   "en": "systems biology",
+   "code": "GB/T 29859—2013",
+   "standard": "生物信息学术语",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "结构生物学",
+   "en": "structural biology",
+   "code": "GB/T 29859—2013",
+   "standard": "生物信息学术语",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "渔业生物学",
+   "en": "fishery biology",
+   "code": "GB/T 8588—2001",
+   "standard": "渔业资源基本术语",
+   "subject": "农业"
+  },
+  {
+   "cn": "空间碎片演化模型",
+   "en": "space debris evolutionary model",
+   "code": "GB/T 32452—2015",
+   "standard": "航天器空间环境术语",
+   "subject": "航空器和航天器工程"
+  },
+  {
+   "cn": "环境水生物学",
+   "en": "environmental hydro-biology",
+   "code": "GB/T 50095—2014",
+   "standard": "水文基本术语和符号标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "空间辐射生物学",
+   "en": "space radiation biology",
+   "code": "GB/T 43513.1—2023",
+   "standard": "空间辐射生物学实验技术规范第1部分：总则",
+   "subject": "数学、自然科学"
+  },
+  {
+   "cn": "食品分子生物学实验室",
+   "en": "food molecular biology laboratory",
+   "code": "GB/T 32146.3—2015",
+   "standard": "检验检测实验室设计与建设技术要求  第3部分：食品实验室",
+   "subject": "建筑材料和建筑物"
+  },
+  {
+   "cn": "系统生物学置标语言",
+   "en": "systems biology markup language",
+   "code": "GB/T 40419—2021",
+   "standard": "健康信息学 基因组序列变异置标语言（GSVML）",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "空间辐射生物学辐射参量",
+   "en": "radiation quantities in space radiation biology",
+   "code": "GB/T 43513.1—2023",
+   "standard": "空间辐射生物学实验技术规范第1部分：总则",
+   "subject": "数学、自然科学"
+  },
+  {
+   "cn": "现场物证库",
+   "en": "DNA database from biology evidence samples",
+   "code": "GB/T 21679—2008",
+   "standard": "法庭科学DNA数据库建设规范",
+   "subject": "环保、保健和安全"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2023\": 3, \"2021\": 2, \"2020\": 1, \"2017\": 1, \"2015\": 2, \"2013\": 2, \"2009\": 1, \"2008\": 1, \"2001\": 1, \"暂无年份\": 2}, \"sourceStats\": {\"航空器和航天器工程\": 1, \"综合、术语学、标准化、文献\": 2, \"社会学、服务、公司（企业）的组织和管理、行政、运输\": 1, \"环保、保健和安全\": 1, \"数学、自然科学\": 4, \"建筑材料和建筑物\": 1, \"农业\": 3, \"其它\": 2, \"信息技术、办公机械\": 1}, \"typeStats\": {\"7\": 16}, \"totalRecords\": 16, \"tmWordList\": [{\"id\": \"99d8b2dea2564a0688fb80d30f87e986\", \"databaseId\": null, \"standardId\": \"d928e99973264a7a99630df41cf0803a\", \"standardCode\": \"GB/T 3358.3—2009\", \"standardName\": \"统计学词汇及符号 第3部分：实验设计\", \"standardEnName\": \"Statistics—Vocabulary and symbols—Part 3: Design of experiments\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"社会学、服务、公司（企业）的组织和管理、行政、运输\", \"termCode\": \"1.32\", \"cnName\": \"调优操作\", \"enName\": \"evolutionary operation\", \"publishTime\": \"2009-10-15\", \"publishYear\": \"2009\", \"implementTime\": \"2010-02-01\", \"ics\": \"03.120.30\", \"ccs\": \"A41\", \"parentTermId\": null, \"titleId\": null, \"oid\": 213718, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"调优操作\", \"cnNameSearch\": \"调优操作\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"evolutionary operation\", \"wordSearch\": \"evolutionary operation\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"在正常生产过程中实施的对生产设施及生产条件的序列实验。\", \"footnote\": \"\", \"abbreviation\": [\"EVOP\"], \"examples\": [], \"notes\": [\"<p>调优操作的主要目的是为了获得改善过程及其产品的知识，以最小的费用，采用因子水平相对较小的偏移（在生产容许条件内)来设计实验。调优操作实验的因子变动范围通常极小，以避免生产不合格的产品，且需要大量的重复(1.27)以减小随机变异的影响。</p>\"], \"refer\": [], \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"8243ac0c99f946ec823664ca1cc6b08b\", \"databaseId\": null, \"standardId\": \"b0103893d8114b25a69c16c2f2ee19f1\", \"standardCode\": \"GB 51133—2015\", \"standardName\": \"医药工业环境保护设计规范\", \"standardEnName\": \"Code for design of environmental protection of pharmaceutical industry\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.18\", \"cnName\": \"生物因子\", \"enName\": \"biology agents\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 181750, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"生物因子\", \"cnNameSearch\": \"生物因子\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"biology agents\", \"wordSearch\": \"biology agents\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"一切微生物和生物活性物质。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"5ade8c5b752e41b29ac698f0165baddc\", \"databaseId\": null, \"standardId\": \"adf0d4e8cf95404780f8854b950eed85\", \"standardCode\": \"GB/T 42444—2023\", \"standardName\": \"仿生学  术语、概念与方法论\", \"standardEnName\": \"Biomimetics—Terminology, concepts and methodology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"数学、自然科学\", \"termCode\": \"3.7\", \"cnName\": \"生物学推动\", \"enName\": \"biology push\", \"publishTime\": \"2023-03-17\", \"publishYear\": \"2023\", \"implementTime\": \"2023-10-01\", \"ics\": \"07.080\", \"ccs\": \"A 40\", \"parentTermId\": null, \"titleId\": null, \"oid\": 179983, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"生物学推动\", \"cnNameSearch\": \"生物学推动\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"biology push\", \"wordSearch\": \"biology push\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"以在生物学领域的基础研究中获得的知识为起点，应用于新技术产品开发的仿生开发过程。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>在技术领域，生物学推动被认为是一个自下面上的过程。</p>\", \"<p>在设计研究领域，生物学推动被认为是“解决方案驱动”<sup>[6]</sup>。</p>\", \"<p>参见技术拉动（3.19）。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"6dc13719c3a04caaa2bbc2e31c7004fe\", \"databaseId\": null, \"standardId\": \"8a49c5165dcb44be9ab1f112763d13d1\", \"standardCode\": \"GB/T 39759—2021\", \"standardName\": \"实验动物 术语\", \"standardEnName\": \"Laboratory animal—Terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"农业\", \"termCode\": \"2.14\", \"cnName\": \"比较生物学\", \"enName\": \"comparative biology\", \"publishTime\": \"2021-03-09\", \"publishYear\": \"2021\", \"implementTime\": \"2021-10-01\", \"ics\": \"ICS 65.020.30\", \"ccs\": \"B 44\", \"parentTermId\": null, \"titleId\": null, \"oid\": 145277, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"比较生物学\", \"cnNameSearch\": \"比较生物学\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"comparative biology\", \"wordSearch\": \"comparative biology\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"对不同种动物（包括人类）的生物学特性进行类比研究的一门综合性基础学科。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"c4c72e3906ec4912a7beeb024850fdff\", \"databaseId\": null, \"standardId\": \"9a5c5054717b4c94aedfd21d2c2bc717\", \"standardCode\": \"GB/T 38484—2020\", \"standardName\": \"植物激素类次生代谢产物的生物活性测定细胞学评价法\", \"standardEnName\": \"Determination of the biological activity for plant hormone-related secondary metabolites—Cytological method\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"数学、自然科学\", \"termCode\": \"3.1.2  \", \"cnName\": \"生物活性\", \"enName\": \"biology activity\", \"publishTime\": \"2020-11-19\", \"publishYear\": \"2020\", \"implementTime\": \"2020-11-19\", \"ics\": \"07.08007\", \"ccs\": \"A21\", \"parentTermId\": null, \"titleId\": null, \"oid\": 161070, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"生物活性\", \"cnNameSearch\": \"生物活性\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"biology activity\", \"wordSearch\": \"biology activity\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"单位浓度的植物激素类次生代谢产物与其相对应的标准物促进或抑制植物生长、发育与休眠能力的相对值。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"fbbf942253d044ffad8ba9901ce497b9\", \"databaseId\": null, \"standardId\": \"fc613787d1b64d9c94d93ce4b915281b\", \"standardCode\": \"GB/T 34741—2017\", \"standardName\": \"草坪术语\", \"standardEnName\": \"Turf terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"农业\", \"termCode\": \"2.9\", \"cnName\": \"草坪草生物学\", \"enName\": \"turfgrass biology\", \"publishTime\": \"2017-11-01\", \"publishYear\": \"2017\", \"implementTime\": \"2018-05-01\", \"ics\": \"65.020.4065\", \"ccs\": \"B40\", \"parentTermId\": null, \"titleId\": null, \"oid\": 245278, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"草坪草生物学\", \"cnNameSearch\": \"草坪草生物学\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"turfgrass biology\", \"wordSearch\": \"turfgrass biology\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"研究草坪植物的结构、功能、发生和发展规律的科学。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"ffe412228ff94725ab3d7ccde21dd846\", \"databaseId\": null, \"standardId\": \"a58375ab0b1c46c092e4eb682f07e9ff\", \"standardCode\": \"GB/T 29859—2013\", \"standardName\": \"生物信息学术语\", \"standardEnName\": \"Bioinformatics terms\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"2.4.21\", \"cnName\": \"系统生物学\", \"enName\": \"systems biology\", \"publishTime\": \"2013-11-12\", \"publishYear\": \"2013\", \"implementTime\": \"2014-04-15\", \"ics\": \"01.040.010\", \"ccs\": \"A22\", \"parentTermId\": null, \"titleId\": null, \"oid\": 169646, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"系统生物学\", \"cnNameSearch\": \"系统生物学\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"systems biology\", \"wordSearch\": \"systems biology\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"整合不同层次组学数据以理解生物系统如何行使功能的学科。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"b63a739f57e14834beb8680e6fb5d4d8\", \"databaseId\": null, \"standardId\": \"a58375ab0b1c46c092e4eb682f07e9ff\", \"standardCode\": \"GB/T 29859—2013\", \"standardName\": \"生物信息学术语\", \"standardEnName\": \"Bioinformatics terms\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"2.5.1\", \"cnName\": \"结构生物学\", \"enName\": \"structural biology\", \"publishTime\": \"2013-11-12\", \"publishYear\": \"2013\", \"implementTime\": \"2014-04-15\", \"ics\": \"01.040.010\", \"ccs\": \"A22\", \"parentTermId\": null, \"titleId\": null, \"oid\": 169708, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"结构生物学\", \"cnNameSearch\": \"结构生物学\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"structural biology\", \"wordSearch\": \"structural biology\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"以生物物理学和生物化学手段研究生物大分子的三维结构，以及结构与对应功能的关系的学科。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"5af50ca91ecc483ba7cd5be5c420ca85\", \"databaseId\": null, \"standardId\": \"d49627f0383f4133978f564dfaa47671\", \"standardCode\": \"GB/T 8588—2001\", \"standardName\": \"渔业资源基本术语\", \"standardEnName\": \"Fundamental terms of fisheries resource science\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"农业\", \"termCode\": \"2.1.1\", \"cnName\": \"渔业生物学\", \"enName\": \"fishery biology\", \"publishTime\": \"2001-11-12\", \"publishYear\": \"2001\", \"implementTime\": \"2002-03-01\", \"ics\": \"65.150\", \"ccs\": \"B50\", \"parentTermId\": null, \"titleId\": null, \"oid\": 210859, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"渔业生物学\", \"cnNameSearch\": \"渔业生物学\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"fishery biology\", \"wordSearch\": \"fishery biology\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"有关渔业生物生命物质的结构、功能、发生和发展规律以及与有关生物之间、环境之间的关系的科学。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"74ca318bc22549f3b2e4d4afa2a851d6\", \"databaseId\": null, \"standardId\": \"cf3475a9cc6a461ba0c8600706edde5f\", \"standardCode\": \"GB/T 32452—2015\", \"standardName\": \"航天器空间环境术语\", \"standardEnName\": \"Terminology of space environment for spacecraft\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"航空器和航天器工程\", \"termCode\": \"3.8.1.5\", \"cnName\": \"空间碎片演化模型\", \"enName\": \"space debris evolutionary model\", \"publishTime\": \"2015-12-31\", \"publishYear\": \"2015\", \"implementTime\": \"2016-07-01\", \"ics\": \"49.02049\", \"ccs\": \"V70\", \"parentTermId\": null, \"titleId\": null, \"oid\": 207477, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"空间碎片演化模型\", \"cnNameSearch\": \"空间碎片演化模型\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"space debris evolutionary model\", \"wordSearch\": \"space debris evolutionary model\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"根据航天发射频率、空间碎片碰撞和解体模型得到的空间碎片总量和分布的模型,可用于长期预报。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"c896c257d2994221861717e42c22ccd1\", \"databaseId\": null, \"standardId\": \"2ab6223e540049078222788acd26c43f\", \"standardCode\": \"GB/T 50095—2014\", \"standardName\": \"水文基本术语和符号标准\", \"standardEnName\": \"Standard for essential terminology and symbol in hydrology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"9.1.7\", \"cnName\": \"环境水生物学\", \"enName\": \"environmental hydro-biology\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 43130, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"环境水生物学\", \"cnNameSearch\": \"环境水生物学\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"environmental hydro-biology\", \"wordSearch\": \"environmental hydro-biology\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"研究人类活动对水环境与水生生物相互作用的规律及其机理的学科。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"65f962029823493ba35cdb1f896b0b40\", \"databaseId\": null, \"standardId\": \"6f58e1c6553449a98de70bebfc750075\", \"standardCode\": \"GB/T 43513.1—2023\", \"standardName\": \"空间辐射生物学实验技术规范第1部分：总则\", \"standardEnName\": \"Technical specification for space radiation biology experiment—Part 1: General principle\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"数学、自然科学\", \"termCode\": \"3.1\", \"cnName\": \"空间辐射生物学\", \"enName\": \"space radiation biology\", \"publishTime\": \"2023-12-28\", \"publishYear\": \"2023\", \"implementTime\": \"2023-12-28\", \"ics\": \"07.080\", \"ccs\": \"F 70/79\", \"parentTermId\": null, \"titleId\": null, \"oid\": 112836, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"空间辐射生物学\", \"cnNameSearch\": \"空间辐射生物学\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"space radiation biology\", \"wordSearch\": \"space radiation biology\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"研究空间辐射对生命物质和生命现象的影响，及其损伤机理和防护方法的学科。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [{\"source\": \"GB/T 30114.1—2013\", \"sourceCode\": \"2.47\", \"modifyStatus\": 1, \"modifyContent\": \"\"}], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"1ac0a5aa42304c139e47df06622ee8c5\", \"databaseId\": null, \"standardId\": \"520f07db2dd94d95819eb79aa1b950bc\", \"standardCode\": \"GB/T 32146.3—2015\", \"standardName\": \"检验检测实验室设计与建设技术要求  第3部分：食品实验室\", \"standardEnName\": \"Technical requirements of design and construction for inspection and testing laboratory—Part 3: Food laboratory\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"建筑材料和建筑物\", \"termCode\": \"3.4\", \"cnName\": \"食品分子生物学实验室\", \"enName\": \"food molecular biology laboratory\", \"publishTime\": \"2015-12-10\", \"publishYear\": \"2015\", \"implementTime\": \"2016-07-01\", \"ics\": \"91.040.109\", \"ccs\": \"P33\", \"parentTermId\": null, \"titleId\": null, \"oid\": 84324, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"食品分子生物学实验室\", \"cnNameSearch\": \"食品分子生物学实验室\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"food molecular biology laboratory\", \"wordSearch\": \"food molecular biology laboratory\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"以分子生物学技术(如核酸技术等)为主要手段，以食品为检测对象的实验室。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"5d1e74051da840f888dbd9a7d2e62668\", \"databaseId\": null, \"standardId\": \"0884848e149247a2aa042e44f1d3cf50\", \"standardCode\": \"GB/T 40419—2021\", \"standardName\": \"健康信息学 基因组序列变异置标语言（GSVML）\", \"standardEnName\": \"Health informatics—Genomic Sequence Variation Markup Language (GSVML)\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"3.18\", \"cnName\": \"系统生物学置标语言\", \"enName\": \"systems biology markup language\", \"publishTime\": \"2021-10-11\", \"publishYear\": \"2021\", \"implementTime\": \"2022-05-01\", \"ics\": \"ICS 35.240.80\", \"ccs\": \"CCS C 07\", \"parentTermId\": null, \"titleId\": null, \"oid\": 8198, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"系统生物学置标语言\", \"cnNameSearch\": \"系统生物学置标语言\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"systems biology markup language\", \"wordSearch\": \"systems biology markup language\"}, {\"languageType\": 1, \"word\": \"SBML\", \"wordSearch\": \"SBML\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"用于系统生物学模拟的置标语言。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"bd88ed8cb9b14da580e3ca658b6bc7dc\", \"databaseId\": null, \"standardId\": \"6f58e1c6553449a98de70bebfc750075\", \"standardCode\": \"GB/T 43513.1—2023\", \"standardName\": \"空间辐射生物学实验技术规范第1部分：总则\", \"standardEnName\": \"Technical specification for space radiation biology experiment—Part 1: General principle\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"数学、自然科学\", \"termCode\": \"3.3\", \"cnName\": \"空间辐射生物学辐射参量\", \"enName\": \"radiation quantities in space radiation biology\", \"publishTime\": \"2023-12-28\", \"publishYear\": \"2023\", \"implementTime\": \"2023-12-28\", \"ics\": \"07.080\", \"ccs\": \"F 70/79\", \"parentTermId\": null, \"titleId\": null, \"oid\": 112831, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"空间辐射生物学辐射参量\", \"cnNameSearch\": \"空间辐射生物学辐射参量\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"radiation quantities in space radiation biology\", \"wordSearch\": \"radiation quantities in space radiation biology\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"用于评价生物样品所接受的辐射粒子种类、能量、吸收剂量、剂量当量、辐射品质因子、传能线密度、核径迹等参数。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"fff40257d10b4b14afeba7e5544694f5\", \"databaseId\": null, \"standardId\": \"7a58a6f19dfc45cc8109ab37e86fa8b7\", \"standardCode\": \"GB/T 21679—2008\", \"standardName\": \"法庭科学DNA数据库建设规范\", \"standardEnName\": \"Criterion for forensic DNA database\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"环保、保健和安全\", \"termCode\": \"2.4\", \"cnName\": \"现场物证库\", \"enName\": \"DNA database from biology evidence samples\", \"publishTime\": \"2008-04-24\", \"publishYear\": \"2008\", \"implementTime\": \"2008-08-01\", \"ics\": \"13.310\", \"ccs\": \"A 92\", \"parentTermId\": null, \"titleId\": null, \"oid\": 126146, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"现场物证库\", \"cnNameSearch\": \"现场物证库\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"DNA database from biology evidence samples\", \"wordSearch\": \"DNA database from biology evidence samples\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"存储刑事案件现场生物物证的DNA分型数据和相关信息的数据库。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1795341250254}"
+}

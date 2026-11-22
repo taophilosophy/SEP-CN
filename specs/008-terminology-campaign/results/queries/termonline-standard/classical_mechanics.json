@@ -1,0 +1,152 @@
+{
+ "key": "classical mechanics",
+ "term": "classical mechanics",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-22T09:53:43+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=22",
+ "hits": [
+  {
+   "cn": "岩石力学",
+   "en": "rock mechanics",
+   "code": "GB/T 50279—2014",
+   "standard": "岩土工程基本术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "土力学",
+   "en": "soil mechanics",
+   "code": "GB/T 50279—2014",
+   "standard": "岩土工程基本术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "制动力学",
+   "en": "braking mechanics",
+   "code": "GB/T 5620—2020",
+   "standard": "道路车辆 汽车和挂车制动名词术语及其定义",
+   "subject": "道路车辆工程"
+  },
+  {
+   "cn": "经典信道",
+   "en": "classical channel",
+   "code": "GB/T 43692—2024",
+   "standard": "量子通信术语和定义",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "经典信息",
+   "en": "classical information",
+   "code": "GB/T 43692—2024",
+   "standard": "量子通信术语和定义",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "经典信号",
+   "en": "classical signal",
+   "code": "GB/T 43692—2024",
+   "standard": "量子通信术语和定义",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "经典信道",
+   "en": "classical channel",
+   "code": "GB/T 42829—2023",
+   "standard": "量子保密通信应用基本要求",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "经典信号",
+   "en": "classical signal",
+   "code": "GB/T 42829—2023",
+   "standard": "量子保密通信应用基本要求",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "传统顿",
+   "en": "classical frame",
+   "code": "GB/T 41588.1—2022",
+   "standard": "道路车辆 控制器局域网(CAN) 第1部分：数据链路层和物理信令",
+   "subject": "道路车辆工程"
+  },
+  {
+   "cn": "经典传导",
+   "en": "classical conduction",
+   "code": "GB/T 41675—2022",
+   "standard": "航天器电推进技术术语",
+   "subject": "航空器和航天器工程"
+  },
+  {
+   "cn": "经典回旋加速器",
+   "en": "classical cyclotron",
+   "code": "GB/T 40618—2021",
+   "standard": "回旋加速器术语",
+   "subject": "能源和热传导工程"
+  },
+  {
+   "cn": "经典扩散",
+   "en": "classical diffusion",
+   "code": "GB/T 4960.1—2010",
+   "standard": "核科学技术术语 第1部分：核物理与核化学",
+   "subject": "能源和热传导工程"
+  },
+  {
+   "cn": "非饱和士力学",
+   "en": "unsaturated soil mechanics",
+   "code": "GB/T 50279—2014",
+   "standard": "岩土工程基本术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "断裂力学评估",
+   "en": "fracture mechanics assessment",
+   "code": "GB/T 21412.7—2018",
+   "standard": "石油天然气工业 水下生产系统的设计与操作 第7部分:完井或修井隔水管系统",
+   "subject": "石油及相关技术"
+  },
+  {
+   "cn": "散体力学",
+   "en": "mechanics of granular media",
+   "code": "GB/T 50279—2014",
+   "standard": "岩土工程基本术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "复合材料界面力学",
+   "en": "mechanics of composite interface",
+   "code": "GB/T 30816—2014",
+   "standard": "工程用生物基复合材料术语",
+   "subject": "纺织和皮革技术"
+  },
+  {
+   "cn": "复合材料黏弹性力学",
+   "en": "viscoelastic mechanics of composite",
+   "code": "GB/T 30816—2014",
+   "standard": "工程用生物基复合材料术语",
+   "subject": "纺织和皮革技术"
+  },
+  {
+   "cn": "量子-经典混合算法",
+   "en": "hybrid quantum-classical algorithm",
+   "code": "GB/T 42565—2023",
+   "standard": "量子计算 术语和定义",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "传统扩展帧格式",
+   "en": "classical extended frame format",
+   "code": "GB/T 41588.1—2022",
+   "standard": "道路车辆 控制器局域网(CAN) 第1部分：数据链路层和物理信令",
+   "subject": "道路车辆工程"
+  },
+  {
+   "cn": "传统标准顿格式",
+   "en": "classical base frame format",
+   "code": "GB/T 41588.1—2022",
+   "standard": "道路车辆 控制器局域网(CAN) 第1部分：数据链路层和物理信令",
+   "subject": "道路车辆工程"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2024\": 3, \"2023\": 4, \"2022\": 4, \"2021\": 1, \"2020\": 1, \"2018\": 1, \"2015\": 1, \"2014\": 2, \"2010\": 1, \"暂无年份\": 4}, \"sourceStats\": {\"道路车辆工程\": 4, \"航空器和航天器工程\": 1, \"能源和热传导工程\": 2, \"综合、术语学、标准化、文献\": 5, \"纺织和皮革技术\": 2, \"石油及相关技术\": 1, \"建筑材料和建筑物\": 1, \"其它\": 4, \"信息技术、办公机械\": 2}, \"typeStats\": {\"7\": 22}, \"totalRecords\": 22, \"tmWordList\": [{\"id\": \"d431943f8c1e4fe2adbe47a257edc298\", \"databaseId\": null, \"standardId\": \"2b07352d5f964837a51fe81e19c9e6d2\", \"standardCode\": \"GB/T 50279—2014\", \"standardName\": \"岩土工程基本术语标准\", \"standardEnName\": \"Standard for fundamental terms of geotechnical engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.3\", \"cnName\": \"岩石力学\", \"enName\": \"rock mechanics\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 43707, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"岩石力学\", \"cnNameSearch\": \"岩石力学\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"rock mechanics\", \"wordSearch\": \"rock mechanics\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"研究岩石的物理力学性质及岩体在荷载、水和温度等因素作用下力学行为的应用学科。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"00d499d1076a442bba2dd3fe5f4ecbd8\", \"databaseId\": null, \"standardId\": \"2b07352d5f964837a51fe81e19c9e6d2\", \"standardCode\": \"GB/T 50279—2014\", \"standardName\": \"岩土工程基本术语标准\", \"standardEnName\": \"Standard for fundamental terms of geotechnical engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.2\", \"cnName\": \"土力学\", \"enName\": \"soil mechanics\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 44106, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"土力学\", \"cnNameSearch\": \"土力学\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"soil mechanics\", \"wordSearch\": \"soil mechanics\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"研究土的物理力学性质及土体在荷载、水和温度等因素作用下力学行为的应用学科。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"d71399b9319a4cf2b1b4b2dc22e779c6\", \"databaseId\": null, \"standardId\": \"584bb21345d74acfaf54ed8316bf8ad7\", \"standardCode\": \"GB/T 5620—2020\", \"standardName\": \"道路车辆 汽车和挂车制动名词术语及其定义\", \"standardEnName\": \"Road vehicles—Vocabulary and definition for braking of automotive vehicles and their trailers\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"道路车辆工程\", \"termCode\": \"9.1\", \"cnName\": \"制动力学\", \"enName\": \"braking mechanics\", \"publishTime\": \"2020-09-29\", \"publishYear\": \"2020\", \"implementTime\": \"2021-04-01\", \"ics\": \"43.040.40\", \"ccs\": \"T 24\", \"parentTermId\": null, \"titleId\": null, \"oid\": 90719, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"制动力学\", \"cnNameSearch\": \"制动力学\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"braking mechanics\", \"wordSearch\": \"braking mechanics\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在控制装置的起点和制动作用的终点间产生的力学现象。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"6ea455205c914f0f95378ac3775d0370\", \"databaseId\": null, \"standardId\": \"d4f5d6cfa0f94041aee4f8ea8f12d73e\", \"standardCode\": \"GB/T 43692—2024\", \"standardName\": \"量子通信术语和定义\", \"standardEnName\": \"Quantum communication terminology and definition\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"3.20\", \"cnName\": \"经典信道\", \"enName\": \"classical channel\", \"publishTime\": \"2024-03-15\", \"publishYear\": \"2024\", \"implementTime\": \"2024-10-01\", \"ics\": \"01.040.350\", \"ccs\": \"A22\", \"parentTermId\": null, \"titleId\": null, \"oid\": 211092, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"经典信道\", \"cnNameSearch\": \"经典信道\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"classical channel\", \"wordSearch\": \"classical channel\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"传输经典信号的信道。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"c89c69531f6b43d9bdf33475d882873d\", \"databaseId\": null, \"standardId\": \"d4f5d6cfa0f94041aee4f8ea8f12d73e\", \"standardCode\": \"GB/T 43692—2024\", \"standardName\": \"量子通信术语和定义\", \"standardEnName\": \"Quantum communication terminology and definition\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"3.2\", \"cnName\": \"经典信息\", \"enName\": \"classical information\", \"publishTime\": \"2024-03-15\", \"publishYear\": \"2024\", \"implementTime\": \"2024-10-01\", \"ics\": \"01.040.350\", \"ccs\": \"A22\", \"parentTermId\": null, \"titleId\": null, \"oid\": 211102, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"经典信息\", \"cnNameSearch\": \"经典信息\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"classical information\", \"wordSearch\": \"classical information\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"经典物理系统状态所包含的知识。\", \"footnote\": \"\", \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>等价于一般意义上的信息(见 GB/T 4894—2009 中 4.1.1.3.8 和 4.1.1.3.9)。</p>\"], \"refer\": [], \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"75f66dd431634cd2a581524f54100da6\", \"databaseId\": null, \"standardId\": \"d4f5d6cfa0f94041aee4f8ea8f12d73e\", \"standardCode\": \"GB/T 43692—2024\", \"standardName\": \"量子通信术语和定义\", \"standardEnName\": \"Quantum communication terminology and definition\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"3.18\", \"cnName\": \"经典信号\", \"enName\": \"classical signal\", \"publishTime\": \"2024-03-15\", \"publishYear\": \"2024\", \"implementTime\": \"2024-10-01\", \"ics\": \"01.040.350\", \"ccs\": \"A22\", \"parentTermId\": null, \"titleId\": null, \"oid\": 211142, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"经典信号\", \"cnNameSearch\": \"经典信号\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"classical signal\", \"wordSearch\": \"classical signal\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"现代通信技术中以承载经典物理量的物理信号。\", \"footnote\": \"\", \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>是经典信息(3.2)的物理载体。</p>\", \"<p>常用的经典信号有，高电平、低电平、亮光脉冲、暗光脉冲、不同偏振状态的光脉冲和不同相位差的光脉冲等。</p>\"], \"refer\": [], \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"ed3f8d1326dd441bba02a5e5d579e85e\", \"databaseId\": null, \"standardId\": \"50658c5b0fb040128b3ad8f767d453fb\", \"standardCode\": \"GB/T 42829—2023\", \"standardName\": \"量子保密通信应用基本要求\", \"standardEnName\": \"Basic requirements of quantum secure communication applications\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"3.10\", \"cnName\": \"经典信道\", \"enName\": \"classical channel\", \"publishTime\": \"2023-08-06\", \"publishYear\": \"2023\", \"implementTime\": \"2024-03-01\", \"ics\": \"35.030\", \"ccs\": \"L 80\", \"parentTermId\": null, \"titleId\": null, \"oid\": 82823, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"经典信道\", \"cnNameSearch\": \"经典信道\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"classical channel\", \"wordSearch\": \"classical channel\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"传输经典信号的信道。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"03f56c2ac3284d078640b4236411f707\", \"databaseId\": null, \"standardId\": \"50658c5b0fb040128b3ad8f767d453fb\", \"standardCode\": \"GB/T 42829—2023\", \"standardName\": \"量子保密通信应用基本要求\", \"standardEnName\": \"Basic requirements of quantum secure communication applications\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"3.8\", \"cnName\": \"经典信号\", \"enName\": \"classical signal\", \"publishTime\": \"2023-08-06\", \"publishYear\": \"2023\", \"implementTime\": \"2024-03-01\", \"ics\": \"35.030\", \"ccs\": \"L 80\", \"parentTermId\": null, \"titleId\": null, \"oid\": 82829, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"经典信号\", \"cnNameSearch\": \"经典信号\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"classical signal\", \"wordSearch\": \"classical signal\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"现代通信技术中以经典物理量承载信息的物理信号。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>常用的经典信号如，高电平、低电平、亮光脉冲、暗光脉冲、不同偏振状态的光脉冲和不同相位差的光脉冲等。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"699f222bcb8946109f95d8af520ab54e\", \"databaseId\": null, \"standardId\": \"3f632e7a3cf44bb0810232a119948bb7\", \"standardCode\": \"GB/T 41588.1—2022\", \"standardName\": \"道路车辆 控制器局域网(CAN) 第1部分：数据链路层和物理信令\", \"standardEnName\": \"Road vehicles—Controller area network(CAN)一 Part 1:Data link layer and physical signalling\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"道路车辆工程\", \"termCode\": \"3.9\", \"cnName\": \"传统顿\", \"enName\": \"classical frame\", \"publishTime\": \"2022-07-11\", \"publishYear\": \"2022\", \"implementTime\": \"2023-02-01\", \"ics\": \"ICS 43.020\", \"ccs\": \"CCS T 35\", \"parentTermId\": null, \"titleId\": null, \"oid\": 68060, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"传统顿\", \"cnNameSearch\": \"传统顿\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"classical frame\", \"wordSearch\": \"classical frame\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"指使用传统标准帧格式、或者传统扩展顿格式的数据顿或者远程帧。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"3c1f84e17c414ad9a386523fdaf573a6\", \"databaseId\": null, \"standardId\": \"97bd0a898f9f4ca2af855d0377d7eda5\", \"standardCode\": \"GB/T 41675—2022\", \"standardName\": \"航天器电推进技术术语\", \"standardEnName\": \"Terms for spacecraft electric propulsion\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"航空器和航天器工程\", \"termCode\": \"5.29\", \"cnName\": \"经典传导\", \"enName\": \"classical conduction\", \"publishTime\": \"2022-10-12\", \"publishYear\": \"2022\", \"implementTime\": \"2022-10-12\", \"ics\": \"ICS 49.020 \", \"ccs\": \"CCS V 70\", \"parentTermId\": null, \"titleId\": null, \"oid\": 159155, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"经典传导\", \"cnNameSearch\": \"经典传导\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"classical conduction\", \"wordSearch\": \"classical conduction\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"由于粒子之间碰撞作用引起扩散的物理过程。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"ed793892237242d688e789d8c3b845e8\", \"databaseId\": null, \"standardId\": \"0c5942eccd8c48bb8fbc65fe800aaeb9\", \"standardCode\": \"GB/T 40618—2021\", \"standardName\": \"回旋加速器术语\", \"standardEnName\": \"Terminology for cyclotron\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"能源和热传导工程\", \"termCode\": \"3.2.1\", \"cnName\": \"经典回旋加速器\", \"enName\": \"classical cyclotron\", \"publishTime\": \"2021-10-11\", \"publishYear\": \"2021\", \"implementTime\": \"2022-05-01\", \"ics\": \"27.120\", \"ccs\": \"F 91\", \"parentTermId\": null, \"titleId\": null, \"oid\": 10742, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"经典回旋加速器\", \"cnNameSearch\": \"经典回旋加速器\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"classical cyclotron\", \"wordSearch\": \"classical cyclotron\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"最早出现的一种具有圆柱形磁极，其磁感应强度沿径向缓慢下降的回旋加速器。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"e1a8a97c9084426095306f4c47dc1828\", \"databaseId\": null, \"standardId\": \"8b0855c94dc74d8b86546ae065bb857e\", \"standardCode\": \"GB/T 4960.1—2010\", \"standardName\": \"核科学技术术语 第1部分：核物理与核化学\", \"standardEnName\": \"Glossary of nuclear science and technology terms—Part 1: Nuclear physics and nuclear chemistry\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"能源和热传导工程\", \"termCode\": \"4.53\", \"cnName\": \"经典扩散\", \"enName\": \"classical diffusion\", \"publishTime\": \"2010-11-10\", \"publishYear\": \"2010\", \"implementTime\": \"2011-05-01\", \"ics\": \"27.120\", \"ccs\": \"F 40\", \"parentTermId\": null, \"titleId\": null, \"oid\": 146442, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"经典扩散\", \"cnNameSearch\": \"经典扩散\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"classical diffusion\", \"wordSearch\": \"classical diffusion\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"碰撞扩散\\ncollision diffusion\\n可以完全由带电粒子间的库仑碰撞或带电粒子与中性粒子碰撞的经典理论计算得出的粒子扩散\\n方式。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"b6a9dd596b66432f973e6745d7fc99da\", \"databaseId\": null, \"standardId\": \"2b07352d5f964837a51fe81e19c9e6d2\", \"standardCode\": \"GB/T 50279—2014\", \"standardName\": \"岩土工程基本术语标准\", \"standardEnName\": \"Standard for fundamental terms of geotechnical engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.5\", \"cnName\": \"非饱和士力学\", \"enName\": \"unsaturated soil mechanics\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 44397, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"非饱和士力学\", \"cnNameSearch\": \"非饱和士力学\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"unsaturated soil mechanics\", \"wordSearch\": \"unsaturated soil mechanics\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"研究非饱和土的物理力学性质及非饱和土体在荷载、水和温度等因素作用下力学行为的应用学科。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"084ccca5c476493da666e66c0698eb4a\", \"databaseId\": null, \"standardId\": \"32414ed15c5147159b31044ae7d229e6\", \"standardCode\": \"GB/T 21412.7—2018\", \"standardName\": \"石油天然气工业 水下生产系统的设计与操作 第7部分:完井或修井隔水管系统\", \"standardEnName\": \"Petroleum and natural gas industries-Design and operation of subsea production systems-Part 7: Completion/workover riser systems\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"石油及相关技术\", \"termCode\": \"3.1.55\", \"cnName\": \"断裂力学评估\", \"enName\": \"fracture mechanics assessment\", \"publishTime\": \"2018-03-15\", \"publishYear\": \"2018\", \"implementTime\": \"2018-10-01\", \"ics\": \"75.180.10\", \"ccs\": \"E 94\", \"parentTermId\": null, \"titleId\": null, \"oid\": 54875, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"断裂力学评估\", \"cnNameSearch\": \"断裂力学评估\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"fracture mechanics assessment\", \"wordSearch\": \"fracture mechanics assessment\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"根据设计荷载的关键缺陷尺寸确定裂纹护展寿命（即：泄漏或断裂)的评估和分析。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"c2484ca9d09a48db982b1d351223ad34\", \"databaseId\": null, \"standardId\": \"2b07352d5f964837a51fe81e19c9e6d2\", \"standardCode\": \"GB/T 50279—2014\", \"standardName\": \"岩土工程基本术语标准\", \"standardEnName\": \"Standard for fundamental terms of geotechnical engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.12\", \"cnName\": \"散体力学\", \"enName\": \"mechanics of granular media\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 44137, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"散体力学\", \"cnNameSearch\": \"散体力学\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"mechanics of granular media\", \"wordSearch\": \"mechanics of granular media\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"研究散粒集合体受力时的极限平衡和运动规律的学科。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"d49ca84463b24123b884fa32a4c9ff2d\", \"databaseId\": null, \"standardId\": \"2aa5c40d05d240b9a3acf1a4570e7e9f\", \"standardCode\": \"GB/T 30816—2014\", \"standardName\": \"工程用生物基复合材料术语\", \"standardEnName\": \"Terminology for bio-based composite materials in engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"纺织和皮革技术\", \"termCode\": \"3.3.3.13\", \"cnName\": \"复合材料界面力学\", \"enName\": \"mechanics of composite interface\", \"publishTime\": \"2014-05-06\", \"publishYear\": \"2014\", \"implementTime\": \"2015-02-01\", \"ics\": \"59.100.015\", \"ccs\": \"E60\", \"parentTermId\": null, \"titleId\": null, \"oid\": 40633, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"复合材料界面力学\", \"cnNameSearch\": \"复合材料界面力学\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"mechanics of composite interface\", \"wordSearch\": \"mechanics of composite interface\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"研究复合材料中增强体与基体界面或界面相的力学行为的一门分支学科。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"28f3729c082f4996a6b280b854efa37e\", \"databaseId\": null, \"standardId\": \"2aa5c40d05d240b9a3acf1a4570e7e9f\", \"standardCode\": \"GB/T 30816—2014\", \"standardName\": \"工程用生物基复合材料术语\", \"standardEnName\": \"Terminology for bio-based composite materials in engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"纺织和皮革技术\", \"termCode\": \"3.5.4.5\", \"cnName\": \"复合材料黏弹性力学\", \"enName\": \"viscoelastic mechanics of composite\", \"publishTime\": \"2014-05-06\", \"publishYear\": \"2014\", \"implementTime\": \"2015-02-01\", \"ics\": \"59.100.015\", \"ccs\": \"E60\", \"parentTermId\": null, \"titleId\": null, \"oid\": 40681, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"复合材料黏弹性力学\", \"cnNameSearch\": \"复合材料黏弹性力学\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"viscoelastic mechanics of composite\", \"wordSearch\": \"viscoelastic mechanics of composite\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"复合材料中聚合物基体受剪时出现模量与时间相关关系，为此进行的力学行为分析的学科。通常采用基体模量与时间呈线性关系而增强体模量与时间无关的假设计算复合材料有效模量。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"84161a0253344ebc9d5c715470ed397d\", \"databaseId\": null, \"standardId\": \"913f7312171440778aecc8298c307430\", \"standardCode\": \"GB/T 42565—2023\", \"standardName\": \"量子计算 术语和定义\", \"standardEnName\": \"Quantum computing—Terminology and definition\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"5.15\", \"cnName\": \"量子-经典混合算法\", \"enName\": \"hybrid quantum-classical algorithm\", \"publishTime\": \"2023-05-23\", \"publishYear\": \"2023\", \"implementTime\": \"2023-12-01\", \"ics\": \"01.040.35\", \"ccs\": \"A 22\", \"parentTermId\": null, \"titleId\": null, \"oid\": 153463, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"量子-经典混合算法\", \"cnNameSearch\": \"量子-经典混合算法\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"hybrid quantum-classical algorithm\", \"wordSearch\": \"hybrid quantum-classical algorithm\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"将经典计算的分析、优化方法与量子态的制备和测量相结合来完成计算任务的算法。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"842919d349e34f1c80550a5d913fa378\", \"databaseId\": null, \"standardId\": \"3f632e7a3cf44bb0810232a119948bb7\", \"standardCode\": \"GB/T 41588.1—2022\", \"standardName\": \"道路车辆 控制器局域网(CAN) 第1部分：数据链路层和物理信令\", \"standardEnName\": \"Road vehicles—Controller area network(CAN)一 Part 1:Data link layer and physical signalling\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"道路车辆工程\", \"termCode\": \"3.8\", \"cnName\": \"传统扩展帧格式\", \"enName\": \"classical extended frame format\", \"publishTime\": \"2022-07-11\", \"publishYear\": \"2022\", \"implementTime\": \"2023-02-01\", \"ics\": \"ICS 43.020\", \"ccs\": \"CCS T 35\", \"parentTermId\": null, \"titleId\": null, \"oid\": 68033, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"传统扩展帧格式\", \"cnNameSearch\": \"传统扩展帧格式\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"classical extended frame format\", \"wordSearch\": \"classical extended frame format\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"使用29位ID，传输时只用1种位速率，一顿最多包含8个数据字节的数据顿或者远程顿格式。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"c7bc4f63a6d64370bf059083930ba0bb\", \"databaseId\": null, \"standardId\": \"3f632e7a3cf44bb0810232a119948bb7\", \"standardCode\": \"GB/T 41588.1—2022\", \"standardName\": \"道路车辆 控制器局域网(CAN) 第1部分：数据链路层和物理信令\", \"standardEnName\": \"Road vehicles—Controller area network(CAN)一 Part 1:Data link layer and physical signalling\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"道路车辆工程\", \"termCode\": \"3.7\", \"cnName\": \"传统标准顿格式\", \"enName\": \"classical base frame format\", \"publishTime\": \"2022-07-11\", \"publishYear\": \"2022\", \"implementTime\": \"2023-02-01\", \"ics\": \"ICS 43.020\", \"ccs\": \"CCS T 35\", \"parentTermId\": null, \"titleId\": null, \"oid\": 68057, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"传统标准顿格式\", \"cnNameSearch\": \"传统标准顿格式\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"classical base frame format\", \"wordSearch\": \"classical base frame format\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"使用11位ID，传输时只用1种位速率，一帧最多包含8个数据字节的数据顿或者远程帧格式。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 2}}, \"timestamp\": 1795341223249}"
+}

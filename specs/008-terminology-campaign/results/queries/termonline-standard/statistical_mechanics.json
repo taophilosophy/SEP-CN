@@ -1,0 +1,152 @@
+{
+ "key": "statistical mechanics",
+ "term": "statistical mechanics",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-22T09:53:42+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=62",
+ "hits": [
+  {
+   "cn": "岩石力学",
+   "en": "rock mechanics",
+   "code": "GB/T 50279—2014",
+   "standard": "岩土工程基本术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "土力学",
+   "en": "soil mechanics",
+   "code": "GB/T 50279—2014",
+   "standard": "岩土工程基本术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "制动力学",
+   "en": "braking mechanics",
+   "code": "GB/T 5620—2020",
+   "standard": "道路车辆 汽车和挂车制动名词术语及其定义",
+   "subject": "道路车辆工程"
+  },
+  {
+   "cn": "非饱和士力学",
+   "en": "unsaturated soil mechanics",
+   "code": "GB/T 50279—2014",
+   "standard": "岩土工程基本术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "断裂力学评估",
+   "en": "fracture mechanics assessment",
+   "code": "GB/T 21412.7—2018",
+   "standard": "石油天然气工业 水下生产系统的设计与操作 第7部分:完井或修井隔水管系统",
+   "subject": "石油及相关技术"
+  },
+  {
+   "cn": "&nbsp; &nbsp;统计参数",
+   "en": "statistical parameter",
+   "code": "GB/T 50083—2014",
+   "standard": "工程结构设计基本术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "统计参数",
+   "en": "statistical parameter",
+   "code": "GB/T 50095—2014",
+   "standard": "水文基本术语和符号标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "统计参数",
+   "en": "statistical parameter",
+   "code": "GB 50068—2018",
+   "standard": "建筑结构可靠性设计统一标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "统计参数",
+   "en": "statistical parameter",
+   "code": "GB 50216—2019",
+   "standard": "铁路工程结构可靠性设计统一标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "统计参数",
+   "en": "statistical parameter",
+   "code": "GB 50199—2013",
+   "standard": "水利水电工程结构可靠性设计统一标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "统计参数",
+   "en": "statistical parameter",
+   "code": "GB/T 50283—1999",
+   "standard": "公路工程结构可靠度设计统一标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "统计检验",
+   "en": "statistical test",
+   "code": "GB/T 42989—2023",
+   "standard": "人工影响天气术语",
+   "subject": "数学、自然科学"
+  },
+  {
+   "cn": "统计周期",
+   "en": "statistical period",
+   "code": "GB/T 43097—2023",
+   "standard": "供热运营数据统计方法",
+   "subject": "建筑材料和建筑物"
+  },
+  {
+   "cn": "统计报警",
+   "en": "statistical alarm",
+   "code": "GB/T 41261—2022",
+   "standard": "过程工业报警系统管理",
+   "subject": "机械制造"
+  },
+  {
+   "cn": "统计离群值",
+   "en": "statistical outlier",
+   "code": "GB/T 6380—2019",
+   "standard": "数据的统计处理和解释 Ⅰ型极值分布样本离群值的判断和处理",
+   "subject": "社会学、服务、公司（企业）的组织和管理、行政、运输"
+  },
+  {
+   "cn": "统计估计",
+   "en": "statistical estimator",
+   "code": "GB/Z 26958.30—2017",
+   "standard": "产品几何技术规范（GPS） 滤波 第30部分：稳健轮廓滤波器 基本概念",
+   "subject": "计量学和测量、物理现象"
+  },
+  {
+   "cn": "风险（统计的）",
+   "en": "risk(statistical)",
+   "code": "GB/T 5080.1—2012",
+   "standard": "可靠性试验 第1部分：试验条件和统计检验原理",
+   "subject": "社会学、服务、公司（企业）的组织和管理、行政、运输"
+  },
+  {
+   "cn": "统计复用",
+   "en": "statistical multiplexing",
+   "code": "GB/T 7400—2011",
+   "standard": "广播电视术语",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "统计复用",
+   "en": "statistical multiplexing",
+   "code": "GB/T 26270—2010",
+   "standard": "数字电视接收设备标准测试信号",
+   "subject": "电信、音频和视频工程"
+  },
+  {
+   "cn": "统计方法",
+   "en": "statistical methods",
+   "code": "GB/T 3358.2—2009",
+   "standard": "统计学词汇及符号第2部分：应用统计",
+   "subject": "社会学、服务、公司（企业）的组织和管理、行政、运输"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2024\": 1, \"2023\": 4, \"2022\": 2, \"2020\": 2, \"2019\": 3, \"2018\": 1, \"2017\": 3, \"2016\": 2, \"2015\": 7, \"2014\": 3, \"2013\": 1, \"2012\": 2, \"2011\": 4, \"2009\": 9, \"2008\": 2, \"2001\": 1, \"1998\": 2, \"暂无年份\": 13}, \"sourceStats\": {\"采矿和矿产品\": 2, \"道路车辆工程\": 1, \"试验\": 1, \"计量学和测量、物理现象\": 3, \"能源和热传导工程\": 1, \"综合、术语学、标准化、文献\": 2, \"纺织和皮革技术\": 2, \"社会学、服务、公司（企业）的组织和管理、行政、运输\": 14, \"石油及相关技术\": 1, \"电气工程\": 6, \"电信、音频和视频工程\": 2, \"橡胶和塑料工业\": 1, \"机械制造\": 2, \"木材技术\": 2, \"数学、自然科学\": 2, \"成像技术\": 1, \"建筑材料和建筑物\": 2, \"其它\": 13, \"信息技术、办公机械\": 4}, \"typeStats\": {\"7\": 62}, \"totalRecords\": 62, \"tmWordList\": [{\"id\": \"d431943f8c1e4fe2adbe47a257edc298\", \"databaseId\": null, \"standardId\": \"2b07352d5f964837a51fe81e19c9e6d2\", \"standardCode\": \"GB/T 50279—2014\", \"standardName\": \"岩土工程基本术语标准\", \"standardEnName\": \"Standard for fundamental terms of geotechnical engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.3\", \"cnName\": \"岩石力学\", \"enName\": \"rock mechanics\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 43707, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"岩石力学\", \"cnNameSearch\": \"岩石力学\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"rock mechanics\", \"wordSearch\": \"rock mechanics\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"研究岩石的物理力学性质及岩体在荷载、水和温度等因素作用下力学行为的应用学科。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"00d499d1076a442bba2dd3fe5f4ecbd8\", \"databaseId\": null, \"standardId\": \"2b07352d5f964837a51fe81e19c9e6d2\", \"standardCode\": \"GB/T 50279—2014\", \"standardName\": \"岩土工程基本术语标准\", \"standardEnName\": \"Standard for fundamental terms of geotechnical engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.2\", \"cnName\": \"土力学\", \"enName\": \"soil mechanics\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 44106, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"土力学\", \"cnNameSearch\": \"土力学\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"soil mechanics\", \"wordSearch\": \"soil mechanics\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"研究土的物理力学性质及土体在荷载、水和温度等因素作用下力学行为的应用学科。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"d71399b9319a4cf2b1b4b2dc22e779c6\", \"databaseId\": null, \"standardId\": \"584bb21345d74acfaf54ed8316bf8ad7\", \"standardCode\": \"GB/T 5620—2020\", \"standardName\": \"道路车辆 汽车和挂车制动名词术语及其定义\", \"standardEnName\": \"Road vehicles—Vocabulary and definition for braking of automotive vehicles and their trailers\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"道路车辆工程\", \"termCode\": \"9.1\", \"cnName\": \"制动力学\", \"enName\": \"braking mechanics\", \"publishTime\": \"2020-09-29\", \"publishYear\": \"2020\", \"implementTime\": \"2021-04-01\", \"ics\": \"43.040.40\", \"ccs\": \"T 24\", \"parentTermId\": null, \"titleId\": null, \"oid\": 90719, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"制动力学\", \"cnNameSearch\": \"制动力学\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"braking mechanics\", \"wordSearch\": \"braking mechanics\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在控制装置的起点和制动作用的终点间产生的力学现象。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"b6a9dd596b66432f973e6745d7fc99da\", \"databaseId\": null, \"standardId\": \"2b07352d5f964837a51fe81e19c9e6d2\", \"standardCode\": \"GB/T 50279—2014\", \"standardName\": \"岩土工程基本术语标准\", \"standardEnName\": \"Standard for fundamental terms of geotechnical engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.5\", \"cnName\": \"非饱和士力学\", \"enName\": \"unsaturated soil mechanics\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 44397, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"非饱和士力学\", \"cnNameSearch\": \"非饱和士力学\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"unsaturated soil mechanics\", \"wordSearch\": \"unsaturated soil mechanics\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"研究非饱和土的物理力学性质及非饱和土体在荷载、水和温度等因素作用下力学行为的应用学科。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"084ccca5c476493da666e66c0698eb4a\", \"databaseId\": null, \"standardId\": \"32414ed15c5147159b31044ae7d229e6\", \"standardCode\": \"GB/T 21412.7—2018\", \"standardName\": \"石油天然气工业 水下生产系统的设计与操作 第7部分:完井或修井隔水管系统\", \"standardEnName\": \"Petroleum and natural gas industries-Design and operation of subsea production systems-Part 7: Completion/workover riser systems\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"石油及相关技术\", \"termCode\": \"3.1.55\", \"cnName\": \"断裂力学评估\", \"enName\": \"fracture mechanics assessment\", \"publishTime\": \"2018-03-15\", \"publishYear\": \"2018\", \"implementTime\": \"2018-10-01\", \"ics\": \"75.180.10\", \"ccs\": \"E 94\", \"parentTermId\": null, \"titleId\": null, \"oid\": 54875, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"断裂力学评估\", \"cnNameSearch\": \"断裂力学评估\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"fracture mechanics assessment\", \"wordSearch\": \"fracture mechanics assessment\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"根据设计荷载的关键缺陷尺寸确定裂纹护展寿命（即：泄漏或断裂)的评估和分析。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"efc51113851147bd9a3cbf2bc4399c2f\", \"databaseId\": null, \"standardId\": \"060dc7933ba4422c81404f3785c41628\", \"standardCode\": \"GB/T 50083—2014\", \"standardName\": \"工程结构设计基本术语标准\", \"standardEnName\": \"Standard for general terms used in design of engineering structures\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.12.23\", \"cnName\": \"&nbsp; &nbsp;统计参数\", \"enName\": \"statistical parameter\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 4376, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"&nbsp; &nbsp;统计参数\", \"cnNameSearch\": \"&nbsp; &nbsp;统计参数\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"statistical parameter\", \"wordSearch\": \"statistical parameter\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在概率分布中用来表示随机变量取值的平均水平和离散程度的数字特征。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"e98de05954b546f1972bb1d2c8d5fa51\", \"databaseId\": null, \"standardId\": \"2ab6223e540049078222788acd26c43f\", \"standardCode\": \"GB/T 50095—2014\", \"standardName\": \"水文基本术语和符号标准\", \"standardEnName\": \"Standard for essential terminology and symbol in hydrology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"7.2.14\", \"cnName\": \"统计参数\", \"enName\": \"statistical parameter\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 40979, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"统计参数\", \"cnNameSearch\": \"统计参数\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"statistical parameter\", \"wordSearch\": \"statistical parameter\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"综合反映水文变量统计规律的一组特征值。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"8225fc2b849948e3aef59948a00a7683\", \"databaseId\": null, \"standardId\": \"6101518af9fc4392bb29dddc7f16b565\", \"standardCode\": \"GB 50068—2018\", \"standardName\": \"建筑结构可靠性设计统一标准\", \"standardEnName\": \"Unified standard for reliability design of building structures\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.1.30\", \"cnName\": \"统计参数\", \"enName\": \"statistical parameter\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 97443, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"统计参数\", \"cnNameSearch\": \"统计参数\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"statistical parameter\", \"wordSearch\": \"statistical parameter\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在概率分布中用来表示随机变量取值的平均水平和离散程度的数字特征。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"447e744e5baa4de98696bb16c90eb577\", \"databaseId\": null, \"standardId\": \"b76865fc106d432d8649bd02de3afce2\", \"standardCode\": \"GB 50216—2019\", \"standardName\": \"铁路工程结构可靠性设计统一标准\", \"standardEnName\": \"Unified standard for reliability design of railway structures\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.1.21\", \"cnName\": \"统计参数\", \"enName\": \"statistical parameter\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 187508, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"统计参数\", \"cnNameSearch\": \"统计参数\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"statistical parameter\", \"wordSearch\": \"statistical parameter\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在概率分布中用来表示随机变量取值的平均水平与离散程度等的数字特征。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"f6a0ee0a106743e289815e1d39ae5940\", \"databaseId\": null, \"standardId\": \"db8c753ac18f44918c5f8f10e1ae4df4\", \"standardCode\": \"GB 50199—2013\", \"standardName\": \"水利水电工程结构可靠性设计统一标准\", \"standardEnName\": \"Unified standard for reliability design of hydraulic engineering structures\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.1.21\", \"cnName\": \"统计参数\", \"enName\": \"statistical parameter\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 215707, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"统计参数\", \"cnNameSearch\": \"统计参数\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"statistical parameter\", \"wordSearch\": \"statistical parameter\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在概率分布中用来表示随机变量取值的平均水平和离散程度等的数字特征。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"4d13231dd7e949ca8438fbdc46d14e1f\", \"databaseId\": null, \"standardId\": \"de0e9da90ef34210be1b13f7560bf6af\", \"standardCode\": \"GB/T 50283—1999\", \"standardName\": \"公路工程结构可靠度设计统一标准\", \"standardEnName\": \"Unified standard for reliability design of highway engineering structures\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.1.12 \", \"cnName\": \"统计参数\", \"enName\": \"statistical parameter\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 217289, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"统计参数\", \"cnNameSearch\": \"统计参数\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"statistical parameter\", \"wordSearch\": \"statistical parameter\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"一般指随机变量的数字特征 , 如平均值、标准差、变异系数等。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"25aaa203f7cb4e7b9b31b37a428cab4c\", \"databaseId\": null, \"standardId\": \"bae3b9a1b3d24762b69d0adc66dc7d70\", \"standardCode\": \"GB/T 42989—2023\", \"standardName\": \"人工影响天气术语\", \"standardEnName\": \"Terminology for weather modification\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"数学、自然科学\", \"termCode\": \"5.8\", \"cnName\": \"统计检验\", \"enName\": \"statistical test\", \"publishTime\": \"2023-09-07\", \"publishYear\": \"2023\", \"implementTime\": \"2024-01-01\", \"ics\": \"07.060\", \"ccs\": \"A 47\", \"parentTermId\": null, \"titleId\": null, \"oid\": 189655, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"统计检验\", \"cnNameSearch\": \"统计检验\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"statistical test\", \"wordSearch\": \"statistical test\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"运用统计学方法，对人工影响天气作业效果进行验证的活动。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"9c702b97ea9c430a9d5ac12c80868c7f\", \"databaseId\": null, \"standardId\": \"fd8ba3c01af8406c971eed2ff1121173\", \"standardCode\": \"GB/T 43097—2023\", \"standardName\": \"供热运营数据统计方法\", \"standardEnName\": \"Statistical methods for heating operation data\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"建筑材料和建筑物\", \"termCode\": \"3.12\", \"cnName\": \"统计周期\", \"enName\": \"statistical period\", \"publishTime\": \"2023-09-07\", \"publishYear\": \"2023\", \"implementTime\": \"2024-04-01\", \"ics\": \"91.140.10\", \"ccs\": \"P 46\", \"parentTermId\": null, \"titleId\": null, \"oid\": 246063, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"统计周期\", \"cnNameSearch\": \"统计周期\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"statistical period\", \"wordSearch\": \"statistical period\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"供热运营数据统计的时间区间。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"9b256fe63cb647aba417eb0eae1e1cd0\", \"databaseId\": null, \"standardId\": \"ebbc8a7b60834060a79c3935c8cd3f08\", \"standardCode\": \"GB/T 41261—2022\", \"standardName\": \"过程工业报警系统管理\", \"standardEnName\": \"Management of alarms systems for the process industries\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"机械制造\", \"termCode\": \"3.1.83\", \"cnName\": \"统计报警\", \"enName\": \"statistical alarm\", \"publishTime\": \"2022-03-09\", \"publishYear\": \"2022\", \"implementTime\": \"2022-10-01\", \"ics\": \"25.040 \", \"ccs\": \"N 19\", \"parentTermId\": null, \"titleId\": null, \"oid\": 230561, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"统计报警\", \"cnNameSearch\": \"统计报警\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"statistical alarm\", \"wordSearch\": \"statistical alarm\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"基于对一个或多个过程变量的统计处理而生成的报警。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"ef7c461639f04f9fa8c3be2f05c43023\", \"databaseId\": null, \"standardId\": \"248a379e34ea47209641fcb6df4dcb2c\", \"standardCode\": \"GB/T 6380—2019\", \"standardName\": \"数据的统计处理和解释 Ⅰ型极值分布样本离群值的判断和处理\", \"standardEnName\": \"Statistical interpretation of data—Detection and treatment of outliers in the sample from type Ⅰ extreme value distribution\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"社会学、服务、公司（企业）的组织和管理、行政、运输\", \"termCode\": \"3.1.5\", \"cnName\": \"统计离群值\", \"enName\": \"statistical outlier\", \"publishTime\": \"2019-12-10\", \"publishYear\": \"2019\", \"implementTime\": \"2020-07-01\", \"ics\": \"03.120.3003\", \"ccs\": \"A41\", \"parentTermId\": null, \"titleId\": null, \"oid\": 34422, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"统计离群值\", \"cnNameSearch\": \"统计离群值\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"statistical outlier\", \"wordSearch\": \"statistical outlier\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在剔除水平下统计检验显著的离群值。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"fc4a9e0cdf1a41a0aa31eb2abb38a462\", \"databaseId\": null, \"standardId\": \"e1c3a6d66866404687e43db2450712be\", \"standardCode\": \"GB/Z 26958.30—2017\", \"standardName\": \"产品几何技术规范（GPS） 滤波 第30部分：稳健轮廓滤波器 基本概念\", \"standardEnName\": \"Geometrical product specifications(GPS)—Filtration—Part 30: Robust profile filters—Basic concept\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"计量学和测量、物理现象\", \"termCode\": \"3.4\", \"cnName\": \"统计估计\", \"enName\": \"statistical estimator\", \"publishTime\": \"2017-02-28\", \"publishYear\": \"2017\", \"implementTime\": \"2017-09-01\", \"ics\": \"17.040.20\", \"ccs\": \"J 04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 221214, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"统计估计\", \"cnNameSearch\": \"统计估计\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"statistical estimator\", \"wordSearch\": \"statistical estimator\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"基于由总体抽取的样本数据作出的估计。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"08e92d9038e342349b0b04269b5d3843\", \"databaseId\": null, \"standardId\": \"9473168d6eac48c5a2889412d916e697\", \"standardCode\": \"GB/T 5080.1—2012\", \"standardName\": \"可靠性试验 第1部分：试验条件和统计检验原理\", \"standardEnName\": \"Reliability testing—Part 1: Test conditions and statistical test principles\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"社会学、服务、公司（企业）的组织和管理、行政、运输\", \"termCode\": \"3.1.28\", \"cnName\": \"风险（统计的）\", \"enName\": \"risk(statistical)\", \"publishTime\": \"2012-11-05\", \"publishYear\": \"2012\", \"implementTime\": \"2013-02-15\", \"ics\": \"03.120.10；03.120.30\", \"ccs\": \"L 05\", \"parentTermId\": null, \"titleId\": null, \"oid\": 157055, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"风险（统计的）\", \"cnNameSearch\": \"风险（统计的）\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"risk(statistical)\", \"wordSearch\": \"risk(statistical)\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在统计检验中作出错误决策的概率。错误决策或者是假设为真时而拒收零假设（第 Ⅰ 类错误，也叫作生产方风险，显著性水平 <em>α</em>），或者是假设为假时而接收零假设（第 Ⅱ 类错误，也可以叫做使用方风险，显著性水平 <em>β</em>）。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"e4b00b2d41614ad58babbcfd280dc523\", \"databaseId\": null, \"standardId\": \"8c57580bcd594be2b2516923ee4479ad\", \"standardCode\": \"GB/T 7400—2011\", \"standardName\": \"广播电视术语\", \"standardEnName\": \"Radio and television terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"3.1026\", \"cnName\": \"统计复用\", \"enName\": \"statistical multiplexing\", \"publishTime\": \"2011-12-30\", \"publishYear\": \"2011\", \"implementTime\": \"2012-06-01\", \"ics\": \"01.040.33\", \"ccs\": \"M 04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 148549, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"统计复用\", \"cnNameSearch\": \"统计复用\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"statistical multiplexing\", \"wordSearch\": \"statistical multiplexing\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"对于多节目复用系统，根据各路节目的统计特性动态分配各路节目的码率的方法，可以提高频带使用效率。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"f7372ffd7ff84046ac177f00c86b5481\", \"databaseId\": null, \"standardId\": \"b8079a3df7db41079e5bf2c2d3939bae\", \"standardCode\": \"GB/T 26270—2010\", \"standardName\": \"数字电视接收设备标准测试信号\", \"standardEnName\": \"Standard test signals for digital television receiving equipment\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电信、音频和视频工程\", \"termCode\": \"3.1.1\", \"cnName\": \"统计复用\", \"enName\": \"statistical multiplexing\", \"publishTime\": \"2011-01-14\", \"publishYear\": \"2011\", \"implementTime\": \"2011-06-01\", \"ics\": \"33.160.25\", \"ccs\": \"M74\", \"parentTermId\": null, \"titleId\": null, \"oid\": 187799, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"统计复用\", \"cnNameSearch\": \"统计复用\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"statistical multiplexing\", \"wordSearch\": \"statistical multiplexing\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"利用多路节目自身和多路节目之间的统计特点,在一定范围内动态分配和调整参与复用的比特流比特率的复用操作。\", \"footnote\": \"\", \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>统计复用旨在高效利用信道带宽，并使各路节目质量准最佳。</p>\"], \"refer\": [], \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"bfe4ed60b4d84f0c8ee52fc7c21f13fa\", \"databaseId\": null, \"standardId\": \"c76c3976adc6496ba5a0435095b46d9a\", \"standardCode\": \"GB/T 3358.2—2009\", \"standardName\": \"统计学词汇及符号第2部分：应用统计\", \"standardEnName\": \"Statistics—Vocabulary and symbols—Part 2: Applied statistics\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"社会学、服务、公司（企业）的组织和管理、行政、运输\", \"termCode\": \"2.1.3\", \"cnName\": \"统计方法\", \"enName\": \"statistical methods\", \"publishTime\": \"2009-10-15\", \"publishYear\": \"2009\", \"implementTime\": \"2010-02-01\", \"ics\": \"03.120.30\", \"ccs\": \"A41\", \"parentTermId\": null, \"titleId\": null, \"oid\": 199638, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"统计方法\", \"cnNameSearch\": \"统计方法\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"statistical methods\", \"wordSearch\": \"statistical methods\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"收集、分析和解释带随机性波动数据的方法。\", \"footnote\": \"\", \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>数据是指数字型或非数字型的事实或信息。</p>\"], \"refer\": [], \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 4}}, \"timestamp\": 1795341222459}"
+}

@@ -1,0 +1,89 @@
+{
+ "key": "mental phenomena",
+ "term": "mental phenomena",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-22T09:53:46+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=11",
+ "hits": [
+  {
+   "cn": "心理地图",
+   "en": "mental map",
+   "code": "GB/T 43518—2023",
+   "standard": "人类工效学 家居无障碍设计导则",
+   "subject": "环保、保健和安全"
+  },
+  {
+   "cn": "基波",
+   "en": "funda mental",
+   "code": "GB/T 15472—2012",
+   "standard": "失真度测量仪通用规范 ",
+   "subject": "计量学和测量、物理现象"
+  },
+  {
+   "cn": "天气现象",
+   "en": "weather phenomena",
+   "code": "GB/T 12763.3—2020",
+   "standard": "海洋调查规范 第3部分:海洋气象观测",
+   "subject": "数学、自然科学"
+  },
+  {
+   "cn": "流变现象",
+   "en": "rheological phenomena",
+   "code": "GB/T 5561—2012",
+   "standard": "表面活性剂用旋转式粘度计测定粘度和流动性质的方法",
+   "subject": "化工技术"
+  },
+  {
+   "cn": "持续现象（持续骚扰）",
+   "en": "continuous phenomena",
+   "code": "GB/T 22451—2008",
+   "standard": "无线通信设备电磁兼容性通用要求",
+   "subject": "电信、音频和视频工程"
+  },
+  {
+   "cn": "瞬态现象（瞬态骚扰）",
+   "en": "transient phenomena",
+   "code": "GB/T 22451—2008",
+   "standard": "无线通信设备电磁兼容性通用要求",
+   "subject": "电信、音频和视频工程"
+  },
+  {
+   "cn": "经行情志异常",
+   "en": "menstrual mental disorders",
+   "code": "GB/T 42467.6—2023",
+   "standard": "中医临床名词术语 第6部分：妇科学",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "不良工程地质条件",
+   "en": "undesirable geologic phenomena",
+   "code": "GB/T 51300—2018",
+   "standard": "非煤矿山井巷工程施工组织设计标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "相关现象的定义",
+   "en": "phenomena related definitions",
+   "code": "GB/Z 17625.13—2020",
+   "standard": "电磁兼容 限值 接入中压、高压、超高压电力系统的不平衡设施发射限值的评估",
+   "subject": "电信、音频和视频工程"
+  },
+  {
+   "cn": "地象异常",
+   "en": "natural phenomena anomaly",
+   "code": "GB/T 18208.3—2011",
+   "standard": "地震现场工作 第3部分：调查规范 ",
+   "subject": "建筑材料和建筑物"
+  },
+  {
+   "cn": "单粒子事件",
+   "en": "single event phenomena",
+   "code": "GB/T 39343—2020",
+   "standard": "宇航用处理器器件单粒子试验设计与程序",
+   "subject": "航空器和航天器工程"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2023\": 2, \"2020\": 3, \"2012\": 2, \"2011\": 1, \"2008\": 2, \"暂无年份\": 1}, \"sourceStats\": {\"计量学和测量、物理现象\": 1, \"航空器和航天器工程\": 1, \"综合、术语学、标准化、文献\": 1, \"电信、音频和视频工程\": 3, \"环保、保健和安全\": 1, \"数学、自然科学\": 1, \"建筑材料和建筑物\": 1, \"化工技术\": 1, \"其它\": 1}, \"typeStats\": {\"7\": 11}, \"totalRecords\": 11, \"tmWordList\": [{\"id\": \"d0b2d659684f4d048ab3095ee9606365\", \"databaseId\": null, \"standardId\": \"b0fd3a9718f843baba2382e74899bd2b\", \"standardCode\": \"GB/T 43518—2023\", \"standardName\": \"人类工效学 家居无障碍设计导则\", \"standardEnName\": \"Ergonomics—Guidelines for accessible design of home\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"环保、保健和安全\", \"termCode\": \"3.7\", \"cnName\": \"心理地图\", \"enName\": \"mental map\", \"publishTime\": \"2023-12-28\", \"publishYear\": \"2023\", \"implementTime\": \"2024-07-01\", \"ics\": \"13.180\", \"ccs\": \"A25\", \"parentTermId\": null, \"titleId\": null, \"oid\": 182302, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"心理地图\", \"cnNameSearch\": \"心理地图\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"mental map\", \"wordSearch\": \"mental map\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"视力残疾人为了顺利到达目的地，熟记行走路线以及沿途标记物和线索而形成的印象路线图。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"0e517f7b184440869acf6985dfd1cdd9\", \"databaseId\": null, \"standardId\": \"2bf475404e79473f934bcf21aac5bbb8\", \"standardCode\": \"GB/T 15472—2012\", \"standardName\": \"失真度测量仪通用规范 \", \"standardEnName\": \"General specification for distortion measure instrument\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"计量学和测量、物理现象\", \"termCode\": \"3.1\", \"cnName\": \"基波\", \"enName\": \"funda mental\", \"publishTime\": \"2012-12-31\", \"publishYear\": \"2012\", \"implementTime\": \"2013-06-01\", \"ics\": \"ICS 17.220\", \"ccs\": \"L 85\", \"parentTermId\": null, \"titleId\": null, \"oid\": 45581, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"基波\", \"cnNameSearch\": \"基波\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"funda mental\", \"wordSearch\": \"funda mental\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"非正弦波周期信号通过傅里叶级数变换分析，它是由若干个振幅不同、频率不同的正弦波信号组成<br>的。其中与非正弦波信号频率相同的信号称为基波信号，其频率称为基波频率。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"88230f4a3b45440e96c9e732ce06e2a7\", \"databaseId\": null, \"standardId\": \"00137f378f68443e9ec5ec1eb83bcf6a\", \"standardCode\": \"GB/T 12763.3—2020\", \"standardName\": \"海洋调查规范 第3部分:海洋气象观测\", \"standardEnName\": \"Specifications for oceanographic survey-\\nPart 3: Marine meteorological observations\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"数学、自然科学\", \"termCode\": \"3.7\", \"cnName\": \"天气现象\", \"enName\": \"weather phenomena\", \"publishTime\": \"2020-12-14\", \"publishYear\": \"2020\", \"implementTime\": \"2021-07-01\", \"ics\": \"07.060\", \"ccs\": \"A 45\", \"parentTermId\": null, \"titleId\": null, \"oid\": 93, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"天气现象\", \"cnNameSearch\": \"天气现象\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"weather phenomena\", \"wordSearch\": \"weather phenomena\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"大气中、海面及船体(或其他建筑物)上,产生的或出现的降水、水汽凝结物(云除外)、冻结物、干质悬浮物和光、电的现象,也包括一些风的特征。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"8d62641247ae4b4db9d4476632a0e623\", \"databaseId\": null, \"standardId\": \"a3dcbe760cfc4bce83ea1b3781e07028\", \"standardCode\": \"GB/T 5561—2012\", \"standardName\": \"表面活性剂用旋转式粘度计测定粘度和流动性质的方法\", \"standardEnName\": \"Surface active agents-Determination of viscosity and flow properties using a rotational viscometer\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"化工技术\", \"termCode\": \"2.2\", \"cnName\": \"流变现象\", \"enName\": \"rheological phenomena\", \"publishTime\": \"2012-12-31\", \"publishYear\": \"2012\", \"implementTime\": \"2013-08-01\", \"ics\": \"71.100.4071\", \"ccs\": \"G72\", \"parentTermId\": null, \"titleId\": null, \"oid\": 168497, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"流变现象\", \"cnNameSearch\": \"流变现象\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"rheological phenomena\", \"wordSearch\": \"rheological phenomena\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"流变现象是由限定的剪切应力来描述的。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>流体的流动规律参见附录A。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"7ca1f4a7372341c4a0f0add54c31a732\", \"databaseId\": null, \"standardId\": \"232e8dcd8ce54c558c99389aba5482fc\", \"standardCode\": \"GB/T 22451—2008\", \"standardName\": \"无线通信设备电磁兼容性通用要求\", \"standardEnName\": \"Common requirements of electromagnetic compatibility for radio communication equipment\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电信、音频和视频工程\", \"termCode\": \"3.1.15\", \"cnName\": \"持续现象（持续骚扰）\", \"enName\": \"continuous phenomena\", \"publishTime\": \"2008-10-07\", \"publishYear\": \"2008\", \"implementTime\": \"2009-04-01\", \"ics\": \"33.100\", \"ccs\": \"L 06\", \"parentTermId\": null, \"titleId\": null, \"oid\": 33584, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"持续现象（持续骚扰）\", \"cnNameSearch\": \"持续现象（持续骚扰）\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"continuous phenomena\", \"wordSearch\": \"continuous phenomena\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"对某一特定设备造成的效应不能明确区别为一系列效应的骚扰。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"e4495a4d968e4bc3ac10cec9aae210d3\", \"databaseId\": null, \"standardId\": \"232e8dcd8ce54c558c99389aba5482fc\", \"standardCode\": \"GB/T 22451—2008\", \"standardName\": \"无线通信设备电磁兼容性通用要求\", \"standardEnName\": \"Common requirements of electromagnetic compatibility for radio communication equipment\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电信、音频和视频工程\", \"termCode\": \"3.1.16\", \"cnName\": \"瞬态现象（瞬态骚扰）\", \"enName\": \"transient phenomena\", \"publishTime\": \"2008-10-07\", \"publishYear\": \"2008\", \"implementTime\": \"2009-04-01\", \"ics\": \"33.100\", \"ccs\": \"L 06\", \"parentTermId\": null, \"titleId\": null, \"oid\": 33588, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"瞬态现象（瞬态骚扰）\", \"cnNameSearch\": \"瞬态现象（瞬态骚扰）\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"transient phenomena\", \"wordSearch\": \"transient phenomena\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在两个相邻的稳定状态之间变化的物理现象或物理量,变化时间小于所关注的时间尺度。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"67563142d2ea4aadbac265f9e79e7378\", \"databaseId\": null, \"standardId\": \"21c100bf4ccb44a484e83bdf5595dabd\", \"standardCode\": \"GB/T 42467.6—2023\", \"standardName\": \"中医临床名词术语 第6部分：妇科学\", \"standardEnName\": \"Clinical terminology of traditional Chinese medicine—Part 6：Gynecology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"4.12\", \"cnName\": \"经行情志异常\", \"enName\": \"menstrual mental disorders\", \"publishTime\": \"2023-03-17\", \"publishYear\": \"2023\", \"implementTime\": \"2023-03-17\", \"ics\": \"01.040.11\", \"ccs\": \"C 10\", \"parentTermId\": null, \"titleId\": null, \"oid\": 32147, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"经行情志异常\", \"cnNameSearch\": \"经行情志异常\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"menstrual mental disorders\", \"wordSearch\": \"menstrual mental disorders\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"以经前、经期出现周期性烦躁易怒，情志抑郁，悲伤欲哭，坐卧不宁，经后又复如常人为特征的月经病。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"73422df7dc9646fb9624413c8796839a\", \"databaseId\": null, \"standardId\": \"2502ee2454954f4e8c0d013bef49eb9e\", \"standardCode\": \"GB/T 51300—2018\", \"standardName\": \"非煤矿山井巷工程施工组织设计标准\", \"standardEnName\": \"Standard for construction organization design of sinking and drifting engineering of non-coal mines\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.10\", \"cnName\": \"不良工程地质条件\", \"enName\": \"undesirable geologic phenomena\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 34571, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"不良工程地质条件\", \"cnNameSearch\": \"不良工程地质条件\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"undesirable geologic phenomena\", \"wordSearch\": \"undesirable geologic phenomena\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"对井巷工程施工可能造成不利影响的断层、破碎带、岩溶、流沙层、软弱地层等地质条件的统称。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"b103e75774ea49ebb1b34c1b84a2b006\", \"databaseId\": null, \"standardId\": \"28c1271a0bca442084cf6dc9f185d55c\", \"standardCode\": \"GB/Z 17625.13—2020\", \"standardName\": \"电磁兼容 限值 接入中压、高压、超高压电力系统的不平衡设施发射限值的评估\", \"standardEnName\": \"Electromagnetic  compatibility—Limits—Assessment of emission limits for the connection of unbalanced installations to MV,HV and EHV power systems\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电信、音频和视频工程\", \"termCode\": \"3.26\", \"cnName\": \"相关现象的定义\", \"enName\": \"phenomena related definitions\", \"publishTime\": \"2020-11-19\", \"publishYear\": \"2020\", \"implementTime\": \"2021-06-01\", \"ics\": \"33.100.10\", \"ccs\": \"L 06\", \"parentTermId\": null, \"titleId\": null, \"oid\": 38702, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"相关现象的定义\", \"cnNameSearch\": \"相关现象的定义\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"phenomena related definitions\", \"wordSearch\": \"phenomena related definitions\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"下<span style=\\\"font-family: &quot;Times New Roman&quot;;\\\">面关于不平衡的相关定义基于系统电压或电流的序分量变换矩阵以及离散傅里叶变换(DFT)。DFT 用</span>于提取基波分量以便进行不平衡度的分析。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p><span style=\\\"font-family: &quot;Times New Roman&quot;;\\\">DFT是傅里叶变换的实际应用,参见IEC 60050-101:1998中定义13-09。</span></p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"3beed0e1926a476e93e8ab09a500f3e3\", \"databaseId\": null, \"standardId\": \"0ab44094998b4d34b394e3029412a309\", \"standardCode\": \"GB/T 18208.3—2011\", \"standardName\": \"地震现场工作 第3部分：调查规范 \", \"standardEnName\": \"Post—earthquake field works— Part 3: Code for field survey\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"建筑材料和建筑物\", \"termCode\": \"3.9\", \"cnName\": \"地象异常\", \"enName\": \"natural phenomena anomaly\", \"publishTime\": \"2011-12-30\", \"publishYear\": \"2011\", \"implementTime\": \"2012-03-01\", \"ics\": \"91.120.25\", \"ccs\": \"P 15\", \"parentTermId\": null, \"titleId\": null, \"oid\": 9821, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"地象异常\", \"cnNameSearch\": \"地象异常\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"natural phenomena anomaly\", \"wordSearch\": \"natural phenomena anomaly\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"人们观察到的声、光、电、气、火、磁等自然奇异现象。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"01a0f2499acd495da131ba5f28039953\", \"databaseId\": null, \"standardId\": \"efcf8e27529a402a9bfce756b47ca168\", \"standardCode\": \"GB/T 39343—2020\", \"standardName\": \"宇航用处理器器件单粒子试验设计与程序\", \"standardEnName\": \"Process or device single event effects experiment design and procedure for aerospace\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"航空器和航天器工程\", \"termCode\": \"3.1.3  \", \"cnName\": \"单粒子事件\", \"enName\": \"single event phenomena\", \"publishTime\": \"2020-11-19\", \"publishYear\": \"2020\", \"implementTime\": \"2021-06-01\", \"ics\": \"49.03549\", \"ccs\": \"V25\", \"parentTermId\": null, \"titleId\": null, \"oid\": 235349, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"单粒子事件\", \"cnNameSearch\": \"单粒子事件\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"single event phenomena\", \"wordSearch\": \"single event phenomena\"}, {\"languageType\": 1, \"word\": \"SEP\", \"wordSearch\": \"SEP\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"由单个高能粒子撞击引发的半导体器件一系列响应的统称,包括中子、质子引起的效应。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1795341227064}"
+}

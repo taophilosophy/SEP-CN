@@ -1,0 +1,812 @@
+{
+ "key": "book of changes",
+ "term": "Book of Changes",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-22T13:33:17+00:00",
+ "status": "ok",
+ "note": "variant=Book of Changes; 审定公布名词库=10000; 海峡两岸名词对照库=8063; 其他来源数据库=1928; 预公布名词数据库=2729; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "图书",
+   "en": "book",
+   "source": "编辑与出版学名词",
+   "wordNumber": "07.02.001",
+   "subjectFullName": "编辑与出版学_出版物_图书",
+   "subjectName": "图书",
+   "publishYear": "2022",
+   "definition": "用文字或图画、符号等记录知识于纸张等载体，并具有相当篇幅的非连续出版物。"
+  },
+  {
+   "cn": "图书",
+   "en": "book",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.049",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_文献类型",
+   "subjectName": "文献类型",
+   "publishYear": "2019",
+   "definition": "用文字、图画或其他信息符号，手写或印刷于纸张等载体上，具有相当篇幅，用来表达思想并制成卷册的著作物。"
+  },
+  {
+   "cn": "图书",
+   "en": "book",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0382",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_图书情报档案领域",
+   "subjectName": "图书情报档案领域",
+   "publishYear": "2016",
+   "definition": "由出版社(商)出版的不包括封面和封底在内49页以上的印刷品，具有特定的书名和著者名，编有国际标准书号，有定价并取得版权保护的出版物。"
+  },
+  {
+   "cn": "书籍史",
+   "en": "history of books",
+   "source": "编辑与出版学名词",
+   "wordNumber": "01.04.009",
+   "subjectFullName": "编辑与出版学_综论_编辑出版史",
+   "subjectName": "编辑出版史",
+   "publishYear": "2022",
+   "definition": "研究书籍内容和形态的变迁，以及人类借以交流、传播的社会文化史。"
+  },
+  {
+   "cn": "书厄",
+   "en": "destruction of books ",
+   "source": "编辑与出版学名词",
+   "wordNumber": "01.04.029",
+   "subjectFullName": "编辑与出版学_综论_编辑出版史",
+   "subjectName": "编辑出版史",
+   "publishYear": "2022",
+   "definition": "中国古代大规模毁书事件。"
+  },
+  {
+   "cn": "图书清单",
+   "en": "list of books",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.04.048",
+   "subjectFullName": "编辑与出版学_发行与经营_发行物流",
+   "subjectName": "发行物流",
+   "publishYear": "2022",
+   "definition": "某批图书的明细，含有代号、书名、单价、册数、套数、码洋、包号等。"
+  },
+  {
+   "cn": "图书病害学",
+   "en": "pathology of books",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.571",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_文献保护",
+   "subjectName": "文献保护",
+   "publishYear": "2019",
+   "definition": "从病虫害的角度研究书籍破损等异常状态的发生发展规律、预防和治理理论的科学。"
+  },
+  {
+   "cn": "图书史",
+   "en": "history of books",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "08.001",
+   "subjectFullName": "图书馆·情报与文献学_文献学_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "从历史的角度揭示图书产生和发展变化过程及相关文化现象的学科。"
+  },
+  {
+   "cn": "图书质量",
+   "en": "quality of a book;book quality",
+   "source": "编辑与出版学名词",
+   "wordNumber": "01.03.086",
+   "subjectFullName": "编辑与出版学_综论_出版基础",
+   "subjectName": "出版基础",
+   "publishYear": "2022",
+   "definition": "图书的品质。包括内容质量、编校质量、设计质量、印制质量等。"
+  },
+  {
+   "cn": "旧书",
+   "en": "(1)worn book (2)ancient book (3)secondhand book,used book",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.063",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_文献类型",
+   "subjectName": "文献类型",
+   "publishYear": "2019",
+   "definition": "（1）外观上破旧的书。（2）出版年代久远的书，尤其指线装书。（3）已使用过的二手书。"
+  },
+  {
+   "cn": "图书评介",
+   "en": "book review,book report,book appraisal",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "07.228",
+   "subjectFullName": "图书馆·情报与文献学_信息服务与用户研究_其他服务形式",
+   "subjectName": "其他服务形式",
+   "publishYear": "2019",
+   "definition": "对图书的内容、特点等进行介绍、分析、评论的行为。  "
+  },
+  {
+   "cn": "禁书",
+   "en": "prohibited book,banned book,suppressed book",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.064",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_文献类型",
+   "subjectName": "文献类型",
+   "publishYear": "2019",
+   "definition": "被教会、当局或非官方的团体组织禁止出版或者销售的图书。其内容被认为具有反抗性或威胁性。"
+  },
+  {
+   "cn": "变更",
+   "en": "change",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "12.030",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_化工安全",
+   "subjectName": "化工安全",
+   "publishYear": "2024",
+   "definition": "人员、物料、管理、工艺、技术、设施、标准等永久性或暂时性的变化。"
+  },
+  {
+   "cn": "变更",
+   "en": "change",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0192",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_整体管理",
+   "subjectName": "整体管理",
+   "publishYear": "2016",
+   "definition": "实施过程中出现的需要修正的偏差。"
+  },
+  {
+   "cn": "变化",
+   "en": "change",
+   "source": "放射医学与防护名词",
+   "wordNumber": "07.014",
+   "subjectFullName": "放射医学与防护_放射生物学_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2014",
+   "definition": "辐射照射引起的轻微效应。其可能有害，也可能无害。"
+  },
+  {
+   "cn": "相变",
+   "en": "change of facies",
+   "source": "地质学名词",
+   "wordNumber": "05.05.008",
+   "subjectFullName": "地质学_沉积学与沉积岩岩石学_沉积环境与沉积相",
+   "subjectName": "沉积环境与沉积相",
+   "publishYear": "2026",
+   "definition": "沉积环境的改变，引起组成岩石的沉积特征、生物特征、岩石地球化学特征等在纵向与横向上的变化。"
+  },
+  {
+   "cn": "变更通知单",
+   "en": "notice of change",
+   "source": "风景园林名词",
+   "wordNumber": "03.0290",
+   "subjectFullName": "风景园林_风景园林管理_工程项目管理",
+   "subjectName": "工程项目管理",
+   "publishYear": "2025",
+   "definition": "项目变更的书面通知。"
+  },
+  {
+   "cn": "变更管理",
+   "en": "management of change",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "12.031",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_化工安全",
+   "subjectName": "化工安全",
+   "publishYear": "2024",
+   "definition": "对变更进行的有计划的控制。"
+  },
+  {
+   "cn": "换粮",
+   "en": "change of grain",
+   "source": "地方病学名词",
+   "wordNumber": "03.082",
+   "subjectFullName": "地方病学_大骨节病_预防与监测",
+   "subjectName": "预防与监测",
+   "publishYear": "2016",
+   "definition": "针对病区产粮食中含有致病物质，采用改换病区食粮来源和种类的方法，预防大骨节病发生的主要措施。"
+  },
+  {
+   "cn": "变量变换",
+   "en": "change of variable",
+   "source": "数学名词",
+   "wordNumber": "05.0153",
+   "subjectFullName": "数学_分析学_分析学基础·实分析",
+   "subjectName": "分析学基础?实分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "订舱",
+   "en": "booking",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "变更卸货港",
+   "en": "change of destination",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "状态变化",
+   "en": "change of state",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "地界变更",
+   "en": "change of boundary",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "转潮",
+   "en": "change of tide",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "车钟记录簿",
+   "en": "telegraph book\",\"bell book",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "可接受的改变限度",
+   "en": "limit of acceptable change\",\"limit of acceptable change   建議刪除",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "账面价值",
+   "en": "book value",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "马利纳曲集",
+   "en": "Mulliner Book",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Mulliner, Thomas "
+  },
+  {
+   "cn": "结账",
+   "en": "closing book",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "决算",
+   "en": "closing book",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "商品销售账",
+   "en": "merchandise book",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "测深手簿",
+   "en": "sounding book",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "手簿",
+   "en": "record book",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "外业手簿",
+   "en": "field book",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "橘皮书",
+   "en": "orange book",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "书肺",
+   "en": "book-lung",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "舱位登记簿",
+   "en": "space book",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "航海日志",
+   "en": "log book",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "指南",
+   "en": "guide book",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "交换场地",
+   "en": "change ends\",\"change of sides",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "交换场地",
+   "en": "change ends\",\"change of ends",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "交换场地",
+   "en": "change of court\",\"change sides",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "变化",
+   "en": "Change",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "交换场地",
+   "en": "change of sides",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "改变节奏",
+   "en": "change of pace",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "改变节奏",
+   "en": "change of pace",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "交换场地",
+   "en": "change of ends",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "换车",
+   "en": "change of cycle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "改变节奏",
+   "en": "change of pace",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "交换场地",
+   "en": "change of ends",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "多次转移",
+   "en": "change of engagement",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "变速",
+   "en": "change of speed",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "改变步法",
+   "en": "change of pace",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "变换方向",
+   "en": "change of direction",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "变换动作",
+   "en": "change of figure",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "交换发球权",
+   "en": "change of service",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "旋转变化",
+   "en": "change of spin",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "交换场地",
+   "en": "change of ends",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "交换发球队员",
+   "en": "change of server",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "变迁",
+   "en": "change",
+   "source": "社会学名词",
+   "wordNumber": "3.13.4.3",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的核心概念范畴",
+   "subjectName": "历史社会学的核心概念范畴",
+   "publishYear": "2025",
+   "definition": "描述一切事物的运动变化，而不强调其目的或方向。"
+  },
+  {
+   "cn": "人口变动",
+   "en": "demographic change,population change",
+   "source": "社会学名词",
+   "wordNumber": "4.5.6.1",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_人口变动",
+   "subjectName": "人口变动",
+   "publishYear": "2025",
+   "definition": "人口状况受社会、经济、人口自身等各方面因素的影响，随着时间的推移而不断发生变动。人口变动可分为自然变动、迁移变动和社会变动，它们分别反映人口变动过程的不同侧面。"
+  },
+  {
+   "cn": "人口机械变动",
+   "en": "mechanical changes of popualtion",
+   "source": "社会学名词",
+   "wordNumber": "4.5.6.3",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_人口变动",
+   "subjectName": "人口变动",
+   "publishYear": "2025",
+   "definition": "人口在空间位置上的一切移动。从广义上讲，包括改变定居地点的永久性移动，也包括临时寄居和暂时移动；从狭义上讲，仅指改变常住地址的永久性移动。"
+  },
+  {
+   "cn": "呼吸功能改变",
+   "en": "changes of respiratory function",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.5.2.3",
+   "subjectFullName": "军事预防医学_热区军事卫生_高温作业机体变化",
+   "subjectName": "高温作业机体变化",
+   "publishYear": "2025",
+   "definition": "高温作业引起呼吸频率和肺通气增高，促进气体交换和肺蒸发散热。"
+  },
+  {
+   "cn": "社会变迁理论",
+   "en": "theory of social change",
+   "source": "社会学名词",
+   "wordNumber": "2.9.5.1",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_社会变迁理论",
+   "subjectName": "社会变迁理论",
+   "publishYear": "2025",
+   "definition": "研究社会结构性变动的动力、模式或类型等问题的理论。"
+  },
+  {
+   "cn": "人口自然变动",
+   "en": "natural change of population",
+   "source": "社会学名词",
+   "wordNumber": "4.5.6.2",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_人口变动",
+   "subjectName": "人口变动",
+   "publishYear": "2025",
+   "definition": "由出生和死亡所引起的人口数量的增减和人口年龄、性别构成变化的过程。"
+  },
+  {
+   "cn": "身体比例变化",
+   "en": "change of body proportion",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体格发育",
+   "subjectName": "体格发育",
+   "publishYear": "2025",
+   "definition": "身体发育过程中头占身长（身高）的比例、上肢占身长（身高）的比例、坐高占身长（身高）的比例和腰臀比、腰高比、肩宽／骨盆宽的变化。"
+  },
+  {
+   "cn": "组织改变理论模型",
+   "en": "theory of organizational change",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育理论与模式",
+   "subjectName": "学校健康教育理论与模式",
+   "publishYear": "2025",
+   "definition": "通过人群所在组织的改变、规章制度和管理模式的完善，实现对组织内的全体人群的干预的理论。"
+  },
+  {
+   "cn": "跨理论模型",
+   "en": "stages of change theory",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.5.9",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_生活技能教育",
+   "subjectName": "生活技能教育",
+   "publishYear": "2025",
+   "definition": "普罗查斯卡（Prochaska）和狄克莱门特（DiClemente）针对个体行为变化的不同阶段而提出的，指导人们根据行为转变的特定阶段采取针对性健康干预策略的综合性理论。"
+  },
+  {
+   "cn": "可视变化",
+   "en": "visible change",
+   "source": "消毒学",
+   "wordNumber": "3.1.4.4.3",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "指示物暴露于一个或多个过程关键变量后，肉眼可观测到的变化。"
+  },
+  {
+   "cn": "社会变迁",
+   "en": "social change",
+   "source": "社会学名词",
+   "wordNumber": "2.9.6.1",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_社会变迁",
+   "subjectName": "社会变迁",
+   "publishYear": "2025",
+   "definition": "社会的结构性变动。"
+  },
+  {
+   "cn": "内生变迁",
+   "en": "endogenuous change",
+   "source": "社会学名词",
+   "wordNumber": "3.13.4.41",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的核心概念范畴",
+   "subjectName": "历史社会学的核心概念范畴",
+   "publishYear": "2025",
+   "definition": "根源于内部因素的演变及其互动而产生的制度变迁。在此，制度变迁被看作社会发展的内在结果，外部条件（例如人口和环境）的变化只有通过内部因素的影响才能加速或延缓制度的变迁过程。"
+  },
+  {
+   "cn": "外生变迁",
+   "en": "exogenuous change",
+   "source": "社会学名词",
+   "wordNumber": "3.13.4.42",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的核心概念范畴",
+   "subjectName": "历史社会学的核心概念范畴",
+   "publishYear": "2025",
+   "definition": "由一些不属于制度的外部社会因素变化引起的具体制度的变迁。这些因素是在长期演化过程中累积而成的，可以是经济的，也可以是政治的、军事的、乃至观念的，如人口的增长和迁移、技术的进步、宗教的兴起和文化的传播等"
+  },
+  {
+   "cn": "态度改变",
+   "en": "attitude change",
+   "source": "社会学名词",
+   "wordNumber": "4.1.15.4",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会态度",
+   "subjectName": "社会态度",
+   "publishYear": "2025",
+   "definition": "一个人已经形成的态度在接受某一信息后所发生的相应变化的过程。一种是一致性的改变，指方向不变而仅仅改变原来态度的强度，如由微弱态度变为强烈的态度。另一种是不一致的改变，指以性质相反的新态度取代原有旧态度"
+  },
+  {
+   "cn": "文化变迁",
+   "en": "cultural change",
+   "source": "社会学名词",
+   "wordNumber": "4.2.9.1",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化现象",
+   "subjectName": "文化现象",
+   "publishYear": "2025",
+   "definition": "社会的文化模式发生变化的现象。此概念针对“文化模式”和“平衡论”失去活力或平衡的现象而言，其机制分为内部变迁（如发明和革新）与外部变迁（如征服和灾害）。"
+  },
+  {
+   "cn": "质变",
+   "en": "qualitative change",
+   "source": "马克思主义",
+   "wordNumber": "01.0077",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“量变”相对。事物根本性质发生的突变，即一种质态向另一种质态的飞跃，事物发展渐进过程中的中断。它是事物的内部矛盾引起的，是量变发展到一定阶段的必然产物。质变是事物发展的关键环节。通过质变，旧事物灭亡"
+  },
+  {
+   "cn": "量变",
+   "en": "quantitive change",
+   "source": "马克思主义",
+   "wordNumber": "01.0082",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“质变”相对。事物在数量上的增加或减少，场所改变等方面的变化。是事物运动的基本状态之一。量变的形式是多样的，可以概括为两个基本形式：一是数量上的增减；二是构成事物的要素在排列次序和结构形式上的改变。"
+  },
+  {
+   "cn": "语言演变",
+   "en": "language change",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0103",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "语言随着时间推移、社会变迁而发生的语音、词汇、语法等结构变化，即语言的历时变化。"
+  },
+  {
+   "cn": "消毒产品说明书",
+   "en": "instruction book of disinfection product",
+   "source": "消毒学",
+   "wordNumber": "5.2.5.4",
+   "subjectFullName": "消毒学_监督管理_产品监管",
+   "subjectName": "产品监管",
+   "publishYear": "2025",
+   "definition": "应用文字、数字、符号、图案、表格等方式，对某一消毒产品性能、使用范围、使用方法、注意事项等内容进行具体介绍的文件。"
+  },
+  {
+   "cn": "书本上的法",
+   "en": "law in book",
+   "source": "社会学名词",
+   "wordNumber": "3.7.6.15",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律的演化",
+   "subjectName": "法律的演化",
+   "publishYear": "2025",
+   "definition": "国家制定或认可的、以成文形式出现但未必被人们实际遵循的规范。与行动中的法相对应。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,742 @@
+{
+ "key": "banach-tarski paradox",
+ "term": "Banach-Tarski paradox",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-21T13:49:02+00:00",
+ "status": "ok",
+ "note": "variant=Banach-Tarski paradox; 审定公布名词库=1438; 海峡两岸名词对照库=912; 其他来源数据库=55; 预公布名词数据库=43; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "悖论",
+   "en": "paradox",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.161",
+   "subjectFullName": "自然辩证法_科学技术方法论_分析与推理",
+   "subjectName": "分析与推理",
+   "publishYear": "2024",
+   "definition": "导致矛盾的命题。这样一种命题，按普遍认可的逻辑推理方式，可推导出两个对立的结论。"
+  },
+  {
+   "cn": "佯谬",
+   "en": "paradox",
+   "source": "物理学名词",
+   "wordNumber": "01.0174",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "悖论",
+   "en": "paradox",
+   "source": "数学名词",
+   "wordNumber": "01.0022",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "巴拿赫空间",
+   "en": "Banach space",
+   "source": "数学名词",
+   "wordNumber": "07.0117",
+   "subjectFullName": "数学_泛函分析_泛函分析基础",
+   "subjectName": "泛函分析基础",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "巴拿赫代数",
+   "en": "Banach algebra",
+   "source": "数学名词",
+   "wordNumber": "07.0265",
+   "subjectFullName": "数学_泛函分析_巴拿赫代数",
+   "subjectName": "巴拿赫代数",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "巴拿赫*代数",
+   "en": "Banach*-algebra",
+   "source": "数学名词",
+   "wordNumber": "07.0265",
+   "subjectFullName": "数学_泛函分析_巴拿赫代数",
+   "subjectName": "巴拿赫代数",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "巴拿赫流形",
+   "en": "Banach manifold",
+   "source": "数学名词",
+   "wordNumber": "07.0375",
+   "subjectFullName": "数学_泛函分析_非线性泛函分析",
+   "subjectName": "非线性泛函分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "巴拿赫格",
+   "en": "Banach lattice",
+   "source": "数学名词",
+   "wordNumber": "07.0130",
+   "subjectFullName": "数学_泛函分析_泛函分析基础",
+   "subjectName": "泛函分析基础",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "自反巴拿赫空间",
+   "en": "reflexive Banach space",
+   "source": "数学名词",
+   "wordNumber": "07.0120",
+   "subjectFullName": "数学_泛函分析_泛函分析基础",
+   "subjectName": "泛函分析基础",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "超自反巴拿赫空间",
+   "en": "superreflexive Banach space",
+   "source": "数学名词",
+   "wordNumber": "07.0122",
+   "subjectFullName": "数学_泛函分析_泛函分析基础",
+   "subjectName": "泛函分析基础",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "交换巴拿赫代数",
+   "en": "commutative Banach algebra",
+   "source": "数学名词",
+   "wordNumber": "07.0267",
+   "subjectFullName": "数学_泛函分析_巴拿赫代数",
+   "subjectName": "巴拿赫代数",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "对顶",
+   "en": "oxymoron,paradox",
+   "source": "语言学名词",
+   "wordNumber": "08.146",
+   "subjectFullName": "语言学_修辞学_修辞方法",
+   "subjectName": "修辞方法",
+   "publishYear": "2011",
+   "definition": "修辞格的一种。逻辑上两个相互矛盾、对立和排斥的词、短语或分句巧妙地联结在一起，组成句子描述一个事物或说明一个道理。词或短语层次上的称为单句对顶，句子层次上的称为复句对顶。例如，“厂长刚五十岁，是个年轻"
+  },
+  {
+   "cn": "归纳悖论",
+   "en": "inductive paradox",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.089",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_归纳",
+   "subjectName": "归纳",
+   "publishYear": "2024",
+   "definition": "归纳逻辑中的悖论的总称。包括乌鸦悖论、绿蓝悖论等。"
+  },
+  {
+   "cn": "乌鸦悖论",
+   "en": "raven paradox",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.090",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_归纳",
+   "subjectName": "归纳",
+   "publishYear": "2024",
+   "definition": "“所有乌鸦都是黑色的”其等价命题是“所有不是黑色的东西都不是乌鸦”，但增加后者确信度的证据并不能同样地为前者提供支持，这意味着两个逻辑等价的命题可能拥有不同的确信程度。"
+  },
+  {
+   "cn": "绿蓝悖论",
+   "en": "grue paradox",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.092",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_归纳",
+   "subjectName": "归纳",
+   "publishYear": "2024",
+   "definition": "N. 古德曼（N. Goodman）定义了一个新的谓词“绿蓝色”（grue）：在时刻t之前x被观察到且为绿色或在时刻t之前x未被观察到且为蓝色。那么对于已有的如“迄今为止观察的翡翠都是绿色的”命题对“"
+  },
+  {
+   "cn": "抽彩悖论",
+   "en": "lottery paradox",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.093",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_归纳",
+   "subjectName": "归纳",
+   "publishYear": "2024",
+   "definition": "抽彩票游戏中，先设定一个阈值，如果认为任买一号彩票不中奖的概率都大于这一阈值，就合理地接受“这一号彩票不会中奖”，因此“没有彩票会中奖”就是合理的，这就与“有一张彩票会中奖”这个命题相矛盾。"
+  },
+  {
+   "cn": "数学悖论",
+   "en": "mathematical paradox",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.248",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "指一个自相矛盾的数学命题A，即在某个特定的理论背景下，可以证明A等价于A的否定。著名的悖论的例子是罗素悖论。另外，有些被称为悖论的数学命题，如斯科伦悖论，本质上并不是悖论。"
+  },
+  {
+   "cn": "末世悖论",
+   "en": "doomsday paradox",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.288",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "一个概率推理悖论。声称仅根据地球上迄今为止曾经出生的人口总数（假定1990年初为600亿人），就可以用贝叶斯主义的概率推理得出地球未来将要出生的人口总数<N的概率，而且在很大的概率（95%）下N<1."
+  },
+  {
+   "cn": "奥伯斯佯谬",
+   "en": "Olbers paradox",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.330",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_物理学哲学",
+   "subjectName": "物理学哲学",
+   "publishYear": "2024",
+   "definition": "认为如果宇宙是稳恒态、无限的，且有无数均匀分布的发光星体，那么星与星之间不应有黑暗的位置，即晚上应该是光亮的而不是黑暗的。"
+  },
+  {
+   "cn": "双生子佯谬",
+   "en": "twin paradox",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.355",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_物理学哲学",
+   "subjectName": "物理学哲学",
+   "publishYear": "2024",
+   "definition": "狭义相对论中的思想实验。实验中，双生子中的一人乘坐飞船以接近光速驶向遥远星系然后返回地球。佯谬在于飞船回到地球时为何是双生子中的旅行者更年轻而非留在地球上的人更年轻。佯谬是不当运用相对论效应的结果。"
+  },
+  {
+   "cn": "巴拿赫空间",
+   "en": "Banach space",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "光度佯谬",
+   "en": "luminosity paradox\",\"photometric paradox",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "奥伯斯佯谬",
+   "en": "Olbers paradox",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "西利格佯谬",
+   "en": "Seeliger paradox",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "引力佯谬",
+   "en": "gravitational paradox",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "里昂惕夫悖论",
+   "en": "Leontief paradox",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "异相睡眠",
+   "en": "paradoxical sleep",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "C值悖理，C值矛盾",
+   "en": "C value paradox",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "C值矛盾（=C值悖理）",
+   "en": "C value paradox",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "连接数悖理,连接数颠倒现象",
+   "en": "linking number paradox",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "基因数悖理",
+   "en": "gene number paradox",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "C值悖理,C值矛盾",
+   "en": "C value paradox",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "跗节",
+   "en": "tarsus\",\"tarsi(复)",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "睑板",
+   "en": "tarsal plate\",\"tarsus",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "睑板",
+   "en": "tarsal plate\",\"tarsus palpebrae",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "帕拉莫群落",
+   "en": "paramo",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "游行",
+   "en": "Parade",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Satie, Erik"
+  },
+  {
+   "cn": "帕拉莫群落",
+   "en": "paramo",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "帕拉莫群落",
+   "en": "paramo",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "岩滩",
+   "en": "bench\",\"rocky beach",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "数据悖论",
+   "en": "data paradox",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "辛普森悖论",
+   "en": "Simpson’s paradox",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "矛盾",
+   "en": "Paradox of the Spear and the Shield / Contradiction",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "列队行进",
+   "en": "parade",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "运动员入场式",
+   "en": "parade of the participants",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "大部队",
+   "en": "bunch\",\"compact bunch\",\"main bunch",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "替补队员席",
+   "en": "bench",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "防滑地面",
+   "en": "beach",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "防滑地面",
+   "en": "beach",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_游泳名词",
+   "subjectName": "游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "替补队员席",
+   "en": "bench",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "替补队员席",
+   "en": "bench",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "替补队员席",
+   "en": "bench",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "替补队员席",
+   "en": "bench",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "历史任务",
+   "en": "historical tasks",
+   "source": "马克思主义",
+   "wordNumber": "03.0105",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人类社会发展进程中需要完成的、具有重大现实作用和历史进步意义的使命或工作。历史任务通常是事关全局的，具有战略意义的重大任务。如无产阶级肩负着消灭阶级剥削和压迫、实现共产主义、解放全人类的历史使命。"
+  },
+  {
+   "cn": "《拉失德史》",
+   "en": "Tarikh-i-Rashidi",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0268",
+   "subjectFullName": "民族学与文化学_民族史_民族文化",
+   "subjectName": "民族文化",
+   "publishYear": "2025",
+   "definition": "明代波斯文西域史著作，详述14 世纪中叶至16 世纪中叶新疆和中亚的历史。作者为新疆喀什噶尔人米尔咱·马黑麻·海达尔（1499—1551）。"
+  },
+  {
+   "cn": "跗管综合征",
+   "en": "tarsal tunnel syndrome，TATS",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.8.20",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_风湿免疫病相关综合征",
+   "subjectName": "风湿免疫病相关综合征",
+   "publishYear": "2025",
+   "definition": "由位于踝关节内侧屈肌支持带覆盖的纤维骨性隧道内的胫后神经或其末梢分支（足内侧、足外侧和跟骨神经）受卡压后，导致的一系列足趾部症状的综合征。其临床主要表现为该部位的疼痛或感觉异常，一般存在于踝内侧及足底"
+  },
+  {
+   "cn": "第一要务",
+   "en": "primary task",
+   "source": "马克思主义",
+   "wordNumber": "03.0824",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中共二十大报告指出，高质量发展是全面建设社会主义现代化国家的首要任务。发展是党执政兴国的第一要务。"
+  },
+  {
+   "cn": "彝语支",
+   "en": "Yi branch",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0256",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族语言",
+   "subjectName": "少数民族语言",
+   "publishYear": "2025",
+   "definition": "汉藏语系藏缅语族的一个语支。包括彝语、哈尼语、傈僳语、拉祜语、纳西语、基诺语、卡卓语、桑孔语、毕苏语、怒苏语、柔若语等。在中国主要分布在云南、四川、贵州、广西4 省区，使用人口约1000 多万；在国外"
+  },
+  {
+   "cn": "占语支",
+   "en": "Chamic branch",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0354",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族语言",
+   "subjectName": "少数民族语言",
+   "publishYear": "2025",
+   "definition": "南岛语系印度尼西亚语族的一个语支。分布在越南、柬埔寨等国，中国海南省三亚市回族使用的回辉语属于这个语支。"
+  },
+  {
+   "cn": "羌语支",
+   "en": "Qiang branch",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0246",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族语言",
+   "subjectName": "少数民族语言",
+   "publishYear": "2025",
+   "definition": "汉藏语系藏缅语族的一个语支。包括羌语、嘉戎语、普米语、尔龚语、拉坞戎语、却域语、扎坝语、木雅语、尔苏语、史兴语、贵琼语、纳木依语等。主要分布在云南省、四川省以及西藏自治区。"
+  },
+  {
+   "cn": "通古斯语支",
+   "en": "Tungusic branch",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0321",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族语言",
+   "subjectName": "少数民族语言",
+   "publishYear": "2025",
+   "definition": "阿尔泰语系满-通古斯语族的一个语支。主要分布在中国内蒙古自治区和黑龙江省，包括鄂温克语、鄂伦春语。俄罗斯的东西伯利亚以及蒙古国的巴尔虎地区也有分布。"
+  },
+  {
+   "cn": "藏语支",
+   "en": "Tibetan branch",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0219",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族语言",
+   "subjectName": "少数民族语言",
+   "publishYear": "2025",
+   "definition": "汉藏语系藏缅语族的一个语支。包括藏语、门巴语等。主要分布在西藏自治区和青海、四川、甘肃、云南等省；境外喜马拉雅山南麓的印度、尼泊尔、不丹等国也有分布。"
+  },
+  {
+   "cn": "语支",
+   "en": "language branch",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0073",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "同一语系下的语言按谱系分类法划分出的三级语群。语群级别越低，语言亲属关系越密切。如汉藏语系藏缅语族下可分藏语支、景颇语支、彝语支、缅语支、羌语支等。"
+  },
+  {
+   "cn": "满语支",
+   "en": "Manchu branch",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.032",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族语言",
+   "subjectName": "少数民族语言",
+   "publishYear": "2025",
+   "definition": "阿尔泰语系满-通古斯语族的一个语支。包括满语、锡伯语、赫哲语。主要分布在中国黑龙江省和新疆维吾尔自治区。"
+  },
+  {
+   "cn": "苗语支",
+   "en": "Miao branch",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0292",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族语言",
+   "subjectName": "少数民族语言",
+   "publishYear": "2025",
+   "definition": "汉藏语系苗瑶语族的一个语支。包括苗语和部分瑶族说的布努语、巴哼语、炯奈语等以及畲语。主要分布在贵州、云南、湖南、广西壮族自治区等省区。"
+  },
+  {
+   "cn": "缅语支",
+   "en": "Burmese branch",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0238",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族语言",
+   "subjectName": "少数民族语言",
+   "publishYear": "2025",
+   "definition": "汉藏语系藏缅语族的一个语支。包括缅语、载瓦语、阿昌语、浪速语、勒期语等。主要分布在缅甸和中国云南省。"
+  },
+  {
+   "cn": "景颇语支",
+   "en": "Jingpo branch",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.023",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族语言",
+   "subjectName": "少数民族语言",
+   "publishYear": "2025",
+   "definition": "汉藏语系藏缅语族的一个语支。包括景颇语、格曼语、达让语、独龙语、阿侬语等。主要分布在中国云南省的德宏傣族景颇族自治州、缅甸克钦邦等地。"
+  },
+  {
+   "cn": "瑶语支",
+   "en": "Yao branch",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0294",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族语言",
+   "subjectName": "少数民族语言",
+   "publishYear": "2025",
+   "definition": "汉藏语系苗瑶语族的一个语支。包括中国使用勉语的瑶族语言和海南省自称“金门”的苗族语言，以及越南、老挝、泰国、缅甸和一些西方国家瑶人使用的瑶语。"
+  },
+  {
+   "cn": "黎语支",
+   "en": "Li branch",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0272",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族语言",
+   "subjectName": "少数民族语言",
+   "publishYear": "2025",
+   "definition": "汉藏语系侗台语族的一个语支。分布在海南省。包括黎语和东方、昌江两市县村人使用的“村话”。该语支语言由于分离时间比较久远，与同语族壮傣和侗水语支之间的同源词相对较少。"
+  },
+  {
+   "cn": "洁净工作台",
+   "en": "clean bench",
+   "source": "消毒学",
+   "wordNumber": "1.8.23",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "能够保持操作空间所需洁净度的工作台。"
+  },
+  {
+   "cn": "投料批",
+   "en": "material batch",
+   "source": "消毒学",
+   "wordNumber": "5.1.7.1",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "在同一个制造周期内根据一个制造指令生产的消毒产品和物料，同一批次的产品其质量特性保持一致。"
+  },
+  {
+   "cn": "生产批次",
+   "en": "production batch",
+   "source": "消毒学",
+   "wordNumber": "5.1.7.9",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "能追溯产品生产过程、生产班次等信息的标识，消毒产品的同一生产批次应为同一次投料、同一条生产线、同一班次生产的同种产品。"
+  },
+  {
+   "cn": "生产批号",
+   "en": "batch number",
+   "source": "消毒学",
+   "wordNumber": "5.2.9",
+   "subjectFullName": "消毒学_监督管理_产品监管",
+   "subjectName": "产品监管",
+   "publishYear": "2025",
+   "definition": "每一批消毒产品的生产号码。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,26 @@
+{
+ "key": "perceptual experiences",
+ "term": "perceptual experiences",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-22T09:54:15+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=2",
+ "hits": [
+  {
+   "cn": "感知编码",
+   "en": "perceptual coding",
+   "code": "GB/T 9002—2017",
+   "standard": "音频、视频和视听设备及系统词汇",
+   "subject": "电信、音频和视频工程"
+  },
+  {
+   "cn": "立体感知模型",
+   "en": "stereoscopic perceptual model",
+   "code": "GB/T 9002—2017",
+   "standard": "音频、视频和视听设备及系统词汇",
+   "subject": "电信、音频和视频工程"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2017\": 2}, \"sourceStats\": {\"电信、音频和视频工程\": 2}, \"typeStats\": {\"7\": 2}, \"totalRecords\": 2, \"tmWordList\": [{\"id\": \"da735bf79dc54ea0bead96be2b8b8f2e\", \"databaseId\": null, \"standardId\": \"18564b9ea3ec4d33bd624e8e583d756d\", \"standardCode\": \"GB/T 9002—2017\", \"standardName\": \"音频、视频和视听设备及系统词汇\", \"standardEnName\": \"Vocabulary for audio ,video and audiovisual equipment and systems\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电信、音频和视频工程\", \"termCode\": \"5.1.5\", \"cnName\": \"感知编码\", \"enName\": \"perceptual coding\", \"publishTime\": \"2017-05-31\", \"publishYear\": \"2017\", \"implementTime\": \"2017-12-01\", \"ics\": \"33.160.0133\", \"ccs\": \"M70\", \"parentTermId\": null, \"titleId\": null, \"oid\": 23733, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"感知编码\", \"cnNameSearch\": \"感知编码\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"perceptual coding\", \"wordSearch\": \"perceptual coding\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"基于听觉心理声学特性，保留能被听觉感知的声音信号，在时域和频域处理量化噪声，减少音频信号数据量而又可保证音质的一种有损音频编码。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>子带音频编码和变换音频编码都属感知编码。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"17fea598879f43ecb59dbfc2358b87d2\", \"databaseId\": null, \"standardId\": \"18564b9ea3ec4d33bd624e8e583d756d\", \"standardCode\": \"GB/T 9002—2017\", \"standardName\": \"音频、视频和视听设备及系统词汇\", \"standardEnName\": \"Vocabulary for audio ,video and audiovisual equipment and systems\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电信、音频和视频工程\", \"termCode\": \"8.2.10\", \"cnName\": \"立体感知模型\", \"enName\": \"stereoscopic perceptual model\", \"publishTime\": \"2017-05-31\", \"publishYear\": \"2017\", \"implementTime\": \"2017-12-01\", \"ics\": \"33.160.0133\", \"ccs\": \"M70\", \"parentTermId\": null, \"titleId\": null, \"oid\": 23631, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"立体感知模型\", \"cnNameSearch\": \"立体感知模型\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"stereoscopic perceptual model\", \"wordSearch\": \"stereoscopic perceptual model\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"结合立体视频图像特征、立体显示器特性、视觉立体感知特性等，建立的主观感知模型。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1795341255138}"
+}

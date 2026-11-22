@@ -1,0 +1,75 @@
+{
+ "key": "procedural justice",
+ "term": "procedural justice",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-22T09:54:16+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=9",
+ "hits": [
+  {
+   "cn": "程序关联",
+   "en": "procedural link",
+   "code": "GB/T 39470—2020",
+   "standard": "自动化系统与集成 对象过程方法",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "过程内聚性",
+   "en": "procedural cohesion",
+   "code": "GB/T 5271.7—2008",
+   "standard": "信息技术  词汇 第7部分：计算机编程",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "过程语言",
+   "en": "procedural language",
+   "code": "GB/T 5271.7—2008",
+   "standard": "信息技术  词汇 第7部分：计算机编程",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "过程性知识",
+   "en": "procedural knowledge",
+   "code": "GB/T 5271.28—2001",
+   "standard": "信息技术  词汇  第28部分:人工智能  基本概念与专家系统",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "法院",
+   "en": "court of justice",
+   "code": "GB/T 50504—2009",
+   "standard": "民用建筑设计术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "逻辑内聚",
+   "en": "logical cohesion",
+   "code": "GB/T 18336.1—2015",
+   "standard": "信息技术安全技术 信息技术安全评估准则 第1部分：简介和一般模型 ",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "管理性安全",
+   "en": "administrative security",
+   "code": "GB/T 5271.8—2001",
+   "standard": "信息技术  词汇  第8部分:安全",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "未成年人司法社会工作服务",
+   "en": "minor's justice social work service",
+   "code": "GB/T 42380—2023",
+   "standard": "未成年人司法社会工作服务规范",
+   "subject": "社会学、服务、公司（企业）的组织和管理、行政、运输"
+  },
+  {
+   "cn": "社区司法管理信息化",
+   "en": "informationization of community justice management",
+   "code": "GB/T 29855—2013",
+   "standard": "社区信息化术语",
+   "subject": "信息技术、办公机械"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2023\": 1, \"2020\": 1, \"2015\": 1, \"2013\": 1, \"2009\": 1, \"2008\": 2, \"2001\": 2}, \"sourceStats\": {\"社会学、服务、公司（企业）的组织和管理、行政、运输\": 1, \"其它\": 1, \"信息技术、办公机械\": 7}, \"typeStats\": {\"7\": 9}, \"totalRecords\": 9, \"tmWordList\": [{\"id\": \"53698f6bb01e4f029f842113cb09c4ab\", \"databaseId\": null, \"standardId\": \"10aa7dc13b3146f8966b6b0f2883175d\", \"standardCode\": \"GB/T 39470—2020\", \"standardName\": \"自动化系统与集成 对象过程方法\", \"standardEnName\": \"Automation systems and integration-Object-process methodology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"3.56\", \"cnName\": \"程序关联\", \"enName\": \"procedural link\", \"publishTime\": \"2020-11-19\", \"publishYear\": \"2020\", \"implementTime\": \"2021-06-01\", \"ics\": \"35.240.5035\", \"ccs\": \"J07\", \"parentTermId\": null, \"titleId\": null, \"oid\": 15416, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"程序关联\", \"cnNameSearch\": \"程序关联\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"procedural link\", \"wordSearch\": \"procedural link\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"对象-过程方法论中程序关系的图形符号。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"f566108c108141479f11f9e2b0fc0040\", \"databaseId\": null, \"standardId\": \"69fcc44f7bb34595a5dcde44082c05e2\", \"standardCode\": \"GB/T 5271.7—2008\", \"standardName\": \"信息技术  词汇 第7部分：计算机编程\", \"standardEnName\": \"Information technology — Vocabulary Part 7: Computer programming\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"07.12.11\", \"cnName\": \"过程内聚性\", \"enName\": \"procedural cohesion\", \"publishTime\": \"2008-07-18\", \"publishYear\": \"2008\", \"implementTime\": \"2008-12-01\", \"ics\": \"35.020\", \"ccs\": \"L 70\", \"parentTermId\": null, \"titleId\": null, \"oid\": 104469, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"过程内聚性\", \"cnNameSearch\": \"过程内聚性\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"procedural cohesion\", \"wordSearch\": \"procedural cohesion\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"模块的各活动都促成某一给定过程（例如判决过程的选代）的内聚性。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"7aee25b5a6ba492f91916ee1d0666029\", \"databaseId\": null, \"standardId\": \"69fcc44f7bb34595a5dcde44082c05e2\", \"standardCode\": \"GB/T 5271.7—2008\", \"standardName\": \"信息技术  词汇 第7部分：计算机编程\", \"standardEnName\": \"Information technology — Vocabulary Part 7: Computer programming\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"07.01.18\", \"cnName\": \"过程语言\", \"enName\": \"procedural language\", \"publishTime\": \"2008-07-18\", \"publishYear\": \"2008\", \"implementTime\": \"2008-12-01\", \"ics\": \"35.020\", \"ccs\": \"L 70\", \"parentTermId\": null, \"titleId\": null, \"oid\": 104644, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"过程语言\", \"cnNameSearch\": \"过程语言\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"procedural language\", \"wordSearch\": \"procedural language\"}], \"allowableWord\": [], \"refuseWord\": []}, {\"id\": null, \"cnName\": \"面向过程的语言\", \"cnNameSearch\": \"面向过程的语言\", \"outType\": 2, \"extendWord\": [], \"allowableWord\": [{\"languageType\": 1, \"word\": \"procedure-oriented language\", \"wordSearch\": \"procedure-oriented language\"}], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"一种以特定序列给出待执行的特定语句或指令的方式，提供手段来陈述由数据处理系统的动作所获得的结果的编程语言。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [\"<p>Ada、BASIC、COBOLFortran和Pascal五种语言。</p>\"], \"notes\": [], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"1db9e977e645469980cd8fe73e918338\", \"databaseId\": null, \"standardId\": \"e736cc0658684d5288e44a7eeb228afc\", \"standardCode\": \"GB/T 5271.28—2001\", \"standardName\": \"信息技术  词汇  第28部分:人工智能  基本概念与专家系统\", \"standardEnName\": \"Information technology——Vocabulary——Part 28:Artificial intelligence——Basic concepts and expert system\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"28.02.23\", \"cnName\": \"过程性知识\", \"enName\": \"procedural knowledge\", \"publishTime\": \"2001-07-16\", \"publishYear\": \"2001\", \"implementTime\": \"2002-03-01\", \"ics\": \"35.020\", \"ccs\": \"L 70\", \"parentTermId\": null, \"titleId\": null, \"oid\": 228375, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"过程性知识\", \"cnNameSearch\": \"过程性知识\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"procedural knowledge\", \"wordSearch\": \"procedural knowledge\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"显式指明解决问题或达到目标所要采取步骤的知识。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"da183924ce5b4f13bbf9e9cac07e173e\", \"databaseId\": null, \"standardId\": \"915004b470d440b59d1297f28c12d9ea\", \"standardCode\": \"GB/T 50504—2009\", \"standardName\": \"民用建筑设计术语标准\", \"standardEnName\": \"Standard for terminology of civil architectural design\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"3.9.10\", \"cnName\": \"法院\", \"enName\": \"court of justice\", \"publishTime\": \"2009-05-13\", \"publishYear\": \"2009\", \"implementTime\": \"2009-12-01\", \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 153893, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"法院\", \"cnNameSearch\": \"法院\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"court of justice\", \"wordSearch\": \"court of justice\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"行政诉讼、刑事或民事等案件的各级审判用房及法官办公的专用建筑。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"8ae7e2fea85c4eeb8ab81bdea4d49f21\", \"databaseId\": null, \"standardId\": \"2e0a0926991c4017a07105f219c879a4\", \"standardCode\": \"GB/T 18336.1—2015\", \"standardName\": \"信息技术安全技术 信息技术安全评估准则 第1部分：简介和一般模型 \", \"standardEnName\": \"Information technology—Security techniques—— Evaluation criteria for IT security— Part 1 : Introduction and general model \", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"3.2.19\", \"cnName\": \"逻辑内聚\", \"enName\": \"logical cohesion\", \"publishTime\": \"2015-05-15\", \"publishYear\": \"2015\", \"implementTime\": \"2016-01-01\", \"ics\": \"35.040\", \"ccs\": \"L 80\", \"parentTermId\": null, \"titleId\": null, \"oid\": 49469, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"逻辑内聚\", \"cnNameSearch\": \"逻辑内聚\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"logical cohesion\", \"wordSearch\": \"logical cohesion\"}], \"allowableWord\": [], \"refuseWord\": []}, {\"id\": null, \"cnName\": \"程序内聚\", \"cnNameSearch\": \"程序内聚\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"procedural cohesion\", \"wordSearch\": \"procedural cohesion\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"表示模块对不同数据结构执行类似活动的特征。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>当模块功能对于不同的输入执行相关的、但又不同的操作，表现为逻辑内聚。见“内聚”（3.2.3）。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"9d3488ef6f574f4bb899b4a3d29046a5\", \"databaseId\": null, \"standardId\": \"722e96bcd9b34b64893deeccce83adbd\", \"standardCode\": \"GB/T 5271.8—2001\", \"standardName\": \"信息技术  词汇  第8部分:安全\", \"standardEnName\": \"Information technology——Vocabulary——Part 8:Security\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"08.01.02\", \"cnName\": \"管理性安全\", \"enName\": \"administrative security\", \"publishTime\": \"2001-07-16\", \"publishYear\": \"2001\", \"implementTime\": \"2002-03-01\", \"ics\": \"35.020\", \"ccs\": \"L 70\", \"parentTermId\": null, \"titleId\": null, \"oid\": 114883, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"管理性安全\", \"cnNameSearch\": \"管理性安全\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"administrative security\", \"wordSearch\": \"administrative security\"}], \"allowableWord\": [], \"refuseWord\": []}, {\"id\": null, \"cnName\": \"过程安全\", \"cnNameSearch\": \"过程安全\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"procedural security\", \"wordSearch\": \"procedural security\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"用于计算机安全的管理措施。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>这里的措施可以是可操作的可核查性过程、调查安全违规的过程和审查审计跟踪的过程。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"a256b9636be24c9daa9c1556580fa7ac\", \"databaseId\": null, \"standardId\": \"e8609a73cc074be0b24e7624a176573a\", \"standardCode\": \"GB/T 42380—2023\", \"standardName\": \"未成年人司法社会工作服务规范\", \"standardEnName\": \"Specification for minor's justice social work service\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"社会学、服务、公司（企业）的组织和管理、行政、运输\", \"termCode\": \"3.1\", \"cnName\": \"未成年人司法社会工作服务\", \"enName\": \"minor's justice social work service\", \"publishTime\": \"2023-03-17\", \"publishYear\": \"2023\", \"implementTime\": \"2023-03-17\", \"ics\": \"03.080\", \"ccs\": \"A 12\", \"parentTermId\": null, \"titleId\": null, \"oid\": 228858, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"未成年人司法社会工作服务\", \"cnNameSearch\": \"未成年人司法社会工作服务\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"minor's justice social work service\", \"wordSearch\": \"minor's justice social work service\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"以具有不良或严重不良行为的未成年人、涉案未成年人及其家庭为服务对象，以未成年人犯罪预防和权益保护为目标，运用社会工作专业价值理念、理论，整合个案、小组、社区等工作方法，围绕服务对象个体、家庭、学校、社会等方面，以提升社会适应能力，建构社会支持网络，恢复健康生活状态为主要内容开展的社会服务活动。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"2c7066d0d7ad455ea1bc83790f5fe5ae\", \"databaseId\": null, \"standardId\": \"0bb5c139a071457c8e46c0afa274a414\", \"standardCode\": \"GB/T 29855—2013\", \"standardName\": \"社区信息化术语\", \"standardEnName\": \"Terminology of community informationization\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"3.9\", \"cnName\": \"社区司法管理信息化\", \"enName\": \"informationization of community justice management\", \"publishTime\": \"2013-11-12\", \"publishYear\": \"2013\", \"implementTime\": \"2014-04-15\", \"ics\": \"35.240.013\", \"ccs\": \"L67\", \"parentTermId\": null, \"titleId\": null, \"oid\": 10319, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"社区司法管理信息化\", \"cnNameSearch\": \"社区司法管理信息化\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"informationization of community justice management\", \"wordSearch\": \"informationization of community justice management\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"应用信息化技术，实现社区范围内的司法管理功能。\", \"footnote\": \"\", \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>社区司法管理包括法律援助、刑释解教人员管理和纠纷情况管理等。</p>\"], \"refer\": [], \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1795341256719}"
+}

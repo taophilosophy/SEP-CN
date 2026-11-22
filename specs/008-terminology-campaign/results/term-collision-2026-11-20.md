@@ -1,0 +1,793 @@
+# 术语表机检：撞形与原文列疑误（2026-11-20）
+
+口径：译法列取“主译”（去括注、去分号后段），规范化（去空白）；同一主译∈多个键＝A 类撞形，须按 ADR-0048 分行或合并。
+
+## A 主译撞形（237 组）
+- **** ← adverbial theory (of thought)（行 140）；incompleteness theorems（行 2976）；neutral theory of molecular evolution（行 4232）
+- **《中论》** ← Mūlamadhyamakakārikā（行 4070）；Zhonglun（行 7225）
+- **《光辉之书》** ← Sefer ha-Zohar（行 5731）；Zohar（行 7236）
+- **《宗义摩尼鬘》** ← Nyāyasiddhāntamañjarī（行 4362）；Siddhānta-muktāvalī（行 5895）
+- **《论语》** ← Analects / Lun yu / Lunyu（行 266）；Lunyu（行 3627）
+- **《阿毗达磨俱舍论》** ← Abhidharmakośa（行 33）；Abhidharmakośabhāṣya（行 34）
+- **一致** ← congruence（行 1157）；consistent（行 1199）
+- **万有引力** ← universal gravitation（行 6851）；universal gravity（行 6852）
+- **三段论** ← qiyāsāt（行 5195）；syllogism（行 6363）
+- **三级会议** ← Estates General（行 2032）；States General（行 6178）
+- **不变性** ← immutability（行 2936）；invariance（行 3211）
+- **不可通约性** ← incommensurability（行 2972）；Incommensurable（行 2973）
+- **世界观** ← Weltanschauung（行 7097）；world-view（行 7149）
+- **业** ← karma（行 3340）；karma（佛教业报义）（行 3343）
+- **个人主义** ← individualism（行 3007）；personalist（行 4677）
+- **义** ← artha（行 425）；yì（行 7198）；yi（行 7199）
+- **义务** ← obligation（行 4387）；taklīf（行 6435）
+- **义务论** ← deontological（行 1545）；Deontology（行 1546）
+- **事态** ← state of affairs（行 6173）；states of affairs（行 6179）
+- **事情本身** ← nafs al-ʾamr（行 4129）；Sache selbst（行 5586）
+- **二值原则** ← bivalence（行 688）；principle of bivalence（行 4991）
+- **五行** ← wu xing（行 7152）；wuxing（行 7157）
+- **交叠** ← saṃkara（行 5625）；sāṃkarya（行 5626）
+- **亲知** ← acquaintance（行 95）；acquaintance knowledge（行 96）
+- **仁爱** ← benevolence（行 640）；caritas（行 805）；Wohlwollen（行 7123）
+- **伴随项** ← concomitant（行 1124）；lawāzim（行 3460）
+- **位置** ← makān（行 3674）；place (topos)（行 4765）
+- **体验** ← Erlebnis（行 2007）；lived experience（行 3553）
+- **保守性** ← Conservativeness（行 1191）；conservativity（行 1192）
+- **保留原文** ← apretado（行 390）；nepantla（行 4222）；relajiento（行 5402）；relajo（行 5403）；tarka（行 6446）；zozobra（行 7242）
+- **保证** ← assurance（行 464）；warrant（行 7069）
+- **倾向** ← inclination（行 2968）；propensity (interpretation of fitness)（行 5085）
+- **倾向属性** ← dispositional property（行 1687）；saṃskāra（行 5632）
+- **假立** ← prajñapti（行 4900）；upādhi（行 6878）
+- **偶性** ← accidents（行 85）；aʿrāḍ（行 552）
+- **公平** ← equity（行 1994）；fairness（行 2221）
+- **公理化** ← axiomatic（行 544）；axiomatization（行 547）
+- **公理图式** ← axiom schema（行 542）；axiom scheme（行 543）
+- **共同感** ← ḥiss mushtarak（行 2744）；sensus communis（行 5814）
+- **共相** ← general characteristic（行 2480）；universal / universals（行 6842）
+- **内涵** ← connotation（行 1168）；Gehalt（行 2463）；intension（行 3132）
+- **再体验** ← nacherleben（行 4128）；re-experiencing（行 5301）
+- **冲力** ← impetus（行 2946）；vega（行 6945）
+- **刺激贫乏** ← poverty of stimulus（行 4871）；poverty of the stimulus（行 4872）
+- **努秘** ← numinous（行 4355）；the numinous（行 6540）
+- **单元素集** ← singleton（行 5935）；singleton set（行 5936）
+- **卡巴拉** ← Kabbala（行 3316）；Kabbalah（行 3317）
+- **历史主义** ← historicism（行 2750）；historism（行 2757）
+- **历史化** ← historicization（行 2752）；Vergeschichtlichung（行 6955）
+- **历史性** ← Geschichtlichkeit（行 2532）；historicity（行 2751）
+- **反应规范** ← norm of reaction（行 4322）；reaction norm（行 5302）
+- **可分离性** ← detachability（行 1570）；separability（行 5823）
+- **可容许集** ← admissible set（行 135）；admissible set (set theory)（行 136）
+- **可能世界** ← possible world（行 4847）；possible worlds / possible world（行 4848）
+- **可靠性** ← reliability（行 5429）；soundness（行 6068）
+- **合目的性** ← finality（行 2288）；purposiveness（行 5175）
+- **同一论** ← identity theory（行 2894）；identity theory (of truth)（行 2895）
+- **同化** ← assimilation（行 455）；tashbīh（行 6452）
+- **四句** ← catuṣ-koṭi（行 827）；tetralemma（行 6525）
+- **回忆** ← anamnesis（行 283）；commemorari（行 1018）
+- **回返** ← epistrophe（行 1985）；reversion（行 5506）
+- **图式** ← schema（行 5676）；scheme（行 5681）
+- **圣体** ← consecrated host（行 1178）；host（圣体）（行 2795）
+- **基数** ← cardinal（行 797）；cardinality（行 801）
+- **基础关系** ← basing relation（行 596）；basing relation (epistemic)（行 597）
+- **墨西哥性** ← lo mexicano（行 3563）；Mexicanness（行 3869）
+- **处所** ← pakṣa（行 4541）；place (Aristotelian topos)（行 4764）
+- **大弃赌论证** ← Dutch book (argument)（行 1781）；Dutch Book Arguments（行 1782）
+- **太极** ← Supreme Ultimate（行 6339）；taiji（行 6426）
+- **奇点** ← Singularities（行 5941）；singularity (cosmological)（行 5942）
+- **存在** ← being（行 614）；bhāva（行 652）；existence（行 2113）
+- **学述传统** ← doxographical tradition（行 1765）；doxographical tradition / doxography（行 1766）
+- **定义** ← definition（行 1502）；ḥadd（行 2641）；lakṣaṇa（行 3429）；taʿārīf（行 6470）
+- **实体** ← dravya（行 1770）；entity（行 1929）；jawhar（行 3268）；substance（行 6268）
+- **实体化** ← hypostasized（行 2848）；hypostatisation（行 2849）；reify（行 5396）；substantialization（行 6274）
+- **实践哲学** ← philosophy of praxis（行 4731）；practical philosophy（行 4884）
+- **实践智慧** ← phronêsis（行 4742）；practical wisdom（行 4888）
+- **属性** ← Attributes（行 497）；property（行 5093）；ṣifāt（行 5899）
+- **平等** ← equality（行 1989）；isonomia（行 3239）
+- **并不更** ← ou mallon（行 4514）；ouden mallon（行 4515）
+- **幸福** ← eudaimonia（行 2056）；Happiness（行 2668）
+- **幻象** ← illusion（行 2917）；phantasm（行 4698）；phantasma（行 4699）
+- **弹性** ← resiliency（行 5482）；sthitisthāpaka（行 6196）
+- **形式化方法** ← Formal Approaches（行 2345）；formal methods（行 2354）
+- **影像** ← eidôla（行 1835）；idola（行 2900）；phantasmata（行 4700）；simulacra（行 5922）
+- **德性** ← aretê（行 404）；virtue（行 6989）
+- **心** ← citta（行 929）；qalb（行 5188）
+- **必然存在者** ← necessary being（行 4182）；wājib al-wujūd（行 7063）
+- **怀疑论** ← scepticism（行 5674）；skepticism（行 5957）
+- **性质** ← guṇa（行 2626）；quality（行 5204）
+- **恒常** ← niyata（行 4255）；permanence（行 4659）
+- **悬置判断** ← suspending judgement（行 6351）；suspension of judgment（行 6353）
+- **情感** ← emotion（行 1868）；Gefühl（行 2461）；sentiment（行 5820）
+- **想象** ← Imagination（行 2918）；phantasia（经院内感官语境）（行 4697）
+- **意义** ← Bedeutung（行 610）；maʿnā（行 3763）
+- **意义的盈余** ← excess of meaning（行 2100）；surplus of meaning（行 6344）
+- **意志薄弱** ← akrasia（行 211）；weakness of will（行 7081）
+- **意指样式** ← modes of signifying（行 3950）；modi significandi（行 3955）；modus significandi（行 3964）
+- **意识** ← consciousness（行 1176）；manovijñāna（行 3693）
+- **感觉** ← aisthêseis（行 202）；Empfindung（行 1872）；Sensation（行 5798）
+- **我慢** ← ahaṃkāra（行 198）；ātmamāna（行 479）
+- **所有权** ← dominium（行 1742）；ownership（行 4526）
+- **扩展** ← ampliation (ampliatio)（行 260）；ampliative (inference)（行 262）
+- **承认** ← acknowledgement (Anerkennung)（行 94）；recognition (Ricoeur)（行 5336）
+- **承诺** ← Bindung（行 669）；promises（行 5073）
+- **拉丁原文保留** ← causa secundum esse（行 829）；cives（行 932）；civitas（行 941）；esse（行 2016）；ignoratio elenchi（行 2905）；jus（行 3301）；lex（行 3501）；respublica（行 5490）；sine qua non（行 5928）；societas（行 6029）；universitas（行 6868）
+- **指代** ← supposit for（行 6329）；supposition (suppositio)（行 6334）
+- **指数** ← exponential（行 2164）；index number（行 2996）
+- **排中律** ← law of excluded middle（行 3454）；law of the excluded middle（行 3458）
+- **排除词** ← exceptive term（行 2098）；exclusive word（行 2105）
+- **探究** ← historiê（行 2754）；skeptosunê（行 5958）
+- **收缩** ← belief contraction（行 622）；contraction（行 1258）
+- **数** ← aʿdād（行 551）；saṃkhyā（数目）（行 5627）；shu (number)（行 5885）
+- **无分别** ← nirvikalpaka（行 4253）；niṣprakāraka（行 4254）
+- **无常** ← anitya（行 310）；impermanence（行 2945）；mujō（行 4069）
+- **无我** ← anātman（行 290）；nairātmya（行 4131）
+- **无穷倒退** ← anavasthā（行 291）；infinite regress（行 3049）
+- **时** ← kāla（行 3323）；shi (timeliness)（行 5866）
+- **时空几何** ← chronogeometry（行 906）；spacetime geometry（行 6081）
+- **明证性** ← evidence (Evidenz)（行 2073）；evidentness（行 2081）
+- **显现** ← apparentia（行 372）；manifestation（行 3687）；to phainomenon（行 6628）
+- **智慧** ← Ḥikmah（行 2740）；Wisdom（行 7116）
+- **有分别** ← saprakāraka（行 5652）；savikalpaka（行 5668）
+- **本体论** ← ontology（行 4447）；ontology (Leśniewski)（行 4448）
+- **本原** ← arché（行 400）；mabādiʾ（行 3644）
+- **本质** ← essence（行 2022）；quiddity（行 5248）
+- **杂多** ← manifold (Kantian)（行 3689）；multiplicity（行 4086）
+- **条件概率** ← conditional probabilities（行 1139）；conditional probability（行 1140）
+- **标记** ← mark (Merkmal)（行 3705）；marker (DMG)（行 3708）
+- **样态** ← condicio (condiciones)（行 1134）；mode（行 3934）；paryāya（行 4612）
+- **概念化** ← Conceptualization（行 1113）；taṣawwur（行 6450）
+- **模仿** ← imitation（行 2922）；mimesis（行 3891）
+- **模态主义** ← modalism（行 3932）；modism（行 3956）
+- **次级原因** ← sabab（行 5577）；secondary causes（行 5724）
+- **正常功能** ← normal function（行 4324）；normal functioning（行 4325）
+- **歧义** ← ambiguity（行 254）；equivocation（行 1999）
+- **殊相** ← particular（行 4605）；singularia（行 5939）
+- **法身** ← dharmakāya（行 1590）；hosshin / dharmakāya（行 2794）
+- **注意** ← animadversio（行 302）；attention（行 492）
+- **泼墨** ← haboku（行 2639）；hatsuboku（行 2680）
+- **流入** ← āsrava（行 448）；influx (celestial)（行 3053）
+- **流溢** ← emanation（行 1862）；fayd（行 2248）；prohodos（行 5061）
+- **测试** ← test (dynamic semantics)（行 6519）；test (program)（行 6520）
+- **混合态** ← mixed state（行 3919）；mixture（行 3922）
+- **灵魂** ← psuchê (ψυχή)（行 5142）；soul（行 6066）
+- **理想元素** ← ideal element（行 2870）；ideal elements（行 2871）
+- **生物体** ← living organism（行 3557）；organism（行 4496）
+- **疑** ← doubt（the tshom）（行 1757）；saṃśaya（行 5631）
+- **病因学** ← etiological (aspect of explanation)（行 2053）；etiology（行 2054）
+- **目的论** ← Teleological（行 6478）；teleology（行 6483）
+- **直接推理** ← direct inference（行 1642）；direct inference / immediate inference（行 1643）
+- **直接知觉** ← direct perception（行 1644）；immediate perception（行 2930）
+- **直观** ← Anschauung（行 318）；intuition（行 3198）
+- **直觉** ← ḥads（行 2643）；intuition (ethical)（行 3199）
+- **直觉主义** ← intuitionism（行 3201）；Intuitionistic（行 3203）
+- **直觉主义逻辑** ← intuitionist logic（行 3202）；intuitionistic logic（行 3205）
+- **相关性** ← correlation（行 1312）；relevance（行 5420）
+- **相干逻辑** ← relevance logic（行 5421）；relevant logic（行 5425）
+- **相称性** ← proportionality (double effect)（行 5097）；proportionality (of blame)（行 5098）
+- **真值承担者** ← bearer of truth values（行 607）；truth-bearer（行 6735）
+- **真类** ← proper class（行 5086）；true class（行 6720）
+- **知觉** ← perception（行 4644）；pratyakṣa（感官知觉义）（行 4915）
+- **知识** ← epistêmê（行 1948）；scientia（行 5691）
+- **确证** ← corroboration（行 1318）；Validation（行 6921）
+- **社会制度** ← social institution（行 5995）；Social Institutions（行 5996）
+- **社会建构论** ← social constructionism（行 5978）；social constructivism（行 5979）
+- **神意** ← divine providence（行 1718）；providence（行 5126）
+- **符合论** ← conformality theory（行 1154）；correspondence theory（行 1316）
+- **第一推动者** ← first mover（行 2300）；prime mover（行 4982）
+- **等势** ← equinumerous（行 1992）；equipollence（行 1993）
+- **类比推理** ← analogical inference（行 270）；analogical reasoning（行 272）；qiyās（行 5194）
+- **精气** ← spirits（行 6116）；spiritus（行 6122）
+- **精神** ← Geist（行 2467）；jingshen（行 3274）
+- **约定** ← nomos（行 4279）；saṅketa（行 5646）
+- **终极实在** ← ḥaqīqa（行 2669）；ultimate reality（行 6790）
+- **经验** ← Erfahrung（行 2002）；Experience（行 2141）
+- **经验美学** ← empirical aesthetics（行 1876）；Erfahrung-Ästhetik（行 2003）
+- **结合** ← copulation (copulatio)（行 1294）；sunkrisis（行 6306）
+- **综合** ← synthesis（行 6397）；tarkīb（行 6449）
+- **缘起** ← dependent origination（行 1549）；engi（行 1909）；engi / pratītya-samutpāda（行 1910）
+- **能别** ← prakāra（行 4901）；viśeṣaṇa（行 7004）
+- **自发行为** ← spontaneous acts（行 6126）；spontaneous conduct（行 6127）
+- **自我** ← ātman（行 481）；jīva（行 3278）
+- **自我中心** ← egocentrism（行 1830）；self-centredness（行 5752）
+- **自我保存** ← conservatio sui（行 1187）；self-preservation（行 5774）
+- **自我更新** ← self-renewal（行 5778）；self-renewing（行 5779）
+- **自我认识** ← autognosis（行 512）；self-knowledge（行 5767）
+- **自然** ← phusis（行 4743）；ziran（行 7234）
+- **自然权利** ← natural right / Natural Rights（行 4168）；right of nature（行 5522）
+- **自然法** ← laws of nature（行 3464）；natural law（行 4159）
+- **自立** ← self-reliance（行 5777）；standing-in-itself（行 6163）
+- **自证** ← reflexive awareness（行 5371）；svasaṃvedana（行 6358）
+- **艺学硕士** ← arts master（行 434）；master of arts（行 3725）
+- **范畴** ← category（行 822）；tattva（行 6459）
+- **茶道** ← chadō（行 868）；sadō（行 5592）
+- **蕴涵** ← entailment（行 1918）；implication（行 2948）
+- **虚空** ← ākāśa（行 208）；void（行 7022）
+- **融贯论** ← coherence theory（行 997）；coherentism（行 1000）
+- **行为主义** ← behaviorism（行 612）；behaviourism（行 613）
+- **表象** ← phantasia（行 4696）；Vorstellung（行 7036）
+- **被证成的真信念** ← justified true belief（行 3309）；justified true belief（JTB）（行 3310）
+- **视角主义** ← perspectivalism（行 4682）；perspectivism（行 4685）
+- **解释** ← Account（行 87）；interpretation（行 3176）；tafsīr（行 6420）
+- **计算** ← computation（行 1088）；Computing（行 1095）
+- **认知** ← buddhi（行 757）；cognitio（行 983）；cognition（行 984）；cognizing (Erkennen)（行 994）；jñāna（行 3279）
+- **论证** ← Argument（行 405）；argumentation（行 412）
+- **论辩问题** ← dialectical question（行 1604）；quaestio disputata（行 5198）
+- **设定** ← positing (Setzung)（行 4832）；positio（行 4833）
+- **证明论** ← proof theory（行 5079）；Proof-Theoretic（行 5081）
+- **证言** ← śabda（行 5580）；testimony（行 6524）
+- **词** ← kalima（行 3325）；pada（行 4538）
+- **话语表现理论** ← Discourse Representation Theory（行 1663）；discourse representation theory (DRT)（行 1664）
+- **诡辩句** ← sophisma-sentence（行 6052）；sophism（sophisma）（行 6055）
+- **诡辩题** ← sophisma/sophismata（行 6053）；sophismata（行 6054）
+- **贝尔不等式** ← Bell inequalities（行 633）；bell inequality（行 634）
+- **贝尔定理** ← Bell theorem（行 635）；Bell’s Theorem（行 636）
+- **责任** ← liability（行 3508）；responsibility（行 5488）
+- **质料** ← matter（行 3749）；pudgala（耆那教物质义）（行 5162）；stuff（行 6235）
+- **超越者** ← transcendence (Jaspers)（行 6665）；transcendentals（行 6679）
+- **运动** ← karma（胜论句义）（行 3344）；kinêsis（行 3372）
+- **连续性原理** ← continuity principle（行 1247）；principle of continuity（行 4994）
+- **选择函数** ← choice function（行 899）；selection function（行 5738）
+- **道德判断** ← moral judgment（行 4021）；moral judgments（行 4022）
+- **道德情感** ← moral emotion（行 4010）；moral sentiment（行 4043）
+- **邻域函数** ← neighborhood function（行 4204）；neighborhood functions（行 4205）
+- **量** ← maqādīr（行 3699）；quantity（行 5212）
+- **量子场论** ← QFT（行 5190）；Quantum Field Theory（行 5223）
+- **量论** ← pramāṇa（行 4903）；pramāṇavāda（行 4905）
+- **阿毗达磨** ← Abhidhamma（行 31）；Abhidharma（行 32）
+- **限缩** ← circumscription (of sovereignty)（行 923）；restriction（行 5495）
+- **非决定论** ← indeterminism（行 2994）；non-determinism（行 4291）
+- **非功德** ← adharma（行 129）；adharma（胜论业报义）（行 130）
+- **非存在** ← abhāva（胜论句义）（行 30）；al-lays（行 216）
+- **非精确概率** ← imprecise probabilities（行 2956）；imprecise probability (IP) models（行 2957）
+- **马图里迪派** ← Māturīdī（行 3752）；Maṭurīdiyya（行 3753）
+- **鬼神** ← gui-shen（行 2620）；kishin（行 3378）
+- **齐一性** ← homogeneity（行 2772）；Uniformity（行 6828）
+
+## B 亦作与主译互撞（33 组）
+- **上确界** 被列为亦作于 least upper bound，同时是 supremum 的主译
+- **下确界** 被列为亦作于 greatest lower bound，同时是 infimum 的主译
+- **不可解命题** 被列为亦作于 insolubilia，同时是 insolubles 的主译
+- **严谨性** 被列为亦作于 conscientiousness，同时是 Rigor 的主译
+- **主动理智** 被列为亦作于 agent intellect，同时是 active intellect 的主译
+- **人文科学** 被列为亦作于 Geisteswissenschaften，同时是 human sciences 的主译
+- **伦理** 被列为亦作于 Ethical Life，同时是 Sittlichkeit 的主译
+- **体验** 被列为亦作于 Experience，同时是 Erlebnis；lived experience 的主译
+- **信念融合** 被列为亦作于 belief merging，同时是 belief fusion 的主译
+- **卓越** 被列为亦作于 aretê，同时是 excellency 的主译
+- **原子** 被列为亦作于 urelemente，同时是 atom (of a Boolean algebra) 的主译
+- **唯识** 被列为亦作于 Cittamātra，同时是 vijñaptimātra 的主译
+- **大弃赌论证** 被列为亦作于 Dutch book，同时是 Dutch book (argument)；Dutch Book Arguments 的主译
+- **学述** 被列为亦作于 doxographical tradition / doxography，同时是 doxography 的主译
+- **常识** 被列为亦作于 koinai ennoiai (common notions)，同时是 common sense 的主译
+- **性质** 被列为亦作于 property，同时是 guṇa；quality 的主译
+- **技术** 被列为亦作于 technê，同时是 technology 的主译
+- **明智** 被列为亦作于 phronêsis，同时是 prudence (Hobbes) 的主译
+- **概括公理** 被列为亦作于 comprehension principle，同时是 comprehension axiom 的主译
+- **物化** 被列为亦作于 objectification，同时是 reification 的主译
+- **特殊** 被列为亦作于 particular，同时是 asādhāraṇa 的主译
+- **纯音乐** 被列为亦作于 absolute music，同时是 music alone 的主译
+- **统治部分** 被列为亦作于 hegemonikon，同时是 pars principans 的主译
+- **自明性** 被列为亦作于 evidence (Evidenz)，同时是 self-evidence 的主译
+- **良知** 被列为亦作于 conscience，同时是 synderesis 的主译
+- **荷兰赌** 被列为亦作于 Dutch book (argument)，同时是 Dutch book 的主译
+- **观念** 被列为亦作于 idea，同时是 notio 的主译
+- **说明** 被列为亦作于 Account，同时是 explanation 的主译
+- **调节** 被列为亦作于 accommodation，同时是 tashkīk 的主译
+- **赋值** 被列为亦作于 assignment，同时是 valuation 的主译
+- **身体意识** 被列为亦作于 awareness，同时是 bodily awareness 的主译
+- **逼真性** 被列为亦作于 Truthlikeness，同时是 verisimilitude 的主译
+- **预定论** 被列为亦作于 predestination，同时是 predestinarianism 的主译
+
+## C 原文列疑误（514 行）
+- **a posteriori**（行 18）原文列＝a posteriori ｜ 译法＝后验
+- **a priori**（行 20）原文列＝a priori ｜ 译法＝先天（康德传统；与“先验”transzenden
+- **a-ji / a-ji kan**（行 24）原文列＝阿字観 ｜ 译法＝阿字观
+- **acquaintance knowledge**（行 96）原文列＝親知 ｜ 译法＝亲知
+- **advocatus patriae**（行 142）原文列＝advocatus patriae ｜ 译法＝祖国辩护士（保留拉丁）
+- **Aegidistae**（行 143）原文列＝Aegidistae ｜ 译法＝埃吉迪派
+- **aestimatio**（行 164）原文列＝aestimatio ｜ 译法＝估计
+- **akirame**（行 209）原文列＝断念 ｜ 译法＝断念（谛念）
+- **amami**（行 253）原文列＝甘味 ｜ 译法＝甘味
+- **Analects / Lun yu / Lunyu**（行 266）原文列＝論語 ｜ 译法＝《论语》
+- **ancien régime**（行 292）原文列＝ancien régime ｜ 译法＝旧制度（法文原词保留斜体）
+- **animadversio**（行 302）原文列＝animadversio ｜ 译法＝注意
+- **annus mirabilis**（行 313）原文列＝annus mirabilis ｜ 译法＝奇迹年
+- **Anschauung**（行 318）原文列＝Anschauung ｜ 译法＝直观
+- **Anti-Dühring**（行 327）原文列＝Anti-Dühring ｜ 译法＝《反杜林论》（恩格斯）
+- **apparentia**（行 372）原文列＝apparentia ｜ 译法＝显现（事物呈现自身的方式）
+- **ars inveniendi**（行 423）原文列＝ars inveniendi ｜ 译法＝发明术
+- **ars iudicandi**（行 424）原文列＝ars iudicandi ｜ 译法＝判断术
+- **Baihutong**（行 568）原文列＝白虎通 ｜ 译法＝《白虎通》
+- **Baihutong Delun**（行 569）原文列＝白虎通德論 ｜ 译法＝《白虎通德论》
+- **basara**（行 590）原文列＝婆娑羅 ｜ 译法＝婆娑罗
+- **Bayes’ Theorem**（行 606）原文列＝Bayes’ Theorem ｜ 译法＝贝叶斯定理
+- **Bedeutung**（行 610）原文列＝Bedeutung ｜ 译法＝意义（弗雷格语境；亦作“意谓”）
+- **Begriffsschrift**（行 611）原文列＝Begriffsschrift ｜ 译法＝概念文字
+- **Bell’s Theorem**（行 636）原文列＝Bell’s Theorem ｜ 译法＝贝尔定理
+- **ben-mo**（行 637）原文列＝本末 ｜ 译法＝本末
+- **beneplacitum**（行 639）原文列＝beneplacitum ｜ 译法＝喜悦旨意（司各脱：上帝悦纳之意志）
+- **Bestimmung**（行 646）原文列＝Bestimmung ｜ 译法＝天职（德文原词保留斜体；亦作“规定”）
+- **Bewusstseinsstellung**（行 649）原文列＝Bewusstseinsstellung ｜ 译法＝意识立场
+- **bianhua**（行 655）原文列＝变化 ｜ 译法＝变化（transformation 渐化／cha
+- **Bibliographic Treatise**（行 656）原文列＝艺文志 ｜ 译法＝《艺文志》
+- **Bildlichkeit**（行 663）原文列＝Bildlichkeit ｜ 译法＝图像性
+- **Bildung**（行 664）原文列＝Bildung ｜ 译法＝教化（伽达默尔语境）
+- **binarium famosissimum**（行 665）原文列＝binarium famosissimum ｜ 译法＝最著名的一对
+- **biran**（行 683）原文列＝必然 ｜ 译法＝必然（imperative）
+- **bitai**（行 686）原文列＝媚態 ｜ 译法＝媚态
+- **Bodenlosigkeit**（行 702）原文列＝Bodenlosigkeit ｜ 译法＝无根基性
+- **Bodenständigkeit**（行 703）原文列＝Bodenständigkeit ｜ 译法＝扎根性
+- **bona fide**（行 722）原文列＝bona fide ｜ 译法＝真实的
+- **bushidō**（行 764）原文列＝武士道 ｜ 译法＝武士道
+- **Cantong qi**（行 789）原文列＝《参同契》 ｜ 译法＝《参同契》
+- **caritas**（行 805）原文列＝caritas ｜ 译法＝仁爱（亦作“博爱”）
+- **casus**（行 809）原文列＝casus ｜ 译法＝情形（正文保留拉丁原词 *casus*，首现括注
+- **ceteris paribus**（行 866）原文列＝ceteris paribus ｜ 译法＝其他条件不变（亦作“其余条件相同”）
+- **chadō**（行 868）原文列＝茶道 ｜ 译法＝茶道
+- **cheng**（行 887）原文列＝成 ｜ 译法＝成（完成）
+- **cheng (authenticity)**（行 888）原文列＝诚 ｜ 译法＝诚（authenticity/sincerity
+- **chi-hosshin / chishin**（行 890）原文列＝智法身 ｜ 译法＝智法身
+- **Chuci**（行 909）原文列＝楚辭 ｜ 译法＝《楚辞》
+- **Chunqiu**（行 912）原文列＝春秋 ｜ 译法＝《春秋》
+- **Chunqiu Fanlu**（行 913）原文列＝春秋繁露 ｜ 译法＝《春秋繁露》
+- **cives**（行 932）原文列＝cives ｜ 译法＝拉丁原文保留（公民）
+- **civitas**（行 941）原文列＝civitas ｜ 译法＝拉丁原文保留（国家）
+- **cogito**（行 981）原文列＝cogito ｜ 译法＝我思（笛卡尔 cogito ergo sum）
+- **cogito ergo sum**（行 982）原文列＝cogito ergo sum ｜ 译法＝我思故我在
+- **cognitio**（行 983）原文列＝cognitio ｜ 译法＝认知（经院拉丁术语）
+- **collegia pietatis**（行 1012）原文列＝collegia pietatis ｜ 译法＝虔敬集会（拉丁原词保留斜体；即虔敬派私下小组聚会
+- **complexe significabile**（行 1070）原文列＝complexe significabile ｜ 译法＝复合可意谓者
+- **configurationes**（行 1151）原文列＝configurationes ｜ 译法＝构形
+- **congruitas**（行 1158）原文列＝congruitas ｜ 译法＝合语法性
+- **consensus gentium**（行 1179）原文列＝consensus gentium ｜ 译法＝众族共识（保留拉丁，首现括注）
+- **consequentia**（行 1185）原文列＝consequentia ｜ 译法＝推论
+- **contrapposto**（行 1265）原文列＝contrapposto ｜ 译法＝对置
+- **conversos**（行 1285）原文列＝conversos ｜ 译法＝改宗犹太人
+- **corpus aristotelicum**（行 1305）原文列＝corpus aristotelicum ｜ 译法＝亚里士多德全集
+- **corpus sophismatis**（行 1307）原文列＝corpus sophismatis ｜ 译法＝诡辩句正文
+- **correlative cosmology**（行 1314）原文列＝关联性宇宙论 ｜ 译法＝关联性宇宙论
+- **cuius regio, eius religio**（行 1386）原文列＝cuius regio, eius religio ｜ 译法＝教随国定（拉丁原词保留斜体）
+- **Dao**（行 1422）原文列＝道 ｜ 译法＝道
+- **Daodejing / Tao Te Ching**（行 1423）原文列＝道德經 ｜ 译法＝《道德经》
+- **Daoist Canon**（行 1424）原文列＝道藏 ｜ 译法＝《道藏》
+- **daoxue**（行 1425）原文列＝道学 ｜ 译法＝道学（Neo-Confucianism 新儒家之
+- **Darstellung**（行 1428）原文列＝Darstellung ｜ 译法＝呈现（伽达默尔/美学语境；darstellen 
+- **das Umgreifende**（行 1431）原文列＝das Umgreifende ｜ 译法＝包摄者
+- **das Unbedingte**（行 1432）原文列＝das Unbedingte ｜ 译法＝无条件者
+- **Dasein**（行 1434）原文列＝Dasein ｜ 译法＝此在（海德格尔；亦作“缘在”）
+- **Daxue**（行 1438）原文列＝《大学》 ｜ 译法＝《大学》
+- **de**（行 1439）原文列＝德 ｜ 译法＝德
+- **de dicto**（行 1441）原文列＝de dicto ｜ 译法＝言语性的（de dicto）
+- **De la république**（行 1444）原文列＝De la république ｜ 译法＝《国家六论》（法文原词保留斜体，博丹 1576）
+- **de re**（行 1449）原文列＝de re ｜ 译法＝对象性的（de re）
+- **De Revolutionibus**（行 1452）原文列＝De Revolutionibus ｜ 译法＝《天体运行论》
+- **De Sophisticis Elenchis**（行 1454）原文列＝De Sophisticis Elenchis ｜ 译法＝《辨谬篇》
+- **delectatio**（行 1512）原文列＝delectatio ｜ 译法＝愉悦
+- **Denken als Denken**（行 1534）原文列＝Denken als Denken ｜ 译法＝作为思维的思维
+- **der ganze Mensch**（行 1554）原文列＝der ganze Mensch ｜ 译法＝完整的人
+- **dictum**（行 1617）原文列＝dictum ｜ 译法＝所述
+- **différance**（行 1620）原文列＝différance ｜ 译法＝延异（德里达定译）
+- **dominium**（行 1742）原文列＝dominium ｜ 译法＝所有权（财产支配权）
+- **Doppelsatz**（行 1745）原文列＝Doppelsatz ｜ 译法＝双句
+- **dōshakuga**（行 1748）原文列＝道釈画 ｜ 译法＝道释画
+- **duratio rerum successiva**（行 1778）原文列＝duratio rerum successiva ｜ 译法＝事物的相继持存
+- **Eigenheit**（行 1836）原文列＝Eigenheit ｜ 译法＝己有性
+- **Einfühlung**（行 1841）原文列＝Einfühlung ｜ 译法＝移情
+- **Elementarphilosophie**（行 1848）原文列＝Elementarphilosophie ｜ 译法＝元素哲学（莱因霍尔德；亦作“基础哲学”）
+- **Empfindung**（行 1872）原文列＝Empfindung ｜ 译法＝感觉
+- **Empfindungsrealität**（行 1873）原文列＝Empfindungsrealität ｜ 译法＝感觉实在性
+- **en voyage**（行 1894）原文列＝en voyage ｜ 译法＝法文原文保留（永远在途中）
+- **Encyclopédie**（行 1897）原文列＝Encyclopédie ｜ 译法＝《百科全书》（狄德罗主编）
+- **engi**（行 1909）原文列＝縁起 ｜ 译法＝缘起（縁起）
+- **engi / pratītya-samutpāda**（行 1910）原文列＝縁起 ｜ 译法＝缘起
+- **ens inquantum ens**（行 1915）原文列＝ens inquantum ens ｜ 译法＝作为存在的存在
+- **entia rationis**（行 1927）原文列＝entia rationis ｜ 译法＝思想对象（保留拉丁，随文括注）
+- **Ereignis**（行 2001）原文列＝Ereignis ｜ 译法＝事件（伽达默尔语境；“居有事件”）
+- **Erfahrung**（行 2002）原文列＝Erfahrung ｜ 译法＝经验（伽达默尔语境；与 Erlebnis 体验相
+- **Erfahrung-Ästhetik**（行 2003）原文列＝Erfahrung-Ästhetik ｜ 译法＝经验美学
+- **Erklärende Psychologie**（行 2005）原文列＝Erklärende Psychologie ｜ 译法＝说明心理学
+- **Erlebnis**（行 2007）原文列＝Erlebnis ｜ 译法＝体验（狄尔泰/伽达默尔语境；亦作“亲历体验”）
+- **Erlebnis-Ästhetik**（行 2008）原文列＝Erlebnis-Ästhetik ｜ 译法＝体验美学
+- **esse essentiae / esse in effectu**（行 2020）原文列＝esse essentiae / esse in effectu ｜ 译法＝本质之存在／效果中的存在
+- **esse habituale**（行 2021）原文列＝esse habituale ｜ 译法＝习性存在（正文保留拉丁原词，首现括注）
+- **Ethology**（行 2051）原文列＝Ethology ｜ 译法＝性格学
+- **etiamsi daremus**（行 2052）原文列＝etiamsi daremus ｜ 译法＝即使我们承认（无神）
+- **ex nihilo**（行 2092）原文列＝ex nihilo ｜ 译法＝从无中创生
+- **Existenz**（行 2126）原文列＝Existenz ｜ 译法＝生存
+- **Existenzerhellung**（行 2127）原文列＝Existenzerhellung ｜ 译法＝生存澄明
+- **Existenzialfragen**（行 2128）原文列＝Existenzialfragen ｜ 译法＝实存问题
+- **Existenzphilosophie**（行 2129）原文列＝Existenzphilosophie ｜ 译法＝生存哲学
+- **ε-notation**（行 2203）原文列＝ε-notation ｜ 译法＝ε 记号
+- **falâsifa**（行 2228）原文列＝falâsifa ｜ 译法＝法拉西法（亚里士多德派哲学家）
+- **fang ji**（行 2244）原文列＝方技 ｜ 译法＝方技
+- **fang shi**（行 2245）原文列＝方士 ｜ 译法＝方士
+- **Fayan**（行 2247）原文列＝法言 ｜ 译法＝《法言》
+- **Five Classics**（行 2316）原文列＝五經 ｜ 译法＝《五经》
+- **fluxus**（行 2328）原文列＝fluxus ｜ 译法＝流（fluxus）
+- **fu (poetry)**（行 2406）原文列＝賦 ｜ 译法＝赋
+- **ganying**（行 2453）原文列＝感应 ｜ 译法＝感应（stimulus-response 感应）
+- **Gefühl**（行 2461）原文列＝Gefühl ｜ 译法＝情感
+- **Gefühl der Vergänglichkeit**（行 2462）原文列＝Gefühl der Vergänglichkeit ｜ 译法＝无常感
+- **Gehalt**（行 2463）原文列＝Gehalt ｜ 译法＝内涵
+- **Geheime Ratskollegium**（行 2464）原文列＝Geheime Ratskollegium ｜ 译法＝枢密院（保留德文）
+- **gehin**（行 2465）原文列＝下品 ｜ 译法＝下品
+- **geidō**（行 2466）原文列＝芸道 ｜ 译法＝艺道
+- **Geisteswissenschaften**（行 2468）原文列＝Geisteswissenschaften ｜ 译法＝精神科学（亦作“人文科学”）
+- **George-Kreis**（行 2525）原文列＝George-Kreis ｜ 译法＝格奥尔格圈（亦作“格奥尔格派”）
+- **Geschichtlichkeit**（行 2532）原文列＝Geschichtlichkeit ｜ 译法＝历史性
+- **Gestaltlichkeit**（行 2538）原文列＝Gestaltlichkeit ｜ 译法＝形态性
+- **Gewissenstrieb**（行 2541）原文列＝Gewissenstrieb ｜ 译法＝良知驱力（德文原词保留斜体；即 conscien
+- **gewu**（行 2542）原文列＝格物 ｜ 译法＝格物（investigating things 
+- **gewu zhizhi**（行 2543）原文列＝格物致知 ｜ 译法＝格物致知（investigating thing
+- **Gödel number**（行 2559）原文列＝Gödel number ｜ 译法＝哥德尔数（亦作“哥德尔编号”）
+- **Gödel sentence**（行 2560）原文列＝Gödel sentence ｜ 译法＝哥德尔句（亦作“哥德尔语句”）
+- **Gödel’s theorem**（行 2561）原文列＝Gödel’s theorem ｜ 译法＝哥德尔定理
+- **God’s Existence**（行 2563）原文列＝God’s Existence ｜ 译法＝上帝存在
+- **Gongyang Zhuan**（行 2566）原文列＝公羊傳 ｜ 译法＝《公羊传》
+- **Great Awakening**（行 2583）原文列＝Great Awakening ｜ 译法＝大觉醒运动
+- **Gregoriistae**（行 2594）原文列＝Gregoriistae ｜ 译法＝格里高利派
+- **Grenze**（行 2595）原文列＝Grenze ｜ 译法＝界限
+- **Grenzsituation**（行 2596）原文列＝Grenzsituation ｜ 译法＝界限处境
+- **Grundsatzkritik**（行 2615）原文列＝Grundsatzkritik ｜ 译法＝原理批判
+- **grupo Hiperión**（行 2616）原文列＝grupo Hiperión ｜ 译法＝许珀里翁小组
+- **Guanzi**（行 2617）原文列＝管子 ｜ 译法＝《管子》
+- **gui-shen**（行 2620）原文列＝鬼神 ｜ 译法＝鬼神（ghosts and spirits 鬼神
+- **Guliang Zhuan**（行 2625）原文列＝穀梁傳 ｜ 译法＝《穀梁传》
+- **haboku**（行 2639）原文列＝破墨 ｜ 译法＝泼墨（破墨）
+- **hadé**（行 2642）原文列＝派手 ｜ 译法＝华丽
+- **haiku**（行 2647）原文列＝俳句 ｜ 译法＝俳句
+- **Han Feizi**（行 2661）原文列＝韓非子 ｜ 译法＝《韩非子》
+- **Han Shu**（行 2662）原文列＝漢書 ｜ 译法＝《汉书》
+- **Hannoverian Whigs**（行 2665）原文列＝Hannoverian Whigs ｜ 译法＝汉诺威辉格党人
+- **hannya / prajñā**（行 2666）原文列＝般若 ｜ 译法＝般若
+- **hatsuboku**（行 2680）原文列＝泼墨 ｜ 译法＝泼墨
+- **Hōjōki**（行 2762）原文列＝方丈記 ｜ 译法＝《方丈记》
+- **hongaku / honkyō**（行 2783）原文列＝本学 / 本教 ｜ 译法＝本学/本教（大国隆正）
+- **hongaku hosshin**（行 2784）原文列＝本覚法身 ｜ 译法＝本觉法身
+- **honpushō / ādyanutpāda**（行 2785）原文列＝本不生 ｜ 译法＝本不生
+- **hosshin / dharmakāya**（行 2794）原文列＝法身 ｜ 译法＝法身
+- **Hou Han Shu**（行 2796）原文列＝後漢書 ｜ 译法＝《后汉书》
+- **hua**（行 2799）原文列＝花 ｜ 译法＝华（浮华）
+- **Hua-yen / Huayan / Kegon**（行 2800）原文列＝華厳 ｜ 译法＝华严
+- **Huainanzi**（行 2801）原文列＝淮南子 ｜ 译法＝《淮南子》
+- **huaisheng weisi**（行 2802）原文列＝懷生畏死 ｜ 译法＝怀生畏死
+- **Huang Di neijing / Huangdi Neijing**（行 2803）原文列＝黃帝內經 ｜ 译法＝《黄帝内经》
+- **Huang-Lao**（行 2804）原文列＝黃老 ｜ 译法＝黄老
+- **hwalgu/sagu**（行 2833）原文列＝活句 / 死句 ｜ 译法＝活句/死句
+- **idola**（行 2900）原文列＝idola ｜ 译法＝影像
+- **Ignorantia legis neminem excusat**（行 2904）原文列＝Ignorantia legis neminem excusat ｜ 译法＝不知法不免责（拉丁原词保留斜体）
+- **ignoratio elenchi**（行 2905）原文列＝ignoratio elenchi ｜ 译法＝拉丁原文保留（不相干谬误）
+- **ikebana**（行 2908）原文列＝生け花 ｜ 译法＝插花（生け花）
+- **ikiji**（行 2911）原文列＝意地 ｜ 译法＝意地
+- **incipit/desinit**（行 2967）原文列＝incipit/desinit ｜ 译法＝开始存在／停止存在
+- **insolubilia**（行 3092）原文列＝insolubilia ｜ 译法＝不可解问题（亦作“不可解命题”）
+- **instantiae naturae**（行 3096）原文列＝instantiae naturae ｜ 译法＝自然实例
+- **ius ad bellum**（行 3245）原文列＝ius ad bellum ｜ 译法＝开战正义
+- **ius in bello**（行 3246）原文列＝ius in bello ｜ 译法＝交战正义
+- **ius ubique docendi**（行 3247）原文列＝ius ubique docendi ｜ 译法＝普遍教学权
+- **Jian An**（行 3270）原文列＝建安 ｜ 译法＝建安
+- **jimi**（行 3271）原文列＝地味 ｜ 译法＝素雅
+- **jing**（行 3273）原文列＝敬 ｜ 译法＝敬（reverence 敬；涵主一无适、警觉专注
+- **jingshen**（行 3274）原文列＝精神 ｜ 译法＝精神
+- **Jinsilu**（行 3275）原文列＝《近思录》 ｜ 译法＝《近思录》
+- **jishō hosshin**（行 3276）原文列＝自証法身 ｜ 译法＝自证法身
+- **jōhin**（行 3284）原文列＝上品 ｜ 译法＝上品
+- **jūdō**（行 3296）原文列＝柔道 ｜ 译法＝柔道
+- **junzi**（行 3297）原文列＝君子 ｜ 译法＝君子
+- **jus**（行 3301）原文列＝jus ｜ 译法＝拉丁原文保留（法律的正当性）
+- **kadō**（行 3319）原文列＝華道 ｜ 译法＝花道
+- **kakemono**（行 3320）原文列＝掛物 ｜ 译法＝挂轴（掛物）
+- **kakuriyo / yūmeikai**（行 3322）原文列＝幽り世 ｜ 译法＝隐世/幽冥界
+- **kannagara**（行 3328）原文列＝随神 ｜ 译法＝随神而行
+- **kaozhengxue**（行 3331）原文列＝考證學 ｜ 译法＝考证学
+- **kara-e**（行 3333）原文列＝唐絵 ｜ 译法＝唐绘
+- **karagokoro**（行 3334）原文列＝漢意（からごころ） ｜ 译法＝汉意
+- **kare**（行 3338）原文列＝枯 ｜ 译法＝枯（枯萎）
+- **karesansui**（行 3339）原文列＝枯山水 ｜ 译法＝枯山水
+- **kata**（行 3350）原文列＝型 ｜ 译法＝型（形）
+- **katanakake**（行 3351）原文列＝刀掛け ｜ 译法＝刀挂
+- **kensho**（行 3356）原文列＝見性 ｜ 译法＝见性（保留拉丁 kensho）
+- **kire**（行 3375）原文列＝切 ｜ 译法＝切（きれ）
+- **kire-tsuzuki**（行 3376）原文列＝切れ続き ｜ 译法＝切续
+- **kireji**（行 3377）原文列＝切字 ｜ 译法＝切字
+- **kishin**（行 3378）原文列＝鬼神 ｜ 译法＝鬼神（平田学派：有意志与力量的灵）
+- **Kleinstaat**（行 3382）原文列＝Kleinstaat ｜ 译法＝小邦国
+- **kokugaku**（行 3401）原文列＝国学 ｜ 译法＝国学（日本本土研究传统）
+- **Kokugakusha**（行 3402）原文列＝国学者 ｜ 译法＝国学者
+- **kokutai**（行 3403）原文列＝国体 ｜ 译法＝国体
+- **Kong Congzi**（行 3405）原文列＝孔叢子 ｜ 译法＝《孔丛子》
+- **Kongōchōgyō**（行 3407）原文列＝金剛頂経 ｜ 译法＝《金刚顶经》
+- **Kongōkai mandara / Vajradhātu**（行 3408）原文列＝金剛界曼荼羅 ｜ 译法＝金刚界曼荼罗
+- **Kongzi Jiayu**（行 3409）原文列＝孔子家語 ｜ 译法＝《孔子家语》
+- **kosmos**（行 3410）原文列＝kosmos ｜ 译法＝世界秩序（宇宙）
+- **Kraftübertragung**（行 3411）原文列＝Kraftübertragung ｜ 译法＝力量传递
+- **kyūdō**（行 3420）原文列＝弓道 ｜ 译法＝弓道
+- **La Géométrie**（行 3426）原文列＝La Géométrie ｜ 译法＝《几何学》（笛卡尔）
+- **Landstandschaft**（行 3435）原文列＝Landstandschaft ｜ 译法＝邦等级权（保留德文）
+- **Laozi / Lao Tzu**（行 3439）原文列＝老子 ｜ 译法＝《老子》
+- **latitudo / longitudo**（行 3449）原文列＝latitudo / longitudo ｜ 译法＝纬度／经度（强度／延展）
+- **Lebendigkeit**（行 3473）原文列＝Lebendigkeit ｜ 译法＝生命性
+- **Lebensbezüge**（行 3474）原文列＝Lebensbezüge ｜ 译法＝生命关切
+- **Lebensgefühl**（行 3475）原文列＝Lebensgefühl ｜ 译法＝生命情感
+- **Lebensmanifestation**（行 3476）原文列＝Lebensmanifestation ｜ 译法＝生命显现
+- **Lebensstellung**（行 3477）原文列＝Lebensstellung ｜ 译法＝生活态度
+- **Lehrfreiheit**（行 3483）原文列＝Lehrfreiheit ｜ 译法＝教学自由
+- **Leib**（行 3484）原文列＝Leib ｜ 译法＝活的身体
+- **Leibniz language**（行 3486）原文列＝Leibniz language ｜ 译法＝莱布尼茨语言
+- **Lernfreiheit**（行 3491）原文列＝Lernfreiheit ｜ 译法＝学习自由（亦作“学的自由”）
+- **lex**（行 3501）原文列＝lex ｜ 译法＝拉丁原文保留（法律）
+- **lex regia de imperio**（行 3502）原文列＝lex regia de imperio ｜ 译法＝王权法
+- **li**（行 3505）原文列＝理 ｜ 译法＝理（pattern/patterning；条理）
+- **li (establish)**（行 3506）原文列＝立 ｜ 译法＝立
+- **Li Sao**（行 3507）原文列＝離騷 ｜ 译法＝《离骚》
+- **Libertas philosophandi**（行 3517）原文列＝Libertas philosophandi ｜ 译法＝哲学思考自由（亦作“哲思自由”“哲学自由”，拉丁
+- **Lienü Zhuan**（行 3522）原文列＝列女傳 ｜ 译法＝《列女传》
+- **Liezi**（行 3523）原文列＝列子 ｜ 译法＝《列子》
+- **Liji**（行 3529）原文列＝禮記 ｜ 译法＝《礼记》
+- **Liu yi / Liu jing**（行 3550）原文列＝六藝/六經 ｜ 译法＝六艺/六经
+- **Liujing zaidao**（行 3551）原文列＝六經載道 ｜ 译法＝六经载道
+- **liyi**（行 3561）原文列＝理義 ｜ 译法＝理义
+- **lizhi**（行 3562）原文列＝立志 ｜ 译法＝立志（sincere determination
+- **Löb’s theorem**（行 3565）原文列＝Löb’s theorem ｜ 译法＝勒布定理
+- **logistic**（行 3606）原文列＝logistic ｜ 译法＝逻辑斯蒂（20 世纪早期对符号逻辑/数理逻辑的旧
+- **Löwenheim-Skolem theorem**（行 3619）原文列＝Löwenheim-Skolem theorem ｜ 译法＝勒文海姆–斯科伦定理（亦作“L-S定理”）
+- **Lunheng**（行 3626）原文列＝論衡 ｜ 译法＝《论衡》
+- **Lunyu**（行 3627）原文列＝《论语》 ｜ 译法＝《论语》
+- **Lunyu Jijie**（行 3628）原文列＝論語集解 ｜ 译法＝《论语集解》
+- **Lüshi chunqiu**（行 3631）原文列＝呂氏春秋 ｜ 译法＝《吕氏春秋》
+- **Łukasiewicz logic**（行 3637）原文列＝Łukasiewicz logic ｜ 译法＝卢卡西维茨逻辑
+- **Magna Charta Universitatum**（行 3656）原文列＝Magna Charta Universitatum ｜ 译法＝《大学大宪章》
+- **magokoro**（行 3660）原文列＝真心 ｜ 译法＝真心
+- **mañana paradox**（行 3681）原文列＝mañana paradox ｜ 译法＝明天悖论
+- **mandala**（行 3683）原文列＝曼荼羅 ｜ 译法＝曼荼罗
+- **Masters texts**（行 3729）原文列＝諸子 ｜ 译法＝诸子文本
+- **meibutsu**（行 3798）原文列＝名物 ｜ 译法＝名物
+- **Mencius / Mengzi**（行 3800）原文列＝孟子 ｜ 译法＝《孟子》
+- **milieu**（行 3884）原文列＝milieu ｜ 译法＝环境（正文以原文括注，与 environment
+- **ming (allotment)**（行 3895）原文列＝命 ｜ 译法＝命
+- **ming (name)**（行 3896）原文列＝名 ｜ 译法＝名
+- **minima naturalia**（行 3898）原文列＝minima naturalia ｜ 译法＝自然最小体
+- **modi intelligendi**（行 3953）原文列＝modi intelligendi ｜ 译法＝理解样式
+- **modi praedicandi**（行 3954）原文列＝modi praedicandi ｜ 译法＝述谓样式
+- **modi significandi**（行 3955）原文列＝modi significandi ｜ 译法＝意指样式（摩迪斯泰语法）
+- **modus ponens**（行 3962）原文列＝modus ponens ｜ 译法＝肯定前件
+- **modus se habendi**（行 3963）原文列＝modus se habendi ｜ 译法＝情状（modus se habendi）
+- **modus significandi**（行 3964）原文列＝modus significandi ｜ 译法＝意指样式
+- **modus tollens**（行 3965）原文列＝modus tollens ｜ 译法＝否定后件式
+- **mōgo**（行 3966）原文列＝妄語 ｜ 译法＝妄语
+- **monarchia**（行 3979）原文列＝monarchia ｜ 译法＝专权（与 isonomia 相对的独大状态）
+- **mono no aware**（行 3986）原文列＝物の哀れ ｜ 译法＝物哀（物の哀れ）
+- **Mozi**（行 4066）原文列＝墨子 ｜ 译法＝《墨子》
+- **mujō**（行 4069）原文列＝無常 ｜ 译法＝无常（無常）
+- **Müller-Lyer illusion**（行 4071）原文列＝Müller-Lyer illusion ｜ 译法＝米勒-莱尔错觉
+- **Mündigkeit**（行 4092）原文列＝Mündigkeit ｜ 译法＝成熟（康德启蒙语境“自行成熟”；阿多诺政治语境“
+- **Muromachi**（行 4096）原文列＝室町 ｜ 译法＝室町（室町时代）
+- **mysterium tremendum et fascinans**（行 4117）原文列＝mysterium tremendum et fascinans ｜ 译法＝令人战栗又令人迷恋的奥秘（拉丁原文保留斜体）
+- **nacherleben**（行 4128）原文列＝nacherleben ｜ 译法＝再体验（nacherleben；狄尔泰）
+- **naïve realism**（行 4133）原文列＝naïve realism ｜ 译法＝朴素实在论
+- **Naturboden**（行 4176）原文列＝Naturboden ｜ 译法＝自然基地
+- **Needham problem**（行 4191）原文列＝李约瑟问题 ｜ 译法＝李约瑟问题
+- **Nihonjinron**（行 4243）原文列＝日本人論 ｜ 译法＝日本人论
+- **nijiriguchi**（行 4245）原文列＝躙口 ｜ 译法＝躙口
+- **Nō**（行 4256）原文列＝能 ｜ 译法＝能剧（能楽）
+- **nominatio**（行 4276）原文列＝nominatio ｜ 译法＝指称（阿伯拉尔；与 significatio 意
+- **nota illationis**（行 4334）原文列＝nota illationis ｜ 译法＝推断标记
+- **notio**（行 4337）原文列＝notio ｜ 译法＝观念
+- **Novum Organum**（行 4343）原文列＝Novum Organum ｜ 译法＝《新工具》（培根）
+- **Nüjie**（行 4346）原文列＝女誡 ｜ 译法＝《女诫》
+- **Nyāya-Vaiśeṣika**（行 4360）原文列＝Nyāya-Vaiśeṣika ｜ 译法＝正理-胜论派
+- **obex gratiae**（行 4368）原文列＝obex gratiae ｜ 译法＝恩典障碍
+- **obligatio / obligationes**（行 4386）原文列＝obligatio / obligationes ｜ 译法＝义务论辩（正文保留拉丁原词，首现括注）
+- **obligationes**（行 4388）原文列＝obligationes ｜ 译法＝义务理论（保留拉丁原词 *Obligatione
+- **Okularität**（行 4410）原文列＝Okularität ｜ 译法＝目视性
+- **One Mind（yixin/ilsim）**（行 4432）原文列＝一心 ｜ 译法＝一心
+- **opinio communis**（行 4464）原文列＝opinio communis ｜ 译法＝共同意见
+- **Opus postumum**（行 4474）原文列＝Opus postumum ｜ 译法＝《遗著》（*Opus postumum*）
+- **ω-consistency**（行 4529）原文列＝ω-consistency ｜ 译法＝ω-一致性（亦作“ω-相容性”）
+- **ω-provability**（行 4530）原文列＝ω-provability ｜ 译法＝ω-可证性
+- **pars principans**（行 4589）原文列＝pars principans ｜ 译法＝统治部分（政府）
+- **parva naturalia**（行 4610）原文列＝parva naturalia ｜ 译法＝自然短篇
+- **Pensées philosophiques**（行 4638）原文列＝Pensées philosophiques ｜ 译法＝《哲学思想录》（狄德罗）
+- **per prius et posterius**（行 4640）原文列＝per prius et posterius ｜ 译法＝在先与在后意义上（保留拉丁）
+- **per se predication**（行 4642）原文列＝per se predication ｜ 译法＝自身谓述
+- **petites perceptions**（行 4690）原文列＝petites perceptions ｜ 译法＝微知觉
+- **Petőfi Circle**（行 4693）原文列＝Petőfi Circle ｜ 译法＝裴多菲俱乐部
+- **Poincaré transformations**（行 4797）原文列＝Poincaré transformations ｜ 译法＝庞加莱变换
+- **polumathiê**（行 4812）原文列＝polumathiê ｜ 译法＝博闻多识
+- **Popularphilosophie**（行 4822）原文列＝Popularphilosophie ｜ 译法＝大众哲学（通俗哲学）
+- **potentia coactiva**（行 4865）原文列＝potentia coactiva ｜ 译法＝强制权力
+- **potentia dei absoluta / ordinata**（行 4866）原文列＝potentia dei absoluta / ordinata ｜ 译法＝上帝绝对能力/有序能力
+- **praedicamentum signi**（行 4890）原文列＝praedicamentum signi ｜ 译法＝符号范畴
+- **prêstêr**（行 4967）原文列＝prêstêr ｜ 译法＝火旋
+- **prima facie**（行 4972）原文列＝prima facie ｜ 译法＝初显的（亦作“初步的”）
+- **prisca theologia**（行 5019）原文列＝prisca theologia ｜ 译法＝远古神学
+- **pro tanto**（行 5028）原文列＝pro tanto ｜ 译法＝就某一方面而言（pro tanto）
+- **Prolegomena**（行 5071）原文列＝Prolegomena ｜ 译法＝序言
+- **Proslogion**（行 5109）原文列＝Proslogion ｜ 译法＝《宣讲》（安瑟伦）
+- **Publikationsverbot**（行 5160）原文列＝Publikationsverbot ｜ 译法＝出版禁令
+- **Pyrrhus and Cinéas**（行 5178）原文列＝Pyrrhus and Cinéas ｜ 译法＝《皮瑞斯与辛尼阿斯》
+- **qi**（行 5191）原文列＝氣 ｜ 译法＝气（拼音转写，汉字即译名）
+- **Qianfulun**（行 5192）原文列＝潛夫論 ｜ 译法＝《潜夫论》
+- **Qingtan**（行 5193）原文列＝清談 ｜ 译法＝清谈
+- **qizhi**（行 5196）原文列＝气质 ｜ 译法＝气质（qi endowment 气质禀赋）
+- **quaestio**（行 5197）原文列＝quaestio ｜ 译法＝经院论辩（quaestio）
+- **quaestio disputata**（行 5198）原文列＝quaestio disputata ｜ 译法＝论辩问题
+- **quan (discretion)**（行 5207）原文列＝权 ｜ 译法＝权（weighing things up/exp
+- **raison d’état**（行 5272）原文列＝raison d’état ｜ 译法＝国家理性（法文原词保留斜体）
+- **Raku**（行 5273）原文列＝楽焼 ｜ 译法＝乐烧（楽焼）
+- **Rasâ’il**（行 5282）原文列＝Rasâ’il ｜ 译法＝《论文集》
+- **rationes seminales**（行 5298）原文列＝rationes seminales ｜ 译法＝种子理性
+- **reductio**（行 5356）原文列＝reductio ｜ 译法＝归谬法
+- **ren**（行 5440）原文列＝仁 ｜ 译法＝仁（humaneness 仁爱冲动／humani
+- **Renshuo**（行 5443）原文列＝《仁说》 ｜ 译法＝《仁说》
+- **reportationes**（行 5451）原文列＝reportationes ｜ 译法＝听课记录
+- **respublica**（行 5490）原文列＝respublica ｜ 译法＝拉丁原文保留（公共关切/共同善）
+- **ri / chi (mandalic)**（行 5516）原文列＝理・智 ｜ 译法＝理/智
+- **ri-hosshin / rishin**（行 5517）原文列＝理法身 ｜ 译法＝理法身
+- **richi funi**（行 5518）原文列＝理智不二 ｜ 译法＝理智不二
+- **Rinzai**（行 5529）原文列＝臨済 ｜ 译法＝临济（临济禅）
+- **Ritterakademie**（行 5542）原文列＝Ritterakademie ｜ 译法＝骑士学院（保留德文）
+- **ryōbu mandara**（行 5570）原文列＝両部曼荼羅 ｜ 译法＝两部曼荼罗
+- **Sache selbst**（行 5586）原文列＝Sache selbst ｜ 译法＝事情本身（die Sache selbst；亦作
+- **Sachlichkeit**（行 5587）原文列＝Sachlichkeit ｜ 译法＝实事性
+- **sadō**（行 5592）原文列＝茶道 ｜ 译法＝茶道
+- **saisei itchi**（行 5599）原文列＝祭政一致 ｜ 译法＝祭政一致
+- **salonnière**（行 5610）原文列＝salonnière ｜ 译法＝沙龙女主人（法文原词保留斜体）
+- **salto mortale**（行 5611）原文列＝salto mortale ｜ 译法＝纵身一跃（保留拉丁）
+- **samadhi**（行 5612）原文列＝三昧 ｜ 译法＝三昧
+- **Sanbu-sho**（行 5641）原文列＝三部書 ｜ 译法＝三部书
+- **Sanguo Yanyi**（行 5645）原文列＝三國演義 ｜ 译法＝《三国演义》
+- **sansui**（行 5649）原文列＝山水 ｜ 译法＝山水
+- **Satz des Bewusstseins**（行 5666）原文列＝Satz des Bewusstseins ｜ 译法＝意识命题（莱因霍尔德第一原则）
+- **Scheitern**（行 5675）原文列＝Scheitern ｜ 译法＝挫折（亦作“失败”）
+- **scientia**（行 5691）原文列＝scientia ｜ 译法＝知识（经院拉丁术语）
+- **scientia necessaria / ad utrumlibet**（行 5693）原文列＝scientia necessaria / ad utrumlibet ｜ 译法＝必然知识/两可知识
+- **secundum imaginationem**（行 5728）原文列＝secundum imaginationem ｜ 译法＝依据想象（假设情形分析程序）
+- **Selbstaufgabe**（行 5733）原文列＝Selbstaufgabe ｜ 译法＝自我舍弃
+- **Selbstbehauptung**（行 5734）原文列＝Selbstbehauptung ｜ 译法＝自我坚持
+- **Selbstbesinnung**（行 5735）原文列＝Selbstbesinnung ｜ 译法＝自我反思
+- **Selbsthingabe**（行 5736）原文列＝Selbsthingabe ｜ 译法＝自我交付
+- **sensus divinitatis**（行 5815）原文列＝sensus divinitatis ｜ 译法＝神圣感知（保留拉丁，首现括注）
+- **seppuku**（行 5829）原文列＝切腹 ｜ 译法＝切腹
+- **Seven Masters of Jian An**（行 5840）原文列＝建安七子 ｜ 译法＝建安七子
+- **shabetsu**（行 5851）原文列＝差別 ｜ 译法＝差别
+- **shabetsu chiin**（行 5852）原文列＝差別智印 ｜ 译法＝差别智印
+- **Shangjunshu**（行 5855）原文列＝商君書 ｜ 译法＝《商君书》
+- **shengsheng**（行 5864）原文列＝生生 ｜ 译法＝生生
+- **shi (actuality)**（行 5865）原文列＝實 ｜ 译法＝实
+- **shi (timeliness)**（行 5866）原文列＝時 ｜ 译法＝时
+- **shibumi**（行 5867）原文列＝渋み ｜ 译法＝涩味
+- **Shiji**（行 5869）原文列＝史記 ｜ 译法＝《史记》
+- **Shijing**（行 5870）原文列＝《诗经》 ｜ 译法＝《诗经》
+- **shimandara**（行 5871）原文列＝四種曼荼羅 ｜ 译法＝四种曼荼罗
+- **shingon / mantra**（行 5872）原文列＝眞言 ｜ 译法＝真言；真言密教（Shingon Buddhism
+- **shinkoku**（行 5873）原文列＝神国 ｜ 译法＝神国
+- **Shize**（行 5875）原文列＝時則 ｜ 译法＝《时则》（《淮南子》篇名）
+- **shodō**（行 5876）原文列＝書道 ｜ 译法＝书道
+- **shohō**（行 5877）原文列＝諸法 ｜ 译法＝诸法
+- **Shoin**（行 5878）原文列＝書院 ｜ 译法＝书院（書院）
+- **shōja**（行 5879）原文列＝精舎（祇園精舎） ｜ 译法＝精舍（祇园精舍）
+- **shōjijissō**（行 5880）原文列＝声字実相 ｜ 译法＝声字实相
+- **shu**（行 5884）原文列＝恕 ｜ 译法＝恕
+- **shu (number)**（行 5885）原文列＝数 ｜ 译法＝数（number/probability/rat
+- **shu shu**（行 5886）原文列＝數術 ｜ 译法＝数术
+- **Shuowen Jiezi**（行 5888）原文列＝說文解字 ｜ 译法＝《说文解字》
+- **si duan**（行 5889）原文列＝四端 ｜ 译法＝四端（four beginnings 四端）
+- **Siddham / shittan**（行 5892）原文列＝悉曇 ｜ 译法＝悉昙
+- **significatio**（行 5902）原文列＝significatio ｜ 译法＝意涵（阿伯拉尔）
+- **significatum totale / significatum adaequatum**（行 5905）原文列＝significatum totale / significatum adaequatum ｜ 译法＝总体意谓／充分意谓
+- **singularia**（行 5939）原文列＝singularia ｜ 译法＝殊相（保留拉丁，首现括注）
+- **Sishu**（行 5943）原文列＝四书 ｜ 译法＝四书（Four Books）
+- **Sittlichkeit**（行 5946）原文列＝Sittlichkeit ｜ 译法＝伦理（黑格尔语境；亦作“伦理生活”）
+- **Sōan**（行 5970）原文列＝草庵 ｜ 译法＝草庵
+- **societas**（行 6029）原文列＝societas ｜ 译法＝拉丁原文保留
+- **sokushinjōbutsu**（行 6037）原文列＝即身成仏 ｜ 译法＝即身成佛
+- **Sokushinjōbutsugi**（行 6038）原文列＝即身成仏義 ｜ 译法＝《即身成佛义》
+- **sophisma/sophismata**（行 6053）原文列＝sophisma/sophismata ｜ 译法＝诡辩题
+- **species specialissima**（行 6095）原文列＝species specialissima ｜ 译法＝最狭义的种
+- **sprachloses Denken**（行 6130）原文列＝sprachloses Denken ｜ 译法＝无语言的思维
+- **Sprachnot**（行 6131）原文列＝Sprachnot ｜ 译法＝语言之匮乏
+- **Stände**（行 6157）原文列＝Stände ｜ 译法＝等级（邦等级）
+- **Ständesstaat**（行 6158）原文列＝Ständesstaat ｜ 译法＝等级国家
+- **stare decisis / ratio decidendi**（行 6166）原文列＝stare decisis / ratio decidendi ｜ 译法＝遵循先例（stare decisis）／判决理由
+- **Sterblichkeitsgefühl**（行 6194）原文列＝Sterblichkeitsgefühl ｜ 译法＝有死感
+- **sub specie aeternitatis**（行 6238）原文列＝sub specie aeternitatis ｜ 译法＝永恒之相
+- **Subjekt-Objekt-Spaltung**（行 6255）原文列＝Subjekt-Objekt-Spaltung ｜ 译法＝主客分裂
+- **sukiya**（行 6297）原文列＝数寄屋 ｜ 译法＝数寄屋（茶室）
+- **suspicio**（行 6354）原文列＝suspicio ｜ 译法＝疑念
+- **Symphilosophie**（行 6378）原文列＝Symphilosophie ｜ 译法＝共同哲学
+- **syncategorematica / synsemantica**（行 6384）原文列＝syncategorematica / synsemantica ｜ 译法＝非范畴词／伴语义词（保留拉丁，首现括注）
+- **syndesmos**（行 6392）原文列＝syndesmos ｜ 译法＝联结纽带
+- **Synonymik**（行 6393）原文列＝Synonymik ｜ 译法＝同义词学
+- **tabula rasa**（行 6417）原文列＝tabula rasa ｜ 译法＝白板
+- **taiji**（行 6426）原文列＝太极 ｜ 译法＝太极（supreme polarity 太极）
+- **Taiji tu**（行 6427）原文列＝《太极图》 ｜ 译法＝《太极图》
+- **Taiji tu shuo**（行 6428）原文列＝《太极图说》 ｜ 译法＝《太极图说》
+- **Taikyō senpu undō**（行 6429）原文列＝大教宣布運動 ｜ 译法＝大教宣布运动
+- **Taixuanjing**（行 6431）原文列＝太玄經 ｜ 译法＝《太玄经》
+- **Taizō mandara / Garbha (Garbhakośadhātu)**（行 6432）原文列＝胎蔵曼荼羅 ｜ 译法＝胎藏曼荼罗
+- **Tathandlung**（行 6455）原文列＝Tathandlung ｜ 译法＝事行（费希特：自我的自身设定）
+- **Täuschung**（行 6463）原文列＝Täuschung ｜ 译法＝错觉
+- **theoros**（行 6574）原文列＝theoros ｜ 译法＝观礼者
+- **tian**（行 6608）原文列＝天 ｜ 译法＝天
+- **tianli**（行 6609）原文列＝天理 ｜ 译法＝天理
+- **Tianwen**（行 6610）原文列＝天文 ｜ 译法＝《天文》（《淮南子》篇名）
+- **tiaoli**（行 6611）原文列＝條理 ｜ 译法＝条理
+- **tokonoma**（行 6634）原文列＝床の間 ｜ 译法＝床之间（壁龛）
+- **total significate**（行 6647）原文列＝total significate ｜ 译法＝总意谓
+- **Träume eines Geistersehers**（行 6699）原文列＝Träume eines Geistersehers ｜ 译法＝《视灵者的梦》（康德）
+- **Überlieferung**（行 6782）原文列＝Überlieferung ｜ 译法＝传承（伽达默尔语境）
+- **universitas**（行 6868）原文列＝universitas ｜ 译法＝拉丁原文保留
+- **Unjigi**（行 6872）原文列＝吽字義 ｜ 译法＝《吽字义》
+- **Urphänomen**（行 6888）原文列＝Urphänomen ｜ 译法＝原初现象
+- **Urtheilung**（行 6889）原文列＝Urtheil 或 Urtheilung ｜ 译法＝原初划分
+- **vajra**（行 6916）原文列＝金剛杵 ｜ 译法＝金刚（杵）
+- **Vajrasattva / Kongō-satta**（行 6917）原文列＝金剛薩埵 ｜ 译法＝金刚萨埵
+- **velle / nolle / non-velle**（行 6949）原文列＝velle / nolle / non-velle ｜ 译法＝意愿/不意愿/不愿
+- **Venerabilis Inceptor**（行 6951）原文列＝Venerabilis Inceptor ｜ 译法＝可敬的开创者（奥卡姆别号）
+- **Venerable Inceptor**（行 6952）原文列＝Venerable Inceptor ｜ 译法＝可敬的开端者
+- **Vergeschichtlichung**（行 6955）原文列＝Vergeschichtlichung ｜ 译法＝历史化
+- **Verräumlichung**（行 6959）原文列＝Verräumlichung ｜ 译法＝空间化
+- **Verstehen**（行 6960）原文列＝Verstehen ｜ 译法＝理解
+- **Verstehende Psychologie**（行 6961）原文列＝Verstehende Psychologie ｜ 译法＝理解心理学
+- **via affirmativa**（行 6966）原文列＝via affirmativa ｜ 译法＝肯定之路
+- **via Gregorii**（行 6967）原文列＝via Gregorii ｜ 译法＝格里高利之道
+- **via moderna**（行 6968）原文列＝via moderna ｜ 译法＝现代路线（亦作“近代之路”）
+- **vis aestimativa**（行 6998）原文列＝vis aestimativa ｜ 译法＝估量力（亦作“评判力”）
+- **vis copulativa**（行 6999）原文列＝vis copulativa ｜ 译法＝连接力
+- **vis inertiae**（行 7000）原文列＝vis inertiae ｜ 译法＝惰性力
+- **vis viva**（行 7001）原文列＝vis viva ｜ 译法＝活力（vis viva）
+- **Volksgeist**（行 7026）原文列＝Volksgeist ｜ 译法＝民族精神
+- **Volksseele**（行 7027）原文列＝Volksseele ｜ 译法＝民族灵魂
+- **Vorstellung**（行 7036）原文列＝Vorstellung ｜ 译法＝表象（康德/叔本华）
+- **vox populi**（行 7040）原文列＝vox populi ｜ 译法＝人民之声（拉丁原词保留斜体）
+- **wabi**（行 7056）原文列＝侘 ｜ 译法＝侘（侘び）
+- **wabi-sabi**（行 7057）原文列＝侘寂 ｜ 译法＝侘寂
+- **wabicha**（行 7058）原文列＝侘茶 ｜ 译法＝侘茶
+- **Wechselerweis**（行 7083）原文列＝Wechselerweis ｜ 译法＝交替证明（亦作“交互证明”）
+- **Weltanschauung**（行 7097）原文列＝Weltanschauung ｜ 译法＝世界观
+- **Weltfreiheit**（行 7098）原文列＝Weltfreiheit ｜ 译法＝脱离世界
+- **Weltorientierung**（行 7099）原文列＝Weltorientierung ｜ 译法＝世界定向
+- **wen nan**（行 7100）原文列＝問難 ｜ 译法＝问难
+- **Werden**（行 7101）原文列＝Werden ｜ 译法＝生成（Werden）
+- **Wissenschaftslehre**（行 7118）原文列＝Wissenschaftslehre ｜ 译法＝知识学
+- **Wollen**（行 7125）原文列＝Wollen ｜ 译法＝意愿
+- **wu lun**（行 7151）原文列＝五倫 ｜ 译法＝五伦
+- **wuji**（行 7153）原文列＝无极 ｜ 译法＝无极（free of polarity 无极）
+- **wuwei**（行 7156）原文列＝無爲 ｜ 译法＝无为（無爲）
+- **wuxing**（行 7157）原文列＝五行 ｜ 译法＝五行（five phases 五行；不取“五元素
+- **xian ren hou ji**（行 7165）原文列＝先人後己 ｜ 译法＝先人后己
+- **xiang**（行 7166）原文列＝象 ｜ 译法＝象（images；卦象/物象）
+- **Xiaojing**（行 7167）原文列＝《孝经》 ｜ 译法＝《孝经》
+- **xing**（行 7168）原文列＝性 ｜ 译法＝性（人性/禀赋）
+- **xing er shang / xing er xia**（行 7169）原文列＝形而上／形而下 ｜ 译法＝形而上／形而下（above forms／with
+- **Xinshu**（行 7171）原文列＝新書 ｜ 译法＝《新书》
+- **Xinyu**（行 7172）原文列＝新語 ｜ 译法＝《新语》
+- **xinzhi**（行 7173）原文列＝心知 ｜ 译法＝心知
+- **xiu**（行 7174）原文列＝宿 ｜ 译法＝宿
+- **xu**（行 7175）原文列＝虛 ｜ 译法＝虚
+- **Xuanxue**（行 7176）原文列＝玄學 ｜ 译法＝玄学
+- **xueqi**（行 7177）原文列＝血氣 ｜ 译法＝血气
+- **Xunzi**（行 7178）原文列＝荀子 ｜ 译法＝《荀子》
+- **yamato-e**（行 7186）原文列＝大和絵 ｜ 译法＝大和绘
+- **yang**（行 7188）原文列＝陽 ｜ 译法＝阳
+- **yang sheng**（行 7190）原文列＝養生 ｜ 译法＝养生
+- **Yantielun**（行 7191）原文列＝鹽鐵論 ｜ 译法＝《盐铁论》
+- **yì**（行 7198）原文列＝義 ｜ 译法＝义（義）
+- **yi**（行 7199）原文列＝义 ｜ 译法＝义（appropriateness 义；宜）
+- **yi (arts)**（行 7200）原文列＝藝 ｜ 译法＝艺
+- **Yijing / I Ching**（行 7202）原文列＝易經 ｜ 译法＝《周易》（亦作“《易经》”）
+- **yin**（行 7203）原文列＝陰 ｜ 译法＝阴
+- **yin-yang**（行 7204）原文列＝陰陽 ｜ 译法＝阴阳
+- **yuanqi**（行 7210）原文列＝元气 ｜ 译法＝元气（primordial qi 元气）
+- **Yueling**（行 7211）原文列＝月令 ｜ 译法＝《月令》
+- **yūgen**（行 7212）原文列＝幽玄 ｜ 译法＝幽玄
+- **ψ-ontic**（行 7213）原文列＝ψ-ontic ｜ 译法＝ψ-本体论的
+- **Zhonglun**（行 7225）原文列＝中論 ｜ 译法＝《中论》（徐干）
+- **Zhongyong**（行 7226）原文列＝《中庸》 ｜ 译法＝《中庸》
+- **Zhuangzi**（行 7227）原文列＝莊子 ｜ 译法＝《庄子》
+- **zhuzai**（行 7228）原文列＝主宰 ｜ 译法＝主宰（self-mastery/master w
+- **Zhuzi wenji**（行 7229）原文列＝《朱子文集》 ｜ 译法＝《朱子文集》
+- **Zhuzi yulei**（行 7230）原文列＝《朱子语类》 ｜ 译法＝《朱子语类》
+- **ziran**（行 7234）原文列＝自然 ｜ 译法＝自然（self-so）
+- **zuo**（行 7243）原文列＝作 ｜ 译法＝作
+- **Zuo Zhuan**（行 7244）原文列＝左傳 ｜ 译法＝《左氏传》
+- **Zusätze**（行 7245）原文列＝Zusätze ｜ 译法＝补充

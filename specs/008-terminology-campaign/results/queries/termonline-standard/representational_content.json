@@ -1,0 +1,152 @@
+{
+ "key": "representational content",
+ "term": "representational content",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-22T09:53:51+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=527",
+ "hits": [
+  {
+   "cn": "含量",
+   "en": "content",
+   "code": "GB/T 6325—94",
+   "standard": "有机化工产品分析术语",
+   "subject": "其它"
+  },
+  {
+   "cn": "内容",
+   "en": "content",
+   "code": "GB/T 43980—2024",
+   "standard": "口译服务 医疗口译要求",
+   "subject": "社会学、服务、公司（企业）的组织和管理、行政、运输"
+  },
+  {
+   "cn": "内装物",
+   "en": "content",
+   "code": "GB/T 43070—2023",
+   "standard": "纸箱（盒）成型充填插合封口包装机通用技术规范",
+   "subject": "货物的包装和调运"
+  },
+  {
+   "cn": "内容",
+   "en": "content",
+   "code": "GB/T 42092—2022",
+   "standard": "笔译、口译及相关技术 词汇 ",
+   "subject": "社会学、服务、公司（企业）的组织和管理、行政、运输"
+  },
+  {
+   "cn": "内容",
+   "en": "content",
+   "code": "GB/T 40036—2021",
+   "standard": "翻译服务  机器翻译结果的译后编辑  要求",
+   "subject": "社会学、服务、公司（企业）的组织和管理、行政、运输"
+  },
+  {
+   "cn": "内容",
+   "en": "content",
+   "code": "GB/T 38829—2020",
+   "standard": "IPTV媒体交付系统技术要求内容接入",
+   "subject": "电信、音频和视频工程"
+  },
+  {
+   "cn": "内容",
+   "en": "content",
+   "code": "GB/T 38801—2020",
+   "standard": "内容分发网络技术要求互联应用场景",
+   "subject": "电信、音频和视频工程"
+  },
+  {
+   "cn": "内容",
+   "en": "content",
+   "code": "GB/T 30247—2013",
+   "standard": "信息技术  数字版权管理  术语",
+   "subject": "电信、音频和视频工程"
+  },
+  {
+   "cn": "标明量",
+   "en": "declarable content",
+   "code": "GB/T 21633—2020",
+   "standard": "掺混肥料(BB肥)",
+   "subject": "农业"
+  },
+  {
+   "cn": "含水量",
+   "en": "moisture content",
+   "code": "GB/T 7179—1997",
+   "standard": "铁路货运术语",
+   "subject": "社会学、服务、公司（企业）的组织和管理、行政、运输"
+  },
+  {
+   "cn": "含盐量",
+   "en": "salinity content",
+   "code": "GB/T 50942—2014",
+   "standard": "盐渍土地区建筑技术规范",
+   "subject": "其它"
+  },
+  {
+   "cn": "石粉含量",
+   "en": "fine content",
+   "code": "GB 51032—2014",
+   "standard": "铁尾矿砂混凝土应用技术规范",
+   "subject": "其它"
+  },
+  {
+   "cn": "生物黏泥量",
+   "en": "slime content",
+   "code": "GB/T 50050—2017",
+   "standard": "工业循环冷却水处理设计规范",
+   "subject": "其它"
+  },
+  {
+   "cn": "矿化度",
+   "en": "mineral content",
+   "code": "GB/T 50095—2014",
+   "standard": "水文基本术语和符号标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "含水率",
+   "en": "water content",
+   "code": "GB/T 50279—2014",
+   "standard": "岩土工程基本术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "含水率",
+   "en": "moisture content",
+   "code": "GB 50879—2013",
+   "standard": "人造板生产热能中心工程设计规范",
+   "subject": "其它"
+  },
+  {
+   "cn": "含水率",
+   "en": "moisture content",
+   "code": "GB 50822—2012",
+   "standard": "中密度纤维板工程设计规范",
+   "subject": "其它"
+  },
+  {
+   "cn": "含量测定",
+   "en": "content determination",
+   "code": "GB/T 51086—2015",
+   "standard": "医药实验工程术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "内容提供商",
+   "en": "content provider",
+   "code": "GB/T 51252—2017",
+   "standard": "网络电视工程技术规范",
+   "subject": "其它"
+  },
+  {
+   "cn": "谐波含量",
+   "en": "harmonic content",
+   "code": "GB/Z 17624—2023",
+   "standard": "电磁兼容  综述  第7部分：非正弦条件下单相系统的功率因数",
+   "subject": "电信、音频和视频工程"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2024\": 16, \"2023\": 31, \"2022\": 32, \"2021\": 38, \"2020\": 35, \"2019\": 37, \"2018\": 31, \"2017\": 16, \"2016\": 9, \"2015\": 23, \"2014\": 13, \"2013\": 21, \"2012\": 4, \"2011\": 47, \"2010\": 2, \"2009\": 16, \"2008\": 58, \"2007\": 11, \"2006\": 5, \"2005\": 3, \"2002\": 1, \"2001\": 2, \"2000\": 1, \"1998\": 1, \"1997\": 7, \"1996\": 2, \"1988\": 3, \"1984\": 2, \"暂无年份\": 60}, \"sourceStats\": {\"食品技术\": 56, \"采矿和矿产品\": 14, \"道路车辆工程\": 1, \"造船和海上构筑物\": 2, \"造纸技术\": 7, \"货物的包装和调运\": 2, \"计量学和测量、物理现象\": 1, \"航空器和航天器工程\": 2, \"能源和热传导工程\": 10, \"综合、术语学、标准化、文献\": 37, \"纺织和皮革技术\": 52, \"精密机械、珠宝\": 2, \"社会学、服务、公司（企业）的组织和管理、行政、运输\": 13, \"石油及相关技术\": 33, \"电气工程\": 14, \"电子学\": 2, \"电信、音频和视频工程\": 18, \"玻璃和陶瓷工业\": 7, \"环保、保健和安全\": 9, \"涂料和颜料工业\": 9, \"流体系统和通用件\": 6, \"橡胶和塑料工业\": 36, \"机械制造\": 10, \"木材技术\": 11, \"数学、自然科学\": 9, \"成像技术\": 3, \"建筑材料和建筑物\": 18, \"家用和商用设备、文娱、体育\": 2, \"医药卫生技术\": 6, \"化工技术\": 8, \"冶金\": 8, \"农业\": 21, \"其它\": 62, \"信息技术、办公机械\": 33}, \"typeStats\": {\"7\": 527}, \"totalRecords\": 527, \"tmWordList\": [{\"id\": \"a17951def4054f2aae184778d95bf4fc\", \"databaseId\": null, \"standardId\": \"eaad7111837e401e91ead78fc04cf07b\", \"standardCode\": \"GB/T 6325—94\", \"standardName\": \"有机化工产品分析术语\", \"standardEnName\": \"Terminology of analysis for organicchemical products\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"4.7\", \"cnName\": \"含量\", \"enName\": \"content\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 229879, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"含量\", \"cnNameSearch\": \"含量\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"content\", \"wordSearch\": \"content\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"是指含某种成分或物质的量。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"e48cf0c0390b4fb9967964b5604f41fd\", \"databaseId\": null, \"standardId\": \"64bcb1fabd2c40118eb5b740eee9a939\", \"standardCode\": \"GB/T 43980—2024\", \"standardName\": \"口译服务 医疗口译要求\", \"standardEnName\": \"Interpreting services—Requirements for healthcare interpreting\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"社会学、服务、公司（企业）的组织和管理、行政、运输\", \"termCode\": \"3.4.5\", \"cnName\": \"内容\", \"enName\": \"content\", \"publishTime\": \"2024-04-25\", \"publishYear\": \"2024\", \"implementTime\": \"2024-11-01\", \"ics\": \"03.080.01\", \"ccs\": \"A16\", \"parentTermId\": null, \"titleId\": null, \"oid\": 100483, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"内容\", \"cnNameSearch\": \"内容\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"content\", \"wordSearch\": \"content\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"以任何形式呈现的信息。\", \"footnote\": \"\", \"abbreviation\": [], \"examples\": [\"<p>文本、音频、视频等。</p>\"], \"notes\": [], \"refer\": [], \"sources\": [{\"source\": \"GB/T 42092—2022\", \"sourceCode\": \"3.1.2\", \"modifyStatus\": 0, \"modifyContent\": \"\"}], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"b98797bfe36e4cab8c749b00bc47be1b\", \"databaseId\": null, \"standardId\": \"ee02cd4ea0cf4db7b319437de35e7d39\", \"standardCode\": \"GB/T 43070—2023\", \"standardName\": \"纸箱（盒）成型充填插合封口包装机通用技术规范\", \"standardEnName\": \"General specification of carton (box) erecting—filling and tucking—in closing machine\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"货物的包装和调运\", \"termCode\": \"3.3\", \"cnName\": \"内装物\", \"enName\": \"content\", \"publishTime\": \"2023-09-07\", \"publishYear\": \"2023\", \"implementTime\": \"2024-04-01\", \"ics\": \"55.200\", \"ccs\": \"J 83\", \"parentTermId\": null, \"titleId\": null, \"oid\": 232722, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"内装物\", \"cnNameSearch\": \"内装物\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"content\", \"wordSearch\": \"content\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"纸箱（盒）内所装的产品及物品。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"c72ac1e4cce145de9daaa9bff3ec5be0\", \"databaseId\": null, \"standardId\": \"de79e6d4261c403d9e8af157d7273cc3\", \"standardCode\": \"GB/T 42092—2022\", \"standardName\": \"笔译、口译及相关技术 词汇 \", \"standardEnName\": \"Translation , interpreting and related technology—Vocabulary \", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"社会学、服务、公司（企业）的组织和管理、行政、运输\", \"termCode\": \"3.1.2\", \"cnName\": \"内容\", \"enName\": \"content\", \"publishTime\": \"2022-12-30\", \"publishYear\": \"2022\", \"implementTime\": \"2023-07-01\", \"ics\": \"ICS 03.080.99 ; 35.240.30\", \"ccs\": \"CCS A 10\", \"parentTermId\": null, \"titleId\": null, \"oid\": 217986, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"内容\", \"cnNameSearch\": \"内容\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"content\", \"wordSearch\": \"content\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"以任何形式呈现的信息。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [\"<p>文本、音频、视频等。</p>\"], \"notes\": [], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"d72f191eb1ca414c8dc8956c0896d3ea\", \"databaseId\": null, \"standardId\": \"50e89554c7aa4738a041aa44c48e26c8\", \"standardCode\": \"GB/T 40036—2021\", \"standardName\": \"翻译服务  机器翻译结果的译后编辑  要求\", \"standardEnName\": \"Translation services—Post-editing of machine translation output—Requirements\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"社会学、服务、公司（企业）的组织和管理、行政、运输\", \"termCode\": \"3.2.1\", \"cnName\": \"内容\", \"enName\": \"content\", \"publishTime\": \"2021-04-30\", \"publishYear\": \"2021\", \"implementTime\": \"2021-11-01\", \"ics\": \"03.080.99\", \"ccs\": \"A 10\", \"parentTermId\": null, \"titleId\": null, \"oid\": 83151, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"内容\", \"cnNameSearch\": \"内容\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"content\", \"wordSearch\": \"content\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"任何形式的信息。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [\"<p>文本、音频或视频等。</p>\"], \"notes\": [], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"acad2e8261744a26a07d798280c4d372\", \"databaseId\": null, \"standardId\": \"78a9dd8cb3dd47baab8fb4707ae73e41\", \"standardCode\": \"GB/T 38829—2020\", \"standardName\": \"IPTV媒体交付系统技术要求内容接入\", \"standardEnName\": \"Technical requirements for IPTV media delivery system-Content access\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电信、音频和视频工程\", \"termCode\": \"3.1.4\", \"cnName\": \"内容\", \"enName\": \"content\", \"publishTime\": \"2020-06-02\", \"publishYear\": \"2020\", \"implementTime\": \"2020-12-01\", \"ics\": \"33.160.6033\", \"ccs\": \"M32\", \"parentTermId\": null, \"titleId\": null, \"oid\": 125281, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"内容\", \"cnNameSearch\": \"内容\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"content\", \"wordSearch\": \"content\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"任何形式的数字数据。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p><span style=\\\"color: rgb(0, 0, 0);\\\">具有分发和交付附加限制内容的一个重要形式是连续媒体。</span></p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"ff1a378009a549a591c8bd76a7e89689\", \"databaseId\": null, \"standardId\": \"9eadfc5734b14c05879e068d28b1f85e\", \"standardCode\": \"GB/T 38801—2020\", \"standardName\": \"内容分发网络技术要求互联应用场景\", \"standardEnName\": \"Technical requirements for content distribution network-Interconnection use cases\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电信、音频和视频工程\", \"termCode\": \"2.1.4\", \"cnName\": \"内容\", \"enName\": \"content\", \"publishTime\": \"2020-06-02\", \"publishYear\": \"2020\", \"implementTime\": \"2020-12-01\", \"ics\": \"33.160.6033\", \"ccs\": \"M32\", \"parentTermId\": null, \"titleId\": null, \"oid\": 164216, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"内容\", \"cnNameSearch\": \"内容\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"content\", \"wordSearch\": \"content\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"任何形式的数字化的数据。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"具有分发和交付的内容，包括流媒体、图片、文本等。\"], \"refer\": [], \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"8cf316dbf4a8415bb28d63a7d75c53d3\", \"databaseId\": null, \"standardId\": \"9392cca4fbe84cde87152bdde8021733\", \"standardCode\": \"GB/T 30247—2013\", \"standardName\": \"信息技术  数字版权管理  术语\", \"standardEnName\": \"Information technology―digital rights management―Terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电信、音频和视频工程\", \"termCode\": \"2.1.1\", \"cnName\": \"内容\", \"enName\": \"content\", \"publishTime\": \"2013-12-31\", \"publishYear\": \"2013\", \"implementTime\": \"2014-07-15\", \"ics\": \"33.160.253\", \"ccs\": \"M74\", \"parentTermId\": null, \"titleId\": null, \"oid\": 155640, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"内容\", \"cnNameSearch\": \"内容\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"content\", \"wordSearch\": \"content\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"具有特定形式的存在，表现为文本、文字、图片、音视频等形态。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"f6d42d9453e14524a2d8ef3a50bd0c86\", \"databaseId\": null, \"standardId\": \"1d651b1b285b4df8af9b6824a02228e6\", \"standardCode\": \"GB/T 21633—2020\", \"standardName\": \"掺混肥料(BB肥)\", \"standardEnName\": \"Bulk blending fertilizer\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"农业\", \"termCode\": \"3.3\", \"cnName\": \"标明量\", \"enName\": \"declarable content\", \"publishTime\": \"2020-11-19\", \"publishYear\": \"2020\", \"implementTime\": \"2021-06-01\", \"ics\": \"65.080\", \"ccs\": \"G 21\", \"parentTermId\": null, \"titleId\": null, \"oid\": 27955, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"标明量\", \"cnNameSearch\": \"标明量\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"declarable content\", \"wordSearch\": \"declarable content\"}], \"allowableWord\": [], \"refuseWord\": []}, {\"id\": null, \"cnName\": \"标明值\", \"cnNameSearch\": \"标明值\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"declarable content\", \"wordSearch\": \"declarable content\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在肥料包装、标签或质量证明书上标明的养分含量。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"e36b9a69f6f1493c8dfd717f47ed78a6\", \"databaseId\": null, \"standardId\": \"4162b35cc81f425bb43a8c2994d4cd53\", \"standardCode\": \"GB/T 7179—1997\", \"standardName\": \"铁路货运术语\", \"standardEnName\": \"Terminology for railway freight traffic\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"社会学、服务、公司（企业）的组织和管理、行政、运输\", \"termCode\": \"7.1.7\", \"cnName\": \"含水量\", \"enName\": \"moisture content\", \"publishTime\": \"1997-07-02\", \"publishYear\": \"1997\", \"implementTime\": \"1998-02-01\", \"ics\": \"03.220.3003\", \"ccs\": \"S90\", \"parentTermId\": null, \"titleId\": null, \"oid\": 69550, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"含水量\", \"cnNameSearch\": \"含水量\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"moisture content\", \"wordSearch\": \"moisture content\"}, {\"languageType\": 1, \"word\": \"water content\", \"wordSearch\": \"water content\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"单位重量物质中所含水的重量。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"ccdeb61942c440fb8f8e3823d74c8c90\", \"databaseId\": null, \"standardId\": \"0246413cdab9464eab17a4ca108b498a\", \"standardCode\": \"GB/T 50942—2014\", \"standardName\": \"盐渍土地区建筑技术规范\", \"standardEnName\": \"Technical code for building in saline soil regions\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.1.9\", \"cnName\": \"含盐量\", \"enName\": \"salinity content\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 1696, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"含盐量\", \"cnNameSearch\": \"含盐量\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"salinity content\", \"wordSearch\": \"salinity content\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"士中所含盐的质量与土颗粒质量之比。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"ad4ad3f38aea4d049450c4c1bc76755e\", \"databaseId\": null, \"standardId\": \"03ca0647a9434ab49aa233704cb4649b\", \"standardCode\": \"GB 51032—2014\", \"standardName\": \"铁尾矿砂混凝土应用技术规范\", \"standardEnName\": \"Technical code for application of iron tailings sand concrete\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.3\", \"cnName\": \"石粉含量\", \"enName\": \"fine content\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 2397, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"石粉含量\", \"cnNameSearch\": \"石粉含量\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"fine content\", \"wordSearch\": \"fine content\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"铁尾矿砂中粒径小于75<span style=\\\"font-family: &quot;Times New Roman&quot;;\\\"><em>μm</em></span>的颗粒含量。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"a70cfc38d7f543cfb5a07855a6a2f8da\", \"databaseId\": null, \"standardId\": \"29bc819d48654a60b064e9557d772e24\", \"standardCode\": \"GB/T 50050—2017\", \"standardName\": \"工业循环冷却水处理设计规范\", \"standardEnName\": \"Code for design of industrial recirculatingcooling water treatment\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.1.10\", \"cnName\": \"生物黏泥量\", \"enName\": \"slime content\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 39706, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"生物黏泥量\", \"cnNameSearch\": \"生物黏泥量\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"slime content\", \"wordSearch\": \"slime content\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"用生物过滤法测定的循环冷却水所含生物黏泥体积，单位为mL/m<sup>3</sup>。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"1ab6d862e23f446b9862cdc725ce4af1\", \"databaseId\": null, \"standardId\": \"2ab6223e540049078222788acd26c43f\", \"standardCode\": \"GB/T 50095—2014\", \"standardName\": \"水文基本术语和符号标准\", \"standardEnName\": \"Standard for essential terminology and symbol in hydrology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"9.2.4\", \"cnName\": \"矿化度\", \"enName\": \"mineral content\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 40944, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"矿化度\", \"cnNameSearch\": \"矿化度\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"mineral content\", \"wordSearch\": \"mineral content\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"单位水容积内含有的无机矿物质总离子量。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"0d036932b3fd43c495eeb8ea8a3804c2\", \"databaseId\": null, \"standardId\": \"2b07352d5f964837a51fe81e19c9e6d2\", \"standardCode\": \"GB/T 50279—2014\", \"standardName\": \"岩土工程基本术语标准\", \"standardEnName\": \"Standard for fundamental terms of geotechnical engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"4.2.2\", \"cnName\": \"含水率\", \"enName\": \"water content\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 44012, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"含水率\", \"cnNameSearch\": \"含水率\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"water content\", \"wordSearch\": \"water content\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"土中水的质量与土颗粒质量的比值，以百分率表示。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"391c9df789254a91b03e26a21b2a241c\", \"databaseId\": null, \"standardId\": \"3883cd684a5e4cd09b742261b2caea6b\", \"standardCode\": \"GB 50879—2013\", \"standardName\": \"人造板生产热能中心工程设计规范\", \"standardEnName\": \"Code for design of thermal energy plant engineering of wood-based panel production\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.3\", \"cnName\": \"含水率\", \"enName\": \"moisture content\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 62274, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"含水率\", \"cnNameSearch\": \"含水率\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"moisture content\", \"wordSearch\": \"moisture content\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"物料中所含水分质量与绝干物料质量的白分比。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"7f66e1c182934f8e95b58a8a219a925d\", \"databaseId\": null, \"standardId\": \"684f2758321344d1ba868ebfa22e3bf6\", \"standardCode\": \"GB 50822—2012\", \"standardName\": \"中密度纤维板工程设计规范\", \"standardEnName\": \"Code for design of medium density fiberboard engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.5\", \"cnName\": \"含水率\", \"enName\": \"moisture content\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 103356, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"含水率\", \"cnNameSearch\": \"含水率\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"moisture content\", \"wordSearch\": \"moisture content\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"木材或人造板所含水分质量占木材或人造板质量的百分比。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"e0596d2bee9b47b5ba90dd03b8f76feb\", \"databaseId\": null, \"standardId\": \"77c8741d47d54b89b9137dd0c9f41e73\", \"standardCode\": \"GB/T 51086—2015\", \"standardName\": \"医药实验工程术语标准\", \"standardEnName\": \"Standard for terminology of pharmaceutical laboratory engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.1.4\", \"cnName\": \"含量测定\", \"enName\": \"content determination\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 123715, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"含量测定\", \"cnNameSearch\": \"含量测定\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"content determination\", \"wordSearch\": \"content determination\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"以法定方法测定被分析物若干特定组分的含量。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"05c8ecfab51a4deea030a0a83b2a65bd\", \"databaseId\": null, \"standardId\": \"c13a5e50c35247f8923e07aced44fdb5\", \"standardCode\": \"GB/T 51252—2017\", \"standardName\": \"网络电视工程技术规范\", \"standardEnName\": \"Technical code for internet protocol television engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.1.18\", \"cnName\": \"内容提供商\", \"enName\": \"content provider\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 194321, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"内容提供商\", \"cnNameSearch\": \"内容提供商\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"content provider\", \"wordSearch\": \"content provider\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"自身拥有或经授权销售内容或内容资产的实体。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"df0af5c8c3734620be5184b97d6bcdcb\", \"databaseId\": null, \"standardId\": \"cbe4430cd57649feb67fbfb6e42fc825\", \"standardCode\": \"GB/Z 17624—2023\", \"standardName\": \"电磁兼容  综述  第7部分：非正弦条件下单相系统的功率因数\", \"standardEnName\": \"Electromagnetic compatibility—General—Part 7:Power factor in single-phase systems under non-sinusoidal conditions\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电信、音频和视频工程\", \"termCode\": \"3.25\", \"cnName\": \"谐波含量\", \"enName\": \"harmonic content\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \" 33.100.01 \", \"ccs\": \" L  06\", \"parentTermId\": null, \"titleId\": null, \"oid\": 204668, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"谐波含量\", \"cnNameSearch\": \"谐波含量\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"harmonic content\", \"wordSearch\": \"harmonic content\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"一个量中各谐波分量之和。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>谐波含量是时间的函数。</p>\"], \"refer\": [], \"sources\": [{\"source\": \"GB/T  2900.33—2004\", \"sourceCode\": \"551-20-12\", \"modifyStatus\": 1, \"modifyContent\": \"定义扩展至包含间谐波分量的量，删除了原注2 和注3\"}], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 27}}, \"timestamp\": 1795341231789}"
+}

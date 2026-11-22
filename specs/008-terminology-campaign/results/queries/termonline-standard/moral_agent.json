@@ -1,0 +1,152 @@
+{
+ "key": "moral agent",
+ "term": "moral agent",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-22T09:53:47+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=348",
+ "hits": [
+  {
+   "cn": "精神权",
+   "en": "moral right",
+   "code": "GB/T 4894—2009",
+   "standard": "信息与文献 术语",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "代理",
+   "en": "agent",
+   "code": "GB/T 41453—2022",
+   "standard": "地理信息 权限数据字典",
+   "subject": "数学、自然科学"
+  },
+  {
+   "cn": "代理",
+   "en": "agent",
+   "code": "GB/T 39470—2020",
+   "standard": "自动化系统与集成 对象过程方法",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "代理",
+   "en": "agent",
+   "code": "GB/T 39470—2020",
+   "standard": "自动化系统与集成 对象过程方法",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "代理",
+   "en": "agent",
+   "code": "GB/T 32402—2015",
+   "standard": "通信名词术语  数据通信  因特网",
+   "subject": "电信、音频和视频工程"
+  },
+  {
+   "cn": "代理",
+   "en": "agent",
+   "code": "GB/Z 28623—2012",
+   "standard": "健康信息学 消息传输与通信标准中的互操作性与兼容性 关键特性",
+   "subject": "其它"
+  },
+  {
+   "cn": "代理",
+   "en": "agent",
+   "code": "GB/T 15629.2—2008",
+   "standard": "信息技术  系统间远程通信和信息交换  局域网和城域网  特定要求  第2部分：逻辑链路控制",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "代理",
+   "en": "agent",
+   "code": "GB/T 21645.1—2008",
+   "standard": "自动交换光网络(ASON)技术要求 第1部分:体系结构与总体要求",
+   "subject": "电信、音频和视频工程"
+  },
+  {
+   "cn": "渗硼剂",
+   "en": "boriding agent",
+   "code": "GB/T 8121—2012",
+   "standard": "热处理工艺材料 术语",
+   "subject": "机械制造"
+  },
+  {
+   "cn": "脱模剂",
+   "en": "release agent",
+   "code": "GB/T 50886—2013",
+   "standard": "林产工业工程术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "浸润剂",
+   "en": "sizing agent",
+   "code": "GB/T 50731—2019",
+   "standard": "建材工程术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "站务员",
+   "en": "servicepersonnel(agent)",
+   "code": "GB/T 50833—2012",
+   "standard": "城市轨道交通工程基本术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "气化剂",
+   "en": "gasifying agent",
+   "code": "GB/T 50680—2012",
+   "standard": "城镇燃气工程基本术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "基准试剂",
+   "en": "referencere agent",
+   "code": "GB/T 51086—2015",
+   "standard": "医药实验工程术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "封框胶",
+   "en": "seal agent",
+   "code": "GB/T 50780—2013",
+   "standard": "电子工程建设术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "发泡剂",
+   "en": "foaming agent",
+   "code": "GB 5107—2015",
+   "standard": "煤炭矿井设计防火规范",
+   "subject": "其它"
+  },
+  {
+   "cn": "碱化剂",
+   "en": "alkaline agent",
+   "code": "GB/T 50958—2013",
+   "standard": "核电厂常规岛设计规范",
+   "subject": "其它"
+  },
+  {
+   "cn": "触变剂",
+   "en": "thixotropic agent",
+   "code": "GB/T 2943—2025",
+   "standard": "胶 粘 剂 术 语",
+   "subject": "橡胶和塑料工业"
+  },
+  {
+   "cn": "偶联剂",
+   "en": "coupling agent",
+   "code": "GB/T 2943—2025",
+   "standard": "胶 粘 剂 术 语",
+   "subject": "橡胶和塑料工业"
+  },
+  {
+   "cn": "脱模剂",
+   "en": "release agent",
+   "code": "GB/T 2943—2025",
+   "standard": "胶 粘 剂 术 语",
+   "subject": "橡胶和塑料工业"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2025\": 10, \"2024\": 2, \"2023\": 12, \"2022\": 12, \"2021\": 9, \"2020\": 31, \"2019\": 11, \"2018\": 12, \"2017\": 30, \"2016\": 20, \"2015\": 36, \"2014\": 13, \"2013\": 9, \"2012\": 36, \"2011\": 14, \"2010\": 12, \"2009\": 9, \"2008\": 41, \"2007\": 2, \"2006\": 5, \"2005\": 3, \"2001\": 2, \"1988\": 6, \"暂无年份\": 11}, \"sourceStats\": {\"食品技术\": 14, \"采矿和矿产品\": 5, \"造船和海上构筑物\": 1, \"试验\": 4, \"航空器和航天器工程\": 3, \"能源和热传导工程\": 1, \"综合、术语学、标准化、文献\": 10, \"纺织和皮革技术\": 6, \"社会学、服务、公司（企业）的组织和管理、行政、运输\": 24, \"石油及相关技术\": 15, \"电气工程\": 1, \"电子学\": 6, \"电信、音频和视频工程\": 11, \"玻璃和陶瓷工业\": 6, \"环保、保健和安全\": 13, \"涂料和颜料工业\": 5, \"流体系统和通用件\": 1, \"橡胶和塑料工业\": 55, \"机械制造\": 56, \"木材技术\": 1, \"服装工业\": 2, \"数学、自然科学\": 6, \"成像技术\": 1, \"建筑材料和建筑物\": 24, \"家用和商用设备、文娱、体育\": 2, \"医药卫生技术\": 8, \"化工技术\": 26, \"冶金\": 6, \"农业\": 2, \"其它\": 17, \"信息技术、办公机械\": 16}, \"typeStats\": {\"7\": 348}, \"totalRecords\": 348, \"tmWordList\": [{\"id\": \"c8b1aebd09fe4ffc9d2c31f1c2b770a8\", \"databaseId\": null, \"standardId\": \"e124160b0f1a4b1081277012df97d85b\", \"standardCode\": \"GB/T 4894—2009\", \"standardName\": \"信息与文献 术语\", \"standardEnName\": \"Information and documentation—Vocabulary\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"4.7.2.2.9.1\", \"cnName\": \"精神权\", \"enName\": \"moral right\", \"publishTime\": \"2009-09-30\", \"publishYear\": \"2009\", \"implementTime\": \"2010-02-01\", \"ics\": \"01.140.20\", \"ccs\": \"A 14\", \"parentTermId\": null, \"titleId\": null, \"oid\": 219885, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"精神权\", \"cnNameSearch\": \"精神权\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"moral right\", \"wordSearch\": \"moral right\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"著作权的永久的,不可让渡的和不受约束的部分。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"ca9809a1f1c64af4b84985b07b187d51\", \"databaseId\": null, \"standardId\": \"1505423d6ee5475fb229d7aa712ffdfb\", \"standardCode\": \"GB/T 41453—2022\", \"standardName\": \"地理信息 权限数据字典\", \"standardEnName\": \"Geographic information—Rights Data Dictionary for geographicinformation(GeoRDD)\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"数学、自然科学\", \"termCode\": \"3.2\", \"cnName\": \"代理\", \"enName\": \"agent\", \"publishTime\": \"2022-04-15\", \"publishYear\": \"2022\", \"implementTime\": \"2022-04-15\", \"ics\": \"ICS 07.040 \", \"ccs\": \"CCS A 75\", \"parentTermId\": null, \"titleId\": null, \"oid\": 20813, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"代理\", \"cnNameSearch\": \"代理\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"agent\", \"wordSearch\": \"agent\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"实施动作的实体。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>代理是对动作负责的实体。通常，代理是人或法人团体，也可能是计算机或计算机应用程序等非生命体。</p>\", \"事件可以作为代理，直接或间接被激活而成为特定上下文中的代理。如，某事件可能是另一事件的起因。\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"53958e4026a64d348500bb50722e5da5\", \"databaseId\": null, \"standardId\": \"10aa7dc13b3146f8966b6b0f2883175d\", \"standardCode\": \"GB/T 39470—2020\", \"standardName\": \"自动化系统与集成 对象过程方法\", \"standardEnName\": \"Automation systems and integration-Object-process methodology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"3.3\", \"cnName\": \"代理\", \"enName\": \"agent\", \"publishTime\": \"2020-11-19\", \"publishYear\": \"2020\", \"implementTime\": \"2021-06-01\", \"ics\": \"35.240.5035\", \"ccs\": \"J07\", \"parentTermId\": null, \"titleId\": null, \"oid\": 15419, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"代理\", \"cnNameSearch\": \"代理\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"agent\", \"wordSearch\": \"agent\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"一个人或一组人的使能器。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"1f4d73866eb444e69c5ca5bcfa65144f\", \"databaseId\": null, \"standardId\": \"10aa7dc13b3146f8966b6b0f2883175d\", \"standardCode\": \"GB/T 39470—2020\", \"standardName\": \"自动化系统与集成 对象过程方法\", \"standardEnName\": \"Automation systems and integration-Object-process methodology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"3.3\", \"cnName\": \"代理\", \"enName\": \"agent\", \"publishTime\": \"2020-11-19\", \"publishYear\": \"2020\", \"implementTime\": \"2021-06-01\", \"ics\": \"35.240.5035\", \"ccs\": \"J07\", \"parentTermId\": null, \"titleId\": null, \"oid\": 15530, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"代理\", \"cnNameSearch\": \"代理\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"agent\", \"wordSearch\": \"agent\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"一个人或一组人的使能器。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"d6f49b1817e945fab3308438f0a1e1ba\", \"databaseId\": null, \"standardId\": \"e46a94017b0c4211981de9c340b98d4c\", \"standardCode\": \"GB/T 32402—2015\", \"standardName\": \"通信名词术语  数据通信  因特网\", \"standardEnName\": \"Terminology for communications—Data communications—Internet\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电信、音频和视频工程\", \"termCode\": \"3.1.25\", \"cnName\": \"代理\", \"enName\": \"agent\", \"publishTime\": \"2015-12-31\", \"publishYear\": \"2015\", \"implementTime\": \"2016-03-01\", \"ics\": \"33.060.01\", \"ccs\": \"M30\", \"parentTermId\": null, \"titleId\": null, \"oid\": 224889, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"代理\", \"cnNameSearch\": \"代理\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"agent\", \"wordSearch\": \"agent\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"在客户端-服务器模型中，系统中的一部分，用来代表客户端或者服务器应用来执行信息的准备和交换。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"4e424c092f3549c9b4a57cd20b3ae0ba\", \"databaseId\": null, \"standardId\": \"32b176644cd14c5c9530cef8043205b5\", \"standardCode\": \"GB/Z 28623—2012\", \"standardName\": \"健康信息学 消息传输与通信标准中的互操作性与兼容性 关键特性\", \"standardEnName\": \"Health informatics—Interoperability and compatibility in messaging and communication standards—Key characteristics\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"3.6\", \"cnName\": \"代理\", \"enName\": \"agent\", \"publishTime\": \"2012-07-31\", \"publishYear\": \"2012\", \"implementTime\": \"2012-11-01\", \"ics\": \"\", \"ccs\": \"L07\", \"parentTermId\": null, \"titleId\": null, \"oid\": 55567, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"代理\", \"cnNameSearch\": \"代理\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"agent\", \"wordSearch\": \"agent\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"为另一企业对象(在行使管理、履行职能等方面)进行代理，且获得该企业对象授权(管理、职能等)的企业客体(或实体)。<br>[ISO/IEC 15414]\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"02620627070b4e639f531e64809fed68\", \"databaseId\": null, \"standardId\": \"8f06b3e5bd634fb0af5d37cb0091b7ae\", \"standardCode\": \"GB/T 15629.2—2008\", \"standardName\": \"信息技术  系统间远程通信和信息交换  局域网和城域网  特定要求  第2部分：逻辑链路控制\", \"standardEnName\": \"Information technology — Telecommunications and information exchange between systems — Local and metropolitan area networks — Specific requirements — Part 2: Logical link control\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"1.4.30\", \"cnName\": \"代理\", \"enName\": \"agent\", \"publishTime\": \"2008-07-28\", \"publishYear\": \"2008\", \"implementTime\": \"2009-01-01\", \"ics\": \"35.11035\", \"ccs\": \"L78\", \"parentTermId\": null, \"titleId\": null, \"oid\": 151017, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"代理\", \"cnNameSearch\": \"代理\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"agent\", \"wordSearch\": \"agent\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"用以指网络中被管结点的项。被管结点是指包含网络管理实体（NME）的那些结点，该NME能用\\n来配置结点和/或收集描述该结点操作的数据。代理受网络控制主机或管理者控制，该主机或管理者包\\n含控制代理操作的NME和网络管理应用（NMA）软件。代理包含支持用户应用的系统和提供诸如前\\n端处理器、网桥以及路由器等通信服务的结点。（见第30章）\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"fbc1be00e9fe484db143f773e71bcbdc\", \"databaseId\": null, \"standardId\": \"f93012ddb3cd42f1adabb63cff58ae0b\", \"standardCode\": \"GB/T 21645.1—2008\", \"standardName\": \"自动交换光网络(ASON)技术要求 第1部分:体系结构与总体要求\", \"standardEnName\": \"Technical requirements for automatically switched optical network-Part 1: Architecture and general requirements\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电信、音频和视频工程\", \"termCode\": \"3.1\", \"cnName\": \"代理\", \"enName\": \"agent\", \"publishTime\": \"2008-04-10\", \"publishYear\": \"2008\", \"implementTime\": \"2008-11-01\", \"ics\": \"33.040.40\", \"ccs\": \"M 33\", \"parentTermId\": null, \"titleId\": null, \"oid\": 243198, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"代理\", \"cnNameSearch\": \"代理\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"agent\", \"wordSearch\": \"agent\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"描述代表一个资源的特定属性和行为的实体。代理允许在各种资源和管理以及控制功能之间的交互。一个资源可以有多个代理。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"2ef3e2788dc64d4d9fea277303f73b64\", \"databaseId\": null, \"standardId\": \"14f5720ef6f649ef964f8550b56a3bb0\", \"standardCode\": \"GB/T 8121—2012\", \"standardName\": \"热处理工艺材料 术语\", \"standardEnName\": \"The terminology of technological materials for heat treatment\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"机械制造\", \"termCode\": \"6.1\", \"cnName\": \"渗硼剂\", \"enName\": \"boriding agent\", \"publishTime\": \"2012-09-03\", \"publishYear\": \"2012\", \"implementTime\": \"2013-03-01\", \"ics\": \"25.20025\", \"ccs\": \"J36\", \"parentTermId\": null, \"titleId\": null, \"oid\": 20185, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"渗硼剂\", \"cnNameSearch\": \"渗硼剂\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"boriding agent\", \"wordSearch\": \"boriding agent\"}, {\"languageType\": 1, \"word\": \"boronizing agent\", \"wordSearch\": \"boronizing agent\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在给定温度下，能产生活性硼原子的介质。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"38b77104601a4758ad0248c8f841c419\", \"databaseId\": null, \"standardId\": \"0f222aac3a8a4eb2948302df567983bd\", \"standardCode\": \"GB/T 50886—2013\", \"standardName\": \"林产工业工程术语标准\", \"standardEnName\": \"Glossary Standard of Forest Products Industry Engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"3.1.15\", \"cnName\": \"脱模剂\", \"enName\": \"release agent\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 13179, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"脱模剂\", \"cnNameSearch\": \"脱模剂\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"release agent\", \"wordSearch\": \"release agent\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在人造板及表面装饰加工中，为了使热压后的板材与垫板能够很好地分离，在垫板上涂布的化学药剂。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"2f8d377730e54262b350ffa8eb36b71a\", \"databaseId\": null, \"standardId\": \"13d2cee26f414fb1a82ce8778b451d45\", \"standardCode\": \"GB/T 50731—2019\", \"standardName\": \"建材工程术语标准\", \"standardEnName\": \"Standard for terminology of building materials engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"8.1.37\", \"cnName\": \"浸润剂\", \"enName\": \"sizing agent\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 18366, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"浸润剂\", \"cnNameSearch\": \"浸润剂\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"sizing agent\", \"wordSearch\": \"sizing agent\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"纤维生产过程中,施加于单丝上的化学制剂混合物。分为纺织型浸润剂(<span style=\\\"font-family: &quot;Times New Roman&quot;;\\\">textile size</span>)、增强型浸润剂(<span style=\\\"font-family: &quot;Times New Roman&quot;;\\\">plastic size</span>)和纺织增强型浸润剂<span style=\\\"font-family: &quot;Times New Roman&quot;;\\\">(textile&amp; plastic size</span>)。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"583297531bfa43cd9f4a620dcd64aff6\", \"databaseId\": null, \"standardId\": \"500f30ed5dc049f085e7855887188b63\", \"standardCode\": \"GB/T 50833—2012\", \"standardName\": \"城市轨道交通工程基本术语标准\", \"standardEnName\": \"Standard for basic terminology of urban rail transit engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"9.1.3\", \"cnName\": \"站务员\", \"enName\": \"servicepersonnel(agent)\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 82448, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"站务员\", \"cnNameSearch\": \"站务员\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"servicepersonnel(agent)\", \"wordSearch\": \"servicepersonnel(agent)\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在车站从事客运服务工作的服务人员。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"9aca8833ff4a4646b1ddc7ede1f7e021\", \"databaseId\": null, \"standardId\": \"513b58b6d93f42fcabf972f12335ab90\", \"standardCode\": \"GB/T 50680—2012\", \"standardName\": \"城镇燃气工程基本术语标准\", \"standardEnName\": \"Standard for basic terms of city gas engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"5.2.1\", \"cnName\": \"气化剂\", \"enName\": \"gasifying agent\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 83425, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"气化剂\", \"cnNameSearch\": \"气化剂\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"gasifying agent\", \"wordSearch\": \"gasifying agent\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在固体燃料的热加工中参与化学反应的空气（富氧空气）、氧气、水蒸气及氢气等气体介质。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"838da453b4be4cc8b835446795ccf850\", \"databaseId\": null, \"standardId\": \"77c8741d47d54b89b9137dd0c9f41e73\", \"standardCode\": \"GB/T 51086—2015\", \"standardName\": \"医药实验工程术语标准\", \"standardEnName\": \"Standard for terminology of pharmaceutical laboratory engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"3.4.8\", \"cnName\": \"基准试剂\", \"enName\": \"referencere agent\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 123732, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"基准试剂\", \"cnNameSearch\": \"基准试剂\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"referencere agent\", \"wordSearch\": \"referencere agent\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"作为基准物质，标定标准溶液。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"a5f4a88bab094541953a2eed136faf58\", \"databaseId\": null, \"standardId\": \"a90a570b2f444b148adb4bf86bcba482\", \"standardCode\": \"GB/T 50780—2013\", \"standardName\": \"电子工程建设术语标准\", \"standardEnName\": \"Terminology standard of electronics engineering construction\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"5.4.20\", \"cnName\": \"封框胶\", \"enName\": \"seal agent\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 173120, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"封框胶\", \"cnNameSearch\": \"封框胶\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"seal agent\", \"wordSearch\": \"seal agent\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"将液晶显示器上下两片玻璃四周边粘接（密封）使其保持一定的间隙，并使盒中液晶不渗漏，防止外界污染物进入的一种材料。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"2ba047d90852446da690560bd37e2794\", \"databaseId\": null, \"standardId\": \"b0a56e11ccc64c7dae3b0f18263e0c8b\", \"standardCode\": \"GB 5107—2015\", \"standardName\": \"煤炭矿井设计防火规范\", \"standardEnName\": \"Code for design of prevention of mine fire in coal mines\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.1.16\", \"cnName\": \"发泡剂\", \"enName\": \"foaming agent\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 182064, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"发泡剂\", \"cnNameSearch\": \"发泡剂\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"foaming agent\", \"wordSearch\": \"foaming agent\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"具有较高的表面活性、能有效降低液体的表面张力而发泡的物质。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"bc90e1ce5c3045728db3358d16bd1897\", \"databaseId\": null, \"standardId\": \"dd5399594be241ad8e7213dfee0731ca\", \"standardCode\": \"GB/T 50958—2013\", \"standardName\": \"核电厂常规岛设计规范\", \"standardEnName\": \"Code for design of conventional island fornuclear power plant\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.1.9\", \"cnName\": \"碱化剂\", \"enName\": \"alkaline agent\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 216851, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"碱化剂\", \"cnNameSearch\": \"碱化剂\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"alkaline agent\", \"wordSearch\": \"alkaline agent\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"用于提高给水pH，以减缓二回路水汽系统材料腐蚀的化学药剂。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"590a392811cf4dc58e877cc1c1d66a74\", \"databaseId\": null, \"standardId\": \"6829b7d59c1f445c8fb7b4d3de81cfbb\", \"standardCode\": \"GB/T 2943—2025\", \"standardName\": \"胶 粘 剂 术 语\", \"standardEnName\": \"Terms of adhesives\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"橡胶和塑料工业\", \"termCode\": \"5.40\", \"cnName\": \"触变剂\", \"enName\": \"thixotropic agent\", \"publishTime\": \"2025-10-31\", \"publishYear\": \"2025\", \"implementTime\": \"2026-05-01\", \"ics\": \"83.18083\", \"ccs\": \"G 38\", \"parentTermId\": null, \"titleId\": null, \"oid\": 102604, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"触变剂\", \"cnNameSearch\": \"触变剂\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"thixotropic agent\", \"wordSearch\": \"thixotropic agent\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"改善胶粘剂流变特性使其呈现触变性的助剂。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"e5fc5130084d4476b25dbce6a57a7810\", \"databaseId\": null, \"standardId\": \"6829b7d59c1f445c8fb7b4d3de81cfbb\", \"standardCode\": \"GB/T 2943—2025\", \"standardName\": \"胶 粘 剂 术 语\", \"standardEnName\": \"Terms of adhesives\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"橡胶和塑料工业\", \"termCode\": \"5.19\", \"cnName\": \"偶联剂\", \"enName\": \"coupling agent\", \"publishTime\": \"2025-10-31\", \"publishYear\": \"2025\", \"implementTime\": \"2026-05-01\", \"ics\": \"83.18083\", \"ccs\": \"G 38\", \"parentTermId\": null, \"titleId\": null, \"oid\": 102654, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"偶联剂\", \"cnNameSearch\": \"偶联剂\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"coupling agent\", \"wordSearch\": \"coupling agent\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": null, \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"cd9d88d5f6764ef59282d6a13d43529e\", \"databaseId\": null, \"standardId\": \"6829b7d59c1f445c8fb7b4d3de81cfbb\", \"standardCode\": \"GB/T 2943—2025\", \"standardName\": \"胶 粘 剂 术 语\", \"standardEnName\": \"Terms of adhesives\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"橡胶和塑料工业\", \"termCode\": \"8.14\", \"cnName\": \"脱模剂\", \"enName\": \"release agent\", \"publishTime\": \"2025-10-31\", \"publishYear\": \"2025\", \"implementTime\": \"2026-05-01\", \"ics\": \"83.18083\", \"ccs\": \"G 38\", \"parentTermId\": null, \"titleId\": null, \"oid\": 102735, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"脱模剂\", \"cnNameSearch\": \"脱模剂\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"release agent\", \"wordSearch\": \"release agent\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"有助于材料或制品从模具表面脱离的物质。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"蜡质材料或有机硅常被用作脱模剂。\"], \"refer\": [], \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 18}}, \"timestamp\": 1795341227890}"
+}

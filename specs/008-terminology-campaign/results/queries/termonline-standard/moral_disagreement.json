@@ -1,0 +1,26 @@
+{
+ "key": "moral disagreement",
+ "term": "moral disagreement",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-22T09:53:48+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=2",
+ "hits": [
+  {
+   "cn": "精神权",
+   "en": "moral right",
+   "code": "GB/T 4894—2009",
+   "standard": "信息与文献 术语",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "交易纠纷处理",
+   "en": "transaction disagreement resolution",
+   "code": "GB/T 38652—2020",
+   "standard": "电子商务业务术语",
+   "subject": "信息技术、办公机械"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2020\": 1, \"2009\": 1}, \"sourceStats\": {\"综合、术语学、标准化、文献\": 1, \"信息技术、办公机械\": 1}, \"typeStats\": {\"7\": 2}, \"totalRecords\": 2, \"tmWordList\": [{\"id\": \"c8b1aebd09fe4ffc9d2c31f1c2b770a8\", \"databaseId\": null, \"standardId\": \"e124160b0f1a4b1081277012df97d85b\", \"standardCode\": \"GB/T 4894—2009\", \"standardName\": \"信息与文献 术语\", \"standardEnName\": \"Information and documentation—Vocabulary\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"4.7.2.2.9.1\", \"cnName\": \"精神权\", \"enName\": \"moral right\", \"publishTime\": \"2009-09-30\", \"publishYear\": \"2009\", \"implementTime\": \"2010-02-01\", \"ics\": \"01.140.20\", \"ccs\": \"A 14\", \"parentTermId\": null, \"titleId\": null, \"oid\": 219885, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"精神权\", \"cnNameSearch\": \"精神权\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"moral right\", \"wordSearch\": \"moral right\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"著作权的永久的,不可让渡的和不受约束的部分。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"7955e05a90044c8094ea20d3be34ef7d\", \"databaseId\": null, \"standardId\": \"a808f638b83742568992c785c0278748\", \"standardCode\": \"GB/T 38652—2020\", \"standardName\": \"电子商务业务术语\", \"standardEnName\": \"E-commerce business terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"7.11\", \"cnName\": \"交易纠纷处理\", \"enName\": \"transaction disagreement resolution\", \"publishTime\": \"2020-03-31\", \"publishYear\": \"2020\", \"implementTime\": \"2020-10-01\", \"ics\": \"35.24035\", \"ccs\": \"A10\", \"parentTermId\": null, \"titleId\": null, \"oid\": 171608, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"交易纠纷处理\", \"cnNameSearch\": \"交易纠纷处理\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"transaction disagreement resolution\", \"wordSearch\": \"transaction disagreement resolution\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"电子商务平台经营者根据买方或卖方的申请，针对交易纠纷判定责任归属，并对所涉及的商品、资金、赔偿等做出处理的过程。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1795341228393}"
+}

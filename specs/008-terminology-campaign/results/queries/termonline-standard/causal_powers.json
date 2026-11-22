@@ -1,0 +1,19 @@
+{
+ "key": "causal powers",
+ "term": "causal powers",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-22T09:53:20+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=1",
+ "hits": [
+  {
+   "cn": "因果分析",
+   "en": "causal analysis",
+   "code": "GB/T 5271.31—2006",
+   "standard": "信息技术 词汇第31部分:人工智能  机器学习",
+   "subject": "信息技术、办公机械"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2006\": 1}, \"sourceStats\": {\"信息技术、办公机械\": 1}, \"typeStats\": {\"7\": 1}, \"totalRecords\": 1, \"tmWordList\": [{\"id\": \"91f83884733c41feb798c016078e0908\", \"databaseId\": null, \"standardId\": \"123405eebf094949b92968bffedf0cad\", \"standardCode\": \"GB/T 5271.31—2006\", \"standardName\": \"信息技术 词汇第31部分:人工智能  机器学习\", \"standardEnName\": \"Information technology—Vocabulary—Part 31:Artificial intelligence—Machine learning\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"31.03.01\", \"cnName\": \"因果分析\", \"enName\": \"causal analysis\", \"publishTime\": \"2006-03-14\", \"publishYear\": \"2006\", \"implementTime\": \"2006-07-01\", \"ics\": \"35.240.20\", \"ccs\": \"L 60\", \"parentTermId\": null, \"titleId\": null, \"oid\": 16989, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"因果分析\", \"cnNameSearch\": \"因果分析\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"causal analysis\", \"wordSearch\": \"causal analysis\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在学习策略中,由追踪观察到的事件(诸如为达到某目的产生的故障)可能起因的分析。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1795341200838}"
+}

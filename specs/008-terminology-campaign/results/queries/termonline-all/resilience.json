@@ -1,0 +1,512 @@
+{
+ "key": "resilience",
+ "term": "resilience",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-21T13:29:48+00:00",
+ "status": "ok",
+ "note": "variant=resilience; 审定公布名词库=84; 海峡两岸名词对照库=37; 其他来源数据库=4; 预公布名词数据库=6; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "弹性",
+   "en": "resilience ",
+   "source": "草学名词",
+   "wordNumber": "2.0032",
+   "subjectFullName": "草学_草地生态与草地培育_草地生态",
+   "subjectName": "草地生态",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "回弹性",
+   "en": "resilience ",
+   "source": "草学名词",
+   "wordNumber": "2.0082",
+   "subjectFullName": "草学_草地生态与草地培育_草地生态",
+   "subjectName": "草地生态",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "回弹性",
+   "en": "resilience",
+   "source": "化工名词（七）高分子化工",
+   "wordNumber": "3.0063",
+   "subjectFullName": "化工（七）_合成橡胶_总论",
+   "subjectName": "总论",
+   "publishYear": "2022",
+   "definition": "导致物体形变的外力撤除后，物体迅速恢复其原来形状的能力。"
+  },
+  {
+   "cn": "恢复力",
+   "en": "resilience",
+   "source": "动物学名词",
+   "wordNumber": "7.0584",
+   "subjectFullName": "动物学_动物生态学_生态系统生态学",
+   "subjectName": "生态系统生态学",
+   "publishYear": "2021",
+   "definition": "生态系统维持结构与格局的能力，即系统受干扰后恢复原来功能的能力。"
+  },
+  {
+   "cn": "回弹性",
+   "en": "resilience",
+   "source": "冶金学名词",
+   "wordNumber": "05.0207",
+   "subjectFullName": "冶金学_钢铁冶金_耐火材料",
+   "subjectName": "耐火材料",
+   "publishYear": "2019",
+   "definition": "耐火陶瓷纤维制品厚度压缩50.0%后恢复原状的能力。"
+  },
+  {
+   "cn": "恢复力",
+   "en": "resilience",
+   "source": "植物学名词",
+   "wordNumber": "13.0552",
+   "subjectFullName": "植物学_植物生态学_生态系统与景观生态学",
+   "subjectName": "生态系统与景观生态学",
+   "publishYear": "2019",
+   "definition": "生态系统受外部干扰后恢复到原状的能力。"
+  },
+  {
+   "cn": "恢复力",
+   "en": "resilience",
+   "source": "林学名词",
+   "wordNumber": "03.199",
+   "subjectFullName": "林学_森林生态、湿地与自然保护区_森林生态",
+   "subjectName": "森林生态",
+   "publishYear": "2016",
+   "definition": "生态系统维持结构与格局的能力。即系统受干扰后恢复原来结构与功能的能力。"
+  },
+  {
+   "cn": "回弹",
+   "en": "resilience",
+   "source": "化学名词",
+   "wordNumber": "05.0911",
+   "subjectFullName": "化学_高分子化学_高分子物理化学与高分子物理",
+   "subjectName": "高分子物理化学与高分子物理",
+   "publishYear": "2016",
+   "definition": "外力撤除后，材料形变迅速恢复原状的程度。以形变回缩功和初始形变功之比值表示。"
+  },
+  {
+   "cn": "回弹性",
+   "en": "resilience",
+   "source": "材料科学技术名词",
+   "wordNumber": "04.1207",
+   "subjectFullName": "材料科学技术_高分子材料_高分子材料性能及其测试方法",
+   "subjectName": "高分子材料性能及其测试方法",
+   "publishYear": "2011",
+   "definition": "导致物体形变的外力撤除后，物体迅速恢复其原来形状的能力。通常用应变的试样在应力除去后快速回复时的输出能与使试样应变时的输入能之比值来量度。"
+  },
+  {
+   "cn": "恢复力",
+   "en": "resilience",
+   "source": "生态学名词",
+   "wordNumber": "07.306",
+   "subjectFullName": "生态学_生态系统生态学",
+   "subjectName": "生态系统生态学",
+   "publishYear": "2006",
+   "definition": "生态系统维持结构与格局的能力，即系统受干扰后恢复原来功能的能力。"
+  },
+  {
+   "cn": "弹性",
+   "en": "resilience",
+   "source": "化学工程名词",
+   "wordNumber": "05.109",
+   "subjectFullName": "化学工程_过程系统工程_过程综合",
+   "subjectName": "过程综合",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "市场弹性",
+   "en": "resiliency",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0212",
+   "subjectFullName": "管理科学技术_金融工程_原理",
+   "subjectName": "原理",
+   "publishYear": "2016",
+   "definition": "由交易行为引起的价格波动消失的速度，或者说对委托订单簿中买入订单量与卖出订单量之间差异调整的速度。"
+  },
+  {
+   "cn": "回弹力",
+   "en": "resilience force",
+   "source": "化工名词（七）高分子化工",
+   "wordNumber": "3.0058",
+   "subjectFullName": "化工（七）_合成橡胶_总论",
+   "subjectName": "总论",
+   "publishYear": "2022",
+   "definition": "材料为抵抗形变而产生的反作用力。"
+  },
+  {
+   "cn": "回弹能量",
+   "en": "resilience energy",
+   "source": "化工名词（七）高分子化工",
+   "wordNumber": "3.006",
+   "subjectFullName": "化工（七）_合成橡胶_总论",
+   "subjectName": "总论",
+   "publishYear": "2022",
+   "definition": "弹性物体受外力作用发生形变，吸收部分能量后的剩余能量。"
+  },
+  {
+   "cn": "回弹系数",
+   "en": "resilience factor",
+   "source": "化工名词（七）高分子化工",
+   "wordNumber": "3.0062",
+   "subjectFullName": "化工（七）_合成橡胶_总论",
+   "subjectName": "总论",
+   "publishYear": "2022",
+   "definition": "回弹计重锤最大反弹距离与弹簧初始长度之比。"
+  },
+  {
+   "cn": "回弹性计",
+   "en": "resilience meter",
+   "source": "化工名词（七）高分子化工",
+   "wordNumber": "3.0848",
+   "subjectFullName": "化工（七）_合成橡胶_合成橡胶的加工及改性",
+   "subjectName": "合成橡胶的加工及改性",
+   "publishYear": "2022",
+   "definition": "利用弹簧驱动重锤，重锤以恒定的动能撞击材料表面，使局部材料发生变形并吸收一部分能量，另一部分能量转化为重锤的反弹动能，当反弹动能全部转化成势能时，重锤反弹达到最大距离，记录将重锤的最大反弹距离以回弹值"
+  },
+  {
+   "cn": "恢复力稳定性",
+   "en": "resilience stability",
+   "source": "动物学名词",
+   "wordNumber": "7.0585",
+   "subjectFullName": "动物学_动物生态学_生态系统生态学",
+   "subjectName": "生态系统生态学",
+   "publishYear": "2021",
+   "definition": "群落或生态系统在受到外界干扰后回到原来状态的能力。"
+  },
+  {
+   "cn": "气候韧性",
+   "en": "climate resilience",
+   "source": "农学名词",
+   "wordNumber": "13.235",
+   "subjectFullName": "农业气象_气候变化与农业",
+   "subjectName": "气候变化与农业",
+   "publishYear": "2025",
+   "definition": "农业生态系统在面对气候变化和极端天气气候等不利环境影响时，能够适应这种外部扰动，保持自身生态系统的平衡，且即使平衡被打破，也能迅速进行自我调节，保持有利于系统健康状态的能力。"
+  },
+  {
+   "cn": "系统弹性",
+   "en": "system resilience ",
+   "source": "草学名词",
+   "wordNumber": "2.0327",
+   "subjectFullName": "草学_草地生态与草地培育_草地生态",
+   "subjectName": "草地生态",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "冲击回弹性",
+   "en": "impact resilience",
+   "source": "化工名词（七）高分子化工",
+   "wordNumber": "3.0005",
+   "subjectFullName": "化工（七）_合成橡胶_总论",
+   "subjectName": "总论",
+   "publishYear": "2022",
+   "definition": "材料受冲击能作用而产生变形的性能。在快速而充分地恢复时，输出能量与输入能量的比值，用百分率表示，百分率越大，材料的冲击回弹性越好。"
+  },
+  {
+   "cn": "恢复力",
+   "en": "resilience",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "韧性",
+   "en": "resilience",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "弹性",
+   "en": "resilience",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "复原力",
+   "en": "resilience",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "回弹性",
+   "en": "resilience",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "恢复力,弹性",
+   "en": "resilience",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "回弹",
+   "en": "resilience",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "恢复力",
+   "en": "resilience",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "弹性",
+   "en": "resilience",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "回弹力",
+   "en": "resilience",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "复原",
+   "en": "resilience",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "弹性",
+   "en": "elasticity\",\"resilience",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "复原稳定性",
+   "en": "resilience stability",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "弹性稳定性",
+   "en": "resilience stability",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "过程反弹",
+   "en": "process resilience",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "肖伯回弹性",
+   "en": "Schob resilience",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "拜占庭弹回",
+   "en": "Byzantine resilience",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "弹性联轴器",
+   "en": "resilient shaft coupling\",\"elastic coupling",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "停留时间（=滞留时间）",
+   "en": "residence time",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "滞留时间，停留时间",
+   "en": "residence time",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "弹性覆盖网络",
+   "en": "resilient overlay network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "多难兴邦",
+   "en": "Adversities Reinforce a Nation’s Resilience",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中国经济韧性强劲，内需空间广阔，产业基础雄厚",
+   "en": "China’s economy enjoys strong resilience, broad space for domestic demand, and a solid industrial foundation.",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "暂时停止外国人持目前有效来华签证和居留许可证入境",
+   "en": "to temporarily suspend the entry into China of foreign nationals holding valid visas or residence permits",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "韧性理论",
+   "en": "resilience theory",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.5.8",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_生活技能教育",
+   "subjectName": "生活技能教育",
+   "publishYear": "2025",
+   "definition": "阐述儿童青少年在面对压力、逆境等风险时能积极应对其消极影响的具体机制的理论。"
+  },
+  {
+   "cn": "心理弹性",
+   "en": "psychological resilience",
+   "source": "社会医学名词",
+   "wordNumber": "13.8.3",
+   "subjectFullName": "社会病",
+   "subjectName": "社会心理应激",
+   "publishYear": "2025",
+   "definition": "个体在面对逆境、压力、创伤或重大变化时，能够积极适应、有效恢复并保持良好发展的能力。"
+  },
+  {
+   "cn": "从妻居",
+   "en": "uxorilocal residence",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0384",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "母系氏族时期流行的一种婚姻居住形式，指婚后丈夫到妻子家定居的习俗。它是由于女性地位不断提高由望门居演变而来。由从前的男子偶居女子处改为迁移到女子氏族公社居住，双方在一个共产制经济单位中生活。这种婚姻中"
+  },
+  {
+   "cn": "从夫居",
+   "en": "virilocal residence",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0383",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "父系制时代的一种婚姻形式，指夫妇二人婚后居住于丈夫家的习俗。从夫居的产生是由于生产力不断发展，男子在生产中占据主导地位，而妇女沦为从属地位的结果。"
+  },
+  {
+   "cn": "街居制",
+   "en": "residence-based administration",
+   "source": "社会学名词",
+   "wordNumber": "3.4.13.10",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_中国现代城市",
+   "subjectName": "中国现代城市",
+   "publishYear": "2025",
+   "definition": "在城市基层域为单位建立的行政管理和社会管理相结合的管理体制。"
+  },
+  {
+   "cn": "同居共财",
+   "en": "residence and wealth sharing",
+   "source": "社会学名词",
+   "wordNumber": "3.1.2.3",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_世系",
+   "subjectName": "世系",
+   "publishYear": "2025",
+   "definition": "家庭所有成员长期稳定地居住在一所或毗邻的几所房屋之内（有户籍制度的情况下都登记在国家的一个户籍之中）、家庭的全部生产资料和生活资料为家庭成员所共有、由家长实施支配权的生活组织方式和家产制度。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

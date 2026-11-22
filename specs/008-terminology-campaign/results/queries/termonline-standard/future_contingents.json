@@ -1,0 +1,40 @@
+{
+ "key": "future contingents",
+ "term": "future contingents",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-22T09:53:34+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=4",
+ "hits": [
+  {
+   "cn": "未来参考帧",
+   "en": "future reference frame",
+   "code": "GB/T 7400—2011",
+   "standard": "广播电视术语",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "未来分析模式",
+   "en": "future analysis mode",
+   "code": "GB/T 40606—2021",
+   "standard": "电网在线安全分析与控制辅助决策技术规范",
+   "subject": "电气工程"
+  },
+  {
+   "cn": "扩充阀箱",
+   "en": "future tee box",
+   "code": "GB 50781—2012",
+   "standard": "电子工厂化学品系统工程技术规范",
+   "subject": "其它"
+  },
+  {
+   "cn": "近期和远期",
+   "en": "the near future and forward",
+   "code": "GB 51194—2016",
+   "standard": "通信电源设备安装工程设计规范",
+   "subject": "其它"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2021\": 1, \"2012\": 1, \"2011\": 1, \"暂无年份\": 1}, \"sourceStats\": {\"综合、术语学、标准化、文献\": 1, \"电气工程\": 1, \"其它\": 2}, \"typeStats\": {\"7\": 4}, \"totalRecords\": 4, \"tmWordList\": [{\"id\": \"85c25255791c41cb8b7167a985bbef48\", \"databaseId\": null, \"standardId\": \"8c57580bcd594be2b2516923ee4479ad\", \"standardCode\": \"GB/T 7400—2011\", \"standardName\": \"广播电视术语\", \"standardEnName\": \"Radio and television terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"3.1073\", \"cnName\": \"未来参考帧\", \"enName\": \"future reference frame\", \"publishTime\": \"2011-12-30\", \"publishYear\": \"2011\", \"implementTime\": \"2012-06-01\", \"ics\": \"01.040.33\", \"ccs\": \"M 04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 148569, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"未来参考帧\", \"cnNameSearch\": \"未来参考帧\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"future reference frame\", \"wordSearch\": \"future reference frame\"}], \"allowableWord\": [], \"refuseWord\": []}, {\"id\": null, \"cnName\": \"未来参考场\", \"cnNameSearch\": \"未来参考场\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"future reference field\", \"wordSearch\": \"future reference field\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"按照顺序在当前图像之后出现的参考帧（场）。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"068345cbb0334897899b1880f4578275\", \"databaseId\": null, \"standardId\": \"a0d727d1fcb34bf993fc39c398d61f59\", \"standardCode\": \"GB/T 40606—2021\", \"standardName\": \"电网在线安全分析与控制辅助决策技术规范\", \"standardEnName\": \"Technical specifications for online security analysis and auxiliary decision-making  of power grid\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电气工程\", \"termCode\": \"3.6\", \"cnName\": \"未来分析模式\", \"enName\": \"future analysis mode\", \"publishTime\": \"2021-10-11\", \"publishYear\": \"2021\", \"implementTime\": \"2022-05-01\", \"ics\": \"29.020\", \"ccs\": \"F 21\", \"parentTermId\": null, \"titleId\": null, \"oid\": 166443, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"未来分析模式\", \"cnNameSearch\": \"未来分析模式\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"future analysis mode\", \"wordSearch\": \"future analysis mode\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在当前电网运行方式基础上，叠加日内滚动调度计划、超短期/短期母线负荷预测等信息生成未来电网运行方式并分析计算。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"f126ad8a15f249f8a8ca6b84db5eb199\", \"databaseId\": null, \"standardId\": \"2a679c8e8be344aa84728e97723113e6\", \"standardCode\": \"GB 50781—2012\", \"standardName\": \"电子工厂化学品系统工程技术规范\", \"standardEnName\": \"Technical code for Chemical System of Electronic Factory\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.1.9\", \"cnName\": \"扩充阀箱\", \"enName\": \"future tee box\", \"publishTime\": \"2012-06-28\", \"publishYear\": \"2012\", \"implementTime\": \"2012-12-01\", \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 40195, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"扩充阀箱\", \"cnNameSearch\": \"扩充阀箱\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"future tee box\", \"wordSearch\": \"future tee box\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"化学品供应系统中用于系统扩充的设置于系统末端的阀箱。\", \"footnote\": null, \"abbreviation\": [\"FTB\"], \"examples\": [], \"notes\": [], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"35b8a1cb007e48ccb489c07898fef8fd\", \"databaseId\": null, \"standardId\": \"a901703f230d4350a8b2ca3b60464867\", \"standardCode\": \"GB 51194—2016\", \"standardName\": \"通信电源设备安装工程设计规范\", \"standardEnName\": \"Code for design of engineering for telecommunication power supply equipment installation\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.1\", \"cnName\": \"近期和远期\", \"enName\": \"the near future and forward\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 172653, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"近期和远期\", \"cnNameSearch\": \"近期和远期\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"the near future and forward\", \"wordSearch\": \"the near future and forward\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"考虑工程建设规模,需要对负荷进行经济合理的划分。工程项目建成投产后的1年~3年内为近期;工程项目建成投产后的3年~5 年为远期。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1795341214112}"
+}

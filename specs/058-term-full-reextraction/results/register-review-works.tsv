@@ -1,11 +1,8 @@
 score	type	freq	spread	tier	pool_status	en	sources
 15539	work	379	65	T1	new	Principia	a/algebra-logic-tradition；a/atomism-modern；a/autrecourt
 13899	work	339	74	T1	new	Tractatus	a/analysis；a/analysis.bib1；a/analysis.bib6
-3813	work	93	54	T1	new	Theory of Justice	a/affirmative-action；a/autonomy-moral；b/bioethics-latin-america
 2754	work	102	26	T1	new	feminist ethics	b/bioethics-moral-reasoning；c/childhood；c/chinese-translate-interpret
 2502	work	139	17	T1	new	informal logic	a/al-farabi-logic；a/argument；b/beardsley-aesthetics
-2378	work	58	43	T1	new	Principles of Philosophy	a/analysis.bib4；a/arnauld；a/astell
-2091	work	51	42	T1	new	Treatise of Human Nature	a/argument；a/associationist-thought；b/beauty
 1274	work	98	12	T1	new	Justification Logic	d/dynamic-epistemic；d/dynamic-epistemic.appendix-K-evidence；h/hyperintensionality
 1219	work	53	22	T1	new	Groundwork	a/aesthetics-18th-german；c/chimeras；d/dignity
 1104	work	48	22	T1	new	Phenomenology of Spirit	a/adorno；a/aesthetic-experience；a/analysis.bib5
@@ -122,80 +119,3 @@ score	type	freq	spread	tier	pool_status	en	sources
 64	work	16	3	T2	new	autoepistemic logic	l/logic-ai；l/logic-nonmonotonic；r/reasoning-defeasible
 64	work	8	7	T2	new	Guide for the Perplexed	a/abu-bakr-al-razi；a/al-baghdadi；a/arabic-islamic-influence
 63	work	21	2	T2	new	Letters for the Advancement	h/herder；h/herder.supplement
-60	work	10	5	T2	new	Stetigkeit und irrationale Zahlen	d/dedekind-foundations；l/logicism；p/proof-theory
-60	work	15	3	T2	new	Theory of Communicative Action	c/critical-theory；h/habermas；m/mead
-56	work	7	7	T2	new	Commentary on the Metaphysics	b/boundary；d/demonstration-medieval；m/medieval-categories
-56	work	8	6	T2	new	Introduction to Mathematical Philosophy	a/analysis.bib6；l/logical-construction；p/principia-mathematica
-56	work	8	6	T2	new	Philosophical Foundations of Physics	a/analysis.bib6；c/carnap；c/carnap.carnap-quine
-56	work	14	3	T2	-	physical causal closure	a/anomalous-monism；a/anomalous-monism.c-laws-of-nature；p/properties-emergent
-56	work	8	6	T2	new	Reasons and Persons	l/locke-personal-identity；p/personhood-india；p/prioritarianism
-56	work	8	6	T2	-	sexual politics	c/collingwood-aesthetics；f/feminism-aesthetics；f/feminism-latin-america
-56	work	8	6	T2	new	Wealth of Nations	c/condillac；e/economics-early-modern；p/paine
-55	work	11	4	T2	new	God Some Conversations	a/aesthetics-18th-german；h/herder；h/herder.supplement
-55	work	11	4	T2	new	Introduction to Arithmetic	a/arabic-islamic-phil-math；i/iamblichus；p/pythagoras
-54	work	18	2	T2	new	Essay on Government	j/james-mill；m/mill-moral-political
-54	work	9	5	T2	new	History of Chinese Philosophy	a/analysis.bib2；a/analysis.bib3；a/analysis.bib4
-54	work	9	5	T2	new	Remarks and Admonitions	a/arabic-islamic-essence；a/arabic-islamic-judaic；i/ibn-sina-metaphysics
-54	work	18	2	T2	-	Simple Conditional Analysis	d/dispositions；f/freewill
-50	work	10	4	T2	new	Book of History	c/chinese-change；c/chinese-social-political；e/ethics-chinese
-50	work	10	4	T2	new	Dreams of Spirit-Seer	h/hartshorne；k/kant-development；k/kant-hume-causality
-50	work	10	4	T2	new	Intentions of the Philosophers	a/al-baghdadi；a/arabic-islamic-influence；a/arabic-islamic-judaic
-50	work	10	4	T2	new	Spring and Autumn Annals	c/confucius；j/japanese-confucian；n/neo-daoism
-49	work	7	6	T2	new	Treatise on Probability	a/analysis.s1；d/decision-theory-descriptive；i/imprecise-probabilities.supplement-historical
-48	work	12	3	T2	new	Proofs and Refutations	l/lakatos；m/mathematical-practice；m/mathematics-nondeductive
-48	work	8	5	T2	new	Refutation of all Heresies	a/anaxagoras；d/doxography-ancient；e/empedocles
-48	work	12	3	T2	new	revealed preference theory	d/decision-theory；g/game-theory；p/preferences
-48	work	8	5	T2	new	Search After Truth	d/desgabets；e/emotions-17th18th.LD4Malebranche；i/illumination
-45	work	9	4	T2	new	Basic Laws of Arithmetic	f/frege-logic；f/frege.catalog；l/logical-construction
-45	work	9	4	T2	new	Independence of Irrelevant Alternatives	a/arrows-theorem；d/democracy；s/social-choice
-45	work	15	2	T2	new	Notule libri Priorum	m/modality-medieval；s/singular-terms-medieval
-44	work	11	3	T2	new	Book of Definitions	a/arabic-islamic-judaic；i/israeli；m/maimonides-islamic
-42	work	7	5	T2	new	Foundations of Physics	e/emilie-du-chatelet；g/geometry-19th.vita；n/newton-philosophy
-42	work	14	2	T2	-	Huang Di neijing	c/chinese-phil-medicine；c/chinese-phil-science
-42	work	14	2	T2	new	Life of Isidore	a/ammonius；s/syrianus
-42	work	6	6	T2	new	My Philosophical Development	a/analysis.bib6；a/analysis.s6；c/chisholm
-42	work	7	5	T2	new	Principles of Human Knowledge	a/attention；b/burke；m/mental-representation
-42	work	7	5	T2	new	rules of inference	c/category-theory；l/lambda-calculus；n/natural-deduction
-42	work	6	6	T2	new	Works and Days	a/ancient-political；c/callicles-thrasymachus；h/hope
-40	work	10	3	T2	new	Journal of Indian Philosophy	a/analysis.bib2；a/analysis.bib3；a/analysis.bib4
-40	work	8	4	T2	-	Mary Church Terrell	a/africana；a/anna-julia-cooper；f/femapproach-pragmatism
-40	work	8	4	T2	new	Modern Introduction to Logic	a/analysis.bib6；a/analysis.s6；b/boundary
-40	work	10	3	T2	new	Popular Science Monthly	a/analysis.bib5；p/peirce；p/poincare
-40	work	10	3	T2	-	short discourse	a/anaphora；a/arnauld；o/ockham
-39	work	13	2	T2	new	Sacred Discourse	p/pythagoras；p/pythagoreanism
-36	work	6	5	T2	new	Bodies that Matter	b/boundary；f/femapproach-continental；f/feminism-self.bib
-36	work	6	5	T2	new	Brown Board of Education	a/africana；c/civil-rights；c/constitutionalism
-36	work	9	3	T2	new	Commentary on the Categories	b/burley；s/simplicius；s/simplicius.commentaries
-36	work	6	5	T2	new	Comments on Certain Broadsheet	d/descartes；d/descartes-ideas；d/descartes-works
-36	work	6	5	T2	new	Conjectures and Refutations	l/lakatos；p/popper；s/scientific-progress
-36	work	6	5	T2	new	Kritik der reinen Vernunft	a/august-rehberg；i/information；k/kant-spacetime
-36	work	9	3	T2	new	Les Bijoux indiscrets	d/diderot；d/diderot.bio；e/erotic-art
-36	work	6	5	T2	new	Natural History of Religion	a/atheism-agnosticism；h/hume；h/hume-religion
-36	work	6	5	T2	new	Parerga and Paralipomena	c/creativity；h/hope；n/nietzsche
-35	work	7	4	T2	new	Book of Religion	a/al-farabi；a/al-farabi-soc-rel；m/maimonides-islamic
-35	work	7	4	T2	new	Book of Rites	c/chinese-mind；c/confucian-gender；j/japanese-confucian
-35	work	7	4	T2	new	Economy and Society	c/collective-responsibility；m/methodological-individualism；s/schutz
-35	work	7	4	T2	new	Hansson Sven Ove	l/logic-belief-revision；p/preferences；p/pseudo-science
-35	work	7	4	T2	-	Implicit Association Test	a/associationist-thought；d/dehumanization；i/implicit-bias
-35	work	7	4	T2	new	Indian Logic Reader	a/analysis.bib2；a/analysis.bib3；a/analysis.bib4
-33	work	11	2	T2	-	information loss paradox	p/phil-science-latin-america；s/spacetime-singularities
-33	work	11	2	T2	new	Motivational Judgment Internalism	m/moral-motivation；n/normativity-metaethics
-32	work	8	3	T2	new	Age of Reason	m/mental-disorder；p/paine；r/richard-price
-32	work	8	3	T2	new	Deus sive natura	b/bruno；g/god-ultimates；s/spinoza
-32	work	8	3	T2	new	Liberalism and Social Action	a/addams-jane；d/dewey；d/dewey-political
-32	work	8	3	T2	new	Sein und Zeit	g/gasset；p/process-philosophy；w/watsuji-tetsuro
-32	work	8	3	T2	new	System of Nature	e/enlightenment；e/evolution-before-darwin；h/holbach
-32	work	8	3	T2	new	Works of Love	e/emotion-Christian-tradition；h/hope；k/kierkegaard
-30	work	10	2	T2	new	American Philosophical Quarterly	f/feminism-self.bib；j/justice-distributive.bib
-30	work	6	4	T2	new	Attainment of Happiness	a/al-farabi；a/al-farabi-metaphysics；a/al-farabi-metaphysics.reviving-sciences
-30	work	6	4	T2	new	Cartesian Logic	a/analysis.bib1；a/analysis.bib4；c/clauberg
-30	work	5	5	T2	new	Commentaria in Aristotelem Graeca	a/alexander-aphrodisias；e/elias；p/pythagoreanism
-30	work	10	2	T2	new	Eros and Civilization	m/marcuse；w/wilhelm-humboldt
-30	work	6	4	T2	new	Essay on Man	b/beardsley-aesthetics；h/henry-more；k/kant-religion
-30	work	10	2	T2	new	Ethics of Pure Will	b/benjamin；c/cohen
-30	work	6	4	T2	new	Historical and Critical Dictionary	b/bayle；b/boundary；e/enlightenment
-30	work	5	5	T2	new	Outlines of Scepticism	c/certainty；f/fictionalism；f/francisco-sanches
-30	work	10	2	T2	new	Philosophie als Analysis	a/analysis.bib1；a/analysis.bib4
-30	work	6	4	T2	-	Posterior Analytics Topics	a/albert-great；l/logic-ancient；m/medieval-categories
-30	work	6	4	T2	new	Prolegomena to Ethics	g/green；i/idealism；m/mill-moral-political
-30	work	10	2	T2	new	Source Incompatibilist Argument	c/compatibilism；c/compatibilism.supplement

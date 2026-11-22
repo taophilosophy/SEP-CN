@@ -1,0 +1,33 @@
+{
+ "key": "linguistic meaning",
+ "term": "linguistic meaning",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-22T09:53:45+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=3",
+ "hits": [
+  {
+   "cn": "意义",
+   "en": "meaning",
+   "code": "GB/T 4894—2009",
+   "standard": "信息与文献 术语",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "代码含义",
+   "en": "code meaning",
+   "code": "GB/T 21715.7—2010",
+   "standard": "健康信息学 患者健康卡数据 第7部分:用药数据",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "值含义描述",
+   "en": "value meaning description",
+   "code": "GB/T 18391.1—2009",
+   "standard": "信息技术 元数据注册系统 第1部分:框架",
+   "subject": "信息技术、办公机械"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2010\": 1, \"2009\": 2}, \"sourceStats\": {\"综合、术语学、标准化、文献\": 1, \"信息技术、办公机械\": 2}, \"typeStats\": {\"7\": 3}, \"totalRecords\": 3, \"tmWordList\": [{\"id\": \"627cc3bdb5d04b77b9eff1d5565ede2f\", \"databaseId\": null, \"standardId\": \"e124160b0f1a4b1081277012df97d85b\", \"standardCode\": \"GB/T 4894—2009\", \"standardName\": \"信息与文献 术语\", \"standardEnName\": \"Information and documentation—Vocabulary\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"4.1.1.3.4\", \"cnName\": \"意义\", \"enName\": \"meaning\", \"publishTime\": \"2009-09-30\", \"publishYear\": \"2009\", \"implementTime\": \"2010-02-01\", \"ics\": \"01.140.20\", \"ccs\": \"A 14\", \"parentTermId\": null, \"titleId\": null, \"oid\": 219574, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"意义\", \"cnNameSearch\": \"意义\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"meaning\", \"wordSearch\": \"meaning\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"与一个记号相关联的一个概念的解释。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"90fc75f43d0342b9b065f386baa89999\", \"databaseId\": null, \"standardId\": \"8729ce2c75bf4018b55a26418ddc54bd\", \"standardCode\": \"GB/T 21715.7—2010\", \"standardName\": \"健康信息学 患者健康卡数据 第7部分:用药数据\", \"standardEnName\": \"Health informatics-Patient healthcard data-Part 7: Medication data\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"3.7\", \"cnName\": \"代码含义\", \"enName\": \"code meaning\", \"publishTime\": \"2010-12-01\", \"publishYear\": \"2010\", \"implementTime\": \"2011-05-01\", \"ics\": \"35.240.80\", \"ccs\": \"L 09\", \"parentTermId\": null, \"titleId\": null, \"oid\": 142783, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"代码含义\", \"cnNameSearch\": \"代码含义\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"code meaning\", \"wordSearch\": \"code meaning\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"代码集内的元素。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [\"<p>巴黎戴高乐机场“Paris Charles-de-Gaulle”,在机场名的三字母缩写编码方案中映射为“CDG”。</p>\"], \"notes\": [], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"206b3a5c74e446629f1895310856e408\", \"databaseId\": null, \"standardId\": \"66cc6983a98a4f59841595604e8f8242\", \"standardCode\": \"GB/T 18391.1—2009\", \"standardName\": \"信息技术 元数据注册系统 第1部分:框架\", \"standardEnName\": \"Information technology-Metadata registries (MDR)-Part 1: Framework\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"3.3.40\", \"cnName\": \"值含义描述\", \"enName\": \"value meaning description\", \"publishTime\": \"2009-09-30\", \"publishYear\": \"2009\", \"implementTime\": \"2009-12-01\", \"ics\": \"35.040\", \"ccs\": \"A 24\", \"parentTermId\": null, \"titleId\": null, \"oid\": 101914, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"值含义描述\", \"cnNameSearch\": \"值含义描述\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"value meaning description\", \"wordSearch\": \"value meaning description\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"一个值含义的描述。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1795341225818}"
+}

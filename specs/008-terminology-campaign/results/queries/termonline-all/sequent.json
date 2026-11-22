@@ -1,0 +1,582 @@
+{
+ "key": "sequent",
+ "term": "sequent",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-21T13:48:53+00:00",
+ "status": "ok",
+ "note": "variant=sequent; 审定公布名词库=1085; 海峡两岸名词对照库=552; 其他来源数据库=16; 预公布名词数据库=6; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "矢列式",
+   "en": "sequent",
+   "source": "数学名词",
+   "wordNumber": "02.0014",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "分时开放",
+   "en": "sequent opening",
+   "source": "器官移植学名词",
+   "wordNumber": "10.151",
+   "subjectFullName": "器官移植学_肝移植_肝移植受者手术",
+   "subjectName": "肝移植受者手术",
+   "publishYear": "2020",
+   "definition": "肝移植手术时门静脉重建后先开放门静脉血流，随后再行肝动脉的吻合。其意义主要在于尽早结束受者无肝期。"
+  },
+  {
+   "cn": "[连续]占据",
+   "en": "[sequent] occupancy",
+   "source": "地理学名词",
+   "wordNumber": "24.050",
+   "subjectFullName": "地理学_社会与文化地理学",
+   "subjectName": "社会与文化地理学",
+   "publishYear": "2006",
+   "definition": "人类长期在特定地理区域、环境中占据活动，必然形成既具阶段性又具完整性的变化特征。"
+  },
+  {
+   "cn": "层序",
+   "en": "sequence",
+   "source": "地质学名词",
+   "wordNumber": "07.02.016",
+   "subjectFullName": "地质学_地史学与地层学_层序地层学",
+   "subjectName": "层序地层学",
+   "publishYear": "2026",
+   "definition": "一套相对整合的、成因上有联系的、其顶和底以不整合面或与这些不整合面可以对比的整合面为界的地层单元。"
+  },
+  {
+   "cn": "序列",
+   "en": "sequence",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.0138",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "多聚体中单体的线性排列顺序。如多肽链中氨基酸残基的排列顺序及多核苷酸链中核苷酸的排列顺序。"
+  },
+  {
+   "cn": "段",
+   "en": "segment",
+   "source": "医学影像技术学名词",
+   "wordNumber": "09.040",
+   "subjectFullName": "医学影像技术学_影像存储与传输_标准政策法规",
+   "subjectName": "标准政策法规",
+   "publishYear": "2020",
+   "definition": "在卫生信息交换标准（HL7）中，数据字段的一个逻辑组合。"
+  },
+  {
+   "cn": "网段",
+   "en": "segment",
+   "source": "电力名词",
+   "wordNumber": "12.185",
+   "subjectFullName": "电力_热工自动化、电厂化学与金属",
+   "subjectName": "热工自动化、电厂化学与金属",
+   "publishYear": "2020",
+   "definition": "现场总线网络中使用同一物理层直接通信的那一部分。通过中继器连接多个网段可组成完整的现场总线网络。"
+  },
+  {
+   "cn": "扇形段",
+   "en": "segment",
+   "source": "冶金学名词",
+   "wordNumber": "05.1515",
+   "subjectFullName": "冶金学_钢铁冶金_铸造与凝固",
+   "subjectName": "铸造与凝固",
+   "publishYear": "2019",
+   "definition": "由几组辊子和喷嘴组成的、曲率与铸坯相同的整体框架结构。"
+  },
+  {
+   "cn": "齿条",
+   "en": "segment",
+   "source": "植物学名词",
+   "wordNumber": "07.0141",
+   "subjectFullName": "植物学_苔藓植物学",
+   "subjectName": "苔藓植物学",
+   "publishYear": "2019",
+   "definition": "藓类中具两层蒴齿的内齿层中每两条状物中较宽的一个构造。"
+  },
+  {
+   "cn": "分割",
+   "en": "segment",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "05.056",
+   "subjectFullName": "阿尔茨海默病_诊断技术与实验方法_影像技术",
+   "subjectName": "影像技术",
+   "publishYear": "2019",
+   "definition": "按照组织结构的特征分别提取图像的处理过程。"
+  },
+  {
+   "cn": "全裂片",
+   "en": "segment",
+   "source": "植物学名词",
+   "wordNumber": "03.0135",
+   "subjectFullName": "植物学_植物形态与结构植物学_植物形态学",
+   "subjectName": "植物形态学",
+   "publishYear": "2019",
+   "definition": "全裂叶的每个裂片。如掌状全裂叶的裂片。"
+  },
+  {
+   "cn": "图段",
+   "en": "segment",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0627",
+   "subjectFullName": "计算机科学技术_计算机应用_计算机辅助设计与图形学",
+   "subjectName": "计算机辅助设计与图形学",
+   "publishYear": "2018",
+   "definition": "完整图形的某一部分。"
+  },
+  {
+   "cn": "序列",
+   "en": "sequence",
+   "source": "药学名词",
+   "wordNumber": "05.014",
+   "subjectFullName": "药学_生物药学",
+   "subjectName": "生物药学",
+   "publishYear": "2014",
+   "definition": "构成生物大分子结构单元的排列次序。如DNA分子是由4种核苷酸(A，T，G，C)排列组成，DNA序列就是组成某一DNA分子的核苷酸的排列次序。"
+  },
+  {
+   "cn": "[线]段",
+   "en": "segment",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.003",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "一条线的元素，由两个端点定义而成。"
+  },
+  {
+   "cn": "音段",
+   "en": "segment",
+   "source": "语言学名词",
+   "wordNumber": "03.277",
+   "subjectFullName": "语言学_语音学_音系学",
+   "subjectName": "音系学",
+   "publishYear": "2011",
+   "definition": "①语音学中，指一个离散的语音单位。②音系学中，指音系组织的心理单位。"
+  },
+  {
+   "cn": "层序",
+   "en": "sequence",
+   "source": "海洋科技名词",
+   "wordNumber": "03.0208",
+   "subjectFullName": "海洋科学技术_海洋技术_海洋矿产资源开发技术",
+   "subjectName": "海洋矿产资源开发技术",
+   "publishYear": "2007",
+   "definition": "相对整合的成因上有联系的地层序列。"
+  },
+  {
+   "cn": "节",
+   "en": "segment",
+   "source": "遗传学名词",
+   "wordNumber": "05.111",
+   "subjectFullName": "遗传学_发育遗传学",
+   "subjectName": "发育遗传学",
+   "publishYear": "2007",
+   "definition": "胚胎发育早期形成的形态相近的重复结构。"
+  },
+  {
+   "cn": "序列征",
+   "en": "sequence",
+   "source": "医学名词 第三分册",
+   "wordNumber": "01.496",
+   "subjectFullName": "医学_医学遗传学",
+   "subjectName": "医学遗传学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "链节",
+   "en": "segment",
+   "source": "化学工程名词",
+   "wordNumber": "02.332",
+   "subjectFullName": "化学工程_化工热力学_分子间力、溶液理论与统计热力学",
+   "subjectName": "分子间力、溶液理论与统计热力学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "层序",
+   "en": "sequence",
+   "source": "石油名词",
+   "wordNumber": "02.0861",
+   "subjectFullName": "石油_油气地质勘探_石油地震地层学",
+   "subjectName": "石油地震地层学",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "矢列式",
+   "en": "sequent",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "段",
+   "en": "segment",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "节",
+   "en": "segment",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "齿条",
+   "en": "segment",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "全裂片",
+   "en": "segment",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "序列",
+   "en": "sequence",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "链节",
+   "en": "segment",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "模进",
+   "en": "sequence",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "蛇形大号",
+   "en": "serpent",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "继叙咏",
+   "en": "sequence",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "层序",
+   "en": "sequence",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "序列",
+   "en": "sequence",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "请求",
+   "en": "request",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "线段",
+   "en": "segment",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "序列",
+   "en": "sequence",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "体节",
+   "en": "segment",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "请求",
+   "en": "request",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "图段",
+   "en": "segment",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "序列",
+   "en": "sequence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "节",
+   "en": "segment",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "基因序列",
+   "en": "genetic sequence",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗科研",
+   "subjectName": "医疗科研",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "不当请求",
+   "en": "improper request",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "请求换人",
+   "en": "replacement request",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "请求暂停",
+   "en": "time-out request\",\"request for interruption",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "依申请开放",
+   "en": "access on request",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "跨站请求伪造",
+   "en": "cross-site request forgery",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "请求暂停",
+   "en": "request for time-out",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "不合理暂停请求",
+   "en": "improper request for interruption",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "游泳比赛",
+   "en": "finish of the swim\",\"first segment",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "分享病毒基因序列",
+   "en": "to share the genetic sequence of the virus",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际合作",
+   "subjectName": "国际合作",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "序贯分析",
+   "en": "sequential analysis",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "裂变分支",
+   "en": "segment",
+   "source": "社会学名词",
+   "wordNumber": "4.2.5.17",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_亲属制度",
+   "subjectName": "亲属制度",
+   "publishYear": "2025",
+   "definition": "宗族体系或部落中的各级分支。部落及其分支之间关系不仅表现为血缘的和地缘的，还呈现为既分裂又融合的对立趋势之间的均衡。埃文斯-普里查德(E.E.Evens-Prichard）提出。"
+  },
+  {
+   "cn": "洗脱液",
+   "en": "eluent",
+   "source": "消毒学",
+   "wordNumber": "6.2.7",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "将试验对象上的微生物洗下并收集的溶液。"
+  },
+  {
+   "cn": "尿频",
+   "en": "frequent urination",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.2.3.18",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_症状",
+   "subjectName": "症状",
+   "publishYear": "2025",
+   "definition": "排尿次数增多的现象。即成人每日排尿≥8次或夜间排尿≥2次，且每次排出尿量小于200ml。"
+  },
+  {
+   "cn": "出生缺陷序列征",
+   "en": "birth defect sequence",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.3.1.9",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "一种多发畸形模式，已知或推定的由单一原发性先天异常或机械因素引发的一系列相关的多个出生缺陷的组合。"
+  },
+  {
+   "cn": "氨基酸同源序列",
+   "en": "homologous animo acid sequence",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.4.30",
+   "subjectFullName": "食品卫生学_食源性疾病_食物过敏",
+   "subjectName": "食物过敏",
+   "publishYear": "2025",
+   "definition": "享有进化上共同祖先的两个氨基酸序列，具有同源性。"
+  },
+  {
+   "cn": "生长发育序贯设计",
+   "en": "sequence design of growth and development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.7.1.1.2.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育调查与评价",
+   "subjectName": "生长发育调查与评价",
+   "publishYear": "2025",
+   "definition": "对不同年龄组的儿童少年进行横向调查，然后在间隔一定的时间后，对同一批儿童少年进行一次或多次重复调查，从而构成追踪性调查设计的一种方法。该方法可克服追踪调查所需年限太长、样本易流失等缺点。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,762 @@
+{
+ "key": "uniformity of nature",
+ "term": "uniformity of nature",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-21T13:30:15+00:00",
+ "status": "ok",
+ "note": "variant=uniformity of nature; 审定公布名词库=10000; 海峡两岸名词对照库=7973; 其他来源数据库=1917; 预公布名词数据库=2765; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "均匀性",
+   "en": "uniformity",
+   "source": "核医学名词",
+   "wordNumber": "03.0439",
+   "subjectFullName": "核医学_核医学设备与操作_设备质量控制",
+   "subjectName": "设备质量控制",
+   "publishYear": "2018",
+   "definition": "反映成像系统在视野内各点性能一致性的指标。受计数统计涨落和探头非均匀性影响。"
+  },
+  {
+   "cn": "均匀性",
+   "en": "uniformity",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "05.359",
+   "subjectFullName": "机械工程_汽车_底盘_车轮和轮胎",
+   "subjectName": "车轮和轮胎",
+   "publishYear": "2013",
+   "definition": "在静态和动态条件下，轮胎圆周特性恒定不变的性能。它包括轮胎的不平衡、尺寸偏差和力的波动。"
+  },
+  {
+   "cn": "一致结构",
+   "en": "uniformity",
+   "source": "数学名词",
+   "wordNumber": "08.0552",
+   "subjectFullName": "数学_几何学_拓扑学_一般拓扑学",
+   "subjectName": "一般拓扑学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "标志服装",
+   "en": "uniform",
+   "source": "公路交通科技名词",
+   "wordNumber": "06.106",
+   "subjectFullName": "公路交通科学技术_汽车运输",
+   "subjectName": "汽车运输",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "单值化",
+   "en": "uniformization",
+   "source": "数学名词",
+   "wordNumber": "05.0456",
+   "subjectFullName": "数学_分析学_复分析",
+   "subjectName": "复分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "采光均匀度",
+   "en": "uniformity of daylighting",
+   "source": "建筑学名词",
+   "wordNumber": "10.0143",
+   "subjectFullName": "建筑学_建筑物理_建筑光学",
+   "subjectName": "建筑光学",
+   "publishYear": "2014",
+   "definition": "假定工作面上的采光系数的最低值与平均值之比。"
+  },
+  {
+   "cn": "照度均匀度",
+   "en": "uniformity of illumination",
+   "source": "机械工程名词 第三分册",
+   "wordNumber": "04.112",
+   "subjectFullName": "机械工程_仪器仪表_光学仪器_光学仪器一般名词",
+   "subjectName": "光学仪器一般名词",
+   "publishYear": "2003",
+   "definition": "光学系统像面上各处照度的均匀程度。用任意部分的照度与中心部分的照度之比值来度量。"
+  },
+  {
+   "cn": "不均匀系数",
+   "en": "coefficient of uniformity",
+   "source": "土木工程名词",
+   "wordNumber": "03.088",
+   "subjectFullName": "土木工程_土力学与地基基础_土的物理性质",
+   "subjectName": "土的物理性质",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "不均匀系数",
+   "en": "coefficient of uniformity",
+   "source": "水利科学技术名词",
+   "wordNumber": "05.146",
+   "subjectFullName": "水利科学技术_岩石力学、土力学、岩土工程_土力学（水利）",
+   "subjectName": "土力学（水利）",
+   "publishYear": "1997",
+   "definition": "反映土颗粒粒径分布均匀性的系数。定义为限制粒径(d₆₀)与有效粒径(d₁₀)之比值。"
+  },
+  {
+   "cn": "立竹整齐度",
+   "en": "uniform of culm",
+   "source": "林学名词",
+   "wordNumber": "05.302",
+   "subjectFullName": "林学_森林培育_竹藤",
+   "subjectName": "竹藤",
+   "publishYear": "2016",
+   "definition": "竹林中立竹大小(粗度)的一致程度。"
+  },
+  {
+   "cn": "野生牧草驯化",
+   "en": "naturalization of natural forage",
+   "source": "畜牧学名词",
+   "wordNumber": "10.060",
+   "subjectFullName": "畜牧学_常用牧草_草原与牧草综合",
+   "subjectName": "草原与牧草综合",
+   "publishYear": "2020",
+   "definition": "把野生牧草培育成栽培牧草的过程。"
+  },
+  {
+   "cn": "天然自然",
+   "en": "natural nature",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.002",
+   "subjectFullName": "自然辩证法_自然哲学_自然概论",
+   "subjectName": "自然概论",
+   "publishYear": "2024",
+   "definition": "还没有受到人类实践活动影响或者改造的那部分自然界。与“人工自然”相对。随着人类认识和实践能力的提高，人工自然的范围不断扩大，天然自然的范围不断缩小。"
+  },
+  {
+   "cn": "种子批的均匀度",
+   "en": "uniformity of seed lot ",
+   "source": "草学名词",
+   "wordNumber": "4.0053",
+   "subjectFullName": "草学_种子和育种_草种子学",
+   "subjectName": "草种子学",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "硬度块的均匀度",
+   "en": "uniformity of hardness block",
+   "source": "计量学名词",
+   "wordNumber": "04.147",
+   "subjectFullName": "计量学_力值、硬度_硬度块",
+   "subjectName": "硬度块",
+   "publishYear": "2015",
+   "definition": "在条件不变的情况下，用标准硬度计在标准硬度块的工作面上均匀分布测定若干个点(一般为五点)，所测得的各点硬度中最大值与最小值之差，或该差值与平均值之比的百分数。"
+  },
+  {
+   "cn": "照度均匀度",
+   "en": "uniformity ratio of illuminance",
+   "source": "建筑学名词",
+   "wordNumber": "10.0035",
+   "subjectFullName": "建筑学_建筑物理_建筑光学",
+   "subjectName": "建筑光学",
+   "publishYear": "2014",
+   "definition": "通常指规定表面上的最小照度与平均照度之比。有时也用最小照度与最大照度之比。"
+  },
+  {
+   "cn": "含量均匀度",
+   "en": "uniformity of dosage unit",
+   "source": "药学名词",
+   "wordNumber": "06.131",
+   "subjectFullName": "药学_药物分析",
+   "subjectName": "药物分析",
+   "publishYear": "2014",
+   "definition": "小剂量或单剂量固体制剂、半固体制剂和非均相液体制剂中的每片(个)含量偏离标示量的程度。"
+  },
+  {
+   "cn": "照度均匀比",
+   "en": "uniformity ratio of illuminance",
+   "source": "电气工程名词",
+   "wordNumber": "22.278",
+   "subjectFullName": "电气工程_电气照明",
+   "subjectName": "电气照明",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "扫描不均匀性",
+   "en": "non-uniformity of scanning",
+   "source": "电气工程名词",
+   "wordNumber": "21.267",
+   "subjectFullName": "电气工程_工业加速器",
+   "subjectName": "工业加速器",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "灌水均匀度",
+   "en": "irrigation uniformity",
+   "source": "农学名词",
+   "wordNumber": "12.103",
+   "subjectFullName": "农业水利_农田灌溉",
+   "subjectName": "农田灌溉",
+   "publishYear": "2025",
+   "definition": "灌溉范围内田间土壤湿润的均匀程度。"
+  },
+  {
+   "cn": "长度整齐度指数",
+   "en": "uniformity index",
+   "source": "农学名词",
+   "wordNumber": "04.039",
+   "subjectFullName": "经济作物_纤维作物",
+   "subjectName": "纤维作物",
+   "publishYear": "2025",
+   "definition": "测试棉纤维长度时，平均长度占上半部平均长度的百分率。"
+  },
+  {
+   "cn": "均匀的",
+   "en": "uniform",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "同一的",
+   "en": "uniform",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "含量均匀度",
+   "en": "uniformity of dosage units",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "均匀性",
+   "en": "homogeneity\",\"uniformity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "均匀系数",
+   "en": "uniformity coefficient",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "取代基均匀度",
+   "en": "substituent uniformity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "装量差异",
+   "en": "content uniformity",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "自然保护，自然保育",
+   "en": "conservation of nature\",\"nature conservation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "自然保育（=自然保护）",
+   "en": "conservation of nature\",\"nature conservation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "自然保护,自然保育",
+   "en": "conservation of nature\",\"nature conservation",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "均匀层",
+   "en": "uniform layer",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "均匀分布",
+   "en": "uniform distribution",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "均匀流",
+   "en": "uniform flow",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "均匀转化",
+   "en": "uniform conversion",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "均匀结焦",
+   "en": "uniform coking",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "均匀流动",
+   "en": "uniform stream",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "均匀晶体",
+   "en": "uniform crystal",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "均匀流",
+   "en": "uniform flow",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "均匀载荷",
+   "en": "uniform loading",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "均匀中毒",
+   "en": "uniform poisoning",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "队服",
+   "en": "uniform",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "队服",
+   "en": "uniform",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "蓝色摔跤服",
+   "en": "blue uniform",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "红色摔跤服",
+   "en": "red uniform",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "队服",
+   "en": "team uniform",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "弹起高度",
+   "en": "uniform bounce",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "天籁",
+   "en": "Sounds of Nature",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自然",
+   "en": "Naturalness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "常",
+   "en": "Constant Laws of Nature",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公法性",
+   "en": "nature of public law",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公共福利性",
+   "en": "nature of public welfare",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自然权利学说",
+   "en": "theory of natural rights",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "性",
+   "en": "Xing (Nature)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据界",
+   "en": "data nature",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人性",
+   "en": "human nature",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "采光均匀性",
+   "en": "nature lighting uniformity",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.2.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_教室卫生",
+   "subjectName": "教室卫生",
+   "publishYear": "2025",
+   "definition": "视野范围内照度分布的均匀程度。"
+  },
+  {
+   "cn": "自然的人化",
+   "en": "humanization of nature",
+   "source": "社会学名词",
+   "wordNumber": "3.14.1.12",
+   "subjectFullName": "社会学名词_分支社会学环境社会学",
+   "subjectName": "分支社会学环境社会学",
+   "publishYear": "2025",
+   "definition": "人们的实践活动引起实践中自然因素、自然关系的变化，自然在实践中不断地变为属人的存在，是人的存在使“人的本质力量对象化”的明证。马克思在《1844年经济学手稿》中提出。"
+  },
+  {
+   "cn": "自然哲学",
+   "en": "philosophy of nature",
+   "source": "马克思主义",
+   "wordNumber": "01.0005",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "一种凌驾于经验自然科学之上，运用对自然的哲学沉思而得出一般原理以解释自然界的构成、基本结构、基本规律及人与自然的关系等的一个哲学分支。其代表观点如德国古典哲学家谢林和黑格尔的自然哲学思想。"
+  },
+  {
+   "cn": "自然",
+   "en": "nature",
+   "source": "马克思主义",
+   "wordNumber": "01.0137",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "“自然”与“物质”是同一层次或者同等程度的范畴，但自然范畴的内涵更丰富、更具体。从具体层次讲，自然较多的是作为人类活动环境的意义而被使用，是与社会、历史、文化等概念相对应的范畴。"
+  },
+  {
+   "cn": "自然崇拜",
+   "en": "naturalism",
+   "source": "社会学名词",
+   "wordNumber": "4.2.3.16",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化人类学基本概念",
+   "subjectName": "文化人类学基本概念",
+   "publishYear": "2025",
+   "definition": "以自然现象（如日、月、水、火）等为对象的信仰，原被理解为“原始宗教”的标志。研究表明，它只是人与自然建立的关系的一种表现形式。"
+  },
+  {
+   "cn": "自然性",
+   "en": "naturality",
+   "source": "马克思主义",
+   "wordNumber": "01.0138",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "事物在自然环境中遵循自然规律的自然属性和行为。自在的自然具有自然性，人化的自然不仅具有自然性，还具有社会性。"
+  },
+  {
+   "cn": "剂量均匀度比值",
+   "en": "dose uniformity ratio",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.21.5",
+   "subjectFullName": "食品卫生学_食品_辐照食品",
+   "subjectName": "辐照食品",
+   "publishYear": "2025",
+   "definition": "同一批量产品中最高吸收剂量和最低吸收剂量的比值。"
+  },
+  {
+   "cn": "党的性质",
+   "en": "nature of the Party",
+   "source": "马克思主义",
+   "wordNumber": "03.0710",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "一个政党区别于其他政党的质的规定性。中国共产党是中国工人阶级的先锋队，同时是中国人民和中华民族的先锋队，是中国特色社会主义事业的领导核心，代表中国先进生产力的发展要求，代表中国先进文化的前进方向，代表"
+  },
+  {
+   "cn": "相对均匀分布",
+   "en": "relative uniform distribution",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.31",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "放射性核素在全身各组织或器官内相对平均的分布。"
+  },
+  {
+   "cn": "人口自然变动",
+   "en": "natural change of population",
+   "source": "社会学名词",
+   "wordNumber": "4.5.6.2",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_人口变动",
+   "subjectName": "人口变动",
+   "publishYear": "2025",
+   "definition": "由出生和死亡所引起的人口数量的增减和人口年龄、性别构成变化的过程。"
+  },
+  {
+   "cn": "自然历史进程",
+   "en": "natural process of history",
+   "source": "马克思主义",
+   "wordNumber": "01.0141",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "马克思关于人类社会发展规律的基本观点。人类社会是在生产力与生产关系、经济基础与上层建筑的矛盾运动中按照自身规律由低级向高级的发展过程，这一过程是不以人的意志为转移的客观历史进程。马克思也称为自然历史过"
+  },
+  {
+   "cn": "脊柱生理性弯曲",
+   "en": "natural curve of spine",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.3.3",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "儿童出生后随着抬头、坐和站立等大运动发育逐步形成颈、胸、腰、骶四个部位的弯曲。从侧面观察，颈曲和腰曲凸向前，胸曲和骶曲凸向后。该弯曲帮助脊柱吸收，缓冲运动过程中产生的压力，有利于身体保持柔韧性和平衡。"
+  },
+  {
+   "cn": "自然崇拜",
+   "en": "nature worship",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0284",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "对人格化或神圣化的自然物和自然力的崇拜，为自然宗教的基本表现形态。其崇拜对象大体包括天、地、日、月、星、山、石、江、湖、海、水、火、风、雨、雪、雹、雷、云、虹等天体万物及气象地貌方面的自然变迁和变化现"
+  },
+  {
+   "cn": "人化自然",
+   "en": "humanized nature",
+   "source": "马克思主义",
+   "wordNumber": "01.0143",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "马克思在《1844年经济学哲学手稿》中提出的一个重要概念，指人通过活动，把自己的本质力量对象化在客体中，使客观自然不再与人相对立，成为人的创造物的过程。这一过程就客体而言，就是人化的自然。"
+  },
+  {
+   "cn": "人工自然",
+   "en": "artificial nature",
+   "source": "马克思主义",
+   "wordNumber": "01.0145",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人类的实践活动改造过的自然，也称人化自然。它的出现是自然发展史的飞跃。人工自然一方面服从自然规律，另一方面凝结了人的本质力量，因而具有社会性，受社会规律的制约和影响。"
+  },
+  {
+   "cn": "道德本质",
+   "en": "moral nature",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.018",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "道德与其他社会意识形态区别开来的内在规定性。由道德在与社会经济关系及其他社会关系的相互连接中发挥自己的特殊功能时表现出来。"
+  },
+  {
+   "cn": "人性",
+   "en": "human nature",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.0759999999999998",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "在一定社会制度和历史条件下形成的人的本性，包括个体的品质、德性和德行等。"
+  },
+  {
+   "cn": "自然死亡",
+   "en": "natural death",
+   "source": "医学伦理学名词",
+   "wordNumber": "7.013999999999999",
+   "subjectFullName": "医学伦理学_临终关怀与死亡伦理",
+   "subjectName": "临终关怀与死亡伦理",
+   "publishYear": "2025",
+   "definition": "人的生命的自然终结。"
+  },
+  {
+   "cn": "自然通风",
+   "en": "natural ventilation",
+   "source": "消毒学",
+   "wordNumber": "1.8.16",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "利用建筑物内外空气的密度差引起的热压或风压，促使空气流动而进行的通风换气方式。"
+  },
+  {
+   "cn": "自然菌",
+   "en": "natural bacteria",
+   "source": "消毒学",
+   "wordNumber": "6.2.3.1",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "存在于消毒对象上的、非人工污染的细菌。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,782 @@
+{
+ "key": "enquiry concerning human understanding",
+ "term": "Enquiry concerning Human Understanding",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-22T13:33:26+00:00",
+ "status": "ok",
+ "note": "variant=Enquiry concerning Human Understanding; 审定公布名词库=834; 海峡两岸名词对照库=148; 其他来源数据库=105; 预公布名词数据库=134; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "理解",
+   "en": "understanding",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.823",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_社会科学哲学",
+   "subjectName": "社会科学哲学",
+   "publishYear": "2024",
+   "definition": "从19世纪德国哲学中产生的概念（德语词verstehen）。主张社会现象的具有不同于自然科学定律解释的诠释学意义，强调对社会行动的理解区别于对自然物的解释，因为这要求从行动者视角作出对行动的意义理解。"
+  },
+  {
+   "cn": "理解",
+   "en": "understanding",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.02",
+   "subjectFullName": "新闻学与传播学_传播总论_传播行为与活动",
+   "subjectName": "传播行为与活动",
+   "publishYear": "2022",
+   "definition": "①对于传播者意图和传播内容的含义了解和认识的思维过程。②一种用于思考和使用概念来处理与交往对象关系的能力。"
+  },
+  {
+   "cn": "理解",
+   "en": "understanding",
+   "source": "心理学名词",
+   "wordNumber": "04.043",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "将自己置于他人地位，领会他人言语、行为，获得其心理或行为意义的过程。"
+  },
+  {
+   "cn": "可理解性",
+   "en": "understandability",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0472",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "软件的一个质量特性。它指软件的结构、功能、相关文档、数据及其细节能被该软件作者以外的其他人所理解的难易程度。"
+  },
+  {
+   "cn": "可理解性",
+   "en": "understandability",
+   "source": "自动化名词",
+   "wordNumber": "04.317",
+   "subjectFullName": "自动化科学技术_控制技术_控制技术计算机应用",
+   "subjectName": "控制技术计算机应用",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "专题咨询",
+   "en": "subject enquiry",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "07.202",
+   "subjectFullName": "图书馆·情报与文献学_信息服务与用户研究_文献传递与馆际互借",
+   "subjectName": "文献传递与馆际互借",
+   "publishYear": "2019",
+   "definition": "图书馆针对某一专题向用户提供的专门咨询服务。包括提供原始材料以及书目、文摘、索引等文献线索，或专题综述、述评等三次文献以及其他形式的信息服务。主要形式包括课题检索服务、定题服务、个性化信息服务、决策咨"
+  },
+  {
+   "cn": "通信询问",
+   "en": "traffic enquiry",
+   "source": "航海科技名词",
+   "wordNumber": "14.0122",
+   "subjectFullName": "航海科学技术_水上通信",
+   "subjectName": "水上通信",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "国家询问",
+   "en": "national enquiry",
+   "source": "航海科技名词",
+   "wordNumber": "14.0124",
+   "subjectFullName": "航海科学技术_水上通信",
+   "subjectName": "水上通信",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "海上询问",
+   "en": "maritime enquiry",
+   "source": "航海科技名词",
+   "wordNumber": "14.0125",
+   "subjectFullName": "航海科学技术_水上通信",
+   "subjectName": "水上通信",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "状态询问",
+   "en": "status enquiry",
+   "source": "航海科技名词",
+   "wordNumber": "14.0123",
+   "subjectFullName": "航海科学技术_水上通信",
+   "subjectName": "水上通信",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "横切关注点",
+   "en": "crosscutting concerns",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0384",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "跨越多个模块的关注点。横切关注点如果不能有效地分离和模块化，将使系统难以设计、理解、实现和演化。"
+  },
+  {
+   "cn": "约束关心",
+   "en": "constraint concern",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0991",
+   "subjectFullName": "管理科学技术_一般管理理论_企业理论",
+   "subjectName": "企业理论",
+   "publishYear": "2016",
+   "definition": "由个性特征组成的向量的一个元素，可和其他元素结合起来，用以反映理性的程度。"
+  },
+  {
+   "cn": "内容理解",
+   "en": "content understanding",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.123",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "以知识为核心，研究其中包含的对象个体、个体间的关联及其组合语义。"
+  },
+  {
+   "cn": "行为理解",
+   "en": "behavior understanding",
+   "source": "行为医学名词",
+   "wordNumber": "3.304",
+   "subjectFullName": "行为医学_行为的生物学基础_遗传学基础_行为进化",
+   "subjectName": "行为进化",
+   "publishYear": "2022",
+   "definition": "描述、识别和理解个人行为、个人与外界环境之间的交互行为及群体中人与人的交互行为。"
+  },
+  {
+   "cn": "图像理解",
+   "en": "image understanding",
+   "source": "测绘学名词",
+   "wordNumber": "03.584",
+   "subjectFullName": "测绘学_摄影测量学与遥感",
+   "subjectName": "摄影测量学与遥感",
+   "publishYear": "2020",
+   "definition": "利用计算机从影像中提取被摄景物语义信息，以实现识别、分类和判读的过程。"
+  },
+  {
+   "cn": "程序理解",
+   "en": "program understanding",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0146",
+   "subjectFullName": "计算机科学技术_系统软件_语言与编译",
+   "subjectName": "语言与编译",
+   "publishYear": "2018",
+   "definition": "从源程序提取相关必要信息的过程。"
+  },
+  {
+   "cn": "图像理解",
+   "en": "image understanding",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0376",
+   "subjectFullName": "计算机科学技术_人工智能_模式识别",
+   "subjectName": "模式识别",
+   "publishYear": "2018",
+   "definition": "对图像进行处理、分析，以识别图像中的物体和场景的技术。"
+  },
+  {
+   "cn": "非贸易关注",
+   "en": "non-trade concern",
+   "source": "农学名词",
+   "wordNumber": "19.191",
+   "subjectFullName": "农业经济与管理_农业市场与贸易",
+   "subjectName": "农业市场与贸易",
+   "publishYear": "2025",
+   "definition": "国际贸易中未能反映的成员国多方面社会与福利问题。如粮食安全、环境保护、农村发展、就业和扶贫等。这些问题的常规解决方式有悖于世界贸易组织贸易规则，需要给予特别的豁免安排。"
+  },
+  {
+   "cn": "关注污染物",
+   "en": "contaminant of concern",
+   "source": "化工名词（四）安全·环保·可持续发展",
+   "wordNumber": "02.618",
+   "subjectFullName": "化工（四）_炼油与化工企业健康-安全-环境管理_环境监测与统计",
+   "subjectName": "环境监测与统计",
+   "publishYear": "2020",
+   "definition": "根据场地污染特征和场地利益相关方意见，确定需要进行调查和风险评估的污染物。"
+  },
+  {
+   "cn": "无危",
+   "en": "least concern,LC",
+   "source": "植物学名词",
+   "wordNumber": "13.0636",
+   "subjectFullName": "植物学_植物生态学_植物多样性与保护",
+   "subjectName": "植物多样性与保护",
+   "publishYear": "2019",
+   "definition": "当一分类单位被评估未达到极危、濒危、渐危或近危标准的状况。该分类单位即列为无危。广泛分布和种类丰富的分类单位都属于该等级。"
+  },
+  {
+   "cn": "可理解性",
+   "en": "understandability",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "查询站",
+   "en": "enquiry station",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "国家询问",
+   "en": "national enquiry",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "海上询问",
+   "en": "maritime enquiry",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "通信询问",
+   "en": "traffic enquiry",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "状态询问",
+   "en": "status enquiry",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "理解",
+   "en": "comprehension\",\"understanding",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "共情理解",
+   "en": "empathic understanding",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "图像理解",
+   "en": "image understanding",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "程序理解",
+   "en": "program understanding",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "计算机理解",
+   "en": "computer understanding",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "篇章理解",
+   "en": "text understanding",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "图像理解",
+   "en": "image understanding",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "文章理解",
+   "en": "article understanding",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "汉语理解",
+   "en": "Chinese language understanding",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自然语言理解",
+   "en": "natural language understanding",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "人本主义",
+   "en": "humanism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "汉语语音理解系统，汉语言语理解系统",
+   "en": "Chinese speech understanding system",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "人体解剖学",
+   "en": "human anatomy",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "人体胚胎学",
+   "en": "human embryology",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "知天",
+   "en": "Understanding Heaven",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "图像理解",
+   "en": "image understanding",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "对比赛装备的抗议",
+   "en": "protest concerning equipment",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "对参赛资格的抗议",
+   "en": "protest concerning eligibility",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自然语言理解",
+   "en": "natural-language understanding",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人",
+   "en": "Human Being; Humanity",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "对比赛线路的抗议",
+   "en": "protest concerning the course",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "对比赛的抗议",
+   "en": "protest concerning the race",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "人心",
+   "en": "Human Heart / Human Desires",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人力资源",
+   "en": "Human Resources",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人乳头（状）瘤病毒",
+   "en": "human papillomavirus",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人伦",
+   "en": "Human Relations",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人本计算",
+   "en": "human computation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人类增强",
+   "en": "human enhancement",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人权",
+   "en": "human rights",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人性",
+   "en": "human nature",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "对计时和成绩的抗议",
+   "en": "protest concerning timing and results",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "亲民",
+   "en": "people-concerned",
+   "source": "社会学名词",
+   "wordNumber": "1.1.1.5",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国古代社会思想",
+   "subjectName": "中国古代社会思想",
+   "publishYear": "2025",
+   "definition": "引导、稳定一般民众，培育和维持社会秩序的施政和制度建设。语出《大学》中“大学之道，在明明德，在亲民，在止于至善。”后世儒家对此多有阐释，如在宋儒那里，解释分别侧重教育（德治）或养民（财，事功）等不同方"
+  },
+  {
+   "cn": "信息理解",
+   "en": "information understanding",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.015",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "真正明白所告知信息。医务人员在向患者或研究参与者说明医学信息时，应考虑到其具体情况，进行充分、全面、易懂的告知，并及时解答其咨询，其才能真正明白，最终做出决策。"
+  },
+  {
+   "cn": "人道主义",
+   "en": "humanism",
+   "source": "社会学名词",
+   "wordNumber": "4.4.5.3",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的价值观",
+   "subjectName": "社会工作的价值观",
+   "publishYear": "2025",
+   "definition": "起源于欧洲15世纪文艺复兴运动以来的思想体系，核心是尊重人性，维护人的尊严与价值。"
+  },
+  {
+   "cn": "人化",
+   "en": "humanization",
+   "source": "马克思主义",
+   "wordNumber": "01.0132",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人通过劳动把自己的本质力量凝聚和体现在对象上，使对象对人而言不再是异己的、对立的，而成为人的世界的一部分。"
+  },
+  {
+   "cn": "老龄工作",
+   "en": "work concerning the aging",
+   "source": "社会学名词",
+   "wordNumber": "3.15.1.8",
+   "subjectFullName": "社会学名词_分支社会学_老年和老龄化研究_个人老化",
+   "subjectName": "个人老化",
+   "publishYear": "2025",
+   "definition": "为解决人口老龄化带来的经济社会发展问题、满足老年人的特殊需要的所有工作。"
+  },
+  {
+   "cn": "关注浓度水平",
+   "en": "concentration level of concern",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.45",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "对判断样品中物质或分析物是否符合法规规定和要求的有决定性意义的浓度。如容许限浓度。"
+  },
+  {
+   "cn": "关注水平",
+   "en": "level of concern, LOC",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.5.1",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "为保护消费者健康而制定的用于临时管理的食品中某危害因素的含量水平"
+  },
+  {
+   "cn": "人的生命",
+   "en": "human life",
+   "source": "医学伦理学名词",
+   "wordNumber": "2.017",
+   "subjectFullName": "医学伦理学_医学伦理学的基本理论与基本观点",
+   "subjectName": "医学伦理学的基本理论与基本观点",
+   "publishYear": "2025",
+   "definition": "人的存在方式和根本属性。是人之所以为人的基础，是种生命和类生命、自然生命和社会生命的统一。"
+  },
+  {
+   "cn": "人伦",
+   "en": "human ethic",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.37",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "人们在社会中按年龄、智力、职业等分工而建立的社会秩序以及由此产生的彼此关系以及对关系的道德准则。也指父子、君臣、长幼、夫妇、朋友等“五伦”，为中国传统社会包含了血缘、文化、政治关系的总括和道德准则。"
+  },
+  {
+   "cn": "人类生态学",
+   "en": "human ecology",
+   "source": "社会学名词",
+   "wordNumber": "3.4.4.3",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_城市理论或流派",
+   "subjectName": "城市理论或流派",
+   "publishYear": "2025",
+   "definition": "研究城市环境的空间分布以及人与环境关系的学说。由以派克(Robert E.Park）、伯吉斯（Ernest W.Burgess）等社会学者为代表的芝加哥学派于20世纪20年代创立，强调城市的物质环境对"
+  },
+  {
+   "cn": "人的需要",
+   "en": "human needs",
+   "source": "社会学名词",
+   "wordNumber": "4.4.1.6",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的基本概念",
+   "subjectName": "社会工作的基本概念",
+   "publishYear": "2025",
+   "definition": "人感受到自身内在的物质或者精神上的缺乏，为了维持生存和发展，而对于外界事物的摄取欲望和要求。"
+  },
+  {
+   "cn": "人的本质",
+   "en": "human essence",
+   "source": "马克思主义",
+   "wordNumber": "01.0134",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人区别于其他物的本质规定性。马克思指出：“人的本质并不是单个人所固有的抽象物。在其现实性上，它是一切社会关系的总和。”人的本质是人作为实践的存在、自我创造的主体性存在和社会历史性存在所体现的特性。"
+  },
+  {
+   "cn": "人权",
+   "en": "human rights",
+   "source": "马克思主义",
+   "wordNumber": "03.0150",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人享有的人身自由和各种民主权利。资产阶级在其革命时期提出人权要求，反对封建特权和神权。人权是生产力发展到一定阶段的产物，资产阶级的“天赋人权”本质上是资产阶级的阶级特权。消灭了生产资料私有制和阶级，才"
+  },
+  {
+   "cn": "人力资本",
+   "en": "human capital",
+   "source": "卫生经济学名词",
+   "wordNumber": "3.1.2",
+   "subjectFullName": "卫生经济学名词_健康需求_健康需求",
+   "subjectName": "健康需求",
+   "publishYear": "2025",
+   "definition": "人内在的生产能力和知识，通过包括教育、培训、健康、经验、技巧等投资而获得的人力资产的经济价值总和。"
+  },
+  {
+   "cn": "人类地理学",
+   "en": "human geography",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0508",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "19 世纪，德国民族学家拉采尔（Friedrich Ratzel）创用了“人类地理学”一词，探讨环境对人类活动及演化的影响，认为存在着协调的人地关系。拉策尔在强调地理环境对人的决定性意义的同时，也考虑"
+  },
+  {
+   "cn": "人伦",
+   "en": "human relations",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.075",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人与人之间的辈分差等、秩序及行为准则。"
+  },
+  {
+   "cn": "人权",
+   "en": "human rights",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.128",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "在一定的社会历史条件下每个人按其本质和尊严而自由、平等地享有或应该享有的基本权利。是满足人的生存和发展所必需的且应当享有的基本权利。如生命权、健康权等。"
+  },
+  {
+   "cn": "人体形态学",
+   "en": "human morphology",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0066",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "阐明人体器官的各种形态、结构、成因、相互关系及其发展规律的学科，分为人体学和测量学。"
+  },
+  {
+   "cn": "人性",
+   "en": "human nature",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.0759999999999998",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "在一定社会制度和历史条件下形成的人的本性，包括个体的品质、德性和德行等。"
+  },
+  {
+   "cn": "人欲",
+   "en": "human desire",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.073",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人本能的欲望。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

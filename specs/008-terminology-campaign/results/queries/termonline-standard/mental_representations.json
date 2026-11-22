@@ -1,0 +1,33 @@
+{
+ "key": "mental representations",
+ "term": "mental representations",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-22T09:53:11+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=3",
+ "hits": [
+  {
+   "cn": "心理地图",
+   "en": "mental map",
+   "code": "GB/T 43518—2023",
+   "standard": "人类工效学 家居无障碍设计导则",
+   "subject": "环保、保健和安全"
+  },
+  {
+   "cn": "基波",
+   "en": "funda mental",
+   "code": "GB/T 15472—2012",
+   "standard": "失真度测量仪通用规范 ",
+   "subject": "计量学和测量、物理现象"
+  },
+  {
+   "cn": "经行情志异常",
+   "en": "menstrual mental disorders",
+   "code": "GB/T 42467.6—2023",
+   "standard": "中医临床名词术语 第6部分：妇科学",
+   "subject": "综合、术语学、标准化、文献"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2023\": 2, \"2012\": 1}, \"sourceStats\": {\"计量学和测量、物理现象\": 1, \"综合、术语学、标准化、文献\": 1, \"环保、保健和安全\": 1}, \"typeStats\": {\"7\": 3}, \"totalRecords\": 3, \"tmWordList\": [{\"id\": \"d0b2d659684f4d048ab3095ee9606365\", \"databaseId\": null, \"standardId\": \"b0fd3a9718f843baba2382e74899bd2b\", \"standardCode\": \"GB/T 43518—2023\", \"standardName\": \"人类工效学 家居无障碍设计导则\", \"standardEnName\": \"Ergonomics—Guidelines for accessible design of home\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"环保、保健和安全\", \"termCode\": \"3.7\", \"cnName\": \"心理地图\", \"enName\": \"mental map\", \"publishTime\": \"2023-12-28\", \"publishYear\": \"2023\", \"implementTime\": \"2024-07-01\", \"ics\": \"13.180\", \"ccs\": \"A25\", \"parentTermId\": null, \"titleId\": null, \"oid\": 182302, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"心理地图\", \"cnNameSearch\": \"心理地图\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"mental map\", \"wordSearch\": \"mental map\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"视力残疾人为了顺利到达目的地，熟记行走路线以及沿途标记物和线索而形成的印象路线图。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"0e517f7b184440869acf6985dfd1cdd9\", \"databaseId\": null, \"standardId\": \"2bf475404e79473f934bcf21aac5bbb8\", \"standardCode\": \"GB/T 15472—2012\", \"standardName\": \"失真度测量仪通用规范 \", \"standardEnName\": \"General specification for distortion measure instrument\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"计量学和测量、物理现象\", \"termCode\": \"3.1\", \"cnName\": \"基波\", \"enName\": \"funda mental\", \"publishTime\": \"2012-12-31\", \"publishYear\": \"2012\", \"implementTime\": \"2013-06-01\", \"ics\": \"ICS 17.220\", \"ccs\": \"L 85\", \"parentTermId\": null, \"titleId\": null, \"oid\": 45581, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"基波\", \"cnNameSearch\": \"基波\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"funda mental\", \"wordSearch\": \"funda mental\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"非正弦波周期信号通过傅里叶级数变换分析，它是由若干个振幅不同、频率不同的正弦波信号组成<br>的。其中与非正弦波信号频率相同的信号称为基波信号，其频率称为基波频率。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"67563142d2ea4aadbac265f9e79e7378\", \"databaseId\": null, \"standardId\": \"21c100bf4ccb44a484e83bdf5595dabd\", \"standardCode\": \"GB/T 42467.6—2023\", \"standardName\": \"中医临床名词术语 第6部分：妇科学\", \"standardEnName\": \"Clinical terminology of traditional Chinese medicine—Part 6：Gynecology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"4.12\", \"cnName\": \"经行情志异常\", \"enName\": \"menstrual mental disorders\", \"publishTime\": \"2023-03-17\", \"publishYear\": \"2023\", \"implementTime\": \"2023-03-17\", \"ics\": \"01.040.11\", \"ccs\": \"C 10\", \"parentTermId\": null, \"titleId\": null, \"oid\": 32147, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"经行情志异常\", \"cnNameSearch\": \"经行情志异常\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"menstrual mental disorders\", \"wordSearch\": \"menstrual mental disorders\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"以经前、经期出现周期性烦躁易怒，情志抑郁，悲伤欲哭，坐卧不宁，经后又复如常人为特征的月经病。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1795341191419}"
+}

@@ -1,0 +1,152 @@
+{
+ "key": "moral agents",
+ "term": "moral agents",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-22T09:53:26+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=21",
+ "hits": [
+  {
+   "cn": "精神权",
+   "en": "moral right",
+   "code": "GB/T 4894—2009",
+   "standard": "信息与文献 术语",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "外源因子",
+   "en": "adventitious agents",
+   "code": "GB/T 51086—2015",
+   "standard": "医药实验工程术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "生物因子",
+   "en": "biological agents",
+   "code": "GB/T 50902—2013",
+   "standard": "医药工程基本术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "生物因子",
+   "en": "biological agents",
+   "code": "GB/T 51086—2015",
+   "standard": "医药实验工程术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "生物因子",
+   "en": "biology agents",
+   "code": "GB 51133—2015",
+   "standard": "医药工业环境保护设计规范",
+   "subject": "其它"
+  },
+  {
+   "cn": "感染因子",
+   "en": "infectious agents",
+   "code": "GB/T 42398—2023",
+   "standard": "细胞培养洁净室设计技术规范",
+   "subject": "环保、保健和安全"
+  },
+  {
+   "cn": "生物因子",
+   "en": "biological agents",
+   "code": "GB/T 27428—2022",
+   "standard": "植物生物安全实验室通用要求",
+   "subject": "环保、保健和安全"
+  },
+  {
+   "cn": "生物因子",
+   "en": "biological agents",
+   "code": "GB 41918—2022",
+   "standard": "生物安全柜",
+   "subject": "医药卫生技术"
+  },
+  {
+   "cn": "采购代理",
+   "en": "procurement agents",
+   "code": "GB/Z 40846—2021",
+   "standard": "工程咨询 基本术语",
+   "subject": "社会学、服务、公司（企业）的组织和管理、行政、运输"
+  },
+  {
+   "cn": "螯合剂",
+   "en": "chelating agents",
+   "code": "GB/T 21884—2008",
+   "standard": "纺织印染助剂 螯合剂 螯合能力的测定",
+   "subject": "化工技术"
+  },
+  {
+   "cn": "水性处理剂",
+   "en": "waterbased treatment agents",
+   "code": "GB 50325—2020",
+   "standard": "民用建筑工程室内环境污染控制标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "化学有害因素",
+   "en": "chemical hazardous agents",
+   "code": "GB/Z 42540—2023",
+   "standard": "制药装备密闭性技术指南 固体制剂",
+   "subject": "医药卫生技术"
+  },
+  {
+   "cn": "生物改良法",
+   "en": "biological agents method",
+   "code": "GB/T 42812—2023",
+   "standard": "连作障碍土壤改良通用技术规范",
+   "subject": "农业"
+  },
+  {
+   "cn": "表面活性剂",
+   "en": "surface active agents",
+   "code": "GB/T 13173—2021",
+   "standard": "表面活性剂 洗涤剂试验方法",
+   "subject": "化工技术"
+  },
+  {
+   "cn": "荧光增白剂",
+   "en": "fluorescent whitening agents",
+   "code": "GB/T 9338—2008",
+   "standard": "荧光增白剂  相对白度的测定  仪器法",
+   "subject": "涂料和颜料工业"
+  },
+  {
+   "cn": "荧光增白剂",
+   "en": "fluorescent whitening agents",
+   "code": "GB/T 6687—2006",
+   "standard": "染料名词术语",
+   "subject": "化工技术"
+  },
+  {
+   "cn": "荧光增白剂",
+   "en": "fluorescent whitening agents (FWA)",
+   "code": "GB/T 9340—2009",
+   "standard": "荧光样品颜色的测量方法",
+   "subject": "计量学和测量、物理现象"
+  },
+  {
+   "cn": "供暖系统保护剂",
+   "en": "protective agents for heating system",
+   "code": "GB/T 43486—2023",
+   "standard": "供暖系统保护剂测试方法",
+   "subject": "化工技术"
+  },
+  {
+   "cn": "稀释剂和清洗剂（溶剂）",
+   "en": "thinners and cleaning agents（solvents）",
+   "code": "GB 6675.13—2014",
+   "standard": "玩具安全 第13部分:除实验玩具外的化学套装玩具",
+   "subject": "家用和商用设备、文娱、体育"
+  },
+  {
+   "cn": "药剂平整液",
+   "en": "temper mill solution using chemical agents",
+   "code": "GB 51383—2019",
+   "standard": "钢铁企业冷轧厂废液处理及利用设施工程技术标准",
+   "subject": "其它"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2023\": 4, \"2022\": 2, \"2021\": 2, \"2019\": 1, \"2014\": 2, \"2009\": 2, \"2008\": 2, \"2006\": 1, \"暂无年份\": 5}, \"sourceStats\": {\"计量学和测量、物理现象\": 1, \"综合、术语学、标准化、文献\": 1, \"社会学、服务、公司（企业）的组织和管理、行政、运输\": 1, \"环保、保健和安全\": 2, \"涂料和颜料工业\": 1, \"家用和商用设备、文娱、体育\": 2, \"医药卫生技术\": 2, \"化工技术\": 4, \"农业\": 1, \"其它\": 6}, \"typeStats\": {\"7\": 21}, \"totalRecords\": 21, \"tmWordList\": [{\"id\": \"c8b1aebd09fe4ffc9d2c31f1c2b770a8\", \"databaseId\": null, \"standardId\": \"e124160b0f1a4b1081277012df97d85b\", \"standardCode\": \"GB/T 4894—2009\", \"standardName\": \"信息与文献 术语\", \"standardEnName\": \"Information and documentation—Vocabulary\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"4.7.2.2.9.1\", \"cnName\": \"精神权\", \"enName\": \"moral right\", \"publishTime\": \"2009-09-30\", \"publishYear\": \"2009\", \"implementTime\": \"2010-02-01\", \"ics\": \"01.140.20\", \"ccs\": \"A 14\", \"parentTermId\": null, \"titleId\": null, \"oid\": 219885, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"精神权\", \"cnNameSearch\": \"精神权\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"moral right\", \"wordSearch\": \"moral right\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"著作权的永久的,不可让渡的和不受约束的部分。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"f4b5076ff04e449d95d207393b23877d\", \"databaseId\": null, \"standardId\": \"77c8741d47d54b89b9137dd0c9f41e73\", \"standardCode\": \"GB/T 51086—2015\", \"standardName\": \"医药实验工程术语标准\", \"standardEnName\": \"Standard for terminology of pharmaceutical laboratory engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"3.6.40\", \"cnName\": \"外源因子\", \"enName\": \"adventitious agents\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 123629, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"外源因子\", \"cnNameSearch\": \"外源因子\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"adventitious agents\", \"wordSearch\": \"adventitious agents\"}, {\"languageType\": 1, \"word\": \"extraneous agents\", \"wordSearch\": \"extraneous agents\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"存在于接种物、细胞基质及（或）生产制品所用的原材料及制品中的污染物，包括细菌、真菌、支原体和外源性病毒。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"e210de89487b43c59ca85225176201d0\", \"databaseId\": null, \"standardId\": \"16bc5b5c9eb844cd99f62e972e2ef51b\", \"standardCode\": \"GB/T 50902—2013\", \"standardName\": \"医药工程基本术语标准\", \"standardEnName\": \"Standard for fundamental terms ofpharmaceutical engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"4.0.10\", \"cnName\": \"生物因子\", \"enName\": \"biological agents\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 22004, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"生物因子\", \"cnNameSearch\": \"生物因子\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"biological agents\", \"wordSearch\": \"biological agents\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"一切微生物和具有生物活性的物质。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"416ef6b9e59841c5b51489bc99994fc8\", \"databaseId\": null, \"standardId\": \"77c8741d47d54b89b9137dd0c9f41e73\", \"standardCode\": \"GB/T 51086—2015\", \"standardName\": \"医药实验工程术语标准\", \"standardEnName\": \"Standard for terminology of pharmaceutical laboratory engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"5.2.11\", \"cnName\": \"生物因子\", \"enName\": \"biological agents\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 123563, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"生物因子\", \"cnNameSearch\": \"生物因子\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"biological agents\", \"wordSearch\": \"biological agents\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"微生物和生物活性物质。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"8243ac0c99f946ec823664ca1cc6b08b\", \"databaseId\": null, \"standardId\": \"b0103893d8114b25a69c16c2f2ee19f1\", \"standardCode\": \"GB 51133—2015\", \"standardName\": \"医药工业环境保护设计规范\", \"standardEnName\": \"Code for design of environmental protection of pharmaceutical industry\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.18\", \"cnName\": \"生物因子\", \"enName\": \"biology agents\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 181750, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"生物因子\", \"cnNameSearch\": \"生物因子\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"biology agents\", \"wordSearch\": \"biology agents\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"一切微生物和生物活性物质。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"39529aa50201481eb2f6f2f9e27112a3\", \"databaseId\": null, \"standardId\": \"cd1947ab8b0d4832878e0821affb354d\", \"standardCode\": \"GB/T 42398—2023\", \"standardName\": \"细胞培养洁净室设计技术规范\", \"standardEnName\": \"Technical specifications of cleanroom design for cell culture\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"环保、保健和安全\", \"termCode\": \"3.8\", \"cnName\": \"感染因子\", \"enName\": \"infectious agents\", \"publishTime\": \"2023-03-17\", \"publishYear\": \"2023\", \"implementTime\": \"2023-10-01\", \"ics\": \"13.040.35\", \"ccs\": \"C 70\", \"parentTermId\": null, \"titleId\": null, \"oid\": 205998, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"感染因子\", \"cnNameSearch\": \"感染因子\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"infectious agents\", \"wordSearch\": \"infectious agents\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"携带细菌、病毒、真菌、支原体、寄生虫等致病性病原体的内源性或外源性生物样本。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"3ae587d8213244f589e35d487d8b80a0\", \"databaseId\": null, \"standardId\": \"a1e16d34f3bb4f4ea9d420193962df32\", \"standardCode\": \"GB/T 27428—2022\", \"standardName\": \"植物生物安全实验室通用要求\", \"standardEnName\": \"General requirements for plant biosafety laboratory\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"环保、保健和安全\", \"termCode\": \"3.12\", \"cnName\": \"生物因子\", \"enName\": \"biological agents\", \"publishTime\": \"2022-10-12\", \"publishYear\": \"2022\", \"implementTime\": \"2022-10-12\", \"ics\": \"13.100\", \"ccs\": \"C52\", \"parentTermId\": null, \"titleId\": null, \"oid\": 167121, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"生物因子\", \"cnNameSearch\": \"生物因子\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"biological agents\", \"wordSearch\": \"biological agents\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"动物、植物、微生物和生物活性物质。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [{\"source\": \"GB/T 19489—2008\", \"sourceCode\": \"2.4\", \"modifyStatus\": 1, \"modifyContent\": \"\"}], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"35e714d876b2438ea784cc61ae0d621c\", \"databaseId\": null, \"standardId\": \"b1b68e7f74f64e28b4ced41a98bd4233\", \"standardCode\": \"GB 41918—2022\", \"standardName\": \"生物安全柜\", \"standardEnName\": \"Biological safety cabinets\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"医药卫生技术\", \"termCode\": \"3.2\", \"cnName\": \"生物因子\", \"enName\": \"biological agents\", \"publishTime\": \"2022-10-12\", \"publishYear\": \"2022\", \"implementTime\": \"2025-11-01\", \"ics\": \"11.10011\", \"ccs\": \"C44\", \"parentTermId\": null, \"titleId\": null, \"oid\": 182531, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"生物因子\", \"cnNameSearch\": \"生物因子\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"biological agents\", \"wordSearch\": \"biological agents\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"动物、植物、微生物、生物毒素及其他生物活性物质。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"4b409d381c9d41f1a8ed34405685af33\", \"databaseId\": null, \"standardId\": \"8f3583f108da44bebdfa982b9cb1a5f7\", \"standardCode\": \"GB/Z 40846—2021\", \"standardName\": \"工程咨询 基本术语\", \"standardEnName\": \"Engineering consulting—Essential vocabulary\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"社会学、服务、公司（企业）的组织和管理、行政、运输\", \"termCode\": \"5.8.9\", \"cnName\": \"采购代理\", \"enName\": \"procurement agents\", \"publishTime\": \"2021-10-11\", \"publishYear\": \"2021\", \"implementTime\": \"2022-05-01\", \"ics\": \"03.080.99\", \"ccs\": \"A 20\", \"parentTermId\": null, \"titleId\": null, \"oid\": 151241, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"采购代理\", \"cnNameSearch\": \"采购代理\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"procurement agents\", \"wordSearch\": \"procurement agents\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在采购活动中，作为采购方的代理提供相关服务的组织。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"7120946244364a948e28d91970dada6c\", \"databaseId\": null, \"standardId\": \"790328b8d9544ceeb79785892e0639ef\", \"standardCode\": \"GB/T 21884—2008\", \"standardName\": \"纺织印染助剂 螯合剂 螯合能力的测定\", \"standardEnName\": \"Textile auxiliaries-Chelating agents-Determination of the capability of chelating\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"化工技术\", \"termCode\": \"3.1\", \"cnName\": \"螯合剂\", \"enName\": \"chelating agents\", \"publishTime\": \"2008-05-15\", \"publishYear\": \"2008\", \"implementTime\": \"2008-11-01\", \"ics\": \"71.100. 40\", \"ccs\": \"G 70\", \"parentTermId\": null, \"titleId\": null, \"oid\": 125460, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"螯合剂\", \"cnNameSearch\": \"螯合剂\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"chelating agents\", \"wordSearch\": \"chelating agents\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"一种应用于纺织印染行业，能通过形成水溶性络合物的形式来钝化金属离子的化学物质。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"4d2afa75fcf74d53bbbeada868035375\", \"databaseId\": null, \"standardId\": \"dfdf7312878a4c2eb1ba432fe954c539\", \"standardCode\": \"GB 50325—2020\", \"standardName\": \"民用建筑工程室内环境污染控制标准\", \"standardEnName\": \"Standard for indoor environmental pollution control of civil building engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.1.9\", \"cnName\": \"水性处理剂\", \"enName\": \"waterbased treatment agents\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 218874, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"水性处理剂\", \"cnNameSearch\": \"水性处理剂\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"waterbased treatment agents\", \"wordSearch\": \"waterbased treatment agents\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"以水作为稀释剂，能浸入建筑主体材料和装饰装修材料内部，提高其阻燃、防水、防腐等性能的液体。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"4704e70b1c8d48a59cbb6b466b0a242d\", \"databaseId\": null, \"standardId\": \"dfc8a2f4e64f4b7d888a5814c7f78ec1\", \"standardCode\": \"GB/Z 42540—2023\", \"standardName\": \"制药装备密闭性技术指南 固体制剂\", \"standardEnName\": \"Technical guide for containment of pharmaceutical equipment—Solid preparations\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"医药卫生技术\", \"termCode\": \"3.2\", \"cnName\": \"化学有害因素\", \"enName\": \"chemical hazardous agents\", \"publishTime\": \"2023-05-23\", \"publishYear\": \"2023\", \"implementTime\": \"2023-12-01\", \"ics\": \"11.120.30\", \"ccs\": \"C 90\", \"parentTermId\": null, \"titleId\": null, \"oid\": 218832, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"化学有害因素\", \"cnNameSearch\": \"化学有害因素\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"chemical hazardous agents\", \"wordSearch\": \"chemical hazardous agents\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"工作场所存在或产生的化学物质、粉尘及生物因素。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [{\"source\": \"GB/Z 2.1—2019\", \"sourceCode\": \"3.1\", \"modifyStatus\": 1, \"modifyContent\": \"\"}], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"a89f78ec101f48afb91236d8b14cf6ba\", \"databaseId\": null, \"standardId\": \"f7f2856bc6cc41c9887b7bcd83341376\", \"standardCode\": \"GB/T 42812—2023\", \"standardName\": \"连作障碍土壤改良通用技术规范\", \"standardEnName\": \"General technical specification for improvement of soil with continuous cropping obstacles\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"农业\", \"termCode\": \"3.6\", \"cnName\": \"生物改良法\", \"enName\": \"biological agents method\", \"publishTime\": \"2023-08-06\", \"publishYear\": \"2023\", \"implementTime\": \"2024-03-01\", \"ics\": \"65.080\", \"ccs\": \"B 10\", \"parentTermId\": null, \"titleId\": null, \"oid\": 242641, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"生物改良法\", \"cnNameSearch\": \"生物改良法\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"biological agents method\", \"wordSearch\": \"biological agents method\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在土壤中施入适宜的生物制剂，来抑制土传病原菌等有害生物和改善土壤生态，达到改良连作障碍土壤的方法。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"8bb95d05e9e54c27bed36b2bbb854bc3\", \"databaseId\": null, \"standardId\": \"79cf40aacf764f9da6d6d0d634c5247b\", \"standardCode\": \"GB/T 13173—2021\", \"standardName\": \"表面活性剂 洗涤剂试验方法\", \"standardEnName\": \"Surface active agents-Test methods for detergents\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"化工技术\", \"termCode\": \"3.1\", \"cnName\": \"表面活性剂\", \"enName\": \"surface active agents\", \"publishTime\": \"2021-05-21\", \"publishYear\": \"2021\", \"implementTime\": \"2021-12-01\", \"ics\": \"71.100.40\", \"ccs\": \"Y 43\", \"parentTermId\": null, \"titleId\": null, \"oid\": 125698, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"表面活性剂\", \"cnNameSearch\": \"表面活性剂\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"surface active agents\", \"wordSearch\": \"surface active agents\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"一种具有表面活性的化合物,它溶于液体特别是水中,由于在液/气表面或其他界面的优先吸附,使表面张力或界面张力显著降低。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"9f40c832cb8e4259b62956bf1af9fb62\", \"databaseId\": null, \"standardId\": \"1205c1c74cc047cb9446bf18b8a54aa2\", \"standardCode\": \"GB/T 9338—2008\", \"standardName\": \"荧光增白剂  相对白度的测定  仪器法\", \"standardEnName\": \"Fluorescent whitening agents - Determination of  relative  whiteness - Instrumental measurement\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"涂料和颜料工业\", \"termCode\": \"2.1\", \"cnName\": \"荧光增白剂\", \"enName\": \"fluorescent whitening agents\", \"publishTime\": \"2008-09-18\", \"publishYear\": \"2008\", \"implementTime\": \"2009-05-01\", \"ics\": \"87.060.10\", \"ccs\": \"G55\", \"parentTermId\": null, \"titleId\": null, \"oid\": 16885, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"荧光增白剂\", \"cnNameSearch\": \"荧光增白剂\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"fluorescent whitening agents\", \"wordSearch\": \"fluorescent whitening agents\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"是一种荧光染料，在紫外光照射下，可激发出蓝、紫光与基质上黄光互补而具有增白效果。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [{\"source\": \"GB/T 6687—2006\", \"sourceCode\": \"2.21\", \"modifyStatus\": 0, \"modifyContent\": \"\"}], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"d6db5099f2c74c97a4c05b135164382d\", \"databaseId\": null, \"standardId\": \"b6cf1f5262f34de1a6b62b8de636ceca\", \"standardCode\": \"GB/T 6687—2006\", \"standardName\": \"染料名词术语\", \"standardEnName\": \"Glossary of dyestuff terms\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"化工技术\", \"termCode\": \"2.21\", \"cnName\": \"荧光增白剂\", \"enName\": \"fluorescent whitening agents\", \"publishTime\": \"2006-01-23\", \"publishYear\": \"2006\", \"implementTime\": \"2006-11-01\", \"ics\": \"71.100.01\", \"ccs\": \"G 55\", \"parentTermId\": null, \"titleId\": null, \"oid\": 186885, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"荧光增白剂\", \"cnNameSearch\": \"荧光增白剂\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"fluorescent whitening agents\", \"wordSearch\": \"fluorescent whitening agents\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"一种荧光染料，在紫外光照射下，可激发出蓝、紫光与基质上黄光互补而具有增白效果。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"225d779773fb4135b957c388d537cb95\", \"databaseId\": null, \"standardId\": \"24d867de6c2b48058d9eccf72b2eb0df\", \"standardCode\": \"GB/T 9340—2009\", \"standardName\": \"荧光样品颜色的测量方法\", \"standardEnName\": \"Methods for color measurement of fluorescent specimens\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"计量学和测量、物理现象\", \"termCode\": \"3.2\", \"cnName\": \"荧光增白剂\", \"enName\": \"fluorescent whitening agents (FWA)\", \"publishTime\": \"2009-03-11\", \"publishYear\": \"2009\", \"implementTime\": \"2009-11-01\", \"ics\": \"17.180.201\", \"ccs\": \"G56\", \"parentTermId\": null, \"titleId\": null, \"oid\": 34514, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"荧光增白剂\", \"cnNameSearch\": \"荧光增白剂\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"fluorescent whitening agents (FWA)\", \"wordSearch\": \"fluorescent whitening agents (FWA)\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"吸收紫外辐射后在可见光的短波区域发射出荧光,从而增加材料的视觉白度的一种化学物质。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"ba21877e3b7c4e5bb344bf5925d88a06\", \"databaseId\": null, \"standardId\": \"2d1a19d53d614f63939a558ee466d20b\", \"standardCode\": \"GB/T 43486—2023\", \"standardName\": \"供暖系统保护剂测试方法\", \"standardEnName\": \"Test method for protective agents for heating system\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"化工技术\", \"termCode\": \"3.1\", \"cnName\": \"供暖系统保护剂\", \"enName\": \"protective agents for heating system\", \"publishTime\": \"2023-12-28\", \"publishYear\": \"2023\", \"implementTime\": \"2024-07-01\", \"ics\": \"71.100.997\", \"ccs\": \"G85\", \"parentTermId\": null, \"titleId\": null, \"oid\": 47033, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"供暖系统保护剂\", \"cnNameSearch\": \"供暖系统保护剂\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"protective agents for heating system\", \"wordSearch\": \"protective agents for heating system\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"由无机和有机的水垢抑制剂、金属防腐剂和防微生物生长助剂等组成，能防止供暖系统内部的水垢和腐蚀形成的化学处理剂。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"d4bc6f2439d64196bc28bd1691317a28\", \"databaseId\": null, \"standardId\": \"bffe82070b7749f8af5c0d3c1704107a\", \"standardCode\": \"GB 6675.13—2014\", \"standardName\": \"玩具安全 第13部分:除实验玩具外的化学套装玩具\", \"standardEnName\": \"Safety of toys—Part 13 :Chemical toys(sets)other than experimental sets\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"家用和商用设备、文娱、体育\", \"termCode\": \"3.7.5\", \"cnName\": \"稀释剂和清洗剂（溶剂）\", \"enName\": \"thinners and cleaning agents（solvents）\", \"publishTime\": \"2014-12-05\", \"publishYear\": \"2014\", \"implementTime\": \"2016-01-01\", \"ics\": \"97.200.5097\", \"ccs\": \"Y57\", \"parentTermId\": null, \"titleId\": null, \"oid\": 193545, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"稀释剂和清洗剂（溶剂）\", \"cnNameSearch\": \"稀释剂和清洗剂（溶剂）\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"thinners and cleaning agents（solvents）\", \"wordSearch\": \"thinners and cleaning agents（solvents）\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"供获得所需粘度的油漆和漆,以及清洗工具和刷子的产品。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"7575b3849d0d402f801326728cb8ef76\", \"databaseId\": null, \"standardId\": \"94d3d071016a440a899f16ed49d1021d\", \"standardCode\": \"GB 51383—2019\", \"standardName\": \"钢铁企业冷轧厂废液处理及利用设施工程技术标准\", \"standardEnName\": \"Technical standard for liquid waste treatment and utilization facilities of cold rolling plant in iron and steel enterprises\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.18\", \"cnName\": \"药剂平整液\", \"enName\": \"temper mill solution using chemical agents\", \"publishTime\": \"2019-07-10\", \"publishYear\": \"2019\", \"implementTime\": \"2019-12-01\", \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 157515, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"药剂平整液\", \"cnNameSearch\": \"药剂平整液\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"temper mill solution using chemical agents\", \"wordSearch\": \"temper mill solution using chemical agents\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"用平整剂和脱盐水混合配制的平整液。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 2}}, \"timestamp\": 1795341206427}"
+}

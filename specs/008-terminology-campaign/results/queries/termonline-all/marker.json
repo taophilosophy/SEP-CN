@@ -1,0 +1,782 @@
+{
+ "key": "marker",
+ "term": "marker",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-21T13:30:06+00:00",
+ "status": "ok",
+ "note": "variant=marker; 审定公布名词库=1463; 海峡两岸名词对照库=721; 其他来源数据库=170; 预公布名词数据库=122; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "标志物",
+   "en": "marker",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "11.0382",
+   "subjectFullName": "生物化学与分子生物学_方法与技术_定性定量分析方法_层析技术",
+   "subjectName": "层析技术",
+   "publishYear": "2024",
+   "definition": "分离或分析样品时加入的特定参照物质。其运动过程可被追踪，可以简化混合物中所含成分的分析辨别工作，或作为定性或定量分析的标准品参照。"
+  },
+  {
+   "cn": "标志物",
+   "en": "marker",
+   "source": "运动医学名词",
+   "wordNumber": "09.021",
+   "subjectFullName": "运动医学_反兴奋剂_《世界反兴奋剂条例》",
+   "subjectName": "《世界反兴奋剂条例》",
+   "publishYear": "2019",
+   "definition": "显示使用了禁用物质或禁用方法的化合物、复合化合物或生物参数。"
+  },
+  {
+   "cn": "标记变项",
+   "en": "marker",
+   "source": "语言学名词",
+   "wordNumber": "12.050",
+   "subjectFullName": "语言学_社会语言学_语言变异",
+   "subjectName": "语言变异",
+   "publishYear": "2011",
+   "definition": "显示社会差异和语体差异，并有不同社会评价的语言变项。它是研究语言变异和演变的对象。"
+  },
+  {
+   "cn": "标志器",
+   "en": "marker",
+   "source": "铁道科学技术名词",
+   "wordNumber": "07.0400",
+   "subjectFullName": "铁道科学技术_铁道通信",
+   "subjectName": "铁道通信",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "打印机",
+   "en": "marking machine,marker",
+   "source": "冶金学名词",
+   "wordNumber": "09.1380",
+   "subjectFullName": "冶金学_金属加工_设备及其计算理论、部件及自动化",
+   "subjectName": "设备及其计算理论、部件及自动化",
+   "publishYear": "2019",
+   "definition": "在成品轧件的端面或距其端部100mm处的表面进行打印的机械。"
+  },
+  {
+   "cn": "标志",
+   "en": "sign,marker",
+   "source": "铁道科学技术名词",
+   "wordNumber": "08.0093",
+   "subjectFullName": "铁道科学技术_铁道信号",
+   "subjectName": "铁道信号",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "反射标准层",
+   "en": "key horizon,marker",
+   "source": "石油名词",
+   "wordNumber": "03.0831",
+   "subjectFullName": "石油_石油地球物理",
+   "subjectName": "石油地球物理",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "选择性标志物",
+   "en": "selectable marker;selective marker",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "11.0785",
+   "subjectFullName": "生物化学与分子生物学_方法与技术_重组_技术及应用_层析技术",
+   "subjectName": "层析技术",
+   "publishYear": "2024",
+   "definition": "可用于从生物或细胞群体中选择特定类型个体或细胞的遗传标志物。常用的如药物抗性、营养依赖性标志等。如用含某种抗生素抗性基因的质粒转化细菌，就可以用含该抗生素的培养基从有多数未转化的细菌群中选择转化体。"
+  },
+  {
+   "cn": "标记插值",
+   "en": "marker imputation",
+   "source": "农学名词",
+   "wordNumber": "15.296",
+   "subjectFullName": "农业生物技术_生物大数据和人工智能",
+   "subjectName": "生物大数据和人工智能",
+   "publishYear": "2025",
+   "definition": "利用基因组中相邻近位点之间存在连锁不平衡的原理，对基因型鉴定后的缺失值进行预测的过程。"
+  },
+  {
+   "cn": "标记密度",
+   "en": "marker density",
+   "source": "农学名词",
+   "wordNumber": "15.297",
+   "subjectFullName": "农业生物技术_生物大数据和人工智能",
+   "subjectName": "生物大数据和人工智能",
+   "publishYear": "2025",
+   "definition": "基因组上单位物理距离或遗传距离区间内分子标记的个数。"
+  },
+  {
+   "cn": "标记基因",
+   "en": "marker gene",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "11.0945",
+   "subjectFullName": "生物化学与分子生物学_方法与技术_重组_技术及应用_层析技术",
+   "subjectName": "层析技术",
+   "publishYear": "2024",
+   "definition": "功能及其在染色体上的位置均已明确的基因。可作为分析其他基因的参照。可以分为报告基因和选择基因。有的基因可以兼具选择和报告作用。作为标记基因的条件是：片段较小容易构建融合基因、可在导入细胞中表达、容易进"
+  },
+  {
+   "cn": "标志酶",
+   "en": "marker enzyme",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "3.0741",
+   "subjectFullName": "生物化学与分子生物学_酶_核酶及其他_易位酶",
+   "subjectName": "易位酶",
+   "publishYear": "2024",
+   "definition": "可用来作为标志物的酶。如已知分子量的酶可用来标定蛋白质的分子量；存在于细胞特定部位的酶，可通过对这种酶的测定跟踪亚细胞成分的提取和纯化。"
+  },
+  {
+   "cn": "标记染色体",
+   "en": "marker chromosome",
+   "source": "血液学名词",
+   "wordNumber": "4.245",
+   "subjectFullName": "血液学_常用检查_血液病理检测_遗传学检测相关",
+   "subjectName": "遗传学检测相关",
+   "publishYear": "2022",
+   "definition": "一个结构重排的染色体。不能被常规显带方法分辨或明确识别发生的结构畸变。"
+  },
+  {
+   "cn": "标记基因",
+   "en": "marker gene ",
+   "source": "草学名词",
+   "wordNumber": "5.0138",
+   "subjectFullName": "草学_草业生物技术",
+   "subjectName": "草业生物技术",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "标记染色体",
+   "en": "marker chromosome",
+   "source": "医学遗传学名词",
+   "wordNumber": "1.379",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "在肿瘤细胞内常见到结构异常的染色体，如果一种异常的染色体较多地出现在某种肿瘤的细胞内，就称为标记染色体。可分为特异性和非特异性两种。"
+  },
+  {
+   "cn": "标记基因",
+   "en": "marker gene",
+   "source": "医学遗传学名词",
+   "wordNumber": "8.121",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "功能及在染色体上的位置都已经确定的基因。可用作分析其他基因的参照。"
+  },
+  {
+   "cn": "标志桩",
+   "en": "marker post",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "05.087",
+   "subjectFullName": "化工（五）_工厂系统与储运_油气管道工程",
+   "subjectName": "油气管道工程",
+   "publishYear": "2021",
+   "definition": "标记管道方向变化、管道与地面工程（地下隐蔽物）交叉、管理单位交界、管道结构变化（管径、壁厚、防护层）、管道附属设施的地面桩。包括穿（跨）越桩（河流、公路、铁路、隧道）、交叉桩（管道交叉、光缆交叉、电力"
+  },
+  {
+   "cn": "标记基因",
+   "en": "marker gene",
+   "source": "植物学名词",
+   "wordNumber": "16.0343",
+   "subjectFullName": "植物学_植物生物技术",
+   "subjectName": "植物生物技术",
+   "publishYear": "2019",
+   "definition": "功能及在染色体上的位置都已经确定的基因。可用作分析其他基因的参照。"
+  },
+  {
+   "cn": "标记染色体",
+   "en": "marker chromosome",
+   "source": "细胞生物学名词",
+   "wordNumber": "07.041",
+   "subjectFullName": "细胞生物学_细胞遗传",
+   "subjectName": "细胞遗传",
+   "publishYear": "2009",
+   "definition": "有特殊的形态，且便于识别的染色体。如费城染色体。"
+  },
+  {
+   "cn": "标记获救",
+   "en": "marker rescue",
+   "source": "遗传学名词",
+   "wordNumber": "03.200",
+   "subjectFullName": "遗传学_分子遗传学",
+   "subjectName": "分子遗传学",
+   "publishYear": "2007",
+   "definition": "带突变标记的噬菌体和正常噬菌体感染宿主细胞，裂解产生的子代噬菌体中大多数为正常噬菌体，少数噬菌体则由于突变基因掺入了正常噬菌体的基因组而使突变标记得到保留，称为标记获救。"
+  },
+  {
+   "cn": "标志",
+   "en": "marker",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "信标器",
+   "en": "marker",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "选择性标志",
+   "en": "selectable marker\",\"selective marker",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "标记基因",
+   "en": "marker gene",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "标记基因",
+   "en": "marker gene",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "标记基因",
+   "en": "marker gene",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "标记获救",
+   "en": "marker rescue",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "标志基因, 标记基因",
+   "en": "marker gene",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "标志酶",
+   "en": "marker enzyme",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "标记染色体",
+   "en": "marker chromosome",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "标记染色体",
+   "en": "marker chromosome",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "标记基因",
+   "en": "marker gene",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "标位无线电信标",
+   "en": "marker radiobeacon",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "标位信标",
+   "en": "marker beacon",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "指点信标",
+   "en": "marker beacon",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "微卫星标记",
+   "en": "microsatellite marker",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "遗传标记，遗传标志",
+   "en": "genetic marker",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "遗传标志（=遗传标记）",
+   "en": "genetic marker",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "能见度目标",
+   "en": "visibility marker",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "显性标记",
+   "en": "dominant marker",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "报靶员",
+   "en": "marker",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "犯规次数牌",
+   "en": "marker\",\"wand",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "进球得分",
+   "en": "goal\",\"marker",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "标记字母",
+   "en": "marker letter",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "方向标",
+   "en": "steering marker",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "赛道标志",
+   "en": "lane marker",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "纪录标记",
+   "en": "record marker",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "强制通过标记",
+   "en": "compulsory marker",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "最好成绩标记",
+   "en": "marker of best throw",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "分道线",
+   "en": "floating line\",\"lane marker\",\"lane rope\",\"racing line",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_游泳名词",
+   "subjectName": "游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "标志带",
+   "en": "side band of the net\",\"side net marker",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "标记！",
+   "en": "Mark!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "着地痕迹",
+   "en": "mark",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "落地痕迹",
+   "en": "mark",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "助跑标记",
+   "en": "mark",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "航标",
+   "en": "mark",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "盯人",
+   "en": "marking",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "残留标志物",
+   "en": "marker residue",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.3.22",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品标准",
+   "subjectName": "食品标准",
+   "publishYear": "2025",
+   "definition": "动物用药后在靶组织中与总残留物有明确相关性的残留物，可以是药物原形、相关代谢物，也可以是原形与代谢物的加和，或者是可转为单一衍生物或药物分子片段的残留物总量。"
+  },
+  {
+   "cn": "社会语言标记",
+   "en": "sociolinguistic marker",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0086",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "能够区别不同社会群体的语言变异项目。"
+  },
+  {
+   "cn": "状态标志",
+   "en": "state marker",
+   "source": "消毒学",
+   "wordNumber": "5.1.7.3",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "标识时对象满足规定质量要求的能力，一般情况下具有时限性及可变性的特点，即标识对象对应不同的时段可有不同的状态。"
+  },
+  {
+   "cn": "礼仪标识",
+   "en": "ritual marker",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0212",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "中国香港历史学家科大卫（David Faure）提出的概念，即地方社会的成员所认为是重要的客观且可见的礼仪传统标识，包括：称谓、拜祭核心（神、祖先等）、建筑模式（比如家庙）、宗教传统、控产合股、非宗教"
+  },
+  {
+   "cn": "十年来三件大事",
+   "en": "three major events in the past decade marked",
+   "source": "马克思主义",
+   "wordNumber": "03.0826",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中共二十大报告指出，十八大召开至今已经十年了。十年来，我们经历了对党和人民事业具有重大现实意义和深远历史意义的三件大事：一是迎来中国共产党成立一百周年，二是中国特色社会主义进入新时代，三是完成脱贫攻坚"
+  },
+  {
+   "cn": "从新民主主义革命到社会主义革命转变的标志",
+   "en": "mark of a shift from new democratic revolution to socialist revolution",
+   "source": "马克思主义",
+   "wordNumber": "03.0381",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东关于革命发展阶段论的重要内容。1959年底至1960年春，毛泽东在读苏联《政治经济学教科书》的谈话中明确指出：1949年中华人民共和国的建立标志着新民主主义革命阶段的结束和社会主义革命阶段的开始"
+  },
+  {
+   "cn": "市",
+   "en": "market",
+   "source": "社会学名词",
+   "wordNumber": "3.4.12.2",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_中国古代城市",
+   "subjectName": "中国古代城市",
+   "publishYear": "2025",
+   "definition": "临时或定期集中一地进行的贸易活动。也指城市中划定的贸易之所或商业区。"
+  },
+  {
+   "cn": "市场",
+   "en": "market",
+   "source": "马克思主义",
+   "wordNumber": "02.0226",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "商品交换关系的总和，是商品经济的必然产物。有时也指某种特定交易场所或机制，如消费品、生产资料、货币、劳动力等交换空间或机制。"
+  },
+  {
+   "cn": "市场",
+   "en": "market ",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.1",
+   "subjectFullName": "",
+   "subjectName": "市场",
+   "publishYear": "2025",
+   "definition": "狭义上是商品交换的场所，广义上为商品交换关系的总和。"
+  },
+  {
+   "cn": "市场",
+   "en": "market",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0156",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "买卖双方进行商品交换的场所。经济人类学认为市场并非自然的存在，“市场的自我调节功能”是经济学上的一个假设，而非实然的真理。"
+  },
+  {
+   "cn": "以物易物",
+   "en": "barter",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0161",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "一种没有货币介入的物品交易方式，特点是买和卖的行为同时发生，许多现代复杂社会的早期阶段存在着这种现象。"
+  },
+  {
+   "cn": "以物易物",
+   "en": "barter",
+   "source": "社会学名词",
+   "wordNumber": "4.2.9.24",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化现象",
+   "subjectName": "文化现象",
+   "publishYear": "2025",
+   "definition": "不以货币为媒介而直接用一种物品换取另一种物品的互换行为。最简单的经济制度里唯一的交换方式。"
+  },
+  {
+   "cn": "举止",
+   "en": "manner",
+   "source": "社会学名词",
+   "wordNumber": "4.2.9.39",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化现象",
+   "subjectName": "文化现象",
+   "publishYear": "2025",
+   "definition": "被一种文化审美所规定的行为和表达的规矩，作为仪礼的一个重要组成部分，被礼貌与否、得体与否等道德判断所界定，表达了人与人之间关系的秩序、等级，尊贵与卑贱的状态。"
+  },
+  {
+   "cn": "物质",
+   "en": "matter",
+   "source": "马克思主义",
+   "wordNumber": "01.0010",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "独立存在于人的意识之外的、不依赖于意识并为人的意识所反映的客观实在。物质的根本特性是客观实在性。恩格斯提出物质无非是各种物的总和，而这个概念就是从这一总和中抽象出来的。列宁给物质下了科学定义为：物质是"
+  },
+  {
+   "cn": "物物交换",
+   "en": "barter",
+   "source": "马克思主义",
+   "wordNumber": "02.0060",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "商品交换的原始形式，出现在原始社会后期、第一次社会大分工以前的产品的直接交换。物物交换的特点是没有买与卖的区别。物物交换从价值形式的发展来看，包括简单的价值形式和扩大的价值形式。"
+  },
+  {
+   "cn": "兼并",
+   "en": "merger",
+   "source": "马克思主义",
+   "wordNumber": "02.0165",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "企业兼并，是一个企业收买另外一个或几个企业的全部资产和部分资产经营权的一种资产转让方式。企业兼并的形式，主要有以下几种：（1）承担债务式；（2）购买式；（3）吸收股份式；（4）控股式。"
+  },
+  {
+   "cn": "市场状态",
+   "en": "market situation",
+   "source": "社会学名词",
+   "wordNumber": "2.6.6.15",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会分层理论",
+   "subjectName": "社会分层理论",
+   "publishYear": "2025",
+   "definition": "人们获取就业机会和有价物品的能力。最初由马克斯•韦伯提出，后经洛克伍德(David Lockwood）和戈德索普(John Goldthorpe）等人的细化和操作化，成为韦伯派阶级分析理论划分阶级位置"
+  },
+  {
+   "cn": "市场转型",
+   "en": "market transition",
+   "source": "社会学名词",
+   "wordNumber": "2.6.6.25",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会分层理论",
+   "subjectName": "社会分层理论",
+   "publishYear": "2025",
+   "definition": "主要由美国社会学家倪志伟(Victor Nee）提出。认为20世纪80年代以来，中国、俄罗斯和东欧等社会由再分配经济向市场经济转型，导致社会分层机制发生根本性改变，市场分配机制（主要指人力资本）取代再"
+  },
+  {
+   "cn": "互惠市场",
+   "en": "reciprocal market",
+   "source": "社会学名词",
+   "wordNumber": "3.5.2.12",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_古典经济社会学",
+   "subjectName": "古典经济社会学",
+   "publishYear": "2025",
+   "definition": "以互惠的方式进行分配和流通的产品和服务的需求总和。通常发生在对称的团体之间，比如家庭、亲属或社区之间，交换的中介是信任和礼物而非价格和货币。"
+  },
+  {
+   "cn": "交换市场",
+   "en": "exchange market",
+   "source": "社会学名词",
+   "wordNumber": "3.5.2.13",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_古典经济社会学",
+   "subjectName": "古典经济社会学",
+   "publishYear": "2025",
+   "definition": "生产者与消费者以价格和货币为中介进行物品交易的产品和服务的需求总和。建立在“获利”这一动机上、经由价格决定的市场进行物品分配。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,152 @@
+{
+ "key": "excluded middle",
+ "term": "excluded middle",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-22T09:53:09+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=74",
+ "hits": [
+  {
+   "cn": "中游",
+   "en": "middle stream",
+   "code": "GB/T 50095—2014",
+   "standard": "水文基本术语和符号标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "江心洲",
+   "en": "middle bar",
+   "code": "GB/T 50095—2014",
+   "standard": "水文基本术语和符号标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "中间杆",
+   "en": "middle pole",
+   "code": "GB/T 51421—2020",
+   "standard": "架空光(电)缆通信杆路工程技术标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "中间区",
+   "en": "middle zone",
+   "code": "GB 51022—2015",
+   "standard": "门式刚架轻型房屋钢结构技术规范",
+   "subject": "其它"
+  },
+  {
+   "cn": "中质原油",
+   "en": "middle crude",
+   "code": "GB 50350—2015",
+   "standard": "油田油气集输设计规范",
+   "subject": "其它"
+  },
+  {
+   "cn": "中通孔",
+   "en": "via-middle",
+   "code": "GB/T 43510—2023",
+   "standard": "集成电路 TSV 三维封装可靠性试验方法指南",
+   "subject": "电子学"
+  },
+  {
+   "cn": "中通孔",
+   "en": "via-middle",
+   "code": "GB/Z 43510—2023",
+   "standard": "集成电路TSV 三维封装可靠性试验方法指南",
+   "subject": "电子学"
+  },
+  {
+   "cn": "中间样",
+   "en": "middle sample",
+   "code": "GB/T 41234—2022",
+   "standard": "水生动物RNA病毒核酸检测参考物质质量控制规范 假病毒",
+   "subject": "农业"
+  },
+  {
+   "cn": "中间样",
+   "en": "middle sample",
+   "code": "GB/T 41185—2021",
+   "standard": "水生动物病原DNA检测参考物质制备和质量控制规范 质粒",
+   "subject": "农业"
+  },
+  {
+   "cn": "中导标",
+   "en": "middle mark",
+   "code": "GB/T 17765—2021",
+   "standard": "航标术语 ",
+   "subject": "社会学、服务、公司（企业）的组织和管理、行政、运输"
+  },
+  {
+   "cn": "中间馏分油",
+   "en": "middle distillate",
+   "code": "GB/T 4016—2019",
+   "standard": "石油产品术语",
+   "subject": "石油及相关技术"
+  },
+  {
+   "cn": "中置式电池",
+   "en": "middle-installedbattery",
+   "code": "GB/T 36943—2018",
+   "standard": "电动自行车用锂离子蓄电池型号命名与标志要求",
+   "subject": "道路车辆工程"
+  },
+  {
+   "cn": "压区中心",
+   "en": "middle-nip",
+   "code": "GB/T 36928—2018",
+   "standard": "压光机术语",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "中模",
+   "en": "middle mould",
+   "code": "GB/T 8845—2017",
+   "standard": "模具 术语",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "中指点信标",
+   "en": "middle marker",
+   "code": "GB/T 9390—2017",
+   "standard": "导航术语",
+   "subject": "电信、音频和视频工程"
+  },
+  {
+   "cn": "中缝",
+   "en": "middle strip",
+   "code": "GB/T 33278—2016",
+   "standard": "粘扣带 分类和术语",
+   "subject": "纺织和皮革技术"
+  },
+  {
+   "cn": "中部样",
+   "en": "middle sample",
+   "code": "GB/T 4756—2015",
+   "standard": "石油液体手工取样法",
+   "subject": "石油及相关技术"
+  },
+  {
+   "cn": "中层漆",
+   "en": "middle-coat",
+   "code": "GB/T 9779—2015",
+   "standard": "复 层 建 筑 涂 料",
+   "subject": "涂料和颜料工业"
+  },
+  {
+   "cn": "中部样品",
+   "en": "middle sample",
+   "code": "GB/T 4650—2012",
+   "standard": "工业用化学产品 采样 词汇",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "中间汁",
+   "en": "middle juice",
+   "code": "GB/T 9289—2010",
+   "standard": "制糖工业术语",
+   "subject": "食品技术"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2025\": 1, \"2023\": 5, \"2022\": 3, \"2021\": 9, \"2020\": 1, \"2019\": 1, \"2018\": 3, \"2017\": 6, \"2016\": 2, \"2015\": 4, \"2014\": 2, \"2013\": 2, \"2012\": 2, \"2011\": 5, \"2010\": 2, \"2009\": 1, \"2008\": 5, \"2007\": 2, \"2005\": 2, \"2003\": 2, \"2002\": 1, \"1988\": 1, \"暂无年份\": 12}, \"sourceStats\": {\"食品技术\": 3, \"采矿和矿产品\": 4, \"道路车辆工程\": 2, \"造船和海上构筑物\": 1, \"造纸技术\": 1, \"计量学和测量、物理现象\": 2, \"航空器和航天器工程\": 2, \"综合、术语学、标准化、文献\": 11, \"纺织和皮革技术\": 2, \"社会学、服务、公司（企业）的组织和管理、行政、运输\": 2, \"石油及相关技术\": 2, \"电气工程\": 3, \"电子学\": 3, \"电信、音频和视频工程\": 2, \"环保、保健和安全\": 1, \"涂料和颜料工业\": 1, \"机械系统和通用件\": 1, \"机械制造\": 1, \"木材技术\": 1, \"成像技术\": 2, \"建筑材料和建筑物\": 3, \"家用和商用设备、文娱、体育\": 3, \"土木工程\": 1, \"医药卫生技术\": 1, \"化工技术\": 1, \"冶金\": 2, \"农业\": 3, \"其它\": 13}, \"typeStats\": {\"7\": 74}, \"totalRecords\": 74, \"tmWordList\": [{\"id\": \"eb633c98dbc04fc183b433ef2977c8b3\", \"databaseId\": null, \"standardId\": \"2ab6223e540049078222788acd26c43f\", \"standardCode\": \"GB/T 50095—2014\", \"standardName\": \"水文基本术语和符号标准\", \"standardEnName\": \"Standard for essential terminology and symbol in hydrology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.5.12.2 \", \"cnName\": \"中游\", \"enName\": \"middle stream\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 42070, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"中游\", \"cnNameSearch\": \"中游\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"middle stream\", \"wordSearch\": \"middle stream\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"上、下游中间的河段。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"ce18a6d32d354d8cbc04a7e0117ac7d8\", \"databaseId\": null, \"standardId\": \"2ab6223e540049078222788acd26c43f\", \"standardCode\": \"GB/T 50095—2014\", \"standardName\": \"水文基本术语和符号标准\", \"standardEnName\": \"Standard for essential terminology and symbol in hydrology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.5.14.5\", \"cnName\": \"江心洲\", \"enName\": \"middle bar\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 43233, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"江心洲\", \"cnNameSearch\": \"江心洲\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"middle bar\", \"wordSearch\": \"middle bar\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"河槽中与两岸不相连接，在中水位时出露的沙洲。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"7e94e180929a498d9e42e5c23e24d7fb\", \"databaseId\": null, \"standardId\": \"57706a57a685424c811053df34fcc79e\", \"standardCode\": \"GB/T 51421—2020\", \"standardName\": \"架空光(电)缆通信杆路工程技术标准\", \"standardEnName\": \"Technical standard of communication pole line engineering for aerial optical ( copper) cable\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.12\", \"cnName\": \"中间杆\", \"enName\": \"middle pole\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 89995, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"中间杆\", \"cnNameSearch\": \"中间杆\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"middle pole\", \"wordSearch\": \"middle pole\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"架空线路直线上配置的电杆称为中间杆。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"239262a0f5b448a18dea32a7839b2347\", \"databaseId\": null, \"standardId\": \"afd7b5db75c24ee2b9fc84e815cc0368\", \"standardCode\": \"GB 51022—2015\", \"standardName\": \"门式刚架轻型房屋钢结构技术规范\", \"standardEnName\": \"Technical code for steel structure of light-weight building with gabled frames\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.1.13 \", \"cnName\": \"中间区\", \"enName\": \"middle zone\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 181486, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"中间区\", \"cnNameSearch\": \"中间区\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"middle zone\", \"wordSearch\": \"middle zone\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在外墙和屋面上划分的不属于边缘带和端区的区域。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"9083d16a65884db79326120bbf68cef0\", \"databaseId\": null, \"standardId\": \"c9d5495eb7e54e29af30818fb597de0e\", \"standardCode\": \"GB 50350—2015\", \"standardName\": \"油田油气集输设计规范\", \"standardEnName\": \"Code for design of oil-gas gathering and transportation systems of oilfield\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.3\", \"cnName\": \"中质原油\", \"enName\": \"middle crude\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 202903, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"中质原油\", \"cnNameSearch\": \"中质原油\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"middle crude\", \"wordSearch\": \"middle crude\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在20°℃时，密度大于0.8650g/cm<sup>3</sup>小于或等于0.9160g/cm<sup>3</sup>的原油。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"639be43b38ff456bb293ba5a7d51cb53\", \"databaseId\": null, \"standardId\": \"08c8c2cb1e23420eb33100fb3d01560b\", \"standardCode\": \"GB/T 43510—2023\", \"standardName\": \"集成电路 TSV 三维封装可靠性试验方法指南\", \"standardEnName\": \"Integrated circuit TSV 3D packaging reliability test methods guideline\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电子学\", \"termCode\": \"3.6\", \"cnName\": \"中通孔\", \"enName\": \"via-middle\", \"publishTime\": \"2023-12-28\", \"publishYear\": \"2023\", \"implementTime\": \"2024-04-01\", \"ics\": \"31.200\", \"ccs\": \"L 55\", \"parentTermId\": null, \"titleId\": null, \"oid\": 8328, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"中通孔\", \"cnNameSearch\": \"中通孔\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"via-middle\", \"wordSearch\": \"via-middle\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"先做有源器件，然后制作TSV，最后进行片内互连工艺，即TSV在FEOL后，晶圆后道工序(BEOL)前制作。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>“中通孔”工艺有时被认为是“先通孔\\\"工艺的一部分。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"40e70901d17a4828ae30498cac88f6eb\", \"databaseId\": null, \"standardId\": \"777c700a7c3e44b8853ffafee89495f9\", \"standardCode\": \"GB/Z 43510—2023\", \"standardName\": \"集成电路TSV 三维封装可靠性试验方法指南\", \"standardEnName\": \"Integrated circuit TSV 3D packaging reliability test methods guideline\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电子学\", \"termCode\": \"3.6\", \"cnName\": \"中通孔\", \"enName\": \"via-middle\", \"publishTime\": \"2023-12-28\", \"publishYear\": \"2023\", \"implementTime\": \"2024-04-01\", \"ics\": \"31.20031\", \"ccs\": \"L55\", \"parentTermId\": null, \"titleId\": null, \"oid\": 123138, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"中通孔\", \"cnNameSearch\": \"中通孔\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"via-middle\", \"wordSearch\": \"via-middle\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"先做有源器件，然后制作TSV，最后进行片内互连工艺，即TSV在FEOL后，晶圆后道工序(BEOL)前制作。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>\\\"中通孔”工艺有时被认为是“先通孔”工艺的一部分。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"0a36c0dbc11d481fb567edbac4517121\", \"databaseId\": null, \"standardId\": \"9b1a589556eb46c391369665f22a7649\", \"standardCode\": \"GB/T 41234—2022\", \"standardName\": \"水生动物RNA病毒核酸检测参考物质质量控制规范 假病毒\", \"standardEnName\": \"Specification of quality control of reference materials for RNA virus detection of aquatic animals—Armored RNA\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"农业\", \"termCode\": \"3.8\", \"cnName\": \"中间样\", \"enName\": \"middle sample\", \"publishTime\": \"2022-03-09\", \"publishYear\": \"2022\", \"implementTime\": \"2022-10-01\", \"ics\": \"65.020.30\", \"ccs\": \"B 41\", \"parentTermId\": null, \"titleId\": null, \"oid\": 161540, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"中间样\", \"cnNameSearch\": \"中间样\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"middle sample\", \"wordSearch\": \"middle sample\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"按照制备先后顺序，中间制备的1/3批次产品。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"b34d7e72ef3343b3b72181072697968a\", \"databaseId\": null, \"standardId\": \"026393fd688f403b88b1364fe12057c1\", \"standardCode\": \"GB/T 41185—2021\", \"standardName\": \"水生动物病原DNA检测参考物质制备和质量控制规范 质粒\", \"standardEnName\": \"Specification of preparation and quality control of reference materials for DNA detection of aquatic animals pathogen—Plasmid\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"农业\", \"termCode\": \"3.7\", \"cnName\": \"中间样\", \"enName\": \"middle sample\", \"publishTime\": \"2021-12-31\", \"publishYear\": \"2021\", \"implementTime\": \"2022-07-01\", \"ics\": \"65.020.30\", \"ccs\": \"B 41\", \"parentTermId\": null, \"titleId\": null, \"oid\": 1732, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"中间样\", \"cnNameSearch\": \"中间样\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"middle sample\", \"wordSearch\": \"middle sample\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"按照制备先后顺序，中间制备的1/3批次产品。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"4231ad050f6b4db8b7ddbfb3c6437b07\", \"databaseId\": null, \"standardId\": \"198907ade20f489c8eae6d3670e63e1d\", \"standardCode\": \"GB/T 17765—2021\", \"standardName\": \"航标术语 \", \"standardEnName\": \"Terminology of aids to navigation\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"社会学、服务、公司（企业）的组织和管理、行政、运输\", \"termCode\": \"3.9.3\", \"cnName\": \"中导标\", \"enName\": \"middle mark\", \"publishTime\": \"2021-08-20\", \"publishYear\": \"2021\", \"implementTime\": \"2022-03-01\", \"ics\": \"03.220.40\", \"ccs\": \"R 60\", \"parentTermId\": null, \"titleId\": null, \"oid\": 25377, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"中导标\", \"cnNameSearch\": \"中导标\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"middle mark\", \"wordSearch\": \"middle mark\"}], \"allowableWord\": [], \"refuseWord\": []}, {\"id\": null, \"cnName\": \"中标<br>\", \"cnNameSearch\": \"中标<br>\", \"outType\": 2, \"extendWord\": [], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在三座及以上标志组成的导标中，位于前导标、后导标之间的导标。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"e4abf1265a664688ae4e3122a167f661\", \"databaseId\": null, \"standardId\": \"e679c7b96bd34f828c05dfaeba8d0d28\", \"standardCode\": \"GB/T 4016—2019\", \"standardName\": \"石油产品术语\", \"standardEnName\": \"Terminology relating to petroleum products\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"石油及相关技术\", \"termCode\": \"1.15.014\", \"cnName\": \"中间馏分油\", \"enName\": \"middle distillate\", \"publishTime\": \"2019-03-25\", \"publishYear\": \"2019\", \"implementTime\": \"2019-10-01\", \"ics\": \"75.080\", \"ccs\": \"E 30\", \"parentTermId\": null, \"titleId\": null, \"oid\": 226726, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"中间馏分油\", \"cnNameSearch\": \"中间馏分油\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"middle distillate\", \"wordSearch\": \"middle distillate\"}], \"allowableWord\": [], \"refuseWord\": []}, {\"id\": null, \"cnName\": \"中间馏分\", \"cnNameSearch\": \"中间馏分\", \"outType\": 1, \"extendWord\": [], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"常压馏程约在 150 ℃～400 ℃ 之间且闭口闪点高于 38 ℃ 的煤油和瓦斯油馏分。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"6f28519a15d947e9a9b271e5ced7c044\", \"databaseId\": null, \"standardId\": \"27a075360bb74e4392c1d309950d602b\", \"standardCode\": \"GB/T 36943—2018\", \"standardName\": \"电动自行车用锂离子蓄电池型号命名与标志要求\", \"standardEnName\": \"Designation and marking requirements of lithium—ion batteries for electric bicycle\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"道路车辆工程\", \"termCode\": \"3.1\", \"cnName\": \"中置式电池\", \"enName\": \"middle-installedbattery\", \"publishTime\": \"2018-12-28\", \"publishYear\": \"2018\", \"implementTime\": \"2019-07-01\", \"ics\": \"43.140\", \"ccs\": \"Y14\", \"parentTermId\": null, \"titleId\": null, \"oid\": 37586, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"中置式电池\", \"cnNameSearch\": \"中置式电池\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"middle-installedbattery\", \"wordSearch\": \"middle-installedbattery\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"使用电池盒并安置在电动自行车中部的电池。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"4d9774b9988c4ae9b3193bc4522f523b\", \"databaseId\": null, \"standardId\": \"2c4176933f7b4c2db9aef1107015f754\", \"standardCode\": \"GB/T 36928—2018\", \"standardName\": \"压光机术语\", \"standardEnName\": \"Calender terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"5.11\", \"cnName\": \"压区中心\", \"enName\": \"middle-nip\", \"publishTime\": \"2018-12-28\", \"publishYear\": \"2018\", \"implementTime\": \"2019-07-01\", \"ics\": \"01.040.85\", \"ccs\": \"A.22\", \"parentTermId\": null, \"titleId\": null, \"oid\": 45911, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"压区中心\", \"cnNameSearch\": \"压区中心\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"middle-nip\", \"wordSearch\": \"middle-nip\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"压区中沿压区宽度的几何中心点。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"8c12ea53285343d19f0cd35a345ace94\", \"databaseId\": null, \"standardId\": \"526430c9764646e781ec8f34403e68c8\", \"standardCode\": \"GB/T 8845—2017\", \"standardName\": \"模具 术语\", \"standardEnName\": \"Dies and moulds—Terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"2.11.2.5\", \"cnName\": \"中模\", \"enName\": \"middle mould\", \"publishTime\": \"2017-07-12\", \"publishYear\": \"2017\", \"implementTime\": \"2018-02-01\", \"ics\": \"01.040.25;25.120.10;25.120.3001\", \"ccs\": \"J46\", \"parentTermId\": null, \"titleId\": null, \"oid\": 85598, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"中模\", \"cnNameSearch\": \"中模\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"middle mould\", \"wordSearch\": \"middle mould\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"设置于<strong>橡胶挤出模</strong>中部的<strong>模具</strong>部分。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"7ae04acaabc44fa6b7b4390428ace066\", \"databaseId\": null, \"standardId\": \"a0c3aa06eccf49a69e08b97385dcc879\", \"standardCode\": \"GB/T 9390—2017\", \"standardName\": \"导航术语\", \"standardEnName\": \"Terminology for navigation\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电信、音频和视频工程\", \"termCode\": \"3.7.27\", \"cnName\": \"中指点信标\", \"enName\": \"middle marker\", \"publishTime\": \"2017-07-31\", \"publishYear\": \"2017\", \"implementTime\": \"2017-11-01\", \"ics\": \"33.200\", \"ccs\": \"M 50\", \"parentTermId\": null, \"titleId\": null, \"oid\": 166092, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"中指点信标\", \"cnNameSearch\": \"中指点信标\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"middle marker\", \"wordSearch\": \"middle marker\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"仪表着陆系统中，装在航向信标的航道线上，距跑道着陆端大约 1 050 m±150 m 处的指点信标。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"992c53d18fcf4d95b5ed9dece7cab202\", \"databaseId\": null, \"standardId\": \"a84298d8910345e3b93afabdc7737873\", \"standardCode\": \"GB/T 33278—2016\", \"standardName\": \"粘扣带 分类和术语\", \"standardEnName\": \"Touch and close fasteners—Classification and terms\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"纺织和皮革技术\", \"termCode\": \"3.1.17\", \"cnName\": \"中缝\", \"enName\": \"middle strip\", \"publishTime\": \"2016-12-13\", \"publishYear\": \"2016\", \"implementTime\": \"2017-07-01\", \"ics\": \"59.080.01\", \"ccs\": \"W04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 171827, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"中缝\", \"cnNameSearch\": \"中缝\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"middle strip\", \"wordSearch\": \"middle strip\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"粘扣带未分条之前两实织面之间无圈无钩的窄长区域。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"0bf7779d81254ec5aaf84432654c3850\", \"databaseId\": null, \"standardId\": \"c578099913ea4c52a10727333af72beb\", \"standardCode\": \"GB/T 4756—2015\", \"standardName\": \"石油液体手工取样法\", \"standardEnName\": \"Method for manual sampling of petroleum liquids\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"石油及相关技术\", \"termCode\": \"3.15\", \"cnName\": \"中部样\", \"enName\": \"middle sample\", \"publishTime\": \"2015-12-31\", \"publishYear\": \"2015\", \"implementTime\": \"2016-06-01\", \"ics\": \"75.08075\", \"ccs\": \"E30\", \"parentTermId\": null, \"titleId\": null, \"oid\": 198464, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"中部样\", \"cnNameSearch\": \"中部样\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"middle sample\", \"wordSearch\": \"middle sample\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"在液面下二分之一液深位置采集的点样。见图1。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"4ab8d85626154754bc3746809eb4ff4d\", \"databaseId\": null, \"standardId\": \"e7829919b4b1453d906df87e6fb8d087\", \"standardCode\": \"GB/T 9779—2015\", \"standardName\": \"复 层 建 筑 涂 料\", \"standardEnName\": \"Multi-layer coatings for architecture\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"涂料和颜料工业\", \"termCode\": \"3.5\", \"cnName\": \"中层漆\", \"enName\": \"middle-coat\", \"publishTime\": \"2015-09-11\", \"publishYear\": \"2015\", \"implementTime\": \"2016-08-01\", \"ics\": \"87.04087\", \"ccs\": \"Q18\", \"parentTermId\": null, \"titleId\": null, \"oid\": 228510, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"中层漆\", \"cnNameSearch\": \"中层漆\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"middle-coat\", \"wordSearch\": \"middle-coat\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"以水泥系、硅酸盐系或合成树脂乳液系等胶结料及颜料和骨料为主要原料，用于形成立体或平面装饰效果的薄质或厚质涂料。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"5bae1a4010d1491fa436c257bdd4c5cf\", \"databaseId\": null, \"standardId\": \"883ea0987a1a447a9cd0cc034125ac34\", \"standardCode\": \"GB/T 4650—2012\", \"standardName\": \"工业用化学产品 采样 词汇\", \"standardEnName\": \"Chemical products for industrial use—Sampling—Vocabulary\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"3.3.8\", \"cnName\": \"中部样品\", \"enName\": \"middle sample\", \"publishTime\": \"2012-06-29\", \"publishYear\": \"2012\", \"implementTime\": \"2012-12-01\", \"ics\": \"01.040.71;71.040\", \"ccs\": \"G04\", \"parentTermId\": null, \"titleId\": null, \"oid\": 143724, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"中部样品\", \"cnNameSearch\": \"中部样品\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"middle sample\", \"wordSearch\": \"middle sample\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"在液面下相对应于总体积一半的深处取得的一种部位样品。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"46c57a1d461d4e87ba0297849898e32d\", \"databaseId\": null, \"standardId\": \"c9ea8743fe674c8887086a50f50b2b5b\", \"standardCode\": \"GB/T 9289—2010\", \"standardName\": \"制糖工业术语\", \"standardEnName\": \"Terminology in sugar industry\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"食品技术\", \"termCode\": \"2.4.3.3\", \"cnName\": \"中间汁\", \"enName\": \"middle juice\", \"publishTime\": \"2010-11-10\", \"publishYear\": \"2010\", \"implementTime\": \"2011-02-01\", \"ics\": \"67.180.106\", \"ccs\": \"X30\", \"parentTermId\": null, \"titleId\": null, \"oid\": 203334, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"中间汁\", \"cnNameSearch\": \"中间汁\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"middle juice\", \"wordSearch\": \"middle juice\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"从多效蒸发罐组中间某一效引出的经不同程度浓缩的糖汁，其浓度介于清净汁与糖浆之间。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 4}}, \"timestamp\": 1795341189141}"
+}

@@ -1,0 +1,152 @@
+{
+ "key": "civil rights",
+ "term": "civil rights",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-22T09:53:23+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=69",
+ "hits": [
+  {
+   "cn": "权利限",
+   "en": "rights",
+   "code": "GB/T 30247—2013",
+   "standard": "信息技术  数字版权管理  术语",
+   "subject": "电信、音频和视频工程"
+  },
+  {
+   "cn": "民用建筑",
+   "en": "civil building",
+   "code": "GB 50292—2015",
+   "standard": "民用建筑可靠性鉴定标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "民用建筑",
+   "en": "civil building",
+   "code": "GB 50352—2019",
+   "standard": "民用建筑设计统一标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "民用建筑",
+   "en": "civil building",
+   "code": "GB/T 51086—2015",
+   "standard": "医药实验工程术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "民用建筑",
+   "en": "civil construction",
+   "code": "GB 50854—2013",
+   "standard": "房屋建筑与装饰工程工程量计算规范",
+   "subject": "其它"
+  },
+  {
+   "cn": "土木工程",
+   "en": "civil engineering",
+   "code": "GB/T 50841—2013",
+   "standard": "建设工程分类标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "民用建筑",
+   "en": "civil building",
+   "code": "GB 50364—2018",
+   "standard": "民用建筑太阳能热水系统应用技术标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "民用建筑",
+   "en": "civil building",
+   "code": "GB/T 29550—2013",
+   "standard": "民用建筑燃气安全技术条件",
+   "subject": "其它"
+  },
+  {
+   "cn": "民用煤",
+   "en": "civil coal",
+   "code": "GB 34169—2017",
+   "standard": "商品煤质量 民用散煤",
+   "subject": "采矿和矿产品"
+  },
+  {
+   "cn": "民用型煤",
+   "en": "civil briquette",
+   "code": "GB 34169—2017",
+   "standard": "商品煤质量 民用散煤",
+   "subject": "采矿和矿产品"
+  },
+  {
+   "cn": "民用型煤",
+   "en": "civil briquette",
+   "code": "GB 34170—2017",
+   "standard": "商品煤质量 民用型煤",
+   "subject": "采矿和矿产品"
+  },
+  {
+   "cn": "民用煤",
+   "en": "civil coal",
+   "code": "GB 34170—2017",
+   "standard": "商品煤质量 民用型煤",
+   "subject": "采矿和矿产品"
+  },
+  {
+   "cn": "民用建筑",
+   "en": "civil building",
+   "code": "GB/T 50504—2009",
+   "standard": "民用建筑设计术语标准",
+   "subject": "其它"
+  },
+  {
+   "cn": "法律权益",
+   "en": "legal rights",
+   "code": "GB/T 31279—2014",
+   "standard": "品牌价值评价  家用电器制造业",
+   "subject": "社会学、服务、公司（企业）的组织和管理、行政、运输"
+  },
+  {
+   "cn": "权限发行者",
+   "en": "rights issuer",
+   "code": "GB/T 30247—2013",
+   "standard": "信息技术  数字版权管理  术语",
+   "subject": "电信、音频和视频工程"
+  },
+  {
+   "cn": "权利对象",
+   "en": "rights object",
+   "code": "GB/T 30247—2013",
+   "standard": "信息技术  数字版权管理  术语",
+   "subject": "电信、音频和视频工程"
+  },
+  {
+   "cn": "使用权",
+   "en": "access rights",
+   "code": "GB/T 13191—2009",
+   "standard": "信息与文献图书馆统计",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "访问权",
+   "en": "access rights",
+   "code": "GB/T 4894—2009",
+   "standard": "信息与文献 术语",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "民用无人机",
+   "en": "civil drone",
+   "code": "GB/T 41300—2022",
+   "standard": "民用无人机唯一产品识别码",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "民用建筑",
+   "en": "civil &nbsp;building",
+   "code": "GB/T 50083—2014",
+   "standard": "工程结构设计基本术语标准",
+   "subject": "其它"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2024\": 1, \"2023\": 2, \"2022\": 5, \"2021\": 8, \"2020\": 5, \"2017\": 6, \"2016\": 1, \"2015\": 2, \"2014\": 5, \"2013\": 8, \"2011\": 1, \"2009\": 9, \"2005\": 1, \"暂无年份\": 15}, \"sourceStats\": {\"采矿和矿产品\": 7, \"造船和海上构筑物\": 1, \"综合、术语学、标准化、文献\": 10, \"社会学、服务、公司（企业）的组织和管理、行政、运输\": 6, \"电气工程\": 1, \"电信、音频和视频工程\": 7, \"橡胶和塑料工业\": 2, \"机械制造\": 1, \"数学、自然科学\": 2, \"农业\": 11, \"其它\": 18, \"信息技术、办公机械\": 3}, \"typeStats\": {\"7\": 69}, \"totalRecords\": 69, \"tmWordList\": [{\"id\": \"311a4ce5565342b39913e1175bfcfbd1\", \"databaseId\": null, \"standardId\": \"9392cca4fbe84cde87152bdde8021733\", \"standardCode\": \"GB/T 30247—2013\", \"standardName\": \"信息技术  数字版权管理  术语\", \"standardEnName\": \"Information technology―digital rights management―Terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电信、音频和视频工程\", \"termCode\": \"2.1.4\", \"cnName\": \"权利限\", \"enName\": \"rights\", \"publishTime\": \"2013-12-31\", \"publishYear\": \"2013\", \"implementTime\": \"2014-07-15\", \"ics\": \"33.160.253\", \"ccs\": \"M74\", \"parentTermId\": null, \"titleId\": null, \"oid\": 155616, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"权利限\", \"cnNameSearch\": \"权利限\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"rights\", \"wordSearch\": \"rights\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"与使用数字内容相关联的许可、限制或其他属性。泛指对内容所拥有的操作和约束。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"4269414da66c4be5b5fdaaa3cc78c80b\", \"databaseId\": null, \"standardId\": \"0feb24352b974bcd8f96393d9529e503\", \"standardCode\": \"GB 50292—2015\", \"standardName\": \"民用建筑可靠性鉴定标准\", \"standardEnName\": \"Standard for appraisal of reliability of civil buildings\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.1.1\", \"cnName\": \"民用建筑\", \"enName\": \"civil building\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 15059, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"民用建筑\", \"cnNameSearch\": \"民用建筑\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"civil building\", \"wordSearch\": \"civil building\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"已建成可以验收的和已投入使用的非生产性的居住建筑和公共建筑。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"bbffe979715f4b2b922dbb5faeb24740\", \"databaseId\": null, \"standardId\": \"1d3584aa1f9f42b7b1699fe13bb1280e\", \"standardCode\": \"GB 50352—2019\", \"standardName\": \"民用建筑设计统一标准\", \"standardEnName\": \"Uniform standard for design of civil buildings\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.1\", \"cnName\": \"民用建筑\", \"enName\": \"civil building\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 27846, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"民用建筑\", \"cnNameSearch\": \"民用建筑\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"civil building\", \"wordSearch\": \"civil building\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"供人们居住和进行公共活动的建筑的总称。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"8662d33608fc46b3a1f59007025b3aac\", \"databaseId\": null, \"standardId\": \"77c8741d47d54b89b9137dd0c9f41e73\", \"standardCode\": \"GB/T 51086—2015\", \"standardName\": \"医药实验工程术语标准\", \"standardEnName\": \"Standard for terminology of pharmaceutical laboratory engineering\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"5.1.26\", \"cnName\": \"民用建筑\", \"enName\": \"civil building\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 123808, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"民用建筑\", \"cnNameSearch\": \"民用建筑\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"civil building\", \"wordSearch\": \"civil building\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"供人们居住和进行公共活动的建筑的总称，包括居住建筑和公共建筑。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"3a2391b9a5ac4f41b6ad4192c28b350f\", \"databaseId\": null, \"standardId\": \"baa18a2756cd4ee39c703d0c9ea0bbcb\", \"standardCode\": \"GB 50854—2013\", \"standardName\": \"房屋建筑与装饰工程工程量计算规范\", \"standardEnName\": \"Standard method of measurement for building construction and fitting-out works\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.4\", \"cnName\": \"民用建筑\", \"enName\": \"civil construction\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 189524, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"民用建筑\", \"cnNameSearch\": \"民用建筑\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"civil construction\", \"wordSearch\": \"civil construction\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"非生产性的居住建筑和公共建筑，如住宅、办公楼、幼儿园、学校、食堂、影剧院、商店、体育馆、旅馆、医院、展览馆等。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"0e8fee5b3ad9409b9cd91d6392ba24f1\", \"databaseId\": null, \"standardId\": \"c1e22d008a0443129477fa9cfb6cf381\", \"standardCode\": \"GB/T 50841—2013\", \"standardName\": \"建设工程分类标准\", \"standardEnName\": \"Standard of construction classification\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.03\", \"cnName\": \"土木工程\", \"enName\": \"civil engineering\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 194994, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"土木工程\", \"cnNameSearch\": \"土木工程\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"civil engineering\", \"wordSearch\": \"civil engineering\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"建造在地上或地下、陆上或水中,直接或间接为人类生活、生产、科研等服务的各类工程。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"b4c66a8171934fa6a3df4deefd516766\", \"databaseId\": null, \"standardId\": \"d8a051851d4c48eda787ed8c79e7d4c0\", \"standardCode\": \"GB 50364—2018\", \"standardName\": \"民用建筑太阳能热水系统应用技术标准\", \"standardEnName\": \"Technical standard for solar water heating system of civil buildings\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.1\", \"cnName\": \"民用建筑\", \"enName\": \"civil building\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 213278, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"民用建筑\", \"cnNameSearch\": \"民用建筑\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"civil building\", \"wordSearch\": \"civil building\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"供人们居住和进行公共活动的建筑总称。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"77ece99b664d4671aee6f1fb9fca502e\", \"databaseId\": null, \"standardId\": \"da1deebdb8f945d5877e13154b3f2d84\", \"standardCode\": \"GB/T 29550—2013\", \"standardName\": \"民用建筑燃气安全技术条件\", \"standardEnName\": \"General safety technique conditions for gas in civil building\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"3.1  \", \"cnName\": \"民用建筑\", \"enName\": \"civil building\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 214658, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"民用建筑\", \"cnNameSearch\": \"民用建筑\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"civil building\", \"wordSearch\": \"civil building\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"供人们居住和进行公共活动的建筑的总称。 \", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [{\"source\": \"GB50352—2005\", \"sourceCode\": \"2.0.1\", \"modifyStatus\": 0, \"modifyContent\": \"\"}], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"917347741b0c435aa29f669588ec24f1\", \"databaseId\": null, \"standardId\": \"1d2887b8ad9641e696e06585ec59dd17\", \"standardCode\": \"GB 34169—2017\", \"standardName\": \"商品煤质量 民用散煤\", \"standardEnName\": \"Commercial coal quality-Civil bulk coal\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"采矿和矿产品\", \"termCode\": \"3.3\", \"cnName\": \"民用煤\", \"enName\": \"civil coal\", \"publishTime\": \"2017-09-07\", \"publishYear\": \"2017\", \"implementTime\": \"2018-01-01\", \"ics\": \"73.04073\", \"ccs\": \"D20\", \"parentTermId\": null, \"titleId\": null, \"oid\": 27830, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"民用煤\", \"cnNameSearch\": \"民用煤\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"civil coal\", \"wordSearch\": \"civil coal\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"用于居民炊事、取暖等分散式使用的动力用煤，可分为民用散煤和民用型煤两类。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"6ee06369c32e45bcab0e549cba2f0aac\", \"databaseId\": null, \"standardId\": \"1d2887b8ad9641e696e06585ec59dd17\", \"standardCode\": \"GB 34169—2017\", \"standardName\": \"商品煤质量 民用散煤\", \"standardEnName\": \"Commercial coal quality-Civil bulk coal\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"采矿和矿产品\", \"termCode\": \"3.5\", \"cnName\": \"民用型煤\", \"enName\": \"civil briquette\", \"publishTime\": \"2017-09-07\", \"publishYear\": \"2017\", \"implementTime\": \"2018-01-01\", \"ics\": \"73.04073\", \"ccs\": \"D20\", \"parentTermId\": null, \"titleId\": null, \"oid\": 27832, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"民用型煤\", \"cnNameSearch\": \"民用型煤\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"civil briquette\", \"wordSearch\": \"civil briquette\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"以适当的工艺和设备加工成型的民用煤，包括蜂窝煤和其他型煤。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"c0fb6d3e8f114c4ba7853416f19141a8\", \"databaseId\": null, \"standardId\": \"4f56e39993674d7598ea7183b20f4eb3\", \"standardCode\": \"GB 34170—2017\", \"standardName\": \"商品煤质量 民用型煤\", \"standardEnName\": \"Commercial coal quality-Civil briquette\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"采矿和矿产品\", \"termCode\": \"3.5\", \"cnName\": \"民用型煤\", \"enName\": \"civil briquette\", \"publishTime\": \"2017-09-07\", \"publishYear\": \"2017\", \"implementTime\": \"2018-01-01\", \"ics\": \"73.04073\", \"ccs\": \"D20\", \"parentTermId\": null, \"titleId\": null, \"oid\": 81833, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"民用型煤\", \"cnNameSearch\": \"民用型煤\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"civil briquette\", \"wordSearch\": \"civil briquette\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"以适当的工艺和设备加工成型的民用煤，包括蜂窝煤和其他型煤。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"6c89b73fbb594bda91c5916e58ec84f5\", \"databaseId\": null, \"standardId\": \"4f56e39993674d7598ea7183b20f4eb3\", \"standardCode\": \"GB 34170—2017\", \"standardName\": \"商品煤质量 民用型煤\", \"standardEnName\": \"Commercial coal quality-Civil briquette\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"采矿和矿产品\", \"termCode\": \"3.3\", \"cnName\": \"民用煤\", \"enName\": \"civil coal\", \"publishTime\": \"2017-09-07\", \"publishYear\": \"2017\", \"implementTime\": \"2018-01-01\", \"ics\": \"73.04073\", \"ccs\": \"D20\", \"parentTermId\": null, \"titleId\": null, \"oid\": 81836, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"民用煤\", \"cnNameSearch\": \"民用煤\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"civil coal\", \"wordSearch\": \"civil coal\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"用于居民炊事、取暖等分散式使用的动力用煤。可分为民用散煤和民用型煤两类。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"dda4ded7c6fd492aa8c4bb3b20fde193\", \"databaseId\": null, \"standardId\": \"915004b470d440b59d1297f28c12d9ea\", \"standardCode\": \"GB/T 50504—2009\", \"standardName\": \"民用建筑设计术语标准\", \"standardEnName\": \"Standard for terminology of civil architectural design\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.2.2\", \"cnName\": \"民用建筑\", \"enName\": \"civil building\", \"publishTime\": \"2009-05-13\", \"publishYear\": \"2009\", \"implementTime\": \"2009-12-01\", \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 153594, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"民用建筑\", \"cnNameSearch\": \"民用建筑\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"civil building\", \"wordSearch\": \"civil building\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"供人们居住和进行各种公共活动的建筑的总称。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"e6e6d607fcd6455bb72b9236aec687b3\", \"databaseId\": null, \"standardId\": \"dfd2ba65086c4432847ecec7cff19c65\", \"standardCode\": \"GB/T 31279—2014\", \"standardName\": \"品牌价值评价  家用电器制造业\", \"standardEnName\": \"Brand valuation—Household appliance manufacturing industry\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"社会学、服务、公司（企业）的组织和管理、行政、运输\", \"termCode\": \"3.2\", \"cnName\": \"法律权益\", \"enName\": \"legal rights\", \"publishTime\": \"2014-09-30\", \"publishYear\": \"2014\", \"implementTime\": \"2014-12-01\", \"ics\": \"03.140\", \"ccs\": \"A00\", \"parentTermId\": null, \"titleId\": null, \"oid\": 218859, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"法律权益\", \"cnNameSearch\": \"法律权益\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"legal rights\", \"wordSearch\": \"legal rights\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"企业成立初以及在生产经营过程中与品牌相关的所拥有的法定利益和资源。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"72c11d0ffe444ea5beb6270ee8ed6f25\", \"databaseId\": null, \"standardId\": \"9392cca4fbe84cde87152bdde8021733\", \"standardCode\": \"GB/T 30247—2013\", \"standardName\": \"信息技术  数字版权管理  术语\", \"standardEnName\": \"Information technology―digital rights management―Terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电信、音频和视频工程\", \"termCode\": \"2.4.3\", \"cnName\": \"权限发行者\", \"enName\": \"rights issuer\", \"publishTime\": \"2013-12-31\", \"publishYear\": \"2013\", \"implementTime\": \"2014-07-15\", \"ics\": \"33.160.253\", \"ccs\": \"M74\", \"parentTermId\": null, \"titleId\": null, \"oid\": 155627, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"权限发行者\", \"cnNameSearch\": \"权限发行者\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"rights issuer\", \"wordSearch\": \"rights issuer\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"DRM系统中提供权利限和限制的实体。\", \"footnote\": \"\", \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"b7845349116d40cb9b808a07d968f11f\", \"databaseId\": null, \"standardId\": \"9392cca4fbe84cde87152bdde8021733\", \"standardCode\": \"GB/T 30247—2013\", \"standardName\": \"信息技术  数字版权管理  术语\", \"standardEnName\": \"Information technology―digital rights management―Terminology\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"电信、音频和视频工程\", \"termCode\": \"2.3.4\", \"cnName\": \"权利对象\", \"enName\": \"rights object\", \"publishTime\": \"2013-12-31\", \"publishYear\": \"2013\", \"implementTime\": \"2014-07-15\", \"ics\": \"33.160.253\", \"ccs\": \"M74\", \"parentTermId\": null, \"titleId\": null, \"oid\": 155630, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"权利对象\", \"cnNameSearch\": \"权利对象\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"rights object\", \"wordSearch\": \"rights object\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": \"\", \"unitSymbol\": \"\", \"unitName\": \"\", \"unitSource\": \"\", \"professionalField\": null, \"definition\": \"描述权利的实体。\", \"footnote\": \"\", \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>例如许可证(2.3.1)。</p>\"], \"refer\": [], \"sources\": null, \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"a87bf246db3b401389745ee9a188f731\", \"databaseId\": null, \"standardId\": \"bdd7c02fcfb341cc875f25961ee4f43e\", \"standardCode\": \"GB/T 13191—2009\", \"standardName\": \"信息与文献图书馆统计\", \"standardEnName\": \"Information and documentation-Library statistics\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"3.2.2\", \"cnName\": \"使用权\", \"enName\": \"access rights\", \"publishTime\": \"2009-03-13\", \"publishYear\": \"2009\", \"implementTime\": \"2009-09-01\", \"ics\": \"01.140.20\", \"ccs\": \"A 14\", \"parentTermId\": null, \"titleId\": null, \"oid\": 192115, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"使用权\", \"cnNameSearch\": \"使用权\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"access rights\", \"wordSearch\": \"access rights\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"获取或利用图书馆馆藏的权利。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>对电子馆藏而言,这意味着图书馆需要依据法律、许可或者其他契约或合作协议,确保其用户永久或暂时的获取权利。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"16860ad664234b6caf022de0f1008f7a\", \"databaseId\": null, \"standardId\": \"e124160b0f1a4b1081277012df97d85b\", \"standardCode\": \"GB/T 4894—2009\", \"standardName\": \"信息与文献 术语\", \"standardEnName\": \"Information and documentation—Vocabulary\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"4.5.1.15\", \"cnName\": \"访问权\", \"enName\": \"access rights\", \"publishTime\": \"2009-09-30\", \"publishYear\": \"2009\", \"implementTime\": \"2010-02-01\", \"ics\": \"01.140.20\", \"ccs\": \"A 14\", \"parentTermId\": null, \"titleId\": null, \"oid\": 219823, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"访问权\", \"cnNameSearch\": \"访问权\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"access rights\", \"wordSearch\": \"access rights\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"获取或利用图书馆(1)馆藏的权利。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>对电子馆藏而言,这意味着图书馆需要依据法律,许可或者其他契约或合作协议,确保其用户永久或暂时的获取权利。</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"4468b11b574c418eadaea55c9f9a1eeb\", \"databaseId\": null, \"standardId\": \"03a27316ee1b4cf28fc9097da1ef250f\", \"standardCode\": \"GB/T 41300—2022\", \"standardName\": \"民用无人机唯一产品识别码\", \"standardEnName\": \"Unique product identification code for civil unmanned aerial vehicle\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"3.2\", \"cnName\": \"民用无人机\", \"enName\": \"civil drone\", \"publishTime\": \"2022-03-09\", \"publishYear\": \"2022\", \"implementTime\": \"2022-10-01\", \"ics\": \"35.240.15\", \"ccs\": \"L 64\", \"parentTermId\": null, \"titleId\": null, \"oid\": 2224, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"民用无人机\", \"cnNameSearch\": \"民用无人机\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"civil drone\", \"wordSearch\": \"civil drone\"}, {\"languageType\": 1, \"word\": \"civil unmanned aerial vehicle\", \"wordSearch\": \"civil unmanned aerial vehicle\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"从事民用领域飞行活动的遥控航空器和/或自主航空器。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"a18a297f7ef44b58bb8f9273209a338c\", \"databaseId\": null, \"standardId\": \"060dc7933ba4422c81404f3785c41628\", \"standardCode\": \"GB/T 50083—2014\", \"standardName\": \"工程结构设计基本术语标准\", \"standardEnName\": \"Standard for general terms used in design of engineering structures\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.1.42 \", \"cnName\": \"民用建筑\", \"enName\": \"civil &nbsp;building\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 4369, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"民用建筑\", \"cnNameSearch\": \"民用建筑\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"civil &nbsp;building\", \"wordSearch\": \"civil &nbsp;building\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"非生产性的居住建筑和公共建筑。如住宅、办公楼、幼儿园、学校、食堂、影剧院、商店、体育馆、旅馆、医院、展览馆等 。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 4}}, \"timestamp\": 1795341203199}"
+}

@@ -1,0 +1,26 @@
+{
+ "key": "thought experiments",
+ "term": "thought experiments",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-22T09:53:17+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=2",
+ "hits": [
+  {
+   "cn": "镜像实验",
+   "en": "mirror experiments",
+   "code": "GB/T 38325—2019",
+   "standard": "空间科学实验地面验证要求",
+   "subject": "航空器和航天器工程"
+  },
+  {
+   "cn": "空间环境模拟试验",
+   "en": "experiments under the simulated space environment",
+   "code": "GB/T 38325—2019",
+   "standard": "空间科学实验地面验证要求",
+   "subject": "航空器和航天器工程"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2019\": 2}, \"sourceStats\": {\"航空器和航天器工程\": 2}, \"typeStats\": {\"7\": 2}, \"totalRecords\": 2, \"tmWordList\": [{\"id\": \"1ab6bbb4f0b64e45a49d125499eaa8f3\", \"databaseId\": null, \"standardId\": \"e4bc38165aa04e1aa2571df2a501061f\", \"standardCode\": \"GB/T 38325—2019\", \"standardName\": \"空间科学实验地面验证要求\", \"standardEnName\": \"Ground-based verification requirements for space science experiments\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"航空器和航天器工程\", \"termCode\": \"3.3  \", \"cnName\": \"镜像实验\", \"enName\": \"mirror experiments\", \"publishTime\": \"2019-12-10\", \"publishYear\": \"2019\", \"implementTime\": \"2020-07-01\", \"ics\": \"49.02049\", \"ccs\": \"V40\", \"parentTermId\": null, \"titleId\": null, \"oid\": 225236, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"镜像实验\", \"cnNameSearch\": \"镜像实验\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"mirror experiments\", \"wordSearch\": \"mirror experiments\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"利用地面镜像系统模拟实验装置在轨运行过程与状态,开展空间科学实验操作的预演。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"37bc3a2051f24642a6c1633cda993acf\", \"databaseId\": null, \"standardId\": \"e4bc38165aa04e1aa2571df2a501061f\", \"standardCode\": \"GB/T 38325—2019\", \"standardName\": \"空间科学实验地面验证要求\", \"standardEnName\": \"Ground-based verification requirements for space science experiments\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"航空器和航天器工程\", \"termCode\": \"3.2  \", \"cnName\": \"空间环境模拟试验\", \"enName\": \"experiments under the simulated space environment\", \"publishTime\": \"2019-12-10\", \"publishYear\": \"2019\", \"implementTime\": \"2020-07-01\", \"ics\": \"49.02049\", \"ccs\": \"V40\", \"parentTermId\": null, \"titleId\": null, \"oid\": 225238, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"空间环境模拟试验\", \"cnNameSearch\": \"空间环境模拟试验\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"experiments under the simulated space environment\", \"wordSearch\": \"experiments under the simulated space environment\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"为验证科学实验方案和实验系统适应空间环境的能力,模拟空间微重力效应、辐射、温度、真空度等空间在轨环境条件开展的测试。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1795341197536}"
+}

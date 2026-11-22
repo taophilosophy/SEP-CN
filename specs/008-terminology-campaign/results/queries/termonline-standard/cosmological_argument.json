@@ -1,0 +1,89 @@
+{
+ "key": "cosmological argument",
+ "term": "cosmological argument",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-22T09:54:08+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=11",
+ "hits": [
+  {
+   "cn": "变元",
+   "en": "argument",
+   "code": "GB/T 4092—2008",
+   "standard": "高山滑雪杖和旅行滑雪杖 要求和试验方法",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "变元的值，自变量的值",
+   "en": "argument",
+   "code": "GB/T 5271.2—1988",
+   "standard": "数据处理词汇  02部分  算术和逻辑运算",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "变元，自变量",
+   "en": "argument",
+   "code": "GB/T 5271.2—1988",
+   "standard": "数据处理词汇  02部分  算术和逻辑运算",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "安全论据",
+   "en": "safety argument",
+   "code": "GB/T 50839—2013",
+   "standard": "城市轨道交通工程安全控制技术规范",
+   "subject": "其它"
+  },
+  {
+   "cn": "近地点幅角",
+   "en": "perigee argument",
+   "code": "GB/T 32455—2015",
+   "standard": "运载火箭术语",
+   "subject": "航空器和航天器工程"
+  },
+  {
+   "cn": "保障论据",
+   "en": "assurance argument",
+   "code": "GB/Z 29830.1—2013",
+   "standard": "信息技术 安全技术 信息技术安全保障框架 第1部分：综述和框架",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "VTE轮廓变元",
+   "en": "VTE-profile argument",
+   "code": "GB/T 17579—1998",
+   "standard": "信息技术 开放系统互连 虚拟终端基本类服务",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "实参",
+   "en": "actual parameter",
+   "code": "GB/T 5271.15—2008",
+   "standard": "信息技术  词汇 第15部分：编程语言",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "形参",
+   "en": "formal parameter",
+   "code": "GB/T 5271.15—2008",
+   "standard": "信息技术  词汇 第15部分：编程语言",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "普通 VTE轮廓变元",
+   "en": "normal VTE-profile argument",
+   "code": "GB/T 17579—1998",
+   "standard": "信息技术 开放系统互连 虚拟终端基本类服务",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "特殊VTE轮廓变元",
+   "en": "special VTE-profile argument",
+   "code": "GB/T 17579—1998",
+   "standard": "信息技术 开放系统互连 虚拟终端基本类服务",
+   "subject": "信息技术、办公机械"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2021\": 1, \"2015\": 1, \"2013\": 1, \"2008\": 2, \"1998\": 3, \"1988\": 2, \"暂无年份\": 1}, \"sourceStats\": {\"航空器和航天器工程\": 1, \"其它\": 1, \"信息技术、办公机械\": 9}, \"typeStats\": {\"7\": 11}, \"totalRecords\": 11, \"tmWordList\": [{\"id\": \"644c92f938c243b9b5eb81315a11bfdc\", \"databaseId\": null, \"standardId\": \"747d6bbb97ec45cdbc1a5aa8847af7f3\", \"standardCode\": \"GB/T 4092—2008\", \"standardName\": \"高山滑雪杖和旅行滑雪杖 要求和试验方法\", \"standardEnName\": \"Information technology — Programming languages — COBOL\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"4.12\", \"cnName\": \"变元\", \"enName\": \"argument\", \"publishTime\": \"2021-11-26\", \"publishYear\": \"2021\", \"implementTime\": \"2021-11-26\", \"ics\": \"35.060\", \"ccs\": \"L 74\", \"parentTermId\": null, \"titleId\": null, \"oid\": 117076, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"变元\", \"cnNameSearch\": \"变元\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"argument\", \"wordSearch\": \"argument\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"激活语句中规定的一个用来指定传递数据的操作数。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"8cd688da3e684f99a7fb1bab3f8bf81a\", \"databaseId\": null, \"standardId\": \"e2b12b34d4f64d819bc2f63c2d2e37ce\", \"standardCode\": \"GB/T 5271.2—1988\", \"standardName\": \"数据处理词汇  02部分  算术和逻辑运算\", \"standardEnName\": \"Data processing——Vocabulary——Section 02:Arithmetic and logic operations\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"02.02.03\", \"cnName\": \"变元的值，自变量的值\", \"enName\": \"argument\", \"publishTime\": \"1988-12-10\", \"publishYear\": \"1988\", \"implementTime\": \"1989-07-01\", \"ics\": \"35.02035\", \"ccs\": \"L 70\", \"parentTermId\": null, \"titleId\": null, \"oid\": 221670, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"变元的值，自变量的值\", \"cnNameSearch\": \"变元的值，自变量的值\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"argument\", \"wordSearch\": \"argument\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"独立变量的任何值。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [\"<p>检索关键字；标识在表中项位置的号码。</p>\"], \"notes\": [], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"7eef18b91b9c4edd82ec8f1a84fc0dc1\", \"databaseId\": null, \"standardId\": \"e2b12b34d4f64d819bc2f63c2d2e37ce\", \"standardCode\": \"GB/T 5271.2—1988\", \"standardName\": \"数据处理词汇  02部分  算术和逻辑运算\", \"standardEnName\": \"Data processing——Vocabulary——Section 02:Arithmetic and logic operations\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"02.02.02\", \"cnName\": \"变元，自变量\", \"enName\": \"argument\", \"publishTime\": \"1988-12-10\", \"publishYear\": \"1988\", \"implementTime\": \"1989-07-01\", \"ics\": \"35.02035\", \"ccs\": \"L 70\", \"parentTermId\": null, \"titleId\": null, \"oid\": 221674, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"变元，自变量\", \"cnNameSearch\": \"变元，自变量\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"argument\", \"wordSearch\": \"argument\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"一个独立的变量。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"ee76783042a54496ae82957f503e98a5\", \"databaseId\": null, \"standardId\": \"3ed0eb35160c45cbb4d206b15fc8526e\", \"standardCode\": \"GB/T 50839—2013\", \"standardName\": \"城市轨道交通工程安全控制技术规范\", \"standardEnName\": \"Technical code of urban rail transit engineering safety control\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"其它\", \"termCode\": \"2.0.9\", \"cnName\": \"安全论据\", \"enName\": \"safety argument\", \"publishTime\": null, \"publishYear\": \"暂无年份\", \"implementTime\": null, \"ics\": \"\", \"ccs\": \"\", \"parentTermId\": null, \"titleId\": null, \"oid\": 67421, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"安全论据\", \"cnNameSearch\": \"安全论据\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"safety argument\", \"wordSearch\": \"safety argument\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"能够证明系统达到规定安全要求的所有规章制度、记录文档、危害分析报告、技术文件、代码等。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"c66fe611432a4b90bfa9915a0d6d926c\", \"databaseId\": null, \"standardId\": \"7709ae732ead402d9ce4732f6a0c5961\", \"standardCode\": \"GB/T 32455—2015\", \"standardName\": \"运载火箭术语\", \"standardEnName\": \"Terminology of launch vehicle\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"航空器和航天器工程\", \"termCode\": \"4.47\", \"cnName\": \"近地点幅角\", \"enName\": \"perigee argument\", \"publishTime\": \"2015-12-31\", \"publishYear\": \"2015\", \"implementTime\": \"2016-07-01\", \"ics\": \"49.02049\", \"ccs\": \"V70\", \"parentTermId\": null, \"titleId\": null, \"oid\": 122455, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"近地点幅角\", \"cnNameSearch\": \"近地点幅角\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"perigee argument\", \"wordSearch\": \"perigee argument\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"升交点到近地点的地心张角,从升交点沿在轨物体运动方向度量。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"9ed68290983b45fd973e27611c32ee48\", \"databaseId\": null, \"standardId\": \"f6386d405c874e52ae89c2109e4f200f\", \"standardCode\": \"GB/Z 29830.1—2013\", \"standardName\": \"信息技术 安全技术 信息技术安全保障框架 第1部分：综述和框架\", \"standardEnName\": \"Information technology—Security technology—A framework for IT security assurance—Part1: Overview and framework\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"2.6\", \"cnName\": \"保障论据\", \"enName\": \"assurance argument\", \"publishTime\": \"2013-11-12\", \"publishYear\": \"2013\", \"implementTime\": \"2014-02-01\", \"ics\": \"35.040\", \"ccs\": \"L 80\", \"parentTermId\": null, \"titleId\": null, \"oid\": 241582, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"保障论据\", \"cnNameSearch\": \"保障论据\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"assurance argument\", \"wordSearch\": \"assurance argument\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"一个由证据和推理支持的、结构化的保障断言集合，该集合清晰地表明保障需求如何得以满足。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"434fcedadee242e5bda42a35726951e4\", \"databaseId\": null, \"standardId\": \"5e627fe461354a679fb899ac8ead85e6\", \"standardCode\": \"GB/T 17579—1998\", \"standardName\": \"信息技术 开放系统互连 虚拟终端基本类服务\", \"standardEnName\": \"Information technology-Open systems interconnection-- Virtual terminal basic class service\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"3.3.49  \", \"cnName\": \"VTE轮廓变元\", \"enName\": \"VTE-profile argument\", \"publishTime\": \"1998-11-18\", \"publishYear\": \"1998\", \"implementTime\": \"1999-07-01\", \"ics\": \"ICS 35.100.70\", \"ccs\": \"L 79\", \"parentTermId\": null, \"titleId\": null, \"oid\": 94863, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"VTE轮廓变元\", \"cnNameSearch\": \"VTE轮廓变元\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"VTE-profile argument\", \"wordSearch\": \"VTE-profile argument\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"参数化VTE轮廓的变元。为根据这个VTE轮廓来建立完整VTE,必须给每个这类变元赋值。它可以是普通VTE轮廓变元,也可以是特殊VTE轮廓变元。每个已登记的VTE轮廓都定义了可用的变元及其语义。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"7b6fc958e711480c86b92407406d1c62\", \"databaseId\": null, \"standardId\": \"91a98429325f459eb04448b5251175eb\", \"standardCode\": \"GB/T 5271.15—2008\", \"standardName\": \"信息技术  词汇 第15部分：编程语言\", \"standardEnName\": \"Information technology — Vocabulary — Part 15: Programming languages\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"15.03.14\", \"cnName\": \"实参\", \"enName\": \"actual parameter\", \"publishTime\": \"2008-07-18\", \"publishYear\": \"2008\", \"implementTime\": \"2008-12-01\", \"ics\": \"35.240.20\", \"ccs\": \"L 60\", \"parentTermId\": null, \"titleId\": null, \"oid\": 154365, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"实参\", \"cnNameSearch\": \"实参\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"actual parameter\", \"wordSearch\": \"actual parameter\"}], \"allowableWord\": [], \"refuseWord\": []}, {\"id\": null, \"cnName\": \"实（变）元\", \"cnNameSearch\": \"实（变）元\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"actual argument\", \"wordSearch\": \"actual argument\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"一种用于某一调用或类属实例化，以使数据对象与对应的声明相结合的参量（例如表达式、标识符或其他语言构造）。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p>此处的对应声明称为“形参”</p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"dd8f92fbd3c54649b0a74a25250cd8c9\", \"databaseId\": null, \"standardId\": \"91a98429325f459eb04448b5251175eb\", \"standardCode\": \"GB/T 5271.15—2008\", \"standardName\": \"信息技术  词汇 第15部分：编程语言\", \"standardEnName\": \"Information technology — Vocabulary — Part 15: Programming languages\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"15.03.15\", \"cnName\": \"形参\", \"enName\": \"formal parameter\", \"publishTime\": \"2008-07-18\", \"publishYear\": \"2008\", \"implementTime\": \"2008-12-01\", \"ics\": \"35.240.20\", \"ccs\": \"L 60\", \"parentTermId\": null, \"titleId\": null, \"oid\": 154420, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"形参\", \"cnNameSearch\": \"形参\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"formal parameter\", \"wordSearch\": \"formal parameter\"}], \"allowableWord\": [], \"refuseWord\": []}, {\"id\": null, \"cnName\": \"哑（变）元\", \"cnNameSearch\": \"哑（变）元\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"dummy argument\", \"wordSearch\": \"dummy argument\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"一种在某些模块的声明中定义，并与某一调用或类属实例化内的实参结合的参量。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"f039bb04cd954b49b630a827d8ffd449\", \"databaseId\": null, \"standardId\": \"5e627fe461354a679fb899ac8ead85e6\", \"standardCode\": \"GB/T 17579—1998\", \"standardName\": \"信息技术 开放系统互连 虚拟终端基本类服务\", \"standardEnName\": \"Information technology-Open systems interconnection-- Virtual terminal basic class service\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"3.3.50  \", \"cnName\": \"普通 VTE轮廓变元\", \"enName\": \"normal VTE-profile argument\", \"publishTime\": \"1998-11-18\", \"publishYear\": \"1998\", \"implementTime\": \"1999-07-01\", \"ics\": \"ICS 35.100.70\", \"ccs\": \"L 79\", \"parentTermId\": null, \"titleId\": null, \"oid\": 94883, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"普通 VTE轮廓变元\", \"cnNameSearch\": \"普通 VTE轮廓变元\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"normal VTE-profile argument\", \"wordSearch\": \"normal VTE-profile argument\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"与VTE参数精确对应,并采用同样标识符的VTE轮廓变元。VTE轮廓也可以指定由这种变元的值定义其他VTE参数。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"76ba0a4b3f8a457ab3c850039154d55f\", \"databaseId\": null, \"standardId\": \"5e627fe461354a679fb899ac8ead85e6\", \"standardCode\": \"GB/T 17579—1998\", \"standardName\": \"信息技术 开放系统互连 虚拟终端基本类服务\", \"standardEnName\": \"Information technology-Open systems interconnection-- Virtual terminal basic class service\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"3.3.51  \", \"cnName\": \"特殊VTE轮廓变元\", \"enName\": \"special VTE-profile argument\", \"publishTime\": \"1998-11-18\", \"publishYear\": \"1998\", \"implementTime\": \"1999-07-01\", \"ics\": \"ICS 35.100.70\", \"ccs\": \"L 79\", \"parentTermId\": null, \"titleId\": null, \"oid\": 94892, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"特殊VTE轮廓变元\", \"cnNameSearch\": \"特殊VTE轮廓变元\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"special VTE-profile argument\", \"wordSearch\": \"special VTE-profile argument\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"和VTE参数不对应的VTE轮廓变元(即不是来自有向图,也没有标准标识符),但是,当在VTE轮廓定义中定义它时,使用它是有效的。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1795341248633}"
+}

@@ -1,0 +1,40 @@
+{
+ "key": "cognitive capacities",
+ "term": "cognitive capacities",
+ "provider": "termonline-standard",
+ "queried_at": "2026-11-22T09:53:32+00:00",
+ "status": "ok",
+ "note": "standardVO totalRecords=4",
+ "hits": [
+  {
+   "cn": "认知发展",
+   "en": "cognitive development",
+   "code": "GB/T 42194—2022",
+   "standard": "儿童福利机构社会工作 术语",
+   "subject": "综合、术语学、标准化、文献"
+  },
+  {
+   "cn": "认知建模",
+   "en": "cognitive modeling",
+   "code": "GB/T 5271.28—2001",
+   "standard": "信息技术  词汇  第28部分:人工智能  基本概念与专家系统",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "认知科学",
+   "en": "cognitive science",
+   "code": "GB/T 5271.31—2006",
+   "standard": "信息技术 词汇第31部分:人工智能  机器学习",
+   "subject": "信息技术、办公机械"
+  },
+  {
+   "cn": "认知康复训练系统",
+   "en": "cognitive rehabilitation training system",
+   "code": "GB/Z 40847—2021",
+   "standard": "认知康复训练系统通用技术条件",
+   "subject": "医药卫生技术"
+  }
+ ],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"overView\": {\"en\": [], \"cn\": [], \"tw\": [], \"source\": []}, \"standardVO\": {\"yearsList\": [], \"yearStats\": {\"2022\": 1, \"2021\": 1, \"2006\": 1, \"2001\": 1}, \"sourceStats\": {\"综合、术语学、标准化、文献\": 1, \"医药卫生技术\": 1, \"信息技术、办公机械\": 2}, \"typeStats\": {\"7\": 4}, \"totalRecords\": 4, \"tmWordList\": [{\"id\": \"0fe4926f95704f4ea9801e2fabf9ee30\", \"databaseId\": null, \"standardId\": \"9546d11f708648bf95d85d4258a9da48\", \"standardCode\": \"GB/T 42194—2022\", \"standardName\": \"儿童福利机构社会工作 术语\", \"standardEnName\": \"Social work in child welfare institution—Vocabulary\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"综合、术语学、标准化、文献\", \"termCode\": \"5.3.1\", \"cnName\": \"认知发展\", \"enName\": \"cognitive development\", \"publishTime\": \"2022-12-30\", \"publishYear\": \"2022\", \"implementTime\": \"2022-12-30\", \"ics\": \"01.04001\", \"ccs\": \"A 22\", \"parentTermId\": null, \"titleId\": null, \"oid\": 157641, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"认知发展\", \"cnNameSearch\": \"认知发展\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"cognitive development\", \"wordSearch\": \"cognitive development\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"社会工作者运用专业方法，使用特定的设施设备，促进改善儿童个体对自身、环境和社会的认识和感受能力。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"39964858521143989a5369985ebb3294\", \"databaseId\": null, \"standardId\": \"e736cc0658684d5288e44a7eeb228afc\", \"standardCode\": \"GB/T 5271.28—2001\", \"standardName\": \"信息技术  词汇  第28部分:人工智能  基本概念与专家系统\", \"standardEnName\": \"Information technology——Vocabulary——Part 28:Artificial intelligence——Basic concepts and expert system\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"28.01.10\", \"cnName\": \"认知建模\", \"enName\": \"cognitive modeling\", \"publishTime\": \"2001-07-16\", \"publishYear\": \"2001\", \"implementTime\": \"2002-03-01\", \"ics\": \"35.020\", \"ccs\": \"L 70\", \"parentTermId\": null, \"titleId\": null, \"oid\": 228355, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"认知建模\", \"cnNameSearch\": \"认知建模\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"cognitive modeling\", \"wordSearch\": \"cognitive modeling\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"通过信息处理对人类的感知、动作、记忆和推理建模。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"2498ef7d946e48189b636f7cd057b0bd\", \"databaseId\": null, \"standardId\": \"123405eebf094949b92968bffedf0cad\", \"standardCode\": \"GB/T 5271.31—2006\", \"standardName\": \"信息技术 词汇第31部分:人工智能  机器学习\", \"standardEnName\": \"Information technology—Vocabulary—Part 31:Artificial intelligence—Machine learning\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"信息技术、办公机械\", \"termCode\": \"31.01.11\", \"cnName\": \"认知科学\", \"enName\": \"cognitive science\", \"publishTime\": \"2006-03-14\", \"publishYear\": \"2006\", \"implementTime\": \"2006-07-01\", \"ics\": \"35.240.20\", \"ccs\": \"L 60\", \"parentTermId\": null, \"titleId\": null, \"oid\": 17019, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"认知科学\", \"cnNameSearch\": \"认知科学\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"cognitive science\", \"wordSearch\": \"cognitive science\"}], \"allowableWord\": [], \"refuseWord\": []}, {\"id\": null, \"cnName\": \"认知机制\", \"cnNameSearch\": \"认知机制\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"cognitivism\", \"wordSearch\": \"cognitivism\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"各学科间的知识领域,它的陈述目标是发现智力的表示能力和计算能力以及在头脑中它们的结构表示和功能表示。\", \"footnote\": null, \"abbreviation\": [], \"examples\": [], \"notes\": [\"<p><span style=\\\"color: rgb(0, 0, 0);\\\">认知科学处理认知的符号处理性质,并包括如心理学、计算机科学、语言学、人类学、哲学、教育、数学、工程、生理学和神经科学等不相同的学科。</span></p>\"], \"refer\": [], \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}, {\"id\": \"793a6bb4b80d41248a839c7e4e7a8fec\", \"databaseId\": null, \"standardId\": \"b7db031406ff4b82a3a9eb5abc1a3eb9\", \"standardCode\": \"GB/Z 40847—2021\", \"standardName\": \"认知康复训练系统通用技术条件\", \"standardEnName\": \"Cognitive rehabilitation training system general technical condition\", \"standardType\": null, \"standardState\": null, \"standardUrl\": null, \"subjectName\": \"医药卫生技术\", \"termCode\": \"3.2\", \"cnName\": \"认知康复训练系统\", \"enName\": \"cognitive rehabilitation training system\", \"publishTime\": \"2021-10-11\", \"publishYear\": \"2021\", \"implementTime\": \"2021-10-11\", \"ics\": \"11.18011\", \"ccs\": \"C45\", \"parentTermId\": null, \"titleId\": null, \"oid\": 187771, \"bbh\": \"第一版\", \"terms\": [{\"id\": null, \"cnName\": \"认知康复训练系统\", \"cnNameSearch\": \"认知康复训练系统\", \"outType\": 1, \"extendWord\": [{\"languageType\": 1, \"word\": \"cognitive rehabilitation training system\", \"wordSearch\": \"cognitive rehabilitation training system\"}], \"allowableWord\": [], \"refuseWord\": []}], \"symbol\": null, \"unitSymbol\": null, \"unitName\": null, \"unitSource\": null, \"professionalField\": null, \"definition\": \"综合利用文字、声音、图片、动画等多媒体，通过听觉、视觉、触觉等方式，帮助脑外伤、脑卒中、精神类疾病、脑瘫、自闭症或智力障碍等认知功能障碍者进行认知学习和训练的系统。\", \"footnote\": null, \"abbreviation\": null, \"examples\": null, \"notes\": null, \"refer\": null, \"sources\": [], \"sort\": 0, \"sortStr\": null, \"status\": 0, \"collect\": false}], \"currentPage\": 1, \"totalPage\": 1}}, \"timestamp\": 1795341212540}"
+}
