@@ -1,0 +1,782 @@
+{
+ "key": "basic needs",
+ "term": "basic needs",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-22T10:34:33+00:00",
+ "status": "ok",
+ "note": "variant=basic needs; 审定公布名词库=738; 海峡两岸名词对照库=235; 其他来源数据库=80; 预公布名词数据库=68; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "基本需要",
+   "en": "basic needs",
+   "source": "经济学名词",
+   "wordNumber": "06.026",
+   "subjectFullName": "经济学_发展经济学",
+   "subjectName": "发展经济学",
+   "publishYear": "2020",
+   "definition": "国际劳工组织20世纪70年代中期提出的概念，其目的是纠正50~60年代不少发展中国家片面追求GNP增长进度的偏向，主张发展中国家应设定最贫困阶层的最低限度生活标准。"
+  },
+  {
+   "cn": "需要",
+   "en": "needs",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "21.177",
+   "subjectFullName": "新闻学与传播学_广告_广告营销",
+   "subjectName": "广告营销",
+   "publishYear": "2022",
+   "definition": "人与生俱来的基本欲望或要求是市场营销的基石。"
+  },
+  {
+   "cn": "需要",
+   "en": "need",
+   "source": "行为医学名词",
+   "wordNumber": "4.082",
+   "subjectFullName": "行为医学_行为的心理学基础_动机与行为",
+   "subjectName": "动机与行为",
+   "publishYear": "2022",
+   "definition": "有机体内部的一种不平衡状态。表现为有机体对内部环境或外部生活条件的一种稳定的要求，并成为有机体活动的源泉。"
+  },
+  {
+   "cn": "需要",
+   "en": "need",
+   "source": "计划生育名词",
+   "wordNumber": "04.034",
+   "subjectFullName": "计划生育_生殖健康心理卫生",
+   "subjectName": "生殖健康心理卫生",
+   "publishYear": "2019",
+   "definition": "人对内部环境或外部生活条件的稳定的要求。是社会活动中缺乏某种东西在大脑中的反映。是一种主观状态，也是客观要求的反映。人的需要包括生理需要和社会需要。"
+  },
+  {
+   "cn": "需要",
+   "en": "need",
+   "source": "医学美学与美容医学名词",
+   "wordNumber": "02.021",
+   "subjectFullName": "医学美学与美容医学_美容医学心理学",
+   "subjectName": "美容医学心理学",
+   "publishYear": "2015",
+   "definition": "有机体的一种不平衡状态，表现在有机体对内部环境或外部生活条件的一种稳定的要求，并成为有机体活动的源泉。"
+  },
+  {
+   "cn": "需要",
+   "en": "need",
+   "source": "心理学名词",
+   "wordNumber": "02.732",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "有机体内部的一种不平衡状态。表现为有机体对内部环境或外部生活条件的稳定要求，并成为有机体活动的源泉。"
+  },
+  {
+   "cn": "人际需求",
+   "en": "interpersonal needs",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "8.096",
+   "subjectFullName": "新闻学与传播学_人际沟通_人际沟通意图",
+   "subjectName": "人际沟通意图",
+   "publishYear": "2022",
+   "definition": "人际沟通过程中个人所产生的对社会团体、自尊、情感、控制、包容、认同等的关系需要。人际需求满足与否会直接影响到交往关系的性质、存在与发展。"
+  },
+  {
+   "cn": "情感需求",
+   "en": "affection needs",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "8.098",
+   "subjectFullName": "新闻学与传播学_人际沟通_人际沟通意图",
+   "subjectName": "人际沟通意图",
+   "publishYear": "2022",
+   "definition": "人际沟通的动机之一。沟通者对自我与他人的态度与价值体验的需要或缺乏。"
+  },
+  {
+   "cn": "接纳需求",
+   "en": "inclusion needs",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "8.099",
+   "subjectFullName": "新闻学与传播学_人际沟通_人际沟通意图",
+   "subjectName": "人际沟通意图",
+   "publishYear": "2022",
+   "definition": "人际沟通的动机之一。个人建立各种社会关系并被群体容纳的需要或缺乏。"
+  },
+  {
+   "cn": "控制需求",
+   "en": "control needs",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "8.1",
+   "subjectFullName": "新闻学与传播学_人际沟通_人际沟通意图",
+   "subjectName": "人际沟通意图",
+   "publishYear": "2022",
+   "definition": "人际沟通的动机之一。个人通过拥有对周围环境的把握而确认自身具有责任能力的需要或缺乏。"
+  },
+  {
+   "cn": "认同需求",
+   "en": "identity needs",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "8.101",
+   "subjectFullName": "新闻学与传播学_人际沟通_人际沟通意图",
+   "subjectName": "人际沟通意图",
+   "publishYear": "2022",
+   "definition": "人际沟通的动机之一。个人对自我予以接纳并获得他人认可和接受的需要或缺乏。"
+  },
+  {
+   "cn": "情报需求",
+   "en": "information needs",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "01.259",
+   "subjectFullName": "图书馆·情报与文献学_图书馆学情报学基础_情报学",
+   "subjectName": "情报学",
+   "publishYear": "2019",
+   "definition": "人类社会成员对情报获取、传递、加工和利用的需要。由人类社会活动需求所引发。情报需求具有层次结构，从需求的客观存在、认识和表达状态出发，可以区分为客观需求、认识需求和表达需求。社会主体客观上需要，但未能"
+  },
+  {
+   "cn": "阅读需求",
+   "en": "reading needs",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "07.062",
+   "subjectFullName": "图书馆·情报与文献学_信息服务与用户研究_阅读辅导",
+   "subjectName": "阅读辅导",
+   "publishYear": "2019",
+   "definition": "人们在社会生活中，为了提高精神文化生活水平而产生的力求阅读书刊的心理倾向或心理趋力。阅读需求是人进行阅读活动的源泉。有了阅读需求，人才会为自己提出阅读目的，诱发强烈的阅读愿望，并指向具体的对象，形成阅"
+  },
+  {
+   "cn": "顾客需要",
+   "en": "customer needs",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0002",
+   "subjectFullName": "管理科学技术_市场营销_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "顾客自身感受到的一种匮乏的状态。包括生理、社会以及个性等方面的需要。"
+  },
+  {
+   "cn": "需求评价",
+   "en": "needs assessment",
+   "source": "物理医学与康复名词",
+   "wordNumber": "01.075",
+   "subjectFullName": "物理医学与康复_总论_社区康复",
+   "subjectName": "社区康复",
+   "publishYear": "2014",
+   "definition": "对社区人群的康复需求做调查、并将调查资料进行整理分析，明确他们在医疗、教育、就业、参与家庭生活和社会生活等方面的需求。为社区康复服务的开展提供准确客观的依据，有效利用资源，满足残疾人和其他康复对象对康"
+  },
+  {
+   "cn": "需求调查",
+   "en": "needs investigation",
+   "source": "教育学名词",
+   "wordNumber": "11.142",
+   "subjectFullName": "教育学_职业技术教育",
+   "subjectName": "职业技术教育",
+   "publishYear": "2013",
+   "definition": "在设计职业教育或培训前，通过科学设计，对劳动力市场或企业内部劳动力需求等相关信息的调查。"
+  },
+  {
+   "cn": "生理需要量",
+   "en": "physiological need",
+   "source": "急救医学名词",
+   "wordNumber": "03.281",
+   "subjectFullName": "急救医学_日常医学急救_外科学_体液平衡失调",
+   "subjectName": "体液平衡失调",
+   "publishYear": "2025",
+   "definition": "机体维持基础代谢所需的液体量。取决于尿量、大便丢失和不显性失水。"
+  },
+  {
+   "cn": "生理需要",
+   "en": "physiological need",
+   "source": "行为医学名词",
+   "wordNumber": "2.122",
+   "subjectFullName": "行为医学_行为医学基本理论_人本主义理论",
+   "subjectName": "人本主义理论",
+   "publishYear": "2022",
+   "definition": "人类维持生存及延续种族最原始、最基本的需求。如摄食、御寒、睡眠等。"
+  },
+  {
+   "cn": "安全需要",
+   "en": "safety need",
+   "source": "行为医学名词",
+   "wordNumber": "2.123",
+   "subjectFullName": "行为医学_行为医学基本理论_人本主义理论",
+   "subjectName": "人本主义理论",
+   "publishYear": "2022",
+   "definition": "人类受到保护与免于遭受威胁、获得安全的需求。如社会环境安全、生命和财产安全、生活有保障等。"
+  },
+  {
+   "cn": "认知需要",
+   "en": "cognitive need",
+   "source": "行为医学名词",
+   "wordNumber": "2.126",
+   "subjectFullName": "行为医学_行为医学基本理论_人本主义理论",
+   "subjectName": "人本主义理论",
+   "publishYear": "2022",
+   "definition": "个体对事物的认识、追求和了解的内在动力。如求知欲、好奇心等。"
+  },
+  {
+   "cn": "基本需求",
+   "en": "basic need",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "需要，需求",
+   "en": "need",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "派生需要,第二需要",
+   "en": "secondary need\",\"derived need",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "匮乏性需要",
+   "en": "deficiency need\",\"D need",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "存在性需要",
+   "en": "being need\",\"B need",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "需水量",
+   "en": "water need",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "超越需求",
+   "en": "transcendence need",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "习得需要",
+   "en": "acquired need",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "似本能需要",
+   "en": "instinctoid need",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自尊需要",
+   "en": "esteem need",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "需求评估",
+   "en": "need assessment",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "反应需要",
+   "en": "reactive need",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "成长需要",
+   "en": "growth need",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "亲和需要",
+   "en": "affiliation need",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "原生需要,第一需要,生物性需要",
+   "en": "primary need",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "心因性需要，心因性需求",
+   "en": "psychogenic need",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "外显需要,显性需要",
+   "en": "manifest need",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "认同需要",
+   "en": "identity need",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "需要潜能",
+   "en": "need potential",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "认知需要",
+   "en": "need for cognition\",\"cognitive need",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "基本姿势",
+   "en": "basic position\",\"basic stance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "社会保障兜底",
+   "en": "poverty alleviation by securing basic needs through social security",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "基础标准",
+   "en": "Basic Standards",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "基本姿势",
+   "en": "basic position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "基本动作",
+   "en": "basic movement",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "标准化基础",
+   "en": "Standardization Basics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "法律基础",
+   "en": "Legal Basics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人工智能基础理论",
+   "en": "basic AI theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人工智能基础材料",
+   "en": "basic AI material",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "全民基本收入",
+   "en": "universal basic income",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "基础网络系统",
+   "en": "basic network system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "基础平台连续性",
+   "en": "basic platform continuity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "基本公共服务",
+   "en": "basic public services",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "基本姿势",
+   "en": "basic position\",\"fundamental position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "六义",
+   "en": "The Six Basic Elements",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大数据基础",
+   "en": "Basics of Big Data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自护本体",
+   "en": "basic defensive posture\",\"jigo-hontai",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "需要",
+   "en": "need",
+   "source": "社会学名词",
+   "wordNumber": "4.1.12.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会动机与需要",
+   "subjectName": "社会动机与需要",
+   "publishYear": "2025",
+   "definition": "有机体内部的一种不平衡状态，它通常以一种“缺乏感”被人们体验到，以意向、愿望的形式表现出来，最终导致为推动个体进行活动的动机。需要来自个体和社会的客观需求在人脑中的反映，是个人的心理活动与行为的基本动"
+  },
+  {
+   "cn": "需要",
+   "en": "need",
+   "source": "马克思主义",
+   "wordNumber": "02.0023",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人们为维持或改善生活水平而去获取和占有某种物品和服务的欲望，是外部生活条件的要求在人主观上的反映。马克思认为,“市场上出现的对商品的需要，即需求，和实际的社会需要之间存在着数量上的差别”。"
+  },
+  {
+   "cn": "人的需要",
+   "en": "human needs",
+   "source": "社会学名词",
+   "wordNumber": "4.4.1.6",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的基本概念",
+   "subjectName": "社会工作的基本概念",
+   "publishYear": "2025",
+   "definition": "人感受到自身内在的物质或者精神上的缺乏，为了维持生存和发展，而对于外界事物的摄取欲望和要求。"
+  },
+  {
+   "cn": "需要评估",
+   "en": "needs assessment",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.6",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "撰写个案工作介入计划的基础。对服务对象的情况进行事先了解，在综合分析的基础上，确定其需求情况及其成因，形成暂时性评估结论的过程。"
+  },
+  {
+   "cn": "技术必要性",
+   "en": "technical needs",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.25.14",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "食品添加剂的使用符合食品安全标准所规定的一个或数个工艺目的，且这些目的不能通过经济和技术方面可行的其他手段实现，即在工艺和技术上确有使用的必要性"
+  },
+  {
+   "cn": "社会需要",
+   "en": "social need",
+   "source": "社会学名词",
+   "wordNumber": "2.1.5.16",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会生活",
+   "subjectName": "社会生活",
+   "publishYear": "2025",
+   "definition": "社会群体或社会整体为使自身能够生存和发展而应该有或必须有的种种物质和精神欲求。反映人们在社会生活中因感到某种物质和精神因素的缺乏而力求获得满足的内在心理倾向。具有集体性或整体性、集中性和强制性等特征。"
+  },
+  {
+   "cn": "个人感知到的需要",
+   "en": "perceived need",
+   "source": "卫生经济学名词",
+   "wordNumber": "4.1.1.1",
+   "subjectFullName": "卫生经济学名词_卫生服务需求_卫生服务需求",
+   "subjectName": "卫生服务需求",
+   "publishYear": "2025",
+   "definition": "人们主观上认为自己罹患疾病或为了预防疾病应该获得的某种卫生服务。"
+  },
+  {
+   "cn": "个人未感知到的需要",
+   "en": "unperceived need",
+   "source": "卫生经济学名词",
+   "wordNumber": "4.1.1.2",
+   "subjectFullName": "卫生经济学名词_卫生服务需求_卫生服务需求",
+   "subjectName": "卫生服务需求",
+   "publishYear": "2025",
+   "definition": "卫生服务消费者实际存在某种健康问题或患有疾病时，但消费者自身并未察觉或并不认为应该求医的某种卫生服务。"
+  },
+  {
+   "cn": "实用性社会性别需求",
+   "en": "practical gender need",
+   "source": "社会学名词",
+   "wordNumber": "3.2.6.14",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别与发展",
+   "subjectName": "性别与发展",
+   "publishYear": "2025",
+   "definition": "不同性别根据目前的生存与发展状况所形成的现实利益需求。以满足这类需求为目标的政策会将焦点放在直接回应和满足利益需求上，主要途径通常为改善物质生活条件，如解决供水、医疗健康及就业问题。"
+  },
+  {
+   "cn": "战略性社会性别需求",
+   "en": "strategic gender need",
+   "source": "社会学名词",
+   "wordNumber": "3.2.6.15",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别与发展",
+   "subjectName": "性别与发展",
+   "publishYear": "2025",
+   "definition": "不同性别根据整体发展目标而形成的具有长远意义的利益需求。以满足这类需求为目标的政策会以改变不合理的社会性别分工、改善社会性别关系、赋权于弱势性别群体为焦点，通常以促进建立、健全、完善相关的公共政策、倡"
+  },
+  {
+   "cn": "卫生服务需要",
+   "en": "health service need",
+   "source": "卫生经济学名词",
+   "wordNumber": "4.1.1",
+   "subjectFullName": "卫生经济学名词_卫生服务需求_卫生服务需求",
+   "subjectName": "卫生服务需求",
+   "publishYear": "2025",
+   "definition": "从人们的健康状况出发，不考虑实际支付能力，人们应该获得的卫生服务及其数量。"
+  },
+  {
+   "cn": "健康需要法",
+   "en": "health need approach",
+   "source": "卫生经济学名词",
+   "wordNumber": "8.2.1",
+   "subjectFullName": "卫生经济学名词_卫生资源配置_卫生资源配置标准",
+   "subjectName": "卫生资源配置标准",
+   "publishYear": "2025",
+   "definition": "以居民健康水平为目标，分析预测实现目标需要的卫生资源种类和数量的一种方法。是卫生资源需求预测的重要方法。"
+  },
+  {
+   "cn": "卫生服务需要",
+   "en": "health service need",
+   "source": "社会医学名词",
+   "wordNumber": "8.2",
+   "subjectFullName": "卫生服务研究",
+   "subjectName": "卫生服务需要",
+   "publishYear": "2025",
+   "definition": "根据居民的健康状况及其与理想健康状态之间的差距，提出的对医疗、预防、保健、康复等卫生服务的客观需要，包括个人察觉到的需要，以及由医疗卫生专业人员判定的需要。"
+  },
+  {
+   "cn": "卫生服务需要",
+   "en": "health service need",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.087",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "在不考虑实际支付能力的情况下，从民众的健康状况出发，由专业人员和政府部门判断其需要获得的、合理的卫生服务数量与质量。"
+  },
+  {
+   "cn": "基础标准",
+   "en": "basic standard",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.1.12",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准",
+   "subjectName": "放射卫生标准",
+   "publishYear": "2025",
+   "definition": "以相互理解为编制目的形成的具有广泛适用范围的标准。"
+  },
+  {
+   "cn": "基本人格",
+   "en": "basic personality",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0556",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "美国人类学家卡迪纳（Abram Kandiner）提出的概念。他认为，养育儿童的方式在任何一特定社会中，都是相当固定而且标准化的。虽然在某方面有个别差异，但就整体而言，母亲喂奶的时间大致和邻居一样长，"
+  },
+  {
+   "cn": "基础方言",
+   "en": "basic dialect",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0067",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "民族共同语或标准语赖以形成和发展的方言。一般是使用人口众多、通行地域广泛、规范程度高，有较为强大的政治、经济或历史文化影响力的地域的方言。"
+  },
+  {
+   "cn": "需要层次理论",
+   "en": "hierarchy of needs theory",
+   "source": "社会学名词",
+   "wordNumber": "4.1.2.8",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会心理学理论",
+   "subjectName": "社会心理学理论",
+   "publishYear": "2025",
+   "definition": "美国心理学家马斯洛(Abraham Harold Maslow)提出的一种关于需要结构的理论。认为人的需要是由五个等级构成的，从低到高分别是生理的需要、安全的需要、归属与爱的需要、尊重的需要、自我实现"
+  },
+  {
+   "cn": "按需分配",
+   "en": "distribution according to needs",
+   "source": "马克思主义",
+   "wordNumber": "03.0025",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "共产主义社会高级阶段个人消费品的分配原则。即在迫使个人奴隶般地服从分工的情形已经消失，劳动成了生活的第一需要，随着个人的全面发展，生产力高度发达，“集体财富的一切源泉都充分涌流”之后，实行各人尽其所能"
+  },
+  {
+   "cn": "卫生人力需要量",
+   "en": "needs for health workforce",
+   "source": "社会医学名词",
+   "wordNumber": "8.11.1.3",
+   "subjectFullName": "卫生服务研究",
+   "subjectName": "卫生资源",
+   "publishYear": "2025",
+   "definition": "为获取和维持一定水平的医疗卫生服务，由专业人员根据实际健康需要评估确定的理论上所需的卫生人力数量。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

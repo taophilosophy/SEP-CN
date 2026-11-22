@@ -29,3 +29,7 @@
 * 第二批：人工圈定 61 条，与总表求交得 59 条；全部先查审定库（48 条实查 ok、10 条已有凭证跳过）。按术语在线优先生成清单：5 条采审定译名（moral theories、number theory、empirical content、moral principle、logically equivalent→逻辑等值），54 条审定无对口命中后 A 档直裁。两条审定异形命中判定他义未采：physical theories→身体理论（自然辩证法·理论方法，身体义）、moral concepts→道德观念（医学伦理学，观念≠概念）。
 * 落册：`term_flow` 干跑 59/0，实写 59；`registry_azsort --apply` 术语表 7161 行守恒；`check_terms` 硬错误 0。
 * 当日累计：术语表新增 161 行（首批 102＋第二批 59），其中审定名词库依据 19 行。
+* 第三批：人工圈定 52 条，全部先查审定库（44 实查 ok、8 已有凭证）。7 条采审定译名（译名与人工一致，含 Newtonian mechanics、ontological dependence、formal semantics 等），45 条审定无对口命中后 A 档直裁；无改采冲突。
+* 著作名批次：7 部（Philosophical Investigations、Theory of Justice、Treatise of Human Nature、Principles of Philosophy、Politics、Laws、Summa theologiae），先查审定库——全部命中他义（公正／礼貌／水法规／外轮山等），判无对口条目；按 rules/03 §154 转权威译本档位登记：《哲学研究》《正义论》《人性论》《哲学原理》《政治学》《法律篇》《神学大全》。
+* 落册：第三批 52＋著作 7，`term_flow` 干跑零跳过、实写 59；`registry_azsort` 术语表 7221 行守恒；`check_terms` 硬错误 0；`check_all` 17 项全绿。
+* 当日累计：术语表新增 220 行（102＋59＋52＋7），审定名词库依据 40 行。

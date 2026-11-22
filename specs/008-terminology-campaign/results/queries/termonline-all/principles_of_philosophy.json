@@ -1,0 +1,742 @@
+{
+ "key": "principles of philosophy",
+ "term": "Principles of Philosophy",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-22T10:35:57+00:00",
+ "status": "ok",
+ "note": "variant=Principles of Philosophy; 审定公布名词库=10000; 海峡两岸名词对照库=7450; 其他来源数据库=1855; 预公布名词数据库=2734; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "语义哲学",
+   "en": "semantic philosophy,philosophy of semantics",
+   "source": "语言学名词",
+   "wordNumber": "05.014",
+   "subjectFullName": "语言学_语义学、词汇学_语义学与语义理论",
+   "subjectName": "语义学与语义理论",
+   "publishYear": "2011",
+   "definition": "哲学的一个流派。主张语义是哲学分析唯一的或主要的对象。其理论根据是逻辑实证论。认为哲学的任务应归结为仅仅对句法和语义的分析，形成关于语义的一般性理论。"
+  },
+  {
+   "cn": "自然哲学",
+   "en": "philosophy of nature",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.020",
+   "subjectFullName": "自然辩证法_自然哲学_自然哲学类别",
+   "subjectName": "自然哲学类别",
+   "publishYear": "2024",
+   "definition": "研究自然的本源、结构、性质和演变规律以及人与自然关系等一般性问题的哲学。具有思辨性和形而上学性。近代自然科学是从自然哲学中分化出来的。"
+  },
+  {
+   "cn": "科学哲学",
+   "en": "philosophy of science",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.001",
+   "subjectFullName": "自然辩证法_科学哲学_主要学派",
+   "subjectName": "主要学派",
+   "publishYear": "2024",
+   "definition": "以科学为分析和研究对象的哲学学科。其特点是对科学活动和科学理论从认识论、方法论以及本体论、价值论角度进行考察和分析，旨在提供关于科学认识及其发展的逻辑性、历史性和社会制约性的模型。主要探讨科学知识的本"
+  },
+  {
+   "cn": "实验哲学",
+   "en": "philosophy of experiment",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.191",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会_历史转向",
+   "subjectName": "历史转向",
+   "publishYear": "2024",
+   "definition": "对科学实验的本体论、方法论和知识论层面上的研究。"
+  },
+  {
+   "cn": "数学哲学",
+   "en": "philosophy of mathematics",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.239",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "当代哲学的一个重要分支。研究与数学相关的本体论、认识论、语义学、逻辑与方法论等哲学问题，旨在揭示数学的本质、数学知识的来源及其在整个知识领域中的定位与应用。"
+  },
+  {
+   "cn": "概率哲学",
+   "en": "philosophy of probability",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.270",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "研究概率的本质的哲学理论。一般即指概率的解释。"
+  },
+  {
+   "cn": "逻辑哲学",
+   "en": "philosophy of logic",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.283",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "研究逻辑的范围和逻辑的本质的哲学领域。"
+  },
+  {
+   "cn": "统计哲学",
+   "en": "philosophy of statistics",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.300",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "研究统计学方法的哲学基础的哲学分支。关注的问题包括概率的解释、归纳法的哲学基础、经典统计与贝叶斯统计方法的哲学基础等。"
+  },
+  {
+   "cn": "物理学哲学",
+   "en": "philosophy of physics",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.317",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_物理学哲学",
+   "subjectName": "物理学哲学",
+   "publishYear": "2024",
+   "definition": "科学哲学的分支之一。主要对经典物理、相对论、量子力学、天文学等物理学主要理论中的相关哲学问题和概念性问题如时空观等进行研究，也结合物理学理论讨论定律的本质、科学解释、理论构成及变迁等一般科学哲学问题。"
+  },
+  {
+   "cn": "生物学哲学",
+   "en": "philosophy of biology",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.404",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_生物学哲学",
+   "subjectName": "生物学哲学",
+   "publishYear": "2024",
+   "definition": "聚焦于生物学语境的科学哲学分支研究。一方面，针对生物学中的概念问题进行哲学分析；另一方面，诉诸生物学就传统哲学问题进行讨论。"
+  },
+  {
+   "cn": "心智哲学",
+   "en": "philosophy of mind",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.563",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "对心智的本质、心理事件、心理功能、心理属性、心理内容、意向性和意识的哲学研究。"
+  },
+  {
+   "cn": "信息哲学",
+   "en": "philosophy of information",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.588",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "面向信息与通信技术以及社会的信息化与智能化的发展的新兴哲学领域。旨在构建一个解读信息现象的整合性的哲学理论体系，探讨计算、信息、数据和智能等科技发展带来的哲学、伦理及社会问题。"
+  },
+  {
+   "cn": "学习的哲学",
+   "en": "philosophy of learning",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.682",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "可分为教育层面的学习的哲学和一般的学习的哲学。前者主要是对学生学习活动中的主体心智、学习内容和学习环境的知识论和价值论研究。后者主要从心智哲学和认知科学与哲学的维度研究人和机器学习的一般过程。"
+  },
+  {
+   "cn": "人类学哲学",
+   "en": "philosophy of anthropology",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.810",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_社会科学哲学",
+   "subjectName": "社会科学哲学",
+   "publishYear": "2024",
+   "definition": "对人类学方法论、内部实践进行理性批判和评价其解释机制的分支科学哲学。目前大多集中于讨论人类学作为一门学科之本质与价值，界定其内部主要流派及其核心观点，以及人类学研究之一般概念等。"
+  },
+  {
+   "cn": "经济学哲学",
+   "en": "philosophy of economics",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.811",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_社会科学哲学",
+   "subjectName": "社会科学哲学",
+   "publishYear": "2024",
+   "definition": "一门研究经济学发展的本质、规律及其基本方法论问题的分支科学哲学。是经济学与哲学相结合的交叉学科。"
+  },
+  {
+   "cn": "教育哲学",
+   "en": "philosophy of education",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.812",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_社会科学哲学",
+   "subjectName": "社会科学哲学",
+   "publishYear": "2024",
+   "definition": "一门研究和评价教育理论、教育实践及教育模式的哲学学科。分析和解释教育之本质、作用、目的、方法、价值等基本问题。"
+  },
+  {
+   "cn": "技术哲学",
+   "en": "philosophy of technology",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.187",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "从总体上研究技术和技术发展的普遍规律的学问。具体研究技术的本质和特征，分析技术的组成要素及其联系方式，揭示技术进步的内在机制，探究技术发明、技术创新的方法论以及技术在社会生产力中的地位和作用问题等。"
+  },
+  {
+   "cn": "发明哲学",
+   "en": "philosophy of invention",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.188",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "研究发明的概念与类型、本质与方法、机制与模式、性质与价值问题等的学问。"
+  },
+  {
+   "cn": "农业哲学",
+   "en": "philosophy of agriculture",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.254",
+   "subjectFullName": "自然辩证法_技术哲学_农业哲学",
+   "subjectName": "农业哲学",
+   "publishYear": "2024",
+   "definition": "关于农业和农业科学技术的本质特征和一般发展规律的哲学学问。作为自然辩证法学科的一个分支，研究内容包括辩证的农业观、农业科学观和农业技术观以及农业科学技术研究的认识论和方法论等。"
+  },
+  {
+   "cn": "建筑哲学",
+   "en": "philosophy of architecture",
+   "source": "自然辩证法名词",
+   "wordNumber": "05.029",
+   "subjectFullName": "自然辩证法_工程哲学_工程哲学概论",
+   "subjectName": "工程哲学概论",
+   "publishYear": "2024",
+   "definition": "以哲学观点和方法研究建筑活动和建筑物的学科。主要考察建筑的本质、建筑文化、建筑与人和社会的关系。"
+  },
+  {
+   "cn": "历史哲学",
+   "en": "philosophies of history",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "地理学哲学",
+   "en": "geographical philosophy",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "政治哲学",
+   "en": "political philosophy",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "自然环境保护哲学",
+   "en": "conservationist philosophy",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "建构主义原则",
+   "en": "principles of structuration",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "原理",
+   "en": "principle",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "原则",
+   "en": "principle",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "原理",
+   "en": "principle",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "相似原则",
+   "en": "principle of similarity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "等势原理",
+   "en": "principle of equipotentiality",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "接近原则",
+   "en": "principle of proximity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "微观可逆性原理",
+   "en": "principle of microreversibility",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "分配原则",
+   "en": "principle of allocation",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "互惠原则",
+   "en": "principle of reciprocity",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "竞争排斥原理，竞争排除原理",
+   "en": "competition exclusion principle\",\"principle of competitive exclusion",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "竞争排除原理（=竞争排斥原理）",
+   "en": "competition exclusion principle\",\"principle of competitive exclusion",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "动量守恒原理",
+   "en": "principle of conservation of momentum",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "质量守恒原理",
+   "en": "principle of conservation of mass",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "能量守恒原理",
+   "en": "principle of conservation of energy",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "熵增原理",
+   "en": "principle of entropy increase",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "数据哲学",
+   "en": "Data Philosophy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "治理理念",
+   "en": "governance philosophy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "谦抑性",
+   "en": "principle of restraint",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "“真、实、亲、诚”理念",
+   "en": "the philosophy of “true, practicability,",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生态文明理念",
+   "en": "the philosophy of ecological civilization",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《日内瓦原则宣言》",
+   "en": "Geneva Declaration of Principles",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "不伤害原则",
+   "en": "principle of non-maleficence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "标准编制原则",
+   "en": "principle of standards compilation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大节",
+   "en": "Major Principles",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "小节",
+   "en": "Minor Principles",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "统类",
+   "en": "Universal Principles",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "以人民为中心的发展思想",
+   "en": "the people-centered philosophy of development",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "万物之理",
+   "en": "Universal Principle",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "哲学",
+   "en": "philosophy",
+   "source": "马克思主义",
+   "wordNumber": "01.0001",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "源于希腊语“Φιλοσοφία”，意为“爱智慧”。汉译名源于日本启蒙家西周，后由黄遵宪、康有为等人介绍到中国。哲学是理论化、系统化的世界观和方法论，是关于自然、社会和思维发展一般规律的学说，是对具体科"
+  },
+  {
+   "cn": "科学哲学",
+   "en": "philosophy of science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.1.3",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学研究",
+   "subjectName": "科学研究",
+   "publishYear": "2025",
+   "definition": "从哲学角度考察科学的一门学科，是自然科学与社会科学的交叉学科。它以整个科学活动和科学理论为研究对象，主要探讨科学的本质、科学知识的获得和检验、科学的逻辑结构等有关科学认识论和科学方法论方面的基本问题。"
+  },
+  {
+   "cn": "自然哲学",
+   "en": "philosophy of nature",
+   "source": "马克思主义",
+   "wordNumber": "01.0005",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "一种凌驾于经验自然科学之上，运用对自然的哲学沉思而得出一般原理以解释自然界的构成、基本结构、基本规律及人与自然的关系等的一个哲学分支。其代表观点如德国古典哲学家谢林和黑格尔的自然哲学思想。"
+  },
+  {
+   "cn": "康德哲学",
+   "en": "philosophy of Kant",
+   "source": "马克思主义",
+   "wordNumber": "01.0117",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "德国古典哲学创始人康德的哲学体系，其核心是通过对理性的知、情、意功能的划分，为真（现象—知识）奠定基础，为善（物自体—自由）留下余地，美（合目的性）则是沟通两者的桥梁。其论著涉及宗教哲学、法哲学、历史"
+  },
+  {
+   "cn": "希望哲学",
+   "en": "philosophy of hope",
+   "source": "马克思主义",
+   "wordNumber": "05.0018",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "德国哲学家恩斯特·布洛赫（Ernst Bloch）的基本哲学思想。在布洛赫看来，马克思主义应该由客观冷静的经济分析（即“寒流”）和精神道德的倾向或乌托邦过剩（即“热流”）两方面组成。希望哲学集中于“热"
+  },
+  {
+   "cn": "实验哲学",
+   "en": "philosophy of experiment",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.191",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "对科学实验的本体论、方法论和知识论层面上的研究。"
+  },
+  {
+   "cn": "死亡哲学",
+   "en": "philosophy of death",
+   "source": "医学伦理学名词",
+   "wordNumber": "7.032",
+   "subjectFullName": "医学伦理学_临终关怀与死亡伦理",
+   "subjectName": "临终关怀与死亡伦理",
+   "publishYear": "2025",
+   "definition": "运用哲学范畴和理论，对人类的死亡现象、死亡规律及其本质进行研究的哲学学说。"
+  },
+  {
+   "cn": "社会哲学",
+   "en": "social philosophy",
+   "source": "社会学名词",
+   "wordNumber": "2.1.7.8",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会意识",
+   "subjectName": "社会意识",
+   "publishYear": "2025",
+   "definition": "用哲学的理论、观点和方法解释整体社会或社会事物构成、发展和变化的学说。哲学与社会学的交叉学科。"
+  },
+  {
+   "cn": "马克思主义哲学",
+   "en": "Marxist philosophy",
+   "source": "马克思主义",
+   "wordNumber": "01.0002",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "马克思和恩格斯创立的关于自然界、人类社会和思维发展最一般规律的科学，是无产阶级的世界观和方法论，是马克思主义学说的理论基础和重要组成部分。"
+  },
+  {
+   "cn": "思辩哲学",
+   "en": "speculative philosophy",
+   "source": "马克思主义",
+   "wordNumber": "01.0102",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "仅从抽象思想或概念运动中来说明和引申出一切事物的哲学学说。它认为概念先于事物存在并派生出事物，颠倒了物质与意识的辩证关系，是典型的唯心主义哲学。思辨哲学的主要代表有莱布尼茨（Gottfried Wil"
+  },
+  {
+   "cn": "实践哲学",
+   "en": "practical philosophy",
+   "source": "马克思主义",
+   "wordNumber": "05.0009",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "最初是由意大利马克思主义者拉布里奥拉（Antonio- Labriola）提出过的概念，葛兰西在《狱中札记》中对之做过较为系统的阐释，用以指称历史唯物主义和马克思主义，其主要见解是：（1）提倡“实践一"
+  },
+  {
+   "cn": "无调哲学",
+   "en": "atonal philosophy",
+   "source": "马克思主义",
+   "wordNumber": "05.0030",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "阿多诺从现代新音乐大师勋伯格（Arnold Schoenberg）那里吸取了一种非古典的“无调”音乐技巧，并把它用于对音乐和哲学的分析中。如果说勋伯格等人的“无调音乐”是音乐中的辩证法，无调哲学则是一"
+  },
+  {
+   "cn": "星丛哲学",
+   "en": "constellation philosophy",
+   "source": "马克思主义",
+   "wordNumber": "05.0031",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "星丛原是犹太教古老认知方法，阿多诺借用这一概念来打破同一性哲学的统治。星丛不是一而是多，不是静态的而是动态的，“让概念进入一个星丛”意味着概念不再封闭于主体的思想中，而是消除一切以人为中心的倾向，超越"
+  },
+  {
+   "cn": "医学哲学",
+   "en": "medical philosophy",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.1740000000000002",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学相关学科",
+   "subjectName": "医学伦理学相关学科",
+   "publishYear": "2025",
+   "definition": "以医学的发生、发展和实践活动中的根本性问题为研究对象的一门哲学学科。以人类生命的健康为逻辑起点，涉及医学的本体论、认识论、价值论、方法论和发展观等理论问题。"
+  },
+  {
+   "cn": "道德哲学",
+   "en": "moral philosophy",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.0070000000000001",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "对人类道德生活进行系统思考和规范的学科。主要研究善与应当、事实与价值、权利与义务等基础性的道德问题。"
+  },
+  {
+   "cn": "原则",
+   "en": "principle",
+   "source": "马克思主义",
+   "wordNumber": "04.0059",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "指导言论和行动的理论规定。在社会生活中，原则常被作为人们言行的准则。在具体科学中含有公理性质的意思。原则是人们在社会实践中对客观事物及其规律进行的抽象，是一般原理。原则具有相对稳定性，但并不是凝固不变"
+  },
+  {
+   "cn": "共济原则",
+   "en": "principle of solidarity",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.038",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "依据社会成员之间公正享有利益和义务的社会伦理理念，政府、社群和个体之间互助、密切合作解决公共卫生问题的行为准则。"
+  },
+  {
+   "cn": "相称性原则",
+   "en": "principle of proportionality",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.041",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "在公共卫生活动中，为了促进公共卫生、公众健康，所采取的可能且不可避免地影响个人权益或加重个人负担的任何措施，应能够达到服务目标人群的公共卫生目的，且不存在达到这一目的的更宽松措施的伦理准则。"
+  },
+  {
+   "cn": "洗消原则",
+   "en": "principle of decontamination",
+   "source": "消毒学",
+   "wordNumber": "2.1.1.1",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "在洗消处理过程中应遵循的准则。包括以下内容：将洗消与封锁自净紧密结合，对具有重要军事、经济意义以及与人员生活密切相关的污染地区和场所立即进行洗消处理，其他地区和场所则尽量采取封锁自净的处理。"
+  },
+  {
+   "cn": "因果关系判定原则",
+   "en": "principle of causality",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.3.8",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护",
+   "subjectName": "放射工作人员健康监护",
+   "publishYear": "2025",
+   "definition": "判定接触电离辐射与所患疾病之间的因果关系，应满足时序性原则、生物学合理性原则及生物学梯度原则。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

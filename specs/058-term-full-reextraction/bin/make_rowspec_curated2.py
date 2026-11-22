@@ -44,13 +44,18 @@ def variants(en):
 
 
 def main():
+    import argparse
+    ap = argparse.ArgumentParser()
+    ap.add_argument('--tsv', default='curated2-translations.tsv')
+    ap.add_argument('--out', default='rowspec-batch2.json')
+    ap.add_argument('--batch', default='058-batch2')
+    args = ap.parse_args()
     alias = set()
     for r in parse_registry_full(term_path())[0]:
         for part in r[0].split('/'):
             alias.add(norm_key_quote(part.strip()))
     rows, review = [], ['en\tmine\thit\tcn\tsource\tsubject\tmode']
-    for line in open(os.path.join(RES, 'curated2-translations.tsv'),
-                     encoding='utf-8'):
+    for line in open(os.path.join(RES, args.tsv), encoding='utf-8'):
         if not line.strip():
             continue
         en, zh = line.rstrip('\n').split('\t')
@@ -108,13 +113,13 @@ def main():
             (exact_phil or var_phil or [{}])[0].get('source') or '',
             ((exact_phil or var_phil or [{}])[0].get('subjectName') or ''),
             'DIFF' if cn != zh else 'same'))
-    out = {'batch': '058-batch2', 'date': '2026-11-22',
-           'scope': '全库提取第二批（术语在线优先：审定命中即采，无命中 A 档直裁）',
+    out = {'batch': args.batch, 'date': '2026-11-22',
+           'scope': '全库提取批次（术语在线优先：审定命中即采，无命中 A 档直裁）',
            'evidence': 'specs/008-terminology-campaign/results/queries/termonline-all/',
            'rows': rows}
-    json.dump(out, open(os.path.join(RES, 'rowspec-batch2.json'), 'w',
+    json.dump(out, open(os.path.join(RES, args.out), 'w',
                         encoding='utf-8', newline='\n'), ensure_ascii=False, indent=1)
-    open(os.path.join(RES, 'rowspec-batch2.review.tsv'), 'w', encoding='utf-8',
+    open(os.path.join(RES, args.out + '.review.tsv'), 'w', encoding='utf-8',
          newline='\n').write('\n'.join(review) + '\n')
     import collections
     print('rows=%d modes=%s diff=%d'

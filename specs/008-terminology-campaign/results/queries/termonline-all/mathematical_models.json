@@ -1,0 +1,652 @@
+{
+ "key": "mathematical models",
+ "term": "mathematical models",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-22T10:32:24+00:00",
+ "status": "ok",
+ "note": "variant=mathematical models; 审定公布名词库=4043; 海峡两岸名词对照库=1230; 其他来源数据库=199; 预公布名词数据库=225; jwt-direct（JWT 直连，raw 略；已滤维基 16 条）",
+ "hits": [
+  {
+   "cn": "数学模型",
+   "en": "mathematical model",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "01.019",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_通论",
+   "subjectName": "通论",
+   "publishYear": "2024",
+   "definition": "用数学抽象概括来描述原型对象，其原型可以是具体对象及其性质、关系，也可以是数学对象及其性质、关系。在系统工程中，通常把与系统机理或特性有关的数量关系归纳整理或推导成数学方程组，称其为系统的数学模型。"
+  },
+  {
+   "cn": "数学模型",
+   "en": "mathematical model",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.253",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "对自然、社会科学以及工程领域理论的数学描述（建模）。以求在数学概念的抽象层面上简化和逼近复杂的实际情形，从而揭示该理论的结构，分析其各部分的关联，并预测其行为。"
+  },
+  {
+   "cn": "数学模型",
+   "en": "mathematical model",
+   "source": "冶金学名词",
+   "wordNumber": "04.0755",
+   "subjectFullName": "冶金学_冶金物理化学_计算冶金物理化学",
+   "subjectName": "计算冶金物理化学",
+   "publishYear": "2019",
+   "definition": "对客观过程的特征和本质通过数学方程，以及逻辑关系进行概括和描述的数学表达方式。"
+  },
+  {
+   "cn": "数学模型",
+   "en": "mathematical model",
+   "source": "生物物理学名词",
+   "wordNumber": "07.005",
+   "subjectFullName": "生物物理学_生物控制论_生物控制论基础",
+   "subjectName": "生物控制论基础",
+   "publishYear": "2018",
+   "definition": "用数学语言定量地表述所研究系统的本质规律，其形式可以是数学表达式、方程组、逻辑准则和具体算法。如统计模型或某个计算流程图等。"
+  },
+  {
+   "cn": "数学模型",
+   "en": "mathematical model",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0681",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_系统工程",
+   "subjectName": "系统工程",
+   "publishYear": "2016",
+   "definition": "可以定量地精确分析系统的各种性质，描述系统组成部分之间数量关系的模型。"
+  },
+  {
+   "cn": "数学模型",
+   "en": "mathematical model",
+   "source": "物理医学与康复名词",
+   "wordNumber": "05.063",
+   "subjectFullName": "物理医学与康复_物理治疗与康复器具设备_康复工程与康复设备",
+   "subjectName": "康复工程与康复设备",
+   "publishYear": "2014",
+   "definition": "用数学形式表达物理现象和过程的数学描述。"
+  },
+  {
+   "cn": "数学模型",
+   "en": "mathematical model",
+   "source": "水产名词",
+   "wordNumber": "10.077",
+   "subjectFullName": "水产_渔业工程与渔港",
+   "subjectName": "渔业工程与渔港",
+   "publishYear": "2002",
+   "definition": "根据对研究对象所观察到的现象及实践经验，归结成的一套反映其内部因素数量关系的数学公式、逻辑准则和具体算法。用以描述和研究客观现象的运动规律。"
+  },
+  {
+   "cn": "数学模型",
+   "en": "mathematical model",
+   "source": "数学名词",
+   "wordNumber": "012.0371",
+   "subjectFullName": "数学_信息论_控制论_系统·控制（数学）",
+   "subjectName": "系统?控制（数学）",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "数学模型",
+   "en": "mathematical model",
+   "source": "自动化名词",
+   "wordNumber": "02.001",
+   "subjectFullName": "自动化科学技术_控制理论_经典控制论",
+   "subjectName": "经典控制论",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "数学模型方法",
+   "en": "mathematical modeling",
+   "source": "冶金学名词",
+   "wordNumber": "04.0756",
+   "subjectFullName": "冶金学_冶金物理化学_计算冶金物理化学",
+   "subjectName": "计算冶金物理化学",
+   "publishYear": "2019",
+   "definition": "通过在建立和求解数学模型基础上的分析研究来认识事物的方法。"
+  },
+  {
+   "cn": "地下水数学模型",
+   "en": "groundwater mathematical model",
+   "source": "地质学名词",
+   "wordNumber": "16.05.098",
+   "subjectFullName": "地质学_水文地质学_水文地质调查",
+   "subjectName": "水文地质调查",
+   "publishYear": "2026",
+   "definition": "以水文地质概念模型为基础建立起来的，能刻画和再现实际地下水系统结构、运动特征和各种渗透要素的一组数学关系式。分为确定性模型和随机模型，或者分为集中参数模型和分布参数模型等。"
+  },
+  {
+   "cn": "泥沙数学模型",
+   "en": "sediment mathematical model",
+   "source": "电力名词",
+   "wordNumber": "13.069",
+   "subjectFullName": "电力_水力发电",
+   "subjectName": "水力发电",
+   "publishYear": "2020",
+   "definition": "建立数学方程组,用以研究和预测在自然情况下和人为影响后的河流泥沙和河床的变化。"
+  },
+  {
+   "cn": "油藏数学模型",
+   "en": "reservoir mathematical model",
+   "source": "石油名词",
+   "wordNumber": "11.0323",
+   "subjectFullName": "石油_油气田开发与开采_油藏模拟",
+   "subjectName": "油藏模拟",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "地图数学模型",
+   "en": "map mathematic model",
+   "source": "地理学名词",
+   "wordNumber": "27.191",
+   "subjectFullName": "地理学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2006",
+   "definition": "描绘地图内容和制作过程的数学逻辑方法。"
+  },
+  {
+   "cn": "负荷数学模型",
+   "en": "mathematical model of load",
+   "source": "电力名词",
+   "wordNumber": "04.163",
+   "subjectFullName": "电力_电力系统",
+   "subjectName": "电力系统",
+   "publishYear": "2020",
+   "definition": "负荷特性的数学表达。"
+  },
+  {
+   "cn": "土壤侵蚀数学模型",
+   "en": "soil erosion mathematical model",
+   "source": "土壤学名词",
+   "wordNumber": "08.117",
+   "subjectFullName": "土壤学_土壤侵蚀与水土保持",
+   "subjectName": "土壤侵蚀与水土保持",
+   "publishYear": "1998",
+   "definition": "以田间试验为基础，通过土壤侵蚀因子参数与侵蚀量相关性分析建立的数学方程。"
+  },
+  {
+   "cn": "资源信息数学模型",
+   "en": "resources information mathematic model ",
+   "source": "草学名词",
+   "wordNumber": "3.0399",
+   "subjectFullName": "草学_草地资源与利用",
+   "subjectName": "草地资源与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "数学",
+   "en": "mathematics",
+   "source": "数学名词",
+   "wordNumber": "01.0001",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "数学模式",
+   "en": "mathematical model;Shannon and Weaver model",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.172",
+   "subjectFullName": "新闻学与传播学_传播总论_模式与方法",
+   "subjectName": "模式与方法",
+   "publishYear": "2022",
+   "definition": "由信息学者克劳德·香农(Claude Elwood Shannon)和华伦·韦弗(Warren Weaver)提出的传播模式。最初是描述电子通信过程的。它将传播分为信源、讯息、发射器、信号、渠道、接收"
+  },
+  {
+   "cn": "电力系统数学模型",
+   "en": "mathematical model of power system",
+   "source": "电力名词",
+   "wordNumber": "04.082",
+   "subjectFullName": "电力_电力系统",
+   "subjectName": "电力系统",
+   "publishYear": "2020",
+   "definition": "采用合适的数学方程,描述电力系统的物理特性和物理过程,使其达到用数学方法求解要求的数学表达式。"
+  },
+  {
+   "cn": "数学模型",
+   "en": "mathematical model",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "数学模型",
+   "en": "mathematical model",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "数学模型",
+   "en": "mathematical model",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "数学模型",
+   "en": "mathematical model",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "数学模拟",
+   "en": "mathematical modeling",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "地图数学模型",
+   "en": "map mathematic model",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "数理气候",
+   "en": "mathematical climate",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数理统计[学]",
+   "en": "mathematical statistics",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数学模拟",
+   "en": "mathematical simulation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数学程序",
+   "en": "mathematical programming",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "数学心理学",
+   "en": "mathematical psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "数学生态学",
+   "en": "mathematical ecology",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "数理地理学",
+   "en": "mathematical geography",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "数学地图学",
+   "en": "mathematical cartography",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "数学规划",
+   "en": "mathematical programming",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "数学表达式",
+   "en": "mathematical expression",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "数学函数",
+   "en": "mathematical function",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "[数学]期望",
+   "en": "mathematical expectation",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "数学大地测量学",
+   "en": "mathematical geodesy",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "数学地图学，地图投影学",
+   "en": "mathematical cartography",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "数学应用",
+   "en": "Mathematical Application",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数理统计",
+   "en": "Mathematical Statistics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "计算数学",
+   "en": "computational mathematics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "离散数学",
+   "en": "discrete mathematics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数学障碍",
+   "en": "mathematics disorder",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.2.3.2.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "以数字信息处理加工、学习计算、计算的准确性或流畅性明显受损为特征的一种特定学习障碍。"
+  },
+  {
+   "cn": "数理经济学派",
+   "en": "mathematical economics school",
+   "source": "马克思主义",
+   "wordNumber": "05.0168",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "在日本，将数学手段应用于马克思主义经济学的研究是在越村信三郎等人的早期研究基础上，通过置盐信雄得以实现的，数理马克思经济学派以此得以在日本学界确立其地位。"
+  },
+  {
+   "cn": "型号",
+   "en": "model",
+   "source": "消毒学",
+   "wordNumber": "5.2.8",
+   "subjectFullName": "消毒学_监督管理_产品监管",
+   "subjectName": "产品监管",
+   "publishYear": "2025",
+   "definition": "用来区别不同消毒器械的编号。"
+  },
+  {
+   "cn": "计算困难",
+   "en": "impairment in mathematics, dyscalculia",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.2.2.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_儿童少年心理卫生问题",
+   "subjectName": "儿童少年心理卫生问题",
+   "publishYear": "2025",
+   "definition": "个体在学习或理解数字和数字材料方面存在明显困难的一种学习障碍。"
+  },
+  {
+   "cn": "建模后相加模型",
+   "en": "model-then-add model",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.90",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "一种用于分析具有层次结构数据的统计模型。"
+  },
+  {
+   "cn": "传统模式",
+   "en": "traditional model",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.071000000000001",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "在布朗斯坦提出的医患关系模式中，指医务人员只是关心疾病的处理、科学知识的解释以及标准技术和常规技能的应用，较少考虑患者的期望和感受的一种模式类型。在该种模式中医生拥有绝对权威，患者被动服从医生的判断与"
+  },
+  {
+   "cn": "模型膳食",
+   "en": "model diets",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.54",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "一种假设固定的默认消费水平的膳食暴露评估筛选方法，通常用于食品和饮料分类。"
+  },
+  {
+   "cn": "概率单位模型",
+   "en": "Probit model",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.76",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "一种二元响应模型，由切斯特·布利斯（Chester Bliss）提出。"
+  },
+  {
+   "cn": "隔室模型",
+   "en": "compartment model",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.41",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "以隔室为组成单位，用动力学参数表达进入体内的放射性核素在体内转运规律的数学模型。"
+  },
+  {
+   "cn": "关联模型",
+   "en": "association model",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.70",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "一组用以拟合交叉分类表格的观测频次，从而度量两个或多个有序的类别变量的联系强度的统计模型。"
+  },
+  {
+   "cn": "模型设定",
+   "en": "model specification",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.97",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "建立自变量与因变量及其关系的过程。包括变量的构成、函数形式的选择和误差项的假定。"
+  },
+  {
+   "cn": "对数单位模型",
+   "en": "logit model",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.103",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "将某一变量的某个类别的几率作为因变量，其他变量作为自变量的一种分析定类数据的模型。在数学上等价于对数线性模型。"
+  },
+  {
+   "cn": "概率单位模型",
+   "en": "probit model",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.106",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "因变量为两分变量，应用概率单位链接函数的回归模型。"
+  },
+  {
+   "cn": "边缘模型",
+   "en": "marginal model",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.112",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "对一组变量的边缘分布、甚至它们的联合分布设定限制的统计模型。"
+  },
+  {
+   "cn": "饱和模型",
+   "en": "saturated model",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.116",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "参数数量等于数据值的统计模型。"
+  },
+  {
+   "cn": "发展模式",
+   "en": "development model",
+   "source": "社会学名词",
+   "wordNumber": "2.9.7.1",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_发展模式",
+   "subjectName": "发展模式",
+   "publishYear": "2025",
+   "definition": "一些国家或地区在发展过程中遵循或形成的独特的发展原则、发展方向、发展道路、发展方式等。"
+  },
+  {
+   "cn": "“社会—心理”模式",
+   "en": "psychosocial model",
+   "source": "社会学名词",
+   "wordNumber": "4.4.8.5",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的方法模式",
+   "subjectName": "社会工作的方法模式",
+   "publishYear": "2025",
+   "definition": "最具社会工作特点的一种治疗模式，也是个案工作中经常采用的传统治疗模式之一，与行为矫正模式、人本治疗模式一起并称为“当代三大个案工作治疗模式”。借助“人在情境中”的基本原理将心理和社会因素结合起来，强调"
+  },
+  {
+   "cn": "治疗模式",
+   "en": "remedial model",
+   "source": "社会学名词",
+   "wordNumber": "4.4.8.14",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的方法模式",
+   "subjectName": "社会工作的方法模式",
+   "publishYear": "2025",
+   "definition": "将小组工作与个案工作有机结合起来的一种小组工作方法模式或类型。通过提供服务给具有不同需要的个体，利用小组的经验来克服组员的个人心理、社会与文化的适应问题等，协助个人康复，获得最佳的社会功能。"
+  },
+  {
+   "cn": "互动模式",
+   "en": "reciprocal model",
+   "source": "社会学名词",
+   "wordNumber": "4.4.8.15",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的方法模式",
+   "subjectName": "社会工作的方法模式",
+   "publishYear": "2025",
+   "definition": "强调小组成员的相互关系和满足组员需要的小组工作模式，代表人物是施瓦茨(H.Schwarz）。该模式关注个人与社会之间的关系，强调小组工作者运用小组来克服危机和压力，促成社会功能的实现，进而使个人获得“"
+  },
+  {
+   "cn": "折中模式",
+   "en": "eclectic model",
+   "source": "社会学名词",
+   "wordNumber": "4.4.8.16",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的方法模式",
+   "subjectName": "社会工作的方法模式",
+   "publishYear": "2025",
+   "definition": "主张多重目标的小组工作模式。其认为任何小组工作的实施，不可能只靠单一方法就能达到目标，而是要灵活地运用不同的方法。在小组中，社会工作者应给予小组成员较大的行动空间和相对大的自由与民主，小组则应该提供更"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

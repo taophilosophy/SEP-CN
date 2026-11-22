@@ -1,0 +1,672 @@
+{
+ "key": "information processing",
+ "term": "information processing",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-22T10:33:35+00:00",
+ "status": "ok",
+ "note": "variant=information processing; 审定公布名词库=5672; 海峡两岸名词对照库=1582; 其他来源数据库=644; 预公布名词数据库=171; jwt-direct（JWT 直连，raw 略；已滤维基 14 条）",
+ "hits": [
+  {
+   "cn": "信息处理",
+   "en": "information processing",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.091",
+   "subjectFullName": "新闻学与传播学_传播总论_传播研究基础",
+   "subjectName": "传播研究基础",
+   "publishYear": "2022",
+   "definition": "人或机器对讯息或信息进行接收、解码、计算、加工、存储、传递与发布的过程。"
+  },
+  {
+   "cn": "信息处理",
+   "en": "information processing",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.01.002",
+   "subjectFullName": "编辑与出版学_编辑_选题",
+   "subjectName": "选题",
+   "publishYear": "2022",
+   "definition": "将采集到的信息经过选择、加工，转换成便于存储、传递和利用的形式的活动。"
+  },
+  {
+   "cn": "信息加工",
+   "en": "information processing",
+   "source": "行为医学名词",
+   "wordNumber": "4.055",
+   "subjectFullName": "行为医学_行为的心理学基础_认知与行为",
+   "subjectName": "认知与行为",
+   "publishYear": "2022",
+   "definition": "刺激从输入至反应输出之间发生的内部心理过程。包括信息的输入、存储、编码、解释、提取等。"
+  },
+  {
+   "cn": "信息加工",
+   "en": "information processing",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0146",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_管理信息系统",
+   "subjectName": "管理信息系统",
+   "publishYear": "2016",
+   "definition": "对收集来的信息进行去伪存真、去粗取精、由表及里、由此及彼的处理过程。"
+  },
+  {
+   "cn": "信息处理",
+   "en": "information processing",
+   "source": "航海科技名词",
+   "wordNumber": "15.1036",
+   "subjectFullName": "航海科学技术_轮机管理",
+   "subjectName": "轮机管理",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "信息处理",
+   "en": "information processing",
+   "source": "电子学名词",
+   "wordNumber": "05.177",
+   "subjectFullName": "电子学_信息论与信号处理技术",
+   "subjectName": "信息论与信号处理技术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "信息加工理论",
+   "en": "information processing theory",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.565",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "将认知看作对来自主体内部状态或外部环境中的信息的接收、编码、储存、提取、使用过程的认知研究范式与理论。"
+  },
+  {
+   "cn": "信息加工理论",
+   "en": "information processing theory",
+   "source": "心理学名词",
+   "wordNumber": "02.010",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "把人的认知过程看作是信息接受、编码、储存和提取过程，通过人机类比来研究认知的理论。"
+  },
+  {
+   "cn": "信息加工模型",
+   "en": "information processing model",
+   "source": "心理学名词",
+   "wordNumber": "02.011",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "以信息加工的观点来说明人的认知结构、过程和功能的模型。"
+  },
+  {
+   "cn": "信息处理用房",
+   "en": "information processing room",
+   "source": "建筑学名词",
+   "wordNumber": "02.0317",
+   "subjectFullName": "建筑学_建筑类型及组成_文化博览建筑",
+   "subjectName": "文化博览建筑",
+   "publishYear": "2014",
+   "definition": "满足图书馆信息技术服务功能的用房。包括信息的显示、摄取、变换、传递、存储、识别、加工等所有的信息处理过程。"
+  },
+  {
+   "cn": "信息处理系统",
+   "en": "information processing system",
+   "source": "生态学名词",
+   "wordNumber": "07.281",
+   "subjectFullName": "生态学_生态系统生态学",
+   "subjectName": "生态系统生态学",
+   "publishYear": "2006",
+   "definition": "为了不同目的而实施的对信息进行的加工和变换。"
+  },
+  {
+   "cn": "社交信息加工论",
+   "en": "social information processing",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "8.134",
+   "subjectFullName": "新闻学与传播学_人际沟通_人际沟通模式与理论",
+   "subjectName": "人际沟通模式与理论",
+   "publishYear": "2022",
+   "definition": "由美国传播学者约瑟夫·瓦尔特在1992年的论文《计算机中介互动中的人际效果：一种关系的视角》中提出。网络人际沟通者与面对面环境下建立和发展人际关系的沟通者具有相同的愿望。只要时间充足，凭借不断积累的人"
+  },
+  {
+   "cn": "资源信息处理",
+   "en": "resources information processing ",
+   "source": "草学名词",
+   "wordNumber": "3.0322",
+   "subjectFullName": "草学_草地资源与利用",
+   "subjectName": "草地资源与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "内部信息加工",
+   "en": "inner information processing",
+   "source": "行为医学名词",
+   "wordNumber": "4.057",
+   "subjectFullName": "行为医学_行为的心理学基础_认知与行为",
+   "subjectName": "认知与行为",
+   "publishYear": "2022",
+   "definition": "输入和输出之间发生的信息整合、处理等内部心理过程。通过知觉、记忆、思维等形成外部事物的心理表征。"
+  },
+  {
+   "cn": "光信息处理",
+   "en": "optical information processing",
+   "source": "光学名词",
+   "wordNumber": "23.098",
+   "subjectFullName": "光学_光全息与光存储技术",
+   "subjectName": "光全息与光存储技术",
+   "publishYear": "2021",
+   "definition": "不将承载信息的光信号转换为电信号，在光域直接对光信号承载的信息进行处理的技术。比如光学傅里叶变换、光空间滤波等。"
+  },
+  {
+   "cn": "中文信息处理",
+   "en": "Chinese information processing",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.1052",
+   "subjectFullName": "计算机科学技术_计算机应用_中文信息处理",
+   "subjectName": "中文信息处理",
+   "publishYear": "2018",
+   "definition": "对中文的音、形、义等信息进行的处理，是自然语言信息处理的一个分支。包括对汉语和少数民族语言文字的处理。"
+  },
+  {
+   "cn": "计算机信息处理",
+   "en": "computer information processing",
+   "source": "计算机科学技术名词",
+   "wordNumber": "01.0067",
+   "subjectFullName": "计算机科学技术_通论_计算模式",
+   "subjectName": "计算模式",
+   "publishYear": "2018",
+   "definition": "计算机数据处理中，多指对已经提取其语义的数据（即信息）的加工处理。"
+  },
+  {
+   "cn": "信息加工模式",
+   "en": "information-processing model",
+   "source": "教育学名词",
+   "wordNumber": "02.195",
+   "subjectFullName": "教育学_课程与教学",
+   "subjectName": "课程与教学",
+   "publishYear": "2013",
+   "definition": "依据认知主义的信息加工理论而建立的教学模式。把教学看作是一种创造性的信息加工过程，教学方法有概念获得的探究方法、范例教学、有意义接受学习、发现学习、调查方法。"
+  },
+  {
+   "cn": "信息加工分析",
+   "en": "information-processing analysis",
+   "source": "教育学名词",
+   "wordNumber": "13.026",
+   "subjectFullName": "教育学_教育技术",
+   "subjectName": "教育技术",
+   "publishYear": "2013",
+   "definition": "将教学目标所要求的心理或操作过程揭示出来的一种内容分析方法。"
+  },
+  {
+   "cn": "资源信息处理",
+   "en": "resource information processing",
+   "source": "资源科学技术名词",
+   "wordNumber": "06.015",
+   "subjectFullName": "资源科学技术_资源信息学",
+   "subjectName": "资源信息学",
+   "publishYear": "2008",
+   "definition": "对获取的资源信息，用一定设备和手段，按一定的要求、目的和步骤进行加工的全过程。包括信息加工、分析、传递、存储、检索和输出等。"
+  },
+  {
+   "cn": "信息处理",
+   "en": "information processing",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "信息加工",
+   "en": "information processing",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "信息处理",
+   "en": "information processing",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "信息处理",
+   "en": "information processing\",\"IP",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "信息加工隐喻",
+   "en": "information processing metaphor",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "信息加工理论",
+   "en": "information processing theory",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "信息加工偏倚，信息加工偏误",
+   "en": "information processing bias",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "信息加工模型",
+   "en": "information processing model",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "信息处理机",
+   "en": "information processing machine",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "社会信息加工",
+   "en": "social information processing",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "认知信息加工",
+   "en": "cognitive information processing",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "选择性信息加工",
+   "en": "selective information processing",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "海洋信息处理",
+   "en": "marine information processing",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "多语种信息处理",
+   "en": "multilingual information processing",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "光信息处理",
+   "en": "optical information processing",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "汉语信息处理",
+   "en": "Chinese information processing",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "知识信息处理",
+   "en": "knowledge information processing",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "汉字信息处理",
+   "en": "Hanzi information processing\",\"Chinese character information processing",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "信息处理系统",
+   "en": "information processing system\",\"IPS",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "信息处理语言",
+   "en": "information processing language\",\"IPL",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "交易过程信息",
+   "en": "information on the trading process",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信息",
+   "en": "information",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信息技术",
+   "en": "information technology",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信息级联",
+   "en": "information cascade",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信息通信",
+   "en": "Information Communication",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信息论",
+   "en": "information theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "少数民族语言文字信息化",
+   "en": "minority language information processing",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0206",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "以计算机为智能化工具对非通用的少数民族语言文字开展信息处理的过程。"
+  },
+  {
+   "cn": "报道人",
+   "en": "informant",
+   "source": "社会学名词",
+   "wordNumber": "4.2.7.3",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学方法",
+   "subjectName": "人类学方法",
+   "publishYear": "2025",
+   "definition": "人类学田野工作中的信息提供者。经过文化濡化且具有更深刻感受力，是田野民族志生产的主要合作者。"
+  },
+  {
+   "cn": "报道人",
+   "en": "informant",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0009",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "人类学家在田野调查中结识的能帮他们了解当地文化的当地人。"
+  },
+  {
+   "cn": "过程",
+   "en": "process",
+   "source": "马克思主义",
+   "wordNumber": "01.0092",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "物质运动在时间上的持续和在空间上的广延，是矛盾存在和发展的形式。唯物辩证法认为，过程是物质、运动和时间、空间的辩证统一。任何事物都是过程的集合体，都是作为过程而出现并向前发展的。"
+  },
+  {
+   "cn": "非正式经济",
+   "en": "informal economy\\informal sector",
+   "source": "社会学名词",
+   "wordNumber": "3.5.1.3",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "由哈特(Keith Hart）提出的概念，最初被用于指称第三世界的自主就业，后被发展为泛称未登记、未报告、不受国家规范约束也不受保护而获得收入的经济行为。"
+  },
+  {
+   "cn": "信息告知",
+   "en": "information disclosure",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.014",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "一方告知另一方有关信息，以便决策。医务人员在实施医疗或科研方案前，按照国家法律法规、诊疗规范、伦理要求，应将患者或研究参与者需要接受的检查、病情、诊断结果、可供选择或接受的医学方案、可能的预后和风险，"
+  },
+  {
+   "cn": "信息偏倚",
+   "en": "information bias",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.1.5.7",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "由于测量暴露或结局的方法不准确或不统一导致从研究对象获取的信息错误而产生的系统误差。包含无差异错误分类和有差异错误分类。"
+  },
+  {
+   "cn": "公众信息",
+   "en": "public information",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.26.4",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "与公众进行交流的信息。由于可能不属于风险的议题，不全部都是风险沟通的资料，但是大多数风险沟通资料将都传递给公众。"
+  },
+  {
+   "cn": "信息社会",
+   "en": "information society",
+   "source": "社会学名词",
+   "wordNumber": "2.1.2.4",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会形式",
+   "subjectName": "社会形式",
+   "publishYear": "2025",
+   "definition": "在工业化基础上，以互联网、物联网（包括云计算、大数据、人工智能等）为代表的信息化日益起到突出作用的社会。与后工业社会概念意义相近。"
+  },
+  {
+   "cn": "卫生信息",
+   "en": "health information",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.2.5",
+   "subjectFullName": "卫生经济学名词_卫生经济学_卫生体系",
+   "subjectName": "卫生体系",
+   "publishYear": "2025",
+   "definition": "首要目的用于维持和改善健康而收集、传输、处理、存贮、分配和分析利用的各种信息。"
+  },
+  {
+   "cn": "信息不对称",
+   "en": "information asymmetry ",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.2.3.2",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场",
+   "subjectName": "卫生服务市场",
+   "publishYear": "2025",
+   "definition": "在医疗卫生服务市场交易中，服务提供者（医生）与消费者（患者）之间存在各自拥有的信息不均衡的现象。"
+  },
+  {
+   "cn": "信息规制",
+   "en": "information regulation",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.4.2.1.3",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场政府作用",
+   "subjectName": "卫生服务市场政府作用",
+   "publishYear": "2025",
+   "definition": "政府公布信息或者规定信息处于强势地位的一方应向信息处于弱势地位的一方提供商品或服务的详细和准确信息，以减少信息不对称带来的负面影响的规制方式。"
+  },
+  {
+   "cn": "信息租金",
+   "en": "information rent",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.1.1.1",
+   "subjectFullName": "卫生经济学名词_信息与技术_卫生信息经济学",
+   "subjectName": "卫生信息经济学",
+   "publishYear": "2025",
+   "definition": "在一项交易活动中，交易一方凭借其信息优势而获得的、高于市场平均收益的超额回报金额。"
+  },
+  {
+   "cn": "信息可见性",
+   "en": "information visibility",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.1.1.2",
+   "subjectFullName": "卫生经济学名词_信息与技术_卫生信息经济学",
+   "subjectName": "卫生信息经济学",
+   "publishYear": "2025",
+   "definition": "一种对信息存在特性的描述。"
+  },
+  {
+   "cn": "信息时效性",
+   "en": "information timeliness",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.1.1.5",
+   "subjectFullName": "卫生经济学名词_信息与技术_卫生信息经济学",
+   "subjectName": "卫生信息经济学",
+   "publishYear": "2025",
+   "definition": "信息发挥作用是有时间限度的，在恰当的时刻得以利用才会发挥其最大效能的特性。"
+  },
+  {
+   "cn": "信息过载",
+   "en": "information overload",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.1.1.7",
+   "subjectFullName": "卫生经济学名词_信息与技术_卫生信息经济学",
+   "subjectName": "卫生信息经济学",
+   "publishYear": "2025",
+   "definition": "卫生信息超过了医护人员患者等个人或医疗系统所能接受、处理或有效利用的范围的一种状态。"
+  },
+  {
+   "cn": "信息安全",
+   "en": "information security",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.1.3.1.1",
+   "subjectFullName": "卫生经济学名词_信息与技术_卫生信息经济学",
+   "subjectName": "卫生信息经济学",
+   "publishYear": "2025",
+   "definition": "为卫生信息数据处理系统建立和采用的技术，保护医疗卫生系统中的数据信息等免受偶然和恶意的原因而遭到破坏、更改和泄露。"
+  },
+  {
+   "cn": "信息治理",
+   "en": "information governance",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.1.3.1.4",
+   "subjectFullName": "卫生经济学名词_信息与技术_卫生信息经济学",
+   "subjectName": "卫生信息经济学",
+   "publishYear": "2025",
+   "definition": "通过制定和实施法律、制度、规范和政策，对医疗卫生信息的全生命周期进行系统性管理和控制，以确保卫生信息的有效性和高效性。"
+  },
+  {
+   "cn": "信息保障",
+   "en": "information assurance",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.6.1.5.4.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学校突发公共卫生事件管理",
+   "subjectName": "学校突发公共卫生事件管理",
+   "publishYear": "2025",
+   "definition": "利用信息技术实施学校突发公共卫生事件及相关信息收集、处理、分析、发布和传递等工作，并采取分级负责的方式进行实施的活动。"
+  },
+  {
+   "cn": "信息理解",
+   "en": "information understanding",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.015",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "真正明白所告知信息。医务人员在向患者或研究参与者说明医学信息时，应考虑到其具体情况，进行充分、全面、易懂的告知，并及时解答其咨询，其才能真正明白，最终做出决策。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

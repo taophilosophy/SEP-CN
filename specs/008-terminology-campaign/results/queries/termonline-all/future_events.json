@@ -1,0 +1,792 @@
+{
+ "key": "future events",
+ "term": "future events",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-22T10:33:21+00:00",
+ "status": "ok",
+ "note": "variant=future events; 审定公布名词库=2217; 海峡两岸名词对照库=646; 其他来源数据库=176; 预公布名词数据库=220; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "未来",
+   "en": "future",
+   "source": "物理学名词",
+   "wordNumber": "06.0075",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "期货",
+   "en": "futures",
+   "source": "农学名词",
+   "wordNumber": "19.105",
+   "subjectFullName": "农业经济与管理_农业市场与贸易",
+   "subjectName": "农业市场与贸易",
+   "publishYear": "2025",
+   "definition": "由期货交易场所统一制定的，将来在某一规定的时间和地点交割一定数量商品的标准化交易合约。"
+  },
+  {
+   "cn": "未来主义",
+   "en": "futurism",
+   "source": "建筑学名词",
+   "wordNumber": "03.0349",
+   "subjectFullName": "建筑学_中外建筑历史_外国19~20世纪建筑",
+   "subjectName": "外国19~20世纪建筑",
+   "publishYear": "2014",
+   "definition": "约1909~1913年间兴起于意大利的前卫建筑思潮。源于马里内蒂(Filippo Tommaso Marinetti)提出的未来主义思想，激烈反对旧的文化和美学观念，歌颂新时代的科技、机械、速度、鲁莽"
+  },
+  {
+   "cn": "指向未来",
+   "en": "future pointing,future-pointing",
+   "source": "物理学名词",
+   "wordNumber": "06.0118",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "终值",
+   "en": "future value",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "13.011",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_化工技术经济",
+   "subjectName": "化工技术经济",
+   "publishYear": "2024",
+   "definition": "一定货币量在将来时间的价值，即一定量的货币按一定利率计算的，在某一时限后的本利之和。"
+  },
+  {
+   "cn": "期货合同",
+   "en": "future contract",
+   "source": "电力名词",
+   "wordNumber": "06.433",
+   "subjectFullName": "电力_调度与通信、电力市场",
+   "subjectName": "调度与通信、电力市场",
+   "publishYear": "2020",
+   "definition": "标准化的金融交易合同。对于要购买或者出售的商品或金融产品,期货合约给出在未来一段时间内的交易量和价格,该合约的内容包括数量、价格、交货地点、交货时间、最后一个交易日或结算日等。"
+  },
+  {
+   "cn": "绝对未来",
+   "en": "absolute future",
+   "source": "物理学名词",
+   "wordNumber": "06.0078",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "终值",
+   "en": "future value",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0480",
+   "subjectFullName": "管理科学技术_会计_公司财务",
+   "subjectName": "公司财务",
+   "publishYear": "2016",
+   "definition": "一笔资金经过一个时期或多个时期以后的价值。即本金与利息之和。"
+  },
+  {
+   "cn": "终值",
+   "en": "future worth",
+   "source": "水利科学技术名词",
+   "wordNumber": "16.059",
+   "subjectFullName": "水利科学技术_水利经济_资金的时间价值（水利）",
+   "subjectName": "资金的时间价值（水利）",
+   "publishYear": "1997",
+   "definition": "一笔现有的资金按规定折现率，换算至将来某年年终所得的价值。"
+  },
+  {
+   "cn": "将来值",
+   "en": "future value",
+   "source": "化学工程名词",
+   "wordNumber": "05.238",
+   "subjectFullName": "化学工程_过程系统工程_过程评价",
+   "subjectName": "过程评价",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "棉花期货",
+   "en": "cotton futures",
+   "source": "农学名词",
+   "wordNumber": "04.050",
+   "subjectFullName": "经济作物_纤维作物",
+   "subjectName": "纤维作物",
+   "publishYear": "2025",
+   "definition": "棉花作为标的物的期货交易品种。中国有郑州商品交易所生成的中国棉花期货和价格，美国有洲际交易所生成的棉花期货和价格。"
+  },
+  {
+   "cn": "期货交易",
+   "en": "futures trading",
+   "source": "农学名词",
+   "wordNumber": "19.106",
+   "subjectFullName": "农业经济与管理_农业市场与贸易",
+   "subjectName": "农业市场与贸易",
+   "publishYear": "2025",
+   "definition": "以期货或期权为交易标的的一种交易活动。"
+  },
+  {
+   "cn": "期货市场",
+   "en": "futures market",
+   "source": "农学名词",
+   "wordNumber": "19.107",
+   "subjectFullName": "农业经济与管理_农业市场与贸易",
+   "subjectName": "农业市场与贸易",
+   "publishYear": "2025",
+   "definition": "进行期货交易的场所或系统。"
+  },
+  {
+   "cn": "期货市场",
+   "en": "futures market",
+   "source": "经济学名词",
+   "wordNumber": "04.052",
+   "subjectFullName": "经济学_宏观经济学",
+   "subjectName": "宏观经济学",
+   "publishYear": "2020",
+   "definition": "进行期货交易的场所。是多种期货交易关系的总和。从组织结构上看，广义上的期货市场包括期货交易所、结算所或结算公司、经纪公司和期货交易员；狭义上的期货市场仅指期货交易所。"
+  },
+  {
+   "cn": "石油期货",
+   "en": "oil futures",
+   "source": "化工名词（一）石油炼制·煤制油及天然气·生物质制油",
+   "wordNumber": "01.0133",
+   "subjectFullName": "化工（一）_总论_技术经济",
+   "subjectName": "技术经济",
+   "publishYear": "2017",
+   "definition": "标的物为石油产品（石油、天然气、炼制产品）的期货。是能源期货的一个交易品种。"
+  },
+  {
+   "cn": "商品期货",
+   "en": "commodity futures",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0523",
+   "subjectFullName": "管理科学技术_金融工程_产品与服务",
+   "subjectName": "产品与服务",
+   "publishYear": "2016",
+   "definition": "标的物为实物商品的期货合约。"
+  },
+  {
+   "cn": "期货基金",
+   "en": "futures fund",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0602",
+   "subjectFullName": "管理科学技术_金融工程_产品与服务",
+   "subjectName": "产品与服务",
+   "publishYear": "2016",
+   "definition": "专门用于期货合约交易的共同基金。"
+  },
+  {
+   "cn": "金属期货",
+   "en": "metal futures",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0524",
+   "subjectFullName": "管理科学技术_金融工程_产品与服务",
+   "subjectName": "产品与服务",
+   "publishYear": "2016",
+   "definition": "以金属商品为标的物的期货合约。"
+  },
+  {
+   "cn": "期货市场",
+   "en": "futures market",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0666",
+   "subjectFullName": "管理科学技术_金融工程_金融市场与机构",
+   "subjectName": "金融市场与机构",
+   "publishYear": "2016",
+   "definition": "进行期货合约买卖的市场。根据期货买卖种类的不同，可分为商品期货市场和金融期货市场。"
+  },
+  {
+   "cn": "指数期货",
+   "en": "index futures",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0519",
+   "subjectFullName": "管理科学技术_金融工程_产品与服务",
+   "subjectName": "产品与服务",
+   "publishYear": "2016",
+   "definition": "以股票指数或其他指数为标的的期货。"
+  },
+  {
+   "cn": "期货",
+   "en": "futures",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "未来主义",
+   "en": "futurism",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "金融期货",
+   "en": "financial future",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "期货价格",
+   "en": "future price",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "期货交易",
+   "en": "future business",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "①期货交易所 ②期货外汇",
+   "en": "future exchange",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "期货市场",
+   "en": "future market",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "远期交货，期货交割",
+   "en": "future delivery",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "指数期货",
+   "en": "index future",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "货币期货",
+   "en": "currency futures",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "商品期货",
+   "en": "commodity futures",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "事件",
+   "en": "event",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "事件",
+   "en": "event",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "购买期货",
+   "en": "purchase of future",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "股票指数期货",
+   "en": "stock index future",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "利率期货",
+   "en": "interest rate future",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "期货交易",
+   "en": "dealing in future",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "期货交易",
+   "en": "future goods transaction",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "期货清算所",
+   "en": "future clearing house",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "外汇期货",
+   "en": "foreign exchange future",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "未来互联网",
+   "en": "future Internet",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "未来法学家",
+   "en": "future jurist",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "项目",
+   "en": "event",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "项目",
+   "en": "event",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "项目",
+   "en": "event",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "项目",
+   "en": "event",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "项目",
+   "en": "event",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "项目",
+   "en": "event",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "田赛",
+   "en": "field events",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "比赛",
+   "en": "race\",\"event",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "比赛",
+   "en": "concours\",\"event",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "震网病毒事件",
+   "en": "Stuxnet event",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "团体赛",
+   "en": "team event",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "个人赛",
+   "en": "individual event",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "田赛项目",
+   "en": "field event",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "竞走项目",
+   "en": "walking event",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "径赛项目",
+   "en": "track event",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "全能项目",
+   "en": "combined event",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "事件",
+   "en": "event",
+   "source": "社会学名词",
+   "wordNumber": "3.13.4.8",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的核心概念范畴",
+   "subjectName": "历史社会学的核心概念范畴",
+   "publishYear": "2025",
+   "definition": "历史上或社会上发生过的不寻常的大事情，是传统史学的对象，也构成传统史学的基本元素。从其特征上看，是单元独立性的；就其内容而言，是与政治、军事、外交、人物活动以及文化、经济的重大变动相联系的，"
+  },
+  {
+   "cn": "群体性事件",
+   "en": "group events",
+   "source": "马克思主义",
+   "wordNumber": "03.0762",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "由某些社会矛盾引发，特定群体或不特定多数人聚合临时形成的偶合群体，以人民内部矛盾的形式，通过没有合法依据的规模性聚集、对社会造成负面影响的群体活动、发生多数人语言行为或肢体行为上的冲突等群体行为的方式"
+  },
+  {
+   "cn": "历史事件",
+   "en": "historical events",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0206",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "人类历史发展过程中具有一定时间长度与空间跨度的“过去的”事件。"
+  },
+  {
+   "cn": "事件树",
+   "en": "event tree",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.6.13",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_分析评估",
+   "subjectName": "分析评估",
+   "publishYear": "2025",
+   "definition": "一种用来描述特定事件的树形图表说明。该树形图表具有可选择的特性。"
+  },
+  {
+   "cn": "核事件",
+   "en": "nuclear event",
+   "source": "放射卫生学",
+   "wordNumber": "7.1.2.3",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核或辐射突发事件类型",
+   "subjectName": "核或辐射突发事件类型",
+   "publishYear": "2025",
+   "definition": "与核活动有关的偏离正常运行的工况，即初始事件，或初始事件和单一故障同时发生，或几个事件和故障同时发生。"
+  },
+  {
+   "cn": "事件列表",
+   "en": "event listing",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.5",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "根据事件发生的时间顺序将具体事件进行排列和归类的一种表格。"
+  },
+  {
+   "cn": "社会事件",
+   "en": "social event",
+   "source": "社会学名词",
+   "wordNumber": "2.1.5.6",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会生活",
+   "subjectName": "社会生活",
+   "publishYear": "2025",
+   "definition": "社会上发生的不平常的、广受关注并具有一定社会影响的种种重大事情。涉及政治、经济、文化、社会、宗教等诸方面，包括革命、战争、动乱、罢工等。通常具有突发性和难预测性。"
+  },
+  {
+   "cn": "群体事件",
+   "en": "group event",
+   "source": "社会学名词",
+   "wordNumber": "2.5.4.4",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_群体行为",
+   "subjectName": "群体行为",
+   "publishYear": "2025",
+   "definition": "某些社会矛盾激化后，由特定群体或不特定多数人聚合临时形成偶合群体，通过规模性聚集，以诉求和主张、维权、发泄不满、制造影响等为目的，迫使权威机构或组织改变其政策的各种事件。"
+  },
+  {
+   "cn": "媒体事件",
+   "en": "media event",
+   "source": "社会学名词",
+   "wordNumber": "3.8.2.5",
+   "subjectFullName": "社会学名词_分支社会学_文化社会学_大众传媒研究",
+   "subjectName": "大众传媒研究",
+   "publishYear": "2025",
+   "definition": "由大众传媒触发的具有广泛社会参与度和重要影响力的社会性事件，往往以偶然、自发或事先策划的形式出现。例如借助电视新闻、报纸或网路等途径传播的高关注度的事件。"
+  },
+  {
+   "cn": "伪事件",
+   "en": "pseudo-event",
+   "source": "社会学名词",
+   "wordNumber": "3.8.3.33",
+   "subjectFullName": "社会学名词_分支社会学_文化社会学_文化的制度结构",
+   "subjectName": "文化的制度结构",
+   "publishYear": "2025",
+   "definition": "由符号编码规则要素及媒介技术操作而产生的假象，并非产生于变化的、矛盾的、真实经历的事件、历史、文化或思想。它以编码规则取代参照物，从而规定了大众传媒消费。"
+  },
+  {
+   "cn": "匈牙利事件",
+   "en": "Hungarian Event",
+   "source": "马克思主义",
+   "wordNumber": "05.0215",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_主要事件",
+   "subjectName": "主要事件",
+   "publishYear": "2025",
+   "definition": "1956年10月22日至11月4日在匈牙利发生的以脱离苏联控制的群众和平游行开始、后来被反动势力利用转向反对社会主义制度的武装暴动的事件。1956年10月22日，匈牙利的大学生和知识分子举行集会，提出"
+  },
+  {
+   "cn": "言语事件",
+   "en": "speech event",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0115",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "在特定情景中发生的言语活动，如教室里的讲课、法庭上的审讯。是交际民族志考察和描写的单位。"
+  },
+  {
+   "cn": "生物恐怖事件",
+   "en": "bioterrorist event",
+   "source": "军事预防医学名词",
+   "wordNumber": "9.2.1",
+   "subjectFullName": "军事预防医学_生物武器医学防护学_生物恐怖",
+   "subjectName": "生物恐怖",
+   "publishYear": "2025",
+   "definition": "恐怖分子利用传染病病原体或生物毒素等实施的恐怖活动事件。"
+  },
+  {
+   "cn": "生活事件",
+   "en": "life event",
+   "source": "社会医学名词",
+   "wordNumber": "13.8.4",
+   "subjectFullName": "社会病",
+   "subjectName": "社会心理应激",
+   "publishYear": "2025",
+   "definition": "能够改变、影响正常生活，对人的生理、心理状态造成干扰的社会生活变动。"
+  },
+  {
+   "cn": "暴露事件",
+   "en": "exposure event",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.5",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "某因素和靶生物、目标人群或靶器官之间发生连续性接触的情形"
+  },
+  {
+   "cn": "事件树",
+   "en": "event tree",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.5.25",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "由起始事件、中间事件和最终事件组成的树形结构决策方法。起始事件表示最初的事件或条件，中间事件表示在起始事件后可能出现的事件路径，最终事件表示可能的结果。事件之间的关系通过连接不同节点来表示，并标注相应"
+  },
+  {
+   "cn": "核事件",
+   "en": "nuclear event",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.7.6",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核事故应急救援",
+   "subjectName": "核事故应急救援",
+   "publishYear": "2025",
+   "definition": "与核活动有关的偏离正常运行的工况，即初始事件，或初始事件和单一故障同时发生，或几个事件和故障同时发生。"
+  },
+  {
+   "cn": "事件史",
+   "en": "history of events",
+   "source": "社会学名词",
+   "wordNumber": "3.13.2.14",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的相关范式思路",
+   "subjectName": "历史社会学的相关范式思路",
+   "publishYear": "2025",
+   "definition": "法国年鉴派史学提出的概念，旨在研究发生在个人时间上的现象，亦即研究诸如政治变动、任务、外交、革命、战争等变化最迅速的短时段现象，这些甚至转瞬即逝的暂短现象构成了历史的表层，只对整个历史起微小作用。"
+  },
+  {
+   "cn": "食物中毒事故",
+   "en": "food poisoning events",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.4",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "摄入含有生物性、化学性有毒有害物质的食品或把有毒有害物质当作食品摄入后出现的非传染性急性、亚急性疾病，对人体健康有危害或者可能有危害的事故。"
+  },
+  {
+   "cn": "关键事件",
+   "en": "key event, KE",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.2.55",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "外源化学物与生物大分子相互作用引发细胞或组织发生的可检测、可观察、可重复，并能影响毒性结局的生物或生化事件。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

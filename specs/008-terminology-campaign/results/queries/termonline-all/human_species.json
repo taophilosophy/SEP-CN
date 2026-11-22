@@ -1,0 +1,732 @@
+{
+ "key": "human species",
+ "term": "human species",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-22T10:34:24+00:00",
+ "status": "ok",
+ "note": "variant=human species; 审定公布名词库=2081; 海峡两岸名词对照库=721; 其他来源数据库=110; 预公布名词数据库=177; jwt-direct（JWT 直连，raw 略；已滤维基 8 条）",
+ "hits": [
+  {
+   "cn": "人种",
+   "en": "human species",
+   "source": "世界历史名词",
+   "wordNumber": "02.0012",
+   "subjectFullName": "世界历史_古代中世纪_原始社会",
+   "subjectName": "原始社会",
+   "publishYear": "2012",
+   "definition": "在体质形态上具有某些共同遗传特性的人群。"
+  },
+  {
+   "cn": "非人类物种",
+   "en": "non-human species",
+   "source": "放射医学与防护名词",
+   "wordNumber": "07.040",
+   "subjectFullName": "放射医学与防护_放射生物学_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2014",
+   "definition": "除人类之外的其他物种。是基于生态环境放射防护目的由国际放射防护委员会(ICRP)于1993年提出的放射防护另一类对象。"
+  },
+  {
+   "cn": "种",
+   "en": "species",
+   "source": "风景园林名词",
+   "wordNumber": "09.0155",
+   "subjectFullName": "风景园林_风景园林植物_风景园林植物遗传育种",
+   "subjectName": "风景园林植物遗传育种",
+   "publishYear": "2025",
+   "definition": "生物分类的基本单位，位于生物分类系统中最后一级，在属之下。是能够交配繁殖且子代可育的相关的生物群体。"
+  },
+  {
+   "cn": "种",
+   "en": "species",
+   "source": "动物学名词",
+   "wordNumber": "2.0038",
+   "subjectFullName": "动物学_动物进化与系统学_动物分类学",
+   "subjectName": "动物分类学",
+   "publishYear": "2021",
+   "definition": "生物分类的基本单元。具有一定的自然分布区和一定的生理、形态特征，能相互繁殖、享有一个共同基因库的一群个体。与其他种存在生殖隔离。"
+  },
+  {
+   "cn": "种",
+   "en": "species",
+   "source": "植物学名词",
+   "wordNumber": "02.0045",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "生物分类的基本单元。具有一定的自然分布区和一定的生理、形态特征，能相互繁殖、享有一个共同基因库的一群个体。与其他种存在生殖隔离。"
+  },
+  {
+   "cn": "种",
+   "en": "species",
+   "source": "微生物学名词",
+   "wordNumber": "02.050",
+   "subjectFullName": "微生物学_微生物系统学",
+   "subjectName": "微生物系统学",
+   "publishYear": "2012",
+   "definition": "生物分类阶元中的基本等级。"
+  },
+  {
+   "cn": "物种",
+   "en": "species",
+   "source": "资源科学技术名词",
+   "wordNumber": "13.005",
+   "subjectFullName": "资源科学技术_动物资源学",
+   "subjectName": "动物资源学",
+   "publishYear": "2008",
+   "definition": "是生物分类的基本单位，即具有一定的形态和生理特征以及一定的自然分布区的生物类群，是生物的繁殖、遗传和进化单元。"
+  },
+  {
+   "cn": "物种",
+   "en": "species",
+   "source": "遗传学名词",
+   "wordNumber": "07.072",
+   "subjectFullName": "遗传学_进化遗传学",
+   "subjectName": "进化遗传学",
+   "publishYear": "2007",
+   "definition": "能相互繁殖、享有一个共同基因库的一群个体，并和其他物种生殖隔离。"
+  },
+  {
+   "cn": "物种",
+   "en": "species",
+   "source": "生态学名词",
+   "wordNumber": "04.069",
+   "subjectFullName": "生态学_进化生态学",
+   "subjectName": "进化生态学",
+   "publishYear": "2006",
+   "definition": "基本的分类单元。能相互繁殖、享有一个共同基因库的一群个体，并和其他种生殖隔离。"
+  },
+  {
+   "cn": "形态",
+   "en": "species",
+   "source": "地理学名词",
+   "wordNumber": "09.062",
+   "subjectFullName": "地理学_环境地理学",
+   "subjectName": "环境地理学",
+   "publishYear": "2006",
+   "definition": "环境中污染物存在的形式，包括物理聚集态和化学状态(因价态、化学构成或结构不同而形成形态各异的化合物)。污染物的化学性质和行为与其在环境中的存在形态密切相关。"
+  },
+  {
+   "cn": "种",
+   "en": "species",
+   "source": "水产名词",
+   "wordNumber": "01.023",
+   "subjectFullName": "水产_水产基础科学",
+   "subjectName": "水产基础科学",
+   "publishYear": "2002",
+   "definition": "个体间能进行有性结合、正常繁育后代并且具有相对稳定遗传特性的自然种群。"
+  },
+  {
+   "cn": "种",
+   "en": "species",
+   "source": "昆虫学名词",
+   "wordNumber": "02.077",
+   "subjectFullName": "昆虫学_昆虫分类与进化",
+   "subjectName": "昆虫分类与进化",
+   "publishYear": "2000",
+   "definition": "生物中具有统一的构造和适应幅度，占有一定地理分布的群体，能自相繁殖而对其他群体呈现生殖隔离，代表着生物类群发展的一定阶段。分类中的阶元，包括亚种、变种和宗。"
+  },
+  {
+   "cn": "物种",
+   "en": "species",
+   "source": "医学名词 第三分册",
+   "wordNumber": "01.873",
+   "subjectFullName": "医学_医学遗传学",
+   "subjectName": "医学遗传学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "人文地图",
+   "en": "humanities human map",
+   "source": "测绘学名词",
+   "wordNumber": "04.016",
+   "subjectFullName": "测绘学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2020",
+   "definition": "反映社会和上层建筑各个领域的事物和现象，即人文现象的各种地图。"
+  },
+  {
+   "cn": "人力资源生活性",
+   "en": "human resource humanism",
+   "source": "资源科学技术名词",
+   "wordNumber": "21.044",
+   "subjectFullName": "资源科学技术_人力资源学",
+   "subjectName": "人力资源学",
+   "publishYear": "2008",
+   "definition": "人力资源以人身作为天然载体，蕴藏在生命个体之中，是一种活的资源，并与人的自然生理特征相联系，具有生活性。要维持发展现有的人力资源，就必须保证人力资源拥有者的生活条件与费用。"
+  },
+  {
+   "cn": "人文主义",
+   "en": "humanism",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.310",
+   "subjectFullName": "自然辩证法_科学、技术与社会_科学技术文化",
+   "subjectName": "科学技术文化",
+   "publishYear": "2024",
+   "definition": "狭义为专业术语。广义是对文艺复兴时期出现的文化思想、文化理想的一种概括性总结。作为一种新思想理念，是对中世纪基督教会强权统治的一种反动，核心内容是“人”，亦称人本主义。主要内容包括：主张人性、人权，否"
+  },
+  {
+   "cn": "人本主义",
+   "en": "humanism",
+   "source": "心理学名词",
+   "wordNumber": "04.057",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "倾向于人文关怀价值取向的哲学思潮与流派。"
+  },
+  {
+   "cn": "人文学科",
+   "en": "humanities",
+   "source": "教育学名词",
+   "wordNumber": "04.079",
+   "subjectFullName": "教育学_外国教育史_古代",
+   "subjectName": "古代",
+   "publishYear": "2013",
+   "definition": "拉丁文原意为“人性、教养”，欧洲14—15世纪文艺复兴运动中指以人和自然为对象的世俗学问。同“神学学科”相对。"
+  },
+  {
+   "cn": "人文主义",
+   "en": "Humanism",
+   "source": "世界历史名词",
+   "wordNumber": "02.1193",
+   "subjectFullName": "世界历史_古代中世纪_西欧文化、文艺复兴与宗教改革",
+   "subjectName": "西欧文化、文艺复兴与宗教改革",
+   "publishYear": "2012",
+   "definition": "中世纪后期出现的，社会价值取向倾向于对人的个性的关怀，注重强调维护人性尊严，提倡宽容，反对暴力，主张自由平等和自我价值体现的一种哲学思潮与世界观。"
+  },
+  {
+   "cn": "树种",
+   "en": "tree species,species",
+   "source": "林学名词",
+   "wordNumber": "01.069",
+   "subjectFullName": "林学_总论",
+   "subjectName": "总论",
+   "publishYear": "2016",
+   "definition": "树木的种类。是达到树木条件特征的植物种类最小单位，是植物分类上的树木名称。"
+  },
+  {
+   "cn": "[物]种",
+   "en": "species",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "物种",
+   "en": "species",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "物种",
+   "en": "species",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "种,物种",
+   "en": "species",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "物种",
+   "en": "species",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "种，物种",
+   "en": "species",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "种",
+   "en": "species",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "人本主义",
+   "en": "humanism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "偶见种，偶遇种",
+   "en": "casual species\",\"accidental species\",\"incidental species",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "偶遇种（=偶见种）",
+   "en": "casual species\",\"accidental species\",\"incidental species",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "外来种",
+   "en": "alien species\",\"exotic species\",\"allochthonous species",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "偶见种",
+   "en": "occasional species\",\"incidental species\",\"casual species",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "本地种，乡土种，土著种",
+   "en": "native species\",\"indigenous species",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "残遗种（=孑遗种）",
+   "en": "relic species\",\"epibiotic species",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "岛屿种（=隔离种）",
+   "en": "isolated species\",\"insular species",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "隔离种，岛屿种",
+   "en": "isolated species\",\"insular species",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "关键种",
+   "en": "key species\",\"keystone species",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "广布种（=世界种）",
+   "en": "cosmopolitan species\",\"cosmopolite species",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "广幅种，广适种",
+   "en": "eurytopic species\",\"generalist species",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "广适种（=广幅种）",
+   "en": "eurytopic species\",\"generalist species",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "人",
+   "en": "Human Being; Humanity",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人心",
+   "en": "Human Heart / Human Desires",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人力资源",
+   "en": "Human Resources",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人乳头（状）瘤病毒",
+   "en": "human papillomavirus",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人伦",
+   "en": "Human Relations",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人本计算",
+   "en": "human computation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人类增强",
+   "en": "human enhancement",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人权",
+   "en": "human rights",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人性",
+   "en": "human nature",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人类免疫缺陷  病毒",
+   "en": "human immunodeficiency virus",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人文",
+   "en": "Renwen （Human Culture）",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "伪",
+   "en": "Human Modification; Artifice",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人道主义",
+   "en": "humanism",
+   "source": "社会学名词",
+   "wordNumber": "4.4.5.3",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的价值观",
+   "subjectName": "社会工作的价值观",
+   "publishYear": "2025",
+   "definition": "起源于欧洲15世纪文艺复兴运动以来的思想体系，核心是尊重人性，维护人的尊严与价值。"
+  },
+  {
+   "cn": "人化",
+   "en": "humanization",
+   "source": "马克思主义",
+   "wordNumber": "01.0132",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人通过劳动把自己的本质力量凝聚和体现在对象上，使对象对人而言不再是异己的、对立的，而成为人的世界的一部分。"
+  },
+  {
+   "cn": "人的生命",
+   "en": "human life",
+   "source": "医学伦理学名词",
+   "wordNumber": "2.017",
+   "subjectFullName": "医学伦理学_医学伦理学的基本理论与基本观点",
+   "subjectName": "医学伦理学的基本理论与基本观点",
+   "publishYear": "2025",
+   "definition": "人的存在方式和根本属性。是人之所以为人的基础，是种生命和类生命、自然生命和社会生命的统一。"
+  },
+  {
+   "cn": "人伦",
+   "en": "human ethic",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.37",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "人们在社会中按年龄、智力、职业等分工而建立的社会秩序以及由此产生的彼此关系以及对关系的道德准则。也指父子、君臣、长幼、夫妇、朋友等“五伦”，为中国传统社会包含了血缘、文化、政治关系的总括和道德准则。"
+  },
+  {
+   "cn": "人类生态学",
+   "en": "human ecology",
+   "source": "社会学名词",
+   "wordNumber": "3.4.4.3",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_城市理论或流派",
+   "subjectName": "城市理论或流派",
+   "publishYear": "2025",
+   "definition": "研究城市环境的空间分布以及人与环境关系的学说。由以派克(Robert E.Park）、伯吉斯（Ernest W.Burgess）等社会学者为代表的芝加哥学派于20世纪20年代创立，强调城市的物质环境对"
+  },
+  {
+   "cn": "人的需要",
+   "en": "human needs",
+   "source": "社会学名词",
+   "wordNumber": "4.4.1.6",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的基本概念",
+   "subjectName": "社会工作的基本概念",
+   "publishYear": "2025",
+   "definition": "人感受到自身内在的物质或者精神上的缺乏，为了维持生存和发展，而对于外界事物的摄取欲望和要求。"
+  },
+  {
+   "cn": "人的本质",
+   "en": "human essence",
+   "source": "马克思主义",
+   "wordNumber": "01.0134",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人区别于其他物的本质规定性。马克思指出：“人的本质并不是单个人所固有的抽象物。在其现实性上，它是一切社会关系的总和。”人的本质是人作为实践的存在、自我创造的主体性存在和社会历史性存在所体现的特性。"
+  },
+  {
+   "cn": "人权",
+   "en": "human rights",
+   "source": "马克思主义",
+   "wordNumber": "03.0150",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人享有的人身自由和各种民主权利。资产阶级在其革命时期提出人权要求，反对封建特权和神权。人权是生产力发展到一定阶段的产物，资产阶级的“天赋人权”本质上是资产阶级的阶级特权。消灭了生产资料私有制和阶级，才"
+  },
+  {
+   "cn": "人力资本",
+   "en": "human capital",
+   "source": "卫生经济学名词",
+   "wordNumber": "3.1.2",
+   "subjectFullName": "卫生经济学名词_健康需求_健康需求",
+   "subjectName": "健康需求",
+   "publishYear": "2025",
+   "definition": "人内在的生产能力和知识，通过包括教育、培训、健康、经验、技巧等投资而获得的人力资产的经济价值总和。"
+  },
+  {
+   "cn": "人类地理学",
+   "en": "human geography",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0508",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "19 世纪，德国民族学家拉采尔（Friedrich Ratzel）创用了“人类地理学”一词，探讨环境对人类活动及演化的影响，认为存在着协调的人地关系。拉策尔在强调地理环境对人的决定性意义的同时，也考虑"
+  },
+  {
+   "cn": "人伦",
+   "en": "human relations",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.075",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人与人之间的辈分差等、秩序及行为准则。"
+  },
+  {
+   "cn": "人权",
+   "en": "human rights",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.128",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "在一定的社会历史条件下每个人按其本质和尊严而自由、平等地享有或应该享有的基本权利。是满足人的生存和发展所必需的且应当享有的基本权利。如生命权、健康权等。"
+  },
+  {
+   "cn": "人体形态学",
+   "en": "human morphology",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0066",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "阐明人体器官的各种形态、结构、成因、相互关系及其发展规律的学科，分为人体学和测量学。"
+  },
+  {
+   "cn": "人性",
+   "en": "human nature",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.0759999999999998",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "在一定社会制度和历史条件下形成的人的本性，包括个体的品质、德性和德行等。"
+  },
+  {
+   "cn": "人欲",
+   "en": "human desire",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.073",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人本能的欲望。"
+  },
+  {
+   "cn": "人化自然",
+   "en": "humanized nature",
+   "source": "马克思主义",
+   "wordNumber": "01.0143",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "马克思在《1844年经济学哲学手稿》中提出的一个重要概念，指人通过活动，把自己的本质力量对象化在客体中，使客观自然不再与人相对立，成为人的创造物的过程。这一过程就客体而言，就是人化的自然。"
+  },
+  {
+   "cn": "人源化抗体",
+   "en": "humanized antibody",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.4.20",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_抗原与抗体",
+   "subjectName": "抗原与抗体",
+   "publishYear": "2025",
+   "definition": "将鼠源性抗体 V 区中的互补决定区（CDR）序列移植到人抗体 V 区框架中，构成既具有鼠源性抗体特异性，又保留人抗体亲和力的 CDR 移植抗体"
+  },
+  {
+   "cn": "人文医学",
+   "en": "medical humanities",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.2",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学相关学科",
+   "subjectName": "医学伦理学相关学科",
+   "publishYear": "2025",
+   "definition": "研究医学领域中的人文和社会问题的交叉学科，其核心的分支学科有医学哲学、医学伦理学、医学心理学、卫生法学、医学史、医学社会学、医患沟通学等。"
+  },
+  {
+   "cn": "医学人文学",
+   "en": "medical humanities",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.195",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学相关学科",
+   "subjectName": "医学伦理学相关学科",
+   "publishYear": "2025",
+   "definition": "医学和人文学的交叉学科。从人文的理念出发，研究医学中的人文问题和人文学科涉及的医学问题。"
+  },
+  {
+   "cn": "人类—自然二元论",
+   "en": "human-nature dualism",
+   "source": "社会学名词",
+   "wordNumber": "3.14.1.9",
+   "subjectFullName": "社会学名词_分支社会学环境社会学",
+   "subjectName": "分支社会学环境社会学",
+   "publishYear": "2025",
+   "definition": "一种认为人类属于一个较高等级，与其他处于较低等级的动物界和非人类是相互分离的观点。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

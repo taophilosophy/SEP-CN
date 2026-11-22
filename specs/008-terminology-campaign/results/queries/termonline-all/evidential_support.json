@@ -1,0 +1,802 @@
+{
+ "key": "evidential support",
+ "term": "evidential support",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-22T10:34:42+00:00",
+ "status": "ok",
+ "note": "variant=evidential support; 审定公布名词库=730; 海峡两岸名词对照库=110; 其他来源数据库=67; 预公布名词数据库=41; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "凭证价值",
+   "en": "evidential value",
+   "source": "档案学名词",
+   "wordNumber": "01.03.006",
+   "subjectFullName": "档案学_总论_档案价值",
+   "subjectName": "档案价值",
+   "publishYear": "2024",
+   "definition": "档案在行政、法律、经济、科学以及处理其他各种事务中可作为凭证的价值。"
+  },
+  {
+   "cn": "证据的不可区分性",
+   "en": "evidential indistinguishability",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.174",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会_历史转向",
+   "subjectName": "历史转向",
+   "publishYear": "2024",
+   "definition": "两个或两个以上的相互不兼容的理论受到一组证据给出的同样力度的支持，因而难以在这些理论中区分认识论层面上的优劣。"
+  },
+  {
+   "cn": "证据推理",
+   "en": "evidential reasoning",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0113",
+   "subjectFullName": "计算机科学技术_人工智能_自动推理",
+   "subjectName": "自动推理",
+   "publishYear": "2018",
+   "definition": "一种处理不确定性的数值方法。用质量、信任和似然等函数及证据区间刻画证据的信任度，用组合规则综合证据。"
+  },
+  {
+   "cn": "见证取样检测",
+   "en": "evidential testing",
+   "source": "建筑学名词",
+   "wordNumber": "06.0095",
+   "subjectFullName": "建筑学_市场管理与工程建设程序_施工阶段",
+   "subjectName": "施工阶段",
+   "publishYear": "2014",
+   "definition": "在监理单位或建设单位的监督下，由施工单位有关人员现场取样，并送至具备相应资质的检测单位所进行的检测。"
+  },
+  {
+   "cn": "支架",
+   "en": "support",
+   "source": "冶金学名词",
+   "wordNumber": "02.0576",
+   "subjectFullName": "冶金学_采矿_井巷工程",
+   "subjectName": "井巷工程",
+   "publishYear": "2019",
+   "definition": "为维护围岩稳定和保障工作安全采用的杆件式结构物或整体式构筑物。"
+  },
+  {
+   "cn": "支座",
+   "en": "support",
+   "source": "建筑学名词",
+   "wordNumber": "13.0007",
+   "subjectFullName": "建筑学_建筑结构_基本结构(力学)概念",
+   "subjectName": "基本结构(力学)概念",
+   "publishYear": "2014",
+   "definition": "在建筑工程中，对另一个物体起支持作用的物体。约束总是通过支座来实现的。由拉紧的索等柔软物体构成的支座称为柔性支座；由一个可以滚动的滚轴对物体构成的支座称为滚动支座；由一个可以转动的球铰对物体所构成的支"
+  },
+  {
+   "cn": "支架",
+   "en": "support",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "06.064",
+   "subjectFullName": "机械工程_汽车_车身_车身结构",
+   "subjectName": "车身结构",
+   "publishYear": "2013",
+   "definition": "车身上支撑其他构件的架子。"
+  },
+  {
+   "cn": "支座",
+   "en": "support",
+   "source": "土木工程名词",
+   "wordNumber": "05.170",
+   "subjectFullName": "土木工程_建筑结构_连接与构造",
+   "subjectName": "连接与构造",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "支撑器",
+   "en": "supporter",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "05.189",
+   "subjectFullName": "全科医学与社区卫生_社区康复",
+   "subjectName": "社区康复",
+   "publishYear": "2014",
+   "definition": "用于上臂支撑能力训练的器具。"
+  },
+  {
+   "cn": "支持器",
+   "en": "supporter",
+   "source": "铁道科学技术名词",
+   "wordNumber": "04.1398",
+   "subjectFullName": "铁道科学技术_铁道牵引动力",
+   "subjectName": "铁道牵引动力",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "自立塔",
+   "en": "self-supporting support",
+   "source": "电力名词",
+   "wordNumber": "22.086",
+   "subjectFullName": "电力_输电线路",
+   "subjectName": "输电线路",
+   "publishYear": "2020",
+   "definition": "不用拉线,本身具有稳定性的杆塔。"
+  },
+  {
+   "cn": "保障性",
+   "en": "supportability",
+   "source": "航天科学技术名词",
+   "wordNumber": "21.014",
+   "subjectFullName": "航天科学技术_可靠性",
+   "subjectName": "可靠性",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "支护",
+   "en": "supporting",
+   "source": "煤炭科学技术名词",
+   "wordNumber": "04.221",
+   "subjectFullName": "煤炭科学技术_矿井建设_井巷支护",
+   "subjectName": "井巷支护",
+   "publishYear": "1996",
+   "definition": "锚杆、支架及其安设作业或构筑作业。"
+  },
+  {
+   "cn": "拉线塔",
+   "en": "stayed support,guyed support",
+   "source": "电力名词",
+   "wordNumber": "22.085",
+   "subjectFullName": "电力_输电线路",
+   "subjectName": "输电线路",
+   "publishYear": "2020",
+   "definition": "由拉线保持稳定性的杆塔。"
+  },
+  {
+   "cn": "镜像支架",
+   "en": "mirror support,image support",
+   "source": "航天科学技术名词",
+   "wordNumber": "06.798",
+   "subjectFullName": "航天科学技术_空气动力学与飞行原理",
+   "subjectName": "空气动力学与飞行原理",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "金属支架",
+   "en": "metal support,steel support",
+   "source": "煤炭科学技术名词",
+   "wordNumber": "04.182",
+   "subjectFullName": "煤炭科学技术_矿井建设_井巷支护",
+   "subjectName": "井巷支护",
+   "publishYear": "1996",
+   "definition": "用金属材料做成的杆件式支架。"
+  },
+  {
+   "cn": "架节",
+   "en": "support unit,support section",
+   "source": "煤炭科学技术名词",
+   "wordNumber": "06.226",
+   "subjectFullName": "煤炭科学技术_矿山机械工程_液压支架",
+   "subjectName": "液压支架",
+   "publishYear": "1996",
+   "definition": "相对独立，且彼此结构相似的节式支架组成单元。"
+  },
+  {
+   "cn": "临时支护",
+   "en": "temporary supporting,false supporting",
+   "source": "煤炭科学技术名词",
+   "wordNumber": "04.223",
+   "subjectFullName": "煤炭科学技术_矿井建设_井巷支护",
+   "subjectName": "井巷支护",
+   "publishYear": "1996",
+   "definition": "在永久支护前，为暂时维护围岩稳定和保障工作面安全而进行的支护。"
+  },
+  {
+   "cn": "支架",
+   "en": "support,timber",
+   "source": "煤炭科学技术名词",
+   "wordNumber": "04.180",
+   "subjectFullName": "煤炭科学技术_矿井建设_井巷支护",
+   "subjectName": "井巷支护",
+   "publishYear": "1996",
+   "definition": "为维护围岩稳定和保障工作安全采用的杆件式结构物或整体式构筑物。"
+  },
+  {
+   "cn": "代谢支持",
+   "en": "metabolic support",
+   "source": "普通外科学名词",
+   "wordNumber": "08.012",
+   "subjectFullName": "医学_普通外科学_代谢与营养",
+   "subjectName": "代谢与营养",
+   "publishYear": "2026",
+   "definition": "在严重分解代谢状态下，一方面提供患者适量的营养底物，防止因营养物严重不足导致代谢障碍；另一方面也要避免因过量的营养供给而加重器官结构和功能损伤的支持手段。"
+  },
+  {
+   "cn": "证据推理",
+   "en": "evidential reasoning",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "支持",
+   "en": "support",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "支架",
+   "en": "support",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "床层支架",
+   "en": "bed support",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "支承板",
+   "en": "support plate",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "填料支承板",
+   "en": "packing support",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "膜支撑物",
+   "en": "membrane support",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "社会支持",
+   "en": "social support",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "改性载体",
+   "en": "modified support",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "多孔支撑层",
+   "en": "microporous support",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "数据库支持",
+   "en": "database support",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "片基",
+   "en": "film support",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "天线支架",
+   "en": "antenna support",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "支持程序",
+   "en": "support program",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "支持集",
+   "en": "support set",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "支持软件",
+   "en": "support software",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "支持系统",
+   "en": "support system",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "执行支持",
+   "en": "executive support",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "腕支柱",
+   "en": "brachidial support",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "腕骨支柱",
+   "en": "brachidium support",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "支撑",
+   "en": "support",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "接应",
+   "en": "support",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "前支撑",
+   "en": "front support\",\"support frontways",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "后撑",
+   "en": "rear support\",\"support rearways",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "众扶",
+   "en": "collective support",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "金融科技支撑",
+   "en": "Fintech Support",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "护踝",
+   "en": "ankle support",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "腾身支撑",
+   "en": "free support",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "侧支撑",
+   "en": "support sideways",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "短促支撑",
+   "en": "momentary support",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "支撑阶段",
+   "en": "support phase",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "手臂支撑",
+   "en": "arm support",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "护踝",
+   "en": "ankle support",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "篮球架",
+   "en": "backboard support",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "网柱",
+   "en": "support post",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "球迷",
+   "en": "fan\",\"supporter",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "护膝",
+   "en": "knee support\",\"kneepad",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "支持向量机",
+   "en": "support vector machine",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "优惠帮扶举措",
+   "en": "preferential support measures",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "证据的不可区分性",
+   "en": "evidential indistinguishability",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.174",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "两个或两个以上的相互不兼容的理论受到一组证据给出的同样力度的支持，因而难以在这些理论中区分认识论层面上的优劣。"
+  },
+  {
+   "cn": "赡养",
+   "en": "support",
+   "source": "社会学名词",
+   "wordNumber": "3.15.6.5",
+   "subjectFullName": "社会学名词_分支社会学_老年和老龄化研究_老年代际关系",
+   "subjectName": "老年代际关系",
+   "publishYear": "2025",
+   "definition": "赡养人为被赡养人提供物质帮助、生活照料、精神慰藉的行为。"
+  },
+  {
+   "cn": "社会支持",
+   "en": "social support",
+   "source": "社会医学名词",
+   "wordNumber": "3.5",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "社会支持",
+   "publishYear": "2025",
+   "definition": "通过帮助或安慰他人，协助其应对生理、心理及社会压力的行为。支持来源于个人社会网络，包括家庭成员、朋友或支持团体等。支持形式包括实际帮助、物质援助及情感支持。"
+  },
+  {
+   "cn": "支持功能",
+   "en": "supportive function",
+   "source": "社会学名词",
+   "wordNumber": "4.4.13.4",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作督导",
+   "subjectName": "社会工作督导",
+   "publishYear": "2025",
+   "definition": "社会工作督导对于被督导对象在情绪和精神上所起的支持作用。督导员对于被督导者持接纳的态度，即承认被督导者的优点与限制，乐于见到被督导者的进步，并为这种发展进步创造一切必要的条件，是促进被督导者成长和有更"
+  },
+  {
+   "cn": "支持治疗",
+   "en": "supportive treatment",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.7.2.2",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病常用药物及治疗",
+   "subjectName": "风湿免疫病常用药物及治疗",
+   "publishYear": "2025",
+   "definition": "根据各种疾病的不同阶段而采取的合理饮食，补充营养，维持水、电解质和酸碱平衡，增强患者体质和免疫功能的各项措施。"
+  },
+  {
+   "cn": "社会支持网",
+   "en": "social support network",
+   "source": "社会学名词",
+   "wordNumber": "2.7.1.7",
+   "subjectFullName": "社会学名词_社会学一般概念_社会网络与社会资本_社会网络分析",
+   "subjectName": "社会网络分析",
+   "publishYear": "2025",
+   "definition": "个体拥有的可以满足工具性或情感性需要的关系网络，其内容可以涵盖信息分享、情感陪伴、劳务服务、财物交流等多方面，对个体抵御疾病、缓解压力有积极效果。"
+  },
+  {
+   "cn": "赡养制度",
+   "en": "elderly support system",
+   "source": "社会学名词",
+   "wordNumber": "3.1.1.33",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_家庭",
+   "subjectName": "家庭",
+   "publishYear": "2025",
+   "definition": "成年子女对父母或晚辈对长辈在物质上的帮助和生活上的照顾。"
+  },
+  {
+   "cn": "遗赠扶养协议",
+   "en": "legacy-support agreement",
+   "source": "社会学名词",
+   "wordNumber": "3.15.6.11",
+   "subjectFullName": "社会学名词_分支社会学_老年和老龄化研究_老年代际关系",
+   "subjectName": "老年代际关系",
+   "publishYear": "2025",
+   "definition": "受扶养的公民与扶养人之间关于扶养人承担受抚养人的生养死葬的义务，受扶养人将财产遗赠给抚养人的协议。"
+  },
+  {
+   "cn": "社会支持理论",
+   "en": "social support theory",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.9.3",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "通过家庭、亲友和社会（同学、组织、团体和社区等）对个体的精神和物质上的慰藉、关怀、尊重和帮助来影响健康的理论。"
+  },
+  {
+   "cn": "提供心理支持",
+   "en": "providing psychological support",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.5.1.3.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_学校心理卫生服务",
+   "subjectName": "学校心理卫生服务",
+   "publishYear": "2025",
+   "definition": "在学生心理健康咨询中，咨询者给予求咨者的实质性帮助。通过向学生揭示问题本质，使其注意那些从未意识到的问题，获得专业支持，掌握自己解决问题的途径。并帮助求咨者增强自身对适应性行为的体验。"
+  },
+  {
+   "cn": "社会支持网",
+   "en": "social support network",
+   "source": "社会医学名词",
+   "wordNumber": "3.5.1",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "社会支持",
+   "publishYear": "2025",
+   "definition": "个体拥有的可以满足工具性或情感性需要的关系网络，其内容可以涵盖信息分享、情感陪伴、劳务服务、财物交流等多方面，对个体抵御疾病、缓解压力有积极效果。"
+  },
+  {
+   "cn": "生命维持疗法",
+   "en": "life support therapy",
+   "source": "医学伦理学名词",
+   "wordNumber": "5.053",
+   "subjectFullName": "医学伦理学_临床诊疗伦理",
+   "subjectName": "临床诊疗伦理",
+   "publishYear": "2025",
+   "definition": "通过维持患者基本的生命体征延长其生命，但不能使其根本的生命状况逆转的医学治疗方法。"
+  },
+  {
+   "cn": "洁净辅助用房",
+   "en": "clean supporting space",
+   "source": "消毒学",
+   "wordNumber": "4.6.14.2",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "对空气洁净度有要求的洁净手术部的非手术室用房。"
+  },
+  {
+   "cn": "应急保障人员网络",
+   "en": "emergency support personnel network",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.6.1.5.4.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学校突发公共卫生事件管理",
+   "subjectName": "学校突发公共卫生事件管理",
+   "publishYear": "2025",
+   "definition": "各有关系统、部门按照职责分工、预案和管理制度而建立的由多层级、多部门组成，相互协作以保证应急救援工作的需要的人员队伍。"
+  },
+  {
+   "cn": "卫生防护保障",
+   "en": "support for health protection",
+   "source": "军事预防医学名词",
+   "wordNumber": "1.1.2",
+   "subjectFullName": "军事预防医学_军事预防医学_军队卫勤预防医学保障",
+   "subjectName": "军队卫勤预防医学保障",
+   "publishYear": "2025",
+   "definition": "为了预防和控制各种有害因素对人体健康产生危害而采取的一系列综合性措施。包括防护设备的配备与使用、环境监测与改善、人员健康管理等。"
+  },
+  {
+   "cn": "携带式生命保障系统",
+   "en": "portable life support system",
+   "source": "军事预防医学名词",
+   "wordNumber": "11.2.8.2",
+   "subjectFullName": "军事预防医学_航空和航天医学_航天医学",
+   "subjectName": "航天医学",
+   "publishYear": "2025",
+   "definition": "通过航天员随身携带的方式，为航天员提供必须的氧气、水和食物，以保证载人航天任务中航天员生命安全和身体健康的生命保障系统。"
+  },
+  {
+   "cn": "医学防护保障",
+   "en": "support for medical protection",
+   "source": "军事预防医学名词",
+   "wordNumber": "1.1.1",
+   "subjectFullName": "军事预防医学_军事预防医学_军队卫勤预防医学保障",
+   "subjectName": "军队卫勤预防医学保障",
+   "publishYear": "2025",
+   "definition": "研究不同武器所致不同损伤的发病机制、部队群体的发病规律和防治措施以及常见病、重要疾病的发生发展和流行规律，建立监督识别、预防控制的策略与措施。"
+  },
+  {
+   "cn": "非洁净辅助用房",
+   "en": "non-clean supporting space",
+   "source": "消毒学",
+   "wordNumber": "4.6.14.3",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "对空气洁净度无要求的非手术室用房。"
+  },
+  {
+   "cn": "临床决策支持系统",
+   "en": "clinical decision support systems,CDSS",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.2.4.2.2",
+   "subjectFullName": "卫生经济学名词_信息与技术_基于信息技术的医疗技术和服务",
+   "subjectName": "基于信息技术的医疗技术和服务",
+   "publishYear": "2025",
+   "definition": "通过应用信息技术，综合分析医学知识和患者信息，为医务人员的临床诊疗活动提供多种形式帮助，支持临床医生为患者制定诊断和治疗方案的一种计算机辅助信息系统。"
+  },
+  {
+   "cn": "“互联网+”药品供应保障服务",
+   "en": "internet+ drug supply support service",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.2.2.4",
+   "subjectFullName": "卫生经济学名词_信息与技术_基于信息技术的医疗技术和服务",
+   "subjectName": "基于信息技术的医疗技术和服务",
+   "publishYear": "2025",
+   "definition": "以互联网技术为载体，在处方信息与零售消费信息共享基础上提供的药品网络销售、配送及短缺药品多源信息采集和供应等药品供应保障服务的总称。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

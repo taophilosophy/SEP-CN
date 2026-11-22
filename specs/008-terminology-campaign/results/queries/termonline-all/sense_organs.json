@@ -1,0 +1,762 @@
+{
+ "key": "sense organs",
+ "term": "sense organs",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-22T10:32:32+00:00",
+ "status": "ok",
+ "note": "variant=sense organs; 审定公布名词库=1950; 海峡两岸名词对照库=782; 其他来源数据库=104; 预公布名词数据库=168; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "感觉器官",
+   "en": "sense organ;sensory organ",
+   "source": "动物学名词",
+   "wordNumber": "1.0215",
+   "subjectFullName": "动物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "动物体上用来接受和感觉外界刺激的器官。"
+  },
+  {
+   "cn": "感觉",
+   "en": "sense",
+   "source": "睡眠医学名词",
+   "wordNumber": "2.182",
+   "subjectFullName": "睡眠医学_睡眠生理与心理基础_睡眠心理基础",
+   "subjectName": "睡眠心理基础",
+   "publishYear": "2022",
+   "definition": "人脑对直接作用于感觉器官的客观事物个别属性的反映。属于认识过程的感性阶段。一切较高级、较复杂的心理现象如思维、情绪、意志等，都是以感觉为基础的。"
+  },
+  {
+   "cn": "感觉",
+   "en": "sense",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.054",
+   "subjectFullName": "新闻学与传播学_传播总论_传播研究基础",
+   "subjectName": "传播研究基础",
+   "publishYear": "2022",
+   "definition": "能为人的沟通交往提供感知信息的一种生理感官能力。如人的视觉、听觉、味觉、嗅觉和触觉。"
+  },
+  {
+   "cn": "感觉",
+   "en": "sense",
+   "source": "核医学名词",
+   "wordNumber": "04.0772",
+   "subjectFullName": "核医学_临床核医学_神经系统核医学_神经系统解剖生理基础",
+   "subjectName": "神经系统解剖生理基础",
+   "publishYear": "2018",
+   "definition": "人脑对直接作用于感觉器官的客观事物个别属性的反映。属于认识过程的感性阶段。一切较高级、较复杂的心理现象如思维、情绪、意志等，都是以感觉为基础。"
+  },
+  {
+   "cn": "义项",
+   "en": "sense",
+   "source": "语言学名词",
+   "wordNumber": "05.162",
+   "subjectFullName": "语言学_辞书学_辞书释义",
+   "subjectName": "辞书释义",
+   "publishYear": "2011",
+   "definition": "按一个词目或字头、词头的不同含义分列的释义项目。由语词实际使用所体现的若干义点抽象概括而成。"
+  },
+  {
+   "cn": "有机式组织",
+   "en": "organic organization",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0115",
+   "subjectFullName": "管理科学技术_一般管理理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "松散、灵活的具有高度适应性的组织形式。具有低复杂性、低正规化和分权化的特点。"
+  },
+  {
+   "cn": "义项划分",
+   "en": "sense discrimination,sense distinction",
+   "source": "语言学名词",
+   "wordNumber": "06.283",
+   "subjectFullName": "语言学_辞书学_辞书释义",
+   "subjectName": "辞书释义",
+   "publishYear": "2011",
+   "definition": "对多义词头不同意义的区分与编排。每一义项除用序号标志外，还根据实际需要配有区别符、引导词和注释等。"
+  },
+  {
+   "cn": "压缩感知",
+   "en": "compressed sensing,compressive sensing",
+   "source": "物理学名词",
+   "wordNumber": "04.1510",
+   "subjectFullName": "物理学_光学、声学_光学_波动光学、信息光学",
+   "subjectName": "波动光学、信息光学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "听觉",
+   "en": "auditory sense",
+   "source": "耳鼻咽喉头颈外科学名词",
+   "wordNumber": "1.2.1",
+   "subjectFullName": "耳科_耳生理和病理",
+   "subjectName": "耳生理和病理",
+   "publishYear": "2025",
+   "definition": "声波作用于听觉器官，使其感受细胞兴奋，并通过听神经发放冲动，经各级听觉中枢处理后引起的声音感觉。"
+  },
+  {
+   "cn": "感觉材料",
+   "en": "sense-data",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.506",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "由感觉呈现到心灵和意识中的作为心理对象或私有心理实体的感觉质料。"
+  },
+  {
+   "cn": "有义密码子",
+   "en": "sense codon",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0347",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_蛋白质合成与加工_修复",
+   "subjectName": "修复",
+   "publishYear": "2024",
+   "definition": "正常的、有编码特定氨基酸作用的密码子。"
+  },
+  {
+   "cn": "感知关闭",
+   "en": "sense closure",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "14.045",
+   "subjectFullName": "新闻学与传播学_媒介环境_媒介影响研究与人类环境",
+   "subjectName": "媒介影响研究与人类环境",
+   "publishYear": "2022",
+   "definition": "感知比率失调时神经系统的保护性机制。麦克卢汉认为，新媒介使一种感官单兵突进，并使感知比率失调，打破感知平衡。为了恢复感知平衡，神经系统就被“关闭”，相关的肢体就“自动截除”(autoamputatio"
+  },
+  {
+   "cn": "感知比率",
+   "en": "sense ratios",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "14.055",
+   "subjectFullName": "新闻学与传播学_媒介环境_媒介影响研究与人类环境",
+   "subjectName": "媒介影响研究与人类环境",
+   "publishYear": "2022",
+   "definition": "麦克卢汉独创用语。指五种感官的关系和排序，亦即感官与技术平衡的程度；感知比率失调时，单兵突进的感官“关闭”“自动截除”，以减轻心理冲击，使感官系统恢复平衡。"
+  },
+  {
+   "cn": "有义密码子",
+   "en": "sense codon",
+   "source": "医学遗传学名词",
+   "wordNumber": "3.164",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "编码氨基酸的密码子。"
+  },
+  {
+   "cn": "感觉板",
+   "en": "sense plate",
+   "source": "动物学名词",
+   "wordNumber": "4.044",
+   "subjectFullName": "动物学_动物胚胎学_器官发生和神经胚形成",
+   "subjectName": "器官发生和神经胚形成",
+   "publishYear": "2021",
+   "definition": "在神经褶前端腹面两侧形成两块感觉板原基，后融合形成的结构。分化出许多上皮基板，参与许多感觉器官和脑神经的形成。"
+  },
+  {
+   "cn": "有义密码子",
+   "en": "sense codon",
+   "source": "畜牧学名词",
+   "wordNumber": "04.152",
+   "subjectFullName": "畜牧学_遗传育种_分子遗传学",
+   "subjectName": "分子遗传学",
+   "publishYear": "2020",
+   "definition": "编码氨基酸的密码子。"
+  },
+  {
+   "cn": "位置[感]觉",
+   "en": "position sense",
+   "source": "生理学名词",
+   "wordNumber": "03.441",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "运动[感]觉",
+   "en": "kinesthetic sense",
+   "source": "生理学名词",
+   "wordNumber": "03.442",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "空间感觉",
+   "en": "space sense",
+   "source": "生理学名词",
+   "wordNumber": "03.447",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "有义链",
+   "en": "sense strand",
+   "source": "感染病学名词",
+   "wordNumber": "01.0602",
+   "subjectFullName": "感染病学_总论_感染病诊断技术",
+   "subjectName": "感染病诊断技术",
+   "publishYear": "2019",
+   "definition": "核酸分子中作为转录产物模板的链，或能直接翻译成蛋白质的核酸链。"
+  },
+  {
+   "cn": "感官",
+   "en": "sense organ",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "感觉器",
+   "en": "sensory organ\",\"sense organ",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "侧感觉器",
+   "en": "lateral sense organ",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "特殊感觉器",
+   "en": "organ of special sense",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "感觉",
+   "en": "sense\",\"sensus",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "本体感觉",
+   "en": "proprioceptive sense",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "光觉",
+   "en": "photic sense",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "味觉",
+   "en": "taste sense",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "有义RNA（=正义RNA）",
+   "en": "sense RNA",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "有义链",
+   "en": "sense strand",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "正义RNA，有义RNA",
+   "en": "sense RNA",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "有义链",
+   "en": "sense strand",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "有义链",
+   "en": "sense strand",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "有义密码子",
+   "en": "sense codon",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "有义链",
+   "en": "sense strand",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "有义密码子",
+   "en": "sense codon",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "色觉",
+   "en": "color sense",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "辨向天线",
+   "en": "sense antenna",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "读出电路",
+   "en": "sense circuit",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "读出线",
+   "en": "sense line",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "感物",
+   "en": "Sensed Externalities",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "一体化感知",
+   "en": "integrated sensing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智慧感知",
+   "en": "intelligent sensing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "比赛组织者",
+   "en": "organizer",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "智能传感产业",
+   "en": "intelligent sensing industry",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "标识感知技术",
+   "en": "tag sensing technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "城市智能感知",
+   "en": "urban smart sensing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "呼吸器官",
+   "en": "respiratory organs",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数据组织",
+   "en": "Data Organization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "扁平化组织",
+   "en": "flat organization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "共享型组织",
+   "en": "sharing organization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "生态型组织",
+   "en": "ecotype organization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智能组织",
+   "en": "intelligent organization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无边界组织",
+   "en": "boundaryless organization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "敏捷组织",
+   "en": "agile organization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "他组织",
+   "en": "organization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.12.2",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织过程",
+   "subjectName": "组织过程",
+   "publishYear": "2025",
+   "definition": "在外部因素的控制、管理和引导下，个人被纳入和吸收进组织或群体，并能从中获得某中特定的“组织人”身份，受到各种组织安排的组织化过程。与“自组织”相对。"
+  },
+  {
+   "cn": "社区意识",
+   "en": "sense of community",
+   "source": "社会学名词",
+   "wordNumber": "3.17.1.2",
+   "subjectFullName": "社会学名词_分支社会学_社区_实践中的社区",
+   "subjectName": "实践中的社区",
+   "publishYear": "2025",
+   "definition": "社区成员基于社区场域空间所具有的一种归属感和认同感、一种认识到成员之间以及对于整个群体而言都很重要的感觉。并且是一种对通过彼此承诺来满足成员需求的共识。"
+  },
+  {
+   "cn": "视觉残疾",
+   "en": "visual sense disability",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.4.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "由于各种原因导致双眼不同程度的形觉、色觉、光觉、调节和辐辏等视觉损失，难能从事普通人所能从事的工作、学习或其它活动。"
+  },
+  {
+   "cn": "器官剂量",
+   "en": "organ dose",
+   "source": "放射卫生学",
+   "wordNumber": "3.3.1.1",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_辐射防护量_防护量",
+   "subjectName": "防护量",
+   "publishYear": "2025",
+   "definition": "人体某一特定器官或组织T的平均吸收剂量，符号为DT。SI单位为焦耳每千克，专有名称是戈瑞，记作Gy。"
+  },
+  {
+   "cn": "源器官",
+   "en": "source organ",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.4",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "在内照射剂量估算中含有一定量放射性核素、发出射线的机体器官。"
+  },
+  {
+   "cn": "靶器官",
+   "en": "target organ",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.7",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "在内照射剂量估算中吸收辐射能量的机体器官。"
+  },
+  {
+   "cn": "免疫器官",
+   "en": "immune organ",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.2.1",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫器官",
+   "subjectName": "免疫器官",
+   "publishYear": "2025",
+   "definition": "免疫细胞发生、发育、成熟和产生免疫应答的器官，分为中枢免疫器官和外周免疫器官。中枢免疫器官包括骨髓和胸腺；外周免疫器官包括淋巴结、脾脏、黏膜相关淋巴组织等。"
+  },
+  {
+   "cn": "器官捐献",
+   "en": "organ donation",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.045",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "依据自然人生前意愿或死后其家属的共同意愿，将其部分或全部器官捐献给他人或医学科学事业的行为。"
+  },
+  {
+   "cn": "器官分配",
+   "en": "organ allocation",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.057",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "按照一定的规则和程序，将可供移植的器官资源划分并分发给特定器官受体的过程。其核心伦理原则是确保器官分配公平、公正、公开且高效。"
+  },
+  {
+   "cn": "器官买卖",
+   "en": "organ trafficking",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.058",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "出售或者购买人体器官、将人体器官当作商品的行为。其直接目的是获取利润而非患者的利益，在绝大多数国家被视为违反法律和伦理的行为。"
+  },
+  {
+   "cn": "器官移植",
+   "en": "organ transplantation",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.001",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "将某一个体的器官用手术的方法移植到其自体体内或另一个体的某一部位的治疗手段。其特点是保留移植器官的部分或全部外形轮廓及内部解剖结构，带有主要的血供和管道主干，通过吻合技术实现血流再通，移植器官从切取到"
+  },
+  {
+   "cn": "器官剂量",
+   "en": "organ dose",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.4.22",
+   "subjectFullName": "食品卫生学_食品污染_食品放射性污染",
+   "subjectName": "食品放射性污染",
+   "publishYear": "2025",
+   "definition": "人体某一特定器官或组织T 的平均吸收剂量，符合为DT，单位是mSv/a。辐照食品工作人员眼晶状体DT限值是150mSv/a，其他组织DT 限值是500mSv/a（50rem/a），全身DT 限值是20"
+  },
+  {
+   "cn": "器官接受者",
+   "en": "organ receptor",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.003",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "器官移植中接受器官的一方。"
+  },
+  {
+   "cn": "有机杂质",
+   "en": "organic impurity",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.3.3",
+   "subjectFullName": "食品卫生学_食品污染_食品物理性危害因素",
+   "subjectName": "食品物理性危害因素",
+   "publishYear": "2025",
+   "definition": "食品中所含有的非食品正常组分的外来有机物。如粮食、油料中的根、茎、叶、颖壳、野生植物种子、昆虫、异种粮油粒及病斑变质粮油粒等。"
+  },
+  {
+   "cn": "有机闪烁体",
+   "en": "organic scintillator",
+   "source": "放射卫生学",
+   "wordNumber": "5.2.5.34",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测设备_通用辐射监测设备",
+   "subjectName": "通用辐射监测设备",
+   "publishYear": "2025",
+   "definition": "一种由有机物质组成的闪烁体。"
+  },
+  {
+   "cn": "有机玻璃",
+   "en": "organic glass",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.4.20",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_辐射防护材料",
+   "subjectName": "辐射防护材料",
+   "publishYear": "2025",
+   "definition": "聚甲基丙烯酸甲酯。可作为β射线屏蔽材料，密度为1.18g·cm-3。"
+  },
+  {
+   "cn": "有机的知识分子",
+   "en": "organic intellectual",
+   "source": "马克思主义",
+   "wordNumber": "05.0007",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "葛兰西在《狱中札记》中提出的概念。葛兰西基于社会生产方式的历史性特点，将知识分子划分为“传统的”知识分子和“有机的”知识分子两种类型。前者是指在社会变动过程中，凭借文化的持续传承而保持相对稳定地位的知"
+  },
+  {
+   "cn": "有机溶剂",
+   "en": "organic solvent",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.3.7.6",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业卫生",
+   "subjectName": "军事作业卫生",
+   "publishYear": "2025",
+   "definition": "由碳氢化合物组成的一类有机化合物，能溶解一些非水溶性物质如油脂、蜡、树脂、橡胶、染料等。其特点是在常温常压下呈液态，具有较大的挥发性，在溶解过程中，溶质与溶剂的性质均无改变。"
+  },
+  {
+   "cn": "有机团结",
+   "en": "organic solidarity",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0521",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "法国社会学家涂尔干（Émile Durkheim）提出的概念之一，与机械团结相对，指建立在社会分工、社会成员异质性基础上的社会结合方式，突出体现在现代工业社会中。有机团结社会的特点是：①分工发达，人们"
+  },
+  {
+   "cn": "有机食品",
+   "en": "organic food",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.23.12",
+   "subjectFullName": "食品卫生学_食品_其他食品",
+   "subjectName": "其他食品",
+   "publishYear": "2025",
+   "definition": "在农业种养殖中遵循自然规律和生态学原理，不使用化学合成的农药、化肥、生长调节剂、饲料添加剂等物质，亦不使用基因工程生物及其产物，在加工、贮藏、运输、包装、标识、销售等符合标准要求，获得第三方机构认证的"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
