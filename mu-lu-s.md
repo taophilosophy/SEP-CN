@@ -578,11 +578,10 @@ outline: [1, 6]
 * [托马斯·莫尔 Thomas More (Gerard B. Wegemer)](t/thomas-more.md)
 * [尤斯图斯·利普修斯 Justus Lipsius (Jan Papy)](j/justus-lipsius.md)
 
-#### 女性人文主义与怀疑论
+#### 女性人文主义
 
 * [卢克雷齐娅·马里内拉 Lucrezia Marinella (Marguerite Deslauriers)](l/lucrezia-marinella.md)
 * [玛德莱娜·德·斯居代里 Madeleine de Scudéry (John Conley)](m/madeleine-scudery.md)
-* [米歇尔·德·蒙田 Michel de Montaigne (Marc Foglia、Emiliano Ferrari)](m/montaigne.md)
 
 ### 古典哲学的复兴
 
@@ -650,6 +649,7 @@ outline: [1, 6]
 #### 怀疑论与科学方法
 
 * [弗朗西斯科·桑切斯 Francisco Sanches (Rolando Pérez)](f/francisco-sanches.md)
+* [米歇尔·德·蒙田 Michel de Montaigne (Marc Foglia、Emiliano Ferrari)](m/montaigne.md)
 
 ## 近代哲学
 
@@ -1171,7 +1171,7 @@ outline: [1, 6]
 * [海因里希·李凯尔特 Heinrich Rickert (Andrea Staiti、Luca Oliva)](h/heinrich-rickert.md)
 * [威廉·文德尔班 Wilhelm Windelband (Katherina Kinzel)](w/wilhelm-windelband.md)
 
-#### 生命哲学与实证主义
+#### 早期影响与旁支
 
 * [弗里德里希·阿尔贝特·朗格 Friedrich Albert Lange (Nadeem J. Z. Hussain、Lydia Patton、Elisabeth Widmer)](f/friedrich-lange.md)
 * [汉斯·费英格 Hans Vaihinger (Timothy Stoll)](v/vaihinger.md)
@@ -1196,7 +1196,7 @@ outline: [1, 6]
 * [詹姆斯·沃德 James Ward (Pierfrancesco Basile)](j/james-ward.md)
 * [约翰·安德森 John Anderson (Creagh McLean Cole)](a/anderson-john.md)
 
-#### 人格主义
+### 人格主义
 
 * [人格主义 Personalism (Thomas D. Williams、Jan Olof Bengtsson)](p/personalism.md)
 
@@ -1530,7 +1530,7 @@ outline: [1, 6]
 
 * [尤尔根·哈贝马斯 Jürgen Habermas (James Gordon Finlayson、Dafydd Huw Rees)](h/habermas.md)
 
-### 结构主义与符号学
+### 结构主义与精神分析
 
 * [雅克·拉康 Jacques Lacan (Adrian Johnston)](l/lacan.md)
 
@@ -2538,28 +2538,33 @@ outline: [1, 6]
 
 ## 语言哲学
 
-* [语言哲学 Philosophy of Linguistics (Barbara C. Scholz、Francis Jeffry Pelletier、Geoffrey K. Pullum、Ryan Nefdt)](l/linguistics.md)
+### 真理理论
+
 * [真理 Truth (Michael Glanzberg)](t/truth.md)
-* [分析 Analysis (Michael Beaney、Thomas Raysmith)](a/analysis.md)
-* [逻辑形式 Logical Form (Paul Pietroski)](l/logical-form.md)
-* [命题 Propositions (Matthew McGrath、Devin Frank)](p/propositions.md)
 * [公理化真理论 Axiomatic Theories of Truth (Volker Halbach、Graham E. Leigh、Mateusz Łełyk)](t/truth-axiomatic.md)
-* [约定 Convention (Michael Rescorla)](c/convention.md)
 * [真理紧缩论 Deflationism About Truth (Bradley Armour-Garb、Daniel Stoljar、James Woodbridge)](t/truth-deflationary.md)
-* [泛指概括 Generic Generalizations (Sarah-Jane Leslie、Adam Lerner)](g/generics.md)
 * [多元真理论 Pluralist Theories of Truth (Nikolaj Jang Lee Linding Pedersen、Cory Wright)](t/truth-pluralist.md)
 * [真理的原始主义理论 Primitivist Theories of Truth (Jeremy Wyatt)](t/truth-primitivist.md)
-* [私人语言 Private Language (Stewart Candlish、George Wrisley)](p/private-language.md)
-* [严格指示词 Rigid Designators (Joseph LaPorte)](r/rigid-designators.md)
-* [遵循规则与意向性 Rule-Following and Intentionality (Alexander Miller、Olivia Sultanescu)](r/rule-following.md)
-* [单称命题 Singular Propositions (Greg Fitch、Michael Nelson)](p/propositions-singular.md)
-* [结构化命题 Structured Propositions (Jeffrey C. King)](p/propositions-structured.md)
 * [真理融贯论 The Coherence Theory of Truth (James O. Young)](t/truth-coherence.md)
 * [真理符合论 The Correspondence Theory of Truth (Marian David)](t/truth-correspondence.md)
 * [真理同一论 The Identity Theory of Truth (Richard Gaskin)](t/truth-identity.md)
 * [实用主义真理观 The Pragmatic Theory of Truth (John Capps)](t/truth-pragmatic.md)
 * [修正真理论 The Revision Theory of Truth (Philip Kremer、Edoardo Rivello)](t/truth-revision.md)
 * [似真性 Truthlikeness (Graham Oddie、Gustavo Cevolani)](t/truthlikeness.md)
+
+### 语言哲学总论与专题
+
+* [语言哲学 Philosophy of Linguistics (Barbara C. Scholz、Francis Jeffry Pelletier、Geoffrey K. Pullum、Ryan Nefdt)](l/linguistics.md)
+* [分析 Analysis (Michael Beaney、Thomas Raysmith)](a/analysis.md)
+* [逻辑形式 Logical Form (Paul Pietroski)](l/logical-form.md)
+* [命题 Propositions (Matthew McGrath、Devin Frank)](p/propositions.md)
+* [约定 Convention (Michael Rescorla)](c/convention.md)
+* [泛指概括 Generic Generalizations (Sarah-Jane Leslie、Adam Lerner)](g/generics.md)
+* [私人语言 Private Language (Stewart Candlish、George Wrisley)](p/private-language.md)
+* [严格指示词 Rigid Designators (Joseph LaPorte)](r/rigid-designators.md)
+* [遵循规则与意向性 Rule-Following and Intentionality (Alexander Miller、Olivia Sultanescu)](r/rule-following.md)
+* [单称命题 Singular Propositions (Greg Fitch、Michael Nelson)](p/propositions-singular.md)
+* [结构化命题 Structured Propositions (Jeffrey C. King)](p/propositions-structured.md)
 
 ### 语义学
 
@@ -3238,14 +3243,12 @@ outline: [1, 6]
 
 ### 宗教与科学
 
+* [宗教与科学 Religion and Science (Helen De Cruz)](r/religion-science.md)
+
 #### 宇宙学与演化
 
 * [宇宙学与神学 Cosmology and Theology (Hans Halvorson、Helge Kragh)](c/cosmology-theology.md)
 * [宗教的演化论进路 Evolutionary Approaches to Religion (Jason Marsh)](r/religion-evolutionary.md)
-
-#### 宗教与科学总论
-
-* [宗教与科学 Religion and Science (Helen De Cruz)](r/religion-science.md)
 
 # 价值理论
 
@@ -3593,12 +3596,18 @@ outline: [1, 6]
 * [个人自主权 Personal Autonomy (Sarah Buss、Andrea Westlund)](p/personal-autonomy.md)
 * [家长主义 Paternalism (Gerald Dworkin)](p/paternalism.md)
 * [强制 Coercion (Scott Anderson)](c/coercion.md)
+* [伦理学和政治哲学中的自主权 Autonomy in Moral and Political Philosophy (John Christman)](a/autonomy-moral.md)
 
 ##### 宽容、隐私与尊严
 
 * [宽容 Toleration (Rainer Forst)](t/toleration.md)
 * [隐私 Privacy (Beate Roessler、Judith DeCew)](p/privacy.md)
 * [尊严 Dignity (Remy Debes)](d/dignity.md)
+
+##### 表达自由
+
+* [言论自由 Freedom of Speech (Jeffrey W. Howard)](f/freedom-speech.md)
+* [结社自由 Freedom of Association (Kimberley Brownlee、David Jenkins)](f/freedom-association.md)
 
 #### 分配与群体
 
@@ -3638,12 +3647,6 @@ outline: [1, 6]
 * [公正 Impartiality (Troy Jollimore)](i/impartiality.md)
 * [原初状态 Original Position (Samuel Freeman)](o/original-position.md)
 * [反思平衡 Reflective Equilibrium (Carl Knight)](r/reflective-equilibrium.md)
-
-#### 自由与权利
-
-* [言论自由 Freedom of Speech (Jeffrey W. Howard)](f/freedom-speech.md)
-* [结社自由 Freedom of Association (Kimberley Brownlee、David Jenkins)](f/freedom-association.md)
-* [伦理学和政治哲学中的自主权 Autonomy in Moral and Political Philosophy (John Christman)](a/autonomy-moral.md)
 
 #### 残疾与歧视
 
@@ -3932,24 +3935,32 @@ outline: [1, 6]
 
 ## 美学
 
+### 美学总论与理论
+
 * [美 Beauty (Crispin Sartwell)](b/beauty.md)
 * [审美体验 Aesthetic Experience (Antonia Peacocke)](a/aesthetic-experience.md)
 * [审美判断 Aesthetic Judgment (Nick Zangwill)](a/aesthetic-judgment.md)
 * [审美证言 Aesthetic Testimony (Jon Robson、Rebecca Wallbank)](a/aesthetic-testimony.md)
+* [美学的概念 The Concept of the Aesthetic (James Shelley)](a/aesthetic-concept.md)
+* [想象性抗拒 Imaginative Resistance (Emine Hande Tuna)](i/imaginative-resistance.md)
+* [悲剧悖论 Paradox of Tragedy (Jonathan Gilmore)](p/paradox-of-tragedy.md)
+* [幽默哲学 Philosophy of Humor (John Morreall)](h/humor.md)
+
+### 美学史
+
+* [18 世纪的英国美学 18th Century British Aesthetics (James Shelley)](a/aesthetics-18th-british.md)
+* [18 世纪的法国美学 18th Century French Aesthetics (Jennifer Tsien、Jacques Morizot)](a/aesthetics-18th-french.md)
+* [18 世纪的德国美学 18th Century German Aesthetics (Paul Guyer)](a/aesthetics-18th-german.md)
+* [19 世纪浪漫主义美学 19th Century Romantic Aesthetics (Keren Gorodeisky)](a/aesthetics-19th-romantic.md)
+
+### 跨学科美学
+
 * [美学与认知科学 Aesthetics and Cognitive Science (Jon Robson、Gregory Currie)](a/aesthetics-cogsci.md)
 * [美学与种族 Aesthetics and Race (Monique Roelofs)](a/aesthetics-race.md)
 * [批判理论中的美学 Aesthetics in Critical Theory (Owen Hulatt)](a/aesthetics-critical-theory.md)
 * [日常美学 Aesthetics of the Everyday (Yuriko Saito)](a/aesthetics-of-everyday.md)
 * [环境美学 Environmental Aesthetics (Glenn Parsons、Allen Carlson)](e/environmental-aesthetics.md)
 * [存在主义美学 Existentialist Aesthetics (Jean-Philippe Deranty)](a/aesthetics-existentialist.md)
-* [想象性抗拒 Imaginative Resistance (Emine Hande Tuna)](i/imaginative-resistance.md)
-* [悲剧悖论 Paradox of Tragedy (Jonathan Gilmore)](p/paradox-of-tragedy.md)
-* [幽默哲学 Philosophy of Humor (John Morreall)](h/humor.md)
-* [18 世纪的英国美学 18th Century British Aesthetics (James Shelley)](a/aesthetics-18th-british.md)
-* [18 世纪的法国美学 18th Century French Aesthetics (Jennifer Tsien、Jacques Morizot)](a/aesthetics-18th-french.md)
-* [18 世纪的德国美学 18th Century German Aesthetics (Paul Guyer)](a/aesthetics-18th-german.md)
-* [19 世纪浪漫主义美学 19th Century Romantic Aesthetics (Keren Gorodeisky)](a/aesthetics-19th-romantic.md)
-* [美学的概念 The Concept of the Aesthetic (James Shelley)](a/aesthetic-concept.md)
 
 ### 艺术哲学
 
