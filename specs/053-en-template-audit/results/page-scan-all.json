@@ -1,51 +1,51 @@
 {
  "schema": "sep-cn-b32-page/2",
  "generated_by": "specs/053 bin/page_assemble.py",
- "mode": "judge",
+ "mode": "build-pool",
  "total": 1873,
  "counts": {
   "rule": 0,
-  "pool": 1692,
-  "gap": 181,
+  "pool": 1696,
+  "gap": 177,
   "stale": 0
  },
  "page_bytes": 235952045,
- "pool_bytes": 106771253,
+ "pool_bytes": 107193278,
  "entries": [
   {
    "slug": "18thGerman-preKant",
-   "page_len": 139075,
    "status": "pool",
    "n_patches": 151,
+   "page_len": 139075,
    "pool_bytes": 56147
   },
   {
    "slug": "abduction",
    "status": "pool",
-   "n_patches": 114,
+   "n_patches": 115,
    "page_len": 95709,
-   "pool_bytes": 38336
+   "pool_bytes": 38360
   },
   {
    "slug": "abelard",
    "status": "pool",
-   "n_patches": 140,
+   "n_patches": 141,
    "page_len": 116018,
-   "pool_bytes": 47117
+   "pool_bytes": 47139
   },
   {
    "slug": "abhidharma",
-   "page_len": 110791,
    "status": "pool",
-   "n_patches": 119,
-   "pool_bytes": 72716
+   "n_patches": 120,
+   "page_len": 110791,
+   "pool_bytes": 72738
   },
   {
    "slug": "abilities",
    "status": "pool",
-   "n_patches": 116,
+   "n_patches": 117,
    "page_len": 110344,
-   "pool_bytes": 46408
+   "pool_bytes": 46430
   },
   {
    "slug": "abner-burgos",
@@ -63,9 +63,9 @@
   },
   {
    "slug": "abrabanel",
-   "page_len": 80985,
    "status": "pool",
    "n_patches": 123,
+   "page_len": 80985,
    "pool_bytes": 67882
   },
   {
@@ -120,37 +120,37 @@
   {
    "slug": "adaptationism",
    "status": "pool",
-   "n_patches": 128,
+   "n_patches": 129,
    "page_len": 84741,
-   "pool_bytes": 58560
+   "pool_bytes": 58584
   },
   {
    "slug": "addams-jane",
-   "page_len": 105222,
    "status": "pool",
-   "n_patches": 122,
-   "pool_bytes": 35056
+   "n_patches": 123,
+   "page_len": 105222,
+   "pool_bytes": 35078
   },
   {
    "slug": "adorno",
-   "page_len": 161829,
    "status": "pool",
    "n_patches": 246,
+   "page_len": 161829,
    "pool_bytes": 84298
   },
   {
    "slug": "advance-directives",
    "status": "pool",
-   "n_patches": 75,
+   "n_patches": 76,
    "page_len": 60370,
-   "pool_bytes": 46075
+   "pool_bytes": 46099
   },
   {
    "slug": "aesthetic-concept",
    "status": "pool",
-   "n_patches": 155,
+   "n_patches": 156,
    "page_len": 141862,
-   "pool_bytes": 45987
+   "pool_bytes": 46009
   },
   {
    "slug": "aesthetic-experience",
@@ -176,29 +176,29 @@
   {
    "slug": "aesthetics-18th-british",
    "status": "pool",
-   "n_patches": 99,
+   "n_patches": 100,
    "page_len": 91645,
-   "pool_bytes": 44958
+   "pool_bytes": 44982
   },
   {
    "slug": "aesthetics-18th-french",
-   "page_len": 77586,
    "status": "pool",
    "n_patches": 143,
+   "page_len": 77586,
    "pool_bytes": 35641
   },
   {
    "slug": "aesthetics-18th-german",
-   "page_len": 361530,
    "status": "pool",
    "n_patches": 468,
+   "page_len": 361530,
    "pool_bytes": 201698
   },
   {
    "slug": "aesthetics-19th-romantic",
-   "page_len": 126028,
    "status": "pool",
    "n_patches": 221,
+   "page_len": 126028,
    "pool_bytes": 59064
   },
   {
@@ -224,10 +224,10 @@
   },
   {
    "slug": "aesthetics-of-everyday",
-   "page_len": 158374,
    "status": "pool",
-   "n_patches": 333,
-   "pool_bytes": 116594
+   "n_patches": 334,
+   "page_len": 158374,
+   "pool_bytes": 116616
   },
   {
    "slug": "aesthetics-race",
@@ -246,16 +246,16 @@
   {
    "slug": "african-ethics",
    "status": "pool",
-   "n_patches": 151,
+   "n_patches": 152,
    "page_len": 96812,
-   "pool_bytes": 87939
+   "pool_bytes": 87963
   },
   {
    "slug": "african-sage",
    "status": "pool",
-   "n_patches": 66,
+   "n_patches": 67,
    "page_len": 56849,
-   "pool_bytes": 35081
+   "pool_bytes": 35105
   },
   {
    "slug": "africana",
@@ -274,16 +274,16 @@
   {
    "slug": "afterlife",
    "status": "pool",
-   "n_patches": 112,
+   "n_patches": 113,
    "page_len": 100631,
-   "pool_bytes": 45950
+   "pool_bytes": 45972
   },
   {
    "slug": "agency",
    "status": "pool",
    "n_patches": 138,
    "page_len": 122777,
-   "pool_bytes": 98632
+   "pool_bytes": 98654
   },
   {
    "slug": "agent-modeling-philscience",
@@ -315,16 +315,16 @@
   },
   {
    "slug": "al-din-al-razi",
-   "page_len": 108271,
    "status": "pool",
    "n_patches": 359,
+   "page_len": 108271,
    "pool_bytes": 89058
   },
   {
    "slug": "al-farabi",
-   "page_len": 68995,
    "status": "pool",
    "n_patches": 127,
+   "page_len": 68995,
    "pool_bytes": 44828
   },
   {
@@ -358,9 +358,9 @@
   {
    "slug": "al-ghazali",
    "status": "pool",
-   "n_patches": 109,
+   "n_patches": 110,
    "page_len": 127584,
-   "pool_bytes": 84179
+   "pool_bytes": 84201
   },
   {
    "slug": "al-khunaji",
@@ -378,9 +378,9 @@
   },
   {
    "slug": "al-qudat",
-   "page_len": 99898,
    "status": "gap",
    "why": "unaligned text units",
+   "page_len": 99898,
    "sample": {
     "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
     "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
@@ -409,9 +409,9 @@
   },
   {
    "slug": "albert-great",
-   "page_len": 97281,
    "status": "pool",
    "n_patches": 102,
+   "page_len": 97281,
    "pool_bytes": 64965
   },
   {
@@ -424,58 +424,58 @@
   {
    "slug": "albo-joseph",
    "status": "pool",
-   "n_patches": 61,
+   "n_patches": 62,
    "page_len": 66736,
-   "pool_bytes": 15665
+   "pool_bytes": 15689
   },
   {
    "slug": "alcmaeon",
    "status": "pool",
-   "n_patches": 86,
+   "n_patches": 87,
    "page_len": 77982,
-   "pool_bytes": 49624
+   "pool_bytes": 49648
   },
   {
    "slug": "alexander",
    "status": "pool",
-   "n_patches": 138,
+   "n_patches": 139,
    "page_len": 75157,
-   "pool_bytes": 22389
+   "pool_bytes": 22411
   },
   {
    "slug": "alexander-aphrodisias",
-   "page_len": 98517,
    "status": "pool",
    "n_patches": 126,
+   "page_len": 98517,
    "pool_bytes": 63899
   },
   {
    "slug": "alexander-crummell",
    "status": "pool",
-   "n_patches": 57,
+   "n_patches": 58,
    "page_len": 94475,
-   "pool_bytes": 33793
+   "pool_bytes": 33817
   },
   {
    "slug": "alexander-humboldt",
-   "page_len": 113827,
    "status": "pool",
    "n_patches": 188,
+   "page_len": 113827,
    "pool_bytes": 57560
   },
   {
    "slug": "algebra",
    "status": "pool",
-   "n_patches": 107,
+   "n_patches": 108,
    "page_len": 108453,
-   "pool_bytes": 36600
+   "pool_bytes": 36624
   },
   {
    "slug": "algebra-logic-tradition",
    "status": "pool",
-   "n_patches": 126,
+   "n_patches": 127,
    "page_len": 79209,
-   "pool_bytes": 48678
+   "pool_bytes": 48700
   },
   {
    "slug": "algorithmic-fairness",
@@ -515,9 +515,9 @@
   {
    "slug": "altruism-biological",
    "status": "pool",
-   "n_patches": 141,
+   "n_patches": 142,
    "page_len": 81573,
-   "pool_bytes": 63927
+   "pool_bytes": 63949
   },
   {
    "slug": "altruism-empirical",
@@ -549,9 +549,9 @@
   {
    "slug": "ammonius",
    "status": "pool",
-   "n_patches": 151,
+   "n_patches": 152,
    "page_len": 113799,
-   "pool_bytes": 87006
+   "pool_bytes": 87030
   },
   {
    "slug": "analogy-medieval",
@@ -562,9 +562,9 @@
   },
   {
    "slug": "analysis",
-   "page_len": 95983,
    "status": "pool",
    "n_patches": 98,
+   "page_len": 95983,
    "pool_bytes": 61938
   },
   {
@@ -600,17 +600,17 @@
   },
   {
    "slug": "ancient-political",
-   "page_len": 169590,
    "status": "pool",
-   "n_patches": 182,
-   "pool_bytes": 116627
+   "n_patches": 183,
+   "page_len": 169590,
+   "pool_bytes": 116651
   },
   {
    "slug": "ancient-soul",
-   "page_len": 100266,
    "status": "pool",
-   "n_patches": 104,
-   "pool_bytes": 77724
+   "n_patches": 105,
+   "page_len": 100266,
+   "pool_bytes": 77748
   },
   {
    "slug": "anderson-john",
@@ -673,17 +673,17 @@
   },
   {
    "slug": "anscombe",
-   "page_len": 87983,
    "status": "pool",
-   "n_patches": 96,
-   "pool_bytes": 31877
+   "n_patches": 97,
+   "page_len": 87983,
+   "pool_bytes": 31899
   },
   {
    "slug": "anselm",
-   "page_len": 63964,
    "status": "pool",
-   "n_patches": 87,
-   "pool_bytes": 34064
+   "n_patches": 88,
+   "page_len": 63964,
+   "pool_bytes": 34088
   },
   {
    "slug": "antiochus-ascalon",
@@ -694,10 +694,10 @@
   },
   {
    "slug": "antonio-rosmini",
-   "page_len": 74790,
    "status": "pool",
-   "n_patches": 87,
-   "pool_bytes": 65369
+   "n_patches": 88,
+   "page_len": 74790,
+   "pool_bytes": 65391
   },
   {
    "slug": "apriori",
@@ -708,9 +708,9 @@
   },
   {
    "slug": "aquinas",
-   "page_len": 146382,
    "status": "pool",
    "n_patches": 217,
+   "page_len": 146382,
    "pool_bytes": 97111
   },
   {
@@ -729,9 +729,9 @@
   },
   {
    "slug": "arabic-islamic-essence",
-   "page_len": 90115,
    "status": "pool",
    "n_patches": 101,
+   "page_len": 90115,
    "pool_bytes": 42110
   },
   {
@@ -758,9 +758,9 @@
   {
    "slug": "arabic-islamic-language",
    "status": "pool",
-   "n_patches": 153,
+   "n_patches": 154,
    "page_len": 158897,
-   "pool_bytes": 136667
+   "pool_bytes": 136689
   },
   {
    "slug": "arabic-islamic-liar",
@@ -779,9 +779,9 @@
   {
    "slug": "arabic-islamic-mind",
    "status": "pool",
-   "n_patches": 155,
+   "n_patches": 156,
    "page_len": 85931,
-   "pool_bytes": 70641
+   "pool_bytes": 70665
   },
   {
    "slug": "arabic-islamic-mysticism",
@@ -806,9 +806,9 @@
   },
   {
    "slug": "arabic-islamic-religion",
-   "page_len": 174829,
    "status": "pool",
    "n_patches": 195,
+   "page_len": 174829,
    "pool_bytes": 86511
   },
   {
@@ -821,16 +821,16 @@
   {
    "slug": "architecture",
    "status": "pool",
-   "n_patches": 184,
+   "n_patches": 185,
    "page_len": 158584,
-   "pool_bytes": 123989
+   "pool_bytes": 124011
   },
   {
    "slug": "archytas",
    "status": "pool",
-   "n_patches": 132,
+   "n_patches": 133,
    "page_len": 132756,
-   "pool_bytes": 105021
+   "pool_bytes": 105045
   },
   {
    "slug": "arendt",
@@ -855,10 +855,10 @@
   },
   {
    "slug": "aristotle",
-   "page_len": 178360,
    "status": "pool",
-   "n_patches": 325,
-   "pool_bytes": 167275
+   "n_patches": 326,
+   "page_len": 178360,
+   "pool_bytes": 167299
   },
   {
    "slug": "aristotle-aesthetics",
@@ -870,9 +870,9 @@
   {
    "slug": "aristotle-biology",
    "status": "pool",
-   "n_patches": 159,
+   "n_patches": 160,
    "page_len": 123447,
-   "pool_bytes": 74230
+   "pool_bytes": 74252
   },
   {
    "slug": "aristotle-categories",
@@ -890,31 +890,31 @@
   },
   {
    "slug": "aristotle-commentators",
-   "page_len": 111673,
    "status": "pool",
-   "n_patches": 208,
-   "pool_bytes": 82013
+   "n_patches": 209,
+   "page_len": 111673,
+   "pool_bytes": 82035
   },
   {
    "slug": "aristotle-de-motu",
-   "page_len": 113194,
    "status": "pool",
    "n_patches": 123,
+   "page_len": 113194,
    "pool_bytes": 91090
   },
   {
    "slug": "aristotle-ethics",
-   "page_len": 166887,
    "status": "pool",
    "n_patches": 248,
+   "page_len": 166887,
    "pool_bytes": 61489
   },
   {
    "slug": "aristotle-logic",
    "status": "pool",
-   "n_patches": 485,
+   "n_patches": 486,
    "page_len": 131708,
-   "pool_bytes": 64273
+   "pool_bytes": 64295
   },
   {
    "slug": "aristotle-mathematics",
@@ -942,9 +942,9 @@
   },
   {
    "slug": "aristotle-noncontradiction",
-   "page_len": 77038,
    "status": "gap",
    "why": "unaligned text units",
+   "page_len": 77038,
    "sample": {
     "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
     "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
@@ -959,9 +959,9 @@
   },
   {
    "slug": "aristotle-psychology",
-   "page_len": 106189,
    "status": "pool",
    "n_patches": 199,
+   "page_len": 106189,
    "pool_bytes": 55286
   },
   {
@@ -973,9 +973,9 @@
   },
   {
    "slug": "aristotle-text",
-   "page_len": 107490,
    "status": "gap",
    "why": "unaligned text units",
+   "page_len": 107490,
    "sample": {
     "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
     "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
@@ -983,24 +983,24 @@
   },
   {
    "slug": "arnauld",
-   "page_len": 164555,
    "status": "pool",
-   "n_patches": 212,
-   "pool_bytes": 112249
+   "n_patches": 213,
+   "page_len": 164555,
+   "pool_bytes": 112273
   },
   {
    "slug": "arrows-theorem",
    "status": "pool",
-   "n_patches": 206,
+   "n_patches": 207,
    "page_len": 134375,
-   "pool_bytes": 71775
+   "pool_bytes": 71797
   },
   {
    "slug": "art-definition",
    "status": "pool",
-   "n_patches": 105,
+   "n_patches": 106,
    "page_len": 101385,
-   "pool_bytes": 54489
+   "pool_bytes": 54513
   },
   {
    "slug": "art-ontology-history",
@@ -1018,9 +1018,9 @@
   },
   {
    "slug": "artificial-intelligence",
-   "page_len": 226148,
    "status": "pool",
    "n_patches": 283,
+   "page_len": 226148,
    "pool_bytes": 208686
   },
   {
@@ -1053,17 +1053,17 @@
   },
   {
    "slug": "atomism-ancient",
-   "page_len": 108964,
    "status": "pool",
    "n_patches": 127,
+   "page_len": 108964,
    "pool_bytes": 34555
   },
   {
    "slug": "atomism-modern",
    "status": "pool",
-   "n_patches": 91,
+   "n_patches": 92,
    "page_len": 139815,
-   "pool_bytes": 32269
+   "pool_bytes": 32291
   },
   {
    "slug": "atonement",
@@ -1082,15 +1082,15 @@
   {
    "slug": "august-rehberg",
    "status": "pool",
-   "n_patches": 98,
+   "n_patches": 99,
    "page_len": 75669,
-   "pool_bytes": 66417
+   "pool_bytes": 66441
   },
   {
    "slug": "augustine",
-   "page_len": 230812,
    "status": "gap",
    "why": "unaligned text units",
+   "page_len": 230812,
    "sample": {
     "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
     "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
@@ -1099,9 +1099,9 @@
   {
    "slug": "auriol",
    "status": "pool",
-   "n_patches": 65,
+   "n_patches": 66,
    "page_len": 83815,
-   "pool_bytes": 36796
+   "pool_bytes": 36818
   },
   {
    "slug": "austin-jl",
@@ -1120,9 +1120,9 @@
   {
    "slug": "authenticity",
    "status": "pool",
-   "n_patches": 112,
+   "n_patches": 113,
    "page_len": 103883,
-   "pool_bytes": 39939
+   "pool_bytes": 39961
   },
   {
    "slug": "authority",
@@ -1141,16 +1141,16 @@
   {
    "slug": "autrecourt",
    "status": "pool",
-   "n_patches": 70,
+   "n_patches": 71,
    "page_len": 52279,
-   "pool_bytes": 36719
+   "pool_bytes": 36741
   },
   {
    "slug": "axiom-choice",
    "status": "pool",
-   "n_patches": 204,
+   "n_patches": 205,
    "page_len": 86836,
-   "pool_bytes": 71217
+   "pool_bytes": 71241
   },
   {
    "slug": "ayer",
@@ -1168,16 +1168,16 @@
   },
   {
    "slug": "basing-epistemic",
-   "page_len": 73109,
    "status": "pool",
    "n_patches": 123,
+   "page_len": 73109,
    "pool_bytes": 36446
   },
   {
    "slug": "baudrillard",
-   "page_len": 115698,
    "status": "gap",
    "why": "unaligned text units",
+   "page_len": 115698,
    "sample": {
     "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
     "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
@@ -1192,9 +1192,13 @@
   },
   {
    "slug": "bayes-theorem",
-   "page_len": 93504,
    "status": "gap",
-   "rule_patches": 168
+   "why": "apply verify failed",
+   "page_len": 93504,
+   "sample": {
+    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![endif]-->\n<!--[if !IE]",
+    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![endif]-->\n<!--[if !IE]"
+   }
   },
   {
    "slug": "bayle",
@@ -1205,9 +1209,9 @@
   },
   {
    "slug": "beardsley-aesthetics",
-   "page_len": 162612,
    "status": "pool",
    "n_patches": 215,
+   "page_len": 162612,
    "pool_bytes": 61155
   },
   {
@@ -1241,9 +1245,9 @@
   {
    "slug": "belief-merging",
    "status": "pool",
-   "n_patches": 185,
+   "n_patches": 186,
    "page_len": 110993,
-   "pool_bytes": 77042
+   "pool_bytes": 77064
   },
   {
    "slug": "bell-theorem",
@@ -1265,9 +1269,9 @@
   {
    "slug": "bentham",
    "status": "pool",
-   "n_patches": 140,
+   "n_patches": 141,
    "page_len": 146012,
-   "pool_bytes": 75640
+   "pool_bytes": 75662
   },
   {
    "slug": "bergson",
@@ -1278,22 +1282,16 @@
   },
   {
    "slug": "berkeley",
-   "page_len": 134754,
    "status": "pool",
    "n_patches": 202,
+   "page_len": 134754,
    "pool_bytes": 77767
   },
   {
    "slug": "berlin",
-   "page_len": 191304,
-   "link_miss": 5,
-   "miss_sample": [
-    "§",
-    "4.4",
-    "§"
-   ],
    "status": "gap",
    "why": "unaligned text units",
+   "page_len": 191304,
    "sample": {
     "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
     "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
@@ -1301,9 +1299,9 @@
   },
   {
    "slug": "bessarion",
-   "page_len": 62732,
    "status": "pool",
    "n_patches": 94,
+   "page_len": 62732,
    "pool_bytes": 29163
   },
   {
@@ -1340,22 +1338,22 @@
   {
    "slug": "biology-developmental",
    "status": "pool",
-   "n_patches": 230,
+   "n_patches": 231,
    "page_len": 164403,
-   "pool_bytes": 97722
+   "pool_bytes": 97744
   },
   {
    "slug": "biology-experiment",
    "status": "pool",
-   "n_patches": 155,
+   "n_patches": 156,
    "page_len": 123279,
-   "pool_bytes": 64933
+   "pool_bytes": 64957
   },
   {
    "slug": "biology-individual",
-   "page_len": 158166,
    "status": "pool",
    "n_patches": 256,
+   "page_len": 158166,
    "pool_bytes": 74459
   },
   {
@@ -1388,9 +1386,9 @@
   },
   {
    "slug": "bloch",
-   "page_len": 92555,
    "status": "pool",
    "n_patches": 154,
+   "page_len": 92555,
    "pool_bytes": 58140
   },
   {
@@ -1416,9 +1414,9 @@
   },
   {
    "slug": "boethius-dacia",
-   "page_len": 77454,
    "status": "gap",
    "why": "unaligned text units",
+   "page_len": 77454,
    "sample": {
     "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
     "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
@@ -1427,16 +1425,16 @@
   {
    "slug": "bohr-correspondence",
    "status": "pool",
-   "n_patches": 110,
+   "n_patches": 111,
    "page_len": 100743,
-   "pool_bytes": 48334
+   "pool_bytes": 48358
   },
   {
    "slug": "bolzano",
-   "page_len": 187567,
    "status": "pool",
-   "n_patches": 293,
-   "pool_bytes": 103486
+   "n_patches": 294,
+   "page_len": 187567,
+   "pool_bytes": 103510
   },
   {
    "slug": "bolzano-logic",
@@ -1447,17 +1445,17 @@
   },
   {
    "slug": "bonaventure",
-   "page_len": 139497,
    "status": "pool",
    "n_patches": 209,
+   "page_len": 139497,
    "pool_bytes": 86343
   },
   {
    "slug": "boolalg-math",
    "status": "pool",
-   "n_patches": 53,
+   "n_patches": 54,
    "page_len": 31701,
-   "pool_bytes": 18856
+   "pool_bytes": 18880
   },
   {
    "slug": "boole",
@@ -1468,10 +1466,10 @@
   },
   {
    "slug": "bosanquet",
-   "page_len": 126820,
    "status": "pool",
-   "n_patches": 181,
-   "pool_bytes": 38164
+   "n_patches": 182,
+   "page_len": 126820,
+   "pool_bytes": 38186
   },
   {
    "slug": "boundary",
@@ -1496,9 +1494,9 @@
   },
   {
    "slug": "bradley",
-   "page_len": 86331,
    "status": "gap",
    "why": "unaligned text units",
+   "page_len": 86331,
    "sample": {
     "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
     "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
@@ -1520,17 +1518,17 @@
   },
   {
    "slug": "branching-time",
-   "page_len": 160192,
    "status": "pool",
    "n_patches": 310,
+   "page_len": 160192,
    "pool_bytes": 99775
   },
   {
    "slug": "brentano",
    "status": "pool",
-   "n_patches": 153,
+   "n_patches": 154,
    "page_len": 114613,
-   "pool_bytes": 76280
+   "pool_bytes": 76304
   },
   {
    "slug": "brentano-judgement",
@@ -1542,22 +1540,22 @@
   {
    "slug": "broad",
    "status": "pool",
-   "n_patches": 217,
+   "n_patches": 218,
    "page_len": 104286,
-   "pool_bytes": 61421
+   "pool_bytes": 61445
   },
   {
    "slug": "brouwer",
-   "page_len": 65947,
    "status": "pool",
-   "n_patches": 105,
-   "pool_bytes": 47391
+   "n_patches": 106,
+   "page_len": 65947,
+   "pool_bytes": 47415
   },
   {
    "slug": "bruno",
-   "page_len": 181007,
    "status": "pool",
    "n_patches": 153,
+   "page_len": 181007,
    "pool_bytes": 128702
   },
   {
@@ -1577,9 +1575,9 @@
   {
    "slug": "buddhism-chan",
    "status": "pool",
-   "n_patches": 72,
+   "n_patches": 73,
    "page_len": 84613,
-   "pool_bytes": 34465
+   "pool_bytes": 34487
   },
   {
    "slug": "buddhism-huayan",
@@ -1591,22 +1589,22 @@
   {
    "slug": "buddhism-tiantai",
    "status": "pool",
-   "n_patches": 240,
+   "n_patches": 241,
    "page_len": 184069,
-   "pool_bytes": 104791
+   "pool_bytes": 104813
   },
   {
    "slug": "buridan",
    "status": "pool",
-   "n_patches": 118,
+   "n_patches": 119,
    "page_len": 115224,
-   "pool_bytes": 89658
+   "pool_bytes": 89682
   },
   {
    "slug": "burke",
-   "page_len": 111215,
    "status": "pool",
    "n_patches": 97,
+   "page_len": 111215,
    "pool_bytes": 53199
   },
   {
@@ -1618,45 +1616,45 @@
   },
   {
    "slug": "butler-moral",
-   "page_len": 79372,
    "status": "pool",
-   "n_patches": 47,
-   "pool_bytes": 18405
+   "n_patches": 48,
+   "page_len": 79372,
+   "pool_bytes": 18429
   },
   {
    "slug": "byzantine-philosophy",
    "status": "pool",
-   "n_patches": 242,
+   "n_patches": 243,
    "page_len": 133699,
-   "pool_bytes": 104990
+   "pool_bytes": 105014
   },
   {
    "slug": "callicles-thrasymachus",
-   "page_len": 92254,
    "status": "pool",
    "n_patches": 97,
+   "page_len": 92254,
    "pool_bytes": 51738
   },
   {
    "slug": "cambridge-platonists",
    "status": "pool",
-   "n_patches": 82,
+   "n_patches": 83,
    "page_len": 56726,
-   "pool_bytes": 28224
+   "pool_bytes": 28246
   },
   {
    "slug": "campanella",
-   "page_len": 102976,
    "status": "pool",
    "n_patches": 90,
+   "page_len": 102976,
    "pool_bytes": 49946
   },
   {
    "slug": "camus",
-   "page_len": 104364,
    "status": "pool",
-   "n_patches": 87,
-   "pool_bytes": 55515
+   "n_patches": 88,
+   "page_len": 104364,
+   "pool_bytes": 55539
   },
   {
    "slug": "cancer",
@@ -1682,15 +1680,15 @@
   {
    "slug": "cardano",
    "status": "pool",
-   "n_patches": 94,
+   "n_patches": 95,
    "page_len": 106478,
-   "pool_bytes": 75254
+   "pool_bytes": 75276
   },
   {
    "slug": "carnap",
-   "page_len": 269072,
    "status": "pool",
    "n_patches": 449,
+   "page_len": 269072,
    "pool_bytes": 159867
   },
   {
@@ -1702,9 +1700,9 @@
   },
   {
    "slug": "cassirer",
-   "page_len": 79464,
    "status": "pool",
    "n_patches": 69,
+   "page_len": 79464,
    "pool_bytes": 35468
   },
   {
@@ -1723,9 +1721,9 @@
   },
   {
    "slug": "category-theory",
-   "page_len": 131292,
    "status": "gap",
    "why": "unaligned text units",
+   "page_len": 131292,
    "sample": {
     "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
     "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
@@ -1755,9 +1753,9 @@
   {
    "slug": "causation-backwards",
    "status": "pool",
-   "n_patches": 119,
+   "n_patches": 120,
    "page_len": 122268,
-   "pool_bytes": 35371
+   "pool_bytes": 35393
   },
   {
    "slug": "causation-counterfactual",
@@ -1817,9 +1815,9 @@
   },
   {
    "slug": "cell-biology",
-   "page_len": 175336,
    "status": "pool",
    "n_patches": 211,
+   "page_len": 175336,
    "pool_bytes": 86563
   },
   {
@@ -1832,15 +1830,15 @@
   {
    "slug": "certainty",
    "status": "pool",
-   "n_patches": 98,
+   "n_patches": 99,
    "page_len": 73138,
-   "pool_bytes": 47199
+   "pool_bytes": 47223
   },
   {
    "slug": "ceteris-paribus",
-   "page_len": 186708,
    "status": "pool",
    "n_patches": 299,
+   "page_len": 186708,
    "pool_bytes": 96080
   },
   {
@@ -1856,9 +1854,9 @@
   {
    "slug": "change",
    "status": "pool",
-   "n_patches": 82,
+   "n_patches": 83,
    "page_len": 78228,
-   "pool_bytes": 66852
+   "pool_bytes": 66874
   },
   {
    "slug": "chaos",
@@ -1869,9 +1867,9 @@
   },
   {
    "slug": "chemistry",
-   "page_len": 181618,
    "status": "gap",
    "why": "unaligned text units",
+   "page_len": 181618,
    "sample": {
     "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
     "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
@@ -1880,22 +1878,22 @@
   {
    "slug": "childhood",
    "status": "pool",
-   "n_patches": 78,
+   "n_patches": 79,
    "page_len": 60023,
-   "pool_bytes": 12758
+   "pool_bytes": 12782
   },
   {
    "slug": "children",
    "status": "pool",
-   "n_patches": 163,
+   "n_patches": 164,
    "page_len": 72486,
-   "pool_bytes": 26991
+   "pool_bytes": 27015
   },
   {
    "slug": "chimeras",
-   "page_len": 139177,
    "status": "pool",
    "n_patches": 237,
+   "page_len": 139177,
    "pool_bytes": 119464
   },
   {
@@ -1907,9 +1905,9 @@
   },
   {
    "slug": "chinese-epistemology",
-   "page_len": 146762,
    "status": "pool",
    "n_patches": 173,
+   "page_len": 146762,
    "pool_bytes": 82007
   },
   {
@@ -1929,9 +1927,9 @@
   {
    "slug": "chinese-metaphysics",
    "status": "pool",
-   "n_patches": 170,
+   "n_patches": 171,
    "page_len": 112927,
-   "pool_bytes": 72564
+   "pool_bytes": 72586
   },
   {
    "slug": "chinese-mind",
@@ -1950,16 +1948,16 @@
   {
    "slug": "chinese-phil-medicine",
    "status": "pool",
-   "n_patches": 141,
+   "n_patches": 142,
    "page_len": 76253,
-   "pool_bytes": 55376
+   "pool_bytes": 55398
   },
   {
    "slug": "chinese-phil-science",
    "status": "pool",
-   "n_patches": 131,
+   "n_patches": 132,
    "page_len": 80870,
-   "pool_bytes": 64099
+   "pool_bytes": 64121
   },
   {
    "slug": "chinese-room",
@@ -1988,9 +1986,9 @@
   {
    "slug": "chisholm",
    "status": "pool",
-   "n_patches": 148,
+   "n_patches": 149,
    "page_len": 139742,
-   "pool_bytes": 56120
+   "pool_bytes": 56144
   },
   {
    "slug": "christiantheology-philosophy",
@@ -2018,9 +2016,9 @@
   },
   {
    "slug": "cicero",
-   "page_len": 103487,
    "status": "pool",
    "n_patches": 84,
+   "page_len": 103487,
    "pool_bytes": 21801
   },
   {
@@ -2060,9 +2058,9 @@
   },
   {
    "slug": "clauberg",
-   "page_len": 110060,
    "status": "pool",
    "n_patches": 163,
+   "page_len": 110060,
    "pool_bytes": 69633
   },
   {
@@ -2082,9 +2080,9 @@
   {
    "slug": "cloning",
    "status": "pool",
-   "n_patches": 81,
+   "n_patches": 82,
    "page_len": 85358,
-   "pool_bytes": 26642
+   "pool_bytes": 26666
   },
   {
    "slug": "closure-epistemic",
@@ -2117,30 +2115,30 @@
   {
    "slug": "cognitive-disability",
    "status": "pool",
-   "n_patches": 116,
+   "n_patches": 117,
    "page_len": 112561,
-   "pool_bytes": 50510
+   "pool_bytes": 50534
   },
   {
    "slug": "cognitive-science",
    "status": "pool",
-   "n_patches": 161,
+   "n_patches": 162,
    "page_len": 66839,
-   "pool_bytes": 38442
+   "pool_bytes": 38466
   },
   {
    "slug": "cohen",
-   "page_len": 119828,
    "status": "pool",
-   "n_patches": 128,
-   "pool_bytes": 46103
+   "n_patches": 129,
+   "page_len": 119828,
+   "pool_bytes": 46127
   },
   {
    "slug": "collective-intentionality",
    "status": "pool",
-   "n_patches": 196,
+   "n_patches": 197,
    "page_len": 121277,
-   "pool_bytes": 71219
+   "pool_bytes": 71243
   },
   {
    "slug": "collective-responsibility",
@@ -2158,9 +2156,9 @@
   },
   {
    "slug": "collingwood-aesthetics",
-   "page_len": 70475,
    "status": "pool",
    "n_patches": 49,
+   "page_len": 70475,
    "pool_bytes": 17070
   },
   {
@@ -2173,9 +2171,9 @@
   {
    "slug": "colonialism",
    "status": "pool",
-   "n_patches": 60,
+   "n_patches": 61,
    "page_len": 76766,
-   "pool_bytes": 25277
+   "pool_bytes": 25301
   },
   {
    "slug": "color",
@@ -2246,16 +2244,16 @@
   {
    "slug": "computability",
    "status": "pool",
-   "n_patches": 104,
+   "n_patches": 105,
    "page_len": 70077,
-   "pool_bytes": 55322
+   "pool_bytes": 55344
   },
   {
    "slug": "computation-physicalsystems",
    "status": "pool",
-   "n_patches": 175,
+   "n_patches": 176,
    "page_len": 153851,
-   "pool_bytes": 51885
+   "pool_bytes": 51907
   },
   {
    "slug": "computational-complexity",
@@ -2277,9 +2275,9 @@
   {
    "slug": "computational-mind",
    "status": "pool",
-   "n_patches": 307,
+   "n_patches": 308,
    "page_len": 188595,
-   "pool_bytes": 87390
+   "pool_bytes": 87412
   },
   {
    "slug": "computational-philosophy",
@@ -2298,37 +2296,37 @@
   {
    "slug": "computing-history",
    "status": "pool",
-   "n_patches": 113,
+   "n_patches": 114,
    "page_len": 69060,
-   "pool_bytes": 54080
+   "pool_bytes": 54104
   },
   {
    "slug": "computing-responsibility",
    "status": "pool",
-   "n_patches": 111,
+   "n_patches": 112,
    "page_len": 110863,
-   "pool_bytes": 49381
+   "pool_bytes": 49405
   },
   {
    "slug": "comte",
-   "page_len": 103959,
    "status": "pool",
-   "n_patches": 123,
-   "pool_bytes": 43338
+   "n_patches": 124,
+   "page_len": 103959,
+   "pool_bytes": 43360
   },
   {
    "slug": "concept-emotion-india",
    "status": "pool",
-   "n_patches": 102,
+   "n_patches": 103,
    "page_len": 83646,
-   "pool_bytes": 50588
+   "pool_bytes": 50610
   },
   {
    "slug": "concept-evil",
    "status": "pool",
-   "n_patches": 128,
+   "n_patches": 129,
    "page_len": 125952,
-   "pool_bytes": 33295
+   "pool_bytes": 33317
   },
   {
    "slug": "concept-religion",
@@ -2340,16 +2338,16 @@
   {
    "slug": "concepts",
    "status": "pool",
-   "n_patches": 197,
+   "n_patches": 198,
    "page_len": 126993,
-   "pool_bytes": 62285
+   "pool_bytes": 62309
   },
   {
    "slug": "conceptual-art",
    "status": "pool",
-   "n_patches": 83,
+   "n_patches": 84,
    "page_len": 72577,
-   "pool_bytes": 30130
+   "pool_bytes": 30154
   },
   {
    "slug": "condemnation",
@@ -2361,29 +2359,29 @@
   {
    "slug": "condillac",
    "status": "pool",
-   "n_patches": 120,
+   "n_patches": 121,
    "page_len": 118009,
-   "pool_bytes": 74183
+   "pool_bytes": 74207
   },
   {
    "slug": "conditionals",
-   "page_len": 159703,
    "status": "pool",
    "n_patches": 237,
+   "page_len": 159703,
    "pool_bytes": 44166
   },
   {
    "slug": "confirmation",
    "status": "pool",
-   "n_patches": 295,
+   "n_patches": 296,
    "page_len": 160635,
-   "pool_bytes": 78247
+   "pool_bytes": 78269
   },
   {
    "slug": "confucian-gender",
-   "page_len": 125972,
    "status": "gap",
    "why": "unaligned text units",
+   "page_len": 125972,
    "sample": {
     "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
     "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
@@ -2406,9 +2404,9 @@
   {
    "slug": "connectionism",
    "status": "pool",
-   "n_patches": 145,
+   "n_patches": 146,
    "page_len": 130713,
-   "pool_bytes": 44193
+   "pool_bytes": 44217
   },
   {
    "slug": "connectives-logic",
@@ -2437,9 +2435,9 @@
   {
    "slug": "consciousness",
    "status": "pool",
-   "n_patches": 323,
+   "n_patches": 324,
    "page_len": 181378,
-   "pool_bytes": 151299
+   "pool_bytes": 151321
   },
   {
    "slug": "consciousness-17th",
@@ -2450,9 +2448,9 @@
   },
   {
    "slug": "consciousness-animal",
-   "page_len": 162512,
    "status": "pool",
    "n_patches": 325,
+   "page_len": 162512,
    "pool_bytes": 108049
   },
   {
@@ -2481,9 +2479,9 @@
   },
   {
    "slug": "consciousness-representational",
-   "page_len": 143809,
    "status": "gap",
    "why": "unaligned text units",
+   "page_len": 143809,
    "sample": {
     "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
     "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
@@ -2506,9 +2504,9 @@
   {
    "slug": "consequence-medieval",
    "status": "pool",
-   "n_patches": 146,
+   "n_patches": 147,
    "page_len": 113659,
-   "pool_bytes": 58129
+   "pool_bytes": 58153
   },
   {
    "slug": "consequentialism",
@@ -2520,9 +2518,9 @@
   {
    "slug": "consequentialism-rule",
    "status": "pool",
-   "n_patches": 260,
+   "n_patches": 261,
    "page_len": 131406,
-   "pool_bytes": 33077
+   "pool_bytes": 33101
   },
   {
    "slug": "consequentializing",
@@ -2541,9 +2539,9 @@
   {
    "slug": "conservatism",
    "status": "pool",
-   "n_patches": 335,
+   "n_patches": 336,
    "page_len": 178393,
-   "pool_bytes": 48661
+   "pool_bytes": 48683
   },
   {
    "slug": "constitutionalism",
@@ -2576,9 +2574,9 @@
   {
    "slug": "content-causal",
    "status": "pool",
-   "n_patches": 221,
+   "n_patches": 222,
    "page_len": 120007,
-   "pool_bytes": 44127
+   "pool_bytes": 44151
   },
   {
    "slug": "content-externalism",
@@ -2596,9 +2594,9 @@
   },
   {
    "slug": "content-nonconceptual",
-   "page_len": 133526,
    "status": "pool",
    "n_patches": 166,
+   "page_len": 133526,
    "pool_bytes": 69686
   },
   {
@@ -2610,9 +2608,9 @@
   },
   {
    "slug": "contextualism-epistemology",
-   "page_len": 152648,
    "status": "pool",
    "n_patches": 240,
+   "page_len": 152648,
    "pool_bytes": 77417
   },
   {
@@ -2625,9 +2623,9 @@
   {
    "slug": "continuum-hypothesis",
    "status": "pool",
-   "n_patches": 132,
+   "n_patches": 133,
    "page_len": 122110,
-   "pool_bytes": 119914
+   "pool_bytes": 119938
   },
   {
    "slug": "contract-law",
@@ -2646,16 +2644,16 @@
   {
    "slug": "contractarianism-contemporary",
    "status": "pool",
-   "n_patches": 148,
+   "n_patches": 149,
    "page_len": 103149,
-   "pool_bytes": 32426
+   "pool_bytes": 32450
   },
   {
    "slug": "contractualism",
    "status": "pool",
-   "n_patches": 164,
+   "n_patches": 165,
    "page_len": 132910,
-   "pool_bytes": 42757
+   "pool_bytes": 42781
   },
   {
    "slug": "contradiction",
@@ -2719,16 +2717,16 @@
   {
    "slug": "cosmology-30s",
    "status": "pool",
-   "n_patches": 85,
+   "n_patches": 86,
    "page_len": 92838,
-   "pool_bytes": 29099
+   "pool_bytes": 29123
   },
   {
    "slug": "cosmology-theology",
    "status": "pool",
-   "n_patches": 80,
+   "n_patches": 81,
    "page_len": 95556,
-   "pool_bytes": 26966
+   "pool_bytes": 26990
   },
   {
    "slug": "cosmopolitanism",
@@ -2754,9 +2752,9 @@
   {
    "slug": "creation-conservation",
    "status": "pool",
-   "n_patches": 76,
+   "n_patches": 77,
    "page_len": 55570,
-   "pool_bytes": 20979
+   "pool_bytes": 21003
   },
   {
    "slug": "creationism",
@@ -2767,17 +2765,17 @@
   },
   {
    "slug": "creativity",
-   "page_len": 224301,
    "status": "pool",
    "n_patches": 335,
+   "page_len": 224301,
    "pool_bytes": 94384
   },
   {
    "slug": "crescas",
    "status": "pool",
-   "n_patches": 118,
+   "n_patches": 119,
    "page_len": 82947,
-   "pool_bytes": 47922
+   "pool_bytes": 47946
   },
   {
    "slug": "criminal-law",
@@ -2812,10 +2810,10 @@
   },
   {
    "slug": "croce-aesthetics",
-   "page_len": 65992,
    "status": "pool",
-   "n_patches": 73,
-   "pool_bytes": 33107
+   "n_patches": 74,
+   "page_len": 65992,
+   "pool_bytes": 33129
   },
   {
    "slug": "cudworth",
@@ -2854,9 +2852,9 @@
   },
   {
    "slug": "cusanus",
-   "page_len": 126284,
    "status": "pool",
    "n_patches": 205,
+   "page_len": 126284,
    "pool_bytes": 47967
   },
   {
@@ -2868,9 +2866,9 @@
   },
   {
    "slug": "dai-zhen",
-   "page_len": 107546,
    "status": "pool",
    "n_patches": 262,
+   "page_len": 107546,
    "pool_bytes": 79295
   },
   {
@@ -2883,9 +2881,9 @@
   {
    "slug": "dante",
    "status": "pool",
-   "n_patches": 216,
+   "n_patches": 217,
    "page_len": 147350,
-   "pool_bytes": 84834
+   "pool_bytes": 84856
   },
   {
    "slug": "daoism",
@@ -2911,9 +2909,9 @@
   {
    "slug": "david",
    "status": "pool",
-   "n_patches": 40,
+   "n_patches": 41,
    "page_len": 27493,
-   "pool_bytes": 12959
+   "pool_bytes": 12983
   },
   {
    "slug": "david-lewis",
@@ -2932,9 +2930,9 @@
   {
    "slug": "death",
    "status": "pool",
-   "n_patches": 167,
+   "n_patches": 168,
    "page_len": 133096,
-   "pool_bytes": 47799
+   "pool_bytes": 47821
   },
   {
    "slug": "death-definition",
@@ -2960,23 +2958,23 @@
   {
    "slug": "decision-theory",
    "status": "pool",
-   "n_patches": 349,
+   "n_patches": 350,
    "page_len": 183488,
-   "pool_bytes": 90545
+   "pool_bytes": 90567
   },
   {
    "slug": "decision-theory-descriptive",
-   "page_len": 100368,
    "status": "pool",
    "n_patches": 213,
+   "page_len": 100368,
    "pool_bytes": 54370
   },
   {
    "slug": "dedekind-foundations",
-   "page_len": 132917,
    "status": "pool",
-   "n_patches": 232,
-   "pool_bytes": 45637
+   "n_patches": 233,
+   "page_len": 132917,
+   "pool_bytes": 45659
   },
   {
    "slug": "deductivism-mathematics",
@@ -2995,9 +2993,9 @@
   {
    "slug": "definitions",
    "status": "pool",
-   "n_patches": 109,
+   "n_patches": 110,
    "page_len": 107997,
-   "pool_bytes": 46388
+   "pool_bytes": 46410
   },
   {
    "slug": "dehumanization",
@@ -3015,9 +3013,9 @@
   },
   {
    "slug": "della-porta",
-   "page_len": 107399,
    "status": "pool",
    "n_patches": 132,
+   "page_len": 107399,
    "pool_bytes": 48669
   },
   {
@@ -3030,9 +3028,9 @@
   {
    "slug": "delusion",
    "status": "pool",
-   "n_patches": 224,
+   "n_patches": 225,
    "page_len": 132221,
-   "pool_bytes": 72945
+   "pool_bytes": 72969
   },
   {
    "slug": "democracy",
@@ -3044,9 +3042,9 @@
   {
    "slug": "democritus",
    "status": "pool",
-   "n_patches": 72,
+   "n_patches": 73,
    "page_len": 55755,
-   "pool_bytes": 28902
+   "pool_bytes": 28926
   },
   {
    "slug": "demonstration-medieval",
@@ -3075,58 +3073,58 @@
   {
    "slug": "derrida",
    "status": "pool",
-   "n_patches": 85,
+   "n_patches": 86,
    "page_len": 106613,
-   "pool_bytes": 83080
+   "pool_bytes": 83102
   },
   {
    "slug": "descartes",
-   "page_len": 179236,
    "status": "pool",
    "n_patches": 199,
+   "page_len": 179236,
    "pool_bytes": 81094
   },
   {
    "slug": "descartes-epistemology",
-   "page_len": 241685,
    "status": "pool",
    "n_patches": 436,
+   "page_len": 241685,
    "pool_bytes": 191852
   },
   {
    "slug": "descartes-ethics",
-   "page_len": 84655,
    "status": "pool",
    "n_patches": 106,
+   "page_len": 84655,
    "pool_bytes": 43352
   },
   {
    "slug": "descartes-ideas",
    "status": "pool",
-   "n_patches": 118,
+   "n_patches": 119,
    "page_len": 83122,
-   "pool_bytes": 56302
+   "pool_bytes": 56324
   },
   {
    "slug": "descartes-mathematics",
-   "page_len": 121237,
    "status": "pool",
    "n_patches": 154,
+   "page_len": 121237,
    "pool_bytes": 60839
   },
   {
    "slug": "descartes-method",
-   "page_len": 113643,
    "status": "pool",
    "n_patches": 241,
+   "page_len": 113643,
    "pool_bytes": 83306
   },
   {
    "slug": "descartes-modal",
    "status": "pool",
-   "n_patches": 123,
+   "n_patches": 124,
    "page_len": 132344,
-   "pool_bytes": 88443
+   "pool_bytes": 88467
   },
   {
    "slug": "descartes-ontological",
@@ -3144,9 +3142,9 @@
   },
   {
    "slug": "descartes-works",
-   "page_len": 56312,
    "status": "pool",
    "n_patches": 61,
+   "page_len": 56312,
    "pool_bytes": 28942
   },
   {
@@ -3172,16 +3170,16 @@
   {
    "slug": "desgabets",
    "status": "pool",
-   "n_patches": 59,
+   "n_patches": 60,
    "page_len": 76100,
-   "pool_bytes": 34256
+   "pool_bytes": 34280
   },
   {
    "slug": "desire",
    "status": "pool",
-   "n_patches": 181,
+   "n_patches": 182,
    "page_len": 99610,
-   "pool_bytes": 81441
+   "pool_bytes": 81463
   },
   {
    "slug": "determinate-determinables",
@@ -3202,16 +3200,16 @@
   },
   {
    "slug": "dewey",
-   "page_len": 165549,
    "status": "pool",
    "n_patches": 274,
+   "page_len": 165549,
    "pool_bytes": 91881
   },
   {
    "slug": "dewey-aesthetics",
-   "page_len": 156305,
    "status": "pool",
    "n_patches": 220,
+   "page_len": 156305,
    "pool_bytes": 51276
   },
   {
@@ -3223,17 +3221,17 @@
   },
   {
    "slug": "dewey-political",
-   "page_len": 90709,
    "status": "pool",
    "n_patches": 83,
+   "page_len": 90709,
    "pool_bytes": 74665
   },
   {
    "slug": "dharmakiirti",
    "status": "pool",
-   "n_patches": 164,
+   "n_patches": 165,
    "page_len": 145889,
-   "pool_bytes": 114305
+   "pool_bytes": 114327
   },
   {
    "slug": "diagrams",
@@ -3254,9 +3252,9 @@
   },
   {
    "slug": "dialetheism",
-   "page_len": 128589,
    "status": "pool",
    "n_patches": 165,
+   "page_len": 128589,
    "pool_bytes": 59662
   },
   {
@@ -3289,9 +3287,9 @@
   },
   {
    "slug": "dilthey",
-   "page_len": 106344,
    "status": "pool",
    "n_patches": 167,
+   "page_len": 106344,
    "pool_bytes": 48783
   },
   {
@@ -3304,9 +3302,9 @@
   {
    "slug": "dirty-hands",
    "status": "pool",
-   "n_patches": 106,
+   "n_patches": 107,
    "page_len": 122246,
-   "pool_bytes": 56319
+   "pool_bytes": 56343
   },
   {
    "slug": "disability",
@@ -3383,9 +3381,9 @@
   },
   {
    "slug": "dispositions",
-   "page_len": 131661,
    "status": "pool",
    "n_patches": 202,
+   "page_len": 131661,
    "pool_bytes": 104179
   },
   {
@@ -3435,9 +3433,9 @@
   },
   {
    "slug": "double-consciousness",
-   "page_len": 129200,
    "status": "pool",
    "n_patches": 115,
+   "page_len": 129200,
    "pool_bytes": 48768
   },
   {
@@ -3478,9 +3476,9 @@
   {
    "slug": "dualism",
    "status": "pool",
-   "n_patches": 201,
+   "n_patches": 202,
    "page_len": 160747,
-   "pool_bytes": 47768
+   "pool_bytes": 47790
   },
   {
    "slug": "dubois",
@@ -3491,17 +3489,17 @@
   },
   {
    "slug": "duhem",
-   "page_len": 95319,
    "status": "pool",
    "n_patches": 176,
+   "page_len": 95319,
    "pool_bytes": 42385
   },
   {
    "slug": "duns-scotus",
-   "page_len": 88314,
    "status": "pool",
-   "n_patches": 142,
-   "pool_bytes": 43009
+   "n_patches": 143,
+   "page_len": 88314,
+   "pool_bytes": 43031
   },
   {
    "slug": "dutch-book",
@@ -3522,15 +3520,9 @@
   },
   {
    "slug": "dynamic-epistemic",
-   "page_len": 219397,
-   "link_miss": 25,
-   "miss_sample": [
-    "\\(\\PAL\\)",
-    "Section 5.3",
-    "Epistemic Paradoxes"
-   ],
    "status": "gap",
    "why": "unaligned text units",
+   "page_len": 219397,
    "sample": {
     "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
     "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
@@ -3577,15 +3569,15 @@
   {
    "slug": "economic-justice",
    "status": "pool",
-   "n_patches": 196,
+   "n_patches": 197,
    "page_len": 151491,
-   "pool_bytes": 46303
+   "pool_bytes": 46325
   },
   {
    "slug": "economics",
-   "page_len": 273974,
    "status": "pool",
    "n_patches": 498,
+   "page_len": 273974,
    "pool_bytes": 173934
   },
   {
@@ -3605,9 +3597,9 @@
   {
    "slug": "edwards",
    "status": "pool",
-   "n_patches": 79,
+   "n_patches": 80,
    "page_len": 75787,
-   "pool_bytes": 30793
+   "pool_bytes": 30817
   },
   {
    "slug": "egalitarianism",
@@ -3632,10 +3624,10 @@
   },
   {
    "slug": "einstein-philscience",
-   "page_len": 119738,
    "status": "pool",
-   "n_patches": 201,
-   "pool_bytes": 53940
+   "n_patches": 202,
+   "page_len": 119738,
+   "pool_bytes": 53964
   },
   {
    "slug": "elias",
@@ -3647,9 +3639,9 @@
   {
    "slug": "elisabeth-bohemia",
    "status": "pool",
-   "n_patches": 109,
+   "n_patches": 110,
    "page_len": 56908,
-   "pool_bytes": 33142
+   "pool_bytes": 33164
   },
   {
    "slug": "embodied-cognition",
@@ -3671,9 +3663,9 @@
   {
    "slug": "emilie-du-chatelet",
    "status": "pool",
-   "n_patches": 146,
+   "n_patches": 147,
    "page_len": 112249,
-   "pool_bytes": 98788
+   "pool_bytes": 98812
   },
   {
    "slug": "emily-elizabeth-constance-jones",
@@ -3701,16 +3693,16 @@
   },
   {
    "slug": "emotions-17th18th",
-   "page_len": 105560,
    "status": "pool",
-   "n_patches": 179,
-   "pool_bytes": 63417
+   "n_patches": 180,
+   "page_len": 105560,
+   "pool_bytes": 63441
   },
   {
    "slug": "emotions-chinese",
-   "page_len": 148017,
    "status": "gap",
    "why": "unaligned text units",
+   "page_len": 148017,
    "sample": {
     "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
     "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
@@ -3739,9 +3731,9 @@
   },
   {
    "slug": "engels",
-   "page_len": 111466,
    "status": "pool",
    "n_patches": 99,
+   "page_len": 111466,
    "pool_bytes": 55170
   },
   {
@@ -3754,9 +3746,9 @@
   {
    "slug": "enlightenment",
    "status": "pool",
-   "n_patches": 98,
+   "n_patches": 99,
    "page_len": 143955,
-   "pool_bytes": 69382
+   "pool_bytes": 69406
   },
   {
    "slug": "environmental-aesthetics",
@@ -3768,16 +3760,16 @@
   {
    "slug": "envy",
    "status": "pool",
-   "n_patches": 87,
+   "n_patches": 88,
    "page_len": 56840,
-   "pool_bytes": 44131
+   "pool_bytes": 44155
   },
   {
    "slug": "epictetus",
    "status": "pool",
-   "n_patches": 76,
+   "n_patches": 77,
    "page_len": 62629,
-   "pool_bytes": 18228
+   "pool_bytes": 18252
   },
   {
    "slug": "epicurus",
@@ -3788,10 +3780,10 @@
   },
   {
    "slug": "epiphenomenalism",
-   "page_len": 90496,
    "status": "pool",
-   "n_patches": 90,
-   "pool_bytes": 24244
+   "n_patches": 91,
+   "page_len": 90496,
+   "pool_bytes": 24268
   },
   {
    "slug": "episteme-techne",
@@ -3802,16 +3794,20 @@
   },
   {
    "slug": "epistemic-game",
-   "page_len": 272979,
    "status": "gap",
-   "rule_patches": 539
+   "why": "apply verify failed",
+   "page_len": 272979,
+   "sample": {
+    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![endif]-->\n<!--[if !IE]",
+    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![endif]-->\n<!--[if !IE]"
+   }
   },
   {
    "slug": "epistemic-paradoxes",
    "status": "pool",
-   "n_patches": 155,
+   "n_patches": 156,
    "page_len": 111329,
-   "pool_bytes": 45204
+   "pool_bytes": 45228
   },
   {
    "slug": "epistemic-self-doubt",
@@ -3823,9 +3819,9 @@
   {
    "slug": "epistemic-utility",
    "status": "pool",
-   "n_patches": 341,
+   "n_patches": 342,
    "page_len": 164529,
-   "pool_bytes": 95361
+   "pool_bytes": 95383
   },
   {
    "slug": "epistemology",
@@ -3871,24 +3867,24 @@
   },
   {
    "slug": "epistemology-language-tibetan",
-   "page_len": 101102,
    "status": "pool",
-   "n_patches": 146,
-   "pool_bytes": 42091
+   "n_patches": 147,
+   "page_len": 101102,
+   "pool_bytes": 42115
   },
   {
    "slug": "epistemology-latin-america",
-   "page_len": 95134,
    "status": "pool",
    "n_patches": 122,
+   "page_len": 95134,
    "pool_bytes": 39131
   },
   {
    "slug": "epistemology-naturalized",
-   "page_len": 161077,
    "status": "pool",
-   "n_patches": 266,
-   "pool_bytes": 100610
+   "n_patches": 267,
+   "page_len": 161077,
+   "pool_bytes": 100632
   },
   {
    "slug": "epistemology-social",
@@ -3954,9 +3950,9 @@
   },
   {
    "slug": "erasmus",
-   "page_len": 94058,
    "status": "pool",
    "n_patches": 134,
+   "page_len": 94058,
    "pool_bytes": 43065
   },
   {
@@ -3978,9 +3974,9 @@
   },
   {
    "slug": "ernst-mach",
-   "page_len": 121265,
    "status": "gap",
    "why": "unaligned text units",
+   "page_len": 121265,
    "sample": {
     "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
     "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
@@ -4024,9 +4020,9 @@
   {
    "slug": "ethics-belief",
    "status": "pool",
-   "n_patches": 226,
+   "n_patches": 227,
    "page_len": 119022,
-   "pool_bytes": 66128
+   "pool_bytes": 66152
   },
   {
    "slug": "ethics-business",
@@ -4038,9 +4034,9 @@
   {
    "slug": "ethics-chinese",
    "status": "pool",
-   "n_patches": 209,
+   "n_patches": 210,
    "page_len": 258795,
-   "pool_bytes": 153211
+   "pool_bytes": 153235
   },
   {
    "slug": "ethics-cultural-heritage",
@@ -4059,9 +4055,9 @@
   {
    "slug": "ethics-environmental",
    "status": "pool",
-   "n_patches": 219,
+   "n_patches": 220,
    "page_len": 186011,
-   "pool_bytes": 87890
+   "pool_bytes": 87914
   },
   {
    "slug": "ethics-indian-buddhism",
@@ -4108,9 +4104,9 @@
   {
    "slug": "ethics-social-networking",
    "status": "pool",
-   "n_patches": 94,
+   "n_patches": 95,
    "page_len": 118610,
-   "pool_bytes": 42833
+   "pool_bytes": 42857
   },
   {
    "slug": "ethics-virtue",
@@ -4143,22 +4139,22 @@
   {
    "slug": "evidence",
    "status": "pool",
-   "n_patches": 144,
+   "n_patches": 145,
    "page_len": 128322,
-   "pool_bytes": 118045
+   "pool_bytes": 118069
   },
   {
    "slug": "evidence-legal",
    "status": "pool",
-   "n_patches": 196,
+   "n_patches": 197,
    "page_len": 146279,
-   "pool_bytes": 73709
+   "pool_bytes": 73731
   },
   {
    "slug": "evil",
-   "page_len": 180027,
    "status": "pool",
    "n_patches": 329,
+   "page_len": 180027,
    "pool_bytes": 167758
   },
   {
@@ -4198,17 +4194,17 @@
   },
   {
    "slug": "evolutionary-psychology",
-   "page_len": 103778,
    "status": "pool",
    "n_patches": 120,
+   "page_len": 103778,
    "pool_bytes": 38769
   },
   {
    "slug": "existence",
    "status": "pool",
-   "n_patches": 137,
+   "n_patches": 138,
    "page_len": 101079,
-   "pool_bytes": 67743
+   "pool_bytes": 67767
   },
   {
    "slug": "existentialism",
@@ -4269,16 +4265,16 @@
   {
    "slug": "faith",
    "status": "pool",
-   "n_patches": 136,
+   "n_patches": 137,
    "page_len": 124342,
-   "pool_bytes": 58759
+   "pool_bytes": 58783
   },
   {
    "slug": "falaquera",
-   "page_len": 73984,
    "status": "pool",
-   "n_patches": 91,
-   "pool_bytes": 58739
+   "n_patches": 92,
+   "page_len": 73984,
+   "pool_bytes": 58763
   },
   {
    "slug": "fallacies",
@@ -4296,9 +4292,9 @@
   },
   {
    "slug": "fechner",
-   "page_len": 96539,
    "status": "pool",
    "n_patches": 134,
+   "page_len": 96539,
    "pool_bytes": 73714
   },
   {
@@ -4311,9 +4307,9 @@
   {
    "slug": "feigl",
    "status": "pool",
-   "n_patches": 95,
+   "n_patches": 96,
    "page_len": 87820,
-   "pool_bytes": 38648
+   "pool_bytes": 38670
   },
   {
    "slug": "femapproach-analy-cont",
@@ -4339,9 +4335,9 @@
   {
    "slug": "femapproach-prag-cont",
    "status": "pool",
-   "n_patches": 82,
+   "n_patches": 83,
    "page_len": 97817,
-   "pool_bytes": 35295
+   "pool_bytes": 35319
   },
   {
    "slug": "femapproach-pragmatism",
@@ -4367,9 +4363,9 @@
   {
    "slug": "feminism-autonomy",
    "status": "pool",
-   "n_patches": 109,
+   "n_patches": 110,
    "page_len": 115403,
-   "pool_bytes": 49312
+   "pool_bytes": 49336
   },
   {
    "slug": "feminism-class",
@@ -4381,16 +4377,16 @@
   {
    "slug": "feminism-disability",
    "status": "pool",
-   "n_patches": 163,
+   "n_patches": 164,
    "page_len": 114908,
-   "pool_bytes": 91252
+   "pool_bytes": 91276
   },
   {
    "slug": "feminism-environmental",
    "status": "pool",
-   "n_patches": 168,
+   "n_patches": 169,
    "page_len": 91514,
-   "pool_bytes": 62384
+   "pool_bytes": 62406
   },
   {
    "slug": "feminism-epistemology",
@@ -4409,30 +4405,30 @@
   {
    "slug": "feminism-family",
    "status": "pool",
-   "n_patches": 126,
+   "n_patches": 127,
    "page_len": 70550,
-   "pool_bytes": 56379
+   "pool_bytes": 56403
   },
   {
    "slug": "feminism-femhist",
-   "page_len": 148291,
    "status": "pool",
    "n_patches": 200,
+   "page_len": 148291,
    "pool_bytes": 76877
   },
   {
    "slug": "feminism-gender",
    "status": "pool",
-   "n_patches": 124,
+   "n_patches": 125,
    "page_len": 137492,
-   "pool_bytes": 56312
+   "pool_bytes": 56336
   },
   {
    "slug": "feminism-globalization",
    "status": "pool",
-   "n_patches": 123,
+   "n_patches": 124,
    "page_len": 103872,
-   "pool_bytes": 40690
+   "pool_bytes": 40712
   },
   {
    "slug": "feminism-language",
@@ -4479,9 +4475,9 @@
   {
    "slug": "feminism-objectification",
    "status": "pool",
-   "n_patches": 115,
+   "n_patches": 116,
    "page_len": 97003,
-   "pool_bytes": 38926
+   "pool_bytes": 38950
   },
   {
    "slug": "feminism-political",
@@ -4500,15 +4496,15 @@
   {
    "slug": "feminism-rape",
    "status": "pool",
-   "n_patches": 116,
+   "n_patches": 117,
    "page_len": 126505,
-   "pool_bytes": 32609
+   "pool_bytes": 32631
   },
   {
    "slug": "feminism-self",
-   "page_len": 98772,
    "status": "pool",
    "n_patches": 117,
+   "page_len": 98772,
    "pool_bytes": 26075
   },
   {
@@ -4562,13 +4558,10 @@
   },
   {
    "slug": "feminist-science",
-   "status": "gap",
-   "why": "unaligned text units",
+   "status": "pool",
+   "n_patches": 259,
    "page_len": 174340,
-   "sample": {
-    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
-    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
-   }
+   "pool_bytes": 71409
   },
   {
    "slug": "feminist-sex-markets",
@@ -4580,9 +4573,9 @@
   {
    "slug": "feminist-social-epistemology",
    "status": "pool",
-   "n_patches": 158,
+   "n_patches": 159,
    "page_len": 141895,
-   "pool_bytes": 60860
+   "pool_bytes": 60882
   },
   {
    "slug": "feyerabend",
@@ -4635,16 +4628,16 @@
   {
    "slug": "fictionalism-mathematics",
    "status": "pool",
-   "n_patches": 143,
+   "n_patches": 144,
    "page_len": 109892,
-   "pool_bytes": 52160
+   "pool_bytes": 52182
   },
   {
    "slug": "fictionalism-modal",
    "status": "pool",
-   "n_patches": 77,
+   "n_patches": 78,
    "page_len": 103392,
-   "pool_bytes": 26718
+   "pool_bytes": 26742
   },
   {
    "slug": "fideism",
@@ -4656,21 +4649,15 @@
   {
    "slug": "film",
    "status": "pool",
-   "n_patches": 123,
+   "n_patches": 124,
    "page_len": 64249,
-   "pool_bytes": 50424
+   "pool_bytes": 50448
   },
   {
    "slug": "findlay",
-   "page_len": 114070,
-   "link_miss": 9,
-   "miss_sample": [
-    "LU",
-    "M",
-    "ML"
-   ],
    "status": "pool",
    "n_patches": 247,
+   "page_len": 114070,
    "pool_bytes": 51850
   },
   {
@@ -4692,7 +4679,7 @@
    "status": "pool",
    "n_patches": 91,
    "page_len": 70855,
-   "pool_bytes": 52165
+   "pool_bytes": 52187
   },
   {
    "slug": "fitting-attitude-theories",
@@ -4775,17 +4762,17 @@
   },
   {
    "slug": "foucault",
-   "page_len": 91570,
    "status": "pool",
    "n_patches": 90,
+   "page_len": 91570,
    "pool_bytes": 28435
   },
   {
    "slug": "frame-problem",
    "status": "pool",
-   "n_patches": 67,
+   "n_patches": 68,
    "page_len": 51295,
-   "pool_bytes": 36507
+   "pool_bytes": 36531
   },
   {
    "slug": "francis-bacon",
@@ -4796,15 +4783,10 @@
   },
   {
    "slug": "francis-marchia",
-   "page_len": 80455,
-   "link_miss": 2,
-   "miss_sample": [
-    "the\ncritical edition cited below",
-    "Philosophical Theology"
-   ],
    "status": "pool",
-   "n_patches": 115,
-   "pool_bytes": 62933
+   "n_patches": 116,
+   "page_len": 80455,
+   "pool_bytes": 62955
   },
   {
    "slug": "francisco-sanches",
@@ -4850,9 +4832,9 @@
   },
   {
    "slug": "freedom-ancient",
-   "page_len": 124086,
    "status": "pool",
    "n_patches": 108,
+   "page_len": 124086,
    "pool_bytes": 51677
   },
   {
@@ -4878,10 +4860,10 @@
   },
   {
    "slug": "frege",
-   "page_len": 152964,
    "status": "pool",
-   "n_patches": 305,
-   "pool_bytes": 79182
+   "n_patches": 306,
+   "page_len": 152964,
+   "pool_bytes": 79204
   },
   {
    "slug": "frege-hilbert",
@@ -4892,9 +4874,9 @@
   },
   {
    "slug": "frege-logic",
-   "page_len": 209394,
    "status": "gap",
    "why": "unaligned text units",
+   "page_len": 209394,
    "sample": {
     "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
     "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
@@ -4903,22 +4885,22 @@
   {
    "slug": "frege-theorem",
    "status": "pool",
-   "n_patches": 337,
+   "n_patches": 338,
    "page_len": 176998,
-   "pool_bytes": 118498
+   "pool_bytes": 118522
   },
   {
    "slug": "friedrich-hayek",
-   "page_len": 87890,
    "status": "pool",
    "n_patches": 91,
+   "page_len": 87890,
    "pool_bytes": 29398
   },
   {
    "slug": "friedrich-jacobi",
-   "page_len": 129672,
    "status": "pool",
    "n_patches": 178,
+   "page_len": 129672,
    "pool_bytes": 56894
   },
   {
@@ -4971,9 +4953,9 @@
   },
   {
    "slug": "gadamer",
-   "page_len": 96191,
    "status": "pool",
    "n_patches": 112,
+   "page_len": 96191,
    "pool_bytes": 37201
   },
   {
@@ -4985,22 +4967,16 @@
   },
   {
    "slug": "galen",
-   "page_len": 164913,
-   "link_miss": 25,
-   "miss_sample": [
-    "§3.",
-    "4",
-    "§3.1"
-   ],
    "status": "pool",
    "n_patches": 284,
+   "page_len": 164913,
    "pool_bytes": 154703
   },
   {
    "slug": "galileo",
-   "page_len": 111823,
    "status": "pool",
    "n_patches": 204,
+   "page_len": 111823,
    "pool_bytes": 54110
   },
   {
@@ -5015,9 +4991,9 @@
   },
   {
    "slug": "game-evolutionary",
-   "page_len": 152048,
    "status": "gap",
    "why": "unaligned text units",
+   "page_len": 152048,
    "sample": {
     "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
     "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
@@ -5025,9 +5001,9 @@
   },
   {
    "slug": "game-theory",
-   "page_len": 391654,
    "status": "gap",
    "why": "unaligned text units",
+   "page_len": 391654,
    "sample": {
     "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
     "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
@@ -5060,9 +5036,9 @@
   {
    "slug": "gassendi",
    "status": "pool",
-   "n_patches": 98,
+   "n_patches": 99,
    "page_len": 139316,
-   "pool_bytes": 48175
+   "pool_bytes": 48199
   },
   {
    "slug": "gasset",
@@ -5081,9 +5057,9 @@
   {
    "slug": "gelukpa",
    "status": "pool",
-   "n_patches": 41,
+   "n_patches": 42,
    "page_len": 53491,
-   "pool_bytes": 13897
+   "pool_bytes": 13919
   },
   {
    "slug": "gene",
@@ -5147,9 +5123,9 @@
   {
    "slug": "geometry-19th",
    "status": "pool",
-   "n_patches": 96,
+   "n_patches": 97,
    "page_len": 69902,
-   "pool_bytes": 57215
+   "pool_bytes": 57239
   },
   {
    "slug": "geometry-finitism",
@@ -5163,23 +5139,23 @@
   },
   {
    "slug": "george-eliot",
-   "page_len": 104342,
    "status": "pool",
    "n_patches": 185,
+   "page_len": 104342,
    "pool_bytes": 43627
   },
   {
    "slug": "gersonides",
    "status": "pool",
-   "n_patches": 65,
+   "n_patches": 66,
    "page_len": 69423,
-   "pool_bytes": 29901
+   "pool_bytes": 29925
   },
   {
    "slug": "gianfrancesco-pico",
-   "page_len": 82687,
    "status": "pool",
    "n_patches": 95,
+   "page_len": 82687,
    "pool_bytes": 40870
   },
   {
@@ -5226,10 +5202,10 @@
   },
   {
    "slug": "godwin",
-   "page_len": 78494,
    "status": "pool",
-   "n_patches": 100,
-   "pool_bytes": 42292
+   "n_patches": 101,
+   "page_len": 78494,
+   "pool_bytes": 42316
   },
   {
    "slug": "goedel",
@@ -5241,9 +5217,9 @@
   {
    "slug": "goedel-incompleteness",
    "status": "pool",
-   "n_patches": 224,
+   "n_patches": 225,
    "page_len": 143837,
-   "pool_bytes": 82072
+   "pool_bytes": 82094
   },
   {
    "slug": "gomez-pereira",
@@ -5255,50 +5231,50 @@
   {
    "slug": "goodman",
    "status": "pool",
-   "n_patches": 154,
+   "n_patches": 155,
    "page_len": 119028,
-   "pool_bytes": 52191
+   "pool_bytes": 52213
   },
   {
    "slug": "goodman-aesthetics",
    "status": "pool",
-   "n_patches": 233,
+   "n_patches": 234,
    "page_len": 141963,
-   "pool_bytes": 81930
+   "pool_bytes": 81954
   },
   {
    "slug": "gorampa",
    "status": "pool",
-   "n_patches": 59,
+   "n_patches": 60,
    "page_len": 56406,
-   "pool_bytes": 22832
+   "pool_bytes": 22856
   },
   {
    "slug": "gramsci",
-   "page_len": 91686,
    "status": "pool",
    "n_patches": 87,
+   "page_len": 91686,
    "pool_bytes": 18888
   },
   {
    "slug": "gratitude",
    "status": "pool",
-   "n_patches": 111,
+   "n_patches": 112,
    "page_len": 118894,
-   "pool_bytes": 84741
+   "pool_bytes": 84763
   },
   {
    "slug": "green",
-   "page_len": 122281,
    "status": "pool",
    "n_patches": 253,
+   "page_len": 122281,
    "pool_bytes": 108095
   },
   {
    "slug": "gregory-rimini",
-   "page_len": 79409,
    "status": "gap",
    "why": "unaligned text units",
+   "page_len": 79409,
    "sample": {
     "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
     "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
@@ -5320,9 +5296,9 @@
   },
   {
    "slug": "grotius",
-   "page_len": 90135,
    "status": "pool",
    "n_patches": 136,
+   "page_len": 90135,
    "pool_bytes": 37197
   },
   {
@@ -5352,51 +5328,51 @@
   {
    "slug": "haecceitism",
    "status": "pool",
-   "n_patches": 148,
+   "n_patches": 149,
    "page_len": 115024,
-   "pool_bytes": 49980
+   "pool_bytes": 50002
   },
   {
    "slug": "halevi",
-   "page_len": 114298,
    "status": "pool",
    "n_patches": 84,
+   "page_len": 114298,
    "pool_bytes": 30853
   },
   {
    "slug": "hamann",
-   "page_len": 101638,
    "status": "pool",
    "n_patches": 151,
+   "page_len": 101638,
    "pool_bytes": 37384
   },
   {
    "slug": "han-dynasty",
-   "page_len": 117502,
    "status": "pool",
    "n_patches": 158,
+   "page_len": 117502,
    "pool_bytes": 71174
   },
   {
    "slug": "happiness",
    "status": "pool",
-   "n_patches": 283,
+   "n_patches": 284,
    "page_len": 158026,
-   "pool_bytes": 90781
+   "pool_bytes": 90805
   },
   {
    "slug": "hare",
    "status": "pool",
-   "n_patches": 224,
+   "n_patches": 225,
    "page_len": 108350,
-   "pool_bytes": 96546
+   "pool_bytes": 96568
   },
   {
    "slug": "harriet-mill",
    "status": "pool",
-   "n_patches": 73,
+   "n_patches": 74,
    "page_len": 72167,
-   "pool_bytes": 38623
+   "pool_bytes": 38647
   },
   {
    "slug": "hartley",
@@ -5453,9 +5429,9 @@
   {
    "slug": "hegel-aesthetics",
    "status": "pool",
-   "n_patches": 213,
+   "n_patches": 214,
    "page_len": 154039,
-   "pool_bytes": 103005
+   "pool_bytes": 103029
   },
   {
    "slug": "hegel-dialectics",
@@ -5466,31 +5442,31 @@
   },
   {
    "slug": "hegel-social-political",
-   "page_len": 75314,
    "status": "pool",
    "n_patches": 81,
+   "page_len": 75314,
    "pool_bytes": 23140
   },
   {
    "slug": "heidegger",
-   "page_len": 254750,
    "status": "pool",
    "n_patches": 388,
+   "page_len": 254750,
    "pool_bytes": 164442
   },
   {
    "slug": "heidegger-aesthetics",
-   "page_len": 210076,
    "status": "pool",
-   "n_patches": 175,
-   "pool_bytes": 150798
+   "n_patches": 176,
+   "page_len": 210076,
+   "pool_bytes": 150820
   },
   {
    "slug": "heinrich-rickert",
-   "page_len": 136927,
    "status": "pool",
-   "n_patches": 137,
-   "pool_bytes": 92804
+   "n_patches": 138,
+   "page_len": 136927,
+   "pool_bytes": 92826
   },
   {
    "slug": "hempel",
@@ -5501,10 +5477,10 @@
   },
   {
    "slug": "henricus-regius",
-   "page_len": 68492,
    "status": "pool",
-   "n_patches": 75,
-   "pool_bytes": 34722
+   "n_patches": 76,
+   "page_len": 68492,
+   "pool_bytes": 34744
   },
   {
    "slug": "henry-ghent",
@@ -5519,22 +5495,22 @@
   {
    "slug": "henry-more",
    "status": "pool",
-   "n_patches": 146,
+   "n_patches": 147,
    "page_len": 146847,
-   "pool_bytes": 77629
+   "pool_bytes": 77653
   },
   {
    "slug": "heraclitus",
-   "page_len": 63500,
    "status": "pool",
    "n_patches": 83,
+   "page_len": 63500,
    "pool_bytes": 24802
   },
   {
    "slug": "herder",
-   "page_len": 200334,
    "status": "pool",
    "n_patches": 190,
+   "page_len": 200334,
    "pool_bytes": 109388
   },
   {
@@ -5554,9 +5530,9 @@
   {
    "slug": "hermann-lotze",
    "status": "pool",
-   "n_patches": 174,
+   "n_patches": 175,
    "page_len": 125049,
-   "pool_bytes": 63772
+   "pool_bytes": 63796
   },
   {
    "slug": "hermeneutics",
@@ -5567,9 +5543,9 @@
   },
   {
    "slug": "heytesbury",
-   "page_len": 129085,
    "status": "gap",
    "why": "unaligned text units",
+   "page_len": 129085,
    "sample": {
     "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
     "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
@@ -5585,9 +5561,9 @@
   {
    "slug": "hilbert-program",
    "status": "pool",
-   "n_patches": 57,
+   "n_patches": 58,
    "page_len": 100728,
-   "pool_bytes": 77875
+   "pool_bytes": 77899
   },
   {
    "slug": "hist-westphilmusic-since-1800",
@@ -5605,9 +5581,9 @@
   },
   {
    "slug": "histfem-condorcet",
-   "page_len": 119769,
    "status": "pool",
    "n_patches": 196,
+   "page_len": 119769,
    "pool_bytes": 92386
   },
   {
@@ -5619,23 +5595,23 @@
   },
   {
    "slug": "hobbes",
-   "page_len": 85187,
    "status": "pool",
-   "n_patches": 107,
-   "pool_bytes": 34789
+   "n_patches": 108,
+   "page_len": 85187,
+   "pool_bytes": 34813
   },
   {
    "slug": "hobbes-moral",
    "status": "pool",
-   "n_patches": 95,
+   "n_patches": 96,
    "page_len": 66433,
-   "pool_bytes": 38778
+   "pool_bytes": 38802
   },
   {
    "slug": "hobbes-science",
-   "page_len": 74440,
    "status": "gap",
    "why": "unaligned text units",
+   "page_len": 74440,
    "sample": {
     "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
     "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
@@ -5672,22 +5648,22 @@
   {
    "slug": "homosexuality",
    "status": "pool",
-   "n_patches": 59,
+   "n_patches": 60,
    "page_len": 74516,
-   "pool_bytes": 16593
+   "pool_bytes": 16617
   },
   {
    "slug": "hope",
-   "page_len": 132487,
    "status": "pool",
    "n_patches": 217,
+   "page_len": 132487,
    "pool_bytes": 69781
   },
   {
    "slug": "horkheimer",
-   "page_len": 97209,
    "status": "pool",
    "n_patches": 68,
+   "page_len": 97209,
    "pool_bytes": 38009
   },
   {
@@ -5720,24 +5696,24 @@
   },
   {
    "slug": "hume-aesthetics",
-   "page_len": 108156,
    "status": "pool",
    "n_patches": 159,
+   "page_len": 108156,
    "pool_bytes": 37224
   },
   {
    "slug": "hume-freewill",
-   "page_len": 114703,
    "status": "pool",
-   "n_patches": 170,
-   "pool_bytes": 102184
+   "n_patches": 171,
+   "page_len": 114703,
+   "pool_bytes": 102208
   },
   {
    "slug": "hume-moral",
    "status": "pool",
    "n_patches": 143,
    "page_len": 121013,
-   "pool_bytes": 110698
+   "pool_bytes": 110722
   },
   {
    "slug": "hume-newton",
@@ -5748,10 +5724,10 @@
   },
   {
    "slug": "hume-religion",
-   "page_len": 162260,
    "status": "pool",
-   "n_patches": 165,
-   "pool_bytes": 69821
+   "n_patches": 166,
+   "page_len": 162260,
+   "pool_bytes": 69843
   },
   {
    "slug": "humor",
@@ -5762,9 +5738,9 @@
   },
   {
    "slug": "husserl",
-   "page_len": 181459,
    "status": "pool",
    "n_patches": 244,
+   "page_len": 181459,
    "pool_bytes": 86680
   },
   {
@@ -5783,9 +5759,9 @@
   },
   {
    "slug": "iamblichus",
-   "page_len": 139649,
    "status": "gap",
    "why": "unaligned text units",
+   "page_len": 139649,
    "sample": {
     "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
     "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
@@ -5794,23 +5770,23 @@
   {
    "slug": "ibn-arabi",
    "status": "pool",
-   "n_patches": 140,
+   "n_patches": 141,
    "page_len": 115463,
-   "pool_bytes": 88644
+   "pool_bytes": 88666
   },
   {
    "slug": "ibn-bajja",
-   "page_len": 172610,
    "status": "pool",
    "n_patches": 268,
+   "page_len": 172610,
    "pool_bytes": 75695
   },
   {
    "slug": "ibn-ezra",
    "status": "pool",
-   "n_patches": 110,
+   "n_patches": 111,
    "page_len": 88310,
-   "pool_bytes": 77344
+   "pool_bytes": 77368
   },
   {
    "slug": "ibn-gabirol",
@@ -5821,16 +5797,16 @@
   },
   {
    "slug": "ibn-kammuna",
-   "page_len": 78094,
    "status": "pool",
    "n_patches": 80,
+   "page_len": 78094,
    "pool_bytes": 58134
   },
   {
    "slug": "ibn-rushd",
-   "page_len": 176871,
    "status": "pool",
    "n_patches": 246,
+   "page_len": 176871,
    "pool_bytes": 130801
   },
   {
@@ -5842,9 +5818,9 @@
   },
   {
    "slug": "ibn-sina",
-   "page_len": 100463,
    "status": "gap",
    "why": "unaligned text units",
+   "page_len": 100463,
    "sample": {
     "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
     "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
@@ -5862,10 +5838,10 @@
   },
   {
    "slug": "ibn-sina-metaphysics",
-   "page_len": 132821,
    "status": "pool",
-   "n_patches": 166,
-   "pool_bytes": 99171
+   "n_patches": 167,
+   "page_len": 132821,
+   "pool_bytes": 99193
   },
   {
    "slug": "ibn-sina-natural",
@@ -5879,16 +5855,16 @@
   },
   {
    "slug": "ibn-taymiyya",
-   "page_len": 114794,
    "status": "pool",
    "n_patches": 137,
+   "page_len": 114794,
    "pool_bytes": 70853
   },
   {
    "slug": "idealism",
-   "page_len": 387796,
    "status": "pool",
    "n_patches": 521,
+   "page_len": 387796,
    "pool_bytes": 198465
   },
   {
@@ -5943,9 +5919,9 @@
   {
    "slug": "identity-transworld",
    "status": "pool",
-   "n_patches": 106,
+   "n_patches": 107,
    "page_len": 120230,
-   "pool_bytes": 66809
+   "pool_bytes": 66831
   },
   {
    "slug": "ideology",
@@ -5971,9 +5947,9 @@
   {
    "slug": "illumination",
    "status": "pool",
-   "n_patches": 89,
+   "n_patches": 90,
    "page_len": 69816,
-   "pool_bytes": 24302
+   "pool_bytes": 24326
   },
   {
    "slug": "imagination",
@@ -6006,9 +5982,9 @@
   {
    "slug": "immutability",
    "status": "pool",
-   "n_patches": 60,
+   "n_patches": 61,
    "page_len": 51384,
-   "pool_bytes": 20166
+   "pool_bytes": 20190
   },
   {
    "slug": "impartiality",
@@ -6027,9 +6003,9 @@
   {
    "slug": "implicature-optimality-games",
    "status": "pool",
-   "n_patches": 127,
+   "n_patches": 128,
    "page_len": 64898,
-   "pool_bytes": 21487
+   "pool_bytes": 21509
   },
   {
    "slug": "implicit-bias",
@@ -6044,16 +6020,16 @@
   {
    "slug": "impossible-worlds",
    "status": "pool",
-   "n_patches": 202,
+   "n_patches": 203,
    "page_len": 139850,
-   "pool_bytes": 71366
+   "pool_bytes": 71388
   },
   {
    "slug": "imprecise-probabilities",
    "status": "pool",
-   "n_patches": 280,
+   "n_patches": 281,
    "page_len": 144320,
-   "pool_bytes": 120001
+   "pool_bytes": 120023
   },
   {
    "slug": "incommensurability",
@@ -6078,9 +6054,9 @@
   },
   {
    "slug": "independence-large-cardinals",
-   "page_len": 60838,
    "status": "pool",
    "n_patches": 115,
+   "page_len": 60838,
    "pool_bytes": 51057
   },
   {
@@ -6113,13 +6089,10 @@
   },
   {
    "slug": "information",
-   "status": "gap",
-   "why": "unaligned text units",
+   "status": "pool",
+   "n_patches": 549,
    "page_len": 280120,
-   "sample": {
-    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
-    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
-   }
+   "pool_bytes": 210597
   },
   {
    "slug": "information-biological",
@@ -6148,9 +6121,9 @@
   {
    "slug": "informed-consent",
    "status": "pool",
-   "n_patches": 136,
+   "n_patches": 137,
    "page_len": 116389,
-   "pool_bytes": 44355
+   "pool_bytes": 44379
   },
   {
    "slug": "ingarden",
@@ -6162,9 +6135,9 @@
   {
    "slug": "inheritance-systems",
    "status": "pool",
-   "n_patches": 152,
+   "n_patches": 153,
    "page_len": 150986,
-   "pool_bytes": 60308
+   "pool_bytes": 60330
   },
   {
    "slug": "innate-acquired",
@@ -6183,9 +6156,9 @@
   {
    "slug": "innateness-history",
    "status": "pool",
-   "n_patches": 103,
+   "n_patches": 104,
    "page_len": 69297,
-   "pool_bytes": 58139
+   "pool_bytes": 58163
   },
   {
    "slug": "innateness-language",
@@ -6210,9 +6183,9 @@
   },
   {
    "slug": "insolubles",
-   "page_len": 143658,
    "status": "pool",
    "n_patches": 233,
+   "page_len": 143658,
    "pool_bytes": 96340
   },
   {
@@ -6239,9 +6212,9 @@
   {
    "slug": "intention",
    "status": "pool",
-   "n_patches": 142,
+   "n_patches": 143,
    "page_len": 105422,
-   "pool_bytes": 43457
+   "pool_bytes": 43481
   },
   {
    "slug": "intentionality",
@@ -6298,9 +6271,9 @@
   {
    "slug": "intuitionism",
    "status": "pool",
-   "n_patches": 128,
+   "n_patches": 129,
    "page_len": 101842,
-   "pool_bytes": 54554
+   "pool_bytes": 54578
   },
   {
    "slug": "intuitionism-ethics",
@@ -6322,29 +6295,29 @@
   {
    "slug": "israeli",
    "status": "pool",
-   "n_patches": 65,
+   "n_patches": 66,
    "page_len": 68700,
-   "pool_bytes": 33618
+   "pool_bytes": 33640
   },
   {
    "slug": "it-moral-values",
    "status": "pool",
-   "n_patches": 146,
+   "n_patches": 147,
    "page_len": 136106,
-   "pool_bytes": 63813
+   "pool_bytes": 63835
   },
   {
    "slug": "it-privacy",
    "status": "pool",
-   "n_patches": 183,
+   "n_patches": 184,
    "page_len": 116473,
-   "pool_bytes": 57772
+   "pool_bytes": 57794
   },
   {
    "slug": "jaina-philosophy",
-   "page_len": 122739,
    "status": "gap",
    "why": "unaligned text units",
+   "page_len": 122739,
    "sample": {
     "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
     "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
@@ -6352,9 +6325,9 @@
   },
   {
    "slug": "james",
-   "page_len": 76844,
    "status": "gap",
    "why": "unaligned text units",
+   "page_len": 76844,
    "sample": {
     "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
     "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
@@ -6370,16 +6343,16 @@
   {
    "slug": "james-viterbo",
    "status": "pool",
-   "n_patches": 132,
+   "n_patches": 133,
    "page_len": 104437,
-   "pool_bytes": 73687
+   "pool_bytes": 73711
   },
   {
    "slug": "james-ward",
    "status": "pool",
-   "n_patches": 88,
+   "n_patches": 89,
    "page_len": 62019,
-   "pool_bytes": 45820
+   "pool_bytes": 45844
   },
   {
    "slug": "japanese-aesthetics",
@@ -6438,23 +6411,23 @@
   },
   {
    "slug": "jefferson",
-   "page_len": 132368,
    "status": "pool",
    "n_patches": 227,
+   "page_len": 132368,
    "pool_bytes": 46570
   },
   {
    "slug": "joane-petrizi",
    "status": "pool",
-   "n_patches": 66,
+   "n_patches": 67,
    "page_len": 49379,
-   "pool_bytes": 23764
+   "pool_bytes": 23786
   },
   {
    "slug": "johann-fichte",
-   "page_len": 109265,
    "status": "pool",
    "n_patches": 256,
+   "page_len": 109265,
    "pool_bytes": 64632
   },
   {
@@ -6484,9 +6457,9 @@
   {
    "slug": "john-norris",
    "status": "pool",
-   "n_patches": 82,
+   "n_patches": 83,
    "page_len": 81547,
-   "pool_bytes": 48929
+   "pool_bytes": 48951
   },
   {
    "slug": "john-salisbury",
@@ -6497,9 +6470,9 @@
   },
   {
    "slug": "jury-theorems",
-   "page_len": 133839,
    "status": "pool",
    "n_patches": 201,
+   "page_len": 133839,
    "pool_bytes": 60022
   },
   {
@@ -6532,9 +6505,9 @@
   },
   {
    "slug": "justice-bad-luck",
-   "page_len": 106308,
    "status": "pool",
    "n_patches": 226,
+   "page_len": 106308,
    "pool_bytes": 27064
   },
   {
@@ -6546,10 +6519,10 @@
   },
   {
    "slug": "justice-distributive",
-   "page_len": 131298,
    "status": "pool",
-   "n_patches": 168,
-   "pool_bytes": 71121
+   "n_patches": 169,
+   "page_len": 131298,
+   "pool_bytes": 71145
   },
   {
    "slug": "justice-global",
@@ -6581,10 +6554,10 @@
   },
   {
    "slug": "justice-moral-psych",
-   "page_len": 110609,
    "status": "pool",
-   "n_patches": 217,
-   "pool_bytes": 36572
+   "n_patches": 218,
+   "page_len": 110609,
+   "pool_bytes": 36594
   },
   {
    "slug": "justice-retributive",
@@ -6596,9 +6569,9 @@
   {
    "slug": "justice-transitional",
    "status": "pool",
-   "n_patches": 266,
+   "n_patches": 267,
    "page_len": 157549,
-   "pool_bytes": 141909
+   "pool_bytes": 141931
   },
   {
    "slug": "justice-virtue",
@@ -6610,9 +6583,9 @@
   {
    "slug": "justification-public",
    "status": "pool",
-   "n_patches": 147,
+   "n_patches": 148,
    "page_len": 114274,
-   "pool_bytes": 29184
+   "pool_bytes": 29208
   },
   {
    "slug": "justus-lipsius",
@@ -6623,30 +6596,30 @@
   },
   {
    "slug": "kant",
-   "page_len": 176103,
    "status": "pool",
-   "n_patches": 169,
-   "pool_bytes": 83403
+   "n_patches": 170,
+   "page_len": 176103,
+   "pool_bytes": 83427
   },
   {
    "slug": "kant-aesthetics",
-   "page_len": 237218,
    "status": "pool",
    "n_patches": 288,
+   "page_len": 237218,
    "pool_bytes": 120001
   },
   {
    "slug": "kant-conceptualism",
-   "page_len": 185793,
    "status": "pool",
    "n_patches": 320,
+   "page_len": 185793,
    "pool_bytes": 84227
   },
   {
    "slug": "kant-development",
-   "page_len": 132508,
    "status": "gap",
    "why": "unaligned text units",
+   "page_len": 132508,
    "sample": {
     "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
     "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
@@ -6654,24 +6627,24 @@
   },
   {
    "slug": "kant-hume-causality",
-   "page_len": 139805,
    "status": "pool",
    "n_patches": 387,
+   "page_len": 139805,
    "pool_bytes": 98193
   },
   {
    "slug": "kant-hume-morality",
-   "page_len": 135803,
    "status": "pool",
    "n_patches": 215,
+   "page_len": 135803,
    "pool_bytes": 81265
   },
   {
    "slug": "kant-judgment",
    "status": "pool",
-   "n_patches": 140,
+   "n_patches": 141,
    "page_len": 131082,
-   "pool_bytes": 88579
+   "pool_bytes": 88601
   },
   {
    "slug": "kant-leibniz",
@@ -6682,30 +6655,30 @@
   },
   {
    "slug": "kant-mathematics",
-   "page_len": 76734,
    "status": "pool",
-   "n_patches": 106,
-   "pool_bytes": 37358
+   "n_patches": 107,
+   "page_len": 76734,
+   "pool_bytes": 37380
   },
   {
    "slug": "kant-metaphysics",
    "status": "pool",
-   "n_patches": 101,
+   "n_patches": 102,
    "page_len": 103933,
-   "pool_bytes": 34988
+   "pool_bytes": 35012
   },
   {
    "slug": "kant-mind",
-   "page_len": 116901,
    "status": "pool",
-   "n_patches": 269,
-   "pool_bytes": 91503
+   "n_patches": 270,
+   "page_len": 116901,
+   "pool_bytes": 91527
   },
   {
    "slug": "kant-moral",
-   "page_len": 171205,
    "status": "pool",
    "n_patches": 144,
+   "page_len": 171205,
    "pool_bytes": 68855
   },
   {
@@ -6717,9 +6690,9 @@
   },
   {
    "slug": "kant-religion",
-   "page_len": 166046,
    "status": "pool",
    "n_patches": 216,
+   "page_len": 166046,
    "pool_bytes": 73558
   },
   {
@@ -6734,10 +6707,10 @@
   },
   {
    "slug": "kant-social-political",
-   "page_len": 109295,
    "status": "pool",
-   "n_patches": 92,
-   "pool_bytes": 23740
+   "n_patches": 93,
+   "page_len": 109295,
+   "pool_bytes": 23762
   },
   {
    "slug": "kant-spacetime",
@@ -6755,16 +6728,16 @@
   },
   {
    "slug": "kant-transcendental-idealism",
-   "page_len": 177976,
    "status": "pool",
    "n_patches": 282,
+   "page_len": 177976,
    "pool_bytes": 101641
   },
   {
    "slug": "karl-reinhold",
-   "page_len": 107553,
    "status": "pool",
    "n_patches": 148,
+   "page_len": 107553,
    "pool_bytes": 56132
   },
   {
@@ -6777,30 +6750,30 @@
   {
    "slug": "kepler",
    "status": "pool",
-   "n_patches": 129,
+   "n_patches": 130,
    "page_len": 105168,
-   "pool_bytes": 56939
+   "pool_bytes": 56961
   },
   {
    "slug": "kierkegaard",
-   "page_len": 151690,
    "status": "pool",
    "n_patches": 182,
+   "page_len": 151690,
    "pool_bytes": 75957
   },
   {
    "slug": "kilvington",
-   "page_len": 91102,
    "status": "pool",
    "n_patches": 127,
+   "page_len": 91102,
    "pool_bytes": 44702
   },
   {
    "slug": "knowledge-acquaindescrip",
    "status": "pool",
-   "n_patches": 146,
+   "n_patches": 147,
    "page_len": 125655,
-   "pool_bytes": 90731
+   "pool_bytes": 90753
   },
   {
    "slug": "knowledge-analysis",
@@ -6825,16 +6798,16 @@
   },
   {
    "slug": "kochen-specker",
-   "page_len": 111029,
    "status": "pool",
    "n_patches": 209,
+   "page_len": 111029,
    "pool_bytes": 107243
   },
   {
    "slug": "kokugaku-school",
-   "page_len": 90049,
    "status": "pool",
    "n_patches": 249,
+   "page_len": 90049,
    "pool_bytes": 54616
   },
   {
@@ -6846,10 +6819,10 @@
   },
   {
    "slug": "korean-confucianism",
-   "page_len": 135108,
    "status": "pool",
-   "n_patches": 201,
-   "pool_bytes": 77566
+   "n_patches": 202,
+   "page_len": 135108,
+   "pool_bytes": 77588
   },
   {
    "slug": "korean-philosophy",
@@ -6861,9 +6834,9 @@
   {
    "slug": "kukai",
    "status": "pool",
-   "n_patches": 124,
+   "n_patches": 125,
    "page_len": 145951,
-   "pool_bytes": 113320
+   "pool_bytes": 113342
   },
   {
    "slug": "kumaarila",
@@ -6874,31 +6847,31 @@
   },
   {
    "slug": "kyoto-school",
-   "page_len": 259618,
    "status": "pool",
    "n_patches": 329,
+   "page_len": 259618,
    "pool_bytes": 116413
   },
   {
    "slug": "la-forge",
    "status": "pool",
-   "n_patches": 108,
+   "n_patches": 109,
    "page_len": 67311,
-   "pool_bytes": 52942
+   "pool_bytes": 52966
   },
   {
    "slug": "lacan",
-   "page_len": 117162,
    "status": "pool",
-   "n_patches": 171,
-   "pool_bytes": 69340
+   "n_patches": 172,
+   "page_len": 117162,
+   "pool_bytes": 69362
   },
   {
    "slug": "lady-masham",
    "status": "pool",
-   "n_patches": 57,
+   "n_patches": 58,
    "page_len": 39817,
-   "pool_bytes": 17575
+   "pool_bytes": 17599
   },
   {
    "slug": "lakatos",
@@ -6930,17 +6903,17 @@
   },
   {
    "slug": "langer",
-   "page_len": 166948,
    "status": "pool",
    "n_patches": 239,
+   "page_len": 166948,
    "pool_bytes": 80260
   },
   {
    "slug": "language-india",
    "status": "pool",
-   "n_patches": 103,
+   "n_patches": 104,
    "page_len": 89229,
-   "pool_bytes": 63498
+   "pool_bytes": 63522
   },
   {
    "slug": "language-thought",
@@ -6959,9 +6932,9 @@
   {
    "slug": "large-cardinals-determinacy",
    "status": "pool",
-   "n_patches": 86,
+   "n_patches": 87,
    "page_len": 142668,
-   "pool_bytes": 139890
+   "pool_bytes": 139914
   },
   {
    "slug": "latin-american-analytic",
@@ -6980,9 +6953,9 @@
   {
    "slug": "latin-american-philosophy",
    "status": "pool",
-   "n_patches": 122,
+   "n_patches": 123,
    "page_len": 89201,
-   "pool_bytes": 55474
+   "pool_bytes": 55496
   },
   {
    "slug": "latinx",
@@ -7001,9 +6974,9 @@
   {
    "slug": "law-interpretivist",
    "status": "pool",
-   "n_patches": 149,
+   "n_patches": 150,
    "page_len": 103893,
-   "pool_bytes": 91119
+   "pool_bytes": 91141
   },
   {
    "slug": "law-language",
@@ -7014,9 +6987,9 @@
   },
   {
    "slug": "law-limits",
-   "page_len": 161216,
    "status": "pool",
    "n_patches": 284,
+   "page_len": 161216,
    "pool_bytes": 67914
   },
   {
@@ -7029,23 +7002,23 @@
   {
    "slug": "lawphil-nature",
    "status": "pool",
-   "n_patches": 107,
+   "n_patches": 108,
    "page_len": 100672,
-   "pool_bytes": 42177
+   "pool_bytes": 42199
   },
   {
    "slug": "lawphil-theory",
-   "page_len": 46922,
    "status": "pool",
-   "n_patches": 54,
-   "pool_bytes": 8907
+   "n_patches": 55,
+   "page_len": 46922,
+   "pool_bytes": 8929
   },
   {
    "slug": "laws-of-nature",
    "status": "pool",
-   "n_patches": 111,
+   "n_patches": 112,
    "page_len": 89346,
-   "pool_bytes": 57131
+   "pool_bytes": 57155
   },
   {
    "slug": "learning-formal",
@@ -7057,9 +7030,9 @@
   {
    "slug": "lefevre-etaples",
    "status": "pool",
-   "n_patches": 177,
+   "n_patches": 178,
    "page_len": 115315,
-   "pool_bytes": 56815
+   "pool_bytes": 56837
   },
   {
    "slug": "legal-econanalysis",
@@ -7091,24 +7064,24 @@
   },
   {
    "slug": "legal-probabilism",
-   "page_len": 224382,
    "status": "pool",
    "n_patches": 491,
+   "page_len": 224382,
    "pool_bytes": 150789
   },
   {
    "slug": "legal-punishment",
    "status": "pool",
-   "n_patches": 203,
+   "n_patches": 204,
    "page_len": 147720,
-   "pool_bytes": 113749
+   "pool_bytes": 113771
   },
   {
    "slug": "legal-reas-interpret",
    "status": "pool",
-   "n_patches": 99,
+   "n_patches": 100,
    "page_len": 95398,
-   "pool_bytes": 80426
+   "pool_bytes": 80450
   },
   {
    "slug": "legal-reas-prec",
@@ -7143,10 +7116,10 @@
   },
   {
    "slug": "leibniz",
-   "page_len": 149986,
    "status": "pool",
-   "n_patches": 234,
-   "pool_bytes": 133615
+   "n_patches": 235,
+   "page_len": 149986,
+   "pool_bytes": 133639
   },
   {
    "slug": "leibniz-causation",
@@ -7174,52 +7147,52 @@
   },
   {
    "slug": "leibniz-exoteric",
-   "page_len": 99559,
    "status": "pool",
    "n_patches": 106,
+   "page_len": 99559,
    "pool_bytes": 54923
   },
   {
    "slug": "leibniz-logic-influence",
    "status": "pool",
-   "n_patches": 67,
+   "n_patches": 68,
    "page_len": 61721,
-   "pool_bytes": 24547
+   "pool_bytes": 24571
   },
   {
    "slug": "leibniz-mind",
-   "page_len": 68289,
    "status": "pool",
-   "n_patches": 91,
-   "pool_bytes": 30288
+   "n_patches": 92,
+   "page_len": 68289,
+   "pool_bytes": 30312
   },
   {
    "slug": "leibniz-modal",
-   "page_len": 78127,
    "status": "pool",
-   "n_patches": 103,
-   "pool_bytes": 67598
+   "n_patches": 104,
+   "page_len": 78127,
+   "pool_bytes": 67622
   },
   {
    "slug": "leibniz-physics",
    "status": "pool",
-   "n_patches": 198,
+   "n_patches": 199,
    "page_len": 138496,
-   "pool_bytes": 77125
+   "pool_bytes": 77149
   },
   {
    "slug": "leibowitz-yeshayahu",
    "status": "pool",
-   "n_patches": 105,
+   "n_patches": 106,
    "page_len": 124108,
-   "pool_bytes": 67916
+   "pool_bytes": 67940
   },
   {
    "slug": "lesniewski",
-   "page_len": 123526,
    "status": "pool",
    "n_patches": 122,
-   "pool_bytes": 106469
+   "page_len": 123526,
+   "pool_bytes": 106493
   },
   {
    "slug": "leucippus",
@@ -7255,9 +7228,9 @@
   {
    "slug": "lewis-metaphysics",
    "status": "pool",
-   "n_patches": 150,
+   "n_patches": 151,
    "page_len": 92871,
-   "pool_bytes": 59433
+   "pool_bytes": 59457
   },
   {
    "slug": "liar-paradox",
@@ -7269,16 +7242,16 @@
   {
    "slug": "liberalism",
    "status": "pool",
-   "n_patches": 118,
+   "n_patches": 119,
    "page_len": 97004,
-   "pool_bytes": 40439
+   "pool_bytes": 40461
   },
   {
    "slug": "liberalism-latin-america",
    "status": "pool",
-   "n_patches": 84,
+   "n_patches": 85,
    "page_len": 116895,
-   "pool_bytes": 40727
+   "pool_bytes": 40749
   },
   {
    "slug": "liberation",
@@ -7327,9 +7300,9 @@
   },
   {
    "slug": "literal-nonliteral-india",
-   "page_len": 122960,
    "status": "pool",
    "n_patches": 146,
+   "page_len": 122960,
    "pool_bytes": 71031
   },
   {
@@ -7351,9 +7324,9 @@
   },
   {
    "slug": "locke",
-   "page_len": 178085,
    "status": "gap",
    "why": "unaligned text units",
+   "page_len": 178085,
    "sample": {
     "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
     "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
@@ -7362,16 +7335,16 @@
   {
    "slug": "locke-freedom",
    "status": "pool",
-   "n_patches": 154,
+   "n_patches": 155,
    "page_len": 104924,
-   "pool_bytes": 54769
+   "pool_bytes": 54791
   },
   {
    "slug": "locke-moral",
    "status": "pool",
-   "n_patches": 97,
+   "n_patches": 98,
    "page_len": 102502,
-   "pool_bytes": 49681
+   "pool_bytes": 49703
   },
   {
    "slug": "locke-on-medicine",
@@ -7390,9 +7363,9 @@
   {
    "slug": "locke-philosophy-science",
    "status": "pool",
-   "n_patches": 126,
+   "n_patches": 127,
    "page_len": 118542,
-   "pool_bytes": 69614
+   "pool_bytes": 69638
   },
   {
    "slug": "locke-political",
@@ -7425,22 +7398,22 @@
   {
    "slug": "logic-ancient",
    "status": "pool",
-   "n_patches": 227,
+   "n_patches": 228,
    "page_len": 119367,
-   "pool_bytes": 94110
+   "pool_bytes": 94134
   },
   {
    "slug": "logic-belief-revision",
-   "page_len": 126392,
    "status": "pool",
    "n_patches": 210,
+   "page_len": 126392,
    "pool_bytes": 41839
   },
   {
    "slug": "logic-classical",
-   "page_len": 138852,
    "status": "pool",
    "n_patches": 201,
+   "page_len": 138852,
    "pool_bytes": 64149
   },
   {
@@ -7469,9 +7442,9 @@
   },
   {
    "slug": "logic-connexive",
-   "page_len": 167006,
    "status": "gap",
    "why": "unaligned text units",
+   "page_len": 167006,
    "sample": {
     "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
     "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
@@ -7531,9 +7504,9 @@
   },
   {
    "slug": "logic-fuzzy",
-   "page_len": 83177,
    "status": "gap",
    "why": "unaligned text units",
+   "page_len": 83177,
    "sample": {
     "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
     "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
@@ -7562,16 +7535,16 @@
   {
    "slug": "logic-hybrid",
    "status": "pool",
-   "n_patches": 94,
+   "n_patches": 95,
    "page_len": 72953,
-   "pool_bytes": 26093
+   "pool_bytes": 26117
   },
   {
    "slug": "logic-if",
    "status": "pool",
-   "n_patches": 253,
+   "n_patches": 254,
    "page_len": 160856,
-   "pool_bytes": 113465
+   "pool_bytes": 113489
   },
   {
    "slug": "logic-india",
@@ -7590,16 +7563,16 @@
   {
    "slug": "logic-infinitary",
    "status": "pool",
-   "n_patches": 102,
+   "n_patches": 103,
    "page_len": 108123,
-   "pool_bytes": 104970
+   "pool_bytes": 104994
   },
   {
    "slug": "logic-informal",
    "status": "pool",
-   "n_patches": 268,
+   "n_patches": 269,
    "page_len": 156047,
-   "pool_bytes": 55417
+   "pool_bytes": 55439
   },
   {
    "slug": "logic-information",
@@ -7659,22 +7632,22 @@
   {
    "slug": "logic-massexpress",
    "status": "pool",
-   "n_patches": 145,
+   "n_patches": 146,
    "page_len": 82337,
-   "pool_bytes": 59310
+   "pool_bytes": 59334
   },
   {
    "slug": "logic-modal",
    "status": "pool",
-   "n_patches": 250,
+   "n_patches": 251,
    "page_len": 117982,
-   "pool_bytes": 46790
+   "pool_bytes": 46814
   },
   {
    "slug": "logic-modal-origins",
-   "page_len": 116340,
    "status": "pool",
    "n_patches": 169,
+   "page_len": 116340,
    "pool_bytes": 84757
   },
   {
@@ -7758,16 +7731,16 @@
   {
    "slug": "logic-relevance",
    "status": "pool",
-   "n_patches": 249,
+   "n_patches": 250,
    "page_len": 74938,
-   "pool_bytes": 47892
+   "pool_bytes": 47916
   },
   {
    "slug": "logic-substructural",
    "status": "pool",
-   "n_patches": 115,
+   "n_patches": 116,
    "page_len": 84796,
-   "pool_bytes": 61892
+   "pool_bytes": 61916
   },
   {
    "slug": "logic-temporal",
@@ -7785,9 +7758,9 @@
   },
   {
    "slug": "logical-consequence",
-   "page_len": 79417,
    "status": "pool",
    "n_patches": 114,
+   "page_len": 79417,
    "pool_bytes": 48343
   },
   {
@@ -7810,16 +7783,16 @@
   {
    "slug": "logical-empiricism",
    "status": "pool",
-   "n_patches": 84,
+   "n_patches": 85,
    "page_len": 122656,
-   "pool_bytes": 42968
+   "pool_bytes": 42992
   },
   {
    "slug": "logical-form",
-   "page_len": 151151,
    "status": "pool",
-   "n_patches": 152,
-   "pool_bytes": 104217
+   "n_patches": 153,
+   "page_len": 151151,
+   "pool_bytes": 104241
   },
   {
    "slug": "logical-pluralism",
@@ -7831,15 +7804,15 @@
   {
    "slug": "logical-truth",
    "status": "pool",
-   "n_patches": 170,
+   "n_patches": 171,
    "page_len": 122568,
-   "pool_bytes": 65983
+   "pool_bytes": 66005
   },
   {
    "slug": "logicism",
-   "page_len": 156194,
    "status": "pool",
    "n_patches": 259,
+   "page_len": 156194,
    "pool_bytes": 84296
   },
   {
@@ -7852,9 +7825,9 @@
   {
    "slug": "lorenzo-valla",
    "status": "pool",
-   "n_patches": 88,
+   "n_patches": 89,
    "page_len": 89295,
-   "pool_bytes": 60990
+   "pool_bytes": 61012
   },
   {
    "slug": "love",
@@ -7872,9 +7845,9 @@
   },
   {
    "slug": "lucretius",
-   "page_len": 118784,
    "status": "pool",
    "n_patches": 164,
+   "page_len": 118784,
    "pool_bytes": 73523
   },
   {
@@ -7893,9 +7866,9 @@
   },
   {
    "slug": "lukacs",
-   "page_len": 109586,
    "status": "pool",
    "n_patches": 126,
+   "page_len": 109586,
    "pool_bytes": 63038
   },
   {
@@ -7910,30 +7883,30 @@
   },
   {
    "slug": "luther",
-   "page_len": 150103,
    "status": "pool",
    "n_patches": 239,
+   "page_len": 150103,
    "pool_bytes": 77691
   },
   {
    "slug": "luther-influence",
-   "page_len": 114166,
    "status": "pool",
    "n_patches": 224,
+   "page_len": 114166,
    "pool_bytes": 73752
   },
   {
    "slug": "luxemburg",
-   "page_len": 92111,
    "status": "pool",
    "n_patches": 97,
+   "page_len": 92111,
    "pool_bytes": 78703
   },
   {
    "slug": "lvov-warsaw",
-   "page_len": 82087,
    "status": "pool",
    "n_patches": 93,
+   "page_len": 82087,
    "pool_bytes": 33436
   },
   {
@@ -7941,7 +7914,7 @@
    "status": "pool",
    "n_patches": 195,
    "page_len": 135720,
-   "pool_bytes": 123977
+   "pool_bytes": 123999
   },
   {
    "slug": "lyotard",
@@ -7966,9 +7939,9 @@
   },
   {
    "slug": "madeleine-scudery",
-   "page_len": 81799,
    "status": "pool",
    "n_patches": 134,
+   "page_len": 81799,
    "pool_bytes": 30371
   },
   {
@@ -7995,9 +7968,9 @@
   {
    "slug": "maimonides-islamic",
    "status": "pool",
-   "n_patches": 343,
+   "n_patches": 344,
    "page_len": 182006,
-   "pool_bytes": 168164
+   "pool_bytes": 168188
   },
   {
    "slug": "malebranche",
@@ -8009,29 +7982,29 @@
   {
    "slug": "malebranche-ideas",
    "status": "pool",
-   "n_patches": 111,
+   "n_patches": 112,
    "page_len": 121113,
-   "pool_bytes": 53120
+   "pool_bytes": 53144
   },
   {
    "slug": "mally",
-   "page_len": 91412,
    "status": "pool",
-   "n_patches": 141,
-   "pool_bytes": 45983
+   "n_patches": 142,
+   "page_len": 91412,
+   "pool_bytes": 46005
   },
   {
    "slug": "mally-deontic",
-   "page_len": 84682,
    "status": "pool",
    "n_patches": 457,
+   "page_len": 84682,
    "pool_bytes": 44828
   },
   {
    "slug": "mandeville",
-   "page_len": 110351,
    "status": "pool",
    "n_patches": 104,
+   "page_len": 110351,
    "pool_bytes": 34752
   },
   {
@@ -8044,22 +8017,22 @@
   {
    "slug": "marcus-aurelius",
    "status": "pool",
-   "n_patches": 74,
+   "n_patches": 75,
    "page_len": 71769,
-   "pool_bytes": 32837
+   "pool_bytes": 32861
   },
   {
    "slug": "marcuse",
    "status": "pool",
-   "n_patches": 189,
+   "n_patches": 190,
    "page_len": 107280,
-   "pool_bytes": 61942
+   "pool_bytes": 61964
   },
   {
    "slug": "margaret-cavendish",
-   "page_len": 182801,
    "status": "pool",
    "n_patches": 246,
+   "page_len": 182801,
    "pool_bytes": 138666
   },
   {
@@ -8071,9 +8044,9 @@
   },
   {
    "slug": "maritain",
-   "page_len": 140994,
    "status": "pool",
    "n_patches": 231,
+   "page_len": 140994,
    "pool_bytes": 79003
   },
   {
@@ -8107,9 +8080,9 @@
   {
    "slug": "marty",
    "status": "pool",
-   "n_patches": 114,
+   "n_patches": 115,
    "page_len": 105187,
-   "pool_bytes": 50586
+   "pool_bytes": 50610
   },
   {
    "slug": "marx",
@@ -8135,16 +8108,16 @@
   {
    "slug": "material-constitution",
    "status": "pool",
-   "n_patches": 141,
+   "n_patches": 142,
    "page_len": 86444,
-   "pool_bytes": 55958
+   "pool_bytes": 55980
   },
   {
    "slug": "materialism-eliminative",
    "status": "pool",
-   "n_patches": 96,
+   "n_patches": 97,
    "page_len": 106915,
-   "pool_bytes": 31116
+   "pool_bytes": 31140
   },
   {
    "slug": "mathematical-practice",
@@ -8177,16 +8150,16 @@
   {
    "slug": "mathematics-inconsistent",
    "status": "pool",
-   "n_patches": 63,
+   "n_patches": 64,
    "page_len": 52448,
-   "pool_bytes": 20258
+   "pool_bytes": 20282
   },
   {
    "slug": "mathematics-nondeductive",
    "status": "pool",
-   "n_patches": 143,
+   "n_patches": 144,
    "page_len": 88452,
-   "pool_bytes": 38257
+   "pool_bytes": 38279
   },
   {
    "slug": "mathphil-indis",
@@ -8205,16 +8178,16 @@
   {
    "slug": "mctaggart",
    "status": "pool",
-   "n_patches": 124,
+   "n_patches": 125,
    "page_len": 88860,
-   "pool_bytes": 72221
+   "pool_bytes": 72245
   },
   {
    "slug": "mead",
-   "page_len": 96749,
    "status": "pool",
-   "n_patches": 126,
-   "pool_bytes": 41490
+   "n_patches": 127,
+   "page_len": 96749,
+   "pool_bytes": 41514
   },
   {
    "slug": "meaning",
@@ -8257,9 +8230,9 @@
   {
    "slug": "medieval-categories",
    "status": "pool",
-   "n_patches": 163,
+   "n_patches": 164,
    "page_len": 110604,
-   "pool_bytes": 93305
+   "pool_bytes": 93329
   },
   {
    "slug": "medieval-emotions",
@@ -8284,16 +8257,16 @@
   },
   {
    "slug": "medieval-literary",
-   "page_len": 144744,
    "status": "pool",
    "n_patches": 174,
+   "page_len": 144744,
    "pool_bytes": 88546
   },
   {
    "slug": "medieval-philosophy",
-   "page_len": 161099,
    "status": "gap",
    "why": "unaligned text units",
+   "page_len": 161099,
    "sample": {
     "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
     "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
@@ -8301,9 +8274,9 @@
   },
   {
    "slug": "medieval-political",
-   "page_len": 247605,
    "status": "pool",
    "n_patches": 297,
+   "page_len": 247605,
    "pool_bytes": 142545
   },
   {
@@ -8325,9 +8298,9 @@
   },
   {
    "slug": "meinong",
-   "page_len": 180590,
    "status": "gap",
    "why": "unaligned text units",
+   "page_len": 180590,
    "sample": {
     "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
     "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
@@ -8335,9 +8308,9 @@
   },
   {
    "slug": "meister-eckhart",
-   "page_len": 139899,
    "status": "pool",
    "n_patches": 181,
+   "page_len": 139899,
    "pool_bytes": 82213
   },
   {
@@ -8367,16 +8340,16 @@
   {
    "slug": "mendelssohn",
    "status": "pool",
-   "n_patches": 163,
+   "n_patches": 164,
    "page_len": 105371,
-   "pool_bytes": 64157
+   "pool_bytes": 64181
   },
   {
    "slug": "mental-causation",
    "status": "pool",
-   "n_patches": 218,
+   "n_patches": 219,
    "page_len": 150765,
-   "pool_bytes": 72722
+   "pool_bytes": 72746
   },
   {
    "slug": "mental-disorder",
@@ -8395,16 +8368,16 @@
   {
    "slug": "mental-representation",
    "status": "pool",
-   "n_patches": 181,
+   "n_patches": 182,
    "page_len": 104522,
-   "pool_bytes": 67709
+   "pool_bytes": 67733
   },
   {
    "slug": "mereology",
    "status": "pool",
-   "n_patches": 391,
+   "n_patches": 392,
    "page_len": 331478,
-   "pool_bytes": 268925
+   "pool_bytes": 268947
   },
   {
    "slug": "mereology-medieval",
@@ -8422,9 +8395,9 @@
   },
   {
    "slug": "merleau-ponty",
-   "page_len": 130147,
    "status": "pool",
    "n_patches": 160,
+   "page_len": 130147,
    "pool_bytes": 43639
   },
   {
@@ -8444,9 +8417,9 @@
   {
    "slug": "metaethics",
    "status": "pool",
-   "n_patches": 86,
+   "n_patches": 87,
    "page_len": 84390,
-   "pool_bytes": 45534
+   "pool_bytes": 45558
   },
   {
    "slug": "metaphor",
@@ -8474,9 +8447,9 @@
   },
   {
    "slug": "metaphysics-massexpress",
-   "page_len": 167008,
    "status": "gap",
    "why": "unaligned text units",
+   "page_len": 167008,
    "sample": {
     "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
     "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
@@ -8491,9 +8464,9 @@
   },
   {
    "slug": "michel-henry",
-   "page_len": 91545,
    "status": "pool",
    "n_patches": 116,
+   "page_len": 91545,
    "pool_bytes": 44795
   },
   {
@@ -8512,24 +8485,24 @@
   },
   {
    "slug": "mill-moral-political",
-   "page_len": 243958,
    "status": "pool",
-   "n_patches": 342,
-   "pool_bytes": 77197
+   "n_patches": 343,
+   "page_len": 243958,
+   "pool_bytes": 77219
   },
   {
    "slug": "mind-identity",
    "status": "pool",
-   "n_patches": 104,
+   "n_patches": 105,
    "page_len": 73784,
-   "pool_bytes": 59668
+   "pool_bytes": 59692
   },
   {
    "slug": "mind-indian-buddhism",
-   "page_len": 205589,
    "status": "pool",
-   "n_patches": 277,
-   "pool_bytes": 179245
+   "n_patches": 278,
+   "page_len": 205589,
+   "pool_bytes": 179269
   },
   {
    "slug": "miracles",
@@ -8548,9 +8521,9 @@
   {
    "slug": "modality-medieval",
    "status": "pool",
-   "n_patches": 148,
+   "n_patches": 149,
    "page_len": 103872,
-   "pool_bytes": 62153
+   "pool_bytes": 62175
   },
   {
    "slug": "modality-varieties",
@@ -8561,17 +8534,17 @@
   },
   {
    "slug": "model-organisms",
-   "page_len": 116461,
    "status": "pool",
    "n_patches": 159,
+   "page_len": 116461,
    "pool_bytes": 45803
   },
   {
    "slug": "model-theory",
    "status": "pool",
-   "n_patches": 92,
+   "n_patches": 93,
    "page_len": 68225,
-   "pool_bytes": 34137
+   "pool_bytes": 34161
   },
   {
    "slug": "models-science",
@@ -8583,9 +8556,9 @@
   {
    "slug": "modeltheory-fo",
    "status": "pool",
-   "n_patches": 111,
+   "n_patches": 112,
    "page_len": 75220,
-   "pool_bytes": 60361
+   "pool_bytes": 60385
   },
   {
    "slug": "modesty-humility",
@@ -8603,16 +8576,16 @@
   },
   {
    "slug": "mohism",
-   "page_len": 179466,
    "status": "pool",
-   "n_patches": 180,
-   "pool_bytes": 108351
+   "n_patches": 181,
+   "page_len": 179466,
+   "pool_bytes": 108375
   },
   {
    "slug": "mohist-canons",
-   "page_len": 183398,
    "status": "pool",
    "n_patches": 172,
+   "page_len": 183398,
    "pool_bytes": 138107
   },
   {
@@ -8653,9 +8626,9 @@
   {
    "slug": "monotheism",
    "status": "pool",
-   "n_patches": 267,
+   "n_patches": 268,
    "page_len": 87183,
-   "pool_bytes": 71156
+   "pool_bytes": 71180
   },
   {
    "slug": "montague-semantics",
@@ -8677,9 +8650,9 @@
   {
    "slug": "montesquieu",
    "status": "pool",
-   "n_patches": 80,
+   "n_patches": 81,
    "page_len": 67779,
-   "pool_bytes": 58987
+   "pool_bytes": 59011
   },
   {
    "slug": "montessori-maria",
@@ -8690,10 +8663,10 @@
   },
   {
    "slug": "moore",
-   "page_len": 75410,
    "status": "pool",
-   "n_patches": 93,
-   "pool_bytes": 62099
+   "n_patches": 94,
+   "page_len": 75410,
+   "pool_bytes": 62123
   },
   {
    "slug": "moore-moral",
@@ -8719,16 +8692,16 @@
   {
    "slug": "moral-arguments-god",
    "status": "pool",
-   "n_patches": 113,
+   "n_patches": 114,
    "page_len": 98442,
-   "pool_bytes": 39846
+   "pool_bytes": 39868
   },
   {
    "slug": "moral-character",
    "status": "pool",
-   "n_patches": 113,
+   "n_patches": 114,
    "page_len": 124199,
-   "pool_bytes": 62907
+   "pool_bytes": 62931
   },
   {
    "slug": "moral-character-empirical",
@@ -8753,9 +8726,9 @@
   },
   {
    "slug": "moral-decision-uncertainty",
-   "page_len": 141283,
    "status": "pool",
    "n_patches": 217,
+   "page_len": 141283,
    "pool_bytes": 90482
   },
   {
@@ -8768,16 +8741,16 @@
   {
    "slug": "moral-dilemmas",
    "status": "pool",
-   "n_patches": 171,
+   "n_patches": 172,
    "page_len": 88849,
-   "pool_bytes": 28158
+   "pool_bytes": 28182
   },
   {
    "slug": "moral-epistemology",
    "status": "pool",
-   "n_patches": 185,
+   "n_patches": 186,
    "page_len": 192993,
-   "pool_bytes": 52387
+   "pool_bytes": 52411
   },
   {
    "slug": "moral-epistemology-a-priori",
@@ -8803,23 +8776,23 @@
   {
    "slug": "moral-motivation",
    "status": "pool",
-   "n_patches": 120,
+   "n_patches": 121,
    "page_len": 113523,
-   "pool_bytes": 62420
+   "pool_bytes": 62444
   },
   {
    "slug": "moral-non-naturalism",
    "status": "pool",
-   "n_patches": 81,
+   "n_patches": 82,
    "page_len": 103862,
-   "pool_bytes": 31211
+   "pool_bytes": 31235
   },
   {
    "slug": "moral-particularism",
-   "page_len": 69583,
    "status": "pool",
-   "n_patches": 84,
-   "pool_bytes": 61906
+   "n_patches": 85,
+   "page_len": 69583,
+   "pool_bytes": 61928
   },
   {
    "slug": "moral-particularism-generalism",
@@ -8852,9 +8825,9 @@
   {
    "slug": "moral-relativism",
    "status": "pool",
-   "n_patches": 188,
+   "n_patches": 189,
    "page_len": 149904,
-   "pool_bytes": 75390
+   "pool_bytes": 75412
   },
   {
    "slug": "moral-responsibility",
@@ -8894,9 +8867,9 @@
   {
    "slug": "morality-biology",
    "status": "pool",
-   "n_patches": 203,
+   "n_patches": 204,
    "page_len": 159394,
-   "pool_bytes": 73049
+   "pool_bytes": 73073
   },
   {
    "slug": "morality-definition",
@@ -8907,10 +8880,10 @@
   },
   {
    "slug": "mulla-sadra",
-   "page_len": 142799,
    "status": "pool",
-   "n_patches": 180,
-   "pool_bytes": 73095
+   "n_patches": 181,
+   "page_len": 142799,
+   "pool_bytes": 73119
   },
   {
    "slug": "multiculturalism",
@@ -8928,15 +8901,9 @@
   },
   {
    "slug": "murdoch",
-   "page_len": 131797,
-   "link_miss": 10,
-   "miss_sample": [
-    "Other Internet\nResources",
-    "point 4 above",
-    "point 3"
-   ],
    "status": "pool",
    "n_patches": 252,
+   "page_len": 131797,
    "pool_bytes": 78342
   },
   {
@@ -8955,9 +8922,9 @@
   },
   {
    "slug": "nagarjuna",
-   "page_len": 112229,
    "status": "pool",
    "n_patches": 81,
+   "page_len": 112229,
    "pool_bytes": 46357
   },
   {
@@ -9019,9 +8986,9 @@
   {
    "slug": "natural-law-theories",
    "status": "pool",
-   "n_patches": 62,
+   "n_patches": 63,
    "page_len": 98451,
-   "pool_bytes": 38010
+   "pool_bytes": 38034
   },
   {
    "slug": "natural-properties",
@@ -9040,30 +9007,30 @@
   {
    "slug": "natural-theology",
    "status": "pool",
-   "n_patches": 229,
+   "n_patches": 230,
    "page_len": 113118,
-   "pool_bytes": 50996
+   "pool_bytes": 51018
   },
   {
    "slug": "naturalism",
    "status": "pool",
-   "n_patches": 180,
+   "n_patches": 181,
    "page_len": 113891,
-   "pool_bytes": 91499
+   "pool_bytes": 91521
   },
   {
    "slug": "naturalism-india",
    "status": "pool",
-   "n_patches": 64,
+   "n_patches": 65,
    "page_len": 101049,
-   "pool_bytes": 22676
+   "pool_bytes": 22698
   },
   {
    "slug": "naturalism-mathematics",
    "status": "pool",
-   "n_patches": 104,
+   "n_patches": 105,
    "page_len": 112037,
-   "pool_bytes": 36139
+   "pool_bytes": 36163
   },
   {
    "slug": "naturalism-moral",
@@ -9098,17 +9065,17 @@
   },
   {
    "slug": "negritude",
-   "page_len": 89650,
    "status": "pool",
    "n_patches": 80,
+   "page_len": 89650,
    "pool_bytes": 55628
   },
   {
    "slug": "neo-daoism",
    "status": "pool",
-   "n_patches": 140,
+   "n_patches": 141,
    "page_len": 143896,
-   "pool_bytes": 79857
+   "pool_bytes": 79879
   },
   {
    "slug": "neo-kantianism",
@@ -9126,17 +9093,17 @@
   },
   {
    "slug": "neoplatonism",
-   "page_len": 57017,
    "status": "pool",
-   "n_patches": 72,
-   "pool_bytes": 42762
+   "n_patches": 73,
+   "page_len": 57017,
+   "pool_bytes": 42784
   },
   {
    "slug": "neurath",
    "status": "pool",
-   "n_patches": 157,
+   "n_patches": 158,
    "page_len": 150700,
-   "pool_bytes": 49902
+   "pool_bytes": 49926
   },
   {
    "slug": "neuroethics",
@@ -9162,16 +9129,16 @@
   {
    "slug": "newton",
    "status": "pool",
-   "n_patches": 40,
+   "n_patches": 41,
    "page_len": 59153,
-   "pool_bytes": 49457
+   "pool_bytes": 49481
   },
   {
    "slug": "newton-philosophy",
    "status": "pool",
-   "n_patches": 196,
+   "n_patches": 197,
    "page_len": 192643,
-   "pool_bytes": 130056
+   "pool_bytes": 130078
   },
   {
    "slug": "newton-principia",
@@ -9195,9 +9162,9 @@
   },
   {
    "slug": "nicolai-hartmann",
-   "page_len": 131984,
    "status": "pool",
    "n_patches": 169,
+   "page_len": 131984,
    "pool_bytes": 50906
   },
   {
@@ -9209,16 +9176,16 @@
   },
   {
    "slug": "nietzsche",
-   "page_len": 204674,
    "status": "pool",
    "n_patches": 355,
+   "page_len": 204674,
    "pool_bytes": 112585
   },
   {
    "slug": "nietzsche-aesthetics",
-   "page_len": 139179,
    "status": "pool",
    "n_patches": 139,
+   "page_len": 139179,
    "pool_bytes": 77495
   },
   {
@@ -9230,9 +9197,9 @@
   },
   {
    "slug": "nietzsche-moral-political",
-   "page_len": 175775,
    "status": "pool",
    "n_patches": 205,
+   "page_len": 175775,
    "pool_bytes": 106691
   },
   {
@@ -9245,9 +9212,9 @@
   {
    "slug": "nominalism-mathematics",
    "status": "pool",
-   "n_patches": 297,
+   "n_patches": 298,
    "page_len": 137985,
-   "pool_bytes": 123731
+   "pool_bytes": 123753
   },
   {
    "slug": "nominalism-metaphysics",
@@ -9272,9 +9239,9 @@
   },
   {
    "slug": "nonwellfounded-set-theory",
-   "page_len": 161559,
    "status": "gap",
    "why": "unaligned text units",
+   "page_len": 161559,
    "sample": {
     "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
     "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
@@ -9290,23 +9257,23 @@
   {
    "slug": "nothingness",
    "status": "pool",
-   "n_patches": 111,
+   "n_patches": 112,
    "page_len": 116017,
-   "pool_bytes": 30430
+   "pool_bytes": 30454
   },
   {
    "slug": "novalis",
    "status": "pool",
-   "n_patches": 84,
+   "n_patches": 85,
    "page_len": 85509,
-   "pool_bytes": 42797
+   "pool_bytes": 42821
   },
   {
    "slug": "nozick-political",
    "status": "pool",
-   "n_patches": 161,
+   "n_patches": 162,
    "page_len": 151969,
-   "pool_bytes": 79346
+   "pool_bytes": 79368
   },
   {
    "slug": "numenius",
@@ -9345,9 +9312,9 @@
   },
   {
    "slug": "ockham",
-   "page_len": 126786,
    "status": "gap",
    "why": "unaligned text units",
+   "page_len": 126786,
    "sample": {
     "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
     "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
@@ -9398,9 +9365,9 @@
   {
    "slug": "ontological-commitment",
    "status": "pool",
-   "n_patches": 322,
+   "n_patches": 323,
    "page_len": 207201,
-   "pool_bytes": 187377
+   "pool_bytes": 187399
   },
   {
    "slug": "ontology-is",
@@ -9422,9 +9389,9 @@
   {
    "slug": "ordinary-objects",
    "status": "pool",
-   "n_patches": 360,
+   "n_patches": 361,
    "page_len": 212861,
-   "pool_bytes": 136217
+   "pool_bytes": 136241
   },
   {
    "slug": "organ-donation",
@@ -9436,16 +9403,16 @@
   {
    "slug": "organs-sale",
    "status": "pool",
-   "n_patches": 154,
+   "n_patches": 155,
    "page_len": 92505,
-   "pool_bytes": 35286
+   "pool_bytes": 35310
   },
   {
    "slug": "origen",
    "status": "pool",
-   "n_patches": 110,
+   "n_patches": 111,
    "page_len": 103448,
-   "pool_bytes": 78728
+   "pool_bytes": 78750
   },
   {
    "slug": "origin-descent",
@@ -9456,9 +9423,9 @@
   },
   {
    "slug": "original-position",
-   "page_len": 157624,
    "status": "pool",
    "n_patches": 111,
+   "page_len": 157624,
    "pool_bytes": 59085
   },
   {
@@ -9495,9 +9462,9 @@
   {
    "slug": "panentheism",
    "status": "pool",
-   "n_patches": 121,
+   "n_patches": 122,
    "page_len": 127301,
-   "pool_bytes": 37720
+   "pool_bytes": 37744
   },
   {
    "slug": "panpsychism",
@@ -9539,17 +9506,17 @@
   },
   {
    "slug": "paradox-stpetersburg",
-   "page_len": 81850,
    "status": "pool",
    "n_patches": 169,
+   "page_len": 81850,
    "pool_bytes": 45770
   },
   {
    "slug": "paradox-suspense",
    "status": "pool",
-   "n_patches": 85,
+   "n_patches": 86,
    "page_len": 45030,
-   "pool_bytes": 33570
+   "pool_bytes": 33594
   },
   {
    "slug": "paradox-zeno",
@@ -9560,9 +9527,9 @@
   },
   {
    "slug": "paradoxes-contemporary-logic",
-   "page_len": 191809,
    "status": "pool",
    "n_patches": 250,
+   "page_len": 191809,
    "pool_bytes": 114680
   },
   {
@@ -9574,17 +9541,17 @@
   },
   {
    "slug": "parmenides",
-   "page_len": 130595,
    "status": "pool",
-   "n_patches": 150,
-   "pool_bytes": 75695
+   "n_patches": 151,
+   "page_len": 130595,
+   "pool_bytes": 75719
   },
   {
    "slug": "pascal",
    "status": "pool",
-   "n_patches": 79,
+   "n_patches": 80,
    "page_len": 75009,
-   "pool_bytes": 63285
+   "pool_bytes": 63309
   },
   {
    "slug": "pascal-wager",
@@ -9613,9 +9580,9 @@
   {
    "slug": "patrizi",
    "status": "pool",
-   "n_patches": 140,
+   "n_patches": 141,
    "page_len": 69385,
-   "pool_bytes": 51369
+   "pool_bytes": 51393
   },
   {
    "slug": "paul-venice",
@@ -9627,16 +9594,16 @@
   {
    "slug": "peirce",
    "status": "pool",
-   "n_patches": 146,
+   "n_patches": 147,
    "page_len": 138370,
-   "pool_bytes": 128385
+   "pool_bytes": 128409
   },
   {
    "slug": "peirce-benjamin",
-   "page_len": 28705,
    "status": "pool",
-   "n_patches": 45,
-   "pool_bytes": 14586
+   "n_patches": 46,
+   "page_len": 28705,
+   "pool_bytes": 14610
   },
   {
    "slug": "peirce-logic",
@@ -9650,31 +9617,31 @@
   },
   {
    "slug": "peirce-semiotics",
-   "page_len": 86489,
    "status": "pool",
-   "n_patches": 168,
-   "pool_bytes": 55999
+   "n_patches": 169,
+   "page_len": 86489,
+   "pool_bytes": 56023
   },
   {
    "slug": "penbygull",
    "status": "pool",
-   "n_patches": 31,
+   "n_patches": 32,
    "page_len": 40415,
-   "pool_bytes": 21391
+   "pool_bytes": 21413
   },
   {
    "slug": "perception-auditory",
    "status": "pool",
-   "n_patches": 145,
+   "n_patches": 146,
    "page_len": 128441,
-   "pool_bytes": 52297
+   "pool_bytes": 52321
   },
   {
    "slug": "perception-contents",
    "status": "pool",
-   "n_patches": 251,
+   "n_patches": 252,
    "page_len": 198538,
-   "pool_bytes": 99296
+   "pool_bytes": 99320
   },
   {
    "slug": "perception-disjunctive",
@@ -9693,23 +9660,23 @@
   {
    "slug": "perception-india",
    "status": "pool",
-   "n_patches": 107,
+   "n_patches": 108,
    "page_len": 134764,
-   "pool_bytes": 97871
+   "pool_bytes": 97895
   },
   {
    "slug": "perception-justification",
    "status": "pool",
-   "n_patches": 232,
+   "n_patches": 233,
    "page_len": 128099,
-   "pool_bytes": 57405
+   "pool_bytes": 57427
   },
   {
    "slug": "perception-problem",
    "status": "pool",
-   "n_patches": 308,
+   "n_patches": 309,
    "page_len": 148971,
-   "pool_bytes": 61974
+   "pool_bytes": 61996
   },
   {
    "slug": "perceptual-learning",
@@ -9721,16 +9688,16 @@
   {
    "slug": "perfect-goodness",
    "status": "pool",
-   "n_patches": 86,
+   "n_patches": 87,
    "page_len": 81161,
-   "pool_bytes": 33058
+   "pool_bytes": 33080
   },
   {
    "slug": "perfectionism-moral",
    "status": "pool",
-   "n_patches": 142,
+   "n_patches": 143,
    "page_len": 109129,
-   "pool_bytes": 93810
+   "pool_bytes": 93834
   },
   {
    "slug": "personal-autonomy",
@@ -9749,9 +9716,9 @@
   {
    "slug": "personalism",
    "status": "pool",
-   "n_patches": 115,
+   "n_patches": 116,
    "page_len": 118215,
-   "pool_bytes": 35946
+   "pool_bytes": 35968
   },
   {
    "slug": "personhood-india",
@@ -9784,15 +9751,15 @@
   {
    "slug": "petitionary-prayer",
    "status": "pool",
-   "n_patches": 86,
+   "n_patches": 87,
    "page_len": 47816,
-   "pool_bytes": 18380
+   "pool_bytes": 18402
   },
   {
    "slug": "phenomenal-intentionality",
-   "page_len": 145411,
    "status": "pool",
    "n_patches": 217,
+   "page_len": 145411,
    "pool_bytes": 55773
   },
   {
@@ -9853,16 +9820,16 @@
   },
   {
    "slug": "philippa-foot",
-   "page_len": 95079,
    "status": "pool",
    "n_patches": 99,
+   "page_len": 95079,
    "pool_bytes": 20340
   },
   {
    "slug": "philo",
-   "page_len": 152048,
    "status": "pool",
    "n_patches": 236,
+   "page_len": 152048,
    "pool_bytes": 118881
   },
   {
@@ -9874,17 +9841,17 @@
   },
   {
    "slug": "philodemus",
-   "page_len": 138943,
    "status": "pool",
-   "n_patches": 171,
-   "pool_bytes": 126510
+   "n_patches": 172,
+   "page_len": 138943,
+   "pool_bytes": 126534
   },
   {
    "slug": "philolaus",
-   "page_len": 131938,
    "status": "pool",
-   "n_patches": 98,
-   "pool_bytes": 85530
+   "n_patches": 99,
+   "page_len": 131938,
+   "pool_bytes": 85554
   },
   {
    "slug": "philoponus",
@@ -9896,16 +9863,16 @@
   {
    "slug": "philosophy-chile",
    "status": "pool",
-   "n_patches": 111,
+   "n_patches": 112,
    "page_len": 73691,
-   "pool_bytes": 22786
+   "pool_bytes": 22808
   },
   {
    "slug": "philosophy-mathematics",
    "status": "pool",
-   "n_patches": 150,
+   "n_patches": 151,
    "page_len": 140177,
-   "pool_bytes": 52786
+   "pool_bytes": 52810
   },
   {
    "slug": "philosophy-mexico",
@@ -9955,9 +9922,9 @@
   {
    "slug": "physics-holism",
    "status": "pool",
-   "n_patches": 122,
+   "n_patches": 123,
    "page_len": 102302,
-   "pool_bytes": 63876
+   "pool_bytes": 63900
   },
   {
    "slug": "physics-interrelate",
@@ -9975,23 +9942,17 @@
   },
   {
    "slug": "pico-della-mirandola",
-   "page_len": 91445,
-   "link_miss": 28,
-   "miss_sample": [
-    "(40)",
-    "(20)",
-    "(25)"
-   ],
    "status": "pool",
    "n_patches": 189,
+   "page_len": 91445,
    "pool_bytes": 51149
   },
   {
    "slug": "plato",
-   "page_len": 95660,
    "status": "pool",
-   "n_patches": 87,
-   "pool_bytes": 62081
+   "n_patches": 88,
+   "page_len": 95660,
+   "pool_bytes": 62103
   },
   {
    "slug": "plato-aesthetics",
@@ -10012,7 +9973,7 @@
    "status": "pool",
    "n_patches": 264,
    "page_len": 158541,
-   "pool_bytes": 153610
+   "pool_bytes": 153632
   },
   {
    "slug": "plato-ethics-politics",
@@ -10034,9 +9995,9 @@
   {
    "slug": "plato-friendship",
    "status": "pool",
-   "n_patches": 72,
+   "n_patches": 73,
    "page_len": 71320,
-   "pool_bytes": 31836
+   "pool_bytes": 31860
   },
   {
    "slug": "plato-laws",
@@ -10048,43 +10009,43 @@
   {
    "slug": "plato-metaphysics",
    "status": "pool",
-   "n_patches": 197,
+   "n_patches": 198,
    "page_len": 155597,
-   "pool_bytes": 148227
+   "pool_bytes": 148251
   },
   {
    "slug": "plato-myths",
    "status": "pool",
-   "n_patches": 111,
+   "n_patches": 112,
    "page_len": 72780,
-   "pool_bytes": 47192
+   "pool_bytes": 47216
   },
   {
    "slug": "plato-parmenides",
    "status": "pool",
-   "n_patches": 212,
+   "n_patches": 213,
    "page_len": 159830,
-   "pool_bytes": 101852
+   "pool_bytes": 101874
   },
   {
    "slug": "plato-rhetoric",
    "status": "pool",
-   "n_patches": 162,
+   "n_patches": 163,
    "page_len": 132289,
-   "pool_bytes": 110163
+   "pool_bytes": 110187
   },
   {
    "slug": "plato-sophstate",
    "status": "pool",
-   "n_patches": 205,
+   "n_patches": 206,
    "page_len": 133716,
-   "pool_bytes": 118446
+   "pool_bytes": 118470
   },
   {
    "slug": "plato-theaetetus",
-   "page_len": 154458,
    "status": "pool",
    "n_patches": 167,
+   "page_len": 154458,
    "pool_bytes": 99595
   },
   {
@@ -10110,16 +10071,16 @@
   },
   {
    "slug": "pleasure",
-   "page_len": 219079,
    "status": "pool",
    "n_patches": 362,
+   "page_len": 219079,
    "pool_bytes": 160302
   },
   {
    "slug": "plotinus",
-   "page_len": 120423,
    "status": "pool",
    "n_patches": 117,
+   "page_len": 120423,
    "pool_bytes": 75797
   },
   {
@@ -10131,10 +10092,10 @@
   },
   {
    "slug": "plutarch",
-   "page_len": 144939,
    "status": "pool",
-   "n_patches": 149,
-   "pool_bytes": 117804
+   "n_patches": 150,
+   "page_len": 144939,
+   "pool_bytes": 117828
   },
   {
    "slug": "pm-notation",
@@ -10148,17 +10109,17 @@
   },
   {
    "slug": "poincare",
-   "page_len": 151661,
    "status": "pool",
    "n_patches": 203,
+   "page_len": 151661,
    "pool_bytes": 51353
   },
   {
    "slug": "political-obligation",
    "status": "pool",
-   "n_patches": 129,
+   "n_patches": 130,
    "page_len": 132865,
-   "pool_bytes": 48043
+   "pool_bytes": 48067
   },
   {
    "slug": "political-representation",
@@ -10169,9 +10130,9 @@
   },
   {
    "slug": "polqar",
-   "page_len": 81306,
    "status": "pool",
    "n_patches": 94,
+   "page_len": 81306,
    "pool_bytes": 33791
   },
   {
@@ -10191,9 +10152,9 @@
   {
    "slug": "population-genetics",
    "status": "pool",
-   "n_patches": 129,
+   "n_patches": 130,
    "page_len": 126782,
-   "pool_bytes": 60214
+   "pool_bytes": 60236
   },
   {
    "slug": "pornography-censorship",
@@ -10204,9 +10165,9 @@
   },
   {
    "slug": "porphyry",
-   "page_len": 143686,
    "status": "pool",
    "n_patches": 203,
+   "page_len": 143686,
    "pool_bytes": 85697
   },
   {
@@ -10229,9 +10190,9 @@
   {
    "slug": "possible-objects",
    "status": "pool",
-   "n_patches": 145,
+   "n_patches": 146,
    "page_len": 123237,
-   "pool_bytes": 54227
+   "pool_bytes": 54251
   },
   {
    "slug": "possible-worlds",
@@ -10246,9 +10207,9 @@
   {
    "slug": "postmodernism",
    "status": "pool",
-   "n_patches": 107,
+   "n_patches": 108,
    "page_len": 98796,
-   "pool_bytes": 64847
+   "pool_bytes": 64871
   },
   {
    "slug": "practical-reason",
@@ -10273,9 +10234,9 @@
   },
   {
    "slug": "pragmatic-belief-god",
-   "page_len": 105600,
    "status": "pool",
    "n_patches": 153,
+   "page_len": 105600,
    "pool_bytes": 53181
   },
   {
@@ -10287,9 +10248,9 @@
   },
   {
    "slug": "pragmatism",
-   "page_len": 114261,
    "status": "pool",
    "n_patches": 207,
+   "page_len": 114261,
    "pool_bytes": 76493
   },
   {
@@ -10302,9 +10263,9 @@
   {
    "slug": "preferences",
    "status": "pool",
-   "n_patches": 214,
+   "n_patches": 215,
    "page_len": 131498,
-   "pool_bytes": 84446
+   "pool_bytes": 84470
   },
   {
    "slug": "presentism",
@@ -10315,10 +10276,10 @@
   },
   {
    "slug": "presocratics",
-   "page_len": 142853,
    "status": "pool",
-   "n_patches": 246,
-   "pool_bytes": 95219
+   "n_patches": 247,
+   "page_len": 142853,
+   "pool_bytes": 95243
   },
   {
    "slug": "presupposition",
@@ -10340,9 +10301,9 @@
   {
    "slug": "prichard",
    "status": "pool",
-   "n_patches": 53,
+   "n_patches": 54,
    "page_len": 70625,
-   "pool_bytes": 13311
+   "pool_bytes": 13335
   },
   {
    "slug": "principia-mathematica",
@@ -10360,9 +10321,9 @@
   },
   {
    "slug": "prior",
-   "page_len": 161951,
    "status": "gap",
    "why": "unaligned text units",
+   "page_len": 161951,
    "sample": {
     "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
     "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
@@ -10398,30 +10359,30 @@
   },
   {
    "slug": "private-language",
-   "page_len": 96011,
    "status": "pool",
-   "n_patches": 107,
-   "pool_bytes": 67715
+   "n_patches": 108,
+   "page_len": 96011,
+   "pool_bytes": 67739
   },
   {
    "slug": "probability-interpret",
    "status": "pool",
-   "n_patches": 257,
+   "n_patches": 258,
    "page_len": 191102,
-   "pool_bytes": 87831
+   "pool_bytes": 87853
   },
   {
    "slug": "probability-medieval-renaissance",
    "status": "pool",
-   "n_patches": 180,
+   "n_patches": 181,
    "page_len": 103358,
-   "pool_bytes": 70624
+   "pool_bytes": 70646
   },
   {
    "slug": "problem-of-many",
-   "page_len": 94738,
    "status": "pool",
    "n_patches": 101,
+   "page_len": 94738,
    "pool_bytes": 70793
   },
   {
@@ -10494,16 +10455,16 @@
   },
   {
    "slug": "prop-attitude-reports",
-   "page_len": 173730,
    "status": "pool",
    "n_patches": 280,
+   "page_len": 173730,
    "pool_bytes": 62981
   },
   {
    "slug": "properties",
-   "page_len": 202184,
    "status": "pool",
    "n_patches": 263,
+   "page_len": 202184,
    "pool_bytes": 153138
   },
   {
@@ -10540,16 +10501,16 @@
   {
    "slug": "propositions",
    "status": "pool",
-   "n_patches": 190,
+   "n_patches": 191,
    "page_len": 156426,
-   "pool_bytes": 62985
+   "pool_bytes": 63009
   },
   {
    "slug": "propositions-singular",
    "status": "pool",
-   "n_patches": 212,
+   "n_patches": 213,
    "page_len": 140515,
-   "pool_bytes": 123584
+   "pool_bytes": 123608
   },
   {
    "slug": "propositions-structured",
@@ -10571,9 +10532,9 @@
   {
    "slug": "providence-divine",
    "status": "pool",
-   "n_patches": 86,
+   "n_patches": 87,
    "page_len": 138464,
-   "pool_bytes": 67620
+   "pool_bytes": 67644
   },
   {
    "slug": "pseudo-dionysius-areopagite",
@@ -10592,15 +10553,15 @@
   {
    "slug": "psychiatry",
    "status": "pool",
-   "n_patches": 127,
+   "n_patches": 128,
    "page_len": 152782,
-   "pool_bytes": 24078
+   "pool_bytes": 24102
   },
   {
    "slug": "psychologism",
-   "page_len": 113988,
    "status": "pool",
    "n_patches": 168,
+   "page_len": 113988,
    "pool_bytes": 49829
   },
   {
@@ -10619,17 +10580,17 @@
   },
   {
    "slug": "public-goods",
-   "page_len": 88598,
    "status": "pool",
    "n_patches": 132,
+   "page_len": 88598,
    "pool_bytes": 28505
   },
   {
    "slug": "public-reason",
    "status": "pool",
-   "n_patches": 114,
+   "n_patches": 115,
    "page_len": 137426,
-   "pool_bytes": 45578
+   "pool_bytes": 45602
   },
   {
    "slug": "publichealth-ethics",
@@ -10658,9 +10619,9 @@
   {
    "slug": "pyrrho",
    "status": "pool",
-   "n_patches": 60,
+   "n_patches": 61,
    "page_len": 75632,
-   "pool_bytes": 48578
+   "pool_bytes": 48602
   },
   {
    "slug": "pythagoras",
@@ -10675,9 +10636,9 @@
   {
    "slug": "pythagoreanism",
    "status": "pool",
-   "n_patches": 299,
+   "n_patches": 300,
    "page_len": 283987,
-   "pool_bytes": 190499
+   "pool_bytes": 190523
   },
   {
    "slug": "qing-philosophy",
@@ -10688,9 +10649,9 @@
   },
   {
    "slug": "qm",
-   "page_len": 66852,
    "status": "pool",
    "n_patches": 102,
+   "page_len": 66852,
    "pool_bytes": 36191
   },
   {
@@ -10826,9 +10787,9 @@
   },
   {
    "slug": "qt-quantlog",
-   "page_len": 106488,
    "status": "pool",
    "n_patches": 166,
+   "page_len": 106488,
    "pool_bytes": 68225
   },
   {
@@ -10847,9 +10808,9 @@
   },
   {
    "slug": "qualia-inverted",
-   "page_len": 150534,
    "status": "gap",
    "why": "unaligned text units",
+   "page_len": 150534,
    "sample": {
     "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
     "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
@@ -10872,9 +10833,9 @@
   {
    "slug": "quantification",
    "status": "pool",
-   "n_patches": 268,
+   "n_patches": 269,
    "page_len": 163198,
-   "pool_bytes": 91070
+   "pool_bytes": 91092
   },
   {
    "slug": "quantum-bayesian",
@@ -10900,9 +10861,9 @@
   {
    "slug": "questions",
    "status": "pool",
-   "n_patches": 162,
+   "n_patches": 163,
    "page_len": 123338,
-   "pool_bytes": 50840
+   "pool_bytes": 50862
   },
   {
    "slug": "quine",
@@ -10920,9 +10881,9 @@
   },
   {
    "slug": "quotation",
-   "page_len": 128286,
    "status": "pool",
    "n_patches": 249,
+   "page_len": 128286,
    "pool_bytes": 55450
   },
   {
@@ -10941,9 +10902,9 @@
   },
   {
    "slug": "ramsey",
-   "page_len": 196838,
    "status": "gap",
    "why": "unaligned text units",
+   "page_len": 196838,
    "sample": {
     "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
     "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
@@ -10965,9 +10926,9 @@
   },
   {
    "slug": "rationalism-early-modern",
-   "page_len": 146273,
    "status": "pool",
    "n_patches": 205,
+   "page_len": 146273,
    "pool_bytes": 65279
   },
   {
@@ -10987,9 +10948,9 @@
   {
    "slug": "rationality-instrumental",
    "status": "pool",
-   "n_patches": 236,
+   "n_patches": 237,
    "page_len": 145403,
-   "pool_bytes": 84385
+   "pool_bytes": 84409
   },
   {
    "slug": "rationality-normative-nonutility",
@@ -11020,9 +10981,9 @@
   },
   {
    "slug": "ratnakirti",
-   "page_len": 105187,
    "status": "gap",
    "why": "unaligned text units",
+   "page_len": 105187,
    "sample": {
     "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
     "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
@@ -11038,19 +10999,16 @@
   {
    "slug": "real-essence",
    "status": "pool",
-   "n_patches": 157,
+   "n_patches": 158,
    "page_len": 104470,
-   "pool_bytes": 39966
+   "pool_bytes": 39988
   },
   {
    "slug": "realism",
-   "status": "gap",
-   "why": "unaligned text units",
+   "status": "pool",
+   "n_patches": 208,
    "page_len": 141914,
-   "sample": {
-    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
-    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
-   }
+   "pool_bytes": 59664
   },
   {
    "slug": "realism-about-metaphysics",
@@ -11083,9 +11041,9 @@
   {
    "slug": "reasoning-analogy",
    "status": "pool",
-   "n_patches": 292,
+   "n_patches": 293,
    "page_len": 159784,
-   "pool_bytes": 85616
+   "pool_bytes": 85640
   },
   {
    "slug": "reasoning-automated",
@@ -11114,16 +11072,16 @@
   {
    "slug": "reasons-agent",
    "status": "pool",
-   "n_patches": 82,
+   "n_patches": 83,
    "page_len": 117367,
-   "pool_bytes": 42952
+   "pool_bytes": 42974
   },
   {
    "slug": "reasons-internal-external",
    "status": "pool",
-   "n_patches": 179,
+   "n_patches": 180,
    "page_len": 109735,
-   "pool_bytes": 93726
+   "pool_bytes": 93748
   },
   {
    "slug": "reasons-just-vs-expl",
@@ -11135,22 +11093,22 @@
   {
    "slug": "recognition",
    "status": "pool",
-   "n_patches": 109,
+   "n_patches": 110,
    "page_len": 103466,
-   "pool_bytes": 29715
+   "pool_bytes": 29737
   },
   {
    "slug": "reconciliation",
    "status": "pool",
-   "n_patches": 142,
+   "n_patches": 143,
    "page_len": 100262,
-   "pool_bytes": 30751
+   "pool_bytes": 30773
   },
   {
    "slug": "recursive-functions",
-   "page_len": 299597,
    "status": "gap",
    "why": "unaligned text units",
+   "page_len": 299597,
    "sample": {
     "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
     "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
@@ -11186,9 +11144,9 @@
   },
   {
    "slug": "reichenbach",
-   "page_len": 168717,
    "status": "gap",
    "why": "unaligned text units",
+   "page_len": 168717,
    "sample": {
     "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
     "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
@@ -11196,15 +11154,9 @@
   },
   {
    "slug": "reid",
-   "page_len": 209344,
-   "link_miss": 10,
-   "miss_sample": [
-    "4. Causation and\nFree Will",
-    "8. Philosophy of\nReligion",
-    "3.1 The Way of Ideas and Representational\nTheories of Percep"
-   ],
    "status": "gap",
    "why": "unaligned text units",
+   "page_len": 209344,
    "sample": {
     "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
     "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
@@ -11213,16 +11165,16 @@
   {
    "slug": "reid-ethics",
    "status": "pool",
-   "n_patches": 123,
+   "n_patches": 124,
    "page_len": 110040,
-   "pool_bytes": 17070
+   "pool_bytes": 17092
   },
   {
    "slug": "reid-memory-identity",
    "status": "pool",
-   "n_patches": 60,
+   "n_patches": 61,
    "page_len": 68244,
-   "pool_bytes": 33461
+   "pool_bytes": 33485
   },
   {
    "slug": "reinach",
@@ -11255,9 +11207,9 @@
   {
    "slug": "relativism",
    "status": "pool",
-   "n_patches": 350,
+   "n_patches": 351,
    "page_len": 207369,
-   "pool_bytes": 91682
+   "pool_bytes": 91704
   },
   {
    "slug": "reliabilism",
@@ -11297,15 +11249,15 @@
   {
    "slug": "religion-politics",
    "status": "pool",
-   "n_patches": 186,
+   "n_patches": 187,
    "page_len": 131081,
-   "pool_bytes": 115940
+   "pool_bytes": 115964
   },
   {
    "slug": "religion-science",
-   "page_len": 155369,
    "status": "pool",
    "n_patches": 210,
+   "page_len": 155369,
    "pool_bytes": 75314
   },
   {
@@ -11318,9 +11270,9 @@
   {
    "slug": "religious-experience",
    "status": "pool",
-   "n_patches": 56,
+   "n_patches": 57,
    "page_len": 58103,
-   "pool_bytes": 23312
+   "pool_bytes": 23336
   },
   {
    "slug": "religious-language",
@@ -11353,16 +11305,16 @@
   {
    "slug": "republicanism",
    "status": "pool",
-   "n_patches": 95,
+   "n_patches": 96,
    "page_len": 95118,
-   "pool_bytes": 19614
+   "pool_bytes": 19636
   },
   {
    "slug": "repugnant-conclusion",
    "status": "pool",
-   "n_patches": 92,
+   "n_patches": 93,
    "page_len": 82678,
-   "pool_bytes": 58026
+   "pool_bytes": 58050
   },
   {
    "slug": "respect",
@@ -11387,9 +11339,9 @@
   },
   {
    "slug": "richard-price",
-   "page_len": 122361,
    "status": "pool",
    "n_patches": 185,
+   "page_len": 122361,
    "pool_bytes": 50139
   },
   {
@@ -11422,9 +11374,9 @@
   },
   {
    "slug": "rights-group",
-   "page_len": 108263,
    "status": "gap",
    "why": "unaligned text units",
+   "page_len": 108263,
    "sample": {
     "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
     "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
@@ -11440,9 +11392,9 @@
   {
    "slug": "rigid-designators",
    "status": "pool",
-   "n_patches": 204,
+   "n_patches": 205,
    "page_len": 148010,
-   "pool_bytes": 108368
+   "pool_bytes": 108392
   },
   {
    "slug": "risk",
@@ -11454,16 +11406,16 @@
   {
    "slug": "robert-kilwardby",
    "status": "pool",
-   "n_patches": 262,
+   "n_patches": 263,
    "page_len": 185477,
-   "pool_bytes": 105264
+   "pool_bytes": 105286
   },
   {
    "slug": "roger-bacon",
    "status": "pool",
-   "n_patches": 269,
+   "n_patches": 270,
    "page_len": 178933,
-   "pool_bytes": 121332
+   "pool_bytes": 121354
   },
   {
    "slug": "rorty",
@@ -11488,16 +11440,16 @@
   },
   {
    "slug": "rousseau",
-   "page_len": 87175,
    "status": "pool",
    "n_patches": 85,
+   "page_len": 87175,
    "pool_bytes": 45103
   },
   {
    "slug": "royce",
-   "page_len": 123323,
    "status": "gap",
    "why": "unaligned text units",
+   "page_len": 123323,
    "sample": {
     "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
     "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
@@ -11529,10 +11481,10 @@
   },
   {
    "slug": "russell-moral",
-   "page_len": 202355,
    "status": "pool",
-   "n_patches": 283,
-   "pool_bytes": 135737
+   "n_patches": 284,
+   "page_len": 202355,
+   "pool_bytes": 135759
   },
   {
    "slug": "russell-paradox",
@@ -11557,10 +11509,10 @@
   },
   {
    "slug": "ryle",
-   "page_len": 130771,
    "status": "pool",
-   "n_patches": 138,
-   "pool_bytes": 63710
+   "n_patches": 139,
+   "page_len": 130771,
+   "pool_bytes": 63732
   },
   {
    "slug": "saadya",
@@ -11572,9 +11524,9 @@
   {
    "slug": "saantarak-sita",
    "status": "pool",
-   "n_patches": 65,
+   "n_patches": 66,
    "page_len": 75443,
-   "pool_bytes": 43288
+   "pool_bytes": 43310
   },
   {
    "slug": "sakya-pandita",
@@ -11588,24 +11540,24 @@
   },
   {
    "slug": "santayana",
-   "page_len": 95905,
    "status": "pool",
    "n_patches": 108,
+   "page_len": 95905,
    "pool_bytes": 36858
   },
   {
    "slug": "sartre",
-   "page_len": 146267,
    "status": "pool",
    "n_patches": 203,
+   "page_len": 146267,
    "pool_bytes": 70148
   },
   {
    "slug": "scheler",
-   "page_len": 115210,
    "status": "pool",
-   "n_patches": 89,
-   "pool_bytes": 48695
+   "n_patches": 90,
+   "page_len": 115210,
+   "pool_bytes": 48719
   },
   {
    "slug": "schelling",
@@ -11631,22 +11583,22 @@
   {
    "slug": "schlegel",
    "status": "pool",
-   "n_patches": 109,
+   "n_patches": 110,
    "page_len": 60641,
-   "pool_bytes": 27676
+   "pool_bytes": 27700
   },
   {
    "slug": "schlegel-aw",
-   "page_len": 116384,
    "status": "pool",
    "n_patches": 135,
+   "page_len": 116384,
    "pool_bytes": 60552
   },
   {
    "slug": "schleiermacher",
-   "page_len": 174113,
    "status": "pool",
    "n_patches": 200,
+   "page_len": 174113,
    "pool_bytes": 94248
   },
   {
@@ -11659,9 +11611,9 @@
   {
    "slug": "schmitt",
    "status": "pool",
-   "n_patches": 167,
+   "n_patches": 168,
    "page_len": 111120,
-   "pool_bytes": 25689
+   "pool_bytes": 25713
   },
   {
    "slug": "scholem",
@@ -11686,31 +11638,31 @@
   },
   {
    "slug": "school-salamanca",
-   "page_len": 130902,
    "status": "pool",
    "n_patches": 120,
+   "page_len": 130902,
    "pool_bytes": 68576
   },
   {
    "slug": "schopenhauer",
    "status": "pool",
-   "n_patches": 114,
+   "n_patches": 115,
    "page_len": 103458,
-   "pool_bytes": 45923
+   "pool_bytes": 45947
   },
   {
    "slug": "schopenhauer-aesthetics",
    "status": "pool",
-   "n_patches": 111,
+   "n_patches": 112,
    "page_len": 80354,
-   "pool_bytes": 63916
+   "pool_bytes": 63940
   },
   {
    "slug": "schutz",
    "status": "pool",
-   "n_patches": 111,
+   "n_patches": 112,
    "page_len": 102118,
-   "pool_bytes": 37259
+   "pool_bytes": 37283
   },
   {
    "slug": "science-big-data",
@@ -11750,16 +11702,16 @@
   {
    "slug": "scientific-knowledge-social",
    "status": "pool",
-   "n_patches": 140,
+   "n_patches": 141,
    "page_len": 146632,
-   "pool_bytes": 26892
+   "pool_bytes": 26914
   },
   {
    "slug": "scientific-method",
    "status": "pool",
-   "n_patches": 187,
+   "n_patches": 188,
    "page_len": 123130,
-   "pool_bytes": 60460
+   "pool_bytes": 60482
   },
   {
    "slug": "scientific-objectivity",
@@ -11778,9 +11730,9 @@
   {
    "slug": "scientific-progress",
    "status": "pool",
-   "n_patches": 145,
+   "n_patches": 146,
    "page_len": 114195,
-   "pool_bytes": 51756
+   "pool_bytes": 51780
   },
   {
    "slug": "scientific-realism",
@@ -11820,9 +11772,9 @@
   {
    "slug": "scientific-underdetermination",
    "status": "pool",
-   "n_patches": 81,
+   "n_patches": 82,
    "page_len": 97299,
-   "pool_bytes": 56041
+   "pool_bytes": 56065
   },
   {
    "slug": "scientific-unity",
@@ -11834,22 +11786,22 @@
   {
    "slug": "scottish-18th",
    "status": "pool",
-   "n_patches": 91,
+   "n_patches": 92,
    "page_len": 99821,
-   "pool_bytes": 30073
+   "pool_bytes": 30095
   },
   {
    "slug": "scottish-19th",
    "status": "pool",
-   "n_patches": 67,
+   "n_patches": 68,
    "page_len": 92315,
-   "pool_bytes": 35415
+   "pool_bytes": 35439
   },
   {
    "slug": "scottus-eriugena",
-   "page_len": 122977,
    "status": "gap",
    "why": "unaligned text units",
+   "page_len": 122977,
    "sample": {
     "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
     "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
@@ -11871,9 +11823,9 @@
   },
   {
    "slug": "self-consciousness",
-   "page_len": 202467,
    "status": "pool",
    "n_patches": 384,
+   "page_len": 202467,
    "pool_bytes": 101694
   },
   {
@@ -11899,17 +11851,17 @@
   },
   {
    "slug": "self-knowledge",
-   "page_len": 122472,
    "status": "pool",
-   "n_patches": 202,
-   "pool_bytes": 54873
+   "n_patches": 203,
+   "page_len": 122472,
+   "pool_bytes": 54895
   },
   {
    "slug": "self-knowledge-externalism",
    "status": "pool",
-   "n_patches": 313,
+   "n_patches": 314,
    "page_len": 153230,
-   "pool_bytes": 83109
+   "pool_bytes": 83133
   },
   {
    "slug": "self-locating-beliefs",
@@ -11934,9 +11886,9 @@
   },
   {
    "slug": "sellars",
-   "page_len": 150340,
    "status": "pool",
    "n_patches": 411,
+   "page_len": 150340,
    "pool_bytes": 72273
   },
   {
@@ -11952,9 +11904,9 @@
   {
    "slug": "seneca",
    "status": "pool",
-   "n_patches": 157,
+   "n_patches": 158,
    "page_len": 131829,
-   "pool_bytes": 86216
+   "pool_bytes": 86240
   },
   {
    "slug": "sense-data",
@@ -11993,17 +11945,17 @@
   },
   {
    "slug": "sex-sexuality",
-   "page_len": 163324,
    "status": "pool",
    "n_patches": 227,
+   "page_len": 163324,
    "pool_bytes": 56442
   },
   {
    "slug": "sextus-empiricus",
    "status": "pool",
-   "n_patches": 345,
+   "n_patches": 346,
    "page_len": 146499,
-   "pool_bytes": 95037
+   "pool_bytes": 95059
   },
   {
    "slug": "shaaban-robert-ethics",
@@ -12014,22 +11966,16 @@
   },
   {
    "slug": "shaftesbury",
-   "page_len": 198152,
-   "link_miss": 33,
-   "miss_sample": [
-    "1. Introduction",
-    "1.1 Life and works",
-    "1.2 Purpose and form of philosophy"
-   ],
    "status": "pool",
    "n_patches": 236,
+   "page_len": 198152,
    "pool_bytes": 117712
   },
   {
    "slug": "shankara",
-   "page_len": 111105,
    "status": "pool",
    "n_patches": 126,
+   "page_len": 111105,
    "pool_bytes": 49804
   },
   {
@@ -12072,9 +12018,9 @@
   },
   {
    "slug": "sign-language-semantics",
-   "page_len": 143829,
    "status": "gap",
    "why": "unaligned text units",
+   "page_len": 143829,
    "sample": {
     "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
     "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
@@ -12082,9 +12028,9 @@
   },
   {
    "slug": "sikh-philosophy",
-   "page_len": 104385,
    "status": "pool",
    "n_patches": 111,
+   "page_len": 104385,
    "pool_bytes": 84659
   },
   {
@@ -12104,9 +12050,9 @@
   {
    "slug": "simplicity",
    "status": "pool",
-   "n_patches": 122,
+   "n_patches": 123,
    "page_len": 96264,
-   "pool_bytes": 60824
+   "pool_bytes": 60848
   },
   {
    "slug": "simplicius",
@@ -12141,13 +12087,10 @@
   },
   {
    "slug": "situations-semantics",
+   "status": "pool",
+   "n_patches": 227,
    "page_len": 135772,
-   "status": "gap",
-   "why": "unaligned text units",
-   "sample": {
-    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
-    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
-   }
+   "pool_bytes": 69615
   },
   {
    "slug": "skeptical-theism",
@@ -12166,9 +12109,9 @@
   {
    "slug": "skepticism-ancient",
    "status": "pool",
-   "n_patches": 278,
+   "n_patches": 279,
    "page_len": 215193,
-   "pool_bytes": 137252
+   "pool_bytes": 137276
   },
   {
    "slug": "skepticism-content-externalism",
@@ -12182,35 +12125,35 @@
    "status": "pool",
    "n_patches": 260,
    "page_len": 145733,
-   "pool_bytes": 45606
+   "pool_bytes": 45628
   },
   {
    "slug": "skepticism-medieval",
-   "page_len": 91570,
    "status": "pool",
-   "n_patches": 107,
-   "pool_bytes": 31065
+   "n_patches": 108,
+   "page_len": 91570,
+   "pool_bytes": 31089
   },
   {
    "slug": "skepticism-moral",
    "status": "pool",
-   "n_patches": 99,
+   "n_patches": 100,
    "page_len": 77177,
-   "pool_bytes": 22532
+   "pool_bytes": 22556
   },
   {
    "slug": "skepticism-moral-responsibility",
-   "page_len": 189637,
    "status": "pool",
    "n_patches": 322,
+   "page_len": 189637,
    "pool_bytes": 113983
   },
   {
    "slug": "smith-moral-political",
    "status": "pool",
-   "n_patches": 77,
+   "n_patches": 78,
    "page_len": 90770,
-   "pool_bytes": 34693
+   "pool_bytes": 34717
   },
   {
    "slug": "social-choice",
@@ -12222,9 +12165,9 @@
   {
    "slug": "social-construction-naturalistic",
    "status": "pool",
-   "n_patches": 132,
+   "n_patches": 133,
    "page_len": 85313,
-   "pool_bytes": 47818
+   "pool_bytes": 47842
   },
   {
    "slug": "social-institutions",
@@ -12236,9 +12179,9 @@
   {
    "slug": "social-minimum",
    "status": "pool",
-   "n_patches": 177,
+   "n_patches": 178,
    "page_len": 134483,
-   "pool_bytes": 88018
+   "pool_bytes": 88040
   },
   {
    "slug": "social-norms",
@@ -12274,16 +12217,16 @@
   {
    "slug": "sociobiology",
    "status": "pool",
-   "n_patches": 127,
+   "n_patches": 128,
    "page_len": 104106,
-   "pool_bytes": 56754
+   "pool_bytes": 56776
   },
   {
    "slug": "socrates",
    "status": "pool",
-   "n_patches": 91,
+   "n_patches": 92,
    "page_len": 113512,
-   "pool_bytes": 80262
+   "pool_bytes": 80284
   },
   {
    "slug": "solidarity",
@@ -12308,9 +12251,9 @@
   },
   {
    "slug": "sophismata",
-   "page_len": 56057,
    "status": "pool",
    "n_patches": 89,
+   "page_len": 56057,
    "pool_bytes": 25694
   },
   {
@@ -12371,16 +12314,16 @@
   },
   {
    "slug": "spacetime-iframes",
-   "page_len": 119321,
    "status": "pool",
    "n_patches": 127,
+   "page_len": 119321,
    "pool_bytes": 64990
   },
   {
    "slug": "spacetime-singularities",
-   "page_len": 322158,
    "status": "gap",
    "why": "unaligned text units",
+   "page_len": 322158,
    "sample": {
     "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
     "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
@@ -12424,9 +12367,9 @@
   {
    "slug": "speech-acts",
    "status": "pool",
-   "n_patches": 209,
+   "n_patches": 210,
    "page_len": 136630,
-   "pool_bytes": 118919
+   "pool_bytes": 118943
   },
   {
    "slug": "spencer",
@@ -12444,9 +12387,9 @@
   },
   {
    "slug": "spinoza",
-   "page_len": 112794,
    "status": "pool",
    "n_patches": 90,
+   "page_len": 112794,
    "pool_bytes": 41723
   },
   {
@@ -12468,31 +12411,31 @@
   },
   {
    "slug": "spinoza-modal",
-   "page_len": 109711,
    "status": "pool",
    "n_patches": 129,
+   "page_len": 109711,
    "pool_bytes": 64122
   },
   {
    "slug": "spinoza-physics",
    "status": "pool",
-   "n_patches": 95,
+   "n_patches": 96,
    "page_len": 130197,
-   "pool_bytes": 69394
+   "pool_bytes": 69418
   },
   {
    "slug": "spinoza-political",
-   "page_len": 109239,
    "status": "pool",
    "n_patches": 135,
+   "page_len": 109239,
    "pool_bytes": 39676
   },
   {
    "slug": "spinoza-psychological",
-   "page_len": 86752,
    "status": "pool",
-   "n_patches": 104,
-   "pool_bytes": 41843
+   "n_patches": 105,
+   "page_len": 86752,
+   "pool_bytes": 41867
   },
   {
    "slug": "sport",
@@ -12532,16 +12475,16 @@
   {
    "slug": "statistics",
    "status": "pool",
-   "n_patches": 230,
+   "n_patches": 231,
    "page_len": 220810,
-   "pool_bytes": 65531
+   "pool_bytes": 65553
   },
   {
    "slug": "statphys-Boltzmann",
-   "page_len": 125054,
    "status": "pool",
-   "n_patches": 142,
-   "pool_bytes": 45849
+   "n_patches": 143,
+   "page_len": 125054,
+   "pool_bytes": 45873
   },
   {
    "slug": "statphys-statmech",
@@ -12559,24 +12502,24 @@
   },
   {
    "slug": "stein",
-   "page_len": 182141,
    "status": "pool",
    "n_patches": 299,
+   "page_len": 182141,
    "pool_bytes": 97807
   },
   {
    "slug": "stem-cells",
    "status": "pool",
-   "n_patches": 117,
+   "n_patches": 118,
    "page_len": 67146,
-   "pool_bytes": 52140
+   "pool_bytes": 52164
   },
   {
    "slug": "stevenson",
    "status": "pool",
-   "n_patches": 159,
+   "n_patches": 160,
    "page_len": 111506,
-   "pool_bytes": 76133
+   "pool_bytes": 76157
   },
   {
    "slug": "stoicism",
@@ -12587,9 +12530,9 @@
   },
   {
    "slug": "strauss-leo",
-   "page_len": 85415,
    "status": "pool",
    "n_patches": 107,
+   "page_len": 85415,
    "pool_bytes": 35037
   },
   {
@@ -12615,30 +12558,30 @@
   },
   {
    "slug": "structure-scientific-theories",
-   "page_len": 182409,
    "status": "pool",
    "n_patches": 321,
+   "page_len": 182409,
    "pool_bytes": 84269
   },
   {
    "slug": "stumpf",
    "status": "pool",
-   "n_patches": 220,
+   "n_patches": 221,
    "page_len": 142140,
-   "pool_bytes": 68235
+   "pool_bytes": 68257
   },
   {
    "slug": "suarez",
-   "page_len": 160771,
    "status": "pool",
-   "n_patches": 281,
-   "pool_bytes": 77247
+   "n_patches": 282,
+   "page_len": 160771,
+   "pool_bytes": 77269
   },
   {
    "slug": "substance",
-   "page_len": 141916,
    "status": "pool",
    "n_patches": 171,
+   "page_len": 141916,
    "pool_bytes": 57793
   },
   {
@@ -12677,23 +12620,23 @@
   },
   {
    "slug": "supervenience",
-   "page_len": 161626,
    "status": "pool",
    "n_patches": 265,
+   "page_len": 161626,
    "pool_bytes": 111877
   },
   {
    "slug": "supervenience-ethics",
    "status": "pool",
-   "n_patches": 184,
+   "n_patches": 185,
    "page_len": 150094,
-   "pool_bytes": 71459
+   "pool_bytes": 71481
   },
   {
    "slug": "susman-margarete",
-   "page_len": 98634,
    "status": "pool",
    "n_patches": 131,
+   "page_len": 98634,
    "pool_bytes": 25934
   },
   {
@@ -12730,16 +12673,16 @@
   {
    "slug": "tarski",
    "status": "pool",
-   "n_patches": 189,
+   "n_patches": 190,
    "page_len": 117555,
-   "pool_bytes": 62600
+   "pool_bytes": 62624
   },
   {
    "slug": "tarski-truth",
    "status": "pool",
-   "n_patches": 55,
+   "n_patches": 56,
    "page_len": 50085,
-   "pool_bytes": 19927
+   "pool_bytes": 19951
   },
   {
    "slug": "taurellus",
@@ -12758,9 +12701,9 @@
   {
    "slug": "teleological-arguments",
    "status": "pool",
-   "n_patches": 162,
+   "n_patches": 163,
    "page_len": 98262,
-   "pool_bytes": 51502
+   "pool_bytes": 51526
   },
   {
    "slug": "teleology-biology",
@@ -12772,9 +12715,9 @@
   {
    "slug": "telesio",
    "status": "pool",
-   "n_patches": 98,
+   "n_patches": 99,
    "page_len": 60310,
-   "pool_bytes": 36727
+   "pool_bytes": 36751
   },
   {
    "slug": "temporal-parts",
@@ -12795,9 +12738,9 @@
   },
   {
    "slug": "territorial-rights",
-   "page_len": 99434,
    "status": "pool",
    "n_patches": 121,
+   "page_len": 99434,
    "pool_bytes": 46494
   },
   {
@@ -12831,15 +12774,15 @@
   {
    "slug": "theology-aristotle",
    "status": "pool",
-   "n_patches": 87,
+   "n_patches": 88,
    "page_len": 61634,
-   "pool_bytes": 30857
+   "pool_bytes": 30881
   },
   {
    "slug": "theophrastus",
-   "page_len": 117744,
    "status": "pool",
    "n_patches": 191,
+   "page_len": 117744,
    "pool_bytes": 76569
   },
   {
@@ -12872,9 +12815,9 @@
   },
   {
    "slug": "thomas-more",
-   "page_len": 106042,
    "status": "pool",
    "n_patches": 194,
+   "page_len": 106042,
    "pool_bytes": 52068
   },
   {
@@ -12925,9 +12868,9 @@
   {
    "slug": "time-travel",
    "status": "pool",
-   "n_patches": 130,
+   "n_patches": 131,
    "page_len": 84069,
-   "pool_bytes": 53117
+   "pool_bytes": 53139
   },
   {
    "slug": "time-travel-phys",
@@ -12942,16 +12885,16 @@
   {
    "slug": "timon-phlius",
    "status": "pool",
-   "n_patches": 42,
+   "n_patches": 43,
    "page_len": 47682,
-   "pool_bytes": 29868
+   "pool_bytes": 29892
   },
   {
    "slug": "toleration",
    "status": "pool",
-   "n_patches": 98,
+   "n_patches": 99,
    "page_len": 75444,
-   "pool_bytes": 31996
+   "pool_bytes": 32018
   },
   {
    "slug": "tort-theories",
@@ -12998,9 +12941,9 @@
   {
    "slug": "transcendentals-medieval",
    "status": "pool",
-   "n_patches": 96,
+   "n_patches": 97,
    "page_len": 83533,
-   "pool_bytes": 64298
+   "pool_bytes": 64322
   },
   {
    "slug": "transformative-experience",
@@ -13019,9 +12962,9 @@
   {
    "slug": "trinity",
    "status": "pool",
-   "n_patches": 435,
+   "n_patches": 436,
    "page_len": 261458,
-   "pool_bytes": 129229
+   "pool_bytes": 129251
   },
   {
    "slug": "tropes",
@@ -13073,9 +13016,9 @@
   },
   {
    "slug": "truth-deflationary",
-   "page_len": 179426,
    "status": "pool",
    "n_patches": 239,
+   "page_len": 179426,
    "pool_bytes": 93817
   },
   {
@@ -13088,9 +13031,9 @@
   {
    "slug": "truth-pluralist",
    "status": "pool",
-   "n_patches": 246,
+   "n_patches": 247,
    "page_len": 108908,
-   "pool_bytes": 90492
+   "pool_bytes": 90516
   },
   {
    "slug": "truth-pragmatic",
@@ -13101,17 +13044,17 @@
   },
   {
    "slug": "truth-primitivist",
-   "page_len": 162566,
    "status": "pool",
    "n_patches": 302,
+   "page_len": 162566,
    "pool_bytes": 107849
   },
   {
    "slug": "truth-revision",
    "status": "pool",
-   "n_patches": 606,
+   "n_patches": 607,
    "page_len": 117564,
-   "pool_bytes": 54474
+   "pool_bytes": 54498
   },
   {
    "slug": "truth-values",
@@ -13123,9 +13066,9 @@
   {
    "slug": "truthlikeness",
    "status": "pool",
-   "n_patches": 408,
+   "n_patches": 409,
    "page_len": 144427,
-   "pool_bytes": 64197
+   "pool_bytes": 64221
   },
   {
    "slug": "truthmakers",
@@ -13136,17 +13079,17 @@
   },
   {
    "slug": "tsongkhapa",
-   "page_len": 106406,
    "status": "pool",
    "n_patches": 133,
+   "page_len": 106406,
    "pool_bytes": 65918
   },
   {
    "slug": "turing",
-   "page_len": 90863,
    "status": "pool",
-   "n_patches": 162,
-   "pool_bytes": 77944
+   "n_patches": 163,
+   "page_len": 90863,
+   "pool_bytes": 77968
   },
   {
    "slug": "turing-machine",
@@ -13158,36 +13101,40 @@
   {
    "slug": "turing-test",
    "status": "pool",
-   "n_patches": 145,
+   "n_patches": 146,
    "page_len": 145774,
-   "pool_bytes": 51996
+   "pool_bytes": 52020
   },
   {
    "slug": "twardowski",
    "status": "pool",
-   "n_patches": 116,
+   "n_patches": 117,
    "page_len": 107702,
-   "pool_bytes": 85131
+   "pool_bytes": 85153
   },
   {
    "slug": "two-dimensional-semantics",
    "status": "pool",
-   "n_patches": 303,
+   "n_patches": 304,
    "page_len": 167531,
-   "pool_bytes": 84014
+   "pool_bytes": 84038
   },
   {
    "slug": "twotruths-india",
-   "page_len": 179466,
    "status": "gap",
-   "rule_patches": 404
+   "why": "apply verify failed",
+   "page_len": 179466,
+   "sample": {
+    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![endif]-->\n<!--[if !IE]",
+    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![endif]-->\n<!--[if !IE]"
+   }
   },
   {
    "slug": "twotruths-tibet",
    "status": "pool",
-   "n_patches": 105,
+   "n_patches": 106,
    "page_len": 101992,
-   "pool_bytes": 63729
+   "pool_bytes": 63753
   },
   {
    "slug": "type-theory",
@@ -13215,9 +13162,9 @@
   },
   {
    "slug": "typelogical-grammar",
-   "page_len": 172974,
    "status": "gap",
    "why": "unaligned text units",
+   "page_len": 172974,
    "sample": {
     "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
     "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
@@ -13232,9 +13179,9 @@
   },
   {
    "slug": "umar-khayyam",
-   "page_len": 124654,
    "status": "pool",
    "n_patches": 290,
+   "page_len": 124654,
    "pool_bytes": 104667
   },
   {
@@ -13254,16 +13201,16 @@
   {
    "slug": "utilitarianism-history",
    "status": "pool",
-   "n_patches": 69,
+   "n_patches": 70,
    "page_len": 87458,
-   "pool_bytes": 30423
+   "pool_bytes": 30447
   },
   {
    "slug": "vagueness",
    "status": "pool",
-   "n_patches": 104,
+   "n_patches": 105,
    "page_len": 105029,
-   "pool_bytes": 19090
+   "pool_bytes": 19114
   },
   {
    "slug": "vaihinger",
@@ -13281,9 +13228,9 @@
   },
   {
    "slug": "value-intrinsic-extrinsic",
-   "page_len": 156690,
    "status": "pool",
    "n_patches": 213,
+   "page_len": 156690,
    "pool_bytes": 110305
   },
   {
@@ -13303,9 +13250,9 @@
   {
    "slug": "vasubandhu",
    "status": "pool",
-   "n_patches": 195,
+   "n_patches": 196,
    "page_len": 145156,
-   "pool_bytes": 86194
+   "pool_bytes": 86218
   },
   {
    "slug": "vegetarianism",
@@ -13330,17 +13277,17 @@
   },
   {
    "slug": "vives",
-   "page_len": 62577,
    "status": "pool",
-   "n_patches": 75,
-   "pool_bytes": 30548
+   "n_patches": 76,
+   "page_len": 62577,
+   "pool_bytes": 30572
   },
   {
    "slug": "voltaire",
-   "page_len": 110836,
    "status": "pool",
-   "n_patches": 165,
-   "pool_bytes": 52399
+   "n_patches": 166,
+   "page_len": 110836,
+   "pool_bytes": 52423
   },
   {
    "slug": "voluntarism-theological",
@@ -13365,9 +13312,9 @@
   },
   {
    "slug": "walter-chatton",
-   "page_len": 140185,
    "status": "pool",
    "n_patches": 238,
+   "page_len": 140185,
    "pool_bytes": 74694
   },
   {
@@ -13387,9 +13334,9 @@
   {
    "slug": "watsuji-tetsuro",
    "status": "pool",
-   "n_patches": 107,
+   "n_patches": 108,
    "page_len": 91258,
-   "pool_bytes": 74937
+   "pool_bytes": 74961
   },
   {
    "slug": "weakness-will",
@@ -13415,9 +13362,9 @@
   {
    "slug": "well-being",
    "status": "pool",
-   "n_patches": 90,
+   "n_patches": 91,
    "page_len": 76770,
-   "pool_bytes": 26951
+   "pool_bytes": 26973
   },
   {
    "slug": "wesley-salmon",
@@ -13429,16 +13376,16 @@
   {
    "slug": "weyl",
    "status": "pool",
-   "n_patches": 634,
+   "n_patches": 635,
    "page_len": 404702,
-   "pool_bytes": 380185
+   "pool_bytes": 380207
   },
   {
    "slug": "whewell",
-   "page_len": 80747,
    "status": "pool",
-   "n_patches": 68,
-   "pool_bytes": 22375
+   "n_patches": 69,
+   "page_len": 80747,
+   "pool_bytes": 22399
   },
   {
    "slug": "whitehead",
@@ -13452,9 +13399,9 @@
   },
   {
    "slug": "wilhelm-humboldt",
-   "page_len": 128479,
    "status": "gap",
    "why": "unaligned text units",
+   "page_len": 128479,
    "sample": {
     "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
     "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
@@ -13476,24 +13423,24 @@
   },
   {
    "slug": "william-auvergne",
-   "page_len": 112582,
    "status": "pool",
    "n_patches": 107,
+   "page_len": 112582,
    "pool_bytes": 42778
   },
   {
    "slug": "william-champeaux",
-   "page_len": 69802,
    "status": "pool",
-   "n_patches": 123,
-   "pool_bytes": 56827
+   "n_patches": 124,
+   "page_len": 69802,
+   "pool_bytes": 56851
   },
   {
    "slug": "william-david-ross",
    "status": "pool",
-   "n_patches": 206,
+   "n_patches": 207,
    "page_len": 147033,
-   "pool_bytes": 80347
+   "pool_bytes": 80371
   },
   {
    "slug": "william-jevons",
@@ -13521,10 +13468,10 @@
   },
   {
    "slug": "williams-dc",
-   "page_len": 77213,
    "status": "pool",
-   "n_patches": 112,
-   "pool_bytes": 22495
+   "n_patches": 113,
+   "page_len": 77213,
+   "pool_bytes": 22519
   },
   {
    "slug": "wilson",
@@ -13577,16 +13524,16 @@
   },
   {
    "slug": "wolff-christian",
-   "page_len": 155254,
    "status": "pool",
    "n_patches": 226,
+   "page_len": 155254,
    "pool_bytes": 74318
   },
   {
    "slug": "wollstonecraft",
-   "page_len": 86127,
    "status": "pool",
    "n_patches": 123,
+   "page_len": 86127,
    "pool_bytes": 43336
   },
   {
@@ -13616,9 +13563,9 @@
   {
    "slug": "wright",
    "status": "pool",
-   "n_patches": 82,
+   "n_patches": 83,
    "page_len": 74000,
-   "pool_bytes": 40401
+   "pool_bytes": 40423
   },
   {
    "slug": "wyclif",
@@ -13629,17 +13576,17 @@
   },
   {
    "slug": "xenocrates",
-   "page_len": 61932,
    "status": "pool",
    "n_patches": 59,
+   "page_len": 61932,
    "pool_bytes": 24173
   },
   {
    "slug": "xenophanes",
    "status": "pool",
-   "n_patches": 63,
+   "n_patches": 64,
    "page_len": 56600,
-   "pool_bytes": 23320
+   "pool_bytes": 23344
   },
   {
    "slug": "xunzi",
@@ -13658,9 +13605,9 @@
   {
    "slug": "yorck",
    "status": "pool",
-   "n_patches": 126,
+   "n_patches": 127,
    "page_len": 76743,
-   "pool_bytes": 41199
+   "pool_bytes": 41223
   },
   {
    "slug": "zabarella",
@@ -13671,9 +13618,9 @@
   },
   {
    "slug": "zeno-elea",
-   "page_len": 92012,
    "status": "gap",
    "why": "unaligned text units",
+   "page_len": 92012,
    "sample": {
     "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
     "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
@@ -13681,10 +13628,10 @@
   },
   {
    "slug": "zermelo-set-theory",
-   "page_len": 138433,
    "status": "pool",
-   "n_patches": 226,
-   "pool_bytes": 132735
+   "n_patches": 227,
+   "page_len": 138433,
+   "pool_bytes": 132759
   },
   {
    "slug": "zhu-xi",

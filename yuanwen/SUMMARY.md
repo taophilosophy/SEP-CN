@@ -4,6 +4,7 @@
 * [日志与编辑规划](../qian-yan/ri-zhi-yu-bian-ji-gui-hua.md)
   * [项目日志（卷一：2026-11-15 及以前）](../qian-yan/ri-zhi-yu-bian-ji-gui-hua-1.md)
   * [项目日志（卷二：2026-11-16 至 2026-11-20）](../qian-yan/ri-zhi-yu-bian-ji-gui-hua-2.md)
+  * [项目日志（卷三：2026-11-21）](../qian-yan/ri-zhi-yu-bian-ji-gui-hua-3.md)
 * [术语表](../shu-yu-biao.md)
 * [人名表](../ren-ming-biao.md)
 * [编辑信息](../guan-yu/bian-ji-xin-xi.md)
@@ -808,7 +809,7 @@
 * [副现象主义 Epiphenomenalism (William Robinson)](e/epiphenomenalism.md)
 * [科学与技术 Episteme and Techne (Richard Parry)](e/episteme-techne.md)
 * \*认知基础关系——见认知基础关系 epistemic basing relation — see The Epistemic Basing Relation
-* [认知闭合 Epistemic Closure (Steven Luper)](c/closure-epistemic.md)
+* [认知闭合 Epistemic Closure (Marc Alspector-Kelly)](c/closure-epistemic.md)
 * [认知悖论 Epistemic Paradoxes (Roy Sorensen)](e/epistemic-paradoxes.md)
 * \*认识论上的自我怀疑——见认识论上的自我怀疑 epistemic self-doubt — see self-doubt, epistemic
 * [关于认知规范的认知效用论证 Epistemic Utility Arguments for Epistemic Norms (Richard Pettigrew)](e/epistemic-utility.md)
@@ -2347,7 +2348,7 @@
 
 ## S
 
-* [萨阿迪亚·加昂 Saadya \[Saadiah\] (Sarah Pessin)](s/saadya.md)
+* [萨阿迪亚·加昂 Saadya \[Saadiah\] (Gyongyi Hegedus)](s/saadya.md)
 * [寂护 Śāntarakṣita (James Blumenthal、James Apple)](s/saantarak-sita.md)
 * [寂天 Śāntideva (Charles Goodman)](s/shantideva.md)
 * [萨迦·班智达·贡噶坚赞 Sakya Paṇḍita \[sa skya paṇ ḍi ta\] (Jonathan C. Gold)](s/sakya-pandita.md)

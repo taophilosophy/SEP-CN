@@ -4,9 +4,9 @@
  "generated_by": "specs/053 bin/assembly_pool.py",
  "note": "格式层残差补丁：m=标记段、u=单元布局、r=纯布局区段；禁含散文",
  "stats": {
-  "page_bytes": 103911,
-  "pool_bytes": 85131,
-  "n_patches": 116
+  "page_bytes": 103895,
+  "pool_bytes": 85153,
+  "n_patches": 117
  },
  "patches": [
   {
@@ -79210,7 +79210,27 @@
    ]
   },
   {
-   "u": 77023,
+   "u": 76935,
+   "len": 12,
+   "sha": "619d65e1ae1a2704",
+   "items": [
+    [
+     "mk",
+     "<a id=\"Bib\">"
+    ],
+    [
+     "tx",
+     0,
+     12
+    ],
+    [
+     "mk",
+     "</a>"
+    ]
+   ]
+  },
+  {
+   "u": 77007,
    "len": 7644,
    "sha": "3a918f017688aad8",
    "items": [
@@ -87477,7 +87497,7 @@
    ]
   },
   {
-   "u": 84821,
+   "u": 84805,
    "len": 97,
    "sha": "602c21a809fb13dc",
    "items": [
@@ -87610,7 +87630,7 @@
    ]
   },
   {
-   "u": 84979,
+   "u": 84963,
    "len": 146,
    "sha": "a300896f17b06eaa",
    "items": [
@@ -87725,7 +87745,7 @@
    ]
   },
   {
-   "u": 85136,
+   "u": 85120,
    "len": 11526,
    "sha": "69dbd2797fc80db5",
    "items": [
@@ -99100,19 +99120,19 @@
    ]
   },
   {
-   "r": 96675,
+   "r": 96659,
    "len": 35,
    "sha": "5ea9e0725372c7e0",
    "after": "</div> \n<div id=\"academic-tools\">\n\n"
   },
   {
-   "r": 96764,
+   "r": 96748,
    "len": 34,
    "sha": "4993a190d6a73921",
    "after": "<table>\n<tr><td valign=\"top\">"
   },
   {
-   "u": 96870,
+   "u": 96854,
    "len": 145,
    "sha": "46cb530675cbb08a",
    "items": [
@@ -99173,13 +99193,13 @@
    ]
   },
   {
-   "r": 97027,
+   "r": 97011,
    "len": 9,
    "sha": "3b04f49bc05db8fb",
    "after": "<tr><td valign=\"top\">"
   },
   {
-   "u": 97108,
+   "u": 97092,
    "len": 255,
    "sha": "732a85a5bce7b18c",
    "items": [
@@ -99329,13 +99349,13 @@
    ]
   },
   {
-   "r": 97375,
+   "r": 97359,
    "len": 9,
    "sha": "3b04f49bc05db8fb",
    "after": "<tr><td valign=\"top\">"
   },
   {
-   "u": 97448,
+   "u": 97432,
    "len": 215,
    "sha": "0e78c5b41710b88c",
    "items": [
@@ -99490,13 +99510,13 @@
    ]
   },
   {
-   "r": 97675,
+   "r": 97659,
    "len": 9,
    "sha": "3b04f49bc05db8fb",
    "after": "<tr><td valign=\"top\">"
   },
   {
-   "u": 97751,
+   "u": 97735,
    "len": 227,
    "sha": "15765dd785fc1b51",
    "items": [
@@ -99628,19 +99648,19 @@
    ]
   },
   {
-   "r": 97999,
+   "r": 97983,
    "len": 14,
    "sha": "7a81a1190a66b685",
    "after": "</blockquote>\n\n"
   },
   {
-   "r": 98109,
+   "r": 98093,
    "len": 4,
    "sha": "82f4fb72c5b57add",
    "after": "<ul>\n\n<!--LINK CHECKER COMMENTED OUT (Thu Jun 1 15:20:06 PDT 2023)\n\n<li><a href=\"http://archiwum.wfis.uw.edu.pl/bibfis/zasoby-i-zrodla/zbiory-specjalne-i-archiwalia/inwentarze-zbiorow-specjalnych-i-archiwalnych/\" target=\"other\">Catalogues of Twardowski's unpublished papers at the special collections of the University of Warsaw</a>\n (in Polish).</li>\n\nLINK CHECKER-->\n\n<!--LINK CHECKER COMMENTED OUT (Thu May 1 05:02:59 PDT 2025)\n\n<li><a href=\"http://www.elv-akt.net/\" target=\"other\">Archives de L'&Eacute;cole Lvov Varsovie | Archiwum Kazimierza Twardowskiego</a>\n (in French)\n\n</li>\n\nLINK CHECKER--><!--LINK CHECKER COMMENTED OUT (Thu May 1 05:03:00 PDT 2025)\n\n<li><a href=\"http://www.elv-akt.net/ressources/archives.php?id_catalogue=2\" target=\"other\">Correspondence</a></li>\n\nLINK CHECKER-->\n\n<!--LINK CHECKER COMMENTED OUT (Thu May 1 05:02:59 PDT 2025)\n\n<li><a href=\"http://www.elv-akt.net/ressources/archives.php?id_catalogue=1\" target=\"other\">Cours et manuscrits de recherches</a></li>\n\nLINK CHECKER-->\n\n<!--LINK CHECKER COMMENTED OUT (Thu May 1 05:03:00 PDT 2025)\n\n<li><a href=\"http://www.elv-akt.net/ressources/archives.php?id_catalogue=3\" target=\"other\">Publications</a></li>\n\nLINK CHECKER-->\n\n "
   },
   {
-   "u": 98117,
+   "u": 98101,
    "len": 197,
    "sha": "70e96fabca9885ab",
    "items": [
@@ -99821,19 +99841,19 @@
    ]
   },
   {
-   "r": 98398,
+   "r": 98382,
    "len": 5,
    "sha": "b8dc660f3c20d4ce",
    "after": "<p>\n\n "
   },
   {
-   "r": 99084,
+   "r": 99068,
    "len": 5,
    "sha": "d24ff827d6aec3cc",
    "after": "</p>\n\n"
   },
   {
-   "u": 99154,
+   "u": 99138,
    "len": 346,
    "sha": "c54c492e1168b9ea",
    "items": [
@@ -100371,7 +100391,7 @@
    ]
   },
   {
-   "r": 99505,
+   "r": 99489,
    "len": 8,
    "sha": "fb433b3dc85934c4",
    "after": "</div> \n\n"
