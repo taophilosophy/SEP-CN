@@ -580,7 +580,7 @@ Many thanks to Floris Roelofsen, Luca Incurvati, Martin Stokhof and Ivano Ciarde
 
 [^aloni-2022]: Aloni, M., 2022, “Logic and conversation: the case of free choice”, *Semantics and Pragmatics*, 15(5): 1–60.
 
-[^aloni-2013]: Aloni, M. & I. Ciardelli, 2013, “A logical account of free choice imperatives”, in M. Aloni, M. Franke, & F. Roelofsen (eds.), *The dynamic, inquisitive, and visionary life of φ, $?\phi$, and $\Diamond\phi$*, Institute for Logic, Language; Computation, pp. 1–17.
+[^aloni-2013]: Aloni, M. & I. Ciardelli, 2013, “A logical account of free choice imperatives”, in M. Aloni, M. Franke, & F. Roelofsen (eds.), *The dynamic, inquisitive, and visionary life of \(\phi\), $?\phi$, and $\Diamond\phi$*, Institute for Logic, Language; Computation, pp. 1–17.
 
 [^aloni-2013-2]: Aloni, M., P. Égré, & T. de Jager, 2013, “Knowing whether A or B”, *Synthese*, 190(4): 2595–2621.
 

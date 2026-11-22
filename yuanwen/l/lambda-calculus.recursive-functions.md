@@ -27,7 +27,7 @@ and is closed under the operations of:
 - ***minimalization***: if $G$ is a recursive function, and if the numeric function $F$ satisfies the relation
 - $F(x_1 ,\ldots ,x_n) = y$ iff $G(x_1 ,\ldots ,x_n,y) = 1$ and for all $x \lt y$ we have $G(x_1 ,\ldots ,x_n,x) = 0$ then $F$ is a recursive function.
 
-Say that a number-theoretic function $f$ of arity $n$ is **λ-definable** if there exists a *λ*-term $F$ with the property that for every natural number $a$ and for every $n$-tuple $(a_1 ,\ldots a_n)$ of natural numbers, we have
+Say that a number-theoretic function $f$ of arity $n$ is **\(\lambda\)-definable** if there exists a *λ*-term $F$ with the property that for every natural number $a$ and for every $n$-tuple $(a_1 ,\ldots a_n)$ of natural numbers, we have
 
 $$ f(a_1 ,\ldots a_n) = a \text{ iff } \lambda \vdash F\ulcorner a_1\urcorner \ldots \ulcorner a_n\urcorner = \ulcorner a\urcorner $$
 
@@ -79,7 +79,7 @@ An adequate representation of $\mu$ in the *λ*-calculus is defined in stages. D
 
 $$\begin{align} H_P &:= \bTheta (\lambda h[\lambda z[\ifthenelse Pz, z, h \Succ z]] \\ \mu P &:= H_P\ulcorner 0\urcorner \end{align}$$
 
-The second clause of the definition can be intuitively understood as computing thus: Does 0 have property $P$? If so, then stop; $\mu P$ is 0. If not, does 1 have property $P$? If so, then 1 is the answer. Proceeding in this fashion, one will eventually stop and the computed value will be $\mu P$. The fixed-point operator **Θ** accomplishes the ‘looping’. One can then show that if $X$ is a *λ*-term with the property that
+The second clause of the definition can be intuitively understood as computing thus: Does 0 have property $P$? If so, then stop; $\mu P$ is 0. If not, does 1 have property $P$? If so, then 1 is the answer. Proceeding in this fashion, one will eventually stop and the computed value will be $\mu P$. The fixed-point operator **\(\Theta\)** accomplishes the ‘looping’. One can then show that if $X$ is a *λ*-term with the property that
 
 - for all natural numbers $n$: either $P\ulcorner n\urcorner = \bT$ or $P\ulcorner n\urcorner = \bF$
 

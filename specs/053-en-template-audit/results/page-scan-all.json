@@ -5,12 +5,12 @@
  "total": 1873,
  "counts": {
   "rule": 0,
-  "pool": 1636,
-  "gap": 237,
+  "pool": 1659,
+  "gap": 214,
   "stale": 0
  },
  "page_bytes": 235952045,
- "pool_bytes": 101731274,
+ "pool_bytes": 104120949,
  "entries": [
   {
    "slug": "18thGerman-preKant",
@@ -1836,13 +1836,10 @@
   },
   {
    "slug": "cellular-automata",
-   "status": "gap",
-   "why": "unaligned text units",
+   "status": "pool",
+   "n_patches": 189,
    "page_len": 148855,
-   "sample": {
-    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
-    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
-   }
+   "pool_bytes": 124003
   },
   {
    "slug": "certainty",
@@ -2019,15 +2016,9 @@
   },
   {
    "slug": "church",
-   "page_len": 188737,
-   "link_miss": 17,
-   "miss_sample": [
-    "axiom *",
-    "***",
-    "***"
-   ],
    "status": "gap",
    "why": "unaligned text units",
+   "page_len": 188737,
    "sample": {
     "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
     "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
@@ -2224,12 +2215,12 @@
   },
   {
    "slug": "common-knowledge",
-   "page_len": 192908,
    "status": "gap",
-   "why": "unaligned text units",
+   "why": "apply verify failed",
+   "page_len": 192908,
    "sample": {
-    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
-    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
+    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![endif]-->\n<!--[if !IE]",
+    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![endif]-->\n<!--[if !IE]"
    }
   },
   {
@@ -2283,13 +2274,10 @@
   },
   {
    "slug": "computational-complexity",
-   "status": "gap",
-   "why": "unaligned text units",
+   "status": "pool",
+   "n_patches": 417,
    "page_len": 260377,
-   "sample": {
-    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
-    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
-   }
+   "pool_bytes": 239887
   },
   {
    "slug": "computational-linguistics",
@@ -2644,13 +2632,10 @@
   },
   {
    "slug": "continuity",
-   "status": "gap",
-   "why": "unaligned text units",
+   "status": "pool",
+   "n_patches": 335,
    "page_len": 200011,
-   "sample": {
-    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
-    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
-   }
+   "pool_bytes": 120373
   },
   {
    "slug": "continuum-hypothesis",
@@ -3409,13 +3394,10 @@
   },
   {
    "slug": "disjunction",
-   "status": "gap",
-   "why": "unaligned text units",
+   "status": "pool",
+   "n_patches": 263,
    "page_len": 134866,
-   "sample": {
-    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
-    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
-   }
+   "pool_bytes": 94611
   },
   {
    "slug": "dispositions",
@@ -5074,9 +5056,9 @@
   },
   {
    "slug": "games-abstraction",
-   "page_len": 128005,
    "status": "gap",
    "why": "unaligned text units",
+   "page_len": 128005,
    "sample": {
     "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
     "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
@@ -5272,13 +5254,10 @@
   },
   {
    "slug": "goedel",
+   "status": "pool",
+   "n_patches": 317,
    "page_len": 164243,
-   "status": "gap",
-   "why": "unaligned text units",
-   "sample": {
-    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
-    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
-   }
+   "pool_bytes": 99972
   },
   {
    "slug": "goedel-incompleteness",
@@ -6194,13 +6173,10 @@
   },
   {
    "slug": "information-semantic",
-   "status": "gap",
-   "why": "unaligned text units",
+   "status": "pool",
+   "n_patches": 115,
    "page_len": 91091,
-   "sample": {
-    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
-    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
-   }
+   "pool_bytes": 56993
   },
   {
    "slug": "informed-consent",
@@ -6519,14 +6495,9 @@
   },
   {
    "slug": "johann-herbart",
-   "page_len": 184897,
-   "link_miss": 2,
-   "miss_sample": [
-    "Section\n3",
-    "Section 5"
-   ],
    "status": "gap",
    "why": "unaligned text units",
+   "page_len": 184897,
    "sample": {
     "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
     "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
@@ -6977,13 +6948,10 @@
   },
   {
    "slug": "lambda-calculus",
-   "status": "gap",
-   "why": "unaligned text units",
+   "status": "pool",
+   "n_patches": 359,
    "page_len": 133067,
-   "sample": {
-    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
-    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
-   }
+   "pool_bytes": 73429
   },
   {
    "slug": "lambert-auxerre",
@@ -7474,13 +7442,10 @@
   },
   {
    "slug": "logic-action",
-   "status": "gap",
-   "why": "unaligned text units",
+   "status": "pool",
+   "n_patches": 161,
    "page_len": 103465,
-   "sample": {
-    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
-    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
-   }
+   "pool_bytes": 48919
   },
   {
    "slug": "logic-ai",
@@ -7519,13 +7484,10 @@
   },
   {
    "slug": "logic-combinatory",
-   "status": "gap",
-   "why": "unaligned text units",
+   "status": "pool",
+   "n_patches": 280,
    "page_len": 155677,
-   "sample": {
-    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
-    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
-   }
+   "pool_bytes": 102650
   },
   {
    "slug": "logic-combining",
@@ -7584,13 +7546,10 @@
   },
   {
    "slug": "logic-epistemic",
-   "status": "gap",
-   "why": "unaligned text units",
+   "status": "pool",
+   "n_patches": 306,
    "page_len": 152803,
-   "sample": {
-    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
-    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
-   }
+   "pool_bytes": 89114
   },
   {
    "slug": "logic-firstorder-emergence",
@@ -7683,13 +7642,10 @@
   },
   {
    "slug": "logic-information",
-   "status": "gap",
-   "why": "unaligned text units",
+   "status": "pool",
+   "n_patches": 216,
    "page_len": 169356,
-   "sample": {
-    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
-    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
-   }
+   "pool_bytes": 91137
   },
   {
    "slug": "logic-intensional",
@@ -7713,7 +7669,7 @@
    "status": "pool",
    "n_patches": 203,
    "page_len": 128560,
-   "pool_bytes": 52736
+   "pool_bytes": 52480
   },
   {
    "slug": "logic-linear",
@@ -7727,23 +7683,17 @@
   },
   {
    "slug": "logic-many-sorted",
-   "status": "gap",
-   "why": "unaligned text units",
+   "status": "pool",
+   "n_patches": 253,
    "page_len": 147026,
-   "sample": {
-    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
-    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
-   }
+   "pool_bytes": 82993
   },
   {
    "slug": "logic-manyvalued",
-   "status": "gap",
-   "why": "unaligned text units",
+   "status": "pool",
+   "n_patches": 936,
    "page_len": 290718,
-   "sample": {
-    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
-    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
-   }
+   "pool_bytes": 175216
   },
   {
    "slug": "logic-massexpress",
@@ -7768,13 +7718,10 @@
   },
   {
    "slug": "logic-nonmonotonic",
-   "status": "gap",
-   "why": "unaligned text units",
+   "status": "pool",
+   "n_patches": 609,
    "page_len": 162315,
-   "sample": {
-    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
-    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
-   }
+   "pool_bytes": 148200
   },
   {
    "slug": "logic-normative",
@@ -7863,13 +7810,10 @@
   },
   {
    "slug": "logic-temporal",
-   "status": "gap",
-   "why": "unaligned text units",
+   "status": "pool",
+   "n_patches": 477,
    "page_len": 226237,
-   "sample": {
-    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
-    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
-   }
+   "pool_bytes": 122499
   },
   {
    "slug": "logical-atomism",
@@ -8760,13 +8704,10 @@
   },
   {
    "slug": "montague-semantics",
-   "status": "gap",
-   "why": "unaligned text units",
+   "status": "pool",
+   "n_patches": 136,
    "page_len": 97857,
-   "sample": {
-    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
-    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
-   }
+   "pool_bytes": 42530
   },
   {
    "slug": "montaigne",
@@ -9929,13 +9870,10 @@
   },
   {
    "slug": "phil-multimodallogic",
-   "status": "gap",
-   "why": "unaligned text units",
+   "status": "pool",
+   "n_patches": 388,
    "page_len": 202630,
-   "sample": {
-    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
-    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
-   }
+   "pool_bytes": 158520
   },
   {
    "slug": "phil-science-latin-america",
@@ -10587,9 +10525,9 @@
   },
   {
    "slug": "proof-theory",
-   "page_len": 240754,
    "status": "gap",
    "why": "unaligned text units",
+   "page_len": 240754,
    "sample": {
     "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
     "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
@@ -10877,13 +10815,10 @@
   },
   {
    "slug": "qm-retrocausality",
-   "status": "gap",
-   "why": "unaligned text units",
+   "status": "pool",
+   "n_patches": 171,
    "page_len": 145655,
-   "sample": {
-    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
-    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
-   }
+   "pool_bytes": 70870
   },
   {
    "slug": "qt-consciousness",
@@ -10921,13 +10856,10 @@
   },
   {
    "slug": "qt-issues",
-   "status": "gap",
-   "why": "unaligned text units",
+   "status": "pool",
+   "n_patches": 153,
    "page_len": 104028,
-   "sample": {
-    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
-    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
-   }
+   "pool_bytes": 61759
   },
   {
    "slug": "qt-nvd",
@@ -11504,13 +11436,10 @@
   },
   {
    "slug": "reverse-mathematics",
-   "status": "gap",
-   "why": "unaligned text units",
+   "status": "pool",
+   "n_patches": 198,
    "page_len": 186078,
-   "sample": {
-    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
-    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
-   }
+   "pool_bytes": 116836
   },
   {
    "slug": "revolution",
@@ -12064,13 +11993,10 @@
   },
   {
    "slug": "self-reference",
-   "status": "gap",
-   "why": "unaligned text units",
+   "status": "pool",
+   "n_patches": 335,
    "page_len": 141894,
-   "sample": {
-    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
-    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
-   }
+   "pool_bytes": 89646
   },
   {
    "slug": "sellars",
@@ -12108,13 +12034,10 @@
   },
   {
    "slug": "set-theory",
-   "status": "gap",
-   "why": "unaligned text units",
+   "status": "pool",
+   "n_patches": 139,
    "page_len": 94873,
-   "sample": {
-    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
-    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
-   }
+   "pool_bytes": 45395
   },
   {
    "slug": "set-theory-constructive",
@@ -12937,9 +12860,9 @@
   },
   {
    "slug": "tense-aspect",
-   "page_len": 154845,
    "status": "gap",
    "why": "unaligned text units",
+   "page_len": 154845,
    "sample": {
     "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
     "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
@@ -13733,13 +13656,10 @@
   },
   {
    "slug": "wittgenstein-mathematics",
-   "status": "gap",
-   "why": "unaligned text units",
+   "status": "pool",
+   "n_patches": 437,
    "page_len": 201011,
-   "sample": {
-    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
-    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
-   }
+   "pool_bytes": 134379
   },
   {
    "slug": "wodeham",

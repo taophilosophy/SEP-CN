@@ -794,7 +794,7 @@ Portions of this material are adapted from Andrews 2002 and Andrews 2001, with p
 
 [^gordon-1993]: Gordon, M. J., and T. F. Melham, 1993, *Introduction to HOL: A Theorem-Proving Environment for Higher-Order Logic*, Cambridge: Cambridge University Press.
 
-[^gould-1966]: Gould, William Eben, 1966, *A Matching Procedure for ω-order Logic*, Ph.D. dissertation, Mathematics Department, Princeton University. [[Gould 1966 available online](https://apps.dtic.mil/sti/citations/AD0646560)]
+[^gould-1966]: Gould, William Eben, 1966, *A Matching Procedure for \(\omega\)-order Logic*, Ph.D. dissertation, Mathematics Department, Princeton University. [[Gould 1966 available online](https://apps.dtic.mil/sti/citations/AD0646560)]
 
 [^hales-2017]: Hales, Thomas, Mark Adams, Gertrud Bauer, Tat Dat Dang, John Harrison, Le Truong Hoang, Cezary Kaliszyk, et al., 2017, “A Formal Proof of the Kepler Conjecture”, *Forum of Mathematics, Pi*, 5: e2. doi:10.1017/fmp.2017.1
 

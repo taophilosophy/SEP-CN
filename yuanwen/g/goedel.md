@@ -132,7 +132,7 @@ This account of Gödel’s discovery was told to Hao Wang very much after the fa
 
 We now describe the proof of the two theorems, formulating Gödel’s results in Peano arithmetic. Gödel himself used a system related to that defined in Principia Mathematica, but containing Peano arithmetic. In our presentation of the First and Second Incompleteness Theorems we refer to Peano arithmetic as $P$, following Gödel’s notation.
 
-Before proceeding to the details of the formal proof, we define the notion of *ω*-consistency used by Gödel in the First Incompleteness Theorem: $P$ is *ω-consistent* if $P \vdash \neg \phi(\underline{n})$ for all $n$ implies $P \not\vdash \exists x\phi(x)$. Naturally this implies consistency and follows from the assumption that the natural numbers satisfy the axioms of Peano arithmetic.
+Before proceeding to the details of the formal proof, we define the notion of *ω*-consistency used by Gödel in the First Incompleteness Theorem: $P$ is *\(\omega\)-consistent* if $P \vdash \neg \phi(\underline{n})$ for all $n$ implies $P \not\vdash \exists x\phi(x)$. Naturally this implies consistency and follows from the assumption that the natural numbers satisfy the axioms of Peano arithmetic.
 
 One of the main technical tools used in the proof is *Gödel numbering*, a mechanism which assigns natural numbers to terms and formulas of our formal theory $P$. There are different ways of doing this. The most common is based on the unique representation of natural numbers as products of powers of primes. Each symbol $s$ of number theory is assigned a positive natural number $\num(s)$ in a fixed but arbitrary way, e.g.
 

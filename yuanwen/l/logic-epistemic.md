@@ -446,7 +446,7 @@ Multi-agent systems are interesting for other reasons than to represent higher-o
 
 $$D_{G}\text{ for }G\subseteq\mathcal{A},$$
 
-to make $D_{G}\varphi$ a well-formed formula. Where $G\subseteq\mathcal{A}$ is a group of agents, the formula $D_{G}\varphi$ reads that it is *distributed knowledge in the group G that φ*.
+to make $D_{G}\varphi$ a well-formed formula. Where $G\subseteq\mathcal{A}$ is a group of agents, the formula $D_{G}\varphi$ reads that it is *distributed knowledge in the group G that \(\varphi\)*.
 
 To evaluate $D_{G}\varphi$, we define a new relation from those already present in the model. The idea behind the definition is that if some one agent has eliminated a world as an epistemic alternative, then so will the group. Define the relation as the intersection of the individual agents’ relations:
 

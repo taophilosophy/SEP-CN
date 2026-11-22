@@ -1,165 +1,55 @@
 {
  "schema": "sep-cn-b31-assembly/1",
  "generated_by": "specs/053 bin/reassemble.py",
- "total": 15,
- "ok": 14,
+ "total": 4,
+ "ok": 3,
  "fail": 1,
  "skipped": 0,
  "entries": [
   {
-   "slug": "leucippus",
+   "slug": "logic-epistemic",
    "ok": true,
-   "md_len": 10988,
+   "md_len": 126139,
    "b0_mini": {
     "sections": true,
     "parses": true
    },
-   "sec": 0.038
+   "sec": 0.309
   },
   {
-   "slug": "david",
-   "ok": true,
-   "md_len": 13176,
-   "b0_mini": {
-    "sections": true,
-    "parses": true
-   },
-   "sec": 0.023
-  },
-  {
-   "slug": "elias",
-   "ok": true,
-   "md_len": 13358,
-   "b0_mini": {
-    "sections": true,
-    "parses": true
-   },
-   "sec": 0.024
-  },
-  {
-   "slug": "peirce-benjamin",
-   "ok": true,
-   "md_len": 14683,
-   "b0_mini": {
-    "sections": true,
-    "parses": true
-   },
-   "sec": 0.032
-  },
-  {
-   "slug": "evolution",
-   "ok": true,
-   "md_len": 19016,
-   "b0_mini": {
-    "sections": true,
-    "parses": true
-   },
-   "sec": 0.027
-  },
-  {
-   "slug": "reism",
-   "ok": true,
-   "md_len": 22737,
-   "b0_mini": {
-    "sections": true,
-    "parses": true
-   },
-   "sec": 0.051
-  },
-  {
-   "slug": "holes",
-   "ok": true,
-   "md_len": 23749,
-   "b0_mini": {
-    "sections": true,
-    "parses": true
-   },
-   "sec": 0.066
-  },
-  {
-   "slug": "lady-masham",
-   "ok": true,
-   "md_len": 24122,
-   "b0_mini": {
-    "sections": true,
-    "parses": true
-   },
-   "sec": 0.055
-  },
-  {
-   "slug": "richard-sophister",
-   "ok": true,
-   "md_len": 24222,
-   "b0_mini": {
-    "sections": true,
-    "parses": true
-   },
-   "sec": 0.047
-  },
-  {
-   "slug": "cockburn",
-   "ok": true,
-   "md_len": 24250,
-   "b0_mini": {
-    "sections": true,
-    "parses": true
-   },
-   "sec": 0.046
-  },
-  {
-   "slug": "penbygull",
-   "ok": true,
-   "md_len": 24701,
-   "b0_mini": {
-    "sections": true,
-    "parses": true
-   },
-   "sec": 0.033
-  },
-  {
-   "slug": "crathorn",
-   "ok": true,
-   "md_len": 25495,
-   "b0_mini": {
-    "sections": true,
-    "parses": true
-   },
-   "sec": 0.055
-  },
-  {
-   "slug": "incommensurability",
-   "ok": true,
-   "md_len": 101840,
-   "b0_mini": {
-    "sections": true,
-    "parses": true
-   },
-   "sec": 0.18
-  },
-  {
-   "slug": "abelard",
-   "ok": true,
-   "md_len": 94112,
-   "b0_mini": {
-    "sections": true,
-    "parses": true
-   },
-   "sec": 0.189
-  },
-  {
-   "slug": "bayes-theorem",
+   "slug": "lambda-calculus",
    "ok": false,
-   "md_len": 69262,
+   "md_len": 106249,
    "b0_mini": {
     "sections": true,
     "parses": true
    },
    "first_diff": {
     "op": "replace",
-    "md": "*(*E*) = *q*, it guarantees that **Q**(*H*) = *q***P**_{*E*}(*H*) + (1 −*q*)**P**_{~*E*}(*H*).\n\nThe general moral is clear.\n\n> The basic Bay",
-    "asm": "*Q**(*E*) = *q*, it guarantees that **Q**(*H*) = *q\\*\\*\\*P_{*E*}(*H*) + (1 −*q)P*_{~*E*}(*H*).\n\nThe general moral is clear.\n\n> The basic Bay"
+    "md": " y[xy])a])b$ |   |   |   | $ba$ |\n   |   | $\\searrow$ |   | $\\nearrow$ |   |\n   |   |   | $(\\lambda x[xa])b$ |   |   |\n\nAs with any binary r",
+    "asm": "lambda y[xy])a])b$ |   |   |   | $ba$ |\n|   | $\\searrow$ |   | $\\nearrow$ |   |\n|   |   | $(\\lambda x[xa])b$ |   |   |\n\nAs with any binary r"
    },
-   "sec": 0.158
+   "sec": 0.238
+  },
+  {
+   "slug": "tense-aspect",
+   "ok": true,
+   "md_len": 125567,
+   "b0_mini": {
+    "sections": true,
+    "parses": true
+   },
+   "sec": 0.335
+  },
+  {
+   "slug": "qm-retrocausality",
+   "ok": true,
+   "md_len": 121442,
+   "b0_mini": {
+    "sections": true,
+    "parses": true
+   },
+   "sec": 0.284
   }
  ]
 }

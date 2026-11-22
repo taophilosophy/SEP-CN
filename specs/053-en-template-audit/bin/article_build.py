@@ -721,6 +721,9 @@ def _render_rel(rel, hid_map, ledger):
             else:  # 纯文字项（上游未链接）——原样，无前导空格
                 lines.append("%s%s" % (txt, sep))
         para = "\n".join(lines)
+        if (ledger or {}).get("rel_lead"):
+            # H0 的 related `<p>` 以 ` |` 起（md 同形保留）：首项前补回前导竖线
+            para = " |\n" + (" " + para if not para.startswith(" ") else para)
     else:
         para = inner.strip()
     return '\n<div id="related-entries">\n\n%s\n\n<p>\n%s\n\n</p>\n</div>\n' % (

@@ -90,13 +90,13 @@ The foundational discussion concerning extended “constructive” viewpoints is
 
 Definition 1.3 Let $\bT_1$, $\bT_2$ be a pair of theories with languages $\cL_1$ and $\cL_2$, respectively, and let *Φ* be a (primitive recursive) collection of formulae common to both languages. Furthermore, *Φ* should contain the closed equations of the language of **PRA**.
 
-We then say that $\bT_1$ is *proof-theoretically Φ-reducible to $\bT_2$*, written $\bT_1\leq_{\Phi}\bT_2$, if there exists a primitive recursive function *f* such that
+We then say that $\bT_1$ is *proof-theoretically \(\Phi\)-reducible to $\bT_2$*, written $\bT_1\leq_{\Phi}\bT_2$, if there exists a primitive recursive function *f* such that
 
 $$\tag{1} \PRA\vdash \forall x \forall y\,[ {\rform_{\Phi}(x)} \land {\proof_{\bT_1}( y,x)} \rightarrow {\proof_{\bT_2}(f(y),x)}].$$
 
 Here $\rform_{\Phi}$ and $\proof_{\bT_i}$ are arithmetized formalizations of *Φ* and the proof relation in $\bT_i$, respectively, i.e., $\rform_{\Phi}(x)$ expresses that *x* is the Gödel number of a formula in *Φ* while $\proof_{\bT_i}(y,x)$ expresses that *y* codes a proof in $\bT_i$ of a formula with Gödel number *x*.
 
-$\bT_1$ and $\bT_2$ are said to be *proof-theoretically Φ-equivalent*, written $\bT_1\equiv_{\Phi}\bT_2$, if $\bT_1\leq_{\Phi}\bT_2$ and $\bT_2\leq_{\Phi}\bT_1$.
+$\bT_1$ and $\bT_2$ are said to be *proof-theoretically \(\Phi\)-equivalent*, written $\bT_1\equiv_{\Phi}\bT_2$, if $\bT_1\leq_{\Phi}\bT_2$ and $\bT_2\leq_{\Phi}\bT_1$.
 
 The appropriate class *Φ* is revealed in the process of reduction itself, so that in the statement of theorems we simply say that $\bT_1$ is *proof-theoretically reducible* to $\bT_2$ (written $\bT_1\leq \bT_2$) and $\bT_1$ and $\bT_2$ are *proof-theoretically equivalent* (written $\bT_1 \equiv \bT_2$), respectively. Alternatively, we shall say that $\bT_1$ and $\bT_2$ have the *same proof-theoretic strength* when $\bT_1\equiv \bT_2$. In practice, if $\bT_1\equiv \bT_2$ is shown via proof-theoretic means[^note-11] this always entails that the two theories prove at least the same $\Pi^0_2$ sentences (those of the complexity of the twin prime conjecture). The complexity of formulae of **PRA** is stratified as follows. The $\Sigma^0_0$ and $\Pi^0_0$ formulae are of the form $R(t_1,\ldots,t_n)$ where *R* is a predicate symbol for an *n*-ary primitive recursive predicate. A formula is $\Sigma^0_{k+1}$ ($\Pi^0_{k+1}$) if it is of the form
 

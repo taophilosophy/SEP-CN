@@ -444,3 +444,10 @@
 * **依据**：s3i 评估留档——SEP 称 forerunner 非成员；其自我定位为描述心理学（偶称 phenomenology）；PhilPapers 归 19 世纪奥地利哲学；Spiegelberg “not yet in the movement”。
 * **工具**：`bin/promote_brentano.py`（H4 块升格 H3、插现象学运动前、母条唯一、旧节零残留、守恒 1883）。
 * **门禁**：check_mulu_s 0；mulu-map 重建 1883；五子门绿；check_all 17 项全绿。
+
+## 2026-11-22 B3.2 第十八批：related 前导竖线＋希腊宏四类闩死
+
+* related 区的 H0 前导竖线（realism／feminist-science／friedrich-lange）入账一位 `rel_lead` 补发。
+* 希腊宏两向收口：紧贴定界星与斜体内一律出公式形（`\(\omega\)` / `*…\(\phi\)…*`），`_mark_math_in_emph` 闭标签改回溯（跨型嵌套不再早断）；md 变更 44 件，B3.1 集合对照净 0（1,616 持平，0 绿 0 红）。
+* 41 件定点重建：池 1,640→1,659（88.6%）缺口 214，转池 19 失池 0，池占页 44.13%；门禁 17 项全绿。
+* `\$` 双源不可分（H0 裸 `$` 与 `\$` 在 md 同形）回退留注，待 `math_dollar` 逐 span 按位账专项。

@@ -427,7 +427,7 @@ However, suppose that the second round is such that everyone but Belgium stick t
 
 Looking at the unified treatment of our example, there seem to be relationship between non-cooperative games and cooperative games. This relationship can be specified formally.
 
-Let us first consider what a group of players can do in a game. To do so we define the **α-effectivity function**, a mathematical description of coalitional strategies in a game in terms of the sets outcomes that they can force.
+Let us first consider what a group of players can do in a game. To do so we define the **\(\alpha\)-effectivity function**, a mathematical description of coalitional strategies in a game in terms of the sets outcomes that they can force.
 
 **Definition 12.** [*α*-effectivity function] Let $S$ be a non-cooperative game. We define the *α* effectivity function of $S$, $E^{\alpha}_S(C)$, where $\overline{C}$ is the complement of $C$:
 

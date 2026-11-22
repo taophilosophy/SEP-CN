@@ -337,7 +337,7 @@ If we want to obtain a Downward Löwenheim-Skolem Theorem which works for any st
 
 **Theorem 8 (Magidor 1971)[^magidor-1971]** The LST-number of second-order logic exists if and only if there are supercompact cardinals $>\omega$ and then it is the smallest of them.
 
-Second-order logic is said to satisfy strong *κ-compactness* if every second-order theory, every subset of size $<\kappa$ of which has a model, has itself a model.
+Second-order logic is said to satisfy strong *\(\kappa\)-compactness* if every second-order theory, every subset of size $<\kappa$ of which has a model, has itself a model.
 
 **Theorem 9 (Magidor 1971)[^magidor-1971]** The least *κ* such that second-order logic satisfies the strong *κ*-compactness is the least extendible cardinal.
 

@@ -191,7 +191,7 @@ CA provided not just the intuition, but a formal framework to investigate the hy
 
 At a first approximation, the Edge of Chaos hypothesis is confirmed: three of the eight neighbors are Class₃, three are Class₂, two are Class₁: *Rule 110* is the only Class₄ in the table. To generalize these findings to the entire class of rules for one-dimensional CA, Langton introduced a parameter, *λ*, that applies to each *φ*: for $k = 2$, $r = 1$ (binary-state, unary-range) CA, $\lambda(\phi)$ can be computed as the fraction of entries of the transition rule table that are mapped to a non-zero output (see Langton 1990: 14, for the general definition)[^langton-1990]. In our case this means: $\lambda(\phi)$ will be equal to the number of ones in the rule column—e.g., $\lambda(\phi) = 5/8$ for *φ* = *Rule 110* and $\lambda(\phi) = 1/2$ for *φ* = *Rule 46*. Langton’s major finding was that a simple measure such as *λ* correlates with the system behavior: as *λ* goes from 0 to 1, the average behavior of the systems goes from freezing to periodic patterns to chaos. Langton singled out 1/2 as the value of *λ* at which the average behavior first shows evidence of chaos: rules *φ* with $\lambda(\phi) \sim 1/2$ were highlighted as being on the Edge (see Miller & Page 2001: 133).
 
-| **λ** | **All Rules** | **Chaotic Rules** | **Complex Rules** |
+| **\(\lambda\)** | **All Rules** | **Chaotic Rules** | **Complex Rules** |
 | --- | --- | --- | --- |
 | *0* | 1 | 0 | 0 |
 | *1/8* | 8 | 0 | 0 |

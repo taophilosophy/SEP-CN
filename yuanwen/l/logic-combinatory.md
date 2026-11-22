@@ -755,7 +755,7 @@ I am grateful to the referees of the first edition—both to the “internal ref
 
 [^hindley-1997]: Hindley, J. R., 1997. *Basic Simple Type Theory* (Cambridge Tracts in Theoretical Computer Science: Volume 42), Cambridge: Cambridge University Press.
 
-[^hindley-2008]: Hindley, J. R., and J. P. Seldin, 2008. *λ-calculus and Combinators, an Introduction*, Cambridge: Cambridge University Press.
+[^hindley-2008]: Hindley, J. R., and J. P. Seldin, 2008. *\(\lambda\)-calculus and Combinators, an Introduction*, Cambridge: Cambridge University Press.
 
 [^kleene-1967]: Kleene, S. C., 1967. *Mathematical Logic*, New York: John Wiley & Sons, Inc; reprinted Mineola, NY: Dover, 2002.
 

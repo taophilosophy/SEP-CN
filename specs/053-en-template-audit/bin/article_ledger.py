@@ -761,6 +761,10 @@ def extract(art_inner, md=None):
         led["rel_items"] = items
         # 尾随竖线（aesthetics-race 判例：H0 末项后仍有 ` |`）
         led["rel_trailing"] = bool(re.search(r"\|\s*$", rel.group(1)))
+        # 首项前的竖线（realism／feminist-science／friedrich-lange 判例：H0 的
+        # `<p>` 以 ` |` 起，C 落 md 时保留同名前导竖线，渲染侧须照发）
+        if re.match(r"\s*\|", rel.group(1)):
+            led["rel_lead"] = 1
     # 致谢区形态：独立 `<div id="acknowledgments">`（h3 常例）或 related-entries
     # 之后的裸 <h2>/<h3>（scientific-revolutions／fallacies 等 6 件）。只记有无包层；
     # 标题级别与锚形由 hids 按位取，区序由 md 的标题次序定。

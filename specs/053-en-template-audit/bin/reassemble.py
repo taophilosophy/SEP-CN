@@ -450,6 +450,9 @@ def _inline_md_to_html(text):
     if _EM:
         s = encode_outside_math(s, _EM)
     # 数学占位还原（$x$ → \(x\)；$$x$$ → \[x\]）
+    # 注：C 侧 `\$`（数学体字面美元）**不可反演**——H0 的裸 `$`（`\($S\)`）与
+    # 已有 `\$` 在 md 同形（dutch-book 18 裸 vs decision-causal 17 转义，后者
+    # 现池），一律还原会打坏后者。待按位账（math_dollar）专项。
     for idx, val in enumerate(math_store):
         if val.startswith("$$"):
             body = val[2:-2]

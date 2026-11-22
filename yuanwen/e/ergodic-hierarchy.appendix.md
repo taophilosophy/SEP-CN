@@ -74,7 +74,7 @@ In this definition, $T^n\Sigma_0$ is the sigma algebra containing the sets $T^n 
 
 $$ \bigcup_{n= -\infty}^{\infty} T^n \Sigma_0 $$
 
-is the smallest σ*-algebra* containing all the $T^n\Sigma_0$, and
+is the smallest \(\sigma\)*-algebra* containing all the $T^n\Sigma_0$, and
 
 $$ \bigcap_{n= -\infty}^{\infty} T^n \Sigma_0 $$
 
@@ -88,7 +88,7 @@ Now consider a partition *α* of the probability space $[X,B,\mu]$ and let the f
 
 $$ h(\alpha) := \sum_{i=1}^{r} z[\mu(\alpha_i)], $$
 
-the so-called ‘entropy of the partition *α*’. Then, the *KS-entropy of the automorphism* $T$ *relative to the partition α* is defined as
+the so-called ‘entropy of the partition *α*’. Then, the *KS-entropy of the automorphism* $T$ *relative to the partition \(\alpha\)* is defined as
 
 $$ h(T,\alpha) := \lim_{n \rightarrow \infty}\frac{h(\alpha \cup T\alpha \cup \ldots \cup T^{n-1}\alpha)}{n} , $$
 

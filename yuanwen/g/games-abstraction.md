@@ -542,7 +542,7 @@ I am grateful to Ray Turner for advice and encouragement, and to Luca Paolini fo
 
 [^riecke-1993]: Riecke, Jon G., 1993, “Fully Abstract Translations Between Functional Languages”, *Mathematical Structures in Computer Science*, 3(4): 387–415. doi:10.1017/S0960129500000293
 
-[^sazonov-1975]: Sazonov, Vladimir Yu., 1975, “Sequentially and Parallelly Computable Functionals”, in Corrado Böhm (ed.), *λ-Calculus and Computer Science Theory, Proceedings of the Symposium Held in Rome, March 25–27, 1975* (Lecture Notes in Computer Science, 37), Berlin: Springer-Verlag, pp. 312–318.
+[^sazonov-1975]: Sazonov, Vladimir Yu., 1975, “Sequentially and Parallelly Computable Functionals”, in Corrado Böhm (ed.), *\(\lambda\)-Calculus and Computer Science Theory, Proceedings of the Symposium Held in Rome, March 25–27, 1975* (Lecture Notes in Computer Science, 37), Berlin: Springer-Verlag, pp. 312–318.
 
 [^sazonov-1976]: –––, 1976, “Degrees of Parallelism in Computations”, in A.W. Mazurkiewicz (ed.), *Mathematical Foundations of Computer Science 1976, Proceedings of the 5th Symposium, Gdansk, Poland, September 6–10, 1976,* (Lecture Notes in Computer Science, 45), New York: Springer, pp. 517–523.
 

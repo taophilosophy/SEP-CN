@@ -533,7 +533,7 @@ Although Tarski (1935 [1956]) places great importance on the instances of his (T
 
 All sentences of the form ‘If $p$, then $p$’ are true.
 
-since the collection of the instances of (T) is *ω*-incomplete (where a theory, *θ*, is *ω-incomplete* if *θ* can prove every instance of an open formula ‘$Fx$’ but cannot prove the universal generalization, ‘$\forall xFx$’).
+since the collection of the instances of (T) is *ω*-incomplete (where a theory, *θ*, is *\(\omega\)-incomplete* if *θ* can prove every instance of an open formula ‘$Fx$’ but cannot prove the universal generalization, ‘$\forall xFx$’).
 
 We arrive at a related problem when we combine a reliance on the instances of some version of (ES) with Quine’s view about the functioning and utility of the truth predicate. He (1992, 81) considers the purpose of (A) to be to express a generalization over sentences like the following:
 

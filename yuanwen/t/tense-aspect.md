@@ -348,7 +348,7 @@ This sentence seems to be fine. However it is not interpreted as an accomplishme
 
 The most influential approach to solving the imperfective paradox is due to Dowty (1979)[^dowty-1979]. The basic idea is to treat the progressive as a modal operator $(\Box)$ but restrict its domain to inertia worlds. The notion of an *inertia world* is characterized informally. An inertia world is exactly like the real world up to the time of evaluation; after this it may differ from the real world but is assumed to be as similar to the real world as possible. Given this notion, the following definition introduces truth conditions for sentences in the progressive.
 
-**Definition 3.** PROG$(\phi)$ *is true with respect to interval $I$ and world $w$ if and only if $\forall w' \in IE(w)$ there exists an interval $I' \supseteq I$ such that φ is true with respect to $I'$ and $w'$. In addition $I$ should not be the final subinterval of $I'$. $IE(w)$ is the set of inertia worlds for $w$.*
+**Definition 3.** PROG$(\phi)$ *is true with respect to interval $I$ and world $w$ if and only if $\forall w' \in IE(w)$ there exists an interval $I' \supseteq I$ such that \(\phi\) is true with respect to $I'$ and $w'$. In addition $I$ should not be the final subinterval of $I'$. $IE(w)$ is the set of inertia worlds for $w$.*
 
 Definition 3 does not yet account for the different entailment patterns of activities and accomplishments. Two additional assumptions are required. The first concerns activities; the second, accomplishments.
 

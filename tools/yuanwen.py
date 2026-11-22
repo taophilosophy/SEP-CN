@@ -391,14 +391,19 @@ def _mark_math_in_emph(s):
     """强调标签内的数学占位符改记 `\\x15N\\x15`（供希腊字母分支判“已在斜体内”）。
 
     H0 有 `<em>… such that \\(\\phi\\) is true …</em>`（tense-aspect 判例）：
-    ADR-0049 会把孤立的 `\\(\\phi\\)` 转成 `*φ*`，嵌在外层 `*…*` 里即得
-    `*…*φ*…*`——md 无法表达 em 套 em，右逆必然错配。标记后还原阶段改为只出
-    裸字符，外层斜体已覆盖渲染。"""
+    ADR-0049 的 `*φ*` 形态嵌在外层 `*…*` 里即得 `*…*φ*…*`——md 无法表达 em
+    套 em，右逆必然错配。标记后还原阶段改出**公式形** `\\(\\phi\\)`（不包星），
+    外层斜体照常包裹——md `*…\\(\\phi\\)…*` 与 H0 逐字符一致，右逆稳定。
+
+    闭标签必须用回溯引用（`</\\1>`）：旧式 `</(?:em|i|strong|b)>` 遇跨型
+    嵌套（`<em>…<i>G</i> …\\(\\varphi\\)</em>`，logic-epistemic 判例）在
+    `</i>` 处早断，其后的数学未标记、转出裸字符即丢公式身份。
+    """
     def _rep(m):
         return re.sub(r'\x00(\d+)\x00',
                       lambda mm: '\x15%s\x15' % mm.group(1), m.group(0))
 
-    return re.sub(r'<(?:em|i|strong|b)\b[^>]*>.*?</(?:em|i|strong|b)>',
+    return re.sub(r'<(em|i|strong|b)\b[^>]*>.*?</\1>',
                   _rep, s, flags=re.S | re.I)
 
 
@@ -594,11 +599,15 @@ def inline_to_md(html, slug=None):
                     p = s.find(key)
                     prev_c = s[p - 1:p] if p > 0 else ''
                     after = s[p + len(key):p + len(key) + 1]
-                    # 裸出：已在斜体内（_mark_math_in_emph 标记）或紧贴已有
-                    # 定界星时不自包一层星——`**ψ*-ontic*`、`*…*φ*…*` 都会被
-                    # 右逆误配（qm-retrocausality／tense-aspect 判例）
-                    v = (ch if ('\x15%d\x15' % idx) in s
-                         or prev_c == '*' or after == '*' else '*' + ch + '*')
+                    # 斜体内（`_mark_math_in_emph` 标记）或斜体边界外零空白紧贴
+                    # 定界星：一律出公式形——包星会与外层 `*…*` 误配
+                    # （`*…*φ*…*`），裸字符则丢公式身份（右逆还原不出 `\(\omega\)`）；
+                    # `*…\(\phi\)…*` 与 H0 逐字符一致（self-reference／logic-epistemic
+                    # 判例）
+                    if ('\x15%d\x15' % idx) in s or prev_c == '*' or after == '*':
+                        v = '\\(' + '\\' + m.group(1) + '\\)'
+                    else:
+                        v = '*' + ch + '*'
                 else:
                     v = '$' + body + '$'
         elif v.startswith('\\[') and v.endswith('\\]'):

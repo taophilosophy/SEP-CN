@@ -300,7 +300,7 @@ Russell, Bertrand | category theory | Frege, Gottlob | Frege, Gottlob: theorem a
 
 [^kreisel-1959]: Kreisel, G., 1959, “Analysis of the Cantor–Bendixson theorem by means of the analytic hierarchy”, *Bulletin de l’Académie Polonaise des Sciences*, 7: 621–626.
 
-[^lambek-1980]: Lambek, J., 1980. “From *λ*-calculus to Cartesian Closed Categories” in *To H.B. Curry: Essays on Combinatory Logic, λ-calculus and Formalism*, J. Seldin and J. Hindley (eds.), London, New York: Academic Press, pp. 375–402.
+[^lambek-1980]: Lambek, J., 1980. “From *λ*-calculus to Cartesian Closed Categories” in *To H.B. Curry: Essays on Combinatory Logic, \(\lambda\)-calculus and Formalism*, J. Seldin and J. Hindley (eds.), London, New York: Academic Press, pp. 375–402.
 
 [^lambek-1986]: Lambek, J., and P. J. Scott, 1986, *Introduction to higher order categorical logic* (Cambridge Studies in Advanced Mathematics: Volume 7), Cambridge: Cambridge University Press; reprinted 1988.
 
