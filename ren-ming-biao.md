@@ -1426,7 +1426,7 @@
 | Friedrich Bachmann | Friedrich Bachmann | 保留英文（无通行汉名） | 德国／数学与逻辑 | 1909–1982 | scholz | ADR-0022：无通行汉名者保留英文；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 117534706（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv）。订正 2026-11-22：同名异人——SEP scholz 条所列为其门下逻辑与数学基础学者 Friedrich Bachmann（1909–1982，GND 117707481，Wernigerode 生、Kiel 卒）；原填 GND 117534706（神学家 1860–1947）系同名误录；中文件 s/scholz.md 已作 1909—1982，与此一致 | 2026-11-22 |
 | Friedrich Ebert | — | 弗里德里希·艾伯特 | 德国（海德堡） | 1871–1925 | luxemburg | 学界通行汉译（魏玛首任总统）；审定库无相关命中（termonline-all 凭证 2026-11-13）。生卒/籍属查证 2026-11-22：Wikipedia 作 1871-02-04 生于海德堡、1925-02-28 卒于柏林（魏玛共和国首任总统） | 2026-11-22 |
 | Friedrich Engels | — | 弗里德里希·恩格斯 | 德国（普鲁士） | 1820–1895 | law-ideology | 学界通行汉译；审定库无相关命中（termonline-all 凭证 2026-11-13）；籍属/生卒联网查证：Wikidata Q34787（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
-| Friedrich II | — | 弗里德里希二世 | — | — | 18thGerman-preKant | 学界通行汉译（腓特烈大帝；正文依原文行文作弗里德里希二世）；凭证 2026-11-05；审定库无相关命中（termonline-all 凭证 2026-11-13）| 2026-11-05 |
+| Friedrich II | — | 弗里德里希二世 | 普鲁士（柏林） | 1712–1786 | 18thGerman-preKant | 学界通行汉译（腓特烈大帝；正文依原文行文作弗里德里希二世）；凭证 2026-11-05；审定库无相关命中（termonline-all 凭证 2026-11-13）。生卒/籍属查证 2026-11-22：SEP 18thGerman-preKant 作 “the crown prince (later Friedrich II)”；Wikipedia 作 1712-01-24 生于柏林、1786-08-17 卒（腓特烈大帝） | 2026-11-22 |
 | Friedrich III (later king Friedrich I) | — | 弗里德里希三世（后为普鲁士国王弗里德里希一世） | 普鲁士（柯尼斯堡） | 1657–1713 | 18thGerman-preKant | 学界通行汉译；凭证 2026-11-05；审定库无相关命中（termonline-all 凭证 2026-11-13）。生卒/籍属查证 2026-11-22：Wikipedia 作 1657-07-11 生于柯尼斯堡、1713-02-25 卒于柏林；即勃兰登堡选帝侯弗里德里希三世、1701 年首任普鲁士国王弗里德里希一世 | 2026-11-22 |
 | Friedrich Karl Forberg | Friedrich Karl Forberg | 弗里德里希·卡尔·福尔贝格 | 德国 | 1770–1848 | schlegel | 音译（德国观念论同代人）；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 119059479（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv） | 2026-11-14 |
 | Friedrich Paulsen | — | 弗里德里希·保尔森 | 德国 | 1846–1908 | scholz | 学界通行汉译（新观念论哲学家）；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 118739603（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv） | 2026-11-14 |
@@ -1903,7 +1903,7 @@
 | Hoffmann, Stanley | — | 斯坦利·霍夫曼 | 美国／政治学 | 1928–2015 | sovereignty | 学界通行汉译（国际关系研究通行；与既有 Adolph Friedrich Hoffmann 行同人名异人）；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 119212501（2026-11-14 查，凭证 verify-2026-11-14-gnd-l.tsv） | 2026-11-14 |
 | Höfler, Alois | — | 阿洛伊斯·赫夫勒 | 奥地利 | 1853–1922 | ehrenfels | 学界通行音译（布伦塔诺—迈农一系）；凭证 2026-11-13 | 2026-11-13 |
 | Hofmann, Martin | — | Martin Hofmann | 德国 | 1965–2018 | logic-linear | 无通行汉名，保留英文原名；凭证 2026-11-10；籍属/生卒联网查证：Wikidata Q47531168（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
-| Holbach, Paul-Henri Thiry, baron d' | — | 霍尔巴赫 | — | — | godwin | 学界通行汉译（法国启蒙思想家）；2026-11-20 复核：合并（同键变体，来源列并双 slug） | 2026-11-10 |
+| Holbach, Paul-Henri Thiry, baron d' | — | 霍尔巴赫 | 法国（生于普法尔茨·埃德斯海姆） | 1723–1789 | godwin | 学界通行汉译（法国启蒙思想家）；2026-11-20 复核：合并（同键变体，来源列并双 slug）。生卒/籍属查证 2026-11-22：Wikipedia 与 Voltaire Foundation 作 1723-12-08 受洗于埃德斯海姆（普法尔茨）、1789-01-21 卒于巴黎；法国入籍的德意志出生哲学家 | 2026-11-22 |
 | Holbrook, Clyde A. | — | 克莱德·霍尔布鲁克 | 美国 | 1911–1989 | edwards | 学界通行汉译（爱德华兹研究）；凭证 2026-11-10；籍属/生卒联网查证：GND 规范标目 gnd 1147163847（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Hölderlin, Friedrich / Friedrich Hölderlin | Friedrich Hölderlin | 弗里德里希·荷尔德林 | 德国／诗人与观念论 | 1770–1843 | schlegel；august-rehberg | 学界通行汉译；凭证 2026-11-08；2026-11-13 重复行合并（旧键 `Friedrich Hölderlin`） | 2026-11-13 |
 | Holdsworth | — | 霍尔斯沃思 | — | — | cockburn | 学界惯例（音译转写；源文仅称 Dr. Holdsworth，未见名与生卒）；凭证 2026-11-07 | 2026-11-07 |
