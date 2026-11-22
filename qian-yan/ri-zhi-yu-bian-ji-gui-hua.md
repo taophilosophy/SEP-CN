@@ -293,3 +293,10 @@
 * **应用器纪律**：现有条目集合必须与映射集合严格相等（不丢不增）、簇子条随母、节注保留、全局守恒断言；试金石为史区单区先行验证闭环后再放量。
 * **门禁**：check_mulu_s 六项 0 硬错（空节 0）；G1–G4 全绿（mulu-map 重建）；check_all 17 项全绿。
 * **教训**：①映射表为唯一事实源，slug 笔误由应用器“缺块”断言当场拦截（porngraphy→pornography 一例）；②“能细分就细分”的正确粒度是主题/学派级，而非每人都设子节（人物层级已由簇表达）；③大工程分区分批提交，每批独立过门禁，回滚面可控。
+
+## 2026-11-22 巡检目录漂移结案：embodied-cognition 作者增补 Guy Dove
+
+* **漂移**：contents.html 唯一差异＝`embodied-cognition` 作者 “Lawrence Shapiro and Shannon Spaulding”→“Lawrence Shapiro, Shannon Spaulding, and Guy Dove”；ADD/REMOVE/RENAME 全空。
+* **落地**：今日快照 `20261122T021217Z` 经 `fetch_catalog --reparse` 重写 `baseline/catalog.json`；`summary_sync report` add 0／remove 0／mapped 1873；SUMMARY／mu-lu-s／H1 三处作者并列增补（H1 走 `check_summary --sync-headers`）；`mulu-map` 经 `--build-mulu` 跟随；`rebuild_catalog --build/--check` 逐字节全等（残差池仍 194）；`check_catalog_network --gate` G1–G4 全绿，本地漂移复算 `changed=false`。
+* **顺带发现（门禁缺口）**：`yuanwen/SUMMARY.md` 镜像自 11-19 落地后即 stale（argument／gadamer／hedonism 作者、privacy-health 标题、日志分卷行均未跟随）；现有门禁只查 `SUMMARY-en.md`（G2），不查中文镜像。已用 `yuanwen.py --summary` 重生成，但该缺口尚无门禁覆盖。
+* **教训**：作者变更没有专用 CLI，需手工改三处显示层并重建 `mulu-map`；镜像目录类派生物同样需要“生成器＋门禁”成对存在。

@@ -2498,7 +2498,7 @@ outline: [1, 6]
 
 * [心理模块性 Modularity of Mind (Philip Robbins、Zoe Drayson)](m/modularity-mind.md)
 * [思维语言假说 The Language of Thought Hypothesis (Michael Rescorla)](l/language-thought.md)
-* [具身认知 Embodied Cognition (Lawrence Shapiro、Shannon Spaulding)](e/embodied-cognition.md)
+* [具身认知 Embodied Cognition (Lawrence Shapiro、Shannon Spaulding、Guy Dove)](e/embodied-cognition.md)
 * [内部言语 Inner Speech (Daniel Gregory、Peter Langland-Hassan)](i/inner-speech.md)
 * [心理意象 Mental Imagery (Bence Nanay)](m/mental-imagery.md)
 * [先天性与当代认知理论 Innateness and Contemporary Theories of Cognition (Mark Cain)](i/innateness-cognition.md)

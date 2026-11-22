@@ -487,7 +487,7 @@
 * [强制 Coercion (Scott Anderson)](c/coercion.md)
 * \*认知 cognition
   * \*动物——见动物：动物认知 animal — see Animal Cognition
-  * [具身认知 Embodied Cognition (Lawrence Shapiro、Shannon Spaulding)](e/embodied-cognition.md)
+  * [具身认知 Embodied Cognition (Lawrence Shapiro、Shannon Spaulding、Guy Dove)](e/embodied-cognition.md)
 * [认知障碍与道德地位 Cognitive Disability and Moral Status (David Wasserman、Adrienne Asch、Jeffrey Blustein、Daniel Putnam)](c/cognitive-disability.md)
 * [认知科学 Cognitive Science (Paul Thagard)](c/cognitive-science.md)
 * [道德认知主义与非认知主义 Moral Cognitivism vs. Non-Cognitivism (Mark van Roojen)](m/moral-cognitivism.md)

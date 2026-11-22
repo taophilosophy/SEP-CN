@@ -471,7 +471,7 @@
 * [Coercion (Scott Anderson)](c/coercion.md)
 * cognition
   * animal — see Animal Cognition
-  * [Embodied Cognition (Lawrence Shapiro, Shannon Spaulding)](e/embodied-cognition.md)
+  * [Embodied Cognition (Lawrence Shapiro, Shannon Spaulding, Guy Dove)](e/embodied-cognition.md)
 * [Cognitive Disability and Moral Status (David Wasserman, Adrienne Asch, Jeffrey Blustein, Daniel Putnam)](c/cognitive-disability.md)
 * [Cognitive Science (Paul Thagard)](c/cognitive-science.md)
 * [Moral Cognitivism vs. Non-Cognitivism (Mark van Roojen)](m/moral-cognitivism.md)
