@@ -129209,6 +129209,76 @@
      3,
      "B. Anthologies",
      "BAnth"
+    ],
+    [
+     3,
+     "C. Studies of Particular Topics",
+     "CStudPartTopi"
+    ],
+    [
+     4,
+     "C.1 The Chronological Order of Aristotle’s Ethical Treatises",
+     "C1ChroOrdeArisEthiTrea"
+    ],
+    [
+     4,
+     "C.2 The Methodology and Metaphysics of Ethical Theory",
+     "C2MethMetaEthiTheo"
+    ],
+    [
+     4,
+     "C.3 The Human Good and the Human Function",
+     "C3HumaGoodHumaFunc"
+    ],
+    [
+     4,
+     "C.4 The Nature of Virtue and Accounts of Particular Virtues",
+     "C4NatuVirtAccoPartVirt"
+    ],
+    [
+     4,
+     "C.5 Practical Reasoning, Moral Psychology, and Action",
+     "C5PracReasMoraPsycActi"
+    ],
+    [
+     4,
+     "C.6 Pleasure",
+     "C6Plea"
+    ],
+    [
+     4,
+     "C.7 Friendship",
+     "C7Frie"
+    ],
+    [
+     4,
+     "C.8 Feminism and Aristotle",
+     "C8FemiAris"
+    ],
+    [
+     4,
+     "C.9 Aristotle and Contemporary Ethics",
+     "C9ArisContEthi"
+    ],
+    [
+     3,
+     "D. Bibliographies",
+     "DBibl"
+    ],
+    [
+     2,
+     "Bibliography",
+     "Bib"
+    ],
+    [
+     3,
+     "Primary Literature",
+     "PrimLite"
+    ],
+    [
+     3,
+     "Secondary Literature",
+     "SecoLite"
     ]
    ],
    "bib_sections": [
@@ -129223,12 +129293,82 @@
     [
      3,
      0
+    ],
+    [
+     3,
+     0
+    ],
+    [
+     4,
+     0
+    ],
+    [
+     4,
+     0
+    ],
+    [
+     4,
+     0
+    ],
+    [
+     4,
+     0
+    ],
+    [
+     4,
+     0
+    ],
+    [
+     4,
+     0
+    ],
+    [
+     4,
+     0
+    ],
+    [
+     4,
+     0
+    ],
+    [
+     4,
+     0
+    ],
+    [
+     3,
+     0
+    ],
+    [
+     2,
+     0
+    ],
+    [
+     3,
+     12
+    ],
+    [
+     3,
+     227
     ]
    ],
    "bib_groups": [
     0,
     0,
-    0
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    12,
+    227
    ],
    "bib_indices": [
     [],
@@ -136573,21 +136713,6 @@
      3,
      "Selected Secondary Literature",
      "SeleSecoLite"
-    ],
-    [
-     2,
-     "Academic Tools",
-     "Aca"
-    ],
-    [
-     2,
-     "Other Internet Resources",
-     "Oth"
-    ],
-    [
-     2,
-     "Related Entries",
-     "Rel"
     ]
    ],
    "bib_sections": [
@@ -136610,18 +136735,6 @@
     [
      3,
      96
-    ],
-    [
-     2,
-     0
-    ],
-    [
-     2,
-     2
-    ],
-    [
-     2,
-     0
     ]
    ],
    "bib_groups": [
@@ -136629,10 +136742,7 @@
     0,
     14,
     4,
-    96,
-    0,
-    2,
-    0
+    96
    ],
    "bib_indices": [
     [],
@@ -226593,21 +226703,6 @@
      3,
      "Secondary Literature",
      null
-    ],
-    [
-     2,
-     "Academic Tools",
-     "Aca"
-    ],
-    [
-     2,
-     "Other Internet Resources",
-     null
-    ],
-    [
-     2,
-     "Related Entries",
-     null
     ]
    ],
    "bib_sections": [
@@ -226622,27 +226717,12 @@
     [
      3,
      44
-    ],
-    [
-     2,
-     0
-    ],
-    [
-     2,
-     0
-    ],
-    [
-     2,
-     0
     ]
    ],
    "bib_groups": [
     0,
     8,
-    44,
-    0,
-    0,
-    0
+    44
    ],
    "bib_indices": [
     [],
@@ -272260,11 +272340,11 @@
    "bib_sections": [
     [
      2,
-     253
+     252
     ]
    ],
    "bib_groups": [
-    253
+    252
    ],
    "bib_indices": [
     [
@@ -272398,7 +272478,6 @@
      127,
      128,
      129,
-     null,
      130,
      131,
      132,
@@ -272661,7 +272740,6 @@
       127,
       128,
       129,
-      null,
       130,
       131,
       132,
@@ -273179,9 +273257,6 @@
       },
       {
        "i": 129
-      },
-      {
-       "i": null
       },
       {
        "i": 130
@@ -281699,11 +281774,11 @@
    "bib_sections": [
     [
      2,
-     167
+     165
     ]
    ],
    "bib_groups": [
-    167
+    165
    ],
    "bib_indices": [
     [
@@ -281852,8 +281927,6 @@
      142,
      143,
      144,
-     null,
-     null,
      145,
      146,
      147,
@@ -282029,8 +282102,6 @@
       142,
       143,
       144,
-      null,
-      null,
       145,
       146,
       147,
@@ -282491,12 +282562,6 @@
       },
       {
        "i": 144
-      },
-      {
-       "i": null
-      },
-      {
-       "i": null
       },
       {
        "i": 145
@@ -284250,7 +284315,7 @@
     ],
     [
      3,
-     85
+     84
     ],
     [
      3,
@@ -284259,7 +284324,7 @@
    ],
    "bib_groups": [
     0,
-    85,
+    84,
     75
    ],
    "bib_indices": [
@@ -284292,7 +284357,6 @@
      24,
      25,
      26,
-     null,
      27,
      28,
      29,
@@ -284468,7 +284532,6 @@
       24,
       25,
       26,
-      null,
       27,
       28,
       29,
@@ -284696,9 +284759,6 @@
       },
       {
        "i": 26
-      },
-      {
-       "i": null
       },
       {
        "i": 27
@@ -305116,26 +305176,16 @@
      2,
      "Bibliography",
      null
-    ],
-    [
-     2,
-     "Acknowledgments",
-     null
     ]
    ],
    "bib_sections": [
     [
      2,
      121
-    ],
-    [
-     2,
-     0
     ]
    ],
    "bib_groups": [
-    121,
-    0
+    121
    ],
    "bib_indices": [
     [
@@ -420661,11 +420711,11 @@
    "bib_sections": [
     [
      2,
-     271
+     270
     ]
    ],
    "bib_groups": [
-    271
+    270
    ],
    "bib_indices": [
     [
@@ -420698,7 +420748,6 @@
      26,
      27,
      28,
-     null,
      29,
      30,
      31,
@@ -420979,7 +421028,6 @@
       26,
       27,
       28,
-      null,
       29,
       30,
       31,
@@ -421313,9 +421361,6 @@
       },
       {
        "i": 28
-      },
-      {
-       "i": null
       },
       {
        "i": 29
@@ -436534,21 +436579,6 @@
      3,
      "Secondary Literature",
      null
-    ],
-    [
-     2,
-     "Academic Tools",
-     "Aca"
-    ],
-    [
-     2,
-     "Other Internet Resources",
-     null
-    ],
-    [
-     2,
-     "Related Entries",
-     null
     ]
    ],
    "bib_sections": [
@@ -436571,18 +436601,6 @@
     [
      3,
      166
-    ],
-    [
-     2,
-     0
-    ],
-    [
-     2,
-     5
-    ],
-    [
-     2,
-     0
     ]
    ],
    "bib_groups": [
@@ -436590,10 +436608,7 @@
     0,
     5,
     2,
-    166,
-    0,
-    5,
-    0
+    166
    ],
    "bib_indices": [
     [],
@@ -455904,11 +455919,11 @@
    "bib_sections": [
     [
      2,
-     107
+     106
     ]
    ],
    "bib_groups": [
-    107
+    106
    ],
    "bib_indices": [
     [
@@ -456007,7 +456022,6 @@
      92,
      93,
      94,
-     null,
      95,
      96,
      97,
@@ -456124,7 +456138,6 @@
       92,
       93,
       94,
-      null,
       95,
       96,
       97,
@@ -456426,9 +456439,6 @@
       },
       {
        "i": 94
-      },
-      {
-       "i": null
       },
       {
        "i": 95
@@ -474599,26 +474609,6 @@
      3,
      "Secondary Sources",
      "SecoSour"
-    ],
-    [
-     2,
-     "Academic Tools",
-     "Aca"
-    ],
-    [
-     2,
-     "Other Internet Resources",
-     "Oth"
-    ],
-    [
-     2,
-     "Related Entries",
-     "Rel"
-    ],
-    [
-     3,
-     "Acknowledgments",
-     null
     ]
    ],
    "bib_sections": [
@@ -474633,32 +474623,12 @@
     [
      3,
      152
-    ],
-    [
-     2,
-     0
-    ],
-    [
-     2,
-     3
-    ],
-    [
-     2,
-     0
-    ],
-    [
-     3,
-     0
     ]
    ],
    "bib_groups": [
     0,
     0,
-    152,
-    0,
-    3,
-    0,
-    0
+    152
    ],
    "bib_indices": [
     [],
@@ -516095,56 +516065,16 @@
      2,
      "Bibliography",
      null
-    ],
-    [
-     2,
-     "Academic Tools",
-     "Aca"
-    ],
-    [
-     2,
-     "Other Internet Resources",
-     null
-    ],
-    [
-     2,
-     "Related Entries",
-     null
-    ],
-    [
-     3,
-     "Acknowledgments",
-     null
     ]
    ],
    "bib_sections": [
     [
      2,
      182
-    ],
-    [
-     2,
-     0
-    ],
-    [
-     2,
-     0
-    ],
-    [
-     2,
-     0
-    ],
-    [
-     3,
-     0
     ]
    ],
    "bib_groups": [
-    182,
-    0,
-    0,
-    0,
-    0
+    182
    ],
    "bib_indices": [
     [
@@ -647580,11 +647510,11 @@
    "bib_sections": [
     [
      2,
-     130
+     129
     ]
    ],
    "bib_groups": [
-    130
+    129
    ],
    "bib_indices": [
     [
@@ -647681,7 +647611,6 @@
      90,
      91,
      92,
-     null,
      93,
      94,
      95,
@@ -647821,7 +647750,6 @@
       90,
       91,
       92,
-      null,
       93,
       94,
       95,
@@ -648142,9 +648070,6 @@
       },
       {
        "i": 92
-      },
-      {
-       "i": null
       },
       {
        "i": 93
@@ -774005,206 +773930,95 @@
    "bib_sections": [
     [
      2,
-     194
+     83
     ]
    ],
    "bib_groups": [
-    194
+    83
    ],
    "bib_indices": [
     [
-     null,
-     null,
      0,
      1,
      2,
      3,
      4,
      5,
-     null,
-     null,
-     null,
      6,
-     null,
      7,
      8,
-     null,
      9,
-     null,
-     null,
-     null,
      10,
      11,
-     null,
-     null,
      12,
-     null,
-     null,
-     null,
-     null,
-     null,
-     null,
      13,
-     null,
      14,
-     null,
      15,
      16,
      17,
-     null,
      18,
-     null,
-     null,
-     null,
-     null,
      19,
      20,
-     null,
-     null,
      21,
      22,
      23,
-     null,
-     null,
-     null,
-     null,
-     null,
      24,
      25,
      26,
      27,
-     null,
-     null,
-     null,
-     null,
-     null,
-     null,
      28,
-     null,
-     null,
      29,
      30,
      31,
-     null,
-     null,
      32,
      33,
      34,
      35,
-     null,
-     null,
-     null,
-     null,
-     null,
-     null,
      36,
      37,
      38,
      39,
-     null,
      40,
-     null,
      41,
      42,
-     null,
      43,
-     null,
-     null,
-     null,
-     null,
-     null,
      44,
      45,
-     null,
      46,
      47,
-     null,
-     null,
-     null,
-     null,
-     null,
-     null,
-     null,
-     null,
      48,
-     null,
-     null,
-     null,
-     null,
-     null,
      49,
      50,
      51,
      52,
-     null,
-     null,
-     null,
-     null,
-     null,
-     null,
      53,
-     null,
      54,
      55,
      56,
      57,
-     null,
-     null,
-     null,
      58,
      59,
      60,
      61,
-     null,
-     null,
-     null,
      62,
-     null,
-     null,
      63,
      64,
      65,
      66,
-     null,
-     null,
-     null,
-     null,
-     null,
-     null,
-     null,
-     null,
-     null,
-     null,
      67,
-     null,
-     null,
-     null,
-     null,
-     null,
      68,
      69,
-     null,
      70,
-     null,
-     null,
      71,
      72,
      73,
      74,
      75,
-     null,
      76,
-     null,
-     null,
-     null,
      77,
      78,
      79,
      80,
-     null,
-     null,
-     null,
-     null,
      81,
      82
     ]
@@ -774217,198 +774031,87 @@
     [
      "ul",
      [
-      null,
-      null,
       0,
       1,
       2,
       3,
       4,
       5,
-      null,
-      null,
-      null,
       6,
-      null,
       7,
       8,
-      null,
       9,
-      null,
-      null,
-      null,
       10,
       11,
-      null,
-      null,
       12,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
       13,
-      null,
       14,
-      null,
       15,
       16,
       17,
-      null,
       18,
-      null,
-      null,
-      null,
-      null,
       19,
       20,
-      null,
-      null,
       21,
       22,
       23,
-      null,
-      null,
-      null,
-      null,
-      null,
       24,
       25,
       26,
       27,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
       28,
-      null,
-      null,
       29,
       30,
       31,
-      null,
-      null,
       32,
       33,
       34,
       35,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
       36,
       37,
       38,
       39,
-      null,
       40,
-      null,
       41,
       42,
-      null,
       43,
-      null,
-      null,
-      null,
-      null,
-      null,
       44,
       45,
-      null,
       46,
       47,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
       48,
-      null,
-      null,
-      null,
-      null,
-      null,
       49,
       50,
       51,
       52,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
       53,
-      null,
       54,
       55,
       56,
       57,
-      null,
-      null,
-      null,
       58,
       59,
       60,
       61,
-      null,
-      null,
-      null,
       62,
-      null,
-      null,
       63,
       64,
       65,
       66,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
       67,
-      null,
-      null,
-      null,
-      null,
-      null,
       68,
       69,
-      null,
       70,
-      null,
-      null,
       71,
       72,
       73,
       74,
       75,
-      null,
       76,
-      null,
-      null,
-      null,
       77,
       78,
       79,
       80,
-      null,
-      null,
-      null,
-      null,
       81,
       82
      ]
@@ -774417,12 +774120,6 @@
    "bib_tree": [
     {
      "nodes": [
-      {
-       "i": null
-      },
-      {
-       "i": null
-      },
       {
        "i": 0
       },
@@ -774442,19 +774139,7 @@
        "i": 5
       },
       {
-       "i": null
-      },
-      {
-       "i": null
-      },
-      {
-       "i": null
-      },
-      {
        "i": 6
-      },
-      {
-       "i": null
       },
       {
        "i": 7
@@ -774463,19 +774148,7 @@
        "i": 8
       },
       {
-       "i": null
-      },
-      {
        "i": 9
-      },
-      {
-       "i": null
-      },
-      {
-       "i": null
-      },
-      {
-       "i": null
       },
       {
        "i": 10
@@ -774484,43 +774157,13 @@
        "i": 11
       },
       {
-       "i": null
-      },
-      {
-       "i": null
-      },
-      {
        "i": 12
-      },
-      {
-       "i": null
-      },
-      {
-       "i": null
-      },
-      {
-       "i": null
-      },
-      {
-       "i": null
-      },
-      {
-       "i": null
-      },
-      {
-       "i": null
       },
       {
        "i": 13
       },
       {
-       "i": null
-      },
-      {
        "i": 14
-      },
-      {
-       "i": null
       },
       {
        "i": 15
@@ -774532,34 +774175,13 @@
        "i": 17
       },
       {
-       "i": null
-      },
-      {
        "i": 18
-      },
-      {
-       "i": null
-      },
-      {
-       "i": null
-      },
-      {
-       "i": null
-      },
-      {
-       "i": null
       },
       {
        "i": 19
       },
       {
        "i": 20
-      },
-      {
-       "i": null
-      },
-      {
-       "i": null
       },
       {
        "i": 21
@@ -774569,21 +774191,6 @@
       },
       {
        "i": 23
-      },
-      {
-       "i": null
-      },
-      {
-       "i": null
-      },
-      {
-       "i": null
-      },
-      {
-       "i": null
-      },
-      {
-       "i": null
       },
       {
        "i": 24
@@ -774598,31 +774205,7 @@
        "i": 27
       },
       {
-       "i": null
-      },
-      {
-       "i": null
-      },
-      {
-       "i": null
-      },
-      {
-       "i": null
-      },
-      {
-       "i": null
-      },
-      {
-       "i": null
-      },
-      {
        "i": 28
-      },
-      {
-       "i": null
-      },
-      {
-       "i": null
       },
       {
        "i": 29
@@ -774632,12 +774215,6 @@
       },
       {
        "i": 31
-      },
-      {
-       "i": null
-      },
-      {
-       "i": null
       },
       {
        "i": 32
@@ -774652,24 +774229,6 @@
        "i": 35
       },
       {
-       "i": null
-      },
-      {
-       "i": null
-      },
-      {
-       "i": null
-      },
-      {
-       "i": null
-      },
-      {
-       "i": null
-      },
-      {
-       "i": null
-      },
-      {
        "i": 36
       },
       {
@@ -774682,13 +774241,7 @@
        "i": 39
       },
       {
-       "i": null
-      },
-      {
        "i": 40
-      },
-      {
-       "i": null
       },
       {
        "i": 41
@@ -774697,25 +774250,7 @@
        "i": 42
       },
       {
-       "i": null
-      },
-      {
        "i": 43
-      },
-      {
-       "i": null
-      },
-      {
-       "i": null
-      },
-      {
-       "i": null
-      },
-      {
-       "i": null
-      },
-      {
-       "i": null
       },
       {
        "i": 44
@@ -774724,55 +774259,13 @@
        "i": 45
       },
       {
-       "i": null
-      },
-      {
        "i": 46
       },
       {
        "i": 47
       },
       {
-       "i": null
-      },
-      {
-       "i": null
-      },
-      {
-       "i": null
-      },
-      {
-       "i": null
-      },
-      {
-       "i": null
-      },
-      {
-       "i": null
-      },
-      {
-       "i": null
-      },
-      {
-       "i": null
-      },
-      {
        "i": 48
-      },
-      {
-       "i": null
-      },
-      {
-       "i": null
-      },
-      {
-       "i": null
-      },
-      {
-       "i": null
-      },
-      {
-       "i": null
       },
       {
        "i": 49
@@ -774787,28 +774280,7 @@
        "i": 52
       },
       {
-       "i": null
-      },
-      {
-       "i": null
-      },
-      {
-       "i": null
-      },
-      {
-       "i": null
-      },
-      {
-       "i": null
-      },
-      {
-       "i": null
-      },
-      {
        "i": 53
-      },
-      {
-       "i": null
       },
       {
        "i": 54
@@ -774823,15 +774295,6 @@
        "i": 57
       },
       {
-       "i": null
-      },
-      {
-       "i": null
-      },
-      {
-       "i": null
-      },
-      {
        "i": 58
       },
       {
@@ -774844,22 +774307,7 @@
        "i": 61
       },
       {
-       "i": null
-      },
-      {
-       "i": null
-      },
-      {
-       "i": null
-      },
-      {
        "i": 62
-      },
-      {
-       "i": null
-      },
-      {
-       "i": null
       },
       {
        "i": 63
@@ -774874,52 +774322,7 @@
        "i": 66
       },
       {
-       "i": null
-      },
-      {
-       "i": null
-      },
-      {
-       "i": null
-      },
-      {
-       "i": null
-      },
-      {
-       "i": null
-      },
-      {
-       "i": null
-      },
-      {
-       "i": null
-      },
-      {
-       "i": null
-      },
-      {
-       "i": null
-      },
-      {
-       "i": null
-      },
-      {
        "i": 67
-      },
-      {
-       "i": null
-      },
-      {
-       "i": null
-      },
-      {
-       "i": null
-      },
-      {
-       "i": null
-      },
-      {
-       "i": null
       },
       {
        "i": 68
@@ -774928,16 +774331,7 @@
        "i": 69
       },
       {
-       "i": null
-      },
-      {
        "i": 70
-      },
-      {
-       "i": null
-      },
-      {
-       "i": null
       },
       {
        "i": 71
@@ -774955,19 +774349,7 @@
        "i": 75
       },
       {
-       "i": null
-      },
-      {
        "i": 76
-      },
-      {
-       "i": null
-      },
-      {
-       "i": null
-      },
-      {
-       "i": null
       },
       {
        "i": 77
@@ -774980,18 +774362,6 @@
       },
       {
        "i": 80
-      },
-      {
-       "i": null
-      },
-      {
-       "i": null
-      },
-      {
-       "i": null
-      },
-      {
-       "i": null
       },
       {
        "i": 81
@@ -780164,11 +779534,11 @@
    "bib_sections": [
     [
      2,
-     74
+     73
     ]
    ],
    "bib_groups": [
-    74
+    73
    ],
    "bib_indices": [
     [
@@ -780231,7 +779601,6 @@
      56,
      57,
      58,
-     null,
      59,
      60,
      61,
@@ -780315,7 +779684,6 @@
       56,
       57,
       58,
-      null,
       59,
       60,
       61,
@@ -780512,9 +779880,6 @@
       },
       {
        "i": 58
-      },
-      {
-       "i": null
       },
       {
        "i": 59
@@ -840700,24 +840065,12 @@
      0
     ],
     [
-     "dl",
-     1
-    ],
-    [
-     "dl",
-     2
-    ],
-    [
      "h",
      2
     ],
     [
      "dl",
-     3
-    ],
-    [
-     "dl",
-     4
+     1
     ],
     [
      "h",
@@ -841142,12 +840495,7 @@
        70,
        "",
        ""
-      ]
-     ]
-    },
-    {
-     "attrs": " class=\"sentag tag5em\"",
-     "pairs": [
+      ],
       [
        71,
        72,
@@ -841189,12 +840537,7 @@
        84,
        "",
        ""
-      ]
-     ]
-    },
-    {
-     "attrs": " class=\"sentag tag5em\"",
-     "pairs": [
+      ],
       [
        85,
        86,
@@ -841529,12 +840872,7 @@
        194,
        " id=\"N3\"",
        ""
-      ]
-     ]
-    },
-    {
-     "attrs": " class=\"sentag tag3em\"",
-     "pairs": [
+      ],
       [
        195,
        196,
@@ -862733,36 +862071,6 @@
      3,
      "Related Literature",
      null
-    ],
-    [
-     2,
-     "Academic Tools",
-     "Aca"
-    ],
-    [
-     2,
-     "Other Internet Resources",
-     null
-    ],
-    [
-     3,
-     "Works by Condorcet Online",
-     null
-    ],
-    [
-     3,
-     "Web Resources on Condorcet",
-     null
-    ],
-    [
-     3,
-     "Related Web Resources",
-     null
-    ],
-    [
-     2,
-     "Related Entries",
-     null
     ]
    ],
    "bib_sections": [
@@ -862797,30 +862105,6 @@
     [
      3,
      37
-    ],
-    [
-     2,
-     0
-    ],
-    [
-     2,
-     0
-    ],
-    [
-     3,
-     6
-    ],
-    [
-     3,
-     5
-    ],
-    [
-     3,
-     9
-    ],
-    [
-     2,
-     0
     ]
    ],
    "bib_groups": [
@@ -862831,13 +862115,7 @@
     0,
     34,
     7,
-    37,
-    0,
-    0,
-    6,
-    5,
-    9,
-    0
+    37
    ],
    "bib_indices": [
     [],
@@ -900626,9 +899904,42 @@
      "id": "Rel"
     }
    ],
-   "bib_heads": [],
-   "bib_sections": [],
-   "bib_groups": [],
+   "bib_heads": [
+    [
+     2,
+     "Bibliography",
+     "Bib"
+    ],
+    [
+     3,
+     "Primary Literature",
+     "PrimLite"
+    ],
+    [
+     3,
+     "Secondary Literature",
+     "SecoLite"
+    ]
+   ],
+   "bib_sections": [
+    [
+     2,
+     0
+    ],
+    [
+     3,
+     9
+    ],
+    [
+     3,
+     91
+    ]
+   ],
+   "bib_groups": [
+    0,
+    9,
+    91
+   ],
    "bib_indices": [
     [],
     [
@@ -974201,31 +973512,6 @@
      3,
      "General introductions",
      "GeneIntr"
-    ],
-    [
-     3,
-     "Primary literature",
-     "PrimLite"
-    ],
-    [
-     3,
-     "Secondary literature",
-     "SecoLite"
-    ],
-    [
-     2,
-     "Academic Tools",
-     "Aca"
-    ],
-    [
-     2,
-     "Other Internet Resources",
-     "Oth"
-    ],
-    [
-     2,
-     "Related Entries",
-     "Rel"
     ]
    ],
    "bib_sections": [
@@ -974236,36 +973522,11 @@
     [
      3,
      2
-    ],
-    [
-     3,
-     24
-    ],
-    [
-     3,
-     45
-    ],
-    [
-     2,
-     0
-    ],
-    [
-     2,
-     2
-    ],
-    [
-     2,
-     0
     ]
    ],
    "bib_groups": [
     0,
-    2,
-    24,
-    45,
-    0,
-    2,
-    0
+    2
    ],
    "bib_indices": [
     [],
@@ -982547,7 +981808,7 @@
     ],
     [
      4,
-     26
+     19
     ],
     [
      3,
@@ -982558,7 +981819,7 @@
     0,
     0,
     7,
-    26,
+    19,
     98
    ],
    "bib_indices": [
@@ -982574,7 +981835,6 @@
      6
     ],
     [
-     null,
      7,
      8,
      9,
@@ -982585,21 +981845,15 @@
      14,
      15,
      16,
-     null,
      17,
      18,
      19,
-     null,
-     null,
-     null,
      20,
      21,
-     null,
      22,
      23,
      24,
-     25,
-     null
+     25
     ],
     [
      26,
@@ -982734,7 +981988,6 @@
     [
      "ul",
      [
-      null,
       7,
       8,
       9,
@@ -982745,21 +981998,15 @@
       14,
       15,
       16,
-      null,
       17,
       18,
       19,
-      null,
-      null,
-      null,
       20,
       21,
-      null,
       22,
       23,
       24,
-      25,
-      null
+      25
      ]
     ],
     [
@@ -982899,9 +982146,6 @@
     {
      "nodes": [
       {
-       "i": null
-      },
-      {
        "i": 7
       },
       {
@@ -982932,9 +982176,6 @@
        "i": 16
       },
       {
-       "i": null
-      },
-      {
        "i": 17
       },
       {
@@ -982944,22 +982185,10 @@
        "i": 19
       },
       {
-       "i": null
-      },
-      {
-       "i": null
-      },
-      {
-       "i": null
-      },
-      {
        "i": 20
       },
       {
        "i": 21
-      },
-      {
-       "i": null
       },
       {
        "i": 22
@@ -982972,9 +982201,6 @@
       },
       {
        "i": 25
-      },
-      {
-       "i": null
       }
      ]
     },
@@ -1237416,11 +1236642,11 @@
    "bib_sections": [
     [
      2,
-     46
+     45
     ]
    ],
    "bib_groups": [
-    46
+    45
    ],
    "bib_indices": [
     [
@@ -1237462,7 +1236688,6 @@
      35,
      36,
      37,
-     null,
      38,
      39,
      40,
@@ -1237518,7 +1236743,6 @@
       35,
       36,
       37,
-      null,
       38,
       39,
       40,
@@ -1237645,9 +1236869,6 @@
       },
       {
        "i": 37
-      },
-      {
-       "i": null
       },
       {
        "i": 38
@@ -1242462,7 +1241683,7 @@
     ],
     [
      3,
-     52
+     51
     ]
    ],
    "bib_groups": [
@@ -1242470,7 +1241691,7 @@
     0,
     14,
     21,
-    52
+    51
    ],
    "bib_indices": [
     [],
@@ -1242561,7 +1241782,6 @@
      78,
      79,
      80,
-     null,
      81,
      82,
      83,
@@ -1242684,7 +1241904,6 @@
       78,
       79,
       80,
-      null,
       81,
       82,
       83,
@@ -1242946,9 +1242165,6 @@
       },
       {
        "i": 80
-      },
-      {
-       "i": null
       },
       {
        "i": 81
@@ -1404732,46 +1403948,16 @@
      2,
      "Bibliography",
      null
-    ],
-    [
-     2,
-     "Academic Tools",
-     "Aca"
-    ],
-    [
-     2,
-     "Other Internet Resources",
-     null
-    ],
-    [
-     2,
-     "Related Entries",
-     null
     ]
    ],
    "bib_sections": [
     [
      2,
      43
-    ],
-    [
-     2,
-     0
-    ],
-    [
-     2,
-     1
-    ],
-    [
-     2,
-     0
     ]
    ],
    "bib_groups": [
-    43,
-    0,
-    1,
-    0
+    43
    ],
    "bib_indices": [
     [
@@ -1505760,56 +1504946,16 @@
      2,
      "Bibliography",
      "Bib"
-    ],
-    [
-     2,
-     "Academic Tools",
-     "Aca"
-    ],
-    [
-     2,
-     "Other Internet Resources",
-     "Oth"
-    ],
-    [
-     2,
-     "Related Entries",
-     "Rel"
-    ],
-    [
-     3,
-     "Acknowledgments",
-     null
     ]
    ],
    "bib_sections": [
     [
      2,
      176
-    ],
-    [
-     2,
-     0
-    ],
-    [
-     2,
-     2
-    ],
-    [
-     2,
-     0
-    ],
-    [
-     3,
-     0
     ]
    ],
    "bib_groups": [
-    176,
-    0,
-    2,
-    0,
-    0
+    176
    ],
    "bib_indices": [
     [
@@ -1520265,6 +1519411,11 @@
      3,
      "Primary Sources",
      "PrimSour"
+    ],
+    [
+     3,
+     "Secondary Literature",
+     "SecoLite"
     ]
    ],
    "bib_sections": [
@@ -1520274,12 +1519425,17 @@
     ],
     [
      3,
-     14
+     17
+    ],
+    [
+     3,
+     44
     ]
    ],
    "bib_groups": [
     0,
-    14
+    17,
+    44
    ],
    "bib_indices": [
     [],
@@ -1628858,7 +1628014,6 @@
      86,
      87,
      88,
-     null,
      89,
      90,
      91,
@@ -1628998,7 +1628153,6 @@
      225,
      226,
      227,
-     null,
      228,
      229,
      230,
@@ -1629188,7 +1628342,6 @@
       86,
       87,
       88,
-      null,
       89,
       90,
       91,
@@ -1629328,7 +1628481,6 @@
       225,
       226,
       227,
-      null,
       228,
       229,
       230,
@@ -1629696,9 +1628848,6 @@
       },
       {
        "i": 88
-      },
-      {
-       "i": null
       },
       {
        "i": 89
@@ -1630116,9 +1629265,6 @@
       },
       {
        "i": 227
-      },
-      {
-       "i": null
       },
       {
        "i": 228
@@ -1643368,13 +1642514,13 @@
     ],
     [
      3,
-     62
+     61
     ]
    ],
    "bib_groups": [
     0,
     67,
-    62
+    61
    ],
    "bib_indices": [
     [],
@@ -1643492,7 +1642638,6 @@
      108,
      109,
      110,
-     null,
      111,
      112,
      113,
@@ -1643644,7 +1642789,6 @@
       108,
       109,
       110,
-      null,
       111,
       112,
       113,
@@ -1644004,9 +1643148,6 @@
       },
       {
        "i": 110
-      },
-      {
-       "i": null
       },
       {
        "i": 111
@@ -1647600,11 +1646741,11 @@
    "bib_sections": [
     [
      2,
-     72
+     71
     ]
    ],
    "bib_groups": [
-    72
+    71
    ],
    "bib_indices": [
     [
@@ -1647614,7 +1646755,6 @@
      3,
      4,
      5,
-     null,
      6,
      7,
      8,
@@ -1647696,7 +1646836,6 @@
       3,
       4,
       5,
-      null,
       6,
       7,
       8,
@@ -1647785,9 +1646924,6 @@
       },
       {
        "i": 5
-      },
-      {
-       "i": null
       },
       {
        "i": 6
@@ -1750756,26 +1749892,6 @@
      3,
      "Other important works",
      "OtheImpoWork"
-    ],
-    [
-     2,
-     "Academic Tools",
-     "Aca"
-    ],
-    [
-     2,
-     "Other Internet Resources",
-     "Oth"
-    ],
-    [
-     2,
-     "Related Entries",
-     "Rel"
-    ],
-    [
-     3,
-     "Acknowledgments",
-     null
     ]
    ],
    "bib_sections": [
@@ -1750790,32 +1749906,12 @@
     [
      3,
      6
-    ],
-    [
-     2,
-     0
-    ],
-    [
-     2,
-     9
-    ],
-    [
-     2,
-     0
-    ],
-    [
-     3,
-     0
     ]
    ],
    "bib_groups": [
     0,
     159,
-    6,
-    0,
-    9,
-    0,
-    0
+    6
    ],
    "bib_indices": [
     [],
@@ -1769029,45 +1768125,15 @@
      2,
      "Bibliography",
      "Bib"
-    ],
-    [
-     2,
-     "Academic Tools",
-     "Aca"
-    ],
-    [
-     2,
-     "Other Internet Resources",
-     "Oth"
-    ],
-    [
-     2,
-     "Related Entries",
-     "Rel"
     ]
    ],
    "bib_sections": [
-    [
-     2,
-     115
-    ],
-    [
-     2,
-     0
-    ],
-    [
-     2,
-     3
-    ],
     [
      2,
      0
     ]
    ],
    "bib_groups": [
-    115,
-    0,
-    3,
     0
    ],
    "bib_indices": [
@@ -1850466,26 +1849532,16 @@
      2,
      "Bibliography",
      "Bib"
-    ],
-    [
-     2,
-     "Other Internet Resources",
-     "Oth"
     ]
    ],
    "bib_sections": [
     [
      2,
      139
-    ],
-    [
-     2,
-     2
     ]
    ],
    "bib_groups": [
-    139,
-    2
+    139
    ],
    "bib_indices": [
     [
@@ -1888808,11 +1887864,11 @@
    "bib_sections": [
     [
      2,
-     356
+     354
     ]
    ],
    "bib_groups": [
-    356
+    354
    ],
    "bib_indices": [
     [
@@ -1888877,7 +1887933,6 @@
      58,
      59,
      60,
-     null,
      61,
      62,
      63,
@@ -1889159,7 +1888214,6 @@
      339,
      340,
      341,
-     null,
      342,
      343,
      344,
@@ -1889243,7 +1888297,6 @@
       58,
       59,
       60,
-      null,
       61,
       62,
       63,
@@ -1889525,7 +1888578,6 @@
       339,
       340,
       341,
-      null,
       342,
       343,
       344,
@@ -1889726,9 +1888778,6 @@
       },
       {
        "i": 60
-      },
-      {
-       "i": null
       },
       {
        "i": 61
@@ -1890572,9 +1889621,6 @@
       },
       {
        "i": 341
-      },
-      {
-       "i": null
       },
       {
        "i": 342
@@ -1916222,16 +1915268,6 @@
      3,
      "Bibliography: Physics",
      "BiblPhys"
-    ],
-    [
-     3,
-     "Bibliography: Philosophy Reference",
-     "BiblPhilRefe"
-    ],
-    [
-     3,
-     "Bibliography: Physics Reference",
-     "BiblPhysRefe"
     ]
    ],
    "bib_sections": [
@@ -1916246,22 +1915282,12 @@
     [
      3,
      212
-    ],
-    [
-     3,
-     12
-    ],
-    [
-     3,
-     27
     ]
    ],
    "bib_groups": [
     0,
     74,
-    212,
-    12,
-    27
+    212
    ],
    "bib_indices": [
     [],
@@ -1949971,11 +1948997,11 @@
    "bib_sections": [
     [
      2,
-     287
+     286
     ]
    ],
    "bib_groups": [
-    287
+    286
    ],
    "bib_indices": [
     [
@@ -1950042,7 +1949068,6 @@
      60,
      61,
      62,
-     null,
      63,
      64,
      65,
@@ -1950339,7 +1949364,6 @@
       60,
       61,
       62,
-      null,
       63,
       64,
       65,
@@ -1950757,9 +1949781,6 @@
       },
       {
        "i": 62
-      },
-      {
-       "i": null
       },
       {
        "i": 63
@@ -2046568,9 +2045589,62 @@
      "id": "Rel"
     }
    ],
-   "bib_heads": [],
-   "bib_sections": [],
-   "bib_groups": [],
+   "bib_heads": [
+    [
+     2,
+     "Bibliography",
+     "Bib"
+    ],
+    [
+     3,
+     "Primary Works",
+     "PrimWork"
+    ],
+    [
+     4,
+     "Khayyam’s Works",
+     null
+    ],
+    [
+     4,
+     "Other Primary Sources",
+     null
+    ],
+    [
+     3,
+     "Secondary Works",
+     "SecoWork"
+    ]
+   ],
+   "bib_sections": [
+    [
+     2,
+     0
+    ],
+    [
+     3,
+     0
+    ],
+    [
+     4,
+     18
+    ],
+    [
+     4,
+     6
+    ],
+    [
+     3,
+     46
+    ]
+   ],
+   "bib_groups": [
+    0,
+    0,
+    18,
+    6,
+    46
+   ],
    "bib_indices": [
     [],
     [],

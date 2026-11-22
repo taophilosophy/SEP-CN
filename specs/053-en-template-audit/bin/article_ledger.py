@@ -475,7 +475,11 @@ def _bib_region(art_inner):
     t0 = _match_close(art_inner, m0.end(), r"<div[^>]*>", r"</div>")
     if not t0:
         return None
-    return art_inner[m0.end():t0.start()]
+    inner = art_inner[m0.end():t0.start()]
+    # H0 书目区常见整条注释掉的条目（`<!--<li>Humane Society…n.d.…</li>-->`）：
+    # C 侧注释被丢弃，账侧必须同等丢弃，否则账里多出一个 md 无对应的条目，
+    # 分组条目数与 H0 不等（chimeras 判例：组 2 少 1 件、首条错位）
+    return re.sub(r"<!--.*?-->", "", inner, flags=re.S)
 
 
 def extract_bib_seq(art_inner, md):
@@ -665,15 +669,10 @@ def extract(art_inner, md=None):
                       "id": hid_form(m.group(2), m.group(3))})
     led["hids"] = heads
     # 文献分节账：标题级别＋该节条目数（文献区题可为 h3/h4，条目与题交错）
-    m1 = re.search(r'<div id="bibliography">(.*?)\n</div> ', art_inner, re.S)
-    if m1:
-        region = m1.group(1)
-    elif re.search(r'<div id="bibliography">', art_inner):
-        # 收口形态不齐（无 `\n</div> `，adorno 判例）——入口门与 _bib_region
-        # 必须同源，否则 bib_seq/bib_tree 整体不抽、退回 counts 分组错位
-        region = _bib_region(art_inner)
-    else:
-        region = None
+    # 文献区一律用括号配平取全区间（旧式 `(.*?)\n</div> ` 正则遇嵌套 div
+    # 会在第一个内层收口处早断——aristotle-ethics 的 bib_heads 只剩 3 项，
+    # 区标题因而不认“Bibliography”；adorno 等件又无 `\n</div> ` 尾随空格）
+    region = _bib_region(art_inner)
     if region is not None:
         # H0 文献区标题文字（md 侧标题带中文加工后缀，如
         # `## References（引用注释）`；全库 1,878 件统一形态）。渲染按账取

@@ -410,3 +410,8 @@
 
 * 区标题改取 `bib_heads` 与 R 同名项，seq 跳过该项及之前标题；影响面账普查 1,869 恒等／1 件转池／2 件旧路径，池 1,616（86.3%）缺口 257。
 * aristotle-ethics 余两处专项：`bib_heads` 抽取遇嵌套 div 早断（应改 `_bib_region` 同源）；C 的 `in_bib` 按标题文本置位（应按 `div#bibliography`）。
+
+## 2026-11-22 B3.2 第十六批：书目区取域同源与注释剔除
+
+* bib 区取域统一 `_bib_region`（嵌套 div 早断致 bib_heads 缺项）；剔除 H0 注释掉的条目（C 已丢弃，账不得看见）。池 1,616→1,619（86.4%）缺口 254，转池 4 失池 0。
+* 余族（habermas 的子树吞标题、hobbes-science／friedrich-lange／singular-terms-medieval 等分节题）待专项。

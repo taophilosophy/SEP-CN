@@ -336,6 +336,16 @@ B3.2 的 sha 全等清单即 OAIS fixity 账的实现形态；与 ADR-0076 已�
 
 **教训**：①“预发的标题”与“跳过的标题”必须是**同一个账项**，否则重复/错位；判断同名要用账的事实（`bib_heads`），不是约定（“恒为 Bibliography”）；②改动影响面要用账普查**证明**窄（1,869+1+2=1,872 全分类），而不是抽样相信。
 
+## 10.15 B3.2 第十六批实施记（2026-11-22，书目区取域同源与注释剔除）
+
+**缺陷一（区取域不同源）**：`extract` 取 bib 区用旧式 `(.*?)\n</div> ` 非贪婪正则，遇嵌套 div 在第一个内层收口早断——aristotle-ethics 的 `bib_heads` 只剩 3 项（缺 `Bibliography`），区标题因而错认（详见 §10.14）。修法：一律用 `_bib_region`（括号配平）取全区间；账变更 18 件，aristotle-ethics 转池、其余不变。
+
+**缺陷二（H0 注释掉的条目被账当真）**：H0 书目区常见整条注释（`<!--<li>Humane Society…n.d.…</li>-->`），C 侧注释被丢弃而账侧 `split_items` 照收——账里多出一个 md 无对应的条目，分组条目数与 H0 不等、首条错位（chimeras：组 2 少 1 件）。修法：`_bib_region` 返回前剔除 `<!--…-->`（与 C 侧同语义）；账变更 17 件，chimeras／jefferson 转池、其余不变。
+
+**实测**：池 **1,616→1,619（86.4%）／缺口 254／stale 0**，转池 4（aristotle-ethics／chimeras／jefferson／＋），失池 0，池占页 **42.54%**。
+
+**教训**：①**账与 C 必须同语料**——C 丢弃什么（注释）账就不得看见，否则账多出的条目把分组与定位全部带偏；②同一区间在账里被多处使用（bib_heads／sections／seq／tree／indices）时，取域必须收敛到一个函数（`_bib_region`），否则每个用点各错各的。
+
 ## 11. 现状与下一步（开工卡，2026-11-22）
 
 **验收线现状**（现查口径，勿引快照）：
@@ -343,7 +353,7 @@ B3.2 的 sha 全等清单即 OAIS fixity 账的实现形态；与 ADR-0076 已�
 | 判据 | 现状 | 取数命令 |
 | ---- | ---- | ---- |
 | B3.1 往返不动点 | **1,616/1,873（86.3%）**，集合级 +24／转红 3（W8 键名漂移，见 §10.12） | `python -B specs/053-en-template-audit/bin/reassemble.py --all --out <json>` |
-| B3.2 页面装配 | **pool 1,616（86.3%）／gap 257／stale 0**，池占页 42.45% | `python -B specs/053-en-template-audit/bin/page_assemble.py --all --build` |
+| B3.2 页面装配 | **pool 1,619（86.4%）／gap 254／stale 0**，池占页 42.54% | `python -B specs/053-en-template-audit/bin/page_assemble.py --all --build` |
 | I2/I3 转换保真 | `--gate` 0 issue（1,873 全过） | `python -B tools/check_yuanwen_fidelity.py --gate` |
 | 全库门禁 | check_all 17 项全绿 | `python -B tools/check_all.py` |
 

@@ -5,12 +5,12 @@
  "total": 1873,
  "counts": {
   "rule": 0,
-  "pool": 1616,
-  "gap": 257,
+  "pool": 1619,
+  "gap": 254,
   "stale": 0
  },
  "page_bytes": 235952045,
- "pool_bytes": 100153205,
+ "pool_bytes": 100380918,
  "entries": [
   {
    "slug": "18thGerman-preKant",
@@ -910,13 +910,10 @@
   },
   {
    "slug": "aristotle-ethics",
-   "status": "gap",
-   "why": "unaligned text units",
    "page_len": 166887,
-   "sample": {
-    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
-    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
-   }
+   "status": "pool",
+   "n_patches": 248,
+   "pool_bytes": 61489
   },
   {
    "slug": "aristotle-logic",
@@ -1514,9 +1511,9 @@
   },
   {
    "slug": "bradley",
+   "page_len": 86331,
    "status": "gap",
    "why": "unaligned text units",
-   "page_len": 86331,
    "sample": {
     "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
     "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
@@ -1835,9 +1832,9 @@
   },
   {
    "slug": "cell-biology",
+   "page_len": 175336,
    "status": "pool",
    "n_patches": 211,
-   "page_len": 175336,
    "pool_bytes": 86563
   },
   {
@@ -1893,9 +1890,9 @@
   },
   {
    "slug": "chemistry",
+   "page_len": 181618,
    "status": "gap",
    "why": "unaligned text units",
-   "page_len": 181618,
    "sample": {
     "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
     "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
@@ -1917,13 +1914,10 @@
   },
   {
    "slug": "chimeras",
-   "status": "gap",
-   "why": "unaligned text units",
    "page_len": 139177,
-   "sample": {
-    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
-    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
-   }
+   "status": "pool",
+   "n_patches": 237,
+   "pool_bytes": 119464
   },
   {
    "slug": "chinese-change",
@@ -2075,9 +2069,9 @@
   },
   {
    "slug": "civil-disobedience",
+   "page_len": 126527,
    "status": "gap",
    "why": "unaligned text units",
-   "page_len": 126527,
    "sample": {
     "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
     "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
@@ -2821,9 +2815,9 @@
   },
   {
    "slug": "creativity",
+   "page_len": 224301,
    "status": "pool",
    "n_patches": 335,
-   "page_len": 224301,
    "pool_bytes": 94384
   },
   {
@@ -2908,10 +2902,10 @@
   },
   {
    "slug": "cusanus",
-   "status": "pool",
-   "n_patches": 204,
    "page_len": 126284,
-   "pool_bytes": 47943
+   "status": "pool",
+   "n_patches": 205,
+   "pool_bytes": 47967
   },
   {
    "slug": "cyrenaics",
@@ -3020,9 +3014,9 @@
   },
   {
    "slug": "decision-theory-descriptive",
+   "page_len": 100368,
    "status": "pool",
    "n_patches": 213,
-   "page_len": 100368,
    "pool_bytes": 54370
   },
   {
@@ -3443,10 +3437,10 @@
   },
   {
    "slug": "dispositions",
-   "status": "pool",
-   "n_patches": 201,
    "page_len": 131661,
-   "pool_bytes": 104155
+   "status": "pool",
+   "n_patches": 202,
+   "pool_bytes": 104179
   },
   {
    "slug": "divine-freedom",
@@ -4270,10 +4264,10 @@
   },
   {
    "slug": "evolutionary-psychology",
-   "status": "pool",
-   "n_patches": 119,
    "page_len": 103778,
-   "pool_bytes": 38745
+   "status": "pool",
+   "n_patches": 120,
+   "pool_bytes": 38769
   },
   {
    "slug": "existence",
@@ -5090,9 +5084,9 @@
   },
   {
    "slug": "game-evolutionary",
+   "page_len": 152048,
    "status": "gap",
    "why": "unaligned text units",
-   "page_len": 152048,
    "sample": {
     "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
     "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
@@ -5110,9 +5104,9 @@
   },
   {
    "slug": "games-abstraction",
+   "page_len": 128005,
    "status": "gap",
    "why": "unaligned text units",
-   "page_len": 128005,
    "sample": {
     "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
     "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
@@ -5686,10 +5680,10 @@
   },
   {
    "slug": "histfem-condorcet",
-   "status": "pool",
-   "n_patches": 195,
    "page_len": 119769,
-   "pool_bytes": 92364
+   "status": "pool",
+   "n_patches": 196,
+   "pool_bytes": 92386
   },
   {
    "slug": "history",
@@ -5969,9 +5963,9 @@
   },
   {
    "slug": "ibn-taymiyya",
+   "page_len": 114794,
    "status": "pool",
    "n_patches": 137,
-   "page_len": 114794,
    "pool_bytes": 70853
   },
   {
@@ -6441,9 +6435,9 @@
   },
   {
    "slug": "jaina-philosophy",
+   "page_len": 122739,
    "status": "gap",
    "why": "unaligned text units",
-   "page_len": 122739,
    "sample": {
     "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
     "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
@@ -6537,13 +6531,10 @@
   },
   {
    "slug": "jefferson",
-   "status": "gap",
-   "why": "unaligned text units",
    "page_len": 132368,
-   "sample": {
-    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
-    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
-   }
+   "status": "pool",
+   "n_patches": 227,
+   "pool_bytes": 46570
   },
   {
    "slug": "joane-petrizi",
@@ -8165,9 +8156,9 @@
   },
   {
    "slug": "mally-deontic",
+   "page_len": 84682,
    "status": "pool",
    "n_patches": 457,
-   "page_len": 84682,
    "pool_bytes": 44828
   },
   {
@@ -8200,9 +8191,9 @@
   },
   {
    "slug": "margaret-cavendish",
+   "page_len": 182801,
    "status": "pool",
    "n_patches": 246,
-   "page_len": 182801,
    "pool_bytes": 138666
   },
   {
@@ -9250,10 +9241,10 @@
   },
   {
    "slug": "negritude",
-   "status": "pool",
-   "n_patches": 79,
    "page_len": 89650,
-   "pool_bytes": 55604
+   "status": "pool",
+   "n_patches": 80,
+   "pool_bytes": 55628
   },
   {
    "slug": "neo-daoism",
@@ -9942,9 +9933,9 @@
   },
   {
    "slug": "phenomenal-intentionality",
+   "page_len": 145411,
    "status": "pool",
    "n_patches": 217,
-   "page_len": 145411,
    "pool_bytes": 55773
   },
   {
@@ -10665,9 +10656,9 @@
   },
   {
    "slug": "properties",
+   "page_len": 202184,
    "status": "pool",
    "n_patches": 263,
-   "page_len": 202184,
    "pool_bytes": 153138
   },
   {
@@ -10762,10 +10753,10 @@
   },
   {
    "slug": "psychologism",
-   "status": "pool",
-   "n_patches": 167,
    "page_len": 113988,
-   "pool_bytes": 49805
+   "status": "pool",
+   "n_patches": 168,
+   "pool_bytes": 49829
   },
   {
    "slug": "psychology-normative-cognition",
@@ -11485,9 +11476,9 @@
   },
   {
    "slug": "religion-science",
+   "page_len": 155369,
    "status": "pool",
    "n_patches": 210,
-   "page_len": 155369,
    "pool_bytes": 75314
   },
   {
@@ -11607,9 +11598,9 @@
   },
   {
    "slug": "rights-group",
+   "page_len": 108263,
    "status": "gap",
    "why": "unaligned text units",
-   "page_len": 108263,
    "sample": {
     "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
     "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
@@ -12121,9 +12112,9 @@
   },
   {
    "slug": "self-reference",
+   "page_len": 141894,
    "status": "gap",
    "why": "unaligned text units",
-   "page_len": 141894,
    "sample": {
     "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
     "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
@@ -12403,9 +12394,9 @@
   },
   {
    "slug": "skepticism-moral-responsibility",
+   "page_len": 189637,
    "status": "pool",
    "n_patches": 322,
-   "page_len": 189637,
    "pool_bytes": 113983
   },
   {
@@ -12581,9 +12572,9 @@
   },
   {
    "slug": "spacetime-singularities",
+   "page_len": 322158,
    "status": "gap",
    "why": "unaligned text units",
-   "page_len": 322158,
    "sample": {
     "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
     "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
@@ -12820,8 +12811,8 @@
    "slug": "structure-scientific-theories",
    "page_len": 182409,
    "status": "pool",
-   "n_patches": 320,
-   "pool_bytes": 84247
+   "n_patches": 321,
+   "pool_bytes": 84269
   },
   {
    "slug": "stumpf",
@@ -13447,10 +13438,10 @@
   },
   {
    "slug": "umar-khayyam",
-   "status": "pool",
-   "n_patches": 289,
    "page_len": 124654,
-   "pool_bytes": 104641
+   "status": "pool",
+   "n_patches": 290,
+   "pool_bytes": 104667
   },
   {
    "slug": "understanding",
