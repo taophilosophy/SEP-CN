@@ -349,3 +349,9 @@ Spiegelberg “with Brentano we are not yet in the phenomenological movement its
 
 **验收**：每批 check_mulu_s 六项 0 硬错、mulu-map 重建（1883）、五子门全绿、check_all 17 项全绿。
 
+### s3q 最后一条单条归位
+
+“即使只有一条也应分类”：逻辑学与逻辑哲学 H2 的最后 1 条直属条目“图式 Schema”移入
+“经典逻辑与传统逻辑／经典逻辑总论”。至此全库 **H2 直属条目 = 0**，每个条目都处在至少两层
+细类之下（H1 → H2 → H3/H4…）；节点 1175，链接守恒 1883。
+

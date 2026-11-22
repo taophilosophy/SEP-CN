@@ -4154,7 +4154,6 @@ outline: [1, 6]
 # 科学、逻辑与数学
 
 ## 逻辑学与逻辑哲学
-* [图式 Schema (John Corcoran、Idris Samawi Hamid)](s/schema.md)
 
 ### 逻辑史与逻辑学家
 
@@ -4224,6 +4223,8 @@ outline: [1, 6]
 ##### 传统逻辑方阵
 
 * [传统逻辑方阵 The Traditional Square of Opposition (Terence Parsons、Graziana Ciola)](s/square.md)
+
+* [图式 Schema (John Corcoran、Idris Samawi Hamid)](s/schema.md)
 
 #### 量化与条件
 
