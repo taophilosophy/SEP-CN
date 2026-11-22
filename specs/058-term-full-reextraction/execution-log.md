@@ -33,3 +33,7 @@
 * 著作名批次：7 部（Philosophical Investigations、Theory of Justice、Treatise of Human Nature、Principles of Philosophy、Politics、Laws、Summa theologiae），先查审定库——全部命中他义（公正／礼貌／水法规／外轮山等），判无对口条目；按 rules/03 §154 转权威译本档位登记：《哲学研究》《正义论》《人性论》《哲学原理》《政治学》《法律篇》《神学大全》。
 * 落册：第三批 52＋著作 7，`term_flow` 干跑零跳过、实写 59；`registry_azsort` 术语表 7221 行守恒；`check_terms` 硬错误 0；`check_all` 17 项全绿。
 * 当日累计：术语表新增 220 行（102＋59＋52＋7），审定名词库依据 40 行。
+* 著作名第二批：26 部经典（Phenomenology of Spirit、Groundwork、City of God、Science of Logic、Word and Object、Languages of Art 等）。先逐部查审定库（26 部全部有凭证，命中均为他义：正商品／白皮病／字／艺术学科／冥想／下降／感觉 等），判无对口条目；按权威译本档位登记 26 行（去向见 `curated-works2.tsv` 的中译说明）。
+* 人名队列诊断：修复人名合写键别名（“姓, 名 / 名 姓”双向、J. S. 缩写、van/von/della/ibn 粒子尾名），此前队列中的 Descartes、Husserl、Heidegger、Nietzsche、Mill、Kripke、Lewis、Marx 等经典人物实为已登记变体，不再重复入队。剩余真缺项以现代学者为主（Van Cleve、Della Rocca、Dutilh Novaes、Van Parijs、Van Gulick 等），按 ADR-0022 需逐条核籍属/生卒与通行汉名，留作专批。
+* 落册：著作第二批 26 行；`registry_azsort` 术语表 7246 行守恒；`check_terms` 硬错误 0。
+* 当日累计：术语表新增 246 行（102＋59＋52＋7＋26），审定名词库依据 40 行。

@@ -1,0 +1,692 @@
+{
+ "key": "principles of mathematics",
+ "term": "Principles of Mathematics",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-22T10:51:14+00:00",
+ "status": "ok",
+ "note": "variant=Principles of Mathematics; 审定公布名词库=10000; 海峡两岸名词对照库=7477; 其他来源数据库=1868; 预公布名词数据库=2725; jwt-direct（JWT 直连，raw 略；已滤维基 12 条）",
+ "hits": [
+  {
+   "cn": "数学",
+   "en": "mathematics",
+   "source": "数学名词",
+   "wordNumber": "01.0001",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "数学哲学",
+   "en": "philosophy of mathematics",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.239",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "当代哲学的一个重要分支。研究与数学相关的本体论、认识论、语义学、逻辑与方法论等哲学问题，旨在揭示数学的本质、数学知识的来源及其在整个知识领域中的定位与应用。"
+  },
+  {
+   "cn": "数学基础",
+   "en": "foundation of mathematics",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.240",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "研究数学是不是一门可靠的科学以及它为什么是可靠的学科。活跃于这一领域的大多数是数理逻辑学家。数学基础与数学哲学的界限有时是模糊的，它可以看作用严格数学的手段处理关于数学的哲学问题的努力。"
+  },
+  {
+   "cn": "数学的可应用性",
+   "en": "applicability of mathematics",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.293",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "数学可以在科学应用中推导出科学真理。一般说来，反实在论的数学哲学的难题在于需要解释数学在科学中的可应用性这个事实。"
+  },
+  {
+   "cn": "数学基础",
+   "en": "foundation of mathematics",
+   "source": "数学名词",
+   "wordNumber": "02.0300",
+   "subjectFullName": "数学_数理逻辑·数学基础_数学基础 ",
+   "subjectName": "数学基础",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "互补原理",
+   "en": "complementarity principle,principle of complementarity",
+   "source": "物理学名词",
+   "wordNumber": "06.0421",
+   "subjectFullName": "物理学_相对论、量子理论_量子理论",
+   "subjectName": "量子理论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "反推数学",
+   "en": "reverse mathematics",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.266",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "数学基础研究的一个重要领域。追问证明一个数学定理所必需的数学公理。这种研究通常是在二阶算术的一个片段中进行，证明某个经典数学中的定理。例如，有限覆盖定理与二阶算术的某个片段等价。"
+  },
+  {
+   "cn": "工程数学",
+   "en": "engineering mathematics",
+   "source": "自然辩证法名词",
+   "wordNumber": "05.189",
+   "subjectFullName": "自然辩证法_工程哲学_工程方法论",
+   "subjectName": "工程方法论",
+   "publishYear": "2024",
+   "definition": "服务于工程活动的应用数学。"
+  },
+  {
+   "cn": "计算障碍",
+   "en": "mathematics disorder",
+   "source": "行为医学名词",
+   "wordNumber": "17.039",
+   "subjectFullName": "行为医学_相关行为疾病_神经系统相关行为疾病_神经系统常见症状",
+   "subjectName": "神经系统常见症状",
+   "publishYear": "2022",
+   "definition": "患者对数学符号的认识和运用障碍、失常。不能用精神发育迟滞或明显的教育不当来解释。"
+  },
+  {
+   "cn": "模糊数学",
+   "en": "fuzzy mathematics",
+   "source": "物理学名词",
+   "wordNumber": "01.0569",
+   "subjectFullName": "物理学_通类_数学",
+   "subjectName": "数学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "模糊数学",
+   "en": "fuzzy mathematics",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0259",
+   "subjectFullName": "管理科学技术_运筹与管理_决策理论与方法",
+   "subjectName": "决策理论与方法",
+   "publishYear": "2016",
+   "definition": "研究和处理模糊性现象的一门数学分支学科。1965年由美国控制论专家扎德(L. A. Zadeh)创立，是一门新兴的数学分支。"
+  },
+  {
+   "cn": "数学课",
+   "en": "mathematics course",
+   "source": "教育学名词",
+   "wordNumber": "07.150",
+   "subjectFullName": "教育学_初等中等教育",
+   "subjectName": "初等中等教育",
+   "publishYear": "2013",
+   "definition": "在一定单位时间内，进行以数学学科为内容的教学活动。"
+  },
+  {
+   "cn": "两河流域数学",
+   "en": "Mesopotamia Mathematics",
+   "source": "世界历史名词",
+   "wordNumber": "02.0214",
+   "subjectFullName": "世界历史_古代中世纪_古代西亚",
+   "subjectName": "古代西亚",
+   "publishYear": "2012",
+   "definition": "古代两河流域的算术、代数和几何等领域的数学成就的综合。"
+  },
+  {
+   "cn": "直觉主义数学",
+   "en": "intuitionistic mathematics",
+   "source": "数学名词",
+   "wordNumber": "02.0126",
+   "subjectFullName": "数学_数理逻辑·数学基础_证明论",
+   "subjectName": "证明论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "纯粹数学",
+   "en": "pure mathematics",
+   "source": "数学名词",
+   "wordNumber": "01.0002",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "应用数学",
+   "en": "applied mathematics",
+   "source": "数学名词",
+   "wordNumber": "01.0003",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "数学期望",
+   "en": "mathematic expectation",
+   "source": "畜牧学名词",
+   "wordNumber": "04.637",
+   "subjectFullName": "畜牧学_遗传育种_生物统计学",
+   "subjectName": "生物统计学",
+   "publishYear": "2020",
+   "definition": "某个随机变量在大量独立重复试验中客观存在的可以期望的总体平均数。"
+  },
+  {
+   "cn": "数学地质",
+   "en": "mathematical geology",
+   "source": "地质学名词",
+   "wordNumber": "01.00.129",
+   "subjectFullName": "地质学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "由地质学、数学和计算机科学相互结合而产生的交叉学科。主要从数学定量角度研究和解决地质学的规律、理论和实际问题。"
+  },
+  {
+   "cn": "数学模拟",
+   "en": "mathematical simulation",
+   "source": "农学名词",
+   "wordNumber": "01.198",
+   "subjectFullName": "总论_农业试验统计",
+   "subjectName": "农业试验统计",
+   "publishYear": "2025",
+   "definition": "在对农业对象或过程进行数理分析或统计基础上，运行所建立数学模型并输出结果的过程。"
+  },
+  {
+   "cn": "《数学手稿》",
+   "en": "Mathematical Manuscripts",
+   "source": "自然辩证法名词",
+   "wordNumber": "01.001",
+   "subjectFullName": "自然辩证法_总论_理论和起源",
+   "subjectName": "理论和起源",
+   "publishYear": "2024",
+   "definition": "马克思关于数学问题的遗作。意图用数学方法研究经济学，为微积分学提供哲学论证，内容涉及微积分、代数学和数学史。"
+  },
+  {
+   "cn": "模糊数学",
+   "en": "fuzzy mathematics",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "模糊数学",
+   "en": "fuzzy mathematics",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "演绎数学",
+   "en": "deductive mathematics",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数理气候",
+   "en": "mathematical climate",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数理统计[学]",
+   "en": "mathematical statistics",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数学模拟",
+   "en": "mathematical simulation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数学模型",
+   "en": "mathematical model",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "数学程序",
+   "en": "mathematical programming",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "数学模拟",
+   "en": "mathematical modeling",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "数学心理学",
+   "en": "mathematical psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "数学生态学",
+   "en": "mathematical ecology",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "数学模型",
+   "en": "mathematical model",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "数理地理学",
+   "en": "mathematical geography",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "数学地图学",
+   "en": "mathematical cartography",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "数学规划",
+   "en": "mathematical programming",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "数学表达式",
+   "en": "mathematical expression",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "数学函数",
+   "en": "mathematical function",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "数学模型",
+   "en": "mathematical model",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "[数学]期望",
+   "en": "mathematical expectation",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "数学大地测量学",
+   "en": "mathematical geodesy",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "计算数学",
+   "en": "computational mathematics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "离散数学",
+   "en": "discrete mathematics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数学应用",
+   "en": "Mathematical Application",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数理统计",
+   "en": "Mathematical Statistics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "谦抑性",
+   "en": "principle of restraint",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《日内瓦原则宣言》",
+   "en": "Geneva Declaration of Principles",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "不伤害原则",
+   "en": "principle of non-maleficence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "标准编制原则",
+   "en": "principle of standards compilation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数学障碍",
+   "en": "mathematics disorder",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.2.3.2.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "以数字信息处理加工、学习计算、计算的准确性或流畅性明显受损为特征的一种特定学习障碍。"
+  },
+  {
+   "cn": "原则",
+   "en": "principle",
+   "source": "马克思主义",
+   "wordNumber": "04.0059",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "指导言论和行动的理论规定。在社会生活中，原则常被作为人们言行的准则。在具体科学中含有公理性质的意思。原则是人们在社会实践中对客观事物及其规律进行的抽象，是一般原理。原则具有相对稳定性，但并不是凝固不变"
+  },
+  {
+   "cn": "共济原则",
+   "en": "principle of solidarity",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.038",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "依据社会成员之间公正享有利益和义务的社会伦理理念，政府、社群和个体之间互助、密切合作解决公共卫生问题的行为准则。"
+  },
+  {
+   "cn": "相称性原则",
+   "en": "principle of proportionality",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.041",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "在公共卫生活动中，为了促进公共卫生、公众健康，所采取的可能且不可避免地影响个人权益或加重个人负担的任何措施，应能够达到服务目标人群的公共卫生目的，且不存在达到这一目的的更宽松措施的伦理准则。"
+  },
+  {
+   "cn": "洗消原则",
+   "en": "principle of decontamination",
+   "source": "消毒学",
+   "wordNumber": "2.1.1.1",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "在洗消处理过程中应遵循的准则。包括以下内容：将洗消与封锁自净紧密结合，对具有重要军事、经济意义以及与人员生活密切相关的污染地区和场所立即进行洗消处理，其他地区和场所则尽量采取封锁自净的处理。"
+  },
+  {
+   "cn": "因果关系判定原则",
+   "en": "principle of causality",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.3.8",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护",
+   "subjectName": "放射工作人员健康监护",
+   "publishYear": "2025",
+   "definition": "判定接触电离辐射与所患疾病之间的因果关系，应满足时序性原则、生物学合理性原则及生物学梯度原则。"
+  },
+  {
+   "cn": "尊重原则",
+   "en": "principle of respect",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.0060000000000002",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "要求医务人员尊重患者及其家属的人格、尊严、隐私和自主选择权的根本性道德要求。"
+  },
+  {
+   "cn": "效用原则",
+   "en": "principle of utility",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.044",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "以促进个体或集体福祉最大化为目的的公共卫生伦理原则。"
+  },
+  {
+   "cn": "允许原则",
+   "en": "principle of permission",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.03",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "美国生命伦理学家H.T.恩格尔哈特（H.Tristram. Engelhard）提出的生命伦理学首要原则。认为在价值多元化社会中，涉及他人的行动必须得到他人的允许，不经他人允许就对他人采取行动是不具备"
+  },
+  {
+   "cn": "最优化原则",
+   "en": "principle of optimization",
+   "source": "医学伦理学名词",
+   "wordNumber": "5.004",
+   "subjectFullName": "医学伦理学_临床诊疗伦理",
+   "subjectName": "临床诊疗伦理",
+   "publishYear": "2025",
+   "definition": "在临床诊疗过程中，医务人员在制定诊疗方案时应力求以最小的代价获得最大的效益的决策原则。包括效果最佳、安全度最高、痛苦最小以及最为经济、简便等。"
+  },
+  {
+   "cn": "有利原则",
+   "en": "principle of beneficence",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.023",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "要求实施有益于行为对象的行为。医务人员在医学实践中应该切实维护患者或研究参与者的合法权益，促进其减轻病痛、疾病康复、提高生命质量。"
+  },
+  {
+   "cn": "公正原则",
+   "en": "principle of justice",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.0260000000000002",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "平等地对待每一个人，不偏不倚。医疗公正指在医学活动中，每一个患者或研究参与者都应享有平等对待的权利，有权利获得所需要卫生资源的机会。"
+  },
+  {
+   "cn": "不伤害原则",
+   "en": "principle of nonmaleficence",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.017",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "要求医务人员在医学实践中坚决杜绝有意伤害，把不可避免但可控的伤害控制在最低限度内，不使患者或研究参与者受到不应有医疗伤害的伦理原则。"
+  },
+  {
+   "cn": "数理经济学派",
+   "en": "mathematical economics school",
+   "source": "马克思主义",
+   "wordNumber": "05.0168",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "在日本，将数学手段应用于马克思主义经济学的研究是在越村信三郎等人的早期研究基础上，通过置盐信雄得以实现的，数理马克思经济学派以此得以在日本学界确立其地位。"
+  },
+  {
+   "cn": "四个服从",
+   "en": "Four Principles of Deference",
+   "source": "马克思主义",
+   "wordNumber": "03.0812",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "党员个人服从党的组织，少数服从多数，下级组织服从上级组织，全党各个组织和全体党员服从党的全国代表大会和中央委员会。"
+  },
+  {
+   "cn": "疾病认定原则",
+   "en": "principle of disease identification",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.3.6",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护",
+   "subjectName": "放射工作人员健康监护",
+   "publishYear": "2025",
+   "definition": "在病因作用下，机体出现自稳调节紊乱并引发一系列代谢、功能或结构的异常改变，其判定有无疾病及病情严重程度主要依据临床表现、相应的辅助检查，并与其他原因导致的类似疾病进行鉴别。"
+  },
+  {
+   "cn": "剂量评估原则",
+   "en": "principle of dose evaluation",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.3.12",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护",
+   "subjectName": "放射工作人员健康监护",
+   "publishYear": "2025",
+   "definition": "放射性疾病诊断应进行剂量估算，通过综合分析受照情况和利用各方面收集到的剂量资料，包括个人剂量监测、生物剂量估算、临床早期分类诊断和辐射防护部门提供的其他资料，评估受照者的剂量，确定病情严重程度，以采取"
+  },
+  {
+   "cn": "集体领导原则",
+   "en": "principle of collective leadership",
+   "source": "马克思主义",
+   "wordNumber": "03.0484",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国共产党的领导的最高原则之一。是民主集中制在党的领导工作中的体现，也是群众路线在党的领导工作中的具体运用。坚持集体领导原则就要反对个人独裁和分散主义两种偏向。"
+  },
+  {
+   "cn": "社会主义的根本原则",
+   "en": "fundamental principle of socialism",
+   "source": "马克思主义",
+   "wordNumber": "03.0587",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "在改革开放初期，邓小平多次指出：一个公有制占主体，一个共同富裕，这是必须坚持的社会主义根本原则。后一方面提出了社会主义的根本目标，前一方面提出了实现发展目标的制度保证。"
+  },
+  {
+   "cn": "心理咨询原则",
+   "en": "principle of psychological consultation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.5.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_学校心理卫生服务",
+   "subjectName": "学校心理卫生服务",
+   "publishYear": "2025",
+   "definition": "为保护求咨者利益并使得咨询取得最优效果，在进行学生心理健康咨询时应遵循的法则或标准，包括：保密、限时、自愿、情感自限、延期决定、遵守伦理规范。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

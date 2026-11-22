@@ -1,201 +1,81 @@
 score	type	freq	spread	tier	pool_status	en	sources
-29561	person	721	56	T1	-	Ibn Sina	a/abraham-daud；a/abu-bakr-al-razi；a/al-din-al-razi
-28000	person	800	34	T1	-	Ibn Rushd	a/abu-bakr-al-razi；a/al-farabi-logic；a/al-farabi-soc-rel
-15990	person	390	91	T1	new	von Neumann	b/bell-theorem；b/bounded-rationality；c/cellular-automata
-14555	person	355	138	T1	-	John Stuart Mill	a/academic-freedom；a/akan-person；a/alienation
-13899	person	339	101	T1	new	van Inwagen	a/abilities；a/abstract-objects；a/afterlife
-13653	person	333	145	T1	-	David Lewis	a/abstract-objects；a/ambiguity；a/analysis.bib6
-12546	person	306	56	T1	new	van Benthem	b/bolzano-logic；b/boundary；b/branching-time
-10659	person	561	18	T1	-	Ibn Gabirol	a/abraham-daud；a/arabic-islamic-influence；a/arabic-islamic-judaic
-7134	person	174	60	T1	new	John Duns Scotus	a/analogy-medieval；a/aquinas；a/aristotelianism-renaissance
-7011	person	171	73	T1	-	Adam Smith	a/althusser；a/altruism；a/altruism-empirical
-6191	person	151	81	T1	new	Rudolf Carnap	a/analysis；a/analysis.bib1；a/analysis.bib6
 5597	person	193	28	T1	-	big data	a/aesthetics-of-everyday；a/agent-modeling-philscience；a/algorithmic-fairness
-5207	person	127	62	T1	-	Bernard Williams	a/anscombe；a/assertion；a/authenticity
-5085	person	565	8	T1	new	ibn Ezra	a/abraham-daud；a/arabic-islamic-judaic；g/gersonides
-4598	person	121	37	T1	new	von Wright	a/analysis.bib6；a/anomalous-monism；b/bolzano
-4551	person	111	64	T1	-	Edmund Husserl	a/aesthetic-experience；a/aesthetics-existentialist；a/analysis.s5
-4551	person	111	65	T1	-	Martin Heidegger	a/aesthetic-experience；a/aesthetics-existentialist；a/afterlife
 4469	person	109	47	T1	new	Essay Concerning Human	a/action-perception；a/aesthetic-testimony；a/analysis.bib4
-4469	person	109	58	T1	new	Thomas Reid	a/abilities；a/aesthetic-experience；a/anderson-john
-4346	person	106	64	T1	-	René Descartes	a/africana；a/algebra；a/analysis.bib4
-4346	person	106	52	T1	new	Thomas Nagel	a/altruism；a/atheism-agnosticism；c/chinese-mind
-4264	person	104	60	T1	-	Karl Marx	a/adorno；a/aesthetics-critical-theory；a/aesthetics-race
-4182	person	102	62	T1	-	Karl Popper	a/ayer；b/bolzano；c/carnap
-4141	person	101	59	T1	-	Saul Kripke	a/analysis.s1；a/analytic-synthetic；a/apriori
 3955	person	113	34	T1	new	Van Cleve	c/certainty；c/content-nonconceptual；d/dante
-3936	person	96	58	T1	new	Donald Davidson	a/abilities；a/action；a/aesthetic-judgment
-3772	person	92	47	T1	new	Martha Nussbaum	a/analysis.bib2；a/aristotle-aesthetics；b/bioethics-moral-reasoning
 3744	person	104	35	T1	new	von Neumann’s	c/cellular-automata；c/church-turing；c/church-turing.decision-problem
 3705	person	95	38	T1	new	van Fraassen’s	a/abduction；c/carnap.reconstruct-sci-theories；c/carnap.tolerance-metaphysics
 3654	person	174	20	T1	-	Dutch book	a/abduction；d/david-lewis；d/decision-theory
-3649	person	89	44	T1	new	Ernst Mach	a/action-perception；a/analysis.bib5；a/analysis.s5
-3608	person	88	52	T1	-	Jean-Paul Sartre	a/aesthetic-experience；a/aesthetics-existentialist；a/alienation
-3567	person	87	44	T1	-	Francis Bacon	a/analysis.bib4；a/architecture.perspective；a/argument
-3458	person	91	37	T1	-	Samuel Clarke	b/butler-moral；c/clarke；c/cockburn
-3444	person	84	47	T1	new	Jeremy Bentham	a/altruism；a/analysis.bib5；a/analysis.s1
-3444	person	84	41	T1	-	John Buridan	a/albert-saxony；a/analysis.bib3；a/analysis.s3
-3444	person	84	44	T1	-	Ronald Dworkin	a/affirmative-action；a/afterlife；a/argument
-3362	person	82	42	T1	new	Nelson Goodman	a/aesthetic-experience；a/analysis.bib6；a/analytic-synthetic.analyticity-chomsky
-3339	person	159	20	T1	new	Van Norden	a/analysis.bib3；a/analysis.bib4；a/analysis.bib5
 3288	person	137	23	T1	new	Della Rocca	a/action；a/alternative-possibilities；a/anomalous-monism.a-related-views
-3239	person	79	41	T1	new	Frank Jackson	a/actualism-possibilism-ethics；a/analysis.bib6；a/analysis.s6
-3237	person	83	38	T1	-	Alvin Plantinga	b/basing-epistemic；c/christiantheology-philosophy；c/cosmological-argument
-3219	person	87	36	T1	new	Philip Kitcher	a/agent-modeling-philscience；a/apriori；a/artifact
-3198	person	78	44	T1	new	Henry Sidgwick	a/afterlife；a/alienation；a/altruism
 3124	person	142	21	T1	new	Dutilh Novaes	a/argument；a/argument.supplement；c/carnap
-3081	person	79	38	T1	new	Robert Boyle	a/atomism-ancient；a/atomism-modern；b/biology-developmental
-3075	person	75	56	T1	-	G. E. Moore	a/alexander；a/analysis；a/analysis.bib1
-3075	person	75	41	T1	new	Robert Nozick	a/altruism；a/ayn-rand；c/causation-backwards
-2992	person	88	33	T1	new	Peter van Inwagen	a/abilities；a/afterlife；a/artifact
-2952	person	72	40	T1	-	Ernst Cassirer	a/aesthetics-18th-french；a/analysis；a/analysis.s5
-2871	person	87	32	T1	-	Alfred North Whitehead	a/algebra-logic-tradition；a/aristotelianism-renaissance；b/bradley
-2829	person	69	46	T1	-	Friedrich Nietzsche	a/aesthetic-experience；a/aesthetic-judgment；a/aesthetics-existentialist
-2808	person	72	38	T1	new	Max Weber	a/adorno；b/benjamin；b/berlin
-2788	person	68	43	T1	new	Albert Einstein	a/abstract-objects；b/bohr-correspondence；c/causation-physics
-2774	person	73	37	T1	new	Moritz Schlick	a/afterlife；a/analytic-synthetic；a/assertion
-2701	person	73	36	T1	-	David Hilbert	a/algebra-logic-tradition；c/carnap；c/carnap.reconstruct-sci-theories
-2680	person	67	39	T1	new	Herbert Spencer	a/adaptationism；a/addams-jane；a/alain-locke
-2680	person	67	39	T1	-	Joseph Raz	a/authority；c/civil-disobedience；c/coercion
-2665	person	65	41	T1	-	Thomas Kuhn	b/boyle；c/carnap；c/chaos
-2660	person	70	37	T1	-	Richard Rorty	a/addams-jane；a/analysis.bib6；a/anderson-john
-2624	person	64	41	T1	new	Michel Foucault	a/africana；a/althusser；a/artifact
-2592	person	81	31	T1	new	Richard Swinburne	a/atheism-agnosticism；a/atonement；c/christiantheology-philosophy
-2560	person	64	39	T1	new	Simone de Beauvoir	a/aesthetics-existentialist；b/beauvoir；c/constructivism-metaethics
-2550	person	75	33	T1	new	Jerry Fodor	a/analytic-synthetic；a/analytic-synthetic.analyticity-chomsky；a/animal-thought
-2520	person	70	35	T1	new	Derek Parfit	c/change；c/chisholm；c/comparphil-chiwes
-2460	person	60	41	T1	-	Jean-Jacques Rousseau	a/aesthetics-18th-french；a/alienation；c/communitarianism
-2450	person	70	34	T1	-	Walter Burley	a/albert-saxony；a/alyngton；a/analogy-medieval
-2448	person	72	33	T1	new	John Searle	a/analysis.s6；a/analytic-synthetic；a/artifact
-2380	person	68	34	T1	-	Hans Reichenbach	b/brouwer；c/causation-backwards；c/causation-physics
-2345	person	67	34	T1	new	Michael Dummett	a/analysis.bib6；a/analysis.s6；a/analytic-synthetic
 2310	person	70	32	T1	new	Essay Concerning Human Understanding	a/action-perception；a/animalism；a/antonio-rosmini
-2240	person	64	34	T1	new	Gilbert Ryle	a/analysis.bib6；a/analysis.s1；a/analysis.s6
-2190	person	146	14	T1	-	Ibn Bājja	a/al-farabi；a/al-farabi-logic；a/al-farabi-soc-rel
 2128	person	133	15	T1	-	Biological individuals	b/biology-individual；b/biology-individual.figdesc；e/ecology
-2112	person	66	31	T1	new	David Chalmers	a/analytic-synthetic；a/artifact；a/artificial-intelligence
 2091	person	51	41	T1	-	World War I	a/addams-jane；b/bloch；b/brentano
-2080	person	65	31	T1	new	Timothy Williamson	a/abduction；a/apriori；a/austin-jl
 2040	person	85	23	T1	-	Summa Contra Gentiles	a/analogy-medieval；a/aquinas；a/aquinas-moral-political
-2034	person	226	8	T1	new	Ibn Tibbon	a/arabic-islamic-judaic；h/halevi；i/ibn-gabirol
-1947	person	59	32	T1	new	Hannah Arendt	a/ancient-political；a/arendt；a/aristotle-politics
-1888	person	59	31	T1	new	Pierre Duhem	a/analytic-synthetic；a/aristotelianism-renaissance；a/atomism-modern
-1862	person	133	13	T1	new	Du Bois	a/aesthetics-race；a/africana；a/alain-locke
-1848	person	56	32	T1	-	Wilhelm Dilthey	a/ayer；b/berlin；b/buber
-1800	person	60	29	T1	new	Francis Hutcheson	a/aesthetic-concept；a/aesthetics-18th-british；a/aesthetics-18th-german
-1794	person	69	25	T1	-	Gottfried Wilhelm Leibniz	a/aesthetics-18th-german；b/biology-developmental；c/cambridge-platonists
-1740	person	58	29	T1	new	Daniel Dennett	a/artificial-intelligence；a/atheism-agnosticism；b/behaviorism
-1728	person	54	31	T1	new	Peter Geach	a/analysis.bib6；a/anscombe；a/attention
 1728	person	72	23	T1	new	von Mises	a/ayn-rand；c/capitalism；c/carnap
-1710	person	57	29	T1	new	Elizabeth Anderson	a/affirmative-action；c/convention；d/dewey-political
-1680	person	56	29	T1	new	Ian Hacking	a/arnauld；c/constructive-empiricism；e/epistemic-utility
 1650	person	110	14	T1	new	vital force	b/buddhism-huayan；c/cell-biology；c/consciousness
-1624	person	58	27	T1	-	Alfred Tarski	a/algebra-logic-tradition；c/carnap；c/carnap.semantics
-1612	person	52	30	T1	new	Wilfrid Sellars	c/categories；c/collective-intentionality；d/davidson
 1596	person	84	18	T1	new	Women Philosophers	a/africana；a/africana-contemporary；a/analysis.bib5
-1584	person	48	32	T1	new	Henri Bergson	b/bergson；c/cassirer；c/consciousness-temporal
-1575	person	63	24	T1	new	Hermann von Helmholtz	a/action-perception；a/alexander；a/attention
 1575	person	75	20	T1	new	van Dalen	b/brouwer；c/continuity；g/goedel-incompleteness
 1550	person	310	4	T2	new	Ibn Daud	a/abraham-daud；a/arabic-islamic-judaic；f/falaquera
-1539	person	57	26	T1	new	Hermann Cohen	a/analysis.s5；b/buber；c/cohen
 1533	person	73	20	T1	new	Julius Caesar	a/ancient-political；a/anscombe；a/aristotelianism-renaissance
-1488	person	48	30	T1	new	Jacques Derrida	a/austin-jl；b/benjamin；c/critical-phil-race
-1470	person	49	29	T1	new	Noam Chomsky	a/analytic-synthetic；a/anarchism；a/attention
-1450	person	58	24	T1	new	Marsilio Ficino	a/abrabanel；a/arabic-islamic-influence；a/aristotelianism-renaissance
-1450	person	50	28	T1	new	Max Scheler	b/buber；c/cassirer；c/collective-intentionality
-1421	person	49	28	T1	new	Charles Taylor	a/authenticity；b/bosanquet；c/common-good
-1400	person	70	19	T1	-	Friedrich Schlegel	a/aesthetic-experience；a/aesthetics-18th-german；a/aesthetics-19th-romantic
-1392	person	48	28	T1	new	Hermann Weyl	b/brouwer；c/carnap；c/continuity
-1375	person	55	24	T1	new	Pico Della Mirandola	a/abner-burgos；a/abrabanel；a/aristotelianism-renaissance
-1352	person	52	25	T1	new	Martin Luther King	a/africana；a/africana-contemporary；a/anarchism
 1334	person	58	22	T1	new	Iris Marion Young	a/argument；d/democracy；e/egalitarianism
 1330	person	70	18	T1	new	Van Parijs	c/capitalism；c/contract-law；e/egalitarianism
-1320	person	60	21	T1	-	Wilhelm von Humboldt	a/academic-freedom；a/alexander-humboldt；d/dilthey
-1316	person	47	27	T1	new	Hermann Lotze	a/action-perception；a/aesthetic-experience；a/art-ontology-history
-1296	person	48	26	T1	-	Pierre Bayle	b/bayle；b/boundary；b/bruno
-1288	person	46	27	T1	-	Amartya Sen	a/arrows-theorem；b/bioethics-latin-america；c/capability-approach
-1269	person	47	26	T1	new	Auguste Comte	a/addams-jane；c/comte；f/francisco-sanches
 1250	person	50	24	T1	new	van Inwagen’s	a/abilities；a/afterlife；a/animalism
 1210	person	110	10	T1	new	Ibn Arabī	a/al-qudat；a/arabic-islamic-mysticism；g/god-ultimates
 1200	person	80	14	T1	new	Van Gulick	c/consciousness；c/consciousness-higher；c/consciousness-representational
-1197	person	57	20	T1	new	David Miller	b/berlin；c/citizenship；c/collective-responsibility
-1188	person	54	21	T1	new	Peter Abelard	a/abelard；a/alberic-paris；b/boundary
-1176	person	49	23	T1	new	Crispin Wright	a/analysis.bib6；a/analytic-synthetic；a/apriori
-1176	person	42	27	T1	-	Hans-Georg Gadamer	a/adorno；a/aesthetic-experience；a/aristotle-rhetoric
-1175	person	47	24	T1	new	Gilbert Harman	a/analytic-synthetic；a/apriori；c/cognition-animal
-1170	person	45	25	T1	-	Ralph Cudworth	a/anderson-john；a/aristotelianism-renaissance；b/boyle
-1144	person	44	25	T1	new	Frank Ramsey	a/ayer；c/carnap；c/conditionals
 1144	person	44	25	T1	new	Joel Feinberg	c/coercion；c/cognitive-disability；c/collective-responsibility
 1134	person	42	26	T1	new	Pierre Gassendi	a/anomalous-monism.a-related-views；a/aristotelianism-renaissance；a/atomism-ancient
-1120	person	40	27	T1	new	Francisco Suárez	a/analogy-medieval；a/aquinas；a/arabic-islamic-influence
 1104	person	48	22	T1	new	Dialogues concerning Natural Religion	b/bayle；c/clarke；e/economics-early-modern
-1100	person	44	24	T1	new	von Humboldt	a/academic-freedom；a/alexander-humboldt；c/comte
-1058	person	46	22	T1	new	William Alston	b/beardsley-aesthetics；c/concept-religion；d/disagreement-moral
-1056	person	48	21	T1	new	Alvin Goldman	a/argument；b/basing-epistemic；c/collective-responsibility
-1056	person	44	23	T1	new	Philippa Foot	a/anscombe；b/bioethics-moral-reasoning；c/consequentializing
-1032	person	43	23	T1	new	Ernest Nagel	b/biology-philosophy；d/dilthey；f/feigl
-1029	person	49	20	T1	new	Michael Walzer	b/berlin；c/citizenship；c/collective-responsibility
-1000	person	50	19	T1	new	Alan Turing	a/artificial-intelligence；a/associationist-thought；c/chinese-room
-1000	person	40	24	T1	new	William Whewell	a/alexander-crummell；b/bentham；b/butler-moral
 989	person	43	22	T1	new	van Heijenoort	a/analysis.bib6；c/carnap.tolerance-metaphysics；c/church-turing.decision-problem
 987	person	47	20	T1	new	Albertus Magnus	a/agrippa-nettesheim；a/arabic-islamic-influence；a/archytas
 962	person	37	25	T1	new	der Philosophie	a/analysis.bib1；a/analysis.bib2；a/analysis.bib3
-962	person	37	25	T1	new	Edmund Burke	a/aesthetic-experience；a/aesthetic-judgment；a/aesthetics-18th-german
-960	person	40	23	T1	new	Bernard Bolzano	a/analysis.bib5；a/analysis.s5；a/art-ontology-history
-946	person	43	21	T1	new	Robert Stalnaker	c/conditionals；c/content-narrow；c/counterfactuals
-903	person	43	20	T1	new	Peter Singer	a/actualism-possibilism-ethics；a/afterlife；d/democracy
-880	person	40	21	T1	new	Mary Wollstonecraft	c/catharine-macaulay；c/conservatism；e/economics-early-modern
-880	person	40	21	T1	new	Richard Dawkins	a/atheism-agnosticism；b/biology-individual；c/cosmology-theology
-880	person	40	21	T1	new	Robert Grosseteste	a/analogy-medieval；a/analysis.bib3；a/aristotelianism-renaissance
-875	person	35	24	T1	new	Carl Hempel	a/analysis.s1；b/behaviorism；c/causation-physics
-861	person	41	20	T1	new	Kit Fine	c/counterfactuals；d/david-lewis；e/existence
-860	person	43	19	T1	-	Giordano Bruno	1/18thGerman-preKant；a/aristotelianism-renaissance；b/bloch
 858	person	33	25	T1	new	von Helmholtz	a/action-perception；a/alexander；a/attention
-855	person	45	18	T1	new	der Hoek	c/common-knowledge；d/dynamic-epistemic；d/dynamic-epistemic.appendix-E-PAL
 840	person	42	19	T1	-	J. S. Mill	b/bentham；d/dewey-political；e/emerson
-828	person	36	22	T1	new	Roderick Chisholm	a/analytic-synthetic；a/artificial-intelligence；a/artificial-intelligence.oscar
-820	person	41	19	T1	new	Meister Eckhart	a/albert-great；c/comparphil-chiwes；e/erfurt
-819	person	39	20	T1	new	Arthur Prior	b/branching-time；c/category-mistakes；d/dialectical-school
-800	person	32	24	T1	-	F. H. Bradley	a/alexander；a/analysis.bib5；a/analysis.s5
 800	person	40	19	T1	new	Isaiah Berlin	a/aesthetics-19th-romantic；a/ayer；b/berlin
-800	person	40	19	T1	-	Walter Benjamin	a/adorno；a/aesthetics-critical-theory；a/arendt
-792	person	44	17	T1	new	Martin Buber	b/buber；c/cohen；c/creationism
-782	person	46	16	T1	new	Kendall Walton	a/aesthetic-concept；a/aesthetic-experience；a/aesthetics-cogsci
-782	person	34	22	T1	new	Philip Pettit	c/catharine-macaulay；c/collective-intentionality；d/decision-theory-descriptive
 780	person	52	14	T1	new	van Leeuwen	a/argument；b/belief；c/computational-complexity
-770	person	35	21	T1	-	Antoine Arnauld	a/arnauld；c/clauberg；c/consciousness-17th
 770	person	77	9	T1	new	Mac Lane	c/carnap.carnap-quine；c/carnap.syntax；c/category-theory
 760	person	38	19	T1	new	Simon Blackburn	a/analysis.s1；a/analytic-synthetic.analyticity-chomsky；c/convention
-759	person	33	22	T1	new	Søren Kierkegaard	a/aesthetics-existentialist；c/christiantheology-philosophy；c/creationism
 756	person	54	13	T1	new	imprecise probabilities	b/bounded-rationality；c/climate-science；d/decision-theory
-744	person	62	11	T1	-	Solomon ibn Gabirol	a/abraham-daud；a/arabic-islamic-judaic；b/binarium
-741	person	39	18	T1	new	Tyler Burge	a/animal-thought；c/church.supplementC；c/computational-mind
-735	person	35	20	T1	new	Iris Murdoch	a/anscombe；a/attention；a/ayer
 720	person	72	9	T1	new	Causal Markov Condition	c/causal-models；c/causation-physics；c/causation-probabilistic
-720	person	36	19	T1	new	David Kaplan	a/analytic-synthetic；d/david-lewis；e/epistemic-paradoxes
-714	person	42	16	T1	new	van Ditmarsch	d/dynamic-epistemic；d/dynamic-epistemic.appendix-E-PAL；d/dynamic-epistemic.appendix-F-RCK
-708	person	59	11	T1	new	James Mill	a/analysis.s5；a/austin-john；b/bentham
 704	person	32	21	T1	-	C. I. Lewis	a/aesthetic-concept；a/analysis.bib6；a/art-ontology-history
 702	person	39	17	T1	new	Pope John	a/auriol；c/condemnation；f/francis-marchia
 700	person	35	19	T1	new	Christine Korsgaard	a/animal-normativity；a/autonomy-moral；c/consciousness-intentionality.consciousness-self
 697	person	41	16	T1	new	Liber de causis	a/al-baghdadi；a/arabic-islamic-greek；a/arabic-islamic-influence
 684	person	36	18	T1	new	Hill Collins	a/africana-contemporary；d/disability-critical；e/egalitarianism
-682	person	31	21	T1	new	Georg Cantor	c/computability；c/continuity；d/dedekind-foundations
 680	person	40	16	T1	new	der Arithmetik	a/analysis；a/analysis.bib6；a/analysis.s1
-680	person	34	19	T1	-	Moses Mendelssohn	1/18thGerman-preKant；a/aesthetic-experience；a/aesthetics-18th-german
 672	person	32	20	T1	new	Theodor Adorno	a/adorno；a/aesthetic-experience；a/aesthetics-critical-theory
 667	person	29	22	T1	new	der Mathematik	a/analysis.bib2；c/church-turing；e/ehrenfels
-667	person	29	22	T1	-	W. D. Ross	a/analysis.bib2；b/butler-moral；c/consequentialism
-665	person	35	18	T1	new	Gareth Evans	a/action-perception；a/apriori；c/consciousness-neuroscience
-648	person	54	11	T1	new	Mark Twain	a/adorno；a/analytic-synthetic；f/frege
 636	person	106	5	T1	-	Everyday Aesthetics	a/aesthetics-of-everyday；a/aesthetics-race；d/dewey-aesthetics
-627	person	33	18	T1	new	Elliott Sober	a/altruism-biological；b/biology-individual；b/biology-philosophy
 625	person	25	24	T1	-	W. V. O. Quine	a/african-sage；a/analysis.s6；a/ayer
-624	person	52	11	T1	new	George Eliot	e/emily-elizabeth-constance-jones；e/epistemic-utility；f/feminism-aesthetics
 624	person	78	7	T1	-	Ibn Gabirol’s	a/abraham-daud；f/falaquera；i/ibn-ezra
-624	person	39	15	T1	new	John Perry	a/art-ontology-history；c/consciousness-intentionality；i/indexicals
-620	person	31	19	T1	new	Samuel Alexander	a/alexander；a/anderson-john；a/art-ontology-history
-616	person	44	13	T1	new	Paul Churchland	a/afterlife；b/behaviorism；c/computational-mind
-612	person	34	17	T1	new	Elizabeth Anscombe	a/action；a/anscombe；a/aquinas
-612	person	34	17	T1	new	Josiah Royce	a/addams-jane；b/boole；d/double-consciousness
 594	person	33	17	T1	new	Galen Strawson	a/analytic-synthetic；c/color；c/consciousness-intentionality
+592	person	37	15	T1	-	Patricia Hill Collins	a/africana-contemporary；d/disability-critical；e/epistemology-social
+578	person	34	16	T1	new	Princess Elisabeth	a/anomalous-monism.a-related-views；d/descartes；d/descartes-ethics
+576	person	36	15	T1	new	William Ockham	a/alberic-paris；a/analysis.bib3；a/aquinas
+551	person	29	18	T1	new	Lewis Carroll	a/aristotle-noncontradiction；a/artificial-intelligence；a/attention
+546	person	39	13	T1	new	van Atten	b/brouwer；b/brouwer.strongcounterex；b/brouwer.weakcounterex
+540	person	30	17	T1	new	Jonathan Dancy	i/impartiality；m/moral-anti-realism；m/moral-epistemology-a-priori
+539	person	49	10	T1	new	Grundgesetze der Arithmetik	a/analysis.bib6；f/formalism-mathematics；f/frege
+528	person	33	15	T1	new	van Gelder	a/al-farabi；a/associationist-thought；b/belief
+518	person	37	13	T1	new	Moses Maimonides	a/abraham-daud；a/al-baghdadi；a/arabic-islamic-judaic
+488	person	61	7	T1	new	Taylor Mill	a/academic-freedom；a/argument；f/feminism-ethics
+484	person	44	10	T1	new	Cur Deus Homo	a/anselm；a/atonement；c/christiantheology-philosophy
+480	person	40	11	T1	new	Grundlagen der Geometrie	a/algebra-logic-tradition；c/church-turing；e/epistemology-geometry
+476	person	28	16	T1	-	S. Supreme Court	a/academic-freedom；a/africana；a/algorithmic-fairness
+475	person	25	18	T1	new	der Welt	1/18thGerman-preKant；a/alexander-humboldt；a/analysis.bib6
+470	person	94	4	T2	new	van Gogh’s	a/aesthetics-cogsci；h/heidegger-aesthetics；l/langer
+465	person	31	14	T1	new	Barcan Marcus	e/essential-accidental；g/geometry-19th.vita；h/hyperintensionality
+465	person	31	14	T1	new	Miranda Fricker	b/blame；e/epistemology-social；e/epistemology-virtue
+465	person	31	14	T1	new	von Wright’s	c/causation-mani.early-agency；c/change；d/dynamic-epistemic.appendix-M-preferences
+462	person	22	20	T1	-	Suppose I	c/chisholm；c/conditionals；d/diodorus-cronus
+450	person	50	8	T1	-	random genetic drift	b/biology-philosophy；e/ecological-genetics；e/ecological-genetics.figdesc
+448	person	32	13	T1	new	Summulae de Dialectica	a/analysis；a/analysis.bib3；a/analysis.s3
+448	person	56	7	T1	new	Van Gogh	a/aesthetic-experience；c/collingwood-aesthetics；c/consciousness-higher
+442	person	26	16	T1	new	World Bank	c/coercion.applications；c/corruption；d/disability-care-rationing
+432	person	24	17	T1	new	Gottfried Leibniz	c/chinese-room；d/descartes-works；e/evolution-before-darwin
+432	person	36	11	T1	-	World Trade Organization	a/authority.legitimate-authority；c/citizenship；f/feminism-globalization
+420	person	30	13	T1	-	Johann Gottlieb Fichte	a/aesthetics-18th-german；a/analysis.s5；f/friedrich-jacobi
+408	person	51	7	T1	new	Den Uyl	a/aristotle-politics；a/ayn-rand；j/justice-virtue
+408	person	51	7	T1	-	S. Davies	a/aesthetic-concept；a/aesthetics-cogsci；a/architecture
+406	person	58	6	T1	new	simulation theorists	a/animal-social-cognition；e/empathy；f/folkpsych-simulation
+405	person	27	14	T1	new	Patrick Suppes	d/decision-causal；d/determinism-causal；d/dynamic-choice
+390	person	26	14	T1	new	Enquiry concerning Human Understanding	a/aesthetics-18th-german；c/compatibilism；d/dharmakiirti

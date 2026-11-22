@@ -97,7 +97,36 @@ def main():
         for part in k.split('/'):
             alias.add(part.strip())
     terms |= alias
-    persons = {norm_key_quote(r[0]) for r in parse_registry2_full(person_path())[0]}
+    persons = set()
+    PARTS = {'van', 'von', 'de', 'der', 'den', 'du', 'la', 'le', 'di', 'da',
+             'del', 'della', 'ibn', 'bin', 'bint', 'al', 'el', 'abu', 'abd'}
+    for r in parse_registry2_full(person_path())[0]:
+        key = norm_key_quote(r[0])
+        parts = [p.strip() for p in key.split('/')]
+        persons.add(key)
+        for p in parts:
+            persons.add(p)
+            toks = p.split()
+            if len(toks) >= 2:
+                persons.add('%s %s' % (toks[-1], ' '.join(toks[:-1])))
+                persons.add('%s, %s' % (toks[-1], ' '.join(toks[:-1])))
+                persons.add('%s, %s' % (' '.join(toks[:-1]), toks[-1]))
+            for i, t in enumerate(toks):
+                if t in PARTS and i > 0:
+                    persons.add(' '.join(toks[i:]))
+            if ',' in p:
+                last, first = [x.strip() for x in p.split(',', 1)]
+                persons.add(last)
+                persons.add('%s %s' % (first, last))
+                first_clean = ' '.join(
+                    t for t in first.split()
+                    if not re.fullmatch(r'[A-Za-z]\.?', t))
+                if first_clean:
+                    persons.add('%s %s' % (first_clean, last))
+                ltoks = last.split()
+                for i, t in enumerate(ltoks):
+                    if t in PARTS:
+                        persons.add(' '.join(ltoks[i:]))
 
     picked = []
     allow = {'terms': {'term', 'phrase'}, 'persons': {'person'},
@@ -146,7 +175,7 @@ def main():
     queue = [{'en': c['en']} for _, c in picked]
     suffix = '' if args.group == 'all' else '-' + args.group
     json.dump(queue, open(os.path.join(RES, 'register-queue%s.json' % suffix), 'w',
-                          encoding='utf-8'), ensure_ascii=False, indent=1)
+                          encoding='utf-8', newline='\n'), ensure_ascii=False, indent=1)
     lines = ['score\ttype\tfreq\tspread\ttier\tpool_status\ten\tsources']
     for s, c in picked:
         lines.append('%d\t%s\t%d\t%d\t%s\t%s\t%s\t%s' % (

@@ -1,0 +1,56 @@
+# -*- coding: utf-8 -*-
+"""著作名第二批 rowspec：包含式查重 + 权威译本依据。"""
+import json
+import os
+import re
+import sys
+
+sys.stdout.reconfigure(encoding='utf-8')
+HERE = os.path.dirname(os.path.abspath(__file__))
+ROOT = os.path.dirname(os.path.dirname(os.path.dirname(HERE)))
+if ROOT not in sys.path:
+    sys.path.insert(0, ROOT)
+from tools.register_lib import norm_key_quote, parse_registry_full, term_path  # noqa: E402
+
+RES = os.path.join(ROOT, 'specs', '058-term-full-reextraction', 'results')
+keys = set()
+for r in parse_registry_full(term_path())[0]:
+    for p in r[0].split('/'):
+        keys.add(norm_key_quote(p.strip()))
+
+
+def dupe(k):
+    for rk in keys:
+        if rk == k:
+            return rk
+        if re.search(r'(?<![a-z])' + re.escape(k) + r'(?![a-z])', rk) \
+                and len(rk) >= len(k) * 0.8:
+            return rk
+        if re.search(r'(?<![a-z])' + re.escape(rk) + r'(?![a-z])', k) \
+                and len(k) - len(rk) <= 15 and len(rk.split()) >= 2:
+            return rk
+    return None
+
+
+rows, skipped = [], []
+for line in open(os.path.join(RES, 'curated-works2.tsv'), encoding='utf-8'):
+    if not line.strip():
+        continue
+    en, rest = line.rstrip('\n').split('\t')
+    zh, note = rest.split('|', 1)
+    hit = dupe(en.casefold())
+    if hit:
+        skipped.append('%s（已登记：%s）' % (en, hit))
+        continue
+    rows.append({'en': en, 'zh': zh, 'table': 'term',
+                 'first_seen': '语料回收（specs/058 全库提取）',
+                 'basis': '权威译本（%s；审定库无对口条目，2026-11-22）；凭证 2026-11-22' % note,
+                 'date': '2026-11-22'})
+json.dump({'batch': '058-batch4-works', 'date': '2026-11-22',
+           'scope': '著作名第二批（术语在线无对口命中，依据权威译本）',
+           'rows': rows},
+          open(os.path.join(RES, 'rowspec-batch4-works.json'), 'w',
+               encoding='utf-8', newline='\n'), ensure_ascii=False, indent=1)
+print('rows=%d skipped=%d' % (len(rows), len(skipped)))
+for s in skipped:
+    print('  skip', s)
