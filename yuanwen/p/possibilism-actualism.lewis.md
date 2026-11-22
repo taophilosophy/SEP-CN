@@ -65,23 +65,23 @@ which, in effect, says that the actual world is the only possible world.[^note-1
 
 ## Notes（原文脚注，引自主文）
 
-[^note-95]: 95. See note 45 for the definitions of *de dicto* and *de re*.
+[^note-95]: 95\. See note 45 for the definitions of *de dicto* and *de re*.
 
-[^note-96]: 96. See also [note 19 of the entry on possible worlds](https://plato.stanford.edu/entries/possible-worlds/notes.html#19) for qualifications regarding the counterpart relation in Lewis’s mature theory.
+[^note-96]: 96\. See also [note 19 of the entry on possible worlds](https://plato.stanford.edu/entries/possible-worlds/notes.html#19) for qualifications regarding the counterpart relation in Lewis’s mature theory.
 
-[^note-97]: 97. Others have also argued that Lewis is an actualist or, at least, not a possibilist in the classical sense, e.g., van Inwagen (2008: 40–41), Williamson (2013: 22), and Plantinga (1987: 202–7).
+[^note-97]: 97\. Others have also argued that Lewis is an actualist or, at least, not a possibilist in the classical sense, e.g., van Inwagen (2008: 40–41), Williamson (2013: 22), and Plantinga (1987: 202–7).
 
-[^note-98]: 98. Bricker’s own preferred “non-traditional” version of Leibnizian realism specifies the truth conditions for propositions relative to *classes* of worlds rather than to single worlds (2006: 53). See Bricker 2001 for detailed motivations.
+[^note-98]: 98\. Bricker’s own preferred “non-traditional” version of Leibnizian realism specifies the truth conditions for propositions relative to *classes* of worlds rather than to single worlds (2006: 53). See Bricker 2001 for detailed motivations.
 
-[^note-99]: 99. McDaniel (2009: §6.2) suggests that Bricker’s gambit is best understood as the thesis that actuality and mere possibility are distinct modes of being. This would then be spelled out formally in terms of restricted quantifiers for both modes as detailed in §2 (of McDaniel 2009). However, the use here of only one type of restricted quantifier (for actually existing things) together with general, unrestricted quantifiers comports better with what Bricker calls *one-property* Leibnizian realism, on which there is but the one special mode of being indicated by “actuality”. McDaniel 2017 is a book-length development and defense of the idea that there are many modes of being. See van Inwagen 2014 for a robust critique of McDaniel’s thesis; van Inwagen 2009 provides helpful context.
+[^note-99]: 99\. McDaniel (2009: §6.2) suggests that Bricker’s gambit is best understood as the thesis that actuality and mere possibility are distinct modes of being. This would then be spelled out formally in terms of restricted quantifiers for both modes as detailed in §2 (of McDaniel 2009). However, the use here of only one type of restricted quantifier (for actually existing things) together with general, unrestricted quantifiers comports better with what Bricker calls *one-property* Leibnizian realism, on which there is but the one special mode of being indicated by “actuality”. McDaniel 2017 is a book-length development and defense of the idea that there are many modes of being. See van Inwagen 2014 for a robust critique of McDaniel’s thesis; van Inwagen 2009 provides helpful context.
 
-[^note-100]: 100. Bricker’s definition of concreteness is a bit idiosyncratic: concreteness is not identified with being part of the (or some) causal order, as on the Bolzanian conception; rather, it is to be “fully determinate in all qualitative respects” (2006: 41), which does not on its face entail Bolzanian concreteness. Other elements of Bricker’s view, however, especially the role of *possibilia* as objects of thought, suggest otherwise:
+[^note-100]: 100\. Bricker’s definition of concreteness is a bit idiosyncratic: concreteness is not identified with being part of the (or some) causal order, as on the Bolzanian conception; rather, it is to be “fully determinate in all qualitative respects” (2006: 41), which does not on its face entail Bolzanian concreteness. Other elements of Bricker’s view, however, especially the role of *possibilia* as objects of thought, suggest otherwise:
 
 > Suppose… that a merely possible gold dodecahedron is an object of my thought. I ask: does this object of my thought instantiate the properties, being gold and being a dodecahedron? Or does it instead somehow represent, or encode, or stand in some pseudo-instantiation relation to these properties? I say the former. (2006: 45)
 
 On the reasonable assumption that *being gold* entails existence within some causal order, typical *possibilia* for the Leibnizian realist will indeed be concrete in Bolzano’s sense.
 
-[^note-101]: 101. This is rather easier to see in the equivalent form
+[^note-101]: 101\. This is rather easier to see in the equivalent form
 
 $$\Pi \sfx ((\sfA!_{\exists}\sfx \land \sfC!\sfx) \lor \neg\Diamond \sfC!\sfx).$$
 

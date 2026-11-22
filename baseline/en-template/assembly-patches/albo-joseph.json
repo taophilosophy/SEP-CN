@@ -5,8 +5,8 @@
  "note": "格式层残差补丁：m=标记段、u=单元布局、r=纯布局区段；禁含散文",
  "stats": {
   "page_bytes": 66821,
-  "pool_bytes": 15700,
-  "n_patches": 62
+  "pool_bytes": 15665,
+  "n_patches": 61
  },
  "patches": [
   {
@@ -14,35 +14,6 @@
    "len": 5,
    "sha": "d24ff827d6aec3cc",
    "after": "</p>\n\n"
-  },
-  {
-   "u": 10231,
-   "len": 40,
-   "sha": "64fdbfd07c288fa5",
-   "items": [
-    [
-     "mk",
-     "<a href=\"#PriLit\">"
-    ],
-    [
-     "tx",
-     0,
-     7
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     7,
-     10
-    ],
-    [
-     "mk",
-     "</a>"
-    ]
-   ]
   },
   {
    "u": 10610,

@@ -112,10 +112,10 @@ It would be very desirable to also find mathematically fruitful combinatorial pr
 
 ## Notes（原文脚注，引自主文）
 
-[^note-56]: 56. For more details see Rathjen 1999a.
+[^note-56]: 56\. For more details see Rathjen 1999a.
 
-[^note-57]: 57. For more details see Rathjen 2015. As for the unprovability of $\Con(\PA)$ in **PA**, Gentzen (1943) explicitly states that his proof makes no appeal to the second incompleteness theorem.
+[^note-57]: 57\. For more details see Rathjen 2015. As for the unprovability of $\Con(\PA)$ in **PA**, Gentzen (1943) explicitly states that his proof makes no appeal to the second incompleteness theorem.
 
-[^note-58]: 58. In Rathjen 2015 the question is pondered whether the latter result could have been proved much earlier (from a technical as well as sociological point of view).
+[^note-58]: 58\. In Rathjen 2015 the question is pondered whether the latter result could have been proved much earlier (from a technical as well as sociological point of view).
 
 ### Notes to Appendix F

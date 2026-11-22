@@ -59,17 +59,17 @@ Aristotle (1a24–5) adds that when he speaks of the predicables “in” a subs
 
 Aristotle does not further characterise the “said of” or “in” relations upon which the account of substance in the *Categories* depends. And so, it is perhaps best to see Aristotle in *Categories* not as defining “substance”, so that someone wholly lacking the concept might come to understand it, but as exhibiting the marks and characteristics of a primitive concept on which we have an intuitive grasp. If we understand his project in this way, we can see Aristotle as presenting various marks of substance in the *Categories*. The marks of primary substance are:
 
-> 1. Being objects of predication but not being themselves predicable of anything else (at least, not in the way entities in the other categories are).
+> 1\. Being objects of predication but not being themselves predicable of anything else (at least, not in the way entities in the other categories are).
 >
-> 2. Being able to receive contraries (4a10). A substance can go from being hot to being cold, or from being red to being blue, but the instance of blue in an object cannot similarly take on and lose a wide range of attributes.
+> 2\. Being able to receive contraries (4a10). A substance can go from being hot to being cold, or from being red to being blue, but the instance of blue in an object cannot similarly take on and lose a wide range of attributes.
 >
-> 3. If substance did not exist it would be impossible for things in any of the other categories to exist. There could be no instances of properties if there were no substances to possess them.
+> 3\. If substance did not exist it would be impossible for things in any of the other categories to exist. There could be no instances of properties if there were no substances to possess them.
 
 But these criteria do not show why “dog” is a secondary substance term and “brown thing” is not. So we need marks for being a secondary substance, or substance concept. On this he says two things.
 
-> 4. “It is reasonable that, after the primary substances, their species and genera should be the only other things called (secondary) substance. For only they, of things predicated, reveal the primary substance”. (2b28–30)
+> 4\. “It is reasonable that, after the primary substances, their species and genera should be the only other things called (secondary) substance. For only they, of things predicated, reveal the primary substance”. (2b28–30)
 >
-> 5. “Of the secondary substances the species is more a substance than the genus, since it is nearer to the primary substance. For if one is to say of the primary substance what it is, it will be more apt to give the species than the genus”. (2b8–11)
+> 5\. “Of the secondary substances the species is more a substance than the genus, since it is nearer to the primary substance. For if one is to say of the primary substance what it is, it will be more apt to give the species than the genus”. (2b8–11)
 
 The second of these two points is less controversial than the first, for it is indubitable that species terms focus more precisely on particular things than generic terms. The first is, however, once again intuitive but not compelling. It appeals to the fundamental intuition that “dog” tells you what Fido is better than “brown thing” does, but does not really give a reason for this claim. Only in section 3.3, when we discuss Wiggins’s theory, will we find more formal reasons for treating species or sortal concepts as more revealing of “what something really is” than are other terms.
 
@@ -375,16 +375,16 @@ Jaworski is particularly clear in emphasising that he is a **causal pluralist** 
 
 It seems that modern hylomorphism faces the following dilemma. The following argument has appeal.
 
-> 1. The concept of structure is essential to all or most natural sciences.
+> 1\. The concept of structure is essential to all or most natural sciences.
 > 2. If something is essential to a valid mode of explanation or understanding, then it should be conceived realistically.
 >
 > therefore
 >
-> 3. There are real structures in the world.
+> 3\. There are real structures in the world.
 
 But the following also has appeal.
 
-> 4. It is sufficient for the concept of structure to be applicable that elements be appropriately arranged in the world, and these arrangements can be characterised without employing the notion of structure. This could be done by specifying the spatio-temporal location of the elements and their causal influence on each other.
+> 4\. It is sufficient for the concept of structure to be applicable that elements be appropriately arranged in the world, and these arrangements can be characterised without employing the notion of structure. This could be done by specifying the spatio-temporal location of the elements and their causal influence on each other.
 
 If (4) is correct, it looks as if, though our structural concepts are well grounded in reality, structures are not part of the basic furniture of the world. This is, in fact, the same issue as whether Kim’s exclusion principle applies to the special sciences: that is, if physics gives a sufficient causal account of the location of all matter, are the other sciences merely heuristics, but strictly epiphenomenal? (See Kim 2005, Robinson 2014, Simpson 2023: 29–32)[^kim-2005][^robinson-2014][^simpson-2023] Perhaps the status of form and structure cannot be solved in a modern context without solving the exclusion issue.
 

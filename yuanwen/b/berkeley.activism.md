@@ -70,9 +70,9 @@ There are two central components to Berkeley’s proposal. First, the replacemen
 
 One of the most interesting features of Berkeley’s discussion of money is that he is quite clear that the value of money doesn’t derive from either the value of the metal from which it is coined or from reserves backing it. Instead, the value of money derives from its acceptance as a marker of economic power. We can see this in these two queries:
 
-> 23. Whether money is to be considered as having an intrinsic value, or as being a commodity, a standard, a measure, or a pledge, as is variously suggested by writers? And whether the true idea of money, as such, be not altogether that of a ticket or counter?
+> 23\. Whether money is to be considered as having an intrinsic value, or as being a commodity, a standard, a measure, or a pledge, as is variously suggested by writers? And whether the true idea of money, as such, be not altogether that of a ticket or counter?
 >
-> 35. Whether power to command the industry of others be not real wealth? And whether money be not in truth tickets or tokens for conveying and recording such power, and whether it be of great consequence what materials the tickets are made of?
+> 35\. Whether power to command the industry of others be not real wealth? And whether money be not in truth tickets or tokens for conveying and recording such power, and whether it be of great consequence what materials the tickets are made of?
 
 What gives money its value, according to Berkeley, is that it can be used to procure goods and services from other people and this power derives from the willingness of people to accept money in return for goods and services. Berkeley thought that once it is recognized that the value of money does not derive from the value of the material from which it is made, it can be seen that paper money has many advantages over metal. It’s cheaper to produce and the supply of money can be adjusted without the necessity of obtaining or storing precious metals. Because of these factors Berkeley thinks that the supply of money of various denominations can be more easily matched to the demands of the economy (Queries, 226, 572). Berkeley was especially interested in the availability of money to enable small value transactions since one of his strategies for reducing poverty was to involve the poor in the cash economy.
 
@@ -90,43 +90,43 @@ The analogy also holds for two important structural features of the visual langu
 
 Berkeley begins *The Querist* with two queries that establish the basic assumptions he will use in deriving and justifying his proposals for improving conditions in Ireland:
 
-> 1. Whether there ever was, is, or will be, an industrious Nation poor, or an idle rich?
+> 1\. Whether there ever was, is, or will be, an industrious Nation poor, or an idle rich?
 >
-> 2. Whether a People can be called poor, where the common Sort are well fed, clothed, and lodged?
+> 2\. Whether a People can be called poor, where the common Sort are well fed, clothed, and lodged?
 
 Industry, productive labor, is the true source of wealth and the measure of the wealth of a nation is the well-being of ordinary people. The various proposals that Berkeley puts forward in *The Querist* are all aimed at increasing the industry of the Irish people and thereby, given a well-ordered society, improving the lot of the common sort. Berkeley thought that the structure of the Irish economy, especially the monetary system, made it difficult for the industrious to reap the benefits of their labor. He also thought that features of Irish society produced sloth in the poor and wasteful luxury in the better off.
 
 The way in which Irish society produces sloth and waste is by influencing the desires of the various groups that make up Irish society. For the poor, his diagnosis of the problem is their willingness to content themselves with mere subsistence:
 
-> 19. Whether the bulk of our Irish Natives are not kept from thriving, by that cynical Content in Dirt and Beggary, which they possess to a Degree beyond any other People in Christendom?
+> 19\. Whether the bulk of our Irish Natives are not kept from thriving, by that cynical Content in Dirt and Beggary, which they possess to a Degree beyond any other People in Christendom?
 
 Setting aside for now the moral judgment implied by calling their willingness to settle for mere subsistence “cynical”, it’s clear that Berkeley’s diagnosis is that the lack of industry in the poor is caused by their lack of appropriate desires. In order to change their behavior, we need to change what they want. We see a similar diagnosis in the case of the affluent, although the problem isn’t their lack of industry but rather the inappropriate use they make of their wealth:
 
-> 61. Whether he whose Luxury consumeth foreign Products, and whose Industry produceth nothing domestic to Exchange for them, is not so far forth injurious to his Country?
+> 61\. Whether he whose Luxury consumeth foreign Products, and whose Industry produceth nothing domestic to Exchange for them, is not so far forth injurious to his Country?
 
 In consuming foreign products, the well-off spend the product of their industry (or their ancestors’ industry) in a way that fails to benefit Irish society. Their consumption patterns result in the export of resources from Ireland that could have been used to stimulate the Irish economy for the ultimate benefit of the people of Ireland.
 
 Given this diagnosis, the obvious solution is to change what it is that the Irish of various classes want. And Berkeley is quite clear in *The Querist* that what people want is something they learn from their peers and is, as a result, something that is open to change. For the poor the problem is that they want too little. By wanting too little, they are only willing to work until they have just enough and that means it is not possible to change their condition by expedients like higher wages (or allowing them to keep more of what they grow). Instead, the way to change the behavior of the Irish poor is to create in them new desires:
 
-> 20. Whether the creating of Wants be not the likeliest way to produce Industry in a People? And whether if our Peasants were accustomed to eat Beef and wear Shoes they would not be more Industrious?
+> 20\. Whether the creating of Wants be not the likeliest way to produce Industry in a People? And whether if our Peasants were accustomed to eat Beef and wear Shoes they would not be more Industrious?
 
 By stimulating desires to acquire goods beyond those absolutely necessary for life, the poor will be motivated to work harder and thereby contribute to the growth of the Irish economy. For the affluent, the problem is not that they want too little but that they want the wrong things. Berkeley devotes a number of queries to questioning the desires of the affluent for foreign luxuries. Although Berkeley is clearly skeptical of the appropriateness of wanting luxury items at all, his focus is on those wants that he saw as having the most pernicious effect on the economy, namely those for items imported from abroad. We can see both these attitudes in this series of queries:
 
-> 161. How much of the necessary Sustenance of our People is yearly exported for Brandy?
+> 161\. How much of the necessary Sustenance of our People is yearly exported for Brandy?
 >
-> 162. Whether, if People must poison themselves, they had not better do it with their own Growth?
+> 162\. Whether, if People must poison themselves, they had not better do it with their own Growth?
 >
-> 163. If we imported neither Claret from France nor Fir from Norway, what the Nation would save by it?
+> 163\. If we imported neither Claret from France nor Fir from Norway, what the Nation would save by it?
 
 As Berkeley sees it, the poverty of a majority of the Irish people is not due to a shortage of resources but rather, in large part, to the distortions of the Irish economy caused by the failure of the poor to want enough and the inappropriate desire of the well-off for imported luxuries. The core of this part of his view is nicely summed up in Query 118:
 
-> 118. Suppose the Bulk of our Inhabitants had Shoes to their Feet, Cloathes to their Backs, and Beef in their Bellies? Might not such a State be eligible for the Public, even though the Squires were condemned to drink Ale and Cyder?
+> 118\. Suppose the Bulk of our Inhabitants had Shoes to their Feet, Cloathes to their Backs, and Beef in their Bellies? Might not such a State be eligible for the Public, even though the Squires were condemned to drink Ale and Cyder?
 
 #### B.3.2 Proper education and the penalty for sloth
 
 Berkeley thinks that a well-governed state should not only focus on removing obstacles to economic activity, like Ireland’s distorted monetary system, but should also intervene to ensure that the population has appropriate desires. To correct the inappropriate desires of the population the best solution is proper education which includes inculcation of the principles of the established church. Education, however, takes different forms depending on the social standing and affluence of the student. There should be schools for the well-off but apprenticeships for the poor:
 
-> 335. Whether a Sum, which would go but a little Way towards erecting Hospitals for maintaining and educating the Children of the Native Irish, might not go far in binding them out Apprentices to Protestant Masters, for Husbandry, useful Trades, and the service of Families?
+> 335\. Whether a Sum, which would go but a little Way towards erecting Hospitals for maintaining and educating the Children of the Native Irish, might not go far in binding them out Apprentices to Protestant Masters, for Husbandry, useful Trades, and the service of Families?
 
 Berkeley put some of these ideas into practice himself, setting up a spinning school for the children of the poor in his diocese and paying them in cash for their attendance. His own children, however, received education in classics from their father, and instruction in dancing from a dancing master. Both his interest in promoting the well-being of all of the Irish and his view that well-being consists in different things for different classes of people are evident in his own life.
 
@@ -134,17 +134,17 @@ As he emphasizes repeatedly in several of his publications Berkeley thought that
 
 Given this background, it’s striking how different his recommendations are when it comes to what he calls “idleness and beggary”. For those who are capable of work but not engaged in it, Berkeley’s cure is temporary slavery:
 
-> 577. Whether temporary Servitude would not be the best Cure for Idleness and Beggary?
+> 577\. Whether temporary Servitude would not be the best Cure for Idleness and Beggary?
 >
-> 579. Whether all sturdy Beggars should not be seized and made Slaves to the Public, for a certain Term of Years?
+> 579\. Whether all sturdy Beggars should not be seized and made Slaves to the Public, for a certain Term of Years?
 
 Berkeley gives two kinds of justification for this proposal in addition to the supposed deterrent effect of such punishment. First, that it has been tried and been found to be beneficial to the state:
 
-> 576. Whether other Nations have not found great Benefit from the Use of Slaves in repairing High-roads, making Rivers Navigable, draining Bogs, erecting public Buildings, Bridges, and Manufactures?
+> 576\. Whether other Nations have not found great Benefit from the Use of Slaves in repairing High-roads, making Rivers Navigable, draining Bogs, erecting public Buildings, Bridges, and Manufactures?
 
 And second, that his proposed policy of enslaving those that are poor and idle is, morally, no different from the accepted practice of imprisoning criminals:
 
-> 580. Whether he who is chained in a Jail or Dungeon hath not, for the Time, lost his Liberty? And if so, whether temporary Slavery be not already admitted among us?
+> 580\. Whether he who is chained in a Jail or Dungeon hath not, for the Time, lost his Liberty? And if so, whether temporary Slavery be not already admitted among us?
 
 Although Berkeley scorns the idle of all classes, it is only the poor for whom enslavement is proposed and his discussion of the Irish poor is infused with aversion and disgust. This comes out quite clearly in *A Word to the Wise*:
 
@@ -157,20 +157,20 @@ We can now see Berkeley’s troubling and confusing set of attitudes towards ens
 
 ## Notes（原文脚注，引自主文）
 
-[^note-48]: 48. The details of exactly what Berkeley’s version of passive obedience allows in terms of defying the commands of the sovereign is complicated and a matter of disagreement in the secondary literature. For an interesting argument that Berkeley’s principle allows for very little in the way of disobedience see (Airaksinen 2021, 2022).
+[^note-48]: 48\. The details of exactly what Berkeley’s version of passive obedience allows in terms of defying the commands of the sovereign is complicated and a matter of disagreement in the secondary literature. For an interesting argument that Berkeley’s principle allows for very little in the way of disobedience see (Airaksinen 2021, 2022).
 
-[^note-49]: 49. Rickless argues that Berkeley is best understood as adding an additional premise to the argument that we are morally obligated to do what God wills. The mere fact that God created and sustains us does not by itself justify the claim that we are obligated to do what God commands according to Rickless. In addition, the argument requires that the assumption that God is perfectly good (Rickless 2016, pp. 7–10). Berkeley clearly did accept the claim that God is perfectly good but doesn’t explicitly appeal to it in arguing for our obligation to obey God’s laws. We think it is unclear whether Berkeley thought his argument relied on these assumptions or not.
+[^note-49]: 49\. Rickless argues that Berkeley is best understood as adding an additional premise to the argument that we are morally obligated to do what God wills. The mere fact that God created and sustains us does not by itself justify the claim that we are obligated to do what God commands according to Rickless. In addition, the argument requires that the assumption that God is perfectly good (Rickless 2016, pp. 7–10). Berkeley clearly did accept the claim that God is perfectly good but doesn’t explicitly appeal to it in arguing for our obligation to obey God’s laws. We think it is unclear whether Berkeley thought his argument relied on these assumptions or not.
 
-[^note-50]: 50. Some interpreters focus only on the prudential source of the requirement to do what God commands (e.g. Darwall 2005). We think that the final two sentences of PO 6 clearly distinguish between interest and duty and claim that both sorts of considerations require acting in conformity to God’s will.
+[^note-50]: 50\. Some interpreters focus only on the prudential source of the requirement to do what God commands (e.g. Darwall 2005). We think that the final two sentences of PO 6 clearly distinguish between interest and duty and claim that both sorts of considerations require acting in conformity to God’s will.
 
-[^note-51]: 51. This might seem clear but it has been denied (Flage 2008) and there has been some debate in the literature over exactly how to understand Berkeley’s conception of God’s aim (Rickless 2016, Flage 2019).
+[^note-51]: 51\. This might seem clear but it has been denied (Flage 2008) and there has been some debate in the literature over exactly how to understand Berkeley’s conception of God’s aim (Rickless 2016, Flage 2019).
 
-[^note-52]: 52. Neither part of Berkeley’s proposal is original. The two most relevant precedents are John Law’s proposal of a system for Scotland involving a paper currency issued by a national bank and the use of paper currency in the American colonies, both of which are discussed in *The Querist*. Berkeley was familiar with the second from the time he spent in Rhode Island in the early 1730s.
+[^note-52]: 52\. Neither part of Berkeley’s proposal is original. The two most relevant precedents are John Law’s proposal of a system for Scotland involving a paper currency issued by a national bank and the use of paper currency in the American colonies, both of which are discussed in *The Querist*. Berkeley was familiar with the second from the time he spent in Rhode Island in the early 1730s.
 
-[^note-53]: 53. In 1721 there were resolutions passed in both houses of the Irish Parliament stating that anyone advocating a banking scheme would be “a Betrayer of the Liberty of his Country”. (Kelly 2010)
+[^note-53]: 53\. In 1721 there were resolutions passed in both houses of the Irish Parliament stating that anyone advocating a banking scheme would be “a Betrayer of the Liberty of his Country”. (Kelly 2010)
 
-[^note-54]: 54. We are influenced here by the recent biography Berkeley by Jones (Jones 2021, Chap. 7). Jones explores Berkeley’s attitudes and knowledge of the lives and values of others and makes the case that Berkeley had limited interest in, knowledge of, and sympathy for those with values and lives different from his own.
+[^note-54]: 54\. We are influenced here by the recent biography Berkeley by Jones (Jones 2021, Chap. 7). Jones explores Berkeley’s attitudes and knowledge of the lives and values of others and makes the case that Berkeley had limited interest in, knowledge of, and sympathy for those with values and lives different from his own.
 
-[^note-55]: 55. As his proposal for enslaving the able-bodied poor in Ireland suggests, Berkeley’s advocacy for some forms of slavery and his acceptance of other forms does not have an obvious root in what we would now describe as racism. In a sermon he preached to the Society for the Propagation of the Gospel in 1732, Berkeley identifies “an irrational contempt of Blacks, as Creatures of another Species” on the part of British planters as one of the chief obstacles to converting them to Christianity. (Berkeley [W] 3:122)
+[^note-55]: 55\. As his proposal for enslaving the able-bodied poor in Ireland suggests, Berkeley’s advocacy for some forms of slavery and his acceptance of other forms does not have an obvious root in what we would now describe as racism. In a sermon he preached to the Society for the Propagation of the Gospel in 1732, Berkeley identifies “an irrational contempt of Blacks, as Creatures of another Species” on the part of British planters as one of the chief obstacles to converting them to Christianity. (Berkeley [W] 3:122)
 
-[^note-56]: 56. Rozbicki (2001) has a fascinating discussion of early modern advocacy of enslaving the poor in Great Britain.
+[^note-56]: 56\. Rozbicki (2001) has a fascinating discussion of early modern advocacy of enslaving the poor in Great Britain.

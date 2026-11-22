@@ -252,25 +252,52 @@ B3.2 的 sha 全等清单即 OAIS fixity 账的实现形态；与 ADR-0076 已�
 
 **教训**：①“用账里的精确序号替换启发式”不是无条件改进——账 nth 与 md 出现次数不等时反而全盘错位（−9 实测），启发式＋局部守卫更稳；②转换层为了渲染而加的包裹（`wrap_naked_envs`）必须同时记进结构账，否则右逆无从还原。
 
+## 10.8 B3.2 第九批实施记（2026-11-22，字面编号段落转义）
+
+**缺陷（字面 `N.` 段落被 markdown 当有序列表，alyngton／kilvington 判例）**：H0 有 `<p>\n1. (Quantity) According…` 这类作者手打字面编号段落，全库 **224 处／35 件**（kilvington 35、alyngton 29、causation-law 16、rationality-historicist 15、fallacies 13）。md 行首 `N.` 被当列表项，右逆发 `<ol>` 吞掉数字，文字层缺 `1.`。
+
+**终法**：C 侧 `_escape_leading_hash` 扩为块级行首双义转义——`#`（标题）已有，新增 `^(\d+)\.` → `\1\\.`（仅字符串开头，不涉软换行）；R 侧先占位 `\.`→`\x18`、收尾还原为 `.`，使 `1.` 以字面形式落回 `<p>`。
+
+**实测**：B3.1 **1,569→1,585（+16，转红 0）**，转绿 16 件（alyngton／arnauld／causation-law／economics／fallacies／fatalism／kaspi-joseph／learning-formal／mind-indian-buddhism／nonexistent-objects／rationality-historicist／reference／teleological-arguments／tibbon／toleration／transcendental-arguments）；B3.2 池 **1,486→1,513（80.8%）／缺口 360／stale 0**，转池 27、失池 0，池占页 **39.50%**。
+
+**教训**：行首结构义（标题、列表号、引用号）必须在 C 侧**全部**枚举转义——只做 `#` 时 `N.` 成漏网；转义点选“反斜杠＋原字符”（`N\.`）而非占位符，md 可读性与右逆可逆性兼得（占位符只用于星/美元等会被强调/数学解析吃掉的字符）。
+
+## 10.9 B3.2 第十批实施记（2026-11-22，导航区逐字与书目定义表入账）
+
+**缺陷一（导航区被折行器改写，alain-locke 判例）**：`toc_block` 本是账内逐字（见 `article_ledger` 注），但 `wrap_article` 把 toc 的 `<li>` 一并交 `wrap_html`：标签计入宽度使短项被折（`2.1\nValue-Feelings`），`split(" ")` 又把 H0 的双空格坍成单空格（`2.  Axiology`→`2. Axiology`）。两者都落在**文字段**上，`_sub_diff` 按段键对齐时整页文字流错位，报 `unaligned text units`。终法：`wrap_article` 与 `related-entries` 同构地切出 `<div id="toc">…</div>` 不折（配平守卫：区间内若现 `<div` 则不切）。顺带修 `wrap_html` 连续空格保真（H0 正文 439 件有词间双空格：空 token 已记 n−1 个空格，词前再补一个分隔符）。
+
+**缺陷二（书目区定义表整块漏发，23 件全 gap）**：H0 文献区的缩写键块 `<dl class="sentag tag4em"><dt>[AOP]</dt><dd>…</dd>` 被 C 折成散文段落落进 md，而 `scan_bib` 的 `BI_START` 不含 `<dl>`，`bib_seq` 里就没有 dl 位——`_render_bib` 只按 seq 发射，md 那 16 个段落被整块丢弃（alain-locke：装配页从 `Abbreviations of Principal Works` 直接跳到 `Primary Literature`）。终法：账新增 **`bib_dl`**（`{"attrs": <dl 属性>, "pairs": [[dt_pidx, dd_pidx, dt_attrs, dd_attrs], …]}`，纯整数＋标签属性，**文字仍只从 md 段取**，合账注“禁含散文”）；`extract_bib_seq` 逐对用可见文等值在 References 散文序中定位（空 `<dt> </dt>` 不占位，contract-law 判例），配对不全则整块回落散文序逐件发 `p`（宁留结构差不丢文字）；`_render_bib` 按账发 `<dl>`/`<dt>`/`<dd>`。全库重抽账：变更 26 件，新增键只有 `bib_dl`。
+
+**实测**：池 **1,513→1,529（81.6%）／缺口 344／stale 0**，转池 16（addams-jane／alain-locke／contract-law／japanese-philosophy／kant-conceptualism／kant-hume-morality／leibniz-evil／luxemburg／meister-eckhart／nietzsche-aesthetics／reid-ethics／rorty／scholem／srigupta／vasubandhu／wilhelm-wundt），失池 0；池占页 **39.65%**。B3.1 不受影响（本批只动 R/账）。
+
+**残留族（本批定位，未修）**：①dl 的 dd 内嵌 `<ol>`（heidegger：`GA50` 项下 `1.… 2.…` 条目化，配对模型未覆盖）；②书目区首段说明文字被丢（leibniz-exoteric：`Note that all quotes from untranslated sources…`）；③书目区**整节**在 A 侧位置漂移（bruno：装配把 Bibliography 排在 Other Internet Resources 之后，H0 在前）；④交叉引用注 `see note 20` → md 空键 `[^note-]`（ratnakirti／boethius-dacia）；⑤dl 文字被 C 折进脚注定义、References 区无散文可配（leibniz-ethics／levinas：`[^csm-1985]: [**CSM I**] …` 一块多对）；⑥字符层漂移 `10−35`（U+2212）vs `10-35`（ibn-sina-natural，属 md/en 同步线）。
+
+**教训**：①“账记逐字”的区间必须**整体退出**后续文本处理器——折行器作用于全页时，逐字承诺即作废，且破坏的是文字段对齐（后果是整页 gap，不是局部补丁）；②列表类结构（ol/ul/dl）在 C 侧一律降级为散文，右逆要还原就必须把“哪些散文属于该结构”记进账：账记**索引与属性**，文字仍归 md，才是单一事实源；③配对失败要**回落**而非硬发，宁可留格式层差不制造文字层缺失。
+
 ## 11. 现状与下一步（开工卡，2026-11-22）
 
 **验收线现状**（现查口径，勿引快照）：
 
 | 判据 | 现状 | 取数命令 |
 | ---- | ---- | ---- |
-| B3.1 往返不动点 | **1,569/1,873（83.8%）**，集合级 0 退化（对 `results/assembly-scan-all.json`） | `python -B specs/053-en-template-audit/bin/reassemble.py --all --out <json>` |
-| B3.2 页面装配 | **pool 1,486（79.3%）／gap 387／stale 0**，池占页 38.59% | `python -B specs/053-en-template-audit/bin/page_assemble.py --all --build` |
+| B3.1 往返不动点 | **1,585/1,873（84.6%）**，集合级 0 退化（对 `results/assembly-scan-all.json`） | `python -B specs/053-en-template-audit/bin/reassemble.py --all --out <json>` |
+| B3.2 页面装配 | **pool 1,529（81.6%）／gap 344／stale 0**，池占页 39.65% | `python -B specs/053-en-template-audit/bin/page_assemble.py --all --build` |
 | I2/I3 转换保真 | `--gate` 0 issue（1,873 全过） | `python -B tools/check_yuanwen_fidelity.py --gate` |
 | 全库门禁 | check_all 17 项全绿 | `python -B tools/check_all.py` |
 
-**缺口 390 分族**（`script/tmp/b32_families2.py`，读 `results/page-scan-all.json` 的 gap 件）：md_extra 180／h0_extra 62／star 39／text 38／digit 39／math 24／ok? 5／entity 3。
+**缺口 344 分族**（`script/tmp/b32_families2.py <scan-json>`，读 gap 件）：md_extra 173／text 41／h0_extra 40／star 39／math 23／digit 19／ok? 6／entity 3。
 
-- **md_extra 180**：md 有而 H0 无＝md 与 en 版本差／译注污染，属 specs/001 同步线（`compare` 漂移），**不修规则**。
-- **h0_extra 62**：书目结构元素——`<ol>` 手排号 `1.`（H0 文字层有数字、R 发出 `<ol>` 吞号，alyngton／arnauld／fallacies 判例）、缩写键块 `[AOP]…`（alain-locke／burke／contract-law）、文献分节标题（`Primary Literature`／`Secondary Literature`／`Other References`，habermas／chimeras）、表题 `Table 1`／`Game 1.`（bayes-theorem／heytesbury）、交叉引用注（`See section 2, above.` boethius-dacia）。**需账记列表形态与分节标题**（账现有 bib_* 只覆盖主文献区）。
-- **star 39／text 38／digit 39／math 24**：逐件仍待定位。
+- **md_extra 173**：md 有而 H0 无＝md 与 en 版本差／译注污染，属 specs/001 同步线（`compare` 漂移），**不修规则**。这是当前最大族，B3.2 分母的收敛上限由它决定。
+- **h0_extra 40**：H0 文字层有、md 无的残留——本批已修书目 `<dl>` 缩写键块（`bib_dl`）；剩余按 §10.9 残留族：dd 内嵌 `<ol>`（heidegger）、书目区说明段（leibniz-exoteric）、书目区整节位置漂移（bruno）、交叉引用注 → 空键 `[^note-]`（ratnakirti／boethius-dacia）、dl 折进脚注定义（leibniz-ethics／levinas）、手排号与分节标题的漏网件。
+- **text 41／digit 19／star 39／math 23**：逐件仍待定位。
+- **ok? 6**：逐件判定器未报出可定位首差的件（多为区间合并到末尾仍不等，属多族叠加）。
 
-**已修复的两个缺陷（第八批，见 §10.7）**：①`links` 账把内文引用挂到题注标签——游标法＋题注跳过守卫（精确 nth 法实测 −9 已回退）；②裸排显示环境多出定界符——`math_forms` 账（`br`／`naked`）。
+**已修复（第九、十批，见 §10.8／§10.9）**：①字面编号段落转义（C `N\.`＋R 还原，B3.1 +16）；②导航区 toc 退出折行链＋`wrap_html` 连续空格保真；③`bib_dl` 结构账（书目区 dl 的 dt/dd→md 散文段索引，文字仍取自 md）。
 
-**下一批入口**：**书目 `<ol>` 手排号 vs 字面 `1.`**——C 的 ol→md 保留 `N. ` 前缀，R 无条件发 `<ol>`，而 H0 有手排数字时文字层含 `1.`；需在结构账记“该列表是 ol 还是字面编号”。其余 h0_extra 元素（缩写键块、文献分节标题、表题、交叉引用注）同批处理。
+**下一批入口**（按收益排序）：
+1. **分节标题与书目区位置**——bruno（Bibliography 应在 Other Internet Resources 之前）、leibniz-exoteric（书目区首段说明文字）、文献分节标题漏网件：查 `_render_bib`/`article_build` 的区序与 seq 覆盖。
+2. **交叉引用注空键**——`see note 20` → md `[^note-]`（ratnakirti／boethius-dacia）：属 C 侧注释键生成（`note-` 前缀空键），修 yuanwen.py 须全量重转＋B3.1 止损。
+3. **dd 内嵌 `<ol>`**——heidegger 判例：dt/dd 配对模型只支持并列段落，dd 内的有序列表被 C 折成多段后配对错位；候选＝`bib_dl` 的 pairs 扩为「dt + dd 多段」。
+4. **text/digit/star/math 逐件定位**（用 `script/tmp/probe_align2.py <slug>` 看拒录块首差）。
 
-**流程提醒**：动 C 必全量重转（`python -B tools/yuanwen.py --all-baselined`，约 18 分钟）＋B3.1 集合级对照止损；动 R/账只重跑 B3.1（约 10 分钟）＋建池（约 20 分钟）＋judge 复扫（约 25 分钟）；基线 `results/assembly-scan-all.json` 与 `results/page-scan-all.json` 只在收敛后人工更新并提交。
+**流程提醒**：动 C 必全量重转（`python -B tools/yuanwen.py --all-baselined`，约 18 分钟）＋B3.1 集合级对照止损；动 R/账只重跑 B3.1（约 10 分钟）＋建池（约 20 分钟）＋judge 复扫（约 25 分钟）；**账（article_ledger）重抽约 7 分钟，重抽后必须 diff 校验变更范围只含预期件与预期键**；基线 `results/assembly-scan-all.json` 与 `results/page-scan-all.json` 只在收敛后人工更新并提交。

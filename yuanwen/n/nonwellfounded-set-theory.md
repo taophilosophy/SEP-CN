@@ -1005,7 +1005,7 @@ I would like to thank Edward Zalta and Uri Nodelman for their advice, encouragem
 
 ### Notes to Supplement: Additional related modeling of circularity
 
-14. Another interesting topic in this regard is the connection between *domain theory* and coalgebra. We mention this because many final coalgebras may be built with domain theoretic tools, and many of the applications of coalgebra mentioned in this entry could also be obtained via domain theory. One specific example concerns corecursion, and closer to fractals, there are interesting domain-theoretic constructions: see Hayashi (1985)[^hayashi-1985] and Edalat (1995)[^edalat-1995].
+14\. Another interesting topic in this regard is the connection between *domain theory* and coalgebra. We mention this because many final coalgebras may be built with domain theoretic tools, and many of the applications of coalgebra mentioned in this entry could also be obtained via domain theory. One specific example concerns corecursion, and closer to fractals, there are interesting domain-theoretic constructions: see Hayashi (1985)[^hayashi-1985] and Edalat (1995)[^edalat-1995].
 
 [^aczel-1988]: Aczel, P., 1988, *Non-Well-Founded Sets* (CSLI Lecture Notes: Number 14), Stanford: CSLI Publications.
 

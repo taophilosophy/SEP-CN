@@ -118,6 +118,12 @@ def wrap_html(s, width):
                     continue
                 cur, pend = trial + " " + right + word, ""
                 continue
+            if brk and cur.endswith(" "):
+                # 连续空格串：`split(" ")` 的 n−1 个空 token 已各记一空格，
+                # 词前再补一个分隔符才等于原串长度（H0 正文 439 件有词间双空格）
+                cur += pend + " " + word
+                pend = ""
+                continue
             cur += pend + word
             pend = ""
     lines.append(cur + pend)
@@ -126,12 +132,22 @@ def wrap_html(s, width):
 
 def wrap_article(html, width):
     """只折 <p>/<li> 文本层（表格、标题、列表结构不动）；相关条目区不折
-    （该区一件一条链接，上游从不折行）。"""
+    （该区一件一条链接，上游从不折行）；导航区 toc 不折——账里 toc_block
+    本就逐字（article_ledger 注），而 wrap_html 把标签计入宽度且折叠连续
+    空格，会把短项误折（alain-locke 判例：`2.1\nValue-Feelings` 与
+    `2.  Axiology` 双空格坍缩，整页文字流错位）。"""
     if not width:
         return html
     cut = html.find('<div id="related-entries">')
     if cut > 0:
         return wrap_article(html[:cut], width) + html[cut:]
+    t = html.find('<div id="toc">')
+    if t >= 0:
+        e = html.find("</div>", t)
+        if e > 0 and "<div" not in html[t + len("<div"):e]:
+            e += len("</div>")
+            return (wrap_article(html[:t], width) + html[t:e]
+                    + wrap_article(html[e:], width))
     html = re.sub(r"<p>\n?(.*?)</p>",
                   lambda m: "<p>\n%s</p>" % wrap_html(m.group(1), width),
                   html, flags=re.S)
@@ -386,6 +402,15 @@ def _flat_li(html):
     return out
 
 
+def _p_inner(s):
+    """`<p>…</p>` 块剥壳（dl 的 dt/dd 内容取整块内文）；空串原样。"""
+    if s.startswith("<p>"):
+        s = s[len("<p>"):]
+    if s.endswith("</p>"):
+        s = s[:-len("</p>")]
+    return s
+
+
 def _render_bib(bib, hid_map, ledger):
     if not bib:
         return ""
@@ -500,6 +525,29 @@ def _render_bib(bib, hid_map, ledger):
                 # 散文被 C 折成定义行（`[^following-nd]:` 判例）：原位发 <p>
                 if isinstance(idx, int) and idx < len(items):
                     parts.append("<p>\n%s</p>\n\n" % items[idx])
+            elif kind == "dl":
+                # 定义表（缩写键块）：dt/dd 文字从 md 段取，属性由账记
+                # （alain-locke 判例：旧实现整块漏发，23 件书目区 dl 全 gap）
+                dls = ledger.get("bib_dl") or []
+                if isinstance(idx, int) and idx < len(dls):
+                    rec = dls[idx]
+                    rows = []
+                    for pair in rec.get("pairs") or []:
+                        dt_i, dd_i = pair[0], pair[1]
+                        dt_a = pair[2] if len(pair) > 2 else ""
+                        dd_a = pair[3] if len(pair) > 3 else ""
+                        dt_in = (_p_inner(ps[dt_i])
+                                 if isinstance(dt_i, int) and dt_i < len(ps)
+                                 else "")
+                        dd_in = (_p_inner(ps[dd_i])
+                                 if isinstance(dd_i, int) and dd_i < len(ps)
+                                 else "")
+                        rows.append("<dt%s>%s</dt>\n<dd%s>%s</dd>"
+                                    % (dt_a, dt_in, dd_a, dd_in))
+                    if rows:
+                        parts.append("<dl%s>\n%s\n</dl>\n\n"
+                                     % (rec.get("attrs") or "",
+                                        "\n".join(rows)))
             elif kind in ("ul", "ol"):
                 if kind == "ul" and tree and ul_i[0] < len(tree):
                     nodes = tree[ul_i[0]].get("nodes") or []

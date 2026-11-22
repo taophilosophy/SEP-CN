@@ -445,7 +445,7 @@ A recent attempt to render PI as a deductive argument is by Timothy Lyons. He (2
 
 **(D)**
 
-1. If (a) the realist meta-hypothesis were true, then (b) we would have no successful theories that cannot be approximately true. (If we did, each would be a “miracle,” which no one of us accepts.)
+1\. If (a) the realist meta-hypothesis were true, then (b) we would have no successful theories that cannot be approximately true. (If we did, each would be a “miracle,” which no one of us accepts.)
 
 **2.**
 

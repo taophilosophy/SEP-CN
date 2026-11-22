@@ -85,12 +85,12 @@ With the help of the Ω-rule one obtains an ordinal analysis of (**BI**.); see B
 
 ## Notes（原文脚注，引自主文）
 
-[^note-51]: 51. Brouwer did not include (Hyp 2) among the hypothesis. It expresses the “monotonicity” of the bar. Classically it’s rather superfluous but intuitionistically it is essential as Kleene observed: $\BI_{\igen}$ formulated without (Hyp 2) yields instances of excluded middle that are incompatible with Brouwer’s continuity principles (Kleene & Vesley 1965: 7.14).
+[^note-51]: 51\. Brouwer did not include (Hyp 2) among the hypothesis. It expresses the “monotonicity” of the bar. Classically it’s rather superfluous but intuitionistically it is essential as Kleene observed: $\BI_{\igen}$ formulated without (Hyp 2) yields instances of excluded middle that are incompatible with Brouwer’s continuity principles (Kleene & Vesley 1965: 7.14).
 
-[^note-52]: 52. A bar *B* gives rise to a well-founded ordering $\prec$ on $\bbN^*$ where $t\prec s$ means that *t* is a node above *s* and $t\notin B$. Viewed in this way, $\BI_{\igen}$ is a principle of transfinite induction along $\prec$. For the implication $\BI_{\igen}\to{\bCA}$ to hold it is important that *B* can be of arbitrary complexity. Thus the moral drawable from this is that impredicative comprehension can be deduced from transfinite induction on impredicatively defined orderings.
+[^note-52]: 52\. A bar *B* gives rise to a well-founded ordering $\prec$ on $\bbN^*$ where $t\prec s$ means that *t* is a node above *s* and $t\notin B$. Viewed in this way, $\BI_{\igen}$ is a principle of transfinite induction along $\prec$. For the implication $\BI_{\igen}\to{\bCA}$ to hold it is important that *B* can be of arbitrary complexity. Thus the moral drawable from this is that impredicative comprehension can be deduced from transfinite induction on impredicatively defined orderings.
 
-[^note-53]: 53. Girard is also very skeptical about the intuitionistic setting of Spector’s interpretation: “all these topics have *nothing to do* with intuitionism” (Girard 1987: 479).
+[^note-53]: 53\. Girard is also very skeptical about the intuitionistic setting of Spector’s interpretation: “all these topics have *nothing to do* with intuitionism” (Girard 1987: 479).
 
-[^note-54]: 54. As a matter of clarification, cut free proofs are not allowed to contain other instances of $\tilde{\Omega}$.
+[^note-54]: 54\. As a matter of clarification, cut free proofs are not allowed to contain other instances of $\tilde{\Omega}$.
 
 ### Notes to Appendix D

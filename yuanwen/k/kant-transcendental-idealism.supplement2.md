@@ -21,8 +21,8 @@ Finally, regarding the idea of a “theocentric” paradigm of knowledge, Kant h
 
 ## Notes（原文脚注，引自主文）
 
-[^note-69]: 69. In the second *Critique* Kant does identify Hume as a transcendental realist (Ak. 5:53); Beiser (2002), however, argues that this is because Kant knew Hume only from the first *Enquiry* and was thus unaware of the phenomenalist elements in the *Treatise*.
+[^note-69]: 69\. In the second *Critique* Kant does identify Hume as a transcendental realist (Ak. 5:53); Beiser (2002), however, argues that this is because Kant knew Hume only from the first *Enquiry* and was thus unaware of the phenomenalist elements in the *Treatise*.
 
-[^note-70]: 70. The only evidence Allison gives for this claim are some texts (quoted earlier) in which Kant calls transcendental realism the ‘common prejudice’ and a passage from his notes for the *What real progress?* essay in which Kant claims that all philosophy before the *Critique* was essentially the same (Ak. 20: 287, 377).
+[^note-70]: 70\. The only evidence Allison gives for this claim are some texts (quoted earlier) in which Kant calls transcendental realism the ‘common prejudice’ and a passage from his notes for the *What real progress?* essay in which Kant claims that all philosophy before the *Critique* was essentially the same (Ak. 20: 287, 377).
 
-[^note-71]: 71. Cf. B71 and a long passage in the Pölitz lectures on theology (Ak. 28: 1053–4) where Kant expresses agnosticism about whether, after death, our separated souls might be able to cognize things in themselves.
+[^note-71]: 71\. Cf. B71 and a long passage in the Pölitz lectures on theology (Ak. 28: 1053–4) where Kant expresses agnosticism about whether, after death, our separated souls might be able to cognize things in themselves.

@@ -5,8 +5,8 @@
  "note": "格式层残差补丁：m=标记段、u=单元布局、r=纯布局区段；禁含散文",
  "stats": {
   "page_bytes": 93486,
-  "pool_bytes": 72118,
-  "n_patches": 85
+  "pool_bytes": 72083,
+  "n_patches": 84
  },
  "patches": [
   {
@@ -7708,35 +7708,6 @@
    "len": 5,
    "sha": "d24ff827d6aec3cc",
    "after": "</p>\n\n"
-  },
-  {
-   "u": 14525,
-   "len": 39,
-   "sha": "1f6d532d2623963d",
-   "items": [
-    [
-     "mk",
-     "<a href=\"#GenOve\">"
-    ],
-    [
-     "tx",
-     0,
-     7
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     7,
-     9
-    ],
-    [
-     "mk",
-     "</a>"
-    ]
-   ]
   },
   {
    "u": 15076,

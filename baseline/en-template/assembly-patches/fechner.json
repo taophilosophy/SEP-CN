@@ -5,8 +5,8 @@
  "note": "格式层残差补丁：m=标记段、u=单元布局、r=纯布局区段；禁含散文",
  "stats": {
   "page_bytes": 96311,
-  "pool_bytes": 73758,
-  "n_patches": 135
+  "pool_bytes": 73714,
+  "n_patches": 134
  },
  "patches": [
   {
@@ -14,44 +14,6 @@
    "len": 9,
    "sha": "e0e477e9d15735d5",
    "after": "</div>\n\n"
-  },
-  {
-   "u": 8765,
-   "len": 40,
-   "sha": "78974aecf6ddcdf1",
-   "items": [
-    [
-     "mk",
-     "<a href=\"#WorkFech\">"
-    ],
-    [
-     "tx",
-     0,
-     5
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     5,
-     2
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     7,
-     7
-    ],
-    [
-     "mk",
-     "</a>"
-    ]
-   ]
   },
   {
    "u": 9192,

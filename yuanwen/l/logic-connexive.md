@@ -119,7 +119,7 @@ Note that if a logic implements the cancellation view of negation, it will also 
 
 Accordingly then, for Routley (Routley *et al*. 1982, p. 82)[^routley-1982] connexivism has two leading theses, namely:
 
-> 1. Simplification (*A* ∧ *B* → *A*, *A* ∧ *B* → *B*) fails to hold, and its use ... is what is responsible for the paradoxes of implication ...
+> 1\. Simplification (*A* ∧ *B* → *A*, *A* ∧ *B* → *B*) fails to hold, and its use ... is what is responsible for the paradoxes of implication ...
 > 2. Every statement is self-consistent, symbolically *A* ◇ *A*, where the relation of consistency with, symbolised ◇, is interconnected with implication in the standard fashion: *A* ◇ *B* ↔. ~(*A* → ~*B*).
 
 The cancellation view of negation has been heavily criticized in Wansing and Skurt 2018, where it is stressed that connexive logic can be detached from the notion of negation as erasure and the failure of Conjunctive Simplification.

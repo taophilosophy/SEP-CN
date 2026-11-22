@@ -248,7 +248,8 @@ def norm_html(s):
         re.sub(r"<[^>]*>", "", s))).strip()
 
 
-BI_START = re.compile(r"<h([2-6])[^>]*>|<ul[^>]*>|<ol[^>]*>|<table[^>]*>|<p>", re.S)
+BI_START = re.compile(r"<h([2-6])[^>]*>|<ul[^>]*>|<ol[^>]*>|<table[^>]*>"
+                      r"|<dl[^>]*>|<p>", re.S)
 
 
 def _match_close(region, start, open_pat, close_pat):
@@ -295,7 +296,8 @@ def split_items(inner):
 
 
 def scan_bib(region):
-    """文献区按文档序解析 → [("h", level, inner) | ("ul", [(attrs, inner)]) | ("p", inner)]"""
+    """文献区按文档序解析 → [("h", level, inner) | ("ul", [(attrs, inner)])
+    | ("dl", attrs, [(dt_attrs, dt_inner, dd_attrs, dd_inner)]) | ("p", inner)]"""
     out = []
     i = 0
     while i < len(region):
@@ -322,6 +324,20 @@ def scan_bib(region):
             if not t:
                 break
             out.append(("table", region[m.start():t.end()]))
+            i = t.end()
+        elif m.group(0).startswith("<dl"):
+            # 文献区定义表（缩写键块 `<dt>[AOP]</dt><dd>&ldquo;…&rdquo;</dd>`、
+            # 著作表 `<dt>[GA 2]</dt><dd>…</dd>`）：C 侧折成散文段，文字在 md，
+            # 结构（dl/dt/dd 属性）只此一侧有（alain-locke 判例：23 件）
+            t = _match_close(region, m.end(), r"<dl[^>]*>", r"</dl>")
+            if not t:
+                break
+            inner = region[m.end():t.start()]
+            pairs = [(pm.group(1), pm.group(2), pm.group(3), pm.group(4))
+                     for pm in re.finditer(
+                         r"<dt([^>]*)>(.*?)</dt>\s*<dd([^>]*)>(.*?)</dd>",
+                         inner, re.S)]
+            out.append(("dl", m.group(0)[len("<dl"):-len(">")], pairs))
             i = t.end()
         else:
             e = region.find("</p>", m.end())
@@ -442,7 +458,11 @@ def _bib_region(art_inner):
 
 
 def extract_bib_seq(art_inner, md):
-    """文献区块序账：[[kind, idx], …]，kind ∈ h/p/pd/ul/table（纯整数＋结构位）。"""
+    """文献区块序账：[[kind, idx], …]，kind ∈ h/p/pd/ul/table/dl。
+
+    dl 另出配对账（纯整数 + 标签属性；文字仍只从 md 取）：dls[k] 记
+    {"attrs": <dl 开标签属性>, "pairs": [[dt_pidx, dd_pidx, dt_attrs,
+    dd_attrs], …]}，pidx 为 md 散文段序（与 R 侧 ps 同序）。"""
     if not md:
         return None
     # bibliography 的收口形态不齐（adorno 等件结尾无 `</div> ` 尾随空格），
@@ -469,6 +489,7 @@ def extract_bib_seq(art_inner, md):
             if not m.group(1).startswith("note-")]
     defs_plain = [norm_md(t) for t in defs]
     used, seq = set(), []
+    dls = []
     hi = pi = 0
     for blk in scan_bib(bib_region):
         if blk[0] == "h":
@@ -490,6 +511,44 @@ def extract_bib_seq(art_inner, md):
         elif blk[0] == "table":
             # 表格块按原样发（R 侧 md 表格已渲染 HTML；位形差由标记层补丁吸收）
             seq.append(["table", None])
+        elif blk[0] == "dl":
+            # dt/dd 逐对定位 md 散文段（文字只从 md 取；属性只记结构）
+            rec = {"attrs": blk[1], "pairs": []}
+            pi0, ok = pi, True
+            for dt_attrs, dt_in, dd_attrs, dd_in in blk[2]:
+                # 空 dt/dd（`<dt> </dt>` 无 md 段，contract-law 判例）不入配对
+                dti = None
+                if norm_html(dt_in):
+                    dti = next((i for i in range(pi, len(md_prose))
+                                if md_prose[i] == norm_html(dt_in)), None)
+                    if dti is None:
+                        ok = False
+                        break
+                    pi = dti + 1
+                ddi = None
+                if norm_html(dd_in):
+                    ddi = next((i for i in range(pi, len(md_prose))
+                                if md_prose[i] == norm_html(dd_in)), None)
+                    if ddi is None:
+                        ok = False
+                        break
+                    pi = ddi + 1
+                rec["pairs"].append([dti, ddi, dt_attrs, dd_attrs])
+            if ok and rec["pairs"]:
+                dls.append(rec)
+                seq.append(["dl", len(dls) - 1])
+            else:
+                # 配对失败回落散文序：文字不丢，dl 位形交补集池（A5）
+                pi = pi0
+                for dt_in, dd_in in [(p[1], p[3]) for p in blk[2]]:
+                    for txt in (dt_in, dd_in):
+                        vis = norm_html(txt)
+                        k = next((i for i in range(pi, len(md_prose))
+                                  if md_prose[i] == vis), None)
+                        if k is None:
+                            continue
+                        pi = k + 1
+                        seq.append(["p", k])
         else:
             vis = norm_html(blk[1])
             idx = next((i for i in range(pi, len(md_prose))
@@ -503,7 +562,7 @@ def extract_bib_seq(art_inner, md):
             if di is not None:
                 used.add(di)
             seq.append(["pd", di])
-    return seq
+    return seq, dls
 
 
 def extract_tables(art_inner):
@@ -614,9 +673,11 @@ def extract(art_inner, md=None):
                     led["bib_indices"] = idx
                 if ids:
                     led["bib_ids"] = {str(k): v for k, v in ids.items()}
-            seq = extract_bib_seq(art_inner, md)
+            seq, dls = extract_bib_seq(art_inner, md)
             if seq is not None:
                 led["bib_seq"] = seq
+            if dls:
+                led["bib_dl"] = dls
             tree = extract_bib_tree(art_inner, defs)
             if tree:
                 led["bib_tree"] = tree

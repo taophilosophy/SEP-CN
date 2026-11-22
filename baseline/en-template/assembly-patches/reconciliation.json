@@ -5,8 +5,8 @@
  "note": "格式层残差补丁：m=标记段、u=单元布局、r=纯布局区段；禁含散文",
  "stats": {
   "page_bytes": 100280,
-  "pool_bytes": 30783,
-  "n_patches": 143
+  "pool_bytes": 30751,
+  "n_patches": 142
  },
  "patches": [
   {
@@ -4629,35 +4629,6 @@
    "len": 5,
    "sha": "d24ff827d6aec3cc",
    "after": "</p>\n\n"
-  },
-  {
-   "u": 16882,
-   "len": 32,
-   "sha": "f6ae41c5ce9b863f",
-   "items": [
-    [
-     "mk",
-     "<a href=\"#Apo\">"
-    ],
-    [
-     "tx",
-     0,
-     3
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     3,
-     9
-    ],
-    [
-     "mk",
-     "</a>"
-    ]
-   ]
   },
   {
    "m": 18221,

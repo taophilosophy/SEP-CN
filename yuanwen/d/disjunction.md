@@ -425,7 +425,7 @@ As Kamp (1973)[^kamp-1973] pointed out, plainly making the Free Choice principle
 
 **(39)**
 
-1. $P p$   [assumption]
+1\. $P p$   [assumption]
 
 **2.**
 

@@ -202,9 +202,9 @@ Unlike technological resources, then, things in the heightened sense depend on a
 
 ## Notes（原文脚注，引自主文）
 
-[^note-102]: 102. “The people of this earth are challenged by the unconditional dominance of the essence of modern technology, together with technology itself, to order the whole of the world into a uniform condition, secured by a final world-formula, and for that reason available as a calculable resource. The challenge that provokes us to such making-available orders everything into a single design” (GA4: 178).
+[^note-102]: 102\. “The people of this earth are challenged by the unconditional dominance of the essence of modern technology, together with technology itself, to order the whole of the world into a uniform condition, secured by a final world-formula, and for that reason available as a calculable resource. The challenge that provokes us to such making-available orders everything into a single design” (GA4: 178).
 
-[^note-103]: 103. See also Wrathall & Lambeth 2011: 180:
+[^note-103]: 103\. See also Wrathall & Lambeth 2011: 180:
 
 > Though the ancient Greeks were responsive to the entities around them, something apparent in their ability to shift attunements in response to a multiplicity of gods, they did not really conceive of themselves as playing a part in a process of mutual attuning. Things would whoosh up before them, and this could strike them as terrifying or awe-inspiring. They experienced certain things as happening to them, gods and entities as coming upon them, but they did not see themselves as taking part in the process of world disclosure.
 
@@ -216,20 +216,20 @@ Heidegger explains, is
 
 > the belonging together of being and human beings. In this belonging together, those that belong together are no longer being and human being, but rather—as adapted—mortals in the fourfold of the world. (GA10: 51)
 
-[^note-104]: 104. See also GA9: 368 / P 279: “If our thinking should succeed in its efforts to go back into the ground of metaphysics”, Heidegger observes in 1949, “it might well help to bring about a change in the human essence, a change accompanied by a transformation of metaphysics”.
+[^note-104]: 104\. See also GA9: 368 / P 279: “If our thinking should succeed in its efforts to go back into the ground of metaphysics”, Heidegger observes in 1949, “it might well help to bring about a change in the human essence, a change accompanied by a transformation of metaphysics”.
 
-[^note-105]: 105. See GA5: 111 / OTBT 84. See also GA48: 213:
+[^note-105]: 105\. See GA5: 111 / OTBT 84. See also GA48: 213:
 
 > Man therefore does not become a subject by withdrawing into himself and isolating himself from the world, but rather by discovering the world, conquering the world, researching the world, dominating the world, ruling the world in an ever more pure and unconditional way.
 
 One can detect in this passage from the late 1930s and early 1940s Heidegger’s growing disillusionment with the ethno-nationalist politics of the National Socialists.
 
-[^note-106]: 106. See also GA100: 283: “the pure abandonment of metaphysics” only happens, Heidegger claims, “from the simple dwelling in the fourfold, as conditioned by things” (*einfach be-dingten Wohnen im Geviert.*)
+[^note-106]: 106\. See also GA100: 283: “the pure abandonment of metaphysics” only happens, Heidegger claims, “from the simple dwelling in the fourfold, as conditioned by things” (*einfach be-dingten Wohnen im Geviert.*)
 
-[^note-108]: 108. “Dwelling is accomplished”, Heidegger explains, “in such a way that it conserves the world into things…. Conserving the world into things requires things that grant to the inhabited world and thus to dwelling a place to stay” (GA80.2: 1077).
+[^note-108]: 108\. “Dwelling is accomplished”, Heidegger explains, “in such a way that it conserves the world into things…. Conserving the world into things requires things that grant to the inhabited world and thus to dwelling a place to stay” (GA80.2: 1077).
 
-[^note-109]: 109. “Like Heidegger, deep ecologists criticize the metaphysical presuppositions allegedly responsible for ecological destruction, and also contend that a transformed awareness of what humanity and nature ‘are’ would lead spontaneously to a transformation of society. The solution to the environmental crisis, then, would involve an ontological shift: from an anthropocentric, dualistic, and utilitarian understanding of nature to an understanding which ‘lets things be’, i.e., which discloses things other than merely as raw material for human ends. A nonanthropocentric humanity, having undergone what amounts to a spiritual transformation, would presumably develop attitudes, practices, and institutions that would exhibit respect and care for all beings” (Zimmerman 1993: 196).
+[^note-109]: 109\. “Like Heidegger, deep ecologists criticize the metaphysical presuppositions allegedly responsible for ecological destruction, and also contend that a transformed awareness of what humanity and nature ‘are’ would lead spontaneously to a transformation of society. The solution to the environmental crisis, then, would involve an ontological shift: from an anthropocentric, dualistic, and utilitarian understanding of nature to an understanding which ‘lets things be’, i.e., which discloses things other than merely as raw material for human ends. A nonanthropocentric humanity, having undergone what amounts to a spiritual transformation, would presumably develop attitudes, practices, and institutions that would exhibit respect and care for all beings” (Zimmerman 1993: 196).
 
-[^note-110]: 110. A poetic dwelling consists in “the way [mortals] preserve the fourfold in its essence” (GA7: 152 / PLT 148).
+[^note-110]: 110\. A poetic dwelling consists in “the way [mortals] preserve the fourfold in its essence” (GA7: 152 / PLT 148).
 
-[^note-111]: 111. “[E]arth and sky, divinities and mortals, united to each other of their own accord, belong together by way of the simpleness of the united fourfold. Each of the four reflects in its own way the essence of the others. At the same time, each in its own way is reflected back into its own, within the simple onefold of the four…. None of the four insists on its own separate particularity”. (GA7: 171 / PLT 179).
+[^note-111]: 111\. “[E]arth and sky, divinities and mortals, united to each other of their own accord, belong together by way of the simpleness of the united fourfold. Each of the four reflects in its own way the essence of the others. At the same time, each in its own way is reflected back into its own, within the simple onefold of the four…. None of the four insists on its own separate particularity”. (GA7: 171 / PLT 179).

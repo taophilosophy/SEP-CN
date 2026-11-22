@@ -100,15 +100,15 @@ As a Mahāyāna Buddhist, Śāntideva advises practitioners to adopt the Awakeni
 
 > III. 27. As a blind man might find a jewel in heaps of rubbish, so too this Awakening Mind has somehow appeared in me.
 >
-> 28. This is the elixir of life, born to end death in the world. This is the inexhaustible treasure, alleviating poverty in the world.
+> 28\. This is the elixir of life, born to end death in the world. This is the inexhaustible treasure, alleviating poverty in the world.
 >
-> 29. This is the supreme medicine, curing the sickness of the world, a tree of shelter for weary creatures staggering along the road of existence;
+> 29\. This is the supreme medicine, curing the sickness of the world, a tree of shelter for weary creatures staggering along the road of existence;
 >
-> 30. The causeway to cross over bad rebirths, open to all who travel. It is the rising moon of the mind, mitigating the defilements of the world.
+> 30\. The causeway to cross over bad rebirths, open to all who travel. It is the rising moon of the mind, mitigating the defilements of the world.
 >
-> 31. It is the brilliant sun, dispelling the mist of ignorance from the world. It is the fresh butter risen up from churning the milk of the true Dharma.
+> 31\. It is the brilliant sun, dispelling the mist of ignorance from the world. It is the fresh butter risen up from churning the milk of the true Dharma.
 >
-> 32. For the caravan of humanity traveling the road of existence, hungry for the enjoyment of happiness, this is a feast of happiness offered as refreshment to all who approach.
+> 32\. For the caravan of humanity traveling the road of existence, hungry for the enjoyment of happiness, this is a feast of happiness offered as refreshment to all who approach.
 >
 > 33ab. Today I summon the world to Buddhahood and, meanwhile, to happiness. (translation slightly altered from C&S: 22)
 
@@ -167,9 +167,9 @@ Commentators have tended to analyze the passage in question as having two major 
 
 > VIII.94. I should dispel the suffering of others because it is suffering like my own suffering. I should help others too because of their nature as beings, which is like my own being.
 >
-> 95. When happiness is dear to me and others equally, what is so special about me that I strive after happiness only for myself?
+> 95\. When happiness is dear to me and others equally, what is so special about me that I strive after happiness only for myself?
 >
-> 96. When fear and suffering are disliked by me and others equally, what is so special about me that I protect myself and not the other? (translation slightly altered from C&S: 96)
+> 96\. When fear and suffering are disliked by me and others equally, what is so special about me that I protect myself and not the other? (translation slightly altered from C&S: 96)
 
 This is a far more powerful argument than Mill’s failed “proof” of utilitarianism. In highlighting the fundamental and undeniable similarity between ourselves and everyone else, it calls us to broaden our concern and care without limit, and to recognize the moral call of suffering and need, wherever they might be found. It stands as a lasting challenge to all those who seek to limit the scope or curtail the demands of morality. This argument was so central to Śāntideva’s intellectual and religious project that he made it the very first of the root verses of the *ŚS*.
 
@@ -179,11 +179,11 @@ The second part of the passage answers this objection with a line of reasoning n
 
 > IX.97. If I give them no protection because their suffering does not afflict me, why do I protect my body against future suffering when it does not afflict me?
 >
-> 99. If you think it is for the person who has the pain to guard against it, a pain in the foot is not of the hand, so why is the one protected by the other?
+> 99\. If you think it is for the person who has the pain to guard against it, a pain in the foot is not of the hand, so why is the one protected by the other?
 >
-> 101. The continuum of consciousness, like a queue, and the combination of constituents, like an army, are not real. The person who experiences suffering does not exist. To whom will that suffering belong?
+> 101\. The continuum of consciousness, like a queue, and the combination of constituents, like an army, are not real. The person who experiences suffering does not exist. To whom will that suffering belong?
 >
-> 102. Without exception, no sufferings belong to anyone. They must be warded off simply because they are suffering. Why is any limitation put on this? (see C&S: 96–97)
+> 102\. Without exception, no sufferings belong to anyone. They must be warded off simply because they are suffering. Why is any limitation put on this? (see C&S: 96–97)
 
 In response to the objection that personal identity justifies special concern, Śāntideva simply denies that there is a real relation of personal identity. This denial is based on a long philosophical tradition within Buddhism, stretching back to its earliest days, of defenses and expositions of the doctrine of no self, the most important and distinctive of all Buddhist teachings. But Śāntideva employs that doctrine in what may well have been a novel way. It is quite common for Buddhist texts to assert that if we can realize experientially that there is no substantial self, this realization will cause us to be more altruistic. What Śāntideva argues here is that an intellectual understanding of the absence of any self can give us reason to affirm altruism as supremely rational and egoism as rationally untenable. In this respect, Śāntideva anticipates the central argument of Derek Parfit’s celebrated book *Reasons and Persons* (Parfit 1984; see especially ch. 14–15)[^parfit-1984].
 

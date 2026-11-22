@@ -562,9 +562,9 @@ Philoponus’ comments in Arabic have been partially translated into English by 
 
 [^note-30]: Abû Nasr al-Farabi, *On the perfect state* (*Mabadi’ ara’ ahl al-madinat al-fadila*), 1985;.
 
-[^note-31]: 31. IB-coll-alawi: n° 12, pp. 197–202. Dunlop 1984, pp. 296–299. IB-danesh 1988, v. 3, p. 325–329.
+[^note-31]: 31\. IB-coll-alawi: n° 12, pp. 197–202. Dunlop 1984, pp. 296–299. IB-danesh 1988, v. 3, p. 325–329.
 
-[^note-32]: 32. His poetic activity may have been the cause for misattributing to him a whole diwan, see Dunlop 1952.
+[^note-32]: 32\. His poetic activity may have been the cause for misattributing to him a whole diwan, see Dunlop 1952.
 
 [^for-nd]: For more information about the sources for (Ibn Bâjja) Avempace’s biography, see the supplement on “[Sources for Ibn Bâjja’s Biography](ibn-bajja.ibn-bajja-biography.md).”
 

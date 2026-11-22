@@ -197,9 +197,9 @@ Russell concluded that even if there are no ultimate simples, no fundamental lay
 
 Another important issue often discussed in connection with logical atomism worth discussing in greater detail is the supposition that atomic propositions are logically independent of each other, or that the truth or falsity of any one atomic proposition does not logically imply or necessitate the truth or falsity of any other atomic proposition. This supposition is often taken to be a central aspect of the very notion of “logical atomism”, perhaps largely because it is found explicitly in Wittgenstein’s *Tractatus Logico-Philosophicus*, almost certainly the most important account of a logical atomist philosophy found outside of Russell’s work. Wittgenstein claimed:
 
-> 4.211 It is a sign of a proposition’s being elementary that there can be no elementary proposition contradicting it. (Wittgenstein 1922, 89)[^wittgenstein-1922]
+> 4\.211 It is a sign of a proposition’s being elementary that there can be no elementary proposition contradicting it. (Wittgenstein 1922, 89)[^wittgenstein-1922]
 >
-> 5.134 From an elementary proposition no other can be inferred. (Wittgenstein 1922, 109)[^wittgenstein-1922]
+> 5\.134 From an elementary proposition no other can be inferred. (Wittgenstein 1922, 109)[^wittgenstein-1922]
 
 The lack of any logical relations between atomic propositions goes hand in hand with a similar view about atomic *facts*; each atomic fact is metaphysically independent of every other, and any one could obtain or fail to obtain regardless of the obtaining (or not) of any other.
 

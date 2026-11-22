@@ -389,7 +389,7 @@ For helpful comments, thanks to Eric Mack, Gregory Salmieri, the editors of SEP,
 
 > He thought only that he wished to find joy and reason and meaning in life … Let me see that in one single act of man on earth … the final, the fulfilled, the innocent of pain. Don’t help me or serve me, but let me see it once, because I need it … show me that it is possible—show me your achievement—and the knowledge will give me courage for mine…. [T]here it was before his eyes … [Roark] did not know that he had given someone the courage to face a lifetime. (1943: 503–6)
 
-[^note-13]: 13. Rand’s position bears some resemblance to C.S. Lewis’s self-refutation argument against naturalism, famously critiqued by G.E.M. Anscombe. See C.S. Lewis, *Miracles*, ch. 3. London & Glasgow 1947, revised 1960; and G.E.M. Anscombe, “Reply to Mr. C.S. Lewis’s Argument that ‘Naturalism’ is Self-Refuting”, *Socratic Digest* 4 (1948), 7–15; reprinted in *The Collected Philosophical Papers of G. E. M. Anscombe, Vol. II: Metaphysics and the Philosophy of Mind* (Oxford 1981), 224–232.
+[^note-13]: 13\. Rand’s position bears some resemblance to C.S. Lewis’s self-refutation argument against naturalism, famously critiqued by G.E.M. Anscombe. See C.S. Lewis, *Miracles*, ch. 3. London & Glasgow 1947, revised 1960; and G.E.M. Anscombe, “Reply to Mr. C.S. Lewis’s Argument that ‘Naturalism’ is Self-Refuting”, *Socratic Digest* 4 (1948), 7–15; reprinted in *The Collected Philosophical Papers of G. E. M. Anscombe, Vol. II: Metaphysics and the Philosophy of Mind* (Oxford 1981), 224–232.
 
 [^rand-1943]: 1943, *The Fountainhead*, Indianapolis: Bobbs-Merrill.
 

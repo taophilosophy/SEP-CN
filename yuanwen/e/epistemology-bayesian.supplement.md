@@ -155,4 +155,4 @@ But this result contradicts (a), as desired.
 
 ## Notes（原文脚注，引自主文）
 
-[^note-10]: 10. Although this idea is attributed by Easwaran (2014: sec. 2.4) to Hájek (2003), it can only be found in the former paper but not in the latter.
+[^note-10]: 10\. Although this idea is attributed by Easwaran (2014: sec. 2.4) to Hájek (2003), it can only be found in the former paper but not in the latter.

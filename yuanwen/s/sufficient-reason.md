@@ -109,9 +109,9 @@ No philosopher is more closely associated with the PSR than Gottfried Wilhelm Le
 
 Leibniz often presents it, along with the Principle of Contradiction, as a principle of “reasoning”. For example, in the *Monadology* (1714) he writes:
 
-> 31. Our reasonings are based on two great principles, that of contradiction, in virtue of which we judge that which involves a contradiction to be false, and that which is opposed or contradictory to the false to be true.
+> 31\. Our reasonings are based on two great principles, that of contradiction, in virtue of which we judge that which involves a contradiction to be false, and that which is opposed or contradictory to the false to be true.
 >
-> 32. And that of sufficient reason, by virtue of which we consider that we can find no true or existent fact [*fait*], no true assertion [*énonciation véritable*], without there being a sufficient reason why it is thus and not otherwise, although most of the time these reasons cannot be known to us. (G VI, 612/L 646)
+> 32\. And that of sufficient reason, by virtue of which we consider that we can find no true or existent fact [*fait*], no true assertion [*énonciation véritable*], without there being a sufficient reason why it is thus and not otherwise, although most of the time these reasons cannot be known to us. (G VI, 612/L 646)
 
 These principles are characterized in what appears to be epistemic terms. They are principles of “our reasoning”. They concern what we “judge” or “find”. And yet it is clear that Leibniz intends them to have metaphysical as well as epistemic import. In the case of the PSR, this will become more evident when we discuss how Leibniz understands the notion of a sufficient reason but it is already indicated in the passage quoted above by the fact that Leibniz explicitly states that there are sufficient reasons for every truth or fact even if such reasons are *unknowable* by us. (The distinction between the epistemic and the metaphysical collapses with respect to God because there can be no gap between what an omniscient being knows and how things are.)
 

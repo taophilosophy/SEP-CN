@@ -871,79 +871,79 @@ He added that this remark contains his “main argument against the claims of Hi
 
 ### Notes to Appendix A
 
-[^note-35]: 35. These four conditions correspond to the conditions $(\alpha)$ through $(\delta)$ of $\#71$ in Dedekind 1888; they are easily seen to be equivalent to the so-called Peano axioms. The *chain* of the system $\{1\}$ (with respect to the mapping *φ* of **N**) is the intersection of all systems that contain 1 as an element and are closed under *φ*.
+[^note-35]: 35\. These four conditions correspond to the conditions $(\alpha)$ through $(\delta)$ of $\#71$ in Dedekind 1888; they are easily seen to be equivalent to the so-called Peano axioms. The *chain* of the system $\{1\}$ (with respect to the mapping *φ* of **N**) is the intersection of all systems that contain 1 as an element and are closed under *φ*.
 
-[^note-36]: 36. In Torretti 1978 [1984: 234], for example, one finds the following observation:
+[^note-36]: 36\. In Torretti 1978 [1984: 234], for example, one finds the following observation:
 
 > … the completeness axiom is what nowadays one would call a metamathematical statement, though one of a rather peculiar sort, since the theory with which it is concerned includes Axiom V2 [i.e., the completeness axiom] itself.
 
-[^note-37]: 37. We have modified the translation one finds in the *Collected Works*. In particular, logical expression stands for *logischer Ausdruck*, satisfy for *erfüllen*, domain of thought for *Denkbereich*, statement for *Aussage*, and proposition for *Satz*.
+[^note-37]: 37\. We have modified the translation one finds in the *Collected Works*. In particular, logical expression stands for *logischer Ausdruck*, satisfy for *erfüllen*, domain of thought for *Denkbereich*, statement for *Aussage*, and proposition for *Satz*.
 
-[^note-38]: 38. In *On the Infinite* Hilbert writes retrospectively:
+[^note-38]: 38\. In *On the Infinite* Hilbert writes retrospectively:
 
 > In particular, a contradiction discovered by Zermelo and Russell had, when it became known, a downright catastrophic effect in the world of mathematics. (Hilbert 1926: 375)[^hilbert-1926]
 
 More can be learnt about Hilbert’s reaction at the time from various reports in 1902 and 1903 (cf. Peckhaus 1990: 57)[^peckhaus-1990].
 
-[^note-39]: 39. One should keep in mind that the “existence of sets” was the central issue, and it was to be guaranteed by the consistency of an appropriate axiom system, a viewpoint shared by Poincaré. The latter was, on the whole, impressed by Hilbert’s novel approach.
+[^note-39]: 39\. One should keep in mind that the “existence of sets” was the central issue, and it was to be guaranteed by the consistency of an appropriate axiom system, a viewpoint shared by Poincaré. The latter was, on the whole, impressed by Hilbert’s novel approach.
 
-[^note-40]: 40. See Mancosu 1999b. Not only the details of *Principia Mathematica* were of significance; on the contrary, the broad logicist outlook had a real impact on Hilbert. Hilbert’s notes for a course on *Set Theory* (from the summer term 1917) and his talk *Axiomatisches Denken* reveal a logicist direction in his work. In the latter essay Hilbert writes:
+[^note-40]: 40\. See Mancosu 1999b. Not only the details of *Principia Mathematica* were of significance; on the contrary, the broad logicist outlook had a real impact on Hilbert. Hilbert’s notes for a course on *Set Theory* (from the summer term 1917) and his talk *Axiomatisches Denken* reveal a logicist direction in his work. In the latter essay Hilbert writes:
 
 > The examination of consistency is an unavoidable task; thus, it seems to be necessary to axiomatize logic itself and *to show that number theory as well as set theory are just parts of logic*. (Hilbert 1918: 153)[^hilbert-1918].
 
 If we try to achieve such a reduction to logic, Hilbert says at the very end of the set theory notes, “… we are facing one of the most difficult problems of mathematics”. (Hilbert 1917)[^hilbert-1917][^hilbert-1917-2]
 
-[^note-41]: 41. This is reported in Dawson 1997 (p. 68) based on doc 023-73-04 in the Carnap Nachlass at the University of Pittsburgh.
+[^note-41]: 41\. This is reported in Dawson 1997 (p. 68) based on doc 023-73-04 in the Carnap Nachlass at the University of Pittsburgh.
 
-[^note-42]: 42. Volume III of Gödel’s Collected Works contains a paper entitled “Vortrag über Vollständigkeit des Funktionenkalkül’s” that is taken to be the manuscript for his talk in Königsberg. However, Gödel’s talk was a contributed talk of just 20 minutes; only a small part of the paper could have been delivered.
+[^note-42]: 42\. Volume III of Gödel’s Collected Works contains a paper entitled “Vortrag über Vollständigkeit des Funktionenkalkül’s” that is taken to be the manuscript for his talk in Königsberg. However, Gödel’s talk was a contributed talk of just 20 minutes; only a small part of the paper could have been delivered.
 
-[^note-43]: 43. The historical context and relevant details are presented in Sieg 2012.
+[^note-43]: 43\. The historical context and relevant details are presented in Sieg 2012.
 
-[^note-44]: 44. More precisely, we define a function CODE by recursion on formulae that associates with each formula *φ* a term in the language of $T$, which is also denoted by ${\Corner{\varphi}}$.
+[^note-44]: 44\. More precisely, we define a function CODE by recursion on formulae that associates with each formula *φ* a term in the language of $T$, which is also denoted by ${\Corner{\varphi}}$.
 
-[^note-45]: 45. The representability conditions for PROOF are as follows: If PROOF$(D, \varphi)$ then $T \vdash \iproof(\Corner{D},\Corner{\varphi})$, and if NOT PROOF$(D,\varphi)$ then $T\vdash \neg \iproof(\Corner{D},\Corner{\varphi})$.
+[^note-45]: 45\. The representability conditions for PROOF are as follows: If PROOF$(D, \varphi)$ then $T \vdash \iproof(\Corner{D},\Corner{\varphi})$, and if NOT PROOF$(D,\varphi)$ then $T\vdash \neg \iproof(\Corner{D},\Corner{\varphi})$.
 
-[^note-46]: 46. Note that *G* is, as Dawson put it (on p. 68), “an involved combinatorial statement expressed in the richer language of the system of *Principia Mathematica*” (or set theory). It is only after the “arithmetization of syntax” and the representation of the syntactic notions in elementary number theory that *G* is turned into an arithmetical statement; section 3 of Gödel 1931a. See the remarks below from Wang 1981 concerning this development after the Königsberg conference, and the further very detailed description of how *G* is equivalent to a Diophantine equation in section 8 of Gödel’s 1934 Princeton lectures and in Gödel 1938/9.
+[^note-46]: 46\. Note that *G* is, as Dawson put it (on p. 68), “an involved combinatorial statement expressed in the richer language of the system of *Principia Mathematica*” (or set theory). It is only after the “arithmetization of syntax” and the representation of the syntactic notions in elementary number theory that *G* is turned into an arithmetical statement; section 3 of Gödel 1931a. See the remarks below from Wang 1981 concerning this development after the Königsberg conference, and the further very detailed description of how *G* is equivalent to a Diophantine equation in section 8 of Gödel’s 1934 Princeton lectures and in Gödel 1938/9.
 
-[^note-47]: 47. The letter, to the best of our knowledge, has not been published. One of the authors, Sieg, had received a copy from Chevalley’s daughter quite a few years ago.
+[^note-47]: 47\. The letter, to the best of our knowledge, has not been published. One of the authors, Sieg, had received a copy from Chevalley’s daughter quite a few years ago.
 
-[^note-48]: 48. As to the details of their interaction, see the Introductory Notes to Gödel’s correspondence with von Neumann and Herbrand, in volume V of the *Collected Works*. Gödel’s contrary perspective on the formalizability of finitist proofs is expressed not only at the end of his 1931 paper, but also in his letters to von Neumann and Herbrand, as well as in his contribution to the meeting of the Schlick Circle on 15 January 1931 and in the “*Nachtrag*” to his Königsberg remarks. In the latter he wrote:
+[^note-48]: 48\. As to the details of their interaction, see the Introductory Notes to Gödel’s correspondence with von Neumann and Herbrand, in volume V of the *Collected Works*. Gödel’s contrary perspective on the formalizability of finitist proofs is expressed not only at the end of his 1931 paper, but also in his letters to von Neumann and Herbrand, as well as in his contribution to the meeting of the Schlick Circle on 15 January 1931 and in the “*Nachtrag*” to his Königsberg remarks. In the latter he wrote:
 
 > For a system in which all finitist (i.e., intuitionistically proper) forms of proof are formalized, a finitist consistency proof as sought by the formalists would be altogether impossible. However, it seems doubtful, whether one of the systems formulated up to now, say *Principia Mathematica*, is so comprehensive (or whether such a comprehensive system exists at all). (Gödel 1931b: 204)[^gödel-1931b].
 
 ### Notes to Appendix B
 
-[^note-49]: 49. The usual recursion theorem is formulated for partial recursive functions but there is a version, due to Kleene (1958)[^kleene-1958], that works for primitive recursive functions.
+[^note-49]: 49\. The usual recursion theorem is formulated for partial recursive functions but there is a version, due to Kleene (1958)[^kleene-1958], that works for primitive recursive functions.
 
-[^note-50]: 50. Accessible accounts can be found in Torkel Franzén’s book (2004a) and his paper (2004b).
+[^note-50]: 50\. Accessible accounts can be found in Torkel Franzén’s book (2004a) and his paper (2004b).
 
 ### Notes to Appendix C
 
-[^note-51]: 51. Brouwer did not include (Hyp 2) among the hypothesis. It expresses the “monotonicity” of the bar. Classically it’s rather superfluous but intuitionistically it is essential as Kleene observed: $\BI_{\igen}$ formulated without (Hyp 2) yields instances of excluded middle that are incompatible with Brouwer’s continuity principles (Kleene & Vesley 1965: 7.14)[^kleene-1965].
+[^note-51]: 51\. Brouwer did not include (Hyp 2) among the hypothesis. It expresses the “monotonicity” of the bar. Classically it’s rather superfluous but intuitionistically it is essential as Kleene observed: $\BI_{\igen}$ formulated without (Hyp 2) yields instances of excluded middle that are incompatible with Brouwer’s continuity principles (Kleene & Vesley 1965: 7.14)[^kleene-1965].
 
-[^note-52]: 52. A bar *B* gives rise to a well-founded ordering $\prec$ on $\bbN^*$ where $t\prec s$ means that *t* is a node above *s* and $t\notin B$. Viewed in this way, $\BI_{\igen}$ is a principle of transfinite induction along $\prec$. For the implication $\BI_{\igen}\to{\bCA}$ to hold it is important that *B* can be of arbitrary complexity. Thus the moral drawable from this is that impredicative comprehension can be deduced from transfinite induction on impredicatively defined orderings.
+[^note-52]: 52\. A bar *B* gives rise to a well-founded ordering $\prec$ on $\bbN^*$ where $t\prec s$ means that *t* is a node above *s* and $t\notin B$. Viewed in this way, $\BI_{\igen}$ is a principle of transfinite induction along $\prec$. For the implication $\BI_{\igen}\to{\bCA}$ to hold it is important that *B* can be of arbitrary complexity. Thus the moral drawable from this is that impredicative comprehension can be deduced from transfinite induction on impredicatively defined orderings.
 
-[^note-53]: 53. Girard is also very skeptical about the intuitionistic setting of Spector’s interpretation: “all these topics have *nothing to do* with intuitionism” (Girard 1987: 479)[^girard-1987].
+[^note-53]: 53\. Girard is also very skeptical about the intuitionistic setting of Spector’s interpretation: “all these topics have *nothing to do* with intuitionism” (Girard 1987: 479)[^girard-1987].
 
-[^note-54]: 54. As a matter of clarification, cut free proofs are not allowed to contain other instances of $\tilde{\Omega}$.
+[^note-54]: 54\. As a matter of clarification, cut free proofs are not allowed to contain other instances of $\tilde{\Omega}$.
 
 ### Notes to Appendix D
 
-[^note-55]: 55. For more background information see Takeuti 1985: 259; Feferman 1989: 362, and Pohlers 1991: 374.
+[^note-55]: 55\. For more background information see Takeuti 1985: 259; Feferman 1989: 362, and Pohlers 1991: 374.
 
 ### Notes to Appendix E
 
-[^note-56]: 56. For more details see Rathjen 1999a.
+[^note-56]: 56\. For more details see Rathjen 1999a.
 
-[^note-57]: 57. For more details see Rathjen 2015. As for the unprovability of $\Con(\PA)$ in **PA**, Gentzen (1943)[^gentzen-1943] explicitly states that his proof makes no appeal to the second incompleteness theorem.
+[^note-57]: 57\. For more details see Rathjen 2015. As for the unprovability of $\Con(\PA)$ in **PA**, Gentzen (1943)[^gentzen-1943] explicitly states that his proof makes no appeal to the second incompleteness theorem.
 
-[^note-58]: 58. In Rathjen 2015 the question is pondered whether the latter result could have been proved much earlier (from a technical as well as sociological point of view).
+[^note-58]: 58\. In Rathjen 2015 the question is pondered whether the latter result could have been proved much earlier (from a technical as well as sociological point of view).
 
 ### Notes to Appendix F
 
-[^note-59]: 59. For extensions and reflections see Sieg 1991.
+[^note-59]: 59\. For extensions and reflections see Sieg 1991.
 
-[^note-60]: 60. Theorem F.4 can be extracted from Kreisel, Mints and Simpson (1975), Lopez-Escobar (1976) or Schwichtenberg (1977)[^schwichtenberg-1977] and was certainly known to these authors.
+[^note-60]: 60\. Theorem F.4 can be extracted from Kreisel, Mints and Simpson (1975), Lopez-Escobar (1976) or Schwichtenberg (1977)[^schwichtenberg-1977] and was certainly known to these authors.
 
 [^english-nd]: The translations in this paper are ours, unless we explicitly refer to an English edition.
 

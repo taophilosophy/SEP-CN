@@ -99,7 +99,7 @@ This supplement collects together various definitions and descriptions of analys
 
 #### *Concise Oxford Dictionary*, 1976, ed. J. B. Sykes
 
-> 1. Resolution into simpler elements by analysing (opp. *synthesis*); statement of result of this; … 2. (Math.) Use of algebra and calculus in problem-solving. {§1.1}
+> 1\. Resolution into simpler elements by analysing (opp. *synthesis*); statement of result of this; … 2. (Math.) Use of algebra and calculus in problem-solving. {§1.1}
 
 #### *Dictionary of Philosophy and Psychology*, 1925, ed. James Mark Baldwin, Vol. I
 

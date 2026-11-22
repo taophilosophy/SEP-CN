@@ -23,4 +23,4 @@ Adh-Dhahabi (d. 1348) mentions Ibn al-Imam, Ibn Bâjja’s disciple, Alyasa‛ I
 
 ## Notes（原文脚注，引自主文）
 
-[^note-32]: 32. His poetic activity may have been the cause for misattributing to him a whole diwan, see Dunlop 1952.
+[^note-32]: 32\. His poetic activity may have been the cause for misattributing to him a whole diwan, see Dunlop 1952.

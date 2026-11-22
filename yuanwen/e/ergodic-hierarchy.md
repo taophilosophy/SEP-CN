@@ -447,7 +447,7 @@ statistical physics: Boltzmann’s work in | supervenience
 
 ### Notes to Appendix
 
-[^note-25]: 25. Not all subsets of phase space points are measurable—see (Royden 1968, pp. 52–65) for an explanation.
+[^note-25]: 25\. Not all subsets of phase space points are measurable—see (Royden 1968, pp. 52–65) for an explanation.
 
 [^alekseev-1981]: Alekseev, V. M., and Yakobson, M. V., 1981, “Symbolic dynamics and hyperbolic dynamical systems,” *Physics Reports*, 75: 287–325.
 

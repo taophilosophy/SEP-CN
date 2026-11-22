@@ -664,7 +664,7 @@ This entry was very much improved by discussion and correspondence with the foll
 
 #### Notes to Did the Incompleteness Theorems Refute Hilbert’s Program?
 
-1. For example, Bezboruah and Sheperdson proved (1976) the second incompleteness theorem for $Q$ (essentially induction free arithmetic), and Wilkie & Paris proved (1987) that even the much stronger theory $I\Delta_0 +$ *exp* does not prove its standard formulation of $Q$’s consistency. But neither of these consistency statements can be said to be intensionally correct. And therefore it is not clear that the second theorem holds in its general form for $Q$. In fact, $Q$ is such a weak theory, it is not clear that a semantically contentful statement of consistency can be formulated for $Q$ at all.
+1\. For example, Bezboruah and Sheperdson proved (1976) the second incompleteness theorem for $Q$ (essentially induction free arithmetic), and Wilkie & Paris proved (1987) that even the much stronger theory $I\Delta_0 +$ *exp* does not prove its standard formulation of $Q$’s consistency. But neither of these consistency statements can be said to be intensionally correct. And therefore it is not clear that the second theorem holds in its general form for $Q$. In fact, $Q$ is such a weak theory, it is not clear that a semantically contentful statement of consistency can be formulated for $Q$ at all.
 
 A surprising result of Pavel Pudlák’s undercuts this view. As a response to the Bezboruah and Sheperdson result, Pudlák gives (1996) an intensionally correct consistency statement for Robinson’s theory $Q$, which $Q$ fails to prove. The theorem states that for every consistent theory $T$ extending $Q$, and for every cut $J(x)$ in $T, T \not\vdash$ *Con*$^{J}_T$. Moreover, the arithmetization of syntax relativized to $J$ satisfies all the relevant intensionality criteria. Therefore the second theorem can be said to hold for $Q$ after all.
 
@@ -672,13 +672,13 @@ More recently, Curtis Franks takes up the issue of the second incompleteness the
 
 #### Notes to Gödel’s Turn to Phenomenology
 
-1. Gödel is very much following Husserl here. The matter is discussed in some detail in pp. 443-446 of van Atten and Kennedy 2003.
+1\. Gödel is very much following Husserl here. The matter is discussed in some detail in pp. 443-446 of van Atten and Kennedy 2003.
 
 #### Notes to An Argument About the Content of Mathematics
 
-1. Gödel readily drew philosophical conclusions from the First Incompleteness Theorem. He he seems to have been slower in applying the Second Theorem.
+1\. Gödel readily drew philosophical conclusions from the First Incompleteness Theorem. He he seems to have been slower in applying the Second Theorem.
 
-2. Regarding the acceptability of inductive methods Gödel remarks in the Gibbs lecture, for example, that, if one is a realist about mathematical objects then inductive methods become not less but more acceptable. See p. 313 of Gödel 1995.
+2\. Regarding the acceptability of inductive methods Gödel remarks in the Gibbs lecture, for example, that, if one is a realist about mathematical objects then inductive methods become not less but more acceptable. See p. 313 of Gödel 1995.
 
 [^gödel-nd]: The Gödel Nachlass is located at Firestone Library of Princeton University with the exception of Gödel’s preprint collection, which is housed at the library of the Institute for Advanced Study. The Nachlass itself is the property of the Institute but a microfilm copy of it may be purchased from Brill. All of Gödel’s published work, together with a large number of the unpublished material from the Nachlass, together with a selection of Gödel’s correspondence is published in *Kurt Gödel, Collected Works, Volumes I-V*.
 

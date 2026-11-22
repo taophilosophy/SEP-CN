@@ -5,8 +5,8 @@
  "note": "格式层残差补丁：m=标记段、u=单元布局、r=纯布局区段；禁含散文",
  "stats": {
   "page_bytes": 104676,
-  "pool_bytes": 54814,
-  "n_patches": 155
+  "pool_bytes": 54769,
+  "n_patches": 154
  },
  "patches": [
   {
@@ -20,44 +20,6 @@
    "len": 9,
    "sha": "e0e477e9d15735d5",
    "after": "</div> \n<!--pdf include <div class=\"pagebreak\"></div> pdf include-->\n\n"
-  },
-  {
-   "u": 10180,
-   "len": 47,
-   "sha": "0abe5641c3e25f33",
-   "items": [
-    [
-     "mk",
-     "<a href=\"#SelPriSou\">"
-    ],
-    [
-     "tx",
-     0,
-     6
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     6,
-     7
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     13,
-     7
-    ],
-    [
-     "mk",
-     "</a>"
-    ]
-   ]
   },
   {
    "r": 10825,

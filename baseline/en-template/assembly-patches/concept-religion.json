@@ -5,8 +5,8 @@
  "note": "格式层残差补丁：m=标记段、u=单元布局、r=纯布局区段；禁含散文",
  "stats": {
   "page_bytes": 106699,
-  "pool_bytes": 60515,
-  "n_patches": 213
+  "pool_bytes": 60471,
+  "n_patches": 212
  },
  "patches": [
   {
@@ -1637,44 +1637,6 @@
    "len": 18,
    "sha": "f7941518fac6ce98",
    "after": "</p>\n</blockquote>\n\n"
-  },
-  {
-   "u": 11060,
-   "len": 49,
-   "sha": "c43899b1d5b76a1d",
-   "items": [
-    [
-     "mk",
-     "<a href=\"#MonoAppr\">"
-    ],
-    [
-     "tx",
-     0,
-     3
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     3,
-     10
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     13,
-     10
-    ],
-    [
-     "mk",
-     "</a>"
-    ]
-   ]
   },
   {
    "u": 11575,

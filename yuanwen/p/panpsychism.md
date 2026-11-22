@@ -374,9 +374,9 @@ This entry, beginning with the July 2017 version, is almost entirely written by 
 
 ### Notes to the Supplement
 
-[^note-26]: 26. Strawson is not happy to accept the existence of contingent laws, which partly motivates his argument discussed in the section *The Anti-Emergence Argument*.
+[^note-26]: 26\. Strawson is not happy to accept the existence of contingent laws, which partly motivates his argument discussed in the section *The Anti-Emergence Argument*.
 
-[^note-27]: 27. This problem is arguably also faced by the emergentist panpsychism who postulates brute laws of nature. If brute laws are to explain the production of macro-level consciousness, why not just postulate brute laws connecting non-phenomenal properties to macro-level phenomenal properties?
+[^note-27]: 27\. This problem is arguably also faced by the emergentist panpsychism who postulates brute laws of nature. If brute laws are to explain the production of macro-level consciousness, why not just postulate brute laws connecting non-phenomenal properties to macro-level phenomenal properties?
 
 [^albahari-2020]: Albahari, Miri, 2020, “Beyond cosmopsychism and the great I am: How the world might be grounded in universal ‘advaitic’ consciousness”, in Seager 2020, 119–130.
 

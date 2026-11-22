@@ -299,19 +299,19 @@ The sort of treatment offered by Lewis 1979 notoriously faces difficulties in de
 
 ### Notes to the Supplement A Persisting Problem For Fictionalism About Possible Worlds
 
-[^note-9]: 9. Another version of the central objection in this piece to the Menzies/Pettit proposal has been developed independently by David Lewis.
+[^note-9]: 9\. Another version of the central objection in this piece to the Menzies/Pettit proposal has been developed independently by David Lewis.
 
-[^note-10]: 10. This is the account of possible worlds that is treated as the fiction about possible worlds by Gideon Rosen, (1990) and by Menzies and Pettit (1994), and by Brock (1993)[^brock-1993].
+[^note-10]: 10\. This is the account of possible worlds that is treated as the fiction about possible worlds by Gideon Rosen, (1990) and by Menzies and Pettit (1994), and by Brock (1993)[^brock-1993].
 
-[^note-11]: 11. We use the term “Lewis story” it when discussing the specific proposal that takes Lewis’ theory as the fiction rather than using the term “PW” or “the fiction of a plurality of worlds”, as obviously one could employ a story about the existence of many possible worlds without it agreeing with the story told by David Lewis. (One could have trans-world identity rather than counterparts, for example).
+[^note-11]: 11\. We use the term “Lewis story” it when discussing the specific proposal that takes Lewis’ theory as the fiction rather than using the term “PW” or “the fiction of a plurality of worlds”, as obviously one could employ a story about the existence of many possible worlds without it agreeing with the story told by David Lewis. (One could have trans-world identity rather than counterparts, for example).
 
-[^note-12]: 12. See Menzies and Pettit (1994), p. 35, for this “Last Difficulty”. They attribute this further objection to Stuart Brock.
+[^note-12]: 12\. See Menzies and Pettit (1994), p. 35, for this “Last Difficulty”. They attribute this further objection to Stuart Brock.
 
-[^note-13]: 13. At₁, for those who wish to be precise in the manner described in Menzies and Pettit (1994), p. 33
+[^note-13]: 13\. At₁, for those who wish to be precise in the manner described in Menzies and Pettit (1994), p. 33
 
-[^note-14]: 14. These reasons for rejecting this move are the same sorts of reasons that Brock (1993, pp. 149–150) outlines for not arbitrarily ruling “Necessarily there are many worlds” out of consideration by a fictionalist theory.
+[^note-14]: 14\. These reasons for rejecting this move are the same sorts of reasons that Brock (1993, pp. 149–150) outlines for not arbitrarily ruling “Necessarily there are many worlds” out of consideration by a fictionalist theory.
 
-[^note-15]: 15. I am especially indebted to Peter Menzies and Philip Pettit for encouragement as well as helpful comments and discussion.
+[^note-15]: 15\. I am especially indebted to Peter Menzies and Philip Pettit for encouragement as well as helpful comments and discussion.
 
 [^armour-garb-2015]: Armour-Garb, Bradley, 2015. “New Problems for Modal Fictionalism”, *Philosophical Studies*, 172: 1201–1219.
 

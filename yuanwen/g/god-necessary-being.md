@@ -79,9 +79,9 @@ According to the theistic emanationist, necessarily existing abstract objects ar
 
 One example of a theistic emanationist is Leibniz. In his *Monadology* he says:
 
-> 43. It is also true that God is not only the source of existences but also that of essences insofar as they are real, that is, the source of that which is real in possibility. This is because God’s understanding is the realm of eternal truths, or that of the ideas on which they depend; without him there would be nothing real in possibles, and not only would nothing exist, but also nothing would be possible.
+> 43\. It is also true that God is not only the source of existences but also that of essences insofar as they are real, that is, the source of that which is real in possibility. This is because God’s understanding is the realm of eternal truths, or that of the ideas on which they depend; without him there would be nothing real in possibles, and not only would nothing exist, but also nothing would be possible.
 >
-> 44. For if there is a reality in essences or possibilities, or indeed in eternal truths, this reality must be grounded in something existent and actual, and consequently, it must be grounded in the existence of the necessary being, in whom essence involves existence, that is, in whom possible being is sufficient for actual being. (Leibniz 1714 [1989: 218])[^leibniz-1714]
+> 44\. For if there is a reality in essences or possibilities, or indeed in eternal truths, this reality must be grounded in something existent and actual, and consequently, it must be grounded in the existence of the necessary being, in whom essence involves existence, that is, in whom possible being is sufficient for actual being. (Leibniz 1714 [1989: 218])[^leibniz-1714]
 
 Here Leibniz seems to suggest that necessarily existing abstracta are grounded in divine cognitive activity. It’s not clear exactly how to characterize the relation between the cognitive activity and the existence of the abstract objects, but saying that the former causes the latter to exist seems appropriate given his language.
 

@@ -791,31 +791,31 @@ If time did not pass in this sort of way our experience would not be confined to
 
 ### Notes to Supplement [The Specious Present](consciousness-temporal.specious-present.md)
 
-[^note-23]: 23. For further discussion of delays in perception see Libet (1993, 2004)[^libet-1993][^libet-2004], Efron (1967)[^efron-1967] and Pockett (2002, 2003)[^pockett-2002][^pockett-2003].
+[^note-23]: 23\. For further discussion of delays in perception see Libet (1993, 2004)[^libet-1993][^libet-2004], Efron (1967)[^efron-1967] and Pockett (2002, 2003)[^pockett-2002][^pockett-2003].
 
-[^note-24]: 24. See Weichselgartner & Sperling (1985), Long & O’Saban (1989) and Nisly-Nagele & Wasserman (2001) for further discussion and references on visual persistence.
+[^note-24]: 24\. See Weichselgartner & Sperling (1985), Long & O’Saban (1989) and Nisly-Nagele & Wasserman (2001) for further discussion and references on visual persistence.
 
-[^note-25]: 25. For a survey of relevant work on the neural bases of temporal processing, see Mauk & Buonomano (2004). Kelly argues that the vast bulk of empirical work is focused on just two questions: How do we come to represent events as occurring at a particular time? Which events to we experience as simultaneous? He draws this conclusion:
+[^note-25]: 25\. For a survey of relevant work on the neural bases of temporal processing, see Mauk & Buonomano (2004). Kelly argues that the vast bulk of empirical work is focused on just two questions: How do we come to represent events as occurring at a particular time? Which events to we experience as simultaneous? He draws this conclusion:
 
 > The puzzle of temporal experience will not be resolved by empirical research *of the type now being done* … [the relevant neuroscientific accounts] do not have any bearing at all, in other words, on the question of how we are to conceptualize perceptual experience from the point of view of the subject so as to allow for the possibility of experiences as of continuous, dynamic, temporally structured, unified events. (2005b: §7–7.1)
 
-[^note-26]: 26. For more on coincidence thresholds see Pockett (2003)[^pockett-2003], Pöppel (1997)[^pöppel-1997], Hirsh & Sherrick (1961), Ruhnau (1995)[^ruhnau-1995]; for an interesting exploration of the philosophical significance of perceptual simultaneity windows see Callender (2008)[^callender-2008].
+[^note-26]: 26\. For more on coincidence thresholds see Pockett (2003)[^pockett-2003], Pöppel (1997)[^pöppel-1997], Hirsh & Sherrick (1961), Ruhnau (1995)[^ruhnau-1995]; for an interesting exploration of the philosophical significance of perceptual simultaneity windows see Callender (2008)[^callender-2008].
 
-[^note-27]: 27. Benussi preferred the term “psychic present”, construing the latter as the “time required to apprehend the maximum number of elements of a change in one single perceptual act” Albertazzi (1994: 161)[^albertazzi-1994]; see also Albertazzi 1996.
+[^note-27]: 27\. Benussi preferred the term “psychic present”, construing the latter as the “time required to apprehend the maximum number of elements of a change in one single perceptual act” Albertazzi (1994: 161)[^albertazzi-1994]; see also Albertazzi 1996.
 
-[^note-28]: 28. Of the two most general visual pathways in primates
+[^note-28]: 28\. Of the two most general visual pathways in primates
 
 > we find that it is the older tectopulvinar pathway (evolutionarily speaking) that is more involved in motion perception than the newer geniculostriate pathway. There are some suggestions that the tectopulvinar pathway may be entirely specialized for the perception of movement, along with the control of responses that involve moving stimuli, such as some kinds of eye movements. (Coren, Ward, & Enns 2004: 360)[^coren-2004]
 
-[^note-29]: 29. There are complications. Although 20–30 fps is sufficient to generates smooth apparent motion, higher rates are needed to eliminate variations in brightness (flicker); accordingly, in cinema and TV the same image is shown two or three times in succession. Three factors are most relevant to the quality of apparent motion: interstimulus interval (the time between the end of one frame and the start of the next), frame duration, and the time between the start of one frame and the start of the next—the latter is the most important single factor. For further detail on a complex topic, “flicker studies”, see Anderson & Anderson (1993)[^anderson-1993], Galifret (2006)[^galifret-2006].
+[^note-29]: 29\. There are complications. Although 20–30 fps is sufficient to generates smooth apparent motion, higher rates are needed to eliminate variations in brightness (flicker); accordingly, in cinema and TV the same image is shown two or three times in succession. Three factors are most relevant to the quality of apparent motion: interstimulus interval (the time between the end of one frame and the start of the next), frame duration, and the time between the start of one frame and the start of the next—the latter is the most important single factor. For further detail on a complex topic, “flicker studies”, see Anderson & Anderson (1993)[^anderson-1993], Galifret (2006)[^galifret-2006].
 
-[^note-30]: 30. As Debru (2001: 478)[^debru-2001] notes, it may be that James’ figure of 12 seconds was also influenced by Helmholtz’s discovery that *after-images* typically have a maximal duration of 12 seconds or so.
+[^note-30]: 30\. As Debru (2001: 478)[^debru-2001] notes, it may be that James’ figure of 12 seconds was also influenced by Helmholtz’s discovery that *after-images* typically have a maximal duration of 12 seconds or so.
 
-[^note-31]: 31. And also when describing Wundt’s attempt to measure the interval which is remembered most accurately:
+[^note-31]: 31\. And also when describing Wundt’s attempt to measure the interval which is remembered most accurately:
 
 > [this interval] of about three-fourths of a second, which is estimated with the minimum of error, points to a connection between the time-feeling and the succession of distinctly apperceived objects before the mind. The association time is also equal to about three-fourths of a second. This association time he regards as a sort of internal standard of duration to which we involuntarily assimilate all intervals which we try to reproduce, bringing shorter ones up to it and longer ones down. (James 1890: 596–7)[^james-1890]
 
-[^note-32]: 32. Myers (1971: 355)[^myers-1971] notes that Boring claimed James’ commitment to this approach stemmed from a general doctrine concerning the temporal character of introspection:
+[^note-32]: 32\. Myers (1971: 355)[^myers-1971] notes that Boring claimed James’ commitment to this approach stemmed from a general doctrine concerning the temporal character of introspection:
 
 > introspection was not believed to be a process that takes time … But how then can a duration that takes time be immediately known, since the duration, not being instantaneous, is itself not all immediate? (1942: 576)
 
@@ -825,7 +825,7 @@ Myers has his doubts:
 
 Mabbott (1951: 165)[^mabbott-1951] usefully summarizes Boring’s changes of view on these matters.
 
-[^note-33]: 33. See Sprigge (1993: 198–225)[^sprigge-1993] for an interesting discussion of how James’ views on time, experience and continuity evolved through his career. Levanon (2016a, 2018)[^levanon-2016a][^levanon-2018] also sheds useful light on James’ views.
+[^note-33]: 33\. See Sprigge (1993: 198–225)[^sprigge-1993] for an interesting discussion of how James’ views on time, experience and continuity evolved through his career. Levanon (2016a, 2018)[^levanon-2016a][^levanon-2018] also sheds useful light on James’ views.
 
 [^albertazzi-1994]: Albertazzi, Liliana, 1994, “The *Psychological* Whole. I: The Temporal Parts of Presentation”, *Axiomathes*, 5(1): 145–175. doi:10.1007/BF02228960
 

@@ -386,7 +386,7 @@ By blurring the contrast between verbal and substantive differences, Quineans wo
 
 ### Notes to Supplement: Stipulating Identity Trans-world, Without Qualitative Criteria for a Designatum to Satisfy
 
-[^note-14]: 14. The problem is powerfully motivated by Augustine (see Matthews for discussion: 2005, pp. 29–30)[^matthews-2005], for example, whose best illustration (‘walking’) reminds us that the problem attends reference to properties and kinds, as well as individuals. Augustine’s example underscores the depth of the problem at hand: even if we *did* know of essential criteria by which to apply a name like yours and indeed even if the criteria were *qualitative*, similar issues would arise with respect to how we establish reference to the qualities *themselves* (a point Kripke observes: 1971, p. 148)[^kripke-1971].
+[^note-14]: 14\. The problem is powerfully motivated by Augustine (see Matthews for discussion: 2005, pp. 29–30)[^matthews-2005], for example, whose best illustration (‘walking’) reminds us that the problem attends reference to properties and kinds, as well as individuals. Augustine’s example underscores the depth of the problem at hand: even if we *did* know of essential criteria by which to apply a name like yours and indeed even if the criteria were *qualitative*, similar issues would arise with respect to how we establish reference to the qualities *themselves* (a point Kripke observes: 1971, p. 148)[^kripke-1971].
 
 [^anscombe-1961]: Anscombe, G. E. M., & Geach, P. T., 1961, *Three Philosophers*, Ithaca: Cornell University Press.
 

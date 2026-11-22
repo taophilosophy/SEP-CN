@@ -802,7 +802,7 @@ For a more detailed account of Heidegger’s “other beginning”, see [supplem
 
 **GA50**
 
-1. *Nietzsches Metaphysik*, written 1940; 2. *Einleitung in die Philosophie: Denken und Dichten*, written 1944/45; published 1990. Part 2 translated as: *Introduction to Philosophy—Thinking and Poetizing*, Phillip Jacques Braunstein (trans.), Bloomington, IN: Indiana University Press, 2011.
+1\. *Nietzsches Metaphysik*, written 1940; 2. *Einleitung in die Philosophie: Denken und Dichten*, written 1944/45; published 1990. Part 2 translated as: *Introduction to Philosophy—Thinking and Poetizing*, Phillip Jacques Braunstein (trans.), Bloomington, IN: Indiana University Press, 2011.
 
 **GA51**
 
@@ -1290,17 +1290,17 @@ The understanding is in this way developed and enriched in an interpretation tha
 
 [^note-97]: *Die Göttlichen*—more literally, “the god-like ones”.
 
-[^note-98]: 98. See also GA21: 151: “Only insofar as intelligibility—signification—already belongs to Dasein can it express itself phonetically in such a way that these spoken statements are words that now have something like signification. Because Dasein in its very being is itself signifying, it lives in significations and can express itself as significations. And only because there are such spoken statements—that is, words—accruing to the signification, can there be isolable words; i.e., only now can linguistic forms, which themselves are shaped by the meaning, be detachable from that meaning. Such a totality of utterances, in which the understanding of a Dasein in a certain sense arises and is existentially, we call ‘language’”.
+[^note-98]: 98\. See also GA21: 151: “Only insofar as intelligibility—signification—already belongs to Dasein can it express itself phonetically in such a way that these spoken statements are words that now have something like signification. Because Dasein in its very being is itself signifying, it lives in significations and can express itself as significations. And only because there are such spoken statements—that is, words—accruing to the signification, can there be isolable words; i.e., only now can linguistic forms, which themselves are shaped by the meaning, be detachable from that meaning. Such a totality of utterances, in which the understanding of a Dasein in a certain sense arises and is existentially, we call ‘language’”.
 
-[^note-99]: 99. In defense of reading “language” in the later Heidegger as language in “the standard sense”, Golob points to Heidegger’s reference to Indo-Germanic languages in GA19: 253. In that passage, Golob notes, Heidegger “does indeed seem to be talking about ‘language’ in the ordinary sense of that term” (Golob 2014: 64 n. 34)[^golob-2014]. But GA19 long precedes Heidegger’s transition to thinking of language as a world-forming power.
+[^note-99]: 99\. In defense of reading “language” in the later Heidegger as language in “the standard sense”, Golob points to Heidegger’s reference to Indo-Germanic languages in GA19: 253. In that passage, Golob notes, Heidegger “does indeed seem to be talking about ‘language’ in the ordinary sense of that term” (Golob 2014: 64 n. 34)[^golob-2014]. But GA19 long precedes Heidegger’s transition to thinking of language as a world-forming power.
 
-[^note-100]: 100. See also GA9: 72: “Language is not a work of human beings: language speaks. Humans only speak insofar as they co-respond to language”; compare GA10: 143, GA12: 28 / PLT 205; GA12: 244 / OWL 124; GA13: 147; GA79: 168–9; GA80.2: 128.
+[^note-100]: 100\. See also GA9: 72: “Language is not a work of human beings: language speaks. Humans only speak insofar as they co-respond to language”; compare GA10: 143, GA12: 28 / PLT 205; GA12: 244 / OWL 124; GA13: 147; GA79: 168–9; GA80.2: 128.
 
-[^note-101]: 101. “True poetry is the language of being, which *has long been spoken to us* and that we have *never yet caught up with*”. (GA38A: 167)
+[^note-101]: 101\. “True poetry is the language of being, which *has long been spoken to us* and that we have *never yet caught up with*”. (GA38A: 167)
 
-[^note-102]: 102. “The people of this earth are challenged by the unconditional dominance of the essence of modern technology, together with technology itself, to order the whole of the world into a uniform condition, secured by a final world-formula, and for that reason available as a calculable resource. The challenge that provokes us to such making-available orders everything into a single design” (GA4: 178).
+[^note-102]: 102\. “The people of this earth are challenged by the unconditional dominance of the essence of modern technology, together with technology itself, to order the whole of the world into a uniform condition, secured by a final world-formula, and for that reason available as a calculable resource. The challenge that provokes us to such making-available orders everything into a single design” (GA4: 178).
 
-[^note-103]: 103. See also Wrathall & Lambeth 2011: 180:
+[^note-103]: 103\. See also Wrathall & Lambeth 2011: 180:
 
 > Though the ancient Greeks were responsive to the entities around them, something apparent in their ability to shift attunements in response to a multiplicity of gods, they did not really conceive of themselves as playing a part in a process of mutual attuning. Things would whoosh up before them, and this could strike them as terrifying or awe-inspiring. They experienced certain things as happening to them, gods and entities as coming upon them, but they did not see themselves as taking part in the process of world disclosure.
 
@@ -1312,27 +1312,27 @@ Heidegger explains, is
 
 > the belonging together of being and human beings. In this belonging together, those that belong together are no longer being and human being, but rather—as adapted—mortals in the fourfold of the world. (GA10: 51)
 
-[^note-104]: 104. See also GA9: 368 / P 279: “If our thinking should succeed in its efforts to go back into the ground of metaphysics”, Heidegger observes in 1949, “it might well help to bring about a change in the human essence, a change accompanied by a transformation of metaphysics”.
+[^note-104]: 104\. See also GA9: 368 / P 279: “If our thinking should succeed in its efforts to go back into the ground of metaphysics”, Heidegger observes in 1949, “it might well help to bring about a change in the human essence, a change accompanied by a transformation of metaphysics”.
 
-[^note-105]: 105. See GA5: 111 / OTBT 84. See also GA48: 213:
+[^note-105]: 105\. See GA5: 111 / OTBT 84. See also GA48: 213:
 
 > Man therefore does not become a subject by withdrawing into himself and isolating himself from the world, but rather by discovering the world, conquering the world, researching the world, dominating the world, ruling the world in an ever more pure and unconditional way.
 
 One can detect in this passage from the late 1930s and early 1940s Heidegger’s growing disillusionment with the ethno-nationalist politics of the National Socialists.
 
-[^note-106]: 106. See also GA100: 283: “the pure abandonment of metaphysics” only happens, Heidegger claims, “from the simple dwelling in the fourfold, as conditioned by things” (*einfach be-dingten Wohnen im Geviert.*)
+[^note-106]: 106\. See also GA100: 283: “the pure abandonment of metaphysics” only happens, Heidegger claims, “from the simple dwelling in the fourfold, as conditioned by things” (*einfach be-dingten Wohnen im Geviert.*)
 
-[^note-107]: 107. Malpas asks:
+[^note-107]: 107\. Malpas asks:
 
 > Yet what is the “home”, in German the “*Heimat,*” to which we are supposed to return? Is it, to take a handful of possibilities, Heidegger’s Black Forest, Wordsworth’s Lake District, John Clare’s native Northamptonshire, or central Australia as articulated in Pinjarra Aboriginal Dreaming? Is it to the juxtaposition of bush, hill, and sea that is so characteristic of the New Zealand North Island countryside (and of some parts of Tasmania), to the mountainous, sky-filled landscape of the Himalayas, the rocky desert country of North Africa, or the open prairie of the American West? Is it the “home” of some premodern agrarian existence, or could it possibly be found in the contemporary urban life of cities such as New York, Beijing or Sydney? In fact, the home that Heidegger is concerned with, in spite of his preference for imagery drawn from his own German life and experience, is none of these, and yet it could also be found in all or any one of them. (Malpas 2006: 309)[^malpas-2006]
 
-[^note-108]: 108. “Dwelling is accomplished”, Heidegger explains, “in such a way that it conserves the world into things…. Conserving the world into things requires things that grant to the inhabited world and thus to dwelling a place to stay” (GA80.2: 1077).
+[^note-108]: 108\. “Dwelling is accomplished”, Heidegger explains, “in such a way that it conserves the world into things…. Conserving the world into things requires things that grant to the inhabited world and thus to dwelling a place to stay” (GA80.2: 1077).
 
-[^note-109]: 109. “Like Heidegger, deep ecologists criticize the metaphysical presuppositions allegedly responsible for ecological destruction, and also contend that a transformed awareness of what humanity and nature ‘are’ would lead spontaneously to a transformation of society. The solution to the environmental crisis, then, would involve an ontological shift: from an anthropocentric, dualistic, and utilitarian understanding of nature to an understanding which ‘lets things be’, i.e., which discloses things other than merely as raw material for human ends. A nonanthropocentric humanity, having undergone what amounts to a spiritual transformation, would presumably develop attitudes, practices, and institutions that would exhibit respect and care for all beings” (Zimmerman 1993: 196)[^zimmerman-1993].
+[^note-109]: 109\. “Like Heidegger, deep ecologists criticize the metaphysical presuppositions allegedly responsible for ecological destruction, and also contend that a transformed awareness of what humanity and nature ‘are’ would lead spontaneously to a transformation of society. The solution to the environmental crisis, then, would involve an ontological shift: from an anthropocentric, dualistic, and utilitarian understanding of nature to an understanding which ‘lets things be’, i.e., which discloses things other than merely as raw material for human ends. A nonanthropocentric humanity, having undergone what amounts to a spiritual transformation, would presumably develop attitudes, practices, and institutions that would exhibit respect and care for all beings” (Zimmerman 1993: 196)[^zimmerman-1993].
 
-[^note-110]: 110. A poetic dwelling consists in “the way [mortals] preserve the fourfold in its essence” (GA7: 152 / PLT 148).
+[^note-110]: 110\. A poetic dwelling consists in “the way [mortals] preserve the fourfold in its essence” (GA7: 152 / PLT 148).
 
-[^note-111]: 111. “[E]arth and sky, divinities and mortals, united to each other of their own accord, belong together by way of the simpleness of the united fourfold. Each of the four reflects in its own way the essence of the others. At the same time, each in its own way is reflected back into its own, within the simple onefold of the four…. None of the four insists on its own separate particularity”. (GA7: 171 / PLT 179).
+[^note-111]: 111\. “[E]arth and sky, divinities and mortals, united to each other of their own accord, belong together by way of the simpleness of the united fourfold. Each of the four reflects in its own way the essence of the others. At the same time, each in its own way is reflected back into its own, within the simple onefold of the four…. None of the four insists on its own separate particularity”. (GA7: 171 / PLT 179).
 
 [^all-nd]: All volumes of Heidegger’s collected works or *Gesamtausgabe* (abbreviated *GA*) are published in Frankfurt am Main by Klostermann. Where available, information is included on English-language translations. Existing translations have been altered for consistency. Most translations include references to the GA pagination in the margin, in the header, or inserted into the text. Where translations lack such references, a parallel citation is provided to the translation.
 

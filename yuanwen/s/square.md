@@ -341,11 +341,11 @@ Aristotle, General Topics: logic | Brentano, Franz: theory of judgement | contra
 
 [^note-12]: Peter of Spain, *Summulae* I.15 in Copenhaver, Normore, Parsons 2014, 112–115.
 
-[^note-13]: 3.3 in Kretzmann 1966, 59.
+[^note-13]: 3\.3 in Kretzmann 1966, 59.
 
 [^note-14]: Roger Bacon, 2009, paragraph 279.
 
-[^note-15]: 1.8–11 in Perreiah 1984, 127–130.
+[^note-15]: 1\.8–11 in Perreiah 1984, 127–130.
 
 [^note-16]: “From every affirmative there follows a negative by changing the predicate from finite to infinite, other things remaining the same, but from a negative to an affirmative is not a formal consequence, but its is a consequence on the assumption that all of the terms supposit for something.” [*Tractatus de Consequentiis* I.8.107: Read 2015, 93.][^read-2015]
 

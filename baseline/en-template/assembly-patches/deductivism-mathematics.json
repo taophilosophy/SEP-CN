@@ -5,39 +5,10 @@
  "note": "格式层残差补丁：m=标记段、u=单元布局、r=纯布局区段；禁含散文",
  "stats": {
   "page_bytes": 92336,
-  "pool_bytes": 46574,
-  "n_patches": 122
+  "pool_bytes": 46541,
+  "n_patches": 121
  },
  "patches": [
-  {
-   "u": 9201,
-   "len": 31,
-   "sha": "efa146b1c9b4ddd5",
-   "items": [
-    [
-     "mk",
-     "<a href=\"#Russ\">"
-    ],
-    [
-     "tx",
-     0,
-     3
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     3,
-     7
-    ],
-    [
-     "mk",
-     "</a>"
-    ]
-   ]
-  },
   {
    "r": 10390,
    "len": 12,

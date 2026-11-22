@@ -5,39 +5,10 @@
  "note": "格式层残差补丁：m=标记段、u=单元布局、r=纯布局区段；禁含散文",
  "stats": {
   "page_bytes": 100211,
-  "pool_bytes": 55758,
-  "n_patches": 99
+  "pool_bytes": 55723,
+  "n_patches": 98
  },
  "patches": [
-  {
-   "u": 9200,
-   "len": 40,
-   "sha": "64fdbfd07c288fa5",
-   "items": [
-    [
-     "mk",
-     "<a href=\"#PriLit\">"
-    ],
-    [
-     "tx",
-     0,
-     7
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     7,
-     10
-    ],
-    [
-     "mk",
-     "</a>"
-    ]
-   ]
-  },
   {
    "u": 9563,
    "len": 1509,

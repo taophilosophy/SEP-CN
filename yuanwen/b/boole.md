@@ -367,11 +367,11 @@ Boole turned to the topic of the interpretability of a logical function in Chapt
 
 Boole’s Chapter XI *Of Secondary Propositions* is parallel to the treatment in *MAL* except that he changed from using *the cases when $X$ is true* to *the times when $X$ is true*. In Chapter XIII Boole selected arguments of Clarke and Spinoza, on the nature of an eternal being, to put under the magnifying glass of his algebra of logic, starting with the comment (*LT*, p. 185):
 
-> 2. The chief practical difficulty of this inquiry will consist, not in the application of the method to the premises once determined, but in ascertaining what the premises are.
+> 2\. The chief practical difficulty of this inquiry will consist, not in the application of the method to the premises once determined, but in ascertaining what the premises are.
 
 One conclusion was (*LT*, p. 216):
 
-> 19. It is not possible, I think, to rise from the perusal of the arguments of Clarke and Spinoza without a deep conviction of the futility of all endeavours to establish, entirely a priori, the existence of an Infinite Being, His attributes, and His relation to the universe.
+> 19\. It is not possible, I think, to rise from the perusal of the arguments of Clarke and Spinoza without a deep conviction of the futility of all endeavours to establish, entirely a priori, the existence of an Infinite Being, His attributes, and His relation to the universe.
 
 In the final chapter on logic, Chapter XV, Boole presented his analysis of the conversions and syllogisms of Aristotelian logic. He now considered this ancient logic to be a weak, fragmented attempt at a logical system. This neglected chapter is quite interesting because it is the *only* chapter where he analyzed particular propositions, making essential use of additional letters like *$v$* to encode *some*. This is also the chapter where he stated (incompletely) the rules for working with *some*.
 

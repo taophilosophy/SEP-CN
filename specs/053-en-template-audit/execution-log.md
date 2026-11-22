@@ -241,3 +241,25 @@ B3.1 回归：不动点 **1,435/1,873（76.6%）**（此前 1,240，＋195，无
 **实测**：池 **1,486（79.3%）／缺口 387／stale 0**（上批 1,483/390）；转池 4（axiom-choice／belief-merging／confirmation／decision-theory），失池 1（discourse-representation-theory，公式游标错位）；池占页 **38.59%**；B3.1 **1,569 不变**（两账在 B3.1 路径下均传 None）。
 
 **教训**：账里的精确序号不等于更好的定位——账 nth 与 md 实际出现次数不等时精确匹配会全盘错位；启发式＋局部守卫更稳。转换层为渲染加的包裹必须同时入账（`math_forms`），否则右逆无从还原。
+
+## 2026-11-22 B3.2 第九批：字面编号段落转义（池 1,486→1,513）
+
+**缺陷**：H0 有 `<p>\n1. (Quantity) According…` 形式的作者手打字面编号段落，全库 **224 处／35 件**（kilvington 35、alyngton 29、causation-law 16、rationality-historicist 15、fallacies 13）。md 行首 `N.` 被 markdown 当有序列表，右逆发 `<ol>` 吞号，文字层缺 `1.`。
+
+**修复**：C 侧 `_escape_leading_hash` 从“只转 `#`”扩为块级行首双义转义，新增 `^(\d+)\.` → `\1\\.`（仅块首，不涉软换行）；R 侧 `\.` 先占位 `\x18`、收尾还原 `.`，字面 `1.` 回到 `<p>` 内。全量重转 1,873 件。
+
+**实测**：B3.1 **1,585（+16，转红 0）**（转绿 alyngton／arnauld／causation-law／economics／fallacies／fatalism／kaspi-joseph／learning-formal／mind-indian-buddhism／nonexistent-objects／rationality-historicist／reference／teleological-arguments／tibbon／toleration／transcendental-arguments）；池 **1,513（80.8%）／缺口 360／stale 0**，转池 27、失池 0，池占页 **39.50%**。
+
+**教训**：行首结构义要在 C 侧全部枚举（标题 `#`、列表号 `N.`……），只做一半就是漏网；转义点用“反斜杠＋原字符”（`N\.`）而不是占位符，md 可读性与右逆可逆性兼得。
+
+## 2026-11-22 B3.2 第十批：导航区逐字与书目定义表入账（池 1,513→1,529）
+
+**缺陷一**：`toc_block` 账内逐字，但 `wrap_article` 把 toc 的 `<li>` 一并交 `wrap_html`——标签计入宽度使短项被折（`2.1\nValue-Feelings`），`split(" ")` 又坍掉 H0 双空格（`2.  Axiology`→`2. Axiology`），文字段错位致整页 `unaligned text units`（alain-locke）。修复：`wrap_article` 切出 `<div id="toc">…</div>` 不折（同 related-entries 处理，配平守卫防嵌套 div）；顺带 `wrap_html` 连续空格保真（H0 439 件正文有词间双空格）。
+
+**缺陷二**：书目区缩写键块 `<dl class="sentag …"><dt>[AOP]</dt><dd>…</dd>` 被 C 折成散文段落，而 `scan_bib` 的 `BI_START` 不含 `<dl>`，`bib_seq` 无 dl 位，`_render_bib` 整块漏发（23 件全 gap）。修复：账新增 `bib_dl`（`attrs`＋`pairs: [[dt_pidx, dd_pidx, dt_attrs, dd_attrs]]`，纯整数与属性、**文字仍取自 md 段**）；`extract_bib_seq` 逐对按可见文等值在 References 散文序定位，空 `<dt> </dt>` 不占位（contract-law），配对不全回落散文序逐件发 `p`；`_render_bib` 按账发 `<dl>`/`<dt>`/`<dd>`。账重抽：变更 26 件，新增键只有 `bib_dl`。
+
+**实测**：池 **1,529（81.6%）／缺口 344／stale 0**（上批 1,513/360）；转池 16（addams-jane／alain-locke／contract-law／japanese-philosophy／kant-conceptualism／kant-hume-morality／leibniz-evil／luxemburg／meister-eckhart／nietzsche-aesthetics／reid-ethics／rorty／scholem／srigupta／vasubandhu／wilhelm-wundt），失池 0；池占页 **39.65%**。B3.1 本批不动（只改 R/账）。
+
+**残留族**：dd 内嵌 `<ol>`（heidegger）／书目区首段说明被丢（leibniz-exoteric）／书目区整节位置漂移（bruno）／交叉引用注 `see note 20`→空键 `[^note-]`（ratnakirti／boethius-dacia）／dl 文字折进脚注定义（leibniz-ethics／levinas）／字符漂移 `10−35` vs `10-35`（ibn-sina-natural，同步线）。
+
+**教训**：文本处理器作用于整页时，任何“逐字”区间都必须整体退出处理链（否则破坏文字段对齐，代价是整页 gap）；列表结构在 C 侧一律降级为散文，还原信息必须入账，且账只记索引与属性、文字归 md；配对失败要回落不硬发。

@@ -5,8 +5,8 @@
  "note": "格式层残差补丁：m=标记段、u=单元布局、r=纯布局区段；禁含散文",
  "stats": {
   "page_bytes": 87588,
-  "pool_bytes": 30467,
-  "n_patches": 70
+  "pool_bytes": 30423,
+  "n_patches": 69
  },
  "patches": [
   {
@@ -32,44 +32,6 @@
    "len": 5,
    "sha": "d24ff827d6aec3cc",
    "after": "</p>\n\n"
-  },
-  {
-   "u": 10923,
-   "len": 42,
-   "sha": "a358f8ea99cf6da5",
-   "items": [
-    [
-     "mk",
-     "<a href=\"#WillGodw\">"
-    ],
-    [
-     "tx",
-     0,
-     3
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     3,
-     7
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     10,
-     6
-    ],
-    [
-     "mk",
-     "</a>"
-    ]
-   ]
   },
   {
    "u": 17214,

@@ -149,13 +149,13 @@ As we could see, Augustine makes recognition of truth dependent on divine illumi
 
 But this seems to go against at least
 
-> 1. the experience that there are knowledgeable non-believers or pagans
+> 1\. the experience that there are knowledgeable non-believers or pagans
 >
-> 2. the Aristotelian insight that we can have infallible comprehension of the first principles of scientific demonstrations for which we only need the intellectual concepts that we can acquire naturally, from experience by abstraction,[^note-22]
+> 2\. the Aristotelian insight that we can have infallible comprehension of the first principles of scientific demonstrations for which we only need the intellectual concepts that we can acquire naturally, from experience by abstraction,[^note-22]
 
 and
 
-> 3. the philosophical-theological consideration that if human reason, man’s natural faculty for acquiring truth were not sufficient for performing its natural function, then human nature would be naturally defective in its noblest part, precisely in which it was created after the image of God.
+> 3\. the philosophical-theological consideration that if human reason, man’s natural faculty for acquiring truth were not sufficient for performing its natural function, then human nature would be naturally defective in its noblest part, precisely in which it was created after the image of God.
 
 In fact, these are only some of the problems explicitly raised and considered by medieval Augustinians, which prompted their ever more refined accounts of the role of illumination in human cognition.
 

@@ -184,11 +184,11 @@ It is implied in the 1956 paper that a proposition $p$ is to be called a theorem
 
 Axioms for $U$ are selected from a list containing (among others):
 
-1. $Uaa$ $(U$ is reflexive)
+1\. $Uaa$ $(U$ is reflexive)
 
-2. $Uab \rightarrow (Ubc \rightarrow Uac)$ ($U$ is transitive)
+2\. $Uab \rightarrow (Ubc \rightarrow Uac)$ ($U$ is transitive)
 
-3. $Uab \rightarrow Uba$ ($U$ is symmetrical).
+3\. $Uab \rightarrow Uba$ ($U$ is symmetrical).
 
 Axiom 2 was also present in the 1954 $l$-calculus.
 

@@ -109,6 +109,6 @@ where ${C}(\vec{x})$ is a $\Sigma$ formula, $\vec{s}$ are set terms of levels $<
 
 ## Notes（原文脚注，引自主文）
 
-[^note-55]: 55. For more background information see Takeuti 1985: 259; Feferman 1989: 362, and Pohlers 1991: 374.
+[^note-55]: 55\. For more background information see Takeuti 1985: 259; Feferman 1989: 362, and Pohlers 1991: 374.
 
 ### Notes to Appendix E

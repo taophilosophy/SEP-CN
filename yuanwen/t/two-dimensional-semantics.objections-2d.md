@@ -82,6 +82,6 @@ The second distinctive aspect of the empiricist account of meaning is the idea t
 
 ## Notes（原文脚注，引自主文）
 
-[^note-28]: 28. It’s worth noting that a 2D empiricist is *not* committed to the rationalist’s Core Thesis. The empiricist project is to explain how speakers manage to coordinate their reference-fixing criteria through implicit conventions. For these purposes, there is no need to insist that 1-intensions must be defined for worlds with no thought or language: we may have no interest in deciding how to apply terms in situations in which we ourselves don’t exist. It is the rationalist project of linking meaning to the space of apriori coherent scenarios that gives rise to the Core Thesis.
+[^note-28]: 28\. It’s worth noting that a 2D empiricist is *not* committed to the rationalist’s Core Thesis. The empiricist project is to explain how speakers manage to coordinate their reference-fixing criteria through implicit conventions. For these purposes, there is no need to insist that 1-intensions must be defined for worlds with no thought or language: we may have no interest in deciding how to apply terms in situations in which we ourselves don’t exist. It is the rationalist project of linking meaning to the space of apriori coherent scenarios that gives rise to the Core Thesis.
 
 ### Notes to [Objections to the Metasemantic Interpretation](two-dimensional-semantics.objections-meta.md)

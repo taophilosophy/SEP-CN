@@ -108,9 +108,9 @@ $$ w = st(p + r(1-p)) $$
 
 Six questions were posed and answered by Boole, the first two being:
 
-1. “What is the expression for $w$ in terms of $p, s$ and $t$ after eliminating $r$?” [*LT* pp. 106–107, 112]
+1\. “What is the expression for $w$ in terms of $p, s$ and $t$ after eliminating $r$?” [*LT* pp. 106–107, 112]
 
-2. “What is the expression for $s$ in terms of $w, p$ and $t$ after eliminating $r$?” [*LT* pp. 107–110]
+2\. “What is the expression for $s$ in terms of $w, p$ and $t$ after eliminating $r$?” [*LT* pp. 107–110]
 
 Boole answered these two as follows, where intermediate steps that Boole skipped over have been added — an asterisk (\*) follows each equation that is stated exactly as in *LT*:
 

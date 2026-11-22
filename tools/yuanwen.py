@@ -834,13 +834,20 @@ class Ctx:
 
 
 def _escape_leading_hash(text):
-    """块级文本行首字面 `#` 转义（specs/039 P5 尾，disjunction 判例）。
+    """块级文本行首结构义转义：字面 `#`（标题）与 `N.`（有序列表）。
 
     上游偶见作者在例句/段落起句处打字面 `#`（`<dd># Absolument! …`，
     亦有紧贴无空格的 `#Absolument`），原样落行首会被渲染为标题——md
     语义失真。文字照录不变（ADR-0062），仅转义结构义；仅处理行首。
-    标题分支（h1–h6 emit）不经此处，不受影响。"""
-    return '\\' + text if text.startswith('#') else text
+    标题分支（h1–h6 emit）不经此处，不受影响。
+
+    同理 H0 有 `<p>\n1. (Quantity) According…` 这类**字面编号段落**
+    （全库 224 处/35 件，alyngton／kilvington 判例）：落行首会被 markdown 当
+    有序列表，右逆发 `<ol>` 丢掉数字、文字层不等。转义点为 `N\\.`，右逆按
+    字面 `N.` 还原并发 `<p>`。"""
+    if text.startswith('#'):
+        return '\\' + text
+    return re.sub(r'^(\d+)\.', r'\1\\.', text)
 
 
 def _drop_duplicate_h1(md):

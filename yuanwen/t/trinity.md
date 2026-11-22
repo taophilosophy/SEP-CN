@@ -627,7 +627,7 @@ Logician Jc Beall (2023a)[^beall-2023a] vigorously defends a version of the doct
 
 Building on his earlier work, this account assumes that “Christ is a contradictory being, one of whom some contradictions are true” (2023a, 4; Beall 2021)[^beall-2021], that theology aims at truth and so is subject to logic (2023a, 5–8), that there is only one god, the triune God (8–11), and that the “Athanasian” creed specifies “the ‘axioms’ (so to speak) of trinitarian reality” (9). That creed, read in a “simple, flat-footed — and charitable” way, requires:
 
-> 1. “the divine persons are pairwise distinct (i.e., non-identical).”
+> 1\. “the divine persons are pairwise distinct (i.e., non-identical).”
 > 2. “each divine person is (identical to) God.”
 > 3. “the number of gods is 1 (viz., God).” (10)
 

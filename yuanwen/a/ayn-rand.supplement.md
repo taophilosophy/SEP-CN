@@ -88,4 +88,4 @@ Beyond the realm of human choice, however, Rand regards all facts and events as 
 
 ## Notes（原文脚注，引自主文）
 
-[^note-13]: 13. Rand’s position bears some resemblance to C.S. Lewis’s self-refutation argument against naturalism, famously critiqued by G.E.M. Anscombe. See C.S. Lewis, *Miracles*, ch. 3. London & Glasgow 1947, revised 1960; and G.E.M. Anscombe, “Reply to Mr. C.S. Lewis’s Argument that ‘Naturalism’ is Self-Refuting”, *Socratic Digest* 4 (1948), 7–15; reprinted in *The Collected Philosophical Papers of G. E. M. Anscombe, Vol. II: Metaphysics and the Philosophy of Mind* (Oxford 1981), 224–232.
+[^note-13]: 13\. Rand’s position bears some resemblance to C.S. Lewis’s self-refutation argument against naturalism, famously critiqued by G.E.M. Anscombe. See C.S. Lewis, *Miracles*, ch. 3. London & Glasgow 1947, revised 1960; and G.E.M. Anscombe, “Reply to Mr. C.S. Lewis’s Argument that ‘Naturalism’ is Self-Refuting”, *Socratic Digest* 4 (1948), 7–15; reprinted in *The Collected Philosophical Papers of G. E. M. Anscombe, Vol. II: Metaphysics and the Philosophy of Mind* (Oxford 1981), 224–232.

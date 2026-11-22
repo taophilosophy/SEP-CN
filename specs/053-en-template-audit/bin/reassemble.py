@@ -332,6 +332,9 @@ def _inline_md_to_html(text):
     s = re.sub(r"(?<!\\)\\\$", "\x05", s)
     # C 侧行首 `#`（“不合语法”标记）转义成 `\#`（yuanwen 行首标题防线）
     s = s.replace("\\#", "\x13")
+    # C 侧字面编号段落 `1\.`（H0 `<p>\n1. …`，alyngton 判例）：点号转义防
+    # 被 markdown 当有序列表；此处还原字面 `1.`，行首 `N.` 不再触发列表分支
+    s = s.replace("\\.", "\x18")
     # 原生上/下标 Unicode 字形 → <sup>/<sub>：C 的 _subsup_md 在“整段可映射”
     # 时直接产 Unicode 字形（6<sup>th</sup> → 6ᵗʰ），右逆须还原为标签段
     s = _unsubsup(s, SUP_REV, "sup")
@@ -406,6 +409,8 @@ def _inline_md_to_html(text):
     s = s.replace("\x12", "\\")
     # 行首 `#` 还原
     s = s.replace("\x13", "#")
+    # 字面编号段落的点号还原（`1\.` → `1.`）
+    s = s.replace("\x18", ".")
     # 图片占位还原（alt 内已有文本层转义，不再加工）
     for idx, tag in enumerate(img_store):
         s = s.replace("\x03%d\x03" % idx, tag)

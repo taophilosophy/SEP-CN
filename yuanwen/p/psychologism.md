@@ -63,23 +63,23 @@ Although the exact definition of ‘psychologism’ was itself part and parcel o
 
 (*PA 1*)
 
-1. Psychology is defined as the science which studies *all* (*kinds of*) laws of thought. 2. Logic is a field of inquiry which studies *a subset of* all laws of thought. *Ergo*, logic is a part of psychology.
+1\. Psychology is defined as the science which studies *all* (*kinds of*) laws of thought. 2. Logic is a field of inquiry which studies *a subset of* all laws of thought. *Ergo*, logic is a part of psychology.
 
 (*PA 2*)
 
-1. Normative-prescriptive disciplines — disciplines that tell us what we ought to do — must be based upon descriptive-explanatory sciences. 2. Logic is a normative-prescriptive discipline concerning human thinking. 3. There is only one science which qualifies as constituting the descriptive-explanatory foundation for logic: empirical psychology. *Ergo*, logic must be based upon psychology.
+1\. Normative-prescriptive disciplines — disciplines that tell us what we ought to do — must be based upon descriptive-explanatory sciences. 2. Logic is a normative-prescriptive discipline concerning human thinking. 3. There is only one science which qualifies as constituting the descriptive-explanatory foundation for logic: empirical psychology. *Ergo*, logic must be based upon psychology.
 
 (*PA 3*)
 
-1. Logic is the theory of judgments, concepts, and inferences. 2. Judgments, concepts, and inferences are human mental entities. 3. All human mental entities fall within the domain of psychology. *Ergo*, logic is a part of psychology.
+1\. Logic is the theory of judgments, concepts, and inferences. 2. Judgments, concepts, and inferences are human mental entities. 3. All human mental entities fall within the domain of psychology. *Ergo*, logic is a part of psychology.
 
 (*PA 4*)
 
-1. The touchstone of logical truth is the feeling of self-evidence. 2. The feeling of self-evidence is a human mental experience. *Ergo*, logic is about a human mental experience — and thus a part of psychology.
+1\. The touchstone of logical truth is the feeling of self-evidence. 2. The feeling of self-evidence is a human mental experience. *Ergo*, logic is about a human mental experience — and thus a part of psychology.
 
 (*PA 5*)
 
-1. We cannot conceive of alternative logics. 2. The limits of conceivability are mental limits. *Ergo*, logic is relative to the thinking of the human species; and this thinking is studied by psychology.
+1\. We cannot conceive of alternative logics. 2. The limits of conceivability are mental limits. *Ergo*, logic is relative to the thinking of the human species; and this thinking is studied by psychology.
 
 Who actually held these views, indeed whether anyone did, was hotly contested at the time, but it seems reasonable to attribute *PA 1* to Theodor Lipps (1893)[^lipps-1893] and Gerardus Heymans (1894, 1905)[^heymans-1905], *PA 2* to Wilhelm Wundt (1880/83), *PA 3* to Wilhelm Jerusalem (1905)[^jerusalem-1905] and Christoph Sigwart (1921), *PA 4* to Theodor Elsenhans (1897)[^elsenhans-1897], and *PA 5* to Benno Erdmann (1892)[^erdmann-1892]. We might also note a couple of quotations that for many authors at the time were paradigmatic expressions of psychologism. The bulk of the first quotation comes from Mill’s *Logic* and has already been quoted in the last section:
 

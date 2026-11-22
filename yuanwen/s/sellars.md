@@ -306,7 +306,7 @@ Sellars needs a principle like this, since logical connectives (by his stipulati
 
 To use “So-be-it” properly, one must be able to distinguish between what is “up to one”, symbolized by ‘[φ]’, and what is not, captured in the symbolism by ‘*p*’. A fairly straightforward picture of practical reasoning emerges.
 
-> 94. Thus C[onjunction] I[ntroduction] together with So-be-it, takes our separate purposes and relevant beliefs and puts them together into encompassing alternatives:
+> 94\. Thus C[onjunction] I[ntroduction] together with So-be-it, takes our separate purposes and relevant beliefs and puts them together into encompassing alternatives:
 >
 > 1. Shall be [I do *A* at *t*, which means that …]?
 > 2. Shall be [I do *B* at *t*, which means that …]?
@@ -321,7 +321,7 @@ To use “So-be-it” properly, one must be able to distinguish between what is 
 >
 > which, when time t comes (and I do not change my mind), generates a doing (or an attempt to do) *B*.
 >
-> 95. This picture is one according to which practical reasoning is essentially the process of elaborating alternative scenarios for a choice (ORAV ¶94: 91).
+> 95\. This picture is one according to which practical reasoning is essentially the process of elaborating alternative scenarios for a choice (ORAV ¶94: 91).
 
 Clearly, the elaboration of alternatives is a rational process. Is making the ultimate choice among these alternatives also a matter of reason? In what sense is the choice among fully elaborated alternatives anything other than an arbitrary, personal choice? For answers, we need to look at Sellars’s views on the nature of oughts and the normativity they express.
 

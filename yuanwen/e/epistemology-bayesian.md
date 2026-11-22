@@ -799,7 +799,7 @@ where $\Cr(B_k)$ is nonzero for each $k$ and propositions $B_1,$…, $B_n$ form 
 
 [^note-9]: Interestingly, although Harper’s work (1976, 1978) and Levi’s work (1980: ch. 1–4) on change of certainties belong to Bayesian epistemology, those works actually made an important contribution to the creation of another area of formal epistemology, called *belief revision theory*. Namely, Harper’s and Levi’s axioms for change of certainties were first reinterpreted as axioms for change of all-or-nothing beliefs, and then adopted as the standard axioms in belief revision theory. Those axioms include, for example, the axioms that are now known as *the AGM axioms* and *Levi identity*. For the relevant history, see section 1.1 of the entry on logic of belief revision.
 
-[^note-10]: 10. Although this idea is attributed by Easwaran (2014: sec. 2.4) to Hájek (2003)[^hájek-2003], it can only be found in the former paper but not in the latter.
+[^note-10]: 10\. Although this idea is attributed by Easwaran (2014: sec. 2.4) to Hájek (2003)[^hájek-2003], it can only be found in the former paper but not in the latter.
 
 [^adler-2006]: Adler, Jonathan, 2006 [2017], “Epistemological Problems of Testimony”, *The Stanford Encyclopedia of Philosophy* (Winter 2017 Edition), Edward N. Zalta (ed.), first written 2006. URL = <[https://plato.stanford.edu/archives/win2017/entries/testimony-episprob/](https://plato.stanford.edu/archives/win2017/entries/testimony-episprob/)>.
 

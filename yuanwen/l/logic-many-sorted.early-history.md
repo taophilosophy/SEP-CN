@@ -100,11 +100,11 @@ In 2016, Feferman gave a talk at the *AMS/ASL session on applications of Logic, 
 
 ## Notes（原文脚注，引自主文）
 
-[^note-34]: 34. The official publication date by Princeton University Press is 1956, despite the fact that, in the references of Wang (1952), the date of publication is 1944. We know that early forms of the book were available in manuscript form before 1956 (see Henkin 1996, p. 133). Exercise 55.24 (p. 339) is in Chapter 5 and according to the Preface, the work on Chapters 3, 4, and 5 was done in 1948–1951 (Church 1956, vi).
+[^note-34]: 34\. The official publication date by Princeton University Press is 1956, despite the fact that, in the references of Wang (1952), the date of publication is 1944. We know that early forms of the book were available in manuscript form before 1956 (see Henkin 1996, p. 133). Exercise 55.24 (p. 339) is in Chapter 5 and according to the Preface, the work on Chapters 3, 4, and 5 was done in 1948–1951 (Church 1956, vi).
 
-[^note-35]: 35. The one-sorted elementary logic Wang refers to is the one presented in Quine 1940.
+[^note-35]: 35\. The one-sorted elementary logic Wang refers to is the one presented in Quine 1940.
 
-[^note-36]: 36. In section 22, Quine says:
+[^note-36]: 36\. In section 22, Quine says:
 
 > We now turn to a connective “*ε*” which embodies the principal meaning of the ambiguous word “is”. Sometimes “is” has the sense of “$=$” or “is the same as”; such is its sense in *“Paris is the capital of France”*…. But in *“Paris is a city”* the word cannot be so construed. In such contexts “is” expresses rather possession of a property, or membership in a class: Paris belongs to the class of cities. (Quine 1940: 119)
 

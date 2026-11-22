@@ -29,4 +29,4 @@ Return to School of Names
 
 ## Notes（原文脚注，引自主文）
 
-[^note-29]: 29. See Brooks (1996). Brooks’s is probably the most informative historical study of Hui Shi, and I have benefited from many of his observations.
+[^note-29]: 29\. See Brooks (1996). Brooks’s is probably the most informative historical study of Hui Shi, and I have benefited from many of his observations.

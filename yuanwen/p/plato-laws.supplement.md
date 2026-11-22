@@ -18,9 +18,9 @@ None of these arguments provides good reason to accept the traditional interpret
 
 ## Notes（原文脚注，引自主文）
 
-[^note-51]: 51. E. Barker’s views and reasons are endorsed by Schöpsdau on 5.739B8–D5. Further, 7.807BC is a second passage that refers backs to 5.739–740. One might argue that 7.807B2–6 does not unambiguously claim that communism extends throughout the best city of 5.739–740. Although 7.807B2–6 at least very strongly implies that communism extends throughout the best city, 5.807BD makes it clear that the producer class is excluded from Magnesia (and thus also from the best city) because its members would be unable to pursue an active life of virtue. This points strongly in favor of communism extending throughout the best city.
+[^note-51]: 51\. E. Barker’s views and reasons are endorsed by Schöpsdau on 5.739B8–D5. Further, 7.807BC is a second passage that refers backs to 5.739–740. One might argue that 7.807B2–6 does not unambiguously claim that communism extends throughout the best city of 5.739–740. Although 7.807B2–6 at least very strongly implies that communism extends throughout the best city, 5.807BD makes it clear that the producer class is excluded from Magnesia (and thus also from the best city) because its members would be unable to pursue an active life of virtue. This points strongly in favor of communism extending throughout the best city.
 
-[^note-52]: 52. Miller’s interpretation is facilitated by his mistaken translation of *Rep.* 4.423E6–424A3:
+[^note-52]: 52\. Miller’s interpretation is facilitated by his mistaken translation of *Rep.* 4.423E6–424A3:
 
 > the rulers of his just and good city [i.e., Kallipolis] “will easily discover … how all … must be governed as far as possible [*hoti malista*] by the old proverb [*kata tên paroimian*] that friends share things in common [*koina ta philôn*]”.
 

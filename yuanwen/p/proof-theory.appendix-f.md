@@ -42,6 +42,6 @@ Ordinal analysis can also be used to extract information about other types of pr
 
 ## Notes（原文脚注，引自主文）
 
-[^note-59]: 59. For extensions and reflections see Sieg 1991.
+[^note-59]: 59\. For extensions and reflections see Sieg 1991.
 
-[^note-60]: 60. Theorem F.4 can be extracted from Kreisel, Mints and Simpson (1975), Lopez-Escobar (1976) or Schwichtenberg (1977) and was certainly known to these authors.
+[^note-60]: 60\. Theorem F.4 can be extracted from Kreisel, Mints and Simpson (1975), Lopez-Escobar (1976) or Schwichtenberg (1977) and was certainly known to these authors.

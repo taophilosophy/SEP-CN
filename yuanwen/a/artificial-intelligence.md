@@ -678,11 +678,11 @@ We would be remiss if we did not point out that the uncertainty challenge is a c
 
 [^note-39]: Searle has given various more general forms of the argument. For example, he summarizes the argument on page 39 of (Searle 1984)[^searle-1984] as one in which from
 
-> 2. *Syntax is not sufficient for semantics.*
+> 2\. *Syntax is not sufficient for semantics.*
 >
-> 3. *Computer programs are entirely defined by their formal, or syntactical, structure.*
+> 3\. *Computer programs are entirely defined by their formal, or syntactical, structure.*
 >
-> 4. *Minds have mental contents; specifically, they have semantic contents.*
+> 4\. *Minds have mental contents; specifically, they have semantic contents.*
 
 it’s supposed to follow that
 

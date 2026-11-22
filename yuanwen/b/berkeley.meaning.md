@@ -121,26 +121,26 @@ Practical language, however, may contain non-referential terms. Such language ma
 
 ## Notes（原文脚注，引自主文）
 
-[^note-36]: 36. See Belfrage 1985, 1986b; Berman 1994, 11–17; Pearce 2017, 11.
+[^note-36]: 36\. See Belfrage 1985, 1986b; Berman 1994, 11–17; Pearce 2017, 11.
 
-[^note-37]: 37. Berkeley, [W] 4:235–6.
+[^note-37]: 37\. Berkeley, [W] 4:235–6.
 
-[^note-38]: 38. This renunciation can also be seen in the earlier “Draft Introduction” of 1708. Berkeley, [W] 2:121–45.
+[^note-38]: 38\. This renunciation can also be seen in the earlier “Draft Introduction” of 1708. Berkeley, [W] 2:121–45.
 
-[^note-39]: 39. See Jesseph 1993, ch.1. There is a large literature concerning both how Locke viewed abstract ideas and how exactly Berkeley argued against them. Michael Ayers (1991, vol. 1, 249) has argued that Locke’s abstract ideas are actually not different from Berkeley’s particular ideas, generally considered.
+[^note-39]: 39\. See Jesseph 1993, ch.1. There is a large literature concerning both how Locke viewed abstract ideas and how exactly Berkeley argued against them. Michael Ayers (1991, vol. 1, 249) has argued that Locke’s abstract ideas are actually not different from Berkeley’s particular ideas, generally considered.
 
-[^note-40]: 40. Toland 1696, 29–30, 36, 42.
+[^note-40]: 40\. Toland 1696, 29–30, 36, 42.
 
-[^note-41]: 41. Collins 1976 [1717], 56 (p. 4 of 1717 text).
+[^note-41]: 41\. Collins 1976 [1717], 56 (p. 4 of 1717 text).
 
-[^note-42]: 42. See A 7.7.334–5. In the third edition of *Alciphron*, Berkeley omitted the sections wherein he presents and attacks the theory of abstract ideas. He let stand a rejection of abstract ideas, however, so, as Luce argues (in a note to A 7.4.291), this omission does not indicate any philosophical shift.
+[^note-42]: 42\. See A 7.7.334–5. In the third edition of *Alciphron*, Berkeley omitted the sections wherein he presents and attacks the theory of abstract ideas. He let stand a rejection of abstract ideas, however, so, as Luce argues (in a note to A 7.4.291), this omission does not indicate any philosophical shift.
 
-[^note-43]: 43. See 3D 233, PHK 89, and DM 21.
+[^note-43]: 43\. See 3D 233, PHK 89, and DM 21.
 
-[^note-44]: 44. Both Berman 1981 and Belfrage 1986a interpret Berkeley along these same lines, as holding in the end a bifurcated theory of meaning, which allows that some language is meaningful by suggesting ideas, and some in virtue of other, more practical uses. Pearce 2022 calls this a “modified ideational theory” and argues against it. For a well-worked-out alternative reading of Berkeley that attributes a radical and unified theory of meaning to him, see Pearce 2017, which puts *Alciphron* VII and philosophy of language at the heart of Berkeley’s idealist theorizing. One surprising outcome of Pearce’s interpretation is that both forces and bodies are, for Berkeley, theory-dependent entities to which we can equally well “quasi-refer”.
+[^note-44]: 44\. Both Berman 1981 and Belfrage 1986a interpret Berkeley along these same lines, as holding in the end a bifurcated theory of meaning, which allows that some language is meaningful by suggesting ideas, and some in virtue of other, more practical uses. Pearce 2022 calls this a “modified ideational theory” and argues against it. For a well-worked-out alternative reading of Berkeley that attributes a radical and unified theory of meaning to him, see Pearce 2017, which puts *Alciphron* VII and philosophy of language at the heart of Berkeley’s idealist theorizing. One surprising outcome of Pearce’s interpretation is that both forces and bodies are, for Berkeley, theory-dependent entities to which we can equally well “quasi-refer”.
 
-[^note-45]: 45. Terms which denote activities of spirit or relations are in the same boat.
+[^note-45]: 45\. Terms which denote activities of spirit or relations are in the same boat.
 
-[^note-46]: 46. See Berkeley, [W] 2:137–8.
+[^note-46]: 46\. See Berkeley, [W] 2:137–8.
 
-[^note-47]: 47. One might worry that Berkeley is left with a rather unsatisfying account of the religious doctrines he treats in *Alciphron* VII, since it turns out that “grace-theory,” for example, does not *describe* anything, such as a mode of action of God, but is simply inspirational. However, it should be noted that Berkeley applies this account only to certain Christian mysteries—grace, the Trinity, original sin, the nature of heaven. Berkeley maintains that we can have descriptive knowledge of God’s existence and his attributes. See Berman 1981, 219–229.
+[^note-47]: 47\. One might worry that Berkeley is left with a rather unsatisfying account of the religious doctrines he treats in *Alciphron* VII, since it turns out that “grace-theory,” for example, does not *describe* anything, such as a mode of action of God, but is simply inspirational. However, it should be noted that Berkeley applies this account only to certain Christian mysteries—grace, the Trinity, original sin, the nature of heaven. Berkeley maintains that we can have descriptive knowledge of God’s existence and his attributes. See Berman 1981, 219–229.

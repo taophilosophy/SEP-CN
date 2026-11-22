@@ -546,47 +546,47 @@ Descartes, René | Hume, David | idealism | Locke, John | Malebranche, Nicolas |
 
 [^note-35]: See Ott (2019)[^ott-2019] for an argument that this *De Motu* version of laws of nature was Berkeley’s position all along.
 
-[^note-36]: 36. See Belfrage 1985, 1986b; Berman 1994, 11–17; Pearce 2017, 11.
+[^note-36]: 36\. See Belfrage 1985, 1986b; Berman 1994, 11–17; Pearce 2017, 11.
 
-[^note-37]: 37. Berkeley, [W] 4:235–6.
+[^note-37]: 37\. Berkeley, [W] 4:235–6.
 
-[^note-38]: 38. This renunciation can also be seen in the earlier “Draft Introduction” of 1708. Berkeley, [W] 2:121–45.
+[^note-38]: 38\. This renunciation can also be seen in the earlier “Draft Introduction” of 1708. Berkeley, [W] 2:121–45.
 
-[^note-39]: 39. See Jesseph 1993, ch.1. There is a large literature concerning both how Locke viewed abstract ideas and how exactly Berkeley argued against them. Michael Ayers (1991, vol. 1, 249) has argued that Locke’s abstract ideas are actually not different from Berkeley’s particular ideas, generally considered.
+[^note-39]: 39\. See Jesseph 1993, ch.1. There is a large literature concerning both how Locke viewed abstract ideas and how exactly Berkeley argued against them. Michael Ayers (1991, vol. 1, 249) has argued that Locke’s abstract ideas are actually not different from Berkeley’s particular ideas, generally considered.
 
-[^note-40]: 40. Toland 1696, 29–30, 36, 42.
+[^note-40]: 40\. Toland 1696, 29–30, 36, 42.
 
-[^note-41]: 41. Collins 1976 [1717], 56 (p. 4 of 1717 text).
+[^note-41]: 41\. Collins 1976 [1717], 56 (p. 4 of 1717 text).
 
-[^note-42]: 42. See A 7.7.334–5. In the third edition of *Alciphron*, Berkeley omitted the sections wherein he presents and attacks the theory of abstract ideas. He let stand a rejection of abstract ideas, however, so, as Luce argues (in a note to A 7.4.291), this omission does not indicate any philosophical shift.
+[^note-42]: 42\. See A 7.7.334–5. In the third edition of *Alciphron*, Berkeley omitted the sections wherein he presents and attacks the theory of abstract ideas. He let stand a rejection of abstract ideas, however, so, as Luce argues (in a note to A 7.4.291), this omission does not indicate any philosophical shift.
 
-[^note-43]: 43. See 3D 233, PHK 89, and DM 21.
+[^note-43]: 43\. See 3D 233, PHK 89, and DM 21.
 
-[^note-44]: 44. Both Berman 1981 and Belfrage 1986a interpret Berkeley along these same lines, as holding in the end a bifurcated theory of meaning, which allows that some language is meaningful by suggesting ideas, and some in virtue of other, more practical uses. Pearce 2022 calls this a “modified ideational theory” and argues against it. For a well-worked-out alternative reading of Berkeley that attributes a radical and unified theory of meaning to him, see Pearce 2017, which puts *Alciphron* VII and philosophy of language at the heart of Berkeley’s idealist theorizing. One surprising outcome of Pearce’s interpretation is that both forces and bodies are, for Berkeley, theory-dependent entities to which we can equally well “quasi-refer”.
+[^note-44]: 44\. Both Berman 1981 and Belfrage 1986a interpret Berkeley along these same lines, as holding in the end a bifurcated theory of meaning, which allows that some language is meaningful by suggesting ideas, and some in virtue of other, more practical uses. Pearce 2022 calls this a “modified ideational theory” and argues against it. For a well-worked-out alternative reading of Berkeley that attributes a radical and unified theory of meaning to him, see Pearce 2017, which puts *Alciphron* VII and philosophy of language at the heart of Berkeley’s idealist theorizing. One surprising outcome of Pearce’s interpretation is that both forces and bodies are, for Berkeley, theory-dependent entities to which we can equally well “quasi-refer”.
 
-[^note-45]: 45. Terms which denote activities of spirit or relations are in the same boat.
+[^note-45]: 45\. Terms which denote activities of spirit or relations are in the same boat.
 
-[^note-46]: 46. See Berkeley, [W] 2:137–8.
+[^note-46]: 46\. See Berkeley, [W] 2:137–8.
 
-[^note-47]: 47. One might worry that Berkeley is left with a rather unsatisfying account of the religious doctrines he treats in *Alciphron* VII, since it turns out that “grace-theory,” for example, does not *describe* anything, such as a mode of action of God, but is simply inspirational. However, it should be noted that Berkeley applies this account only to certain Christian mysteries—grace, the Trinity, original sin, the nature of heaven. Berkeley maintains that we can have descriptive knowledge of God’s existence and his attributes. See Berman 1981, 219–229.
+[^note-47]: 47\. One might worry that Berkeley is left with a rather unsatisfying account of the religious doctrines he treats in *Alciphron* VII, since it turns out that “grace-theory,” for example, does not *describe* anything, such as a mode of action of God, but is simply inspirational. However, it should be noted that Berkeley applies this account only to certain Christian mysteries—grace, the Trinity, original sin, the nature of heaven. Berkeley maintains that we can have descriptive knowledge of God’s existence and his attributes. See Berman 1981, 219–229.
 
-[^note-48]: 48. The details of exactly what Berkeley’s version of passive obedience allows in terms of defying the commands of the sovereign is complicated and a matter of disagreement in the secondary literature. For an interesting argument that Berkeley’s principle allows for very little in the way of disobedience see (Airaksinen 2021, 2022)[^airaksinen-2021][^airaksinen-2022].
+[^note-48]: 48\. The details of exactly what Berkeley’s version of passive obedience allows in terms of defying the commands of the sovereign is complicated and a matter of disagreement in the secondary literature. For an interesting argument that Berkeley’s principle allows for very little in the way of disobedience see (Airaksinen 2021, 2022)[^airaksinen-2021][^airaksinen-2022].
 
-[^note-49]: 49. Rickless argues that Berkeley is best understood as adding an additional premise to the argument that we are morally obligated to do what God wills. The mere fact that God created and sustains us does not by itself justify the claim that we are obligated to do what God commands according to Rickless. In addition, the argument requires that the assumption that God is perfectly good (Rickless 2016, pp. 7–10)[^rickless-2016]. Berkeley clearly did accept the claim that God is perfectly good but doesn’t explicitly appeal to it in arguing for our obligation to obey God’s laws. We think it is unclear whether Berkeley thought his argument relied on these assumptions or not.
+[^note-49]: 49\. Rickless argues that Berkeley is best understood as adding an additional premise to the argument that we are morally obligated to do what God wills. The mere fact that God created and sustains us does not by itself justify the claim that we are obligated to do what God commands according to Rickless. In addition, the argument requires that the assumption that God is perfectly good (Rickless 2016, pp. 7–10)[^rickless-2016]. Berkeley clearly did accept the claim that God is perfectly good but doesn’t explicitly appeal to it in arguing for our obligation to obey God’s laws. We think it is unclear whether Berkeley thought his argument relied on these assumptions or not.
 
-[^note-50]: 50. Some interpreters focus only on the prudential source of the requirement to do what God commands (e.g. Darwall 2005)[^darwall-2005]. We think that the final two sentences of PO 6 clearly distinguish between interest and duty and claim that both sorts of considerations require acting in conformity to God’s will.
+[^note-50]: 50\. Some interpreters focus only on the prudential source of the requirement to do what God commands (e.g. Darwall 2005)[^darwall-2005]. We think that the final two sentences of PO 6 clearly distinguish between interest and duty and claim that both sorts of considerations require acting in conformity to God’s will.
 
-[^note-51]: 51. This might seem clear but it has been denied (Flage 2008)[^flage-2008] and there has been some debate in the literature over exactly how to understand Berkeley’s conception of God’s aim (Rickless 2016, Flage 2019)[^flage-2019][^rickless-2016].
+[^note-51]: 51\. This might seem clear but it has been denied (Flage 2008)[^flage-2008] and there has been some debate in the literature over exactly how to understand Berkeley’s conception of God’s aim (Rickless 2016, Flage 2019)[^flage-2019][^rickless-2016].
 
-[^note-52]: 52. Neither part of Berkeley’s proposal is original. The two most relevant precedents are John Law’s proposal of a system for Scotland involving a paper currency issued by a national bank and the use of paper currency in the American colonies, both of which are discussed in *The Querist*. Berkeley was familiar with the second from the time he spent in Rhode Island in the early 1730s.
+[^note-52]: 52\. Neither part of Berkeley’s proposal is original. The two most relevant precedents are John Law’s proposal of a system for Scotland involving a paper currency issued by a national bank and the use of paper currency in the American colonies, both of which are discussed in *The Querist*. Berkeley was familiar with the second from the time he spent in Rhode Island in the early 1730s.
 
-[^note-53]: 53. In 1721 there were resolutions passed in both houses of the Irish Parliament stating that anyone advocating a banking scheme would be “a Betrayer of the Liberty of his Country”. (Kelly 2010)[^kelly-2010]
+[^note-53]: 53\. In 1721 there were resolutions passed in both houses of the Irish Parliament stating that anyone advocating a banking scheme would be “a Betrayer of the Liberty of his Country”. (Kelly 2010)[^kelly-2010]
 
-[^note-54]: 54. We are influenced here by the recent biography Berkeley by Jones (Jones 2021, Chap. 7)[^jones-2021]. Jones explores Berkeley’s attitudes and knowledge of the lives and values of others and makes the case that Berkeley had limited interest in, knowledge of, and sympathy for those with values and lives different from his own.
+[^note-54]: 54\. We are influenced here by the recent biography Berkeley by Jones (Jones 2021, Chap. 7)[^jones-2021]. Jones explores Berkeley’s attitudes and knowledge of the lives and values of others and makes the case that Berkeley had limited interest in, knowledge of, and sympathy for those with values and lives different from his own.
 
-[^note-55]: 55. As his proposal for enslaving the able-bodied poor in Ireland suggests, Berkeley’s advocacy for some forms of slavery and his acceptance of other forms does not have an obvious root in what we would now describe as racism. In a sermon he preached to the Society for the Propagation of the Gospel in 1732, Berkeley identifies “an irrational contempt of Blacks, as Creatures of another Species” on the part of British planters as one of the chief obstacles to converting them to Christianity. (Berkeley [W] 3:122)
+[^note-55]: 55\. As his proposal for enslaving the able-bodied poor in Ireland suggests, Berkeley’s advocacy for some forms of slavery and his acceptance of other forms does not have an obvious root in what we would now describe as racism. In a sermon he preached to the Society for the Propagation of the Gospel in 1732, Berkeley identifies “an irrational contempt of Blacks, as Creatures of another Species” on the part of British planters as one of the chief obstacles to converting them to Christianity. (Berkeley [W] 3:122)
 
-[^note-56]: 56. Rozbicki (2001)[^rozbicki-2001] has a fascinating discussion of early modern advocacy of enslaving the poor in Great Britain.
+[^note-56]: 56\. Rozbicki (2001)[^rozbicki-2001] has a fascinating discussion of early modern advocacy of enslaving the poor in Great Britain.
 
 [^berkeley’s-nd]: The standard edition of Berkeley’s works is:
 

@@ -111,13 +111,13 @@ Davidson suggests that “[t]he logical constants may be identified as those ite
 
 This criterion certainly gives reasonable results when applied to standard truth theories like the one above (although the sign for identity once more gets counted as nonlogical). But as Davidson goes on to observe, “[l]ogical form, in this account, will of course be relative to the choice of a metalanguage (with its logic) and a theory of truth” (1984, 71). Different truth theories can be given for the same language, and they can agree on the truth conditions of whole sentences while differing in which expressions they treat in the recursive clauses. Here are two examples (both discussed further in Evans 1976)[^evans-1976].
 
-1. We might have recursive clauses for “large” and other gradable adjectives, along these lines:
+1\. We might have recursive clauses for “large” and other gradable adjectives, along these lines:
 
 For all assignments $a$, terms *τ*, and sentences *φ*, $\cq{\tau \text{ is a large } \phi }$ is satisfied by $a$ iff Ref(*τ*, $a$) is a large satisfier of *φ* on $a$. (cf. Evans 1976, 203)[^evans-1976]
 
 We would in this case have to use a metalanguage with a stronger logic, one that provides rules for manipulating “large satisfier of *φ* on $a$.” (As Evans notes, all we would really need in order to derive T-sentences would be a rule licensing the derivation of $\cq{\tau \text{ is a large satisfier of } \phi \text{ on } a}$ from $\cq{\phi \equiv \psi}$ and $\cq{\tau \text{ is a larger satisfier of } \psi \text{ on } a}$.) But such a metalanguage cannot be ruled out without begging the question about the logicality of “large.”
 
-2. We might assign values to “and”, “or”, and the other truth-functional connectives in the *base* clauses, allowing us to get by with a single generic recursive clause for truth-functional connectives:
+2\. We might assign values to “and”, “or”, and the other truth-functional connectives in the *base* clauses, allowing us to get by with a single generic recursive clause for truth-functional connectives:
 
 *Base:* For all assignments $a$, Ref(“or”, $a$) = Boolean disjunction (the binary truth function that takes the value True when either argument is True, and False otherwise).
 

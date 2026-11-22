@@ -666,45 +666,45 @@ I am grateful to Dirk van Dalen and Göran Sundholm for discussions of some of t
 
 [^note-30]: In his letter, Becker does not give the exact date. The Becker-Heyting correspondence, to the extent to which it seems to have been preserved, is kept with the Heyting papers at the Noord-Hollands Archief, Haarlem; it has been published in van Atten 2005.
 
-[^note-31]: 31. In a letter to Heyting of May 16, 1933, Gödel says he had found the translation in June 1932 (Gödel 2003a: 71)[^gödel-2003a]. In an earlier letter to Heyting, dated November 15, 1932 and concerning their projected joint book, Gödel asked Heyting to
+[^note-31]: 31\. In a letter to Heyting of May 16, 1933, Gödel says he had found the translation in June 1932 (Gödel 2003a: 71)[^gödel-2003a]. In an earlier letter to Heyting, dated November 15, 1932 and concerning their projected joint book, Gödel asked Heyting to
 
 > say something about the relation of Hilbert’s finitism (as he advocated it in his earlier works) and intuitionism. The former might perhaps recognize even fewer inference rules and concept formations than the latter. (Gödel 2003a: 63)[^gödel-2003a]
 
 Note that Gödel did not take this earlier opportunity to announce his translation to Heyting.
 
-[^note-32]: 32. A translation of intuitionistic propositional logic into a modal logic (anticipating $\mathbf{S4})$ had been given before Gödel, and before the earlier (failed) attempt Becker 1930 (cited by Gödel), by the Russian logician I.E. Orlov. See Došen 1992 and Bazhanov 2003. It seems that Gödel and Becker were unaware of this precursor.
+[^note-32]: 32\. A translation of intuitionistic propositional logic into a modal logic (anticipating $\mathbf{S4})$ had been given before Gödel, and before the earlier (failed) attempt Becker 1930 (cited by Gödel), by the Russian logician I.E. Orlov. See Došen 1992 and Bazhanov 2003. It seems that Gödel and Becker were unaware of this precursor.
 
-[^note-33]: 33. One has the impression that Gödel (1933f: 39n.1 [1986: 301n.1]) misses this point when he comments
+[^note-33]: 33\. One has the impression that Gödel (1933f: 39n.1 [1986: 301n.1]) misses this point when he comments
 
 > Kolmogorov (1932)[^kolmogorov-1932] has given a somewhat different interpretation of the intuitionistic propositional calculus, without, to be sure, specifying a precise formalism.
 
-[^note-34]: 34. Examples of interpretations of intuitionistic predicate logic in intuitionistically acceptable systems are Veldman 1976 and de Swart 1976, 1977. Veldman (1976: 159)[^veldman-1976] is explicit that his construction does not clarify the concept “intuitionistically true sentence” but is a technical device.
+[^note-34]: 34\. Examples of interpretations of intuitionistic predicate logic in intuitionistically acceptable systems are Veldman 1976 and de Swart 1976, 1977. Veldman (1976: 159)[^veldman-1976] is explicit that his construction does not clarify the concept “intuitionistically true sentence” but is a technical device.
 
-[^note-35]: 35. The reference was in Carnaps’s *Logische Syntax der Sprache* (Johansson to Heyting, November 15, 1935.)
+[^note-35]: 35\. The reference was in Carnaps’s *Logische Syntax der Sprache* (Johansson to Heyting, November 15, 1935.)
 
-[^note-36]: 36. As Heyting recalls in his letter of November 5, 1935 (page 3), they had in fact met, briefly, in Zürich in 1932; see also Johansson’s letter of November 15, 1935 (page 3). The latter letter is also informative about Johansson’s intellectual background. The Heyting-Johansson correspondence as kept in Heyting’s archive ends with a postcard from Johansson of January 28, 1936. The Heyting papers are at the Noord-Hollands Archief, Haarlem.
+[^note-36]: 36\. As Heyting recalls in his letter of November 5, 1935 (page 3), they had in fact met, briefly, in Zürich in 1932; see also Johansson’s letter of November 15, 1935 (page 3). The latter letter is also informative about Johansson’s intellectual background. The Heyting-Johansson correspondence as kept in Heyting’s archive ends with a postcard from Johansson of January 28, 1936. The Heyting papers are at the Noord-Hollands Archief, Haarlem.
 
-[^note-37]: 37. “Appropriate” here translates the Dutch “*doelmatig*”. Other translations of that term are “suitable”, “efficient”, “practical” (*Groot Woordenboek Nederlands-Engels*, Utrecht: van Dale 2008). The latter two may suggest a pragmatic criterion. But that can hardly be what Heyting had in mind, given that he thought of logical theorems as highly general mathematical ones, and thus, intuitionistically, certain.
+[^note-37]: 37\. “Appropriate” here translates the Dutch “*doelmatig*”. Other translations of that term are “suitable”, “efficient”, “practical” (*Groot Woordenboek Nederlands-Engels*, Utrecht: van Dale 2008). The latter two may suggest a pragmatic criterion. But that can hardly be what Heyting had in mind, given that he thought of logical theorems as highly general mathematical ones, and thus, intuitionistically, certain.
 
-[^note-38]: 38. This emends van Atten et al. 2014: 273 and van Atten & Sundholm 2016: 36, who stated that “to the best of our knowledge, the meeting never took place”.
+[^note-38]: 38\. This emends van Atten et al. 2014: 273 and van Atten & Sundholm 2016: 36, who stated that “to the best of our knowledge, the meeting never took place”.
 
-[^note-39]: 39. The term “*Katalogisierung*” in this context is sometimes translated as “cataloguing” and more often as “locating”; the former seems to fit better here. Freudenthal’s definition is in fact proposed as an alternative to one that Brouwer made in a topological context (Brouwer 1926B2: 855). Freudenthal (1937a: 110)[^freudenthal-1937a] proves that the two definitions are equivalent.
+[^note-39]: 39\. The term “*Katalogisierung*” in this context is sometimes translated as “cataloguing” and more often as “locating”; the former seems to fit better here. Freudenthal’s definition is in fact proposed as an alternative to one that Brouwer made in a topological context (Brouwer 1926B2: 855). Freudenthal (1937a: 110)[^freudenthal-1937a] proves that the two definitions are equivalent.
 
-[^note-40]: 40. A technical mistake in Heyting’s manuscript had been corrected by Brouwer. See van Dalen 2011: 393 for the letter, and also the extract and related remarks in Brouwer 1942A.
+[^note-40]: 40\. A technical mistake in Heyting’s manuscript had been corrected by Brouwer. See van Dalen 2011: 393 for the letter, and also the extract and related remarks in Brouwer 1942A.
 
-[^note-41]: 41. Also in later publications, e.g.,
+[^note-41]: 41\. Also in later publications, e.g.,
 
 > If mathematics consists of mental constructions, then every mathematical theorem is the expression of a result of a successful construction. The proof of the theorem consists in this construction itself, and the steps of the proof are the same as the steps of the mathematical construction. (Heyting 1958C: 107)
 
-[^note-42]: 42. In 1947 Paulette Destouches-Février proposed a middle position between Griss’ logic, which she found too extreme, and that of Brouwer and Heyting by adding to the former the definition of $\neg p$ as $p \rightarrow(1=2)$, but no axioms for it (Destouches-Février 1947b: 1243)[^destouches-février-1947b]. However, she does not motivate this philosophically. Destouches-Février (1914–2013) published (among many other things) a number of short technical notes on intuitionistic logic, Griss’ logic, and Johansson’s logic (1945a,b, 1947a,b, 1948, 1949, 1951). She was also the French translator of Heyting’s manuscript for Heyting 1955.
+[^note-42]: 42\. In 1947 Paulette Destouches-Février proposed a middle position between Griss’ logic, which she found too extreme, and that of Brouwer and Heyting by adding to the former the definition of $\neg p$ as $p \rightarrow(1=2)$, but no axioms for it (Destouches-Février 1947b: 1243)[^destouches-février-1947b]. However, she does not motivate this philosophically. Destouches-Février (1914–2013) published (among many other things) a number of short technical notes on intuitionistic logic, Griss’ logic, and Johansson’s logic (1945a,b, 1947a,b, 1948, 1949, 1951). She was also the French translator of Heyting’s manuscript for Heyting 1955.
 
-[^note-43]: 43. Brouwer presented Griss 1944, 1946, 1950, 1951a, and 1951b; Heyting presented Griss 1951c and 1951d, which dealt with intuitionistic axiomatic geometry.
+[^note-43]: 43\. Brouwer presented Griss 1944, 1946, 1950, 1951a, and 1951b; Heyting presented Griss 1951c and 1951d, which dealt with intuitionistic axiomatic geometry.
 
-[^note-44]: 44. Brouwer himself has published mathematical papers that he, without mentioning it at the time, did not sanction philosophically, namely, his papers in classical topology from the period 1909–1913, in which he used the classical reasoning that philosophically he had already rejected in Brouwer 1908C. Looking back on that period, Brouwer once called those papers “free of philosophy” (*philosophiefrei*; Brouwer 1919D: 204).
+[^note-44]: 44\. Brouwer himself has published mathematical papers that he, without mentioning it at the time, did not sanction philosophically, namely, his papers in classical topology from the period 1909–1913, in which he used the classical reasoning that philosophically he had already rejected in Brouwer 1908C. Looking back on that period, Brouwer once called those papers “free of philosophy” (*philosophiefrei*; Brouwer 1919D: 204).
 
-[^note-45]: 45. Heyting (1958C: 111) remarks that “from the intuitionistic point of view this restriction is difficult to account for”, and seems to overlook that Van Dantzig addresses the classical mathematician (van Dantzig 1947b: 1092)[^dantzig-1947b].
+[^note-45]: 45\. Heyting (1958C: 111) remarks that “from the intuitionistic point of view this restriction is difficult to account for”, and seems to overlook that Van Dantzig addresses the classical mathematician (van Dantzig 1947b: 1092)[^dantzig-1947b].
 
-[^note-46]: 46. Another development by Van Dantzig was ‘stable mathematics’ (1947a, 1951), an ecumenical attempt, inspired by Gödel’s double negation translation of classical into intuitionistic arithmetic (see section 4.5.1), to develop a fragment of classical mathematics in which all theorems are equivalent to their double negations also by intuitionistic standards. Gilmore (1956)[^gilmore-1956] pointed out in his review of van Dantzig 1951 that the greater problem for that project is not the occurrence in classical mathematics of the principle of the excluded middle but of impredicative definitions (see on this point also Gödel \*1933o and \*1941)[^gödel-1941].
+[^note-46]: 46\. Another development by Van Dantzig was ‘stable mathematics’ (1947a, 1951), an ecumenical attempt, inspired by Gödel’s double negation translation of classical into intuitionistic arithmetic (see section 4.5.1), to develop a fragment of classical mathematics in which all theorems are equivalent to their double negations also by intuitionistic standards. Gilmore (1956)[^gilmore-1956] pointed out in his review of van Dantzig 1951 that the greater problem for that project is not the occurrence in classical mathematics of the principle of the excluded middle but of impredicative definitions (see on this point also Gödel \*1933o and \*1941)[^gödel-1941].
 
 [^brouwer’s-1997a]: Brouwer’s writings are referred to according to the scheme in the bibliography van Dalen 1997a; Gödel’s, according to the bibliography in Gödel 1986, Gödel 1990, Gödel 1995 (except for Gödel 1970); Heyting’s, according to the bibliography Troelstra et al. 1981 (except for Heyting 1928).
 

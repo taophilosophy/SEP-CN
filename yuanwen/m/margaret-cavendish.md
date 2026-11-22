@@ -487,21 +487,21 @@ Cavendish indeed speaks in a wide spectrum of texts of the ways in which the sev
 
 In this last passage Cavendish is suggesting that one outlet for the energies of an individual who is blocked from pursuing their more outwardly directed aspirations is to write. In *Blazing World*, *Bell in Campo*, and other texts, Cavendish indeed utilizes that outlet to enact roles that are regularly denied to women in the plenum of seventeenth-century England. The plenum does not allow women to take on any number of roles, and it does not advance them the opportunity to acquire the requisite skill and training and know-how. But even if women *did* acquire that training, there is an important sense in which they would still lack the capacities for the roles in question. Consider the following scene that Cavendish constructs in the Introduction to her *Playes*:
 
-> 1. Gentleman. This Play that I would have you go to, is a new Play.
+> 1\. Gentleman. This Play that I would have you go to, is a new Play.
 
-> 2. Gentleman. But is there newes in the Play, that is (is there new wit, fancyes, or new Scenes) and not taken out of old storyes, or old Playes newly translated?
+> 2\. Gentleman. But is there newes in the Play, that is (is there new wit, fancyes, or new Scenes) and not taken out of old storyes, or old Playes newly translated?
 
-> 1. Gentleman. I know not that, but this Play was writ by a Lady, who on my Conscience hath neither Language, nor Learning, but what is native and naturall.
+> 1\. Gentleman. I know not that, but this Play was writ by a Lady, who on my Conscience hath neither Language, nor Learning, but what is native and naturall.
 
-> 2. Gentleman. A woman write a Play! Out upon it; out upon it, for it cannot be good, besides you say she is a Lady, which is the likelyer to make the Play worse, a woman and a Lady to write a Play; sigh, sigh.
+> 2\. Gentleman. A woman write a Play! Out upon it; out upon it, for it cannot be good, besides you say she is a Lady, which is the likelyer to make the Play worse, a woman and a Lady to write a Play; sigh, sigh.
 
-> 3. Gentleman. Why may not a Lady write a good Play?
+> 3\. Gentleman. Why may not a Lady write a good Play?
 
-> 2. Gentleman. No, for a womans wit is too weak and too conceived to write a Play.
+> 2\. Gentleman. No, for a womans wit is too weak and too conceived to write a Play.
 
-> 1. Gentleman. But if a woman hath wit, or can write a good Play, what will you say then?
+> 1\. Gentleman. But if a woman hath wit, or can write a good Play, what will you say then?
 
-> 2. Gentleman. Why, I will say no body will believe it, for if it be good, they will think she did not write it, or at least say she did not, besides the very being a woman condemnes it, were it never so excellent and care, for men will not allow women to have wit, or we men to have reason, for if we allow them wit, we shall lose our prehemency … .
+> 2\. Gentleman. Why, I will say no body will believe it, for if it be good, they will think she did not write it, or at least say she did not, besides the very being a woman condemnes it, were it never so excellent and care, for men will not allow women to have wit, or we men to have reason, for if we allow them wit, we shall lose our prehemency … .
 
 We might consider alternative cases that are just as easy to envision – a woman who is highly trained as doctor or attorney, but who does not come across as sufficiently authoritative to a patient or jury; an Asian-American who is a seriously talented actor but who cannot get a role in a movie except as a caricature, if that is all that audiences are willing to see; a highly-trained African American carpenter who has trouble getting hired to build a backyard fence or deck if that means leaving him with a key to enter the house during the day; a figure like Mersault in Camus’s *The Stranger*, who would have easily merited acquittal by self-defense if he had not come across as such an outsider. In all of these cases, there are the motions that take place on the side of the agent, and there are the motions that occur in the outside environment. Cavendish is pointing out that our ability to live a life with which we identify is a function of both kinds of motion and that the second kind of motion is much more amenable to some than to others. The judge and jury in all such cases do not necessarily run through a conscious pattern of exclusionary reasoning to single out the agent in question; there might just be a feeling of discomfort, and often it is easiest to take the path of least resistance.
 

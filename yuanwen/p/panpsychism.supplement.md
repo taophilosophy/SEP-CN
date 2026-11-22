@@ -57,6 +57,6 @@ Annaka Harris (2021) has argued that we can avoid the subject-summing problem by
 
 ## Notes（原文脚注，引自主文）
 
-[^note-26]: 26. Strawson is not happy to accept the existence of contingent laws, which partly motivates his argument discussed in the section *The Anti-Emergence Argument*.
+[^note-26]: 26\. Strawson is not happy to accept the existence of contingent laws, which partly motivates his argument discussed in the section *The Anti-Emergence Argument*.
 
-[^note-27]: 27. This problem is arguably also faced by the emergentist panpsychism who postulates brute laws of nature. If brute laws are to explain the production of macro-level consciousness, why not just postulate brute laws connecting non-phenomenal properties to macro-level phenomenal properties?
+[^note-27]: 27\. This problem is arguably also faced by the emergentist panpsychism who postulates brute laws of nature. If brute laws are to explain the production of macro-level consciousness, why not just postulate brute laws connecting non-phenomenal properties to macro-level phenomenal properties?

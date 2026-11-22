@@ -100,9 +100,9 @@ That much, at least, *is* plausibly obvious, but unfortunately it does not follo
 
 By “Metaphysical atomism” we will understand the view that the semantically simple symbols occurring in a proposition’s final analysis refer to simples. The *Tractatus* does not contain a *distinct* freestanding argument for this thesis, but, as we will see, the needed argument is plausibly extractable from the famous “Argument for Substance” of 2.0211–2:
 
-> 2.0211 If the world had no substance, then whether a proposition had sense would depend on whether another proposition was true.
+> 2\.0211 If the world had no substance, then whether a proposition had sense would depend on whether another proposition was true.
 
-> 2.0212 It would then be impossible to draw up a picture of the world (true or false).
+> 2\.0212 It would then be impossible to draw up a picture of the world (true or false).
 
 To see what precisely is being contended for in this argument one needs to appreciate the historical resonances of Wittgenstein’s invocation of the notion of “substance.”
 

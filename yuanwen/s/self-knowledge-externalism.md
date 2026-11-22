@@ -442,13 +442,13 @@ But again, the closure of warrant does not imply that the deduction *created* th
 
 #### Supplement 2
 
-1. Some externalists try to elude this inconsistency, arguing that the addition of Fregean sense to externalist contents allows them to do so. See, e.g., Brown (2004)[^brown-2004], ch. 6; Wikfoss (2006). This literature is especially difficult to get clear on, however, and given our introductory aims, it is thus omitted.
+1\. Some externalists try to elude this inconsistency, arguing that the addition of Fregean sense to externalist contents allows them to do so. See, e.g., Brown (2004)[^brown-2004], ch. 6; Wikfoss (2006). This literature is especially difficult to get clear on, however, and given our introductory aims, it is thus omitted.
 
-2. Though we have discussed occurrent second-order judgments mainly via Burge’s (1988)[^burge-1988] view, Boghossian’s (1992a)[^boghossian-1992a] and (1994) are addressed to Heil (1988)[^heil-1988] and to Davidson (1987; 1988)[^davidson-1987][^davidson-1988], respectively. Boghossian’s official reply to Burge consists in the memory argument, noted at the start of section 3.
+2\. Though we have discussed occurrent second-order judgments mainly via Burge’s (1988)[^burge-1988] view, Boghossian’s (1992a)[^boghossian-1992a] and (1994) are addressed to Heil (1988)[^heil-1988] and to Davidson (1987; 1988)[^davidson-1987][^davidson-1988], respectively. Boghossian’s official reply to Burge consists in the memory argument, noted at the start of section 3.
 
 #### Supplement 3
 
-1. Following Kaplan, it is becoming increasingly popular to call one’s metaphysics of meaning a “metasemantics,” but this can be misleading. (It is not as if it is the metatheory for a formal semantics, which is of interest in its own right.)
+1\. Following Kaplan, it is becoming increasingly popular to call one’s metaphysics of meaning a “metasemantics,” but this can be misleading. (It is not as if it is the metatheory for a formal semantics, which is of interest in its own right.)
 
 [^anderson-1990]: Anderson, C. Anthony & J. Owens (eds.), 1990, *Propositional Attitudes: The Role of Content in Logic, Language, and Mind*, Stanford: CSLI Publications.
 

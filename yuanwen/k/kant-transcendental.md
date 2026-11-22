@@ -143,11 +143,11 @@ We can expand (7) to explicitly note the link to the argument from above:
 
 To this we can add the final moves, which are explained in the subsequent sections of the B-Deduction:
 
-> 8. Insofar as our representations of objects require a faculty for synthesis by *a priori* concepts, certain *a priori* concepts – the categories – legitimately apply to these objects. (premise)
+> 8\. Insofar as our representations of objects require a faculty for synthesis by *a priori* concepts, certain *a priori* concepts – the categories – legitimately apply to these objects. (premise)
 
 Together with (7\*), this yields:
 
-> 9. We have representations of objects, all of which are such that the categories legitimately apply to them. (7\*, 8)
+> 9\. We have representations of objects, all of which are such that the categories legitimately apply to them. (7\*, 8)
 
 The key necessary conditions, expressed by (4) and (6), like those of the argument from above, are on Kant’s account necessary conditions of only possible explanation.
 

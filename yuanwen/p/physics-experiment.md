@@ -544,53 +544,53 @@ Although Collins seems to regard Harrison’s problems with replication as casti
 
 ### Notes to Appendix 2
 
-1. I surveyed eighty such theoretical papers. Sixty accepted the Princeton result as evidence for either CP violation or apparent CP violation. Even those that offered alternative explanations of the result were not necessarily indications that the authors did not accept CP violation. One should distinguish between interesting speculations and serious suggestions. The latter are characterized by a commitment to their truth. I note that T.D. Lee was author, or co-author, of three of these theoretical papers. Two offered alternative explanations of the Princeton result and one proposed a model that *avoided* CP violation. Lee was not seriously committed to the truth of any of them. Bell and Perring, authors of one of the alternatives, remarked, “Before a more mundane explanation is found *it is amusing to speculate* that it might be a local effect due to the dysymmetry of the environment, namely the local preponderance of matter over antimatter” (Bell and Perring 1964, p. 348, emphasis added)[^bell-1964].
+1\. I surveyed eighty such theoretical papers. Sixty accepted the Princeton result as evidence for either CP violation or apparent CP violation. Even those that offered alternative explanations of the result were not necessarily indications that the authors did not accept CP violation. One should distinguish between interesting speculations and serious suggestions. The latter are characterized by a commitment to their truth. I note that T.D. Lee was author, or co-author, of three of these theoretical papers. Two offered alternative explanations of the Princeton result and one proposed a model that *avoided* CP violation. Lee was not seriously committed to the truth of any of them. Bell and Perring, authors of one of the alternatives, remarked, “Before a more mundane explanation is found *it is amusing to speculate* that it might be a local effect due to the dysymmetry of the environment, namely the local preponderance of matter over antimatter” (Bell and Perring 1964, p. 348, emphasis added)[^bell-1964].
 
-2. In the modus tollens if $h$ entails $e$ then “not $e$” entails not $h$. Duhem and Quine pointed out that it is really $h$ and $b$, where $b$ is background knowledge and auxiliary hypotheses, that entails $e$. Thus “not $e$” entails “$h$” or “$b$” and one doesn’t know where to place the blame.
+2\. In the modus tollens if $h$ entails $e$ then “not $e$” entails not $h$. Duhem and Quine pointed out that it is really $h$ and $b$, where $b$ is background knowledge and auxiliary hypotheses, that entails $e$. Thus “not $e$” entails “$h$” or “$b$” and one doesn’t know where to place the blame.
 
 ### Notes to Appendix 3
 
-1. Bose’s paper had originally been rejected by the *Philosophical Magazine*. He then sent it, in English, to Einstein with a request that if Einstein thought the paper merited publication that he would arrange for publication in the *Zeitschrift fur Physik*. Einstein personally translated the paper and submitted it to the *Zeitschrift fur Physik*, adding a translator’s note, “In my opinion, Bose’s derivation of the Planck formula constitutes an important advance. The method used here also yields the quantum theory of the ideal gas, as I shall discuss elsewhere in more detail” (Pais 1982, p. 423)[^pais-1982]. This discussion appeared in Einstein’s own papers of 1924 and 1925. For details see Pais (1982, Ch. 23).
+1\. Bose’s paper had originally been rejected by the *Philosophical Magazine*. He then sent it, in English, to Einstein with a request that if Einstein thought the paper merited publication that he would arrange for publication in the *Zeitschrift fur Physik*. Einstein personally translated the paper and submitted it to the *Zeitschrift fur Physik*, adding a translator’s note, “In my opinion, Bose’s derivation of the Planck formula constitutes an important advance. The method used here also yields the quantum theory of the ideal gas, as I shall discuss elsewhere in more detail” (Pais 1982, p. 423)[^pais-1982]. This discussion appeared in Einstein’s own papers of 1924 and 1925. For details see Pais (1982, Ch. 23).
 
-2. One difficulty with using rubidium is that at very low temperatures rubidium should be a solid. (In fact, rubidium is a solid at room temperature). Wieman, Cornell and their collaborators avoided this difficulty by creating a system that does not reach a true equilibrium. The vapor sample created equilibrates to a thermal distribution as a spin polarized gas, but takes a very long time to reach its true equilibrium state as a solid. At the low temperatures and density of the experiment the rubidium remains as a metastable super-saturated vapor for a long time.
+2\. One difficulty with using rubidium is that at very low temperatures rubidium should be a solid. (In fact, rubidium is a solid at room temperature). Wieman, Cornell and their collaborators avoided this difficulty by creating a system that does not reach a true equilibrium. The vapor sample created equilibrates to a thermal distribution as a spin polarized gas, but takes a very long time to reach its true equilibrium state as a solid. At the low temperatures and density of the experiment the rubidium remains as a metastable super-saturated vapor for a long time.
 
 ### Notes to Appendix 4
 
-1. The original Eötvös experiment was designed to measure the ratio of the gravitational mass to the inertial mass of different substances. Eötvös found the ratio to be one, to within approximately one part in a million. Fischbach and his collaborators reanalyzed Eötvös’ data and found a composition dependent effect, which they interpreted as evidence for a Fifth Force.
+1\. The original Eötvös experiment was designed to measure the ratio of the gravitational mass to the inertial mass of different substances. Eötvös found the ratio to be one, to within approximately one part in a million. Fischbach and his collaborators reanalyzed Eötvös’ data and found a composition dependent effect, which they interpreted as evidence for a Fifth Force.
 
-2. It is a fact of experimental life that experiments rarely work when they are initially turned on and that experimental results can be wrong, even if there is no apparent error. It is not necessary to know the exact source of an error in order to discount or to distrust a particular experimental result. Its disagreement with numerous other results can, I believe, be sufficient.
+2\. It is a fact of experimental life that experiments rarely work when they are initially turned on and that experimental results can be wrong, even if there is no apparent error. It is not necessary to know the exact source of an error in order to discount or to distrust a particular experimental result. Its disagreement with numerous other results can, I believe, be sufficient.
 
 ### Notes to Appendix 6
 
-1. Rupp’s withdrawal included a note from a psychiatrist stating that Rupp had suffered from a mental illness and could not distinguish between fantasy and reality.
+1\. Rupp’s withdrawal included a note from a psychiatrist stating that Rupp had suffered from a mental illness and could not distinguish between fantasy and reality.
 
-2. The problem with the hydrogen spectrum was not solved until the later discovery of the anomalous magnetic moment of the electron in the 1950s.
+2\. The problem with the hydrogen spectrum was not solved until the later discovery of the anomalous magnetic moment of the electron in the 1950s.
 
 ### Notes to Appendix 7
 
-1. Morrison (1990)[^morrison-1990] has argued that manipulability is not sufficient to establish belief in an entity. She discusses particle physics experiments in which particle beams were viewed not only as particles, but also as beams of quarks, the constituents of the particles, even though the physicists involved had no belief in the existence of quarks. Although I believe that Morrison’s argument is correct in this particular case, I do think that manipulability can, and often does, give us good reason to believe in an entity. See, for example, the discussion of the microscope in Hacking (1983)[^hacking-1983].
+1\. Morrison (1990)[^morrison-1990] has argued that manipulability is not sufficient to establish belief in an entity. She discusses particle physics experiments in which particle beams were viewed not only as particles, but also as beams of quarks, the constituents of the particles, even though the physicists involved had no belief in the existence of quarks. Although I believe that Morrison’s argument is correct in this particular case, I do think that manipulability can, and often does, give us good reason to believe in an entity. See, for example, the discussion of the microscope in Hacking (1983)[^hacking-1983].
 
-2. Millikan, for example, used the properties of electrons emitted in the photoelectric effect to measure *h*, Planck’s constant. Stern and Gerlach, as discussed below, used the properties of the electron to investigate spatial quantization, and also discovered evidence for electron spin.
+2\. Millikan, for example, used the properties of electrons emitted in the photoelectric effect to measure *h*, Planck’s constant. Stern and Gerlach, as discussed below, used the properties of the electron to investigate spatial quantization, and also discovered evidence for electron spin.
 
-3. In Cartwright’s discussion of the electron track in the cloud chamber, for example, she can identify the track as an electron track rather than as a proton track only because she has made an implicit commitment to the law of ionization for charged particles, and it’s dependence on the mass and velocity of the particles.
+3\. In Cartwright’s discussion of the electron track in the cloud chamber, for example, she can identify the track as an electron track rather than as a proton track only because she has made an implicit commitment to the law of ionization for charged particles, and it’s dependence on the mass and velocity of the particles.
 
-4. Thomson also demonstrated the magnetic deflection of cathode rays in a separate experiment.
+4\. Thomson also demonstrated the magnetic deflection of cathode rays in a separate experiment.
 
-5. Thomson actually investigated the conductivity of the gas in the tube under varying pressure conditions. See Thomson (1897, pp. 298–300).
+5\. Thomson actually investigated the conductivity of the gas in the tube under varying pressure conditions. See Thomson (1897, pp. 298–300).
 
-6. I shall return to this when I discuss Thomson’s measurement of *e/m* for the electron.
+6\. I shall return to this when I discuss Thomson’s measurement of *e/m* for the electron.
 
-7. Thomson’s argument is the “duck argument.” If it looks like a duck, quacks like a duck, and waddles like a duck, then we have good reason to believe that it is a duck. One need only reconstitute the argument using “it” as cathode rays and negatively charged particles as ducks.
+7\. Thomson’s argument is the “duck argument.” If it looks like a duck, quacks like a duck, and waddles like a duck, then we have good reason to believe that it is a duck. One need only reconstitute the argument using “it” as cathode rays and negatively charged particles as ducks.
 
-8. Thomson actually used two different methods to determine the charge to mass ratio. The other method used the total charge carried by a beam of cathode rays in a fixed period of time, the total energy carried by the beam in that same time, and the radius of curvature of the particles in a known magnetic field. Thomson regarded the method discussed in the text as more reliable and this is the method shown in most modern physics textbooks.
+8\. Thomson actually used two different methods to determine the charge to mass ratio. The other method used the total charge carried by a beam of cathode rays in a fixed period of time, the total energy carried by the beam in that same time, and the radius of curvature of the particles in a known magnetic field. Thomson regarded the method discussed in the text as more reliable and this is the method shown in most modern physics textbooks.
 
-9. Not everything Thomson concluded is in agreement with modern views. Although he believed that the electron was a constituent of atoms, he thought that it was the primordial atom from which all atoms were constructed, similar to Prout’s view that all atoms were constructed from hydrogen atoms. He also suggested that the charge on the electron might be larger than that of the hydrogen ion.
+9\. Not everything Thomson concluded is in agreement with modern views. Although he believed that the electron was a constituent of atoms, he thought that it was the primordial atom from which all atoms were constructed, similar to Prout’s view that all atoms were constructed from hydrogen atoms. He also suggested that the charge on the electron might be larger than that of the hydrogen ion.
 
 ### Notes to Appendix 8
 
-1. The conservation of momentum also requires that the electron and proton have equal and opposite momenta, for a neutron decay at rest. They will be emitted in opposite directions.
+1\. The conservation of momentum also requires that the electron and proton have equal and opposite momenta, for a neutron decay at rest. They will be emitted in opposite directions.
 
-2. Pauli’s suggestion was first made in a December 4, 1930 letter to the radioactive group at a regional meeting in Tuebingen.
+2\. Pauli’s suggestion was first made in a December 4, 1930 letter to the radioactive group at a regional meeting in Tuebingen.
 
 > Dear Radioactive Ladies and Gentlemen:
 >
@@ -609,15 +609,15 @@ Although Collins seems to regard Harrison’s problems with replication as casti
 
 This was a serious suggestion and although Pauli did not get all the properties of the neutrino right his suggestion was the basis of further work.
 
-3. With a three-body decay the electron and the proton also didn’t have to come off back to back. This observation was not made until the late 1930s. Assigning the neutrino a spin, intrinsic angular momentum, of $h/4$ also preserved the law of conservation of angular momentum.
+3\. With a three-body decay the electron and the proton also didn’t have to come off back to back. This observation was not made until the late 1930s. Assigning the neutrino a spin, intrinsic angular momentum, of $h/4$ also preserved the law of conservation of angular momentum.
 
-4. The actual history is more complex. For a time, an alternative theory of decay, proposed by Konopinski and Uhlenbeck (1935) was better supported by the experimental evidence than was Fermi’s theory. It was subsequently shown that both the experimental results and the theoretical calculations were wrong and that Fermi’s theory was, in fact, supported by the evidence. For details see (Franklin 1990)[^franklin-1990].
+4\. The actual history is more complex. For a time, an alternative theory of decay, proposed by Konopinski and Uhlenbeck (1935) was better supported by the experimental evidence than was Fermi’s theory. It was subsequently shown that both the experimental results and the theoretical calculations were wrong and that Fermi’s theory was, in fact, supported by the evidence. For details see (Franklin 1990)[^franklin-1990].
 
-5. Allowed transitions are those for which both the electron and neutrino wavefunctions could be considered constant over nuclear dimensions. Forbidden transitions are those that included higher order terms in the perturbation series expansion of the matrix element.
+5\. Allowed transitions are those for which both the electron and neutrino wavefunctions could be considered constant over nuclear dimensions. Forbidden transitions are those that included higher order terms in the perturbation series expansion of the matrix element.
 
-6. I have been unable to find a published reference to this measurement. It is cited as a private communication in the literature.
+6\. I have been unable to find a published reference to this measurement. It is cited as a private communication in the literature.
 
-7. In a post-deadline paper presented at the January 1958 meeting of the American Physical Society, Rustad and Ruby suggested that their earlier result might be wrong. There are no abstracts of post-deadline papers, but the talk was cited in the literature. Ruby remembers the tone of the paper as *mea culpa* (private communication).
+7\. In a post-deadline paper presented at the January 1958 meeting of the American Physical Society, Rustad and Ruby suggested that their earlier result might be wrong. There are no abstracts of post-deadline papers, but the talk was cited in the literature. Ruby remembers the tone of the paper as *mea culpa* (private communication).
 
 [^ackermann-1985]: Ackermann, R., 1985. *Data, Instruments and Theory*, Princeton, N.J.: Princeton University Press.
 

@@ -366,9 +366,9 @@ FACT 4. For any extension X of **ID** (in the language of **ID**): X provides (1
 
 The intuitionistic reformulation of Mally’s deontic logic that we have proposed is successful in so far as it avoids both Menger’s and Mally’s own objections while preserving almost all the theorems that Mally noticed himself. However, it is unacceptable as a system of deontic logic in its own right. We mention only two reasons:
 
-1. Theorem A → !A is intuitively invalid. No deontic system, except Mally’s, has this theorem.
+1\. Theorem A → !A is intuitively invalid. No deontic system, except Mally’s, has this theorem.
 
-2. It is unclear how permission is to be represented. If we use the standard definition (P A = ¬ !¬ A), then P A ↔ !A is a theorem, but P A and !A are not equivalent according to the ordinary use of the words “permitted” and “obligatory.”
+2\. It is unclear how permission is to be represented. If we use the standard definition (P A = ¬ !¬ A), then P A ↔ !A is a theorem, but P A and !A are not equivalent according to the ordinary use of the words “permitted” and “obligatory.”
 
 The relevantist reformulation of Mally’s system that was discussed above does not have these defects.
 

@@ -5,8 +5,8 @@
  "note": "格式层残差补丁：m=标记段、u=单元布局、r=纯布局区段；禁含散文",
  "stats": {
   "page_bytes": 69037,
-  "pool_bytes": 44865,
-  "n_patches": 128
+  "pool_bytes": 44828,
+  "n_patches": 127
  },
  "patches": [
   {
@@ -2102,35 +2102,6 @@
    "len": 5,
    "sha": "d24ff827d6aec3cc",
    "after": "</p>\n\n"
-  },
-  {
-   "u": 10234,
-   "len": 38,
-   "sha": "cfd3a0b860849329",
-   "items": [
-    [
-     "mk",
-     "<a href=\"#ReseTool\">"
-    ],
-    [
-     "tx",
-     0,
-     8
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     8,
-     5
-    ],
-    [
-     "mk",
-     "</a>"
-    ]
-   ]
   },
   {
    "u": 10677,

@@ -5,39 +5,10 @@
  "note": "格式层残差补丁：m=标记段、u=单元布局、r=纯布局区段；禁含散文",
  "stats": {
   "page_bytes": 161792,
-  "pool_bytes": 60007,
-  "n_patches": 92
+  "pool_bytes": 59972,
+  "n_patches": 91
  },
  "patches": [
-  {
-   "u": 8872,
-   "len": 37,
-   "sha": "643acf0c7036e3f6",
-   "items": [
-    [
-     "mk",
-     "<a href=\"#PriSou\">"
-    ],
-    [
-     "tx",
-     0,
-     7
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     7,
-     7
-    ],
-    [
-     "mk",
-     "</a>"
-    ]
-   ]
-  },
   {
    "u": 10727,
    "len": 1330,

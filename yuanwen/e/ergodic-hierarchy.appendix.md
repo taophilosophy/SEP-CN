@@ -131,4 +131,4 @@ holds. An invertible measure-preserving transformation $T: X \rightarrow X$, the
 
 ## Notes（原文脚注，引自主文）
 
-[^note-25]: 25. Not all subsets of phase space points are measurable—see (Royden 1968, pp. 52–65) for an explanation.
+[^note-25]: 25\. Not all subsets of phase space points are measurable—see (Royden 1968, pp. 52–65) for an explanation.

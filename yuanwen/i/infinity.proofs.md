@@ -14,7 +14,7 @@ If we let $f$ be such a bijection between a set and some proper subset of itself
 
 This proof and the next one follow Cantor’s proofs. Suppose, as hypothesis for *reductio*, that there is a bijection between the positive integers and the real numbers between 0 and 1. Given that there is such a bijection, there is a list of the real numbers between 0 and 1 of the following form (where d$_{ij}$ is the $j$th digit in the decimal representation of the $i$th real number on our list:
 
-1. $0.\rd_{11}\rd_{12}\rd_{13}\ldots \rd_{1k}\ldots$ 2. $0.\rd_{21}\rd_{22}\rd_{23}\ldots \rd_{2k}\ldots$ $\vdots$ $n$. $0.\rd_{n1}\rd_{n2}\rd_{n3}\ldots \rd_{nk}\ldots$ $\vdots$
+1\. $0.\rd_{11}\rd_{12}\rd_{13}\ldots \rd_{1k}\ldots$ 2. $0.\rd_{21}\rd_{22}\rd_{23}\ldots \rd_{2k}\ldots$ $\vdots$ $n$. $0.\rd_{n1}\rd_{n2}\rd_{n3}\ldots \rd_{nk}\ldots$ $\vdots$
 
 By hypothesis, every real number between 0 and 1 appears exactly once on this list. But consider the real number $r = 0.\rd_1 \rd_2 \rd_3\ldots\rd_n\ldots$, where $\rd_i =\rd_{nn}+1$ if $\rd_{nn} \in \{0,1,2,3,4,5,6,7\}$ and $\rd_i =\rd_{nn} -1$ otherwise. Since $r$ differs from the $n$th number in the list in the $n$th digit, $r$ is clearly not a number on our list. So we can conclude, by *reductio*, that there is no bijection between the positive integers and the real numbers between 0 and 1.
 

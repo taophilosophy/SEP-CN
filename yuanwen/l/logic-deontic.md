@@ -1019,11 +1019,11 @@ and then from the modal logic K, $\Box(d \rightarrow(p \amp \neg p))$ follows. B
 
 [^note-98]: A similar idea is central in the imperative logic of Vranas 2008, 2010.
 
-[^note-99]: 99. Cf. the deontic logic in Meyer 1988, where a set of operators for action (drawn from dynamic logic) are used along with a separate set of propositional operators.
+[^note-99]: 99\. Cf. the deontic logic in Meyer 1988, where a set of operators for action (drawn from dynamic logic) are used along with a separate set of propositional operators.
 
-[^note-100]: 100. The interrelationships between the rules and axioms which constitute the equivalence between these systems is taken for granted in work on deontic logic, and is thus useful to know.
+[^note-100]: 100\. The interrelationships between the rules and axioms which constitute the equivalence between these systems is taken for granted in work on deontic logic, and is thus useful to know.
 
-[^note-101]: 101. By RE and some PC manipulations, $\OB$-K is equivalent to
+[^note-101]: 101\. By RE and some PC manipulations, $\OB$-K is equivalent to
 
 $$\neg \neg \OB \neg(p \amp \neg q) \rightarrow(\neg \OB \neg \neg q \rightarrow \neg \OB \neg \neg p),$$
 
@@ -1037,23 +1037,23 @@ $$\neg \neg \OB \neg \neg p \rightarrow \neg \OB \neg p,$$
 
 and this is equivalent by definition to $\neg \PE \neg p \rightarrow \PE p$. Lastly, by PC, $\OB$-NEC is equivalent to if $\vdash \neg p$ then $\vdash \neg \neg \OB \neg p$, and this is equivalent by definition to: if $\vdash \neg p$ then $\vdash \neg \PE p$,
 
-[^note-102]: 102. Note that this is in contrast to $j$ itself, where the latter formula does hold, for the reader can easily verify that $(\OB p \rightarrow p)$ holds at $k$ in this model, and $k$ is the only world acceptable to $j$.
+[^note-102]: 102\. Note that this is in contrast to $j$ itself, where the latter formula does hold, for the reader can easily verify that $(\OB p \rightarrow p)$ holds at $k$ in this model, and $k$ is the only world acceptable to $j$.
 
-[^note-103]: 103. The remaining items hold independently of seriality. Completing the proof amounts to both a proof of SDL’s soundness with respect to our semantics, and of $\OB$-U’s independence (non-derivability from) SDL.
+[^note-103]: 103\. The remaining items hold independently of seriality. Completing the proof amounts to both a proof of SDL’s soundness with respect to our semantics, and of $\OB$-U’s independence (non-derivability from) SDL.
 
-[^note-104]: 104. It has been most utilized by Belnap and coworkers. See Belnap et al. 2001, and its references to prior papers.
+[^note-104]: 104\. It has been most utilized by Belnap and coworkers. See Belnap et al. 2001, and its references to prior papers.
 
-[^note-105]: 105. But not so for the “achievement” agency operator in Belnap et al. 2001.
+[^note-105]: 105\. But not so for the “achievement” agency operator in Belnap et al. 2001.
 
-[^note-106]: 106. The formula (1′) is not really essential here, it just helps to clarify that (2) does not express some strange standing obligation but a transient one that emerges as a result of the *de facto* robbery.
+[^note-106]: 106\. The formula (1′) is not really essential here, it just helps to clarify that (2) does not express some strange standing obligation but a transient one that emerges as a result of the *de facto* robbery.
 
-[^note-107]: 107. Theoretically one could claim that we have a conflict of obligations here, but this seems quite implausible. The banks’ being robbed appears to be definitely non-obligatory.
+[^note-107]: 107\. Theoretically one could claim that we have a conflict of obligations here, but this seems quite implausible. The banks’ being robbed appears to be definitely non-obligatory.
 
-[^note-108]: 108. However see Da Costa & Carnielli 1986 which develops a paraconsistent deontic logic.
+[^note-108]: 108\. However see Da Costa & Carnielli 1986 which develops a paraconsistent deontic logic.
 
-[^note-109]: 109. Some early discussions and attempted solutions to this collapse can be found in Chellas 1980 and Schotch & Jennings 1981, both of whom use non-normal modal logics for deontic logic. Brown 1996b uses a similar approach to Chellas’ for modeling conflicting obligations, but with the addition of an ordering relation on obligations to model the relative stringency of obligations, thus moving in the direction of a model addressing Plato’s Dilemma as well.
+[^note-109]: 109\. Some early discussions and attempted solutions to this collapse can be found in Chellas 1980 and Schotch & Jennings 1981, both of whom use non-normal modal logics for deontic logic. Brown 1996b uses a similar approach to Chellas’ for modeling conflicting obligations, but with the addition of an ordering relation on obligations to model the relative stringency of obligations, thus moving in the direction of a model addressing Plato’s Dilemma as well.
 
-[^note-110]: 110. More accurately, a weakened version of that law, as here no agential notion of ability is present to make it clear that I am obligated to do the paying back.
+[^note-110]: 110\. More accurately, a weakened version of that law, as here no agential notion of ability is present to make it clear that I am obligated to do the paying back.
 
 [^hibri-1978]: al-Hibri, Azizah, 1978, *Deontic Logic: A Comprehensive Appraisal and a New Proposal*, Washington, DC: University Press of America.
 

@@ -201,15 +201,15 @@ We can now define mutual and common knowledge as follows:
 
 **Definition 2.3** Let a set $\Omega$ of possible worlds together with a set of agents $N$ be given.
 
-1. The proposition that $A$ is *(first level* or *first order)* *mutual knowledge for the agents of* N, $\mathbf{K}^{1}_N (A)$, is the set defined by
+1\. The proposition that $A$ is *(first level* or *first order)* *mutual knowledge for the agents of* N, $\mathbf{K}^{1}_N (A)$, is the set defined by
 
 $$ \mathbf{K}^1_N (A) \equiv \bigcap_{i\in N} \mathbf{K}_i(A). $$
 
-2. The proposition that $A$ is $m$ᵗʰ *level* (or $m$ᵗʰ *order*) *mutual knowledge among the agents of N*, $\mathbf{K}^m_N(A),$ is defined recursively as the set
+2\. The proposition that $A$ is $m$ᵗʰ *level* (or $m$ᵗʰ *order*) *mutual knowledge among the agents of N*, $\mathbf{K}^m_N(A),$ is defined recursively as the set
 
 $$ \mathbf{K}^m_N(A) \equiv \bigcap_{i\in N} \mathbf{K}_i (\mathbf{K}^{m-1}_N(A)). $$
 
-3. The proposition that $A$ is *common knowledge* among the agents of $N, \mathbf{K}^{*}_N (A),$ is defined as the set[^note-12]
+3\. The proposition that $A$ is *common knowledge* among the agents of $N, \mathbf{K}^{*}_N (A),$ is defined as the set[^note-12]
 
 $$ \mathbf{K}^*_N (A) \equiv \bigcap_{m=1}^{\infty} \mathbf{K}^m_N(A). $$
 
@@ -948,7 +948,7 @@ To avoid this, we need a second property, said $\Delta$-*growth*, stating that i
 
 ### Notes to Rubinstein’s Proof
 
-1. If this does not look immediately obvious, consider that either
+1\. If this does not look immediately obvious, consider that either
 
 $E = [T_2 = t] =$ my (Lizzi’s) $t$ᵗʰ confirmation was lost,
 

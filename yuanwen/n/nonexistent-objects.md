@@ -563,11 +563,11 @@ It may be that proponents of MOT$^{dc}$ find ways to meet these objections such 
 
 There are several ways in which Meinongian object theory can be developed further. Here are some of them:[^note-39]
 
-1. Both MOT$^{ne}$ and MOT$^{dc}$ could perhaps benefit from a clarification of their basic distinctions, namely the nuclear-extranuclear distinction and the dual copula distinction, respectively.
+1\. Both MOT$^{ne}$ and MOT$^{dc}$ could perhaps benefit from a clarification of their basic distinctions, namely the nuclear-extranuclear distinction and the dual copula distinction, respectively.
 
-2. One feature of Meinong’s mature object theory not mentioned so far is the “doctrine of implexion”. Implexion is a relation between incomplete and complete objects which seems to be very close to what is often called “instantiation”, i.e., a relation between universals and particulars. Incomplete objects are “implected” in complete ones. (See Meinong 1972, §29.)[^meinong-1972] Meinong himself eventually came to interpret incomplete objects as universals (see Meinong 1972, 739f)[^meinong-1972]. Meinongian object theory may thus be interpreted as a sophisticated theory of universals, in particular as a theory of *types* (as opposed to properties), which might open further fields of application.
+2\. One feature of Meinong’s mature object theory not mentioned so far is the “doctrine of implexion”. Implexion is a relation between incomplete and complete objects which seems to be very close to what is often called “instantiation”, i.e., a relation between universals and particulars. Incomplete objects are “implected” in complete ones. (See Meinong 1972, §29.)[^meinong-1972] Meinong himself eventually came to interpret incomplete objects as universals (see Meinong 1972, 739f)[^meinong-1972]. Meinongian object theory may thus be interpreted as a sophisticated theory of universals, in particular as a theory of *types* (as opposed to properties), which might open further fields of application.
 
-3. Throughout this entry, we have presupposed realism with respect to properties. However, it is doubtful whether a theory of Meinongian objects is *necessarily* ontologically committed to properties. An ontologically neutral quantifier and the use of non-objectual variables for predicates (not for *names* of predicates or properties) may help to avoid this commitment and thus could make Meinongian object theory much more parsimonious.
+3\. Throughout this entry, we have presupposed realism with respect to properties. However, it is doubtful whether a theory of Meinongian objects is *necessarily* ontologically committed to properties. An ontologically neutral quantifier and the use of non-objectual variables for predicates (not for *names* of predicates or properties) may help to avoid this commitment and thus could make Meinongian object theory much more parsimonious.
 
 ## References（引用注释）
 

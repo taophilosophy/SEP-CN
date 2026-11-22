@@ -39,8 +39,8 @@ In contrast to Turing’s result, Theorem 5.2, the proof of B.2 is rather diffic
 
 ## Notes（原文脚注，引自主文）
 
-[^note-49]: 49. The usual recursion theorem is formulated for partial recursive functions but there is a version, due to Kleene (1958), that works for primitive recursive functions.
+[^note-49]: 49\. The usual recursion theorem is formulated for partial recursive functions but there is a version, due to Kleene (1958), that works for primitive recursive functions.
 
-[^note-50]: 50. Accessible accounts can be found in Torkel Franzén’s book (2004a) and his paper (2004b).
+[^note-50]: 50\. Accessible accounts can be found in Torkel Franzén’s book (2004a) and his paper (2004b).
 
 ### Notes to Appendix C

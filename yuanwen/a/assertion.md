@@ -781,7 +781,7 @@ Another mixed account is defended by Searle (1969)[^searle-1969] (cf. also Searl
 
 **(Searle)**
 
-1. The propositional content rule: what is to be expressed is any proposition *p*
+1\. The propositional content rule: what is to be expressed is any proposition *p*
 
 **2.**
 

@@ -623,7 +623,7 @@ Beginning with the 2024 update, Thomas Studer has taken responsibility for updat
 
 ### Notes to the Supplement
 
-8. Kleene himself denied any connection of his realizability with the BHK interpretation.
+8\. Kleene himself denied any connection of his realizability with the BHK interpretation.
 
 [^antonakos-2007]: Antonakos, E., 2007. “Justified and Common Knowledge: Limited Conservativity”, in S. Artemov and A. Nerode (eds.), *Logical Foundations of Computer Science, International Symposium, LFCS 2007, New York, NY, USA, June 4–7, 2007, Proceedings* (Lecture Notes in Computer Science: Volume 4514), Berlin: Springer, pp. 1–11.
 

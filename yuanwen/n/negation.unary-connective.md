@@ -121,10 +121,10 @@ In addition to a syntactic notion of perfectness, Avron also introduces a number
 
 ## Notes（原文脚注，引自主文）
 
-[^note-s1]: 1. It has often been noted that bivalence must be distinguished from the validity of the Law of Excluded Middle (see e.g. entry on contradiction). The LEM is valid, for instance, in Priest’s (1979) logic of paradox **LP**, although **LP** is a three-valued logic, see entries on many-valued logic and paraconsistent logic. Moreover, it can be shown that every Tarskian consequence relation has a bivalent, although not necessarily compositional semantics, cf. Malinowski 1993, Shramko and Wansing 2011, Chapter 9.
+[^note-s1]: 1\. It has often been noted that bivalence must be distinguished from the validity of the Law of Excluded Middle (see e.g. entry on contradiction). The LEM is valid, for instance, in Priest’s (1979) logic of paradox **LP**, although **LP** is a three-valued logic, see entries on many-valued logic and paraconsistent logic. Moreover, it can be shown that every Tarskian consequence relation has a bivalent, although not necessarily compositional semantics, cf. Malinowski 1993, Shramko and Wansing 2011, Chapter 9.
 
-[^note-s2]: 2. The basic systems of Nelson’s constructive logics with strong negation, **N4** and **N4**$^{\bot}$, have a four-valued possible worlds semantics. The underlying four-valued first-degree entailment logic is closely related to early Buddhist logic, cf. Dunn 2000, Priest 2010, and the entry on contradiction.
+[^note-s2]: 2\. The basic systems of Nelson’s constructive logics with strong negation, **N4** and **N4**$^{\bot}$, have a four-valued possible worlds semantics. The underlying four-valued first-degree entailment logic is closely related to early Buddhist logic, cf. Dunn 2000, Priest 2010, and the entry on contradiction.
 
-[^note-s3]: 3. Routley and Routley (1985) also discuss Wittgenstein’s remarks about contradictions and negation, and note that Wittgenstein “runs together, in a way that is ultimately incoherent, exclusion and cancellation models of negation.”
+[^note-s3]: 3\. Routley and Routley (1985) also discuss Wittgenstein’s remarks about contradictions and negation, and note that Wittgenstein “runs together, in a way that is ultimately incoherent, exclusion and cancellation models of negation.”
 
-[^note-s4]: 4. Avron does not, however, assume that these relations are monotonic, i.e., that $\Delta \vdash \Gamma$ implies $\Delta \cup \Delta ' \vdash \Gamma \cup \Gamma '$, with the restriction that $\Gamma \cup \Gamma '$ contains at most one formula in the case of single-conclusion consequence relations.
+[^note-s4]: 4\. Avron does not, however, assume that these relations are monotonic, i.e., that $\Delta \vdash \Gamma$ implies $\Delta \cup \Delta ' \vdash \Gamma \cup \Gamma '$, with the restriction that $\Gamma \cup \Gamma '$ contains at most one formula in the case of single-conclusion consequence relations.

@@ -29,16 +29,16 @@ A related point can be made about model-theoretic semantics for a(ny) logic (Dum
 
 ## Notes（原文脚注，引自主文）
 
-[^note-31]: 31. In a letter to Heyting of May 16, 1933, Gödel says he had found the translation in June 1932 (Gödel 2003a: 71). In an earlier letter to Heyting, dated November 15, 1932 and concerning their projected joint book, Gödel asked Heyting to
+[^note-31]: 31\. In a letter to Heyting of May 16, 1933, Gödel says he had found the translation in June 1932 (Gödel 2003a: 71). In an earlier letter to Heyting, dated November 15, 1932 and concerning their projected joint book, Gödel asked Heyting to
 
 > say something about the relation of Hilbert’s finitism (as he advocated it in his earlier works) and intuitionism. The former might perhaps recognize even fewer inference rules and concept formations than the latter. (Gödel 2003a: 63)
 
 Note that Gödel did not take this earlier opportunity to announce his translation to Heyting.
 
-[^note-32]: 32. A translation of intuitionistic propositional logic into a modal logic (anticipating $\mathbf{S4})$ had been given before Gödel, and before the earlier (failed) attempt Becker 1930 (cited by Gödel), by the Russian logician I.E. Orlov. See Došen 1992 and Bazhanov 2003. It seems that Gödel and Becker were unaware of this precursor.
+[^note-32]: 32\. A translation of intuitionistic propositional logic into a modal logic (anticipating $\mathbf{S4})$ had been given before Gödel, and before the earlier (failed) attempt Becker 1930 (cited by Gödel), by the Russian logician I.E. Orlov. See Došen 1992 and Bazhanov 2003. It seems that Gödel and Becker were unaware of this precursor.
 
-[^note-33]: 33. One has the impression that Gödel (1933f: 39n.1 [1986: 301n.1]) misses this point when he comments
+[^note-33]: 33\. One has the impression that Gödel (1933f: 39n.1 [1986: 301n.1]) misses this point when he comments
 
 > Kolmogorov (1932) has given a somewhat different interpretation of the intuitionistic propositional calculus, without, to be sure, specifying a precise formalism.
 
-[^note-34]: 34. Examples of interpretations of intuitionistic predicate logic in intuitionistically acceptable systems are Veldman 1976 and de Swart 1976, 1977. Veldman (1976: 159) is explicit that his construction does not clarify the concept “intuitionistically true sentence” but is a technical device.
+[^note-34]: 34\. Examples of interpretations of intuitionistic predicate logic in intuitionistically acceptable systems are Veldman 1976 and de Swart 1976, 1977. Veldman (1976: 159) is explicit that his construction does not clarify the concept “intuitionistically true sentence” but is a technical device.

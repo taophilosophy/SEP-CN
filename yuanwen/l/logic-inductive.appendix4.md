@@ -60,19 +60,19 @@ Thus, strong evidence against alternative auxiliary hypothesis $a_r$ as compared
 
 Here are the only assumptions needed to prove the **Alternative Auxiliary Formulae**. Each of them is a reasonable probabilistic independence assumption, given the nature of the evidential context.
 
-1. The likelihood of $e$ is independent of $(c^* \cdot e^*)$, given what $(h_i \cdot a_r \cdot c \cdot d)$ probabilistically implies about $e$. The same goes for $h_j$ and $a$ in place of $h_i$ and $a_r$, respectively.
+1\. The likelihood of $e$ is independent of $(c^* \cdot e^*)$, given what $(h_i \cdot a_r \cdot c \cdot d)$ probabilistically implies about $e$. The same goes for $h_j$ and $a$ in place of $h_i$ and $a_r$, respectively.
 
 $$\begin{align} P[e \mid (h_i \cdot a_r) \cdot c \cdot (c^* \cdot e^*) \cdot d] &= P[e \mid (h_i \cdot a_r) \cdot c \cdot d] \\ P[e \mid (h_j \cdot a) \cdot c \cdot (c^* \cdot e^*) \cdot d] &= P[e \mid (h_j \cdot a) \cdot c \cdot d] \end{align}$$
 
-2. The likelihood of $e^*$ is independent of both $h_i$ and $c$, given what $(a_r \cdot c^* \cdot d)$ probabilistically implies about $e^*$. The same goes for $h_j$ and $a$ in place of $h_i$ and $a_r$, respectively.
+2\. The likelihood of $e^*$ is independent of both $h_i$ and $c$, given what $(a_r \cdot c^* \cdot d)$ probabilistically implies about $e^*$. The same goes for $h_j$ and $a$ in place of $h_i$ and $a_r$, respectively.
 
 $$\begin{align} P[e^* \mid (h_i \cdot a_r) \cdot c \cdot c^* \cdot d] &= P[e^* \mid a_r \cdot c^* \cdot d] \\ P[e^* \mid (h_j \cdot a) \cdot c \cdot c^* \cdot d] &= P[e^* \mid a \cdot c^* \cdot d] \end{align}$$
 
-3. $a_r$ is independent of $c$, given $(c^* \cdot d)$. The same goes for $a$, given $(c^* \cdot d)$.
+3\. $a_r$ is independent of $c$, given $(c^* \cdot d)$. The same goes for $a$, given $(c^* \cdot d)$.
 
 $$\begin{align} P[a_r \mid c \cdot c^* \cdot d] &= P[a_r \mid c^* \cdot d] \\ P[a \mid c \cdot c^* \cdot d] &= P[a \mid c^* \cdot d] \end{align}$$
 
-4. $h_i$ is independent of $c^*$, given $(a_r \cdot c \cdot d)$. The same goes for $h_j$, given $(a \cdot c \cdot d)$.
+4\. $h_i$ is independent of $c^*$, given $(a_r \cdot c \cdot d)$. The same goes for $h_j$, given $(a \cdot c \cdot d)$.
 
 $$\begin{align} P[h_i \mid a_r \cdot c \cdot c^* \cdot d] &= P[h_i \mid a_r \cdot c \cdot d] \\ P[h_j \mid a \cdot c \cdot c^* \cdot d] &= P[h_j \mid a \cdot c \cdot d] \end{align}$$ proof of the **Alternative Auxiliaries Formula**:
 

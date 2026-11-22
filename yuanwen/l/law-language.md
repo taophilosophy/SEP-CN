@@ -67,9 +67,9 @@ As an instance of controversy over the effect of the use of language in law, con
 
 The magistrates and the appeal court seem to have disagreed over the effect of two principles: a principle that statutes should only be read as imposing criminal liability if they do so unequivocally, and a principle that the purposes for which Parliament passed the statute should be pursued. Assume that those principles are *legal* principles, in the sense that a decision in accordance with the law must respect them. The apparent tension between the principles might be resolved in one of the following two ways. We do not have the magistrates’ reasons, but let’s presume that they resolved the tension in the first way; the appeal court resolved it in the second way:
 
-> 1. by concluding that Parliament’s purposes can be respected appropriately while still construing the prohibition narrowly (so that it is no offence to pull a chicken coop down the road on iron wheels, because the chicken coop is not *undeniably* a vehicle), or
+> 1\. by concluding that Parliament’s purposes can be respected appropriately while still construing the prohibition narrowly (so that it is no offence to pull a chicken coop down the road on iron wheels, because the chicken coop is not *undeniably* a vehicle), or
 >
-> 2. by concluding that Parliament’s purpose is sufficiently clear that it can be pursued by convicting Mr.Burr, without jeopardising the principle that criminal liabilities ought to be clearly spelled out, even if someone might reasonably claim that a chicken coop on wheels is not a ‘vehicle’.
+> 2\. by concluding that Parliament’s purpose is sufficiently clear that it can be pursued by convicting Mr.Burr, without jeopardising the principle that criminal liabilities ought to be clearly spelled out, even if someone might reasonably claim that a chicken coop on wheels is not a ‘vehicle’.
 
 It may seem that this common sort of disagreement tells us nothing about language, except perhaps that language is of no particular importance in law. It may seem that the two courts did not disagree over any question of language (after all, everyone involved was competent in English), but only over whether they ought to give effect to Parliament’s evident purpose of protecting roads by convicting Mr.Burr, or whether that would be unfair to him.
 

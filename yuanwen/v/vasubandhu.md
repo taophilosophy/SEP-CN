@@ -228,13 +228,13 @@ Let’s take the most important example, for Buddhists, of a thing that appears 
 
 With this in mind, we can read the opening verses of the *Three Natures Exposition*:
 
-> 1. Fabricated, dependent and perfected: So the wise understand, in depth, the three natures.
+> 1\. Fabricated, dependent and perfected: So the wise understand, in depth, the three natures.
 >
-> 2. What appears is the dependent. How it appears is the fabricated. Because of being dependent on conditions. Because of being only fabrication.
+> 2\. What appears is the dependent. How it appears is the fabricated. Because of being dependent on conditions. Because of being only fabrication.
 >
-> 3. The eternal non-existence of the appearance as it is appears: That is known to be the perfected nature, because of being always the same.
+> 3\. The eternal non-existence of the appearance as it is appears: That is known to be the perfected nature, because of being always the same.
 >
-> 4. What appears there? The unreal fabrication. How does it appear? As a dual self. What is its nonexistence? That by which the nondual reality is there.[^note-41]
+> 4\. What appears there? The unreal fabrication. How does it appear? As a dual self. What is its nonexistence? That by which the nondual reality is there.[^note-41]
 
 These verses emphasize the crystalline, internal structure to the three natures. “What appears” is one nature (the dependent), whereas “how it appears” is the fabricated. “The eternal non-existence of the appearance as it appears” is the perfected. These are ways of talking of the same entity, or event, from different perspectives. Also evident here is the crucial Yogācāra concept of “duality.” The fabricated is said to appear as a “dual self,” whereas reality (*dharmatā*) is nondual. Since, as we have seen above, Vasubandhu believes in the selflessness of all dharmas, the “dual self” is the false appearance of a self that is attributed to any entity. Things and selves mistakenly appear “dual.” What does this mean?
 
@@ -248,13 +248,13 @@ For the Yogācāra, our sensory experience is something like this. We are all on
 
 Vasubandhu’s clearest, most evocative, and most famous explanation of the three natures appears later on, when they are analogized to a magician’s production of an illusion of an elephant, using a piece of wood and a magical spell:
 
-> 27. It is just as [something] made into a magical illusion with the power of an incantation (*mantra*) appears as the self of an elephant. A mere appearance (*ākāramātra*) is there, but the elephant does not exist at all.
+> 27\. It is just as [something] made into a magical illusion with the power of an incantation (*mantra*) appears as the self of an elephant. A mere appearance (*ākāramātra*) is there, but the elephant does not exist at all.
 >
-> 28. The fabricated nature is the elephant; the dependent is its appearance (*ākṛti*); and the nonexistence of an elephant there is the perfected.
+> 28\. The fabricated nature is the elephant; the dependent is its appearance (*ākṛti*); and the nonexistence of an elephant there is the perfected.
 >
-> 29. In the same way, the fabrication of what does not exist appears as the self of duality from the root mind. The duality is utterly nonexistent. A mere appearance (*ākṛtimātraka*) is there.
+> 29\. In the same way, the fabrication of what does not exist appears as the self of duality from the root mind. The duality is utterly nonexistent. A mere appearance (*ākṛtimātraka*) is there.
 >
-> 30. The root-consciousness is like the incantation. Suchness (*tathatā*) is understood to be like the piece of wood. Construction (*vikalpa*) should be accepted to be like the appearance of the elephant. The duality is like the elephant.[^note-43]
+> 30\. The root-consciousness is like the incantation. Suchness (*tathatā*) is understood to be like the piece of wood. Construction (*vikalpa*) should be accepted to be like the appearance of the elephant. The duality is like the elephant.[^note-43]
 
 Notice the two different elements here in the ending of Verse 30: The “appearance of the elephant” is “construction,” that is, the ongoing process of imagination that arises from the karmic causal stream. The real problem, though, “duality,” the dangerous, false distinction between self and other, is analogized to the illusory elephant itself. If I am at a magic show, I should expect to see the “appearance of an elephant.” That will make the show worth attending. But if I am not a fool, I will not imagine myself to *actually* *see an elephant*. That would be to construct duality. For Vasubandhu, this is a crucial distinction. The basic problem for living beings in his view is not that we *experience* an illusory world; the problem is that we are fooled into *accepting the reality* of our perceptions and our concepts. Once we no longer believe, once we see the falsity of the illusion, the illusion goes away and we can come to experience the truth that lies behind the illusion—the ineffable “suchness” (*tathatā*), the piece of wood.
 

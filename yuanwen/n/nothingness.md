@@ -321,11 +321,11 @@ Readers of Schopenhauer were presented with the awesome contingency as an actual
 
 Another emotional reader of Schopenhauer, Ludwig Wittgenstein, characterizes this unsettling phenomenology as exhausting the thrust of the riddle of existence. Instead of expressing a well-formed question, ‘Why is there something rather than nothing?’ is a brute expression of awe.
 
-> 6.44 It is not how things are in the world that is mystical, but that it exists.
+> 6\.44 It is not how things are in the world that is mystical, but that it exists.
 >
-> 6.45 To view the world sub specie aeterni is to view it as a whole—as a limited whole. Feeling the world as a limited whole—it is this that is mystical.
+> 6\.45 To view the world sub specie aeterni is to view it as a whole—as a limited whole. Feeling the world as a limited whole—it is this that is mystical.
 >
-> 6.5 When an answer cannot be put into words, neither can the question—the riddle does not exist. (From Tractatus Logico-Philosophicus)
+> 6\.5 When an answer cannot be put into words, neither can the question—the riddle does not exist. (From Tractatus Logico-Philosophicus)
 
 This visceral characterization persists into Wittgenstein’s later philosophy. In *Lectures on Ethics*, Wittgenstein uses the language of seeing-as. ‘Why is there something rather than nothing?’ is a prompt to see the world as a miracle. This gestalt switch is not a mistake. Nor is it an insight. Even the logical positivists were willing to grant the question has emotive meaning (just not cognitive meaning).
 
