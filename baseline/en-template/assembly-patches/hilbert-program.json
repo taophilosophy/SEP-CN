@@ -4,9 +4,9 @@
  "generated_by": "specs/053 bin/assembly_pool.py",
  "note": "格式层残差补丁：m=标记段、u=单元布局、r=纯布局区段；禁含散文",
  "stats": {
-  "page_bytes": 92602,
-  "pool_bytes": 77875,
-  "n_patches": 57
+  "page_bytes": 92584,
+  "pool_bytes": 77899,
+  "n_patches": 58
  },
  "patches": [
   {
@@ -64173,7 +64173,27 @@
    ]
   },
   {
-   "u": 64739,
+   "u": 64699,
+   "len": 12,
+   "sha": "619d65e1ae1a2704",
+   "items": [
+    [
+     "mk",
+     "<a name=\"Bib\">"
+    ],
+    [
+     "tx",
+     0,
+     12
+    ],
+    [
+     "mk",
+     "</a>"
+    ]
+   ]
+  },
+  {
+   "u": 64721,
    "len": 91,
    "sha": "51e6585b5fecc73a",
    "items": [
@@ -64345,7 +64365,7 @@
    ]
   },
   {
-   "u": 64856,
+   "u": 64838,
    "len": 198,
    "sha": "3b489b6b1cefa13b",
    "items": [
@@ -64536,7 +64556,7 @@
    ]
   },
   {
-   "u": 65065,
+   "u": 65047,
    "len": 86,
    "sha": "3c6fd547d15afdc2",
    "items": [
@@ -64624,7 +64644,7 @@
    ]
   },
   {
-   "u": 65162,
+   "u": 65144,
    "len": 172,
    "sha": "8481ad86aaa65bf3",
    "items": [
@@ -64833,7 +64853,7 @@
    ]
   },
   {
-   "u": 65345,
+   "u": 65327,
    "len": 129,
    "sha": "b7c7b6cb191b2dca",
    "items": [
@@ -64970,7 +64990,7 @@
    ]
   },
   {
-   "u": 65485,
+   "u": 65467,
    "len": 20459,
    "sha": "04cba872d4ad1809",
    "items": [
@@ -87147,13 +87167,13 @@
    ]
   },
   {
-   "r": 85950,
+   "r": 85932,
    "len": 7,
    "sha": "88e550cf4af87b75",
    "after": "</ul>\n"
   },
   {
-   "u": 86145,
+   "u": 86127,
    "len": 150,
    "sha": "4b8aad3dbdc09a09",
    "items": [
@@ -87214,13 +87234,13 @@
    ]
   },
   {
-   "r": 86301,
+   "r": 86283,
    "len": 6,
    "sha": "cdde12a2071831e3",
    "after": "</tr>\n\n"
   },
   {
-   "u": 86388,
+   "u": 86370,
    "len": 260,
    "sha": "9afcc26cf0e37987",
    "items": [
@@ -87370,13 +87390,13 @@
    ]
   },
   {
-   "r": 86654,
+   "r": 86636,
    "len": 6,
    "sha": "cdde12a2071831e3",
    "after": "</tr>\n\n"
   },
   {
-   "u": 86733,
+   "u": 86715,
    "len": 220,
    "sha": "da2a1a40066d3c87",
    "items": [
@@ -87531,13 +87551,13 @@
    ]
   },
   {
-   "r": 86959,
+   "r": 86941,
    "len": 6,
    "sha": "cdde12a2071831e3",
    "after": "</tr>\n\n"
   },
   {
-   "u": 87041,
+   "u": 87023,
    "len": 235,
    "sha": "9f7357cba633957e",
    "items": [
@@ -87669,19 +87689,19 @@
    ]
   },
   {
-   "r": 87282,
+   "r": 87264,
    "len": 6,
    "sha": "cdde12a2071831e3",
    "after": "</tr>\n\n"
   },
   {
-   "r": 87543,
+   "r": 87525,
    "len": 5,
    "sha": "b8dc660f3c20d4ce",
    "after": "<p>\n\n "
   },
   {
-   "u": 87922,
+   "u": 87904,
    "len": 392,
    "sha": "3258e16e0d85829b",
    "items": [
@@ -87964,7 +87984,7 @@
    ]
   },
   {
-   "r": 88326,
+   "r": 88308,
    "len": 0,
    "sha": "da39a3ee5e6b4b0d",
    "after": "<script type=\"text/javascript\" src=\"local.js\"></script>\n<script type=\"text/javascript\" src=\"../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML\"></script>\n\n"

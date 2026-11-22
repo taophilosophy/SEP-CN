@@ -4,9 +4,9 @@
  "generated_by": "specs/053 bin/assembly_pool.py",
  "note": "格式层残差补丁：m=标记段、u=单元布局、r=纯布局区段；禁含散文",
  "stats": {
-  "page_bytes": 31569,
-  "pool_bytes": 18856,
-  "n_patches": 53
+  "page_bytes": 31551,
+  "pool_bytes": 18880,
+  "n_patches": 54
  },
  "patches": [
   {
@@ -22595,7 +22595,27 @@
    ]
   },
   {
-   "u": 25268,
+   "u": 24855,
+   "len": 12,
+   "sha": "619d65e1ae1a2704",
+   "items": [
+    [
+     "mk",
+     "<a name=\"Bib\">"
+    ],
+    [
+     "tx",
+     0,
+     12
+    ],
+    [
+     "mk",
+     "</a>"
+    ]
+   ]
+  },
+  {
+   "u": 25250,
    "len": 123,
    "sha": "d08b0ddd520d5e1d",
    "items": [
@@ -22767,19 +22787,19 @@
    ]
   },
   {
-   "r": 25509,
+   "r": 25491,
    "len": 6,
    "sha": "64eeeb62dde7289d",
    "after": "</li>\n\n"
   },
   {
-   "r": 25522,
+   "r": 25504,
    "len": 35,
    "sha": "5ea9e0725372c7e0",
    "after": "</div>\n\n<div id=\"academic-tools\">\n\n"
   },
   {
-   "u": 25710,
+   "u": 25692,
    "len": 147,
    "sha": "abcc02df33a12157",
    "items": [
@@ -22840,13 +22860,13 @@
    ]
   },
   {
-   "r": 25863,
+   "r": 25845,
    "len": 6,
    "sha": "cdde12a2071831e3",
    "after": "</tr>\n\n"
   },
   {
-   "u": 25950,
+   "u": 25932,
    "len": 257,
    "sha": "e9df08539cc98370",
    "items": [
@@ -22996,13 +23016,13 @@
    ]
   },
   {
-   "r": 26213,
+   "r": 26195,
    "len": 6,
    "sha": "cdde12a2071831e3",
    "after": "</tr>\n\n"
   },
   {
-   "u": 26292,
+   "u": 26274,
    "len": 217,
    "sha": "53931bef2e7abdf5",
    "items": [
@@ -23157,13 +23177,13 @@
    ]
   },
   {
-   "r": 26515,
+   "r": 26497,
    "len": 6,
    "sha": "cdde12a2071831e3",
    "after": "</tr>\n\n"
   },
   {
-   "u": 26597,
+   "u": 26579,
    "len": 230,
    "sha": "5c9c31491607cdf4",
    "items": [
@@ -23295,25 +23315,25 @@
    ]
   },
   {
-   "r": 26833,
+   "r": 26815,
    "len": 6,
    "sha": "cdde12a2071831e3",
    "after": "</tr>\n\n"
   },
   {
-   "r": 26848,
+   "r": 26830,
    "len": 14,
    "sha": "7a81a1190a66b685",
    "after": "</blockquote>\n\n"
   },
   {
-   "r": 26953,
+   "r": 26935,
    "len": 7,
    "sha": "7a48611dd28faf42",
    "after": "</h2>\n\n \n"
   },
   {
-   "u": 26963,
+   "u": 26945,
    "len": 51,
    "sha": "f27a2d8c9283c303",
    "items": [
@@ -23378,13 +23398,13 @@
    ]
   },
   {
-   "r": 27094,
+   "r": 27076,
    "len": 5,
    "sha": "b8dc660f3c20d4ce",
    "after": "<p>\n\n "
   },
   {
-   "r": 27419,
+   "r": 27401,
    "len": 12,
    "sha": "4770c12571e51b10",
    "after": "</p>\n\n</div>\n\n<script type=\"text/javascript\" src=\"local.js\"></script>\n<script type=\"text/javascript\" src=\"../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML\"></script>\n\n"

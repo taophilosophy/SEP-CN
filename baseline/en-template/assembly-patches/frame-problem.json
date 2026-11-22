@@ -4,9 +4,9 @@
  "generated_by": "specs/053 bin/assembly_pool.py",
  "note": "格式层残差补丁：m=标记段、u=单元布局、r=纯布局区段；禁含散文",
  "stats": {
-  "page_bytes": 50964,
-  "pool_bytes": 36507,
-  "n_patches": 67
+  "page_bytes": 50946,
+  "pool_bytes": 36531,
+  "n_patches": 68
  },
  "patches": [
   {
@@ -40998,7 +40998,27 @@
    ]
   },
   {
-   "u": 38154,
+   "u": 37989,
+   "len": 12,
+   "sha": "619d65e1ae1a2704",
+   "items": [
+    [
+     "mk",
+     "<a name=\"Bib\">"
+    ],
+    [
+     "tx",
+     0,
+     12
+    ],
+    [
+     "mk",
+     "</a>"
+    ]
+   ]
+  },
+  {
+   "u": 38136,
    "len": 158,
    "sha": "b50e5cd63ea223e8",
    "items": [
@@ -41158,7 +41178,7 @@
    ]
   },
   {
-   "u": 38323,
+   "u": 38305,
    "len": 223,
    "sha": "3700f3861e08ad8d",
    "items": [
@@ -41399,7 +41419,7 @@
    ]
   },
   {
-   "u": 38557,
+   "u": 38539,
    "len": 106,
    "sha": "747ec0d31fc1085c",
    "items": [
@@ -41514,13 +41534,13 @@
    ]
   },
   {
-   "r": 38923,
+   "r": 38905,
    "len": 7,
    "sha": "4fad43568282c4f8",
    "after": "</li>\n    \n"
   },
   {
-   "u": 39471,
+   "u": 39453,
    "len": 254,
    "sha": "ff5dfb650127cdfc",
    "items": [
@@ -41842,7 +41862,7 @@
    ]
   },
   {
-   "u": 39870,
+   "u": 39852,
    "len": 63,
    "sha": "a142fb9473dd84dd",
    "items": [
@@ -41939,7 +41959,7 @@
    ]
   },
   {
-   "u": 40091,
+   "u": 40073,
    "len": 81,
    "sha": "4cefa0d9e5794264",
    "items": [
@@ -42045,7 +42065,7 @@
    ]
   },
   {
-   "u": 40755,
+   "u": 40737,
    "len": 151,
    "sha": "9299bf5b078d1fc4",
    "items": [
@@ -42196,7 +42216,7 @@
    ]
   },
   {
-   "u": 40917,
+   "u": 40899,
    "len": 168,
    "sha": "30687676bf22286c",
    "items": [
@@ -42374,7 +42394,7 @@
    ]
   },
   {
-   "u": 41229,
+   "u": 41211,
    "len": 183,
    "sha": "181464e45ef354aa",
    "items": [
@@ -42588,7 +42608,7 @@
    ]
   },
   {
-   "u": 41853,
+   "u": 41835,
    "len": 239,
    "sha": "9b8f6b9830ae5bda",
    "items": [
@@ -42856,7 +42876,7 @@
    ]
   },
   {
-   "u": 42103,
+   "u": 42085,
    "len": 118,
    "sha": "aedb661434cb7e25",
    "items": [
@@ -43021,7 +43041,7 @@
    ]
   },
   {
-   "u": 42232,
+   "u": 42214,
    "len": 76,
    "sha": "5ce18670672adaff",
    "items": [
@@ -43136,7 +43156,7 @@
    ]
   },
   {
-   "u": 42441,
+   "u": 42423,
    "len": 263,
    "sha": "2498d560d9dc5a5d",
    "items": [
@@ -43413,7 +43433,7 @@
    ]
   },
   {
-   "u": 43166,
+   "u": 43148,
    "len": 132,
    "sha": "e918607f0e2b3d1b",
    "items": [
@@ -43600,7 +43620,7 @@
    ]
   },
   {
-   "u": 43489,
+   "u": 43471,
    "len": 154,
    "sha": "d3b06ae0f2daeec9",
    "items": [
@@ -43787,7 +43807,7 @@
    ]
   },
   {
-   "u": 43873,
+   "u": 43855,
    "len": 156,
    "sha": "8b62ee709e63386a",
    "items": [
@@ -43965,7 +43985,7 @@
    ]
   },
   {
-   "u": 44040,
+   "u": 44022,
    "len": 90,
    "sha": "1a830e3ea5540ee6",
    "items": [
@@ -44089,7 +44109,7 @@
    ]
   },
   {
-   "u": 44141,
+   "u": 44123,
    "len": 201,
    "sha": "8fc9df4864f4163c",
    "items": [
@@ -44276,25 +44296,25 @@
    ]
   },
   {
-   "r": 44490,
+   "r": 44472,
    "len": 6,
    "sha": "64eeeb62dde7289d",
    "after": "</li>\n\n"
   },
   {
-   "r": 44503,
+   "r": 44485,
    "len": 35,
    "sha": "5ea9e0725372c7e0",
    "after": "</div>\n\n<div id=\"academic-tools\">\n\n"
   },
   {
-   "r": 44592,
+   "r": 44574,
    "len": 34,
    "sha": "4993a190d6a73921",
    "after": "<table>\n<tr><td valign=\"top\">"
   },
   {
-   "u": 44698,
+   "u": 44680,
    "len": 148,
    "sha": "fd00218b604acc77",
    "items": [
@@ -44355,13 +44375,13 @@
    ]
   },
   {
-   "r": 44858,
+   "r": 44840,
    "len": 9,
    "sha": "3b04f49bc05db8fb",
    "after": "<tr><td valign=\"top\">"
   },
   {
-   "u": 44939,
+   "u": 44921,
    "len": 258,
    "sha": "eca0669c68c26af5",
    "items": [
@@ -44511,13 +44531,13 @@
    ]
   },
   {
-   "r": 45209,
+   "r": 45191,
    "len": 9,
    "sha": "3b04f49bc05db8fb",
    "after": "<tr><td valign=\"top\">"
   },
   {
-   "u": 45282,
+   "u": 45264,
    "len": 218,
    "sha": "f28eddc4d805bb34",
    "items": [
@@ -44672,13 +44692,13 @@
    ]
   },
   {
-   "r": 45512,
+   "r": 45494,
    "len": 9,
    "sha": "3b04f49bc05db8fb",
    "after": "<tr><td valign=\"top\">"
   },
   {
-   "u": 45588,
+   "u": 45570,
    "len": 230,
    "sha": "149367266bd7bd96",
    "items": [
@@ -44810,19 +44830,19 @@
    ]
   },
   {
-   "r": 45839,
+   "r": 45821,
    "len": 14,
    "sha": "7a81a1190a66b685",
    "after": "</blockquote>\n\n"
   },
   {
-   "r": 45951,
+   "r": 45933,
    "len": 4,
    "sha": "82f4fb72c5b57add",
    "after": "<ul>\n<!-- LINK CHECKER COMMENTED OUT (Sun Nov 25 08:04:45 2012)\n<li><a href=\"http://www.iscid.org/encyclopedia/Frame_Problem\" target=\"other\">Frame Problem</a>\n from the International Society for\nComplexity, Information, and Design Encyclopedia of Science and\nPhilosophy, BETA.</li>\n\n LINK CHECKER -->\n"
   },
   {
-   "u": 45959,
+   "u": 45941,
    "len": 259,
    "sha": "b5a2110849b090f3",
    "items": [
@@ -45002,13 +45022,13 @@
    ]
   },
   {
-   "r": 46298,
+   "r": 46280,
    "len": 5,
    "sha": "b8dc660f3c20d4ce",
    "after": "<p>\n\n "
   },
   {
-   "r": 46877,
+   "r": 46859,
    "len": 12,
    "sha": "4770c12571e51b10",
    "after": "</p>\n\n</div>\n\n"
