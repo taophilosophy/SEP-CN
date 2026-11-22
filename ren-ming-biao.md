@@ -55,7 +55,7 @@
 | Adret, Solomon ibn | — | 所罗门·伊本·阿德雷特 | 西班牙／犹太教法学 | 1235–1310 | f/falaquera | 音译（13 世纪巴塞罗那拉比，1305 年禁令颁布者）；凭证 2026-11-11；籍属/生卒联网查证：GND 规范标目 gnd 104076666（2026-11-13 查，凭证 verify-2026-11-13-gnd-a.tsv） | 2026-11-13 |
 | Aelius Aristides | — | 埃利乌斯·阿里斯泰德斯 | 古希腊／修辞学 | 117–187 | olympiodorus | 2 世纪演说家（与 dialectical-school 之 Aristides 异人）；学界音译；凭证 2026-11-08；籍属/生卒联网查证：GND 规范标目 gnd 118503979（2026-11-13 查，凭证 verify-2026-11-13-gnd-a.tsv） | 2026-11-13 |
 | Aenesidemus | — | 埃奈西德穆 | 希腊（克诺索斯） | 约前 1 世纪 | heraclitus | 学界通行汉译（怀疑论者）；凭证 2026-11-09 | 2026-11-09 |
-| Aëtius | — | 埃提乌斯 | — | — | xenophanes；xenocrates | 学界通行汉译（古希腊学说汇编者）；凭证 2026-11-07；xenocrates 复现（2026-11-08 合并行，来源列并双 slug） | 2026-11-07 |
+| Aëtius | — | 埃提乌斯 | 古希腊（罗马帝国时期） | 约1–2世纪（活动期） | xenophanes；xenocrates | 学界通行汉译（古希腊学说汇编者）；凭证 2026-11-07；xenocrates 复现（2026-11-08 合并行，来源列并双 slug）；籍属/生卒联网查证：Wikidata Q794615（2026-11-23 查，凭证 people-wikidata-2026-11-23-backfill.tsv） | 2026-11-07 |
 | Agathe Calvelli-Adorno | — | 阿加特·卡尔维利-阿多诺 | 科西嘉裔，德国／歌唱家与钢琴家（阿多诺之姨） | 1867–1935 | adorno | 学界通行音译；凭证 2026-11-10；生卒未详（2026-11-20 复核）；籍属/生卒联网查证：Wikidata Q94742217（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Agathon | — | 阿伽通 | 古希腊（雅典） | 前444–前399 | diodorus-cronus | 学界通行汉译（古希腊悲剧诗人，亚里士多德《尼各马可伦理学》1139b10 所引）；凭证 2026-11-07；籍属/生卒联网查证：Wikidata Q380482（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Agné, Hans | — | 汉斯·阿涅 | 瑞典／政治学 | 1970– | global-democracy | 音译（全球民主经验研究）；籍属/生卒联网查证：GND 规范标目 gnd 1053060130（2026-11-13 查，凭证 verify-2026-11-13-gnd-a.tsv） | 2026-11-13 |
@@ -159,7 +159,7 @@
 | Anaximenes | — | 阿那克西美尼 | 古希腊 | 前546–前528 | alcmaeon | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核在案（同名噪声/辅助档差异，保留现译 2026-10-29）；籍属/生卒联网查证：GND 规范标目 gnd 118649043（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | AnderBois, Scott | — | AnderBois, Scott | — | — | dynamic-semantics | 无通行汉名，保留英文原名；凭证 2026-11-12 | 2026-11-12 |
 | Andersen, Mikkel Birkegaard | — | 米克尔·比尔克高·安德森 | — | — | social-procedures | 丹麦名音译（认知规划）；凭证 2026-11-07 | 2026-11-07 |
-| Anderson, A.R. | — | A.R. Anderson | — | — | logic-relevance | 无通行汉名，保留英文原名；凭证 2026-11-09 | 2026-11-09 |
+| Anderson, A.R. | — | A.R. Anderson | 美国 | 1925–1973 | logic-relevance | 无通行汉名，保留英文原名；凭证 2026-11-09；籍属/生卒联网查证：Wikidata Q3268033（2026-11-23 查，凭证 people-wikidata-2026-11-23-backfill.tsv） | 2026-11-09 |
 | Anderson, Alan Ross | — | Alan Ross Anderson | 美国／逻辑学 | 1925–1973 | logic-linear | 无通行汉名，保留英文原名（相干逻辑）；凭证 2026-11-10；籍属/生卒联网查证：GND 规范标目 gnd 1070879037（2026-11-13 查，凭证 verify-2026-11-13-gnd-a.tsv） | 2026-11-13 |
 | Anderson, Elizabeth | — | 伊丽莎白·安德森 | 美国 | 1959– | economic-democracy | 学界通行汉译（《私人政府》作者）；籍属/生卒联网查证：GND 规范标目 gnd 119353288，生 1959，地理区码 USA，职业 Philosophin，异名 Anderson, Elizabeth S.（2026-11-14 查，凭证 verify-2026-11-14-alt.tsv） | 2026-11-14 |
 | Anderson, Guy | — | 盖伊·安德森 | 美国 | 1906–1998 | langer | 美国画家（朗格友人；音译）；凭证 2026-11-08；籍属/生卒联网查证：GND 规范标目 gnd 118847465（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
@@ -2552,7 +2552,7 @@
 | Lewens, Tim | — | 蒂姆·卢文斯 | 英国 | 1974– | fitness | 学界通行音译（剑桥生物学哲学家）；凭证 2026-11-13；籍属/生卒联网查证：GND 规范标目 gnd 133048152（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Lewes, George Henry | — | 乔治·亨利·刘易斯 | 英国 | 1817–1878 | george-eliot | 学界通行汉译（哲学家、批评家，艾略特伴侣） | 2026-11-12 |
 | Lewis, C.I. | — | C.I. 刘易斯 | 美国 | 1883– | langer | 学界惯例（概念实用主义；与 C.S. Lewis 路易斯异人）；凭证 2026-11-08；籍属/生卒联网查证：SEP 原文 en/lewis-ci:185（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
-| Lewis, David / David Lewis | — | 大卫·刘易斯 | — | — | leibniz-modal；closure-epistemic | 学界通行汉译（模态实在论、语境论；与 C.I. 刘易斯异人）；凭证 2026-11-08；2026-11-13 重复行合并（旧键 `David Lewis`） | 2026-11-13 |
+| Lewis, David / David Lewis | — | 大卫·刘易斯 | 美国 | 1941–2001 | leibniz-modal；closure-epistemic | 学界通行汉译（模态实在论、语境论；与 C.I. 刘易斯异人）；凭证 2026-11-08；2026-11-13 重复行合并（旧键 `David Lewis`）；籍属/生卒联网查证：Wikidata Q384522（2026-11-23 查，凭证 people-wikidata-2026-11-23-backfill.tsv） | 2026-11-13 |
 | Li Guangdi | 李光地 | 李光地 | 中国／清 | 1642–1718 | zhu-xi | 学界通行汉译（《朱子全书》御纂主持者；汉字本名）；凭证 2026-11-15 | 2026-11-15 |
 | Li Si | — | 李斯 | 中国（秦） | ?–前 208 | xunzi | 上游自带汉字（秦丞相，荀子门人） | 2026-11-14 |
 | Li Tong | 李侗 | 李侗 | 中国／南宋 | 1093–1163 | zhu-xi | 学界通行汉译（朱子之师，延平先生；汉字本名）；凭证 2026-11-15 | 2026-11-15 |
@@ -4549,7 +4549,7 @@
 | Williams, Eric | — | 埃里克·威廉斯 | 特立尼达和多巴哥 | 1911–1981 | colonialism | 学界通行（《资本主义与奴隶制》引介文献；与 Williams, Robert 异人）；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 127329625（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv）；籍属/生卒联网查证：Wikidata Q1338879（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Williams, George C. | — | 乔治·C. 威廉斯 | 美国 | 1926–2010 | biology-philosophy | 学界通行汉译（《适应与自然选择》作者）；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 120522373（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Williams, Mary B. | — | 玛丽·B. 威廉斯 | — | — | biology-philosophy | 学界通行汉译（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
-| Williamson | — | 威廉姆森 | — | — | william-jevons | 学界通行（化学家 A. W. Williamson，分子运动理论先驱）；凭证 2026-11-07 | 2026-11-07 |
+| Williamson | — | 威廉姆森 | 英国 | 1955– | william-jevons | 学界通行（化学家 A. W. Williamson，分子运动理论先驱）；凭证 2026-11-07；籍属/生卒联网查证：Wikidata Q984380（2026-11-23 查，凭证 people-wikidata-2026-11-23-backfill.tsv） | 2026-11-07 |
 | Williamson, Jon | — | 乔恩·威廉姆森 | — | — | belief-merging | 学界通行汉译（贝叶斯认识论与证据聚合，JLC 19(3) 2009 本条文献作者；源文 defs 拼 Willamson 脱 i；与蒂莫西·威廉姆森、化学家 A. W. 威廉姆森异人）；凭证 2026-11-13 | 2026-11-13 |
 | Williamson, Oliver | — | 奥利弗·威廉姆森 | 美国 | 1932–2020 | economic-democracy | 学界通行汉译（交易成本经济学）；籍属/生卒联网查证：GND 规范标目 gnd 124179045（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Williamson, Timothy | — | 蒂莫西·威廉森 | 英国 | 1955– | closure-epistemic | 知识论通行音译（《知识及其限度》；与化学家威廉姆森异人）；凭证 2026-11-08；籍属/生卒联网查证：GND 规范标目 gnd 136468853（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
@@ -4580,7 +4580,7 @@
 | Wolf, Susan / Susan Wolf | Susan Wolf | 苏珊·沃尔夫 | 美国／道德哲学 | 1952– | 语料回收（specs/058 全库提取） | 学界通行音译；籍属/生卒联网查证：Wikidata Q7648308（2026-11-22 查，凭证 people-wikidata-2026-11-22-b2.tsv） | 2026-11-22 |
 | Wolfe, Patrick | — | 帕特里克·沃尔夫 | 澳大利亚 | 1949–2016 | colonialism | 学界中译文献通译（settler colonialism 结构论者）；凭证 2026-11-07；籍属/生卒联网查证：Wikidata Q109284663（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Wolff, Christian / Christian Wolff | — | 克里斯蒂安·沃尔夫 | 德国 | 1679–1754 | 语料回收（academic-freedom）；emilie-du-chatelet | 学界通行汉译（德国理性主义）；2026-11-13 重复行合并（旧键 `Christian Wolff`）；籍属/生卒联网查证：Wikidata Q76510（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
-| Wolff, R. P. | — | R. P. 沃尔夫 | — | — | sovereignty | 学界通行汉译（政治哲学研究通行“沃尔夫”，Robert Paul Wolff）；凭证 2026-11-07 | 2026-11-07 |
+| Wolff, R. P. | — | R. P. 沃尔夫 | 美国 | 1933–2025 | sovereignty | 学界通行汉译（政治哲学研究通行“沃尔夫”，Robert Paul Wolff）；凭证 2026-11-07；籍属/生卒联网查证：Wikidata Q739540（2026-11-23 查，凭证 people-wikidata-2026-11-23-backfill.tsv） | 2026-11-07 |
 | Wolfhart Pannenberg | — | 沃尔夫哈特·潘能伯格 | 德国 | 1928–2014 | gadamer-aesthetics | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-11-01）；籍属/生卒联网查证：GND 规范标目 gnd 118591541（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Wolfson, Harry Austryn | — | 哈里·A. 沃尔夫森 | 美国／犹太哲学史 | 1887–1974 | israeli | 犹太哲学研究通行汉译；凭证 2026-11-11 | 2026-11-11 |
 | Wollheim, Richard | — | 理查德·沃尔海姆 | 美国 | 1923–2003 | bradley-moral | 学界通行汉译（《伦理学研究》导言作者）；凭证 2026-11-08；籍属/生卒联网查证：GND 规范标目 gnd 119116049（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |

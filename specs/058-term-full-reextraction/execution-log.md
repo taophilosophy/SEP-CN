@@ -57,3 +57,12 @@
 * 取证：Wikidata 逐人查（限流退避；凭证 `results/people-wikidata-2026-11-22-b4.tsv`）。Felipe De Brigard 无生卒数据，留“—”；Lewis Carroll 为作家兼逻辑学家（与已登记的 Noël Carroll 异人）；Patricia Churchland 与已登记的 Paul Churchland 异人分行。
 * 落册：`term_flow` 干跑 14/0，实写 14；人名表 4597 数据行守恒；`check_terms` 硬错误 0；`check_all` 17 项全绿。
 * 当日累计：术语表 253 行；人名表 52 行（13＋15＋10＋14）。
+
+## 2026-11-23：人名表存量缺口回填
+
+* 背景：specs/013 缺籍属/生卒告警 781 条（`specs/013-person-attribution/results/person-missing.txt`）。逐条筛名家可确证项。
+* 回填 5 行：Aëtius（古希腊，约1–2世纪活动期，Q794615）、A.R. Anderson（美国，1925–1973，Q3268033）、David Lewis（美国，1941–2001，Q384522）、R. P. Wolff（美国，1933–2025，Q739540）、Timothy Williamson（英国，1955–，Q984380）。依据列追加“籍属/生卒联网查证：Wikidata Qxxx（2026-11-23 查，凭证 …）”，裁定日期不动。
+* 弃用并留痕：Jon Williamson 的 Wikidata 条目 Q61951951 生卒为占位值 1900、职业仅 researcher，不可信；Paul Hoffman、Emma von Hartmann 查无条目。
+* 证据：`results/people-wikidata-2026-11-23-backfill.tsv`。`registry_azsort` 守恒 4597；`check_terms` 硬错误 0。
+* 门禁环境说明：本轮 `check_all` 本地红两项（单体文件大小、管线单元测试），根因均为 specs/057 会话未跟踪的新文件 s3u-audit.md（3343 行超限），不在本规格提交范围；已提交树不受影响，CI 为最终裁判。
+* 当日累计：人名表存量回填 5 行（含 4 行补齐籍属/生卒、全部 5 行补凭证）。
