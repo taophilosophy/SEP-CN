@@ -4901,34 +4901,45 @@ outline: [1, 6]
 
 ## 计算与信息哲学
 
+### 计算理论
+
+* [可计算性与复杂度 Computability and Complexity (Neil Immerman)](c/computability.md)
+* [计算复杂性理论 Computational Complexity Theory (Walter Dean)](c/computational-complexity.md)
+* [邱奇-图灵论题 The Church-Turing Thesis (B. Jack Copeland)](c/church-turing.md)
+* [元胞自动机 Cellular Automata (Francesco Berto、Jacopo Tagliabue)](c/cellular-automata.md)
+* [计算哲学 Computational Philosophy (Patrick Grim、Daniel Singer)](c/computational-philosophy.md)
 * [计算机科学哲学 The Philosophy of Computer Science (Nicola Angius、Giuseppe Primiero、Raymond Turner)](c/computer-science.md)
+
+### 人工智能与认知
+
+* [人工智能 Artificial Intelligence (Selmer Bringsjord、Naveen Sundar Govindarajulu)](a/artificial-intelligence.md)
+* [人工智能认识论 Epistemology of Artificial Intelligence (Claus Beisbart)](e/epistemology-ai.md)
+* [基于逻辑的人工智能 Logic-Based Artificial Intelligence (Richmond Thomason)](l/logic-ai.md)
+* [形式化学习理论 Formal Learning Theory (Oliver Schulte)](l/learning-formal.md)
+* [联结主义 Connectionism (Cameron Buckner、James Garson)](c/connectionism.md)
+* [中文房间论证 The Chinese Room Argument (David Cole)](c/chinese-room.md)
+* [心灵计算理论 The Computational Theory of Mind (Michael Rescorla)](c/computational-mind.md)
+* [框架问题 The Frame Problem (Murray Shanahan)](f/frame-problem.md)
+* [可辩驳推理 Defeasible Reasoning (Robert Koons)](r/reasoning-defeasible.md)
+
+### 信息与逻辑
+
+* [信息 Information (Pieter Adriaans)](i/information.md)
+* [逻辑与信息 Logic and Information (Maricarmen Martinez、Sebastian Sequoiah-Grayson)](l/logic-information.md)
+* [信念修正的逻辑 Logic of Belief Revision (Sven Ove Hansson)](l/logic-belief-revision.md)
+* [信念的形式化表述 Formal Representations of Belief (Konstantin Genin、Franz Huber)](f/formal-belief.md)
+* [语义概念的信息 Semantic Conceptions of Information (Sebastian Sequoiah-Grayson、Luciano Floridi)](i/information-semantic.md)
+* [本体论与信息系统 Ontology and Information Systems (Adam Pease)](o/ontology-is.md)
+
+### 计算史与专题
+
+* [现代计算机发展史 The Modern History of Computing (B. Jack Copeland)](c/computing-history.md)
+* [计算语言学 Computational Linguistics (Lenhart Schubert)](c/computational-linguistics.md)
+* [自动推理 Automated Reasoning (Frederic Portoraro)](r/reasoning-automated.md)
+* [生物信息 Biological Information (Marc Artiga)](i/information-biological.md)
 * [艾伦·图灵 Alan Turing (Andrew Hodges)](t/turing.md)
   * [图灵测试 The Turing Test (Graham Oppy、David Dowe)](t/turing-test.md)
   * [图灵机 Turing Machines (Liesbeth De Mol)](t/turing-machine.md)
-* [人工智能 Artificial Intelligence (Selmer Bringsjord、Naveen Sundar Govindarajulu)](a/artificial-intelligence.md)
-* [信息 Information (Pieter Adriaans)](i/information.md)
-* [自动推理 Automated Reasoning (Frederic Portoraro)](r/reasoning-automated.md)
-* [生物信息 Biological Information (Marc Artiga)](i/information-biological.md)
-* [元胞自动机 Cellular Automata (Francesco Berto、Jacopo Tagliabue)](c/cellular-automata.md)
-* [可计算性与复杂度 Computability and Complexity (Neil Immerman)](c/computability.md)
-* [计算复杂性理论 Computational Complexity Theory (Walter Dean)](c/computational-complexity.md)
-* [计算语言学 Computational Linguistics (Lenhart Schubert)](c/computational-linguistics.md)
-* [计算哲学 Computational Philosophy (Patrick Grim、Daniel Singer)](c/computational-philosophy.md)
-* [联结主义 Connectionism (Cameron Buckner、James Garson)](c/connectionism.md)
-* [可辩驳推理 Defeasible Reasoning (Robert Koons)](r/reasoning-defeasible.md)
-* [人工智能认识论 Epistemology of Artificial Intelligence (Claus Beisbart)](e/epistemology-ai.md)
-* [形式化学习理论 Formal Learning Theory (Oliver Schulte)](l/learning-formal.md)
-* [信念的形式化表述 Formal Representations of Belief (Konstantin Genin、Franz Huber)](f/formal-belief.md)
-* [逻辑与信息 Logic and Information (Maricarmen Martinez、Sebastian Sequoiah-Grayson)](l/logic-information.md)
-* [信念修正的逻辑 Logic of Belief Revision (Sven Ove Hansson)](l/logic-belief-revision.md)
-* [基于逻辑的人工智能 Logic-Based Artificial Intelligence (Richmond Thomason)](l/logic-ai.md)
-* [本体论与信息系统 Ontology and Information Systems (Adam Pease)](o/ontology-is.md)
-* [语义概念的信息 Semantic Conceptions of Information (Sebastian Sequoiah-Grayson、Luciano Floridi)](i/information-semantic.md)
-* [中文房间论证 The Chinese Room Argument (David Cole)](c/chinese-room.md)
-* [邱奇-图灵论题 The Church-Turing Thesis (B. Jack Copeland)](c/church-turing.md)
-* [心灵计算理论 The Computational Theory of Mind (Michael Rescorla)](c/computational-mind.md)
-* [框架问题 The Frame Problem (Murray Shanahan)](f/frame-problem.md)
-* [现代计算机发展史 The Modern History of Computing (B. Jack Copeland)](c/computing-history.md)
 
 ### 技术哲学
 

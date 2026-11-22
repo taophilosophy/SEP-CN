@@ -12610,99 +12610,99 @@
     },
     {
       "kind": "link",
-      "path": "c/computer-science.md",
-      "text": "计算机科学哲学 The Philosophy of Computer Science (Nicola Angius、Giuseppe Primiero、Raymond Turner)",
-      "indent": 0,
-      "order": 1801
-    },
-    {
-      "kind": "link",
-      "path": "t/turing.md",
-      "text": "艾伦·图灵 Alan Turing (Andrew Hodges)",
-      "indent": 0,
-      "order": 1802
-    },
-    {
-      "kind": "link",
-      "path": "t/turing-test.md",
-      "text": "图灵测试 The Turing Test (Graham Oppy、David Dowe)",
-      "indent": 2,
-      "order": 1803
-    },
-    {
-      "kind": "link",
-      "path": "t/turing-machine.md",
-      "text": "图灵机 Turing Machines (Liesbeth De Mol)",
-      "indent": 2,
-      "order": 1804
-    },
-    {
-      "kind": "link",
-      "path": "a/artificial-intelligence.md",
-      "text": "人工智能 Artificial Intelligence (Selmer Bringsjord、Naveen Sundar Govindarajulu)",
-      "indent": 0,
-      "order": 1805
-    },
-    {
-      "kind": "link",
-      "path": "i/information.md",
-      "text": "信息 Information (Pieter Adriaans)",
-      "indent": 0,
-      "order": 1806
-    },
-    {
-      "kind": "link",
-      "path": "r/reasoning-automated.md",
-      "text": "自动推理 Automated Reasoning (Frederic Portoraro)",
-      "indent": 0,
-      "order": 1807
-    },
-    {
-      "kind": "link",
-      "path": "i/information-biological.md",
-      "text": "生物信息 Biological Information (Marc Artiga)",
-      "indent": 0,
-      "order": 1808
-    },
-    {
-      "kind": "link",
-      "path": "c/cellular-automata.md",
-      "text": "元胞自动机 Cellular Automata (Francesco Berto、Jacopo Tagliabue)",
-      "indent": 0,
-      "order": 1809
-    },
-    {
-      "kind": "link",
       "path": "c/computability.md",
       "text": "可计算性与复杂度 Computability and Complexity (Neil Immerman)",
       "indent": 0,
-      "order": 1810
+      "order": 1801
     },
     {
       "kind": "link",
       "path": "c/computational-complexity.md",
       "text": "计算复杂性理论 Computational Complexity Theory (Walter Dean)",
       "indent": 0,
-      "order": 1811
+      "order": 1802
     },
     {
       "kind": "link",
-      "path": "c/computational-linguistics.md",
-      "text": "计算语言学 Computational Linguistics (Lenhart Schubert)",
+      "path": "c/church-turing.md",
+      "text": "邱奇-图灵论题 The Church-Turing Thesis (B. Jack Copeland)",
       "indent": 0,
-      "order": 1812
+      "order": 1803
+    },
+    {
+      "kind": "link",
+      "path": "c/cellular-automata.md",
+      "text": "元胞自动机 Cellular Automata (Francesco Berto、Jacopo Tagliabue)",
+      "indent": 0,
+      "order": 1804
     },
     {
       "kind": "link",
       "path": "c/computational-philosophy.md",
       "text": "计算哲学 Computational Philosophy (Patrick Grim、Daniel Singer)",
       "indent": 0,
-      "order": 1813
+      "order": 1805
+    },
+    {
+      "kind": "link",
+      "path": "c/computer-science.md",
+      "text": "计算机科学哲学 The Philosophy of Computer Science (Nicola Angius、Giuseppe Primiero、Raymond Turner)",
+      "indent": 0,
+      "order": 1806
+    },
+    {
+      "kind": "link",
+      "path": "a/artificial-intelligence.md",
+      "text": "人工智能 Artificial Intelligence (Selmer Bringsjord、Naveen Sundar Govindarajulu)",
+      "indent": 0,
+      "order": 1807
+    },
+    {
+      "kind": "link",
+      "path": "e/epistemology-ai.md",
+      "text": "人工智能认识论 Epistemology of Artificial Intelligence (Claus Beisbart)",
+      "indent": 0,
+      "order": 1808
+    },
+    {
+      "kind": "link",
+      "path": "l/logic-ai.md",
+      "text": "基于逻辑的人工智能 Logic-Based Artificial Intelligence (Richmond Thomason)",
+      "indent": 0,
+      "order": 1809
+    },
+    {
+      "kind": "link",
+      "path": "l/learning-formal.md",
+      "text": "形式化学习理论 Formal Learning Theory (Oliver Schulte)",
+      "indent": 0,
+      "order": 1810
     },
     {
       "kind": "link",
       "path": "c/connectionism.md",
       "text": "联结主义 Connectionism (Cameron Buckner、James Garson)",
+      "indent": 0,
+      "order": 1811
+    },
+    {
+      "kind": "link",
+      "path": "c/chinese-room.md",
+      "text": "中文房间论证 The Chinese Room Argument (David Cole)",
+      "indent": 0,
+      "order": 1812
+    },
+    {
+      "kind": "link",
+      "path": "c/computational-mind.md",
+      "text": "心灵计算理论 The Computational Theory of Mind (Michael Rescorla)",
+      "indent": 0,
+      "order": 1813
+    },
+    {
+      "kind": "link",
+      "path": "f/frame-problem.md",
+      "text": "框架问题 The Frame Problem (Murray Shanahan)",
       "indent": 0,
       "order": 1814
     },
@@ -12715,93 +12715,93 @@
     },
     {
       "kind": "link",
-      "path": "e/epistemology-ai.md",
-      "text": "人工智能认识论 Epistemology of Artificial Intelligence (Claus Beisbart)",
+      "path": "i/information.md",
+      "text": "信息 Information (Pieter Adriaans)",
       "indent": 0,
       "order": 1816
-    },
-    {
-      "kind": "link",
-      "path": "l/learning-formal.md",
-      "text": "形式化学习理论 Formal Learning Theory (Oliver Schulte)",
-      "indent": 0,
-      "order": 1817
-    },
-    {
-      "kind": "link",
-      "path": "f/formal-belief.md",
-      "text": "信念的形式化表述 Formal Representations of Belief (Konstantin Genin、Franz Huber)",
-      "indent": 0,
-      "order": 1818
     },
     {
       "kind": "link",
       "path": "l/logic-information.md",
       "text": "逻辑与信息 Logic and Information (Maricarmen Martinez、Sebastian Sequoiah-Grayson)",
       "indent": 0,
-      "order": 1819
+      "order": 1817
     },
     {
       "kind": "link",
       "path": "l/logic-belief-revision.md",
       "text": "信念修正的逻辑 Logic of Belief Revision (Sven Ove Hansson)",
       "indent": 0,
-      "order": 1820
+      "order": 1818
     },
     {
       "kind": "link",
-      "path": "l/logic-ai.md",
-      "text": "基于逻辑的人工智能 Logic-Based Artificial Intelligence (Richmond Thomason)",
+      "path": "f/formal-belief.md",
+      "text": "信念的形式化表述 Formal Representations of Belief (Konstantin Genin、Franz Huber)",
       "indent": 0,
-      "order": 1821
-    },
-    {
-      "kind": "link",
-      "path": "o/ontology-is.md",
-      "text": "本体论与信息系统 Ontology and Information Systems (Adam Pease)",
-      "indent": 0,
-      "order": 1822
+      "order": 1819
     },
     {
       "kind": "link",
       "path": "i/information-semantic.md",
       "text": "语义概念的信息 Semantic Conceptions of Information (Sebastian Sequoiah-Grayson、Luciano Floridi)",
       "indent": 0,
-      "order": 1823
+      "order": 1820
     },
     {
       "kind": "link",
-      "path": "c/chinese-room.md",
-      "text": "中文房间论证 The Chinese Room Argument (David Cole)",
+      "path": "o/ontology-is.md",
+      "text": "本体论与信息系统 Ontology and Information Systems (Adam Pease)",
       "indent": 0,
-      "order": 1824
-    },
-    {
-      "kind": "link",
-      "path": "c/church-turing.md",
-      "text": "邱奇-图灵论题 The Church-Turing Thesis (B. Jack Copeland)",
-      "indent": 0,
-      "order": 1825
-    },
-    {
-      "kind": "link",
-      "path": "c/computational-mind.md",
-      "text": "心灵计算理论 The Computational Theory of Mind (Michael Rescorla)",
-      "indent": 0,
-      "order": 1826
-    },
-    {
-      "kind": "link",
-      "path": "f/frame-problem.md",
-      "text": "框架问题 The Frame Problem (Murray Shanahan)",
-      "indent": 0,
-      "order": 1827
+      "order": 1821
     },
     {
       "kind": "link",
       "path": "c/computing-history.md",
       "text": "现代计算机发展史 The Modern History of Computing (B. Jack Copeland)",
       "indent": 0,
+      "order": 1822
+    },
+    {
+      "kind": "link",
+      "path": "c/computational-linguistics.md",
+      "text": "计算语言学 Computational Linguistics (Lenhart Schubert)",
+      "indent": 0,
+      "order": 1823
+    },
+    {
+      "kind": "link",
+      "path": "r/reasoning-automated.md",
+      "text": "自动推理 Automated Reasoning (Frederic Portoraro)",
+      "indent": 0,
+      "order": 1824
+    },
+    {
+      "kind": "link",
+      "path": "i/information-biological.md",
+      "text": "生物信息 Biological Information (Marc Artiga)",
+      "indent": 0,
+      "order": 1825
+    },
+    {
+      "kind": "link",
+      "path": "t/turing.md",
+      "text": "艾伦·图灵 Alan Turing (Andrew Hodges)",
+      "indent": 0,
+      "order": 1826
+    },
+    {
+      "kind": "link",
+      "path": "t/turing-test.md",
+      "text": "图灵测试 The Turing Test (Graham Oppy、David Dowe)",
+      "indent": 2,
+      "order": 1827
+    },
+    {
+      "kind": "link",
+      "path": "t/turing-machine.md",
+      "text": "图灵机 Turing Machines (Liesbeth De Mol)",
+      "indent": 2,
       "order": 1828
     },
     {
@@ -25591,6 +25591,50 @@
       ],
       [
         1801,
+        ""
+      ],
+      [
+        1801,
+        "### 计算理论"
+      ],
+      [
+        1801,
+        ""
+      ],
+      [
+        1807,
+        ""
+      ],
+      [
+        1807,
+        "### 人工智能与认知"
+      ],
+      [
+        1807,
+        ""
+      ],
+      [
+        1816,
+        ""
+      ],
+      [
+        1816,
+        "### 信息与逻辑"
+      ],
+      [
+        1816,
+        ""
+      ],
+      [
+        1822,
+        ""
+      ],
+      [
+        1822,
+        "### 计算史与专题"
+      ],
+      [
+        1822,
         ""
       ],
       [
