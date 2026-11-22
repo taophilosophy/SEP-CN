@@ -119,8 +119,13 @@ outline: [1, 6]
 
 ##### 毕达哥拉斯主义
 
+###### 总论与创始人
+
 * [毕达哥拉斯 Pythagoras (Carl Huffman)](p/pythagoras.md)
 * [毕达哥拉斯主义 Pythagoreanism (Carl Huffman)](p/pythagoreanism.md)
+
+###### 学派传承与晚期
+
 * [菲洛劳斯 Philolaus (Carl Huffman)](p/philolaus.md)
 * [阿尔库塔斯 Archytas (Carl Huffman)](a/archytas.md)
 
@@ -170,8 +175,13 @@ outline: [1, 6]
 
 ##### 学园怀疑主义
 
+###### 中期学园
+
 * [阿尔凯西劳 Arcesilaus (Charles Brittain、Peter Osorio)](a/arcesilaus.md)
 * [卡涅阿德斯 Carneades (James Allen)](c/carneades.md)
+
+###### 晚期学园与转向
+
 * [拉里萨的斐洛 Philo of Larissa (Charles Brittain、Peter Osorio)](p/philo-larissa.md)
 * [阿斯卡隆的安提库斯 Antiochus of Ascalon (James Allen)](a/antiochus-ascalon.md)
 
@@ -185,9 +195,17 @@ outline: [1, 6]
 
 ##### 总论与先驱
 
+###### 总论
+
 * [新柏拉图主义 Neoplatonism (Christian Wildberg)](n/neoplatonism.md)
+
+###### 中期柏拉图主义先驱
+
 * [阿帕梅亚的努梅尼乌斯 Numenius (George Karamanolis)](n/numenius.md)
 * [普鲁塔克 Plutarch (George Karamanolis)](p/plutarch.md)
+
+###### 奠基与学派
+
 * [普罗提诺 Plotinus (Paul Kalligas)](p/plotinus.md)
 * [波菲利 Porphyry (Eyjólfur Emilsson)](p/porphyry.md)
 * [杨布里科斯 Iamblichus (Riccardo Chiaradonna、Adrien Lecerf)](i/iamblichus.md)
@@ -475,40 +493,69 @@ outline: [1, 6]
 
 #### 逻辑与语言
 
+##### 诡辩与义务理论
+
 * [不可解命题 Insolubles (Stephen Read、Paul Vincent Spade)](i/insolubles.md)
 * [中世纪的义务理论 Medieval Theories of Obligationes (Mikko Yrjönsuuri)](o/obligationes.md)
 * [诡辩 Sophismata (Fabienne Pironet、Joke Spruyt)](s/sophismata.md)
 * [最著名的一对 Binarium Famosissimum (Paul Vincent Spade)](b/binarium.md)
+
+##### 推理与证明理论
+
 * [中世纪结果理论 Medieval Theories of Consequence (Catarina Dutilh Novaes、Milo Crimi)](c/consequence-medieval.md)
 * [中世纪的三段论理论 Medieval Theories of the Syllogism (Henrik Lagerlund)](m/medieval-syllogism.md)
+* [中世纪的证明理论 Medieval Theories of Demonstration (John Longeway)](d/demonstration-medieval.md)
+
+##### 词项与语义理论
+
 * [中世纪词项属性理论 Medieval Theories: Properties of Terms (Stephen Read)](m/medieval-terms.md)
 * [中世纪的单称词项理论 Medieval Theories of Singular Terms (Julie Brumberg-Chaumont、E. Jennifer Ashworth)](s/singular-terms-medieval.md)
-* [中世纪的证明理论 Medieval Theories of Demonstration (John Longeway)](d/demonstration-medieval.md)
 * [中世纪的类比理论 Medieval Theories of Analogy (E. Jennifer Ashworth、Domenic D’Ettore)](a/analogy-medieval.md)
 
 #### 形而上学
 
+##### 范畴与超越
+
 * [中世纪的范畴理论 Medieval Theories of the Categories (Jorge Gracia、Lloyd Newton)](m/medieval-categories.md)
-* [中世纪关系理论 Medieval Theories of Relations (Jeffrey Brower)](r/relations-medieval.md)
 * [中世纪的超越理论 Medieval Theories of Transcendentals (Wouter Goris、Jan Aertsen)](t/transcendentals-medieval.md)
+
+##### 关系与因果
+
+* [中世纪关系理论 Medieval Theories of Relations (Jeffrey Brower)](r/relations-medieval.md)
 * [中世纪的因果理论 Medieval Theories of Causation (Graham White)](c/causation-medieval.md)
+
+##### 模态与未来偶然
+
 * [中世纪的未来偶然性理论 Medieval Theories of Future Contingents (Gloria Frost、Simo Knuuttila)](m/medieval-futcont.md)
 
 #### 心灵与伦理
 
+##### 道德心理与实践理性
+
 * [中世纪的良心理论 Medieval Theories of Conscience (Peter Eardley)](c/conscience-medieval.md)
 * [中世纪情感理论 Medieval Theories of the Emotions (Simo Knuuttila)](m/medieval-emotions.md)
 * [中世纪的实践理性 Medieval Theories of Practical Reason (Anthony Celano)](p/practical-reason-med.md)
+
+##### 认识、表征与光照
+
 * [中世纪怀疑论 Medieval Skepticism (Charles Bolyard)](s/skepticism-medieval.md)
 * [中世纪哲学中的心理表征 Mental Representation in Medieval Philosophy (Henrik Lagerlund)](r/representation-medieval.md)
 * [神圣光照论 Divine Illumination (Robert Pasnau)](i/illumination.md)
+
+##### 概率与或然
+
 * [中世纪和文艺复兴时期哲学中的概率 Probability in Medieval and Renaissance Philosophy (Rudolf Schuessler)](p/probability-medieval-renaissance.md)
 
 #### 政治、宗教与符号
 
+##### 政治哲学
+
 * [帕多瓦的马西利乌斯 Marsilius of Padua (Alessandro Mulieri)](m/marsilius-padua.md)
 * [中世纪政治哲学 Medieval Political Philosophy (Cary Nederman、Alessandro Mulieri)](m/medieval-political.md)
 * [但丁·阿利吉耶里 Dante Alighieri (Jason Aleksander、Winthrop Wetherbee)](d/dante.md)
+
+##### 符号学
+
 * [中世纪符号学 Medieval Semiotics (Stephan Meier-Oeser)](s/semiotics-medieval.md)
 
 ## 文艺复兴与宗教改革
@@ -628,14 +675,22 @@ outline: [1, 6]
 
 ##### 笛卡尔学派
 
-* [安托万·阿尔诺 Antoine Arnauld (Elmar Kremer)](a/arnauld.md)
-* [亨利·雷吉乌斯 Henricus Regius (Desmond Clarke、Erik-Jan Bos)](h/henricus-regius.md)
+###### 身心关系与偶因论
+
 * [路易·德·拉弗尔热 Louis de La Forge (Andrea Sangiacomo、Desmond Clarke)](l/la-forge.md)
 * [热罗·德·科尔德穆瓦 Géraud de Cordemoy (Fred Ablondi)](c/cordemoy.md)
+* [亨利·雷吉乌斯 Henricus Regius (Desmond Clarke、Erik-Jan Bos)](h/henricus-regius.md)
 * [约翰内斯·克劳伯格 Johannes Clauberg (Nabeel Hamid)](c/clauberg.md)
+
+###### 形而上学与自然哲学
+
 * [罗伯特·戴加贝 Robert Desgabets (Patricia Easton)](d/desgabets.md)
 * [安托万·勒·格兰德 Antoine Le Grand (Patricia Easton)](l/legrand.md)
 * [约翰·克里斯托夫·施图尔姆 Johann Sturm (Andrea Sangiacomo、Christian Henkel)](j/johann-sturm.md)
+
+###### 逻辑、神学与科学论争
+
+* [安托万·阿尔诺 Antoine Arnauld (Elmar Kremer)](a/arnauld.md)
 * [《波尔·罗亚尔逻辑》（《逻辑或思维的艺术》） Port Royal Logic (Alan Nelson、Jill Buroker)](p/port-royal-logic.md)
 * [马兰·梅森 Marin Mersenne (Philippe Hamou)](m/mersenne.md)
 
