@@ -519,6 +519,16 @@ B3.2 的 sha 全等清单即 OAIS fixity 账的实现形态；与 ADR-0076 已�
 
 **教训**：①新账入「可发锚」必须配两项防线：锚不可折＋不嵌套——插入会改变折行与链接语法环境，三条规则要一起上，单上任何一条都只是把差异换个形态；②收益预估要按「原 gap 的受影响页」算（73 页里只有 12 页原为 gap，其余 61 页差异已被池兜住），本批净收益 2 件符合该上界；③「补丁池兜住的页」不是稳态——新账一变就可能翻面，凡扩账都要全量复扫。
 
+## 10.28 第二十八批：宏 ↔ 裸字形之希腊-cursive 区（2026-11-23）
+
+**缺陷**：`_em` 的孤立希腊斜体判别 `re.fullmatch(r"[A-Za-zα-ωΑ-Ω]+", …)` 只覆盖 U+03B1–03C9；C 单希腊降级产出的 `ϱ`(U+03F1)、`ϑ`(U+03D1)、`ϖ`(U+03D6) 落在希腊-cursive 补充区，判别失败 → 右逆发 `<em>ϱ</em>` 而非 `\(\varrho\)`（qm-decoherence 判例：md `*ϱ*` 对 H0 `\(\varrho\)`）。`φ`（U+03C6，属主区）不受影响——varphi 的歧义走既有的按件 `greek` 宏序账。
+
+**修法**：判别字符类扩到整个希腊与希腊扩展块 `[\u0370-\u03FF]`（`GREEK_REV` 的键集本就全落此区）。一行改动，C 侧零改动。
+
+**实测**：定点 10 件（ϱ/ϑ/varphi 混合族）→ 5 件即回池（其余 5 件另有显示式取域等结构性差异，非本族）。全量双通道（建池 → judge 独立复扫 → B3.1）：**pool 1,748→1,758（93.9%）／gap 125→115／stale 0**，池占页 **47.63%**，judge 与建池逐件同值；`scan_vs_head` delta＝**gap→pool 10（qm-decoherence、time-travel-phys、ergodic-hierarchy、games-abstraction、logic-paraconsistent、connectives-logic、equivME、formal-belief、logic-games、rationality-normative-nonutility）、失池 0**；B3.1 **1,638 不变**。缺口普查刷新为 **md_extra 76／h0_extra 13／text 9／math 8／star 4／digit 3／entity 2**（math-delim 细分 23→15）。
+
+**教训**：①字符类要按 Unicode **块**写，不要按“我以为的希腊字母”手抄范围——希腊-cursive 变体（03D0–03FF）常被漏；②一行 R 修复的收益评估也要全量复扫：定点族只看见 5 件，全量带出 10 件（`ϖ`/`ϵ` 等旁支字形同区受益）；③φ/varphi 歧义与字形判别是两条独立通道，别混在一个修复里。
+
 ## 11. 现状与下一步（开工卡，2026-11-22）
 
 **验收线现状**（现查口径，勿引快照）：
@@ -526,20 +536,20 @@ B3.2 的 sha 全等清单即 OAIS fixity 账的实现形态；与 ADR-0076 已�
 | 判据 | 现状 | 取数命令 |
 | ---- | ---- | ---- |
 | B3.1 往返不动点 | **1,638/1,873（87.5%）**，第二十一批 +14（sup/sub 实体拼写右逆）、第二十五批 +1（pm-notation）；转红 3（W8 键名漂移，定案见下） | `python -B specs/053-en-template-audit/bin/reassemble.py --all --out <json>` |
-| B3.2 页面装配 | **pool 1,748（93.3%）／gap 125／stale 0**，池占页 47.27%（2026-11-23 第二十七批全量重建＋全量 judge 双通道收官） | `python -B specs/053-en-template-audit/bin/page_assemble.py --all --build` |
+| B3.2 页面装配 | **pool 1,758（93.9%）／gap 115／stale 0**，池占页 47.63%（2026-11-23 第二十八批全量重建＋全量 judge 双通道收官） | `python -B specs/053-en-template-audit/bin/page_assemble.py --all --build` |
 | I2/I3 转换保真 | `--gate` 0 issue（1,873 全过） | `python -B tools/check_yuanwen_fidelity.py --gate` |
 | 全库门禁 | check_all 17 项全绿 | `python -B tools/check_all.py` |
 
-**缺口 125 分族**（`script/tmp/b32_families2.py <scan-json>`；分族普查须在每次转池后重跑）：2026-11-23 第二十七批收官普查为 **md_extra 83／h0_extra 13／math 11／text 9／star 4／digit 3／entity 2**。已解族：表题 `caption`（第十四批）、书目区无年份散文、书目区取域与注释（第十六批）、致谢区识别（第十七批）、related 前导竖线与希腊公式形（第十八批）、嵌套引块与 layout 陈年（第十九批）、书目散文 `note-<年>` 键（第二十批）、sup/sub 实体拼写与字形（第二十一批）、跨岛实体差（第二十二批）、行内公式 `\$` 双源（第二十三批）、题后散字与裸名条目（第二十四批）、嵌套表与管道格内 raw 表（第二十五批）、脚注引用形与内部链接消歧（第二十六批）、带片段的裸兄弟文件链（第二十七批）。
+**缺口 115 分族**（`script/tmp/b32_families2.py <scan-json>`；分族普查须在每次转池后重跑）：2026-11-23 第二十八批收官普查为 **md_extra 76／h0_extra 13／text 9／math 8／star 4／digit 3／entity 2**。已解族：表题 `caption`（第十四批）、书目区无年份散文、书目区取域与注释（第十六批）、致谢区识别（第十七批）、related 前导竖线与希腊公式形（第十八批）、嵌套引块与 layout 陈年（第十九批）、书目散文 `note-<年>` 键（第二十批）、sup/sub 实体拼写与字形（第二十一批）、跨岛实体差（第二十二批）、行内公式 `\$` 双源（第二十三批）、题后散字与裸名条目（第二十四批）、嵌套表与管道格内 raw 表（第二十五批）、脚注引用形与内部链接消歧（第二十六批）、带片段的裸兄弟文件链（第二十七批）、宏↔裸字形之希腊-cursive 区（第二十八批）。
 
-**md_extra 83 件再分族（批准项①，按 `plain()` 文字流首差内容形态）**：`script/tmp/fam_md_extra2.py`（文字流首差＋H0 标记上下文）与 `classify_diff_content.py`（差异内容形态）两段可复算，2026-11-23 第二十七批复算计数：math-delim 23／space-ent 6／table-pipe 1／marker 1／其余 52：
+**md_extra 76 件再分族（批准项①，按 `plain()` 文字流首差内容形态）**：`script/tmp/fam_md_extra2.py`（文字流首差＋H0 标记上下文）与 `classify_diff_content.py`（差异内容形态）两段可复算，2026-11-23 第二十八批复算计数：math-delim 15／space-ent 6／table-pipe 1／marker 1／其余 53：
 
 | 子族 | 件数 | 判例与机制 |
 | ---- | ---- | ---- |
-| 数学定界/宏形 | 23 | 细分：宏↔裸 Unicode 字形（`\(\varrho\)` 对 `ϱ`）约 11 件（ergodic-hierarchy／qm-decoherence／logic-paraconsistent／time-travel-phys／type-theory-church／games-abstraction／ramsey／recursive-functions／logic-probability／logic-power-games）；`&nbsp;` 填充（显示式/表前导）约 6 件（category-theory／future-contingents／logic-conditionals／possibilism-actualism／reasoning-automated）；弯引号与 `&prime;` 实体形约 4 件（generalized-quantifiers／logic-higher-order／equivME／intuitionistic-logic-development）；定界符形 1 件（discourse-representation-theory `\[\cb{`） |
+| 数学定界/宏形 | 15 | 细分：显示式取域/宏形 8 件（criminal-law／geometry-finitism／logic-intensional／logic-power-games／logic-probability／propositional-function／ramsey／recursive-functions）；弯引号与 `&prime;` 实体形 3 件（generalized-quantifiers／logic-higher-order／intuitionistic-logic-development）；定界符形 1 件（discourse-representation-theory `\[\cb{`）；其余 3 件待逐件取证。希腊-cursive 族已于第二十八批清零（`&nbsp;` 填充另单列为 space-ent 6 件） |
 | 空白实体 | 6 | `&nbsp;`/`&thinsp;` 实体形差（显示式前导等） |
 | 表管/标记 | 2 | anaphora `(1)` 列表标记丢失；表 `\|\|` 分隔（aristotle-mathematics） |
-| 其余 | 52 | 窗口内无显著形态特征（多为书目/区结构错位），待逐件取证 |
+| 其余 | 53 | 窗口内无显著形态特征（多为书目/区结构错位），待逐件取证 |
 
 > 脚注引用形子族已于第二十六批清零（12 件全转池）。
 
@@ -550,9 +560,9 @@ B3.2 的 sha 全等清单即 OAIS fixity 账的实现形态；与 ADR-0076 已�
 **B3.1 转红 3 件（W8）——定案：接受残留，不修**。取证：engels 实际漂移 22 条定义（`engels-*→marx-*`）、foucault 1 条（`foucault-2018→cours-2018`）、kant-religion 2 条（`kant-religion-*→kant’s-*`）。根因：R 把全部文献定义放在 References 区**最后一个标题之后**的单 `<ul>` 里，C 的 `build_cite_keys` 按 section 邻接继承姓氏，年份起首条目因而继承前一节末条（Marx）。候选修法成本实测：①年份起首不继承、统一 fallback → 改判 **1,580 条／121 件**键名（含把合法的 `lewis/Church` 类换成 slug 键，且影响译注标记），需全量重转；②同小节换 `<ul>` 重置 prev → 19 件（30 处）现有键被改判；③R 按键姓段切 ul → 账与补丁全量重算。收益 3 件（0.16%）且仅键名标签、定义文字与顺序全等（三件 B3.2 均 pool）。故**不修**，登记为已知残留。
 
 **下一批入口**（按收益排序）：
-1. **宏 ↔ 裸字形（约 11 件）**：`\(\varrho\)`/`\vartheta`/`\varphi` 与 `ϱ`/`ϑ`/`φ` 的双源，须按 span 或按件记源形（`math_dollars` 的体内指纹式账可复用）。
-2. **`&nbsp;` 填充（约 6 件）**：显示式与表前导的 `&nbsp;` 串，须按 span 记长度（可与 `math_dollars` 同一按位账骨架）。
-3. **折行宽度（wrap_width）**：全局单宽模型对混排宽度的件不成立（hobbes-science 等），须按件记宽度族或按段记宽度；第二十七批已把「锚不可折」固化，剩余是行内无锚段落的宽度族。
+1. **`&nbsp;` 填充（6 件，space-ent）**：显示式与表前导的 `&nbsp;` 串，须按 span 记长度（可与 `math_dollars` 同一按位账骨架）。
+2. **显示式取域/宏形余件（8 件）**：criminal-law／geometry-finitism／logic-intensional／logic-power-games／logic-probability／propositional-function／ramsey／recursive-functions，多为 `\[…\]` 取域与相邻段错位，须逐件取证。
+3. **折行宽度（wrap_width）**：全局单宽模型对混排宽度的件不成立（hobbes-science 等）；第二十七批已把「锚不可折」固化，剩余是行内无锚段落的宽度族。
 4. **h0_extra 余件（13）**：逐件取证“H0 事项未入 md／账”的具体通道。
 
 **流程提醒**：动 C 必全量重转（约 18 分钟）＋B3.1 集合级对照止损；动 R/账只重跑 B3.1（约 10 分钟）＋建池（约 20 分钟）＋judge 复扫（约 25 分钟）；**小改动走定点重建＋judge 拼接**（受影响件集＝账 diff ∪ md 变件 ∪ 结构特征件；`script/tmp/splice_b12.py`）；基线只在收敛后人工更新并提交。

@@ -417,3 +417,10 @@ B3.1 回归：不动点 **1,435/1,873（76.6%）**（此前 1,240，＋195，无
 **次生缺陷与护栏**：①`wrap_html` 词级折行会把新插入的锚从中间折断，H0 却整行不折（original-position 判例）→ 改**整锚不可折**（H0 正文 129,369 条锚仅 54 条内含换行，0.04%，实证口径）；②C 把 H0「锚文＋后随普通文字」合并成一条 md 链，账再插入即嵌进链接文字段、产出 `<a>` 内字面 `[..](..)`（H0 从不嵌套 `<a>`）→ 候选落在既有 md 链接文字段内即弃。
 **实测**：无护栏首版全量 **+1／−1**（chance-randomness 转、original-position 失），净零不予采纳；加两护栏后全量双通道 **pool 1,746→1,748（93.3%）／gap 125／stale 0**，池占页 **47.27%**，judge 与建池逐件同值；delta＝gap→pool 2（chance-randomness、determinism-causal）、**失池 0**；B3.1 **1,638 不变**；随机抽 25 件原池页＋original-position 复测 27/27 可池。缺口普查刷新为 md_extra 83／h0_extra 13／math 11／text 9／star 4／digit 3／entity 2。
 **教训**：①扩“可发锚”的账必须与折行、嵌套两条防线同批上，单上只把差异换个形态；②收益上界要按「受影响页中原为 gap 的件数」算（73 页仅 12 件原为 gap，其余 61 件已被池兜住），本批得 2 件符合该量级；③“池兜住”不是稳态，扩账会让旧池翻面，仍须全量复扫收官。
+
+## 2026-11-23 第二十八批：宏 ↔ 裸字形之希腊-cursive 区（池 1,748→1,758）
+
+**缺陷**：`_em` 的孤立希腊斜体判别字符类只写到 U+03B1–03C9，C 单希腊降级产出的 `ϱ`(U+03F1)、`ϑ`(U+03D1)、`ϖ`(U+03D6) 落在希腊-cursive 补充区，判别失败 → 右逆发 `<em>ϱ</em>` 而非 `\(\varrho\)`（qm-decoherence 判例：md `*ϱ*` 对 H0 `\(\varrho\)`）。`φ` 属主区不受影响，varphi 歧义另有按件 `greek` 宏序账。
+**修法**：判别字符类扩到整块 `[\u0370-\u03FF]`（`GREEK_REV` 键集本就在此区）。一行 R 改动，C 侧零改。
+**实测**：定点 10 件混合族 → 5 件即回池（其余 5 件另有显示式取域差）。全量双通道（建池 → judge 独立复扫 → B3.1）：**pool 1,748→1,758（93.9%）／gap 125→115／stale 0**，池占页 **47.63%**，judge 与建池逐件同值；delta＝gap→pool 10（qm-decoherence、time-travel-phys、ergodic-hierarchy、games-abstraction、logic-paraconsistent、connectives-logic、equivME、formal-belief、logic-games、rationality-normative-nonutility）、**失池 0**；B3.1 **1,638 不变**。缺口普查刷新为 md_extra 76／h0_extra 13／text 9／math 8／star 4／digit 3／entity 2。
+**教训**：①字符类按 Unicode 块写，别手抄“希腊字母”范围（cursive 变体 03D0–03FF 最易漏）；②一行修复也要全量复扫——定点只见 5 件，全量带出 10 件（`ϖ`/`ϵ` 等同区受益）；③字形判别与 φ/varphi 歧义是两条通道，不合并修。

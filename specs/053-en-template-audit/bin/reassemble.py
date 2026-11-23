@@ -740,7 +740,7 @@ def link_misses():
 def _em(inner):
     """孤立希腊斜体回写 \\(\\alpha\\)（ADR-0049 逆映射，反斜杠必须有——C 侧
     fullmatch r'\\\\([A-Za-z]+)' 识别的是带杠命令名）；其余内容包 <em>。"""
-    m = re.fullmatch(r"([A-Za-zα-ωΑ-Ω]+)", inner)
+    m = re.fullmatch(r"([A-Za-z\u0370-\u03FF]+)", inner)
     if m and m.group(0) in GREEK_REV and m.group(0) not in GREEK_C_DEFER:
         if _GREEK_FORM == "em":
             return "<%s>%s</%s>" % (_ITAL, inner, _ITAL)
