@@ -333,3 +333,13 @@
 * 别名补记 2 条：`Herschel, John F. W.` 补语料形 `John Herschel`，`Price, Henry Habberley` 补 `H. H. Price`（两行原别名列为“—”，键与译法不动）。
 * 落册：`term_flow` 干跑 53/0，实写 53；`registry_azsort` 人名表 4,615→4,668 守恒；`check_terms` 硬错误 0，缺籍属/生卒告警 746→748（新增行中 Kamm 生年、Stilz 国籍确无公开数据）；`check_all` 17 项全绿。
 * 证据：`results/people-wikidata-2026-11-24-b9.tsv`、补充取证 `results/people-wikidata-2026-11-24-b9-supplement.md`；清单 `tasks/manifests/2026-11-24-058-batch35-people.json`。
+
+## 2026-11-24：人名第十批（新增 20 人）＋15 条语料形别名补记
+
+* 筛法升级：前几批用“首名＋姓氏双 token 含于键”倒序核对，本批改为三重过滤——①键全等；②倒序／合写形展开；③姓氏＋首字母包含；再人工剔除机构（World Bank、Bletchley Park）、书名（Twin Earth、Summulae de Dialectica）、头衔（Pope John、Minister General）、残名（Ibn Abī）与代词短语。
+* 教训（列入开放项）：姓氏比对若不做 Unicode 折叠，`sadra` 永远匹配不到 `ṣadrā`——本批两条（Mullā Ṣadrā、Mīr Dāmād）干跑时被 term_flow 拦下“键已存在”，实为既有行带变音符。故扫描器应先用 NFKD 去变音符再比对，不得只小写化。
+* 新增 20 人：伊斯兰与印度古典侧有法拉比（约872–950，Q160460）、Vācaspati Miśra（约10世纪活动期，Q1292812，无通行汉名保留原名）、寂天（约8世纪活动期，Q445460，取佛教传统译名）；中国侧齐宣王（？–前301，Q580333）；当代哲学侧 John Haugeland（1945–2010）、Uma Narayan、Paul Draper、Stephen Toulmin（1922–2009）、Michael Devitt、Rosalind Hursthouse、James Griffin（1933–2019）、Ruth Chang（生卒未记）、Andy Clark（1957–）、Mark Johnston、Hasok Chang、Delia Graff Fara（1969–2017）、Michael Martin（1932–2015，Wikidata 无人格项，取波士顿大学讣告与英文维基）、Salazar Bondy（1925–1974）；科学史与法政侧 John Nash（1928–2015）、Oliver Wendell Holmes（小霍姆斯，1841–1935）。
+* 三处判定：①Andy Clark 的 Wikidata P27 记美国，据 LCNAF／Who’s Who「born 1957-11-20 in London」从英国并注；②Michael Martin 与已登记 M. G. F. Martin 异人，依据注明；③Adam Elga 无 Wikidata 人格项、普林斯顿官页与 PhilPapers 均抓取失败，本批未收，留待有凭证时补。
+* 别名补记 15 条（键与译法不动）：Gassendi←Pierre Gassendi、Maimonides←Moses Maimonides、Fichte←Johann Gottlieb Fichte、Scanlon, T. M.←Thomas Scanlon、F.A. Hayek←Friedrich Hayek、Mackie, J. L.←John Mackie、Anscombe, Elizabeth←G. E. M. Anscombe、Twain, Mark←Samuel Clemens、Albert the Great←Albertus Magnus、Hempel, Carl G.←Carl Hempel、Wolff, R. P.←Robert Paul Wolff、Strawson, P.F.←Peter Strawson、Lewis, C.I.←C. I. Lewis、Laozi←Lao Dan、van Norden, B.W.←Bryan Van Norden。
+* 落册：`term_flow` 干跑 20/2（两条变音符同名被拦），实写 20；`registry_azsort` 人名表 4,668→4,688 守恒；`check_terms` 硬错误 0，缺项告警 748→749（Ruth Chang 生卒确无公开数据）；`check_all` 17 项全绿。
+* 证据：`results/people-wikidata-2026-11-24-b10.tsv`、`results/people-alias-2026-11-24-b10.tsv`；清单 `tasks/manifests/2026-11-24-058-batch36-people.json`。
