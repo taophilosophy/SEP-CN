@@ -455,40 +455,57 @@ B3.2 的 sha 全等清单即 OAIS fixity 账的实现形态；与 ADR-0076 已�
 
 **教训**：①「为免得残名而丢文字」是保真优先级的倒置——键名是辅助物、文字是本体；②题后散字的判据是「标题后到下一个块级标签之间是否还有非空文字」，边界必须含 `</li>`、`<!--`，否则会把列表内容当散字吞掉；③凡「不入 md 的原文片段」，其内含链接须同步从链接账剔除，两侧账必须成套。
 
+## 10.25 第二十五批：嵌套表与管道格内 raw 表（2026-11-23）
+
+**缺陷链（四处叠加，缺一不可）**：
+1. md 管道格内的 raw `<table>…</table>`（C 的 `_stash_inline_tables` 存 H0 原文）被 `_inline_md_to_html` 入口的文本层转义成文字（`&lt;table`）——B 侧文字流凭空多出 4 KB 标签源码（altruism-empirical 判例）。
+2. 上述转义的正则用非贪婪 `</table>` 取域，遇到内层表即早断，外层表的剩余半截（`&lt;/td&gt;…`）也被当文字（benjamin 判例）。
+3. 账与 build 的表块取域同样非贪婪／首个 `</table>`：嵌套表的外层被记成乱序残形（`[d1,d2]`），渲染侧同样截断，两侧「对称地错」。
+4. `&nbsp;`-only 格在账里记 'd'（内容非空），而 C 落 md 后是空白，R 的 `pool` 只收非空单元格 → 计数不等 → 整表回退。
+
+**修法**：
+- `table_spans`（深度配平；扫前把 HTML 注释**抹白且保偏移**——`<!--pdf include <table …-->` 会把配平栈永久压高，paradox-simpson 的 7 表被误读成顶层 2）与 `stash_nested`，账与 build **共用同一实现**。
+- `render_tables` 改为顶层块迭代：本层行/格解析前先把内层表换占位；账只记顶层表，内层表原样还原（它在 md 里就是 H0 原文，布局差交补丁池）。
+- `_inline_md_to_html` 按 span 暂存 raw 表，还原时走 `_table_restore` 逆 C 的 `_sanitize_table_html`（`&#42;`→`*`、`&#124;`→`|`、`\\<`→`\<`、`src="../assets/<slug>/"`→`src="`、`$…$`→`\(…\)`；`<font>` 剥壳与空白压行不可逆，交补丁池）。
+- `&nbsp;`-only 格记空位 'x'（账与 R 同判据）。
+
+**实测**：18 件（17 嵌套表件＋paradox-simpson）→ **转池 10／失池 0**；B3.1 该子集 **+1（pm-notation）／0 转红**。全量双通道：**pool 1,721→1,731（91.9%）／gap 152→142／stale 0**，池占页 **46.62%**；B3.1 **1,637→1,638**；重建与 judge 两路同值，`scan_vs_head` delta 只有 gap→pool 10。
+
+**教训**：①嵌套结构的「取域」必须深度配平，且账与渲染必须共用同一实现（两处各写一份＝必然分叉）；②HTML 注释里的标签会污染任何基于标签计数的配平栈——凡扫 HTML 结构，先把注释抹白且保偏移；③「非文字字符」（`&nbsp;`）的空位口径必须两侧同判，否则整表回退；④C 消毒过的原文（`_sanitize_table_html`）还原时必须逐步撤销，顺序取消毒的逆序。
+
 ## 11. 现状与下一步（开工卡，2026-11-22）
 
 **验收线现状**（现查口径，勿引快照）：
 
 | 判据 | 现状 | 取数命令 |
 | ---- | ---- | ---- |
-| B3.1 往返不动点 | **1,637/1,873（87.4%）**，第二十一批 +14（sup/sub 实体拼写右逆）；转红 3（W8 键名漂移，定案见下） | `python -B specs/053-en-template-audit/bin/reassemble.py --all --out <json>` |
-| B3.2 页面装配 | **pool 1,721（91.87%）／gap 152／stale 0**，池占页 46.32%（2026-11-23 第二十三/二十四批全量重建＋全量 judge 双通道收官） | `python -B specs/053-en-template-audit/bin/page_assemble.py --all --build` |
+| B3.1 往返不动点 | **1,638/1,873（87.5%）**，第二十一批 +14（sup/sub 实体拼写右逆）、第二十五批 +1（pm-notation）；转红 3（W8 键名漂移，定案见下） | `python -B specs/053-en-template-audit/bin/reassemble.py --all --out <json>` |
+| B3.2 页面装配 | **pool 1,731（92.4%）／gap 142／stale 0**，池占页 46.62%（2026-11-23 第二十五批全量重建＋全量 judge 双通道收官） | `python -B specs/053-en-template-audit/bin/page_assemble.py --all --build` |
 | I2/I3 转换保真 | `--gate` 0 issue（1,873 全过） | `python -B tools/check_yuanwen_fidelity.py --gate` |
 | 全库门禁 | check_all 17 项全绿 | `python -B tools/check_all.py` |
 
-**缺口 152 分族**（`script/tmp/b32_families2.py <scan-json>`；分族普查须在每次转池后重跑）：2026-11-23 第二十三/二十四批收官普查为 **md_extra 110／h0_extra 13／math 11／text 9／star 4／digit 3／entity 2**。已解族：表题 `caption`（第十四批）、书目区无年份散文、书目区取域与注释（第十六批）、致谢区识别（第十七批）、related 前导竖线与希腊公式形（第十八批）、嵌套引块与 layout 陈年（第十九批）、书目散文 `note-<年>` 键（第二十批）、sup/sub 实体拼写与字形（第二十一批）、跨岛实体差（第二十二批）、行内公式 `\$` 双源（第二十三批）、题后散字与裸名条目（第二十四批）。
+**缺口 142 分族**（`script/tmp/b32_families2.py <scan-json>`；分族普查须在每次转池后重跑）：2026-11-23 第二十五批收官普查为 **md_extra 100／h0_extra 13／math 11／text 9／star 4／digit 3／entity 2**。已解族：表题 `caption`（第十四批）、书目区无年份散文、书目区取域与注释（第十六批）、致谢区识别（第十七批）、related 前导竖线与希腊公式形（第十八批）、嵌套引块与 layout 陈年（第十九批）、书目散文 `note-<年>` 键（第二十批）、sup/sub 实体拼写与字形（第二十一批）、跨岛实体差（第二十二批）、行内公式 `\$` 双源（第二十三批）、题后散字与裸名条目（第二十四批）、嵌套表与管道格内 raw 表（第二十五批）。
 
-**md_extra 110 件再分族（批准项①，按 `plain()` 文字流首差内容形态）**：`script/tmp/fam_md_extra2.py`（文字流首差＋H0 标记上下文）与 `classify_diff_content.py`（差异内容形态）两段可复算：
+**md_extra 100 件再分族（批准项①，按 `plain()` 文字流首差内容形态）**：`script/tmp/fam_md_extra2.py`（文字流首差＋H0 标记上下文）与 `classify_diff_content.py`（差异内容形态）两段可复算：
 
 | 子族 | 件数 | 判例与机制 |
 | ---- | ---- | ---- |
-| 数学定界/宏形 | 26 | 细分：宏↔裸 Unicode 字形（`\(\varrho\)` 对 `ϱ`）约 11 件（ergodic-hierarchy／qm-decoherence／logic-paraconsistent／time-travel-phys／type-theory-church／games-abstraction／ramsey／recursive-functions／logic-probability／logic-power-games）；`&nbsp;` 填充（显示式/表前导）约 6 件（category-theory／future-contingents／logic-conditionals／possibilism-actualism／reasoning-automated）；弯引号与 `&prime;` 实体形约 4 件（generalized-quantifiers／logic-higher-order／equivME／intuitionistic-logic-development）；定界符形 1 件（discourse-representation-theory `\[\cb{`） |
+| 数学定界/宏形 | 25 | 细分：宏↔裸 Unicode 字形（`\(\varrho\)` 对 `ϱ`）约 11 件（ergodic-hierarchy／qm-decoherence／logic-paraconsistent／time-travel-phys／type-theory-church／games-abstraction／ramsey／recursive-functions／logic-probability／logic-power-games）；`&nbsp;` 填充（显示式/表前导）约 6 件（category-theory／future-contingents／logic-conditionals／possibilism-actualism／reasoning-automated）；弯引号与 `&prime;` 实体形约 4 件（generalized-quantifiers／logic-higher-order／equivME／intuitionistic-logic-development）；定界符形 1 件（discourse-representation-theory `\[\cb{`） |
 | 脚注引用形 | 12 | 自定义键（`[complex]`／`[supplement-4]`）与就地锚链接（`[13](#qu1)`／`[[2](#Fai)]`）未还原；H0 形为 `[N]`／`note N` |
-| 管道格内 raw 表被转义 | 10 | md `\| <table …> … </table> \| … \|`（外层两列表首格含嵌套表），`_inline_md_to_html` 入口转义把 `<table` 变成文字（altruism-empirical／benjamin 判例） |
-| 空白实体 | 5 | `&nbsp;`/`&thinsp;` 实体形差 |
+| 空白实体 | 6 | `&nbsp;`/`&thinsp;` 实体形差（显示式前导等） |
 | 表管/标记 | 2 | anaphora `(1)` 列表标记丢失；表 `\|\|` 分隔 |
 | 其余 | 55 | 窗口内无显著形态特征（多为书目/区结构错位），待逐件取证 |
 
-- **h0_extra 余件（13）**：余下仍属“H0 事项未入 md／账”；题后散字 3 件与裸名条目已由第二十四批解掉（hobbes-science 转池受阻于折行宽度，非散字问题）。
+- **h0_extra 余件（13）**：余下仍属“H0 事项未入 md／账”。
 - **hobbes-science**：题后散字已入账落位正确，剩余首差为**折行宽度**（`wrap_width` 全局单宽模型与该页 H0 混排宽度不合）。
 
 **B3.1 转红 3 件（W8）——定案：接受残留，不修**。取证：engels 实际漂移 22 条定义（`engels-*→marx-*`）、foucault 1 条（`foucault-2018→cours-2018`）、kant-religion 2 条（`kant-religion-*→kant’s-*`）。根因：R 把全部文献定义放在 References 区**最后一个标题之后**的单 `<ul>` 里，C 的 `build_cite_keys` 按 section 邻接继承姓氏，年份起首条目因而继承前一节末条（Marx）。候选修法成本实测：①年份起首不继承、统一 fallback → 改判 **1,580 条／121 件**键名（含把合法的 `lewis/Church` 类换成 slug 键，且影响译注标记），需全量重转；②同小节换 `<ul>` 重置 prev → 19 件（30 处）现有键被改判；③R 按键姓段切 ul → 账与补丁全量重算。收益 3 件（0.16%）且仅键名标签、定义文字与顺序全等（三件 B3.2 均 pool）。故**不修**，登记为已知残留。
 
 **下一批入口**（按收益排序）：
-1. **管道格内 raw 表（10 件）**：`_td` 对以 `<table` 起、`</table>` 止的格内容原样透传（入口转义前占位），注意 `render_tables` 的正则须按嵌套深度取域，否则外层表在首个 `</table>` 截断。
-2. **脚注引用形（12 件）**：自定义键与就地锚的右逆（`note_forms` 账已有机制，扩到 `[complex]`／`[supplement-N]` 与带锚形）。
-3. **宏 ↔ 裸字形（约 11 件）**：`\(\varrho\)`/`\vartheta`/`\varphi` 与 `ϱ`/`ϑ`/`φ` 的双源，须按 span 或按件记源形（`math_dollars` 的体内指纹式账可复用）。
-4. **折行宽度（wrap_width）**：全局单宽模型对混排宽度的件不成立（hobbes-science 等），须按件记宽度族或按段记宽度。
+1. **脚注引用形（12 件）**：自定义键与就地锚的右逆（`note_forms` 账已有机制，扩到 `[complex]`／`[supplement-N]` 与带锚形）。
+2. **宏 ↔ 裸字形（约 11 件）**：`\(\varrho\)`/`\vartheta`/`\varphi` 与 `ϱ`/`ϑ`/`φ` 的双源，须按 span 或按件记源形（`math_dollars` 的体内指纹式账可复用）。
+3. **折行宽度（wrap_width）**：全局单宽模型对混排宽度的件不成立（hobbes-science 等），须按件记宽度族或按段记宽度。
+4. **`&nbsp;` 填充（约 6 件）**：显示式与表前导的 `&nbsp;` 串，须按 span 记长度（可与 `math_dollars` 同一按位账骨架）。
 
 **流程提醒**：动 C 必全量重转（约 18 分钟）＋B3.1 集合级对照止损；动 R/账只重跑 B3.1（约 10 分钟）＋建池（约 20 分钟）＋judge 复扫（约 25 分钟）；**小改动走定点重建＋judge 拼接**（受影响件集＝账 diff ∪ md 变件 ∪ 结构特征件；`script/tmp/splice_b12.py`）；基线只在收敛后人工更新并提交。
 

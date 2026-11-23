@@ -650,33 +650,84 @@ def extract_bib_seq(art_inner, md):
     return seq, dls
 
 
+TABLE_TAG_RE = re.compile(r"<table\b[^>]*>|</table\s*>", re.I)
+
+
+def table_spans(s):
+    """顶层 `<table>` 块区间 [(起, 止)]（深度配平，含嵌套表只算顶层）。
+
+    扫前先把 HTML 注释**抹白**（等长空格，偏移不变）：SEP 的
+    `<!--pdf include <table …> pdf include-->` 注释里含 `<table` 而无
+    `</table>`，会把配平栈永久压高、把后续同级表误判成嵌套
+    （paradox-simpson：7 表被读成顶层 2）。
+    """
+    view = re.sub(r"<!--.*?-->", lambda m: " " * len(m.group(0)), s, flags=re.S)
+    spans, stack = [], []
+    for m in TABLE_TAG_RE.finditer(view):
+        if m.group(0).startswith("</"):
+            if stack:
+                st = stack.pop()
+                if not stack:
+                    spans.append((st, m.end()))
+        else:
+            stack.append(m.start())
+    for st in stack:  # 未闭合：保守延到串尾
+        spans.append((st, len(s)))
+    return sorted(spans)
+
+
+def stash_nested(inner):
+    """本层内的嵌套表 → 占位（返回 (文本, [内层原文…])，序为文档序）。"""
+    spans = table_spans(inner)
+    store = [inner[st:en] for st, en in spans]
+    out = inner
+    for k in range(len(spans) - 1, -1, -1):
+        st, en = spans[k]
+        out = out[:st] + "\x06T%d\x06" % k + out[en:]
+    return out, store
+
+
 def extract_tables(art_inner):
-    """表格结构账：每表的开标签属性、thead/tbody 有无、逐行逐格位形。
+    """表格结构账：**顶层**表（深度配平，文档序）的开标签属性、thead/tbody、逐行逐格位形。
 
     格位记 [kind, colspan]（kind ∈ h/d/x）——H0 常用 `<td colspan="2">`
     跨列（aristotle-logic 判例），md pipe 表格按**逻辑列**展开，不记
-    colspan 会让整表错位一格。文字不入账。"""
+    colspan 会让整表错位一格。文字不入账。
+
+    嵌套表（`<td>` 内含 `<table>`，altruism-empirical／benjamin 等 17 件）：
+    本层解析先把内层整表换占位，否则非贪婪 `</t[dh]>` 在首个内层收口处截断
+    （旧式把外层记成乱序 `[d1,d2]` 残形）。账**只记顶层表**：内层表在 md 里
+    就是 C 存下的 H0 原文，渲染侧原样发出、布局差由补丁池吸收；若账也记内层，
+    渲染侧序号会与账错位。代价：C 把嵌套**压平**成同级管道表的件
+    （paradox-simpson：H0 顶层 2、装配侧 5）账表数不齐，登记为 C 侧结构缺陷。
+
+    仅 `&nbsp;` 的格记**空位** 'x'：C 落 md 后是空白，而 R 的 `pool` 只收
+    非空单元格——两口径必须一致，否则整表回退、页面留缺口。
+    """
     out = []
-    for m in re.finditer(r"<table([^>]*)>", art_inner):
-        open_tag = m.group(1)
-        end = art_inner.find("</table>", m.end())
-        if end < 0:
+    for st, en in table_spans(art_inner):
+        block = art_inner[st:en]
+        m = re.match(r"<table([^>]*)>", block, re.I)
+        if not m:
             continue
-        seg = art_inner[m.end():end]
-        thead = "<thead>" in seg
-        tbody = "<tbody>" in seg
+        open_tag = m.group(1)
+        inner, _ = stash_nested(block[m.end():])
+        inner = re.sub(r"</table\s*>\s*$", "", inner, flags=re.I)
+        thead = "<thead>" in inner
+        tbody = "<tbody>" in inner
         rows = []
-        for r in re.finditer(r"<tr[^>]*>(.*?)</tr>", seg, re.S):
+        for r in re.finditer(r"<tr[^>]*>(.*?)</tr>", inner, re.S):
             cells = []
             for c in re.finditer("<t([hd])([^>]*)>(.*?)</t[hd]>",
                                  r.group(1), re.S):
                 sm = re.search(r'colspan="(\d+)"', c.group(2))
                 span = int(sm.group(1)) if sm else 1
-                kind = "x" if not c.group(3).strip() else c.group(1)
+                body = re.sub(r"&nbsp;|&#160;|&#xa0;", "", c.group(3))
+                kind = "x" if not body.strip() else c.group(1)
                 cells.append([kind, span])
             rows.append(cells)
         th_rows = 0
-        tm = re.search("<thead>(.*?)</thead>", seg, re.S)
+        tm = re.search("<thead>(.*?)</thead>", inner, re.S)
         if tm:
             th_rows = len(re.findall("<tr", tm.group(1)))
         out.append({"attrs": open_tag, "thead": thead, "tbody": tbody,

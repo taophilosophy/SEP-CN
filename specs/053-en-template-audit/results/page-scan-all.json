@@ -5,12 +5,12 @@
  "total": 1873,
  "counts": {
   "rule": 0,
-  "pool": 1721,
-  "gap": 152,
+  "pool": 1731,
+  "gap": 142,
   "stale": 0
  },
  "page_bytes": 235952045,
- "pool_bytes": 109289406,
+ "pool_bytes": 109992512,
  "entries": [
   {
    "slug": "18thGerman-preKant",
@@ -426,8 +426,8 @@
    "slug": "alberic-paris",
    "page_len": 92231,
    "status": "pool",
-   "n_patches": 131,
-   "pool_bytes": 40736
+   "n_patches": 145,
+   "pool_bytes": 40514
   },
   {
    "slug": "albert-great",
@@ -544,12 +544,9 @@
   {
    "slug": "altruism-empirical",
    "page_len": 125461,
-   "status": "gap",
-   "why": "unaligned text units",
-   "sample": {
-    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
-    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
-   }
+   "status": "pool",
+   "n_patches": 230,
+   "pool_bytes": 55452
   },
   {
    "slug": "alyngton",
@@ -935,8 +932,8 @@
    "slug": "aristotle-logic",
    "page_len": 131708,
    "status": "pool",
-   "n_patches": 486,
-   "pool_bytes": 64295
+   "n_patches": 548,
+   "pool_bytes": 62855
   },
   {
    "slug": "aristotle-mathematics",
@@ -990,8 +987,8 @@
    "slug": "aristotle-rhetoric",
    "page_len": 160596,
    "status": "pool",
-   "n_patches": 231,
-   "pool_bytes": 127253
+   "n_patches": 255,
+   "pool_bytes": 126818
   },
   {
    "slug": "aristotle-text",
@@ -1284,12 +1281,9 @@
   {
    "slug": "benjamin",
    "page_len": 164654,
-   "status": "gap",
-   "why": "unaligned text units",
-   "sample": {
-    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
-    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
-   }
+   "status": "pool",
+   "n_patches": 234,
+   "pool_bytes": 76164
   },
   {
    "slug": "bentham",
@@ -1489,8 +1483,8 @@
    "slug": "boole",
    "page_len": 117632,
    "status": "pool",
-   "n_patches": 450,
-   "pool_bytes": 51960
+   "n_patches": 469,
+   "pool_bytes": 51406
   },
   {
    "slug": "bosanquet",
@@ -1516,8 +1510,8 @@
     "section 7.2"
    ],
    "status": "pool",
-   "n_patches": 294,
-   "pool_bytes": 119280
+   "n_patches": 300,
+   "pool_bytes": 119121
   },
   {
    "slug": "boyle",
@@ -1554,8 +1548,8 @@
    "slug": "branching-time",
    "page_len": 160192,
    "status": "pool",
-   "n_patches": 310,
-   "pool_bytes": 99775
+   "n_patches": 320,
+   "pool_bytes": 99521
   },
   {
    "slug": "brentano",
@@ -1823,8 +1817,8 @@
    "slug": "causation-metaphysics",
    "page_len": 146601,
    "status": "pool",
-   "n_patches": 249,
-   "pool_bytes": 102648
+   "n_patches": 253,
+   "pool_bytes": 102538
   },
   {
    "slug": "causation-physics",
@@ -1864,8 +1858,8 @@
     "(CA2)"
    ],
    "status": "pool",
-   "n_patches": 189,
-   "pool_bytes": 124003
+   "n_patches": 194,
+   "pool_bytes": 123867
   },
   {
    "slug": "certainty",
@@ -1878,8 +1872,8 @@
    "slug": "ceteris-paribus",
    "page_len": 186708,
    "status": "pool",
-   "n_patches": 299,
-   "pool_bytes": 96080
+   "n_patches": 303,
+   "pool_bytes": 96051
   },
   {
    "slug": "chance-randomness",
@@ -2249,8 +2243,8 @@
    "slug": "common-knowledge",
    "page_len": 192908,
    "status": "pool",
-   "n_patches": 401,
-   "pool_bytes": 111617
+   "n_patches": 439,
+   "pool_bytes": 110746
   },
   {
    "slug": "communitarianism",
@@ -2335,8 +2329,8 @@
    "slug": "computational-philosophy",
    "page_len": 203543,
    "status": "pool",
-   "n_patches": 396,
-   "pool_bytes": 106864
+   "n_patches": 409,
+   "pool_bytes": 106641
   },
   {
    "slug": "computer-science",
@@ -2419,8 +2413,8 @@
    "slug": "conditionals",
    "page_len": 159703,
    "status": "pool",
-   "n_patches": 237,
-   "pool_bytes": 44166
+   "n_patches": 251,
+   "pool_bytes": 43772
   },
   {
    "slug": "confirmation",
@@ -2532,12 +2526,9 @@
   {
    "slug": "consciousness-representational",
    "page_len": 143809,
-   "status": "gap",
-   "why": "unaligned text units",
-   "sample": {
-    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
-    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
-   }
+   "status": "pool",
+   "n_patches": 179,
+   "pool_bytes": 33718
   },
   {
    "slug": "consciousness-temporal",
@@ -2571,8 +2562,8 @@
    "slug": "consequentialism-rule",
    "page_len": 131406,
    "status": "pool",
-   "n_patches": 261,
-   "pool_bytes": 33101
+   "n_patches": 285,
+   "pool_bytes": 32703
   },
   {
    "slug": "consequentializing",
@@ -2585,8 +2576,8 @@
    "slug": "conservation-biology",
    "page_len": 149691,
    "status": "pool",
-   "n_patches": 257,
-   "pool_bytes": 52448
+   "n_patches": 260,
+   "pool_bytes": 52374
   },
   {
    "slug": "conservatism",
@@ -2958,8 +2949,8 @@
    "slug": "darwinism",
    "page_len": 127609,
    "status": "pool",
-   "n_patches": 172,
-   "pool_bytes": 68543
+   "n_patches": 177,
+   "pool_bytes": 68422
   },
   {
    "slug": "david",
@@ -3007,22 +2998,22 @@
    "slug": "decision-causal",
    "page_len": 107144,
    "status": "pool",
-   "n_patches": 140,
-   "pool_bytes": 26619
+   "n_patches": 146,
+   "pool_bytes": 26445
   },
   {
    "slug": "decision-theory",
    "page_len": 183488,
    "status": "pool",
-   "n_patches": 350,
-   "pool_bytes": 90567
+   "n_patches": 407,
+   "pool_bytes": 89474
   },
   {
    "slug": "decision-theory-descriptive",
    "page_len": 100368,
    "status": "pool",
-   "n_patches": 213,
-   "pool_bytes": 54370
+   "n_patches": 237,
+   "pool_bytes": 54193
   },
   {
    "slug": "dedekind-foundations",
@@ -3434,8 +3425,8 @@
    "slug": "disjunction",
    "page_len": 134866,
    "status": "pool",
-   "n_patches": 263,
-   "pool_bytes": 94611
+   "n_patches": 268,
+   "pool_bytes": 94517
   },
   {
    "slug": "dispositions",
@@ -3569,8 +3560,8 @@
    "slug": "dutch-book",
    "page_len": 121637,
    "status": "pool",
-   "n_patches": 214,
-   "pool_bytes": 76870
+   "n_patches": 240,
+   "pool_bytes": 76137
   },
   {
    "slug": "dynamic-choice",
@@ -3606,8 +3597,8 @@
    "slug": "early-modern-india",
    "page_len": 186889,
    "status": "pool",
-   "n_patches": 263,
-   "pool_bytes": 123841
+   "n_patches": 264,
+   "pool_bytes": 123773
   },
   {
    "slug": "ecological-genetics",
@@ -3641,8 +3632,8 @@
    "slug": "economics",
    "page_len": 273974,
    "status": "pool",
-   "n_patches": 498,
-   "pool_bytes": 173934
+   "n_patches": 504,
+   "pool_bytes": 173842
   },
   {
    "slug": "economics-early-modern",
@@ -3857,8 +3848,8 @@
    "slug": "epistemic-game",
    "page_len": 272979,
    "status": "pool",
-   "n_patches": 539,
-   "pool_bytes": 172372
+   "n_patches": 438,
+   "pool_bytes": 170414
   },
   {
    "slug": "epistemic-paradoxes",
@@ -3912,8 +3903,8 @@
    "slug": "epistemology-evolutionary",
    "page_len": 68812,
    "status": "pool",
-   "n_patches": 112,
-   "pool_bytes": 25760
+   "n_patches": 159,
+   "pool_bytes": 25350
   },
   {
    "slug": "epistemology-geometry",
@@ -3933,8 +3924,8 @@
    "slug": "epistemology-language-tibetan",
    "page_len": 101102,
    "status": "pool",
-   "n_patches": 147,
-   "pool_bytes": 42115
+   "n_patches": 154,
+   "pool_bytes": 41955
   },
   {
    "slug": "epistemology-latin-america",
@@ -4225,8 +4216,8 @@
    "slug": "evil-kinds-origins",
    "page_len": 97302,
    "status": "pool",
-   "n_patches": 158,
-   "pool_bytes": 45693
+   "n_patches": 166,
+   "pool_bytes": 45475
   },
   {
    "slug": "evolution",
@@ -4333,8 +4324,8 @@
    "slug": "facts",
    "page_len": 144222,
    "status": "pool",
-   "n_patches": 328,
-   "pool_bytes": 63479
+   "n_patches": 353,
+   "pool_bytes": 63152
   },
   {
    "slug": "faith",
@@ -5035,12 +5026,9 @@
   {
    "slug": "future-contingents",
    "page_len": 128082,
-   "status": "gap",
-   "why": "unaligned text units",
-   "sample": {
-    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
-    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
-   }
+   "status": "pool",
+   "n_patches": 343,
+   "pool_bytes": 39875
   },
   {
    "slug": "gadamer",
@@ -5080,8 +5068,8 @@
    "slug": "game-ethics",
    "page_len": 132867,
    "status": "pool",
-   "n_patches": 176,
-   "pool_bytes": 75846
+   "n_patches": 205,
+   "pool_bytes": 75182
   },
   {
    "slug": "game-evolutionary",
@@ -5563,8 +5551,8 @@
    "slug": "hempel",
    "page_len": 142430,
    "status": "pool",
-   "n_patches": 184,
-   "pool_bytes": 47511
+   "n_patches": 189,
+   "pool_bytes": 47379
   },
   {
    "slug": "henricus-regius",
@@ -5839,8 +5827,8 @@
    "slug": "hume-religion",
    "page_len": 162260,
    "status": "pool",
-   "n_patches": 166,
-   "pool_bytes": 69843
+   "n_patches": 171,
+   "pool_bytes": 69808
   },
   {
    "slug": "humor",
@@ -5960,8 +5948,8 @@
    "slug": "ibn-sina-natural",
    "page_len": 122934,
    "status": "pool",
-   "n_patches": 128,
-   "pool_bytes": 70308
+   "n_patches": 130,
+   "pool_bytes": 70237
   },
   {
    "slug": "ibn-taymiyya",
@@ -6044,8 +6032,8 @@
    "slug": "idiolects",
    "page_len": 99329,
    "status": "pool",
-   "n_patches": 144,
-   "pool_bytes": 52947
+   "n_patches": 148,
+   "pool_bytes": 52907
   },
   {
    "slug": "ikhwan-al-safa",
@@ -6200,8 +6188,8 @@
    "slug": "infinity",
    "page_len": 300451,
    "status": "pool",
-   "n_patches": 509,
-   "pool_bytes": 153428
+   "n_patches": 512,
+   "pool_bytes": 153339
   },
   {
    "slug": "information",
@@ -6599,8 +6587,8 @@
    "slug": "jury-theorems",
    "page_len": 133839,
    "status": "pool",
-   "n_patches": 201,
-   "pool_bytes": 60022
+   "n_patches": 206,
+   "pool_bytes": 59916
   },
   {
    "slug": "justep-coherence",
@@ -6711,8 +6699,8 @@
    "slug": "justification-public",
    "page_len": 114274,
    "status": "pool",
-   "n_patches": 148,
-   "pool_bytes": 29208
+   "n_patches": 150,
+   "pool_bytes": 29096
   },
   {
    "slug": "justus-lipsius",
@@ -7452,8 +7440,8 @@
     "\\(s_1\\)"
    ],
    "status": "pool",
-   "n_patches": 359,
-   "pool_bytes": 91463
+   "n_patches": 390,
+   "pool_bytes": 91205
   },
   {
    "slug": "locke",
@@ -7599,8 +7587,8 @@
    "slug": "logic-deontic",
    "page_len": 182918,
    "status": "pool",
-   "n_patches": 377,
-   "pool_bytes": 121742
+   "n_patches": 435,
+   "pool_bytes": 120812
   },
   {
    "slug": "logic-dependence",
@@ -7695,8 +7683,8 @@
    "slug": "logic-india",
    "page_len": 136338,
    "status": "pool",
-   "n_patches": 379,
-   "pool_bytes": 76579
+   "n_patches": 415,
+   "pool_bytes": 76209
   },
   {
    "slug": "logic-inductive",
@@ -7816,8 +7804,8 @@
    "slug": "logic-nonmonotonic",
    "page_len": 162315,
    "status": "pool",
-   "n_patches": 609,
-   "pool_bytes": 148200
+   "n_patches": 615,
+   "pool_bytes": 148093
   },
   {
    "slug": "logic-normative",
@@ -8054,12 +8042,9 @@
   {
    "slug": "lukasiewicz",
    "page_len": 109940,
-   "status": "gap",
-   "why": "unaligned text units",
-   "sample": {
-    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
-    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
-   }
+   "status": "pool",
+   "n_patches": 190,
+   "pool_bytes": 41360
   },
   {
    "slug": "luther",
@@ -8177,8 +8162,8 @@
    "slug": "mally-deontic",
    "page_len": 84682,
    "status": "pool",
-   "n_patches": 457,
-   "pool_bytes": 44828
+   "n_patches": 492,
+   "pool_bytes": 44318
   },
   {
    "slug": "mandeville",
@@ -8465,12 +8450,9 @@
   {
    "slug": "medieval-syllogism",
    "page_len": 128107,
-   "status": "gap",
-   "why": "unaligned text units",
-   "sample": {
-    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
-    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
-   }
+   "status": "pool",
+   "n_patches": 262,
+   "pool_bytes": 64623
   },
   {
    "slug": "medieval-terms",
@@ -8600,8 +8582,8 @@
    "slug": "metaepistemology",
    "page_len": 122878,
    "status": "pool",
-   "n_patches": 199,
-   "pool_bytes": 62072
+   "n_patches": 202,
+   "pool_bytes": 61958
   },
   {
    "slug": "metaethics",
@@ -9439,12 +9421,9 @@
   {
    "slug": "nonwellfounded-set-theory",
    "page_len": 161559,
-   "status": "gap",
-   "why": "unaligned text units",
-   "sample": {
-    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
-    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
-   }
+   "status": "pool",
+   "n_patches": 192,
+   "pool_bytes": 169833
   },
   {
    "slug": "normativity-metaethics",
@@ -9705,8 +9684,8 @@
    "slug": "paradox-simpson",
    "page_len": 134712,
    "status": "pool",
-   "n_patches": 284,
-   "pool_bytes": 80430
+   "n_patches": 309,
+   "pool_bytes": 80066
   },
   {
    "slug": "paradox-skolem",
@@ -9736,8 +9715,8 @@
    "slug": "paradox-zeno",
    "page_len": 97048,
    "status": "pool",
-   "n_patches": 98,
-   "pool_bytes": 40529
+   "n_patches": 102,
+   "pool_bytes": 40413
   },
   {
    "slug": "paradoxes-contemporary-logic",
@@ -9771,8 +9750,8 @@
    "slug": "pascal-wager",
    "page_len": 91566,
    "status": "pool",
-   "n_patches": 171,
-   "pool_bytes": 50982
+   "n_patches": 186,
+   "pool_bytes": 50412
   },
   {
    "slug": "paternalism",
@@ -10580,15 +10559,15 @@
    "slug": "prioritarianism",
    "page_len": 157511,
    "status": "pool",
-   "n_patches": 332,
-   "pool_bytes": 52964
+   "n_patches": 373,
+   "pool_bytes": 51665
   },
   {
    "slug": "prisoner-dilemma",
    "page_len": 259764,
    "status": "pool",
-   "n_patches": 385,
-   "pool_bytes": 158606
+   "n_patches": 407,
+   "pool_bytes": 157754
   },
   {
    "slug": "privacy",
@@ -10696,12 +10675,9 @@
   {
    "slug": "proof-theory-development",
    "page_len": 80970,
-   "status": "gap",
-   "why": "unaligned text units",
-   "sample": {
-    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
-    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
-   }
+   "status": "pool",
+   "n_patches": 140,
+   "pool_bytes": 66326
   },
   {
    "slug": "prop-attitude-reports",
@@ -10888,12 +10864,9 @@
   {
    "slug": "pythagoras",
    "page_len": 142616,
-   "status": "gap",
-   "why": "unaligned text units",
-   "sample": {
-    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
-    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
-   }
+   "status": "pool",
+   "n_patches": 144,
+   "pool_bytes": 115346
   },
   {
    "slug": "pythagoreanism",
@@ -11260,8 +11233,8 @@
    "slug": "real-essence",
    "page_len": 104470,
    "status": "pool",
-   "n_patches": 158,
-   "pool_bytes": 39988
+   "n_patches": 163,
+   "pool_bytes": 39782
   },
   {
    "slug": "realism",
@@ -11302,8 +11275,8 @@
    "slug": "reasoning-analogy",
    "page_len": 159784,
    "status": "pool",
-   "n_patches": 293,
-   "pool_bytes": 85640
+   "n_patches": 303,
+   "pool_bytes": 85498
   },
   {
    "slug": "reasoning-automated",
@@ -12434,8 +12407,8 @@
    "slug": "social-choice",
    "page_len": 191810,
    "status": "pool",
-   "n_patches": 510,
-   "pool_bytes": 74943
+   "n_patches": 540,
+   "pool_bytes": 74063
   },
   {
    "slug": "social-construction-naturalistic",
@@ -13340,8 +13313,8 @@
    "slug": "truth-revision",
    "page_len": 117564,
    "status": "pool",
-   "n_patches": 607,
-   "pool_bytes": 54498
+   "n_patches": 614,
+   "pool_bytes": 54349
   },
   {
    "slug": "truth-values",
@@ -13354,8 +13327,8 @@
    "slug": "truthlikeness",
    "page_len": 144427,
    "status": "pool",
-   "n_patches": 409,
-   "pool_bytes": 64221
+   "n_patches": 417,
+   "pool_bytes": 64029
   },
   {
    "slug": "truthmakers",
@@ -13382,8 +13355,8 @@
    "slug": "turing-machine",
    "page_len": 140609,
    "status": "pool",
-   "n_patches": 291,
-   "pool_bytes": 74164
+   "n_patches": 308,
+   "pool_bytes": 73859
   },
   {
    "slug": "turing-test",
@@ -13403,8 +13376,8 @@
    "slug": "two-dimensional-semantics",
    "page_len": 167531,
    "status": "pool",
-   "n_patches": 304,
-   "pool_bytes": 84038
+   "n_patches": 329,
+   "pool_bytes": 83867
   },
   {
    "slug": "twotruths-india",
@@ -13786,8 +13759,8 @@
    "slug": "wittgenstein",
    "page_len": 131477,
    "status": "pool",
-   "n_patches": 191,
-   "pool_bytes": 70557
+   "n_patches": 202,
+   "pool_bytes": 70460
   },
   {
    "slug": "wittgenstein-aesthetics",
@@ -13914,12 +13887,9 @@
   {
    "slug": "zeno-elea",
    "page_len": 92012,
-   "status": "gap",
-   "why": "unaligned text units",
-   "sample": {
-    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
-    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
-   }
+   "status": "pool",
+   "n_patches": 125,
+   "pool_bytes": 60214
   },
   {
    "slug": "zermelo-set-theory",

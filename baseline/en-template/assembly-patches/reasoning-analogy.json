@@ -5,8 +5,8 @@
  "note": "格式层残差补丁：m=标记段、u=单元布局、r=纯布局区段；禁含散文",
  "stats": {
   "page_bytes": 158041,
-  "pool_bytes": 85640,
-  "n_patches": 293
+  "pool_bytes": 85498,
+  "n_patches": 303
  },
  "patches": [
   {
@@ -14812,96 +14812,45 @@
   },
   {
    "r": 25638,
-   "len": 11,
-   "sha": "25f8ef8f6bb17aed",
-   "after": "<div class=\"figure avoid-break\">\n\n<table class=\"normalth\" style=\"border-spacing:5pt 2pt; line-height:100%\">\n<tbody>\n<tr>\n"
+   "len": 0,
+   "sha": "da39a3ee5e6b4b0d",
+   "after": "<div class=\"figure avoid-break\">\n\n"
   },
   {
-   "u": 25653,
-   "len": 40,
-   "sha": "0bd02e112e2e2394",
-   "items": [
-    [
-     "mk",
-     "&nbsp;"
-    ],
-    [
-     "mk",
-     "</td>"
-    ],
-    [
-     "mk",
-     "\n"
-    ],
-    [
-     "mk",
-     "<th scope=\"col\">"
-    ],
-    [
-     "tx",
-     0,
-     5
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     5,
-     7
-    ],
-    [
-     "mk",
-     "</th>"
-    ],
-    [
-     "mk",
-     "\n"
-    ],
-    [
-     "mk",
-     "<td>"
-    ],
-    [
-     "mk",
-     "&nbsp;"
-    ],
-    [
-     "mk",
-     "</td>"
-    ],
-    [
-     "mk",
-     "\n"
-    ],
-    [
-     "mk",
-     "<th scope=\"col\">"
-    ]
-   ]
+   "r": 25712,
+   "len": 4,
+   "sha": "a845c297571480ce",
+   "after": "<tbody>\n<tr>\n"
   },
   {
-   "u": 25705,
-   "len": 82,
-   "sha": "2108ba06008585a1",
+   "r": 25720,
+   "len": 9,
+   "sha": "31d88ebcf4d0ba9f",
+   "after": "&nbsp;</td>\n<th scope=\"col\">"
+  },
+  {
+   "r": 25742,
+   "len": 5,
+   "sha": "c828a50acf2abdbf",
+   "after": "</th>\n"
+  },
+  {
+   "r": 25751,
+   "len": 9,
+   "sha": "31d88ebcf4d0ba9f",
+   "after": "&nbsp;</td>\n<th scope=\"col\">"
+  },
+  {
+   "r": 25772,
+   "len": 5,
+   "sha": "c828a50acf2abdbf",
+   "after": "</th> "
+  },
+  {
+   "u": 25783,
+   "len": 84,
+   "sha": "c7d40b39ee72786a",
    "items": [
-    [
-     "mk",
-     "</th>"
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "mk",
-     "</tr>"
-    ],
-    [
-     "mk",
-     "\n"
-    ],
     [
      "mk",
      "<tr>"
@@ -14951,15 +14900,21 @@
    ]
   },
   {
-   "r": 25806,
-   "len": 32,
-   "sha": "433ed0ed14515fa6",
-   "after": "</th>\n</tr>\n<tr>\n  "
+   "r": 25886,
+   "len": 5,
+   "sha": "c828a50acf2abdbf",
+   "after": "</th>\n"
   },
   {
-   "u": 25856,
+   "r": 25897,
+   "len": 4,
+   "sha": "a845c297571480ce",
+   "after": "<tr>\n  "
+  },
+  {
+   "u": 25919,
    "len": 54,
-   "sha": "b469b3bee7d19ddb",
+   "sha": "f65d6bb6b28acba8",
    "items": [
     [
      "mk",
@@ -14998,70 +14953,100 @@
    ]
   },
   {
-   "r": 25928,
-   "len": 23,
-   "sha": "88dd5748e29ad9ca",
-   "after": "</td> </tr>\n<tr>\n  "
+   "r": 25991,
+   "len": 5,
+   "sha": "6ff2f48c157b7468",
+   "after": "</td> "
   },
   {
-   "r": 25965,
+   "r": 26002,
+   "len": 4,
+   "sha": "a845c297571480ce",
+   "after": "<tr>\n  "
+  },
+  {
+   "r": 26020,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 25983,
-   "len": 32,
-   "sha": "433ed0ed14515fa6",
-   "after": "</td> </tr>\n<tr>\n  "
+   "r": 26038,
+   "len": 5,
+   "sha": "6ff2f48c157b7468",
+   "after": "</td> "
   },
   {
-   "r": 26035,
+   "r": 26049,
+   "len": 4,
+   "sha": "a845c297571480ce",
+   "after": "<tr>\n  "
+  },
+  {
+   "r": 26073,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 26060,
-   "len": 32,
-   "sha": "433ed0ed14515fa6",
-   "after": "</td> </tr>\n<tr>\n  "
+   "r": 26098,
+   "len": 5,
+   "sha": "6ff2f48c157b7468",
+   "after": "</td> "
   },
   {
-   "r": 26114,
+   "r": 26109,
+   "len": 4,
+   "sha": "a845c297571480ce",
+   "after": "<tr>\n  "
+  },
+  {
+   "r": 26135,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 26141,
-   "len": 36,
-   "sha": "716fbb30102c49f3",
-   "after": "</td> </tr>\n<tr>\n<th scope=\"col\" colspan=\"3\" style=\"text-align: center;\">"
+   "r": 26162,
+   "len": 5,
+   "sha": "6ff2f48c157b7468",
+   "after": "</td> "
   },
   {
-   "r": 26197,
-   "len": 50,
-   "sha": "b4f54fccb75a3884",
-   "after": "</th>\n</tr>\n<tr>\n<th>&nbsp;</th>\n  "
+   "r": 26173,
+   "len": 20,
+   "sha": "6327187149dc8430",
+   "after": "<tr>\n<th scope=\"col\" colspan=\"3\" style=\"text-align: center;\">"
   },
   {
-   "r": 26264,
+   "r": 26213,
+   "len": 5,
+   "sha": "c828a50acf2abdbf",
+   "after": "</th>\n"
+  },
+  {
+   "r": 26224,
+   "len": 13,
+   "sha": "63ea83269facda84",
+   "after": "<tr>\n<th>&nbsp;</th>\n  "
+  },
+  {
+   "r": 26254,
    "len": 9,
    "sha": "ae49d944508ada85",
    "after": "</td>\n  <td style=\"text-align:center\">"
   },
   {
-   "r": 26288,
+   "r": 26278,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 26322,
-   "len": 10,
-   "sha": "584b34abd1c665e4",
-   "after": "</td> </tr> </tbody>\n"
+   "r": 26312,
+   "len": 11,
+   "sha": "6703e39657e18300",
+   "after": "</td> </tr> "
   },
   {
    "u": 26342,

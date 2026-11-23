@@ -10,7 +10,17 @@
 
 产出：文章内层 HTML（含 `#aueditable` 包装与 BEGIN/END 标记之外的部分）。
 """
+import os
 import re
+import sys
+
+# `-I` 模式不带脚本目录：显式补上，供同目录模块互引
+_HERE = os.path.dirname(os.path.abspath(__file__))
+if _HERE not in sys.path:
+    sys.path.insert(0, _HERE)
+
+# 表块扫描／嵌套表暂存与账侧同一实现（「账与 R 必须同语料」）
+from article_ledger import stash_nested, table_spans  # noqa: E402
 
 PREFIX = '\n\n\n<div id="aueditable"><!--DO NOT MODIFY THIS LINE AND ABOVE-->\n\n'
 SUFFIX = ('</div><!-- #aueditable --><!--DO NOT MODIFY THIS LINE AND BELOW-->\n\n')
@@ -181,21 +191,26 @@ def render_tables(html, ledger):
         return html
     idx = [0]
 
-    def rep(m):
-        if idx[0] >= len(tbls):
-            return m.group(0)
+    def render_block(block):
+        """一个**顶层**表块 → 按账重建；内层表原样还原（账只记顶层）。"""
+        m = re.match(r"<table([^>]*)>", block, re.I)
+        if not m or idx[0] >= len(tbls):
+            return block
         spec = tbls[idx[0]]
         idx[0] += 1
+        # 内层表先占位：行/格解析只看本层（非贪婪 `</td>` 不会在内层收口处截断）
+        inner, tstore = stash_nested(block[m.end():])
+        inner = re.sub(r"</table\s*>\s*$", "", inner, flags=re.I)
         # 题注：账只记位形，题注文字在 R 侧块里（md `***Table 1***` 紧贴表格
         # → R 发 <caption>）——重建时原样带回，否则表题整块丢失
         # （bayes-theorem 判例：A 侧表从 Ratio/Difference 起，无 Table 1）
         cap = ""
-        cm = re.search(r"<caption[^>]*>.*?</caption>", m.group(1), re.S)
+        cm = re.search(r"<caption[^>]*>.*?</caption>", inner, re.S)
         if cm:
             cap = cm.group(0)
         rrows = [[c.group(1) for c in re.finditer(
             "<t[hd][^>]*>(.*?)</t[hd]>", r.group(1), re.S)]
-            for r in re.finditer(r"<tr[^>]*>(.*?)</tr>", m.group(1), re.S)]
+            for r in re.finditer(r"<tr[^>]*>(.*?)</tr>", inner, re.S)]
         out = ["<table%s>\n" % spec.get("attrs", "")]
         if cap:
             out.append(cap + "\n")
@@ -213,7 +228,7 @@ def render_tables(html, ledger):
                          if (c if isinstance(c, str) else c[0]) != "x")
             if len(pool) != n_nonx:
                 # 分配不成立（rowspan 缩并等）：原样交回，让池判 gap
-                return m.group(0)
+                return block
             pi = 0
             cs = []
             for cell in row:
@@ -235,9 +250,21 @@ def render_tables(html, ledger):
         if spec.get("tbody"):
             out.append("</tbody>\n")
         out.append("</table>")
-        return "".join(out)
+        res = "".join(out)
+        for k, blk in enumerate(tstore):
+            res = res.replace("\x06T%d\x06" % k, blk)
+        return res
 
-    return re.sub("<table[^>]*>(.*?)</table>", rep, html, flags=re.S)
+    spans = table_spans(html)
+    if not spans:
+        return html
+    pieces, prev = [], 0
+    for st, en in spans:
+        pieces.append(html[prev:st])
+        pieces.append(render_block(html[st:en]))
+        prev = en
+    pieces.append(html[prev:])
+    return "".join(pieces)
 
 
 def build(md_article_html, ledger):

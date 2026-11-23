@@ -40,8 +40,10 @@ ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.dirname(
     os.path.abspath(__file__)))))
 sys.path.insert(0, ROOT)
 sys.path.insert(0, os.path.join(ROOT, "tools"))
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))  # -I 模式不带脚本目录
 
 from tools import parser, yuanwen  # noqa: E402
+from article_ledger import table_spans  # noqa: E402  （表块扫描与账同一实现）
 from tools.common import repo_path, read_text  # noqa: E402
 
 if (sys.stdout.encoding or "").lower().replace("-", "") != "utf8":
@@ -419,7 +421,26 @@ def _scan_stash_math(s, stash):
 def _inline_md_to_html(text):
     """md 行内 → 行内 HTML（inline_to_md 的右逆；只覆盖 C 像内出现的形）。"""
     s = text
-    # 文本层转义：C 在输出端 unescape，R 必须先把字面 & < > 编码回实体——
+    # 嵌套表原样透传：md 管道格内可含 C 存的 raw `<table>…</table>`
+    # （altruism-empirical／benjamin 等，C 的行内表暂存把内层表整段塞进格）。
+    # 结构由 render_tables 按账**递归**重建，此处只护住不被文本层转义成
+    # `&lt;table`（旧式：整段变文字，B 侧文字流多出 4 KB 标签源码）。
+    tbl_store = []
+
+    def _stash_tbls(text):
+        """按**深度配平**取顶层表区间占位：非贪婪正则会在内层 `</table>` 早断
+        （benjamin 判例：外层表剩半截被转义成 `&lt;/td&gt;…`）。"""
+        spans = table_spans(text)
+        if not spans:
+            return text
+        base = len(tbl_store)
+        tbl_store.extend(text[st:en] for st, en in spans)
+        for k in range(len(spans) - 1, -1, -1):
+            st, en = spans[k]
+            text = text[:st] + "\x07T%d\x07" % (base + k) + text[en:]
+        return text
+
+    s = _stash_tbls(s)    # 文本层转义：C 在输出端 unescape，R 必须先把字面 & < > 编码回实体——
     # 否则 md 里的 <URL> 尖括号在装配 HTML 中被当标签吃掉（bayes-theorem 判例）
     s = s.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
     # 字面转义星（\*）占位保护——必须在强调解析前隔离，否则 *H\** 会被
@@ -573,6 +594,9 @@ def _inline_md_to_html(text):
     # 行首列表标记形还原（`\+ `/`\- ` → 裸 `+ `/`- `）
     s = s.replace("\x19", "+")
     s = s.replace("\x1a", "-")
+    # 嵌套表还原（结构重建在 render_tables 层；此处先撤销 C 的消毒）
+    for idx, tag in enumerate(tbl_store):
+        s = s.replace("\x07T%d\x07" % idx, _table_restore(tag))
     # 图片占位还原（alt 内已有文本层转义，不再加工）
     for idx, tag in enumerate(img_store):
         s = s.replace("\x03%d\x03" % idx, tag)
@@ -580,6 +604,44 @@ def _inline_md_to_html(text):
     for idx, tag in enumerate(code_store):
         s = s.replace("\x11%d\x11" % idx, tag)
     return s
+
+
+def _unstash_math_tbl(t):
+    """嵌套表内 `$…$`／`$$…$$` → `\\(…\\)`／`\\[…\\]`（C 消毒的逆）。"""
+    out, i, n = [], 0, len(t)
+    while i < n:
+        if t[i] == "\\" and i + 1 < n:
+            out.append(t[i:i + 2])
+            i += 2
+            continue
+        if t.startswith("$$", i):
+            j = _display_end(t, i + 2)
+            if j >= 0:
+                out.append("\\[" + t[i + 2:j] + "\\]")
+                i = j + 2
+                continue
+        elif t[i] == "$":
+            j = _inline_end(t, i + 1)
+            if j >= 0:
+                out.append("\\(" + t[i + 1:j] + "\\)")
+                i = j + 1
+                continue
+        out.append(t[i])
+        i += 1
+    return "".join(out)
+
+
+def _table_restore(tag):
+    """C 的 `_sanitize_table_html` 逆变换（嵌套表原样还原时必须逐步撤销）。
+
+    顺序取消毒的逆序：`&#42;`→`*`、`\\\\<`→`\\<`、`&#124;`→`|`、
+    `src="../assets/<slug>/"`→`src="`、`$…$`→`\\(…\\)`。`<font>` 剥壳与
+    空白压行不可逆（前者交补丁池、后者只是排版差）。"""
+    tag = tag.replace("&#42;", "*")
+    tag = re.sub(r"\\\\(?=<)", r"\\", tag)
+    tag = tag.replace("&#124;", "|")
+    tag = re.sub(r'(<img\b[^>]*\ssrc=")\.\./assets/[a-z0-9-]+/', r"\1", tag, flags=re.I)
+    return _unstash_math_tbl(tag)
 
 
 def link_misses():
