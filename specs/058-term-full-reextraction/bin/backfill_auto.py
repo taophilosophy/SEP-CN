@@ -35,8 +35,8 @@ CTX = ssl.create_default_context()
 CTX.check_hostname = False
 CTX.verify_mode = ssl.CERT_NONE
 OP = urllib.request.build_opener(
-    urllib.request.ProxyHandler({'http': 'http://192.168.5.4:7890',
-                                 'https': 'http://192.168.5.4:7890'}),
+    urllib.request.ProxyHandler({'http': 'http://127.0.0.1:7890',
+                                 'https': 'http://127.0.0.1:7890'}),
     urllib.request.HTTPSHandler(context=CTX))
 
 ACADEMIC = ('philosoph', 'logician', 'ethicist', 'mathematician', 'historian',
@@ -94,12 +94,12 @@ def get(url):
         try:
             req = urllib.request.Request(
                 url, headers={'User-Agent': 'SEP-CN-research/1.0'})
-            with OP.open(req, timeout=30) as r:
+            with OP.open(req, timeout=12) as r:
                 return json.loads(r.read().decode('utf-8'))
         except Exception:
-            if k == 4:
+            if k == 2:
                 return None
-            time.sleep(6 * (k + 1))
+            time.sleep(4 * (k + 1))
 
 
 def search(name):
@@ -160,7 +160,12 @@ def main():
     # 检索撞名/身份存疑：本批人工排除（详见 execution-log）
     EXCLUDE = {'Charles Mills', 'Audrey', 'Batterman, Robert',
                'Brock, Gillian', 'Epiphanius', 'della Valle, Paolo',
-               'Balog, Katalin'}
+               'Balog, Katalin',
+               # 第二批逐条人工复核后的撞名/身份不符（详见 execution-log）
+               'Gerbrandy, Jelle', 'Grant, Robert', 'Green, Adam',
+               'Hanson, William', 'Hill, Thomas', 'Hippo', 'Homer',
+               'Howard', 'Hyland, Martin', 'Iris', 'John Pollock',
+               'Jonah', 'Klein, Peter', 'Ladner, Richard E.'}
     entries = []
     with io.open(MISSING, encoding='utf-8') as f:
         for line in f:
@@ -199,7 +204,7 @@ def main():
             disp = '%s %s' % (first, last)
         else:
             disp = toks
-        time.sleep(4)
+        time.sleep(2)
         res = search(disp)
         cands = []
         for it in res:
@@ -213,7 +218,7 @@ def main():
             out_rows.append('%s\t\t\t%s\t\t\t%s' % (key, miss, why))
             continue
         qid, desc = cands[0]
-        time.sleep(3)
+        time.sleep(1)
         cl = claims(qid)
         affs = []
         for c in cl.get('P27', []):

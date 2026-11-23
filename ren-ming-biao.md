@@ -1480,7 +1480,7 @@
 | Gadamer, Hans-Georg / Hans-Georg Gadamer | — | 汉斯-格奥尔格·伽达默尔 | 德国 | 1900–2002 | davidson；gadamer-aesthetics | 学界千年通行汉译（《真理与方法》作者）；凭证 2026-11-10；2026-11-13 重复行合并（旧键 `Hans-Georg Gadamer`） | 2026-11-13 |
 | Gage, Phineas | — | 菲尼亚斯·盖奇 | 美国 | 1823–1860 | experimental-aesthetics | 学界通行（神经科学经典案例人物，“盖奇效应”得名者） | 2026-11-09 |
 | Gale, David | — | 戴维·盖尔 | 美国 | 1921–2008 | social-procedures | 学界通行汉译（稳定匹配与 Gale-Shapley 算法）；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 119092425（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
-| Gale, George | — | 乔治·盖尔 | — | 1943– | cosmology-30s | 学界惯例音译（本词条作者）；凭证 2026-11-08；籍属/生卒联网查证：Wikidata Q133521156（2026-11-20 查，凭证 verify-2026-11-20-people.tsv）；籍属/生卒联网佐证：GND 标目 151116520（Gale, George）（2026-11-22 查，凭证 gnd-verdict-2026-11-22.tsv） | 2026-11-22 |
+| Gale, George | — | 乔治·盖尔 | — | 1943– | cosmology-30s | 学界惯例音译（本词条作者）；凭证 2026-11-08；籍属/生卒联网查证：Wikidata Q133521156（2026-11-20 查，凭证 verify-2026-11-20-people.tsv）；籍属/生卒联网佐证：GND 标目 151116520（Gale, George）（2026-11-22 查，凭证 gnd-verdict-2026-11-22.tsv）；籍属/生卒联网查证：Wikidata Q133521156（2026-11-23 查，凭证 backfill-auto-2026-11-23.tsv） | 2026-11-22 |
 | Gale, Richard | — | 理查德·盖尔 | 美国 | 1932– | omniscience | 学界通行音译（知识论/宗教哲学；与 George Gale 异人）；凭证 2026-11-09 | 2026-11-09 |
 | Galeano, Moses | — | 摩西·加莱亚诺 | 犹太散居（伊斯兰世界—意大利） | 15–16 世纪 | copernicus | 音译定名（犹太旅人学者，科学中介说人物）；凭证 2026-11-13 | 2026-11-13 |
 | Galen | — | 盖伦 | 古希腊 | 129–216 | alcmaeon | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核在案（同名噪声/辅助档差异，保留现译 2026-10-29）；籍属/生卒联网查证：Wikidata Q8778（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
@@ -1623,7 +1623,7 @@
 | Goodin, Robert | — | Robert E. Goodin | 澳大利亚／英国 | 1950– | jury-theorems | 现代学者无通行汉名，保留英文（ADR-0022）；籍属/生卒联网查证：GND 规范标目 gnd 123928958（2026-11-14 查，凭证 verify-2026-11-14-gnd-j.tsv）；籍属/生卒联网查证：SEP 原文 en/collective-responsibility:2080（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Goodman, Nelson | — | 纳尔逊·古德曼 | 美国 | 1906–1998 | langer | 学界通行汉译（分析美学）；凭证 2026-11-08；籍属/生卒联网查证：GND 规范标目 gnd 118696432（2026-11-14 查，凭证 verify-2026-11-14-gnd-j.tsv） | 2026-11-14 |
 | Goodrum, Abby | — | 艾比·古德鲁姆 | 美国 | — | it-moral-values | 学界通行音译（网络伦理）；凭证 2026-11-10 | 2026-11-10 |
-| Gopal Sreenivasan | — | 戈帕尔·斯里尼瓦桑 | — | — | justice-healthcareaccess | 学界惯例（生物伦理通行译法） | 2026-11-02 |
+| Gopal Sreenivasan | — | 戈帕尔·斯里尼瓦桑 | 加拿大 | — | justice-healthcareaccess | 学界惯例（生物伦理通行译法）；籍属/生卒联网查证：Wikidata Q108581195（2026-11-23 查，凭证 backfill-auto-2026-11-23.tsv） | 2026-11-02 |
 | Gopnik, Alison | — | 艾莉森·戈普尼克 | 美国 | 1955– | innateness-cognition | 音译（理论论）；凭证 2026-11-12 | 2026-11-12 |
 | Gorampa | — | 果让巴 | 西藏／萨迦派 | 1429–1489 | gorampa | 同上人之简称；SUMMARY 定名沿用；籍属/生卒联网查证：Wikidata Q1537816（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Gordon, Pamela | — | 帕梅拉·戈登 | 美国 | 1957– | epicurus | 音译（《吕基亚的伊壁鸠鲁》作者）；籍属/生卒联网查证：GND 规范标目 gnd 1023645440（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
@@ -1898,7 +1898,7 @@
 | Hipparchus（毕达哥拉斯派） | Ἵππαρχος | 希帕尔科斯 | 古希腊／毕达哥拉斯派 | 约前 4 世纪 | bessarion | 本词条首译（吕西斯书信受信人；与天文学家希帕恰斯 Hipparchus of Nicaea 异人分立）；凭证 2026-11-12 | 2026-11-12 |
 | Hippias | — | 希庇亚斯 | 古希腊（埃利斯） | 约前460–前400 | cosmopolitanism | 学界通行汉译（智者派）；凭证 2026-11-09；籍属/生卒联网查证：Wikidata Q210573（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Hippo | — | 希波 | — | — | bayle | 学界通行音译（据培尔记载的古代无神论者之一） | 2026-11-08 |
-| Hippobotus | — | 希波博图斯 | — | — | dialectical-school | 学界通行汉译（较早的学派史家，不认辩证派为独立宗派）；凭证 2026-11-07 | 2026-11-07 |
+| Hippobotus | — | 希波博图斯 | 希腊 | — | dialectical-school | 学界通行汉译（较早的学派史家，不认辩证派为独立宗派）；凭证 2026-11-07；籍属/生卒联网查证：Wikidata Q2614752（2026-11-23 查，凭证 backfill-auto-2026-11-23.tsv） | 2026-11-07 |
 | Hippocrates | — | 希波克拉底 | 古希腊 | 约前460–前370 | simon-faversham | 古典通行汉译（希波克拉底医学四体液说）；凭证 2026-11-08；籍属/生卒联网查证：Wikidata Q5264（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Hirao Rosen | — | 平尾鲁仙 | 日本 | 1808–1880 | kokugaku-school | 日本人名汉字原样；凭证 2026-11-04；籍属/生卒联网查证：Wikidata Q133846647（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Hirata Atsutane | — | 平田笃胤 | 日本 | 1776–1843 | kokugaku-school | 日本人名汉字原样；凭证 2026-11-04；籍属/生卒联网查证：GND 规范标目 gnd 11909617X（2026-11-14 查，凭证 verify-2026-11-14-gnd-k.tsv） | 2026-11-14 |
@@ -2365,7 +2365,7 @@
 | Kokoszyńska, Maria | — | Maria Kokoszyńska | 波兰 | 1905–1981 | lvov-warsaw | 无通行汉名，保留英文原名；凭证 2026-11-09；籍属/生卒联网查证：GND 规范标目 gnd 1314965492（2026-11-14 查，凭证 verify-2026-11-14-gnd-n.tsv） | 2026-11-14 |
 | Kolb, Brendan | — | 布伦丹·科尔布 | — | — | evil-kinds-origins | 音译（本词条致谢） | 2026-11-12 |
 | Kolmogorov, Andrey | — | 安德烈·柯尔莫哥洛夫 | 苏联 | 1903–1987 | intuitionism | 学界通行汉译（BHK 解释）；凭证 2026-11-10 | 2026-11-10 |
-| Kolodny, Niko | — | 尼科·科洛德尼 | — | — | intention | 音译（理性与意图）；凭证 2026-11-12 | 2026-11-12 |
+| Kolodny, Niko | — | 尼科·科洛德尼 | 美国 | — | intention | 音译（理性与意图）；凭证 2026-11-12；籍属/生卒联网查证：Wikidata Q16403824（2026-11-23 查，凭证 backfill-auto-2026-11-23.tsv） | 2026-11-12 |
 | Komnene, Anna | — | 安娜·科穆宁娜 | 拜占庭 | 1899–1990 | john-italos | 学界通行汉译（《阿莱克修斯传》作者）；凭证 2026-11-06；籍属/生卒联网查证：GND 规范标目 gnd 1064558208（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv）；籍属/生卒联网查证：SEP 原文 en/byzantine-philosophy:330（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Konieczny, Sébastien | — | Sébastien Konieczny（现代学者，保留英文） | 法国 | 1974– | belief-merging | ADR-0022：无通行汉名者保留英文（IC 合并框架提出者之一，与 Pino Pérez 合作）；凭证 2026-11-13；籍属/生卒联网查证：Wikidata Q102427864（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Konstan, David | — | 戴维·康斯坦 | 美国 | 1940–2024 | epicurus | 学界通行（本词条作者，古代哲学与情感研究）；籍属/生卒联网查证：GND 规范标目 gnd 132072300（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
@@ -2626,7 +2626,7 @@
 | Lord Kames | — | 凯姆斯勋爵 | 英国 | 1696–1782 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31）；籍属/生卒联网查证：GND 规范标目 gnd 118774832（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Lorde, Audre | — | 奥德丽·洛德 | 美国 | 1934–1992 | erotic-art | 学界通行（美国诗人、女性主义者）；籍属/生卒联网查证：GND 规范标目 gnd 119143666（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Lorenzen, Paul | — | Paul Lorenzen | 德国 | 1915–1994 | logic-linear | 无通行汉名，保留英文原名（对话博弈）；凭证 2026-11-10；籍属/生卒联网查证：GND 规范标目 gnd 11857437X（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
-| Lorki, Joshua | — | 约书亚·洛尔基 | 西班牙／犹太改宗者 | — | albo-joseph | 史通行音译（改宗后名赫罗尼莫·德·圣塔菲）；籍属/生卒联网查证：SEP 原文 en/albo-joseph:216（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
+| Lorki, Joshua | — | 约书亚·洛尔基 | 西班牙／犹太改宗者 | 1400–1419 | albo-joseph | 史通行音译（改宗后名赫罗尼莫·德·圣塔菲）；籍属/生卒联网查证：SEP 原文 en/albo-joseph:216（2026-11-21 查，凭证 verify-2026-11-20-people.tsv）；籍属/生卒联网查证：Wikidata Q462009（2026-11-23 查，凭证 backfill-auto-2026-11-23.tsv） | 2026-11-21 |
 | Lorrain, Claude | — | 克劳德·洛兰 | 法国 | 1600–1682 | environmental-aesthetics | 学界通行（十七世纪风景画家）；籍属/生卒联网查证：GND 规范标目 gnd 118574450（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Lotze, Hermann | — | 赫尔曼·洛采 | 德国 | 1817–1881 | bradley | 学界通行汉译（SUMMARY 定名沿用；《微宇宙》作者）；凭证 2026-11-14 | 2026-11-14 |
 | Louis Althusser | — | 路易·阿尔都塞 | 法国 | 1918–1990 | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31）；籍属/生卒联网查证：SEP 原文 en/ideology:695（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
