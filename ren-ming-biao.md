@@ -18,6 +18,7 @@
 | Abner of Burgos | — | 布尔戈斯的阿布内尔 | 西班牙（卡斯蒂利亚） | 约1270–1347 | crescas | 学界通行中译（14 世纪叛教者，亦名 Alfonso de Valladolid）；凭证 2026-11-08；籍属/生卒联网查证：Wikidata Q322560（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Abrabanel, Judah | — | 犹大·莱昂·阿布拉瓦内尔 | 葡萄牙／犹太哲学 | 1460–1530 | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译）；凭证 2026-11-04；审定库无相关命中（termonline-all 凭证 2026-11-07）；籍属/生卒联网查证：Wikidata Q467062（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Abraham Bar Hiyya | — | 亚伯拉罕·巴尔·希亚 | 西班牙／犹太哲学 | 1065–1136 | gersonides | 犹太科学史通行音译（*Megillat ha-Megalleh* 作者）；籍属/生卒联网查证：GND 规范标目 gnd 100970524（2026-11-13 查，凭证 verify-2026-11-13-gnd-a.tsv） | 2026-11-13 |
+| Abraham ibn Daud | — | 亚伯拉罕·伊本·达乌德 | 西班牙（安达卢斯） | 约1110–约1180 | 语料回收（全目录） | 学界通行音译；籍属/生卒联网查证：Wikidata Q330821（2026-11-23 查，凭证 people-wikidata-2026-11-23-b5.tsv）；《传统之冠》作者，亚里士多德主义犹太哲学家 | 2026-11-23 |
 | Abraham ibn Ezra | Abraham ibn Ezra | 亚伯拉罕·伊本·以斯拉（亦作“伊本·以斯拉”） | 西班牙／犹太哲学 | 1092–1167 | 语料回收（全目录） | 学界惯例（犹太哲学译名）；审定库无相关命中（凭证 2026-10-31）；籍属/生卒联网查证：GND 规范标目 gnd 118646613（2026-11-13 查，凭证 verify-2026-11-13-gnd-a.tsv） | 2026-11-13 |
 | Abraham Ibn-Dahoud | — | 亚伯拉罕·伊本·达乌德 | 西班牙（科尔多瓦；后居托莱多） | c. 1110–1180 | crescas | 学界通行中译（《崇高信仰》作者）；凭证 2026-11-08；原文 en/abraham-daud 首句即“Abraham ibn Daud (c.1110–1180)”；另见 en/crescas 提及《崇高的信仰》转译（2026-11-22 查，凭证 arabic-batch3-2026-11-22.tsv）；籍属查证：SEP en/abraham-daud：probably born c. 1110 in one of the major centers of Muslim Spain, perhaps Cordoba；迁 Toledo；d. c. 1180（2026-11-22 查，凭证 arabic-batch4-2026-11-22.tsv） | 2026-11-22 |
 | Abrams, Marshall | — | 马歇尔·艾布拉姆斯 | 美国 | fl. 2002 | fitness | 学界通行音译（生物学哲学家，参照环境问题）；凭证 2026-11-13；籍属/生卒联网查证：GND 规范标目 gnd 130836704X（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
@@ -1411,6 +1412,7 @@
 | Francis of Assisi, St. | — | 亚西西的圣方济各 | 意大利 | 1182–1226 | arabic-islamic-mysticism | 基督教史通行汉译；籍属/生卒联网查证：Wikidata Q676555（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Francis of Marchia | — | 马尔基亚的弗朗西斯 | 意大利 | 1290–1344 | gregory-rimini | 依驻地冠称（Franciscus de Marchia，方济各会神学家）；凭证 2026-11-10；籍属/生卒联网查证：Wikidata Q5482931（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Francis of Prato | — | 普拉托的弗朗西斯 | 意大利 | 活跃于 1340 年代 | sharpe | 本词条首译（14 世纪意大利多明我会逻辑学家，无通行汉名；Amerini 研究文献）；凭证 2026-11-09 | 2026-11-09 |
+| Francisco Miró Quesada | — | 弗朗西斯科·米罗·克萨达 | 秘鲁 | 1918–2019 | 语料回收（全目录） | 学界通行音译；籍属/生卒联网查证：Wikidata Q5483714（2026-11-23 查，凭证 people-wikidata-2026-11-23-b5.tsv）；秘鲁哲学家，逻辑学与“无墙之城” | 2026-11-23 |
 | Franck, Jacob | — | 雅各布·弗兰克 | 波兰（波多利亚生） | c. 1726–1791 | scholem | 学界通行汉译（十八世纪沙巴泰派领袖）；凭证 2026-11-08 | 2026-11-08 |
 | Franco, Eli | — | Eli Franco（现代学者，保留英文） | 以色列 | 1953– | concept-emotion-india | ADR-0022：无通行汉名者保留英文（法称研究）；凭证 2026-11-12 concept-emotion-india r2；籍属/生卒联网查证：GND 规范标目 gnd 1049702085（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv） | 2026-11-14 |
 | Frank, Adolphe | — | 阿道夫·弗兰克 | 法国 | 1809–1893 | scholem | 学界通行汉译（十九世纪犹太学者）；凭证 2026-11-08 | 2026-11-08 |
@@ -1418,6 +1420,7 @@
 | Frankel, Stanley | — | 斯坦利·弗兰克尔 | 美国 | 1919–1978 | computing-history | 学界通行音译（洛斯阿拉莫斯计算项目负责人之一）；凭证 2026-11-10 | 2026-11-09 |
 | Frankish, Keith | — | 基思·弗兰基什 | 英国 | 1962– | zombies | 学界惯例（心灵哲学文献通译）；凭证 2026-11-10；籍属/生卒联网查证：GND 规范标目 gnd 1033225649（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv） | 2026-11-14 |
 | Franklin, Rosalind | — | 罗莎琳德·富兰克林 | 英国 | 1920–1958 | genetics | DNA X 射线晶体学家，学界通行汉译（ADR-0022 通行汉名判据）；凭证 2026-11-11；籍属/生卒联网查证：GND 规范标目 gnd 12408544X（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv） | 2026-11-14 |
+| Frans van Eemeren | — | 弗兰斯·范·埃默伦 | 荷兰 | 1946– | 语料回收（全目录） | 学界通行音译；籍属/生卒联网查证：Wikidata Q1445486（2026-11-23 查，凭证 people-wikidata-2026-11-23-b5.tsv）；语用论辩学（pragma-dialectics）奠基者 | 2026-11-23 |
 | Franz Mehring | — | 弗兰茨·梅林 | 德国 | 1846–1919 | luxemburg | 学界通行汉译（《马克思传》作者）；审定库无相关命中（termonline-all 凭证 2026-11-13）；籍属/生卒联网查证：Wikidata Q18806（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Franz Neumann | — | 弗朗茨·诺伊曼 | 德国／美国／政治理论家（社会研究所成员） | 1900–1954 | adorno | 学界通行音译（《比希摩斯》作者）；凭证 2026-11-10 | 2026-11-10 |
 | Franzen, Nils | — | 尼尔斯·弗兰岑 | 瑞典／文学 | 1916–1997 | imaginative-resistance | 音译（感性论）；凭证 2026-11-12；籍属/生卒联网查证：GND 规范标目 gnd 119082497（2026-11-14 查，凭证 verify-2026-11-14-gnd-i.tsv） | 2026-11-14 |
@@ -2064,6 +2067,7 @@
 | Inwood, Brad | — | 布拉德·因伍德 | 加拿大 | 1953– | epicurus | 音译（斯多葛与伊壁鸠鲁研究）；籍属/生卒联网查证：GND 规范标目 gnd 115556087（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Iongh, Johan de | — | Johan de Iongh | 荷兰 | 1915–1999 | brouwer | ADR-0022：无通行汉名保留英文（布劳威尔学生）；凭证 2026-11-12；籍属/生卒联网查证：Wikidata Q45320360（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Iris | — | 伊里斯 | — | — | xenophanes | 学界通行汉译（彩虹女神）；凭证 2026-11-07 | 2026-11-07 |
+| Iris Marion Young | — | 艾丽斯·马里恩·扬 | 美国 | 1949–2006 | 语料回收（全目录） | 学界通行音译；籍属/生卒联网查证：Wikidata Q543381（2026-11-23 查，凭证 people-wikidata-2026-11-23-b5.tsv）；政治哲学家（PU），正义与差异政治 | 2026-11-23 |
 | Isaac Israeli | — | 伊萨克·伊斯拉埃利（旧形“伊萨克·以色列”并档） | 埃及／犹太新柏拉图主义 | c. 855–955 | crescas；israeli | SUMMARY 定名（i/israeli H1；避免与国名“以色列”混淆）；2026-11-11 统一由 2026-11-08 行改 | 2026-11-11 |
 | Iṣfahānī, Ibn Turkah | — | 伊本·图尔卡·伊斯法哈尼 | 波斯（伊斯法罕） | 约1362–1433 | arabic-islamic-mysticism | 照明哲学史通行音译；生卒据 SEP 原文 en/arabic-islamic-mysticism 括注：原文括注 c. 1362–1433 CE（2026-11-22 回读，凭证 en-harvest-2026-11-22.tsv）；籍属查证：Fihrist 规范档：Ṣāʾin al-Dīn ʿAlī ibn Muḥammad Turkah Iṣfahānī（1368/9–1431/2），nisba 伊斯法罕（2026-11-22 查，凭证 arabic-batch4-2026-11-22.tsv） | 2026-11-22 |
 | Isocrates | — | 伊索克拉底 | 希腊（雅典） | 436–338 BCE | zeno-elea | 学界通行汉译（修辞学家、演说家）；凭证 2026-11-09 | 2026-11-09 |
@@ -3758,6 +3762,7 @@
 | Sarkar, Sahotra / Sahotra Sarkar | — | 萨霍特拉·萨卡尔 | 美国 | 1961– | spacetime-convensimul；information-biological | 音译（生物学哲学）；凭证 2026-11-12；2026-11-13 重复行合并（旧键 `Sahotra Sarkar`）；籍属/生卒联网查证：Wikidata Q7399715（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Sartre, Jean-Paul / Jean-Paul Sartre | — | 让-保罗·萨特 | 法国 | 1905–1980 | japanese-aesthetics；early-modern-india | 学界通行汉译（非存在现象学提及）；凭证 2026-11-10；2026-11-13 重复行合并（旧键 `Jean-Paul Sartre`） | 2026-11-13 |
 | Sasaki "Raku" Chōjirō | 長次郎 | 长次郎 | 日本 | 1516–1592 | japanese-aesthetics | 学界惯例（日本陶艺史通行汉名；源文自注“長次郎”）；籍属/生卒联网查证：GND 规范标目 gnd 132912562（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
+| Saunders Mac Lane | — | 桑德斯·麦克莱恩 | 美国 | 1909–2005 | 语料回收（全目录） | 学界通行音译；籍属/生卒联网查证：Wikidata Q441223（2026-11-23 查，凭证 people-wikidata-2026-11-23-b5.tsv）；数学家，范畴论创立者之一（与 Eilenberg） | 2026-11-23 |
 | Saussure, Ferdinand de | — | 费尔迪南·德·索绪尔 | 瑞士 | 1857–1913 | idiolects | 学界通行汉译（结构主义语言学）；凭证 2026-11-11 | 2026-11-11 |
 | Savigny, Friedrich Carl von | — | 弗里德里希·卡尔·冯·萨维尼 | 德国／历史法学派 | 1779–1861 | august-rehberg | 学界通行汉译；凭证 2026-11-08 | 2026-11-08 |
 | Savile, Anthony | — | 萨维尔 | 英国 | 1939– | hume-aesthetics | 学界惯例音译（本词条引用文献作者）；凭证 2026-11-08；籍属/生卒联网查证：GND 规范标目 gnd 172354323（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |

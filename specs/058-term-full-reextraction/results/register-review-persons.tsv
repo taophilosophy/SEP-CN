@@ -16,10 +16,8 @@ score	type	freq	spread	tier	pool_status	en	sources
 1334	person	58	22	T1	new	Iris Marion Young	a/argument；d/democracy；e/egalitarianism
 1250	person	50	24	T1	new	van Inwagen’s	a/abilities；a/afterlife；a/animalism
 1210	person	110	10	T1	new	Ibn Arabī	a/al-qudat；a/arabic-islamic-mysticism；g/god-ultimates
-1200	person	80	14	T1	new	Van Gulick	c/consciousness；c/consciousness-higher；c/consciousness-representational
 1134	person	42	26	T1	new	Pierre Gassendi	a/anomalous-monism.a-related-views；a/aristotelianism-renaissance；a/atomism-ancient
 1104	person	48	22	T1	new	Dialogues concerning Natural Religion	b/bayle；c/clarke；e/economics-early-modern
-989	person	43	22	T1	new	van Heijenoort	a/analysis.bib6；c/carnap.tolerance-metaphysics；c/church-turing.decision-problem
 987	person	47	20	T1	new	Albertus Magnus	a/agrippa-nettesheim；a/arabic-islamic-influence；a/archytas
 962	person	37	25	T1	new	der Philosophie	a/analysis.bib1；a/analysis.bib2；a/analysis.bib3
 858	person	33	25	T1	new	von Helmholtz	a/action-perception；a/alexander；a/attention
@@ -39,7 +37,6 @@ score	type	freq	spread	tier	pool_status	en	sources
 624	person	78	7	T1	-	Ibn Gabirol’s	a/abraham-daud；f/falaquera；i/ibn-ezra
 578	person	34	16	T1	new	Princess Elisabeth	a/anomalous-monism.a-related-views；d/descartes；d/descartes-ethics
 576	person	36	15	T1	new	William Ockham	a/alberic-paris；a/analysis.bib3；a/aquinas
-551	person	29	18	T1	new	Lewis Carroll	a/aristotle-noncontradiction；a/artificial-intelligence；a/attention
 546	person	39	13	T1	new	van Atten	b/brouwer；b/brouwer.strongcounterex；b/brouwer.weakcounterex
 539	person	49	10	T1	new	Grundgesetze der Arithmetik	a/analysis.bib6；f/formalism-mathematics；f/frege
 518	person	37	13	T1	new	Moses Maimonides	a/abraham-daud；a/al-baghdadi；a/arabic-islamic-judaic
@@ -101,24 +98,19 @@ score	type	freq	spread	tier	pool_status	en	sources
 225	person	25	8	T1	-	Nobel Peace Prize	a/addams-jane；c/creativity；f/femapproach-pragmatism
 221	person	17	12	T2	-	R. G. Collingwood	a/alexander；a/analysis；b/berlin
 220	person	22	9	T1	-	International Monetary Fund	a/abstract-objects；c/citizenship；c/coercion.applications
-220	person	22	9	T1	-	James Clerk Maxwell	a/atomism-modern；c/chaos；d/duhem
 220	person	44	4	T2	new	Les temps modernes	b/baudrillard；b/beauvoir；m/merleau-ponty
 216	person	27	7	T1	new	Samuel Clemens	a/analytic-synthetic；f/frege；g/grounding
 210	person	14	14	T2	-	G. W. F. Hegel	a/aesthetics-race；f/francisco-sanches；j/japanese-confucian
-210	person	15	13	T2	-	H. L. A. Hart	a/austin-john；b/broad；f/feyerabend
 210	person	21	9	T1	new	Margaret Cavendish	b/boundary；c/creativity；f/feminism-femhist
 210	person	15	13	T2	-	Marquis de Condorcet	a/arrows-theorem；b/belief-merging；d/democracy
 210	person	21	9	T1	-	stem cell research	b/biology-developmental；c/chimeras；c/cloning
 210	person	35	5	T1	new	von Hirsch	c/criminal-law；j/justice-retributive；j/justice-retributive.challenges
 209	person	19	10	T2	-	Fox Keller	f/femapproach-analytic；f/femapproach-prag-cont；f/feminism-language
 209	person	19	10	T2	new	Friedrich Hayek	c/capitalism；e/economics-early-modern；f/feminism-law
-209	person	19	10	T2	new	Quentin Skinner	c/catharine-macaulay；d/domination；h/herder
 208	person	26	7	T1	-	Thirty Years War	a/authority.legitimate-authority；e/elisabeth-bohemia；g/galileo
 208	person	26	7	T1	new	van der Torre	c/computational-philosophy；l/logic-ai；l/logic-belief-revision
 207	person	23	8	T1	new	Miró Quesada	l/latin-american-analytic；l/latin-american-metaphilosophy；l/latin-american-philosophy
-200	person	20	9	T1	new	David Enoch	i/integrity；j/justification-public；m/moral-arguments-god
 200	person	25	7	T1	new	Humpty Dumpty	a/aristotle-noncontradiction；b/beardsley-aesthetics；g/geometry-19th
-200	person	25	7	T1	new	Patricia Churchland	c/chinese-room；c/consciousness-neuroscience；f/feyerabend
 198	person	18	10	T2	-	F. Strawson	a/aesthetic-experience；c/compatibilism；g/gratitude
 198	person	33	5	T1	new	van Eemeren	a/argument；a/aristotle-rhetoric；f/fallacies
 192	person	48	3	T2	new	approval voting	m/moral-decision-uncertainty；s/social-choice；v/voting-methods
@@ -127,95 +119,3 @@ score	type	freq	spread	tier	pool_status	en	sources
 190	person	19	9	T2	-	Plato’s Socrates	c/cyrenaics；d/diodorus-cronus；k/kierkegaard
 189	person	21	8	T1	new	Dalai Lama	e/ethics-search；g/gorampa；g/gratitude
 189	person	21	8	T1	-	Robert Paul Wolff	a/anarchism；a/authority；e/exploitation
-187	person	17	10	T2	-	Basic Law V	f/frege；f/frege-logic；f/frege-logic.supp-between
-187	person	17	10	T2	new	Larry Laudan	c/creationism；f/feigl；p/phil-bio-latin-america
-186	person	31	5	T1	new	Letter concerning Toleration	b/burke；c/conscience；l/locke
-184	person	23	7	T1	-	Verein Ernst Mach	a/analysis.s5；e/ernst-mach；l/logical-empiricism
-182	person	26	6	T1	new	revealed preference	b/bounded-rationality；d/decision-theory；e/economics
-180	person	18	9	T2	new	Allen Wood	c/childhood；e/empiricism-ancient-medieval；e/ethics-manipulation
-180	person	60	2	T2	new	Dutch Strategy	d/dutch-book；e/epistemic-self-doubt
-180	person	18	9	T2	-	G. E. M. Anscombe	a/analysis.bib6；a/anscombe；a/ayn-rand.supplement
-180	person	18	9	T2	-	G. Strawson	a/alternative-possibilities；f/functionalism；i/incompatibilism-arguments
-180	person	18	9	T2	new	George Bealer	a/analytic-synthetic；a/apriori；c/concepts
-180	person	18	9	T2	new	Jonardon Ganeri	a/analysis.bib2；a/analysis.bib3；a/analysis.bib4
-180	person	18	9	T2	-	Le Poidevin	a/atheism-agnosticism；b/boundary；c/chemistry
-180	person	36	4	T2	new	Quod nihil scitur	a/analysis.bib3；a/aristotelianism-renaissance；f/francisco-sanches
-180	person	30	5	T1	new	van der Sandt	d/defaults-semantics-pragmatics；d/discourse-representation-theory；l/logic-action
-176	person	22	7	T1	-	D. Miller	c/consequentialism-rule；c/contract-law；e/education-philosophy
-176	person	16	10	T2	-	De Brigard	a/attention；c/consequentialism；e/experimental-moral
-176	person	22	7	T1	new	der Natur	a/aesthetics-18th-german；a/alexander-humboldt；i/idealism
-176	person	44	3	T2	new	Des Places	n/numenius；p/plutarch；p/pythagoreanism
-175	person	25	6	T1	new	extended evolutionary synthesis	d/darwinism；e/evolution；i/inheritance-systems
-175	person	25	6	T1	new	van Riel	a/augustine；i/iamblichus；p/physics-interrelate
-171	person	19	8	T2	new	van Roojen	d/disagreement-moral；i/intuition；m/moral-cognitivism
-170	person	17	9	T2	new	Kristie Dotson	a/africana-contemporary；e/epistemology-social；f/femapproach-analy-cont
-170	person	17	9	T2	new	Philip Quinn	c/cosmology-theology；c/creation-conservation；h/heaven-hell
-170	person	17	9	T2	new	prenex normal form	l/logic-combinatory；l/logic-firstorder-emergence；l/logic-higher-order
-170	person	34	4	T2	new	Twin Oscar	c/computational-mind；c/content-narrow；m/meaning-holism
-169	person	13	12	T2	-	G. W. Leibniz	c/collins；d/descartes；e/empiricism-ancient-medieval
-168	person	21	7	T1	new	abstract algebraic	d/diagrams；l/logic-algebraic-propositional；l/logic-firstorder-emergence
-168	person	14	11	T2	-	von Hayek	c/cosmopolitanism；e/ernst-mach；f/feyerabend
-162	person	18	8	T2	-	Holy Roman Emperor	a/academic-freedom；c/cosmopolitanism；d/dante
-162	person	18	8	T2	new	John Nash	a/agent-modeling-philscience；a/analytic-synthetic；c/contractarianism-contemporary
-162	person	27	5	T1	new	Van Bendegem	g/geometry-finitism；m/mathematical-practice；m/mathematical-style
-161	person	23	6	T1	new	book four	c/conscience-medieval；e/economics-early-modern；g/godwin
-160	person	20	7	T1	new	der Torre	c/computational-philosophy；l/logic-ai；l/logic-belief-revision
-160	person	16	9	T2	-	Oliver Wendell Holmes	c/contract-law；i/international-law；l/legal-obligation
-156	person	12	12	T2	-	der Sprache	a/analysis.bib6；a/ayer；c/carnap
-156	person	26	5	T1	-	Sir Walter Scott	c/church；c/church.supplementC；c/church.supplementE
-154	person	14	10	T2	-	G. F. Stout	a/alexander；a/attention；b/broad
-154	person	22	6	T1	-	Hayy ibn Yaqzan	a/arabic-islamic-judaic；a/arabic-islamic-metaphysics；a/arabic-islamic-religion
-154	person	14	10	T2	new	John Finnis	c/common-good；i/international-law；l/law-language
-153	person	17	8	T2	new	Die Grundlagen der Arithmetik	a/analysis；a/analysis.bib6；d/dedekind-foundations
-153	person	17	8	T2	new	John Mackie	c/cosmological-argument；d/disagreement-moral；m/moral-anti-realism
-153	person	17	8	T2	new	Shannon Sullivan	c/critical-phil-race；d/dubois；f/femapproach-analytic
-150	person	25	5	T1	-	Du Châtelet	e/emilie-du-chatelet；e/evolution-before-darwin；n/newton-philosophy
-150	person	15	9	T2	new	Hasok Chang	c/chemistry；g/genotype-phenotype；g/geometry-19th.vita
-150	person	30	4	T2	new	Jean Cohen	c/critical-theory；d/dance；i/international-law
-150	person	15	9	T2	new	Mark Johnston	a/animalism；g/generics；m/moral-sentimentalism
-150	person	15	9	T2	new	Michael Devitt	a/analytic-synthetic；a/anderson-john；f/fictional-entities
-150	person	15	9	T2	new	Rosalind Hursthouse	b/bioethics-moral-reasoning；h/human-nature；m/moral-animal
-150	person	25	5	T1	-	Sir William Hamilton	a/analysis.s5；b/boole；e/emily-elizabeth-constance-jones
-150	person	15	9	T2	new	Stephen Toulmin	a/argument；e/epistemology-evolutionary；h/history
-147	person	49	2	T2	-	G. Cohen	e/egalitarianism；m/marxism-analytical
-147	person	21	6	T1	new	Logik der Forschung	f/feyerabend；i/information；l/lakatos
-144	person	16	8	T2	new	Alison Jaggar	a/addams-jane；f/femapproach-analy-cont；f/femapproach-analytic
-144	person	16	8	T2	-	Combahee River Collective	f/femapproach-analy-cont；f/femapproach-continental；f/feminism-ethics
-144	person	18	7	T2	new	Juana Ines	e/epistemology-virtue；f/feminism-latin-america；l/latin-american-philosophy
-144	person	16	8	T2	new	Kent Bach	a/ambiguity；a/assertion；c/content-narrow
-144	person	16	8	T2	new	Neil Levy	c/consciousness-intentionality；d/delusion；d/dirty-hands
-144	person	16	8	T2	new	Rae Langton	f/femapproach-analy-cont；f/feminism-language；f/feminism-objectification
-144	person	18	7	T2	-	Relational Quantum Mechanics	p/phil-science-latin-america；q/qm-decoherence；q/qm-modal
-144	person	18	7	T2	new	Sharon Street	e/evolutionary-psychology；i/intuitionism-ethics；m/moral-arguments-god
-144	person	24	5	T1	new	Von Eckardt	c/connectionism；m/mental-disorder；m/mental-representation
-143	person	13	10	T2	-	der Wissenschaften	a/analysis.bib5；b/brouwer；e/ernst-mach
-140	person	14	9	T2	new	Frances Hutcheson	c/clarke；e/economics-early-modern；e/enlightenment
-140	person	35	3	T2	-	plurality rule	j/jury-theorems；s/social-choice；v/voting-methods
-140	person	20	6	T1	new	pragmatic maxim	d/dewey；p/peirce-logic；p/peirce-semiotics
-140	person	35	3	T2	new	ten modes	m/medieval-categories；s/sextus-empiricus；s/skepticism-ancient
-140	person	14	9	T2	-	William James Lectures	a/austin-jl；a/ayer；c/common-ground-pragmatics
-138	person	23	5	T1	new	Toward Perpetual Peace	c/cosmopolitanism；k/kant；k/kant-social-political
-136	person	17	7	T2	new	Eva Kittay	c/cognitive-disability；c/confucian-gender；c/contractarianism
-136	person	17	7	T2	new	Michael Martin	a/atheism-agnosticism；c/content-nonconceptual；c/cosmological-argument
-136	person	17	7	T2	-	Putnam’s twin earth	c/content-externalism；n/natural-kinds；n/naturalism-moral
-136	person	17	7	T2	new	Reinhold Niebuhr	b/berlin；b/buber；d/dewey-political
-136	person	17	7	T2	new	Susan Bordo	f/femapproach-analytic；f/femapproach-prag-cont；f/femapproach-pragmatism
-135	person	15	8	T2	-	D. M. Armstrong	a/anderson-john；d/david-lewis；d/dualism
-135	person	15	8	T2	new	Judea Pearl	c/causation-mani；c/causation-physics；c/causation-probabilistic
-133	person	19	6	T2	new	Charles Lyell	d/darwinism；e/evolution-before-darwin；e/evolution-development
-133	person	19	6	T2	new	national research	b/bioethics-latin-america；c/chimeras；e/ethics-internet-research
-132	person	22	5	T1	new	der Sandt	d/defaults-semantics-pragmatics；d/discourse-representation-theory；l/logic-action
-132	person	22	5	T1	new	Salazar Bondy	l/latin-american-analytic；l/latin-american-metaphilosophy；l/latin-american-philosophy
-130	person	26	4	T2	new	ratio formula	d/dutch-book；e/epistemology-bayesian；e/epistemology-bayesian.supplement
-130	person	26	4	T2	-	Sickness unto Death	e/existentialism；k/kierkegaard；m/michel-henry
-128	person	16	7	T2	new	Del Pinal	c/compositionality；c/concepts；d/disjunction
-128	person	16	7	T2	-	Friedrich von Hayek	c/cosmopolitanism；f/feyerabend；l/liberty-positive-negative
-128	person	16	7	T2	-	Kant’s Transcendental Deduction	c/consciousness-unity；h/hegel；k/kant-transcendental
-128	person	16	7	T2	new	Linda Alcoff	d/double-consciousness；f/femapproach-continental；f/feminism-gender
-128	person	16	7	T2	-	Pope John Paul	g/galileo；i/ingarden；m/maritain
-126	person	21	5	T1	-	Charlotte Perkins Gilman	a/addams-jane；f/femapproach-pragmatism；f/feminism-class
-126	person	18	6	T2	new	Graff Fara	g/generics；h/haecceitism；i/intensional-trans-verbs
-126	person	14	8	T2	new	James Woodward	c/ceteris-paribus；h/history；i/innateness-cognition
-126	person	14	8	T2	-	Jean-Luc Marion	a/arnauld；a/augustine；h/hermeneutics
-126	person	18	6	T2	new	Mathias Risse	c/coercion；i/international-justice；j/justice-global
-126	person	14	8	T2	new	Michael Huemer	i/intuitionism-ethics；j/justep-coherence；j/justep-foundational

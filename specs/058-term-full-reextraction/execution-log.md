@@ -132,3 +132,9 @@
 * 其余 33 条 A 档直裁；佛教概念 storehouse consciousness 按传统译名取“阿赖耶识（藏识）”（语料两形各 5 篇）。
 * 译文语料计数：伯特兰悖论 2 篇（贝特朗悖论 0）、可知性悖论 11 篇、良序定理 3 篇（良序原则 0，哲学数学两义分列取原则）。
 * 落册：`term_flow` 干跑 43/0，实写 43；`registry_azsort` 术语表 7311→7354 守恒；`check_terms` 硬错误 0。清单 `tasks/manifests/2026-11-23-058-batch11-terms.json`。
+
+## 2026-11-23：人名第五批（新增 5 人）
+
+* 从重生成的人名队列里别名感知核查后确认真缺项 5 人：Iris Marion Young、Saunders Mac Lane、Frans van Eemeren、Francisco Miró Quesada、Abraham ibn Daud（Albertus Magnus＝已登记 Albert the Great、C. S. Peirce／P. F. Strawson／Anne Conway／Fichte 等均为别名变体）。
+* 取证：Wikidata 逐人查（凭证 `results/people-wikidata-2026-11-23-b5.tsv`）。汉名按通行音译：艾丽斯·马里恩·扬、桑德斯·麦克莱恩、弗兰斯·范·埃默伦、弗朗西斯科·米罗·克萨达、亚伯拉罕·伊本·达乌德；籍属/生卒随行登记（美国 1949–2006／美国 1909–2005／荷兰 1946–／秘鲁 1918–2019／西班牙（安达卢斯）约1110–约1180）。
+* 落册：`term_flow` 干跑 5/0，实写 5；`registry_azsort` 人名表 4597→4602 守恒；`check_terms` 硬错误 0。清单 `tasks/manifests/2026-11-23-058-batch12-people.json`。
