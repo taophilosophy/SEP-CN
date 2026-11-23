@@ -377,3 +377,11 @@
 * 取证例外：Chad Hansen（Wikidata 同名项为橄榄球员，本人无人格项）与 Arturo Roig（英文维基条目存在但未载生卒）留白待考；Justin Tiwald 籍属据香港大学哲学系页（exa 检索，2026-11-24）。
 * 落册：`term_flow` 21/1；`registry_azsort` 4,749→4,770 守恒；`check_terms` 硬错误 0，缺项告警 755→757（Hansen、Roig 生卒留白）；`check_all` 17 项全绿。
 * 证据：`results/people-wikidata-2026-11-24-b14.tsv`；清单 `tasks/manifests/2026-11-24-058-batch40-people.json`。
+
+## 2026-11-24：人名第十五批（分析哲学各分支 20 人）
+
+* 名单按分支（数学哲学、物理学哲学、认知科学、语言哲学、宗教哲学、现象学）列权威人名，再用“yuanwen 计数≥3＋登记册三列折叠反查”取缺口，命中 21 条，剔除 Anne Bezuidenhout（无 Wikidata 人格项、无可靠在线传记）。
+* 新增 20 人：扎哈维（1967–）、Cappelen（1967–）、Stoljar（1967–）、Lepore（1950–）、García-Carpintero（1957–）、Colyvan（生年缺）、Bergmann（1964–）、Magidor（1976–）、Dougherty（1971–）、Ratcliffe（1973–）、雷卡纳蒂（1952–）、默明（1935–）、纽厄尔（1927–1992）、Speaks（1975–）、维格纳（1902–1995）、Morriston（生卒缺）、Carston（1950–）、Heck（1963–）、Rayo（1973–）、Barsalou（1951–）。
+* 籍属留白 5 人（García-Carpintero、Ratcliffe、Speaks、Morriston、Heck）：Wikidata 项无 P27，不以推测填充，缺项告警相应增至 763。
+* 落册：`term_flow` 20/0；`registry_azsort` 4,770→4,790 守恒；`check_all` 17 项全绿。
+* 证据：`results/people-wikidata-2026-11-24-b15.tsv`；清单 `tasks/manifests/2026-11-24-058-batch41-people.json`。
