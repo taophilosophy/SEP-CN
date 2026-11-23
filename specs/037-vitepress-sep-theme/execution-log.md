@@ -51,3 +51,19 @@
   - `verify-langswitch-browser.mjs`（CDP，preview 实测）：桌面 9/9——配对页 flyout 可见（w=75）、点击 English SPA 导航到 /yuanwen/a/abduction（window 标记存活＝无整页刷新）、客户端 html lang=en、回程 SPA 导航、无配对页 /mu-lu-s 切换器 display:none 且 Layout 根含 no-langswitch-page；移动端 3/9→3/3——390px 下 nav screen 手风琴无配对页 display:none、配对页可见（h=21）。
 - 踩坑记录：①`vitepress preview --outDir` 不生效（preview 按 config.outDir；不带 SEP_SHARD 时指向 dist/ 旧全量产物）——造成“hydration 失败”的半小时误判，产物 hash 对账后定位；②sirv（preview）启动时预载文件快照，构建收尾窗口启动会服务旧 HTML，改带 `SEP_SHARD=ad` 重启解决；③复合命令 `verify | tail && build` 中管道吞掉 verify 退出码，`&&` 未短路——两验证各自独立跑；④CDP 冷加载首页 hydration >1.5s，click 落在无监听阶段，等 `globalThis.__VITEPRESS__===true` 再点击（app chunk mount 前置标志）。
 - 回归面：双语对照面板（BilingualCompare）零改动；body 类体系与 Layout 根 pageClass 互不干扰；页面集/死链面不变（locales 只加路径前缀语义，srcExclude/分片排除面未动）；check_all 复跑 17 项全绿。
+
+## 2026-11-24 正文列加宽 75%＋封顶（用户裁定，覆盖 038 行长治理）
+
+- 指令：“对主体界面加宽到屏幕的75%”；两项裁定：①全部态一起改（普通阅读态＋双语对照 side/stack/inter/仅英文各态）②75% 但封顶（cap＝1200px，≈75–80 汉字/行，specs/038 行长治理的阈度转为封顶语义——**本节登记对 specs/038“≥1280 压回 43rem”裁定的取代**，43rem 压制规则删除）。
+- 落地文件：`.vitepress/theme/vp-compat.css` 单文件——:root 加 `--sep-doc-max-w: 1200px` 与 `--vp-layout-max-width: 100%`（覆盖 2.0-alpha 内置 90rem＝1440px）；≥960 段 .VPDoc（含/不含 has-aside）.content-container 与 bili-stack .vp-doc＝min(75vw, cap)；≥1280 对照段 side 双栏统一 37.5vw（两栏等宽保持对照语义，两侧容器 padding 不同按栏内 75% 会差 42px）、仅英文 75vw。
+- 架构要点（三轮 CDP 实测定位）：
+  - **宽度真正杠杆是 `--vp-layout-max-width`**（2.0-alpha 新令牌，内置 90rem）：VPContent 让位公式 calc((100% − layoutMax)/2 + sidebar-width) 把主体区压在 1440 内——1920 实测正文列只剩 784，content-container 的 75% 在其下物理不可达。放开为 100% 后正文列由 content-container 规则独立接管（侧栏 fixed 覆盖让位区，视觉不变）。
+  - 688px 的出处是内部 scoped 规则 `.VPDoc.has-aside .content-container[data-v-…]{max-width:43rem}`（特异性 (0,4,0)）：body 元素前缀 (0,3,1) 压不住（类计数不足），`.VPDoc.VPDoc` 重复类提到 (0,4,0) 平级后靠桥接层源顺序取胜。
+  - `--vp-content-max-width` 令牌在 2.0-alpha.21 **不存在**（全 dist 无定义），既有 bili-stack 规则的 fallback 688 恒生效——一并替换。
+  - 旧认知修正：`.VPDoc .content-container` 自带 688px 的说法过时，实际是 has-aside scoped 43rem；`--vp-content-max-width` 同理并非现版本机制。
+- 验证凭证（results/verify-width-full.mjs，单脚本 spawn preview→CDP 量测→kill 全链路，11 项全绿）：
+  - 普通 1920→1200（75vw=1440 超封顶）、2560→1200（封顶生效）、1366→695（正文区物理宽 ≈742 < 75vw=1024，max-width 自然回退——CSS 注释预写行为）、390→327（窄屏满宽不压）；
+  - 双语 side 1920 中文 680/英文 720（37.5vw 同基准两栏等宽；中文侧含 20px 内边距差 40px 属容器 padding 语义）；仅英文→1200；stack→1200；交错→1200；mu-lu-s 非词条页→1200；
+  - 产物 CSS style.tbkfWn4U.css 落地；check_all 复跑 17 项全绿。
+- 踩坑记录（本轮 preview 生命周期三连）：①sirv 启动时扫文件清单为快照——构建后新 hash 文件 404、同名 HTML 给新内容，造成“CSS 加载了但规则全旧”的错局（须构建进程退出后再起 preview，盯日志行判完成不可靠）；②shell `(... &)` 双重后台化吞 cwd（cssf 取值为空死循环）；③前台命令超时转后台会连坐清理 preview 子进程。终局：单 mjs 脚本内 spawn preview→量测→kill（verify-width-full.mjs）。
+- 回归面：双语对照 body 类体系、语言切换器 no-langswitch-page、sep 版式令牌全部未动；aside（outline）固定 16rem 不受挤压；check_all 17 项全绿。

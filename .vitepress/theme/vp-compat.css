@@ -71,6 +71,44 @@
   display: none;
 }
 
+/* ------------------------------------ 正文列加宽（2026-11-24） ---- */
+/* 用户裁定：主体内容列加宽到屏幕（或所在栏）的 75%，超宽屏封顶
+   --sep-doc-max-w（1200px ≈ 75–80 汉字/行；specs/038 行长治理的阈度
+   转为封顶语义，43rem 压制被本规则取代）。窄屏（<960）正文本就满宽，
+   不压。百分比形态相对所在栏自动适配半屏（side 对照）与全屏（仅英文）。 */
+:root {
+  --sep-doc-max-w: 1200px;
+  /* 2.0-alpha 布局总宽令牌（内置 90rem＝1440px）：VPContent 让位公式为
+     calc((100% − layoutMax) / 2 + sidebar-width)，主体区被压在 1440 内——
+     正文列的 75% 目标在其下不可达（1920 实测正文列只剩 784）。放开后布局
+     满宽、正文列宽由下方 content-container 规则独立接管（浏览器实验验证：
+     1920 正文列 688→1200）。侧栏是 fixed 覆盖其让位区，视觉不变。 */
+  --vp-layout-max-width: 100%;
+}
+
+@media (min-width: 960px) {
+  /* 全部词条/文档页正文列。scoped 内部规则 .VPDoc.has-aside
+     .content-container[data-v-…] 的 43rem 特异性 (0,4,0)：.VPDoc.VPDoc
+     重复类提平后靠源顺序取胜（vp-compat 桥接层最后加载；首轮实测 body
+     元素前缀 (0,3,1) 类计数不足压不住）。75vw 超出父宽时自然回退满宽
+     （960–1279 视口），无溢出风险。 */
+  .VPDoc.VPDoc:not(.has-aside) .content-container,
+  .VPDoc.VPDoc.has-aside .content-container {
+    max-width: min(75vw, var(--sep-doc-max-w));
+  }
+
+  /* 上下堆叠态：中文正文列按屏幕 75% 加宽——先放开被 scoped 43rem 压住的
+     容器，再对 .vp-doc 设宽（替换对 --vp-content-max-width 令牌的引用——
+     该令牌在 2.0-alpha.21 不存在，此前恒走 688px fallback） */
+  body.bili-stack.bili-mode .VPDoc .content-container {
+    max-width: none;
+  }
+
+  body.bili-stack.bili-mode .vp-doc {
+    max-width: min(75vw, var(--sep-doc-max-w));
+  }
+}
+
 /* 本地搜索按钮：浅色药丸（SEP 白底搜索框同款，红带/羊皮纸两态通用） */
 .VPNavBarSearch .DocSearch-Button {
   background: var(--vp-c-bg-alt);
@@ -228,11 +266,8 @@ body.bili-stack.bili-mode:not(.bili-bottombar):not(.bili-show-en) {
   padding-bottom: 50vh;
 }
 
-/* 上下堆叠：两侧同为 VP 内容宽（688px）居中 */
-body.bili-stack.bili-mode .vp-doc {
-  max-width: min(var(--vp-content-max-width, 688px), 100%);
-  margin: 0 auto;
-}
+/* 上下堆叠：两侧列宽由「正文列加宽」段的 bili-stack 规则接管
+   （min(75vw, cap)），窄屏无限制自然满宽。 */
 
 /* 英文栏内容：注入的原文页 .vp-doc 去掉站内宽度与内边距 */
 .bili-doc .vp-doc {
@@ -241,18 +276,26 @@ body.bili-stack.bili-mode .vp-doc {
   padding: 0;
 }
 
-/* 大屏行长治理（2026-11-17 全量矩阵）：side 让位把中文半屏的宽度限制全拆了，
-   英文面板与仅英文态同理——2K/4K 下中文列实测拉到 1841px、英文 1919px，
-   单行 100–190 字符不可读。≥1280 视口一律压回 43rem，在各自栏内居中。
+/* 大屏对照态列宽：原为 43rem 行长治理（2026-11-17 全量矩阵——side 让位后
+   2K/4K 中文列实测 1841px、英文 1919px，单行 100–190 字符不可读）。
+   2026-11-24 用户裁定全站列宽统一 75%＋封顶：治理目标由 --sep-doc-max-w
+   封顶承接。side 双栏两栏同基准 37.5vw（＝屏宽 75% × 半屏，保持中英两栏
+   等宽的对照语义；两侧容器 padding 不同，若各按「栏内 75%」会差 42px）。
+   仅英文态英文独享全屏 → 75vw。条目顺序即覆盖序（仅英文特异性更高）。
    （≤1279 的半屏本来就不超过 688px，维持原生满宽。） */
 @media (min-width: 1280px) {
-  body.bili-side:not(.bili-bottombar) .VPDoc .content-container {
-    max-width: 43rem;
+  body.bili-side:not(.bili-bottombar):not(.bili-show-en) .VPDoc .content-container {
+    max-width: min(37.5vw, var(--sep-doc-max-w));
     margin-inline: auto;
   }
 
-  body.bili-mode .bili-doc > .vp-doc {
-    max-width: 43rem;
+  body.bili-side:not(.bili-bottombar):not(.bili-show-en) .bili-doc > .vp-doc {
+    max-width: min(37.5vw, var(--sep-doc-max-w));
+    margin-inline: auto;
+  }
+
+  body.bili-mode.bili-show-en:not(.bili-bottombar) .bili-doc > .vp-doc {
+    max-width: min(75vw, var(--sep-doc-max-w));
     margin-inline: auto;
   }
 }
