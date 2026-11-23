@@ -424,3 +424,10 @@ B3.1 回归：不动点 **1,435/1,873（76.6%）**（此前 1,240，＋195，无
 **修法**：判别字符类扩到整块 `[\u0370-\u03FF]`（`GREEK_REV` 键集本就在此区）。一行 R 改动，C 侧零改。
 **实测**：定点 10 件混合族 → 5 件即回池（其余 5 件另有显示式取域差）。全量双通道（建池 → judge 独立复扫 → B3.1）：**pool 1,748→1,758（93.9%）／gap 125→115／stale 0**，池占页 **47.63%**，judge 与建池逐件同值；delta＝gap→pool 10（qm-decoherence、time-travel-phys、ergodic-hierarchy、games-abstraction、logic-paraconsistent、connectives-logic、equivME、formal-belief、logic-games、rationality-normative-nonutility）、**失池 0**；B3.1 **1,638 不变**。缺口普查刷新为 md_extra 76／h0_extra 13／text 9／math 8／star 4／digit 3／entity 2。
 **教训**：①字符类按 Unicode 块写，别手抄“希腊字母”范围（cursive 变体 03D0–03FF 最易漏）；②一行修复也要全量复扫——定点只见 5 件，全量带出 10 件（`ϖ`/`ϵ` 等同区受益）；③字形判别与 φ/varphi 歧义是两条通道，不合并修。
+
+## 2026-11-23 第二十九批：账锚方括号保护（池 1,758→1,759）
+
+**缺陷**：`restore_links` 插入 `[锚文](href)` 用原文切片，H0 部分锚文自带方括号（promises：`Problematic Promisees and the Uptake Condition (&sect;5.1]`，上游原文即以 `]` 收尾），裸 `[]` 使 `_link` 匹配失效，`[..](..)` 整段留在文字层。全库账锚含方括号 223 条／23 页（discourse-representation-theory 86、platonism 72、leibniz-exoteric 14…）。
+**修法**：插入前把锚文 `[`/`]` 换 `\x06`/`\x07` 占位，`_link` 出口还原。
+**实测**：全量双通道 **pool 1,758→1,759（93.9%）／gap 115→114／stale 0**，池占页 **47.64%**，judge 与建池逐件同值；delta＝gap→pool 1（promises）、**失池 0**；B3.1 **1,638 不变**。缺口普查刷新为 md_extra 75／h0_extra 13／text 9／math 8／star 4／digit 3／entity 2。另 4 件含方括号 gap 页余差为显示式取域/段数错位。
+**教训**：①整段可池≠位置正确——18 件含方括号页此前全靠补丁吞差，规则修好后池字节略增但语义正确；②插入型账都要防锚文自带的语法字符（`[]`、`*`、`$`）；③收益上界仍按「原 gap 的受影响页」算（5 件 gap 修好 1 件）。

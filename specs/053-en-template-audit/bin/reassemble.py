@@ -344,7 +344,10 @@ def restore_links(line):
     _LINK_IDX = j
     for a, b, idx, lk in sorted(picks, key=lambda x: -x[0]):
         # 锚文原样搬入（字面星在 C 侧已转义为 `\*`）；跨度已含就地配平的定界星
-        seg = line[a:b]
+        # 方括号换成占位符：md 链接文字不允许裸 `[]`，H0 有些锚文自带 `(§5.1]`
+        # 这类方括号（promises 判例；全库 223 条／23 页），不保护则 `[..](..)`
+        # 语法塌成字面文本。`_link` 出口还原。
+        seg = line[a:b].replace("[", "\x06").replace("]", "\x07")
         line = line[:a] + "[" + seg + "](" + lk["href"] + ")" + line[b:]
         _LINKS_USED[idx] = True
     return line
@@ -603,6 +606,7 @@ def _inline_md_to_html(text):
     # 链接（分类还原；页内锚/index.html 链接 C 本就丢弃 → 纯文本）
     def _link(m):
         t, url = m.group(1), m.group(2)
+        t = t.replace("\x06", "[").replace("\x07", "]")   # 账插入的方括号占位还原
         if url.startswith(("http://", "https://")):
             # 站点惯例：外链带 target="other"（正文 21,345:1,440 实测；异形入补集）
             return '<a href="%s" target="other">%s</a>' % (url, t)

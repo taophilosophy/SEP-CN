@@ -5,12 +5,12 @@
  "total": 1873,
  "counts": {
   "rule": 0,
-  "pool": 1758,
-  "gap": 115,
+  "pool": 1759,
+  "gap": 114,
   "stale": 0
  },
  "page_bytes": 235952045,
- "pool_bytes": 112375626,
+ "pool_bytes": 112415633,
  "entries": [
   {
    "slug": "18thGerman-preKant",
@@ -10570,12 +10570,9 @@
   {
    "slug": "promises",
    "page_len": 149069,
-   "status": "gap",
-   "why": "unaligned text units",
-   "sample": {
-    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
-    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
-   }
+   "status": "pool",
+   "n_patches": 270,
+   "pool_bytes": 40007
   },
   {
    "slug": "proof-theoretic-semantics",
