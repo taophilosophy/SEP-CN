@@ -1,0 +1,792 @@
+{
+ "key": "strict compliance",
+ "term": "strict compliance",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T04:23:46+00:00",
+ "status": "ok",
+ "note": "variant=strict compliance; 审定公布名词库=1394; 海峡两岸名词对照库=339; 其他来源数据库=118; 预公布名词数据库=74; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "严格保护",
+   "en": "strict protection",
+   "source": "风景园林名词",
+   "wordNumber": "04.0354",
+   "subjectFullName": "风景园林_风景名胜_风景名胜区管理",
+   "subjectName": "风景名胜区管理",
+   "publishYear": "2025",
+   "definition": "风景名胜区内的景观和自然环境，应当根据可持续发展的原则，严格保护，不得破坏或者随意改变的管理措施。"
+  },
+  {
+   "cn": "严格有穷论",
+   "en": "strict finitism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.311",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "主张自然数是与数数实践相对应的，它认为有些指称自然数的表达式，如在实践中不会被数到，就不属于自然数。这种立场回避了存在能与数数实践相对应的最大自然数。"
+  },
+  {
+   "cn": "严格互补",
+   "en": "strict complementarity",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "05.168",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程系统优化",
+   "subjectName": "过程系统优化",
+   "publishYear": "2024",
+   "definition": "给定满足库恩-塔克条件的局部解及其拉格朗日乘子，当所有有效不等式约束的乘子均不为0时，称严格互补成立。"
+  },
+  {
+   "cn": "严格导数",
+   "en": "strict derivative",
+   "source": "数学名词",
+   "wordNumber": "07.0316",
+   "subjectFullName": "数学_泛函分析_非线性泛函分析",
+   "subjectName": "非线性泛函分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "严格偏爱",
+   "en": "strict preference",
+   "source": "数学名词",
+   "wordNumber": "011.0281",
+   "subjectFullName": "数学_运筹学_多目标规划",
+   "subjectName": "多目标规划",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "严格双曲性",
+   "en": "strict hyperbolicity",
+   "source": "数学名词",
+   "wordNumber": "06.0420",
+   "subjectFullName": "数学_微分方程_积分方程_偏微分方程",
+   "subjectName": "偏微分方程",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "严格误差",
+   "en": "strictness error",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0473",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_人力资源招聘、选拔",
+   "subjectName": "人力资源招聘、选拔",
+   "publishYear": "2016",
+   "definition": "评价者对被评对象做出的过严评价所产生的偏差。"
+  },
+  {
+   "cn": "严格一致树",
+   "en": "strict consensus tree",
+   "source": "动物学名词",
+   "wordNumber": "2.018",
+   "subjectFullName": "动物学_动物进化与系统学_系统发生分析",
+   "subjectName": "系统发生分析",
+   "publishYear": "2021",
+   "definition": "只显示在所有最短树中都存在单系类群的一种系统发生树类型。"
+  },
+  {
+   "cn": "严格一致树",
+   "en": "strict consensus tree",
+   "source": "植物学名词",
+   "wordNumber": "02.0238",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "只显示在所有最短树中都存在的单系类群的一种一致树类型。"
+  },
+  {
+   "cn": "严格源路由",
+   "en": "strict source route",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0581",
+   "subjectFullName": "计算机科学技术_网络与数据通信_网络互联",
+   "subjectName": "网络互联",
+   "publishYear": "2018",
+   "definition": "在IP分组头的选项中包含分组经过的所有路由器地址列表的源路由。"
+  },
+  {
+   "cn": "严格自然保护区",
+   "en": "strict nature reserve",
+   "source": "林学名词",
+   "wordNumber": "03.363",
+   "subjectFullName": "林学_森林生态、湿地与自然保护区_自然保护区",
+   "subjectName": "自然保护区",
+   "publishYear": "2016",
+   "definition": "拥有杰出的或有代表性的生态系统、地质学或生理学上的特征和(或)种类陆地和(或)海洋地区。主要为科学研究和(或)环境监测服务。"
+  },
+  {
+   "cn": "严格自然保护区",
+   "en": "strict nature reserve",
+   "source": "生态学名词",
+   "wordNumber": "13.076",
+   "subjectFullName": "生态学_保护生态学",
+   "subjectName": "保护生态学",
+   "publishYear": "2006",
+   "definition": "是指拥有杰出的或有代表性的生态系统、地质学或生理学上的特征和(或) 种类的陆地和(或)海洋地区。 除科学研究、环境监测或必要的管理外，严禁一切人类活动的干扰。"
+  },
+  {
+   "cn": "严格归纳极限",
+   "en": "strict inductive limit",
+   "source": "数学名词",
+   "wordNumber": "04.1630",
+   "subjectFullName": "数学_代数学_代数几何学_范畴论",
+   "subjectName": "范畴论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "严格极小点",
+   "en": "strict minimum point",
+   "source": "数学名词",
+   "wordNumber": "011.0098",
+   "subjectFullName": "数学_运筹学_数学规划",
+   "subjectName": "数学规划",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "严格极大点",
+   "en": "strict maximum point",
+   "source": "数学名词",
+   "wordNumber": "011.0099",
+   "subjectFullName": "数学_运筹学_数学规划",
+   "subjectName": "数学规划",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "顺应性",
+   "en": "compliance",
+   "source": "兽医学名词",
+   "wordNumber": "04.261",
+   "subjectFullName": "兽医学_动物生理学",
+   "subjectName": "动物生理学",
+   "publishYear": "2023",
+   "definition": "弹性组织受外力作用时发生变形扩张的能力。是弹性阻力的倒数。"
+  },
+  {
+   "cn": "依从性",
+   "en": "compliance",
+   "source": "睡眠医学名词",
+   "wordNumber": "5.071",
+   "subjectFullName": "睡眠医学_睡眠疾病治疗学_气道正压通气治疗",
+   "subjectName": "气道正压通气治疗",
+   "publishYear": "2022",
+   "definition": "患者在遵从医嘱进行睡眠疾病治疗时的服从程度。"
+  },
+  {
+   "cn": "遵从",
+   "en": "compliance",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.009",
+   "subjectFullName": "新闻学与传播学_政治传播_政治传播基础",
+   "subjectName": "政治传播基础",
+   "publishYear": "2022",
+   "definition": "对某一明确的或隐含的请求的服从响应。目标人士可能会也可能不会认识到自己被要求以特定的方式采取行动。社会影响是遵从的推动力。说服和获得遵从是极其重要的社会影响类型，因为它们利用各自的效力来实现其他人的服"
+  },
+  {
+   "cn": "柔顺性",
+   "en": "compliance",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "01.0476",
+   "subjectFullName": "机械工程（一）_机构与机器人学_机器人学",
+   "subjectName": "机器人学",
+   "publishYear": "2021",
+   "definition": "机器人或某辅助工具响应外力作用时的柔性。"
+  },
+  {
+   "cn": "柔度",
+   "en": "compliance",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "02.0018",
+   "subjectFullName": "机械工程（一）_机械动力学_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "刚度的倒数。"
+  },
+  {
+   "cn": "严格卡农",
+   "en": "strict canon",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "严格对位",
+   "en": "strict counterpoint",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "严格合意树（=严格一致树）",
+   "en": "strict consensus tree",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "严格一致树，严格合意树",
+   "en": "strict consensus tree",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "顺从性",
+   "en": "compliance",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "依从,顺从",
+   "en": "compliance\",\"susmission",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "剪切柔量",
+   "en": "shear compliance",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "储能柔量",
+   "en": "storage compliance",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "诱导依从,诱导顺从",
+   "en": "induced compliance",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "蠕变柔量",
+   "en": "creep compliance",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "柔度不变量",
+   "en": "compliance invariant",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "蠕变柔量",
+   "en": "creep compliance",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "位流符合性，比特流符合性",
+   "en": "bitstream compliance",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "稳态柔量",
+   "en": "steady-state compliance",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "正轴柔度",
+   "en": "on-axis compliance",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "偏轴柔度",
+   "en": "off-axis compliance",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "弹性顺服常量",
+   "en": "elastic compliance constant",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "合格证书",
+   "en": "document of compliance",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "层合板耦合柔度",
+   "en": "coupling compliance of laminate",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "层合板弯曲柔度",
+   "en": "bending compliance of laminate",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "分区严格隔离",
+   "en": "strict quarantine",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "严控境外疫情输入",
+   "en": "strict control of imported infection ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "合规风险",
+   "en": "compliance risk",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "静态柔顺性",
+   "en": "static compliance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据合规",
+   "en": "data compliance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "全面从严治党",
+   "en": "ensuring full and strict governance over the Party",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "“三严三实,，专题教育",
+   "en": "the Special Education Program of the “Three Stricts and Three Earnests” (three guidelines for ethical behaviour and three basic rules of conduct)",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "乐天知命",
+   "en": "Rejoice in Complying with Heaven and Know Its Mandate",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "顺天应人",
+   "en": "Follow the Mandate of Heaven and Comply with the Wishes of the People",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "CT影像",
+   "en": "computed tomography imaging",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.1-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第1部分：公用的语法规则》",
+   "en": "GB/T 14805.1-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 1: Syntax rules common to all parts",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.2-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第2部分：批式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.2-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 2: Syntax rules specific to batch EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.3-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第3部分：交互式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.3-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 3: Syntax rules specific to interactive EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.7-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第7部分：批式电子数据交换安全规则（保密性）》",
+   "en": "GB/T 14805.7-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 7: Security rules for batch EDI (Confidentiality)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.6-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第6部分：安全鉴别和确认报文（报文类型为AUTACK）》",
+   "en": "GB/T 14805.6-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 6: Secure authentication and acknowledgment  message (Message type — AUTACK)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.4-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第4部分：批式电子数据交换语法和服务报告报文（报文类型为CONTRL）》",
+   "en": "GB/T 14805.4-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 4: Syntax and service report message for batch EDI (Message type — CONTRL)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.5-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第5部分：批式电子数据交换安全规则（真实性、完整性和源抗抵赖性）》",
+   "en": "GB/T 14805.5-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 5: Security rules for batch EDI (Authenticity, integrity and non-repudiation of origin)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "一组",
+   "en": "string",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "依从",
+   "en": "compliance",
+   "source": "社会学名词",
+   "wordNumber": "4.1.16.5",
+   "subjectFullName": "社会学名词_跨学科社会学社会心理学",
+   "subjectName": "跨学科社会学社会心理学",
+   "publishYear": "2025",
+   "definition": "人们为了获得奖励或避免惩罚而采取的与他人要求在表面上相一致的行为，或者说，依从行为并非出于自愿，而是迫于外界强制性的压力而采取的一时性的行为。"
+  },
+  {
+   "cn": "合格评定",
+   "en": "compliance testing",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.25",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "对于食品销售和流通过程中怀疑不符合特定法规和准则的特定样品的检验过程。"
+  },
+  {
+   "cn": "遵医行为",
+   "en": "medical compliance",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.042",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "患者按照医嘱接受医学检查、治疗、康复和预防疾病的行为。"
+  },
+  {
+   "cn": "遵医行为",
+   "en": "medical compliance behavior",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.1.1.7",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "在已知自己患病后，积极配合医生、服从治疗的行为。"
+  },
+  {
+   "cn": "符合性声明",
+   "en": "declaration of compliance",
+   "source": "食品卫生学名词",
+   "wordNumber": "7.1.71",
+   "subjectFullName": "食品卫生学_食品相关产品_食品接触材料及制品",
+   "subjectName": "食品接触材料及制品",
+   "publishYear": "2025",
+   "definition": "包括产品名称、材质、遵循的食品安全国家标准代号和顺序号、有限制性要求的物质名单及其限制性要求。"
+  },
+  {
+   "cn": "全面从严治党",
+   "en": "exercise full and strict governance over the Party",
+   "source": "马克思主义",
+   "wordNumber": "03.0794",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "“四个全面”战略布局的组成部分。习近平指出：全面从严治党，核心是加强党的领导，基础在全面，关键在严，要害在治。“全面”就是管全党、治全党，不仅要覆盖全体党员、所有党组织，更要覆盖党的建设的各个领域、各"
+  },
+  {
+   "cn": "三严三实专题教育",
+   "en": "special subject education of Three stricts and three realities",
+   "source": "马克思主义",
+   "wordNumber": "04.0278",
+   "subjectFullName": "马克思主义_其他部分_重要事件_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "按照党中央关于在县处级以上领导干部中开展“三严三实”专题教育的部署，中共中央政治局于12月28日至29日召开专题民主生活会，围绕中央政治局带头践行严以修身、严以用权、严以律己、谋事要实、创业要实、做人"
+  },
+  {
+   "cn": "未遵医嘱使用减肥药物",
+   "en": "non-compliance with prescribed weight loss medication",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.6.3",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "超出医疗范围、自行服用减肥药物的行为。"
+  },
+  {
+   "cn": "遵守医院规定义务",
+   "en": "obligation to comply with hospital regulation",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.0360000000000005",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "患者在就医过程中，应当遵守国家法律法规、医院管理制度，维护医疗工作秩序和医疗活动正常进行的责任。"
+  },
+  {
+   "cn": "CT值",
+   "en": "CT number，CT value",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.60",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "物质的衰减系数与水的衰减系数之差再与水的衰减系数相比之后乘以1000所得的量。单位是Hu。其不是一个绝对值，而是一个相对值，代表X射线穿过组织被吸收后的衰减值。"
+  },
+  {
+   "cn": "CT剂量指数",
+   "en": "CT dose index",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.61",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "在X射线计算机体层成像时对辐射输出剂量的一种标准化度量，用于向受检者提供剂量指示。基本CTDI表示为CTDI100，是以计算机体层成像扫描仪单次轴向采集100mm而赋予标准模体中心的平均吸收剂量值来表"
+  },
+  {
+   "cn": "γ射线工业CT设备",
+   "en": "gamma-ray industrial computed tomography equipments",
+   "source": "放射卫生学",
+   "wordNumber": "8.2.5",
+   "subjectFullName": "放射卫生学_放射卫生监管_工业及其他应用监管",
+   "subjectName": "工业及其他应用监管",
+   "publishYear": "2025",
+   "definition": "用γ射线对工件进行断层扫描成像的设备，包括CT扫描装置、数据采集与处理系统、操作台等。"
+  },
+  {
+   "cn": "容积CT剂量指数",
+   "en": "volume CT dosimetry index，CTDIvol",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.69",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "CT扫描中整个扫描范围内的平均剂量。"
+  },
+  {
+   "cn": "CT模拟定位机",
+   "en": "CT simulator",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.17",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "一种配备了放疗模拟所需装置和功能的大孔径计算机体层成像扫描仪，包括平板床、外置激光定位灯、放疗定位虚拟模拟软件等。"
+  },
+  {
+   "cn": "集体消费理论 collective consumption",
+   "en": null,
+   "source": "社会学名词",
+   "wordNumber": "3.4.5.5",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_政治经济学学派",
+   "subjectName": "政治经济学学派",
+   "publishYear": "2025",
+   "definition": "发达资本主义阶段的社会矛盾表现为城市集体消费方式问题的理论。由马克思主义城市社会学家凯斯特思(Manuel Castells）提出，认为发达资本主义阶段的社会矛盾主要是包括住房、教育、医疗、教育、文化"
+  },
+  {
+   "cn": "科马克和豪斯菲尔德发明CT技术",
+   "en": "Allan Cormack and Godfrey Hounsfield invented CT technology",
+   "source": "放射卫生学",
+   "wordNumber": "10.2.1.5",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_历史事件_重要发现与发明",
+   "subjectName": "重要发现与发明",
+   "publishYear": "2025",
+   "definition": "1967年美国籍物理学家科马克（Allan Cormack）解决了CT重建相关的数学问题。1972年豪斯菲尔德（Godfrey Hounsfield）在英国EMI实验室发明了CT扫描仪。"
+  },
+  {
+   "cn": "净人口再生产率net reproductive rate",
+   "en": null,
+   "source": "社会学名词",
+   "wordNumber": "4.5.5.4",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_人口再生产",
+   "subjectName": "人口再生产",
+   "publishYear": "2025",
+   "definition": "假设妇女从出生起就遵循当前的年龄别生育率和死亡率度过她们的一生，平均要生育的女儿数。它与粗人口再生产率有些类似，但它考虑到有些妇女可能在结束育龄期之前死亡。如果净再生产率等于1，那么就意味着每一个母亲"
+  },
+  {
+   "cn": "街道办事处",
+   "en": "street office，sub-district office",
+   "source": "社会学名词",
+   "wordNumber": "4.4.8.24",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的方法模式",
+   "subjectName": "社会工作的方法模式",
+   "publishYear": "2025",
+   "definition": "市辖区、不设区的市的人民政府设立的派出机关，是城市地区的基层行政组织。一般由主任、副主任主持工作，主要是办理市辖区、不设区的市人民政府交办的有关居民的事项，指导居民委员会的工作，反映居民的意见和要求。"
+  },
+  {
+   "cn": "罢工",
+   "en": "strike",
+   "source": "马克思主义",
+   "wordNumber": "04.0037",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "工人们为达到某种要求而同时集体停止工作的一种联合行动。在资本主义国家里，罢工是无产阶级为反对资产阶级的经济剥削和政治压迫而经常采取的一种斗争形式。根据斗争目标和性质，分为经济罢工、政治罢工、总罢工等。"
+  },
+  {
+   "cn": "契丹文",
+   "en": "Qidan script; Khitan script",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0372",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族文字",
+   "subjectName": "少数民族文字",
+   "publishYear": "2025",
+   "definition": "辽代为记录契丹语而参照汉字创制的文字。分大字和小字两种，大字创制于公元920 年，稍晚又创制了小字。一般认为大字是一种表意方块字，小字是一种拼音文字。利用汉字笔画形体创制出300 多个原字，行文自上而"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

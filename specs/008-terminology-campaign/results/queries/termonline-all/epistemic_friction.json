@@ -1,0 +1,772 @@
+{
+ "key": "epistemic friction",
+ "term": "epistemic friction",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T04:24:52+00:00",
+ "status": "ok",
+ "note": "variant=epistemic friction; 审定公布名词库=2677; 海峡两岸名词对照库=495; 其他来源数据库=104; 预公布名词数据库=87; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "认识相对性",
+   "en": "epistemic relativity",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.013",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "认为知识仅相对于某一特定语境、社群、文化或个体才有效。"
+  },
+  {
+   "cn": "认知最佳",
+   "en": "epistemic optimality",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.648",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "心灵哲学中一种用来解决信息与内容之间错误表征问题的观点。认为当且仅当一个被表征事物存在一个认知最优条件，且这些条件被满足时，获得的信息就正确地表征了事物的内容。"
+  },
+  {
+   "cn": "认识主体",
+   "en": "epistemic subject",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.013",
+   "subjectFullName": "自然辩证法_科学技术方法论_方法与工具",
+   "subjectName": "方法与工具",
+   "publishYear": "2024",
+   "definition": "与认识客体构成某种实践关系和认识关系的个人（科学家）或群体（科学共同体）。与“认识客体”相对。"
+  },
+  {
+   "cn": "认识客体",
+   "en": "epistemic object",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.014",
+   "subjectFullName": "自然辩证法_科学技术方法论_方法与工具",
+   "subjectName": "方法与工具",
+   "publishYear": "2024",
+   "definition": "自然界中进入主体的特定认识领域中的物质系统，是认识主体所要理解和认识的对象。与“认识主体”相对。"
+  },
+  {
+   "cn": "认识工具",
+   "en": "epistemic implement",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.018",
+   "subjectFullName": "自然辩证法_科学技术方法论_方法与工具",
+   "subjectName": "方法与工具",
+   "publishYear": "2024",
+   "definition": "认识活动借以展开的方法、仪器及概念框架等。"
+  },
+  {
+   "cn": "认识论暴力",
+   "en": "epistemic violence",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "18.014",
+   "subjectFullName": "新闻学与传播学_传播政治经济研究_方法论_核心理论与议题",
+   "subjectName": "核心理论与议题",
+   "publishYear": "2022",
+   "definition": "帝国主义以科学、普遍真理和宗教救赎等话语对殖民地文化进行排斥、贬低和重新塑造的行为。一方面，将帝国主义对前殖民地的政治和军事占领合法化，另一方面，剥夺了殖民地人民的文化主体性、迫使其处于依附状态。这一"
+  },
+  {
+   "cn": "认知逻辑",
+   "en": "epistemic logic",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0012",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "泛指刻画“知道”“相信”等认知概念的逻辑系统。"
+  },
+  {
+   "cn": "认知的不确定性",
+   "en": "epistemic uncer-tainty",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1982",
+   "subjectFullName": "地球物理学_地震科学_地震和社会",
+   "subjectName": "地震和社会",
+   "publishYear": "2022",
+   "definition": "在地震危险性分析中，由于对模型参量的知识不完全和所采用的方法的局限性引起的不确定性。可以通过改进模拟方法和分析方法减小认知的不确定性。 "
+  },
+  {
+   "cn": "传染型余震序列模型",
+   "en": "epistemic type aftershock sequence; ETAS",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2217",
+   "subjectFullName": "地球物理学_地震科学_地震和社会",
+   "subjectName": "地震和社会",
+   "publishYear": "2022",
+   "definition": "将自相似思想引入大森 -宇津公式，假定任何一次地震均产生自己的高阶余震，利用条件强度函数建立的余震发生模型。 "
+  },
+  {
+   "cn": "摩擦",
+   "en": "friction",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1588",
+   "subjectFullName": "地球物理学_地震科学_震源",
+   "subjectName": "震源",
+   "publishYear": "2022",
+   "definition": "当一物体与另一物体沿接触面的切线方向运动或有相对运动的趋势时，在两物体的接触面之间发生的阻碍它们相对运动的作用力的现象。 "
+  },
+  {
+   "cn": "摩擦",
+   "en": "friction",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "05.0114",
+   "subjectFullName": "机械工程（一）_机械表面与界面_摩擦学_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "阻止两物体接触表面发生切向相互滑动或滚动的现象。"
+  },
+  {
+   "cn": "摩擦",
+   "en": "friction",
+   "source": "物理学名词",
+   "wordNumber": "02.0227",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "摩擦",
+   "en": "friction",
+   "source": "土木工程名词",
+   "wordNumber": "02.017",
+   "subjectFullName": "土木工程_工程力学_理论力学",
+   "subjectName": "理论力学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "摩擦",
+   "en": "friction",
+   "source": "水利科学技术名词",
+   "wordNumber": "04.010",
+   "subjectFullName": "水利科学技术_工程力学、工程结构、建筑材料_工程力学（水利）",
+   "subjectName": "工程力学（水利）",
+   "publishYear": "1997",
+   "definition": "相互接触的两个物体有相对运动或相对运动的趋势时，在接触界面上出现阻碍相对运动的现象。"
+  },
+  {
+   "cn": "擦胶",
+   "en": "frictioning",
+   "source": "化工名词（七）高分子化工",
+   "wordNumber": "3.0726",
+   "subjectFullName": "化工（七）_合成橡胶_合成橡胶的加工及改性",
+   "subjectName": "合成橡胶的加工及改性",
+   "publishYear": "2022",
+   "definition": "在压延机上通过剪切作用将橡胶涂层涂覆到纺织物上，从而使涂覆材料渗透纺织物的过程。"
+  },
+  {
+   "cn": "壁剪应力",
+   "en": "skin friction,frictional drag",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_流体力学",
+   "subjectName": "流体力学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "转动摩擦",
+   "en": "pivoting friction,spin friction",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "05.0159",
+   "subjectFullName": "机械工程（一）_机械表面与界面_摩擦学_摩擦",
+   "subjectName": "摩擦",
+   "publishYear": "2021",
+   "definition": "两构件在接触区的公法线附近阻碍相对转动的摩擦。"
+  },
+  {
+   "cn": "动[态]摩擦",
+   "en": "dynamic friction; kinetic friction",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1579",
+   "subjectFullName": "地球物理学_地震科学_震源",
+   "subjectName": "震源",
+   "publishYear": "2022",
+   "definition": "彼此接触的两个物体相对运动时发生的、阻碍它们相对运动的现象。 "
+  },
+  {
+   "cn": "摩擦法",
+   "en": "friction,rubbing",
+   "source": "医学名词 第七分册",
+   "wordNumber": "04.0210",
+   "subjectFullName": "医学_物理医学与康复[学]",
+   "subjectName": "物理医学与康复[学]",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "摩擦桩",
+   "en": "friction pile",
+   "source": "地质学名词",
+   "wordNumber": "17.04.246",
+   "subjectFullName": "地质学_工程地质学_工程地质勘察与施工",
+   "subjectName": "工程地质勘察与施工",
+   "publishYear": "2026",
+   "definition": "建筑物载荷主要由靠桩自身侧面与周围土体间的摩擦力支撑的桩基础。"
+  },
+  {
+   "cn": "摩擦",
+   "en": "friction",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "摩擦阻力",
+   "en": "frictional resistance\",\"friction drag",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "摩擦层",
+   "en": "friction layer",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "摩擦水头",
+   "en": "friction head",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "摩擦速度",
+   "en": "friction velocity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "摩擦损失",
+   "en": "friction loss",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "瑞利摩擦",
+   "en": "Rayleigh friction",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "壁剪应力",
+   "en": "skin friction",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "摩擦试验",
+   "en": "friction test",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "摩擦损失",
+   "en": "friction loss",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "流体摩擦",
+   "en": "fluid friction",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "摩擦分离器",
+   "en": "friction separator",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "摩擦腐蚀",
+   "en": "friction corrosion",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "管路摩擦",
+   "en": "pipe friction",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "内耗",
+   "en": "internal friction",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "摩擦接头",
+   "en": "friction coupling",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "静摩擦",
+   "en": "static friction",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "摩擦压头",
+   "en": "friction head",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "摩擦系数",
+   "en": "friction coefficient",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "滑动摩擦",
+   "en": "slip friction",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "摩擦",
+   "en": "friction",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_游泳名词",
+   "subjectName": "游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "CT影像",
+   "en": "computed tomography imaging",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.1-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第1部分：公用的语法规则》",
+   "en": "GB/T 14805.1-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 1: Syntax rules common to all parts",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.2-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第2部分：批式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.2-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 2: Syntax rules specific to batch EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.3-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第3部分：交互式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.3-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 3: Syntax rules specific to interactive EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.7-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第7部分：批式电子数据交换安全规则（保密性）》",
+   "en": "GB/T 14805.7-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 7: Security rules for batch EDI (Confidentiality)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.6-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第6部分：安全鉴别和确认报文（报文类型为AUTACK）》",
+   "en": "GB/T 14805.6-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 6: Secure authentication and acknowledgment  message (Message type — AUTACK)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.4-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第4部分：批式电子数据交换语法和服务报告报文（报文类型为CONTRL）》",
+   "en": "GB/T 14805.4-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 4: Syntax and service report message for batch EDI (Message type — CONTRL)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.5-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第5部分：批式电子数据交换安全规则（真实性、完整性和源抗抵赖性）》",
+   "en": "GB/T 14805.5-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 5: Security rules for batch EDI (Authenticity, integrity and non-repudiation of origin)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "疫情监测",
+   "en": "epidemic monitoring",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "疫情峰值",
+   "en": "epidemic peak",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_百姓生活",
+   "subjectName": "百姓生活",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "疫情",
+   "en": "epidemic; outbreak",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "小说",
+   "en": "Fiction",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "法律拟制",
+   "en": "legal fiction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "出入境防疫",
+   "en": "epidemic prevention at borders",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "疫情防控",
+   "en": "epidemic prevention and control ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "关节摩擦感",
+   "en": "joint friction feeling",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.3.3.6",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_体征",
+   "subjectName": "体征",
+   "publishYear": "2025",
+   "definition": "关节活动时触及粗糙的摩擦感，骨关节炎的体征之一，以膝关节多见。"
+  },
+  {
+   "cn": "胸膜摩擦音",
+   "en": "pleural friction rub",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.3.5.7",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_体征",
+   "subjectName": "体征",
+   "publishYear": "2025",
+   "definition": "当胸膜面由于炎症而变得粗糙时，随着呼吸便可出现脏胸膜和壁胸膜间的摩擦声。"
+  },
+  {
+   "cn": "胸膜摩擦感",
+   "en": "pleural friction feeling",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.3.5.8",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_体征",
+   "subjectName": "体征",
+   "publishYear": "2025",
+   "definition": "胸膜炎症时，渗出的纤维蛋白于脏、壁层胸膜沉积，使胸膜表面粗糙，呼吸时两层胸膜相互摩擦，触诊时可有皮革摩擦的感觉。该体征在患侧的腋中线、腋下部最为清晰。"
+  },
+  {
+   "cn": "心包摩擦音",
+   "en": "pericardial friction sound",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.3.5.9",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_体征",
+   "subjectName": "体征",
+   "publishYear": "2025",
+   "definition": "壁层与脏层心包由于生物性或理化因素致纤维蛋白沉积而粗糙，在心脏搏动时相互摩擦产生的声音，呈抓刮样、粗糙的高频声音。在心前区或胸骨左缘第3、4肋间最响亮，坐位前倾及呼气末更明显。"
+  },
+  {
+   "cn": "摩擦成本法",
+   "en": "friction cost method",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.2.6.2",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_疾病负担及疾病经济负担",
+   "subjectName": "疾病负担及疾病经济负担",
+   "publishYear": "2025",
+   "definition": "估计由于患者生病离开岗位到其他人完全能胜任该项工作这一过程中所产生的社会损失来测算间接经济负担的方法。"
+  },
+  {
+   "cn": "摩擦成本法",
+   "en": "friction cost method",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.14.6",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "通过计算摩擦期（即从误工到此员工职位被取代的时期）的生产损失的价值来估计间接成本的一种方法。"
+  },
+  {
+   "cn": "CT值",
+   "en": "CT number，CT value",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.60",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "物质的衰减系数与水的衰减系数之差再与水的衰减系数相比之后乘以1000所得的量。单位是Hu。其不是一个绝对值，而是一个相对值，代表X射线穿过组织被吸收后的衰减值。"
+  },
+  {
+   "cn": "CT剂量指数",
+   "en": "CT dose index",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.61",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "在X射线计算机体层成像时对辐射输出剂量的一种标准化度量，用于向受检者提供剂量指示。基本CTDI表示为CTDI100，是以计算机体层成像扫描仪单次轴向采集100mm而赋予标准模体中心的平均吸收剂量值来表"
+  },
+  {
+   "cn": "γ射线工业CT设备",
+   "en": "gamma-ray industrial computed tomography equipments",
+   "source": "放射卫生学",
+   "wordNumber": "8.2.5",
+   "subjectFullName": "放射卫生学_放射卫生监管_工业及其他应用监管",
+   "subjectName": "工业及其他应用监管",
+   "publishYear": "2025",
+   "definition": "用γ射线对工件进行断层扫描成像的设备，包括CT扫描装置、数据采集与处理系统、操作台等。"
+  },
+  {
+   "cn": "容积CT剂量指数",
+   "en": "volume CT dosimetry index，CTDIvol",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.69",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "CT扫描中整个扫描范围内的平均剂量。"
+  },
+  {
+   "cn": "CT模拟定位机",
+   "en": "CT simulator",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.17",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "一种配备了放疗模拟所需装置和功能的大孔径计算机体层成像扫描仪，包括平板床、外置激光定位灯、放疗定位虚拟模拟软件等。"
+  },
+  {
+   "cn": "集体消费理论 collective consumption",
+   "en": null,
+   "source": "社会学名词",
+   "wordNumber": "3.4.5.5",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_政治经济学学派",
+   "subjectName": "政治经济学学派",
+   "publishYear": "2025",
+   "definition": "发达资本主义阶段的社会矛盾表现为城市集体消费方式问题的理论。由马克思主义城市社会学家凯斯特思(Manuel Castells）提出，认为发达资本主义阶段的社会矛盾主要是包括住房、教育、医疗、教育、文化"
+  },
+  {
+   "cn": "科马克和豪斯菲尔德发明CT技术",
+   "en": "Allan Cormack and Godfrey Hounsfield invented CT technology",
+   "source": "放射卫生学",
+   "wordNumber": "10.2.1.5",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_历史事件_重要发现与发明",
+   "subjectName": "重要发现与发明",
+   "publishYear": "2025",
+   "definition": "1967年美国籍物理学家科马克（Allan Cormack）解决了CT重建相关的数学问题。1972年豪斯菲尔德（Godfrey Hounsfield）在英国EMI实验室发明了CT扫描仪。"
+  },
+  {
+   "cn": "净人口再生产率net reproductive rate",
+   "en": null,
+   "source": "社会学名词",
+   "wordNumber": "4.5.5.4",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_人口再生产",
+   "subjectName": "人口再生产",
+   "publishYear": "2025",
+   "definition": "假设妇女从出生起就遵循当前的年龄别生育率和死亡率度过她们的一生，平均要生育的女儿数。它与粗人口再生产率有些类似，但它考虑到有些妇女可能在结束育龄期之前死亡。如果净再生产率等于1，那么就意味着每一个母亲"
+  },
+  {
+   "cn": "疫情",
+   "en": "epidemic",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.002",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "由致病性生物因子如细菌、病毒等引起的传染性疾病及其发生和蔓延发展的情况。"
+  },
+  {
+   "cn": "疫区",
+   "en": "epidemic area",
+   "source": "军事预防医学名词",
+   "wordNumber": "9.5.2.2",
+   "subjectFullName": "军事预防医学_生物武器医学防护学_生物战剂袭击应急处置",
+   "subjectName": "生物战剂袭击应急处置",
+   "publishYear": "2025",
+   "definition": "遭受生物战剂袭击区域出现病例后，经过评估划分需要实施管控的病例所在区域。"
+  },
+  {
+   "cn": "疫情发布",
+   "en": "epidemic information release",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.019",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "由疫情发生地及以上人民政府或政府委托的相关部门依法按规定进行及时、准确、客观、全面的疫情信息公开的工作。"
+  },
+  {
+   "cn": "疫情预警",
+   "en": "epidemic outbreak alert",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.02",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "在传染病或突发公共卫生事件发生之前，根据以往总结的规律或监测到的可能风险，向相关部门发出紧急信号，报告危险情况，以避免危害在不知情或者准备不足的情况下发生，从而最大限度降低危害所造成的损失的行为。"
+  },
+  {
+   "cn": "疫情报告",
+   "en": "epidemic situation report",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.017999999999999",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "依据法律法规，在发现法定传染病患者或疑似传染病患者时，遵循属地管理原则，按照国家或卫生行政部门规定的内容、程序、方式和时限进行报告的行为和制度。"
+  },
+  {
+   "cn": "存活分数",
+   "en": "survival fraction",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.4.8",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "某一剂量照射后存活的细胞数占未照射时细胞数的份额。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

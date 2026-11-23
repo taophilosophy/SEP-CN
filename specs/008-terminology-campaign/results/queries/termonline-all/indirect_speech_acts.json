@@ -1,0 +1,772 @@
+{
+ "key": "indirect speech acts",
+ "term": "indirect speech acts",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T04:21:05+00:00",
+ "status": "ok",
+ "note": "variant=indirect speech acts; 审定公布名词库=2568; 海峡两岸名词对照库=624; 其他来源数据库=123; 预公布名词数据库=91; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "间接言语行为",
+   "en": "indirect speech act",
+   "source": "语言学名词",
+   "wordNumber": "12.117",
+   "subjectFullName": "语言学_社会语言学_言语交际",
+   "subjectName": "言语交际",
+   "publishYear": "2011",
+   "definition": "话语不直接反映说话人意图的言语行动。例如，用“我觉得冷”（陈述语句）表达要求别人关上门。此类话语具有言外力（illocutionary force），即要使某一言语行动得以实现的话语之外的力。"
+  },
+  {
+   "cn": "言语行为",
+   "en": "speech act",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.043",
+   "subjectFullName": "新闻学与传播学_传播总论_传播研究基础",
+   "subjectName": "传播研究基础",
+   "publishYear": "2022",
+   "definition": "通过说话而完成的语言活动。由英国哲学家约翰·奥斯汀(John L.Austin)在20世纪50年代提出。他认为我们的话语除了记述话语外，还存在施行话语。语言表达除了简单陈述的功能，还具有实施某种行为的"
+  },
+  {
+   "cn": "言语行为",
+   "en": "speech act",
+   "source": "语言学名词",
+   "wordNumber": "12.116",
+   "subjectFullName": "语言学_社会语言学_言语交际",
+   "subjectName": "言语交际",
+   "publishYear": "2011",
+   "definition": "言有所为的话语。由话语的功能而不是话语的结构界定的言语行动。例如，“我宣布某某运动会现在开幕”，“我命名本船为某某号”，此类话语具有执行力（performative force）, 相当于为运动会开始"
+  },
+  {
+   "cn": "口语行为论",
+   "en": "speech act theory",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "8.106",
+   "subjectFullName": "新闻学与传播学_人际沟通_人际沟通模式与理论",
+   "subjectName": "人际沟通模式与理论",
+   "publishYear": "2022",
+   "definition": "人际沟通研究对口语交流机制的一种理论表述。由美国哲学学者约翰·瑟尔(John R.Searle)提出。口语行为是用来表达一定意义和意图的最基本语言单位。沟通者双方必须知晓并遵循支配社会—口语话语的规则"
+  },
+  {
+   "cn": "言语行为理论",
+   "en": "speech act theory",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0557",
+   "subjectFullName": "计算机科学技术_人工智能_计算语言学",
+   "subjectName": "计算语言学",
+   "publishYear": "2018",
+   "definition": "一种语用学理论，研究说话者如何通过言语实现某种目的。如奥斯汀（J.L.Austin）把言语分为述谓句和行为句，前者指称事实而后者表达行为。他提出了以言表意、以言行事和以言取效三种言语行为方式。舍尔（S"
+  },
+  {
+   "cn": "间接诱变剂",
+   "en": "indirect-acting mutagen",
+   "source": "药学名词",
+   "wordNumber": "07.288",
+   "subjectFullName": "药学_药理学",
+   "subjectName": "药理学",
+   "publishYear": "2014",
+   "definition": "必须经过代谢活化才具有致突变作用的化学物质。"
+  },
+  {
+   "cn": "间接作用控制器",
+   "en": "indirect acting controller",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "24.0623",
+   "subjectFullName": "机械工程_动力机械_内燃机_监控系统",
+   "subjectName": "监控系统",
+   "publishYear": "2013",
+   "definition": "从单独能源获得使纠正元件工作所需作用力的控制器。如气动恒温阀、液压调速器等。"
+  },
+  {
+   "cn": "间接作用[动作]仪表",
+   "en": "indirect acting instrument",
+   "source": "机械工程名词 第三分册",
+   "wordNumber": "03.056",
+   "subjectFullName": "机械工程_仪器仪表_电测量仪器仪表_电测量器具和设备",
+   "subjectName": "电测量器具和设备",
+   "publishYear": "2003",
+   "definition": "指示或记录机构是由电动机或其他器件驱动的仪表。该电动机或其他驱动器件以电－机械、电(动)或电子方式，由被测的量控制。"
+  },
+  {
+   "cn": "间接动作记录仪",
+   "en": "indirect acting recorder",
+   "source": "机械工程名词 第三分册",
+   "wordNumber": "03.096",
+   "subjectFullName": "机械工程_仪器仪表_电测量仪器仪表_记录仪器、光线示波器",
+   "subjectName": "记录仪器、光线示波器",
+   "publishYear": "2003",
+   "definition": "由被测量(用机电或电子方式)控制电机或其他机械以驱动记录装置的记录仪器。"
+  },
+  {
+   "cn": "间接作用式仪表",
+   "en": "indirect acting instrument",
+   "source": "电气工程名词",
+   "wordNumber": "26.030",
+   "subjectFullName": "电气工程_电磁测量和电离辐射测量",
+   "subjectName": "电磁测量和电离辐射测量",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "口语",
+   "en": "speech",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.041",
+   "subjectFullName": "新闻学与传播学_传播总论_传播研究基础",
+   "subjectName": "传播研究基础",
+   "publishYear": "2022",
+   "definition": "用口头语言或语音表达形式对他人讲话的过程，如讲演等。"
+  },
+  {
+   "cn": "言语",
+   "en": "speech",
+   "source": "行为医学名词",
+   "wordNumber": "4.043",
+   "subjectFullName": "行为医学_行为的心理学基础_认知与行为",
+   "subjectName": "认知与行为",
+   "publishYear": "2022",
+   "definition": "运用语言表达思想、进行沟通交流的过程。和语言互相联系，密不可分。"
+  },
+  {
+   "cn": "言语",
+   "en": "speech",
+   "source": "物理医学与康复名词",
+   "wordNumber": "02.129",
+   "subjectFullName": "物理医学与康复_康复功能评定_言语障碍评定",
+   "subjectName": "言语障碍评定",
+   "publishYear": "2014",
+   "definition": "人们掌握和使用语言的活动。具有交流功能、符号功能和概括功能。"
+  },
+  {
+   "cn": "口语",
+   "en": "speech",
+   "source": "语言学名词",
+   "wordNumber": "01.113",
+   "subjectFullName": "语言学_理论语言学_核心术语",
+   "subjectName": "核心术语",
+   "publishYear": "2011",
+   "definition": "语言凭口、耳进行交际的口头形式。对口语有两种不同的理解，一种是语音学的观点：口语是语言传输的媒介，即语言的口头媒介或语音实体（与“书写媒介”相对）。另一种是语言学的观点：口语是一种外化的语言行为，可以"
+  },
+  {
+   "cn": "语音",
+   "en": "speech",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.411",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "以给定自然语言所讲的话音模式，或模拟这种模式的声学信号。"
+  },
+  {
+   "cn": "动作",
+   "en": "act",
+   "source": "心理学名词",
+   "wordNumber": "02.697",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "个体在一定动机和目的驱动下对相应客体做出的系列运动。"
+  },
+  {
+   "cn": "持续言语",
+   "en": "perseveration speech,perseverative speech",
+   "source": "精神医学名词",
+   "wordNumber": "02.088",
+   "subjectFullName": "精神医学_症状与体征_思维障碍症状",
+   "subjectName": "思维障碍症状",
+   "publishYear": "2019",
+   "definition": "思维联系途径出现异常的一种思维形式障碍。表现为受检者的思维在某一概念上停滞不前，或保持持续动作的一种精神病理状态。例如，问受检者不同问题时，总是回答同一答句；让受检者绘画时，总是画同一图形。主要见于脑"
+  },
+  {
+   "cn": "间接作用",
+   "en": "indirect effect,indirect  action",
+   "source": "核医学名词",
+   "wordNumber": "02.0396",
+   "subjectFullName": "核医学_核医学相关基础学科_辐射损伤与放射生物学",
+   "subjectName": "辐射损伤与放射生物学",
+   "publishYear": "2018",
+   "definition": "射线通过与细胞中的非靶原子或分子(特别是水分子)作用，产生自由基，后者可以扩散一定距离达到并造成靶分子损伤的过程。如射线作用于生物大分子周围环境，通过各种自由基等间接途径造成DNA结构损伤。"
+  },
+  {
+   "cn": "暴发性言语",
+   "en": "explosive speech",
+   "source": "神经外科学名词",
+   "wordNumber": "4.057",
+   "subjectFullName": "医学_神经外科学_神经系统疾病临床特征_体征",
+   "subjectName": "体征",
+   "publishYear": "2026",
+   "definition": "言语显著拖长，有不均匀的音强，因而时常呈暴发性，患者的语音强度时而极低，时而突然极高，并急速发出一连串音节或词句的病理性体征。常见于双相障碍躁狂期。"
+  },
+  {
+   "cn": "言语障碍",
+   "en": "speech disorder",
+   "source": "神经外科学名词",
+   "wordNumber": "4.065",
+   "subjectFullName": "医学_神经外科学_神经系统疾病临床特征_体征",
+   "subjectName": "体征",
+   "publishYear": "2026",
+   "definition": "患者的语言表达能力出现的问题。可以表现为语音障碍、语言障碍和沟通障碍。"
+  },
+  {
+   "cn": "言语活动",
+   "en": "speech act",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "言语行为理论",
+   "en": "speech act theory",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "间接诱变物",
+   "en": "indirect acting mutagens",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "间接致癌物",
+   "en": "indirect acting carcinogens",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "言语",
+   "en": "speech",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "言语",
+   "en": "speech",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "行动",
+   "en": "act",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "内部言语",
+   "en": "internal speech\",\"inner speech",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "言语可懂度",
+   "en": "speech intelligibility",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "言语生成",
+   "en": "speech production",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "电报式言语",
+   "en": "telegraphic speech",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "言语清晰度",
+   "en": "speech articulation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自我中心言语",
+   "en": "egocentric speech",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "言语知觉",
+   "en": "speech perception",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "言语理解",
+   "en": "speech comprehension",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "有声语音",
+   "en": "voiced speech",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "语音",
+   "en": "speech sound",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "语音编码",
+   "en": "speech coding",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "语音处理",
+   "en": "speech processing",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "语音带宽",
+   "en": "speech bandwidth",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "间接连接",
+   "en": "indirect connection",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "诸宫调",
+   "en": "Song-speech Drama",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《隐私法案》（美国）",
+   "en": "Privacy Act (USA)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《1997年电信传输法》（澳大利亚）",
+   "en": "Telecommunications Act 1997 (Australia)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "JOBS法案",
+   "en": "Jumpstart Our Business Startups Act (JOBS Act)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自由",
+   "en": "Acting Freely / Freedom",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "间接任意球",
+   "en": "indirect free kick",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "间接的简单还击",
+   "en": "simple indirect riposte",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "深度语音识别技术",
+   "en": "deep speech recognition technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《数字保护法》（澳大利亚）",
+   "en": "Digital Protection Act (Australia)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《信息技术法》（印度）",
+   "en": "Information Technology Act (India)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《数据保护法》（英国）",
+   "en": "Data Protection Act (UK)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《2010年网络安全法案》（美国）",
+   "en": "Cybersecurity Act of 2010 (USA)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "音情顿挫",
+   "en": "Achieving Rhythm of Speech and Emotion and Cadence of Speech",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "击地传球",
+   "en": "bounce pass\",\"indirect pass",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "言有物，行有恒",
+   "en": "Talk Substance; Act with Perseverance",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "言语行为",
+   "en": "speech act",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0113",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "言有所为的话语。由话语的功能而不是话语的结构界定的言语行动。例如，“我宣布某某运动会现在开幕”“我命名本船为某某号”，此类话语具有执行力, 相当于为运动会开始、为新船下水采取的一个行动。"
+  },
+  {
+   "cn": "言语",
+   "en": "speech",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.15",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "运用语言表达思想、进行沟通交流的过程。和语言互相联系，密不可分。"
+  },
+  {
+   "cn": "口语",
+   "en": "speech",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0044",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "语言凭口、耳进行交际的口头形式。对口语有两种不同的理解，一种是语音学的观点：口语是语言传输的媒介，即语言的口头媒介或语音实体（与“书写媒介”相对）。另一种是语言学的观点：口语是一种外化的语言行为，可以"
+  },
+  {
+   "cn": "言语残疾",
+   "en": "speech disability",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "由于各种原因导致的不同程度的言语障碍，经治疗1年以上不愈或病程超过2年，而不能或难以进行正常的言语交往活动，以致影响其日常生活和社会参与（3岁以下不定残）。"
+  },
+  {
+   "cn": "言语发育迟滞",
+   "en": "speech retardation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.2.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "与某一言语功能或言语体系的正常标准相比，在语言的形成质量上处于低水平的言语发展落后状态。"
+  },
+  {
+   "cn": "言语事件",
+   "en": "speech event",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0115",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "在特定情景中发生的言语活动，如教室里的讲课、法庭上的审讯。是交际民族志考察和描写的单位。"
+  },
+  {
+   "cn": "言语群体",
+   "en": "speech group",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0085",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "通常指在同一地区说一种语言的同一变体的一群人。"
+  },
+  {
+   "cn": "言语岛",
+   "en": "speech island",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0136",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "被主要语言包围的另一种语言的使用地区。例如美国宾夕法尼亚州说德语的荷兰人的社区。"
+  },
+  {
+   "cn": "言语共同体",
+   "en": "speech community",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0084",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "在语言变项运用上持有共同的社会准则和相同的语言价值标准的群体。是社会语言学研究语言与社会的关系而采用的分析单位。"
+  },
+  {
+   "cn": "卖淫法",
+   "en": "prostitution act",
+   "source": "社会学名词",
+   "wordNumber": "3.3.4.3",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性法律",
+   "subjectName": "性法律",
+   "publishYear": "2025",
+   "definition": "有关卖淫行为的法律规定。在卖淫问题的立法上，世界上有三种不同的做法：卖淫非法化、卖淫合法化和卖淫非罪化。"
+  },
+  {
+   "cn": "行动",
+   "en": "the act",
+   "source": "马克思主义",
+   "wordNumber": "05.0091",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "齐泽克受拉康驱力思想的启发而形成的概念，指突破资本主义体制的激进行为，对资本主义现存的一切都说“不”，在现存体制下做不可能之事。"
+  },
+  {
+   "cn": "行为功利论",
+   "en": "act utilitarianism",
+   "source": "医学伦理学名词",
+   "wordNumber": "2.01",
+   "subjectFullName": "医学伦理学_医学伦理学的基本理论与基本观点",
+   "subjectName": "医学伦理学的基本理论与基本观点",
+   "publishYear": "2025",
+   "definition": "认为行为的道德价值、道德判断必须根据其特定条件下的个人行为的经验效果为标准，而不应以其是否符合某种道德准则为标准的理论。也就是说，某一行为是道德的，当且仅当该行为所产生的效用比任何其他行为能够获得更多"
+  },
+  {
+   "cn": "间接服务",
+   "en": "indirect service",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.15",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "以个人、家庭、小组、组织和社区以至更大的社会系统为关注对象，由社会工作者代表服务对象采取行动，通过介入服务对象以外的其他系统以实现间接帮助的服务行动。"
+  },
+  {
+   "cn": "间接成本",
+   "en": "indirect cost",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.3.1.5",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给成本",
+   "subjectName": "卫生服务供给成本",
+   "publishYear": "2025",
+   "definition": "为提供某医疗服务项目，但不能够直接追溯到各个成本对象的成本。"
+  },
+  {
+   "cn": "间接效益",
+   "en": "indirect benefit",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.5.1.2",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "实行某项干预措施后所增加的患者的健康时间或劳动生产力恢复带来的收益。"
+  },
+  {
+   "cn": "间接观察法",
+   "en": "indirect observation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.4.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习负荷评价",
+   "subjectName": "学习负荷评价",
+   "publishYear": "2025",
+   "definition": "除疲劳客观症状外，根据疲倦的感觉，设计问卷，用以评价、比较和分析学习负荷的方法。"
+  },
+  {
+   "cn": "间接致癌物",
+   "en": "indirect carcinogen",
+   "source": "军事预防医学名词",
+   "wordNumber": "16.1.5.1.2",
+   "subjectFullName": "军事预防医学_军事毒理学_军事毒理学基础",
+   "subjectName": "军事毒理学基础",
+   "publishYear": "2025",
+   "definition": "必须经过体内代谢活化才具有致癌作用的化学物。"
+  },
+  {
+   "cn": "赫鲁晓夫秘密报告",
+   "en": "Khrushchevs secret Speech",
+   "source": "马克思主义",
+   "wordNumber": "04.0248",
+   "subjectFullName": "马克思主义_其他部分_重要事件_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "赫鲁晓夫在1956年苏共二十大上所作的《关于个人迷信及其后果》的报告。1956年2月14—24日召开了苏共二十大。会上赫鲁晓夫当选苏共中央第一书记。24日大会闭幕。当天深夜，赫鲁晓夫突然通知全体代表再"
+  },
+  {
+   "cn": "言语残疾分类",
+   "en": "speech disability classification",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "根据构音、声音、语流等障碍或语言发育迟缓等对言语残疾类型的划分。"
+  },
+  {
+   "cn": "言语残疾分级",
+   "en": "speech disability grade",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "根据言语障碍的不同程度而划分的言语残疾等级。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

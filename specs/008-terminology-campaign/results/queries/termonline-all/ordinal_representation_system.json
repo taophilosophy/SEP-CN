@@ -1,0 +1,772 @@
+{
+ "key": "ordinal representation system",
+ "term": "ordinal representation system",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T04:22:19+00:00",
+ "status": "ok",
+ "note": "variant=ordinal representation system; 审定公布名词库=8563; 海峡两岸名词对照库=2568; 其他来源数据库=554; 预公布名词数据库=382; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "有序参照系",
+   "en": "ordinal reference system",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.747",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "由一组按时间顺序命名的间隔组成的时间参照系统。每个时间段的长度和起至时间可以是不定的。"
+  },
+  {
+   "cn": "序数词",
+   "en": "ordinal",
+   "source": "语言学名词",
+   "wordNumber": "04.076",
+   "subjectFullName": "语言学_语法学_词法",
+   "subjectName": "词法",
+   "publishYear": "2011",
+   "definition": "与“基数词”相对。表示次序先后的数词。例如“第一”“第五”。"
+  },
+  {
+   "cn": "序数",
+   "en": "ordinal",
+   "source": "数学名词",
+   "wordNumber": "02.0176",
+   "subjectFullName": "数学_数理逻辑·数学基础_集合论",
+   "subjectName": "集合论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "纵坐标",
+   "en": "ordinate",
+   "source": "数学名词",
+   "wordNumber": "08.0211",
+   "subjectFullName": "数学_几何学_拓扑学_解析几何学",
+   "subjectName": "解析几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "排序",
+   "en": "ordination",
+   "source": "动物学名词",
+   "wordNumber": "7.0481",
+   "subjectFullName": "动物学_动物生态学_群落生态学",
+   "subjectName": "群落生态学",
+   "publishYear": "2021",
+   "definition": "近代群落生态学研究的一种方法。通过排序可以把很多实体（如森林的林分）作为点，并以属性为坐标轴，在一维或多维空间中，按其相似关系将它们排列起来。"
+  },
+  {
+   "cn": "排序",
+   "en": "ordination",
+   "source": "生态学名词",
+   "wordNumber": "06.323",
+   "subjectFullName": "生态学_群落生态学",
+   "subjectName": "群落生态学",
+   "publishYear": "2006",
+   "definition": "近代群落生态学研究的一种方法，通过排序可以把很多实体例如森林的林分作为点，并以属性为坐标轴，在一维或多维空间中，按其相似关系将它们排列起来。"
+  },
+  {
+   "cn": "知识表示系统",
+   "en": "knowledge representation system",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.102",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "支持知识表示过程的软件工具。包括含有清楚的语法和语义的知识表示语言、知识编辑工具、调试工具和图形的知识库开发环境。"
+  },
+  {
+   "cn": "知识表示系统",
+   "en": "knowledge representation system",
+   "source": "语言学名词",
+   "wordNumber": "11.118",
+   "subjectFullName": "语言学_计算语言学_形式化方法",
+   "subjectName": "形式化方法",
+   "publishYear": "2011",
+   "definition": "表示知识的形式化系统。包括语言学知识（例如句法、语义知识等）和外部世界知识（例如常识和领域知识等）。"
+  },
+  {
+   "cn": "表征",
+   "en": "representation",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.009",
+   "subjectFullName": "新闻学与传播学_传播总论_传播行为与活动",
+   "subjectName": "传播行为与活动",
+   "publishYear": "2022",
+   "definition": "用象征符号代替或再现事物，通过代替，引起我们对该事物的想象。"
+  },
+  {
+   "cn": "表象",
+   "en": "representation",
+   "source": "物理学名词",
+   "wordNumber": "06.0427",
+   "subjectFullName": "物理学_相对论、量子理论_量子理论",
+   "subjectName": "量子理论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "表征",
+   "en": "representation",
+   "source": "生物物理学名词",
+   "wordNumber": "07.108",
+   "subjectFullName": "生物物理学_生物控制论_计算神经科学",
+   "subjectName": "计算神经科学",
+   "publishYear": "2018",
+   "definition": "外界信息在系统内部的一种表达方式。"
+  },
+  {
+   "cn": "表征",
+   "en": "representation",
+   "source": "心理学名词",
+   "wordNumber": "02.494",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "反映外部现实的内部认知符号。"
+  },
+  {
+   "cn": "可表示性",
+   "en": "representability",
+   "source": "数学名词",
+   "wordNumber": "02.0083",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "顺序量表",
+   "en": "ordinal scaling",
+   "source": "测绘学名词",
+   "wordNumber": "04.312",
+   "subjectFullName": "测绘学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2020",
+   "definition": "定量表示制图对象之间相对差别（顺序）的一种量表方法。"
+  },
+  {
+   "cn": "序回归",
+   "en": "ordinal regression",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0245",
+   "subjectFullName": "计算机科学技术_人工智能_机器学习",
+   "subjectName": "机器学习",
+   "publishYear": "2018",
+   "definition": "样本的标签是等级，学习的目标是给定样本，预测等级，使得预测的等级跟真实等级尽可能接近。"
+  },
+  {
+   "cn": "序量",
+   "en": "ordinal quantity",
+   "source": "计量学名词",
+   "wordNumber": "01.028",
+   "subjectFullName": "计量学_计量学通用名词_量和单位",
+   "subjectName": "量和单位",
+   "publishYear": "2015",
+   "definition": "由约定测量程序定义的量。与同类的其他量可按大小排序，但这些量之间无代数运算关系。"
+  },
+  {
+   "cn": "顺序变量",
+   "en": "ordinal variable",
+   "source": "心理学名词",
+   "wordNumber": "02.060",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "根据对象的某种属性的大小或多少排出顺序的既无相等单位，又无绝对零点的变量。"
+  },
+  {
+   "cn": "顺序量表",
+   "en": "ordinal scale",
+   "source": "心理学名词",
+   "wordNumber": "03.316",
+   "subjectFullName": "心理学_心理统计与测量",
+   "subjectName": "心理统计与测量",
+   "publishYear": "2014",
+   "definition": "表示一个变量的不同值有次序关系(大于或小于)的一种量表。"
+  },
+  {
+   "cn": "序数效用",
+   "en": "ordinal utility",
+   "source": "药学名词",
+   "wordNumber": "10.011",
+   "subjectFullName": "药学_药物经济学",
+   "subjectName": "药物经济学",
+   "publishYear": "2014",
+   "definition": "用排序来反映偏好的一种效用表示方法，排列成序的效用间的差距大小没有意义。"
+  },
+  {
+   "cn": "序数和",
+   "en": "ordinal sum",
+   "source": "数学名词",
+   "wordNumber": "02.0177",
+   "subjectFullName": "数学_数理逻辑·数学基础_集合论",
+   "subjectName": "集合论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "有序参照系",
+   "en": "ordinal reference system",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "有序的",
+   "en": "ordinal",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "纵坐标",
+   "en": "ordinate",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "纵坐标",
+   "en": "ordinate",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "排序",
+   "en": "ordination",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "排序",
+   "en": "ordination",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "表征",
+   "en": "representation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "表征[再现]",
+   "en": "representation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "表示",
+   "en": "representation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "顺序变量",
+   "en": "ordinal variable",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "顺序量表",
+   "en": "ordinal scale",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "顺序数据",
+   "en": "ordinal data",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "顺序量表",
+   "en": "ordinal scaling",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "群落排序",
+   "en": "community ordination",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "污水条例",
+   "en": "sewer ordinance",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "心理表征",
+   "en": "mental representation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "符号表征",
+   "en": "symbolic representation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "社会表征",
+   "en": "social representation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "命题表征",
+   "en": "propositional representation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "内部表征",
+   "en": "internal representation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "知识表示",
+   "en": "knowledge representation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "文本表示",
+   "en": "text representation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络表示学习",
+   "en": "network representation learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "亚符号表示",
+   "en": "sub-symbolic representation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非结构化数据表示规范",
+   "en": "unstructured data representation specification",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "全要素数字表达技术",
+   "en": "total-factor digital representation technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "5-1阵型",
+   "en": "5-1 system",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "3-4-3阵型",
+   "en": "3-4-3 system",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "4-3-3阵型",
+   "en": "4-3-3 system",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "3-5-2阵型",
+   "en": "3-5-2 system",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "4-4-2阵型",
+   "en": "4-4-2 system",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "5-3-2阵型",
+   "en": "5-3-2 system",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "4-2-4阵型",
+   "en": "4-2-4 system",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "4-1-1阵型",
+   "en": "4-1-1 system",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "3-1-2阵型",
+   "en": "3-1-2 system",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "3-2-1阵型",
+   "en": "3-2-1 system",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "定序尺度",
+   "en": "ordinal scale",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.40",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "根据一个具有逻辑次序的类别集合对测量对象进行分类的测量方式。该逻辑次序可能是从低到高或从贫到富，例如回答人对某个服务的态度可以划分作非常不满意、不满意、满意和非常满意四个等级。"
+  },
+  {
+   "cn": "序数效用论",
+   "en": "ordinal utility",
+   "source": "卫生经济学名词",
+   "wordNumber": "4.2.3",
+   "subjectFullName": "卫生经济学名词_卫生服务需求_卫生服务消费者行为",
+   "subjectName": "卫生服务消费者行为",
+   "publishYear": "2025",
+   "definition": "主张用序数词来表示消费者偏好次序的理论，主要分析工具是无差异曲线和预算线。"
+  },
+  {
+   "cn": "集体表象",
+   "en": "collective representation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0523",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "法国社会学家涂尔干（Émile Durkheim）提出的概念，指为某一特定社会的大多数人所接收的共同信仰和感觉，是社会强加给个人的观念，不是人从直接的经验中取得的。"
+  },
+  {
+   "cn": "社会表征",
+   "en": "social representations",
+   "source": "社会学名词",
+   "wordNumber": "4.1.7.3",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会认知",
+   "subjectName": "社会认知",
+   "publishYear": "2025",
+   "definition": "某一群体所共享的价值、观念及实践系统。作为一种社会共识性的知识体系，它具有双重功能，一是为个体在特定生活世界中的生存进行定向，二是提供可借以进行社会交流及对现实世界与个体、群体历史进行明晰分类的符号，"
+  },
+  {
+   "cn": "门诊共济",
+   "en": "outpatient co-ordination",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.6.4.3",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险覆盖",
+   "subjectName": "健康保险覆盖",
+   "publishYear": "2025",
+   "definition": "统筹共济、账户共济的总称。参保人在定点服务机构发生的符合健康保险政策范围内的普通门诊费用可纳入统筹基金支付范围进行报销，称为统筹共济；参保人的个人账户可在家庭范围内与其配偶、子女、父母共济使用，称为账"
+  },
+  {
+   "cn": "性别参政比例制",
+   "en": "gender proportional representation in political participation",
+   "source": "社会学名词",
+   "wordNumber": "3.2.6.11",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别与发展",
+   "subjectName": "性别与发展",
+   "publishYear": "2025",
+   "definition": "旨在保障不同性别平等参政的一种制度安排，通常以立法或决策的方式设定了弱势性别群体权力参与的最低比例。但这种制度安排究竟有利于还是不利于促进不同性别参政权和决策权的平等，甚至实质上是否是对妇女的一种保护"
+  },
+  {
+   "cn": "继承制度",
+   "en": "succession system/inheritance system",
+   "source": "社会学名词",
+   "wordNumber": "3.1.1.34",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_家庭",
+   "subjectName": "家庭",
+   "publishYear": "2025",
+   "definition": "某一个体在其死亡或退位之时将其作为社会之人所具有的权利、义务的总体，也即地位或财产转移给他人的社会制度。包括地位继承与财产继承。"
+  },
+  {
+   "cn": "山官制",
+   "en": "shanguan system",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0295",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "中华人民共和国成立前景颇族实行的一种政治制度。山官是当地汉族的称呼，景颇语是贡萨统、杜、杜瓦之意。山官作为统治者在当地的一定辖区内有独立的行使权，他们以山岭、河流等自然标志为界限，山官有大中小三类，大"
+  },
+  {
+   "cn": "系统性风险",
+   "en": "system risk",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.1.9",
+   "subjectFullName": "食品卫生学_总论_食品安全",
+   "subjectName": "食品安全",
+   "publishYear": "2025",
+   "definition": "对整个系统或市场造成广泛影响和损失的风险。在食品安全领域着重于由结构缺陷、管理漏洞或外部冲击引起的广泛性、连锁性危害，可能导致重大公共卫生事件、经济冲击和社会信任危机。这类风险具有跨区域、跨环节、跨主"
+  },
+  {
+   "cn": "剂量测定系统",
+   "en": "dosimetry system",
+   "source": "放射卫生学",
+   "wordNumber": "5.4.3.4",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测类型_工作场所监测",
+   "subjectName": "工作场所监测",
+   "publishYear": "2025",
+   "definition": "在辐射研究工作中，用来测定剂量准确性的系统，从而得到正确的辐射化学产额。"
+  },
+  {
+   "cn": "安全系统",
+   "en": "safety system",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.6.6",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_分析评估",
+   "subjectName": "分析评估",
+   "publishYear": "2025",
+   "definition": "在核设施预计运行事件及事故工况情况下，发挥安全功能，保证反应堆安全停堆、从堆芯排出余热和限制放射性后果的系统。包括保护系统、安全执行系统和安全系统辅助设施。"
+  },
+  {
+   "cn": "标准体系",
+   "en": "standard system",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.4",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准",
+   "subjectName": "放射卫生标准",
+   "publishYear": "2025",
+   "definition": "一定范围内的标准按其内在联系形成的科学的有机整体。"
+  },
+  {
+   "cn": "社会系统",
+   "en": "social system",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.6",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "社会相互联系的同类事物或（要素）按一定关系和规则有序组成的整合性的有机整体。"
+  },
+  {
+   "cn": "文化系统",
+   "en": "cultural system",
+   "source": "社会学名词",
+   "wordNumber": "2.2.2.1",
+   "subjectFullName": "社会学名词_社会学一般概念_文化与文明_文化的结构与功能",
+   "subjectName": "文化的结构与功能",
+   "publishYear": "2025",
+   "definition": "由物质文化、制度文化和精神文化三个子系统有机结合而成的更大的系统，即各种文化活动的统一体。"
+  },
+  {
+   "cn": "组织系统",
+   "en": "organization system",
+   "source": "社会学名词",
+   "wordNumber": "2.5.6.3",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "既指为达成某个特定目标，组织内部各要素按一定的秩序和相互关联组合而成的有机整体，亦指组织作为开放系统与其环境中相关的若干组织之间，按照一定的秩序互动而形成的有机集合体。"
+  },
+  {
+   "cn": "合作制",
+   "en": "cooperative system",
+   "source": "社会学名词",
+   "wordNumber": "2.5.10.4",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织制度",
+   "subjectName": "组织制度",
+   "publishYear": "2025",
+   "definition": "广义指个人或企业在自愿互利的基础上进行各种生产要素的联合的一种成员共有的集体所有制产权或组织管理形式。狭义指按合作社基本原则建立的经济组织制度，其典型形态是现代合作社，它既是集体所有、实行民主管理的经"
+  },
+  {
+   "cn": "委员会制",
+   "en": "committee system",
+   "source": "社会学名词",
+   "wordNumber": "2.5.13.4",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "具有民主参与管理和治理特质的组织规范和模式。其中，政治性的委员会制，主张权力在委员会内受到制约而至平衡，进行集体议事，决议依据投票结果而做出，并且实行集体负责，以便防止出现个人专权等现象；经济性的委员"
+  },
+  {
+   "cn": "分层体系",
+   "en": "stratification system",
+   "source": "社会学名词",
+   "wordNumber": "2.6.1.3",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会分层",
+   "subjectName": "社会分层",
+   "publishYear": "2025",
+   "definition": "一套系统的社会分层制度。如，资本主义社会的阶级分层体系；前资本主义社会的喀斯德分层体系(caste system）、伊斯得特分层体系(estate system）、奴隶制分层体系等。"
+  },
+  {
+   "cn": "身份制",
+   "en": "status system",
+   "source": "社会学名词",
+   "wordNumber": "2.6.3.4",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会结构",
+   "subjectName": "社会结构",
+   "publishYear": "2025",
+   "definition": "针对中国1960和1970年代社会分层特殊性提出的概念。李强等人认为，当时的中国社会分层表现出一种以国家行政制度（户籍制度、单位制和行政档案分类）为基础的制度，依据个人在这些制度中的地位状况区分出社会"
+  },
+  {
+   "cn": "种姓制度",
+   "en": "caste system",
+   "source": "社会学名词",
+   "wordNumber": "2.6.3.7",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会结构",
+   "subjectName": "社会结构",
+   "publishYear": "2025",
+   "definition": "一种严格刚性的社会等级制度，依据严格的标准把社会成员划分为高低等级不同、界线分明的社会群体，其身份地位可以代际传递。高等级地位的群体享有多种特权，低等级地位的群体几乎没有机会流入高等级地位的群体。主要"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

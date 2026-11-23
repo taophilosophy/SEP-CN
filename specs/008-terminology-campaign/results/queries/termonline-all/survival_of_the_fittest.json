@@ -1,0 +1,792 @@
+{
+ "key": "survival of the fittest",
+ "term": "survival of the fittest",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T04:25:22+00:00",
+ "status": "ok",
+ "note": "variant=survival of the fittest; 审定公布名词库=10000; 海峡两岸名词对照库=7780; 其他来源数据库=2573; 预公布名词数据库=2964; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "适者生存",
+   "en": "survival of the fittest",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.410",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_生物学哲学",
+   "subjectName": "生物学哲学",
+   "publishYear": "2024",
+   "definition": "达尔文自然选择学说的一个组成部分。认为自然选择使那些较不适应环境的个体淘汰，最能适应环境的个体得以保存和繁荣。"
+  },
+  {
+   "cn": "适者生存",
+   "en": "survival of the fittest",
+   "source": "医学名词 第三分册",
+   "wordNumber": "01.877",
+   "subjectFullName": "医学_医学遗传学",
+   "subjectName": "医学遗传学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "存活",
+   "en": "survival",
+   "source": "烧伤学名词",
+   "wordNumber": "05.036",
+   "subjectFullName": "烧伤学_烧伤创面修复_自体皮肤及其他组织移植",
+   "subjectName": "自体皮肤及其他组织移植",
+   "publishYear": "2019",
+   "definition": "移植物与受体建立血液循环并永久性生长，且具有正常生理功能的状态。"
+  },
+  {
+   "cn": "生存性",
+   "en": "survivability",
+   "source": "通信科学技术名词",
+   "wordNumber": "07.015",
+   "subjectFullName": "通信科学技术_网络安全",
+   "subjectName": "网络安全",
+   "publishYear": "2007",
+   "definition": "系统在随机破坏下的可用性。"
+  },
+  {
+   "cn": "生存力",
+   "en": "survivability",
+   "source": "航空科学技术名词",
+   "wordNumber": "06.014",
+   "subjectFullName": "航空科学技术_飞行控制、导航、显示、控制和记录系统",
+   "subjectName": "飞行控制、导航、显示、控制和记录系统",
+   "publishYear": "2003",
+   "definition": "航空器或设备因故障或战伤后仍能完成指定任务的能力。"
+  },
+  {
+   "cn": "生存性",
+   "en": "survivability",
+   "source": "电子学名词",
+   "wordNumber": "21.116",
+   "subjectFullName": "电子学_通信",
+   "subjectName": "通信",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "可靠概率",
+   "en": "probability of survival",
+   "source": "土木工程名词",
+   "wordNumber": "04.006",
+   "subjectFullName": "土木工程_结构工程_结构设计原理",
+   "subjectName": "结构设计原理",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "存活率",
+   "en": "probability of survivability",
+   "source": "航空科学技术名词",
+   "wordNumber": "04.082",
+   "subjectFullName": "航空科学技术_飞行器结构及其设计与强度理论",
+   "subjectName": "飞行器结构及其设计与强度理论",
+   "publishYear": "2003",
+   "definition": "结构在承受疲劳载荷时寿命达到或超过某一指定值的概率。"
+  },
+  {
+   "cn": "造林保存率",
+   "en": "survival rate,survival rate of plantation",
+   "source": "林学名词",
+   "wordNumber": "05.114",
+   "subjectFullName": "林学_森林培育_种苗与营造",
+   "subjectName": "种苗与营造",
+   "publishYear": "2016",
+   "definition": "造林三年后单位面积造林地上保持正常生长的植株与造林时单位面积上总株数的百分比。"
+  },
+  {
+   "cn": "生存竞争力",
+   "en": "survival competitiveness",
+   "source": "农学名词",
+   "wordNumber": "15.376",
+   "subjectFullName": "农业生物技术_转基因安全",
+   "subjectName": "转基因安全",
+   "publishYear": "2025",
+   "definition": "同种或异种生物个体相互竞争，以维持个体生存和种族繁衍的能力。"
+  },
+  {
+   "cn": "生存率",
+   "en": "survival rate",
+   "source": "急救医学名词",
+   "wordNumber": "03.862",
+   "subjectFullName": "急救医学_日常医学急救_老年学_老年流行病学",
+   "subjectName": "老年流行病学",
+   "publishYear": "2025",
+   "definition": "接受某种治疗的患者或患某病的人中，经若干年随访（通常为1年、3年、5年）后，尚存活的患者所占的比例。"
+  },
+  {
+   "cn": "救生服",
+   "en": "survival suit",
+   "source": "急救医学名词",
+   "wordNumber": "06.067",
+   "subjectFullName": "急救医学_海上医学救援_海上救援设备_救援工具",
+   "subjectName": "救援工具",
+   "publishYear": "2025",
+   "definition": "一种救生用具。是一种能减少落水人员体热损失的保护服。"
+  },
+  {
+   "cn": "存活率",
+   "en": "survival rate",
+   "source": "农学名词",
+   "wordNumber": "10.096",
+   "subjectFullName": "植物保护_作物虫害",
+   "subjectName": "作物虫害",
+   "publishYear": "2025",
+   "definition": "昆虫群体在一定发育阶段中存活个体数占总个体数的百分率。"
+  },
+  {
+   "cn": "存活因子",
+   "en": "survival factor ",
+   "source": "草学名词",
+   "wordNumber": "2.0197",
+   "subjectFullName": "草学_草地生态与草地培育_草地生态",
+   "subjectName": "草地生态",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "存活值",
+   "en": "survival value ",
+   "source": "草学名词",
+   "wordNumber": "2.0198",
+   "subjectFullName": "草学_草地生态与草地培育_草地生态",
+   "subjectName": "草地生态",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "生存率",
+   "en": "survival rate",
+   "source": "妇科肿瘤学名词",
+   "wordNumber": "8.332",
+   "subjectFullName": "妇科肿瘤学_妇科肿瘤治疗学_妇科肿瘤治疗后随访",
+   "subjectName": "妇科肿瘤治疗后随访",
+   "publishYear": "2022",
+   "definition": "接受某种治疗的患者或某病患者中，从治疗开始经若干年随访，通常为1年、3年、5年后，尚存活的患者人数所占的比例。反映了疾病对生命的危害程度，也可用于评价某种治疗的远期疗效。"
+  },
+  {
+   "cn": "存活率",
+   "en": "survival rate",
+   "source": "动物学名词",
+   "wordNumber": "7.0369",
+   "subjectFullName": "动物学_动物生态学_种群生态学",
+   "subjectName": "种群生态学",
+   "publishYear": "2021",
+   "definition": "单位时间内个体存活数占初始个体数的比例。"
+  },
+  {
+   "cn": "存活时间",
+   "en": "survival time",
+   "source": "消化内镜学名词",
+   "wordNumber": "3.058",
+   "subjectFullName": "消化内镜学_消化内镜洗消_清洗消毒",
+   "subjectName": "清洗消毒",
+   "publishYear": "2021",
+   "definition": "在进行生物指示剂抗力鉴定时，受试指示剂样本经杀菌因子作用不同时间，全部样本培养均有菌生长的最长作用时间。"
+  },
+  {
+   "cn": "存活时间",
+   "en": "survival time",
+   "source": "畜牧学名词",
+   "wordNumber": "05.372",
+   "subjectFullName": "畜牧学_繁殖_人工授精",
+   "subjectName": "人工授精",
+   "publishYear": "2020",
+   "definition": "精子在一定外界环境条件下的总生存时间。"
+  },
+  {
+   "cn": "存活概率",
+   "en": "survival probability",
+   "source": "物理学名词",
+   "wordNumber": "11.0725",
+   "subjectFullName": "物理学_交叉学科_非线性物理学",
+   "subjectName": "非线性物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "适者生存",
+   "en": "survival of the fittest",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "适者生存",
+   "en": "survival of the fittest",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "生存性",
+   "en": "survivability",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "生存能力",
+   "en": "survivability",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "存活",
+   "en": "survivorship\",\"survival",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "生存理论",
+   "en": "survival theory",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "生存率",
+   "en": "survival rate",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "存活值",
+   "en": "survival value",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "存活概率",
+   "en": "survival probability",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "存活剂量",
+   "en": "survival dose",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "存活率",
+   "en": "survival rate",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "存活率",
+   "en": "survival rate",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "存活因子",
+   "en": "survival factor",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "存活因子",
+   "en": "survival factor",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "生存值",
+   "en": "survival value",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "生存率",
+   "en": "survival rate",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "存活潜力,生存潜力",
+   "en": "survival potential",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "救生手册",
+   "en": "survival manual",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "救生艇筏",
+   "en": "survival craft",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "营救器电台",
+   "en": "survival station",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "网络可生存性",
+   "en": "network survivability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "天下兴亡,匹夫有责",
+   "en": "Survival of a Nation Is the Responsibility of Every Individual.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "心术",
+   "en": "The Art of the Mind",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "郑声",
+   "en": "The Music of the State of Zheng",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "杠铃重量证明书",
+   "en": "certificate of the weight of the barbell",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "浪的反作用力",
+   "en": "effect of the return of the waves",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "体国经野，义尚光大",
+   "en": "Portray the Grandeur of the Capital and the Glory of the Countryside",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《俄罗斯联邦国家标准化体系发展构想2020》",
+   "en": "The Concept of the Development of the National System of Standardization of the Russian Federation for the Period Until 2020",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "醉翁之乐",
+   "en": "The Joy of the Old Drunkard",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "红船精神",
+   "en": "the spirit of the Red Boat",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "古田会议精神",
+   "en": "the spirit of the Gutian Meeting",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "长征精神",
+   "en": "the spirit of the Long March",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "遵义会议精神",
+   "en": "the spirit of the Zunyi Meeting",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "红旗渠精神",
+   "en": "the spirit of the Hongqi Canal",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "北京奥运精神",
+   "en": "the spirit of the Beijing Olympics",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "莫高精神",
+   "en": "the spirit of the Mogao Grottoes",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "调整杠铃位置",
+   "en": "assure the position of the bar",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "党的领导、人民当家作主、依法治国 有机统一",
+   "en": "the unity of the leadership of the Party, the position of the people as masters of the country and law-based governance",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "残存",
+   "en": "survival",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0504",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "英国人类学家泰勒（Edward Burnett Tylor）提出来的研究方法。所谓残存，是指仪式、习俗、观点等的残存。它们“被习惯势力从它们所属的社会阶段带到一个新的社会阶段，于是成为这个新文化由之进"
+  },
+  {
+   "cn": "存活",
+   "en": "survival",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.20.14",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "病原体在遭受外界环境不利因素影响后，仍然能够生存和保持生命活动的能力。"
+  },
+  {
+   "cn": "存活时间",
+   "en": "survival time",
+   "source": "消毒学",
+   "wordNumber": "3.1.5.1",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "在规定条件下，暴露于杀菌因子，生物指示物中微生物存活的最长时间。"
+  },
+  {
+   "cn": "存活曲线",
+   "en": "survival curve",
+   "source": "消毒学",
+   "wordNumber": "3.1.5.2",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "在规定条件下，试验菌的杀灭或存活时间与杀菌因子强度的关系曲线图。"
+  },
+  {
+   "cn": "存活率",
+   "en": "survival rate",
+   "source": "消毒学",
+   "wordNumber": "6.2.18",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "经过消毒因子处理后，试验微生物的残留量与初始量的比值。"
+  },
+  {
+   "cn": "存活分数",
+   "en": "survival fraction",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.4.8",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "某一剂量照射后存活的细胞数占未照射时细胞数的份额。"
+  },
+  {
+   "cn": "生存分析",
+   "en": "survival analysis",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.144",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "在生物统计学中，用以分析时间—事件型（即存续）数据的统计技术。"
+  },
+  {
+   "cn": "救生食品",
+   "en": "survival rations",
+   "source": "军事预防医学名词",
+   "wordNumber": "7.5.3",
+   "subjectFullName": "军事预防医学_军队营养与食品卫生_军用食品",
+   "subjectName": "军用食品",
+   "publishYear": "2025",
+   "definition": "军人遇险待救时用于维持生存的专用食品，要求能量高、体积小、重量轻、携带方便、储存期长和食用方便等。"
+  },
+  {
+   "cn": "生存率",
+   "en": "survival rate",
+   "source": "社会医学名词",
+   "wordNumber": "9.21",
+   "subjectFullName": "社会卫生状况评价",
+   "subjectName": "生存率",
+   "publishYear": "2025",
+   "definition": "接受某种治疗的患者或某病患者中，经若干年随访（通常为1、3、5 年）后，尚存活的患者人数所占的比例。反映疾病对生命的危害程度，也可用于评价某种治疗的远期疗效。"
+  },
+  {
+   "cn": "存活率",
+   "en": "survival rate",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.4.64",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品生产规范",
+   "subjectName": "食品生产规范",
+   "publishYear": "2025",
+   "definition": "微生物在一定时间内存活个体数占总个体数的百分率。"
+  },
+  {
+   "cn": "肃清封建主义残余影响",
+   "en": "eliminating survivals of feudalism",
+   "source": "马克思主义",
+   "wordNumber": "04.0141",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1980年8月18日，邓小平针对党和国家领导制度中存在的“官本位”思想和等级观念、官僚主义、特权思想、封建性“人治”意识、封建迷信活动猖獗等封建主义残余影响，为保证政治体制改革顺利进行，在中央政治局扩"
+  },
+  {
+   "cn": "遗俗",
+   "en": "surviving customs",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0005",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "遗留下来的习俗，具有明显的时代特征。"
+  },
+  {
+   "cn": "存活-杀灭区间",
+   "en": "survival-kill window",
+   "source": "消毒学",
+   "wordNumber": "3.1.5.3",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "在规定条件下进行灭菌处理时，生物指示物从全部存活微生物（存活时间）过渡到全部杀灭微生物（杀灭时间）的阶段。"
+  },
+  {
+   "cn": "存活曲线法",
+   "en": "survival curve method",
+   "source": "消毒学",
+   "wordNumber": "3.1.5.10",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "利用活菌计数法检测试验菌的存活数量，绘制时间-存活菌数对数曲线，计算D值的方法。"
+  },
+  {
+   "cn": "存活菌量",
+   "en": "survival bacterial amount",
+   "source": "消毒学",
+   "wordNumber": "6.2.16",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "经过消毒灭菌处理后，单位体积空气、液体中或单位面积物体表面上可以检出的活菌数量，单位以菌落形成单位每立方米（CFU/m3）、菌落形成单位每毫升（CFU/mL）、菌落形成单位每平方米（CFU/m2）表示"
+  },
+  {
+   "cn": "细胞存活曲线",
+   "en": "cell survival curve",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.4.7",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "细胞受到不同剂量的照射后，存活的细胞占接种细胞的份额与所受剂量的关系曲线。"
+  },
+  {
+   "cn": "生存斗争",
+   "en": "struggle for survival",
+   "source": "马克思主义",
+   "wordNumber": "03.0172",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "达尔文自然选择进化理论的核心概念，包括生物与自然条件之间的斗争，异种个体间的斗争；同种个体间的竞争等。每个生物在生存过程中必须跟自然环境作斗争、跟同一物种的生物作斗争、跟不同物种的生物作斗争，其中以同"
+  },
+  {
+   "cn": "舰艇救生食品",
+   "en": "ship survival rations",
+   "source": "军事预防医学名词",
+   "wordNumber": "7.5.3.2",
+   "subjectFullName": "军事预防医学_军队营养与食品卫生_军用食品",
+   "subjectName": "军用食品",
+   "publishYear": "2025",
+   "definition": "舰艇海上失事时，舰船人员离舰漂浮待救时维持生命的专用食品。一份可提供1 人3 天的口粮，主要由压缩饼干、巧克力、糖等组成。"
+  },
+  {
+   "cn": "普通救生食品",
+   "en": "general survival rations",
+   "source": "军事预防医学名词",
+   "wordNumber": "7.5.3.1",
+   "subjectFullName": "军事预防医学_军队营养与食品卫生_军用食品",
+   "subjectName": "军用食品",
+   "publishYear": "2025",
+   "definition": "用于维持个人在特殊状况下生存，尤其是饮用水有限时使用的救生食品，属于限制口粮，连续使用不超过5 天。"
+  },
+  {
+   "cn": "飞行救生食品",
+   "en": "flight survival rations",
+   "source": "军事预防医学名词",
+   "wordNumber": "7.5.3.3",
+   "subjectFullName": "军事预防医学_军队营养与食品卫生_军用食品",
+   "subjectName": "军用食品",
+   "publishYear": "2025",
+   "definition": "空勤人员在飞机迫降、失事离机待救时维持生命的专用食品，其重量更轻，能量更少。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

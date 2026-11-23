@@ -1,0 +1,732 @@
+{
+ "key": "likelihood principle",
+ "term": "likelihood principle",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T04:21:31+00:00",
+ "status": "ok",
+ "note": "variant=likelihood principle; 审定公布名词库=851; 海峡两岸名词对照库=201; 其他来源数据库=68; 预公布名词数据库=106; jwt-direct（JWT 直连，raw 略；已滤维基 8 条）",
+ "hits": [
+  {
+   "cn": "最大似然原理",
+   "en": "maximum likelihood principle",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "05.0038",
+   "subjectFullName": "化工（三）_数据处理",
+   "subjectName": "数据处理",
+   "publishYear": "2019",
+   "definition": "模型参数估计值需使样本观测值的概率最大。"
+  },
+  {
+   "cn": "最大似然原理",
+   "en": "maximum likelihood principle",
+   "source": "化学工程名词",
+   "wordNumber": "07.039",
+   "subjectFullName": "化学工程_数据处理",
+   "subjectName": "数据处理",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "似然度",
+   "en": "likelihood",
+   "source": "天文学名词",
+   "wordNumber": "07.393",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "给定某一理论，获得某个实验结果的概率。"
+  },
+  {
+   "cn": "似然",
+   "en": "likelihood",
+   "source": "放射医学与防护名词",
+   "wordNumber": "12.080",
+   "subjectFullName": "放射医学与防护_放射流行病学_统计分析",
+   "subjectName": "统计分析",
+   "publishYear": "2014",
+   "definition": "可作为衡量总体概率模型的未知参数被观察样本数据支持程度的一种表述方法。"
+  },
+  {
+   "cn": "似然",
+   "en": "likelihood",
+   "source": "数学名词",
+   "wordNumber": "09.0569",
+   "subjectFullName": "数学_概率论_数理统计_参数估计",
+   "subjectName": "参数估计",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "腐蚀倾向",
+   "en": "corrosion likelihood",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "5.0017",
+   "subjectFullName": "化工（八）_腐蚀与防护_腐蚀原理及类型",
+   "subjectName": "腐蚀原理及类型",
+   "publishYear": "2021",
+   "definition": "在给定腐蚀体系中，定性或定量表示预期的腐蚀效应。"
+  },
+  {
+   "cn": "腐蚀倾向",
+   "en": "corrosion likelihood",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "05.0460",
+   "subjectFullName": "机械工程（一）_机械表面与界面_腐蚀与防护_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "在给定的腐蚀体系中，定性或定量表示预期的腐蚀效应。"
+  },
+  {
+   "cn": "似然函数",
+   "en": "likelihood function",
+   "source": "经济学名词",
+   "wordNumber": "10.065",
+   "subjectFullName": "经济学_数量经济学",
+   "subjectName": "数量经济学",
+   "publishYear": "2020",
+   "definition": "任一随机样本能够被观察到的联合概率。对一个容量为 n 的随机样本<img src='/root/syzx/static/spz/jingjixue1.10.065.01.png'/>，似然函数的一般形"
+  },
+  {
+   "cn": "似然函数",
+   "en": "likelihood function",
+   "source": "核医学名词",
+   "wordNumber": "03.0564",
+   "subjectFullName": "核医学_核医学设备与操作_显像技术",
+   "subjectName": "显像技术",
+   "publishYear": "2018",
+   "definition": "一个含有未知参数的联合概率分布函数。设总体P的概率分布g( p, x )已知，含有未知参数x，在1次试验中，抽到i个样本<img src='/root/syzx/static/spz/heyixue1"
+  },
+  {
+   "cn": "似然比",
+   "en": "likelihood ratio",
+   "source": "心理学名词",
+   "wordNumber": "02.111",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "某心理感受水平所对应的信号分布纵坐标值与噪声分布纵坐标值之比。"
+  },
+  {
+   "cn": "最大似然法",
+   "en": "maximum likelihood",
+   "source": "微生物学名词",
+   "wordNumber": "02.068",
+   "subjectFullName": "微生物学_微生物系统学",
+   "subjectName": "微生物系统学",
+   "publishYear": "2012",
+   "definition": "一种用于系统发育学分析的统计学构树方法，基于使每一位点上的核苷酸都具有最大可能性的原则，分析构建系统树的方法。"
+  },
+  {
+   "cn": "似然方程",
+   "en": "likelihood equation",
+   "source": "数学名词",
+   "wordNumber": "09.0571",
+   "subjectFullName": "数学_概率论_数理统计_参数估计",
+   "subjectName": "参数估计",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "似然函数",
+   "en": "likelihood function",
+   "source": "数学名词",
+   "wordNumber": "09.0570",
+   "subjectFullName": "数学_概率论_数理统计_参数估计",
+   "subjectName": "参数估计",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "似然比",
+   "en": "likelihood ratio",
+   "source": "数学名词",
+   "wordNumber": "09.0623",
+   "subjectFullName": "数学_概率论_数理统计_假设检验",
+   "subjectName": "假设检验",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "似然比",
+   "en": "likelihood ratio",
+   "source": "电子学名词",
+   "wordNumber": "05.148",
+   "subjectFullName": "电子学_信息论与信号处理技术",
+   "subjectName": "信息论与信号处理技术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "极大似然法",
+   "en": "maximum likelihood method; maximal likelihood method",
+   "source": "天文学名词",
+   "wordNumber": "07.394",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "一种根据观测数据给出参数估计的统计方法。对给定的观测数据，通过改变模型参数使似然度函数取最大值而获得对模型参数的估计。"
+  },
+  {
+   "cn": "原理",
+   "en": "principle",
+   "source": "物理学名词",
+   "wordNumber": "01.0139",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "原理",
+   "en": "principle",
+   "source": "数学名词",
+   "wordNumber": "01.0020",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "最大似然估计",
+   "en": "maximum likelihood estimation",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "01.066",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_通论",
+   "subjectName": "通论",
+   "publishYear": "2024",
+   "definition": "一种概率型的参数估计法，以似然函数的概念为基础，使似然函数极大化的参数估计。似然函数是一种关于统计模型中的参数的函数，表示模型参数中的似然性。"
+  },
+  {
+   "cn": "等似然准则",
+   "en": "equal likelihood criterion",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "13.108",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_化工技术经济",
+   "subjectName": "化工技术经济",
+   "publishYear": "2024",
+   "definition": "在不确定型决策中，当无法确定某种自然状态发生的可能性大小及其顺序时，可以假定每一自然状态有相等的概率，通过比较各个方案损益值的平均值来进行方案的选择。"
+  },
+  {
+   "cn": "似然原理",
+   "en": "likelihood principle",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "最大似然原理",
+   "en": "maximum likelihood principle",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "似然比,或然比",
+   "en": "likelihood ratio",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "似然函数",
+   "en": "likelihood function",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "似然比",
+   "en": "likelihood ratio",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "似然方程",
+   "en": "likelihood equation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "似然函数",
+   "en": "likelihood function",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "原理",
+   "en": "principle",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "原则",
+   "en": "principle",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "原理",
+   "en": "principle",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "最大似然法",
+   "en": "maximum likelihood method",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "最大似然法",
+   "en": "maximum likelihood method",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "极大似然估计量",
+   "en": "maximum likelihood estimator",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "约束最大似然法",
+   "en": "restricted maximum likelihood",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "最大似然法",
+   "en": "maximum likelihood method",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "最大似然分类",
+   "en": "maximum likelihood classification",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "对数似然函数",
+   "en": "log-likelihood function",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "最大似然树",
+   "en": "maximum-likelihood tree",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "苦味素",
+   "en": "bitter principle",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "费马原理",
+   "en": "Fermat principle",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "似然查找模型",
+   "en": "query likelihood model (QLM)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "万物之理",
+   "en": "Universal Principle",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "不确定[性]原理",
+   "en": "uncertainty principle",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "多语言原则",
+   "en": "multilingual principle",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "通知原则",
+   "en": "notice principle",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "完整性原则",
+   "en": "integrity principle",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "目的性原则",
+   "en": "purpose principle",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "选择原则",
+   "en": "choice principle",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "转移原则",
+   "en": "transfer principle",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全原则",
+   "en": "security principle",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "准入原则",
+   "en": "access principle",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "执行原则",
+   "en": "implementation principle",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "原则",
+   "en": "principle",
+   "source": "马克思主义",
+   "wordNumber": "04.0059",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "指导言论和行动的理论规定。在社会生活中，原则常被作为人们言行的准则。在具体科学中含有公理性质的意思。原则是人们在社会实践中对客观事物及其规律进行的抽象，是一般原理。原则具有相对稳定性，但并不是凝固不变"
+  },
+  {
+   "cn": "时序性原则",
+   "en": "chronological principle",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.3.9",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护",
+   "subjectName": "放射工作人员健康监护",
+   "publishYear": "2025",
+   "definition": "职业性放射性疾病一定发生在职业接触电离辐射之后，并符合放射性疾病生物学潜隐期的客观规律。"
+  },
+  {
+   "cn": "法律原理",
+   "en": "legal principle",
+   "source": "社会学名词",
+   "wordNumber": "3.7.7.2",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律多元主义",
+   "subjectName": "法律多元主义",
+   "publishYear": "2025",
+   "definition": "与特定法律有联系，建立、证明或补充、批评、修正现存法律规则的价值、理念及其体系。"
+  },
+  {
+   "cn": "谨慎原则",
+   "en": "precautionary principle",
+   "source": "社会学名词",
+   "wordNumber": "3.14.5.2",
+   "subjectFullName": "社会学名词_分支社会学环境社会学",
+   "subjectName": "分支社会学环境社会学",
+   "publishYear": "2025",
+   "definition": "如果一个行动或政策有可能引发危害公众或环境的风险，在没有一致的科学意见认为行动或政策有害的情况下，证明行动无害的举证责任就落在那些要采取行动的人身上。"
+  },
+  {
+   "cn": "头尾发展律",
+   "en": "cephalocaudal principle",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.1.10.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育规律",
+   "subjectName": "生长发育规律",
+   "publishYear": "2025",
+   "definition": "胎儿至婴幼儿期体格和粗大动作发育遵循从头部到尾部发展的程序性。"
+  },
+  {
+   "cn": "近侧发展律",
+   "en": "proximodistal principle",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.1.10.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育规律",
+   "subjectName": "生长发育规律",
+   "publishYear": "2025",
+   "definition": "胎儿期至儿童期体格发育遵循从身体的近端（或中心）到远端（或外周）发展的程序性。表现为躯干的生长先于四肢，四肢的近端生长先于远端。"
+  },
+  {
+   "cn": "相互作用原理",
+   "en": "interrelated principle",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "1.6.3.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生学_妇幼卫生理论",
+   "subjectName": "妇幼卫生理论",
+   "publishYear": "2025",
+   "definition": "个体的行为嵌套于具体的社会关系之中，受社会影响的同时也在影响社会的学说。"
+  },
+  {
+   "cn": "参与原则",
+   "en": "participation principle",
+   "source": "社会医学名词",
+   "wordNumber": "10.2.1.4.7.2",
+   "subjectFullName": "政策与策略",
+   "subjectName": "策略",
+   "publishYear": "2025",
+   "definition": "在卫生政策与服务的制定、执行与评估过程中，应确保公众、社区和各类相关利益方的积极参与，提升政策的可接受性、适用性与持续性。"
+  },
+  {
+   "cn": "保密原则",
+   "en": "confidentiality principle",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.074",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "医务人员、研究人员及相关机构对患者或研究参与者在诊疗或参与医学活动过程中提供的个人信息、健康状况、医疗记录等隐私数据负有严格保密义务，未经当事人明确授权不得向第三方泄露的伦理原则。"
+  },
+  {
+   "cn": "裂变原则",
+   "en": "fission principle",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0541",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "英国人类学家埃文斯-普理查德（Evans-Pritchard）在其代表作《努尔人》一书中提出，该原则是在一种无国家的社会组织中被注意到的社会组织原则。在无国家社会中，人们根据血缘关系的亲疏来组成不同的"
+  },
+  {
+   "cn": "干预原则",
+   "en": "intervention principle",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.7.24",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核事故应急救援",
+   "subjectName": "核事故应急救援",
+   "publishYear": "2025",
+   "definition": "在核事故状态下,对公众等实施干预所必须遵循的基本原则,包括干预的正当化,干预最优化以及干预应首先着眼于避免严重的确定性效应的发生。"
+  },
+  {
+   "cn": "个案处理原则",
+   "en": "individual principle",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.27.2",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "食品添加剂安全性评价适用原则之一。没有一个固定的检验和评价模式能适用于所有食品添加剂，因此不应建立标准化和强制化的食品添加剂安全性评价试验程序，不同食品添加剂安全性评价所需的试验资料应有所不同。"
+  },
+  {
+   "cn": "经济原则",
+   "en": "economy principle",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0043",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "法国语言学家马丁内（A. Martinet）1962 年提出语言演变的原则。即语言演变的动力来自于交际的需要和人的自然惰性之间的冲突。前者促使人类创造新的、复杂的语言单位；后者则要求在言语过程中尽量减"
+  },
+  {
+   "cn": "道德原则",
+   "en": "moral principle",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.0390000000000001",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "一定社会或阶级用以调整人们行为、相互利益关系的普遍性准则。"
+  },
+  {
+   "cn": "天理",
+   "en": "heavenly principles",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.068",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "儒家所信奉的本然之性，或客观存在的道德法则。"
+  },
+  {
+   "cn": "信息公开原则",
+   "en": "information disclosure principle",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.039",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "公共卫生从业人员在公众赋予的资源和授权的范围内为社会提供其所拥有的信息，及时采取有效的行动。"
+  },
+  {
+   "cn": "共济原则",
+   "en": "principle of solidarity",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.038",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "依据社会成员之间公正享有利益和义务的社会伦理理念，政府、社群和个体之间互助、密切合作解决公共卫生问题的行为准则。"
+  },
+  {
+   "cn": "社会公平原则",
+   "en": "social equity principle",
+   "source": "社会医学名词",
+   "wordNumber": "10.2.1.4.7.1",
+   "subjectFullName": "政策与策略",
+   "subjectName": "策略",
+   "publishYear": "2025",
+   "definition": "在卫生政策与服务中，强调健康资源、服务机会与健康结果在各社会群体之间的公平分配，保障任何人不因社会经济地位、地域、性别、族群等因素而在获得健康服务上受到不公待遇。"
+  },
+  {
+   "cn": "相称性原则",
+   "en": "principle of proportionality",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.041",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "在公共卫生活动中，为了促进公共卫生、公众健康，所采取的可能且不可避免地影响个人权益或加重个人负担的任何措施，应能够达到服务目标人群的公共卫生目的，且不存在达到这一目的的更宽松措施的伦理准则。"
+  },
+  {
+   "cn": "隐私保护原则",
+   "en": "privacy protection principle",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.042",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "在传染病防控中，只有在不公布个体隐私会对公众健康产生更大侵害的情况下，才可将个体隐私信息向公众适当披露或公布，以最大限度保护个体不愿被他人知晓的个体敏感信息的行为准则。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,582 @@
+{
+ "key": "unconscious inferences",
+ "term": "unconscious inferences",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T04:23:55+00:00",
+ "status": "ok",
+ "note": "variant=unconscious inferences; 审定公布名词库=109; 海峡两岸名词对照库=57; 其他来源数据库=8; 预公布名词数据库=11; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "无意识推理",
+   "en": "unconscious inference",
+   "source": "心理学名词",
+   "wordNumber": "02.650",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "从感觉材料直接产生知觉的无意识过程。刺激未呈现的部分由此补足。"
+  },
+  {
+   "cn": "潜意识",
+   "en": "unconscious",
+   "source": "行为医学名词",
+   "wordNumber": "4.01",
+   "subjectFullName": "行为医学_行为的心理学基础_心理与行为",
+   "subjectName": "心理与行为",
+   "publishYear": "2022",
+   "definition": "个体心理活动中很难进入意识中的部分。主要包括人的原始冲动、各种本能和出生后被压抑的欲望。决定或影响着人的全部有意识活动。为精神分析理论术语。"
+  },
+  {
+   "cn": "无意识",
+   "en": "unconsciousness",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.547",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "不知不觉、没有意识到的心理活动。包括觉醒状态时阈限下的思想和行为；睡眠、催眠状态时没有意识到的心理现象；病态或特殊精神状态时没有意识到的心理现象。"
+  },
+  {
+   "cn": "无意识",
+   "en": "unconsciousness",
+   "source": "麻醉学名词",
+   "wordNumber": "01.287",
+   "subjectFullName": "麻醉学_麻醉学基础_神经系统_意识和认知功能",
+   "subjectName": "意识和认知功能",
+   "publishYear": "2024",
+   "definition": "没有意识的状态。麻醉过程中，不出现外界可观察到的机体对外部世界和自身心理、生理活动等客观事物的知觉或体验。"
+  },
+  {
+   "cn": "神志不清",
+   "en": "unconsciousness",
+   "source": "妇科肿瘤学名词",
+   "wordNumber": "5.138",
+   "subjectFullName": "妇科肿瘤学_妇科肿瘤诊断学_体格检查",
+   "subjectName": "体格检查",
+   "publishYear": "2022",
+   "definition": "神志昏蒙，呼之能应，或时有谵语，失去对事情的判断和处理能力的状态。"
+  },
+  {
+   "cn": "意识丧失",
+   "en": "unconsciousness",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "06.126",
+   "subjectFullName": "阿尔茨海默病_治疗与康复_护理与康复",
+   "subjectName": "护理与康复",
+   "publishYear": "2019",
+   "definition": "无知觉的状态。对任何刺激无感觉的昏迷状 态。"
+  },
+  {
+   "cn": "无意识",
+   "en": "unconsciousness",
+   "source": "医学美学与美容医学名词",
+   "wordNumber": "02.011",
+   "subjectFullName": "医学美学与美容医学_美容医学心理学",
+   "subjectName": "美容医学心理学",
+   "publishYear": "2015",
+   "definition": "精神分析学说的脑解剖学模型中，包含不易带入意识要素的那部分人格的反映。"
+  },
+  {
+   "cn": "神昏",
+   "en": "unconsciousness",
+   "source": "中医药学名词（2010）",
+   "wordNumber": "01.0025",
+   "subjectFullName": "中医药学_内科学",
+   "subjectName": "内科学",
+   "publishYear": "2010",
+   "definition": "神志模糊，不省人事，甚至昏睡不醒，呼之不应的表现。"
+  },
+  {
+   "cn": "神昏",
+   "en": "unconsciousness",
+   "source": "中医药学名词",
+   "wordNumber": "04.018",
+   "subjectFullName": "中医药学_诊断学_诊法",
+   "subjectName": "诊法",
+   "publishYear": "2004",
+   "definition": "神志模糊，不省人事，甚至昏睡不醒，呼之不应的表现。"
+  },
+  {
+   "cn": "无意识",
+   "en": "nonconscious,unconscious",
+   "source": "心理学名词",
+   "wordNumber": "04.045",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "处于意识层面之下，不为人所觉察的活动能量或内容。包括人的本能冲动与原始欲望。由弗洛伊德(S. Freud)提出。"
+  },
+  {
+   "cn": "无意识动机",
+   "en": "unconscious motivation",
+   "source": "行为医学名词",
+   "wordNumber": "4.092",
+   "subjectFullName": "行为医学_行为的心理学基础_动机与行为",
+   "subjectName": "动机与行为",
+   "publishYear": "2022",
+   "definition": "个体没有意识到的内在力量。作用在于发起、维持或指导行为以达到目标。"
+  },
+  {
+   "cn": "无意识情绪",
+   "en": "unconscious emotion",
+   "source": "生理学名词",
+   "wordNumber": "03.657",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "潜意识过程",
+   "en": "unconscious process",
+   "source": "生物物理学名词",
+   "wordNumber": "04.175",
+   "subjectFullName": "生物物理学_神经生物物理学_多模态感觉信息加工",
+   "subjectName": "多模态感觉信息加工",
+   "publishYear": "2018",
+   "definition": "不能知觉到的一种心理活动。是人反映外部世界的一种特殊形式。"
+  },
+  {
+   "cn": "个体无意识",
+   "en": "personal unconscious",
+   "source": "心理学名词",
+   "wordNumber": "08.060",
+   "subjectFullName": "心理学_人格心理学",
+   "subjectName": "人格心理学",
+   "publishYear": "2014",
+   "definition": "荣格理论中的概念。是指个体没有主观觉察到的内部存储的信息及行为意向。"
+  },
+  {
+   "cn": "集体无意识",
+   "en": "collective unconscious",
+   "source": "心理学名词",
+   "wordNumber": "08.061",
+   "subjectFullName": "心理学_人格心理学",
+   "subjectName": "人格心理学",
+   "publishYear": "2014",
+   "definition": "荣格理论中的最核心概念。是指人类经种族长期演化流传下来的普遍存在的原始心像与观念。"
+  },
+  {
+   "cn": "无意识动机犯罪",
+   "en": "offense with unconscious motivation",
+   "source": "心理学名词",
+   "wordNumber": "13.025",
+   "subjectFullName": "心理学_法律心理学",
+   "subjectName": "法律心理学",
+   "publishYear": "2014",
+   "definition": "行为人在没有意识到的动机作用下实施的犯罪。"
+  },
+  {
+   "cn": "推理",
+   "en": "inference",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.043",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "由一个或几个已知的判断（前提），推导出一个未知的结论的思维过程。"
+  },
+  {
+   "cn": "推论",
+   "en": "inference",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "04.049",
+   "subjectFullName": "全科医学与社区卫生_全科医疗服务",
+   "subjectName": "全科医疗服务",
+   "publishYear": "2014",
+   "definition": "根据研究证据推导出的结论，是基于证据的判断。"
+  },
+  {
+   "cn": "推理",
+   "en": "inference,reasoning",
+   "source": "心理学名词",
+   "wordNumber": "02.643",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "从若干已知的判断得出新判断的思维形式。是借助已有的知识对事物进行间接的认识。"
+  },
+  {
+   "cn": "似真推理",
+   "en": "plausible inference",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.255",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "关于不确定的信念的推理理论。用信念测度（而非古典逻辑的真与假）来建立科学工作中诸如相反证据所导致的不确定信念的推理模式和形式模型。"
+  },
+  {
+   "cn": "无意识推理",
+   "en": "unconscious inference",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "无意识,潜意识",
+   "en": "unconscious\",\"nonconscious",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "无意识动机",
+   "en": "unconscious motivation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "个体无意识",
+   "en": "personal unconscious",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "无意识冲突",
+   "en": "unconscious conflict",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "集体无意识,集体潜意识",
+   "en": "collective unconsciousness",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "推理",
+   "en": "inference\",\"reasoning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "推理",
+   "en": "inference\",\"reasoning",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "武断推论",
+   "en": "arbitrary inference",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "直接推理",
+   "en": "direct inference",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "对应推论",
+   "en": "correspondent inference",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "类别推理",
+   "en": "categorical inference",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "统计推断",
+   "en": "statistical inference",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "演绎推理",
+   "en": "deductive inference",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "归纳推理",
+   "en": "inductive inference",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "统计推断",
+   "en": "statistical inference",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "贝叶斯推理",
+   "en": "Bayesian inference",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "贝叶斯推理",
+   "en": "Bayesian inference",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "不确定性推理",
+   "en": "uncertain inference",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "多路推理",
+   "en": "multiline inference",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "意图推断",
+   "en": "intent inference",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "因果推断",
+   "en": "causal inference",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识推理",
+   "en": "knowledge inference",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "举一反三",
+   "en": "Infer Three Other Related Aspects from One Concept",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "求同存异",
+   "en": "Seek Common Ground While Setting Aside Differences",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "第424次香山科学会议（中国）",
+   "en": "The 424th Session of Xiangshan Science Conferences (China)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无意识",
+   "en": "unconsciousness",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0555",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "精神分析学派创始人弗洛伊德（Sigmund Freud）提出的概念。他认为，每个人的心理都存在着性质完全不同的两种范畴：意识和无意识。所有进入我们意识的和能被我们回忆的心理活动属于意识范畴；而所有不直"
+  },
+  {
+   "cn": "政治无意识",
+   "en": "political unconscious",
+   "source": "马克思主义",
+   "wordNumber": "05.0192",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "美国马克思主义评论家弗雷德里克·詹姆逊 （Fredric Jameson）在被称为\"马克思主义的三部曲\"之一《政治无意识》(1981年)中，并没有直接进入到阶级的言说中来，而是代之以诸多文学文本并从历"
+  },
+  {
+   "cn": "无意识模式",
+   "en": "unconscious model",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0567",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "法国人类学家列维-斯特劳斯（Claude Levi-Strauss）研究社会结构的四种模式之一，即隐藏在社会文化表象之后，没有被社会成员所意识到的深层结构。这种结构无法直接观察到，他根植于人类的心灵。"
+  },
+  {
+   "cn": "集体无意识",
+   "en": "collective unconsciousness",
+   "source": "马克思主义",
+   "wordNumber": "05.0046",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "一种非物质的集体动因。本雅明认为上层建筑受双重力量支配，除物质因素外，还受集体无意识的决定。他总是将集体无意识与史前的无阶级社会中被埋葬的性欲经验的特定形式关联起来。"
+  },
+  {
+   "cn": "有意识模式",
+   "en": "conscious model",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0566",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "法国人类学家列维-斯特劳斯（Claude Levi-Strauss）研究社会结构的四种模式之一，即社会成员能够认识到的社会或文化的表层结构。但它不是真正的社会结构，可能是片面的和错误的，甚至可能是一张"
+  },
+  {
+   "cn": "性别差异",
+   "en": "gender differences",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0091",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "不同性别由于社会心理差异所呈现的不同的言语特征。"
+  },
+  {
+   "cn": "年龄差异",
+   "en": "age differences",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0093",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "同一言语社区内不同年龄段的人在使用语言变体上的差别。通常老年人的语言变体比较传统和保守，年轻人的语言变体比较简化和创新。"
+  },
+  {
+   "cn": "文化差异",
+   "en": "cultural differences",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0046",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "不同地区、民族的人们所持有的文化的差别。"
+  },
+  {
+   "cn": "代别",
+   "en": "generation differences",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0092",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "同一个言语社区内不同代际之间的言语差别。"
+  },
+  {
+   "cn": "消灭阶级和阶级差别",
+   "en": "eliminate class and class differences",
+   "source": "马克思主义",
+   "wordNumber": "03.0023",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "社会上不再存在任何阶级，人与人之间不再存在阶级关系。阶级是在社会生产力有了一定发展而又发展不足的条件下产生的。消灭阶级和阶级差别的物质前提是社会生产力的高度发展。阶级是否消亡是社会主义社会与共产主义社"
+  },
+  {
+   "cn": "搁置争议共同开发",
+   "en": "shelving differences and seeking joint development",
+   "source": "马克思主义",
+   "wordNumber": "04.0158",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "在解决某些国际争端时可以暂时不涉及两国的主权争议，共同开发诸如海底石油之类的自然资源。这是一种和平解决国际争端的方式，是邓小平将“一国两制”思想延伸到某些国际问题的处理上提出的解决方法。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,752 @@
+{
+ "key": "sour grapes",
+ "term": "sour grapes",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T04:23:37+00:00",
+ "status": "ok",
+ "note": "variant=sour grapes; 审定公布名词库=837; 海峡两岸名词对照库=197; 其他来源数据库=70; 预公布名词数据库=57; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "酸",
+   "en": "sour",
+   "source": "中医药学名词",
+   "wordNumber": "06.060",
+   "subjectFullName": "中医药学_中药学_中药学总论",
+   "subjectName": "中药学总论",
+   "publishYear": "2004",
+   "definition": "能收，能涩的药味。"
+  },
+  {
+   "cn": "酸乳清",
+   "en": "sour whey",
+   "source": "畜牧学名词",
+   "wordNumber": "06.416",
+   "subjectFullName": "畜牧学_畜产品与加工_乳_炼乳的加工",
+   "subjectName": "炼乳的加工",
+   "publishYear": "2020",
+   "definition": "盐酸法沉淀制造干酪素而得到的乳清。其pH为4.3～4.6。"
+  },
+  {
+   "cn": "含硫污水",
+   "en": "sour sewage",
+   "source": "化工名词（四）安全·环保·可持续发展",
+   "wordNumber": "02.303",
+   "subjectFullName": "化工（四）_炼油与化工企业健康-安全-环境管理_环境保护",
+   "subjectName": "环境保护",
+   "publishYear": "2020",
+   "definition": "特指主要来自生产装置的轻质油油水分离罐、富气水洗罐、液态烃水洗罐等的污水。"
+  },
+  {
+   "cn": "含硫气体",
+   "en": "sour gas",
+   "source": "化工名词（一）石油炼制·煤制油及天然气·生物质制油",
+   "wordNumber": "02.0774",
+   "subjectFullName": "化工（一）_加工工艺_脱硫",
+   "subjectName": "脱硫",
+   "publishYear": "2017",
+   "definition": "含有硫化氢、羰基硫、硫醇等硫化物的气体。"
+  },
+  {
+   "cn": "酸性水",
+   "en": "sour water",
+   "source": "化工名词（一）石油炼制·煤制油及天然气·生物质制油",
+   "wordNumber": "02.0794",
+   "subjectFullName": "化工（一）_加工工艺_酸性水",
+   "subjectName": "酸性水",
+   "publishYear": "2017",
+   "definition": "含有硫化氢、氨和二氧化碳等挥发性弱电解质的水溶液。主要来源于常减压、催化裂化、焦化及加氢等装置。"
+  },
+  {
+   "cn": "酸性气",
+   "en": "sour gas",
+   "source": "化工名词（一）石油炼制·煤制油及天然气·生物质制油",
+   "wordNumber": "02.0801",
+   "subjectFullName": "化工（一）_加工工艺_酸性水",
+   "subjectName": "酸性水",
+   "publishYear": "2017",
+   "definition": "含硫化氢、二氧化碳等组分的气体。这些气体的湿气呈酸性。"
+  },
+  {
+   "cn": "酸痛",
+   "en": "sour pain",
+   "source": "物理医学与康复名词",
+   "wordNumber": "04.103",
+   "subjectFullName": "物理医学与康复_损伤、疾病的康复_慢性疼痛",
+   "subjectName": "慢性疼痛",
+   "publishYear": "2014",
+   "definition": "深部组织痛。性质不易描述，定位差，可有明显的情绪反应和躯体反应。"
+  },
+  {
+   "cn": "酸痛",
+   "en": "sour pain",
+   "source": "中医药学名词",
+   "wordNumber": "04.349",
+   "subjectFullName": "中医药学_诊断学_诊法",
+   "subjectName": "诊法",
+   "publishYear": "2004",
+   "definition": "疼痛伴有酸软感觉。"
+  },
+  {
+   "cn": "酸气",
+   "en": "sour gas",
+   "source": "石油名词",
+   "wordNumber": "01.0060",
+   "subjectFullName": "石油_石油学总类",
+   "subjectName": "石油学总类",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "葡萄",
+   "en": "grape",
+   "source": "农学名词",
+   "wordNumber": "05.062",
+   "subjectFullName": "园艺作物_果树作物",
+   "subjectName": "果树作物",
+   "publishYear": "2025",
+   "definition": "葡萄科葡萄属(Vitis)果树。多年生落叶藤本。原产里海、黑海和地中海沿岸。栽培种主要有欧洲葡萄、美洲葡萄及欧美杂交种。果实除鲜食外，可酿酒、制干、制汁等。"
+  },
+  {
+   "cn": "酸性水汽提塔",
+   "en": "sour water stripper",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "04.186",
+   "subjectFullName": "化工（五）_工程建设_工程设计",
+   "subjectName": "工程设计",
+   "publishYear": "2021",
+   "definition": "在塔下部直接通入蒸汽，或者在重沸器中加入蒸汽以提供热源，使酸性水中<img src='/root/syzx/static/spz/huagong51.04.186.01.png'/>、<img src"
+  },
+  {
+   "cn": "酸性奶油",
+   "en": "sour cream butter",
+   "source": "畜牧学名词",
+   "wordNumber": "06.367",
+   "subjectFullName": "畜牧学_畜产品与加工_乳_奶油的加工",
+   "subjectName": "奶油的加工",
+   "publishYear": "2020",
+   "definition": "稀奶油经乳酸菌发酵后加工制成的奶油。有加盐和不加盐两种。"
+  },
+  {
+   "cn": "平酸菌",
+   "en": "flat sour bacteria",
+   "source": "食品科学技术名词",
+   "wordNumber": "02.0161",
+   "subjectFullName": "食品科学技术_食品科学_食品微生物学_食品微生物主要类群",
+   "subjectName": "食品微生物主要类群",
+   "publishYear": "2020",
+   "definition": "一类能引起罐头食品产酸变质而又不胀罐（即不产酸不产气）的微生物。主要由兼性厌氧芽孢杆菌组成。"
+  },
+  {
+   "cn": "平酸败",
+   "en": "flat sour spoilage",
+   "source": "食品科学技术名词",
+   "wordNumber": "02.0263",
+   "subjectFullName": "食品科学技术_食品科学_食品微生物学_食品微生物污染",
+   "subjectName": "食品微生物污染",
+   "publishYear": "2020",
+   "definition": "一种由可分解碳水化合物产酸不产气的平酸菌引起的一种腐败变质现象。是罐头食品常见的腐败变质，表现为罐头内容物酸度增加而外观完全正常。"
+  },
+  {
+   "cn": "发酵稀奶油",
+   "en": "fermented sour cream",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.1032",
+   "subjectFullName": "食品科学技术_食品工程_食品原料与加工_乳与乳制品",
+   "subjectName": "乳与乳制品",
+   "publishYear": "2020",
+   "definition": "以巴氏杀菌的稀奶油为原料，用乳酸菌发酵得到的乳脂肪不低于18%的奶油。"
+  },
+  {
+   "cn": "含硫污水汽提",
+   "en": "sour water stripping",
+   "source": "化工名词（四）安全·环保·可持续发展",
+   "wordNumber": "02.321",
+   "subjectFullName": "化工（四）_炼油与化工企业健康-安全-环境管理_环境保护",
+   "subjectName": "环境保护",
+   "publishYear": "2020",
+   "definition": "含硫污水与水蒸气直接接触，使废水中的硫化氢、氨等挥发性有毒有害物质从水相转至气相的过程。"
+  },
+  {
+   "cn": "平[罐]酸败",
+   "en": "flat sour spoilage",
+   "source": "微生物学名词",
+   "wordNumber": "08.086",
+   "subjectFullName": "微生物学_应用微生物学",
+   "subjectName": "应用微生物学",
+   "publishYear": "2012",
+   "definition": "罐头不膨胀而发生酸败的现象。"
+  },
+  {
+   "cn": "平罐酸败菌",
+   "en": "flat sour bacteria",
+   "source": "微生物学名词",
+   "wordNumber": "08.087",
+   "subjectFullName": "微生物学_应用微生物学",
+   "subjectName": "应用微生物学",
+   "publishYear": "2012",
+   "definition": "引起平罐酸败现象的微生物。"
+  },
+  {
+   "cn": "平酸罐头",
+   "en": "flat sour can",
+   "source": "水产名词",
+   "wordNumber": "08.333",
+   "subjectFullName": "水产_水产品保鲜及加工",
+   "subjectName": "水产品保鲜及加工",
+   "publishYear": "2002",
+   "definition": "罐内由于平酸菌使内容物变酸而不产气的腐败罐头。"
+  },
+  {
+   "cn": "平酸菌",
+   "en": "flat-sour bacteria",
+   "source": "水产名词",
+   "wordNumber": "08.334",
+   "subjectFullName": "水产_水产品保鲜及加工",
+   "subjectName": "水产品保鲜及加工",
+   "publishYear": "2002",
+   "definition": "使罐头不产气酸败的细菌。"
+  },
+  {
+   "cn": "酸",
+   "en": "sour",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "酸败",
+   "en": "souring",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "酸气",
+   "en": "sour gas",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "酸水",
+   "en": "sour water",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "酸败发酵",
+   "en": "sour fermentation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "酸水汽提",
+   "en": "sour-water stripping",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "葡萄样末梢",
+   "en": "grape ending",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "上下八度联键音栓",
+   "en": "octaves graves",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "土地等级",
+   "en": "land grades",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "镫骨",
+   "en": "stapes",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "霰",
+   "en": "graupel",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "砾石",
+   "en": "gravel",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "镫骨",
+   "en": "stapes",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "砾石",
+   "en": "gravel",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "食植者",
+   "en": "grazer",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "地堑",
+   "en": "graben",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "砾石",
+   "en": "gravel",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "信风",
+   "en": "trades",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "镫骨",
+   "en": "stapes",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "弧线",
+   "en": "slur",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "四人赛艇",
+   "en": "four",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "马刺",
+   "en": "spur",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "马刺",
+   "en": "spur",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "四维",
+   "en": "four dimensions",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "四端",
+   "en": "Four Initiators",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "四海",
+   "en": "Four Seas",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "四书",
+   "en": "Four Books",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "四象",
+   "en": "Four Images",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "Solr服务器",
+   "en": "Solr server",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "四次击球",
+   "en": "four hits",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "四次击球",
+   "en": "four contacts",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "四人划艇",
+   "en": "Canadian four\",\"C4",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "四人皮艇",
+   "en": "kayak four\",\"K4",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "奥林匹克运动会",
+   "en": "Olympic Games\",\"Olympics",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "平酸败",
+   "en": "flat sour spoilage",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.11.7.16",
+   "subjectFullName": "食品卫生学_食品_罐头食品",
+   "subjectName": "罐头食品",
+   "publishYear": "2025",
+   "definition": "由可分解碳水化合物产酸不产气的平酸菌引起的一种腐败变质现象。"
+  },
+  {
+   "cn": "粮食",
+   "en": "grains",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.1",
+   "subjectFullName": "食品卫生学_食品_粮食",
+   "subjectName": "粮食",
+   "publishYear": "2025",
+   "definition": "供人食用的原粮和成品粮,包括谷物、豆类、薯类等。"
+  },
+  {
+   "cn": "刺团",
+   "en": "spur",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.1.1.36",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2025",
+   "definition": "一种小的反应体积。水的原初辐射分解反应并非平均分布于空间，一般是在小的体积内成簇发生的，这种小的体积平均半径为1.5 nm。"
+  },
+  {
+   "cn": "灵魂",
+   "en": "soul",
+   "source": "社会学名词",
+   "wordNumber": "4.2.9.35",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化现象",
+   "subjectName": "文化现象",
+   "publishYear": "2025",
+   "definition": "人的生命和精神载体。被认为与肉体相对，可与肉体分离并因其道德属性而获得相反的归宿（天堂、地狱），并且永远不灭。虽被用来翻译各种文化的类似观念，但严格地说，仅表达了犹太—基督教文化的地方性知识。"
+  },
+  {
+   "cn": "谷物风选机",
+   "en": "grains winnower",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.3.18",
+   "subjectFullName": "食品卫生学_食品污染_食品物理性危害因素",
+   "subjectName": "食品物理性危害因素",
+   "publishYear": "2025",
+   "definition": "利用风将谷物进行清选的设备。"
+  },
+  {
+   "cn": "叟",
+   "en": "Sou",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0115",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "古族名。汉代谓蜀为叟。汉至六朝时，分布于今甘肃东南部、四川西部、云南东部与贵州西部等地。东晋之后逐渐融于各民族中，与今日之白族有较为密切的关系。"
+  },
+  {
+   "cn": "四端",
+   "en": "four initiators",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.07",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "仁、义、礼、智四种道德观念的端始、萌芽。孟子认为四端是人之本性的自然呈现，是人与动物的不同之处，人没有四端则不能称其为人；认为恻隐之心是仁之端，羞恶之心是义之端，辞让之心是礼之端，是非之心是智之端。"
+  },
+  {
+   "cn": "灵魂崇拜",
+   "en": "soul worship",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0296",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "相信在人身上存在着某种纯粹的精神实体——灵魂，它可以和肉体相结合，主宰肉体的活动，也可以脱离肉体而单独存在；主要有生魂、游魂、转生魂。"
+  },
+  {
+   "cn": "真空低温烹调法",
+   "en": "sous vide",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.4.62",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品生产规范",
+   "subjectName": "食品生产规范",
+   "publishYear": "2025",
+   "definition": "一种食品加工方法，将食品原料放入塑料袋，然后抽真空，随后在精准温度控制下对食材进行最低程度的烹饪，并立即冷藏。"
+  },
+  {
+   "cn": "四个现代化",
+   "en": "four modernizations",
+   "source": "马克思主义",
+   "wordNumber": "03.0393",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "工业、农业、国防和科学技术的现代化。1959年末至1960年初，毛泽东在读苏联《政治经济学教科书》笔记中完整地提出“实现社会主义四个现代化”口号。周恩来根据毛泽东的提议，在全国人大三届一次会议的《政府"
+  },
+  {
+   "cn": "四信",
+   "en": "four beliefs",
+   "source": "马克思主义",
+   "wordNumber": "03.0647",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "江泽民在建党80周年讲话中强调：坚定对马克思主义的信仰、坚定对社会主义的信念、增强对改革开放和现代化建设的信心、增强对党和政府的信任，简称“四信”。这是针对改革开放过程中人们思想观念发生的变化而提出需"
+  },
+  {
+   "cn": "四个划清",
+   "en": "four distinctions",
+   "source": "马克思主义",
+   "wordNumber": "03.0692",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "党的十七届四中全会通过的《中共中央关于加强和改进新形势下党的建设若干重大问题的决定》提出：“加强党的意识形态工作和思想政治工作，引导党员、干部增强政治敏锐性和政治鉴别力，筑牢思想防线，自觉划清马克思主"
+  },
+  {
+   "cn": "四大危险",
+   "en": "four risks",
+   "source": "马克思主义",
+   "wordNumber": "03.0785",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "在纪念建党九十周年大会的讲话中，胡锦涛首次提出。指的是精神懈怠的危险，能力不足的危险，脱离群众的危险，消极腐败的危险。这四大危险，充分表明中国共产党的忧患意识，以及加强党的先进性和纯洁性建设的自觉意识"
+  },
+  {
+   "cn": "四大考验",
+   "en": "four tests",
+   "source": "马克思主义",
+   "wordNumber": "03.0786",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "在纪念建党九十周年大会的讲话中，胡锦涛首次提出。指的是在世情、国情、党情发生深刻变化的新形势下，提高党的领导水平和执政水平、提高拒腐防变和抵御风险能力，加强党的执政能力建设和先进性建设，面临的执政考验"
+  },
+  {
+   "cn": "四个意识",
+   "en": "Four Consciousnesses",
+   "source": "马克思主义",
+   "wordNumber": "03.0801",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "2016年1月29日，中央政治局会议首次公开提出四个意识，即：全体党员要有政治意识、大局意识、核心意识、看齐意识。"
+  },
+  {
+   "cn": "汤类罐头",
+   "en": "soup can",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.11.6.4",
+   "subjectFullName": "食品卫生学_食品_罐头食品",
+   "subjectName": "罐头食品",
+   "publishYear": "2025",
+   "definition": "以符合要求的肉、禽、水产及蔬菜等原料的汤品，经预处理、调制、装罐、密封、杀菌、冷却等工艺制成的罐藏食品。"
+  },
+  {
+   "cn": "包装气体",
+   "en": "packaging gases",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.2.20",
+   "subjectFullName": "食品卫生学_食品添加剂_食品工业用加工助剂",
+   "subjectName": "食品工业用加工助剂",
+   "publishYear": "2025",
+   "definition": "在填充食品之前、过程中或之后装入容器内，用于保护食品（如防止氧化或腐坏）的气体。"
+  },
+  {
+   "cn": "民间游戏",
+   "en": "folk games",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0428",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "流传于民间，以嬉戏、消遣为主的娱乐活动，是民间娱乐中最常见、最简易、最普遍的趣味性活动。民间游戏包括儿童的庭院嬉戏，成人的助兴游戏，以及少年、成人共享的斗智游戏等。"
+  },
+  {
+   "cn": "蜀叟",
+   "en": "Shu Sou",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0133",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "古族名，为叟之一支；首见于《华阳国志》。指蜀地之叟人。汉代，有时又称蜀为叟。与古氐羌系统有渊源关系。"
+  },
+  {
+   "cn": "越巂叟",
+   "en": "Yuesui Sou",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0134",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "古族名。叟中一支，居住在越巂郡。汉武帝元鼎六年置郡。其族名首见于《华阳国志》：“先主薨，越巂叟帅高定元叛”。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

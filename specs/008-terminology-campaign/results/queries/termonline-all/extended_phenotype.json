@@ -1,0 +1,702 @@
+{
+ "key": "extended phenotype",
+ "term": "extended phenotype",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T04:25:05+00:00",
+ "status": "ok",
+ "note": "variant=extended phenotype; 审定公布名词库=325; 海峡两岸名词对照库=108; 其他来源数据库=15; 预公布名词数据库=16; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "表型",
+   "en": "phenotype",
+   "source": "风景园林名词",
+   "wordNumber": "09.0139",
+   "subjectFullName": "风景园林_风景园林植物_风景园林植物遗传育种",
+   "subjectName": "风景园林植物遗传育种",
+   "publishYear": "2025",
+   "definition": "有机体可被观察到的结构和功能方面的特性，如形态和行为方面的特征。是基因型和环境交互作用的产物，即特定的基因型在一定环境条件下的表现形式。"
+  },
+  {
+   "cn": "表［现］型",
+   "en": "phenotype",
+   "source": "农学名词",
+   "wordNumber": "06.124",
+   "subjectFullName": "作物基因组学与遗传育种_作物遗传改良",
+   "subjectName": "作物遗传改良",
+   "publishYear": "2025",
+   "definition": "在特定环境中，一个生物个体所表现的生理、形态和行为等所有特征的总和。"
+  },
+  {
+   "cn": "表型",
+   "en": "phenotype",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0027",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_基因及其功能_结构",
+   "subjectName": "结构",
+   "publishYear": "2024",
+   "definition": "由构成基因型的等位基因的优势关系以及与环境相互作用使机体所产生的、可观察或测定的特征。"
+  },
+  {
+   "cn": "表型",
+   "en": "phenotype",
+   "source": "男科及性医学名词",
+   "wordNumber": "03.073",
+   "subjectFullName": "男科及性医学_生殖系统遗传",
+   "subjectName": "生殖系统遗传",
+   "publishYear": "2023",
+   "definition": "基因型与环境相互作用，形成生物体可观察到的性状。在不同的环境条件下，相同的基因型可以出现不同的表型，不同的基因型也可能出现相同的表型。"
+  },
+  {
+   "cn": "表［现］型",
+   "en": "phenotype",
+   "source": "兽医学名词",
+   "wordNumber": "09.156",
+   "subjectFullName": "兽医学_实验动物学",
+   "subjectName": "实验动物学",
+   "publishYear": "2023",
+   "definition": "基因型决定的性状表现。"
+  },
+  {
+   "cn": "表［现］型",
+   "en": "phenotype ",
+   "source": "草学名词",
+   "wordNumber": "5.0014",
+   "subjectFullName": "草学_草业生物技术",
+   "subjectName": "草业生物技术",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "表型",
+   "en": "phenotype",
+   "source": "医学遗传学名词",
+   "wordNumber": "1.073",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "由基因型与发育环境相互作用而产生的个体可观察到的性状。狭义指某个或某些基因所表现出来的性状。"
+  },
+  {
+   "cn": "表型",
+   "en": "phenotype",
+   "source": "畜牧学名词",
+   "wordNumber": "04.015",
+   "subjectFullName": "畜牧学_遗传育种_普通遗传学",
+   "subjectName": "普通遗传学",
+   "publishYear": "2020",
+   "definition": "生物个体的性状在一定环境下的表现。"
+  },
+  {
+   "cn": "表型",
+   "en": "phenotype",
+   "source": "食品科学技术名词",
+   "wordNumber": "05.0515",
+   "subjectFullName": "食品科学技术_食品营养_营养遗传学和营养基因组学",
+   "subjectName": "营养遗传学和营养基因组学",
+   "publishYear": "2020",
+   "definition": "一个生物体可观察到的特征或性状的总和。"
+  },
+  {
+   "cn": "表型",
+   "en": "phenotype",
+   "source": "植物学名词",
+   "wordNumber": "10.0016",
+   "subjectFullName": "植物学_植物遗传学",
+   "subjectName": "植物遗传学",
+   "publishYear": "2019",
+   "definition": "一个生命体可以观察到或分辨的性状或特征的总和。是特定的基因型和环境相互作用的结果。"
+  },
+  {
+   "cn": "表型",
+   "en": "phenotype",
+   "source": "核医学名词",
+   "wordNumber": "04.0041",
+   "subjectFullName": "核医学_临床核医学_肿瘤核医学_肿瘤学基础",
+   "subjectName": "肿瘤学基础",
+   "publishYear": "2018",
+   "definition": "生物体可观察到的结构和功能特性的总和。为基因型与环境相互作用的结果。"
+  },
+  {
+   "cn": "表型",
+   "en": "phenotype",
+   "source": "林学名词",
+   "wordNumber": "04.010",
+   "subjectFullName": "林学_林木遗传育种_林木遗传",
+   "subjectName": "林木遗传",
+   "publishYear": "2016",
+   "definition": "林木个体上所观察到或可度量的外在性状的总和。受到遗传和环境两个因素的影响。"
+  },
+  {
+   "cn": "表型",
+   "en": "phenotype",
+   "source": "微生物学名词",
+   "wordNumber": "06.017",
+   "subjectFullName": "微生物学_微生物遗传学",
+   "subjectName": "微生物遗传学",
+   "publishYear": "2012",
+   "definition": "可被观察到的生物体或细胞的性状或特征，是特定的基因型和环境相互作用的结果。"
+  },
+  {
+   "cn": "表型",
+   "en": "phenotype",
+   "source": "古生物学名词",
+   "wordNumber": "01.0091",
+   "subjectFullName": "古生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2009",
+   "definition": "在特定环境中，一个生物个体所表现的生理、形态和行为等所有特征的总和。相同基因型的个体在不同环境中可显示不同的表型。"
+  },
+  {
+   "cn": "表型",
+   "en": "phenotype",
+   "source": "免疫学名词",
+   "wordNumber": "1.101",
+   "subjectFullName": "免疫学_概论_免疫学相关名词",
+   "subjectName": "免疫学相关名词",
+   "publishYear": "2007",
+   "definition": "(1)在免疫遗传学范畴，指个体有核细胞所表达的HLA抗原型别。(2)在细胞免疫学范畴，指各类免疫细胞表面所表达的(特征性)膜分子。"
+  },
+  {
+   "cn": "表型",
+   "en": "phenotype",
+   "source": "遗传学名词",
+   "wordNumber": "02.008",
+   "subjectFullName": "遗传学_经典遗传学",
+   "subjectName": "经典遗传学",
+   "publishYear": "2007",
+   "definition": "一个生物体(或细胞)可以观察到的性状或特征，是特定的基因型和环境相互作用的结果。"
+  },
+  {
+   "cn": "表型",
+   "en": "phenotype",
+   "source": "生态学名词",
+   "wordNumber": "12.061",
+   "subjectFullName": "生态学_分子生态学",
+   "subjectName": "分子生态学",
+   "publishYear": "2006",
+   "definition": "生物体可观察到的结构和功能特性的总和，是基因型与环境相互作用的结果。"
+  },
+  {
+   "cn": "表型",
+   "en": "phenotype",
+   "source": "地理学名词",
+   "wordNumber": "06.083",
+   "subjectFullName": "地理学_生物地理学",
+   "subjectName": "生物地理学",
+   "publishYear": "2006",
+   "definition": "某一生物体所能显现出的性状的总和。"
+  },
+  {
+   "cn": "表型",
+   "en": "phenotype",
+   "source": "水产名词",
+   "wordNumber": "05.172",
+   "subjectFullName": "水产_水产生物育种学",
+   "subjectName": "水产生物育种学",
+   "publishYear": "2002",
+   "definition": "基因型在特定条件下的性状表现。"
+  },
+  {
+   "cn": "表型",
+   "en": "phenotype",
+   "source": "医学名词 第三分册",
+   "wordNumber": "01.066",
+   "subjectFullName": "医学_医学遗传学",
+   "subjectName": "医学遗传学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "表型",
+   "en": "phenotype",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "表型",
+   "en": "phenotype",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "表型",
+   "en": "phenotype",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "表型",
+   "en": "phenotype",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "表型",
+   "en": "phenotype",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "表型",
+   "en": "phenotype",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "表型",
+   "en": "phenotype",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "表型",
+   "en": "phenotype",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "增量剂",
+   "en": "extender",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "核表型",
+   "en": "nuclear phenotype",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "表型匹配",
+   "en": "phenotype matching",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "表型作图,表型定位[法]",
+   "en": "phenotype mapping",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "孟买型",
+   "en": "Bombay phenotype",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "质粒表型",
+   "en": "plasmid phenotype",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "核表型",
+   "en": "nuclear phenotype",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "质粒表型",
+   "en": "plasmid phenotype",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "表型分布",
+   "en": "phenotype distribution",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "表型变异",
+   "en": "phenotypic variation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "表型方差",
+   "en": "phenotypic variance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "表型可塑性",
+   "en": "phenotypic plasticity",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "延期",
+   "en": "extend",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "直体的",
+   "en": "extended\",\"stretched",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "伸长跑步",
+   "en": "extended canter",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "伸长快步",
+   "en": "extended trot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "伸长慢步",
+   "en": "extended walk",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "延长闪回时间",
+   "en": "extended flashback time",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中线延长线",
+   "en": "extended center line",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "直体姿势",
+   "en": "extended position\",\"stretched position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "推恩",
+   "en": "Extend Benevolence and Love",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "泛爱",
+   "en": "Broad Love Extending to All",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "延长春节假期",
+   "en": "to extend the Chinese New Year holiday",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 21715.4-2011 健康信息学 患者健康卡数据 第4部分：扩展临床数据》",
+   "en": "GB/T 21715.4-2011 Health informatics — Patient healthcard data — Part 4: Extended clinical data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "应对气候变化与国家自主行动",
+   "en": "addressing climate change and intended national actions",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "表型",
+   "en": "phenotype",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.9.5",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫遗传",
+   "subjectName": "免疫遗传",
+   "publishYear": "2025",
+   "definition": "在细胞免疫学范畴，指各类免疫细胞表面所表达的(特征性)膜分子。"
+  },
+  {
+   "cn": "发育表型",
+   "en": "developmental phenotype",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "1.6.1.4",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生学_妇幼卫生理论",
+   "subjectName": "妇幼卫生理论",
+   "publishYear": "2025",
+   "definition": "生命体在基因和环境共同作用下，在发育过程中表现出的一系列形态和功能特征。"
+  },
+  {
+   "cn": "扩大家庭",
+   "en": "extended family",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0379",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "家庭结构分类中的一种家庭形式，指由有共同血缘关系的父母和已婚子女，或已婚兄弟姐妹的多个核心家庭组成的家庭模式。"
+  },
+  {
+   "cn": "扩展个案法",
+   "en": "extended case study",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.5",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "从宏观权力的视角观察具体的日常生活、由具体个案反观宏观因素、从而实现理论改进的个案研究方法。由美国社会学家麦可·布洛维提出。"
+  },
+  {
+   "cn": "扩展计划距离",
+   "en": "extended planning distance，EPD",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.1.11.6",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "设施周围做好应急安排的区域，以便在宣布总体应急（场外应急）后进行放射性状况监测，并在出现大量放射性释放后的一段时间内确定需要在厂外采取应急响应行动的区域，从而有效地降低公众成员中的随机效应风险。对压水"
+  },
+  {
+   "cn": "卫生费用核算扩展维度",
+   "en": "extended health accounting framework",
+   "source": "卫生经济学名词",
+   "wordNumber": "2.2.4",
+   "subjectFullName": "卫生经济学名词_卫生总费用_卫生费用核算",
+   "subjectName": "卫生费用核算",
+   "publishYear": "2025",
+   "definition": "卫生费用核算时基于卫生费用核算核心维度的向外伸展。包括筹资环节、生产环节和消费环节三个维度。"
+  },
+  {
+   "cn": "扩展不确定度",
+   "en": "expanded uncertainty",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.27",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "合成标准不确定度与一个大于1的数字因子的乘积。"
+  },
+  {
+   "cn": "扩大再生产",
+   "en": "expanded reproduction",
+   "source": "马克思主义",
+   "wordNumber": "02.0209",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "相对于简单再生产而言的另一种再生产的形式，生产过程在扩大规模上的重复进行。主要有两种形式或方式：外延的扩大再生产和内含的扩大再生产。"
+  },
+  {
+   "cn": "不确定度",
+   "en": "expanded uncertainty",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.66",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "与测量结果相关联的、表征合理的赋予被测量的值分散性的参数。是描述未定误差特征的量值。"
+  },
+  {
+   "cn": "相对扩展不确定度",
+   "en": "relative expanded uncertainty",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.28",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "扩展不确定度除以测量结果的百分率。"
+  },
+  {
+   "cn": "接触食品用水",
+   "en": "water intended for food contac",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.4.18",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品生产规范",
+   "subjectName": "食品生产规范",
+   "publishYear": "2025",
+   "definition": "食品生产过程中与食品直接接触的用水，如与食品直接接触的清洗、冷却、解冻、制冰和蒸汽用水，食品接触表面的清洁用水等。"
+  },
+  {
+   "cn": "扩大的价值形式",
+   "en": "total or expanded form of value",
+   "source": "马克思主义",
+   "wordNumber": "02.0062",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "价值形式发展过程的第二阶段。一种商品的价值以一系列其他商品来表现的价值形式。从简单价值形式发展到总和的或扩大的价值形式表明商品交换关系的发展与扩大。"
+  },
+  {
+   "cn": "非接触食品用水",
+   "en": "water not intended for food contact",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.4.19",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品生产规范",
+   "subjectName": "食品生产规范",
+   "publishYear": "2025",
+   "definition": "食品生产过程中不直接与食品接触的用水，如夹套保温水，间接冷却水，非食品接触表面的清洁用水等。"
+  },
+  {
+   "cn": "食品添加剂超范围使用",
+   "en": "food additive use exceeded allowed scope",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.25.7",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "在食品添加剂使用标准所允许使用的食品类别外的食品中添加食品添加剂"
+  },
+  {
+   "cn": "食品添加剂超限量使用",
+   "en": "food additive use exceeded maximum use level",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.25.8",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "在食品添加剂使用标准所允许的特定食品中超出使用限量添加食品添加剂"
+  },
+  {
+   "cn": "特殊医学用途婴儿配方食品",
+   "en": "formulas for special medical purposes intended for infants",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.2.7",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "为了满足进食受限、消化吸收障碍、代谢紊乱或特定疾病状态等婴儿对营养素或膳食的特殊需要,专门加工配制而成的配方食品。该类产品应在医生或临床营养师指导下,单独食用或与其他食物配合食用"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

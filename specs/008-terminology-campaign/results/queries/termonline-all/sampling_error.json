@@ -1,0 +1,752 @@
+{
+ "key": "sampling error",
+ "term": "sampling error",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T04:23:07+00:00",
+ "status": "ok",
+ "note": "variant=sampling error; 审定公布名词库=1723; 海峡两岸名词对照库=784; 其他来源数据库=37; 预公布名词数据库=93; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "抽样误差",
+   "en": "sampling error",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.102",
+   "subjectFullName": "自然辩证法_科学技术方法论_实验与检验",
+   "subjectName": "实验与检验",
+   "publishYear": "2024",
+   "definition": "抽样方法本身所引起的误差。是样本的结构不足以代表总体的结构，而引起的样本指标与总体指标之间的绝对离差。"
+  },
+  {
+   "cn": "抽样误差",
+   "en": "sampling error",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "19.195",
+   "subjectFullName": "新闻学与传播学_传媒经济_传媒经济研究",
+   "subjectName": "传媒经济研究",
+   "publishYear": "2022",
+   "definition": "在一个小样本中预期的比例会发生随机改变的现象。"
+  },
+  {
+   "cn": "抽样误差",
+   "en": "sampling error",
+   "source": "畜牧学名词",
+   "wordNumber": "04.626",
+   "subjectFullName": "畜牧学_遗传育种_生物统计学",
+   "subjectName": "生物统计学",
+   "publishYear": "2020",
+   "definition": "抽样过程中由大量无法控制的偶然因素的作用所引起的样本统计量与总体参数间的差异。"
+  },
+  {
+   "cn": "抽样误差",
+   "en": "sampling error",
+   "source": "核医学名词",
+   "wordNumber": "06.0335",
+   "subjectFullName": "核医学_核医学研究_核医学临床研究",
+   "subjectName": "核医学临床研究",
+   "publishYear": "2018",
+   "definition": "由于随机抽样的偶然因素导致样本各指标结构与总体指标结构之间的差异。在抽样调查中，不论用何种抽样方法，从总体中抽取样本进行研究，都存在不同程度的误差，不会与总体结果完全一致。"
+  },
+  {
+   "cn": "取样误差",
+   "en": "sampling error",
+   "source": "计量学名词",
+   "wordNumber": "15.264",
+   "subjectFullName": "计量学_化学_被分析物",
+   "subjectName": "被分析物",
+   "publishYear": "2015",
+   "definition": "因取样给测量结果带来的误差。"
+  },
+  {
+   "cn": "抽样误差",
+   "en": "sampling error",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "06.117",
+   "subjectFullName": "全科医学与社区卫生_社区公共卫生",
+   "subjectName": "社区公共卫生",
+   "publishYear": "2014",
+   "definition": "从同一总体中抽样，得到某变量值的统计量与总体参数之间的差。"
+  },
+  {
+   "cn": "抽样误差",
+   "en": "sampling error",
+   "source": "放射医学与防护名词",
+   "wordNumber": "04.406",
+   "subjectFullName": "放射医学与防护_电离辐射剂量学_电离辐射监测方法",
+   "subjectName": "电离辐射监测方法",
+   "publishYear": "2014",
+   "definition": "由于相关样品的随机性而产生的误差。"
+  },
+  {
+   "cn": "采样误差",
+   "en": "sampling error",
+   "source": "自动化名词",
+   "wordNumber": "02.201",
+   "subjectFullName": "自动化科学技术_控制理论_经典控制论",
+   "subjectName": "经典控制论",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "抽样",
+   "en": "sampling",
+   "source": "农学名词",
+   "wordNumber": "18.006",
+   "subjectFullName": "农产品质量安全_农产品质量安全监测",
+   "subjectName": "农产品质量安全监测",
+   "publishYear": "2025",
+   "definition": "取出物质、材料或产品的一部分，作为其整体的代表性样品进行检测或校准的一种规定程序。"
+  },
+  {
+   "cn": "采样",
+   "en": "sampling",
+   "source": "兽医学名词",
+   "wordNumber": "03.075",
+   "subjectFullName": "兽医学_动物检验检疫",
+   "subjectName": "动物检验检疫",
+   "publishYear": "2023",
+   "definition": "从动物或动物产品采取一定数量、有代表性的物品。以供实验室检验的工作。"
+  },
+  {
+   "cn": "采样",
+   "en": "sampling",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.02.035",
+   "subjectFullName": "编辑与出版学_数字出版_音像出版",
+   "subjectName": "音像出版",
+   "publishYear": "2022",
+   "definition": "以适当的时间间隔观测模拟信号波形幅值的过程。一项通过获取周期性的瞬像来形成连续图像的技术。"
+  },
+  {
+   "cn": "取样",
+   "en": "sampling ",
+   "source": "草学名词",
+   "wordNumber": "4.005",
+   "subjectFullName": "草学_种子和育种_草种子学",
+   "subjectName": "草种子学",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "抽样",
+   "en": "sampling",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1926",
+   "subjectFullName": "地球物理学_地震科学_地震反演",
+   "subjectName": "地震反演",
+   "publishYear": "2022",
+   "definition": "以抽样器实现将信号从连续时间域上的模拟信号按一定的时间间隔采集转换到离散时间域上的离散信号过程。 "
+  },
+  {
+   "cn": "取样",
+   "en": "sampling",
+   "source": "动物学名词",
+   "wordNumber": "7.0337",
+   "subjectFullName": "动物学_动物生态学_种群生态学",
+   "subjectName": "种群生态学",
+   "publishYear": "2021",
+   "definition": "从预研究的总体（全部样品）中抽取一部分样品进行研究并对整体进行估计的过程。"
+  },
+  {
+   "cn": "取样",
+   "en": "sampling",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "03.070",
+   "subjectFullName": "化工（五）_研发与工程化_基础研究与技术开发",
+   "subjectName": "基础研究与技术开发",
+   "publishYear": "2021",
+   "definition": "从目标事物中选择有代表性的样本。"
+  },
+  {
+   "cn": "采样",
+   "en": "sampling",
+   "source": "测绘学名词",
+   "wordNumber": "03.321",
+   "subjectFullName": "测绘学_摄影测量学与遥感",
+   "subjectName": "摄影测量学与遥感",
+   "publishYear": "2020",
+   "definition": "把时间域或空间域的连续量转化成离散量的过程。"
+  },
+  {
+   "cn": "采样",
+   "en": "sampling",
+   "source": "医学影像技术学名词",
+   "wordNumber": "03.020",
+   "subjectFullName": "医学影像技术学_数字X射线成像技术_数字影像学基础",
+   "subjectName": "数字影像学基础",
+   "publishYear": "2020",
+   "definition": "对影像在一个空间点阵上取样，在空间位置上将影像离散化、数字化的过程。"
+  },
+  {
+   "cn": "采样",
+   "en": "sampling",
+   "source": "电力名词",
+   "wordNumber": "08.087",
+   "subjectFullName": "电力_燃料",
+   "subjectName": "燃料",
+   "publishYear": "2020",
+   "definition": "按规定方法采取有代表性煤样的过程。"
+  },
+  {
+   "cn": "抽样",
+   "en": "sampling",
+   "source": "计划生育名词",
+   "wordNumber": "05.057",
+   "subjectFullName": "计划生育_计划生育科研方法",
+   "subjectName": "计划生育科研方法",
+   "publishYear": "2019",
+   "definition": "从总体中取出部分个体的过程。目的是通过所取得的个体对总体的某些未知特性做出统计推断。"
+  },
+  {
+   "cn": "采样",
+   "en": "sampling",
+   "source": "冶金学名词",
+   "wordNumber": "03.0746",
+   "subjectFullName": "冶金学_选矿_辅助设施及检测",
+   "subjectName": "辅助设施及检测",
+   "publishYear": "2019",
+   "definition": "采集矿石或其他物料样品的过程。"
+  },
+  {
+   "cn": "取样误差",
+   "en": "sampling error",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "取样误差",
+   "en": "sampling error",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "采样误差",
+   "en": "sampling error",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抽样标准误［差］",
+   "en": "standard error of sampling",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "抽样，取样",
+   "en": "sampling",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "取样（=抽样）",
+   "en": "sampling",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "采样",
+   "en": "sampling",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "取样",
+   "en": "sampling",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "抽样",
+   "en": "sampling",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "取样,抽样",
+   "en": "sampling",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "取样",
+   "en": "sampling",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "取样",
+   "en": "sampling",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "采样",
+   "en": "sampling",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "采样",
+   "en": "sampling",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "取样，抽样，采样",
+   "en": "sampling",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "取样",
+   "en": "sampling",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "样本",
+   "en": "sample",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "样本",
+   "en": "sample",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "试样",
+   "en": "sample",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "样本",
+   "en": "sample",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "抽样",
+   "en": "sampling",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "采样",
+   "en": "sampling",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "样本",
+   "en": "sample",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "采样分析",
+   "en": "sampling analysis",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "拒绝采样",
+   "en": "rejection sampling",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "重要性采样",
+   "en": "importance sampling",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "吉布斯采样",
+   "en": "Gibbs sampling",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "检测样本",
+   "en": "test sample",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗救治",
+   "subjectName": "医疗救治",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "逆变换采样法",
+   "en": "inverse transform sampling",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "错打",
+   "en": "error",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "发球失误",
+   "en": "service error",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "受迫性失误",
+   "en": "forced error",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "非受迫性失误",
+   "en": "unforced error",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "差错控制编码",
+   "en": "error control coding",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "抽样偏倚",
+   "en": "sampling error",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.60",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "运用统计学从样本中得到的估计值同总体的真值之间差异的一般趋势。一般可以分解为两部分：选择偏倚和估计偏倚。"
+  },
+  {
+   "cn": "抽样",
+   "en": "sampling",
+   "source": "消毒学",
+   "wordNumber": "1.8.8",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "从总体中抽取一定数量样本的过程，以根据样本信息推断总体特征。"
+  },
+  {
+   "cn": "抽样",
+   "en": "sampling",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.42",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "由总体中选取一部分代表的过程。"
+  },
+  {
+   "cn": "抽样",
+   "en": "sampling",
+   "source": "社会医学名词",
+   "wordNumber": "4.1",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "抽样",
+   "publishYear": "2025",
+   "definition": "从特定的观察单位或总体中抽取一部分样本的过程。目的是用样本信息来推断总体特征。"
+  },
+  {
+   "cn": "样本",
+   "en": "sample",
+   "source": "消毒学",
+   "wordNumber": "1.8.7",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "用以代表总体的少量个体。"
+  },
+  {
+   "cn": "样本",
+   "en": "sample",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.44",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "从总体中选取的、加以观察或试验的一部分个体。"
+  },
+  {
+   "cn": "采样点",
+   "en": "sampling point",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.20",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "当地居民的主要购买场所和餐饮服务场所"
+  },
+  {
+   "cn": "定向抽样",
+   "en": "directed sampling",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.16",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "针对目标样品群体（如商品类型或地理区域）对于在监测项目中提示具有潜在健康风险中可疑问题开展调查或者证实过程"
+  },
+  {
+   "cn": "采样液",
+   "en": "sampling solution",
+   "source": "消毒学",
+   "wordNumber": "6.2.28.5.1",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "空气微生物采样时，收集和保存所采集微生物的液体，如含中和剂的磷酸盐缓冲液、生理盐水等。"
+  },
+  {
+   "cn": "采样平板",
+   "en": "sampling plate",
+   "source": "消毒学",
+   "wordNumber": "6.2.28.5.2",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "空气微生物采样时，使用的含固体培养基的平皿，可用于自然沉降和六级筛孔撞击式采样器采样。"
+  },
+  {
+   "cn": "空气采样",
+   "en": "air sampling",
+   "source": "消毒学",
+   "wordNumber": "6.2.28.5.3",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "使用空气微生物采样器或平板自然沉降方法，采集一定量密闭空间空气中自然菌的采样方法。"
+  },
+  {
+   "cn": "抽样偏倚",
+   "en": "sampling bias",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.1.5.4",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "当样本包含的不同类型的对象与他们在总体中的出现情况不相称时，所导致的偏倚。"
+  },
+  {
+   "cn": "采样场所",
+   "en": "sampling site",
+   "source": "放射卫生学",
+   "wordNumber": "5.4.4.14",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测类型_环境监测",
+   "subjectName": "环境监测",
+   "publishYear": "2025",
+   "definition": "根据监测目的所确定的采集样品的地方。"
+  },
+  {
+   "cn": "理论抽样",
+   "en": "theoretical sampling",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.8",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "在扎根理论研究中，为了扩大概念的变异范围和发现概念之间的潜在联系，根据理论发展得到的概念进行案例选择的方法。"
+  },
+  {
+   "cn": "抽样分布",
+   "en": "sampling distribution",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.30",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "在既定统计设计条件下，所有可能得到的样本的特定统计值的概率分布。"
+  },
+  {
+   "cn": "抽样框",
+   "en": "sampling frame",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.45",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "从中抽取样本的总体构造或总体名册。在抽样调查中处于中枢地位，是每一个抽样设计所不可少的工具。"
+  },
+  {
+   "cn": "概率抽样",
+   "en": "probability sampling",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.47",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "保证总体中的所有单位有相同被选取的概率或机会的抽样方式。"
+  },
+  {
+   "cn": "非概率抽样",
+   "en": "nonprobability sampling",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.48",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "调查者根据自己的方便或主观判断抽取样本的抽样方式。"
+  },
+  {
+   "cn": "分层抽样",
+   "en": "stratified sampling",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.50",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "在抽样之前将调查总体的成员分为组，这样的组也叫做层，并根据研究者对调查单位的了解，将每一个调查单位分配到某一层，且只能分配到一层，再利用简单随机抽样或系统抽样的方法从每一层抽取独立的随机样本的抽样设计"
+  },
+  {
+   "cn": "系统抽样",
+   "en": "systematic sampling",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.51",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "“机械抽样”。在按一定顺序排列好的个体中先计算出抽样间距k，然后在头k个个体中，按简单随机抽样的方法抽取一个个体k，再从k开始，每k个个体中抽取一个个体的抽样设计。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

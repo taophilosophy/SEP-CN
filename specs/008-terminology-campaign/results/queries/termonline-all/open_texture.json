@@ -1,0 +1,792 @@
+{
+ "key": "open texture",
+ "term": "open texture",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T04:22:10+00:00",
+ "status": "ok",
+ "note": "variant=open texture; 审定公布名词库=1944; 海峡两岸名词对照库=501; 其他来源数据库=133; 预公布名词数据库=41; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "质构",
+   "en": "texture",
+   "source": "农学名词",
+   "wordNumber": "18.061",
+   "subjectFullName": "农产品质量安全_农产品质量安全监测",
+   "subjectName": "农产品质量安全监测",
+   "publishYear": "2025",
+   "definition": "通过触觉、视觉和听觉对食品产生的综合感觉（软硬、黏稠、酥脆和滑爽等）所呈现出来的食品物理性质。"
+  },
+  {
+   "cn": "纹形",
+   "en": "texture",
+   "source": "天文学名词",
+   "wordNumber": "07.563",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "三维时空中具有非平凡三阶同伦群的拓扑缺陷。曾被作为宇宙结构形成的一种可能的种源，现在这种可能性已被观测排除。"
+  },
+  {
+   "cn": "织构",
+   "en": "texture",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "05.090",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_热处理_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "多晶体金属或合金内诸晶粒的晶体学位向趋于一致的组织。"
+  },
+  {
+   "cn": "纹理",
+   "en": "texture",
+   "source": "光学名词",
+   "wordNumber": "17.084",
+   "subjectFullName": "光学_图像处理技术",
+   "subjectName": "图像处理技术",
+   "publishYear": "2021",
+   "definition": "图像区域的平滑度、粗糙度和规律性等特征。"
+  },
+  {
+   "cn": "质地",
+   "en": "texture",
+   "source": "食品科学技术名词",
+   "wordNumber": "02.0531",
+   "subjectFullName": "食品科学技术_食品科学_食品分析_食品物性分析",
+   "subjectName": "食品物性分析",
+   "publishYear": "2020",
+   "definition": "除温度感觉和痛感以外的食品物性感觉。"
+  },
+  {
+   "cn": "织构",
+   "en": "texture",
+   "source": "物理学名词",
+   "wordNumber": "08.2363",
+   "subjectFullName": "物理学_凝聚态物理学_固体及其性质",
+   "subjectName": "固体及其性质",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "织构",
+   "en": "texture",
+   "source": "冶金学名词",
+   "wordNumber": "07.0596",
+   "subjectFullName": "冶金学_金属学_显微组织",
+   "subjectName": "显微组织",
+   "publishYear": "2019",
+   "definition": "晶体学意义上的择优取向。多晶体材料中晶粒的晶体学位向在某些特殊方向上呈现的一定程度集中取向的现象。"
+  },
+  {
+   "cn": "纹理",
+   "en": "texture",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0729",
+   "subjectFullName": "计算机科学技术_计算机应用_计算机辅助设计与图形学",
+   "subjectName": "计算机辅助设计与图形学",
+   "publishYear": "2018",
+   "definition": "在物体表面或者体内，代表某些属性的图像或者数学函数。如颜色纹理、凹凸纹理、体纹理、过程纹理等。"
+  },
+  {
+   "cn": "织构",
+   "en": "texture",
+   "source": "化学名词",
+   "wordNumber": "05.0863",
+   "subjectFullName": "化学_高分子化学_高分子物理化学与高分子物理",
+   "subjectName": "高分子物理化学与高分子物理",
+   "publishYear": "2016",
+   "definition": "光学显微镜观察尺度及更大范围的材料形态结构。通常包括相区形状、尺寸、界面、缺陷等。"
+  },
+  {
+   "cn": "织构",
+   "en": "texture",
+   "source": "材料科学技术名词",
+   "wordNumber": "01.0261",
+   "subjectFullName": "材料科学技术_材料科学技术基础_材料科学基础_材料组织结构",
+   "subjectName": "材料组织结构",
+   "publishYear": "2011",
+   "definition": "晶体学意义上的择优取向。多晶体材料中晶粒的晶体学位向在某些特殊方向上呈现的一定程度集中取向的现象。"
+  },
+  {
+   "cn": "质地",
+   "en": "texture",
+   "source": "中医药学名词",
+   "wordNumber": "06.037",
+   "subjectFullName": "中医药学_中药学_中药学总论",
+   "subjectName": "中药学总论",
+   "publishYear": "2004",
+   "definition": "药物的软硬、坚韧、疏松、黏性等特征。"
+  },
+  {
+   "cn": "质地",
+   "en": "texture",
+   "source": "水产名词",
+   "wordNumber": "08.017",
+   "subjectFullName": "水产_水产品保鲜及加工",
+   "subjectName": "水产品保鲜及加工",
+   "publishYear": "2002",
+   "definition": "鱼肉组织结构感官性质，包括手触感和口感。"
+  },
+  {
+   "cn": "结构",
+   "en": "texture",
+   "source": "地质学名词",
+   "wordNumber": "05.069",
+   "subjectFullName": "地质学_岩石学",
+   "subjectName": "岩石学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "纹理",
+   "en": "texture",
+   "source": "自动化名词",
+   "wordNumber": "05.133",
+   "subjectFullName": "自动化科学技术_模式识别、智能控制与机器人_模式识别与智能控制",
+   "subjectName": "模式识别与智能控制",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "玻璃质结构",
+   "en": "vitreous texture;glassy texture;hyaline texture",
+   "source": "地质学名词",
+   "wordNumber": "04.03.028",
+   "subjectFullName": "地质学_火成岩岩石学_岩石结构、构造",
+   "subjectName": "岩石结构、构造",
+   "publishYear": "2026",
+   "definition": "岩石几乎全部由火山玻璃所组成，是岩浆在快速冷却条件下，未结晶而固结形成的结构。玻璃质呈致密块状，具玻璃光泽及贝壳状断口，在正交偏光镜下无光性反应，以此区别于隐晶质。"
+  },
+  {
+   "cn": "自形结构",
+   "en": "idiomorphic texture;euhedral texture;automorphic texture",
+   "source": "地质学名词",
+   "wordNumber": "04.03.036",
+   "subjectFullName": "地质学_火成岩岩石学_岩石结构、构造",
+   "subjectName": "岩石结构、构造",
+   "publishYear": "2026",
+   "definition": "矿物按其结晶习性生长成规则完整晶形的结构。自形矿物一般是在足够空间和充分结晶的条件下先结晶形成的(如斑岩中的斑晶)，或为结晶生长力很强的矿物(如深成岩中的一些副矿物)。"
+  },
+  {
+   "cn": "筛状变晶结构",
+   "en": "sieved texture,diablastic texture",
+   "source": "地质学名词",
+   "wordNumber": "05.570",
+   "subjectFullName": "地质学_岩石学",
+   "subjectName": "岩石学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "凝灰结构",
+   "en": "tuff texture,ash texture",
+   "source": "地质学名词",
+   "wordNumber": "05.110",
+   "subjectFullName": "地质学_岩石学",
+   "subjectName": "岩石学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "嵌晶含长结构",
+   "en": "poikilophitic texture;ophitic texture",
+   "source": "地质学名词",
+   "wordNumber": "04.03.068",
+   "subjectFullName": "地质学_火成岩岩石学_岩石结构、构造",
+   "subjectName": "岩石结构、构造",
+   "publishYear": "2026",
+   "definition": "包含结构的一种。辉石大晶体中包含、镶嵌着较自形的斜长石小晶体。在辉长岩等镁铁质岩中较发育。"
+  },
+  {
+   "cn": "球粒结构",
+   "en": "spherulitic texture;sphaerolitic texture",
+   "source": "地质学名词",
+   "wordNumber": "04.03.107",
+   "subjectFullName": "地质学_火成岩岩石学_岩石结构、构造",
+   "subjectName": "岩石结构、构造",
+   "publishYear": "2026",
+   "definition": "岩石中出现较多的由长英质微晶和玻璃质组成的针状、纤维状集合体，呈放射状丛生排列而成球粒的结构。在显微镜下，球粒呈十字形消光，形态随结晶温度的降低由扇状、束状变为圆球状，其核心有时为早期晶出的微晶或隐晶"
+  },
+  {
+   "cn": "纹理",
+   "en": "texture",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "织构",
+   "en": "texture",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "织构",
+   "en": "texture",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "结构",
+   "en": "texture",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "纹理",
+   "en": "texture",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "纹理",
+   "en": "texture",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "质地",
+   "en": "texture",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "开放",
+   "en": "open",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "超分子织态结构",
+   "en": "supermolecular texture",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "纹理梯度",
+   "en": "texture gradient",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "条带织构",
+   "en": "banded texture",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "立方织构",
+   "en": "cube texture",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "光学织构",
+   "en": "optical texture",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "表面织构",
+   "en": "surface texture",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "变形织构",
+   "en": "deformation texture",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "戈斯织构",
+   "en": "Goss texture",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "退火织构",
+   "en": "annealing texture",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "铸造织构",
+   "en": "casting texture",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "条带织构",
+   "en": "banded texture",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "变余组织",
+   "en": "palimpsest texture",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "放开！",
+   "en": "Open!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "打开",
+   "en": "open",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "打开",
+   "en": "open",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "展开",
+   "en": "open",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "开放性",
+   "en": "openness",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "开放系统",
+   "en": "open system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "开放科学",
+   "en": "open science",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "开放获取",
+   "en": "open access",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "开放数据",
+   "en": "open data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "开放政府",
+   "en": "open government",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "开源",
+   "en": "open source",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "开放目录",
+   "en": "open directory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "开放发展",
+   "en": "open development",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "拉开进攻",
+   "en": "open play",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "开放式屈体",
+   "en": "open pike",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "赛道开放",
+   "en": "open arena",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "拉开进攻",
+   "en": "open play",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "开式站姿",
+   "en": "open stance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "土壤质地",
+   "en": "soil texture",
+   "source": "放射卫生学",
+   "wordNumber": "5.4.4.12",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测类型_环境监测",
+   "subjectName": "环境监测",
+   "publishYear": "2025",
+   "definition": "土壤中矿物质颗粒的大小和其组合比例，即土壤的粗细、砂粘状况。按土壤中砂粒、粉砂粒和粘粒的含量百分数，可分为粗沙土、沙壤土、壤土、粘壤土和粘土。"
+  },
+  {
+   "cn": "开放社会",
+   "en": "open society",
+   "source": "社会学名词",
+   "wordNumber": "2.1.2.12",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会形式",
+   "subjectName": "社会形式",
+   "publishYear": "2025",
+   "definition": "具有信息公开和社会自由流动、思想多元而充满批判性的、平等而富有活力的民主社会。最早由哲学家亨利·伯格森提出。与“封闭社会”相对。"
+  },
+  {
+   "cn": "开放小组",
+   "en": "open group",
+   "source": "社会学名词",
+   "wordNumber": "4.4.8.18",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的方法模式",
+   "subjectName": "社会工作的方法模式",
+   "publishYear": "2025",
+   "definition": "小组成员不完全固定而是有所变化的小组。在小组过程的任何时间都允许成员加入和离开。一般社会目标模式下的小组都具有很高的开放度。"
+  },
+  {
+   "cn": "两个开放",
+   "en": "two openings",
+   "source": "马克思主义",
+   "wordNumber": "03.0569",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "即对内开放和对外开放。对内开放是指通过经济、政治、科技、教育等各行各业的全面改革对内搞活经济。对外开放是指通过加强国际交往，引进发达国家的先进经验、先进科学技术和资金。"
+  },
+  {
+   "cn": "开放世界",
+   "en": "opening world",
+   "source": "马克思主义",
+   "wordNumber": "04.0164",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "邓小平关于国家发展与对外开放关系的基本观点。十一届三中全会以后，邓小平同志集中了党和人民的智慧，在总结建国30多年正反两方面经验的基础上，在研究国际经验和世界经济形势的基础上，提出了“现代的世界是开放"
+  },
+  {
+   "cn": "开放式问题",
+   "en": "open-ended questions",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.58",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "不为回答者提供具体答案，而由回答者自由填答的问题。如“您认为当前国家面临的最严峻的问题是什么？”"
+  },
+  {
+   "cn": "沿海开放城市",
+   "en": "open coastal cities",
+   "source": "马克思主义",
+   "wordNumber": "04.0174",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "我国沿海地区对外开放的、并在对外经济活动中实行经济特区的某些特殊政策的一系列港口城市。它是经济特区的延伸。中国1984年，国务院批准大连、秦皇岛等14个沿海城市为首批对外开放城市。沿海开放城市一般应当"
+  },
+  {
+   "cn": "暴露型工事卫生",
+   "en": "open fortification sanitation",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.3.3.4",
+   "subjectFullName": "军事预防医学_军事环境卫生_驻扎环境卫生",
+   "subjectName": "驻扎环境卫生",
+   "publishYear": "2025",
+   "definition": "为防止和降低部队短期或长期停留在堑壕、交通壕等露天工事对人员健康的有害影响而实施的医学预防活动和措施。"
+  },
+  {
+   "cn": "四议两公开",
+   "en": "four proposed two open",
+   "source": "马克思主义",
+   "wordNumber": "03.0771",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "即“4+2”工作法，该工作法由河南省邓州市率先提出。这种工作法主张，农村所有村级重大事项都必须在村党组织领导下，按照“四议”、“两公开”的程序决策实施。“四议”包括党支部会提议、“两委”会商议、党员大"
+  },
+  {
+   "cn": "开瓶有效期",
+   "en": "validity period after opening",
+   "source": "消毒学",
+   "wordNumber": "3.1.1.10",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "开启消毒产品最小包装后，为确保消毒合格所限定的最长使用时间。"
+  },
+  {
+   "cn": "改革开放",
+   "en": "reform and opening up",
+   "source": "马克思主义",
+   "wordNumber": "03.0511",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "为了解放和发展生产力，1978年12月十一届三中全会起中国开始实行的对内改革、对外开放的政策。改革开放是强国之路，成为新时期中国最鲜明的特点。"
+  },
+  {
+   "cn": "开伞冲击过载",
+   "en": "overload from opening shock",
+   "source": "军事预防医学名词",
+   "wordNumber": "11.1.4.4",
+   "subjectFullName": "军事预防医学_航空和航天医学_航空医学",
+   "subjectName": "航空医学",
+   "publishYear": "2025",
+   "definition": "降落伞在扩展过程中，由于伞系统受到空气阻力的突然减速而作用于人体的冲击力。"
+  },
+  {
+   "cn": "慕课",
+   "en": "massive open online course, MOOC",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.2.3.5",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育方法",
+   "subjectName": "学校健康教育方法",
+   "publishYear": "2025",
+   "definition": "全称“大规模开放在线课程”。一种将分布在世界各地的授课者和学习者通过网络无限参与和开放访问的方式联系起来的大规模的线上虚拟教室。"
+  },
+  {
+   "cn": "铀矿露天开采",
+   "en": "open pit of uranium mining",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.1.2",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护_铀矿冶",
+   "subjectName": "铀矿冶",
+   "publishYear": "2025",
+   "definition": "通过从地表线剥离覆盖岩层，而后开采铀矿石的开采方式。"
+  },
+  {
+   "cn": "夏天露天作业环境",
+   "en": "open operating environment in summer",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.3.1.3",
+   "subjectFullName": "军事预防医学_热区军事卫生_高温作业",
+   "subjectName": "高温作业",
+   "publishYear": "2025",
+   "definition": "露天作业中，除受太阳的直接辐射作用外，还受到加热的地面及周围物体二次辐射源的附加热影响，所形成的高温和热辐射联合作用的作业环境。"
+  },
+  {
+   "cn": "对外开放",
+   "en": "opening to the outside world",
+   "source": "马克思主义",
+   "wordNumber": "03.0540",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "对外开放是全方位的，既包括经济上的开放，也包括文化、艺术和其他领域的开放。是我国一项长期的基本国策。我国全方位、多层次、宽领域开放的新格局已经形成并不断完善。"
+  },
+  {
+   "cn": "互利共赢的开放战略",
+   "en": "winwin strategy of opening up",
+   "source": "马克思主义",
+   "wordNumber": "03.0673",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "通过对外开放并参与经济全球化来实现国家经济利益最大化，同时要兼顺本国经济发发展对别国及世界经济体系的影响，促进世界各国共同协调发展。"
+  },
+  {
+   "cn": "全方位多层次宽领域的对外开放格局",
+   "en": "alldimensional multilevel and wideranging opening pattern",
+   "source": "马克思主义",
+   "wordNumber": "03.0637",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国共产党十四大确定的一条重要方针和战略部署。全方位：指我国对外开放不仅要“引进来”而且要“走出去”，对世界所有类型的国家开放。多层次：指不仅设立经济特区，而且兴办经济技术开发区、开辟沿海经济开放区，"
+  },
+  {
+   "cn": "两种改革开放观",
+   "en": "two ideas of reform and opening up",
+   "source": "马克思主义",
+   "wordNumber": "04.0386",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "在改革开放过程中，始终存在两种不同的改革观的较量。邓小平指出：“有一些人打着拥护改革开放的旗帜，想把中国引导到资本主义，他是要改变我们社会的性质。”在1989年他指出：“某些人所谓的改革，应该换个名字"
+  },
+  {
+   "cn": "讲座",
+   "en": "lecture",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.2.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育方法",
+   "subjectName": "学校健康教育方法",
+   "publishYear": "2025",
+   "definition": "通常由学校或社区主办，围绕学生中比较普遍性的问题，请一名或多名专家开展专题报告的教学方法。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
