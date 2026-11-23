@@ -1,0 +1,612 @@
+{
+ "key": "token causation",
+ "term": "token causation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T00:59:30+00:00",
+ "status": "ok",
+ "note": "variant=token causation; 审定公布名词库=60; 海峡两岸名词对照库=41; 其他来源数据库=19; 预公布名词数据库=3; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "词元",
+   "en": "token",
+   "source": "计算机科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "计算机科学技术_人工智能",
+   "subjectName": "人工智能",
+   "publishYear": "2026",
+   "definition": ""
+  },
+  {
+   "cn": "标码",
+   "en": "token",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0670",
+   "subjectFullName": "计算机科学技术_理论计算机科学_佩特里网",
+   "subjectName": "佩特里网",
+   "publishYear": "2018",
+   "definition": "佩特里网中一个标识 M在某库所s上的取值M(s)称为库所s 中的标码数。用图形表示时，一个标码用一个圆点表示。"
+  },
+  {
+   "cn": "记号",
+   "en": "token",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0141",
+   "subjectFullName": "计算机科学技术_系统软件_语言与编译",
+   "subjectName": "语言与编译",
+   "publishYear": "2018",
+   "definition": "语言中具有独立意义的最小单位。"
+  },
+  {
+   "cn": "例",
+   "en": "token",
+   "source": "语言学名词",
+   "wordNumber": "01.163",
+   "subjectFullName": "语言学_理论语言学_核心术语",
+   "subjectName": "核心术语",
+   "publishYear": "2011",
+   "definition": "数理语言学术语。“型”在言语交际中的具体表现。比如，“He who laughs last laughs longest.”这句话中的两个“laugh”是同一个“型”的两个“例”。"
+  },
+  {
+   "cn": "词例化程序",
+   "en": "tokenizer",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0508",
+   "subjectFullName": "计算机科学技术_人工智能_计算语言学",
+   "subjectName": "计算语言学",
+   "publishYear": "2018",
+   "definition": "将自然语言文本或句子划分为词、标点等基本组成单位的过程。对汉语而言即为分词，对于英语等已有空格标记的语言，主要完成标点与词的分离、连写形式的分解等。"
+  },
+  {
+   "cn": "下向因果关系",
+   "en": "downward causation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.710",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_复杂系统科学哲学",
+   "subjectName": "复杂系统科学哲学",
+   "publishYear": "2024",
+   "definition": "描述系统高层级结构对它的次级结构起着原因作用的一种因果关系。最先由心理学家唐纳德·坎贝尔（Donald Campbell）提出。"
+  },
+  {
+   "cn": "上向因果关系",
+   "en": "upward causation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.711",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_复杂系统科学哲学",
+   "subjectName": "复杂系统科学哲学",
+   "publishYear": "2024",
+   "definition": "复杂系统的结构层次之间存在的一种因果关系。在形成高层次系统后，低层次的元素及其协同相互作用依然对高层次的运作有某种决定作用。"
+  },
+  {
+   "cn": "代币疗法",
+   "en": "token economy",
+   "source": "行为医学名词",
+   "wordNumber": "20.02",
+   "subjectFullName": "行为医学_行为干预与治疗_行为治疗",
+   "subjectName": "行为治疗",
+   "publishYear": "2022",
+   "definition": "将具有交换价值的象征物（代币）与真实强化物建立关联，以强化所期望行为的一种治疗方法。"
+  },
+  {
+   "cn": "个性标码",
+   "en": "individual token",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0657",
+   "subjectFullName": "计算机科学技术_理论计算机科学_佩特里网",
+   "subjectName": "佩特里网",
+   "publishYear": "2018",
+   "definition": "在着色佩特里网中，标码是分类（或者说以不同的颜色）的，这些不同类型的标码称为个性标码。"
+  },
+  {
+   "cn": "身份令牌",
+   "en": "identity token",
+   "source": "计算机科学技术名词",
+   "wordNumber": "10.0119",
+   "subjectFullName": "计算机科学技术_信息安全_安全协议与分析技术",
+   "subjectName": "安全协议与分析技术",
+   "publishYear": "2018",
+   "definition": "含有验证身份的智能卡或某种形式的电子载体。"
+  },
+  {
+   "cn": "冻结标码",
+   "en": "frozen token",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0661",
+   "subjectFullName": "计算机科学技术_理论计算机科学_佩特里网",
+   "subjectName": "佩特里网",
+   "publishYear": "2018",
+   "definition": "在一个佩特里网中，如果某库所中的一个标码在运行过程中一直保留在原库所内，其运行情况不受影响，那么就说该标码是冻结标码。"
+  },
+  {
+   "cn": "鉴别令牌",
+   "en": "authentication token",
+   "source": "计算机科学技术名词",
+   "wordNumber": "10.0117",
+   "subjectFullName": "计算机科学技术_信息安全_安全协议与分析技术",
+   "subjectName": "安全协议与分析技术",
+   "publishYear": "2018",
+   "definition": "供验证方鉴别持证方真实性的一种数据。"
+  },
+  {
+   "cn": "访问令牌",
+   "en": "access token",
+   "source": "计算机科学技术名词",
+   "wordNumber": "10.0178",
+   "subjectFullName": "计算机科学技术_信息安全_信息系统安全防护技术",
+   "subjectName": "信息系统安全防护技术",
+   "publishYear": "2018",
+   "definition": "包含对用户授权信息的数据结构，用来控制安全访问，并对用户在本地计算机上执行各种与系统相关的操作能力进行控制。"
+  },
+  {
+   "cn": "令牌传递",
+   "en": "token passing",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0202",
+   "subjectFullName": "计算机科学技术_网络与数据通信_有线网络",
+   "subjectName": "有线网络",
+   "publishYear": "2018",
+   "definition": "在网络中循环传递令牌的介质访问方法。得到令牌的站可以发送数据。"
+  },
+  {
+   "cn": "令牌恢复",
+   "en": "token restore",
+   "source": "计算机科学技术名词",
+   "wordNumber": "10.0226",
+   "subjectFullName": "计算机科学技术_信息安全_信息系统安全防护技术",
+   "subjectName": "信息系统安全防护技术",
+   "publishYear": "2018",
+   "definition": "一种令牌管理操作。用于将数据载入一个安全令牌，目的是重新生成（复制）原先由该令牌或另一个令牌携带的数据。"
+  },
+  {
+   "cn": "令牌环",
+   "en": "token ring",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0203",
+   "subjectFullName": "计算机科学技术_网络与数据通信_有线网络",
+   "subjectName": "有线网络",
+   "publishYear": "2018",
+   "definition": "一种使用环拓扑和令牌传递介质访问方法的局域网。"
+  },
+  {
+   "cn": "密钥生成令牌",
+   "en": "keygen token",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0946",
+   "subjectFullName": "计算机科学技术_网络与数据通信_网络管理与安全",
+   "subjectName": "网络管理与安全",
+   "publishYear": "2018",
+   "definition": "在移动IPv6的返回路由过程中由通信结点提供的一个身份验证码。使得移动结点能够计算绑定更新需要使用的绑定管理密钥。"
+  },
+  {
+   "cn": "代币强化物",
+   "en": "token reinforcer",
+   "source": "心理学名词",
+   "wordNumber": "02.155",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "使用代币物可换取的真正强化物。如钱币、扑克牌、食品等。"
+  },
+  {
+   "cn": "代币法",
+   "en": "token economy",
+   "source": "心理学名词",
+   "wordNumber": "15.036",
+   "subjectFullName": "心理学_咨询心理学",
+   "subjectName": "咨询心理学",
+   "publishYear": "2014",
+   "definition": "将具有交换价值的象征物(代币)与真实强化物建立关联，并以其强化所期望行为的一种治疗方法。"
+  },
+  {
+   "cn": "词例",
+   "en": "word token",
+   "source": "语言学名词",
+   "wordNumber": "11.039",
+   "subjectFullName": "语言学_计算语言学_词处理",
+   "subjectName": "词处理",
+   "publishYear": "2011",
+   "definition": "词汇表中的词在语料中的每一次出现。"
+  },
+  {
+   "cn": "令牌",
+   "en": "token",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "权标，令牌",
+   "en": "token",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "代币法",
+   "en": "token economy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "色块测验",
+   "en": "token test",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "象征性出口",
+   "en": "token export",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "象征性进口",
+   "en": "token import",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "单个记号",
+   "en": "single token",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "标记变量",
+   "en": "token variable",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "标记类型",
+   "en": "token type",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "标识权标",
+   "en": "identity token",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "冻结标记",
+   "en": "frozen token",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "复合标记",
+   "en": "compound token",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "个性标记",
+   "en": "individual token",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "令牌环",
+   "en": "token ring",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "令牌总线",
+   "en": "token bus",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "权标持有站，令牌持有站",
+   "en": "token holder",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "权标传递，令牌传递",
+   "en": "token passing",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据权标",
+   "en": "data token",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "信号刺激",
+   "en": "token stimulus",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "因果联想",
+   "en": "association by causation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "代币化",
+   "en": "tokenization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "支付标记化",
+   "en": "payment tokenization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "支付标记化技术",
+   "en": "tokenized payment technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "动态口令卡",
+   "en": "one-time password (OTP) token",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GA/T 1545-2019 信息安全技术 智能密码钥匙安全技术要求》",
+   "en": "GA/T 1545-2019 Information security technology — Security technical requirement for smart tokens",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "警告",
+   "en": "caution",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "告诫",
+   "en": "caution",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "黄牌警告",
+   "en": "caution",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "口头警告",
+   "en": "admonition\",\"caution",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "警告",
+   "en": "caution\",\"warning",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据监护",
+   "en": "data curation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "停止侵害",
+   "en": "cessation of infringement",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "警告",
+   "en": "admonition\",\"warning\",\"caution",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "控申机器人",
+   "en": "accusation and appeal robot",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "警告",
+   "en": "caution\",\"chui\",\"keikoku\",\"warning",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "警告",
+   "en": "admonish\",\"caution\",\"warn\",\"admonition\",\"warning",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "顶层设计和摸着石头过河的关系",
+   "en": "the relationship between Top-level design and advancing with caution",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "病因概率",
+   "en": "probability of causation，PC",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.3.16",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_效应指标",
+   "subjectName": "效应指标",
+   "publishYear": "2025",
+   "definition": "暴露组某一个体所患的疾病由某危险因素引起的概率或似然性估计值。PC=ERR/(ERR+1)。"
+  },
+  {
+   "cn": "赔偿的病因概率限值",
+   "en": "probability of causation limit for compensation",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.3.17",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_效应指标",
+   "subjectName": "效应指标",
+   "publishYear": "2025",
+   "definition": "在职业性放射性肿瘤赔偿中，由管理部门审定的可给予法定赔偿的病因概率的最低限值。"
+  },
+  {
+   "cn": "以革命两手对付反革命两手",
+   "en": "using revolutionary doublefaced tactics to deal with the doublefaced tactics taken by counterrevolutionaries",
+   "source": "马克思主义",
+   "wordNumber": "03.0444",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "革命人民对敌斗争的一个策略原则。“两手”是指武装进攻的手段与和平谈判的手段。抗日战争胜利后，蒋介石反动集团为了消灭共产党和人民军队，采用武装进攻解放区与和平谈判反革命两手。中国共产党以自卫战争与和平谈"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

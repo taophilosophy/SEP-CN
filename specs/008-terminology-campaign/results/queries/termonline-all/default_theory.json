@@ -1,0 +1,652 @@
+{
+ "key": "default theory",
+ "term": "default theory",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T00:58:03+00:00",
+ "status": "ok",
+ "note": "variant=default theory; 审定公布名词库=2675; 海峡两岸名词对照库=885; 其他来源数据库=237; 预公布名词数据库=258; jwt-direct（JWT 直连，raw 略；已滤维基 16 条）",
+ "hits": [
+  {
+   "cn": "违约行为",
+   "en": "default",
+   "source": "风景园林名词",
+   "wordNumber": "03.0199",
+   "subjectFullName": "风景园林_风景园林管理_工程项目管理",
+   "subjectName": "工程项目管理",
+   "publishYear": "2025",
+   "definition": "合同当事人违反合同义务的行为。"
+  },
+  {
+   "cn": "丢失",
+   "en": "default",
+   "source": "结核病学名词",
+   "wordNumber": "04.097",
+   "subjectFullName": "结核病学_结核病治疗_化学药物治疗_治疗转归",
+   "subjectName": "治疗转归",
+   "publishYear": "2019",
+   "definition": "患者中断治疗超过2个月，经追访仍无法取得联系的情况。"
+  },
+  {
+   "cn": "缺省",
+   "en": "default",
+   "source": "地理信息系统名词",
+   "wordNumber": "02.344",
+   "subjectFullName": "地理信息系统_技术与应用",
+   "subjectName": "技术与应用",
+   "publishYear": "2012",
+   "definition": "在用户不加指定时，由系统选定的属性、值或选择项。"
+  },
+  {
+   "cn": "违约",
+   "en": "default",
+   "source": "公路交通科技名词",
+   "wordNumber": "01.150",
+   "subjectFullName": "公路交通科学技术_公路交通总论",
+   "subjectName": "公路交通总论",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "缺省逻辑",
+   "en": "default logic",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.641",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "一种通过缺省假设对推理进行形式化的非单调逻辑。即当缺乏足够的知识信息时，通过表示和使用缺省的信息进行猜测，是对人类常识推理形式化的重要手段。"
+  },
+  {
+   "cn": "丢失率",
+   "en": "default rate",
+   "source": "结核病学名词",
+   "wordNumber": "05.073",
+   "subjectFullName": "结核病学_结核病预防与控制_流行与控制",
+   "subjectName": "流行与控制",
+   "publishYear": "2019",
+   "definition": "一定地区、一定时期内登记患者中丢失的患者数占同期登记患者总数的百分比。丢失率 =丢失患者数/登记患者数×100%。"
+  },
+  {
+   "cn": "默认路由",
+   "en": "default route",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0587",
+   "subjectFullName": "计算机科学技术_网络与数据通信_网络互联",
+   "subjectName": "网络互联",
+   "publishYear": "2018",
+   "definition": "在路由表中的单个表项。它覆盖没有在表中明确列出的所有目的地。"
+  },
+  {
+   "cn": "缺省逻辑",
+   "en": "default logic",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0005",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "雷·赖特（Ray Reiter）提出的用来形式化有缺省假定的推理的非单调逻辑。可以表达像“若找不到反面证据，则认为某个命题是真的”这样的论断。"
+  },
+  {
+   "cn": "默认掩码",
+   "en": "default mask",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0575",
+   "subjectFullName": "计算机科学技术_网络与数据通信_网络互联",
+   "subjectName": "网络互联",
+   "publishYear": "2018",
+   "definition": "没有划分子网的网络所使用的掩码。"
+  },
+  {
+   "cn": "违约溢价",
+   "en": "default premium",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0393",
+   "subjectFullName": "管理科学技术_金融工程_技术",
+   "subjectName": "技术",
+   "publishYear": "2016",
+   "definition": "具有违约风险的公司债券与无违约的国债(或者其他公司债券)之间的收益差额。"
+  },
+  {
+   "cn": "缺省数据库",
+   "en": "default database",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.407",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "当用户没有选择操作的数据库时，系统默认的数据库。"
+  },
+  {
+   "cn": "缺省值",
+   "en": "default value",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.409",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "当用户没有给出明确的选择值时，系统作出的选择。"
+  },
+  {
+   "cn": "缺省途径",
+   "en": "default pathway",
+   "source": "细胞生物学名词",
+   "wordNumber": "08.097",
+   "subjectFullName": "细胞生物学_细胞通信与信号转导",
+   "subjectName": "细胞通信与信号转导",
+   "publishYear": "2009",
+   "definition": "在没有其他分拣信号的情况下，从高尔基体到质膜的自主性连续性分泌途径。"
+  },
+  {
+   "cn": "缺省值",
+   "en": "default value",
+   "source": "铁道科学技术名词",
+   "wordNumber": "07.0751",
+   "subjectFullName": "铁道科学技术_铁道通信",
+   "subjectName": "铁道通信",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "缺省值",
+   "en": "default value",
+   "source": "化学工程名词",
+   "wordNumber": "05.098",
+   "subjectFullName": "化学工程_过程系统工程_过程模拟",
+   "subjectName": "过程模拟",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "默认网络",
+   "en": "default mode network",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "05.069",
+   "subjectFullName": "阿尔茨海默病_诊断技术与实验方法_影像技术",
+   "subjectName": "影像技术",
+   "publishYear": "2019",
+   "definition": "人脑静息状态下存在的功能连接网络。能自动连续地从外部环境搜集、加工和储存信息。可能与情节记忆、语义提取和情绪处理等功能密切相关。"
+  },
+  {
+   "cn": "缺省当前目录",
+   "en": "current default directory",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0653",
+   "subjectFullName": "计算机科学技术_系统软件_操作系统",
+   "subjectName": "操作系统",
+   "publishYear": "2018",
+   "definition": "操作系统为每个用户登录后设置的缺省的当前目录。"
+  },
+  {
+   "cn": "承包商违约",
+   "en": "default to contractor",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0558",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_采购与合同管理",
+   "subjectName": "采购与合同管理",
+   "publishYear": "2016",
+   "definition": "承包商不能履行或不能完全履行合同规定的义务，或是无视工程师的指示有意不执行或无能力执行合同的行为。"
+  },
+  {
+   "cn": "业主违约",
+   "en": "default to employer",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0559",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_采购与合同管理",
+   "subjectName": "采购与合同管理",
+   "publishYear": "2016",
+   "definition": "业主不能履行和不能完全履行合同规定的义务的行为。"
+  },
+  {
+   "cn": "排放默认模式",
+   "en": "emission default mode",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "24.0905",
+   "subjectFullName": "机械工程_动力机械_内燃机_发动机排放_净化系统和装置",
+   "subjectName": "净化系统和装置",
+   "publishYear": "2013",
+   "definition": "当失效的零部件或系统导致车辆排放超过车载诊断装置所规定的限值时，发动机的管理控制器将持久地转换至所设定的、不再要求失效零部件或系统输入信号的一种状态。"
+  },
+  {
+   "cn": "默认",
+   "en": "default",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "缺省值",
+   "en": "default value",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "违约条款",
+   "en": "default clause",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "违约溢价",
+   "en": "default premia",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "缺省途径",
+   "en": "default pathway",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "缺省接口",
+   "en": "default interface",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "缺省数据库",
+   "en": "default database",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "缺省值，默认值",
+   "en": "default value",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "默认格式",
+   "en": "default format",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "默认推理",
+   "en": "default reasoning",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "欠费用户",
+   "en": "defaulting subscriber",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "缺省文件扩展名",
+   "en": "default filename extension",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "当前默认目录",
+   "en": "current default directory",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "理论",
+   "en": "theory",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "假花学说",
+   "en": "pseudoanthial theory\",\"pseudoanthium theory",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "真花学说",
+   "en": "euanthial theory\",\"euanthium theory",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "后成论，渐成论",
+   "en": "postformation theory\",\"epigenesis theory",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "管理船舶过失",
+   "en": "default in management of the ship",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "驾驶船舶过失",
+   "en": "default in navigation of the ship",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "肌源说",
+   "en": "myogenic theory",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "弃权",
+   "en": "default",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "因对方未出场获胜",
+   "en": "win by default",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "弃权球队",
+   "en": "team in default",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "不战胜",
+   "en": "fusen-gachi\",\"win by default",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "理论",
+   "en": "theory",
+   "source": "马克思主义",
+   "wordNumber": "01.0119",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "关于自然、社会和人自身的本质规律的抽象、合乎逻辑的一般推论或假说。理论来源于实践，接受实践的检验。理论服务于实践，随着实践的发展而发展。"
+  },
+  {
+   "cn": "原型理论",
+   "en": "prototype theory",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0031",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "认知科学的一种理论模型。认为人类对事物进行分类（范畴化）的过程并不存在非此即彼的明确界限，某一范畴中的核心成员会比其他成员更具典型性。例如在“飞禽”这个范畴里，“燕雀”比“鸡鸭”更具“飞禽”的特征。语"
+  },
+  {
+   "cn": "波浪理论",
+   "en": "wave theory",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.003",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "研究语言演变的一种动态模型。一种创新的语言特征从起源地往外扩散，其影响类似波浪扩散、随传播距离逐渐减小。"
+  },
+  {
+   "cn": "阶层化社会理论",
+   "en": "caste theory",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0143",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "美国教育人类学家奥格布（John Uzo Ogbu）提出，他认为少数民族的历史经历、社会地位以及由此造成的各种障碍等，必然会影响他们的学习态度和教育期望。"
+  },
+  {
+   "cn": "扎根理论",
+   "en": "grounded theory",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.7",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "对定性资料进行归纳、抽绎出理论概念、生成理论洞见的定性资料分析方法。是由格拉泽和施特劳斯提出的。"
+  },
+  {
+   "cn": "测量理论",
+   "en": "measurement theory",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.23",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "关于测量的性质和方法的理论。主要包括经典测量理论、概化理论和项目反应理论三种理论模型。"
+  },
+  {
+   "cn": "概化理论",
+   "en": "generalizability theory",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.33",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "克伦巴赫等人在20世纪60至70年代初提出一种测量理论。思想上，认为测量对象的值受到测量条件和环境的影响；概念上，用全域分数代替了经典测量理论的真分数，用概括化系数代替了信度；技术上，应用方法分析技术"
+  },
+  {
+   "cn": "社会理论",
+   "en": "social theory",
+   "source": "社会学名词",
+   "wordNumber": "2.1.7.6",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会意识",
+   "subjectName": "社会意识",
+   "publishYear": "2025",
+   "definition": "以社会学视角和方法对人类社会现象及问题所进行的各种系统性的理论探讨。重点涉及一切关于社会何以构成、存续和变迁的理论思考，以及关于这类理论思考何以可能（或合理）的认识论探讨。与“应用社会学”相对。"
+  },
+  {
+   "cn": "冲突理论",
+   "en": "conflict theory",
+   "source": "社会学名词",
+   "wordNumber": "2.6.6.6",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会分层理论",
+   "subjectName": "社会分层理论",
+   "publishYear": "2025",
+   "definition": "与结构功能主义理论相对立的社会学理论流派，该派理论家借鉴马克思的阶级冲突理论或马克斯•韦伯的权力冲突观点，强调个人或群体之间的经济利益冲突和权力冲突，对结构功能主义理论（特别是功能主义社会分层理论）提"
+  },
+  {
+   "cn": "现代化理论",
+   "en": "modernization theory",
+   "source": "社会学名词",
+   "wordNumber": "2.9.1.1",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_现代化理论",
+   "subjectName": "现代化理论",
+   "publishYear": "2025",
+   "definition": "产生于20世纪50、60年代，以塔尔科特帕森斯、列维（M.J.Levy）、英克尔斯（A.Inkeles）和艾森斯塔德（S.N.Eisenstadt）等人为代表，以研究传统社会的现代转化为主旨的理论。"
+  },
+  {
+   "cn": "依附理论",
+   "en": "dependency theory",
+   "source": "社会学名词",
+   "wordNumber": "2.9.2.1",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_依附理论",
+   "subjectName": "依附理论",
+   "publishYear": "2025",
+   "definition": "产生于20世纪60年代后期的一种发展理论，以弗兰克（Andre Frank）、多斯桑托斯（Theotonio Dos Santos）、阿明（Samir Amin）等人为代表，认为发达国家和发展中国家之"
+  },
+  {
+   "cn": "紧张理论",
+   "en": "strain theory",
+   "source": "社会学名词",
+   "wordNumber": "2.10.2.4",
+   "subjectFullName": "社会学名词_社会学一般概念_社会问题与社会控制_社会越轨",
+   "subjectName": "社会越轨",
+   "publishYear": "2025",
+   "definition": "解释社会越轨行为的一种理论。认为当一些人无法通过合法手段达到社会普遍认可的成功目标时，就会产生挫折感等紧张情绪，从而形成个人的目标和社会规范之间的冲突状态，进而引发越轨行为或者犯罪行为。由美国社会学家"
+  },
+  {
+   "cn": "标签理论",
+   "en": "labeling theory",
+   "source": "社会学名词",
+   "wordNumber": "2.10.2.7",
+   "subjectFullName": "社会学名词_社会学一般概念_社会问题与社会控制_社会越轨",
+   "subjectName": "社会越轨",
+   "publishYear": "2025",
+   "definition": "解释社会越轨行为的一种理论。把越轨行为分为初级越轨行为和继发越轨行为，并认为越轨行为的性质不在于行为本身，而是社会的定义和解释。因此，只有当一个行为被社会定义为越轨行为时，其行为者才会成为越轨行为者。"
+  },
+  {
+   "cn": "立场论",
+   "en": "standpoint theory",
+   "source": "社会学名词",
+   "wordNumber": "3.2.3.9",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别研究",
+   "subjectName": "性别研究",
+   "publishYear": "2025",
+   "definition": "女性主义认识论的一种主流观点，对传统认识论中的主客体两分法和价值中立的客观性原则持批判态度，认为从妇女日常生活经验和边缘化的底层立场出发，可以产生比男性主流知识更少偏见、更具有客观性的好知识。"
+  },
+  {
+   "cn": "博弈论",
+   "en": "game theory",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.14",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "研究多个个体或团队之间在特定条件制约下的对局里，利用相关方的策略而实施对应策略的理论。认为参加斗争或竞争的各方有不同的目标或利益，为了达到各自的目标和利益，各方必须考虑对手各种可能的行动方案，并力图选"
+  },
+  {
+   "cn": "权变理论",
+   "en": "contingency theory",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.22",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "认为没有普遍适用的、最合理的管理模式与原则，内部特征与所处环境的要求相匹配的组织适应性最强，所以组织必须随机制宜地处理管理问题的理论观点。"
+  },
+  {
+   "cn": "品味理论",
+   "en": "taste theory",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.32",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "布迪厄以美学品味的议题为基础所发展出的社会阶层化理论。认为品味，也即人们对于饮食、文化和艺术表演的喜好等都是阶级指标，人们的这些消费倾向都对应于个人在社会中的位置。"
+  },
+  {
+   "cn": "法律思想",
+   "en": "legal theory",
+   "source": "社会学名词",
+   "wordNumber": "3.7.8.4",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律文化",
+   "subjectName": "法律文化",
+   "publishYear": "2025",
+   "definition": "关于法和法律现象的观点、理论和学说。"
+  },
+  {
+   "cn": "接受理论",
+   "en": "reception theory",
+   "source": "社会学名词",
+   "wordNumber": "3.8.2.3",
+   "subjectFullName": "社会学名词_分支社会学_文化社会学_大众传媒研究",
+   "subjectName": "大众传媒研究",
+   "publishYear": "2025",
+   "definition": "文学理论中关于读者反应的一种学说，强调读者对文学作品的接受程度，讨论文学作品与读者之间的关系。德国美学家姚斯(H.R.Jauss）在20世纪60年代最先提出该理论。"
+  },
+  {
+   "cn": "宗教剥夺理论",
+   "en": "deprivation theory",
+   "source": "社会学名词",
+   "wordNumber": "3.9.2.13",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教研究",
+   "subjectName": "宗教研究",
+   "publishYear": "2025",
+   "definition": "认为绝对的或相对的被剥夺使得个人比较容易响应特定的宗教召唤，其最广为人知的观点即马克思的宗教鸦片说。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

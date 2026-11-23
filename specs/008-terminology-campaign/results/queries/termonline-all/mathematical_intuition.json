@@ -1,0 +1,552 @@
+{
+ "key": "mathematical intuition",
+ "term": "mathematical intuition",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T00:55:52+00:00",
+ "status": "ok",
+ "note": "variant=mathematical intuition; 审定公布名词库=503; 海峡两岸名词对照库=105; 其他来源数据库=24; 预公布名词数据库=9; jwt-direct（JWT 直连，raw 略；已滤维基 15 条）",
+ "hits": [
+  {
+   "cn": "数学直觉",
+   "en": "mathematical intuition",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.295",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "哲学上“直觉”的用法很多，针对不同的哲学，“直觉”有不同的含义和用法。从数学哲学的历史看，希尔伯特和布劳威尔关于“数学直觉”的思想受到康德哲学中“直觉”的影响。"
+  },
+  {
+   "cn": "直觉",
+   "en": "intuition",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.579",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "一种不经逻辑分析而认识、了解事物的无意识的思维方式。具有快速、冲动的特点。包括认知、情感和行为等成分。"
+  },
+  {
+   "cn": "直觉",
+   "en": "intuition",
+   "source": "管理科学技术名词",
+   "wordNumber": "10.0395",
+   "subjectFullName": "管理科学技术_科技管理与技术创新_创新管理",
+   "subjectName": "创新管理",
+   "publishYear": "2016",
+   "definition": "人脑所具有的一种不经过逻辑推理或没有任何根据而突发性地直接把握对象的本质的能力。"
+  },
+  {
+   "cn": "直觉",
+   "en": "intuition",
+   "source": "心理学名词",
+   "wordNumber": "02.676",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "一种不经过分析、推理的认识过程而直接快速地进行判断的认识能力。"
+  },
+  {
+   "cn": "语言直觉",
+   "en": "linguistic intuition",
+   "source": "语言学名词",
+   "wordNumber": "01.111",
+   "subjectFullName": "语言学_理论语言学_核心术语",
+   "subjectName": "核心术语",
+   "publishYear": "2011",
+   "definition": "指人们对于自己使用的语言的判断能力，特别是判断一个句子是否能够接受以及句子之间是否具有关联性。既指对语言的直觉，也指如何对语言作分析的直觉。"
+  },
+  {
+   "cn": "良知",
+   "en": "intuitional knowledge",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.077",
+   "subjectFullName": "自然辩证法_科技伦理_中国传统科技伦理",
+   "subjectName": "中国传统科技伦理",
+   "publishYear": "2024",
+   "definition": "体现为一种先验的道德意识、内在的道德判断能力，同时也是主体的自觉性。当遇到不可预定的变化时，不必求助他人或经典，仅凭直觉就可以做出反应，判断道德上的是非问题，采取合适的道德行为。"
+  },
+  {
+   "cn": "直觉思维",
+   "en": "intuitive thinking",
+   "source": "心理学名词",
+   "wordNumber": "02.657",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "根据对事物现象及其变化的直接感触而做判断的思维方式。"
+  },
+  {
+   "cn": "直观教学",
+   "en": "intuitional instruction",
+   "source": "教育学名词",
+   "wordNumber": "04.088",
+   "subjectFullName": "教育学_外国教育史_近现代",
+   "subjectName": "近现代",
+   "publishYear": "2013",
+   "definition": "欧洲近代以经验主义和自然主义为基础，根据儿童思维发展的特点，在教学过程中采用具体形象的语言和教具进行教学的教育原则和方法。"
+  },
+  {
+   "cn": "直观法",
+   "en": "intuitional method",
+   "source": "教育学名词",
+   "wordNumber": "06.185",
+   "subjectFullName": "教育学_学前教育",
+   "subjectName": "学前教育",
+   "publishYear": "2013",
+   "definition": "让幼儿运用看、听、闻、尝、触、摸等多种感官活动，直接感知所要认识的事物或现象，形成关于事物与现象的初步认识的教学方法。"
+  },
+  {
+   "cn": "数学",
+   "en": "mathematics",
+   "source": "数学名词",
+   "wordNumber": "01.0001",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "数学归纳法",
+   "en": "mathematical induction",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.256",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "通常指施于自然数的归纳证明方法。第一，证明最小的自然数具有某性质（归纳基始）；第二，证明后继运算保持该性质（归纳推步）。由上两步即得：所有的自然数具有该性质。"
+  },
+  {
+   "cn": "数学归纳法",
+   "en": "mathematical induction",
+   "source": "数学名词",
+   "wordNumber": "02.0129",
+   "subjectFullName": "数学_数理逻辑·数学基础_证明论",
+   "subjectName": "证明论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "医学审美直觉",
+   "en": "medical aesthetic intuition",
+   "source": "医学美学与美容医学名词",
+   "wordNumber": "01.049",
+   "subjectFullName": "医学美学与美容医学_医学美学",
+   "subjectName": "医学美学",
+   "publishYear": "2015",
+   "definition": "医学审美主体不以概念为媒介而对医学审美客体的直接观察和认识作用，经过内在心理的特殊处理而形成的一种顿悟性反映。"
+  },
+  {
+   "cn": "直观性原则",
+   "en": "principle of intuition",
+   "source": "教育学名词",
+   "wordNumber": "02.140",
+   "subjectFullName": "教育学_课程与教学",
+   "subjectName": "课程与教学",
+   "publishYear": "2013",
+   "definition": "教学原则之一。在教学中要通过学生观察所学事物、利用直观教具或教师语言的形象描述引导学生形成对所习得之事物、过程的清晰表象，丰富他们的感性知识，从而有利于他们正确理解书本知识和发展认识能力。"
+  },
+  {
+   "cn": "医学审美直觉",
+   "en": "medical aesthetic intuition",
+   "source": "医学名词 第七分册",
+   "wordNumber": "02.0039",
+   "subjectFullName": "医学_医学美学与美容医学",
+   "subjectName": "医学美学与美容医学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "直观分析法",
+   "en": "intuitive analysis method",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "03.120",
+   "subjectFullName": "化工（五）_研发与工程化_基础研究与技术开发",
+   "subjectName": "基础研究与技术开发",
+   "publishYear": "2021",
+   "definition": "用比较极差大小的方法来分析各因素的影响的一种定性分析方法。"
+  },
+  {
+   "cn": "直觉思维法",
+   "en": "intuitive thinking method",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0084",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械设计_设计方法",
+   "subjectName": "设计方法",
+   "publishYear": "2021",
+   "definition": "充分利用直觉思维和灵感思维来得到问题新的解法或新的发现的方法。"
+  },
+  {
+   "cn": "直觉决策",
+   "en": "intuitive decision making",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0045",
+   "subjectFullName": "管理科学技术_一般管理理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "决策者将以往积累的、在某一特定领域丰富的知识、经验等信息重新加以认知，从而迅速做出的决策。"
+  },
+  {
+   "cn": "直觉的政策预测",
+   "en": "intuitive policy forecasting",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0256",
+   "subjectFullName": "管理科学技术_公共管理_公共政策",
+   "subjectName": "公共政策",
+   "publishYear": "2016",
+   "definition": "预测者通过主观判断，而非基于归纳或演绎的推理方法，对未来情况所做的政策预测。"
+  },
+  {
+   "cn": "直觉动作思维",
+   "en": "intuitive-action thinking",
+   "source": "心理学名词",
+   "wordNumber": "02.658",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "依靠对事物的直接感知和实际动作解决问题的思维方式。"
+  },
+  {
+   "cn": "直觉",
+   "en": "intuition",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "直觉学习",
+   "en": "intuitive learning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "直觉思维",
+   "en": "intuitive thinking",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "数学归纳",
+   "en": "mathematical induction",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数理气候",
+   "en": "mathematical climate",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数理统计[学]",
+   "en": "mathematical statistics",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数学模拟",
+   "en": "mathematical simulation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数学模型",
+   "en": "mathematical model",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "数学程序",
+   "en": "mathematical programming",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "数学模拟",
+   "en": "mathematical modeling",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "数学心理学",
+   "en": "mathematical psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "数学生态学",
+   "en": "mathematical ecology",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "数学模型",
+   "en": "mathematical model",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "数理地理学",
+   "en": "mathematical geography",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "数学地图学",
+   "en": "mathematical cartography",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "数学规划",
+   "en": "mathematical programming",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "数学表达式",
+   "en": "mathematical expression",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "数学函数",
+   "en": "mathematical function",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "数学模型",
+   "en": "mathematical model",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "[数学]期望",
+   "en": "mathematical expectation",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "数学应用",
+   "en": "Mathematical Application",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数理统计",
+   "en": "Mathematical Statistics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "计算数学",
+   "en": "computational mathematics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "离散数学",
+   "en": "discrete mathematics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "第二意图",
+   "en": "second intention",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "感性直观",
+   "en": "perceptual intuition",
+   "source": "马克思主义",
+   "wordNumber": "01.0180",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在康德哲学中，感性直观可指称两个方面：（1）指“自在之物”作用于“自我”所引起的知觉和印象，称作“经验的直观”，这是后天得来的感性认识；（2）指纯粹的形式，即时间和空间，称作“纯粹直观”或“先天的直观"
+  },
+  {
+   "cn": "道德直觉",
+   "en": "moral intuition",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.025",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "无须借助经验证明和逻辑推理，凭借经验知识、记忆表象而作出的道德选择或道德评价。"
+  },
+  {
+   "cn": "良知",
+   "en": "intuitive knowledge",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.104",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人与生俱来的、先天具有的判断是非善恶的道德意识和道德本能。是人的天赋善良本心的能动作用，主宰着人的一切道德行为，是人的最高的道德理性和道德本能。"
+  },
+  {
+   "cn": "科学中的直觉",
+   "en": "intuition in science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.3.7",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学家的社会角色",
+   "subjectName": "科学家的社会角色",
+   "publishYear": "2025",
+   "definition": "科学研究中由移情作用、共同生活和社会心理状态等感性器官提供直接的感官证据。这些由生活体验构成的感官见证，对科学发现和研究起着激发作用，是证明有效科学知识的重要基础。"
+  },
+  {
+   "cn": "直观行动思维",
+   "en": "intuitive action thinking",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.5.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "根据对事物现象及其变化的直接感触而做出判断的思维方式。"
+  },
+  {
+   "cn": "数学障碍",
+   "en": "mathematics disorder",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.2.3.2.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "以数字信息处理加工、学习计算、计算的准确性或流畅性明显受损为特征的一种特定学习障碍。"
+  },
+  {
+   "cn": "数理经济学派",
+   "en": "mathematical economics school",
+   "source": "马克思主义",
+   "wordNumber": "05.0168",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "在日本，将数学手段应用于马克思主义经济学的研究是在越村信三郎等人的早期研究基础上，通过置盐信雄得以实现的，数理马克思经济学派以此得以在日本学界确立其地位。"
+  },
+  {
+   "cn": "计算困难",
+   "en": "impairment in mathematics, dyscalculia",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.2.2.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_儿童少年心理卫生问题",
+   "subjectName": "儿童少年心理卫生问题",
+   "publishYear": "2025",
+   "definition": "个体在学习或理解数字和数字材料方面存在明显困难的一种学习障碍。"
+  },
+  {
+   "cn": "催经止孕",
+   "en": "menstrual induction",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.2.12.3",
+   "subjectFullName": "妇幼卫生学名词_生育调节_避孕",
+   "subjectName": "避孕",
+   "publishYear": "2025",
+   "definition": "事后避孕的一种方式。在发生无保护性交后，特别是多次无保护性交后，在月经延迟1周内使用负压吸引或药物诱导月经来潮。其目的是有孕止孕、无孕催经。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

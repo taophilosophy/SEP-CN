@@ -1,0 +1,682 @@
+{
+ "key": "effective field theory",
+ "term": "effective field theory",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T01:00:01+00:00",
+ "status": "ok",
+ "note": "variant=effective field theory; 审定公布名词库=6630; 海峡两岸名词对照库=2038; 其他来源数据库=332; 预公布名词数据库=488; jwt-direct（JWT 直连，raw 略；已滤维基 13 条）",
+ "hits": [
+  {
+   "cn": "有效场理论",
+   "en": "effective field theory",
+   "source": "物理学名词",
+   "wordNumber": "09.1365",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "场论",
+   "en": "field theory",
+   "source": "物理学名词",
+   "wordNumber": "09.1212",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "场论",
+   "en": "field theory",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0425",
+   "subjectFullName": "管理科学技术_一般管理理论_管理思想史",
+   "subjectName": "管理思想史",
+   "publishYear": "2016",
+   "definition": "卢因(Kurt Lewin)借用物理学概念创立的社会心理学概念，把人的行为看作环境的函数，其效应类似于物理学中的“场”，由此发展出群体力学。"
+  },
+  {
+   "cn": "场论",
+   "en": "field theory",
+   "source": "心理学名词",
+   "wordNumber": "04.075",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "认为心理是一个场，并以场的变化来解释心理现象及其机制的一种心理学理论。以格式塔学派为代表。"
+  },
+  {
+   "cn": "域论",
+   "en": "field theory",
+   "source": "数学名词",
+   "wordNumber": "04.0389",
+   "subjectFullName": "数学_代数学_代数几何学_域·多项式",
+   "subjectName": "域?多项式",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "场论",
+   "en": "field theory,semantic field theory",
+   "source": "语言学名词",
+   "wordNumber": "05.027",
+   "subjectFullName": "语言学_语义学、词汇学_语义学与语义理论",
+   "subjectName": "语义学与语义理论",
+   "publishYear": "2011",
+   "definition": "一种语义理论。认为语言的词汇是一个意义间互相联系的整体系统，语言中的某些词可以在一个共同概念的支配下组成一个语义场。"
+  },
+  {
+   "cn": "有效场",
+   "en": "effective field",
+   "source": "化学名词",
+   "wordNumber": "03.2275",
+   "subjectFullName": "化学_分析化学_仪器分析_核磁共振分析",
+   "subjectName": "核磁共振分析",
+   "publishYear": "2016",
+   "definition": "外场存在时，电介质中作用在分子、原子上使之发生电极化的场。"
+  },
+  {
+   "cn": "场效应",
+   "en": "field effect",
+   "source": "物理学名词",
+   "wordNumber": "08.1662",
+   "subjectFullName": "物理学_凝聚态物理学_固体及其性质",
+   "subjectName": "固体及其性质",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "场效应",
+   "en": "field effect",
+   "source": "化学名词",
+   "wordNumber": "02.0629",
+   "subjectFullName": "化学_有机化学_物理有机化学_有机化合物一般结构原理",
+   "subjectName": "有机化合物一般结构原理",
+   "publishYear": "2016",
+   "definition": "分子内某原子与远端的单极子或偶极子之间通过空间而非直接键连的相互影响。场效应的大小取决于单极子或偶极子电荷的大小、偶极的取向、相互间的距离以及介电常数等因素。"
+  },
+  {
+   "cn": "场效应",
+   "en": "field effect",
+   "source": "药学名词",
+   "wordNumber": "03.045",
+   "subjectFullName": "药学_药物化学",
+   "subjectName": "药物化学",
+   "publishYear": "2014",
+   "definition": "直接通过空间和溶剂分子传递的电子效应。"
+  },
+  {
+   "cn": "场效应",
+   "en": "field effect",
+   "source": "电子学名词",
+   "wordNumber": "13.195",
+   "subjectFullName": "电子学_半导体物理与半导体材料",
+   "subjectName": "半导体物理与半导体材料",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "效果理论",
+   "en": "effects theory",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "7.066",
+   "subjectFullName": "新闻学与传播学_大众传播_传播效果",
+   "subjectName": "传播效果",
+   "publishYear": "2022",
+   "definition": "传播学在效果研究过程中所形成的一系列理论。最常见的是以“魔弹论”为代表的强效果理论与对强效果理论进行修改的有限效果理论以及使用与满足理论。根据传播效果出现与维持的时间长度还可分为短期效果理论和长期效果"
+  },
+  {
+   "cn": "效益理论",
+   "en": "effectiveness theory",
+   "source": "自动化名词",
+   "wordNumber": "03.223",
+   "subjectFullName": "自动化科学技术_自动化技术系统_系统工程",
+   "subjectName": "系统工程",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "晶体场理论",
+   "en": "crystal field theory",
+   "source": "地质学名词",
+   "wordNumber": "13.01.083",
+   "subjectFullName": "地质学_地球化学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "一种化学成键的模式。用于解释有关过渡元素离子的一系列晶体化学问题。"
+  },
+  {
+   "cn": "配位场理论",
+   "en": "ligand field theory",
+   "source": "地质学名词",
+   "wordNumber": "13.01.084",
+   "subjectFullName": "地质学_地球化学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "在晶体场理论基础上发展起来的一种化学成键的模式。"
+  },
+  {
+   "cn": "统一场论",
+   "en": "unified field theory",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.349",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_物理学哲学",
+   "subjectName": "物理学哲学",
+   "publishYear": "2024",
+   "definition": "源于爱因斯坦试图继统一时空和引力之后整合广义相对论和电磁场的努力，其基本思想是以单一的场对所有种类的基本相互作用和基本粒子做出统一的解释，迄今为止尚无人提出自洽的统一场论。"
+  },
+  {
+   "cn": "统一场论",
+   "en": "unified field theory",
+   "source": "物理学名词",
+   "wordNumber": "09.1213",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "公理化场论",
+   "en": "axiomatic field theory",
+   "source": "物理学名词",
+   "wordNumber": "09.1498",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "分子场理论",
+   "en": "molecular field theory",
+   "source": "物理学名词",
+   "wordNumber": "08.1891",
+   "subjectFullName": "物理学_凝聚态物理学_固体及其性质",
+   "subjectName": "固体及其性质",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "非线性场论",
+   "en": "nonlinear field theory",
+   "source": "物理学名词",
+   "wordNumber": "09.1226",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "场论",
+   "en": "field theory",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "有效场",
+   "en": "effective field",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "场效应",
+   "en": "field effect",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "场效应",
+   "en": "field effect",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "晶体场理论",
+   "en": "crystal-field theory",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "配位场理论",
+   "en": "ligand field theory",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "统一性领域的理论",
+   "en": "unified field theory",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "近场效应",
+   "en": "near-field effect",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "场效[应]晶体管",
+   "en": "field effect transistor，FET",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "结型场效晶体管",
+   "en": "junction field effect transistor",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "耗尽型场效晶体管",
+   "en": "depletion mode field effect transistor",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "双栅场效晶体管",
+   "en": "dual gate field effect transistor",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "增强型场效晶体管",
+   "en": "enhancement mode field effect transistor",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "场",
+   "en": "field",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "字段",
+   "en": "field",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "场",
+   "en": "field",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "字段",
+   "en": "field",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "场",
+   "en": "field",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "理论",
+   "en": "theory",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "离子选择场效应晶体管",
+   "en": "ion selective field effect transistor\",\"ISFET",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "拓扑量子场论",
+   "en": "topological quantum field theory (TQFT)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "棒球场地",
+   "en": "field",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "运动场",
+   "en": "field\",\"playing field",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "足球场",
+   "en": "field\",\"pitch",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "接地滚球",
+   "en": "catch\",\"field",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "曲棍球场",
+   "en": "field\",\"pitch",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据场",
+   "en": "data field",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "场域",
+   "en": "field",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0627",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "法国社会学家布尔迪厄（Pierre Bourdieu）提出的概念。场域是指在各种位置之间存在的客观关系的一个网络或一个构型，这些位置在不同类型的权力（或资本）的分配结构中实际的和潜在的处境中，以及它们"
+  },
+  {
+   "cn": "理论",
+   "en": "theory",
+   "source": "马克思主义",
+   "wordNumber": "01.0119",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "关于自然、社会和人自身的本质规律的抽象、合乎逻辑的一般推论或假说。理论来源于实践，接受实践的检验。理论服务于实践，随着实践的发展而发展。"
+  },
+  {
+   "cn": "效果",
+   "en": "effectiveness",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.4.1",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "因卫生服务而带来的包括疾病治愈、身体功能恢复、生活质量提升以及预期寿命延长等健康改善的结果。"
+  },
+  {
+   "cn": "效应",
+   "en": "effect",
+   "source": "军事预防医学名词",
+   "wordNumber": "16.1.1.3.1",
+   "subjectFullName": "军事预防医学_军事毒理学_军事毒理学基础",
+   "subjectName": "军事毒理学基础",
+   "publishYear": "2025",
+   "definition": "暴露一定剂量外源化学物后造成的个体、器官或组织的生物学改变，是量反应，变化的程度用计量单位表示。"
+  },
+  {
+   "cn": "效应",
+   "en": "effect",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.6",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "暴露一定剂量外源化学物后所引起的一个生物个体、器官或组织的生物学改变"
+  },
+  {
+   "cn": "手现场消毒效果鉴定试验",
+   "en": "field disinfection effect appraisal test for hand",
+   "source": "消毒学",
+   "wordNumber": "6.2.28.1",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "验证消毒剂对手表面自然菌达到消毒合格要求所需使用剂量的试验方法。"
+  },
+  {
+   "cn": "皮肤现场消毒效果鉴定试验",
+   "en": "field disinfection effect appraisal test for skin",
+   "source": "消毒学",
+   "wordNumber": "6.2.28.2",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "验证消毒剂对皮肤表面自然菌达到消毒合格要求所需使用剂量的试验方法。"
+  },
+  {
+   "cn": "空气现场消毒效果鉴定试验",
+   "en": "field disinfection effect appraisal test for air",
+   "source": "消毒学",
+   "wordNumber": "6.2.28.5",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "验证消毒剂或消毒器械对空气中自然菌达到消毒合格要求的试验方法。"
+  },
+  {
+   "cn": "照射野",
+   "en": "radiation field",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.2.20",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_外照射屏蔽防护设计",
+   "subjectName": "外照射屏蔽防护设计",
+   "publishYear": "2025",
+   "definition": "射线束经准直器后垂直投照到受照体的范围。"
+  },
+  {
+   "cn": "现场去污",
+   "en": "field decontamination",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.15.4",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "在发生核或辐射突发事件现场采用物理、化学或生物过程完全或部分去除放射性污染的行动。包括从人员、设备和建筑物中去除污染物的各种过程，但不包括从人体内去除放射性核素，或通过自然风化或迁移过程去污。"
+  },
+  {
+   "cn": "田野笔记",
+   "en": "field notes",
+   "source": "社会学名词",
+   "wordNumber": "4.2.7.2",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学方法",
+   "subjectName": "人类学方法",
+   "publishYear": "2025",
+   "definition": "在田野工作中所记录的研究内容。包括笔记、实录、原文、日记、图表和谱系等形式，是民族志的基本依据。广义也包括音频和视频资料。"
+  },
+  {
+   "cn": "野战消毒",
+   "en": "field disinfection",
+   "source": "军事预防医学名词",
+   "wordNumber": "14.11.1.1",
+   "subjectFullName": "军事预防医学_军队流行病学_部队特定场合消杀灭",
+   "subjectName": "部队特定场合消杀灭",
+   "publishYear": "2025",
+   "definition": "野战条件下选择简便易行的物理或化学等消毒方法对容易受到污染的对象进行处理，以杀灭或清除可能导致传染病疫情和医院感染的病原微生物。"
+  },
+  {
+   "cn": "野战供膳",
+   "en": "field feeding",
+   "source": "军事预防医学名词",
+   "wordNumber": "7.4.2",
+   "subjectFullName": "军事预防医学_军队营养与食品卫生_军人供膳",
+   "subjectName": "军人供膳",
+   "publishYear": "2025",
+   "definition": "部队在野战条件下，按照军队规定的给养标准和营养相关标准提供的膳食，主要包括热食保障、军用食品保障、饮水保障及相应的保障装备。"
+  },
+  {
+   "cn": "野战食品",
+   "en": "field rations",
+   "source": "军事预防医学名词",
+   "wordNumber": "7.5.1",
+   "subjectFullName": "军事预防医学_军队营养与食品卫生_军用食品",
+   "subjectName": "军用食品",
+   "publishYear": "2025",
+   "definition": "部队人员行军、作战和一些特殊情况下热食供应困难时食用的制式食品，主要包括压缩干粮、脱水米饭、自加热食品、单兵口粮等。"
+  },
+  {
+   "cn": "原型理论",
+   "en": "prototype theory",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0031",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "认知科学的一种理论模型。认为人类对事物进行分类（范畴化）的过程并不存在非此即彼的明确界限，某一范畴中的核心成员会比其他成员更具典型性。例如在“飞禽”这个范畴里，“燕雀”比“鸡鸭”更具“飞禽”的特征。语"
+  },
+  {
+   "cn": "波浪理论",
+   "en": "wave theory",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.003",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "研究语言演变的一种动态模型。一种创新的语言特征从起源地往外扩散，其影响类似波浪扩散、随传播距离逐渐减小。"
+  },
+  {
+   "cn": "阶层化社会理论",
+   "en": "caste theory",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0143",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "美国教育人类学家奥格布（John Uzo Ogbu）提出，他认为少数民族的历史经历、社会地位以及由此造成的各种障碍等，必然会影响他们的学习态度和教育期望。"
+  },
+  {
+   "cn": "扎根理论",
+   "en": "grounded theory",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.7",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "对定性资料进行归纳、抽绎出理论概念、生成理论洞见的定性资料分析方法。是由格拉泽和施特劳斯提出的。"
+  },
+  {
+   "cn": "测量理论",
+   "en": "measurement theory",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.23",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "关于测量的性质和方法的理论。主要包括经典测量理论、概化理论和项目反应理论三种理论模型。"
+  },
+  {
+   "cn": "概化理论",
+   "en": "generalizability theory",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.33",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "克伦巴赫等人在20世纪60至70年代初提出一种测量理论。思想上，认为测量对象的值受到测量条件和环境的影响；概念上，用全域分数代替了经典测量理论的真分数，用概括化系数代替了信度；技术上，应用方法分析技术"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

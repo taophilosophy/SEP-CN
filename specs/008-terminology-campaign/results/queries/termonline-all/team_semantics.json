@@ -1,0 +1,812 @@
+{
+ "key": "team semantics",
+ "term": "team semantics",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T00:57:45+00:00",
+ "status": "ok",
+ "note": "variant=team semantics; 审定公布名词库=2215; 海峡两岸名词对照库=571; 其他来源数据库=159; 预公布名词数据库=114; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "语义学",
+   "en": "semantics",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.206",
+   "subjectFullName": "新闻学与传播学_传播总论_模式与方法",
+   "subjectName": "模式与方法",
+   "publishYear": "2022",
+   "definition": "研究语义表达的规律性、内在解释、不同语言在语义表达方面的个性以及共性。人类语言中，词汇可以有着许多不同的意义(meaning)，然而同一时代的词汇却往往有着相似的意义。对跨文化传播而言，语义学在于让人"
+  },
+  {
+   "cn": "语义",
+   "en": "semantics",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0005",
+   "subjectFullName": "计算机科学技术_系统软件_语言与编译",
+   "subjectName": "语言与编译",
+   "publishYear": "2018",
+   "definition": "语言中各个成分的含义。"
+  },
+  {
+   "cn": "语义学",
+   "en": "semantics",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0484",
+   "subjectFullName": "计算机科学技术_人工智能_计算语言学",
+   "subjectName": "计算语言学",
+   "publishYear": "2018",
+   "definition": "研究自然语言或人工语言的形式和意义间关系的语言学分支。"
+  },
+  {
+   "cn": "语义",
+   "en": "semantics",
+   "source": "数学名词",
+   "wordNumber": "02.0016",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "团队",
+   "en": "team",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "9.077",
+   "subjectFullName": "新闻学与传播学_组织传播_组织传播结构",
+   "subjectName": "组织传播结构",
+   "publishYear": "2022",
+   "definition": "由两个或两个以上相互作用和相互影响的个体组成的群体，为实现与组织相关的共同目标而彼此负责，并将自己视为组织内的一个社会实体。所有团队都是为实现某种目的而存在，都需要某种沟通形式，以便团队组织成员能相互"
+  },
+  {
+   "cn": "语义学",
+   "en": "semantics,linguistic semantics",
+   "source": "语言学名词",
+   "wordNumber": "05.001",
+   "subjectFullName": "语言学_语义学、词汇学_语义学与语义理论",
+   "subjectName": "语义学与语义理论",
+   "publishYear": "2011",
+   "definition": "①研究语言意义的学科。从研究角度和研究范畴可分为语言语义学、逻辑语义学、普通语义学、哲学语义学、文化语义学等；从历时发展角度可分为传统语义学和现代语义学；从理论模式角度可分为结构语义学、解释语义学、生"
+  },
+  {
+   "cn": "普通语义学",
+   "en": "general semantics,theoretic semantics",
+   "source": "语言学名词",
+   "wordNumber": "05.004",
+   "subjectFullName": "语言学_语义学、词汇学_语义学与语义理论",
+   "subjectName": "语义学与语义理论",
+   "publishYear": "2011",
+   "definition": "语义学的一个分支。主要研究语言交际中的意义问题。"
+  },
+  {
+   "cn": "语义检索",
+   "en": "semantic retrieval,semantic search",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.046",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_检索技术与方法",
+   "subjectName": "检索技术与方法",
+   "publishYear": "2019",
+   "definition": "通过正确分析语法格式，在理解词语的准确意思和词语之间关系的条件下，检索系统根据要求从语义层面上自动从信息源中查询和提取有关信息的过程。"
+  },
+  {
+   "cn": "语义分析",
+   "en": "semantic analysis,semantic parsing",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0534",
+   "subjectFullName": "计算机科学技术_人工智能_计算语言学",
+   "subjectName": "计算语言学",
+   "publishYear": "2018",
+   "definition": "对自然语言进行分析并得到其意义的形式化表示的过程、技术和方法。"
+  },
+  {
+   "cn": "地图语义",
+   "en": "cartographic semantics",
+   "source": "测绘学名词",
+   "wordNumber": "04.184",
+   "subjectFullName": "测绘学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2020",
+   "definition": "地图语言三要素之一。地图符号、注记所代表的信息含义，反映地图符号与制图对象之间的关系。"
+  },
+  {
+   "cn": "范畴语义",
+   "en": "categorical semantics",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0879",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "以范畴论为工具建立程序语言的语义理论。"
+  },
+  {
+   "cn": "数据语义",
+   "en": "data semantics",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0400",
+   "subjectFullName": "计算机科学技术_数据库_数据库新技术",
+   "subjectName": "数据库新技术",
+   "publishYear": "2018",
+   "definition": "数据在特定场景下的含义。"
+  },
+  {
+   "cn": "公理语义",
+   "en": "axiomatic semantics",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0877",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "用逻辑断言及其推理系统来描述程序设计语言的语义, 其典型代表是由托尼·霍尔（Tony Hoare）提出的霍尔公理语义。"
+  },
+  {
+   "cn": "操作语义",
+   "en": "operational semantics",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0907",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "将程序语义描述成抽象机或转换系统，对实际运行的程序结构含义进行描述，以此来模拟程序的执行的语义。它所关心的是程序“如何”产生其运行结果。"
+  },
+  {
+   "cn": "指称语义",
+   "en": "denotational semantics",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0887",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "由克里斯托弗·斯特雷奇（Christopher Strachey）和达纳·斯科特（Dana Scott）在20世纪60年代开创的形式语义学，用与程序执行效果相对应的数学对象（称为指称）来描述程序结构含"
+  },
+  {
+   "cn": "动作语义",
+   "en": "action semantics",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0872",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "指称语义、操作语义和代数语义的混合体，其动作由一个一阶语义项描述，可被执行或生成数据以及修改环境等，动作的表示法由操作语义来定义。"
+  },
+  {
+   "cn": "静态语义",
+   "en": "static semantics",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0911",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "一类程序形式语义。涉及到程序形式合法性的检查，与编译时的各种动作对应，它与程序运行时所需的输入无关。"
+  },
+  {
+   "cn": "形式语义学",
+   "en": "formal semantics",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0909",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "一门程序设计理论的学科。以数学为工具，利用符号和公式，精确定义和解释计算机程序设计语言的语义。"
+  },
+  {
+   "cn": "动态语义",
+   "en": "dynamic semantics",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0889",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "一类程序形式语义。描述程序执行过程中状态信息的改变，例如用动态逻辑描述的语义。"
+  },
+  {
+   "cn": "代数语义",
+   "en": "algebraic semantics",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0875",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "用基调（一种非齐性代数）定义程序语言的语义。"
+  },
+  {
+   "cn": "语义学",
+   "en": "semantics",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "语义",
+   "en": "semantic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "语义编码",
+   "en": "semantic encoding\",\"semantic coding",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "生成语义学",
+   "en": "generative semantics",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "地图语义",
+   "en": "cartographic semantics",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "地图语义",
+   "en": "cartographic semantics",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "数据语义",
+   "en": "data semantics",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "地图语义",
+   "en": "cartographic semantics",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "变换语义",
+   "en": "transformation semantics",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "操作语义",
+   "en": "operational semantics",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "成分语义学",
+   "en": "compositional semantics",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "词汇语义学",
+   "en": "lexical semantics",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "代数语义学",
+   "en": "algebraic semantics",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "动词语义学",
+   "en": "verb semantics",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "公理语义",
+   "en": "axiomatic semantics",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "过程语义",
+   "en": "procedural semantics",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "计算语义学",
+   "en": "computational semantics",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "句法语义学",
+   "en": "syntactic semantics",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "说明语义学",
+   "en": "declarative semantics",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "形式语义学",
+   "en": "formal semantics",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "拳击队",
+   "en": "team",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "赛艇队",
+   "en": "team",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "射击队",
+   "en": "team",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "射箭队",
+   "en": "team",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "手球队",
+   "en": "team",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "摔跤队",
+   "en": "team",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "水球队",
+   "en": "team",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "体操队",
+   "en": "team",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "铁人三项队",
+   "en": "team",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "网球队",
+   "en": "team",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "现代五项队",
+   "en": "team",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自行车队",
+   "en": "team",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "足球队",
+   "en": "team",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "棒球队",
+   "en": "team",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "花样游泳队",
+   "en": "team",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "击剑队",
+   "en": "team",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "举重队",
+   "en": "team",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "篮球队",
+   "en": "team",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "马术队",
+   "en": "team",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "排球队",
+   "en": "team",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "工作团队",
+   "en": "team",
+   "source": "社会学名词",
+   "wordNumber": "2.5.13.6",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "由员工和管理层组成的一个共同体，利用每一个成员的知识和技能协同工作，解决问题，达到共同的目标。"
+  },
+  {
+   "cn": "项目组",
+   "en": "project team",
+   "source": "社会学名词",
+   "wordNumber": "2.5.13.3",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "为了完成某个特定的任务而把一群不同背景、不同技能和来自不同部门的人组织在一起的组织形式。如组织中的技术革新小组、电影摄制组、横纵向课题联合组等。"
+  },
+  {
+   "cn": "团队服务",
+   "en": "team service",
+   "source": "社会医学名词",
+   "wordNumber": "11.2.7",
+   "subjectFullName": "社区卫生",
+   "subjectName": "社区卫生服务",
+   "publishYear": "2025",
+   "definition": "由多学科专业人员 （如全科医生、护士、公共卫生医师、康复师、心理咨询师、药师等）组成的协作团队，通过分工协作、资源共享、无缝衔接，为社区居民提供覆盖全生命周期、全健康维度的整合型健康服务，是社区卫生服"
+  },
+  {
+   "cn": "语义的不可通约性",
+   "en": "semantic incommensurability",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.184",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "不存在一种中立语言，使得新、旧两种范式的陈述可以翻译到该语言，从而实现新、旧范式之间的合理性对比。"
+  },
+  {
+   "cn": "临终关怀服务团队",
+   "en": "hospice care team",
+   "source": "医学伦理学名词",
+   "wordNumber": "7.047999999999999",
+   "subjectFullName": "医学伦理学_临终关怀与死亡伦理",
+   "subjectName": "临终关怀与死亡伦理",
+   "publishYear": "2025",
+   "definition": "有组织地为临终患者和家属提供临终关怀照护服务，有效控制和缓解疼痛及其他症状，提供心理、社会和精神支持的专业团队。"
+  },
+  {
+   "cn": "语义差异量表",
+   "en": "semantic differential scale",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.47",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "以形容词的正反意义为基础、通过等值的评定等级测量态度和感知的量表。是20世纪40年代到50年代由奥斯古德发展的。"
+  },
+  {
+   "cn": "语义网络分析",
+   "en": "semantic network analysis",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.16",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "表现概念间语义关系的网络图.是一种常见的知识呈现形式。"
+  },
+  {
+   "cn": "表意文字",
+   "en": "semantic script; ideography",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0195",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "文字类型之一。字符本身或其结构单位与所记录的词的意义有一定联系而与所记录词的读音没有直接联系的书写符号系统。"
+  },
+  {
+   "cn": "产科快速反应团队",
+   "en": "obstetric rapid-response team",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.5.2.5.8",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "由经过特殊训练，能够在产科及时发现孕产妇病情变化并迅速作出反应的医务人员组成的多学科救治团队。"
+  },
+  {
+   "cn": "社区卫生服务团队",
+   "en": "community health service team",
+   "source": "社会医学名词",
+   "wordNumber": "11.5.7",
+   "subjectFullName": "社区卫生",
+   "subjectName": "社区卫生服务人员",
+   "publishYear": "2025",
+   "definition": "以社区健康服务中心为依托、由多学科社区卫生工作组成，以契约化服务、团队协作、连续性管理为核心模式，为辖区居民提供预防、医疗、保健、康复、健康教育、计划生育技术指导等综合性卫生服务，是社区卫生服务体系中"
+  },
+  {
+   "cn": "农业生产互助组",
+   "en": "mutual aid team for agricultural production",
+   "source": "马克思主义",
+   "wordNumber": "02.0363",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国农村个体经济向社会主义集体经济过渡的初级形式。劳动农民在个体经济的基础上，为了解决劳力、耕畜、农具缺乏的困难，按照自愿互利原则组织起来的劳动互助组织。一般由几户至或十几户组成，实行共同劳动、分散经"
+  },
+  {
+   "cn": "战时小分队饮水消毒",
+   "en": "drinking water disinfection for team in wartime",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.1.9.2",
+   "subjectFullName": "军事预防医学_军事环境卫生_战时饮水卫生",
+   "subjectName": "战时饮水卫生",
+   "publishYear": "2025",
+   "definition": "军队战争或平时野外军事作业、非战争军事行动时，以小分队为基础单位，采用物理或化学的方法和装备，杀灭水中病原微生物，保障战时小分队饮用水安全的措施。"
+  },
+  {
+   "cn": "战时小分队水质净化",
+   "en": "drinking water purification for team in wartime",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.1.7.3",
+   "subjectFullName": "军事预防医学_军事环境卫生_战时饮水卫生",
+   "subjectName": "战时饮水卫生",
+   "publishYear": "2025",
+   "definition": "军队在战争或平时野外军事作业、非战争军事行动时，以小分队为基础单位，采用一定的工艺、设备，去除水中物理、化学和生物污染物，保障饮用水安全的过程。"
+  },
+  {
+   "cn": "产科快速反应团队急救演练",
+   "en": "first aid drill for obstetric rapid-response team",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.5.2.5.9",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "在模拟情形下，考察产科快速反应团队临床处理过程中对各方面资源进行合理的分配、补充、计划、协作能力以及突发状况应对能力的方式。"
+  },
+  {
+   "cn": "茶",
+   "en": "tea",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.19.1",
+   "subjectFullName": "食品卫生学_食品_茶与代用茶",
+   "subjectName": "茶与代用茶",
+   "publishYear": "2025",
+   "definition": "茶树的叶子和芽，经揉捻、杀青、干燥加工而成的制品。可用开水直接泡饮，有绿茶、红茶、白茶等不同种类。"
+  },
+  {
+   "cn": "蒸汽消毒",
+   "en": "steam disinfection",
+   "source": "消毒学",
+   "wordNumber": "2.2.1.2.2",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "利用蒸汽释放的潜热杀灭有害微生物的湿热消毒处理。"
+  },
+  {
+   "cn": "电子束",
+   "en": "electron beam",
+   "source": "消毒学",
+   "wordNumber": "2.2.2.10",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "连续或脉冲的高能电子。"
+  },
+  {
+   "cn": "饱和蒸汽",
+   "en": "saturated steam",
+   "source": "消毒学",
+   "wordNumber": "3.1.3.10.10",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "单位时间内进入蒸汽空间分子数目与返回液体中的分子数目相等，蒸发与液化处于动态平衡的蒸汽。"
+  },
+  {
+   "cn": "超热蒸汽",
+   "en": "superheated steam",
+   "source": "消毒学",
+   "wordNumber": "3.1.3.10.11",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "温度高于相应压力下水的沸点的水蒸汽。"
+  },
+  {
+   "cn": "蒸汽纯度",
+   "en": "steam purity",
+   "source": "消毒学",
+   "wordNumber": "3.1.3.10.12",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "在一定温度和压力下，蒸汽中所含有的水分子的百分比。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

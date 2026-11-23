@@ -1,0 +1,462 @@
+{
+ "key": "fitch's paradox",
+ "term": "Fitch's Paradox",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T00:56:40+00:00",
+ "status": "ok",
+ "note": "variant=Fitch's Paradox; 审定公布名词库=94; 海峡两岸名词对照库=20; 其他来源数据库=10; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "悖论",
+   "en": "paradox",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.161",
+   "subjectFullName": "自然辩证法_科学技术方法论_分析与推理",
+   "subjectName": "分析与推理",
+   "publishYear": "2024",
+   "definition": "导致矛盾的命题。这样一种命题，按普遍认可的逻辑推理方式，可推导出两个对立的结论。"
+  },
+  {
+   "cn": "佯谬",
+   "en": "paradox",
+   "source": "物理学名词",
+   "wordNumber": "01.0174",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "悖论",
+   "en": "paradox",
+   "source": "数学名词",
+   "wordNumber": "01.0022",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "对顶",
+   "en": "oxymoron,paradox",
+   "source": "语言学名词",
+   "wordNumber": "08.146",
+   "subjectFullName": "语言学_修辞学_修辞方法",
+   "subjectName": "修辞方法",
+   "publishYear": "2011",
+   "definition": "修辞格的一种。逻辑上两个相互矛盾、对立和排斥的词、短语或分句巧妙地联结在一起，组成句子描述一个事物或说明一个道理。词或短语层次上的称为单句对顶，句子层次上的称为复句对顶。例如，“厂长刚五十岁，是个年轻"
+  },
+  {
+   "cn": "归纳悖论",
+   "en": "inductive paradox",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.089",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_归纳",
+   "subjectName": "归纳",
+   "publishYear": "2024",
+   "definition": "归纳逻辑中的悖论的总称。包括乌鸦悖论、绿蓝悖论等。"
+  },
+  {
+   "cn": "乌鸦悖论",
+   "en": "raven paradox",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.090",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_归纳",
+   "subjectName": "归纳",
+   "publishYear": "2024",
+   "definition": "“所有乌鸦都是黑色的”其等价命题是“所有不是黑色的东西都不是乌鸦”，但增加后者确信度的证据并不能同样地为前者提供支持，这意味着两个逻辑等价的命题可能拥有不同的确信程度。"
+  },
+  {
+   "cn": "绿蓝悖论",
+   "en": "grue paradox",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.092",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_归纳",
+   "subjectName": "归纳",
+   "publishYear": "2024",
+   "definition": "N. 古德曼（N. Goodman）定义了一个新的谓词“绿蓝色”（grue）：在时刻t之前x被观察到且为绿色或在时刻t之前x未被观察到且为蓝色。那么对于已有的如“迄今为止观察的翡翠都是绿色的”命题对“"
+  },
+  {
+   "cn": "抽彩悖论",
+   "en": "lottery paradox",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.093",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_归纳",
+   "subjectName": "归纳",
+   "publishYear": "2024",
+   "definition": "抽彩票游戏中，先设定一个阈值，如果认为任买一号彩票不中奖的概率都大于这一阈值，就合理地接受“这一号彩票不会中奖”，因此“没有彩票会中奖”就是合理的，这就与“有一张彩票会中奖”这个命题相矛盾。"
+  },
+  {
+   "cn": "数学悖论",
+   "en": "mathematical paradox",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.248",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "指一个自相矛盾的数学命题A，即在某个特定的理论背景下，可以证明A等价于A的否定。著名的悖论的例子是罗素悖论。另外，有些被称为悖论的数学命题，如斯科伦悖论，本质上并不是悖论。"
+  },
+  {
+   "cn": "末世悖论",
+   "en": "doomsday paradox",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.288",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "一个概率推理悖论。声称仅根据地球上迄今为止曾经出生的人口总数（假定1990年初为600亿人），就可以用贝叶斯主义的概率推理得出地球未来将要出生的人口总数<N的概率，而且在很大的概率（95%）下N<1."
+  },
+  {
+   "cn": "奥伯斯佯谬",
+   "en": "Olbers paradox",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.330",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_物理学哲学",
+   "subjectName": "物理学哲学",
+   "publishYear": "2024",
+   "definition": "认为如果宇宙是稳恒态、无限的，且有无数均匀分布的发光星体，那么星与星之间不应有黑暗的位置，即晚上应该是光亮的而不是黑暗的。"
+  },
+  {
+   "cn": "双生子佯谬",
+   "en": "twin paradox",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.355",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_物理学哲学",
+   "subjectName": "物理学哲学",
+   "publishYear": "2024",
+   "definition": "狭义相对论中的思想实验。实验中，双生子中的一人乘坐飞船以接近光速驶向遥远星系然后返回地球。佯谬在于飞船回到地球时为何是双生子中的旅行者更年轻而非留在地球上的人更年轻。佯谬是不当运用相对论效应的结果。"
+  },
+  {
+   "cn": "技术悖论",
+   "en": "technology paradox",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.137",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "技术自身的不合理性和矛盾性。主要体现在技术既为人类服务又控制甚至奴役人类。"
+  },
+  {
+   "cn": "逻辑悖论",
+   "en": "logical paradox",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.162",
+   "subjectFullName": "自然辩证法_科学技术方法论_分析与推理",
+   "subjectName": "分析与推理",
+   "publishYear": "2024",
+   "definition": "悖论的一种。在逻辑上存在相互矛盾的命题，即同一命题可以逻辑地推理出两个对立的结论。肯定其中的一个命题，就得出它的矛盾命题。如罗素悖论。"
+  },
+  {
+   "cn": "奥尔伯斯佯谬",
+   "en": "Olbers’ paradox",
+   "source": "天文学名词",
+   "wordNumber": "07.413",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "若恒星均匀分布在静止无限的欧几里得空间中，则夜空的面亮度应与恒星表面亮度相等，而事实上夜空是黑暗的。这一矛盾因由德国天文学家奥尔伯斯明确提出而得名。"
+  },
+  {
+   "cn": "西利格佯谬",
+   "en": "Seeliger paradox",
+   "source": "天文学名词",
+   "wordNumber": "07.414",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "若恒星均匀分布在无限宇宙中，则宇宙间任一质点受到的引力应为无限大或为不定值，这与事实相违。因由德国天文学家西利格提出而得名。"
+  },
+  {
+   "cn": "易脉",
+   "en": "paradox pulse",
+   "source": "兽医学名词",
+   "wordNumber": "19.133",
+   "subjectFullName": "兽医学_中兽医学",
+   "subjectName": "中兽医学",
+   "publishYear": "2023",
+   "definition": "动物生命垂危时出现的各种怪异脉象。"
+  },
+  {
+   "cn": "应力悖论",
+   "en": "stress paradox",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1536",
+   "subjectFullName": "地球物理学_地震科学_震源",
+   "subjectName": "震源",
+   "publishYear": "2022",
+   "definition": "当断层滑动时摩擦生热应产生大量的热从而导致热流异常然而在圣安德烈斯断层所做的热流测量并没有观测到高热流异常，该实际观测与理论推测之间的矛盾。 "
+  },
+  {
+   "cn": "EPR佯谬",
+   "en": "EPR paradox",
+   "source": "光学名词",
+   "wordNumber": "02.042",
+   "subjectFullName": "光学_非线性光学与量子光学",
+   "subjectName": "非线性光学与量子光学",
+   "publishYear": "2021",
+   "definition": "基于定域实在论和两体量子系统中对非对易物理量测量结果的关联，由爱因斯坦(Einstein)、波多尔斯基(Podolsky)、罗森(Rosen)三人所提出的质疑量子力学的佯谬。"
+  },
+  {
+   "cn": "投票悖论",
+   "en": "voting paradox",
+   "source": "经济学名词",
+   "wordNumber": "05.078",
+   "subjectFullName": "经济学_制度经济学",
+   "subjectName": "制度经济学",
+   "publishYear": "2020",
+   "definition": "在通过多数原则实现个人选择到集体选择的转换过程中所遇到的障碍或非传递性。18世纪由法国思想家孔多塞（Condorcet）提出。假设甲、乙、丙三人，面对a、b、c三个备选方案。由于甲、乙都认为b好于c，"
+  },
+  {
+   "cn": "光度佯谬",
+   "en": "luminosity paradox\",\"photometric paradox",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "奥伯斯佯谬",
+   "en": "Olbers paradox",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "西利格佯谬",
+   "en": "Seeliger paradox",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "引力佯谬",
+   "en": "gravitational paradox",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "里昂惕夫悖论",
+   "en": "Leontief paradox",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "异相睡眠",
+   "en": "paradoxical sleep",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "C值悖理，C值矛盾",
+   "en": "C value paradox",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "C值矛盾（=C值悖理）",
+   "en": "C value paradox",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "连接数悖理,连接数颠倒现象",
+   "en": "linking number paradox",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "基因数悖理",
+   "en": "gene number paradox",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "C值悖理,C值矛盾",
+   "en": "C value paradox",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "帕拉莫群落",
+   "en": "paramo",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "游行",
+   "en": "Parade",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Satie, Erik"
+  },
+  {
+   "cn": "帕拉莫群落",
+   "en": "paramo",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "帕拉莫群落",
+   "en": "paramo",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "绳结",
+   "en": "bends and hitches",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "双半结",
+   "en": "two half hitches",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "试金石",
+   "en": "Pietra del Paragon\",\"La",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Rossini, Gioacchino"
+  },
+  {
+   "cn": "旋圆双半结",
+   "en": "round turn and two half hitches",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "帕拉蒂斯，玛丽亚",
+   "en": "Paradis\",\"Maria Theresia von(奧地利)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "数据悖论",
+   "en": "data paradox",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "辛普森悖论",
+   "en": "Simpson’s paradox",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "矛盾",
+   "en": "Paradox of the Spear and the Shield / Contradiction",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "列队行进",
+   "en": "parade",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "运动员入场式",
+   "en": "parade of the participants",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

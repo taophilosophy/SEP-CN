@@ -1,0 +1,612 @@
+{
+ "key": "empirical idealism",
+ "term": "empirical idealism",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T00:59:13+00:00",
+ "status": "ok",
+ "note": "variant=empirical idealism; 审定公布名词库=331; 海峡两岸名词对照库=80; 其他来源数据库=8; 预公布名词数据库=17; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "理想化",
+   "en": "idealization",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.224",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_认识论",
+   "subjectName": "认识论",
+   "publishYear": "2024",
+   "definition": "在科学研究中，往往忽略较难处理的变量，从而使得理论或模型可以更加简单地说明现象。"
+  },
+  {
+   "cn": "理想",
+   "en": "ideal",
+   "source": "行为医学名词",
+   "wordNumber": "1.083",
+   "subjectFullName": "行为医学_总论_行为决定健康",
+   "subjectName": "行为决定健康",
+   "publishYear": "2022",
+   "definition": "（1）对未来事物有根据、合理的美好想象和希望。（2）对于某事物臻于最完善境界的观念。"
+  },
+  {
+   "cn": "理想",
+   "en": "ideal",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0199",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "给定一个上半格 L =( L ,≤,∨)，称一个子集合 I<img src='/root/syzx/static/spz/jsjkx3.02.0167.002.png'/>L 形成 L 的一个理想，若"
+  },
+  {
+   "cn": "理想",
+   "en": "ideal",
+   "source": "数学名词",
+   "wordNumber": "04.0935",
+   "subjectFullName": "数学_代数学_代数几何学_交换环",
+   "subjectName": "交换环",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "经验［性］模型",
+   "en": "empirical model",
+   "source": "农学名词",
+   "wordNumber": "16.167",
+   "subjectFullName": "农业信息_农业信息技术",
+   "subjectName": "农业信息技术",
+   "publishYear": "2025",
+   "definition": "根据实验数据归纳而得到的描述因变量与自变量之间关系的定量化表达。"
+  },
+  {
+   "cn": "经验模型",
+   "en": "empirical model",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "01.027",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_通论",
+   "subjectName": "通论",
+   "publishYear": "2024",
+   "definition": "利用实测数据归纳而得到的规律，定量描述因变量和自变量之间关系的数学模型。"
+  },
+  {
+   "cn": "经验适当性",
+   "en": "empirical adequacy",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.016",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "B. 范·弗拉森（B. van Fraassen）提出的约束科学理论的原则，即科学的目的就是要恰当地描述可观察世界中的所有可观察现象。"
+  },
+  {
+   "cn": "经验内容",
+   "en": "empirical content",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.017",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "理论所能包含的可观察性信息。理论的经验内容越多，它出错的可能性也越大。"
+  },
+  {
+   "cn": "经验等价性",
+   "en": "empirical equivalence",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.018",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "两个科学理论可以给出对经验事实的相同解释或相同预测。"
+  },
+  {
+   "cn": "经验科学",
+   "en": "empirical science",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.028",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "偏重于经验描述与实验方法的科学。通常与注重数学演绎的“形式科学”相对。"
+  },
+  {
+   "cn": "经验性研究",
+   "en": "empirical research",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.002",
+   "subjectFullName": "自然辩证法_科学技术方法论_方法与工具",
+   "subjectName": "方法与工具",
+   "publishYear": "2024",
+   "definition": "在科学研究中通过观察、实验等方法直接从研究对象那里收集第一手观察或实验数据资料，并以此为基础开展的研究。与“理论性研究”相对。"
+  },
+  {
+   "cn": "经验模型",
+   "en": "empirical model",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.179",
+   "subjectFullName": "自然辩证法_科学技术方法论_模型与假说",
+   "subjectName": "模型与假说",
+   "publishYear": "2024",
+   "definition": "根据科学事实和经验知识而建立的模型。"
+  },
+  {
+   "cn": "经验描述",
+   "en": "empirical description",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.196",
+   "subjectFullName": "自然辩证法_科学技术方法论_理论与预见",
+   "subjectName": "理论与预见",
+   "publishYear": "2024",
+   "definition": "对观察实验所揭示的客观世界中发生的经验事实所进行的描述与记录。"
+  },
+  {
+   "cn": "经验预见",
+   "en": "empirical prediction",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.201",
+   "subjectFullName": "自然辩证法_科学技术方法论_理论与预见",
+   "subjectName": "理论与预见",
+   "publishYear": "2024",
+   "definition": "科学理论对经验事实的预见。包括对经验事实、经验规律的重复性预见以及对未知的新颖事实的预见。"
+  },
+  {
+   "cn": "经验学派",
+   "en": "Empirical School",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.167",
+   "subjectFullName": "新闻学与传播学_传播总论_学科与学派",
+   "subjectName": "学科与学派",
+   "publishYear": "2022",
+   "definition": "形成于20世纪初，以功能主义为主要理论指导，在传播研究中注重经验材料和实证考察。该学派以美国传播研究学者为主。"
+  },
+  {
+   "cn": "经验证据",
+   "en": "empirical evidence",
+   "source": "行为医学名词",
+   "wordNumber": "3.301",
+   "subjectFullName": "行为医学_行为的生物学基础_遗传学基础_行为进化",
+   "subjectName": "行为进化",
+   "publishYear": "2022",
+   "definition": "通过感官的感觉（如触觉、视觉、听觉、嗅觉和味觉）所获得的结果和证据。"
+  },
+  {
+   "cn": "经验延迟",
+   "en": "empirical delay",
+   "source": "医学影像技术学名词",
+   "wordNumber": "04.168",
+   "subjectFullName": "医学影像技术学_计算机体层成像技术_计算机体层成像临床应用",
+   "subjectName": "计算机体层成像临床应用",
+   "publishYear": "2020",
+   "definition": "根据经验值设定扫描延迟时间的方法。"
+  },
+  {
+   "cn": "经验模型",
+   "en": "empirical model",
+   "source": "冶金学名词",
+   "wordNumber": "04.0757",
+   "subjectFullName": "冶金学_冶金物理化学_计算冶金物理化学",
+   "subjectName": "计算冶金物理化学",
+   "publishYear": "2019",
+   "definition": "通过数理统计处理实测数据，实现定量描述输入和输出变量之间关系的一种数学模型。"
+  },
+  {
+   "cn": "经验公式",
+   "en": "empirical formula",
+   "source": "物理学名词",
+   "wordNumber": "01.0092",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "经验模型",
+   "en": "empirical model",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "01.0038",
+   "subjectFullName": "化工（三）_通类",
+   "subjectName": "通类",
+   "publishYear": "2019",
+   "definition": "由实测数据归纳而得到的定量描述因变量与自变量之间关系的数学模型。"
+  },
+  {
+   "cn": "理想化",
+   "en": "idealization",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "经验公式",
+   "en": "empirical formula",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "经验式",
+   "en": "empirical formula",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "经验法",
+   "en": "empirical method",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "经验法则",
+   "en": "empirical rule",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "经验方程式",
+   "en": "empirical equation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "经验模型",
+   "en": "empirical model",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "经验性研究",
+   "en": "empirical research",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "实证效度",
+   "en": "empirical validity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "经验心理学",
+   "en": "empirical psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "实验式",
+   "en": "empirical formula",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "经验法则",
+   "en": "empirical law",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "经验系统",
+   "en": "empirical system",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "罗马帝国[时期]",
+   "en": "Roman Empire",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "理想板",
+   "en": "ideal plate\",\"ideal tray",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "理想品种",
+   "en": "ideal variety",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "理想流体",
+   "en": "ideal fluid",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "理想气候",
+   "en": "ideal climate",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "理想循环",
+   "en": "ideal cycle",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "理想流动",
+   "en": "ideal flow",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "应然数权",
+   "en": "ideal data rights",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "理想跑动线路",
+   "en": "ideal line of running",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "君子固穷",
+   "en": "A Man of Virtue Maintains His Ideals even in Frustrations.&nbsp;",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "唯心主义",
+   "en": "idealism",
+   "source": "马克思主义",
+   "wordNumber": "01.0004",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "哲学两大基本派别之一，与唯物主义相对立。在哲学的基本问题上，唯心主义主张精神第一性，物质第二性，精神是世界的本原，物质是精神、意识的产物，世界统一于精神。"
+  },
+  {
+   "cn": "经验世界",
+   "en": "empirical world",
+   "source": "马克思主义",
+   "wordNumber": "01.0181",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人们通过感觉器官获得的关于客观事物的现象和外部联系的认识，是人们在社会实践或日常生活中自发地形成或世代相传的对外部世界的基本观点和看法。其基本表现形式是常识，是最普通、最平常但又持久、经常起作用的知识"
+  },
+  {
+   "cn": "思辨唯心主义",
+   "en": "speculative idealism",
+   "source": "马克思主义",
+   "wordNumber": "01.0104",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "马克思、恩格斯在《神圣家族》中使用的术语。马克思、恩格斯批判黑格尔颠倒了精神和物质、思维和存在之间的关系。马克思认为，这样一来，全部外化的历史和外化的整个复归，不过是抽象的、绝对的思维的生产史，即逻辑"
+  },
+  {
+   "cn": "客观唯心主义",
+   "en": "objective idealism",
+   "source": "马克思主义",
+   "wordNumber": "01.0199",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "与“主观唯心主义”相对。唯心主义哲学的基本形态之一。客观唯心主义认为不依赖于人类，不依赖于人的意识而独立存在着的“客观精神”，“理念”等是唯一的客观实在，是第一性的，是物质世界的本原；而客观世界则是客"
+  },
+  {
+   "cn": "道德理想",
+   "en": "moral ideal",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.02",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "道德追求的最高境界。包括个人道德理想和社会道德理想两个方面。前者指基于一定道德要求的认识，自觉向往和追求的理想人格；后者指理想的社会道德状况。"
+  },
+  {
+   "cn": "职业理想",
+   "en": "professional ideal",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.045",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人们确立的与职业目标相联系的愿望。既是职业道德的要求，又有利于职业道德的实现。"
+  },
+  {
+   "cn": "共产主义理想信念",
+   "en": "communist ideals and beliefs",
+   "source": "马克思主义",
+   "wordNumber": "03.0553",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "对共产主义的理论和原则有了深刻的认识和理解并有了情感基础而产生的对共产主义的真诚信仰和坚强信心的思想意识。它是无产阶级世界观成熟的标志，是建立在马克思和恩格斯创立的科学社会主义理论之上的，是促使革命者"
+  },
+  {
+   "cn": "共产主义理想",
+   "en": "ideal of the communism",
+   "source": "马克思主义",
+   "wordNumber": "03.0020",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "无产阶级以马克思主义为指导、要在全世界建立共产主义社会的理想信念。"
+  },
+  {
+   "cn": "党的最高理想",
+   "en": "highest ideal of the Party",
+   "source": "马克思主义",
+   "wordNumber": "03.0717",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "即党的最终奋斗目标，是党的最高纲领的核心内容。中国共产党党章明确规定，党的最高理想和最终目标是实现共产主义。"
+  },
+  {
+   "cn": "中国特色社会主义共同理想",
+   "en": "common ideal of socialism with chinese characteristics",
+   "source": "马克思主义",
+   "wordNumber": "03.0698",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "社会主义核心价值体系基本内容的一部分。即坚定对中国共产党的信任，坚定走中国特色社会主义道路，坚定实现中华民族的伟大复兴。"
+  },
+  {
+   "cn": "二元论",
+   "en": "dualism",
+   "source": "马克思主义",
+   "wordNumber": "01.0088",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "认为世界有两种各自独立、性质不同的本原，即思维和物质两个实体的哲学学说。它坚持意识离开物质而独立存在，其实质是唯心主义哲学观。。哲学史上二元论的著名代表人物之一是法国笛卡儿。"
+  },
+  {
+   "cn": "二元论",
+   "en": "dualism",
+   "source": "社会医学名词",
+   "wordNumber": "2.4.2",
+   "subjectFullName": "医学模式",
+   "subjectName": "生物医学模式",
+   "publishYear": "2025",
+   "definition": "将事物划分为两种具有独立性且相互对立的根本属性的理论或方法。通常用于解释物质与精神、身体与意识等不同层面之间的关系。"
+  },
+  {
+   "cn": "社会唯实论",
+   "en": "social realism",
+   "source": "社会学名词",
+   "wordNumber": "2.1.7.16",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会意识",
+   "subjectName": "社会意识",
+   "publishYear": "2025",
+   "definition": "一种认为社会是由各种制度和规范构成的实在的有机整体，个体源于社会，社会外在和优先于个体，并对个体具有强制性的社会理论。因与西方中世纪经院哲学正统派概念唯实论有相通之处而得名。与“社会唯名论”相对。"
+  },
+  {
+   "cn": "概念实在论",
+   "en": "conceptual realism",
+   "source": "社会学名词",
+   "wordNumber": "3.10.2.8",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学知识",
+   "subjectName": "科学知识",
+   "publishYear": "2025",
+   "definition": "认为概念是具有现实的、真实的和独立的存在的一种学说。"
+  },
+  {
+   "cn": "性别二元论",
+   "en": "dualism of gender",
+   "source": "社会学名词",
+   "wordNumber": "3.2.1.3",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别概念",
+   "subjectName": "性别概念",
+   "publishYear": "2025",
+   "definition": "以男人和女人以及相应的分野为隐喻的一种思维模式，对应于西方认知传统中的二元结构，即理性和情感、心智和肉体、客观和主观、主体和客体、公共和私人等范畴之间的对立和等级关系，由此形成一种等级制的统治逻辑。"
+  },
+  {
+   "cn": "人类—自然二元论",
+   "en": "human-nature dualism",
+   "source": "社会学名词",
+   "wordNumber": "3.14.1.9",
+   "subjectFullName": "社会学名词_分支社会学环境社会学",
+   "subjectName": "分支社会学环境社会学",
+   "publishYear": "2025",
+   "definition": "一种认为人类属于一个较高等级，与其他处于较低等级的动物界和非人类是相互分离的观点。"
+  },
+  {
+   "cn": "革命现实主义和革命浪漫主义相结合",
+   "en": "combine revolutionary realism with revolutionary romanticism",
+   "source": "马克思主义",
+   "wordNumber": "03.0463",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "根据毛泽东1958年关于中国新诗“形式是民歌，内容应是现实主义和浪漫主义对立的统一”的精神而提出的文艺创作的一种方法。要求文艺工作者从无产阶级的立场出发，以马克思主义为指导去观察和表现生活，把客观现实"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

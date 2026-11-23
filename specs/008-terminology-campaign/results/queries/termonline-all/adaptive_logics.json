@@ -1,0 +1,692 @@
+{
+ "key": "adaptive logics",
+ "term": "adaptive logics",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T00:59:04+00:00",
+ "status": "ok",
+ "note": "variant=adaptive logics; 审定公布名词库=952; 海峡两岸名词对照库=458; 其他来源数据库=42; 预公布名词数据库=49; jwt-direct（JWT 直连，raw 略；已滤维基 12 条）",
+ "hits": [
+  {
+   "cn": "适应性",
+   "en": "adaptability,adaptation",
+   "source": "植物学名词",
+   "wordNumber": "11.0653",
+   "subjectFullName": "植物学_植物生理学_植物逆境生理",
+   "subjectName": "植物逆境生理",
+   "publishYear": "2019",
+   "definition": "植物对所处逆境的适应能力。"
+  },
+  {
+   "cn": "逻辑",
+   "en": "logic",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.359",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "通常指人们思考问题，从某些已知条件出发，推出合理的结论的规律。"
+  },
+  {
+   "cn": "逻辑主义",
+   "en": "logicism",
+   "source": "数学名词",
+   "wordNumber": "02.0304",
+   "subjectFullName": "数学_数理逻辑·数学基础_数学基础 ",
+   "subjectName": "数学基础",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "自适应[的]",
+   "en": "adaptive",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.020",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "在给定时间按照特定要求调整自身的。"
+  },
+  {
+   "cn": "适应",
+   "en": "adaptation",
+   "source": "自然辩证法名词",
+   "wordNumber": "01.071",
+   "subjectFullName": "自然辩证法_总论_自然图景",
+   "subjectName": "自然图景",
+   "publishYear": "2024",
+   "definition": "生物普遍存在的一种现象，即生物对环境变化做出有利于生存的反应，从而使自身的形态结构和生理机能与生存的环境条件相协调的现象。"
+  },
+  {
+   "cn": "适应性",
+   "en": "adaptability",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.696",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_复杂系统科学哲学",
+   "subjectName": "复杂系统科学哲学",
+   "publishYear": "2024",
+   "definition": "原指生物的一种特性。在复杂系统理论中，指系统有能力通过自身结构形式上的或行为方式上的改变以适应环境的一种特性。适应性体现为多样性变异、遗传性保存以及环境性的选择。"
+  },
+  {
+   "cn": "适应性",
+   "en": "adaptability",
+   "source": "兽医学名词",
+   "wordNumber": "04.014",
+   "subjectFullName": "兽医学_动物生理学",
+   "subjectName": "动物生理学",
+   "publishYear": "2023",
+   "definition": "当环境发生变化时，机体或其部分组织器官的结构与机能将在某种限度内随之改变，但机体仍与所在环境保持动态平衡的能力。"
+  },
+  {
+   "cn": "适应",
+   "en": "adaptation",
+   "source": "兽医学名词",
+   "wordNumber": "10.155",
+   "subjectFullName": "兽医学_兽医病理及病理生理学",
+   "subjectName": "兽医病理及病理生理学",
+   "publishYear": "2023",
+   "definition": "机体的细胞和组织改变其代谢、功能与形态结构，以适应改变了的环境条件和新的功能要求的过程。"
+  },
+  {
+   "cn": "适应性",
+   "en": "adaptability ",
+   "source": "草学名词",
+   "wordNumber": "2.028",
+   "subjectFullName": "草学_草地生态与草地培育_草地生态",
+   "subjectName": "草地生态",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "适应性",
+   "en": "adaptability",
+   "source": "行为医学名词",
+   "wordNumber": "7.048",
+   "subjectFullName": "行为医学_健康相关行为_健康促进行为_戒烟",
+   "subjectName": "戒烟",
+   "publishYear": "2022",
+   "definition": "生物体对所处生态环境和社会环境的生存能力或潜力。"
+  },
+  {
+   "cn": "适应",
+   "en": "adaptation",
+   "source": "动物学名词",
+   "wordNumber": "2.0294",
+   "subjectFullName": "动物学_动物进化与系统学_动物进化",
+   "subjectName": "动物进化",
+   "publishYear": "2021",
+   "definition": "在进化历史中生物体形态结构、生理功能或行为习性随外界环境的改变。"
+  },
+  {
+   "cn": "适应性",
+   "en": "adaptability",
+   "source": "动物学名词",
+   "wordNumber": "7.0078",
+   "subjectFullName": "动物学_动物生态学_个体生态学",
+   "subjectName": "个体生态学",
+   "publishYear": "2021",
+   "definition": "生物体对所处生态环境的适应能力。是反映生物体与环境适合程度的指标。"
+  },
+  {
+   "cn": "适应性",
+   "en": "adaptability",
+   "source": "畜牧学名词",
+   "wordNumber": "04.323",
+   "subjectFullName": "畜牧学_遗传育种_群体遗传学",
+   "subjectName": "群体遗传学",
+   "publishYear": "2020",
+   "definition": "群体或个体对所处环境的适应能力。"
+  },
+  {
+   "cn": "适应",
+   "en": "adaptation",
+   "source": "病理学名词",
+   "wordNumber": "01.024",
+   "subjectFullName": "病理学_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "细胞在持续性的内外刺激作用下出现的可逆性应变。表现在细胞的数量、大小、表型、代谢活性或功能等方面。基本的适应性反应包括肥大、增生、萎缩和化生。"
+  },
+  {
+   "cn": "适应",
+   "en": "adaptation",
+   "source": "生理学名词",
+   "wordNumber": "01.060",
+   "subjectFullName": "生理学_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "适应性",
+   "en": "adaptability",
+   "source": "生理学名词",
+   "wordNumber": "01.061",
+   "subjectFullName": "生理学_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "适应",
+   "en": "adaptation",
+   "source": "神经病学名词",
+   "wordNumber": "05.107",
+   "subjectFullName": "神经病学_神经病诊断技术_临床肌电图学",
+   "subjectName": "临床肌电图学",
+   "publishYear": "2020",
+   "definition": "在进行持续电刺激时，所记录到的动作电位在连续发放过程中兴奋频率下降的现象。在对感觉神经进行刺激时较常见。"
+  },
+  {
+   "cn": "适应能力",
+   "en": "adaptability",
+   "source": "计划生育名词",
+   "wordNumber": "04.036",
+   "subjectFullName": "计划生育_生殖健康心理卫生",
+   "subjectName": "生殖健康心理卫生",
+   "publishYear": "2019",
+   "definition": "人在自然环境和社会环境中，为了更好生存而进行的心理、生理及行为上的各种适应性的改变，与自然和社会达到和谐状态的一种能力。是人赖以生存的基本条件。"
+  },
+  {
+   "cn": "编述",
+   "en": "adaptation",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "08.109",
+   "subjectFullName": "图书馆·情报与文献学_文献学_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "古人写作的体例。在许多可以凭借的资料的基础上，进行提炼改写而成新的文字作品。"
+  },
+  {
+   "cn": "转接器",
+   "en": "adapter",
+   "source": "物理学名词",
+   "wordNumber": "03.1104",
+   "subjectFullName": "物理学_电磁学",
+   "subjectName": "电磁学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑",
+   "en": "logic",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "自适应",
+   "en": "adapting",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "适应性",
+   "en": "adaptability",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "适应",
+   "en": "adaptation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "适应力",
+   "en": "adaptability",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "适应性",
+   "en": "adaptability",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "适应",
+   "en": "adaptation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "适应",
+   "en": "adaptation",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "衔接蛋白",
+   "en": "adapter",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "适应性",
+   "en": "adaptability",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "自适应性",
+   "en": "adaptability",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "适应性",
+   "en": "adaptability",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "适应",
+   "en": "adaptation",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "适应",
+   "en": "adaptation",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑记录",
+   "en": "logical record\",\"logic record",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "适应型",
+   "en": "adaptive type\",\"adaptive pattern",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "趋异适应　",
+   "en": "cladogenic adaptation\",\"divergent adaptation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "感觉适应",
+   "en": "sensation adaptation\",\"sensory adaptation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "适应型",
+   "en": "adaptation type\",\"adaptation pattern",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "模糊逻辑",
+   "en": "fuzzy logic",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑部件",
+   "en": "logic unit",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑编程",
+   "en": "logic programming",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "协议逻辑",
+   "en": "protocol logic",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "Bieber逻辑",
+   "en": "Bieber logic",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑结构",
+   "en": "logical structure",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自适应学习",
+   "en": "adaptive learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑编程语言",
+   "en": "logic programming language",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑数据模型",
+   "en": "logical data model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "位育",
+   "en": "adaptation",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.36",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "生物在与环境之间的互动关系中养成生理和精神特点的过程和状态。对民族群体而言，民族精神是在诸如土地、气候、物产等物质的环境和文物、典章、制度等文化的环境之中历史形成的。潘光旦根据《中庸》中的“致中和，天"
+  },
+  {
+   "cn": "适应论",
+   "en": "adaptation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0007",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "文化人类学（民族学）的学科观。人类和其他动物一样受周围环境的影响和制约，包括体质适应和文化适应。人的生物性适应（biological adaptation）主要指人体同周围环境保持生理、心理和行为上的"
+  },
+  {
+   "cn": "思辨逻辑",
+   "en": "speculative logic",
+   "source": "马克思主义",
+   "wordNumber": "01.0101",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "研究人类辩证思维的科学，是关于辩证思维的形式、规律和方法的科学。它把概念的辩证运动以及如何通过概念反映现实矛盾的问题作为自己的主要研究对象。原初含义专指黑格尔思辨哲学的逻辑形态。恩格斯最早明确地把这种"
+  },
+  {
+   "cn": "适应性反应",
+   "en": "adaptive response",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.1.1.16",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2025",
+   "definition": "预先给予细胞或机体低剂量辐射照射刺激，使其在一定时间间隔内对随后的大剂量辐射照射产生抗性或保护作用。诱发该反应的辐射剂量一般是在几十个毫戈瑞的剂量范围内。"
+  },
+  {
+   "cn": "适应策略",
+   "en": "adaptive strategy",
+   "source": "社会学名词",
+   "wordNumber": "4.2.9.46",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化现象",
+   "subjectName": "文化现象",
+   "publishYear": "2025",
+   "definition": "社会群体在一定时期为了调整和解决来自其内部和外部的压力所采取的行动计划。"
+  },
+  {
+   "cn": "适应性免疫",
+   "en": "adaptive immunity",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.1.3",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫应答",
+   "subjectName": "免疫应答",
+   "publishYear": "2025",
+   "definition": "机体出生后通过与抗原物质接触由淋巴细胞产生的一系列防御功能，主要由T淋巴细胞和B淋巴细胞介导，清除抗原，产生免疫记忆，具有特异性、多样性和记忆性。"
+  },
+  {
+   "cn": "适应性反应",
+   "en": "adaptive response",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.12",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "生物组织应答外界环境条件变化，以适应随条件变化而生存的能力"
+  },
+  {
+   "cn": "社会适应",
+   "en": "social adaptation",
+   "source": "社会学名词",
+   "wordNumber": "2.1.5.11",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会生活",
+   "subjectName": "社会生活",
+   "publishYear": "2025",
+   "definition": "人们在社会生产和社会生活中为与其社会环境取得和谐的关系、适合客观条件需要而产生的心理和行为的应激变化。个体与种种社会环境因素持续而不断改变的相互作用和相互协调的过程。"
+  },
+  {
+   "cn": "文化适应",
+   "en": "cultural adaptation",
+   "source": "社会学名词",
+   "wordNumber": "2.2.3.4",
+   "subjectFullName": "社会学名词_社会学一般概念_文化与文明_文化传播与变迁",
+   "subjectName": "文化传播与变迁",
+   "publishYear": "2025",
+   "definition": "不同文化群体经过长期接触，相互作用、相互影响、相互吸收，一方面失去一些文化特质，另一方面又获得一些文化特质，达成一种新的综合的过程。对新文化特质的产生和发展，新文化体系和模式的建立有着十分积极的意义。"
+  },
+  {
+   "cn": "婚姻调适",
+   "en": "marriage adaptations",
+   "source": "社会学名词",
+   "wordNumber": "3.1.3.13",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_婚姻制度",
+   "subjectName": "婚姻制度",
+   "publishYear": "2025",
+   "definition": "夫妻在婚后共同生活的基础上建立一定的夫妻相处原则，双方在各方面加以协调、以求互相适应和习惯的过程。有助于来自不同家庭背景、具有不同经验与习惯的夫妻双方互相协调包容。"
+  },
+  {
+   "cn": "社会适应能力",
+   "en": "social adaptability",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.4.1",
+   "subjectFullName": "",
+   "subjectName": "学校心理健康促进",
+   "publishYear": "2025",
+   "definition": "人在自然环境和社会环境中，为了更好生存而进行的心理、生理及行为上的各种适应性改变，与自然和社会达到和谐状态的一种能力。"
+  },
+  {
+   "cn": "入学适应",
+   "en": "freshman adaptation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.4.3.1",
+   "subjectFullName": "",
+   "subjectName": "学校心理健康促进",
+   "publishYear": "2025",
+   "definition": "学生较快实现课程适应、校规适应、学校生活适应、人际适应和团体适应的行为。"
+  },
+  {
+   "cn": "冷适应",
+   "en": "cold adaptation",
+   "source": "军事预防医学名词",
+   "wordNumber": "3.4",
+   "subjectFullName": "军事预防医学_寒区军事卫生_冷适应",
+   "subjectName": "冷适应",
+   "publishYear": "2025",
+   "definition": "世居寒冷地区者，在冷暴露时代谢产热量增加、散热量减少、耐寒力及抗冻能力明显增强，对冷环境的耐受能力强且稳定，并产生生理、生化以至形态学等方面的特征性改变。由此形成对冷环境的耐受能力可以世代遗传。"
+  },
+  {
+   "cn": "社会适应",
+   "en": "social adaptation",
+   "source": "社会医学名词",
+   "wordNumber": "2.5.6",
+   "subjectFullName": "医学模式",
+   "subjectName": "生物-心理-社会医学模式",
+   "publishYear": "2025",
+   "definition": "人们在社会生产和社会生活中为与其社会环境取得和谐的关系、适合客观条件需要而产生的心理和行为的应激变化。个体与种种社会环境因素持续而不断改变的相互作用和相互协调的过程。"
+  },
+  {
+   "cn": "热适应",
+   "en": "heat adaptation",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.6",
+   "subjectFullName": "军事预防医学_热区军事卫生_热适应",
+   "subjectName": "热适应",
+   "publishYear": "2025",
+   "definition": "世居或长期在热环境中生活和劳动者的热耐受能力比非世居者或短期进入热环境者强的环境生理学现象。"
+  },
+  {
+   "cn": "文化适应",
+   "en": "cultural adaptation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0045",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "反映文化特性和文化功能的基本概念，主要指文化对于环境的适应，有时也指文化的各个部分的相互适应。"
+  },
+  {
+   "cn": "角色适应",
+   "en": "role adaptation",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.045",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "个体不断调整自身的过程，目的是适应新角色的要求或者是已有的角色发展变换的新要求，最后表现出符合社会期望的角色行为。"
+  },
+  {
+   "cn": "抽象逻辑思维",
+   "en": "abstract logic thinking",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.5.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "能进行假设演绎推理和命题推理的科学思维方式。"
+  },
+  {
+   "cn": "先逻辑思维",
+   "en": "pre-logical thinking",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0534",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "法国人类学家列维-布留尔（Lucien Lévy-Bruhl）提出的概念。他认为原始人的思维是前逻辑思维，本质上不同于文明人的逻辑思维，后者能够进行抽象、概括和分类。前逻辑思维在我们看来很荒谬，但在原"
+  },
+  {
+   "cn": "即刻适应性应答",
+   "en": "immediate adaptive response",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "1.6.2.4",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生学_妇幼卫生理论",
+   "subjectName": "妇幼卫生理论",
+   "publishYear": "2025",
+   "definition": "发育中的个体在宫内或婴儿期对环境变化作出即时、明确的适应性改变的现象。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

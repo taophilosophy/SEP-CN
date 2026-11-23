@@ -1,0 +1,712 @@
+{
+ "key": "general semantics",
+ "term": "general semantics",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T00:55:43+00:00",
+ "status": "ok",
+ "note": "variant=general semantics; 审定公布名词库=3369; 海峡两岸名词对照库=944; 其他来源数据库=192; 预公布名词数据库=162; jwt-direct（JWT 直连，raw 略；已滤维基 10 条）",
+ "hits": [
+  {
+   "cn": "普通语义学",
+   "en": "general semantics,theoretic semantics",
+   "source": "语言学名词",
+   "wordNumber": "05.004",
+   "subjectFullName": "语言学_语义学、词汇学_语义学与语义理论",
+   "subjectName": "语义学与语义理论",
+   "publishYear": "2011",
+   "definition": "语义学的一个分支。主要研究语言交际中的意义问题。"
+  },
+  {
+   "cn": "生成语义学",
+   "en": "generative semantics",
+   "source": "心理学名词",
+   "wordNumber": "02.801",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "生成语言学的一个语义学分支。主张语言的最深层的结构是义素，通过句法变化和词汇化而得到表层的句子形式。"
+  },
+  {
+   "cn": "生成语义学",
+   "en": "generative semantics",
+   "source": "语言学名词",
+   "wordNumber": "05.007",
+   "subjectFullName": "语言学_语义学、词汇学_语义学与语义理论",
+   "subjectName": "语义学与语义理论",
+   "publishYear": "2011",
+   "definition": "语义学的一个分支。基本观点是句法和语义不可分割，语义在句法中起着中心作用，并通过转换规则把语义表现和表层结构联系起来。"
+  },
+  {
+   "cn": "生成语义学派",
+   "en": "generative semantics",
+   "source": "语言学名词",
+   "wordNumber": "01.051",
+   "subjectFullName": "语言学_理论语言学_学派",
+   "subjectName": "学派",
+   "publishYear": "2011",
+   "definition": "语言学的一个学派。对语义学在转换生成语法中的地位问题有两种相对立的观点，一种是解释语义学派，一种是生成语义学派。生成语义学派从乔姆斯基的转换生成语法分化出来，20世纪60年代初由美国语言学家乔治·莱考"
+  },
+  {
+   "cn": "语义学",
+   "en": "semantics",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.206",
+   "subjectFullName": "新闻学与传播学_传播总论_模式与方法",
+   "subjectName": "模式与方法",
+   "publishYear": "2022",
+   "definition": "研究语义表达的规律性、内在解释、不同语言在语义表达方面的个性以及共性。人类语言中，词汇可以有着许多不同的意义(meaning)，然而同一时代的词汇却往往有着相似的意义。对跨文化传播而言，语义学在于让人"
+  },
+  {
+   "cn": "语义",
+   "en": "semantics",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0005",
+   "subjectFullName": "计算机科学技术_系统软件_语言与编译",
+   "subjectName": "语言与编译",
+   "publishYear": "2018",
+   "definition": "语言中各个成分的含义。"
+  },
+  {
+   "cn": "语义学",
+   "en": "semantics",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0484",
+   "subjectFullName": "计算机科学技术_人工智能_计算语言学",
+   "subjectName": "计算语言学",
+   "publishYear": "2018",
+   "definition": "研究自然语言或人工语言的形式和意义间关系的语言学分支。"
+  },
+  {
+   "cn": "语义",
+   "en": "semantics",
+   "source": "数学名词",
+   "wordNumber": "02.0016",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "语义学",
+   "en": "semantics,linguistic semantics",
+   "source": "语言学名词",
+   "wordNumber": "05.001",
+   "subjectFullName": "语言学_语义学、词汇学_语义学与语义理论",
+   "subjectName": "语义学与语义理论",
+   "publishYear": "2011",
+   "definition": "①研究语言意义的学科。从研究角度和研究范畴可分为语言语义学、逻辑语义学、普通语义学、哲学语义学、文化语义学等；从历时发展角度可分为传统语义学和现代语义学；从理论模式角度可分为结构语义学、解释语义学、生"
+  },
+  {
+   "cn": "语义检索",
+   "en": "semantic retrieval,semantic search",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.046",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_检索技术与方法",
+   "subjectName": "检索技术与方法",
+   "publishYear": "2019",
+   "definition": "通过正确分析语法格式，在理解词语的准确意思和词语之间关系的条件下，检索系统根据要求从语义层面上自动从信息源中查询和提取有关信息的过程。"
+  },
+  {
+   "cn": "语义分析",
+   "en": "semantic analysis,semantic parsing",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0534",
+   "subjectFullName": "计算机科学技术_人工智能_计算语言学",
+   "subjectName": "计算语言学",
+   "publishYear": "2018",
+   "definition": "对自然语言进行分析并得到其意义的形式化表示的过程、技术和方法。"
+  },
+  {
+   "cn": "地图语义",
+   "en": "cartographic semantics",
+   "source": "测绘学名词",
+   "wordNumber": "04.184",
+   "subjectFullName": "测绘学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2020",
+   "definition": "地图语言三要素之一。地图符号、注记所代表的信息含义，反映地图符号与制图对象之间的关系。"
+  },
+  {
+   "cn": "范畴语义",
+   "en": "categorical semantics",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0879",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "以范畴论为工具建立程序语言的语义理论。"
+  },
+  {
+   "cn": "数据语义",
+   "en": "data semantics",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0400",
+   "subjectFullName": "计算机科学技术_数据库_数据库新技术",
+   "subjectName": "数据库新技术",
+   "publishYear": "2018",
+   "definition": "数据在特定场景下的含义。"
+  },
+  {
+   "cn": "公理语义",
+   "en": "axiomatic semantics",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0877",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "用逻辑断言及其推理系统来描述程序设计语言的语义, 其典型代表是由托尼·霍尔（Tony Hoare）提出的霍尔公理语义。"
+  },
+  {
+   "cn": "操作语义",
+   "en": "operational semantics",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0907",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "将程序语义描述成抽象机或转换系统，对实际运行的程序结构含义进行描述，以此来模拟程序的执行的语义。它所关心的是程序“如何”产生其运行结果。"
+  },
+  {
+   "cn": "指称语义",
+   "en": "denotational semantics",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0887",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "由克里斯托弗·斯特雷奇（Christopher Strachey）和达纳·斯科特（Dana Scott）在20世纪60年代开创的形式语义学，用与程序执行效果相对应的数学对象（称为指称）来描述程序结构含"
+  },
+  {
+   "cn": "动作语义",
+   "en": "action semantics",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0872",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "指称语义、操作语义和代数语义的混合体，其动作由一个一阶语义项描述，可被执行或生成数据以及修改环境等，动作的表示法由操作语义来定义。"
+  },
+  {
+   "cn": "静态语义",
+   "en": "static semantics",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0911",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "一类程序形式语义。涉及到程序形式合法性的检查，与编译时的各种动作对应，它与程序运行时所需的输入无关。"
+  },
+  {
+   "cn": "形式语义学",
+   "en": "formal semantics",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0909",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "一门程序设计理论的学科。以数学为工具，利用符号和公式，精确定义和解释计算机程序设计语言的语义。"
+  },
+  {
+   "cn": "生成语义学",
+   "en": "generative semantics",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "语义学",
+   "en": "semantics",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "语义",
+   "en": "semantic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "语义编码",
+   "en": "semantic encoding\",\"semantic coding",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "地图语义",
+   "en": "cartographic semantics",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "地图语义",
+   "en": "cartographic semantics",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "数据语义",
+   "en": "data semantics",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "地图语义",
+   "en": "cartographic semantics",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "变换语义",
+   "en": "transformation semantics",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "操作语义",
+   "en": "operational semantics",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "成分语义学",
+   "en": "compositional semantics",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "词汇语义学",
+   "en": "lexical semantics",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "代数语义学",
+   "en": "algebraic semantics",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "动词语义学",
+   "en": "verb semantics",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "公理语义",
+   "en": "axiomatic semantics",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "过程语义",
+   "en": "procedural semantics",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "计算语义学",
+   "en": "computational semantics",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "句法语义学",
+   "en": "syntactic semantics",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "说明语义学",
+   "en": "declarative semantics",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "形式语义学",
+   "en": "formal semantics",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "语义网络",
+   "en": "semantic network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "语义搜索",
+   "en": "semantic search",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "语义对等",
+   "en": "semantic equivalence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "语义模型",
+   "en": "semantic model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "语义建模",
+   "en": "semantic modeling",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "分布语义假设",
+   "en": "distributional semantics hypothesis",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据语义标准",
+   "en": "data semantics standard",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "生",
+   "en": "Generate",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "隐性语义索引",
+   "en": "latent semantic indexing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "共名",
+   "en": "General Name",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "语义的不可通约性",
+   "en": "semantic incommensurability",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.184",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "不存在一种中立语言，使得新、旧两种范式的陈述可以翻译到该语言，从而实现新、旧范式之间的合理性对比。"
+  },
+  {
+   "cn": "语义差异量表",
+   "en": "semantic differential scale",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.47",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "以形容词的正反意义为基础、通过等值的评定等级测量态度和感知的量表。是20世纪40年代到50年代由奥斯古德发展的。"
+  },
+  {
+   "cn": "语义网络分析",
+   "en": "semantic network analysis",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.16",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "表现概念间语义关系的网络图.是一种常见的知识呈现形式。"
+  },
+  {
+   "cn": "表意文字",
+   "en": "semantic script; ideography",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0195",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "文字类型之一。字符本身或其结构单位与所记录的词的意义有一定联系而与所记录词的读音没有直接联系的书写符号系统。"
+  },
+  {
+   "cn": "概括",
+   "en": "generalization",
+   "source": "马克思主义",
+   "wordNumber": "01.0017",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人们形成和深化对客体本质认识的一种思维过程和思维方法，即在思维活动中，把关于具有相同特征和属性的若干客观事物的初步认识，提炼和升华为更具普遍性或深刻性的范畴和结论，以拓展认识的广度和深度。概括是以实践"
+  },
+  {
+   "cn": "世代",
+   "en": "generation",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.04",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "出自同一祖先关系的人，不论其年龄的差别，只要是世数或辈份相同的人，即为一世代。一个世代通常包括同父、同母或父母均同的一代后裔。"
+  },
+  {
+   "cn": "总体健康",
+   "en": "general health",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.1.4",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "个体对自身健康状态的综合判断。反映患者在疾病和治疗的影响下对自身健康总的感受，以及对未来生活的期望与选择。"
+  },
+  {
+   "cn": "通用食品",
+   "en": "general rations",
+   "source": "军事预防医学名词",
+   "wordNumber": "7.5.4",
+   "subjectFullName": "军事预防医学_军队营养与食品卫生_军用食品",
+   "subjectName": "军用食品",
+   "publishYear": "2025",
+   "definition": "按军队规定的技术标准生产，供应平时和战时部队生鲜食物供应困难时食用的食物总称，包括各类军用罐头、软罐头、脱水蔬菜等。"
+  },
+  {
+   "cn": "通用标准",
+   "en": "general standard",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.1.13",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准",
+   "subjectName": "放射卫生标准",
+   "publishYear": "2025",
+   "definition": "包含某个或多个特定领域普遍适用的条款的标准。"
+  },
+  {
+   "cn": "公意",
+   "en": "general will",
+   "source": "社会学名词",
+   "wordNumber": "3.6.3.5",
+   "subjectFullName": "社会学名词_分支社会学_政治社会学_民主与选举",
+   "subjectName": "民主与选举",
+   "publishYear": "2025",
+   "definition": "全体公民，即主权者的共同利益的表达。卢梭借此去定义有别于单个人的特殊意志的、指向所有人的共同利益的那种意志。"
+  },
+  {
+   "cn": "通识教育",
+   "en": "general education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.4.1",
+   "subjectFullName": "社会学名词_分支社会学教育社会学",
+   "subjectName": "分支社会学教育社会学",
+   "publishYear": "2025",
+   "definition": "旨在培养学生对不同学科有所认识，对不同知识融会贯通的非专业性高等教育。"
+  },
+  {
+   "cn": "普遍进化",
+   "en": "general evolution",
+   "source": "社会学名词",
+   "wordNumber": "4.2.1.2",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类史",
+   "subjectName": "人类史",
+   "publishYear": "2025",
+   "definition": "人类文化发展为特点的总体变化模式。表现为由简单到复杂的趋向，强调演进的动因在于技术进步和人类摄取能量的不断提高而发展的模式。与“单线进化”、“多线进化”相对。"
+  },
+  {
+   "cn": "总体资本家",
+   "en": "general capitalist",
+   "source": "马克思主义",
+   "wordNumber": "02.0125",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在资本主义社会中，单个资本之间互相联系、互相依存形成总社会资本，总社会资本的人格化就是总体资本家。这一概念从社会整体的宏观角度来考察资本同劳动的对立，揭示资产阶级对无产阶级的剥削和压迫的总体关系。"
+  },
+  {
+   "cn": "一般商品",
+   "en": "general commodity",
+   "source": "马克思主义",
+   "wordNumber": "02.0191",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "货币的一种特殊的社会职能。货币，作为固定地充当一般等价物的商品，它是价值额的独立表现，可以衡量一切商品的价值，具有与一切商品直接交换的能力，这种社会职能使它成为作为一般等价物的一般商品。"
+  },
+  {
+   "cn": "总问题",
+   "en": "General problem",
+   "source": "马克思主义",
+   "wordNumber": "05.0069",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "来自于阿尔都塞《保卫马克思》，指文本的深层结构，即一种思想产生和发展时所处的意识形态环境与这一思想的内在整体。"
+  },
+  {
+   "cn": "一般治疗",
+   "en": "general treatment",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.7.2.1",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病常用药物及治疗",
+   "subjectName": "风湿免疫病常用药物及治疗",
+   "publishYear": "2025",
+   "definition": "传染病和其他各种疾病所必需的基础治疗。包括隔离、消毒、护理和心理治疗。"
+  },
+  {
+   "cn": "政府卫生筹资",
+   "en": "general taxation",
+   "source": "卫生经济学名词",
+   "wordNumber": "9.2.2.1",
+   "subjectFullName": "卫生经济学名词_卫生筹资_卫生资金筹集",
+   "subjectName": "卫生资金筹集",
+   "publishYear": "2025",
+   "definition": "政府作为筹资主体通过税收渠道筹集资金并分配和使用于卫生领域的一种卫生筹资模式"
+  },
+  {
+   "cn": "综合医院",
+   "en": "general hospital ",
+   "source": "卫生经济学名词",
+   "wordNumber": "14.2.1.4.1",
+   "subjectFullName": "卫生经济学名词_医生与医院行为_医院行为",
+   "subjectName": "医院行为",
+   "publishYear": "2025",
+   "definition": "设一定数量的病床、各类临床专科（如内科、外科、儿科、妇产科、眼科、耳鼻喉科、皮肤科等）、医技部门（如药剂、检验、影像等）以及相应人员与设备的医院。"
+  },
+  {
+   "cn": "总体预案",
+   "en": "general plan",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.6.1.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学校突发公共卫生事件管理",
+   "subjectName": "学校突发公共卫生事件管理",
+   "publishYear": "2025",
+   "definition": "明确学校各类突发公共事件分级分类和预案框架体系，规定应对学校突发公共事件的组织体系、工作机制等内容，用于指导预防和处置学校各类突发公共事件的文件。"
+  },
+  {
+   "cn": "普通语言学",
+   "en": "general linguistics",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0002",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "语言学的一个分支。狭义的普通语言学强调语言研究中理论和方法的普遍适用性，偏重于语言的描写、理论构建和比较研究；广义的普通语言学除一般的理论问题外，还包括语音、语法和词汇等的研究。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

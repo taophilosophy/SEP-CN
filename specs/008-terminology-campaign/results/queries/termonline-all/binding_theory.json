@@ -1,0 +1,642 @@
+{
+ "key": "binding theory",
+ "term": "binding theory",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T00:56:48+00:00",
+ "status": "ok",
+ "note": "variant=binding theory; 审定公布名词库=3837; 海峡两岸名词对照库=1138; 其他来源数据库=258; 预公布名词数据库=299; jwt-direct（JWT 直连，raw 略；已滤维基 17 条）",
+ "hits": [
+  {
+   "cn": "约束理论",
+   "en": "binding theory",
+   "source": "语言学名词",
+   "wordNumber": "04.012",
+   "subjectFullName": "语言学_语法学_总论",
+   "subjectName": "总论",
+   "publishYear": "2011",
+   "definition": "管辖与约束理论的子理论之一。约束就是语义解释的照应关系。它要说明管辖区域内的成分在什么情况下是自由的，什么情况下是受约束的。乔姆斯基提出了三条约束原则：A.照应词在管辖区域内受约束；B.代名词在管辖区"
+  },
+  {
+   "cn": "管辖与约束理论",
+   "en": "overnment binding theory",
+   "source": "语言学名词",
+   "wordNumber": "04.010",
+   "subjectFullName": "语言学_语法学_总论",
+   "subjectName": "总论",
+   "publishYear": "2011",
+   "definition": "一种语法模式。乔姆斯基根据其《修正的扩展标准理论》在《管辖与约束理论集》中的阐述提出。这一理论假设句子有三个结构层面：D结构；S结构；逻辑结构。逻辑结构派生自S结构，S结构派生自D结构，都是通过移位α"
+  },
+  {
+   "cn": "装订",
+   "en": "binding",
+   "source": "档案学名词",
+   "wordNumber": "05.03.019",
+   "subjectFullName": "档案学_档案保护_档案修复",
+   "subjectName": "档案修复",
+   "publishYear": "2024",
+   "definition": "将零散的或拆散后修裱的档案进行装订，加工成件、册页、卷、轴等形式的工艺技术。"
+  },
+  {
+   "cn": "绑定",
+   "en": "binding",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0106",
+   "subjectFullName": "计算机科学技术_系统软件_语言与编译",
+   "subjectName": "语言与编译",
+   "publishYear": "2018",
+   "definition": "把一个值或指定的对象赋给某一标识符的过程。"
+  },
+  {
+   "cn": "绑定",
+   "en": "binding",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0653",
+   "subjectFullName": "计算机科学技术_网络与数据通信_网络互联",
+   "subjectName": "网络互联",
+   "publishYear": "2018",
+   "definition": "在移动IP中在一定的时间段上把移动结点的家乡地址与一个关照地址相关联。"
+  },
+  {
+   "cn": "捆绑",
+   "en": "binding",
+   "source": "通信科学技术名词",
+   "wordNumber": "09.024",
+   "subjectFullName": "通信科学技术_光纤传输与接入",
+   "subjectName": "光纤传输与接入",
+   "publishYear": "2007",
+   "definition": "在数据通信中，将两个或多个实体强制性关联在一起的技术。例如：地址和端口捆绑、数据捆绑、IP地址捆绑等。"
+  },
+  {
+   "cn": "扎边",
+   "en": "binding",
+   "source": "水产名词",
+   "wordNumber": "03.175",
+   "subjectFullName": "水产_捕捞学",
+   "subjectName": "捕捞学",
+   "publishYear": "2002",
+   "definition": "网衣边缘用线将两根以上目脚依次对应合并缠扎补强的工艺。"
+  },
+  {
+   "cn": "夹锯",
+   "en": "binding,pinching",
+   "source": "林学名词",
+   "wordNumber": "10.043",
+   "subjectFullName": "林学_森林工程_森林采运",
+   "subjectName": "森林采运",
+   "publishYear": "2016",
+   "definition": "在伐木或造材过程中，锯板夹在木材中难以移动的现象。"
+  },
+  {
+   "cn": "绑蔓",
+   "en": "branch binding",
+   "source": "农学名词",
+   "wordNumber": "08.136",
+   "subjectFullName": "作物栽培与耕作_作物栽培",
+   "subjectName": "作物栽培",
+   "publishYear": "2025",
+   "definition": "人为将主茎绑在架材上，以使植株能够直立向上生长的措施。"
+  },
+  {
+   "cn": "约束关税",
+   "en": "tariff binding",
+   "source": "农学名词",
+   "wordNumber": "19.173",
+   "subjectFullName": "农业经济与管理_农业市场与贸易",
+   "subjectName": "农业市场与贸易",
+   "publishYear": "2025",
+   "definition": "缔约成员对承诺表中列举产品所能征收的最高关税税率。"
+  },
+  {
+   "cn": "捆绑问题",
+   "en": "binding problem",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.632",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "属性合取的表征问题。广泛存在于各种知识表征中，例如从复杂的感官输入中知觉到统一的整体，或者将物体、背景、情感的属性等组合为单一经验。"
+  },
+  {
+   "cn": "结合部位",
+   "en": "binding site",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.0243",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "大分子或膜上分子与配体结合的特定区域。"
+  },
+  {
+   "cn": "结合基团",
+   "en": "binding group",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "3.0036",
+   "subjectFullName": "生物化学与分子生物学_酶_酶促反应及其机制_蛋白质结构及性质",
+   "subjectName": "蛋白质结构及性质",
+   "publishYear": "2024",
+   "definition": "识别底物并与之专一性结合，形成酶-底物复合物，决定酶专一性的基团。"
+  },
+  {
+   "cn": "结合可逆性",
+   "en": "binding reversibility",
+   "source": "麻醉学名词",
+   "wordNumber": "02.076",
+   "subjectFullName": "麻醉学_麻醉药理学_临床药理学",
+   "subjectName": "临床药理学",
+   "publishYear": "2024",
+   "definition": "从配体-受体复合物中解离或置换出来的配体和受体结构不发生变化的现象。"
+  },
+  {
+   "cn": "结合能",
+   "en": "binding energy",
+   "source": "核科学技术名词",
+   "wordNumber": "1.015",
+   "subjectFullName": "核科学技术_核物理_核物理基础类",
+   "subjectName": "核物理基础类",
+   "publishYear": "2024",
+   "definition": "两个或几个自由状态的核子(或核子集团)结合成一个原子核时所释放的能‍量。"
+  },
+  {
+   "cn": "旋风装",
+   "en": "whirlwind binding",
+   "source": "编辑与出版学名词",
+   "wordNumber": "01.04.039",
+   "subjectFullName": "编辑与出版学_综论_编辑出版史",
+   "subjectName": "编辑出版史",
+   "publishYear": "2022",
+   "definition": "写本早期的装帧形式。形式为：以一长条形纸为底，首页单面书写，全部粘裱在底纸的卷端；自第二页起，双面书写，右侧留出一条空白，供粘裱用；然后将各页鳞次相错地自右向左粘裱在前页下面的底纸上。这种装帧形式，展"
+  },
+  {
+   "cn": "蝴蝶装",
+   "en": "butterfly binding",
+   "source": "编辑与出版学名词",
+   "wordNumber": "01.04.049",
+   "subjectFullName": "编辑与出版学_综论_编辑出版史",
+   "subjectName": "编辑出版史",
+   "publishYear": "2022",
+   "definition": "盛行于宋代的册页装帧样式，其特点为：版心向内，边栏向外；书一打开，书页即向两边展开，若蝴蝶的双翅。"
+  },
+  {
+   "cn": "线装",
+   "en": "thread binding",
+   "source": "编辑与出版学名词",
+   "wordNumber": "01.04.051",
+   "subjectFullName": "编辑与出版学_综论_编辑出版史",
+   "subjectName": "编辑出版史",
+   "publishYear": "2022",
+   "definition": "册页装帧样式，其特点为：将书页沿版心的中线对折，折页排序后再前后各加书衣，然后打孔穿线成册。"
+  },
+  {
+   "cn": "装订工艺",
+   "en": "binding process",
+   "source": "编辑与出版学名词",
+   "wordNumber": "03.05.002",
+   "subjectFullName": "编辑与出版学_印刷_印后加工",
+   "subjectName": "印后加工",
+   "publishYear": "2022",
+   "definition": "将印张加工成册所采用的各种加工技术。"
+  },
+  {
+   "cn": "胶粘订",
+   "en": "perfect binding",
+   "source": "编辑与出版学名词",
+   "wordNumber": "03.05.004",
+   "subjectFullName": "编辑与出版学_印刷_印后加工",
+   "subjectName": "印后加工",
+   "publishYear": "2022",
+   "definition": "简称“胶订”。将书帖、书页用胶黏剂粘联成册的订联方式。"
+  },
+  {
+   "cn": "绑定",
+   "en": "binding",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "装订",
+   "en": "binding",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "绑定",
+   "en": "binding",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "胶黏装订",
+   "en": "adhesive binding\",\"perfect  binding",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "结合力",
+   "en": "binding force",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "生物专一性连结",
+   "en": "biospecificity binding",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "结合能",
+   "en": "binding energy",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "空气黏合",
+   "en": "air binding",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "整合问题",
+   "en": "binding problem",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "结合能",
+   "en": "binding energy",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "结合位点",
+   "en": "binding site",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "结合种,联系种",
+   "en": "binding species",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "共存属",
+   "en": "binding genera",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "协同结合",
+   "en": "cooperative binding",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "结合部位",
+   "en": "binding site",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "后绑定",
+   "en": "late binding",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "动态绑定",
+   "en": "dynamic binding",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "静态绑定",
+   "en": "static binding",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "蛋白结合",
+   "en": "protein binding",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "结合部位",
+   "en": "binding site",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "压刺",
+   "en": "bind\",\"liement",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "防浪板",
+   "en": "binding strake\",\"washboard",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "交锋",
+   "en": "engage\",\"fence\",\"bind",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "民俗约束力",
+   "en": "folklore binding",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.003",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "民俗规制对人们思想、行为的制约。民俗一经形成，人们便或从心理信仰方面，或从约定俗成的习俗惯制方面，加以遵守和传袭，否则便被认为是不合习俗。"
+  },
+  {
+   "cn": "理论",
+   "en": "theory",
+   "source": "马克思主义",
+   "wordNumber": "01.0119",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "关于自然、社会和人自身的本质规律的抽象、合乎逻辑的一般推论或假说。理论来源于实践，接受实践的检验。理论服务于实践，随着实践的发展而发展。"
+  },
+  {
+   "cn": "IgE",
+   "en": "IgE binding epitope",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.4.26",
+   "subjectFullName": "食品卫生学_食源性疾病_食物过敏",
+   "subjectName": "食物过敏",
+   "publishYear": "2025",
+   "definition": "抗原分子中与IgE 抗体特异性结合的最小结构与功能单位。"
+  },
+  {
+   "cn": "原型理论",
+   "en": "prototype theory",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0031",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "认知科学的一种理论模型。认为人类对事物进行分类（范畴化）的过程并不存在非此即彼的明确界限，某一范畴中的核心成员会比其他成员更具典型性。例如在“飞禽”这个范畴里，“燕雀”比“鸡鸭”更具“飞禽”的特征。语"
+  },
+  {
+   "cn": "波浪理论",
+   "en": "wave theory",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.003",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "研究语言演变的一种动态模型。一种创新的语言特征从起源地往外扩散，其影响类似波浪扩散、随传播距离逐渐减小。"
+  },
+  {
+   "cn": "阶层化社会理论",
+   "en": "caste theory",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0143",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "美国教育人类学家奥格布（John Uzo Ogbu）提出，他认为少数民族的历史经历、社会地位以及由此造成的各种障碍等，必然会影响他们的学习态度和教育期望。"
+  },
+  {
+   "cn": "扎根理论",
+   "en": "grounded theory",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.7",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "对定性资料进行归纳、抽绎出理论概念、生成理论洞见的定性资料分析方法。是由格拉泽和施特劳斯提出的。"
+  },
+  {
+   "cn": "测量理论",
+   "en": "measurement theory",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.23",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "关于测量的性质和方法的理论。主要包括经典测量理论、概化理论和项目反应理论三种理论模型。"
+  },
+  {
+   "cn": "概化理论",
+   "en": "generalizability theory",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.33",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "克伦巴赫等人在20世纪60至70年代初提出一种测量理论。思想上，认为测量对象的值受到测量条件和环境的影响；概念上，用全域分数代替了经典测量理论的真分数，用概括化系数代替了信度；技术上，应用方法分析技术"
+  },
+  {
+   "cn": "社会理论",
+   "en": "social theory",
+   "source": "社会学名词",
+   "wordNumber": "2.1.7.6",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会意识",
+   "subjectName": "社会意识",
+   "publishYear": "2025",
+   "definition": "以社会学视角和方法对人类社会现象及问题所进行的各种系统性的理论探讨。重点涉及一切关于社会何以构成、存续和变迁的理论思考，以及关于这类理论思考何以可能（或合理）的认识论探讨。与“应用社会学”相对。"
+  },
+  {
+   "cn": "冲突理论",
+   "en": "conflict theory",
+   "source": "社会学名词",
+   "wordNumber": "2.6.6.6",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会分层理论",
+   "subjectName": "社会分层理论",
+   "publishYear": "2025",
+   "definition": "与结构功能主义理论相对立的社会学理论流派，该派理论家借鉴马克思的阶级冲突理论或马克斯•韦伯的权力冲突观点，强调个人或群体之间的经济利益冲突和权力冲突，对结构功能主义理论（特别是功能主义社会分层理论）提"
+  },
+  {
+   "cn": "现代化理论",
+   "en": "modernization theory",
+   "source": "社会学名词",
+   "wordNumber": "2.9.1.1",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_现代化理论",
+   "subjectName": "现代化理论",
+   "publishYear": "2025",
+   "definition": "产生于20世纪50、60年代，以塔尔科特帕森斯、列维（M.J.Levy）、英克尔斯（A.Inkeles）和艾森斯塔德（S.N.Eisenstadt）等人为代表，以研究传统社会的现代转化为主旨的理论。"
+  },
+  {
+   "cn": "依附理论",
+   "en": "dependency theory",
+   "source": "社会学名词",
+   "wordNumber": "2.9.2.1",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_依附理论",
+   "subjectName": "依附理论",
+   "publishYear": "2025",
+   "definition": "产生于20世纪60年代后期的一种发展理论，以弗兰克（Andre Frank）、多斯桑托斯（Theotonio Dos Santos）、阿明（Samir Amin）等人为代表，认为发达国家和发展中国家之"
+  },
+  {
+   "cn": "紧张理论",
+   "en": "strain theory",
+   "source": "社会学名词",
+   "wordNumber": "2.10.2.4",
+   "subjectFullName": "社会学名词_社会学一般概念_社会问题与社会控制_社会越轨",
+   "subjectName": "社会越轨",
+   "publishYear": "2025",
+   "definition": "解释社会越轨行为的一种理论。认为当一些人无法通过合法手段达到社会普遍认可的成功目标时，就会产生挫折感等紧张情绪，从而形成个人的目标和社会规范之间的冲突状态，进而引发越轨行为或者犯罪行为。由美国社会学家"
+  },
+  {
+   "cn": "标签理论",
+   "en": "labeling theory",
+   "source": "社会学名词",
+   "wordNumber": "2.10.2.7",
+   "subjectFullName": "社会学名词_社会学一般概念_社会问题与社会控制_社会越轨",
+   "subjectName": "社会越轨",
+   "publishYear": "2025",
+   "definition": "解释社会越轨行为的一种理论。把越轨行为分为初级越轨行为和继发越轨行为，并认为越轨行为的性质不在于行为本身，而是社会的定义和解释。因此，只有当一个行为被社会定义为越轨行为时，其行为者才会成为越轨行为者。"
+  },
+  {
+   "cn": "立场论",
+   "en": "standpoint theory",
+   "source": "社会学名词",
+   "wordNumber": "3.2.3.9",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别研究",
+   "subjectName": "性别研究",
+   "publishYear": "2025",
+   "definition": "女性主义认识论的一种主流观点，对传统认识论中的主客体两分法和价值中立的客观性原则持批判态度，认为从妇女日常生活经验和边缘化的底层立场出发，可以产生比男性主流知识更少偏见、更具有客观性的好知识。"
+  },
+  {
+   "cn": "博弈论",
+   "en": "game theory",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.14",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "研究多个个体或团队之间在特定条件制约下的对局里，利用相关方的策略而实施对应策略的理论。认为参加斗争或竞争的各方有不同的目标或利益，为了达到各自的目标和利益，各方必须考虑对手各种可能的行动方案，并力图选"
+  },
+  {
+   "cn": "权变理论",
+   "en": "contingency theory",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.22",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "认为没有普遍适用的、最合理的管理模式与原则，内部特征与所处环境的要求相匹配的组织适应性最强，所以组织必须随机制宜地处理管理问题的理论观点。"
+  },
+  {
+   "cn": "品味理论",
+   "en": "taste theory",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.32",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "布迪厄以美学品味的议题为基础所发展出的社会阶层化理论。认为品味，也即人们对于饮食、文化和艺术表演的喜好等都是阶级指标，人们的这些消费倾向都对应于个人在社会中的位置。"
+  },
+  {
+   "cn": "法律思想",
+   "en": "legal theory",
+   "source": "社会学名词",
+   "wordNumber": "3.7.8.4",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律文化",
+   "subjectName": "法律文化",
+   "publishYear": "2025",
+   "definition": "关于法和法律现象的观点、理论和学说。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
