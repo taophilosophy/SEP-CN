@@ -212439,7 +212439,8 @@
     [
      3,
      "Editions",
-     "EditSee"
+     "EditSee",
+     " See\n <a href=\"#Work\">section 2</a>,\n above.\n\n"
     ],
     [
      3,
@@ -213027,11 +213028,6 @@
     {
      "text": "§3.1",
      "href": "#Onto",
-     "nth": 0
-    },
-    {
-     "text": "section 2",
-     "href": "#Work",
      "nth": 0
     }
    ],
@@ -453841,6 +453837,52 @@
     "br",
     "br"
    ],
+   "math_dollars": [
+    [
+     "a8fefc2510dc58ec",
+     "b"
+    ],
+    [
+     "76fa5a5caddef926",
+     "b"
+    ],
+    [
+     "0af7ee6a0336de78",
+     "b"
+    ],
+    [
+     "a38508a37916c9c7",
+     "b"
+    ],
+    [
+     "a38508a37916c9c7",
+     "b"
+    ],
+    [
+     "40e26bcbbb926428",
+     "b"
+    ],
+    [
+     "bb23c94674637c78",
+     "b"
+    ],
+    [
+     "40e26bcbbb926428",
+     "b"
+    ],
+    [
+     "a8fefc2510dc58ec",
+     "b"
+    ],
+    [
+     "a38508a37916c9c7",
+     "b"
+    ],
+    [
+     "0af7ee6a0336de78",
+     "b"
+    ]
+   ],
    "toc_block": "<div id=\"toc\"><!--Entry Contents-->\n<ul>\n\t<li><a href=\"#ExpeUtil\">1. Expected Utility</a></li>\n\t<li><a href=\"#Hist\">2. History</a>\n\t<ul>\n\t\t<li><a href=\"#NewcProb\">2.1 Newcomb&rsquo;s Problem</a></li>\n\t\t<li><a href=\"#StalSolu\">2.2 Stalnaker&rsquo;s Solution</a></li>\n\t\t<li><a href=\"#Vari\">2.3 Variants</a></li>\n\t\t<li><a href=\"#ReprTheo\">2.4 Representation Theorems</a></li>\n\t\t<li><a href=\"#Obje\">2.5 Objections</a></li>\n\t</ul>\n\t</li>\n\t<li><a href=\"#CurrIssu\">3. Current Issues</a>\n\t<ul>\n\t\t<li><a href=\"#ProbUtil\">3.1 Probability and Utility</a></li>\n\t\t<li><a href=\"#PartInva\">3.2 Partition Invariance</a></li>\n\t\t<li><a href=\"#Outc\">3.3 Outcomes</a></li>\n\t\t<li><a href=\"#Acts\">3.4 Acts</a></li>\n\t\t<li><a href=\"#GeneExpeUtil\">3.5 Generalizing Expected Utility</a></li>\n\t\t<li><a href=\"#DeciInst\">3.6 Decision Instability</a></li>\n\t</ul>\n\t</li>\n\t<li><a href=\"#RelaTopiConcRema\">4. Related Topics and Concluding Remarks</a></li>\n\t<li><a href=\"#Bib\">Bibliography</a></li>\n\t<li><a href=\"#Aca\">Academic Tools</a></li>\n\t<li><a href=\"#Oth\">Other Internet Resources</a></li>\n\t<li><a href=\"#Rel\">Related Entries</a></li>\n</ul>\n<!--Entry Contents-->\n\n<hr /></div>\n\n",
    "wrap_width": 70
   },
@@ -455939,6 +455981,16 @@
     "br",
     "br"
    ],
+   "math_dollars": [
+    [
+     "b91df3642bd3697a",
+     "b"
+    ],
+    [
+     "b91df3642bd3697a",
+     "b"
+    ]
+   ],
    "toc_block": "<div id=\"toc\"><!--Entry Contents-->\n<ul>\n\t<li><a href=\"#WhaPreOvePro\">1. What are <em>preferences</em> over <em>prospects</em>?</a></li>\n\t<li><a href=\"#UtiMeaPre\">2. Utility measures of preference</a>\n\t<ul>\n\t\t<li><a href=\"#OrdUti\">2.1 Ordinal utilities</a></li>\n\t\t<li><a href=\"#CarUti\">2.2 Cardinalizing utility</a></li>\n\t\t<li><a href=\"#VNMRepThe\">2.3 The von Neumann and Morgenstern (vNM) representation theorem</a></li>\n\t</ul>\n\t</li>\n\t<li><a href=\"#MakReaDec\">3. Making real decisions</a>\n\t<ul>\n\t\t<li><a href=\"#SavThe\">3.1 Savage&rsquo;s theory</a></li>\n\t\t<li><a href=\"#JefThe\">3.2 Jeffrey&rsquo;s theory</a></li>\n\t</ul>\n\t</li>\n\t<li><a href=\"#BroSigEUThe\">4. Broader significance of Expected Utility (EU) theory</a>\n\t<ul>\n\t\t<li><a href=\"#RatBel\">4.1 On rational belief</a></li>\n\t\t<li><a href=\"#RatDes\">4.2 On rational desire</a></li>\n\t</ul>\n\t</li>\n\t<li><a href=\"#ChaEUThe\">5. Challenges to EU theory</a>\n\t<ul>\n\t\t<li><a href=\"#SepRisRegAtt\">5.1 On risk and regret attitudes</a></li>\n\t\t<li><a href=\"#ComVagBelDes\">5.2 On completeness: Vague beliefs and desires</a></li>\n\t\t<li><a href=\"#CatRisPrePri\">5.3 Catastrophic risk and the precautionary principle</a></li>\n\t\t<li><a href=\"#UnAw\">5.4 Unawareness</a></li>\n\t</ul>\n\t</li>\n\t<li><a href=\"#SeqDec\">6. Sequential decisions</a>\n\t<ul>\n\t\t<li><a href=\"#WasUlyRat\">6.1 Was Ulysses rational? </a></li>\n\t\t<li><a href=\"#EUAxiRev\">6.2 The EU axioms revisited</a></li>\n\t</ul>\n\t</li>\n\t<li><a href=\"#ConRem\">7. Concluding remarks</a></li>\n\t<li><a href=\"#Bib\">Bibliography</a></li>\n\t<li><a href=\"#Aca\">Academic Tools</a></li>\n\t<li><a href=\"#Oth\">Other Internet Resources</a></li>\n\t<li><a href=\"#Rel\">Related Entries</a></li>\n</ul>\n\n<!--Entry Contents-->\n\n<hr /></div>\n\n",
    "wrap_width": 70
   },
@@ -457191,6 +457243,24 @@
     "br",
     "br",
     "br"
+   ],
+   "math_dollars": [
+    [
+     "76fa5a5caddef926",
+     "b"
+    ],
+    [
+     "76fa5a5caddef926",
+     "b"
+    ],
+    [
+     "c30273ea1fc4edfb",
+     "b"
+    ],
+    [
+     "76fa5a5caddef926",
+     "b"
+    ]
    ],
    "toc_block": "<div id=\"toc\">\n<!--Entry Contents-->\n<ul>\n<li><a href=\"#StanModeSubjExpeUtil\">1. The Standard Model: Subjective Expected Utility</a>\n   <ul>\n   <li><a href=\"#SavaReprTheo\">1.1 Savage&rsquo;s representation theorem</a></li>\n   <li><a href=\"#SavaProo\">1.2 Savage&rsquo;s proof</a></li>\n   <li><a href=\"#ProbTria\">1.3 The probability triangle</a></li>\n   </ul></li>\n<li><a href=\"#IssuInde\">2. The Issue of Independence</a>\n   <ul>\n   <li><a href=\"#AllaPara\">2.1 Allais&rsquo; paradoxes</a></li>\n   <li><a href=\"#TheoResp\">2.2 Theoretical responses</a>\n      <ul>\n      <li><a href=\"#ProbSoph\">2.2.1 Probabilistic sophistication</a></li>\n      <li><a href=\"#ModeBetw\">2.2.2 Models with Betweenness</a></li>\n      <li><a href=\"#ModeWithBetw\">2.2.3 Models without Betweenness</a></li>\n      </ul></li>\n   </ul></li>\n<li><a href=\"#IssuProbBeli\">3. The Issue of Probabilistic Belief</a>\n   <ul>\n   <li><a href=\"#EllsThreColoPara\">3.1 Ellsberg&rsquo;s Three Colour paradox</a></li>\n   <li><a href=\"#TheoResp_1\">3.2 Theoretical responses</a>\n      <ul>\n      <li><a href=\"#NonAddiProb\">3.2.1 Non-additive &ldquo;probabilities&rdquo;</a></li>\n      <li><a href=\"#MultPrio\">3.2.2 Multiple priors</a></li>\n      </ul></li>\n   </ul></li>\n<li><a href=\"#IssuWeakOrde\">4. The Issue of Weak Order</a>\n   <ul>\n   <li><a href=\"#Tran\">4.1 Transitivity</a></li>\n   <li><a href=\"#Comp\">4.2 Completeness</a></li>\n   </ul></li>\n<li><a href=\"#DescVsNormDeciTheo\">5. Descriptive vs Normative Decision Theory</a></li>\n<li><a href=\"#FurtRead\">6. Further Reading <!-- checked bib so far sort of--></a></li>\n<li><a href=\"#Bib\">Bibliography</a></li>\n<li><a href=\"#Aca\">Academic Tools</a></li>\n<li><a href=\"#Oth\">Other Internet Resources</a></li>\n<li><a href=\"#Rel\">Related Entries</a></li>\n</ul>\n<!--Entry Contents-->\n<hr />\n\n</div>\n\n",
    "wrap_width": 70
@@ -535385,6 +535455,80 @@
     "br",
     "br"
    ],
+   "math_dollars": [
+    [
+     "aa017174bc4ebe4e",
+     "d"
+    ],
+    [
+     "76fa5a5caddef926",
+     "d"
+    ],
+    [
+     "aa017174bc4ebe4e",
+     "d"
+    ],
+    [
+     "76fa5a5caddef926",
+     "d"
+    ],
+    [
+     "d4b2a096b3f5a4ed",
+     "d"
+    ],
+    [
+     "76fa5a5caddef926",
+     "d"
+    ],
+    [
+     "accf14072ae70a47",
+     "d"
+    ],
+    [
+     "76fa5a5caddef926",
+     "d"
+    ],
+    [
+     "ddabbc1f11b944f2",
+     "d"
+    ],
+    [
+     "76fa5a5caddef926",
+     "d"
+    ],
+    [
+     "d4b2a096b3f5a4ed",
+     "d"
+    ],
+    [
+     "76fa5a5caddef926",
+     "d"
+    ],
+    [
+     "d4b2a096b3f5a4ed",
+     "d"
+    ],
+    [
+     "76fa5a5caddef926",
+     "d"
+    ],
+    [
+     "b91df3642bd3697a",
+     "d"
+    ],
+    [
+     "76fa5a5caddef926",
+     "d"
+    ],
+    [
+     "a2a67ed154e73de9",
+     "d"
+    ],
+    [
+     "76fa5a5caddef926",
+     "d"
+    ]
+   ],
    "toc_block": "<div id=\"toc\">\n<!--Entry Contents-->\n<ul>\n<li><a href=\"#BasiDutcBookArguForProb\">1. The Basic Dutch Book Argument for Probabilism</a>\n   <ul>\n   <li><a href=\"#ProbAxioDutcBookTheo\">1.1 The Probability Axioms and the Dutch Book Theorem</a></li>\n   <li><a href=\"#DetaVersDutcBookArgu\">1.2 A Detailed Version of the Dutch Book Argument</a></li>\n   <li><a href=\"#ConvDutcBookTheo\">1.3 The Converse Dutch Book Theorem</a></li>\n   <li><a href=\"#ItRatiViolProbAxio\">1.4 Can it be Rational to Violate the Probability Axioms?</a></li>\n   </ul></li>\n<li><a href=\"#DutcBookArguProbCons\">2. The Dutch Book Argument and Probabilistic Consistency</a>\n   <ul>\n   <li><a href=\"#DutcBookArguReveInco\">2.1 The Dutch Book Argument as Revealing Inconsistency</a></li>\n   <li><a href=\"#DeprArgu\">2.2 Depragmatized Arguments</a></li>\n   <li><a href=\"#CohePragConsCons\">2.3 Coherence as a Pragmatic Consistency Constraint</a></li>\n   </ul></li>\n<li><a href=\"#DutcBookArguForCounAddi\">3. A Dutch Book Argument for Countable Additivity</a></li>\n<li><a href=\"#DiacDutcBookArgu\">4. Diachronic Dutch Book Arguments</a>\n   <ul>\n   <li><a href=\"#Cond\">4.1 Conditionalization</a></li>\n   <li><a href=\"#JeffCond\">4.2 Jeffrey Conditionalization</a></li>\n   <li><a href=\"#PrinRefl\">4.3 The Principle of Reflection</a></li>\n   </ul></li>\n<li><a href=\"#OtheUsesDutcBookArgu\">5. Other Uses of Dutch Book Arguments</a>\n   <ul>\n   <li><a href=\"#SleeBeau\">5.1 Sleeping Beauty</a></li>\n   <li><a href=\"#PrinPrin\">5.2 The Principal Principle</a></li>\n   <li><a href=\"#DutcBookRatiChoi\">5.3 Dutch Books and Rational Choice</a></li>\n   </ul></li>\n<li><a href=\"#Conc\">6. Conclusion</a></li>\n<li><a href=\"#Bib\">Bibliography</a></li>\n<li><a href=\"#Aca\">Academic Tools</a></li>\n<li><a href=\"#Oth\">Other Internet Resources</a></li>\n<li><a href=\"#Rel\">Related Entries</a></li>\n</ul>\n<!--Entry Contents-->\n\n<hr />\n\n</div>\n\n",
    "wrap_width": 70
   },
@@ -595830,6 +595974,44 @@
     "br",
     "br",
     "br"
+   ],
+   "math_dollars": [
+    [
+     "a799798672f54419",
+     "b"
+    ],
+    [
+     "783c63cd4b55fcc8",
+     "b"
+    ],
+    [
+     "5245ed7098baa080",
+     "b"
+    ],
+    [
+     "9a175a38df25582c",
+     "bb"
+    ],
+    [
+     "038cbbf30524428d",
+     "b"
+    ],
+    [
+     "ea1499453b78b31d",
+     "b"
+    ],
+    [
+     "7e31cd72ca76b81b",
+     "bb"
+    ],
+    [
+     "a7f68badeb137b4c",
+     "b"
+    ],
+    [
+     "a7f68badeb137b4c",
+     "b"
+    ]
    ],
    "toc_block": "<div id=\"toc\">\n<!--Entry Contents-->\n<ul>\n<li><a href=\"#TutoBayeEpis\">1. A Tutorial on Bayesian Epistemology</a>\n   <ul>\n   <li><a href=\"#CaseStud\">1.1 A Case Study</a></li>\n   <li><a href=\"#TwoCoreNorm\">1.2 Two Core Norms</a></li>\n   <li><a href=\"#Appl\">1.3 Applications</a></li>\n   <li><a href=\"#BayeDiviWhatDoesCoheRequ\">1.4 Bayesians Divided: What Does Coherence Require?</a></li>\n   <li><a href=\"#BayeDiviProbPrio\">1.5 Bayesians Divided: The Problem of the Priors</a></li>\n   <li><a href=\"#AtteFounDutcBookArgu\">1.6 An Attempted Foundation: Dutch Book Arguments</a></li>\n   <li><a href=\"#AlteFoun\">1.7 Alternative Foundations</a></li>\n   <li><a href=\"#ObjeCond\">1.8 Objections to Conditionalization</a></li>\n   <li><a href=\"#ObjeAbouIdea\">1.9 Objections about Idealization</a></li>\n   <li><a href=\"#ConcEncoNonBaye\">1.10 Concerns, or Encouragements, from Non-Bayesians</a></li>\n   </ul></li>\n<li><a href=\"#BitMathForm\">2. A Bit of Mathematical Formalism</a></li>\n<li><a href=\"#SyncNormIRequCohe\">3. Synchronic Norms (I): Requirements of Coherence</a>\n   <ul>\n   <li><a href=\"#VersProb\">3.1 Versions of Probabilism</a></li>\n   <li><a href=\"#CounAddi\">3.2 Countable Additivity</a></li>\n   <li><a href=\"#Regu\">3.3 Regularity</a></li>\n   <li><a href=\"#NormCondCred\">3.4 Norms of Conditional Credences</a></li>\n   <li><a href=\"#ChanCredPrin\">3.5 Chance-Credence Principles</a></li>\n   <li><a href=\"#ReflOtheDefePrin\">3.6 Reflection and Other Deference Principles</a></li>\n   </ul></li>\n<li><a href=\"#SyncNormIIProbPrio\">4. Synchronic Norms (II): The Problem of the Priors</a>\n   <ul>\n   <li><a href=\"#SubjBaye\">4.1 Subjective Bayesianism</a></li>\n   <li><a href=\"#ObjeBaye\">4.2 Objective Bayesianism</a></li>\n   <li><a href=\"#ForwLookBaye\">4.3 Forward-Looking Bayesianism</a></li>\n   <li><a href=\"#ConnUniqDeba\">4.4 Connection to the Uniqueness Debate</a></li>\n   </ul></li>\n<li><a href=\"#IssuAbouDiacNorm\">5. Issues about Diachronic Norms</a>\n   <ul>\n   <li><a href=\"#OldEvid\">5.1 Old Evidence</a></li>\n   <li><a href=\"#NewTheo\">5.2 New Theory</a></li>\n   <li><a href=\"#UnceLear\">5.3 Uncertain Learning</a></li>\n   <li><a href=\"#MemoLoss\">5.4 Memory Loss</a></li>\n   <li><a href=\"#SelfLocaCred\">5.5 Self-Locating Credences</a></li>\n   <li><a href=\"#BayeWithKine\">5.6 Bayesianism without Kinematics</a></li>\n   </ul></li>\n<li><a href=\"#ProbIdea\">6. The Problem of Idealization</a>\n   <ul>\n   <li><a href=\"#DeIdeaUnde\">6.1 De-idealization and Understanding</a></li>\n   <li><a href=\"#StriForIdea\">6.2 Striving for Ideals</a></li>\n   <li><a href=\"#ApplEmpoIdea\">6.3 Applications Empowered by Idealization</a></li>\n   </ul></li>\n<li><a href=\"#ClosExpaTerrBaye\">7. Closing: The Expanding Territory of Bayesianism</a></li>\n<li><a href=\"#Bib\">Bibliography</a></li>\n<li><a href=\"#Aca\">Academic Tools</a></li>\n<li><a href=\"#Oth\">Other Internet Resources</a></li>\n<li><a href=\"#Rel\">Related Entries</a></li>\n</ul>\n\n<!--Entry Contents-->\n<hr />\n\n</div>\n\n",
    "wrap_width": 70
@@ -738296,6 +738478,28 @@
     "br",
     "br"
    ],
+   "math_dollars": [
+    [
+     "bca2e0adcdfd20cd",
+     "b"
+    ],
+    [
+     "707f2fec9570071f",
+     "d"
+    ],
+    [
+     "e34fc5d6db78c937",
+     "d"
+    ],
+    [
+     "e34fc5d6db78c937",
+     "d"
+    ],
+    [
+     "707f2fec9570071f",
+     "d"
+    ]
+   ],
    "toc_block": "<div id=\"toc\">\n<!--Entry Contents-->\n\n<ul>\n\n <li><a href=\"#Pre\">1. Preliminaries</a>\n \n<ul>\n\n <li><a href=\"#ForEpiVerMaiEpi\">1.1 Why Formalism?</a></li>\n \n <li><a href=\"#StrObjBel\">1.2 The Objects of Belief and their Structure</a></li>\n </ul> </li>\n\n <li><a href=\"#Full\">2. Representations of Full Belief</a>\n \n<ul>\n\n <li><a href=\"#NonMonLogic\">2.1 Non-monotonic Logic</a></li>\n \n <li><a href=\"#AGM\">2.2 AGM Belief Revision</a></li>\n \n <li><a href=\"#EpistLog\">2.3 Epistemic Logic</a></li>\n </ul> </li>\n\n <li><a href=\"#Part\">3. Representations of Partial Belief</a>\n \n<ul>\n\n <li><a href=\"#SubProThe\">3.1 Subjective Probability Theory</a></li>\n \n <li><a href=\"#ImpProb\">3.2 Imprecise Probability Theory</a></li>\n \n <li><a href=\"#DemShaThe\">3.3 Dempster-Shafer Theory</a></li>\n \n <li><a href=\"#PosThe\">3.4 Possibility and Plausibility Theory</a></li>\n \n <li><a href=\"#RanThe\">3.5 Ranking Theory</a></li>\n </ul> </li>\n\n <li><a href=\"#FullPart\">4. Full and Partial Belief</a>\n \n<ul>\n\n <li><a href=\"#Eliminationism\">4.1 Eliminationism</a></li>\n \n <li><a href=\"#Bridge\">4.2 Bridge Theories</a>\n \n<ul>\n\n <li><a href=\"#Extremal\">4.2.1 Extremal Probability</a></li>\n \n <li><a href=\"#Lockean\">4.2.2 Lockean Threshold</a></li>\n \n <li><a href=\"#Stability\">4.2.3 Stability Theory</a></li>\n \n <li><a href=\"#Tracking\">4.2.4 Tracking Theory</a></li>\n \n <li><a href=\"#EpistDec\">4.2.5 Epistemic Decision Theory</a></li>\n </ul></li>\n</ul></li>\n\n <li><a href=\"#Bib\">Bibliography</a></li>\n \n <li><a href=\"#Aca\">Academic Tools</a></li>\n \n <li><a href=\"#Oth\">Other Internet Resources</a></li>\n \n <li><a href=\"#Rel\">Related Entries</a></li>\n </ul>\n\n<!--Entry Contents-->\n\n<hr/>\n</div>\n\n",
    "wrap_width": 70
   },
@@ -740006,6 +740210,48 @@
     "br",
     "br",
     "br"
+   ],
+   "math_dollars": [
+    [
+     "14df5ef738255b6e",
+     "d"
+    ],
+    [
+     "f2fa7e744d33540a",
+     "d"
+    ],
+    [
+     "31e7faab16d6e42c",
+     "d"
+    ],
+    [
+     "6b771e99ecedd91a",
+     "d"
+    ],
+    [
+     "b495cbaa5458ae2b",
+     "dd"
+    ],
+    [
+     "22cc59c7ea670ca7",
+     "dd"
+    ],
+    [
+     "2f29ac4cc5cae197",
+     "d"
+    ],
+    [
+     "2e372a5f47f7dd23",
+     "d"
+    ],
+    [
+     "2dd6cfd1bea8f497",
+     "d"
+    ],
+    [
+     "7f6cd6cac2926a44",
+     "d"
+    ]
    ],
    "toc_block": "<div id=\"toc\">\n<!--Entry Contents-->\n<ul>\n <li><a href=\"#FirCasStuConSciThe\">1. First Case Study: Confirming Scientific Theories</a>\n<ul>\n <li><a href=\"#DedApp\">1.1 The Deductive Approach</a></li>\n <li><a href=\"#ProApp\">1.2 The Probabilistic Approach</a>\n   <ul>\n   <li><a href=\"#BasBui\">1.2.1 Basic Building Blocks</a></li>\n   <li><a href=\"#BayThe\">1.2.2 Bayes&rsquo; Theorem</a></li>\n   </ul></li>\n <li><a href=\"#QuaConRavPar\">1.3 Quantitative Confirmation &amp; The Raven Paradox</a></li>\n <li><a href=\"#ProPri\">1.4 The Problem of the Priors</a></li>\n <li><a href=\"#Sum\">1.5 Summary</a></li>\n</ul></li>\n <li><a href=\"#SecCasStuProInd\">2. Second Case Study: The Problem of Induction</a>\n<ul>\n <li><a href=\"#PriInd\">2.1 The Principle of Indifference</a></li>\n <li><a href=\"#UpdInf\">2.2 Updating &amp; Inference</a></li>\n</ul></li>\n <li><a href=\"#ThiCasStuRegPro\">3. Third Case Study: The Regress Problem</a>\n<ul>\n <li><a href=\"#Coh\">3.1 Coherentism</a></li>\n <li><a href=\"#FouA\">3.2 Foundationalism</a></li>\n</ul></li>\n <li><a href=\"#FouCasStuLimKno\">4. Fourth Case Study: The Limits of Knowledge</a>\n<ul>\n <li><a href=\"#EpiModLog\">4.1 Epistemic Modal Logic</a></li>\n <li><a href=\"#KnoParAkaChuFitPar\">4.2 The Knowability Paradox (a.k.a. the Church-Fitch Paradox)</a></li>\n <li><a href=\"#SelKno\">4.3 Self-Knowledge</a></li>\n</ul></li>\n <li><a href=\"#FifCasStuSocEpi\">5. Fifth Case Study: Social Epistemology</a>\n<ul>\n <li><a href=\"#TheZolEff\">5.1 The Zollman Effect</a></li>\n <li><a href=\"#MisAndPol\">5.2 Mistrust &amp; Polarization</a></li>\n</ul></li>\n <li><a href=\"#AppOutEpi\">6. Applications Outside Epistemology</a>\n<ul>\n <li><a href=\"#DecThe\">6.1 Decision Theory</a></li>\n <li><a href=\"#ExiGodFinTun\">6.2 The Existence of God: Fine-tuning</a></li>\n <li><a href=\"#MeaIfT\">6.3 The Meaning of <em>&lsquo;If&hellip;Then&hellip;&rsquo;</em></a></li>\n</ul></li>\n <li><a href=\"#Bib\">Bibliography</a></li>\n <li><a href=\"#Aca\">Academic Tools</a></li>\n <li><a href=\"#Oth\">Other Internet Resources</a></li>\n <li><a href=\"#Rel\">Related Entries</a></li>\n</ul>\n\n<!--Entry Contents-->\n\n<hr />\n\n</div>\n\n",
    "wrap_width": 70
@@ -815763,7 +816009,8 @@
     [
      3,
      "Secondary Works",
-     "SecoWorkNoteBiblBeloNeceLimiGive"
+     "SecoWorkNoteBiblBeloNeceLimiGive",
+     " Note: The bibliography below is necessarily limited, given\nthe large number of studies related to Gregory of Rimini&rsquo;s\nthought.\n\n"
     ]
    ],
    "bib_sections": [
@@ -866644,7 +866891,8 @@
     [
      3,
      "Primary Literature",
-     "PrimLiteWorkHobb"
+     "PrimLiteWorkHobb",
+     " Works by Hobbes\n\n"
     ],
     [
      3,
@@ -927667,6 +927915,16 @@
     "br",
     "br",
     "br"
+   ],
+   "math_dollars": [
+    [
+     "5ba93c9db0cff93f",
+     "b"
+    ],
+    [
+     "e03c994ca5d83b41",
+     "b"
+    ]
    ],
    "toc_block": "<div id=\"toc\">\n<!--Entry Contents-->\n<ul>\n<li><a href=\"#ReaForIntImpWor\">1. Reasons for Introducing Impossible Worlds</a></li>\n\t<li><a href=\"#AppImpWor\">2. Applications of Impossible Worlds</a>\n\t<ul>\n\t<li><a href=\"#IntentionalStates\">2.1 Intentional States</a></li>\n\t<li><a href=\"#Information\">2.2 Inconsistent Information</a></li>\n\t<li><a href=\"#Fiction\">2.3 Fiction</a></li>\n\t<li><a href=\"#Content\">2.4 Propositional Content</a></li>\n\t<li><a href=\"#CouRea\">2.5 Counterpossible Reasoning</a></li>\n\t</ul>\n\t</li>\n<li><a href=\"#MetImpWor\">3. The Metaphysics of Impossible Worlds</a></li>\n<li><a href=\"#StrImpWor\">4. The Structure of Impossible Worlds</a>\n\t<ul>\n\t<li><a href=\"#GranularityIssue\">4.1 The Granularity Issue</a></li>\n\t<li><a href=\"#CloImpWor\">4.2 The Closeness of Impossible Worlds</a></li>\n\t</ul>\n\t</li>\n<li><a href=\"#SemImpWor\">5. The Logic(s) of Impossible Worlds</a>\n\t<ul>\n\t<li><a href=\"#ImpWorNonNorModLog\">5.1 Impossible Worlds in Non-Normal Modal Logics</a></li>\n\t<li><a href=\"#NonNonImpWor\">5.2 Nonadjunctive and Nonprime Impossible Worlds</a></li>\n\t<li><a href=\"#ImpWorEpiLog\">5.3 Impossible Worlds in Epistemic Logic</a></li>\n\t<li><a href=\"#ImpWorRelLog\">5.4 Impossible Worlds in Relevant Logic</a></li>\n\t</ul>\n\t</li>\n<li><a href=\"#ObjImpWor\">6. Objections to Impossible Worlds</a>\n\t<ul>\n\t<li><a href=\"#Exportation\">6.1 The Exportation Principle</a></li>\n\t<li><a href=\"#DefPossibility\">6.2 Defining Possibility</a></li>\n\t<li><a href=\"#UsefulnessImpWorlds\">6.3 The Usefulness of Impossible Worlds</a></li>\n\t<li><a href=\"#SemanticsNeg\">6.4 The Semantics of Negation</a></li>\n\t<li><a href=\"#CounterpossibleReasoning\">6.5 Counterpossible Reasoning</a></li>\n\t<li><a href=\"#Compositionality\">6.6 Compositionality</a></li>\n\t</ul>\n\t</li>\n<li><a href=\"#Bib\">Bibliography</a></li>\n<li><a href=\"#Aca\">Academic Tools</a></li>\n<li><a href=\"#Oth\">Other Internet Resources</a></li>\n<li><a href=\"#Rel\">Related Entries</a></li>\n</ul>\n<!--Entry Contents-->\n\n<hr />\n\n</div>\n\n",
    "wrap_width": 70
@@ -1089374,15 +1089632,13 @@
     [],
     [
      0,
-     null,
      1,
-     null,
      2,
-     3
+     3,
+     4,
+     5
     ],
     [
-     4,
-     5,
      6,
      7,
      8,
@@ -1089466,7 +1089722,9 @@
      86,
      87,
      88,
-     89
+     89,
+     90,
+     91
     ]
    ],
    "bib_seq": [
@@ -1089482,11 +1089740,11 @@
      "ul",
      [
       0,
-      null,
       1,
-      null,
       2,
-      3
+      3,
+      4,
+      5
      ]
     ],
     [
@@ -1089496,8 +1089754,6 @@
     [
      "ul",
      [
-      4,
-      5,
       6,
       7,
       8,
@@ -1089581,7 +1089837,9 @@
       86,
       87,
       88,
-      89
+      89,
+      90,
+      91
      ]
     ]
    ],
@@ -1089592,30 +1089850,24 @@
        "i": 0
       },
       {
-       "i": null
-      },
-      {
        "i": 1
-      },
-      {
-       "i": null
       },
       {
        "i": 2
       },
       {
        "i": 3
-      }
-     ]
-    },
-    {
-     "nodes": [
+      },
       {
        "i": 4
       },
       {
        "i": 5
-      },
+      }
+     ]
+    },
+    {
+     "nodes": [
       {
        "i": 6
       },
@@ -1089867,6 +1090119,12 @@
       },
       {
        "i": 89
+      },
+      {
+       "i": 90
+      },
+      {
+       "i": 91
       }
      ]
     }
@@ -1157302,6 +1157560,12 @@
     "br",
     "br",
     "br"
+   ],
+   "math_dollars": [
+    [
+     "5ba93c9db0cff93f",
+     "b"
+    ]
    ],
    "toc_block": "<div id=\"toc\">\n<!--Entry Contents-->\n\n<ul>\n\n <li><a href=\"#FuzzConnBaseTNorm\">1. Fuzzy connectives based on t-norms</a></li>\n \n <li><a href=\"#MTLFundFuzzLogi\">2. MTL: A fundamental fuzzy logic</a></li>\n \n <li><a href=\"#LukaLogi\">3. &#321;ukasiewicz logic</a></li>\n \n <li><a href=\"#GodeLogi\">4. G&ouml;del&ndash;Dummett logic</a></li>\n \n <li><a href=\"#OtheNotaFuzzLogi\">5. Other notable fuzzy logics</a></li>\n \n <li><a href=\"#PredLogi\">6. Predicate logics</a></li>\n \n <li><a href=\"#AlgeSema\">7. Algebraic semantics</a></li>\n \n <li><a href=\"#ProoTheo\">8. Proof theory</a></li>\n \n <li><a href=\"#SemaJustTrutFunc\">9. Semantics justifying truth-functionality</a></li>\n \n <li><a href=\"#FuzzLogiVagu\">10. Fuzzy logic and vagueness</a></li>\n \n <li><a href=\"#Bib\">Bibliography</a></li>\n \n <li><a href=\"#Aca\">Academic Tools</a></li>\n \n <li><a href=\"#Oth\">Other Internet Resources</a></li>\n \n <li><a href=\"#Rel\">Related Entries</a></li>\n </ul>\n\n<!--Entry Contents-->\n\n<hr />\n</div>\n\n",
    "wrap_width": 70
@@ -1473370,6 +1473634,12 @@
     "br",
     "br"
    ],
+   "math_dollars": [
+    [
+     "ce7456a86c6431ec",
+     "b"
+    ]
+   ],
    "toc_block": "<div id=\"toc\">\n<!--Entry Contents-->\n<ul>\n<li><a href=\"#HistStPetePara\">1. The History of the St. Petersburg Paradox</a></li>\n<li><a href=\"#ModeStPetePara\">2. The Modern St. Petersburg Paradox</a></li>\n<li><a href=\"#UnreAssu\">3. Unrealistic Assumptions?</a></li>\n<li><a href=\"#BounUtilFunc\">4. A Bounded Utility Function?</a></li>\n<li><a href=\"#IgnoSmalProb\">5. Ignore Small Probabilities?</a></li>\n<li><a href=\"#RelaExpeUtilTheo\">6. Relative Expected Utility Theory</a></li>\n<li><a href=\"#PasaGame\">7. The Pasadena Game</a></li>\n<li><a href=\"#Bib\">Bibliography</a></li>\n<li><a href=\"#Aca\">Academic Tools</a></li>\n<li><a href=\"#Oth\">Other Internet Resources</a></li>\n<li><a href=\"#Rel\">Related Entries</a></li>\n</ul>\n\n<!--Entry Contents-->\n<hr />\n\n</div>\n\n",
    "wrap_width": 70
   },
@@ -1625665,6 +1625935,12 @@
     "br",
     "br"
    ],
+   "math_dollars": [
+    [
+     "1bc830255e367ee9",
+     "dd"
+    ]
+   ],
    "toc_block": "<div id=\"toc\">\n<!--Entry Contents-->\n<ul>\n<li><a href=\"#ProoTheoNewSubj\">1. Proof Theory: A New Subject</a>\n   <ul>\n   <li><a href=\"#HilbAnsaResu\">1.1 Hilbert&rsquo;s <em>Ansatz</em> and Results</a></li>\n   <li><a href=\"#IncoRedu\">1.2 Incompleteness and a Reduction</a></li>\n   </ul></li>\n<li><a href=\"#NewLogiCalc\">2. New Logical Calculi</a>\n   <ul>\n   <li><a href=\"#AxioRuleNatuReas\">2.1 From Axioms to Rules: Natural Reasoning</a></li>\n   <li><a href=\"#SequCalc\">2.2 Sequent Calculi</a></li>\n   </ul></li>\n<li><a href=\"#GentConsProo\">3. Gentzen&rsquo;s Consistency Proof</a>\n   <ul>\n   <li><a href=\"#OrdiProoTheo\">3.1 Ordinals in Proof Theory</a></li>\n   <li><a href=\"#InfiProo\">3.2 Infinite Proofs</a></li>\n   </ul></li>\n<li><a href=\"#HilbProgExte\">4. Hilbert&rsquo;s Program, Extended</a>\n   <ul>\n   <li><a href=\"#ConsFram\">4.1 Constructive Frameworks</a></li>\n   <li><a href=\"#DialInteGodeSpec\">4.2 The Dialectica Interpretation: G&ouml;del and Spector</a></li>\n   </ul></li>\n<li><a href=\"#BeyoAritSubsBZ2\">5. Beyond Arithmetic: Subsystems of <b>Z</b><sub>2</sub></a>\n   <ul>\n   <li><a href=\"#TakeFundConj\">5.1 Takeuti&rsquo;s Fundamental Conjecture</a></li>\n   <li><a href=\"#PredTheo\">5.2 Predicative Theories</a>\n      <ul>\n      <li><a href=\"#ProgTheoCompInco\">5.2.1 Progressions of theories: Completing the incomplete</a></li>\n      <li><a href=\"#StroOrdiReprVeblBachHier\">5.2.2 Stronger ordinal representations: The Veblen and Bachmann hierarchies</a></li>\n      <li><a href=\"#InfiProoForPredTheo\">5.2.3 Infinitary proofs for predicative theories</a></li>\n      </ul></li>\n   <li><a href=\"#ImprSubsGeneInduDefi\">5.3 Impredicative Subsystems and Generalized Inductive Definitions</a>\n      <ul>\n      <li><a href=\"#InteOrdiReprSystBeyoBach\">5.3.1 Interlude: an ordinal representation system beyond Bachmann&rsquo;s</a></li>\n      <li><a href=\"#AssiProoTheoOrdi\">5.3.2 Assigning proof-theoretic ordinals</a></li>\n      </ul></li>\n   </ul></li>\n<li><a href=\"#Epil\">6. Epilogue</a></li>\n<li><a href=\"#Bib\">Bibliography</a></li>\n<li><a href=\"#Aca\">Academic Tools</a></li>\n<li><a href=\"#Oth\">Other Internet Resources</a></li>\n<li><a href=\"#Rel\">Related Entries</a></li>\n</ul>\n<!--Entry Contents-->\n\n<p>\n<span><strong>Appendices</strong></span></p>\n\n<p>\nWe have altogether six appendices that elaborate historical,\nmathematical and quite &ldquo;technical&rdquo; proof-theoretic matters:</p>\n\n<ol type=\"A\">\n\n <li><a href=\"appendix-a.html\">Formal axiomatics: Its evolution and incompleteness</a></li>\n \n <li><a href=\"appendix-b.html\">Turing&rsquo;s and Feferman&rsquo;s results on recursive progressions</a></li>\n \n <li><a href=\"appendix-c.html\">Bar induction, Spector&rsquo;s result and the &Omega;-rule</a></li>\n \n <li><a href=\"appendix-d.html\">Proof theory of set theories</a></li>\n \n <li><a href=\"appendix-e.html\">Combinatorial independence results</a></li>\n \n <li><a href=\"appendix-f.html\">Provably computable functions</a></li>\n </ol>\n\n<hr />\n</div>\n\n",
    "wrap_width": 70
   },
@@ -1704354,6 +1704630,64 @@
     "br",
     "br"
    ],
+   "math_dollars": [
+    [
+     "8bf6710bcb629345",
+     "b"
+    ],
+    [
+     "6304976809417a4d",
+     "b"
+    ],
+    [
+     "bb548fdaa60a663f",
+     "b"
+    ],
+    [
+     "b91df3642bd3697a",
+     "b"
+    ],
+    [
+     "a23a4108ecd91fa3",
+     "b"
+    ],
+    [
+     "1c3cb31e3992fb62",
+     "bd"
+    ],
+    [
+     "9e724be7c110d5ef",
+     "bb"
+    ],
+    [
+     "80cdd7955bc25ffe",
+     "bbb"
+    ],
+    [
+     "42bf0fd086764877",
+     "b"
+    ],
+    [
+     "d0361cb272c6dfcb",
+     "b"
+    ],
+    [
+     "34e25c328fd74ff2",
+     "b"
+    ],
+    [
+     "27453a5b08fe5f38",
+     "b"
+    ],
+    [
+     "37245095f9bd4f66",
+     "b"
+    ],
+    [
+     "d3390cf20b938fd7",
+     "b"
+    ]
+   ],
    "toc_block": "<div id=\"toc\">\n\n<!--Entry Contents-->\n<ul class=\"avoid-break\">\n<li><a href=\"#ExpeUtilTheo\">1. Expected Utility Theory</a>\n   <ul>\n   <li><a href=\"#Theo\">1.1 The Theory</a></li>\n   <li><a href=\"#Comp\">1.2 Components</a>\n      <ul>\n      <li><a href=\"#Util\">1.2.1 Utility</a></li>\n      <li><a href=\"#Prob\">1.2.2 Probability</a></li>\n      <li><a href=\"#Expe\">1.2.3 Expectation</a></li>\n      </ul></li>\n   </ul></li>\n<li><a href=\"#InfiUnboUtil\">2. Infinite and Unbounded Utility</a>\n   <ul>\n   <li><a href=\"#ChalInfiUnboUtil\">2.1 The Challenge from Infinite and Unbounded Utility</a></li>\n   <li><a href=\"#Prop\">2.2 Proposals</a></li>\n   </ul></li>\n<li><a href=\"#Inco\">3. Incommensurability</a>\n   <ul>\n   <li><a href=\"#ChalInco\">3.1 The Challenge from Incommensurability</a></li>\n   <li><a href=\"#PropDefi\">3.2 Proposals: Definitions</a></li>\n   <li><a href=\"#PropDeciRule\">3.3 Proposals: Decision Rules</a></li>\n   </ul></li>\n<li><a href=\"#ImprProbAmbi\">4. Imprecise Probabilities or Ambiguity</a>\n   <ul>\n   <li><a href=\"#ChalImprProbAmbi\">4.1 The Challenge from Imprecise Probabilities or Ambiguity</a></li>\n   <li><a href=\"#PropProbRepr\">4.2 Proposals: Probability Representations</a></li>\n   <li><a href=\"#PropDeciRule_1\">4.3 Proposals: Decision Rules</a>\n      <ul>\n      <li><a href=\"#AggrDeciRuleUsinSetsProb\">4.3.1 Aggregative Decision Rules using Sets of Probabilities</a></li>\n      <li><a href=\"#AggrDeciRuleChoqExpeUtil\">4.3.2 Aggregative Decision Rules: Choquet Expected Utility</a></li>\n      <li><a href=\"#DeciRuleSeleMenu\">4.3.3 Decision Rules that Select from a Menu</a></li>\n      </ul></li>\n   <li><a href=\"#NormQues\">4.4 Normative Questions</a></li>\n   </ul></li>\n<li><a href=\"#RiskAver\">5. Risk Aversion</a>\n   <ul>\n   <li><a href=\"#ChalRiskAver\">5.1 The Challenge from Risk Aversion</a></li>\n   <li><a href=\"#Prop_1\">5.2 Proposals</a></li>\n   <li><a href=\"#NormIssu\">5.3 Normative Issues</a></li>\n   </ul></li>\n<li><a href=\"#Bib\">Bibliography</a></li>\n<li><a href=\"#Aca\">Academic Tools</a></li>\n<li><a href=\"#Oth\">Other Internet Resources</a></li>\n<li><a href=\"#Rel\">Related Entries</a></li>\n</ul>\n<!--Entry Contents-->\n\n<hr />\n\n</div>\n\n",
    "wrap_width": 70
   },
@@ -1705599,6 +1705933,12 @@
     "br",
     "br",
     "br"
+   ],
+   "math_dollars": [
+    [
+     "2aa649b717ff7ebb",
+     "d"
+    ]
    ],
    "toc_block": "<div id=\"toc\">\n<!--Entry Contents-->\n<ul>\n<li><a href=\"#DefExpUti\">1. Defining Expected Utility</a>\n   <ul>\n   <li><a href=\"#ConPro\">1.1 Conditional Probabilities</a></li>\n   <li><a href=\"#OutUti\">1.2 Outcome Utilities</a></li>\n   </ul></li>\n<li><a href=\"#ArgForExpUtiThe\">2. Arguments for Expected Utility Theory</a>\n   <ul>\n   <li><a href=\"#LonRunArg\">2.1 Long-Run Arguments</a></li>\n   <li><a href=\"#RepThe\">2.2 Representation Theorems</a></li>\n   </ul></li>\n\n<li><a href=\"#ObjExpUtiThe\">3. Objections to Expected Utility Theory</a>\n   <ul>\n   <li><a href=\"#MaxExpUtiImp\">3.1 Maximizing Expected Utility is Impossible</a></li>\n   <li><a href=\"#MaxExpUtiIrr\">3.2 Maximizing Expected Utility is Irrational</a></li>\n   </ul></li>\n\n<li><a href=\"#App\">4. Applications</a>\n   <ul>\n   <li><a href=\"#EcoPubPol\">4.1 Economics and Public Policy</a></li>\n   <li><a href=\"#Eth\">4.2 Ethics</a></li>\n   <li><a href=\"#Epi\">4.3 Epistemology</a></li>\n   <li><a href=\"#Law\">4.4 Law</a></li>\n   </ul></li>\n<li><a href=\"#Bib\">Bibliography</a></li>\n<li><a href=\"#Aca\">Academic Tools</a></li>\n<li><a href=\"#Oth\">Other Internet Resources</a></li>\n<li><a href=\"#Rel\">Related Entries</a></li>\n</ul>\n\n<!--Entry Contents-->\n\n<hr />\n\n</div>\n\n",
    "wrap_width": 67
@@ -1731291,6 +1731631,16 @@
     "br",
     "br",
     "br"
+   ],
+   "math_dollars": [
+    [
+     "37ba7703bcd025da",
+     "dddd"
+    ],
+    [
+     "4cbf6363431ac804",
+     "dddd"
+    ]
    ],
    "toc_block": "<div id=\"toc\">\n<!--Entry Contents-->\n<ul>\n<li><a href=\"#HistBack\">1. Historical Background</a>\n   <ul>\n   <li><a href=\"#EarlHistRecuDefi\">1.1 The Early History of Recursive Definitions</a></li>\n   <li><a href=\"#OrigPrimRecu\">1.2 The Origins of Primitive Recursion</a></li>\n   <li><a href=\"#AritReprGodeFirsIncoTheo\">1.3 Arithmetical Representability and G&ouml;del&rsquo;s First Incompleteness Theorem</a></li>\n   <li><a href=\"#AckePeteFunc\">1.4 The Ackermann-P&eacute;ter Function</a></li>\n   <li><a href=\"#GeneRecuFunc\">1.5 The General Recursive Functions</a></li>\n   <li><a href=\"#ChurThes\">1.6 Church&rsquo;s Thesis</a></li>\n   <li><a href=\"#EntsUnde\">1.7 The <em>Entscheidungsproblem</em> and Undecidability</a></li>\n   <li><a href=\"#OrigRecuFuncTheoCompTheo\">1.8 The Origins of Recursive Function Theory and Computability Theory</a></li>\n   </ul></li>\n<li><a href=\"#FormRecu\">2. Forms of Recursion</a>\n   <ul>\n   <li><a href=\"#PrimRecuFuncPR\">2.1 The Primitive Recursive Functions (<b>PR</b>)</a>\n      <ul>\n      <li><a href=\"#Defi\">2.1.1 Definitions</a></li>\n      <li><a href=\"#Exam\">2.1.2 Examples</a></li>\n      <li><a href=\"#AddiClosPropPrimRecuFunc\">2.1.3 Additional closure properties of the primitive recursive functions</a></li>\n      </ul></li>\n   <li><a href=\"#PartRecuFuncPartRecuFuncREC\">2.2 The Partial Recursive Functions (<b>PartREC</b>) and the Recursive Functions (<b>REC</b>)</a>\n      <ul>\n      <li><a href=\"#Defi_1\">2.2.1 Definitions</a></li>\n      <li><a href=\"#NormFormTheo\">2.2.2 The Normal Form Theorem</a></li>\n      </ul></li>\n   </ul></li>\n<li><a href=\"#CompTheo\">3. Computability Theory</a>\n   <ul>\n   <li><a href=\"#IndeSMNTheoUniv\">3.1 Indexation, the <i>s</i>-<i>m</i>-<i>n</i> Theorem, and Universality</a></li>\n   <li><a href=\"#NonCompFuncUndeProb\">3.2 Non-Computable Functions and Undecidable Problems</a></li>\n   <li><a href=\"#CompCompEnumSets\">3.3 Computable and Computably Enumerable Sets</a></li>\n   <li><a href=\"#RecuTheo\">3.4 The Recursion Theorem</a></li>\n   <li><a href=\"#ReduDegr\">3.5 Reducibilities and Degrees</a>\n      <ul>\n      <li><a href=\"#ManyOneDegr\">3.5.1 The many-one degrees</a></li>\n      <li><a href=\"#TuriDegr\">3.5.2 The Turing degrees</a></li>\n      </ul></li>\n   <li><a href=\"#AritAnalHier\">3.6 The Arithmetical and Analytical Hierarchies</a>\n      <ul>\n      <li><a href=\"#AritHier\">3.6.1 The arithmetical hierarchy</a></li>\n      <li><a href=\"#AnalHier\">3.6.2 The analytical hierarchy</a></li>\n      </ul></li>\n   </ul></li>\n<li><a href=\"#FurtRead\">4. Further Reading</a></li>\n<li><a href=\"#Bib\">Bibliography</a></li>\n<li><a href=\"#Aca\">Academic Tools</a></li>\n<li><a href=\"#Oth\">Other Internet Resources</a></li>\n<li><a href=\"#Rel\">Related Entries</a></li>\n</ul>\n<!--Entry Contents-->\n<p><a href=\"ackermann-peter.html\">Supplement: History of the Ackermann-P&eacute;ter function</a></p>\n<hr />\n\n</div>\n\n",
    "wrap_width": 70

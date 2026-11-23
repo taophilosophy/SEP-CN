@@ -573,7 +573,14 @@ def _render_bib(bib, hid_map, ledger):
                         not bh and lv == 2 and name == "Bibliography"):
                     continue
                 if lv and name:
-                    parts.append("%s\n\n" % heading_tag(lv, hid, name))
+                    # 题后散字（账第 4 位，H0 原文片段）原样接在题后，替代
+                    # 常规空行分隔——该片段自带尾随空白（hobbes-science 判例）
+                    _bt = bh[bhi[0] - 1][3] if (bhi[0] - 1 < len(bh)
+                                                and len(bh[bhi[0] - 1]) > 3) else ""
+                    if _bt:
+                        parts.append(heading_tag(lv, hid, name) + _bt)
+                    else:
+                        parts.append("%s\n\n" % heading_tag(lv, hid, name))
             elif kind == "table":
                 if tb_i[0] < len(tables):
                     parts.append("%s\n\n" % tables[tb_i[0]])

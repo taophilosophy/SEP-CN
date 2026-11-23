@@ -25,6 +25,7 @@ link_citations）求值。引注标记 [^bib-key] 从正文剥除（link_citatio
 只读判官：不写 en/、yuanwen/、baseline（R 的输出只在内存）。
 """
 import argparse
+import hashlib
 import html as _html_mod
 import io
 import json
@@ -132,6 +133,7 @@ _LINK_IDX = None  # 文档序游标：下一条待消费的链接账条目
 _ITAL = "em"  # 按件斜体标签名（em/i）
 _GREEK_FORM = None  # 按件希腊字形态："em" 表示 <em>&alpha;</em> 而非宏
 _MATH_FORMS = None  # 按件显示公式形态账（文档序 "br"／"naked"）
+_MATH_DOLLARS = None  # 按件行内公式美元源形账（[[体内指纹, "db…"]]，消费式）
 _MATH_IDX = [0]     # 显示公式游标（reassemble_article 重置）
 
 _NOTE_FORMS = None  # 按件非规范脚注引用形（文档序列表 [{n, form}]）
@@ -344,6 +346,41 @@ def _display_end(s, i):
     return -1
 
 
+def _blank_dollars(body):
+    """行内公式体内 `\\$`/`$` 统一换哨兵后的指纹（与账 extract_math_dollars 同式）。"""
+    for ch in ("\\$", "$"):
+        body = body.replace(ch, "\x00")
+    return hashlib.sha1(body.encode("utf-8")).hexdigest()[:16]
+
+
+def _math_dollar_fix(body):
+    """按账把行内公式里的 `\\$` 还原成原文形：`d`→裸 `$`，`b`→保留 `\\$`。
+
+    无账命中（指纹不符/已消费/该件没记）一律原样——存疑不动，交补集池。
+    """
+    if not _MATH_DOLLARS or "\\$" not in body:
+        return body
+    key = _blank_dollars(body)
+    pat = None
+    for i, ent in enumerate(_MATH_DOLLARS):
+        if ent[0] == key:
+            pat = ent[1]
+            del _MATH_DOLLARS[i]
+            break
+    if pat is None:
+        return body
+    out, i, j = [], 0, 0
+    while i < len(body):
+        if body.startswith("\\$", i):
+            out.append("$" if j < len(pat) and pat[j] == "d" else "\\$")
+            j += 1
+            i += 2
+            continue
+        out.append(body[i])
+        i += 1
+    return "".join(out)
+
+
 def _scan_stash_math(s, stash):
     """md 数学段扫描占位（`$…$` / `$$…$$`，转义感知，显示体允许成对单美元）。
 
@@ -506,9 +543,8 @@ def _inline_md_to_html(text):
     if _EM:
         s = encode_outside_math(s, _EM)
     # 数学占位还原（$x$ → \(x\)；$$x$$ → \[x\]）
-    # 注：C 侧 `\$`（数学体字面美元）**不可反演**——H0 的裸 `$`（`\($S\)`）与
-    # 已有 `\$` 在 md 同形（dutch-book 18 裸 vs decision-causal 17 转义，后者
-    # 现池），一律还原会打坏后者。待按位账（math_dollar）专项。
+    # 行内公式里的 `\$` 双源（H0 裸 `$` 与原文 `\$` 在 md 同形）由
+    # `math_dollars` 账按体内指纹逐 span 判定（第二十三批）；无账命中原样保留。
     for idx, val in enumerate(math_store):
         if val.startswith("$$"):
             body = val[2:-2]
@@ -522,7 +558,7 @@ def _inline_md_to_html(text):
                 rep = r"\[" + body + r"\]"
             _MATH_IDX[0] += 1
         else:
-            rep = r"\(" + val[1:-1] + r"\)"
+            rep = r"\(" + _math_dollar_fix(val[1:-1]) + r"\)"
         s = s.replace("\x02%d\x02" % idx, rep)
     # 字面星还原（占位符 \x01 → 裸 *，在 HTML 文本层即普通字符）
     s = s.replace("\x01", "*")
@@ -774,7 +810,7 @@ def _render_bq(q, _depth=0):
 
 def reassemble_article(md, authors, entity_map=None, links=None, greek=None,
                        italics=None, greek_form=None, note_forms=None,
-                       math_forms=None):
+                       math_forms=None, math_dollars=None):
     """md（主档全文）→ (title, article_html)。不动点验证在调用方闭环。
 
     entity_map：按件实体策略（codepoint → 实体串）；None 表示不编码。
@@ -782,12 +818,13 @@ def reassemble_article(md, authors, entity_map=None, links=None, greek=None,
            未消费条目经 LINK_MISSES 暴露给判官（账/文不一致即红）。
     greek：按件希腊宏覆盖（同名不同宏：pi/varphi 之类 C 侧同形不可分）。"""
     global _EM, _LINKS, _LINKS_USED, _LINK_SEEN, _LINK_IDX, _GREEK, _GREEK_IDX
-    global _ITAL, _GREEK_FORM, _NOTE_FORMS, _MATH_FORMS
+    global _ITAL, _GREEK_FORM, _NOTE_FORMS, _MATH_FORMS, _MATH_DOLLARS
     _GREEK = greek
     _GREEK_IDX = {}
     _EM = entity_map
     _NOTE_FORMS = note_forms
     _MATH_FORMS = math_forms
+    _MATH_DOLLARS = [list(e) for e in (math_dollars or [])]
     _MATH_IDX[0] = 0
     _LINKS = links or []
     _LINKS_USED = {}

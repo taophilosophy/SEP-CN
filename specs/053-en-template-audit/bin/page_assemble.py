@@ -95,7 +95,8 @@ def assemble(lib, slug):
                                      led.get("links"), led.get("greek"),
                                      led.get("italics"), led.get("greek_form"),
                                      led.get("note_forms"),
-                                     led.get("math_forms"))
+                                     led.get("math_forms"),
+                                     led.get("math_dollars"))
     miss = ra.link_misses()
     art = AB.build(flat, led)
     if art is None:

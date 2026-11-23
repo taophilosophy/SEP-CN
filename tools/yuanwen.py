@@ -1074,14 +1074,10 @@ def build_cite_keys(entry_texts, fallback_author=None):
             prev_section = section
         continued = text.startswith('–––') or text.startswith('———')
         # 缩写表把「作者名」单独作 <li>，其后另起 <dl> 列各版本（Descartes,
-        # René／Leibniz, G. W.）：这类裸姓名条目无年份、无内容，建 -nd 键只得
-        # 一行残名（leibniz-ethics 实证）。识别为纯人名即跳过定义；机构名
-        # （Thomas Paine Society, Nottingham）与多词标题保留。
-        if not continued and not re.search(r'\d', text) and \
-                not re.search(r'\b(?:Society|Press|University|Institute|Academy)\b', text) and \
-                ' and ' not in text and \
-                re.fullmatch(r"[A-ZÀ-Ÿ][^,]{0,30},\s*[A-ZÀ-Ÿ][^,]{0,20}", text):
-            continue
+        # René／Leibniz, G. W.）：这类裸姓名条目无年份、无内容。旧式整条
+        # continue——建 -nd 键只得一行残名，但**丢弃会让 H0 的 li 在产物中
+        # 缺席**（leibniz-ethics 两条，h0_extra 族）。改为照常建 -nd 键保留
+        # 定义行：无年份即无 pats，不会挂文内标记，只保文字（2026-11-23）。
         # 年份后缀大小写都认（2026-11-13 审计：1992A/2004B 旧正则只认小写，
         # 被当无年份条目，键退化为 gethin-nd / cox-nd-2，键名与年份脱钩）
         ym = re.search(r'\b(1[6-9]\d\d|20\d\d)([a-eA-E]?)\b', text)

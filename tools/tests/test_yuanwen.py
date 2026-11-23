@@ -657,10 +657,14 @@ class TestTitleDedupeAndHashEscape20261117(unittest.TestCase):
                                fallback_author='bohr')
         self.assertEqual(keys[0]['key'], 'bohr-1934')
 
-    def test_abbrev_bare_name_still_dropped(self):
-        # 缩写表裸姓名条目（无年份、无内容）逻辑不受 D1 兜底影响
+    def test_abbrev_bare_name_kept_as_nd_entry(self):
+        # 缩写表裸姓名条目（无年份、无内容）旧式整条丢弃 → H0 的 li 在产物
+        # 缺席（leibniz-ethics 判例）。2026-11-23 改判：照常建 -nd 键保定义行，
+        # 无年份即无 pats，不会挂文内标记——保真优先级：文字是本体重名是辅助物。
         keys = build_cite_keys(['Descartes, René', 'Leibniz, G. W.'])
-        self.assertEqual(keys, [])
+        self.assertEqual([k['key'] for k in keys], ['descartes-nd', 'leibniz-nd'])
+        self.assertTrue(all(not k['pats'] and not k['pre'] for k in keys))
+        self.assertEqual(keys[0]['text'], 'Descartes, René')
 
 
 class TestDlGaps(unittest.TestCase):

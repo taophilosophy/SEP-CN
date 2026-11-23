@@ -12,6 +12,7 @@
 产出 baseline/en-template/article-ledger.json（冻结派生件，重跑须复核）。
 """
 import argparse
+import hashlib
 import html as htmllib
 import io
 import json
@@ -157,18 +158,57 @@ def extract_math_forms(art_inner):
     return out
 
 
-def extract_links(art_inner):
+def extract_math_dollars(art_inner):
+    """行内公式的美元源形账：`\\(…\\)` 体内每个 `$` 是否为原文转义（`\\$`）。
+
+    C 侧 `_esc_math_dollar` 把裸 `$` 一律写成 `\\$`（`\\($S\\)` 判例），原文
+    已带转义的 `\\$` 形态不变——md 同形双源，右逆无法判别（dutch-book 18 裸
+    对 decision-causal 17 转义）。账按**体内文字指纹**锚定（`\\$`/`$` 统一换
+    哨兵后取 sha），避免 C 丢弃空式/单希腊降级造成的 span 序号漂移。
+    """
+    pat = re.compile(r"\\\((.*?)\\\)", re.S)
+    out = []
+    for m in pat.finditer(art_inner):
+        body = m.group(1)
+        if "$" not in body:
+            continue
+        forms = []
+        i = 0
+        while i < len(body):
+            if body.startswith("\\$", i):
+                forms.append("b")
+                i += 2
+                continue
+            if body[i] == "$":
+                forms.append("d")
+            i += 1
+        out.append([_dollar_blank(body), "".join(forms)])
+    return out
+
+
+def _dollar_blank(body):
+    """`\\$` 与 `$` 统一替换为哨兵后的指纹（两侧同式）。"""
+    for ch in ("\\$", "$"):
+        body = body.replace(ch, "\x00")
+    return hashlib.sha1(body.encode("utf-8")).hexdigest()[:16]
+
+
+def extract_links(art_inner, skip=()):
     """C 丢弃的内部链接（跨词条 ../slug/、页内 #anchor），文档序＋出现序。
 
     扫描域＝正文区（剔 TOC／学术工具／相关条目三块——它们各有专用账）。
     nth＝该锚文在本文可见文字流中的第几次出现（0 基），R 按此定位，
-    避免同文多处时把链接挂错位置（advance-directives 判例）。"""
+    避免同文多处时把链接挂错位置（advance-directives 判例）。
+    skip：题后散字等**不入 md** 的 H0 片段——其中的链接由散字原文整段发出，
+    不再入链接账（否则 R 侧无对应锚文可消费，成假 link_miss）。"""
     s = art_inner
     s = _cut_region(s, '<div id="toc"', '</div>' + chr(92) + 's*(?=<div id="main-text">)')
     s = _cut_region(s, '<div id="academic-tools"', '</div>')
     s = _cut_region(s, '<div id="related-entries"', '</div>')
     out = []
     for m in re.finditer('<a href="([^"]*)">(.*?)</a>', s, re.S):
+        if any(m.group(0) in t for t in skip):
+            continue
         href, inner = m.group(1), m.group(2)
         if href.startswith(("http://", "https://", "notes.html#")):
             continue
@@ -686,10 +726,30 @@ def extract(art_inner, md=None):
         # H0 文献区标题文字（md 侧标题带中文加工后缀，如
         # `## References（引用注释）`；全库 1,878 件统一形态）。渲染按账取
         # H0 规范形，否则装配标题与 H0 文字不等（aesthetic-judgment 判例）
-        led["bib_heads"] = [
-            [int(m.group(1)), norm_html(m.group(3)),
-             (re.search(r'id="([^"]*)"', m.group(2) or "") or [None, None])[1]]
-            for m in re.finditer(r'<h([2-6])([^>]*)>(.*?)</h\1>', region, re.S)]
+        # 第 4 位＝题后散字（`</h3> Works by Hobbes`、`</h3> Note: …`、
+        # `See section 2, above.` 判例）：H0 在标题与首个块之间夹一行散文，
+        # md 侧被丢（h0_extra 族）。按原文片段逐字入账，渲染侧原样接在题后；
+        # 若该文字已紧随 md 同名标题出现（C 已转出）则不记，防重复。
+        def _flat(s):
+            return re.sub(r"\s+", "", htmllib.unescape(re.sub(r"<[^>]*>", "", s)))
+
+        _bib_heads = []
+        _block = re.compile(r"</?(?:ul|ol|li|p|table|div|h[2-6]|dl|blockquote)\b|<!--",
+                            re.I)
+        for m in re.finditer(r'<h([2-6])([^>]*)>(.*?)</h\1>', region, re.S):
+            _nx = _block.search(region, m.end())
+            tail = region[m.end():_nx.start() if _nx else len(region)]
+            rec = [int(m.group(1)), norm_html(m.group(3)),
+                   (re.search(r'id="([^"]*)"', m.group(2) or "") or [None, None])[1]]
+            flat = _flat(tail)
+            if flat:
+                # 无 md 侧去重守卫：文献区的**裸文字**（不包 <p>）C 一律丢，
+                # 而 R 的 `seq` 只为 `<p>` 块发散文——即便 md 里有这段文字
+                # 也没有发射点（boethius-dacia `See section 2, above.` 判例，
+                # md 第 235 行有、装配页缺席）。故只要题后有裸文字即入账。
+                rec.append(tail)
+            _bib_heads.append(rec)
+        led["bib_heads"] = _bib_heads
         secs, pend, n = [], None, 0
         for m in re.finditer(r'<h([2-6])[^>]*>(.*?)</h\1>|<ul[^>]*>(.*?)</ul>',
                              region, re.S):
@@ -797,7 +857,8 @@ def extract(art_inner, md=None):
     if gk:
         led["greek"] = gk
     led["entities"] = extract_entities(art_inner)
-    led["links"] = extract_links(art_inner)
+    _tails = [h[3] for h in led.get("bib_heads") or [] if len(h) > 3]
+    led["links"] = extract_links(art_inner, _tails)
     it = extract_italics(art_inner)
     if it:
         led["italics"] = it
@@ -810,6 +871,9 @@ def extract(art_inner, md=None):
     mf = extract_math_forms(art_inner)
     if mf:
         led["math_forms"] = mf
+    mdol = extract_math_dollars(art_inner)
+    if mdol:
+        led["math_dollars"] = mdol
     toc = extract_toc(art_inner)
     if toc:
         led["toc_block"] = toc

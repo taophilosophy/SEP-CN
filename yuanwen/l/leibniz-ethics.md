@@ -206,7 +206,11 @@ The author is indebted to Saja Parvizian for his help in producing the Bibliogra
 
 [^butler-1650]: Butler, Joseph, *Fifteen Sermons*, in *British Moralists: 1650–1800* (Volume I), edited by D. D. Raphael, Indianapolis: Hackett Publishing Company, 1991.
 
+[^descartes-nd]: Descartes, René
+
 [^csm-1985]: [**CSM I**] *The Philosophical Writings of Descartes,*translated by John Cottingham, Robert Stoothoff, and Dugald Murdoch. Cambridge: Cambridge University Press, 1985. [**CSMK**] *The Philosophical Writings of Descartes: The Correspondence* (Vol III), translated by John Cottingham, Robert Stoothoff, Dugald Murdoch, and Anthony Kenny. Cambridge: Cambridge University Press, 1991.
+
+[^leibniz-nd]: Leibniz, G. W.
 
 [^philospohical-1969]: [**L**] *Philospohical Papers and Letters,* translated by Leroy E. Loemker, Dordrecht: D. Reidel, 1969. [**W**] *Leibniz: Selections*, edited by Philip P. Wiener, New York: Charles Scribner’s Sons, 1951. [**M**] *Leibniz: The Monadology and Other Philosophical Writings*, translated with introduction and notes by Robert Latta, Oxford: Oxford University Press, 1898. [**NE**] *New Essays on Human Understanding*, translated and edited by Peter Remnant and Jonathan Bennett, Cambridge: Cambridge University Press, 1996. [**PE**] *G. W. Leibniz: Philosophical Essays*, translated by Roger Ariew and Daniel Garber, Indianapolis: Hackett Publishing Company, 1989. [**PW**] *Leibniz: Political Writings* (second edition), translated and edited by Patrick Riley, Cambridge: Cambridge University Press, 1988. [**SLT**] *The Shorter Leibniz Texts*, translated by Lloyd Strickland, New York: Continuum, 2006. [**T**] *Theodicy: Essays on the Goodness of God, the Freedom of Man, and the Origin of Evil*, translated by E. M. Huggard, edited by Austin Farrer, Chicago/La Salle: Open Court, 1951
 
