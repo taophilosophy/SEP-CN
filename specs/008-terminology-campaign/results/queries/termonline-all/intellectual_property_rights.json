@@ -1,0 +1,762 @@
+{
+ "key": "intellectual property rights",
+ "term": "intellectual property rights",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T00:36:59+00:00",
+ "status": "ok",
+ "note": "variant=intellectual property rights; 审定公布名词库=2855; 海峡两岸名词对照库=942; 其他来源数据库=443; 预公布名词数据库=141; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "知识产权",
+   "en": "intellectual property,intellectual property rights,IPR",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "01.098",
+   "subjectFullName": "图书馆·情报与文献学_图书馆学情报学基础_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "对受法律保护的著作权、商标权、专利权、工业设计权和商业秘密等权利的总称。"
+  },
+  {
+   "cn": "知识产权",
+   "en": "intellectual property right",
+   "source": "编辑与出版学名词",
+   "wordNumber": "08.01.001",
+   "subjectFullName": "编辑与出版学_著作权_综述",
+   "subjectName": "综述",
+   "publishYear": "2022",
+   "definition": "是基于创造成果和工商业标记依法产生的权利的统称。包括专利权、商标权、著作权等。"
+  },
+  {
+   "cn": "知识产权资产",
+   "en": "intellectual property right",
+   "source": "管理科学技术名词",
+   "wordNumber": "10.0416",
+   "subjectFullName": "管理科学技术_科技管理与技术创新_知识管理",
+   "subjectName": "知识管理",
+   "publishYear": "2016",
+   "definition": "知识资产重要的组成部分，具有相对稀缺性和垄断性的资产，对企业价值链的支持具有垄断性和不可模仿性，能使价值链保持竞争优势。"
+  },
+  {
+   "cn": "知识产权",
+   "en": "intellectual-property/right",
+   "source": "教育学名词",
+   "wordNumber": "14.176",
+   "subjectFullName": "教育学_教育经济",
+   "subjectName": "教育经济",
+   "publishYear": "2013",
+   "definition": "人们对智力劳动成果所享有的占有、使用、处分和收益的权利。"
+  },
+  {
+   "cn": "自主知识产权",
+   "en": "indigenous intellectual property right",
+   "source": "管理科学技术名词",
+   "wordNumber": "10.0415",
+   "subjectFullName": "管理科学技术_科技管理与技术创新_知识管理",
+   "subjectName": "知识管理",
+   "publishYear": "2016",
+   "definition": "公民、法人或非法人单位经过其主导的研究开发或设计创作活动而形成的、依法拥有的独立自主实现某种技术知识资产的所有权。包括从其他公民、法人或非法人单位那里购得的知识产权。"
+  },
+  {
+   "cn": "知识产权",
+   "en": "intellectual property",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.034",
+   "subjectFullName": "自然辩证法_科学、技术与社会_科学、技术与社会概论",
+   "subjectName": "科学、技术与社会概论",
+   "publishYear": "2024",
+   "definition": "关于人类在社会实践中创造的智力劳动成果的专有权利。通常国家赋予创造者对其智力成果在一定时期内享有专有权或独占权。各种智力创造比如发明、外观设计、文学和艺术作品，以及在商业中使用的标志、名称、图像，都可"
+  },
+  {
+   "cn": "知识产权",
+   "en": "intellectual property",
+   "source": "管理科学技术名词",
+   "wordNumber": "10.0414",
+   "subjectFullName": "管理科学技术_科技管理与技术创新_知识管理",
+   "subjectName": "知识管理",
+   "publishYear": "2016",
+   "definition": "法律赋予智力成果完成人对其特定的创造性智力成果在一定期限内享有的专有权利。"
+  },
+  {
+   "cn": "知识产权",
+   "en": "intellectual property",
+   "source": "药学名词",
+   "wordNumber": "03.382",
+   "subjectFullName": "药学_药物化学",
+   "subjectName": "药物化学",
+   "publishYear": "2014",
+   "definition": "公民或法人等主体依据法律的规定，对其从事智力创作或创新活动所产生的知识产品所享有的专有权利。"
+  },
+  {
+   "cn": "知识产权运营",
+   "en": "intellectual property operation",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.01.226",
+   "subjectFullName": "编辑与出版学_数字出版_综述",
+   "subjectName": "综述",
+   "publishYear": "2022",
+   "definition": "为使作品从创作阶段到成熟阶段能够具有较多的用户群体或一定的社会影响力，并产生最佳经济效益，根据作品的类型、特点和用户属性而采取的一系列策略和手段。"
+  },
+  {
+   "cn": "知识产权",
+   "en": "intellectual property;IP",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "13.144",
+   "subjectFullName": "新闻学与传播学_新媒体传播_新媒体应用",
+   "subjectName": "新媒体应用",
+   "publishYear": "2022",
+   "definition": "权利人对其智力劳动所创作的成果享有的财产权利，也是智力活动创造的成果和经营管理活动中的标记、信誉所依法享有的专有权利。近年来基于这个概念的新商业模式在互联网领域尤受关注，即利用作品的知识产权进行跨平台"
+  },
+  {
+   "cn": "知识产权法",
+   "en": "intellectual property law",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "17.024",
+   "subjectFullName": "新闻学与传播学_媒体与传播法_总论",
+   "subjectName": "总论",
+   "publishYear": "2022",
+   "definition": "调整因知识产品而产生的各种社会关系的法律规范的总和。狭义指专利法、商标法与著作权法。广义上一切调整智力成果和工商业标记社会关系的法律规范都是知识产权法。"
+  },
+  {
+   "cn": "知识产权所有人",
+   "en": "intellectual property owner",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "03.237",
+   "subjectFullName": "化工（五）_研发与工程化_研究成果与知识产权管理",
+   "subjectName": "研究成果与知识产权管理",
+   "publishYear": "2021",
+   "definition": "合法占有某项知识产权的自然人或法人。包括专利权人、商标注册人、版权所有人等。"
+  },
+  {
+   "cn": "知识产权许可",
+   "en": "intellectual property license",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "03.238",
+   "subjectFullName": "化工（五）_研发与工程化_研究成果与知识产权管理",
+   "subjectName": "研究成果与知识产权管理",
+   "publishYear": "2021",
+   "definition": "许可方将所涉知识产权授予被许可方按照约定条件使用/实施的活动，或在不转让财产所有权的条件下让渡财产中的权利。"
+  },
+  {
+   "cn": "知识产权转让",
+   "en": "intellectual property transfer",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "03.239",
+   "subjectFullName": "化工（五）_研发与工程化_研究成果与知识产权管理",
+   "subjectName": "研究成果与知识产权管理",
+   "publishYear": "2021",
+   "definition": "知识产权出让主体与知识产权受让主体，根据与知识产权转让有关的法律法规和双方签订的转让合同，将知识产权由出让方转移给受让方的法律行为。"
+  },
+  {
+   "cn": "知识产权管理",
+   "en": "intellectual property management",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "01.103",
+   "subjectFullName": "图书馆·情报与文献学_图书馆学情报学基础_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "（1）国家有关部门依法维护公民知识产权而进行的行政及司法活动。（2）某些组织经知识产权人授权对相关知识产权进行保护和经营的活动。"
+  },
+  {
+   "cn": "知识产权战略",
+   "en": "intellectual property strategy",
+   "source": "管理科学技术名词",
+   "wordNumber": "10.0417",
+   "subjectFullName": "管理科学技术_科技管理与技术创新_知识管理",
+   "subjectName": "知识管理",
+   "publishYear": "2016",
+   "definition": "运用知识产权保护制度，为充分地维护自己的合法权益，获得与保持竞争优势并遏制竞争对手，谋求最佳经济效益而进行的整体性筹划和采取的一系列的策略与手段。"
+  },
+  {
+   "cn": "产权",
+   "en": "property rights",
+   "source": "经济学名词",
+   "wordNumber": "03.216",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "经济所有制关系的法律表现形式，是法定主体对财产所拥有的各项权能的总和。它包括财产的所有权、占有权、支配权、使用权、收益权和处置权等，其中，所有权是产权的基础和核心。简言之，产权可以界定为“一系列可选择"
+  },
+  {
+   "cn": "产权",
+   "en": "property right",
+   "source": "农学名词",
+   "wordNumber": "19.219",
+   "subjectFullName": "农业经济与管理_农业制度经济",
+   "subjectName": "农业制度经济",
+   "publishYear": "2025",
+   "definition": "法律认可的财产所有关系及依附其上的各种权益（如经营权、承包权、使用权和分配权等）的总称。"
+  },
+  {
+   "cn": "财产权",
+   "en": "property right",
+   "source": "编辑与出版学名词",
+   "wordNumber": "08.02.026",
+   "subjectFullName": "编辑与出版学_著作权_著作权客体",
+   "subjectName": "著作权客体",
+   "publishYear": "2022",
+   "definition": "著作权人依法享有的使用或授权他人使用其作品的权利。包括复制权、发行权、出租权、展览权、表演权、放映权、广播权、信息网络传播权、摄制权、改编权、翻译权、汇编权等。"
+  },
+  {
+   "cn": "物权",
+   "en": "property right",
+   "source": "城乡规划学名词",
+   "wordNumber": "01.127",
+   "subjectFullName": "城乡规划学_城乡规划总述_城乡规划制度",
+   "subjectName": "城乡规划制度",
+   "publishYear": "2021",
+   "definition": "权利人依法对特定的物享有直接支配和排他的权力。包括所有权、用益物权和担保物权。"
+  },
+  {
+   "cn": "心智表现",
+   "en": "intellectual performance",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "智力转让",
+   "en": "intellectual transfer",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "思想上的恐怖主义",
+   "en": "intellectual terrouism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "智力犯罪",
+   "en": "intellectual crime",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "财物",
+   "en": "property",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "生物遗传资源的衍生所有权",
+   "en": "derived property right of biogenetic resources",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "智力发育障碍",
+   "en": "intellectual developmental disorder",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "大气特性",
+   "en": "atmospheric property",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "总体性质",
+   "en": "bulk property",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "临界性质",
+   "en": "critical property",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "结块性",
+   "en": "caking property",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "热物理性质",
+   "en": "thermophysical property",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "驻点性质",
+   "en": "stagnation property",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "运输性质",
+   "en": "transport property",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "物理性质",
+   "en": "physical property",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "财产税",
+   "en": "property tax",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "可测量性质",
+   "en": "measurable property",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "加成性",
+   "en": "additive property",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "动力性质",
+   "en": "kinetic property",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "密封性能",
+   "en": "sealing property",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "知识产权",
+   "en": "intellectual property right",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "财产权",
+   "en": "property right",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "世界知识产权组织",
+   "en": "World Intellectual Property Organization",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "双重产权",
+   "en": "dual property rights",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据产权",
+   "en": "data property right",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据财产权",
+   "en": "data property right",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "产权变革",
+   "en": "reform of property rights",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "财产",
+   "en": "property",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "扶正",
+   "en": "right",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "摆平",
+   "en": "right",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "网络财产",
+   "en": "network property",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "属性图",
+   "en": "property graph",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "系统属性",
+   "en": "System Property",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "虚拟财产",
+   "en": "virtual property",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "右边锋",
+   "en": "outside right\",\"right winger",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "产权清晰",
+   "en": "clearly defined property rights",
+   "source": "马克思主义",
+   "wordNumber": "02.0423",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "以法律的形式明确企业出资者的所有权与企业法人的财产权，使二者权利和责任的界定清晰，即企业在产权的所有、占有、使用、处置和收益等相关权利的归属明确。"
+  },
+  {
+   "cn": "医院产权理论",
+   "en": "hospital property right theory ",
+   "source": "卫生经济学名词",
+   "wordNumber": "14.2.3.1.1",
+   "subjectFullName": "卫生经济学名词_医生与医院行为_医院行为",
+   "subjectName": "医院行为",
+   "publishYear": "2025",
+   "definition": "将产权理论引入医院管理，关于医院产权、激励与经济行为的关系，探讨医院不同的产权结构对收益–报酬制度及资源配置的影响，强调产权医院不同产权在经济交易中作用的理论。"
+  },
+  {
+   "cn": "思想史",
+   "en": "intellectual history",
+   "source": "社会学名词",
+   "wordNumber": "3.13.2.1",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的相关范式思路",
+   "subjectName": "历史社会学的相关范式思路",
+   "publishYear": "2025",
+   "definition": "关于人类理智创造和理解随着时间的推移而不断传播、存续和变化过程的一种研究。主张思想是人类理智能力的功能，而创造和理解则是人类思想或理智能力的表现，认识到人类生活的有意义性并将这一理解与人类生活的意义紧"
+  },
+  {
+   "cn": "有机的知识分子",
+   "en": "organic intellectual",
+   "source": "马克思主义",
+   "wordNumber": "05.0007",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "葛兰西在《狱中札记》中提出的概念。葛兰西基于社会生产方式的历史性特点，将知识分子划分为“传统的”知识分子和“有机的”知识分子两种类型。前者是指在社会变动过程中，凭借文化的持续传承而保持相对稳定地位的知"
+  },
+  {
+   "cn": "智力残疾",
+   "en": "intellectual disability",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "智力明显低于一般人的水平，并伴有适应行为障碍者。包括在智力发育期间由各种有害因素导致精神发育迟滞或智力落后、智力发育成熟后由各种有害因素导致的智力损害及老年期智力的衰退。"
+  },
+  {
+   "cn": "智力障碍",
+   "en": "intellectual disorder",
+   "source": "医学伦理学名词",
+   "wordNumber": "5.011",
+   "subjectFullName": "医学伦理学_临床诊疗伦理",
+   "subjectName": "临床诊疗伦理",
+   "publishYear": "2025",
+   "definition": "记忆、认知、语言、视空间功能和人格等至少三项受损的临床综合征。常由神经系统疾病、精神疾病和躯体疾病引起。主要症状包括记忆障碍、思维与判断力障碍、性格改变、情感障碍等。"
+  },
+  {
+   "cn": "苏维埃知识分子",
+   "en": "Soviet intellectuals",
+   "source": "马克思主义",
+   "wordNumber": "04.0106",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "随着从旧俄到苏联的政治和社会转型，知识分子思想改造基本完成，以及新培养知识分子的成长，以政治忠诚、工农出身、业务称职为基本特征的苏维埃知识分子队伍形成。斯大林在1936年宪法草案报告中说，过去时期“我"
+  },
+  {
+   "cn": "财产",
+   "en": "property",
+   "source": "马克思主义",
+   "wordNumber": "04.0038",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "财产最初意味着劳动的主体把自己的生产或再生产的条件看作是自己的东西。马克思认为财产是在复杂的阶级和社会阶层的制度中起重要作用的一种基本关系。财产形式的变化是标志经济社会形态演替的主要特征。"
+  },
+  {
+   "cn": "智力障碍",
+   "en": "intellectual disorder, ID",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.2.3.4",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "在发育阶段发生的一种神经发育障碍，同时存在智力和适应功能两方面缺陷，这些缺陷可表现在概念、社交和实用领域。"
+  },
+  {
+   "cn": "智力残疾筛查",
+   "en": "intellectual disability screening",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.4.3.4",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童保健管理",
+   "subjectName": "儿童保健管理",
+   "publishYear": "2025",
+   "definition": "分为初筛和复筛两阶段，通过儿童发育问题预警征象观察、标准化发育筛查量表评估，检查儿童是否存在智力发育偏异问题，以早期诊断、早期治疗干预的方法。"
+  },
+  {
+   "cn": "智力残疾一级",
+   "en": "intellectual disability grade Ⅰ",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.3.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "智商<20或发育商≤25，表现为面容明显呆滞，终身生活需要全部由他人照料，运动感觉功能极差，通过训练，只在下肢、手及额的运动方面有所反应。"
+  },
+  {
+   "cn": "智力残疾二级",
+   "en": "intellectual disability grade Ⅱ",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.3.3.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "智商在20~34之间或发育商26~39之间，表现为生活能力即使经过训练也很难达到自理，仍需他人照顾，运动、语言发育差，与人交往能力也差。"
+  },
+  {
+   "cn": "智力残疾三级",
+   "en": "intellectual disability grade Ⅲ",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.3.3.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "智商在35~49之间或发育商40~54之间，表现为实用技能不完全，如生活能部分自理，能做简单的家务劳动，具有初步的卫生和安全常识，能以简单方式与人交往，阅读和计算能力差，周围环境辨别能力很差。"
+  },
+  {
+   "cn": "权利",
+   "en": "rights",
+   "source": "马克思主义",
+   "wordNumber": "03.0138",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "阶级社会不同阶级在政治、经济、文化等方面享有的不同权力和利益。在阶级社会，公民的权利是按照财产状况分级规定的。而被统治阶级要争得权利，就要使这个阶级的要求和权利成为整个社会本身的权利和要求，才能引起社"
+  },
+  {
+   "cn": "抗渗水性",
+   "en": "waterproof property",
+   "source": "消毒学",
+   "wordNumber": "1.7.1.18",
+   "subjectFullName": "消毒学_消毒学_防护",
+   "subjectName": "防护",
+   "publishYear": "2025",
+   "definition": "织物能够防止被水润湿和浸透的能力。"
+  },
+  {
+   "cn": "财产性收入",
+   "en": "property income",
+   "source": "马克思主义",
+   "wordNumber": "02.0426",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "经济主体凭借拥有的动产（如银行存款、有价证券等）、不动产（如房屋、车辆、土地、收藏品等）所获得的收入。它包括出让财产使用权所获得的利息、租金、专利收入，以及财产营运所获得的红利收入、财产增值收益等。"
+  },
+  {
+   "cn": "族产",
+   "en": "clan property",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0149",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "宗族的公有财产，是维持家族制度的经济支柱。民间族产包括土地、耕牛、山场、桥渡、沿海滩涂及水利工程、水碓、碾房等生产和生活设施。"
+  },
+  {
+   "cn": "测量性能",
+   "en": "measurement property",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.2",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "测量工具质量的属性。包括信度、效度、反应度和可解释性等。"
+  },
+  {
+   "cn": "智力残疾四级",
+   "en": "intellectual disability grade IV",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.3.3.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "智商在50~69之间或发育商55~75之间，表现为具有相当的实用技能，对周围环境有较好的辨别能力，能比较恰当地与人交往，一般在指导下能适应社会，经过特殊教育可以获得一定的阅读和计算能力。"
+  },
+  {
+   "cn": "团结教育知识分子",
+   "en": "unite and educate intellectuals",
+   "source": "马克思主义",
+   "wordNumber": "03.0467",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东1939年为中共中央起草的关于大量吸收知识分子的决定中提出的，是中国共产党在民主革命时期和建国初期对知识分子的一项政策。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

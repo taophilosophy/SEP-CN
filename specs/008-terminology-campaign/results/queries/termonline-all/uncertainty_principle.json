@@ -1,0 +1,742 @@
+{
+ "key": "uncertainty principle",
+ "term": "Uncertainty Principle",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T00:37:17+00:00",
+ "status": "ok",
+ "note": "variant=Uncertainty Principle; 审定公布名词库=909; 海峡两岸名词对照库=203; 其他来源数据库=63; 预公布名词数据库=117; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "不确定性原理",
+   "en": "uncertainty principle",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.376",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_物理学哲学",
+   "subjectName": "物理学哲学",
+   "publishYear": "2024",
+   "definition": "W. K. 海森伯（W. K. Heisenberg）于1927年提出。其指出：不可能同时精确确定一个基本粒子的位置和动量。两个不对易的力学量（如坐标与位置）不能同时具有确定的值。也被称为“测不准原理"
+  },
+  {
+   "cn": "不确定性原理",
+   "en": "uncertainty principle",
+   "source": "生物物理学名词",
+   "wordNumber": "01.053",
+   "subjectFullName": "生物物理学_概论",
+   "subjectName": "概论",
+   "publishYear": "2018",
+   "definition": "1927年德国著名物理学家海森堡(W. Heisenberg)提出量子力学的一个重要原理。指出：不可能同时精确确定一个基本粒子的位置和动量。由该原理可以导出生物物理学实验中若干无法克服的限制。量子力学"
+  },
+  {
+   "cn": "不确定[性]原理",
+   "en": "uncertainty principle",
+   "source": "化学名词",
+   "wordNumber": "04.1162",
+   "subjectFullName": "化学_物理化学_物质结构、理论和计算化学",
+   "subjectName": "物质结构、理论和计算化学",
+   "publishYear": "2016",
+   "definition": "1个微观粒子的某些成对的物理量不可能同时具有确定的数值。例如位置与动量、能量与时间，其中1个量越确定，另一个量就越不确定。这是量子力学的1个基本特点，由海森伯于1927年提出。"
+  },
+  {
+   "cn": "[海森伯]不确定性原理",
+   "en": "[Heisenberg] uncertainty principle",
+   "source": "物理学名词",
+   "wordNumber": "06.0447",
+   "subjectFullName": "物理学_相对论、量子理论_量子理论",
+   "subjectName": "量子理论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "不确定性",
+   "en": "uncertainty",
+   "source": "经济学名词",
+   "wordNumber": "03.072",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "经济主体既不能确定某种经济事件在未来产生的结果，也不能确定经济事件产生各种结果的可能性大小。出现不确定性的原因在于经济主体作为决策者在很大程度上对未来的认识是不完全的，或者经济主体的行为本身就具有不确"
+  },
+  {
+   "cn": "不确定性",
+   "en": "uncertainty",
+   "source": "食品科学技术名词",
+   "wordNumber": "04.0329",
+   "subjectFullName": "食品科学技术_食品安全_食品安全风险分析_风险评估",
+   "subjectName": "风险评估",
+   "publishYear": "2020",
+   "definition": "当一个事件或变量取值无法准确确定时，通常用可能发生的概率或区间表示。在进行风险特征描述时，应对所有可能的不确定性进行明确的描述和必要的解释。"
+  },
+  {
+   "cn": "不确定度",
+   "en": "uncertainty",
+   "source": "化工名词（四）安全·环保·可持续发展",
+   "wordNumber": "02.593",
+   "subjectFullName": "化工（四）_炼油与化工企业健康-安全-环境管理_环境监测与统计",
+   "subjectName": "环境监测与统计",
+   "publishYear": "2020",
+   "definition": "表征合理地赋予被测量值的分散性，与测量结果相联系的参数。"
+  },
+  {
+   "cn": "不确定度",
+   "en": "uncertainty",
+   "source": "物理学名词",
+   "wordNumber": "01.0283",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "不确定度",
+   "en": "uncertainty",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "05.0024",
+   "subjectFullName": "化工（三）_数据处理",
+   "subjectName": "数据处理",
+   "publishYear": "2019",
+   "definition": "表征某随机变量发生的不可靠性的物理量。"
+  },
+  {
+   "cn": "不确定度",
+   "en": "uncertainty",
+   "source": "化学名词",
+   "wordNumber": "03.0381",
+   "subjectFullName": "化学_分析化学_化学计量学",
+   "subjectName": "化学计量学",
+   "publishYear": "2016",
+   "definition": "与测量结果相关联的、表征合理的赋予被测量的值分散性的参数。是描述未定误差特征的量值。"
+  },
+  {
+   "cn": "不确定性",
+   "en": "uncertainty",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0338",
+   "subjectFullName": "管理科学技术_运筹与管理_预测理论与方法",
+   "subjectName": "预测理论与方法",
+   "publishYear": "2016",
+   "definition": "系统对于环境信息完全性程度的反馈和可知性程度。"
+  },
+  {
+   "cn": "金融不确定性",
+   "en": "uncertainty",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0061",
+   "subjectFullName": "管理科学技术_金融工程_原理",
+   "subjectName": "原理",
+   "publishYear": "2016",
+   "definition": "个体在承受风险情况下其偏好的特征。厌恶风险的人们在相同的成本下更倾向于做出低风险的选择。"
+  },
+  {
+   "cn": "不确定性",
+   "en": "uncertainty",
+   "source": "药学名词",
+   "wordNumber": "10.020",
+   "subjectFullName": "药学_药物经济学",
+   "subjectName": "药物经济学",
+   "publishYear": "2014",
+   "definition": "当一个事件或变量取值无法准确确定，通常用可能发生的概率或区间表示。"
+  },
+  {
+   "cn": "不确定性",
+   "en": "uncertainty",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.028",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "从属于测量结果的一个参数，它表示测量值的离中趋势，从而通过以离中趋势来表明测量结果正确性的精密度。"
+  },
+  {
+   "cn": "不确定性",
+   "en": "uncertainty",
+   "source": "地理学名词",
+   "wordNumber": "25.027",
+   "subjectFullName": "地理学_数量地理学",
+   "subjectName": "数量地理学",
+   "publishYear": "2006",
+   "definition": "系统状态过程随机或者无规律可循。"
+  },
+  {
+   "cn": "不确定性",
+   "en": "uncertainty",
+   "source": "化学工程名词",
+   "wordNumber": "07.024",
+   "subjectFullName": "化学工程_数据处理",
+   "subjectName": "数据处理",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "不定度",
+   "en": "uncertainty",
+   "source": "数学名词",
+   "wordNumber": "012.0028",
+   "subjectFullName": "数学_信息论_控制论_信息·编码（数学）",
+   "subjectName": "信息?编码（数学）",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "不确定度",
+   "en": "uncertainty",
+   "source": "电子学名词",
+   "wordNumber": "17.033",
+   "subjectFullName": "电子学_电子测量与仪器",
+   "subjectName": "电子测量与仪器",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "测量不确定度",
+   "en": "measurement uncertainty",
+   "source": "农学名词",
+   "wordNumber": "18.021",
+   "subjectFullName": "农产品质量安全_农产品质量安全监测",
+   "subjectName": "农产品质量安全监测",
+   "publishYear": "2025",
+   "definition": "根据所用到的信息，表征赋予被测量量值分散的非负参数。"
+  },
+  {
+   "cn": "不确定系数",
+   "en": "uncertainty factor",
+   "source": "农学名词",
+   "wordNumber": "18.167",
+   "subjectFullName": "农产品质量安全_农产品质量安全管理",
+   "subjectName": "农产品质量安全管理",
+   "publishYear": "2025",
+   "definition": "一种简约系数。观察到的或估计的未观察到不良作用水平除以该系数，可得到一个认为是安全的或无可察觉风险的标准。"
+  },
+  {
+   "cn": "不确定性",
+   "en": "uncertainty",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "不确定度",
+   "en": "uncertainty",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "不确定性",
+   "en": "uncertainty",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "不确定性",
+   "en": "uncertainty",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "不确定度",
+   "en": "uncertainty",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "不明阶段",
+   "en": "uncertainty phase",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "原理",
+   "en": "principle",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "原则",
+   "en": "principle",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "原理",
+   "en": "principle",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "最大误差圆",
+   "en": "circle of uncertainty",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "[船位]误差圆",
+   "en": "circle of uncertainty",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "苦味素",
+   "en": "bitter principle",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "费马原理",
+   "en": "Fermat principle",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "转化原理",
+   "en": "conversion principle",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "操作原理",
+   "en": "operating principle",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "最小值原理",
+   "en": "minimum principle",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "杠杆原理",
+   "en": "lever principle",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "极大值原理",
+   "en": "maximum principle",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "叠加原理",
+   "en": "superposition principle",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "动量原理",
+   "en": "momentum principle",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "不确定[性]原理",
+   "en": "uncertainty principle",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "万物之理",
+   "en": "Universal Principle",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "多语言原则",
+   "en": "multilingual principle",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "通知原则",
+   "en": "notice principle",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "完整性原则",
+   "en": "integrity principle",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "目的性原则",
+   "en": "purpose principle",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "选择原则",
+   "en": "choice principle",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "转移原则",
+   "en": "transfer principle",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全原则",
+   "en": "security principle",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "准入原则",
+   "en": "access principle",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "执行原则",
+   "en": "implementation principle",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大节",
+   "en": "Major Principles",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "小节",
+   "en": "Minor Principles",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "不确定度",
+   "en": "uncertainty",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.5.3",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "对所关注的生物体、系统或（亚）人群当前或未来状态的不完全了解的程度。例如缺乏对某一数量“真实”值的了解、缺乏对哪个可选模型最能描述所关注系统的了解，或缺乏哪种分布函数及其参数能代表所关注数值的了解。"
+  },
+  {
+   "cn": "测量不确定度",
+   "en": "measurement uncertainty",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.22",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "利用可获得的信息，表征赋予被测量量值分散性的非负参数。"
+  },
+  {
+   "cn": "标准不确定度",
+   "en": "standard uncertainty",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.23",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "以标准偏差表示的测量不确定度。"
+  },
+  {
+   "cn": "扩展不确定度",
+   "en": "expanded uncertainty",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.27",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "合成标准不确定度与一个大于1的数字因子的乘积。"
+  },
+  {
+   "cn": "不确定性分析",
+   "en": "uncertainty analysis",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.5.4",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "发现估计值中的不确定性来源并对结果误差的大小和方向进行评估的过程。"
+  },
+  {
+   "cn": "不确定度",
+   "en": "expanded uncertainty",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.66",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "与测量结果相关联的、表征合理的赋予被测量的值分散性的参数。是描述未定误差特征的量值。"
+  },
+  {
+   "cn": "原则",
+   "en": "principle",
+   "source": "马克思主义",
+   "wordNumber": "04.0059",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "指导言论和行动的理论规定。在社会生活中，原则常被作为人们言行的准则。在具体科学中含有公理性质的意思。原则是人们在社会实践中对客观事物及其规律进行的抽象，是一般原理。原则具有相对稳定性，但并不是凝固不变"
+  },
+  {
+   "cn": "不确定系数",
+   "en": "uncertainty factor, UF",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.40",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "在制定健康指导值时所应用的从实验动物外推到人（假定人最敏感）或从部分个体外推到一般人群时的复合系数。"
+  },
+  {
+   "cn": "合成标准不确定度",
+   "en": "combined standard uncertainty",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.26",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "由在一个测量模型中各输入量的标准不确定度获得的输出量的标准不确定度。"
+  },
+  {
+   "cn": "相对扩展不确定度",
+   "en": "relative expanded uncertainty",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.28",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "扩展不确定度除以测量结果的百分率。"
+  },
+  {
+   "cn": "疾病的不确定性",
+   "en": "uncertainty of disease",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.2.3.1",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场",
+   "subjectName": "卫生服务市场",
+   "publishYear": "2025",
+   "definition": "疾病的发生具有偶然性和突发性，其进展、严重程度、结局状态等难以准确预测。包括个体发病率不确定、疾病治疗效果的不确定、消费者健康状况以及对医疗服务的需求存在不确定性等。"
+  },
+  {
+   "cn": "时序性原则",
+   "en": "chronological principle",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.3.9",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护",
+   "subjectName": "放射工作人员健康监护",
+   "publishYear": "2025",
+   "definition": "职业性放射性疾病一定发生在职业接触电离辐射之后，并符合放射性疾病生物学潜隐期的客观规律。"
+  },
+  {
+   "cn": "法律原理",
+   "en": "legal principle",
+   "source": "社会学名词",
+   "wordNumber": "3.7.7.2",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律多元主义",
+   "subjectName": "法律多元主义",
+   "publishYear": "2025",
+   "definition": "与特定法律有联系，建立、证明或补充、批评、修正现存法律规则的价值、理念及其体系。"
+  },
+  {
+   "cn": "谨慎原则",
+   "en": "precautionary principle",
+   "source": "社会学名词",
+   "wordNumber": "3.14.5.2",
+   "subjectFullName": "社会学名词_分支社会学环境社会学",
+   "subjectName": "分支社会学环境社会学",
+   "publishYear": "2025",
+   "definition": "如果一个行动或政策有可能引发危害公众或环境的风险，在没有一致的科学意见认为行动或政策有害的情况下，证明行动无害的举证责任就落在那些要采取行动的人身上。"
+  },
+  {
+   "cn": "头尾发展律",
+   "en": "cephalocaudal principle",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.1.10.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育规律",
+   "subjectName": "生长发育规律",
+   "publishYear": "2025",
+   "definition": "胎儿至婴幼儿期体格和粗大动作发育遵循从头部到尾部发展的程序性。"
+  },
+  {
+   "cn": "近侧发展律",
+   "en": "proximodistal principle",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.1.10.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育规律",
+   "subjectName": "生长发育规律",
+   "publishYear": "2025",
+   "definition": "胎儿期至儿童期体格发育遵循从身体的近端（或中心）到远端（或外周）发展的程序性。表现为躯干的生长先于四肢，四肢的近端生长先于远端。"
+  },
+  {
+   "cn": "相互作用原理",
+   "en": "interrelated principle",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "1.6.3.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生学_妇幼卫生理论",
+   "subjectName": "妇幼卫生理论",
+   "publishYear": "2025",
+   "definition": "个体的行为嵌套于具体的社会关系之中，受社会影响的同时也在影响社会的学说。"
+  },
+  {
+   "cn": "参与原则",
+   "en": "participation principle",
+   "source": "社会医学名词",
+   "wordNumber": "10.2.1.4.7.2",
+   "subjectFullName": "政策与策略",
+   "subjectName": "策略",
+   "publishYear": "2025",
+   "definition": "在卫生政策与服务的制定、执行与评估过程中，应确保公众、社区和各类相关利益方的积极参与，提升政策的可接受性、适用性与持续性。"
+  },
+  {
+   "cn": "保密原则",
+   "en": "confidentiality principle",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.074",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "医务人员、研究人员及相关机构对患者或研究参与者在诊疗或参与医学活动过程中提供的个人信息、健康状况、医疗记录等隐私数据负有严格保密义务，未经当事人明确授权不得向第三方泄露的伦理原则。"
+  },
+  {
+   "cn": "裂变原则",
+   "en": "fission principle",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0541",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "英国人类学家埃文斯-普理查德（Evans-Pritchard）在其代表作《努尔人》一书中提出，该原则是在一种无国家的社会组织中被注意到的社会组织原则。在无国家社会中，人们根据血缘关系的亲疏来组成不同的"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

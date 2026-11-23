@@ -1,0 +1,772 @@
+{
+ "key": "mutual knowledge",
+ "term": "mutual knowledge",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T00:34:52+00:00",
+ "status": "ok",
+ "note": "variant=mutual knowledge; 审定公布名词库=1488; 海峡两岸名词对照库=475; 其他来源数据库=107; 预公布名词数据库=59; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "互利共生",
+   "en": "mutualism",
+   "source": "农学名词",
+   "wordNumber": "15.272",
+   "subjectFullName": "农业生物技术_微生物组工程",
+   "subjectName": "微生物组工程",
+   "publishYear": "2025",
+   "definition": "两个物种在共同生存的过程中以互相依赖和双方受益为必要条件的生存形式。"
+  },
+  {
+   "cn": "互利共生",
+   "en": "mutualism",
+   "source": "兽医学名词",
+   "wordNumber": "12.002",
+   "subjectFullName": "兽医学_兽医寄生虫学",
+   "subjectName": "兽医寄生虫学",
+   "publishYear": "2023",
+   "definition": "共生的双方互有裨益，可以发展成一种固定的、永久的关系，达到彼此不可分离程度的共生方式。"
+  },
+  {
+   "cn": "互利共生",
+   "en": "mutualism ",
+   "source": "草学名词",
+   "wordNumber": "2.0067",
+   "subjectFullName": "草学_草地生态与草地培育_草地生态",
+   "subjectName": "草地生态",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "互利共生",
+   "en": "mutualism",
+   "source": "植物学名词",
+   "wordNumber": "13.0189",
+   "subjectFullName": "植物学_植物生态学_植物种群生态学",
+   "subjectName": "植物种群生态学",
+   "publishYear": "2019",
+   "definition": "两种生物生活在一起，彼此有利，两者分开以后都不能独立生活的现象。"
+  },
+  {
+   "cn": "互利共生",
+   "en": "mutualism",
+   "source": "地方病学名词",
+   "wordNumber": "09.006",
+   "subjectFullName": "地方病学_寄生虫病_概述",
+   "subjectName": "概述",
+   "publishYear": "2016",
+   "definition": "两种生物相互依赖，长期共存，双方均获益的共生关系。"
+  },
+  {
+   "cn": "互利共生",
+   "en": "mutualism",
+   "source": "微生物学名词",
+   "wordNumber": "07.107",
+   "subjectFullName": "微生物学_微生物生态学",
+   "subjectName": "微生物生态学",
+   "publishYear": "2012",
+   "definition": "两物种以彼此相互依赖为生存之必要条件的相互关系。"
+  },
+  {
+   "cn": "互利共生",
+   "en": "mutualism",
+   "source": "生态学名词",
+   "wordNumber": "05.158",
+   "subjectFullName": "生态学_种群生态学",
+   "subjectName": "种群生态学",
+   "publishYear": "2006",
+   "definition": "两物种长期共同生活在一起，彼此相互依赖，双方获利且达到了彼此不能离开独立生存之程度的一种共生现象。"
+  },
+  {
+   "cn": "互惠共生",
+   "en": "mutualism",
+   "source": "地理学名词",
+   "wordNumber": "06.100",
+   "subjectFullName": "地理学_生物地理学",
+   "subjectName": "生物地理学",
+   "publishYear": "2006",
+   "definition": "两种生物生活在一起，相互依赖、双方受益的现象。"
+  },
+  {
+   "cn": "互利共生",
+   "en": "mutualism",
+   "source": "昆虫学名词",
+   "wordNumber": "06.174",
+   "subjectFullName": "昆虫学_昆虫生态学",
+   "subjectName": "昆虫生态学",
+   "publishYear": "2000",
+   "definition": "两种昆虫生活在一起，双方都能从中获益的共生现象。"
+  },
+  {
+   "cn": "互利共栖现象",
+   "en": "mutualism",
+   "source": "土壤学名词",
+   "wordNumber": "05.014",
+   "subjectFullName": "土壤学_土壤生物与土壤生物化学",
+   "subjectName": "土壤生物与土壤生物化学",
+   "publishYear": "1998",
+   "definition": "生活在同一生境的两种生物相互从对方受益的现象。"
+  },
+  {
+   "cn": "知识",
+   "en": "knowledge",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "01.019",
+   "subjectFullName": "图书馆·情报与文献学_图书馆学情报学基础_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "与使用者的能力和经验结合在一起的信息，或通过学习、实践或探索所获得的认识、判断或技能。用以解决某个问题或创造新的知识。"
+  },
+  {
+   "cn": "知识",
+   "en": "knowledge",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0617",
+   "subjectFullName": "计算机科学技术_人工智能_知识工程",
+   "subjectName": "知识工程",
+   "publishYear": "2018",
+   "definition": "问题求解所需的信息的总和。其中信息是经过整理的、结构化的。知识具有产生或者有助于产生新信息的能力。"
+  },
+  {
+   "cn": "知识",
+   "en": "knowledge",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0712",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_知识管理",
+   "subjectName": "知识管理",
+   "publishYear": "2016",
+   "definition": "人们通过实践和学习对客观事物及其运动过程和规律的认识结果。包括事实、信念、观点、观念、概念、判断、方法和技术诀窍等。"
+  },
+  {
+   "cn": "知识",
+   "en": "knowledge",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "09.088",
+   "subjectFullName": "全科医学与社区卫生_社区健康教育与健康促进",
+   "subjectName": "社区健康教育与健康促进",
+   "publishYear": "2014",
+   "definition": "人对世界的认识和经验的总和。"
+  },
+  {
+   "cn": "互溶剂",
+   "en": "mutual solvent",
+   "source": "精细化工名词",
+   "wordNumber": "08.0176",
+   "subjectFullName": "精细化工_其他精细化学品_油田化学品",
+   "subjectName": "油田化学品",
+   "publishYear": "2025",
+   "definition": "能使油和水互溶的化学剂。"
+  },
+  {
+   "cn": "相须",
+   "en": "mutual promotion",
+   "source": "兽医学名词",
+   "wordNumber": "19.298",
+   "subjectFullName": "兽医学_中兽医学",
+   "subjectName": "中兽医学",
+   "publishYear": "2023",
+   "definition": "性能功效相似的药物配合应用，以起到协同作用，增强药物疗效的配伍关系。"
+  },
+  {
+   "cn": "相使",
+   "en": "mutual enhancement",
+   "source": "兽医学名词",
+   "wordNumber": "19.299",
+   "subjectFullName": "兽医学_中兽医学",
+   "subjectName": "中兽医学",
+   "publishYear": "2023",
+   "definition": "性能功效有某种共性的不同类药物配合应用，而以一种药物为主，另一种药物为辅，能提高主药功效的配伍关系。"
+  },
+  {
+   "cn": "相恶",
+   "en": "mutual inhibition",
+   "source": "兽医学名词",
+   "wordNumber": "19.302",
+   "subjectFullName": "兽医学_中兽医学",
+   "subjectName": "中兽医学",
+   "publishYear": "2023",
+   "definition": "两种药物配合应用，能相互牵制而使药效降低甚至丧失的配伍关系。"
+  },
+  {
+   "cn": "互感应",
+   "en": "mutual induction",
+   "source": "电力名词",
+   "wordNumber": "01.066",
+   "subjectFullName": "电力_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "一个导体中的电流变化在另一个导体中产生的电磁感应。"
+  },
+  {
+   "cn": "互感器",
+   "en": "mutual inductor",
+   "source": "物理学名词",
+   "wordNumber": "03.0575",
+   "subjectFullName": "物理学_电磁学",
+   "subjectName": "电磁学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "互利共生,互惠共生",
+   "en": "mutualism",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "互利共生",
+   "en": "mutualism",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "互惠共生",
+   "en": "mutualism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "互利共生，互惠共生",
+   "en": "mutualism",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "知识",
+   "en": "knowledge",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "互溶度",
+   "en": "mutual solubility",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "互扩散",
+   "en": "mutual diffusion",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "共同基金，互助基金",
+   "en": "mutual fund",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "互助储蓄",
+   "en": "mutual saving",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "相互保险，互助保险",
+   "en": "mutual insurance",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "相互承兑",
+   "en": "mutual acceptance",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "相互控股",
+   "en": "mutual holding",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "共有基金",
+   "en": "mutual fund",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "互感[应]",
+   "en": "mutual induction",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "互相怀疑",
+   "en": "mutual suspicion",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "互信息",
+   "en": "mutual information",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "互阻抗",
+   "en": "mutual impedance",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "互抗",
+   "en": "mutual antagonism",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "相恶",
+   "en": "mutual inhibition",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "相须",
+   "en": "mutual promotion",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "互信息",
+   "en": "mutual information",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "互不得分",
+   "en": "mutual loss",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "互信互认机制",
+   "en": "mutual recognition and mutual trust",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "常识",
+   "en": "General Knowledge",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识工程",
+   "en": "Knowledge Engineering",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识图谱",
+   "en": "knowledge graph",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "元知识",
+   "en": "meta-knowledge",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识发现",
+   "en": "knowledge discovery",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识表示",
+   "en": "knowledge representation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识管理",
+   "en": "knowledge management",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识工程师",
+   "en": "knowledge engineer",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识用户",
+   "en": "knowledge user",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识库",
+   "en": "knowledge base",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识产业",
+   "en": "knowledge industry",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识编辑器",
+   "en": "knowledge editor",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识共享",
+   "en": "knowledge sharing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "互助论",
+   "en": "mutualism",
+   "source": "马克思主义",
+   "wordNumber": "04.0310",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "以宣扬人类依靠互助的本就能建立和谐的社会生活，而无须借助否定一切权威和政权强制的无政府主义思潮。代表人物有蒲鲁东、克鲁泡特金等。他们反对工人阶级旨在稍稍改善他们状况的一切尝试，如罢工、组织同盟和参与政"
+  },
+  {
+   "cn": "知识社会",
+   "en": "knowledge society",
+   "source": "社会学名词",
+   "wordNumber": "2.1.2.5",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会形式",
+   "subjectName": "社会形式",
+   "publishYear": "2025",
+   "definition": "知识成为生产力及其发展的重要特征、知识和智力开发在社会发展中日益具有突出作用的社会。"
+  },
+  {
+   "cn": "法律知识",
+   "en": "legal knowledge",
+   "source": "社会学名词",
+   "wordNumber": "3.7.8.3",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律文化",
+   "subjectName": "法律文化",
+   "publishYear": "2025",
+   "definition": "人们有关法和法律现象的知识。"
+  },
+  {
+   "cn": "默会知识",
+   "en": "tacit knowledge",
+   "source": "社会学名词",
+   "wordNumber": "3.10.2.6",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学知识",
+   "subjectName": "科学知识",
+   "publishYear": "2025",
+   "definition": "主要相对于显性知识而言，是一种只可意会不可言传的知识，一种经常使用却又不能通过语言文字符号予以清晰表达或直接传递的知识。"
+  },
+  {
+   "cn": "地方性知识",
+   "en": "local knowledge",
+   "source": "社会学名词",
+   "wordNumber": "4.2.9.14",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化现象",
+   "subjectName": "文化现象",
+   "publishYear": "2025",
+   "definition": "相对于宏大叙事而言的现场知识系统。此概念由格尔茨(C.Geertz）于1970年代提出，强调在特定语境下被相互紧密关联的人与事编制起来的意义系统，它常见于相互认同的人群当中，职场、草根、在地等均属于这"
+  },
+  {
+   "cn": "知识经济",
+   "en": "knowledge economy",
+   "source": "马克思主义",
+   "wordNumber": "02.0422",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "一种与农业经济、工业经济等相对应的，以现代科学技术为核心、建立在知识和信息的生产、分配和使用基础上的以知识为主要生产要素的经济。"
+  },
+  {
+   "cn": "健康知识",
+   "en": "health knowledge",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.8.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育与健康促进评价",
+   "subjectName": "学校健康教育与健康促进评价",
+   "publishYear": "2025",
+   "definition": "个体通过学习、实践或探索所获得的信息和认识。健康教育评价指标之一，旨在评价个体对健康信息的正确理解程度。"
+  },
+  {
+   "cn": "良知",
+   "en": "intuitive knowledge",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.104",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人与生俱来的、先天具有的判断是非善恶的道德意识和道德本能。是人的天赋善良本心的能动作用，主宰着人的一切道德行为，是人的最高的道德理性和道德本能。"
+  },
+  {
+   "cn": "地方性知识",
+   "en": "local knowledge",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0611",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "美国阐释人类学代表格尔茨（Clifford Geertz）提出的概念，意指从本地人的观点出发“解释”本地人（被研究者）的文化。"
+  },
+  {
+   "cn": "共同参与型模式",
+   "en": "mutual participation model",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.077",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "萨斯-霍伦德模式的一种。在此模式中，医患双方具有同等的主动性，共同参与诊疗计划的决策、制订和实施。适用大多数慢性疾病和能够清晰表达自己的意愿并有相当医学知识的患者。"
+  },
+  {
+   "cn": "互助会",
+   "en": "mutual aid saving union",
+   "source": "社会学名词",
+   "wordNumber": "2.5.2.1",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织化群体",
+   "subjectName": "组织化群体",
+   "publishYear": "2025",
+   "definition": "员工在工作单位或集体组织支持下自愿集资，以储金借贷方式开展互救互济活动，共同克服自然灾害及其他困难，以保证基本生活需求的民间合作性互助组织。"
+  },
+  {
+   "cn": "知识社会学",
+   "en": "sociology of knowledge",
+   "source": "社会学名词",
+   "wordNumber": "3.10.1.6",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学研究",
+   "subjectName": "科学研究",
+   "publishYear": "2025",
+   "definition": "社会学的一门分支学科，主要研究知识与社会和文化等实质性因素之间的相互关系。早期研究只涉及数学和自然科学知识方面的社会学分析，后又扩展到关于知识生产、知识生产的组织、知识的传播与使用、知识政策、知识系统"
+  },
+  {
+   "cn": "长期共存互相监督",
+   "en": "longterm coexistence and mutual supervision",
+   "source": "马克思主义",
+   "wordNumber": "03.0396",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1956年4月，毛泽东在《论十大关系》中提出的正确处理中国共产党与各民主党派关系的方针。“长期共存”指坚持在共同政治基础上的多党派长期合作；“互相监督”需坚持中国共产党领导和社会主义道路等六项政治标准"
+  },
+  {
+   "cn": "经济互助委员会",
+   "en": "Council for Mutual Economic Assistance",
+   "source": "马克思主义",
+   "wordNumber": "04.0440",
+   "subjectFullName": "马克思主义_其他部分_重要组织政党_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "由苏联发起、社会主义国家组成的政治经济合作组织，为继承“莫洛托夫计划”的经济合作计划于1949年成立，总部设在莫斯科。1949年1月，苏联、保加利亚、匈牙利、波兰、罗马尼亚、捷克在莫斯科协议成立。后有"
+  },
+  {
+   "cn": "科学知识社会学",
+   "en": "sociology of scientific knowledge",
+   "source": "社会学名词",
+   "wordNumber": "3.10.1.7",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学研究",
+   "subjectName": "科学研究",
+   "publishYear": "2025",
+   "definition": "一种以科学知识本身作为学术考察对象而形成的包括科学哲学、科学史、科学社会学和科学文化的批判性研究领域，认为科学知识的构成完全是社会性的，主张将科学知识纳入到社会学分析之中，探讨社会因素对科学知识形成的"
+  },
+  {
+   "cn": "科学知识的体系化",
+   "en": "systematic of scientific knowledge",
+   "source": "社会学名词",
+   "wordNumber": "3.10.2.1",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学知识",
+   "subjectName": "科学知识",
+   "publishYear": "2025",
+   "definition": "把科学知识加以整理，转变为简洁的和相互关联的系统的理论阐述。"
+  },
+  {
+   "cn": "科学知识的积累",
+   "en": "accumulation of scientific knowledge",
+   "source": "社会学名词",
+   "wordNumber": "3.10.2.7",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学知识",
+   "subjectName": "科学知识",
+   "publishYear": "2025",
+   "definition": "在科学领域中，经验—实证性知识和理论知识逐步累积和增长的过程。科学社会学认为，科学知识是经过社会与文化环境诸因素的影响，选择性积累的结果。"
+  },
+  {
+   "cn": "尊重知识尊重人才",
+   "en": "respect knowledge value talents",
+   "source": "马克思主义",
+   "wordNumber": "04.0183",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "邓小平总结我党历史上对待知识分子正反两方面的经验，于1984年10月22日在中顾委第三次会议上正式提出的著名论断。“尊重知识、尊重人才”要求在重视科学技术在现代化建设中的重要作用的同时，要充分认识到知"
+  },
+  {
+   "cn": "自助—互助型组织",
+   "en": "self-help or mutual-help organization",
+   "source": "社会学名词",
+   "wordNumber": "4.4.8.30",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的方法模式",
+   "subjectName": "社会工作的方法模式",
+   "publishYear": "2025",
+   "definition": "不依靠组织以外的资源，利用组织成员自己的资源作为支持，通过彼此互助达到解决组织内部或者外部的问题的组织。"
+  },
+  {
+   "cn": "农业生产互助组",
+   "en": "mutual aid team for agricultural production",
+   "source": "马克思主义",
+   "wordNumber": "02.0363",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国农村个体经济向社会主义集体经济过渡的初级形式。劳动农民在个体经济的基础上，为了解决劳力、耕畜、农具缺乏的困难，按照自愿互利原则组织起来的劳动互助组织。一般由几户至或十几户组成，实行共同劳动、分散经"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

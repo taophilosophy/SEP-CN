@@ -100,3 +100,18 @@
 * 排除 10 条：MacLeod, Colin（籍属与多伦多大学心理学家不符）、McKay, Thomas（生物工程师）、Meskin, Aaron（生年与已知美学家不符）、Moran, Thomas（作家）、Murphy, Peter（作家兼法官）、Nishimura（仅姓氏）、Pease, Adam（计算机科学家）、Perry, John（罗德学者）、Radcliff（军人）、Richmond, Marsha（生年 1901 与当代科学史家不符）。全部入 EXCLUDE 并记证据。
 * 纪年口径：描述只给世纪者记“约前N世纪（活动期）”，不冒充生卒；Wikidata 占位生年（2000）不写。
 * 证据：`results/backfill-auto-2026-11-23.tsv` 追加 21 行。`registry_azsort` 守恒 4597；`check_terms` 硬错误 0，缺项告警 781→769。
+
+## 2026-11-23：术语第四批（45 条）
+
+* 选料改法：队列前列被泛搭配占据（health care、qua、let alone 等），改按「type=term＋术语后缀词表（theory/paradox/logic/principle…）＋未登记」直筛，得 574 条技术性候选。
+* 逐条查审定库（50 条入队，全部有凭证）；命中对口者 11 条采审定形：自然主义谬误、会话含义（审定“会话隐含”记亦作）、商谈伦理、混沌理论、中文屋论证、合作原则、不确定性原理、恶性循环原则、行为功利主义（审定“行动效用论”记亦作）、丘奇论题、马赫原理；语境原理一条按审定形直采（语料无通行译法）。
+* 语料计数佐证（篇目数）：子结构逻辑 16 vs 亚结构逻辑 1、会话含义 3 vs 会话隐含 1、行为功利主义 11 vs 行动效用论 5；中文屋论证 16、不确定性原理 13、弗雷格定理 8、斯科伦悖论 12、辛普森悖论 12。
+* 四条跳过：substructural logics（与已登记 substructural logic／子结构逻辑 同概念复数形）、analogical arguments（同 analogical argument）、intellectual property rights（与 intellectual property／知识产权 同概念）、backwards induction（同 backward induction）；审定形“亚结构逻辑”与登记形“子结构逻辑”的差异留作 open item，待 rules/03 定性与裁决。
+* 其余 34 条 A 档直裁（审定库仅命中泛词或他义）。
+* 落册：`term_flow` 干跑 45/0，实写 45；`registry_azsort` 术语表 7266→7311 守恒；`check_terms` 硬错误 0。清单 `tasks/manifests/2026-11-23-058-batch10-terms.json`。
+
+## 2026-11-23：自动回填的偏移缺陷与修法
+
+* 现象：第三批落册后再跑 `--start 600`，输出的 20 条与第三批复核名单重合。根因：`person-missing.txt` 由 `check_terms` 每次重生成（781→769 条），已补项退出后行序整体前移，用行号 `--start` 定位不等于“未处理者”。
+* 修法：`backfill_auto.py` 增 `done_keys()`——读证据 TSV 第一列去重，`todo` 只取证据未记键，再按 `--start/--limit` 切片；重复查询归零，偏移不再依赖行序。
+* 该轮干跑仅产生记录未写库（无 `--apply`），已在证据 TSV 留痕；后续批次按新逻辑重跑。

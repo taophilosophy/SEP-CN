@@ -1,0 +1,752 @@
+{
+ "key": "cooperative principle",
+ "term": "Cooperative Principle",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T00:37:08+00:00",
+ "status": "ok",
+ "note": "variant=Cooperative Principle; 审定公布名词库=1069; 海峡两岸名词对照库=302; 其他来源数据库=141; 预公布名词数据库=146; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "合作原则",
+   "en": "cooperative principle",
+   "source": "语言学名词",
+   "wordNumber": "12.119",
+   "subjectFullName": "语言学_社会语言学_言语交际",
+   "subjectName": "言语交际",
+   "publishYear": "2011",
+   "definition": "会话参与者共同遵守的原则，即说话要符合谈话目的或指向，互相配合。要求在提供信息的量、质、相关性和方式上，必须恰如其分和清楚明白。"
+  },
+  {
+   "cn": "福莱特协作四原则",
+   "en": "four cooperation principles of Follet",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0398",
+   "subjectFullName": "管理科学技术_一般管理理论_管理思想史",
+   "subjectName": "管理思想史",
+   "publishYear": "2016",
+   "definition": "美国学者福莱特(Mary P. Follet)在科学管理时期提出的管理原则。包括：①协作是某种情境中全部要素的相互作用关系；②协作由所有相关负责人的直接接触形成；③协作应在初期开始；④协作是一个连续的"
+  },
+  {
+   "cn": "合作",
+   "en": "cooperation",
+   "source": "动物学名词",
+   "wordNumber": "7.0427",
+   "subjectFullName": "动物学_动物生态学_种群生态学",
+   "subjectName": "种群生态学",
+   "publishYear": "2021",
+   "definition": "动物因某些共同、相互或潜在的利益而协同工作或共同行动的过程。"
+  },
+  {
+   "cn": "合作",
+   "en": "cooperation",
+   "source": "心理学名词",
+   "wordNumber": "07.113",
+   "subjectFullName": "心理学_社会心理学",
+   "subjectName": "社会心理学",
+   "publishYear": "2014",
+   "definition": "不同个体或团体之间为了共同目标而协同活动。"
+  },
+  {
+   "cn": "协同性",
+   "en": "cooperativity",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.018",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "大分子上相同的或不同的配体结合部位之间的相互作用，致使一个配体结合于分子上的一个部位能影响下一个配体与同一分子上其他部位结合的特性。如血红蛋白亚基与氧结合致使构象改变影响其他亚基与氧结合。"
+  },
+  {
+   "cn": "协同性",
+   "en": "cooperativity",
+   "source": "生理学名词",
+   "wordNumber": "03.697",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "合作性",
+   "en": "cooperativity",
+   "source": "生物物理学名词",
+   "wordNumber": "04.265",
+   "subjectFullName": "生物物理学_神经生物物理学_学习与记忆",
+   "subjectName": "学习与记忆",
+   "publishYear": "2018",
+   "definition": "相对于彼此无关且独立作用的元素对系统的作用而言，彼此有关且并非独立的多个完全相同或近乎相同元素对系统的作用表现出作用增强和相互合作的现象。"
+  },
+  {
+   "cn": "合作采访",
+   "en": "cooperative acquisition,cooperative purchase",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.333",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_采访",
+   "subjectName": "采访",
+   "publishYear": "2019",
+   "definition": "在一定地区范围内，由两个或两个以上图书馆在自愿或约定的基础上组织起来，通过分工合作，协调采访工作，以保障文献资源收藏的完整性，避免重复或缺藏，为资源共享创造条件的一种文献资源采购方式。"
+  },
+  {
+   "cn": "原理",
+   "en": "principle",
+   "source": "物理学名词",
+   "wordNumber": "01.0139",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "原理",
+   "en": "principle",
+   "source": "数学名词",
+   "wordNumber": "01.0020",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "合作经济",
+   "en": "cooperative economy",
+   "source": "农学名词",
+   "wordNumber": "19.209",
+   "subjectFullName": "农业经济与管理_农业制度经济",
+   "subjectName": "农业制度经济",
+   "publishYear": "2025",
+   "definition": "劳动者通过自愿联合、民主管理及共同经营来获得服务和利益的经济形式。"
+  },
+  {
+   "cn": "合作金融",
+   "en": "cooperative finance",
+   "source": "农学名词",
+   "wordNumber": "19.252",
+   "subjectFullName": "农业经济与管理_农业财政金融与保险",
+   "subjectName": "农业财政金融与保险",
+   "publishYear": "2025",
+   "definition": "按照合作制原则形成的互助互利的信用活动形式。"
+  },
+  {
+   "cn": "协同部位",
+   "en": "cooperative site",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.0244",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "大分子中参与协同作用的部位。如别构酶与底物或调节物相结合的部位。"
+  },
+  {
+   "cn": "合作出版",
+   "en": "cooperative publishing",
+   "source": "编辑与出版学名词",
+   "wordNumber": "01.03.040",
+   "subjectFullName": "编辑与出版学_综论_出版基础",
+   "subjectName": "出版基础",
+   "publishYear": "2022",
+   "definition": "其他机构出资，同出版机构合作推出出版物的出版方式。"
+  },
+  {
+   "cn": "农业合作社",
+   "en": "agricultural cooperative",
+   "source": "城乡规划学名词",
+   "wordNumber": "03.288",
+   "subjectFullName": "城乡规划学_城乡规划与设计_乡村规划",
+   "subjectName": "乡村规划",
+   "publishYear": "2021",
+   "definition": "新中国成立初期，在土地私有制的条件下，农民自发组建的小型合作、互帮互助的协作组织。"
+  },
+  {
+   "cn": "合作博弈",
+   "en": "cooperative game",
+   "source": "经济学名词",
+   "wordNumber": "03.149",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "参与人之间能够达成有约束力协议的博弈。在合作博弈中，通常引入特征函数进行分析，特征函数是关于参与人之间组成的联盟的函数，表明联盟作为一个参与人在博弈中所能获得的最高支付。"
+  },
+  {
+   "cn": "信用合作社",
+   "en": "credit cooperative",
+   "source": "经济学名词",
+   "wordNumber": "12.090",
+   "subjectFullName": "经济学_货币理论与货币政策",
+   "subjectName": "货币理论与货币政策",
+   "publishYear": "2020",
+   "definition": "由个人集资联合组成，具有互助性质的合作金融组织。"
+  },
+  {
+   "cn": "合作效应",
+   "en": "cooperative effect",
+   "source": "物理学名词",
+   "wordNumber": "08.1510",
+   "subjectFullName": "物理学_凝聚态物理学_固体及其性质",
+   "subjectName": "固体及其性质",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "合作参考咨询",
+   "en": "cooperative reference",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "07.196",
+   "subjectFullName": "图书馆·情报与文献学_信息服务与用户研究_文献传递与馆际互借",
+   "subjectName": "文献传递与馆际互借",
+   "publishYear": "2019",
+   "definition": "多家参考咨询服务机构通过一定的规范和协议联合起来进行的参考咨询服务。在这种咨询模式下，当本地图书馆无法解答用户咨询问题时，可以依据咨询问题的学科、专题将咨询问题转交给其他具有固定协议关系的参考咨询服务"
+  },
+  {
+   "cn": "合作竞争",
+   "en": "cooperative competition",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "06.174",
+   "subjectFullName": "图书馆·情报与文献学_情报分析与研究_竞争情报",
+   "subjectName": "竞争情报",
+   "publishYear": "2019",
+   "definition": "多家企业在市场竞争中为达到双赢、非零和博弈的结果，企业之间既存在合作，又存在竞争的一种战略形态。是企业联盟、网络组织发展的重要基础。它描述了商场博弈者之间的竞争合作关系，是全球经济环境和企业竞争态势深"
+  },
+  {
+   "cn": "合作",
+   "en": "cooperation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "合作,协作",
+   "en": "cooperation",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "协作",
+   "en": "cooperation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "协同性",
+   "en": "cooperativity",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "协同性",
+   "en": "cooperativity",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "原理",
+   "en": "principle",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "原则",
+   "en": "principle",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "原理",
+   "en": "principle",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "合作观测者",
+   "en": "cooperative observer",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "合作吸附",
+   "en": "cooperative adsorption",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "合作游戏",
+   "en": "cooperative play",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "合作学习",
+   "en": "cooperative learning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "合作取向",
+   "en": "cooperative orientation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "合作动机",
+   "en": "cooperative motive",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "合作狩猎",
+   "en": "cooperative hunting",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "协同相互作用",
+   "en": "cooperative interaction",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "协同结合",
+   "en": "cooperative binding",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "协同部位",
+   "en": "cooperative site",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "协同转座",
+   "en": "cooperative transposition",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "协同多任务处理",
+   "en": "cooperative multitasking",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "合作秩序",
+   "en": "cooperative order",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字合作",
+   "en": "Digital Cooperation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "契约合作",
+   "en": "contractual cooperation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "机器人合作",
+   "en": "robot cooperation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "万物之理",
+   "en": "Universal Principle",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "不确定[性]原理",
+   "en": "uncertainty principle",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "多语言原则",
+   "en": "multilingual principle",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "通知原则",
+   "en": "notice principle",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "完整性原则",
+   "en": "integrity principle",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "目的性原则",
+   "en": "purpose principle",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "选择原则",
+   "en": "choice principle",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "转移原则",
+   "en": "transfer principle",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全原则",
+   "en": "security principle",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "准入原则",
+   "en": "access principle",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "合作",
+   "en": "cooperation",
+   "source": "社会学名词",
+   "wordNumber": "2.5.10.3",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织制度",
+   "subjectName": "组织制度",
+   "publishYear": "2025",
+   "definition": "人与人、群体与群体之间为达到共同的目标而采取的相互配合、相互协同的行动方式。社会互动的基本类型之一。"
+  },
+  {
+   "cn": "协作",
+   "en": "cooperation",
+   "source": "马克思主义",
+   "wordNumber": "02.0129",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "许多人在同一生产过程中，或在不同的但互相联系的生产过程中，有计划地一起协同劳动。有不实行分工的简单协作和实行分工的复杂协作两种形式。这是资本主义生产的起点。"
+  },
+  {
+   "cn": "原则",
+   "en": "principle",
+   "source": "马克思主义",
+   "wordNumber": "04.0059",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "指导言论和行动的理论规定。在社会生活中，原则常被作为人们言行的准则。在具体科学中含有公理性质的意思。原则是人们在社会实践中对客观事物及其规律进行的抽象，是一般原理。原则具有相对稳定性，但并不是凝固不变"
+  },
+  {
+   "cn": "合作制",
+   "en": "cooperative system",
+   "source": "社会学名词",
+   "wordNumber": "2.5.10.4",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织制度",
+   "subjectName": "组织制度",
+   "publishYear": "2025",
+   "definition": "广义指个人或企业在自愿互利的基础上进行各种生产要素的联合的一种成员共有的集体所有制产权或组织管理形式。狭义指按合作社基本原则建立的经济组织制度，其典型形态是现代合作社，它既是集体所有、实行民主管理的经"
+  },
+  {
+   "cn": "合作工厂",
+   "en": "cooperative plant",
+   "source": "马克思主义",
+   "wordNumber": "02.0246",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "十九世纪英国工人在空想社会主义者欧文的思想影响下创办起来的。合作工厂中，生产资料归联合起来的工人集体占有，工人在统一的指挥和管理下从事社会化的大生产。合作工厂内部“积极扬弃”了资本和劳动之间的对立，但"
+  },
+  {
+   "cn": "合作社经济",
+   "en": "cooperative economy",
+   "source": "马克思主义",
+   "wordNumber": "02.0343",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "部分个体农民和手工业者按照自愿互利原则组织起来的经济形式，是劳动群众的集体经济组织。根据其公有化程度，分别属于半社会主义性质或社会主义性质。是无产阶级领导下的新民主主义国家用以帮助、领导和逐步改造广大"
+  },
+  {
+   "cn": "合作社",
+   "en": "cooperative society",
+   "source": "马克思主义",
+   "wordNumber": "03.0087",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "劳动者根据自愿互助的原则联合起来进行个人出资、合作生产经营、按劳分配为主、民主管理的一种经济组织。"
+  },
+  {
+   "cn": "合作劳动",
+   "en": "cooperative movement",
+   "source": "马克思主义",
+   "wordNumber": "03.0088",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "劳动群众根据自愿互助的原则联合起来创建合作社的探索实践。"
+  },
+  {
+   "cn": "合作医疗",
+   "en": "cooperative medicine",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.078",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "以群众自愿互助为基础，依靠集体经济，实行互济互助的一种福利性质的医疗保障制度。"
+  },
+  {
+   "cn": "社会合作",
+   "en": "social cooperation",
+   "source": "社会学名词",
+   "wordNumber": "2.1.4.6",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会现象",
+   "subjectName": "社会现象",
+   "publishYear": "2025",
+   "definition": "个人与个人、个人与群体、群体与群体之间为了共同目的或出于共同利益，按某种互助协同原则进行的配合协调的共同行动方式。社会和谐的形式之一。"
+  },
+  {
+   "cn": "合作组织",
+   "en": "cooperation organization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.7.2",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "个人与群体或群体与群体之间为达到共同目标，遵循自愿、互利、合作、民主等组织原则，彼此相互配合协作、联合行动而结合成的组织形式，按其功能可分为政治性、经济性或其他性质的，按其范围可分为区域性、国际性或国"
+  },
+  {
+   "cn": "时序性原则",
+   "en": "chronological principle",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.3.9",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护",
+   "subjectName": "放射工作人员健康监护",
+   "publishYear": "2025",
+   "definition": "职业性放射性疾病一定发生在职业接触电离辐射之后，并符合放射性疾病生物学潜隐期的客观规律。"
+  },
+  {
+   "cn": "法律原理",
+   "en": "legal principle",
+   "source": "社会学名词",
+   "wordNumber": "3.7.7.2",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律多元主义",
+   "subjectName": "法律多元主义",
+   "publishYear": "2025",
+   "definition": "与特定法律有联系，建立、证明或补充、批评、修正现存法律规则的价值、理念及其体系。"
+  },
+  {
+   "cn": "谨慎原则",
+   "en": "precautionary principle",
+   "source": "社会学名词",
+   "wordNumber": "3.14.5.2",
+   "subjectFullName": "社会学名词_分支社会学环境社会学",
+   "subjectName": "分支社会学环境社会学",
+   "publishYear": "2025",
+   "definition": "如果一个行动或政策有可能引发危害公众或环境的风险，在没有一致的科学意见认为行动或政策有害的情况下，证明行动无害的举证责任就落在那些要采取行动的人身上。"
+  },
+  {
+   "cn": "头尾发展律",
+   "en": "cephalocaudal principle",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.1.10.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育规律",
+   "subjectName": "生长发育规律",
+   "publishYear": "2025",
+   "definition": "胎儿至婴幼儿期体格和粗大动作发育遵循从头部到尾部发展的程序性。"
+  },
+  {
+   "cn": "近侧发展律",
+   "en": "proximodistal principle",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.1.10.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育规律",
+   "subjectName": "生长发育规律",
+   "publishYear": "2025",
+   "definition": "胎儿期至儿童期体格发育遵循从身体的近端（或中心）到远端（或外周）发展的程序性。表现为躯干的生长先于四肢，四肢的近端生长先于远端。"
+  },
+  {
+   "cn": "相互作用原理",
+   "en": "interrelated principle",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "1.6.3.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生学_妇幼卫生理论",
+   "subjectName": "妇幼卫生理论",
+   "publishYear": "2025",
+   "definition": "个体的行为嵌套于具体的社会关系之中，受社会影响的同时也在影响社会的学说。"
+  },
+  {
+   "cn": "参与原则",
+   "en": "participation principle",
+   "source": "社会医学名词",
+   "wordNumber": "10.2.1.4.7.2",
+   "subjectFullName": "政策与策略",
+   "subjectName": "策略",
+   "publishYear": "2025",
+   "definition": "在卫生政策与服务的制定、执行与评估过程中，应确保公众、社区和各类相关利益方的积极参与，提升政策的可接受性、适用性与持续性。"
+  },
+  {
+   "cn": "保密原则",
+   "en": "confidentiality principle",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.074",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "医务人员、研究人员及相关机构对患者或研究参与者在诊疗或参与医学活动过程中提供的个人信息、健康状况、医疗记录等隐私数据负有严格保密义务，未经当事人明确授权不得向第三方泄露的伦理原则。"
+  },
+  {
+   "cn": "裂变原则",
+   "en": "fission principle",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0541",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "英国人类学家埃文斯-普理查德（Evans-Pritchard）在其代表作《努尔人》一书中提出，该原则是在一种无国家的社会组织中被注意到的社会组织原则。在无国家社会中，人们根据血缘关系的亲疏来组成不同的"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -151,12 +151,28 @@ def aff_from_desc(desc):
     return '／'.join(out[:2])
 
 
+def done_keys(ev_path):
+    """证据 TSV 已记键：person-missing.txt 由 check_terms 重生成、行序随回填漂移，
+    故去重只认键，不认 --start 偏移（2026-11-23 第四批踩坑后加）。"""
+    out = set()
+    if not os.path.exists(ev_path):
+        return out
+    with io.open(ev_path, encoding='utf-8') as f:
+        for line in f:
+            p = line.rstrip('\n').split('\t')
+            if len(p) >= 7 and p[0] and p[0] != 'en':
+                out.add(p[0])
+    return out
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('--start', type=int, default=0)
     ap.add_argument('--limit', type=int, default=200)
     ap.add_argument('--apply', action='store_true')
     args = ap.parse_args()
+    ev_path = os.path.join(RES, 'backfill-auto-2026-11-23.tsv')
+    seen = done_keys(ev_path)
     # 检索撞名/身份存疑：本批人工排除（详见 execution-log）
     EXCLUDE = {'Charles Mills', 'Audrey', 'Batterman, Robert',
                'Brock, Gillian', 'Epiphanius', 'della Valle, Paolo',
@@ -186,7 +202,8 @@ def main():
                     and not set(cells[0]) <= set(':-— '):
                 idx.setdefault(norm_key_quote(cells[0]), i)
     out_rows = ['en\tqid\tlabel\tverdict\t籍属\t生卒\t为何不写']
-    todo = entries[args.start:args.start + args.limit]
+    todo = [(k, m) for k, m in entries if k not in seen]
+    todo = todo[args.start:args.start + args.limit]
     changed = 0
     for n, (key, miss) in enumerate(todo):
         if key in EXCLUDE:
