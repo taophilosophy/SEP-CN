@@ -1,0 +1,812 @@
+{
+ "key": "bare demonstratives",
+ "term": "bare demonstratives",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T06:42:22+00:00",
+ "status": "ok",
+ "note": "variant=bare demonstratives; 审定公布名词库=1846; 海峡两岸名词对照库=538; 其他来源数据库=190; 预公布名词数据库=201; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "出白",
+   "en": "baring",
+   "source": "航海科技名词",
+   "wordNumber": "08.0461",
+   "subjectFullName": "航海科学技术_船艺",
+   "subjectName": "船艺",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "裸井",
+   "en": "bare hole",
+   "source": "地质学名词",
+   "wordNumber": "16.06.022",
+   "subjectFullName": "地质学_水文地质学_地下水利用与管理",
+   "subjectName": "地下水利用与管理",
+   "publishYear": "2026",
+   "definition": "无井管护壁的水井。"
+  },
+  {
+   "cn": "光管",
+   "en": "bare tube",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.0339",
+   "subjectFullName": "化工（八）_化工设备_换热设备",
+   "subjectName": "换热设备",
+   "publishYear": "2021",
+   "definition": "内外壁均无扩展表面的换热管。"
+  },
+  {
+   "cn": "裸露敷设",
+   "en": "bare laying",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "4.0032",
+   "subjectFullName": "化工（八）_管道_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "穿越管道直接敷设于水域底床上的敷设方式。"
+  },
+  {
+   "cn": "裸态",
+   "en": "bare state",
+   "source": "光学名词",
+   "wordNumber": "02.052",
+   "subjectFullName": "光学_非线性光学与量子光学",
+   "subjectName": "非线性光学与量子光学",
+   "publishYear": "2021",
+   "definition": "采用未耦合的原子能量本征态和光场能量本征态所表示的量子态，它与缀饰态相反。"
+  },
+  {
+   "cn": "裸露敷设",
+   "en": "laying bare",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "05.129",
+   "subjectFullName": "化工（五）_工厂系统与储运_油气管道工程",
+   "subjectName": "油气管道工程",
+   "publishYear": "2021",
+   "definition": "穿越管道直接敷设于水域底床上的敷设方式。"
+  },
+  {
+   "cn": "裸光纤",
+   "en": "bare fiber",
+   "source": "电力名词",
+   "wordNumber": "22.346",
+   "subjectFullName": "电力_输电线路",
+   "subjectName": "输电线路",
+   "publishYear": "2020",
+   "definition": "没有任何被覆层的光纤。"
+  },
+  {
+   "cn": "裸核",
+   "en": "bare nucleus",
+   "source": "物理学名词",
+   "wordNumber": "09.1050",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "裸电荷",
+   "en": "bare charge",
+   "source": "物理学名词",
+   "wordNumber": "09.1301",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "裸耦合",
+   "en": "bare coupling",
+   "source": "物理学名词",
+   "wordNumber": "09.1302",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "裸电子",
+   "en": "bare electron",
+   "source": "物理学名词",
+   "wordNumber": "09.1047",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "裸地",
+   "en": "bare land",
+   "source": "植物学名词",
+   "wordNumber": "13.0307",
+   "subjectFullName": "植物学_植物生态学_植物群落与植被",
+   "subjectName": "植物群落与植被",
+   "publishYear": "2019",
+   "definition": "没有植物生长的地段。"
+  },
+  {
+   "cn": "裸离子",
+   "en": "bare ion",
+   "source": "物理学名词",
+   "wordNumber": "09.1048",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "裸质量",
+   "en": "bare mass",
+   "source": "物理学名词",
+   "wordNumber": "09.1049",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "裸粒子",
+   "en": "bare particle",
+   "source": "物理学名词",
+   "wordNumber": "01.0087",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "裸冰",
+   "en": "bare ice",
+   "source": "大气科学名词",
+   "wordNumber": "01.266",
+   "subjectFullName": "大气科学_大气",
+   "subjectName": "大气",
+   "publishYear": "2009",
+   "definition": "无雪盖的冰面。"
+  },
+  {
+   "cn": "裸地",
+   "en": "bare soil",
+   "source": "大气科学名词",
+   "wordNumber": "01.267",
+   "subjectFullName": "大气科学_大气",
+   "subjectName": "大气",
+   "publishYear": "2009",
+   "definition": "无植被、无遮蔽，直接暴露的土地。"
+  },
+  {
+   "cn": "裸露型喀斯特",
+   "en": "bare karst",
+   "source": "地理学名词",
+   "wordNumber": "03.209",
+   "subjectFullName": "地理学_地貌学",
+   "subjectName": "地貌学",
+   "publishYear": "2006",
+   "definition": "基岩裸露地表的碳酸盐岩层地区所发育的喀斯特景观。"
+  },
+  {
+   "cn": "裸露泥炭",
+   "en": "bare peat",
+   "source": "地理学名词",
+   "wordNumber": "14.078",
+   "subjectFullName": "地理学_湿地学",
+   "subjectName": "湿地学",
+   "publishYear": "2006",
+   "definition": "分布于地表的泥炭。"
+  },
+  {
+   "cn": "裸光纤",
+   "en": "bare fiber",
+   "source": "电气工程名词",
+   "wordNumber": "05.270",
+   "subjectFullName": "电气工程_电线、电缆及光缆",
+   "subjectName": "电线、电缆及光缆",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "裸管",
+   "en": "bare pipe\",\"bare tube",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "裸区",
+   "en": "bare area",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "裸地",
+   "en": "bare land",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "裸地",
+   "en": "bare soil",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "裸面",
+   "en": "bare surface",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "裸热电耦",
+   "en": "bare thermocouple",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "绝对休闲地,无草休闲地",
+   "en": "bare fallow",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "无担保合同",
+   "en": "bare contract",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "裸露泥炭",
+   "en": "bare peat",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "裸露型喀斯特",
+   "en": "bare karst",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "裸线",
+   "en": "bare wire",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "光船",
+   "en": "bare boat",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "巴林危机",
+   "en": "Baring Crisis",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "次生裸地",
+   "en": "secondary bare land",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "原生裸地",
+   "en": "primary bare land",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "架空明线",
+   "en": "aerial bare line",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "裸地",
+   "en": "bare land\",\"denuded land",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "明礁",
+   "en": "bare rock\",\"uplifted reef",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "焊条夹持端",
+   "en": "bare terminal\",\"exposed core",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "裸船体",
+   "en": "bare hull\",\"naked hull",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "裸露躯干",
+   "en": "bare torso",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "表演项目",
+   "en": "demonstration sport",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "国家自主创新示范区",
+   "en": "national innovation demonstration zone",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "标准化示范项目",
+   "en": "Demonstration Projects in Standardization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "多媒体示证",
+   "en": "multimedia demonstration of evidence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "裸绞",
+   "en": "bare hand strangle\",\"hadaka-jime\",\"naked strangle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "协调发展示范区",
+   "en": "demonstration zone of coordinated development",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "航空物流空间信息服务示范",
+   "en": "air logistics spatial information service demonstration",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大数据安全示范试点城市",
+   "en": "big data security demonstration pilot city",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大数据安全认证示范区",
+   "en": "big data security certification demonstration zone",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "创新发展示范区",
+   "en": "demonstration zone of innovation-driven development",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "区域一体化发展示范区",
+   "en": "demonstration zone of integrated regional development",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "国家大数据新型工业化示范基地",
+   "en": "national demonstration base of big data industrialization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "电子商务进农村综合示范",
+   "en": "comprehensive demonstration of e-commerce in rural areas",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中国力量、中国精神、中国效率",
+   "en": "China has demonstrated strength, character and efficiency in fighting against the epidemic. ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_理念信心",
+   "subjectName": "理念信心",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "长三角生态绿色一体化发展示范区",
+   "en": "demonstration zone of green and integrated ecological development of the Yangtze River Delta",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "量子保密通信“京沪干线”技术验证与应用示范项目（中国）",
+   "en": "Technical Verification and Application Demonstration Project for the Beijing-Shanghai Quantum Communication Network (China)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "广州南沙粤港澳全面合作示范区",
+   "en": "demonstration zone of all-round cooperation among Guangdong, Hong Kong and Macao in Nansha, Guangzhou",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "珠海横琴粤港澳深度合作示范区",
+   "en": "demonstration zone of in-depth cooperation among Guangdong, Hong Kong and Macao in Hengqin, Zhuhai",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "枪膛",
+   "en": "bore\",\"rifled bore",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "示范教学",
+   "en": "demonstration teaching",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.2.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育方法",
+   "subjectName": "学校健康教育方法",
+   "publishYear": "2025",
+   "definition": "教师通过演示，让学生亲自练习，以加深对内容的理解，掌握相关技能的教学方法。"
+  },
+  {
+   "cn": "民族团结进步示范区示范单位",
+   "en": "demonstration area and unit of ethnic unity and progress",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0102",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "中国民族团结进步创建活动中涌现出来的民族团结工作表现突出、有一定示范作用的地区和单位。根据《全国民族团结进步示范区示范单位创建命名管理办法》，示范区的范围包括市（地区、自治州、盟）、县（市、区、旗）、"
+  },
+  {
+   "cn": "器皿",
+   "en": "ware",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0374",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "用以盛装物品的物件的总称；包括日用陶器、日用瓷器、酒具、茶具、碗筷、木器、竹器、漆器、铜器及革制品、车马具等带有装饰及艺术价值者。"
+  },
+  {
+   "cn": "桦皮船",
+   "en": "birch bark",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0094",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "水上交通运输和渔猎生产工具，用桦树皮制成，流行于中国的大小兴安岭地区和黑龙江、乌苏里江、松花江流域，以及西伯利亚的渔猎民族地区。以樟松木做骨架、船帮和船头，三大张桦树皮套接起来做船底，用木钉连接，船帮"
+  },
+  {
+   "cn": "基准深度",
+   "en": "base depth",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.25",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "体模内包含辐射束轴上最大吸收剂量90%点的平面所在的深度。"
+  },
+  {
+   "cn": "社会基础",
+   "en": "social base",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.9",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "社会生活和社会发展的根基或起点，与社会阶级、社会公平、社会秩序、文化价值和社会管理密切相关。"
+  },
+  {
+   "cn": "健康服务",
+   "en": "health care",
+   "source": "社会学名词",
+   "wordNumber": "3.11.4.1",
+   "subjectFullName": "社会学名词_分支社会学_医学社会学_健康服务与制度",
+   "subjectName": "健康服务与制度",
+   "publishYear": "2025",
+   "definition": "采用医疗和预防的手段，使个人身体保持健康，以及提高身体机能的服务。它的范围比医疗服务(medical care)更宽，还包括了预防服务，比如洗牙、健身等。"
+  },
+  {
+   "cn": "暂时休养服务",
+   "en": "respite care",
+   "source": "社会学名词",
+   "wordNumber": "3.15.6.10",
+   "subjectFullName": "社会学名词_分支社会学_老年和老龄化研究_老年代际关系",
+   "subjectName": "老年代际关系",
+   "publishYear": "2025",
+   "definition": "通过将老年人接到养老机构或者派人上门提供临时性的照料，使长期照料失能老年人的家属得以短期的解脱（休息），以便更好地照料老年人的服务方式。按提供方式，可分为居家喘息服务、社区喘息服务和机构喘息服务。"
+  },
+  {
+   "cn": "家庭照顾",
+   "en": "family care",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.46",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "需要照顾的老年人等由其家庭成员提供照顾的照顾方式。。"
+  },
+  {
+   "cn": "机构照顾",
+   "en": "institutional care",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.47",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "需要照顾的老年人等由专门的照料机构予以照顾的照顾方式。在中国，老年人的专门照顾机构有社会福利院、敬老院、老年公寓、老年护理院等。"
+  },
+  {
+   "cn": "社区照顾",
+   "en": "community care",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.49",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "在国家宏观指导和政策扶持下，按照“属地养老”的原则，以社区为依托，充分利用现有的资源和条件，为满足日常生活自理有困难的城市老年人的日常生活照顾需求而提供的养老服务。内容包括建立和发展老年福利设施、开展"
+  },
+  {
+   "cn": "群众基础",
+   "en": "mass base",
+   "source": "马克思主义",
+   "wordNumber": "03.0723",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "政党的群众基础本质上就是政党与群众的关系问题。从政党角度来看，就是党在人民群众中的影响力、号召力、凝聚力；从群众角度来看，就是人民群众对党的支持和认同。"
+  },
+  {
+   "cn": "围产保健",
+   "en": "perinatal care",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.1",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "以孕产妇和胎婴儿为对象，以保障母子健康为目的，运用围产医学的理论、技术和方法，提供生理、心理和社会适应等内容的系统性综合保健服务。"
+  },
+  {
+   "cn": "孕期保健",
+   "en": "antenatal care",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.2",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "从确定妊娠之日始至临产前，为保障孕妇及胎儿的健康所提供的产前检查、健康教育、咨询、健康状况评估、健康指导、妊娠合并症和并发症处理等为主要内容的系统保健服务。包含孕早期、孕中期和孕晚期保健。"
+  },
+  {
+   "cn": "产时保健",
+   "en": "intrapartum care",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.3",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "医疗机构在产妇住院分娩过程中，为保障母婴安全并促进产妇形成积极的分娩体验所采取的系列服务措施，包括对产妇和胎儿进行全产程监护、支持照顾、安全助产以及对新生儿进行评估及处理。"
+  },
+  {
+   "cn": "妊娠间隔期保健",
+   "en": "interpregnancy care",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.6.1.1.1",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_生育间隔期保健",
+   "subjectName": "生育间隔期保健",
+   "publishYear": "2025",
+   "definition": "为妊娠间隔期妇女提供产后照护、疾患筛查、健康教育和健康管理的专业服务。目的是最大程度的确保妇女在前次分娩或流产后、再次妊娠时、以及后续生命历程的健康。"
+  },
+  {
+   "cn": "流产后保健",
+   "en": "postabortion care",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.6.2.2",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_生育间隔期保健",
+   "subjectName": "生育间隔期保健",
+   "publishYear": "2025",
+   "definition": "为孕妇在自然流产或人工流产后提供的专业服务和健康管理，包括避孕服务、并发症管理和其他所需的医疗保健服务。"
+  },
+  {
+   "cn": "更年期保健",
+   "en": "climacteric care",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.7",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_更年期保健",
+   "subjectName": "更年期保健",
+   "publishYear": "2025",
+   "definition": "帮助妇女顺利地度过更年期，减少更年期在生理上、心理上不适症状的保健服务，包括定期健康体检、妇科疾病诊治、健康教育与心理咨询等。"
+  },
+  {
+   "cn": "儿童照护",
+   "en": "child care",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.5.8",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "养育人和家庭为儿童提供健康生长发育所需的食物、卫生保健、刺激和情感支持的行为。"
+  },
+  {
+   "cn": "婚前保健",
+   "en": "premarital care",
+   "source": "社会医学名词",
+   "wordNumber": "12.1.2",
+   "subjectFullName": "特定人群卫生保健",
+   "subjectName": "妇女卫生保健",
+   "publishYear": "2025",
+   "definition": "以提高出生人口素质为目的，对准备结婚的男女双方所进行的婚前医学检查、婚前卫生指导和婚前卫生咨询服务的统称。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

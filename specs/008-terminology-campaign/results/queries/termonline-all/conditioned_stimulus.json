@@ -1,0 +1,742 @@
+{
+ "key": "conditioned stimulus",
+ "term": "conditioned stimulus",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T06:43:32+00:00",
+ "status": "ok",
+ "note": "variant=conditioned stimulus; 审定公布名词库=1080; 海峡两岸名词对照库=292; 其他来源数据库=18; 预公布名词数据库=23; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "条件刺激",
+   "en": "conditioned stimulus",
+   "source": "生理学名词",
+   "wordNumber": "03.681",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "条件刺激",
+   "en": "conditioned stimulus",
+   "source": "生物物理学名词",
+   "wordNumber": "04.229",
+   "subjectFullName": "生物物理学_神经生物物理学_学习与记忆",
+   "subjectName": "学习与记忆",
+   "publishYear": "2018",
+   "definition": "引起经典条件反射的刺激。"
+  },
+  {
+   "cn": "条件刺激",
+   "en": "conditioned stimulus,CS",
+   "source": "心理学名词",
+   "wordNumber": "02.121",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "在经典条件反射实验中，通过与无条件刺激反复同时呈现而能够引起反射反应的刺激。"
+  },
+  {
+   "cn": "条件刺激",
+   "en": "conditioned stimulus;CS",
+   "source": "行为医学名词",
+   "wordNumber": "2.004",
+   "subjectFullName": "行为医学_行为医学基本理论_行为主义心理学理论",
+   "subjectName": "行为主义心理学理论",
+   "publishYear": "2022",
+   "definition": "条件反应过程中，通过与非条件刺激反复同时呈现后，能够单独引起反射的刺激。即能引起条件反射的刺激。"
+  },
+  {
+   "cn": "刺激",
+   "en": "stimulus",
+   "source": "兽医学名词",
+   "wordNumber": "04.062",
+   "subjectFullName": "兽医学_动物生理学",
+   "subjectName": "动物生理学",
+   "publishYear": "2023",
+   "definition": "凡能引起机体新陈代谢改变或使细胞膜的电活动改变的各种内外环境因素。"
+  },
+  {
+   "cn": "刺激",
+   "en": "stimulus",
+   "source": "行为医学名词",
+   "wordNumber": "2.029",
+   "subjectFullName": "行为医学_行为医学基本理论_行为主义心理学理论",
+   "subjectName": "行为主义心理学理论",
+   "publishYear": "2022",
+   "definition": "机体、器官或细胞所处内外环境的变化。由任何能量形式理化因素的变化构成。"
+  },
+  {
+   "cn": "刺激",
+   "en": "stimulus",
+   "source": "生理学名词",
+   "wordNumber": "02.303",
+   "subjectFullName": "生理学_细胞生理学",
+   "subjectName": "细胞生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "刺激",
+   "en": "stimulus",
+   "source": "食品科学技术名词",
+   "wordNumber": "02.0630",
+   "subjectFullName": "食品科学技术_食品科学_食品分析_食品感官分析",
+   "subjectName": "食品感官分析",
+   "publishYear": "2020",
+   "definition": "能被机体、组织、细胞所感受到的生存环境的变化。"
+  },
+  {
+   "cn": "刺激",
+   "en": "stimulus",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "05.082",
+   "subjectFullName": "阿尔茨海默病_诊断技术与实验方法_影像技术",
+   "subjectName": "影像技术",
+   "publishYear": "2019",
+   "definition": "能引起机体发生反应的环境条件因素。分为物理性、化学性和生物性。"
+  },
+  {
+   "cn": "刺激强度",
+   "en": "stimulus strength,stimulus intensity",
+   "source": "生理学名词",
+   "wordNumber": "02.306",
+   "subjectFullName": "生理学_细胞生理学",
+   "subjectName": "细胞生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "非条件刺激",
+   "en": "unconditioned stimulus",
+   "source": "生理学名词",
+   "wordNumber": "03.682",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "非条件刺激",
+   "en": "unconditioned stimulus",
+   "source": "生物物理学名词",
+   "wordNumber": "04.227",
+   "subjectFullName": "生物物理学_神经生物物理学_学习与记忆",
+   "subjectName": "学习与记忆",
+   "publishYear": "2018",
+   "definition": "能引起机体非条件反射的刺激。"
+  },
+  {
+   "cn": "阈上刺激",
+   "en": "supraliminal stimulus",
+   "source": "麻醉学名词",
+   "wordNumber": "03.392",
+   "subjectFullName": "麻醉学_麻醉与围手术期管理_诱发肌收缩效应显示器",
+   "subjectName": "诱发肌收缩效应显示器",
+   "publishYear": "2024",
+   "definition": "刺激强度超过阈值的刺激。"
+  },
+  {
+   "cn": "阈下刺激",
+   "en": "subliminal stimulus",
+   "source": "麻醉学名词",
+   "wordNumber": "03.393",
+   "subjectFullName": "麻醉学_麻醉与围手术期管理_诱发肌收缩效应显示器",
+   "subjectName": "诱发肌收缩效应显示器",
+   "publishYear": "2024",
+   "definition": "刺激强度未达到阈值的刺激。"
+  },
+  {
+   "cn": "超强刺激",
+   "en": "supramaximal stimulus",
+   "source": "麻醉学名词",
+   "wordNumber": "03.395",
+   "subjectFullName": "麻醉学_麻醉与围手术期管理_诱发肌收缩效应显示器",
+   "subjectName": "诱发肌收缩效应显示器",
+   "publishYear": "2024",
+   "definition": "刺激电流强度增加到一定程度诱发的电位波幅不再增加时，再将刺激强度增加20%的刺激。"
+  },
+  {
+   "cn": "阈刺激",
+   "en": "threshold stimulus",
+   "source": "兽医学名词",
+   "wordNumber": "04.066",
+   "subjectFullName": "兽医学_动物生理学",
+   "subjectName": "动物生理学",
+   "publishYear": "2023",
+   "definition": "相当于阈强度的刺激。"
+  },
+  {
+   "cn": "阈下刺激",
+   "en": "subthreshold stimulus",
+   "source": "兽医学名词",
+   "wordNumber": "04.067",
+   "subjectFullName": "兽医学_动物生理学",
+   "subjectName": "动物生理学",
+   "publishYear": "2023",
+   "definition": "小于阈强度的刺激。"
+  },
+  {
+   "cn": "阈上刺激",
+   "en": "suprathreshold stimulus",
+   "source": "兽医学名词",
+   "wordNumber": "04.068",
+   "subjectFullName": "兽医学_动物生理学",
+   "subjectName": "动物生理学",
+   "publishYear": "2023",
+   "definition": "大于阈强度的刺激。"
+  },
+  {
+   "cn": "最大刺激",
+   "en": "maximal stimulus",
+   "source": "兽医学名词",
+   "wordNumber": "04.069",
+   "subjectFullName": "兽医学_动物生理学",
+   "subjectName": "动物生理学",
+   "publishYear": "2023",
+   "definition": "给予可兴奋细胞阈上刺激时，刺激效果随刺激强度增强而增大，但当刺激强度增强到一定水平时，刺激效果不再随之增大的阈上刺激。"
+  },
+  {
+   "cn": "适宜刺激",
+   "en": "adequate stimulus",
+   "source": "兽医学名词",
+   "wordNumber": "04.070",
+   "subjectFullName": "兽医学_动物生理学",
+   "subjectName": "动物生理学",
+   "publishYear": "2023",
+   "definition": "自然条件下，能够引起某种组织或器官发生反应的刺激。"
+  },
+  {
+   "cn": "条件刺激",
+   "en": "conditioned stimulus\",\"CS",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "刺激",
+   "en": "stimulus",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "信号刺激",
+   "en": "sign stimulus\",\"token stimulus",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "增强刺激",
+   "en": "reinforcing stimulus",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "刺激泛化",
+   "en": "stimulus generalization",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "刺激维度",
+   "en": "stimulus dimension",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "刺激阈限",
+   "en": "stimulus threshold",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "中性刺激",
+   "en": "neutral stimulus",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "标准刺激",
+   "en": "standard stimulus",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "歧义刺激，模糊刺激",
+   "en": "ambiguous stimulus",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "辨别刺激,分辨刺激",
+   "en": "discrimination stimulus",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "刺激强度",
+   "en": "stimulus intensity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "听觉刺激",
+   "en": "acoustic stimulus",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "近端刺激",
+   "en": "proximal stimulus",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "刺激控制",
+   "en": "stimulus control",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "比较刺激",
+   "en": "comparison stimulus",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "刺激变量",
+   "en": "stimulus variable",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "信号刺激",
+   "en": "signal stimulus",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "信号刺激",
+   "en": "token stimulus",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "条件式",
+   "en": "conditions",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有条件共享",
+   "en": "conditional sharing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "身体素质",
+   "en": "physical condition",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "基础性疾病",
+   "en": "underlying medical conditions",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "书者，散也",
+   "en": "Calligraphy Expresses Inner Conditions.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "因地制宜",
+   "en": "adjusting measures to local conditions",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "重症患者",
+   "en": "patients in severe or critical condition",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "世异事异",
+   "en": "When Times Change, So Do Social Conditions.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "重症病区",
+   "en": "special ward (for patients with severe conditions)",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_场所名称",
+   "subjectName": "场所名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "三期叠加",
+   "en": "simultaneously deal with the slowdown in economic growth, make difficult structural adjustments, and absorb the effects of previous economic stimulus policies",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 22281.2-2011 机器的状态监测和诊断 数据处理、通信和表达 第2部分：数据处理》",
+   "en": "GB/T 22281.2-2011 Condition monitoring and diagnostics of machines — Data processing, communication and presentation — Part 2: Data processing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 25742.2-2013 机器状态监测与诊断 数据处理、通信与表示 第2部分：数据处理》",
+   "en": "GB/T 25742.2-2013 Condition monitoring and diagnostics of machines — Data processing, communication and presentation — Part 2: Data processing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "宜水则水、宜山则山，宜粮则粮、宜农则农，宜工则工、宜商则商",
+   "en": "to make use of the water and mountain resources, grow crops, and develop agriculture, industry or business where conditions permit",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "海尔COSMOPlat空调噪音大数据智能分析",
+   "en": "Haier COSMOPlat intelligent big data analysis of air conditioner noise",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "参考条件",
+   "en": "reference conditions",
+   "source": "放射卫生学",
+   "wordNumber": "5.5.3",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_监测与评价",
+   "subjectName": "监测与评价",
+   "publishYear": "2025",
+   "definition": "一组影响量的特定值和/或值的范围，在此条件下剂量测定系统可允许的不确定度最小。"
+  },
+  {
+   "cn": "无菌状态",
+   "en": "sterility condition",
+   "source": "消毒学",
+   "wordNumber": "1.2.19.5",
+   "subjectFullName": "消毒学_消毒学_灭菌",
+   "subjectName": "灭菌",
+   "publishYear": "2025",
+   "definition": "无存活微生物的状态。"
+  },
+  {
+   "cn": "培养条件",
+   "en": "culture condition",
+   "source": "消毒学",
+   "wordNumber": "3.1.5.9",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "促进试验菌生长或增殖的条件，包括生长培养基、培养时间和温度。"
+  },
+  {
+   "cn": "生产条件",
+   "en": "production condition",
+   "source": "消毒学",
+   "wordNumber": "5.1.6",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "消毒产品生产企业生产消毒产品时对人员、设备、原料、检验、场所、生产用水等的要求。"
+  },
+  {
+   "cn": "仓储条件",
+   "en": "storage condition",
+   "source": "消毒学",
+   "wordNumber": "5.1.9",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "消毒产品生产仓储所需的有形或无形的场所与技术。"
+  },
+  {
+   "cn": "亚临床状态",
+   "en": "subclinical condition",
+   "source": "社会医学名词",
+   "wordNumber": "1.1.5",
+   "subjectFullName": "社会医学概述",
+   "subjectName": "社会医学",
+   "publishYear": "2025",
+   "definition": "机体无明显临床症状或体征，但存在生理性代偿或病理性改变的临床检测证据的一种状态。"
+  },
+  {
+   "cn": "社会物质条件",
+   "en": "social material condition",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.8",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "人类赖以生存和发展的物质要素的总和。主要包括自然条件、人口因素，以及人类生活所必需的物质资料和生产手段。"
+  },
+  {
+   "cn": "结案条件",
+   "en": "condition for termination",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.23",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "结束社会工作服务并与服务对象终止专业关系所要求的条件。在个案工作中，社会工作者与社工机构判断一个案主是否可以结案，都应有具体的条件或指标，即相应的结案条件。"
+  },
+  {
+   "cn": "社会制约",
+   "en": "social conditioning/constraint",
+   "source": "社会学名词",
+   "wordNumber": "2.1.5.9",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会生活",
+   "subjectName": "社会生活",
+   "publishYear": "2025",
+   "definition": "社会主体（个体或群体）或社会事物一方本身的存在与变化，以另一方的存在和变化为条件，受到相应的限制和约束。特指社会因素、社会权力、社会环境和条件对国家权力的限制和约束。"
+  },
+  {
+   "cn": "低氧预习服",
+   "en": "hypoxic pre-conditioning",
+   "source": "军事预防医学名词",
+   "wordNumber": "5.4.2",
+   "subjectFullName": "军事预防医学_高原军事卫生_高原习服",
+   "subjectName": "高原习服",
+   "publishYear": "2025",
+   "definition": "机体通过短暂时间的缺氧训练，来适应后续的更长时间或更严重缺氧的习服方式。"
+  },
+  {
+   "cn": "语言强化运动条件反射法",
+   "en": "language enhanced motor conditioned reflex",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.4.4.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习负荷评价",
+   "subjectName": "学习负荷评价",
+   "publishYear": "2025",
+   "definition": "以光和声为直接刺激，结合语言指示的强化（如令受试者看到某种颜色时立刻按压电键，而看到另一种颜色光时则不要按压电键），形成手指或脚趾按压的运动效应，据此来评价脑力工作能力变化的方法。"
+  },
+  {
+   "cn": "社会物质生活条件",
+   "en": "conditions of social material life",
+   "source": "马克思主义",
+   "wordNumber": "01.0226",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "人类社会赖以生存和发展的物质条件的总和。马克思和恩格斯在《德意志意识形态》一书中最初提出。斯大林把社会物质生活条件看成是和社会存在相当的范畴，包括三项：（1）人类社会生存于其中的自然条件；（2）人口的"
+  },
+  {
+   "cn": "伤势构成比",
+   "en": "proportion of conditions of injury",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.2.4",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "战伤伤员中轻、中、重伤伤员所占百分比，主要为掌握救治重点、确定救治范围、伤员留治期限、后送方式和次序、安排后运工具并为筹划医疗床位提供依据。"
+  },
+  {
+   "cn": "集中空调通风系统",
+   "en": "central air conditioning ventilation system",
+   "source": "消毒学",
+   "wordNumber": "1.8.18",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "为使房间或封闭空间空气温度、湿度、洁净度和气流速度等参数达到设定要求，而对空气进行集中处理、输送、分配的所有设备、管道及附件、仪器仪表所组成的系统。"
+  },
+  {
+   "cn": "多联机空调系统",
+   "en": "multi-connected split air conditioning system",
+   "source": "消毒学",
+   "wordNumber": "1.8.18.1.2",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "一组空气（水）源制冷或热泵机组配置多台室内机，通过改变制冷剂流量适应各房间负荷变化的直接膨胀式空调系统。"
+  },
+  {
+   "cn": "集中空调通风系统清洗",
+   "en": "central air conditioning ventilation system cleaning",
+   "source": "消毒学",
+   "wordNumber": "1.8.18.10",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "采用某些技术或方法清除集中空调通风系统风管、风口、空气处理单元和其他部件内与输送空气相接触表面以及空调冷却水塔内积聚的颗粒物、微生物的过程。"
+  },
+  {
+   "cn": "集中空调通风系统消毒",
+   "en": "central air conditioning ventilation system disinfecting",
+   "source": "消毒学",
+   "wordNumber": "1.8.18.11",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "采用物理和（或）化学方法杀灭集中空调通风系统风管、冷却塔、表冷器、风口、空气处理单元和其他部件内与输送空气相接触表面以及冷却水、冷凝水、积尘中的致病微生物的过程。"
+  },
+  {
+   "cn": "无产阶级实现对同盟者领导的条件",
+   "en": "conditions for the proletariat to lead the allies successfully",
+   "source": "马克思主义",
+   "wordNumber": "03.0437",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东提出的统一战线的原则之一。1940年3月，毛泽东在《目前抗日统一战线中的策略问题》中指出了争取中间势力的三个条件：我们有充足的力量；尊重他们的利益；我们对顽固派作坚决的斗争，并能一步一步地取得胜"
+  },
+  {
+   "cn": "特殊条件下无产阶级和大资产阶级的联盟",
+   "en": "alliance of the proletariat and the big bourgeoisie under special conditions",
+   "source": "马克思主义",
+   "wordNumber": "03.0375",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "国家遭受帝国主义国家侵略，民族矛盾成为主要矛盾的条件下，无产阶级与大资产阶级组成的统一战线。在中国，指抗日战争时期中国共产党与亲英美的蒋介石等大资产阶级的第二次国共合作的联盟。"
+  },
+  {
+   "cn": "马克思主义中国化时代化大众化",
+   "en": "adapt marxism to the needs of Chinas conditions of the era and of the people",
+   "source": "马克思主义",
+   "wordNumber": "03.0680",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "马克思主义中国化就是将马克思主义基本原理同中国具体实际相结合，形成具有中国特色、中国风格、中国气派的新理论。马克思主义时代化就是紧密结合时代特征，不断吸收新的时代内容，使马克思主义紧跟时代发展步伐。马"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

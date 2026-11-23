@@ -1,0 +1,762 @@
+{
+ "key": "descriptive names",
+ "term": "descriptive names",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T06:39:32+00:00",
+ "status": "ok",
+ "note": "variant=descriptive names; 审定公布名词库=370; 海峡两岸名词对照库=187; 其他来源数据库=42; 预公布名词数据库=21; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "说明",
+   "en": "description",
+   "source": "档案学名词",
+   "wordNumber": "02.04.032",
+   "subjectFullName": "档案学_文件管理_公文写作",
+   "subjectName": "公文写作",
+   "publishYear": "2024",
+   "definition": "表达方式中的一种。对客观事物的性质、状态、特征、成因、构造、功能、用途所进行的介绍解说和阐释。"
+  },
+  {
+   "cn": "描述",
+   "en": "description",
+   "source": "动物学名词",
+   "wordNumber": "2.0073",
+   "subjectFullName": "动物学_动物进化与系统学_动物分类学",
+   "subjectName": "动物分类学",
+   "publishYear": "2021",
+   "definition": "对分类单元的特征进行规范性的表述。"
+  },
+  {
+   "cn": "描述",
+   "en": "description",
+   "source": "植物学名词",
+   "wordNumber": "02.0123",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "通过记录植物的性状状态而将植物的特征列出来的过程。"
+  },
+  {
+   "cn": "[书目]著录",
+   "en": "description",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0432",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_图书情报档案领域",
+   "subjectName": "图书情报档案领域",
+   "publishYear": "2016",
+   "definition": "在编制文献目录时，对文献信息的内容和形式特征进行分析、选择和记录的过程。"
+  },
+  {
+   "cn": "描述",
+   "en": "description",
+   "source": "微生物学名词",
+   "wordNumber": "02.073",
+   "subjectFullName": "微生物学_微生物系统学",
+   "subjectName": "微生物系统学",
+   "publishYear": "2012",
+   "definition": "对特定微生物菌株的分类学特征进行规范性的表述。"
+  },
+  {
+   "cn": "譬况",
+   "en": "description",
+   "source": "语言学名词",
+   "wordNumber": "09.190",
+   "subjectFullName": "语言学_音韵学_语音通转和古音学",
+   "subjectName": "语音通转和古音学",
+   "publishYear": "2011",
+   "definition": "早期的汉字注音法的一种。以同音字或近音字比拟被注音字的读音，或对其发音特征加以描写。包括长言、短言、急气、缓气、内言、外言等。"
+  },
+  {
+   "cn": "摹状词",
+   "en": "description",
+   "source": "语言学名词",
+   "wordNumber": "05.114",
+   "subjectFullName": "语言学_语义学、词汇学_词与词汇",
+   "subjectName": "词与词汇",
+   "publishYear": "2011",
+   "definition": "①词汇学指摹写事物情状的词。例如“哗啦啦”“油汪汪”。②逻辑语义学指表示单独概念的词项之一，通过描述单一对象的唯一特性来指称该对象。"
+  },
+  {
+   "cn": "性状描述",
+   "en": "description",
+   "source": "中医药学名词",
+   "wordNumber": "06.032",
+   "subjectFullName": "中医药学_中药学_中药学总论",
+   "subjectName": "中药学总论",
+   "publishYear": "2004",
+   "definition": "以现代科学手段，从宏观角度对药材或饮片的外形特征用科学名词进行详细准确的描述。"
+  },
+  {
+   "cn": "摹状[词]",
+   "en": "description",
+   "source": "数学名词",
+   "wordNumber": "02.0020",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "描述胚胎学",
+   "en": "descriptive embryology",
+   "source": "兽医学名词",
+   "wordNumber": "07.004",
+   "subjectFullName": "兽医学_家畜胚胎学",
+   "subjectName": "家畜胚胎学",
+   "publishYear": "2023",
+   "definition": "应用组织学和解剖学的方法，观察、描述胚胎发育的形态演变过程的学科。包括外形的演变、从原始器官到成体器官的演变、系统的形成等。"
+  },
+  {
+   "cn": "描述样方",
+   "en": "descriptive quadrat ",
+   "source": "草学名词",
+   "wordNumber": "3.0129",
+   "subjectFullName": "草学_草地资源与利用",
+   "subjectName": "草地资源与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "说明体广告",
+   "en": "descriptive advertising",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "21.245",
+   "subjectFullName": "新闻学与传播学_广告_广告作品",
+   "subjectName": "广告作品",
+   "publishYear": "2022",
+   "definition": "以解说为主要表达方式来传递商品、劳务信息的广告形式。"
+  },
+  {
+   "cn": "描述胚胎学",
+   "en": "descriptive embryology",
+   "source": "动物学名词",
+   "wordNumber": "4.0001",
+   "subjectFullName": "动物学_动物胚胎学_概论",
+   "subjectName": "概论",
+   "publishYear": "2021",
+   "definition": "用解剖学和组织学方法对胚胎发育的形态演变过程进行观察和描述的科学。"
+  },
+  {
+   "cn": "描述性流行病学",
+   "en": "descriptive epidemiology",
+   "source": "计划生育名词",
+   "wordNumber": "05.007",
+   "subjectFullName": "计划生育_计划生育科研方法",
+   "subjectName": "计划生育科研方法",
+   "publishYear": "2019",
+   "definition": "在研究疾病或事件的人群现象时，用各种统计指标对人群中疾病或事件在人群间、空间与时间的分布及其分布规律加以描述，了解哪个人群最易受影响，提出病因假设，针对特定人群开展教育，实施干预项目的流行病等分支学科"
+  },
+  {
+   "cn": "描述性编目",
+   "en": "descriptive cataloging",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.369",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_资源描述",
+   "subjectName": "资源描述",
+   "publishYear": "2019",
+   "definition": "与“主题编目”相对。编目工作的一个组成部分，提供描述性数据和非主题检索点。"
+  },
+  {
+   "cn": "描述控制",
+   "en": "descriptive control",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.058",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "为了有效地进行信息组织而对描述记录的内容、描述方式等进行的必要规范。包括描述项目的控制、描述文字的控制、描述级别的控制和描述格式的控制。"
+  },
+  {
+   "cn": "描述性元数据",
+   "en": "descriptive metadata",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.882",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_元数据",
+   "subjectName": "元数据",
+   "publishYear": "2019",
+   "definition": "对信息资源本身的内容、属性、外在特征进行描述的元数据。"
+  },
+  {
+   "cn": "描述性研究",
+   "en": "descriptive study",
+   "source": "核医学名词",
+   "wordNumber": "06.0256",
+   "subjectFullName": "核医学_核医学研究_核医学临床研究",
+   "subjectName": "核医学临床研究",
+   "publishYear": "2018",
+   "definition": "对常规监测记录或通过专门调查获得的临床资料进行归纳、分析并得出结论，或对某些疾病病因或新特征进行描述、总结或报告的一类研究。"
+  },
+  {
+   "cn": "描述性条款",
+   "en": "descriptive provision",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0870",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "关于适用性的条款，涉及产品、过程或服务的特性，常采用尺寸和材料构成来传达设计、结构细节等。"
+  },
+  {
+   "cn": "描述统计",
+   "en": "descriptive statistics",
+   "source": "心理学名词",
+   "wordNumber": "03.023",
+   "subjectFullName": "心理学_心理统计与测量",
+   "subjectName": "心理统计与测量",
+   "publishYear": "2014",
+   "definition": "通过图表或数学方法，对数据资料进行整理、分析，并对数据的分布状态、数字特征和随机变量之间关系进行估计和描述的方法。分为集中趋势分析、离中趋势分析和相关分析三大部分。"
+  },
+  {
+   "cn": "描述性名称",
+   "en": "descriptive name",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "描述",
+   "en": "description",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "描述胚胎学",
+   "en": "descriptive embryology",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "描述气候学",
+   "en": "descriptive climatology",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "描述气象学",
+   "en": "descriptive meteorology",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "描述性研究",
+   "en": "descriptive research",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "描述统计",
+   "en": "descriptive statistics",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "描述性效度",
+   "en": "descriptive validity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "描述数据",
+   "en": "descriptive data",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "描述数据",
+   "en": "descriptive data",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "文字说明",
+   "en": "descriptive text",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "叙述摄影测量学",
+   "en": "descriptive photogrammetry",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "描写语言学",
+   "en": "descriptive linguistics",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据库描述",
+   "en": "database description",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "图像描述",
+   "en": "image description",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "土地标定",
+   "en": "land description",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "作业描述",
+   "en": "job description",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "定性描述",
+   "en": "qualitative description",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "模式描述",
+   "en": "pattern description",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "区域描述，区域描绘",
+   "en": "region description",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "描述统计",
+   "en": "descriptive statistics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "描述性分析",
+   "en": "descriptive analysis",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "概念描述",
+   "en": "concept description",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "别名",
+   "en": "Distinct Name",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "共名",
+   "en": "General Name",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "达名",
+   "en": "Unrestricted Name",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "类名",
+   "en": "Classified Name",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "私名",
+   "en": "Private Name",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据资源描述框架",
+   "en": "Data Resource Description Framework (RDF)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "正名",
+   "en": "Rectification of Names",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "名实",
+   "en": "Name and Substance",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "形名",
+   "en": "Form and Name",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "根域名服务器",
+   "en": "root name server",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "域名系统安全",
+   "en": "domain name system security",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 34945-2017 信息技术 数据溯源描述模型》",
+   "en": "GB/T 34945-2017 Information technology — Data provenance descriptive model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "描述性统计",
+   "en": "descriptive statistics",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.41",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "运用表格、图形和数字来概括数据特征的统计方法。包括单变量和多变量描述统计。"
+  },
+  {
+   "cn": "描述伦理学",
+   "en": "descriptive ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.1320000000000001",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学流派",
+   "subjectName": "伦理学流派",
+   "publishYear": "2025",
+   "definition": "依据社会调查等研究方法对道德现象进行经验性的描述或从社会的实际状况再现道德现象，侧重于揭示人们对于某种行为在伦理方面的善恶、对错的看法，而不是给出伦理评判的伦理学理论。"
+  },
+  {
+   "cn": "描写语言学",
+   "en": "descriptive linguistics",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0007",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "语言学的一个分支。对特定时间的特定语言或方言的各种形式或用法作出全面的、客观的、精确的说明。强调客观性是为了与规定性语言学（prescriptive linguistics）相对比：描写语言学提倡如实"
+  },
+  {
+   "cn": "厚描",
+   "en": " thick description",
+   "source": "社会学名词",
+   "wordNumber": "4.2.7.19",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学方法",
+   "subjectName": "人类学方法",
+   "publishYear": "2025",
+   "definition": "一种关于文化的解释学及著述范式。由象征人类学代表人物格尔茨(C.Geertz）提出。强调文化科学面对的认知对象是人们编织的意义网络，有别于行为或心理，功能或结构。"
+  },
+  {
+   "cn": "深描",
+   "en": "thick description",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0613",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "一种民族志方法论、认识论及在此基础上的民族志写作。深描是指不仅描述行为本身，更要揭示行为与其背后的文化意义之间的联系。该概念由美国人类学家格尔茨（Clifford Geertz）在其著作《文化的解释》"
+  },
+  {
+   "cn": "通用名",
+   "en": "common name",
+   "source": "消毒学",
+   "wordNumber": "5.2.5.1.1",
+   "subjectFullName": "消毒学_监督管理_产品监管",
+   "subjectName": "产品监管",
+   "publishYear": "2025",
+   "definition": "消毒产品名称中表示主要原料、主要功效成分或产品功能的文字。"
+  },
+  {
+   "cn": "属性名",
+   "en": "attribute name",
+   "source": "消毒学",
+   "wordNumber": "5.2.5.1.2",
+   "subjectFullName": "消毒学_监督管理_产品监管",
+   "subjectName": "产品监管",
+   "publishYear": "2025",
+   "definition": "消毒产品名称中表示产品客观形态的文字。"
+  },
+  {
+   "cn": "属性名称",
+   "en": "attribute name",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.3.30",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品标准",
+   "subjectName": "食品标准",
+   "publishYear": "2025",
+   "definition": "能反映食品本身不必说明或已经说明的固有特性的专用名称，包括对配料特征、工艺特点、食品类别等一种或多种食品专属特征的描述。"
+  },
+  {
+   "cn": "商号",
+   "en": "trade name",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.018",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "商事主体在其营业活动中为表征其身份以区别其他主体而使用的名称。"
+  },
+  {
+   "cn": "消毒产品名称",
+   "en": "name of disinfection product",
+   "source": "消毒学",
+   "wordNumber": "5.2.5.1",
+   "subjectFullName": "消毒学_监督管理_产品监管",
+   "subjectName": "产品监管",
+   "publishYear": "2025",
+   "definition": "辨识消毒产品的文字、图形、数字或符号组合，具有唯一性。一般包括商标名或品牌名、型号、通用名和属性名等。"
+  },
+  {
+   "cn": "父子连名制",
+   "en": "father and son consecutive names",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0386",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "父系制时代父名与子名相连的命名制度。这种制度产生于母系氏族解体﹑父系氏族确立之后。父子连名主要有三种方式：正推顺连法，即父名在前，子名在后，以父名最末的一个或二个音节冠于子名之前；子名的最末一个或二个"
+  },
+  {
+   "cn": "母女连名制",
+   "en": "mother and daughter consecutive names",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0387",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "母系氏族制时代母名与女儿名相连的命名制度。一般认为产生于母系氏族制繁荣期，因生产力的发展，对偶家庭出现，子女血统以母系计算。"
+  },
+  {
+   "cn": "名实分离",
+   "en": "separation of name and reality",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.44",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "因社会变迁产生的经学理想社会与现实之间的分立，以及由此产生的社会心理上的不适应状态。费孝通提出的概念。具体而言，自诸子百家定于一尊之后，要解释社会变迁，往往通过注释的方式来使经典与社会变动相适应。乡土"
+  },
+  {
+   "cn": "国际非专利药名",
+   "en": "international non-proprietary names for pharmaceutical substance,INN",
+   "source": "卫生经济学名词",
+   "wordNumber": "16.1.6.2.5",
+   "subjectFullName": "卫生经济学名词_卫生系统改革_中国卫生系统改革",
+   "subjectName": "中国卫生系统改革",
+   "publishYear": "2025",
+   "definition": "向世界卫生组织申请，并获得核准的药品正式名称，全球通用的唯一性名称。"
+  },
+  {
+   "cn": "新途经方法",
+   "en": "new approach methodologies， NAMs",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.1.14",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "不依赖整体动物且可以为外源因素的健康危害和风险提供信息的技术丶方法和组合，旨在更精准、更高效地进行安全性与有效性评估。包括以类器官(organoids)、器官芯片(organ-on-a-chip)、3"
+  },
+  {
+   "cn": "颇罗鼐",
+   "en": "Pho lha ba bsod nams stobs rgyal",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0429",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏族历史人物，清代西藏贵族，本名琐南多结，在准噶尔军进入拉萨的时期，配合阿里总管康济鼐出兵策应进藏清军。后来平定诸噶伦内讧事件，作为首席噶伦因为政绩突出1739年被封为郡王爵位。"
+  },
+  {
+   "cn": "中央人民政府政务院关于处理带有歧视或侮辱少数民族性质的称谓、地名、碑碣、匾联的指示",
+   "en": "Instructions on Handling Titles, Place Names, Steles and Plaques Discriminating \nor Insulting Ethnic Minorities",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0091",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "中华人民共和国第一部禁止民族歧视的规范性文件。1951 年5 月16 日由中央人民政府政务院发布。规定各省市县人民政府应将历史上遗留下来的对于少数民族的称谓及有关少数民族地区的地名、碑碣、匾联等作全面"
+  },
+  {
+   "cn": "民间游戏",
+   "en": "folk games",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0428",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "流传于民间，以嬉戏、消遣为主的娱乐活动，是民间娱乐中最常见、最简易、最普遍的趣味性活动。民间游戏包括儿童的庭院嬉戏，成人的助兴游戏，以及少年、成人共享的斗智游戏等。"
+  },
+  {
+   "cn": "埃姆斯试验",
+   "en": "Ames test",
+   "source": "消毒学",
+   "wordNumber": "6.3.1.15.1",
+   "subjectFullName": "消毒学_检测与评价_安全性检验",
+   "subjectName": "安全性检验",
+   "publishYear": "2025",
+   "definition": "由埃姆斯(Ames)发明的用鼠伤寒沙门氏菌组氨酸营养缺陷型菌株回复突变为野生型以检测环境中诱变剂的实验方法。可用于消毒剂致突变性检测。"
+  },
+  {
+   "cn": "民间竞技",
+   "en": "folk competitive games",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.043",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "一种以竞赛体力、技巧、技艺为内容的娱乐活动。争强斗胜是民间竞技的根本特性。民间竞技从性质表现和形态划分，分力量型、技巧型、技艺型三类。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,782 @@
+{
+ "key": "moral grammar",
+ "term": "moral grammar",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T06:40:46+00:00",
+ "status": "ok",
+ "note": "variant=moral grammar; 审定公布名词库=717; 海峡两岸名词对照库=229; 其他来源数据库=27; 预公布名词数据库=110; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "文法",
+   "en": "grammar",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0498",
+   "subjectFullName": "计算机科学技术_理论计算机科学_形式语言与自动机",
+   "subjectName": "形式语言与自动机",
+   "publishYear": "2018",
+   "definition": "乔姆斯基谱系中的文法。它是一个由变量集、终极符集、产生式集和初始符组成的四元组。"
+  },
+  {
+   "cn": "语法",
+   "en": "grammar",
+   "source": "心理学名词",
+   "wordNumber": "02.797",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "将词组或短语组成句子以表达特定意思的一套规则。"
+  },
+  {
+   "cn": "语法学",
+   "en": "grammar",
+   "source": "语言学名词",
+   "wordNumber": "04.001",
+   "subjectFullName": "语言学_语法学_总论",
+   "subjectName": "总论",
+   "publishYear": "2011",
+   "definition": "语言学的一个分支。研究语言的组词造句的规则，即研究语言的小的音义结合体构成大的音义结合体的规则，一般包括词法学（形态学）和句法学。受研究者的观点、方法和研究角度的影响，同一种语言的语法可能会有不同的语"
+  },
+  {
+   "cn": "士气",
+   "en": "morale",
+   "source": "心理学名词",
+   "wordNumber": "12.053",
+   "subjectFullName": "心理学_管理心理学",
+   "subjectName": "管理心理学",
+   "publishYear": "2014",
+   "definition": "成员在追求共同组织目标时表现出来的一致性和持续性。"
+  },
+  {
+   "cn": "道德",
+   "en": "morality",
+   "source": "经济学名词",
+   "wordNumber": "05.043",
+   "subjectFullName": "经济学_制度经济学",
+   "subjectName": "制度经济学",
+   "publishYear": "2020",
+   "definition": "人们在社会生活实践中形成的关于善恶、是非的观念、情感和行为习惯，并依靠社会舆论和良心指导的人格完善与调节人与人、人与社会、人与自然关系的规范体系。道德是由经济关系最终决定、按照善恶标准来评价并依靠社会"
+  },
+  {
+   "cn": "形式语法",
+   "en": "formal grammar",
+   "source": "语言学名词",
+   "wordNumber": "04.017",
+   "subjectFullName": "语言学_语法学_总论",
+   "subjectName": "总论",
+   "publishYear": "2011",
+   "definition": "①与“概念语法”相对。指集中研究语言形式（语言形式的结构和分布）的语法。②指在语言分析中运用逻辑和数学的形式化技巧的语法。"
+  },
+  {
+   "cn": "句法控制",
+   "en": "grammar control",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.060",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "根据标引和检索的需要，利用一定的组词造句的规则，对检索语词的组合方式做出规定的过程。"
+  },
+  {
+   "cn": "歧义文法",
+   "en": "ambiguous grammar",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0469",
+   "subjectFullName": "计算机科学技术_理论计算机科学_形式语言与自动机",
+   "subjectName": "形式语言与自动机",
+   "publishYear": "2018",
+   "definition": "若上下文无关文法 G 中有某个句子（终极符串）可以由多于一个推导树产生，则 G 是一个歧义文法。"
+  },
+  {
+   "cn": "线性文法",
+   "en": "linear grammar",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0516",
+   "subjectFullName": "计算机科学技术_理论计算机科学_形式语言与自动机",
+   "subjectName": "形式语言与自动机",
+   "publishYear": "2018",
+   "definition": "如果一个文法 G 中的产生式都有 A →w或 A →<img src='/root/syzx/static/spz/jsjkx3.02.0516.001.png'/>B<img src='/root/"
+  },
+  {
+   "cn": "蒙太格文法",
+   "en": "Montague grammar",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0493",
+   "subjectFullName": "计算机科学技术_人工智能_计算语言学",
+   "subjectName": "计算语言学",
+   "publishYear": "2018",
+   "definition": "美国逻辑学家理查德·蒙太格（Richard Montague）于20世纪60年代提出的基于谓词逻辑及λ演算的形式语义系统。主要应用于自然语言语义分析。"
+  },
+  {
+   "cn": "树文法",
+   "en": "tree grammar",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0480",
+   "subjectFullName": "计算机科学技术_人工智能_计算语言学",
+   "subjectName": "计算语言学",
+   "publishYear": "2018",
+   "definition": "用来生成树结构组成的语言，是对乔姆斯基形式文法的扩展，其重写规则的左右两端不再是线性的符号串，而是树结构。"
+  },
+  {
+   "cn": "依存文法",
+   "en": "dependency grammar",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0482",
+   "subjectFullName": "计算机科学技术_人工智能_计算语言学",
+   "subjectName": "计算语言学",
+   "publishYear": "2018",
+   "definition": "一种文法理论。通过句子中词语之间的依存关系来描述句子的结构。"
+  },
+  {
+   "cn": "正规文法",
+   "en": "regular grammar",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0547",
+   "subjectFullName": "计算机科学技术_理论计算机科学_形式语言与自动机",
+   "subjectName": "形式语言与自动机",
+   "publishYear": "2018",
+   "definition": "右线性文法和左线性文法的统称。"
+  },
+  {
+   "cn": "格文法",
+   "en": "case grammar",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0489",
+   "subjectFullName": "计算机科学技术_人工智能_计算语言学",
+   "subjectName": "计算语言学",
+   "publishYear": "2018",
+   "definition": "美国语言学家查尔斯·菲尔莫尔（Charles Fillmore）于20世纪60代中期提出来的一种描述句子深层格结构及其表层实现的文法理论。"
+  },
+  {
+   "cn": "算符文法",
+   "en": "operator grammar",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0017",
+   "subjectFullName": "计算机科学技术_系统软件_语言与编译",
+   "subjectName": "语言与编译",
+   "publishYear": "2018",
+   "definition": "文法的任一产生式的右部都不含两个相继的非终极符的文法。"
+  },
+  {
+   "cn": "生成语法",
+   "en": "generative grammar",
+   "source": "心理学名词",
+   "wordNumber": "02.802",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "运用一系列规则对语言进行结构描写并说明如何产生合乎语法的句子的语法。"
+  },
+  {
+   "cn": "转换语法",
+   "en": "transformational grammar",
+   "source": "心理学名词",
+   "wordNumber": "02.803",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "乔姆斯基(N. Chomsky)提出的用于句子深层结构和表层结构之间或不同形式表层结构之间进行变换的一套转换规则。"
+  },
+  {
+   "cn": "文科中学",
+   "en": "grammar school",
+   "source": "教育学名词",
+   "wordNumber": "05.135",
+   "subjectFullName": "教育学_比较教育_德国教育",
+   "subjectName": "德国教育",
+   "publishYear": "2013",
+   "definition": "在基础学校或定向阶段之上，提供至第13或第12年级普通基础教育，为学生接受普通高等教育做一般准备的一种德国中等学校类型。"
+  },
+  {
+   "cn": "非限制文法",
+   "en": "unrestricted grammar",
+   "source": "语言学名词",
+   "wordNumber": "11.171",
+   "subjectFullName": "语言学_计算语言学_理论和模型",
+   "subjectName": "理论和模型",
+   "publishYear": "2011",
+   "definition": "乔姆斯基层级中的一种短语结构语法。其规则在生成符号串的过程中没有附加任何限制。规则表示为： u::=v，其中u、v为符号串，且u非空。由非限制文法生成的语言称为0型语言，也称为递归可枚举语言。"
+  },
+  {
+   "cn": "属性语法",
+   "en": "attribute grammar",
+   "source": "语言学名词",
+   "wordNumber": "11.179",
+   "subjectFullName": "语言学_计算语言学_理论和模型",
+   "subjectName": "理论和模型",
+   "publishYear": "2011",
+   "definition": "一种形式语法。以语法的巴克斯范式说明为基础，在普通上下文无关文法的基础上，为每个结点加上一些属性，用语义规则对这些属性进行估值。属性由有序对〈属性名，属性值〉组成。"
+  },
+  {
+   "cn": "语法",
+   "en": "grammar",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "语法",
+   "en": "grammar",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "士气",
+   "en": "morale",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "道德",
+   "en": "morality",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "故事语法",
+   "en": "story grammar",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "普遍语法",
+   "en": "universal grammar",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "生成语法",
+   "en": "generative grammar",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "转换语法",
+   "en": "transformational grammar",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "传统语法",
+   "en": "traditional grammar",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "串文法",
+   "en": "string grammar",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "词汇语法",
+   "en": "lexicon grammar",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "递归文法",
+   "en": "recursive grammar",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "多义文法",
+   "en": "ambiguous grammar",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "范畴语法",
+   "en": "categorical grammar",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "非限制文法",
+   "en": "unrestricted grammar",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "格语法",
+   "en": "case grammar",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "功能语法",
+   "en": "functional grammar",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "构件语法",
+   "en": "component grammar",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "规范文法",
+   "en": "canonical grammar",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "交织文法",
+   "en": "plex grammar",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "道心",
+   "en": "Moral Mind / Moral Consciousness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "风教",
+   "en": "Moral Cultivation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "崇德",
+   "en": "Moral Elevation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "德操",
+   "en": "Moral Integrity",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "气节",
+   "en": "Moral Integrity",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "风化",
+   "en": "Influence of Moral Cultivation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "充实之谓美",
+   "en": "Moral Fulfillment Is Beauty Itself.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "德性之知",
+   "en": "Knowledge from One’s Moral Nature",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "情教",
+   "en": "Moral Instruction Carried Out with Emotion",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "德性",
+   "en": "Virtuous Nature / Morals as Human Nature",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "师出有名",
+   "en": "Fighting a War with a Moral Justification",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "在全社会弘扬真善美",
+   "en": "to promote high moral standards throughout society",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "以义制事",
+   "en": "Handle Matters According to Morality and Justice",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "积善成德",
+   "en": "Moral Character Can Be Built by Accumulating Goodness.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "称情立文",
+   "en": "Establish Moral Standards in Keeping with Human Feelings",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "和而不流",
+   "en": "Living in Harmony with Others Without Losing Moral Ground",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "三不朽",
+   "en": "Set Moral Examples, Perform Great Deeds, and Spread Noble Ideas",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "德性",
+   "en": "moral",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.111",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "道德品性。个人在长期的道德实践中表现出来的比较稳定的、一贯的行为特征和心理倾向。通过道德认识、道德情感、道德信念、道德意志和道德行为等因素表现出来。"
+  },
+  {
+   "cn": "道德",
+   "en": "morality",
+   "source": "社会学名词",
+   "wordNumber": "2.8.2.4",
+   "subjectFullName": "社会学名词_社会学一般概念_社会制度_社会规范",
+   "subjectName": "社会规范",
+   "publishYear": "2025",
+   "definition": "基于社会普遍认同的善恶标准，用来评价人们行为是否符合公序良俗，并指引和调整社会成员之间关系的准则与规范的总和。"
+  },
+  {
+   "cn": "道德",
+   "en": "morality",
+   "source": "马克思主义",
+   "wordNumber": "01.0154",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "一种社会意识形态，以善恶为评价标准，依靠社会舆论和主体内在信念的力量来评价和调整人们之间相互关系的行为原则和规范的总和。道德是一个历史范畴，受社会生产方式制约。随生产方式的变化，形成不同的道德要求和道"
+  },
+  {
+   "cn": "道德",
+   "en": "morality",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.006",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人们共同生活、工作的行为准则和规范及其在人们内心形成的品德。它通过人们的自律和他律对社会生活起约束作用。"
+  },
+  {
+   "cn": "节操",
+   "en": "moral integrity",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.081",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "气节和操守的统称。前者表示一个人的精神力量，后者表示其道德品质。坚守某种被誉为高尚品质的行为表现。"
+  },
+  {
+   "cn": "道德规律",
+   "en": "moral law",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.023",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "道德发生、发展、变化及其诸要素之间客观的、内在的本质联系。社会经济关系决定道德的发展，同时受上层建筑中许多其他因素的影响。"
+  },
+  {
+   "cn": "道德评价",
+   "en": "moral evaluation",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.028",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "依据一定的道德标准对人们的道德行为和各种道德现象所作的善恶是非判断。包括自我评价和他人评价。其评价依据是动机与效果、目的与手段的辩证统一。"
+  },
+  {
+   "cn": "道德商谈",
+   "en": "moral discussion",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.032",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "德国哲学家尤尔根·哈贝马斯（Jürgen Habermas）提出的一种探究正义的方法。认为道德判断建立在以交往为基础的交往主体性上，而道德判断的普遍性原则就建立在主体之间的理性交往形成的普遍同意之上。"
+  },
+  {
+   "cn": "道义经济学",
+   "en": "moral economics",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.40",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "受生存伦理支配的经济活动。斯科特(James C.Scott）用此概念强调了生存规则的道德涵义。借助对东南亚农民反叛的考察与分析，他指出，农民追求的不是收入的最大化，而是“安全第一”的生存伦理，以及相"
+  },
+  {
+   "cn": "道德教育",
+   "en": "moral education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.3",
+   "subjectFullName": "社会学名词_分支社会学_教育社会学",
+   "subjectName": "教育社会学",
+   "publishYear": "2025",
+   "definition": "对受教育者有目的地施以道德影响的教育活动，强调责任、义务的履行和对至善道德、完美人性的追求。"
+  },
+  {
+   "cn": "道德共同体",
+   "en": "moral community",
+   "source": "马克思主义",
+   "wordNumber": "05.0065",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "晚年萨特在变革世界的方式上开始从暴力转向道德，希望用道德共同体来为个体自由和希望奠定基础。他把追寻道德的努力和消除匮乏的努力视作两种主要的合乎人性的态度，并指出道德的可能性基础在于兄弟关系的普遍性，即"
+  },
+  {
+   "cn": "道德风险",
+   "en": "moral hazard",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.3.3",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险市场",
+   "subjectName": "健康保险市场",
+   "publishYear": "2025",
+   "definition": "健康保险的第三方付费，引起参保者或医疗机构健康态度和行为上的改变，导致健康服务需求额外增加的行为"
+  },
+  {
+   "cn": "道德发展",
+   "en": "moral development",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.22",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "个体心理发展的一个方面。个体认识社会伦理道德规则和准则，形成道德认知、道德情感和道德行为的过程。既受到个体周围社会文化环境的影响，也受到个体成熟、认知及情绪发展，特别是其从事的交往活动和道德教育的制约"
+  },
+  {
+   "cn": "道德多元化",
+   "en": "moral pluralism",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.033",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "人类社会交往中呈现出的道德理论、道德原则、道德规范、道德选择的多样性。"
+  },
+  {
+   "cn": "道德境界",
+   "en": "moral state",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.042",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人们在道德修养过程中形成的道德觉悟和情操所达到的水平。由于人们所处地位和个人道德修养不同，道德境界有高低之别。"
+  },
+  {
+   "cn": "道德直觉",
+   "en": "moral intuition",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.025",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "无须借助经验证明和逻辑推理，凭借经验知识、记忆表象而作出的道德选择或道德评价。"
+  },
+  {
+   "cn": "道德价值",
+   "en": "moral value",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.024",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "个体或集体的品质、行为及其结果对于他人和社会所具有的道德上的意义。包括内在价值和外在价值。前者指主体对道德行为的内心感受，显现道德对提升德性和人格的精神价值；后者指道德行为的外在效果，显现道德的功利价"
+  },
+  {
+   "cn": "道德情感",
+   "en": "moral emotion",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.016",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人们基于一定的道德认识，对道德行为产生的爱憎或好恶的内心感受。对符合道德准则的行为感到满意、愉快、光荣，对不符合道德准则的行为感到义愤、内疚、羞耻。"
+  },
+  {
+   "cn": "道德冲突",
+   "en": "moral conflict",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.0290000000000001",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "行为主体在行为选择和作出决定时，从不同视角、不同利益出发所造成的不同道德观念、价值判断、行为动机等方面的矛盾和冲突。"
+  },
+  {
+   "cn": "道德理论",
+   "en": "moral theory",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.022",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "关于道德现象的系统化、理论化的认识和知识。其产生和发展由道德实践决定，同时自身又有相对的独立性。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

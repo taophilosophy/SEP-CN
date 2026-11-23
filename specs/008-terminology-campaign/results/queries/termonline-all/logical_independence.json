@@ -1,0 +1,692 @@
+{
+ "key": "logical independence",
+ "term": "logical independence",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T06:40:20+00:00",
+ "status": "ok",
+ "note": "variant=logical independence; 审定公布名词库=1252; 海峡两岸名词对照库=506; 其他来源数据库=51; 预公布名词数据库=48; jwt-direct（JWT 直连，raw 略；已滤维基 12 条）",
+ "hits": [
+  {
+   "cn": "独立",
+   "en": "independence",
+   "source": "放射医学与防护名词",
+   "wordNumber": "04.410",
+   "subjectFullName": "放射医学与防护_电离辐射剂量学_电离辐射监测方法",
+   "subjectName": "电离辐射监测方法",
+   "publishYear": "2014",
+   "definition": "若两组随机变量的联合概率分布是它们每个概率分布的乘积，那么这两个随机变量是统计独立的。"
+  },
+  {
+   "cn": "独立性",
+   "en": "independence",
+   "source": "数学名词",
+   "wordNumber": "02.0142",
+   "subjectFullName": "数学_数理逻辑·数学基础_证明论",
+   "subjectName": "证明论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "独立派",
+   "en": "Independents",
+   "source": "世界历史名词",
+   "wordNumber": "03.0325",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_英国、爱尔兰",
+   "subjectName": "英国、爱尔兰",
+   "publishYear": "2012",
+   "definition": "英国资产阶级革命中的一个清教派别，主要代表中等贵族和中等资产阶级利益。"
+  },
+  {
+   "cn": "独立[的]",
+   "en": "independent",
+   "source": "数学名词",
+   "wordNumber": "09.0040",
+   "subjectFullName": "数学_概率论_数理统计_概率空间",
+   "subjectName": "概率空间",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑",
+   "en": "logic",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.359",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "通常指人们思考问题，从某些已知条件出发，推出合理的结论的规律。"
+  },
+  {
+   "cn": "逻辑主义",
+   "en": "logicism",
+   "source": "数学名词",
+   "wordNumber": "02.0304",
+   "subjectFullName": "数学_数理逻辑·数学基础_数学基础 ",
+   "subjectName": "数学基础",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "独立学院",
+   "en": "independent college,independent institute",
+   "source": "教育学名词",
+   "wordNumber": "08.061",
+   "subjectFullName": "教育学_高等教育_院校组织",
+   "subjectName": "院校组织",
+   "publishYear": "2013",
+   "definition": "主要指中国由普通本科高校与社会力量合作举办的进行本科层次教育的高等教育机构。其性质尚在演变中。"
+  },
+  {
+   "cn": "逻辑和",
+   "en": "logical disjunction,logical sum",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.021",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "A和B两个检索项之间的布尔逻辑关系为“和”的运算。表示一篇文献只要含有A、B两项中的任何一项即可命中，通常用算符“或”或“OR”表示多个文件集并列的关系。"
+  },
+  {
+   "cn": "逻辑积",
+   "en": "logical product,logical multiplication",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.020",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "A和B两个检索项之间的布尔逻辑关系为“乘”的运算。表示一篇文献既含有检索项A，又含有检索项B才能命中，通常用算符“与”或“AND”表示其文件集相交的关系。"
+  },
+  {
+   "cn": "逻辑归档",
+   "en": "logical filing；logical archiving",
+   "source": "档案学名词",
+   "wordNumber": "06.03.012",
+   "subjectFullName": "档案学_电子文件管理_流程与方法",
+   "subjectName": "流程与方法",
+   "publishYear": "2024",
+   "definition": "具有档案价值的电子文件在归档之后仍然存储在业务系统中的归档方式。通常要求将其元数据移交到电子文件管理系统中，档案部门也可以委托业务部门对这些归档文件进行保管和提供利用，并对其管理工作进行指导和监督。"
+  },
+  {
+   "cn": "信念逻辑",
+   "en": "belief logic,doxastic logic",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0023",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "关于信念推理的逻辑。"
+  },
+  {
+   "cn": "条件独立性",
+   "en": "conditional independence",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.660",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "在概率论中，给定条件事件A，当A发生时，A1发生与否与A2发生与否是无关的。称事件A1、A2对于给定事件A为条件独立的。"
+  },
+  {
+   "cn": "非密度制约",
+   "en": "density independence ",
+   "source": "草学名词",
+   "wordNumber": "2.0054",
+   "subjectFullName": "草学_草地生态与草地培育_草地生态",
+   "subjectName": "草地生态",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "独立原则",
+   "en": "independence principle",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "06.0202",
+   "subjectFullName": "机械工程（一）_机械测量与控制_机械测量",
+   "subjectName": "机械测量",
+   "publishYear": "2021",
+   "definition": "图样上对某要素注出或未注出的尺寸公差与几何公差各自独立，彼此无关，分别满足各自要求的原则。"
+  },
+  {
+   "cn": "电荷无关性",
+   "en": "charge independence",
+   "source": "物理学名词",
+   "wordNumber": "09.0094",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_原子核物理学",
+   "subjectName": "原子核物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "非密度制约",
+   "en": "density independence",
+   "source": "植物学名词",
+   "wordNumber": "13.0168",
+   "subjectFullName": "植物学_植物生态学_植物种群生态学",
+   "subjectName": "植物种群生态学",
+   "publishYear": "2019",
+   "definition": "种群大小变化与种群密度无关的一种种群调节机制。"
+  },
+  {
+   "cn": "线性无关",
+   "en": "linear independence",
+   "source": "物理学名词",
+   "wordNumber": "01.0412",
+   "subjectFullName": "物理学_通类_数学",
+   "subjectName": "数学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "数据独立性",
+   "en": "data independence",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0081",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "应用程序与数据库中存储的数据不存在依赖关系，有逻辑数据独立性和物理数据独立性之分。其中，逻辑独立性是指用户的应用程序与数据库的逻辑结构是相互独立的，即当数据的逻辑结构改变时，用户程序可以不变。物理独立"
+  },
+  {
+   "cn": "审计师独立性",
+   "en": "auditor independence",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0362",
+   "subjectFullName": "管理科学技术_会计_审计",
+   "subjectName": "审计",
+   "publishYear": "2016",
+   "definition": "审计师在执行审计业务时应当在实质上和形式上独立于被审计单位和其他相关方的职业道德要求。"
+  },
+  {
+   "cn": "模块独立",
+   "en": "module independence",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0216",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_管理信息系统",
+   "subjectName": "管理信息系统",
+   "publishYear": "2016",
+   "definition": "模块的划分必须使得模块的内部功能和信息保持独立。"
+  },
+  {
+   "cn": "逻辑数据独立性",
+   "en": "logical data independence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑",
+   "en": "logic",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "局部独立性",
+   "en": "local independence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑记录",
+   "en": "logical record\",\"logic record",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "非密度制约",
+   "en": "density independence",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "独立性检验",
+   "en": "independence test",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "场独立性",
+   "en": "field independence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "领域无关",
+   "en": "field independence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "事件独立性",
+   "en": "event independence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据独立性",
+   "en": "data independence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "统计独立",
+   "en": "statistical independence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "线性独立",
+   "en": "linear independence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "非密度制约",
+   "en": "density independence",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "主动发育",
+   "en": "independent development",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "独立分配（=自由组合）",
+   "en": "independent assortment",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "自由组合，独立分配",
+   "en": "independent assortment",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "独立样本",
+   "en": "independent sample",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "自变量",
+   "en": "independent variable",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "独立反应",
+   "en": "independent reaction",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "自变量",
+   "en": "independent variable",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑结构",
+   "en": "logical structure",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑部件",
+   "en": "logic unit",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑编程",
+   "en": "logic programming",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "协议逻辑",
+   "en": "protocol logic",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "Bieber逻辑",
+   "en": "Bieber logic",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "独立系统评估",
+   "en": "independent system assessment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑数据模型",
+   "en": "logical data model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑编程语言",
+   "en": "logic programming language",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "局部独立",
+   "en": "local independence",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.137",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "潜变量模型中的基本假设。若设定一个个体在潜变量上的分数，那么个体在观测项目上的得分相互独立。"
+  },
+  {
+   "cn": "独立评估",
+   "en": "independent assessment",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.6.18",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_分析评估",
+   "subjectName": "分析评估",
+   "publishYear": "2025",
+   "definition": "为确定满足管理体系要求的程度、评价管理体系的有效性和识别改进机会而进行的审核或监督等评估。 它们可以由组织本身或代表组织本身进行，用于内部目的，也可以由客户和监管机构等利益相关方（或代表他们的其他人）"
+  },
+  {
+   "cn": "自变量",
+   "en": "independent variable",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.25",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "任意一个被认为是其他变量（因变量）的原因的变量。"
+  },
+  {
+   "cn": "自主创新",
+   "en": "independent innovation",
+   "source": "马克思主义",
+   "wordNumber": "03.0702",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "通过拥有自主知识产权的独特的核心技术以及在此基础上实现新产品的价值的过程。"
+  },
+  {
+   "cn": "独立作用",
+   "en": "independent action",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.2.40",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "两种或两种以上外源化学物同时或短期内先后作用于机体，由于其作用模式和作用部位等不同，所产生的生物学效应彼此互不影响，从而表现出各自的毒作用。"
+  },
+  {
+   "cn": "思辨逻辑",
+   "en": "speculative logic",
+   "source": "马克思主义",
+   "wordNumber": "01.0101",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "研究人类辩证思维的科学，是关于辩证思维的形式、规律和方法的科学。它把概念的辩证运动以及如何通过概念反映现实矛盾的问题作为自己的主要研究对象。原初含义专指黑格尔思辨哲学的逻辑形态。恩格斯最早明确地把这种"
+  },
+  {
+   "cn": "独立报酬系统",
+   "en": "independent reward system",
+   "source": "社会学名词",
+   "wordNumber": "3.8.3.17",
+   "subjectFullName": "社会学名词_分支社会学_文化社会学_文化的制度结构",
+   "subjectName": "文化的制度结构",
+   "publishYear": "2025",
+   "definition": "美国文化社会学家克兰(Diana Crane)提出的概念，指在艺术世界中生产者自己界定问题和提出合适的解决方案，并分配符号性和物质性报酬。"
+  },
+  {
+   "cn": "非胸腺依赖区",
+   "en": "thymus independent area",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.2.5",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫器官",
+   "subjectName": "免疫器官",
+   "publishYear": "2025",
+   "definition": "外周淋巴结浅皮质区，外周淋巴器官中非T细胞聚集的部位。是B细胞居留的场所，大量B细胞聚集成淋巴滤泡。"
+  },
+  {
+   "cn": "先逻辑思维",
+   "en": "pre-logical thinking",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0534",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "法国人类学家列维-布留尔（Lucien Lévy-Bruhl）提出的概念。他认为原始人的思维是前逻辑思维，本质上不同于文明人的逻辑思维，后者能够进行抽象、概括和分类。前逻辑思维在我们看来很荒谬，但在原"
+  },
+  {
+   "cn": "抽象逻辑思维",
+   "en": "abstract logic thinking",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.5.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "能进行假设演绎推理和命题推理的科学思维方式。"
+  },
+  {
+   "cn": "朝鲜三一运动",
+   "en": "Independence Movement of Korea",
+   "source": "马克思主义",
+   "wordNumber": "05.0200",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_主要事件",
+   "subjectName": "主要事件",
+   "publishYear": "2025",
+   "definition": "1910年日本公布《日韩合并条约》的影响下,处于水深火热之中的朝鲜人民不甘忍受殖民主义者的压迫,掀起反日斗争的新高潮。1919年1月22日,日本殖民者毒死前朝鲜国王李熙,成为反日民族起义的导火线。3月"
+  },
+  {
+   "cn": "独立发明说",
+   "en": "theory of independent invention",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.05",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "19 世纪的古典进化论学派所持主要观点。该观点认为，世界各民族的文化都是由简到繁、独自发展而来的，各民族、各地相似或相同的文化现象都是“独立发明”的。"
+  },
+  {
+   "cn": "半独立报酬系统",
+   "en": "semi-independent reward system",
+   "source": "社会学名词",
+   "wordNumber": "3.8.3.18",
+   "subjectFullName": "社会学名词_分支社会学_文化社会学_文化的制度结构",
+   "subjectName": "文化的制度结构",
+   "publishYear": "2025",
+   "definition": "美国文化社会学家克兰(Diana Crane)提出的概念，指在艺术世界中，创造性的生产者分配符号性报酬，而消费者分配物质性报酬。"
+  },
+  {
+   "cn": "统一性和独立性相结合",
+   "en": "combination of unity and independence",
+   "source": "马克思主义",
+   "wordNumber": "02.0379",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东在《论十大关系》中提出的统一性和独立性是对立的统一的思想。要有统一性，也要有独立性。各个生产单位都要有一个与统一性相联系的独立性，才会发展的更加活泼。"
+  },
+  {
+   "cn": "独立自主",
+   "en": "maintain independence and keep the initiative",
+   "source": "马克思主义",
+   "wordNumber": "01.0247",
+   "subjectFullName": "马克思主义_哲学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "正确处理本国革命事业和国际革命事业、本国革命力量和革命政党同国际革命力量及组织、本国建设事业与国际援助间相互关系的根本原则。是从中国实际出发，依靠群众进行革命和建设的必然结论。它与实事求是、群众路线共"
+  },
+  {
+   "cn": "独立自主的山地游击战",
+   "en": "independent guerrilla struggle in the mountains",
+   "source": "马克思主义",
+   "wordNumber": "03.0428",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东在《抗日游击战争的战略问题》《论持久战》等文中提出的人民军队在抗日战争时期的基本战略方针。在整个抗日战争中，人民军队在敌后开展的独立自主的山地游击战，既是对正规战争的配合，又由于在敌后建立抗日根"
+  },
+  {
+   "cn": "工农武装割据",
+   "en": "armed independent regime of workers and peasants",
+   "source": "马克思主义",
+   "wordNumber": "03.0355",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "以毛泽东为主要代表的中国共产党人建立红色政权的实践和思想。它的基本内容是在中国共产党的领导下, 以农民武装斗争为主要形式,以土地革命为主要内容,以农村革命根据地为主要阵地，三者密切结合，进行反对帝国主"
+  },
+  {
+   "cn": "依赖",
+   "en": "dependence",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.3.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "经常使用非法药物或某些处方药时可能出现的一种强烈、迫切地要求服用某种物质以获得支持或行使功能或生存的一种状态。"
+  },
+  {
+   "cn": "依附性发展",
+   "en": "dependence development",
+   "source": "社会学名词",
+   "wordNumber": "2.9.2.7",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_依附理论",
+   "subjectName": "依附理论",
+   "publishYear": "2025",
+   "definition": "新依附理论提出的发展中国家发展的方案。认为依附与发展并不是一个相互矛盾的现象，依附性的发展是可能的，发展中国家可以通过与中心经济的新型联系而受益。"
+  },
+  {
+   "cn": "路径依赖",
+   "en": "path-dependence",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.35",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "诺斯(Douglas North）用于解释人类经济制度的变迁的概念，意指社会一旦选择了某种制度或某个制度系统，由于制度设置的初始成本固定、社会的学习效应、社会的协调效应、适应性效应以及随之产生的收益递"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

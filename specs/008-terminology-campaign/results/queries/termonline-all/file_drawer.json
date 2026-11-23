@@ -1,0 +1,772 @@
+{
+ "key": "file drawer",
+ "term": "file drawer",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T06:39:49+00:00",
+ "status": "ok",
+ "note": "variant=file drawer; 审定公布名词库=3467; 海峡两岸名词对照库=841; 其他来源数据库=139; 预公布名词数据库=61; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "锉刀",
+   "en": "file",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "16.029",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_钳工及装配工具_手工工具",
+   "subjectName": "手工工具",
+   "publishYear": "2021",
+   "definition": "用以锉削的工具。"
+  },
+  {
+   "cn": "文件",
+   "en": "file",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0613",
+   "subjectFullName": "计算机科学技术_系统软件_操作系统",
+   "subjectName": "操作系统",
+   "publishYear": "2018",
+   "definition": "保存在存储介质上的一组带标识的、有逻辑意义的信息项序列的集合。"
+  },
+  {
+   "cn": "[计算机]文件",
+   "en": "file",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.001",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "对存储在硬盘、软盘、光碟等介质上的数据集合的总称。"
+  },
+  {
+   "cn": "屉桌",
+   "en": "drawer desk",
+   "source": "风景园林名词",
+   "wordNumber": "11.0265",
+   "subjectFullName": "风景园林_风景园林艺术_陈设艺术",
+   "subjectName": "陈设艺术",
+   "publishYear": "2025",
+   "definition": "安装有抽屉，可做桌子使用的矮立柜。"
+  },
+  {
+   "cn": "抽屉试验",
+   "en": "drawer test",
+   "source": "急救医学名词",
+   "wordNumber": "03.459",
+   "subjectFullName": "急救医学_日常医学急救_外科学_运动系统体征",
+   "subjectName": "运动系统体征",
+   "publishYear": "2025",
+   "definition": "一种检查前或后交叉韧带断裂的方法。患者取仰卧位，屈膝关节90°，检查者轻坐在患侧足背上（固定），双手握住小腿上段，向后推，再向前拉，前拉或后推范围超过0.5cm时为阳性。将膝关节置于屈曲10°～15°"
+  },
+  {
+   "cn": "抽屉试验",
+   "en": "drawer test",
+   "source": "中医药学名词（2013）",
+   "wordNumber": "06.085",
+   "subjectFullName": "中医药学_骨伤科学_诊断",
+   "subjectName": "诊断",
+   "publishYear": "2013",
+   "definition": "仰卧位，屈膝90°，足平放于床上，两手持伤肢小腿上端，用力前后推拉，观察小腿前后活动度是否过大，以判断膝关节交叉韧带断裂或松弛的检查方法。"
+  },
+  {
+   "cn": "电热屉",
+   "en": "warming drawer",
+   "source": "电气工程名词",
+   "wordNumber": "23.092",
+   "subjectFullName": "电气工程_日用电器",
+   "subjectName": "日用电器",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "抽屉试验",
+   "en": "drawer test",
+   "source": "医学名词 第六分册",
+   "wordNumber": "05.253",
+   "subjectFullName": "医学_骨科学",
+   "subjectName": "骨科学",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "档案",
+   "en": "archive,file",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.074",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "分类保存的文件和材料。"
+  },
+  {
+   "cn": "音锉",
+   "en": "stridulitrum,file",
+   "source": "昆虫学名词",
+   "wordNumber": "03.417",
+   "subjectFullName": "昆虫学_昆虫外部形态",
+   "subjectName": "昆虫外部形态",
+   "publishYear": "2000",
+   "definition": "昆虫以身体的一个部分摩擦另一表面粗糙部分而发出声音，被摩擦的粗糙面即是音锉。"
+  },
+  {
+   "cn": "案卷题名",
+   "en": "file title",
+   "source": "档案学名词",
+   "wordNumber": "02.05.018",
+   "subjectFullName": "档案学_文件管理_文件处置",
+   "subjectName": "文件处置",
+   "publishYear": "2024",
+   "definition": "案卷标题，一个案卷的具体名称。其作用是概括揭示卷内的主要内容成分，为查找文件提供标识，为档案管理提供依据和条件。"
+  },
+  {
+   "cn": "案卷号",
+   "en": "file number",
+   "source": "档案学名词",
+   "wordNumber": "03.01.066",
+   "subjectFullName": "档案学_档案管理_档案收集与整理",
+   "subjectName": "档案收集与整理",
+   "publishYear": "2024",
+   "definition": "案卷在案卷目录内的排列顺序号。"
+  },
+  {
+   "cn": "档案柜",
+   "en": "cabinet file",
+   "source": "档案学名词",
+   "wordNumber": "03.03.012",
+   "subjectFullName": "档案学_档案管理_档案统计与保管",
+   "subjectName": "档案统计与保管",
+   "publishYear": "2024",
+   "definition": "多指用木材或金属材料制成，整体式或组合式的保存档案的柜子。"
+  },
+  {
+   "cn": "案卷封面",
+   "en": "file cover",
+   "source": "档案学名词",
+   "wordNumber": "03.03.031",
+   "subjectFullName": "档案学_档案管理_档案统计与保管",
+   "subjectName": "档案统计与保管",
+   "publishYear": "2024",
+   "definition": "案卷的外表封面。"
+  },
+  {
+   "cn": "计算机文件",
+   "en": "computer file",
+   "source": "档案学名词",
+   "wordNumber": "06.01.008",
+   "subjectFullName": "档案学_电子文件管理_综合",
+   "subjectName": "综合",
+   "publishYear": "2024",
+   "definition": "为操作系统所知的、已命名的、有序的字节序列。"
+  },
+  {
+   "cn": "物理案卷",
+   "en": "physical file",
+   "source": "档案学名词",
+   "wordNumber": "06.03.016",
+   "subjectFullName": "档案学_电子文件管理_流程与方法",
+   "subjectName": "流程与方法",
+   "publishYear": "2024",
+   "definition": "一组互有联系的实体文件集合体，是档案管理最小的集合体。"
+  },
+  {
+   "cn": "逻辑案卷",
+   "en": "logical file",
+   "source": "档案学名词",
+   "wordNumber": "06.03.017",
+   "subjectFullName": "档案学_电子文件管理_流程与方法",
+   "subjectName": "流程与方法",
+   "publishYear": "2024",
+   "definition": "计算机系统中一组互有联系的文件集合体，在逻辑上被作为一个案卷来处理，无论这些文件的物理存储位置如何。"
+  },
+  {
+   "cn": "数据文件",
+   "en": "data file",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.01.039",
+   "subjectFullName": "编辑与出版学_数字出版_综述",
+   "subjectName": "综述",
+   "publishYear": "2022",
+   "definition": "将复制对象从对外操作传输到对内操作的文件。"
+  },
+  {
+   "cn": "文件共享",
+   "en": "file sharing",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.01.100",
+   "subjectFullName": "编辑与出版学_数字出版_综述",
+   "subjectName": "综述",
+   "publishYear": "2022",
+   "definition": "用户在互联网环境中主动地发布和提供自己计算机文件的行为。提供自己的共享文件的同时也可以下载别人提供的共享文件。文件传输协议（FTP）是一种广泛应用的文件共享系统基础。"
+  },
+  {
+   "cn": "文件格式",
+   "en": "file format",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.03.046",
+   "subjectFullName": "编辑与出版学_数字出版_电子出版",
+   "subjectName": "电子出版",
+   "publishYear": "2022",
+   "definition": "电脑为了有效识别内部存储信息而使用的对信息的特定编码方式。"
+  },
+  {
+   "cn": "绘图文件",
+   "en": "drawing file",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "[计算机]文件",
+   "en": "file",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "文件",
+   "en": "file",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "日志文件",
+   "en": "log file\",\"journal file",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "备份文件",
+   "en": "backup file\",\"back file",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "支票出票人",
+   "en": "check drawer",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "音锉",
+   "en": "file\",\"stridulitrum",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "DBF文件",
+   "en": ".DBF file",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "参考文件",
+   "en": "reference file",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "层文件",
+   "en": "layer file",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "串行化文件",
+   "en": "serialization file",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "范本文件",
+   "en": "pattern file",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "脚本文件",
+   "en": "script file",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "可执行文件",
+   "en": "executable file",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "临时文件",
+   "en": "temporal file",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "描述符文件",
+   "en": "descriptor file",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "配置文件",
+   "en": "configuration file",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "批处理文件",
+   "en": "batch file",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "匹配文件",
+   "en": "match file",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "使用许可文件",
+   "en": "license file",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "文件服务器",
+   "en": "file server",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "备案制度",
+   "en": "filing system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "分布式文件系统",
+   "en": "distributed file system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "XML文档存储",
+   "en": "XML file saving",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "JSON文档存储",
+   "en": "JSON file saving",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据文件备份",
+   "en": "data file backup",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "电子卷宗",
+   "en": "electronic case file",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "定级备案",
+   "en": "classification and filing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络文件系统",
+   "en": "network file system (NFS)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "Andrew文件系统",
+   "en": "Andrew file system (AFS)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "KASS分布式文件系统",
+   "en": "Kass File System (KFS)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智能卷宗管理平台",
+   "en": "intelligent file management platform",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据交易备案登记",
+   "en": "filing of data trading",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际联网备案制度",
+   "en": "international networking filing system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 16684-1996 信息技术 信息交换用数据描述文卷规范》",
+   "en": "GB/T 16684-1996 Information technology — Specification for a data descriptive file for information interchange",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "抽签",
+   "en": "draw",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抽屉试验",
+   "en": "drawer test, DT",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.3.3.33",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_体征",
+   "subjectName": "体征",
+   "publishYear": "2025",
+   "definition": "用于检测交叉韧带病变的试验方法。患者仰卧，屈膝90°，足平放床上，检查者以一肘压住患者足背固定，两手环握小腿上段做向前拉及后退的动作，分为前抽屉试验及后抽屉试验，分别用于前交叉韧带及后交叉韧带的检查。"
+  },
+  {
+   "cn": "体检档案",
+   "en": "medical examination file",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.1.6.8.3.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_学校营养食物供应",
+   "subjectName": "学校营养食物供应",
+   "publishYear": "2025",
+   "definition": "在健康人群体检活动中形成的，记录和反映个人健康体检的重要医学资料，以个人为单位组合起来，提供个人和医务人员参考健康体检信息的材料，包括受检者的个人基本资料，健康状况信息，体检报告等。"
+  },
+  {
+   "cn": "食品安全信用档案",
+   "en": "food safety credit file",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.2.11",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品安全法规",
+   "subjectName": "食品安全法规",
+   "publishYear": "2025",
+   "definition": "记录许可颁发、日常监督检查结果、违法行为查处和食品经营者停止经营不符合食品安全标准的食品等情况的食品生产经营者食品安全记录。"
+  },
+  {
+   "cn": "人类关系区域档案",
+   "en": "Human Relations Area Files",
+   "source": "社会学名词",
+   "wordNumber": "4.2.7.12",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学方法",
+   "subjectName": "人类学方法",
+   "publishYear": "2025",
+   "definition": "20世纪70年代由默多克(Geoge Peter Murdock）开创的跨文化比较研究的方法。默多克主导建立了多种基础性的跨文化数据库，试图通过使用该数据库的民族志素材来检验当初的各种亲属关系的假设，"
+  },
+  {
+   "cn": "人类关系区域档案",
+   "en": "human relations area files",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0551",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "该档案在美国人类学家默多克（George Peter Murdock）等人的倡议下，1949 年正式建立于美国耶鲁大学。1935 年默多克在进行母系社会与父系社会的相关关系的研究时，感觉到在进行跨文化"
+  },
+  {
+   "cn": "保健食品备案",
+   "en": "filing for health food",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.1.11",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "保健食品生产企业依照法定程序、条件和要求，将表明产品安全性、保健功能和质量可控性的材料提交市场监督管理部门进行存档、公开、备查的过程。"
+  },
+  {
+   "cn": "职业健康检查备案信息",
+   "en": "occupational medical examination filing information",
+   "source": "放射卫生学",
+   "wordNumber": "8.4.5",
+   "subjectFullName": "放射卫生学_放射卫生监管_放射工作人员职业健康管理",
+   "subjectName": "放射工作人员职业健康管理",
+   "publishYear": "2025",
+   "definition": "开展职业健康检查的医疗机构向卫生行政部门备案的信息，包括机构名称、地址、检查类别和项目及工作场所、设备、人员、制度等。"
+  },
+  {
+   "cn": "绘人测验",
+   "en": "Draw-a-Man test",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.29.6",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "儿童发育和智能的筛查性工具之一。由美国心理学家古迪纳夫(F.Goodenough)于1926年首次提出的反映儿童的空间构想、人面记忆提取和手眼协调等方面功能的他评测验。适用于5～12岁儿童。"
+  },
+  {
+   "cn": "金瓶掣签",
+   "en": "Drawing Lots from the Golden Urn",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0201",
+   "subjectFullName": "民族学与文化学_民族史_民族政治",
+   "subjectName": "民族政治",
+   "publishYear": "2025",
+   "definition": "清朝制定的管理藏、蒙古地区藏传佛教活佛转世的制度，乃于金瓶中抽签，以确认藏、蒙地区藏传佛教大活佛转世灵童。始创于乾隆五十七年（1799 年），至今沿用。"
+  },
+  {
+   "cn": "阿拉维人",
+   "en": "Arawe",
+   "source": "民族学与文化学名词",
+   "wordNumber": "6.0152",
+   "subjectFullName": "民族学与文化学_世界民族_亚洲地区",
+   "subjectName": "亚洲地区",
+   "publishYear": "2025",
+   "definition": "巴布亚新几内亚部落之一。 人口约为0.55 万（2016 年）。主要分布在新不列颠岛的西南部地区以及周边岛屿上。操南岛语系美拉尼西亚语族中的语言。"
+  },
+  {
+   "cn": "纸尿裤",
+   "en": "disposable diaper",
+   "source": "消毒学",
+   "wordNumber": "3.1.12.8",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "由外包覆材料、内置吸收层、防漏底膜等制成的一次性使用的纸质裤状卫生用品。"
+  },
+  {
+   "cn": "放射性示踪剂",
+   "en": "radioactive tracer",
+   "source": "放射卫生学",
+   "wordNumber": "6.5.4.16",
+   "subjectFullName": "放射卫生学_放射防护_工业应用的放射防护_核仪表及其他应用",
+   "subjectName": "核仪表及其他应用",
+   "publishYear": "2025",
+   "definition": "与被研究物质的物理和化学性质相似，并可关联被研究物质行为信息的放射性同位素标记化合物。"
+  },
+  {
+   "cn": "可活化示踪剂",
+   "en": "activable tracer",
+   "source": "放射卫生学",
+   "wordNumber": "6.5.4.17",
+   "subjectFullName": "放射卫生学_放射防护_工业应用的放射防护_核仪表及其他应用",
+   "subjectName": "核仪表及其他应用",
+   "publishYear": "2025",
+   "definition": "采用核活化分析，可在很低浓度下对其进行测量的非放射性示踪剂。"
+  },
+  {
+   "cn": "管道爬行器",
+   "en": "pipe crawler",
+   "source": "放射卫生学",
+   "wordNumber": "8.2.7",
+   "subjectFullName": "放射卫生学_放射卫生监管_工业及其他应用监管",
+   "subjectName": "工业及其他应用监管",
+   "publishYear": "2025",
+   "definition": "一种在管道内安装的移动式管道探伤装置，探伤装置机架安装在管道内，源在动力驱动下随同机架在管道内平移（前进或后退），对管道焊缝进行射线探伤。"
+  },
+  {
+   "cn": "“五观”",
+   "en": "five outlooks",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0136",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "即马克思主义的国家观、历史观、民族观、文化观和宗教观。"
+  },
+  {
+   "cn": "贴膜试验",
+   "en": "film test",
+   "source": "消毒学",
+   "wordNumber": "6.2.34.6",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "将试验菌悬液滴染于抗菌材料样品表面，用塑料薄膜覆盖使两者充分接触，用于评价硬质材料表面的抗菌效果的试验。"
+  },
+  {
+   "cn": "胶片剂量计",
+   "en": "film dosimeter",
+   "source": "放射卫生学",
+   "wordNumber": "5.2.5.12",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测设备_通用辐射监测设备",
+   "subjectName": "通用辐射监测设备",
+   "publishYear": "2025",
+   "definition": "一种通过胶片受辐照后曝光的程度来确定辐射剂量的器件。"
+  },
+  {
+   "cn": "X射线摄影胶片",
+   "en": "radiographic film",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.35",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "用于X射线摄影的单面或双面涂有辐射感光剂的透明载体材料。"
+  },
+  {
+   "cn": "精细动作",
+   "en": "fine motor",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.4.2",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "手及手指等部位小肌肉或肌肉群的运动能力，表现为手的灵活性、稳定性、协调性和力量。"
+  },
+  {
+   "cn": "避孕药膜",
+   "en": "contraceptive film",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.2.8.2.1.2",
+   "subjectFullName": "妇幼卫生学名词_生育调节_避孕",
+   "subjectName": "避孕",
+   "publishYear": "2025",
+   "definition": "一种膜剂形式的外用避孕药。将杀精化学物质搭载在一可溶性薄膜上，性交前3-5分钟折两折或揉成一松软小团置入阴道深部，溶解后方可性交射精。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

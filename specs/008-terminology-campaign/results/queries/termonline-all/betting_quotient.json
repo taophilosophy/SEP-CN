@@ -1,0 +1,752 @@
+{
+ "key": "betting quotient",
+ "term": "betting quotient",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T06:42:30+00:00",
+ "status": "ok",
+ "note": "variant=betting quotient; 审定公布名词库=2430; 海峡两岸名词对照库=492; 其他来源数据库=59; 预公布名词数据库=31; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "商",
+   "en": "quotient",
+   "source": "数学名词",
+   "wordNumber": "04.0032",
+   "subjectFullName": "数学_代数学_代数几何学_算术",
+   "subjectName": "算术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "两头下注假说",
+   "en": "bet-hedgeing hypothesis",
+   "source": "植物学名词",
+   "wordNumber": "13.0160",
+   "subjectFullName": "植物学_植物生态学_植物种群生态学",
+   "subjectName": "植物种群生态学",
+   "publishYear": "2019",
+   "definition": "解释土壤种子库形成的一种假说。认为即使给予理想的条件如适当的季节、温度、湿度和种子埋藏深度等，种子仍然保持休眠状态，等到以后几年才萌发。"
+  },
+  {
+   "cn": "光温比",
+   "en": "photothermal quotient",
+   "source": "农学名词",
+   "wordNumber": "07.268",
+   "subjectFullName": "作物生理生态_作物系统生理与模拟",
+   "subjectName": "作物系统生理与模拟",
+   "publishYear": "2025",
+   "definition": "作物生长发育某一阶段的太阳辐射与平均温度的比值。在作物生长模型中常作为模拟叶片生长的关键参数。"
+  },
+  {
+   "cn": "风险熵值",
+   "en": "risk quotient",
+   "source": "农学名词",
+   "wordNumber": "10.252",
+   "subjectFullName": "植物保护_农药",
+   "subjectName": "农药",
+   "publishYear": "2025",
+   "definition": "在农药环境风险评估中用以表征风险大小的参数。为环境暴露浓度(或剂量)与预测无效应浓度(或剂量)的比值。"
+  },
+  {
+   "cn": "直径系数",
+   "en": "diametral quotient",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "08.0546",
+   "subjectFullName": "机械工程（一）_传动_蜗杆传动_蜗杆尺寸和性能参数",
+   "subjectName": "蜗杆尺寸和性能参数",
+   "publishYear": "2021",
+   "definition": "圆柱蜗杆的分度圆直径与轴向模数的比值。"
+  },
+  {
+   "cn": "区位商",
+   "en": "location quotient",
+   "source": "经济学名词",
+   "wordNumber": "08.116",
+   "subjectFullName": "经济学_区域经济学",
+   "subjectName": "区域经济学",
+   "publishYear": "2020",
+   "definition": "衡量地区专业化的重要指标。它是某地区某工业部门在全国该工业部门的比重与该地区整个工业占全国工业比重之比。<img src='/root/syzx/static/spz/jingjixue1.08.11"
+  },
+  {
+   "cn": "呼吸商",
+   "en": "respiratory quotient",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.0621",
+   "subjectFullName": "食品科学技术_食品工程_食品专用技术与装备_贮藏保鲜",
+   "subjectName": "贮藏保鲜",
+   "publishYear": "2020",
+   "definition": "单位时间内进行呼吸作用的生物释放二氧化碳的量与吸收氧气的量的比值。"
+  },
+  {
+   "cn": "光合商",
+   "en": "photosynthetic quotient",
+   "source": "植物学名词",
+   "wordNumber": "11.0256",
+   "subjectFullName": "植物学_植物生理学_植物光合作用",
+   "subjectName": "植物光合作用",
+   "publishYear": "2019",
+   "definition": "植物光合作用所放出氧的摩尔数与吸收的二氧化碳摩尔数之比。"
+  },
+  {
+   "cn": "形率",
+   "en": "form quotient",
+   "source": "林学名词",
+   "wordNumber": "06.120",
+   "subjectFullName": "林学_森林经理_森林作业与资源调查",
+   "subjectName": "森林作业与资源调查",
+   "publishYear": "2016",
+   "definition": "树干上某一位置的直径与比较直径之比。"
+  },
+  {
+   "cn": "呼吸商",
+   "en": "respiratory quotient",
+   "source": "药学名词",
+   "wordNumber": "04.250",
+   "subjectFullName": "药学_微生物药学",
+   "subjectName": "微生物药学",
+   "publishYear": "2014",
+   "definition": "单位时间内二氧化碳(<img src='/root/syzx/static/spz/yaoxue2.04.250.01.png'/>)产生量与耗氧量之比值。"
+  },
+  {
+   "cn": "EQ指数",
+   "en": "encephalization quotient",
+   "source": "古生物学名词",
+   "wordNumber": "03.0661",
+   "subjectFullName": "古生物学_古脊椎动物学与古人类学_古人类学",
+   "subjectName": "古人类学",
+   "publishYear": "2009",
+   "definition": "一种利用颅容量与身体尺寸比例计算出来表示相对脑量大小的指数。EQ指数随人类演化呈增加趋势。"
+  },
+  {
+   "cn": "光合商",
+   "en": "photosynthetic quotient",
+   "source": "生态学名词",
+   "wordNumber": "02.255",
+   "subjectFullName": "生态学_生理生态学",
+   "subjectName": "生理生态学",
+   "publishYear": "2006",
+   "definition": "光合作用时吸收的二氧化碳与放出氧的摩尔比。"
+  },
+  {
+   "cn": "商值表",
+   "en": "quotient-meter",
+   "source": "机械工程名词 第三分册",
+   "wordNumber": "03.015",
+   "subjectFullName": "机械工程_仪器仪表_电测量仪器仪表_电测量仪器仪表一般名词",
+   "subjectName": "电测量仪器仪表一般名词",
+   "publishYear": "2003",
+   "definition": "测量两个不同类量值之商的仪表。"
+  },
+  {
+   "cn": "长寿商",
+   "en": "longevity quotient",
+   "source": "医学名词 第四分册",
+   "wordNumber": "10.011",
+   "subjectFullName": "医学_老年医学",
+   "subjectName": "老年医学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "商图",
+   "en": "quotient graph",
+   "source": "数学名词",
+   "wordNumber": "03.0162",
+   "subjectFullName": "数学_组合学·一般数学系统_图论",
+   "subjectName": "图论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "商格",
+   "en": "quotient lattice",
+   "source": "数学名词",
+   "wordNumber": "03.0252",
+   "subjectFullName": "数学_组合学·一般数学系统_序·格·一般数学系统",
+   "subjectName": "序?格?一般数学系统",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "分式域",
+   "en": "quotient field",
+   "source": "数学名词",
+   "wordNumber": "04.0965",
+   "subjectFullName": "数学_代数学_代数几何学_交换环",
+   "subjectName": "交换环",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "商层",
+   "en": "quotient sheaf",
+   "source": "数学名词",
+   "wordNumber": "04.1092",
+   "subjectFullName": "数学_代数学_代数几何学_代数几何学",
+   "subjectName": "代数几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "商对象",
+   "en": "quotient object",
+   "source": "数学名词",
+   "wordNumber": "04.1628",
+   "subjectFullName": "数学_代数学_代数几何学_范畴论",
+   "subjectName": "范畴论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "伸缩商",
+   "en": "dilatation quotient",
+   "source": "数学名词",
+   "wordNumber": "05.0526",
+   "subjectFullName": "数学_分析学_复分析",
+   "subjectName": "复分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "光合商",
+   "en": "photosynthetic quotient",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "同化商",
+   "en": "assimilatory quotient",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "成就商数",
+   "en": "achievement quotient",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "光合商",
+   "en": "photosynthetic quotient",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "呼吸商",
+   "en": "respiratory quotient",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "呼吸商",
+   "en": "respiration quotient\",\"respiratory quotient\",\"RQ",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "呼吸商",
+   "en": "respiratory quotient\",\"RQ",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "发育商",
+   "en": "developmental quotient\",\"DQ",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "智商",
+   "en": "intelligence quotient\",\"IQ",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "情绪智商，情商",
+   "en": "emotional quotient\",\"EQ",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "呼吸商",
+   "en": "respiratory quotient\",\"RQ",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "比率智商",
+   "en": "ratio intelligence quotient",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "区位熵",
+   "en": "quotient of location",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "乘商寄存器",
+   "en": "multiplier-quotient register",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "呼吸商",
+   "en": "respiratory quotient（RQ）",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "呼吸商",
+   "en": "RQ （=respiratory quotient）",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "BET方程",
+   "en": "Brunauer-Emmett-Teller equation\",\"BET equation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "离差智商",
+   "en": "deviation intelligence quotient\",\"DIQ",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "附生植物商数",
+   "en": "epiphyte-quotient\",\"EP-Q",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "浓度常数",
+   "en": "concentration constant\",\"concentration quotient",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "智商",
+   "en": "intelligence quotient",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "情商",
+   "en": "Emotional Quotient",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "校射",
+   "en": "setting",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "击球顺序",
+   "en": "batting order",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "击球手套",
+   "en": "batting glove",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "击球姿势",
+   "en": "batting stance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "移位",
+   "en": "cutting",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "航向",
+   "en": "bearing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "方位",
+   "en": "bearing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "寝具",
+   "en": "bedding",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "头撞",
+   "en": "butting\",\"head butt",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "停泊",
+   "en": "berth\",\"berthing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "击球顺序错误",
+   "en": "batting out of order\",\"batting out of turn",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "国际标准化组织大会",
+   "en": "ISO meeting",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "发育商",
+   "en": "development quotient",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.3.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "用来衡量婴幼儿心智发展水平的核心指标之一，是在大运动、精细动作、认知、情绪和社会性发展等方面对婴幼儿发育情况进行衡量。"
+  },
+  {
+   "cn": "智商",
+   "en": "intelligence quotient",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.26",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "通过一系列标准测试所获得个人认知能力与同年龄段常模的比值。是智力测验中表示一个人智力水平的指数。"
+  },
+  {
+   "cn": "发育商",
+   "en": "developmental quotient",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.27",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "儿童神经心理发展所达到的程度，即发育年龄（DA）除以实际年龄（CA）的百分比（发育年龄/实际年龄×100）。"
+  },
+  {
+   "cn": "智商",
+   "en": "intelligence quotient, IQ",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.1.4.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "表示个体智力发展水平的指标。现多采用离差智商表示智力的高低，即以100为均数、15为标准差，个体智商数值在70以下为智力低下；在130以上为智力超常。"
+  },
+  {
+   "cn": "代役租",
+   "en": "quitrent",
+   "source": "马克思主义",
+   "wordNumber": "02.0296",
+   "subjectFullName": "马克思主义_政治经济学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "欧洲封建社会农民向封建主交纳实物或货币以代替劳役地租的制度。这一制度始于13世纪。代役租的实行，对促进农业生产发展起了一定的作用，也加强了封建领主对农民的剥削。至19世纪后半叶，这一制度在俄国仍有残余"
+  },
+  {
+   "cn": "议程设置",
+   "en": "agenda setting",
+   "source": "社会医学名词",
+   "wordNumber": "10.1.2.1.2",
+   "subjectFullName": "政策与策略",
+   "subjectName": "政策",
+   "publishYear": "2025",
+   "definition": "政府或政策行动者在诸多社会问题中遴选出部分问题，进入其正式讨论与决策议程的过程，是政策进入制度化讨论的入口。"
+  },
+  {
+   "cn": "蛋白质印迹法",
+   "en": "Western blotting",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.5.13",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "检测蛋白质混合溶液中某种特定目的蛋白的定性方法。将混杂的蛋白质经聚丙烯酰胺凝胶电泳分离后，转移至固相膜上，再用标记的抗体或二抗与之反应，以显示膜上特定的蛋白条带。"
+  },
+  {
+   "cn": "文化大熔炉",
+   "en": "melting pot",
+   "source": "社会学名词",
+   "wordNumber": "3.4.7.5",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_城市文化",
+   "subjectName": "城市文化",
+   "publishYear": "2025",
+   "definition": "相异文化背景的各种人群逐渐融合为一个多元民族文化的现象。"
+  },
+  {
+   "cn": "遵义会议",
+   "en": "Zunyi Meeting",
+   "source": "马克思主义",
+   "wordNumber": "04.0530",
+   "subjectFullName": "马克思主义_其他部分_重要会议_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1935年1月15日至17日，中共中央在贵州遵义召开的政治局扩大会议。会议解决了当时最为紧迫的军事问题和组织问题，解除了博古、李德的军事指挥权，决定党内事务由洛甫（张闻天）负总责,结束了王明“左”倾教"
+  },
+  {
+   "cn": "瓦窑堡会议",
+   "en": "Wayaobao Meeting",
+   "source": "马克思主义",
+   "wordNumber": "04.0531",
+   "subjectFullName": "马克思主义_其他部分_重要会议_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1935年12月17日至25日在陕西安定（今子长）召开的中共中央政治局扩大会议。会议通过了张闻天起草的《中央关于目前政治形势与党的任务决议》，毛泽东作了题为《论反对日本帝国主义的策略》的报告。瓦窑堡会"
+  },
+  {
+   "cn": "洛川会议",
+   "en": "Luochuan Meeting",
+   "source": "马克思主义",
+   "wordNumber": "04.0532",
+   "subjectFullName": "马克思主义_其他部分_重要会议_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1937年8月22日至25日，中共中央在陕北洛川冯家村召开的政治局扩大会议，是在全国性抗日战争刚刚爆发的历史关头召开的一次重要会议。会议通过了《关于目前形势与党的任务的决定》和《抗日救国十大纲领》。十"
+  },
+  {
+   "cn": "发热粮",
+   "en": "heating grain",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.1.18",
+   "subjectFullName": "食品卫生学_食品_粮食",
+   "subjectName": "粮食",
+   "publishYear": "2025",
+   "definition": "害虫、微生物繁殖为害等原因引起的粮温异常升高的粮食"
+  },
+  {
+   "cn": "加热试验",
+   "en": "heating test",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.10.4.19",
+   "subjectFullName": "食品卫生学_食品_食用油脂",
+   "subjectName": "食用油脂",
+   "publishYear": "2025",
+   "definition": "油样加热至280 度时，观察有无析出物和油色变化情况的试验。"
+  },
+  {
+   "cn": "调查会",
+   "en": "investigation meeting",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0653",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "开调查会是国内各种调查的一种最常用的方法。在民族地区，调查回忆是一种易于被接受的形式。开调查会，应得到当地主管部门的支持和配合。调查会之前，应例行听取当地主管部门领导的介绍，一是熟悉当地情况，二是取得"
+  },
+  {
+   "cn": "免疫印迹法",
+   "en": "Western blotting, immunoblotting",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.1.14",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_检测方法",
+   "subjectName": "检测方法",
+   "publishYear": "2025",
+   "definition": "将要检测的抗原吸印转移到膜上，再用能与其特异结合的抗体检测的技术。"
+  },
+  {
+   "cn": "饮水处设置",
+   "en": "setting of drinking water",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.5.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校生活设施卫生",
+   "subjectName": "学校生活设施卫生",
+   "publishYear": "2025",
+   "definition": "学校饮水处的卫生要求。在教学用建筑内应在每层设饮水处，每处应按每40-45人设置一个饮水水嘴来计算水嘴的数量。"
+  },
+  {
+   "cn": "教室采暖",
+   "en": "heating of classrooms",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.2.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_教室卫生",
+   "subjectName": "教室卫生",
+   "publishYear": "2025",
+   "definition": "在中国严寒地区冬季，采用蒸气式、热水式、火炉、火墙、地炕、空调等方式使教室内温度维持在至适温度的做法。"
+  },
+  {
+   "cn": "水源设置",
+   "en": "setting of drinking water source",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.5.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校生活设施卫生",
+   "subjectName": "学校生活设施卫生",
+   "publishYear": "2025",
+   "definition": "学校学生生活饮用水及自备水源的卫生要求。应经市级以上疾病预防控制中心水源水质监测合格后，方可作为供水水源。"
+  },
+  {
+   "cn": "托幼机构健康教育",
+   "en": "health education in childcare setting",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "9.1.3.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼健康教育与健康促进_妇幼健康教育",
+   "subjectName": "妇幼健康教育",
+   "publishYear": "2025",
+   "definition": "托幼机构根据儿童发育特点，有组织有计划进行的教育活动。包括根据季节差异、疾病流行等情况制订计划，多途径开展以膳食营养、心理卫生、疾病预防、儿童安全以及行为习惯培养等为主题的活动。"
+  },
+  {
+   "cn": "生育代价及补偿",
+   "en": "bearing cost and compensating",
+   "source": "社会学名词",
+   "wordNumber": "3.2.4.11",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别与家庭",
+   "subjectName": "性别与家庭",
+   "publishYear": "2025",
+   "definition": "国内女性主义者在20世纪80年代提出的解决妇女就业难的一个对策建议。强调妇女生育抚育后代的社会价值，认为其代价应由社会来承担，倡导建立妇女生育基金进行统筹，以减少企事业单位的压力。继不少省市建立妇女生"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

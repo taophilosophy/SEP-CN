@@ -1,0 +1,722 @@
+{
+ "key": "reflexive-transitive closure",
+ "term": "reflexive-transitive closure",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T06:41:42+00:00",
+ "status": "ok",
+ "note": "variant=reflexive-transitive closure; 审定公布名词库=1369; 海峡两岸名词对照库=388; 其他来源数据库=34; 预公布名词数据库=30; jwt-direct（JWT 直连，raw 略；已滤维基 9 条）",
+ "hits": [
+  {
+   "cn": "闭合度",
+   "en": "closure",
+   "source": "地质学名词",
+   "wordNumber": "09.03.035",
+   "subjectFullName": "地质学_构造地质学_褶皱构造",
+   "subjectName": "褶皱构造",
+   "publishYear": "2026",
+   "definition": "背斜层面的最高点与此面最低闭合的构造等高线之间的高差。"
+  },
+  {
+   "cn": "创面闭合",
+   "en": "closure",
+   "source": "手外科学名词",
+   "wordNumber": "04.0069",
+   "subjectFullName": "手外科学_上肢损伤",
+   "subjectName": "上肢损伤",
+   "publishYear": "2020",
+   "definition": "开放创口采用直接缝合、植皮、皮瓣或新型负压封闭引流技术的护创材料封闭，使其与外界隔绝的手术。"
+  },
+  {
+   "cn": "合龙",
+   "en": "closure",
+   "source": "电力名词",
+   "wordNumber": "15.062",
+   "subjectFullName": "电力_水电站施工",
+   "subjectName": "水电站施工",
+   "publishYear": "2020",
+   "definition": "截流或堵口时,达到最终闭合龙口,截断水流的施工。"
+  },
+  {
+   "cn": "闭包",
+   "en": "closure",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0475",
+   "subjectFullName": "计算机科学技术_理论计算机科学_形式语言与自动机",
+   "subjectName": "形式语言与自动机",
+   "publishYear": "2018",
+   "definition": "语言的一种运算。一个语言 L 的闭包是 L 的各次幂的并集。当给定一组语言操作（例如语句的逆、同态映射）时，也理解为在这组操作下封闭的语句集合。"
+  },
+  {
+   "cn": "闭包",
+   "en": "closure",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0053",
+   "subjectFullName": "管理科学技术_运筹与管理_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "当一个集合S在某个运算下的时候不闭合，通常可以找到的包含S的最小的闭合集合。"
+  },
+  {
+   "cn": "合龙",
+   "en": "closure",
+   "source": "土木工程名词",
+   "wordNumber": "06.227",
+   "subjectFullName": "土木工程_桥梁工程_桥梁施工",
+   "subjectName": "桥梁施工",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "桥梁合龙",
+   "en": "closure",
+   "source": "铁道科学技术名词",
+   "wordNumber": "02.0540",
+   "subjectFullName": "铁道科学技术_铁道工程建设",
+   "subjectName": "铁道工程建设",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "闭合度",
+   "en": "closure",
+   "source": "石油名词",
+   "wordNumber": "02.0724",
+   "subjectFullName": "石油_油气地质勘探_油气聚集",
+   "subjectName": "油气聚集",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "闭包",
+   "en": "closure",
+   "source": "数学名词",
+   "wordNumber": "08.0461",
+   "subjectFullName": "数学_几何学_拓扑学_一般拓扑学",
+   "subjectName": "一般拓扑学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "闭合",
+   "en": "closure",
+   "source": "地质学名词",
+   "wordNumber": "03.314",
+   "subjectFullName": "地质学_构造地质学",
+   "subjectName": "构造地质学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "反射",
+   "en": "reflex",
+   "source": "急救医学名词",
+   "wordNumber": "03.149",
+   "subjectFullName": "急救医学_日常医学急救_内科学_神经系统",
+   "subjectName": "神经系统",
+   "publishYear": "2025",
+   "definition": "神经系统对刺激产生反应的活动。是神经活动的基本方式。"
+  },
+  {
+   "cn": "反射",
+   "en": "reflex",
+   "source": "兽医学名词",
+   "wordNumber": "04.021",
+   "subjectFullName": "兽医学_动物生理学",
+   "subjectName": "动物生理学",
+   "publishYear": "2023",
+   "definition": "在中枢神经系统的参与下，机体对内、外环境刺激所发生的反应。"
+  },
+  {
+   "cn": "反射",
+   "en": "reflex",
+   "source": "行为医学名词",
+   "wordNumber": "3.048",
+   "subjectFullName": "行为医学_行为的生物学基础_生理学基础_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2022",
+   "definition": "在中枢神经系统参与下，机体对内外环境刺激产生的规律性应答反应。"
+  },
+  {
+   "cn": "反射",
+   "en": "reflex",
+   "source": "手外科学名词",
+   "wordNumber": "02.0036",
+   "subjectFullName": "手外科学_手外科学基础",
+   "subjectName": "手外科学基础",
+   "publishYear": "2020",
+   "definition": "神经系统在调节机体活动中，对内外环境刺激做出的适宜反应。是神经系统的基本活动方式。"
+  },
+  {
+   "cn": "反射",
+   "en": "reflex",
+   "source": "生理学名词",
+   "wordNumber": "03.124",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "反射",
+   "en": "reflex",
+   "source": "呼吸病学名词",
+   "wordNumber": "04.068",
+   "subjectFullName": "呼吸病学_呼吸运动调节_呼吸调节",
+   "subjectName": "呼吸调节",
+   "publishYear": "2018",
+   "definition": "在中枢神经系统参与下，机体对内外环境变化做出的规律性应答。"
+  },
+  {
+   "cn": "自反性",
+   "en": "reflexivity",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0088",
+   "subjectFullName": "管理科学技术_运筹与管理_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "≤为Y上的二元关系，若对y∈Y，y≤y，则称≤满足自反性。"
+  },
+  {
+   "cn": "反射",
+   "en": "reflex",
+   "source": "人体解剖学名词",
+   "wordNumber": "06.0052",
+   "subjectFullName": "人体解剖学_神经系统_总论",
+   "subjectName": "总论",
+   "publishYear": "2014",
+   "definition": "神经系统对剌激产生反应的活动。是神经活动的基本方式。"
+  },
+  {
+   "cn": "上曲式",
+   "en": "reflexed",
+   "source": "古生物学名词",
+   "wordNumber": "02.1038",
+   "subjectFullName": "古生物学_古无脊椎动物学_半索动物门",
+   "subjectName": "半索动物门",
+   "publishYear": "2009",
+   "definition": "与上斜式相似，但枝的末端转为平伸。"
+  },
+  {
+   "cn": "自反性",
+   "en": "reflexivity",
+   "source": "数学名词",
+   "wordNumber": "01.0121",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "自反传递闭包",
+   "en": "reflexive and transitive closure",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "传递闭包",
+   "en": "transitive closure",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "闭包",
+   "en": "closure",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "反射",
+   "en": "reflex",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "被动脱水关闭",
+   "en": "dehydropassive closure",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "主动脱水关闭",
+   "en": "dehydroactive closure",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "闭合假设",
+   "en": "closure assumptions",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "非局地闭合",
+   "en": "nonlocal closure",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "环合",
+   "en": "ring closure",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "郁闭",
+   "en": "crown closure",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "闭合差",
+   "en": "closure error",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "环线闭合差",
+   "en": "circuit closure",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "克林闭包",
+   "en": "Kleene closure",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "属性闭包",
+   "en": "attribute closure",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "正闭包",
+   "en": "positive closure",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "橡皮塞",
+   "en": "rubber closure",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "转换",
+   "en": "transition",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "转换",
+   "en": "transition",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "变迁",
+   "en": "transition",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "过渡",
+   "en": "transition",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "攻防转换",
+   "en": "transition",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "动作转换",
+   "en": "transition",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "动作转换",
+   "en": "transition",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "量子跃迁",
+   "en": "quantum transition",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量子相变",
+   "en": "quantum phase transition",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "快速公交系统",
+   "en": "bus rapid transit",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "进入转换区",
+   "en": "check-in to the transition area",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "密切接触者",
+   "en": "close contact",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "贴身带球",
+   "en": "close dribble",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "近射",
+   "en": "close-range shot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "近风航行",
+   "en": "sail close-hauled",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "反身性",
+   "en": "reflexivity",
+   "source": "社会学名词",
+   "wordNumber": "3.2.3.13",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别研究",
+   "subjectName": "性别研究",
+   "publishYear": "2025",
+   "definition": "女性主义方法论的一个基本原则，是对研究过程和主体的一种批判性的自我反思，强调研究主体的对象性和研究对象的主体性，以减少研究过程中的偏见，打破主客体之间的僵化分离，建立与被研究者之间平等而非控制的关系。"
+  },
+  {
+   "cn": "社会封闭",
+   "en": "social closure",
+   "source": "社会学名词",
+   "wordNumber": "2.6.3.6",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会结构",
+   "subjectName": "社会结构",
+   "publishYear": "2025",
+   "definition": "居于优势地位的阶级或身份群体通过垄断资源和机会使自身利益最大化。最初由韦伯提出，是韦伯学派阶级理论的重要概念之一，后经帕金(Frank Parkin）的进一步发展，成为解释当代社会不平等现象的一个重要"
+  },
+  {
+   "cn": "跃迁",
+   "en": "transition",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.1.12",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核武器",
+   "subjectName": "核武器",
+   "publishYear": "2025",
+   "definition": "原子和原子核等微观体系从一种能量状态过渡到另一种能量状态的过程。"
+  },
+  {
+   "cn": "自反性现代化",
+   "en": "reflexive modernization",
+   "source": "社会学名词",
+   "wordNumber": "3.14.2.6",
+   "subjectFullName": "社会学名词_分支社会学_环境社会学_现代环境社会学理论",
+   "subjectName": "现代环境社会学理论",
+   "publishYear": "2025",
+   "definition": "工业社会变化悄无声息地在未经计划的情况下紧随着正常的、自主的现代化过程而来，社会秩序和经济秩序完好无损，这种社会变化意味着现代化的激进化，这种激进化打破了工业社会的前提并开辟了通向另一种现代性的道路。"
+  },
+  {
+   "cn": "反思人类学",
+   "en": "reflexive anthropology",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0617",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "后现代人类学的一种，是指一种对人类学学科功能的本质问题加以质疑的人类学风格。具体来说，这种反思人类学，在认识论意义上，其反对把人类学知识当成是脱离社会和经济体系之外的一种纯粹性的真理，而承认人类学家在"
+  },
+  {
+   "cn": "觅食反射",
+   "en": "rooting reflex",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.3.1.2",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_不同年龄段儿童保健",
+   "subjectName": "不同年龄段儿童保健",
+   "publishYear": "2025",
+   "definition": "在被触摸腮帮时，新生儿会向刺激源做出转头张嘴吮吸的动作。出生后3周这一反射变成有意的转头动作。"
+  },
+  {
+   "cn": "市场转型",
+   "en": "market transition",
+   "source": "社会学名词",
+   "wordNumber": "2.6.6.25",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会分层理论",
+   "subjectName": "社会分层理论",
+   "publishYear": "2025",
+   "definition": "主要由美国社会学家倪志伟(Victor Nee）提出。认为20世纪80年代以来，中国、俄罗斯和东欧等社会由再分配经济向市场经济转型，导致社会分层机制发生根本性改变，市场分配机制（主要指人力资本）取代再"
+  },
+  {
+   "cn": "人口转变",
+   "en": "demographic transition",
+   "source": "社会学名词",
+   "wordNumber": "4.5.5.6",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_人口再生产",
+   "subjectName": "人口再生产",
+   "publishYear": "2025",
+   "definition": "人口出生率与死亡率从高至低的历史过程。死亡率的下降往往先于生育率，因此在人口转变期间，人口往往会快速增长。"
+  },
+  {
+   "cn": "和平过渡",
+   "en": "peaceful transition",
+   "source": "马克思主义",
+   "wordNumber": "03.0250",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "无产阶级在特定历史条件下，通过不流血的和平方式，把政权从反动统治阶级手中夺过来，实现资本主义向社会主义的过渡。暴力革命是无产阶级夺取政权的一般规律。但是，并不排斥非暴力的和平手段。在当代，我们不反对西"
+  },
+  {
+   "cn": "过渡时期",
+   "en": "transition period",
+   "source": "马克思主义",
+   "wordNumber": "03.0255",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "从无产阶级取得政权到进入共产主义社会低级阶段之前的这一特殊历史阶段。1875年马克思在《哥达纲领批判》中第一次提出过渡时期这一著名论断。他指出: “在资本主义社会和共产主义社会之间,有一个从前者变为后"
+  },
+  {
+   "cn": "过渡仪式",
+   "en": "transition ceremony",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0532",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "法国民族学家和民俗学家范·盖内普（Arnold Van Gennep）在《过渡礼仪》一书中提出的观点，即个人或群体在不同阶段的转换中所采取的仪式过程。过渡礼仪的完整模式在理论上包括分隔礼仪、聚合礼仪和"
+  },
+  {
+   "cn": "直接过渡",
+   "en": "direct transition",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0596",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "无产阶级夺取革命胜利后，可以通过国家各方面的帮助，尤其是引导人民对原始公有制进行根本改造，就能使残存着原始公社的民族，跨越资本主义，直接过渡到社会主义。马克思主义创始人关于“直接过渡”的英明预见，在社"
+  },
+  {
+   "cn": "同质异能跃迁",
+   "en": "isometric transition, IT",
+   "source": "放射卫生学",
+   "wordNumber": "3.1.37",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_核物理基本概念",
+   "subjectName": "核物理基本概念",
+   "publishYear": "2025",
+   "definition": "处于高能态的同质异能素退激发时所发生的γ跃迁现象。"
+  },
+  {
+   "cn": "前囟早闭",
+   "en": "premature closure of anterior fontanelle",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.3.1.2",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "儿童前囟在1周岁之内过早闭合的表现。一般可以分为生理性和病理性。"
+  },
+  {
+   "cn": "前囟闭合延迟",
+   "en": "late closure of anterior fontanelle",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.3.1.3",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "儿童的前囟在3岁后闭合的异常。正常儿童前囟一般在4～26月龄间闭合。"
+  },
+  {
+   "cn": "封山育林",
+   "en": "mountain closure for forest restoration",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0087",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "以封禁为基本手段，利用林木自然更新能力，把疏林、灌丛或散生树木的林地封禁起来，逐渐培育成林的措施；是传统的培育森林、扩大森林资源的方法。"
+  },
+  {
+   "cn": "市场转型理论",
+   "en": "market transition theory",
+   "source": "社会学名词",
+   "wordNumber": "2.6.6.24",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会分层理论",
+   "subjectName": "社会分层理论",
+   "publishYear": "2025",
+   "definition": "由美国社会学家倪志伟(Victor Nee）等人针对20世纪80年代以来俄罗斯、东欧等前社会主义国家以及中国的社会分层变迁提出的一种理论。主要观点是：市场化转型导致这些社会的分层机制发生根本改变，即原"
+  },
+  {
+   "cn": "市场转型研究",
+   "en": "market transition study",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.34",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "关注社会主义国家从国家再分配计划经济转向以市场为导向的经济过程中所发生的社会结构变迁和利益格局再调整，以及该过程对社会主义国家的分层结构的影响的研究。"
+  },
+  {
+   "cn": "语言强化运动条件反射法",
+   "en": "language enhanced motor conditioned reflex",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.4.4.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习负荷评价",
+   "subjectName": "学习负荷评价",
+   "publishYear": "2025",
+   "definition": "以光和声为直接刺激，结合语言指示的强化（如令受试者看到某种颜色时立刻按压电键，而看到另一种颜色光时则不要按压电键），形成手指或脚趾按压的运动效应，据此来评价脑力工作能力变化的方法。"
+  },
+  {
+   "cn": "社会主义过渡时期",
+   "en": "period of transition to socialism",
+   "source": "马克思主义",
+   "wordNumber": "05.0241",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_国外社会主义思想流派",
+   "subjectName": "国外社会主义思想流派",
+   "publishYear": "2025",
+   "definition": "越南共产党根据马克思主义唯物史观和经济社会发展形态的观点而对本国当前发展阶段的定位。其含义是越南已经跨越了资本主义发展阶段，但是还未进入马克思所定义的社会主义社会发展阶段，仅是朝着社会主义的目标在发展"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

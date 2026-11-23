@@ -1,0 +1,762 @@
+{
+ "key": "design stance",
+ "term": "design stance",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T06:43:57+00:00",
+ "status": "ok",
+ "note": "variant=design stance; 审定公布名词库=6513; 海峡两岸名词对照库=1576; 其他来源数据库=269; 预公布名词数据库=172; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "设计",
+   "en": "design",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0099",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_生产运作管理",
+   "subjectName": "生产运作管理",
+   "publishYear": "2016",
+   "definition": "将需求或创新变成产品、工艺或服务，以满足企业和顾客期望的过程。设计将一组功能需求转换成可工作的产品、过程或服务。"
+  },
+  {
+   "cn": "设计人",
+   "en": "designer",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "04.100",
+   "subjectFullName": "化工（五）_工程建设_工程设计",
+   "subjectName": "工程设计",
+   "publishYear": "2021",
+   "definition": "在项目的专业负责人、校审人指导下开展专业设计工作，对所编制设计文件的正确性、完整性、设计进度和投资控制负责的专业人员。"
+  },
+  {
+   "cn": "设计人",
+   "en": "designer",
+   "source": "建筑学名词",
+   "wordNumber": "06.0029",
+   "subjectFullName": "建筑学_市场管理与工程建设程序_设计机构及内部级别",
+   "subjectName": "设计机构及内部级别",
+   "publishYear": "2014",
+   "definition": "在专业负责人指导下进行设计工作，对本人的设计进度和质量负责的工作人员。根据专业负责人分配的任务熟悉设计资料，了解设计要求和设计原则，正确进行设计并做好专业内部及与其他专业的配合工作。"
+  },
+  {
+   "cn": "引导",
+   "en": "designation",
+   "source": "航天科学技术名词",
+   "wordNumber": "07.387",
+   "subjectFullName": "航天科学技术_航天测控与通信",
+   "subjectName": "航天测控与通信",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "支撑相",
+   "en": "stance phase",
+   "source": "生理学名词",
+   "wordNumber": "03.516",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "支撑相",
+   "en": "stance phase",
+   "source": "运动医学名词",
+   "wordNumber": "07.065",
+   "subjectFullName": "运动医学_运动康复_康复运动评定_步态分析",
+   "subjectName": "步态分析",
+   "publishYear": "2019",
+   "definition": "下肢接触地面和承受重力的时相。占步行周期的60%，包括早期、中期和末期。"
+  },
+  {
+   "cn": "支撑相",
+   "en": "stance phase",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "05.081",
+   "subjectFullName": "全科医学与社区卫生_社区康复",
+   "subjectName": "社区康复",
+   "publishYear": "2014",
+   "definition": "步行时下肢着地的时期。占步行周期的60%。"
+  },
+  {
+   "cn": "支撑相",
+   "en": "stance phase",
+   "source": "物理医学与康复名词",
+   "wordNumber": "02.069",
+   "subjectFullName": "物理医学与康复_康复功能评定_运动功能评定",
+   "subjectName": "运动功能评定",
+   "publishYear": "2014",
+   "definition": "下肢接触地面和承受重力的时间。占步行周期的60%，包括早期、中期和末期。"
+  },
+  {
+   "cn": "[步态]站立期",
+   "en": "stance phase",
+   "source": "医学名词 第七分册",
+   "wordNumber": "04.0274",
+   "subjectFullName": "医学_物理医学与康复[学]",
+   "subjectName": "物理医学与康复[学]",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "静止负重相",
+   "en": "stance phase",
+   "source": "医学名词 第六分册",
+   "wordNumber": "05.254",
+   "subjectFullName": "医学_骨科学",
+   "subjectName": "骨科学",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "设计阶段",
+   "en": "design phase,design stage",
+   "source": "铁道科学技术名词",
+   "wordNumber": "02.0010",
+   "subjectFullName": "铁道科学技术_铁道工程建设",
+   "subjectName": "铁道工程建设",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "方案设计",
+   "en": "schematic design;scheme design;conceptual design",
+   "source": "风景园林名词",
+   "wordNumber": "06.0067",
+   "subjectFullName": "风景园林_风景园林设计_设计内容和指标",
+   "subjectName": "设计内容和指标",
+   "publishYear": "2025",
+   "definition": "立足园林绿化项目场地现状，分析问题并确定设计定位，对功能、容量、内容、风格和特色进行整体安排的设计活动。"
+  },
+  {
+   "cn": "城市设计",
+   "en": "urban design,city design",
+   "source": "城乡规划学名词",
+   "wordNumber": "01.066",
+   "subjectFullName": "城乡规划学_城乡规划总述_城乡规划及相关规划",
+   "subjectName": "城乡规划及相关规划",
+   "publishYear": "2021",
+   "definition": "对城市形态和空间环境所做的设计和构思安排。城市设计作为一种设计思想和方法，贯穿于城市规划的全过程；也可以作为城市规划中的一个阶段或工作层次。"
+  },
+  {
+   "cn": "设计条件",
+   "en": "design condition,design information",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "04.106",
+   "subjectFullName": "化工（五）_工程建设_工程设计",
+   "subjectName": "工程设计",
+   "publishYear": "2021",
+   "definition": "在设计工作中一个设计专业为其他专业提供或反馈的资料。设计条件可采用文字资料、设计条件表格、设计成品表格和设计图等形式。"
+  },
+  {
+   "cn": "初步设计",
+   "en": "preliminary design,conceptual design",
+   "source": "电力名词",
+   "wordNumber": "03.032",
+   "subjectFullName": "电力_电力规划、设计与施工",
+   "subjectName": "电力规划、设计与施工",
+   "publishYear": "2020",
+   "definition": "根据核准的项目申请报告、批准的电力工程可行性研究报告和设计合同,按初步设计文件内容深度规定,完成电力工程总说明和各专业作业文件及卷册图纸。"
+  },
+  {
+   "cn": "造林设计",
+   "en": "plantation design,afforestation design",
+   "source": "林学名词",
+   "wordNumber": "05.074",
+   "subjectFullName": "林学_森林培育_种苗与营造",
+   "subjectName": "种苗与营造",
+   "publishYear": "2016",
+   "definition": "在造林规划的指导下，将规定造林的具体任务，落实到林班、小班(山头地块)而编制出的工作方案。包括对宜林地资源进行调查，确定林种、树种与造林技术措施，完成年限，造林工程的种苗、劳力、物质需求及投资与效益估"
+  },
+  {
+   "cn": "铺装设计",
+   "en": "pavement design,paving design",
+   "source": "建筑学名词",
+   "wordNumber": "08.0159",
+   "subjectFullName": "建筑学_风景园林_园林工程",
+   "subjectName": "园林工程",
+   "publishYear": "2014",
+   "definition": "为增加园林地面铺砌的美观和艺术性，对园林中道路面层和广场的铺装进行的美化设计。"
+  },
+  {
+   "cn": "地图设计",
+   "en": "map design,cartographic design",
+   "source": "地理信息系统名词",
+   "wordNumber": "02.109",
+   "subjectFullName": "地理信息系统_技术与应用",
+   "subjectName": "技术与应用",
+   "publishYear": "2012",
+   "definition": "通过研究实验制定新编地图的内容、表现形式及其生产工艺程序的工作。"
+  },
+  {
+   "cn": "地图设计",
+   "en": "cartographic design,map design",
+   "source": "地理学名词",
+   "wordNumber": "27.101",
+   "subjectFullName": "地理学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2006",
+   "definition": "通过创意、实验，确定新编地图的内容、表现形式、编制方法、技术及工艺流程的过程。"
+  },
+  {
+   "cn": "地形设计",
+   "en": "topographical design;landform design",
+   "source": "风景园林名词",
+   "wordNumber": "06.0073",
+   "subjectFullName": "风景园林_风景园林设计_设计内容和指标",
+   "subjectName": "设计内容和指标",
+   "publishYear": "2025",
+   "definition": "对原有地形、地貌进行工程结构和艺术造型改造的设计。"
+  },
+  {
+   "cn": "设计",
+   "en": "design",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "指定",
+   "en": "designation",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "最优设计",
+   "en": "optimal design\",\"optimum design",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "地图设计",
+   "en": "cartographic design\",\"map design",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "设计基准",
+   "en": "design datum\",\"design norm",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "设计波[浪]",
+   "en": "design wave",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "设计洪水",
+   "en": "design flood",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "设计项目",
+   "en": "design project",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "机械设计",
+   "en": "mechanical design",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "材料设计",
+   "en": "material design",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "设计方程式",
+   "en": "design equation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "设计标准",
+   "en": "design standard",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "设计准则",
+   "en": "design criterion",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "统计设计",
+   "en": "statistical design",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "工程设计",
+   "en": "engineering design",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "设计模型",
+   "en": "design mode",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "设计工程师",
+   "en": "design engineer",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "析因设计",
+   "en": "factorial design",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "设计数据",
+   "en": "design data",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "设计图",
+   "en": "design chart",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "马步",
+   "en": "horse stance\",\"riding stance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "站姿",
+   "en": "seogi\",\"stance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "高压态势",
+   "en": "tough stance",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "射门位置",
+   "en": "shooting stance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "开式站姿",
+   "en": "open stance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "封闭站姿",
+   "en": "closed stance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "击球姿势",
+   "en": "batting stance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "准备站姿",
+   "en": "attention stance\",\"ready stance\",\"pyeonhi seogi",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "姿势",
+   "en": "position\",\"posture\",\"stance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "摔跤姿势",
+   "en": "guard\",\"wrestling stance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "准备！",
+   "en": "Joonbi! Ready stance!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "算法设计",
+   "en": "Algorithm Design",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "游戏化设计",
+   "en": "gamification design",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "赛道设计人员",
+   "en": "course designer",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "水道设计人员",
+   "en": "course designer",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "研究设计",
+   "en": "research design",
+   "source": "社会学名词",
+   "wordNumber": "1.2.3.1",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "论证一项具体研究的问题、假设或命题，以及研究的方法论和方法的逻辑、结构和原则的方案或策略。"
+  },
+  {
+   "cn": "实验设计",
+   "en": "experimental design",
+   "source": "社会学名词",
+   "wordNumber": "1.2.3.4",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "有计划的把实验对象随机分配到不同的组别，根据它们的组别对它们进行不同程度的处理，观测处理效果，并运用统计分析方法确定处理与变异间关系的研究设计方式。"
+  },
+  {
+   "cn": "实验设计",
+   "en": "experimental design",
+   "source": "军事预防医学名词",
+   "wordNumber": "17.1.4.6",
+   "subjectFullName": "军事预防医学_军队健康教育与健康促进_军队健康教育",
+   "subjectName": "军队健康教育",
+   "publishYear": "2025",
+   "definition": "按照随机化的原则，将研究对象分为实验组和对照组，分别观察两组在干预前后的变化情况，再对变化情况进行分析后得出结论的研究方法。"
+  },
+  {
+   "cn": "聚敛式设计",
+   "en": "convergent design",
+   "source": "社会医学名词",
+   "wordNumber": "4.4.1",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "混合方法研究",
+   "publishYear": "2025",
+   "definition": "同时收集和分析定量数据及定性数据，并比较两种结果，对两种数据进行聚合分析（或用两种数据结果相互验证）的定性、定量混合研究方法。"
+  },
+  {
+   "cn": "混合设计",
+   "en": "mixed designs",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.159",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "既包含非重复测量因素，又包含重复测量因素的实验设计。"
+  },
+  {
+   "cn": "指定监护人",
+   "en": "designated guardian",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.055",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "在没有法定监护人或者对监护人身份有争议时，由有关部门或者法院指定而设置的监护人。指定监护分为有关组织的指定监护和人民法院的指定监护。具体选择应当在充分保障被监护人的合法权益的前提下依法定顺序指定。"
+  },
+  {
+   "cn": "解释性序列设计",
+   "en": "explanatory sequential design",
+   "source": "社会医学名词",
+   "wordNumber": "4.4.2",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "混合方法研究",
+   "publishYear": "2025",
+   "definition": "先收集定量数据，然后收集并使用定性数据来更深入解释定量研究的结果的定性、定量混合研究方法。"
+  },
+  {
+   "cn": "探索性序列设计",
+   "en": "exploratory sequential design",
+   "source": "社会医学名词",
+   "wordNumber": "4.4.3",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "混合方法研究",
+   "publishYear": "2025",
+   "definition": "先用定性研究探索研究问题，在此基础上进行第二阶段的定量研究，对定量研究的结果进行分析，最终形成有效的定量研究工具或干预设计，用于正式定量研究的定性、定量混合研究方法。"
+  },
+  {
+   "cn": "非实验设计",
+   "en": "non-experimental design",
+   "source": "军事预防医学名词",
+   "wordNumber": "17.1.4.7",
+   "subjectFullName": "军事预防医学_军队健康教育与健康促进_军队健康教育",
+   "subjectName": "军队健康教育",
+   "publishYear": "2025",
+   "definition": "在研究干预对观察对象的影响时，未设置对照组，仅是获取观察对象在干预前后的变化情况，并对变化情况进行分析和得出结论的研究方法，包括单组的前后比较设计和时间系列设计。"
+  },
+  {
+   "cn": "时间系列设计",
+   "en": "time series design",
+   "source": "军事预防医学名词",
+   "wordNumber": "17.1.4.8",
+   "subjectFullName": "军事预防医学_军队健康教育与健康促进_军队健康教育",
+   "subjectName": "军队健康教育",
+   "publishYear": "2025",
+   "definition": "观察对象容易组织且测量结果比较稳定时，在一定周期内，对观察对象在干预前、干预后进行多次的观察，分析干预对观察对象影响的研究方法，可分为简单和复合型。"
+  },
+  {
+   "cn": "屏蔽设计目标值",
+   "en": "shield design target value",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.2.42",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_外照射屏蔽防护设计",
+   "subjectName": "外照射屏蔽防护设计",
+   "publishYear": "2025",
+   "definition": "在屏蔽设计中确定的屏蔽体外需达到的年剂量目标值，是决定屏蔽厚度最重要的一个参数。一般取年剂量限值的1/10～3/10为宜，特殊情况下可以适当加大，但不要超过年剂量限值的2/3。"
+  },
+  {
+   "cn": "两规两指",
+   "en": "two regulation and two design",
+   "source": "马克思主义",
+   "wordNumber": "03.0784",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "“两规”是指《中国共产党纪律检查机关案件检查工作条例》第二十八条第（三）项规定的“要求有关人员在规定的时间、地点就案件所涉及的问题作出说明”。“两指”是指《中华人民共和国行政监察法》第二十条第（三）项"
+  },
+  {
+   "cn": "学校建设项目设计审查",
+   "en": "school building projects design review",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "10.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校卫生监督_学校预防性卫生监督",
+   "subjectName": "学校预防性卫生监督",
+   "publishYear": "2025",
+   "definition": "依据建设单位提交的设计图纸及有关文字说明，对学校建筑项目选址、用地、用房、布局和配置等设计是否符合学校卫生要求情况进行审阅并提出指导意见的过程。"
+  },
+  {
+   "cn": "定量研究设计",
+   "en": "study design of quantitative research",
+   "source": "社会医学名词",
+   "wordNumber": "4.3.1",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "定量研究",
+   "publishYear": "2025",
+   "definition": "定量研究中所共同认同的研究方式、类型，或研究框架。"
+  },
+  {
+   "cn": "集中隔离",
+   "en": "isolation at a designated site",
+   "source": "消毒学",
+   "wordNumber": "1.6.9",
+   "subjectFullName": "消毒学_消毒学_隔离",
+   "subjectName": "隔离",
+   "publishYear": "2025",
+   "definition": "对传染源或相关高风险人群在定点场所集中接受医学观察的阻隔措施。"
+  },
+  {
+   "cn": "核设施设计安全要求",
+   "en": "safety requirements for nuclear installation design",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.8.3",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护",
+   "subjectName": "核工业的放射防护",
+   "publishYear": "2025",
+   "definition": "为达到安全目标，贯彻核安全技术原则，保证高度安全的核设施设计必须满足的要求。"
+  },
+  {
+   "cn": "生长发育监测设计",
+   "en": "monitoring design of growth and development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.7.1.1.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育调查与评价",
+   "subjectName": "生长发育调查与评价",
+   "publishYear": "2025",
+   "definition": "对某地区儿童少年生长发育指标连续性收集、整理、分析的过程。"
+  },
+  {
+   "cn": "生长发育序贯设计",
+   "en": "sequence design of growth and development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.7.1.1.2.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育调查与评价",
+   "subjectName": "生长发育调查与评价",
+   "publishYear": "2025",
+   "definition": "对不同年龄组的儿童少年进行横向调查，然后在间隔一定的时间后，对同一批儿童少年进行一次或多次重复调查，从而构成追踪性调查设计的一种方法。该方法可克服追踪调查所需年限太长、样本易流失等缺点。"
+  },
+  {
+   "cn": "基本药物定点生产",
+   "en": "designated production system of essential medicine",
+   "source": "卫生经济学名词",
+   "wordNumber": "13.3.2.5",
+   "subjectFullName": "卫生经济学名词_药物经济学_药品政策与规制",
+   "subjectName": "药品政策与规制",
+   "publishYear": "2025",
+   "definition": "为保障基本药物供应，对临床用量较小的个别品种实行指定企业生产的管理办法。"
+  },
+  {
+   "cn": "反配比病例对照研究",
+   "en": "counter-matching design in case-control study",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.1.2.1",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "在病例对照研究中的一种新的配比策略，人为的按照射状态选择与病例照射状态相反的对照，或与对照照射状态相反的病例。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

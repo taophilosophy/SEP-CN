@@ -1,0 +1,792 @@
+{
+ "key": "seeing as",
+ "term": "seeing as",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T06:41:56+00:00",
+ "status": "ok",
+ "note": "variant=seeing as; 审定公布名词库=2761; 海峡两岸名词对照库=661; 其他来源数据库=446; 预公布名词数据库=154; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "视宁度",
+   "en": "seeing",
+   "source": "天文学名词",
+   "wordNumber": "01.096",
+   "subjectFullName": "天文学_天文学",
+   "subjectName": "天文学",
+   "publishYear": "2024",
+   "definition": "评价观测台站在望远镜观测时间内的观测条件的一种天文气候标度。其优劣取决于大气湍动的大小。"
+  },
+  {
+   "cn": "视宁像",
+   "en": "seeing image",
+   "source": "天文学名词",
+   "wordNumber": "01.097",
+   "subjectFullName": "天文学_天文学",
+   "subjectName": "天文学",
+   "publishYear": "2024",
+   "definition": "通过地球的湍动大气，星光在光学系统中呈现的图像。"
+  },
+  {
+   "cn": "视宁圆面",
+   "en": "seeing disk",
+   "source": "天文学名词",
+   "wordNumber": "01.098",
+   "subjectFullName": "天文学_天文学",
+   "subjectName": "天文学",
+   "publishYear": "2024",
+   "definition": "通过地球的湍动大气，星光在光学系统的焦平面上呈现的有一定直径的模糊圆。"
+  },
+  {
+   "cn": "大气视宁度",
+   "en": "atmospheric seeing",
+   "source": "天文学名词",
+   "wordNumber": "04.091",
+   "subjectFullName": "天文学_天体物理学",
+   "subjectName": "天体物理学",
+   "publishYear": "2024",
+   "definition": "对受地球大气扰动影响的天体图像品质的一种量度，主要用以描述点源图像的角大小和面源图像的清晰度。"
+  },
+  {
+   "cn": "视宁度监测仪",
+   "en": "seeing monitor",
+   "source": "天文学名词",
+   "wordNumber": "06.133",
+   "subjectFullName": "天文学_天文仪器与技术",
+   "subjectName": "天文仪器与技术",
+   "publishYear": "2024",
+   "definition": "用于在光学天文台址(或候选台址)对大气视宁度进行测量或监测的仪器。"
+  },
+  {
+   "cn": "圆顶视宁度",
+   "en": "dome seeing",
+   "source": "天文学名词",
+   "wordNumber": "06.135",
+   "subjectFullName": "天文学_天文仪器与技术",
+   "subjectName": "天文仪器与技术",
+   "publishYear": "2024",
+   "definition": "因望远镜及圆顶或围罩的存在引发对流湍动，导致星像质量下降的现象。类似大气视宁度。"
+  },
+  {
+   "cn": "镜面视宁度",
+   "en": "mirror seeing",
+   "source": "天文学名词",
+   "wordNumber": "06.136",
+   "subjectFullName": "天文学_天文仪器与技术",
+   "subjectName": "天文仪器与技术",
+   "publishYear": "2024",
+   "definition": "因望远镜主镜前方贴近镜面的空间存在对流湍动而导致星像质量下降的现象。类似大气视宁度。"
+  },
+  {
+   "cn": "单纯参照",
+   "en": "see,direct reference",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.641",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_资源描述",
+   "subjectName": "资源描述",
+   "publishYear": "2019",
+   "definition": "反映等同关系的参照，是从非标引词（检索词）指向标引词（检索词）的参照形式。"
+  },
+  {
+   "cn": "透明版",
+   "en": "see-through plate",
+   "source": "电子学名词",
+   "wordNumber": "15.167",
+   "subjectFullName": "电子学_电子元器件工艺与分析技术",
+   "subjectName": "电子元器件工艺与分析技术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "你见即我见",
+   "en": "what you see is what I see,WYSIWIS",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0428",
+   "subjectFullName": "计算机科学技术_计算机应用_多媒体",
+   "subjectName": "多媒体",
+   "publishYear": "2018",
+   "definition": "群组协同工作中的可视工作区域的多用户交互接口。其中一个用户的编辑结果能够立即反映在其他所有用户的视图上。"
+  },
+  {
+   "cn": "就诊原因",
+   "en": "reason for seeing a doctor",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "04.054",
+   "subjectFullName": "全科医学与社区卫生_全科医疗服务",
+   "subjectName": "全科医疗服务",
+   "publishYear": "2014",
+   "definition": "某人到卫生服务机构就诊的原因，表现了此人对卫生服务的需求。"
+  },
+  {
+   "cn": "软件工程环境",
+   "en": "software engineering environment，SEE",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "06.265",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_信息基础设施",
+   "subjectName": "信息基础设施",
+   "publishYear": "2024",
+   "definition": "在构筑一个新软件时所依赖的条件、基础设施等，包括软环境和硬环境，具有多维性。"
+  },
+  {
+   "cn": "广告可视机会",
+   "en": "opportunity to see;OTS",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "19.188",
+   "subjectFullName": "新闻学与传播学_传媒经济_传媒经济研究",
+   "subjectName": "传媒经济研究",
+   "publishYear": "2022",
+   "definition": "衡量户外媒体广告受众接收效果的指标。"
+  },
+  {
+   "cn": "参见类目",
+   "en": "see also,reference class",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.211",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_分类法",
+   "subjectName": "分类法",
+   "publishYear": "2019",
+   "definition": "文献分类表中用参照方法来表示类目之间的相关关系时，对被参照类目的称呼。"
+  },
+  {
+   "cn": "相关参照",
+   "en": "see also reference,reciprocal reference",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.642",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_资源描述",
+   "subjectName": "资源描述",
+   "publishYear": "2019",
+   "definition": "反映检索标目之间联系的参照，是从一个使用的标目去参考另一条或几条相关标目的参照形式。用于两个标目下的文献相互关联，其内容可以相互补充、相互参考，指引用户从一个检索对象去查找相关的检索对象。"
+  },
+  {
+   "cn": "砷",
+   "en": "arsenium,As",
+   "source": "肠外肠内营养学名词",
+   "wordNumber": "02.264",
+   "subjectFullName": "肠外肠内营养学_基础营养_无机盐",
+   "subjectName": "无机盐",
+   "publishYear": "2019",
+   "definition": "一种非金属元素。广泛分布于自然界中。其化合物具有显著毒性。常见的化合物有三氧化二砷、砷酸钙、亚砷酸钙、砷酸铅、亚砷酸钠等。三价砷化合物的毒性大于五价砷化合物。"
+  },
+  {
+   "cn": "砷",
+   "en": "arsenic,As",
+   "source": "地方病学名词",
+   "wordNumber": "06.018",
+   "subjectFullName": "地方病学_地方性砷中毒_病因与发病机制",
+   "subjectName": "病因与发病机制",
+   "publishYear": "2016",
+   "definition": "类金属元素，位于元素周期表中的<img src='/root/syzx/static/spz/difangbingxue1.06.018.1.png'/>族，第四周期，原子序数33，相对分子质量为74"
+  },
+  {
+   "cn": "高层云",
+   "en": "altostratus,As",
+   "source": "大气科学名词",
+   "wordNumber": "01.150",
+   "subjectFullName": "大气科学_大气",
+   "subjectName": "大气",
+   "publishYear": "2009",
+   "definition": "可部分或全部遮蔽天穹的均匀云层，常为灰白色或灰色。"
+  },
+  {
+   "cn": "散光[眼]",
+   "en": "astigmatism,As",
+   "source": "医学名词 第五分册",
+   "wordNumber": "05.073",
+   "subjectFullName": "医学_眼科学_眼屈光学",
+   "subjectName": "眼屈光学",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "动脉粥样硬化",
+   "en": "atherosclerosis;AS",
+   "source": "急救医学名词",
+   "wordNumber": "03.047",
+   "subjectFullName": "急救医学_日常医学急救_内科学_循环系统",
+   "subjectName": "循环系统",
+   "publishYear": "2025",
+   "definition": "以血管内膜形成粥样斑块或纤维斑块为特征的动脉硬化性疾病。主要累及大动脉和中等动脉，致管壁变硬、管腔狭窄和弹性减弱，引起相应器官缺血性改变。"
+  },
+  {
+   "cn": "视宁度",
+   "en": "seeing",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "大气视宁度",
+   "en": "atmospheric seeing",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "视宁像",
+   "en": "seeing image",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "视宁圆面",
+   "en": "seeing disk",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "透明版",
+   "en": "see-through plate",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "你见即我见",
+   "en": "what-you-see-is-what-I-see\",\"WYSIWIS",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "透印，透墨",
+   "en": "strike through\",\"see through",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "单事件效应",
+   "en": "single-event effect\",\"SEE",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "高层云",
+   "en": "altostratus\",\"As",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "所见即所得",
+   "en": "what-you-see-is-what-you-get\",\"WYSIWYG",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "焦虑特质",
+   "en": "anxiety as a trait\",\"A trait",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "焦虑状态",
+   "en": "anxiety as a state\",\"A state",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "抵押物",
+   "en": "object given as a pledge",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "反电子欺骗技术",
+   "en": "anti-spoofing\",\"AS",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "知者自我",
+   "en": "self as knower",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "初生纤维",
+   "en": "as-formed fiber",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "初生纤维",
+   "en": "as-spun fiber",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "质押票据",
+   "en": "bill as security",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "检校量测",
+   "en": "as-built measurement",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "生成态晶体",
+   "en": "as-grown crystal",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "齐物",
+   "en": "Seeing Things as Equal",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人命关天",
+   "en": "Life Is as Important as Heaven.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "目击道存",
+   "en": "See the Way with One’s Own Eyes",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "虚怀若谷",
+   "en": "An Open Mind as Broad as a Mountain Valley",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "礼尚往来",
+   "en": "Reciprocity as a Social Norm",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "创新驱动",
+   "en": "innovation as a driving force",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据驱动",
+   "en": "data as a driving force",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "区块链即服务",
+   "en": "Blockchain as a Service (BaaS)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字政府即平台行动计划（英国）",
+   "en": "Government as a Platform (UK)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "通信即服务",
+   "en": "Communication as a Service (CaaS)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "计算即服务",
+   "en": "Computing as a Service (CompaaS)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "基础设施即服务",
+   "en": "Infrastructure as a Service (IaaS)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络即服务",
+   "en": "Network as a Service (NaaS)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "平台即服务",
+   "en": "Platform as a Service (PaaS)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "软件即服务",
+   "en": "Software as a Service (SaaS)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全即服务",
+   "en": "Security as a Service (SaaS)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "见贤思齐",
+   "en": "When Seeing a Person of High Caliber, Strive to Be His Equal.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据存储即服务",
+   "en": "Data Storage as a Service (DSaaS)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "明厨亮灶",
+   "en": "see-through kitchen",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.1.6.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_学校营养食物供应",
+   "subjectName": "学校营养食物供应",
+   "publishYear": "2025",
+   "definition": "餐饮服务提供者采用透明、视频等方式，向社会公众展示餐饮服务相关过程的一种形式。"
+  },
+  {
+   "cn": "ALARA原则",
+   "en": "As low as reasonably achievable principle",
+   "source": "放射卫生学",
+   "wordNumber": "10.2.2.9",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_历史事件_推动历史发展的重要事件",
+   "subjectName": "推动历史发展的重要事件",
+   "publishYear": "2025",
+   "definition": "全称“可合理达到的尽量低原则”。美国核管会在1960年代后期开始的核能与放射防护的争论中，于1975年12月正式提出该规则。1977年，ICRP第26号出版物提出了放射防护三原则，在防护最优化中包括了"
+  },
+  {
+   "cn": "强直性脊柱炎",
+   "en": "ankylosing spondylitis, AS",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.4.3.2",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_脊柱关节炎_疾病",
+   "subjectName": "疾病",
+   "publishYear": "2025",
+   "definition": "一种慢性炎性疾病，主要侵犯骶髂关节、脊柱关节突滑膜关节、脊柱旁软组织、外周关节以及肌腱、韧带附着于骨的部位（附着点），常引起纤维性和骨性强直。有明显家族聚集现象，并与人类白细胞抗原（HLA-B27）密"
+  },
+  {
+   "cn": "归因份额",
+   "en": "assigned share，AS",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.3.19",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_效应指标",
+   "subjectName": "效应指标",
+   "publishYear": "2025",
+   "definition": "2003年，美国国立癌症研究所（NCI）等机构对放射流行病学表进行了修订，考虑到病因概率（PC）不是严格意义上的概率，故改为归因份额。"
+  },
+  {
+   "cn": "奥尔波特综合征",
+   "en": "Alport syndrome，AS",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.7.8",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_遗传性疾病",
+   "subjectName": "遗传性疾病",
+   "publishYear": "2025",
+   "definition": "一种常染色体显性/隐性/X连锁遗传病。约85%AS患者为X连锁显性遗传型，为编码Ⅳ型胶原蛋白α5链基因（COL4A5，Xq22）突变所致；常染色体隐性遗传型是COL4A3或COL4A4（2q36—q3"
+  },
+  {
+   "cn": "现收现付制",
+   "en": "pay-as-you-go",
+   "source": "社会学名词",
+   "wordNumber": "3.18.2.7",
+   "subjectFullName": "社会学名词_分支社会学_社会保障_社会保险",
+   "subjectName": "社会保险",
+   "publishYear": "2025",
+   "definition": "以近期内横向收支平衡原则为指导的社会保险筹资模式。以当期保险费收支平衡为原则，一般以一年为期限，作出某项社会保险计划所需支出的费用预算，然后将保险费或税分摊到参加该保险计划的单位或个人，当年收缴，当年"
+  },
+  {
+   "cn": "干部能上能下",
+   "en": "cadres should be ready to take a lower as well as a higher post",
+   "source": "马克思主义",
+   "wordNumber": "03.0508",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "邓小平针对我国干部实际上存在的能上不能下的状况所造成的难题提出的对策。1962年11月29日，他在接见参加组织工作会议和全国监察工作会议的同志时说：多少年来，我们对干部就是包下来，能上不能下。……唯一"
+  },
+  {
+   "cn": "农业为基础工业为主导",
+   "en": "take agriculture as the base industry as the leading factor",
+   "source": "马克思主义",
+   "wordNumber": "02.0374",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东提出的发展国民经济的总方针。以农业为基础，要求加强和加快农业的发展，要求工业和整个国民经济的发展建立在农业发展的可靠基础之上；以工业为主导，优先发展重工业，生产先进的技术装备，用以装备农业和国民"
+  },
+  {
+   "cn": "一般公认安全物质",
+   "en": "general recognized as safe, GRAS",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.27.4",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "合格专家普遍认可的在预期使用条件下安全的物质，包括依据科学评估程序确认安全的物质和通过普遍使用经验确认安全的物质"
+  },
+  {
+   "cn": "作为意识形态的科学与技术",
+   "en": "science and technology as ideology",
+   "source": "马克思主义",
+   "wordNumber": "05.0115",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "哈贝马斯的著作书名。哈贝马斯认为，在发达国家，科学技术不仅是生产力，而且是为资本主义的管理体系和国家政策提供合法性的意识形态。"
+  },
+  {
+   "cn": "现收现付制",
+   "en": "pay-as-you-go plan",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.5.1.4",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险筹资与运行",
+   "subjectName": "健康保险筹资与运行",
+   "publishYear": "2025",
+   "definition": "以同期所需支付的社会保险费用为依据，当期筹集当期使用，保持近期收付平衡的一种保险制度"
+  },
+  {
+   "cn": "一般公认安全",
+   "en": "generally recognized as safe， GRAS",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.23.1",
+   "subjectFullName": "食品卫生学_食品_其他食品",
+   "subjectName": "其他食品",
+   "publishYear": "2025",
+   "definition": "符合美国美国食品药品管理局豁免于联邦《食品、药品和化妆品法案》的食品原料或食品添加剂。经过专家评议后被认为足够安全、而不需要对其在食品加工过程中的使用量或者摄入量进行限定。"
+  },
+  {
+   "cn": "现付制",
+   "en": "pay-as-you-go system，PAYG",
+   "source": "卫生经济学名词",
+   "wordNumber": "9.2.3.2",
+   "subjectFullName": "卫生经济学名词_卫生筹资_卫生资金筹集",
+   "subjectName": "卫生资金筹集",
+   "publishYear": "2025",
+   "definition": "被服务者直接向服务提供者支付费用的一种卫生资金筹集机制，主要形式是现金支付。"
+  },
+  {
+   "cn": "食用历史",
+   "en": "history to be eat as food",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.23.33",
+   "subjectFullName": "食品卫生学_食品_其他食品",
+   "subjectName": "其他食品",
+   "publishYear": "2025",
+   "definition": "某种食品在省辖区域内有30年以上作为定型或者非定型包装食品生产经营的历史，并且未载入《中华人民共和国药典》。"
+  },
+  {
+   "cn": "无脑儿供体移植",
+   "en": "anencephalic new- born as organ donor",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.035",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "利用无脑畸形新生儿的器官或组织进行移植的行为。因无脑儿不符合脑死亡标准，该行为被国际主流所禁止。"
+  },
+  {
+   "cn": "艾滋病病毒预防性治疗",
+   "en": "human immunodeficiency virus treatment as prevention",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.03",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "在发生艾滋病毒感染的高危行为后，及时到医院或疾病预防控制中心借助艾滋病毒阻断药物进行的阻断治疗，以有效减少艾滋病感染概率的措施。"
+  },
+  {
+   "cn": "城市人口比重",
+   "en": "urban population as percentage of total population",
+   "source": "社会学名词",
+   "wordNumber": "4.5.9.3",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_人口分布",
+   "subjectName": "人口分布",
+   "publishYear": "2025",
+   "definition": "城市人口占一定地域总人口的百分比。"
+  },
+  {
+   "cn": "以经济建设为中心",
+   "en": "take economic development as the central task",
+   "source": "马克思主义",
+   "wordNumber": "03.0612",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国共产党十一届三中全会决定把党和国家的工作重点转移到社会主义现代化建设上来，把发展生产力作为压倒一切的中心任务。这是党在总结历史经验基础上作出的战略决策，是实现党的历史性转折的一个根本性标志。"
+  },
+  {
+   "cn": "中国永远不当头",
+   "en": "China doesnt serves as the leader forever",
+   "source": "马克思主义",
+   "wordNumber": "04.0179",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "这是中国处理国际关系的一个根本国策，即中国在第三世界不当头，对主要由西方国家主导的现存世界体系不采取对抗的国际行为模式。这不仅有利于中国在激烈的国际竞争中争得比较主动的国际地位和更大的回旋余地，也在很"
+  },
+  {
+   "cn": "天人合一",
+   "en": "heaven and man are united as one",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.077",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "主张天地人相通的中国传统文化与哲学思想。强调天地和人之间的整体性和内在联系，突出天对人或人事的根本性意义，表现了人在与天的联系中寻求生命、秩序与价值基础的努力。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
