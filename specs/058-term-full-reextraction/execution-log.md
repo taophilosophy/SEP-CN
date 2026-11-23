@@ -452,3 +452,12 @@
 * 累计：人名表 4,615→4,896（＋281，含九至二十四批新增与 27 条语料形别名）；术语表维持 8,165（池源耗尽）。
 * 落册：`term_flow` 3/0；`registry_azsort` 4,893→4,896 守恒；`check_all` 17 项全绿。
 * 证据：`results/people-wikidata-2026-11-24-b24.tsv`；清单 `tasks/manifests/2026-11-24-058-batch50-people.json`。
+
+## 2026-11-24：著作名第十批（经典 17 部）——推翻“著作线已收”的判断
+
+* 触发：抽查 75 部经典书名发现大批未登记（存在与时间、人类理解论、伦理学原理、心的概念、论自由、利维坦、政府论、社会契约论、国民财富……），此前“著作 43 部”只覆盖了池内按后缀筛出的条目，经典短题（2–4 词、无 subtitle）整批漏收。结论：著作线与术语池不同，仍有余量。
+* 新增 16 部（另 1 部在册被拦）：《存在与时间》《人类理解论》《伦理学原理》《哲学问题》《心的概念》《哲学语法》《可见的与不可见的》《论道德的谱系》《苏鲁支语录》《物理学理论的目的与结构》《论自由》《政府论》《社会契约论》《妇女的屈从地位》《女权辩护》《国民财富的性质和原因的研究》。Leviathan 在册（键已有），跳过。
+* 依据：商务印书馆“‘汉译世界学术名著丛书’1000 种书目”（2024-09-24 发布，2026-11-24 抓取，凭证 `results/works-batch10-2026-11-24.md`），逐条标注书目学科与序号；书目旧名（苏鲁支语录）注通行异名（查拉图斯特拉如是说）。
+* 别名补记 1 条：`Treatise of Human Nature` 补全题形 `A Treatise of Human Nature`（同书，语料多为含冠词全题）。
+* 待办：Structure of Scientific Revolutions、Against Method、Logic of Scientific Discovery、Conjectures and Refutations、Open Society、Poverty of Historicism、After Virtue、Taking Rights Seriously、Concept of Law、Direction of Time、German Ideology、Capital、Eichmann in Jerusalem、Origins of Totalitarianism、Concept of the Political、Being and Event、Logic of Sense、Discipline and Punish、History of Sexuality、Of Grammatology、Writing and Difference、Totality and Infinity、Otherwise than Being、Spheres of Justice、Sources of the Self、Timaeus 等 26 部，需逐部找权威译本凭证（不属商务书目范围）。
+* 落册：`term_flow` 16/1；`registry_azsort` 术语表 8,165→8,181 守恒；`check_all` 17 项全绿。

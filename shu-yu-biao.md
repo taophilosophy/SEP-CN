@@ -20,6 +20,7 @@
 | a priori | a priori | 先天（康德传统；与“先验”transzendental 相区分） | logical-consequence；语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
 | a priori knowledge | — | 先天知识 | 语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04 | 2026-11-04 |
 | A Very Easy Death | — | 《安详辞世》 | 语料回收（词汇表并网） | 学界惯例（词汇表并网迁移）；词汇表并网（ADR-0036）；审定库无相关命中（termonline-all 凭证 2026-11-13） | 2026-11-13 |
+| A Vindication of the Rights of Woman | — | 《女权辩护》 | 语料回收（specs/058 全库提取） | 权威译本（商务印书馆“汉译世界学术名著丛书”1000 种书目（2024-09-24，cp.com.cn）·政治学·法学·社会学·教育学第 80 号载此书名；2026-11-24 查，凭证 works-batch10-2026-11-24.md）；与《妇女的屈从地位》合刊 | 2026-11-24 |
 | A Week on the Concord and Merrimack Rivers | — | 《河上一周》 | 语料回收（词汇表并网） | 梭罗著作，通行中译《河上一周》（商务印书馆涵芬书坊、果麦等版本）；商务 2025 年新译本作《两河一周》；词汇表并网（ADR-0036） | 2026-11-13 |
 | a-ji / a-ji kan | 阿字観 | 阿字观 | kukai | 真言宗汉语传统（阿字观想） | 2026-11-09 |
 | a-samavāyi-kāraṇa | असमवायिकारण | 非和合因（亦作“非依处因”） | early-modern-india | 胜论三因义译（non-inherent cause；与 samavāyi-kāraṇa 和合因、nimitta 工具因并列）；亦作记同词异译形；凭证 2026-11-11；2026-11-13 合并 a-samavayi-kāraṇa/a-samavāyi-kāraṇa 同键异形两行 | 2026-11-13 |
@@ -279,6 +280,7 @@
 | ampliative force | — | 扩展力 | peter-spain | 沿登记册 ampliation→扩展 派生；凭证 2026-11-09 | 2026-11-09 |
 | ampliative term | — | 扩展性词项 | buridan 首译 | 学界通行译名（中世纪逻辑与哲学研究文献）；凭证 2026-11-08 | 2026-11-08 |
 | amplification | — | 放大 | logic-preference | 冯·赖特偏好逻辑原则通行（V5） | 2026-11-05 |
+| An Essay Concerning Human Understanding | — | 《人类理解论》 | 语料回收（specs/058 全库提取） | 权威译本（商务印书馆“汉译世界学术名著丛书”1000 种书目（2024-09-24，cp.com.cn）·哲学第 137 号载此书名；2026-11-24 查，凭证 works-batch10-2026-11-24.md） | 2026-11-24 |
 | Analects / Lun yu / Lunyu | 論語 | 《论语》 | 术语会话种子（ADR-0011） | 学界通行学名；旧键“Lunyu”并入（2026-11-21 撞形处置；旧键首现：zhu-xi 首译） | 2026-11-21 |
 | analog-digital distinction | — | 模拟-数字之分 | digital-art 首译 | 媒介理论与心灵哲学通行（analog 模拟与 digital 数字对举）；凭证 2026-11-10 | 2026-11-10 |
 | analogical | — | 类比的 | analogy-medieval 首译 | 学界通行（与单义/歧义相对）；凭证 2026-11-08 | 2026-11-08 |
@@ -655,6 +657,7 @@
 | behaviorism | — | 行为主义 | 语料回收（词汇表并网） | 学界惯例（词汇表并网迁移）；词汇表并网（ADR-0036）；审定库一致（termonline-all 凭证 2026-11-13）；旧键“behaviourism”并入（2026-11-21 撞形处置；旧键首现：首现（imprecise-probabilities）） | 2026-11-21 |
 | being | — | 存在（分析传统通行；亦作“是者”“有”） | 语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04；撞形豁免 2026-11-21：同形异语／同概念异形，按条目语境区分，不合并 | 2026-11-21 |
 | Being and Nothingness | — | 《存在与虚无》 | 语料回收（词汇表并网） | 学界惯例（词汇表并网迁移）；词汇表并网（ADR-0036）；审定库无相关命中（termonline-all 凭证 2026-11-13） | 2026-11-13 |
+| Being and Time | — | 《存在与时间》 | 语料回收（specs/058 全库提取） | 权威译本（商务印书馆“汉译世界学术名著丛书”1000 种书目（2024-09-24，cp.com.cn）·哲学第 14 号载此书名；2026-11-24 查，凭证 works-batch10-2026-11-24.md） | 2026-11-24 |
 | being in general | — |一般存在（亦作“普遍存在”）| edwards 首译 | 自译裁定（爱德华兹借自马勒伯朗士之语；学界亦作“普遍存在”，本文统一“一般存在”）；凭证 2026-11-10 | 2026-11-10 |
 | being quantified over | — | 作为量化对象 | object 首译 | 自译裁定（避免单句“被”堆叠；与 being referred to 对举）；凭证 2026-11-07 | 2026-11-07 |
 | being-toward-death | — | 向死存在 | existentialism-mexican | 海德格尔 Sein-zum-Tode 通行汉译；与“与死共存”对举；凭证 2026-11-12 | 2026-11-12 |
@@ -5085,9 +5088,11 @@
 | On Generation and Corruption | — | 《论生灭》 | zabarella | 学界通行汉译（亚里士多德著作）；凭证 2026-11-09 | 2026-11-09 |
 | On Incredible Tales | — | 《论不可信的故事》 | epicurus | 本词条译名（帕莱法托斯） | 2026-11-12 |
 | On Interpretation | — | 《解释篇》 | zabarella | 学界通行汉译（亚里士多德著作）；凭证 2026-11-09 | 2026-11-09 |
+| On Liberty | — | 《论自由》 | 语料回收（specs/058 全库提取） | 权威译本（商务印书馆“汉译世界学术名著丛书”1000 种书目（2024-09-24，cp.com.cn）·政治学·法学·社会学·教育学第 67 号载此书名；2026-11-24 查，凭证 works-batch10-2026-11-24.md） | 2026-11-24 |
 | On Melissus, Xenophanes, Gorgias | — | 《论麦里梭、克塞诺芬尼与高尔吉亚》 | 首现（xenophanes） | 学界通行汉译（伪亚里士多德 MXG 通行题名）；分档裁定 A 档（rules/03 S2，2026-11-15 回炉补登） | 2026-11-15 |
 | On Moral Ends (De finibus) | — | 《论至善与至恶》 | epicurus | 学界通行（西塞罗） | 2026-11-12 |
 | On Noble Families | — | 《论高贵家族》 | epicurus | 本词条译名（梅特罗多洛斯） | 2026-11-12 |
+| On the Genealogy of Morality | — | 《论道德的谱系》 | 语料回收（specs/058 全库提取） | 权威译本（商务印书馆“汉译世界学术名著丛书”1000 种书目（2024-09-24，cp.com.cn）·哲学第 91 号载此书名；2026-11-24 查，凭证 works-batch10-2026-11-24.md） | 2026-11-24 |
 | On the Heavens | — | 《论天》 | zabarella | 学界通行汉译（亚里士多德著作）；凭证 2026-11-09 | 2026-11-09 |
 | oncogene | — | 癌基因 | cancer | 学界通行（癌症分子生物学）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
 | One Mind(yixin/ilsim) | 一心 | 一心 | korean-buddhism | 佛典古译（《大乘起信论》一心，源文汉字 一心）；键形归一 2026-11-21：全角括注／斜线改半角（键须为源语形）；旧键 One Mind（yixin/ilsim） | 2026-11-21 |
@@ -5425,6 +5430,7 @@
 | Philosophical anthropology | — | 哲学人类学 | 语料回收（标题词） | 学界惯例（哲学分支通行）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
 | philosophical atomism | — | 哲学原子论 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-24）；凭证 2026-11-24 | 2026-11-24 |
 | philosophical faith | philosophischer Glaube | 哲学信仰 | jaspers 首译 | 学界通行（《哲学信仰》Der philosophische Glaube）；凭证 2026-11-09 | 2026-11-09 |
+| Philosophical Grammar | — | 《哲学语法》 | 语料回收（specs/058 全库提取） | 权威译本（商务印书馆“汉译世界学术名著丛书”1000 种书目（2024-09-24，cp.com.cn）·哲学第 235 号载此书名；2026-11-24 查，凭证 works-batch10-2026-11-24.md） | 2026-11-24 |
 | philosophical hermeneutics | — | 哲学诠释学（亦作“哲学解释学”） | gadamer-aesthetics | 权威译本通行译法（洪汉鼎《真理与方法》） | 2026-11-01 |
 | Philosophical Investigations | — | 《哲学研究》 | 语料回收（specs/058 全库提取） | 权威译本（陈嘉映译《哲学研究》通行汉译；审定库无对口条目，2026-11-22）；凭证 2026-11-22 | 2026-11-22 |
 | philosophical necessity | — | 哲学必然性 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
@@ -5747,6 +5753,7 @@
 | primitive recursive function | — | 原始递归函数 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·计算机科学技术·理论计算机科学·可计算性与计算复杂性，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | principal fiber bundle | — | 主纤维丛 | geometry-19th | 数学/几何学界通行译名；凭证 2026-11-11（主会话直译 g/geometry-19th） | 2026-11-11 |
 | Principia (Newton) | — | 《原理》 | newton-philosophy | 学界通行简称（全称《自然哲学的数学原理》） | 2026-11-10 |
+| Principia Ethica | — | 《伦理学原理》 | 语料回收（specs/058 全库提取） | 权威译本（商务印书馆“汉译世界学术名著丛书”1000 种书目（2024-09-24，cp.com.cn）·哲学第 87 号载此书名；2026-11-24 查，凭证 works-batch10-2026-11-24.md） | 2026-11-24 |
 | Principia Mathematica | — | 《数学原理》（罗素、怀特海著） | 语料回收（全目录） | A 档裁定（008 池裁定 2026-10-28）；学界通行译名 | 2026-10-28 |
 | principle of apperception | — | 统觉原理 | kant-transcendental | 康德研究通行（B 版演绎 §16）；凭证 2026-11-10 | 2026-11-10 |
 | principle of bivalence | — | 二值原则 | reinach；首现（truth-coherence） | 学界通行（每一命题非真即假）；凭证 2026-11-07；2026-11-09 合并同键变体（来源列并双 slug）；旧键“bivalence”并入（2026-11-21 撞形处置；旧键首现：lvov-warsaw；dialectical-school） | 2026-11-21 |
@@ -7497,9 +7504,11 @@
 | tetraploid complementation | — | 四倍体补偿 | 首现（cloning） | 学界惯例（干细胞生物学通行）；凭证 2026-11-07 | 2026-11-07 |
 | text's world | — | 文本的世界 | ricoeur | 利科术语（monde du texte）；凭证 2026-11-11 | 2026-11-11 |
 | textual lineage | — | 文本谱系 | chinese-phil-science | 学界通行（参 Lewis《早期中国的书写与权威》）；凭证 2026-11-07 | 2026-11-07 |
+| The Aim and Structure of Physical Theory | — | 《物理学理论的目的与结构》 | 语料回收（specs/058 全库提取） | 权威译本（商务印书馆“汉译世界学术名著丛书”1000 种书目（2024-09-24，cp.com.cn）·哲学第 194 号载此书名；2026-11-24 查，凭证 works-batch10-2026-11-24.md） | 2026-11-24 |
 | the all (to pan) | τὸ πᾶν |万有（亦作“宇宙整体”）| epicurus | 本词条译名（亦作“宇宙整体”） | 2026-11-12 |
 | the Autonomy Principle | — | 自主性原则 | aesthetic-testimony | 本词条命名原则（Nguyen 2020a）；autonomy=自主性 学界通行 | 2026-11-11 |
 | The Beginning of Philosophy | Der Anfang der Philosophie | 《哲学的开端》 | gadamer | 伽达默尔著作通行汉译；凭证 2026-11-10 | 2026-11-10 |
+| The Concept of Mind | — | 《心的概念》 | 语料回收（specs/058 全库提取） | 权威译本（商务印书馆“汉译世界学术名著丛书”1000 种书目（2024-09-24，cp.com.cn）·哲学第 205 号载此书名；2026-11-24 查，凭证 works-batch10-2026-11-24.md） | 2026-11-24 |
 | The Cyrenaics | — |昔勒尼学派（亦作“昔兰尼派”）| epicurus | SUMMARY 定名（c/cyrenaics；亦作“昔兰尼派”） | 2026-11-12 |
 | The Elements | — | 《几何原本》 | zabarella | 学界千年通行汉译（欧几里得著作）；凭证 2026-11-09 | 2026-11-09 |
 | the First | — | 第一者 | neoplatonism | 新柏拉图主义研究通行（the One 之别称，正文并用“太一”） | 2026-11-07 |
@@ -7512,12 +7521,17 @@
 | the One | — | 太一（普罗提诺 to hen） | 语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04 | 2026-11-04 |
 | The Only Possible Basis for a Demonstration of the Existence of God | — | 《上帝存在证明的唯一可能根据》 | kant-science | 学界通行 | 2026-11-05 |
 | The Origin of the Work of Art | Der Ursprung des Kunstwerkes | 《艺术作品的本源》 | gadamer | 海德格尔1936年讲座通行汉译；凭证 2026-11-10 | 2026-11-10 |
+| The Problems of Philosophy | — | 《哲学问题》 | 语料回收（specs/058 全库提取） | 权威译本（商务印书馆“汉译世界学术名著丛书”1000 种书目（2024-09-24，cp.com.cn）·哲学第 319 号载此书名；2026-11-24 查，凭证 works-batch10-2026-11-24.md） | 2026-11-24 |
 | The Relevance of the Beautiful | Die Aktualität des Schönen | 《美的现实性》 | gadamer | 伽达默尔美学论集通行汉译；凭证 2026-11-10 | 2026-11-10 |
 | the Requirement | — | 要求 | aesthetic-testimony | Hopkins (2011) 命名原则；直译，正文首现括注原文 | 2026-11-11 |
 | The Right of Sovereignty | — | 《主权之权利》（丹尼尔·李 2021） | s/sovereignty 首译 | 构词直译，无中译本；凭证 2026-11-07；审定库无相关命中（termonline-all 凭证 2026-11-10）| 2026-11-07 |
+| The Social Contract | — | 《社会契约论》 | 语料回收（specs/058 全库提取） | 权威译本（商务印书馆“汉译世界学术名著丛书”1000 种书目（2024-09-24，cp.com.cn）·政治学·法学·社会学·教育学第 100 号载此书名；2026-11-24 查，凭证 works-batch10-2026-11-24.md） | 2026-11-24 |
+| The Subjection of Women | — | 《妇女的屈从地位》 | 语料回收（specs/058 全库提取） | 权威译本（商务印书馆“汉译世界学术名著丛书”1000 种书目（2024-09-24，cp.com.cn）·政治学·法学·社会学·教育学第 80 号载此书名；2026-11-24 查，凭证 works-batch10-2026-11-24.md）；与《女权辩护》合刊 | 2026-11-24 |
 | the Table of Evils | — | 恶之表 | evil-kinds-origins | 本词条译名（作者自制图表） | 2026-11-12 |
 | the ultimate that is realized | — | 所证胜义 | gorampa | 藏传中观通行（rtogs pa’i don dam，证悟胜义/所证胜义） | 2026-11-09 |
 | the ultimate that is taught | — | 所教胜义 | gorampa | 藏传中观通行（bstan pa’i don dam，言教胜义/所教胜义）；与所证胜义对项 | 2026-11-09 |
+| The Visible and the Invisible | — | 《可见的与不可见的》 | 语料回收（specs/058 全库提取） | 权威译本（商务印书馆“汉译世界学术名著丛书”1000 种书目（2024-09-24，cp.com.cn）·哲学第 71 号载此书名；2026-11-24 查，凭证 works-batch10-2026-11-24.md） | 2026-11-24 |
+| The Wealth of Nations | — | 《国民财富的性质和原因的研究》 | 语料回收（specs/058 全库提取） | 权威译本（商务印书馆“汉译世界学术名著丛书”1000 种书目（2024-09-24，cp.com.cn）·经济学·管理学第 26 号载此书名；2026-11-24 查，凭证 works-batch10-2026-11-24.md）；通行简称《国富论》 | 2026-11-24 |
 | The Will to Believe | — | 《信仰的意志》 | 语料回收（词汇表并网） | 詹姆斯著作，通行中译《信仰的意志》；作概念短语亦译“信念的意志”；词汇表并网（ADR-0036） | 2026-11-13 |
 | the Woman Question | — | 妇女问题 | george-eliot 首译 | 维多利亚研究通行 | 2026-11-12 |
 | theistic activism | — | 有神论能动论 | god-necessary-being | Morris & Menzel 1986 自造术语，构词直译；与意志主义/流溢论区分 | 2026-11-09 |
@@ -7590,6 +7604,7 @@
 | threnody | — | 挽歌 | paradox-of-tragedy | 学界惯例（诗体/音乐通行）；凭证 2026-11-10 | 2026-11-10 |
 | thrownness | — | 被抛性 | existentialism-mexican | 海德格尔 Geworfenheit 通行汉译；源文 thrown/thrownness；凭证 2026-11-12 | 2026-11-12 |
 | Thubten Namgyal Ling | — | 土丹南嘉林寺 | gorampa | 果让巴 1473 年所建寺院名音译 | 2026-11-09 |
+| Thus Spoke Zarathustra | — | 《苏鲁支语录》 | 语料回收（specs/058 全库提取） | 权威译本（商务印书馆“汉译世界学术名著丛书”1000 种书目（2024-09-24，cp.com.cn）·哲学第 180 号载此书名；2026-11-24 查，凭证 works-batch10-2026-11-24.md）；徐梵澄译本名；通行亦作《查拉图斯特拉如是说》 | 2026-11-24 |
 | tian | 天 | 天 | 语料回收（中文哲学词条群） | 学界惯例（拼音与汉字对应）；审定库无直接收录（凭证 2026-10-30） | 2026-10-30 |
 | tianli | 天理 | 天理 | dai-zhen | 宋明理学通行术语（戴震“自然之分理”义）；凭证 2026-11-07 | 2026-11-07 |
 | Tianwen | 天文 | 《天文》（《淮南子》篇名） | han-dynasty | 篇名逐字 | 2026-11-10 |
@@ -7705,7 +7720,7 @@
 | transworld identity | — | 跨界同一性 | 语料回收（日志 2024-05-09 引） | 程平文《可能世界理论中的跨界同一性和跨界识别问题》（苏州大学 2010，日志引）；2026-11-15 日志增补 | 2026-11-15 |
 | Träume eines Geistersehers | Träume eines Geistersehers | 《视灵者的梦》（康德） | hartshorne | 主会话复审收口 73574215；凭证 2026-11-04 | 2026-11-04 |
 | Treasure of Reasoning(Tshad ma rigs gter) | — | 《量理宝藏》 | epistemology-language-tibetan | 佛学界通行（萨迦班智达著作）；原文列：工具书查无原生文字（2026-11-20 检 wisdomlib／GND／BDRC／84000／Logeion，均无“转写↔原生文字”显式配对，部分源不可达；映射表推演禁用，ADR-0030）；键形归一 2026-11-21：全角括注／斜线改半角（键须为源语形）；旧键 Treasure of Reasoning（Tshad ma rigs gter） | 2026-11-21 |
-| Treatise of Human Nature | — | 《人性论》 | 语料回收（specs/058 全库提取） | 权威译本（关文运译《人性论》，商务印书馆；审定库无对口条目，2026-11-22）；凭证 2026-11-22 | 2026-11-22 |
+| Treatise of Human Nature | A Treatise of Human Nature | 《人性论》 | 语料回收（specs/058 全库提取） | 权威译本（关文运译《人性论》，商务印书馆；审定库无对口条目，2026-11-22）；凭证 2026-11-22；别名为 058 语料全题形（含冠词 A），与在册简称同书（2026-11-24 核对，凭证 works-batch10-2026-11-24.md） | 2026-11-22 |
 | Treatise on Man | — | 《论人》 | 语料回收（specs/058 全库提取） | 权威译本（笛卡尔著作，学界通行；审定库命中“论著”等他义；审定库无对口条目，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | treatment as an equal | — | 平等待人 | disability-care-rationing | 政治哲学通行（与 equal treatment 同等对待对举）；凭证 2026-11-08 | 2026-11-08 |
 | tree algebra | — | 树代数 | 首现（boolalg-math） | 学界惯例（布尔代数论通行译名） | 2026-11-01 |
@@ -7771,6 +7786,7 @@
 | Tusculan Disputations | — | 《图斯库鲁姆论辩集》 | epicurus | 学界通行（西塞罗） | 2026-11-12 |
 | Twilight of the Idols | — | 《偶像的黄昏》 | 语料回收（specs/058 全库提取） | 权威译本（尼采著作通行汉译；审定库仅命中“曙暮光”概念；审定库无对口条目，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | Twin Earth | — | 孪生地球 | 语料回收（标题词） | 学界惯例（心灵哲学（普特南思想实验）通行）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
+| Two Treatises of Government | — | 《政府论》 | 语料回收（specs/058 全库提取） | 权威译本（商务印书馆“汉译世界学术名著丛书”1000 种书目（2024-09-24，cp.com.cn）·政治学·法学·社会学·教育学第 140 号载此书名；2026-11-24 查，凭证 works-batch10-2026-11-24.md）；书目作“政府论（上下篇）” | 2026-11-24 |
 | two truths | — | 二谛（佛教；犹太哲学语境亦作“两种真理”） | gelukpa、delmedigo | 佛学界通行译名（真谛/俗谛） | 2026-11-01 |
 | Two Visual Systems Model | — | 双视觉系统模型 | 语料回收（molyneux-problem 首译） | 认知科学界通行译法（Goodale–Milner）；凭证 2026-11-06 | 2026-11-06 |
 | Two-Dimensional | — | 二维 | 语料回收（词汇表并网） | 学界惯例（词汇表并网迁移）；词汇表并网（ADR-0036）；审定库不一致（termonline-all 凭证 2026-11-13）| 2026-11-13 |
