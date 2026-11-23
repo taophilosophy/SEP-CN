@@ -1,0 +1,802 @@
+{
+ "key": "back-door criterion",
+ "term": "Back-Door Criterion",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T01:59:43+00:00",
+ "status": "ok",
+ "note": "variant=Back-Door Criterion; 审定公布名词库=2002; 海峡两岸名词对照库=718; 其他来源数据库=189; 预公布名词数据库=67; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "借壳上市",
+   "en": "back door listing",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0244",
+   "subjectFullName": "管理科学技术_金融工程_原理",
+   "subjectName": "原理",
+   "publishYear": "2016",
+   "definition": "通过收购一家已上市公司(即所谓的“壳”)的控股权以达到控股目的，进而将自己的优质资产和业务注入从而实现自身资产与业务的间接上市。"
+  },
+  {
+   "cn": "门",
+   "en": "door",
+   "source": "风景园林名词",
+   "wordNumber": "07.0311",
+   "subjectFullName": "风景园林_风景园林建筑_小木作",
+   "subjectName": "小木作",
+   "publishYear": "2025",
+   "definition": "古建筑附属部分，为装修中的主要部分，按照其使用功能、艺术形式和所在位置，可分为城门、过街门、院门、屋门、随墙门、隔扇门、垂花门等。"
+  },
+  {
+   "cn": "门",
+   "en": "door",
+   "source": "建筑学名词",
+   "wordNumber": "09.0289",
+   "subjectFullName": "建筑学_建筑设计_建筑构造",
+   "subjectName": "建筑构造",
+   "publishYear": "2014",
+   "definition": "位于建筑物外部或内部两个空间的出入口处，可以启闭的建筑部件。用于联系或分隔建筑空间。"
+  },
+  {
+   "cn": "车门",
+   "en": "door",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "06.080",
+   "subjectFullName": "机械工程_汽车_车身_车身结构",
+   "subjectName": "车身结构",
+   "publishYear": "2013",
+   "definition": "装在车身门孔上的门。"
+  },
+  {
+   "cn": "门到门",
+   "en": "door to door",
+   "source": "航海科技名词",
+   "wordNumber": "11.0231",
+   "subjectFullName": "航海科学技术_客货运输",
+   "subjectName": "客货运输",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "判据",
+   "en": "criterion",
+   "source": "物理学名词",
+   "wordNumber": "01.0153",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "判据",
+   "en": "criterion",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "01.0047",
+   "subjectFullName": "化工（三）_通类",
+   "subjectName": "通类",
+   "publishYear": "2019",
+   "definition": "判断过程、装备以及产品性能的基本依据。"
+  },
+  {
+   "cn": "效标",
+   "en": "criterion",
+   "source": "心理学名词",
+   "wordNumber": "03.236",
+   "subjectFullName": "心理学_心理统计与测量",
+   "subjectName": "心理统计与测量",
+   "publishYear": "2014",
+   "definition": "用来显示测验所欲测量的特性的变量。通常用一种测验分数或某种活动来表示。"
+  },
+  {
+   "cn": "判据",
+   "en": "criterion",
+   "source": "化学工程名词",
+   "wordNumber": "01.048",
+   "subjectFullName": "化学工程_化学工程通类",
+   "subjectName": "化学工程通类",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "准则",
+   "en": "criterion",
+   "source": "数学名词",
+   "wordNumber": "01.0031",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "安全门",
+   "en": "exit door,escape door",
+   "source": "建筑学名词",
+   "wordNumber": "09.0292",
+   "subjectFullName": "建筑学_建筑设计_建筑构造",
+   "subjectName": "建筑构造",
+   "publishYear": "2014",
+   "definition": "用于人员疏散的门。"
+  },
+  {
+   "cn": "检查门",
+   "en": "access door,inspection door",
+   "source": "建筑学名词",
+   "wordNumber": "14.0282",
+   "subjectFullName": "建筑学_建筑设备与系统_暖通空调系统与设备部件",
+   "subjectName": "暖通空调系统与设备部件",
+   "publishYear": "2014",
+   "definition": "装在空气处理室侧壁上或风管壁上，用于检修设备的密闭门。"
+  },
+  {
+   "cn": "车门开度限制器",
+   "en": "door stop,door arrester",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "06.222",
+   "subjectFullName": "机械工程_汽车_车身_车身附件",
+   "subjectName": "车身附件",
+   "publishYear": "2013",
+   "definition": "约束车门开度不超出极限的装置。"
+  },
+  {
+   "cn": "门锁",
+   "en": "door lock,door latch",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "06.224",
+   "subjectFullName": "机械工程_汽车_车身_车身附件",
+   "subjectName": "车身附件",
+   "publishYear": "2013",
+   "definition": "锁止车门的装置。"
+  },
+  {
+   "cn": "门到门运输服务",
+   "en": "door to door service",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.04.024",
+   "subjectFullName": "编辑与出版学_发行与经营_发行物流",
+   "subjectName": "发行物流",
+   "publishYear": "2022",
+   "definition": "运输经营人由发货人的工厂或仓库接收货物，负责将货物运到收货人的工厂或仓库交付的一种运输服务方式。在这种交付方式下，货物的交接形态都是整体交接。"
+  },
+  {
+   "cn": "门到门运输",
+   "en": "door-to-door transport",
+   "source": "公路交通科技名词",
+   "wordNumber": "06.013",
+   "subjectFullName": "公路交通科学技术_汽车运输",
+   "subjectName": "汽车运输",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "背",
+   "en": "back",
+   "source": "人体解剖学名词",
+   "wordNumber": "01.0088",
+   "subjectFullName": "人体解剖学_绪论",
+   "subjectName": "绪论",
+   "publishYear": "2014",
+   "definition": "位于躯干后部，颈部以下臀部以上的部分。"
+  },
+  {
+   "cn": "板门",
+   "en": "matchboard door",
+   "source": "风景园林名词",
+   "wordNumber": "07.0312",
+   "subjectFullName": "风景园林_风景园林建筑_小木作",
+   "subjectName": "小木作",
+   "publishYear": "2025",
+   "definition": "古建筑小木作门式。由多块厚木板拼装而成，最厚者可达五寸有余，因其体量较大，规制较高，坚固性强，故常被用在城门、宫殿、衙署等建筑中。宋式建筑称“实榻门”。"
+  },
+  {
+   "cn": "撒带门",
+   "en": "piedai door",
+   "source": "风景园林名词",
+   "wordNumber": "07.0313",
+   "subjectFullName": "风景园林_风景园林建筑_小木作",
+   "subjectName": "小木作",
+   "publishYear": "2025",
+   "definition": "古建筑小木作门式。与棋盘门做法大致相同，由门板心和门轴组成，门边无攒边木，门板背后由穿带结合，因其制作简单，故为民居住宅的常见形式。"
+  },
+  {
+   "cn": "屏门",
+   "en": "screen door",
+   "source": "风景园林名词",
+   "wordNumber": "07.0323",
+   "subjectFullName": "风景园林_风景园林建筑_小木作",
+   "subjectName": "小木作",
+   "publishYear": "2025",
+   "definition": "古建筑小木作门式，犹如室内屏风，起到挡的作用。"
+  },
+  {
+   "cn": "门到门",
+   "en": "door to door",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "判据",
+   "en": "criterion",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "判据",
+   "en": "criterion",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "准则",
+   "en": "criterion",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "准则",
+   "en": "criterion",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "效标",
+   "en": "criterion\",\"validity criterion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "背板",
+   "en": "back",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "背面",
+   "en": "back",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "倒车",
+   "en": "back",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "背对背式",
+   "en": "back to back",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "回路测试",
+   "en": "back to back",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "安全门",
+   "en": "safety door",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "防火门",
+   "en": "fire door",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "滑动门",
+   "en": "sliding door",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "铰链门",
+   "en": "hinged door",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "水密门",
+   "en": "watertight door",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "尾门",
+   "en": "stern door",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "舱壁门",
+   "en": "bulkhead door",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "防火门",
+   "en": "fire door",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "艏门",
+   "en": "bow door",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "空切",
+   "en": "back door\",\"backdoor play",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "入户检测",
+   "en": "door-to-door testing",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "后卫",
+   "en": "back",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "后卫",
+   "en": "back",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "后卫",
+   "en": "back",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "后摆",
+   "en": "pass back\",\"swing back",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "后排",
+   "en": "back line\",\"back row",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "3/4后空翻",
+   "en": "lazy back\",\"3/4 back somersault",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "回传",
+   "en": "pass-back",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "棍头反面",
+   "en": "back side",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "后撤步",
+   "en": "back step",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "背箭袋",
+   "en": "back quiver",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "后弓面",
+   "en": "back bowface",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "中后卫",
+   "en": "center back",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "回传",
+   "en": "back pass",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "后侧",
+   "en": "back side",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "后踢",
+   "en": "back kick",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "非终点直道",
+   "en": "back straight",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "单双打发球端线之间的场区",
+   "en": "back alley",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "准则效度",
+   "en": "criterion validity",
+   "source": "社会医学名词",
+   "wordNumber": "4.9.2.4",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "量表",
+   "publishYear": "2025",
+   "definition": "用所设计量表与作为标准（即准则）的量表对同一人群进行调查，通过评价量表测量结果与标准量表测量之间的接近程度，来判断量表测量结果与试图要达到的目标之间接近程度的指标。"
+  },
+  {
+   "cn": "准则效度",
+   "en": "criterion validity",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.77",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "用几种不同的测量方式或不同指标对同一变量进行测量时，将其中的一种方式或指标作为准则，并通过其他的方式或指标与之作比较而测量效度的方法。"
+  },
+  {
+   "cn": "辐射防护门",
+   "en": "radiation shielding door",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.2.38",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_外照射屏蔽防护设计",
+   "subjectName": "外照射屏蔽防护设计",
+   "publishYear": "2025",
+   "definition": "设置在屏蔽室出入口，起到阻挡、屏蔽射线作用的门。"
+  },
+  {
+   "cn": "反散射",
+   "en": "back scattering",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.1.16",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_医用电离辐射",
+   "subjectName": "医用电离辐射",
+   "publishYear": "2025",
+   "definition": "粒子或辐射与物质作用时，相对于入射方向，散射角大于90°的散射。"
+  },
+  {
+   "cn": "椅靠背",
+   "en": "chair back",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.4.2.7",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_课桌椅卫生",
+   "subjectName": "课桌椅卫生",
+   "publishYear": "2025",
+   "definition": "课椅的靠背，向后倾斜5°～10°为宜。"
+  },
+  {
+   "cn": "反散射峰",
+   "en": "back-scatter peak",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.3.5",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理",
+   "subjectName": "辐射测量原理",
+   "publishYear": "2025",
+   "definition": "当光子与探测器周围的物质发生康普顿效应，其反散射光子进入探测器，并通过光电效应被记录后所形成的峰。能谱中反散射峰的大小和源的底衬材料、周围屏蔽材料以及探测器和屏蔽之间的安排有关。"
+  },
+  {
+   "cn": "电脑椅靠背",
+   "en": "computer chair back",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.3.1.3.6",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校用品卫生",
+   "subjectName": "学校用品卫生",
+   "publishYear": "2025",
+   "definition": "电脑椅与人体背部接触，能够有效支撑使用者腰部的部分。"
+  },
+  {
+   "cn": "赤池信息量准则",
+   "en": "akaike information criterion, AIC",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.43",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "衡量统计模型拟合优良性的一种信息量标准，由日本统计学家赤池弘次(Akaike)创立和发展。"
+  },
+  {
+   "cn": "三个有利于标准",
+   "en": "criterion of the three benefits",
+   "source": "马克思主义",
+   "wordNumber": "03.0543",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "邓小平在1992年南方谈话中，为消除人们在姓“资”姓“社”问题上的疑虑，推进社会主义现代化进程，提出了“三个有利于”标准，即“是否有利于发展社会主义社会的生产力，是否有利于增强社会主义国家的综合国力，"
+  },
+  {
+   "cn": "撤回指导水平",
+   "en": "turn-back guidance level",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.10.1",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "一个在直读式个人剂量计上的积分剂量读数值，超过这一数值时应急工作人员剂量指导水平已被超过，该应急工作人员应当离开这个可能出现更高剂量的区域。"
+  },
+  {
+   "cn": "妇女回家论",
+   "en": "women going back home",
+   "source": "社会学名词",
+   "wordNumber": "3.2.5.10",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别与工作",
+   "subjectName": "性别与工作",
+   "publishYear": "2025",
+   "definition": "一种有争议的观点，主张妇女婚后应从劳动力市场中退出，重新回归家庭，成为专职妻子和母亲。女性主义认为，这一观点不顾妇女自己的意愿，忽略了妇女自身的主体需求，剥夺了妇女的就业选择权。"
+  },
+  {
+   "cn": "下背痛",
+   "en": "low back pain， LBP",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.2.2.9",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_症状",
+   "subjectName": "症状",
+   "publishYear": "2025",
+   "definition": "腰背部组织的局部炎症、创伤或附近器官疾病引起的腰部疼痛感。"
+  },
+  {
+   "cn": "炎性腰背痛",
+   "en": "inflammatory back pain，IBP",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.2.2.10",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_症状",
+   "subjectName": "症状",
+   "publishYear": "2025",
+   "definition": "由于骶髂关节/腰椎炎症引起的一种特殊类型的腰背痛。临床表现为反复腰背疼痛和晨僵。多采用2009年ASAS标准诊断：40岁前起病、起病隐匿、夜间痛、活动后症状改善、休息后症状无改善，5条标准中至少符合4"
+  },
+  {
+   "cn": "文艺批评的政治标准与艺术标准的统一",
+   "en": "unity of the political criterion and the artistic criterion of literary criticism",
+   "source": "马克思主义",
+   "wordNumber": "03.0459",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东于1942年《在延安文艺座谈会上的讲话》讲话中提出的文艺批评的原则。文艺批评有政治和艺术两个标准,“任何阶级社会中的任何阶级,总是以政治标准放在第一位,以艺术标准放在第二位的”。这一原则强调政治"
+  },
+  {
+   "cn": "双扉高压蒸汽灭菌器",
+   "en": "double-door high pressure steam sterilizer",
+   "source": "消毒学",
+   "wordNumber": "3.1.3.10.1",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "两侧均有门的压力蒸汽灭菌器，有利于划分污染区和清洁区。"
+  },
+  {
+   "cn": "辨别香花与毒草的标准",
+   "en": "criterion for flowers or noxious weeds",
+   "source": "马克思主义",
+   "wordNumber": "03.0460",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东在《关于正确处理人民内部矛盾的问题》一文中提出的在我国人民的政治生活中，判断人们的言论和行动的六条是非标准，即：是否有利于团结全国各族人民，是否有利于社会主义改造和建设，是否有利于巩固人民民主专"
+  },
+  {
+   "cn": "真理标准大讨论",
+   "en": "debating over the criterion of truth",
+   "source": "马克思主义",
+   "wordNumber": "03.0614",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1978年由《实践是检验真理的唯一标准》的发表而引发，在中国共产党内展开了一场关于真理标准问题的大讨论，前后历时三年多。这场讨论是“两个凡是”和“实事求是”两种执政思想的讨论，是文化大革命路线和改革开"
+  },
+  {
+   "cn": "核燃料循环后段",
+   "en": "back-end of nuclear fuel cycle",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.2.13",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护_核燃料与乏燃料",
+   "subjectName": "核燃料与乏燃料",
+   "publishYear": "2025",
+   "definition": "核燃料从反应堆卸出后的处理和处置过程。"
+  },
+  {
+   "cn": "邻避现象",
+   "en": "not in my back yard，NIMBY",
+   "source": "社会学名词",
+   "wordNumber": "3.17.2.2",
+   "subjectFullName": "社会学名词_分支社会学_社区_西方社区概念",
+   "subjectName": "西方社区概念",
+   "publishYear": "2025",
+   "definition": "居民担心给自身带来不利影响而反对在其居住地附近选址的开发建设计划的现象。尽管该项目可能在更大范围内有益于公众。这些项目包括但不限于：化工厂、发电厂、垃圾填埋或焚烧站、基础设施（高速公路、机场等）、监狱"
+  },
+  {
+   "cn": "供体选择准则",
+   "en": "donor selection criteria",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.05",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "用于评估和筛选器官、组织或细胞移植供体的医学、伦理及安全性标准。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

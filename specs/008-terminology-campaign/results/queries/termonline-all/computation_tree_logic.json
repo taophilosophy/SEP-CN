@@ -1,0 +1,722 @@
+{
+ "key": "computation tree logic",
+ "term": "computation tree logic",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T01:57:09+00:00",
+ "status": "ok",
+ "note": "variant=computation tree logic; 审定公布名词库=4263; 海峡两岸名词对照库=1419; 其他来源数据库=498; 预公布名词数据库=148; jwt-direct（JWT 直连，raw 略；已滤维基 9 条）",
+ "hits": [
+  {
+   "cn": "计算树逻辑",
+   "en": "computation tree logic",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0040",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "一种特殊的分支时态逻辑。它通过增加路径算子显式地描述分支时间路径信息。"
+  },
+  {
+   "cn": "代数计算树",
+   "en": "algebraic computation tree",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0280",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "节点形式如下的二叉树：①叶子节点为“1”或“0”；②计算节点 v 标注为<img src='/root/syzx/static/spz/jsjkx3.02.0280.001.png'/>，这里<img"
+  },
+  {
+   "cn": "代数计算树复杂性",
+   "en": "algebraic computation tree complexity",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0281",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "令<img src='/root/syzx/static/spz/jsjkx3.02.0281.001.png'/>， W 的代数计算树复杂性为一切计算 W 的代数计算树的最小深度，这里R为实数域。 "
+  },
+  {
+   "cn": "树",
+   "en": "tree",
+   "source": "电力名词",
+   "wordNumber": "01.260",
+   "subjectFullName": "电力_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "连接网络所有节点,又不形成回路的各支路的连通集。"
+  },
+  {
+   "cn": "树",
+   "en": "tree",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0041",
+   "subjectFullName": "计算机科学技术_理论计算机科学_数据结构",
+   "subjectName": "数据结构",
+   "publishYear": "2018",
+   "definition": " n（n≥0）个节点的有限集。在任意一棵非空树中，有且仅有一个特定的称为根的节点；当n>1时，其余节点可分为m（m>0） 个互不相交的有限集，其中每个集合本身又是一棵树，并且称为根的子树。树中节点构成"
+  },
+  {
+   "cn": "树[木]",
+   "en": "tree",
+   "source": "林学名词",
+   "wordNumber": "01.068",
+   "subjectFullName": "林学_总论",
+   "subjectName": "总论",
+   "publishYear": "2016",
+   "definition": "具有木质化的树干、枝及叶作为同化与蒸腾作用器官的多年生木本植物的通称。"
+  },
+  {
+   "cn": "乔木",
+   "en": "tree",
+   "source": "建筑学名词",
+   "wordNumber": "08.0068",
+   "subjectFullName": "建筑学_风景园林_园林植物和山石",
+   "subjectName": "园林植物和山石",
+   "publishYear": "2014",
+   "definition": "树干高大，主干与分枝区别明显的木本植物。"
+  },
+  {
+   "cn": "乔木",
+   "en": "tree",
+   "source": "生态学名词",
+   "wordNumber": "06.078",
+   "subjectFullName": "生态学_群落生态学",
+   "subjectName": "群落生态学",
+   "publishYear": "2006",
+   "definition": "具有直立主干、树冠广阔、成熟植株在3 m以上的多年生木本植物，是描述植物和用于植物分类的主要概念之一。"
+  },
+  {
+   "cn": "树",
+   "en": "tree",
+   "source": "电气工程名词",
+   "wordNumber": "01.463",
+   "subjectFullName": "电气工程_电工基础及通用名词",
+   "subjectName": "电工基础及通用名词",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "树",
+   "en": "tree",
+   "source": "数学名词",
+   "wordNumber": "03.0193",
+   "subjectFullName": "数学_组合学·一般数学系统_图论",
+   "subjectName": "图论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "树",
+   "en": "tree",
+   "source": "电子学名词",
+   "wordNumber": "05.304",
+   "subjectFullName": "电子学_信息论与信号处理技术",
+   "subjectName": "信息论与信号处理技术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "原条集材",
+   "en": "tree-length logging",
+   "source": "林学名词",
+   "wordNumber": "10.062",
+   "subjectFullName": "林学_森林工程_森林采运",
+   "subjectName": "森林采运",
+   "publishYear": "2016",
+   "definition": "将伐倒木打枝、截梢后直接进行集材的作业方式。"
+  },
+  {
+   "cn": "进化系统树",
+   "en": "phylogenetic tree,evolutionary tree",
+   "source": "畜牧学名词",
+   "wordNumber": "04.318",
+   "subjectFullName": "畜牧学_遗传育种_群体遗传学",
+   "subjectName": "群体遗传学",
+   "publishYear": "2020",
+   "definition": "用以描绘分类单元之间亲缘关系、由节点分枝构成的树状图。通常用来图解描述不同物种间的进化关系。"
+  },
+  {
+   "cn": "优树",
+   "en": "plus tree,superior tree",
+   "source": "林学名词",
+   "wordNumber": "04.051",
+   "subjectFullName": "林学_林木遗传育种_林木选择育种",
+   "subjectName": "林木选择育种",
+   "publishYear": "2016",
+   "definition": "在相同的立地条件和接近同龄的林分中，生长和品质等表型性状上特别优良的单株树木。"
+  },
+  {
+   "cn": "对比树",
+   "en": "comparison tree,check tree",
+   "source": "林学名词",
+   "wordNumber": "04.050",
+   "subjectFullName": "林学_林木遗传育种_林木选择育种",
+   "subjectName": "林木选择育种",
+   "publishYear": "2016",
+   "definition": "在候选树四周相似的立地上，选择的仅次于候选树的若干株同龄同种树木，作为候选树的对比标准。"
+  },
+  {
+   "cn": "亚优势木",
+   "en": "subdominant tree,codominant tree",
+   "source": "林学名词",
+   "wordNumber": "06.051",
+   "subjectFullName": "林学_森林经理_森林作业与资源调查",
+   "subjectName": "森林作业与资源调查",
+   "publishYear": "2016",
+   "definition": "直径、树高仅次于优势木，树冠稍高于林冠层的平均高度，侧方稍受挤压的林木。"
+  },
+  {
+   "cn": "乔木层",
+   "en": "tree layer,tree stratum",
+   "source": "林学名词",
+   "wordNumber": "06.018",
+   "subjectFullName": "林学_森林经理_森林作业与资源调查",
+   "subjectName": "森林作业与资源调查",
+   "publishYear": "2016",
+   "definition": "林分中乔木树冠层。"
+  },
+  {
+   "cn": "行道树",
+   "en": "avenue tree,street tree",
+   "source": "建筑学名词",
+   "wordNumber": "08.0081",
+   "subjectFullName": "建筑学_风景园林_园林植物和山石",
+   "subjectName": "园林植物和山石",
+   "publishYear": "2014",
+   "definition": "沿道路或公路旁种植的乔木。"
+  },
+  {
+   "cn": "庭荫树",
+   "en": "courtyard tree,shady tree",
+   "source": "建筑学名词",
+   "wordNumber": "08.0082",
+   "subjectFullName": "建筑学_风景园林_园林植物和山石",
+   "subjectName": "园林植物和山石",
+   "publishYear": "2014",
+   "definition": "植于庭园或公园以取其绿荫为主要目的的树种。一般多为夏季冠大荫浓而冬季人们需要阳光时落叶的落叶乔木。"
+  },
+  {
+   "cn": "标记树",
+   "en": "annotated tree,labeled tree",
+   "source": "语言学名词",
+   "wordNumber": "11.050",
+   "subjectFullName": "语言学_计算语言学_句处理",
+   "subjectName": "句处理",
+   "publishYear": "2011",
+   "definition": "结点上带有语法、语义等标记的树形图。"
+  },
+  {
+   "cn": "计算逻辑",
+   "en": "computational logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "树",
+   "en": "tree",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "乔木层",
+   "en": "tree layer\",\"tree stratum",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "被压木",
+   "en": "suppressed tree\",\"overtopped tree",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "系统树",
+   "en": "genealogical tree\",\"phylogenetic tree",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "依存关系树",
+   "en": "dependency tree\",\"dependent tree",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "进化树（=系统[发育]树）",
+   "en": "evolutionary tree (=phylogenetic tree)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "计算",
+   "en": "computation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "计算",
+   "en": "computation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "计算机",
+   "en": "computer",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "检索树",
+   "en": "trie tree",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "乔木",
+   "en": "tree\",\"arbor",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "呼吸树",
+   "en": "respiratory tree",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "支气管树",
+   "en": "bronchial tree",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "基因树",
+   "en": "gene tree",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "落叶树",
+   "en": "deciduous tree",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "树长",
+   "en": "tree length",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "树冠",
+   "en": "tree crown",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "无根树",
+   "en": "unrooted tree",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "有根树",
+   "en": "rooted tree",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "鞍架",
+   "en": "tree",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "日志结构合并树",
+   "en": "log-structured merge-tree (LSM-tree)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "遍历树",
+   "en": "tree traversal",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "分类树",
+   "en": "classification tree",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "回归树",
+   "en": "regression tree",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "Merkle树",
+   "en": "Merkle tree",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "B树",
+   "en": "B-tree",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "前缀树",
+   "en": "prefix tree",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "搜索树",
+   "en": "search tree",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人本计算",
+   "en": "human computation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "计算数学",
+   "en": "computational mathematics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "故障树",
+   "en": "fault tree",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.6.12",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_分析评估",
+   "subjectName": "分析评估",
+   "publishYear": "2025",
+   "definition": "一种用来描述特定故障的树形图表说明。该树形图具有可选择的特性。"
+  },
+  {
+   "cn": "事件树",
+   "en": "event tree",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.6.13",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_分析评估",
+   "subjectName": "分析评估",
+   "publishYear": "2025",
+   "definition": "一种用来描述特定事件的树形图表说明。该树形图表具有可选择的特性。"
+  },
+  {
+   "cn": "家谱",
+   "en": "genealogical tree",
+   "source": "社会学名词",
+   "wordNumber": "3.1.2.4",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_世系",
+   "subjectName": "世系",
+   "publishYear": "2025",
+   "definition": "以表谱形式记载一个血缘关系为主体的家族世系繁衍和重要人物事迹的特殊文献，是谱牒的一种形式。家谱以家族的世系为脉络，把包括名人和非名人的所有族众贯穿起来，注明他们之间的血缘关系。是一个家族的生命史，记录"
+  },
+  {
+   "cn": "树葬",
+   "en": "tree burial",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0271",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "葬式之一，指把死者尸体放置于深山或野外的大树上的传统丧葬习俗。古代树葬在中国东北和西南的少数民族地区颇为常见。现代树葬是生态殡葬的一种新形式，就是人们以认养绿地的办法，植一些树木，将亲人的骨灰撒在树下"
+  },
+  {
+   "cn": "事件树",
+   "en": "event tree",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.5.25",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "由起始事件、中间事件和最终事件组成的树形结构决策方法。起始事件表示最初的事件或条件，中间事件表示在起始事件后可能出现的事件路径，最终事件表示可能的结果。事件之间的关系通过连接不同节点来表示，并标注相应"
+  },
+  {
+   "cn": "结果树",
+   "en": "outcome tree",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.5.24",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "由根节点、决策节点、概率节点和结果节点组成，连接不同节点，并标注相应的概率或结果值的方法。根节点表示决策问题起始点，决策节点表示不同决策选项，概率节点表示不同决策选项可能性，结果节点表示每个决策路径结"
+  },
+  {
+   "cn": "电脑组件",
+   "en": "computer components",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.3.1.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校用品卫生",
+   "subjectName": "学校用品卫生",
+   "publishYear": "2025",
+   "definition": "组合计算机以及便于使用者采用良好的操作姿势所需要的硬件。包括电脑桌椅、显示器、键盘、鼠标等。"
+  },
+  {
+   "cn": "电脑桌面",
+   "en": "computer desktop",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.3.1.3.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校用品卫生",
+   "subjectName": "学校用品卫生",
+   "publishYear": "2025",
+   "definition": "放置电脑显示器的平面。"
+  },
+  {
+   "cn": "决策树分析",
+   "en": "decision tree analysis",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.6.7",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_分析评估",
+   "subjectName": "分析评估",
+   "publishYear": "2025",
+   "definition": "将决策过程各个阶段之间的结构绘制成树状箭线图，利用其进行选择、分割分析。"
+  },
+  {
+   "cn": "决策树模型",
+   "en": "decision tree model",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.8.1",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "一种描述在不确定性情况下进行选择的逻辑结构的静态决策分析模型，包括所有相关的决策选择、对应结果及其概率。"
+  },
+  {
+   "cn": "计算暴露评估",
+   "en": "computational exposure assessment",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.36",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "将化学、计算机科学、数学、统计学、社会和行为科学等领域的先进技术与新出现的高效模型和数据收集方法相结合，以预测外源化学物的真实暴露情况的方法。"
+  },
+  {
+   "cn": "思辨逻辑",
+   "en": "speculative logic",
+   "source": "马克思主义",
+   "wordNumber": "01.0101",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "研究人类辩证思维的科学，是关于辩证思维的形式、规律和方法的科学。它把概念的辩证运动以及如何通过概念反映现实矛盾的问题作为自己的主要研究对象。原初含义专指黑格尔思辨哲学的逻辑形态。恩格斯最早明确地把这种"
+  },
+  {
+   "cn": "计算机X射线摄影",
+   "en": "computed radiography，CR",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.3",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "以成像板为载体，经X射线曝光及信息读出处理后形成数字影像的一种X射线摄影技术。"
+  },
+  {
+   "cn": "计算机体层成像",
+   "en": "computed tomography，CT",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.10",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "利用精确准直的成像媒介（如X射线、γ射线、超声波等）与高灵敏度的探测器，围绕人体的某一部位采集数据，并根据需要重建出断面影像的一种成像方法。根据照射源不同可分为X射线计算机体层成像（X-CT）、超声计"
+  },
+  {
+   "cn": "工业计算机断层成像",
+   "en": "industrial computed tomography",
+   "source": "放射卫生学",
+   "wordNumber": "6.5.2.5",
+   "subjectFullName": "放射卫生学_放射防护_工业应用的放射防护_工业探伤应用",
+   "subjectName": "工业探伤应用",
+   "publishYear": "2025",
+   "definition": "采用计算机断层扫描技术对产品进行无损检测和无损评价的仪器。"
+  },
+  {
+   "cn": "电脑椅座面",
+   "en": "computer chair seat",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.3.1.3.5",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校用品卫生",
+   "subjectName": "学校用品卫生",
+   "publishYear": "2025",
+   "definition": "电脑椅与人体臀部接触，承载使用者体重的部分。"
+  },
+  {
+   "cn": "电脑椅靠背",
+   "en": "computer chair back",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.3.1.3.6",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校用品卫生",
+   "subjectName": "学校用品卫生",
+   "publishYear": "2025",
+   "definition": "电脑椅与人体背部接触，能够有效支撑使用者腰部的部分。"
+  },
+  {
+   "cn": "关键控制点判断树",
+   "en": "critical control point decision tree",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.5.6",
+   "subjectFullName": "食品卫生学_食品安全风险管理_危害分析与关键控制点",
+   "subjectName": "危害分析与关键控制点",
+   "publishYear": "2025",
+   "definition": "用来确定某个控制点是否是关键控制点的方法。"
+  },
+  {
+   "cn": "计算毒理学",
+   "en": "computational toxicology, in silico",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.2.58",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "基于数学和计算机模型，采用化学信息学、生物信息学、机器学习等手段，揭示化学物环境暴露、危害性与风险性之间定性和定量关系，研究绿色化学品分子设计从而进行风险控制的毒理学分支学科。"
+  },
+  {
+   "cn": "发射计算机体层成像",
+   "en": "emission computed tomography，ECT",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.3.11",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_核医学",
+   "subjectName": "核医学",
+   "publishYear": "2025",
+   "definition": "一种能从不同角度拍摄体内放射性药物浓度分布图，经计算机处理，重建核素在体内各截面的分布及立体分布图的核素显像技术。分单光子发射计算机体层显像（SPECT）和正电子发射计算机体层显像（PET）。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

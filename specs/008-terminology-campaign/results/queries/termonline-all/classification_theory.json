@@ -1,0 +1,792 @@
+{
+ "key": "classification theory",
+ "term": "classification theory",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T01:54:14+00:00",
+ "status": "ok",
+ "note": "variant=classification theory; 审定公布名词库=2818; 海峡两岸名词对照库=887; 其他来源数据库=248; 预公布名词数据库=286; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "分类",
+   "en": "classification",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.118",
+   "subjectFullName": "自然辩证法_科学技术方法论_分析与推理",
+   "subjectName": "分析与推理",
+   "publishYear": "2024",
+   "definition": "按照事物的种类、等级或性质分别归类的过程。"
+  },
+  {
+   "cn": "分级",
+   "en": "classification",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.1509",
+   "subjectFullName": "化工（八）_化工设备_分级设备",
+   "subjectName": "分级设备",
+   "publishYear": "2021",
+   "definition": "将颗粒物料按粒径或密度大小分成若干级别的操作。"
+  },
+  {
+   "cn": "分级",
+   "en": "classification",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "07.071",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_粉末冶金_粉末性能及其测试",
+   "subjectName": "粉末性能及其测试",
+   "publishYear": "2021",
+   "definition": "将粉末按粒度分成若干级别。"
+  },
+  {
+   "cn": "分类",
+   "en": "classification",
+   "source": "动物学名词",
+   "wordNumber": "2.001",
+   "subjectFullName": "动物学_动物进化与系统学_动物分类学",
+   "subjectName": "动物分类学",
+   "publishYear": "2021",
+   "definition": "根据生物之间相同、相异的程度与亲缘关系的远近，使用不同等级特征，将其逐级划归为合适的类群或单元的过程。"
+  },
+  {
+   "cn": "分级",
+   "en": "classification",
+   "source": "冶金学名词",
+   "wordNumber": "03.0060",
+   "subjectFullName": "冶金学_选矿_一般术语",
+   "subjectName": "一般术语",
+   "publishYear": "2019",
+   "definition": "根据固体颗粒因粒度不同在介质中具有不同的沉降速度的原理，将颗粒群分成两种或多种粒度级别的过程。分级的目的与筛分相似，但主要用于处理细粒级物料。"
+  },
+  {
+   "cn": "分类法",
+   "en": "classification",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.041",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "将表示各种知识领域的类目按知识分类原理进行系统排列，并以代表类目的数字或字母符号作为文献主题标识的一类检索语言。可分为体系分类法和组配分类法两种。"
+  },
+  {
+   "cn": "分类",
+   "en": "classification",
+   "source": "植物学名词",
+   "wordNumber": "02.0017",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "分类单元的界定、排序和等级化，或由这个过程产生的相互关联类群系统的过程。"
+  },
+  {
+   "cn": "分级",
+   "en": "classification",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "03.1200",
+   "subjectFullName": "化工（三）_传递过程与单元操作",
+   "subjectName": "传递过程与单元操作",
+   "publishYear": "2019",
+   "definition": "根据固体颗粒因粒度不同在介质中具有不同沉降速度的原理，将颗粒群分为两种或多种粒度级别的过程。"
+  },
+  {
+   "cn": "分类",
+   "en": "classification",
+   "source": "核医学名词",
+   "wordNumber": "04.0207",
+   "subjectFullName": "核医学_临床核医学_肿瘤核医学_肿瘤诊疗相关技术",
+   "subjectName": "肿瘤诊疗相关技术",
+   "publishYear": "2018",
+   "definition": "按照种类、等级或性质等指标，将性质相同及不同的事物分别归入不同组别的方法和过程。"
+  },
+  {
+   "cn": "分类",
+   "en": "classification",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0243",
+   "subjectFullName": "计算机科学技术_人工智能_机器学习",
+   "subjectName": "机器学习",
+   "publishYear": "2018",
+   "definition": "包括学习和预测两个阶段。在学习阶段，分类器从有类别标记的数据中学到一个分类模型；在预测阶段，分类器根据学到的模型对没有类别标记的样本进行类别判断。"
+  },
+  {
+   "cn": "分类",
+   "en": "classification",
+   "source": "微生物学名词",
+   "wordNumber": "02.040",
+   "subjectFullName": "微生物学_微生物系统学",
+   "subjectName": "微生物系统学",
+   "publishYear": "2012",
+   "definition": "根据微生物相互间的相似性或亲缘关系将其划归为合适的类群或单元的过程。"
+  },
+  {
+   "cn": "分类",
+   "en": "classification",
+   "source": "昆虫学名词",
+   "wordNumber": "02.003",
+   "subjectFullName": "昆虫学_昆虫分类与进化",
+   "subjectName": "昆虫分类与进化",
+   "publishYear": "2000",
+   "definition": "分类学的基本步骤，包括区分和鉴定分类单元，确定阶元等级和建立分类体系。"
+  },
+  {
+   "cn": "入级",
+   "en": "classification",
+   "source": "船舶工程名词",
+   "wordNumber": "01.145",
+   "subjectFullName": "船舶工程_船舶种类及船舶检验、国际公约和证书",
+   "subjectName": "船舶种类及船舶检验、国际公约和证书",
+   "publishYear": "1998",
+   "definition": "经船厂或船东申请，船舶接受船级社检验，取得船级的过程。"
+  },
+  {
+   "cn": "组配分类法",
+   "en": "synthetic classification,faceted classification",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.155",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_分类法",
+   "subjectName": "分类法",
+   "publishYear": "2019",
+   "definition": "在分类表中分别列出不同范畴的单独概念，用组配方式来表达具体类目的文献分类法。因分面成分的多少不同，组配分类法可分为分面组配分类法、组配-体系分类法和体系-组配分类法三种类型。"
+  },
+  {
+   "cn": "专业分类表",
+   "en": "special classification,professional classification",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.176",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_分类法",
+   "subjectName": "分类法",
+   "publishYear": "2019",
+   "definition": "以某一学科或专业的文献（一般包括相关学科或专业的文献）为适用范围的分类表。"
+  },
+  {
+   "cn": "文献分类",
+   "en": "literature classification,document classification",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.142",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_分类法",
+   "subjectName": "分类法",
+   "publishYear": "2019",
+   "definition": "信息整序的一种方法。按照文献的内容特征对众多的文献予以划分，并进行系统组织。文献分类工作包括编类（编制文献分类表）及归类（即分类标引）两部分。"
+  },
+  {
+   "cn": "体系分类法",
+   "en": "hierachical classification,enumerative classification",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0395",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_图书情报档案领域",
+   "subjectName": "图书情报档案领域",
+   "publishYear": "2016",
+   "definition": "以科学分类为基础，依据概念的划分与概括原理，把概括文献内容与事物的各种类目组成一个层层隶属、详细列举的等级结构体系的一种文献分类法。"
+  },
+  {
+   "cn": "细分",
+   "en": "subclass,in-depth classification,exact classification,specific classification,close classification",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.221",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_分类法",
+   "subjectName": "分类法",
+   "publishYear": "2019",
+   "definition": "（1）把文献分入一个与其主题外延大致相等的类目的分类方式。即将文献分入分类表中最具体的、专指性强的类目内，以满足检索专门问题的需要。（2）使用详细的分类表把文献分入专指程度最高的类目。"
+  },
+  {
+   "cn": "理论",
+   "en": "theory",
+   "source": "物理学名词",
+   "wordNumber": "01.0104",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "理论",
+   "en": "theory",
+   "source": "数学名词",
+   "wordNumber": "02.0069",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "分类",
+   "en": "classification",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "分级",
+   "en": "classification",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "分类",
+   "en": "classification",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "分类",
+   "en": "classification",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "密级",
+   "en": "classification",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "分类",
+   "en": "classification",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "入级",
+   "en": "classification",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "入级",
+   "en": "classification",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "分类",
+   "en": "classification",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "理论",
+   "en": "theory",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "分类",
+   "en": "classification\",\"categorization",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "表型分类，表征分类",
+   "en": "phenetic classification",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "表征分类（=表型分类）",
+   "en": "phenetic classification",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "NPC分类",
+   "en": "NPC-classification",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "群落分类",
+   "en": "community classification",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "人为分类",
+   "en": "artificial classification",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "系统发育分类，种系发生分类",
+   "en": "phylogenetic classification",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "系统分类",
+   "en": "phyletic classification",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "植被分类",
+   "en": "vegetation classification",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "种系发生分类（=系统发育分类）",
+   "en": "phylogenetic classification",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "排名",
+   "en": "classification",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "排名",
+   "en": "classification",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "排名",
+   "en": "classification",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "排名",
+   "en": "classification",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "排名",
+   "en": "classification",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "排名",
+   "en": "classification\",\"placing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "排名",
+   "en": "classify\",\"classification",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "分类树",
+   "en": "classification tree",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "模糊分类",
+   "en": "fuzzy classification",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "等级测评",
+   "en": "classification evaluation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "成绩统计办公室",
+   "en": "classification office",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "决赛排名",
+   "en": "final classification",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "成绩统计仲裁委员会",
+   "en": "classification jury",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "总排名",
+   "en": "general classification",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "决赛排名",
+   "en": "final classification",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "个人排名",
+   "en": "individual classification",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "团体排名",
+   "en": "team classification",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "名次分",
+   "en": "classification point",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "类别化",
+   "en": "classification",
+   "source": "社会学名词",
+   "wordNumber": "3.8.3.2",
+   "subjectFullName": "社会学名词_分支社会学_文化社会学_文化的制度结构",
+   "subjectName": "文化的制度结构",
+   "publishYear": "2025",
+   "definition": "一个对象和观念被识别、区分和理解的过程。通常是基于某种目的，根据某种特征对对象、观念进行归类，以达到理解和把握该对象或观念的目的。在文化研究中，指某文化客体能够完全、清晰地被包容在一个范畴中的情况。"
+  },
+  {
+   "cn": "理论",
+   "en": "theory",
+   "source": "马克思主义",
+   "wordNumber": "01.0119",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "关于自然、社会和人自身的本质规律的抽象、合乎逻辑的一般推论或假说。理论来源于实践，接受实践的检验。理论服务于实践，随着实践的发展而发展。"
+  },
+  {
+   "cn": "洗消分级",
+   "en": "decontamination classification",
+   "source": "消毒学",
+   "wordNumber": "2.1.1.4",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "依据病原微生物污染严重程度及洗消对象重要性确定洗消的先后顺序和优先级别。"
+  },
+  {
+   "cn": "斯波尔丁分类法",
+   "en": "spalding classification",
+   "source": "消毒学",
+   "wordNumber": "4.6.9.1",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "根据医疗器械污染后使用所致感染的危险性及在患者使用之间的消毒或灭菌要求，而提出的一种医疗器械分类方法，将其分为高度危险性物品、中度危险性物品和低度危险性物品。"
+  },
+  {
+   "cn": "应急状态分级",
+   "en": "emergency classification",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.1.13",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "对某种应急状态进行分级以便宣布适用的应急等级的过程。应急等级一经宣布，响应部门就要启动适合这一应急等级的预先规定的响应行动。"
+  },
+  {
+   "cn": "AT 分类法",
+   "en": "AT classification",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0447",
+   "subjectFullName": "民族学与文化学_民俗学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "全称“阿尔奈—汤姆逊体系”。由芬兰民俗学家安蒂·阿尔奈（Antti Aarne）创建，美国民俗学家斯蒂思·汤普森（Stith Thompson）补充修订的分类体系。即将大同小异的民间故事按地区分布进行"
+  },
+  {
+   "cn": "分层标准",
+   "en": "criteria of classification",
+   "source": "社会学名词",
+   "wordNumber": "2.6.1.4",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会分层",
+   "subjectName": "社会分层",
+   "publishYear": "2025",
+   "definition": "社会学家进行阶级、身份群体或社会等级地位划分时所依据的指标。如，马克思依据是否占有生产资料来划分阶级，而马克斯•韦伯则以经济地位、社会地位和政治地位等三元指标来进行分层。"
+  },
+  {
+   "cn": "城市行政区划",
+   "en": "urban administrative classification",
+   "source": "社会学名词",
+   "wordNumber": "3.4.13.1",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_中国现代城市",
+   "subjectName": "中国现代城市",
+   "publishYear": "2025",
+   "definition": "中国城市分级划分的概念。包括设市城市和建制镇两部分。在行政管理工作中，按照行政级别，中国设市城市又分为直辖市、副省级城市、地级市、县级市；建制镇属于县级以下。"
+  },
+  {
+   "cn": "谢尔登体型分类",
+   "en": "Sheldon somatotype classification",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.2.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体格发育",
+   "subjectName": "体格发育",
+   "publishYear": "2025",
+   "definition": "美国心理学家威廉·谢尔登根据人体内部各组织器官的外部综合表现，将人的体型分为三类，包括内胚层、中胚层和外胚层。"
+  },
+  {
+   "cn": "预警分级",
+   "en": "early warning classification",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.6.1.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学校突发公共卫生事件管理",
+   "subjectName": "学校突发公共卫生事件管理",
+   "publishYear": "2025",
+   "definition": "依据可能发生和可以预警的突发公共事件可能造成的危害程度、紧急程度和发展势态进行的分级，一般划分为四级：Ⅰ级（特别严重）、Ⅱ级（严重）、Ⅲ级（较重）和Ⅳ级（一般），依次用红色、橙色、黄色和蓝色表示。"
+  },
+  {
+   "cn": "言语残疾分类",
+   "en": "speech disability classification",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "根据构音、声音、语流等障碍或语言发育迟缓等对言语残疾类型的划分。"
+  },
+  {
+   "cn": "智力残疾分类",
+   "en": "intelligent disability classification",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.3.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "按智力残疾形成的原因、教育上的表现、适应性障碍、支持辅助等对智力残疾类型的划分。"
+  },
+  {
+   "cn": "视力残疾分类",
+   "en": "visual disability classification",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.4.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "按导致视力残疾的原因以及视力残疾的程度对视力残疾类型的划分。"
+  },
+  {
+   "cn": "听力残疾分类",
+   "en": "hearing disability classification",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.5.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "按导致听力残疾的原因以及听力残疾的程度对听力残疾类型的划分。"
+  },
+  {
+   "cn": "肢体残疾分类",
+   "en": "physical disability classification",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.6.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "按肢体残疾的原因、部位、程度以及运动症状等对肢体残疾类型的划分。"
+  },
+  {
+   "cn": "原型理论",
+   "en": "prototype theory",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0031",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "认知科学的一种理论模型。认为人类对事物进行分类（范畴化）的过程并不存在非此即彼的明确界限，某一范畴中的核心成员会比其他成员更具典型性。例如在“飞禽”这个范畴里，“燕雀”比“鸡鸭”更具“飞禽”的特征。语"
+  },
+  {
+   "cn": "波浪理论",
+   "en": "wave theory",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.003",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "研究语言演变的一种动态模型。一种创新的语言特征从起源地往外扩散，其影响类似波浪扩散、随传播距离逐渐减小。"
+  },
+  {
+   "cn": "阶层化社会理论",
+   "en": "caste theory",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0143",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "美国教育人类学家奥格布（John Uzo Ogbu）提出，他认为少数民族的历史经历、社会地位以及由此造成的各种障碍等，必然会影响他们的学习态度和教育期望。"
+  },
+  {
+   "cn": "扎根理论",
+   "en": "grounded theory",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.7",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "对定性资料进行归纳、抽绎出理论概念、生成理论洞见的定性资料分析方法。是由格拉泽和施特劳斯提出的。"
+  },
+  {
+   "cn": "测量理论",
+   "en": "measurement theory",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.23",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "关于测量的性质和方法的理论。主要包括经典测量理论、概化理论和项目反应理论三种理论模型。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

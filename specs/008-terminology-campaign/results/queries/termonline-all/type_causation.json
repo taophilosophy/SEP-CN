@@ -1,0 +1,712 @@
+{
+ "key": "type causation",
+ "term": "type causation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T01:58:32+00:00",
+ "status": "ok",
+ "note": "variant=type causation; 审定公布名词库=3350; 海峡两岸名词对照库=663; 其他来源数据库=53; 预公布名词数据库=91; jwt-direct（JWT 直连，raw 略；已滤维基 10 条）",
+ "hits": [
+  {
+   "cn": "下向因果关系",
+   "en": "downward causation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.710",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_复杂系统科学哲学",
+   "subjectName": "复杂系统科学哲学",
+   "publishYear": "2024",
+   "definition": "描述系统高层级结构对它的次级结构起着原因作用的一种因果关系。最先由心理学家唐纳德·坎贝尔（Donald Campbell）提出。"
+  },
+  {
+   "cn": "上向因果关系",
+   "en": "upward causation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.711",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_复杂系统科学哲学",
+   "subjectName": "复杂系统科学哲学",
+   "publishYear": "2024",
+   "definition": "复杂系统的结构层次之间存在的一种因果关系。在形成高层次系统后，低层次的元素及其协同相互作用依然对高层次的运作有某种决定作用。"
+  },
+  {
+   "cn": "因果关系",
+   "en": "causal relation; causation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.213",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_认识论",
+   "subjectName": "认识论",
+   "publishYear": "2024",
+   "definition": "事件A发生会导致事件B的发生，二者之间有律则必然性。因果关系具有相关性，但反之不然。"
+  },
+  {
+   "cn": "因果律",
+   "en": "law of causation",
+   "source": "物理学名词",
+   "wordNumber": "01.0086",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "因果律",
+   "en": "law of causation",
+   "source": "心理学名词",
+   "wordNumber": "02.581",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "联想律之一。事物的原因与结果之间的观念可相互引起联想。"
+  },
+  {
+   "cn": "因果联想",
+   "en": "association by causation",
+   "source": "心理学名词",
+   "wordNumber": "02.589",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "在有因果关系的事物之间形成的联想。"
+  },
+  {
+   "cn": "病因概率",
+   "en": "probability of causation",
+   "source": "放射医学与防护名词",
+   "wordNumber": "12.067",
+   "subjectFullName": "放射医学与防护_放射流行病学_危险指标",
+   "subjectName": "危险指标",
+   "publishYear": "2014",
+   "definition": "暴露组某一个体所患的疾病由某危险因素引起的概率或似然性估计值。PC=ERR/ (ERR+1)。"
+  },
+  {
+   "cn": "因果性事实",
+   "en": "the fact of causation",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.034",
+   "subjectFullName": "自然辩证法_科学技术方法论_方法与工具",
+   "subjectName": "方法与工具",
+   "publishYear": "2024",
+   "definition": "由现象之间的因果关系确立的现象之间的稳定关联。"
+  },
+  {
+   "cn": "循环累积因果关系理论",
+   "en": "circular and cumulative causation",
+   "source": "经济学名词",
+   "wordNumber": "08.071",
+   "subjectFullName": "经济学_区域经济学",
+   "subjectName": "区域经济学",
+   "publishYear": "2020",
+   "definition": "该理论在缪尔达尔（Karl Gunnar Myrdal）的循环累积因果原理的基础上形成，该理论强调了以下三个环节：即起始的变化、第二级的强化运动、最后的上升或下降过程。他认为这个原理是反映了社会经济因"
+  },
+  {
+   "cn": "事故因果［连锁］论",
+   "en": "accident causation sequence theory",
+   "source": "化工名词（四）安全·环保·可持续发展",
+   "wordNumber": "02.093",
+   "subjectFullName": "化工（四）_炼油与化工企业健康-安全-环境管理_生产安全与防护",
+   "subjectName": "生产安全与防护",
+   "publishYear": "2020",
+   "definition": "事故致因理论的一种。把工业伤害事故的发生过程描述为具有一定因果关系事件的连锁。包括五个因素：遗传及社会环境、人的缺点、人的不安全行为或物的不安全状态、事故、伤害。该理论由美国海因里希（H. W. He"
+  },
+  {
+   "cn": "地理因果律",
+   "en": "rule of causation in geography",
+   "source": "地理学名词",
+   "wordNumber": "01.026",
+   "subjectFullName": "地理学_地理学总论",
+   "subjectName": "地理学总论",
+   "publishYear": "2006",
+   "definition": "地理要素和地理单元之间因果联系的规律。"
+  },
+  {
+   "cn": "模式",
+   "en": "type",
+   "source": "动物学名词",
+   "wordNumber": "2.0118",
+   "subjectFullName": "动物学_动物进化与系统学_动物分类学",
+   "subjectName": "动物分类学",
+   "publishYear": "2021",
+   "definition": "一个科级、属级或种级分类单元的定义特征及正确命名的实物参照标准。是一个分类单元的核心和命名的基础。种的模式是一个或一组标本，属的模式是一个种，科的模式是一个属。"
+  },
+  {
+   "cn": "类型",
+   "en": "type",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0299",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "由具有共同特征的事物所形成的集合，其名称反映了这些事物的种类。在计算机语言及程序中最常见的是数据类型，并常常作为其简称。但除此之外还可以包括模块、构件、作业、过程等其他事物的类型。"
+  },
+  {
+   "cn": "模式",
+   "en": "type",
+   "source": "微生物学名词",
+   "wordNumber": "02.103",
+   "subjectFullName": "微生物学_微生物系统学",
+   "subjectName": "微生物系统学",
+   "publishYear": "2012",
+   "definition": "分类单元的名称所永久依附的实物要素，包括标本、图或在代谢不活跃状态下保存的培养物等。"
+  },
+  {
+   "cn": "型",
+   "en": "type",
+   "source": "语言学名词",
+   "wordNumber": "01.162",
+   "subjectFullName": "语言学_理论语言学_核心术语",
+   "subjectName": "核心术语",
+   "publishYear": "2011",
+   "definition": "在数理语言学中，语言单位的类别称为“型”，而这些类别的实例或个别单位则称为“例”(token)。型—例比率（type token ratio）是在一个语篇样品中不同词（型）的全部数目与实际出现的词（例"
+  },
+  {
+   "cn": "型",
+   "en": "type",
+   "source": "数学名词",
+   "wordNumber": "02.0097",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "分型",
+   "en": "typing",
+   "source": "微生物学名词",
+   "wordNumber": "09.454",
+   "subjectFullName": "微生物学_微生物学技术",
+   "subjectName": "微生物学技术",
+   "publishYear": "2012",
+   "definition": "根据某一特定性状对种内微生物加以分类。"
+  },
+  {
+   "cn": "尾鞭型",
+   "en": "whiplash type,acronematic type",
+   "source": "植物学名词",
+   "wordNumber": "04.0124",
+   "subjectFullName": "植物学_藻类学",
+   "subjectName": "藻类学",
+   "publishYear": "2019",
+   "definition": "在电子显微镜下可见鞭毛鞘上表面光滑，没有鞭茸或有微细绒毛结构。"
+  },
+  {
+   "cn": "茸鞭型",
+   "en": "tinsel type,pleuronematic type",
+   "source": "植物学名词",
+   "wordNumber": "04.0121",
+   "subjectFullName": "植物学_藻类学",
+   "subjectName": "藻类学",
+   "publishYear": "2019",
+   "definition": "在电子显微镜下可见鞭毛鞘上螺旋排列的鞭茸结构。有单茸鞭型和双茸鞭型两种。"
+  },
+  {
+   "cn": "下口式",
+   "en": "hypognathous type,orthognathous type",
+   "source": "昆虫学名词",
+   "wordNumber": "03.040",
+   "subjectFullName": "昆虫学_昆虫外部形态",
+   "subjectName": "昆虫外部形态",
+   "publishYear": "2000",
+   "definition": "头部与躯干垂直、颚端向下的头型。"
+  },
+  {
+   "cn": "因果联想",
+   "en": "association by causation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "因果链",
+   "en": "chains of causation",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "远因,终极导因,最终原因",
+   "en": "ultimate cause\",\"ultimate causation",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "近因，引信导因",
+   "en": "proximate cause\",\"proximate causation",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "远因，终极导因",
+   "en": "ultimate cause\",\"ultimate causation",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "地理因果律",
+   "en": "rule of causation in geography",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "类型",
+   "en": "type",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "型式",
+   "en": "type",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "型式",
+   "en": "type",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "因果律",
+   "en": "law of causality\",\"law of causation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "O-type device型器件",
+   "en": "O-type device",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "下口式",
+   "en": "hypognathous type\",\"orthognathous type",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "极型",
+   "en": "polar type",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "局浆分泌型",
+   "en": "merocrine type",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "前毛细血管型",
+   "en": "precapillary type",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "中间型",
+   "en": "intermediate type",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "茶渍型",
+   "en": "lecanorine type",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "达玛烷型",
+   "en": "dammarane type",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "代谢类型",
+   "en": "metabolic type",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "单孢粉类型",
+   "en": "stenopalynous type",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "级",
+   "en": "class\",\"type",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据类型",
+   "en": "data type",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "设备认证",
+   "en": "type approval",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "种类法定",
+   "en": "statutory types",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "复杂数据类型",
+   "en": "complex data type",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据类型标准",
+   "en": "data type standard",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "L型冠状病毒",
+   "en": "L-type coronavirus",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_疾病_病毒名称",
+   "subjectName": "病毒名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "S型冠状病毒",
+   "en": "S-type coronavirus",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_疾病_病毒名称",
+   "subjectName": "病毒名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "B分",
+   "en": "‘B’ type mark",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "A分",
+   "en": "‘A’ type mark",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "病因概率",
+   "en": "probability of causation，PC",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.3.16",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_效应指标",
+   "subjectName": "效应指标",
+   "publishYear": "2025",
+   "definition": "暴露组某一个体所患的疾病由某危险因素引起的概率或似然性估计值。PC=ERR/(ERR+1)。"
+  },
+  {
+   "cn": "赔偿的病因概率限值",
+   "en": "probability of causation limit for compensation",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.3.17",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_效应指标",
+   "subjectName": "效应指标",
+   "publishYear": "2025",
+   "definition": "在职业性放射性肿瘤赔偿中，由管理部门审定的可给予法定赔偿的病因概率的最低限值。"
+  },
+  {
+   "cn": "型式检验",
+   "en": "type inspection",
+   "source": "消毒学",
+   "wordNumber": "5.1.11.5",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "对消毒产品各项指标的全面检验，以评定产品质量是否全部符合标准和达到安全性、有效性要求。"
+  },
+  {
+   "cn": "文化类型",
+   "en": "culture type",
+   "source": "社会学名词",
+   "wordNumber": "2.2.1.9",
+   "subjectFullName": "社会学名词_社会学一般概念_文化与文明_文化概念",
+   "subjectName": "文化概念",
+   "publishYear": "2025",
+   "definition": "在文化分类中，一种由经过选择的、相同整合程度的各文化核心特征丛(constellations of core features）所合成的文化结构或文化系统形式。美国人类学家林顿(R.Linton）等人"
+  },
+  {
+   "cn": "组织类型",
+   "en": "organizational type",
+   "source": "社会学名词",
+   "wordNumber": "2.5.7",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织",
+   "subjectName": "群体和组织",
+   "publishYear": "2025",
+   "definition": "2.5.7.1  营利组织  for-profit organization"
+  },
+  {
+   "cn": "Ⅰ型超敏反应",
+   "en": "type Ⅰhypersensitivity",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.1.16",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫应答",
+   "subjectName": "免疫应答",
+   "publishYear": "2025",
+   "definition": "已致敏的机体再次接触相同抗原后在数分钟内所发生的超敏反应。"
+  },
+  {
+   "cn": "II型超敏反应",
+   "en": "type Ⅱhypersensitivity",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.1.17",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫应答",
+   "subjectName": "免疫应答",
+   "publishYear": "2025",
+   "definition": "IgG或IgM类抗体与细胞表面相应抗原或基质抗原结合，激活补体系统并在巨噬细胞和中性粒细胞参与下，造成组织损伤的超敏反应。"
+  },
+  {
+   "cn": "气质类型",
+   "en": "temperament type",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.9.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "对气质按照体液、体型、血型、神经活动类型等来进行的分类。"
+  },
+  {
+   "cn": "模式株",
+   "en": "type strain",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.52",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "至少定义到属或种水平的菌株。按期特征进行分类和描述，有明确的的来源"
+  },
+  {
+   "cn": "故事类型",
+   "en": "tales type",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0446",
+   "subjectFullName": "民族学与文化学_民俗学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "世界通行的一种民间故事研究方法，指民间故事中重复出现的情节模式，包含了民间故事在相当广阔的地域中经过相当长时间的流传而形成的不同异文，这些异文虽在细节上有各种不同的表述，但主题和基本情节始终一致。一个"
+  },
+  {
+   "cn": "社会类型",
+   "en": "social type",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0526",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "法国社会学家涂尔干（Émile Durkheim）所提出的概念，他按各个社会的不同复杂程度来区分，游牧群体是最简单的社会，所有的社会类型都是基本类型的复杂形式。任何社会都是由简单社会单位的相加构成，不"
+  },
+  {
+   "cn": "文化类型",
+   "en": "cultural type",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0579",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "美国人类学家斯图尔德（Julian H. Steward）在《文化变迁理论》一书中提出的概念。他认为文化类型是核心特征的群集，这些特征产生自环境适应，而且体现社会文化整合的水平。"
+  },
+  {
+   "cn": "健康型",
+   "en": "healthy type",
+   "source": "社会医学名词",
+   "wordNumber": "7.3.1",
+   "subjectFullName": "健康管理",
+   "subjectName": "个体健康评价",
+   "publishYear": "2025",
+   "definition": "当个体的评价年龄小于实际年龄时的评价类型，说明个体危险因素低于人群平均水平，预期健康状况良好。"
+  },
+  {
+   "cn": "III型超敏反应",
+   "en": "type Ⅲ hypersensitivity",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.1.18",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫应答",
+   "subjectName": "免疫应答",
+   "publishYear": "2025",
+   "definition": "游离抗原与相应抗体结合为循环免疫复合物，未被及时清除的免疫复合物沉积于毛细血管基底膜等部位，通过激活补体，并在血小板、中性粒细胞等参与下，引起血管及其周围组织炎症，导致组织损伤的超敏反应。"
+  },
+  {
+   "cn": "Ⅳ型超敏反应",
+   "en": "type Ⅳ hypersensitivity",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.1.19",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫应答",
+   "subjectName": "免疫应答",
+   "publishYear": "2025",
+   "definition": "由特异性致敏T细胞介导的细胞免疫应答的一种超敏反应。该型反应均在接触抗原24小时后才出现临床表现。"
+  },
+  {
+   "cn": "关系类型",
+   "en": "type of relationship",
+   "source": "社会学名词",
+   "wordNumber": "2.7.1.3",
+   "subjectFullName": "社会学名词_社会学一般概念_社会网络与社会资本_社会网络分析",
+   "subjectName": "社会网络分析",
+   "publishYear": "2025",
+   "definition": "社会交往的内容特征，包括关系的强度、关系的种类、交往的内容等。"
+  },
+  {
+   "cn": "国家发展类型",
+   "en": "national development type",
+   "source": "社会学名词",
+   "wordNumber": "2.9.10.1",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_国家发展类型",
+   "subjectName": "国家发展类型",
+   "publishYear": "2025",
+   "definition": "根据世界上不同国家的经济社会发展水平、工业化程度等标准划分的国家类别。代表性的国家发展类型有发达国家与发展中国家、工业化国家与新兴工业化国家等。"
+  },
+  {
+   "cn": "运作型基金会",
+   "en": "operational-type foundation",
+   "source": "社会学名词",
+   "wordNumber": "4.4.3.21",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的运作与实施",
+   "subjectName": "社会工作的运作与实施",
+   "publishYear": "2025",
+   "definition": "由自己的工作人员直接参与项目运作的公益基金会。"
+  },
+  {
+   "cn": "资助型基金会",
+   "en": "funding-type foundation",
+   "source": "社会学名词",
+   "wordNumber": "4.4.3.22",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的运作与实施",
+   "subjectName": "社会工作的运作与实施",
+   "publishYear": "2025",
+   "definition": "主要通过与其他服务机构合作、资助其开展服务项目以实现自身宗旨目的公益基金会。"
+  },
+  {
+   "cn": "运动类型",
+   "en": "type of exercise",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "7.1.4.1.8",
+   "subjectFullName": "儿少与学校卫生学名词_学校体育与身体活动_学校体育",
+   "subjectName": "学校体育",
+   "publishYear": "2025",
+   "definition": "运动中采用的具体形式或选择的运动项目，作为对运动活动进行分类的一种方式。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
