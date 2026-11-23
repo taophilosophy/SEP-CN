@@ -400,3 +400,10 @@
 * 检索坑两处：①Wikidata 直查 `Ramanuja` 只出同名昆虫属与罗摩化身项，须经英文维基页反查得 Q1741798；②`Bhaviveka` 项标签作 Bhavyaviveka，须按英文维基页名检索。占位生卒（Bādarāyaṇa 前350–前350、成玄英 700–700 同类）一律不取。
 * 落册：`term_flow` 18/0；`registry_azsort` 4,806→4,824 守恒；`check_all` 17 项全绿。
 * 证据：`results/people-wikidata-2026-11-24-b17.tsv`；清单 `tasks/manifests/2026-11-24-058-batch43-people.json`。
+
+## 2026-11-24：人名第十八批（认识论、美学、社会理论、法哲学 12 人）
+
+* 新增 12 人：格雷科（1961–）、梅迪纳（1968–）、Kornblith（1954–，无通行汉名）、卢克曼（1927–2016）、布尔迪厄（1930–2002）、埃米特（1904–2000）、Sartwell（1958–，无通行汉名）、莫斯（1872–1950）、莱考夫（1941–）、佩珀（1891–1972）、福利（1947–，Wikidata 无 P27）、麦考密克（1941–2009）。
+* 未收：Gaile Pohlhaus、Wayne Riggs——英文维基无条目、Wikidata 无项，无可核身份记录，暂留缺口并记入本行。
+* 落册：`term_flow` 12/0；`registry_azsort` 4,824→4,836 守恒；`check_all` 17 项全绿。
+* 证据：`results/people-wikidata-2026-11-24-b18.tsv`；清单 `tasks/manifests/2026-11-24-058-batch44-people.json`。
