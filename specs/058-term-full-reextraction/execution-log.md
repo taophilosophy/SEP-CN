@@ -461,3 +461,12 @@
 * 别名补记 1 条：`Treatise of Human Nature` 补全题形 `A Treatise of Human Nature`（同书，语料多为含冠词全题）。
 * 待办：Structure of Scientific Revolutions、Against Method、Logic of Scientific Discovery、Conjectures and Refutations、Open Society、Poverty of Historicism、After Virtue、Taking Rights Seriously、Concept of Law、Direction of Time、German Ideology、Capital、Eichmann in Jerusalem、Origins of Totalitarianism、Concept of the Political、Being and Event、Logic of Sense、Discipline and Punish、History of Sexuality、Of Grammatology、Writing and Difference、Totality and Infinity、Otherwise than Being、Spheres of Justice、Sources of the Self、Timaeus 等 26 部，需逐部找权威译本凭证（不属商务书目范围）。
 * 落册：`term_flow` 16/1；`registry_azsort` 术语表 8,165→8,181 守恒；`check_all` 17 项全绿。
+
+## 2026-11-24：著作名第十一批（23 部，逐部核对中译本）
+
+* 新增 23 部：《科学革命的结构》《规训与惩罚》《性经验史》《论文字学》《德性之后》《法律的概念》《极权主义的起源》《存在与事件》《书写与差异》《自我的根源》《认真对待权利》《开放社会及其敌人》《历史决定论的贫困》《科学发现的逻辑》《猜想与反驳》《反对方法》《艾希曼在耶路撒冷》《政治的概念》《正义诸领域》《德意志意识形态》《资本论》《意义的逻辑》《蒂迈欧篇》。
+* 凭证：每部译本信息（译者、出版社、年份）逐一联网核对并记 URL，汇总见 `results/works-batch11-2026-11-24.md`。
+* 查无：Reichenbach, The Direction of Time 检索无中译本，不登记留待。
+* 在册确认不重复：《总体与无限》《另外于是》（2026-11-23 已落册）。
+* 落册：`term_flow` 23/0；`registry_azsort` 术语表 8,181→8,204 守恒（B+2、T+20 等分节扩充）；`check_all` 17 项全绿。
+* 意义：著作名从 43 部扩至 90 部（＋47），经典书名基本补齐；后续书名增量继续走权威译本逐部核对。
