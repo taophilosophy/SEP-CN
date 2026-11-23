@@ -1,0 +1,662 @@
+{
+ "key": "experimental mathematics",
+ "term": "experimental mathematics",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T03:24:26+00:00",
+ "status": "ok",
+ "note": "variant=experimental mathematics; 审定公布名词库=510; 海峡两岸名词对照库=132; 其他来源数据库=27; 预公布名词数据库=20; jwt-direct（JWT 直连，raw 略；已滤维基 15 条）",
+ "hits": [
+  {
+   "cn": "数学-实验法",
+   "en": "mathematical-experimental method",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.074",
+   "subjectFullName": "自然辩证法_科学技术方法论_实验与检验",
+   "subjectName": "实验与检验",
+   "publishYear": "2024",
+   "definition": "在对自然界进行的实验研究中，同时运用数学计算或推理方法，把数学与实验结合起来，从实验结果中概括出变量之间的数量关系。"
+  },
+  {
+   "cn": "数学",
+   "en": "mathematics",
+   "source": "数学名词",
+   "wordNumber": "01.0001",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "数学实验",
+   "en": "mathematical experiment",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.254",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "产生和检验数学猜想、发现和证实数学定理的过程中所使用的猜测、试错、数字搜索和数据分析等实验手段。"
+  },
+  {
+   "cn": "反推数学",
+   "en": "reverse mathematics",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.266",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "数学基础研究的一个重要领域。追问证明一个数学定理所必需的数学公理。这种研究通常是在二阶算术的一个片段中进行，证明某个经典数学中的定理。例如，有限覆盖定理与二阶算术的某个片段等价。"
+  },
+  {
+   "cn": "工程数学",
+   "en": "engineering mathematics",
+   "source": "自然辩证法名词",
+   "wordNumber": "05.189",
+   "subjectFullName": "自然辩证法_工程哲学_工程方法论",
+   "subjectName": "工程方法论",
+   "publishYear": "2024",
+   "definition": "服务于工程活动的应用数学。"
+  },
+  {
+   "cn": "计算障碍",
+   "en": "mathematics disorder",
+   "source": "行为医学名词",
+   "wordNumber": "17.039",
+   "subjectFullName": "行为医学_相关行为疾病_神经系统相关行为疾病_神经系统常见症状",
+   "subjectName": "神经系统常见症状",
+   "publishYear": "2022",
+   "definition": "患者对数学符号的认识和运用障碍、失常。不能用精神发育迟滞或明显的教育不当来解释。"
+  },
+  {
+   "cn": "模糊数学",
+   "en": "fuzzy mathematics",
+   "source": "物理学名词",
+   "wordNumber": "01.0569",
+   "subjectFullName": "物理学_通类_数学",
+   "subjectName": "数学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "模糊数学",
+   "en": "fuzzy mathematics",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0259",
+   "subjectFullName": "管理科学技术_运筹与管理_决策理论与方法",
+   "subjectName": "决策理论与方法",
+   "publishYear": "2016",
+   "definition": "研究和处理模糊性现象的一门数学分支学科。1965年由美国控制论专家扎德(L. A. Zadeh)创立，是一门新兴的数学分支。"
+  },
+  {
+   "cn": "数学课",
+   "en": "mathematics course",
+   "source": "教育学名词",
+   "wordNumber": "07.150",
+   "subjectFullName": "教育学_初等中等教育",
+   "subjectName": "初等中等教育",
+   "publishYear": "2013",
+   "definition": "在一定单位时间内，进行以数学学科为内容的教学活动。"
+  },
+  {
+   "cn": "两河流域数学",
+   "en": "Mesopotamia Mathematics",
+   "source": "世界历史名词",
+   "wordNumber": "02.0214",
+   "subjectFullName": "世界历史_古代中世纪_古代西亚",
+   "subjectName": "古代西亚",
+   "publishYear": "2012",
+   "definition": "古代两河流域的算术、代数和几何等领域的数学成就的综合。"
+  },
+  {
+   "cn": "直觉主义数学",
+   "en": "intuitionistic mathematics",
+   "source": "数学名词",
+   "wordNumber": "02.0126",
+   "subjectFullName": "数学_数理逻辑·数学基础_证明论",
+   "subjectName": "证明论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "纯粹数学",
+   "en": "pure mathematics",
+   "source": "数学名词",
+   "wordNumber": "01.0002",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "应用数学",
+   "en": "applied mathematics",
+   "source": "数学名词",
+   "wordNumber": "01.0003",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "数学期望",
+   "en": "mathematic expectation",
+   "source": "畜牧学名词",
+   "wordNumber": "04.637",
+   "subjectFullName": "畜牧学_遗传育种_生物统计学",
+   "subjectName": "生物统计学",
+   "publishYear": "2020",
+   "definition": "某个随机变量在大量独立重复试验中客观存在的可以期望的总体平均数。"
+  },
+  {
+   "cn": "数学地质",
+   "en": "mathematical geology",
+   "source": "地质学名词",
+   "wordNumber": "01.00.129",
+   "subjectFullName": "地质学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "由地质学、数学和计算机科学相互结合而产生的交叉学科。主要从数学定量角度研究和解决地质学的规律、理论和实际问题。"
+  },
+  {
+   "cn": "数学模拟",
+   "en": "mathematical simulation",
+   "source": "农学名词",
+   "wordNumber": "01.198",
+   "subjectFullName": "总论_农业试验统计",
+   "subjectName": "农业试验统计",
+   "publishYear": "2025",
+   "definition": "在对农业对象或过程进行数理分析或统计基础上，运行所建立数学模型并输出结果的过程。"
+  },
+  {
+   "cn": "《数学手稿》",
+   "en": "Mathematical Manuscripts",
+   "source": "自然辩证法名词",
+   "wordNumber": "01.001",
+   "subjectFullName": "自然辩证法_总论_理论和起源",
+   "subjectName": "理论和起源",
+   "publishYear": "2024",
+   "definition": "马克思关于数学问题的遗作。意图用数学方法研究经济学，为微积分学提供哲学论证，内容涉及微积分、代数学和数学史。"
+  },
+  {
+   "cn": "数学模型",
+   "en": "mathematical model",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "01.019",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_通论",
+   "subjectName": "通论",
+   "publishYear": "2024",
+   "definition": "用数学抽象概括来描述原型对象，其原型可以是具体对象及其性质、关系，也可以是数学对象及其性质、关系。在系统工程中，通常把与系统机理或特性有关的数量关系归纳整理或推导成数学方程组，称其为系统的数学模型。"
+  },
+  {
+   "cn": "数学悖论",
+   "en": "mathematical paradox",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.248",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "指一个自相矛盾的数学命题A，即在某个特定的理论背景下，可以证明A等价于A的否定。著名的悖论的例子是罗素悖论。另外，有些被称为悖论的数学命题，如斯科伦悖论，本质上并不是悖论。"
+  },
+  {
+   "cn": "数学模型",
+   "en": "mathematical model",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.253",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "对自然、社会科学以及工程领域理论的数学描述（建模）。以求在数学概念的抽象层面上简化和逼近复杂的实际情形，从而揭示该理论的结构，分析其各部分的关联，并预测其行为。"
+  },
+  {
+   "cn": "模糊数学",
+   "en": "fuzzy mathematics",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "模糊数学",
+   "en": "fuzzy mathematics",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "演绎数学",
+   "en": "deductive mathematics",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数理气候",
+   "en": "mathematical climate",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数理统计[学]",
+   "en": "mathematical statistics",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数学模拟",
+   "en": "mathematical simulation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数学模型",
+   "en": "mathematical model",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "数学程序",
+   "en": "mathematical programming",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "数学模拟",
+   "en": "mathematical modeling",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "数学心理学",
+   "en": "mathematical psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "数学生态学",
+   "en": "mathematical ecology",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "数学模型",
+   "en": "mathematical model",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "数理地理学",
+   "en": "mathematical geography",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "数学地图学",
+   "en": "mathematical cartography",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "数学规划",
+   "en": "mathematical programming",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "数学表达式",
+   "en": "mathematical expression",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "数学函数",
+   "en": "mathematical function",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "数学模型",
+   "en": "mathematical model",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "[数学]期望",
+   "en": "mathematical expectation",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "数学大地测量学",
+   "en": "mathematical geodesy",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "计算数学",
+   "en": "computational mathematics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "离散数学",
+   "en": "discrete mathematics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数学应用",
+   "en": "Mathematical Application",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数理统计",
+   "en": "Mathematical Statistics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "实验科学范式",
+   "en": "experimental science paradigm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数学障碍",
+   "en": "mathematics disorder",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.2.3.2.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "以数字信息处理加工、学习计算、计算的准确性或流畅性明显受损为特征的一种特定学习障碍。"
+  },
+  {
+   "cn": "实验设计",
+   "en": "experimental design",
+   "source": "社会学名词",
+   "wordNumber": "1.2.3.4",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "有计划的把实验对象随机分配到不同的组别，根据它们的组别对它们进行不同程度的处理，观测处理效果，并运用统计分析方法确定处理与变异间关系的研究设计方式。"
+  },
+  {
+   "cn": "实验民族志",
+   "en": "experimental ethnographies",
+   "source": "社会学名词",
+   "wordNumber": "4.2.7.6",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学方法",
+   "subjectName": "人类学方法",
+   "publishYear": "2025",
+   "definition": "通过解读对话文本、话语文本、合作文本、超现实文本四类实验文本而产生的文化书写形态。强调作者与研究对象和读者的平等对话，采用第一人称进行自我反思叙述。"
+  },
+  {
+   "cn": "实验民族志",
+   "en": "experimental ethnography",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0618",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "20 世纪70 年代中期兴起的后现代人类学思潮，把人类学学家和他们的田野经历作为民族志实验的焦点和阐述中心，对文本进行有意识的组织，把研究者当成文化的翻译者，对文化进行阐释。实验民族志的贡献在于指出了"
+  },
+  {
+   "cn": "实验设计",
+   "en": "experimental design",
+   "source": "军事预防医学名词",
+   "wordNumber": "17.1.4.6",
+   "subjectFullName": "军事预防医学_军队健康教育与健康促进_军队健康教育",
+   "subjectName": "军队健康教育",
+   "publishYear": "2025",
+   "definition": "按照随机化的原则，将研究对象分为实验组和对照组，分别观察两组在干预前后的变化情况，再对变化情况进行分析后得出结论的研究方法。"
+  },
+  {
+   "cn": "数理经济学派",
+   "en": "mathematical economics school",
+   "source": "马克思主义",
+   "wordNumber": "05.0168",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "在日本，将数学手段应用于马克思主义经济学的研究是在越村信三郎等人的早期研究基础上，通过置盐信雄得以实现的，数理马克思经济学派以此得以在日本学界确立其地位。"
+  },
+  {
+   "cn": "试验作用浓度",
+   "en": "experimental action concentration",
+   "source": "消毒学",
+   "wordNumber": "6.2.26.7.1",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "化学因子或生物消毒因子作用于消毒对象的最终有效浓度。"
+  },
+  {
+   "cn": "实验核医学",
+   "en": "experimental nuclear medicine",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.3.2",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_核医学",
+   "subjectName": "核医学",
+   "publishYear": "2025",
+   "definition": "利用核技术探索生命和疾病相关基础与规律的核医学分支学科。其研究内容主要涉及细胞生物学、分子生物学、药学和其他生命科学领域中利用核技术的各个方面。"
+  },
+  {
+   "cn": "实验社会心理学",
+   "en": "experimental social psychology",
+   "source": "社会学名词",
+   "wordNumber": "4.1.1.3",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会心理学学科分支",
+   "subjectName": "社会心理学学科分支",
+   "publishYear": "2025",
+   "definition": "将社会心理现象视为客观存在的自然现象，并通过实验室实验法或现场实验法加以研究（侧重于量化分析）的学科。"
+  },
+  {
+   "cn": "实验研究法",
+   "en": "experimental research method",
+   "source": "社会学名词",
+   "wordNumber": "4.4.12.8",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作研究",
+   "subjectName": "社会工作研究",
+   "publishYear": "2025",
+   "definition": "一种经过特别安排的、在严格控制的条件下，通过有组织地变化条件，从而揭示其发生的原因或变化规律的研究方法，包括实验室实验法和自然实验法。"
+  },
+  {
+   "cn": "试验性使用效果",
+   "en": "experimental application effect",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.25.15",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "食品添加剂在试验性应用中的有效性，一般通过比较使用添加剂和未使用添加剂的食品之间特定感官和（或）理化指标的差异来获知"
+  },
+  {
+   "cn": "非实验设计",
+   "en": "non-experimental design",
+   "source": "军事预防医学名词",
+   "wordNumber": "17.1.4.7",
+   "subjectFullName": "军事预防医学_军队健康教育与健康促进_军队健康教育",
+   "subjectName": "军队健康教育",
+   "publishYear": "2025",
+   "definition": "在研究干预对观察对象的影响时，未设置对照组，仅是获取观察对象在干预前后的变化情况，并对变化情况进行分析和得出结论的研究方法，包括单组的前后比较设计和时间系列设计。"
+  },
+  {
+   "cn": "计算困难",
+   "en": "impairment in mathematics, dyscalculia",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.2.2.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_儿童少年心理卫生问题",
+   "subjectName": "儿童少年心理卫生问题",
+   "publishYear": "2025",
+   "definition": "个体在学习或理解数字和数字材料方面存在明显困难的一种学习障碍。"
+  },
+  {
+   "cn": "实验",
+   "en": "experiment",
+   "source": "社会学名词",
+   "wordNumber": "1.2.3.2",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "通过操控一个或多个自变量的变化，考察一个或多个因变量的相应变化，从而确立自变量和因变量间因果关系的研究策略。"
+  },
+  {
+   "cn": "准实验",
+   "en": "quasi-experiment",
+   "source": "社会学名词",
+   "wordNumber": "1.2.3.3",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "研究者不随机地把实验单位分配到不同实验组的实验方法。"
+  },
+  {
+   "cn": "霍桑试验",
+   "en": "Hawthorne experiment",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0178",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "企业人类学中的一个的研究案例。1924～1932 年，以提高生产效率为根本目的，一批管理学家在美国芝加哥附近的西方电气公司霍桑工厂进行实验研究。霍桑实验的基本假设是：作业条件的改善有利于作业效率的提高"
+  },
+  {
+   "cn": "实验哲学",
+   "en": "philosophy of experiment",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.191",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "对科学实验的本体论、方法论和知识论层面上的研究。"
+  },
+  {
+   "cn": "伦理思想实验法",
+   "en": "ethical thought experiment",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.234",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学研究方法",
+   "subjectName": "医学伦理学研究方法",
+   "publishYear": "2025",
+   "definition": "基于特定的伦理学理论、素材等材料，设定理想化的伦理情境，提出若干伦理问题，以激发人们伦理思考的实验方法。"
+  },
+  {
+   "cn": "离散选择实验",
+   "en": "discrete choice experiment,DCE",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.6.1.5",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "通过对受访者提供一系列不同属性水平的健康产品或服务的假设方案组合，询问受访者对方案的选择，测量其对方案的偏好的方法。"
+  },
+  {
+   "cn": "一切经过试验",
+   "en": "all things should be experimented",
+   "source": "马克思主义",
+   "wordNumber": "04.0175",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "在不同类型的客观事物中选择不同的典型进行试验，从而总结概括出该类事物中带有一般规律性的东西，把经过试验后取得的经验再普遍推广，借以指导各项工作顺利开展的一种工作方法。中国共产党提出的“放手发动群众，一"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

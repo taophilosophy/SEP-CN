@@ -1,0 +1,762 @@
+{
+ "key": "conceptual coherence",
+ "term": "conceptual coherence",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T03:28:26+00:00",
+ "status": "ok",
+ "note": "variant=conceptual coherence; 审定公布名词库=419; 海峡两岸名词对照库=103; 其他来源数据库=25; 预公布名词数据库=20; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "孕体",
+   "en": "conceptus",
+   "source": "兽医学名词",
+   "wordNumber": "07.080",
+   "subjectFullName": "兽医学_家畜胚胎学",
+   "subjectName": "家畜胚胎学",
+   "publishYear": "2023",
+   "definition": "由受精卵进一步发育形成的早期胚胎结构。包括胚胎本身、胎盘和胎膜。"
+  },
+  {
+   "cn": "孕体",
+   "en": "conceptus",
+   "source": "畜牧学名词",
+   "wordNumber": "05.299",
+   "subjectFullName": "畜牧学_繁殖_受精、妊娠、分娩",
+   "subjectName": "受精、妊娠、分娩",
+   "publishYear": "2020",
+   "definition": "孕畜子宫内的胎儿、胎膜和胎水三者的总称。"
+  },
+  {
+   "cn": "孕体",
+   "en": "conceptus",
+   "source": "组织学与胚胎学名词",
+   "wordNumber": "21.028",
+   "subjectFullName": "组织学与胚胎学_胚胎学_配子发生、受精和胚前期发育",
+   "subjectName": "配子发生、受精和胚前期发育",
+   "publishYear": "2014",
+   "definition": "受精卵分裂分化所产生的早胚结构的统称。包括胚体及其附属结构。"
+  },
+  {
+   "cn": "概念主义",
+   "en": "conceptualism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.271",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "认为数学对象是人心中的概念或观念，是某种心理对象。它肯定数学对象存在（区别于唯名论），但否认这些对象独立于我们而存在（区别于柏拉图主义）。"
+  },
+  {
+   "cn": "概念化",
+   "en": "conceptualization",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.612",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "在信息科学中，对为某些目的而选取的一部分世界而建立的抽象、简化的视图。"
+  },
+  {
+   "cn": "概念化",
+   "en": "conceptualization",
+   "source": "心理学名词",
+   "wordNumber": "15.093",
+   "subjectFullName": "心理学_咨询心理学",
+   "subjectName": "咨询心理学",
+   "publishYear": "2014",
+   "definition": "咨询师对当事人及其心理问题形成的整体的、专业的理解。"
+  },
+  {
+   "cn": "概念主义",
+   "en": "conceptualism",
+   "source": "语言学名词",
+   "wordNumber": "01.186",
+   "subjectFullName": "语言学_理论语言学_交叉学科术语",
+   "subjectName": "交叉学科术语",
+   "publishYear": "2011",
+   "definition": "一种哲学观点。认为普遍性只以概念的形式存在于人的心智之中。乔姆斯基把语言看做人脑中的心理客体，这种语言观归属于心智主义（mentalism）。"
+  },
+  {
+   "cn": "相干性",
+   "en": "coherence",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2648",
+   "subjectFullName": "地球物理学_地震科学_地震信号处理",
+   "subjectName": "地震信号处理",
+   "publishYear": "2022",
+   "definition": "两个波场同相的程度。波场与自身、波场与其他波场之间对于某种内秉物理量的关联性质。数学上表示为两个归一化的互功率谱，是时间域的相关性在频率域的对应。 "
+  },
+  {
+   "cn": "相干",
+   "en": "coherence",
+   "source": "光学名词",
+   "wordNumber": "01.524",
+   "subjectFullName": "光学_基础光学",
+   "subjectName": "基础光学",
+   "publishYear": "2021",
+   "definition": "频率相同、偏振态相同、相位差恒定的两列光波相遇时在时域或者空间会产生局部光强增大或减小的现象。"
+  },
+  {
+   "cn": "相干性",
+   "en": "coherence",
+   "source": "物理学名词",
+   "wordNumber": "04.1258",
+   "subjectFullName": "物理学_光学、声学_光学_波动光学、信息光学",
+   "subjectName": "波动光学、信息光学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "相干性",
+   "en": "coherence",
+   "source": "生物物理学名词",
+   "wordNumber": "02.337",
+   "subjectFullName": "生物物理学_分子与结构生物学_电子显微三维重构技术",
+   "subjectName": "电子显微三维重构技术",
+   "publishYear": "2018",
+   "definition": "对电子波干涉现象显著程度的描述。理想的相干性电子波应具有单一的波长，或者说所有电子具有相同的能量；此外，不同空间位置发射的电子除了具有相同的能量外还需要有同步变化的相位，即具有稳定的相位差。良好的相干"
+  },
+  {
+   "cn": "连贯性",
+   "en": "coherence",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0600",
+   "subjectFullName": "计算机科学技术_计算机应用_计算机辅助设计与图形学",
+   "subjectName": "计算机辅助设计与图形学",
+   "publishYear": "2018",
+   "definition": "对连续的函数进行离散采样时，其相邻位置的采样值具有某种相似性。"
+  },
+  {
+   "cn": "连贯",
+   "en": "coherence",
+   "source": "语言学名词",
+   "wordNumber": "04.265",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "话语分析术语。指一篇口头或书面话语（语篇）前后内容、文气的一致性或功能联系。它是话语组织的一个假设原则，即我们首先假设话语组织是连贯的，在此基础上来研究话语中体现一致性的各种手段。"
+  },
+  {
+   "cn": "相干性",
+   "en": "coherence",
+   "source": "大气科学名词",
+   "wordNumber": "02.225",
+   "subjectFullName": "大气科学_大气探测",
+   "subjectName": "大气探测",
+   "publishYear": "2009",
+   "definition": "使两个或多个波动具有能够产生干涉效应的相位关联的属性。包括时间相干性和空间相干性，前者指空间同一点在不同时刻的波之间存在稳定的相位关联，后者指同一时刻空间不同点的波之间存在着稳定的相位关联。"
+  },
+  {
+   "cn": "相干",
+   "en": "coherence",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.354",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "在电磁辐射中，使所有波前同相的条件。相干将能量高度集中，使红外、可见光和紫外有可能长距离传输，原因是这些射线几乎完全平行。"
+  },
+  {
+   "cn": "相干性",
+   "en": "coherence",
+   "source": "机械工程名词 第三分册",
+   "wordNumber": "04.145",
+   "subjectFullName": "机械工程_仪器仪表_光学仪器_显微镜_显微镜一般名词",
+   "subjectName": "显微镜一般名词",
+   "publishYear": "2003",
+   "definition": "光波能相互干涉的性质。相干光相干系数值接近1,非相干光相干系数值为零,部分相干光相干系数处于大于零和小于1之间。"
+  },
+  {
+   "cn": "相干性",
+   "en": "coherence",
+   "source": "石油名词",
+   "wordNumber": "03.0354",
+   "subjectFullName": "石油_石油地球物理",
+   "subjectName": "石油地球物理",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "相干性",
+   "en": "coherency",
+   "source": "光学名词",
+   "wordNumber": "01.525",
+   "subjectFullName": "光学_基础光学",
+   "subjectName": "基础光学",
+   "publishYear": "2021",
+   "definition": "①描述两束光波产生干涉能力的一个物理量。②描述一个波列在同一时间不同位置或者在同一位置不同时间的振动间有恒定相位关系的特性。它分为空间相干性、时间相干性和部分相干性三种。"
+  },
+  {
+   "cn": "相干",
+   "en": "coherent",
+   "source": "航天科学技术名词",
+   "wordNumber": "08.557",
+   "subjectFullName": "航天科学技术_航天遥感",
+   "subjectName": "航天遥感",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "概念相交组配",
+   "en": "conceptual intersection",
+   "source": "档案学名词",
+   "wordNumber": "03.04.048",
+   "subjectFullName": "档案学_档案管理_档案检索",
+   "subjectName": "档案检索",
+   "publishYear": "2024",
+   "definition": "用两个或两个以上具有概念交叉关系的同级主题词组配表达其相应的下位概念。"
+  },
+  {
+   "cn": "孕体",
+   "en": "conceptus",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "概念化",
+   "en": "conceptualization",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "同调",
+   "en": "coherence",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "相干性",
+   "en": "coherence",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "凝聚",
+   "en": "coherence",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "连贯性",
+   "en": "coherence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "相干性",
+   "en": "coherence",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "概念模式",
+   "en": "conceptual model",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "概念式触发",
+   "en": "conceptual priming",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "概念效标",
+   "en": "conceptual criterion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "概念变量",
+   "en": "conceptual variable",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "概念定义",
+   "en": "conceptual definition",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "概念模型",
+   "en": "conceptual model",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "概念模型",
+   "en": "conceptual model",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "概念圖示",
+   "en": "conceptual schema",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "概念模式",
+   "en": "conceptual schema",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "概念模型",
+   "en": "conceptual model",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "概念分析",
+   "en": "conceptual analysis",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "概念检索",
+   "en": "conceptual retrieval",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "概念库",
+   "en": "conceptual base",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "概念聚类",
+   "en": "conceptual clustering",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量子相干性",
+   "en": "quantum coherence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "缓存一致性",
+   "en": "cache coherence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "取境",
+   "en": "Qujing (Conceptualize an Aesthetic Feeling)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 19114.32-2008 工业自动化系统与集成 工业制造管理数据：资源应用管理 第32部分：资源应用管理数据的概念模型》",
+   "en": "GB/T 19114.32-2008 Industrial automation systems and integration — Industrial manufacturing management data: Resource usage management — Part 32: Conceptual model for resources usage management data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "协议定价",
+   "en": "conference pricing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "技术会议",
+   "en": "technical conference",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "黑帽安全技术大会",
+   "en": "Black Hat Conference",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "世界互联网大会",
+   "en": "World Internet Conference",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "IEEE第8届国际可视化学术会议",
+   "en": "IEEE Visualization’97 Conference",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "世界互联网大会（中国）",
+   "en": "World Internet Conference (China)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际标准化会议基地",
+   "en": "International Standardization Conference Base",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "世界人工智能大会（中国）",
+   "en": "World Artificial Intelligence Conference (China)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "标准化联席会议机制",
+   "en": "joint conference mechanism for standardization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "抗量子计算密码学国际会议",
+   "en": "International Conference on Post Quantum Cryptography",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "概念化",
+   "en": "conceptualization",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.31",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "为了得出有理论意义的结论，对日常生活中使用的词语进行明确界定的过程。"
+  },
+  {
+   "cn": "概念实在论",
+   "en": "conceptual realism",
+   "source": "社会学名词",
+   "wordNumber": "3.10.2.8",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学知识",
+   "subjectName": "科学知识",
+   "publishYear": "2025",
+   "definition": "认为概念是具有现实的、真实的和独立的存在的一种学说。"
+  },
+  {
+   "cn": "概念唯名论",
+   "en": "conceptual nominalism",
+   "source": "社会学名词",
+   "wordNumber": "3.10.2.9",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学知识",
+   "subjectName": "科学知识",
+   "publishYear": "2025",
+   "definition": "认为概念是人为构建出来的，在现实中并没有对应的存在物，是一种名义上的存在物的学说。"
+  },
+  {
+   "cn": "概念史",
+   "en": "conceptual history",
+   "source": "社会学名词",
+   "wordNumber": "3.13.2.22",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的相关范式思路",
+   "subjectName": "历史社会学的相关范式思路",
+   "publishYear": "2025",
+   "definition": "一种关于概念的历史形成及其转化对社会科学的影响的研究，亦即关于概念形成的历史社会学。在英语世界中，它以观念论取向的语境脉络分析为主，而在德语世界中，是以社会取向的语境脉络分析为主，两者均属于历史社会学"
+  },
+  {
+   "cn": "主题概念阵",
+   "en": "thematic conceptual matrix",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.13",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "根据一个研究主题，列出所有相关概念的行列交叉表格。"
+  },
+  {
+   "cn": "概念聚类阵",
+   "en": "conceptually clustered matrix",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.12",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "把同概念相关的术语汇集起来的行列交叉表格。其基本原则是概念的一致性。"
+  },
+  {
+   "cn": "背景效应",
+   "en": "contextual effects",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.139",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "回答人在回答一组题目或测试时，在先的回答对后续的回答产生的影响。是问题的次序效应之一。"
+  },
+  {
+   "cn": "庐山会议",
+   "en": "Lushan Conference",
+   "source": "马克思主义",
+   "wordNumber": "04.0539",
+   "subjectFullName": "马克思主义_其他部分_重要会议_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "庐山会议包括两次重要会议：1959年７月２日至８月１日党中央在江西庐山召开的政治局扩大会议和８月２日至1６日举行的党的八届八中全会。第一次会议的原定议题是总结1958年以来工作中的经验教训，纠正“大跃"
+  },
+  {
+   "cn": "德黑兰会议",
+   "en": "Tehran Conference",
+   "source": "马克思主义",
+   "wordNumber": "05.0202",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_主要事件",
+   "subjectName": "主要事件",
+   "publishYear": "2025",
+   "definition": "1943年11月28日—12月1日，苏、美、英三国政府首脑斯大林、罗斯福、丘吉尔在伊朗首都德黑兰举行的会议。会议讨论了盟军消灭德国武装力量的各项计划以及安排战后和平与合作等问题。三方达成协议，建立欧洲"
+  },
+  {
+   "cn": "八七会议",
+   "en": "August th Conference",
+   "source": "马克思主义",
+   "wordNumber": "04.0528",
+   "subjectFullName": "马克思主义_其他部分_重要会议_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1927年8月7日中共中央在湖北汉口召开的紧急会议。会议总结了大革命失败的经验教训，着重批判了大革命后期陈独秀为代表的右倾机会主义错误，确立了实行土地革命和武装起义的方针，开始了从大革命失败到土地革命"
+  },
+  {
+   "cn": "世界社会主义学者大会",
+   "en": "world socialist scholars conference",
+   "source": "马克思主义",
+   "wordNumber": "05.0278",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_国外社会主义思想流派",
+   "subjectName": "国外社会主义思想流派",
+   "publishYear": "2025",
+   "definition": "由美国左派人士发起、“美国民主社会主义者”主办、全球任何左翼团体都可参加的会议，是左翼学者最大规模的年度集会。从20世纪80年代到2004年，每年春天都在美国纽约召开，是激进主义者、社会主义者、女权主"
+  },
+  {
+   "cn": "全国边防工作会议",
+   "en": "National Border Defense Work Conference",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0056",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "中共中央1979 年4 月25 至5 月10 日于北京召开的讨论改革开放时期民族工作任务的重要会议。会议讨论了这一时期边防和民族工作任务、认真落实党的民族政策、加速边疆民族地区的社会主义建设等内容。会"
+  },
+  {
+   "cn": "全国城市民族工作会议（2016）",
+   "en": "National Conference on Urban Ethnic Work",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0058",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "（2016）党的民族工作史中第一次全国城市民族工作会议，2016 年1 月5 至6 日在北京召开。会议确立了贯彻中央民族工作会议关于城市民族工作的精神，着重对以少数民族流动人口服务管理重点的城市民族工"
+  },
+  {
+   "cn": "中央民族工作会议",
+   "en": "Central Work Conference on Ethnic Affairs",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.006",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "中共中央从战略和全局高度部署民族工作的重要会议。改革开放以来，每当民族工作出现新情况新问题时，中央总会及时召开会议，统一全党思想，对民族工作进行研究部署。迄今为止，分别于1992、1999、2005、"
+  },
+  {
+   "cn": "2014年中央民族工作会议",
+   "en": "Central Work Conference on Ethnic Affairs 2014",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0061",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "中共中央2014年9月27至28日召开的、旨在准确把握新形势下民族问题、民族工作的特点和规律的重要会议。习近平总书记指出，党的民族工作取得的最大成就，就是走出了一条解决民族问题的正确道路，其内涵可概括"
+  },
+  {
+   "cn": "中央（全国）统战工作会议",
+   "en": "Central （National） Work Conference on United Front",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0059",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "党的各个时期对包括民族工作在内的统战工作做全面部署的会议统称，1950年3月至2006年7月先后召开20次全国统战工作会议，2015年、2022年先后召开两次中央统战工作会议。其中对民族工作有重要影响"
+  },
+  {
+   "cn": "2021年中央民族工作会议",
+   "en": "Central Work Conference on Ethnic Affairs 2021",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0062",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "中共中央2021年8月27至28日召开的、全面回顾党的民族工作百年历程和历史成就、深入分析民族工作新形势的重要会议。会议取得的最大成就是习近平总书记提出了党关于加强和改进民族工作的重要思想，其内容可概"
+  },
+  {
+   "cn": "全德工人联合会成立大会",
+   "en": "Founding Conference of the All German Workers Federation",
+   "source": "马克思主义",
+   "wordNumber": "04.0479",
+   "subjectFullName": "马克思主义_其他部分_重要会议_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "1863年5月23日，全德工人联合会成立大会在莱比锡成立。来自德国11个城市的12名代表以 及200多名莱比锡工人参加大会。会上斐迪南 ·拉萨尔(1825—1864)被选为联合会主席，瓦希泰尔为联合会"
+  },
+  {
+   "cn": "全国民族团结进步表彰大会",
+   "en": "National Commendation Conference on Ethnic Unity and Progress",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0065",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "中共中央与国务院为巩固发展平等团结互助和谐的社会主义民族关系,对各民族、各地区、各行业、各条战线上为民族团结进步做出突出贡献的先进集体和先进个人进行表彰的大会，一般与中央民族工作会议同期举行，自198"
+  },
+  {
+   "cn": "中国人民政治协商会议第一届全体会议",
+   "en": "First Plenary Session of the Chinese Peoples Political Consultative Conference",
+   "source": "马克思主义",
+   "wordNumber": "04.0536",
+   "subjectFullName": "马克思主义_其他部分_重要会议_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1949年9月21日至9月30日在北京举行。中国共产党及各民主党派、人民团体和无党派民主人士等单位的代表（含候补代表）共662人参加了会议。中国人民政协筹备会主任、中国共产党中央委员会主席毛泽东向大会"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

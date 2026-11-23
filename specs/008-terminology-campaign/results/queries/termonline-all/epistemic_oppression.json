@@ -1,0 +1,722 @@
+{
+ "key": "epistemic oppression",
+ "term": "epistemic oppression",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T03:26:24+00:00",
+ "status": "ok",
+ "note": "variant=epistemic oppression; 审定公布名词库=1164; 海峡两岸名词对照库=340; 其他来源数据库=63; 预公布名词数据库=41; jwt-direct（JWT 直连，raw 略；已滤维基 9 条）",
+ "hits": [
+  {
+   "cn": "认识相对性",
+   "en": "epistemic relativity",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.013",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "认为知识仅相对于某一特定语境、社群、文化或个体才有效。"
+  },
+  {
+   "cn": "认知最佳",
+   "en": "epistemic optimality",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.648",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "心灵哲学中一种用来解决信息与内容之间错误表征问题的观点。认为当且仅当一个被表征事物存在一个认知最优条件，且这些条件被满足时，获得的信息就正确地表征了事物的内容。"
+  },
+  {
+   "cn": "认识主体",
+   "en": "epistemic subject",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.013",
+   "subjectFullName": "自然辩证法_科学技术方法论_方法与工具",
+   "subjectName": "方法与工具",
+   "publishYear": "2024",
+   "definition": "与认识客体构成某种实践关系和认识关系的个人（科学家）或群体（科学共同体）。与“认识客体”相对。"
+  },
+  {
+   "cn": "认识客体",
+   "en": "epistemic object",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.014",
+   "subjectFullName": "自然辩证法_科学技术方法论_方法与工具",
+   "subjectName": "方法与工具",
+   "publishYear": "2024",
+   "definition": "自然界中进入主体的特定认识领域中的物质系统，是认识主体所要理解和认识的对象。与“认识主体”相对。"
+  },
+  {
+   "cn": "认识工具",
+   "en": "epistemic implement",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.018",
+   "subjectFullName": "自然辩证法_科学技术方法论_方法与工具",
+   "subjectName": "方法与工具",
+   "publishYear": "2024",
+   "definition": "认识活动借以展开的方法、仪器及概念框架等。"
+  },
+  {
+   "cn": "认识论暴力",
+   "en": "epistemic violence",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "18.014",
+   "subjectFullName": "新闻学与传播学_传播政治经济研究_方法论_核心理论与议题",
+   "subjectName": "核心理论与议题",
+   "publishYear": "2022",
+   "definition": "帝国主义以科学、普遍真理和宗教救赎等话语对殖民地文化进行排斥、贬低和重新塑造的行为。一方面，将帝国主义对前殖民地的政治和军事占领合法化，另一方面，剥夺了殖民地人民的文化主体性、迫使其处于依附状态。这一"
+  },
+  {
+   "cn": "认知逻辑",
+   "en": "epistemic logic",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0012",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "泛指刻画“知道”“相信”等认知概念的逻辑系统。"
+  },
+  {
+   "cn": "认知的不确定性",
+   "en": "epistemic uncer-tainty",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1982",
+   "subjectFullName": "地球物理学_地震科学_地震和社会",
+   "subjectName": "地震和社会",
+   "publishYear": "2022",
+   "definition": "在地震危险性分析中，由于对模型参量的知识不完全和所采用的方法的局限性引起的不确定性。可以通过改进模拟方法和分析方法减小认知的不确定性。 "
+  },
+  {
+   "cn": "心下痞",
+   "en": "epigastric oppression",
+   "source": "中医药学名词",
+   "wordNumber": "04.375",
+   "subjectFullName": "中医药学_诊断学_诊法",
+   "subjectName": "诊法",
+   "publishYear": "2004",
+   "definition": "自觉心下胃脘部满闷堵塞，按之却柔软不痛的表现。"
+  },
+  {
+   "cn": "压迫性溃疡",
+   "en": "oppressive ulcer",
+   "source": "中医药学名词（2013）",
+   "wordNumber": "01.066",
+   "subjectFullName": "中医药学_外科学_诊断",
+   "subjectName": "诊断",
+   "publishYear": "2013",
+   "definition": "压迫所致的溃疡，呈浅盘状，初期皮肤暗紫，逐渐变黑并坏死，滋水、液化、腐烂，脓液有臭味，可深及筋膜、肌肉、骨膜的表现。"
+  },
+  {
+   "cn": "传染型余震序列模型",
+   "en": "epistemic type aftershock sequence; ETAS",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2217",
+   "subjectFullName": "地球物理学_地震科学_地震和社会",
+   "subjectName": "地震和社会",
+   "publishYear": "2022",
+   "definition": "将自相似思想引入大森 -宇津公式，假定任何一次地震均产生自己的高阶余震，利用条件强度函数建立的余震发生模型。 "
+  },
+  {
+   "cn": "会阴尿道压迫避孕法",
+   "en": "urethro-perineal oppression",
+   "source": "计划生育名词",
+   "wordNumber": "03.073",
+   "subjectFullName": "计划生育_计划生育临床_避孕方法",
+   "subjectName": "避孕方法",
+   "publishYear": "2019",
+   "definition": "性交中，男性有射精感时，用示指、中指从阴囊和肛门间向耻骨方向紧压，使精液逆行射入膀胱；然后再放松，同时将阴茎撤出。"
+  },
+  {
+   "cn": "胸闷",
+   "en": "oppression in chest",
+   "source": "中医药学名词",
+   "wordNumber": "04.366",
+   "subjectFullName": "中医药学_诊断学_诊法",
+   "subjectName": "诊法",
+   "publishYear": "2004",
+   "definition": "自觉胸中堵塞不畅、满闷不舒的表现。"
+  },
+  {
+   "cn": "消痞化积",
+   "en": "relieving oppression and masses",
+   "source": "中医药学名词",
+   "wordNumber": "05.270",
+   "subjectFullName": "中医药学_治疗学_内治法",
+   "subjectName": "内治法",
+   "publishYear": "2004",
+   "definition": "用具有行气化滞、消除痞胀作用的方药，治疗食积气滞证的治法。"
+  },
+  {
+   "cn": "流行",
+   "en": "epidemic",
+   "source": "感染病学名词",
+   "wordNumber": "01.0326",
+   "subjectFullName": "感染病学_总论_感染病流行病学",
+   "subjectName": "感染病流行病学",
+   "publishYear": "2019",
+   "definition": "某传染病在某地近年来发病率显著超过该病散发性发病水平的现象。"
+  },
+  {
+   "cn": "流行",
+   "en": "epidemic",
+   "source": "结核病学名词",
+   "wordNumber": "05.045",
+   "subjectFullName": "结核病学_结核病预防与控制_流行与控制",
+   "subjectName": "流行与控制",
+   "publishYear": "2019",
+   "definition": "某传染病在某地近年来发病率显著超过该病散发性发病水平。"
+  },
+  {
+   "cn": "流行",
+   "en": "epidemic",
+   "source": "地方病学名词",
+   "wordNumber": "01.037",
+   "subjectFullName": "地方病学_总论_流行病学",
+   "subjectName": "流行病学",
+   "publishYear": "2016",
+   "definition": "某地区某病的发病率显著超过历年(散发)发病率水平的现象。"
+  },
+  {
+   "cn": "流行",
+   "en": "epidemic",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "06.080",
+   "subjectFullName": "全科医学与社区卫生_社区公共卫生",
+   "subjectName": "社区公共卫生",
+   "publishYear": "2014",
+   "definition": "某病在某地区显著超过其历年发病率水平的现象。应根据不同病种、不同时期、不同历史情况进行判定。"
+  },
+  {
+   "cn": "坳陷",
+   "en": "depression",
+   "source": "地质学名词",
+   "wordNumber": "10.01.124",
+   "subjectFullName": "地质学_大地构造学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "地壳上各种不同成因的下沉构造单元。包括盆地、坳槽等。"
+  },
+  {
+   "cn": "抑郁症",
+   "en": "depression",
+   "source": "神经外科学名词",
+   "wordNumber": "10.122",
+   "subjectFullName": "医学_神经外科学_神经系统功能性疾病_精神障碍",
+   "subjectName": "精神障碍",
+   "publishYear": "2026",
+   "definition": "以心境消沉、低落为主，常伴有焦虑、激越、无价值感、自杀意念、意志减退、精神运动性迟滞的综合征。常伴有各种躯体症状和生理功能障碍，如失眠。"
+  },
+  {
+   "cn": "压型化石",
+   "en": "compression",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "印痕化石",
+   "en": "impression",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "压榨",
+   "en": "expression",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "压缩",
+   "en": "compression",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "压抑",
+   "en": "repression",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "抑郁",
+   "en": "depression",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "表情",
+   "en": "expression",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "压制",
+   "en": "suppression",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "洼地",
+   "en": "depression",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "填洼",
+   "en": "depression",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "洼地",
+   "en": "depression",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "阻遏",
+   "en": "repression",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "阻遏",
+   "en": "repression",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "阻抑",
+   "en": "suppression",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "表达式",
+   "en": "expression",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "阻抑",
+   "en": "suppression",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "表达",
+   "en": "expression",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "抑制",
+   "en": "depression",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "阻遏",
+   "en": "repression",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "食管压迹",
+   "en": "esophageal impression\",\"oesophageal impression",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "胸闷",
+   "en": "chest distress; chest oppression",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_病理症状",
+   "subjectName": "病理症状",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "踏板足印",
+   "en": "impression\",\"mark",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "疫情监测",
+   "en": "epidemic monitoring",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "疫情峰值",
+   "en": "epidemic peak",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_百姓生活",
+   "subjectName": "百姓生活",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "疫情",
+   "en": "epidemic; outbreak",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "直致",
+   "en": "Direct Expression",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据压缩",
+   "en": "data compression",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "总印象",
+   "en": "general impression",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "艺术印象分",
+   "en": "artistic impression",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "出入境防疫",
+   "en": "epidemic prevention at borders",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "疫情防控",
+   "en": "epidemic prevention and control ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "被压迫阶级",
+   "en": "oppressed class",
+   "source": "马克思主义",
+   "wordNumber": "03.0038",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "阶级社会中在政治上处于被支配地位的阶级。如奴隶社会的奴隶阶级、封建社会的农民阶级和资本主义社会的无产阶级，由于经济上处于被剥削的地位，而在政治上也处于被压迫的地位。"
+  },
+  {
+   "cn": "非剥削性的经济压迫",
+   "en": "non exploitative economic oppression",
+   "source": "马克思主义",
+   "wordNumber": "05.0110",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "赖特（Eric Olin Wright）认为，剥削有三个前提条件：第一，反向的相互依赖原则。第二，排除性原则。第三，占有原则。赖特认为如果只满足三个条件中的前两个条件，就是非剥削性经济压迫。在非剥削性"
+  },
+  {
+   "cn": "疫情",
+   "en": "epidemic",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.002",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "由致病性生物因子如细菌、病毒等引起的传染性疾病及其发生和蔓延发展的情况。"
+  },
+  {
+   "cn": "抑郁",
+   "en": "depression",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.25.10",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应_心理影响与干预",
+   "subjectName": "心理影响与干预",
+   "publishYear": "2025",
+   "definition": "负性情感的增强的情绪状态。患者表现为情绪低落，忧心忡忡，愁眉不展，唉声叹气。严重者忧郁沮丧，外界的一切均引不起兴趣、悲观失望，感到自己一无是处，毫无生趣，度日如年。"
+  },
+  {
+   "cn": "萧条",
+   "en": "depression",
+   "source": "马克思主义",
+   "wordNumber": "02.0294",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "经济周期中危机之后的一个阶段，特征为社会生产不再继续下降，工厂、银行不再继续倒闭而呈停滞状态。"
+  },
+  {
+   "cn": "疫区",
+   "en": "epidemic area",
+   "source": "军事预防医学名词",
+   "wordNumber": "9.5.2.2",
+   "subjectFullName": "军事预防医学_生物武器医学防护学_生物战剂袭击应急处置",
+   "subjectName": "生物战剂袭击应急处置",
+   "publishYear": "2025",
+   "definition": "遭受生物战剂袭击区域出现病例后，经过评估划分需要实施管控的病例所在区域。"
+  },
+  {
+   "cn": "基因表达",
+   "en": "gene expression",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.5.10",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "使基因所携带的遗传信息表现为表型的过程。包括基因转录成互补的RNA序列。对于结构基因，信使核糖核酸(mRNA)继而翻译成多肽链，并装配加工成最终的蛋白质产物。"
+  },
+  {
+   "cn": "自我表达",
+   "en": "self-expression",
+   "source": "社会学名词",
+   "wordNumber": "4.1.5.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我表达",
+   "subjectName": "自我表达",
+   "publishYear": "2025",
+   "definition": "人们试图通过采用相应的策略，向他人展示自己所认为的“真我”形象的行为。其中能够反映出其现实我（我实际上是怎样一个人）与理想我（我想成为怎样一个人）。"
+  },
+  {
+   "cn": "印象形成",
+   "en": "impression formation",
+   "source": "社会学名词",
+   "wordNumber": "4.1.10.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_印象",
+   "subjectName": "印象",
+   "publishYear": "2025",
+   "definition": "通过对自身所掌握的各种信息进行加工、整理从而形成对他人印象的过程。"
+  },
+  {
+   "cn": "第一印象",
+   "en": "first impression",
+   "source": "社会学名词",
+   "wordNumber": "4.1.10.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_印象",
+   "subjectName": "印象",
+   "publishYear": "2025",
+   "definition": "人们在初次交往时所形成对彼此的最初印象。这种最初印象并非总是正确，但却总是最鲜明、最牢固的，并且在很大程度上影响着双方后续的交往。"
+  },
+  {
+   "cn": "印象管理",
+   "en": "impression management",
+   "source": "社会学名词",
+   "wordNumber": "4.1.10.4",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_印象",
+   "subjectName": "印象",
+   "publishYear": "2025",
+   "definition": "个体通过一定的方式影响别人形成的对自己的印象的过程，是自我调节的一个重要方面。其中隐含了一种基本动机，即人们渴望被别人积极看待，避免被别人消极看待。"
+  },
+  {
+   "cn": "免疫抑制",
+   "en": "immune suppression",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.7.3",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫调节",
+   "subjectName": "免疫调节",
+   "publishYear": "2025",
+   "definition": "体内外因素所致免疫系统功能降低或消失的现象。"
+  },
+  {
+   "cn": "压缩性骨折",
+   "en": "compression fracture",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.1.11",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_骨及关节疾病",
+   "subjectName": "骨及关节疾病",
+   "publishYear": "2025",
+   "definition": "多由垂直压缩的间接暴力所致，骨松质因压缩而变形的骨折。常发生在下胸椎、上腰椎，椎体呈楔状。"
+  },
+  {
+   "cn": "抑郁障碍",
+   "en": "depression disorder",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.3.3.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_儿童少年行为问题",
+   "subjectName": "儿童少年行为问题",
+   "publishYear": "2025",
+   "definition": "以显著、持久的弥散性情绪低落为显著特征的心理障碍。可分为破坏性心境失调障碍、持续性抑郁障碍等类型等；其中，破坏性心境失调障碍常见于儿童少年。"
+  },
+  {
+   "cn": "心理卫生问题筛查",
+   "en": "depression screening",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.5.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_学校心理卫生服务",
+   "subjectName": "学校心理卫生服务",
+   "publishYear": "2025",
+   "definition": "通过标准化的量表，早期发现少数有心理问题或心理障碍的学生的过程。旨在对被筛查出的学生给予科学有效的心理咨询和辅导，及时转介干预，使他们尽快摆脱障碍，调控自我，提高其心理健康水平。"
+  },
+  {
+   "cn": "产后抑郁",
+   "en": "postpartum depression, PPD",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.2.1.6",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_妇女精神障碍",
+   "subjectName": "妇女精神障碍",
+   "publishYear": "2025",
+   "definition": "产后出现的，以抑郁为主的短暂情感紊乱。表现为从短暂的心境低落到伴有焦虑和恐惧的严重抑郁，伴有对婴儿及其父亲的漠不关心、敌意及睡眠紊乱等。"
+  },
+  {
+   "cn": "疫情发布",
+   "en": "epidemic information release",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.019",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "由疫情发生地及以上人民政府或政府委托的相关部门依法按规定进行及时、准确、客观、全面的疫情信息公开的工作。"
+  },
+  {
+   "cn": "疫情预警",
+   "en": "epidemic outbreak alert",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.02",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "在传染病或突发公共卫生事件发生之前，根据以往总结的规律或监测到的可能风险，向相关部门发出紧急信号，报告危险情况，以避免危害在不知情或者准备不足的情况下发生，从而最大限度降低危害所造成的损失的行为。"
+  },
+  {
+   "cn": "疫情报告",
+   "en": "epidemic situation report",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.017999999999999",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "依据法律法规，在发现法定传染病患者或疑似传染病患者时，遵循属地管理原则，按照国家或卫生行政部门规定的内容、程序、方式和时限进行报告的行为和制度。"
+  },
+  {
+   "cn": "时空压缩",
+   "en": "time-space compression",
+   "source": "社会学名词",
+   "wordNumber": "2.9.9.5",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_全球化",
+   "subjectName": "全球化",
+   "publishYear": "2025",
+   "definition": "因现代科技的进步以及资本积累追求减少周转时间和以时间消灭空间的历史发展。使得时间越来越具有加速的特征，空间上的各种障碍被克服，从而给人们带来的一种时间和空间显得被压缩了的感觉或体验。由戴维·哈维（D."
+  }
+ ],
+ "error": null,
+ "raw": null
+}

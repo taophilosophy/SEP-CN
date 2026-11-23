@@ -1,0 +1,792 @@
+{
+ "key": "lexical entries",
+ "term": "lexical entries",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T03:24:57+00:00",
+ "status": "ok",
+ "note": "variant=lexical entries; 审定公布名词库=806; 海峡两岸名词对照库=198; 其他来源数据库=91; 预公布名词数据库=295; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "词条",
+   "en": "entry,lexical entry",
+   "source": "语言学名词",
+   "wordNumber": "06.043",
+   "subjectFullName": "语言学_辞书学_辞书编纂",
+   "subjectName": "辞书编纂",
+   "publishYear": "2011",
+   "definition": "由词目及其释义等构成的整体。是词典的基本查检单位。其内容一般包括词目、注音、释义、例证、语用和参见等信息。英语的entry一般用于语言词典；article用于百科全书，称作“条目”。"
+  },
+  {
+   "cn": "语词条目",
+   "en": "lexical entry",
+   "source": "语言学名词",
+   "wordNumber": "06.056",
+   "subjectFullName": "语言学_辞书学_辞书编纂",
+   "subjectName": "辞书编纂",
+   "publishYear": "2011",
+   "definition": "与“百科条目”相对。辞书中提供普通语言信息的条目。是语文型辞书或综合性辞书中语文部分的主要构成单位。"
+  },
+  {
+   "cn": "词汇学派",
+   "en": "lexicalism",
+   "source": "语言学名词",
+   "wordNumber": "01.052",
+   "subjectFullName": "语言学_理论语言学_学派",
+   "subjectName": "学派",
+   "publishYear": "2011",
+   "definition": "语言学的一个学派。来源于语言学家迈克尔·刘易斯（Michael Lewis）1993年提出的词汇法（lexical approach）。这是一种新的语言习得理念，强调词汇及短语块（chunks）在语言"
+  },
+  {
+   "cn": "词法分析",
+   "en": "lexical analysis",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0502",
+   "subjectFullName": "计算机科学技术_人工智能_计算语言学",
+   "subjectName": "计算语言学",
+   "publishYear": "2018",
+   "definition": "自然语言处理中，以词为处理单位的分析方法和技术。包括利用计算机技术进行形态分析、形态生成、词语切分以及词类标注等一系列过程、技术和方法。"
+  },
+  {
+   "cn": "词法分析",
+   "en": "lexical analysis",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0112",
+   "subjectFullName": "计算机科学技术_系统软件_语言与编译",
+   "subjectName": "语言与编译",
+   "publishYear": "2018",
+   "definition": "对构成源程序的字符流进行扫描并根据词法规则识别单词的过程。"
+  },
+  {
+   "cn": "词汇歧义",
+   "en": "lexical ambiguity",
+   "source": "心理学名词",
+   "wordNumber": "02.810",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "一个词具有多种独立意义时出现的歧义。"
+  },
+  {
+   "cn": "词汇学假设",
+   "en": "lexical hypothesis",
+   "source": "心理学名词",
+   "wordNumber": "08.036",
+   "subjectFullName": "心理学_人格心理学",
+   "subjectName": "人格心理学",
+   "publishYear": "2014",
+   "definition": "所有的人格特点都会被编码进自然语言中去。是当前流行的人格五因素模型等的理论基础。"
+  },
+  {
+   "cn": "词汇搭配",
+   "en": "lexical collocation",
+   "source": "语言学名词",
+   "wordNumber": "06.075",
+   "subjectFullName": "语言学_辞书学_辞书编纂",
+   "subjectName": "辞书编纂",
+   "publishYear": "2011",
+   "definition": "两个或两个以上的词项由语义和语法上的兼容性而形成的习惯性共现结构。搭配涉及语词组配的一些规则或限制。"
+  },
+  {
+   "cn": "词汇语用学",
+   "en": "lexical pragmatics",
+   "source": "语言学名词",
+   "wordNumber": "01.022",
+   "subjectFullName": "语言学_理论语言学_学科",
+   "subjectName": "学科",
+   "publishYear": "2011",
+   "definition": "语用学的一个分支。主要研究词汇（尤其是实词）在实际使用过程中所发生的意义变化，以及在理解这些意义变化时所涉及的推理过程。对词汇在具体语境中所表达的意义进行推理的过程称为语用充实，包括两种情况：语用收缩"
+  },
+  {
+   "cn": "词汇释义",
+   "en": "lexical definition",
+   "source": "语言学名词",
+   "wordNumber": "06.275",
+   "subjectFullName": "语言学_辞书学_辞书释义",
+   "subjectName": "辞书释义",
+   "publishYear": "2011",
+   "definition": "与“百科性释义”相对。释义方式的一种。通过分析自然语料的样本，归纳、抽象出被释义词的概念意义和其他语言属性，并按一定形式表述出来。词汇释义注重揭示语词的语言属性，即普通意义和使用规则。"
+  },
+  {
+   "cn": "词汇类型",
+   "en": "lexical type",
+   "source": "语言学名词",
+   "wordNumber": "05.058",
+   "subjectFullName": "语言学_语义学、词汇学_词与词汇",
+   "subjectName": "词与词汇",
+   "publishYear": "2011",
+   "definition": "根据词的功能、地位、使用范围及意义关系等外部特征对词汇单位所作的分类。按词的语法功能可分为不同的词类，例如名词、动词、形容词等；按词在词汇体系中的地位可分为基本词汇、一般词汇；按词的适用范围可分为全民"
+  },
+  {
+   "cn": "词汇语义学",
+   "en": "lexical semantics",
+   "source": "语言学名词",
+   "wordNumber": "05.019",
+   "subjectFullName": "语言学_语义学、词汇学_语义学与语义理论",
+   "subjectName": "语义学与语义理论",
+   "publishYear": "2011",
+   "definition": "与“句法语义学”相对。语义学的一个分支。研究词汇层面上的语义问题。主要特点为：（1）主要研究词所承载的语义。语义单位以义位、义位的系统为主，不研究单个的义位。（2）主要研究义位的结构、定性、演变历史、"
+  },
+  {
+   "cn": "词彩学",
+   "en": "lexical colorology",
+   "source": "语言学名词",
+   "wordNumber": "05.045",
+   "subjectFullName": "语言学_语义学、词汇学_词汇学",
+   "subjectName": "词汇学",
+   "publishYear": "2011",
+   "definition": "以词的色彩意义为研究对象的学问。"
+  },
+  {
+   "cn": "词汇系统",
+   "en": "lexical system",
+   "source": "语言学名词",
+   "wordNumber": "05.059",
+   "subjectFullName": "语言学_语义学、词汇学_词与词汇",
+   "subjectName": "词与词汇",
+   "publishYear": "2011",
+   "definition": "各词汇单位之间相互联系而成的词汇整体。"
+  },
+  {
+   "cn": "词汇单位",
+   "en": "lexical unit",
+   "source": "语言学名词",
+   "wordNumber": "05.057",
+   "subjectFullName": "语言学_语义学、词汇学_词与词汇",
+   "subjectName": "词与词汇",
+   "publishYear": "2011",
+   "definition": "词汇的直接构成成分。包括词和固定结构（set phrase）。"
+  },
+  {
+   "cn": "类义词",
+   "en": "lexical cluster",
+   "source": "语言学名词",
+   "wordNumber": "05.094",
+   "subjectFullName": "语言学_语义学、词汇学_词与词汇",
+   "subjectName": "词与词汇",
+   "publishYear": "2011",
+   "definition": "同属于一个意义类别并处于同一分类层次的一组词。例如“登载”“刊载”“刊登”“刊行”“刊印”。"
+  },
+  {
+   "cn": "词义",
+   "en": "lexical meaning",
+   "source": "语言学名词",
+   "wordNumber": "05.122",
+   "subjectFullName": "语言学_语义学、词汇学_词义",
+   "subjectName": "词义",
+   "publishYear": "2011",
+   "definition": "词的意义。通过词的形式反映出来的人们对客观事物认识的结果，具有概括性、社会性和模糊性的特点。就内部成分而言，包括概念义、附加义和语法义三个部分。"
+  },
+  {
+   "cn": "构词法",
+   "en": "lexical morphology",
+   "source": "语言学名词",
+   "wordNumber": "05.178",
+   "subjectFullName": "语言学_语义学、词汇学_构词法、构词单位、造词法",
+   "subjectName": "构词法、构词单位、造词法",
+   "publishYear": "2011",
+   "definition": "词的内部构造及词的变化的规则。"
+  },
+  {
+   "cn": "条目",
+   "en": "entry",
+   "source": "档案学名词",
+   "wordNumber": "03.04.024",
+   "subjectFullName": "档案学_档案管理_档案检索",
+   "subjectName": "档案检索",
+   "publishYear": "2024",
+   "definition": "反映档案内容和形式特征的著录项目的组合。"
+  },
+  {
+   "cn": "侵入",
+   "en": "entry",
+   "source": "兽医学名词",
+   "wordNumber": "16.185",
+   "subjectFullName": "兽医学_兽医微生物学",
+   "subjectName": "兽医微生物学",
+   "publishYear": "2023",
+   "definition": "病毒吸附于细胞表面后，以核酸、核衣壳或病毒粒子等形式进入细胞的过程。"
+  },
+  {
+   "cn": "词汇通达",
+   "en": "lexical access",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "词汇歧义",
+   "en": "lexical ambiguity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "词法分析器",
+   "en": "lexical analyzer",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "词汇分析",
+   "en": "lexical analysis",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "词汇语义学",
+   "en": "lexical semantics",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "基本词汇假设",
+   "en": "fundamental lexical hypothesis",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "一般词汇知识",
+   "en": "general lexical knowledge",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "词汇判断任务",
+   "en": "lexical decision task",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "词汇功能语法",
+   "en": "lexical functional grammar",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "词语信息[数据]库",
+   "en": "lexical information database",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "进口长度",
+   "en": "entry length",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "出口报单",
+   "en": "outward entry",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "[海关]退税申报",
+   "en": "drawback entry",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "进口报关单",
+   "en": "import entry",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "进入壁垒",
+   "en": "entry barrier",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "临时报关",
+   "en": "sight entry",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "入境许可",
+   "en": "entry permit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "有限制进口",
+   "en": "limit entry",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "再进口报关单",
+   "en": "reimport entry",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "转口海关手续",
+   "en": "transit entry",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "入水",
+   "en": "entry",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "入水",
+   "en": "entry",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "注册",
+   "en": "entry",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "进场",
+   "en": "entry",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "进攻",
+   "en": "attack\",\"entry",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "入水时水花小",
+   "en": "clean entry",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "脚先入水",
+   "en": "feetfirst entry",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "垂直入水",
+   "en": "vertical entry",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "打开不足",
+   "en": "short entry",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "入境口岸",
+   "en": "port of entry",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "掷界外球",
+   "en": "entry\",\"throw-in",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "打开过度",
+   "en": "long entry\",\"overthrow",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "头先入水",
+   "en": "headfirst entry\",\"header",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "智能化客户流量入口",
+   "en": "intelligent customer traffic entry",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "第一入境点",
+   "en": "first point of entry",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "再上场",
+   "en": "re-entrance\",\"re-entry",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "世界杯赛参赛标准",
+   "en": "World Cup Entry Criteria",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "种子选手",
+   "en": "seeded entry\",\"seeded player",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "重新进入",
+   "en": "re-entry",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.14.5",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "在受控条件下，允许部分或全部撤离人员返回受辐射影响的原先居住区域的措施。"
+  },
+  {
+   "cn": "进入壁垒",
+   "en": "barriers to entry",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.1.6.5",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给",
+   "subjectName": "卫生服务供给",
+   "publishYear": "2025",
+   "definition": "使组织难以进入某一产业并参与其中竞争的条件，是潜在进入组织和新进组织与既存组织竞争可能遇到的不利因素。"
+  },
+  {
+   "cn": "数据录入系统",
+   "en": "data entry system",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.7.1.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生健康档案管理",
+   "subjectName": "学生健康档案管理",
+   "publishYear": "2025",
+   "definition": "使用计算机程序将学生健康档案数据进行输入的网络平台。"
+  },
+  {
+   "cn": "进出境车辆防疫消毒",
+   "en": "disinfection of entry-exit vehicle",
+   "source": "消毒学",
+   "wordNumber": "4.7.2.1",
+   "subjectFullName": "消毒学_消毒应用_口岸消毒",
+   "subjectName": "口岸消毒",
+   "publishYear": "2025",
+   "definition": "对有染疫风险的进出境车辆，以杀灭病原微生物为目的而采取的消毒措施。"
+  },
+  {
+   "cn": "进出境航空器消毒",
+   "en": "disinfection of entry-exit aircraft",
+   "source": "消毒学",
+   "wordNumber": "4.7.2.3",
+   "subjectFullName": "消毒学_消毒应用_口岸消毒",
+   "subjectName": "口岸消毒",
+   "publishYear": "2025",
+   "definition": "对进出境有染疫风险的航空器，以清除并杀灭病原体为目的而采取的消毒措施。"
+  },
+  {
+   "cn": "进出境集装箱消毒",
+   "en": "disinfection of entry-exit container",
+   "source": "消毒学",
+   "wordNumber": "4.7.2.4.1",
+   "subjectFullName": "消毒学_消毒应用_口岸消毒",
+   "subjectName": "口岸消毒",
+   "publishYear": "2025",
+   "definition": "对有染疫风险的进出境集装箱，以杀灭病原微生物为目的而采取的消毒措施。"
+  },
+  {
+   "cn": "进出境货物消毒",
+   "en": "disinfection of entry-exit good",
+   "source": "消毒学",
+   "wordNumber": "4.7.2.4.2",
+   "subjectFullName": "消毒学_消毒应用_口岸消毒",
+   "subjectName": "口岸消毒",
+   "publishYear": "2025",
+   "definition": "对有染疫风险的进出境货物，以杀灭病原体为目的而采取的消毒措施。"
+  },
+  {
+   "cn": "进出境列车消毒",
+   "en": "disinfection of entry-exit train",
+   "source": "消毒学",
+   "wordNumber": "4.7.2.5",
+   "subjectFullName": "消毒学_消毒应用_口岸消毒",
+   "subjectName": "口岸消毒",
+   "publishYear": "2025",
+   "definition": "对有染疫风险的进出境列车，以杀灭病原体为目的而采取的消毒措施。"
+  },
+  {
+   "cn": "进出境运输工具消毒",
+   "en": "disinfection of entry-exit transport vehicle",
+   "source": "消毒学",
+   "wordNumber": "4.7.2",
+   "subjectFullName": "消毒学_消毒应用_口岸消毒",
+   "subjectName": "口岸消毒",
+   "publishYear": "2025",
+   "definition": "对有染疫风险的进出境运输工具，以杀灭病原微生物为目的而采取的消毒措施。"
+  },
+  {
+   "cn": "进出境陆生动物消毒",
+   "en": "disinfection of entry-exit terrestrial animal",
+   "source": "消毒学",
+   "wordNumber": "4.7.3.4",
+   "subjectFullName": "消毒学_消毒应用_口岸消毒",
+   "subjectName": "口岸消毒",
+   "publishYear": "2025",
+   "definition": "针对进出境陆生动物及与其相关的物料和场所可能携带的病原体所进行的消毒措施。"
+  },
+  {
+   "cn": "进出境水生动物消毒",
+   "en": "disinfection of entry-exit aquatic animal",
+   "source": "消毒学",
+   "wordNumber": "4.7.3.5",
+   "subjectFullName": "消毒学_消毒应用_口岸消毒",
+   "subjectName": "口岸消毒",
+   "publishYear": "2025",
+   "definition": "针对进出境水生动物及其相关的物料可能携带的病原体所进行的消毒措施。"
+  },
+  {
+   "cn": "进出境航空器客舱消毒",
+   "en": "disinfection of cabin of entry-exit aircraft",
+   "source": "消毒学",
+   "wordNumber": "4.7.2.3.1",
+   "subjectFullName": "消毒学_消毒应用_口岸消毒",
+   "subjectName": "口岸消毒",
+   "publishYear": "2025",
+   "definition": "对有染疫风险的进出境航空器客舱，以清除并杀灭病原体为目的而采取的消毒措施。"
+  },
+  {
+   "cn": "进出境集装箱及货物消毒",
+   "en": "disinfection of entry-exit container and cargo",
+   "source": "消毒学",
+   "wordNumber": "4.7.2.4",
+   "subjectFullName": "消毒学_消毒应用_口岸消毒",
+   "subjectName": "口岸消毒",
+   "publishYear": "2025",
+   "definition": "对有染疫风险的进出境集装箱及其货物，以清除并杀灭病原体为目的而采取的消毒措施。"
+  },
+  {
+   "cn": "进出境船舶船舱消毒",
+   "en": "disinfection of entry-exit ships and their cabin",
+   "source": "消毒学",
+   "wordNumber": "4.7.2.2",
+   "subjectFullName": "消毒学_消毒应用_口岸消毒",
+   "subjectName": "口岸消毒",
+   "publishYear": "2025",
+   "definition": "对有染疫风险的进出境船舶、船舱，以杀灭病原微生物为目的而采取的消毒措施。"
+  },
+  {
+   "cn": "进出境航空器货舱消毒",
+   "en": "disinfection of cargo hold of entry-exit aircraft",
+   "source": "消毒学",
+   "wordNumber": "4.7.2.3.2",
+   "subjectFullName": "消毒学_消毒应用_口岸消毒",
+   "subjectName": "口岸消毒",
+   "publishYear": "2025",
+   "definition": "对有染疫风险的进出境航空器货舱，以杀灭病原体为目的而采取的消毒措施。"
+  },
+  {
+   "cn": "进出境动物防疫消毒",
+   "en": "epidemic prevention and disinfection of entry-exit animal",
+   "source": "消毒学",
+   "wordNumber": "4.7.3",
+   "subjectFullName": "消毒学_消毒应用_口岸消毒",
+   "subjectName": "口岸消毒",
+   "publishYear": "2025",
+   "definition": "通过物理、化学、生物等技术方法，清除并杀灭进出境动物及其运输工具、笼具、铺垫材料、饲草以及进境动物隔离检疫场中所有病原体的消毒措施。"
+  },
+  {
+   "cn": "进出境动物产品防疫消毒",
+   "en": "epidemic prevention and disinfection of entry-exit animal product",
+   "source": "消毒学",
+   "wordNumber": "4.7.3.3",
+   "subjectFullName": "消毒学_消毒应用_口岸消毒",
+   "subjectName": "口岸消毒",
+   "publishYear": "2025",
+   "definition": "针对进出境动物产品可能携带的病原体，通过物理、化学、生物等技术方法防止动物疫病发生蔓延的消毒措施。"
+  },
+  {
+   "cn": "进出境水生动物相关场地消毒",
+   "en": "disinfection of relevant venues for entry-exit aquatic animal",
+   "source": "消毒学",
+   "wordNumber": "4.7.3.5.1",
+   "subjectFullName": "消毒学_消毒应用_口岸消毒",
+   "subjectName": "口岸消毒",
+   "publishYear": "2025",
+   "definition": "针对具有染疫风险的进出境水生动物相关场所清除且杀灭病原体所进行的消毒措施。"
+  },
+  {
+   "cn": "出入境皮、毛、绒防疫消毒",
+   "en": "epidemic prevention and disinfection of entry-exit leather, wool and velvet",
+   "source": "消毒学",
+   "wordNumber": "4.7.3.3.1",
+   "subjectFullName": "消毒学_消毒应用_口岸消毒",
+   "subjectName": "口岸消毒",
+   "publishYear": "2025",
+   "definition": "针对出入境的皮、毛、绒及其装载容器、包装物可能携带的病原体所进行的消毒措施。"
+  },
+  {
+   "cn": "医事法",
+   "en": "medical jurisprudence",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.185",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学相关学科",
+   "subjectName": "医学伦理学相关学科",
+   "publishYear": "2025",
+   "definition": "在卫生法中主要调整医疗服务法律关系的法律法规总称。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

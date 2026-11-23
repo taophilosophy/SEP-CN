@@ -1,0 +1,702 @@
+{
+ "key": "infinite attributes",
+ "term": "infinite attributes",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T03:27:12+00:00",
+ "status": "ok",
+ "note": "variant=infinite attributes; 审定公布名词库=383; 海峡两岸名词对照库=186; 其他来源数据库=37; 预公布名词数据库=24; jwt-direct（JWT 直连，raw 略；已滤维基 11 条）",
+ "hits": [
+  {
+   "cn": "无限",
+   "en": "infinite",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.065",
+   "subjectFullName": "自然辩证法_自然哲学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2024",
+   "definition": "观测对象的描述参量赋值没有边界，或参量赋值已经超过可观测的数量范围。人类具有不断把“有限”边界向其推动的观测能力。"
+  },
+  {
+   "cn": "无穷[的]",
+   "en": "infinite",
+   "source": "数学名词",
+   "wordNumber": "01.0128",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "属性",
+   "en": "attribute",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.013",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "物质的固有特性，在划分事物概念时所选择的划分标准。有本质属性和非本质属性之分，文献分类要以文献的内容属性作为主要标准。"
+  },
+  {
+   "cn": "属性",
+   "en": "attribute",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0121",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "数据库技术中实体特征的抽象。例如实体教师的属性包括“姓名”“职称”和“特长”等。"
+  },
+  {
+   "cn": "属性",
+   "en": "attribute",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0307",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "面向对象技术中一个用于描述对象静态特征的数据项。"
+  },
+  {
+   "cn": "属性",
+   "en": "attribute",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0432",
+   "subjectFullName": "管理科学技术_运筹与管理_评价理论与方法",
+   "subjectName": "评价理论与方法",
+   "publishYear": "2016",
+   "definition": "研究对象本质特征的概况。"
+  },
+  {
+   "cn": "属性",
+   "en": "attribute",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.777",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "描述地理要素的特点、性质或特征。在关系数据模型中描述某个实体的一种事实，相当于关系表中的一个栏。"
+  },
+  {
+   "cn": "属性",
+   "en": "attribute",
+   "source": "地理学名词",
+   "wordNumber": "30.002",
+   "subjectFullName": "地理学_地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2006",
+   "definition": "描述地理要素的特点、性质或特征。在关系数据模型中描述某个实体的一种事实，相当于关系表中的一个栏。"
+  },
+  {
+   "cn": "属性",
+   "en": "attribute",
+   "source": "石油名词",
+   "wordNumber": "03.0878",
+   "subjectFullName": "石油_石油地球物理",
+   "subjectName": "石油地球物理",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "交代消息来源",
+   "en": "attribution",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.132",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻写作",
+   "subjectName": "新闻写作",
+   "publishYear": "2022",
+   "definition": "在新闻报道中明确写出事实或观点出处的做法。表明事实和观点从何而来，由谁提供。重视交代消息来源是新闻写作的一大特征。"
+  },
+  {
+   "cn": "归因",
+   "en": "attribution",
+   "source": "行为医学名词",
+   "wordNumber": "4.054",
+   "subjectFullName": "行为医学_行为的心理学基础_认知与行为",
+   "subjectName": "认知与行为",
+   "publishYear": "2022",
+   "definition": "个体根据相关信息和线索推测与判断行为或态度的原因的过程。"
+  },
+  {
+   "cn": "归因",
+   "en": "attribution",
+   "source": "心理学名词",
+   "wordNumber": "07.027",
+   "subjectFullName": "心理学_社会心理学",
+   "subjectName": "社会心理学",
+   "publishYear": "2014",
+   "definition": "个体根据有关信息、线索推测与判断行为或态度的原因的过程。"
+  },
+  {
+   "cn": "定语",
+   "en": "attributive",
+   "source": "语言学名词",
+   "wordNumber": "04.204",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "句法成分的一种。是体词性偏正短语中的修饰语，位于中心语之前。一般可分为描写性的和限制性的，从领属、性质、状态、数量、材料、用途等多方面修饰、限制、说明中心语。例如，“（我的）衣服”“（新）书包”“（高"
+  },
+  {
+   "cn": "无限含水层",
+   "en": "infinite aquifer",
+   "source": "地质学名词",
+   "wordNumber": "16.01.073",
+   "subjectFullName": "地质学_水文地质学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "抽水井或井群的降落漏斗在平面上可自由向外扩展，而不受含水层实际边界影响的含水层。"
+  },
+  {
+   "cn": "无限大母线",
+   "en": "infinite bus",
+   "source": "电力名词",
+   "wordNumber": "04.149",
+   "subjectFullName": "电力_电力系统",
+   "subjectName": "电力系统",
+   "publishYear": "2020",
+   "definition": "电网的一个节点,此节点电压的幅值、相位和频率预先设定,在各种运行条件下保持恒定。"
+  },
+  {
+   "cn": "无限大平面",
+   "en": "infinite plane",
+   "source": "物理学名词",
+   "wordNumber": "01.0351",
+   "subjectFullName": "物理学_通类_数学",
+   "subjectName": "数学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "无限群",
+   "en": "infinite group",
+   "source": "物理学名词",
+   "wordNumber": "01.0487",
+   "subjectFullName": "物理学_通类_数学",
+   "subjectName": "数学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "无穷维",
+   "en": "infinite dimension",
+   "source": "物理学名词",
+   "wordNumber": "01.0372",
+   "subjectFullName": "物理学_通类_数学",
+   "subjectName": "数学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "无限稀释",
+   "en": "infinite dilution",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "02.0264",
+   "subjectFullName": "化工（三）_化工热力学",
+   "subjectName": "化工热力学",
+   "publishYear": "2019",
+   "definition": "混合溶液中，一种组分的摩尔分数趋近于0，其他组分总摩尔分数趋近于1时的情况。"
+  },
+  {
+   "cn": "无限产能排程",
+   "en": "infinite scheduling",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0413",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_生产运作管理",
+   "subjectName": "生产运作管理",
+   "publishYear": "2016",
+   "definition": "在安排作业计划过程中不考虑可用产能的大小。"
+  },
+  {
+   "cn": "属性",
+   "en": "attribute",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "属性",
+   "en": "attribute",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "属性",
+   "en": "attribute",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "属性",
+   "en": "attribute",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "归因",
+   "en": "attribution",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "无限稀释",
+   "en": "infinite dilution",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "无限回流",
+   "en": "infinite reflux",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "无限种群",
+   "en": "infinite population",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "无限群体",
+   "en": "infinite population",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "无穷集",
+   "en": "infinite set",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "无穷目标",
+   "en": "infinite goal",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "无限网",
+   "en": "infinite net",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "属性查询",
+   "en": "attribute search\",\"attribute query",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "属性类型",
+   "en": "attribute type\",\"attribute class",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "土地属性",
+   "en": "land attributes",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "先天属性",
+   "en": "congenital attribute",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "属性变量",
+   "en": "attribute variable",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "决定性属性",
+   "en": "determinant attribute",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "实体属性",
+   "en": "entity attribute",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "属性查询",
+   "en": "attribute search",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "性分",
+   "en": "Natural Attribute",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "分",
+   "en": "Natural Attribute",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "隐私属性",
+   "en": "privacy attribute",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "属性加密",
+   "en": "attribute encryption",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "才",
+   "en": "Talent/Capability/ Attribute",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据法律属性",
+   "en": "legal attributes of data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《YD/T 2707-2014 互联网主机网络安全属性描述格式》",
+   "en": "YD/T 2707-2014 Host network security attribute description format",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 16264.8-2005 信息技术 开放系统互连 目录 第8部分：公钥和属性证书框架》",
+   "en": "GB/T 16264.8-2005 Information technology — Open systems interconnection — Directory — Part 8: Public-key and attribute certificate frameworks",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无穷",
+   "en": "Limitlessness / Infinity",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "归因",
+   "en": "attribution",
+   "source": "社会学名词",
+   "wordNumber": "4.1.9.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会推断",
+   "subjectName": "社会推断",
+   "publishYear": "2025",
+   "definition": "人类的一种普遍需要，指根据有关的外部信息或线索来推测其行为理由的过程。通常分内归因与外归因，前者用信念、价值、人格或动机等个人内部原因对行为理由进行推测，后者则用外部的客观条件进行推测。"
+  },
+  {
+   "cn": "属性名",
+   "en": "attribute name",
+   "source": "消毒学",
+   "wordNumber": "5.2.5.1.2",
+   "subjectFullName": "消毒学_监督管理_产品监管",
+   "subjectName": "产品监管",
+   "publishYear": "2025",
+   "definition": "消毒产品名称中表示产品客观形态的文字。"
+  },
+  {
+   "cn": "自然属性",
+   "en": "natural attribute",
+   "source": "马克思主义",
+   "wordNumber": "01.0142",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "自然界事物本身固有的面貌、活动规律、特性等。"
+  },
+  {
+   "cn": "属性名称",
+   "en": "attribute name",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.3.30",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品标准",
+   "subjectName": "食品标准",
+   "publishYear": "2025",
+   "definition": "能反映食品本身不必说明或已经说明的固有特性的专用名称，包括对配料特征、工艺特点、食品类别等一种或多种食品专属特征的描述。"
+  },
+  {
+   "cn": "有限和无限",
+   "en": "finite and infinite",
+   "source": "马克思主义",
+   "wordNumber": "01.0045",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "有限是指客观事物及其运动在时间和空间上有始有终、有边际、可穷尽的属性；无限是指物质世界及其运动在时间和空间上无始无终、无边际、不可穷尽的属性。无限存在于有限之中，通过有限表现出自身的多样性；有限之中包"
+  },
+  {
+   "cn": "归因偏误",
+   "en": "attribution bias",
+   "source": "社会学名词",
+   "wordNumber": "4.1.9.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会推断",
+   "subjectName": "社会推断",
+   "publishYear": "2025",
+   "definition": "认知者在归因过程中因受到人类认知过程本身固有的局限的制约，或自身动机（如自我提升动机）的诱导，而系统地表现出来的偏误。常见的有基本归因错误（谬误）、行为者与观察者的归因偏误、利已主义归因偏误、低估一致"
+  },
+  {
+   "cn": "分类归因",
+   "en": "category attribution",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.13.5",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "将某种特定疾病病例按不同类别危害因素导致的病例分类溯源分析。"
+  },
+  {
+   "cn": "病因学归因",
+   "en": "etiology attribution",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.13.4",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "将食源性疾病病例按特定致病因素进行分类归因，如微生物病原体或生物毒素等。"
+  },
+  {
+   "cn": "食物归因",
+   "en": "food attribution",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.13.3",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "将某特定食源性疾病病例归因于某食物载体（来源）。"
+  },
+  {
+   "cn": "归因",
+   "en": "source attribution",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.13",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "将特定疾病的负担按特定的来源或危害因素分类溯源分析。"
+  },
+  {
+   "cn": "归因危险",
+   "en": "attributable risk，AR",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.3.13",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_效应指标",
+   "subjectName": "效应指标",
+   "publishYear": "2025",
+   "definition": "暴露组中可归因于该暴露的疾病或其他健康结局的率。通常表示为暴露组的发病或死亡率减去非暴露组的发病或死亡率。有时也指人群归因分数、暴露组归因分数、人群超额率、率差等。"
+  },
+  {
+   "cn": "基本归因错误",
+   "en": "fundamental attribution error",
+   "source": "社会学名词",
+   "wordNumber": "4.1.9.3",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会推断",
+   "subjectName": "社会推断",
+   "publishYear": "2025",
+   "definition": "在考察他人行为的原因时，人们通常会有一种高估行为者个人内部特质影响，而低估情景性因素影响的普遍倾向。"
+  },
+  {
+   "cn": "根本的归因偏差",
+   "en": "ultimate attribution error",
+   "source": "社会学名词",
+   "wordNumber": "4.1.9.4",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会推断",
+   "subjectName": "社会推断",
+   "publishYear": "2025",
+   "definition": "基本归因错误在群际过程中的一种表现形式，指人们在对群体行为进行归因时所存在的偏袒内群体、歧视外群体的偏差，即人们倾向于将外群体的消极负面的行为归因为其所拥有的稳定特质，将外群体的积极正面的行为视为例外"
+  },
+  {
+   "cn": "人群归因分数",
+   "en": "population attributable fraction",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.5.17",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "人群中因特定暴露而导致特定疾病或其他不良状况的所有病例的比例。"
+  },
+  {
+   "cn": "归因分值",
+   "en": "source attribution fraction",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.13.2",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "某危险因素或某来源导致特定疾病的负担占该疾病总负担的比例。"
+  },
+  {
+   "cn": "人群归因风险",
+   "en": "population attributable risk",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.13.1",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "总人群（暴露和未暴露）中由暴露导致的疾病发病率的比例，指总体人群与未暴露人群的风险之差。"
+  },
+  {
+   "cn": "疫苗经济学属性",
+   "en": "economic attribute of vaccine",
+   "source": "卫生经济学名词",
+   "wordNumber": "13.5.1",
+   "subjectFullName": "卫生经济学名词_药物经济学_疫苗经济学",
+   "subjectName": "疫苗经济学",
+   "publishYear": "2025",
+   "definition": "疫苗通常作为预防疾病的公共卫生措施，其自身具有显著的经济学的属性，主要包括外部性、公共产品、有益物品、跨期偏好。"
+  },
+  {
+   "cn": "人群归因危险",
+   "en": "population attributable risk，PAR",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.3.12",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_效应指标",
+   "subjectName": "效应指标",
+   "publishYear": "2025",
+   "definition": "总人群与非暴露组人群某病发病（死亡）率之差，为总人群发病（死亡）率中归因于暴露的部分。"
+  },
+  {
+   "cn": "终生归因危险",
+   "en": "lifetime attributable risk，LAR",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.3.15",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_效应指标",
+   "subjectName": "效应指标",
+   "publishYear": "2025",
+   "definition": "在美国电离辐射生物效应委员会（BEIR）VII报告中引入的一个新的反映辐射归因危险的指标。它是辐射超额绝对危险与生存概率之积从受照年龄到100岁的加和。"
+  },
+  {
+   "cn": "人群健康归因危险度",
+   "en": "population health attributable risk",
+   "source": "社会医学名词",
+   "wordNumber": "9.14",
+   "subjectFullName": "社会卫生状况评价",
+   "subjectName": "人群健康归因危险度",
+   "publishYear": "2025",
+   "definition": "应用人群归因危险度计算原理，将全人群健康问题中归因于某一个社会经济特征（如收入、教育、职业等）部分，当全人群的患病率或死亡率等于最高社会经济状况人群的患病率或死亡率时，全人群所减少的患病率或死亡率。测"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

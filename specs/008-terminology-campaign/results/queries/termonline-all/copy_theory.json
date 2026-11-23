@@ -1,0 +1,622 @@
+{
+ "key": "copy theory",
+ "term": "copy theory",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T03:23:43+00:00",
+ "status": "ok",
+ "note": "variant=copy theory; 审定公布名词库=2299; 海峡两岸名词对照库=798; 其他来源数据库=176; 预公布名词数据库=258; jwt-direct（JWT 直连，raw 略；已滤维基 19 条）",
+ "hits": [
+  {
+   "cn": "拷贝",
+   "en": "copying",
+   "source": "编辑与出版学名词",
+   "wordNumber": "03.02.133",
+   "subjectFullName": "编辑与出版学_印刷_印前工艺",
+   "subjectName": "印前工艺",
+   "publishYear": "2022",
+   "definition": "复制再现原图像的过程。"
+  },
+  {
+   "cn": "仿形加工",
+   "en": "copying",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "09.096",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_切削加工工艺与设备_切削加工工艺_切削加工方法",
+   "subjectName": "切削加工方法",
+   "publishYear": "2021",
+   "definition": "仿照模型轮廓或依据有关轮廓的数据，通过随动系统控制加工工具或工件的运动轨迹，加工出有同样轮廓形状的工件的加工方法。"
+  },
+  {
+   "cn": "残本",
+   "en": "shaken copy,imperfect copy,defective copy,worn-out copy",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.592",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_文献保护",
+   "subjectName": "文献保护",
+   "publishYear": "2019",
+   "definition": "卷数或页数残缺、内容不完整或有倒页、重页的书本。主要分两种类型：一类是书本在使用过程中因人为或自然的因素造成破损缺漏；另一类是书本因装订不慎造成缺页、倒页、污损等现象。"
+  },
+  {
+   "cn": "仿形装置",
+   "en": "copying device,copying attachment",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "09.389",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_切削加工工艺与设备_金属切削机床_机床零部件",
+   "subjectName": "机床零部件",
+   "publishYear": "2021",
+   "definition": "用于仿形加工的装置。"
+  },
+  {
+   "cn": "拷贝数",
+   "en": "copy number",
+   "source": "农学名词",
+   "wordNumber": "15.366",
+   "subjectFullName": "农业生物技术_转基因安全",
+   "subjectName": "转基因安全",
+   "publishYear": "2025",
+   "definition": "每个细胞中所含的某一质粒或每个基因组中某一序列相同的DNA片段的平均分子数。"
+  },
+  {
+   "cn": "单拷贝",
+   "en": "single copy",
+   "source": "农学名词",
+   "wordNumber": "15.367",
+   "subjectFullName": "农业生物技术_转基因安全",
+   "subjectName": "转基因安全",
+   "publishYear": "2025",
+   "definition": "特定DNA片段在生物基因组中只有一个复制的现象。"
+  },
+  {
+   "cn": "缮印",
+   "en": "copy printing",
+   "source": "档案学名词",
+   "wordNumber": "02.03.015",
+   "subjectFullName": "档案学_文件管理_公文处理",
+   "subjectName": "公文处理",
+   "publishYear": "2024",
+   "definition": "发文处理的环节之一。以誊录抄写、印刷、电子化等方式制作对外发出的公文。"
+  },
+  {
+   "cn": "拷贝片",
+   "en": "copy film",
+   "source": "档案学名词",
+   "wordNumber": "05.04.019",
+   "subjectFullName": "档案学_档案保护_档案复制",
+   "subjectName": "档案复制",
+   "publishYear": "2024",
+   "definition": "能保持母片极性和尺寸的复制缩微品。"
+  },
+  {
+   "cn": "硬拷贝",
+   "en": "hard copy",
+   "source": "档案学名词",
+   "wordNumber": "05.04.033",
+   "subjectFullName": "档案学_档案保护_档案复制",
+   "subjectName": "档案复制",
+   "publishYear": "2024",
+   "definition": "缩微影像的放大影像，通常是在纸上，可裸视直读。"
+  },
+  {
+   "cn": "基因拷贝",
+   "en": "gene copy",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0014",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_基因及其功能_结构",
+   "subjectName": "结构",
+   "publishYear": "2024",
+   "definition": "基因组内完整地出现同一个基因的DNA序列。只出现一次的基因称“单拷贝基因（single-copy gene）”，重复出现多次的基因称“多拷贝基因（multicopy gene）”。"
+  },
+  {
+   "cn": "文字编辑",
+   "en": "copy editor",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.164",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻编辑",
+   "subjectName": "新闻编辑",
+   "publishYear": "2022",
+   "definition": "对新闻报道的文字稿进行核实、修订、改写、校对，并进行组版工作的编辑。"
+  },
+  {
+   "cn": "样书",
+   "en": "sample copy",
+   "source": "编辑与出版学名词",
+   "wordNumber": "01.03.073",
+   "subjectFullName": "编辑与出版学_综论_出版基础",
+   "subjectName": "出版基础",
+   "publishYear": "2022",
+   "definition": "用以检查质量、赠送作者和缴送有关单位收藏的图书样本。"
+  },
+  {
+   "cn": "通稿",
+   "en": "wire copy",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.08.105",
+   "subjectFullName": "编辑与出版学_编辑_报刊编辑",
+   "subjectName": "报刊编辑",
+   "publishYear": "2022",
+   "definition": "以一种统一的稿件方式给全国媒体刊发的重要新闻。"
+  },
+  {
+   "cn": "复印比",
+   "en": "copy ratio",
+   "source": "编辑与出版学名词",
+   "wordNumber": "04.02.053",
+   "subjectFullName": "编辑与出版学_音像复制_磁带复制",
+   "subjectName": "磁带复制",
+   "publishYear": "2022",
+   "definition": "额定输出电平与复印电平之差，以分贝表示。"
+  },
+  {
+   "cn": "批量复制",
+   "en": "bulk copy",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.02.115",
+   "subjectFullName": "编辑与出版学_数字出版_音像出版",
+   "subjectName": "音像出版",
+   "publishYear": "2022",
+   "definition": "将母带、母盘上的信息进行成批翻录的生产活动。"
+  },
+  {
+   "cn": "预印本",
+   "en": "preprinted copy",
+   "source": "编辑与出版学名词",
+   "wordNumber": "07.02.014",
+   "subjectFullName": "编辑与出版学_出版物_图书",
+   "subjectName": "图书",
+   "publishYear": "2022",
+   "definition": "出版物正式出版前印制的版本。"
+  },
+  {
+   "cn": "单册",
+   "en": "single copy",
+   "source": "编辑与出版学名词",
+   "wordNumber": "07.02.058",
+   "subjectFullName": "编辑与出版学_出版物_图书",
+   "subjectName": "图书",
+   "publishYear": "2022",
+   "definition": "独立成册出版的出版物。"
+  },
+  {
+   "cn": "广告文案",
+   "en": "advertising copy",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "21.272",
+   "subjectFullName": "新闻学与传播学_广告_广告作品",
+   "subjectName": "广告作品",
+   "publishYear": "2022",
+   "definition": "广告创意的文字表达。体现广告主题，塑造广告形象，传播信息内容的语言文字总称。由标题、副标题、广告正文、广告口号组成。是广告内容的文字化表现。"
+  },
+  {
+   "cn": "广告正文",
+   "en": "body copy",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "21.273",
+   "subjectFullName": "新闻学与传播学_广告_广告作品",
+   "subjectName": "广告作品",
+   "publishYear": "2022",
+   "definition": "广告文案中处于主体地位的语言文字部分。其主要功能是展开解释或说明广告主题，将在广告标题中引出的广告信息进行较详细的介绍，对目标消费者展开细致诉求。"
+  },
+  {
+   "cn": "拷贝数",
+   "en": "copy number ",
+   "source": "草学名词",
+   "wordNumber": "5.0169",
+   "subjectFullName": "草学_草业生物技术",
+   "subjectName": "草业生物技术",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "拷贝",
+   "en": "copy",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "基因拷贝",
+   "en": "gene copy",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "拷贝数",
+   "en": "copy number",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "复印纸",
+   "en": "copy paper",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "模板选择假说",
+   "en": "copy choicehypothesis",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "基因拷贝",
+   "en": "gene copy",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "屏幕拷贝",
+   "en": "screen copy",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "硬拷贝",
+   "en": "hard copy",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "拷贝数",
+   "en": "copy number",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "模板选择",
+   "en": "copy choice",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "基因拷贝",
+   "en": "gene copy",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "多拷贝",
+   "en": "multi-copy",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "反光晒印[相片]",
+   "en": "reflection copy",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "稿图架",
+   "en": "copy holder",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "透明原稿",
+   "en": "transparency copy",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "像元复制，像素复制",
+   "en": "pixel copy",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "样张",
+   "en": "proof copy",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "照相原稿",
+   "en": "camera copy",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "草稿",
+   "en": "draft copy",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抄件",
+   "en": "courtesy copy",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "批量复制模式",
+   "en": "bulk copy mode",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "模仿理论",
+   "en": "copy-cat theory",
+   "source": "社会学名词",
+   "wordNumber": "3.8.2.8",
+   "subjectFullName": "社会学名词_分支社会学_文化社会学_大众传媒研究",
+   "subjectName": "大众传媒研究",
+   "publishYear": "2025",
+   "definition": "一种有关个体或群体仿效他人的行为、习惯等的理论。在大众传媒研究中，该理论主要用以分析大众媒体对受众的影响，解释大众传媒影响下的群体或个体行为的发生动机和相似性现象。"
+  },
+  {
+   "cn": "理论",
+   "en": "theory",
+   "source": "马克思主义",
+   "wordNumber": "01.0119",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "关于自然、社会和人自身的本质规律的抽象、合乎逻辑的一般推论或假说。理论来源于实践，接受实践的检验。理论服务于实践，随着实践的发展而发展。"
+  },
+  {
+   "cn": "原型理论",
+   "en": "prototype theory",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0031",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "认知科学的一种理论模型。认为人类对事物进行分类（范畴化）的过程并不存在非此即彼的明确界限，某一范畴中的核心成员会比其他成员更具典型性。例如在“飞禽”这个范畴里，“燕雀”比“鸡鸭”更具“飞禽”的特征。语"
+  },
+  {
+   "cn": "波浪理论",
+   "en": "wave theory",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.003",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "研究语言演变的一种动态模型。一种创新的语言特征从起源地往外扩散，其影响类似波浪扩散、随传播距离逐渐减小。"
+  },
+  {
+   "cn": "阶层化社会理论",
+   "en": "caste theory",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0143",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "美国教育人类学家奥格布（John Uzo Ogbu）提出，他认为少数民族的历史经历、社会地位以及由此造成的各种障碍等，必然会影响他们的学习态度和教育期望。"
+  },
+  {
+   "cn": "扎根理论",
+   "en": "grounded theory",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.7",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "对定性资料进行归纳、抽绎出理论概念、生成理论洞见的定性资料分析方法。是由格拉泽和施特劳斯提出的。"
+  },
+  {
+   "cn": "测量理论",
+   "en": "measurement theory",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.23",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "关于测量的性质和方法的理论。主要包括经典测量理论、概化理论和项目反应理论三种理论模型。"
+  },
+  {
+   "cn": "概化理论",
+   "en": "generalizability theory",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.33",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "克伦巴赫等人在20世纪60至70年代初提出一种测量理论。思想上，认为测量对象的值受到测量条件和环境的影响；概念上，用全域分数代替了经典测量理论的真分数，用概括化系数代替了信度；技术上，应用方法分析技术"
+  },
+  {
+   "cn": "社会理论",
+   "en": "social theory",
+   "source": "社会学名词",
+   "wordNumber": "2.1.7.6",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会意识",
+   "subjectName": "社会意识",
+   "publishYear": "2025",
+   "definition": "以社会学视角和方法对人类社会现象及问题所进行的各种系统性的理论探讨。重点涉及一切关于社会何以构成、存续和变迁的理论思考，以及关于这类理论思考何以可能（或合理）的认识论探讨。与“应用社会学”相对。"
+  },
+  {
+   "cn": "冲突理论",
+   "en": "conflict theory",
+   "source": "社会学名词",
+   "wordNumber": "2.6.6.6",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会分层理论",
+   "subjectName": "社会分层理论",
+   "publishYear": "2025",
+   "definition": "与结构功能主义理论相对立的社会学理论流派，该派理论家借鉴马克思的阶级冲突理论或马克斯•韦伯的权力冲突观点，强调个人或群体之间的经济利益冲突和权力冲突，对结构功能主义理论（特别是功能主义社会分层理论）提"
+  },
+  {
+   "cn": "现代化理论",
+   "en": "modernization theory",
+   "source": "社会学名词",
+   "wordNumber": "2.9.1.1",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_现代化理论",
+   "subjectName": "现代化理论",
+   "publishYear": "2025",
+   "definition": "产生于20世纪50、60年代，以塔尔科特帕森斯、列维（M.J.Levy）、英克尔斯（A.Inkeles）和艾森斯塔德（S.N.Eisenstadt）等人为代表，以研究传统社会的现代转化为主旨的理论。"
+  },
+  {
+   "cn": "依附理论",
+   "en": "dependency theory",
+   "source": "社会学名词",
+   "wordNumber": "2.9.2.1",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_依附理论",
+   "subjectName": "依附理论",
+   "publishYear": "2025",
+   "definition": "产生于20世纪60年代后期的一种发展理论，以弗兰克（Andre Frank）、多斯桑托斯（Theotonio Dos Santos）、阿明（Samir Amin）等人为代表，认为发达国家和发展中国家之"
+  },
+  {
+   "cn": "紧张理论",
+   "en": "strain theory",
+   "source": "社会学名词",
+   "wordNumber": "2.10.2.4",
+   "subjectFullName": "社会学名词_社会学一般概念_社会问题与社会控制_社会越轨",
+   "subjectName": "社会越轨",
+   "publishYear": "2025",
+   "definition": "解释社会越轨行为的一种理论。认为当一些人无法通过合法手段达到社会普遍认可的成功目标时，就会产生挫折感等紧张情绪，从而形成个人的目标和社会规范之间的冲突状态，进而引发越轨行为或者犯罪行为。由美国社会学家"
+  },
+  {
+   "cn": "标签理论",
+   "en": "labeling theory",
+   "source": "社会学名词",
+   "wordNumber": "2.10.2.7",
+   "subjectFullName": "社会学名词_社会学一般概念_社会问题与社会控制_社会越轨",
+   "subjectName": "社会越轨",
+   "publishYear": "2025",
+   "definition": "解释社会越轨行为的一种理论。把越轨行为分为初级越轨行为和继发越轨行为，并认为越轨行为的性质不在于行为本身，而是社会的定义和解释。因此，只有当一个行为被社会定义为越轨行为时，其行为者才会成为越轨行为者。"
+  },
+  {
+   "cn": "立场论",
+   "en": "standpoint theory",
+   "source": "社会学名词",
+   "wordNumber": "3.2.3.9",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别研究",
+   "subjectName": "性别研究",
+   "publishYear": "2025",
+   "definition": "女性主义认识论的一种主流观点，对传统认识论中的主客体两分法和价值中立的客观性原则持批判态度，认为从妇女日常生活经验和边缘化的底层立场出发，可以产生比男性主流知识更少偏见、更具有客观性的好知识。"
+  },
+  {
+   "cn": "博弈论",
+   "en": "game theory",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.14",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "研究多个个体或团队之间在特定条件制约下的对局里，利用相关方的策略而实施对应策略的理论。认为参加斗争或竞争的各方有不同的目标或利益，为了达到各自的目标和利益，各方必须考虑对手各种可能的行动方案，并力图选"
+  },
+  {
+   "cn": "权变理论",
+   "en": "contingency theory",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.22",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "认为没有普遍适用的、最合理的管理模式与原则，内部特征与所处环境的要求相匹配的组织适应性最强，所以组织必须随机制宜地处理管理问题的理论观点。"
+  },
+  {
+   "cn": "品味理论",
+   "en": "taste theory",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.32",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "布迪厄以美学品味的议题为基础所发展出的社会阶层化理论。认为品味，也即人们对于饮食、文化和艺术表演的喜好等都是阶级指标，人们的这些消费倾向都对应于个人在社会中的位置。"
+  },
+  {
+   "cn": "法律思想",
+   "en": "legal theory",
+   "source": "社会学名词",
+   "wordNumber": "3.7.8.4",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律文化",
+   "subjectName": "法律文化",
+   "publishYear": "2025",
+   "definition": "关于法和法律现象的观点、理论和学说。"
+  },
+  {
+   "cn": "接受理论",
+   "en": "reception theory",
+   "source": "社会学名词",
+   "wordNumber": "3.8.2.3",
+   "subjectFullName": "社会学名词_分支社会学_文化社会学_大众传媒研究",
+   "subjectName": "大众传媒研究",
+   "publishYear": "2025",
+   "definition": "文学理论中关于读者反应的一种学说，强调读者对文学作品的接受程度，讨论文学作品与读者之间的关系。德国美学家姚斯(H.R.Jauss）在20世纪60年代最先提出该理论。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,702 @@
+{
+ "key": "logical content",
+ "term": "logical content",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T03:25:53+00:00",
+ "status": "ok",
+ "note": "variant=logical content; 审定公布名词库=2928; 海峡两岸名词对照库=978; 其他来源数据库=152; 预公布名词数据库=134; jwt-direct（JWT 直连，raw 略；已滤维基 11 条）",
+ "hits": [
+  {
+   "cn": "逻辑",
+   "en": "logic",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.359",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "通常指人们思考问题，从某些已知条件出发，推出合理的结论的规律。"
+  },
+  {
+   "cn": "逻辑主义",
+   "en": "logicism",
+   "source": "数学名词",
+   "wordNumber": "02.0304",
+   "subjectFullName": "数学_数理逻辑·数学基础_数学基础 ",
+   "subjectName": "数学基础",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "内容",
+   "en": "content",
+   "source": "档案学名词",
+   "wordNumber": "06.01.017",
+   "subjectFullName": "档案学_电子文件管理_综合",
+   "subjectName": "综合",
+   "publishYear": "2024",
+   "definition": "文件中所包含的表达作者意图的信息。文件的构成要素之一。"
+  },
+  {
+   "cn": "内容",
+   "en": "content",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "17.072",
+   "subjectFullName": "新闻学与传播学_媒体与传播法_公民(法人)的表达自由及禁限",
+   "subjectName": "公民(法人)的表达自由及禁限",
+   "publishYear": "2022",
+   "definition": "指向最终用户或观众的信息和体验。是通过某种媒介如言语、写作、艺术、现场活动等予以表达的东西。这个统称式的词汇将创作的价值一般化，无论是“写作”的作家，还是“拍电影”的制作人，都是“内容提供者”。内容本"
+  },
+  {
+   "cn": "内装物",
+   "en": "content",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.0633",
+   "subjectFullName": "食品科学技术_食品工程_食品专用技术与装备_贮藏保鲜",
+   "subjectName": "贮藏保鲜",
+   "publishYear": "2020",
+   "definition": "包装件内所装的产品或物品。"
+  },
+  {
+   "cn": "含量",
+   "en": "content",
+   "source": "计量学名词",
+   "wordNumber": "15.058",
+   "subjectFullName": "计量学_化学_化学测量的量",
+   "subjectName": "化学测量的量",
+   "publishYear": "2015",
+   "definition": "物质中所含组分的质量、摩尔或体积分数。"
+  },
+  {
+   "cn": "库容",
+   "en": "content",
+   "source": "数学名词",
+   "wordNumber": "011.0556",
+   "subjectFullName": "数学_运筹学_库存论·存储论",
+   "subjectName": "库存论?存储论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "争用",
+   "en": "contention",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.357",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "当两个站或更多个站在同一条公用传输信道上同时试图进行发送时，或者当彼此通常以单工方式操作的两个站同时试图进行发送时所引起的状态。"
+  },
+  {
+   "cn": "争用",
+   "en": "contention",
+   "source": "电子学名词",
+   "wordNumber": "21.371",
+   "subjectFullName": "电子学_通信",
+   "subjectName": "通信",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑和",
+   "en": "logical disjunction,logical sum",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.021",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "A和B两个检索项之间的布尔逻辑关系为“和”的运算。表示一篇文献只要含有A、B两项中的任何一项即可命中，通常用算符“或”或“OR”表示多个文件集并列的关系。"
+  },
+  {
+   "cn": "逻辑积",
+   "en": "logical product,logical multiplication",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.020",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "A和B两个检索项之间的布尔逻辑关系为“乘”的运算。表示一篇文献既含有检索项A，又含有检索项B才能命中，通常用算符“与”或“AND”表示其文件集相交的关系。"
+  },
+  {
+   "cn": "逻辑归档",
+   "en": "logical filing；logical archiving",
+   "source": "档案学名词",
+   "wordNumber": "06.03.012",
+   "subjectFullName": "档案学_电子文件管理_流程与方法",
+   "subjectName": "流程与方法",
+   "publishYear": "2024",
+   "definition": "具有档案价值的电子文件在归档之后仍然存储在业务系统中的归档方式。通常要求将其元数据移交到电子文件管理系统中，档案部门也可以委托业务部门对这些归档文件进行保管和提供利用，并对其管理工作进行指导和监督。"
+  },
+  {
+   "cn": "信念逻辑",
+   "en": "belief logic,doxastic logic",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0023",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "关于信念推理的逻辑。"
+  },
+  {
+   "cn": "内容检索",
+   "en": "content search,content retrieval",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.044",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_检索技术与方法",
+   "subjectName": "检索技术与方法",
+   "publishYear": "2019",
+   "definition": "（1）按文献的内容特征(如分类、主题、化合物代码等)在信息源中查询具有同一内容文献的方法。（2）根据多媒体内容中提取的语义特征，从大量信息源中提取具有相似特征的多媒体数据的检索方法。"
+  },
+  {
+   "cn": "本地化程度",
+   "en": "local content",
+   "source": "地理学名词",
+   "wordNumber": "18.030",
+   "subjectFullName": "地理学_经济地理学",
+   "subjectName": "经济地理学",
+   "publishYear": "2006",
+   "definition": "外资企业生产和采购的全部零部件与原材料中进入国(地区)所占比重，通常以价值计算。一般地，本地化程度越高，外资与当地的经济联系就越强。"
+  },
+  {
+   "cn": "逻辑实证论",
+   "en": "logical positivism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.022",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "认为仅有那些可经由经验观测加以证实的陈述才具有认知意义。与逻辑经验论有一定重合。"
+  },
+  {
+   "cn": "逻辑经验论",
+   "en": "logical empiricism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.023",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "主张逻辑与经验是人类知识的来源。主要代表是维也纳学派与柏林学派。"
+  },
+  {
+   "cn": "逻辑原子论",
+   "en": "logical atomism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.080",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "由罗素、维特根斯坦提出的哲学体系。认为世界由大量原子事实以及其关系组成；复杂命题可由原子命题和逻辑连词组成。"
+  },
+  {
+   "cn": "逻辑案卷",
+   "en": "logical file",
+   "source": "档案学名词",
+   "wordNumber": "06.03.017",
+   "subjectFullName": "档案学_电子文件管理_流程与方法",
+   "subjectName": "流程与方法",
+   "publishYear": "2024",
+   "definition": "计算机系统中一组互有联系的文件集合体，在逻辑上被作为一个案卷来处理，无论这些文件的物理存储位置如何。"
+  },
+  {
+   "cn": "逻辑多元主义",
+   "en": "logical pluralism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.280",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "关于有多少个正确的逻辑的一种哲学立场。认为正确的逻辑不止一个。相对的立场是逻辑一元主义。"
+  },
+  {
+   "cn": "逻辑",
+   "en": "logic",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "含量",
+   "en": "content",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "含量",
+   "en": "content",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "争用",
+   "en": "contention",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑记录",
+   "en": "logical record\",\"logic record",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "水汽含量",
+   "en": "moisture content\",\"water content",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "本地化程度",
+   "en": "local content",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑效度",
+   "en": "logical validity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑实证论",
+   "en": "logical positivism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑思维",
+   "en": "logical thinking",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑经验论",
+   "en": "logical empiricism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑实证论",
+   "en": "logical positivism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑表达",
+   "en": "logical expression",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑查询",
+   "en": "logical query",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑单元",
+   "en": "logical unit",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑关系",
+   "en": "logical relationship",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑记录",
+   "en": "logical record",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑设计",
+   "en": "logical design",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑算子",
+   "en": "logical operator",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑网络",
+   "en": "logical network",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑结构",
+   "en": "logical structure",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑部件",
+   "en": "logic unit",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑编程",
+   "en": "logic programming",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "协议逻辑",
+   "en": "protocol logic",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "Bieber逻辑",
+   "en": "Bieber logic",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "内容制作",
+   "en": "content creation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "内容法定",
+   "en": "statutory content",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑数据模型",
+   "en": "logical data model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑编程语言",
+   "en": "logic programming language",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "内容",
+   "en": "content",
+   "source": "马克思主义",
+   "wordNumber": "01.0056",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“形式”相对。指构成事物内部各种要素的总和，是事物存在的基础。它包括事物的各种内在矛盾以及由这些矛盾所决定的事物的特征、运动的过程和发展的趋势等。"
+  },
+  {
+   "cn": "思辨逻辑",
+   "en": "speculative logic",
+   "source": "马克思主义",
+   "wordNumber": "01.0101",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "研究人类辩证思维的科学，是关于辩证思维的形式、规律和方法的科学。它把概念的辩证运动以及如何通过概念反映现实矛盾的问题作为自己的主要研究对象。原初含义专指黑格尔思辨哲学的逻辑形态。恩格斯最早明确地把这种"
+  },
+  {
+   "cn": "内毒素含量",
+   "en": "endotoxin content",
+   "source": "消毒学",
+   "wordNumber": "6.2.31.1.1",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "革兰氏阴性菌合成的存在于细菌细胞壁最外层的脂多糖的含量。"
+  },
+  {
+   "cn": "内容分析",
+   "en": "content analysis",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.15",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "以系统和定量的方式刻画给定文本的意义的分析技术。"
+  },
+  {
+   "cn": "内容效度",
+   "en": "content validity",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.76",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "有某个量度符合测量目的和要求的程度来测量其效度的方法。"
+  },
+  {
+   "cn": "报告内容",
+   "en": "report content",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.6.1.4.5",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学校突发公共卫生事件管理",
+   "subjectName": "学校突发公共卫生事件管理",
+   "publishYear": "2025",
+   "definition": "责任报告单位和责任报告人在获得突发公共卫生事件相关信息后，对于符合报告要求的事件按照由下至上报告的原则，向所在地区人民政府卫生行政部门或有关单位报告事件信息和事件发生、发展、控制过程的信息。"
+  },
+  {
+   "cn": "酒精度",
+   "en": "alcohol content",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.12.5.2",
+   "subjectFullName": "食品卫生学_食品_酒类",
+   "subjectName": "酒类",
+   "publishYear": "2025",
+   "definition": "以蒸馏法去除样品中的不挥发性物质，用密度瓶法测出试样（酒精水溶液）20 度时的密度，求得在20 度时乙醇含量的体积分数。"
+  },
+  {
+   "cn": "内容分析",
+   "en": "content analysis",
+   "source": "社会医学名词",
+   "wordNumber": "4.2.3.2",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "定性研究",
+   "publishYear": "2025",
+   "definition": "对定性调查所获取信息资料的内容作结构化分析的方法。"
+  },
+  {
+   "cn": "内容效度",
+   "en": "content validity",
+   "source": "社会医学名词",
+   "wordNumber": "4.9.2.2",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "量表",
+   "publishYear": "2025",
+   "definition": "评价量表所涉及的内容，能在多大程度上覆盖研究目的要求达到的各个方面和领域。是一个由专家主观评价的测量结果与试图要达到的目标之间接近程度的指标。"
+  },
+  {
+   "cn": "先逻辑思维",
+   "en": "pre-logical thinking",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0534",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "法国人类学家列维-布留尔（Lucien Lévy-Bruhl）提出的概念。他认为原始人的思维是前逻辑思维，本质上不同于文明人的逻辑思维，后者能够进行抽象、概括和分类。前逻辑思维在我们看来很荒谬，但在原"
+  },
+  {
+   "cn": "抽象逻辑思维",
+   "en": "abstract logic thinking",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.5.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "能进行假设演绎推理和命题推理的科学思维方式。"
+  },
+  {
+   "cn": "安全水分",
+   "en": "Safe Moisture content",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.1.15",
+   "subjectFullName": "食品卫生学_食品_粮食",
+   "subjectName": "粮食",
+   "publishYear": "2025",
+   "definition": "在利用完好仓储设施储粮并采取科学保粮措施的条件下，保证粮食安全度夏储存的水分含量。"
+  },
+  {
+   "cn": "阳极热容量",
+   "en": "anode heat content",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.53",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "加载期间累积或加载后保留在X射线管阳极中的热量瞬间值。"
+  },
+  {
+   "cn": "放射性含量计",
+   "en": "radioactive content meter",
+   "source": "放射卫生学",
+   "wordNumber": "6.5.4.11",
+   "subjectFullName": "放射卫生学_放射防护_工业应用的放射防护_核仪表及其他应用",
+   "subjectName": "核仪表及其他应用",
+   "publishYear": "2025",
+   "definition": "带有放射源，用于分析物体中元素成分或物质含量的测量装置。"
+  },
+  {
+   "cn": "形式与内容",
+   "en": "form and content",
+   "source": "马克思主义",
+   "wordNumber": "01.0057",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "构成事物统一体的两个不可分割的基本方面。形式与内容相互依存，没有无形式的内容，也没有无内容的形式。内容决定形式，形式依赖于内容，并随着内容的发展而改变。形式反作用于内容，影响内容。在一定条件下，二者可"
+  },
+  {
+   "cn": "残留溶剂量",
+   "en": "residual solvent content",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.10.4.18",
+   "subjectFullName": "食品卫生学_食品_食用油脂",
+   "subjectName": "食用油脂",
+   "publishYear": "2025",
+   "definition": "油脂中留存的浸出溶剂含量。以1 千克油脂中浸出溶剂的质量分数毫克每千克（mg/kg）表示。"
+  },
+  {
+   "cn": "危险水分",
+   "en": "dangerous moisture content",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.1.13",
+   "subjectFullName": "食品卫生学_食品_粮食",
+   "subjectName": "粮食",
+   "publishYear": "2025",
+   "definition": "某种粮食在常规储存条件下，极易发热、霉变的最低水分含量"
+  },
+  {
+   "cn": "挥发性物质含量",
+   "en": "volatile substances content",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.12.5.6",
+   "subjectFullName": "食品卫生学_食品_酒类",
+   "subjectName": "酒类",
+   "publishYear": "2025",
+   "definition": "在特定条件下对酒类进行干燥所损失物质（乙醇除外）的质量。"
+  },
+  {
+   "cn": "单位含量剂量函数",
+   "en": "dose per content function",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.24",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "待积有效剂量系数（或组织器官当量剂量系数）与摄入单位活度的放射性核素t天时体内或器官活度m(t)（或日排泄量的预期值）的比值。"
+  },
+  {
+   "cn": "半安全水分",
+   "en": "semi-Safe moisture content",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.1.14",
+   "subjectFullName": "食品卫生学_食品_粮食",
+   "subjectName": "粮食",
+   "publishYear": "2025",
+   "definition": "介于安全水分和危险水分之间的水分含量"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,782 @@
+{
+ "key": "machine table",
+ "term": "machine table",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T03:28:40+00:00",
+ "status": "ok",
+ "note": "variant=machine table; 审定公布名词库=4553; 海峡两岸名词对照库=1439; 其他来源数据库=401; 预公布名词数据库=129; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "振动台",
+   "en": "vibration machine,vibration table",
+   "source": "电气工程名词",
+   "wordNumber": "27.188",
+   "subjectFullName": "电气工程_环境技术（电工学）",
+   "subjectName": "环境技术（电工学）",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "台振式砌块成型机",
+   "en": "table-vibrating block machine",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "17.0145",
+   "subjectFullName": "机械工程_工程机械_混凝土机械及混凝土制品机械",
+   "subjectName": "混凝土机械及混凝土制品机械",
+   "publishYear": "2013",
+   "definition": "使振动台振动将能量通过托板传递给混凝土混合料使其密实成型的砌块成型机。"
+  },
+  {
+   "cn": "机器",
+   "en": "machine",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.025",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "由具有特定性能的器件按照某种原理和法则组合而成的、具有某种结构的、能够完成更复杂任务，用以代替人的劳动，进行能量变换、信息处理的技术体系。"
+  },
+  {
+   "cn": "机器",
+   "en": "machine",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "01.0003",
+   "subjectFullName": "机械工程（一）_机构与机器人学_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "由零件组成的执行机械运动的装置。用来完成所赋予的功能，如变换或传递能量、变换与传递运动和力，以及传递物料与信息。"
+  },
+  {
+   "cn": "机器",
+   "en": "machine",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0391",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_生产运作管理",
+   "subjectName": "生产运作管理",
+   "publishYear": "2016",
+   "definition": "表示服务者、工厂里的各种机床、维修工人等。"
+  },
+  {
+   "cn": "机器与机器互联",
+   "en": "machine to machine",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.245",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "通过采用传感和网络技术实现机器之间的通信与互动。"
+  },
+  {
+   "cn": "机械加工",
+   "en": "machining",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "01.003",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "一种用加工机械对工件的外形尺寸或性能进行改变的过程。是用机械手段制造产品的过程总称。"
+  },
+  {
+   "cn": "光车",
+   "en": "machining",
+   "source": "船舶工程名词",
+   "wordNumber": "12.288",
+   "subjectFullName": "船舶工程_船舶工艺",
+   "subjectName": "船舶工艺",
+   "publishYear": "1998",
+   "definition": "消除因磨损或其他原因产生的缺陷，将部件表面车圆的加工方法。"
+  },
+  {
+   "cn": "木工钻床",
+   "en": "drilling machine,boring machine",
+   "source": "林学名词",
+   "wordNumber": "11.673",
+   "subjectFullName": "林学_木材科学与技术_木材加工机械",
+   "subjectName": "木材加工机械",
+   "publishYear": "2016",
+   "definition": "能在工件上加工出孔的机械。按机构的不同，可以加工出圆孔或方孔。"
+  },
+  {
+   "cn": "压实造型机",
+   "en": "squeeze molding machine machine",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "02.241",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_铸造_铸造工艺设计及工艺装备",
+   "subjectName": "铸造工艺设计及工艺装备",
+   "publishYear": "2021",
+   "definition": "单纯借助压力紧实砂型的造型机。"
+  },
+  {
+   "cn": "表格",
+   "en": "table",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.04.079",
+   "subjectFullName": "编辑与出版学_编辑_编辑加工",
+   "subjectName": "编辑加工",
+   "publishYear": "2022",
+   "definition": "运用线条把事项分类排列，提示事项相互关系的记录方式。"
+  },
+  {
+   "cn": "工作台",
+   "en": "table",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "09.369",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_切削加工工艺与设备_金属切削机床_机床零部件",
+   "subjectName": "机床零部件",
+   "publishYear": "2021",
+   "definition": "具有工作平面，用于直接或间接装夹工件或工具的零部件。"
+  },
+  {
+   "cn": "[机床附件]工作台",
+   "en": "table",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "14.013",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_机床附件",
+   "subjectName": "机床附件",
+   "publishYear": "2021",
+   "definition": "安装工件亦可使之运动的机床附件。台面一般有T型槽，工件可直接安装在台面上，也可借助其他装置夹持工件。"
+  },
+  {
+   "cn": "桌形体",
+   "en": "table",
+   "source": "动物学名词",
+   "wordNumber": "5.2988",
+   "subjectFullName": "动物学_无脊椎动物学_棘皮动物门",
+   "subjectName": "棘皮动物门",
+   "publishYear": "2021",
+   "definition": "海参类棘皮动物常见的骨片之一。骨片由底盘和塔部构成。"
+  },
+  {
+   "cn": "桌",
+   "en": "table",
+   "source": "建筑学名词",
+   "wordNumber": "09.0384",
+   "subjectFullName": "建筑学_建筑设计_室内设计",
+   "subjectName": "室内设计",
+   "publishYear": "2014",
+   "definition": "一种上有平面称桌面、下有桌腿支柱的家具。古代桌也写作“卓”或“槕”。在桌面上可放置摆设或进餐或进行各种操作。桌按功能可分为书桌(写字台)、餐桌、供桌、牌桌等。按形式可分为如圆桌、方桌(八仙桌)、长桌、"
+  },
+  {
+   "cn": "表格",
+   "en": "table",
+   "source": "电气工程名词",
+   "wordNumber": "01.938",
+   "subjectFullName": "电气工程_电工基础及通用名词",
+   "subjectName": "电工基础及通用名词",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "压片机",
+   "en": "tablet machine",
+   "source": "药学名词",
+   "wordNumber": "02.096",
+   "subjectFullName": "药学_药剂学",
+   "subjectName": "药剂学",
+   "publishYear": "2014",
+   "definition": "把固体物料压缩成片剂的设备。"
+  },
+  {
+   "cn": "摇床选矿",
+   "en": "tabling",
+   "source": "冶金学名词",
+   "wordNumber": "03.0372",
+   "subjectFullName": "冶金学_选矿_重选、磁选及电选",
+   "subjectName": "重选、磁选及电选",
+   "publishYear": "2019",
+   "definition": "利用不对称往复运动的斜面床面进行斜面分流分选的一种重选方法。主要用于细料物料的分选，属于流膜选矿。"
+  },
+  {
+   "cn": "校直",
+   "en": "tabling",
+   "source": "航海科技名词",
+   "wordNumber": "08.0495",
+   "subjectFullName": "航海科学技术_船艺",
+   "subjectName": "船艺",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "打夯机",
+   "en": "punching machine",
+   "source": "风景园林名词",
+   "wordNumber": "08.1137",
+   "subjectFullName": "风景园林_风景园林工程_风景园林机械",
+   "subjectName": "风景园林机械",
+   "publishYear": "2025",
+   "definition": "利用冲击和冲击振动作用分层夯实回填土的压实机械。"
+  },
+  {
+   "cn": "机械加工",
+   "en": "machining",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "磨版机",
+   "en": "graining machine\",\"grinding machine",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "表",
+   "en": "table",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "表[格]",
+   "en": "table",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "桌形体",
+   "en": "table",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "压片机",
+   "en": "tablet machine",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "校直",
+   "en": "tabling",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "螺旋挤出机",
+   "en": "auger machine",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "浸染机",
+   "en": "padding machine",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "纺丝机",
+   "en": "spinning machine",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "机械造型",
+   "en": "machine molding",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "削皮机",
+   "en": "skiving machine",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "［热］收缩机",
+   "en": "shrinking machine",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "乳油分离机",
+   "en": "skimming machine",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "制管机",
+   "en": "tubing machine",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "上浆机",
+   "en": "sizing machine",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "编织机",
+   "en": "weaving machine",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "染色机",
+   "en": "dyeing machine",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "长网成型机",
+   "en": "fourdrinier machine",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "涡轮机",
+   "en": "turbo-machine",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "抛靶机",
+   "en": "throwing machine\",\"trap machine",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "机器味觉",
+   "en": "machine taste",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "射击台",
+   "en": "table",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "记分表",
+   "en": "table",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "乒乓球台",
+   "en": "table",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "机器语言",
+   "en": "machine language",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "图灵机",
+   "en": "Turing machine",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "机器学习",
+   "en": "Machine Learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "玻耳兹曼机",
+   "en": "Boltzmann machine",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信任机器",
+   "en": "trust machine",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "机器翻译",
+   "en": "machine translation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "机器感知",
+   "en": "machine perception",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "机器视觉",
+   "en": "machine vision",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "机器听觉",
+   "en": "machine hearing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "机器嗅觉",
+   "en": "machine olfaction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "机器触觉",
+   "en": "machine touch",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "机器创作",
+   "en": "machine creation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "消毒机",
+   "en": "disinfection machine",
+   "source": "消毒学",
+   "wordNumber": "3.1.2.2",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "利用物理、化学或其他因子杀灭或去除微生物的有动力消毒装置，如水消毒机、空气消毒机、医疗器械清洗消毒机、内镜清洗消毒机等。"
+  },
+  {
+   "cn": "增长机器理论",
+   "en": "growth machine",
+   "source": "社会学名词",
+   "wordNumber": "3.4.5.4",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_政治经济学学派",
+   "subjectName": "政治经济学学派",
+   "publishYear": "2025",
+   "definition": "将经济增长作为城市发展的主要目标的理论。由罗根(John Logan）和莫洛敕(Harvey Molotch）提出，增长机器由金融资本家、工商业主、房地产商、政客以及投资者所组成的“城市增长联盟”推动"
+  },
+  {
+   "cn": "人机系统",
+   "en": "man-machine system",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.1.5.5",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业生理学",
+   "subjectName": "军事作业生理学",
+   "publishYear": "2025",
+   "definition": "军事作业过程中，人和军事装备（包括设备和工具）组成一个统一的整体，共同完成作业任务。"
+  },
+  {
+   "cn": "水消毒机",
+   "en": "water disinfection machine",
+   "source": "消毒学",
+   "wordNumber": "3.1.2.3",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "用于杀灭生活饮用水、游泳池水、医院污水消毒，使其达到消毒要求的消毒装置。"
+  },
+  {
+   "cn": "空气消毒机",
+   "en": "air disinfection machine",
+   "source": "消毒学",
+   "wordNumber": "3.1.2.4",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "利用物理、化学或其他因子杀灭或去除室内空气中微生物，使其达到消毒要求，具有独立动力、能独立运行的装置。"
+  },
+  {
+   "cn": "隧道式洗涤机",
+   "en": "tunnel washing machine",
+   "source": "消毒学",
+   "wordNumber": "4.2.3.3",
+   "subjectFullName": "消毒学_消毒应用_物品消毒",
+   "subjectName": "物品消毒",
+   "publishYear": "2025",
+   "definition": "可以沿纵向轴转笼并经传输系统连接，分成几个独立隔仓或转笼或多个机器组成用于织物成批连续洗涤的设备。"
+  },
+  {
+   "cn": "整机寿命",
+   "en": "complete machine life",
+   "source": "消毒学",
+   "wordNumber": "6.1.15.2.2",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "成套或整体单机、单台形式的消毒器械的寿命。"
+  },
+  {
+   "cn": "资本主义大机器生产",
+   "en": "capitalist machine production",
+   "source": "马克思主义",
+   "wordNumber": "03.0242",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "经过产业革命，广泛使用机械化劳动代替手工劳动的资本主义工业。大机器生产极大地提高了劳动生产率，使资本主义制度最终战胜了封建制度和小商品经济，这是历史的进步。"
+  },
+  {
+   "cn": "列联表",
+   "en": "contingency table",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.109",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "将观测到的数据频次分配到两个或多个类别变量上的统计表格。"
+  },
+  {
+   "cn": "流动表",
+   "en": "mobility table",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.114",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "根据相同变量的两种情形将个体予以分配的两维列联表。用以区分发生了变化的个体和未发生变化的个体。"
+  },
+  {
+   "cn": "稀疏表",
+   "en": "sparse table",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.117",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "带有许多很少或0频次的列联表。"
+  },
+  {
+   "cn": "生命表",
+   "en": "life table",
+   "source": "社会学名词",
+   "wordNumber": "4.5.3.9",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_死亡",
+   "subjectName": "死亡",
+   "publishYear": "2025",
+   "definition": "根据当前的年龄别死亡率计算出来，表示某一人口的每一年龄组的死亡概率及平均预期寿命的表格。它完整全面地勾勒出了人口的死亡状况。"
+  },
+  {
+   "cn": "建表",
+   "en": "build table",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.7.1.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生健康档案管理",
+   "subjectName": "学生健康档案管理",
+   "publishYear": "2025",
+   "definition": "新生入学时按照相关规范要求，进行健康检查，并将检查结果等信息以纸质表格形式记录的过程。"
+  },
+  {
+   "cn": "存表",
+   "en": "save table",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.7.1.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生健康档案管理",
+   "subjectName": "学生健康档案管理",
+   "publishYear": "2025",
+   "definition": "学生纸质健康档案建立后,由学校卫生工作人员负责存放在学校卫生室的过程；无卫生室的学校由负责健康体检的单位指导校方保存，并有专人负责保存。"
+  },
+  {
+   "cn": "转表",
+   "en": "transfer table",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.7.1.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生健康档案管理",
+   "subjectName": "学生健康档案管理",
+   "publishYear": "2025",
+   "definition": "学生转学及升学时将纸质健康档案转入新校的过程。"
+  },
+  {
+   "cn": "放射流行病学表",
+   "en": "radioepidemiological tables",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.3.18",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_效应指标",
+   "subjectName": "效应指标",
+   "publishYear": "2025",
+   "definition": "美国国立卫生研究院（NIH）根据总统法令，利用辐射致癌等放射流行病学调查资料，结合个体受照剂量等信息计算获得的用以估算个体辐射致癌的病因概率的表格。于1985年以题为《放射流行病学表》的报告发表。20"
+  },
+  {
+   "cn": "循环风空气消毒机",
+   "en": "circulating air disinfection machine",
+   "source": "消毒学",
+   "wordNumber": "3.1.2.4.1",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "箱体内安装了抽风机、滤材和杀灭微生物装置，循环风量大于适用体积的8倍，可用于有人活动的室内空气消毒装置。"
+  },
+  {
+   "cn": "物理化学空气消毒机",
+   "en": "physicochemical air disinfection machine",
+   "source": "消毒学",
+   "wordNumber": "3.1.2.4.4",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "综合采用物理和化学因子杀灭室内空气微生物使其达到消毒要求的空气消毒装置。"
+  },
+  {
+   "cn": "光触媒空气消毒机",
+   "en": "photocatalyst air disinfection machine",
+   "source": "消毒学",
+   "wordNumber": "3.1.2.4.4.1",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "将纳米级催化剂镀在特定的载体上制成过滤网，在特定波长的紫外线照射下，使微生物有机体产生氧化作用，杀灭室内空气中微生物，使其达到消毒要求的消毒装置。"
+  },
+  {
+   "cn": "电子加速器消毒机",
+   "en": "electron accelcrator disinfection machine",
+   "source": "消毒学",
+   "wordNumber": "3.1.2.7.1",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "通过加速后的电子轰击靶材料产生辐射，达到消毒要求的装置。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

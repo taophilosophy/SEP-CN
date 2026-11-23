@@ -1,0 +1,712 @@
+{
+ "key": "reverse engineering",
+ "term": "reverse engineering",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T03:28:48+00:00",
+ "status": "ok",
+ "note": "variant=reverse engineering; 审定公布名词库=3178; 海峡两岸名词对照库=952; 其他来源数据库=214; 预公布名词数据库=69; jwt-direct（JWT 直连，raw 略；已滤维基 10 条）",
+ "hits": [
+  {
+   "cn": "逆向工程",
+   "en": "reverse engineering",
+   "source": "自然辩证法名词",
+   "wordNumber": "05.208",
+   "subjectFullName": "自然辩证法_工程哲学_工程方法论",
+   "subjectName": "工程方法论",
+   "publishYear": "2024",
+   "definition": "对他人产品进行拆卸、测绘、分析、研究从而形成自己的设计和生产能力的过程。"
+  },
+  {
+   "cn": "反求工程",
+   "en": "reverse engineering",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "06.138",
+   "subjectFullName": "图书馆·情报与文献学_情报分析与研究_竞争情报",
+   "subjectName": "竞争情报",
+   "publishYear": "2019",
+   "definition": "竞争情报的一种分析方法。以现代设计理论、方法、技术为基础，运用各种专业人员的工程设计经验、知识和创新思维，对一项目标产品进行逆向分析及研究，从而演绎并得出该产品的处理流程、组织结构、功能性能规格等设计"
+  },
+  {
+   "cn": "逆向工程",
+   "en": "reverse engineering",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0471",
+   "subjectFullName": "计算机科学技术_计算机应用_计算机辅助设计与图形学",
+   "subjectName": "计算机辅助设计与图形学",
+   "publishYear": "2018",
+   "definition": "在计算机辅助设计中，根据已存在的产品原型构造其数字化模型，在此基础上对已有产品进行的改进和再设计。"
+  },
+  {
+   "cn": "逆向工程",
+   "en": "reverse engineering",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0011",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "通过分析软件系统后期制品，获取更高抽象度的前期模型的过程。是软件开发周期的反向过程。"
+  },
+  {
+   "cn": "逆向工程",
+   "en": "reverse engineering",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0119",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_生产运作管理",
+   "subjectName": "生产运作管理",
+   "publishYear": "2016",
+   "definition": "对竞争对手的产品进行拆卸、评估和再设计的过程，目的是制造一种类似产品但不违反竞争者的任何制造技术产权。"
+  },
+  {
+   "cn": "逆向代谢工程",
+   "en": "reverse metabolic engineering",
+   "source": "化工名词（六）生物化工",
+   "wordNumber": "02.108",
+   "subjectFullName": "化工（六）_代谢工程与合成生物学_代谢工程_弗兰克-沃尔夫法",
+   "subjectName": "弗兰克-沃尔夫法",
+   "publishYear": "2021",
+   "definition": "采用逆向思维方式进行代谢设计的一种新型代谢工程。即首先在异源生物或相关模型系统中，通过计算或推理确定所希望的表型，然后确定该表型的决定基因或特定的环境因子，最后通过基因改造或环境改造使该表型在特定的生"
+  },
+  {
+   "cn": "发动机反推力",
+   "en": "engine reverse thrust",
+   "source": "航天科学技术名词",
+   "wordNumber": "04.129",
+   "subjectFullName": "航天科学技术_航天推进",
+   "subjectName": "航天推进",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "可逆热机",
+   "en": "reversible heat engine",
+   "source": "物理学名词",
+   "wordNumber": "05.0261",
+   "subjectFullName": "物理学_热学、统计物理学_热学、热力学",
+   "subjectName": "热学、热力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "可逆转发动机",
+   "en": "direct reversing engine",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "24.0032",
+   "subjectFullName": "机械工程_动力机械_内燃机_发动机",
+   "subjectName": "发动机",
+   "publishYear": "2013",
+   "definition": "操纵控制装置可以改变旋转方向的发动机。"
+  },
+  {
+   "cn": "可倒转柴油机",
+   "en": "reversible diesel engine",
+   "source": "航海科技名词",
+   "wordNumber": "15.0007",
+   "subjectFullName": "航海科学技术_轮机管理",
+   "subjectName": "轮机管理",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "基于特征的逆向工程",
+   "en": "feature-based reverse engineering",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0472",
+   "subjectFullName": "计算机科学技术_计算机应用_计算机辅助设计与图形学",
+   "subjectName": "计算机辅助设计与图形学",
+   "publishYear": "2018",
+   "definition": "在逆向工程中，通过特征建模来体现产品的原始设计意图。"
+  },
+  {
+   "cn": "可逆转柴油机",
+   "en": "direct-reversing diesel engine",
+   "source": "船舶工程名词",
+   "wordNumber": "06.150",
+   "subjectFullName": "船舶工程_船舶机械",
+   "subjectName": "船舶机械",
+   "publishYear": "1998",
+   "definition": "可由操纵机构改变曲轴转向的柴油机。"
+  },
+  {
+   "cn": "不可倒转柴油机",
+   "en": "non-reversible diesel engine",
+   "source": "航海科技名词",
+   "wordNumber": "15.0008",
+   "subjectFullName": "航海科学技术_轮机管理",
+   "subjectName": "轮机管理",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "反向器",
+   "en": "reverser",
+   "source": "计量学名词",
+   "wordNumber": "04.013",
+   "subjectFullName": "计量学_力值、硬度_力值和扭矩测量标准",
+   "subjectName": "力值和扭矩测量标准",
+   "publishYear": "2015",
+   "definition": "能使施加到测力仪(或称重传感器)上的负荷反向的装置。"
+  },
+  {
+   "cn": "反向器",
+   "en": "reverser",
+   "source": "机械工程名词 第三分册",
+   "wordNumber": "06.055",
+   "subjectFullName": "机械工程_仪器仪表_试验机_材料试验机_材料试验机零部件及附件",
+   "subjectName": "材料试验机零部件及附件",
+   "publishYear": "2003",
+   "definition": "使施加的试验力反向的装置。"
+  },
+  {
+   "cn": "反向器",
+   "en": "reverser",
+   "source": "铁道科学技术名词",
+   "wordNumber": "04.0562",
+   "subjectFullName": "铁道科学技术_铁道牵引动力",
+   "subjectName": "铁道牵引动力",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "逆转",
+   "en": "reversal",
+   "source": "植物学名词",
+   "wordNumber": "02.0217",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "衍生的性状状态变回为祖先性状状态的过程。"
+  },
+  {
+   "cn": "极性变换",
+   "en": "reversal",
+   "source": "航天科学技术名词",
+   "wordNumber": "09.082",
+   "subjectFullName": "航天科学技术_航天能源",
+   "subjectName": "航天能源",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "反极",
+   "en": "reversal",
+   "source": "电气工程名词",
+   "wordNumber": "24.047",
+   "subjectFullName": "电气工程_电化学应用",
+   "subjectName": "电化学应用",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "可逆性",
+   "en": "reversibility",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.078",
+   "subjectFullName": "自然辩证法_自然哲学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2024",
+   "definition": "事物变化具有在一定条件下向逆向进行的属性，即施加于事物的影响作用具有后果可取消的性质。"
+  },
+  {
+   "cn": "逆向工程",
+   "en": "reverse engineering",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "可倒转柴油机",
+   "en": "reversible diesel engine",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "基于特征的逆向工程",
+   "en": "feature-based reverse engineering",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "不可倒转柴油机",
+   "en": "non-reversible diesel engine",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "反向",
+   "en": "reverse",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "逆转",
+   "en": "reversal",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "回复突变",
+   "en": "reversion （=reverse mutation）",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "可逆性",
+   "en": "reversibility",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "可逆性",
+   "en": "reversibility",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "可逆性",
+   "en": "reversibility",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "回归",
+   "en": "reversing",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "换向",
+   "en": "reversing",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "工程",
+   "en": "engineering",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "回转式水准仪",
+   "en": "level reversible\",\"reversion level",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "反向引物",
+   "en": "reverse primer",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "反转录，逆转录",
+   "en": "reverse transcription",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "逆转录（=反转录）",
+   "en": "reverse transcription",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "反扩散",
+   "en": "reverse diffusion",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "反渗透",
+   "en": "reverse osmosis",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "逆分馏法",
+   "en": "reverse fractionation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "反身",
+   "en": "reverse",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "反身射门",
+   "en": "reverse hit\",\"reverse shot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "反身转进",
+   "en": "reverse\",\"roll",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "反手射门",
+   "en": "reverse shot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "反身跳水",
+   "en": "reverse dive",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "卡塔利纳反身",
+   "en": "catalina reverse",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "倒立鹤式",
+   "en": "reverse crane",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "反棍传球",
+   "en": "reverse pass",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "逆序",
+   "en": "reversed order",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "反抱腰",
+   "en": "reverse waist-hold\",\"reverse waist-lock",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "绝育术后再通",
+   "en": "sterilization reversal",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.2.11",
+   "subjectFullName": "妇幼卫生学名词_生育调节_避孕",
+   "subjectName": "避孕",
+   "publishYear": "2025",
+   "definition": "将已经结扎、切断的输精管或输卵管重新端端吻合,形成一条通畅的可以输送精子、卵子或受精卵的管道的手术。用于帮助绝育对象恢复生育能力。"
+  },
+  {
+   "cn": "发育可逆",
+   "en": "developmental reversibility",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "1.6.1.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生学_妇幼卫生理论",
+   "subjectName": "妇幼卫生理论",
+   "publishYear": "2025",
+   "definition": "宫内或生命早期发育阶段畸变的表型被外源性因素修复的现象。"
+  },
+  {
+   "cn": "社会工程",
+   "en": "social engineering",
+   "source": "社会学名词",
+   "wordNumber": "2.1.8.3",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会建设",
+   "subjectName": "社会建设",
+   "publishYear": "2025",
+   "definition": "广义指以社会科学理论为依据，以一定的社会技术和科学技术——尤其是工程学——为手段，有目标、有规划、有管理地改造社会、调整社会关系、协调社会运行的过程。狭义指对某项具体社会事物进行规划、建设和管理的过程"
+  },
+  {
+   "cn": "工程干预",
+   "en": "engineering intervention",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.3.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "通过改革工艺、设备（或技术）革新等工程条件的改善来影响人们的行为。"
+  },
+  {
+   "cn": "工程干预",
+   "en": "engineering intervention",
+   "source": "社会医学名词",
+   "wordNumber": "13.9.3.1",
+   "subjectFullName": "社会病",
+   "subjectName": "社会病防治",
+   "publishYear": "2025",
+   "definition": "通过影响媒介及物理环境，减少和消除伤害发生危险的干预措施。"
+  },
+  {
+   "cn": "基因组工程",
+   "en": "genome engineering",
+   "source": "军事预防医学名词",
+   "wordNumber": "9.1.4.1.2",
+   "subjectFullName": "军事预防医学_生物武器医学防护学_生物武器",
+   "subjectName": "生物武器",
+   "publishYear": "2025",
+   "definition": "采用人工染色体作为载体开展工程性遗传操作，进行基因群体克隆和表达的技术。"
+  },
+  {
+   "cn": "工程模式",
+   "en": "engineering model",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.066",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "在罗伯特·维奇提出的医患关系模式中，指将患者当作生物学存在，仅仅从生物学层面对其疾病进行处理的一种模式类型。"
+  },
+  {
+   "cn": "重组抗体",
+   "en": "engineered antibody",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.4.17",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_抗原与抗体",
+   "subjectName": "抗原与抗体",
+   "publishYear": "2025",
+   "definition": "借助DNA重组和蛋白质工程技术，在基因水平对免疫球蛋白分子进行切割、拼接、修饰和重新组装的一种特定类型或功能的抗体。如单链抗体、半抗体和抗体片段等"
+  },
+  {
+   "cn": "逆向毒代动力学",
+   "en": "reverse toxicokinetics, rTK",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.2.49",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "描述外源化学物在人体或其他动物体内的吸收、分布、代谢、排泄的速率，允许研究人员根据外部暴露浓度来估计内部剂量，或根据已知的内部剂量估计外部暴露浓度的学科。"
+  },
+  {
+   "cn": "可逆毒性效应",
+   "en": "reversible toxic effect",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.2.11",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "机体停止接触引起毒性效应的外源化学物后已造成的损害可逐渐消失的效应"
+  },
+  {
+   "cn": "细菌回复突变试验",
+   "en": "bacterial reverse mutation assay",
+   "source": "军事预防医学名词",
+   "wordNumber": "16.1.5.3.5",
+   "subjectFullName": "军事预防医学_军事毒理学_军事毒理学基础",
+   "subjectName": "军事毒理学基础",
+   "publishYear": "2025",
+   "definition": "利用突变体的测试菌株，观察受试物能否纠正或补偿突变体所携带的突变改变，判断其致突变性的试验。"
+  },
+  {
+   "cn": "可逆性脑血管收缩综合征",
+   "en": "reversible cerebral vasoconstriction syndrome，RCVS",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.7.2.21",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_血管炎_疾病",
+   "subjectName": "疾病",
+   "publishYear": "2025",
+   "definition": "一种主要继发于使用血管活性药物及产后，以突发雷击样头痛为特征的短暂血管病变。主要表现为多灶性、可逆性、节段性脑血管收缩，雷击样头痛伴或不伴局灶神经功能缺损或癫痫发作。"
+  },
+  {
+   "cn": "长效可逆性避孕方法",
+   "en": "long-acting reversible contraception, LARC",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.2.4.2",
+   "subjectFullName": "妇幼卫生学名词_生育调节_避孕",
+   "subjectName": "避孕",
+   "publishYear": "2025",
+   "definition": "一旦使用，正常情况下避孕效果维持时间长于1个月，但停用后使用者的生育力可以恢复的避孕方法。包括宫内节育器、皮下埋植剂、长效避孕针"
+  },
+  {
+   "cn": "反转录聚合酶链反应",
+   "en": "reverse transcription-polymerase chain reaction, RT-PCR",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.1.1.123",
+   "subjectFullName": "食品卫生学_食品污染_食品生物性危害因素",
+   "subjectName": "食品生物性危害因素",
+   "publishYear": "2025",
+   "definition": "以mRNA 为模板，采用oligo(dT)或随机引物，利用反转录酶反转录成互补DNA 链（cDNA），再以互补链为模板进行PCR 扩增获得目的基因的技术。"
+  },
+  {
+   "cn": "马克思主义理论研究和建设工程",
+   "en": "Research and Construction Engineering for Marxis",
+   "source": "马克思主义",
+   "wordNumber": "04.0204",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "坚持和发展马克思主义在意识形态和和哲学社会科学领域指导地位的重大理论创新和基础工程。2004年1月，中共中央发出《关于进一步繁荣发展哲学社会科学的意见》，提出实施马克思主义理论研究和建设工程。之后，中"
+  },
+  {
+   "cn": "全俄工兵代表苏维埃第二次代表大会",
+   "en": "Second Congress of the All Russian Soviet Union of Engineers and Soldiers Representatives",
+   "source": "马克思主义",
+   "wordNumber": "04.0500",
+   "subjectFullName": "马克思主义_其他部分_重要会议_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "1917年11月7—9日(俄历10月25—27日)在彼得格勒举行。出席大会的布尔什维克党、社会革命党、孟什维克党及国际主义者等代表约600余人。大会分两次进行：7日晚至次日凌晨，大会宣告资产阶级临时政"
+  },
+  {
+   "cn": "风险储备金",
+   "en": "reserve fund，risk reserve",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.5.2.5",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险筹资与运行",
+   "subjectName": "健康保险筹资与运行",
+   "publishYear": "2025",
+   "definition": "为应付超常风险或由费率预测的误差原因造成保险基金出现赤字而在纯保费之外筹集的专用后备基金"
+  },
+  {
+   "cn": "税收",
+   "en": "tax revenue",
+   "source": "马克思主义",
+   "wordNumber": "02.0252",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "国家权力机构为了维持其存在和活动、向社会提供公共产品、满足社会共同需要、参与社会产品的分配，运用权力征收的财富以及货币。税收是剩余价值的派生形式之一，是国民收入再分配的一种形式。"
+  },
+  {
+   "cn": "边际收益",
+   "en": "marginal revenue",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.2.1",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务生产",
+   "subjectName": "卫生服务生产",
+   "publishYear": "2025",
+   "definition": "每增加一单位商品销售所带来的总收益的增加。"
+  },
+  {
+   "cn": "资金筹集",
+   "en": "revenue collection",
+   "source": "卫生经济学名词",
+   "wordNumber": "9.1.1.1",
+   "subjectFullName": "卫生经济学名词_卫生筹资_卫生筹资",
+   "subjectName": "卫生筹资",
+   "publishYear": "2025",
+   "definition": "卫生系统从政府、家庭或个人、组织或部门以及其他渠道筹措资金的方式。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

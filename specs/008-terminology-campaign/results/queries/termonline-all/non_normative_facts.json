@@ -1,0 +1,772 @@
+{
+ "key": "non-normative facts",
+ "term": "non-normative facts",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T03:24:09+00:00",
+ "status": "ok",
+ "note": "variant=non-normative facts; 审定公布名词库=3109; 海峡两岸名词对照库=914; 其他来源数据库=162; 预公布名词数据库=173; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "事实",
+   "en": "fact",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0363",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_决策支持系统",
+   "subjectName": "决策支持系统",
+   "publishYear": "2016",
+   "definition": "对所要考察实体的数据的一个数值度量。"
+  },
+  {
+   "cn": "非定额流动资金",
+   "en": "non normed current fund",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.05.089",
+   "subjectFullName": "编辑与出版学_发行与经营_发行信息与管理",
+   "subjectName": "发行信息与管理",
+   "publishYear": "2022",
+   "definition": "发行企业除定额流动资金外的那部分流动资金。"
+  },
+  {
+   "cn": "规范",
+   "en": "norm",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.015",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "特定领域的技术活动所遵守的规则、标准。具有标准性、恒定性和普适性等特点。"
+  },
+  {
+   "cn": "常模",
+   "en": "norm",
+   "source": "行为医学名词",
+   "wordNumber": "19.007",
+   "subjectFullName": "行为医学_行为心理评估_行为心理测量学_测量",
+   "subjectName": "测量",
+   "publishYear": "2022",
+   "definition": "供比较的标准量数。通常由标准化样本测试结果计算得出标准数量，作为比较和解释测验结果时的参照分数标准。"
+  },
+  {
+   "cn": "定额",
+   "en": "norm",
+   "source": "电力名词",
+   "wordNumber": "13.084",
+   "subjectFullName": "电力_水力发电",
+   "subjectName": "水力发电",
+   "publishYear": "2020",
+   "definition": "单位产品或单位工作中人工、材料、机械和资金消耗量的规定额度。"
+  },
+  {
+   "cn": "范数",
+   "en": "norm",
+   "source": "物理学名词",
+   "wordNumber": "01.0499",
+   "subjectFullName": "物理学_通类_数学",
+   "subjectName": "数学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "模方",
+   "en": "norm",
+   "source": "物理学名词",
+   "wordNumber": "01.0460",
+   "subjectFullName": "物理学_通类_数学",
+   "subjectName": "数学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "常模",
+   "en": "norm",
+   "source": "医学美学与美容医学名词",
+   "wordNumber": "02.104",
+   "subjectFullName": "医学美学与美容医学_美容医学心理学",
+   "subjectName": "美容医学心理学",
+   "publishYear": "2015",
+   "definition": "正常人群取样的平均值。用来做比较的标准，提供客观评价的量表。"
+  },
+  {
+   "cn": "定额",
+   "en": "norm",
+   "source": "建筑学名词",
+   "wordNumber": "05.0037",
+   "subjectFullName": "建筑学_建筑经济_工程造价",
+   "subjectName": "工程造价",
+   "publishYear": "2014",
+   "definition": "特指建筑安装工程定额。在正常施工条件下，完成单位合格产品所必需的人工、材料、机械及其资金消耗的数量标准。"
+  },
+  {
+   "cn": "规范",
+   "en": "norm",
+   "source": "心理学名词",
+   "wordNumber": "07.098",
+   "subjectFullName": "心理学_社会心理学",
+   "subjectName": "社会心理学",
+   "publishYear": "2014",
+   "definition": "社会群体的正式或非正式的行为准则。"
+  },
+  {
+   "cn": "常模",
+   "en": "norm",
+   "source": "心理学名词",
+   "wordNumber": "03.245",
+   "subjectFullName": "心理学_心理统计与测量",
+   "subjectName": "心理统计与测量",
+   "publishYear": "2014",
+   "definition": "根据标准化样本的测验分数经过统计处理而建立起来的具有参照点和单位的量表。是用于比较和解释测验分数的参照标准。"
+  },
+  {
+   "cn": "范",
+   "en": "norm",
+   "source": "数学名词",
+   "wordNumber": "04.0415",
+   "subjectFullName": "数学_代数学_代数几何学_域·多项式",
+   "subjectName": "域?多项式",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "范数",
+   "en": "norm",
+   "source": "数学名词",
+   "wordNumber": "07.0112",
+   "subjectFullName": "数学_泛函分析_泛函分析基础",
+   "subjectName": "泛函分析基础",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "新闻事实",
+   "en": "newsworthy facts",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "1.042",
+   "subjectFullName": "新闻学与传播学_新闻理论_新闻与宣传",
+   "subjectName": "新闻与宣传",
+   "publishYear": "2022",
+   "definition": "①具备新闻价值的事实、事件和现象。②经由新闻报道呈现和描述的事实。"
+  },
+  {
+   "cn": "科学事实",
+   "en": "scientific fact",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.031",
+   "subjectFullName": "自然辩证法_科学技术方法论_方法与工具",
+   "subjectName": "方法与工具",
+   "publishYear": "2024",
+   "definition": "科学研究中发现的真实可靠的现象或现象之间的关系。"
+  },
+  {
+   "cn": "经验事实",
+   "en": "experiential fact",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.032",
+   "subjectFullName": "自然辩证法_科学技术方法论_方法与工具",
+   "subjectName": "方法与工具",
+   "publishYear": "2024",
+   "definition": "人们通过知觉获得的具有可重复性或可检验性的现象或现象之间的关系。"
+  },
+  {
+   "cn": "理论事实",
+   "en": "theoretical fact",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.033",
+   "subjectFullName": "自然辩证法_科学技术方法论_方法与工具",
+   "subjectName": "方法与工具",
+   "publishYear": "2024",
+   "definition": "由理论推导得出的具有可重复性或可检验性的现象或现象之间的关系。"
+  },
+  {
+   "cn": "人工事实",
+   "en": "artificial fact",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.089",
+   "subjectFullName": "自然辩证法_科学、技术与社会_科学与社会",
+   "subjectName": "科学与社会",
+   "publishYear": "2024",
+   "definition": "来自“实验室研究”的一个重要概念。布鲁诺·拉图尔（Bruno Latour）和史蒂夫·伍尔加（Steve Woolgar）发现实验室就像一个庞大的“文学铭写”系统，实验室中到处都是“铭写装置”（ins"
+  },
+  {
+   "cn": "核对事实",
+   "en": "fact check",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.184",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻编辑",
+   "subjectName": "新闻编辑",
+   "publishYear": "2022",
+   "definition": "新闻记者和编辑对搜集到的新闻素材进行确认和修订，以确保写入新闻报道的事实准确无误。这是新闻生产流程中必不可少的一个环节。"
+  },
+  {
+   "cn": "事实检索",
+   "en": "fact retrieval",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.064",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_检索技术与方法",
+   "subjectName": "检索技术与方法",
+   "publishYear": "2019",
+   "definition": "（1）以客观事实为检索对象，查找某一事件发生的时间、地点及过程的一种检索方法。其检索结果主要是客观事实或为说明事实而提供的相关资料。完成事实型信息检索主要借助于各种指南数据库和全文数据库。（2）对数据"
+  },
+  {
+   "cn": "事实",
+   "en": "fact",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "事实",
+   "en": "fact",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "范数",
+   "en": "norm",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "常模",
+   "en": "norm",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "规范",
+   "en": "norm",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "定额",
+   "en": "norm",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "事实库",
+   "en": "fact base",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "文化常模",
+   "en": "cultural norm",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "社会规范",
+   "en": "social norm",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "发展常模",
+   "en": "developmental norm",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "年级常模",
+   "en": "grade norm",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "年龄常模",
+   "en": "age norm",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "群体规范",
+   "en": "group norm",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "适应规范",
+   "en": "adaptive norm",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "反应规范",
+   "en": "reaction norm\",\"norm of reaction",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "规范性空间思想",
+   "en": "normative spatial thinking",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "常模参照测验",
+   "en": "norm referenced test",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "相互性规范",
+   "en": "norm of reciprocity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "选取限额",
+   "en": "norm for selection",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "社会责任规范",
+   "en": "norm of social responsibility",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "实事求是",
+   "en": "Seek Truth from Facts",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无效动作！",
+   "en": "Non!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "隆礼",
+   "en": "Respect for Social Norms",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无为",
+   "en": "Non-action",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "不可抵赖性",
+   "en": "non-repudiation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非人类中心主义",
+   "en": "non-anthropocentrism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非消耗性",
+   "en": "non-consumability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非排他性",
+   "en": "non-excludability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无战意",
+   "en": "non-combativity",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "礼",
+   "en": "Li (Rites / Social Norms/ Propriety)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "礼尚往来",
+   "en": "Reciprocity as a Social Norm",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "克己复礼",
+   "en": "Restrain Yourself and Follow Social Norms",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "金融信息生命周期安全规范",
+   "en": "lifecycle security norms of financial information",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "不二",
+   "en": "Advaya / Non-duality",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非易失性内存",
+   "en": "non-volatile memory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非关系数据库",
+   "en": "non-relational database",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "事实",
+   "en": "fact",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.12",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "事情的真实情况。指已被正确认识到的客观事物、事件、现象、关系、属性、本质及规律性，是客观存在的事物、现象、关系被人的感觉和思维如实反映，并作为人们进一步认识和行动的依据。作为元伦理范畴，事实与价值对立"
+  },
+  {
+   "cn": "营养成分表",
+   "en": "nutrition facts",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.3.37",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品标准",
+   "subjectName": "食品标准",
+   "publishYear": "2025",
+   "definition": "标有食品能量和营养成分名称、含量及其占营养素参考值百分比的规范性表格。"
+  },
+  {
+   "cn": "社会事实",
+   "en": "social fact",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.3",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "超越于个人并能从外部给予个人以约束的一切社会事物（社会文化环境、结构、关系等），或普遍存在于社会各处的富有意义和影响的社会现象，具有客观性、强制性和普遍性。由涂尔干提出。"
+  },
+  {
+   "cn": "事实婚姻",
+   "en": "fact marriage",
+   "source": "社会学名词",
+   "wordNumber": "3.1.3.9",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_婚姻制度",
+   "subjectName": "婚姻制度",
+   "publishYear": "2025",
+   "definition": "没有配偶的男女未进行结婚登记便以夫妻关系同居生活，社会也认为是夫妻关系的两性结合。"
+  },
+  {
+   "cn": "社会事实",
+   "en": "social fact",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0525",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "法国社会学家涂尔干（Émile Durkheim）在《社会学方法的准则》中首次提出，指普遍存在于社会各处并具有其固有存在的行为方式。社会事实有三个特征：外在性、强制性、普遍性。"
+  },
+  {
+   "cn": "规范性文件",
+   "en": "normative document",
+   "source": "放射卫生学",
+   "wordNumber": "9.1.6",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生法规",
+   "subjectName": "放射卫生法规",
+   "publishYear": "2025",
+   "definition": "除政府规章外，由行政机关或者法律、法规授权的具有管理公共事务职能的组织依照法定权限、程序制定并公开发布，涉及公民、法人和其他组织权利义务，具有普遍约束力，在一定期限内反复适用的公文。狭义理解为法律范畴"
+  },
+  {
+   "cn": "规范性要素",
+   "en": "normative element",
+   "source": "放射卫生学",
+   "wordNumber": "9.2.5.2",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生标准_标准要素类型",
+   "subjectName": "标准要素类型",
+   "publishYear": "2025",
+   "definition": "在标准中界定标准范围或设定条款的要素。"
+  },
+  {
+   "cn": "规范机制",
+   "en": "normative mechanism",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.19",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "在专业性很强和专业要求很高的组织领域，如大学和医院，不成文的专业规范规范通过专业教育进入从业人员的大脑，进而影响组织的制度结构的过程。保罗·迪马吉奥（Paul J.DiMaggio）和沃尔特•鲍威尔（"
+  },
+  {
+   "cn": "规范伦理学",
+   "en": "normative ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.133",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学流派",
+   "subjectName": "伦理学流派",
+   "publishYear": "2025",
+   "definition": "伦理学的传统理论形式。通过对人类行为的善恶价值分析，研究道德的起源、本质和发展变化规律，建构人类的道德规范体系，确定人们的行为标准，以调整人与人之间、人与社会之间的关系的伦理学学科。规范伦理学又分为普"
+  },
+  {
+   "cn": "角色规范",
+   "en": "role norm",
+   "source": "社会学名词",
+   "wordNumber": "2.3.2.11",
+   "subjectFullName": "社会学名词_社会学一般概念_社会化_社会角色",
+   "subjectName": "社会角色",
+   "publishYear": "2025",
+   "definition": "社会根据需要而期待个体在其所处的身份与地位中，应该达到的行为模式或行为标准。这些规范是在长期的社会生活中形成的，并在个体的社会实践活动中表现出来，是调节个体行为与思想的控制器。"
+  },
+  {
+   "cn": "社会规范",
+   "en": "social norm",
+   "source": "社会学名词",
+   "wordNumber": "2.8.2.1",
+   "subjectFullName": "社会学名词_社会学一般概念_社会制度_社会规范",
+   "subjectName": "社会规范",
+   "publishYear": "2025",
+   "definition": "通过习俗、道德、宗教和法律等手段对社会成员的行为进行指引、评价和控制的准则，从而实现对社会成员之间的关系进行调节。既可能是在社会互动过程中逐步形成的非正式、不成文规范体系，也可能是基于社会某一群体的意"
+  },
+  {
+   "cn": "谦逊规范",
+   "en": "humility norm",
+   "source": "社会学名词",
+   "wordNumber": "3.10.4.10",
+   "subjectFullName": "社会学名词_分支社会学科学社会学",
+   "subjectName": "分支社会学科学社会学",
+   "publishYear": "2025",
+   "definition": "指科学家对自身研究所表现出的谦恭态度，主要有两种形式：一是承认受惠于前人留下的知识遗产，二是强调自身的局限性和科学知识的局限性。"
+  },
+  {
+   "cn": "普遍主义规范",
+   "en": "universalism norm",
+   "source": "社会学名词",
+   "wordNumber": "3.10.4.11",
+   "subjectFullName": "社会学名词_分支社会学科学社会学",
+   "subjectName": "分支社会学科学社会学",
+   "publishYear": "2025",
+   "definition": "科学精神特质的重要组成部分，要求根据非个人的标准，而不是个人或社会的属性来对科学中的主张是否为真做出判断，或者借用一些综合性的社会学和认识论的样本个案来描述。该规范表明科学具有一种普遍性，不应受到种族"
+  },
+  {
+   "cn": "合理性规范",
+   "en": "rationality norm",
+   "source": "社会学名词",
+   "wordNumber": "3.10.4.12",
+   "subjectFullName": "社会学名词_分支社会学科学社会学",
+   "subjectName": "分支社会学科学社会学",
+   "publishYear": "2025",
+   "definition": "用批评的眼光看待所有人类存在的现象，旨在使它们更加有序一致，并获得普遍的理解。该规范主要强调科学的逻辑性和真理性，即科学知识应当符合逻辑规则，并且符合具体经验事实。"
+  },
+  {
+   "cn": "群体规范",
+   "en": "group norm",
+   "source": "社会学名词",
+   "wordNumber": "4.1.17.3",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_群体",
+   "subjectName": "群体",
+   "publishYear": "2025",
+   "definition": "群体公认的标准或群体活动中自然而然形成的行为准则，对群体成员产生约束力，迫使成员按照群体目标和准则调整自己行为。"
+  },
+  {
+   "cn": "社会规范",
+   "en": "social norm",
+   "source": "社会医学名词",
+   "wordNumber": "3.6.1",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "社会治理",
+   "publishYear": "2025",
+   "definition": "通过习俗、道德、宗教和法律等手段对社会成员的行为进行指引、评价和控制的准则，从而实现对社会成员之间的关系进行调节。"
+  },
+  {
+   "cn": "普通规范伦理学",
+   "en": "general normative ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.1340000000000001",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学流派",
+   "subjectName": "伦理学流派",
+   "publishYear": "2025",
+   "definition": "对行为的善与恶、是与非等问题进行研究与论证，以道德原则来规范人们做事做人的伦理学分支。"
+  },
+  {
+   "cn": "应用规范伦理学",
+   "en": "applied normative ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.135",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学流派",
+   "subjectName": "伦理学流派",
+   "publishYear": "2025",
+   "definition": "用规范伦理学的一般原则和理论来解释和评判现实中的具体伦理问题的伦理学分支。"
+  },
+  {
+   "cn": "实事求是",
+   "en": "seeking truth from facts",
+   "source": "马克思主义",
+   "wordNumber": "01.0245",
+   "subjectFullName": "马克思主义_哲学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东思想活的灵魂之一，中国共产党的根本思想路线。实事求是一语，出自东汉班固所著《汉书·河间献王传》，原意是赞扬河间献王刘德的治学态度。1941年，毛泽东在《改造我们的学习》一文中，对实事求是作了马克"
+  },
+  {
+   "cn": "性规范",
+   "en": "norms of sex",
+   "source": "社会学名词",
+   "wordNumber": "3.3.2.1",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性规范",
+   "subjectName": "性规范",
+   "publishYear": "2025",
+   "definition": "制约和调节人类性行为的各种法律、制度、道德、传统和习惯，体现了人类性行为的社会性。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

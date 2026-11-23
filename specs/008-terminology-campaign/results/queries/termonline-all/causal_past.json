@@ -1,0 +1,812 @@
+{
+ "key": "causal past",
+ "term": "causal past",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T03:28:17+00:00",
+ "status": "ok",
+ "note": "variant=causal past; 审定公布名词库=3539; 海峡两岸名词对照库=1278; 其他来源数据库=320; 预公布名词数据库=111; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "因果性",
+   "en": "causality",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.067",
+   "subjectFullName": "自然辩证法_自然哲学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2024",
+   "definition": "事物之间具有某种确定的生成关系。作为生成条件的事物称为前因，作为生成结果的事物称为后果。前因可分为内因（事物内部原因）和外因（事物外部原因）。"
+  },
+  {
+   "cn": "因果性",
+   "en": "causality",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1634",
+   "subjectFullName": "地球物理学_地震科学_震源",
+   "subjectName": "震源",
+   "publishYear": "2022",
+   "definition": "前后发生的事件之间具有因果关系的性质。 "
+  },
+  {
+   "cn": "因果性",
+   "en": "causality",
+   "source": "物理学名词",
+   "wordNumber": "06.0074",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "因果关系",
+   "en": "causality",
+   "source": "生物物理学名词",
+   "wordNumber": "07.150",
+   "subjectFullName": "生物物理学_生物控制论_脑理论",
+   "subjectName": "脑理论",
+   "publishYear": "2018",
+   "definition": "描述两个事件之间的关系，其中一个事件为另一个事件的结果。"
+  },
+  {
+   "cn": "因果律",
+   "en": "causality",
+   "source": "电子学名词",
+   "wordNumber": "05.193",
+   "subjectFullName": "电子学_信息论与信号处理技术",
+   "subjectName": "信息论与信号处理技术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "过去",
+   "en": "past",
+   "source": "物理学名词",
+   "wordNumber": "06.0077",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "膏剂",
+   "en": "paste",
+   "source": "精细化工名词",
+   "wordNumber": "03.0121",
+   "subjectFullName": "精细化工_农药_原料加工与过程装备",
+   "subjectName": "原料加工与过程装备",
+   "publishYear": "2025",
+   "definition": "可含或不含成膜组分的水基膏状制剂。"
+  },
+  {
+   "cn": "糊料",
+   "en": "paste",
+   "source": "冶金学名词",
+   "wordNumber": "05.0453",
+   "subjectFullName": "冶金学_钢铁冶金_炭材料",
+   "subjectName": "炭材料",
+   "publishYear": "2019",
+   "definition": "在混捏过程中，通过煤沥青的黏结力将所有固体炭质物料互相黏结在一起，形成均质且具有可塑性的糊状炭质物料。"
+  },
+  {
+   "cn": "糊剂",
+   "en": "paste",
+   "source": "药学名词",
+   "wordNumber": "02.244",
+   "subjectFullName": "药学_药剂学",
+   "subjectName": "药剂学",
+   "publishYear": "2014",
+   "definition": "大量的固体粉末(一般25%以上)均匀地分散在适宜的基质中所组成的半固体外用制剂。"
+  },
+  {
+   "cn": "糊剂",
+   "en": "paste",
+   "source": "中医药学名词（2013）",
+   "wordNumber": "02.041",
+   "subjectFullName": "中医药学_皮肤科学_治疗",
+   "subjectName": "治疗",
+   "publishYear": "2013",
+   "definition": "用凡士林、羊毛脂等作为基质调和药粉(粉剂成分超过25%)形成的半固体制剂。"
+  },
+  {
+   "cn": "糊料",
+   "en": "paste",
+   "source": "电气工程名词",
+   "wordNumber": "02.109",
+   "subjectFullName": "电气工程_导电材料及半导体材料",
+   "subjectName": "导电材料及半导体材料",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "打糊",
+   "en": "pasting",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.0421",
+   "subjectFullName": "食品科学技术_食品工程_食品专用技术与装备_焙烤",
+   "subjectName": "焙烤",
+   "publishYear": "2020",
+   "definition": "在一定量水中加面粉和匀后，运用人工或机械的方法搅拌至糊状的过程。"
+  },
+  {
+   "cn": "因果相关性",
+   "en": "causal relevance",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.070",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "两个事件之间的相关不仅仅是统计上的，而且具有内在的因果机制。"
+  },
+  {
+   "cn": "因果分析",
+   "en": "causal analysis",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.130",
+   "subjectFullName": "自然辩证法_科学技术方法论_分析与推理",
+   "subjectName": "分析与推理",
+   "publishYear": "2024",
+   "definition": "为了确定某一现象的变化原因，在研究对象的先行情况中，把与其变化相关的现象和其他非相关现象进行区分，或在研究对象的后行情况中，把与之变化结果相关的现象和其他的现象区分，并进行分析的过程。"
+  },
+  {
+   "cn": "因果信号",
+   "en": "causal signal",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1635",
+   "subjectFullName": "地球物理学_地震科学_震源",
+   "subjectName": "震源",
+   "publishYear": "2022",
+   "definition": "在脉冲信号未输入前没有输出的信号。 "
+  },
+  {
+   "cn": "因果函数",
+   "en": "causal function",
+   "source": "物理学名词",
+   "wordNumber": "05.0895",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "因果变换",
+   "en": "causal transform",
+   "source": "物理学名词",
+   "wordNumber": "05.0896",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "因果推理",
+   "en": "causal reasoning",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0105",
+   "subjectFullName": "计算机科学技术_人工智能_自动推理",
+   "subjectName": "自动推理",
+   "publishYear": "2018",
+   "definition": "研究因果关系及其推理规则的一类推理方法的统称。"
+  },
+  {
+   "cn": "因果逻辑",
+   "en": "causal logic",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0042",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "研究事件之间因果依赖关系的逻辑。"
+  },
+  {
+   "cn": "因果性归因",
+   "en": "causal attribution",
+   "source": "心理学名词",
+   "wordNumber": "07.031",
+   "subjectFullName": "心理学_社会心理学",
+   "subjectName": "社会心理学",
+   "publishYear": "2014",
+   "definition": "对于行为、事件的因果解释和推论。"
+  },
+  {
+   "cn": "因果性",
+   "en": "causality",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "因果律，因果性",
+   "en": "causality",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "糊剂",
+   "en": "paste",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "糊剂",
+   "en": "paste",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "因果性研究",
+   "en": "causal research",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "因果模型",
+   "en": "causal model",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "因果模型",
+   "en": "causal model",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "因果逻辑",
+   "en": "causal logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "因果推理",
+   "en": "causal reasoning",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "因果系统",
+   "en": "causal system",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "因果性归因",
+   "en": "causal attribution\",\"attribution of causality",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "因果启发法",
+   "en": "causality heuristics",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "过去天气",
+   "en": "past weather",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "往日地理",
+   "en": "past geography",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "浆糊",
+   "en": "starch paste",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "皂糊",
+   "en": "soap paste",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "厚漆",
+   "en": "paste paint",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "糊状树脂",
+   "en": "paste resin",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "钎焊膏",
+   "en": "soldering paste",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "糊状胶黏剂",
+   "en": "paste adhesive",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "因果推断",
+   "en": "causal inference",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "RCM模型",
+   "en": "Rubin causal model (RCM)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "鉴古知今",
+   "en": "Review the Past to Understand the Present",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "前事不忘,后事之师",
+   "en": "Past Experience, If Not Forgotten, Is a Guide for the Future.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "快攻传球",
+   "en": "fast break pass",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "传球",
+   "en": "pass",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "快速的",
+   "en": "fast",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "传球",
+   "en": "pass",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "网柱",
+   "en": "post",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "位置",
+   "en": "post",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "传球",
+   "en": "pass",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "传球",
+   "en": "pass",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "网柱",
+   "en": "post",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "传球",
+   "en": "pass",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "故意漏球",
+   "en": "pass",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "传球",
+   "en": "pass",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "单跳的整套动作",
+   "en": "pass",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "装置桅杆",
+   "en": "mast",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "桅杆",
+   "en": "mast",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "滑刺",
+   "en": "pass",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "因果关系",
+   "en": "causality",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.26",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "变量之间非对称的影响和效应关系。其中，因是一组因素或先决条件的函数，果是一组可能的结果。"
+  },
+  {
+   "cn": "因果关系",
+   "en": "causality",
+   "source": "马克思主义",
+   "wordNumber": "01.0050",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "客观事物普遍联系相互作用的形式之一。有因必有果；有果必有因。原因与结果的这种必然联系，就是因果关系。但前后相继的现象并不一定都是因果联系；因果关系具有多种多样的形式。"
+  },
+  {
+   "cn": "酱",
+   "en": "paste",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.14.35",
+   "subjectFullName": "食品卫生学_食品_调味品",
+   "subjectName": "调味品",
+   "publishYear": "2025",
+   "definition": "以豆类、小麦粉、水果、肉类或鱼虾等为主要原料，经微生物发酵酿制而成的具酱香、澄黄至红褐色泽、糊状至黏稠状半固态调味品。"
+  },
+  {
+   "cn": "因果模型",
+   "en": "causal modeling",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.119",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "基于因果关系理论，描述变量间因果关系的模型。"
+  },
+  {
+   "cn": "西红柿酱",
+   "en": "tomato paste",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.14.38",
+   "subjectFullName": "食品卫生学_食品_调味品",
+   "subjectName": "调味品",
+   "publishYear": "2025",
+   "definition": "以西红柿为原料，添加或不添加食盐、糖、食品添加剂等制成的酱类调味品。"
+  },
+  {
+   "cn": "芥末酱",
+   "en": "mustard paste",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.14.42",
+   "subjectFullName": "食品卫生学_食品_调味品",
+   "subjectName": "调味品",
+   "publishYear": "2025",
+   "definition": "以芥菜籽粒或芥菜类植物块茎为原料制成的酱类调味品。"
+  },
+  {
+   "cn": "浆膏状香精",
+   "en": "paste flavorings",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.3.2.6",
+   "subjectFullName": "食品卫生学_食品添加剂_食品用香精香料",
+   "subjectName": "食品用香精香料",
+   "publishYear": "2025",
+   "definition": "以浆膏状形态出现的各类香精"
+  },
+  {
+   "cn": "芝麻酱",
+   "en": "sesame paste",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.14.40",
+   "subjectFullName": "食品卫生学_食品_调味品",
+   "subjectName": "调味品",
+   "publishYear": "2025",
+   "definition": "以芝麻为原料，经润水、脱壳、焙炒、研磨，添加或不添加辅料制成的酱类调味品。"
+  },
+  {
+   "cn": "辣椒酱",
+   "en": "chilli paste",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.14.39",
+   "subjectFullName": "食品卫生学_食品_调味品",
+   "subjectName": "调味品",
+   "publishYear": "2025",
+   "definition": "以辣椒为原料，经发酵或不发酵，添加或不添加辅料制成的辣味酱类调味品。"
+  },
+  {
+   "cn": "虾酱",
+   "en": "shrimp paste",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.14.41",
+   "subjectFullName": "食品卫生学_食品_调味品",
+   "subjectName": "调味品",
+   "publishYear": "2025",
+   "definition": "以海虾为主要原料，经盐渍、发酵酵解，配以各种香辛料和其他辅料制成的酱类调味品。"
+  },
+  {
+   "cn": "色拉酱",
+   "en": "salad paste",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.14.45",
+   "subjectFullName": "食品卫生学_食品_调味品",
+   "subjectName": "调味品",
+   "publishYear": "2025",
+   "definition": "以植物油、酸性配料（食醋、酸味剂）等为主料，辅以变性淀粉、甜味剂、食盐、香料、乳化剂、增稠剂等配料，经混合搅拌、乳化均质制成的酸味半固态调味酱。"
+  },
+  {
+   "cn": "酱类罐头",
+   "en": "paste can",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.11.6.5",
+   "subjectFullName": "食品卫生学_食品_罐头食品",
+   "subjectName": "罐头食品",
+   "publishYear": "2025",
+   "definition": "以一种或几种植物性或动物性食品为原料，经处理、调配、装罐、密封、杀菌、冷却等制成的罐藏食品。"
+  },
+  {
+   "cn": "复合调味酱",
+   "en": "compound paste",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.14.43",
+   "subjectFullName": "食品卫生学_食品_调味品",
+   "subjectName": "调味品",
+   "publishYear": "2025",
+   "definition": "以两种或两种以的调味品为主要原料，添加或不添加其他调味品加工而成的复合酱类调味品。"
+  },
+  {
+   "cn": "面酱",
+   "en": "flour paste",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.14.37",
+   "subjectFullName": "食品卫生学_食品_调味品",
+   "subjectName": "调味品",
+   "publishYear": "2025",
+   "definition": "以小麦粉为为主要原料，经微生物发酵酿制而成的酱类调味品。"
+  },
+  {
+   "cn": "豆酱",
+   "en": "soybean paste",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.14.36",
+   "subjectFullName": "食品卫生学_食品_调味品",
+   "subjectName": "调味品",
+   "publishYear": "2025",
+   "definition": "以豆类或其副产品为主要原料，经微生物发酵酿制而成的酱类调味品。"
+  },
+  {
+   "cn": "风味酱",
+   "en": "flavor paste",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.14.44",
+   "subjectFullName": "食品卫生学_食品_调味品",
+   "subjectName": "调味品",
+   "publishYear": "2025",
+   "definition": "以肉类、鱼类、贝类、果蔬、植物油、香辛调味料、食品添加剂和其他辅料配合制成的具有某种风味的调味酱。"
+  },
+  {
+   "cn": "因果关系判定原则",
+   "en": "principle of causality",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.3.8",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护",
+   "subjectName": "放射工作人员健康监护",
+   "publishYear": "2025",
+   "definition": "判定接触电离辐射与所患疾病之间的因果关系，应满足时序性原则、生物学合理性原则及生物学梯度原则。"
+  },
+  {
+   "cn": "儿童死因链",
+   "en": "causal chain of child mortality",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.1.4.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "时间上先后发生的互为因果的5岁以下儿童死因之间，以及这些死因与5岁以下儿童死亡事件之间的关系。"
+  },
+  {
+   "cn": "孕产妇死因链",
+   "en": "causal chain of maternal mortality",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.2.3.4",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "时间上先后发生的互为因果的孕产妇死因之间，以及这些死因与孕产妇死亡事件之间的关系。"
+  },
+  {
+   "cn": "十年来三件大事",
+   "en": "three major events in the past decade marked",
+   "source": "马克思主义",
+   "wordNumber": "03.0826",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中共二十大报告指出，十八大召开至今已经十年了。十年来，我们经历了对党和人民事业具有重大现实意义和深远历史意义的三件大事：一是迎来中国共产党成立一百周年，二是中国特色社会主义进入新时代，三是完成脱贫攻坚"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

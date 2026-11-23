@@ -1,0 +1,812 @@
+{
+ "key": "free play",
+ "term": "free play",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T03:29:14+00:00",
+ "status": "ok",
+ "note": "variant=free play; 审定公布名词库=2384; 海峡两岸名词对照库=732; 其他来源数据库=295; 预公布名词数据库=115; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "游戏活动",
+   "en": "free play,choice time",
+   "source": "教育学名词",
+   "wordNumber": "06.060",
+   "subjectFullName": "教育学_学前教育",
+   "subjectName": "学前教育",
+   "publishYear": "2013",
+   "definition": "幼儿自主、自由的活动。是幼儿园教育活动的基本形式。兼具“自然性”和“教育性”。"
+  },
+  {
+   "cn": "局",
+   "en": "play",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0279",
+   "subjectFullName": "管理科学技术_运筹与管理_对策理论与方法",
+   "subjectName": "对策理论与方法",
+   "publishYear": "2016",
+   "definition": "所有局中人选择策略、实施行动、直至获得支付的完整过程。"
+  },
+  {
+   "cn": "游戏",
+   "en": "play",
+   "source": "教育学名词",
+   "wordNumber": "06.108",
+   "subjectFullName": "教育学_学前教育",
+   "subjectName": "学前教育",
+   "publishYear": "2013",
+   "definition": "自主自由、使个体（高级动物、儿童、成人）获得愉快满足、非功利性的行为的总称。"
+  },
+  {
+   "cn": "局",
+   "en": "play",
+   "source": "数学名词",
+   "wordNumber": "011.0388",
+   "subjectFullName": "数学_运筹学_对策论",
+   "subjectName": "对策论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "转向盘自由行程",
+   "en": "free play of steering wheel",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "13.014",
+   "subjectFullName": "机械工程_汽车_底盘_转向",
+   "subjectName": "转向",
+   "publishYear": "2013",
+   "definition": "转向轮在直线行驶位置时，转向盘的空转角度。"
+  },
+  {
+   "cn": "手谈",
+   "en": "play chess",
+   "source": "风景园林名词",
+   "wordNumber": "11.0394",
+   "subjectFullName": "风景园林_风景园林艺术_园居活动",
+   "subjectName": "园居活动",
+   "publishYear": "2025",
+   "definition": "使用方形格状棋盘及黑白二色圆形棋子进行对决的园居活动形式，即下围棋。中国的双人对局棋种，属古代琴棋书画四艺之一。"
+  },
+  {
+   "cn": "传播游戏",
+   "en": "communication play",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.123",
+   "subjectFullName": "新闻学与传播学_传播总论_传播研究基础",
+   "subjectName": "传播研究基础",
+   "publishYear": "2022",
+   "definition": "为人类提供一种满足感和快乐感的交流方式或活动。"
+  },
+  {
+   "cn": "权术",
+   "en": "power play",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "9.109",
+   "subjectFullName": "新闻学与传播学_组织传播_组织传播权力与领导",
+   "subjectName": "组织传播权力与领导",
+   "publishYear": "2022",
+   "definition": "为扩大支配地位不顾组织整体利益所采取的行动。玩弄权术包含着某种程度的欺骗和狡猾。在某种意义上，也可能存在具有建设性意义的权术活动。"
+  },
+  {
+   "cn": "治疗性游戏",
+   "en": "therapeutic play",
+   "source": "手外科学名词",
+   "wordNumber": "06.0081",
+   "subjectFullName": "手外科学_手外科康复",
+   "subjectName": "手外科康复",
+   "publishYear": "2020",
+   "definition": "通过游戏起到应对恐惧和焦虑作用的作业治疗。"
+  },
+  {
+   "cn": "角色扮演",
+   "en": "role play",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0487",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_人力资源招聘、选拔",
+   "subjectName": "人力资源招聘、选拔",
+   "publishYear": "2016",
+   "definition": "通过在模拟人际关系情景中的角色来评价受测者特征的方法。"
+  },
+  {
+   "cn": "角色扮演",
+   "en": "role play",
+   "source": "心理学名词",
+   "wordNumber": "07.074",
+   "subjectFullName": "心理学_社会心理学",
+   "subjectName": "社会心理学",
+   "publishYear": "2014",
+   "definition": "通过设身处地的方式体验、了解和领会别人的内心世界和行为，提高社会技能的方法。"
+  },
+  {
+   "cn": "游戏疗法",
+   "en": "play therapy",
+   "source": "心理学名词",
+   "wordNumber": "15.071",
+   "subjectFullName": "心理学_咨询心理学",
+   "subjectName": "咨询心理学",
+   "publishYear": "2014",
+   "definition": "以游戏为主要沟通媒介，在游戏中了解儿童的心理问题，并给予相应辅导的一种治疗方法。"
+  },
+  {
+   "cn": "游戏材料",
+   "en": "play materials",
+   "source": "教育学名词",
+   "wordNumber": "06.145",
+   "subjectFullName": "教育学_学前教育",
+   "subjectName": "学前教育",
+   "publishYear": "2013",
+   "definition": "儿童游戏所用玩具和物品的总称。是儿童游戏的物质基础。"
+  },
+  {
+   "cn": "练习性游戏",
+   "en": "practical play",
+   "source": "教育学名词",
+   "wordNumber": "06.115",
+   "subjectFullName": "教育学_学前教育",
+   "subjectName": "学前教育",
+   "publishYear": "2013",
+   "definition": "在个体发展过程中最早出现的、对新习得但还不熟练的动作进行练习的游戏活动形式。"
+  },
+  {
+   "cn": "游戏小组",
+   "en": "play group",
+   "source": "教育学名词",
+   "wordNumber": "06.030",
+   "subjectFullName": "教育学_学前教育",
+   "subjectName": "学前教育",
+   "publishYear": "2013",
+   "definition": "为未入园幼儿提供的参与社会性活动的场所。通常由幼儿家长参与担任志愿者，设在社区公用房间、学校空余教室或教堂中，备有玩具、图书、音乐磁带等。幼儿可以定时前去参加活动。一般每周开放数次，每次2～3小时。"
+  },
+  {
+   "cn": "游戏干预",
+   "en": "play intervention",
+   "source": "教育学名词",
+   "wordNumber": "06.139",
+   "subjectFullName": "教育学_学前教育",
+   "subjectName": "学前教育",
+   "publishYear": "2013",
+   "definition": "成人通过直接介入或参与活动对幼儿的游戏施加影响的行为。"
+  },
+  {
+   "cn": "独自游戏",
+   "en": "solitary play",
+   "source": "教育学名词",
+   "wordNumber": "06.119",
+   "subjectFullName": "教育学_学前教育",
+   "subjectName": "学前教育",
+   "publishYear": "2013",
+   "definition": "幼儿专注于自己的游戏，不和附近的幼儿交谈。是游戏的社会性分类中的一种游戏行为。"
+  },
+  {
+   "cn": "创造性游戏",
+   "en": "creative play",
+   "source": "教育学名词",
+   "wordNumber": "06.123",
+   "subjectFullName": "教育学_学前教育",
+   "subjectName": "学前教育",
+   "publishYear": "2013",
+   "definition": "幼儿自主地、创造性地反映现实生活和个体经验的游戏活动。包括角色游戏、结构游戏和表演游戏等。"
+  },
+  {
+   "cn": "平行游戏",
+   "en": "parallel play",
+   "source": "教育学名词",
+   "wordNumber": "06.120",
+   "subjectFullName": "教育学_学前教育",
+   "subjectName": "学前教育",
+   "publishYear": "2013",
+   "definition": "幼儿在交谈距离之内玩着与附近的幼儿相同或相近的玩具，但不和伙伴交谈。是游戏的社会性分类中的一种游戏行为。"
+  },
+  {
+   "cn": "游戏治疗",
+   "en": "play therapy",
+   "source": "教育学名词",
+   "wordNumber": "06.135",
+   "subjectFullName": "教育学_学前教育",
+   "subjectName": "学前教育",
+   "publishYear": "2013",
+   "definition": "以游戏为治疗手段帮助儿童处理或解决诸如恐惧、愤怒、敌意等心理困扰或情绪障碍的一种心理治疗方法。"
+  },
+  {
+   "cn": "角色扮演",
+   "en": "role play",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "合作游戏",
+   "en": "cooperative play",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "游戏疗法,游戏治疗",
+   "en": "play therapy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "游戏建构",
+   "en": "play construction",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "幻想游戏",
+   "en": "fantasy play",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "独自型游戏",
+   "en": "solitary play",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "象征性游戏",
+   "en": "symbolic play",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "功能游戏，机能游戏",
+   "en": "functional play",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "联想游戏",
+   "en": "associative play",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "建构游戏",
+   "en": "constructional play",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自由-自由跃迁",
+   "en": "free-free transition",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "装扮游戏,假定游戏",
+   "en": "make believe play",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "即插即用",
+   "en": "plug and play",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "膝关节劇",
+   "en": "Kness Plays\",\"The",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Robert Wilson"
+  },
+  {
+   "cn": "独立缘（=游离缘）",
+   "en": "free border\",\"free margin",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "游离缘，独立缘",
+   "en": "free border\",\"free margin",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "游离核糖体",
+   "en": "free ribosome",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "游离巨噬细胞",
+   "en": "free macrophage",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "游离面",
+   "en": "free surface",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "游离末梢",
+   "en": "free ending",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "自由式打法",
+   "en": "free-style play",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "比赛开始！",
+   "en": "Play!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "比赛开始！",
+   "en": "Play!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "开始比赛!",
+   "en": "Play!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "比赛",
+   "en": "play",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "技术动作",
+   "en": "play\",\"playing action",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "定位打法",
+   "en": "slow play\",\"static play",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "比赛场地",
+   "en": "playing area\",\"playing court",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "比赛场地",
+   "en": "playing area\",\"playing court",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "封杀",
+   "en": "force play",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "拉开进攻",
+   "en": "open play",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "危险动作",
+   "en": "dangerous play",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "决胜赛",
+   "en": "play-off",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "公平比赛",
+   "en": "fair play",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "赤脚比赛",
+   "en": "play barefoot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "消极比赛",
+   "en": "passive play",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "游动打法",
+   "en": "moving play",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "防守型打法",
+   "en": "defensive play",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "危险动作",
+   "en": "dangerous play",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "进攻型打法",
+   "en": "attacking play",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "皮影戏",
+   "en": "shadow play",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0411",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "一种用兽皮或纸板剪制形象并借灯光照射所剪形象而表演故事的戏曲形式，既具有人戏（大戏）的表演艺术的特征，以音乐歌舞加道白表演好一个完整的故事（连台本戏）或一个故事的片段（折子戏）；又具有杂戏技艺的表演特"
+  },
+  {
+   "cn": "角色扮演",
+   "en": "role play",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.2.2.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育方法",
+   "subjectName": "学校健康教育方法",
+   "publishYear": "2025",
+   "definition": "按设定的场景，让几位学生分别扮演不同的角色，以他人的视角来看待问题，理解他人的处境和感受，再现生活中经常遇到的问题和处理问题的方法。"
+  },
+  {
+   "cn": "深层游戏",
+   "en": "deep play",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0612",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "英国法理学家哲学家边沁（Jeremy Bentham）在《立法理论》通过这个概念指赌注过高的赌博游戏，从其功利主义立场出发，是无理性的，这种深层游戏带给双方的痛苦大于快乐。格尔茨借用了此概念，他认为在"
+  },
+  {
+   "cn": "儿童游戏治疗",
+   "en": "child play therapy",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.5.6",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "以游戏为主要沟通媒介，在游戏中了解儿童的心理问题，并给予相应辅导的一类心理治疗方法。"
+  },
+  {
+   "cn": "游离棉酚",
+   "en": "free gossypol",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.10.4.11",
+   "subjectFullName": "食品卫生学_食品_食用油脂",
+   "subjectName": "食用油脂",
+   "publishYear": "2025",
+   "definition": "油脂中呈游离状态存在的有毒多酚类化合物。"
+  },
+  {
+   "cn": "游离碘",
+   "en": "free iodine",
+   "source": "消毒学",
+   "wordNumber": "2.1.6.2.1",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "含碘消毒剂在水溶液或醇溶液中释出的碘离子，是含碘消毒剂的主要杀菌形态。"
+  },
+  {
+   "cn": "游离氨",
+   "en": "free ammonia",
+   "source": "消毒学",
+   "wordNumber": "2.1.12.12",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "以氨分子和氢氧化铵形式存在的氨，控制季铵盐质量的指标之一。"
+  },
+  {
+   "cn": "自由电子",
+   "en": "free electron",
+   "source": "放射卫生学",
+   "wordNumber": "3.1.10",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_核物理基本概念",
+   "subjectName": "核物理基本概念",
+   "publishYear": "2025",
+   "definition": "受原子核束缚小、在外力作用下易于从原子上脱落，可以在物体中自由移动的电子。影响物体的导电性和导热性。"
+  },
+  {
+   "cn": "自由基",
+   "en": "free radical",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.1.1.27",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2025",
+   "definition": "最外层轨道含有不成对电子的分子、离子、原子或原子团。具有较活泼的化学性质。"
+  },
+  {
+   "cn": "价值中立",
+   "en": "value free",
+   "source": "社会学名词",
+   "wordNumber": "1.2.2.2",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_伦理准则",
+   "subjectName": "伦理准则",
+   "publishYear": "2025",
+   "definition": "在研究过程中，只客观地陈述事实而不做价值判断的研究方式。"
+  },
+  {
+   "cn": "自由贸易",
+   "en": "free trade",
+   "source": "马克思主义",
+   "wordNumber": "02.0176",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "国家权力不加干涉的商品和服务自由交换的经济活动。"
+  },
+  {
+   "cn": "自由竞争",
+   "en": "free competition",
+   "source": "马克思主义",
+   "wordNumber": "02.0182",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“垄断”相对。没有任何垄断成分，企业经营者可以自由投资、转移和商品买卖的竞争。它是垄断前资本主义经济的主要特征。自由竞争加速了资本的积聚和集中，引起生产集中，发展到一定阶段就产生垄断。"
+  },
+  {
+   "cn": "自由劳动",
+   "en": "free labor",
+   "source": "马克思主义",
+   "wordNumber": "03.0238",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "不以谋生为目的而仅仅是为了满足劳动者自己爱好兴趣的自由自觉的劳动，是人的全面自由发展的前提性条件。作为生活的第一需要，自由劳动只有在共产主义社会才能真正实现。"
+  },
+  {
+   "cn": "自由联合",
+   "en": "free association",
+   "source": "马克思主义",
+   "wordNumber": "03.0239",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "共产主义社会人类在全面而自由发展的基础上实行联合劳动的方式。在有阶级社会，社会分工的存在和生产资料掌握在少数人手里，使劳动者只有出卖劳动力才能生存，工作性质既狭隘片面又不自由。当共产主义实现时，代替那"
+  },
+  {
+   "cn": "自由农",
+   "en": "free peasants",
+   "source": "马克思主义",
+   "wordNumber": "03.0240",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "欧洲奴隶社会和封建社会中享有人身自由、独立从事经营的农民。一般指在小土地所有制基础上拥有简单生产工具的自耕农。他们虽然人数众多，但是从未成为社会上占统治地位的阶级力量。"
+  },
+  {
+   "cn": "搭便车",
+   "en": "free-riding ",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.3.2.3",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场失灵",
+   "subjectName": "卫生服务市场失灵",
+   "publishYear": "2025",
+   "definition": "对公共产品的消费中，那些自己不为这种产品付费，在别人付出代价去取得后，坐享其成果的行为。"
+  },
+  {
+   "cn": "自由支配时间",
+   "en": "free time",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.5.1.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_作息制度卫生",
+   "subjectName": "作息制度卫生",
+   "publishYear": "2025",
+   "definition": "可依据个人意愿或喜好自行支配的时间。"
+  },
+  {
+   "cn": "自由喂养",
+   "en": "free feeding",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.5.6",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "完全依赖儿童的个性和食欲，放任儿童饮食行为的喂养方式。"
+  },
+  {
+   "cn": "西域百戏",
+   "en": "Western Region 100 Opera （plays）",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0643",
+   "subjectFullName": "民族学与文化学_民族史_新疆研究",
+   "subjectName": "新疆研究",
+   "publishYear": "2025",
+   "definition": "古代西域乐舞杂技、幻术、武术表演的总称。西域音乐、祝术、杂戏、截舌、抽肠、走绳等，均通过西域传入中原，与传统的角抵戏、蚩尤戏等结合，从而发展演变为名目繁多，包罗万象的“百戏”。"
+  },
+  {
+   "cn": "角色扮演",
+   "en": "role-playing，role-taking",
+   "source": "社会学名词",
+   "wordNumber": "2.3.2.4",
+   "subjectFullName": "社会学名词_社会学一般概念_社会化_社会角色",
+   "subjectName": "社会角色",
+   "publishYear": "2025",
+   "definition": "在想象中模拟、扮演他人角色，试图通过理解他人角色的处境和特征，来确定自己的角色特点，规范及修正自己的角色行为。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
