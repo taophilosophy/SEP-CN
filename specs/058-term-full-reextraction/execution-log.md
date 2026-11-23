@@ -369,3 +369,11 @@
 * 无 Wikidata 人格项者：Robert Pippin（经英文维基“Robert B. Pippin”确证为美国哲学家、芝加哥大学）；John Dillon（古典学，检索只有同名政客与无描述项，身份不可确证，本批未收）；Christoph Helmig、Corey Dyck、Andrea Falcon（项无描述、易与他人不辨，未收）。
 * 落册：`term_flow` 29/0；`registry_azsort` 4,720→4,749 守恒；`check_terms` 硬错误 0，缺项告警 750→755（新增行生卒确无公开数据者 5 人）；`check_all` 17 项全绿。
 * 证据：`results/people-wikidata-2026-11-24-b13.tsv`；清单 `tasks/manifests/2026-11-24-058-batch39-people.json`。
+
+## 2026-11-24：人名第十四批（非西方传统 21 人）
+
+* 定向名单覆盖现代新儒家（Xiong Shili、Tang Junyi、Xu Fuguan、Liang Shuming、Li Zehou、Zhang Dongsun——登记册原只有 Feng Youlan 等少数）、京都学派（Tanabe Hajime、Nishitani Keiji〔已在册被拦〕、Abe Masao、Yuasa Yasuo、Keta Masako）、中国哲学英语学界（Chad Hansen、Justin Tiwald）、印度正理—语言哲学（Bimal Krishna Matilal）、伊斯兰照明学派（Hossein Ziai、Al-Maturidi）、非洲哲学（Senghor、Tempels）与拉美解放哲学（Francisco Romero、Arturo Roig、Horacio Cerutti Guldberg、José Carlos Mariátegui）。
+* 生卒特殊处理：Al-Maturidi 只记卒年（生年有约 853／893 两说）；Xu Fuguan 取 Wikidata 1904–1982 并注通行传记作 1903；Tanabe 1885–1962 更正本会话早先误记。
+* 取证例外：Chad Hansen（Wikidata 同名项为橄榄球员，本人无人格项）与 Arturo Roig（英文维基条目存在但未载生卒）留白待考；Justin Tiwald 籍属据香港大学哲学系页（exa 检索，2026-11-24）。
+* 落册：`term_flow` 21/1；`registry_azsort` 4,749→4,770 守恒；`check_terms` 硬错误 0，缺项告警 755→757（Hansen、Roig 生卒留白）；`check_all` 17 项全绿。
+* 证据：`results/people-wikidata-2026-11-24-b14.tsv`；清单 `tasks/manifests/2026-11-24-058-batch40-people.json`。
