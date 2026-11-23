@@ -1,0 +1,702 @@
+{
+ "key": "replicator dynamics",
+ "term": "replicator dynamics",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T02:44:03+00:00",
+ "status": "ok",
+ "note": "variant=replicator dynamics; 审定公布名词库=1253; 海峡两岸名词对照库=432; 其他来源数据库=25; 预公布名词数据库=19; jwt-direct（JWT 直连，raw 略；已滤维基 10 条）",
+ "hits": [
+  {
+   "cn": "动态数据复制",
+   "en": "dynamic replication",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0182",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "根据数据的使用情况将数据复制到使用该数据频率较高的站点，或者只复制活跃繁忙的数据的一种数据复制技术。"
+  },
+  {
+   "cn": "复制因子",
+   "en": "replicator",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.013",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_复制_损伤与修复_复制",
+   "subjectName": "复制",
+   "publishYear": "2024",
+   "definition": "含有一个复制起点并能促进质粒DNA分子在宿主细胞中复制的一段DNA序列。"
+  },
+  {
+   "cn": "复制因子",
+   "en": "replicator",
+   "source": "畜牧学名词",
+   "wordNumber": "04.104",
+   "subjectFullName": "畜牧学_遗传育种_分子遗传学",
+   "subjectName": "分子遗传学",
+   "publishYear": "2020",
+   "definition": "有一个复制起始点并能促进DNA分子复制的DNA序列。"
+  },
+  {
+   "cn": "复制因子",
+   "en": "replicator",
+   "source": "遗传学名词",
+   "wordNumber": "03.215",
+   "subjectFullName": "遗传学_分子遗传学",
+   "subjectName": "分子遗传学",
+   "publishYear": "2007",
+   "definition": "有一个复制起始点并能促进DNA分子复制的DNA序列。"
+  },
+  {
+   "cn": "复制",
+   "en": "replication",
+   "source": "农学名词",
+   "wordNumber": "06.110",
+   "subjectFullName": "作物基因组学与遗传育种_作物遗传改良",
+   "subjectName": "作物遗传改良",
+   "publishYear": "2025",
+   "definition": "以亲代遗传物质（DNA或RNA）为模板按照碱基配对原则合成子代分子的过程。"
+  },
+  {
+   "cn": "复制",
+   "en": "replication",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0098",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_复制_损伤与修复_复制",
+   "subjectName": "复制",
+   "publishYear": "2024",
+   "definition": "DNA或RNA基因组以亲代核酸链作为合成模板，按照碱基互补配对原则合成子代核酸链进行扩增的过程。"
+  },
+  {
+   "cn": "复制",
+   "en": "replication",
+   "source": "兽医学名词",
+   "wordNumber": "16.177",
+   "subjectFullName": "兽医学_兽医微生物学",
+   "subjectName": "兽医微生物学",
+   "publishYear": "2023",
+   "definition": "病毒吸附并侵入易感细胞内，以其核酸为模板合成子代病毒核酸和蛋白质等组分，装配子代病毒粒子，最后释放到细胞外的过程。"
+  },
+  {
+   "cn": "复制",
+   "en": "replication",
+   "source": "医学遗传学名词",
+   "wordNumber": "3.044",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "由核酸模板链复制出相同核酸链的过程。"
+  },
+  {
+   "cn": "复制",
+   "en": "replication",
+   "source": "畜牧学名词",
+   "wordNumber": "04.101",
+   "subjectFullName": "畜牧学_遗传育种_分子遗传学",
+   "subjectName": "分子遗传学",
+   "publishYear": "2020",
+   "definition": "在DNA聚合酶的催化作用下，以亲代DNA分子为模板合成子代DNA分子的过程。"
+  },
+  {
+   "cn": "复制",
+   "en": "replication",
+   "source": "植物学名词",
+   "wordNumber": "16.0174",
+   "subjectFullName": "植物学_植物生物技术",
+   "subjectName": "植物生物技术",
+   "publishYear": "2019",
+   "definition": "以亲代DNA分子为模板按照碱基配对原则合成子代DNA分子的过程。广义也指DNA或RNA基因组的扩增过程。"
+  },
+  {
+   "cn": "复制",
+   "en": "replication",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0347",
+   "subjectFullName": "管理科学技术_金融工程_技术",
+   "subjectName": "技术",
+   "publishYear": "2016",
+   "definition": "证券产品的一种设计方法。某种证券运作业绩良好，可以将其作为参照标准，再设计一只新证券，在同样的方式、方法下运作，以期望能够取得与原证券具有相同的风险特性和收益率，给投资者创造出更多的获取收益的机会。"
+  },
+  {
+   "cn": "复制",
+   "en": "replication",
+   "source": "药学名词",
+   "wordNumber": "05.334",
+   "subjectFullName": "药学_生物药学",
+   "subjectName": "生物药学",
+   "publishYear": "2014",
+   "definition": "用亲代分子作为合成的模板，由一个亲代DNA或一个亲代RNA合成一个新的子代分子的过程。"
+  },
+  {
+   "cn": "复制",
+   "en": "replication",
+   "source": "微生物学名词",
+   "wordNumber": "04.073",
+   "subjectFullName": "微生物学_病毒学",
+   "subjectName": "病毒学",
+   "publishYear": "2012",
+   "definition": "以病毒粒子的基因组为模板，产生与其完全一致的一定数量的子代病毒粒子的过程。"
+  },
+  {
+   "cn": "复制",
+   "en": "replication",
+   "source": "细胞生物学名词",
+   "wordNumber": "07.161",
+   "subjectFullName": "细胞生物学_细胞遗传",
+   "subjectName": "细胞遗传",
+   "publishYear": "2009",
+   "definition": "以亲代DNA分子为模板按照碱基配对原则合成子代DNA分子的过程。广义也指DNA或RNA基因组的扩增过程。"
+  },
+  {
+   "cn": "复制",
+   "en": "replication",
+   "source": "遗传学名词",
+   "wordNumber": "03.209",
+   "subjectFullName": "遗传学_分子遗传学",
+   "subjectName": "分子遗传学",
+   "publishYear": "2007",
+   "definition": "以亲代DNA分子为模板合成子代DNA分子的过程。广义也指DNA或RNA基因组的扩增过程。"
+  },
+  {
+   "cn": "复制",
+   "en": "replication",
+   "source": "医学名词 第三分册",
+   "wordNumber": "01.617",
+   "subjectFullName": "医学_医学遗传学",
+   "subjectName": "医学遗传学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "下颌运动复制器",
+   "en": "gnathic replicator",
+   "source": "医学名词 第二分册",
+   "wordNumber": "10.138",
+   "subjectFullName": "医学_口腔医学_器械、设备、材料、药剂",
+   "subjectName": "器械、设备、材料、药剂",
+   "publishYear": "1992",
+   "definition": ""
+  },
+  {
+   "cn": "复制聚合酶",
+   "en": "replication polymerase",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "3.0317",
+   "subjectFullName": "生物化学与分子生物学_酶_酶命名与分类_转移酶",
+   "subjectName": "转移酶",
+   "publishYear": "2024",
+   "definition": "大肠埃希菌细胞内真正负责重新合成DNA的DNA聚合酶Ⅲ。编号：EC 2.7.7.7。"
+  },
+  {
+   "cn": "DNA复制",
+   "en": "DNA replication",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0099",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_复制_损伤与修复_复制",
+   "subjectName": "复制",
+   "publishYear": "2024",
+   "definition": "DNA合成过程中，以亲代DNA两条链为模板合成两个子代DNA分子的过程。其中每一个子代DNA分子包含一条亲代链和一条新合成的链。具有高保真性。"
+  },
+  {
+   "cn": "复制叉",
+   "en": "replication fork",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.011",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_复制_损伤与修复_复制",
+   "subjectName": "复制",
+   "publishYear": "2024",
+   "definition": "正在进行复制的双链DNA分子所形成的Y形叉状结构。其中已解旋的两条亲代单链以及正在进行合成的新链构成了Y形的头部，尚未解旋的亲代DNA双链构成了Y形的尾部。"
+  },
+  {
+   "cn": "复制因子",
+   "en": "replicator",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "复制",
+   "en": "replication",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "复制",
+   "en": "replication",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "复制",
+   "en": "replication",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "复制",
+   "en": "replication",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "复制",
+   "en": "replication",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "复制滑移,复制跳格",
+   "en": "replication slipping\",\"replication slippage",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "复制眼(=复制泡)",
+   "en": "replication eye(=replication bubble)",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "复制叉",
+   "en": "replicating fork\",\"replication fork",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "复制叉",
+   "en": "replication fork",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "散乱复制",
+   "en": "dispersive replication",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "半不连续复制",
+   "en": "semidiscontinuous replication",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "复制结合",
+   "en": "replication banding",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "复制带",
+   "en": "replication band",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "θ复制",
+   "en": "theta replication",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "保守性复制",
+   "en": "conservative replication",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "单向复制",
+   "en": "unidirectional replication",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "半保留复制",
+   "en": "semiconservative  replication",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "半不连续复制",
+   "en": "semicontinuous replication",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "并行复制",
+   "en": "concurrent replication",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "可复制性",
+   "en": "replicability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "精神动力",
+   "en": "dynamism",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "规模动态化",
+   "en": "scale dynamics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社群动力学",
+   "en": "community dynamics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "动态规划",
+   "en": "dynamic programming",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "动态模型",
+   "en": "dynamic model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "实时远程复制",
+   "en": "real-time remote replication",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "多副本一致性管理规则",
+   "en": "management rule for consistency of replications",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "P2P动态组网",
+   "en": "P2P dynamic networking",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "金融动态风险计量评分体系",
+   "en": "dynamic financial risk scoring system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "复制后修复",
+   "en": "post-replication repair",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.5.2.1",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "DNA复制结束后对DNA损伤进行的修复。这类修复通常发生在细胞周期的G1期或G2期，包括DNA链断裂修复、错配修复和切除修复等不同的修复方式。"
+  },
+  {
+   "cn": "束流动力学",
+   "en": "beam dynamics",
+   "source": "放射卫生学",
+   "wordNumber": "6.5.1.11",
+   "subjectFullName": "放射卫生学_放射防护_工业应用的放射防护_加速器应用",
+   "subjectName": "加速器应用",
+   "publishYear": "2025",
+   "definition": "研究带电粒子束流在传输线和加速器的电磁场作用下运动规律的学科。"
+  },
+  {
+   "cn": "群体动力学",
+   "en": "group dynamics",
+   "source": "社会学名词",
+   "wordNumber": "4.1.2.5",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会心理学理论",
+   "subjectName": "社会心理学理论",
+   "publishYear": "2025",
+   "definition": "由德裔美国心理学家勒温(Kurt Lewin）等人在对群体现象进行动态分析与研究的基础上提出，试图通过对群体现象的动态分析发现其一般规律的理论。认为个体的行为是由个性特征和环境的影响相互作用的结果。"
+  },
+  {
+   "cn": "社会动力学",
+   "en": "social dynamics",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0519",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "法国哲学家孔德（Auguste Comte）社会学理论的一个部分，与社会静力学相对。社会动力学从纵的方面研究社会的变迁和进化，认为进步意味沿上升路线发展，提出三阶段定律，即神学阶段、形而上学阶段和实证"
+  },
+  {
+   "cn": "动态",
+   "en": "dynamic state",
+   "source": "消毒学",
+   "wordNumber": "1.8.9",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "设施以规定的方式运行，有规定的人员在场并在商定的条件工作的状态。"
+  },
+  {
+   "cn": "动力定型",
+   "en": "dynamic stereotype",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习大脑活动特征",
+   "subjectName": "学习大脑活动特征",
+   "publishYear": "2025",
+   "definition": "人长期生活、劳动、反复重演某种活动后，逐渐在大脑皮质高级神经系统中建立的巩固的条件反射活动模式，其外在表现即为动作习惯。"
+  },
+  {
+   "cn": "动力试验",
+   "en": "dynamic test",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.1.1.62",
+   "subjectFullName": "食品卫生学_食品污染_食品生物性危害因素",
+   "subjectName": "食品生物性危害因素",
+   "publishYear": "2025",
+   "definition": "通过试验的方法对结构振动进行研究，借以观察和分析结构的基本动力特性以及在各种环境下的动态稳定性和耐受能力的过程。是验证结构动态性能和动力分析的重要手段。"
+  },
+  {
+   "cn": "动力定型",
+   "en": "dynamic stereotype",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.1.1.2.1.2",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业生理学",
+   "subjectName": "军事作业生理学",
+   "publishYear": "2025",
+   "definition": "长期在同样劳动环境中从事某一作业活动而逐渐在大脑皮质高级神经系统中建立的巩固的条件反射活动模式。其外在表现为从事该作业时各器官系统相互配合得更为协调、反应更加迅速、能耗较少，作业更轻松自如。"
+  },
+  {
+   "cn": "动态显色法",
+   "en": "dynamic chromogenic assay",
+   "source": "消毒学",
+   "wordNumber": "6.2.31.6",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "利用鲎试剂与内毒素反应过程中产生的凝固酶使特定底物显色释放出的呈色团而测定内毒素含量的方法。"
+  },
+  {
+   "cn": "动态功能测定",
+   "en": "dynamic function determination",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.3.8",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_核医学",
+   "subjectName": "核医学",
+   "publishYear": "2025",
+   "definition": "将某种能参与体内给定器官的生理学过程或代谢过程的放射性核素或标记物引入体内，测量放射性核素数量在该器官中随时间的变化，以反映器官功能的一种技术。"
+  },
+  {
+   "cn": "军事动态作业",
+   "en": "military dynamic work",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.1.1.2.1",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业生理学",
+   "subjectName": "军事作业生理学",
+   "publishYear": "2025",
+   "definition": "以动力紧张为主的军事作业。在保持肌张力不变（等张收缩）的情况下，经肌肉交替收缩和舒张，使关节活动来进行的军事作业。"
+  },
+  {
+   "cn": "心理分析理论",
+   "en": "psychoanalytic theory，psycho-dynamics",
+   "source": "社会学名词",
+   "wordNumber": "4.4.7.11",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作理论",
+   "subjectName": "社会工作理论",
+   "publishYear": "2025",
+   "definition": "以弗洛伊德(S.Freud）及其追随者们的著作、学说为基础形成和发展起来的一种社会工作理论。认为不良行为的产生源于由各种本能集合而成的“本我”同“自我”、“超我”之间关系的失衡。社会工作的主要任务就是"
+  },
+  {
+   "cn": "动态受益归属分析",
+   "en": "dynamic benefit incidence analysis",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.4.5.15.2",
+   "subjectFullName": "卫生经济学名词_卫生经济学_健康公平",
+   "subjectName": "健康公平",
+   "publishYear": "2025",
+   "definition": "在分析公共支出受益分布时，将历史比较和边际受益结合起来,分析政府公共支出的边际受益分析方法。"
+  },
+  {
+   "cn": "冲击波动压",
+   "en": "dynamic pressure of shock wave",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.1.51",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核武器",
+   "subjectName": "核武器",
+   "publishYear": "2025",
+   "definition": "冲击波内高速运动的气流，在其运动方向上所产生的冲击压强。"
+  },
+  {
+   "cn": "疫苗经济学评价动态模型",
+   "en": "dynamic model of vaccine economic evaluation",
+   "source": "卫生经济学名词",
+   "wordNumber": "13.5.5.1.2",
+   "subjectFullName": "卫生经济学名词_药物经济学_疫苗经济学",
+   "subjectName": "疫苗经济学",
+   "publishYear": "2025",
+   "definition": "模拟疫苗接种前后个体自身、个体之间或个体与外界环境间的传染病交互作用。动态模型能反映疾病感染力随时间变化及个体间相互影响的动态特征，如群体免疫效应。"
+  },
+  {
+   "cn": "医保药品目录动态调整机制",
+   "en": "dynamic adjustment mechanism of reimbursement drug list",
+   "source": "卫生经济学名词",
+   "wordNumber": "13.3.4.1.2",
+   "subjectFullName": "卫生经济学名词_药物经济学_药品政策与规制",
+   "subjectName": "药品政策与规制",
+   "publishYear": "2025",
+   "definition": "综合考虑药品临床需求、医保基金承受能力和新药上市情况，周期性调整医保药品目录的政策规定。"
+  },
+  {
+   "cn": "高危孕产妇动态监测评估",
+   "en": "dynamic assessment for high-risk pregnant woman",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.5.2.5.3",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "根据高危险性特征的孕产妇人群病情变化及时调整妊娠风险分级和相应管理措施的过程。"
+  },
+  {
+   "cn": "放射性核素敷贴器",
+   "en": "radionuclide applicator",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.3.24",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_核医学",
+   "subjectName": "核医学",
+   "publishYear": "2025",
+   "definition": "将一定活度的放射性核素，制成具有不同形状和面积的面状源，作为敷贴治疗用的放射源。"
+  },
+  {
+   "cn": "施源器",
+   "en": "source applicator",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.56",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "在近距离放射治疗中，预先放入人体腔、管道或组织间，供放射源驻留或运动，并实施治疗的特殊容器。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,802 @@
+{
+ "key": "strategy profile",
+ "term": "strategy profile",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T02:44:25+00:00",
+ "status": "ok",
+ "note": "variant=strategy profile; 审定公布名词库=981; 海峡两岸名词对照库=228; 其他来源数据库=107; 预公布名词数据库=87; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "战略",
+   "en": "strategy",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "9.099",
+   "subjectFullName": "新闻学与传播学_组织传播_组织传播战略",
+   "subjectName": "组织传播战略",
+   "publishYear": "2022",
+   "definition": "制定一个组织的长期目标，以及为达到这些目标所采取的行动与资源的分配。广义上，它涉及理性确定组织的重大利益及其目标。狭义上，指通过对资源的利用和劳动效率的合理调配，来实现组织目标并获得竞争优势。"
+  },
+  {
+   "cn": "策略",
+   "en": "strategy",
+   "source": "经济学名词",
+   "wordNumber": "03.160",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "参与人在给定信息集情况下的行动规则。参与人的策略规定了参与人在何种条件下采取何种行动，是一种相机抉择的行动方案。与参与人的行动不同，策略是一种完备的行动规则。"
+  },
+  {
+   "cn": "策略",
+   "en": "strategy",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0231",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "为满足一个需求而设计的能行过程，它是一个算法过程，但可能需要无穷次做动作才能满足所对应的需求。"
+  },
+  {
+   "cn": "战略",
+   "en": "strategy",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0591",
+   "subjectFullName": "管理科学技术_一般管理理论_战略管理",
+   "subjectName": "战略管理",
+   "publishYear": "2016",
+   "definition": "组织为求得长期生存和不断发展，为创造和保持竞争优势，对组织的发展目标、达到目标的途径和手段的总体规划。"
+  },
+  {
+   "cn": "策略",
+   "en": "strategy",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0284",
+   "subjectFullName": "管理科学技术_运筹与管理_对策理论与方法",
+   "subjectName": "对策理论与方法",
+   "publishYear": "2016",
+   "definition": "局中人在对策中采用的一个可行的自始至终通盘筹划的行动方案。"
+  },
+  {
+   "cn": "正交剖面",
+   "en": "profile",
+   "source": "地质学名词",
+   "wordNumber": "09.01.023",
+   "subjectFullName": "地质学_构造地质学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "垂直褶皱轴的剖面图。反映出褶皱方向上的真实形态。"
+  },
+  {
+   "cn": "人物简介",
+   "en": "profile",
+   "source": "档案学名词",
+   "wordNumber": "04.02.017",
+   "subjectFullName": "档案学_档案文献编纂_档案文献编纂体裁",
+   "subjectName": "档案文献编纂体裁",
+   "publishYear": "2024",
+   "definition": "以人物为对象简要介绍其生平行事、思想观点等的档案参考资料。"
+  },
+  {
+   "cn": "剖面",
+   "en": "profile",
+   "source": "地球物理学名词",
+   "wordNumber": "08.0025",
+   "subjectFullName": "地球物理学_勘探地球物理学_勘探地球物理学总论",
+   "subjectName": "勘探地球物理学总论",
+   "publishYear": "2022",
+   "definition": "泛指体(地质、地震、重磁电等 )切断后呈现出的表面。 "
+  },
+  {
+   "cn": "剖面图",
+   "en": "profile",
+   "source": "测绘学名词",
+   "wordNumber": "04.415",
+   "subjectFullName": "测绘学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2020",
+   "definition": "假想将地面沿某一指定方向线垂直剖切，并以图形显示制图对象的立体分布和垂直结构的一种图解形式。"
+  },
+  {
+   "cn": "剖面",
+   "en": "profile",
+   "source": "物理学名词",
+   "wordNumber": "01.0353",
+   "subjectFullName": "物理学_通类_数学",
+   "subjectName": "数学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "外廓",
+   "en": "profile",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0116",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "UML的一种通用扩展机制，通过细化UML标准语义的方法。使UML的模型适应某种特定的应用领域或平台。"
+  },
+  {
+   "cn": "剖面图",
+   "en": "profile",
+   "source": "核医学名词",
+   "wordNumber": "03.0584",
+   "subjectFullName": "核医学_核医学设备与操作_图像分析技术",
+   "subjectName": "图像分析技术",
+   "publishYear": "2018",
+   "definition": "一维数据在某一平面上的分布图。类似于垂直于地表的地形截面图。"
+  },
+  {
+   "cn": "地形剖面",
+   "en": "profile",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.152",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "沿着特定方向(多为纵向)描绘地形的图形。"
+  },
+  {
+   "cn": "剖面",
+   "en": "profile",
+   "source": "地理信息系统名词",
+   "wordNumber": "02.335",
+   "subjectFullName": "地理信息系统_技术与应用",
+   "subjectName": "技术与应用",
+   "publishYear": "2012",
+   "definition": "沿着特定方向描绘地学实体的切面图。"
+  },
+  {
+   "cn": "廓线",
+   "en": "profile",
+   "source": "大气科学名词",
+   "wordNumber": "05.020",
+   "subjectFullName": "大气科学_动力气象学",
+   "subjectName": "动力气象学",
+   "publishYear": "2009",
+   "definition": "变量(气象要素)随高度或距离变化的状况曲线。"
+  },
+  {
+   "cn": "叶型",
+   "en": "profile",
+   "source": "航空科学技术名词",
+   "wordNumber": "05.129",
+   "subjectFullName": "航空科学技术_推进技术与航空动力装置",
+   "subjectName": "推进技术与航空动力装置",
+   "publishYear": "2003",
+   "definition": "按一定气动要求设计的叶片横截面形状。它是组成叶片的基本单元。"
+  },
+  {
+   "cn": "外廓线",
+   "en": "profile",
+   "source": "船舶工程名词",
+   "wordNumber": "02.156",
+   "subjectFullName": "船舶工程_船舶总体",
+   "subjectName": "船舶总体",
+   "publishYear": "1998",
+   "definition": "中线面与船体型表面的交线。"
+  },
+  {
+   "cn": "纵断面",
+   "en": "profile",
+   "source": "公路交通科技名词",
+   "wordNumber": "02.111",
+   "subjectFullName": "公路交通科学技术_道路工程",
+   "subjectName": "道路工程",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "剖面",
+   "en": "profile",
+   "source": "地球物理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地球物理学_应用地球物理学",
+   "subjectName": "应用地球物理学",
+   "publishYear": "1988",
+   "definition": ""
+  },
+  {
+   "cn": "廓线仪",
+   "en": "profiler",
+   "source": "大气科学名词",
+   "wordNumber": "02.212",
+   "subjectFullName": "大气科学_大气探测",
+   "subjectName": "大气探测",
+   "publishYear": "2009",
+   "definition": "用主动或被动遥感原理测定自由大气各要素垂直分布的各种电子设备系统的总称。"
+  },
+  {
+   "cn": "策略",
+   "en": "strategy",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "廓线",
+   "en": "profile",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "剖面［图］",
+   "en": "profile",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "剖面",
+   "en": "profile",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "地形剖面",
+   "en": "profile",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "剖面",
+   "en": "profile",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "专用标准",
+   "en": "profile",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "剖面",
+   "en": "profile",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "外廓线",
+   "en": "profile",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "廓线仪",
+   "en": "profiler",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "断面仪",
+   "en": "profiler",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "生态对策",
+   "en": "ecological strategy\",\"bionomic strategy",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "编码策略",
+   "en": "coding strategy\",\"encoding strategy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "生态对策",
+   "en": "bionomic strategy\",\"ecological strategy",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "庇护所策略",
+   "en": "refuge strategy",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "进化对策",
+   "en": "evolutionary strategy",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "气候策略",
+   "en": "climatological strategy",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "适应性策略",
+   "en": "adaptation strategy",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "控制策略",
+   "en": "control strategy",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "认知策略",
+   "en": "cognitive strategy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "策略",
+   "en": "strategy",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "平台战略",
+   "en": "platform strategy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "标准化战略",
+   "en": "Standardization Strategy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "学习策略",
+   "en": "learning strategy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全战略",
+   "en": "Security Strategy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《ISO 2016–2020战略规划》",
+   "en": "ISO Strategy 2016–2020",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "金融科技战略",
+   "en": "Fintech Strategies",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "案件画像",
+   "en": "case profiling",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大数据战略",
+   "en": "Big Data Strategy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "宽带中国战略",
+   "en": "Broadband China Strategy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自主可控战略",
+   "en": "self-reliance strategy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字包容战略",
+   "en": "Digital Inclusion Strategy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "元数据管理策略",
+   "en": "metadata management strategy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字政府战略",
+   "en": "Digital Government Strategy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "移动政务策略",
+   "en": "mobile government strategy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "i-Japan战略",
+   "en": "i-Japan Strategy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际标准化战略",
+   "en": "international standardization strategy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据使用策略",
+   "en": "data usage strategy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络威慑战略",
+   "en": "cyber deterrence strategy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "策略",
+   "en": "strategy",
+   "source": "社会医学名词",
+   "wordNumber": "10.2",
+   "subjectFullName": "政策与策略",
+   "subjectName": "策略",
+   "publishYear": "2025",
+   "definition": "为实现卫生目标制定的总体行动方针与实施路径，强调系统性和可操作性，是政策落实的实践框架。"
+  },
+  {
+   "cn": "家庭策略",
+   "en": "family strategy",
+   "source": "社会学名词",
+   "wordNumber": "3.1.1.6",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_家庭",
+   "subjectName": "家庭",
+   "publishYear": "2025",
+   "definition": "家庭面临新的外部环境时，家庭及其成员的决策过程和决策时机。例如何时让孩子离家谋生，何时更换住所，何时控制家庭规模等。"
+  },
+  {
+   "cn": "适应策略",
+   "en": "adaptive strategy",
+   "source": "社会学名词",
+   "wordNumber": "4.2.9.46",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化现象",
+   "subjectName": "文化现象",
+   "publishYear": "2025",
+   "definition": "社会群体在一定时期为了调整和解决来自其内部和外部的压力所采取的行动计划。"
+  },
+  {
+   "cn": "两步走战略",
+   "en": "twostep strategy",
+   "source": "马克思主义",
+   "wordNumber": "03.0803",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中共十九大对实现“两个一百年”奋斗目标做出的两步走的战略安排：即从2020年到2035年，在全面建成小康社会的基础上，再奋斗15年，基本实现社会主义现代化；从2035年到本世纪中叶，在基本实现现代化的"
+  },
+  {
+   "cn": "劳工战略",
+   "en": "workforce strategy",
+   "source": "马克思主义",
+   "wordNumber": "05.0195",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "法国左翼思想家、《新观察家》周刊的创始人安德列·高兹（Andre Gorz）在“新工人阶级论”的基础上提出的一种反资本主义的结构改革战略，即反对劳工运动的传统领导形式，提倡以“新工人阶级”为变革的主要"
+  },
+  {
+   "cn": "沟通策略",
+   "en": "communication strategy",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.4.6",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_青少年健康促进策略",
+   "subjectName": "青少年健康促进策略",
+   "publishYear": "2025",
+   "definition": "根据国家健康促进政策和战略，通过宣传、教育和促进健康的生活方式和负责任的行为，改变导致青少年处于持续不良健康状态的潜在行为模式和态度的行动方案。"
+  },
+  {
+   "cn": "学习策略",
+   "en": "study strategy",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.4.3.3",
+   "subjectFullName": "",
+   "subjectName": "学校心理健康促进",
+   "publishYear": "2025",
+   "definition": "学生在学习过程中对信息的操纵和加工的能力，也是提高学习效率的关键。"
+  },
+  {
+   "cn": "卫生策略",
+   "en": "health strategy",
+   "source": "社会医学名词",
+   "wordNumber": "10.2.1",
+   "subjectFullName": "政策与策略",
+   "subjectName": "策略",
+   "publishYear": "2025",
+   "definition": "为实现卫生目标而制定的中长期行动框架，涵盖体系建设、疾病防控与健康促进，强调协调与可持续。"
+  },
+  {
+   "cn": "5T策略",
+   "en": "5 T strategy",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.4.5.4",
+   "subjectFullName": "",
+   "subjectName": "学校心理健康促进",
+   "publishYear": "2025",
+   "definition": "采用谈话(talking)，培训(training)，教学(teaching)，工具(tools)和照顾(taking care)的方式，以促进和支持学生心理健康的策略。"
+  },
+  {
+   "cn": "风险概述",
+   "en": "risk profile",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.3.16",
+   "subjectFullName": "食品卫生学_总论_食品安全风险分析",
+   "subjectName": "食品安全风险分析",
+   "publishYear": "2025",
+   "definition": "对某一食品安全问题所涉及的风险概况进行系统总体描述。"
+  },
+  {
+   "cn": "三步走战略",
+   "en": "Threestep Development Strategy",
+   "source": "马克思主义",
+   "wordNumber": "03.0583",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1987年10月党的十三大提出的中国经济建设分的总体战略部署：第一步从1981年到1990年，国民生产总值翻一番，解决人民的温饱问题；第二步从1991年到20世纪末，国民生产总值再翻一番，人民生活达到"
+  },
+  {
+   "cn": "可持续发展战略",
+   "en": "sustainable development strategy",
+   "source": "马克思主义",
+   "wordNumber": "03.0632",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "可持续发展是20世纪80年代提出的一种新发展观，指实现可持续发展的行动计划和纲领，是国家在多个领域实现可持续发展的总称。其核心思想是：经济发展、保护资源和保护生态环境协调一致。它包含两个基本要素即“需"
+  },
+  {
+   "cn": "四个全面",
+   "en": "FourPronged Comprehensive Strategy",
+   "source": "马克思主义",
+   "wordNumber": "03.0793",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "“四个全面”战略布局是以习近平同志为核心的党中央治国理政战略思想的重要内容。其主要内容包括：全面建成小康社会、全面深化改革、全面依法治国、全面从严治党。“四个全面”战略布局集中体现了时代和实践发展对党"
+  },
+  {
+   "cn": "战略和策略",
+   "en": "strategy and tactic",
+   "source": "马克思主义",
+   "wordNumber": "04.0082",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "战略是对战争全局的筹划和指导，泛指对全局性、高层次的重大问题的筹划和指导。策略指在政治斗争中，为实现一定的战略任务，根据形势的发展而制定的行动准则和斗争方式。泛指善于灵活运用适合当时情况的斗争方式和方"
+  },
+  {
+   "cn": "走出去战略",
+   "en": "going global strategy",
+   "source": "马克思主义",
+   "wordNumber": "04.0186",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国政府大力支持的海外投资战略，指中国企业充分利用国内和国外“两个市场、两种资源”，通过对外直接投资、对外工程承包、对外劳务合作等形式积极参与国际竞争与合作，实现我国经济可持续发展的现代化强国战略。"
+  },
+  {
+   "cn": "食品安全战略",
+   "en": "food safety strategy",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.1",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品安全战略",
+   "subjectName": "食品安全战略",
+   "publishYear": "2025",
+   "definition": "针对特定时期主要食品安全问题采取行动的一致性框架。"
+  },
+  {
+   "cn": "全球卫生策略",
+   "en": "global health strategy",
+   "source": "社会医学名词",
+   "wordNumber": "10.2.1.4",
+   "subjectFullName": "政策与策略",
+   "subjectName": "策略",
+   "publishYear": "2025",
+   "definition": "国际社会为促进全球健康公平与合作而制定的战略框架，涵盖疾病防控、体系建设与可持续发展。"
+  },
+  {
+   "cn": "健康治理策略",
+   "en": "health governance strategy",
+   "source": "社会医学名词",
+   "wordNumber": "6.2.1",
+   "subjectFullName": "健康治理",
+   "subjectName": "健康治理体系",
+   "publishYear": "2025",
+   "definition": "多元健康治理主体为实现全民健康目标，共同制定和实施的一整套方向性、系统性、协同性规划方案和行动路径。"
+  },
+  {
+   "cn": "外向型经济发展战略",
+   "en": "exportoriented economic development strategy",
+   "source": "马克思主义",
+   "wordNumber": "03.0599",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "以国际市场需求为导向，以扩大出口为中心，根据比较优势理论，积极参与国际分工和国际竞争的经济发展战略。外向型经济可以超出国界范围进行资源的合理配置，但也容易受世界经济环境的制约和国际市场波动的影响。"
+  },
+  {
+   "cn": "青少年健康促进策略",
+   "en": "adolescent health promoting strategy",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_青少年健康促进策略",
+   "subjectName": "青少年健康促进策略",
+   "publishYear": "2025",
+   "definition": "为提高青少年当下及成年后健康水平，所采用的一系列全面、精准、可行、有效、持续的方案集合。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

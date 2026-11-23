@@ -1,0 +1,812 @@
+{
+ "key": "symmetry breaking",
+ "term": "symmetry breaking",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T02:43:37+00:00",
+ "status": "ok",
+ "note": "variant=symmetry breaking; 审定公布名词库=2204; 海峡两岸名词对照库=408; 其他来源数据库=87; 预公布名词数据库=27; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "对称性破缺",
+   "en": "symmetry breaking",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.767",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_复杂系统科学哲学",
+   "subjectName": "复杂系统科学哲学",
+   "publishYear": "2024",
+   "definition": "一个跨物理学、生物学、社会学与系统论等学科的概念。可狭义地理解为对称元素的丧失，也可广义地理解为原来具有较高对称性的系统出现不对称因素，其对称程度自发降低的现象。"
+  },
+  {
+   "cn": "对称性破缺",
+   "en": "symmetry breaking",
+   "source": "生物物理学名词",
+   "wordNumber": "01.037",
+   "subjectFullName": "生物物理学_概论",
+   "subjectName": "概论",
+   "publishYear": "2018",
+   "definition": "一个跨物理学、生物学、社会学和系统论等学科的概念。当系统的控制参量出现微小涨落并超过某一临界值时，系统通过分岔(即原来的系统劈裂为两部分)从一个对称性相对较高的状态随意进入两个对称性相对较低的状态之一"
+  },
+  {
+   "cn": "破对称技术",
+   "en": "symmetry breaking technique",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0817",
+   "subjectFullName": "计算机科学技术_理论计算机科学_算法设计与分析",
+   "subjectName": "算法设计与分析",
+   "publishYear": "2018",
+   "definition": "并行算法设计的一种方法。通过打破某些问题的对称性来将其并行化，常用在图论问题和随机并行算法设计上。"
+  },
+  {
+   "cn": "动力学对称破缺",
+   "en": "dynamical symmetry breaking",
+   "source": "物理学名词",
+   "wordNumber": "09.1418",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "复本对称破缺",
+   "en": "replica symmetry breaking",
+   "source": "物理学名词",
+   "wordNumber": "09.1567",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "手征对称[性]破缺",
+   "en": "chiral symmetry breaking",
+   "source": "物理学名词",
+   "wordNumber": "09.1349",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "对称性自发破缺",
+   "en": "spontaneous symmetry breaking,SSB",
+   "source": "物理学名词",
+   "wordNumber": "09.1512",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "时间反演对称性破缺",
+   "en": "time reversal symmetry breaking",
+   "source": "物理学名词",
+   "wordNumber": "09.1509",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "溶剂诱导对称破坏",
+   "en": "solvent-induced symmetry breaking",
+   "source": "化学名词",
+   "wordNumber": "04.1052",
+   "subjectFullName": "化学_物理化学_光化学",
+   "subjectName": "光化学",
+   "publishYear": "2016",
+   "definition": "分子通过与溶剂分子的相互作用，改变分子内电荷密度的分布，使分子的对称性发生改变，从而有利于形成不对称的构象。"
+  },
+  {
+   "cn": "对称",
+   "en": "symmetry",
+   "source": "地质学名词",
+   "wordNumber": "02.00.027",
+   "subjectFullName": "地质学_结晶学",
+   "subjectName": "结晶学",
+   "publishYear": "2026",
+   "definition": "物体(或图形)相同部分之间凭借某种变换条件（点、线、面）呈现规律性重复的现象，即在一定变换条件下的不变现象。"
+  },
+  {
+   "cn": "对称",
+   "en": "symmetry",
+   "source": "风景园林名词",
+   "wordNumber": "07.0099",
+   "subjectFullName": "风景园林_风景园林建筑_设计技巧与表达",
+   "subjectName": "设计技巧与表达",
+   "publishYear": "2025",
+   "definition": "建筑物的局部以某种中轴形式为基础，在大小、形状和排列上具有相同但方向相反的序列组合。其构图形式通常呈一主两从的关系，形成主从关系异常分明的有机统一整体。"
+  },
+  {
+   "cn": "对称性",
+   "en": "symmetry",
+   "source": "神经病学名词",
+   "wordNumber": "05.324",
+   "subjectFullName": "神经病学_神经病诊断技术_临床脑电图学",
+   "subjectName": "临床脑电图学",
+   "publishYear": "2020",
+   "definition": "用于描述脑波的分布方式。大脑半球各对应区域脑电活动的波形、频率和波幅大致相同的现象。反之为不对称。"
+  },
+  {
+   "cn": "对称",
+   "en": "symmetry",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "05.091",
+   "subjectFullName": "阿尔茨海默病_诊断技术与实验方法_影像技术",
+   "subjectName": "影像技术",
+   "publishYear": "2019",
+   "definition": "对解剖结构的上下或左右相近情况的描 述。"
+  },
+  {
+   "cn": "对称性",
+   "en": "symmetry",
+   "source": "物理学名词",
+   "wordNumber": "01.0165",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "对称性",
+   "en": "symmetry",
+   "source": "生物物理学名词",
+   "wordNumber": "01.036",
+   "subjectFullName": "生物物理学_概论",
+   "subjectName": "概论",
+   "publishYear": "2018",
+   "definition": "自然界中物质所具有的协调、完美比例和平衡的特性。几何学上是指一幅图形或物体的周边相对于一条线(对称轴)或一个平面(镜面)互为映像的性质；生物学上是指动物、植物、器官和生物分子的各部分的重复；化学上是指"
+  },
+  {
+   "cn": "对称",
+   "en": "symmetry",
+   "source": "药学名词",
+   "wordNumber": "03.055",
+   "subjectFullName": "药学_药物化学",
+   "subjectName": "药物化学",
+   "publishYear": "2014",
+   "definition": "分子结构中在分界线、面或关于中心或中轴的对立两侧存在形式与构造布局的完全对应。"
+  },
+  {
+   "cn": "对称",
+   "en": "symmetry",
+   "source": "医学名词 第七分册",
+   "wordNumber": "01.0019",
+   "subjectFullName": "医学_整形外科学",
+   "subjectName": "整形外科学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "对称性",
+   "en": "symmetry",
+   "source": "数学名词",
+   "wordNumber": "01.0122",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "对称",
+   "en": "symmetry",
+   "source": "地质学名词",
+   "wordNumber": "04.057",
+   "subjectFullName": "地质学_矿物学",
+   "subjectName": "矿物学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "开断",
+   "en": "breaking",
+   "source": "电力名词",
+   "wordNumber": "19.291",
+   "subjectFullName": "电力_变电",
+   "subjectName": "变电",
+   "publishYear": "2020",
+   "definition": "在通电状态下,用于回路的分操作。"
+  },
+  {
+   "cn": "对称",
+   "en": "symmetry",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "对称[性]",
+   "en": "symmetry",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "对称性",
+   "en": "symmetry",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "对称性",
+   "en": "symmetry",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "对称",
+   "en": "symmetry",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "换声点",
+   "en": "break",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "变声",
+   "en": "break",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "爵士乐即兴独奏段",
+   "en": "break",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "断裂",
+   "en": "break",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "断点",
+   "en": "break",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "中断",
+   "en": "break",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "船楼端",
+   "en": "break",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "分子对称性",
+   "en": "molecular symmetry",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "轴向对称",
+   "en": "axial symmetry",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "对称中心",
+   "en": "symmetry center",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "对称性启发法",
+   "en": "symmetry heuristics",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "对称因素",
+   "en": "symmetry element",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "镜面对称",
+   "en": "mirror symmetry",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "辐射对称",
+   "en": "radial symmetry",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "两侧对称",
+   "en": "bilateral symmetry",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "分开！",
+   "en": "Break!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "击碎",
+   "en": "break",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "突破",
+   "en": "break",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "突破",
+   "en": "break",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "突破",
+   "en": "break",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "暂停",
+   "en": "break",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "突破",
+   "en": "break",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "破发",
+   "en": "break\",\"service break",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "摆脱防守",
+   "en": "break away",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "切入",
+   "en": "break\",\"penetrate",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "分开！",
+   "en": "Break! Kalyeo!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "破发点",
+   "en": "break point",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "冲出大部队",
+   "en": "break away",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "快攻",
+   "en": "fast break",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "突破",
+   "en": "break\",\"cut",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "每球得分制",
+   "en": "tie-break",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "个人快攻",
+   "en": "direct fast break\",\"individual fast break",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "断桨",
+   "en": "breaking a paddle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "快攻传球",
+   "en": "fast break pass",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "压桥",
+   "en": "break the bridge",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "对称性",
+   "en": "symmetry",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.32",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "在相同深度下对称于辐射束轴的任意两点的吸收剂量的比值。通常会限定在辐射野的均整区域内。"
+  },
+  {
+   "cn": "破乳",
+   "en": "emulsion breaking",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.13.2",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "使乳化液体的分散相小液珠聚集成团，形成大液滴，从而破坏乳化作用的过程。"
+  },
+  {
+   "cn": "课间操",
+   "en": "break exercise",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "7.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校体育与身体活动_课外体育活动",
+   "subjectName": "课外体育活动",
+   "publishYear": "2025",
+   "definition": "学生在上午第2、3节课间进行的体操活动。是学校体育教育的一部分，旨在通过短暂的体育活动提高学生注意力，促进身体健康。"
+  },
+  {
+   "cn": "打破大锅饭",
+   "en": "break the big pot",
+   "source": "马克思主义",
+   "wordNumber": "03.0533",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "邓小平针对我国过去经济工作中存在的平均主义倾向提出的改革主张。改革开放初期的口号，也是国企改革第一个阶段中的主要任务。“打破大锅饭”主要内容是改变分配制度和用人制度，推行经济生产责任制，实行按劳付酬。"
+  },
+  {
+   "cn": "生长发育匀称度评价",
+   "en": "growth and developmental symmetry appraisal",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.7.2.2.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育调查与评价",
+   "subjectName": "生长发育调查与评价",
+   "publishYear": "2025",
+   "definition": "生长发育的综合评价指标。将两个和多个生长发育指标联系起来用数学公式表示人体各部分之间的比例和相互关系，从而判断儿童匀称度。"
+  },
+  {
+   "cn": "打破铁饭碗",
+   "en": "break the iron rice bowl",
+   "source": "马克思主义",
+   "wordNumber": "03.0534",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "“铁饭碗”指实行劳动者一旦就业以后，国家对其一切都要包下来，职工能进不能出，能升不能降的固定工制度。打破“铁饭碗”是对旧的劳动制度改革。"
+  },
+  {
+   "cn": "泪膜破裂时间",
+   "en": "tear break-up time, TBUT",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.3.2.2",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_干燥综合征_疾病评估",
+   "subjectName": "疾病评估",
+   "publishYear": "2025",
+   "definition": "眨眼后开始保持睁眼状态至泪膜表面出现第一个干燥斑的时间间隔，包括利用裂隙灯检测到的非侵犯性泪膜破裂时间及利用荧光素检测的泪膜破裂时间，一般超过10秒为正常。是评价泪膜稳定性的客观检查。"
+  },
+  {
+   "cn": "信息不对称",
+   "en": "information asymmetry ",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.2.3.2",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场",
+   "subjectName": "卫生服务市场",
+   "publishYear": "2025",
+   "definition": "在医疗卫生服务市场交易中，服务提供者（医生）与消费者（患者）之间存在各自拥有的信息不均衡的现象。"
+  },
+  {
+   "cn": "焙烤",
+   "en": "baking",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.15.1",
+   "subjectFullName": "食品卫生学_食品_焙烤类食品",
+   "subjectName": "焙烤类食品",
+   "publishYear": "2025",
+   "definition": "以粮、油、糖、肉、蛋、乳等为主料，添加适量辅料调制成型后，在燃媒介质燃点之下的温度范围内通过干热（烘）的方式使之脱水熟化的食品热加工工艺。"
+  },
+  {
+   "cn": "匀称型小于胎龄儿",
+   "en": "symmetric growth restriction",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.2.15.2",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "PI指数>2.0（胎龄≤37周）或>2.2（胎龄>37周），身长/头围>1.36的小于胎龄儿。多始于胎儿早期，常与遗传因素和宫内感染等有关，胎儿体重、身长和头围受到同等程度的影响。往往脑发育受限。"
+  },
+  {
+   "cn": "腹式呼吸",
+   "en": "abdominal breathing",
+   "source": "军事预防医学名词",
+   "wordNumber": "5.2.1.3",
+   "subjectFullName": "军事预防医学_高原军事卫生_高原医学",
+   "subjectName": "高原医学",
+   "publishYear": "2025",
+   "definition": "以膈肌运动为主，吸气时胸廓的上、下径增大，通过加大横膈膜的活动、减少胸腔的运动来完成的一种呼吸方法。"
+  },
+  {
+   "cn": "呼吸阻力",
+   "en": "breathing resistance",
+   "source": "军事预防医学名词",
+   "wordNumber": "10.6.1.1.1.1",
+   "subjectFullName": "军事预防医学_化学武器医学防护学_化学武器损伤防护",
+   "subjectName": "化学武器损伤防护",
+   "publishYear": "2025",
+   "definition": "佩戴面具时呼吸气流通过面具所产生的摩擦力，包括呼气阻力和吸气阻力。"
+  },
+  {
+   "cn": "症候阅读法",
+   "en": "symptomatic reading",
+   "source": "马克思主义",
+   "wordNumber": "05.0066",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "来自于阿尔都塞（Louis Althusser）《读〈资本论〉》依据症候的阅读。依据文本表现出的各种“症候”，包括沉默、缺失、空白和严格性上的疏漏等，来揭示文本的深层结构，这一方法是阿尔都塞从精神分析"
+  },
+  {
+   "cn": "训读",
+   "en": "interpretative reading",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0068",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "把本地方言不用的字读作该方言相应义项的同义字或近义字的读音。与日本汉字读音的“音读”相对。这是一种近似于翻译而不是源于语音对应规律的读音习惯或传统。例如海口话“叶”的读音是［ȵio33］，为训读，其本"
+  },
+  {
+   "cn": "音读",
+   "en": "phonetic reading",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0069",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "与日本汉字读音的“训读”相对。指由古代中国直接或间接传入日本的基于汉语的汉字读音。如“木”读“もく”[moku]或“ぼく”[boko]。依汉字传入时间和地点的不同可分为古音、吴音、汉音、新汉音、唐音、"
+  },
+  {
+   "cn": "体能发育不均衡性",
+   "en": "asymmetry in physical fitness development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.3.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体能发育",
+   "subjectName": "体能发育",
+   "publishYear": "2025",
+   "definition": "儿童少年体能指标在不同年龄的发育速度有快有慢的特点。"
+  },
+  {
+   "cn": "复配膨松剂",
+   "en": "baking powder",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.9.5",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "由碱性膨松剂、酸性无机盐或有机酸与食品辅料经物理方法混合而成的复合食品添加剂。通常比单一膨松剂具有更好的膨松效果。"
+  },
+  {
+   "cn": "言语民族志",
+   "en": "ethnography of speaking",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0012",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "语言学的一个分支。主要是识别有哪些语言外因素构成信息传递的社会基础，重点在描写语言的交互作用。"
+  },
+  {
+   "cn": "抚养制度",
+   "en": "child-rearing system",
+   "source": "社会学名词",
+   "wordNumber": "3.1.1.29",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_家庭",
+   "subjectName": "家庭",
+   "publishYear": "2025",
+   "definition": "有关家庭中长辈对未成年晚辈（包括无行为能力人）进行抚育和教养的制度规范。"
+  },
+  {
+   "cn": "家庭养育评估",
+   "en": "family rearing assessment",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.3.7",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "了解影响儿童心理行为发展相关家庭环境因素的一类评估。家庭环境因素包括家庭类型、父母或抚养人的文化水平、经济收入、养育方式、亲子依恋关系、父母的婚姻稳定性、是否单亲家庭与家庭养育环境等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

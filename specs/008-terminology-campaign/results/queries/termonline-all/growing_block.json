@@ -1,0 +1,802 @@
+{
+ "key": "growing block",
+ "term": "growing block",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T02:43:06+00:00",
+ "status": "ok",
+ "note": "variant=growing block; 审定公布名词库=2840; 海峡两岸名词对照库=713; 其他来源数据库=194; 预公布名词数据库=28; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "发花",
+   "en": "fungi growing",
+   "source": "农学名词",
+   "wordNumber": "17.292",
+   "subjectFullName": "农产品贮运与加工_茶叶加工",
+   "subjectName": "茶叶加工",
+   "publishYear": "2025",
+   "definition": "在制品茶在适宜条件下生成金黄色菌花［冠突散囊菌(Eurotiumcristatum)菌落］的过程。"
+  },
+  {
+   "cn": "生长卵泡",
+   "en": "growing follicle",
+   "source": "兽医学名词",
+   "wordNumber": "08.330",
+   "subjectFullName": "兽医学_家畜组织学",
+   "subjectName": "家畜组织学",
+   "publishYear": "2023",
+   "definition": "卵泡发育的一个阶段。原始卵泡生长发育后，卵母细胞体积增大、卵泡细胞增生和卵泡周围的结缔组织分化，卵泡的位置逐渐向皮质深部移行。可分为初级卵泡和次级卵泡。"
+  },
+  {
+   "cn": "生长季",
+   "en": "growing season ",
+   "source": "草学名词",
+   "wordNumber": "2.0253",
+   "subjectFullName": "草学_草地生态与草地培育_草地生态",
+   "subjectName": "草地生态",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "生长期",
+   "en": "growing period ",
+   "source": "草学名词",
+   "wordNumber": "3.0634",
+   "subjectFullName": "草学_草地资源与利用",
+   "subjectName": "草地资源与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "区域生长",
+   "en": "region growing",
+   "source": "光学名词",
+   "wordNumber": "17.129",
+   "subjectFullName": "光学_图像处理技术",
+   "subjectName": "图像处理技术",
+   "publishYear": "2021",
+   "definition": "根据预先定义的生长准则将像素或子区域组合为更大的区域的过程。"
+  },
+  {
+   "cn": "生长卵泡",
+   "en": "growing follicle",
+   "source": "动物学名词",
+   "wordNumber": "4.0097",
+   "subjectFullName": "动物学_动物胚胎学_卵子发生",
+   "subjectName": "卵子发生",
+   "publishYear": "2021",
+   "definition": "静止的原始卵泡启动生长发育后，经历初级卵泡、次级卵泡、三级卵泡，直至成熟卵泡前的总称。"
+  },
+  {
+   "cn": "生长猪",
+   "en": "growing pig",
+   "source": "畜牧学名词",
+   "wordNumber": "02.102",
+   "subjectFullName": "畜牧学_饲养管理_猪饲养",
+   "subjectName": "猪饲养",
+   "publishYear": "2020",
+   "definition": "通常指体重20～60kg阶段的猪。"
+  },
+  {
+   "cn": "育成期",
+   "en": "growing period",
+   "source": "畜牧学名词",
+   "wordNumber": "02.184",
+   "subjectFullName": "畜牧学_饲养管理_禽饲养",
+   "subjectName": "禽饲养",
+   "publishYear": "2020",
+   "definition": "雏禽自育雏期满养育开始到接近性成熟入产蛋舍或种禽舍上笼的一段时间。"
+  },
+  {
+   "cn": "养晶",
+   "en": "crystal growing",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.1153",
+   "subjectFullName": "食品科学技术_食品工程_食品原料与加工_糖料与糖制品",
+   "subjectName": "糖料与糖制品",
+   "publishYear": "2020",
+   "definition": "在维持一定的过饱和系数条件下，使晶体不断吸收母液中的蔗糖组分而长大的过程。"
+  },
+  {
+   "cn": "生长点",
+   "en": "growing point",
+   "source": "植物学名词",
+   "wordNumber": "03.0637",
+   "subjectFullName": "植物学_植物形态与结构植物学_结构植物学",
+   "subjectName": "结构植物学",
+   "publishYear": "2019",
+   "definition": "位于根或茎顶端，不断进行细胞分裂的部分。"
+  },
+  {
+   "cn": "生长卵泡",
+   "en": "growing follicle",
+   "source": "组织学与胚胎学名词",
+   "wordNumber": "18.014",
+   "subjectFullName": "组织学与胚胎学_组织学_女性生殖系统",
+   "subjectName": "女性生殖系统",
+   "publishYear": "2014",
+   "definition": "青春期后开始生长发育的卵泡。包括初级卵泡和次级卵泡。"
+  },
+  {
+   "cn": "生长期",
+   "en": "growing period",
+   "source": "资源科学技术名词",
+   "wordNumber": "08.206",
+   "subjectFullName": "资源科学技术_气候资源学",
+   "subjectName": "气候资源学",
+   "publishYear": "2008",
+   "definition": "作物可能生长的时期或作物从播种到成熟的时期，前者称气候生长期，后者称作物生长期。"
+  },
+  {
+   "cn": "养成池",
+   "en": "growing pond",
+   "source": "水产名词",
+   "wordNumber": "04.011",
+   "subjectFullName": "水产_水产养殖学",
+   "subjectName": "水产养殖学",
+   "publishYear": "2002",
+   "definition": "用来将水产养殖动物苗种饲养到商品规格的水池或池塘。"
+  },
+  {
+   "cn": "生长部",
+   "en": "growing part",
+   "source": "水产名词",
+   "wordNumber": "01.340",
+   "subjectFullName": "水产_水产基础科学",
+   "subjectName": "水产基础科学",
+   "publishYear": "2002",
+   "definition": "藻体基部具有分生能力的部位。"
+  },
+  {
+   "cn": "应力增长",
+   "en": "stress growing",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_其他力学",
+   "subjectName": "其他力学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "生长性颅骨骨折",
+   "en": "growing skull fracture",
+   "source": "神经外科学名词",
+   "wordNumber": "7.066",
+   "subjectFullName": "医学_神经外科学_创伤性脑损伤_创伤性脑损伤概论",
+   "subjectName": "创伤性脑损伤概论",
+   "publishYear": "2026",
+   "definition": "颅脑损伤中极少见的一种特殊类型骨折。多见于婴幼儿。头部外伤致颅骨线样骨折伴硬脑膜破裂，骨折线之间嵌入硬脑膜、蛛网膜、脑组织或其形成的复合性瘢痕，影响骨折的愈合，随着脑脊液和脑组织的波动性冲击及生长发育"
+  },
+  {
+   "cn": "速生树",
+   "en": "fast growing tree",
+   "source": "风景园林名词",
+   "wordNumber": "09.0067",
+   "subjectFullName": "风景园林_风景园林植物_风景园林植物类型",
+   "subjectName": "风景园林植物类型",
+   "publishYear": "2025",
+   "definition": "在相同时间和相对适宜的立地条件下，高生长与径生长相对较快，且成熟林期较早的树种。"
+  },
+  {
+   "cn": "慢生树",
+   "en": "slow growing tree",
+   "source": "风景园林名词",
+   "wordNumber": "09.0069",
+   "subjectFullName": "风景园林_风景园林植物_风景园林植物类型",
+   "subjectName": "风景园林植物类型",
+   "publishYear": "2025",
+   "definition": "在相同时间和相对适宜的立地条件下，高生长与径生长相对较慢，且成熟林期较晚的树种。"
+  },
+  {
+   "cn": "中速树",
+   "en": "medium growing tree",
+   "source": "风景园林名词",
+   "wordNumber": "09.0068",
+   "subjectFullName": "风景园林_风景园林植物_风景园林植物类型",
+   "subjectName": "风景园林植物类型",
+   "publishYear": "2025",
+   "definition": "在相同时间和相对适宜的立地条件下，高生长与径生长速度比较适中的树种。"
+  },
+  {
+   "cn": "森林蓄积量",
+   "en": "forest growing stock",
+   "source": "风景园林名词",
+   "wordNumber": "13.0043",
+   "subjectFullName": "风景园林_其他_林学",
+   "subjectName": "林学",
+   "publishYear": "2025",
+   "definition": "森林中所有活立木材种的总和。是反映森林数量和质量的重要指标。"
+  },
+  {
+   "cn": "生长卵泡",
+   "en": "growing follicle",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "生长点",
+   "en": "growing point",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "增长模",
+   "en": "growing mode",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生长季",
+   "en": "growing season",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "区域生长",
+   "en": "region growing",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "生长端",
+   "en": "growing end",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "生长缘",
+   "en": "growing margin",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "生长卵泡",
+   "en": "growing follicle",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "区组",
+   "en": "block",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "嵌段",
+   "en": "block",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "街区",
+   "en": "block",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "分组",
+   "en": "block",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "块",
+   "en": "block",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "封锁",
+   "en": "block",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "滑车",
+   "en": "block",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "总段",
+   "en": "block",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "阻滞",
+   "en": "block",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "墩",
+   "en": "blocks",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "数据块",
+   "en": "data block\",\"block",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "［思考］阻断",
+   "en": "blocking",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "成",
+   "en": "Grow",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "拦网",
+   "en": "block\",\"blocking",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "封挡",
+   "en": "block\",\"blocking",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "阻挡",
+   "en": "block",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "格挡",
+   "en": "block",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "阻碍",
+   "en": "block",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "拦截",
+   "en": "block",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "堵截",
+   "en": "block",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "拦网",
+   "en": "block",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "阻挡",
+   "en": "block",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "阻拦",
+   "en": "block",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "滑车",
+   "en": "block",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "滑轮",
+   "en": "block",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "阻挡",
+   "en": "block",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "拦网犯规",
+   "en": "block fault\",\"blocking fault\",\"illegal blocking",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "内格挡",
+   "en": "inside block\",\"inward block",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "拦网",
+   "en": "block\",\"attempt to block",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "格挡",
+   "en": "block\",\"makki",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "推挡",
+   "en": "push\",\"block",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "射野挡块",
+   "en": "shield block",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.19.11",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "阻挡有用射束的防护块，用于形成所需的任意形状的照射野。"
+  },
+  {
+   "cn": "阻断剂",
+   "en": "blocking agent",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.3.10",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内污染医学处理",
+   "subjectName": "内污染医学处理",
+   "publishYear": "2025",
+   "definition": "使特定组织中的稳定元素代谢饱和后，降低相应的放射性核素进入该组织的制剂。"
+  },
+  {
+   "cn": "封闭因子",
+   "en": "blocking factor",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.5.8",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_炎症介质",
+   "subjectName": "炎症介质",
+   "publishYear": "2025",
+   "definition": "本质可能是封闭抗体、可溶性抗原或抗原-抗体复合物，可封闭肿瘤细胞表面的抗原表位或效应细胞的抗原识别受体，从而使肿瘤细胞不易被机体免疫系统识别，逃避淋巴细胞的攻击。"
+  },
+  {
+   "cn": "封闭抗体",
+   "en": "blocking antibody, BA",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.4.24",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_抗原与抗体",
+   "subjectName": "抗原与抗体",
+   "publishYear": "2025",
+   "definition": "体内产生的一类抗体，通过与细胞膜表面相应抗原或相应可溶性抗原（如变应原）结合，阻止T细胞受体对该抗原的生物学效应。如妊娠过程中母体接触父源性抗原所产生的抗体。"
+  },
+  {
+   "cn": "食品追溯区块链",
+   "en": "food traceability block chain",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.56",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "通过去中心化的分布式账本记录特性与物联等手段相结合，实现对食品行业从源头的信息采集记录、原料来源、生产过程、加工环节、仓储信息、检验批次、物流周转、质检等的全过程追溯功能的区块链。"
+  },
+  {
+   "cn": "枪杆子里面出政权",
+   "en": "political power grows out of the barrel of a gun",
+   "source": "马克思主义",
+   "wordNumber": "03.0377",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东1927年在中国共产党“八七”会议上总结大革命失败的经验教训提出的关于武装斗争重要性的著名论断，是毛泽东军事思想产生的重要基础。"
+  },
+  {
+   "cn": "溺水",
+   "en": "drowning",
+   "source": "社会医学名词",
+   "wordNumber": "13.2.3",
+   "subjectFullName": "社会病",
+   "subjectName": "意外伤害",
+   "publishYear": "2025",
+   "definition": "人体部分或全部浸于液体介质中，并由此造成的损害。其并非时间上某一点的概念，而是一个动态过程。其损害主要为液体介质进入呼吸道造成呼吸功能障碍，从而引起缺氧，另外长时间遭受淹溺也可以导致意外低体温等。"
+  },
+  {
+   "cn": "儿童溺水",
+   "en": "child drowning",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.1.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "当儿童淹没/沉浸在水中时，导致不能呼吸的事件。其后果可以分为死亡、病态和无病态三类。"
+  },
+  {
+   "cn": "儿童溺水",
+   "en": "child drowning",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "8.2.1",
+   "subjectFullName": "妇幼卫生学名词_伤害与暴力_儿童伤害",
+   "subjectName": "儿童伤害",
+   "publishYear": "2025",
+   "definition": "儿童的呼吸道浸没在水中，呼吸道被水、污泥、杂草等杂质阻塞，喉头、气管发生反射性射痉挛，引起窒息和缺氧的状态。"
+  },
+  {
+   "cn": "酶促褐变反应",
+   "en": "enzymatic browning",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.1.4.5",
+   "subjectFullName": "食品卫生学_食品污染_食品生物性危害因素",
+   "subjectName": "食品生物性危害因素",
+   "publishYear": "2025",
+   "definition": "氧和酚类物质在多酚氧化酶催化作用下发生的引起食品褐变的一种反应。"
+  },
+  {
+   "cn": "海水淹溺",
+   "en": "seawater drowning",
+   "source": "军事预防医学名词",
+   "wordNumber": "12.2.9",
+   "subjectFullName": "军事预防医学_航海和潜水医学_潜水医学",
+   "subjectName": "潜水医学",
+   "publishYear": "2025",
+   "definition": "由于各种原因使海水进入呼吸道后，引起咽喉、气管、支气管反射性痉挛使气道阻塞而引起窒息和缺氧。"
+  },
+  {
+   "cn": "红茶",
+   "en": "black tea",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.19.4",
+   "subjectFullName": "食品卫生学_食品_茶与代用茶",
+   "subjectName": "茶与代用茶",
+   "publishYear": "2025",
+   "definition": "鲜叶经萎凋、揉捻、发酵、干燥等典型工艺制作而成茶。因其色泽及冲泡的茶汤以红色为主调得名。"
+  },
+  {
+   "cn": "同群动物",
+   "en": "flock herd",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.5.36",
+   "subjectFullName": "食品卫生学_食品_畜肉",
+   "subjectName": "畜肉",
+   "publishYear": "2025",
+   "definition": "以自然小群为单位，有直接传播疫病可能的同一小环境的动物，如同圈（舍）、同车、同一饲养员管理等。"
+  },
+  {
+   "cn": "黑彝",
+   "en": "Black yi",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0127",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "族称。彝族的统治阶级。从元末明初至中国人民共和国成立前，居于凉山（原属西康省，今属四川省）与滇东北、黔西北等地。约占当地彝族总人口7%弱，通过家支组织，实行奴隶之统治。因崇拜黑色，故以“黑”自称。"
+  },
+  {
+   "cn": "流动浸泡消毒",
+   "en": "flowing immersion disinfection",
+   "source": "消毒学",
+   "wordNumber": "2.1.4.1.1",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "用流动的消毒液对污染物品进行浸泡的处理。"
+  },
+  {
+   "cn": "辐射事故分级",
+   "en": "radiation accident grading",
+   "source": "放射卫生学",
+   "wordNumber": "7.1.4.2",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核或辐射突发事件分级",
+   "subjectName": "核或辐射突发事件分级",
+   "publishYear": "2025",
+   "definition": "根据辐射事故的性质、严重程度、可控性和影响范围等因素，从重到轻将辐射事故分为特别重大辐射事故、重大辐射事故、较大辐射事故和一般辐射事故四个等级。"
+  },
+  {
+   "cn": "非酶褐变",
+   "en": "non-enzymatic browning",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.1.4.6",
+   "subjectFullName": "食品卫生学_食品污染_食品生物性危害因素",
+   "subjectName": "食品生物性危害因素",
+   "publishYear": "2025",
+   "definition": "食品组分尤其是碳水化合物在加工、贮藏过程中由组分间相互作用或受环境因素如温度、pH 等影响而导致的颜色加深现象，包括焦糖化和美拉德反应。"
+  },
+  {
+   "cn": "黑球温度",
+   "en": "black ball temperature",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.2.1.3",
+   "subjectFullName": "军事预防医学_热区军事卫生_热环境",
+   "subjectName": "热环境",
+   "publishYear": "2025",
+   "definition": "将温度计置于紫铜质黑球中部所指示的温度。包括环境气温、热辐射等综合因素，其温度高低在医学上间接地表示人体感受周围环境热辐射的状况。"
+  },
+  {
+   "cn": "黑斑蛋",
+   "en": "black spotted egg",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.9.24",
+   "subjectFullName": "食品卫生学_食品_蛋类",
+   "subjectName": "蛋类",
+   "publishYear": "2025",
+   "definition": "在蛋类储存过程中，外界真菌进入蛋内形成黑斑的蛋。"
+  },
+  {
+   "cn": "夺舍法",
+   "en": "Grong vjug",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0448",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏传佛教术语。藏传佛教密宗修法，藏文为“仲久”，意为迁入。一种让灵识迁转进入其他尸体的密法，又被称为夺舍法。”按照密宗修法“破瓦法”能使修持者在临死时成就三身，或随意选择生胎；夺舍法则可以利用刚死的任"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

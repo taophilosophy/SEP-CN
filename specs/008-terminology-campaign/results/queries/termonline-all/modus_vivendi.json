@@ -1,0 +1,322 @@
+{
+ "key": "modus vivendi",
+ "term": "modus vivendi",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T02:42:09+00:00",
+ "status": "ok",
+ "note": "variant=modus vivendi; 审定公布名词库=30; 海峡两岸名词对照库=8; 其他来源数据库=3; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "动态剪切模量",
+   "en": "dynamic shear modu-lus",
+   "source": "化工名词（七）高分子化工",
+   "wordNumber": "3.0026",
+   "subjectFullName": "化工（七）_合成橡胶_总论",
+   "subjectName": "总论",
+   "publishYear": "2022",
+   "definition": "剪切变形时的储能模量。材料在剪切应力作用下，在弹性变形比例极限范围内，切应力与切应变的比值。表征材料抵抗切应变的能力。"
+  },
+  {
+   "cn": "压缩弹性模量",
+   "en": "compressive modu-lus of elasticity",
+   "source": "化工名词（七）高分子化工",
+   "wordNumber": "3.0036",
+   "subjectFullName": "化工（七）_合成橡胶_总论",
+   "subjectName": "总论",
+   "publishYear": "2022",
+   "definition": "在轴向压缩应力与轴向压缩应变呈线性比例关系的范围内，轴向压缩应力与轴向压缩应变的比值。"
+  },
+  {
+   "cn": "调强适形放射治疗",
+   "en": "intensity-modu-lated radiation therapy;IMRT",
+   "source": "妇科肿瘤学名词",
+   "wordNumber": "8.217",
+   "subjectFullName": "妇科肿瘤学_妇科肿瘤治疗学_妇科恶性肿瘤放射治疗_放疗模式",
+   "subjectName": "放疗模式",
+   "publishYear": "2022",
+   "definition": "放射治疗中多野同中心照射，各野的几何形状与肿瘤在该射野内的形状一致，每个射野内的射线强度依据肿瘤生物活性按要求进行调整，使靶区内及表面剂量处处相等的一种三维适形放射治疗技术。肿瘤周围组织受到的剂量最小"
+  },
+  {
+   "cn": "Modbus协议",
+   "en": "Modbus protocol",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "06.221",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_信息基础设施",
+   "subjectName": "信息基础设施",
+   "publishYear": "2024",
+   "definition": "一种串行通信协议。应用于电子控制器通信，通过此协议，控制器相互之间、控制器经由网络（如以太网）和其他设备之间可以通信。"
+  },
+  {
+   "cn": "耦合模态",
+   "en": "coupled modes",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "02.0095",
+   "subjectFullName": "机械工程（一）_机械动力学_机械振动",
+   "subjectName": "机械振动",
+   "publishYear": "2021",
+   "definition": "由于模态之间能量的传递而相互影响的非独立模态。"
+  },
+  {
+   "cn": "非耦合模态",
+   "en": "uncoupled modes",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "02.0096",
+   "subjectFullName": "机械工程（一）_机械动力学_机械振动",
+   "subjectName": "机械振动",
+   "publishYear": "2021",
+   "definition": "由于模态之间没有能量传递而彼此独立的振动模态。"
+  },
+  {
+   "cn": "耦合振型",
+   "en": "coupled modes",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "02.0102",
+   "subjectFullName": "机械工程（一）_机械动力学_机械振动",
+   "subjectName": "机械振动",
+   "publishYear": "2021",
+   "definition": "在一个系统中，同时存在的、互不独立的、相互间具有能量传递的振型。"
+  },
+  {
+   "cn": "非耦合振型",
+   "en": "uncoupled modes",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "02.0103",
+   "subjectFullName": "机械工程（一）_机械动力学_机械振动",
+   "subjectName": "机械振动",
+   "publishYear": "2021",
+   "definition": "在一个系统中，同时存在的、彼此独立的、相互间没有能量传递的振型。"
+  },
+  {
+   "cn": "耦合模",
+   "en": "coupled modes",
+   "source": "物理学名词",
+   "wordNumber": "04.2195",
+   "subjectFullName": "物理学_光学、声学_光学_光谱学、激光、非线性光学",
+   "subjectName": "光谱学、激光、非线性光学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "传导模",
+   "en": "guided modes",
+   "source": "铁道科学技术名词",
+   "wordNumber": "07.0454",
+   "subjectFullName": "铁道科学技术_铁道通信",
+   "subjectName": "铁道通信",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "辐射模",
+   "en": "radiation modes",
+   "source": "铁道科学技术名词",
+   "wordNumber": "07.0455",
+   "subjectFullName": "铁道科学技术_铁道通信",
+   "subjectName": "铁道通信",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "漏泄模",
+   "en": "leaky modes",
+   "source": "铁道科学技术名词",
+   "wordNumber": "07.0456",
+   "subjectFullName": "铁道科学技术_铁道通信",
+   "subjectName": "铁道通信",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "出行方式",
+   "en": "modes of trip",
+   "source": "地理学名词",
+   "wordNumber": "18.176",
+   "subjectFullName": "地理学_经济地理学",
+   "subjectName": "经济地理学",
+   "publishYear": "2006",
+   "definition": "人们从出发地到目的地，选择不同运输工具(或步行)，经由不同线路，出行目的各异(工作、购物、娱乐等)的移动方式。"
+  },
+  {
+   "cn": "结脉",
+   "en": "node,nodus,nodi (复)",
+   "source": "昆虫学名词",
+   "wordNumber": "03.362",
+   "subjectFullName": "昆虫学_昆虫外部形态",
+   "subjectName": "昆虫外部形态",
+   "publishYear": "2000",
+   "definition": "蜻蜓目中，翅前缘中部连接前缘脉、亚前缘脉及径脉的粗横脉。"
+  },
+  {
+   "cn": "模转换干扰",
+   "en": "modes change-over disturbance",
+   "source": "电子学名词",
+   "wordNumber": "20.034",
+   "subjectFullName": "电子学_导航",
+   "subjectName": "导航",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "多器官功能障碍综合征急进期",
+   "en": "acute stage of MODS",
+   "source": "麻醉学名词",
+   "wordNumber": "05.241",
+   "subjectFullName": "麻醉学_重症监护与治疗_多器官功能障碍综合征",
+   "subjectName": "多器官功能障碍综合征",
+   "publishYear": "2024",
+   "definition": "多器官功能障碍的临床第一期。病情急剧发展、各器官序贯出现衰竭的综合征。通常在感染性疾病中迅速发生，在外伤等非感染性疾病中多于7～9天发生。"
+  },
+  {
+   "cn": "窦房结",
+   "en": "sinuatrial node，nodus sinuatrialis(拉)",
+   "source": "兽医学名词",
+   "wordNumber": "06.250",
+   "subjectFullName": "兽医学_家畜解剖学",
+   "subjectName": "家畜解剖学",
+   "publishYear": "2023",
+   "definition": "右心房后壁的一小块特化的心肌纤维。位于前腔静脉和右心耳间界沟的心外膜下。为心脏自律性兴奋的主要来源。"
+  },
+  {
+   "cn": "多器官功能障碍综合征",
+   "en": "multiple organ dysfunction syndrome,MODS",
+   "source": "烧伤学名词",
+   "wordNumber": "01.110",
+   "subjectFullName": "烧伤学_烧伤概论_烧伤后病理生理变化",
+   "subjectName": "烧伤后病理生理变化",
+   "publishYear": "2019",
+   "definition": "机体遭受严重创伤（包括烧伤、大型外科手术）、休克和感染 24h后，同时或连续出现 2个或 2个以上的系统或器官功能不全，以致在没有外界帮助下不能维持内环境稳定的临床综合征。临床除有器官功能障碍或衰竭外"
+  },
+  {
+   "cn": "致命自主机器人",
+   "en": "lethal autono mous robot,LAR",
+   "source": "生物物理学名词",
+   "wordNumber": "07.198",
+   "subjectFullName": "生物物理学_生物控制论_仿生学",
+   "subjectName": "仿生学",
+   "publishYear": "2018",
+   "definition": "无人控制而能自行识别目标并进行射击的机器人。人们正对研发这种系统的伦理问题进行激烈的争辩。"
+  },
+  {
+   "cn": "多器官功能障碍综合征",
+   "en": "multiple organ dysfunction syndrome,MODS",
+   "source": "呼吸病学名词",
+   "wordNumber": "13.022",
+   "subjectFullName": "呼吸病学_呼吸相关危重症_感染和创伤",
+   "subjectName": "感染和创伤",
+   "publishYear": "2018",
+   "definition": "机体遭受严重创伤、休克、感染及外科大手术等急性损害24h后，同时或序贯出现两个或两个以上的系统或器官功能障碍或衰竭，不能维持体内环境稳定的临床综合征。"
+  },
+  {
+   "cn": "近岸移动式钻井装置",
+   "en": "mobile offshore drilling unit\",\"MODU",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "繁育模",
+   "en": "bred modes",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "时间模式",
+   "en": "time modes",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "出游方式",
+   "en": "modes of trip",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "结脉",
+   "en": "node\",\"nodus\",\"nodi (复)",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "维瓦尔第",
+   "en": "Vivaldi\",\"Antonio(意大利)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "模转换干扰",
+   "en": "modes change-over disturbance",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "中分辨率成像光谱仪",
+   "en": "moderate-resolution imaging spectroradio-meter\",\"MODIS",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "两仪",
+   "en": "Two Modes",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "宫调",
+   "en": "Gongdiao (Musical Modes)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 17964-2008 信息安全技术 分组密码算法的工作模式》",
+   "en": "GB/T 17964-2008 Information technology — Security techniques — Modes of operation for a block cipher",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

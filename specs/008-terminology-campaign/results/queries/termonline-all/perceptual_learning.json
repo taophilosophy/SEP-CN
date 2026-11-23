@@ -1,0 +1,812 @@
+{
+ "key": "perceptual learning",
+ "term": "perceptual learning",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T02:42:49+00:00",
+ "status": "ok",
+ "note": "variant=perceptual learning; 审定公布名词库=2029; 海峡两岸名词对照库=526; 其他来源数据库=158; 预公布名词数据库=112; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "感知节点",
+   "en": "perceptual node",
+   "source": "农学名词",
+   "wordNumber": "16.099",
+   "subjectFullName": "农业信息_农业信息技术",
+   "subjectName": "农业信息技术",
+   "publishYear": "2025",
+   "definition": "无线传感器网络中承担信息感知功能，并将其转化为数字信号进行传输与转发的器件、装置或设备。一般集成了传感器模块、信息处理模块、无线通信模块和能量供应模块。"
+  },
+  {
+   "cn": "知觉恒常性",
+   "en": "perceptual constancy",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.576",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "在距离、方位、光照等因素发生变化时，人和动物将事物感知为具有恒常的大小、形状、颜色等属性的现象。是人和动物在变化的知觉情境中对某些环境特征的稳定感知。"
+  },
+  {
+   "cn": "知觉内容",
+   "en": "perceptual content",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.577",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "知觉经验将世界表征成的样子。通常用命题来表达。预设了知觉的表征论。"
+  },
+  {
+   "cn": "知觉扭曲",
+   "en": "perceptual distortion",
+   "source": "睡眠医学名词",
+   "wordNumber": "2.185",
+   "subjectFullName": "睡眠医学_睡眠生理与心理基础_睡眠心理基础",
+   "subjectName": "睡眠心理基础",
+   "publishYear": "2022",
+   "definition": "个体对外界事物整体属性的错误认知。"
+  },
+  {
+   "cn": "知觉恒常性",
+   "en": "perceptual constancy",
+   "source": "测绘学名词",
+   "wordNumber": "04.112",
+   "subjectFullName": "测绘学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2020",
+   "definition": "知觉的稳定不变性。即当客观条件在一定范围内改变时，知觉映象在相当程度上倾向于保持其原样不变的心理作用。"
+  },
+  {
+   "cn": "视觉感受效果",
+   "en": "perceptual effect",
+   "source": "测绘学名词",
+   "wordNumber": "04.114",
+   "subjectFullName": "测绘学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2020",
+   "definition": "视觉变量引起的视觉感受的多种效果。一般归纳为整体感、等级感、数量感、质量感、动感和立体感。"
+  },
+  {
+   "cn": "类别视觉感受",
+   "en": "perceptual grouping",
+   "source": "测绘学名词",
+   "wordNumber": "04.115",
+   "subjectFullName": "测绘学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2020",
+   "definition": "将观察对象区分出不同类别的视觉效果。"
+  },
+  {
+   "cn": "感知障碍",
+   "en": "perceptual disorder",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "04.041",
+   "subjectFullName": "阿尔茨海默病_精神与心理认知学",
+   "subjectName": "精神与心理认知学",
+   "publishYear": "2019",
+   "definition": "对事物的感知方面存在紊乱和异常的精神障碍。主要包括幻觉和妄想。"
+  },
+  {
+   "cn": "感知失认",
+   "en": "perceptual agnosia",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "04.114",
+   "subjectFullName": "阿尔茨海默病_精神与心理认知学",
+   "subjectName": "精神与心理认知学",
+   "publishYear": "2019",
+   "definition": "对事物不能用感觉器官去感受和识别的病理状态。如视觉性或听觉性认识不能。"
+  },
+  {
+   "cn": "知觉划消",
+   "en": "perceptual cancellation",
+   "source": "生物物理学名词",
+   "wordNumber": "04.166",
+   "subjectFullName": "生物物理学_神经生物物理学_多模态感觉信息加工",
+   "subjectName": "多模态感觉信息加工",
+   "publishYear": "2018",
+   "definition": "韦克斯勒儿童智力量表第四版中增加的备用测试项目之一。是在一个随机排列的数字表上，在限定时间内划去某一数字，根据正确率及所需时间测验被试者智力水平的方法。"
+  },
+  {
+   "cn": "知觉定势",
+   "en": "perceptual set",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0080",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_个体行为基础",
+   "subjectName": "个体行为基础",
+   "publishYear": "2016",
+   "definition": "后续知觉受先前知觉的直接影响，并产生某种准备倾向的现象。"
+  },
+  {
+   "cn": "感知图",
+   "en": "perceptual map",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0214",
+   "subjectFullName": "管理科学技术_市场营销_营销机会",
+   "subjectName": "营销机会",
+   "publishYear": "2016",
+   "definition": "代表消费者如何基于特定的因素或属性看待各种相比较的产品的图表。"
+  },
+  {
+   "cn": "知觉防御",
+   "en": "perceptual defense",
+   "source": "心理学名词",
+   "wordNumber": "02.365",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "对引发恐惧或感到具有威胁的刺激回避、阻滞或反应缓慢的倾向。"
+  },
+  {
+   "cn": "知觉警觉",
+   "en": "perceptual vigilance",
+   "source": "心理学名词",
+   "wordNumber": "02.366",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "个体潜意识中对微弱刺激产生知觉的现象。"
+  },
+  {
+   "cn": "知觉恒常性",
+   "en": "perceptual constancy",
+   "source": "心理学名词",
+   "wordNumber": "02.381",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "对物理刺激变化而保持稳定知觉的特性。主要包括颜色恒常性、形状恒常性、大小恒常性等。"
+  },
+  {
+   "cn": "知觉组织",
+   "en": "perceptual organization",
+   "source": "心理学名词",
+   "wordNumber": "02.376",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "分辨那些信息应该属于一个整体而把这些信息组织成一个独立目标的过程。"
+  },
+  {
+   "cn": "知觉歪曲",
+   "en": "perceptual distortion",
+   "source": "心理学名词",
+   "wordNumber": "02.430",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "个体对物体的知觉经验不完全符合或完全脱离物体本身特征的心理现象。"
+  },
+  {
+   "cn": "知觉后效",
+   "en": "perceptual aftereffect",
+   "source": "心理学名词",
+   "wordNumber": "02.424",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "知觉到的对象消失后人脑中产生的对其相反的印象发生的效应。"
+  },
+  {
+   "cn": "感知障碍",
+   "en": "perceptual disorder",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "05.094",
+   "subjectFullName": "全科医学与社区卫生_社区康复",
+   "subjectName": "社区康复",
+   "publishYear": "2014",
+   "definition": "脑损伤后在感觉输入系统完整的情况下，大脑对感觉刺激的分析、认识和整合障碍。表现为失认症和失用症。"
+  },
+  {
+   "cn": "学习",
+   "en": "learning",
+   "source": "行为医学名词",
+   "wordNumber": "3.113",
+   "subjectFullName": "行为医学_行为的生物学基础_生理学基础_本能行为",
+   "subjectName": "本能行为",
+   "publishYear": "2022",
+   "definition": "（1）从模仿、阅读、研究、生活实践中获得知识、技能和经验的过程。（2）从外界环境获取新信息的过程。"
+  },
+  {
+   "cn": "知觉恒常性",
+   "en": "perceptual constancy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "知觉不平衡",
+   "en": "perceptual disequilibrium",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "知觉防御",
+   "en": "perceptual defense",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "知觉警觉",
+   "en": "perceptual vigilance",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "知觉广度",
+   "en": "perceptual span",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "知觉平衡",
+   "en": "perceptual equilibrium",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "知觉组织",
+   "en": "perceptual organization",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "知觉歪曲",
+   "en": "perceptual distortion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "知觉图",
+   "en": "perceptual map",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "知觉敏感度",
+   "en": "perceptual sensitivity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "感知研究",
+   "en": "perceptual studies",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "感受效果",
+   "en": "perceptual effect",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "类别视觉感受",
+   "en": "perceptual groupings",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "学习",
+   "en": "learning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "学习",
+   "en": "learning",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "观摩学习",
+   "en": "empathic learning\",\"observation learning",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "潜伏学习",
+   "en": "latent learning\",\"exploratory learning",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "知觉组织律",
+   "en": "laws of perceptual organization",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "学习曲线",
+   "en": "learning curve",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "同伴学习",
+   "en": "peer learning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "学",
+   "en": "Learn",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "感知控制域",
+   "en": "perceptual control domain",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "机器学习",
+   "en": "Machine Learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "深度学习",
+   "en": "deep learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "监督学习",
+   "en": "supervised learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无监督学习",
+   "en": "unsupervised learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "强化学习",
+   "en": "reinforcement learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "对抗学习",
+   "en": "adversarial learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "归纳学习",
+   "en": "inductive learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自适应学习",
+   "en": "adaptive learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "连接机制学习",
+   "en": "connectionist learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "迁移学习",
+   "en": "transfer learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "主动学习",
+   "en": "active learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "演化学习",
+   "en": "evolutional learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "反向传播学习",
+   "en": "backpropagation learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字化学习",
+   "en": "e-learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智慧学习",
+   "en": "smart learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "交互式学习",
+   "en": "interactive learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自学习",
+   "en": "self-learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "学习策略",
+   "en": "learning strategy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "感性活动",
+   "en": "perceptual activity",
+   "source": "马克思主义",
+   "wordNumber": "01.0178",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "物质的、活生生的、现实的实践活动，它体现了实践的能动性、主体性。在人的感性活动中把握对象，是马克思主义哲学同旧唯物主义的根本区别。"
+  },
+  {
+   "cn": "感性经验",
+   "en": "perceptual experience",
+   "source": "马克思主义",
+   "wordNumber": "01.0179",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人在实践中，在感性认识阶段通过感觉器官获取的经验和认识，它是对事物表面现象或外部联系的认识，它表现为感觉、知觉、表象等认识形式。"
+  },
+  {
+   "cn": "感性直观",
+   "en": "perceptual intuition",
+   "source": "马克思主义",
+   "wordNumber": "01.0180",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在康德哲学中，感性直观可指称两个方面：（1）指“自在之物”作用于“自我”所引起的知觉和印象，称作“经验的直观”，这是后天得来的感性认识；（2）指纯粹的形式，即时间和空间，称作“纯粹直观”或“先天的直观"
+  },
+  {
+   "cn": "感性认识",
+   "en": "perceptual cognition",
+   "source": "马克思主义",
+   "wordNumber": "01.0240",
+   "subjectFullName": "马克思主义_哲学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "认识过程的低级阶段，人们在实践中，通过感觉器官直接接触外界事物，在头脑中产生对对象的现象、外部联系的认识。其特征是直接感受性、形象性、生动性，表现形式是感觉、知觉、表象，表现内容是事物的表象、外部联系"
+  },
+  {
+   "cn": "知觉发育",
+   "en": "perceptual development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.2.6",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "个体对感觉信息的加工和解释能力随年龄增长的发展变化过程。是对事物整体特性的反映。"
+  },
+  {
+   "cn": "学习",
+   "en": "learning",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习",
+   "subjectName": "学习",
+   "publishYear": "2025",
+   "definition": "从模仿、阅读、研究、生活实践中获得知识、技能和经验的过程。"
+  },
+  {
+   "cn": "终身学习",
+   "en": "lifelong learning",
+   "source": "社会医学名词",
+   "wordNumber": "8.11.1.6.8",
+   "subjectFullName": "卫生服务研究",
+   "subjectName": "卫生资源",
+   "publishYear": "2025",
+   "definition": "个人在其一生中，为适应社会发展与自身全面发展的需要，持续进行的自我主导或有组织的学习活动。"
+  },
+  {
+   "cn": "元学习",
+   "en": "meta-learning",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.5.13",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_生活技能教育",
+   "subjectName": "生活技能教育",
+   "publishYear": "2025",
+   "definition": "学习者对学习过程的认知和控制。元认知的一个分支，即元认知在学习领域的拓展应用。"
+  },
+  {
+   "cn": "学习环境",
+   "en": "learning environment",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.6.2.7.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_健康促进学校",
+   "subjectName": "健康促进学校",
+   "publishYear": "2025",
+   "definition": "促进学习的各种支持性条件的总称。包括情境、活动、资源、工具、学习支架、学习伙伴和学业评价等。"
+  },
+  {
+   "cn": "学习障碍",
+   "en": "learning disorder",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_儿童少年心理卫生问题",
+   "subjectName": "儿童少年心理卫生问题",
+   "publishYear": "2025",
+   "definition": "个体在听、说、读、写、算等方面显著落后于正常水平的现象。"
+  },
+  {
+   "cn": "学习动机",
+   "en": "learning motivation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.4.3.2",
+   "subjectFullName": "",
+   "subjectName": "学校心理健康促进",
+   "publishYear": "2025",
+   "definition": "激发个体启动、维持学习活动，并使其朝向特定的学习目标的一种内部动力机制。"
+  },
+  {
+   "cn": "学习负荷",
+   "en": "learning load",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习负荷",
+   "subjectName": "学习负荷",
+   "publishYear": "2025",
+   "definition": "学习时脑力工作的强度和时间。与教学内容的难度、数量，教学时间和方法及学生身心健康状况等有关。"
+  },
+  {
+   "cn": "课业学习",
+   "en": "schoolwork learning",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.5.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_作息制度卫生",
+   "subjectName": "作息制度卫生",
+   "publishYear": "2025",
+   "definition": "根据教师要求，学生在课上进行的学习活动。"
+  },
+  {
+   "cn": "社会学习理论",
+   "en": "social learning theory",
+   "source": "社会学名词",
+   "wordNumber": "4.1.2.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会心理学理论",
+   "subjectName": "社会心理学理论",
+   "publishYear": "2025",
+   "definition": "由美国心理学家班杜拉(Albert Bandura）提出的理论。认为人的行为可以藉由自身反应及所受强化的直接经验获得，但更为常见的是藉由观察他人（或榜样）的行为及其所受强化的间接经验获得。"
+  },
+  {
+   "cn": "结构化学习模式",
+   "en": "structured learning model",
+   "source": "社会学名词",
+   "wordNumber": "4.4.13.7",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作督导",
+   "subjectName": "社会工作督导",
+   "publishYear": "2025",
+   "definition": "强调系统化指导和学习的社会工作督导模式。基于教育模式，其强调要有周密的计划，按部就班，系统化地指导被督导者学习掌握相关知识技能，结合运用多种不同的教学方法和手段，尤其注重模拟教学法。"
+  },
+  {
+   "cn": "学风",
+   "en": "style of learning",
+   "source": "马克思主义",
+   "wordNumber": "03.0478",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国共产党党风的一个重要方面。是党的领导机关和干部党员的思想方法，特别是对待马克思列宁主义的态度。中国共产党倡导和坚持理论联系实际的学风。"
+  },
+  {
+   "cn": "马克思主义学习型政党",
+   "en": "Marxist learning Party",
+   "source": "马克思主义",
+   "wordNumber": "03.0791",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国共产党通过理论与实践相结合的不断学习，运用科学理论加以武装，具有世界眼光、善于把握规律、富有创新精神。是十七届四中全会从全面推进中国特色社会主义事业和党的建设新的伟大工程全局出发提出的一项重大战略"
+  },
+  {
+   "cn": "网络系统学习",
+   "en": "network system learning",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.2.3.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育方法",
+   "subjectName": "学校健康教育方法",
+   "publishYear": "2025",
+   "definition": "将与某教育项目有关的知识、信息和技能分门别类，编制成教学软件，放在学校计算机局域网上，学生通过计算机终端连接网络进行学习。"
+  },
+  {
+   "cn": "社会学习理论",
+   "en": "social learning theory",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.5.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_生活技能教育",
+   "subjectName": "生活技能教育",
+   "publishYear": "2025",
+   "definition": "班杜拉（Bandura）提出的个体可以通过观察他人的行为及行为后果来学习，进而形成自身行为的理论。"
+  },
+  {
+   "cn": "社会情感学习",
+   "en": "social-emotional learning",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.5.12",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_生活技能教育",
+   "subjectName": "生活技能教育",
+   "publishYear": "2025",
+   "definition": "获得和应用正确的自我认知、识别和管理情绪、设定和实现目标、感受和理解他人、建立和维持积极关系、作出负责任的决定等方面的知识、态度、技能的过程。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
