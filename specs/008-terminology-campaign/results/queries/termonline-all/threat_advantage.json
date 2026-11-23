@@ -1,0 +1,812 @@
+{
+ "key": "threat advantage",
+ "term": "threat advantage",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T04:52:43+00:00",
+ "status": "ok",
+ "note": "variant=threat advantage; 审定公布名词库=4113; 海峡两岸名词对照库=743; 其他来源数据库=169; 预公布名词数据库=130; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "致危因素",
+   "en": "threat",
+   "source": "资源科学技术名词",
+   "wordNumber": "13.077",
+   "subjectFullName": "资源科学技术_动物资源学",
+   "subjectName": "动物资源学",
+   "publishYear": "2008",
+   "definition": "造成生物生存危机的各种人为和非人为因素。"
+  },
+  {
+   "cn": "偶然威胁",
+   "en": "accidental threat",
+   "source": "计算机科学技术名词",
+   "wordNumber": "10.0321",
+   "subjectFullName": "计算机科学技术_信息安全_系统安全分析与漏洞挖掘",
+   "subjectName": "系统安全分析与漏洞挖掘",
+   "publishYear": "2018",
+   "definition": "使系统状态发生偶然性非授权改变的行为。"
+  },
+  {
+   "cn": "威胁分析",
+   "en": "threat analysis",
+   "source": "计算机科学技术名词",
+   "wordNumber": "10.0269",
+   "subjectFullName": "计算机科学技术_信息安全_系统安全分析与漏洞挖掘",
+   "subjectName": "系统安全分析与漏洞挖掘",
+   "publishYear": "2018",
+   "definition": "对信息系统中存在的安全威胁以及威胁可能导致的潜在损失进行评估和测量。"
+  },
+  {
+   "cn": "威胁监控",
+   "en": "threat monitoring",
+   "source": "计算机科学技术名词",
+   "wordNumber": "10.0409",
+   "subjectFullName": "计算机科学技术_信息安全_安全监测与感知",
+   "subjectName": "安全监测与感知",
+   "publishYear": "2018",
+   "definition": "对审计跟踪及其他已搜集的数据进行的分析、评估及检查。目的是查出可能危及系统安全的违法行为或突发事变。"
+  },
+  {
+   "cn": "外部威胁",
+   "en": "outside threat",
+   "source": "计算机科学技术名词",
+   "wordNumber": "10.0364",
+   "subjectFullName": "计算机科学技术_信息安全_系统安全分析与漏洞挖掘",
+   "subjectName": "系统安全分析与漏洞挖掘",
+   "publishYear": "2018",
+   "definition": "利用系统安全脆弱点从外部环境攻击信息系统而造成的威胁。"
+  },
+  {
+   "cn": "内部威胁",
+   "en": "inside threat",
+   "source": "计算机科学技术名词",
+   "wordNumber": "10.0363",
+   "subjectFullName": "计算机科学技术_信息安全_系统安全分析与漏洞挖掘",
+   "subjectName": "系统安全分析与漏洞挖掘",
+   "publishYear": "2018",
+   "definition": "具有信息系统访问权限的内部人员滥用或误用权限，对信息系统安全造成的威胁。"
+  },
+  {
+   "cn": "威胁评估",
+   "en": "threat assessment",
+   "source": "放射医学与防护名词",
+   "wordNumber": "05.316",
+   "subjectFullName": "放射医学与防护_放射防护_放射防护管理",
+   "subjectName": "放射防护管理",
+   "publishYear": "2014",
+   "definition": "为确认涉及境内外的设施、活动或源相关的可能危险而进行的评估过程。以确定可能需要在境内采取防护行动的事件和相关地域，以及可能对减轻这类事件后果的有效的行动。"
+  },
+  {
+   "cn": "威吓行为",
+   "en": "threat behavior",
+   "source": "生态学名词",
+   "wordNumber": "03.179",
+   "subjectFullName": "生态学_行为生态学",
+   "subjectName": "行为生态学",
+   "publishYear": "2006",
+   "definition": "动物在战斗中摆出进攻姿态，意在把对方吓跑以避免真正的战斗。这种行为既能达到真正战斗的效果，又可避免双方受伤，是减少战斗双方伤亡的一种行为适应。"
+  },
+  {
+   "cn": "事故隐患",
+   "en": "accident threat",
+   "source": "铁道科学技术名词",
+   "wordNumber": "06.0626",
+   "subjectFullName": "铁道科学技术_铁道运输管理与运输经济",
+   "subjectName": "铁道运输管理与运输经济",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "威胁策略",
+   "en": "threat strategy",
+   "source": "数学名词",
+   "wordNumber": "011.0402",
+   "subjectFullName": "数学_运筹学_对策论",
+   "subjectName": "对策论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "威胁等级",
+   "en": "threat level",
+   "source": "电子学名词",
+   "wordNumber": "19.253",
+   "subjectFullName": "电子学_雷达与电子对抗",
+   "subjectName": "雷达与电子对抗",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "选择优势",
+   "en": "selective advantage ",
+   "source": "草学名词",
+   "wordNumber": "2.0345",
+   "subjectFullName": "草学_草地生态与草地培育_草地生态",
+   "subjectName": "草地生态",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "比较优势",
+   "en": "comparative advantage",
+   "source": "行为医学名词",
+   "wordNumber": "5.022",
+   "subjectFullName": "行为医学_行为的社会学基础_行为社会化",
+   "subjectName": "行为社会化",
+   "publishYear": "2022",
+   "definition": "个体因先天的要素禀赋或后天的学习创新，形成的相对优势。包括相对竞争优势、相对合作优势。"
+  },
+  {
+   "cn": "杂合优势",
+   "en": "heterozygote advantage",
+   "source": "医学遗传学名词",
+   "wordNumber": "2.029",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "由于杂合子基因型与双亲基因型不同而表现出生命力增强的现象。"
+  },
+  {
+   "cn": "比较优势",
+   "en": "comparative advantage",
+   "source": "城乡规划学名词",
+   "wordNumber": "02.009",
+   "subjectFullName": "城乡规划学_城乡与区域规划理论和方法_区域规划理论和方法",
+   "subjectName": "区域规划理论和方法",
+   "publishYear": "2021",
+   "definition": "某一个体（或区域）相较其他个体（或区域），在资源禀赋、经济活动或社会资本等方面所拥有的相对优势。"
+  },
+  {
+   "cn": "竞争优势",
+   "en": "competitive advantage",
+   "source": "城乡规划学名词",
+   "wordNumber": "02.010",
+   "subjectFullName": "城乡规划学_城乡与区域规划理论和方法_区域规划理论和方法",
+   "subjectName": "区域规划理论和方法",
+   "publishYear": "2021",
+   "definition": "一个国家、地区或者组织在竞争过程中，相对于其他国家、地区或组织所能保持领先地位的显著优势。"
+  },
+  {
+   "cn": "形胜",
+   "en": "location advantage",
+   "source": "城乡规划学名词",
+   "wordNumber": "06.040",
+   "subjectFullName": "城乡规划学_中国城市建设史和遗产保护规划_中国城市建设史",
+   "subjectName": "中国城市建设史",
+   "publishYear": "2021",
+   "definition": "（1）古代指地理区位与自然环境优势。（2）尤指地势险要或战略地位。"
+  },
+  {
+   "cn": "机械效益",
+   "en": "mechanical advantage",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "01.0355",
+   "subjectFullName": "机械工程（一）_机构与机器人学_机构动力学",
+   "subjectName": "机构动力学",
+   "publishYear": "2021",
+   "definition": "机械的输出力矩(或力)对其输入力矩(或力)之比值。"
+  },
+  {
+   "cn": "优势设计",
+   "en": "advantage design",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0093",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械设计_设计方法",
+   "subjectName": "设计方法",
+   "publishYear": "2021",
+   "definition": "为产品创建竞争优势的设计思想、原理和技术，是一种面向市场竞争、以创造产品竞争优势为目的的设计方法。"
+  },
+  {
+   "cn": "绝对优势",
+   "en": "absolute advantage",
+   "source": "经济学名词",
+   "wordNumber": "13.023",
+   "subjectFullName": "经济学_国际贸易",
+   "subjectName": "国际贸易",
+   "publishYear": "2020",
+   "definition": "如果一个国家用一单位资源生产的某种产品比另一个国家多，那么，这个国家在这种产品的生产上与另一国相比就具有绝对优势。"
+  },
+  {
+   "cn": "威胁",
+   "en": "threat",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "威吓行为",
+   "en": "threat behavior",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "威胁姿势",
+   "en": "threat posture",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "被动威胁",
+   "en": "passive threat",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "内部威胁",
+   "en": "inside threat",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "偶然威胁",
+   "en": "accidental threat",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "外部威胁",
+   "en": "outside threat",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "威胁等级",
+   "en": "threat level",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "威胁分析",
+   "en": "threat analysis",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "威胁监控",
+   "en": "threat monitoring",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "主动威胁",
+   "en": "active threat",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "竞争优势",
+   "en": "competitive advantage",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "相对利益",
+   "en": "relative advantage",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "比较优势",
+   "en": "comparative advantage",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "区位优势",
+   "en": "locational advantage",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "选择优势",
+   "en": "selection advantage",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "少数优势",
+   "en": "minority advantage",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "地区竞争优势",
+   "en": "regional comparative advantage",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "预报评分",
+   "en": "forecast score\",\"threat score",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "杂合子优势",
+   "en": "heterozygote advantage\",\"heterozygote superiority",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "有利",
+   "en": "advantage",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "领先",
+   "en": "advantage",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "领先",
+   "en": "advantage",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "威胁识别",
+   "en": "threat identification",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "占先",
+   "en": "advantage\",\"vantage",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "领先",
+   "en": "lead\",\"advantage",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有利原则",
+   "en": "advantage rule",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有利原则",
+   "en": "advantage rule",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有利原则",
+   "en": "advantage rule",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有利原则",
+   "en": "advantage rule",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有利原则",
+   "en": "advantage rule",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "接发球方占先",
+   "en": "ad out\",\"advantage out\",\"advantage receiver",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "发球占先",
+   "en": "ad in\",\"advantage in\",\"advantage server",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "人工智能威胁论",
+   "en": "threat of AI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全威胁情报",
+   "en": "security threat intelligence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信息安全威胁",
+   "en": "information security threat",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人数优势",
+   "en": "man advantage\",\"outnumbering",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "高级可持续性攻击",
+   "en": "advanced persistent threat (APT)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "以患为利",
+   "en": "Turn Disadvantage into Advantage",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "未知威胁监测平台",
+   "en": "monitoring platform for unknown threats",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "威胁评估",
+   "en": "threat assessment",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.6.23",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_分析评估",
+   "subjectName": "分析评估",
+   "publishYear": "2025",
+   "definition": "为确认涉及境内外设施的设施、活动或源相关的可能危险而进行的评估过程。已确定可能需要在境内采取防护行动的事件和相关地域，以及可能对减轻这类事件后果有关的有效的行动。"
+  },
+  {
+   "cn": "威胁等级",
+   "en": "threat level",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.1.17",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "为对核或辐射紧急情况的应急准备和响应进行优化而建立的一种分类方案，以求与威胁评估中所确立的危险的可能大小和性质相适应。威胁分为五种类型，I类到Ⅲ类按威胁水平逐次降低，Ⅳ类是在任何地区都可能存在的威胁和"
+  },
+  {
+   "cn": "刻板印象威胁",
+   "en": "stereotype threat",
+   "source": "社会学名词",
+   "wordNumber": "4.1.19.4",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_群际关系",
+   "subjectName": "群际关系",
+   "publishYear": "2025",
+   "definition": "由于一定的文化对某些群体持有负性刻板印象，群体成员在特定情景下由于担心受到别人会以这种观念来判断他和对待他，同时担心自己的表现会验证这种刻板印象而产生的威胁感。"
+  },
+  {
+   "cn": "智能与风险评估",
+   "en": "intelligence or threat assessment",
+   "source": "军事预防医学名词",
+   "wordNumber": "9.4.1.1",
+   "subjectFullName": "军事预防医学_生物武器医学防护学_生物战剂袭击侦检",
+   "subjectName": "生物战剂袭击侦检",
+   "publishYear": "2025",
+   "definition": "采用智能感知、识别、分析、评估等技术手段开展生物战剂风险的预测、预警及风险判定。"
+  },
+  {
+   "cn": "威胁评估与关键控制点",
+   "en": "threat assessment and critical control point, TACCP",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.65",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "对食品供应链中可能存在的投毒或破坏等恶意施加的危害（潜在的伤害源）、风险（危害的损失或损害的可能性）和脆弱性（对风险的敏感性）评估，发现薄弱环节与缺陷（脆弱性漏洞），对影响食品防护的关键环节或步骤进行"
+  },
+  {
+   "cn": "有理有利有节",
+   "en": "with good reason to our advantage and with restraint",
+   "source": "马克思主义",
+   "wordNumber": "03.0436",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "抗日战争时期，毛泽东在《目前抗日统一战线中的策略问题》中提出的中国共产党同国民党顽固派斗争的策略原则。“有理”指自卫的原则，“有利”指胜利的原则，“有节”指休战的原则。"
+  },
+  {
+   "cn": "中国无产阶级的优点和特点",
+   "en": "advantages and characteristics of the communist party of China",
+   "source": "马克思主义",
+   "wordNumber": "03.0470",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国无产阶级除具有一般无产阶级的基本优点，即与最先进的经济形式相联系，富于组织性纪律性，没有私人占有的生产资料以外，还有三个优点：一是身受帝国主义、资产阶级和封建势力三种压迫，更具有革命的坚定性和彻底"
+  },
+  {
+   "cn": "小麦",
+   "en": "wheat",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.1.8",
+   "subjectFullName": "食品卫生学_食品_粮食",
+   "subjectName": "粮食",
+   "publishYear": "2025",
+   "definition": "禾本科小麦属一年生或越年生草本植物。"
+  },
+  {
+   "cn": "四个伟大",
+   "en": "great struggle great project great cause and great dream",
+   "source": "马克思主义",
+   "wordNumber": "03.0804",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "习近平于2017年10月18日在十九大报告中提出的治国理政方针理论。伟大斗争，伟大工程，伟大事业，伟大梦想，紧密联系、相互贯通、相互作用，其中起决定性作用的是党的建设新的伟大工程。"
+  },
+  {
+   "cn": "三个主体三个补充",
+   "en": "three subjects three supplement",
+   "source": "马克思主义",
+   "wordNumber": "02.0384",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "陈云在中共八大会议上提出的关于社会主义改造基本完成以后，我国社会主义经济模式的简称。具体内容为：国家经营和集体经营是主体，一定数量的个体经营为补充；计划生产是主体，一定范围的自由生产为补充；国家市场是"
+  },
+  {
+   "cn": "咽喉与呼吸道综合征",
+   "en": "throat and respiratory syndrome",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.19.24",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "咽喉和呼吸道同时受到感染或炎症引起的一系列症状和体征。常见的症状包括喉咙痛、咳嗽、喉部干燥、声音嘶哑、呼吸困难等"
+  },
+  {
+   "cn": "《中俄勘分西北界约记》",
+   "en": "Treaty of Chuguchak/Treaty of Tarbagatai",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0612",
+   "subjectFullName": "民族学与文化学_民族史_新疆研究",
+   "subjectName": "新疆研究",
+   "publishYear": "2025",
+   "definition": "1864 年清政府与沙俄签订的不平等条约，全文共10 条，通过《中俄勘分西北界约记》及三个子约，我国自巴尔喀什湖以东以南44 万平方公里土地被俄国割占。"
+  },
+  {
+   "cn": "达标治疗",
+   "en": "treat-to-target，T2T",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.7.2.15",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病常用药物及治疗",
+   "subjectName": "风湿免疫病常用药物及治疗",
+   "publishYear": "2025",
+   "definition": "一种治疗理念，最终目的是对疾病进行长程管理、降低并发症、改善自然病程。应用于类风湿关节炎、系统性红斑狼疮、痛风等疾病的治疗策略中，包括设定严格的治疗目标，密切监测及调整治疗方案以实现治疗目标。"
+  },
+  {
+   "cn": "三区",
+   "en": "three zones",
+   "source": "消毒学",
+   "wordNumber": "4.1.4.1.5",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "为满足医疗机构和集中隔离场所以及其他特殊场所隔离要求进行实质性物理隔断的区域，分成清洁区、潜在污染区和污染区三个区域。三区域实施分区管理。"
+  },
+  {
+   "cn": "三分开",
+   "en": "three isolation",
+   "source": "消毒学",
+   "wordNumber": "4.4.2.1",
+   "subjectFullName": "消毒学_消毒应用_疫源地消毒",
+   "subjectName": "疫源地消毒",
+   "publishYear": "2025",
+   "definition": "随时消毒应做到的分住室、分饮食、分生活用具的过程。"
+  },
+  {
+   "cn": "大同",
+   "en": "great harmony",
+   "source": "社会学名词",
+   "wordNumber": "1.1.1.2",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国古代社会思想",
+   "subjectName": "中国古代社会思想",
+   "publishYear": "2025",
+   "definition": "上古三代之时天下为公的状态。后被发挥成一种人类未来的人人平等互助、没有差异和战争的理想世界。语出《礼记·礼运》。"
+  },
+  {
+   "cn": "大传统",
+   "en": "great tradition",
+   "source": "社会学名词",
+   "wordNumber": "4.2.2.3",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_社会人类学基本概念",
+   "subjectName": "社会人类学基本概念",
+   "publishYear": "2025",
+   "definition": "一个社会中占优势的文化模式，尤其是指带有强烈而正统的历史意识的都市生活方式或复合式生活方式。由美国人类学家雷德菲尔德(R.Redfield）首先创用。与“小传统”相对。"
+  },
+  {
+   "cn": "“三无”人员",
+   "en": "“three noes”",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.90",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "中国的特殊人群范畴，包括无劳动能力、无生活来源，又无法定赡养、抚养、扶养义务人的老年人、残疾人或者未满16周岁的村民。符合“三无”人员标准可以享受农村五保供养待遇和城市社会福利院的照顾。"
+  },
+  {
+   "cn": "三个面向",
+   "en": "three orientations",
+   "source": "马克思主义",
+   "wordNumber": "03.0528",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "全称“教育要面向现代化，面向世界，面向未来”。最早为邓小平于1983年9月为北京景山学校的题词，后来成为中国改革开放以后教育工作的指导方针。"
+  },
+  {
+   "cn": "三级联创",
+   "en": "three lian",
+   "source": "马克思主义",
+   "wordNumber": "03.0751",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "在县、乡镇和村三级党组织中，开展的以“五个好”村党组织、乡镇党委和农村基层组织建设先进县为主要内容的创建活动。该活动同时把创建基层满意的县直涉农部门和群众满意的乡镇站所也纳入“三级联创”活动中，把县、"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

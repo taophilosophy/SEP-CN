@@ -1,0 +1,702 @@
+{
+ "key": "esse est percipi",
+ "term": "esse est percipi",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T04:50:18+00:00",
+ "status": "ok",
+ "note": "variant=esse est percipi; 审定公布名词库=292; 海峡两岸名词对照库=85; 其他来源数据库=19; 预公布名词数据库=13; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "内镜十二指肠乳头括约肌切开术",
+   "en": "endoscopic sphincterotomy;EST",
+   "source": "普通外科学名词",
+   "wordNumber": "22.149",
+   "subjectFullName": "医学_普通外科学_胆道外科",
+   "subjectName": "胆道外科",
+   "publishYear": "2026",
+   "definition": "内镜下切开十二指肠乳头括约肌的技术。"
+  },
+  {
+   "cn": "内镜十二指肠乳头括约肌切开术",
+   "en": "endoscopic sphincterotomy; EST",
+   "source": "肝病学名词",
+   "wordNumber": "12.2.2.1.6",
+   "subjectFullName": "肝病学_胆系疾病_胆系炎症",
+   "subjectName": "胆系炎症",
+   "publishYear": "2024",
+   "definition": "通过十二指肠镜到达十二指肠乳头括约肌开口处，用切开刀将乳头括约肌切开，使开口扩大后进行各种内镜下治疗的手术方法。"
+  },
+  {
+   "cn": "内镜十二指肠乳头括约肌切开术",
+   "en": "endoscopic sphincterotomy;EST",
+   "source": "消化病学名词",
+   "wordNumber": "1.238",
+   "subjectFullName": "消化病_总论_治疗",
+   "subjectName": "治疗",
+   "publishYear": "2022",
+   "definition": "经内镜到达十二指肠乳头开口处，用切开刀通过高频电发生器将乳头括约肌切开，使开口扩大后进行各种内镜下治疗的手术方法。"
+  },
+  {
+   "cn": "稳定进化对策",
+   "en": "evolutionary stable strategy,ESS",
+   "source": "植物学名词",
+   "wordNumber": "13.0021",
+   "subjectFullName": "植物学_植物生态学_植物个体生态学",
+   "subjectName": "植物个体生态学",
+   "publishYear": "2019",
+   "definition": "一旦被种群的多数个体采用，将不再被改进并将被自然选择所确立的对策。"
+  },
+  {
+   "cn": "扩展服务集",
+   "en": "extended service set,ESS",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0414",
+   "subjectFullName": "计算机科学技术_网络与数据通信_无线网络",
+   "subjectName": "无线网络",
+   "publishYear": "2018",
+   "definition": "无线局域网中两个或更多的BSS通过它们的接入点设备与一个通常是有线局域网的骨干网互连形成的服务集。"
+  },
+  {
+   "cn": "稳定进化对策",
+   "en": "evolutionary stable strategy,ESS",
+   "source": "生态学名词",
+   "wordNumber": "03.022",
+   "subjectFullName": "生态学_行为生态学",
+   "subjectName": "行为生态学",
+   "publishYear": "2006",
+   "definition": "一旦被种群大多数成员采取，且不会被其他任何可选行为对策所取代的对策。"
+  },
+  {
+   "cn": "环境应力筛选",
+   "en": "environmental stress screening,ESS",
+   "source": "航天科学技术名词",
+   "wordNumber": "21.176",
+   "subjectFullName": "航天科学技术_可靠性",
+   "subjectName": "可靠性",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "表达序列标签",
+   "en": "expressed sequence tag,EST",
+   "source": "畜牧学名词",
+   "wordNumber": "04.220",
+   "subjectFullName": "畜牧学_遗传育种_生物技术",
+   "subjectName": "生物技术",
+   "publishYear": "2020",
+   "definition": "代表基因表达信息的cDNA序列片段。"
+  },
+  {
+   "cn": "表达序列标签",
+   "en": "expressed sequence tag,EST",
+   "source": "植物学名词",
+   "wordNumber": "16.0130",
+   "subjectFullName": "植物学_植物生物技术",
+   "subjectName": "植物生物技术",
+   "publishYear": "2019",
+   "definition": "从互补DNA(cDNA)分子测得的部分序列的短段DNA(通常300~500bp)。从cDNA文库得到的许多表达序列标签集合组成表达序列标签数据库，代表在一定的发育时期或特定的环境条件下，特定的组织细胞"
+  },
+  {
+   "cn": "表达序列标签",
+   "en": "expressed sequence tag,EST",
+   "source": "生物物理学名词",
+   "wordNumber": "06.082",
+   "subjectFullName": "生物物理学_生物信息学_遗传与表观遗传数据分析",
+   "subjectName": "遗传与表观遗传数据分析",
+   "publishYear": "2018",
+   "definition": "从互补DNA(cDNA)分子所测得部分序列的短片段DNA。通常300~500bp。从互补DNA文库所得到的许多表达序列标签集合组成表达序列标签数据库，代表在一定的发育时期或特定的环境条件下，特定的组织"
+  },
+  {
+   "cn": "最早开始时间",
+   "en": "earliest start time,EST",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0260",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_范围和进度管理",
+   "subjectName": "范围和进度管理",
+   "publishYear": "2016",
+   "definition": "在紧前工作和有关时限约束下，工作有可能开始的最早时刻。"
+  },
+  {
+   "cn": "扩展标准理论",
+   "en": "extended standard theory,EST",
+   "source": "语言学名词",
+   "wordNumber": "01.075",
+   "subjectFullName": "语言学_理论语言学_理论与方法",
+   "subjectName": "理论与方法",
+   "publishYear": "2011",
+   "definition": "转换生成语法的一个发展阶段。在标准理论的基础上加入语义转换规则，对句子表层结构进行加工，从而生成句子的语义解释。"
+  },
+  {
+   "cn": "表达序列标签",
+   "en": "expressed sequence tag,EST",
+   "source": "遗传学名词",
+   "wordNumber": "08.034",
+   "subjectFullName": "遗传学_基因组学",
+   "subjectName": "基因组学",
+   "publishYear": "2007",
+   "definition": "代表基因表达信息的cDNA序列片段。"
+  },
+  {
+   "cn": "表达序列标签",
+   "en": "expressed sequence tag;EST",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "11.0844",
+   "subjectFullName": "生物化学与分子生物学_方法与技术_重组_技术及应用_层析技术",
+   "subjectName": "层析技术",
+   "publishYear": "2024",
+   "definition": "从互补DNA（cDNA）分子所测得的部分序列的短片段DNA（通常300～500bp）。可作为基因组可转录表达的基因的标志。cDNA文库所得到的许多表达序列标签可集合组成表达序列标签数据库，代表在一定的"
+  },
+  {
+   "cn": "食管间质瘤",
+   "en": "esophageal stromal tumor;EST",
+   "source": "消化病学名词",
+   "wordNumber": "2.113",
+   "subjectFullName": "消化病_食管_食管疾病",
+   "subjectName": "食管疾病",
+   "publishYear": "2022",
+   "definition": "好发于食管中、下段，镜下以梭形细胞型为主的食管肿瘤。可呈腔内或腔外生长。临床症状与肿瘤大小、部位、侵袭性有关，可表现为吞咽困难、进食不适、胸骨后隐痛、胸闷不适、胸骨后烧灼感、呕血或黑便等。"
+  },
+  {
+   "cn": "正常甲状腺功能性病态综合征",
+   "en": "euthyroid sick syndrome;ESS",
+   "source": "内分泌代谢病学名词",
+   "wordNumber": "03.129",
+   "subjectFullName": "甲状腺疾病_甲状腺疾病",
+   "subjectName": "甲状腺疾病",
+   "publishYear": "2025",
+   "definition": "由于非甲状腺的全身性疾病、手术和禁食等引起的甲状腺功能检查异常，而甲状腺本身并没有病变的一组综合征。血清三碘甲状腺原氨酸水平降低，严重时血清甲状腺素水平降低，反式三碘甲状腺原氨酸水平升高。"
+  },
+  {
+   "cn": "子宫内膜间质肉瘤",
+   "en": "endometrial stromal sarcoma;ESS",
+   "source": "妇产科学名词",
+   "wordNumber": "4.116",
+   "subjectFullName": "妇科肿瘤或瘤样病变_子宫肿瘤",
+   "subjectName": "子宫肿瘤",
+   "publishYear": "2025",
+   "definition": "子宫内膜间质来源的恶性间叶性肿瘤。包括低级别子宫内膜间质肉瘤、高级别子宫内膜间质肉瘤和未分化子宫肉瘤。临床表现主要有不规则阴道出血、月经量增多、阴道排液、贫血、下腹痛等。"
+  },
+  {
+   "cn": "外显子剪接沉默子",
+   "en": "exonic splicing silencer;ESS",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0288",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_合成与加工_修复",
+   "subjectName": "修复",
+   "publishYear": "2024",
+   "definition": "外显子中能够被抑制剪接的RNA蛋白质结合并抑制剪接过程的一段RNA序列。"
+  },
+  {
+   "cn": "艾普沃斯嗜睡量表",
+   "en": "Epworth sleepiness scale;ESS",
+   "source": "睡眠医学名词",
+   "wordNumber": "4.445",
+   "subjectFullName": "睡眠医学_睡眠疾病诊断学_睡眠相关量表和问卷",
+   "subjectName": "睡眠相关量表和问卷",
+   "publishYear": "2022",
+   "definition": "由澳大利亚艾普沃斯（Epworth）医院的默里·约翰斯（Murry Johns）编制的睡眠量表。于1991年用于临床，用作白天思睡程度自我评估工具。该量表共有8个问题，每个问题按0～3四个等级计分。总"
+  },
+  {
+   "cn": "爱泼沃斯思睡量表",
+   "en": "Epworth sleepiness scale;ESS",
+   "source": "行为医学名词",
+   "wordNumber": "11.102",
+   "subjectFullName": "行为医学_睡眠_觉醒障碍_睡眠障碍诊断",
+   "subjectName": "睡眠障碍诊断",
+   "publishYear": "2022",
+   "definition": "1999年由澳大利亚墨尔本的爱泼沃斯（Epworth）医院睡眠疾病中心设计开发，用于临床评估思睡的自评量表。具有简便易行的特点。"
+  },
+  {
+   "cn": "进化稳定策略（=稳定进化对策）",
+   "en": "evolutionary stable strategy\",\"ESS",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "稳定进化对策，进化稳定策略",
+   "en": "evolutionary stable strategy\",\"ESS",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "稳定进化对策",
+   "en": "evolutionary stable strategy\",\"ESS",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "电子交换系统",
+   "en": "electronic switching system\",\"ESS",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "经理支持系统",
+   "en": "executive support system\",\"ESS",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "表达序列标签",
+   "en": "expressed sequence tag\",\"EST",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "强化性支持疗法",
+   "en": "enriched supportive therapy\",\"EST",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "表达序列标签",
+   "en": "expressed sequence tag\",\"EST",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "表达序列标签",
+   "en": "expresse dsequence tag\",\"EST",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "缓松",
+   "en": "ease",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "回舵",
+   "en": "ease her",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "松开",
+   "en": "ease off",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "小庄严弥撒曲",
+   "en": "Petite Messe solennelle",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Rossini, Gioachino (Antonio)"
+  },
+  {
+   "cn": "放松信贷",
+   "en": "ease of credit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国际储备过剩",
+   "en": "international reserve ease",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "艾萨卫星，环境探测卫星",
+   "en": "Environmental Survey Satellite\",\"ESSA",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "东点",
+   "en": "east point",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "对映贝壳杉烷[类]",
+   "en": "ent-kaurane",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "最优价格",
+   "en": "best price",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "最佳适配[法]",
+   "en": "best-fit",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "忘适之适",
+   "en": "Effortless Ease",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "放松",
+   "en": "ease\",\"rest\",\"shio",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "易简",
+   "en": "Ease and Simplicity",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "次优报价",
+   "en": "second best offer",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "最佳优先搜索",
+   "en": "best-first search",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "最好成绩标记",
+   "en": "marker of best throw",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "中东呼吸综合征",
+   "en": "Middle East respiratory syndrome (MERS)",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_疾病_病毒名称",
+   "subjectName": "病毒名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "物尽其用",
+   "en": "make the best use of everything",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数尽其用",
+   "en": "make the best use of data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "“大东亚共荣圈”",
+   "en": "“Greater East Asia Co-Prosperity Sphere”",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "东西部扶贫协作",
+   "en": "east-west pairing-off cooperation for poverty alleviation",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "上兵伐谋",
+   "en": "The Best Strategy in Warfare is to Foil the Enemy’s Strategy.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "用足用好合规的外贸政策工具",
+   "en": "to make full and best use of foreign trade policy tools",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "  推进疫情防控的好经验好做法",
+   "en": "to promote best practices in prevention and control from across the country",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "疫情无国界，人间有真情。",
+   "en": "Virus knows no borders, but the worst of times reveals the best in people.",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际援助",
+   "subjectName": "国际援助",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "尼莲正东流，西树几春秋。（援助印度，源自玄奘）",
+   "en": "By the Holy Lotus River；Where pure gold flows east.； Looking back to the western shore；At Buddha’s sacred grove for many thousands of autumns.",
+   "source": "新冠肺炎疫情相关词汇中英对照表",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际援助",
+   "subjectName": "国际援助",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "中和位育论",
+   "en": "East-Balance",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0632",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "中国社会学家、优生学家、民族学家和教育学家潘光旦引用儒家经典《中庸》里的“致中和，天地位焉，万物育焉”之义提炼而成的核心研究概念，被视为其新人文思想的核心。“位育”为“安其所”“遂其生”，即天地万物各"
+  },
+  {
+   "cn": "东亚模式",
+   "en": "east asian model",
+   "source": "社会学名词",
+   "wordNumber": "2.9.7.3",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_发展模式",
+   "subjectName": "发展模式",
+   "publishYear": "2025",
+   "definition": "东亚地区，包括日本、亚洲“四小龙”以及“东盟”一些国家所采取的政府主导的外向型经济发展模式。该模式使上述国家在20世纪70年代至90年代初出现经济持续高速增长，并在20世纪80年代先后进入世界中等发达"
+  },
+  {
+   "cn": "东匈语支",
+   "en": "East Hun branch",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0297",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族语言",
+   "subjectName": "少数民族语言",
+   "publishYear": "2025",
+   "definition": "阿尔泰语系突厥语族的一个语支。历史上属于东匈奴部落联盟、东突厥汗国、回鹘汗国和黠嘎斯部落联盟的突厥语族诸语言，包括柯尔克孜语、西部裕固语、图佤语（瓦？）等"
+  },
+  {
+   "cn": "土尔扈特东归",
+   "en": "Turghuud East Migration",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0601",
+   "subjectFullName": "民族学与文化学_民族史_新疆研究",
+   "subjectName": "新疆研究",
+   "publishYear": "2025",
+   "definition": "清代著名历史事件。18 世纪上半叶沙俄政府向土尔扈特人征收名目繁多的赋税，径发兵役徭役，并强迫改信东正教。土尔扈特新汗渥巴锡于1771 年1 月初，率领16.9 万土尔扈特人启程东归。1771 年8 "
+  },
+  {
+   "cn": "红细胞沉降率",
+   "en": "erythrocyte sedimentation rate, ESR",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.2.3",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_炎症指标",
+   "subjectName": "炎症指标",
+   "publishYear": "2025",
+   "definition": "红细胞在一定条件下沉降的速度，常以红细胞在第一小时末下沉的距离表示。结核病活动期可升高。"
+  },
+  {
+   "cn": "体表入射剂量",
+   "en": "entrance surface dose，ESD",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.63",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "X射线诊断中射入被检者体表处照射野中心的吸收剂量。用反散射后空气中的吸收剂量表示。"
+  },
+  {
+   "cn": "发射计算机体层成像",
+   "en": "emission computed tomography，ECT",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.3.11",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_核医学",
+   "subjectName": "核医学",
+   "publishYear": "2025",
+   "definition": "一种能从不同角度拍摄体内放射性药物浓度分布图，经计算机处理，重建核素在体内各截面的分布及立体分布图的核素显像技术。分单光子发射计算机体层显像（SPECT）和正电子发射计算机体层显像（PET）。"
+  },
+  {
+   "cn": "最佳线性无偏估计量",
+   "en": "best linear unbiased estimator",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.93",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "依照一定规则根据总体的样本的统计值而得到的对总体的估计值。该估价值的期望等于总体的真值，且该估计值的方差在所有的其他估价值的方差中最小。"
+  },
+  {
+   "cn": "最佳矫正视力",
+   "en": "best corrected visual acuity",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.2.2.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测",
+   "subjectName": "学生常见疾病监测",
+   "publishYear": "2025",
+   "definition": "以最适当镜片进行屈光矫正后所能达到的最佳视力。"
+  },
+  {
+   "cn": "优劣尺度法",
+   "en": "best-worst scaling method,BWS",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.6.1.7",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "通过让受访者在一系列具有不同属性水平组合的健康产品或服务选项中，不断选择出最好的和最差的选项，评估受访者对选项或属性的偏好的方法。"
+  },
+  {
+   "cn": "食用历史",
+   "en": "history to be eat as food",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.23.33",
+   "subjectFullName": "食品卫生学_食品_其他食品",
+   "subjectName": "其他食品",
+   "publishYear": "2025",
+   "definition": "某种食品在省辖区域内有30年以上作为定型或者非定型包装食品生产经营的历史，并且未载入《中华人民共和国药典》。"
+  },
+  {
+   "cn": "即食鲜切果蔬",
+   "en": "ready-to-eat,fresh, pre-cut fruits and vegetable",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.3.4",
+   "subjectFullName": "食品卫生学_食品_蔬菜",
+   "subjectName": "蔬菜",
+   "publishYear": "2025",
+   "definition": "以新鲜的蔬菜、水果为原料，采用预处理、清洗、去皮或不去皮、切分或不切分、消毒、漂洗、去除表面水等处理，密封包装后经冷链储存运输，可直接入口食用的产品。"
+  },
+  {
+   "cn": "被测量真值最佳估计",
+   "en": "best estimate of the true quantity value of the measurand",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.16",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "给定实验结果和被测量的所有先验信息，被测量真值概率分布的期望值。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

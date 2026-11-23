@@ -1,0 +1,762 @@
+{
+ "key": "null hypotheses",
+ "term": "null hypotheses",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T04:51:45+00:00",
+ "status": "ok",
+ "note": "variant=null hypotheses; 审定公布名词库=920; 海峡两岸名词对照库=348; 其他来源数据库=77; 预公布名词数据库=34; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "辅助假说",
+   "en": "auxiliary hypotheses",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.161",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会_历史转向",
+   "subjectName": "历史转向",
+   "publishYear": "2024",
+   "definition": "用以避免科学理论与观察、实验结果之间矛盾的假设。大多可独立检验并能增进科学知识。"
+  },
+  {
+   "cn": "空值",
+   "en": "null",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0100",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "不知道或不存在的值。"
+  },
+  {
+   "cn": "无效假设",
+   "en": "null hypothesis",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.303",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "在统计学中指一些现象或一些事件之间没有统计相关性。统计推理的目的正是在一定的概率下拒绝或接受无效假设。"
+  },
+  {
+   "cn": "无效假设",
+   "en": "null hypothesis",
+   "source": "畜牧学名词",
+   "wordNumber": "04.643",
+   "subjectFullName": "畜牧学_遗传育种_生物统计学",
+   "subjectName": "生物统计学",
+   "publishYear": "2020",
+   "definition": "在假设检验中对未知的研究对象总体做出的一定假设前提。通常用<img src='/root/syzx/static/spz/xumuxue1.04.643.01.png'/>表示。"
+  },
+  {
+   "cn": "零假设",
+   "en": "null hypothesis",
+   "source": "肠外肠内营养学名词",
+   "wordNumber": "05.142",
+   "subjectFullName": "肠外肠内营养学_基础研究与临床研究_临床研究",
+   "subjectName": "临床研究",
+   "publishYear": "2019",
+   "definition": "假设检验过程中设立的两组之间无差别的假设。特指双侧差异性检验。记为<img src='/root/syzx/static/spz/changwai1.05.150.01.png'/>。"
+  },
+  {
+   "cn": "零假说",
+   "en": "null hypothesis",
+   "source": "植物学名词",
+   "wordNumber": "13.0356",
+   "subjectFullName": "植物学_植物生态学_植物群落与植被",
+   "subjectName": "植物群落与植被",
+   "publishYear": "2019",
+   "definition": "认为生物群落的功能与物种多样性无关的一种假说。即物种的增减不影响生物群落功能的正常发挥。"
+  },
+  {
+   "cn": "原假设",
+   "en": "null hypothesis",
+   "source": "化学名词",
+   "wordNumber": "03.0215",
+   "subjectFullName": "化学_分析化学_化学计量学",
+   "subjectName": "化学计量学",
+   "publishYear": "2016",
+   "definition": "对样本测量数据进行统计检验时，事先做出的关于总体未知分布或总体参数所作的统计假设。"
+  },
+  {
+   "cn": "虚无假设",
+   "en": "null hypothesis",
+   "source": "心理学名词",
+   "wordNumber": "03.069",
+   "subjectFullName": "心理学_心理统计与测量",
+   "subjectName": "心理统计与测量",
+   "publishYear": "2014",
+   "definition": "心理学研究中被检验的假设。"
+  },
+  {
+   "cn": "零假说",
+   "en": "null hypothesis",
+   "source": "生态学名词",
+   "wordNumber": "06.060",
+   "subjectFullName": "生态学_群落生态学",
+   "subjectName": "群落生态学",
+   "publishYear": "2006",
+   "definition": "认为生物群落的功能与物种多样性无关，即物种的增减不影响生物群落功能的正常发挥。"
+  },
+  {
+   "cn": "零假设",
+   "en": "null hypothesis",
+   "source": "化学工程名词",
+   "wordNumber": "05.221",
+   "subjectFullName": "化学工程_过程系统工程_过程操作",
+   "subjectName": "过程操作",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "原假设",
+   "en": "null hypothesis",
+   "source": "数学名词",
+   "wordNumber": "09.0599",
+   "subjectFullName": "数学_概率论_数理统计_假设检验",
+   "subjectName": "假设检验",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "零假设",
+   "en": "null hypothesis",
+   "source": "电子学名词",
+   "wordNumber": "18.008",
+   "subjectFullName": "电子学_可靠性和质量控制",
+   "subjectName": "可靠性和质量控制",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "无效突变",
+   "en": "null mutation",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0193",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_复制_损伤与修复_损伤",
+   "subjectName": "损伤",
+   "publishYear": "2024",
+   "definition": "等位基因由于片段的缺失、插入以及重排等原因使其编码的蛋白质失去功能的突变。既可以是导致无法合成蛋白质的突变，也可以是促进合成无功能蛋白质的突变。"
+  },
+  {
+   "cn": "零无限远",
+   "en": "null infinity",
+   "source": "天文学名词",
+   "wordNumber": "07.606",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "共形图上的一种边界，由光无限时间传播定义的时空极限。"
+  },
+  {
+   "cn": "零轴",
+   "en": "null axis",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1301",
+   "subjectFullName": "地球物理学_地震科学_震源",
+   "subjectName": "震源",
+   "publishYear": "2022",
+   "definition": "与压力轴和张力轴垂直，与滑动矢量的方向和断层面的法向都垂直，地震时释放应力的中间主应力轴。 "
+  },
+  {
+   "cn": "零位压力",
+   "en": "null pressure",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "08.0874",
+   "subjectFullName": "机械工程（一）_传动_液压传动_压力",
+   "subjectName": "压力",
+   "publishYear": "2021",
+   "definition": "连续控制的方向控制阀处于液压零位时，两个工作口的压力。"
+  },
+  {
+   "cn": "零位检验",
+   "en": "null testing",
+   "source": "光学名词",
+   "wordNumber": "06.148",
+   "subjectFullName": "光学_光学材料",
+   "subjectName": "光学材料",
+   "publishYear": "2021",
+   "definition": "一种利用反馈技术或者补偿技术使检测系统的输出为平衡值(零值)，然后根据反馈值或者补偿值来确定被测参数的光学检测技术。具有灵敏度高的特点。"
+  },
+  {
+   "cn": "补偿镜",
+   "en": "null lens",
+   "source": "光学名词",
+   "wordNumber": "09.187",
+   "subjectFullName": "光学_光无源器件",
+   "subjectName": "光无源器件",
+   "publishYear": "2021",
+   "definition": "干涉仪中能够将球面波或平面波转化为检测所需的非球面波的光学元件(或系统)。"
+  },
+  {
+   "cn": "无效突变",
+   "en": "null mutation",
+   "source": "医学遗传学名词",
+   "wordNumber": "1.237",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "导致无基因产物或基因产物完全失活的突 变。"
+  },
+  {
+   "cn": "侧脑室黑边",
+   "en": "signal null",
+   "source": "医学影像技术学名词",
+   "wordNumber": "05.482",
+   "subjectFullName": "医学影像技术学_磁共振成像技术_磁共振成像质量控制",
+   "subjectName": "磁共振成像质量控制",
+   "publishYear": "2020",
+   "definition": "采用短TI的反转恢复序列成像时，若TR或TI值选择不当，脑脊液信号不能被完全抑制而产生侧脑室边缘低信号影的现象。"
+  },
+  {
+   "cn": "空[值]",
+   "en": "null",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "零",
+   "en": "null",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "多因子假说",
+   "en": "multiple-factor hypotheses",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "零假说",
+   "en": "null hypothesis",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "虚无假设",
+   "en": "null hypothesis",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "零假设",
+   "en": "null hypothesis",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "虚无假设,零假设",
+   "en": "null hypothesis",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "原假设",
+   "en": "null hypothesis",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "零假说",
+   "en": "null hypothesis",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "零假设",
+   "en": "null hypothesis",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "无效突变",
+   "en": "null mutation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "零点平衡",
+   "en": "null balance",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "零电位器",
+   "en": "null potentiometer",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "零模型",
+   "en": "null model",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "裸细胞",
+   "en": "null cell",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "无效突变",
+   "en": "null mutation",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "裸细胞",
+   "en": "null cell",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "空值",
+   "en": "null value",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "无效突变",
+   "en": "null mutation",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "无效DNA",
+   "en": "null DNA",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "假设检验",
+   "en": "hypothesis testing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "船身",
+   "en": "hull",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "转体360度",
+   "en": "full",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "船体",
+   "en": "hull",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "提铃",
+   "en": "pull",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "艇身",
+   "en": "hull",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "划桨",
+   "en": "pull\",\"stroke",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "划水",
+   "en": "pull\",\"stroke",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_游泳名词",
+   "subjectName": "游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "旋",
+   "en": "full-in full-out",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "后空翻两周转体720度",
+   "en": "full in full out",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "普朗克量子假设",
+   "en": "Planck’s quantum hypothesis",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "分布语义假设",
+   "en": "distributional semantics hypothesis",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据人假设",
+   "en": "Data Man Hypothesis",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "政治人假设",
+   "en": "political man hypothesis",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "经济人假设",
+   "en": "homo economicus hypothesis",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "辅助假说",
+   "en": "auxiliary hypotheses",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.161",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "用以避免科学理论与观察、实验结果之间矛盾的假设。大多可独立检验并能增进科学知识。"
+  },
+  {
+   "cn": "零效反应点",
+   "en": "null reaction point",
+   "source": "消毒学",
+   "wordNumber": "3.1.6.6.1",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "由文件规定或已经确立和证实，对指示物无显著影响的系列终止条件。"
+  },
+  {
+   "cn": "“推拉”理论",
+   "en": "push-pull hypothesis",
+   "source": "社会学名词",
+   "wordNumber": "4.5.4.5",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_迁移",
+   "subjectName": "迁移",
+   "publishYear": "2025",
+   "definition": "关于迁移的一种理论，假设原居住地的条件（如贫穷和失业）促使或推动人们离开原居住地而迁往其他条件优越或是具有拉动力的地方（如较高的生活水平和就业率）。"
+  },
+  {
+   "cn": "假说",
+   "en": "hypothesis",
+   "source": "马克思主义",
+   "wordNumber": "04.0068",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "科学思维的一种形式。根据已有的事实材料和科学原理，对某些事物的存在或事物的因果性、规律性或未来的有关问题作出的假定性解或推测释。假说不同于主观猜测，它是以事实材料和科学理论为依据，通过一定的逻辑形式而"
+  },
+  {
+   "cn": "假设检验",
+   "en": "hypothesis testing",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.23",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "根据客观规则确定研究者的假设是否为数据所支持的一种推论方法。其假设是总体的特征描述或总体参数，数据是能够代表总体的可信样本。"
+  },
+  {
+   "cn": "扇形假说",
+   "en": "sector hypothesis",
+   "source": "社会学名词",
+   "wordNumber": "3.4.4.8",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_城市理论或流派",
+   "subjectName": "城市理论或流派",
+   "publishYear": "2025",
+   "definition": "对同心圆模式的修正假说。由霍伊特(Homer Hoyt）提出，他搜集并研究了142个城市1900、1910、1936年的土地利用分布资料，细化、修正了同心圆模式中某些区段的分布。"
+  },
+  {
+   "cn": "盖亚假说",
+   "en": "Gaia hypothesis",
+   "source": "社会学名词",
+   "wordNumber": "3.14.2.11",
+   "subjectFullName": "社会学名词_分支社会学_环境社会学_现代环境社会学理论",
+   "subjectName": "现代环境社会学理论",
+   "publishYear": "2025",
+   "definition": "人类只是地球上的一个物种，并不比其他生命形式具有更多的生存权利，而其他生命形式对于生态系统的健康常常是更加重要的。由近年来激进的环境主义者提出。"
+  },
+  {
+   "cn": "病因假设",
+   "en": "etiological hypothesis",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.19.33",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "未经验证的病因和食物中毒之间的因果关系假说"
+  },
+  {
+   "cn": "情景假设",
+   "en": "scenario hypothesis",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.5.29",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "风险评估时限定暴露可能发生的独立情形的事实、假设和推论组合。包括暴露来源、暴露人群、暴露时间、微环境以及活动等，有助于开展暴露评估。"
+  },
+  {
+   "cn": "自我例证假说",
+   "en": "self-exemplifying hypothesis",
+   "source": "社会学名词",
+   "wordNumber": "3.10.5.9",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学社会学研究",
+   "subjectName": "科学社会学研究",
+   "publishYear": "2025",
+   "definition": "默顿用来说明科学发现是以一种多重独立方式出现的概念，指学科的主题、问题群以及作为该学科特征的某些方面不断被历史事实所证实，即该学科自我证实其预设内容或特征的过程。"
+  },
+  {
+   "cn": "萨丕尔-沃尔夫假说",
+   "en": "Sapir-Whorf hypothesis",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0024",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "关于语言与思维关系的一种假说，由美国人类语言学家萨丕尔（Edward Sapir）和沃尔夫（Benjamin Whorf）提出。这种假说比较强势的观点认为，一种语言的语法和语义范畴和说这种语言的人理解"
+  },
+  {
+   "cn": "年代-区域关系",
+   "en": "age area hypothesis",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0547",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "美国人类学家威斯勒（Clark Wissler）将文化类似性看作文化相互影响的结果，由此产生了从文化区域概念向年代区域概念的转变。他认为，文化是有时间观念的，是从古到今一代一代传下来的；同时，文化又是"
+  },
+  {
+   "cn": "满载",
+   "en": "full load",
+   "source": "消毒学",
+   "wordNumber": "1.2.10.3",
+   "subjectFullName": "消毒学_消毒学_灭菌",
+   "subjectName": "灭菌",
+   "publishYear": "2025",
+   "definition": "按照灭菌装置生产厂家说明书规定方式摆放的最高允许装载量。"
+  },
+  {
+   "cn": "全面罩",
+   "en": "full mask",
+   "source": "消毒学",
+   "wordNumber": "3.2.2.9",
+   "subjectFullName": "消毒学_消毒用品_消毒相关用品",
+   "subjectName": "消毒相关用品",
+   "publishYear": "2025",
+   "definition": "与头部密合，能遮盖住眼、面、鼻、口和下颌等的面罩。"
+  },
+  {
+   "cn": "赫尔大厦",
+   "en": "Hull House",
+   "source": "社会学名词",
+   "wordNumber": "4.4.2.6",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的历史发展",
+   "subjectName": "社会工作的历史发展",
+   "publishYear": "2025",
+   "definition": "19世纪后期由珍妮·亚当斯(Jane Addams）在美国芝加哥建立的著名社区中心。为经济能力有限的人提供教育机会和社会服务，并且为移民提供庇护。"
+  },
+  {
+   "cn": "约翰牛",
+   "en": "John bull",
+   "source": "马克思主义",
+   "wordNumber": "04.0036",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "原是18世纪英国作家约翰·阿布什诺特（John Arbuthnot）在《约翰·布尔的历史》中所创造的形象——一个矮胖愚笨的绅士，用来讽刺当时辉格党的战争政策。由于“布尔”在英文中是牛的意思，故译为“约"
+  },
+  {
+   "cn": "礼服",
+   "en": "full dress",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0123",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "礼仪、社交的专用服装。世界各国、各地区或各民族，由于历史、文化等不同，对穿用礼服的要求也各不相同，一般应合乎社会公认的行为准则。"
+  },
+  {
+   "cn": "双城市假设",
+   "en": "the dual-city hypothesis",
+   "source": "社会学名词",
+   "wordNumber": "3.4.10.3",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_全球化与城市发展",
+   "subjectName": "全球化与城市发展",
+   "publishYear": "2025",
+   "definition": "后工业时代社会两极化在城市的空间体现。一方面是高速的经济发展和迅速增长的金融业、高科技行业及公司服务业。另一方面是传统工业以及受工会保护的技术工作的减少，在产业转型的过程中越发加深了社会的贫富差距。"
+  },
+  {
+   "cn": "满负载单元",
+   "en": "full load unit",
+   "source": "消毒学",
+   "wordNumber": "3.1.3.13.2",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "低温蒸汽甲醛灭菌器灭菌效果鉴定试验中，由特定规格和质量的PVC软管、聚酰胺棒、不锈钢管等组成的测试最大负载质量的组成测试单元。"
+  },
+  {
+   "cn": "完全积累制",
+   "en": "full funding system",
+   "source": "社会学名词",
+   "wordNumber": "3.18.2.8",
+   "subjectFullName": "社会学名词_分支社会学_社会保障_社会保险",
+   "subjectName": "社会保险",
+   "publishYear": "2025",
+   "definition": "一种以远期纵向收支平衡为原则的筹资模式。在预测未来支出的基础上，确定一个可以保证该时段内项目收支平衡的税或费率，以年为单位，分摊到各参保人，期满方可享受相关社保权益。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

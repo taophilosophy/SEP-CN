@@ -1,0 +1,32 @@
+{
+ "key": "faultless disagreement",
+ "term": "faultless disagreement",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T04:50:49+00:00",
+ "status": "ok",
+ "note": "variant=faultless disagreement; 审定公布名词库=2; 海峡两岸名词对照库=0; 其他来源数据库=0; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "无感地震",
+   "en": "feltless earthquake",
+   "source": "地质学名词",
+   "wordNumber": "11.02.031",
+   "subjectFullName": "地质学_地震地质学_地震要素",
+   "subjectName": "地震要素",
+   "publishYear": "2026",
+   "definition": "仅仪器能够测出，但人类感觉不到的地震。一般震级＜3级。"
+  },
+  {
+   "cn": "可溶性无盐固形物",
+   "en": "soluble saltless solid",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.1490",
+   "subjectFullName": "食品科学技术_食品工程_食品原料与加工_调味品",
+   "subjectName": "调味品",
+   "publishYear": "2020",
+   "definition": "化学分析术语。酱油中除水、食盐、不溶性物质外其他物质的含量，用可溶性固形物（可溶性物质总量）减去氯化物（以氯化钠计）即得。主要是蛋白质、氨基酸、肽、糖类、有机酸等，是影响风味的重要指标。推荐性标准中特"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

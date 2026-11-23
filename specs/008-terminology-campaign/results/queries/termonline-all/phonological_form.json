@@ -1,0 +1,772 @@
+{
+ "key": "phonological form",
+ "term": "phonological form",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T04:52:17+00:00",
+ "status": "ok",
+ "note": "variant=phonological form; 审定公布名词库=5789; 海峡两岸名词对照库=1077; 其他来源数据库=841; 预公布名词数据库=660; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "音韵",
+   "en": "phonology",
+   "source": "语言学名词",
+   "wordNumber": "09.002",
+   "subjectFullName": "语言学_音韵学_总论",
+   "subjectName": "总论",
+   "publishYear": "2011",
+   "definition": "汉语语音中声母、韵母、声调三个要素以及汉语各个时代语音系统的总称。"
+  },
+  {
+   "cn": "音系学",
+   "en": "phonology",
+   "source": "语言学名词",
+   "wordNumber": "03.238",
+   "subjectFullName": "语言学_语音学_音系学",
+   "subjectName": "音系学",
+   "publishYear": "2011",
+   "definition": "语言学的一个分支。它与语音学不同。研究对象是语言的语音系统，考察在某种语言或所有语言中有区别性的语音形式之间的关系及其组织变化规则等。"
+  },
+  {
+   "cn": "音系",
+   "en": "phonology",
+   "source": "语言学名词",
+   "wordNumber": "03.246",
+   "subjectFullName": "语言学_语音学_音系学",
+   "subjectName": "音系学",
+   "publishYear": "2011",
+   "definition": "某种语言的全部语音成分及其组织规则和相互关系的总和。生成音系学把语音的知识及其形式化的表达称为“音系”。"
+  },
+  {
+   "cn": "音系词",
+   "en": "phonological word",
+   "source": "语言学名词",
+   "wordNumber": "03.285",
+   "subjectFullName": "语言学_语音学_音系学",
+   "subjectName": "音系学",
+   "publishYear": "2011",
+   "definition": "一种音系单位。指某种语言里进行某些音系过程的韵律域。在无标记的情况下，音系词与构词法的词在范围上是相同的，有时可能比构词法的词大一些，有时小一些。韵律音系学中，类似的概念被称为“韵律词”（pros o"
+  },
+  {
+   "cn": "语音障碍",
+   "en": "phonological disorder",
+   "source": "精神医学名词",
+   "wordNumber": "03.372",
+   "subjectFullName": "精神医学_诊断分类_心理发育障碍",
+   "subjectName": "心理发育障碍",
+   "publishYear": "2019",
+   "definition": "以习得新音素方面的异常为主要临床特征的言语构音障碍。"
+  },
+  {
+   "cn": "语音处理",
+   "en": "phonological processing",
+   "source": "生物物理学名词",
+   "wordNumber": "04.270",
+   "subjectFullName": "生物物理学_神经生物物理学_言语与语言认知",
+   "subjectName": "言语与语言认知",
+   "publishYear": "2018",
+   "definition": "人脑对基本语音信息(如浊音、辅音和音调等)的处理。"
+  },
+  {
+   "cn": "语音回路",
+   "en": "phonological loop",
+   "source": "生物物理学名词",
+   "wordNumber": "04.258",
+   "subjectFullName": "生物物理学_神经生物物理学_学习与记忆",
+   "subjectName": "学习与记忆",
+   "publishYear": "2018",
+   "definition": "工作记忆模型中的一个子系统。负责以声音为基础的信息的暂时存储和处理。主要用于记住词的顺序，保持信息。"
+  },
+  {
+   "cn": "通假",
+   "en": "phonological borrowing",
+   "source": "语言学名词",
+   "wordNumber": "02.091",
+   "subjectFullName": "语言学_文字学_汉字的结构",
+   "subjectName": "汉字的结构",
+   "publishYear": "2011",
+   "definition": "古代文献中借用一个音同或音近（双声或叠韵）的汉字来代替本字或另一个通常使用的字的用字现象。"
+  },
+  {
+   "cn": "音系变化",
+   "en": "phonological change",
+   "source": "语言学名词",
+   "wordNumber": "03.247",
+   "subjectFullName": "语言学_语音学_音系学",
+   "subjectName": "音系学",
+   "publishYear": "2011",
+   "definition": "语言音系结构的变化。例如音位在数量或分布上的变化，音位关系的变化，音系规则在数量、性质或顺序上的变化。"
+  },
+  {
+   "cn": "音系规则",
+   "en": "phonological rule",
+   "source": "语言学名词",
+   "wordNumber": "03.274",
+   "subjectFullName": "语言学_语音学_音系学",
+   "subjectName": "音系学",
+   "publishYear": "2011",
+   "definition": "生成音系学的音系推导过程中，对底层表达式中的各种成分及其相互之间的关系进行修改、删除或者添加，最终得到表层表达式的各种规则。"
+  },
+  {
+   "cn": "音系表达式",
+   "en": "phonological representation",
+   "source": "语言学名词",
+   "wordNumber": "03.270",
+   "subjectFullName": "语言学_语音学_音系学",
+   "subjectName": "音系学",
+   "publishYear": "2011",
+   "definition": "对语言片段的音系结构、音系成分及相互之间的关系进行描写的表达式。"
+  },
+  {
+   "cn": "音系短语",
+   "en": "phonological phrase",
+   "source": "语言学名词",
+   "wordNumber": "03.286",
+   "subjectFullName": "语言学_语音学_音系学",
+   "subjectName": "音系学",
+   "publishYear": "2011",
+   "definition": "在韵律层级的某些分析中，指音系结构中的一个假想层次，它比音系词大，比语调短语小。韵律音系学中，类似的概念被称为“韵律短语”（prosodic phrase）。"
+  },
+  {
+   "cn": "物候景观",
+   "en": "phonological landscape",
+   "source": "资源科学技术名词",
+   "wordNumber": "19.099",
+   "subjectFullName": "资源科学技术_旅游资源学",
+   "subjectName": "旅游资源学",
+   "publishYear": "2008",
+   "definition": "各种植物、动物、水文、气象的季变现象或其形成的景观。"
+  },
+  {
+   "cn": "语音障碍",
+   "en": "phonologic disorder",
+   "source": "教育学名词",
+   "wordNumber": "10.158",
+   "subjectFullName": "教育学_特殊教育",
+   "subjectName": "特殊教育",
+   "publishYear": "2013",
+   "definition": "表现为音质、音的强度和响度有异常变化的一种言语残疾。"
+  },
+  {
+   "cn": "音韵学",
+   "en": "historical phonology",
+   "source": "语言学名词",
+   "wordNumber": "09.001",
+   "subjectFullName": "语言学_音韵学_总论",
+   "subjectName": "总论",
+   "publishYear": "2011",
+   "definition": "研究汉语各个时期语音状况及其发展的学科。研究材料主要有韵书、等韵、反切、韵文、谐声、异文、读若和读如、声训、直音、对音、汉语方言和亲属语言等，研究内容包括汉语语音史、音韵学理论、音韵学史等。"
+  },
+  {
+   "cn": "节律音系学",
+   "en": "metrical phonology",
+   "source": "语言学名词",
+   "wordNumber": "03.243",
+   "subjectFullName": "语言学_语音学_音系学",
+   "subjectName": "音系学",
+   "publishYear": "2011",
+   "definition": "一种非线性音系学理论。最初由马克·立波曼（Mark Liberman）和艾伦·普林斯（Alan Prince）于1977年为处理重音现象而提出。主要用来分析和处理韵律单元的轻重组织结构，包括节律树和节"
+  },
+  {
+   "cn": "方言音系",
+   "en": "dialectal phonology",
+   "source": "语言学名词",
+   "wordNumber": "07.024",
+   "subjectFullName": "语言学_方言学_方言调查",
+   "subjectName": "方言调查",
+   "publishYear": "2011",
+   "definition": "方言自身的语音系统。一般由声韵调系统（声母、韵母、声调）、音变系统（连调、语流音变、变音等），以及其他相关语音子系统构成。"
+  },
+  {
+   "cn": "韵律音系学",
+   "en": "prosodic phonology",
+   "source": "语言学名词",
+   "wordNumber": "03.244",
+   "subjectFullName": "语言学_语音学_音系学",
+   "subjectName": "音系学",
+   "publishYear": "2011",
+   "definition": "一种生成音系学理论。20世纪80年代出现，主要倡导人是伊丽莎白·瑟尔科珂（Elisabeth Selkirk）。该理论认为，一段话语不仅有句法结构，而且还有由韵律成分组成的韵律结构，研究对象为各种语言"
+  },
+  {
+   "cn": "音韵地位",
+   "en": "historical phonological categories",
+   "source": "语言学名词",
+   "wordNumber": "07.084",
+   "subjectFullName": "语言学_方言学_方言分析",
+   "subjectName": "方言分析",
+   "publishYear": "2011",
+   "definition": "一般指字音在中古音系统中所占据的位置，特别是在韵摄、开合、韵等、声母、韵母、声调等类别上的具体体现。"
+  },
+  {
+   "cn": "今音学",
+   "en": "middle Chinese phonology",
+   "source": "语言学名词",
+   "wordNumber": "09.135",
+   "subjectFullName": "语言学_音韵学_用韵分析和今音学",
+   "subjectName": "用韵分析和今音学",
+   "publishYear": "2011",
+   "definition": "以《广韵》音系为代表的中古汉语语音为研究内容的学问。"
+  },
+  {
+   "cn": "语音回路",
+   "en": "phonological loop",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "语音障碍",
+   "en": "phonological disorder",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "变型",
+   "en": "form",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "曲式",
+   "en": "form",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "拼音编码",
+   "en": "Pinyin coding\",\"phonological coding",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "成形",
+   "en": "forming",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "成形法",
+   "en": "forming",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "生活型",
+   "en": "life form\",\"vegetative form",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "字形",
+   "en": "Hanzi form\",\"character form",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "铺装成型",
+   "en": "mat forming\",\"spread forming",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "音形结合编码",
+   "en": "phonological and calligraphical synthesize coding",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "型",
+   "en": "forma\",\"form",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "单主全孢型",
+   "en": "auteu-form",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "冬眠孢型",
+   "en": "micro-form",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "冬夏孢型",
+   "en": "hemi-form",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "构件型",
+   "en": "modular form",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "全孢型",
+   "en": "eu-form",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "缺夏孢型",
+   "en": "opsis-form",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "缺锈孢型",
+   "en": "brachy-form",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生长型",
+   "en": "growth form",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "竞技状态",
+   "en": "form",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "姿势",
+   "en": "form",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "标准化形式",
+   "en": "standardization form",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "姿势裁判员",
+   "en": "form judge",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "记录表",
+   "en": "scoresheet\",\"scoring form",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "格调",
+   "en": "Form and Melody",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "文质",
+   "en": "Form and Content",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "形名",
+   "en": "Form and Name",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "形神",
+   "en": "Form and Spirit",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "健康申报表",
+   "en": "health declaration form",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "竞技状态良好",
+   "en": "be in form",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "记录表",
+   "en": "scoresheet\",\"scorecard\",\"scoring form",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "以形写神",
+   "en": "Capture the Spirit Beyond Form",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公示方式法定",
+   "en": "statutory form of public announcement",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "庸音杂体",
+   "en": "Banal Content and Jumbled Forms",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "形而上",
+   "en": "What Is Above Form / The Metaphysical",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "形式",
+   "en": "form",
+   "source": "马克思主义",
+   "wordNumber": "01.0055",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“内容”相对。把事物内容各个要素统一起来的结构或表现形态，是事物存在和发展的方式。可分为外在形式和内在形式。外在形式一般不影响事物的性质，内在形式则直接影响事物的性质。同一内容可以有不同的形式，同一"
+  },
+  {
+   "cn": "零形式",
+   "en": "zero form",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0064",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "一种理论上假设的抽象语言单位。旨在使语言单位或语言结构的分析保持均衡性和对称性。在语流中没有任何显性的实现形式，用符号Ǿ 表示。例如英语有的名词单数和复数形式同形，如deer、sheep，可以认为其复"
+  },
+  {
+   "cn": "社会形式",
+   "en": "social form",
+   "source": "社会学名词",
+   "wordNumber": "2.1.2.1",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会形式",
+   "subjectName": "社会形式",
+   "publishYear": "2025",
+   "definition": "以一定的社会—文化价值取向为突出特征的社会样式。"
+  },
+  {
+   "cn": "组织形态",
+   "en": "organizational form",
+   "source": "社会学名词",
+   "wordNumber": "2.5.6",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织",
+   "subjectName": "群体和组织",
+   "publishYear": "2025",
+   "definition": "2.5.6.1  正式组织  formal organization"
+  },
+  {
+   "cn": "社会形态",
+   "en": "social forms",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0327",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "一定历史发展阶段上以一定的生产关系为基础的社会，是经济基础和上层建筑的历史的统一。社会形态是标志人类社会不同质态的范畴，人类历史发展就表现为社会形态依次更替的过程。"
+  },
+  {
+   "cn": "养成教育",
+   "en": "formative education",
+   "source": "社会学名词",
+   "wordNumber": "3.16.4.5",
+   "subjectFullName": "社会学名词_分支社会学_青少年研究_青少年政策",
+   "subjectName": "青少年政策",
+   "publishYear": "2025",
+   "definition": "从行为训练入手，综合多种教育方法，全面提高人的“知情意行”，最终形成良好行为习惯的教育。少年儿童阶段是关键期。"
+  },
+  {
+   "cn": "形成评价",
+   "en": "formative evaluation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.8.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育与健康促进评价",
+   "subjectName": "学校健康教育与健康促进评价",
+   "publishYear": "2025",
+   "definition": "在项目实施前对项目方案进行可行性评判的过程。包括对项目执行学校的组织能力，人力和物力资源、信息管理水平等进行评估，及时发现问题，解决问题，保证干预方案能顺利实施。"
+  },
+  {
+   "cn": "形成评价",
+   "en": "formative evaluation",
+   "source": "军事预防医学名词",
+   "wordNumber": "17.1.4.1",
+   "subjectFullName": "军事预防医学_军队健康教育与健康促进_军队健康教育",
+   "subjectName": "军队健康教育",
+   "publishYear": "2025",
+   "definition": "在项目、计划、政策或活动的实施过程中，为诊断问题、优化机制、提升效果开展的系统性评估，本质是通过“实时监测- 反馈调整- 动态优化” 循环，确保健康教育活动向预期目标推进，不对最终结果定性判断。"
+  },
+  {
+   "cn": "消毒剂型",
+   "en": "disinfector dosage form",
+   "source": "消毒学",
+   "wordNumber": "5.2.7",
+   "subjectFullName": "消毒学_监督管理_产品监管",
+   "subjectName": "产品监管",
+   "publishYear": "2025",
+   "definition": "消毒剂的形态，如片剂、粉剂、颗粒剂、液体、喷雾剂等。"
+  },
+  {
+   "cn": "细菌繁殖体",
+   "en": "bacterial vegetative form",
+   "source": "消毒学",
+   "wordNumber": "6.2.2",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "细菌在适宜条件下恢复正常生长，进行新陈代谢和繁殖的状态。"
+  },
+  {
+   "cn": "复本信度",
+   "en": "alternate-form reliability",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.71",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "在问卷调查中，设计两个功能等价但措辞不同的问题，或改变问卷中问题的提问次序，以评估同一回答人对两种问题（或问卷）反应的稳定性的量度。"
+  },
+  {
+   "cn": "形式与内容",
+   "en": "form and content",
+   "source": "马克思主义",
+   "wordNumber": "01.0057",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "构成事物统一体的两个不可分割的基本方面。形式与内容相互依存，没有无形式的内容，也没有无内容的形式。内容决定形式，形式依赖于内容，并随着内容的发展而改变。形式反作用于内容，影响内容。在一定条件下，二者可"
+  },
+  {
+   "cn": "价值形式",
+   "en": "form of value",
+   "source": "马克思主义",
+   "wordNumber": "02.0056",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "商品的价值表现形式，即商品在交换中通过其他商品体现自身价值的形式，反映商品交换价值的发展过程。价值形式在历史上从简单的、个别的或偶然的价值形式，发展到总和的或扩大的价值形式，再发展到一般价值形式，最后"
+  },
+  {
+   "cn": "所有制形式",
+   "en": "forms of ownership",
+   "source": "马克思主义",
+   "wordNumber": "02.0010",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "一定的生产力性质和水平决定人们对生产资料占有的具体形式，一般根据生产资料与劳动者的结合方式进行划分。人类历史上相继出现过五种基本的所有制形式，即原始公社的、奴隶主的、封建的、资本主义的和社会主义的生产"
+  },
+  {
+   "cn": "相对价值形式",
+   "en": "relative form of value",
+   "source": "马克思主义",
+   "wordNumber": "02.0057",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“等价形式”相对。被表现价值的商品在价值形式中所处的地位。由于价值的性质决定了商品自身的价值不能直接地绝对地表现出来，它只能通过与它相交换的另一种商品把自己的价值相对地表现出来。"
+  },
+  {
+   "cn": "简单的价值形式",
+   "en": "simple form of value",
+   "source": "马克思主义",
+   "wordNumber": "02.0061",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "价值形式发展过程中的原始阶段。一商品的价值偶然地以另一不同种商品来表现的价值形式。它与原始社会后期原始公社之间偶然地、间或地物物交换阶段相一致。在简单价值形式中，价值形式两极的对立很不固定。"
+  },
+  {
+   "cn": "一般价值形式",
+   "en": "general form of value",
+   "source": "马克思主义",
+   "wordNumber": "02.0063",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "价值形式发展过程的第三阶段。一切商品的价值都以充当一般等价物的商品来表现的价值形式。以一般等价物为媒介的商品交换代替了直接的物物交换，扩大的价值形式也就发展到了一般价值形式，这一发展是一次质的飞跃。价"
+  },
+  {
+   "cn": "货币价值形式",
+   "en": "money form of value",
+   "source": "马克思主义",
+   "wordNumber": "02.0064",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "价值形式发展过程中的最后阶段。即在商品的价值关系中一般等价物比较固定地由一种商品来充当。贵金属金以它本身特有的质地均匀、可以任意分割与合并、体积小而价值大、便于携带又经久耐磨等自然属性，赢得了固定起一"
+  },
+  {
+   "cn": "社会形态理论",
+   "en": "theory of social forms",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0593",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "马克思恩格斯创立的历史唯物主义学说的一个科学概念，最早出现于马克思、恩格斯1845-1846 年合写的《德意志意识形态》一书。社会形态是指社会经济结构，即人类社会发展到一定阶段上占主导地位的生产关系的"
+  },
+  {
+   "cn": "保健食品剂型",
+   "en": "forms of health food",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.1.8",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "供消费者食用的产品的最终形态，包括片剂、硬胶囊、软胶囊、口服溶液、颗粒剂、凝胶糖果和粉剂等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

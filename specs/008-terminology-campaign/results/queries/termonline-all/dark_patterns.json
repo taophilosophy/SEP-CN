@@ -1,0 +1,642 @@
+{
+ "key": "dark patterns",
+ "term": "dark patterns",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T04:53:22+00:00",
+ "status": "ok",
+ "note": "variant=dark patterns; 审定公布名词库=2115; 海峡两岸名词对照库=416; 其他来源数据库=81; 预公布名词数据库=34; jwt-direct（JWT 直连，raw 略；已滤维基 17 条）",
+ "hits": [
+  {
+   "cn": "暗像元",
+   "en": "dark object,dark pixel",
+   "source": "光学名词",
+   "wordNumber": "14.028",
+   "subjectFullName": "光学_成像技术",
+   "subjectName": "成像技术",
+   "publishYear": "2021",
+   "definition": "反射率或辐射亮度可以认为是零的像元。在暗目标法大气校正中被作为直接反映大气影响的一类地物的像元。如茂密植被、水体、云影、山体阴影等。"
+  },
+  {
+   "cn": "黑茶",
+   "en": "dark tea",
+   "source": "农学名词",
+   "wordNumber": "17.268",
+   "subjectFullName": "农产品贮运与加工_茶叶加工",
+   "subjectName": "茶叶加工",
+   "publishYear": "2025",
+   "definition": "鲜叶经杀青、揉捻、渥堆和干燥制成的外观呈黑色的茶叶。"
+  },
+  {
+   "cn": "暗云",
+   "en": "dark cloud",
+   "source": "天文学名词",
+   "wordNumber": "08.508",
+   "subjectFullName": "天文学_恒星和银河系",
+   "subjectName": "恒星和银河系",
+   "publishYear": "2024",
+   "definition": "星际云的一种，它的密度足以遮蔽来自背景的发射星云或反射星云的光，或是遮蔽背景的恒星。"
+  },
+  {
+   "cn": "暗星云",
+   "en": "dark nebula",
+   "source": "天文学名词",
+   "wordNumber": "08.509",
+   "subjectFullName": "天文学_恒星和银河系",
+   "subjectName": "恒星和银河系",
+   "publishYear": "2024",
+   "definition": "不发光的弥漫星云。"
+  },
+  {
+   "cn": "暗虚",
+   "en": "dark shadow",
+   "source": "天文学名词",
+   "wordNumber": "05.133",
+   "subjectFullName": "天文学_天文学史",
+   "subjectName": "天文学史",
+   "publishYear": "2024",
+   "definition": "东汉张衡为解释月食现象设想的与太阳方向相对的暗影状天体，月蚀时月亮即为暗虚遮蔽，所以其实质为地球的本影。"
+  },
+  {
+   "cn": "暗场",
+   "en": "dark field",
+   "source": "天文学名词",
+   "wordNumber": "06.238",
+   "subjectFullName": "天文学_天文仪器与技术",
+   "subjectName": "天文仪器与技术",
+   "publishYear": "2024",
+   "definition": "固体成像探测器中暗流(即无光照时的输出信号)的像元分布，是积分时间和工作温度的函数。"
+  },
+  {
+   "cn": "暗带",
+   "en": "dark lane",
+   "source": "天文学名词",
+   "wordNumber": "07.115",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "在侧向晚型旋涡星系中常呈现的沿星系盘分布的尘埃暗条。"
+  },
+  {
+   "cn": "黑暗时期",
+   "en": "dark age",
+   "source": "天文学名词",
+   "wordNumber": "07.492",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "宇宙大爆炸结束(即等离子体复合)后，第一代恒星形成前的时期。"
+  },
+  {
+   "cn": "暗物质",
+   "en": "dark matter",
+   "source": "天文学名词",
+   "wordNumber": "07.495",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "由天文观测推断存在于宇宙中的不发光物质，由不发光天体、晕物质以及非重子中性粒子组成，或专指最后一种。"
+  },
+  {
+   "cn": "暗能量",
+   "en": "dark energy",
+   "source": "天文学名词",
+   "wordNumber": "07.522",
+   "subjectFullName": "天文学_星系和宇宙学",
+   "subjectName": "星系和宇宙学",
+   "publishYear": "2024",
+   "definition": "由天文观测推断充溢空间、具有负压强、使宇宙加速膨胀的成分，占宇宙总质能的约70%。"
+  },
+  {
+   "cn": "黑霜",
+   "en": "dark frost ",
+   "source": "草学名词",
+   "wordNumber": "3.0712",
+   "subjectFullName": "草学_草地资源与利用",
+   "subjectName": "草地资源与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "暗适应",
+   "en": "dark adaptation",
+   "source": "行为医学名词",
+   "wordNumber": "3.25",
+   "subjectFullName": "行为医学_行为的生物学基础_遗传学基础_感觉遗传学",
+   "subjectName": "感觉遗传学",
+   "publishYear": "2022",
+   "definition": "长时间在明亮处突然进入暗处时，最初看不见任何物体，经过一定时间后，视觉敏感度逐渐提高，能逐步看见暗处物体的现象。"
+  },
+  {
+   "cn": "暗孤子",
+   "en": "dark soliton",
+   "source": "光学名词",
+   "wordNumber": "01.680",
+   "subjectFullName": "光学_基础光学",
+   "subjectName": "基础光学",
+   "publishYear": "2021",
+   "definition": "光波在正色散光纤中传输时产生的与光孤子行为相反的能量暗点。"
+  },
+  {
+   "cn": "暗态",
+   "en": "dark state",
+   "source": "光学名词",
+   "wordNumber": "02.054",
+   "subjectFullName": "光学_非线性光学与量子光学",
+   "subjectName": "非线性光学与量子光学",
+   "publishYear": "2021",
+   "definition": "处于低能级却不吸收入射共振光子的状态。"
+  },
+  {
+   "cn": "暗计数",
+   "en": "dark count",
+   "source": "光学名词",
+   "wordNumber": "02.111",
+   "subjectFullName": "光学_非线性光学与量子光学",
+   "subjectName": "非线性光学与量子光学",
+   "publishYear": "2021",
+   "definition": "在没有信号光时由噪声等引入的探测器计数。"
+  },
+  {
+   "cn": "黑镜",
+   "en": "dark mirror",
+   "source": "光学名词",
+   "wordNumber": "07.014",
+   "subjectFullName": "光学_光学薄膜",
+   "subjectName": "光学薄膜",
+   "publishYear": "2021",
+   "definition": "不透明且吸收所有入射光的多层薄膜。"
+  },
+  {
+   "cn": "暗电流",
+   "en": "dark current",
+   "source": "光学名词",
+   "wordNumber": "11.070",
+   "subjectFullName": "光学_光有源器件",
+   "subjectName": "光有源器件",
+   "publishYear": "2021",
+   "definition": "光电探测器在无光照或无背景辐射的照射下，器件材料内部的电子热运动所产生的输出电流以及其他表面漏电流之和。它主要受到温度影响，降低温度可减小暗电流。"
+  },
+  {
+   "cn": "暗目标",
+   "en": "dark object",
+   "source": "光学名词",
+   "wordNumber": "21.078",
+   "subjectFullName": "光学_光学遥感技术",
+   "subjectName": "光学遥感技术",
+   "publishYear": "2021",
+   "definition": "遥感图像上信号明显低于周围物体的目标。"
+  },
+  {
+   "cn": "暗适应",
+   "en": "dark adaptation",
+   "source": "光学名词",
+   "wordNumber": "28.072",
+   "subjectFullName": "光学_生物光学与激光医疗",
+   "subjectName": "生物光学与激光医疗",
+   "publishYear": "2021",
+   "definition": "从亮处突然进入暗处时，视觉系统对光的敏感度随时间逐渐升高的适应过程。"
+  },
+  {
+   "cn": "暗带",
+   "en": "dark band",
+   "source": "动物学名词",
+   "wordNumber": "3.023",
+   "subjectFullName": "动物学_动物组织学_肌肉组织",
+   "subjectName": "肌肉组织",
+   "publishYear": "2021",
+   "definition": "位于肌原纤维上，呈双折光，各向异性的带。长度恒定为1.5μm。"
+  },
+  {
+   "cn": "暗视野",
+   "en": "dark field",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "暗细胞",
+   "en": "dark cell",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "暗反应",
+   "en": "dark reaction",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "暗呼吸",
+   "en": "dark respiration",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "暗适应",
+   "en": "dark adaptation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "暗虚",
+   "en": "Dark Shadow",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "暗晕",
+   "en": "dark halo",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "暗带(1)",
+   "en": "dark lane",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "暗能量",
+   "en": "dark energy",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "暗物质",
+   "en": "dark matter",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "暗星云",
+   "en": "dark nebula",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "暗适应",
+   "en": "dark adaption",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "暗性发芽",
+   "en": "dark germination",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "暗呼吸",
+   "en": "dark respiration",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "暗反应",
+   "en": "dark reaction",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "暗瓶",
+   "en": "dark bottle",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "暗区",
+   "en": "dark region",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "暗修复",
+   "en": "dark repair",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "暗反应",
+   "en": "dark reaction",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "暗室",
+   "en": "dark room",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "暗数据",
+   "en": "dark data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "队形",
+   "en": "pattern",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "深蓝色帽",
+   "en": "dark blue cap",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "黑巧克力",
+   "en": "dark chocolate",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.17.13",
+   "subjectFullName": "食品卫生学_食品_糖果",
+   "subjectName": "糖果",
+   "publishYear": "2025",
+   "definition": "呈棕褐或棕黑色，具有可可苦味的巧克力。"
+  },
+  {
+   "cn": "老抽",
+   "en": "dark soy sauce",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.14.29",
+   "subjectFullName": "食品卫生学_食品_调味品",
+   "subjectName": "调味品",
+   "publishYear": "2025",
+   "definition": "在生抽酱油基础上经延长发酵时间加焦糖色等工艺制成的浓色酱油，颜色呈深棕褐色有光泽，口感鲜美微甜，多用于做红烧等需要上色的菜品着色和改善口感。"
+  },
+  {
+   "cn": "黑茶",
+   "en": "dark green tea",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.19.9",
+   "subjectFullName": "食品卫生学_食品_茶与代用茶",
+   "subjectName": "茶与代用茶",
+   "publishYear": "2025",
+   "definition": "鲜叶经杀青、揉捻、渥堆和干燥而制成外观呈黑色的茶。"
+  },
+  {
+   "cn": "教养方式",
+   "en": "parenting patterns",
+   "source": "社会学名词",
+   "wordNumber": "3.16.5.10",
+   "subjectFullName": "社会学名词_分支社会学_青少年研究_代际",
+   "subjectName": "代际",
+   "publishYear": "2025",
+   "definition": "父母在促进和支持孩子心理成长、情绪发展、社会适应、智力发展等实践活动中体现出来的理念、策略和方法的总称。"
+  },
+  {
+   "cn": "气流流型",
+   "en": "air pattern",
+   "source": "消毒学",
+   "wordNumber": "1.8.22",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "对室内空气的流动形态和分布进行的合理设计。"
+  },
+  {
+   "cn": "行为模式",
+   "en": "behavior pattern",
+   "source": "社会学名词",
+   "wordNumber": "2.5.11.4",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织行为",
+   "subjectName": "组织行为",
+   "publishYear": "2025",
+   "definition": "多数人公认和遵守的楷模行为指标和规则化的行为体系，是一种社会制约手段。"
+  },
+  {
+   "cn": "生长模式",
+   "en": "growth pattern",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.1.5",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育规律",
+   "subjectName": "生长发育规律",
+   "publishYear": "2025",
+   "definition": "不同器官、系统生长变化类型。"
+  },
+  {
+   "cn": "膳食模式",
+   "en": "dietary pattern",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.1.1.4.7",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_学校营养食物供应",
+   "subjectName": "学校营养食物供应",
+   "publishYear": "2025",
+   "definition": "以整体膳食成分组合，而不是以单一食物和营养物质的方式对膳食进行评估描述的方式。"
+  },
+  {
+   "cn": "婚姻形态",
+   "en": "marriage pattern",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0249",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "婚姻的缔结和成立由于风俗、伦理道德和法律的不同而有多种形式，从古到今主要有：掠夺婚、买卖婚、服役婚、表亲婚、转房婚、交换婚、指腹婚、童养媳、同意婚等。"
+  },
+  {
+   "cn": "行为模式",
+   "en": "behavior pattern",
+   "source": "军事预防医学名词",
+   "wordNumber": "17.1.1.7",
+   "subjectFullName": "军事预防医学_军队健康教育与健康促进_军队健康教育",
+   "subjectName": "军队健康教育",
+   "publishYear": "2025",
+   "definition": "个体或群体在有动机、有目标的活动中表现出的有规律和有特点的日常活动结构、内容和行为系列。是行为内容、方式的定型化，在行动时遵循一系列方法。"
+  },
+  {
+   "cn": "文化模式",
+   "en": "patterns of culture",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0557",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "美国人类学家家本尼迪克特（Ruth Benedict）在《文化模式》一书中提出的概念，指一套内部要素相互关联的价值母体，这个价值母体对于外来文化特质有选择、驯化和整合能力，整合的形式就是该文化的模式。"
+  },
+  {
+   "cn": "文化模式",
+   "en": "patterns of culture",
+   "source": "社会学名词",
+   "wordNumber": "4.2.8.8",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学理论",
+   "subjectName": "人类学理论",
+   "publishYear": "2025",
+   "definition": "组成一个特定文化的文化丛和文化特质的体制，也是一种独特文化体系的统称，由研究北美区域文化和印第安部落文化的美国人类学家博厄斯(F.Boas）提出。"
+  },
+  {
+   "cn": "生长轨迹模式",
+   "en": "growth trajectory patterns",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.7.2.1.6",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育调查与评价",
+   "subjectName": "生长发育调查与评价",
+   "publishYear": "2025",
+   "definition": "用统计学方法区分不同个体或群体儿童少年生长发育速率的方式。"
+  },
+  {
+   "cn": "定位模板",
+   "en": "fixed pattern plate",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.3.27",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_核医学",
+   "subjectName": "核医学",
+   "publishYear": "2025",
+   "definition": "保证粒籽源在植入孔内注入方向不改变的模板。"
+  },
+  {
+   "cn": "差序格局",
+   "en": "differential order pattern",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.25",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "中国传统社会中以“已”为中心，根据亲属关系的原则外推而形成的关系网络。犹如石子入水引起的波纹一样。这是费孝通提出的描述中国传统社会结构特征的概念，与“团体格局”相对。这种关系网络因远近亲疏而有不同适用"
+  },
+  {
+   "cn": "模式识别受体",
+   "en": "pattern recognition receptor",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.5.38",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_炎症介质",
+   "subjectName": "炎症介质",
+   "publishYear": "2025",
+   "definition": "识别病原体(或某些内源性成分)相关分子模式的一类受体分子，介导固有免疫应答。"
+  },
+  {
+   "cn": "卫生筹资模式",
+   "en": "health financing pattern",
+   "source": "卫生经济学名词",
+   "wordNumber": "9.2.2",
+   "subjectFullName": "卫生经济学名词_卫生筹资_卫生资金筹集",
+   "subjectName": "卫生资金筹集",
+   "publishYear": "2025",
+   "definition": "卫生资金筹集的不同来源，主要包括税收筹资、社会健康保险筹资、私立健康保险筹资、使用者付费筹资、社区卫生筹资。"
+  },
+  {
+   "cn": "平衡膳食模式",
+   "en": "balanced dietary pattern",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.4.1.4",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "根据居民膳食营养素参考摄入量、居民营养与健康状况所推荐的食物种类和比例，能最大限度地满足不同年龄阶段健康人群的生理和营养健康需要而设计的膳食。"
+  },
+  {
+   "cn": "模式识别受体",
+   "en": "pattern recognition receptor",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.4.15",
+   "subjectFullName": "食品卫生学_食源性疾病_食物过敏",
+   "subjectName": "食物过敏",
+   "publishYear": "2025",
+   "definition": "识别固有分子模式，即病原体相关分子模式和损伤相关分子模式的专一性受体，包括Toll 样受体(TLR)、NOD 样受体(NLR)、RIG 样受体(RLR)和C 型凝集素受体(CLR)，以及甘露糖受体、清"
+  },
+  {
+   "cn": "斯卡蒙生长模式",
+   "en": "Scammon's growth pattern",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.1.5.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育规律",
+   "subjectName": "生长发育规律",
+   "publishYear": "2025",
+   "definition": "美国解剖学家理查德·斯卡蒙提出的人体器官、系统的四种生长水平曲线类型。包括一般型、淋巴系统型、神经系统型和生殖系统型。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

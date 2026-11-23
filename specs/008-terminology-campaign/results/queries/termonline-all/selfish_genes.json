@@ -1,0 +1,632 @@
+{
+ "key": "selfish genes",
+ "term": "selfish genes",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T04:49:12+00:00",
+ "status": "ok",
+ "note": "variant=selfish genes; 审定公布名词库=1171; 海峡两岸名词对照库=706; 其他来源数据库=35; 预公布名词数据库=24; jwt-direct（JWT 直连，raw 略；已滤维基 18 条）",
+ "hits": [
+  {
+   "cn": "自私基因",
+   "en": "selfish gene",
+   "source": "农学名词",
+   "wordNumber": "15.059",
+   "subjectFullName": "农业生物技术_基因工程",
+   "subjectName": "基因工程",
+   "publishYear": "2025",
+   "definition": "一类具有自利行为的基因，这类基因可通过影响它们所在的个体生殖行为来增加它们在下一代中的频率。"
+  },
+  {
+   "cn": "自私基因",
+   "en": "selfish gene",
+   "source": "生态学名词",
+   "wordNumber": "03.019",
+   "subjectFullName": "生态学_行为生态学",
+   "subjectName": "行为生态学",
+   "publishYear": "2006",
+   "definition": "是指基因在生物进化中的绝对自私性，是对动物行为功能的基本解释。即动物的行为可以是利他的，但基因是绝对自私的，基因同其等位基因竞争，只有自私基因方能被自然选择所保存，利他基因必然被淘汰。"
+  },
+  {
+   "cn": "自在DNA",
+   "en": "selfish DNA",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0152",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_复制_损伤与修复_复制",
+   "subjectName": "复制",
+   "publishYear": "2024",
+   "definition": "除了能够复制自身外，不具有其他功能的DNA片段。"
+  },
+  {
+   "cn": "自在DNA",
+   "en": "selfish DNA",
+   "source": "遗传学名词",
+   "wordNumber": "03.053",
+   "subjectFullName": "遗传学_分子遗传学",
+   "subjectName": "分子遗传学",
+   "publishYear": "2007",
+   "definition": "基因组中能复制但功能尚不明确的DNA序列。"
+  },
+  {
+   "cn": "适当的自私",
+   "en": "proper selfishness",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0582",
+   "subjectFullName": "管理科学技术_一般管理理论_管理思想史",
+   "subjectName": "管理思想史",
+   "publishYear": "2016",
+   "definition": "汉迪(Charles Handy)认为，现代社会为了追求一切有价值的东西，反而失落了自身的价值。当一个人只能用职务、头衔、编码来显示的时候，这个人已经变成“空雨衣”。 关注自我、追求自我价值，可以超越"
+  },
+  {
+   "cn": "基因",
+   "en": "gene",
+   "source": "农学名词",
+   "wordNumber": "15.002",
+   "subjectFullName": "农业生物技术_基因工程",
+   "subjectName": "基因工程",
+   "publishYear": "2025",
+   "definition": "遗传信息的基本单位。位于DNA分子上具有特定功能或具有一定遗传效应的核苷酸序列。"
+  },
+  {
+   "cn": "基因",
+   "en": "gene",
+   "source": "风景园林名词",
+   "wordNumber": "09.0137",
+   "subjectFullName": "风景园林_风景园林植物_风景园林植物遗传育种",
+   "subjectName": "风景园林植物遗传育种",
+   "publishYear": "2025",
+   "definition": "位于染色体上，控制生物的性状发育的遗传信息单位。"
+  },
+  {
+   "cn": "基因",
+   "en": "gene",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0005",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_基因及其功能_结构",
+   "subjectName": "结构",
+   "publishYear": "2024",
+   "definition": "编码蛋白质或RNA等具有特定功能产物的遗传信息基本单位。是染色体或基因组的一段DNA序列，对以RNA作为遗传信息载体的RNA病毒而言则是RNA序列。"
+  },
+  {
+   "cn": "基因",
+   "en": "gene",
+   "source": "男科及性医学名词",
+   "wordNumber": "03.059",
+   "subjectFullName": "男科及性医学_生殖系统遗传",
+   "subjectName": "生殖系统遗传",
+   "publishYear": "2023",
+   "definition": "可编码蛋白质或RNA等具有特定功能产物的一段DNA序列。为遗传信息的基本单位。"
+  },
+  {
+   "cn": "基因",
+   "en": "gene",
+   "source": "生殖医学名词",
+   "wordNumber": "10.069",
+   "subjectFullName": "生殖医学_生殖遗传",
+   "subjectName": "生殖遗传",
+   "publishYear": "2022",
+   "definition": "细胞内遗传物质的结构和功能单位。是染色体上具有特定遗传效应的DNA片段，决定细胞内RNA和蛋白质等的合成，从而决定生物的遗传性状。"
+  },
+  {
+   "cn": "基因",
+   "en": "gene",
+   "source": "血液学名词",
+   "wordNumber": "4.285",
+   "subjectFullName": "血液学_常用检查_血液病理检测_分子生物学检测相关",
+   "subjectName": "分子生物学检测相关",
+   "publishYear": "2022",
+   "definition": "遗传物质的基本单位。是编码具有功能的RNA或蛋白质多肽链所需的核苷酸序列。"
+  },
+  {
+   "cn": "基因",
+   "en": "gene",
+   "source": "行为医学名词",
+   "wordNumber": "3.175",
+   "subjectFullName": "行为医学_行为的生物学基础_遗传学基础_遗传定律",
+   "subjectName": "遗传定律",
+   "publishYear": "2022",
+   "definition": "遗传信息的基本单位。一般指位于染色体上编码一个特定功能产物（如蛋白质或核糖核酸分子等）的一段核苷酸序列。"
+  },
+  {
+   "cn": "基因",
+   "en": "gene",
+   "source": "医学遗传学名词",
+   "wordNumber": "1.168",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "遗传信息的基本单位。一般指位于DNA或某些RNA分子上编码特定功能产物，如蛋白质或RNA分子的一段核苷酸序列。"
+  },
+  {
+   "cn": "基因",
+   "en": "gene",
+   "source": "畜牧学名词",
+   "wordNumber": "04.004",
+   "subjectFullName": "畜牧学_遗传育种_普通遗传学",
+   "subjectName": "普通遗传学",
+   "publishYear": "2020",
+   "definition": "位于染色体上编码一个特定功能产物(如多肽链或RNA分子等)的一段核苷酸序列，是遗传信息的结构单位和控制一定性状的功能单位。"
+  },
+  {
+   "cn": "基因",
+   "en": "gene",
+   "source": "食品科学技术名词",
+   "wordNumber": "02.0483",
+   "subjectFullName": "食品科学技术_食品科学_食品生物技术_食品微生物基因工程",
+   "subjectName": "食品微生物基因工程",
+   "publishYear": "2020",
+   "definition": "脱氧核糖核酸（DNA）分子上具有遗传信息的特定核苷酸序列的总称，是遗传的物质基础。"
+  },
+  {
+   "cn": "基因",
+   "en": "gene",
+   "source": "运动医学名词",
+   "wordNumber": "04.101",
+   "subjectFullName": "运动医学_运动生化_核酸与运动",
+   "subjectName": "核酸与运动",
+   "publishYear": "2019",
+   "definition": "编码蛋白质或RNA等具有特定功能产物的遗传信息的基本单位。染色体或基因组的一段DNA序列(对以RNA为遗传信息载体的RNA病毒而言则是RNA序列)。包括编码序列(外显子)、编码区前后对于基因表达具有调"
+  },
+  {
+   "cn": "基因",
+   "en": "gene",
+   "source": "计划生育名词",
+   "wordNumber": "03.717",
+   "subjectFullName": "计划生育_计划生育临床_优生优育",
+   "subjectName": "优生优育",
+   "publishYear": "2019",
+   "definition": "存在于染色体上携带和传递遗传信息的基本单位。"
+  },
+  {
+   "cn": "基因",
+   "en": "gene",
+   "source": "物理学名词",
+   "wordNumber": "11.0353",
+   "subjectFullName": "物理学_交叉学科_生物物理学",
+   "subjectName": "生物物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "基因",
+   "en": "gene",
+   "source": "植物学名词",
+   "wordNumber": "10.0015",
+   "subjectFullName": "植物学_植物遗传学",
+   "subjectName": "植物遗传学",
+   "publishYear": "2019",
+   "definition": "遗传信息的基本单位。是位于染色体上合成一条有功能的多肽或RNA分子所必需的完整的DNA序列。在病毒中则是一种RNA序列。"
+  },
+  {
+   "cn": "基因",
+   "en": "gene",
+   "source": "核医学名词",
+   "wordNumber": "06.0024",
+   "subjectFullName": "核医学_核医学研究_分子生物学基础",
+   "subjectName": "分子生物学基础",
+   "publishYear": "2018",
+   "definition": "携带有遗传信息的DNA序列。遗传的生理及功能基本单位，一般指位于染色体上编码一个特定功能产物(如蛋白质或RNA分子等)的一段核苷酸序列。能将上一代的信息携带到下一代。"
+  },
+  {
+   "cn": "自私基因",
+   "en": "selfish gene",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自私基因",
+   "en": "selfish gene",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "自在基因，自私基因",
+   "en": "selfish gene",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "自在DNA,自私DNA",
+   "en": "selfish DNA",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "自在DNA",
+   "en": "selfish DNA",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "基因",
+   "en": "gene",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "基因",
+   "en": "gene",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "基因",
+   "en": "gene",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "基因",
+   "en": "gene",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "基因",
+   "en": "gene",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "基因",
+   "en": "gene",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "基因",
+   "en": "gene",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "基因",
+   "en": "gene",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "基因",
+   "en": "gene",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "基因内基因",
+   "en": "gene within gene",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "同源异形基因",
+   "en": "homeotic gene\",\"homeobox gene\",\"Hox gene",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "R基因（=抗性基因）",
+   "en": "resistance gene\",\"R gene",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "基因重复",
+   "en": "gene duplication\",\"gene reiteration",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "基因定位",
+   "en": "gene localization\",\"gene mapping",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "基因多效性",
+   "en": "gene pleiotropy\",\"gene pleiotropism",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "基因编辑",
+   "en": "gene editing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "基因人",
+   "en": "gene-edited man",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "基因表达",
+   "en": "gene expression",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.5.10",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "使基因所携带的遗传信息表现为表型的过程。包括基因转录成互补的RNA序列。对于结构基因，信使核糖核酸(mRNA)继而翻译成多肽链，并装配加工成最终的蛋白质产物。"
+  },
+  {
+   "cn": "易感基因",
+   "en": "susceptible gene",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.9.1",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫遗传",
+   "subjectName": "免疫遗传",
+   "publishYear": "2025",
+   "definition": "和特定疾病具有阳性关联的基因或等位基因。在人类多位于HLAII类基因区或其附近。"
+  },
+  {
+   "cn": "基因治疗",
+   "en": "gene therapy",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.7.3.13",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病常用药物及治疗_免疫治疗",
+   "subjectName": "免疫治疗",
+   "publishYear": "2025",
+   "definition": "将人的正常基因或有治疗作用的基因通过一定方式导入人体靶细胞以纠正基因的缺陷或者发挥治疗作用，从而达到治疗疾病目的的生物医学技术。"
+  },
+  {
+   "cn": "基因疫苗",
+   "en": "gene vaccine",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.7.4.10",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病常用药物及治疗_免疫预防",
+   "subjectName": "免疫预防",
+   "publishYear": "2025",
+   "definition": "编码病原体的基因构成的疫苗。将编码外源抗原的基因与质粒重组，将重组质粒经注射等途径导入机体，重组质粒可转染宿主细胞，并利用宿主细胞的蛋白质合成系统翻译、表达外源抗原蛋白，继而诱导宿主对该外源抗原产生免"
+  },
+  {
+   "cn": "基因突变",
+   "en": "gene mutation",
+   "source": "军事预防医学名词",
+   "wordNumber": "16.1.5.3.2",
+   "subjectFullName": "军事预防医学_军事毒理学_军事毒理学基础",
+   "subjectName": "军事毒理学基础",
+   "publishYear": "2025",
+   "definition": "基因中DNA 序列的变化，包括碱基置换和移码突变两种类型。"
+  },
+  {
+   "cn": "基因编辑",
+   "en": "gene editing",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.23.16",
+   "subjectFullName": "食品卫生学_食品_其他食品",
+   "subjectName": "其他食品",
+   "publishYear": "2025",
+   "definition": "基于分子生物学手段更精准整合外源基因或基因序列对活体基因组进行靶向改造的技术。用于培育农业动植物新品种和微生物菌种，可增强食品产量和品质等特性。"
+  },
+  {
+   "cn": "基因武器",
+   "en": "gene weapon",
+   "source": "军事预防医学名词",
+   "wordNumber": "9.1.4",
+   "subjectFullName": "军事预防医学_生物武器医学防护学_生物武器",
+   "subjectName": "生物武器",
+   "publishYear": "2025",
+   "definition": "用基因工程技术研制的致病微生物或毒素类新型生物战剂，如给致病细菌、病毒插入抗疫苗/ 药物基因，或给非致病微生物插入致病基因；合成生物学发展后，还可人工设计合成自然界不存在的生物或病毒。"
+  },
+  {
+   "cn": "硫嘌呤甲基转移酶基因",
+   "en": "Thiopurine S-methyltransferase gene, TPMT gene",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.4.6",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_诊断基因",
+   "subjectName": "诊断基因",
+   "publishYear": "2025",
+   "definition": "一种能使硫唑嘌呤等免疫抑制剂的芳香环甲基化的胞质酶。TPMT基因的多态性决定了酶的活性和药物在机体中的毒性，三种最常见的变异等位基因是TPMT*2，TPMT*3A和TPMT*3C，这些多态性与骨髓抑制"
+  },
+  {
+   "cn": "基因芯片技术",
+   "en": "gene chip technology",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.5.11",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "将大量的核酸分子以大规模阵列形式排布在很小的载体上，通过与标记的样品进行杂交，检测杂交信号的强弱进而判断样品中被检分子的数量的技术。"
+  },
+  {
+   "cn": "基因敲除小鼠",
+   "en": "gene knockout mouse",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.9.4",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫遗传",
+   "subjectName": "免疫遗传",
+   "publishYear": "2025",
+   "definition": "胚胎发生早期利用特定技术使指定基因功能完全缺失的实验用小鼠。"
+  },
+  {
+   "cn": "基因芯片技术",
+   "en": "gene chip technique",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.1.3",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_检测方法",
+   "subjectName": "检测方法",
+   "publishYear": "2025",
+   "definition": "通过将巨大数量的寡核苷酸，肽核苷酸或cDNA固定在一块面积很小的硅片、玻片或尼龙膜上而构成基因芯片的技术。可以一次性对大量序列进行检测和基因分析。"
+  },
+  {
+   "cn": "基因芯片技术",
+   "en": "gene chip technology",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.1.1.74",
+   "subjectFullName": "食品卫生学_食品污染_食品生物性危害因素",
+   "subjectName": "食品生物性危害因素",
+   "publishYear": "2025",
+   "definition": "通过将巨大数量的寡核苷酸、基因组DNA 或cDNA等固定在一块面积很小的硅片、玻片或尼龙膜上而构成基因芯片的技术。可以一次性对大量序列进行检测和基因分析。"
+  },
+  {
+   "cn": "基因武器损伤",
+   "en": "injuries of gene weapons",
+   "source": "军事预防医学名词",
+   "wordNumber": "13.2.2.1",
+   "subjectFullName": "军事预防医学_新概念武器及伤害_新概念武器损伤",
+   "subjectName": "新概念武器损伤",
+   "publishYear": "2025",
+   "definition": "通过基因工程技术制造的武器对人体基因造成的损害。可能包括基因突变、基因组不稳定性、DNA 损伤等，导致细胞功能异常甚至致命。可能会对个体的遗传信息产生长期影响，甚至影响后代的健康。"
+  },
+  {
+   "cn": "婴儿起病的干扰素基因刺激蛋白相关血管病",
+   "en": "stimulator of interferon genes associated vasculopathy with onset in infancy，SAVI",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.12.13",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_自身炎症性疾病",
+   "subjectName": "自身炎症性疾病",
+   "publishYear": "2025",
+   "definition": "一种由TMEMl73基因突变所致的I型干扰素通路疾病，表现为发热、皮疹、关节炎、肢端坏疽和肺间质改变"
+  },
+  {
+   "cn": "麻痹性贝类毒素",
+   "en": "paralytic shellfish toxins",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.2.4.4",
+   "subjectFullName": "食品卫生学_食源性疾病_中毒型食源性疾病",
+   "subjectName": "中毒型食源性疾病",
+   "publishYear": "2025",
+   "definition": "主要由亚历山大澡等甲藻所产生的毒素，能够通过高选择性和高亲和性的阻断神经兴奋膜上纳离子通道，造成神经肌肉麻痹。"
+  },
+  {
+   "cn": "失忆性贝类毒素",
+   "en": "amnesic shellfish toxins",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.2.4.10",
+   "subjectFullName": "食品卫生学_食源性疾病_中毒型食源性疾病",
+   "subjectName": "中毒型食源性疾病",
+   "publishYear": "2025",
+   "definition": "一种由尖刺菱形藻等硅藻产生的热稳定性毒素，具有较强的神经毒性。"
+  },
+  {
+   "cn": "贝类毒素中毒",
+   "en": "shellfish toxins poisoning",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.2.4.3",
+   "subjectFullName": "食品卫生学_食源性疾病_中毒型食源性疾病",
+   "subjectName": "中毒型食源性疾病",
+   "publishYear": "2025",
+   "definition": "食用含有贝类毒素的食品所致中毒型食源性疾病。"
+  },
+  {
+   "cn": "神经毒性贝类毒素",
+   "en": "neurotoxic shellfish toxins",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.2.4.6",
+   "subjectFullName": "食品卫生学_食源性疾病_中毒型食源性疾病",
+   "subjectName": "中毒型食源性疾病",
+   "publishYear": "2025",
+   "definition": "由海洋甲藻、短凯氏藻（以前称为短裸甲藻和短盘藻）等产生的一组十多种天然神经毒素的统称，具有神经毒性和胃肠道影响"
+  },
+  {
+   "cn": "致泻性贝类毒素",
+   "en": "diarrhoeal shellfish toxins",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.2.4.8",
+   "subjectFullName": "食品卫生学_食源性疾病_中毒型食源性疾病",
+   "subjectName": "中毒型食源性疾病",
+   "publishYear": "2025",
+   "definition": "由甲藻属和原甲藻属等海洋甲藻产生的多种海洋毒素的统称"
+  },
+  {
+   "cn": "麻痹性贝类毒素中毒",
+   "en": "paralytic shellfish toxins poisoning",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.2.4.5",
+   "subjectFullName": "食品卫生学_食源性疾病_中毒型食源性疾病",
+   "subjectName": "中毒型食源性疾病",
+   "publishYear": "2025",
+   "definition": "食用含有麻痹性贝类毒素的食品所致中毒型食源性疾病。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

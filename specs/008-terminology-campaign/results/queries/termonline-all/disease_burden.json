@@ -1,0 +1,672 @@
+{
+ "key": "disease burden",
+ "term": "disease burden",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T04:53:31+00:00",
+ "status": "ok",
+ "note": "variant=disease burden; 审定公布名词库=3331; 海峡两岸名词对照库=315; 其他来源数据库=79; 预公布名词数据库=338; jwt-direct（JWT 直连，raw 略；已滤维基 14 条）",
+ "hits": [
+  {
+   "cn": "疾病负担",
+   "en": "burden of disease",
+   "source": "药学名词",
+   "wordNumber": "10.038",
+   "subjectFullName": "药学_药物经济学",
+   "subjectName": "药物经济学",
+   "publishYear": "2014",
+   "definition": "疾病对社会经济及人群健康的影响。包括疾病的流行病学负担和经济负担两个方面。"
+  },
+  {
+   "cn": "抵抗线",
+   "en": "burden",
+   "source": "土木工程名词",
+   "wordNumber": "09.087",
+   "subjectFullName": "土木工程_隧道与地下工程_隧道施工方法",
+   "subjectName": "隧道施工方法",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "负荷",
+   "en": "burden",
+   "source": "电气工程名词",
+   "wordNumber": "08.253",
+   "subjectFullName": "电气工程_变压器、调压器、电抗器、互感器",
+   "subjectName": "变压器、调压器、电抗器、互感器",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "炉料",
+   "en": "charge,burden",
+   "source": "材料科学技术名词",
+   "wordNumber": "02.0085",
+   "subjectFullName": "材料科学技术_金属材料_钢铁材料_钢铁材料生产技术",
+   "subjectName": "钢铁材料生产技术",
+   "publishYear": "2011",
+   "definition": "装入熔炼炉内且参与熔炼过程的所有原材料的总称。"
+  },
+  {
+   "cn": "布料",
+   "en": "burden distribution",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.1369",
+   "subjectFullName": "化工（八）_化工设备_造粒及成型设备",
+   "subjectName": "造粒及成型设备",
+   "publishYear": "2021",
+   "definition": "将熔融态物料均匀撒布到在其下方匀速移动的冷带上表面的过程。"
+  },
+  {
+   "cn": "税负",
+   "en": "tax burden",
+   "source": "经济学名词",
+   "wordNumber": "11.057",
+   "subjectFullName": "经济学_财政与税收经济学",
+   "subjectName": "财政与税收经济学",
+   "publishYear": "2020",
+   "definition": "税收负担和税收负担率。对于纳税人在某一期间内负担的税款金额，是绝对数；而税负率是用相对数来反映纳税人在某一期间内负担的税款金额同其取得收入的比例关系。"
+  },
+  {
+   "cn": "环境负荷",
+   "en": "environmental burden",
+   "source": "冶金学名词",
+   "wordNumber": "01.0057",
+   "subjectFullName": "冶金学_总论",
+   "subjectName": "总论",
+   "publishYear": "2019",
+   "definition": "人类生产活动所加给地球生态环境的负担。冶金工业消耗的能源和排放的气体、固体及液体废弃物是很大的环境负荷。"
+  },
+  {
+   "cn": "最小抵抗线",
+   "en": "minimum burden",
+   "source": "冶金学名词",
+   "wordNumber": "02.0361",
+   "subjectFullName": "冶金学_采矿_凿岩爆破",
+   "subjectName": "凿岩爆破",
+   "publishYear": "2019",
+   "definition": "炮孔至最近自由面的有效(最短)距离。"
+  },
+  {
+   "cn": "料柱",
+   "en": "burden column",
+   "source": "冶金学名词",
+   "wordNumber": "05.0725",
+   "subjectFullName": "冶金学_钢铁冶金_炼铁",
+   "subjectName": "炼铁",
+   "publishYear": "2019",
+   "definition": "高炉内充满炉料时形成的从上到下可通过气流的柱体。"
+  },
+  {
+   "cn": "底盘抵抗线",
+   "en": "toe burden",
+   "source": "冶金学名词",
+   "wordNumber": "02.0362",
+   "subjectFullName": "冶金学_采矿_凿岩爆破",
+   "subjectName": "凿岩爆破",
+   "publishYear": "2019",
+   "definition": "自炮孔中心至坡底线的最短距离。"
+  },
+  {
+   "cn": "客观负担",
+   "en": "objective burden",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "06.136",
+   "subjectFullName": "阿尔茨海默病_治疗与康复_护理与康复",
+   "subjectName": "护理与康复",
+   "publishYear": "2019",
+   "definition": "为满足患者需求而付出的时间和精力及因照顾患者而导致的结果。如家庭社会关系被打乱、工作及娱乐活动中断等。"
+  },
+  {
+   "cn": "主观负担",
+   "en": "subjective burden",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "06.137",
+   "subjectFullName": "阿尔茨海默病_治疗与康复_护理与康复",
+   "subjectName": "护理与康复",
+   "publishYear": "2019",
+   "definition": "照料者在应对照料有关的客观压力时的情感体验。如忧虑、压抑、羞愧、自责等。 "
+  },
+  {
+   "cn": "结石负荷",
+   "en": "stone burden",
+   "source": "泌尿外科学名词",
+   "wordNumber": "06.119",
+   "subjectFullName": "泌尿外科学_尿石症",
+   "subjectName": "尿石症",
+   "publishYear": "2014",
+   "definition": "结石的大小和数量。是决定肾结石患者选择合适治疗模式最重要的因素之一。"
+  },
+  {
+   "cn": "病害",
+   "en": "disease",
+   "source": "风景园林名词",
+   "wordNumber": "12.0176",
+   "subjectFullName": "风景园林_风景园林生态_修复生态学",
+   "subjectName": "修复生态学",
+   "publishYear": "2025",
+   "definition": "植物成长阶段和产品在贮藏、运输过程中，因生理、组织和形态上的明显变化，表现为生长发育不良，品质变劣，局部坏死、畸形，产量降低甚至死亡，从而造成经济损失的现象。"
+  },
+  {
+   "cn": "疾病",
+   "en": "disease",
+   "source": "兽医学名词",
+   "wordNumber": "10.053",
+   "subjectFullName": "兽医学_兽医病理及病理生理学",
+   "subjectName": "兽医病理及病理生理学",
+   "publishYear": "2023",
+   "definition": "机体在一定条件下与致病因素相互作用而产生的损伤与抗损伤的斗争过程，亦是机体自稳态及对立统一系统的破坏过程。在此过程中，动物的生产性能降低。"
+  },
+  {
+   "cn": "病害",
+   "en": "disease ",
+   "source": "草学名词",
+   "wordNumber": "6.009",
+   "subjectFullName": "草学_饲草生产与加工_饲草生产",
+   "subjectName": "饲草生产",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "疾病",
+   "en": "disease",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "01.055",
+   "subjectFullName": "全科医学与社区卫生_全科医学与社区卫生总论",
+   "subjectName": "全科医学与社区卫生总论",
+   "publishYear": "2014",
+   "definition": "机体在一定条件下，受病因作用后，其结构与功能发生异常状况，并产生症状或不良后果的过程。"
+  },
+  {
+   "cn": "疾病",
+   "en": "disease",
+   "source": "放射医学与防护名词",
+   "wordNumber": "11.001",
+   "subjectFullName": "放射医学与防护_放射性疾病诊断、治疗与健康监护_外照射放射病诊断与治疗",
+   "subjectName": "外照射放射病诊断与治疗",
+   "publishYear": "2014",
+   "definition": "人体在一定病因的损害性作用下，因自稳调节紊乱而发生的异常生命活动的过程。在此过程中，机体出现功能、代谢和形态结构的异常变化，致使其与内外环境间失衡而引起的各种症状、体征和行为异常。"
+  },
+  {
+   "cn": "底盘抵抗线",
+   "en": "toe burden,bench bottom burden",
+   "source": "煤炭科学技术名词",
+   "wordNumber": "04.360",
+   "subjectFullName": "煤炭科学技术_矿井建设_矿井爆破",
+   "subjectName": "矿井爆破",
+   "publishYear": "1996",
+   "definition": "台阶上,外排炮孔轴线至坡底线的水平距离。"
+  },
+  {
+   "cn": "遗传病",
+   "en": "genetic disease,hereditary disease,inherited disease",
+   "source": "畜牧学名词",
+   "wordNumber": "04.038",
+   "subjectFullName": "畜牧学_遗传育种_普通遗传学",
+   "subjectName": "普通遗传学",
+   "publishYear": "2020",
+   "definition": "由染色体或染色体所携带的遗传物质发生变异而引起的疾病。"
+  },
+  {
+   "cn": "风笛",
+   "en": "burden\",\"burthen",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "炉料",
+   "en": "charge\",\"burden",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "遗传病",
+   "en": "genetic disease\",\"hereditary disease\",\"inherited disease",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "叠歌",
+   "en": "burden\",\"burthen\",\"refrain",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "环境污染负荷",
+   "en": "ambient pollution burden",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "水俣病",
+   "en": "Minamata disease",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "避病性",
+   "en": "disease escape",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "抗病性",
+   "en": "disease resistance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "萎蔫病",
+   "en": "wilt disease",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "植物病害",
+   "en": "plant disease",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "帕金森病",
+   "en": "Parkinson disease",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "心身疾病",
+   "en": "psychosomatic disease",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "威尔逊氏症",
+   "en": "Wilson disease",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "水俣病",
+   "en": "Minamata disease",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "航海疾病",
+   "en": "seafaring disease",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "潜水疾病",
+   "en": "diving disease",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "病带",
+   "en": "disease belt",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "城市病",
+   "en": "city disease",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "地方病",
+   "en": "endemic disease",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "克山病",
+   "en": "Keshan disease",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "心血管病",
+   "en": "cardiovascular disease",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_疾病_病毒名称",
+   "subjectName": "病毒名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "呼吸道疾病（呼吸系统疾病）",
+   "en": "respiratory diseases",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_疾病_病毒名称",
+   "subjectName": "病毒名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "阿尔茨海默病",
+   "en": "Alzheimer's disease",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "特定传染病",
+   "en": "specific infectious disease",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "慢性阻塞性肺（疾）病",
+   "en": "chronic obstructive pulmonary disease",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "宿疾、慢性病",
+   "en": "chronic ailment; chronic disease",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_疾病_病毒名称",
+   "subjectName": "病毒名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "食源性疾病负担",
+   "en": "foodborne disease burden",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "生物性致病因子、化学性污染物等危害通过食物传播引起的疾病、伤残（失能）和过早死亡对人群健康和社会造成的总损失，包括疾病流行病学负担和疾病经济负担。"
+  },
+  {
+   "cn": "疾病负担",
+   "en": "burden of disease，burden of illness",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.2.1",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_疾病负担及疾病经济负担",
+   "subjectName": "疾病负担及疾病经济负担",
+   "publishYear": "2025",
+   "definition": "疾病、伤残（失能）和过早死亡对健康和社会造成的总损失。"
+  },
+  {
+   "cn": "全球疾病负担",
+   "en": "global burden of disease",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.2.1.1",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_疾病负担及疾病经济负担",
+   "subjectName": "疾病负担及疾病经济负担",
+   "publishYear": "2025",
+   "definition": "全面描述不同国家、不同时间、年龄和性别的死亡率和伤残情况，量化数百种疾病、伤害和风险因素所导致的健康损失，以便改善卫生系统并消除不公平的一种方法。"
+  },
+  {
+   "cn": "食源性寄生虫病疾病负担",
+   "en": "parasitic foodborne disease burden",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.10.3",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "摄入含寄生虫的食物而引起的疾病、伤残（失能）和过早死亡对人群健康和社会造成的总损失，包括疾病流行病学负担和疾病经济负担。"
+  },
+  {
+   "cn": "食源性肠道疾病负担",
+   "en": "enteric foodborne disease burden",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.10.2",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "摄入了污染有霍乱弧菌、甲型肝炎病毒等细菌、病毒的食物而引起的肠道疾病导致的疾病、伤残（失能）和过早死亡对人群健康和社会造成的总损失，包括疾病流行病学负担和疾病经济负担。"
+  },
+  {
+   "cn": "全球疾病负担",
+   "en": "global burden of disease",
+   "source": "社会医学名词",
+   "wordNumber": "3.7.1.1",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "全球化",
+   "publishYear": "2025",
+   "definition": "通过伤残调整生命年（DALYs）评估疾病对人口的总体影响。由世界银行于1993 年在《世界发展报告》中首次提出，用于描述特定人群健康生命年损失的术语。"
+  },
+  {
+   "cn": "生物性食源性疾病负担",
+   "en": "biological foodborne diseases burden",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.10",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "微生物病原体、生物毒素等致病因子通过食物传播引起的疾病、伤残（失能）和过早死亡对人群健康和社会造成的总损失，包括疾病流行病学负担和疾病经济负担。"
+  },
+  {
+   "cn": "化学性食源性疾病负担",
+   "en": "chemical foodborne diseases burden",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.9",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "食源性化学污染物引起的疾病、伤残（失能）和过早死亡对人群健康和社会造成的总损失，包括疾病流行病学负担和疾病经济负担。"
+  },
+  {
+   "cn": "直接疾病经济负担",
+   "en": "direct economic burden of disease",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.2.5",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_疾病负担及疾病经济负担",
+   "subjectName": "疾病负担及疾病经济负担",
+   "publishYear": "2025",
+   "definition": "由于预防和治疗疾病所直接消耗的经济资源。"
+  },
+  {
+   "cn": "间接疾病经济负担",
+   "en": "indirect economic burden of disease",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.2.6",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_疾病负担及疾病经济负担",
+   "subjectName": "疾病负担及疾病经济负担",
+   "publishYear": "2025",
+   "definition": "由于发病、伤残(失能)和过早死亡给患者本人和社会所带来的时间及劳动力损失而导致的经济负担。"
+  },
+  {
+   "cn": "无形疾病经济负担",
+   "en": "intangible economic burden of disease",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.2.7",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_疾病负担及疾病经济负担",
+   "subjectName": "疾病负担及疾病经济负担",
+   "publishYear": "2025",
+   "definition": "因疾病或失能给患者造成的痛苦、焦虑与不便所带来的生活质量的下降和其他相关成本的花费"
+  },
+  {
+   "cn": "全球疾病负担研究",
+   "en": "global burden of disease， GBD",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.1",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "全球观察性流行病学疾病负担研究，以系统、科学、标准化的方式量化疾病的严重程度、风险因素和健康结局。"
+  },
+  {
+   "cn": "微生物性食源性疾病负担",
+   "en": "microorganism-originated foodborne disease burden",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.10.1",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "细菌、真菌与其毒素以及病毒等微生物致病因子通过食物传播引起的疾病、伤残（失能）和过早死亡对人群健康和社会造成的总损失，包括疾病流行病学负担和疾病经济负担。"
+  },
+  {
+   "cn": "终身疾病经济负担",
+   "en": "life-time economic burden of disease",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.2.4.1",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_疾病负担及疾病经济负担",
+   "subjectName": "疾病负担及疾病经济负担",
+   "publishYear": "2025",
+   "definition": "由于疾病、伤残、死亡给患者整个生命周期过程带来的经济损失。"
+  },
+  {
+   "cn": "疾病负担流行病学数据",
+   "en": "epidemiological data of foodborne disease burden",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.11",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "为评价疾病负担采用的一系列流行病学指标。通过死亡人数、伤残人数和患病人数等绝对数指标来描述和反映健康状况，发病率、伤残率、患病率、死亡率等相对数指标来比较不同特征人群疾病分布的差异。"
+  },
+  {
+   "cn": "食源性疾病流行病学参比专家组",
+   "en": "foodborne disease burden epidemiology reference group",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.2",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "世界卫生组织于2007 年成立的专家组，旨在科学的估计全球食源性疾病负担。"
+  },
+  {
+   "cn": "双重负担",
+   "en": "double burden",
+   "source": "社会学名词",
+   "wordNumber": "3.2.4.14",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别与家庭",
+   "subjectName": "性别与家庭",
+   "publishYear": "2025",
+   "definition": "就业者身兼工作和家庭双职，既要承受来自职场的薪资劳动压力，又要承担无偿的家务劳动、家庭劳动和养老抚幼的重任。与男性相比较，妇女所承担的双重负担更重，压力更大。"
+  },
+  {
+   "cn": "照料者负担",
+   "en": "caregiver burden",
+   "source": "社会学名词",
+   "wordNumber": "3.15.6.9",
+   "subjectFullName": "社会学名词_分支社会学_老年和老龄化研究_老年代际关系",
+   "subjectName": "老年代际关系",
+   "publishYear": "2025",
+   "definition": "长期照料体弱老年人时产生的个人精力和时间的限制、经济紧张以及心理上的挫败感。"
+  },
+  {
+   "cn": "暴露负荷",
+   "en": "exposure burden",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.13",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "暴露量除以暴露表面积的值。例如，基于皮肤擦拭样品的皮肤暴露测量，表示为每单位皮肤表面积的残留量。"
+  },
+  {
+   "cn": "疾病",
+   "en": "disease",
+   "source": "医学伦理学名词",
+   "wordNumber": "5.008",
+   "subjectFullName": "医学伦理学_临床诊疗伦理",
+   "subjectName": "临床诊疗伦理",
+   "publishYear": "2025",
+   "definition": "个体或群体在一定病因的损害性作用下，发生的生理、心理或社会沟通等方面的异常生命活动过程"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

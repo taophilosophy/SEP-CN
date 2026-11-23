@@ -1,0 +1,762 @@
+{
+ "key": "rectifying names",
+ "term": "rectifying names",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T04:48:54+00:00",
+ "status": "ok",
+ "note": "variant=rectifying names; 审定公布名词库=477; 海峡两岸名词对照库=164; 其他来源数据库=34; 预公布名词数据库=26; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "校正仪",
+   "en": "rectifier,rectifying apparatus",
+   "source": "航天科学技术名词",
+   "wordNumber": "08.347",
+   "subjectFullName": "航天科学技术_航天遥感",
+   "subjectName": "航天遥感",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "纠正仪",
+   "en": "rectifier",
+   "source": "光学名词",
+   "wordNumber": "19.096",
+   "subjectFullName": "光学_光学仪器Ⅱ：其他物理量检测",
+   "subjectName": "光学仪器Ⅱ：其他物理量检测",
+   "publishYear": "2021",
+   "definition": "利用光学投影纠正原理，将因相片倾斜和摄影时航高变化引起影像变形或比例尺不一致的航摄相片，纠正为水平的或比例尺一致的相片的仪器。主要用于平坦地区的航摄相片纠正和制作平坦地区的影像地图。"
+  },
+  {
+   "cn": "整流器",
+   "en": "rectifier",
+   "source": "电力名词",
+   "wordNumber": "21.049",
+   "subjectFullName": "电力_高压直流输电",
+   "subjectName": "高压直流输电",
+   "publishYear": "2020",
+   "definition": "将交流转换成直流的换流器。"
+  },
+  {
+   "cn": "整流器",
+   "en": "rectifier",
+   "source": "物理学名词",
+   "wordNumber": "03.0972",
+   "subjectFullName": "物理学_电磁学",
+   "subjectName": "电磁学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "整流器",
+   "en": "rectifier",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.1009",
+   "subjectFullName": "计算机科学技术_计算机应用_计算机控制",
+   "subjectName": "计算机控制",
+   "publishYear": "2018",
+   "definition": "将交流转换成直流的换流器。"
+  },
+  {
+   "cn": "精馏器",
+   "en": "rectifier",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "12.0228",
+   "subjectFullName": "机械工程_流体机械_制冷与空调设备_制冷_制冷设备",
+   "subjectName": "制冷设备",
+   "publishYear": "2013",
+   "definition": "依靠多元组分混合物中各组分沸点不同的特性，使低沸点组分不断从液相逸出进入气相，高沸点组分不断从气相进入液相，从而达到混合物分离的制冷设备。"
+  },
+  {
+   "cn": "整流器",
+   "en": "rectifier",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "07.044",
+   "subjectFullName": "机械工程_汽车_汽车电器及汽车附属装置_汽车电器",
+   "subjectName": "汽车电器",
+   "publishYear": "2013",
+   "definition": "将交流电转换为直流电的变换器。"
+  },
+  {
+   "cn": "整流器",
+   "en": "rectifier",
+   "source": "通信科学技术名词",
+   "wordNumber": "15.016",
+   "subjectFullName": "通信科学技术_通信电源",
+   "subjectName": "通信电源",
+   "publishYear": "2007",
+   "definition": "将交流电变换为直流电的设备。"
+  },
+  {
+   "cn": "纠正仪",
+   "en": "rectifier",
+   "source": "机械工程名词 第三分册",
+   "wordNumber": "04.402",
+   "subjectFullName": "机械工程_仪器仪表_光学仪器_航测和遥感仪器_航测仪器",
+   "subjectName": "航测仪器",
+   "publishYear": "2003",
+   "definition": "利用光学投影纠正的原理，将因像片倾斜和摄影时航高变化引起影像变形和比例尺不一致的航摄像片纠正为水平的或比例尺一致的像片的仪器。主要用于平坦地区的航摄像片纠正和制作平坦地区的影像地图。"
+  },
+  {
+   "cn": "整流器",
+   "en": "rectifier",
+   "source": "铁道科学技术名词",
+   "wordNumber": "07.0048",
+   "subjectFullName": "铁道科学技术_铁道通信",
+   "subjectName": "铁道通信",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "可求长的",
+   "en": "rectifiable",
+   "source": "数学名词",
+   "wordNumber": "05.0064",
+   "subjectFullName": "数学_分析学_分析学基础·实分析",
+   "subjectName": "分析学基础?实分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "整流器",
+   "en": "rectifier",
+   "source": "自动化名词",
+   "wordNumber": "04.373",
+   "subjectFullName": "自动化科学技术_控制技术_电气自动化",
+   "subjectName": "电气自动化",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "整流变压器",
+   "en": "rectifying transformer",
+   "source": "冶金学名词",
+   "wordNumber": "05.1201",
+   "subjectFullName": "冶金学_钢铁冶金_炼钢",
+   "subjectName": "炼钢",
+   "publishYear": "2019",
+   "definition": "向直流电炉供给直流电的变压器，经由变压器输出合适电压的交流电给硅二极管和晶闸管等组成的整流器变为直流电。各相可分别整流，变压器可以用两台或多台以增大电源功率。"
+  },
+  {
+   "cn": "精馏段",
+   "en": "rectifying section",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "03.0653",
+   "subjectFullName": "化工（三）_传递过程与单元操作",
+   "subjectName": "传递过程与单元操作",
+   "publishYear": "2019",
+   "definition": "精馏塔中位于进料板至塔顶冷凝器之间的部分。精馏段中随汽相向上流动，其易挥发组分逐渐增浓。"
+  },
+  {
+   "cn": "精馏切割",
+   "en": "rectifying cut",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "03.0656",
+   "subjectFullName": "化工（三）_传递过程与单元操作",
+   "subjectName": "传递过程与单元操作",
+   "publishYear": "2019",
+   "definition": "间歇精馏过程中，馏出液的组成连续改变。馏出液按照沸程被分批收集称为精馏切割。"
+  },
+  {
+   "cn": "挑选型抽样",
+   "en": "rectifying sampling",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0727",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "对不合格批全检，在检查中发现的不合格品要修复或用合格品取代的抽样检验方法。"
+  },
+  {
+   "cn": "精馏段",
+   "en": "rectifying section",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "11.0032",
+   "subjectFullName": "机械工程_流体机械_气体分离设备_单元设备_精馏塔",
+   "subjectName": "精馏塔",
+   "publishYear": "2013",
+   "definition": "在上塔中，从液空进料口以上至塔顶，用来不断提高低沸点组分含量的精馏塔段。"
+  },
+  {
+   "cn": "整流式继电器",
+   "en": "rectifying relay",
+   "source": "电气工程名词",
+   "wordNumber": "14.071",
+   "subjectFullName": "电气工程_继电器及继电保护装置",
+   "subjectName": "继电器及继电保护装置",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "从切[平]面",
+   "en": "rectifying plane",
+   "source": "数学名词",
+   "wordNumber": "08.0962",
+   "subjectFullName": "数学_几何学_拓扑学_微分几何学",
+   "subjectName": "微分几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "极化整流器",
+   "en": "polarization rectifier",
+   "source": "化工名词（九）无机化工与肥料",
+   "wordNumber": "01.0248",
+   "subjectFullName": "化工（九）_无机化工",
+   "subjectName": "无机化工",
+   "publishYear": "2023",
+   "definition": "在电解槽送电前或停电后主整流器没有供电时，向电解槽提供一个比较小的正向极化电流，以阻止产生反向电流的整流设备。"
+  },
+  {
+   "cn": "精馏器",
+   "en": "rectifier",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "整流器",
+   "en": "rectifier",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "整流器",
+   "en": "rectifier",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "整流器",
+   "en": "rectifier",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "精馏塔",
+   "en": "rectifier column\",\"rectifying column\",\"rectifying tower",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "精馏板",
+   "en": "rectifying tray",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "精馏塔板",
+   "en": "rectifying plate",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "精馏釜",
+   "en": "rectifying still",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "硅整流器",
+   "en": "silicon rectifier",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "纠正像片",
+   "en": "rectified photograph",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "纠正仪",
+   "en": "rectifier\",\"transformer",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "扫描纠正仪",
+   "en": "scanning rectifier",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "自动纠正仪",
+   "en": "automatic rectifier",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "自动调焦纠正仪",
+   "en": "autofocus rectifier",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "整流变压器",
+   "en": "rectifier transformer",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "整流二极管",
+   "en": "rectifier diode",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "复式精馏塔",
+   "en": "compound rectifying column",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "非倾斜透镜纠正仪",
+   "en": "nontilting-lens rectifier",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "纠正像片镶嵌图",
+   "en": "rectified photograph mosaic",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "汞池整流管",
+   "en": "mercury-pool rectifier",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "正心",
+   "en": "Rectify One’s Heart / Mind",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "别名",
+   "en": "Distinct Name",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "共名",
+   "en": "General Name",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "达名",
+   "en": "Unrestricted Name",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "类名",
+   "en": "Classified Name",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "私名",
+   "en": "Private Name",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "正名",
+   "en": "Rectification of Names",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "名实",
+   "en": "Name and Substance",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "形名",
+   "en": "Form and Name",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "根域名服务器",
+   "en": "root name server",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "域名系统安全",
+   "en": "domain name system security",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络域名解析主导权",
+   "en": "ownership of domain name resolution",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "循名责实",
+   "en": "Hold Actualities According to Its Name",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "联合国地名专家组",
+   "en": "United Nations Group of Experts on Geographical Names",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "互联网名称与数字地址分配机构",
+   "en": "Internet Corporation for Assigned Names and Numbers (ICANN)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "通用名",
+   "en": "common name",
+   "source": "消毒学",
+   "wordNumber": "5.2.5.1.1",
+   "subjectFullName": "消毒学_监督管理_产品监管",
+   "subjectName": "产品监管",
+   "publishYear": "2025",
+   "definition": "消毒产品名称中表示主要原料、主要功效成分或产品功能的文字。"
+  },
+  {
+   "cn": "属性名",
+   "en": "attribute name",
+   "source": "消毒学",
+   "wordNumber": "5.2.5.1.2",
+   "subjectFullName": "消毒学_监督管理_产品监管",
+   "subjectName": "产品监管",
+   "publishYear": "2025",
+   "definition": "消毒产品名称中表示产品客观形态的文字。"
+  },
+  {
+   "cn": "属性名称",
+   "en": "attribute name",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.3.30",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品标准",
+   "subjectName": "食品标准",
+   "publishYear": "2025",
+   "definition": "能反映食品本身不必说明或已经说明的固有特性的专用名称，包括对配料特征、工艺特点、食品类别等一种或多种食品专属特征的描述。"
+  },
+  {
+   "cn": "商号",
+   "en": "trade name",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.018",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "商事主体在其营业活动中为表征其身份以区别其他主体而使用的名称。"
+  },
+  {
+   "cn": "治理整顿",
+   "en": "governancing the economic environment and rectifying economic order",
+   "source": "马克思主义",
+   "wordNumber": "04.0150",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "治理经济环境、整顿经济秩序方针的简称。这一方针是在1988年9月中共十三届三中全会上针对当时我国经济生活中出现的问题和混乱现象提出的。治理经济环境，主要是压缩社会总需求，抑制通货膨胀；整顿经济秩序，就"
+  },
+  {
+   "cn": "消毒产品名称",
+   "en": "name of disinfection product",
+   "source": "消毒学",
+   "wordNumber": "5.2.5.1",
+   "subjectFullName": "消毒学_监督管理_产品监管",
+   "subjectName": "产品监管",
+   "publishYear": "2025",
+   "definition": "辨识消毒产品的文字、图形、数字或符号组合，具有唯一性。一般包括商标名或品牌名、型号、通用名和属性名等。"
+  },
+  {
+   "cn": "整党整风",
+   "en": "consolidate the party and rectify its style of work",
+   "source": "马克思主义",
+   "wordNumber": "03.0475",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国共产党全党在一定时期内进行的思想、作风和组织的整顿，也是普遍的马克思主义教育运动。用以纠正党内错误思想，加强党的作风建设和组织建设，增强党内团结。"
+  },
+  {
+   "cn": "父子连名制",
+   "en": "father and son consecutive names",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0386",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "父系制时代父名与子名相连的命名制度。这种制度产生于母系氏族解体﹑父系氏族确立之后。父子连名主要有三种方式：正推顺连法，即父名在前，子名在后，以父名最末的一个或二个音节冠于子名之前；子名的最末一个或二个"
+  },
+  {
+   "cn": "母女连名制",
+   "en": "mother and daughter consecutive names",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0387",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "母系氏族制时代母名与女儿名相连的命名制度。一般认为产生于母系氏族制繁荣期，因生产力的发展，对偶家庭出现，子女血统以母系计算。"
+  },
+  {
+   "cn": "名实分离",
+   "en": "separation of name and reality",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.44",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "因社会变迁产生的经学理想社会与现实之间的分立，以及由此产生的社会心理上的不适应状态。费孝通提出的概念。具体而言，自诸子百家定于一尊之后，要解释社会变迁，往往通过注释的方式来使经典与社会变动相适应。乡土"
+  },
+  {
+   "cn": "国际非专利药名",
+   "en": "international non-proprietary names for pharmaceutical substance,INN",
+   "source": "卫生经济学名词",
+   "wordNumber": "16.1.6.2.5",
+   "subjectFullName": "卫生经济学名词_卫生系统改革_中国卫生系统改革",
+   "subjectName": "中国卫生系统改革",
+   "publishYear": "2025",
+   "definition": "向世界卫生组织申请，并获得核准的药品正式名称，全球通用的唯一性名称。"
+  },
+  {
+   "cn": "新途经方法",
+   "en": "new approach methodologies， NAMs",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.1.14",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "不依赖整体动物且可以为外源因素的健康危害和风险提供信息的技术丶方法和组合，旨在更精准、更高效地进行安全性与有效性评估。包括以类器官(organoids)、器官芯片(organ-on-a-chip)、3"
+  },
+  {
+   "cn": "颇罗鼐",
+   "en": "Pho lha ba bsod nams stobs rgyal",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0429",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏族历史人物，清代西藏贵族，本名琐南多结，在准噶尔军进入拉萨的时期，配合阿里总管康济鼐出兵策应进藏清军。后来平定诸噶伦内讧事件，作为首席噶伦因为政绩突出1739年被封为郡王爵位。"
+  },
+  {
+   "cn": "中央人民政府政务院关于处理带有歧视或侮辱少数民族性质的称谓、地名、碑碣、匾联的指示",
+   "en": "Instructions on Handling Titles, Place Names, Steles and Plaques Discriminating \nor Insulting Ethnic Minorities",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0091",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "中华人民共和国第一部禁止民族歧视的规范性文件。1951 年5 月16 日由中央人民政府政务院发布。规定各省市县人民政府应将历史上遗留下来的对于少数民族的称谓及有关少数民族地区的地名、碑碣、匾联等作全面"
+  },
+  {
+   "cn": "CT值",
+   "en": "CT number，CT value",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.60",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "物质的衰减系数与水的衰减系数之差再与水的衰减系数相比之后乘以1000所得的量。单位是Hu。其不是一个绝对值，而是一个相对值，代表X射线穿过组织被吸收后的衰减值。"
+  },
+  {
+   "cn": "CT剂量指数",
+   "en": "CT dose index",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.61",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "在X射线计算机体层成像时对辐射输出剂量的一种标准化度量，用于向受检者提供剂量指示。基本CTDI表示为CTDI100，是以计算机体层成像扫描仪单次轴向采集100mm而赋予标准模体中心的平均吸收剂量值来表"
+  },
+  {
+   "cn": "γ射线工业CT设备",
+   "en": "gamma-ray industrial computed tomography equipments",
+   "source": "放射卫生学",
+   "wordNumber": "8.2.5",
+   "subjectFullName": "放射卫生学_放射卫生监管_工业及其他应用监管",
+   "subjectName": "工业及其他应用监管",
+   "publishYear": "2025",
+   "definition": "用γ射线对工件进行断层扫描成像的设备，包括CT扫描装置、数据采集与处理系统、操作台等。"
+  },
+  {
+   "cn": "容积CT剂量指数",
+   "en": "volume CT dosimetry index，CTDIvol",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.69",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "CT扫描中整个扫描范围内的平均剂量。"
+  },
+  {
+   "cn": "CT模拟定位机",
+   "en": "CT simulator",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.17",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "一种配备了放疗模拟所需装置和功能的大孔径计算机体层成像扫描仪，包括平板床、外置激光定位灯、放疗定位虚拟模拟软件等。"
+  },
+  {
+   "cn": "集体消费理论 collective consumption",
+   "en": null,
+   "source": "社会学名词",
+   "wordNumber": "3.4.5.5",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_政治经济学学派",
+   "subjectName": "政治经济学学派",
+   "publishYear": "2025",
+   "definition": "发达资本主义阶段的社会矛盾表现为城市集体消费方式问题的理论。由马克思主义城市社会学家凯斯特思(Manuel Castells）提出，认为发达资本主义阶段的社会矛盾主要是包括住房、教育、医疗、教育、文化"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

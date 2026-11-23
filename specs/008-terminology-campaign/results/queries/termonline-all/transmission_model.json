@@ -1,0 +1,772 @@
+{
+ "key": "transmission model",
+ "term": "transmission model",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T04:52:56+00:00",
+ "status": "ok",
+ "note": "variant=transmission model; 审定公布名词库=4021; 海峡两岸名词对照库=1257; 其他来源数据库=188; 预公布名词数据库=251; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "传递模型",
+   "en": "transmission model",
+   "source": "畜牧学名词",
+   "wordNumber": "04.599",
+   "subjectFullName": "畜牧学_遗传育种_品系繁育",
+   "subjectName": "品系繁育",
+   "publishYear": "2020",
+   "definition": "遗传进展从育种群传递到生产群的方式。"
+  },
+  {
+   "cn": "大气传输模式",
+   "en": "atmospheric transmission model",
+   "source": "大气科学名词",
+   "wordNumber": "02.333",
+   "subjectFullName": "大气科学_大气探测",
+   "subjectName": "大气探测",
+   "publishYear": "2009",
+   "definition": "描述辐射能在大气中传输过程、传输特性及其规律的模式。"
+  },
+  {
+   "cn": "热量传输模型",
+   "en": "model of heat transmission",
+   "source": "地质学名词",
+   "wordNumber": "16.04.113",
+   "subjectFullName": "地质学_水文地质学_水文地球化学",
+   "subjectName": "水文地球化学",
+   "publishYear": "2026",
+   "definition": "建立在热量传导原理基础上，能够描述和预测地下水温度变化、热量传输的地下水数学模型。"
+  },
+  {
+   "cn": "传播",
+   "en": "transmission",
+   "source": "兽医学名词",
+   "wordNumber": "02.038",
+   "subjectFullName": "兽医学_动物传染病学",
+   "subjectName": "动物传染病学",
+   "publishYear": "2023",
+   "definition": "病原微生物由传染源排出后，经一定的方式再侵入其他易感动物的过程。"
+  },
+  {
+   "cn": "传递",
+   "en": "transmission",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.005",
+   "subjectFullName": "新闻学与传播学_传播总论_传播行为与活动",
+   "subjectName": "传播行为与活动",
+   "publishYear": "2022",
+   "definition": "信源发出的信息经过传播渠道到达信宿的过程。强调信宿与信源的一致，也用于社会性传播。该词出自信息工程学。"
+  },
+  {
+   "cn": "透射",
+   "en": "transmission",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0581",
+   "subjectFullName": "地球物理学_地震科学_基础理论",
+   "subjectName": "基础理论",
+   "publishYear": "2022",
+   "definition": "地震波在传播过程中遇到不同介质的分界面时，有一部分能量穿过界面继续向前，在另一种介质传播的现象。 "
+  },
+  {
+   "cn": "传播",
+   "en": "transmission ",
+   "source": "草学名词",
+   "wordNumber": "7.0296",
+   "subjectFullName": "草学_草原灾害与保护_草地保护",
+   "subjectName": "草地保护",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "变速器",
+   "en": "transmission",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "08.0010",
+   "subjectFullName": "机械工程（一）_传动_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "用于改变转速和转矩的机构。"
+  },
+  {
+   "cn": "透射",
+   "en": "transmission",
+   "source": "光学名词",
+   "wordNumber": "01.476",
+   "subjectFullName": "光学_基础光学",
+   "subjectName": "基础光学",
+   "publishYear": "2021",
+   "definition": "光波入射到物体表面、经过折射并穿过物体后出射的现象。"
+  },
+  {
+   "cn": "传递",
+   "en": "transmission",
+   "source": "生理学名词",
+   "wordNumber": "02.367",
+   "subjectFullName": "生理学_细胞生理学",
+   "subjectName": "细胞生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "传播",
+   "en": "transmission",
+   "source": "感染病学名词",
+   "wordNumber": "01.0295",
+   "subjectFullName": "感染病学_总论_感染病流行病学",
+   "subjectName": "感染病流行病学",
+   "publishYear": "2019",
+   "definition": "病原体从已感染者排出，经过一定的途径，传入易感者而形成新的传染的过程。"
+  },
+  {
+   "cn": "传递",
+   "en": "transmission",
+   "source": "物理学名词",
+   "wordNumber": "01.0204",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "透射",
+   "en": "transmission",
+   "source": "物理学名词",
+   "wordNumber": "04.0865",
+   "subjectFullName": "物理学_光学、声学_光学_波动光学、信息光学",
+   "subjectName": "波动光学、信息光学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "透射",
+   "en": "transmission",
+   "source": "核医学名词",
+   "wordNumber": "03.0216",
+   "subjectFullName": "核医学_核医学设备与操作_成像设备",
+   "subjectName": "成像设备",
+   "publishYear": "2018",
+   "definition": "射线从物体的一边进入，穿透物体后从另一边射出的过程。"
+  },
+  {
+   "cn": "传输",
+   "en": "transmission",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.0846",
+   "subjectFullName": "计算机科学技术_计算机硬件_计算机工程设计",
+   "subjectName": "计算机工程设计",
+   "publishYear": "2018",
+   "definition": "将信号沿着介质由源传送到目的地的过程。"
+  },
+  {
+   "cn": "透射",
+   "en": "transmission",
+   "source": "计量学名词",
+   "wordNumber": "13.013",
+   "subjectFullName": "计量学_光学_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2015",
+   "definition": "辐射在不改变其单色成分的频率时穿过介质的现象。"
+  },
+  {
+   "cn": "透射",
+   "en": "transmission",
+   "source": "放射医学与防护名词",
+   "wordNumber": "05.146",
+   "subjectFullName": "放射医学与防护_放射防护_放射防护监测",
+   "subjectName": "放射防护监测",
+   "publishYear": "2014",
+   "definition": "电离辐射穿过物质时其辐射强度虽减弱，但方向未发生改变的现象。"
+  },
+  {
+   "cn": "传变",
+   "en": "transmission",
+   "source": "中医药学名词",
+   "wordNumber": "03.768",
+   "subjectFullName": "中医药学_中医基础理论_病机",
+   "subjectName": "病机",
+   "publishYear": "2004",
+   "definition": "病位的传移和病情的变化。"
+  },
+  {
+   "cn": "透射",
+   "en": "transmission",
+   "source": "电气工程名词",
+   "wordNumber": "22.011",
+   "subjectFullName": "电气工程_电气照明",
+   "subjectName": "电气照明",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "传输",
+   "en": "transmission",
+   "source": "电子学名词",
+   "wordNumber": "03.390",
+   "subjectFullName": "电子学_电子线路与网络",
+   "subjectName": "电子线路与网络",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "大气传输模式",
+   "en": "atmospheric transmission model",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "穿透",
+   "en": "transmission",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "传导",
+   "en": "transmission",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "传送",
+   "en": "transmission",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "发射",
+   "en": "transmission",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "传输",
+   "en": "transmission",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "传动，传输",
+   "en": "transmission",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "透射率",
+   "en": "transmissivity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "透射率",
+   "en": "transmissivity",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "可传性",
+   "en": "transmissibility",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "透射率",
+   "en": "transmissivity",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "传输模式",
+   "en": "transmission mode\",\"transmission pattern",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "提升传输，加重传输",
+   "en": "emphasis transmission\",\"slope transmission",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "神经肌[肉]传递",
+   "en": "neuromuscular transmission",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "突触传递",
+   "en": "synaptic transmission",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "透射函数",
+   "en": "transmission function",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "透射系数",
+   "en": "transmission coefficient",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "电动传送",
+   "en": "electric transmission",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "传动滞后",
+   "en": "transmission lag",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "传输线",
+   "en": "transmission line",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "信息传播模型",
+   "en": "information transmission model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "传动装置",
+   "en": "gear\",\"transmission",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据传输",
+   "en": "data transmission",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "传输介质",
+   "en": "transmission medium",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无线传输",
+   "en": "wireless transmission",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "二级传播（继发性传播）",
+   "en": "secondary transmission",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_传播途径_方式",
+   "subjectName": "方式",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "飞沫传播",
+   "en": "droplet transmission",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_传播途径_方式",
+   "subjectName": "方式",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "接触传播",
+   "en": "contact transmission ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_传播途径_方式",
+   "subjectName": "方式",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "气溶胶传播",
+   "en": "aerosol transmission",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_传播途径_方式",
+   "subjectName": "方式",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "传染性",
+   "en": "transmissibility; infectivity",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "传播方式",
+   "en": "mode of transmission",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_传播途径_方式",
+   "subjectName": "方式",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "光传输网",
+   "en": "optical transmission network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "全视角传输",
+   "en": "full view transmission",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据传输安全",
+   "en": "data transmission security",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "传染途径",
+   "en": "route of transmission",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_传播途径_方式",
+   "subjectName": "方式",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "粪口传播",
+   "en": "fecal-oral transmission",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_传播途径_方式",
+   "subjectName": "方式",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "透射",
+   "en": "transmission",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.2.21",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_外照射屏蔽防护设计",
+   "subjectName": "外照射屏蔽防护设计",
+   "publishYear": "2025",
+   "definition": "电离辐射穿过物质时其辐射强度虽减弱，但方向未发生改变的现象。"
+  },
+  {
+   "cn": "介水传播",
+   "en": "waterborne transmission",
+   "source": "消毒学",
+   "wordNumber": "4.1.4.13.2.2",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "以水为媒介或经病原体污染的水所致感染的传播过程。"
+  },
+  {
+   "cn": "医源性传播",
+   "en": "iatrogenic transmission",
+   "source": "消毒学",
+   "wordNumber": "4.1.4.13.4.1",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "在医学服务中因病原体传播引起的感染。"
+  },
+  {
+   "cn": "输血传播",
+   "en": "transfusion transmission",
+   "source": "消毒学",
+   "wordNumber": "4.1.4.13.4.2",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "通过输血过程引起的病原体传播。"
+  },
+  {
+   "cn": "生物传播",
+   "en": "biological transmission",
+   "source": "消毒学",
+   "wordNumber": "4.1.4.13.5.2",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "病原体必须在节肢动物体内增殖和（或）发育才能传递到人的传播方式。"
+  },
+  {
+   "cn": "机械传播",
+   "en": "mechanical transmission",
+   "source": "消毒学",
+   "wordNumber": "4.1.4.13.5.3",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "病原体仅通过节肢动物的携带传递到人的传播方式。"
+  },
+  {
+   "cn": "传播途径",
+   "en": "transmission route",
+   "source": "消毒学",
+   "wordNumber": "4.6.8",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "病原体从传染源排出体外，经过一定的传播方式，到达与侵入新的易感者的过程。"
+  },
+  {
+   "cn": "飞沫传播",
+   "en": "droplet transmission",
+   "source": "消毒学",
+   "wordNumber": "4.6.8.1",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "感染者在咳嗽、打喷嚏或说话时产生含病原微生物的飞沫，扩散到他人的呼吸道黏膜和眼黏膜导致疾病传播的过程。"
+  },
+  {
+   "cn": "空气传播",
+   "en": "airborne transmission",
+   "source": "消毒学",
+   "wordNumber": "4.6.8.2",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "含有感染性病原体的微粒子（≤5μm）通过空气流动导致疾病传播的过程。"
+  },
+  {
+   "cn": "接触传播",
+   "en": "contact transmission",
+   "source": "消毒学",
+   "wordNumber": "4.6.8.3",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "病原体通过手、媒介直接或间接接触导致传播的过程。"
+  },
+  {
+   "cn": "垂直传播",
+   "en": "vertical transmission",
+   "source": "消毒学",
+   "wordNumber": "4.6.8.4",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "也称“母婴传播”。婴儿出生前、出生过程中或出生后，病原体经母体卵巢、子宫或胎盘、初乳等传给子代的过程。"
+  },
+  {
+   "cn": "媒介生物传播",
+   "en": "vector transmission",
+   "source": "消毒学",
+   "wordNumber": "4.6.8.5",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "被病原体感染的吸血节肢动物，如蚊、人虱、白玲、鼠蚤、蜱和螨等，叮咬时把病原体传给易感者的过程。"
+  },
+  {
+   "cn": "性传播",
+   "en": "sexual transmission",
+   "source": "消毒学",
+   "wordNumber": "4.6.8.10",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "通过与异性或同性感染者性行为导致感染的过程。"
+  },
+  {
+   "cn": "透射系数",
+   "en": "transmission coefficient",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.2.24",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_外照射屏蔽防护设计",
+   "subjectName": "外照射屏蔽防护设计",
+   "publishYear": "2025",
+   "definition": "设置屏蔽之后某关心点处的射线量占初始射线的份额，是衰减倍数的倒数。"
+  },
+  {
+   "cn": "型号",
+   "en": "model",
+   "source": "消毒学",
+   "wordNumber": "5.2.8",
+   "subjectFullName": "消毒学_监督管理_产品监管",
+   "subjectName": "产品监管",
+   "publishYear": "2025",
+   "definition": "用来区别不同消毒器械的编号。"
+  },
+  {
+   "cn": "传播方式",
+   "en": "mode of transmission",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.12",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "从传染源至侵入新的易感宿主前，在外环境中所经历的全部过程"
+  },
+  {
+   "cn": "间接接触传播",
+   "en": "indirect contact transmission",
+   "source": "消毒学",
+   "wordNumber": "4.6.8.3.1",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "易感者接触被污染的中间对象（如污染的环境和物品）而导致病原体的传播的过程。"
+  },
+  {
+   "cn": "直接接触传播",
+   "en": "direct contact transmission",
+   "source": "消毒学",
+   "wordNumber": "4.6.8.3.2",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "易感者与传染者直接接触而导致病原体传播的过程。"
+  },
+  {
+   "cn": "消化道传播",
+   "en": "digestive tract transmission",
+   "source": "消毒学",
+   "wordNumber": "4.6.8.6",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "病原体污染食物、水源或食具，易感者进食时获得感染的过程，如伤寒、细菌性痢疾和霍乱等。"
+  },
+  {
+   "cn": "血液传播",
+   "en": "blood fluid transmission",
+   "source": "消毒学",
+   "wordNumber": "4.6.8.7",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "通过输血、血液制品、锐器伤、分娩、性交等接触带有病原体的血液而感染的过程。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

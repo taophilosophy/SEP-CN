@@ -1,0 +1,742 @@
+{
+ "key": "sensitivity analysis",
+ "term": "sensitivity analysis",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T04:49:20+00:00",
+ "status": "ok",
+ "note": "variant=sensitivity analysis; 审定公布名词库=2913; 海峡两岸名词对照库=1020; 其他来源数据库=91; 预公布名词数据库=162; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "灵敏度分析",
+   "en": "sensitivity analysis",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "05.132",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程系统优化",
+   "subjectName": "过程系统优化",
+   "publishYear": "2024",
+   "definition": "揭示优化问题的解对模型和数据的变化的灵敏度的方法。"
+  },
+  {
+   "cn": "敏感性分析",
+   "en": "sensitivity analysis",
+   "source": "城乡规划学名词",
+   "wordNumber": "04.021",
+   "subjectFullName": "城乡规划学_城乡规划技术科学_城乡规划分析与优化技术",
+   "subjectName": "城乡规划分析与优化技术",
+   "publishYear": "2021",
+   "definition": "选定对项目具有影响的不确定性因素，分析、测算其影响程度和敏感性程度，进而判断项目承受风险能力的一种不确定性分析方法。"
+  },
+  {
+   "cn": "灵敏度分析",
+   "en": "sensitivity analysis",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0116",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械设计_设计工具",
+   "subjectName": "设计工具",
+   "publishYear": "2021",
+   "definition": "模型特性和行为对其输入变量或参数扰动的效应分析。"
+  },
+  {
+   "cn": "敏感性分析",
+   "en": "sensitivity analysis",
+   "source": "电力名词",
+   "wordNumber": "03.215",
+   "subjectFullName": "电力_电力规划、设计与施工",
+   "subjectName": "电力规划、设计与施工",
+   "publishYear": "2020",
+   "definition": "在电力工程财务评价时,需对可能的物价总水平变动因素,对项目赢利能力和补偿能力的影响,进行的分析。重点是投资指标、上网电量、安全条件和燃料价格,以合理估计本项目的竞争能力。"
+  },
+  {
+   "cn": "敏感性分析",
+   "en": "sensitivity analysis",
+   "source": "食品科学技术名词",
+   "wordNumber": "05.0555",
+   "subjectFullName": "食品科学技术_食品营养_荟萃分析和系统综述",
+   "subjectName": "荟萃分析和系统综述",
+   "publishYear": "2020",
+   "definition": "排除某个研究后，重新估计合并效应量，并与未排除前的荟萃分析结果进行比较，探讨该研究对合并效应量的影响程度及结果稳健性。"
+  },
+  {
+   "cn": "灵敏度分析",
+   "en": "sensitivity analysis",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "06.145",
+   "subjectFullName": "图书馆·情报与文献学_情报分析与研究_竞争情报",
+   "subjectName": "竞争情报",
+   "publishYear": "2019",
+   "definition": "研究系统（或模型）的状态或输出变化对系统参数或周围条件变化的敏感程度的方法。用于分析企业内部或外部竞争环境的变化对企业产生的影响。"
+  },
+  {
+   "cn": "敏感度分析",
+   "en": "sensitivity analysis",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0462",
+   "subjectFullName": "管理科学技术_运筹与管理_评价理论与方法",
+   "subjectName": "评价理论与方法",
+   "publishYear": "2016",
+   "definition": "用以确定一个系统对特定输入或其他因素变化的敏感程度的方法。常用于方案论证或项目的可行性研究。"
+  },
+  {
+   "cn": "灵敏度分析",
+   "en": "sensitivity analysis",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0022",
+   "subjectFullName": "管理科学技术_运筹与管理_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "研究当规划问题的参数发生变化时，问题的解和相应的目标值发生的变化的方法。常用于方案论证或项目的可行性研究。"
+  },
+  {
+   "cn": "敏感性分析",
+   "en": "sensitivity analysis",
+   "source": "建筑学名词",
+   "wordNumber": "05.0060",
+   "subjectFullName": "建筑学_建筑经济_经济评价",
+   "subjectName": "经济评价",
+   "publishYear": "2014",
+   "definition": "针对各种不确定因素的变化，考察其对项目基本方案主要经济评价指标的影响程度，从而判断哪些因素对指标影响最为敏感。是不确定性分析的主要方法之一。"
+  },
+  {
+   "cn": "敏感性分析",
+   "en": "sensitivity analysis",
+   "source": "药学名词",
+   "wordNumber": "10.029",
+   "subjectFullName": "药学_药物经济学",
+   "subjectName": "药物经济学",
+   "publishYear": "2014",
+   "definition": "用来测定某种分析结果(如成本–效果分析、决策分析)可靠性的方法。通过检验重要变量(如成本、结果、事件的概率等)可能的变化范围来判断对分析结果产生影响的程度。"
+  },
+  {
+   "cn": "敏感性分析",
+   "en": "sensitivity analysis",
+   "source": "地理学名词",
+   "wordNumber": "25.064",
+   "subjectFullName": "地理学_数量地理学",
+   "subjectName": "数量地理学",
+   "publishYear": "2006",
+   "definition": "对模型中参数的小变化可能导致的状态变化的研究。"
+  },
+  {
+   "cn": "敏感性分析",
+   "en": "sensitivity analysis",
+   "source": "水利科学技术名词",
+   "wordNumber": "16.088",
+   "subjectFullName": "水利科学技术_水利经济_经济评价（水利）",
+   "subjectName": "经济评价（水利）",
+   "publishYear": "1997",
+   "definition": "计算分析在经济评价或财务评价中由于价格、工期或其他因素估计偏大或偏小某一数量，而对评价指标所产生影响的工作。"
+  },
+  {
+   "cn": "灵敏度分析",
+   "en": "sensitivity analysis",
+   "source": "化学工程名词",
+   "wordNumber": "05.165",
+   "subjectFullName": "化学工程_过程系统工程_过程优化",
+   "subjectName": "过程优化",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "敏感性分析",
+   "en": "sensitivity analysis",
+   "source": "石油名词",
+   "wordNumber": "02.1074",
+   "subjectFullName": "石油_油气地质勘探_油气资源评价",
+   "subjectName": "油气资源评价",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "灵敏度分析",
+   "en": "sensitivity analysis",
+   "source": "数学名词",
+   "wordNumber": "011.0317",
+   "subjectFullName": "数学_运筹学_参数规划",
+   "subjectName": "参数规划",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "灵敏度分析",
+   "en": "sensitivity analysis",
+   "source": "自动化名词",
+   "wordNumber": "03.247",
+   "subjectFullName": "自动化科学技术_自动化技术系统_系统工程",
+   "subjectName": "系统工程",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "生态敏感性分析",
+   "en": "eco-sensitivity analysis",
+   "source": "风景园林名词",
+   "wordNumber": "06.0106",
+   "subjectFullName": "风景园林_风景园林设计_设计分析",
+   "subjectName": "设计分析",
+   "publishYear": "2025",
+   "definition": "根据主要生态环境问题的形成机制，分析生态环境敏感性的区域分布规律，明确特定生态环境问题可能发生的地区范围与可能程度。"
+  },
+  {
+   "cn": "多因素敏感性分析",
+   "en": "multiway sensitivity analysis",
+   "source": "药学名词",
+   "wordNumber": "10.031",
+   "subjectFullName": "药学_药物经济学",
+   "subjectName": "药物经济学",
+   "publishYear": "2014",
+   "definition": "测定多个因素同时变化对分析结果影响的方法。常用于多因素间彼此不独立的情况。"
+  },
+  {
+   "cn": "单因素敏感性分析",
+   "en": "oneway sensitivity analysis",
+   "source": "药学名词",
+   "wordNumber": "10.030",
+   "subjectFullName": "药学_药物经济学",
+   "subjectName": "药物经济学",
+   "publishYear": "2014",
+   "definition": "测定单个因素对分析结果影响的方法，是敏感性分析的最简单形式。"
+  },
+  {
+   "cn": "概率敏感性分析",
+   "en": "probabilistic sensitivity analysis",
+   "source": "药学名词",
+   "wordNumber": "10.032",
+   "subjectFullName": "药学_药物经济学",
+   "subjectName": "药物经济学",
+   "publishYear": "2014",
+   "definition": "根据各不确定因素的概率分布进行随机取值，测定不确定因素对分析结果影响程度的方法。"
+  },
+  {
+   "cn": "灵敏度分析",
+   "en": "sensitivity analysis",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "敏感度分析",
+   "en": "sensitivity analysis",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "敏感性分析",
+   "en": "sensitivity analysis",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "灵敏度，敏感度",
+   "en": "sensitivity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "灵敏度",
+   "en": "sensitivity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "敏感度",
+   "en": "sensitivity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "灵敏度",
+   "en": "sensitivity",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "灵敏度，敏感性",
+   "en": "sensitivity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "敏感性",
+   "en": "sensitivity",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "灵敏度",
+   "en": "sensitivity",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "敏感性",
+   "en": "sensitivity",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "敏感性",
+   "en": "sensitivity",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "敏化剂",
+   "en": "sensitizer",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "敏感化",
+   "en": "sensitization",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "致敏性",
+   "en": "sensitization",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "敏化剂",
+   "en": "sensitizer",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "感光",
+   "en": "sensitization",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "敏化",
+   "en": "sensitization",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "增敏",
+   "en": "sensitization",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "气候敏感性",
+   "en": "climatic sensitivity\",\"climate sensitivity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "敏感数据",
+   "en": "sensitive data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "序贯分析",
+   "en": "sequential analysis",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "回归分析",
+   "en": "regression analysis",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "相关分析",
+   "en": "correlation analysis",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "情感分析",
+   "en": "sentiment analysis",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "需求分析",
+   "en": "requirement analysis",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "采样分析",
+   "en": "sampling analysis",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "描述性分析",
+   "en": "descriptive analysis",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "预测性分析",
+   "en": "predictive analysis",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "聚类分析",
+   "en": "cluster analysis",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "可视化分析",
+   "en": "visual analysis",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "链接分析",
+   "en": "link analysis",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "轨迹分析",
+   "en": "trajectory analysis",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "敏感性分析",
+   "en": "sensitivity analysis",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.5.6",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "排除某个研究后，重新估计合并效应量，并与未排除前的荟萃分析结果进行比较，并对合并效应量的影响程度及结果稳健性进行分析的过程。"
+  },
+  {
+   "cn": "灵敏度",
+   "en": "sensitivity",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.1.1",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_辐射探测基本量",
+   "subjectName": "辐射探测基本量",
+   "publishYear": "2025",
+   "definition": "反映探测系统探测视野内所发生事件的能力。一般用很低活度的放射源进行测定，用单位活度的辐射源所产生的计数率表示。"
+  },
+  {
+   "cn": "增敏剂",
+   "en": "sensitizer",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.4.8",
+   "subjectFullName": "食品卫生学_食源性疾病_食物过敏",
+   "subjectName": "食物过敏",
+   "publishYear": "2025",
+   "definition": "一种不定期接触能够诱导免疫介导的超敏反应（包括过敏性光敏反应）的物质，并且再次接触该物质后超敏反应会更加明显。"
+  },
+  {
+   "cn": "敏感性检验",
+   "en": "sensitivity testing",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.1.4.10",
+   "subjectFullName": "食品卫生学_食品污染_食品生物性危害因素",
+   "subjectName": "食品生物性危害因素",
+   "publishYear": "2025",
+   "definition": "按预先设定的评价基准，对样品的特性进行评定。用于选择或培训评价员，包括阈检验和稀释检验。"
+  },
+  {
+   "cn": "光敏性",
+   "en": "light sensitivity",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.3.8",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理",
+   "subjectName": "辐射测量原理",
+   "publishYear": "2025",
+   "definition": "某些电离辐射剂量计在辐照前后，表征辐射效应的某个量在光照（可见光或紫外光）作用下发生变化（增多或减少）的特性。这种特性多存在于一些无源剂量计，如热释光剂量计、化学剂量计等。"
+  },
+  {
+   "cn": "敏感",
+   "en": "immunity sensitivity",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.4.4",
+   "subjectFullName": "食品卫生学_食源性疾病_食物过敏",
+   "subjectName": "食物过敏",
+   "publishYear": "2025",
+   "definition": "机体对无害物质产生过敏反应。"
+  },
+  {
+   "cn": "亚硫酸盐敏感",
+   "en": "sulfite sensitivity",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.5.4",
+   "subjectFullName": "食品卫生学_食源性疾病_其他食源性疾病",
+   "subjectName": "其他食源性疾病",
+   "publishYear": "2025",
+   "definition": "亚硫酸盐是食品中常见的漂白剂、防腐剂和抗氧化剂，由于食用含有该物质的食物而出现哮喘、过敏或其他异常反应的疾病。"
+  },
+  {
+   "cn": "致敏",
+   "en": "sensitization, priming",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.1.20",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫应答",
+   "subjectName": "免疫应答",
+   "publishYear": "2025",
+   "definition": "以不足以使生物系统产生反应的少量刺激物作用于该系统，却能使其对特定的刺激物产生更为强大的生理响应的现象。如小剂量的脂质炎症因子提高炎细胞对炎症介质的敏感性，从而增强了炎性细胞的浸润和吞噬等功能。"
+  },
+  {
+   "cn": "敏感人群",
+   "en": "sensitive population",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.129",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "因暴露而容易受到不良健康影响的人群，包括儿童、孕妇及老人等"
+  },
+  {
+   "cn": "放射敏感器官",
+   "en": "radiation sensitive organ",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.2.12",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护_放射工作人员职业健康检查",
+   "subjectName": "放射工作人员职业健康检查",
+   "publishYear": "2025",
+   "definition": "人体不同组织器官对放射的敏感性不同，通常骨髓、卵巢、睾丸、眼晶状体和甲状腺敏感，也是放射工作人员职业健康检查中重点关注的组织器官。"
+  },
+  {
+   "cn": "性别敏感政策",
+   "en": "gender-sensitive policies",
+   "source": "社会学名词",
+   "wordNumber": "3.2.6.13",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别与发展",
+   "subjectName": "性别与发展",
+   "publishYear": "2025",
+   "definition": "具有社会性别意识和敏感性的公共政策。认为不同性别的生存与发展是由社会性别关系、社会性别权力、社会性别地位等决定的，因而不同性别有着不同的需求以及可能相冲突的利益点，需要充分评估和考察每一项政策显性和隐"
+  },
+  {
+   "cn": "过程分析法",
+   "en": "process analysis",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0604",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "美国人类学家特纳（Victor Turner）针对要如何去探索仪式象征意义而提出的研究方法，即任何有关象征的实证研究至少需要从三个不同层面来进行分析。（1）当地人（包括当地仪式专家和普通人）对仪式、象"
+  },
+  {
+   "cn": "仪器分析",
+   "en": "instrumental analysis",
+   "source": "消毒学",
+   "wordNumber": "6.1.13",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "基于物质的物理或化学性质，使用仪器对该物质进行定性或定量分析的方法。"
+  },
+  {
+   "cn": "联合分析",
+   "en": "pooled analysis",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.1.4",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "放射流行病学研究中常用的综合性统计分析方法，将按照共同研究计划开展的一个以上的流行病学研究的原始数据或整理后的数据合并在一起进行的统计分析。其目的是提高统计把握度。不同于基于公开文献研究数据的meta"
+  },
+  {
+   "cn": "活化分析",
+   "en": "activation analysis",
+   "source": "放射卫生学",
+   "wordNumber": "5.3.1.1",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测技术_通用监测技术",
+   "subjectName": "通用监测技术",
+   "publishYear": "2025",
+   "definition": "通过测量经辐射活化产生的放射性核素的辐射特征实现元素、核素的定性或定量分析的方法。"
+  },
+  {
+   "cn": "安全分析",
+   "en": "safety analysis",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.6.2",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_分析评估",
+   "subjectName": "分析评估",
+   "publishYear": "2025",
+   "definition": "评估与设施运行或活动进行相关的潜在危害。"
+  },
+  {
+   "cn": "叙事分析",
+   "en": "narrative analysis",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.3",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "针对以故事形式呈现的各种文本的一组研究方法。"
+  },
+  {
+   "cn": "话语分析",
+   "en": "discourse analysis",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.10",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "为了揭示人们对社会世界的观感及其构造，对自然产生的口头的或书面的语言及其语境进行分析的方法。"
+  },
+  {
+   "cn": "谈话分析",
+   "en": "conversation analysis",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.11",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "对参与者在对话过程中口头和非口头的行为进行分析的方法。认为参与者通过组织这些行为从事社会行动和社会事务。"
+  },
+  {
+   "cn": "内容分析",
+   "en": "content analysis",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.15",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "以系统和定量的方式刻画给定文本的意义的分析技术。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

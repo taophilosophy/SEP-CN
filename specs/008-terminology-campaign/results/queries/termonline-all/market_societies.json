@@ -1,0 +1,702 @@
+{
+ "key": "market societies",
+ "term": "market societies",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T04:54:02+00:00",
+ "status": "ok",
+ "note": "variant=market societies; 审定公布名词库=1966; 海峡两岸名词对照库=808; 其他来源数据库=299; 预公布名词数据库=239; jwt-direct（JWT 直连，raw 略；已滤维基 11 条）",
+ "hits": [
+  {
+   "cn": "社会",
+   "en": "society",
+   "source": "计划生育名词",
+   "wordNumber": "01.165",
+   "subjectFullName": "计划生育_计划生育国策、生殖健康及人口学_人口学",
+   "subjectName": "人口学",
+   "publishYear": "2019",
+   "definition": "以共同的物质生产活动为基础而相互联系的人的总体。是人交互作用的产物。"
+  },
+  {
+   "cn": "社群",
+   "en": "society",
+   "source": "生态学名词",
+   "wordNumber": "06.201",
+   "subjectFullName": "生态学_群落生态学",
+   "subjectName": "群落生态学",
+   "publishYear": "2006",
+   "definition": "同种动物个体共同生活在一起，通过社会等级、领域行为和社会分工而相互作用形成的群体组织。"
+  },
+  {
+   "cn": "市场",
+   "en": "market",
+   "source": "农学名词",
+   "wordNumber": "19.098",
+   "subjectFullName": "农业经济与管理_农业市场与贸易",
+   "subjectName": "农业市场与贸易",
+   "publishYear": "2025",
+   "definition": "发生商品和服务交易的系统或场所。既包括由参与商品和服务交换的主体、行为、规则和程序等交易要素及其维护制度组成的系统，也包含具备交易要素及发生交易行为的具体物理空间意义上的场所。"
+  },
+  {
+   "cn": "市场",
+   "en": "market",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0013",
+   "subjectFullName": "管理科学技术_市场营销_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "一项产品或服务所有现实和潜在顾客的集合。"
+  },
+  {
+   "cn": "市",
+   "en": "market",
+   "source": "建筑学名词",
+   "wordNumber": "07.0003",
+   "subjectFullName": "建筑学_中外建筑历史_中国古代建筑史(史前~公元1911年)",
+   "subjectName": "中国古代建筑史(史前~公元1911年)",
+   "publishYear": "2014",
+   "definition": "古代贸易的场所。据《考工记》中“面朝后市”的记载，说明战国时期市已成为城市的重要组成。西汉长安有九个市场，市的平面为方形，四周有墙，墙上设门。市内有十字或井字形街道，两侧分列商铺；其中心设市楼，为市政"
+  },
+  {
+   "cn": "市场",
+   "en": "market",
+   "source": "建筑学名词",
+   "wordNumber": "02.0595",
+   "subjectFullName": "建筑学_建筑类型及组成_商业服务建筑",
+   "subjectName": "商业服务建筑",
+   "publishYear": "2014",
+   "definition": "聚集大量出租性、综合、独立的店铺进行货物交易买卖的场所。"
+  },
+  {
+   "cn": "市场",
+   "en": "market",
+   "source": "世界历史名词",
+   "wordNumber": "02.0524",
+   "subjectFullName": "世界历史_古代中世纪_西欧",
+   "subjectName": "西欧",
+   "publishYear": "2012",
+   "definition": "中世纪西欧规模较小的贸易集市，是城市与周围地区进行商品交换的媒介。"
+  },
+  {
+   "cn": "市场",
+   "en": "market",
+   "source": "地理学名词",
+   "wordNumber": "18.210",
+   "subjectFullName": "地理学_经济地理学",
+   "subjectName": "经济地理学",
+   "publishYear": "2006",
+   "definition": "商品交换的场所。"
+  },
+  {
+   "cn": "营销",
+   "en": "marketing",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "21.131",
+   "subjectFullName": "新闻学与传播学_广告_广告营销",
+   "subjectName": "广告营销",
+   "publishYear": "2022",
+   "definition": "企业准确发现或挖掘消费者需求，从整体氛围的营造以及自身产品形态的营造去推广和销售产品的过程。主要是深挖产品的内涵，切合准消费者的需求，从而让消费者深刻了解该产品进而购买该产品的过程。"
+  },
+  {
+   "cn": "市场营销",
+   "en": "marketing",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0001",
+   "subjectFullName": "管理科学技术_市场营销_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "为顾客创造、沟通以及传递价值，并以有利于组织及其利益相关者的方式管理顾客关系的一套流程、活动和组织职能。"
+  },
+  {
+   "cn": "适销性",
+   "en": "marketability",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0813",
+   "subjectFullName": "管理科学技术_一般管理理论_创业管理",
+   "subjectName": "创业管理",
+   "publishYear": "2016",
+   "definition": "企业的产品必须符合客户购买该商品的一般目的的特性。即客户依照相关价格和条件可以合理期望该产品应当具有的正常品质或特质。"
+  },
+  {
+   "cn": "市场营销",
+   "en": "marketing",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "10.080",
+   "subjectFullName": "全科医学与社区卫生_社区卫生服务管理",
+   "subjectName": "社区卫生服务管理",
+   "publishYear": "2014",
+   "definition": "个人或群体通过市场同他人交换有价值的产品，以满足各自的需要的一种社会活动。"
+  },
+  {
+   "cn": "老龄化社会",
+   "en": "aging society",
+   "source": "急救医学名词",
+   "wordNumber": "03.867",
+   "subjectFullName": "急救医学_日常医学急救_老年学_老年流行病学",
+   "subjectName": "老年流行病学",
+   "publishYear": "2025",
+   "definition": "60岁及以上的人口占总人口的10%以上，或65岁及以上的人口占总人口的7%以上的社会现象。"
+  },
+  {
+   "cn": "风险社会",
+   "en": "risk society",
+   "source": "自然辩证法名词",
+   "wordNumber": "01.079",
+   "subjectFullName": "自然辩证法_总论_科学、技术与社会",
+   "subjectName": "科学、技术与社会",
+   "publishYear": "2024",
+   "definition": "“全球性风险”占据主导地位的社会历史发展阶段。一个系统性应对其自身现代化过程所导致的各种危险和不安全因素的社会，也是一个愈加关注未来与安全的社会。"
+  },
+  {
+   "cn": "工业社会",
+   "en": "industrial society",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.031",
+   "subjectFullName": "自然辩证法_科学、技术与社会_科学、技术与社会概论",
+   "subjectName": "科学、技术与社会概论",
+   "publishYear": "2024",
+   "definition": "一个用技术来实现大规模生产的社会。工业社会是在工业革命后的一段时间内在西方世界发展起来的。大规模的工业体系逐渐形成，出现了人口向城市集中和繁杂的劳动分工体系的专业化现象，形成了现代社会的官僚制度以及教"
+  },
+  {
+   "cn": "信息社会",
+   "en": "information society",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.032",
+   "subjectFullName": "自然辩证法_科学、技术与社会_科学、技术与社会概论",
+   "subjectName": "科学、技术与社会概论",
+   "publishYear": "2024",
+   "definition": "一种以电子信息技术为基础，以信息资源为基本发展资源，以信息服务性产业为基本社会产业，以数字化和网络化为基本社会交往方式的新型社会。"
+  },
+  {
+   "cn": "知识社会",
+   "en": "knowledge society",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.040",
+   "subjectFullName": "自然辩证法_科学、技术与社会_科学、技术与社会概论",
+   "subjectName": "科学、技术与社会概论",
+   "publishYear": "2024",
+   "definition": "以知识与创新为核心的社会，以知识经济为主体，强调借由知识的不断创新、累积、应用与分化，促进产业进步，引导个人、组织和社会的成长与发展。"
+  },
+  {
+   "cn": "技术社会",
+   "en": "technological society",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.117",
+   "subjectFullName": "自然辩证法_科学、技术与社会_技术与社会",
+   "subjectName": "技术与社会",
+   "publishYear": "2024",
+   "definition": "解释学对技术社会的理解。一是理解为社会发展的技术统治阶段，这个时期技术成为统治和控制社会的力量；二是理解为以技术为交往媒介和中心的交往共同体；三是理解为以技术作为职业或工作核心的人员构成的社会。"
+  },
+  {
+   "cn": "监视社会",
+   "en": "surveillance society",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.131",
+   "subjectFullName": "新闻学与传播学_政治传播_政治传播基础",
+   "subjectName": "政治传播基础",
+   "publishYear": "2022",
+   "definition": "一种通过监视方能部分运转的社会，个人和群体生活中的信息被广泛收集、记录、存储、分析和应用。"
+  },
+  {
+   "cn": "规训社会",
+   "en": "disciplinary society",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.132",
+   "subjectFullName": "新闻学与传播学_政治传播_政治传播基础",
+   "subjectName": "政治传播基础",
+   "publishYear": "2022",
+   "definition": "一种权力机制，调节个人在社会机构中的行为。其通过调节空间(建筑等)、时间(时间表)和人们的活动与行为(训练，姿势，运动)的组织来加以完成。规训是在复杂的监视系统的帮助下执行的。福柯使用“规训社会”一词"
+  },
+  {
+   "cn": "社群",
+   "en": "society",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "市场",
+   "en": "market",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "后现代社会",
+   "en": "postmodern societies",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "文明社会",
+   "en": "civilized societies",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "异地社会",
+   "en": "foreign societies",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "种内社会",
+   "en": "intraspecific society",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "地方社会",
+   "en": "local society",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "多元社会",
+   "en": "plural society",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "氏族社会",
+   "en": "clan society",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "偶见群",
+   "en": "casual society",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "[动物]社群",
+   "en": "[animal] society",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "目标市场",
+   "en": "target market",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "目标市场",
+   "en": "target market",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "市场篮子",
+   "en": "market basket",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "新地理学会",
+   "en": "new Geographical Societies",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "市场研究",
+   "en": "market research",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "市场成本",
+   "en": "market cost",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "市值",
+   "en": "market value",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "市价",
+   "en": "market price",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "市场定位",
+   "en": "market positioning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "信息社会",
+   "en": "Information Society",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信用社会",
+   "en": "Credit Society",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "可编程社会",
+   "en": "programmable society",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "区块链社会",
+   "en": "blockchain society",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智能社会",
+   "en": "smart society",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "共享型社会",
+   "en": "Sharing Society",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智慧社会",
+   "en": "Smart Society",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智慧社会",
+   "en": "smart society",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《超智能社会：社会5.0》（日本）",
+   "en": "Super Smart Society: Society 5.0 (Japan)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社会",
+   "en": "society",
+   "source": "马克思主义",
+   "wordNumber": "03.0152",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "由人与人形成的关系总和。其中生产关系是社会关系的基础。广义的社会包括人类的经济、政治、文化、社会等各种关系和结构。狭义的社会是单指经济、政治、文化以外的社区、家庭等社会学意义上的关系和结构。"
+  },
+  {
+   "cn": "社会",
+   "en": "society",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.008",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "由自我繁殖的个体构建而成的、占据一定的空间且具有其独特的文化和风俗习惯的群体。"
+  },
+  {
+   "cn": "市",
+   "en": "market",
+   "source": "社会学名词",
+   "wordNumber": "3.4.12.2",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_中国古代城市",
+   "subjectName": "中国古代城市",
+   "publishYear": "2025",
+   "definition": "临时或定期集中一地进行的贸易活动。也指城市中划定的贸易之所或商业区。"
+  },
+  {
+   "cn": "市场",
+   "en": "market",
+   "source": "马克思主义",
+   "wordNumber": "02.0226",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "商品交换关系的总和，是商品经济的必然产物。有时也指某种特定交易场所或机制，如消费品、生产资料、货币、劳动力等交换空间或机制。"
+  },
+  {
+   "cn": "市场",
+   "en": "market ",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.1",
+   "subjectFullName": "",
+   "subjectName": "市场",
+   "publishYear": "2025",
+   "definition": "狭义上是商品交换的场所，广义上为商品交换关系的总和。"
+  },
+  {
+   "cn": "市场",
+   "en": "market",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0156",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "买卖双方进行商品交换的场所。经济人类学认为市场并非自然的存在，“市场的自我调节功能”是经济学上的一个假设，而非实然的真理。"
+  },
+  {
+   "cn": "市场化",
+   "en": "marketization",
+   "source": "马克思主义",
+   "wordNumber": "02.0427",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "指资源配置和经济活动主要通过市场机制来实现，同时更好地发挥政府作用。"
+  },
+  {
+   "cn": "市场营销",
+   "en": "marketing",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0189",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "企业在变化的市场环境中，围绕满足消费者需求、实现自身经营发展目标而进行的商务活动过程。包括市场调查与市场预测、选择目标市场、产品开发、产品定价、渠道选择、产品促销、产品储存和运输、产品销售、提供服务等"
+  },
+  {
+   "cn": "市场化",
+   "en": "marketization",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0175",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "在经济活动中，以市场为导向和基础，通过竞争、供需关系和价格机制等市场机制来实现资源配置和经济发展的一种经济运行方式。"
+  },
+  {
+   "cn": "复杂社会",
+   "en": "complex societies",
+   "source": "社会学名词",
+   "wordNumber": "4.2.6.13",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_社会组织",
+   "subjectName": "社会组织",
+   "publishYear": "2025",
+   "definition": "以社会分工为基本特色的有机整体。复杂社会是现代人衡量文明的形成的标准。"
+  },
+  {
+   "cn": "东方社会",
+   "en": "oriental societies",
+   "source": "马克思主义",
+   "wordNumber": "03.0030",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "马克思、恩格斯所讲的东方社会主要指俄国、印度、中国等这些殖民地、半殖民地和半封建国家。他们对于东方社会自身历史中“停滞性”“亚细亚生产方式”和所遭受残酷的殖民侵略与剥削等进行研究和探讨，对东方社会进行"
+  },
+  {
+   "cn": "宗法社会",
+   "en": "patriarchal society",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.16",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "实行宗法制度的社会。宗法的核心是强调嫡长子继承制，对继嗣、婚姻和丧葬方面进行了严格的礼仪规定。封建衰落之后，随着士人阶层的兴起不再是贵族专属而推广到社会中。这一社会的特点是形成“家、国、天下”的观念和"
+  },
+  {
+   "cn": "原始社会",
+   "en": "primitive society",
+   "source": "社会学名词",
+   "wordNumber": "2.1.1.4",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会形态",
+   "subjectName": "社会形态",
+   "publishYear": "2025",
+   "definition": "“完全形成的人”的社会形态。人类最早的成熟的社会形态。以原始氏族与部落成员共同占有生产资料、共同生产与消费为基础的社会类型。"
+  },
+  {
+   "cn": "奴隶社会",
+   "en": "slave society",
+   "source": "社会学名词",
+   "wordNumber": "2.1.1.5",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会形态",
+   "subjectName": "社会形态",
+   "publishYear": "2025",
+   "definition": "以奴隶主占有奴隶和生产资料为基础的、劳动生产活动以奴隶为主的社会。人类历史上第一个人剥削人的私有制社会形态。"
+  },
+  {
+   "cn": "封建社会",
+   "en": "feudal society",
+   "source": "社会学名词",
+   "wordNumber": "2.1.1.6",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会形态",
+   "subjectName": "社会形态",
+   "publishYear": "2025",
+   "definition": "狭义指经济上以农奴制或领主制为基础的（即以农奴主或领主占有土地和部分占有农奴人身并以此剥削农奴剩余劳动为基础的）、社会政治上以等级分封为特征的社会；广义指以（包括农奴主或领主在内的）所有类型的封建地主"
+  },
+  {
+   "cn": "资本主义社会",
+   "en": "capitalist society",
+   "source": "社会学名词",
+   "wordNumber": "2.1.1.7",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会形态",
+   "subjectName": "社会形态",
+   "publishYear": "2025",
+   "definition": "以资本家私人占有生产资料，工人出卖劳动力和剥削雇佣劳动为基础的社会。被认为是人类历史上最后一个人剥削人的社会形态。"
+  },
+  {
+   "cn": "社会主义社会",
+   "en": "socialist society",
+   "source": "社会学名词",
+   "wordNumber": "2.1.1.8",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会形态",
+   "subjectName": "社会形态",
+   "publishYear": "2025",
+   "definition": "以生产资料社会主义公有制为基础的、实行按劳分配原则的社会形态。共产主义社会初级阶段的社会组织形式。"
+  },
+  {
+   "cn": "共产主义社会",
+   "en": "communist society",
+   "source": "社会学名词",
+   "wordNumber": "2.1.1.9",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会形态",
+   "subjectName": "社会形态",
+   "publishYear": "2025",
+   "definition": "在生产资料公有制的条件下，在高度发达的社会生产力的基础上，实行“各尽所能、按需分配”原则的、无剥削、无阶级的劳动者自由联合体。共产主义社会高级阶段的社会组织形式。"
+  },
+  {
+   "cn": "工业社会",
+   "en": "industrial society",
+   "source": "社会学名词",
+   "wordNumber": "2.1.2.2",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会形式",
+   "subjectName": "社会形式",
+   "publishYear": "2025",
+   "definition": "以近现代科技为引领，以大机器工业和社会化生产为经济主导成分的社会。处于农业社会之后的社会发展阶段。"
+  },
+  {
+   "cn": "信息社会",
+   "en": "information society",
+   "source": "社会学名词",
+   "wordNumber": "2.1.2.4",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会形式",
+   "subjectName": "社会形式",
+   "publishYear": "2025",
+   "definition": "在工业化基础上，以互联网、物联网（包括云计算、大数据、人工智能等）为代表的信息化日益起到突出作用的社会。与后工业社会概念意义相近。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
