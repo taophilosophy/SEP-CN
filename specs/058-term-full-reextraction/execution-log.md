@@ -124,3 +124,11 @@
 * 排除 18 条：Selig（诗人）、Shanahan（占位生年）、Simmons（生物力学家）、Skow／Uniacke（无生卒）、Solomon／Ubaldo／Wagener／Yin Xian（单名或描述过弱）、Squatrito（非哲学家）、Stanhope（代际不符）、Stephens（馆员）、Tian Pian（占位生年，行内已有凭证）、Turner（作曲家）、Weckert（占位生年）、Weinrich（身份存疑）。
 * 方法事故与撤回：把 Van Cleve「美国／哲学」、van Gelder「澳大利亚／认知科学」误判为籍属污染并改写，核对全表发现「国籍／领域」是通行体例（1,041 行如此），已恢复原值；教训＝改存量字段前先量体例基线。
 * 证据：`results/backfill-auto-2026-11-23.tsv` 追加 30 行。`registry_azsort` 守恒 4597；`check_terms` 硬错误 0，缺项告警 769→763。
+
+## 2026-11-23：术语第五批（43 条）
+
+* 自后缀筛结果第 61–120 位取 43 条，全部先查审定库（31 条实查 ok、12 条已有凭证）。
+* 审定对口者 10 条：普通语义学、数学直觉、临摹性原则（亦作“拷贝原则”）、无类理论、约束理论、良序原则、玻尔对应原理（审定作“对应原理”）、实体实在论、批判理性主义、有效场理论（亦作“有效场论”）。
+* 其余 33 条 A 档直裁；佛教概念 storehouse consciousness 按传统译名取“阿赖耶识（藏识）”（语料两形各 5 篇）。
+* 译文语料计数：伯特兰悖论 2 篇（贝特朗悖论 0）、可知性悖论 11 篇、良序定理 3 篇（良序原则 0，哲学数学两义分列取原则）。
+* 落册：`term_flow` 干跑 43/0，实写 43；`registry_azsort` 术语表 7311→7354 守恒；`check_terms` 硬错误 0。清单 `tasks/manifests/2026-11-23-058-batch11-terms.json`。
