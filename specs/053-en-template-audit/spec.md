@@ -549,27 +549,41 @@ B3.2 的 sha 全等清单即 OAIS fixity 账的实现形态；与 ADR-0076 已�
 
 **教训**：①账只能记「md 里不可辨」的形态差；裸装与否正是这种（C 统一转 `> …`）——但一个账只解一层，解完首裂会推进到下一层，**要按「首裂签名聚类」排队而不是按族名清单排队**；②0 转池的前置件也值得上：它让后续每一族的可对齐面变大，且失池风险为零（B3.1 无账路径不变）。
 
+## 10.31 第三十一批：`_link` URL 白名单（2026-11-24）
+
+**缺陷**：`_link` 对 md 里**一切** `[…](…)` 形态都当链接还原。但 md 链接的 URL 是**闭集**（全库普查 25,679 条：`http(s):`／`../assets/`／`../`／`#`／`notes.html#`／`slug(.slug)*.md`／`X.html(#frag)?`）；闭集之外的 `](…)` 是**上游记号的字面文本**——ambiguity 判例：H0 原文 regimented 记号 `[∀<em>x</em>:Bachelor(…)](Unmarried(<em>x</em>,<em>w</em>))`，md 原样保留，R 把它吃成 `<a href="Unmarried(x,w)">` 坏锚，文字层多出一对括号差。
+
+**修法**：`_link` 入口加白名单 `_MD_URL`（闭集七形态），不匹配即原样保留整段匹配文本。
+
+**插曲（白名单首版过紧）**：md 形态含**下划线**（`spacetime-holearg.leibniz_equivalence.md`），首版 `[a-z0-9-]+` 拒掉该合法链 → spacetime-holearg 失池；普查 944 条 md 链的实际字符集（`[a-z0-9_-]` 段名）后放宽为 `[a-z0-9_-]+(\.[A-Za-z0-9_-]+)*\.md`，复测 24/24 可池。
+
+**实测**：全量双通道 **pool 1,759→1,760（94.0%）／gap 114→113／stale 0**，池占页 **47.68%**，judge 与建池逐件同值；delta＝gap→pool 1（ambiguity）、**失池 0**；B3.1 **1,638→1,639（+1）**——白名单同时修好一件往返件。缺口普查刷新为 **md_extra 74／h0_extra 13／text 9／math 8／star 4／digit 3／entity 2**。
+
+**逐件取证定调（下一阶段）**：`script/tmp/greedy1.py`（模拟 `_sub_diff` 贪心延伸，直击文字流永不衔接处）抽 9 件取证，剩余 gap 均为**真实内容差**而非形态差：缺图注（spacetime-holearg 曾因白名单误伤、church 的 photo caption）、C 侧列表标记丢失（anaphora `(1)`）、dl 拍平致标签错位（category-theory `(C1)/(C2)` 内容错位）、缺段（presupposition）、注号形残差（pain `[10`）。不再有可批量修的机制族——下一步是逐件取证定修法通道（C 侧保真 vs R 侧修复账）。
+
+**教训**：①「`[…](…)` 形态＝链接」是过强假设——语法匹配必须配语义白名单；②白名单收窄要先普查**全部**合法形态（含下划线、大写段名），漏一类就失池一件；③首裂签名聚类给出的是**表层**裂点，真失败点要用贪心延伸探针（`greedy1.py`）直取。
+
 ## 11. 现状与下一步（开工卡，2026-11-22）
 
 **验收线现状**（现查口径，勿引快照）：
 
 | 判据 | 现状 | 取数命令 |
 | ---- | ---- | ---- |
-| B3.1 往返不动点 | **1,638/1,873（87.5%）**，第二十一批 +14（sup/sub 实体拼写右逆）、第二十五批 +1（pm-notation）；转红 3（W8 键名漂移，定案见下） | `python -B specs/053-en-template-audit/bin/reassemble.py --all --out <json>` |
-| B3.2 页面装配 | **pool 1,759（93.9%）／gap 114／stale 0**，池占页 47.64%（2026-11-23 第二十九批全量重建＋全量 judge 双通道收官） | `python -B specs/053-en-template-audit/bin/page_assemble.py --all --build` |
+| B3.1 往返不动点 | **1,639/1,873（87.5%）**，第二十一批 +14（sup/sub 实体拼写右逆）、第二十五批 +1（pm-notation）、第三十一批 +1（URL 白名单）；转红 3（W8 键名漂移，定案见下） | `python -B specs/053-en-template-audit/bin/reassemble.py --all --out <json>` |
+| B3.2 页面装配 | **pool 1,760（94.0%）／gap 113／stale 0**，池占页 47.68%（2026-11-24 第三十一批全量重建＋全量 judge 双通道收官） | `python -B specs/053-en-template-audit/bin/page_assemble.py --all --build` |
 | I2/I3 转换保真 | `--gate` 0 issue（1,873 全过） | `python -B tools/check_yuanwen_fidelity.py --gate` |
 | 全库门禁 | check_all 17 项全绿 | `python -B tools/check_all.py` |
 
-**缺口 114 分族**（`script/tmp/b32_families2.py <scan-json>`；分族普查须在每次转池后重跑）：2026-11-23 第二十九批收官普查为 **md_extra 75／h0_extra 13／text 9／math 8／star 4／digit 3／entity 2**。已解族：表题 `caption`（第十四批）、书目区无年份散文、书目区取域与注释（第十六批）、致谢区识别（第十七批）、related 前导竖线与希腊公式形（第十八批）、嵌套引块与 layout 陈年（第十九批）、书目散文 `note-<年>` 键（第二十批）、sup/sub 实体拼写与字形（第二十一批）、跨岛实体差（第二十二批）、行内公式 `\$` 双源（第二十三批）、题后散字与裸名条目（第二十四批）、嵌套表与管道格内 raw 表（第二十五批）、脚注引用形与内部链接消歧（第二十六批）、带片段的裸兄弟文件链（第二十七批）、宏↔裸字形之希腊-cursive 区（第二十八批）、账锚方括号保护（第二十九批）、引块形态账 bq（第三十批，前置件）。
+**缺口 113 分族**（`script/tmp/b32_families2.py <scan-json>`；分族普查须在每次转池后重跑）：2026-11-24 第三十一批收官普查为 **md_extra 74／h0_extra 13／text 9／math 8／star 4／digit 3／entity 2**。已解族：表题 `caption`（第十四批）、书目区无年份散文、书目区取域与注释（第十六批）、致谢区识别（第十七批）、related 前导竖线与希腊公式形（第十八批）、嵌套引块与 layout 陈年（第十九批）、书目散文 `note-<年>` 键（第二十批）、sup/sub 实体拼写与字形（第二十一批）、跨岛实体差（第二十二批）、行内公式 `\$` 双源（第二十三批）、题后散字与裸名条目（第二十四批）、嵌套表与管道格内 raw 表（第二十五批）、脚注引用形与内部链接消歧（第二十六批）、带片段的裸兄弟文件链（第二十七批）、宏↔裸字形之希腊-cursive 区（第二十八批）、账锚方括号保护（第二十九批）、引块形态账 bq（第三十批，前置件）、`_link` URL 白名单（第三十一批）。
 
-**md_extra 75 件再分族（批准项①，按 `plain()` 文字流首差内容形态）**：`script/tmp/fam_md_extra2.py`（文字流首差＋H0 标记上下文）与 `classify_diff_content.py`（差异内容形态）两段可复算，2026-11-23 第二十九批复算计数：math-delim 15／space-ent 5／table-pipe 1／marker 1／其余 53：
+**md_extra 74 件再分族（批准项①，按 `plain()` 文字流首差内容形态）**：`script/tmp/fam_md_extra2.py`（文字流首差＋H0 标记上下文）与 `classify_diff_content.py`（差异内容形态）两段可复算，2026-11-24 第三十一批复算计数：math-delim 15／space-ent 5／table-pipe 1／marker 1／其余 52：
 
 | 子族 | 件数 | 判例与机制 |
 | ---- | ---- | ---- |
 | 数学定界/宏形 | 15 | 细分：显示式取域/宏形 8 件（criminal-law／geometry-finitism／logic-intensional／logic-power-games／logic-probability／propositional-function／ramsey／recursive-functions）；弯引号与 `&prime;` 实体形 3 件（generalized-quantifiers／logic-higher-order／intuitionistic-logic-development）；定界符形 1 件（discourse-representation-theory `\[\cb{`）；其余 3 件待逐件取证。希腊-cursive 族已于第二十八批清零（`&nbsp;` 填充另单列为 space-ent 5 件） |
 | 空白实体 | 5 | `&nbsp;`/`&thinsp;` 实体形差（显示式前导等）；2026-11-23 复核：五件段数差 11–109，**真正阻塞是结构层段数不等**，空白仅是首差形态，不宜单列修法 |
 | 表管/标记 | 2 | anaphora `(1)` 列表标记丢失；表 `\|\|` 分隔（aristotle-mathematics） |
-| 其余 | 53 | 窗口内无显著形态特征（多为书目/区结构错位），待逐件取证 |
+| 其余 | 52 | 窗口内无显著形态特征（多为书目/区结构错位），待逐件取证 |
 
 > 脚注引用形子族已于第二十六批清零（12 件全转池）。
 

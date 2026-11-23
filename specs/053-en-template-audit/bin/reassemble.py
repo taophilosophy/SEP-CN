@@ -606,9 +606,20 @@ def _inline_md_to_html(text):
     s = _unsubsup(s, SUP_REV, "sup")
     s = _unsubsup(s, SUB_REV, "sub")
     # 链接（分类还原；页内锚/index.html 链接 C 本就丢弃 → 纯文本）
+    _MD_URL = re.compile(r"(?:https?:|\.\./|#|notes\.html#)"
+                         r"|^[a-z0-9_-]+(\.[A-Za-z0-9_-]+)*\.md$"
+                         r"|^[A-Za-z0-9._-]+\.html(#.+)?$")
+
     def _link(m):
         t, url = m.group(1), m.group(2)
         t = t.replace("\x06", "[").replace("\x07", "]")   # 账插入的方括号占位还原
+        if not _MD_URL.match(url):
+            # md 链接 URL 是闭集（普查 25,679 条：http／assets／../／#／notes／
+            # slug(.slug)*.md／X.html(#frag)?）。闭集之外的 `](…)` 是**上游记号
+            # 的字面文本**（ambiguity 判例：`[∀x:Bachelor(w,x)](Unmarried(x,w))`
+            # 是 H0 原文的 regimented 记号），当链接吃掉会产生 `<a href=
+            # "Unmarried(x,w)">` 这类坏锚。原样保留整段匹配。
+            return m.group(0)
         if url.startswith(("http://", "https://")):
             # 站点惯例：外链带 target="other"（正文 21,345:1,440 实测；异形入补集）
             return '<a href="%s" target="other">%s</a>' % (url, t)
