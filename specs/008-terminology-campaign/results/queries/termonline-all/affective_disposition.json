@@ -1,0 +1,782 @@
+{
+ "key": "affective disposition",
+ "term": "affective disposition",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T05:00:05+00:00",
+ "status": "ok",
+ "note": "variant=affective disposition; 审定公布名词库=976; 海峡两岸名词对照库=283; 其他来源数据库=25; 预公布名词数据库=43; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "情感",
+   "en": "affection",
+   "source": "睡眠医学名词",
+   "wordNumber": "2.191",
+   "subjectFullName": "睡眠医学_睡眠生理与心理基础_睡眠心理基础",
+   "subjectName": "睡眠心理基础",
+   "publishYear": "2022",
+   "definition": "人对客观事物是否满足自己的需要而产生的态度体验。是与人的社会性需要相联系的主观体验。具有较大的稳定性、深刻性和持久性。"
+  },
+  {
+   "cn": "情感",
+   "en": "affection",
+   "source": "行为医学名词",
+   "wordNumber": "4.067",
+   "subjectFullName": "行为医学_行为的心理学基础_情绪与行为",
+   "subjectName": "情绪与行为",
+   "publishYear": "2022",
+   "definition": "一种和人的社会需要相联系的主观体验。具有较大的稳定性、深刻性和持续性。"
+  },
+  {
+   "cn": "情感",
+   "en": "affection",
+   "source": "精神医学名词",
+   "wordNumber": "02.205",
+   "subjectFullName": "精神医学_症状与体征_情感障碍症状",
+   "subjectName": "情感障碍症状",
+   "publishYear": "2019",
+   "definition": "与人的社会性需要相联系的主观体验。是较短暂的一种心理状态。具有较大的稳定性、深刻性和持久性。"
+  },
+  {
+   "cn": "情感",
+   "en": "affection",
+   "source": "心理学名词",
+   "wordNumber": "02.727",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "与人的社会性需要相联系的主观体验。具有较大的稳定性、深刻性和持久性。"
+  },
+  {
+   "cn": "情感",
+   "en": "affect",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "04.191",
+   "subjectFullName": "阿尔茨海默病_精神与心理认知学",
+   "subjectName": "精神与心理认知学",
+   "publishYear": "2019",
+   "definition": "个体对客观事物态度的体验，与态度中的内向感受、意向具有协调一致性。态度在生理上是一种较复杂而又稳定的生理评价和体验。包括道德感和价值感两个方面。具体表现为爱情、幸福、仇恨、厌恶、美感等。情绪倾向于个体"
+  },
+  {
+   "cn": "植物配置",
+   "en": "plant disposition",
+   "source": "风景园林名词",
+   "wordNumber": "09.0289",
+   "subjectFullName": "风景园林_风景园林植物_风景园林植物规划设计",
+   "subjectName": "风景园林植物规划设计",
+   "publishYear": "2025",
+   "definition": "按照植物生态习性和园林布局的要求，合理安排园林中的各种植物（乔木、灌木、花卉、草坪和地被植物等），以发挥其园林功能和观赏特性的方法。是园林规划设计的重要环节。"
+  },
+  {
+   "cn": "文件处置",
+   "en": "records disposition",
+   "source": "档案学名词",
+   "wordNumber": "03.02.003",
+   "subjectFullName": "档案学_档案管理_档案鉴定",
+   "subjectName": "档案鉴定",
+   "publishYear": "2024",
+   "definition": "鉴定文件后决定采取的行动，包括移交档案馆或销毁。"
+  },
+  {
+   "cn": "处置效应",
+   "en": "disposition effect",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0151",
+   "subjectFullName": "管理科学技术_金融工程_原理",
+   "subjectName": "原理",
+   "publishYear": "2016",
+   "definition": "当投资者的投资组合中既有盈利股票又有亏损股票时，为了避免后悔，投资者倾向于较早卖出盈利股票，而将亏损股票保留在投资组合中，回避实现损失的行为。"
+  },
+  {
+   "cn": "药物处置",
+   "en": "drug disposition",
+   "source": "药学名词",
+   "wordNumber": "07.043",
+   "subjectFullName": "药学_药理学",
+   "subjectName": "药理学",
+   "publishYear": "2014",
+   "definition": "从药物进入机体至排出体外的过程。"
+  },
+  {
+   "cn": "文件处置办法",
+   "en": "Records Disposition Regulations",
+   "source": "档案学名词",
+   "wordNumber": "08.02.038",
+   "subjectFullName": "档案学_中国档案事业史_档案工作制度",
+   "subjectName": "档案工作制度",
+   "publishYear": "2024",
+   "definition": "档案管理办法之一。中国共产党于1931年制定的第一个档案管理办法。具体做法：将中央文件分成四大类，每一大类内的文件按十进位的方式分成政治、苏维埃、组织、宣传、妇女、军事、农民、职工、青年、党务十个小类"
+  },
+  {
+   "cn": "情感失禁",
+   "en": "affective incontinence",
+   "source": "神经外科学名词",
+   "wordNumber": "4.03",
+   "subjectFullName": "医学_神经外科学_神经系统疾病临床特征_症状",
+   "subjectName": "症状",
+   "publishYear": "2026",
+   "definition": "情绪和表情完全失去控制能力的表现。情绪不稳，激惹性增高，微不足道的诱因会引发哭泣或大笑。"
+  },
+  {
+   "cn": "情感障碍",
+   "en": "affective disorder",
+   "source": "行为医学名词",
+   "wordNumber": "16.107",
+   "subjectFullName": "行为医学_其他神经行为障碍_异常行为症状",
+   "subjectName": "异常行为症状",
+   "publishYear": "2022",
+   "definition": "情感活动异常，波动幅度过长、时间过长，反应与刺激的性质不协调的现象。可分为情感性质改变、情感波动性改变和情感协调性改变。"
+  },
+  {
+   "cn": "情感迟钝",
+   "en": "affective blunting",
+   "source": "行为医学名词",
+   "wordNumber": "16.109",
+   "subjectFullName": "行为医学_其他神经行为障碍_异常行为症状",
+   "subjectName": "异常行为症状",
+   "publishYear": "2022",
+   "definition": "对外界刺激的内心情感体验强度和情感反应强度下降的情绪状态。"
+  },
+  {
+   "cn": "情感平淡",
+   "en": "affective flattening",
+   "source": "行为医学名词",
+   "wordNumber": "16.11",
+   "subjectFullName": "行为医学_其他神经行为障碍_异常行为症状",
+   "subjectName": "异常行为症状",
+   "publishYear": "2022",
+   "definition": "对外界刺激缺乏相应情感体验或情感反应的精神病理状态。外在表现为音调平淡、面部表情或肢体语言缺乏变化或呆板。"
+  },
+  {
+   "cn": "情感性精神病",
+   "en": "affective psychosis",
+   "source": "医学遗传学名词",
+   "wordNumber": "6.13",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "一组以情感活动过度高涨或低落为基本症状的精神病。呈多基因遗传。临床特征为躁狂或抑郁反复发作，或交替发作。两次发作之间有明显的间歇期，此时精神活动完全正常。"
+  },
+  {
+   "cn": "情感性攻击",
+   "en": "affective aggression",
+   "source": "生理学名词",
+   "wordNumber": "03.662",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "情感障碍",
+   "en": "affective disorder",
+   "source": "生理学名词",
+   "wordNumber": "03.770",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "情感平淡",
+   "en": "affective flattening",
+   "source": "精神医学名词",
+   "wordNumber": "02.224",
+   "subjectFullName": "精神医学_症状与体征_情感障碍症状",
+   "subjectName": "情感障碍症状",
+   "publishYear": "2019",
+   "definition": "对外界刺激缺乏相应的情感体验或反应的一种精神病理状态。外在表现为音调平淡、面部表情或肢体语言缺乏变化或呆板。"
+  },
+  {
+   "cn": "情感麻木",
+   "en": "affective paralysis",
+   "source": "精神医学名词",
+   "wordNumber": "02.227",
+   "subjectFullName": "精神医学_症状与体征_情感障碍症状",
+   "subjectName": "情感障碍症状",
+   "publishYear": "2019",
+   "definition": "强烈的精神刺激导致情感反应出现暂时的抑制状态。见于急性应激障碍和游离转换障碍受检者。"
+  },
+  {
+   "cn": "情感迟钝",
+   "en": "affective blunting",
+   "source": "精神医学名词",
+   "wordNumber": "02.223",
+   "subjectFullName": "精神医学_症状与体征_情感障碍症状",
+   "subjectName": "情感障碍症状",
+   "publishYear": "2019",
+   "definition": "对外界刺激的内心情感体验强度及情感反应强度下降的情绪状态。"
+  },
+  {
+   "cn": "本性",
+   "en": "disposition",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "情感",
+   "en": "affection",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "配置略图",
+   "en": "disposition sketch",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "配置轴",
+   "en": "disposition axis",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "本性归因,素质归因",
+   "en": "dispositional attribution",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "药物处置",
+   "en": "disposition of drug",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "情感神经科学",
+   "en": "affective neuroscience",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "情感障碍",
+   "en": "affective disorder",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "情感性精神病",
+   "en": "affective psychosis",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "情感性预测",
+   "en": "affective forecasting",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "情感性特质",
+   "en": "affective trait",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "情感成分",
+   "en": "affective component",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "情感性承诺",
+   "en": "affective commitment",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "情意测验",
+   "en": "affective test",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "正向情感",
+   "en": "positive affect",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "负面情感",
+   "en": "negative affect",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "次要特质",
+   "en": "secondary trait\",\"secondary disposition",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "个人特质",
+   "en": "individual trait\",\"personal disposition",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "巡航编队与部署",
+   "en": "cruising formation and disposition",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "唤醒-情感模型",
+   "en": "arousal affect model",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "金融风险处置",
+   "en": "financial risk disposition",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "疫区",
+   "en": "affected area",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_场所名称",
+   "subjectName": "场所名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "数据处分权",
+   "en": "right to data disposition",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "亲亲",
+   "en": "Affection for One’s Kin",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《新冠肺炎疫情心理疏导工作方案》",
+   "en": "Work Plan on Psychological Counseling for People Affected by COVID-19",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_法规条例",
+   "subjectName": "法规条例",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "向其他出现疫情扩散的国家和地区提供力所能及的援助",
+   "en": "to provide assistance within our capacity to other countries and regions affected by the pandemic",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际援助",
+   "subjectName": "国际援助",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "CT影像",
+   "en": "computed tomography imaging",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.1-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第1部分：公用的语法规则》",
+   "en": "GB/T 14805.1-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 1: Syntax rules common to all parts",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.2-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第2部分：批式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.2-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 2: Syntax rules specific to batch EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.3-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第3部分：交互式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.3-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 3: Syntax rules specific to interactive EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.7-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第7部分：批式电子数据交换安全规则（保密性）》",
+   "en": "GB/T 14805.7-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 7: Security rules for batch EDI (Confidentiality)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.6-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第6部分：安全鉴别和确认报文（报文类型为AUTACK）》",
+   "en": "GB/T 14805.6-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 6: Secure authentication and acknowledgment  message (Message type — AUTACK)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.4-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第4部分：批式电子数据交换语法和服务报告报文（报文类型为CONTRL）》",
+   "en": "GB/T 14805.4-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 4: Syntax and service report message for batch EDI (Message type — CONTRL)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.5-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第5部分：批式电子数据交换安全规则（真实性、完整性和源抗抵赖性）》",
+   "en": "GB/T 14805.5-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 5: Security rules for batch EDI (Authenticity, integrity and non-repudiation of origin)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "有效射程",
+   "en": "effective range",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "刺中有效",
+   "en": "effective hit",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "刺中有效",
+   "en": "effective hit",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "情感障碍",
+   "en": "affective disorder",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.3.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_儿童少年行为问题",
+   "subjectName": "儿童少年行为问题",
+   "publishYear": "2025",
+   "definition": "以显著而持久的情感和心境异常改变为基本临床特征，并伴有相应的思维和行为改变的一组精神障碍。临床上，有躁狂和抑郁两种基本表现形式，分别以心境的持续性高涨或低落为主要表现。"
+  },
+  {
+   "cn": "情感反应",
+   "en": "affection reflection",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.5.1.4.3.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_学校心理卫生服务",
+   "subjectName": "学校心理卫生服务",
+   "publishYear": "2025",
+   "definition": "在学校心理咨询中，咨询者把求咨者表现出来的言语与体语情感信息以言语或体语方式反馈给对方的一种咨询技术。"
+  },
+  {
+   "cn": "受人口流动影响的儿童",
+   "en": "children affected by migration",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.4",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "由于人口流动造成家庭结构或家庭处境特殊的儿童。在中国，如农村进城务工人员的未成年子女（流动儿童），及留守儿童和流浪儿童。"
+  },
+  {
+   "cn": "受艾滋病影响儿童",
+   "en": "children affected by AIDS",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.8",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "因父母或本人感染艾滋病病毒而受到不利影响的儿童，特别是父母因艾滋病离世的孤儿。"
+  },
+  {
+   "cn": "CT值",
+   "en": "CT number，CT value",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.60",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "物质的衰减系数与水的衰减系数之差再与水的衰减系数相比之后乘以1000所得的量。单位是Hu。其不是一个绝对值，而是一个相对值，代表X射线穿过组织被吸收后的衰减值。"
+  },
+  {
+   "cn": "CT剂量指数",
+   "en": "CT dose index",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.61",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "在X射线计算机体层成像时对辐射输出剂量的一种标准化度量，用于向受检者提供剂量指示。基本CTDI表示为CTDI100，是以计算机体层成像扫描仪单次轴向采集100mm而赋予标准模体中心的平均吸收剂量值来表"
+  },
+  {
+   "cn": "γ射线工业CT设备",
+   "en": "gamma-ray industrial computed tomography equipments",
+   "source": "放射卫生学",
+   "wordNumber": "8.2.5",
+   "subjectFullName": "放射卫生学_放射卫生监管_工业及其他应用监管",
+   "subjectName": "工业及其他应用监管",
+   "publishYear": "2025",
+   "definition": "用γ射线对工件进行断层扫描成像的设备，包括CT扫描装置、数据采集与处理系统、操作台等。"
+  },
+  {
+   "cn": "容积CT剂量指数",
+   "en": "volume CT dosimetry index，CTDIvol",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.69",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "CT扫描中整个扫描范围内的平均剂量。"
+  },
+  {
+   "cn": "CT模拟定位机",
+   "en": "CT simulator",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.17",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "一种配备了放疗模拟所需装置和功能的大孔径计算机体层成像扫描仪，包括平板床、外置激光定位灯、放疗定位虚拟模拟软件等。"
+  },
+  {
+   "cn": "集体消费理论 collective consumption",
+   "en": null,
+   "source": "社会学名词",
+   "wordNumber": "3.4.5.5",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_政治经济学学派",
+   "subjectName": "政治经济学学派",
+   "publishYear": "2025",
+   "definition": "发达资本主义阶段的社会矛盾表现为城市集体消费方式问题的理论。由马克思主义城市社会学家凯斯特思(Manuel Castells）提出，认为发达资本主义阶段的社会矛盾主要是包括住房、教育、医疗、教育、文化"
+  },
+  {
+   "cn": "科马克和豪斯菲尔德发明CT技术",
+   "en": "Allan Cormack and Godfrey Hounsfield invented CT technology",
+   "source": "放射卫生学",
+   "wordNumber": "10.2.1.5",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_历史事件_重要发现与发明",
+   "subjectName": "重要发现与发明",
+   "publishYear": "2025",
+   "definition": "1967年美国籍物理学家科马克（Allan Cormack）解决了CT重建相关的数学问题。1972年豪斯菲尔德（Godfrey Hounsfield）在英国EMI实验室发明了CT扫描仪。"
+  },
+  {
+   "cn": "净人口再生产率net reproductive rate",
+   "en": null,
+   "source": "社会学名词",
+   "wordNumber": "4.5.5.4",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_人口再生产",
+   "subjectName": "人口再生产",
+   "publishYear": "2025",
+   "definition": "假设妇女从出生起就遵循当前的年龄别生育率和死亡率度过她们的一生，平均要生育的女儿数。它与粗人口再生产率有些类似，但它考虑到有些妇女可能在结束育龄期之前死亡。如果净再生产率等于1，那么就意味着每一个母亲"
+  },
+  {
+   "cn": "沉积",
+   "en": "deposition",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.10",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "放射性物质在组织或器官中积存的过程。"
+  },
+  {
+   "cn": "有效剂量",
+   "en": "effective dose",
+   "source": "放射卫生学",
+   "wordNumber": "3.3.1.7",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_辐射防护量_防护量",
+   "subjectName": "防护量",
+   "publishYear": "2025",
+   "definition": "人体各组织或器官的当量剂量乘以相应的组织权重因数后的和。SI单位为焦耳每千克，专有名称是希沃特，记作Sv。"
+  },
+  {
+   "cn": "有效剂量",
+   "en": "effective dose",
+   "source": "军事预防医学名词",
+   "wordNumber": "10.5.14.6",
+   "subjectFullName": "军事预防医学_化学武器医学防护学_化学战剂",
+   "subjectName": "化学战剂",
+   "publishYear": "2025",
+   "definition": "引起染毒人员或动物百分之九十以上产生某种毒害效应的毒剂量。"
+  },
+  {
+   "cn": "有效温度",
+   "en": "effective temperature",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.4.1.1.3",
+   "subjectFullName": "军事预防医学_热区军事卫生_热强度评价",
+   "subjectName": "热强度评价",
+   "publishYear": "2025",
+   "definition": "人体在温度、湿度和风速的综合作用下产生的热感觉指标。"
+  },
+  {
+   "cn": "有效剂量",
+   "en": "effective dose",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.4.23",
+   "subjectFullName": "食品卫生学_食品污染_食品放射性污染",
+   "subjectName": "食品放射性污染",
+   "publishYear": "2025",
+   "definition": "人体各组织或器官的当量剂量与各组织或器官相应的组织权重因数乘积之和，符号为希沃特（Sv），单位是J/kg。在防护辐照食品工作人员中，论证照射情况是否遵循放射防护标准。"
+  },
+  {
+   "cn": "紫外线有效剂量",
+   "en": "ultraviolet effective dose",
+   "source": "消毒学",
+   "wordNumber": "2.2.7.1.7",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "在一定时间内，能杀灭微生物达到合格要求的紫外线辐照剂量。单位以毫焦每平方厘米（mJ/cm2）表示。"
+  },
+  {
+   "cn": "待积有效剂量",
+   "en": "committed effective dose",
+   "source": "放射卫生学",
+   "wordNumber": "3.3.1.9",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_辐射防护量_防护量",
+   "subjectName": "防护量",
+   "publishYear": "2025",
+   "definition": "从摄入放射性物质的初始时刻（t0）开始在T 时期内（未做特殊说明时，成年人取50年，儿童取70年）对t时刻有效剂量率的积分。SI单位为焦耳每千克，专有名称是希沃特，记作Sv。"
+  },
+  {
+   "cn": "集体有效剂量",
+   "en": "collective effective dose",
+   "source": "放射卫生学",
+   "wordNumber": "3.3.1.10",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_辐射防护量_防护量",
+   "subjectName": "防护量",
+   "publishYear": "2025",
+   "definition": "给定的辐射源受照群体中所有成员所受的有效剂量之和。单位为人希沃特，记作man·Sv。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

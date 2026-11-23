@@ -1,0 +1,752 @@
+{
+ "key": "supreme emergencies",
+ "term": "supreme emergencies",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T05:05:20+00:00",
+ "status": "ok",
+ "note": "variant=supreme emergencies; 审定公布名词库=535; 海峡两岸名词对照库=97; 其他来源数据库=43; 预公布名词数据库=116; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "苏联最高苏维埃",
+   "en": "Supreme Soviet",
+   "source": "世界历史名词",
+   "wordNumber": "05.0445",
+   "subjectFullName": "世界历史_近现代俄罗斯、东欧、高加索、中亚_俄罗斯人",
+   "subjectName": "俄罗斯人",
+   "publishYear": "2012",
+   "definition": "1936年起为苏联最高国家权力机关，有权决定苏联宪法规定的由苏联管辖的一切问题。组织政府、选出苏联最高法院，任命苏联总检察长。"
+  },
+  {
+   "cn": "太微垣",
+   "en": "supreme subtlety enclosure",
+   "source": "天文学名词",
+   "wordNumber": "05.079",
+   "subjectFullName": "天文学_天文学史",
+   "subjectName": "天文学史",
+   "publishYear": "2024",
+   "definition": "“三垣”中的上垣，在紫微垣与张宿、翼宿之间。"
+  },
+  {
+   "cn": "肋间最上动脉",
+   "en": "supreme intercostal artery",
+   "source": "手外科学名词",
+   "wordNumber": "03.0449",
+   "subjectFullName": "手外科学_上肢解剖",
+   "subjectName": "上肢解剖",
+   "publishYear": "2020",
+   "definition": "肋颈干的分支。通过第一肋颈的前方，达第一、第二肋间隙中。"
+  },
+  {
+   "cn": "肋间最上动脉",
+   "en": "supreme intercostal artery",
+   "source": "人体解剖学名词",
+   "wordNumber": "05.0491",
+   "subjectFullName": "人体解剖学_脉管学_动脉",
+   "subjectName": "动脉",
+   "publishYear": "2014",
+   "definition": "发自肋颈干，随即分为两支，分布至第一、二肋间隙的动脉。"
+  },
+  {
+   "cn": "最上鼻甲",
+   "en": "supreme nasal concha",
+   "source": "人体解剖学名词",
+   "wordNumber": "02.0310，03.0427",
+   "subjectFullName": "人体解剖学_运动系统_中轴骨",
+   "subjectName": "中轴骨",
+   "publishYear": "2014",
+   "definition": "在上鼻甲的后上方，常常出现的一个更小的鼻甲。"
+  },
+  {
+   "cn": "最上鼻甲",
+   "en": "supreme nasal concha",
+   "source": "人体解剖学名词",
+   "wordNumber": "02.0310，03.0427",
+   "subjectFullName": "人体解剖学_内脏学_呼吸系统",
+   "subjectName": "呼吸系统",
+   "publishYear": "2014",
+   "definition": "上鼻甲上方的不明显隆起，由筛骨迷路内侧壁的薄骨片并覆以黏膜而成的结构。"
+  },
+  {
+   "cn": "最高枢密院",
+   "en": "Supreme Privy Council",
+   "source": "世界历史名词",
+   "wordNumber": "05.0035",
+   "subjectFullName": "世界历史_近现代俄罗斯、东欧、高加索、中亚_俄罗斯人",
+   "subjectName": "俄罗斯人",
+   "publishYear": "2012",
+   "definition": "1726-1730年，俄罗斯帝国国家最高咨询机关(7-8人)，制定国家的重大决策，试图限制君主专制，遭废除。"
+  },
+  {
+   "cn": "突现",
+   "en": "emergence",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.735",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_复杂系统科学哲学",
+   "subjectName": "复杂系统科学哲学",
+   "publishYear": "2024",
+   "definition": "在复杂系统演变与发展过程中，在宏观层次上突然出现的在结构和性能方面的质变的特性或现象。美国圣菲研究所提出，复杂性实际上就是一门关于“突现”的科学。"
+  },
+  {
+   "cn": "浮现",
+   "en": "emergence",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.232",
+   "subjectFullName": "新闻学与传播学_政治传播_公民社会与政治传播",
+   "subjectName": "公民社会与政治传播",
+   "publishYear": "2022",
+   "definition": "在哲学、系统论、科学和艺术中，更大的实体通过更小或更简单的实体之间的相互作用而生成的现象。更大的实体由此展现出更小或更简单的实体不具备的属性。"
+  },
+  {
+   "cn": "涌现",
+   "en": "emergence",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0051",
+   "subjectFullName": "管理科学技术_金融工程_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "因局部组成部分之间的交互而产生系统全局行为，或缘起于微观的宏观效应。"
+  },
+  {
+   "cn": "急救",
+   "en": "emergency",
+   "source": "急救医学名词",
+   "wordNumber": "01.002",
+   "subjectFullName": "急救医学_急救概论_急救基本概念_通用概念",
+   "subjectName": "通用概念",
+   "publishYear": "2025",
+   "definition": "对突发疾病或受到意外伤害的需要医疗干预的人员进行紧急医疗处置的过程。"
+  },
+  {
+   "cn": "应急",
+   "en": "emergency",
+   "source": "行为医学名词",
+   "wordNumber": "4.065",
+   "subjectFullName": "行为医学_行为的心理学基础_情绪与行为",
+   "subjectName": "情绪与行为",
+   "publishYear": "2022",
+   "definition": "机体应对出乎意料的突发事件、迫切需要或紧急情况的反应。"
+  },
+  {
+   "cn": "应急",
+   "en": "emergency",
+   "source": "核医学名词",
+   "wordNumber": "02.0550",
+   "subjectFullName": "核医学_核医学相关基础学科_放射防护与剂量学",
+   "subjectName": "放射防护与剂量学",
+   "publishYear": "2018",
+   "definition": "为避免事故发生或减轻事故后果而立即采取的某些超出正常工作程序的行动。"
+  },
+  {
+   "cn": "突发事件",
+   "en": "emergency",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0668",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_生产要素、安全与环境管理",
+   "subjectName": "生产要素、安全与环境管理",
+   "publishYear": "2016",
+   "definition": "突然发生，造成或者可能造成严重社会危害，需要采取应急处置措施予以应对的自然灾害、事故灾难、公共卫生事件和社会安全事件。"
+  },
+  {
+   "cn": "应急",
+   "en": "emergency",
+   "source": "放射医学与防护名词",
+   "wordNumber": "10.040",
+   "subjectFullName": "放射医学与防护_核与辐射突发事件医学应急_医学应急",
+   "subjectName": "医学应急",
+   "publishYear": "2014",
+   "definition": "需要立即采取某些超出正常工作程序的行动以避免事故发生或减轻事故后果的状态；也泛指立即采取超出正常工作程序的行动。"
+  },
+  {
+   "cn": "紧急",
+   "en": "emergency",
+   "source": "航海科技名词",
+   "wordNumber": "14.0032",
+   "subjectFullName": "航海科学技术_水上通信",
+   "subjectName": "水上通信",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "挺水植物",
+   "en": "emergent,emerged plant",
+   "source": "生态学名词",
+   "wordNumber": "16.343",
+   "subjectFullName": "生态学_水域生态学",
+   "subjectName": "水域生态学",
+   "publishYear": "2006",
+   "definition": "根长在底泥中而茎叶伸出水面并在大气中开花的植物。"
+  },
+  {
+   "cn": "太极",
+   "en": "tai ji;supreme ultimate",
+   "source": "中国古代史名词",
+   "wordNumber": "1.34",
+   "subjectFullName": "中国古代史_通论_思想文化_思想学术",
+   "subjectName": "思想学术",
+   "publishYear": "2022",
+   "definition": "《易》学思想中关于天地万物本源的基本范畴。相传子夏始阐其义，庄子以来多指天地未开、阴阳未分前，蕴有无限发展可能的一种混沌状态，阴阳万物及两仪八卦皆由此而生，后世多借此喻理申论，儒学道教等对之各有发挥。"
+  },
+  {
+   "cn": "俄国最高执政",
+   "en": "Supreme Ruler of Russia",
+   "source": "世界历史名词",
+   "wordNumber": "05.0369",
+   "subjectFullName": "世界历史_近现代俄罗斯、东欧、高加索、中亚_俄罗斯人",
+   "subjectName": "俄罗斯人",
+   "publishYear": "2012",
+   "definition": "1918-1919年白卫军首领高尔察克给自己的封号。"
+  },
+  {
+   "cn": "厂房应急",
+   "en": "emergency alert,plant emergency",
+   "source": "电力名词",
+   "wordNumber": "17.789",
+   "subjectFullName": "电力_核电",
+   "subjectName": "核电",
+   "publishYear": "2020",
+   "definition": "放射性物质的释放已经或者可能即将发生,但实际的或者预期的辐射后果仅限于场区局部区域的状态。宣布厂房应急后,营运单位应迅速采取行动缓解事故后果和保护现场人员。"
+  },
+  {
+   "cn": "太极上元",
+   "en": "supreme epoch\",\"supreme ultimate grand origin",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "肋间最上动脉",
+   "en": "supreme intercostal artery",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "肋间最上静脉",
+   "en": "supreme intercostal vein",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "太微垣",
+   "en": "Supreme Subtlety Enclosure",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "羽化",
+   "en": "emergence",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "出现，露出",
+   "en": "emergence",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "羽化",
+   "en": "eclosion\",\"emergence",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "羽化",
+   "en": "emergence\",\"eclosion",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "成虫羽化",
+   "en": "adult emergence",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "羽化诱器,羽化期捕捉器",
+   "en": "emergence trap",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "挺水植物",
+   "en": "emerged plant",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "紧急操作",
+   "en": "emergency operation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "突生进化",
+   "en": "emergent evolution",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "新质,新生特性",
+   "en": "emergent property",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "挺水植物",
+   "en": "emerged plant",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "紧急贷款",
+   "en": "emergency loan",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "紧急关税",
+   "en": "emergency tariff",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "紧急信贷",
+   "en": "emergency credit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "紧急准备金",
+   "en": "emergency reserve",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "临时兑换券",
+   "en": "emergency note",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "涌现",
+   "en": "emergence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "关键时刻",
+   "en": "emergency",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "太极",
+   "en": "Taiji (The Supreme Ultimate)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "紧急救治",
+   "en": "emergency treatment",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗救治",
+   "subjectName": "医疗救治",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "出水",
+   "en": "emerge\",\"emersion",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_游泳名词",
+   "subjectName": "游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "上帝",
+   "en": "Supreme Ruler / Ruler of Heaven",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人工智能新兴产业",
+   "en": "emerging AI industry",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "金融突发事件应急预案",
+   "en": "financial emergency plan",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "新兴网络靶场",
+   "en": "emerging cyber range",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "突发公共卫生事件",
+   "en": "public health emergency",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_百姓生活",
+   "subjectName": "百姓生活",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "紧急水道",
+   "en": "emergency lane\",\"lane 0",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "天命靡常",
+   "en": "Heaven-bestowed Supreme Power Is Not Eternal.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "金融风险应急处置",
+   "en": "financial risk emergency response",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "政府应急管理平台",
+   "en": "government emergency management platform",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "总制院",
+   "en": "Supreme Control Commission",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0235",
+   "subjectFullName": "民族学与文化学_民族史_民族政治",
+   "subjectName": "民族政治",
+   "publishYear": "2025",
+   "definition": "元代中央机构名。元至元元年（1264）始置，管理全国佛教事务及吐蕃地方军政事务。至元二十五年（1288），改称宣政院。"
+  },
+  {
+   "cn": "应急",
+   "en": "emergency",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.1.1",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "需要立即采取某些超出正常工作程序的行动以避免核或辐射事故发生或减轻核或辐射事故后果的状态；也泛指立即采取超出正常工作程序的行动。"
+  },
+  {
+   "cn": "应急照射",
+   "en": "emergency exposure",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.5.3",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_一般要求",
+   "subjectName": "一般要求",
+   "publishYear": "2025",
+   "definition": "在紧急情况下受到的照射。包括紧急情况直接导致的非计划照射以及为减轻紧急情况后果而采取行动的人员受到的有计划的照射。"
+  },
+  {
+   "cn": "应急准备",
+   "en": "emergency preparedness",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.1",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "为应对核或辐射紧急情况而进行的准备工作。包括制定应急计划，建立应急组织，准备必要的应急设施、设备与物资，以及进行人员培训与演习等。"
+  },
+  {
+   "cn": "应急计划",
+   "en": "emergency plan",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.1.8",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "为应对核或辐射紧急情况所制定并实施的一种经审批的文件或一组程序。它描述了该文件的编制与实施单位的应急响应功能、组织、设施和设备，以及和外部应急组织间的协调和相互支持关系。该文件还必须有专门的执行程序加"
+  },
+  {
+   "cn": "应急程序",
+   "en": "emergency procedure",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.1.9",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "详细描述应急响应人员在核或辐射紧急情况下需要采取的行动的一系列指示。"
+  },
+  {
+   "cn": "应急安排",
+   "en": "emergency arrangement",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.1.10",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "在应急准备阶段落实的一组规则，以提供为执行响应核或辐射应急所要求的规定职能或任务的能力。可以包括管理机构和责任、组织、协调、人员、计划、程序、设施、设备或培训。"
+  },
+  {
+   "cn": "应急等级",
+   "en": "emergency class",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.1.12",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "有必要立即做出相似应急响应的一系列状态。用来向响应部门和公众通报所需的响应水平。针对每个应急等级，预先规定了响应部门的初始行动。"
+  },
+  {
+   "cn": "应急状态分级",
+   "en": "emergency classification",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.1.13",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "对某种应急状态进行分级以便宣布适用的应急等级的过程。应急等级一经宣布，响应部门就要启动适合这一应急等级的预先规定的响应行动。"
+  },
+  {
+   "cn": "应急待命",
+   "en": "emergency standby",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.1.13.1",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "出现可能危及核设施安全的工况或事件时的应急状态。需要迅速采取应急措施和进行评价，加强运营单位的响应准备，并视情况加强地方政府的响应准备。"
+  },
+  {
+   "cn": "厂房应急",
+   "en": "plant emergency",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.1.13.2",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "放射性物质的释放已经或者可能即将发生，但实际的或者预期的辐射后果仅限于场区局部区域的状态。需要迅速采取行动缓解事故后果和保护现场人员。"
+  },
+  {
+   "cn": "应急演习",
+   "en": "emergency exercise",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.1.14",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "为检验应急计划的有效性、应急准备的完善性、应急能力的适应性和应急人员的协同性所进行的一种模拟应急响应的实践活动。"
+  },
+  {
+   "cn": "应急培训",
+   "en": "emergency training",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.1.15",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "根据应急工作的需要，对管理人员或专业人员进行的教学与训练。"
+  },
+  {
+   "cn": "应急设施",
+   "en": "emergency facility",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.1.16",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "用于紧急处理事故的设施。对核电厂而言，一般包括备用控制室、技术支援中心、应急控制中心、事故后果评价设施、应急监测设施、医学救护设施、后勤支援设施以及应急新闻中心等。"
+  },
+  {
+   "cn": "应急响应",
+   "en": "emergency response",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "旨在缓解核或辐射紧急情况对人员健康和安全、生活质量、财产和环境的影响所采取的行动。它也可以为恢复正常的社会和经济活动提供基础。"
+  },
+  {
+   "cn": "应急服务",
+   "en": "emergency service",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.4",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "在场外履行应急响应功能的当地响应部门提供的服务。这些服务包括派出警察、消防员和救援队、救护与监测人员和危险品管制小组等。"
+  },
+  {
+   "cn": "应急阶段",
+   "en": "emergency phase",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.11",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "从发现有必要作出应急响应的情况直至完成预期的或对紧急情况头几个月内预期的放射学状况作出响应所采取的所有行动的这段时间。"
+  },
+  {
+   "cn": "应急工作人员",
+   "en": "emergency worker",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.16",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "在发生核或辐射突发事件时承担特定职责人员，并在应急响应行动中可能受到照射的任何工作人员。"
+  },
+  {
+   "cn": "跨国紧急情况",
+   "en": "transnational emergency",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.24",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "在一个以上国家发生的具有实际、可能或察觉到放射学意义的核或辐射紧急情况。"
+  },
+  {
+   "cn": "应急管理",
+   "en": "emergency management",
+   "source": "放射卫生学",
+   "wordNumber": "8.3.10",
+   "subjectFullName": "放射卫生学_放射卫生监管_放射建设项目",
+   "subjectName": "放射建设项目",
+   "publishYear": "2025",
+   "definition": "避免事故发生或减轻事故后果，需要立即采取某些超出正常工作程序的行动。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,632 @@
+{
+ "key": "motor theory",
+ "term": "motor theory",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T05:02:38+00:00",
+ "status": "ok",
+ "note": "variant=motor theory; 审定公布名词库=3123; 海峡两岸名词对照库=867; 其他来源数据库=176; 预公布名词数据库=265; jwt-direct（JWT 直连，raw 略；已滤维基 18 条）",
+ "hits": [
+  {
+   "cn": "电动机",
+   "en": "motor",
+   "source": "电力名词",
+   "wordNumber": "23.198",
+   "subjectFullName": "电力_配电与用电",
+   "subjectName": "配电与用电",
+   "publishYear": "2020",
+   "definition": "依靠电磁感应原理运行的旋转电磁机械,用于实现电能向机械能的转换,运行时从电系统吸收电功率,向机械系统输出机械功率。"
+  },
+  {
+   "cn": "电动机",
+   "en": "motor",
+   "source": "物理学名词",
+   "wordNumber": "03.0866",
+   "subjectFullName": "物理学_电磁学",
+   "subjectName": "电磁学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "电动机",
+   "en": "motor",
+   "source": "建筑学名词",
+   "wordNumber": "14.0475",
+   "subjectFullName": "建筑学_建筑设备与系统_强电系统与设备部件",
+   "subjectName": "强电系统与设备部件",
+   "publishYear": "2014",
+   "definition": "应用电磁感应原理实现电能向机械能转换的旋转电磁机械。"
+  },
+  {
+   "cn": "电动机",
+   "en": "motor",
+   "source": "电气工程名词",
+   "wordNumber": "07.021",
+   "subjectFullName": "电气工程_电机",
+   "subjectName": "电机",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "液压[油]马达",
+   "en": "oil motor,fluid motor,hydraulic motor",
+   "source": "航海科技名词",
+   "wordNumber": "15.0560",
+   "subjectFullName": "航海科学技术_轮机管理",
+   "subjectName": "轮机管理",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "马尔-阿尔布斯运动学习理论",
+   "en": "Marr-Albus theory of motor learning",
+   "source": "生理学名词",
+   "wordNumber": "03.699",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "天线电动机",
+   "en": "antenna motor,aerial motor",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "07.017",
+   "subjectFullName": "机械工程_汽车_汽车电器及汽车附属装置_汽车电器",
+   "subjectName": "汽车电器",
+   "publishYear": "2013",
+   "definition": "驱动天线升降机构的电动机。"
+  },
+  {
+   "cn": "井下动力钻具",
+   "en": "downhole motor,mud motor",
+   "source": "石油名词",
+   "wordNumber": "12.0552",
+   "subjectFullName": "石油_石油钻采机械设备",
+   "subjectName": "石油钻采机械设备",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "马达蛋白质",
+   "en": "motor protein",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "2.0489",
+   "subjectFullName": "生物化学与分子生物学_氨基酸_肽与蛋白质_蛋白质_功能性蛋白质",
+   "subjectName": "功能性蛋白质",
+   "publishYear": "2024",
+   "definition": "一类通过水解ATP（或GTP）而将化学能转换为机械能从而产生运动的蛋白质。为细胞质中的各种运动提供驱动力。典型的如肌球蛋白（为肌动蛋白马达，驱使骨骼肌收缩）、动力蛋白和驱动蛋白;后面两种为微管中的马达"
+  },
+  {
+   "cn": "运动单位",
+   "en": "motor unit",
+   "source": "麻醉学名词",
+   "wordNumber": "01.393",
+   "subjectFullName": "麻醉学_麻醉学基础_神经系统_周围神经系统解剖",
+   "subjectName": "周围神经系统解剖",
+   "publishYear": "2024",
+   "definition": "完成肌肉收缩的最小功能单位。包括前角细胞、轴突、神经肌肉接头及该轴突支配的所有肌纤维。"
+  },
+  {
+   "cn": "运动单位",
+   "en": "motor unit",
+   "source": "兽医学名词",
+   "wordNumber": "04.118",
+   "subjectFullName": "兽医学_动物生理学",
+   "subjectName": "动物生理学",
+   "publishYear": "2023",
+   "definition": "一个神经元及所支配的全部肌纤维（肌细胞）。"
+  },
+  {
+   "cn": "运动神经元",
+   "en": "motor neuron",
+   "source": "兽医学名词",
+   "wordNumber": "08.159",
+   "subjectFullName": "兽医学_家畜组织学",
+   "subjectName": "家畜组织学",
+   "publishYear": "2023",
+   "definition": "可把中枢发出的信息传至外周效应器官的神经元。如肌肉或腺体。多为多极神经元，胞体主要位于脑、脊髓和自主神经节内。"
+  },
+  {
+   "cn": "运动单位",
+   "en": "motor unit",
+   "source": "行为医学名词",
+   "wordNumber": "3.209",
+   "subjectFullName": "行为医学_行为的生物学基础_遗传学基础_运动遗传学",
+   "subjectName": "运动遗传学",
+   "publishYear": "2022",
+   "definition": "一个运动神经元及其所支配的全部肌纤维共同构成的功能单位。"
+  },
+  {
+   "cn": "液压马达",
+   "en": "hydraulic motor",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "08.1113",
+   "subjectFullName": "机械工程（一）_传动_液压传动_执行元件",
+   "subjectName": "执行元件",
+   "publishYear": "2021",
+   "definition": "液压系统中提供连续回转运动并输出转矩的液压执行器。"
+  },
+  {
+   "cn": "齿轮马达",
+   "en": "gear motor",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "08.1116",
+   "subjectFullName": "机械工程（一）_传动_液压传动_执行元件",
+   "subjectName": "执行元件",
+   "publishYear": "2021",
+   "definition": "由两个或多个啮合的齿轮作为工作件的马达。"
+  },
+  {
+   "cn": "叶片马达",
+   "en": "vane motor",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "08.1120",
+   "subjectFullName": "机械工程（一）_传动_液压传动_执行元件",
+   "subjectName": "执行元件",
+   "publishYear": "2021",
+   "definition": "转子槽内的叶片与壳体(定子环)相接触，在流入的液体作用下使转子旋转的液压马达。"
+  },
+  {
+   "cn": "柱塞马达",
+   "en": "piston motor",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "08.1124",
+   "subjectFullName": "机械工程（一）_传动_液压传动_执行元件",
+   "subjectName": "执行元件",
+   "publishYear": "2021",
+   "definition": "高压工作介质作用在活塞或柱塞的端面上，使活塞或柱塞做直线往复运动，再通过运动转换机构，将活塞或柱塞的往复运动转化为输出轴旋转运动的液压马达。"
+  },
+  {
+   "cn": "螺杆马达",
+   "en": "screw motor",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "08.1129",
+   "subjectFullName": "机械工程（一）_传动_液压传动_执行元件",
+   "subjectName": "执行元件",
+   "publishYear": "2021",
+   "definition": "高压工作介质作用在公共外套中的一根或数根相互啮合的螺杆实现轴旋转的马达。"
+  },
+  {
+   "cn": "多联马达",
+   "en": "multiple motor",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "08.1137",
+   "subjectFullName": "机械工程（一）_传动_液压传动_执行元件",
+   "subjectName": "执行元件",
+   "publishYear": "2021",
+   "definition": "具有一个公共轴的两个或多个马达的组合式马达。"
+  },
+  {
+   "cn": "双向马达",
+   "en": "reversible motor",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "08.1142",
+   "subjectFullName": "机械工程（一）_传动_液压传动_执行元件",
+   "subjectName": "执行元件",
+   "publishYear": "2021",
+   "definition": "通过互换高低压油，改变驱动轴旋转方向的液压马达。"
+  },
+  {
+   "cn": "电动机",
+   "en": "motor",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "电动机",
+   "en": "motor",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "液压[油]马达",
+   "en": "hydraulic motor\",\"fluid motor",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "鳃弓运动",
+   "en": "branchial motor",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "运动单位",
+   "en": "motor unit",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "运动根",
+   "en": "motor root",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "运动末梢",
+   "en": "motor ending",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "运动皮质",
+   "en": "motor cortex",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "运动区",
+   "en": "motor area",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "运动神经",
+   "en": "motor nerve",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "运动神经束",
+   "en": "motor tract",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "运动神经元",
+   "en": "motor neuron",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "运动纤维",
+   "en": "motor fiber",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "运动中枢",
+   "en": "motor center",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "马达蛋白[质]",
+   "en": "motor protein",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "电动机常数",
+   "en": "motor constant",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "步进电机",
+   "en": "step motor",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "平衡电动机",
+   "en": "balancing motor",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "电动机驱动器",
+   "en": "motor actuator",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "运动［技能］学习",
+   "en": "motor learning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "牵引摩托车",
+   "en": "small motor-bike",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "摩托牵引赛",
+   "en": "motor-pace race",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "动作能力",
+   "en": "motor ability",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "7.1.5.1.9",
+   "subjectFullName": "儿少与学校卫生学名词_学校体育与身体活动_学校体育",
+   "subjectName": "学校体育",
+   "publishYear": "2025",
+   "definition": "个体对基本运动技能的熟练掌握度以及完成各种运动任务的协调与物体控制能力。"
+  },
+  {
+   "cn": "动作技能",
+   "en": "motor skill",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "7.5.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校体育与身体活动_身体素养",
+   "subjectName": "身体素养",
+   "publishYear": "2025",
+   "definition": "按一定的技术要求，完成特定一套动作的能力。动作的完成在时间上、空间上各方面都已达到高度熟练自动化的程度。"
+  },
+  {
+   "cn": "大动作",
+   "en": "gross motor",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.4.1",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "牵动到大肌肉和大部分身体的运动能力，表现为躯干及四肢的整体运动。"
+  },
+  {
+   "cn": "精细动作",
+   "en": "fine motor",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.4.2",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "手及手指等部位小肌肉或肌肉群的运动能力，表现为手的灵活性、稳定性、协调性和力量。"
+  },
+  {
+   "cn": "运动障碍",
+   "en": "motor disorder",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.2.3.6",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "不能协调和支配身体随意活动的一组发育障碍类疾病，会严重且持续干扰与实际年龄相适应的日常生活活动，包括发育性协调障碍、刻板运动障碍和抽动障碍。"
+  },
+  {
+   "cn": "理论",
+   "en": "theory",
+   "source": "马克思主义",
+   "wordNumber": "01.0119",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "关于自然、社会和人自身的本质规律的抽象、合乎逻辑的一般推论或假说。理论来源于实践，接受实践的检验。理论服务于实践，随着实践的发展而发展。"
+  },
+  {
+   "cn": "原型理论",
+   "en": "prototype theory",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0031",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "认知科学的一种理论模型。认为人类对事物进行分类（范畴化）的过程并不存在非此即彼的明确界限，某一范畴中的核心成员会比其他成员更具典型性。例如在“飞禽”这个范畴里，“燕雀”比“鸡鸭”更具“飞禽”的特征。语"
+  },
+  {
+   "cn": "波浪理论",
+   "en": "wave theory",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.003",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "研究语言演变的一种动态模型。一种创新的语言特征从起源地往外扩散，其影响类似波浪扩散、随传播距离逐渐减小。"
+  },
+  {
+   "cn": "阶层化社会理论",
+   "en": "caste theory",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0143",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "美国教育人类学家奥格布（John Uzo Ogbu）提出，他认为少数民族的历史经历、社会地位以及由此造成的各种障碍等，必然会影响他们的学习态度和教育期望。"
+  },
+  {
+   "cn": "扎根理论",
+   "en": "grounded theory",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.7",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "对定性资料进行归纳、抽绎出理论概念、生成理论洞见的定性资料分析方法。是由格拉泽和施特劳斯提出的。"
+  },
+  {
+   "cn": "测量理论",
+   "en": "measurement theory",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.23",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "关于测量的性质和方法的理论。主要包括经典测量理论、概化理论和项目反应理论三种理论模型。"
+  },
+  {
+   "cn": "概化理论",
+   "en": "generalizability theory",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.33",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "克伦巴赫等人在20世纪60至70年代初提出一种测量理论。思想上，认为测量对象的值受到测量条件和环境的影响；概念上，用全域分数代替了经典测量理论的真分数，用概括化系数代替了信度；技术上，应用方法分析技术"
+  },
+  {
+   "cn": "社会理论",
+   "en": "social theory",
+   "source": "社会学名词",
+   "wordNumber": "2.1.7.6",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会意识",
+   "subjectName": "社会意识",
+   "publishYear": "2025",
+   "definition": "以社会学视角和方法对人类社会现象及问题所进行的各种系统性的理论探讨。重点涉及一切关于社会何以构成、存续和变迁的理论思考，以及关于这类理论思考何以可能（或合理）的认识论探讨。与“应用社会学”相对。"
+  },
+  {
+   "cn": "冲突理论",
+   "en": "conflict theory",
+   "source": "社会学名词",
+   "wordNumber": "2.6.6.6",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会分层理论",
+   "subjectName": "社会分层理论",
+   "publishYear": "2025",
+   "definition": "与结构功能主义理论相对立的社会学理论流派，该派理论家借鉴马克思的阶级冲突理论或马克斯•韦伯的权力冲突观点，强调个人或群体之间的经济利益冲突和权力冲突，对结构功能主义理论（特别是功能主义社会分层理论）提"
+  },
+  {
+   "cn": "现代化理论",
+   "en": "modernization theory",
+   "source": "社会学名词",
+   "wordNumber": "2.9.1.1",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_现代化理论",
+   "subjectName": "现代化理论",
+   "publishYear": "2025",
+   "definition": "产生于20世纪50、60年代，以塔尔科特帕森斯、列维（M.J.Levy）、英克尔斯（A.Inkeles）和艾森斯塔德（S.N.Eisenstadt）等人为代表，以研究传统社会的现代转化为主旨的理论。"
+  },
+  {
+   "cn": "依附理论",
+   "en": "dependency theory",
+   "source": "社会学名词",
+   "wordNumber": "2.9.2.1",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_依附理论",
+   "subjectName": "依附理论",
+   "publishYear": "2025",
+   "definition": "产生于20世纪60年代后期的一种发展理论，以弗兰克（Andre Frank）、多斯桑托斯（Theotonio Dos Santos）、阿明（Samir Amin）等人为代表，认为发达国家和发展中国家之"
+  },
+  {
+   "cn": "紧张理论",
+   "en": "strain theory",
+   "source": "社会学名词",
+   "wordNumber": "2.10.2.4",
+   "subjectFullName": "社会学名词_社会学一般概念_社会问题与社会控制_社会越轨",
+   "subjectName": "社会越轨",
+   "publishYear": "2025",
+   "definition": "解释社会越轨行为的一种理论。认为当一些人无法通过合法手段达到社会普遍认可的成功目标时，就会产生挫折感等紧张情绪，从而形成个人的目标和社会规范之间的冲突状态，进而引发越轨行为或者犯罪行为。由美国社会学家"
+  },
+  {
+   "cn": "标签理论",
+   "en": "labeling theory",
+   "source": "社会学名词",
+   "wordNumber": "2.10.2.7",
+   "subjectFullName": "社会学名词_社会学一般概念_社会问题与社会控制_社会越轨",
+   "subjectName": "社会越轨",
+   "publishYear": "2025",
+   "definition": "解释社会越轨行为的一种理论。把越轨行为分为初级越轨行为和继发越轨行为，并认为越轨行为的性质不在于行为本身，而是社会的定义和解释。因此，只有当一个行为被社会定义为越轨行为时，其行为者才会成为越轨行为者。"
+  },
+  {
+   "cn": "立场论",
+   "en": "standpoint theory",
+   "source": "社会学名词",
+   "wordNumber": "3.2.3.9",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别研究",
+   "subjectName": "性别研究",
+   "publishYear": "2025",
+   "definition": "女性主义认识论的一种主流观点，对传统认识论中的主客体两分法和价值中立的客观性原则持批判态度，认为从妇女日常生活经验和边缘化的底层立场出发，可以产生比男性主流知识更少偏见、更具有客观性的好知识。"
+  },
+  {
+   "cn": "博弈论",
+   "en": "game theory",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.14",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "研究多个个体或团队之间在特定条件制约下的对局里，利用相关方的策略而实施对应策略的理论。认为参加斗争或竞争的各方有不同的目标或利益，为了达到各自的目标和利益，各方必须考虑对手各种可能的行动方案，并力图选"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

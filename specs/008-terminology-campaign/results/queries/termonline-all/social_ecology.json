@@ -1,0 +1,682 @@
+{
+ "key": "social ecology",
+ "term": "social ecology",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T05:05:03+00:00",
+ "status": "ok",
+ "note": "variant=social ecology; 审定公布名词库=5107; 海峡两岸名词对照库=1335; 其他来源数据库=277; 预公布名词数据库=788; jwt-direct（JWT 直连，raw 略；已滤维基 13 条）",
+ "hits": [
+  {
+   "cn": "社会生态学",
+   "en": "social ecology",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.239",
+   "subjectFullName": "自然辩证法_技术哲学_环境哲学",
+   "subjectName": "环境哲学",
+   "publishYear": "2024",
+   "definition": "对生态问题进行社会学考察的一门科学。研究人类社会与环境的相互关系与作用规律以及如何从人类社会生态范畴着手解决人与自然关系问题。代表人物有默里·布克钦（Murray Bookchin）。"
+  },
+  {
+   "cn": "生态社会主义",
+   "en": "ecological socialism",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.205",
+   "subjectFullName": "自然辩证法_技术哲学_环境哲学",
+   "subjectName": "环境哲学",
+   "publishYear": "2024",
+   "definition": "兴起于20世纪下半叶，致力把工人阶级力量与生态环境保护运动相融合，在以公有制为主体的社会经济可持续发展中致力于生态文明建设进程，体现人民群众在绿色发展进程中的共同富裕，是在人与自然和谐共生的现代化进程"
+  },
+  {
+   "cn": "生态学",
+   "en": "ecology",
+   "source": "风景园林名词",
+   "wordNumber": "01.0152",
+   "subjectFullName": "风景园林_总论_风景园林相关学科",
+   "subjectName": "风景园林相关学科",
+   "publishYear": "2025",
+   "definition": "研究生命系统与其环境之间相互关系的一门学科。"
+  },
+  {
+   "cn": "生态学",
+   "en": "ecology",
+   "source": "计划生育名词",
+   "wordNumber": "01.158",
+   "subjectFullName": "计划生育_计划生育国策、生殖健康及人口学_人口学",
+   "subjectName": "人口学",
+   "publishYear": "2019",
+   "definition": "研究生命系统内及其与环境之间相互关系的科学。"
+  },
+  {
+   "cn": "生态学",
+   "en": "ecology",
+   "source": "大气科学名词",
+   "wordNumber": "08.139",
+   "subjectFullName": "大气科学_应用气象学",
+   "subjectName": "应用气象学",
+   "publishYear": "2009",
+   "definition": "研究生物之间及生物与非生物环境之间相互关系的学科。"
+  },
+  {
+   "cn": "生态学",
+   "en": "ecology",
+   "source": "生态学名词",
+   "wordNumber": "01.001",
+   "subjectFullName": "生态学_总论",
+   "subjectName": "总论",
+   "publishYear": "2006",
+   "definition": "研究生命系统与其环境之间相互关系的学科。"
+  },
+  {
+   "cn": "生态学",
+   "en": "ecology",
+   "source": "水产名词",
+   "wordNumber": "01.021",
+   "subjectFullName": "水产_水产基础科学",
+   "subjectName": "水产基础科学",
+   "publishYear": "2002",
+   "definition": "研究生物与其周围环境之间相互关系的学科。"
+  },
+  {
+   "cn": "生态",
+   "en": "ecology",
+   "source": "公路交通科技名词",
+   "wordNumber": "10.080",
+   "subjectFullName": "公路交通科学技术_公路环境保护",
+   "subjectName": "公路环境保护",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "生态主义",
+   "en": "ecologism",
+   "source": "风景园林名词",
+   "wordNumber": "06.0005",
+   "subjectFullName": "风景园林_风景园林设计_设计理论方法",
+   "subjectName": "设计理论方法",
+   "publishYear": "2025",
+   "definition": "20世纪中期对环境危机反思而生，主张转变人类与自然的关系，强调自然的限度、挑战人类中心主义的价值观，呼吁进行广泛的改革措施。"
+  },
+  {
+   "cn": "生态主义",
+   "en": "ecologism",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.204",
+   "subjectFullName": "自然辩证法_技术哲学_环境哲学",
+   "subjectName": "环境哲学",
+   "publishYear": "2024",
+   "definition": "以注重生态系统整体和谐稳定为首要价值及以人类尊重自然生态规律为行为规范的思想范式。是秉持生态环保观念和自然价值的社会有识之士在20世纪60～70年代倡导的、寻求解决区域及全球生态环境问题的观念架构及思"
+  },
+  {
+   "cn": "社会性",
+   "en": "sociality",
+   "source": "行为医学名词",
+   "wordNumber": "1.027",
+   "subjectFullName": "行为医学_总论_行为基本概念",
+   "subjectName": "行为基本概念",
+   "publishYear": "2022",
+   "definition": "集体活动中的个体或社会成员表现出的有利于集体和社会发展的特性。"
+  },
+  {
+   "cn": "社会化",
+   "en": "socialization",
+   "source": "行为医学名词",
+   "wordNumber": "5.002",
+   "subjectFullName": "行为医学_行为的社会学基础_行为社会化",
+   "subjectName": "行为社会化",
+   "publishYear": "2022",
+   "definition": "个体接受社会教化、习得言语、行为及其内在心理结构，从自然人转为合格社会成员的过程。"
+  },
+  {
+   "cn": "社群化",
+   "en": "socialization",
+   "source": "动物学名词",
+   "wordNumber": "7.0319",
+   "subjectFullName": "动物学_动物生态学_个体生态学",
+   "subjectName": "个体生态学",
+   "publishYear": "2021",
+   "definition": "个体在特定的社群生活环境中，通过各种学习行为调整自己的适应性并积极作用于社群生活的过程。是动物个体和社群相互作用的结果。"
+  },
+  {
+   "cn": "社群性",
+   "en": "sociality",
+   "source": "动物学名词",
+   "wordNumber": "7.032",
+   "subjectFullName": "动物学_动物生态学_个体生态学",
+   "subjectName": "个体生态学",
+   "publishYear": "2021",
+   "definition": "动物种群中的个体倾向于在社会群体中形成合作社会的程度。"
+  },
+  {
+   "cn": "社会化",
+   "en": "socialization",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0739",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_知识管理",
+   "subjectName": "知识管理",
+   "publishYear": "2016",
+   "definition": "通过面对面的个人经验交流来分享隐性知识的过程。"
+  },
+  {
+   "cn": "社会化",
+   "en": "socialization",
+   "source": "心理学名词",
+   "wordNumber": "07.010",
+   "subjectFullName": "心理学_社会心理学",
+   "subjectName": "社会心理学",
+   "publishYear": "2014",
+   "definition": "个体接受社会教化，习得语言、行为及其内在心理结构，从自然人转化为合格社会成员的过程。"
+  },
+  {
+   "cn": "河流生态学",
+   "en": "river ecology,stream ecology",
+   "source": "生态学名词",
+   "wordNumber": "01.031",
+   "subjectFullName": "生态学_总论",
+   "subjectName": "总论",
+   "publishYear": "2006",
+   "definition": "研究河流等流水水域中生物群落结构、功能关系、发展规律及其与环境(理化、生物)间相互作用机制的学科。"
+  },
+  {
+   "cn": "河口生态学",
+   "en": "estuarine ecology,estuary ecology",
+   "source": "生态学名词",
+   "wordNumber": "01.032",
+   "subjectFullName": "生态学_总论",
+   "subjectName": "总论",
+   "publishYear": "2006",
+   "definition": "研究河口水域中生物群落结构、功能关系、发展规律及其与环境(理化、生物)间相互作用机制的学科。"
+  },
+  {
+   "cn": "土壤生态学",
+   "en": "soil ecology",
+   "source": "地理学名词",
+   "wordNumber": "07.006",
+   "subjectFullName": "地理学_土壤地理学",
+   "subjectName": "土壤地理学",
+   "publishYear": "2006",
+   "definition": "研究土壤环境与生物间相互关系，以及生态系统内部结构、功能、平衡与演变规律的学科。"
+  },
+  {
+   "cn": "土壤生态学",
+   "en": "soil ecology",
+   "source": "土壤学名词",
+   "wordNumber": "01.014",
+   "subjectFullName": "土壤学_土壤学总论",
+   "subjectName": "土壤学总论",
+   "publishYear": "1998",
+   "definition": "研究土壤环境与生物间相互关系，以及生态系统内部结构、功能、平衡与演变规律的学科。"
+  },
+  {
+   "cn": "生态学",
+   "en": "ecology",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生态学",
+   "en": "ecology",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "生态学",
+   "en": "ecology",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "生态主义",
+   "en": "ecologism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "社会化",
+   "en": "socialization",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "社会性",
+   "en": "sociality",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "社群化",
+   "en": "socialization",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "社群性",
+   "en": "sociality",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "土壤生态学",
+   "en": "soil ecology",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "生态报复（=生态冲击）",
+   "en": "ecological boomerang (=ecological impact)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生态冲击",
+   "en": "ecological impact\",\"ecological backlash",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生态价，生态值",
+   "en": "ecological valence\",\"ecological value",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生态值（=生态价）",
+   "en": "ecological valence\",\"ecological value",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生态价,生态值",
+   "en": "ecological valence\",\"ecological valency",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "生态平衡",
+   "en": "ecological balance\",\"ecological equilibrium",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "生态工程，生态技术",
+   "en": "ecological engineering\",\"ecological technique",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "生态平衡",
+   "en": "ecological balance\",\"ecological equilibrium",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "社会寄生",
+   "en": "social parasitism\",\"social symbiosis",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "保护生态学",
+   "en": "conservation ecology",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "重建生态学（=恢复生态学）",
+   "en": "restoration ecology",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生态神学",
+   "en": "ecological theology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "生态资本",
+   "en": "ecological capital",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "生态农业",
+   "en": "ecological agriculture",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生态文化",
+   "en": "ecological culture",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "社会计算",
+   "en": "Social Computing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社会数据",
+   "en": "social data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社交软件",
+   "en": "social software",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社会生态学",
+   "en": "social ecology",
+   "source": "社会学名词",
+   "wordNumber": "2.1.7.11",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会意识",
+   "subjectName": "社会意识",
+   "publishYear": "2025",
+   "definition": "研究人类社会系统与其环境（包括自然环境与社会文化环境）相互作用规律的交叉学科，包括根据这些规律所制定的既有利于人类社会生存发展，又有助于维护自然生态平衡和天人和谐关系的最优化社会活动方案。由美国社会学"
+  },
+  {
+   "cn": "生态",
+   "en": "ecology",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0221",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "生物在一定的自然环境下生存和发展的状态，也指生物的生理特性和生活习性。"
+  },
+  {
+   "cn": "社会化",
+   "en": "socialization",
+   "source": "社会学名词",
+   "wordNumber": "2.3.1.1",
+   "subjectFullName": "社会学名词_社会学一般概念_社会化_社会化",
+   "subjectName": "社会化",
+   "publishYear": "2025",
+   "definition": "社会规范和文化价值在个体身上内化(internalize)的过程。个体在家庭、学校等社会环境中，通过多种形式的人际互动，以及知识、技能的学习，学会扮演社会角色，认同并接受群体的规范体系和意义体系，并依"
+  },
+  {
+   "cn": "社会化",
+   "en": "socialization",
+   "source": "马克思主义",
+   "wordNumber": "03.0158",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "通过社会互动而形成个体的社会属性，促使个体与社会保持一致性，实现个体的社会生活的过程。具体来说，是自然人通过各种方式逐渐学习社会知识、技能与规范，熟悉社会的风俗、习惯、道德、法律，确立生活目标、价值观"
+  },
+  {
+   "cn": "社会主义",
+   "en": "socialism",
+   "source": "马克思主义",
+   "wordNumber": "03.0170",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与资本主义对立的思想体系和社会制度。社会主义一词来源于古拉丁文，一说由socialis（同伴的、同伙的）一词引出，一说由socius（喜欢社交的）一词引出，原有社会的、共同的、集体的生活之意。科学社会"
+  },
+  {
+   "cn": "社会化",
+   "en": "socialization",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.11.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "个体接受社会教化，习得语言、行为及其内在心理结构，从自然人转化为合格社会成员的过程。"
+  },
+  {
+   "cn": "社会化",
+   "en": "socialization",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0041",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "自然人成长为社会人的过程。即一个人出生以后，通过与其他社会成员、群体和组织的互动、学习和接受社会知识、技能和规范，不断适应社会生活的过程。"
+  },
+  {
+   "cn": "社会模式",
+   "en": "social pattern，social model",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.18",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "民族国家或世界某一地区根据自己的基本国情（或地区情况）和文化传统形成的具有自身历史和文明特色的社会发展道路、社会运行机制和社会管理的一定式样。"
+  },
+  {
+   "cn": "社会环境",
+   "en": "social environment，social milieu",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.19",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "人类生存及活动范围内的社会物质与精神条件的总和。即由人与人之间各种社会关系和社会意识所形成的、人活动的外部条件及其影响的综合。包括整个经济、政治、文化和社会体系。特指人类生活的直接客观的社会条件，如家"
+  },
+  {
+   "cn": "社会分裂",
+   "en": "social cleavage，social dissociation",
+   "source": "社会学名词",
+   "wordNumber": "2.1.4.14",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会现象",
+   "subjectName": "社会现象",
+   "publishYear": "2025",
+   "definition": "社会成员或群体因在政治、经济、文化、宗教、种族或阶级等方面存在巨大差异而彼此分开并处于相互矛盾甚至敌视的状态。"
+  },
+  {
+   "cn": "社会淘汰",
+   "en": "social cleaning，social selection",
+   "source": "社会学名词",
+   "wordNumber": "2.1.5.21",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会生活",
+   "subjectName": "社会生活",
+   "publishYear": "2025",
+   "definition": "社会优胜劣汰的现象。即面对社会变迁、发展而来的新环境新事物，一些社会主体因具有适应能力而获得保留或胜出，而另一些则由于缺乏适应性而落伍甚至遭到摒弃的社会现象。"
+  },
+  {
+   "cn": "社会环境",
+   "en": "social environment;social milieu",
+   "source": "社会医学名词",
+   "wordNumber": "3.3",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "社会环境",
+   "publishYear": "2025",
+   "definition": "由人与人之间各种社会关系和社会意识所形成的、人活动的外部条件及其影响的综合。包括整个经济、政治、文化和社会体系。特指人类生活的直接客观的社会条件，如家庭、邻里、学校、劳动组织和其他社团等。与自然环境相"
+  },
+  {
+   "cn": "社会福利社会化",
+   "en": "socialization of social welfare",
+   "source": "社会学名词",
+   "wordNumber": "4.3.4.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会政策思潮及理论",
+   "subjectName": "社会政策思潮及理论",
+   "publishYear": "2025",
+   "definition": "中国经济体制改革后社会福利领域改革的指导思想，即从计划经济下福利制度中的单位小社会转向建设市场经济为导向下的社会保障制度。包括投资主体多元化、服务对象公众化、服务方式多样化和服务队伍专业化四个方面的内"
+  },
+  {
+   "cn": "社会主义社会建设",
+   "en": "social construction of socialism",
+   "source": "马克思主义",
+   "wordNumber": "03.0689",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "社会主义的社会建设中“社会”是整个社会主义社会发展中与其经济、政治、文化相并列的一个领域。社会主义的社会建设，是通过动员社会力量、整合社会资源、协调利益关系、发展社会事业、完善社会功能、健全社会保障、"
+  },
+  {
+   "cn": "组织生态",
+   "en": "organizational ecology",
+   "source": "社会学名词",
+   "wordNumber": "2.5.9.5",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织结构",
+   "subjectName": "组织结构",
+   "publishYear": "2025",
+   "definition": "在特定边界内具有共同形态的组织种群的产生、成长和死亡的过程及其与环境转变之间的相互关系。组织生态学由哈南(M.T.Hannan）与弗里曼(J.H.Freeman）在1977年提出。"
+  },
+  {
+   "cn": "人类生态学",
+   "en": "human ecology",
+   "source": "社会学名词",
+   "wordNumber": "3.4.4.3",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_城市理论或流派",
+   "subjectName": "城市理论或流派",
+   "publishYear": "2025",
+   "definition": "研究城市环境的空间分布以及人与环境关系的学说。由以派克(Robert E.Park）、伯吉斯（Ernest W.Burgess）等社会学者为代表的芝加哥学派于20世纪20年代创立，强调城市的物质环境对"
+  },
+  {
+   "cn": "种群生态理论",
+   "en": "population ecology",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.21",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "探讨在特定边界内具有共同形态的全部组织的创立、成长及死亡的过程及其与环境转变的关系的理论。强调环境对组织的选择和组织对环境的适应，是组织学研究借用生物种群生态学方法的成果。由汉南(M.T.Hannan"
+  },
+  {
+   "cn": "深层生态学",
+   "en": "deep ecology",
+   "source": "社会学名词",
+   "wordNumber": "3.14.2.8",
+   "subjectFullName": "社会学名词_分支社会学_环境社会学_现代环境社会学理论",
+   "subjectName": "现代环境社会学理论",
+   "publishYear": "2025",
+   "definition": "一种认为人类是错综复杂的生命网络中的一部分的观点，植物、动物、山脉与河流都有其自身的权利，而不是仅为了人类的愉悦而存在。与“浅层生态学”相对。"
+  },
+  {
+   "cn": "浅层生态学",
+   "en": "shallow ecology",
+   "source": "社会学名词",
+   "wordNumber": "3.14.2.9",
+   "subjectFullName": "社会学名词_分支社会学_环境社会学_现代环境社会学理论",
+   "subjectName": "现代环境社会学理论",
+   "publishYear": "2025",
+   "definition": "一种认为人类高于生命网络中其他部分的观点。与“深层生态学”相对。"
+  },
+  {
+   "cn": "生态恢复",
+   "en": "ecological restoration",
+   "source": "消毒学",
+   "wordNumber": "7.1.11",
+   "subjectFullName": "消毒学_其他_生物安全",
+   "subjectName": "生物安全",
+   "publishYear": "2025",
+   "definition": "恢复被损害的生态系统到接近于被损害前的自然状况的过程，即重建该系统干扰前的结构与功能及有关的物理、化学和生物学特征的过程。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,672 @@
+{
+ "key": "inverse probabilities",
+ "term": "inverse probabilities",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T05:01:59+00:00",
+ "status": "ok",
+ "note": "variant=inverse probabilities; 审定公布名词库=1326; 海峡两岸名词对照库=440; 其他来源数据库=54; 预公布名词数据库=34; jwt-direct（JWT 直连，raw 略；已滤维基 14 条）",
+ "hits": [
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "冶金学名词",
+   "wordNumber": "04.0675",
+   "subjectFullName": "冶金学_冶金物理化学_计算冶金物理化学",
+   "subjectName": "计算冶金物理化学",
+   "publishYear": "2019",
+   "definition": "表示随机事件发生可能性大小的量，是在0到1之间的实数。"
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "肠外肠内营养学名词",
+   "wordNumber": "05.133",
+   "subjectFullName": "肠外肠内营养学_基础研究与临床研究_临床研究",
+   "subjectName": "临床研究",
+   "publishYear": "2019",
+   "definition": "表征随机事件发生可能性大小的一个度量，是事件本身所固有的不随人的主观意愿而改变的一种属性。"
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "物理学名词",
+   "wordNumber": "05.0522",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "化学名词",
+   "wordNumber": "03.0127",
+   "subjectFullName": "化学_分析化学_化学计量学",
+   "subjectName": "化学计量学",
+   "publishYear": "2016",
+   "definition": "表示1个随机事件发生可能性大小的数。该数在0与1之间取值。"
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "大气科学名词",
+   "wordNumber": "07.243",
+   "subjectFullName": "大气科学_气候学",
+   "subjectName": "气候学",
+   "publishYear": "2009",
+   "definition": "表征随机事件发生可能性大小的量，是事件本身所固有的不随人的主观意愿而改变的一种属性。"
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "电气工程名词",
+   "wordNumber": "01.043",
+   "subjectFullName": "电气工程_电工基础及通用名词",
+   "subjectName": "电工基础及通用名词",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "数学名词",
+   "wordNumber": "09.0029",
+   "subjectFullName": "数学_概率论_数理统计_概率空间",
+   "subjectName": "概率空间",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "逆",
+   "en": "inverse",
+   "source": "数学名词",
+   "wordNumber": "01.0040",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "［染色体］倒位",
+   "en": "inversion",
+   "source": "兽医学名词",
+   "wordNumber": "10.431",
+   "subjectFullName": "兽医学_兽医病理及病理生理学",
+   "subjectName": "兽医病理及病理生理学",
+   "publishYear": "2023",
+   "definition": "同一条染色体发生两次断裂，产生的断片颠倒180°后的重新连接。"
+  },
+  {
+   "cn": "倒位",
+   "en": "inversion",
+   "source": "血液学名词",
+   "wordNumber": "4.25",
+   "subjectFullName": "血液学_常用检查_血液病理检测_遗传学检测相关",
+   "subjectName": "遗传学检测相关",
+   "publishYear": "2022",
+   "definition": "某一染色体发生两次断裂后，两个断裂点之间的片段旋转180°后重接，造成染色体上基因顺序重排的过程。有两种形式，臂内倒位和臂间倒位。前者两个断裂点在同一臂（长臂或短臂）内，后者两个断裂点在两臂之间。"
+  },
+  {
+   "cn": "反演",
+   "en": "inversion",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1866",
+   "subjectFullName": "地球物理学_地震科学_地震反演",
+   "subjectName": "地震反演",
+   "publishYear": "2022",
+   "definition": "根据地震波场、地球自由振荡、地球电磁场、重力场及热流等地球物理观测数据反推地球内部的结构形态和物质成分，定量计算各种有关的物理参量的工作。 "
+  },
+  {
+   "cn": "反演",
+   "en": "inversion",
+   "source": "光学名词",
+   "wordNumber": "21.085",
+   "subjectFullName": "光学_光学遥感技术",
+   "subjectName": "光学遥感技术",
+   "publishYear": "2021",
+   "definition": "根据遥感器获得的信号，利用理论模型和先验知识来确定目标状态特性参数的过程，即根据观测信息和后向物理模型，求解或推算描述目标真实状况参数的过程。"
+  },
+  {
+   "cn": "倒位",
+   "en": "inversion",
+   "source": "医学遗传学名词",
+   "wordNumber": "2.461",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "一种染色体结构变异。染色体发生两次断裂后，断裂点之间的片段旋转180重接而 成。"
+  },
+  {
+   "cn": "逆转现象",
+   "en": "inversion",
+   "source": "动物学名词",
+   "wordNumber": "5.0653",
+   "subjectFullName": "动物学_无脊椎动物学_多孔动物门",
+   "subjectName": "多孔动物门",
+   "publishYear": "2021",
+   "definition": "两囊幼虫具鞭毛的小细胞（动物极）陷入里面形成内层，而另一端大细胞（植物极）包在外边形成外层细胞，与其他多细胞动物原肠胚形成正好相反的现象。"
+  },
+  {
+   "cn": "倒位",
+   "en": "inversion",
+   "source": "畜牧学名词",
+   "wordNumber": "04.204",
+   "subjectFullName": "畜牧学_遗传育种_细胞遗传学",
+   "subjectName": "细胞遗传学",
+   "publishYear": "2020",
+   "definition": "染色体上两个断裂点间的片段，倒转180度后又重新连接。"
+  },
+  {
+   "cn": "倒位",
+   "en": "inversion",
+   "source": "植物学名词",
+   "wordNumber": "10.0215",
+   "subjectFullName": "植物学_植物遗传学",
+   "subjectName": "植物遗传学",
+   "publishYear": "2019",
+   "definition": "在同一染色体上同时出现两处断裂，其断裂段片倒转180°后又重新连接，造成该染色体上的基因顺序发生重排的现象。颠倒的片段包括着丝粒在内的倒位称“臂间倒位(pericentric inversion)”；"
+  },
+  {
+   "cn": "翻转作用",
+   "en": "inversion",
+   "source": "植物学名词",
+   "wordNumber": "04.0156",
+   "subjectFullName": "植物学_藻类学",
+   "subjectName": "藻类学",
+   "publishYear": "2019",
+   "definition": "团藻生殖过程中皿状体发展为32个细胞时，细胞开始分化为营养细胞和生殖细胞，继续分裂形成有一个孔的球体，此时，球体内细胞的前端是向着群体中央的，需要经过一个球体从孔内外交换的过程，即细胞的前端翻转到群体"
+  },
+  {
+   "cn": "反演",
+   "en": "inversion",
+   "source": "物理学名词",
+   "wordNumber": "08.0136",
+   "subjectFullName": "物理学_凝聚态物理学_结构",
+   "subjectName": "结构",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "倒反",
+   "en": "inversion",
+   "source": "化学名词",
+   "wordNumber": "04.1813",
+   "subjectFullName": "化学_物理化学_晶体化学",
+   "subjectName": "晶体化学",
+   "publishYear": "2016",
+   "definition": "通过对称中心进行反演成像所完成的对称操作。"
+  },
+  {
+   "cn": "倒位",
+   "en": "inversion",
+   "source": "放射医学与防护名词",
+   "wordNumber": "07.199",
+   "subjectFullName": "放射医学与防护_放射生物学_放射遗传学",
+   "subjectName": "放射遗传学",
+   "publishYear": "2014",
+   "definition": "当某一染色体发生两处断裂，其中间节段颠倒180°后重接形成的染色体畸变。可分为臂间倒位和臂内倒位两种类型。"
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "倒位",
+   "en": "inversion",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "翻转[作用]",
+   "en": "inversion",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "反演",
+   "en": "inversion",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "逆转",
+   "en": "inversion",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "转位",
+   "en": "inversion",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "反向",
+   "en": "inversion",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "反演",
+   "en": "inversion",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "倒位",
+   "en": "inversion",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "倒位",
+   "en": "inversion",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "地面逆温",
+   "en": "surface inversion\",\"ground inversion",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "全反转",
+   "en": "total inversion\",\"complete inversion",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "后验概率",
+   "en": "posteriori probability",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "先验概率",
+   "en": "priori probability",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "概率分布",
+   "en": "probability distribution",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "概率函数",
+   "en": "probability function",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "概率",
+   "en": "probability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "逆变换采样法",
+   "en": "inverse transform sampling",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "TF-IDF算法",
+   "en": "TF-IDF (term frequency-inverse document frequency) algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "反身",
+   "en": "reverse",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "反身射门",
+   "en": "reverse hit\",\"reverse shot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "反身转进",
+   "en": "reverse\",\"roll",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "概率抽样",
+   "en": "probability sampling",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.47",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "保证总体中的所有单位有相同被选取的概率或机会的抽样方式。"
+  },
+  {
+   "cn": "死亡概率",
+   "en": "mortality probability",
+   "source": "社会学名词",
+   "wordNumber": "4.5.3.2",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_死亡",
+   "subjectName": "死亡",
+   "publishYear": "2025",
+   "definition": "活到某一确切年龄x岁的一批人在满x+n岁之前可能死亡的比例。即在确切年龄x岁与x+n岁之间死亡人数(ndx）与活到确切年龄x岁的尚存人数(lx）之比，一般记作nqx。"
+  },
+  {
+   "cn": "暴露概率",
+   "en": "exposure probability",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.71",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "受个体行为、环境条件和病原体传播途径等因素影响，个体或群体接触到某种病原体的可能性。"
+  },
+  {
+   "cn": "概率抽样",
+   "en": "probability sampling",
+   "source": "社会医学名词",
+   "wordNumber": "4.1.1",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "抽样",
+   "publishYear": "2025",
+   "definition": "遵循随机原则，按照某种特定的概率抽取样本的方法。获得的样本信息可以通过统计学方法推论总体。"
+  },
+  {
+   "cn": "逆温",
+   "en": "temperature inversion",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.2.3.4",
+   "subjectFullName": "军事预防医学_军事环境卫生_战时空气卫生",
+   "subjectName": "战时空气卫生",
+   "publishYear": "2025",
+   "definition": "在大气对流层中，气温随高度增加而升高的反常现象。"
+  },
+  {
+   "cn": "感染概率",
+   "en": "probability of infection",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.72",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "在一定条件下，受个体易感性、病原体传播途径和环境因素等多种因素影响，个体或群体感染某种病原体的可能性。"
+  },
+  {
+   "cn": "非概率抽样",
+   "en": "non-probability sampling",
+   "source": "社会医学名词",
+   "wordNumber": "4.1.2",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "抽样",
+   "publishYear": "2025",
+   "definition": "不遵循随机原则抽取样本的方法。样本的选择往往受到研究者的主观判断、方便性或其他非随机因素的影响。获得的样本信息一般不能通过统计学方法推论总体。"
+  },
+  {
+   "cn": "标称危险[概率]系数",
+   "en": "nominal risk [probability] coefficient",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.3.8",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_效应指标",
+   "subjectName": "效应指标",
+   "publishYear": "2025",
+   "definition": "对代表性人群（上海、大阪、广岛、长崎、瑞典、英国和美国）性别平均和受照年龄平均的终生危险估计，单位是10-2Sv-1。其含义是某人群受1Sv剂量照射以后该人群相对于未受照射人群癌症终生危险增加的百分数"
+  },
+  {
+   "cn": "病因概率",
+   "en": "probability of causation，PC",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.3.16",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_效应指标",
+   "subjectName": "效应指标",
+   "publishYear": "2025",
+   "definition": "暴露组某一个体所患的疾病由某危险因素引起的概率或似然性估计值。PC=ERR/(ERR+1)。"
+  },
+  {
+   "cn": "患病概率",
+   "en": "probability of disease occurrence",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.73",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "在一定时间内，一个人或者一个群体发生某种疾病的可能性。在微生物学中，多用于某种疾病微生物致使生物体发生某种疾病的可能性。"
+  },
+  {
+   "cn": "最大可能数",
+   "en": "most probable number, MPN",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.111",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "结合微生物学与统计学的检测数值表示法，由统计模型，推算实际菌数最可能落在信赖区间的位置，即该样品最可能有多少细菌的估测值。"
+  },
+  {
+   "cn": "赔偿的病因概率限值",
+   "en": "probability of causation limit for compensation",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.3.17",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_效应指标",
+   "subjectName": "效应指标",
+   "publishYear": "2025",
+   "definition": "在职业性放射性肿瘤赔偿中，由管理部门审定的可给予法定赔偿的病因概率的最低限值。"
+  },
+  {
+   "cn": "逆选择",
+   "en": "adverse selection",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.3.1.7",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险市场",
+   "subjectName": "健康保险市场",
+   "publishYear": "2025",
+   "definition": "在医疗保险市场中，由于投保人和承保人信息的不对称，即参保者个人比保险机构更了解自己的疾病风险情况，参保者在健康时往往参加医疗保险的意愿不强，而有病时更愿意参加医疗保险的行为。"
+  },
+  {
+   "cn": "有害反应",
+   "en": "adverse response",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.13",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "与某种因素有关或可能有关的所有不良事件。"
+  },
+  {
+   "cn": "不良结局",
+   "en": "adverse outcome",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.2.56",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "外源化学物引起的具有法规监管意义的有害效应关键事件。通常与已确立的安全保护目标相符合、或与公认的毒性测试指南中的观察终点等效。"
+  },
+  {
+   "cn": "逆向毒代动力学",
+   "en": "reverse toxicokinetics, rTK",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.2.49",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "描述外源化学物在人体或其他动物体内的吸收、分布、代谢、排泄的速率，允许研究人员根据外部暴露浓度来估计内部剂量，或根据已知的内部剂量估计外部暴露浓度的学科。"
+  },
+  {
+   "cn": "不良妊娠结局",
+   "en": "adverse pregnancy outcomes",
+   "source": "军事预防医学名词",
+   "wordNumber": "16.1.5.2.3",
+   "subjectFullName": "军事预防医学_军事毒理学_军事毒理学基础",
+   "subjectName": "军事毒理学基础",
+   "publishYear": "2025",
+   "definition": "妊娠后不能产生外观和功能正常的子代，包括所有的不良结果，如流产、死胎、死产、宫内生长迟缓、发育异常、新生儿和婴幼儿期死亡等。"
+  },
+  {
+   "cn": "强光照射试验",
+   "en": "intense light test",
+   "source": "消毒学",
+   "wordNumber": "6.1.15.5",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "测定消毒剂经规定光照条件后稳定性的试验。一般新有效成分消毒剂应进行此项试验。"
+  },
+  {
+   "cn": "不良妊娠结局",
+   "en": "adverse pregnancy outcome",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.6.2.1",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_生育间隔期保健",
+   "subjectName": "生育间隔期保健",
+   "publishYear": "2025",
+   "definition": "妊娠期、分娩及产后期或新生儿期发生的对孕妇、胎儿或新生儿健康产生负面影响的任何不良结果。母体结局包括孕产期并发症和孕产妇死亡，胎儿/新生儿结局包括死亡、流产、早产、窒息、出生体重异常及出生缺陷等。"
+  },
+  {
+   "cn": "不良出生结局",
+   "en": "adverse birth outcome",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.6.2.1.1",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_生育间隔期保健",
+   "subjectName": "生育间隔期保健",
+   "publishYear": "2025",
+   "definition": "特指出生后发现的新生儿健康问题或异常结果，包括死亡、流产、早产、窒息、出生体重异常及出生缺陷等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

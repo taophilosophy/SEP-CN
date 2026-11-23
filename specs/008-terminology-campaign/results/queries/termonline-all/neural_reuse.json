@@ -1,0 +1,772 @@
+{
+ "key": "neural reuse",
+ "term": "neural reuse",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T05:02:47+00:00",
+ "status": "ok",
+ "note": "variant=neural reuse; 审定公布名词库=1963; 海峡两岸名词对照库=550; 其他来源数据库=100; 预公布名词数据库=108; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "再利用",
+   "en": "reuse",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "11.021",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_生态工业系统工程",
+   "subjectName": "生态工业系统工程",
+   "publishYear": "2024",
+   "definition": "将废物直接作为产品或者经修复、翻新、再制造后继续作为产品使用，或者将废物的全部或者部分作为其他产品的部件予以使用。是循环经济活动的基本原则之一。"
+  },
+  {
+   "cn": "再利用",
+   "en": "reuse",
+   "source": "生态学名词",
+   "wordNumber": "17.134",
+   "subjectFullName": "生态学_城市生态学、生态工程学和产业生态学",
+   "subjectName": "城市生态学、生态工程学和产业生态学",
+   "publishYear": "2006",
+   "definition": "尽可能分级多层利用物质，并尽可能多次或多种方式利用产品，延长产品的服务时间、强度，避免产品过早、过多地成为废物和垃圾的过程。"
+  },
+  {
+   "cn": "表土再利用",
+   "en": "topsoil reuse",
+   "source": "风景园林名词",
+   "wordNumber": "08.0137",
+   "subjectFullName": "风景园林_风景园林工程_风景园林土壤",
+   "subjectName": "风景园林土壤",
+   "publishYear": "2025",
+   "definition": "根据绿化种植土的质量要求将表土直接利用或改良后再进行利用的过程。"
+  },
+  {
+   "cn": "污水回用",
+   "en": "wastewater reuse",
+   "source": "风景园林名词",
+   "wordNumber": "08.1009",
+   "subjectFullName": "风景园林_风景园林工程_环境工程",
+   "subjectName": "环境工程",
+   "publishYear": "2025",
+   "definition": "将废水或污水经二级处理和深度处理后回用于生产系统或生活杂用的技术。"
+  },
+  {
+   "cn": "直接回用",
+   "en": "direct reuse",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "04.116",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程综合",
+   "subjectName": "过程综合",
+   "publishYear": "2024",
+   "definition": "某个用水过程排出的废水不经过再生处理就直接回用于另一个用水过程的模式。"
+  },
+  {
+   "cn": "再生回用",
+   "en": "regeneration reuse",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "04.129",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程综合",
+   "subjectName": "过程综合",
+   "publishYear": "2024",
+   "definition": "用水过程的排水经处理后用于其他用水过程，禁止回用至原来的用水过程。"
+  },
+  {
+   "cn": "元数据复用",
+   "en": "metadata reuse",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.905",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_元数据",
+   "subjectName": "元数据",
+   "publishYear": "2019",
+   "definition": "在元数据应用过程中，对于其他元数据标准中已经有明确定义并适用于本应用领域的元素进行直接使用的现象。通常需要在使用时明确标明其地址。"
+  },
+  {
+   "cn": "软件复用",
+   "en": "software reuse",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0342",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "提高软件生产力和软件质量的一种技术。将已有软件的各种有关知识、文档、代码用于建立新的软件，以缩减软件开发和维护的花费。"
+  },
+  {
+   "cn": "客体重用",
+   "en": "object reuse",
+   "source": "计算机科学技术名词",
+   "wordNumber": "10.0262",
+   "subjectFullName": "计算机科学技术_信息安全_信息系统安全防护技术",
+   "subjectName": "信息系统安全防护技术",
+   "publishYear": "2018",
+   "definition": "在对客体初始指定、分配或再分配一个主体之前，撤销该客体所含信息的全部授权，当主体获得对一个已被释放客体的访问权时，当前主体不能获得原主体活动所产生的任何信息。"
+  },
+  {
+   "cn": "应用重用",
+   "en": "application reuse",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0136",
+   "subjectFullName": "计算机科学技术_计算机应用_信息系统与信息化",
+   "subjectName": "信息系统与信息化",
+   "publishYear": "2018",
+   "definition": "把开发系统应用的过程中所产生的人工制品和知识再用于开发其他应用的过程中，从而减少其他应用开发的工作量。"
+  },
+  {
+   "cn": "知识重用",
+   "en": "knowledge reuse",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0758",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_知识管理",
+   "subjectName": "知识管理",
+   "publishYear": "2016",
+   "definition": "利用已有知识创造新价值的过程。"
+  },
+  {
+   "cn": "频率再用",
+   "en": "frequency reuse",
+   "source": "通信科学技术名词",
+   "wordNumber": "12.165",
+   "subjectFullName": "通信科学技术_移动通信",
+   "subjectName": "移动通信",
+   "publishYear": "2007",
+   "definition": "在某个小区使用的频率在间隔一个或多个小区后被重新使用的一种蜂窝组网技术。"
+  },
+  {
+   "cn": "废水复用",
+   "en": "wastewater reuse",
+   "source": "土木工程名词",
+   "wordNumber": "11.020",
+   "subjectFullName": "土木工程_给水与排水工程_给水系统与排水系统",
+   "subjectName": "给水系统与排水系统",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "回用污水",
+   "en": "reused sewage",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "02.093",
+   "subjectFullName": "化工（五）_规划、咨询、评估与决策_项目咨询",
+   "subjectName": "项目咨询",
+   "publishYear": "2021",
+   "definition": "经二级处理或深度处理后达到相应回用标准，用于生产系统或生活杂用的有利用价值的水。"
+  },
+  {
+   "cn": "再利用技术",
+   "en": "reusing technology",
+   "source": "农学名词",
+   "wordNumber": "11.095",
+   "subjectFullName": "农业环境保护_生态循环农业",
+   "subjectName": "生态循环农业",
+   "publishYear": "2025",
+   "definition": "延长原料或产品的使用寿命，以达到多次重复使用、减少资源消耗和减低成本等目的的技术。"
+  },
+  {
+   "cn": "神经网络",
+   "en": "neural net,neural network",
+   "source": "电子学名词",
+   "wordNumber": "03.449",
+   "subjectFullName": "电子学_电子线路与网络",
+   "subjectName": "电子线路与网络",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "废水再利用",
+   "en": "waste water reuse",
+   "source": "电力名词",
+   "wordNumber": "24.088",
+   "subjectFullName": "电力_环境保护",
+   "subjectName": "环境保护",
+   "publishYear": "2020",
+   "definition": "采用物理的、化学的、生物的方法对废水进行处理,使水质达到工艺要求,重新使用。"
+  },
+  {
+   "cn": "水重复利用率",
+   "en": "water reuse rate",
+   "source": "化工名词（四）安全·环保·可持续发展",
+   "wordNumber": "01.076",
+   "subjectFullName": "化工（四）_通类",
+   "subjectName": "通类",
+   "publishYear": "2020",
+   "definition": "反映企业用水水平的一项主要指标。是企业在生产过程中，在一定的统计时期内，所使用的重复利用水量与总用水量之比。"
+  },
+  {
+   "cn": "污水回用",
+   "en": "waste water reuse",
+   "source": "化工名词（四）安全·环保·可持续发展",
+   "wordNumber": "01.078",
+   "subjectFullName": "化工（四）_通类",
+   "subjectName": "通类",
+   "publishYear": "2020",
+   "definition": "将废水或污水经处理后回用于生产或生活系统。"
+  },
+  {
+   "cn": "频率重用因子",
+   "en": "frequency reuse factor",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0500",
+   "subjectFullName": "计算机科学技术_网络与数据通信_无线网络",
+   "subjectName": "无线网络",
+   "publishYear": "2018",
+   "definition": "在蜂窝电话中使用不同组频率的小区的数目。"
+  },
+  {
+   "cn": "再利用",
+   "en": "reuse",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "范例重用",
+   "en": "case reuse",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "频率再用",
+   "en": "frequency reuse",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "软件复用",
+   "en": "software reuse",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "神经管",
+   "en": "neural tube\",\"neural canal",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "神经嵴",
+   "en": "neural crest\",\"neural ridge",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "神经网络",
+   "en": "neural net\",\"neural network",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "神经褶",
+   "en": "neural fold\",\"neural ridge",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "神经板",
+   "en": "neural plate",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "神经沟",
+   "en": "neural groove",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "神经回路",
+   "en": "neural circuit",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "神经棘",
+   "en": "neural spine",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "神经培养",
+   "en": "neural culture",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "神经通路",
+   "en": "neural pathway",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "神经褶",
+   "en": "neural fold",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "神经网络",
+   "en": "neural network",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "神经网络",
+   "en": "neural network",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "神经网络",
+   "en": "neural network",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "神经回路",
+   "en": "neural circuit",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "神经沟",
+   "en": "neural groove",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "数据再使用",
+   "en": "data reuse",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "客体重用",
+   "en": "object reuse",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "重用主义理论",
+   "en": "reuse theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "增值利用",
+   "en": "information reuse",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "神经计算",
+   "en": "neural computing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "神经微电路",
+   "en": "neural microcircuit",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "科学数据重用",
+   "en": "reuse of scientific data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "对象重用保护",
+   "en": "object reuse protection (ORP)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "神经网络芯片",
+   "en": "neural network chip",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "神经网络算法",
+   "en": "neural network algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "神经网络学习",
+   "en": "neural network learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "模糊神经网络",
+   "en": "fuzzy neural network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人工神经网络",
+   "en": "artificial neural network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "霍普菲尔德神经网络",
+   "en": "Hopfield neural network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自适应神经网络",
+   "en": "adaptive neural network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "反向传播神经网络",
+   "en": "backpropagation neural network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "神经型食物中毒",
+   "en": "neural type food poisoning",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.7",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "由于进食含有外毒素（如肉毒梭菌毒素）的食物而引起的急性中毒疾病"
+  },
+  {
+   "cn": "神经管缺陷患病率",
+   "en": "prevalence of neural tube defects",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.5.8",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "某年某地区检出神经管缺陷的围产儿数，与同期该地区围产儿数之比。围产儿数包括孕28周至产后7天正常和缺陷的活产、死胎和死产数。"
+  },
+  {
+   "cn": "增补叶酸预防神经管缺陷项目",
+   "en": "folic acid supplementation to prevent neural tube defects project",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "1.5.12",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生学_妇幼卫生发展",
+   "subjectName": "妇幼卫生发展",
+   "publishYear": "2025",
+   "definition": "对全国准备怀孕的农村妇女免费增补叶酸预防神经管缺陷的国家重大公共卫生项目。2009年启动，2019年起纳入国家基本公共卫生服务项目。"
+  },
+  {
+   "cn": "中性温度",
+   "en": "neutral temperature",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.3.1.4",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_不同年龄段儿童保健",
+   "subjectName": "不同年龄段儿童保健",
+   "publishYear": "2025",
+   "definition": "机体维持体温正常所需的代谢率和耗氧量最低时的环境温度。"
+  },
+  {
+   "cn": "中性离子表面活性剂",
+   "en": "neutral ion surfactant",
+   "source": "消毒学",
+   "wordNumber": "2.1.12.9",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "亲水基团为中性离子，作用温和、刺激性小的表面活性剂。"
+  },
+  {
+   "cn": "中性医用清洗剂",
+   "en": "neutral medical detergent",
+   "source": "消毒学",
+   "wordNumber": "4.6.19.4.10.2",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "在应用浓度下，pH值6.5～7.5的医用清洗剂。"
+  },
+  {
+   "cn": "自然死亡",
+   "en": "natural death",
+   "source": "医学伦理学名词",
+   "wordNumber": "7.013999999999999",
+   "subjectFullName": "医学伦理学_临终关怀与死亡伦理",
+   "subjectName": "临终关怀与死亡伦理",
+   "publishYear": "2025",
+   "definition": "人的生命的自然终结。"
+  },
+  {
+   "cn": "自然通风",
+   "en": "natural ventilation",
+   "source": "消毒学",
+   "wordNumber": "1.8.16",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "利用建筑物内外空气的密度差引起的热压或风压，促使空气流动而进行的通风换气方式。"
+  },
+  {
+   "cn": "自然菌",
+   "en": "natural bacteria",
+   "source": "消毒学",
+   "wordNumber": "6.2.3.1",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "存在于消毒对象上的、非人工污染的细菌。"
+  },
+  {
+   "cn": "自然干燥",
+   "en": "natural drying",
+   "source": "消毒学",
+   "wordNumber": "6.2.27.21",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "实验制备染菌载体过程中，将试验微生物悬液涂染试验载体后，在室温条件下使染菌载体干燥的过程。"
+  },
+  {
+   "cn": "天然反应堆",
+   "en": "natural reactor",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.3.10",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护",
+   "subjectName": "核工业的放射防护",
+   "publishYear": "2025",
+   "definition": "自然界发生自持式裂变反应的地理区域，如加蓬共和国的奥克洛铀矿裂变区。"
+  },
+  {
+   "cn": "封建社会",
+   "en": "feudal society",
+   "source": "社会学名词",
+   "wordNumber": "2.1.1.6",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会形态",
+   "subjectName": "社会形态",
+   "publishYear": "2025",
+   "definition": "狭义指经济上以农奴制或领主制为基础的（即以农奴主或领主占有土地和部分占有农奴人身并以此剥削农奴剩余劳动为基础的）、社会政治上以等级分封为特征的社会；广义指以（包括农奴主或领主在内的）所有类型的封建地主"
+  },
+  {
+   "cn": "自然法",
+   "en": "natural law",
+   "source": "社会学名词",
+   "wordNumber": "2.8.6.1",
+   "subjectFullName": "社会学名词_社会学一般概念社会制度",
+   "subjectName": "社会学一般概念社会制度",
+   "publishYear": "2025",
+   "definition": "基于自然秩序本身所产生的正义、平等等理性原则的总和，独立于社会意识形态的价值体系。"
+  },
+  {
+   "cn": "自然教育",
+   "en": "natural education",
+   "source": "社会学名词",
+   "wordNumber": "3.12.1",
+   "subjectFullName": "社会学名词_分支社会学_教育社会学",
+   "subjectName": "教育社会学",
+   "publishYear": "2025",
+   "definition": "由卢梭提出的教育理念，以自然状态而非社会状态为基础对人的培养，要求儿童在自身的教育和成长中取得主动地位，无须成人的灌输、压制、强迫，教师只须创造学习的环境、防范不良的影响。"
+  },
+  {
+   "cn": "自然界",
+   "en": "natural world",
+   "source": "马克思主义",
+   "wordNumber": "01.0139",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人类活动的环境，是不依赖于人的意识而存在的客观实在，是人类赖以生存的物质基础，与社会、历史、文化等概念相对应。广义的自然界包括人类社会，人也是自然界的产物。"
+  },
+  {
+   "cn": "自然规律",
+   "en": "natural law",
+   "source": "马克思主义",
+   "wordNumber": "01.0140",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "自然界内在固有的本质联系，具有不以人的意志为转移的客观必然性。自然规律在一定条件下具有可重复性，只要条件具备，合乎规律的现象必然重复出现。"
+  },
+  {
+   "cn": "自然属性",
+   "en": "natural attribute",
+   "source": "马克思主义",
+   "wordNumber": "01.0142",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "自然界事物本身固有的面貌、活动规律、特性等。"
+  },
+  {
+   "cn": "自然选择",
+   "en": "natural selection",
+   "source": "马克思主义",
+   "wordNumber": "01.0146",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "达尔文关于物种进化的学说。生物随着自然环境的变化而发生变异，有利的偶然的遗传特征在繁殖中保存下来，不利的则淘汰。生物的生存能力也因而产生差异，导致必然的物种灭绝或进化及多样性。马克思、恩格斯和列宁都给"
+  },
+  {
+   "cn": "自然科学",
+   "en": "natural science",
+   "source": "马克思主义",
+   "wordNumber": "01.0217",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "研究自然界各门科学的总和，研究对象是自然界各种各样的现象，其目的是认识这些现象的规律，并运用它们开发和改造自然界。"
+  },
+  {
+   "cn": "自然经济",
+   "en": "natural economy",
+   "source": "马克思主义",
+   "wordNumber": "02.0322",
+   "subjectFullName": "马克思主义_政治经济学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "以自给自足为特征的经济形式。生产是为了直接满足生产者个人或经济单位的需要，而不是为了交换的经济形式。它没有社会分工，每一个生产者或经济单位，不但生产自己需要的农产品，而且直接生产自己需要的大部分的手工"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

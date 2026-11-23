@@ -1,0 +1,632 @@
+{
+ "key": "amor fati",
+ "term": "amor fati",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T05:00:14+00:00",
+ "status": "ok",
+ "note": "variant=amor fati; 审定公布名词库=274; 海峡两岸名词对照库=64; 其他来源数据库=2; 预公布名词数据库=24; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "阿莫尔[小行星]",
+   "en": "Amor",
+   "source": "天文学名词",
+   "wordNumber": "10.112",
+   "subjectFullName": "天文学_太阳系",
+   "subjectName": "太阳系",
+   "publishYear": "2024",
+   "definition": "小行星1 221号。1932年被发现，是阿莫尔型小行星中被发现的第一颗。其名称源自罗马神话中的爱神阿莫尔。"
+  },
+  {
+   "cn": "阿莫尔型小行星",
+   "en": "Amor asteroid; Amors",
+   "source": "天文学名词",
+   "wordNumber": "10.088",
+   "subjectFullName": "天文学_太阳系",
+   "subjectName": "太阳系",
+   "publishYear": "2024",
+   "definition": "穿越火星轨道的一类近地小行星，其轨道近日距在1.017～1.3AU之间。"
+  },
+  {
+   "cn": "非道德管理",
+   "en": "amoral management",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0948",
+   "subjectFullName": "管理科学技术_一般管理理论_创业管理",
+   "subjectName": "创业管理",
+   "publishYear": "2016",
+   "definition": "经营管理既不是符合道德规范的，也不是不道德的，但决策超出了道德规范的范围。"
+  },
+  {
+   "cn": "负载型非晶态催化剂",
+   "en": "supported amor-phous catalyst",
+   "source": "化学名词",
+   "wordNumber": "04.0691",
+   "subjectFullName": "化学_物理化学_催化",
+   "subjectName": "催化",
+   "publishYear": "2016",
+   "definition": "负载在载体上的能够改变化学反应速率但不改变反应总吉布斯自由能的非晶态合金。"
+  },
+  {
+   "cn": "花魔芋",
+   "en": "elephant-foot yam; Amor phophallus konjac K. Koch",
+   "source": "农学名词",
+   "wordNumber": "05.200",
+   "subjectFullName": "园艺作物_蔬菜作物",
+   "subjectName": "蔬菜作物",
+   "publishYear": "2025",
+   "definition": "天南星科魔芋属蔬菜。多年生草本。起源于东半球雨林和亚热带季风林。大型掌状复叶，叶柄圆柱状；块茎扁球形，顶芽肥大；肉穗花序。块茎作蔬菜食用。"
+  },
+  {
+   "cn": "护面块体",
+   "en": "armor unit,armor block",
+   "source": "海洋科技名词",
+   "wordNumber": "03.0057",
+   "subjectFullName": "海洋科学技术_海洋技术_海洋工程",
+   "subjectName": "海洋工程",
+   "publishYear": "2007",
+   "definition": "安放在防波堤面层，起抵御波浪的作用，保护堤心块石不被冲淘滚落的各种形式的预制构件。"
+  },
+  {
+   "cn": "无唾液酸血清类黏蛋白",
+   "en": "asialoorosomucoid;ASOR",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "6.0259",
+   "subjectFullName": "生物化学与分子生物学_糖类_糖复合物_单糖衍生物",
+   "subjectName": "单糖衍生物",
+   "publishYear": "2024",
+   "definition": "血清类黏蛋白的糖链中去除唾液酸后的产物。"
+  },
+  {
+   "cn": "护线条",
+   "en": "amour rods",
+   "source": "电力名词",
+   "wordNumber": "22.217",
+   "subjectFullName": "电力_输电线路",
+   "subjectName": "输电线路",
+   "publishYear": "2020",
+   "definition": "绕于悬垂线夹等金具与导线连接处的保护用螺旋形金属条。"
+  },
+  {
+   "cn": "炉喉保护板",
+   "en": "throat armor",
+   "source": "冶金学名词",
+   "wordNumber": "05.0864",
+   "subjectFullName": "冶金学_钢铁冶金_炼铁",
+   "subjectName": "炼铁",
+   "publishYear": "2019",
+   "definition": "安装在炉喉内衬表面，防止炉料下落时撞击损坏炉衬的铸钢板。"
+  },
+  {
+   "cn": "面层",
+   "en": "armor layer",
+   "source": "土木工程名词",
+   "wordNumber": "07.190",
+   "subjectFullName": "土木工程_港口工程_港口防波堤",
+   "subjectName": "港口防波堤",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "护面块体",
+   "en": "armor block",
+   "source": "水利科学技术名词",
+   "wordNumber": "13.222",
+   "subjectFullName": "水利科学技术_航道与港口_防波堤（水利）",
+   "subjectName": "防波堤（水利）",
+   "publishYear": "1997",
+   "definition": "安放在斜坡式防波堤面层，抵御波浪的作用，保护堤心块石不被冲淘滚落的各种形式的预制块体。"
+  },
+  {
+   "cn": "护面块体",
+   "en": "block,armor block",
+   "source": "土木工程名词",
+   "wordNumber": "10.126",
+   "subjectFullName": "土木工程_港口工程_港口防波堤",
+   "subjectName": "港口防波堤",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "MOR结构分子筛",
+   "en": "MOR zeolite",
+   "source": "化工名词 (二)基本有机化工",
+   "wordNumber": "03.154",
+   "subjectFullName": "化工（二）_反应与三剂_三剂",
+   "subjectName": "三剂",
+   "publishYear": "2019",
+   "definition": "骨架结构类型为MOR的一类分子筛。空间群为Cmcm，晶胞化学式为<img src='/root/syzx/static/spz/huagongII1.03.154.01.png'/>，最典型的为丝光沸"
+  },
+  {
+   "cn": "盔甲心",
+   "en": "armor like heart",
+   "source": "兽医学名词",
+   "wordNumber": "10.338",
+   "subjectFullName": "兽医学_兽医病理及病理生理学",
+   "subjectName": "兽医病理及病理生理学",
+   "publishYear": "2023",
+   "definition": "常见于结核性心包炎，因心外膜被覆厚的干酪样坏死物形似盔甲而得名。"
+  },
+  {
+   "cn": "预绞丝",
+   "en": "preformed armor rods",
+   "source": "电力名词",
+   "wordNumber": "22.209",
+   "subjectFullName": "电力_输电线路",
+   "subjectName": "输电线路",
+   "publishYear": "2020",
+   "definition": "用作护线条、补修条或防振线夹部件的螺旋状弹性铝合金丝组。"
+  },
+  {
+   "cn": "铝包带",
+   "en": "aluminium amour tape",
+   "source": "电力名词",
+   "wordNumber": "22.210",
+   "subjectFullName": "电力_输电线路",
+   "subjectName": "输电线路",
+   "publishYear": "2020",
+   "definition": "缠绕在外层铝线股的导线上,保护其表面的铝带。"
+  },
+  {
+   "cn": "贝阿铁路",
+   "en": "Baikal-Amur Mainline",
+   "source": "世界历史名词",
+   "wordNumber": "05.0440",
+   "subjectFullName": "世界历史_近现代俄罗斯、东欧、高加索、中亚_俄罗斯人",
+   "subjectName": "俄罗斯人",
+   "publishYear": "2012",
+   "definition": "1932-1984年，苏联建造的连接俄罗斯东西伯利亚和远东地区的铁路干线，与西伯利亚大铁路平行。"
+  },
+  {
+   "cn": "黄柏",
+   "en": "amur cork-tree",
+   "source": "中医药学名词",
+   "wordNumber": "06.539",
+   "subjectFullName": "中医药学_中药学_中药",
+   "subjectName": "中药",
+   "publishYear": "2004",
+   "definition": "芸香科植物黄皮树 Phellodendron chinense Schneid. 或黄檗 Phellodendron amurense Rupr. 的干燥树皮。"
+  },
+  {
+   "cn": "命运",
+   "en": "fate",
+   "source": "遗传学名词",
+   "wordNumber": "05.015",
+   "subjectFullName": "遗传学_发育遗传学",
+   "subjectName": "发育遗传学",
+   "publishYear": "2007",
+   "definition": "发育过程中，细胞将分化成的细胞类型。"
+  },
+  {
+   "cn": "归宿",
+   "en": "fate",
+   "source": "生态学名词",
+   "wordNumber": "14.075",
+   "subjectFullName": "生态学_污染生态学",
+   "subjectName": "污染生态学",
+   "publishYear": "2006",
+   "definition": "污染物在经过迁移、转化和降解后，最终在水、沉积物、土壤、大气和生物体等环境单元中沉积和分配的过程。"
+  },
+  {
+   "cn": "阿莫尔(小行星1221号)",
+   "en": "Amor",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "阿莫尔型小行星",
+   "en": "Amors",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "阿莫尔群",
+   "en": "Amor group",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "魔法师的爱情",
+   "en": "Amor brujo\",\"El",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Falla, Manuel de"
+  },
+  {
+   "cn": "爱的甘醇",
+   "en": "Elisir d’amore\",\"L’",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Donizetti, Gaetano"
+  },
+  {
+   "cn": "护面块体",
+   "en": "armor unit\",\"armor block",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "无唾液酸血清类黏蛋白",
+   "en": "asialoorosomucoid\",\"ASOR",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "叶胄",
+   "en": "leaf armor",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "装甲复合材料",
+   "en": "armor composite",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "装甲板",
+   "en": "armor plate",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "飞逝的爱情",
+   "en": "Amour Fugitif\",\"L’",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Cherubini, Maria Luigi"
+  },
+  {
+   "cn": "命运",
+   "en": "fate",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "粗腐殖质",
+   "en": "raw humus\",\"mor",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "脂肪",
+   "en": "fat",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "脂肪",
+   "en": "fat",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "脂肪",
+   "en": "fat",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "棕脂肪，多泡脂肪",
+   "en": "brown fat\",\"multilocular fat",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "白脂肪，单泡脂肪",
+   "en": "white fat\",\"unilocular fat",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "气象光[学视]程",
+   "en": "meteorological optical range\",\"MOR",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "大西洋区",
+   "en": "Atlantic Ocean Region\",\"AOR",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "反洗钱金融行动特别工作组",
+   "en": "Financial Action Task Force on Money Laundering (FATF)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "岂曰无衣，与子同裳。",
+   "en": "Fear not the want of armor, for mine is also yours to wear.或Together we stand, my armors thine.",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际援助",
+   "subjectName": "国际援助",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "抗微生物耐药性",
+   "en": "antimicrobial resistance, AMR",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.2.67",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "耐药性（即抗药性）的一种。指部分微生物（尤为病原微生物）对原本敏感的抗生素产生高度耐受的特性。"
+  },
+  {
+   "cn": "鸭油",
+   "en": "duck fat",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.10.2.5",
+   "subjectFullName": "食品卫生学_食品_食用油脂",
+   "subjectName": "食用油脂",
+   "publishYear": "2025",
+   "definition": "由鸭脂肪中获得的油脂。"
+  },
+  {
+   "cn": "脂肪析出",
+   "en": "fat exudation",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.11.7.2",
+   "subjectFullName": "食品卫生学_食品_罐头食品",
+   "subjectName": "罐头食品",
+   "publishYear": "2025",
+   "definition": "罐头在加工、贮存或运输过程中，内容物中的脂肪分离并在表面聚集形成可见脂肪层的现象。"
+  },
+  {
+   "cn": "羊油",
+   "en": "sheep fat",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.10.2.3",
+   "subjectFullName": "食品卫生学_食品_食用油脂",
+   "subjectName": "食用油脂",
+   "publishYear": "2025",
+   "definition": "由羊内脏附近和皮下含脂肪组织中提取的油脂。"
+  },
+  {
+   "cn": "体脂量",
+   "en": "fat mass",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.4.2.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体成分发育",
+   "subjectName": "体成分发育",
+   "publishYear": "2025",
+   "definition": "人体内脂肪的重量。"
+  },
+  {
+   "cn": "脂肪组件",
+   "en": "fat component",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.2.32",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "由脂肪和/或脂肪酸构成，可选用长链甘油三酯、中链甘油三酯或其他允许使用的脂肪（酸）作为脂肪来源的非全营养配方食品。"
+  },
+  {
+   "cn": "鸡油",
+   "en": "chicken fat",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.10.2.4",
+   "subjectFullName": "食品卫生学_食品_食用油脂",
+   "subjectName": "食用油脂",
+   "publishYear": "2025",
+   "definition": "从鸡腹内脂肪中提取的油脂。"
+  },
+  {
+   "cn": "股骨髋臼撞击综合征",
+   "en": "femoroacetabular impingement,FAI",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.8.8",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_风湿免疫病相关综合征",
+   "subjectName": "风湿免疫病相关综合征",
+   "publishYear": "2025",
+   "definition": "由于髋关节形态改变，即先天性髋臼和股骨近端发育异常，在髋关节运动终末期发生股骨近端和髋臼边缘的异常碰撞，髋臼盂唇和（或）相邻的髋臼软骨的损害，从而引发髋关节疼痛症状，其症状主要表现为腹股沟区疼痛（在联"
+  },
+  {
+   "cn": "体脂率",
+   "en": "body fat ratio",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.2.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测",
+   "subjectName": "学生常见疾病监测",
+   "publishYear": "2025",
+   "definition": "人体脂肪组织占体重的百分比，是比较直观判断肥胖的指标。常用的测量方法主要包括：双能X线吸收法、生物电阻抗法和皮褶厚度法。"
+  },
+  {
+   "cn": "食用动物油脂",
+   "en": "edible animal fat",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.10.2",
+   "subjectFullName": "食品卫生学_食品_食用油脂",
+   "subjectName": "食用油脂",
+   "publishYear": "2025",
+   "definition": "以经动物卫生监督机构检疫、检验合格的生猪、牛、羊、鸡、鸭的板油、肉腰、网膜或附着于内脏器官的纯脂肪组织为原料，炼制成的食用油脂。"
+  },
+  {
+   "cn": "脂溶性抗氧化剂",
+   "en": "fat-soluble antioxidant",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.7.1",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "能防止或延缓食品成分氧化分解、变质，提高食品稳定性的脂溶性物质"
+  },
+  {
+   "cn": "中毒酶转归",
+   "en": "fate of poisoned enzymes",
+   "source": "军事预防医学名词",
+   "wordNumber": "10.5.5.4",
+   "subjectFullName": "军事预防医学_化学武器医学防护学_化学战剂",
+   "subjectName": "化学战剂",
+   "publishYear": "2025",
+   "definition": "神经性毒剂和乙酰胆碱酯酶反应形成的膦酰化酶发生自动活化、重活化或老化的过程和结局。"
+  },
+  {
+   "cn": "脂肪去除效果试验",
+   "en": "fat removal effect test",
+   "source": "消毒学",
+   "wordNumber": "6.2.30.6",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "检测医用清洗剂对污染物中脂肪去除效果的试验。"
+  },
+  {
+   "cn": "油脂制品",
+   "en": "fat and oil products",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.10.3",
+   "subjectFullName": "食品卫生学_食品_食用油脂",
+   "subjectName": "食用油脂",
+   "publishYear": "2025",
+   "definition": "经精炼、氢化、酯交换、分提等一种或几种方式加工的动、植物油脂的单品或混合物，添加（或不添加）水及其他辅料，经（或不经过）乳化急冷捏合制造的固状、半固状或流动状制品。"
+  },
+  {
+   "cn": "非脂可可固形物",
+   "en": "cocoa solids non-fat",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.17.19",
+   "subjectFullName": "食品卫生学_食品_糖果",
+   "subjectName": "糖果",
+   "publishYear": "2025",
+   "definition": "巧克力中不包括可可脂的可可干物质。"
+  },
+  {
+   "cn": "食用油脂",
+   "en": "edible fat and oil",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.10",
+   "subjectFullName": "食品卫生学_食品_食用油脂",
+   "subjectName": "食用油脂",
+   "publishYear": "2025",
+   "definition": "以食用植物油料、植物原油或生猪、牛、羊、鸡、鸭的板油、肉膘、网膜、附着于内脏器官的纯脂肪组织为原料炼制成的产品。"
+  },
+  {
+   "cn": "脂肪校正因子",
+   "en": "fat consumption reduction factor, FRF",
+   "source": "食品卫生学名词",
+   "wordNumber": "7.1.65",
+   "subjectFullName": "食品卫生学_食品相关产品_食品接触材料及制品",
+   "subjectName": "食品接触材料及制品",
+   "publishYear": "2025",
+   "definition": "指对亲脂性物质的特定迁移量进行校正的因子，适用于脂肪含量在20%以上的食品，其计算公式为FRF=（5*食品中的脂肪含量）/100。"
+  },
+  {
+   "cn": "油脂卫生检验",
+   "en": "hygiene testing of oils and fats",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.10.4",
+   "subjectFullName": "食品卫生学_食品_食用油脂",
+   "subjectName": "食用油脂",
+   "publishYear": "2025",
+   "definition": "对油脂及油脂在生产、加工、贮运等过程中可能存在的威胁人类健康的有害因素的监督和检验。"
+  },
+  {
+   "cn": "体脂种族差异",
+   "en": "ethnic difference in body fat",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.4.5.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_体成分发育",
+   "subjectName": "体成分发育",
+   "publishYear": "2025",
+   "definition": "体脂在不同种族间存在差别的现象。"
+  },
+  {
+   "cn": "油脂酸败试验",
+   "en": "rancidity test of oil and fat",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.10.4.22",
+   "subjectFullName": "食品卫生学_食品_食用油脂",
+   "subjectName": "食用油脂",
+   "publishYear": "2025",
+   "definition": "检验油样中是否存有醛来判断油脂是否酸败的试验。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

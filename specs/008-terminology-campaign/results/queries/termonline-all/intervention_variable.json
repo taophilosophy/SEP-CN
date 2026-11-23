@@ -1,0 +1,732 @@
+{
+ "key": "intervention variable",
+ "term": "intervention variable",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T05:01:50+00:00",
+ "status": "ok",
+ "note": "variant=intervention variable; 审定公布名词库=1001; 海峡两岸名词对照库=357; 其他来源数据库=23; 预公布名词数据库=67; jwt-direct（JWT 直连，raw 略；已滤维基 8 条）",
+ "hits": [
+  {
+   "cn": "干预",
+   "en": "intervention",
+   "source": "经济学名词",
+   "wordNumber": "04.070",
+   "subjectFullName": "经济学_宏观经济学",
+   "subjectName": "宏观经济学",
+   "publishYear": "2020",
+   "definition": "资本主义制度中，与自由放任相对立的一种经济政策。在资本主义生产资料私有制条件下，生产经营管理权属于私人资本家手中，资产阶级国家不具有直接管理经济的职能，只能通过一些间接的手段来影响私人资本的活动。这种"
+  },
+  {
+   "cn": "干预",
+   "en": "intervention",
+   "source": "电力名词",
+   "wordNumber": "17.829",
+   "subjectFullName": "电力_核电",
+   "subjectName": "核电",
+   "publishYear": "2020",
+   "definition": "任何旨在减小或避免不属于受控实践的或因事故而失控的辐射源所致的照射或照射可能性的行动。"
+  },
+  {
+   "cn": "干预",
+   "en": "intervention",
+   "source": "核医学名词",
+   "wordNumber": "02.0542",
+   "subjectFullName": "核医学_核医学相关基础学科_放射防护与剂量学",
+   "subjectName": "放射防护与剂量学",
+   "publishYear": "2018",
+   "definition": "任何旨在减小或避免非受控实践或因事故而失控的辐射或辐射可能性风险所采取的有意识的阻止或变更的行为。"
+  },
+  {
+   "cn": "干预",
+   "en": "intervention",
+   "source": "放射医学与防护名词",
+   "wordNumber": "10.077",
+   "subjectFullName": "放射医学与防护_核与辐射突发事件医学应急_医学应急",
+   "subjectName": "医学应急",
+   "publishYear": "2014",
+   "definition": "任何意在减少或避免来自不属于受控实践的、或因事故而失控的源所致的照射或可能受照而采取的行动。"
+  },
+  {
+   "cn": "干预措施",
+   "en": "intervention",
+   "source": "教育学名词",
+   "wordNumber": "13.155",
+   "subjectFullName": "教育学_教育技术",
+   "subjectName": "教育技术",
+   "publishYear": "2013",
+   "definition": "有计划地提高组织和个人的绩效水平的方法与活动。分为知识技能和组织环境两大类，用于解决信息和知识的缺乏或组织环境因素导致的绩效问题。"
+  },
+  {
+   "cn": "代谢调理",
+   "en": "metabolic intervention",
+   "source": "普通外科学名词",
+   "wordNumber": "08.013",
+   "subjectFullName": "医学_普通外科学_代谢与营养",
+   "subjectName": "代谢与营养",
+   "publishYear": "2026",
+   "definition": "在营养支持的同时，应用某些药物或生物制剂抑制应激状态下机体分解激素或细胞因子的产生、调节体内物质代谢过程的方法。目的是减少组织蛋白质分解，恢复机体正常物质代谢。"
+  },
+  {
+   "cn": "干预研究",
+   "en": "intervention study",
+   "source": "急救医学名词",
+   "wordNumber": "03.892",
+   "subjectFullName": "急救医学_日常医学急救_老年学_老年流行病学",
+   "subjectName": "老年流行病学",
+   "publishYear": "2025",
+   "definition": "以人群为试验对象，采用试验法而非观察法，按严格的科研设计进行的研究。包括临床试验、现场试验和社区试验。设计方法主要有随机化对照试验和类实验。"
+  },
+  {
+   "cn": "生活方式干预",
+   "en": "lifestyle intervention",
+   "source": "肝病学名词",
+   "wordNumber": "4.1.7.1.1.5.1",
+   "subjectFullName": "肝病学_脂肪性肝病_非酒精性脂肪性肝病",
+   "subjectName": "非酒精性脂肪性肝病",
+   "publishYear": "2024",
+   "definition": "通过在生活方式方面进行相应的改变以改善健康状态的行为。如饮食控制、运动、减轻体重等。"
+  },
+  {
+   "cn": "昼夜节律干预",
+   "en": "circadian intervention",
+   "source": "睡眠医学名词",
+   "wordNumber": "5.023",
+   "subjectFullName": "睡眠医学_睡眠疾病治疗学_昼夜节律干预",
+   "subjectName": "昼夜节律干预",
+   "publishYear": "2022",
+   "definition": "通过干预患者入睡和觉醒的时间或辅以其他手段如光照疗法等，使患者恢复到正常节律的治疗方法。"
+  },
+  {
+   "cn": "组织干预",
+   "en": "organizational intervention",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "9.035",
+   "subjectFullName": "新闻学与传播学_组织传播_组织传播概论",
+   "subjectName": "组织传播概论",
+   "publishYear": "2022",
+   "definition": "组织运用资源介入一个动态的关系系统，在组织成员个人、群体或目标间往复沟通的活动。这些活动通常在外聘顾问的协助下进行。"
+  },
+  {
+   "cn": "预防性干预",
+   "en": "preventive intervention",
+   "source": "行为医学名词",
+   "wordNumber": "7.008",
+   "subjectFullName": "行为医学_健康相关行为_健康促进行为_预防与干预",
+   "subjectName": "预防与干预",
+   "publishYear": "2022",
+   "definition": "有目的、有计划地采取医学、心理、教育措施或社会治理措施，介入原发展过程，改变发展方向、发展速度或发展形态，从而避免或减轻不良发展后果的一种干预方式。"
+  },
+  {
+   "cn": "普遍性干预",
+   "en": "universal intervention",
+   "source": "行为医学名词",
+   "wordNumber": "7.009",
+   "subjectFullName": "行为医学_健康相关行为_健康促进行为_预防与干预",
+   "subjectName": "预防与干预",
+   "publishYear": "2022",
+   "definition": "面向大众，针对某些导致人群发病率增加的危险因素，进行教育或宣传性干预的一种方式。"
+  },
+  {
+   "cn": "选择性干预",
+   "en": "selective intervention",
+   "source": "行为医学名词",
+   "wordNumber": "7.01",
+   "subjectFullName": "行为医学_健康相关行为_健康促进行为_预防与干预",
+   "subjectName": "预防与干预",
+   "publishYear": "2022",
+   "definition": "针对未出现问题或障碍，但风险高于一般人群的特殊人群，实施有针对性的预防性干预。"
+  },
+  {
+   "cn": "指导性干预",
+   "en": "guiding intervention",
+   "source": "行为医学名词",
+   "wordNumber": "7.011",
+   "subjectFullName": "行为医学_健康相关行为_健康促进行为_预防与干预",
+   "subjectName": "预防与干预",
+   "publishYear": "2022",
+   "definition": "针对有轻微问题或困扰的亚健康群体开展的预防性干预。"
+  },
+  {
+   "cn": "治疗性干预",
+   "en": "therapeutic intervention",
+   "source": "行为医学名词",
+   "wordNumber": "7.012",
+   "subjectFullName": "行为医学_健康相关行为_健康促进行为_预防与干预",
+   "subjectName": "预防与干预",
+   "publishYear": "2022",
+   "definition": "采用一定临床手段、技术对特定个体有针对性的干预方式。包括手术、药物、行为或心理干预方法。"
+  },
+  {
+   "cn": "健康干预",
+   "en": "health intervention",
+   "source": "行为医学名词",
+   "wordNumber": "8.03",
+   "subjectFullName": "行为医学_预防保健行为_健康干预",
+   "subjectName": "健康干预",
+   "publishYear": "2022",
+   "definition": "针对各类人群的健康危险因素进行全面检查、监测、分析、评估、预测、干预并维护其身心健康的全过程。"
+  },
+  {
+   "cn": "营养干预",
+   "en": "nutrition intervention",
+   "source": "行为医学名词",
+   "wordNumber": "8.034",
+   "subjectFullName": "行为医学_预防保健行为_健康干预",
+   "subjectName": "健康干预",
+   "publishYear": "2022",
+   "definition": "针对具有营养风险或营养不足的目标人群制订营养支持计划并实施的过程。"
+  },
+  {
+   "cn": "亚健康干预",
+   "en": "subhealth intervention",
+   "source": "行为医学名词",
+   "wordNumber": "8.041",
+   "subjectFullName": "行为医学_预防保健行为_健康干预",
+   "subjectName": "健康干预",
+   "publishYear": "2022",
+   "definition": "对个体的亚健康状况及程度进行分析和判断，为亚健康个体或人群提供预防和治疗方案及康复建议的行为。"
+  },
+  {
+   "cn": "危机干预",
+   "en": "crisis intervention",
+   "source": "行为医学名词",
+   "wordNumber": "13.062",
+   "subjectFullName": "行为医学_自伤行为与自杀行为_自杀行为",
+   "subjectName": "自杀行为",
+   "publishYear": "2022",
+   "definition": "通过调动处于危机中的个体的自身潜能，重新建立或恢复危机发生前心理平衡状态的心理咨询和治疗技术。"
+  },
+  {
+   "cn": "消融干预",
+   "en": "defusing intervention",
+   "source": "行为医学名词",
+   "wordNumber": "13.073",
+   "subjectFullName": "行为医学_自伤行为与自杀行为_自杀行为",
+   "subjectName": "自杀行为",
+   "publishYear": "2022",
+   "definition": "一种针对紧急事件救护人员的危机干预方法。通过为救护人员提供表达思想和情感的机会，减轻其内疚感。包括接触、评估、收集事实、了解当事人思维活动、了解当事人情感体验、支持-保证-提供信息六个阶段。"
+  },
+  {
+   "cn": "干预",
+   "en": "intervention",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "表象调节",
+   "en": "imagery intervention",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "危机干预",
+   "en": "crisis intervention",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "家庭干预",
+   "en": "family intervention",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "介入材料",
+   "en": "intervention materials",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "人工干预",
+   "en": "manual intervention",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "介入放射学",
+   "en": "interventional radiology",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "参与承兑汇票",
+   "en": "intervention for honour",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "多种货币干预",
+   "en": "multi-currency intervention",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "变量",
+   "en": "variable",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "变量",
+   "en": "variable",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "可变的",
+   "en": "variable",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "变率，变异性",
+   "en": "variability",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "变异性",
+   "en": "variability",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "变异性",
+   "en": "variability",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "变异性",
+   "en": "variability",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "变异性",
+   "en": "variability",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "变异性",
+   "en": "variability",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "技术转让的政府干预",
+   "en": "government intervention in technology transfer",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "操作变量",
+   "en": "operating variable\",\"operational variable",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "无介入看护",
+   "en": "non-interventional care",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "综合性非药物性干预措施",
+   "en": "comprehensive non-pharmaceutical interventions",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "多维变量",
+   "en": "multidimensional variable",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "金融风险预警干预机制",
+   "en": "financial risk early warning and intervention mechanism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "时变数据",
+   "en": "time-varying data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "情以物迁，辞以情发",
+   "en": "Feeling Varies with Scenery and Verbal Expression Arises from Feeling.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "断球",
+   "en": "intercept\",\"interception",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "断球",
+   "en": "intercept\",\"interception",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "断球",
+   "en": "intercept\",\"interception",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "断球",
+   "en": "intercept the ball\",\"interception",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "断球",
+   "en": "intercept the ball\",\"interception",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "拦截防守反击",
+   "en": "stop hit with interception",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "干预",
+   "en": "intervention",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.6",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "任何旨在减少或避免不属于受控实践的或因事故而失控的源所致的照射或照射可能性的行动。"
+  },
+  {
+   "cn": "干预",
+   "en": "intervention",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.7.16",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核事故应急救援",
+   "subjectName": "核事故应急救援",
+   "publishYear": "2025",
+   "definition": "目的在于减少事实上业已存在的照射（例如事故照射）的任何行动，包括变更已存在的照射原因，限定已存在的照射途径，以及改变人们的习惯、行动和生活环境，以防止其受到照射。"
+  },
+  {
+   "cn": "干预水平",
+   "en": "intervention level",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.7.25",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核事故应急救援",
+   "subjectName": "核事故应急救援",
+   "publishYear": "2025",
+   "definition": "针对应急照射情况或持续照射情况所制定的可防止的剂量水平，当达到这种水平时应考虑采取相应的防护行动或补救行动。"
+  },
+  {
+   "cn": "国家干预",
+   "en": "state intervention",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.61",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "在以市场机制为基础的市场经济条件下，为了克服市场失灵，国家运用管制和宏观调控等手段规范市场主体行为，校正、补充市场缺陷的活动的总称。"
+  },
+  {
+   "cn": "社会干预",
+   "en": "social intervention",
+   "source": "社会学名词",
+   "wordNumber": "3.6.4.11",
+   "subjectFullName": "社会学名词_分支社会学_政治社会学_公民权与公民参与",
+   "subjectName": "公民权与公民参与",
+   "publishYear": "2025",
+   "definition": "负有保护责任的机关、组织或者公民，为了被保护人的合法权益而以自己的名义提起民事诉讼的活动。例如工会、妇女联合会、共青团等组织为保护其所属成员的合法权益即可向法院提起诉讼。"
+  },
+  {
+   "cn": "介入方案",
+   "en": "intervention plan/",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.11",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "社会工作介入服务对象的需要与问题所制定的具体方案，其侧重于改变服务对象态度和行为的一系列方法及其运用。"
+  },
+  {
+   "cn": "介入",
+   "en": "intervention，treatment",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.13",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "社会工作者和服务对象采取实际行动，按照服务协议落实社会工作计划的目标，解决预估中确认的问题，帮助服务对象改变，从而实现助人计划的环节。"
+  },
+  {
+   "cn": "综合介入",
+   "en": "comprehensive intervention",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.16",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "关注“人与环境”两者间的互动关系与介入策略，体现社会综合治理理念，包含直接服务和间接服务在内的介入行动。"
+  },
+  {
+   "cn": "主动干预",
+   "en": "active intervention",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "通过激发内因（如主动选择安全设备，或采取健康行为方式等）来影响人们的行为。"
+  },
+  {
+   "cn": "被动干预",
+   "en": "passive intervention",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.3.2",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "通过外因改变（如改善外界环境因素）来影响人们的行为。"
+  },
+  {
+   "cn": "工程干预",
+   "en": "engineering intervention",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.3.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "通过改革工艺、设备（或技术）革新等工程条件的改善来影响人们的行为。"
+  },
+  {
+   "cn": "经济干预",
+   "en": "economic intervention",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.3.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "通过经济鼓励手段或罚款来影响人们的行为。"
+  },
+  {
+   "cn": "强制干预",
+   "en": "enforcement intervention",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.3.2.3",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "通过法律和法规措施影响人们的行为。"
+  },
+  {
+   "cn": "教育干预",
+   "en": "educational intervention",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.3.2.4",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "通过普及安全知识影响人们行为的过程。"
+  },
+  {
+   "cn": "营养干预",
+   "en": "nutrition intervention",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_学校营养食物供应",
+   "subjectName": "学校营养食物供应",
+   "publishYear": "2025",
+   "definition": "针对人群中与营养有关的健康问题采取相应对策进行改善的行为，旨在解决具体营养问题，改善高危人群的营养状况。"
+  },
+  {
+   "cn": "工程干预",
+   "en": "engineering intervention",
+   "source": "社会医学名词",
+   "wordNumber": "13.9.3.1",
+   "subjectFullName": "社会病",
+   "subjectName": "社会病防治",
+   "publishYear": "2025",
+   "definition": "通过影响媒介及物理环境，减少和消除伤害发生危险的干预措施。"
+  },
+  {
+   "cn": "心理干预",
+   "en": "psychological intervention",
+   "source": "社会医学名词",
+   "wordNumber": "13.9.1",
+   "subjectFullName": "社会病",
+   "subjectName": "社会病防治",
+   "publishYear": "2025",
+   "definition": "在心理学理论指导下，有计划、按步骤地对一定对象的心理活动、个性特征或行为问题施加影响，使之发生朝向预期目标变化的过程。"
+  },
+  {
+   "cn": "行为干预",
+   "en": "behaviour intervention",
+   "source": "社会医学名词",
+   "wordNumber": "13.9.2",
+   "subjectFullName": "社会病",
+   "subjectName": "社会病防治",
+   "publishYear": "2025",
+   "definition": "通过系统化的方法来改变个体的行为模式，以促进其心理健康和社会适应能力。"
+  },
+  {
+   "cn": "经济干预",
+   "en": "economic intervention",
+   "source": "社会医学名词",
+   "wordNumber": "13.9.3.2",
+   "subjectFullName": "社会病",
+   "subjectName": "社会病防治",
+   "publishYear": "2025",
+   "definition": "用经济鼓励或惩罚的手段影响人们行为的干预措施。"
+  },
+  {
+   "cn": "免疫干预",
+   "en": "immunologic intervention",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.4.66",
+   "subjectFullName": "食品卫生学_食源性疾病_食物过敏",
+   "subjectName": "食物过敏",
+   "publishYear": "2025",
+   "definition": "出于疾病防治和应用的目的，人为地改变或修正正常或异常的免疫应答格局，也包括改变和修正免疫调节的进程。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

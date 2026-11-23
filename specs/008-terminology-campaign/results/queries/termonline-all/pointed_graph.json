@@ -1,0 +1,732 @@
+{
+ "key": "pointed graph",
+ "term": "pointed graph",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T05:03:35+00:00",
+ "status": "ok",
+ "note": "variant=pointed graph; 审定公布名词库=2424; 海峡两岸名词对照库=813; 其他来源数据库=166; 预公布名词数据库=33; jwt-direct（JWT 直连，raw 略；已滤维基 8 条）",
+ "hits": [
+  {
+   "cn": "点图",
+   "en": "point graph",
+   "source": "电子学名词",
+   "wordNumber": "05.289",
+   "subjectFullName": "电子学_信息论与信号处理技术",
+   "subjectName": "信息论与信号处理技术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "割点图",
+   "en": "cut point graph",
+   "source": "数学名词",
+   "wordNumber": "03.0111",
+   "subjectFullName": "数学_组合学·一般数学系统_图论",
+   "subjectName": "图论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "图",
+   "en": "graph",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "01.090",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_通论",
+   "subjectName": "通论",
+   "publishYear": "2024",
+   "definition": "由一组有限个节点和节点与节点之间的一组联线组成，通常用节点表示事物或现象，图中联线表示事物或现象之间的联系。其是数学分析中的工具。"
+  },
+  {
+   "cn": "算图",
+   "en": "graph",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0186",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械制图_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2021",
+   "definition": "运用标有数值的几何图形或图线进行数学计算的图。"
+  },
+  {
+   "cn": "图[形]",
+   "en": "graph",
+   "source": "物理学名词",
+   "wordNumber": "01.0556",
+   "subjectFullName": "物理学_通类_数学",
+   "subjectName": "数学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "图",
+   "en": "graph",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0064",
+   "subjectFullName": "计算机科学技术_理论计算机科学_数据结构",
+   "subjectName": "数据结构",
+   "publishYear": "2018",
+   "definition": "由顶点的有限集和边的有限集组成的数据结构。图的有向边也称为弧。"
+  },
+  {
+   "cn": "图形",
+   "en": "graph",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.645",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "在载体上以几何线条和几何符号等反映事物各类特征和变化规律的表现形式。"
+  },
+  {
+   "cn": "图",
+   "en": "graph",
+   "source": "数学名词",
+   "wordNumber": "03.0060",
+   "subjectFullName": "数学_组合学·一般数学系统_图论",
+   "subjectName": "图论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "同源字",
+   "en": "cognate graph,paronymy graph",
+   "source": "语言学名词",
+   "wordNumber": "02.050",
+   "subjectFullName": "语言学_文字学_汉字的起源和发展演变",
+   "subjectName": "汉字的起源和发展演变",
+   "publishYear": "2011",
+   "definition": "具有同一形体来源和字形分化关系的一组字。"
+  },
+  {
+   "cn": "后起字",
+   "en": "younger graph,later graph",
+   "source": "语言学名词",
+   "wordNumber": "02.171",
+   "subjectFullName": "语言学_文字学_汉字系统内部关系",
+   "subjectName": "汉字系统内部关系",
+   "publishYear": "2011",
+   "definition": "与“初文”相对。在历时汉字系统中，对于记录相同词义的一组字来说，出现相对较晚的后起汉字。"
+  },
+  {
+   "cn": "图",
+   "en": "graph,plot",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.637",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "一种节点连接集合，由某些节点与分支节点连接而成。"
+  },
+  {
+   "cn": "有向图",
+   "en": "directed graph",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "03.017",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程模拟",
+   "subjectName": "过程模拟",
+   "publishYear": "2024",
+   "definition": "由节点的集合和边的集合组成，且每条边均为有方向的边的图。"
+  },
+  {
+   "cn": "趋势图",
+   "en": "trend graph",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "03.144",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程模拟",
+   "subjectName": "过程模拟",
+   "publishYear": "2024",
+   "definition": "某些变量随时间的变化关系的图形表示。"
+  },
+  {
+   "cn": "层次图",
+   "en": "hierarchical graph",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "06.251",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_信息基础设施",
+   "subjectName": "信息基础设施",
+   "publishYear": "2024",
+   "definition": "用来描绘软件的层次结构图，其中方框表示模块或子模块，连线代表调用关系。"
+  },
+  {
+   "cn": "图形",
+   "en": "graph;graphics",
+   "source": "编辑与出版学名词",
+   "wordNumber": "01.02.064",
+   "subjectFullName": "编辑与出版学_综论_编辑基础",
+   "subjectName": "编辑基础",
+   "publishYear": "2022",
+   "definition": "通过造型手段形成的、具有形态特征和（或）数学描述的信息集合。"
+  },
+  {
+   "cn": "单纯图",
+   "en": "simplicial graph",
+   "source": "物理学名词",
+   "wordNumber": "08.0618",
+   "subjectFullName": "物理学_凝聚态物理学_结构",
+   "subjectName": "结构",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "对偶图",
+   "en": "dual graph",
+   "source": "物理学名词",
+   "wordNumber": "08.0619",
+   "subjectFullName": "物理学_凝聚态物理学_结构",
+   "subjectName": "结构",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "共价图",
+   "en": "covalent graph",
+   "source": "物理学名词",
+   "wordNumber": "08.0624",
+   "subjectFullName": "物理学_凝聚态物理学_结构",
+   "subjectName": "结构",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "从图",
+   "en": "bundle graph",
+   "source": "物理学名词",
+   "wordNumber": "05.0705",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "链图",
+   "en": "chain graph",
+   "source": "物理学名词",
+   "wordNumber": "05.0704",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "点图",
+   "en": "point graph",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "图",
+   "en": "graph",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "图",
+   "en": "graph",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "图论",
+   "en": "graph theory",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "偶图",
+   "en": "bipartite graph",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "对数图",
+   "en": "logarithmic graph",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "图论",
+   "en": "graph theory",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "线划图",
+   "en": "line graph",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "边图",
+   "en": "edge graph",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "博弈图",
+   "en": "game graph",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "二分图",
+   "en": "bipartite graph",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "概念图",
+   "en": "conceptual graph",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "加标图",
+   "en": "marked graph",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "加权图",
+   "en": "weighted graph",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "解图",
+   "en": "solution graph",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "可达图",
+   "en": "reachability graph",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "可覆盖图",
+   "en": "coverability graph",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "任务图",
+   "en": "task graph",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "搜索图",
+   "en": "search graph",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "图的着色",
+   "en": "graph coloring",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "图论",
+   "en": "graph theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识图谱",
+   "en": "knowledge graph",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "简单图",
+   "en": "simple graph",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "标签图",
+   "en": "labeled graph",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "属性图",
+   "en": "property graph",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "图存储",
+   "en": "graph storage",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "图模型",
+   "en": "graph model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "图数据库",
+   "en": "graph database",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "图处理",
+   "en": "graph processing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "图结构",
+   "en": "graph structure",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "图划分",
+   "en": "graph partition",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "图团体检测",
+   "en": "graph community detection",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "曲棍球杆图",
+   "en": "hockey stick graph",
+   "source": "社会学名词",
+   "wordNumber": "3.14.5.4",
+   "subjectFullName": "社会学名词_分支社会学环境社会学",
+   "subjectName": "分支社会学环境社会学",
+   "publishYear": "2025",
+   "definition": "描述千年以来北半球平均气温的变化就像曲棍球杆的一个曲线形状。"
+  },
+  {
+   "cn": "采样点",
+   "en": "sampling point",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.20",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "当地居民的主要购买场所和餐饮服务场所"
+  },
+  {
+   "cn": "参考点",
+   "en": "reference point",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.40",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "参考平面与辐射束轴相交处的点。"
+  },
+  {
+   "cn": "预警中心",
+   "en": "warning point",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.21",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "充当配有工作人员或能始终处于戒备状态以便对所收到的通报、预警信息、援助要求或信息核实要求（适当时来自原子能机构）迅速作出响应或启动这种响应的联络点的指定组织。"
+  },
+  {
+   "cn": "点弹性",
+   "en": "point elasticity",
+   "source": "卫生经济学名词",
+   "wordNumber": "4.3.1.2",
+   "subjectFullName": "卫生经济学名词_卫生服务需求_卫生服务需求弹性",
+   "subjectName": "卫生服务需求弹性",
+   "publishYear": "2025",
+   "definition": "自变量的一个无穷小的相对变动与因变量的一个无穷小的相对变动之比，是对需求曲线上某一点的弹性的精确度量。"
+  },
+  {
+   "cn": "监测点",
+   "en": "monitoring point",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.19",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "根据我国的行政区划，在风险监测工作中采集监测样品的县（区）"
+  },
+  {
+   "cn": "参考测量点",
+   "en": "reference measuring point",
+   "source": "消毒学",
+   "wordNumber": "3.1.3.2.3",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "用于操作灭菌周期控制的温度传感器位置。"
+  },
+  {
+   "cn": "零效反应点",
+   "en": "null reaction point",
+   "source": "消毒学",
+   "wordNumber": "3.1.6.6.1",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "由文件规定或已经确立和证实，对指示物无显著影响的系列终止条件。"
+  },
+  {
+   "cn": "关键控制点",
+   "en": "critical control point",
+   "source": "消毒学",
+   "wordNumber": "5.1.7.7",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "能够控制并使某一影响消毒产品质量的因素得到预防、消除或降低到可接受的水平的某一点、某一步骤或程序。"
+  },
+  {
+   "cn": "分布式点估计",
+   "en": "distributed point estimate",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.44",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "通过基于一次食物消费调查获得的食物消费量的经验分布和来自相关食物产品的代表化学物浓度的点估计值来进行的评估的方法。"
+  },
+  {
+   "cn": "起点公平",
+   "en": "fair starting point",
+   "source": "社会医学名词",
+   "wordNumber": "3.2.3",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "健康公平",
+   "publishYear": "2025",
+   "definition": "社会成员在参与经济活动时依法享有平等的权利，包括平等的参与机会、发展机会和共享机会，即实现权利公平与机会公平。"
+  },
+  {
+   "cn": "关键控制点",
+   "en": "critical control point",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.5.5",
+   "subjectFullName": "食品卫生学_食品安全风险管理_危害分析与关键控制点",
+   "subjectName": "危害分析与关键控制点",
+   "publishYear": "2025",
+   "definition": "食品加工过程中可以防止、消除食品安全危害或减少到可接受水平的某一步骤或工序。"
+  },
+  {
+   "cn": "分离点",
+   "en": "point of departure, POD",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.19",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "从人群研究或动物试验中敏感效应终点的剂量-反应关系得到的、用于外推健康指导值的剂量。如未观察到损害作用剂量（NOAEL）和基准剂量（BMD）等。"
+  },
+  {
+   "cn": "使用点预处理",
+   "en": "point-of-use preparation",
+   "source": "消毒学",
+   "wordNumber": "4.6.19.4.4",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "在使用点对使用后的诊疗器械、器具和物品的分类、去除表面及管腔内明显污物、根据需要保湿等处理。"
+  },
+  {
+   "cn": "参考剂量点",
+   "en": "reference dose point，RDP",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.4",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "辐射场内特定的一点。为检验方便，通常选定在辐射束中心轴线通过体模正面中心的表面。"
+  },
+  {
+   "cn": "关键测量点",
+   "en": "key measurement point，KMP",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.7.8",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护",
+   "subjectName": "核工业的放射防护",
+   "publishYear": "2025",
+   "definition": "可以确定核材料流量或存量的一种测量位置。"
+  },
+  {
+   "cn": "四个同样重要",
+   "en": "four points of equal importance",
+   "source": "马克思主义",
+   "wordNumber": "03.0622",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "江泽民2002年视察中国人民大学时提出“四个同样重要”，即“哲学社会科学与自然科学同样重要，培养高水平的哲学社会科学家与培养高水平的自然科学家同样重要，提高全民族的哲学社会科学素质与提高全民族的自然科"
+  },
+  {
+   "cn": "关键控制点判断树",
+   "en": "critical control point decision tree",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.5.6",
+   "subjectFullName": "食品卫生学_食品安全风险管理_危害分析与关键控制点",
+   "subjectName": "危害分析与关键控制点",
+   "publishYear": "2025",
+   "definition": "用来确定某个控制点是否是关键控制点的方法。"
+  },
+  {
+   "cn": "四个如何认识",
+   "en": "four points of how to understand",
+   "source": "马克思主义",
+   "wordNumber": "03.0621",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "2000年6月28日江泽民在中央思想政治工作会议上提出“如何认识社会主义发展的历史进程，如何认识资本主义发展的历史进程，如何认识我国社会主义改革实践过程对人们思想的影响，如何认识当今的国际环境和国际斗"
+  },
+  {
+   "cn": "铀矿石放射性检查站",
+   "en": "radiometric check-point of uranium ore",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.1.5",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护_铀矿冶",
+   "subjectName": "铀矿冶",
+   "publishYear": "2025",
+   "definition": "利用铀矿石产生的γ射线将铀矿石分成不同品级产品的工业设施。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

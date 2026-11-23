@@ -1,0 +1,752 @@
+{
+ "key": "savings principle",
+ "term": "savings principle",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T05:04:41+00:00",
+ "status": "ok",
+ "note": "variant=savings principle; 审定公布名词库=1003; 海峡两岸名词对照库=242; 其他来源数据库=89; 预公布名词数据库=118; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "储蓄",
+   "en": "saving",
+   "source": "经济学名词",
+   "wordNumber": "04.134",
+   "subjectFullName": "经济学_宏观经济学",
+   "subjectName": "宏观经济学",
+   "publishYear": "2020",
+   "definition": "可支配收入中没有被用于消费的部分。"
+  },
+  {
+   "cn": "储蓄存款",
+   "en": "saving",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0298",
+   "subjectFullName": "管理科学技术_金融工程_原理",
+   "subjectName": "原理",
+   "publishYear": "2016",
+   "definition": "城乡居民将待用或结余的资金存入银行或其他金融机构的一种信用活动。这类存款通常具备到期期限的要约。"
+  },
+  {
+   "cn": "储蓄银行",
+   "en": "savings bank",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0281",
+   "subjectFullName": "管理科学技术_金融工程_原理",
+   "subjectName": "原理",
+   "publishYear": "2016",
+   "definition": "通过吸收储蓄存款获取资金从事金融业务的银行。"
+  },
+  {
+   "cn": "储蓄机构",
+   "en": "savings institution",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0713",
+   "subjectFullName": "管理科学技术_金融工程_金融市场与机构",
+   "subjectName": "金融市场与机构",
+   "publishYear": "2016",
+   "definition": "以吸收家庭储蓄存款和办理家庭住房抵押贷款等贷款业务为主要目的的一类金融服务机构。主要包括互助储蓄银行、储蓄与贷款协会和信用合作社等。"
+  },
+  {
+   "cn": "储蓄所",
+   "en": "savings bank",
+   "source": "建筑学名词",
+   "wordNumber": "02.0626",
+   "subjectFullName": "建筑学_建筑类型及组成_商业服务建筑",
+   "subjectName": "商业服务建筑",
+   "publishYear": "2014",
+   "definition": "银行派出机构的营业建筑。"
+  },
+  {
+   "cn": "国民储蓄",
+   "en": "national saving",
+   "source": "经济学名词",
+   "wordNumber": "04.118",
+   "subjectFullName": "经济学_宏观经济学",
+   "subjectName": "宏观经济学",
+   "publishYear": "2020",
+   "definition": "国民可支配总收入减去最终消费支出后的差额，包括政府储蓄、企业储蓄和居民储蓄三个组成部分。"
+  },
+  {
+   "cn": "私人储蓄",
+   "en": "private saving",
+   "source": "经济学名词",
+   "wordNumber": "04.119",
+   "subjectFullName": "经济学_宏观经济学",
+   "subjectName": "宏观经济学",
+   "publishYear": "2020",
+   "definition": "国外的统计文献中，一般把企业储蓄和居民储蓄之和称作私人储蓄。"
+  },
+  {
+   "cn": "强制性储蓄",
+   "en": "forced saving",
+   "source": "经济学名词",
+   "wordNumber": "06.022",
+   "subjectFullName": "经济学_发展经济学",
+   "subjectName": "发展经济学",
+   "publishYear": "2020",
+   "definition": "由于物价上涨、消费降低形成的储蓄。在货币幻觉的作用下，人们意识不到物价上涨的存在，消费支出的名义货币量不变，由于物价上涨，人们的真实消费支出减少。或者，人们意识到物价的上涨，但出于保持其持有的货币的真"
+  },
+  {
+   "cn": "节省法",
+   "en": "saving method",
+   "source": "心理学名词",
+   "wordNumber": "02.567",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "测量重新学习达到恰好背诵的程度时所用时间与先前学习所用时间的差来表示学习效果的一种记忆研究的实验方法。"
+  },
+  {
+   "cn": "节约用水",
+   "en": "water saving",
+   "source": "资源科学技术名词",
+   "wordNumber": "15.114",
+   "subjectFullName": "资源科学技术_水资源学",
+   "subjectName": "水资源学",
+   "publishYear": "2008",
+   "definition": "采用先进的用水技术，降低水的消耗，提高水的重复利用率，实现合理用水的方式。"
+  },
+  {
+   "cn": "节约用水",
+   "en": "water saving",
+   "source": "水利科学技术名词",
+   "wordNumber": "02.283",
+   "subjectFullName": "水利科学技术_水文、水资源_水资源（水利）",
+   "subjectName": "水资源（水利）",
+   "publishYear": "1997",
+   "definition": "为达到同等用水效果而科学合理地减少供水量的活动措施。"
+  },
+  {
+   "cn": "保存点",
+   "en": "save point",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0297",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "一种由用户在应用程序中声明用来回退部分事务（保存点之后的那部分）的机制。"
+  },
+  {
+   "cn": "原理",
+   "en": "principle",
+   "source": "物理学名词",
+   "wordNumber": "01.0139",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "原理",
+   "en": "principle",
+   "source": "数学名词",
+   "wordNumber": "01.0020",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "役使原理",
+   "en": "slaving principle",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.761",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_复杂系统科学哲学",
+   "subjectName": "复杂系统科学哲学",
+   "publishYear": "2024",
+   "definition": "协同学的基本原理之一。是对序参量形成后支配与规定子系统的行为、主宰系统的相变并促使系统向有序状态演化的过程的理论阐述，在哲学上称为从宏观到微观的下向因果关系。"
+  },
+  {
+   "cn": "奴役原理",
+   "en": "slaving principle",
+   "source": "物理学名词",
+   "wordNumber": "11.0533",
+   "subjectFullName": "物理学_交叉学科_非线性物理学",
+   "subjectName": "非线性物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "役使原理",
+   "en": "slaving principle",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_其他力学",
+   "subjectName": "其他力学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "役使原理",
+   "en": "slaving principle",
+   "source": "自动化名词",
+   "wordNumber": "03.188",
+   "subjectFullName": "自动化科学技术_自动化技术系统_大系统",
+   "subjectName": "大系统",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "合约储蓄机构",
+   "en": "contractual savings institution",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0724",
+   "subjectFullName": "管理科学技术_金融工程_金融市场与机构",
+   "subjectName": "金融市场与机构",
+   "publishYear": "2016",
+   "definition": "通过定期合约获得资金的金融中介。包括国家准备基金、人寿保险公司、养老基金和社会养老保险体系，拥有长期债务和稳定的现金流，因此成为定期融资的理想提供者。"
+  },
+  {
+   "cn": "省柴灶",
+   "en": "fuel-saving stove",
+   "source": "农学名词",
+   "wordNumber": "14.249",
+   "subjectFullName": "农业工程_农业生物质与农村能源",
+   "subjectName": "农业生物质与农村能源",
+   "publishYear": "2025",
+   "definition": "以生物质为燃料，农村户用炊事和取暖兼用的用能设备。"
+  },
+  {
+   "cn": "保存",
+   "en": "save",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "储蓄存款",
+   "en": "savings deposit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "储蓄率",
+   "en": "savings ratio",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "储蓄银行",
+   "en": "savings bank",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "储蓄账户",
+   "en": "savings account",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "储蓄资本",
+   "en": "savings capital",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "分期储蓄",
+   "en": "installment savings",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "节省法",
+   "en": "saving method",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "保留条款",
+   "en": "saving clause",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "长期储蓄",
+   "en": "permanent saving",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "互助储蓄",
+   "en": "mutual saving",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "强制储蓄",
+   "en": "compulsory saving",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "强制储蓄",
+   "en": "forced saving",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "私人储蓄",
+   "en": "personal saving",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "私人储蓄",
+   "en": "private saving",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "保存区",
+   "en": "save area",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "原理",
+   "en": "principle",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "原则",
+   "en": "principle",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "原理",
+   "en": "principle",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "储蓄存单",
+   "en": "savings deposit certificate",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "救球",
+   "en": "save",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "救球",
+   "en": "save",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "救援",
+   "en": "save",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "节能量",
+   "en": "energy savings",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "守门员救球",
+   "en": "catch\",\"save",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "XML文档存储",
+   "en": "XML file saving",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "JSON文档存储",
+   "en": "JSON file saving",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "救球",
+   "en": "stop\",\"save\",\"stopping",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "鱼跃救球",
+   "en": "dive\",\"diving save",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "救球",
+   "en": "save\",\"catch\",\"block",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "万物之理",
+   "en": "Universal Principle",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "不确定[性]原理",
+   "en": "uncertainty principle",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "多语言原则",
+   "en": "multilingual principle",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "通知原则",
+   "en": "notice principle",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社区续存论",
+   "en": "community saved",
+   "source": "社会学名词",
+   "wordNumber": "3.17.2.6",
+   "subjectFullName": "社会学名词_分支社会学_社区_西方社区概念",
+   "subjectName": "西方社区概念",
+   "publishYear": "2025",
+   "definition": "城市化与社会变迁并未带来城市社区的消亡，社区的独特性质在城市社会中仍在一定程度上保留着，特别是在移民和少数族裔聚居地区的理论观点。代表人物是刘易斯(Oscar Lewis）和甘斯(Herbert Ga"
+  },
+  {
+   "cn": "存表",
+   "en": "save table",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.7.1.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生健康档案管理",
+   "subjectName": "学生健康档案管理",
+   "publishYear": "2025",
+   "definition": "学生纸质健康档案建立后,由学校卫生工作人员负责存放在学校卫生室的过程；无卫生室的学校由负责健康体检的单位指导校方保存，并有专人负责保存。"
+  },
+  {
+   "cn": "原则",
+   "en": "principle",
+   "source": "马克思主义",
+   "wordNumber": "04.0059",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "指导言论和行动的理论规定。在社会生活中，原则常被作为人们言行的准则。在具体科学中含有公理性质的意思。原则是人们在社会实践中对客观事物及其规律进行的抽象，是一般原理。原则具有相对稳定性，但并不是凝固不变"
+  },
+  {
+   "cn": "医疗储蓄账户",
+   "en": "medical savings accounts",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.2.1.4.1",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险类型",
+   "subjectName": "健康保险类型",
+   "publishYear": "2025",
+   "definition": "医疗保险基金管理机构为被保险人和退休职工设立的基本医疗保险账户或简称个人账户，用于被保险人生病或受伤时支付医疗费用"
+  },
+  {
+   "cn": "储蓄式医疗保险",
+   "en": "saving medical insurance",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.2.1.4",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险类型",
+   "subjectName": "健康保险类型",
+   "publishYear": "2025",
+   "definition": "全称“新加坡储蓄医疗保险(Medisave)”。政府通过立法，强制企业和职工缴纳保险费，以职工的名义建立保健储蓄账户，用于支付个人及其家庭成员的医疗费用的一类医疗保障模式"
+  },
+  {
+   "cn": "时序性原则",
+   "en": "chronological principle",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.3.9",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护",
+   "subjectName": "放射工作人员健康监护",
+   "publishYear": "2025",
+   "definition": "职业性放射性疾病一定发生在职业接触电离辐射之后，并符合放射性疾病生物学潜隐期的客观规律。"
+  },
+  {
+   "cn": "法律原理",
+   "en": "legal principle",
+   "source": "社会学名词",
+   "wordNumber": "3.7.7.2",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律多元主义",
+   "subjectName": "法律多元主义",
+   "publishYear": "2025",
+   "definition": "与特定法律有联系，建立、证明或补充、批评、修正现存法律规则的价值、理念及其体系。"
+  },
+  {
+   "cn": "谨慎原则",
+   "en": "precautionary principle",
+   "source": "社会学名词",
+   "wordNumber": "3.14.5.2",
+   "subjectFullName": "社会学名词_分支社会学环境社会学",
+   "subjectName": "分支社会学环境社会学",
+   "publishYear": "2025",
+   "definition": "如果一个行动或政策有可能引发危害公众或环境的风险，在没有一致的科学意见认为行动或政策有害的情况下，证明行动无害的举证责任就落在那些要采取行动的人身上。"
+  },
+  {
+   "cn": "头尾发展律",
+   "en": "cephalocaudal principle",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.1.10.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育规律",
+   "subjectName": "生长发育规律",
+   "publishYear": "2025",
+   "definition": "胎儿至婴幼儿期体格和粗大动作发育遵循从头部到尾部发展的程序性。"
+  },
+  {
+   "cn": "近侧发展律",
+   "en": "proximodistal principle",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.1.10.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育规律",
+   "subjectName": "生长发育规律",
+   "publishYear": "2025",
+   "definition": "胎儿期至儿童期体格发育遵循从身体的近端（或中心）到远端（或外周）发展的程序性。表现为躯干的生长先于四肢，四肢的近端生长先于远端。"
+  },
+  {
+   "cn": "相互作用原理",
+   "en": "interrelated principle",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "1.6.3.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生学_妇幼卫生理论",
+   "subjectName": "妇幼卫生理论",
+   "publishYear": "2025",
+   "definition": "个体的行为嵌套于具体的社会关系之中，受社会影响的同时也在影响社会的学说。"
+  },
+  {
+   "cn": "参与原则",
+   "en": "participation principle",
+   "source": "社会医学名词",
+   "wordNumber": "10.2.1.4.7.2",
+   "subjectFullName": "政策与策略",
+   "subjectName": "策略",
+   "publishYear": "2025",
+   "definition": "在卫生政策与服务的制定、执行与评估过程中，应确保公众、社区和各类相关利益方的积极参与，提升政策的可接受性、适用性与持续性。"
+  },
+  {
+   "cn": "保密原则",
+   "en": "confidentiality principle",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.074",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "医务人员、研究人员及相关机构对患者或研究参与者在诊疗或参与医学活动过程中提供的个人信息、健康状况、医疗记录等隐私数据负有严格保密义务，未经当事人明确授权不得向第三方泄露的伦理原则。"
+  },
+  {
+   "cn": "裂变原则",
+   "en": "fission principle",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0541",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "英国人类学家埃文斯-普理查德（Evans-Pritchard）在其代表作《努尔人》一书中提出，该原则是在一种无国家的社会组织中被注意到的社会组织原则。在无国家社会中，人们根据血缘关系的亲疏来组成不同的"
+  },
+  {
+   "cn": "干预原则",
+   "en": "intervention principle",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.7.24",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核事故应急救援",
+   "subjectName": "核事故应急救援",
+   "publishYear": "2025",
+   "definition": "在核事故状态下,对公众等实施干预所必须遵循的基本原则,包括干预的正当化,干预最优化以及干预应首先着眼于避免严重的确定性效应的发生。"
+  },
+  {
+   "cn": "个案处理原则",
+   "en": "individual principle",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.27.2",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "食品添加剂安全性评价适用原则之一。没有一个固定的检验和评价模式能适用于所有食品添加剂，因此不应建立标准化和强制化的食品添加剂安全性评价试验程序，不同食品添加剂安全性评价所需的试验资料应有所不同。"
+  },
+  {
+   "cn": "经济原则",
+   "en": "economy principle",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0043",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "法国语言学家马丁内（A. Martinet）1962 年提出语言演变的原则。即语言演变的动力来自于交际的需要和人的自然惰性之间的冲突。前者促使人类创造新的、复杂的语言单位；后者则要求在言语过程中尽量减"
+  },
+  {
+   "cn": "道德原则",
+   "en": "moral principle",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.0390000000000001",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "一定社会或阶级用以调整人们行为、相互利益关系的普遍性准则。"
+  },
+  {
+   "cn": "天理",
+   "en": "heavenly principles",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.068",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "儒家所信奉的本然之性，或客观存在的道德法则。"
+  },
+  {
+   "cn": "个人医疗储蓄账户",
+   "en": "individual medical savings account",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.5.3.4",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险筹资与运行",
+   "subjectName": "健康保险筹资与运行",
+   "publishYear": "2025",
+   "definition": "医疗保险机构为参加基本医疗保险的个人设立的、用于偿付本人医疗费用的专用基金账户"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

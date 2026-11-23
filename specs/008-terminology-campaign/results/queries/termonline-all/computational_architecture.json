@@ -1,0 +1,802 @@
+{
+ "key": "computational architecture",
+ "term": "computational architecture",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T05:00:31+00:00",
+ "status": "ok",
+ "note": "variant=computational architecture; 审定公布名词库=1326; 海峡两岸名词对照库=400; 其他来源数据库=271; 预公布名词数据库=29; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "计算机体系结构",
+   "en": "computer architecture",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "06.055",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_信息基础设施",
+   "subjectName": "信息基础设施",
+   "publishYear": "2024",
+   "definition": "计算机的基本设计思想、逻辑结构和功能特征，包括指令集架构、微体系结构、系统设计以及硬件和软件之间的相互关系。"
+  },
+  {
+   "cn": "计算机体系结构",
+   "en": "computer architecture",
+   "source": "计算机科学技术名词",
+   "wordNumber": "03.0001",
+   "subjectFullName": "计算机科学技术_计算机体系结构",
+   "subjectName": "计算机体系结构",
+   "publishYear": "2018",
+   "definition": "最初定义是程序员在编写系统程序时所看到的计算机属性，后扩展至由结构、组织、实现和性能四个基本方面组成。随着技术的发展，当前计算机体系结构研究的内容更加广泛，不但涉及硬件，也涉及软件，还包括可靠性、可维"
+  },
+  {
+   "cn": "分层路径计算单元架构",
+   "en": "hierarchical path computation element architecture",
+   "source": "光学名词",
+   "wordNumber": "22.162",
+   "subjectFullName": "光学_光通信技术",
+   "subjectName": "光通信技术",
+   "publishYear": "2021",
+   "definition": "一种基于路径计算单元(PCE)进行跨域路径计算的光网络控制架构。将PCE划分层次，最底层的PCE直接与本域的路径计算终端(PCC)相连，接收原始路径计算请求并向高层的PCE提交跨域计算请求，高层的PC"
+  },
+  {
+   "cn": "计算统一设备体系结构",
+   "en": "compute unified device architecture,CUDA",
+   "source": "计算机科学技术名词",
+   "wordNumber": "03.0121",
+   "subjectFullName": "计算机科学技术_计算机体系结构_计算机模型",
+   "subjectName": "计算机模型",
+   "publishYear": "2018",
+   "definition": "一种通用并行计算体系结构，该体系结构可利用图形处理器（GPU）中的众多计算核心进行通用计算处理工作，它包含CUDA指令集体系结构以及GPU内部的并行计算引擎。"
+  },
+  {
+   "cn": "建筑学",
+   "en": "architecture",
+   "source": "风景园林名词",
+   "wordNumber": "01.0150",
+   "subjectFullName": "风景园林_总论_风景园林相关学科",
+   "subjectName": "风景园林相关学科",
+   "publishYear": "2025",
+   "definition": "（1）从广义上来说，是研究建筑及其环境的一门学科。（2）从狭义上来说，是指与建筑物设计和建造相关的艺术和技术的综合。"
+  },
+  {
+   "cn": "架构",
+   "en": "architecture",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.621",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "有关软件整体结构与组件的抽象描述。用于指导大型软件系统各个方面的设计。"
+  },
+  {
+   "cn": "建筑学",
+   "en": "architecture",
+   "source": "城乡规划学名词",
+   "wordNumber": "01.196",
+   "subjectFullName": "城乡规划学_城乡规划总述_相关学科",
+   "subjectName": "相关学科",
+   "publishYear": "2021",
+   "definition": "研究建筑物及其内外空间与环境的一门学科。"
+  },
+  {
+   "cn": "架构",
+   "en": "architecture",
+   "source": "医学影像技术学名词",
+   "wordNumber": "09.140",
+   "subjectFullName": "医学影像技术学_影像存储与传输_医学影像信息系统相关技术",
+   "subjectName": "医学影像信息系统相关技术",
+   "publishYear": "2020",
+   "definition": "系统的基本结构，由多个组件及它们彼此间的关系组成，并且在一定环境和原则下进行设计和演变。"
+  },
+  {
+   "cn": "建筑学",
+   "en": "architecture",
+   "source": "建筑学名词",
+   "wordNumber": "01.0002",
+   "subjectFullName": "建筑学_总论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2014",
+   "definition": "研究建筑物及其内外空间与环境的学科。在人类社会发展和大自然演进过程中，建筑学与景观园林及(以城市设计为核心的)城市规划三者的融合，是“空间与环境”研究领域的必然扩展。"
+  },
+  {
+   "cn": "体系",
+   "en": "architecture",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.625",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "一个系统、方案，或者系统组合的抽象技术性描述。"
+  },
+  {
+   "cn": "体系结构",
+   "en": "architecture",
+   "source": "电子学名词",
+   "wordNumber": "21.114",
+   "subjectFullName": "电子学_通信",
+   "subjectName": "通信",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "计算",
+   "en": "computation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0110",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "按照一组给定的指令对数据进行处理的过程。"
+  },
+  {
+   "cn": "计算",
+   "en": "computation",
+   "source": "数学名词",
+   "wordNumber": "02.0262",
+   "subjectFullName": "数学_数理逻辑·数学基础_递归论",
+   "subjectName": "递归论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "计算机",
+   "en": "computer ",
+   "source": "草学名词",
+   "wordNumber": "3.0416",
+   "subjectFullName": "草学_草地资源与利用",
+   "subjectName": "草地资源与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "可计算性",
+   "en": "computability",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0918",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "针对某个问题类，存在一个可在有限步内结束的能行计算过程。"
+  },
+  {
+   "cn": "计算机",
+   "en": "computer",
+   "source": "计算机科学技术名词",
+   "wordNumber": "01.0001",
+   "subjectFullName": "计算机科学技术_通论_计算机系统组成",
+   "subjectName": "计算机系统组成",
+   "publishYear": "2018",
+   "definition": "采用机械、机电、电子等方式实现的自动解算装置。主要指电子计算机。"
+  },
+  {
+   "cn": "计算机",
+   "en": "computer",
+   "source": "资源科学技术名词",
+   "wordNumber": "06.118",
+   "subjectFullName": "资源科学技术_资源信息学",
+   "subjectName": "资源信息学",
+   "publishYear": "2008",
+   "definition": "一种用于高速计算的电子计算机器，可以进行数值计算，又可以进行逻辑计算，还具有存储记忆功能。"
+  },
+  {
+   "cn": "可计算性",
+   "en": "computability",
+   "source": "数学名词",
+   "wordNumber": "02.0257",
+   "subjectFullName": "数学_数理逻辑·数学基础_递归论",
+   "subjectName": "递归论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "园林学",
+   "en": "landscape architecture",
+   "source": "风景园林名词",
+   "wordNumber": "01.0002",
+   "subjectFullName": "风景园林_总论_风景园林学",
+   "subjectName": "风景园林学",
+   "publishYear": "2025",
+   "definition": "研究在一定区域内运用工程技术和艺术手法，利用地形、水体、植被、建筑、道路等要素创作优美游憩环境的学科。"
+  },
+  {
+   "cn": "建筑风格",
+   "en": "architecture style",
+   "source": "风景园林名词",
+   "wordNumber": "07.0010",
+   "subjectFullName": "风景园林_风景园林建筑_基础知识",
+   "subjectName": "基础知识",
+   "publishYear": "2025",
+   "definition": "建筑形式的外在特征所反映出来的整体倾向与手法。因受时代的政治、社会、经济、建筑材料和建筑技术等的制约以及建筑设计的流派、思想、观点和地域文化等影响而有所不同。"
+  },
+  {
+   "cn": "计算机体系结构",
+   "en": "computer architecture",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "体系结构，系统结构",
+   "en": "architecture",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "计算",
+   "en": "computation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "计算",
+   "en": "computation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "计算机",
+   "en": "computer",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "神经胶质结构",
+   "en": "glia architecture",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "景观建设",
+   "en": "landscape architecture",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "分布式结构",
+   "en": "distributed architecture",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "数据库结构",
+   "en": "database architecture",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "数据库体系结构",
+   "en": "database architecture",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "数据体系结构",
+   "en": "data architecture",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "超标量体系结构",
+   "en": "superscalar architecture",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "超流水线结构",
+   "en": "superpipelined architecture",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "程序体系结构",
+   "en": "program architecture",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "黑板体系结构",
+   "en": "blackboard architecture",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "连接机制体系结构",
+   "en": "connectionist architecture",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "软件体系结构",
+   "en": "software architecture",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "体系结构建模",
+   "en": "architecture modeling",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "网络体系结构",
+   "en": "network architecture",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "文档体系结构",
+   "en": "document architecture",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "计算架构",
+   "en": "Computing Architecture",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "计算机系统结构",
+   "en": "computer system architecture",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "移动计算架构",
+   "en": "mobile computing architecture",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "开放分布式计算架构",
+   "en": "open distributed computing architecture",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "云计算参考架构国际标准项目（中国）",
+   "en": "Cloud Computing Reference Architecture Project (China)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络体系结构",
+   "en": "network architecture",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "系统架构",
+   "en": "system architecture",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "互连架构",
+   "en": "interconnection architecture",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "存储架构",
+   "en": "storage architecture",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "哈佛架构",
+   "en": "Harvard architecture",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "分层架构",
+   "en": "layered architecture",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "去信任架构",
+   "en": "detrust architecture",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "集中式体系架构",
+   "en": "centralized architecture",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据架构",
+   "en": "data architecture",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "流程架构",
+   "en": "process architecture",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "业务架构",
+   "en": "business architecture",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "应用架构",
+   "en": "application architecture",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "技术架构",
+   "en": "technical architecture",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "元数据架构",
+   "en": "metadata architecture",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "建筑民俗",
+   "en": "architectural folklore",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0143",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "有关民居建筑的风俗习惯、民俗活动和民俗事象。与居住民俗密切相关，有时被融于居住民俗之中。建筑民俗除建筑传承样式、传承工艺之外，还包括建筑场基的选择、建筑仪式、禁忌、贺新房活动，以及有关的择日、上梁吉时"
+  },
+  {
+   "cn": "电脑组件",
+   "en": "computer components",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.3.1.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校用品卫生",
+   "subjectName": "学校用品卫生",
+   "publishYear": "2025",
+   "definition": "组合计算机以及便于使用者采用良好的操作姿势所需要的硬件。包括电脑桌椅、显示器、键盘、鼠标等。"
+  },
+  {
+   "cn": "电脑桌面",
+   "en": "computer desktop",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.3.1.3.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校用品卫生",
+   "subjectName": "学校用品卫生",
+   "publishYear": "2025",
+   "definition": "放置电脑显示器的平面。"
+  },
+  {
+   "cn": "计算暴露评估",
+   "en": "computational exposure assessment",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.36",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "将化学、计算机科学、数学、统计学、社会和行为科学等领域的先进技术与新出现的高效模型和数据收集方法相结合，以预测外源化学物的真实暴露情况的方法。"
+  },
+  {
+   "cn": "计算机X射线摄影",
+   "en": "computed radiography，CR",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.3",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "以成像板为载体，经X射线曝光及信息读出处理后形成数字影像的一种X射线摄影技术。"
+  },
+  {
+   "cn": "计算机体层成像",
+   "en": "computed tomography，CT",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.10",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "利用精确准直的成像媒介（如X射线、γ射线、超声波等）与高灵敏度的探测器，围绕人体的某一部位采集数据，并根据需要重建出断面影像的一种成像方法。根据照射源不同可分为X射线计算机体层成像（X-CT）、超声计"
+  },
+  {
+   "cn": "工业计算机断层成像",
+   "en": "industrial computed tomography",
+   "source": "放射卫生学",
+   "wordNumber": "6.5.2.5",
+   "subjectFullName": "放射卫生学_放射防护_工业应用的放射防护_工业探伤应用",
+   "subjectName": "工业探伤应用",
+   "publishYear": "2025",
+   "definition": "采用计算机断层扫描技术对产品进行无损检测和无损评价的仪器。"
+  },
+  {
+   "cn": "电脑椅座面",
+   "en": "computer chair seat",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.3.1.3.5",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校用品卫生",
+   "subjectName": "学校用品卫生",
+   "publishYear": "2025",
+   "definition": "电脑椅与人体臀部接触，承载使用者体重的部分。"
+  },
+  {
+   "cn": "电脑椅靠背",
+   "en": "computer chair back",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.3.1.3.6",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校用品卫生",
+   "subjectName": "学校用品卫生",
+   "publishYear": "2025",
+   "definition": "电脑椅与人体背部接触，能够有效支撑使用者腰部的部分。"
+  },
+  {
+   "cn": "γ射线工业CT设备",
+   "en": "gamma-ray industrial computed tomography equipments",
+   "source": "放射卫生学",
+   "wordNumber": "8.2.5",
+   "subjectFullName": "放射卫生学_放射卫生监管_工业及其他应用监管",
+   "subjectName": "工业及其他应用监管",
+   "publishYear": "2025",
+   "definition": "用γ射线对工件进行断层扫描成像的设备，包括CT扫描装置、数据采集与处理系统、操作台等。"
+  },
+  {
+   "cn": "计算毒理学",
+   "en": "computational toxicology, in silico",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.2.58",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "基于数学和计算机模型，采用化学信息学、生物信息学、机器学习等手段，揭示化学物环境暴露、危害性与风险性之间定性和定量关系，研究绿色化学品分子设计从而进行风险控制的毒理学分支学科。"
+  },
+  {
+   "cn": "发射计算机体层成像",
+   "en": "emission computed tomography，ECT",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.3.11",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_核医学",
+   "subjectName": "核医学",
+   "publishYear": "2025",
+   "definition": "一种能从不同角度拍摄体内放射性药物浓度分布图，经计算机处理，重建核素在体内各截面的分布及立体分布图的核素显像技术。分单光子发射计算机体层显像（SPECT）和正电子发射计算机体层显像（PET）。"
+  },
+  {
+   "cn": "电脑使用卫生要求",
+   "en": "hygiene of computer use",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.3.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校用品卫生",
+   "subjectName": "学校用品卫生",
+   "publishYear": "2025",
+   "definition": "为舒适使用电脑工作，电脑布置、使用电脑的姿势和使用环境所需要达到的要求。"
+  },
+  {
+   "cn": "计算机自适应测试",
+   "en": "computer-adaptive test, CAT",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.3.3.1",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "交互计算机基于个体对条目的反应继续或结束测量的自适应测试形式。"
+  },
+  {
+   "cn": "单光子发射计算机体层成像与X射线计算机体层成像",
+   "en": "single photon emission computed tomography and computed tomography，SPECT/CT",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.3.13",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_核医学",
+   "subjectName": "核医学",
+   "publishYear": "2025",
+   "definition": "将单光子发射计算机体层成像与X射线计算机体层成像相结合起来的成像技术，可同时显示解剖结构和生理功能。"
+  },
+  {
+   "cn": "工业计算机X射线断层扫描探伤",
+   "en": "industrial X-ray computed tomography",
+   "source": "放射卫生学",
+   "wordNumber": "8.2.2.3",
+   "subjectFullName": "放射卫生学_放射卫生监管_工业及其他应用监管",
+   "subjectName": "工业及其他应用监管",
+   "publishYear": "2025",
+   "definition": "使用工业X射线CT装置，以二维断层图像或三维立体图像的形式，展示被检测物体内部结构、组成、材质及缺损状况的工作过程。"
+  },
+  {
+   "cn": "计算机辅助访谈",
+   "en": "computer-assisted personal interviewing，CAPI",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.15",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "回答人或访谈员位于计算机的终端，使用键盘或鼠标将回答人对问卷的答案输入计算机中的一种访谈方式。"
+  },
+  {
+   "cn": "电脑桌下空区",
+   "en": "empty space under computer desk",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.3.1.3.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校用品卫生",
+   "subjectName": "学校用品卫生",
+   "publishYear": "2025",
+   "definition": "电脑桌下，能够满足使用者腿部自由活动的空间。"
+  },
+  {
+   "cn": "单光子发射计算机体层成像",
+   "en": "single photon emission computed tomography，SPECT",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.3.12",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_核医学",
+   "subjectName": "核医学",
+   "publishYear": "2025",
+   "definition": "以普通γ射线为探测对象的发射计算机体层显像技术。"
+  },
+  {
+   "cn": "电脑桌椅布置",
+   "en": "layout of computer desk and chair",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.3.1.3.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校用品卫生",
+   "subjectName": "学校用品卫生",
+   "publishYear": "2025",
+   "definition": "教室内电脑桌椅排列的方式。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

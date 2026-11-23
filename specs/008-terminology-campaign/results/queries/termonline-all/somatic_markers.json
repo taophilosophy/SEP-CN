@@ -1,0 +1,732 @@
+{
+ "key": "somatic markers",
+ "term": "somatic markers",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T05:05:11+00:00",
+ "status": "ok",
+ "note": "variant=somatic markers; 审定公布名词库=1642; 海峡两岸名词对照库=588; 其他来源数据库=123; 预公布名词数据库=159; jwt-direct（JWT 直连，raw 略；已滤维基 8 条）",
+ "hits": [
+  {
+   "cn": "躯体化",
+   "en": "somatization",
+   "source": "精神医学名词",
+   "wordNumber": "03.218",
+   "subjectFullName": "精神医学_诊断分类_应激与神经症性障碍",
+   "subjectName": "应激与神经症性障碍",
+   "publishYear": "2019",
+   "definition": "心理冲突和痛苦不为受检者所察觉，却以躯体不适或躯体功能障碍的形式表现出来的精神病理过程。"
+  },
+  {
+   "cn": "躯体化",
+   "en": "somatization",
+   "source": "医学美学与美容医学名词",
+   "wordNumber": "02.066",
+   "subjectFullName": "医学美学与美容医学_美容医学心理学",
+   "subjectName": "美容医学心理学",
+   "publishYear": "2015",
+   "definition": "反映主观的身体不适感。"
+  },
+  {
+   "cn": "躯体化",
+   "en": "somatization",
+   "source": "心理学名词",
+   "wordNumber": "10.064",
+   "subjectFullName": "心理学_医学心理学",
+   "subjectName": "医学心理学",
+   "publishYear": "2014",
+   "definition": "有明显身体症状，但又没有器质性损伤或神经生理功能障碍的症状。"
+  },
+  {
+   "cn": "标志物",
+   "en": "marker",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "11.0382",
+   "subjectFullName": "生物化学与分子生物学_方法与技术_定性定量分析方法_层析技术",
+   "subjectName": "层析技术",
+   "publishYear": "2024",
+   "definition": "分离或分析样品时加入的特定参照物质。其运动过程可被追踪，可以简化混合物中所含成分的分析辨别工作，或作为定性或定量分析的标准品参照。"
+  },
+  {
+   "cn": "标志物",
+   "en": "marker",
+   "source": "运动医学名词",
+   "wordNumber": "09.021",
+   "subjectFullName": "运动医学_反兴奋剂_《世界反兴奋剂条例》",
+   "subjectName": "《世界反兴奋剂条例》",
+   "publishYear": "2019",
+   "definition": "显示使用了禁用物质或禁用方法的化合物、复合化合物或生物参数。"
+  },
+  {
+   "cn": "标记变项",
+   "en": "marker",
+   "source": "语言学名词",
+   "wordNumber": "12.050",
+   "subjectFullName": "语言学_社会语言学_语言变异",
+   "subjectName": "语言变异",
+   "publishYear": "2011",
+   "definition": "显示社会差异和语体差异，并有不同社会评价的语言变项。它是研究语言变异和演变的对象。"
+  },
+  {
+   "cn": "标志器",
+   "en": "marker",
+   "source": "铁道科学技术名词",
+   "wordNumber": "07.0400",
+   "subjectFullName": "铁道科学技术_铁道通信",
+   "subjectName": "铁道通信",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "选择性标志物",
+   "en": "selectable marker;selective marker",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "11.0785",
+   "subjectFullName": "生物化学与分子生物学_方法与技术_重组_技术及应用_层析技术",
+   "subjectName": "层析技术",
+   "publishYear": "2024",
+   "definition": "可用于从生物或细胞群体中选择特定类型个体或细胞的遗传标志物。常用的如药物抗性、营养依赖性标志等。如用含某种抗生素抗性基因的质粒转化细菌，就可以用含该抗生素的培养基从有多数未转化的细菌群中选择转化体。"
+  },
+  {
+   "cn": "体细胞突变",
+   "en": "somatic mutation",
+   "source": "兽医学名词",
+   "wordNumber": "05.079",
+   "subjectFullName": "兽医学_兽医公共卫生学",
+   "subjectName": "兽医公共卫生学",
+   "publishYear": "2023",
+   "definition": "发生在正常机体细胞中的突变。如发生在皮肤或器官中的突变。这样的突变不会传给 后代。"
+  },
+  {
+   "cn": "体壁中胚层",
+   "en": "somatic mesoderm",
+   "source": "兽医学名词",
+   "wordNumber": "07.116",
+   "subjectFullName": "兽医学_家畜胚胎学",
+   "subjectName": "家畜胚胎学",
+   "publishYear": "2023",
+   "definition": "发育中的中胚层的外层。"
+  },
+  {
+   "cn": "菌体抗原",
+   "en": "somatic antigen",
+   "source": "兽医学名词",
+   "wordNumber": "14.031",
+   "subjectFullName": "兽医学_兽医免疫学",
+   "subjectName": "兽医免疫学",
+   "publishYear": "2023",
+   "definition": "革兰氏细菌细胞壁的抗原。化学成分为脂多糖。"
+  },
+  {
+   "cn": "体细胞突变",
+   "en": "somatic mutation",
+   "source": "血液学名词",
+   "wordNumber": "4.314",
+   "subjectFullName": "血液学_常用检查_血液病理检测_分子生物学检测相关",
+   "subjectName": "分子生物学检测相关",
+   "publishYear": "2022",
+   "definition": "发生在体细胞内的突变。是在生长发育过程中或者环境因素影响下后天获得的突变，通常只有部分细胞带有此种突变，不遗传给后代。"
+  },
+  {
+   "cn": "体细胞胚胎发生",
+   "en": "somatic embryogenesis ",
+   "source": "草学名词",
+   "wordNumber": "5.0052",
+   "subjectFullName": "草学_草业生物技术",
+   "subjectName": "草业生物技术",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "体细胞胚",
+   "en": "somatic embryo ",
+   "source": "草学名词",
+   "wordNumber": "5.0074",
+   "subjectFullName": "草学_草业生物技术",
+   "subjectName": "草业生物技术",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "体细胞变异",
+   "en": "somatic mutation ",
+   "source": "草学名词",
+   "wordNumber": "5.0075",
+   "subjectFullName": "草学_草业生物技术",
+   "subjectName": "草业生物技术",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "体细胞杂交",
+   "en": "somatic hybridization ",
+   "source": "草学名词",
+   "wordNumber": "5.0085",
+   "subjectFullName": "草学_草业生物技术",
+   "subjectName": "草业生物技术",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "体细胞杂种",
+   "en": "somatic hybrid ",
+   "source": "草学名词",
+   "wordNumber": "5.0095",
+   "subjectFullName": "草学_草业生物技术",
+   "subjectName": "草业生物技术",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "躯体感觉",
+   "en": "somatic sensation",
+   "source": "行为医学名词",
+   "wordNumber": "3.271",
+   "subjectFullName": "行为医学_行为的生物学基础_遗传学基础_感觉遗传学",
+   "subjectName": "感觉遗传学",
+   "publishYear": "2022",
+   "definition": "分布于皮肤的各种感受器和机体深部本体感受器接受刺激后，产生的不同类型的感觉。可分为浅感觉和深感觉。"
+  },
+  {
+   "cn": "躯体应激源",
+   "en": "somatic stressor",
+   "source": "行为医学名词",
+   "wordNumber": "10.02",
+   "subjectFullName": "行为医学_应激与应激相关障碍_应激",
+   "subjectName": "应激",
+   "publishYear": "2022",
+   "definition": "对人的躯体直接发生刺激作用的刺激物。包括物理、化学和生物性刺激物。"
+  },
+  {
+   "cn": "体细胞超变",
+   "en": "somatic hypermutation",
+   "source": "医学遗传学名词",
+   "wordNumber": "1.245",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "体细胞中出现的高频突变。"
+  },
+  {
+   "cn": "躯体化",
+   "en": "somatization",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "体部分化",
+   "en": "somatization",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "标志",
+   "en": "marker",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "信标器",
+   "en": "marker",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "选择性标志",
+   "en": "selectable marker\",\"selective marker",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "体细胞",
+   "en": "somatic cell",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "体细胞胚",
+   "en": "somatic embryo",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "体细胞胚胎发生",
+   "en": "somatic embryogenesis",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "体细胞突变",
+   "en": "somatic mutation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "体细胞杂交",
+   "en": "somatic hybridization",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "躯体焦虑",
+   "en": "somatic anxiety",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "体细胞",
+   "en": "somatic cell",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "体细胞突变",
+   "en": "somatic mutation",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "体细胞高频突变",
+   "en": "somatic hypermutation",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "体细胞抗原",
+   "en": "somatic antigen",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "体细胞",
+   "en": "somatic cell",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "体细胞变异",
+   "en": "somatic variation",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "体细胞重组",
+   "en": "somatic recombination",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "体细胞突变",
+   "en": "somatic mutation",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "体细胞杂交",
+   "en": "somatic hybridization",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "报靶员",
+   "en": "marker",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "进球得分",
+   "en": "goal\",\"marker",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "犯规次数牌",
+   "en": "marker\",\"wand",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "方向标",
+   "en": "steering marker",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "赛道标志",
+   "en": "lane marker",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "纪录标记",
+   "en": "record marker",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "标记字母",
+   "en": "marker letter",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "强制通过标记",
+   "en": "compulsory marker",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "最好成绩标记",
+   "en": "marker of best throw",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "分道线",
+   "en": "floating line\",\"lane marker\",\"lane rope\",\"racing line",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_游泳名词",
+   "subjectName": "游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "标志带",
+   "en": "side band of the net\",\"side net marker",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "绶带",
+   "en": "garters",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "躯体效应",
+   "en": "somatic effect",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.1.1.5",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2025",
+   "definition": "发生在受照射者自身的放射生物效应。"
+  },
+  {
+   "cn": "躯体效应",
+   "en": "somatic effect",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.8.12",
+   "subjectFullName": "军事预防医学_核武器医学防护学_辐射防护基础",
+   "subjectName": "辐射防护基础",
+   "publishYear": "2025",
+   "definition": "辐射诱发而显现在受照者本人身上的效应。"
+  },
+  {
+   "cn": "社会语言标记",
+   "en": "sociolinguistic marker",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0086",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "能够区别不同社会群体的语言变异项目。"
+  },
+  {
+   "cn": "状态标志",
+   "en": "state marker",
+   "source": "消毒学",
+   "wordNumber": "5.1.7.3",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "标识时对象满足规定质量要求的能力，一般情况下具有时限性及可变性的特点，即标识对象对应不同的时段可有不同的状态。"
+  },
+  {
+   "cn": "残留标志物",
+   "en": "marker residue",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.3.22",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品标准",
+   "subjectName": "食品标准",
+   "publishYear": "2025",
+   "definition": "动物用药后在靶组织中与总残留物有明确相关性的残留物，可以是药物原形、相关代谢物，也可以是原形与代谢物的加和，或者是可转为单一衍生物或药物分子片段的残留物总量。"
+  },
+  {
+   "cn": "礼仪标识",
+   "en": "ritual marker",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0212",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "中国香港历史学家科大卫（David Faure）提出的概念，即地方社会的成员所认为是重要的客观且可见的礼仪传统标识，包括：称谓、拜祭核心（神、祖先等）、建筑模式（比如家庙）、宗教传统、控产合股、非宗教"
+  },
+  {
+   "cn": "体细胞计数",
+   "en": "Somatic cell count",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.8.22",
+   "subjectFullName": "食品卫生学_食品_奶类",
+   "subjectName": "奶类",
+   "publishYear": "2025",
+   "definition": "每毫升牛奶中体细胞的个数。"
+  },
+  {
+   "cn": "躯体失能剂",
+   "en": "somatic incapacitating agent",
+   "source": "军事预防医学名词",
+   "wordNumber": "10.5.9.2",
+   "subjectFullName": "军事预防医学_化学武器医学防护学_化学战剂",
+   "subjectName": "化学战剂",
+   "publishYear": "2025",
+   "definition": "主要引起暂时性失明、耳聋、呕吐、血压下降、体温调节障碍、四肢瘫痪等症状和体征，进而削弱或使人员完全失去战斗能力的一类化学物质。"
+  },
+  {
+   "cn": "市场社会化社会主义模式",
+   "en": "socialised markets",
+   "source": "马克思主义",
+   "wordNumber": "05.0180",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "英国曼彻斯特大学政治经济学教授迪安·埃尔逊（Diane Elson）在《市场的社会化》一文中提出。他认为资本主义市场无法实现供给和需求的一般均衡目标，均衡的前提是市场和社会化，而市场的社会化又必须以信"
+  },
+  {
+   "cn": "索马里人",
+   "en": "Somali",
+   "source": "民族学与文化学名词",
+   "wordNumber": "6.0243",
+   "subjectFullName": "民族学与文化学_世界民族_非洲地区",
+   "subjectName": "非洲地区",
+   "publishYear": "2025",
+   "definition": "非洲现代民族（nation）,拥有索马里联邦共和国国籍和公民身份的人们共同体，人口约为1759 万（2022 年）。绝大多数是索马里族，又分萨马莱和萨布两大族系。其中萨马莱族系占总人口的80％以上，分"
+  },
+  {
+   "cn": "市",
+   "en": "market",
+   "source": "社会学名词",
+   "wordNumber": "3.4.12.2",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_中国古代城市",
+   "subjectName": "中国古代城市",
+   "publishYear": "2025",
+   "definition": "临时或定期集中一地进行的贸易活动。也指城市中划定的贸易之所或商业区。"
+  },
+  {
+   "cn": "市场",
+   "en": "market",
+   "source": "马克思主义",
+   "wordNumber": "02.0226",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "商品交换关系的总和，是商品经济的必然产物。有时也指某种特定交易场所或机制，如消费品、生产资料、货币、劳动力等交换空间或机制。"
+  },
+  {
+   "cn": "市场",
+   "en": "market ",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.1",
+   "subjectFullName": "",
+   "subjectName": "市场",
+   "publishYear": "2025",
+   "definition": "狭义上是商品交换的场所，广义上为商品交换关系的总和。"
+  },
+  {
+   "cn": "市场",
+   "en": "market",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0156",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "买卖双方进行商品交换的场所。经济人类学认为市场并非自然的存在，“市场的自我调节功能”是经济学上的一个假设，而非实然的真理。"
+  },
+  {
+   "cn": "市场社会学",
+   "en": "sociology of markets",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.58",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "主要致力于探索市场结构、秩序的形成和变迁，以及市场顺畅运转的社会条件和动力机制问题的社会学研究。当前的市场社会学主要包括市场即网络、市场即制度和市场即文化三种研究范式。"
+  },
+  {
+   "cn": "两个平行市场",
+   "en": "two parallel markets",
+   "source": "马克思主义",
+   "wordNumber": "03.0320",
+   "subjectFullName": "马克思主义_科学社会主义_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "斯大林1952年在《苏联社会主义经济问题》一书中提出的关于社会主义阵营和资本主义阵营经济关系的论断。战后社会主义阵营的出现使资本主义的统一市场瓦解，出现了两个平行的也是相互对立、彼此隔绝的世界市场；社"
+  },
+  {
+   "cn": "语义的不可通约性",
+   "en": "semantic incommensurability",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.184",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "不存在一种中立语言，使得新、旧两种范式的陈述可以翻译到该语言，从而实现新、旧范式之间的合理性对比。"
+  },
+  {
+   "cn": "渗透压脱水",
+   "en": "osmotic dehydration",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.4.58",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品生产规范",
+   "subjectName": "食品生产规范",
+   "publishYear": "2025",
+   "definition": "物料浸入一定温度的高渗透压溶液（糖或盐溶液）中，细胞中的水分透过细胞膜进入溶液中使物料进行脱水的过程。"
+  },
+  {
+   "cn": "农民工",
+   "en": "peasant workers",
+   "source": "社会学名词",
+   "wordNumber": "3.4.13.8",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_中国现代城市",
+   "subjectName": "中国现代城市",
+   "publishYear": "2025",
+   "definition": "有农村户口及承包土地，但离开户籍所在地，主要从事非农产业的人员（其中也有相当一部分在异地从事农业代耕，视为代耕户，代耕城市发展中被丢荒的闲置农田）。"
+  },
+  {
+   "cn": "进城务工人员",
+   "en": "migrant workers",
+   "source": "社会学名词",
+   "wordNumber": "4.3.3.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会政策对象及领域",
+   "subjectName": "社会政策对象及领域",
+   "publishYear": "2025",
+   "definition": "在城镇从事非农业工作，在务工所在城镇有稳定工作、住所、收入，但不具备非农业户口的社会群体。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

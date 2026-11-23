@@ -1,0 +1,772 @@
+{
+ "key": "joint strategy",
+ "term": "joint strategy",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T05:02:07+00:00",
+ "status": "ok",
+ "note": "variant=joint strategy; 审定公布名词库=3317; 海峡两岸名词对照库=988; 其他来源数据库=231; 预公布名词数据库=126; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "战略",
+   "en": "strategy",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "9.099",
+   "subjectFullName": "新闻学与传播学_组织传播_组织传播战略",
+   "subjectName": "组织传播战略",
+   "publishYear": "2022",
+   "definition": "制定一个组织的长期目标，以及为达到这些目标所采取的行动与资源的分配。广义上，它涉及理性确定组织的重大利益及其目标。狭义上，指通过对资源的利用和劳动效率的合理调配，来实现组织目标并获得竞争优势。"
+  },
+  {
+   "cn": "策略",
+   "en": "strategy",
+   "source": "经济学名词",
+   "wordNumber": "03.160",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "参与人在给定信息集情况下的行动规则。参与人的策略规定了参与人在何种条件下采取何种行动，是一种相机抉择的行动方案。与参与人的行动不同，策略是一种完备的行动规则。"
+  },
+  {
+   "cn": "策略",
+   "en": "strategy",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0231",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "为满足一个需求而设计的能行过程，它是一个算法过程，但可能需要无穷次做动作才能满足所对应的需求。"
+  },
+  {
+   "cn": "战略",
+   "en": "strategy",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0591",
+   "subjectFullName": "管理科学技术_一般管理理论_战略管理",
+   "subjectName": "战略管理",
+   "publishYear": "2016",
+   "definition": "组织为求得长期生存和不断发展，为创造和保持竞争优势，对组织的发展目标、达到目标的途径和手段的总体规划。"
+  },
+  {
+   "cn": "策略",
+   "en": "strategy",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0284",
+   "subjectFullName": "管理科学技术_运筹与管理_对策理论与方法",
+   "subjectName": "对策理论与方法",
+   "publishYear": "2016",
+   "definition": "局中人在对策中采用的一个可行的自始至终通盘筹划的行动方案。"
+  },
+  {
+   "cn": "检索策略",
+   "en": "retrieval strategy,search strategy",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.121",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_检索技术与方法",
+   "subjectName": "检索技术与方法",
+   "publishYear": "2019",
+   "definition": "为实现检索目标而制订的全盘计划和方案，是对整个检索过程的谋划和指导。包括分析检索课题、选择检索系统、确定检索词、构造检索式、实施检索操作、调整检索策略等。"
+  },
+  {
+   "cn": "生态对策",
+   "en": "bionomic strategy,ecological strategy",
+   "source": "生态学名词",
+   "wordNumber": "04.117",
+   "subjectFullName": "生态学_进化生态学",
+   "subjectName": "进化生态学",
+   "publishYear": "2006",
+   "definition": "指各种生物在进化过程中形成针对不同环境的各种特有的对策。"
+  },
+  {
+   "cn": "节理",
+   "en": "joint",
+   "source": "地质学名词",
+   "wordNumber": "09.05.025",
+   "subjectFullName": "地质学_构造地质学_中、小尺度面状、线状构造",
+   "subjectName": "中、小尺度面状、线状构造",
+   "publishYear": "2026",
+   "definition": "岩石受力出现的没有发生明显位移的破裂。广泛发育于浅部地壳变形岩石中。在西文文献中，节理指那些仅仅有张开但没有发生位移的破裂，而具有一定位移的破裂称为剪切破裂。"
+  },
+  {
+   "cn": "接头",
+   "en": "joint",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "4.0078",
+   "subjectFullName": "化工（八）_管道_管道组成件及管道支承件",
+   "subjectName": "管道组成件及管道支承件",
+   "publishYear": "2021",
+   "definition": "用于连接两个管件或部件与设备的零件。"
+  },
+  {
+   "cn": "节理",
+   "en": "joint",
+   "source": "电力名词",
+   "wordNumber": "01.743",
+   "subjectFullName": "电力_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "岩体因各种成因切割成具有一定几何形状岩块的裂隙系统。其裂面两侧岩体中未发生错动(实际的或潜在的)的破裂面。按其成因可分为原生节理、构造节理和次生节理。"
+  },
+  {
+   "cn": "节理",
+   "en": "joint",
+   "source": "冶金学名词",
+   "wordNumber": "02.0247",
+   "subjectFullName": "冶金学_采矿_岩石力学",
+   "subjectName": "岩石力学",
+   "publishYear": "2019",
+   "definition": "岩石在自然条件下形成的裂纹或裂缝。"
+  },
+  {
+   "cn": "关节",
+   "en": "joint",
+   "source": "核医学名词",
+   "wordNumber": "04.1098",
+   "subjectFullName": "核医学_临床核医学_骨关节系统核医学_骨关节系统解剖生理基础",
+   "subjectName": "骨关节系统解剖生理基础",
+   "publishYear": "2018",
+   "definition": "骨与骨之间可活动的连接部分。连接面有关节软骨，周围有关节囊、韧带加固、内面有滑膜与滑膜液，便于不同角度和程度的活动。"
+  },
+  {
+   "cn": "关节",
+   "en": "joint",
+   "source": "中医药学名词（2013）",
+   "wordNumber": "06.009",
+   "subjectFullName": "中医药学_骨伤科学_解剖生理",
+   "subjectName": "解剖生理",
+   "publishYear": "2013",
+   "definition": "骨骼间连接部位。"
+  },
+  {
+   "cn": "连接点",
+   "en": "joint",
+   "source": "水产名词",
+   "wordNumber": "03.251",
+   "subjectFullName": "水产_捕捞学",
+   "subjectName": "捕捞学",
+   "publishYear": "2002",
+   "definition": "无结网片中目脚间的连接结构。"
+  },
+  {
+   "cn": "节理",
+   "en": "joint",
+   "source": "水利科学技术名词",
+   "wordNumber": "06.041",
+   "subjectFullName": "水利科学技术_水利勘测、工程地质_工程地质（水利）",
+   "subjectName": "工程地质（水利）",
+   "publishYear": "1997",
+   "definition": "将岩体切割成具有一定几何形状的岩块的裂隙系统。也是岩体中未发生位移的(包括实际的或潜在的)破裂面。"
+  },
+  {
+   "cn": "接缝",
+   "en": "joint",
+   "source": "公路交通科技名词",
+   "wordNumber": "02.457",
+   "subjectFullName": "公路交通科学技术_道路工程",
+   "subjectName": "道路工程",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "接头",
+   "en": "joint",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_力学通类",
+   "subjectName": "力学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "节理",
+   "en": "joint",
+   "source": "地质学名词",
+   "wordNumber": "03.144",
+   "subjectFullName": "地质学_构造地质学",
+   "subjectName": "构造地质学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "关节",
+   "en": "joint",
+   "source": "自动化名词",
+   "wordNumber": "05.173",
+   "subjectFullName": "自动化科学技术_模式识别、智能控制与机器人_机器人",
+   "subjectName": "机器人",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "策略",
+   "en": "policy,strategy",
+   "source": "数学名词",
+   "wordNumber": "011.0398",
+   "subjectFullName": "数学_运筹学_对策论",
+   "subjectName": "对策论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "策略",
+   "en": "strategy",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "生态对策",
+   "en": "ecological strategy\",\"bionomic strategy",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "编码策略",
+   "en": "coding strategy\",\"encoding strategy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "生态对策",
+   "en": "bionomic strategy\",\"ecological strategy",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "节理",
+   "en": "joint",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "节理",
+   "en": "joint",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "接头",
+   "en": "coupling joint\",\"joint",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "庇护所策略",
+   "en": "refuge strategy",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "进化对策",
+   "en": "evolutionary strategy",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "气候策略",
+   "en": "climatological strategy",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "适应性策略",
+   "en": "adaptation strategy",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "控制策略",
+   "en": "control strategy",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "认知策略",
+   "en": "cognitive strategy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "推广策略",
+   "en": "promotion strategy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "理解策略",
+   "en": "comprehension strategy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "复述策略",
+   "en": "rehearsal strategy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "学习策略",
+   "en": "learning strategy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "应对策略",
+   "en": "coping strategy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "组织策略",
+   "en": "organizational strategy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "精细加工策略",
+   "en": "elaboration strategy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "策略",
+   "en": "strategy",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "平台战略",
+   "en": "platform strategy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "标准化战略",
+   "en": "Standardization Strategy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "学习策略",
+   "en": "learning strategy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全战略",
+   "en": "Security Strategy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《ISO 2016–2020战略规划》",
+   "en": "ISO Strategy 2016–2020",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "金融科技战略",
+   "en": "Fintech Strategies",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "球节",
+   "en": "fetlock joint",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "大数据战略",
+   "en": "Big Data Strategy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "宽带中国战略",
+   "en": "Broadband China Strategy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自主可控战略",
+   "en": "self-reliance strategy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字包容战略",
+   "en": "Digital Inclusion Strategy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "元数据管理策略",
+   "en": "metadata management strategy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字政府战略",
+   "en": "Digital Government Strategy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "移动政务策略",
+   "en": "mobile government strategy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "i-Japan战略",
+   "en": "i-Japan Strategy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "策略",
+   "en": "strategy",
+   "source": "社会医学名词",
+   "wordNumber": "10.2",
+   "subjectFullName": "政策与策略",
+   "subjectName": "策略",
+   "publishYear": "2025",
+   "definition": "为实现卫生目标制定的总体行动方针与实施路径，强调系统性和可操作性，是政策落实的实践框架。"
+  },
+  {
+   "cn": "家庭策略",
+   "en": "family strategy",
+   "source": "社会学名词",
+   "wordNumber": "3.1.1.6",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_家庭",
+   "subjectName": "家庭",
+   "publishYear": "2025",
+   "definition": "家庭面临新的外部环境时，家庭及其成员的决策过程和决策时机。例如何时让孩子离家谋生，何时更换住所，何时控制家庭规模等。"
+  },
+  {
+   "cn": "适应策略",
+   "en": "adaptive strategy",
+   "source": "社会学名词",
+   "wordNumber": "4.2.9.46",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化现象",
+   "subjectName": "文化现象",
+   "publishYear": "2025",
+   "definition": "社会群体在一定时期为了调整和解决来自其内部和外部的压力所采取的行动计划。"
+  },
+  {
+   "cn": "两步走战略",
+   "en": "twostep strategy",
+   "source": "马克思主义",
+   "wordNumber": "03.0803",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中共十九大对实现“两个一百年”奋斗目标做出的两步走的战略安排：即从2020年到2035年，在全面建成小康社会的基础上，再奋斗15年，基本实现社会主义现代化；从2035年到本世纪中叶，在基本实现现代化的"
+  },
+  {
+   "cn": "劳工战略",
+   "en": "workforce strategy",
+   "source": "马克思主义",
+   "wordNumber": "05.0195",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "法国左翼思想家、《新观察家》周刊的创始人安德列·高兹（Andre Gorz）在“新工人阶级论”的基础上提出的一种反资本主义的结构改革战略，即反对劳工运动的传统领导形式，提倡以“新工人阶级”为变革的主要"
+  },
+  {
+   "cn": "沟通策略",
+   "en": "communication strategy",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.4.6",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_青少年健康促进策略",
+   "subjectName": "青少年健康促进策略",
+   "publishYear": "2025",
+   "definition": "根据国家健康促进政策和战略，通过宣传、教育和促进健康的生活方式和负责任的行为，改变导致青少年处于持续不良健康状态的潜在行为模式和态度的行动方案。"
+  },
+  {
+   "cn": "学习策略",
+   "en": "study strategy",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.4.3.3",
+   "subjectFullName": "",
+   "subjectName": "学校心理健康促进",
+   "publishYear": "2025",
+   "definition": "学生在学习过程中对信息的操纵和加工的能力，也是提高学习效率的关键。"
+  },
+  {
+   "cn": "卫生策略",
+   "en": "health strategy",
+   "source": "社会医学名词",
+   "wordNumber": "10.2.1",
+   "subjectFullName": "政策与策略",
+   "subjectName": "策略",
+   "publishYear": "2025",
+   "definition": "为实现卫生目标而制定的中长期行动框架，涵盖体系建设、疾病防控与健康促进，强调协调与可持续。"
+  },
+  {
+   "cn": "5T策略",
+   "en": "5 T strategy",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.4.5.4",
+   "subjectFullName": "",
+   "subjectName": "学校心理健康促进",
+   "publishYear": "2025",
+   "definition": "采用谈话(talking)，培训(training)，教学(teaching)，工具(tools)和照顾(taking care)的方式，以促进和支持学生心理健康的策略。"
+  },
+  {
+   "cn": "联合分布",
+   "en": "joint distribution",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.26",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "两个或两个以上随机变量的概率分布函数。"
+  },
+  {
+   "cn": "联合家庭",
+   "en": "joint family",
+   "source": "社会学名词",
+   "wordNumber": "3.1.1.11",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_家庭",
+   "subjectName": "家庭",
+   "publishYear": "2025",
+   "definition": "家庭中任何一代含有两对以上夫妻的家庭。例如父母和两对或两对以上已婚子女组成的家庭。"
+  },
+  {
+   "cn": "联合劳动",
+   "en": "joint labor",
+   "source": "马克思主义",
+   "wordNumber": "03.0108",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "马克思依据人类社会发展的客观规律提出的关于未来共产主义社会劳动的基本形式。其特点是：全社会劳动者在生产资料共同占有的基础上，自由地结合起来，自主地进行创造性的劳动。"
+  },
+  {
+   "cn": "寰枢关节",
+   "en": "atlantoaxial joint",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.2.2.5",
+   "subjectFullName": "风湿免疫病学_总论_解剖和组织学_关节与周围软组织",
+   "subjectName": "关节与周围软组织",
+   "publishYear": "2025",
+   "definition": "由 2 个由寰枕侧块的下关节面和枢椎的上关节面，以及l 个由枢椎齿突的前关节面和寰椎前弓后面的齿凹共同构成的关节。关节囊薄而松弛。是只有1个运动轴的车轴关节，寰椎与颅一同绕垂直轴做左右回旋运动。"
+  },
+  {
+   "cn": "胸肋关节",
+   "en": "sternocostal joint",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.2.2.6",
+   "subjectFullName": "风湿免疫病学_总论_解剖和组织学_关节与周围软组织",
+   "subjectName": "关节与周围软组织",
+   "publishYear": "2025",
+   "definition": "肋骨借肋软骨与胸骨连结的关节。由第1- 7 肋的内侧端与胸骨的肋切迹构成。关节囊薄而松弛，关节腔为一窄隙。有胸肋轴状韧带、 肋剑突韧带加固。属于微动关节。"
+  },
+  {
+   "cn": "胸锁关节",
+   "en": "sternoclavicular joint",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.2.2.7",
+   "subjectFullName": "风湿免疫病学_总论_解剖和组织学_关节与周围软组织",
+   "subjectName": "关节与周围软组织",
+   "publishYear": "2025",
+   "definition": "由锁骨的胸骨端关节面和胸骨柄的锁骨切迹组成的关节。上肢与躯干之间连结的唯一关节。关节腔内有关节盘。关节囊坚韧，周围有韧带加固。有3个运动轴，绕矢状轴可 做上下运动；绕垂直轴可做前后运动；绕冠状轴可做回"
+  },
+  {
+   "cn": "肩关节",
+   "en": "shoulder joint",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.2.2.8",
+   "subjectFullName": "风湿免疫病学_总论_解剖和组织学_关节与周围软组织",
+   "subjectName": "关节与周围软组织",
+   "publishYear": "2025",
+   "definition": "由肩胛骨的关节盂和肱骨头组成的关节。相连两骨关节面大小相差较大。关节窝周缘有关节唇加深关节盂。关节囊薄弱且松弛，附着在关节盂周缘和肱骨解剖颈之间，关节囊 壁内有由滑膜包裹的肱二头肌长头腱通过， 此腱有"
+  },
+  {
+   "cn": "肘关节",
+   "en": "elbow joint",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.2.2.9",
+   "subjectFullName": "风湿免疫病学_总论_解剖和组织学_关节与周围软组织",
+   "subjectName": "关节与周围软组织",
+   "publishYear": "2025",
+   "definition": "由肱骨远侧端和桡尺骨近端关节面组成的关节。包括3个小关节：肱尺关节、肱桡关 节及桡尺近侧关节，它们共同包裹在一个关节囊内。"
+  },
+  {
+   "cn": "腕关节",
+   "en": "wrist joint",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.2.2.10",
+   "subjectFullName": "风湿免疫病学_总论_解剖和组织学_关节与周围软组织",
+   "subjectName": "关节与周围软组织",
+   "publishYear": "2025",
+   "definition": "由手的舟骨、月骨和三角骨的近侧关节面作为关节头，桡骨的腕关节面和尺骨头下方的关节盘作为关节窝而构成的关节。"
+  },
+  {
+   "cn": "掌指关节",
+   "en": "metacarpophalangeal joint",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.2.2.11",
+   "subjectFullName": "风湿免疫病学_总论_解剖和组织学_关节与周围软组织",
+   "subjectName": "关节与周围软组织",
+   "publishYear": "2025",
+   "definition": "由掌骨小头与第1节指骨底构成的关节。共 有5个，在形态上近似球窝关节，但机能上因受两侧韧带的限制，第 2- 5 掌指关节能 做屈、伸、内收、外展及环转运动；第 1 掌指关节仅能做屈伸运动，当关节微屈时"
+  },
+  {
+   "cn": "指间关节",
+   "en": "interphalangeal joint",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.2.2.12",
+   "subjectFullName": "风湿免疫病学_总论_解剖和组织学_关节与周围软组织",
+   "subjectName": "关节与周围软组织",
+   "publishYear": "2025",
+   "definition": "由各指相邻两节指骨的底和滑车构成的关节。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

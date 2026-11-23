@@ -1,0 +1,722 @@
+{
+ "key": "plastic natures",
+ "term": "plastic natures",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T05:03:26+00:00",
+ "status": "ok",
+ "note": "variant=plastic natures; 审定公布名词库=2429; 海峡两岸名词对照库=645; 其他来源数据库=95; 预公布名词数据库=93; jwt-direct（JWT 直连，raw 略；已滤维基 9 条）",
+ "hits": [
+  {
+   "cn": "整形",
+   "en": "plastic",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.0434",
+   "subjectFullName": "食品科学技术_食品工程_食品专用技术与装备_焙烤",
+   "subjectName": "焙烤",
+   "publishYear": "2020",
+   "definition": "将发酵好的面团在适宜的温度和相对湿度下加工成具有一定形状的面包坯的过程。整形包括分块和称量、搓圆、中间醒发、压片、成型、装盘或装模等6道工序。"
+  },
+  {
+   "cn": "塑料",
+   "en": "plastic",
+   "source": "化学名词",
+   "wordNumber": "05.0300",
+   "subjectFullName": "化学_高分子化学_高分子物质",
+   "subjectName": "高分子物质",
+   "publishYear": "2016",
+   "definition": "玻璃化温度或结晶聚合物熔点在室温以上，能塑制成型的高分子材料。"
+  },
+  {
+   "cn": "塑料",
+   "en": "plastic",
+   "source": "航天科学技术名词",
+   "wordNumber": "12.041",
+   "subjectFullName": "航天科学技术_航天材料",
+   "subjectName": "航天材料",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "塑料",
+   "en": "plastics",
+   "source": "材料科学技术名词",
+   "wordNumber": "04.0348",
+   "subjectFullName": "材料科学技术_高分子材料_塑料",
+   "subjectName": "塑料",
+   "publishYear": "2011",
+   "definition": "玻璃化温度或结晶聚合物熔点在室温以上，添加辅料后能在成型中塑制成一定形状的高分子材料。"
+  },
+  {
+   "cn": "可塑性",
+   "en": "plasticity",
+   "source": "地质学名词",
+   "wordNumber": "03.01.103",
+   "subjectFullName": "地质学_矿物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "矿物在外力或高温、高压条件下，极易发生塑性变形，可以塑造各种形状而不破碎的性质。"
+  },
+  {
+   "cn": "增塑剂",
+   "en": "plasticizer",
+   "source": "化工名词（七）高分子化工",
+   "wordNumber": "2.1062",
+   "subjectFullName": "化工（七）_合成树脂_合成树脂加工及助剂",
+   "subjectName": "合成树脂加工及助剂",
+   "publishYear": "2022",
+   "definition": "能削弱橡胶、塑料等高分子间的作用力，增加其可加工性并改善制品某些性能的物质。工业上被广泛使用的高分子材料助剂。在塑料加工中添加这种物质，可以使其柔韧性增强，容易加工。"
+  },
+  {
+   "cn": "增塑作用",
+   "en": "plasticization",
+   "source": "化工名词（七）高分子化工",
+   "wordNumber": "2.1063",
+   "subjectFullName": "化工（七）_合成树脂_合成树脂加工及助剂",
+   "subjectName": "合成树脂加工及助剂",
+   "publishYear": "2022",
+   "definition": "加入增塑剂软化高聚物或增加高聚物柔韧性的作用。增塑剂分子进入到聚合物链段间，降低链段间相互作用，促进大分子相对运动，因此导致玻璃化转变温度下降。"
+  },
+  {
+   "cn": "塑性",
+   "en": "plasticity",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1584",
+   "subjectFullName": "地球物理学_地震科学_震源",
+   "subjectName": "震源",
+   "publishYear": "2022",
+   "definition": "在外加载荷作用下，介质能稳定地发生持久变形而不破坏其完整性的性质。 "
+  },
+  {
+   "cn": "塑炼",
+   "en": "plastication",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.1909",
+   "subjectFullName": "化工（八）_化工设备_橡胶机械",
+   "subjectName": "橡胶机械",
+   "publishYear": "2021",
+   "definition": "橡胶加工的一个工序，指采用机械或化学的方法降低生胶分子量和黏度，以提高其可塑性，获得适当的流动性，从而满足混炼和成型进一步加工需要的工艺过程。"
+  },
+  {
+   "cn": "塑炼机",
+   "en": "Plasticator",
+   "source": "化工名词（八）化工装备",
+   "wordNumber": "3.1934",
+   "subjectFullName": "化工（八）_化工设备_橡胶机械",
+   "subjectName": "橡胶机械",
+   "publishYear": "2021",
+   "definition": "用以将高聚物进行塑炼，以制备塑炼胶、混炼胶或进行热炼、出型的炼胶机械。"
+  },
+  {
+   "cn": "可塑性",
+   "en": "plasticity",
+   "source": "医学遗传学名词",
+   "wordNumber": "2.184",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "造血干细胞、骨髓间充质干细胞、神经干细胞等成体干细胞具有的跨系甚至跨胚层分化的特性。"
+  },
+  {
+   "cn": "可塑性",
+   "en": "plasticity",
+   "source": "动物学名词",
+   "wordNumber": "7.0081",
+   "subjectFullName": "动物学_动物生态学_个体生态学",
+   "subjectName": "个体生态学",
+   "publishYear": "2021",
+   "definition": "生物的结构、形态和功能受环境因子的影响而产生差异的一种自然属性。"
+  },
+  {
+   "cn": "可塑性",
+   "en": "plasticity",
+   "source": "生理学名词",
+   "wordNumber": "03.686",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "塑性",
+   "en": "plasticity",
+   "source": "食品科学技术名词",
+   "wordNumber": "02.0329",
+   "subjectFullName": "食品科学技术_食品科学_食品物理_食品流变学特性",
+   "subjectName": "食品流变学特性",
+   "publishYear": "2020",
+   "definition": "在外力作用下，材料能稳定地发生永久变形而不破坏其完整性的能力。"
+  },
+  {
+   "cn": "粉末增塑剂",
+   "en": "plasticizer",
+   "source": "冶金学名词",
+   "wordNumber": "08.0179",
+   "subjectFullName": "冶金学_金属材料_粉末冶金",
+   "subjectName": "粉末冶金",
+   "publishYear": "2019",
+   "definition": "主要用于改进粉末喂入料成形性而添加到粉末当中去的热塑性黏结剂材料。多用于粉末注射成形与挤压成形。"
+  },
+  {
+   "cn": "塑性",
+   "en": "plasticity",
+   "source": "物理学名词",
+   "wordNumber": "02.0633",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "增塑剂",
+   "en": "plasticizer",
+   "source": "化学名词",
+   "wordNumber": "05.1106",
+   "subjectFullName": "化学_高分子化学_高分子加工技术和应用",
+   "subjectName": "高分子加工技术和应用",
+   "publishYear": "2016",
+   "definition": "能削弱橡胶、塑料等高分子间的作用力，增加其可加工性并改善制品某些性能的物质。"
+  },
+  {
+   "cn": "增塑作用",
+   "en": "plasticization",
+   "source": "化学名词",
+   "wordNumber": "05.0970",
+   "subjectFullName": "化学_高分子化学_高分子加工技术和应用",
+   "subjectName": "高分子加工技术和应用",
+   "publishYear": "2016",
+   "definition": "削弱高分子间的作用力，以增加其柔曲性和可加工性的作用。"
+  },
+  {
+   "cn": "塑性",
+   "en": "plasticity",
+   "source": "化学名词",
+   "wordNumber": "04.1729",
+   "subjectFullName": "化学_物理化学_胶体化学",
+   "subjectName": "胶体化学",
+   "publishYear": "2016",
+   "definition": "固体物质受外力作用变形后，能完全或部分保持其变形的性质。"
+  },
+  {
+   "cn": "塑化",
+   "en": "plasticizing",
+   "source": "化学名词",
+   "wordNumber": "05.0969",
+   "subjectFullName": "化学_高分子化学_高分子加工技术和应用",
+   "subjectName": "高分子加工技术和应用",
+   "publishYear": "2016",
+   "definition": "使热塑性塑料软化并赋予可塑性的过程。"
+  },
+  {
+   "cn": "塑料",
+   "en": "plastic",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "塑料",
+   "en": "plastic",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "塑料",
+   "en": "plastics",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "可塑性",
+   "en": "plasticity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "增塑剂",
+   "en": "plasticizer",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "增塑作用",
+   "en": "plasticization",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "可塑性",
+   "en": "plasticity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "可塑度",
+   "en": "plasticity",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "增塑剂",
+   "en": "plasticizer",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "塑化",
+   "en": "plasticizing",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "塑炼",
+   "en": "plastication",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "增塑作用",
+   "en": "plasticization",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "可塑性",
+   "en": "plasticity",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "可塑性",
+   "en": "plasticity",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "塑性",
+   "en": "plasticity",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "增塑剂",
+   "en": "plasticizer",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "增塑剂",
+   "en": "plasticizer\",\"plasticity agent",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "本质",
+   "en": "nature",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自然",
+   "en": "nature",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "本位记号",
+   "en": "natural",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自然",
+   "en": "Naturalness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "性",
+   "en": "Xing (Nature)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据界",
+   "en": "data nature",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人性",
+   "en": "human nature",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "飘逸",
+   "en": "Natural Grace",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "性分",
+   "en": "Natural Attribute",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "分",
+   "en": "Natural Attribute",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自然梯度",
+   "en": "natural gradient",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自然技术",
+   "en": "natural technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自然人",
+   "en": "natural person",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "天然障碍",
+   "en": "natural obstacle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "塑料",
+   "en": "plastic",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.4.21",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_辐射防护材料",
+   "subjectName": "辐射防护材料",
+   "publishYear": "2025",
+   "definition": "一种高分子材料。可作为β射线、中子屏蔽材料，密度为1.4g·cm-3。"
+  },
+  {
+   "cn": "增塑剂",
+   "en": "plasticizer",
+   "source": "食品卫生学名词",
+   "wordNumber": "7.1.6",
+   "subjectFullName": "食品卫生学_食品相关产品_食品接触材料及制品",
+   "subjectName": "食品接触材料及制品",
+   "publishYear": "2025",
+   "definition": "能降低高分子材料玻璃化转变温度并提高塑性的低挥发性或无挥发性的助剂。"
+  },
+  {
+   "cn": "自然",
+   "en": "nature",
+   "source": "马克思主义",
+   "wordNumber": "01.0137",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "“自然”与“物质”是同一层次或者同等程度的范畴，但自然范畴的内涵更丰富、更具体。从具体层次讲，自然较多的是作为人类活动环境的意义而被使用，是与社会、历史、文化等概念相对应的范畴。"
+  },
+  {
+   "cn": "自然崇拜",
+   "en": "naturalism",
+   "source": "社会学名词",
+   "wordNumber": "4.2.3.16",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化人类学基本概念",
+   "subjectName": "文化人类学基本概念",
+   "publishYear": "2025",
+   "definition": "以自然现象（如日、月、水、火）等为对象的信仰，原被理解为“原始宗教”的标志。研究表明，它只是人与自然建立的关系的一种表现形式。"
+  },
+  {
+   "cn": "自然性",
+   "en": "naturality",
+   "source": "马克思主义",
+   "wordNumber": "01.0138",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "事物在自然环境中遵循自然规律的自然属性和行为。自在的自然具有自然性，人化的自然不仅具有自然性，还具有社会性。"
+  },
+  {
+   "cn": "抗菌塑料",
+   "en": "antibacterial plastic",
+   "source": "消毒学",
+   "wordNumber": "3.1.13.10",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "具有抗菌作用的塑料。"
+  },
+  {
+   "cn": "塑料闪烁体",
+   "en": "plastic scintillator",
+   "source": "放射卫生学",
+   "wordNumber": "5.2.5.35",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测设备_通用辐射监测设备",
+   "subjectName": "通用辐射监测设备",
+   "publishYear": "2025",
+   "definition": "一种有机闪烁物质在塑料中的固溶体，通常由基质闪烁物质及移波剂组成。"
+  },
+  {
+   "cn": "发育可塑性",
+   "en": "developmental plasticity",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.1.8.4.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育规律",
+   "subjectName": "生长发育规律",
+   "publishYear": "2025",
+   "definition": "为适应积极或消极的生活经历而发生改变的能力。表现为在发育过程中同一基因型在不同环境条件下能够产生不同生理和形态学特性。"
+  },
+  {
+   "cn": "发育可塑性",
+   "en": "developmental plasticity",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "1.6.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生学_妇幼卫生理论",
+   "subjectName": "妇幼卫生理论",
+   "publishYear": "2025",
+   "definition": "在发育过程中，同一基因型在不同环境条件下能够产生不同生理和形态学特性。是生命体为适应环境而调整其生长发育轨迹的一种模式。"
+  },
+  {
+   "cn": "自然崇拜",
+   "en": "nature worship",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0284",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "对人格化或神圣化的自然物和自然力的崇拜，为自然宗教的基本表现形态。其崇拜对象大体包括天、地、日、月、星、山、石、江、湖、海、水、火、风、雨、雪、雹、雷、云、虹等天体万物及气象地貌方面的自然变迁和变化现"
+  },
+  {
+   "cn": "人化自然",
+   "en": "humanized nature",
+   "source": "马克思主义",
+   "wordNumber": "01.0143",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "马克思在《1844年经济学哲学手稿》中提出的一个重要概念，指人通过活动，把自己的本质力量对象化在客体中，使客观自然不再与人相对立，成为人的创造物的过程。这一过程就客体而言，就是人化的自然。"
+  },
+  {
+   "cn": "人工自然",
+   "en": "artificial nature",
+   "source": "马克思主义",
+   "wordNumber": "01.0145",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人类的实践活动改造过的自然，也称人化自然。它的出现是自然发展史的飞跃。人工自然一方面服从自然规律，另一方面凝结了人的本质力量，因而具有社会性，受社会规律的制约和影响。"
+  },
+  {
+   "cn": "道德本质",
+   "en": "moral nature",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.018",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "道德与其他社会意识形态区别开来的内在规定性。由道德在与社会经济关系及其他社会关系的相互连接中发挥自己的特殊功能时表现出来。"
+  },
+  {
+   "cn": "人性",
+   "en": "human nature",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.0759999999999998",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "在一定社会制度和历史条件下形成的人的本性，包括个体的品质、德性和德行等。"
+  },
+  {
+   "cn": "自然死亡",
+   "en": "natural death",
+   "source": "医学伦理学名词",
+   "wordNumber": "7.013999999999999",
+   "subjectFullName": "医学伦理学_临终关怀与死亡伦理",
+   "subjectName": "临终关怀与死亡伦理",
+   "publishYear": "2025",
+   "definition": "人的生命的自然终结。"
+  },
+  {
+   "cn": "自然通风",
+   "en": "natural ventilation",
+   "source": "消毒学",
+   "wordNumber": "1.8.16",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "利用建筑物内外空气的密度差引起的热压或风压，促使空气流动而进行的通风换气方式。"
+  },
+  {
+   "cn": "自然菌",
+   "en": "natural bacteria",
+   "source": "消毒学",
+   "wordNumber": "6.2.3.1",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "存在于消毒对象上的、非人工污染的细菌。"
+  },
+  {
+   "cn": "自然干燥",
+   "en": "natural drying",
+   "source": "消毒学",
+   "wordNumber": "6.2.27.21",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "实验制备染菌载体过程中，将试验微生物悬液涂染试验载体后，在室温条件下使染菌载体干燥的过程。"
+  },
+  {
+   "cn": "天然反应堆",
+   "en": "natural reactor",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.3.10",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护",
+   "subjectName": "核工业的放射防护",
+   "publishYear": "2025",
+   "definition": "自然界发生自持式裂变反应的地理区域，如加蓬共和国的奥克洛铀矿裂变区。"
+  },
+  {
+   "cn": "自然法",
+   "en": "natural law",
+   "source": "社会学名词",
+   "wordNumber": "2.8.6.1",
+   "subjectFullName": "社会学名词_社会学一般概念社会制度",
+   "subjectName": "社会学一般概念社会制度",
+   "publishYear": "2025",
+   "definition": "基于自然秩序本身所产生的正义、平等等理性原则的总和，独立于社会意识形态的价值体系。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
