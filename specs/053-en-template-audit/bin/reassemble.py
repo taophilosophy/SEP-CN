@@ -137,6 +137,8 @@ _GREEK_FORM = None  # 按件希腊字形态："em" 表示 <em>&alpha;</em> 而�
 _MATH_FORMS = None  # 按件显示公式形态账（文档序 "br"／"naked"）
 _MATH_DOLLARS = None  # 按件行内公式美元源形账（[[体内指纹, "db…"]]，消费式）
 _MATH_IDX = [0]     # 显示公式游标（reassemble_article 重置）
+_BQ = None          # 按件引块形态账（0＝首子 <p>/<table>，1＝裸装文字），文档序
+_BQ_IDX = [0]       # 引块游标
 
 _NOTE_FORMS = None  # 按件非规范脚注引用形（文档序列表 [{n, form}]）
 _NOTE_IDX = [0]  # note_forms 消费游标（跨行持续；reassemble_article 重置）
@@ -867,6 +869,14 @@ def _td(cell):
 
 
 def _render_bq(q, _depth=0):
+    global _BQ_IDX
+    _bare_bq = 0
+    if _BQ:
+        i = _BQ_IDX[0]
+        if i < len(_BQ):
+            _bare_bq = _BQ[i]
+            _BQ_IDX[0] = i + 1
+
     """`>` 行（已剥一层前缀）→ 引块 HTML。主循环与 References 区共用。
 
     空 `>` 行＝段落分隔；连续非空行＝同段内 <br>（richard-sophister 判例：
@@ -953,8 +963,15 @@ def _render_bq(q, _depth=0):
                 for x in p if x.strip())
             inner += "<ul>%s</ul>" % lis
         else:
-            inner += "<p>%s</p>" % "<br>".join(
-                _inline_md_to_html(x) for x in p)
+            if _bare_bq:
+                # H0 裸装引块（首子非 <p>，全库 6,120 处／798 页）：内容直接排在
+                # <blockquote> 里，不套 <p>。套了每处多 4 段、整页 _sub_diff
+                # 对不齐（descriptions Δ109、desert Δ44 判例）。行分隔用 H0
+                # 拼写 `<br />`。
+                inner += "<br />".join(_inline_md_to_html(x) for x in p)
+            else:
+                inner += "<p>%s</p>" % "<br>".join(
+                    _inline_md_to_html(x) for x in p)
     return "<blockquote>%s</blockquote>" % inner
 
 
@@ -962,7 +979,7 @@ def _render_bq(q, _depth=0):
 
 def reassemble_article(md, authors, entity_map=None, links=None, greek=None,
                        italics=None, greek_form=None, note_forms=None,
-                       math_forms=None, math_dollars=None):
+                       math_forms=None, math_dollars=None, bq=None):
     """md（主档全文）→ (title, article_html)。不动点验证在调用方闭环。
 
     entity_map：按件实体策略（codepoint → 实体串）；None 表示不编码。
@@ -971,6 +988,9 @@ def reassemble_article(md, authors, entity_map=None, links=None, greek=None,
     greek：按件希腊宏覆盖（同名不同宏：pi/varphi 之类 C 侧同形不可分）。"""
     global _EM, _LINKS, _LINKS_USED, _LINK_SEEN, _LINK_IDX, _GREEK, _GREEK_IDX
     global _ITAL, _GREEK_FORM, _NOTE_FORMS, _MATH_FORMS, _MATH_DOLLARS
+    global _BQ
+    _BQ = bq or None
+    _BQ_IDX[0] = 0
     _GREEK = greek
     _GREEK_IDX = {}
     _EM = entity_map

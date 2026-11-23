@@ -539,6 +539,16 @@ B3.2 的 sha 全等清单即 OAIS fixity 账的实现形态；与 ADR-0076 已�
 
 **教训**：①「整段可池」不等于「位置正确」——18 件含方括号页此前全靠补丁吞差，规则修好后池字节反而增大但语义正确（池不是唯一 KPI）；②插入型的账（链接/注号）都要考虑锚文本身的语法字符（`[]`、`*`、`$`）；③收益上界仍按「原 gap 的受影响页」算，本批 5 件 gap 里只修好 1 件。
 
+## 10.30 第三十批：引块形态账（bq，前置件）（2026-11-23）
+
+**缺陷**：`_render_bq` 一贯发 `<blockquote><p>…</p></blockquote>`；H0 另有 **6,120 处裸装引块（首子非 `<p>`，798 页）**，内容直接排在标签里。套 `<p>` 每处多 4 个段，整页 `_sub_diff` 对不齐（descriptions Δ109、desert Δ44、ambiguity Δ9 判例）。
+
+**修法**：账增 `bq`＝按文档序的 0/1 序列（1＝裸装，首子 `<p>`/`<table>` 记 0），只记有裸装的页（798 页）；R `_render_bq` 按游标消费，裸装分支不套 `<p>`、行分隔用 H0 拼写 `<br />`。切区与 `extract_links` 同式（TOC／学术工具／相关条目各自引块不算）。
+
+**实测**：全量双通道 **pool 1,759／gap 114／stale 0（0 转池／0 失池）**；B3.1 **1,638 不变**。定性：**前置件**——32 件 `m:<p | u:text` 首裂族全部推进到下一层（descriptions Δ109→3、ambiguity Δ9→5），段数相等的 gap 件 3→10 件；全库重聚类的首裂签名分布显著前移。下一层主靶（按首裂签名计数）：`u:<strong | m:<dt` 11 件（`<dl class="sentag">` 定义列表，H0 有 dt/dd、A 侧发段落）、`u:text | m:</li` 10 件（松散列表 `<li><p>…</p></li>`）、`u:text | m:<p` 7 件、`m:<p | u:<span` 6 件。
+
+**教训**：①账只能记「md 里不可辨」的形态差；裸装与否正是这种（C 统一转 `> …`）——但一个账只解一层，解完首裂会推进到下一层，**要按「首裂签名聚类」排队而不是按族名清单排队**；②0 转池的前置件也值得上：它让后续每一族的可对齐面变大，且失池风险为零（B3.1 无账路径不变）。
+
 ## 11. 现状与下一步（开工卡，2026-11-22）
 
 **验收线现状**（现查口径，勿引快照）：
@@ -550,7 +560,7 @@ B3.2 的 sha 全等清单即 OAIS fixity 账的实现形态；与 ADR-0076 已�
 | I2/I3 转换保真 | `--gate` 0 issue（1,873 全过） | `python -B tools/check_yuanwen_fidelity.py --gate` |
 | 全库门禁 | check_all 17 项全绿 | `python -B tools/check_all.py` |
 
-**缺口 114 分族**（`script/tmp/b32_families2.py <scan-json>`；分族普查须在每次转池后重跑）：2026-11-23 第二十九批收官普查为 **md_extra 75／h0_extra 13／text 9／math 8／star 4／digit 3／entity 2**。已解族：表题 `caption`（第十四批）、书目区无年份散文、书目区取域与注释（第十六批）、致谢区识别（第十七批）、related 前导竖线与希腊公式形（第十八批）、嵌套引块与 layout 陈年（第十九批）、书目散文 `note-<年>` 键（第二十批）、sup/sub 实体拼写与字形（第二十一批）、跨岛实体差（第二十二批）、行内公式 `\$` 双源（第二十三批）、题后散字与裸名条目（第二十四批）、嵌套表与管道格内 raw 表（第二十五批）、脚注引用形与内部链接消歧（第二十六批）、带片段的裸兄弟文件链（第二十七批）、宏↔裸字形之希腊-cursive 区（第二十八批）、账锚方括号保护（第二十九批）。
+**缺口 114 分族**（`script/tmp/b32_families2.py <scan-json>`；分族普查须在每次转池后重跑）：2026-11-23 第二十九批收官普查为 **md_extra 75／h0_extra 13／text 9／math 8／star 4／digit 3／entity 2**。已解族：表题 `caption`（第十四批）、书目区无年份散文、书目区取域与注释（第十六批）、致谢区识别（第十七批）、related 前导竖线与希腊公式形（第十八批）、嵌套引块与 layout 陈年（第十九批）、书目散文 `note-<年>` 键（第二十批）、sup/sub 实体拼写与字形（第二十一批）、跨岛实体差（第二十二批）、行内公式 `\$` 双源（第二十三批）、题后散字与裸名条目（第二十四批）、嵌套表与管道格内 raw 表（第二十五批）、脚注引用形与内部链接消歧（第二十六批）、带片段的裸兄弟文件链（第二十七批）、宏↔裸字形之希腊-cursive 区（第二十八批）、账锚方括号保护（第二十九批）、引块形态账 bq（第三十批，前置件）。
 
 **md_extra 75 件再分族（批准项①，按 `plain()` 文字流首差内容形态）**：`script/tmp/fam_md_extra2.py`（文字流首差＋H0 标记上下文）与 `classify_diff_content.py`（差异内容形态）两段可复算，2026-11-23 第二十九批复算计数：math-delim 15／space-ent 5／table-pipe 1／marker 1／其余 53：
 
@@ -569,11 +579,13 @@ B3.2 的 sha 全等清单即 OAIS fixity 账的实现形态；与 ADR-0076 已�
 
 **B3.1 转红 3 件（W8）——定案：接受残留，不修**。取证：engels 实际漂移 22 条定义（`engels-*→marx-*`）、foucault 1 条（`foucault-2018→cours-2018`）、kant-religion 2 条（`kant-religion-*→kant’s-*`）。根因：R 把全部文献定义放在 References 区**最后一个标题之后**的单 `<ul>` 里，C 的 `build_cite_keys` 按 section 邻接继承姓氏，年份起首条目因而继承前一节末条（Marx）。候选修法成本实测：①年份起首不继承、统一 fallback → 改判 **1,580 条／121 件**键名（含把合法的 `lewis/Church` 类换成 slug 键，且影响译注标记），需全量重转；②同小节换 `<ul>` 重置 prev → 19 件（30 处）现有键被改判；③R 按键姓段切 ul → 账与补丁全量重算。收益 3 件（0.16%）且仅键名标签、定义文字与顺序全等（三件 B3.2 均 pool）。故**不修**，登记为已知残留。
 
-**下一批入口**（按收益排序）：
-1. **段数不等（结构层主靶）**：剩余 gap 的多数件 A/B 段数不等（五件 space-ent：descriptions Δ109／desert Δ44／information-entropy Δ18／spinoza-attributes Δ11／typelogical-grammar Δ−37，`&nbsp;` 只是首差形态；diagrams Δ19／game-theory Δ12／metaphysics-massexpress Δ−3／determinism-causal Δ−1 同型）。须先做「多出的 markup 段」归因器（按段类型计数：空 `u` 段、`span`/`p` 拆分、列表标记），再定修法。
-2. **显示式取域/宏形余件（8 件）**：criminal-law／geometry-finitism／logic-intensional／logic-power-games／logic-probability／propositional-function／ramsey／recursive-functions，多为 `\[…\]` 取域与相邻段错位，须逐件取证。
-3. **折行宽度（wrap_width）**：全局单宽模型对混排宽度的件不成立（hobbes-science 等）；第二十七批已把「锚不可折」固化，剩余是行内无锚段落的宽度族。
-4. **h0_extra 余件（13）**：逐件取证“H0 事项未入 md／账”的具体通道。
+**下一批入口**（按收益排序，归因器＝`script/tmp/segshape.py --gap`＋`gap_split.py` 首裂签名聚类）：
+1. **dl 定义列表（11 件）**：H0 `<dl class="sentag">` 有 `<dt>/<dd>`，A 侧发段落＋`<strong>`（u:`<strong` 对 m:`<dt`）；与松散列表同属「md 不可辨结构」账。
+2. **松散列表（10 件）**：H0 `<li><p>…</p></li>`（u:`text` 对 m:`</li`），按列表记 `li_p` 账。
+3. **段落包装余件（13 件）**：`u:text | m:<p` 7＋`m:<p | u:<span` 6，逐件取证。
+4. **显示式取域/宏形余件（8 件）**：criminal-law／geometry-finitism／logic-intensional／logic-power-games／logic-probability／propositional-function／ramsey／recursive-functions。
+5. **段数相等但文字差（10 件）**：math 8／text 9 等族的残余。
+6. **h0_extra 余件（13）**：逐件取证“H0 事项未入 md／账”的具体通道。
 
 **流程提醒**：动 C 必全量重转（约 18 分钟）＋B3.1 集合级对照止损；动 R/账只重跑 B3.1（约 10 分钟）＋建池（约 20 分钟）＋judge 复扫（约 25 分钟）；**小改动走定点重建＋judge 拼接**（受影响件集＝账 diff ∪ md 变件 ∪ 结构特征件；`script/tmp/splice_b12.py`）；基线只在收敛后人工更新并提交。
 

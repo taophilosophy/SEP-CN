@@ -247,6 +247,27 @@ def extract_links(art_inner, skip=()):
     return out
 
 
+def extract_bq(art_inner):
+    """引块形态账：按**文档序**记每个 `<blockquote>` 是否裸装文字（首子非 `<p>`）。
+
+    R 的 `_render_bq` 一贯发 `<blockquote><p>…</p></blockquote>`；H0 另有 6,120
+    处裸装（798 页），套 `<p>` 后每处多 4 个段、整页 `_sub_diff` 对不齐
+    （descriptions Δ109、desert Δ44 判例）。只记有裸装的页：0＝首子
+    `<p>`/`<table>`（现行形态，含管道表路径），1＝裸装。切区与
+    `extract_links` 同式（TOC／学术工具／相关条目各自的 `<blockquote>` 不算）。
+    """
+    s = art_inner
+    s = _cut_region(s, '<div id="toc"', '</div>' + chr(92) + 's*(?=<div id="main-text">)')
+    s = _cut_region(s, '<div id="academic-tools"', '</div>')
+    s = _cut_region(s, '<div id="related-entries"', '</div>')
+    s = re.sub(r"<!--.*?-->", lambda m: " " * len(m.group(0)), s, flags=re.S)
+    out = []
+    for m in re.finditer(r"<blockquote\b[^>]*>", s):
+        after = s[m.end():m.end() + 60].lstrip()
+        out.append(0 if after.startswith(("<p", "<table")) else 1)
+    return out if any(out) else None
+
+
 def extract_italics(art_inner):
     """按件斜体标签形：H0 全用 <i> 时记 "i"（C 把 <em>/<i> 同归一为 *…*）。"""
     BS = chr(92)
@@ -960,6 +981,9 @@ def extract(art_inner, md=None):
     nf = extract_note_forms(art_inner)
     if nf:
         led["note_forms"] = nf
+    bq = extract_bq(art_inner)
+    if bq:
+        led["bq"] = bq
     mf = extract_math_forms(art_inner)
     if mf:
         led["math_forms"] = mf

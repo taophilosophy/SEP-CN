@@ -4,7 +4,7 @@
  "generated_by": "specs/053 bin/assembly_pool.py",
  "note": "格式层残差补丁：m=标记段、u=单元布局、r=纯布局区段；禁含散文",
  "stats": {
-  "page_bytes": 66951,
+  "page_bytes": 66943,
   "pool_bytes": 59011,
   "n_patches": 81
  },
@@ -64805,8 +64805,8 @@
   },
   {
    "u": 53063,
-   "len": 666,
-   "sha": "2d417a9f2aa88ec8",
+   "len": 658,
+   "sha": "e77911e94692382a",
    "items": [
     [
      "mk",
@@ -65814,7 +65814,7 @@
    ]
   },
   {
-   "u": 53788,
+   "u": 53780,
    "len": 1096,
    "sha": "038139d225564805",
    "items": [
@@ -67440,7 +67440,7 @@
    ]
   },
   {
-   "u": 54893,
+   "u": 54885,
    "len": 909,
    "sha": "f23bb37a738b72fa",
    "items": [
@@ -68878,7 +68878,7 @@
    ]
   },
   {
-   "u": 55811,
+   "u": 55803,
    "len": 928,
    "sha": "1d03e357aad638ec",
    "items": [
@@ -70306,7 +70306,7 @@
    ]
   },
   {
-   "u": 56776,
+   "u": 56768,
    "len": 12,
    "sha": "619d65e1ae1a2704",
    "items": [
@@ -70326,13 +70326,13 @@
    ]
   },
   {
-   "r": 56826,
+   "r": 56818,
    "len": 22,
    "sha": "9ae4a29570345de8",
    "after": "<ul>\n "
   },
   {
-   "u": 56852,
+   "u": 56844,
    "len": 104,
    "sha": "213153fb40678c0c",
    "items": [
@@ -70447,7 +70447,7 @@
    ]
   },
   {
-   "u": 57065,
+   "u": 57057,
    "len": 142,
    "sha": "299410e9abb00d66",
    "items": [
@@ -70634,19 +70634,19 @@
    ]
   },
   {
-   "r": 57301,
+   "r": 57293,
    "len": 6,
    "sha": "64eeeb62dde7289d",
    "after": "</li> \n"
   },
   {
-   "r": 57329,
+   "r": 57321,
    "len": 22,
    "sha": "9ae4a29570345de8",
    "after": "<ul>\n\n"
   },
   {
-   "u": 57468,
+   "u": 57460,
    "len": 106,
    "sha": "6110d2a9188f4459",
    "items": [
@@ -70778,13 +70778,13 @@
    ]
   },
   {
-   "r": 57621,
+   "r": 57613,
    "len": 22,
    "sha": "9ae4a29570345de8",
    "after": "<ul>\n\n"
   },
   {
-   "u": 57779,
+   "u": 57771,
    "len": 120,
    "sha": "422d6bce9a6d71fa",
    "items": [
@@ -70908,7 +70908,7 @@
    ]
   },
   {
-   "u": 57910,
+   "u": 57902,
    "len": 170,
    "sha": "5c2044e893ef8fad",
    "items": [
@@ -71144,7 +71144,7 @@
    ]
   },
   {
-   "u": 58252,
+   "u": 58244,
    "len": 81,
    "sha": "6227936b0f46a4a1",
    "items": [
@@ -71241,7 +71241,7 @@
    ]
   },
   {
-   "u": 58612,
+   "u": 58604,
    "len": 110,
    "sha": "aa0392855e971a93",
    "items": [
@@ -71374,7 +71374,7 @@
    ]
   },
   {
-   "u": 58889,
+   "u": 58881,
    "len": 164,
    "sha": "358a5211bf78473a",
    "items": [
@@ -71579,7 +71579,7 @@
    ]
   },
   {
-   "u": 59064,
+   "u": 59056,
    "len": 238,
    "sha": "dba0a9ce10bfa4f6",
    "items": [
@@ -71856,7 +71856,7 @@
    ]
   },
   {
-   "u": 59472,
+   "u": 59464,
    "len": 98,
    "sha": "987066be1188318b",
    "items": [
@@ -71998,7 +71998,7 @@
    ]
   },
   {
-   "u": 59581,
+   "u": 59573,
    "len": 141,
    "sha": "b6ea46b8bd37a8b2",
    "items": [
@@ -72162,7 +72162,7 @@
    ]
   },
   {
-   "u": 60003,
+   "u": 59995,
    "len": 172,
    "sha": "793ca92ccecd91b4",
    "items": [
@@ -72357,19 +72357,19 @@
    ]
   },
   {
-   "r": 60182,
+   "r": 60174,
    "len": 35,
    "sha": "5ea9e0725372c7e0",
    "after": "</div>\n\n<div id=\"academic-tools\">\n\n"
   },
   {
-   "r": 60271,
+   "r": 60263,
    "len": 34,
    "sha": "4993a190d6a73921",
    "after": "<table>\n<tr><td valign=\"top\">"
   },
   {
-   "u": 60377,
+   "u": 60369,
    "len": 146,
    "sha": "92900d8f19c3623c",
    "items": [
@@ -72430,13 +72430,13 @@
    ]
   },
   {
-   "r": 60535,
+   "r": 60527,
    "len": 9,
    "sha": "3b04f49bc05db8fb",
    "after": "<tr><td valign=\"top\">"
   },
   {
-   "u": 60616,
+   "u": 60608,
    "len": 256,
    "sha": "4fb7a2a216c11ca7",
    "items": [
@@ -72586,13 +72586,13 @@
    ]
   },
   {
-   "r": 60884,
+   "r": 60876,
    "len": 9,
    "sha": "3b04f49bc05db8fb",
    "after": "<tr><td valign=\"top\">"
   },
   {
-   "u": 60957,
+   "u": 60949,
    "len": 216,
    "sha": "ede27874fce0aef0",
    "items": [
@@ -72747,13 +72747,13 @@
    ]
   },
   {
-   "r": 61185,
+   "r": 61177,
    "len": 9,
    "sha": "3b04f49bc05db8fb",
    "after": "<tr><td valign=\"top\">"
   },
   {
-   "u": 61261,
+   "u": 61253,
    "len": 228,
    "sha": "63657d87e877e223",
    "items": [
@@ -72885,19 +72885,19 @@
    ]
   },
   {
-   "r": 61510,
+   "r": 61502,
    "len": 14,
    "sha": "7a81a1190a66b685",
    "after": "</blockquote>\n\n"
   },
   {
-   "r": 61622,
+   "r": 61614,
    "len": 4,
    "sha": "82f4fb72c5b57add",
    "after": "<ul>\n\n<!--LINK CHECKER COMMENTED OUT (Sat Mar 17 14:06:48 PDT 2018)\n\n<li><a href=\"http://www.constitution.org/cm/sol.htm\" target=\"other\">eText of <em>The Spirit of the Laws</em></a>,\n maintained by The Constitution Society, a private non-profit\norganization dedicated to research and public education on the\nprinciples of constitutional republican government.</li>\n\nLINK CHECKER-->\n\n<!--LINK CHECKER COMMENTED OUT (Wed Feb 17 18:08:49 PST 2021)\n\n<li><a href=\"http://www.bmlisieux.com/curiosa/essaigou.htm\" target=\"other\">eText of Montesquieu's <em>Essai sur le Go&ucirc;t</em></a> (in French).</li>\n\nLINK CHECKER-->\n\n"
   },
   {
-   "u": 61630,
+   "u": 61622,
    "len": 436,
    "sha": "d60bedb7d536e1c5",
    "items": [
@@ -73289,7 +73289,7 @@
    ]
   },
   {
-   "u": 62070,
+   "u": 62062,
    "len": 455,
    "sha": "6b0db633a58eb714",
    "items": [
@@ -73697,13 +73697,13 @@
    ]
   },
   {
-   "r": 62605,
+   "r": 62597,
    "len": 5,
    "sha": "b8dc660f3c20d4ce",
    "after": "<p>\n\n "
   },
   {
-   "r": 62657,
+   "r": 62649,
    "len": 12,
    "sha": "4770c12571e51b10",
    "after": "</p>\n\n</div>\n\n"
