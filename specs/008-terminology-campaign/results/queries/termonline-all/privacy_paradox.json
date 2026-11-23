@@ -1,0 +1,772 @@
+{
+ "key": "privacy paradox",
+ "term": "privacy paradox",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T01:29:06+00:00",
+ "status": "ok",
+ "note": "variant=privacy paradox; 审定公布名词库=1368; 海峡两岸名词对照库=423; 其他来源数据库=55; 预公布名词数据库=84; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "隐私",
+   "en": "privacy",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "17.099",
+   "subjectFullName": "新闻学与传播学_媒体与传播法_新闻传播与人格权",
+   "subjectName": "新闻传播与人格权",
+   "publishYear": "2022",
+   "definition": "个人与社会公共生活无关的而不愿为他人知悉或者受他人干扰的私人事项。"
+  },
+  {
+   "cn": "私密性",
+   "en": "privacy",
+   "source": "城乡规划学名词",
+   "wordNumber": "01.174",
+   "subjectFullName": "城乡规划学_城乡规划总述_规划价值观和规划教育",
+   "subjectName": "规划价值观和规划教育",
+   "publishYear": "2021",
+   "definition": "（1）个人或团体隔绝他们自己或者有关于他们的信息的能力。（2）在私人环境中免于他人监视、观察的权利。"
+  },
+  {
+   "cn": "机密性",
+   "en": "privacy",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0062",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_电子商务",
+   "subjectName": "电子商务",
+   "publishYear": "2016",
+   "definition": "信息只能在所授权的时间、所授权的地点暴露给所授权的个人、机构或计算机软件程序，对于未被授权者，这些信息是不可获得或不可理解的。"
+  },
+  {
+   "cn": "私密性",
+   "en": "privacy",
+   "source": "建筑学名词",
+   "wordNumber": "07.0340",
+   "subjectFullName": "建筑学_城乡规划_城市设计",
+   "subjectName": "城市设计",
+   "publishYear": "2014",
+   "definition": "建筑或城市空间为社会个体或群体提供的一种基于隐私权的身心保护。"
+  },
+  {
+   "cn": "悖论",
+   "en": "paradox",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.161",
+   "subjectFullName": "自然辩证法_科学技术方法论_分析与推理",
+   "subjectName": "分析与推理",
+   "publishYear": "2024",
+   "definition": "导致矛盾的命题。这样一种命题，按普遍认可的逻辑推理方式，可推导出两个对立的结论。"
+  },
+  {
+   "cn": "佯谬",
+   "en": "paradox",
+   "source": "物理学名词",
+   "wordNumber": "01.0174",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "悖论",
+   "en": "paradox",
+   "source": "数学名词",
+   "wordNumber": "01.0022",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "数据隐私",
+   "en": "data privacy",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.655",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "隐藏在数据中，但又不愿被他人知晓的个人敏感信息。"
+  },
+  {
+   "cn": "决策性隐私",
+   "en": "decisional privacy",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.2",
+   "subjectFullName": "新闻学与传播学_政治传播_公民社会与政治传播",
+   "subjectName": "公民社会与政治传播",
+   "publishYear": "2022",
+   "definition": "个人免受不正当的外部干扰做出有关自身的根本性决定的权利。"
+  },
+  {
+   "cn": "信息性隐私",
+   "en": "informational privacy",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.201",
+   "subjectFullName": "新闻学与传播学_政治传播_公民社会与政治传播",
+   "subjectName": "公民社会与政治传播",
+   "publishYear": "2022",
+   "definition": "个人、群体或组织自行决定在什么时候、以何种方式、到什么程度，把有关自己的信息被透露给他人的主张。"
+  },
+  {
+   "cn": "网络隐私权",
+   "en": "network privacy ",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.04.107",
+   "subjectFullName": "编辑与出版学_数字出版_网络出版",
+   "subjectName": "网络出版",
+   "publishYear": "2022",
+   "definition": "在网络传播过程中,公民享有私人生活安宁和私人信息依法受到保护,不被他人非法侵犯、知悉、搜集、利用或公开的一种人身权。"
+  },
+  {
+   "cn": "隐私权纠纷",
+   "en": "privacy dispute",
+   "source": "行为医学名词",
+   "wordNumber": "9.086",
+   "subjectFullName": "行为医学_医患行为_医学行为",
+   "subjectName": "医学行为",
+   "publishYear": "2022",
+   "definition": "医疗卫生服务过程中由涉及患者隐私权引发的纠葛与纷争。"
+  },
+  {
+   "cn": "保密性放大",
+   "en": "privacy amplification",
+   "source": "物理学名词",
+   "wordNumber": "06.0862",
+   "subjectFullName": "物理学_相对论、量子理论_量子信息",
+   "subjectName": "量子信息",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "数据隐私",
+   "en": "data privacy",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0398",
+   "subjectFullName": "计算机科学技术_数据库_数据库新技术",
+   "subjectName": "数据库新技术",
+   "publishYear": "2018",
+   "definition": "（1）数据中直接或间接蕴含的，涉及个人或组织的，不宜公开的，需要在数据收集、数据存储、数据查询和分析、数据发布等过程中加以保护的信息。（2）保护数据隐私的能力，通常采用数据匿名化、数据扰动、数据加密、"
+  },
+  {
+   "cn": "隐私保护",
+   "en": "privacy protection",
+   "source": "计算机科学技术名词",
+   "wordNumber": "10.0189",
+   "subjectFullName": "计算机科学技术_信息安全_信息系统安全防护技术",
+   "subjectName": "信息系统安全防护技术",
+   "publishYear": "2018",
+   "definition": "为保护隐私而采取的措施。"
+  },
+  {
+   "cn": "位置隐私",
+   "en": "location privacy",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0454",
+   "subjectFullName": "计算机科学技术_数据库_数据库新技术",
+   "subjectName": "数据库新技术",
+   "publishYear": "2018",
+   "definition": "移动用户的空间位置，通常是用户的隐私数据。"
+  },
+  {
+   "cn": "查询隐私",
+   "en": "query privacy",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0478",
+   "subjectFullName": "计算机科学技术_数据库_数据库新技术",
+   "subjectName": "数据库新技术",
+   "publishYear": "2018",
+   "definition": "用户提交的查询中包含该用户的隐私信息。"
+  },
+  {
+   "cn": "保密体制",
+   "en": "privacy system",
+   "source": "数学名词",
+   "wordNumber": "012.0299",
+   "subjectFullName": "数学_信息论_控制论_保密学（数学）",
+   "subjectName": "保密学（数学）",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "秘密密钥",
+   "en": "privacy key",
+   "source": "电子学名词",
+   "wordNumber": "05.170",
+   "subjectFullName": "电子学_信息论与信号处理技术",
+   "subjectName": "信息论与信号处理技术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "对顶",
+   "en": "oxymoron,paradox",
+   "source": "语言学名词",
+   "wordNumber": "08.146",
+   "subjectFullName": "语言学_修辞学_修辞方法",
+   "subjectName": "修辞方法",
+   "publishYear": "2011",
+   "definition": "修辞格的一种。逻辑上两个相互矛盾、对立和排斥的词、短语或分句巧妙地联结在一起，组成句子描述一个事物或说明一个道理。词或短语层次上的称为单句对顶，句子层次上的称为复句对顶。例如，“厂长刚五十岁，是个年轻"
+  },
+  {
+   "cn": "光度佯谬",
+   "en": "luminosity paradox\",\"photometric paradox",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "数据库保密",
+   "en": "database privacy",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "专用保护",
+   "en": "privacy protection",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "奥伯斯佯谬",
+   "en": "Olbers paradox",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "西利格佯谬",
+   "en": "Seeliger paradox",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "引力佯谬",
+   "en": "gravitational paradox",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "里昂惕夫悖论",
+   "en": "Leontief paradox",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "异相睡眠",
+   "en": "paradoxical sleep",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "C值悖理，C值矛盾",
+   "en": "C value paradox",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "C值矛盾（=C值悖理）",
+   "en": "C value paradox",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "连接数悖理,连接数颠倒现象",
+   "en": "linking number paradox",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "基因数悖理",
+   "en": "gene number paradox",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "C值悖理,C值矛盾",
+   "en": "C value paradox",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "计算机安全与保密",
+   "en": "computer security and privacy",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "秘密密钥",
+   "en": "○1privacy key○2secret key",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "用户标识专用",
+   "en": "privacy of user's identity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "首因效应",
+   "en": "primacy effect\",\"primary effect",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "帕拉莫群落",
+   "en": "paramo",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "游行",
+   "en": "Parade",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Satie, Erik"
+  },
+  {
+   "cn": "帕拉莫群落",
+   "en": "paramo",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "隐私",
+   "en": "privacy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "隐私属性",
+   "en": "privacy attribute",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据悖论",
+   "en": "data paradox",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "隐私同态加密",
+   "en": "privacy homomorphic encryption",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "隐私保护协议",
+   "en": "privacy protection agreement",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "隐私权",
+   "en": "right to privacy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《隐私法案》（美国）",
+   "en": "Privacy Act (USA)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "辛普森悖论",
+   "en": "Simpson’s paradox",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "隐私访问控制标准",
+   "en": "privacy access control standard",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "有线等效加密",
+   "en": "wired equivalent privacy (WEP)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全港隐私保护原则",
+   "en": "Safe Harbor Privacy Principles",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据隐私权",
+   "en": "right to data privacy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全隐私工作组",
+   "en": "Security and Privacy Working Group",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "密钥管理协议",
+   "en": "privacy key management (PKM) protocol",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《隐私法扩展令》（加拿大）",
+   "en": "Privacy Act Extension Order (Canada)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "保护公民数据隐私",
+   "en": "protection of citizens’ data privacy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "隐私权",
+   "en": "privacy",
+   "source": "社会学名词",
+   "wordNumber": "1.2.2.4",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_伦理准则",
+   "subjectName": "伦理准则",
+   "publishYear": "2025",
+   "definition": "自然人享有的私人生活安宁与私人信息秘密依法受到保护，不被他人非法侵扰、知悉、收集、利用和公开的一种人格权。涉及的内容包括当事人不愿他人知道或他人不便知道的个人信息，当事人不愿他人干涉或他人不便干涉的个"
+  },
+  {
+   "cn": "隐私",
+   "en": "privacy",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.008",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "个人与社会公共生活无关的而不愿为他人知悉或者受他人干扰的私人事项。"
+  },
+  {
+   "cn": "隐私保护原则",
+   "en": "privacy protection principle",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.042",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "在传染病防控中，只有在不公布个体隐私会对公众健康产生更大侵害的情况下，才可将个体隐私信息向公众适当披露或公布，以最大限度保护个体不愿被他人知晓的个体敏感信息的行为准则。"
+  },
+  {
+   "cn": "隐私保护权",
+   "en": "right of privacy protection",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.031000000000001",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "患者依法享有的不公开与其私人生活有关的事实和秘密的权利。"
+  },
+  {
+   "cn": "一级防护",
+   "en": "primary protection",
+   "source": "消毒学",
+   "wordNumber": "1.7.1.1",
+   "subjectFullName": "消毒学_消毒学_防护",
+   "subjectName": "防护",
+   "publishYear": "2025",
+   "definition": "在医疗卫生活动中，为避免相关人员感染而采取的一般等级的防护措施，包括穿戴工作服、工作帽、手套、口罩等。"
+  },
+  {
+   "cn": "基准物质",
+   "en": "primary standard",
+   "source": "消毒学",
+   "wordNumber": "6.1.5",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "具有确定的化学组成和足够的纯度，性质稳定，可用于直接配制标准溶液或标定滴定分析中操作溶液的物质。"
+  },
+  {
+   "cn": "初级限值",
+   "en": "primary limit",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.3.1",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_辐射危险控制",
+   "subjectName": "辐射危险控制",
+   "publishYear": "2025",
+   "definition": "《电离辐射防护与辐射源安全基本标准》中规定的个人受到辐射剂量或辐射危险不得超过的值。"
+  },
+  {
+   "cn": "主屏蔽",
+   "en": "primary shielding",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.2.36",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_外照射屏蔽防护设计",
+   "subjectName": "外照射屏蔽防护设计",
+   "publishYear": "2025",
+   "definition": "用于屏蔽主射束的屏蔽体。"
+  },
+  {
+   "cn": "初级辐射",
+   "en": "primary radiation",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.1.9",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_医用电离辐射",
+   "subjectName": "医用电离辐射",
+   "publishYear": "2025",
+   "definition": "直接由靶或辐射源发出的电离辐射。"
+  },
+  {
+   "cn": "初级准直器",
+   "en": "primary collimator",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.19.2",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "对从源射出的辐射束进行第一次准直的装置。"
+  },
+  {
+   "cn": "首属群体",
+   "en": "primary group",
+   "source": "社会学名词",
+   "wordNumber": "2.5.1.7",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_群体",
+   "subjectName": "群体",
+   "publishYear": "2025",
+   "definition": "个人最初加入的首先接受社会化的群体，其成员间相互熟悉、了解，因而以感情为基础结成具有亲密的、面对面交往与合作特征的社会群体。最早由美国社会学家库利(Charles Horton Cooley）在《社会"
+  },
+  {
+   "cn": "私营企业主",
+   "en": "private entrepreneur",
+   "source": "社会学名词",
+   "wordNumber": "2.6.7.3",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_当代中国社会分层",
+   "subjectName": "当代中国社会分层",
+   "publishYear": "2025",
+   "definition": "20世纪70年代末（经济改革）以来在中国社会出现的私营企业的经营者。在当时中国是一个新的社会阶层，对社会阶层结构的演变具有重要意义。"
+  },
+  {
+   "cn": "个人开业",
+   "en": "private practice",
+   "source": "社会学名词",
+   "wordNumber": "4.4.3.9",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的运作与实施",
+   "subjectName": "社会工作的运作与实施",
+   "publishYear": "2025",
+   "definition": "专业人员个体通过收费来提供服务的方式。服务由私人执业的社会工作者来提供，案主直接与该社会工作者或他所属的私人执业团体订立协议，案主通过保险、医疗保险计划或其他基金等直接为服务支付报酬。近些年在美国较为"
+  },
+  {
+   "cn": "私有制",
+   "en": "private ownership",
+   "source": "马克思主义",
+   "wordNumber": "02.0011",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "全称“生产资料私有制”。在人类社会的一定发展阶段上，由私人占有生产资料和生产成果的经济形式。私有制在历史上有多种存在形式，可分为个体劳动者私有制和剥削阶级占有的私有制，如奴隶制私有制、封建主义私有制和"
+  },
+  {
+   "cn": "第一要务",
+   "en": "primary task",
+   "source": "马克思主义",
+   "wordNumber": "03.0824",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中共二十大报告指出，高质量发展是全面建设社会主义现代化国家的首要任务。发展是党执政兴国的第一要务。"
+  },
+  {
+   "cn": "非公立医院",
+   "en": "private hospital",
+   "source": "卫生经济学名词",
+   "wordNumber": "14.2.1.1.2",
+   "subjectFullName": "卫生经济学名词_医生与医院行为_医院行为",
+   "subjectName": "医院行为",
+   "publishYear": "2025",
+   "definition": "除公立医院医院以外的其它医院，主要包括联营、股份合作、私营、港澳台投资和国外投资等医院。"
+  },
+  {
+   "cn": "一级医院",
+   "en": "primary hospital ",
+   "source": "卫生经济学名词",
+   "wordNumber": "14.2.1.3.3",
+   "subjectFullName": "卫生经济学名词_医生与医院行为_医院行为",
+   "subjectName": "医院行为",
+   "publishYear": "2025",
+   "definition": "向一个社区(人口一般在10万以下）提供基本医疗、预防、保健和康复服务的基层医疗机构。"
+  },
+  {
+   "cn": "初级情绪",
+   "en": "primary emotion",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.8.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "在出生后第1年的早期出现的情绪。如快乐、厌恶、惊奇、悲伤、愤怒、恐惧。"
+  },
+  {
+   "cn": "一级模型",
+   "en": "primary model",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.93",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "预测微生物学经典分类方法中用于描述微生物量与时间之间的函数关系的模型。"
+  },
+  {
+   "cn": "民间借贷",
+   "en": "private lending",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.008",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "在非正式金融体系中，个人或家庭之间基于信任关系和非正式协议进行的资金借贷活动。这种借贷形式通常不通过银行等官方金融机构，而是通过亲朋好友、邻里乡亲等社会网络完成，具有灵活性高、手续简便的特点。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

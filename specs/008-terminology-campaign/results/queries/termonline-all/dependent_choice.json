@@ -1,0 +1,782 @@
+{
+ "key": "dependent choice",
+ "term": "dependent choice",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T01:25:53+00:00",
+ "status": "ok",
+ "note": "variant=dependent choice; 审定公布名词库=785; 海峡两岸名词对照库=337; 其他来源数据库=39; 预公布名词数据库=40; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "理论选择",
+   "en": "theory choice",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.061",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "科学家在相互竞争的理论中选择最可被接受的理论。"
+  },
+  {
+   "cn": "技术选择",
+   "en": "technological choice",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.089",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "决策者为了实现一定的经济、技术和社会目标，考虑系统内外客观因素的制约，对各种技术路线、技术方针、技术措施和技术方案进行分析比较，选取最佳方案的过程。"
+  },
+  {
+   "cn": "配偶选择",
+   "en": "mate choice",
+   "source": "行为医学名词",
+   "wordNumber": "3.229",
+   "subjectFullName": "行为医学_行为的生物学基础_遗传学基础_社会遗传学",
+   "subjectName": "社会遗传学",
+   "publishYear": "2022",
+   "definition": "从众多的求偶者中选择配偶。通常是雌性选择雄性，因为雌性的生殖投资大于雄性，所以一般雄性是求偶者，但有少数例外。"
+  },
+  {
+   "cn": "社会选择",
+   "en": "social choice",
+   "source": "城乡规划学名词",
+   "wordNumber": "01.171",
+   "subjectFullName": "城乡规划学_城乡规划总述_规划价值观和规划教育",
+   "subjectName": "规划价值观和规划教育",
+   "publishYear": "2021",
+   "definition": "将社会成员的偏好集结成为群体偏好的过程，也指个人价值与社会价值之间的协调结果。"
+  },
+  {
+   "cn": "公共选择",
+   "en": "public choice",
+   "source": "城乡规划学名词",
+   "wordNumber": "01.206",
+   "subjectFullName": "城乡规划学_城乡规划总述_相关学科",
+   "subjectName": "相关学科",
+   "publishYear": "2021",
+   "definition": "由社会公众共同决定所属公共物品的分配、使用、转让等处置方式的行为与过程。"
+  },
+  {
+   "cn": "集体选择",
+   "en": "collective choice",
+   "source": "经济学名词",
+   "wordNumber": "05.011",
+   "subjectFullName": "经济学_制度经济学",
+   "subjectName": "制度经济学",
+   "publishYear": "2020",
+   "definition": "各参与者依据某种协商规则，相互协商而确定集体行动方案的过程。它具备集体性、规则性、强制性和政治性的特点。"
+  },
+  {
+   "cn": "个人选择",
+   "en": "personal choice",
+   "source": "经济学名词",
+   "wordNumber": "05.012",
+   "subjectFullName": "经济学_制度经济学",
+   "subjectName": "制度经济学",
+   "publishYear": "2020",
+   "definition": "每个人独立做出自觉自愿的决定。收益和风险均由该个人承担，且其决定不会影响他人，也不会受他人影响。"
+  },
+  {
+   "cn": "公共选择",
+   "en": "public choice",
+   "source": "经济学名词",
+   "wordNumber": "05.063",
+   "subjectFullName": "经济学_制度经济学",
+   "subjectName": "制度经济学",
+   "publishYear": "2020",
+   "definition": "现代微观经济学的一个重要分支。其核心内容是，公共选择者(官员、政党、政府、选民等)的行为特征；不同规则下政治决策可能产生的结果；民主政治活动在现实生活中的运行方式以及如何来设计和选择一个能改善公共决策"
+  },
+  {
+   "cn": "社会选择",
+   "en": "social choice",
+   "source": "经济学名词",
+   "wordNumber": "05.070",
+   "subjectFullName": "经济学_制度经济学",
+   "subjectName": "制度经济学",
+   "publishYear": "2020",
+   "definition": "研究个人与社会之间关系的理论。社会选择的基本问题：给定若干个备选方案作为决策范围，再给定有关的准则，要找出一种选择方法，该方法在某些方面应体现出上述准则。例如，我们要求它满足帕累托一致性条件。"
+  },
+  {
+   "cn": "知情选择",
+   "en": "informed choice",
+   "source": "计划生育名词",
+   "wordNumber": "01.030",
+   "subjectFullName": "计划生育_计划生育国策、生殖健康及人口学_计划生育国策",
+   "subjectName": "计划生育国策",
+   "publishYear": "2019",
+   "definition": "广义是指了解事情的内情后再做出选择。避孕方法知情选择是指公民在计划生育专业人员指导下，充分了解现行的各种避孕方法，结合自身情况，自主、自愿且负责任地选择适宜、安全、有效的避孕节育方法。"
+  },
+  {
+   "cn": "延迟选择",
+   "en": "delayed choice",
+   "source": "物理学名词",
+   "wordNumber": "06.0789",
+   "subjectFullName": "物理学_相对论、量子理论_量子信息",
+   "subjectName": "量子信息",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "技术选择",
+   "en": "technology choice",
+   "source": "管理科学技术名词",
+   "wordNumber": "10.0217",
+   "subjectFullName": "管理科学技术_科技管理与技术创新_技术管理",
+   "subjectName": "技术管理",
+   "publishYear": "2016",
+   "definition": "决策者为了实现既定的经济技术和社会目标，对多种技术路线、技术方针、技术措施和技术方案进行比较选优的过程。"
+  },
+  {
+   "cn": "职业生涯选择",
+   "en": "career choice",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0619",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_培训与开发",
+   "subjectName": "培训与开发",
+   "publishYear": "2016",
+   "definition": "从自己的职业期望、职业理想出发，依据自己的兴趣、能力、特点等自身素质，从社会现有的职业中选择一种适合自己的职业。"
+  },
+  {
+   "cn": "职业选择",
+   "en": "occupational choice",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0591",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_培训与开发",
+   "subjectName": "培训与开发",
+   "publishYear": "2016",
+   "definition": "个人对于就业的种类、方向的挑选和确定。"
+  },
+  {
+   "cn": "职业选择",
+   "en": "occupational choice",
+   "source": "心理学名词",
+   "wordNumber": "12.082",
+   "subjectFullName": "心理学_管理心理学",
+   "subjectName": "管理心理学",
+   "publishYear": "2014",
+   "definition": "个体从自身职业期望、职业理想出发，依据自己的兴趣、能力、特征等素质条件，选择一种适合自己职业的过程。"
+  },
+  {
+   "cn": "道德选择",
+   "en": "moral choice",
+   "source": "教育学名词",
+   "wordNumber": "01.191",
+   "subjectFullName": "教育学_教育基本理论",
+   "subjectName": "教育基本理论",
+   "publishYear": "2013",
+   "definition": "人们为达到某一道德目标而在多种道德可能性中作出自主取舍的行为取向和行为方式。"
+  },
+  {
+   "cn": "语言选择",
+   "en": "language choice",
+   "source": "语言学名词",
+   "wordNumber": "12.203",
+   "subjectFullName": "语言学_社会语言学_语言规划与语言教育",
+   "subjectName": "语言规划与语言教育",
+   "publishYear": "2011",
+   "definition": "选择通用语、官方语言或标准语的过程。"
+  },
+  {
+   "cn": "配偶选择",
+   "en": "mate choice",
+   "source": "生态学名词",
+   "wordNumber": "03.073",
+   "subjectFullName": "生态学_行为生态学",
+   "subjectName": "行为生态学",
+   "publishYear": "2006",
+   "definition": "从众多的求偶者中选择配偶，通常是雌性选择雄性，因为雌性的生殖投资大于雄性，所以通常雄性是求偶者，但有极少数例外。"
+  },
+  {
+   "cn": "目的地选择",
+   "en": "destination choice",
+   "source": "地理学名词",
+   "wordNumber": "21.031",
+   "subjectFullName": "地理学_旅游地理学",
+   "subjectName": "旅游地理学",
+   "publishYear": "2006",
+   "definition": "是消费决策研究的主要内容，研究游客如何从众多备选项中选择目的地的行为机制。"
+  },
+  {
+   "cn": "选择行为",
+   "en": "choice behavior",
+   "source": "昆虫学名词",
+   "wordNumber": "07.132",
+   "subjectFullName": "昆虫学_昆虫行为与信息化学",
+   "subjectName": "昆虫行为与信息化学",
+   "publishYear": "2000",
+   "definition": "选择适宜食物、产卵或栖息场所等行为活动。"
+  },
+  {
+   "cn": "迫选,强迫选择",
+   "en": "forced choice",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "选择标准",
+   "en": "choice criteria",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "配偶选择",
+   "en": "mate choice",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "目的地选择",
+   "en": "destination choice",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "模板选择",
+   "en": "copy choice",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "雌性选择",
+   "en": "female choice",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "选择行为",
+   "en": "choice behavior",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "依赖性",
+   "en": "dependence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "依赖",
+   "en": "dependency",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "依存[关系]",
+   "en": "dependency",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "可信性",
+   "en": "dependability",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "依存关系树",
+   "en": "dependency tree\",\"dependent tree",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "选择反应时，B反应时",
+   "en": "choice reaction time",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "迫选测验",
+   "en": "forced choice test",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "迫选项目",
+   "en": "forced choice item",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "迫选形式",
+   "en": "forced choice format",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "迫选法",
+   "en": "forced choice method",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "多项选择题",
+   "en": "multiple choice item",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "公共选择理论",
+   "en": "public choice theory",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "复选择交配",
+   "en": "multiple choice mating",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "选择原则",
+   "en": "choice principle",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "选择场区",
+   "en": "choice of ends\",\"choice of sides",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "守场员选杀",
+   "en": "fielder’s choice",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "选择发球权",
+   "en": "choice of service",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "选择场区",
+   "en": "choice of ends",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "选择球篮",
+   "en": "choice of basket",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "缘起",
+   "en": "Dependent Origination",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无待",
+   "en": "Depend on Nothing",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "选择场区",
+   "en": "choice of sides\",\"option of sides",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "修辞立诚",
+   "en": "Establish Credibility Through Careful Choice of Words",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "有待",
+   "en": "Having Something to Depend on",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "选择发球权",
+   "en": "choice of throw-on\",\"option of throw-on",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "欲强兵者，务富其民",
+   "en": "A Strong Army Depends on a Prosperous Populace.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "吉凶由人",
+   "en": "The Outcome of Auspiciousness or Inauspiciousness Depends on Human Behavior.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "运用之妙，存乎一心",
+   "en": "The Skillful Use of Tactics Depends on the Thinking and Judgment of the Commander.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "机会",
+   "en": "chance",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "收束器",
+   "en": "choke",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "社会选择",
+   "en": "social choice",
+   "source": "社会学名词",
+   "wordNumber": "2.1.5.12",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会生活",
+   "subjectName": "社会生活",
+   "publishYear": "2025",
+   "definition": "按一定的方式和规则将社会成员个人的偏好、意愿恰切地集结（或聚合）成社会性的偏好、意愿的过程。反映个人偏好与集体选择之间的关系。通常受文化传统、价值观念、模仿和从众心理等社会因素影响。典型的事例是投票选"
+  },
+  {
+   "cn": "择偶",
+   "en": "mate choice",
+   "source": "社会学名词",
+   "wordNumber": "3.1.3.2",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_婚姻制度",
+   "subjectName": "婚姻制度",
+   "publishYear": "2025",
+   "definition": "以缔结婚姻、组织家庭为目的的男女两性相互选择的行为。是双方的互动，而且其标准会随一定社会政治、经济状况及主导价值观念的变化而变化。"
+  },
+  {
+   "cn": "理性选择",
+   "en": "rational choice",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.1.2.2",
+   "subjectFullName": "卫生经济学名词_卫生经济学_卫生经济学",
+   "subjectName": "卫生经济学",
+   "publishYear": "2025",
+   "definition": "理性人目标最优化或效用最大化，即理性人趋向于采取最优策略，以最小成本获得最大收益。"
+  },
+  {
+   "cn": "语言选择",
+   "en": "language choice",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0179",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "选用通用语、官方语言或标准语的过程。"
+  },
+  {
+   "cn": "道德选择",
+   "en": "moral choice",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.03",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "行为主体在一定目的和道德意识支配下，对某种道德行为所作出的自觉判断和取舍。"
+  },
+  {
+   "cn": "依赖",
+   "en": "dependence",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.3.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "经常使用非法药物或某些处方药时可能出现的一种强烈、迫切地要求服用某种物质以获得支持或行使功能或生存的一种状态。"
+  },
+  {
+   "cn": "多选问题",
+   "en": "multiple choice question",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.60",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "含有多项备择答案的封闭式问题。"
+  },
+  {
+   "cn": "社会选择理论",
+   "en": "social choice theory",
+   "source": "社会学名词",
+   "wordNumber": "3.5.2.23",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_古典经济社会学",
+   "subjectName": "古典经济社会学",
+   "publishYear": "2025",
+   "definition": "研究社会成员的选择如何集合成集体的选择的理论。探讨个人价值与社会选择之间的冲突与一致的条件。经济学家阿罗(Kenneth J． Arrow)和森(Amartya K.Sen)是该领域的代表人物。"
+  },
+  {
+   "cn": "理性选择理论",
+   "en": "rational choice theory",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.10",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "以宏观的社会系统行为作为研究目标，以微观的个人行动作为研究的起点，以合理性说明有目的的行动的理论。其中，合理性是行动的基础，最大限度地获取收益是行动的原则，通过研究个人行动的结合如何产生制度结构，以及"
+  },
+  {
+   "cn": "公共选择理论",
+   "en": "public choice theory",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.12",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "以经济人本性作为政治行为和过程分析的基础的理论。以布坎南(James McGill Buchanan)为首的公共选择学派把经济人引入政治市场的分析所提出的理论观点。"
+  },
+  {
+   "cn": "因变量",
+   "en": "dependent variable",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.26",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "任意一个被认为受到其他变量（自变量）的因果影响的变量。"
+  },
+  {
+   "cn": "依附理论",
+   "en": "dependency theory",
+   "source": "社会学名词",
+   "wordNumber": "2.9.2.1",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_依附理论",
+   "subjectName": "依附理论",
+   "publishYear": "2025",
+   "definition": "产生于20世纪60年代后期的一种发展理论，以弗兰克（Andre Frank）、多斯桑托斯（Theotonio Dos Santos）、阿明（Samir Amin）等人为代表，认为发达国家和发展中国家之"
+  },
+  {
+   "cn": "依附性发展",
+   "en": "dependence development",
+   "source": "社会学名词",
+   "wordNumber": "2.9.2.7",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_依附理论",
+   "subjectName": "依附理论",
+   "publishYear": "2025",
+   "definition": "新依附理论提出的发展中国家发展的方案。认为依附与发展并不是一个相互矛盾的现象，依附性的发展是可能的，发展中国家可以通过与中心经济的新型联系而受益。"
+  },
+  {
+   "cn": "路径依赖",
+   "en": "path-dependence",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.35",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "诺斯(Douglas North）用于解释人类经济制度的变迁的概念，意指社会一旦选择了某种制度或某个制度系统，由于制度设置的初始成本固定、社会的学习效应、社会的协调效应、适应性效应以及随之产生的收益递"
+  },
+  {
+   "cn": "依附理论",
+   "en": "dependency theory",
+   "source": "马克思主义",
+   "wordNumber": "05.0094",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "20世纪60年代中期以后出现于拉丁美洲的一种社会理论，运用马克思主义观点寻找发展中国家经济落后的根源，其心观点是外围国家（即发展中国家）的资源和财富经过不平等交换等机制流向中心国家（发达国家），并导致"
+  },
+  {
+   "cn": "酒精依赖",
+   "en": "alcohol dependence",
+   "source": "社会医学名词",
+   "wordNumber": "13.5.2.4",
+   "subjectFullName": "社会病",
+   "subjectName": "成瘾性社会病",
+   "publishYear": "2025",
+   "definition": "对酒精产生生理和心理上的依赖，无法停止饮酒或控制饮酒量的现象。"
+  },
+  {
+   "cn": "尼古丁依赖",
+   "en": "nicotine dependence",
+   "source": "社会医学名词",
+   "wordNumber": "13.5.2.3",
+   "subjectFullName": "社会病",
+   "subjectName": "成瘾性社会病",
+   "publishYear": "2025",
+   "definition": "无法克制的烟碱（尼古丁）觅求冲动，强迫地、连续地使用烟碱，以体验其带来的欣快感和愉悦感，并避免可能产生戒断症状的行为。"
+  },
+  {
+   "cn": "依附理论",
+   "en": "dependency theory",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0125",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "20 世纪60 年代晚期提出的一套国际关系与发展经济学理论，它将世界划分为先进的中心国家与较落后的边陲国家，后者在世界体系中的地位使之受到中心国的盘剥，故得不到发展，或产生腐败等弊病。"
+  },
+  {
+   "cn": "离散选择实验",
+   "en": "discrete choice experiment,DCE",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.6.1.5",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "通过对受访者提供一系列不同属性水平的健康产品或服务的假设方案组合，询问受访者对方案的选择，测量其对方案的偏好的方法。"
+  },
+  {
+   "cn": "伦理两难情境下抉择的次序",
+   "en": "scenario of making choice",
+   "source": "社会学名词",
+   "wordNumber": "4.4.6.14",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作伦理",
+   "subjectName": "社会工作伦理",
+   "publishYear": "2025",
+   "definition": "社会工作者在面对伦理两难困境时做出伦理抉择所遵循的主要步骤。一般是：1.澄清价值观和伦理原则；2.排列所涉及的人员和利益；3.评估各种可能的计划和可替代方案；4.做出抉择并在实施中及时修正；5.记录并"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

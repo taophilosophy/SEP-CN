@@ -1,0 +1,652 @@
+{
+ "key": "memory argument",
+ "term": "memory argument",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T01:30:28+00:00",
+ "status": "ok",
+ "note": "variant=memory argument; 审定公布名词库=468; 海峡两岸名词对照库=259; 其他来源数据库=37; 预公布名词数据库=15; jwt-direct（JWT 直连，raw 略；已滤维基 11 条）",
+ "hits": [
+  {
+   "cn": "记忆",
+   "en": "memory",
+   "source": "神经外科学名词",
+   "wordNumber": "3.029",
+   "subjectFullName": "医学_神经外科学_神经外科病理生理_脑静脉系统",
+   "subjectName": "脑静脉系统",
+   "publishYear": "2026",
+   "definition": "大脑对经历过的事物的识记、保持、再现或再认，涉及对经验信息的编码、存储和提取的认知过程。是进行思维、想象等高级心理活动的基础。"
+  },
+  {
+   "cn": "记忆",
+   "en": "memory",
+   "source": "行为医学名词",
+   "wordNumber": "4.028",
+   "subjectFullName": "行为医学_行为的心理学基础_认知与行为",
+   "subjectName": "认知与行为",
+   "publishYear": "2022",
+   "definition": "（1）大脑对客观事物的信息进行编码、存储和提取的认知过程。（2）存储信息的结构及其内容。"
+  },
+  {
+   "cn": "记忆",
+   "en": "memory",
+   "source": "生理学名词",
+   "wordNumber": "03.700",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "记忆",
+   "en": "memory",
+   "source": "精神医学名词",
+   "wordNumber": "02.165",
+   "subjectFullName": "精神医学_症状与体征_记忆障碍症状",
+   "subjectName": "记忆障碍症状",
+   "publishYear": "2019",
+   "definition": "大脑对客观事物的信息进行编码、储存和提取的认知过程。也指存储信息的结构及其内容。包括识记、保持、回忆和再认。"
+  },
+  {
+   "cn": "记忆",
+   "en": "memory",
+   "source": "计划生育名词",
+   "wordNumber": "04.020",
+   "subjectFullName": "计划生育_生殖健康心理卫生",
+   "subjectName": "生殖健康心理卫生",
+   "publishYear": "2019",
+   "definition": "大脑对过去经历的事物的反映。包括过去感知过的形象、思考过的问题、体验过的情绪和练习过的动作等。记忆过程包括识记、保持、回忆和再认等。"
+  },
+  {
+   "cn": "记忆",
+   "en": "memory",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "04.060",
+   "subjectFullName": "阿尔茨海默病_精神与心理认知学",
+   "subjectName": "精神与心理认知学",
+   "publishYear": "2019",
+   "definition": "大脑对客观事物的信息进行编码、储存和提取的认知过程。"
+  },
+  {
+   "cn": "记忆",
+   "en": "memory",
+   "source": "生物物理学名词",
+   "wordNumber": "04.247",
+   "subjectFullName": "生物物理学_神经生物物理学_学习与记忆",
+   "subjectName": "学习与记忆",
+   "publishYear": "2018",
+   "definition": "大脑对客观事物的信息进行编码、存储和提取的过程。当外界刺激停止作用后，大脑中由生物、物理或化学变化产生的残留在脑中有关记忆的痕迹(某些特殊的蛋白质或是神经元)称“记忆痕迹(engram)”。"
+  },
+  {
+   "cn": "记忆",
+   "en": "memory",
+   "source": "核医学名词",
+   "wordNumber": "04.0770",
+   "subjectFullName": "核医学_临床核医学_神经系统核医学_神经系统解剖生理基础",
+   "subjectName": "神经系统解剖生理基础",
+   "publishYear": "2018",
+   "definition": "个体形成、保存和重现经验的心理过程。包括识记、保持、再认(回忆)三个环节。"
+  },
+  {
+   "cn": "记忆",
+   "en": "memory",
+   "source": "老年医学名词",
+   "wordNumber": "10.005",
+   "subjectFullName": "老年医学_老年心理学",
+   "subjectName": "老年心理学",
+   "publishYear": "2017",
+   "definition": "人脑中积累和保存个体经验的心理过程。包括识记、保持、回忆(再认和再现)三个部分。"
+  },
+  {
+   "cn": "记忆",
+   "en": "memory",
+   "source": "心理学名词",
+   "wordNumber": "02.506",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "大脑对客观事物的信息进行编码、储存和提取的认知过程。也指存储信息的结构及其内容。"
+  },
+  {
+   "cn": "记忆",
+   "en": "memory",
+   "source": "物理医学与康复名词",
+   "wordNumber": "02.188",
+   "subjectFullName": "物理医学与康复_康复功能评定_认知与精神心理功能障碍评定",
+   "subjectName": "认知与精神心理功能障碍评定",
+   "publishYear": "2014",
+   "definition": "一般是指既往经历信息的获得、保留与提取。是一种动态过程，涉及编码、储存和提取三个过程。"
+  },
+  {
+   "cn": "记忆",
+   "en": "memory",
+   "source": "昆虫学名词",
+   "wordNumber": "07.076",
+   "subjectFullName": "昆虫学_昆虫行为与信息化学",
+   "subjectName": "昆虫行为与信息化学",
+   "publishYear": "2000",
+   "definition": "贮存信息的能力。"
+  },
+  {
+   "cn": "论证",
+   "en": "argument",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.155",
+   "subjectFullName": "自然辩证法_科学技术方法论_分析与推理",
+   "subjectName": "分析与推理",
+   "publishYear": "2024",
+   "definition": "逻辑推理一个序列的语句或命题。旨在支持进一步的陈述、命题或结论。"
+  },
+  {
+   "cn": "论据",
+   "en": "argument",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.277",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻评论",
+   "subjectName": "新闻评论",
+   "publishYear": "2022",
+   "definition": "评论中用来证明观点的事实性或意见性材料。"
+  },
+  {
+   "cn": "辐角",
+   "en": "argument",
+   "source": "数学名词",
+   "wordNumber": "05.0340",
+   "subjectFullName": "数学_分析学_复分析",
+   "subjectName": "复分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "论证",
+   "en": "argumentation",
+   "source": "物理学名词",
+   "wordNumber": "01.0133",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "记忆障碍",
+   "en": "memory disturbance,memory deficit",
+   "source": "精神医学名词",
+   "wordNumber": "02.166",
+   "subjectFullName": "精神医学_症状与体征_记忆障碍症状",
+   "subjectName": "记忆障碍症状",
+   "publishYear": "2019",
+   "definition": "记忆过程中出现的任何缺损现象。如遗忘、记忆错构、记忆增强、虚构等。"
+  },
+  {
+   "cn": "瞬时记忆",
+   "en": "immediate memory,fleeting memory",
+   "source": "生物物理学名词",
+   "wordNumber": "04.248",
+   "subjectFullName": "生物物理学_神经生物物理学_学习与记忆",
+   "subjectName": "学习与记忆",
+   "publishYear": "2018",
+   "definition": "刺激作用于感觉器官形成的瞬间（1s左右）信息存储。信息容量大，若不被注意会很快消失。视觉的瞬时记忆称“图像记忆（iconic memory）”；听觉的瞬时记忆称“声像记忆（echoic memory）"
+  },
+  {
+   "cn": "植物记忆",
+   "en": "plant memory",
+   "source": "农学名词",
+   "wordNumber": "06.462",
+   "subjectFullName": "作物基因组学与遗传育种_组学育种",
+   "subjectName": "组学育种",
+   "publishYear": "2025",
+   "definition": "植物储存以前经历过的刺激信息的能力。"
+  },
+  {
+   "cn": "内隐记忆",
+   "en": "implicit memory",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.526",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "对先前经验的无意识记忆。"
+  },
+  {
+   "cn": "记忆",
+   "en": "memory",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "记忆",
+   "en": "memory",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "论证",
+   "en": "argument",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自变量，变元",
+   "en": "argument",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "存储器",
+   "en": "memory\",\"storage",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "记忆细胞",
+   "en": "memory cell",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "存储单元",
+   "en": "memory cell",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "记忆流体",
+   "en": "memory fluid",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "记忆函数",
+   "en": "memory function",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "记忆细胞",
+   "en": "memory cell",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "非言语记忆",
+   "en": "nonverbal memory",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "回溯性记忆",
+   "en": "retrospective memory",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "记忆组织",
+   "en": "memory organization",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "记忆表象",
+   "en": "memory image",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "程序性记忆",
+   "en": "procedural memory",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "记忆丧失",
+   "en": "memory loss",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "感觉记忆",
+   "en": "sensory memory",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "假记忆,伪记忆",
+   "en": "false memory",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "运动记忆",
+   "en": "motor memory",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "图像记忆",
+   "en": "iconic memory",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "联想记忆",
+   "en": "associative memory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "闪存",
+   "en": "flash memory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "随机存取存储器",
+   "en": "Random Access Memory",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "半导体存储器芯片",
+   "en": "semiconductor memory chip",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "内存计算",
+   "en": "in-memory computing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "存算一体化",
+   "en": "processing-in-memory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量子记忆网络",
+   "en": "quantum memory network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非易失性内存",
+   "en": "non-volatile memory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "内存擦除技术",
+   "en": "memory scrubbing technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "记忆",
+   "en": "memory",
+   "source": "社会学名词",
+   "wordNumber": "4.2.9.38",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化现象",
+   "subjectName": "文化现象",
+   "publishYear": "2025",
+   "definition": "群体建构、共享并传递的有关过去的经验。身体、地点、建筑、物品、节庆、集会、书写等都可以成为生产和再生产场所。"
+  },
+  {
+   "cn": "记忆",
+   "en": "memory",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.2.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习",
+   "subjectName": "学习",
+   "publishYear": "2025",
+   "definition": "将获得新的知识、行为习惯或经验贮存（保持和再现）一定时期的心理过程。"
+  },
+  {
+   "cn": "记忆",
+   "en": "memory",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.13",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "大脑对客观事物的信息进行编码、储存和提取的认知过程。也指存储信息的结构及其内容。包括识记、保持、回忆和再认。"
+  },
+  {
+   "cn": "集体记忆",
+   "en": "collective memory",
+   "source": "社会学名词",
+   "wordNumber": "3.13.3.13",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的主要研究领域",
+   "subjectName": "历史社会学的主要研究领域",
+   "publishYear": "2025",
+   "definition": "为群体所共同享有、传承和建构的，具有特定文化认同性和凝聚力的，关于群体过往事件或先人事迹的回忆或追溯。凡是能保留或衍生这一记忆的场所或地方，无论是物质的或非物质的，如纪念馆、文物、图片、甚至身体或口头"
+  },
+  {
+   "cn": "免疫记忆",
+   "en": "immunological memory",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.7.4",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫调节",
+   "subjectName": "免疫调节",
+   "publishYear": "2025",
+   "definition": "免疫细胞在初次接触特异性抗原后,被激活的T细胞、B细胞除可分化为效应细胞外,其中少数还可分化为记忆细胞,并长期在体内存在,从而保存免疫信息，当同一种抗原再次进入体内时,记忆细胞将迅速活化、分化为新的效"
+  },
+  {
+   "cn": "记忆力发展",
+   "en": "memory development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.4",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "大脑获得、保存和提取知觉经验的能力随年龄增长的发展变化过程。包括识记的敏捷性、保持的持久性、回忆的准确性和及时性。"
+  },
+  {
+   "cn": "感觉记忆",
+   "en": "sensory memory",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.4.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "视觉、听觉、触觉信息的输入，以未加工处理的形式在脑中短暂的保留过程。"
+  },
+  {
+   "cn": "闯入性再体验",
+   "en": "intrusive memory",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.3.3.4.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_儿童少年行为问题",
+   "subjectName": "儿童少年行为问题",
+   "publishYear": "2025",
+   "definition": "儿童少年遭受严重创伤或经历严重的创伤性体验后反复、不可控制地回忆创伤经历、反复做与创伤性事件相关的梦，反复发生与此相关的错觉或幻觉重现，表现出严重的“触景生情”式精神痛苦的现象。"
+  },
+  {
+   "cn": "历史记忆",
+   "en": "historical memory",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0207",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "法国社会学家莫里斯·阿布瓦赫（Maurice Halbwachs）在《集体记忆》中提到的概念，意在强调历史带有记忆的性质，后含义被拓宽为“人们对过去的记忆与表述”。"
+  },
+  {
+   "cn": "短时记忆",
+   "en": "short-term memory",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.4.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "大脑对外界信息进行加工、编码、短暂保持（1分钟以内）的记忆过程。"
+  },
+  {
+   "cn": "长时记忆",
+   "en": "long-term memory",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.4.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "大脑对信息长时间、持久的记忆过程。"
+  },
+  {
+   "cn": "记忆力",
+   "en": "ability of memory",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.4.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习负荷评价",
+   "subjectName": "学习负荷评价",
+   "publishYear": "2025",
+   "definition": "获得、保存和提取知觉经验的能力。"
+  },
+  {
+   "cn": "伦理论证法",
+   "en": "ethical argumentation method",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.228",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学研究方法",
+   "subjectName": "医学伦理学研究方法",
+   "publishYear": "2025",
+   "definition": "引用特定的伦理学理论、原则或规范等论据来证明某一伦理论题的合理性的研究方法。包括论证与反论证、演绎论证与归纳论证、概念分析、价值权衡等。"
+  },
+  {
+   "cn": "世界记忆遗产",
+   "en": "memory of the world",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0058",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "由世界记忆工程国际咨询委员会（the International Advisory Committee，IAC）推荐、由联合国教科文组织总干事认可的、符合世界重要性和突出普遍价值标准的档案文献遗产。"
+  },
+  {
+   "cn": "备忘录",
+   "en": "memo",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.8",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "研究者在分析过程中对当时的想法或发现的记录。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

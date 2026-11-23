@@ -1,0 +1,772 @@
+{
+ "key": "simple mapping account",
+ "term": "simple mapping account",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T01:29:23+00:00",
+ "status": "ok",
+ "note": "variant=simple mapping account; 审定公布名词库=4581; 海峡两岸名词对照库=1734; 其他来源数据库=157; 预公布名词数据库=145; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "账户",
+   "en": "account",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0032",
+   "subjectFullName": "管理科学技术_会计_财务会计",
+   "subjectName": "财务会计",
+   "publishYear": "2016",
+   "definition": "根据会计科目在账簿中对各项经济业务进行分类、系统、连续记录的记账单元。"
+  },
+  {
+   "cn": "账号",
+   "en": "account",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.761",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "在安全或多用户计算机系统中，为实现用户访问系统和资源时的权限控制而建立的一种方法。"
+  },
+  {
+   "cn": "会计核算",
+   "en": "accounting",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "07.017",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_企业经营管理",
+   "subjectName": "企业经营管理",
+   "publishYear": "2024",
+   "definition": "以货币为主要计量尺度，对会计主体已经发生或已经完成的经济活动进行记账、算账和报账的程序。包括对会计对象（会计要素）进行完整的、连续的、系统的反映和监督。"
+  },
+  {
+   "cn": "问责",
+   "en": "accountability",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "17.125",
+   "subjectFullName": "新闻学与传播学_媒体与传播法_媒体责任与公共服务",
+   "subjectName": "媒体责任与公共服务",
+   "publishYear": "2022",
+   "definition": "发生在社会责任论基础上，传媒为其产品的品质和效果而向社会做出回应的所有自愿和非自愿的过程。"
+  },
+  {
+   "cn": "会计",
+   "en": "accounting",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0001",
+   "subjectFullName": "管理科学技术_会计_财务会计",
+   "subjectName": "财务会计",
+   "publishYear": "2016",
+   "definition": "通过确认、计量和传递经济信息，以帮助信息使用者做出合理判断和决策的程序。"
+  },
+  {
+   "cn": "会计学",
+   "en": "accounting",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0002",
+   "subjectFullName": "管理科学技术_会计_财务会计",
+   "subjectName": "财务会计",
+   "publishYear": "2016",
+   "definition": "研究会计的产生、发展、对象、任务、理论和方法及其运用的一门学科。"
+  },
+  {
+   "cn": "责任性",
+   "en": "accountability",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0023",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_组织与行为管理",
+   "subjectName": "组织与行为管理",
+   "publishYear": "2016",
+   "definition": "对自我职责的期望与感知。"
+  },
+  {
+   "cn": "会计核算",
+   "en": "accounting",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0003",
+   "subjectFullName": "管理科学技术_会计_财务会计",
+   "subjectName": "财务会计",
+   "publishYear": "2016",
+   "definition": "以货币为主要计量尺度，对经济活动进行确认、计量、记录和报告的程序。"
+  },
+  {
+   "cn": "问责",
+   "en": "accountability",
+   "source": "教育学名词",
+   "wordNumber": "14.182",
+   "subjectFullName": "教育学_教育经济",
+   "subjectName": "教育经济",
+   "publishYear": "2013",
+   "definition": "组织或管理者所承担的责任。包括接受外界监督和质询，向公众解释其决策或行为的合理性、有效性等。"
+  },
+  {
+   "cn": "可审核性",
+   "en": "accountability",
+   "source": "通信科学技术名词",
+   "wordNumber": "07.009",
+   "subjectFullName": "通信科学技术_网络安全",
+   "subjectName": "网络安全",
+   "publishYear": "2007",
+   "definition": "在通信系统安全中，当可能发生扰乱或有企图扰乱系统安全的情况时，能够跟踪到某一个可能负有责任的特定人的特性。"
+  },
+  {
+   "cn": "简单序列长度多态图",
+   "en": "simple sequence length polymorphism map,SSLP map",
+   "source": "遗传学名词",
+   "wordNumber": "08.069",
+   "subjectFullName": "遗传学_基因组学",
+   "subjectName": "基因组学",
+   "publishYear": "2007",
+   "definition": "不同基因组内，由2～4个核苷酸为一个单元的串联重复序列中，单元重复拷贝数不同，造成串联重复序列的长度不同，以此为标记绘制出的物理图。"
+  },
+  {
+   "cn": "会计基本假设",
+   "en": "accounting postulate,accounting assumption",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0013",
+   "subjectFullName": "管理科学技术_会计_财务会计",
+   "subjectName": "财务会计",
+   "publishYear": "2016",
+   "definition": "对会计核算所处时间、空间环境、所运用的货币单位等所作的合理设定。会计基本假设包括会计主体假设、持续经营假设、会计期间假设和货币计量假设。"
+  },
+  {
+   "cn": "管理会计",
+   "en": "management accounting,managerial accounting",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0260",
+   "subjectFullName": "管理科学技术_会计_管理会计",
+   "subjectName": "管理会计",
+   "publishYear": "2016",
+   "definition": "为企业内部管理者制定决策以实现企业目标而提供财务和非财务信息的一门学科。"
+  },
+  {
+   "cn": "映射",
+   "en": "mapping,map",
+   "source": "数学名词",
+   "wordNumber": "01.0100",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "决算",
+   "en": "final account",
+   "source": "农学名词",
+   "wordNumber": "19.268",
+   "subjectFullName": "农业经济与管理_农业财政金融与保险",
+   "subjectName": "农业财政金融与保险",
+   "publishYear": "2025",
+   "definition": "根据年度预算执行结果而编制的年度会计报告。是预算执行的总结，也是预算管理的最终环节。"
+  },
+  {
+   "cn": "电子账户",
+   "en": "electronic account",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "07.156",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_企业经营管理",
+   "subjectName": "企业经营管理",
+   "publishYear": "2024",
+   "definition": "保险公司、银行等金融机构提供给用户的网上处理管理账户的服务。客户的信用卡号或银行账号是电子账户的标志。"
+  },
+  {
+   "cn": "小号",
+   "en": "small account",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.102",
+   "subjectFullName": "新闻学与传播学_政治传播_政治传播基础",
+   "subjectName": "政治传播基础",
+   "publishYear": "2022",
+   "definition": "非实名认证的社交媒体账号。包括：(1)较少朋友关注的账号，以保护自己的隐私；(2)执行不同功用的账号，如区分工作与生活；(3)用于隐秘目的账号，如攻击他人、从事营销等；(4)在正式账号被盗或被禁的情况"
+  },
+  {
+   "cn": "呆账",
+   "en": "doubtful account",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.05.055",
+   "subjectFullName": "编辑与出版学_发行与经营_发行信息与管理",
+   "subjectName": "发行信息与管理",
+   "publishYear": "2022",
+   "definition": "企业在规定结算期内未能收回，有可能造成坏账损失的那部分应收账款。"
+  },
+  {
+   "cn": "坏账",
+   "en": "bad account",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.05.056",
+   "subjectFullName": "编辑与出版学_发行与经营_发行信息与管理",
+   "subjectName": "发行信息与管理",
+   "publishYear": "2022",
+   "definition": "企业因某种原因造成的各种无法收回的应收账款。"
+  },
+  {
+   "cn": "客户经理",
+   "en": "account manager",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "21.052",
+   "subjectFullName": "新闻学与传播学_广告_广告行业",
+   "subjectName": "广告行业",
+   "publishYear": "2022",
+   "definition": "广告公司的业务人员职务。作为全程一站式服务岗位，从市场调研分析，客户群锁定，客户开发，下单和需求确认，报价，设计过程的沟通，达成最终方案和交付，以及应收账款回收，售后服务和日常咨询都要进行跟踪。"
+  },
+  {
+   "cn": "账号",
+   "en": "account",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "简单序列长度多态图",
+   "en": "simple sequence length polymorphism map\",\"SSLP map",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "心理账户",
+   "en": "mental account\",\"mental accounting",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "单边账户",
+   "en": "single account",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "保证金账户",
+   "en": "margin account",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "备忘账户，备查账户",
+   "en": "memorandum account",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "出口账户",
+   "en": "export account",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "储蓄账户",
+   "en": "savings account",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "贷款账户",
+   "en": "loan account",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "担保账户",
+   "en": "secured account",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "抵押账户",
+   "en": "hypothecated account",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "第二账户",
+   "en": "second account",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "对外账户",
+   "en": "outward account",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "负债账户",
+   "en": "liability account",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "股金账户",
+   "en": "share account",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国际账户",
+   "en": "international account",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "国民账户",
+   "en": "national account",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "合伙账户",
+   "en": "partnership account",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "黄金账户",
+   "en": "gold account",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "汇总账户",
+   "en": "summary account",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "可追责",
+   "en": "accountability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "账户支付",
+   "en": "account payment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公众号",
+   "en": "official account",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "映射",
+   "en": "mapping",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "简单图",
+   "en": "simple graph",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "简单瑞士式",
+   "en": "simple Swiss",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "简单荷兰式",
+   "en": "simple Hollander",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "简单障碍",
+   "en": "simple obstacle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "简单动作",
+   "en": "simple action",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "简单防守",
+   "en": "simple parry",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "简单进攻",
+   "en": "simple attack",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "简单障碍",
+   "en": "simple obstacle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "远程开户",
+   "en": "remote account opening",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "应收账款融资",
+   "en": "accounts receivable financing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "应收账款质押",
+   "en": "accounts receivable pledging",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "注册会计师",
+   "en": "certified public accountant",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "会计核算",
+   "en": "accounting",
+   "source": "卫生经济学名词",
+   "wordNumber": "16.1.4.5.5",
+   "subjectFullName": "卫生经济学名词_卫生系统改革_中国卫生系统改革",
+   "subjectName": "中国卫生系统改革",
+   "publishYear": "2025",
+   "definition": "依据《会计法》等有关法规，以货币为主要计量尺度，对医疗机构经济活动进行确认、计量、记录和报告的程序。"
+  },
+  {
+   "cn": "基金决算",
+   "en": "final accounts",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.5.3.8",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险筹资与运行",
+   "subjectName": "健康保险筹资与运行",
+   "publishYear": "2025",
+   "definition": "一定时间（通常指一年）后，健康保险经办机构根据财政部门规定的表式、时间和要求，对健康保险基金的收支情况进行清算汇总，并编制年度健康保险基金财务报告的行为"
+  },
+  {
+   "cn": "经济核算",
+   "en": "economic accounting",
+   "source": "马克思主义",
+   "wordNumber": "02.0303",
+   "subjectFullName": "马克思主义_政治经济学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "在对经济项目的估价和保证最佳利用资源的情况下，完成这些项目所需费用的估价。经济核算的目的是节约或最有效的利用资源和产品。"
+  },
+  {
+   "cn": "成本核算",
+   "en": "cost accounting",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.1.1",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "医院将其业务活动中所发生的各种耗费按照核算对象进行归集和分配，计算出总成本和单位成本的过程。"
+  },
+  {
+   "cn": "总会计师",
+   "en": "chief accountant",
+   "source": "卫生经济学名词",
+   "wordNumber": "16.1.4.5.1",
+   "subjectFullName": "卫生经济学名词_卫生系统改革_中国卫生系统改革",
+   "subjectName": "中国卫生系统改革",
+   "publishYear": "2025",
+   "definition": "领导医疗机构经济核算和财务会计工作，参与医疗机构重要经济问题的分析和决策的负责人。"
+  },
+  {
+   "cn": "简单劳动",
+   "en": "simple labor",
+   "source": "马克思主义",
+   "wordNumber": "02.0054",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "没有任何专长的普通人的机体平均具有的简单劳动力的耗费，即在一定的社会条件下一般劳动者都能胜任，无需特别的技术专长、知识和技能训练的劳动。简单劳动在教育和科技不断发展的社会中会有变化，它与复杂劳动相对应"
+  },
+  {
+   "cn": "简单再生产",
+   "en": "simple reproductoin",
+   "source": "马克思主义",
+   "wordNumber": "02.0153",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "生产过程在原有规模上的重复进行。在资本主义生产方式下，如果资本家把榨取的剩余价值完全用于他们的个人消费，没有资本积累，生产规模不扩大，那么，在其他条件不变的情况下，这就是资本主义的简单再生产。"
+  },
+  {
+   "cn": "单纯性近视",
+   "en": "simple myopia",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.2.2.4.1.5",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测",
+   "subjectName": "学生常见疾病监测",
+   "publishYear": "2025",
+   "definition": "眼球在发育期发展形成的近视，发育停止后近视也趋于稳定，屈光度数一般在﹣6.00D之内。其中绝大多数眼底无病理变化，用适当光学镜片即可将视力矫正至正常。"
+  },
+  {
+   "cn": "简单社会",
+   "en": "simple society",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0016",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "一种分工简单，人口规模较小的社会组织形态，与复杂社会相对。简单社会的规模相对较小，其人数由相应狭小地域内的各社会政治单位组合在一起，一般以血缘为基础、以家庭为纽带、以个人为中心。"
+  },
+  {
+   "cn": "社会保险账户",
+   "en": "social insurance account",
+   "source": "社会学名词",
+   "wordNumber": "3.18.2.2",
+   "subjectFullName": "社会学名词_分支社会学_社会保障_社会保险",
+   "subjectName": "社会保险",
+   "publishYear": "2025",
+   "definition": "单位按规定划转的保险费和个人缴纳的全部保险费用，投保人相应拥有社会保险个人账户。目前我国多数险种（养老保险、医疗保险等）实行统帐结合制度。"
+  },
+  {
+   "cn": "计算货币",
+   "en": "money of account",
+   "source": "马克思主义",
+   "wordNumber": "02.0072",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "商品经济条件下计算、统计或考核各种商品经济活动的价值量时所使用的货币单位。计算货币属于观念货币，是货币发挥价值尺度职能的表现。"
+  },
+  {
+   "cn": "医疗储蓄账户",
+   "en": "medical savings accounts",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.2.1.4.1",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险类型",
+   "subjectName": "健康保险类型",
+   "publishYear": "2025",
+   "definition": "医疗保险基金管理机构为被保险人和退休职工设立的基本医疗保险账户或简称个人账户，用于被保险人生病或受伤时支付医疗费用"
+  },
+  {
+   "cn": "记账法",
+   "en": "accounting dietary survey",
+   "source": "军事预防医学名词",
+   "wordNumber": "7.3.1.2",
+   "subjectFullName": "军事预防医学_军队营养与食品卫生_军队营养调查与评价",
+   "subjectName": "军队营养调查与评价",
+   "publishYear": "2025",
+   "definition": "由被调查对象按规定要求记录其在规定时间内的食物摄入量，然后计算能量和各种营养素摄入量的调查方法，调查时间为连续1 个月或每季度1 个月或全年逐月。"
+  },
+  {
+   "cn": "医院成本核算",
+   "en": "hospital cost accounting ",
+   "source": "卫生经济学名词",
+   "wordNumber": "14.3.4",
+   "subjectFullName": "卫生经济学名词_医生与医院行为_医院经济管理",
+   "subjectName": "医院经济管理",
+   "publishYear": "2025",
+   "definition": "对医院运营过程中实际发生的成本进行准确记录、合理的归集和计算，以获得成本对象成本信息的经济核算方法。"
+  },
+  {
+   "cn": "简单随机抽样",
+   "en": "simple random sampling",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.49",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "以研究总体中的每一成员都有一个相等的被选取的概率的方式实施的抽样设计。"
+  },
+  {
+   "cn": "单一型香辛料调味品",
+   "en": "simple spice condiment",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.14.11",
+   "subjectFullName": "食品卫生学_食品_调味品",
+   "subjectName": "调味品",
+   "publishYear": "2025",
+   "definition": "由单一香辛料制成的调味品。"
+  },
+  {
+   "cn": "简易厕坑",
+   "en": "simple pit latrine",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.3.2.5.3",
+   "subjectFullName": "军事预防医学_军事环境卫生_驻扎环境卫生",
+   "subjectName": "驻扎环境卫生",
+   "publishYear": "2025",
+   "definition": "在一般应超过1.5 米的较大深度厕沟基础上，沿沟缘地面修筑一定高度的完全或不完全围护及开孔顶覆结构，形成的坐式或蹲式厕所。可供较长时间连续使用。"
+  },
+  {
+   "cn": "反应时",
+   "en": "simple reaction time",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.1.4.2.1.2",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业生理学",
+   "subjectName": "军事作业生理学",
+   "publishYear": "2025",
+   "definition": "机体从接受刺激到做出反应动作所需的时间，即从刺激到反应的时距。主要反映人体神经于肌肉系统的协调性和快速反应能力。"
+  },
+  {
+   "cn": "简易防护器材",
+   "en": "simple protective equipment",
+   "source": "军事预防医学名词",
+   "wordNumber": "10.6.1.3",
+   "subjectFullName": "军事预防医学_化学武器医学防护学_化学武器损伤防护",
+   "subjectName": "化学武器损伤防护",
+   "publishYear": "2025",
+   "definition": "利用就便材料制作的一类个人防护器材，包括简易呼吸道和皮肤防护器材两类，如泳镜、雨衣和雨靴等。"
+  },
+  {
+   "cn": "认知图",
+   "en": "cognitive map",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.15",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "展示研究对象的认知模式的网络状图形。其中，网络的节点表示特定的概念，节点间的联系表示概念间的关系。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,812 @@
+{
+ "key": "top-down causation",
+ "term": "top-down causation",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T01:26:50+00:00",
+ "status": "ok",
+ "note": "variant=top-down causation; 审定公布名词库=1443; 海峡两岸名词对照库=420; 其他来源数据库=154; 预公布名词数据库=35; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "自顶向下",
+   "en": "top-down",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0157",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "从层次的最高级部件开始，逐步推进到较低级部件的方法。如自顶向下设计、自顶向下编程和自顶向下测试等。"
+  },
+  {
+   "cn": "下行控制",
+   "en": "top down control ",
+   "source": "草学名词",
+   "wordNumber": "2.033",
+   "subjectFullName": "草学_草地生态与草地培育_草地生态",
+   "subjectName": "草地生态",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "下行控制",
+   "en": "top-down control",
+   "source": "动物学名词",
+   "wordNumber": "7.0527",
+   "subjectFullName": "动物学_动物生态学_生态系统生态学",
+   "subjectName": "生态系统生态学",
+   "publishYear": "2021",
+   "definition": "生态系统中较低营养级生物的种群结构（如多度、生物量、物种多样性等）依赖于较高营养级物种（捕食者）的捕食能力大小制约的现象。1968年由美国生态学家海尔斯顿（N. G. Hairston）等提出。"
+  },
+  {
+   "cn": "自上而下规划",
+   "en": "top-down planning",
+   "source": "城乡规划学名词",
+   "wordNumber": "01.100",
+   "subjectFullName": "城乡规划学_城乡规划总述_城乡规划及相关规划",
+   "subjectName": "城乡规划及相关规划",
+   "publishYear": "2021",
+   "definition": "（1）按照规划层级层层传导、分解发展目标、先总体后详细的规划方法。（2）由政府确定规划主要内容，由下级政府、部门及社会群体落实、执行的规划编制和实施组织方式。"
+  },
+  {
+   "cn": "自上而下方法",
+   "en": "top-down approach",
+   "source": "化工名词（六）生物化工",
+   "wordNumber": "02.205",
+   "subjectFullName": "化工（六）_代谢工程与合成生物学_系统生物学_功能基因组学",
+   "subjectName": "功能基因组学",
+   "publishYear": "2021",
+   "definition": "利用解析整个系统所获得的高通量生物信息和知识进行整合和推测，以研究系统中生物分子相互作用的方法。"
+  },
+  {
+   "cn": "自顶向下设计",
+   "en": "top-down design",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0270",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械制图_三维制图",
+   "subjectName": "三维制图",
+   "publishYear": "2021",
+   "definition": "设计时从系统角度入手，针对设计目的，综合考虑形成产品的各种因素(专业技术现状、工艺条件和设计手段等)，确定产品的性能、组成、相互关系和实现方式，形成设计的总体方案；然后在此基础上分解设计目标给分系统具"
+  },
+  {
+   "cn": "下行控制",
+   "en": "top-down control",
+   "source": "植物学名词",
+   "wordNumber": "13.0505",
+   "subjectFullName": "植物学_植物生态学_生态系统与景观生态学",
+   "subjectName": "生态系统与景观生态学",
+   "publishYear": "2019",
+   "definition": "生态系统中较低营养级生物的种群结构(如多度、生物量、物种多样性等)依赖于较高营养级物种(捕食者)的捕食能力大小制约的现象。1968年由美国生态学家海尔斯顿(N. G. Hairston)等提出。"
+  },
+  {
+   "cn": "自顶向下句法分析",
+   "en": "top-down parsing",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0525",
+   "subjectFullName": "计算机科学技术_人工智能_计算语言学",
+   "subjectName": "计算语言学",
+   "publishYear": "2018",
+   "definition": "一种句法分析策略。从文法的开始符号出发，依据句法规则推导，直到推导出待分析的句子并构造出相应的句法树。"
+  },
+  {
+   "cn": "自顶向下语法分析器",
+   "en": "top-down parser",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0128",
+   "subjectFullName": "计算机科学技术_系统软件_语言与编译",
+   "subjectName": "语言与编译",
+   "publishYear": "2018",
+   "definition": "从识别符号开始，根据文法为输入串建立一个推导序列的语法分析程序。"
+  },
+  {
+   "cn": "自上而下原则",
+   "en": "top-down principle",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0267",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_管理信息系统",
+   "subjectName": "管理信息系统",
+   "publishYear": "2016",
+   "definition": "先确定上层模块的功能，再确定下层模块功能的设计原则。"
+  },
+  {
+   "cn": "自上而下加工",
+   "en": "top-down processing",
+   "source": "心理学名词",
+   "wordNumber": "02.486",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "从有关对象一般知识开始加工，形成的期望或对对象的假设将影响加工的所有阶段或水平的加工方式。"
+  },
+  {
+   "cn": "自顶向下句法分析",
+   "en": "top down parsing",
+   "source": "语言学名词",
+   "wordNumber": "11.121",
+   "subjectFullName": "语言学_计算语言学_算法",
+   "subjectName": "算法",
+   "publishYear": "2011",
+   "definition": "根据重写规则，从初始符号开始，自顶向下进行推导，构造句法树，直到推导出待分析的句子或分析失败为止。"
+  },
+  {
+   "cn": "下行控制",
+   "en": "top-down control",
+   "source": "生态学名词",
+   "wordNumber": "07.126",
+   "subjectFullName": "生态学_生态系统生态学",
+   "subjectName": "生态系统生态学",
+   "publishYear": "2006",
+   "definition": "由美国生态学家海尔斯顿(N. G. Hairston)等人1968年提出，指较低营养级的种群结构(多度、生物量、物种多样性等)依赖于较高营养级物种(捕食者)的影响。"
+  },
+  {
+   "cn": "自上而下开发",
+   "en": "top-down development",
+   "source": "自动化名词",
+   "wordNumber": "04.286",
+   "subjectFullName": "自动化科学技术_控制技术_控制技术计算机应用",
+   "subjectName": "控制技术计算机应用",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "自上而下测试",
+   "en": "top-down testing",
+   "source": "自动化名词",
+   "wordNumber": "04.288",
+   "subjectFullName": "自动化科学技术_控制技术_控制技术计算机应用",
+   "subjectName": "控制技术计算机应用",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "自上而下蛋白质组学分析",
+   "en": "top-down proteomics analysis",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "11.0415",
+   "subjectFullName": "生物化学与分子生物学_方法与技术_定性定量分析方法_层析技术",
+   "subjectName": "层析技术",
+   "publishYear": "2024",
+   "definition": "对蛋白质进行无需酶解便直接利用质谱分析的一种分析蛋白质的方法。其主要优势在于能够确认蛋白质翻译后修饰的组合形式，以及鉴定降解产物和序列变异体。"
+  },
+  {
+   "cn": "从顶向下装配法",
+   "en": "top-down assembly method",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0273",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械制图_三维制图",
+   "subjectName": "三维制图",
+   "publishYear": "2021",
+   "definition": "在装配级中创建与其他部件相关的部件模型，在装配部件的顶级向下产生子装配和部件的装配方法。"
+  },
+  {
+   "cn": "自顶向下设计方法",
+   "en": "top-down design method",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0122",
+   "subjectFullName": "计算机科学技术_计算机应用_信息系统与信息化",
+   "subjectName": "信息系统与信息化",
+   "publishYear": "2018",
+   "definition": "一类信息系统设计的方法。从总体到局部，由抽象到具体，体现自上而下、逐步求精的原则。"
+  },
+  {
+   "cn": "逆筑法",
+   "en": "top-down construction method",
+   "source": "土木工程名词",
+   "wordNumber": "09.124",
+   "subjectFullName": "土木工程_隧道与地下工程_隧道施工方法",
+   "subjectName": "隧道施工方法",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "下向因果关系",
+   "en": "downward causation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.710",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_复杂系统科学哲学",
+   "subjectName": "复杂系统科学哲学",
+   "publishYear": "2024",
+   "definition": "描述系统高层级结构对它的次级结构起着原因作用的一种因果关系。最先由心理学家唐纳德·坎贝尔（Donald Campbell）提出。"
+  },
+  {
+   "cn": "由上而下",
+   "en": "top down",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自顶向下",
+   "en": "top-down",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "下行控制",
+   "en": "top-down control",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "下行效应",
+   "en": "top-down effect",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "自上而下加工",
+   "en": "top down processing",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "下行效应",
+   "en": "top-down effect",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "下行控制",
+   "en": "top-down control",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "下行控制",
+   "en": "top-down control",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "下行效应",
+   "en": "top-down effect",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "自顶向下测试",
+   "en": "top-down testing",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自顶向下方法",
+   "en": "top-down method",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自顶向下句法分析",
+   "en": "top-down parsing",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自顶向下设计",
+   "en": "top-down design",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自顶向下推理",
+   "en": "top-down reasoning",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "因果联想",
+   "en": "association by causation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "因果链",
+   "en": "chains of causation",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "拔顶［蒸馏］",
+   "en": "topping",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "远因,终极导因,最终原因",
+   "en": "ultimate cause\",\"ultimate causation",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "近因，引信导因",
+   "en": "proximate cause\",\"proximate causation",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "远因，终极导因",
+   "en": "ultimate cause\",\"ultimate causation",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "拉球",
+   "en": "top",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "放下！",
+   "en": "Down!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "背心",
+   "en": "tank top",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "在上面跪撑摔姿势",
+   "en": "top position",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "上面的摔跤手",
+   "en": "top man",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "优秀运动员",
+   "en": "top athlete",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "礼帽",
+   "en": "top hat",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "上边缘",
+   "en": "top edge",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "上拉索",
+   "en": "topping lift",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "记录",
+   "en": "writing down",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "扑倒",
+   "en": "take down",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "碰倒",
+   "en": "knock down",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "减速",
+   "en": "slow down",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "旋转下降",
+   "en": "spin-down",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "击倒",
+   "en": "knock down fall\",\"knock down",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "顶层设计",
+   "en": "top-level design",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "压倒",
+   "en": "hold-down\",\"immobilization",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "喝倒彩",
+   "en": "boo\",\"shout down",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "降帆",
+   "en": "haul down\",\"lower",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "立扑",
+   "en": "standing take down",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自上而下法",
+   "en": "top-down approach",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.2.5.2",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_疾病负担及疾病经济负担",
+   "subjectName": "疾病负担及疾病经济负担",
+   "publishYear": "2025",
+   "definition": "测量归因于某个疾病或某危险因素暴露的疾病经济负担的方法"
+  },
+  {
+   "cn": "“自上而下”路径",
+   "en": "top-down approach",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.5.20",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "从疾病结局向下推导暴露风险的食源性疾病负担评估的一种路径"
+  },
+  {
+   "cn": "病因概率",
+   "en": "probability of causation，PC",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.3.16",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_效应指标",
+   "subjectName": "效应指标",
+   "publishYear": "2025",
+   "definition": "暴露组某一个体所患的疾病由某危险因素引起的概率或似然性估计值。PC=ERR/(ERR+1)。"
+  },
+  {
+   "cn": "唐氏综合征",
+   "en": "down syndrome",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.3.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "一种由染色体畸变造成的智力落后。"
+  },
+  {
+   "cn": "桌面演练",
+   "en": "table-top exercise",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.19.35",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "参演人员利用地图、沙盘、流程图、计算机模拟、视频会议等辅助手段，针对事先假定的演练情景，讨论和推演应急决策及现场处置的过程。"
+  },
+  {
+   "cn": "赔偿的病因概率限值",
+   "en": "probability of causation limit for compensation",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.3.17",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_效应指标",
+   "subjectName": "效应指标",
+   "publishYear": "2025",
+   "definition": "在职业性放射性肿瘤赔偿中，由管理部门审定的可给予法定赔偿的病因概率的最低限值。"
+  },
+  {
+   "cn": "唐氏综合征",
+   "en": "Down's syndrome",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.2.2.3.6",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "生殖细胞在减数分裂过程中，受精卵在有丝分裂时第21号染色体未分离，致使胚胎体细胞内存在一条额外的21 号染色体，导致先天性智力发育障碍的染色体病。"
+  },
+  {
+   "cn": "下排气压力蒸汽灭菌器",
+   "en": "down-exhaust pressure steam sterilizer",
+   "source": "消毒学",
+   "wordNumber": "3.1.3.10.7",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "利用重力置换的原理，使灭菌器中热蒸汽从上而下，由饱和蒸汽取代冷空气，冷空气由下排气孔排出，通过蒸汽释放的潜热使物品达到灭菌要求的灭菌器。"
+  },
+  {
+   "cn": "《平定回疆剿擒逆裔方略》",
+   "en": "Strategy of putting down Huijiang",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0273",
+   "subjectFullName": "民族学与文化学_民族史_民族文化",
+   "subjectName": "民族文化",
+   "publishYear": "2025",
+   "definition": "官修纪事本末体史书。清曹振镛、赵盛奎等纂，道光十年（1830）成书，凡 80 卷。所记主要为道光七年（1827）平定新疆张格尔叛乱事件始末。因张格尔系大和卓布拉尼敦之孙，故称“逆裔”。"
+  },
+  {
+   "cn": "连续慢化近似距离",
+   "en": "continuous slowing down approximation range，CSDA range",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.3.12",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_辐射与物质相互作用物理量",
+   "subjectName": "辐射与物质相互作用物理量",
+   "publishYear": "2025",
+   "definition": "带电粒子减速到静止所穿行的平均路径长度的近似值。"
+  },
+  {
+   "cn": "跳出历史周期律",
+   "en": "jump out of the cycle of historical ups and downs",
+   "source": "马克思主义",
+   "wordNumber": "03.0461",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "“历史周期率”，是指世界上任何一个国家的政权都会经历兴衰治乱，往复循环呈现出的周期性现象。1945年黄炎培在延安向毛泽东提出中国共产党能否跳出历史周期律的问题。毛泽东回答：“我们已经找到新路,我们能跳"
+  },
+  {
+   "cn": "党执政兴国的第一要务",
+   "en": "It is essential for the Party to give top priority to development in governing and rejuvenating the country",
+   "source": "马克思主义",
+   "wordNumber": "03.0627",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "所谓“第一要务”，是相对于其他各种要务而言的。把发展作为党执政兴国的第一要务，是由我们党的宗旨和根本任务所规定的，说明在党面临的各种繁重任务中，发展始终是第一位的任务、根本的任务、中心的任务。"
+  },
+  {
+   "cn": "隔离衣",
+   "en": "isolation gown",
+   "source": "消毒学",
+   "wordNumber": "3.2.2.20",
+   "subjectFullName": "消毒学_消毒用品_消毒相关用品",
+   "subjectName": "消毒相关用品",
+   "publishYear": "2025",
+   "definition": "用于保护医疗卫生防疫人员避免受到血液、体液和其他感染性物质污染，或用于保护患者避免感染的防护装备。"
+  },
+  {
+   "cn": "流行文化",
+   "en": "pop culture",
+   "source": "社会学名词",
+   "wordNumber": "3.8.3.29",
+   "subjectFullName": "社会学名词_分支社会学_文化社会学_文化的制度结构",
+   "subjectName": "文化的制度结构",
+   "publishYear": "2025",
+   "definition": "一种大众文化或底层的文化，区别于高雅文化。通常以大众传媒为途径，在一定时期和区域内广泛传播，具有普及面广和相对时效短的特征。"
+  },
+  {
+   "cn": "两个凡是",
+   "en": "tow whatevers",
+   "source": "马克思主义",
+   "wordNumber": "04.0385",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1977年2月7日《人民日报》、《红旗》杂志、《解放军报》社论《学好文件抓好纲》社论中提出的“凡是毛主席作出的决策，我们都坚决拥护;凡是毛主席的指示，我们都始终不渝地遵循”，被简称为“两个凡是”。由当"
+  },
+  {
+   "cn": "血小板生成素",
+   "en": "thrombopoietin，TPO",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.5.18",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_炎症介质",
+   "subjectName": "炎症介质",
+   "publishYear": "2025",
+   "definition": "由肝、肾和平滑肌细胞产生的刺激巨核细胞生长及分化的内源性细胞因子。对巨核细胞生成的各阶段均有刺激作用，包括前体细胞的增殖和多倍体巨核细胞的发育及成熟。"
+  },
+  {
+   "cn": "玩具安全",
+   "en": "toy safety",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "8.1.5.1",
+   "subjectFullName": "妇幼卫生学名词_伤害与暴力_儿童安全",
+   "subjectName": "儿童安全",
+   "publishYear": "2025",
+   "definition": "玩具制造方在玩具设计和生产过程中遵循玩具产品的安全条例或指令的措施，提供合格无安全隐患的玩具产品，对儿童无健康危害。"
+  },
+  {
+   "cn": "急停开关",
+   "en": "emergency stop switch",
+   "source": "放射卫生学",
+   "wordNumber": "8.1.9.1",
+   "subjectFullName": "放射卫生学_放射卫生监管_医用辐射监管",
+   "subjectName": "医用辐射监管",
+   "publishYear": "2025",
+   "definition": "安装在放射装置或放射工作场所，在发生紧急事件时可以立即停止设备运行的应急装置。"
+  },
+  {
+   "cn": "流行音乐产业",
+   "en": "pop music industry",
+   "source": "社会学名词",
+   "wordNumber": "3.8.3.11",
+   "subjectFullName": "社会学名词_分支社会学_文化社会学_文化的制度结构",
+   "subjectName": "文化的制度结构",
+   "publishYear": "2025",
+   "definition": "以流行音乐为主要内容的创作、生产、发行、宣传和销售为一体的综合性的行业体系，通常由参与到各环节的部门、企业和单位构成，以商业化和标准化为主要特征。"
+  },
+  {
+   "cn": "同盟歇业",
+   "en": "alliance stop business",
+   "source": "马克思主义",
+   "wordNumber": "04.0048",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "资本主义制度下的企业主联合起来关闭企业和大批解雇工人的行为。是资本家剥削工人和破坏工人为改善自身的生存条件而斗争的一种手段。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

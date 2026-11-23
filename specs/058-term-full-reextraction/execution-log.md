@@ -138,3 +138,11 @@
 * 从重生成的人名队列里别名感知核查后确认真缺项 5 人：Iris Marion Young、Saunders Mac Lane、Frans van Eemeren、Francisco Miró Quesada、Abraham ibn Daud（Albertus Magnus＝已登记 Albert the Great、C. S. Peirce／P. F. Strawson／Anne Conway／Fichte 等均为别名变体）。
 * 取证：Wikidata 逐人查（凭证 `results/people-wikidata-2026-11-23-b5.tsv`）。汉名按通行音译：艾丽斯·马里恩·扬、桑德斯·麦克莱恩、弗兰斯·范·埃默伦、弗朗西斯科·米罗·克萨达、亚伯拉罕·伊本·达乌德；籍属/生卒随行登记（美国 1949–2006／美国 1909–2005／荷兰 1946–／秘鲁 1918–2019／西班牙（安达卢斯）约1110–约1180）。
 * 落册：`term_flow` 干跑 5/0，实写 5；`registry_azsort` 人名表 4597→4602 守恒；`check_terms` 硬错误 0。清单 `tasks/manifests/2026-11-23-058-batch12-people.json`。
+
+## 2026-11-23：术语第六批（42 条）＋人名第六批（3 人）＋差异裁定留证
+
+* 术语第六批自后缀筛第 121–190 位取 42 条（跳过 foundational metaphysics、brute necessity 等义项不清者，以及 repository consciousness——与已登阿赖耶识同概念）。全部查审定库（33 实查、9 已有凭证），仅 2 条对口：信号检测理论、范畴论；其余 A 档直裁（切消定理、苏什科论题、贝里悖论、下行因果、个例-个例还原、移动聚光灯理论等）。
+* 落册：`term_flow` 干跑 42/0，实写 42；`registry_azsort` 术语表 7354→7396 守恒；`check_terms` 硬错误 0。
+* 人名第六批 3 人（逐人 Wikidata 取证，凭证 `results/people-wikidata-2026-11-23-b6.tsv`）：Andrew von Hirsch（安德烈亚斯·冯·赫希，英国（生于瑞士苏黎世），1934–2026，Q4759036）、Evelyn Fox Keller（伊夫林·福克斯·凯勒，美国，1936–2023，Q239131）、Leon van der Torre（无通行汉名保留原文，荷兰，1968–，Q23038082）。冯·赫希汉名经公众号文章核证，两种汉形并记（亦作“安德鲁·冯·赫希”）。
+* 落册：`term_flow` 干跑 3/0，实写 3；`registry_azsort` 人名表 4602→4605 守恒；`check_terms` 硬错误 0。
+* 差异裁定：审定形与登记形不一致的 6 例（substructural logic、conversational implicature、act utilitarianism、Copy Principle、Bohr’s correspondence principle、effective field theory）逐条定性并留证 `results/adjudication-2026-11-23-termonline-divergences.md`——均不构成 D1–D5，属“审定形与学界通行形并存”，主形取语料通行者、另一形以“亦作”入译法列，不另起行。
