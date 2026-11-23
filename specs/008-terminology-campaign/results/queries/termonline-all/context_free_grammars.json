@@ -1,0 +1,792 @@
+{
+ "key": "context-free grammars",
+ "term": "context-free grammars",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T15:42:38+00:00",
+ "status": "ok",
+ "note": "variant=context-free grammars; 审定公布名词库=3152; 海峡两岸名词对照库=941; 其他来源数据库=208; 预公布名词数据库=151; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "上下文无关文法",
+   "en": "context-free grammar",
+   "source": "自动化名词",
+   "wordNumber": "05.006",
+   "subjectFullName": "自动化科学技术_模式识别、智能控制与机器人_模式识别与智能控制",
+   "subjectName": "模式识别与智能控制",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "上下文无关文法",
+   "en": "context free grammar",
+   "source": "电子学名词",
+   "wordNumber": "05.300",
+   "subjectFullName": "电子学_信息论与信号处理技术",
+   "subjectName": "信息论与信号处理技术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "上下文无关文法",
+   "en": "context-free grammar,CFG",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0478",
+   "subjectFullName": "计算机科学技术_理论计算机科学_形式语言与自动机",
+   "subjectName": "形式语言与自动机",
+   "publishYear": "2018",
+   "definition": "乔姆斯基谱系中的2型文法。这种文法对产生式 α→β的要求是，α只能是一个变量，β 可以是由变量和终极符组成的任何串（包括空串）。"
+  },
+  {
+   "cn": "概率上下文无关文法",
+   "en": "probabilistic context free grammar",
+   "source": "语言学名词",
+   "wordNumber": "11.178",
+   "subjectFullName": "语言学_计算语言学_理论和模型",
+   "subjectName": "理论和模型",
+   "publishYear": "2011",
+   "definition": "每一个产生式A→a都被附加了一个概率值的上下文无关文法。对所有的非终结符A，该概率分布必须满足：∑P（A→a）=1。"
+  },
+  {
+   "cn": "概率上下文无关文法",
+   "en": "probabilistic context free grammar,PCFG",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0521",
+   "subjectFullName": "计算机科学技术_人工智能_计算语言学",
+   "subjectName": "计算语言学",
+   "publishYear": "2018",
+   "definition": "上下文无关文法的概率化扩展，其中每条重写规则附有概率值，且概率值按照重写规则的左部分组归一。"
+  },
+  {
+   "cn": "上下文有关文法",
+   "en": "context sensitive grammar",
+   "source": "语言学名词",
+   "wordNumber": "11.172",
+   "subjectFullName": "语言学_计算语言学_理论和模型",
+   "subjectName": "理论和模型",
+   "publishYear": "2011",
+   "definition": "乔姆斯基层级中的一种短语结构语法。其规则左部符号串的长度不大于规则右部符号串的长度。规则表示为：xUy::=xuy，其中U为非终结符号，x、y、u为符号串，且u非空。"
+  },
+  {
+   "cn": "上下文有关文法",
+   "en": "context constraint grammar",
+   "source": "电子学名词",
+   "wordNumber": "05.299",
+   "subjectFullName": "电子学_信息论与信号处理技术",
+   "subjectName": "信息论与信号处理技术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "上下文敏感文法",
+   "en": "context-sensitive grammar",
+   "source": "自动化名词",
+   "wordNumber": "05.007",
+   "subjectFullName": "自动化科学技术_模式识别、智能控制与机器人_模式识别与智能控制",
+   "subjectName": "模式识别与智能控制",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "同步上下文无关文法",
+   "en": "synchronous context free grammars,synchronous CFG",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0571",
+   "subjectFullName": "计算机科学技术_人工智能_计算语言学",
+   "subjectName": "计算语言学",
+   "publishYear": "2018",
+   "definition": "由两部上下文无关文法组成，两部文法的规则及文法符号间建有对应关系，在推导时，两部文法依据他们之间的对应关系同步推导，从而生成两种具有转换关系的语言。"
+  },
+  {
+   "cn": "上下文有关文法",
+   "en": "context-sensitive grammar,CSG",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0480",
+   "subjectFullName": "计算机科学技术_理论计算机科学_形式语言与自动机",
+   "subjectName": "形式语言与自动机",
+   "publishYear": "2018",
+   "definition": "乔姆斯基谱系中的1型文法。这种文法规定：产生式 α→β中，α和β都可以是由变量和终极符组成的串，但α的长度不能大于β的长度（即要求|α|≤|β| ）。"
+  },
+  {
+   "cn": "上下文无关语言",
+   "en": "context-free language",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.047",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "由上下文无关文法生成的短语结构语言。其语义受上下文影响，是可以用上下文无关文法定义的形式语言。"
+  },
+  {
+   "cn": "上下文无关语言",
+   "en": "context free language",
+   "source": "语言学名词",
+   "wordNumber": "01.137",
+   "subjectFullName": "语言学_理论语言学_核心术语",
+   "subjectName": "核心术语",
+   "publishYear": "2011",
+   "definition": "形式语言的一种。是可以用上下文无关文法定义的形式语言。在编程语言中有很多应用，大多数可用上下文无关文法生成。"
+  },
+  {
+   "cn": "上下文无关文法",
+   "en": "ontext free grammar",
+   "source": "语言学名词",
+   "wordNumber": "11.173",
+   "subjectFullName": "语言学_计算语言学_理论和模型",
+   "subjectName": "理论和模型",
+   "publishYear": "2011",
+   "definition": "乔姆斯基层级中的一种短语结构语法。其规则左部是单独的非终极符号，规则右部是符号串。规则表示为： U::=u，其中U为非终结符号，u为符号串。一般用上下文无关文法描述程序设计语言的语法，也可以用来描述自"
+  },
+  {
+   "cn": "上下文无关语言",
+   "en": "context-free language,CFL",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0479",
+   "subjectFullName": "计算机科学技术_理论计算机科学_形式语言与自动机",
+   "subjectName": "形式语言与自动机",
+   "publishYear": "2018",
+   "definition": "由上下文无关文法产生的语言。"
+  },
+  {
+   "cn": "背景",
+   "en": "context",
+   "source": "档案学名词",
+   "wordNumber": "06.01.018",
+   "subjectFullName": "档案学_电子文件管理_综合",
+   "subjectName": "综合",
+   "publishYear": "2024",
+   "definition": "文件所处的环境。文件的构成要素之一。文件的背景信息包括文件之间的相互关系、形成文件的业务活动、文件的技术环境等。"
+  },
+  {
+   "cn": "语境",
+   "en": "context",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.122",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "构成事件、陈述、观念的背景的情境条件。它们据此才能得到完整的理解与评价。"
+  },
+  {
+   "cn": "语境",
+   "en": "context",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.067",
+   "subjectFullName": "新闻学与传播学_传播总论_传播研究基础",
+   "subjectName": "传播研究基础",
+   "publishYear": "2022",
+   "definition": "沟通行为或交往活动发生的环境或场合。为理解沟通行为与现象提供的背景和参照。"
+  },
+  {
+   "cn": "上下文",
+   "en": "context",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.101",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_检索技术与方法",
+   "subjectName": "检索技术与方法",
+   "publishYear": "2019",
+   "definition": "位于关键词前部或后部的词句或文字。它是关键词所处的语言环境，影响关键词的含义。通过阅读上下文，有助于理解和鉴别某关键词所具有的准确含义和用法，判断文献是否相关。"
+  },
+  {
+   "cn": "语境",
+   "en": "context",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0884",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "语言（自然语言或人工语言）上下文环境。它包括语言因素，也包括非语言因素（特别是当涉及自然语言的时候）。"
+  },
+  {
+   "cn": "情景",
+   "en": "context",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0385",
+   "subjectFullName": "计算机科学技术_数据库_数据库新技术",
+   "subjectName": "数据库新技术",
+   "publishYear": "2018",
+   "definition": "事件发生时的背景、环境、时间、空间等因素。"
+  },
+  {
+   "cn": "上下文无关文法",
+   "en": "context-free grammar\",\"CFG",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "上下文有关文法",
+   "en": "context-sensitive grammar\",\"CSG",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "上下文无关语言",
+   "en": "context-free language\",\"CFL",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "语境",
+   "en": "context",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "语境，上下文",
+   "en": "context",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "语法",
+   "en": "grammar",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "语法",
+   "en": "grammar",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "菌肉",
+   "en": "context\",\"flesh",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "情境特殊性",
+   "en": "context specificity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "情境依赖",
+   "en": "context dependent",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "上下文效应,语境效应，背景效应",
+   "en": "context effect",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "地域背景",
+   "en": "areal context",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "服务器上下文（环境）",
+   "en": "server context",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "上下文切换",
+   "en": "context switch",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "语境分析，上下文分析",
+   "en": "context analysis",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "语境机制",
+   "en": "context mechanism",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "树语法",
+   "en": "tree grammar",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "故事语法",
+   "en": "story grammar",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "普遍语法",
+   "en": "universal grammar",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "生成语法",
+   "en": "generative grammar",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "上下文无关语言",
+   "en": "context-free language",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自选",
+   "en": "free",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自选",
+   "en": "free",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "罚球",
+   "en": "free shot\",\"free throw",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自由使用",
+   "en": "free use",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无障碍区",
+   "en": "free zone",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自选手枪",
+   "en": "free pistol",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "任意球",
+   "en": "free throw",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "任意球",
+   "en": "free throw",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "腾身支撑",
+   "en": "free support",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "变速齿轮",
+   "en": "free pinion",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "任意球",
+   "en": "free kick",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "直体弹跳",
+   "en": "free bounce",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自由慢步",
+   "en": "free walk",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "无障碍空间",
+   "en": "free space",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "无攻过网",
+   "en": "free ball",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "不执拍手",
+   "en": "free hand",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "任意球",
+   "en": "free hit",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "背景图",
+   "en": "context chart",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.3",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "角色和群体间的相互关系构成的网络图形。用以表现个体行为所产生的组织背景。"
+  },
+  {
+   "cn": "文化语境",
+   "en": "cultural context",
+   "source": "社会学名词",
+   "wordNumber": "4.2.3.6",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化人类学基本概念",
+   "subjectName": "文化人类学基本概念",
+   "publishYear": "2025",
+   "definition": "源于语言学及语义学分析，在文本与语境的关系中，特指个别文化事象置身其中、并赖以发生意义的整体性系统。"
+  },
+  {
+   "cn": "语境",
+   "en": "linguistic context",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0106",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "影响语言发生变异的社会环境。也指言语交际活动所处的社会环境，包括情景和社会文化背景。研究语言变异不能离开具体的语言使用的社会环境，是社会语言学有别于一般语言学的一个特征。"
+  },
+  {
+   "cn": "民俗语境",
+   "en": "folklore context",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0499",
+   "subjectFullName": "民族学与文化学_民俗学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "民俗赖以生成和传演的环境以及赋予民俗以特殊意义的上下文关系。其中“上下文”既可以是一个民俗单元内的上下文，也可以是作为整体民俗与其他相关元素组成的结构关系。"
+  },
+  {
+   "cn": "言语交际情景",
+   "en": "situational context",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0117",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "由话题、参与者、场所、社会背景等构成的言语交际活动的情况。"
+  },
+  {
+   "cn": "疾病的文化解释",
+   "en": "cultural context of illness",
+   "source": "社会学名词",
+   "wordNumber": "3.11.5.4",
+   "subjectFullName": "社会学名词_分支社会学_医学社会学_健康与社会",
+   "subjectName": "健康与社会",
+   "publishYear": "2025",
+   "definition": "影响健康和疾病定义的具体的社会文化因素。现有的研究显示，文化差异会造成对疼痛、饥饿等客观生理现象的不同主观体验，也会造成对疾病的不同解释，以及对身体各个器官的重视程度的不同等。"
+  },
+  {
+   "cn": "游离棉酚",
+   "en": "free gossypol",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.10.4.11",
+   "subjectFullName": "食品卫生学_食品_食用油脂",
+   "subjectName": "食用油脂",
+   "publishYear": "2025",
+   "definition": "油脂中呈游离状态存在的有毒多酚类化合物。"
+  },
+  {
+   "cn": "游离碘",
+   "en": "free iodine",
+   "source": "消毒学",
+   "wordNumber": "2.1.6.2.1",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "含碘消毒剂在水溶液或醇溶液中释出的碘离子，是含碘消毒剂的主要杀菌形态。"
+  },
+  {
+   "cn": "游离氨",
+   "en": "free ammonia",
+   "source": "消毒学",
+   "wordNumber": "2.1.12.12",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "以氨分子和氢氧化铵形式存在的氨，控制季铵盐质量的指标之一。"
+  },
+  {
+   "cn": "自由电子",
+   "en": "free electron",
+   "source": "放射卫生学",
+   "wordNumber": "3.1.10",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_核物理基本概念",
+   "subjectName": "核物理基本概念",
+   "publishYear": "2025",
+   "definition": "受原子核束缚小、在外力作用下易于从原子上脱落，可以在物体中自由移动的电子。影响物体的导电性和导热性。"
+  },
+  {
+   "cn": "自由基",
+   "en": "free radical",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.1.1.27",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2025",
+   "definition": "最外层轨道含有不成对电子的分子、离子、原子或原子团。具有较活泼的化学性质。"
+  },
+  {
+   "cn": "价值中立",
+   "en": "value free",
+   "source": "社会学名词",
+   "wordNumber": "1.2.2.2",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_伦理准则",
+   "subjectName": "伦理准则",
+   "publishYear": "2025",
+   "definition": "在研究过程中，只客观地陈述事实而不做价值判断的研究方式。"
+  },
+  {
+   "cn": "自由贸易",
+   "en": "free trade",
+   "source": "马克思主义",
+   "wordNumber": "02.0176",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "国家权力不加干涉的商品和服务自由交换的经济活动。"
+  },
+  {
+   "cn": "自由竞争",
+   "en": "free competition",
+   "source": "马克思主义",
+   "wordNumber": "02.0182",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“垄断”相对。没有任何垄断成分，企业经营者可以自由投资、转移和商品买卖的竞争。它是垄断前资本主义经济的主要特征。自由竞争加速了资本的积聚和集中，引起生产集中，发展到一定阶段就产生垄断。"
+  },
+  {
+   "cn": "自由劳动",
+   "en": "free labor",
+   "source": "马克思主义",
+   "wordNumber": "03.0238",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "不以谋生为目的而仅仅是为了满足劳动者自己爱好兴趣的自由自觉的劳动，是人的全面自由发展的前提性条件。作为生活的第一需要，自由劳动只有在共产主义社会才能真正实现。"
+  },
+  {
+   "cn": "自由联合",
+   "en": "free association",
+   "source": "马克思主义",
+   "wordNumber": "03.0239",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "共产主义社会人类在全面而自由发展的基础上实行联合劳动的方式。在有阶级社会，社会分工的存在和生产资料掌握在少数人手里，使劳动者只有出卖劳动力才能生存，工作性质既狭隘片面又不自由。当共产主义实现时，代替那"
+  },
+  {
+   "cn": "自由农",
+   "en": "free peasants",
+   "source": "马克思主义",
+   "wordNumber": "03.0240",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "欧洲奴隶社会和封建社会中享有人身自由、独立从事经营的农民。一般指在小土地所有制基础上拥有简单生产工具的自耕农。他们虽然人数众多，但是从未成为社会上占统治地位的阶级力量。"
+  },
+  {
+   "cn": "搭便车",
+   "en": "free-riding ",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.3.2.3",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场失灵",
+   "subjectName": "卫生服务市场失灵",
+   "publishYear": "2025",
+   "definition": "对公共产品的消费中，那些自己不为这种产品付费，在别人付出代价去取得后，坐享其成果的行为。"
+  },
+  {
+   "cn": "自由支配时间",
+   "en": "free time",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.5.1.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_作息制度卫生",
+   "subjectName": "作息制度卫生",
+   "publishYear": "2025",
+   "definition": "可依据个人意愿或喜好自行支配的时间。"
+  },
+  {
+   "cn": "自由喂养",
+   "en": "free feeding",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.5.6",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "完全依赖儿童的个性和食欲，放任儿童饮食行为的喂养方式。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

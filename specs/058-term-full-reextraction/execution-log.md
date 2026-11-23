@@ -282,3 +282,9 @@
 * 机器初筛（归一化后 case/punct、单复数、前缀三档）＋逐组人工核对：占位主形 2 组；裁定合并 6 组（excluded middle→law of excluded middle、Outlines→Outline of Pyrrhonism、ordinary objects→ordinary object、research program→research programme、Phenomenology of Spirit→phenomenology of mind、sadō→chadō）；同概念异语传统合法并存约 100 组；同形不同义合法分行约 12 组（含《数学原理》两书同名）；辨析保留 2 组。全部 135 组有归属，报告已更新。
 * 合并动作同前轮：新行删去、旧行键追加合写别名、依据列留痕。术语表 8,069→8,063，`registry_azsort` 守恒，`check_terms` 硬错误 0。
 * 《数学原理》两书同名（Principia Mathematica 与 Principles of Mathematics）为同形不同义双行，词条阶段需按上下文区分，已在报告标注。
+
+## 2026-11-23：术语第二十一批（39 条）
+
+* 小写多词池第 1,271–1,390 位取 39 条，实查审定库 36 条、已有凭证 3 条。本批起 dry-run 无一触发新加的中文主形告警，防线工作正常。
+* 审定对口 8 条：名家、重写规则、纯粹曝光效应、颜色空间、成分分析法、生态系统健康、上下文无关文法、像似符号；其余 31 条 A 档直裁：坚白、兼爱（impartial care，墨家义）、五路、高贵的谎言、政治动物（zoon politikon）、法外国家、晦暗语境、模态基、循环效应、本体论转向、利他惩罚、认知装置、死隐喻、双极神论、经验子结构、危机倾向、纽结图、直接自我指涉等。
+* 落册：`term_flow` 干跑 39/0，实写 39；`registry_azsort` 术语表 8063→8102 守恒；`check_terms` 硬错误 0。清单 `tasks/manifests/2026-11-23-058-batch31-terms.json`。

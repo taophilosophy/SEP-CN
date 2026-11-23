@@ -1,0 +1,742 @@
+{
+ "key": "direct self-reference",
+ "term": "direct self-reference",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T15:43:17+00:00",
+ "status": "ok",
+ "note": "variant=direct self-reference; 审定公布名词库=4118; 海峡两岸名词对照库=1269; 其他来源数据库=252; 预公布名词数据库=219; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "基准方向",
+   "en": "reference direction",
+   "source": "船舶工程名词",
+   "wordNumber": "08.016",
+   "subjectFullName": "船舶工程_船舶通信导航",
+   "subjectName": "船舶通信导航",
+   "publishYear": "1998",
+   "definition": "用以计量其他方向的基准方向。如真北、格网北等。"
+  },
+  {
+   "cn": "单纯参照",
+   "en": "see,direct reference",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.641",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_资源描述",
+   "subjectName": "资源描述",
+   "publishYear": "2019",
+   "definition": "反映等同关系的参照，是从非标引词（检索词）指向标引词（检索词）的参照形式。"
+  },
+  {
+   "cn": "自身暴力",
+   "en": "self-directed violence",
+   "source": "行为医学名词",
+   "wordNumber": "14.008",
+   "subjectFullName": "行为医学_攻击行为与暴力行为_暴力行为",
+   "subjectName": "暴力行为",
+   "publishYear": "2022",
+   "definition": "个体对自身实施的残暴行为。如自杀与自伤。"
+  },
+  {
+   "cn": "自我导向搜寻量表",
+   "en": "self-directed search",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0509",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_人力资源招聘、选拔",
+   "subjectName": "人力资源招聘、选拔",
+   "publishYear": "2016",
+   "definition": "霍兰德(John Holland)编制的包含操作取向、研究取向、艺术取向、社交取向、经营取向和事务取向六个维度的职业偏好量表。"
+  },
+  {
+   "cn": "自我导向学习",
+   "en": "self-directed learning",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "09.084",
+   "subjectFullName": "全科医学与社区卫生_社区健康教育与健康促进",
+   "subjectName": "社区健康教育与健康促进",
+   "publishYear": "2014",
+   "definition": "以自我责任为出发点，主动诊断自己的健康需求，形成学习目标，执行适合自己的学习计划，评估自己的学习成果，以达到自我实现健康目标的学习方式。"
+  },
+  {
+   "cn": "自我导向学习",
+   "en": "self-directed learning",
+   "source": "教育学名词",
+   "wordNumber": "12.153",
+   "subjectFullName": "教育学_成人教育",
+   "subjectName": "成人教育",
+   "publishYear": "2013",
+   "definition": "个体基于对自我发展需要认同而引发的有目的、有计划的学习行为。包括自我评估学习需求、确立学习目标、寻求学习资源、选择学习策略与方法以及评价学习结果。"
+  },
+  {
+   "cn": "参考书目",
+   "en": "reference",
+   "source": "档案学名词",
+   "wordNumber": "04.03.125",
+   "subjectFullName": "档案学_档案文献编纂_档案文献编纂方法",
+   "subjectName": "档案文献编纂方法",
+   "publishYear": "2024",
+   "definition": "与档案文献汇编题目有关的参考文献目录。"
+  },
+  {
+   "cn": "参照",
+   "en": "reference",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.637",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_资源描述",
+   "subjectName": "资源描述",
+   "publishYear": "2019",
+   "definition": "在目录、索引或检索词表中，反映标目之间关系及其组织原则的一种手段。通常分为一般参照、单纯参照和相关参照。有两种用法：①用于作品正文中，通过某些常规词或词组来指引读者去查看作品的另外部分（如“见上”或“"
+  },
+  {
+   "cn": "参考文献",
+   "en": "references",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.04.088",
+   "subjectFullName": "编辑与出版学_编辑_编辑加工",
+   "subjectName": "编辑加工",
+   "publishYear": "2022",
+   "definition": "在书籍、论文的正文之后或各部分之后一一列出所参考或引用文献的辅文。"
+  },
+  {
+   "cn": "引用书目",
+   "en": "bibliography reference,references",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "08.387",
+   "subjectFullName": "图书馆·情报与文献学_文献学_目录学",
+   "subjectName": "目录学",
+   "publishYear": "2019",
+   "definition": "专门记载某一著作中引用过的各种著作及文章的目录。一般著录所引用著作或文章的名称、作者等。"
+  },
+  {
+   "cn": "避雷器直流参考电压",
+   "en": "direct current reference voltage of arrester",
+   "source": "电力名词",
+   "wordNumber": "19.388",
+   "subjectFullName": "电力_变电",
+   "subjectName": "变电",
+   "publishYear": "2020",
+   "definition": "无间隙金属氧化物避雷器通过直流参考电流时测出的避雷器的直流电压值。"
+  },
+  {
+   "cn": "引文检索",
+   "en": "reference search,reference retrieval",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.060",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_检索技术与方法",
+   "subjectName": "检索技术与方法",
+   "publishYear": "2019",
+   "definition": "利用源文献与被引文献之间的引证关系，以被引著者姓名、被引刊名、被引文献题名等相关信息为检索点，查寻被引数据及相关文献信息的过程和方法。"
+  },
+  {
+   "cn": "工具书",
+   "en": "reference work,reference book",
+   "source": "语言学名词",
+   "wordNumber": "06.148",
+   "subjectFullName": "语言学_辞书学_辞书类型",
+   "subjectName": "辞书类型",
+   "publishYear": "2011",
+   "definition": "汇集特定知识领域的材料，采用一定格式编排，供人按需查检和获取各类信息的参考书。包括辞书、年鉴、手册、索引等。现代工具书分为印刷版和电子版两种类型。"
+  },
+  {
+   "cn": "虚指",
+   "en": "indefinite reference,vague reference",
+   "source": "语言学名词",
+   "wordNumber": "04.101",
+   "subjectFullName": "语言学_语法学_词法",
+   "subjectName": "词法",
+   "publishYear": "2011",
+   "definition": "代词的一种用法。即用代词表示不便明说或无法说清的人或事物。例如“又要这样，又要那样，太过分了”和“去一趟也不算什么”中的“这样”“那样”“什么”。"
+  },
+  {
+   "cn": "自交",
+   "en": "selfing",
+   "source": "农学名词",
+   "wordNumber": "06.189",
+   "subjectFullName": "作物基因组学与遗传育种_作物遗传改良",
+   "subjectName": "作物遗传改良",
+   "publishYear": "2025",
+   "definition": "同一植株上的同一朵花的花粉传播到同朵花的雌蕊柱头上，或由同株的花粉传播到同株的雌蕊柱头上的受精过程。"
+  },
+  {
+   "cn": "自交",
+   "en": "selfing",
+   "source": "水产名词",
+   "wordNumber": "05.073",
+   "subjectFullName": "水产_水产生物育种学",
+   "subjectName": "水产生物育种学",
+   "publishYear": "2002",
+   "definition": "雌雄同体生物的自体受精。"
+  },
+  {
+   "cn": "指向性",
+   "en": "directivity",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "26.0156",
+   "subjectFullName": "机械工程_动力机械_风力机_参数_噪声测试参数",
+   "subjectName": "噪声测试参数",
+   "publishYear": "2013",
+   "definition": "通过在风力机下风向与风轮中心等距离的各不同测量位置上测得的A计权声压级间的不同所描述出的噪声的方向性。以分贝表示。测量位置由相关标准确定。"
+  },
+  {
+   "cn": "方向性",
+   "en": "directivity",
+   "source": "电子学名词",
+   "wordNumber": "04.224",
+   "subjectFullName": "电子学_微波技术与天线",
+   "subjectName": "微波技术与天线",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "方向性",
+   "en": "directivity",
+   "source": "地球物理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地球物理学_固体地球物理学",
+   "subjectName": "固体地球物理学",
+   "publishYear": "1988",
+   "definition": ""
+  },
+  {
+   "cn": "参考剖面",
+   "en": "reference section",
+   "source": "地质学名词",
+   "wordNumber": "07.01.045",
+   "subjectFullName": "地质学_地史学与地层学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "模式剖面确立后，可作为模式剖面标志的，参考用的某一单位或界限的露头。它从属于模式剖面，用以帮助阐明模式概念或将这种概念延展到其他地理区或邻区。可被指定为次层型。"
+  },
+  {
+   "cn": "自我参照",
+   "en": "self reference",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自引用",
+   "en": "self-reference",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自我参照效应",
+   "en": "self reference effect",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "参考",
+   "en": "reference",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "参考文献",
+   "en": "reference",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "参照，参考",
+   "en": "reference",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "参考",
+   "en": "reference",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自交",
+   "en": "selfing",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "提示记号",
+   "en": "direct",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "方向性，指向性",
+   "en": "directivity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "间接引用",
+   "en": "indirect reference",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "页码引证",
+   "en": "page reference",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "参考值",
+   "en": "reference value",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "参比条件",
+   "en": "reference condition",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "参考标准",
+   "en": "reference standard",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "参比接点",
+   "en": "reference junction",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "参比电极",
+   "en": "reference electrode",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "参考温度",
+   "en": "reference temperature",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "参考输入",
+   "en": "reference input",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "参照群体",
+   "en": "reference group",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自治",
+   "en": "Self-discipline / Self-control",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "己（我）",
+   "en": "Self (Myself)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自金融",
+   "en": "self-finance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自融资",
+   "en": "self-financing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自学习",
+   "en": "self-learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自我赋权",
+   "en": "self-empowerment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "直寻",
+   "en": "Direct Quest",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "直致",
+   "en": "Direct Expression",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "直接融资",
+   "en": "direct financing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "单败淘汰赛",
+   "en": "direct elimination",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "直接射门",
+   "en": "direct shot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "单败淘汰赛",
+   "en": "direct preliminary",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "直接连接",
+   "en": "direct connection",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自我参照效应",
+   "en": "self-reference effect",
+   "source": "社会学名词",
+   "wordNumber": "4.1.5.4",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我表达",
+   "subjectName": "自我表达",
+   "publishYear": "2025",
+   "definition": "个体在加工程度较深的记忆中所表现出的自我关联优势倾向，即个体对与自我富有关联的材料的记忆效果，优于对那些与自我有着较少关联的材料的记忆效果。"
+  },
+  {
+   "cn": "参考条件",
+   "en": "reference conditions",
+   "source": "放射卫生学",
+   "wordNumber": "5.5.3",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_监测与评价",
+   "subjectName": "监测与评价",
+   "publishYear": "2025",
+   "definition": "一组影响量的特定值和/或值的范围，在此条件下剂量测定系统可允许的不确定度最小。"
+  },
+  {
+   "cn": "参考响应",
+   "en": "reference response",
+   "source": "放射卫生学",
+   "wordNumber": "5.5.4",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_监测与评价",
+   "subjectName": "监测与评价",
+   "publishYear": "2025",
+   "definition": "参考条件下待测量参考值（Cr,0）的响应R0。      ，Gr,0是相应的指示值。"
+  },
+  {
+   "cn": "参考水平",
+   "en": "reference level",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.3.10",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_辐射危险控制",
+   "subjectName": "辐射危险控制",
+   "publishYear": "2025",
+   "definition": "在应急照射情况或现存照射情况下，设定的一个剂量、危险或活度浓度水平。高于这个水平，允许照射的发生是不适当的；低于这个水平，防护和安全的最优化方案可继续执行。参考水平值的选择取决于所考虑的可能发生照射的"
+  },
+  {
+   "cn": "参考人",
+   "en": "reference person",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.9",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "国际放射防护委员会为放射防护而定义的，某一特定人群，具有典型的形态特性、组织特性、生理特性等的数据库，以便于对人群中不同个体能在同一生物学基础上统一对待，对不同群体间能用统一的标准进行比较。"
+  },
+  {
+   "cn": "男性参考人",
+   "en": "reference male",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.10",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "国际放射防护委员会为放射防护而定义的，理想化的男性，具有典型的个体解剖和生理特征。可以是成人或者0岁、1岁、5岁、10岁、15岁的少儿。"
+  },
+  {
+   "cn": "女性参考人",
+   "en": "reference female",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.11",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "国际放射防护委员会为放射防护而定义的，理想化的女性，具有典型的个体解剖和生理特征。可以是成人或者0岁、1岁、5岁、10岁、15岁的少儿。"
+  },
+  {
+   "cn": "参考体模",
+   "en": "reference phantom",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.13",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "国际放射防护委员会第110号出版物（ICRP，2009）中定义的人体计算模型（基于医学成像数据的男性或女性体素模型）、第89号出版物（ICRP，2002）中定义了男性参考人和女性参考人的解剖和生理特征"
+  },
+  {
+   "cn": "参考工作人员",
+   "en": "reference worker",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.14",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "由全身生物动力学、人体呼吸道、人体消化道和剂量学等模型和参数组成的理想化成人。其生物动力学模型的结构和参数值，以参考男性的参数值为依据，未考虑性别、年龄、种族和其他个体特异性特征的变化。"
+  },
+  {
+   "cn": "参考平面",
+   "en": "reference plane",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.36",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "在模体中吸收剂量最大值处或与辐射类型相对应的某一特定深度下垂直辐射束轴且平行于模体表面的平面。"
+  },
+  {
+   "cn": "参考点",
+   "en": "reference point",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.40",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "参考平面与辐射束轴相交处的点。"
+  },
+  {
+   "cn": "参照群体",
+   "en": "reference group",
+   "source": "社会学名词",
+   "wordNumber": "2.5.1.11",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_群体",
+   "subjectName": "群体",
+   "publishYear": "2025",
+   "definition": "人们作为判断和评价人物、事物或社会现象的标准或仿效模范的群体，一般具有规范和比较两大功能。美国社会学家海曼(Hyman）1942年在研究个人对自身地位的看法时首次提出。"
+  },
+  {
+   "cn": "参考定价",
+   "en": "reference pricing",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.1.3.2.2",
+   "subjectFullName": "卫生经济学名词_卫生经济学_卫生经济学",
+   "subjectName": "卫生经济学",
+   "publishYear": "2025",
+   "definition": "参照相近或类似医疗服务价格或国际价格水平进行定价的方法。"
+  },
+  {
+   "cn": "标准培养物",
+   "en": "reference cultures",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.51",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "标准菌株、标准储备菌株和工作菌株的统称"
+  },
+  {
+   "cn": "标准物质",
+   "en": "reference material",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.57",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "具有足够均匀和稳定的特定特性的物质，其特性被证实适用于测量中或标称特性检查中的预期用途"
+  },
+  {
+   "cn": "参考温度",
+   "en": "reference temperature",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.107",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "与微生物生长、繁殖等生物学过程相关的特定温度，用于研究和描述微生物的生态学、生理学和生长特性。"
+  },
+  {
+   "cn": "参比实验室",
+   "en": "reference laboratory",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.56",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "被指定处理与某一领域有关的所有科学和技术问题的实验室，还应为成员国人员提供科学和技术培训,并协调其他实验室组织合作，开展科学和技术研究。"
+  },
+  {
+   "cn": "标准储备菌株",
+   "en": "reference stocks",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.53",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "模式株经过一代转接后获得的同种菌株"
+  },
+  {
+   "cn": "自净",
+   "en": "self-purification",
+   "source": "消毒学",
+   "wordNumber": "2.1.1.2",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "利用日光照射和风、雨等作用使环境污染的生物、化学和放射物质自然衰亡，达到无害化的过程。"
+  },
+  {
+   "cn": "自身消毒",
+   "en": "self disinfection",
+   "source": "消毒学",
+   "wordNumber": "3.1.2.6.2.1",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "对用于清洗、消毒和漂洗器械使用的水和水溶液接触的机器自身所有的液体输送系统、腔体、水槽和其他部件进行的消毒。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

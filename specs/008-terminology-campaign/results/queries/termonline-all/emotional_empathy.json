@@ -1,0 +1,772 @@
+{
+ "key": "emotional empathy",
+ "term": "emotional empathy",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T15:42:21+00:00",
+ "status": "ok",
+ "note": "variant=emotional empathy; 审定公布名词库=183; 海峡两岸名词对照库=42; 其他来源数据库=18; 预公布名词数据库=37; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "同理心",
+   "en": "empathy",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "8.15",
+   "subjectFullName": "新闻学与传播学_人际沟通_人际沟通能力与关系管理",
+   "subjectName": "人际沟通能力与关系管理",
+   "publishYear": "2022",
+   "definition": "一种能换位思考，从对方角度体验与感受他人世界并重塑自我观点的沟通互动能力。"
+  },
+  {
+   "cn": "共情",
+   "en": "empathy",
+   "source": "精神医学名词",
+   "wordNumber": "04.032",
+   "subjectFullName": "精神医学_治疗_心理治疗",
+   "subjectName": "心理治疗",
+   "publishYear": "2019",
+   "definition": "治疗师能够正确地了解受检者内在主观世界的态度、能力，以及相应的反应。"
+  },
+  {
+   "cn": "同感",
+   "en": "empathy",
+   "source": "生物物理学名词",
+   "wordNumber": "04.293",
+   "subjectFullName": "生物物理学_神经生物物理学_脑高级功能",
+   "subjectName": "脑高级功能",
+   "publishYear": "2018",
+   "definition": "通过内心模仿产生他人内心活动的类似知觉。对社交生活至关紧要，正是由于有同感才使我们得以和他人共享其情绪、体验、需要和目的。"
+  },
+  {
+   "cn": "移情性",
+   "en": "empathy",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0577",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "设身处地地为顾客着想和对顾客给予特别关注的质量特性。"
+  },
+  {
+   "cn": "移情作用",
+   "en": "empathy",
+   "source": "医学美学与美容医学名词",
+   "wordNumber": "01.065",
+   "subjectFullName": "医学美学与美容医学_医学美学",
+   "subjectName": "医学美学",
+   "publishYear": "2015",
+   "definition": "人在聚精会神地观察某一个自然的或艺术的审美对象时，通过由物及我或由我及物而达到物我同一，把人的生命和情趣移注到对象上来，顿时感觉到本无生命和情趣的该外物(审美对象)仿佛也具有人的生命和情趣一样，犹如“"
+  },
+  {
+   "cn": "共情",
+   "en": "empathy",
+   "source": "心理学名词",
+   "wordNumber": "15.052",
+   "subjectFullName": "心理学_咨询心理学",
+   "subjectName": "咨询心理学",
+   "publishYear": "2014",
+   "definition": "咨询师体认当事人内部世界的态度、能力，以及相应的反应。"
+  },
+  {
+   "cn": "移情",
+   "en": "empathy",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "04.013",
+   "subjectFullName": "全科医学与社区卫生_全科医疗服务",
+   "subjectName": "全科医疗服务",
+   "publishYear": "2014",
+   "definition": "一个人认同、理解和感受他人的处境、情感、知觉和思想的心理现象。"
+  },
+  {
+   "cn": "移情",
+   "en": "empathy",
+   "source": "语言学名词",
+   "wordNumber": "08.238",
+   "subjectFullName": "语言学_修辞学_修辞方法",
+   "subjectName": "修辞方法",
+   "publishYear": "2011",
+   "definition": "修辞格的一种。移主观情感于客观外物，使物性与人性相通，以体现、寄寓说写者的心理认知和主观情愫。例如，“及登舟解缆，正当桃李争妍之时，而余则恍同林鸟失群，天地异色。”"
+  },
+  {
+   "cn": "共情能力",
+   "en": "empathy ability",
+   "source": "行为医学名词",
+   "wordNumber": "5.036",
+   "subjectFullName": "行为医学_行为的社会学基础_行为的社会控制",
+   "subjectName": "行为的社会控制",
+   "publishYear": "2022",
+   "definition": "能够设身处地体验他人处境，达到感受和理解他人情感的能力。"
+  },
+  {
+   "cn": "情绪",
+   "en": "emotion",
+   "source": "兽医学名词",
+   "wordNumber": "04.547",
+   "subjectFullName": "兽医学_动物生理学",
+   "subjectName": "动物生理学",
+   "publishYear": "2023",
+   "definition": "人类和动物对客观环境刺激所表达的一种特殊的心理体验与某种固定形式的躯体行为表现。"
+  },
+  {
+   "cn": "情绪",
+   "en": "emotion",
+   "source": "睡眠医学名词",
+   "wordNumber": "2.193",
+   "subjectFullName": "睡眠医学_睡眠生理与心理基础_睡眠心理基础",
+   "subjectName": "睡眠心理基础",
+   "publishYear": "2022",
+   "definition": "人对内外信息的态度体验及相应的行为和身体反应。是伴有较明显的自主性神经反应的一种心理状态。以个体的愿望和需要为中介。狭义上是指需要是否被满足而产生的暂时、较剧烈的态度体验。基本形式包括快乐、恐惧、悲伤"
+  },
+  {
+   "cn": "情感",
+   "en": "emotion",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "8.033",
+   "subjectFullName": "新闻学与传播学_人际沟通_人际沟通基础",
+   "subjectName": "人际沟通基础",
+   "publishYear": "2022",
+   "definition": "一种有生理感觉与非言语行为反应的情绪表达与心理状态的沟通体验。"
+  },
+  {
+   "cn": "情绪",
+   "en": "emotion",
+   "source": "行为医学名词",
+   "wordNumber": "4.061",
+   "subjectFullName": "行为医学_行为的心理学基础_情绪与行为",
+   "subjectName": "情绪与行为",
+   "publishYear": "2022",
+   "definition": "对内外信息的态度体验及相应的行为和身体反应。以个体的愿望和需要为中介。"
+  },
+  {
+   "cn": "情绪",
+   "en": "emotion",
+   "source": "生理学名词",
+   "wordNumber": "03.656",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "情绪",
+   "en": "emotion",
+   "source": "精神医学名词",
+   "wordNumber": "02.206",
+   "subjectFullName": "精神医学_症状与体征_情感障碍症状",
+   "subjectName": "情感障碍症状",
+   "publishYear": "2019",
+   "definition": "人对内外信息的态度体验以及相应的行为和身体反应。是伴有较明显的自主性神经反应的一种心理状态。以个体的愿望和需要为中介。"
+  },
+  {
+   "cn": "情绪",
+   "en": "emotion",
+   "source": "计划生育名词",
+   "wordNumber": "04.025",
+   "subjectFullName": "计划生育_生殖健康心理卫生",
+   "subjectName": "生殖健康心理卫生",
+   "publishYear": "2019",
+   "definition": "人们对客观事物的态度或人接触客观事物时所引起的体验。情绪反应可伴有一定的机体变化。"
+  },
+  {
+   "cn": "情绪",
+   "en": "emotion",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "04.186",
+   "subjectFullName": "阿尔茨海默病_精神与心理认知学",
+   "subjectName": "精神与心理认知学",
+   "publishYear": "2019",
+   "definition": "对客观事物的态度体验。包括情感。狭义上是指因需要是否满足产生暂时、较剧烈的态度体验。基本形式包括快乐、恐惧、悲伤、厌恶 等。"
+  },
+  {
+   "cn": "情绪",
+   "en": "emotion",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0146",
+   "subjectFullName": "管理科学技术_一般管理理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "对人或物的强烈情感。"
+  },
+  {
+   "cn": "情绪",
+   "en": "emotion",
+   "source": "心理学名词",
+   "wordNumber": "02.720",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "人对内外信息的态度体验以及相应的行为和身体反应。以个体的愿望和需要为中介。"
+  },
+  {
+   "cn": "感性诉求广告",
+   "en": "emotional appeal",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "21.285",
+   "subjectFullName": "新闻学与传播学_广告_广告作品",
+   "subjectName": "广告作品",
+   "publishYear": "2022",
+   "definition": "针对消费者的心理、社会或象征性需求，表现与企业、产品、服务相关的情感和情绪。通过引起消费者情感上的共鸣，引导消费者产生购买欲望和行动。以诉求对象情感反应为目标，不包括或只包括很少的理性信息。"
+  },
+  {
+   "cn": "共情,同感",
+   "en": "empathy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "情绪",
+   "en": "emotion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "共情-利他假说",
+   "en": "empathy altruism hypothesis",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "情绪不稳定性",
+   "en": "emotional instability",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "表情",
+   "en": "emotional expression",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "情绪依恋",
+   "en": "emotional attachment",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "情绪维度",
+   "en": "emotional dimension",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "情绪稳定性",
+   "en": "emotional stability",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "情绪虐待",
+   "en": "emotional abuse",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "情绪智力",
+   "en": "emotional intelligence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "情绪控制",
+   "en": "emotion control",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "正向情绪",
+   "en": "positive emotion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "情绪调节",
+   "en": "emotion regulation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "运动情绪",
+   "en": "sport emotion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "负面情绪",
+   "en": "negative emotion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "情感建模",
+   "en": "emotion modeling",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "情绪智商，情商",
+   "en": "emotional quotient\",\"EQ",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "条件性情绪反应,制约化情绪反应",
+   "en": "conditioned emotional response\",\"CER\",\"conditional emotional reaction",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "情绪关注应对，情绪聚焦应对",
+   "en": "emotion focused coping",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "情绪聚焦疗法",
+   "en": "emotion focused therapy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "知音",
+   "en": "Resonance and Empathy",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "情商",
+   "en": "Emotional Quotient",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "情感连接",
+   "en": "emotional connection",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "六志",
+   "en": "Six Emotions",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "天情",
+   "en": "Innate Emotions",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "诗缘情",
+   "en": "Poetry Springs from Emotions.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "气骨",
+   "en": "Qigu (Emotional Vitality and Forcefulness)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "七情六欲",
+   "en": "Seven Emotions and Six Desires",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "情教",
+   "en": "Moral Instruction Carried Out with Emotion",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "为情而造文 / 为文而造情",
+   "en": "Produce a Piece of Writing for Emotions / Produce Emotions for a Piece of Writing",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "心同理同",
+   "en": "People of Similar Natures and Emotions Will Have Similar Understanding.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "音情顿挫",
+   "en": "Achieving Rhythm of Speech and Emotion and Cadence of Speech",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "诗穷而后工",
+   "en": "<div> A Good Poem Is the Product of Pent-up Emotions.</div>",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "同理心文明",
+   "en": "empathic civilization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "以电话、信函、声明等方式表示慰问和支持",
+   "en": "to express sympathy and support by telephone, letter or statement",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际合作",
+   "subjectName": "国际合作",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "情往会悲，文来引泣",
+   "en": "An Author Who Invests Emotionally in a Lament Can Experience Grief. A Lament Written in This Way Can Move Readers to Tears.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "共情",
+   "en": "empathy",
+   "source": "社会学名词",
+   "wordNumber": "4.1.16.13",
+   "subjectFullName": "社会学名词_跨学科社会学社会心理学",
+   "subjectName": "跨学科社会学社会心理学",
+   "publishYear": "2025",
+   "definition": "能够从他人的角度考虑问题，感受到他人的情感状态的心理过程。"
+  },
+  {
+   "cn": "移情",
+   "en": "empathy",
+   "source": "社会学名词",
+   "wordNumber": "4.2.7.20",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学方法",
+   "subjectName": "人类学方法",
+   "publishYear": "2025",
+   "definition": "研究者将自己融入研究对象社会群体的情感转移。本概念来自于马林诺夫斯基(B.Malinowski）。在研究的“远·近法”上讲究研究者将自己融入被研究对象的生活世界，通过这种立场转换，实现近距离互动的研究"
+  },
+  {
+   "cn": "共情",
+   "en": "empathy",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.5.1.5.3.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_学校心理卫生服务",
+   "subjectName": "学校心理卫生服务",
+   "publishYear": "2025",
+   "definition": "咨询者体会和认可求咨者内部世界的态度、能力，以及相应的反应。在学校心理咨询中，指咨询者设身处地地从求咨者的参考标准来看事物和感受事物，同时能以言语或体语准确表达对求咨者内心体会的理解，协助求咨者对其感"
+  },
+  {
+   "cn": "情绪",
+   "en": "emotion",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.1.2.1",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "个体感知外界事物后所产生的一种体验。包括正向体验如愉快、兴奋、满足和自豪等，负向体验如恐惧、抑郁、焦虑和紧张等。"
+  },
+  {
+   "cn": "同理能力",
+   "en": "empathy ability skill",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.5.10.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_生活技能教育",
+   "subjectName": "生活技能教育",
+   "publishYear": "2025",
+   "definition": "从他人的角度考虑问题，理解他人处境的能力。有助于个体理解和接受他人，并主动帮助别人。生活技能的核心技能之一。"
+  },
+  {
+   "cn": "情绪障碍",
+   "en": "emotional disorder",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.3.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_儿童少年行为问题",
+   "subjectName": "儿童少年行为问题",
+   "publishYear": "2025",
+   "definition": "以焦虑、抑郁、强迫等症状为主要表现的精神障碍。核心特征为情感反应的夸张、混乱和减退。"
+  },
+  {
+   "cn": "情绪指导",
+   "en": "emotional guidance",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.4.4.1",
+   "subjectFullName": "",
+   "subjectName": "学校心理健康促进",
+   "publishYear": "2025",
+   "definition": "引导学生做到以积极正向情绪为主、反应适度的过程。"
+  },
+  {
+   "cn": "情绪体验",
+   "en": "emotional experience",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.16",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "人在主观上感受或意识到的情绪状况。"
+  },
+  {
+   "cn": "情绪调节",
+   "en": "emotional regulation",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.17",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "对个体或群体的情绪进行控制和调节的过程。包括对情绪的认识、协调、引导、互动和控制。"
+  },
+  {
+   "cn": "情绪控制",
+   "en": "emotional control",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.18",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "主观上对自己的情绪进行有意识的制约或积极调节的过程。"
+  },
+  {
+   "cn": "情绪和情感发育",
+   "en": "emotion and emotional feeling development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.8",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "对内外信息的态度体验以及相应的行为和身体反应，与人的社会性需要相联系的主观体验随年龄增长的发展变化过程。"
+  },
+  {
+   "cn": "社会情绪/情感",
+   "en": "social emotions",
+   "source": "社会学名词",
+   "wordNumber": "4.1.11",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学",
+   "subjectName": "社会心理学",
+   "publishYear": "2025",
+   "definition": "一种情绪类型，指人们因对某些具有社会重要性的因素进行社会评价后所诱发与之相应的情绪状态。常见的社会情绪有自豪、羞耻、内疚、窘迫、妒忌或羡慕等。"
+  },
+  {
+   "cn": "积极情绪",
+   "en": "positive emotion",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.8.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "能够得到满足、幸福感受，促使主体与他人建立良好关系的情绪状态。如满意、愉快、喜悦等。"
+  },
+  {
+   "cn": "消极情绪",
+   "en": "negative emotion",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.8.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "不能使人感到满足，使人与人之间的关系趋于紧张的情绪状态。如恐惧、痛苦、愤怒、忧虑等。"
+  },
+  {
+   "cn": "初级情绪",
+   "en": "primary emotion",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.8.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "在出生后第1年的早期出现的情绪。如快乐、厌恶、惊奇、悲伤、愤怒、恐惧。"
+  },
+  {
+   "cn": "次级情绪",
+   "en": "secondary emotion",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.8.4",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "2岁时出现的自我意识和自我评价的情绪。与认知发展有关，如尴尬、害羞、内疚、嫉妒和骄傲。"
+  },
+  {
+   "cn": "道德情感",
+   "en": "moral emotion",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.016",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人们基于一定的道德认识，对道德行为产生的爱憎或好恶的内心感受。对符合道德准则的行为感到满意、愉快、光荣，对不符合道德准则的行为感到义愤、内疚、羞耻。"
+  },
+  {
+   "cn": "儿童情感虐待",
+   "en": "child emotional abuse",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.2.1.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "对儿童造成情感或精神上的伤害行为。包括限制活动（如关黑屋）、责骂、威胁、恐吓、歧视、嘲笑及躯体形式以外的拒绝或敌视。让儿童目睹暴力事件也是情感虐待的一种重要表现形式。"
+  },
+  {
+   "cn": "儿童情感忽视",
+   "en": "child emotional neglect",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.2.1.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "缺乏给予儿童应有的关爱和情感支持的行为。"
+  },
+  {
+   "cn": "社会情感学习",
+   "en": "social-emotional learning",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.5.12",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_生活技能教育",
+   "subjectName": "生活技能教育",
+   "publishYear": "2025",
+   "definition": "获得和应用正确的自我认知、识别和管理情绪、设定和实现目标、感受和理解他人、建立和维持积极关系、作出负责任的决定等方面的知识、态度、技能的过程。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

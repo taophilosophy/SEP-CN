@@ -1,0 +1,772 @@
+{
+ "key": "ecosystem health",
+ "term": "ecosystem health",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T15:42:12+00:00",
+ "status": "ok",
+ "note": "variant=ecosystem health; 审定公布名词库=4621; 海峡两岸名词对照库=1028; 其他来源数据库=155; 预公布名词数据库=1116; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "生态系统健康",
+   "en": "ecosystem health",
+   "source": "动物学名词",
+   "wordNumber": "7.058",
+   "subjectFullName": "动物学_动物生态学_生态系统生态学",
+   "subjectName": "生态系统生态学",
+   "publishYear": "2021",
+   "definition": "生态系统稳定且可持续发展，具有活力，能维持其组织且保持自我运作能力的状态。是生态系统管理的目标。"
+  },
+  {
+   "cn": "生态系统健康",
+   "en": "ecosystem health",
+   "source": "生态学名词",
+   "wordNumber": "07.350",
+   "subjectFullName": "生态学_生态系统生态学",
+   "subjectName": "生态系统生态学",
+   "publishYear": "2006",
+   "definition": "生态系统没有病患反应，稳定且可持续发展，即生态系统随着时间的进程有活力并且能维持其组织及自主性，在外界胁迫下容易恢复。"
+  },
+  {
+   "cn": "生态系统健康评价",
+   "en": "ecosystem health evaluation",
+   "source": "风景园林名词",
+   "wordNumber": "12.0087",
+   "subjectFullName": "风景园林_风景园林生态_生态系统生态学",
+   "subjectName": "生态系统生态学",
+   "publishYear": "2025",
+   "definition": "综合生态学、社会经济、人类健康方面的原则和原理进行评价，将三个方面结合在一起构成的一个完整的评价体系。"
+  },
+  {
+   "cn": "生态系统",
+   "en": "ecosystem",
+   "source": "地质学名词",
+   "wordNumber": "18.03.010",
+   "subjectFullName": "地质学_环境地质学_农业生态地质环境",
+   "subjectName": "农业生态地质环境",
+   "publishYear": "2026",
+   "definition": "自然界的一定空间内，生物与环境构成的统一整体。在这一整体中，生物与环境相互影响、相互制约，并在一定时期内处于相对稳定的动态平衡状态。其范围可大可小，相互交错，太阳系就是一个生态系统；地球上最大的生态系"
+  },
+  {
+   "cn": "生态系统",
+   "en": "ecosystem",
+   "source": "风景园林名词",
+   "wordNumber": "12.0081",
+   "subjectFullName": "风景园林_风景园林生态_生态系统生态学",
+   "subjectName": "生态系统生态学",
+   "publishYear": "2025",
+   "definition": "在同一地域中的生物群落和非生物环境的复合体。"
+  },
+  {
+   "cn": "生态系统",
+   "en": "ecosystem",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "11.038",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_生态工业系统工程",
+   "subjectName": "生态工业系统工程",
+   "publishYear": "2024",
+   "definition": "在一定时空范围内，生物群落及其无机环境所组成的统一整体。根据人类影响可分为自然生态系统和人工生态系统。"
+  },
+  {
+   "cn": "生态系统",
+   "en": "ecosystem",
+   "source": "兽医学名词",
+   "wordNumber": "05.008",
+   "subjectFullName": "兽医学_兽医公共卫生学",
+   "subjectName": "兽医公共卫生学",
+   "publishYear": "2023",
+   "definition": "在一定空间范围内,植物、动物、真菌、微生物群落与其非生命环境,通过能量流动和物质循环而形成的相互作用、相互依存的动态复合体。"
+  },
+  {
+   "cn": "生态系统",
+   "en": "ecosystem ",
+   "source": "草学名词",
+   "wordNumber": "2.0232",
+   "subjectFullName": "草学_草地生态与草地培育_草地生态",
+   "subjectName": "草地生态",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "生态系统",
+   "en": "ecosystem",
+   "source": "动物学名词",
+   "wordNumber": "7.0504",
+   "subjectFullName": "动物学_动物生态学_生态系统生态学",
+   "subjectName": "生态系统生态学",
+   "publishYear": "2021",
+   "definition": "在一定空间范围内，所有生物（即生物群落）与其环境之间由于不断地进行物质循环和能量流动过程而形成的统一整体。是由生物群落和与之相互作用的自然环境以及其中的能量流过程构成的自然系统。"
+  },
+  {
+   "cn": "生态系统",
+   "en": "ecosystem",
+   "source": "计划生育名词",
+   "wordNumber": "01.159",
+   "subjectFullName": "计划生育_计划生育国策、生殖健康及人口学_人口学",
+   "subjectName": "人口学",
+   "publishYear": "2019",
+   "definition": "一定空间中的生物群落与其环境组成的系统。其中各成员借助能量流动和物质循环形成一个彼此关联、相互作用的统一整体。"
+  },
+  {
+   "cn": "生态系统",
+   "en": "ecosystem",
+   "source": "林学名词",
+   "wordNumber": "03.009",
+   "subjectFullName": "林学_森林生态、湿地与自然保护区_森林生态",
+   "subjectName": "森林生态",
+   "publishYear": "2016",
+   "definition": "在一定空间范围内，植物、动物、真菌、微生物群落与其非生命环境，通过能量流动和物质循环而形成的相互作用、相互依存的动态复合体。"
+  },
+  {
+   "cn": "生态系统",
+   "en": "ecosystem",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.430",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "在一定地表范围内相互关联、相互影响的生物群落及其环境形成的生态单位，它作为一个整体发挥作用。"
+  },
+  {
+   "cn": "生态系",
+   "en": "ecosystem",
+   "source": "古生物学名词",
+   "wordNumber": "05.0010",
+   "subjectFullName": "古生物学_古生态学、埋藏学、遗迹学_古生态学",
+   "subjectName": "古生态学",
+   "publishYear": "2009",
+   "definition": "特定环境与生物相互之间的综合体。"
+  },
+  {
+   "cn": "生态系统",
+   "en": "ecosystem",
+   "source": "大气科学名词",
+   "wordNumber": "08.137",
+   "subjectFullName": "大气科学_应用气象学",
+   "subjectName": "应用气象学",
+   "publishYear": "2009",
+   "definition": "生物群落及其地理环境相互作用的自然系统，由无机环境生物的生产者(绿色植物)、消费者(草食动物和肉食动物)以及分解者(腐生微生物)4部分组成。"
+  },
+  {
+   "cn": "生态系统",
+   "en": "ecosystem",
+   "source": "生态学名词",
+   "wordNumber": "07.001",
+   "subjectFullName": "生态学_生态系统生态学",
+   "subjectName": "生态系统生态学",
+   "publishYear": "2006",
+   "definition": "在一定空间范围内，植物、动物、真菌、微生物群落与其非生命环境，通过能量流动和物质循环而形成的相互作用、相互依存的动态复合体。"
+  },
+  {
+   "cn": "生态系统",
+   "en": "ecosystem",
+   "source": "地理学名词",
+   "wordNumber": "06.022",
+   "subjectFullName": "地理学_生物地理学",
+   "subjectName": "生物地理学",
+   "publishYear": "2006",
+   "definition": "由生物群落和与之相互作用的自然环境以及其中的能量流过程构成的系统。"
+  },
+  {
+   "cn": "生态系",
+   "en": "ecosystem",
+   "source": "水产名词",
+   "wordNumber": "01.022",
+   "subjectFullName": "水产_水产基础科学",
+   "subjectName": "水产基础科学",
+   "publishYear": "2002",
+   "definition": "生物群落及其与地理环境相互作用的自然系统。"
+  },
+  {
+   "cn": "生态系统",
+   "en": "ecosystem",
+   "source": "昆虫学名词",
+   "wordNumber": "06.001",
+   "subjectFullName": "昆虫学_昆虫生态学",
+   "subjectName": "昆虫生态学",
+   "publishYear": "2000",
+   "definition": "在一定空间范围内，所有生物因子和非生物因子，通过能量流动和物质循环过程形成彼此关联、相互作用的统一整体。"
+  },
+  {
+   "cn": "生态系[统]",
+   "en": "ecosystem",
+   "source": "地质学名词",
+   "wordNumber": "06.204",
+   "subjectFullName": "地质学_地球化学",
+   "subjectName": "地球化学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "生态系统重建",
+   "en": "ecosystem rehancement,ecosystem reconstruction",
+   "source": "生态学名词",
+   "wordNumber": "07.343",
+   "subjectFullName": "生态学_生态系统生态学",
+   "subjectName": "生态系统生态学",
+   "publishYear": "2006",
+   "definition": "将生态系统现有的状态进行改善，增加人类所期望的某些特点，降低某些人类所不希望的自然特点，改善的结果使生态系统远离其初始状态，但能提供更多的生态服务功能。"
+  },
+  {
+   "cn": "生态系[统]",
+   "en": "ecosystem",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生态系统",
+   "en": "ecosystem",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "生态系统",
+   "en": "ecosystem",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "生态系[统]",
+   "en": "ecosystem",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "生态系统",
+   "en": "ecosystem",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "生态系统",
+   "en": "ecosystem",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "生态系[统]",
+   "en": "ecosystem",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "生态系统",
+   "en": "ecosystem",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "草原生态系统",
+   "en": "grassland ecosystem",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生态系统多样性",
+   "en": "ecosystem diversity",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生态系统发育",
+   "en": "ecosystem development",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生态系统方法，生态系统途径",
+   "en": "ecosystem approach",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生态系统服务",
+   "en": "ecosystem service",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生态系统功能",
+   "en": "ecosystem function",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生态系统管理",
+   "en": "ecosystem management",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生态系统生态学",
+   "en": "ecosystem ecology",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生态系统途径（=生态系统方法）",
+   "en": "ecosystem approach",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生态系统稳定性",
+   "en": "ecosystem stability",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生态系统效率",
+   "en": "ecosystem efficiency",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "海洋生态系统",
+   "en": "marine ecosystem",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "Hadoop生态系统",
+   "en": "Hadoop ecosystem",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "平台生态系统",
+   "en": "platform ecosystem",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字化生态体系",
+   "en": "digital ecosystem",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "金融生态系统",
+   "en": "Financial Ecosystem",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "科技金融生态圈",
+   "en": "TechFin ecosystem",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络生态",
+   "en": "cyberspace ecosystem",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "金融科技产业生态",
+   "en": "Fintech Industry Ecosystem",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "健康筛查",
+   "en": "health screening",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "健康码",
+   "en": "health code  ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "卫生系统",
+   "en": "health system",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_百姓生活",
+   "subjectName": "百姓生活",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "卫生机构",
+   "en": "health institution",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_机构名称",
+   "subjectName": "机构名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "大数据技术生态体系",
+   "en": "big data technology ecosystem",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大数据创新生态体系",
+   "en": "big data innovation ecosystem",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中国生态系统研究网络",
+   "en": "Ecosystem Research Network (China)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "世界卫生组织",
+   "en": "World Health Organization",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "电子健康档案",
+   "en": " electronic health record",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "健康",
+   "en": "health",
+   "source": "军事预防医学名词",
+   "wordNumber": "17.1.1.1",
+   "subjectFullName": "军事预防医学_军队健康教育与健康促进_军队健康教育",
+   "subjectName": "军队健康教育",
+   "publishYear": "2025",
+   "definition": "不仅是没有疾病和衰弱状态，而是一种在身体上、精神上和社会适应上的完好状态。"
+  },
+  {
+   "cn": "健康",
+   "en": "health",
+   "source": "社会医学名词",
+   "wordNumber": "1.1.3",
+   "subjectFullName": "社会医学概述",
+   "subjectName": "社会医学",
+   "publishYear": "2025",
+   "definition": "身体、心理和社会适应的完好状态，而不仅仅是没有疾病或虚弱。"
+  },
+  {
+   "cn": "总体健康",
+   "en": "general health",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.1.4",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "个体对自身健康状态的综合判断。反映患者在疾病和治疗的影响下对自身健康总的感受，以及对未来生活的期望与选择。"
+  },
+  {
+   "cn": "健康公平",
+   "en": "health equity",
+   "source": "社会医学名词",
+   "wordNumber": "3.2",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "健康公平",
+   "publishYear": "2025",
+   "definition": "社会中的每个人都应有平等的机会获得卫生资源、服务和健康状态，不因社会地位不同而造成健康差异。"
+  },
+  {
+   "cn": "健康优先",
+   "en": "health priority",
+   "source": "社会医学名词",
+   "wordNumber": "1.1.8.9",
+   "subjectFullName": "社会医学概述",
+   "subjectName": "社会医学",
+   "publishYear": "2025",
+   "definition": "把健康摆在优先发展的战略地位，将促进健康的理念融入公共政策制定的全领域和实施的全过程。"
+  },
+  {
+   "cn": "健康责任",
+   "en": "health responsibility",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.064",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "政府、社区及个人对个体和群体健康所承担的义务。政府和社区应制定有助于促进个体和群体健康的政策，提供健康的环境；个人应保持健康的生活方式，为自身、他人及群体健康提供支持。"
+  },
+  {
+   "cn": "卫生管理人员",
+   "en": "health administrator",
+   "source": "消毒学",
+   "wordNumber": "5.1.10.1",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "消毒产品生产企业中从事卫生管理的人员。"
+  },
+  {
+   "cn": "健康效应",
+   "en": "health effect",
+   "source": "放射卫生学",
+   "wordNumber": "1.4",
+   "subjectFullName": "放射卫生学_放射卫生学",
+   "subjectName": "放射卫生学",
+   "publishYear": "2025",
+   "definition": "人体受到电离辐射照射引起的从变化、损伤、损害到危害的种种改变。"
+  },
+  {
+   "cn": "卫生监督",
+   "en": "health inspection",
+   "source": "放射卫生学",
+   "wordNumber": "8.6",
+   "subjectFullName": "放射卫生学_放射卫生监管",
+   "subjectName": "放射卫生监管",
+   "publishYear": "2025",
+   "definition": "行政机关依据法律法规的规定对个人、法人和组织从事与卫生有关的事项许可，对执行卫生法律法规的情况进行监督检查，并对违法行为做出处理的行政执法行动。"
+  },
+  {
+   "cn": "健康状况",
+   "en": "health status",
+   "source": "社会学名词",
+   "wordNumber": "3.11.2.7",
+   "subjectFullName": "社会学名词_分支社会学_医学社会学_健康现象与行为",
+   "subjectName": "健康现象与行为",
+   "publishYear": "2025",
+   "definition": "反映某个人或某个人群整体健康状况的指标，现有的健康状况指标有健康结果指标（发病率、死亡率等）、医疗服务利用指标（门诊数、住院天数等）、主观健康评价指标等。"
+  },
+  {
+   "cn": "健康职业",
+   "en": "health occupations",
+   "source": "社会学名词",
+   "wordNumber": "3.11.3.3",
+   "subjectFullName": "社会学名词_分支社会学_医学社会学_健康角色与关系",
+   "subjectName": "健康角色与关系",
+   "publishYear": "2025",
+   "definition": "泛指所有的健康服务提供职业，包括正式系统中的职业（如医生、护士、药剂师、牙医等），相关的健康工作者（如医学实验室人员、职业治疗师），以及替代医疗职业（比如针灸师）。"
+  },
+  {
+   "cn": "医疗专业",
+   "en": "health professions",
+   "source": "社会学名词",
+   "wordNumber": "3.11.3.4",
+   "subjectFullName": "社会学名词_分支社会学_医学社会学_健康角色与关系",
+   "subjectName": "健康角色与关系",
+   "publishYear": "2025",
+   "definition": "专业(profession）是一种需要广泛、系统性知识、技能或科学训练的职业。具备对知识体系的独占或垄断能力，并获得社会大众对此权威的认可，是专业不可或缺的要件。医疗专业即医疗领域中符合上述条件的职业"
+  },
+  {
+   "cn": "健康服务",
+   "en": "health care",
+   "source": "社会学名词",
+   "wordNumber": "3.11.4.1",
+   "subjectFullName": "社会学名词_分支社会学_医学社会学_健康服务与制度",
+   "subjectName": "健康服务与制度",
+   "publishYear": "2025",
+   "definition": "采用医疗和预防的手段，使个人身体保持健康，以及提高身体机能的服务。它的范围比医疗服务(medical care)更宽，还包括了预防服务，比如洗牙、健身等。"
+  },
+  {
+   "cn": "健康促进",
+   "en": "health promotion",
+   "source": "社会学名词",
+   "wordNumber": "3.11.4.5",
+   "subjectFullName": "社会学名词_分支社会学_医学社会学_健康服务与制度",
+   "subjectName": "健康服务与制度",
+   "publishYear": "2025",
+   "definition": "通过诸如健康检查、健康教育、健康咨询等公共卫生的手段，促进人们健康水平提供的一种方式。或是指20世纪60年代开始的一项社会运动，旨在将人们的注意力从只是关注疾病治疗转移到健康的生活习惯和行为上。"
+  },
+  {
+   "cn": "健康服务的消费主义",
+   "en": "health consumerism",
+   "source": "社会学名词",
+   "wordNumber": "3.11.5.3",
+   "subjectFullName": "社会学名词_分支社会学_医学社会学_健康与社会",
+   "subjectName": "健康与社会",
+   "publishYear": "2025",
+   "definition": "服务对象将健康服务当作一种商品，自行从市场上选择和购买他们认为最合适的服务的价值观和行为取向。这种意识在20世纪60年代后期开始出现，在其影响下，旧有的“医生—病人”关系向“提供者—消费者”关系转变，"
+  },
+  {
+   "cn": "环境健康",
+   "en": "environmental health",
+   "source": "社会学名词",
+   "wordNumber": "3.14.3.2",
+   "subjectFullName": "社会学名词_分支社会学_环境社会学_环境问题及其产生根源",
+   "subjectName": "环境问题及其产生根源",
+   "publishYear": "2025",
+   "definition": "有关人与环境相互作用导致的健康和疾病的研究、实践和社会关注的领域。"
+  },
+  {
+   "cn": "医疗保险",
+   "en": "health insurance",
+   "source": "社会学名词",
+   "wordNumber": "3.18.4.2",
+   "subjectFullName": "社会学名词_分支社会学_社会保障_医疗保险",
+   "subjectName": "医疗保险",
+   "publishYear": "2025",
+   "definition": "国家通过立法建立医疗保险基金，在社会成员患病需要医治时，根据疾病类型为其提供基本医疗费用补偿的一种社会保险制度。按照强制性社会保险原则，基本医疗保险费应由用人单位和职工个人按时足额缴纳。"
+  },
+  {
+   "cn": "卫生经济学",
+   "en": "health economics",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.1",
+   "subjectFullName": "卫生经济学名词_卫生经济学_卫生经济学",
+   "subjectName": "卫生经济学",
+   "publishYear": "2025",
+   "definition": "利用经济学基本理论和方法，研究卫生领域经济现象和规律的学科。"
+  },
+  {
+   "cn": "卫生体系",
+   "en": "health system",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.2",
+   "subjectFullName": "卫生经济学名词_卫生经济学_卫生体系",
+   "subjectName": "卫生体系",
+   "publishYear": "2025",
+   "definition": "以直接促进、恢复或维持健康为首要目标的组织、机构与资源的总称。一般认为，卫生体系目标包括健康、公众满意度和防范疾病经济风险等三个维度。"
+  },
+  {
+   "cn": "卫生信息",
+   "en": "health information",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.2.5",
+   "subjectFullName": "卫生经济学名词_卫生经济学_卫生体系",
+   "subjectName": "卫生体系",
+   "publishYear": "2025",
+   "definition": "首要目的用于维持和改善健康而收集、传输、处理、存贮、分配和分析利用的各种信息。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

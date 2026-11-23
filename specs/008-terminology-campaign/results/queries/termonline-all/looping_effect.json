@@ -1,0 +1,672 @@
+{
+ "key": "looping effect",
+ "term": "looping effect",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T15:38:21+00:00",
+ "status": "ok",
+ "note": "variant=looping effect; 审定公布名词库=5199; 海峡两岸名词对照库=1465; 其他来源数据库=128; 预公布名词数据库=245; jwt-direct（JWT 直连，raw 略；已滤维基 14 条）",
+ "hits": [
+  {
+   "cn": "环",
+   "en": "loop",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.0156",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "（1）蛋白质的一种二级结构。通常指连接α螺旋和（或）β片层的肽段，由5～16个氨基酸残基组成，比β转角更长，且其末端的两个氨基酸残基的距离较小。（2）核酸分子结构中的单链区。如RNA的茎环结构中的环。"
+  },
+  {
+   "cn": "Ω环",
+   "en": "Ω loop",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "2.0885",
+   "subjectFullName": "生物化学与分子生物学_氨基酸_肽与蛋白质_蛋白质_蛋白质结构及性质",
+   "subjectName": "蛋白质结构及性质",
+   "publishYear": "2024",
+   "definition": "存在于球状蛋白质中的一种二级结构。因此肽段形状似希腊字母Ω而得名。出现在蛋白质分子的表面，以亲水残基为主，在分子识别中可能起重要作用。"
+  },
+  {
+   "cn": "回路",
+   "en": "loop",
+   "source": "电力名词",
+   "wordNumber": "01.223",
+   "subjectFullName": "电力_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "其中每一个节点只经过一次的闭合路径。"
+  },
+  {
+   "cn": "蛇形管",
+   "en": "loops",
+   "source": "电力名词",
+   "wordNumber": "09.133",
+   "subjectFullName": "电力_锅炉",
+   "subjectName": "锅炉",
+   "publishYear": "2020",
+   "definition": "在一个平面内迂回弯制的受热面管排。"
+  },
+  {
+   "cn": "活套",
+   "en": "loop",
+   "source": "冶金学名词",
+   "wordNumber": "09.1357",
+   "subjectFullName": "冶金学_金属加工_设备及其计算理论、部件及自动化",
+   "subjectName": "设备及其计算理论、部件及自动化",
+   "publishYear": "2019",
+   "definition": "在连轧机组中，由于前架轧机的秒流量大于后架轧机的秒流量，使处于两个机架之间的轧件向上隆起的部分。"
+  },
+  {
+   "cn": "环路",
+   "en": "loop",
+   "source": "物理学名词",
+   "wordNumber": "03.0304",
+   "subjectFullName": "物理学_电磁学",
+   "subjectName": "电磁学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "环",
+   "en": "loop",
+   "source": "生物物理学名词",
+   "wordNumber": "02.023",
+   "subjectFullName": "生物物理学_分子与结构生物学_蛋白质结构",
+   "subjectName": "蛋白质结构",
+   "publishYear": "2018",
+   "definition": "蛋白质等大分子链中弯曲成Ω形的开环状结构。缺乏二级结构，其肽链主链几乎不参与连续、规则的氢键相互作用。"
+  },
+  {
+   "cn": "腕环",
+   "en": "loop",
+   "source": "古生物学名词",
+   "wordNumber": "02.0883",
+   "subjectFullName": "古生物学_古无脊椎动物学_腕足动物门",
+   "subjectName": "腕足动物门",
+   "publishYear": "2009",
+   "definition": "穿孔贝目中支持纤毛环的环状腕骨。"
+  },
+  {
+   "cn": "环台面",
+   "en": "loop",
+   "source": "古生物学名词",
+   "wordNumber": "02.1182",
+   "subjectFullName": "古生物学_古无脊椎动物学_分类位置未定",
+   "subjectName": "分类位置未定",
+   "publishYear": "2009",
+   "definition": "在舟刺(Gondolella)和新舟刺(Neogondolella)中围绕基底凹窝的环形台面。"
+  },
+  {
+   "cn": "袢",
+   "en": "loop",
+   "source": "细胞生物学名词",
+   "wordNumber": "07.154",
+   "subjectFullName": "细胞生物学_细胞遗传",
+   "subjectName": "细胞遗传",
+   "publishYear": "2009",
+   "definition": "大分子链中弯曲成Ω形的片段。留有缺口的大分子环形结构。"
+  },
+  {
+   "cn": "筋斗",
+   "en": "loop",
+   "source": "航空科学技术名词",
+   "wordNumber": "14.014",
+   "subjectFullName": "航空科学技术_飞行、飞行试验与测试技术",
+   "subjectName": "飞行、飞行试验与测试技术",
+   "publishYear": "2003",
+   "definition": "航空器在铅垂面内绕横轴旋转360°的飞行。"
+  },
+  {
+   "cn": "半波",
+   "en": "loop",
+   "source": "电气工程名词",
+   "wordNumber": "09.010",
+   "subjectFullName": "电气工程_开关设备和控制设备",
+   "subjectName": "开关设备和控制设备",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "环线",
+   "en": "loop",
+   "source": "铁道科学技术名词",
+   "wordNumber": "06.0421",
+   "subjectFullName": "铁道科学技术_铁道运输管理与运输经济",
+   "subjectName": "铁道运输管理与运输经济",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "箕形纹",
+   "en": "loop",
+   "source": "医学名词 第三分册",
+   "wordNumber": "01.276",
+   "subjectFullName": "医学_医学遗传学",
+   "subjectName": "医学遗传学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "环路",
+   "en": "loop",
+   "source": "化学工程名词",
+   "wordNumber": "05.050",
+   "subjectFullName": "化学工程_过程系统工程_过程模拟",
+   "subjectName": "过程模拟",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "自环",
+   "en": "loop",
+   "source": "数学名词",
+   "wordNumber": "03.0068",
+   "subjectFullName": "数学_组合学·一般数学系统_图论",
+   "subjectName": "图论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "幺拟群",
+   "en": "loop",
+   "source": "数学名词",
+   "wordNumber": "04.1975",
+   "subjectFullName": "数学_代数学_代数几何学_群论",
+   "subjectName": "群论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "环路",
+   "en": "loop",
+   "source": "电子学名词",
+   "wordNumber": "03.376",
+   "subjectFullName": "电子学_电子线路与网络",
+   "subjectName": "电子线路与网络",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "二氢尿嘧啶环",
+   "en": "dihydrouracil loop;DHU loop;D loop",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "4.029",
+   "subjectFullName": "生物化学与分子生物学_核酸_核酸结构_结构",
+   "subjectName": "结构",
+   "publishYear": "2024",
+   "definition": "tRNA二氢尿嘧啶臂中由8～12个核苷酸组成的一个环区。因该区域含有一个以上的二氢尿嘧啶（D）碱基而得名。"
+  },
+  {
+   "cn": "D环",
+   "en": "displacement loop;D loop",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0229",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_复制_损伤与修复_修复",
+   "subjectName": "修复",
+   "publishYear": "2024",
+   "definition": "DNA同源重组时，在重组酶（细菌为RecA）的参与下，一个同源DNA双链分子中的一条单链与另一个同源DNA双链分子中对应的互补链结合所产生的环状结构。因形状类似于大写英文字母D而得名。"
+  },
+  {
+   "cn": "环路，回路",
+   "en": "loop",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "环",
+   "en": "loop",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "袢，环",
+   "en": "loop",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "环",
+   "en": "loop",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "环路",
+   "en": "loop",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "循环",
+   "en": "loop",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "腕环",
+   "en": "loop",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "二氢尿嘧啶环, D环",
+   "en": "dihydrouracil loop\",\"D loop",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "替代环, D环",
+   "en": "displacement loop\",\"D-loop",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "D环,替代环",
+   "en": "displacement loop\",\"D loop",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "缺失环",
+   "en": "deletion loop\",\"deficiency loop",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "台风打转",
+   "en": "typhoon looping",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "肠袢",
+   "en": "intestinal loop",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "[大]脑脚袢",
+   "en": "peduncular loop",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "反馈环（=反馈回路）",
+   "en": "feedback loop",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "反馈回路，反馈环",
+   "en": "feedback loop",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "球室袢",
+   "en": "bulboventricular loop",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "肾单位袢",
+   "en": "nephron loop",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "锁骨下袢",
+   "en": "subclavian loop",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "心袢",
+   "en": "heart loop",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "绳环",
+   "en": "loop",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "转圈",
+   "en": "loop",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "弦圈",
+   "en": "string loop",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "圈量子引力",
+   "en": "loop quantum gravity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社群反馈回路",
+   "en": "community feedback loop",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "弧线球",
+   "en": "effect\",\"swerve",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "接种环",
+   "en": "inoculating loop",
+   "source": "消毒学",
+   "wordNumber": "6.2.3.9.5",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "将接种针顶端弯曲成3～4mm直径的环状，用于接种取样和平板划线纯种分离的工具。"
+  },
+  {
+   "cn": "冷却剂环路",
+   "en": "coolant loop",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.4.6",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护",
+   "subjectName": "核工业的放射防护",
+   "publishYear": "2025",
+   "definition": "与反应堆压力容器相连的反应堆冷却剂循环回路的并联流道。"
+  },
+  {
+   "cn": "效应",
+   "en": "effect",
+   "source": "军事预防医学名词",
+   "wordNumber": "16.1.1.3.1",
+   "subjectFullName": "军事预防医学_军事毒理学_军事毒理学基础",
+   "subjectName": "军事毒理学基础",
+   "publishYear": "2025",
+   "definition": "暴露一定剂量外源化学物后造成的个体、器官或组织的生物学改变，是量反应，变化的程度用计量单位表示。"
+  },
+  {
+   "cn": "效应",
+   "en": "effect",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.6",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "暴露一定剂量外源化学物后所引起的一个生物个体、器官或组织的生物学改变"
+  },
+  {
+   "cn": "效果",
+   "en": "effectiveness",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.4.1",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "因卫生服务而带来的包括疾病治愈、身体功能恢复、生活质量提升以及预期寿命延长等健康改善的结果。"
+  },
+  {
+   "cn": "一次性接种环",
+   "en": "disposable inoculating loop",
+   "source": "消毒学",
+   "wordNumber": "6.2.27.17",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "前端为环状，可蘸取菌种涂布于培养基上的塑料材质的一次性灭菌物品。"
+  },
+  {
+   "cn": "效应生物标志物",
+   "en": "effect biomarker",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.2.26",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "机体中可识别的生理、生化、行为或体内的其他改变，反映与不同靶剂量外源化学物或其代谢物有关联的健康有害效应信息的指标，包括反映早期生物效应、结构和（或）功能改变及疾病三类生物标志物"
+  },
+  {
+   "cn": "消毒效果",
+   "en": "disinfection effect",
+   "source": "消毒学",
+   "wordNumber": "1.1.13",
+   "subjectFullName": "消毒学_消毒学_消毒",
+   "subjectName": "消毒",
+   "publishYear": "2025",
+   "definition": "消毒处理的结果，一般用杀灭率或杀灭对数值表示。"
+  },
+  {
+   "cn": "灭菌效果",
+   "en": "sterilization effect",
+   "source": "消毒学",
+   "wordNumber": "1.2.12",
+   "subjectFullName": "消毒学_消毒学_灭菌",
+   "subjectName": "灭菌",
+   "publishYear": "2025",
+   "definition": "灭菌处理的结果，应达到灭菌保证水平，灭菌保证水平一般达到10-6。"
+  },
+  {
+   "cn": "暗示疗效",
+   "en": "suggestive effect",
+   "source": "消毒学",
+   "wordNumber": "5.2.5.4.2",
+   "subjectFullName": "消毒学_监督管理_产品监管",
+   "subjectName": "产品监管",
+   "publishYear": "2025",
+   "definition": "在消毒产品宣传中暗示消毒产品具有对某种疾病的治疗效果。"
+  },
+  {
+   "cn": "杀菌效果",
+   "en": "bactericidal effect",
+   "source": "消毒学",
+   "wordNumber": "6.2.26.7.4",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "消毒因子作用目标菌后，其活菌数量减少的程度，通常以杀灭率或杀灭对数值表示。"
+  },
+  {
+   "cn": "健康效应",
+   "en": "health effect",
+   "source": "放射卫生学",
+   "wordNumber": "1.4",
+   "subjectFullName": "放射卫生学_放射卫生学",
+   "subjectName": "放射卫生学",
+   "publishYear": "2025",
+   "definition": "人体受到电离辐射照射引起的从变化、损伤、损害到危害的种种改变。"
+  },
+  {
+   "cn": "光电效应",
+   "en": "photoelectric effect",
+   "source": "放射卫生学",
+   "wordNumber": "3.1.26",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_核物理基本概念",
+   "subjectName": "核物理基本概念",
+   "publishYear": "2025",
+   "definition": "光子与原子束缚电子发生作用，光子把全部能量交给电子使其克服束缚能而离开原子，而光子自身消失的过程。"
+  },
+  {
+   "cn": "康普顿效应",
+   "en": "Compton effect",
+   "source": "放射卫生学",
+   "wordNumber": "3.1.27",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_核物理基本概念",
+   "subjectName": "核物理基本概念",
+   "publishYear": "2025",
+   "definition": "光子与自由电子（原子的外层电子可视为自由电子）发生散射的过程。在此过程中，入射光子把部分能量和动量传递给电子，使其脱离原子，而入射光子本身改变其能量和运动方向。前者称反冲电子，后者称散射光子。"
+  },
+  {
+   "cn": "随机效应",
+   "en": "stochastic effect",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.1.1.1",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2025",
+   "definition": "辐射诱发的健康效应，其发生概率随辐射剂量的增加而增加，而效应的严重程度与辐射剂量大小无关。其发生一般无阈剂量水平。包括各种实体癌和白血病。"
+  },
+  {
+   "cn": "早期效应",
+   "en": "early effect",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.1.1.3",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2025",
+   "definition": "机体受到电离辐射照射后数月（一般为3个月）内发生的损伤效应，例如胃肠道反应、白细胞降低、皮肤受照后出现局部红斑等。"
+  },
+  {
+   "cn": "远后效应",
+   "en": "late effect",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.1.1.4",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2025",
+   "definition": "人体受到电离辐射照射，在受照后数月、数年或数十年出现的病理变化，或急性放射损伤未恢复而迁延成经久不愈的病变。"
+  },
+  {
+   "cn": "躯体效应",
+   "en": "somatic effect",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.1.1.5",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2025",
+   "definition": "发生在受照射者自身的放射生物效应。"
+  },
+  {
+   "cn": "遗传效应",
+   "en": "genetic effect",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.1.1.6",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2025",
+   "definition": "电离辐射对受照者后代产生的随机效应。电离辐射通过损伤亲代生殖细胞的遗传物质，使其遗传性状的表型改变在子代中显现出来。"
+  },
+  {
+   "cn": "氧效应",
+   "en": "oxygen effect",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.1.1.12",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2025",
+   "definition": "受照射的生物体、组织、细胞或分子的辐射效应随介质中氧浓度的增加而增加的效应。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

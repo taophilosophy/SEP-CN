@@ -1,0 +1,792 @@
+{
+ "key": "ontological turn",
+ "term": "ontological turn",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T15:39:17+00:00",
+ "status": "ok",
+ "note": "variant=ontological turn; 审定公布名词库=795; 海峡两岸名词对照库=95; 其他来源数据库=62; 预公布名词数据库=23; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "本体论",
+   "en": "ontology",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.001",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "知识信息概念模型的规范说明，以实现知识信息共享。"
+  },
+  {
+   "cn": "本体",
+   "en": "ontology",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.01.135",
+   "subjectFullName": "编辑与出版学_数字出版_综述",
+   "subjectName": "综述",
+   "publishYear": "2022",
+   "definition": "知识的形式化说明，通常由概念、概念之间的关系、公理、规则组成。"
+  },
+  {
+   "cn": "本体",
+   "en": "ontology",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.106",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "对概念体系的明确的、形式化、可共享的规范说明。定义了组成主题领域的词汇表的基本术语及其关系，以及结合这些术语和关系来定义词汇表外延的规则。"
+  },
+  {
+   "cn": "本体",
+   "en": "ontology",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0671",
+   "subjectFullName": "计算机科学技术_人工智能_知识工程",
+   "subjectName": "知识工程",
+   "publishYear": "2018",
+   "definition": "对一个论域中存在的概念及其关系和性质的可共享的、形式化的、显现的描述；使用该本体所建立的模型可以被其他人员或系统共享。"
+  },
+  {
+   "cn": "本体",
+   "en": "ontology",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0777",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_知识管理",
+   "subjectName": "知识管理",
+   "publishYear": "2016",
+   "definition": "对一个特定领域中重要的共享概念的明确的形式化描述。包括①概念化，即客观对象的抽象模型；明确，即概念及它们之间的联系都被精确定义；②形式化，即精确的数学描述；共享，即本体所反映的知识是使用者共同认可的。"
+  },
+  {
+   "cn": "本体论",
+   "en": "ontology",
+   "source": "教育学名词",
+   "wordNumber": "01.090",
+   "subjectFullName": "教育学_教育基本理论",
+   "subjectName": "教育基本理论",
+   "publishYear": "2013",
+   "definition": "哲学的一个分支。研究存在的本质、变化的意义、宇宙的目的和意图、人类是否有自由意志等问题。"
+  },
+  {
+   "cn": "本体知识体系",
+   "en": "ontology",
+   "source": "语言学名词",
+   "wordNumber": "11.012",
+   "subjectFullName": "语言学_计算语言学_总论",
+   "subjectName": "总论",
+   "publishYear": "2011",
+   "definition": "对概念体系的明确的、形式化的、可共享的规范。“概念体系”指所描述的客观世界的现象中有关概念的抽象模型，“明确”指对于所使用的概念的类型以及概念用法的约束都明确地加以定义，“形式化”指本体知识体系应该是"
+  },
+  {
+   "cn": "通用本体",
+   "en": "general ontology,common ontology",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.111",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "用于描述若干个领域知识的一种专门本体。可在多个领域实现复用。"
+  },
+  {
+   "cn": "语义本体",
+   "en": "linguistic ontology,semantic ontology",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.108",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "主要的语义概念和这些概念之间的关系，以及它们之间的组织方式。"
+  },
+  {
+   "cn": "本体论承诺",
+   "en": "ontological commitment",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.258",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "蒯因提出的一个哲学概念。一个理论的本体论承诺就是该理论所指称和量化的对象的总体。用蒯因的话说，“存在就是约束变元的值”。"
+  },
+  {
+   "cn": "本体论节俭",
+   "en": "ontological parsimony",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.259",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "一个评价与取舍候选理论的原则。如果T1在本体论上比T2更节俭，即做出更少的本体论承诺，则在其他情况一样的条件下，优先选择T1。是奥卡姆剃刀原则的强化版本。"
+  },
+  {
+   "cn": "本体论中性",
+   "en": "ontological neutrality",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.590",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "一个命题或判断不依赖于其本体论预设。"
+  },
+  {
+   "cn": "本体论自然主义",
+   "en": "ontological naturalism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.591",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "认为自然的特性、自然事件和自然个体是唯一存在的特性、事件和个体，即那些可以被自然科学研究的对象才是唯一存在的。"
+  },
+  {
+   "cn": "工程本体论",
+   "en": "engineering ontology",
+   "source": "自然辩证法名词",
+   "wordNumber": "05.003",
+   "subjectFullName": "自然辩证法_工程哲学_工程哲学概论",
+   "subjectName": "工程哲学概论",
+   "publishYear": "2024",
+   "definition": "对工程本根或本体的认识和研究。强调工程相对于科学和技术的独立地位与基础地位，强调工程是直接生产力，是人类生存与发展的根本基础。"
+  },
+  {
+   "cn": "媒介本体论",
+   "en": "media ontology",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.081",
+   "subjectFullName": "新闻学与传播学_传播总论_传播研究基础",
+   "subjectName": "传播研究基础",
+   "publishYear": "2022",
+   "definition": "探讨媒介存在方式的学说。该学说反对形式-内容二元论，强调媒介物所扮演的基础性角色，认为媒介物以各种方式聚合起来，组织和安排了人与外部世界之间的关系，构成了人的生存境况。"
+  },
+  {
+   "cn": "地理本体",
+   "en": "geo-ontology",
+   "source": "测绘学名词",
+   "wordNumber": "05.013",
+   "subjectFullName": "测绘学_地理信息工程",
+   "subjectName": "地理信息工程",
+   "publishYear": "2020",
+   "definition": "地理信息科学领域共享概念的明确的形式化规范。"
+  },
+  {
+   "cn": "领域本体",
+   "en": "domain ontology",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.112",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "用于描述特定领域知识的一种专门本体。是揭示领域实体概念及相互关系、领域活动以及该领域所具有的特性和规律的一种形式化描述。可以明确专业术语、关系及其领域公理，使其形式化，并可实现共享，达到一定程度的领域"
+  },
+  {
+   "cn": "应用本体",
+   "en": "application ontology",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.114",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "特定领域和任务的概念以及概念之间的关系。"
+  },
+  {
+   "cn": "方法本体",
+   "en": "method ontology",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.116",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "用来描述问题求解方法的相关概念以及概念之间的关系。"
+  },
+  {
+   "cn": "本体映射",
+   "en": "ontology mapping",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.121",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "两个本体存在语义级的概念关联，通过关联，实现将源本体的实例映射到目标本体的过程。是两个异构本体实现互操作的基本方法。"
+  },
+  {
+   "cn": "回音",
+   "en": "turn",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "转换",
+   "en": "turn",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "转动",
+   "en": "turn",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "β转角",
+   "en": "β-turn\",\"β-bend\",\"reverse turn",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "回转试验",
+   "en": "turning test\",\"turning trial",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "内旋",
+   "en": "inward turning\",\"inboard turning",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "经济转型",
+   "en": "economic turn",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "文化转向",
+   "en": "cultural turn",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "顺序表",
+   "en": "turn table",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "转换阻抗",
+   "en": "turn impedance",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "匝比",
+   "en": "turn ratio",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "单向旋回法",
+   "en": "single turn",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "加速旋回",
+   "en": "acceleration turn",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "紧急回转",
+   "en": "emergency turn",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "绕一道（圈）",
+   "en": "round turn",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "威廉逊旋回法",
+   "en": "Williamson turn",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "β转角",
+   "en": "β-turn\",\"β-bend",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "转点",
+   "en": "turning point",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "内旋",
+   "en": "inward turning",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "水下旋回",
+   "en": "underwater turning",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "本体论",
+   "en": "ontology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "转身",
+   "en": "turn",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "转身",
+   "en": "turn",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "转身",
+   "en": "turn",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_游泳名词",
+   "subjectName": "游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "转身",
+   "en": "turn",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "回转",
+   "en": "turn",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "旋转720度",
+   "en": "720° turn",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "旋转转身",
+   "en": "culbute turn\",\"spin turn",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_游泳名词",
+   "subjectName": "游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "转体",
+   "en": "turn\",\"twist",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "逆转",
+   "en": "turn over",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "分段转",
+   "en": "split turn",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "转体三周",
+   "en": "tripple-turn",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自行车折返点",
+   "en": "cycle turn",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "急转弯",
+   "en": "acute turn",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "折返点",
+   "en": "run turn",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "游泳折返点",
+   "en": "swim turn",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "蛙泳转身",
+   "en": "breaststroke turn",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_游泳名词",
+   "subjectName": "游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "仰泳转身",
+   "en": "backstroke turn",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_游泳名词",
+   "subjectName": "游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "本体论",
+   "en": "ontology",
+   "source": "马克思主义",
+   "wordNumber": "01.0008",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "关于世界的存在及其本质的学说。思维与存在、物质和意识何者是本原、何者是第一性的问题是本体论的核心问题。"
+  },
+  {
+   "cn": "希望本体论",
+   "en": "hope ontology",
+   "source": "马克思主义",
+   "wordNumber": "05.0064",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "萨特晚年提出的概念。在关于人的存在的本体论基础的思考上，萨特回到了著名哲学家布洛赫的希望理论，强调人是希望的主体，而希望不是简单的心理学范畴，而是一个本体论范畴，是人的生存的本体论结构。希望也是社会进"
+  },
+  {
+   "cn": "教育本体论",
+   "en": "education ontology",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.014",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "研究教育存在的最一般特征，它与人的本体论有极大关系，人要获得做人的价值和社会价值，具有存在的意义，必须借助教育；而教育要体现自身的存在，则要通过人，受教育者获得的价值越高，教育的存在就表现得越充分，教"
+  },
+  {
+   "cn": "自然本体论态度",
+   "en": "natural ontological attitude",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.194",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "由A. 法因（A. Fine）提出。认为科学无须依赖实在论和非实在论所给出的形而上学和认识论基础，尽量追随科学家的立场，无须给出额外的哲学解释。"
+  },
+  {
+   "cn": "尚未存在本体论",
+   "en": "ontology of notyetbeing",
+   "source": "马克思主义",
+   "wordNumber": "05.0020",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "德国哲学家恩斯特·布洛赫（Ernst Bloch）提出的本体论理论。布洛赫通过批判二元思维的机械性、静止性与“无人”的自然科学，指出给定存在论的危害在于抹杀了人作为精神性主体对自身、对世界的存在意义；"
+  },
+  {
+   "cn": "语言学转向",
+   "en": "linguistic turn",
+   "source": "社会学名词",
+   "wordNumber": "3.13.2.18",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的相关范式思路",
+   "subjectName": "历史社会学的相关范式思路",
+   "publishYear": "2025",
+   "definition": "主张历史考察要以语言为切入点的后社会史研究路径。1970年代中期以后，西方史学研究所经历的文化转向和人类学转向，以及此后结构主义和后结构主义的兴起，都对历史学家和社会学家转向文化和语言起到了重要推动作"
+  },
+  {
+   "cn": "文化转向",
+   "en": "cultural turn",
+   "source": "社会学名词",
+   "wordNumber": "3.13.2.19",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的相关范式思路",
+   "subjectName": "历史社会学的相关范式思路",
+   "publishYear": "2025",
+   "definition": "一种认为史学研究应把重心从以经济和社会角度说明一切的总体史理论模式转向文化范畴的主张。根据这种主张，文化范畴并非仅仅是物质范畴的某种功能，史学研究必须从人的信念与其社会经济期望之间的互动作用上说明个体"
+  },
+  {
+   "cn": "撤回指导水平",
+   "en": "turn-back guidance level",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.10.1",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "一个在直读式个人剂量计上的积分剂量读数值，超过这一数值时应急工作人员剂量指导水平已被超过，该应急工作人员应当离开这个可能出现更高剂量的区域。"
+  },
+  {
+   "cn": "科学哲学的社会-历史转向",
+   "en": "socio-historical turn of philosophy of science",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.136",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "以库恩为代表的科学史研究与以强纲领和科学知识社会学为代表的社会科学社会学研究表明，逻辑经验论难以说明科学史和科学实践中的科学知识的产生和运作的真实状态，科学哲学需要关注科学的历史性和社会性因素。"
+  },
+  {
+   "cn": "子宫颈细胞学检查",
+   "en": "cervical cytological test",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.10.2.1.2",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_妇女常见病防治",
+   "subjectName": "妇女常见病防治",
+   "publishYear": "2025",
+   "definition": "通过采集子宫颈鳞柱上皮交接处转化区脱落细胞样本、样本制片和阅片，并对子宫颈细胞有无病变及病变程度进行描述的宫颈癌筛查方法。"
+  },
+  {
+   "cn": "热烧伤",
+   "en": "thermal burn",
+   "source": "放射卫生学",
+   "wordNumber": "4.2.7.3",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射性疾病",
+   "subjectName": "放射性疾病",
+   "publishYear": "2025",
+   "definition": "高温引起生物体表和深层真皮的损伤。光辐射损伤的边界清楚，创面干燥。"
+  },
+  {
+   "cn": "儿童烧伤",
+   "en": "child burn",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.1.1.7",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "由于热力、化学物质、电流及放射线等因素作用于儿童所引起的组织损伤。主要指皮肤和/或黏膜，严重者也可伤及皮下和/或黏膜下组织，如肌肉、骨、关节甚至内脏。"
+  },
+  {
+   "cn": "德国土耳其人",
+   "en": "German Turk",
+   "source": "民族学与文化学名词",
+   "wordNumber": "6.0274",
+   "subjectFullName": "民族学与文化学_世界民族_欧洲地区",
+   "subjectName": "欧洲地区",
+   "publishYear": "2025",
+   "definition": "在德国的土耳其人分为持有德国护照的土耳其人和有在德国长久居住权的土耳其人两部分。为德国境内最大的少数族裔群体。其来源是1961 德土两国政府签署的招工协议框架下来到德国的土耳其工人及其家属。"
+  },
+  {
+   "cn": "光辐射烧伤",
+   "en": "thermal radiation burn",
+   "source": "放射卫生学",
+   "wordNumber": "7.1.3.9",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核爆炸方式与杀伤效应",
+   "subjectName": "核爆炸方式与杀伤效应",
+   "publishYear": "2025",
+   "definition": "主要是光辐射火球阶段（第二脉冲）所释放的能量造成的烧伤。其特点是：（1）烧伤多发生在朝向爆心的部位，尤其以暴露部位为重；（2）烧伤深度多比较浅表和均匀；（3）眼睑和角膜呈暴露状易发生烧伤。"
+  },
+  {
+   "cn": "光辐射烧伤",
+   "en": "thermal radiation burn",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.2.2",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核武器杀伤效应",
+   "subjectName": "核武器杀伤效应",
+   "publishYear": "2025",
+   "definition": "核爆炸产生的光辐射直接或间接作用于人员和物体，引起体表组织结构的破坏及其带来局部或全身性反应。"
+  },
+  {
+   "cn": "烧冻复合伤",
+   "en": "burn-frostbit combined injury",
+   "source": "军事预防医学名词",
+   "wordNumber": "3.7.2",
+   "subjectFullName": "军事预防医学_寒区军事卫生_寒区战创伤",
+   "subjectName": "寒区战创伤",
+   "publishYear": "2025",
+   "definition": "烧伤伤员的运动能力下降，遇寒冷环境后，在烧伤的基础上容易并发冻伤的现象。"
+  },
+  {
+   "cn": "放烧复合伤",
+   "en": "combined radiation-burn injury",
+   "source": "放射卫生学",
+   "wordNumber": "4.2.7.4.1",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射性疾病",
+   "subjectName": "放射性疾病",
+   "publishYear": "2025",
+   "definition": "人体同时或相继发生以放射损伤为主，复合烧伤的一类复合损伤。"
+  },
+  {
+   "cn": "刀耕火种",
+   "en": "slash-and-burn agriculture",
+   "source": "社会学名词",
+   "wordNumber": "4.2.9.30",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化现象",
+   "subjectName": "文化现象",
+   "publishYear": "2025",
+   "definition": "砍伐树木、枯根朽茎后将其焚烧作肥料，去除杂草与害虫并烧热地面，改良土壤的习俗。本质不在于焚烧耕地，而在于它是不断开垦新的耕地的移动性耕作方式。"
+  },
+  {
+   "cn": "儿童烧烫伤",
+   "en": "child burn and scald",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "8.2.6",
+   "subjectFullName": "妇幼卫生学名词_伤害与暴力_儿童伤害",
+   "subjectName": "儿童伤害",
+   "publishYear": "2025",
+   "definition": "由于外界刺激对儿童皮肤或器官造成的损害，主要包括热力烧伤、化学烧伤、电烧伤和放射烧伤四种类型。由于对热能敏感、动作协调能力差、好奇和缺少恐惧感，儿童是烧烫伤的主要受害者。"
+  },
+  {
+   "cn": "烧伤科伦理",
+   "en": "ethics of burn department",
+   "source": "医学伦理学名词",
+   "wordNumber": "5.069",
+   "subjectFullName": "医学伦理学_临床诊疗伦理",
+   "subjectName": "临床诊疗伦理",
+   "publishYear": "2025",
+   "definition": "在诊治烧伤患者的过程中涉及的伦理问题及医务人员应遵循的伦理规范。包括及时抢救的使命感和责任感；注重环境卫生，预防交叉感染；严格执行无菌操作，重视消毒隔离制度；重视重度烧伤患者的早期整形等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,782 @@
+{
+ "key": "jian bai",
+ "term": "jian bai",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T15:38:12+00:00",
+ "status": "ok",
+ "note": "variant=jian bai; 审定公布名词库=1666; 海峡两岸名词对照库=216; 其他来源数据库=63; 预公布名词数据库=49; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "检简",
+   "en": "jian jian",
+   "source": "档案学名词",
+   "wordNumber": "08.02.006",
+   "subjectFullName": "档案学_中国档案事业史_档案工作制度",
+   "subjectName": "档案工作制度",
+   "publishYear": "2024",
+   "definition": "宋代档案鉴定制度。按照规定非长期保存的公文文书保管期限为十年，每三年对架阁（即已归档）文书开展一次检查鉴定，凡需销毁的，申报上级差官完毕后可销毁。凡需长期留存的，要移存别库架阁，并在原登记簿上用红笔注"
+  },
+  {
+   "cn": "笺",
+   "en": "jian",
+   "source": "档案学名词",
+   "wordNumber": "07.01.063",
+   "subjectFullName": "档案学_历史文书_文书称谓（含文种）",
+   "subjectName": "文书称谓（含文种）",
+   "publishYear": "2024",
+   "definition": "魏晋开始上书皇后、太子、诸王等主要用于礼仪庆贺的文书。"
+  },
+  {
+   "cn": "海湾",
+   "en": "bay",
+   "source": "风景园林名词",
+   "wordNumber": "04.0132",
+   "subjectFullName": "风景园林_风景名胜_风景名胜资源",
+   "subjectName": "风景名胜资源",
+   "publishYear": "2025",
+   "definition": "被陆地环绕且面积不小于以口门宽度为直径的半圆面积的海域。"
+  },
+  {
+   "cn": "骝毛",
+   "en": "bay",
+   "source": "畜牧学名词",
+   "wordNumber": "02.307",
+   "subjectFullName": "畜牧学_饲养管理_马饲养",
+   "subjectName": "马饲养",
+   "publishYear": "2020",
+   "definition": "马的主体毛色为红色或黄色，而长毛及四肢下部为黑色。一般分为黄骝毛和枣骝毛等。"
+  },
+  {
+   "cn": "开间",
+   "en": "bay",
+   "source": "建筑学名词",
+   "wordNumber": "01.0128",
+   "subjectFullName": "建筑学_总论_建筑模数及基本参数",
+   "subjectName": "建筑模数及基本参数",
+   "publishYear": "2014",
+   "definition": "建筑物纵向两个相邻的墙或柱中心线之间的距离。"
+  },
+  {
+   "cn": "间",
+   "en": "bay",
+   "source": "建筑学名词",
+   "wordNumber": "03.0017",
+   "subjectFullName": "建筑学_中外建筑历史_中国古代建筑史(史前~公元1911年)",
+   "subjectName": "中国古代建筑史(史前~公元1911年)",
+   "publishYear": "2014",
+   "definition": "(1)梁柱构成的建筑空间基本单元，每四根金柱(外金柱)内所围成的面积。(2)房屋平面宽、深的度量单位。从房屋正中向两边依次称为明间、次间、稍间、尽间，其总间数多为单数。"
+  },
+  {
+   "cn": "排位",
+   "en": "bay",
+   "source": "航海科技名词",
+   "wordNumber": "11.0216",
+   "subjectFullName": "航海科学技术_客货运输",
+   "subjectName": "客货运输",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "安装间",
+   "en": "erection bay,assembly bay",
+   "source": "电力名词",
+   "wordNumber": "14.252",
+   "subjectFullName": "电力_水工与金属结构",
+   "subjectName": "水工与金属结构",
+   "publishYear": "2020",
+   "definition": "在机组安装和检修时摆放、组装和检修主要部件的场地。"
+  },
+  {
+   "cn": "颚[基]湾",
+   "en": "capitular bay,infracapitular bay",
+   "source": "昆虫学名词",
+   "wordNumber": "11.022",
+   "subjectFullName": "昆虫学_蜱螨学",
+   "subjectName": "蜱螨学",
+   "publishYear": "2000",
+   "definition": "由第一对足基节板围成的U形或V形环。"
+  },
+  {
+   "cn": "笺函",
+   "en": "jian han",
+   "source": "档案学名词",
+   "wordNumber": "07.01.189",
+   "subjectFullName": "档案学_历史文书_文书称谓（含文种）",
+   "subjectName": "文书称谓（含文种）",
+   "publishYear": "2024",
+   "definition": "是公函的简式，民国时期通用文书。内容多属无关紧要的事项，通常用普通信笺，由机关主管部门具名发出。"
+  },
+  {
+   "cn": "签尖",
+   "en": "qian jian",
+   "source": "风景园林名词",
+   "wordNumber": "07.0468",
+   "subjectFullName": "风景园林_风景园林建筑_砖作",
+   "subjectName": "砖作",
+   "publishYear": "2025",
+   "definition": "墙顶上或斜坡或圆坡部分。"
+  },
+  {
+   "cn": "见面",
+   "en": "jian mian",
+   "source": "档案学名词",
+   "wordNumber": "07.03.036",
+   "subjectFullName": "档案学_历史文书_文书制度",
+   "subjectName": "文书制度",
+   "publishYear": "2024",
+   "definition": "奏折的处理制度。朱批“另有旨”“即有旨”及未奉朱批之折，军机大臣皆另贮黄匣，捧入请旨办理，称为“见面”。"
+  },
+  {
+   "cn": "检校",
+   "en": "jian jiao",
+   "source": "档案学名词",
+   "wordNumber": "08.03.035",
+   "subjectFullName": "档案学_中国档案事业史_文档官吏",
+   "subjectName": "文档官吏",
+   "publishYear": "2024",
+   "definition": "元代检查、核实文书档案的制度。据《元史》卷八十五载：中书省设检校官四员，掌检校左右司六部公事期限和文牍稽失之事。"
+  },
+  {
+   "cn": "干摆",
+   "en": "gan bai",
+   "source": "风景园林名词",
+   "wordNumber": "07.0488",
+   "subjectFullName": "风景园林_风景园林建筑_砖作",
+   "subjectName": "砖作",
+   "publishYear": "2025",
+   "definition": "古建筑中较讲究的墙体和砌筑方法。经干摆的墙面外表十分整洁，砖缝很细，不易辨别。"
+  },
+  {
+   "cn": "下碱",
+   "en": "xia jian",
+   "source": "风景园林名词",
+   "wordNumber": "07.0466",
+   "subjectFullName": "风景园林_风景园林建筑_砖作",
+   "subjectName": "砖作",
+   "publishYear": "2025",
+   "definition": "清代官式建筑墙体的下部。"
+  },
+  {
+   "cn": "山尖",
+   "en": "shan jian",
+   "source": "风景园林名词",
+   "wordNumber": "07.0470",
+   "subjectFullName": "风景园林_风景园林建筑_砖作",
+   "subjectName": "砖作",
+   "publishYear": "2025",
+   "definition": "山墙上身以上之三角形部分。"
+  },
+  {
+   "cn": "监照",
+   "en": "jian zhao",
+   "source": "档案学名词",
+   "wordNumber": "07.01.139",
+   "subjectFullName": "档案学_历史文书_文书称谓（含文种）",
+   "subjectName": "文书称谓（含文种）",
+   "publishYear": "2024",
+   "definition": "中国古代最高学府国子监发给捐纳者的监生执照，也就是监生的学历证书。监生资格的捐纳始于明代景泰年间，至清代更加泛滥。"
+  },
+  {
+   "cn": "拣除",
+   "en": "jian chu",
+   "source": "档案学名词",
+   "wordNumber": "08.02.003",
+   "subjectFullName": "档案学_中国档案事业史_档案工作制度",
+   "subjectName": "档案工作制度",
+   "publishYear": "2024",
+   "definition": "唐代档案鉴定制度。每三年对不需要长期保存的文件进行一次剔除。该制度是中国列入法典的最早的档案鉴定制度。"
+  },
+  {
+   "cn": "清检",
+   "en": "qing jian",
+   "source": "档案学名词",
+   "wordNumber": "08.02.009",
+   "subjectFullName": "档案学_中国档案事业史_档案工作制度",
+   "subjectName": "档案工作制度",
+   "publishYear": "2024",
+   "definition": "对档案进行清理、编卷的过程。清检有“清点、查检”之义。"
+  },
+  {
+   "cn": "湾坝",
+   "en": "bay bar",
+   "source": "海洋科技名词",
+   "wordNumber": "02.1107",
+   "subjectFullName": "海洋科学技术_海洋科学_海洋地质学、海洋地球物理学、海洋地理学和河口海岸学",
+   "subjectName": "海洋地质学、海洋地球物理学、海洋地理学和河口海岸学",
+   "publishYear": "2007",
+   "definition": "海湾区的沙坝，由波浪进入海湾发生折射，能量降低，使泥沙流容量也降低，在波能降为零处形成的堆积体。"
+  },
+  {
+   "cn": "黄雾",
+   "en": "bai",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "颚[基]湾",
+   "en": "capitular bay\",\"infracapitular bay",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "拦湾坝",
+   "en": "bay bar",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "海湾",
+   "en": "bay\",\"gulf",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "湾冰",
+   "en": "bay ice",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "冲积扇湾",
+   "en": "fan bay",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "哈得孙湾",
+   "en": "Hudson Bay",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "历史性海湾",
+   "en": "historic bay",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "陆缘湾",
+   "en": "front bay",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "瓶颈湾",
+   "en": "bottleneck bay",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "瓦维斯湾",
+   "en": "Walvis Bay",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "中继线架，干线架",
+   "en": "trunk bay",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "海湾",
+   "en": "gulf\",\"bay\",\"bight",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "漏斗海湾",
+   "en": "funnel-shaped bay",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "月桂油",
+   "en": "bay oil\",\"laurel oil",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "孟加拉湾风暴",
+   "en": "storm of Bay of Bengal",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "唐璜",
+   "en": "Don Juan",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Strauss, Richard"
+  },
+  {
+   "cn": "贾耽",
+   "en": "Jia Dan",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "巴(旧的气压单位)",
+   "en": "bar",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "棒材",
+   "en": "bar",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "枣红马",
+   "en": "bay",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "建安风骨",
+   "en": "The Jian'an Literary Style",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "粤港澳大湾区",
+   "en": "Guangdong-Hong Kong-Macao Greater Bay Area",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "粤港澳大湾区",
+   "en": "Guangdong-Hong Kong-Macao Greater Bay Area",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "粤港澳大湾区发展规划纲要",
+   "en": "Outline Development Plan for the Guangdong-Hong Kong-Macao Greater Bay Area",
+   "source": "重大国家战略常用关键词英文译法",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "天",
+   "en": "Tian (Heaven)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "蝙蝠",
+   "en": "bat ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_百姓生活",
+   "subjectName": "百姓生活",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "横杠",
+   "en": "bar",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "球棒",
+   "en": "bat",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "汲水",
+   "en": "bail",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "横杠",
+   "en": "bar",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "沙袋",
+   "en": "heavy bag\",\"punch bag\",\"punching bag",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "背包",
+   "en": "bonk bag\",\"shoulder bag",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "球童",
+   "en": "bat boy\",\"bat girl",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "足",
+   "en": "bal\",\"foot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "横杆",
+   "en": "bar\",\"crossbar",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "击球",
+   "en": "bat\",\"hit",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "白族",
+   "en": "Bai",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0438",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "民族名称。主要分布在云南省，部分在贵州、四川等省。人口209.15 万人（2021 年，未包括香港、澳门特别行政区和台湾省数据）。使用白语，属汉藏语系藏缅语族；通用汉语文。白族先民早在公元1 世纪前就"
+  },
+  {
+   "cn": "百夷",
+   "en": "Bai Yi",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0121",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "古族名。云南西南部古代少数民族的泛称。今傣族与之有直接渊源关系。明人钱古训、李思聪《百夷传》载：“俗有大百夷、小百夷、漂人、古剌、哈剌、缅人、结些、吟杜、弩人、蒲蛮、阿昌等名,故曰百夷。”"
+  },
+  {
+   "cn": "白语",
+   "en": "Bai language",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0212",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族语言",
+   "subjectName": "少数民族语言",
+   "publishYear": "2025",
+   "definition": "中国白族使用的语言。属汉藏语系藏缅语族，语支未定，有人认为属彝语支。主要分布在中国云南省大理白族自治州。分南、中、北3 个方言。使用人口约130 万人。汉语借词较多。曾使用汉字结构的白文记写白语。"
+  },
+  {
+   "cn": "白文",
+   "en": "Bai character",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0367",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族文字",
+   "subjectName": "少数民族文字",
+   "publishYear": "2025",
+   "definition": "一种仿汉字系文字。始于唐代。现存有石刻碑文和铜器铭文，古代白文书籍已经失传。现代白族民间艺人仍用白文写大本曲、民歌等。"
+  },
+  {
+   "cn": "百越",
+   "en": "Bai Yue",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0146",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "古代南方越人的总称。以支系繁多，故名。比如句吴、于越、东瓯、扬越、闽越、南越、西瓯、骆越、滇越等。分布甚广，从东部到南部沿海诸省乃至西南的云贵高原。与今壮侗语族有渊源关系。"
+  },
+  {
+   "cn": "白蛮",
+   "en": "Bai Man",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0123",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "古族名。“白蛮”即“白彝”，为当今白族之先民，由汉、晋时期之僰人演变而来。最早分布于四川西部与云南境内，参考汉族对今彝族凉山地区遗留至今之奴隶制度中的阶级称呼，白蛮属于被统治阶级。"
+  },
+  {
+   "cn": "白爨",
+   "en": "Bai Cuan",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0139",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "元代一般以白蛮为白爨。"
+  },
+  {
+   "cn": "毌丘俭纪功碑",
+   "en": "Guanqiu Jian Contribution Inscription",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.031",
+   "subjectFullName": "民族学与文化学_民族史_民族文化",
+   "subjectName": "民族文化",
+   "publishYear": "2025",
+   "definition": "曹魏时期安邑侯毌丘俭平定高句丽反叛所立的纪功碑。由赭红色含石英粒岩石凿刻而成。1906 年，发现于吉林集安。仅碑之左上角残存。"
+  },
+  {
+   "cn": "建州三卫",
+   "en": "Jian Zhou San Wei",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0239",
+   "subjectFullName": "民族学与文化学_民族史_民族政治",
+   "subjectName": "民族政治",
+   "publishYear": "2025",
+   "definition": "明朝于东北地区建州女真聚居地区所置三个地方军事行政机构之合称。包括建州卫、建州左卫、建州右卫。由朝廷委任各部首领；依照旧俗，各统其属。"
+  },
+  {
+   "cn": "《白古通纪》",
+   "en": "Complete Annals of Ancient Bai People",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0301",
+   "subjectFullName": "民族学与文化学_民族史_民族文化",
+   "subjectName": "民族文化",
+   "publishYear": "2025",
+   "definition": "全名为《白古通玄峰年运志》，简称《白古通》；作者不详。是一部用白文撰写的白族历史典籍，大约成书于元末或明初。"
+  },
+  {
+   "cn": "鲜卑",
+   "en": "Xian Bei",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0029",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "古族名。为东胡一支。魏晋南北朝时期建立北魏、吐谷浑等众多政权。上述政权瓦解后，逐渐融合于汉族及其他民族。"
+  },
+  {
+   "cn": "小年",
+   "en": "Xiao Nian",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0231",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "通常指扫尘、祭灶的日子，被视为“忙年”的开始。由于南北各地风俗不同，被称为“小年”的日子也不尽相同。北方大部分地区称腊月二十三/腊月二十四的祭灶节为小年，江浙沪一带的很多地区称正月初五为小年，中国国内"
+  },
+  {
+   "cn": "三级联创",
+   "en": "three lian",
+   "source": "马克思主义",
+   "wordNumber": "03.0751",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "在县、乡镇和村三级党组织中，开展的以“五个好”村党组织、乡镇党委和农村基层组织建设先进县为主要内容的创建活动。该活动同时把创建基层满意的县直涉农部门和群众满意的乡镇站所也纳入“三级联创”活动中，把县、"
+  },
+  {
+   "cn": "阮咸",
+   "en": "Ruan Xian",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0647",
+   "subjectFullName": "民族学与文化学_民族史_新疆研究",
+   "subjectName": "新疆研究",
+   "publishYear": "2025",
+   "definition": "弹拨乐器，古琵琶的一种。在新疆克孜尔等佛窟壁画中常见，可知为西域乐舞主要乐器之一。现代阮发展到十二品，大、中、小三种形制，是器乐合奏、伴奏中的重要乐器。"
+  },
+  {
+   "cn": "勉语",
+   "en": "Mian language",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.029",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族语言",
+   "subjectName": "少数民族语言",
+   "publishYear": "2025",
+   "definition": "自称为“勉”的瑶族、海南省自称“金门”的苗族所使用的语言。属汉藏语系苗瑶语族瑶语支。分布在广西、湖南、云南、广东、海南、贵州、江西。使用人口约90 万人。分勉、金门、标敏、藻敏4 个方言。越南、老挝、"
+  },
+  {
+   "cn": "姜戎",
+   "en": "Jiang Rong",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0086",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "古族名。武王灭商同盟军主力之一。周宣王伐姜戎，战于千亩；申侯引犬戎颠覆西周；秦襄公统治关中时，羌戎各族骤然崛起。石鼓山3 号墓高领袋足鬲被认为是姜戎部族典型器物，户氏属于姜戎贵族代表。"
+  },
+  {
+   "cn": "幼年银屑病性关节炎",
+   "en": "psoriatic JIA",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.13.7",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_儿童风湿免疫病",
+   "subjectName": "儿童风湿免疫病",
+   "publishYear": "2025",
+   "definition": "16岁以下起病，1个或更多的关节炎合并银屑病，或关节炎合并以下任何2项：①指（趾）炎；②指甲凹陷或指甲脱离；③家族史中一级亲属有银屑病。"
+  },
+  {
+   "cn": "幼年未分化关节炎",
+   "en": "undefined JIA",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.13.8",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_儿童风湿免疫病",
+   "subjectName": "儿童风湿免疫病",
+   "publishYear": "2025",
+   "definition": "不符合任何一项JIA或符合两项以上JIA的关节炎。"
+  },
+  {
+   "cn": "傣族",
+   "en": "Dai",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0443",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "民族名称。主要聚居在云南省南部和西部地区。人口132.99 万人（2021 年，未包括香港、澳门特别行政区和台湾省数据）。使用傣语，属汉藏语系壮侗语族壮傣语支；有自己的文字傣文。自古以来傣族先民就生息"
+  },
+  {
+   "cn": "巴氐",
+   "en": "Badi",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0093",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "古族名。氐人的一支。魏武帝时，首领李虎率族人归附，迁居于略阳北（今甘肃秦安县东南）。西晋元康  （291－299）年间大量流入四川。西晋太安二年（303），首领李特建立成汉政权。后渐融入各民族中。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

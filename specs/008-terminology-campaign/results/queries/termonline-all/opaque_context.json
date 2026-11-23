@@ -1,0 +1,762 @@
+{
+ "key": "opaque context",
+ "term": "opaque context",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T15:39:26+00:00",
+ "status": "ok",
+ "note": "variant=opaque context; 审定公布名词库=1580; 海峡两岸名词对照库=386; 其他来源数据库=99; 预公布名词数据库=99; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "不透明",
+   "en": "opaque",
+   "source": "地质学名词",
+   "wordNumber": "03.01.065",
+   "subjectFullName": "地质学_矿物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "透明程度的等级之一。矿物基本不允许可见光通过的特征。隔着矿物完全不能见到另一侧物体。矿物常具黑色或金属色条痕。"
+  },
+  {
+   "cn": "不透明",
+   "en": "opaque",
+   "source": "地质学名词",
+   "wordNumber": "04.187",
+   "subjectFullName": "地质学_矿物学",
+   "subjectName": "矿物学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "背景",
+   "en": "context",
+   "source": "档案学名词",
+   "wordNumber": "06.01.018",
+   "subjectFullName": "档案学_电子文件管理_综合",
+   "subjectName": "综合",
+   "publishYear": "2024",
+   "definition": "文件所处的环境。文件的构成要素之一。文件的背景信息包括文件之间的相互关系、形成文件的业务活动、文件的技术环境等。"
+  },
+  {
+   "cn": "语境",
+   "en": "context",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.122",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "构成事件、陈述、观念的背景的情境条件。它们据此才能得到完整的理解与评价。"
+  },
+  {
+   "cn": "语境",
+   "en": "context",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.067",
+   "subjectFullName": "新闻学与传播学_传播总论_传播研究基础",
+   "subjectName": "传播研究基础",
+   "publishYear": "2022",
+   "definition": "沟通行为或交往活动发生的环境或场合。为理解沟通行为与现象提供的背景和参照。"
+  },
+  {
+   "cn": "上下文",
+   "en": "context",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.101",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_检索技术与方法",
+   "subjectName": "检索技术与方法",
+   "publishYear": "2019",
+   "definition": "位于关键词前部或后部的词句或文字。它是关键词所处的语言环境，影响关键词的含义。通过阅读上下文，有助于理解和鉴别某关键词所具有的准确含义和用法，判断文献是否相关。"
+  },
+  {
+   "cn": "语境",
+   "en": "context",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0884",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "语言（自然语言或人工语言）上下文环境。它包括语言因素，也包括非语言因素（特别是当涉及自然语言的时候）。"
+  },
+  {
+   "cn": "情景",
+   "en": "context",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0385",
+   "subjectFullName": "计算机科学技术_数据库_数据库新技术",
+   "subjectName": "数据库新技术",
+   "publishYear": "2018",
+   "definition": "事件发生时的背景、环境、时间、空间等因素。"
+  },
+  {
+   "cn": "语境",
+   "en": "context",
+   "source": "心理学名词",
+   "wordNumber": "02.798",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "话语等语言学信息与说话的场所等非语言信息提供的背景。"
+  },
+  {
+   "cn": "文脉",
+   "en": "context",
+   "source": "建筑学名词",
+   "wordNumber": "07.0324",
+   "subjectFullName": "建筑学_城乡规划_城市设计",
+   "subjectName": "城市设计",
+   "publishYear": "2014",
+   "definition": "建筑与周围环境的关系。其形成在历史、社会、文化、时间等维度上存在着发展的连续性。"
+  },
+  {
+   "cn": "菌肉",
+   "en": "context",
+   "source": "微生物学名词",
+   "wordNumber": "03.305",
+   "subjectFullName": "微生物学_微生物形态与结构",
+   "subjectName": "微生物形态与结构",
+   "publishYear": "2012",
+   "definition": "层菌在担子果的上表面与子实下层或菌髓之间的菌丝组织。"
+  },
+  {
+   "cn": "小麦粉质",
+   "en": "wheat opaque",
+   "source": "农学名词",
+   "wordNumber": "17.086",
+   "subjectFullName": "农产品贮运与加工_粮食加工",
+   "subjectName": "粮食加工",
+   "publishYear": "2025",
+   "definition": "淀粉颗粒之间有空隙，组织疏松，呈石灰状的胚乳结构。"
+  },
+  {
+   "cn": "不透明体",
+   "en": "opaque body",
+   "source": "物理学名词",
+   "wordNumber": "04.1613",
+   "subjectFullName": "物理学_光学、声学_光学_光谱学、激光、非线性光学",
+   "subjectName": "光谱学、激光、非线性光学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "不透明涂饰",
+   "en": "opaque painting",
+   "source": "林学名词",
+   "wordNumber": "11.615",
+   "subjectFullName": "林学_木材科学与技术_家具与木制品",
+   "subjectName": "家具与木制品",
+   "publishYear": "2016",
+   "definition": "用含有颜料的不透明涂料(如调合漆、磁漆、色漆等)涂饰工件表面，形成不透明的漆膜，以完全遮盖木材的纹理和颜色以及表面缺陷的一种涂饰方法。"
+  },
+  {
+   "cn": "非透明介质",
+   "en": "opaque medium",
+   "source": "计量学名词",
+   "wordNumber": "13.174",
+   "subjectFullName": "计量学_光学_光谱光度",
+   "subjectName": "光谱光度",
+   "publishYear": "2015",
+   "definition": "在特定的光谱区，不透或几乎不透辐射的介质。"
+  },
+  {
+   "cn": "暗视野遮光板",
+   "en": "opaque disc",
+   "source": "微生物学名词",
+   "wordNumber": "09.010",
+   "subjectFullName": "微生物学_微生物学技术",
+   "subjectName": "微生物学技术",
+   "publishYear": "2012",
+   "definition": "暗视野显微镜为改变光线途径形成暗视场特备的光学装置。"
+  },
+  {
+   "cn": "不透明体",
+   "en": "opaque body",
+   "source": "电气工程名词",
+   "wordNumber": "22.088",
+   "subjectFullName": "电气工程_电气照明",
+   "subjectName": "电气照明",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "遮盖片",
+   "en": "opaque disk",
+   "source": "医学名词 第五分册",
+   "wordNumber": "03.266",
+   "subjectFullName": "医学_眼科学_眼科检查",
+   "subjectName": "眼科检查",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "不透明光阴极",
+   "en": "opaque photocathode",
+   "source": "电子学名词",
+   "wordNumber": "10.022",
+   "subjectFullName": "电子学_真空电子学",
+   "subjectName": "真空电子学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "奥帕克2突变体",
+   "en": "opaque-2 mutant",
+   "source": "农学名词",
+   "wordNumber": "06.344",
+   "subjectFullName": "作物基因组学与遗传育种_作物遗传改良",
+   "subjectName": "作物遗传改良",
+   "publishYear": "2025",
+   "definition": "玉米中一种含粉质胚乳及高赖氨酸的突变体。广泛应用于优质蛋白玉米的培育。"
+  },
+  {
+   "cn": "修改液",
+   "en": "opaque",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "填墨",
+   "en": "opaquing",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "语境",
+   "en": "context",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "语境，上下文",
+   "en": "context",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "浑浊层，不透明层",
+   "en": "opaque layer",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "半透明的",
+   "en": "semi-opaque",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "乳浊玻璃",
+   "en": "opaque glass",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "不透明釉",
+   "en": "opaque glaze",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "不透明光阴极",
+   "en": "opaque photocathode",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "菌肉",
+   "en": "context\",\"flesh",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "情境特殊性",
+   "en": "context specificity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "情境依赖",
+   "en": "context dependent",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "上下文效应,语境效应，背景效应",
+   "en": "context effect",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "地域背景",
+   "en": "areal context",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "服务器上下文（环境）",
+   "en": "server context",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "上下文切换",
+   "en": "context switch",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "语境分析，上下文分析",
+   "en": "context analysis",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "语境机制",
+   "en": "context mechanism",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "不透明",
+   "en": "non-transparent\",\"opaque",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "乳浊釉",
+   "en": "opal glaze\",\"opaque glaze",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "上下文无关语言",
+   "en": "context-free language",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "内容制作",
+   "en": "content creation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "内容法定",
+   "en": "statutory content",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无效比赛",
+   "en": "no contest",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "比赛区",
+   "en": "contest area",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "比赛垫",
+   "en": "contest mat",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "停止比赛",
+   "en": "stop contest",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "比赛时间",
+   "en": "contest time",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "接触！",
+   "en": "Contact!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "剑身接触",
+   "en": "contact",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "接触",
+   "en": "contact",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "触球",
+   "en": "touch\",\"ball contact\",\"contact",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "衔接",
+   "en": "connect\",\"connecting",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "文质",
+   "en": "Form and Content",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "内容管理框架",
+   "en": "content management framework",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "背景图",
+   "en": "context chart",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.3",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "角色和群体间的相互关系构成的网络图形。用以表现个体行为所产生的组织背景。"
+  },
+  {
+   "cn": "文化语境",
+   "en": "cultural context",
+   "source": "社会学名词",
+   "wordNumber": "4.2.3.6",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化人类学基本概念",
+   "subjectName": "文化人类学基本概念",
+   "publishYear": "2025",
+   "definition": "源于语言学及语义学分析，在文本与语境的关系中，特指个别文化事象置身其中、并赖以发生意义的整体性系统。"
+  },
+  {
+   "cn": "语境",
+   "en": "linguistic context",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0106",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "影响语言发生变异的社会环境。也指言语交际活动所处的社会环境，包括情景和社会文化背景。研究语言变异不能离开具体的语言使用的社会环境，是社会语言学有别于一般语言学的一个特征。"
+  },
+  {
+   "cn": "民俗语境",
+   "en": "folklore context",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0499",
+   "subjectFullName": "民族学与文化学_民俗学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "民俗赖以生成和传演的环境以及赋予民俗以特殊意义的上下文关系。其中“上下文”既可以是一个民俗单元内的上下文，也可以是作为整体民俗与其他相关元素组成的结构关系。"
+  },
+  {
+   "cn": "言语交际情景",
+   "en": "situational context",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0117",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "由话题、参与者、场所、社会背景等构成的言语交际活动的情况。"
+  },
+  {
+   "cn": "疾病的文化解释",
+   "en": "cultural context of illness",
+   "source": "社会学名词",
+   "wordNumber": "3.11.5.4",
+   "subjectFullName": "社会学名词_分支社会学_医学社会学_健康与社会",
+   "subjectName": "健康与社会",
+   "publishYear": "2025",
+   "definition": "影响健康和疾病定义的具体的社会文化因素。现有的研究显示，文化差异会造成对疼痛、饥饿等客观生理现象的不同主观体验，也会造成对疾病的不同解释，以及对身体各个器官的重视程度的不同等。"
+  },
+  {
+   "cn": "内容",
+   "en": "content",
+   "source": "马克思主义",
+   "wordNumber": "01.0056",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“形式”相对。指构成事物内部各种要素的总和，是事物存在的基础。它包括事物的各种内在矛盾以及由这些矛盾所决定的事物的特征、运动的过程和发展的趋势等。"
+  },
+  {
+   "cn": "噬斑",
+   "en": "bacteriophage plaque",
+   "source": "消毒学",
+   "wordNumber": "6.2.26.8.10.1",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "病毒感染宿主细胞后，宿主细胞溶解死亡，在固体培养基表面形成的肉眼可见的透明空斑。"
+  },
+  {
+   "cn": "牙菌斑",
+   "en": "dental plaque",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.2.6.3",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测",
+   "subjectName": "学生常见疾病监测",
+   "publishYear": "2025",
+   "definition": "一种寄居在牙齿表面以细菌为主体的生态系，是引发龋病和牙周病等口腔疾病的主要病因。"
+  },
+  {
+   "cn": "内毒素含量",
+   "en": "endotoxin content",
+   "source": "消毒学",
+   "wordNumber": "6.2.31.1.1",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "革兰氏阴性菌合成的存在于细菌细胞壁最外层的脂多糖的含量。"
+  },
+  {
+   "cn": "内容分析",
+   "en": "content analysis",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.15",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "以系统和定量的方式刻画给定文本的意义的分析技术。"
+  },
+  {
+   "cn": "内容效度",
+   "en": "content validity",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.76",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "有某个量度符合测量目的和要求的程度来测量其效度的方法。"
+  },
+  {
+   "cn": "竞争性流动",
+   "en": "contest mobility",
+   "source": "社会学名词",
+   "wordNumber": "3.10.3.13",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学家的社会角色",
+   "subjectName": "科学家的社会角色",
+   "publishYear": "2025",
+   "definition": "描述科学界地位流动的概念。科学界的精英地位是由有抱负的科学研究者通过自身努力、公开竞争获得的；竞争者之间是一种公平竞争的关系，并且竞争获得的精英地位也不是由原来精英所能够决定的。"
+  },
+  {
+   "cn": "报告内容",
+   "en": "report content",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.6.1.4.5",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学校突发公共卫生事件管理",
+   "subjectName": "学校突发公共卫生事件管理",
+   "publishYear": "2025",
+   "definition": "责任报告单位和责任报告人在获得突发公共卫生事件相关信息后，对于符合报告要求的事件按照由下至上报告的原则，向所在地区人民政府卫生行政部门或有关单位报告事件信息和事件发生、发展、控制过程的信息。"
+  },
+  {
+   "cn": "酒精度",
+   "en": "alcohol content",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.12.5.2",
+   "subjectFullName": "食品卫生学_食品_酒类",
+   "subjectName": "酒类",
+   "publishYear": "2025",
+   "definition": "以蒸馏法去除样品中的不挥发性物质，用密度瓶法测出试样（酒精水溶液）20 度时的密度，求得在20 度时乙醇含量的体积分数。"
+  },
+  {
+   "cn": "内容分析",
+   "en": "content analysis",
+   "source": "社会医学名词",
+   "wordNumber": "4.2.3.2",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "定性研究",
+   "publishYear": "2025",
+   "definition": "对定性调查所获取信息资料的内容作结构化分析的方法。"
+  },
+  {
+   "cn": "内容效度",
+   "en": "content validity",
+   "source": "社会医学名词",
+   "wordNumber": "4.9.2.2",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "量表",
+   "publishYear": "2025",
+   "definition": "评价量表所涉及的内容，能在多大程度上覆盖研究目的要求达到的各个方面和领域。是一个由专家主观评价的测量结果与试图要达到的目标之间接近程度的指标。"
+  },
+  {
+   "cn": "概念",
+   "en": "concept",
+   "source": "马克思主义",
+   "wordNumber": "01.0205",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "反映事物的本质特征和内部联系的思维形式，是人类理性认识的基本形式之一。概念的产生是感性反映形式上升到理性反映形式的标志。"
+  },
+  {
+   "cn": "安全水分",
+   "en": "Safe Moisture content",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.1.15",
+   "subjectFullName": "食品卫生学_食品_粮食",
+   "subjectName": "粮食",
+   "publishYear": "2025",
+   "definition": "在利用完好仓储设施储粮并采取科学保粮措施的条件下，保证粮食安全度夏储存的水分含量。"
+  },
+  {
+   "cn": "阳极热容量",
+   "en": "anode heat content",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.53",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "加载期间累积或加载后保留在X射线管阳极中的热量瞬间值。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

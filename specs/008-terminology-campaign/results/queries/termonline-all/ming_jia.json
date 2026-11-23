@@ -1,0 +1,722 @@
+{
+ "key": "ming jia",
+ "term": "ming jia",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T15:38:30+00:00",
+ "status": "ok",
+ "note": "variant=ming jia; 审定公布名词库=3113; 海峡两岸名词对照库=383; 其他来源数据库=124; 预公布名词数据库=40; jwt-direct（JWT 直连，raw 略；已滤维基 9 条）",
+ "hits": [
+  {
+   "cn": "命家",
+   "en": "ming jia;prestiguos family",
+   "source": "中国古代史名词",
+   "wordNumber": "3.149",
+   "subjectFullName": "中国古代史_秦汉_社会经济_身份户丁",
+   "subjectName": "身份户丁",
+   "publishYear": "2022",
+   "definition": "有爵命的人家。汉有此称，依其爵位等级，享有一定的优待和特权。"
+  },
+  {
+   "cn": "名家",
+   "en": "Ming Jia;School of Names",
+   "source": "中国古代史名词",
+   "wordNumber": "2.381",
+   "subjectFullName": "中国古代史_先秦_思想文化_思想学术",
+   "subjectName": "思想学术",
+   "publishYear": "2022",
+   "definition": "以辨析“名”“实”关系为中心的思想流派。战国时期其代表人物有公孙龙、宋钘、尹文、邓析、惠施等，著名命题有“白马非马”、“离坚白”等，讲究逻辑和辩论术。其学说对魏晋以来玄学影响较大。"
+  },
+  {
+   "cn": "命",
+   "en": "ming",
+   "source": "档案学名词",
+   "wordNumber": "07.01.002",
+   "subjectFullName": "档案学_历史文书_文书称谓（含文种）",
+   "subjectName": "文书称谓（含文种）",
+   "publishYear": "2024",
+   "definition": "西周用来授官赐爵的文书，其中往往对受封者有所诰戒，故诰与命往往合称，广义的命也包括诰在内。"
+  },
+  {
+   "cn": "明朝",
+   "en": "Ming Chao;Ming Dynasty",
+   "source": "中国古代史名词",
+   "wordNumber": "8.001",
+   "subjectFullName": "中国古代史_明清_政治_朝代更替",
+   "subjectName": "朝代更替",
+   "publishYear": "2022",
+   "definition": "公元1368年朱元璋建立的王朝。朱元璋发迹于元末红巾军郭子兴部，后据有应天（今江苏南京）一带，陆续平定陈友谅、张士诚、方国珍等势力，于此年正月称帝，国号大明，定都南京，分兵北伐，于年底占领大都（今北京"
+  },
+  {
+   "cn": "名籍",
+   "en": "ming ji",
+   "source": "档案学名词",
+   "wordNumber": "07.01.209",
+   "subjectFullName": "档案学_历史文书_文书称谓（含文种）",
+   "subjectName": "文书称谓（含文种）",
+   "publishYear": "2024",
+   "definition": "以人为主轴逐项编制而成的一种簿籍文书。常见于出土的秦汉简牍文书，汉简的出土实物尤为丰富。"
+  },
+  {
+   "cn": "诰命",
+   "en": "gao ming",
+   "source": "档案学名词",
+   "wordNumber": "07.01.042",
+   "subjectFullName": "档案学_历史文书_文书称谓（含文种）",
+   "subjectName": "文书称谓（含文种）",
+   "publishYear": "2024",
+   "definition": "中国古代帝王诏令文书之一。帝王发布的用于封赠高级官员的命令，南宋始称诰命。用于“应文武官迁改职秩、内外命妇除授及封叙、赠典，应合命词”。明初定封赠一品至五品皆授诰命，清沿明制。"
+  },
+  {
+   "cn": "敕命",
+   "en": "chi ming",
+   "source": "档案学名词",
+   "wordNumber": "07.01.044",
+   "subjectFullName": "档案学_历史文书_文书称谓（含文种）",
+   "subjectName": "文书称谓（含文种）",
+   "publishYear": "2024",
+   "definition": "明清时期用于封赠六品以下官员的封赠文书，清代还用于授予世袭有一定次数的爵位。"
+  },
+  {
+   "cn": "南明",
+   "en": "Nan Ming;Southern Ming Kingdom",
+   "source": "中国古代史名词",
+   "wordNumber": "8.007",
+   "subjectFullName": "中国古代史_明清_政治_朝代更替",
+   "subjectName": "朝代更替",
+   "publishYear": "2022",
+   "definition": "明朝灭亡后，南方各地相继拥立其宗室成员所建的多个政权。皆以承明自居，主要有福王朱由崧的南京弘光政权、鲁王朱以海的绍兴鲁监国政权、唐王朱聿键的福州隆武政权、宗室朱聿?的广州绍武政权和桂王朱由榔的肇庆永历"
+  },
+  {
+   "cn": "夹片",
+   "en": "jia pian",
+   "source": "档案学名词",
+   "wordNumber": "07.01.079",
+   "subjectFullName": "档案学_历史文书_文书称谓（含文种）",
+   "subjectName": "文书称谓（含文种）",
+   "publishYear": "2024",
+   "definition": "清代高级官员夹附于奏折内进呈的、向皇帝奏报政务时的上行文书，通常为事件分量较轻、不必单独成折或不便在原折中叙述之事。"
+  },
+  {
+   "cn": "架阁",
+   "en": "jia ge",
+   "source": "档案学名词",
+   "wordNumber": "08.03.024",
+   "subjectFullName": "档案学_中国档案事业史_文档官吏",
+   "subjectName": "文档官吏",
+   "publishYear": "2024",
+   "definition": "以架阁形式保存文书档案的机构。所谓“架”，古意解释为“材木相乘”，就是用若干木材纵横交叉，构成支撑物体，放置器物的架子。“阁”通“搁”，有“载”意。有时亦指主管架阁库的职官。宋代有掌架阁的库官,管储藏"
+  },
+  {
+   "cn": "甲库",
+   "en": "jia ku",
+   "source": "档案学名词",
+   "wordNumber": "08.04.013",
+   "subjectFullName": "档案学_中国档案事业史_文档机构",
+   "subjectName": "文档机构",
+   "publishYear": "2024",
+   "definition": "唐朝所设立保存官员甲历的机构。甲历是记载官员的职名、履历、考绩以及考选、授官等情况的档案。尚书省、中书省和门下省三省皆设有甲库。甲库内设官分职，玄宗时，尚书省吏部甲库由员外郎、主事各一人专管，中书、门"
+  },
+  {
+   "cn": "郏鄏",
+   "en": "Jia Ru;Jia Ru City",
+   "source": "中国古代史名词",
+   "wordNumber": "2.499",
+   "subjectFullName": "中国古代史_先秦_历史地理",
+   "subjectName": "历史地理",
+   "publishYear": "2022",
+   "definition": "西周东都洛邑的别称。因洛北有郏山得名。"
+  },
+  {
+   "cn": "驾帖",
+   "en": "jia tie;jia tie warrant",
+   "source": "中国古代史名词",
+   "wordNumber": "8.323",
+   "subjectFullName": "中国古代史_明清_政治_文书",
+   "subjectName": "文书",
+   "publishYear": "2022",
+   "definition": "明东厂、锦衣卫执行逮捕或取押死囚赴刑的凭证。"
+  },
+  {
+   "cn": "明通榜",
+   "en": "ming tong bang;ming tong list",
+   "source": "中国古代史名词",
+   "wordNumber": "8.213",
+   "subjectFullName": "中国古代史_明清_政治_官员管理",
+   "subjectName": "官员管理",
+   "publishYear": "2022",
+   "definition": "科举会试录取后，于落选卷内挑选文理通明者另出一榜，以选拔人才的制度。公元1727年雍正帝始行，乾隆时此榜优者可参加殿试，其余以教职补用，1790年和珅奏罢。"
+  },
+  {
+   "cn": "睛明穴",
+   "en": "jing ming point",
+   "source": "兽医学名词",
+   "wordNumber": "19.620",
+   "subjectFullName": "兽医学_中兽医学",
+   "subjectName": "中兽医学",
+   "publishYear": "2023",
+   "definition": "马、牛、驼、羊、猪、犬、兔、鸡穴名。在泪骨上缘，马、牛、驼、猪下眼睑内、中三分之一交界处；羊在下眼睑正中处；犬在内眼角上下眼睑交界处；兔即睛灵穴；鸡眼角穴。左右侧各一穴。白针。主治肝热传眼、睛生翳膜、"
+  },
+  {
+   "cn": "明式家具",
+   "en": "Ming-style furniture",
+   "source": "风景园林名词",
+   "wordNumber": "11.0238",
+   "subjectFullName": "风景园林_风景园林艺术_陈设艺术",
+   "subjectName": "陈设艺术",
+   "publishYear": "2025",
+   "definition": "一般指中国明代中叶至清代早期（约公元15～17世纪）所生产的，以花梨木、紫檀木、红木、铁力木等为主要用材的硬木家具。设计精巧，制作精良，风格简约。由于形成的年代主要在明代，故把这种风格的家具通称明式家"
+  },
+  {
+   "cn": "任命状",
+   "en": "ren ming zhuang",
+   "source": "档案学名词",
+   "wordNumber": "07.01.097",
+   "subjectFullName": "档案学_历史文书_文书称谓（含文种）",
+   "subjectName": "文书称谓（含文种）",
+   "publishYear": "2024",
+   "definition": "中国近代官府往来文书下行文种。任命状最初称状，民国时南京临时政府委任职员及授赏徽章的证书用状，北洋政府公文程式和国民政府实行五院制后规定其为任命官吏时专用文书。"
+  },
+  {
+   "cn": "证明书",
+   "en": "zheng ming shu",
+   "source": "档案学名词",
+   "wordNumber": "07.01.194",
+   "subjectFullName": "档案学_历史文书_文书称谓（含文种）",
+   "subjectName": "文书称谓（含文种）",
+   "publishYear": "2024",
+   "definition": "民国时期遇有遗失未便补发的证书时，官署应遗失人的请求给予证明的文书。"
+  },
+  {
+   "cn": "题名录",
+   "en": "ti ming lu",
+   "source": "档案学名词",
+   "wordNumber": "07.01.218",
+   "subjectFullName": "档案学_历史文书_文书称谓（含文种）",
+   "subjectName": "文书称谓（含文种）",
+   "publishYear": "2024",
+   "definition": "题名录是科举时代乡、会试出榜后编印的登科人名录，即将中试者姓名、年龄、籍贯等按榜上次序开列的名册。"
+  },
+  {
+   "cn": "红名篇",
+   "en": "hong ming pian",
+   "source": "档案学名词",
+   "wordNumber": "08.01.042",
+   "subjectFullName": "档案学_中国档案事业史_中国古代档案",
+   "subjectName": "中国古代档案",
+   "publishYear": "2024",
+   "definition": "清代宗人府记载皇族子女的字辈、生辰及其祖、父、妻氏姓名等情况的档册。"
+  },
+  {
+   "cn": "贾耽",
+   "en": "Jia Dan",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "长狭海湾",
+   "en": "ria",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "吉格舞曲",
+   "en": "jig\",\"gigue",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "放射免疫测定, 放射免疫分析",
+   "en": "radioimmunoassay\",\"RIA",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "放射性免疫测定",
+   "en": "radioimmunoassay\",\"RIA",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "流环",
+   "en": "ring",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "环",
+   "en": "ring",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "查验",
+   "en": "ping",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "环",
+   "en": "ring",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "振铃塞环",
+   "en": "ring",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "翼，翅",
+   "en": "wing",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "水雷",
+   "en": "mine",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "翅",
+   "en": "wing",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "结膜环",
+   "en": "conjunctival ring\",\"conjunctive ring",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "年轮",
+   "en": "annual ring\",\"year ring",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "天王星环",
+   "en": "Uranian ring\",\"Uranus' ring",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "扩环[反应]",
+   "en": "ring expansion\",\"ring enlargement",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "软膜",
+   "en": "pia mater",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "水簸机",
+   "en": "hydraulic jig",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "惬意的",
+   "en": "pia piacevole",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "突然停步",
+   "en": "jib",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "艏三角帆",
+   "en": "jib",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "突然停步",
+   "en": "jib",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "情",
+   "en": "Qing",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "王",
+   "en": "King",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "吊环",
+   "en": "ring",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "边翼",
+   "en": "wing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "护膝两侧",
+   "en": "wing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "拳击台",
+   "en": "ring\",\"ring area\",\"platform",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "回力球运动",
+   "en": "jai alai",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "大前帆",
+   "en": "genoa jib",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "幼年银屑病性关节炎",
+   "en": "psoriatic JIA",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.13.7",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_儿童风湿免疫病",
+   "subjectName": "儿童风湿免疫病",
+   "publishYear": "2025",
+   "definition": "16岁以下起病，1个或更多的关节炎合并银屑病，或关节炎合并以下任何2项：①指（趾）炎；②指甲凹陷或指甲脱离；③家族史中一级亲属有银屑病。"
+  },
+  {
+   "cn": "幼年未分化关节炎",
+   "en": "undefined JIA",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.13.8",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_儿童风湿免疫病",
+   "subjectName": "儿童风湿免疫病",
+   "publishYear": "2025",
+   "definition": "不符合任何一项JIA或符合两项以上JIA的关节炎。"
+  },
+  {
+   "cn": "王明左倾教条主义",
+   "en": "Wang Mings leftdogmatism",
+   "source": "马克思主义",
+   "wordNumber": "04.0380",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1931年1月至1935年1月中国共产党内以王明为代表的“左”倾错误。在政治上，它混淆民主革命和社会主义革命的界限，企图超越民主革命一举夺得社会主义革命的胜利；否认九一八事变后国内政治的重大变化，把所"
+  },
+  {
+   "cn": "全身型幼年特发性关节炎",
+   "en": "systemic JIA,sJIA",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.13.2",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_儿童风湿免疫病",
+   "subjectName": "儿童风湿免疫病",
+   "publishYear": "2025",
+   "definition": "幼年特发性关节炎最严重的亚型，临床三联征为弛张高热、皮疹和关节症状，可伴有肝脾淋巴结肿大和全身多脏器受累，急性期炎症指标显著升高。"
+  },
+  {
+   "cn": "少关节型幼年特发性关节炎",
+   "en": "oligoarticular JIA，OJIA",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.13.3",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_儿童风湿免疫病",
+   "subjectName": "儿童风湿免疫病",
+   "publishYear": "2025",
+   "definition": "发病最初6个月有1～4个关节受累。可分为持续型少关节型JIA和扩展型少关节型JIA，易累及幼儿，以下肢单关节受累为主要表现。"
+  },
+  {
+   "cn": "多关节型幼年特发性关节炎（RF阴性型）",
+   "en": "polyarticular JIA, RF negative",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.13.4",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_儿童风湿免疫病",
+   "subjectName": "儿童风湿免疫病",
+   "publishYear": "2025",
+   "definition": "发病最初6个月有5个或以上关节受累的JIA，类风湿因子阴性。"
+  },
+  {
+   "cn": "多关节型幼年特发性关节炎（RF阳性型）",
+   "en": "polyarticular JIA, RF positive",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.13.5",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_儿童风湿免疫病",
+   "subjectName": "儿童风湿免疫病",
+   "publishYear": "2025",
+   "definition": "发病最初6个月有5个或以上关节受累的JIA，类风湿因子阳性。约占JIA的10%。大小关节均可受累，关节症状较重。"
+  },
+  {
+   "cn": "幼年附着点炎症相关关节炎",
+   "en": "enthesitis related JIA, ERA",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.13.6",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_儿童风湿免疫病",
+   "subjectName": "儿童风湿免疫病",
+   "publishYear": "2025",
+   "definition": "16岁以下起病，关节炎合并附着点炎症或关节炎或附着点炎症。发生于大男孩，以下肢大关节受累为主要表现，有一定的遗传倾向，与HLA-B27有关。"
+  },
+  {
+   "cn": "幼年特发性关节炎",
+   "en": "juvenile idiopathic arthritis，JIA",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.13.1",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_儿童风湿免疫病",
+   "subjectName": "儿童风湿免疫病",
+   "publishYear": "2025",
+   "definition": "16岁以前起病，持续6周或6周以上的单关节炎或多关节炎，并除外其他已知原因。是小儿时期常见的风湿性疾病，以慢性关节滑膜炎为主要特征，并伴有全身多脏器功能损害，也是造成小儿时期残疾和失明的重要原因。"
+  },
+  {
+   "cn": "抗战初期王明的右倾错误",
+   "en": "Wang Mings Rightist deviationist errors in the early Period of the AntiJapanese War",
+   "source": "马克思主义",
+   "wordNumber": "04.0382",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "抗日战争初期王明对抗日民族统一战线的错误主张。在抗日战争中，如何正确处理统一战线中的统一和独立、团结和斗争的关系，成为对抗战成败具有决定意义的关键性问题。1937年12月，刚从苏联回国的王明在中共中央"
+  },
+  {
+   "cn": "羯",
+   "en": "Jie",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0075",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "古族名。五胡之一，十六国时期，羯人石勒曾建立后赵政权。羯人入塞之前，隶属于匈奴，即“匈奴别落”。信仰“胡天”（祆教），实行火葬。"
+  },
+  {
+   "cn": "放射免疫测定",
+   "en": "radioimmunoassay, RIA",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.1.19",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_检测方法",
+   "subjectName": "检测方法",
+   "publishYear": "2025",
+   "definition": "以放射性核素作为标记物，利用放射性核素的高灵敏性和抗原抗体反应的特异性进行定量测定的技术。"
+  },
+  {
+   "cn": "放射免疫分析",
+   "en": "radioimmunoassay，RIA",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.3.38",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_核医学",
+   "subjectName": "核医学",
+   "publishYear": "2025",
+   "definition": "利用特异抗体与标记抗原和非标记抗原的竞争结合反应，通过测定放射性复合物计算非标记抗原的一种超微量分析技术。"
+  },
+  {
+   "cn": "九黎",
+   "en": "Jiu Li",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.001",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "中国古史传说时代之古族名，居住在黄河下游流域，或言原居南方。其首领为蚩尤。与炎帝、黄帝部落集团屡相争战，最后兵败涿鹿之野，蚩尤被杀，九黎融入华夏之中。信奉巫教，能用五金做兵器，始设刑法。"
+  },
+  {
+   "cn": "抑菌环",
+   "en": "bacteriostatic ring",
+   "source": "消毒学",
+   "wordNumber": "6.2.35.1",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "抑菌物质在接种了细菌的固体培养基上向周围扩散形成浓度梯度，培养后出现的围绕抑菌物质周围无菌生长的圆环形区域。"
+  },
+  {
+   "cn": "库拉圈",
+   "en": "Kula ring",
+   "source": "社会学名词",
+   "wordNumber": "4.2.9.25",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化现象",
+   "subjectName": "文化现象",
+   "publishYear": "2025",
+   "definition": "流行于西太平洋巴布亚新几内亚特罗布里恩德(Trobriander）群岛的仪式性交换，集船舶制造、航海术、巫术、神话、象征性交换与产品交易于一体。"
+  },
+  {
+   "cn": "莽语",
+   "en": "Mang language",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0333",
+   "subjectFullName": "民族学与文化学_民族语文研究_少数民族语言",
+   "subjectName": "少数民族语言",
+   "publishYear": "2025",
+   "definition": "莽人使用的语言。属南亚语系越芒语族。中国分布在云南省金平县，民族未识别，使用人口约600 人。越南、老挝等国也有分布。"
+  },
+  {
+   "cn": "库拉圈",
+   "en": "kula ring",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0538",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "流行于西太平洋巴布亚新几内亚东南端的特罗布里恩德群岛及其周边岛屿的仪式性交换制度，出自英国人类学家马林诺夫斯基（Bronislaw Kaspar Malinowski）的《西太平洋上的航海者》。库拉圈"
+  },
+  {
+   "cn": "免疫吸附",
+   "en": "immunoadsorption, IA",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.7.2.17",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病常用药物及治疗",
+   "subjectName": "风湿免疫病常用药物及治疗",
+   "publishYear": "2025",
+   "definition": "将高度特异性的抗原、抗体或有特定物理化学亲和力的物质与吸附材料结合制成吸附柱，选择性或特异地清除血液中的致病因子的治疗方法，从而达到净化血液、缓解病情的目的。"
+  },
+  {
+   "cn": "抗胰岛素抗体",
+   "en": "anti-insulin antibody, AIA",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.3.55",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_自身抗体",
+   "subjectName": "自身抗体",
+   "publishYear": "2025",
+   "definition": "一种针对胰岛素的自身抗体。其在新诊断的胰岛素依赖性糖尿病(IDDM)中阳性率最高，是I度IDDMI型患者疾病早期诊断的指标；高效价的抗体预示着残留的胰岛β细胞功能将以更快速度丧失；AIA阳性率高预示家"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

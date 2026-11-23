@@ -1,0 +1,792 @@
+{
+ "key": "innocent threat",
+ "term": "innocent threat",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T15:41:02+00:00",
+ "status": "ok",
+ "note": "variant=innocent threat; 审定公布名词库=4092; 海峡两岸名词对照库=731; 其他来源数据库=154; 预公布名词数据库=128; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "致危因素",
+   "en": "threat",
+   "source": "资源科学技术名词",
+   "wordNumber": "13.077",
+   "subjectFullName": "资源科学技术_动物资源学",
+   "subjectName": "动物资源学",
+   "publishYear": "2008",
+   "definition": "造成生物生存危机的各种人为和非人为因素。"
+  },
+  {
+   "cn": "无害化处理",
+   "en": "innocent treatment",
+   "source": "地方病学名词",
+   "wordNumber": "08.067",
+   "subjectFullName": "地方病学_布鲁菌病_预防与监测",
+   "subjectName": "预防与监测",
+   "publishYear": "2016",
+   "definition": "对患布鲁氏菌病病死的牲畜或扑杀的病畜所采取的焚烧和深埋的措施。"
+  },
+  {
+   "cn": "无害通过",
+   "en": "innocent passage",
+   "source": "海洋科技名词",
+   "wordNumber": "04.0064",
+   "subjectFullName": "海洋科学技术_其他_海洋管理",
+   "subjectName": "海洋管理",
+   "publishYear": "2007",
+   "definition": "外国(或地区)船舶在不损害沿海国(或地区)的和平、安全和良好秩序的条件下，继续不停地迅速通过沿海国领海的航行。"
+  },
+  {
+   "cn": "偶然威胁",
+   "en": "accidental threat",
+   "source": "计算机科学技术名词",
+   "wordNumber": "10.0321",
+   "subjectFullName": "计算机科学技术_信息安全_系统安全分析与漏洞挖掘",
+   "subjectName": "系统安全分析与漏洞挖掘",
+   "publishYear": "2018",
+   "definition": "使系统状态发生偶然性非授权改变的行为。"
+  },
+  {
+   "cn": "威胁分析",
+   "en": "threat analysis",
+   "source": "计算机科学技术名词",
+   "wordNumber": "10.0269",
+   "subjectFullName": "计算机科学技术_信息安全_系统安全分析与漏洞挖掘",
+   "subjectName": "系统安全分析与漏洞挖掘",
+   "publishYear": "2018",
+   "definition": "对信息系统中存在的安全威胁以及威胁可能导致的潜在损失进行评估和测量。"
+  },
+  {
+   "cn": "威胁监控",
+   "en": "threat monitoring",
+   "source": "计算机科学技术名词",
+   "wordNumber": "10.0409",
+   "subjectFullName": "计算机科学技术_信息安全_安全监测与感知",
+   "subjectName": "安全监测与感知",
+   "publishYear": "2018",
+   "definition": "对审计跟踪及其他已搜集的数据进行的分析、评估及检查。目的是查出可能危及系统安全的违法行为或突发事变。"
+  },
+  {
+   "cn": "外部威胁",
+   "en": "outside threat",
+   "source": "计算机科学技术名词",
+   "wordNumber": "10.0364",
+   "subjectFullName": "计算机科学技术_信息安全_系统安全分析与漏洞挖掘",
+   "subjectName": "系统安全分析与漏洞挖掘",
+   "publishYear": "2018",
+   "definition": "利用系统安全脆弱点从外部环境攻击信息系统而造成的威胁。"
+  },
+  {
+   "cn": "内部威胁",
+   "en": "inside threat",
+   "source": "计算机科学技术名词",
+   "wordNumber": "10.0363",
+   "subjectFullName": "计算机科学技术_信息安全_系统安全分析与漏洞挖掘",
+   "subjectName": "系统安全分析与漏洞挖掘",
+   "publishYear": "2018",
+   "definition": "具有信息系统访问权限的内部人员滥用或误用权限，对信息系统安全造成的威胁。"
+  },
+  {
+   "cn": "威胁评估",
+   "en": "threat assessment",
+   "source": "放射医学与防护名词",
+   "wordNumber": "05.316",
+   "subjectFullName": "放射医学与防护_放射防护_放射防护管理",
+   "subjectName": "放射防护管理",
+   "publishYear": "2014",
+   "definition": "为确认涉及境内外的设施、活动或源相关的可能危险而进行的评估过程。以确定可能需要在境内采取防护行动的事件和相关地域，以及可能对减轻这类事件后果的有效的行动。"
+  },
+  {
+   "cn": "威吓行为",
+   "en": "threat behavior",
+   "source": "生态学名词",
+   "wordNumber": "03.179",
+   "subjectFullName": "生态学_行为生态学",
+   "subjectName": "行为生态学",
+   "publishYear": "2006",
+   "definition": "动物在战斗中摆出进攻姿态，意在把对方吓跑以避免真正的战斗。这种行为既能达到真正战斗的效果，又可避免双方受伤，是减少战斗双方伤亡的一种行为适应。"
+  },
+  {
+   "cn": "事故隐患",
+   "en": "accident threat",
+   "source": "铁道科学技术名词",
+   "wordNumber": "06.0626",
+   "subjectFullName": "铁道科学技术_铁道运输管理与运输经济",
+   "subjectName": "铁道运输管理与运输经济",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "威胁策略",
+   "en": "threat strategy",
+   "source": "数学名词",
+   "wordNumber": "011.0402",
+   "subjectFullName": "数学_运筹学_对策论",
+   "subjectName": "对策论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "威胁等级",
+   "en": "threat level",
+   "source": "电子学名词",
+   "wordNumber": "19.253",
+   "subjectFullName": "电子学_雷达与电子对抗",
+   "subjectName": "雷达与电子对抗",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "无害通过权",
+   "en": "right of innocent passage",
+   "source": "资源科学技术名词",
+   "wordNumber": "07.095",
+   "subjectFullName": "资源科学技术_资源法学",
+   "subjectName": "资源法学",
+   "publishYear": "2008",
+   "definition": "所有国家包括沿海国和内陆国，其船舶均享有依法无害通过领海的权利。无害通过是指不损害沿海国的和平、良好秩序和安全。"
+  },
+  {
+   "cn": "无害通过权",
+   "en": "right of innocent passage",
+   "source": "航海科技名词",
+   "wordNumber": "13.0001",
+   "subjectFullName": "航海科学技术_航行管理与法规",
+   "subjectName": "航行管理与法规",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "外腐蚀威胁",
+   "en": "external corrosion threat",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "05.307",
+   "subjectFullName": "化工（五）_工厂系统与储运_油气管道工程",
+   "subjectName": "油气管道工程",
+   "publishYear": "2021",
+   "definition": "因外部环境对管道造成腐蚀，威胁到管道的安全性的因素。"
+  },
+  {
+   "cn": "内腐蚀威胁",
+   "en": "internal corrosion threat",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "05.308",
+   "subjectFullName": "化工（五）_工厂系统与储运_油气管道工程",
+   "subjectName": "油气管道工程",
+   "publishYear": "2021",
+   "definition": "因输送介质中含水、杂质等对管道内壁产生腐蚀，威胁到管道的安全性的因素。"
+  },
+  {
+   "cn": "软件定义威胁",
+   "en": "software defined threat",
+   "source": "计算机科学技术名词",
+   "wordNumber": "10.0392",
+   "subjectFullName": "计算机科学技术_信息安全_安全监测与感知",
+   "subjectName": "安全监测与感知",
+   "publishYear": "2018",
+   "definition": "对网络流量、网络行为、安全事件等信息进行自动化的采集、分析和挖掘，实现对未知威胁甚至是一些高级安全威胁的实时分析和建模，之后自动用建模结果指导流量定义，实现一种动态、闭环的安全防护。"
+  },
+  {
+   "cn": "替代威胁",
+   "en": "threat of substitutes",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0616",
+   "subjectFullName": "管理科学技术_一般管理理论_战略管理",
+   "subjectName": "战略管理",
+   "publishYear": "2016",
+   "definition": "某产业中的产品能够满足其他产业的同类需求的程度。"
+  },
+  {
+   "cn": "感知威胁",
+   "en": "perception of threat",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "09.023",
+   "subjectFullName": "全科医学与社区卫生_社区健康教育与健康促进",
+   "subjectName": "社区健康教育与健康促进",
+   "publishYear": "2014",
+   "definition": "人们对疾病易感性的感知和对疾病严重性的感知，是促使人们产生行为动机的直接原因。"
+  },
+  {
+   "cn": "威胁",
+   "en": "threat",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "无害通过",
+   "en": "innocent passage",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "威吓行为",
+   "en": "threat behavior",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "威胁姿势",
+   "en": "threat posture",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "被动威胁",
+   "en": "passive threat",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "内部威胁",
+   "en": "inside threat",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "偶然威胁",
+   "en": "accidental threat",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "外部威胁",
+   "en": "outside threat",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "威胁等级",
+   "en": "threat level",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "威胁分析",
+   "en": "threat analysis",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "威胁监控",
+   "en": "threat monitoring",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "主动威胁",
+   "en": "active threat",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "无害通过权",
+   "en": "right of innocent passage",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "预报评分",
+   "en": "forecast score\",\"threat score",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "喉管",
+   "en": "throat",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "线程",
+   "en": "thread",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "螺纹",
+   "en": "thread",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "螺旋丝",
+   "en": "spiral thread",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "花冠喉",
+   "en": "corolla throat",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "染色体丝",
+   "en": "chromosome thread",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "赤子之心",
+   "en": "Utter Innocence",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "威胁识别",
+   "en": "threat identification",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人工智能威胁论",
+   "en": "threat of AI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全威胁情报",
+   "en": "security threat intelligence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信息安全威胁",
+   "en": "information security threat",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "高级可持续性攻击",
+   "en": "advanced persistent threat (APT)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "未知威胁监测平台",
+   "en": "monitoring platform for unknown threats",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 36643-2018 信息安全技术 网络安全威胁信息格式规范》",
+   "en": "GB/T 36643-2018 Information security technology — Cyber security threat information format",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "拍颈",
+   "en": "throat",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "拍颈",
+   "en": "throat",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "咽喉革",
+   "en": "throat lash\",\"throat latch",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "护颈",
+   "en": "throat protector",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "锁喉",
+   "en": "throat hold",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "护颈",
+   "en": "throat protector",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "跳板弹力",
+   "en": "thrust",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "三人赛艇",
+   "en": "three",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "视人如己",
+   "en": "Treat Others the Way You Treat Yourself",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "上工治未病",
+   "en": "Great Physicians Treat Before the Outbreak of an Illness.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "威胁评估",
+   "en": "threat assessment",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.6.23",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_分析评估",
+   "subjectName": "分析评估",
+   "publishYear": "2025",
+   "definition": "为确认涉及境内外设施的设施、活动或源相关的可能危险而进行的评估过程。已确定可能需要在境内采取防护行动的事件和相关地域，以及可能对减轻这类事件后果有关的有效的行动。"
+  },
+  {
+   "cn": "威胁等级",
+   "en": "threat level",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.1.17",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "为对核或辐射紧急情况的应急准备和响应进行优化而建立的一种分类方案，以求与威胁评估中所确立的危险的可能大小和性质相适应。威胁分为五种类型，I类到Ⅲ类按威胁水平逐次降低，Ⅳ类是在任何地区都可能存在的威胁和"
+  },
+  {
+   "cn": "刻板印象威胁",
+   "en": "stereotype threat",
+   "source": "社会学名词",
+   "wordNumber": "4.1.19.4",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_群际关系",
+   "subjectName": "群际关系",
+   "publishYear": "2025",
+   "definition": "由于一定的文化对某些群体持有负性刻板印象，群体成员在特定情景下由于担心受到别人会以这种观念来判断他和对待他，同时担心自己的表现会验证这种刻板印象而产生的威胁感。"
+  },
+  {
+   "cn": "智能与风险评估",
+   "en": "intelligence or threat assessment",
+   "source": "军事预防医学名词",
+   "wordNumber": "9.4.1.1",
+   "subjectFullName": "军事预防医学_生物武器医学防护学_生物战剂袭击侦检",
+   "subjectName": "生物战剂袭击侦检",
+   "publishYear": "2025",
+   "definition": "采用智能感知、识别、分析、评估等技术手段开展生物战剂风险的预测、预警及风险判定。"
+  },
+  {
+   "cn": "威胁评估与关键控制点",
+   "en": "threat assessment and critical control point, TACCP",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.65",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "对食品供应链中可能存在的投毒或破坏等恶意施加的危害（潜在的伤害源）、风险（危害的损失或损害的可能性）和脆弱性（对风险的敏感性）评估，发现薄弱环节与缺陷（脆弱性漏洞），对影响食品防护的关键环节或步骤进行"
+  },
+  {
+   "cn": "小麦",
+   "en": "wheat",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.1.8",
+   "subjectFullName": "食品卫生学_食品_粮食",
+   "subjectName": "粮食",
+   "publishYear": "2025",
+   "definition": "禾本科小麦属一年生或越年生草本植物。"
+  },
+  {
+   "cn": "四个伟大",
+   "en": "great struggle great project great cause and great dream",
+   "source": "马克思主义",
+   "wordNumber": "03.0804",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "习近平于2017年10月18日在十九大报告中提出的治国理政方针理论。伟大斗争，伟大工程，伟大事业，伟大梦想，紧密联系、相互贯通、相互作用，其中起决定性作用的是党的建设新的伟大工程。"
+  },
+  {
+   "cn": "三个主体三个补充",
+   "en": "three subjects three supplement",
+   "source": "马克思主义",
+   "wordNumber": "02.0384",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "陈云在中共八大会议上提出的关于社会主义改造基本完成以后，我国社会主义经济模式的简称。具体内容为：国家经营和集体经营是主体，一定数量的个体经营为补充；计划生产是主体，一定范围的自由生产为补充；国家市场是"
+  },
+  {
+   "cn": "咽喉与呼吸道综合征",
+   "en": "throat and respiratory syndrome",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.19.24",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "咽喉和呼吸道同时受到感染或炎症引起的一系列症状和体征。常见的症状包括喉咙痛、咳嗽、喉部干燥、声音嘶哑、呼吸困难等"
+  },
+  {
+   "cn": "《中俄勘分西北界约记》",
+   "en": "Treaty of Chuguchak/Treaty of Tarbagatai",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0612",
+   "subjectFullName": "民族学与文化学_民族史_新疆研究",
+   "subjectName": "新疆研究",
+   "publishYear": "2025",
+   "definition": "1864 年清政府与沙俄签订的不平等条约，全文共10 条，通过《中俄勘分西北界约记》及三个子约，我国自巴尔喀什湖以东以南44 万平方公里土地被俄国割占。"
+  },
+  {
+   "cn": "达标治疗",
+   "en": "treat-to-target，T2T",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.7.2.15",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病常用药物及治疗",
+   "subjectName": "风湿免疫病常用药物及治疗",
+   "publishYear": "2025",
+   "definition": "一种治疗理念，最终目的是对疾病进行长程管理、降低并发症、改善自然病程。应用于类风湿关节炎、系统性红斑狼疮、痛风等疾病的治疗策略中，包括设定严格的治疗目标，密切监测及调整治疗方案以实现治疗目标。"
+  },
+  {
+   "cn": "三区",
+   "en": "three zones",
+   "source": "消毒学",
+   "wordNumber": "4.1.4.1.5",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "为满足医疗机构和集中隔离场所以及其他特殊场所隔离要求进行实质性物理隔断的区域，分成清洁区、潜在污染区和污染区三个区域。三区域实施分区管理。"
+  },
+  {
+   "cn": "三分开",
+   "en": "three isolation",
+   "source": "消毒学",
+   "wordNumber": "4.4.2.1",
+   "subjectFullName": "消毒学_消毒应用_疫源地消毒",
+   "subjectName": "疫源地消毒",
+   "publishYear": "2025",
+   "definition": "随时消毒应做到的分住室、分饮食、分生活用具的过程。"
+  },
+  {
+   "cn": "大同",
+   "en": "great harmony",
+   "source": "社会学名词",
+   "wordNumber": "1.1.1.2",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国古代社会思想",
+   "subjectName": "中国古代社会思想",
+   "publishYear": "2025",
+   "definition": "上古三代之时天下为公的状态。后被发挥成一种人类未来的人人平等互助、没有差异和战争的理想世界。语出《礼记·礼运》。"
+  },
+  {
+   "cn": "大传统",
+   "en": "great tradition",
+   "source": "社会学名词",
+   "wordNumber": "4.2.2.3",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_社会人类学基本概念",
+   "subjectName": "社会人类学基本概念",
+   "publishYear": "2025",
+   "definition": "一个社会中占优势的文化模式，尤其是指带有强烈而正统的历史意识的都市生活方式或复合式生活方式。由美国人类学家雷德菲尔德(R.Redfield）首先创用。与“小传统”相对。"
+  },
+  {
+   "cn": "“三无”人员",
+   "en": "“three noes”",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.90",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "中国的特殊人群范畴，包括无劳动能力、无生活来源，又无法定赡养、抚养、扶养义务人的老年人、残疾人或者未满16周岁的村民。符合“三无”人员标准可以享受农村五保供养待遇和城市社会福利院的照顾。"
+  },
+  {
+   "cn": "三个面向",
+   "en": "three orientations",
+   "source": "马克思主义",
+   "wordNumber": "03.0528",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "全称“教育要面向现代化，面向世界，面向未来”。最早为邓小平于1983年9月为北京景山学校的题词，后来成为中国改革开放以后教育工作的指导方针。"
+  },
+  {
+   "cn": "三级联创",
+   "en": "three lian",
+   "source": "马克思主义",
+   "wordNumber": "03.0751",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "在县、乡镇和村三级党组织中，开展的以“五个好”村党组织、乡镇党委和农村基层组织建设先进县为主要内容的创建活动。该活动同时把创建基层满意的县直涉农部门和群众满意的乡镇站所也纳入“三级联创”活动中，把县、"
+  },
+  {
+   "cn": "三个务必",
+   "en": "three imperatives",
+   "source": "马克思主义",
+   "wordNumber": "03.0827",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中共二十大报告指出，全党同志务必不忘初心、牢记使命，务必谦虚谨慎、艰苦奋斗，务必敢于斗争、善于斗争，坚定历史自信，增强历史主动，谱写新时代中国特色社会主义更加绚丽的华章"
+  },
+  {
+   "cn": "“三个离不开”",
+   "en": "Three Inseparables",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0126",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "“汉族离不开少数民族，少数民族离不开汉族，各少数民族之间也相互离不开”，体现了中国共产党坚持民族平等，加强民族团结的一贯主张。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

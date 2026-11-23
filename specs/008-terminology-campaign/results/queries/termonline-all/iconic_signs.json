@@ -1,0 +1,692 @@
+{
+ "key": "iconic signs",
+ "term": "iconic signs",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T15:43:35+00:00",
+ "status": "ok",
+ "note": "variant=iconic signs; 审定公布名词库=949; 海峡两岸名词对照库=131; 其他来源数据库=15; 预公布名词数据库=22; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "像似符号",
+   "en": "icon",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.048",
+   "subjectFullName": "新闻学与传播学_传播总论_传播研究基础",
+   "subjectName": "传播研究基础",
+   "publishYear": "2022",
+   "definition": "查尔斯·桑德斯·皮尔斯(Charles Sandevs Peivce)划分的三类符号之一。此类符号通过写实和模仿，与它所代表的事物之间存在着一种明显的实体上或视觉图像感知上的相似。"
+  },
+  {
+   "cn": "图标",
+   "en": "icon",
+   "source": "编辑与出版学名词",
+   "wordNumber": "04.03.165",
+   "subjectFullName": "编辑与出版学_音像复制_光盘复制",
+   "subjectName": "光盘复制",
+   "publishYear": "2022",
+   "definition": "屏幕上显示的有一定含义的小型图形或图像，表示用户操作的对象。"
+  },
+  {
+   "cn": "图标",
+   "en": "icon",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0644",
+   "subjectFullName": "计算机科学技术_计算机应用_计算机辅助设计与图形学",
+   "subjectName": "计算机辅助设计与图形学",
+   "publishYear": "2018",
+   "definition": "在图形用户界面中，文件、程序、应用等的简洁图形表示。"
+  },
+  {
+   "cn": "图标",
+   "en": "icon",
+   "source": "建筑学名词",
+   "wordNumber": "09.0114",
+   "subjectFullName": "建筑学_建筑设计_标志与色彩",
+   "subjectName": "标志与色彩",
+   "publishYear": "2014",
+   "definition": "呈现在屏幕或显示器上的设备用图形符号。可分静态图标、根据用户的输入改变的交互式图标和根据设备状态改变的动态图标。"
+  },
+  {
+   "cn": "图像文献",
+   "en": "iconic document",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.288",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_文献类型",
+   "subjectName": "文献类型",
+   "publishYear": "2019",
+   "definition": "一种主要内容为图解或图片形式的出版物或其他形式的文献。"
+  },
+  {
+   "cn": "图像记忆",
+   "en": "iconic memory",
+   "source": "心理学名词",
+   "wordNumber": "02.527",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "视觉刺激信息的感觉形式在视觉通道上短暂停留的过程。"
+  },
+  {
+   "cn": "图像信息学",
+   "en": "iconic informatics",
+   "source": "地理学名词",
+   "wordNumber": "26.023",
+   "subjectFullName": "地理学_地球信息科学",
+   "subjectName": "地球信息科学",
+   "publishYear": "2006",
+   "definition": "研究各种图像数据的获取、传输、存储、加工、信息提取、表达和应用的一门科学技术。"
+  },
+  {
+   "cn": "表情包",
+   "en": "emotion icon",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "13.194",
+   "subjectFullName": "新闻学与传播学_新媒体传播_新媒体的社会影响及研究",
+   "subjectName": "新媒体的社会影响及研究",
+   "publishYear": "2022",
+   "definition": "网络交流中用于表达心情、情绪与态度的图片。它可以由图形、动漫、真实人像、动物、自然景色等构成，有时还会辅以文字，可以是静态图片，也可以是动画。"
+  },
+  {
+   "cn": "文档文件图标",
+   "en": "document-file icon",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.681",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "用来标识文档文件的图形标志。"
+  },
+  {
+   "cn": "体征",
+   "en": "sign",
+   "source": "感染病学名词",
+   "wordNumber": "01.0030",
+   "subjectFullName": "感染病学_总论_感染病特征",
+   "subjectName": "感染病特征",
+   "publishYear": "2019",
+   "definition": "患者体表或内部结构发生的可观察或触及的改变。"
+  },
+  {
+   "cn": "体征",
+   "en": "sign",
+   "source": "结核病学名词",
+   "wordNumber": "03.375",
+   "subjectFullName": "结核病学_结核病诊断_症状和体征",
+   "subjectName": "症状和体征",
+   "publishYear": "2019",
+   "definition": "患者自己发现的或医生检查发现的患者体格上的异常现象。"
+  },
+  {
+   "cn": "符号",
+   "en": "sign",
+   "source": "物理学名词",
+   "wordNumber": "01.0322",
+   "subjectFullName": "物理学_通类_数学",
+   "subjectName": "数学",
+   "publishYear": "2019",
+   "definition": "专指正负号。"
+  },
+  {
+   "cn": "体征",
+   "en": "sign",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "04.062",
+   "subjectFullName": "全科医学与社区卫生_全科医疗服务",
+   "subjectName": "全科医疗服务",
+   "publishYear": "2014",
+   "definition": "患者自己发现的或医生检查发现的患者体格上的异常现象。"
+  },
+  {
+   "cn": "记号",
+   "en": "sign",
+   "source": "语言学名词",
+   "wordNumber": "02.067",
+   "subjectFullName": "语言学_文字学_汉字的结构",
+   "subjectName": "汉字的结构",
+   "publishYear": "2011",
+   "definition": "与文字所记录的词在读音及意义上都没有联系的字符。"
+  },
+  {
+   "cn": "病征",
+   "en": "sign",
+   "source": "昆虫学名词",
+   "wordNumber": "10.007",
+   "subjectFullName": "昆虫学_昆虫病理学",
+   "subjectName": "昆虫病理学",
+   "publishYear": "2000",
+   "definition": "因疾病引起的宿主机体形态结构的变化。"
+  },
+  {
+   "cn": "标志",
+   "en": "sign",
+   "source": "公路交通科技名词",
+   "wordNumber": "03.352",
+   "subjectFullName": "公路交通科学技术_交通工程",
+   "subjectName": "交通工程",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "图形文献",
+   "en": "graphic document,iconic document",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.287",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_文献类型",
+   "subjectName": "文献类型",
+   "publishYear": "2019",
+   "definition": "以图解、图形或图像展示为主要特征的印刷型或其他形式的文献。包括艺术印刷、艺术原创、艺术再现、照片、海报、教学挂图、技术制图等。"
+  },
+  {
+   "cn": "警告标志",
+   "en": "warning sign,caution sign",
+   "source": "公路交通科技名词",
+   "wordNumber": "03.354",
+   "subjectFullName": "公路交通科学技术_交通工程",
+   "subjectName": "交通工程",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "指路标志",
+   "en": "directional sign,guide sign",
+   "source": "公路交通科技名词",
+   "wordNumber": "03.357",
+   "subjectFullName": "公路交通科学技术_交通工程",
+   "subjectName": "交通工程",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "黄道十二宫",
+   "en": "zodiacal signs",
+   "source": "天文学名词",
+   "wordNumber": "05.014",
+   "subjectFullName": "天文学_天文学史",
+   "subjectName": "天文学史",
+   "publishYear": "2024",
+   "definition": "古代巴比伦把整个黄道圈从春分点开始均分为十二段，每段均称为宫，各以其所含黄道带星座之名命名。总称黄道十二宫。因岁差关系，21世纪黄道十二宫与黄道十二星座已大致错开一宫。"
+  },
+  {
+   "cn": "图像",
+   "en": "icon",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "图标",
+   "en": "icon",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "图标",
+   "en": "icon",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "图像记忆",
+   "en": "iconic memory",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "图像信息学",
+   "en": "iconic informatics",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "形象表征阶段",
+   "en": "iconic representation stage",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "文档文件图标",
+   "en": "document-file icon",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "病征(症候)",
+   "en": "sign",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "八度记号",
+   "en": "octave signs",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "宫",
+   "en": "sign\",\"house",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "符号规定",
+   "en": "sign convention",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "手语",
+   "en": "sign language",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "布里顿休止",
+   "en": "curlew sign",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "符号学习",
+   "en": "sign learning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "符号检验",
+   "en": "sign test",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "符号检验",
+   "en": "sign test",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "图形记号",
+   "en": "graphic sign",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "图形记号",
+   "en": "graphic sign",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "登录",
+   "en": "sign-on",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "呼叫标记",
+   "en": "call sign",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "手势",
+   "en": "sign",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "临床症状",
+   "en": "clinical signs and symptoms",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_病理症状",
+   "subjectName": "病理症状",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "迹象发现和预警",
+   "en": "sign detection and warning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "单点登录",
+   "en": "single sign-on (SSO)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "签字",
+   "en": "sign the score-sheet",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "量子抗性数字签名",
+   "en": "quantum-resistant code signing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网上签约",
+   "en": "to sign an employment contract online ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "关闭景点",
+   "en": "to close scenic spots",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "符号",
+   "en": "sign",
+   "source": "社会学名词",
+   "wordNumber": "4.2.3.9",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化人类学基本概念",
+   "subjectName": "文化人类学基本概念",
+   "publishYear": "2025",
+   "definition": "物质形式与意义相结合的具体的表达媒介，其价值体现在意义的表达系统（文脉）之中，并非物质特质本身所决定。以列维-斯特劳斯(C.Lévi-Strauss）的观点来看，挖掘潜藏于社会生活的符号系统才是人类学"
+  },
+  {
+   "cn": "体征",
+   "en": "sign",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.1.2",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_概述",
+   "subjectName": "概述",
+   "publishYear": "2025",
+   "definition": "患者体表或内部结构发生的可观察或触及到的改变。"
+  },
+  {
+   "cn": "警示标志",
+   "en": "warning sign",
+   "source": "放射卫生学",
+   "wordNumber": "8.1.11",
+   "subjectFullName": "放射卫生学_放射卫生监管_医用辐射监管",
+   "subjectName": "医用辐射监管",
+   "publishYear": "2025",
+   "definition": "警告、提示人们对某些不安全因素引起高度注意和警惕的标识。"
+  },
+  {
+   "cn": "V形疹",
+   "en": "V sign",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.5.1.4",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_炎性肌病_特征性表现",
+   "subjectName": "特征性表现",
+   "publishYear": "2025",
+   "definition": "面部和前胸的光敏性皮疹，可伴有瘙痒，多见于皮肌炎。"
+  },
+  {
+   "cn": "披肩征",
+   "en": "shawl sign",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.5.1.5",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_炎性肌病_特征性表现",
+   "subjectName": "特征性表现",
+   "publishYear": "2025",
+   "definition": "上背部和双肩处充血性皮疹的体征，多见于皮肌炎。"
+  },
+  {
+   "cn": "手势语",
+   "en": "sign language",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0047",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "使用手势或其他肢体语言来传递信息的交际符号系统。有时这种语言用于特定群体，如交通警察、司机、聋哑人等；有时也用于特定的语言环境中，如用于高山阻隔而语音不能及时实现的人与人之间的沟通。"
+  },
+  {
+   "cn": "克尼格氏征",
+   "en": "Kernig's sign",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.3.5.2",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_体征",
+   "subjectName": "体征",
+   "publishYear": "2025",
+   "definition": "神经科常用的一种检查方法。患者采用去枕仰卧位，一侧髋关节和膝关节成90°角弯曲，检查者将患者小腿上抬伸直，正常应该能够达到135°，如果遇到阻力或疼痛而使膝关节形成的角度不到135°时，则为阳性。"
+  },
+  {
+   "cn": "布鲁辛斯基征",
+   "en": "Brudzinski's sign",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.3.5.3",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_体征",
+   "subjectName": "体征",
+   "publishYear": "2025",
+   "definition": "神经科常用的一种检查方法。患者仰位平卧，下肢伸直，当前屈其颈时发生双侧髋、膝部屈曲，或压迫其双侧面颊部引起双上臂外展和肘部屈曲，或叩击其耻骨连合时出现双下肢屈曲和内收，均为阳性。"
+  },
+  {
+   "cn": "戈特龙征",
+   "en": "Gottron’s sign",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.5.1.2",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_炎性肌病_特征性表现",
+   "subjectName": "特征性表现",
+   "publishYear": "2025",
+   "definition": "皮肌炎特征性体征之一，发生在骨突面尤其是手指小关节、肘、膝、踝关节伸面的斑疹性红斑。"
+  },
+  {
+   "cn": "电离辐射标志",
+   "en": "ionizing radiation sign",
+   "source": "放射卫生学",
+   "wordNumber": "8.1.11.3",
+   "subjectFullName": "放射卫生学_放射卫生监管_医用辐射监管",
+   "subjectName": "医用辐射监管",
+   "publishYear": "2025",
+   "definition": "国际通用的表明场所、设备、容器等存在电离辐射的标识，其图形为黑色的三叶草。"
+  },
+  {
+   "cn": "亮角征",
+   "en": "shiny corner sign",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.5.14",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_影像学检测",
+   "subjectName": "影像学检测",
+   "publishYear": "2025",
+   "definition": "强直性脊柱炎的典型X线改变，表现为以椎体前角或后角为中心的扇形或三角形象牙质样亮白区，是AS早期重要的影像学表现。"
+  },
+  {
+   "cn": "双轨征",
+   "en": "double contour sign",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.5.17",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_影像学检测",
+   "subjectName": "影像学检测",
+   "publishYear": "2025",
+   "definition": "痛风患者做超声检查是见到的一种特殊影像，即在关节透明软骨表面异常的高回声带。与声波角度无关，规则或不规则，连续或间断，能与软骨界面征相鉴别"
+  },
+  {
+   "cn": "中毒异常体征",
+   "en": "abnormal signs of poisoning",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.19.25",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "人体受到毒物作用后出现的一系列异常症状和体征"
+  },
+  {
+   "cn": "电离辐射警告标志",
+   "en": "ionizing radiation alarm sign",
+   "source": "放射卫生学",
+   "wordNumber": "8.1.11.2",
+   "subjectFullName": "放射卫生学_放射卫生监管_医用辐射监管",
+   "subjectName": "医用辐射监管",
+   "publishYear": "2025",
+   "definition": "警示可能存在电离辐射危害的标志，该标志的图形由三叶草和外部的正三角形边框及下方的“当心电离辐射”文字组成，其中三叶草、边框和文字均为黑色，背景则为黄色。"
+  },
+  {
+   "cn": "体征与行为观察法",
+   "en": "sign and behavior observation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.4.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习负荷评价",
+   "subjectName": "学习负荷评价",
+   "publishYear": "2025",
+   "definition": "通过观察客观指征、询问主观感觉以及监测健康结局来评价、比较和分析学习负荷的方法。主要包括直接观察法、间接观察法和健康调查法。"
+  },
+  {
+   "cn": "符号政治经济学",
+   "en": "political economy of the sign",
+   "source": "马克思主义",
+   "wordNumber": "05.0193",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "法国哲学家让·鲍德里亚（Jean Baudrillard）在《符号政治经济学批判 (1972年)中阐发的一种特殊的社会批判理论, 显现了其与马克思之间的密切关联，他同时借此术语批判马克思的政治经济学，"
+  },
+  {
+   "cn": "症状与体征频率分析",
+   "en": "frequency analysis of symptoms and signs",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.19.26",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "一种通过对大量患者的症状和体征进行统计和比较，来了解某种疾病或病理状态的常见表现和规律的方法。"
+  },
+  {
+   "cn": "0-6岁儿童心理行为发育问题预警征象筛查表",
+   "en": "Warning signs checklist for screening psychological, behavioral and developmental problems of children aged 0-6 years",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.29.1",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "评估0～6岁儿童发育和智能的筛查性工具之一。是我国于2012年自行研制的用于基层儿童心理行为发育问题早期筛查测试量表。评估个人社交、精细动作、语言和大运动4个方面。"
+  },
+  {
+   "cn": "离子烟感报警器",
+   "en": "ionic smoke alarm",
+   "source": "放射卫生学",
+   "wordNumber": "6.5.4.23",
+   "subjectFullName": "放射卫生学_放射防护_工业应用的放射防护_核仪表及其他应用",
+   "subjectName": "核仪表及其他应用",
+   "publishYear": "2025",
+   "definition": "利用射线电离空气产生的电子被烟雾吸附而导致电离电流降低的原理而制成的火灾报警装置。"
+  },
+  {
+   "cn": "阿肯弹唱",
+   "en": "Akan sings",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0635",
+   "subjectFullName": "民族学与文化学_民族史_新疆研究",
+   "subjectName": "新疆研究",
+   "publishYear": "2025",
+   "definition": "哈萨克族民间传统艺术形式。由阿肯自弹自唱和对唱两种形式，前者以演唱传统叙事诗和民歌为主，后者属于即兴创作。在节日和婚嫁等场合举行。其对民族史、民族关系史、历史学、人类学、社会学的研究都具有重要价值。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

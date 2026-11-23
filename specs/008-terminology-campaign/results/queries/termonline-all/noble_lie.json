@@ -1,0 +1,812 @@
+{
+ "key": "noble lie",
+ "term": "noble lie",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T15:38:47+00:00",
+ "status": "ok",
+ "note": "variant=noble lie; 审定公布名词库=4016; 海峡两岸名词对照库=1333; 其他来源数据库=291; 预公布名词数据库=168; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "谎言",
+   "en": "lie",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.025",
+   "subjectFullName": "新闻学与传播学_政治传播_政治传播基础",
+   "subjectName": "政治传播基础",
+   "publishYear": "2022",
+   "definition": "与事实不相同的信息。发出信息的一方在知道事实的前提下，刻意隐瞒并提供给另一方这样的信息，这个过程叫作说谎，而传达谎言的人可称为骗子。谎言有三种主要形式：①隐瞒，只说出部分真实的信息；②捏造，把假的信息"
+  },
+  {
+   "cn": "惰性气体",
+   "en": "noble gas",
+   "source": "地质学名词",
+   "wordNumber": "13.02.029",
+   "subjectFullName": "地质学_地球化学_元素地球化学",
+   "subjectName": "元素地球化学",
+   "publishYear": "2026",
+   "definition": "元素周期表上所有O族元素对应的气体单质。包括氦(He)、氖(Ne)、氩(Ar)、氪(Kr)、氙(Xe)、氡(Rn)等。在常温常压下，它们都是无色无味的单原子气体，很难进行化学反应。"
+  },
+  {
+   "cn": "惰性气体",
+   "en": "noble gas",
+   "source": "地球物理学名词",
+   "wordNumber": "07.0246",
+   "subjectFullName": "地球物理学_地壳流体科学_气",
+   "subjectName": "气",
+   "publishYear": "2022",
+   "definition": "按国际纯粹与应用化学联合会新规定，由元素周期表上的 18族(即原来的 0 族)元素，包括氦 (He)、氖 (Ne)、氩 (Ar)、氪(Kr)、氙(Xe)和氡(Rn)，形成的无色无味具有化学惰性的单原子"
+  },
+  {
+   "cn": "贵铅",
+   "en": "noble lead",
+   "source": "冶金学名词",
+   "wordNumber": "06.0534",
+   "subjectFullName": "冶金学_有色金属冶金_重有色金属冶金",
+   "subjectName": "重有色金属冶金",
+   "publishYear": "2019",
+   "definition": "铅与贵金属形成的铅合金。"
+  },
+  {
+   "cn": "贵金属",
+   "en": "noble metal",
+   "source": "物理学名词",
+   "wordNumber": "08.1220",
+   "subjectFullName": "物理学_凝聚态物理学_固体及其性质",
+   "subjectName": "固体及其性质",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "善意的谎言",
+   "en": "benevolent lie;white lie",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "8.146",
+   "subjectFullName": "新闻学与传播学_人际沟通_人际沟通能力与关系管理",
+   "subjectName": "人际沟通能力与关系管理",
+   "publishYear": "2022",
+   "definition": "一种不含恶意、避免伤害、具有利他效果的，以保护更大真相的不实言论。"
+  },
+  {
+   "cn": "胎产式",
+   "en": "fetal lie",
+   "source": "急救医学名词",
+   "wordNumber": "03.622",
+   "subjectFullName": "急救医学_日常医学急救_妇产科学_妊娠",
+   "subjectName": "妊娠",
+   "publishYear": "2025",
+   "definition": "胎体纵轴与母体纵轴的关系。最常见的是纵产式，少见横产式和斜产式。"
+  },
+  {
+   "cn": "纵产式",
+   "en": "longitudinal lie",
+   "source": "急救医学名词",
+   "wordNumber": "03.623",
+   "subjectFullName": "急救医学_日常医学急救_妇产科学_妊娠",
+   "subjectName": "妊娠",
+   "publishYear": "2025",
+   "definition": "胎体纵轴与母体纵轴呈平行关系的胎产式。占妊娠足月分娩总数的99.75%。"
+  },
+  {
+   "cn": "横产式",
+   "en": "transverse lie",
+   "source": "急救医学名词",
+   "wordNumber": "03.624",
+   "subjectFullName": "急救医学_日常医学急救_妇产科学_妊娠",
+   "subjectName": "妊娠",
+   "publishYear": "2025",
+   "definition": "胎体纵轴与母体纵轴呈垂直关系的胎产式。仅占妊娠足月分娩总数的0.25%。"
+  },
+  {
+   "cn": "斜产式",
+   "en": "oblique lie",
+   "source": "急救医学名词",
+   "wordNumber": "03.625",
+   "subjectFullName": "急救医学_日常医学急救_妇产科学_妊娠",
+   "subjectName": "妊娠",
+   "publishYear": "2025",
+   "definition": "胎体纵轴与母体纵轴呈交叉成角而非垂直关系的胎产式。为暂时性，在分娩过程中多数转为纵产式，偶尔转成横产式。"
+  },
+  {
+   "cn": "胎产式",
+   "en": "fetal lie",
+   "source": "妇产科学名词",
+   "wordNumber": "10.009",
+   "subjectFullName": "妊娠诊断_母体生理变化",
+   "subjectName": "母体生理变化",
+   "publishYear": "2025",
+   "definition": "胎体纵轴与母体纵轴的关系。包括纵产式、横产式和斜产式。两纵轴平行者称为纵产式；两纵轴垂直者称为横产式；两纵轴交叉者称为斜产式。"
+  },
+  {
+   "cn": "纵产式",
+   "en": "longitudinal lie",
+   "source": "妇产科学名词",
+   "wordNumber": "17.034",
+   "subjectFullName": "正常分娩_分娩",
+   "subjectName": "分娩",
+   "publishYear": "2025",
+   "definition": "胎体纵轴与母体纵轴平行关系的产式。更容易通过产道。"
+  },
+  {
+   "cn": "带酒脚贮藏",
+   "en": "sur lie",
+   "source": "农学名词",
+   "wordNumber": "17.206",
+   "subjectFullName": "农产品贮运与加工_果蔬加工",
+   "subjectName": "果蔬加工",
+   "publishYear": "2025",
+   "definition": "经去渣但未过滤的酒液在贮酒容器中的贮藏过程。通常含有酵母和细小悬浮物等，经贮存后产生香气交织、酒体充实、细腻优雅、味道醇熟的效果。"
+  },
+  {
+   "cn": "带酒脚储藏",
+   "en": "sur lie",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.1445",
+   "subjectFullName": "食品科学技术_食品工程_食品原料与加工_酒",
+   "subjectName": "酒",
+   "publishYear": "2020",
+   "definition": "经过去渣但未过滤的酒液在贮酒容器中的贮藏过程。通常含有酵母、细小悬浮物等，经贮存后产生香气交织、酒体充实、细腻优雅、味道醇熟的效果。"
+  },
+  {
+   "cn": "李导数",
+   "en": "Lie derivative",
+   "source": "物理学名词",
+   "wordNumber": "06.0271",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "李群",
+   "en": "Lie group",
+   "source": "物理学名词",
+   "wordNumber": "01.0488",
+   "subjectFullName": "物理学_通类_数学",
+   "subjectName": "数学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "测谎仪",
+   "en": "lie detector",
+   "source": "心理学名词",
+   "wordNumber": "02.020",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "根据生理指标变化，辅助推测应答是否真实的仪器。"
+  },
+  {
+   "cn": "李代数",
+   "en": "Lie algebra",
+   "source": "数学名词",
+   "wordNumber": "04.1490",
+   "subjectFullName": "数学_代数学_代数几何学_非结合环",
+   "subjectName": "非结合环",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "子李代数",
+   "en": "Lie subalgebra",
+   "source": "数学名词",
+   "wordNumber": "04.1493",
+   "subjectFullName": "数学_代数学_代数几何学_非结合环",
+   "subjectName": "非结合环",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "子李群",
+   "en": "Lie subgroup",
+   "source": "数学名词",
+   "wordNumber": "04.2079",
+   "subjectFullName": "数学_代数学_代数几何学_李群",
+   "subjectName": "李群",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "稀有气体",
+   "en": "noble gas",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "贵金属",
+   "en": "noble metal",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "诺布尔，杰里米",
+   "en": "Noble\",\"Jeremy(英国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "诺布尔，约翰",
+   "en": "Noble\",\"John(英国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "测谎",
+   "en": "lie detection",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "测谎仪",
+   "en": "lie detector",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "测谎量表",
+   "en": "lie scale",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "贵金属",
+   "en": "precious metal\",\"noble metal",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "贵金属",
+   "en": "noble metal\",\"precious metal",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "惰性气体",
+   "en": "noble gas\",\"inert gas",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "贵金属烧结材料",
+   "en": "noble metal sintered materials",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "高贵而伤感的圆舞曲",
+   "en": "Valses Nobles et Sentimentales",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Ravel, Maurice"
+  },
+  {
+   "cn": "液体离子蒸发",
+   "en": "LIE （=liquid ion evaporation）",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "救生索",
+   "en": "life line",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "安全索",
+   "en": "life line",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "救生索",
+   "en": "life-line",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "白细胞免疫球蛋白样受体",
+   "en": "leukocyte immunoglobulinlike-receptor\",\"LIR",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "唇",
+   "en": "lip",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "石灰",
+   "en": "lime",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "模［具］",
+   "en": "die",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "浩然之气",
+   "en": "Noble Spirit",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "天下无生而贵者",
+   "en": "No One in the World Is Born Noble.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "三不朽",
+   "en": "Set Moral Examples, Perform Great Deeds, and Spread Noble Ideas",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "界线",
+   "en": "boundary line\",\"line",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "线",
+   "en": "line",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "线",
+   "en": "line",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "线",
+   "en": "line",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "线",
+   "en": "line",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "线",
+   "en": "line",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "线",
+   "en": "line",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "线",
+   "en": "line",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "击剑线",
+   "en": "line",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "中线",
+   "en": "center line\",\"half-line\",\"halfway line\",\"midfielder line",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "界线",
+   "en": "boundary line\",\"demarcation line\",\"field line\",\"limit line",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "中线",
+   "en": "central line\",\"division line\",\"midcourt line\",\"net line",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "中线",
+   "en": "center line\",\"division line\",\"midcourt line",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "中线",
+   "en": "center line\",\"halfway line",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "界线",
+   "en": "boundary line\",\"field line",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "泳道标志线",
+   "en": "bottom line\",\"lane line",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "横线",
+   "en": "cross line\",\"warning line",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "贵族",
+   "en": "noble",
+   "source": "马克思主义",
+   "wordNumber": "03.0044",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "奴隶制社会和封建社会中，因血统、世袭、战功等而获得经济、政治特权的上层阶级。经过演变，贵族包括军事贵族、世俗贵族、宗教贵族、金融贵族等类别。"
+  },
+  {
+   "cn": "谎言",
+   "en": "lie",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.093",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "为了达到某种不正当的目的，有意编造、杜撰出与事实不一致的言论、书信或其他文字材料。出于善良动机和避免不良后果不得不说的谎言，被称为善意谎言。"
+  },
+  {
+   "cn": "城市贵族",
+   "en": "noble in the city",
+   "source": "马克思主义",
+   "wordNumber": "03.0045",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "城市贵族是西欧奴隶社会和封建社会的城市国家中享有政治与经济特权的阶层,是垄断城市自治政权的城市上层集团。如进入中世纪后，西欧城市由获得自由的农奴重新建立起来。因为对生产资料占有形式的不同，西欧城市居民"
+  },
+  {
+   "cn": "寿命",
+   "en": "life",
+   "source": "消毒学",
+   "wordNumber": "6.1.15.2.1",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "消毒器械从投入使用开始，在规定使用条件下，能有效使用的期限。"
+  },
+  {
+   "cn": "生命",
+   "en": "life",
+   "source": "医学伦理学名词",
+   "wordNumber": "2.016",
+   "subjectFullName": "医学伦理学_医学伦理学的基本理论与基本观点",
+   "subjectName": "医学伦理学的基本理论与基本观点",
+   "publishYear": "2025",
+   "definition": "生物体所具有的活动能力，是核酸、蛋白质和其他大分子物质存在的一种形式。"
+  },
+  {
+   "cn": "羯",
+   "en": "Jie",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0075",
+   "subjectFullName": "民族学与文化学_民族史_民族称谓",
+   "subjectName": "民族称谓",
+   "publishYear": "2025",
+   "definition": "古族名。五胡之一，十六国时期，羯人石勒曾建立后赵政权。羯人入塞之前，隶属于匈奴，即“匈奴别落”。信仰“胡天”（祆教），实行火葬。"
+  },
+  {
+   "cn": "人的生命",
+   "en": "human life",
+   "source": "医学伦理学名词",
+   "wordNumber": "2.017",
+   "subjectFullName": "医学伦理学_医学伦理学的基本理论与基本观点",
+   "subjectName": "医学伦理学的基本理论与基本观点",
+   "publishYear": "2025",
+   "definition": "人的存在方式和根本属性。是人之所以为人的基础，是种生命和类生命、自然生命和社会生命的统一。"
+  },
+  {
+   "cn": "使用寿命",
+   "en": "useful life",
+   "source": "消毒学",
+   "wordNumber": "3.2.3.1",
+   "subjectFullName": "消毒学_消毒用品_消毒相关用品",
+   "subjectName": "消毒相关用品",
+   "publishYear": "2025",
+   "definition": "消毒设备的有效使用期限。"
+  },
+  {
+   "cn": "承诺寿命",
+   "en": "promised life",
+   "source": "消毒学",
+   "wordNumber": "6.1.15.2.3",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "在规定的使用条件下，厂家承诺产品能正常使用且符合消毒要求的期限。"
+  },
+  {
+   "cn": "平均寿命",
+   "en": "mean life",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.1.2",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_放射性衰变物理量",
+   "subjectName": "放射性衰变物理量",
+   "publishYear": "2025",
+   "definition": "放射性核素完全衰变为子体核素前存在的平均时间。符号为τ。是衰变常数（λ）的倒数。即τ=1/λ；其与半衰期（T1/2）的关系为：τ=T1/2 /ln2。"
+  },
+  {
+   "cn": "活时间",
+   "en": "live time",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.1.15",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_辐射探测基本量",
+   "subjectName": "辐射探测基本量",
+   "publishYear": "2025",
+   "definition": "在脉冲计数器中，能检测脉冲信号的时间。亦即总的测量时间扣除死时间后的时间。"
+  },
+  {
+   "cn": "社会生活",
+   "en": "social life",
+   "source": "社会学名词",
+   "wordNumber": "2.1.5.1",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会生活",
+   "subjectName": "社会生活",
+   "publishYear": "2025",
+   "definition": "一种以一定的社会关系为纽带，由社会的经济、政治、文化、心理、环境诸因素综合作用形成的一系列复杂而多层次的社会活动现象。既指人类整个社会物质的和精神的活动，也指社会的物质生产活动和社会组织的公共活动领域"
+  },
+  {
+   "cn": "生命历程",
+   "en": "life course",
+   "source": "社会学名词",
+   "wordNumber": "2.3.1.7",
+   "subjectFullName": "社会学名词_社会学一般概念_社会化_社会化",
+   "subjectName": "社会化",
+   "publishYear": "2025",
+   "definition": "在人的一生中，经由年龄分化而体现出来的生活道路。亦指一种社会生活史研究范式。其分析框架包括三个方面的内容：生命历程的社会意义；社会模式的代际传递；宏观结构对个人生命史的影响。"
+  },
+  {
+   "cn": "生活机会",
+   "en": "life-chances",
+   "source": "社会学名词",
+   "wordNumber": "2.6.6.16",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会分层理论",
+   "subjectName": "社会分层理论",
+   "publishYear": "2025",
+   "definition": "人们获取各种有价物品和改善地位状况的可能性，尤其指获取教育和向上流动机会以及其他物质产品的可能性。源于马克斯•韦伯的社会分层分析。马克斯•韦伯认为，这些机会决定了阶级状态。后被广泛应用于社会流动分析。"
+  },
+  {
+   "cn": "贫困线",
+   "en": "poverty line",
+   "source": "社会学名词",
+   "wordNumber": "4.3.9.6",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会救助",
+   "subjectName": "社会救助",
+   "publishYear": "2025",
+   "definition": "对因各种原因造成收入难以维持基本生活的个人或家庭进行救助而制定的收入标准线。以衡量在一定的时间、空间和社会发展阶段的条件下，维持人们的基本生存所必需消费的物品和服务的最低费用。"
+  },
+  {
+   "cn": "平均预期寿命",
+   "en": "life expectancy",
+   "source": "社会学名词",
+   "wordNumber": "4.5.3.8",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_死亡",
+   "subjectName": "死亡",
+   "publishYear": "2025",
+   "definition": "0岁年龄组人口的平均生存年数。它是生命表中的重要内容，是国际上用来评价一个国家人口的生存质量和健康水平的重要参考指标之一。"
+  },
+  {
+   "cn": "生命表",
+   "en": "life table",
+   "source": "社会学名词",
+   "wordNumber": "4.5.3.9",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_死亡",
+   "subjectName": "死亡",
+   "publishYear": "2025",
+   "definition": "根据当前的年龄别死亡率计算出来，表示某一人口的每一年龄组的死亡概率及平均预期寿命的表格。它完整全面地勾勒出了人口的死亡状况。"
+  },
+  {
+   "cn": "物质生活",
+   "en": "material life",
+   "source": "马克思主义",
+   "wordNumber": "01.0183",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人类为了自身生存和发展而进行的物质生活资料的生产、分配、消费等活动，是人类生存不可缺少的基本方式。物质生活的生产方式制约着整个社会生活、政治生活、精神生活的过程。"
+  },
+  {
+   "cn": "精神生活",
+   "en": "spiritual life",
+   "source": "马克思主义",
+   "wordNumber": "01.0190",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人们在社会物质生活基础上所进行的精神生产、思想观念传播与变革和精神享受，体现着人类对真善美的渴望和追求，包括科研、创作、学习、文化娱乐和信仰等活动，是人区别于动物的生活方式，也是人的发展程度的标志。"
+  },
+  {
+   "cn": "群众路线",
+   "en": "mass line",
+   "source": "马克思主义",
+   "wordNumber": "01.0246",
+   "subjectFullName": "马克思主义_哲学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国共产党最根本的政治路线、组织路线、认识路线和工作路线。主要内容是：一切为了群众、一切依靠群众和从群众中来、到群众中去。它是以毛泽东为代表的中国共产党人在长期斗争中形成的科学的领导方法，也是毛泽东思"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,472 @@
+{
+ "key": "conjugate momentum",
+ "term": "conjugate momentum",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T15:42:47+00:00",
+ "status": "ok",
+ "note": "variant=conjugate momentum; 审定公布名词库=690; 海峡两岸名词对照库=175; 其他来源数据库=8; 预公布名词数据库=3; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "动量",
+   "en": "momentum",
+   "source": "物理学名词",
+   "wordNumber": "02.0258",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "动量",
+   "en": "momentum",
+   "source": "化学名词",
+   "wordNumber": "04.1180",
+   "subjectFullName": "化学_物理化学_物质结构、理论和计算化学",
+   "subjectName": "物质结构、理论和计算化学",
+   "publishYear": "2016",
+   "definition": "(1)1个质点的动量p=mv，其中m、v分别为质点的质量与速度。(2)1个质点组的动量<img src='/root/syzx/static/spz/huaxue2.04.1180.1.png'/>，"
+  },
+  {
+   "cn": "动量",
+   "en": "momentum",
+   "source": "土木工程名词",
+   "wordNumber": "02.030",
+   "subjectFullName": "土木工程_工程力学_理论力学",
+   "subjectName": "理论力学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "动量",
+   "en": "momentum",
+   "source": "水利科学技术名词",
+   "wordNumber": "04.016",
+   "subjectFullName": "水利科学技术_工程力学、工程结构、建筑材料_工程力学（水利）",
+   "subjectName": "工程力学（水利）",
+   "publishYear": "1997",
+   "definition": "物体的质量和它的质心速度的乘积。"
+  },
+  {
+   "cn": "动量",
+   "en": "momentum",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_力学通类",
+   "subjectName": "力学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "共轭",
+   "en": "conjugate",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "05.040",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程系统优化",
+   "subjectName": "过程系统优化",
+   "publishYear": "2024",
+   "definition": "一组非零向量满足如下条件时称为关于对称正定矩阵A共轭：。"
+  },
+  {
+   "cn": "结合物",
+   "en": "conjugate",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.0131",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "一般指氨基酸或肽、核苷酸、糖类、脂质等生物分子（一般情况下均保持各自的基本骨架）之间通过缩合反应以共价键互相连接形成的更大的分子。"
+  },
+  {
+   "cn": "缀合物",
+   "en": "conjugate",
+   "source": "化学名词",
+   "wordNumber": "02.0006",
+   "subjectFullName": "化学_有机化学_有机化合物_有机化合物及其类名",
+   "subjectName": "有机化合物及其类名",
+   "publishYear": "2016",
+   "definition": "一般指碳水化合物、氨基酸或肽、核苷(酸)、脂质等生物分子(一般情况下均保持各自的基本骨架)之间通过缩合反应以共价键互相连接形成的更大的分子。"
+  },
+  {
+   "cn": "结合物",
+   "en": "conjugate",
+   "source": "医学名词 第三分册",
+   "wordNumber": "02.602",
+   "subjectFullName": "医学_免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "共轭",
+   "en": "conjugate",
+   "source": "数学名词",
+   "wordNumber": "04.1755",
+   "subjectFullName": "数学_代数学_代数几何学_群论",
+   "subjectName": "群论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "接合体",
+   "en": "conjugant",
+   "source": "动物学名词",
+   "wordNumber": "5.0499",
+   "subjectFullName": "动物学_无脊椎动物学_原生动物门",
+   "subjectName": "原生动物门",
+   "publishYear": "2021",
+   "definition": "接合生殖中形成接合对的两个细胞。"
+  },
+  {
+   "cn": "接合体",
+   "en": "conjugant",
+   "source": "遗传学名词",
+   "wordNumber": "05.195",
+   "subjectFullName": "遗传学_发育遗传学",
+   "subjectName": "发育遗传学",
+   "publishYear": "2007",
+   "definition": "原生动物纤毛虫有性生殖中参与接合的两个虫体。"
+  },
+  {
+   "cn": "接合",
+   "en": "conjugation",
+   "source": "农学名词",
+   "wordNumber": "15.243",
+   "subjectFullName": "农业生物技术_微生物组工程",
+   "subjectName": "微生物组工程",
+   "publishYear": "2025",
+   "definition": "细菌之间接触后进行遗传物质转移的现象。"
+  },
+  {
+   "cn": "接合［作用］",
+   "en": "conjugation",
+   "source": "兽医学名词",
+   "wordNumber": "12.216",
+   "subjectFullName": "兽医学_兽医寄生虫学",
+   "subjectName": "兽医寄生虫学",
+   "publishYear": "2023",
+   "definition": "某些原虫的一种有性生殖方式。雌、雄两个虫体并排结合，进行核质交换，核重建后分离成为两个含有新核的个体。"
+  },
+  {
+   "cn": "接合生殖",
+   "en": "conjugation",
+   "source": "动物学名词",
+   "wordNumber": "5.0491",
+   "subjectFullName": "动物学_无脊椎动物学_原生动物门",
+   "subjectName": "原生动物门",
+   "publishYear": "2021",
+   "definition": "纤毛虫所特有的有性生殖方式。不同接合型的两个体形成接合对，每个接合体经减数分裂产生单倍体核，其中一核再进行一次有丝分裂产生静止原核和迁移原核，后者互换后与前者融合形成合子核（受精核）。除极少数低等类群"
+  },
+  {
+   "cn": "共轭",
+   "en": "conjugation",
+   "source": "药学名词",
+   "wordNumber": "03.041",
+   "subjectFullName": "药学_药物化学",
+   "subjectName": "药物化学",
+   "publishYear": "2014",
+   "definition": "两个以上非成键轨道因相互作用所发生的电子离域作用。"
+  },
+  {
+   "cn": "接合[作用]",
+   "en": "conjugation",
+   "source": "药学名词",
+   "wordNumber": "04.191",
+   "subjectFullName": "药学_微生物药学",
+   "subjectName": "微生物药学",
+   "publishYear": "2014",
+   "definition": "通过细胞和细胞间的直接接触将供体细胞的脱氧核糖核酸(DNA)转移到受体细胞的过程。"
+  },
+  {
+   "cn": "接合[作用]",
+   "en": "conjugation",
+   "source": "微生物学名词",
+   "wordNumber": "06.097",
+   "subjectFullName": "微生物学_微生物遗传学",
+   "subjectName": "微生物遗传学",
+   "publishYear": "2012",
+   "definition": "供体菌与其近缘受体菌的完整细胞经性菌毛直接接触而传递大片段DNA的现象。"
+  },
+  {
+   "cn": "接合",
+   "en": "Conjugation",
+   "source": "遗传学名词",
+   "wordNumber": "03.561",
+   "subjectFullName": "遗传学_分子遗传学",
+   "subjectName": "分子遗传学",
+   "publishYear": "2007",
+   "definition": "细菌与细菌接触后细菌DNA转移和重组。"
+  },
+  {
+   "cn": "轭合作用",
+   "en": "conjugation",
+   "source": "生态学名词",
+   "wordNumber": "14.282",
+   "subjectFullName": "生态学_污染生态学",
+   "subjectName": "污染生态学",
+   "publishYear": "2006",
+   "definition": "生物体内的中间代谢产物和异生物质进行的合成反应，一般可以使其毒性减弱。"
+  },
+  {
+   "cn": "动量",
+   "en": "momentum",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "接合体",
+   "en": "conjugant",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "接合体",
+   "en": "conjugant",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "接合体",
+   "en": "conjugant",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "共轭",
+   "en": "conjugation",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "接合[作用]",
+   "en": "conjugation",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "接合[生殖]",
+   "en": "conjugation",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "①共轭 ②接合[作用]",
+   "en": "conjugation",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "轭合作用",
+   "en": "conjugation",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "动量方程",
+   "en": "momentum equation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "动量交换",
+   "en": "momentum exchange",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "动量守恒",
+   "en": "momentum conservation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "动量扩散系数",
+   "en": "momentum diffusivity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "动量方程",
+   "en": "momentum equation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "动量守恒",
+   "en": "momentum conservation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "角动量",
+   "en": "angular momentum",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "动量输送",
+   "en": "momentum transport",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "动量传递",
+   "en": "momentum transfer",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "动量分离器",
+   "en": "momentum separator",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "动量平衡",
+   "en": "momentum balance",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "腾空期",
+   "en": "moment of suspension\",\"period of suspension",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "疫情防控工作到了关键阶段",
+   "en": "The battle against the epidemic has arrived at a crucial moment.",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_百姓生活",
+   "subjectName": "百姓生活",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "对紧要关头当“逃兵”的干部要就地免职",
+   "en": "to remove from their posts officials who abandon the frontline at critical moments",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "人口惯性",
+   "en": "population momentum",
+   "source": "社会学名词",
+   "wordNumber": "4.5.6.8",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_人口变动",
+   "subjectName": "人口变动",
+   "publishYear": "2025",
+   "definition": "人口达到生育更替水平后继续增长的趋势。"
+  },
+  {
+   "cn": "夫妇式家庭",
+   "en": "conjugal family",
+   "source": "社会学名词",
+   "wordNumber": "3.1.1.9",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_家庭",
+   "subjectName": "家庭",
+   "publishYear": "2025",
+   "definition": "现代城市典型的夫妇与其未婚子女所构成的家庭。强调小家庭相对于亲戚网络的独立性。夫妇间的婚姻联系被视为最重要的关系，不把父系或母系当作唯一重要的世系。"
+  },
+  {
+   "cn": "眼球偏侧凝视",
+   "en": "conjugate eye deviation",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.2.2.4",
+   "subjectFullName": "食品卫生学_食源性疾病_中毒型食源性疾病",
+   "subjectName": "中毒型食源性疾病",
+   "publishYear": "2025",
+   "definition": "霉变甘蔗中毒重症的特征性症状，表现为水平凝视持续向一侧移动，同时无法凝视另一侧，眼底检查正常"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

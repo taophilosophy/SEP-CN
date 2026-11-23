@@ -1,0 +1,652 @@
+{
+ "key": "mere exposure effect",
+ "term": "mere exposure effect",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T15:41:11+00:00",
+ "status": "ok",
+ "note": "variant=mere exposure effect; 审定公布名词库=3545; 海峡两岸名词对照库=1076; 其他来源数据库=122; 预公布名词数据库=320; jwt-direct（JWT 直连，raw 略；已滤维基 16 条）",
+ "hits": [
+  {
+   "cn": "纯粹曝光效应",
+   "en": "mere exposure effect",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "04.078",
+   "subjectFullName": "阿尔茨海默病_精神与心理认知学",
+   "subjectName": "精神与心理认知学",
+   "publishYear": "2019",
+   "definition": "一种较常用的内隐记忆测验。被试者对原来不熟悉，但通过接触而熟悉了的刺激产生偏爱的效应。"
+  },
+  {
+   "cn": "荧光交叠效应",
+   "en": "crossover exposure effect",
+   "source": "医学影像技术学名词",
+   "wordNumber": "02.043",
+   "subjectFullName": "医学影像技术学_普通X射线成像技术_普通X射线成像基础",
+   "subjectName": "普通X射线成像基础",
+   "publishYear": "2020",
+   "definition": "X射线照射到增感屏时，荧光将向四周发射，有些荧光经前面的胶片乳剂层穿过片基，扩散到后面的乳剂层，使其感光。与此同时，后面增感屏的荧光也将会扩散到前面的乳剂层使其再次感光的现象。"
+  },
+  {
+   "cn": "有效曝光时间",
+   "en": "effective exposure time",
+   "source": "光学名词",
+   "wordNumber": "15.154",
+   "subjectFullName": "光学_影像技术",
+   "subjectName": "影像技术",
+   "publishYear": "2021",
+   "definition": "考虑到快门的曝光函数和感光介质的感光特性，将实际曝光过程等效为一个理想曝光过程(快门动作时间等于0，照度不变)的等效时间。"
+  },
+  {
+   "cn": "有效曝光系数",
+   "en": "effective exposure index",
+   "source": "光学名词",
+   "wordNumber": "15.157",
+   "subjectFullName": "光学_影像技术",
+   "subjectName": "影像技术",
+   "publishYear": "2021",
+   "definition": "有效曝光时间和全曝光时间的比值。"
+  },
+  {
+   "cn": "暴露度",
+   "en": "exposure",
+   "source": "农学名词",
+   "wordNumber": "13.216",
+   "subjectFullName": "农业气象_农业气象灾害",
+   "subjectName": "农业气象灾害",
+   "publishYear": "2025",
+   "definition": "农业生态系统中，在特定的时间和空间尺度上，受致灾因子不利影响的承灾体的数量和价值量。"
+  },
+  {
+   "cn": "接触率",
+   "en": "exposure",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "19.164",
+   "subjectFullName": "新闻学与传播学_传媒经济_传媒经济研究",
+   "subjectName": "传媒经济研究",
+   "publishYear": "2022",
+   "definition": "每天花一定时间接触某一类媒体的人数占总体样本之比例。"
+  },
+  {
+   "cn": "暴露",
+   "en": "exposure",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1976",
+   "subjectFullName": "地球物理学_地震科学_地震和社会",
+   "subjectName": "地震和社会",
+   "publishYear": "2022",
+   "definition": "处理灾害风险的元素。暴露于危险性前的人或人工制品 (及其特征 )的总和。 "
+  },
+  {
+   "cn": "曝光",
+   "en": "exposure",
+   "source": "光学名词",
+   "wordNumber": "15.147",
+   "subjectFullName": "光学_影像技术",
+   "subjectName": "影像技术",
+   "publishYear": "2021",
+   "definition": "感光材料成像时接受光照的过程。"
+  },
+  {
+   "cn": "曝光量",
+   "en": "exposure",
+   "source": "光学名词",
+   "wordNumber": "15.155",
+   "subjectFullName": "光学_影像技术",
+   "subjectName": "影像技术",
+   "publishYear": "2021",
+   "definition": "感光面上的照度与曝光时间的乘积。单位为勒克斯·秒(lx·s)。"
+  },
+  {
+   "cn": "曝光",
+   "en": "exposure",
+   "source": "测绘学名词",
+   "wordNumber": "03.054",
+   "subjectFullName": "测绘学_摄影测量学与遥感",
+   "subjectName": "摄影测量学与遥感",
+   "publishYear": "2020",
+   "definition": "通过快门或电源开与闭，使感光材料接受光学影像的过程。"
+  },
+  {
+   "cn": "照射",
+   "en": "exposure",
+   "source": "医学影像技术学名词",
+   "wordNumber": "07.004",
+   "subjectFullName": "医学影像技术学_X射线防护_X射线对人体的危害",
+   "subjectName": "X射线对人体的危害",
+   "publishYear": "2020",
+   "definition": "暴露于电离辐射之下受照的行为或状态。可以是外照射（体外源的照射），也可以是内照射（体内源的照射）。照射可以分为正常照射和潜在照射，也可以分为职业照射、医疗照射和公众照射。在干预的情况下，还可以分为应急"
+  },
+  {
+   "cn": "照射",
+   "en": "exposure",
+   "source": "电力名词",
+   "wordNumber": "17.831",
+   "subjectFullName": "电力_核电",
+   "subjectName": "核电",
+   "publishYear": "2020",
+   "definition": "受照的行为或状态,可以是外照射,也可以是内照射。可分为正常照射和潜在照射;也可分为职业照射、医疗照射和公众照射;在干预情况下,还可分为应急照射和持续照射。"
+  },
+  {
+   "cn": "照射量",
+   "en": "exposure",
+   "source": "物理学名词",
+   "wordNumber": "04.0802",
+   "subjectFullName": "物理学_光学、声学_光学_几何光学、光学仪器、生理光学、光度学、色度学",
+   "subjectName": "几何光学、光学仪器、生理光学、光度学、色度学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "曝光",
+   "en": "exposure",
+   "source": "物理学名词",
+   "wordNumber": "04.0799",
+   "subjectFullName": "物理学_光学、声学_光学_几何光学、光学仪器、生理光学、光度学、色度学",
+   "subjectName": "几何光学、光学仪器、生理光学、光度学、色度学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "照射",
+   "en": "exposure",
+   "source": "核医学名词",
+   "wordNumber": "02.0449",
+   "subjectFullName": "核医学_核医学相关基础学科_放射防护与剂量学",
+   "subjectName": "放射防护与剂量学",
+   "publishYear": "2018",
+   "definition": "暴露于射线射程内的行为或状态。分为内照射和外照射。包括由各种辐射源引起的职业照射、医疗照射或公众照射，也包括正常照射和潜在照射。"
+  },
+  {
+   "cn": "照射量",
+   "en": "exposure",
+   "source": "核医学名词",
+   "wordNumber": "02.0452",
+   "subjectFullName": "核医学_核医学相关基础学科_放射防护与剂量学",
+   "subjectName": "放射防护与剂量学",
+   "publishYear": "2018",
+   "definition": "光子(X射线或γ射线)在单位质量的空气中所产生的正电荷或负电荷的总量。国际单位是C/kg。"
+  },
+  {
+   "cn": "暴露",
+   "en": "exposure",
+   "source": "地方病学名词",
+   "wordNumber": "01.055",
+   "subjectFullName": "地方病学_总论_流行病学",
+   "subjectName": "流行病学",
+   "publishYear": "2016",
+   "definition": "与一种病因接近和/或接触，从而可能使这种病因产生有害作用或发生有效传播的过程。"
+  },
+  {
+   "cn": "照射量",
+   "en": "exposure",
+   "source": "化学名词",
+   "wordNumber": "06.0406",
+   "subjectFullName": "化学_放射化学_辐射化学与辐射防护",
+   "subjectName": "辐射化学与辐射防护",
+   "publishYear": "2016",
+   "definition": "X或γ射线在空气中产生的电离的量度。定义为Χ=<img src='/root/syzx/static/spz/huaxue2.06.0406.1.png'/>，式中dQ为光子照射质量为dm的空气中释放"
+  },
+  {
+   "cn": "照射量",
+   "en": "exposure",
+   "source": "计量学名词",
+   "wordNumber": "14.116",
+   "subjectFullName": "计量学_光学_电离辐射剂量",
+   "subjectName": "电离辐射剂量",
+   "publishYear": "2015",
+   "definition": "光子在一定质量的空气中释放出来的全部电子(负电子和正电子)完全被空气所阻止时，在空气中产生任一种符号的离子总电荷的绝对值除以该质量的商。单位为库[仑]每千克<img src='/root/syzx/s"
+  },
+  {
+   "cn": "照射",
+   "en": "exposure",
+   "source": "建筑学名词",
+   "wordNumber": "11.0268",
+   "subjectFullName": "建筑学_建筑防护_防电离辐射",
+   "subjectName": "防电离辐射",
+   "publishYear": "2014",
+   "definition": "受照的行为或状态。"
+  },
+  {
+   "cn": "照射量",
+   "en": "exposure",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "暴露",
+   "en": "exposure",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "曝光",
+   "en": "exposure",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "曝光",
+   "en": "exposure",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "曝光",
+   "en": "exposure",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "光照[射]量",
+   "en": "light exposure",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "曝露界限",
+   "en": "exposure limit",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "曝露试验",
+   "en": "exposure test",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "曝露时间",
+   "en": "exposure time",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "想象暴露法",
+   "en": "imaginal exposure",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "暴露疗法",
+   "en": "exposure therapy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "曝光过度",
+   "en": "over-exposure",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "曝光时间",
+   "en": "exposure time",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "极限曝光时间",
+   "en": "limiting exposure",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "公众照射",
+   "en": "public exposure",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "内照射",
+   "en": "internal exposure",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "曝射标记",
+   "en": "exposure labeling",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "潜在照射",
+   "en": "potential exposure",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "事故照射",
+   "en": "accidental exposure",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "外照射",
+   "en": "external exposure",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "职业暴露",
+   "en": "occupational exposure",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_传播途径_方式",
+   "subjectName": "方式",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "曝光期",
+   "en": "period of exposure",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "曝光期",
+   "en": "period of exposure",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "弧线球",
+   "en": "effect\",\"swerve",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "照射量",
+   "en": "exposure",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.5.12",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_基本剂量学量",
+   "subjectName": "基本剂量学量",
+   "publishYear": "2025",
+   "definition": "光子（X射线或γ射线）在单位质量的空气中所产生的正电荷或负电荷的总量。SI单位为库仑每千克，记作C·kg-1。"
+  },
+  {
+   "cn": "照射",
+   "en": "exposure",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.1.2",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_放射防护基本概念",
+   "subjectName": "放射防护基本概念",
+   "publishYear": "2025",
+   "definition": "暴露于电离辐射之下受照的行为或状态。可以是外照射（体外源的照射），也可以是内照射（体内源的照射）。照射可以分为正常照射和潜在照射；也可以分为职业照射、医疗照射和公众照射。"
+  },
+  {
+   "cn": "暴露量",
+   "en": "exposure",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.2",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "通过食物或其他途径来源的生物性、化学性和物理性因子的摄取量"
+  },
+  {
+   "cn": "照射量",
+   "en": "exposure",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.1.25",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核武器",
+   "subjectName": "核武器",
+   "publishYear": "2025",
+   "definition": "X 或γ射线在单位质量（dm）空气内释放出来的所有电子被空气完全阻止时，在空气中产生的任一种符号的（带正电或负电的）离子总电荷（dQ）。"
+  },
+  {
+   "cn": "集合暴露",
+   "en": "aggregate exposure，combined exposure",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.23",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "单个化学物通过多种途径（进口、经皮、吸入）和多种方式（食物、饮水和居住环境）的联合暴露情形。"
+  },
+  {
+   "cn": "暴露时间",
+   "en": "exposure time",
+   "source": "消毒学",
+   "wordNumber": "3.1.3.5",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "灭菌对象与消毒因子有效接触的时间。"
+  },
+  {
+   "cn": "过量照射",
+   "en": "over exposure",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.1.2",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护_放射工作人员健康监护基础名词",
+   "subjectName": "放射工作人员健康监护基础名词",
+   "publishYear": "2025",
+   "definition": "个体所受剂量超过年当量剂量或年有效剂量限值的照射。"
+  },
+  {
+   "cn": "照射量计",
+   "en": "exposure meter",
+   "source": "放射卫生学",
+   "wordNumber": "5.2.2.7",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测设备",
+   "subjectName": "辐射监测设备",
+   "publishYear": "2025",
+   "definition": "测量X射线、γ射线照射量用仪器。"
+  },
+  {
+   "cn": "职业照射",
+   "en": "occupational exposure",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.4.2.1",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_照射分类_照射人员分类",
+   "subjectName": "照射人员分类",
+   "publishYear": "2025",
+   "definition": "工作人员在其工作过程中所受到的电离辐射照射。"
+  },
+  {
+   "cn": "公众照射",
+   "en": "public exposure",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.4.2.2",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_照射分类_照射人员分类",
+   "subjectName": "照射人员分类",
+   "publishYear": "2025",
+   "definition": "公众成员所受到的来自计划照射情况、应急照射情况和现存照射情况中的辐射源的照射。"
+  },
+  {
+   "cn": "医疗照射",
+   "en": "medical exposure",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.4.2.3",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_照射分类_照射人员分类",
+   "subjectName": "照射人员分类",
+   "publishYear": "2025",
+   "definition": "患者或受检者因自身医学诊断、治疗或健康检查所受到的照射；知情但自愿帮助和安慰患者的人员（不包括职业受照人员）所受到的照射；以及生物医学研究计划中志愿者受到的照射。"
+  },
+  {
+   "cn": "急性照射",
+   "en": "acute exposure",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.4.3.1",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_照射分类_时间分类",
+   "subjectName": "时间分类",
+   "publishYear": "2025",
+   "definition": "短时间内受到的照射。通常用于指持续时间足够短的照射，由此产生的剂量可被视为是瞬时的（例如少于一小时）。"
+  },
+  {
+   "cn": "慢性照射",
+   "en": "chronic exposure",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.4.3.2",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_照射分类_时间分类",
+   "subjectName": "时间分类",
+   "publishYear": "2025",
+   "definition": "外照射放射源在较长时间内对机体产生的连续或间断性的超过剂量限值的照射。"
+  },
+  {
+   "cn": "外照射",
+   "en": "external exposure",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.4.4.1",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_照射分类_途径分类",
+   "subjectName": "途径分类",
+   "publishYear": "2025",
+   "definition": "存在于体外的电离辐射源对机体的照射。"
+  },
+  {
+   "cn": "内照射",
+   "en": "internal exposure",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.4.4.2",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_照射分类_途径分类",
+   "subjectName": "途径分类",
+   "publishYear": "2025",
+   "definition": "放射性核素进入机体内，对机体组织产生的照射。"
+  },
+  {
+   "cn": "均匀照射",
+   "en": "homogeneity exposure",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.4.6.1",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_照射分类_均匀性分类",
+   "subjectName": "均匀性分类",
+   "publishYear": "2025",
+   "definition": "机体各组织和器官吸收剂量相差不大的照射。"
+  },
+  {
+   "cn": "正常照射",
+   "en": "normal exposure",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.5.1",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_一般要求",
+   "subjectName": "一般要求",
+   "publishYear": "2025",
+   "definition": "在设施或源的正常运行条件下受到的照射。包括预计会受到的照射或在可能发生的能够保持在控制条件之下的意外事件情况下受到的照射。"
+  },
+  {
+   "cn": "潜在照射",
+   "en": "potential exposure",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.5.2",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_一般要求",
+   "subjectName": "一般要求",
+   "publishYear": "2025",
+   "definition": "预期大概率不会发生但可能会因源的事故或某种具有偶然性质的事件或事件序列（包括设备故障和操作错误）所引起的照射。"
+  },
+  {
+   "cn": "应急照射",
+   "en": "emergency exposure",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.5.3",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_一般要求",
+   "subjectName": "一般要求",
+   "publishYear": "2025",
+   "definition": "在紧急情况下受到的照射。包括紧急情况直接导致的非计划照射以及为减轻紧急情况后果而采取行动的人员受到的有计划的照射。"
+  },
+  {
+   "cn": "跨境照射",
+   "en": "transboundary exposure",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.5.4",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_一般要求",
+   "subjectName": "一般要求",
+   "publishYear": "2025",
+   "definition": "一国公众成员因在另一国发生事故、排放或废物处置而释放的放射性物质而受到的照射。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
