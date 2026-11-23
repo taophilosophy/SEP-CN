@@ -559,7 +559,7 @@ B3.2 的 sha 全等清单即 OAIS fixity 账的实现形态；与 ADR-0076 已�
 
 **实测**：全量双通道 **pool 1,759→1,760（94.0%）／gap 114→113／stale 0**，池占页 **47.68%**，judge 与建池逐件同值；delta＝gap→pool 1（ambiguity）、**失池 0**；B3.1 **1,638→1,639（+1）**——白名单同时修好一件往返件。缺口普查刷新为 **md_extra 74／h0_extra 13／text 9／math 8／star 4／digit 3／entity 2**。
 
-**逐件取证定调（下一阶段）**：`script/tmp/greedy1.py`（模拟 `_sub_diff` 贪心延伸，直击文字流永不衔接处）抽 9 件取证，剩余 gap 均为**真实内容差**而非形态差：缺图注（spacetime-holearg 曾因白名单误伤、church 的 photo caption）、C 侧列表标记丢失（anaphora `(1)`）、dl 拍平致标签错位（category-theory `(C1)/(C2)` 内容错位）、缺段（presupposition）、注号形残差（pain `[10`）。不再有可批量修的机制族——下一步是逐件取证定修法通道（C 侧保真 vs R 侧修复账）。
+**逐件取证定调（下一阶段）**：`script/tmp/greedy1.py`（模拟 `_sub_diff` 贪心延伸，直击文字流永不衔接处）抽 9 件取证，剩余 gap 均为**真实内容差**而非形态差；全 113 件取证普查（`script/tmp/forensic_all.py` → `gap-forensics.json`）聚类为 **B_extra 29**（H0 有文 A 缺：缺图注如 anderson-john photo caption、缺书目条目如 al-qudat、C 列表标记丢失如 anaphora `(1)`）／**A_extra 15**（A 有文 H0 缺：疑似 C 位移/重复）／**order 1**（kant-development `mv²` 对 `mv2` 上标形）／**other 68**（区间错位，需逐件开窗取证）。不再有可批量修的机制族——下一阶段按件定通道：C 侧保真（dl 拍平、列表标记）／R 侧修复账／账外原文补记。
 
 **教训**：①「`[…](…)` 形态＝链接」是过强假设——语法匹配必须配语义白名单；②白名单收窄要先普查**全部**合法形态（含下划线、大写段名），漏一类就失池一件；③首裂签名聚类给出的是**表层**裂点，真失败点要用贪心延伸探针（`greedy1.py`）直取。
 
