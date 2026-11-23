@@ -1,0 +1,672 @@
+{
+ "key": "evolutionary psychology",
+ "term": "evolutionary psychology",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T02:30:01+00:00",
+ "status": "ok",
+ "note": "variant=evolutionary psychology; 审定公布名词库=397; 海峡两岸名词对照库=214; 其他来源数据库=25; 预公布名词数据库=85; jwt-direct（JWT 直连，raw 略；已滤维基 14 条）",
+ "hits": [
+  {
+   "cn": "进化心理学",
+   "en": "evolutionary psychology",
+   "source": "行为医学名词",
+   "wordNumber": "3.3",
+   "subjectFullName": "行为医学_行为的生物学基础_遗传学基础_行为进化",
+   "subjectName": "行为进化",
+   "publishYear": "2022",
+   "definition": "从进化论角度出发，对人的心理起源、本质及一些社会现象深入研究的理论。"
+  },
+  {
+   "cn": "进化心理学",
+   "en": "evolutionary psychology",
+   "source": "心理学名词",
+   "wordNumber": "04.114",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "从进化论角度出发，运用进化生物学的资料和方法来探讨人类心理行为结构与起源的心理学研究。"
+  },
+  {
+   "cn": "心理学",
+   "en": "psychology",
+   "source": "行为医学名词",
+   "wordNumber": "4.002",
+   "subjectFullName": "行为医学_行为的心理学基础_心理与行为",
+   "subjectName": "心理与行为",
+   "publishYear": "2022",
+   "definition": "研究人的心智与行为、心理现象及其规律的学科。"
+  },
+  {
+   "cn": "心理学",
+   "en": "psychology",
+   "source": "计划生育名词",
+   "wordNumber": "04.002",
+   "subjectFullName": "计划生育_生殖健康心理卫生",
+   "subjectName": "生殖健康心理卫生",
+   "publishYear": "2019",
+   "definition": "应用反应论和信息论等理论和方法，研究心理事实、心理规律和心理机制的学科。"
+  },
+  {
+   "cn": "心理学",
+   "en": "psychology",
+   "source": "老年医学名词",
+   "wordNumber": "10.001",
+   "subjectFullName": "老年医学_老年心理学",
+   "subjectName": "老年心理学",
+   "publishYear": "2017",
+   "definition": "研究人的心理现象的发生、发展和活动规律的学科。心理现象是心理活动的表现形式，包括感觉、知觉、记忆、想象、思维、情感、意志等心理过程及在这些心理过程中形成与表现出来的需要、兴趣、理想、信念、态度、性格、"
+  },
+  {
+   "cn": "心理学",
+   "en": "psychology",
+   "source": "心理学名词",
+   "wordNumber": "01.001",
+   "subjectFullName": "心理学_总论",
+   "subjectName": "总论",
+   "publishYear": "2014",
+   "definition": "研究人的心智与行为的学科。"
+  },
+  {
+   "cn": "进化生物学",
+   "en": "evolutionary biology",
+   "source": "农学名词",
+   "wordNumber": "06.026",
+   "subjectFullName": "作物基因组学与遗传育种_作物起源进化与多样性",
+   "subjectName": "作物起源进化与多样性",
+   "publishYear": "2025",
+   "definition": "研究生命起源、进化、物种多样性及遗传多样性形成演变的学科。"
+  },
+  {
+   "cn": "进化距离",
+   "en": "evolutionary distance",
+   "source": "农学名词",
+   "wordNumber": "06.027",
+   "subjectFullName": "作物基因组学与遗传育种_作物起源进化与多样性",
+   "subjectName": "作物起源进化与多样性",
+   "publishYear": "2025",
+   "definition": "依据同源DNA或RNA序列中核苷酸的变异估算出来的物种间遗传关系的远近。差异越大，进化关系越远。"
+  },
+  {
+   "cn": "进化速率",
+   "en": "evolutionary rate",
+   "source": "农学名词",
+   "wordNumber": "06.028",
+   "subjectFullName": "作物基因组学与遗传育种_作物起源进化与多样性",
+   "subjectName": "作物起源进化与多样性",
+   "publishYear": "2025",
+   "definition": "进化过程中，每个世代或单位时间内发生的改变。"
+  },
+  {
+   "cn": "进化算法",
+   "en": "evolutionary algorithm",
+   "source": "农学名词",
+   "wordNumber": "16.204",
+   "subjectFullName": "农业信息_农业信息技术",
+   "subjectName": "农业信息技术",
+   "publishYear": "2025",
+   "definition": "模拟繁殖、变异、竞争和选择等生物进化过程，寻求最优解的计算方法。"
+  },
+  {
+   "cn": "进化认识论",
+   "en": "evolutionary epistemology",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.015",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "认识论的一种自然主义进路，即强调自然选择在感知和认知机制的适应性形成中的作用。"
+  },
+  {
+   "cn": "调优法",
+   "en": "evolutionary method",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "04.013",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程综合",
+   "subjectName": "过程综合",
+   "publishYear": "2024",
+   "definition": "针对现有系统或通过构造初始过程系统，采用调优策略逐步改进初始系统，以改善系统性能的方法。"
+  },
+  {
+   "cn": "进化论",
+   "en": "evolutionary theory",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.418",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_生物学哲学",
+   "subjectName": "生物学哲学",
+   "publishYear": "2024",
+   "definition": "现代生物学语境中通常指达尔文主义的进化论。将有机体特征的稳定遗传与其在环境中的变异和选择适应结合起来。"
+  },
+  {
+   "cn": "进化生物学",
+   "en": "evolutionary biology",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.433",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_生物学哲学",
+   "subjectName": "生物学哲学",
+   "publishYear": "2024",
+   "definition": "研究生物进化过程和生物群落特征的综合性学科。包括生态学、行为学和分类学等。"
+  },
+  {
+   "cn": "进化伦理学",
+   "en": "evolutionary ethics",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.434",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_生物学哲学",
+   "subjectName": "生物学哲学",
+   "publishYear": "2024",
+   "definition": "研究自然选择理论和伦理学之间关系与实践的学科。"
+  },
+  {
+   "cn": "演化程",
+   "en": "evolutionary track",
+   "source": "天文学名词",
+   "wordNumber": "04.211",
+   "subjectFullName": "天文学_天体物理学",
+   "subjectName": "天体物理学",
+   "publishYear": "2024",
+   "definition": "恒星在赫罗图上的演化路径。"
+  },
+  {
+   "cn": "进化稳定性",
+   "en": "evolutionary stability ",
+   "source": "草学名词",
+   "wordNumber": "2.0094",
+   "subjectFullName": "草学_草地生态与草地培育_草地生态",
+   "subjectName": "草地生态",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "进化分类学",
+   "en": "evolutionary taxonomy",
+   "source": "动物学名词",
+   "wordNumber": "2.0003",
+   "subjectFullName": "动物学_动物进化与系统学_动物分类学",
+   "subjectName": "动物分类学",
+   "publishYear": "2021",
+   "definition": "当今三大分类学派之一。以生物进化原理为指导的分类学派。在近代分类学研究中，特指在建立分类系统时，同时考虑谱系关系和特征差异程度两种因素的学派。"
+  },
+  {
+   "cn": "进化距离",
+   "en": "evolutionary distance",
+   "source": "动物学名词",
+   "wordNumber": "2.0188",
+   "subjectFullName": "动物学_动物进化与系统学_系统发生分析",
+   "subjectName": "系统发生分析",
+   "publishYear": "2021",
+   "definition": "两条序列分化之后，每个同源位点上发生碱基替换的次数。"
+  },
+  {
+   "cn": "进化生态学",
+   "en": "evolutionary ecology",
+   "source": "动物学名词",
+   "wordNumber": "7.0008",
+   "subjectFullName": "动物学_动物生态学_概论",
+   "subjectName": "概论",
+   "publishYear": "2021",
+   "definition": "研究地球上众多物种如何在复杂的生物和物理环境中，不断地演变并获得完美的结构和相互适应能力的科学。"
+  },
+  {
+   "cn": "进化心理学",
+   "en": "evolutionary psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "进化发展心理学",
+   "en": "evolutionary developmental psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "心理学",
+   "en": "psychology",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "进化胚胎学",
+   "en": "evolutionary embryology",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "进化动力学",
+   "en": "evolutionary dynamics",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "进化对策",
+   "en": "evolutionary strategy",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "进化分类学",
+   "en": "evolutionary taxonomy",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "进化距离",
+   "en": "evolutionary distance",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "进化胚胎学",
+   "en": "evolutionary embryology",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "进化趋异",
+   "en": "evolutionary divergence",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "进化生态学",
+   "en": "evolutionary ecology",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "进化时间",
+   "en": "evolutionary time",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "进化稳态",
+   "en": "evolutionary homeostasis",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "进化系统学",
+   "en": "evolutionary systematics",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "进化选择",
+   "en": "evolutionary selection",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "进化遗传学",
+   "en": "evolutionary genetics",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "进化植物学，演化植物学",
+   "en": "evolutionary botany",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "进化钟",
+   "en": "evolutionary clock",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "进化种",
+   "en": "evolutionary species",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "演化植物学（=进化植物学）",
+   "en": "evolutionary botany",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "进化机器人",
+   "en": "evolutionary robot",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "进化算法",
+   "en": "evolutionary algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "进化论",
+   "en": "evolutionary theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "心理创伤",
+   "en": "psychological trauma",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_百姓生活",
+   "subjectName": "百姓生活",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "心理疏导",
+   "en": "psychological counseling",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗救治",
+   "subjectName": "医疗救治",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《新冠肺炎疫情心理疏导工作方案》",
+   "en": "Work Plan on Psychological Counseling for People Affected by COVID-19",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_法规条例",
+   "subjectName": "法规条例",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "进化论功能主义",
+   "en": "evolutionary functionalism",
+   "source": "社会学名词",
+   "wordNumber": "3.13.2.10",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的相关范式思路",
+   "subjectName": "历史社会学的相关范式思路",
+   "publishYear": "2025",
+   "definition": "一种在与有机体做类比中将人类社会视为自组织系统的理论，认为系统的各组成部分为了适应周边环境的变化而持续地发挥着各自的功能以保持整体的平衡，从而导致社会系统经历着从低级到高级、从简单到复杂不断进步的发展"
+  },
+  {
+   "cn": "进化伦理学",
+   "en": "evolutionary ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.207",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学相关学科",
+   "subjectName": "医学伦理学相关学科",
+   "publishYear": "2025",
+   "definition": "研究自然选择理论和伦理学之间关系与实践的学科。"
+  },
+  {
+   "cn": "进化伦理学",
+   "en": "evolutionary ethics",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.146",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学流派",
+   "subjectName": "伦理学流派",
+   "publishYear": "2025",
+   "definition": "用进化论解释道德的起源、发展和本质的伦理学说。认为进化分为宇宙过程和自然过程，以生存竞争、适者生存为动力；社会是一个有机体，按照进化论的变异、自然选择、遗传等原理发展，人类道德发展规律服从于生物进化的"
+  },
+  {
+   "cn": "社会心理学",
+   "en": "social psychology",
+   "source": "社会学名词",
+   "wordNumber": "4.1.2.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会心理学理论",
+   "subjectName": "社会心理学理论",
+   "publishYear": "2025",
+   "definition": "一门侧重描述和解释群体中的个体或个体同群体相互作用的学科。内容涉及社会情境、社会化、社会性的认知、情感、思维、动机、态度及社会行为模式等方面，并由此扩展为对人际与大众传播心理乃至集群行为的研究等。"
+  },
+  {
+   "cn": "心理指标",
+   "en": "psychology parameter",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.4.1.4",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生体质健康调研",
+   "subjectName": "学生体质健康调研",
+   "publishYear": "2025",
+   "definition": "反映儿童青少年心理健康状况的指标，包括是否有抑郁、焦虑情绪，是否有自伤、自杀等相关行为等"
+  },
+  {
+   "cn": "性心理",
+   "en": "sex psychology",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.3.1.2.1.2.2",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_围婚期保健",
+   "subjectName": "围婚期保健",
+   "publishYear": "2025",
+   "definition": "围绕性征、性欲和性行为而展开的心理活动，由性意识、性感情、性知识、性经验和性观念等组成。"
+  },
+  {
+   "cn": "医学心理学",
+   "en": "medical psychology",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.19",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学相关学科",
+   "subjectName": "医学伦理学相关学科",
+   "publishYear": "2025",
+   "definition": "心理学与医学相结合的一门交叉学科。将心理学的理论和技术应用于医学领域，探索心理因素在人体健康以及疾病的发生、发展、诊断、治疗、预防与医疗护理中的作用。"
+  },
+  {
+   "cn": "民族心理",
+   "en": "ethnic psychology",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0486",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "一个民族作为一个大群体所具有的典型心理特点，通过该民族成员个体表现出来。民族心理特点是一个民族长期在特定的自然环境与社会环境的制约下，在历史文化的积淀过程中形成的，并通过一定的生产和生活方式及各种文化"
+  },
+  {
+   "cn": "心理民俗学",
+   "en": "psychology folkloristics",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0501",
+   "subjectFullName": "民族学与文化学_民俗学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "研究民俗与心理相互关系的学科，认为社会民俗是民众集体无意识和集体有意识的综合表现。"
+  },
+  {
+   "cn": "道德心理",
+   "en": "moral psychology",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.015",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "具有一定道德倾向性的比较稳定的心理特征的总和，是道德知识、道德行为、社会道德要求以及道德文化的心理反映。"
+  },
+  {
+   "cn": "心理压力",
+   "en": "psychological stress",
+   "source": "社会医学名词",
+   "wordNumber": "2.5.11",
+   "subjectFullName": "医学模式",
+   "subjectName": "生物-心理-社会医学模式",
+   "publishYear": "2025",
+   "definition": "生活中的刺激事件和内在要求对心理造成的困惑或威胁。"
+  },
+  {
+   "cn": "心理评价",
+   "en": "psychological evaluation",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.4.3.3",
+   "subjectFullName": "军事预防医学_热区军事卫生_热强度评价",
+   "subjectName": "热强度评价",
+   "publishYear": "2025",
+   "definition": "采用心理指标评价环境热舒适程度的过程。"
+  },
+  {
+   "cn": "心理危机",
+   "en": "psychological crisis",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.25.1",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应_心理影响与干预",
+   "subjectName": "心理影响与干预",
+   "publishYear": "2025",
+   "definition": "个人遇到应激或挫折而自己不能解决或处理时，发生的心理失衡状态。"
+  },
+  {
+   "cn": "心理逆反",
+   "en": "psychological reactance",
+   "source": "社会学名词",
+   "wordNumber": "4.1.13.5",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会关系",
+   "subjectName": "社会关系",
+   "publishYear": "2025",
+   "definition": "在个人的自由遭到实际的或者想象的威胁时作出的抗拒反应。个体通过挑战规则或做出不被允许的行为以重申其选择的自由。"
+  },
+  {
+   "cn": "心理阻抗",
+   "en": "psychological resistance",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.5.1.4.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_学校心理卫生服务",
+   "subjectName": "学校心理卫生服务",
+   "publishYear": "2025",
+   "definition": "在学校心理咨询中，求咨者在咨询中出现的各种下意识的自我保护现象。如每次咨询都迟到，交谈时注意力分散、态度消极、漠视对方或情绪急躁。多见于幼儿期有过创伤体验或受压抑的求咨者，也可能因咨询者因素导致。"
+  },
+  {
+   "cn": "精神暴力",
+   "en": "psychological violence",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "8.4.1.3",
+   "subjectFullName": "妇幼卫生学名词_伤害与暴力_针对妇女的暴力",
+   "subjectName": "针对妇女的暴力",
+   "publishYear": "2025",
+   "definition": "任何有意为之并损害女性心理健康和造成精神痛苦的的言语或行为，主要包括恐吓、威胁、吼叫、嘲笑、侮辱、霸道、监视控制、歧视等。"
+  },
+  {
+   "cn": "心理干预",
+   "en": "psychological intervention",
+   "source": "社会医学名词",
+   "wordNumber": "13.9.1",
+   "subjectFullName": "社会病",
+   "subjectName": "社会病防治",
+   "publishYear": "2025",
+   "definition": "在心理学理论指导下，有计划、按步骤地对一定对象的心理活动、个性特征或行为问题施加影响，使之发生朝向预期目标变化的过程。"
+  },
+  {
+   "cn": "心理人类学派",
+   "en": "psychological anthropology",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0554",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "20 世纪30 年代前后，美国历史学派中的一些学家开始转向民族心理和文化现象的研究，从探索民族性格入手，到研究特定民族的文化模式、变迁和表现等等，他们注重生理学、心理学的人类行为心理研究，主要代表人物"
+  },
+  {
+   "cn": "心理弹性",
+   "en": "psychological resilience",
+   "source": "社会医学名词",
+   "wordNumber": "13.8.3",
+   "subjectFullName": "社会病",
+   "subjectName": "社会心理应激",
+   "publishYear": "2025",
+   "definition": "个体在面对逆境、压力、创伤或重大变化时，能够积极适应、有效恢复并保持良好发展的能力。"
+  },
+  {
+   "cn": "心理学派",
+   "en": "Psychological School",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0441",
+   "subjectFullName": "民族学与文化学_民俗学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "产生于19 世纪末20 世纪初，以奥地利精神病医师、心理学家、精神分析学派创始人弗洛伊德（Sigmund Freud）的精神分析学派理论为基本指导思想来论述、分析民俗文化的实质，形成了民俗学中的心理学"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

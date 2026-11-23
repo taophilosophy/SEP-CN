@@ -1,0 +1,732 @@
+{
+ "key": "human animal",
+ "term": "human animal",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T02:32:00+00:00",
+ "status": "ok",
+ "note": "variant=human animal; 审定公布名词库=2416; 海峡两岸名词对照库=545; 其他来源数据库=87; 预公布名词数据库=154; jwt-direct（JWT 直连，raw 略；已滤维基 8 条）",
+ "hits": [
+  {
+   "cn": "人类疾病的动物模型",
+   "en": "animal model of human disease",
+   "source": "兽医学名词",
+   "wordNumber": "09.095",
+   "subjectFullName": "兽医学_实验动物学",
+   "subjectName": "实验动物学",
+   "publishYear": "2023",
+   "definition": "生物研究中建立的，具有人类疾病模拟表现的动物实验对象和材料。包括整体动物、动物离体器官、组织、细胞等。"
+  },
+  {
+   "cn": "动物",
+   "en": "animal",
+   "source": "动物学名词",
+   "wordNumber": "1.0001",
+   "subjectFullName": "动物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "能自由活动的或至少在生活史某一阶段能自由活动的、多细胞（除原生动物为单细胞外）、无细胞壁的一类异养真核生物。根据其身体中有无脊柱或脊索分为脊椎动物和无脊椎动物两大类。"
+  },
+  {
+   "cn": "动漫",
+   "en": "anime",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.02.099",
+   "subjectFullName": "编辑与出版学_数字出版_音像出版",
+   "subjectName": "音像出版",
+   "publishYear": "2022",
+   "definition": "将动态漫画的概念与数码合成等技术相结合，在平面上展现动态画面效果的艺术形式。"
+  },
+  {
+   "cn": "泛灵论",
+   "en": "animism",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.093",
+   "subjectFullName": "自然辩证法_自然哲学_理论方法",
+   "subjectName": "理论方法",
+   "publishYear": "2024",
+   "definition": "关于自然界一切事物和现象都为精灵所控制的学说。是宗教和唯心主义的来源之一。认为人、动植物和自然界的事物，不仅有被感知的特征，而且还有灵魂。灵魂真实存在，具有能动性、可经验性和单子性或绵延性。"
+  },
+  {
+   "cn": "动画",
+   "en": "animation",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.02.097",
+   "subjectFullName": "编辑与出版学_数字出版_音像出版",
+   "subjectName": "音像出版",
+   "publishYear": "2022",
+   "definition": "利用人的视觉暂留特点把系列关联画面顺序展现，给人以连续的活动景象视觉的绘画艺术表现形式。"
+  },
+  {
+   "cn": "动画",
+   "en": "animation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0280",
+   "subjectFullName": "计算机科学技术_计算机应用_多媒体",
+   "subjectName": "多媒体",
+   "publishYear": "2018",
+   "definition": "采用图形与图像的处理技术，借助于编程或软件生成一系列的图像画面。以一定的速度（如每秒16张）连续播放静止图像的方法产生物体运动的效果。"
+  },
+  {
+   "cn": "动画",
+   "en": "animation",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.171",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "利用人的视觉残留特性使连续播放的静态画面相互衔接而形成的动态效果。"
+  },
+  {
+   "cn": "人文地图",
+   "en": "humanities human map",
+   "source": "测绘学名词",
+   "wordNumber": "04.016",
+   "subjectFullName": "测绘学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2020",
+   "definition": "反映社会和上层建筑各个领域的事物和现象，即人文现象的各种地图。"
+  },
+  {
+   "cn": "人力资源生活性",
+   "en": "human resource humanism",
+   "source": "资源科学技术名词",
+   "wordNumber": "21.044",
+   "subjectFullName": "资源科学技术_人力资源学",
+   "subjectName": "人力资源学",
+   "publishYear": "2008",
+   "definition": "人力资源以人身作为天然载体，蕴藏在生命个体之中，是一种活的资源，并与人的自然生理特征相联系，具有生活性。要维持发展现有的人力资源，就必须保证人力资源拥有者的生活条件与费用。"
+  },
+  {
+   "cn": "人文主义",
+   "en": "humanism",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.310",
+   "subjectFullName": "自然辩证法_科学、技术与社会_科学技术文化",
+   "subjectName": "科学技术文化",
+   "publishYear": "2024",
+   "definition": "狭义为专业术语。广义是对文艺复兴时期出现的文化思想、文化理想的一种概括性总结。作为一种新思想理念，是对中世纪基督教会强权统治的一种反动，核心内容是“人”，亦称人本主义。主要内容包括：主张人性、人权，否"
+  },
+  {
+   "cn": "人本主义",
+   "en": "humanism",
+   "source": "心理学名词",
+   "wordNumber": "04.057",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "倾向于人文关怀价值取向的哲学思潮与流派。"
+  },
+  {
+   "cn": "人文学科",
+   "en": "humanities",
+   "source": "教育学名词",
+   "wordNumber": "04.079",
+   "subjectFullName": "教育学_外国教育史_古代",
+   "subjectName": "古代",
+   "publishYear": "2013",
+   "definition": "拉丁文原意为“人性、教养”，欧洲14—15世纪文艺复兴运动中指以人和自然为对象的世俗学问。同“神学学科”相对。"
+  },
+  {
+   "cn": "人文主义",
+   "en": "Humanism",
+   "source": "世界历史名词",
+   "wordNumber": "02.1193",
+   "subjectFullName": "世界历史_古代中世纪_西欧文化、文艺复兴与宗教改革",
+   "subjectName": "西欧文化、文艺复兴与宗教改革",
+   "publishYear": "2012",
+   "definition": "中世纪后期出现的，社会价值取向倾向于对人的个性的关怀，注重强调维护人性尊严，提倡宽容，反对暴力，主张自由平等和自我价值体现的一种哲学思潮与世界观。"
+  },
+  {
+   "cn": "普通动物",
+   "en": "conventional animal,CV animal",
+   "source": "核医学名词",
+   "wordNumber": "06.0201",
+   "subjectFullName": "核医学_核医学研究_实验动物学基础",
+   "subjectName": "实验动物学基础",
+   "publishYear": "2018",
+   "definition": "在微生物学控制上要求最低的动物。要求不携带人畜共患病和动物烈性传染病的病原。因价格低，故经常用于教学实验中。"
+  },
+  {
+   "cn": "清洁动物",
+   "en": "clean animal,CL animal",
+   "source": "核医学名词",
+   "wordNumber": "06.0200",
+   "subjectFullName": "核医学_核医学研究_实验动物学基础",
+   "subjectName": "实验动物学基础",
+   "publishYear": "2018",
+   "definition": "除普通动物应排除的病原外，不携带对动物危害大和对科学研究干扰大的病原的动物。"
+  },
+  {
+   "cn": "悉生动物",
+   "en": "gnotobiotic animal,GN animal",
+   "source": "核医学名词",
+   "wordNumber": "06.0198",
+   "subjectFullName": "核医学_核医学研究_实验动物学基础",
+   "subjectName": "实验动物学基础",
+   "publishYear": "2018",
+   "definition": "对无菌动物人工投予某些已知微生物(一般为埃希大肠杆菌、葡萄球菌及乳酸杆菌等)而获得的动物。根据投入已知菌的种类，分别称为单菌、双菌、三菌或多菌动物。是实验动物按微生物学控制程度分类中的一种。"
+  },
+  {
+   "cn": "普通级动物",
+   "en": "conventional animal,CV animal",
+   "source": "免疫学名词",
+   "wordNumber": "4.007",
+   "subjectFullName": "免疫学_畜牧免疫",
+   "subjectName": "畜牧免疫",
+   "publishYear": "2007",
+   "definition": "未经规范的微生物学控制，饲养于开放环境，临床表现健康，无人畜共患病原体的动物。"
+  },
+  {
+   "cn": "清洁级动物",
+   "en": "clean animal,CL animal",
+   "source": "免疫学名词",
+   "wordNumber": "4.008",
+   "subjectFullName": "免疫学_畜牧免疫",
+   "subjectName": "畜牧免疫",
+   "publishYear": "2007",
+   "definition": "种群来自无菌动物、悉生动物或无特定病原动物，种系清楚，饲育在较洁净的环境中，饲料、饮水清洁，温度较恒定的动物。"
+  },
+  {
+   "cn": "悉生动物",
+   "en": "gnotobiotic animal,GN animal",
+   "source": "免疫学名词",
+   "wordNumber": "4.01",
+   "subjectFullName": "免疫学_畜牧免疫",
+   "subjectName": "畜牧免疫",
+   "publishYear": "2007",
+   "definition": "对无菌动物人工投予某些已知微生物(一般为埃希大肠杆菌、葡萄球菌及乳酸杆菌等)而获得。根据投入已知菌的种类，分别称为单菌、双菌、三菌或多菌动物。"
+  },
+  {
+   "cn": "走兽",
+   "en": "squatting animal;running animal",
+   "source": "风景园林名词",
+   "wordNumber": "07.0403",
+   "subjectFullName": "风景园林_风景园林建筑_瓦作",
+   "subjectName": "瓦作",
+   "publishYear": "2025",
+   "definition": "垂脊下端上之雕饰。包括龙、凤、狮子、天马、海马、狻猊、狎鱼、獬豸、斗牛、行什。"
+  },
+  {
+   "cn": "动物",
+   "en": "animal",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "泛灵论",
+   "en": "animism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "动画",
+   "en": "animation",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "动画",
+   "en": "animation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "人本主义",
+   "en": "humanism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "穴居动物,洞穴动物",
+   "en": "cavernicolous animal\",\"burrowing animal",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "污水动物",
+   "en": "saprobic animal\",\"saprobiotic animal",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "普通级动物， 常规动物",
+   "en": "conventional animal， CV animal",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "清洁级动物， 最低限度疾病动物",
+   "en": "clean animal， CL animal",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "悉生动物，已知菌动物",
+   "en": "gnotobiotic animal， GN animal",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "克隆动物",
+   "en": "cloned animal",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "胎生动物",
+   "en": "viviparous animal",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "转基因动物",
+   "en": "transgenic animal",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "动物皮",
+   "en": "animal hide",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "动物厩肥",
+   "en": "animal manure",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "动物油",
+   "en": "animal oil",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "动物胶",
+   "en": "animal glue",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "动物信息沟通",
+   "en": "animal communication",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "动物本能",
+   "en": "animal instinct",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "动物恐惧症",
+   "en": "animal phobia",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "人",
+   "en": "Human Being; Humanity",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人心",
+   "en": "Human Heart / Human Desires",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "动物试验",
+   "en": "animal testing",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_医疗科研",
+   "subjectName": "医疗科研",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "网络动漫",
+   "en": "online animation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人力资源",
+   "en": "Human Resources",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人乳头（状）瘤病毒",
+   "en": "human papillomavirus",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人伦",
+   "en": "Human Relations",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人本计算",
+   "en": "human computation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人类增强",
+   "en": "human enhancement",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人权",
+   "en": "human rights",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人性",
+   "en": "human nature",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "活体农贸市场",
+   "en": "live animal market",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_百姓生活",
+   "subjectName": "百姓生活",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "万物有灵论",
+   "en": "animism",
+   "source": "社会学名词",
+   "wordNumber": "4.2.8.3",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学理论",
+   "subjectName": "人类学理论",
+   "publishYear": "2025",
+   "definition": "一种相信自然现象都是具有生命或灵魂、或认为某种神灵能够使物体具有生命现象的信仰观念。"
+  },
+  {
+   "cn": "万物有灵",
+   "en": "animism",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0304",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "万物有灵观念有两个基本信条：一是相信所有生物的灵魂在身体死亡或消失之后能够继续存在；二是相信各种神灵可以影响和控制物质世界和人的今生来世，同时神灵和人是相通的，人的行为会引起神灵的高兴或不悦。灵魂以三"
+  },
+  {
+   "cn": "人道主义",
+   "en": "humanism",
+   "source": "社会学名词",
+   "wordNumber": "4.4.5.3",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的价值观",
+   "subjectName": "社会工作的价值观",
+   "publishYear": "2025",
+   "definition": "起源于欧洲15世纪文艺复兴运动以来的思想体系，核心是尊重人性，维护人的尊严与价值。"
+  },
+  {
+   "cn": "人化",
+   "en": "humanization",
+   "source": "马克思主义",
+   "wordNumber": "01.0132",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人通过劳动把自己的本质力量凝聚和体现在对象上，使对象对人而言不再是异己的、对立的，而成为人的世界的一部分。"
+  },
+  {
+   "cn": "动物模型",
+   "en": "animal model",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.9.3",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫遗传",
+   "subjectName": "免疫遗传",
+   "publishYear": "2025",
+   "definition": "生物医学研究过程中，建立起来的具有人类疾病模拟表现的动物实验对象及相关实验材料。用于研究各种因素对人体作用的原因、机制、诊断指标和治疗方法等。一般常用小鼠、大鼠、家兔、犬等制作而成。"
+  },
+  {
+   "cn": "畜牧",
+   "en": "animal husbandry",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0229",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "采用畜、禽等已经被我们人类人工饲养驯化的动物，或者鹿、麝、狐、貂、水獭、鹌鹑等野生动物的生理机能，通过人工饲养、繁殖，使其将牧草和饲料等植物能转变为动物能，以取得肉、蛋、奶、羊毛、山羊绒、皮张、蚕丝和"
+  },
+  {
+   "cn": "动物崇拜",
+   "en": "animal worship",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0285",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "一种自然崇拜，由万物有灵观念发展而来；以禽类、兽类、鱼类、虫类等动物为祭祀的对象。通常，此种动物与某一神灵被认为具有密切的关系。"
+  },
+  {
+   "cn": "人的生命",
+   "en": "human life",
+   "source": "医学伦理学名词",
+   "wordNumber": "2.017",
+   "subjectFullName": "医学伦理学_医学伦理学的基本理论与基本观点",
+   "subjectName": "医学伦理学的基本理论与基本观点",
+   "publishYear": "2025",
+   "definition": "人的存在方式和根本属性。是人之所以为人的基础，是种生命和类生命、自然生命和社会生命的统一。"
+  },
+  {
+   "cn": "人伦",
+   "en": "human ethic",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.37",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "人们在社会中按年龄、智力、职业等分工而建立的社会秩序以及由此产生的彼此关系以及对关系的道德准则。也指父子、君臣、长幼、夫妇、朋友等“五伦”，为中国传统社会包含了血缘、文化、政治关系的总括和道德准则。"
+  },
+  {
+   "cn": "人类生态学",
+   "en": "human ecology",
+   "source": "社会学名词",
+   "wordNumber": "3.4.4.3",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_城市理论或流派",
+   "subjectName": "城市理论或流派",
+   "publishYear": "2025",
+   "definition": "研究城市环境的空间分布以及人与环境关系的学说。由以派克(Robert E.Park）、伯吉斯（Ernest W.Burgess）等社会学者为代表的芝加哥学派于20世纪20年代创立，强调城市的物质环境对"
+  },
+  {
+   "cn": "人的需要",
+   "en": "human needs",
+   "source": "社会学名词",
+   "wordNumber": "4.4.1.6",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的基本概念",
+   "subjectName": "社会工作的基本概念",
+   "publishYear": "2025",
+   "definition": "人感受到自身内在的物质或者精神上的缺乏，为了维持生存和发展，而对于外界事物的摄取欲望和要求。"
+  },
+  {
+   "cn": "人的本质",
+   "en": "human essence",
+   "source": "马克思主义",
+   "wordNumber": "01.0134",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人区别于其他物的本质规定性。马克思指出：“人的本质并不是单个人所固有的抽象物。在其现实性上，它是一切社会关系的总和。”人的本质是人作为实践的存在、自我创造的主体性存在和社会历史性存在所体现的特性。"
+  },
+  {
+   "cn": "人权",
+   "en": "human rights",
+   "source": "马克思主义",
+   "wordNumber": "03.0150",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人享有的人身自由和各种民主权利。资产阶级在其革命时期提出人权要求，反对封建特权和神权。人权是生产力发展到一定阶段的产物，资产阶级的“天赋人权”本质上是资产阶级的阶级特权。消灭了生产资料私有制和阶级，才"
+  },
+  {
+   "cn": "人力资本",
+   "en": "human capital",
+   "source": "卫生经济学名词",
+   "wordNumber": "3.1.2",
+   "subjectFullName": "卫生经济学名词_健康需求_健康需求",
+   "subjectName": "健康需求",
+   "publishYear": "2025",
+   "definition": "人内在的生产能力和知识，通过包括教育、培训、健康、经验、技巧等投资而获得的人力资产的经济价值总和。"
+  },
+  {
+   "cn": "人类地理学",
+   "en": "human geography",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0508",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "19 世纪，德国民族学家拉采尔（Friedrich Ratzel）创用了“人类地理学”一词，探讨环境对人类活动及演化的影响，认为存在着协调的人地关系。拉策尔在强调地理环境对人的决定性意义的同时，也考虑"
+  },
+  {
+   "cn": "人伦",
+   "en": "human relations",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.075",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人与人之间的辈分差等、秩序及行为准则。"
+  },
+  {
+   "cn": "人权",
+   "en": "human rights",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.128",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "在一定的社会历史条件下每个人按其本质和尊严而自由、平等地享有或应该享有的基本权利。是满足人的生存和发展所必需的且应当享有的基本权利。如生命权、健康权等。"
+  },
+  {
+   "cn": "人体形态学",
+   "en": "human morphology",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0066",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "阐明人体器官的各种形态、结构、成因、相互关系及其发展规律的学科，分为人体学和测量学。"
+  },
+  {
+   "cn": "人性",
+   "en": "human nature",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.0759999999999998",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "在一定社会制度和历史条件下形成的人的本性，包括个体的品质、德性和德行等。"
+  },
+  {
+   "cn": "人欲",
+   "en": "human desire",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.073",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人本能的欲望。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

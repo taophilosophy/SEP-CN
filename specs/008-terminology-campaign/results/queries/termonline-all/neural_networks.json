@@ -1,0 +1,772 @@
+{
+ "key": "neural networks",
+ "term": "neural networks",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T02:29:18+00:00",
+ "status": "ok",
+ "note": "variant=neural networks; 审定公布名词库=3150; 海峡两岸名词对照库=991; 其他来源数据库=331; 预公布名词数据库=143; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "神经网络",
+   "en": "neural network",
+   "source": "生理学名词",
+   "wordNumber": "03.022",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "神经网络",
+   "en": "neural network",
+   "source": "生物物理学名词",
+   "wordNumber": "07.070",
+   "subjectFullName": "生物物理学_生物控制论_计算神经科学",
+   "subjectName": "计算神经科学",
+   "publishYear": "2018",
+   "definition": "由神经元(既可以是人工神经元，也可以是生物神经元或其模型)相互联结所构成的网络。既可以是指人工神经网络，也可以指生物真实性神经网络模型，甚至生物神经网络。"
+  },
+  {
+   "cn": "神经网络",
+   "en": "neural network",
+   "source": "自动化名词",
+   "wordNumber": "06.112",
+   "subjectFullName": "自动化科学技术_经济控制与生物控制论_生物控制论",
+   "subjectName": "生物控制论",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "神经网络",
+   "en": "neural net,neural network",
+   "source": "电子学名词",
+   "wordNumber": "03.449",
+   "subjectFullName": "电子学_电子线路与网络",
+   "subjectName": "电子线路与网络",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "人工神经网络",
+   "en": "artificial neural network",
+   "source": "农学名词",
+   "wordNumber": "16.213",
+   "subjectFullName": "农业信息_农业信息技术",
+   "subjectName": "农业信息技术",
+   "publishYear": "2025",
+   "definition": "由大量简单的处理单元按某一拓扑结构广泛连接组成的模拟人类大脑神经网络系统和功能的信息处理系统。"
+  },
+  {
+   "cn": "深度神经网络",
+   "en": "deep neural network",
+   "source": "农学名词",
+   "wordNumber": "16.214",
+   "subjectFullName": "农业信息_农业信息技术",
+   "subjectName": "农业信息技术",
+   "publishYear": "2025",
+   "definition": "具有多级隐藏层，逐步学习逐步收敛的人工神经网络。"
+  },
+  {
+   "cn": "卷积神经网络",
+   "en": "convolutional neural network",
+   "source": "农学名词",
+   "wordNumber": "16.215",
+   "subjectFullName": "农业信息_农业信息技术",
+   "subjectName": "农业信息技术",
+   "publishYear": "2025",
+   "definition": "包含卷积计算且具有深度结构的前馈神经网络。"
+  },
+  {
+   "cn": "人工神经网络",
+   "en": "artificial neural network",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.644",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "由大量处理单元互联组成的非线性、自适应信息处理系统。它是在现代神经科学研究成果的基础上提出的，试图通过模拟大脑神经网络处理、记忆信息的方式进行信息处理。"
+  },
+  {
+   "cn": "人工神经网络",
+   "en": "artificial neural network",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.056",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "试图通过模拟大脑神经网络处理和记忆信息的方式，由大量处理单元互连组成的非线性、自适应信息处理系统。"
+  },
+  {
+   "cn": "模糊神经网络",
+   "en": "fuzzy neural network",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.068",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "由2个和2个以上的模糊神经元相互连接而成的复杂信息处理系统。"
+  },
+  {
+   "cn": "随机神经网络",
+   "en": "stochastic neural network",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.070",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "按照生物神经网络的机理而定义的网络。"
+  },
+  {
+   "cn": "贝叶斯神经网络",
+   "en": "Bayes neural network",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.113",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "基于概率推理的图形化网络，对于解决由复杂设备不确定性和关联性引起的故障有很大的优势。"
+  },
+  {
+   "cn": "神经网络算法",
+   "en": "neural network algorithm",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2703",
+   "subjectFullName": "地球物理学_地震科学_地震信号处理",
+   "subjectName": "地震信号处理",
+   "publishYear": "2022",
+   "definition": "基于生物学中神经网络基本原理建立的一种优化算法。 "
+  },
+  {
+   "cn": "神经网络控制",
+   "en": "neural network control",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "06.0420",
+   "subjectFullName": "机械工程（一）_机械测量与控制_机械控制",
+   "subjectName": "机械控制",
+   "publishYear": "2021",
+   "definition": "一种基于神经网络的智能控制方法，为解决复杂的非线性、不确定、不确知系统的控制问题开辟了新途径。"
+  },
+  {
+   "cn": "量子神经网络",
+   "en": "quantum neural network",
+   "source": "物理学名词",
+   "wordNumber": "06.0814",
+   "subjectFullName": "物理学_相对论、量子理论_量子信息",
+   "subjectName": "量子信息",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "递归神经网络",
+   "en": "recurrent neural network",
+   "source": "生物物理学名词",
+   "wordNumber": "07.072",
+   "subjectFullName": "生物物理学_生物控制论_计算神经科学",
+   "subjectName": "计算神经科学",
+   "publishYear": "2018",
+   "definition": "单元之间含有有向环路形式联结的神经网络。如霍普菲尔德模型属于这类递归神经网络。"
+  },
+  {
+   "cn": "生物神经网络",
+   "en": "biological neural network",
+   "source": "生物物理学名词",
+   "wordNumber": "07.073",
+   "subjectFullName": "生物物理学_生物控制论_计算神经科学",
+   "subjectName": "计算神经科学",
+   "publishYear": "2018",
+   "definition": "由一群生物神经元相互联结构成的具有一定功能的网络。"
+  },
+  {
+   "cn": "神经网络计算机",
+   "en": "neural network computer",
+   "source": "计算机科学技术名词",
+   "wordNumber": "01.0013",
+   "subjectFullName": "计算机科学技术_通论_计算机发展历史",
+   "subjectName": "计算机发展历史",
+   "publishYear": "2018",
+   "definition": "以神经网络加速电路为主要计算部件的数字电子计算机。"
+  },
+  {
+   "cn": "人工神经网络",
+   "en": "artificial neural network",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0302",
+   "subjectFullName": "计算机科学技术_人工智能_神经网络",
+   "subjectName": "神经网络",
+   "publishYear": "2018",
+   "definition": "模拟人脑结构的一种非线性系统。由大量人工神经元按某一拓扑结构互联而成。"
+  },
+  {
+   "cn": "神经网络控制",
+   "en": "neural network control",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0826",
+   "subjectFullName": "计算机科学技术_计算机应用_计算机控制",
+   "subjectName": "计算机控制",
+   "publishYear": "2018",
+   "definition": "利用人工神经网络对系统进行控制或建模的方法。"
+  },
+  {
+   "cn": "神经网络",
+   "en": "neural network",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "神经网络",
+   "en": "neural network",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "神经网络",
+   "en": "neural network",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "神经网络",
+   "en": "neural network",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "神经网络",
+   "en": "neural net\",\"neural network",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "神经网络训练",
+   "en": "neural network training",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "人工神经网络",
+   "en": "artificial neural network",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "霍普菲尔德神经网络",
+   "en": "Hopfield neural network",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "连接机制神经网络",
+   "en": "connectionist neural network",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "模糊神经网络",
+   "en": "fuzzy-neural network",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "神经网络计算器",
+   "en": "neural network computer",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "神经网络模型",
+   "en": "neural network model",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自适应神经网络",
+   "en": "adaptive neural network",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "人工神经网络",
+   "en": "artificial neural network",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "［人工］神经网络",
+   "en": "artificial neural network\",\"ANN",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "自组织神经网络",
+   "en": "self-organizing neural network",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "人工神经网络",
+   "en": "artificial neural net\",\"artificial neural network，ANN",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "神经管",
+   "en": "neural tube\",\"neural canal",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "神经嵴",
+   "en": "neural crest\",\"neural ridge",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "神经褶",
+   "en": "neural fold\",\"neural ridge",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "神经网络芯片",
+   "en": "neural network chip",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "神经网络算法",
+   "en": "neural network algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "神经网络学习",
+   "en": "neural network learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "模糊神经网络",
+   "en": "fuzzy neural network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人工神经网络",
+   "en": "artificial neural network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "霍普菲尔德神经网络",
+   "en": "Hopfield neural network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自适应神经网络",
+   "en": "adaptive neural network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "反向传播神经网络",
+   "en": "backpropagation neural network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "卷积神经网络",
+   "en": "convolutional neural network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "递归神经网络",
+   "en": "recurrent neural network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "深度神经网络",
+   "en": "deep neural network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自组织神经网络",
+   "en": "self-organizing neural network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "神经网络语言模型",
+   "en": "neural network language model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "神经计算",
+   "en": "neural computing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "神经微电路",
+   "en": "neural microcircuit",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络身份",
+   "en": "network identity (network ID)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "神经型食物中毒",
+   "en": "neural type food poisoning",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.7",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "由于进食含有外毒素（如肉毒梭菌毒素）的食物而引起的急性中毒疾病"
+  },
+  {
+   "cn": "互动网络",
+   "en": "interaction network",
+   "source": "社会学名词",
+   "wordNumber": "2.4.1.4",
+   "subjectFullName": "社会学名词_社会学一般概念社会互动",
+   "subjectName": "社会学一般概念社会互动",
+   "publishYear": "2025",
+   "definition": "个体之间互动所形成的网络结构。每个个体都是网络中的一个节点，每两个节点之间相互联系构成整个网络。"
+  },
+  {
+   "cn": "网络组织",
+   "en": "network organization",
+   "source": "社会学名词",
+   "wordNumber": "2.5.7.11",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "在现代信息通信技术的支撑下，由基于共同的目标、价值、兴趣或利益的企业实体自发联合而成，通过正式契约或非正式契约聚合起来的互相依赖、共担风险的长期合作、相对稳定的组织形式。"
+  },
+  {
+   "cn": "组织网络",
+   "en": "organizational network",
+   "source": "社会学名词",
+   "wordNumber": "2.5.9.8",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织结构",
+   "subjectName": "组织结构",
+   "publishYear": "2025",
+   "definition": "广义指一些相关企业借助于现代信息技术，通过长期契约和股权的形式，为达到共享技术，分摊费用以及满足市场需求等目标而联结起来的一种合作性企业组织群体。狭义指企业中的多个部门组合成相互合作的网络，各网络结点"
+  },
+  {
+   "cn": "沟通网",
+   "en": "communication network",
+   "source": "社会学名词",
+   "wordNumber": "2.5.9.10",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织结构",
+   "subjectName": "组织结构",
+   "publishYear": "2025",
+   "definition": "组织内部各种可利用的人际沟通渠道所结成的构架。人际沟通常常受到可利用的沟通渠道的限制，这些渠道所构成的不同结构和不同性质的沟通网络，决定着信息交流的取向和质量。"
+  },
+  {
+   "cn": "网络边界",
+   "en": "network boundary",
+   "source": "社会学名词",
+   "wordNumber": "2.7.1.4",
+   "subjectFullName": "社会学名词_社会学一般概念_社会网络与社会资本_社会网络分析",
+   "subjectName": "社会网络分析",
+   "publishYear": "2025",
+   "definition": "研究者基于分析的方便对社会网络的范围做出的人为限定。有些社会网络本身具有明显的边界，比如与世隔绝的村落中的人际关系网；然而绝大部分现实生活中的社会网络不具有明确边界，研究者一般根据关系类型、交往内容、"
+  },
+  {
+   "cn": "个人网",
+   "en": "personal network",
+   "source": "社会学名词",
+   "wordNumber": "2.7.1.5",
+   "subjectFullName": "社会学名词_社会学一般概念_社会网络与社会资本_社会网络分析",
+   "subjectName": "社会网络分析",
+   "publishYear": "2025",
+   "definition": "或称自我中心网(egocentric network）。是以个人为中心的社会关系的总和。小到局限在直接交往范围里的家庭成员网，大到通过直接和间接纽带联系着的数以千计的社交关系网。个人网是与整体网相对的"
+  },
+  {
+   "cn": "整体网",
+   "en": "whole network",
+   "source": "社会学名词",
+   "wordNumber": "2.7.1.6",
+   "subjectFullName": "社会学名词_社会学一般概念_社会网络与社会资本_社会网络分析",
+   "subjectName": "社会网络分析",
+   "publishYear": "2025",
+   "definition": "一定网络边界内的社会关系的总和。多用于分析具有相对明确范围的社会网络，比如村落共同体、工作组织，或学校班级内的关系网络。整体网是与个体网相对的概念，是以网络内全体成员间关系为分析对象，其结构形态是分析"
+  },
+  {
+   "cn": "社会网络",
+   "en": "social network",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.4",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "由许多节点连接起来构成的一种社会结构。节点通常是指个人或组织，社会网络代表各种社会关系，经由这些社会关系，把各种人或组织连接起来。"
+  },
+  {
+   "cn": "网络社会",
+   "en": "network society",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.45",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "由新技术变革引发的一种全新的社会结构。这一社会结构源于数字信息和通信技术所构成的技术模式与社会组织以及社会的变化之间的相互作用，其基本特征包括基于创新、全球化与分散性集中的资本主义经济；强调适应性和弹"
+  },
+  {
+   "cn": "网络反腐",
+   "en": "network anticorruption",
+   "source": "马克思主义",
+   "wordNumber": "03.0781",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "以网络为平台，通过网络舆论、网络举报而对国家工作人员进行监督的行为，是反腐败斗争的新方式。网络作为一种工具，具有快捷、低成本、低风险的技术优势，但也存在信息失真、扩散的问题，网络反腐的有序进行必须依靠"
+  },
+  {
+   "cn": "网络外部性",
+   "en": "network externalities",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.1.1.3",
+   "subjectFullName": "卫生经济学名词_信息与技术_卫生信息经济学",
+   "subjectName": "卫生信息经济学",
+   "publishYear": "2025",
+   "definition": "使用网络产品不仅使消费者受益或受损，还能使其他消费者或非消费者受益或受损的一种特性。"
+  },
+  {
+   "cn": "社会网络",
+   "en": "social network",
+   "source": "社会医学名词",
+   "wordNumber": "3.6.2",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "社会治理",
+   "publishYear": "2025",
+   "definition": "由许多节点连接起来构成的一种社会结构。节点通常是指个人或组织，社会网络代表各种社会关系，经由这些社会关系，把各种人或组织连接起来。"
+  },
+  {
+   "cn": "网络分析法",
+   "en": "network analysis",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0104",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "从个人的活动追溯其全面的社会关系的方法。都市人类学家用网络分析法揭示了都市居民组织、经济、政治、亲属等关系的目的和过程，及这些社会关系的结构和功能。"
+  },
+  {
+   "cn": "神经管缺陷患病率",
+   "en": "prevalence of neural tube defects",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.5.8",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "某年某地区检出神经管缺陷的围产儿数，与同期该地区围产儿数之比。围产儿数包括孕28周至产后7天正常和缺陷的活产、死胎和死产数。"
+  },
+  {
+   "cn": "事件流网络",
+   "en": "event flow network",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.6",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "用以表现在某一期间或某一过程中研究对象所经历的各个具体事件及其相互关联的一种图表。"
+  },
+  {
+   "cn": "事件状态网络",
+   "en": "event-state network",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.7",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "根据事件发生的顺序表现个案所经历的各种状态以及状态间关系的图表。"
+  },
+  {
+   "cn": "语义网络分析",
+   "en": "semantic network analysis",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.16",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "表现概念间语义关系的网络图.是一种常见的知识呈现形式。"
+  },
+  {
+   "cn": "社会网络分析",
+   "en": "social network analysis",
+   "source": "社会学名词",
+   "wordNumber": "2.7.1.1",
+   "subjectFullName": "社会学名词_社会学一般概念_社会网络与社会资本_社会网络分析",
+   "subjectName": "社会网络分析",
+   "publishYear": "2025",
+   "definition": "具有共同方法论视角的一套分析技术。用于描述分析作为节点的行动者之间的关系，并分析因这些社会关系重复出现而产生的社会结构及其对人们行为和观念的影响。可根据划分依据不同进行分类。比如，根据研究对象可分为个"
+  },
+  {
+   "cn": "社会支持网",
+   "en": "social support network",
+   "source": "社会学名词",
+   "wordNumber": "2.7.1.7",
+   "subjectFullName": "社会学名词_社会学一般概念_社会网络与社会资本_社会网络分析",
+   "subjectName": "社会网络分析",
+   "publishYear": "2025",
+   "definition": "个体拥有的可以满足工具性或情感性需要的关系网络，其内容可以涵盖信息分享、情感陪伴、劳务服务、财物交流等多方面，对个体抵御疾病、缓解压力有积极效果。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,722 @@
+{
+ "key": "sexual desire",
+ "term": "sexual desire",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T02:29:53+00:00",
+ "status": "ok",
+ "note": "variant=sexual desire; 审定公布名词库=3078; 海峡两岸名词对照库=660; 其他来源数据库=71; 预公布名词数据库=139; jwt-direct（JWT 直连，raw 略；已滤维基 9 条）",
+ "hits": [
+  {
+   "cn": "性欲",
+   "en": "sexual desire",
+   "source": "计划生育名词",
+   "wordNumber": "08.008",
+   "subjectFullName": "计划生育_性别与性",
+   "subjectName": "性别与性",
+   "publishYear": "2019",
+   "definition": "进行性活动的欲望。是人类进入青春期之后常见的生理、心理现象。"
+  },
+  {
+   "cn": "性欲",
+   "en": "sexual desire,libido",
+   "source": "泌尿外科学名词",
+   "wordNumber": "10.037",
+   "subjectFullName": "泌尿外科学_男科",
+   "subjectName": "男科",
+   "publishYear": "2014",
+   "definition": "个体渴望与另一个体发生性关系或肉体接触的愿望。"
+  },
+  {
+   "cn": "性欲",
+   "en": "sexual desire;libido",
+   "source": "生殖医学名词",
+   "wordNumber": "8.001",
+   "subjectFullName": "生殖医学_性与性功能障碍",
+   "subjectName": "性与性功能障碍",
+   "publishYear": "2022",
+   "definition": "对性的渴望。性欲是人类的本能之一，是一种在一定生理心理基础上由于性刺激的激发，期望与另一个体发生性关系的愿望。"
+  },
+  {
+   "cn": "性欲期",
+   "en": "sexual desire phase",
+   "source": "生殖医学名词",
+   "wordNumber": "8.016",
+   "subjectFullName": "生殖医学_性与性功能障碍",
+   "subjectName": "性与性功能障碍",
+   "publishYear": "2022",
+   "definition": "心理上受非条件性和（或）条件性性刺激后对性的渴望阶段。此期以性幻想和对性渴望为特征，只有心理变化，无明显生理变化。"
+  },
+  {
+   "cn": "性欲障碍",
+   "en": "sexual desire disorder",
+   "source": "生殖医学名词",
+   "wordNumber": "8.025",
+   "subjectFullName": "生殖医学_性与性功能障碍",
+   "subjectName": "性与性功能障碍",
+   "publishYear": "2022",
+   "definition": "由心理障碍和精神障碍产生的性欲异常现象，包括性厌恶、性欲低下、性欲亢进。"
+  },
+  {
+   "cn": "性欲障碍",
+   "en": "sexual desire disorder",
+   "source": "行为医学名词",
+   "wordNumber": "12.029",
+   "subjectFullName": "行为医学_性行为及其障碍_性功能障碍",
+   "subjectName": "性功能障碍",
+   "publishYear": "2022",
+   "definition": "在性兴趣或性欲望方面存在的功能障碍。包含性欲减退障碍和性欲亢进障碍。"
+  },
+  {
+   "cn": "性欲障碍",
+   "en": "sexual desire disorder",
+   "source": "精神医学名词",
+   "wordNumber": "03.281",
+   "subjectFullName": "精神医学_诊断分类_心理生理障碍",
+   "subjectName": "心理生理障碍",
+   "publishYear": "2019",
+   "definition": "由心理或精神因素导致的、异于常人的性欲低或亢奋的一类性功能障碍。"
+  },
+  {
+   "cn": "性欲低下障碍",
+   "en": "hypoactive sexual desire dysfunction;hypoactive sexual desire disorder",
+   "source": "男科及性医学名词",
+   "wordNumber": "20.001",
+   "subjectFullName": "男科及性医学_男性性功能障碍",
+   "subjectName": "男性性功能障碍",
+   "publishYear": "2023",
+   "definition": "由心理性或器质性病因所致的持续或反复的性幻想、性行为欲望下降甚至缺失的性功能障碍。"
+  },
+  {
+   "cn": "性欲量表",
+   "en": "sexual desire inventory;SDI",
+   "source": "男科及性医学名词",
+   "wordNumber": "20.003",
+   "subjectFullName": "男科及性医学_男性性功能障碍",
+   "subjectName": "男性性功能障碍",
+   "publishYear": "2023",
+   "definition": "评估不同因素影响个体性欲发展和表达的问卷。由14个问题组成，可衡量某个个体与他人和自身发生性行为这一欲望的强度、频率和重要性。"
+  },
+  {
+   "cn": "无性欲",
+   "en": "loss of sexual desire",
+   "source": "生殖医学名词",
+   "wordNumber": "8.027",
+   "subjectFullName": "生殖医学_性与性功能障碍",
+   "subjectName": "性与性功能障碍",
+   "publishYear": "2022",
+   "definition": "长期在适当刺激下仍不能引起性欲的状态。"
+  },
+  {
+   "cn": "性欲减退症",
+   "en": "hypoactive sexual desire disorder",
+   "source": "生殖医学名词",
+   "wordNumber": "8.028",
+   "subjectFullName": "生殖医学_性与性功能障碍",
+   "subjectName": "性与性功能障碍",
+   "publishYear": "2022",
+   "definition": "成年人持续存在性兴趣减弱和性活动减少甚至丧失。表现为性活动不易启动，对配偶或异性缺乏性的要求，性思考和性幻想缺乏等。"
+  },
+  {
+   "cn": "性欲缺失",
+   "en": "anaphrodisia,loss of sexual desire",
+   "source": "精神医学名词",
+   "wordNumber": "03.282",
+   "subjectFullName": "精神医学_诊断分类_心理生理障碍",
+   "subjectName": "心理生理障碍",
+   "publishYear": "2019",
+   "definition": "因心理性或器质性病因导致的无主动性要求，在任何刺激下对性交无兴趣的一种性欲障碍。属于活力低下的性驱力障碍。"
+  },
+  {
+   "cn": "性欲缺失",
+   "en": "anaphrodisia;loss of sexual desire",
+   "source": "男科及性医学名词",
+   "wordNumber": "20.002",
+   "subjectFullName": "男科及性医学_男性性功能障碍",
+   "subjectName": "男性性功能障碍",
+   "publishYear": "2023",
+   "definition": "持续或反复的性幻想、性行为欲望缺失的一种性欲减退障碍。"
+  },
+  {
+   "cn": "性欲减退",
+   "en": "sexual hypoactivity,decreased libido,lack of sexual desire",
+   "source": "精神医学名词",
+   "wordNumber": "03.283",
+   "subjectFullName": "精神医学_诊断分类_心理生理障碍",
+   "subjectName": "心理生理障碍",
+   "publishYear": "2019",
+   "definition": "因心理性或器质性病因导致的性刺激下，性兴奋和性交愿望减退的一种性欲障碍。属于活力低下的性驱力障碍。"
+  },
+  {
+   "cn": "尿意",
+   "en": "micturition desire",
+   "source": "妇科肿瘤学名词",
+   "wordNumber": "5.045",
+   "subjectFullName": "妇科肿瘤学_妇科肿瘤诊断学_症状_生殖系统症状",
+   "subjectName": "生殖系统症状",
+   "publishYear": "2022",
+   "definition": "膀胱壁的感受器受到刺激后冲动上传到脑干和大脑皮质高级中枢产生的排尿感觉。生理性见于膀胱尿量充盈到一定程度时（400～500ml）。肿瘤压迫膀胱也可产生尿意。"
+  },
+  {
+   "cn": "便意",
+   "en": "defecation desire",
+   "source": "妇科肿瘤学名词",
+   "wordNumber": "5.046",
+   "subjectFullName": "妇科肿瘤学_妇科肿瘤诊断学_症状_生殖系统症状",
+   "subjectName": "生殖系统症状",
+   "publishYear": "2022",
+   "definition": "直肠壁内的感受器受到刺激后冲动上传到达大脑皮质高级中枢所产生的排便感觉。肿瘤压迫直肠也可引起便意。"
+  },
+  {
+   "cn": "尿意",
+   "en": "micturition desire",
+   "source": "生理学名词",
+   "wordNumber": "08.123",
+   "subjectFullName": "生理学_肾脏生理学",
+   "subjectName": "肾脏生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "智能体的愿望",
+   "en": "agent desire",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0164",
+   "subjectFullName": "计算机科学技术_人工智能_多智能体系统",
+   "subjectName": "多智能体系统",
+   "publishYear": "2018",
+   "definition": "智能体的思维属性之一。表示智能体希望达到或者希望保持的状态。"
+  },
+  {
+   "cn": "希望的服务",
+   "en": "desired service",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0415",
+   "subjectFullName": "管理科学技术_市场营销_营销组合",
+   "subjectName": "营销组合",
+   "publishYear": "2016",
+   "definition": "一个顾客真正希望能够从一次服务接触中获得的服务质量水平。"
+  },
+  {
+   "cn": "预期值",
+   "en": "desired value",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "24.0601",
+   "subjectFullName": "机械工程_动力机械_内燃机_监控系统",
+   "subjectName": "监控系统",
+   "publishYear": "2013",
+   "definition": "系统设计时要求受控条件应保持的值。"
+  },
+  {
+   "cn": "性欲望障碍",
+   "en": "sexual desire disorder",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "期望",
+   "en": "desire",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "目标值",
+   "en": "desired value",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "目标产物",
+   "en": "desired product",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "社会称许性",
+   "en": "social desirability",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "性蚜",
+   "en": "sexuale",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "性别",
+   "en": "sexuality",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "有性阶段",
+   "en": "sexual state\",\"sexual phase",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "安格尔布雷什特",
+   "en": "Inghelbrecht\",\"Desire Emile(法国)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "性嵌合体",
+   "en": "sexual mosaic",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "性行为",
+   "en": "sexual behavior",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "性周期",
+   "en": "sexual cycle",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "有性生殖",
+   "en": "sexual reproduction",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "性细胞",
+   "en": "sexual cell",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "性选择",
+   "en": "sexual selection",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "有性孢子",
+   "en": "sexual spore",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "有性生殖",
+   "en": "sexual reproduction",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "有性世代",
+   "en": "sexual generation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "性取向",
+   "en": "sexual orientation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "性暴力",
+   "en": "sexual violence",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "欲",
+   "en": "Desire",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "寡欲",
+   "en": "Restraining Desires",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无欲",
+   "en": "Having No Excessive Desire",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人心",
+   "en": "Human Heart / Human Desires",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "七情六欲",
+   "en": "Seven Emotions and Six Desires",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "淡泊",
+   "en": "Quiet Living with No Worldly Desire",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无欲则刚",
+   "en": "People with No Covetous Desires Stand Upright.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "弃权",
+   "en": "retire\",\"withdraw",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "弃权",
+   "en": "retire\",\"withdraw",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "输入设备",
+   "en": "input device",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "输出设备",
+   "en": "output device",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "性欲",
+   "en": "sexual desire",
+   "source": "社会学名词",
+   "wordNumber": "3.3.1.4",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性社会学基本概念",
+   "subjectName": "性社会学基本概念",
+   "publishYear": "2025",
+   "definition": "推动人对异性（有时是同性）发生兴趣、进行求偶和性行为活动的一种内在力量。当人的身体发育到某种程度时，由于性机能的成熟与作用，在性激素的刺激下产生对性的需求及性行为活动。"
+  },
+  {
+   "cn": "人欲",
+   "en": "human desire",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.073",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人本能的欲望。"
+  },
+  {
+   "cn": "性传播",
+   "en": "sexual transmission",
+   "source": "消毒学",
+   "wordNumber": "4.6.8.10",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "通过与异性或同性感染者性行为导致感染的过程。"
+  },
+  {
+   "cn": "性政治",
+   "en": "sexual politics",
+   "source": "社会学名词",
+   "wordNumber": "3.2.2.10",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_女性主义",
+   "subjectName": "女性主义",
+   "publishYear": "2025",
+   "definition": "激进女性主义将个人生活政治化的一个基本概念，源自美国女权主义者米利特(Kate Millett）1970年出版的同名著作，认为与性相关的各个层面包括性意识、性关系、性身份等都是性别不平等的政治体现，是"
+  },
+  {
+   "cn": "性爱",
+   "en": "sexual love",
+   "source": "社会学名词",
+   "wordNumber": "3.3.1.5",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性社会学基本概念",
+   "subjectName": "性社会学基本概念",
+   "publishYear": "2025",
+   "definition": "以性欲为基础的对异性（有时是同性）的倾慕、亲近的感情，是爱情的一个必不可少的成分。性爱一般具有排他性、冲动性、直觉性和隐蔽性的特点。"
+  },
+  {
+   "cn": "性骚扰",
+   "en": "sexual harassment",
+   "source": "社会学名词",
+   "wordNumber": "3.3.2.4",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性规范",
+   "subjectName": "性规范",
+   "publishYear": "2025",
+   "definition": "通过语言、动作等对他人实施的一种不受欢迎的带有性意图的行为。"
+  },
+  {
+   "cn": "性暴力",
+   "en": "sexual violence",
+   "source": "社会学名词",
+   "wordNumber": "3.3.2.5",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性规范",
+   "subjectName": "性规范",
+   "publishYear": "2025",
+   "definition": "以武力强迫、威胁等实施的违背他人意愿的性接触，包括强奸、性攻击、性骚扰、猥亵、调戏等。"
+  },
+  {
+   "cn": "性取向",
+   "en": "sexual orientation",
+   "source": "社会学名词",
+   "wordNumber": "3.3.5.1",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性取向",
+   "subjectName": "性取向",
+   "publishYear": "2025",
+   "definition": "一个人倾向于和同性还是异性发生性行为。一般包括异性恋取向、同性恋取向和双性恋取向。"
+  },
+  {
+   "cn": "性少数族群",
+   "en": "sexual minorities",
+   "source": "社会学名词",
+   "wordNumber": "3.3.5.2",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性取向",
+   "subjectName": "性取向",
+   "publishYear": "2025",
+   "definition": "在性取向和性行为方面与主流文化的社会性别或性规范不符合的群体。包括同性恋、双性恋、易装者、易性者等。"
+  },
+  {
+   "cn": "恋物",
+   "en": "sexual fetishism",
+   "source": "社会学名词",
+   "wordNumber": "3.3.5.9",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性取向",
+   "subjectName": "性取向",
+   "publishYear": "2025",
+   "definition": "把无生命的物品或他人身上的非性感部分作为对象以引起性兴奋的性活动。"
+  },
+  {
+   "cn": "性的多元论",
+   "en": "sexual pluralism",
+   "source": "社会学名词",
+   "wordNumber": "3.3.6.1",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性的多元论",
+   "subjectName": "性的多元论",
+   "publishYear": "2025",
+   "definition": "主张人类性行为有多种方式的观点。提倡社会容许多种性行为的方式同时存在，占主流地位的性规范不应该强行把自己的标准加在不适合这种行为的人身上，应该容许多元的生活方式。"
+  },
+  {
+   "cn": "性发育",
+   "en": "sexual development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.6.3.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_青春期发育",
+   "subjectName": "青春期发育",
+   "publishYear": "2025",
+   "definition": "包括性染色体、性腺、性激素、内外生殖器官等的发育过程。"
+  },
+  {
+   "cn": "性侵犯",
+   "en": "sexual assault",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.2.1.10",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "违反社会准则和儿童意愿进行的暴力性活动。其中危害最大的是强奸，主要受害者是妇女和女童，少数可发生于男孩。"
+  },
+  {
+   "cn": "性行为",
+   "en": "sexual behavior",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.5",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "旨在满足性欲和获得性快感而出现的动作和活动。"
+  },
+  {
+   "cn": "性健康",
+   "en": "sexual health",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.1.3.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育内容",
+   "subjectName": "学校健康教育内容",
+   "publishYear": "2025",
+   "definition": "与性有关的身体、情感、心理和社会健康状态，不仅仅是没有疾病、功能障碍或虚弱。需要对性行为和性关系采取积极和尊重的态度，并有可能在没有胁迫、歧视和暴力的情况下获得愉快和安全的性体验。"
+  },
+  {
+   "cn": "性功能障碍",
+   "en": "sexual dysfunction",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.3.1.2.3",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_围婚期保健",
+   "subjectName": "围婚期保健",
+   "publishYear": "2025",
+   "definition": "性活动中的某一环节发生障碍，从而影响正常性功能的现象。男性可表现为性欲障碍、勃起功能障碍、早泄、不射精和逆行射精等。女性可表现为性欲障碍、性唤起障碍、性高潮障碍等。"
+  },
+  {
+   "cn": "性骚扰",
+   "en": "sexual harassment",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.1.2.4",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_妇女心理卫生",
+   "subjectName": "妇女心理卫生",
+   "publishYear": "2025",
+   "definition": "未被邀请的、不受欢迎的性挑逗、性要求及其他具有性性质的言语或身体行为。任何性别的人都有可能是受害者。按照行为方式可以分为言语性、行为性、环境性。"
+  },
+  {
+   "cn": "性暴力",
+   "en": "sexual violence",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "8.4.1.2",
+   "subjectFullName": "妇幼卫生学名词_伤害与暴力_针对妇女的暴力",
+   "subjectName": "针对妇女的暴力",
+   "publishYear": "2025",
+   "definition": "在任何地点发生的由任何人强行施加与受害者的性行为、性行为企图或其它直接针对他人性特征的强迫行为，而不论该行为人与受害人的关系如何。"
+  },
+  {
+   "cn": "性暴力",
+   "en": "sexual violence",
+   "source": "社会医学名词",
+   "wordNumber": "13.4.7",
+   "subjectFullName": "社会病",
+   "subjectName": "人际暴力",
+   "publishYear": "2025",
+   "definition": "以武力强迫、威胁等实施的违背他人意愿的性接触，包括强奸、性攻击、性骚扰、猥亵、调戏等。"
+  },
+  {
+   "cn": "性成瘾",
+   "en": "sexual addiction",
+   "source": "社会医学名词",
+   "wordNumber": "13.5.1.4",
+   "subjectFullName": "社会病",
+   "subjectName": "成瘾性社会病",
+   "publishYear": "2025",
+   "definition": "个体无法控制地沉溺于性幻想、冲动或行为，并将其作为调节情绪、逃避现实的主要手段，即使该行为已对其个人生活、社交关系或身心健康造成显著的负面后果。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

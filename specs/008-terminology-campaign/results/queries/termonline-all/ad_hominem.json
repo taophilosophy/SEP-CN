@@ -1,0 +1,512 @@
+{
+ "key": "ad hominem",
+ "term": "ad hominem",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T02:32:39+00:00",
+ "status": "ok",
+ "note": "variant=ad hominem; 审定公布名词库=173; 海峡两岸名词对照库=58; 其他来源数据库=8; 预公布名词数据库=3; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "AS-AD模型",
+   "en": "AS-AD model",
+   "source": "经济学名词",
+   "wordNumber": "04.010",
+   "subjectFullName": "经济学_宏观经济学",
+   "subjectName": "宏观经济学",
+   "publishYear": "2020",
+   "definition": "总供给与总需求模型。总供给AS受到技术和劳动力成本的影响，总需求AD由消费、投资、政府支出等变量决定。从图形上看，是一条由向右下方倾斜的总需求曲线和一条由水平段和垂直段构成的总供给曲线（即反L型总供给"
+  },
+  {
+   "cn": "肾上腺素",
+   "en": "adrenaline;AD",
+   "source": "兽医学名词",
+   "wordNumber": "04.473",
+   "subjectFullName": "兽医学_动物生理学",
+   "subjectName": "动物生理学",
+   "publishYear": "2023",
+   "definition": "中枢神经系统中某些神经元和肾上腺髓质嗜铬细胞中的苯乙醇胺氮位甲基移位酶使去甲肾上腺素甲基化而成的单胺类物质。是中枢神经系统中某些突触释放的神经递质；也是肾上腺髓质分泌的一种激素，在机体的物质代谢和神经"
+  },
+  {
+   "cn": "通栏广告",
+   "en": "banner ad",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.05.181",
+   "subjectFullName": "编辑与出版学_发行与经营_发行信息与管理",
+   "subjectName": "发行信息与管理",
+   "publishYear": "2022",
+   "definition": "与报纸整版宽度相同、面积不到半版的广告。"
+  },
+  {
+   "cn": "中缝广告",
+   "en": "gutter ad",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.05.186",
+   "subjectFullName": "编辑与出版学_发行与经营_发行信息与管理",
+   "subjectName": "发行信息与管理",
+   "publishYear": "2022",
+   "definition": "对开报纸展开后位于两个版面之间缝隙的广告。广告价格比较低廉，一般用于刊登启事、影视节目等。"
+  },
+  {
+   "cn": "翻口广告",
+   "en": "flanging ad",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.05.187",
+   "subjectFullName": "编辑与出版学_发行与经营_发行信息与管理",
+   "subjectName": "发行信息与管理",
+   "publishYear": "2022",
+   "definition": "期刊页面分成两栏或三栏时，靠近翻口一栏所刊登的广告。"
+  },
+  {
+   "cn": "软广告",
+   "en": "soft ad",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.05.193",
+   "subjectFullName": "编辑与出版学_发行与经营_发行信息与管理",
+   "subjectName": "发行信息与管理",
+   "publishYear": "2022",
+   "definition": "早期指付费的纯文字广告，目前一般指广告主通过策划在报纸、杂志或网络等宣传载体上刊登的可以提升企业品牌形象和知名度，或可以促进企业销售的一些宣传性、阐释性文章，包括特定的新闻报道、深度文章、付费短文广告"
+  },
+  {
+   "cn": "交换广告",
+   "en": "exchange ad",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.05.195",
+   "subjectFullName": "编辑与出版学_发行与经营_发行信息与管理",
+   "subjectName": "发行信息与管理",
+   "publishYear": "2022",
+   "definition": "两种或两种以上的广告媒介，互为对方发布广告而不产生广告费用的往来的广告。"
+  },
+  {
+   "cn": "免费广告",
+   "en": "free ad",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.05.196",
+   "subjectFullName": "编辑与出版学_发行与经营_发行信息与管理",
+   "subjectName": "发行信息与管理",
+   "publishYear": "2022",
+   "definition": "不付费的广告，公益广告亦属于免费广告。"
+  },
+  {
+   "cn": "报刊分类广告",
+   "en": "classified ad",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.05.197",
+   "subjectFullName": "编辑与出版学_发行与经营_发行信息与管理",
+   "subjectName": "发行信息与管理",
+   "publishYear": "2022",
+   "definition": "版面位置相对固定的一组短小广告的集合，它把广告按用途分门别类作有规则的排列，以便读者查找，适应了市场经济多层次、多类别广告信息传播的需要。"
+  },
+  {
+   "cn": "招聘广告",
+   "en": "job ad",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.05.198",
+   "subjectFullName": "编辑与出版学_发行与经营_发行信息与管理",
+   "subjectName": "发行信息与管理",
+   "publishYear": "2022",
+   "definition": "利用报刊版面或者专刊发布企业招聘信息的广告。"
+  },
+  {
+   "cn": "个人广告",
+   "en": "personal ad",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.05.199",
+   "subjectFullName": "编辑与出版学_发行与经营_发行信息与管理",
+   "subjectName": "发行信息与管理",
+   "publishYear": "2022",
+   "definition": "为满足个人需求和利益所发布的广告，如征婚启事、寻人启事、个人求职、遗失声明等。"
+  },
+  {
+   "cn": "建筑立面图",
+   "en": "façade",
+   "source": "风景园林名词",
+   "wordNumber": "07.0102",
+   "subjectFullName": "风景园林_风景园林建筑_设计技巧与表达",
+   "subjectName": "设计技巧与表达",
+   "publishYear": "2025",
+   "definition": "将建筑的不同侧表面，投影到垂直投影面上而得到的正投影图。一般分为正立面、背立面和侧立面，也可按建筑的朝向分为南立面、北立面、东立面、西立面。"
+  },
+  {
+   "cn": "增校",
+   "en": "added proofreading",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.05.023",
+   "subjectFullName": "编辑与出版学_编辑_校对",
+   "subjectName": "校对",
+   "publishYear": "2022",
+   "definition": "出版单位在三个校次之外增加的校次。"
+  },
+  {
+   "cn": "添订",
+   "en": "added ordering",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.03.092",
+   "subjectFullName": "编辑与出版学_发行与经营_发行交易",
+   "subjectName": "发行交易",
+   "publishYear": "2022",
+   "definition": "买方对已经购进的出版物再次订货。"
+  },
+  {
+   "cn": "附加价值",
+   "en": "added value",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "21.159",
+   "subjectFullName": "新闻学与传播学_广告_广告营销",
+   "subjectName": "广告营销",
+   "publishYear": "2022",
+   "definition": "在产品原有价值的基础上，通过生产过程中的有效劳动新创造的价值，即附加在产品原有价值上的新价值。附加价值的实现在于通过有效的营销手段进行连接。"
+  },
+  {
+   "cn": "价值增值",
+   "en": "value added",
+   "source": "经济学名词",
+   "wordNumber": "04.157",
+   "subjectFullName": "经济学_宏观经济学",
+   "subjectName": "宏观经济学",
+   "publishYear": "2020",
+   "definition": "一个企业的产品价值与其从别的企业购进的原材料、能源等价值之间的差额。"
+  },
+  {
+   "cn": "附加款目",
+   "en": "added entry",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.446",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_资源描述",
+   "subjectName": "资源描述",
+   "publishYear": "2019",
+   "definition": "利用文献次要特征为标目的款目。其作用是在同一种目录里充分反映文献内容，并再次提供检索途径，以补充主要款目的不足。附加款目包括题名附加款目、名称/题名附加款目、著者附加款目、主题附加款目和分类附加款目。"
+  },
+  {
+   "cn": "增值处理",
+   "en": "value adding",
+   "source": "地理信息系统名词",
+   "wordNumber": "02.626",
+   "subjectFullName": "地理信息系统_技术与应用",
+   "subjectName": "技术与应用",
+   "publishYear": "2012",
+   "definition": "对地理空间信息进行深加工以提高其价值的工作。这包括数据的验证、修改、更新、加密、信息补充、重新格式化、融合处理、重采样，以及建立与其他数据库的联系等。增值地理空间信息可能不满足数据或面向任务数据的精度"
+  },
+  {
+   "cn": "附加质量",
+   "en": "added mass",
+   "source": "船舶工程名词",
+   "wordNumber": "03.326",
+   "subjectFullName": "船舶工程_船舶性能及其试验",
+   "subjectName": "船舶性能及其试验",
+   "publishYear": "1998",
+   "definition": "作用在物体上，与加速度相位相同的单位加速度的水动力。其实际效应相当于物体的质量附加了另一个质量。"
+  },
+  {
+   "cn": "阿代尔",
+   "en": "ade&1&le",
+   "source": "数学名词",
+   "wordNumber": "04.0282",
+   "subjectFullName": "数学_代数学_代数几何学_算术",
+   "subjectName": "算术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "从价",
+   "en": "ad valorem",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "附加值",
+   "en": "added value",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "增值价值",
+   "en": "value added",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "附加质量",
+   "en": "added mass",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "从价关税",
+   "en": "ad valorem duty (=ad valorem tariff)",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "从价罚金",
+   "en": "ad valorem penalty",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "从价法",
+   "en": "ad valorem method",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "从价关税",
+   "en": "ad valorem tariff",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "从价税",
+   "en": "ad valorem tax",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "从价征税货物",
+   "en": "ad valorem goods",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "特别委员会",
+   "en": "ad hoc committee",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "从价运费",
+   "en": "ad valorem rate",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "不加载体",
+   "en": "no-carrier-added",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "阿尔茨海默病",
+   "en": "Alzheimer’s disease\",\"AD",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "从价进口关税",
+   "en": "ad valorem import duty",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "附加六度和弦",
+   "en": "chord of added 6th",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "天体物理数据系统",
+   "en": "Astrophysical Data System\",\"ADS",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "自动数字化系统",
+   "en": "automated digitizing system\",\"ADS",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "增值网",
+   "en": "value-added network\",\"VAN",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "舱外设备",
+   "en": "above deck equipment\",\"ADE",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "补时",
+   "en": "added time",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "接发球方占先",
+   "en": "ad out\",\"advantage out\",\"advantage receiver",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "发球占先",
+   "en": "ad in\",\"advantage in\",\"advantage server",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "专门标准工作组",
+   "en": "ad-hoc working group on standardization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "移动自组网安全性",
+   "en": "mobile ad-hoc network (MANET) security",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "为学日益，为道日损",
+   "en": "Pursue Knowledge by Adding; Pursue Dao by Subtracting",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "画龙点睛",
+   "en": "Adding Pupils to the Eyes of a Painted Dragon / Render the Final Touch",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "有意添加物质",
+   "en": "intentionally added substance， IAS",
+   "source": "食品卫生学名词",
+   "wordNumber": "7.1.45",
+   "subjectFullName": "食品卫生学_食品相关产品_食品接触材料及制品",
+   "subjectName": "食品接触材料及制品",
+   "publishYear": "2025",
+   "definition": "在食品接触材料及制品的生产过程中特别添加的，在制造过程或最终产品中具有或曾经起过作用，用于制造聚合物的起始物质、单体、添加剂、溶剂、聚合物生产助剂、聚合助剂和着色剂等。"
+  },
+  {
+   "cn": "自动拒止系统",
+   "en": "active denial system, ADS",
+   "source": "军事预防医学名词",
+   "wordNumber": "13.1.4",
+   "subjectFullName": "军事预防医学_新概念武器及伤害_新概念武器",
+   "subjectName": "新概念武器",
+   "publishYear": "2025",
+   "definition": "远距离发射毫米波电磁能量束以阻止、延缓和挡回前进之敌的一项突破性非杀伤技术。在杀伤性对抗出现之前，以非杀伤方法阻止单兵前进有望能拯救无数条生命。广义的拒止系统还包括反介入和/或区域拒止所使用的系统等。"
+  },
+  {
+   "cn": "非有意添加物质",
+   "en": "non-intentionally added substance，NIAS",
+   "source": "食品卫生学名词",
+   "wordNumber": "7.1.46",
+   "subjectFullName": "食品卫生学_食品相关产品_食品接触材料及制品",
+   "subjectName": "食品接触材料及制品",
+   "publishYear": "2025",
+   "definition": "食品接触材料及制品中含有的非人为添加的物质，包括原辅材料带入的杂质，在生产、经营和使用等过程中的分解产物、污染物以及残留的反应中间产物。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

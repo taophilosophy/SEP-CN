@@ -172,3 +172,10 @@
 * A 档直裁 50 条：外量词、程序合理性、斯堪的纳维亚实在论、类型-类型还原、知觉之幕、词项逻辑、时间部分理论、规范性能动性、相关选项理论、说谎者悖论、蒯因悖论等。
 * 人名用字从册：Quine 系一律作“蒯因”（依人名表既有行），不作“奎因”。
 * 落册：`term_flow` 干跑 53/0，实写 53；`registry_azsort` 术语表 7480→7533 守恒；`check_terms` 硬错误 0。清单 `tasks/manifests/2026-11-23-058-batch16-terms.json`。
+
+## 2026-11-23：术语第九批（39 条）
+
+* 后缀筛池已挖尽，改走「小写多词技术短语」路线：T2 未登记 term 型、2–4 词、freq≥6 且 spread≥3，得 2,032 条，人工圈定 45 条；6 条因单复数变体或译名撞行剔除（recursive functions、inner sense、mystical experiences、perfect information、primitive recursive functions、phenomenal concepts）。
+* 全部查审定库（28 实查、11 已有凭证）；完全对口 7 条（神经网络、性欲、进化心理学、精神障碍、可废止推理、法律解释等），5 条审定形与通行形并存，按裁定表处置并记「亦作」（公民不服从／公民抗命、社会阶级／社会阶层、方法论个人主义／方法论个体主义、语义观／理论的语义观、集体责任／集体伦理责任）。
+* conventional truth 取佛教传统译名「世俗谛」（语料 9 篇；约定真理 0 篇），依传统译名惯例。
+* 落册：`term_flow` 干跑 39/0，实写 39；`registry_azsort` 术语表 7533→7572 守恒；`check_terms` 硬错误 0。裁定表同步扩写 `results/adjudication-2026-11-23-termonline-divergences.md`；清单 `tasks/manifests/2026-11-23-058-batch17-terms.json`。

@@ -1,0 +1,742 @@
+{
+ "key": "active powers",
+ "term": "active powers",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T02:32:48+00:00",
+ "status": "ok",
+ "note": "variant=active powers; 审定公布名词库=5743; 海峡两岸名词对照库=1533; 其他来源数据库=215; 预公布名词数据库=303; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "有功功率",
+   "en": "active power",
+   "source": "电力名词",
+   "wordNumber": "01.302",
+   "subjectFullName": "电力_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "瞬时功率在一周期内的平均值:<img src='/root/syzx/static/spz/dianli3.01.302.01.png'/>对于正弦电压及电流,复功率的实部即有功功率:<img src"
+  },
+  {
+   "cn": "有功功率",
+   "en": "active power",
+   "source": "物理学名词",
+   "wordNumber": "03.0647",
+   "subjectFullName": "物理学_电磁学",
+   "subjectName": "电磁学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "有功功率",
+   "en": "active power",
+   "source": "建筑学名词",
+   "wordNumber": "14.0420",
+   "subjectFullName": "建筑学_建筑设备与系统_强电系统与设备部件",
+   "subjectName": "强电系统与设备部件",
+   "publishYear": "2014",
+   "definition": "(1)纯电阻性电路网络某端口的电压有效值与电流有效值之乘积。当电路网络呈感性或容性时，周期量电压波与电流波有了相位差。使其实际功率值变小，需要将视在功率乘以一个随电压波与电流波相位差变化的系数，这个系"
+  },
+  {
+   "cn": "有功功率",
+   "en": "active power",
+   "source": "电气工程名词",
+   "wordNumber": "01.526",
+   "subjectFullName": "电气工程_电工基础及通用名词",
+   "subjectName": "电工基础及通用名词",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "有功功率",
+   "en": "active power,KW power",
+   "source": "航海科技名词",
+   "wordNumber": "15.1127",
+   "subjectFullName": "航海科学技术_轮机管理",
+   "subjectName": "轮机管理",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "电力系统有功功率平衡",
+   "en": "active power balance of power system",
+   "source": "电力名词",
+   "wordNumber": "04.361",
+   "subjectFullName": "电力_电力系统",
+   "subjectName": "电力系统",
+   "publishYear": "2020",
+   "definition": "维持电力系统总发电和储能设备的有功功率与总负荷有功功率以及系统联络线交换的有功功率在任何时刻都达到平衡的全部运行调整过程。"
+  },
+  {
+   "cn": "有源滤波器",
+   "en": "active power filter,APF",
+   "source": "电力名词",
+   "wordNumber": "19.174",
+   "subjectFullName": "电力_变电",
+   "subjectName": "变电",
+   "publishYear": "2020",
+   "definition": "利用可关断电力电子器件,产生与负荷电流中谐波分量大小相等、相位相反的电流来抵消谐波的滤波装置。"
+  },
+  {
+   "cn": "实际有功出力曲线",
+   "en": "actual active power output curve",
+   "source": "电力名词",
+   "wordNumber": "06.455",
+   "subjectFullName": "电力_调度与通信、电力市场",
+   "subjectName": "调度与通信、电力市场",
+   "publishYear": "2020",
+   "definition": "以固定时间间隔连续记录的实际有功功率变化曲线图。"
+  },
+  {
+   "cn": "风电场有功功率",
+   "en": "active power of wind farm",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "26.0069",
+   "subjectFullName": "机械工程_动力机械_风力机_参数_设计、性能和安全参数",
+   "subjectName": "设计、性能和安全参数",
+   "publishYear": "2013",
+   "definition": "风电场输入到并网点的有功功率。"
+  },
+  {
+   "cn": "有功功率自动分配装置",
+   "en": "automatic distributor of active power",
+   "source": "航海科技名词",
+   "wordNumber": "15.1089",
+   "subjectFullName": "航海科学技术_轮机管理",
+   "subjectName": "轮机管理",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "有源的",
+   "en": "active",
+   "source": "电力名词",
+   "wordNumber": "01.182",
+   "subjectFullName": "电力_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "描述不是无源的电路元件或电路。"
+  },
+  {
+   "cn": "功率",
+   "en": "power",
+   "source": "电力名词",
+   "wordNumber": "01.300",
+   "subjectFullName": "电力_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "单位时间内所做的功,或单位时间内转移或转换的能量。"
+  },
+  {
+   "cn": "爆发力",
+   "en": "power",
+   "source": "运动医学名词",
+   "wordNumber": "06.009",
+   "subjectFullName": "运动医学_医务监督_体适能",
+   "subjectName": "体适能",
+   "publishYear": "2019",
+   "definition": "肌肉在最短时间收缩时所能产生的最大张力。大小取决于肌肉收缩力量和速度的大小。爆发力=力×速度，度量单位是功率。"
+  },
+  {
+   "cn": "把握度",
+   "en": "power",
+   "source": "肠外肠内营养学名词",
+   "wordNumber": "05.103",
+   "subjectFullName": "肠外肠内营养学_基础研究与临床研究_临床研究",
+   "subjectName": "临床研究",
+   "publishYear": "2019",
+   "definition": "能被显著性所检出的概率。其大小可用1—β(β为Ⅱ型错误的概率大小)表示。是度量假设检验优劣程度的指标。做研究设计时，如果要求检出差别显著性的把握度越大，则要求样本含量也越多。"
+  },
+  {
+   "cn": "功率",
+   "en": "power",
+   "source": "物理学名词",
+   "wordNumber": "02.0286",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "功率",
+   "en": "power",
+   "source": "呼吸病学名词",
+   "wordNumber": "09.318",
+   "subjectFullName": "呼吸病学_肺功能_呼吸肌",
+   "subjectName": "呼吸肌",
+   "publishYear": "2018",
+   "definition": "单位时间内所做的功。国际单位瓦特(W)。"
+  },
+  {
+   "cn": "功率",
+   "en": "power",
+   "source": "核医学名词",
+   "wordNumber": "03.0039",
+   "subjectFullName": "核医学_核医学设备与操作_核药物生产装置和辅助设备_核药物生产装置",
+   "subjectName": "核药物生产装置",
+   "publishYear": "2018",
+   "definition": "单位时间内所做的功，或单位时间内转移或转换所消耗的能量。"
+  },
+  {
+   "cn": "幂",
+   "en": "power",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0538",
+   "subjectFullName": "计算机科学技术_理论计算机科学_形式语言与自动机",
+   "subjectName": "形式语言与自动机",
+   "publishYear": "2018",
+   "definition": "一个串 x的零次幂为空串，x的k次幂（k>0）等于x的k-1次幂同x的连接。一个语言L的零次幂为{ε}（含ε一个元素的集合），L的k次幂为L的k-1次幂同L 的连接。"
+  },
+  {
+   "cn": "功率",
+   "en": "power",
+   "source": "计量学名词",
+   "wordNumber": "11.089",
+   "subjectFullName": "计量学_无线电_功率",
+   "subjectName": "功率",
+   "publishYear": "2015",
+   "definition": "单位时间内所完成的功。单位为瓦，符号为W。1W 表示在 1s 内完成 1J 功所需的功率。"
+  },
+  {
+   "cn": "权势关系",
+   "en": "power",
+   "source": "语言学名词",
+   "wordNumber": "12.092",
+   "subjectFullName": "语言学_社会语言学_言语交际",
+   "subjectName": "言语交际",
+   "publishYear": "2011",
+   "definition": "言语交际双方存在的尊卑、上下、长幼、强弱等一方优于另一方的关系。"
+  },
+  {
+   "cn": "有功功率",
+   "en": "active power\",\"kW power",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "有功功率自动分配装置",
+   "en": "automatic distributor of active power",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "功率",
+   "en": "power",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "功率",
+   "en": "power",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "权力",
+   "en": "power",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "电源",
+   "en": "power",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "电力",
+   "en": "power",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "功率",
+   "en": "power",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "功率",
+   "en": "power",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "活化，激活",
+   "en": "activation",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "活化剂，激活剂",
+   "en": "activator",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "激活（=活化）",
+   "en": "activation",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "激活剂（=活化剂）",
+   "en": "activator",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "活度",
+   "en": "activity",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "活化",
+   "en": "activation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "活化剂",
+   "en": "activator",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "活度",
+   "en": "activity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "活化［作用］",
+   "en": "activation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "活性",
+   "en": "activity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "激活作用",
+   "en": "activation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "积极",
+   "en": "activity",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "雄浑",
+   "en": "Powerfulness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "主动学习",
+   "en": "active learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "主动进攻",
+   "en": "active wrestling",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "加力推挡",
+   "en": "active block",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "主动反击",
+   "en": "active counterattack",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "计算能力",
+   "en": "computing power",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据力",
+   "en": "data power",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公权力",
+   "en": "public power",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "算法权力",
+   "en": "algorithm power",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "着力点",
+   "en": "power point",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "力量型球员",
+   "en": "power player",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "大力发球",
+   "en": "power service",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "权力",
+   "en": "power",
+   "source": "社会学名词",
+   "wordNumber": "3.6.2.1",
+   "subjectFullName": "社会学名词_分支社会学_政治社会学_权力与支配",
+   "subjectName": "权力与支配",
+   "publishYear": "2025",
+   "definition": "一个行动者或机构影响其他相关主体的态度和行为的能力。马克斯•韦伯认为，权力是“在社会交往中一个行动者把自己的意志强加在其他行动者之上的可能性”。"
+  },
+  {
+   "cn": "活化剂",
+   "en": "activator",
+   "source": "消毒学",
+   "wordNumber": "3.1.1.12",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "能显著增加消毒剂中的活性成分杀菌能力的制剂。"
+  },
+  {
+   "cn": "有效成分",
+   "en": "active ingredient",
+   "source": "消毒学",
+   "wordNumber": "6.1.2",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "在消毒剂配方中，对微生物具有杀灭作用的物质。"
+  },
+  {
+   "cn": "活性氯",
+   "en": "active chlorine",
+   "source": "消毒学",
+   "wordNumber": "6.1.2.8",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "具有氧化性的氯离子，是消毒的主要有效成分。"
+  },
+  {
+   "cn": "积极老龄化",
+   "en": "active aging",
+   "source": "社会学名词",
+   "wordNumber": "3.15.1.5",
+   "subjectFullName": "社会学名词_分支社会学_老年和老龄化研究_个人老化",
+   "subjectName": "个人老化",
+   "publishYear": "2025",
+   "definition": "世界卫生组织在20世纪90年代后期提出的理念。人到老年时，为提高生活质量，使健康、参与和保障的机会最优化的过程。既适用于个体，也适用于人群。"
+  },
+  {
+   "cn": "主动免疫",
+   "en": "active immunity",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.1.4",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫应答",
+   "subjectName": "免疫应答",
+   "publishYear": "2025",
+   "definition": "机体对抗原刺激产生特异性应答所建立的免疫。"
+  },
+  {
+   "cn": "主动干预",
+   "en": "active intervention",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "通过激发内因（如主动选择安全设备，或采取健康行为方式等）来影响人们的行为。"
+  },
+  {
+   "cn": "积极反应",
+   "en": "active responding",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.5.1.4.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_学校心理卫生服务",
+   "subjectName": "学校心理卫生服务",
+   "publishYear": "2025",
+   "definition": "在学校心理咨询中，咨询者通过及时提问、鼓励、复述、具体化、概述以及情感反应等与求咨者进行互动的咨询技术。有助于求咨者的倾诉继续与深入，也有助于求咨者根据咨询者的反应，审视自己的情绪与心理问题。"
+  },
+  {
+   "cn": "主动监测",
+   "en": "active surveillance",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.6.2.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "根据疾病预防控制的需要，由上级单位主动采取额外的措施收集健康数据并确认疾病诊断的一种监测方式。"
+  },
+  {
+   "cn": "主动免疫",
+   "en": "active immunity",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.4.8.3",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童保健管理",
+   "subjectName": "儿童保健管理",
+   "publishYear": "2025",
+   "definition": "向体内输入具有免疫原性的物质，诱导机体产生特异性免疫应答的过程。"
+  },
+  {
+   "cn": "积极喂养",
+   "en": "active feeding",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.5.4",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "养育人对孩子的提示和信号做出反应，并加以鼓励和表扬的喂养方式。"
+  },
+  {
+   "cn": "主动监测",
+   "en": "active surveillance",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.26",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "通过对特定病原体的监测，为食源性疾病诊断提供病原学确证，并结合流行病学调查，掌握重要食源性疾病的发病基线"
+  },
+  {
+   "cn": "积极安乐死",
+   "en": "active euthanasia",
+   "source": "医学伦理学名词",
+   "wordNumber": "7.019",
+   "subjectFullName": "医学伦理学_临终关怀与死亡伦理",
+   "subjectName": "临终关怀与死亡伦理",
+   "publishYear": "2025",
+   "definition": "在某些安乐死合法化的国家或地区，医生或法定授权执行人对某些身患不治之症、极度痛苦且本人有明确死亡要求的患者，依法采取注射致命药物等主动措施，提前终止患者生命的行为。"
+  },
+  {
+   "cn": "主动免疫",
+   "en": "active immunity",
+   "source": "军事预防医学名词",
+   "wordNumber": "9.6.1.1",
+   "subjectFullName": "军事预防医学_生物武器医学防护学_生物武器伤害医学防护",
+   "subjectName": "生物武器伤害医学防护",
+   "publishYear": "2025",
+   "definition": "将疫苗（病原体抗原）或类毒素接种于人体，使机体产生抗体获得免疫力。"
+  },
+  {
+   "cn": "主动健康",
+   "en": "active health",
+   "source": "社会医学名词",
+   "wordNumber": "1.1.8.4",
+   "subjectFullName": "社会医学概述",
+   "subjectName": "社会医学",
+   "publishYear": "2025",
+   "definition": "个体或群体基于健康意识，通过积极行为和主动管理来维护和促进自身健康的过程。"
+  },
+  {
+   "cn": "核动力",
+   "en": "nuclear power",
+   "source": "放射卫生学",
+   "wordNumber": "7.1.1.2",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核或辐射突发事件基础名词",
+   "subjectName": "核或辐射突发事件基础名词",
+   "publishYear": "2025",
+   "definition": "通过可控核反应来获取可利用的原子核能量。"
+  },
+  {
+   "cn": "君权",
+   "en": "monarchical power",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.10",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "封建君主或国王所享有的专制权力。一般与“君权神授”说关联在一起，以权力来自天命或神授予来确立统治合法性。这是来自西方政治理论的概念，原指欧洲封建君主制，广义上也用来指中国的皇权，但封建崩溃之后，皇权的"
+  },
+  {
+   "cn": "社会权力",
+   "en": "social power",
+   "source": "社会学名词",
+   "wordNumber": "2.1.5.4",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会生活",
+   "subjectName": "社会生活",
+   "publishYear": "2025",
+   "definition": "泛指社会主体以其拥有的社会资源对社会施加的种种影响力、支配力、控制力和强制力。涉及经济、政治、文化、军事等各个方面。特指与国家权力相对和共存的、源于市民社会或民间并由其掌控的对国家权力的制衡力量。"
+  },
+  {
+   "cn": "绝对权力",
+   "en": "absolute power",
+   "source": "社会学名词",
+   "wordNumber": "3.6.2.3",
+   "subjectFullName": "社会学名词_分支社会学_政治社会学_权力与支配",
+   "subjectName": "权力与支配",
+   "publishYear": "2025",
+   "definition": "没有被加以任何限制或制衡的权力，一种绝对的支配意志，一种专断的权力。英国思想史家阿克顿勋爵认为“权力导致腐败，绝对权力绝对导致腐败”。"
+  },
+  {
+   "cn": "公共权力",
+   "en": "public power",
+   "source": "社会学名词",
+   "wordNumber": "3.6.2.5",
+   "subjectFullName": "社会学名词_分支社会学_政治社会学_权力与支配",
+   "subjectName": "权力与支配",
+   "publishYear": "2025",
+   "definition": "基于社会公众的意志而由国家机关和其他公共团体所行使的、以维护公益为目的强制力量，构成了公共行为主体对公共权力客体的制约能力和力量。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,772 @@
+{
+ "key": "narrow content",
+ "term": "narrow content",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T02:30:23+00:00",
+ "status": "ok",
+ "note": "variant=narrow content; 审定公布名词库=2290; 海峡两岸名词对照库=695; 其他来源数据库=123; 预公布名词数据库=113; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "缩检",
+   "en": "narrow search",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.124",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_检索技术与方法",
+   "subjectName": "检索技术与方法",
+   "publishYear": "2019",
+   "definition": "与“扩检”相对。一种提高查准率的检索策略与方法。即利用词族及类目关系，通过增加关键词、选择专指性较强的概念或下级类目，以及限制概念词等方式来缩小检索范围，以便检出相关性更强文献的过程与方法。"
+  },
+  {
+   "cn": "窄带",
+   "en": "narrow strip",
+   "source": "冶金学名词",
+   "wordNumber": "09.0460",
+   "subjectFullName": "冶金学_金属加工_轧制",
+   "subjectName": "轧制",
+   "publishYear": "2019",
+   "definition": "宽度小于600 mm的带材。"
+  },
+  {
+   "cn": "窄带",
+   "en": "narrow band",
+   "source": "物理学名词",
+   "wordNumber": "08.1363",
+   "subjectFullName": "物理学_凝聚态物理学_固体及其性质",
+   "subjectName": "固体及其性质",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "窄馏分",
+   "en": "narrow fraction",
+   "source": "化工名词（一）石油炼制·煤制油及天然气·生物质制油",
+   "wordNumber": "02.0949",
+   "subjectFullName": "化工（一）_石油产品",
+   "subjectName": "石油产品",
+   "publishYear": "2017",
+   "definition": "沸点范围较窄的石油馏分。沸程一般≤30℃。"
+  },
+  {
+   "cn": "窄[辐射]束",
+   "en": "narrow beam",
+   "source": "化学名词",
+   "wordNumber": "06.0454",
+   "subjectFullName": "化学_放射化学_辐射化学与辐射防护",
+   "subjectName": "辐射化学与辐射防护",
+   "publishYear": "2016",
+   "definition": "不含有散射辐射的辐射束。"
+  },
+  {
+   "cn": "窄细胞",
+   "en": "narrow cell",
+   "source": "组织学与胚胎学名词",
+   "wordNumber": "17.082",
+   "subjectFullName": "组织学与胚胎学_组织学_男性生殖系统",
+   "subjectName": "男性生殖系统",
+   "publishYear": "2014",
+   "definition": "附睾管上皮中呈高柱状，较其他细胞窄的细胞。核长而致密，近细胞游离缘，基部窄，贴于基膜上。"
+  },
+  {
+   "cn": "窄射束",
+   "en": "narrow beam",
+   "source": "放射医学与防护名词",
+   "wordNumber": "05.240",
+   "subjectFullName": "放射医学与防护_放射防护_职业和公众照射防护",
+   "subjectName": "职业和公众照射防护",
+   "publishYear": "2014",
+   "definition": "经过准直器严格准置的小立体角辐射束。此条件下散射辐射的影响可忽略不计(理想情况下，不存在散射辐射)。"
+  },
+  {
+   "cn": "严式标音",
+   "en": "narrow transcription",
+   "source": "语言学名词",
+   "wordNumber": "07.021",
+   "subjectFullName": "语言学_方言学_方言调查",
+   "subjectName": "方言调查",
+   "publishYear": "2011",
+   "definition": "尽可能细致地记录所听到的实际语音音素，必要时利用各种音标附加符号予以记录。"
+  },
+  {
+   "cn": "窄轨",
+   "en": "narrow gauge",
+   "source": "土木工程名词",
+   "wordNumber": "08.004",
+   "subjectFullName": "土木工程_铁路工程_铁路",
+   "subjectName": "铁路",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "狭水道",
+   "en": "narrow channel",
+   "source": "航海科技名词",
+   "wordNumber": "09.0178",
+   "subjectFullName": "航海科学技术_船舶操纵与避碰",
+   "subjectName": "船舶操纵与避碰",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "分",
+   "en": "narrower term",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.293",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_主题法",
+   "subjectName": "主题法",
+   "publishYear": "2019",
+   "definition": "下位叙词指引词。其后所列的叙词是款目词的下位叙词。"
+  },
+  {
+   "cn": "下位词",
+   "en": "narrower term",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.264",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_主题法",
+   "subjectName": "主题法",
+   "publishYear": "2019",
+   "definition": "与“上位词”相对。一对具有等级关系的主题词中外延较窄的词。例如“不锈钢”为“钢”的下位词。"
+  },
+  {
+   "cn": "内容",
+   "en": "content",
+   "source": "档案学名词",
+   "wordNumber": "06.01.017",
+   "subjectFullName": "档案学_电子文件管理_综合",
+   "subjectName": "综合",
+   "publishYear": "2024",
+   "definition": "文件中所包含的表达作者意图的信息。文件的构成要素之一。"
+  },
+  {
+   "cn": "内容",
+   "en": "content",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "17.072",
+   "subjectFullName": "新闻学与传播学_媒体与传播法_公民(法人)的表达自由及禁限",
+   "subjectName": "公民(法人)的表达自由及禁限",
+   "publishYear": "2022",
+   "definition": "指向最终用户或观众的信息和体验。是通过某种媒介如言语、写作、艺术、现场活动等予以表达的东西。这个统称式的词汇将创作的价值一般化，无论是“写作”的作家，还是“拍电影”的制作人，都是“内容提供者”。内容本"
+  },
+  {
+   "cn": "内装物",
+   "en": "content",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.0633",
+   "subjectFullName": "食品科学技术_食品工程_食品专用技术与装备_贮藏保鲜",
+   "subjectName": "贮藏保鲜",
+   "publishYear": "2020",
+   "definition": "包装件内所装的产品或物品。"
+  },
+  {
+   "cn": "含量",
+   "en": "content",
+   "source": "计量学名词",
+   "wordNumber": "15.058",
+   "subjectFullName": "计量学_化学_化学测量的量",
+   "subjectName": "化学测量的量",
+   "publishYear": "2015",
+   "definition": "物质中所含组分的质量、摩尔或体积分数。"
+  },
+  {
+   "cn": "库容",
+   "en": "content",
+   "source": "数学名词",
+   "wordNumber": "011.0556",
+   "subjectFullName": "数学_运筹学_库存论·存储论",
+   "subjectName": "库存论?存储论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "增益[谱线]变窄",
+   "en": "gain narrowing",
+   "source": "物理学名词",
+   "wordNumber": "04.2059",
+   "subjectFullName": "物理学_光学、声学_光学_光谱学、激光、非线性光学",
+   "subjectName": "光谱学、激光、非线性光学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "动生变窄",
+   "en": "motional narrowing",
+   "source": "物理学名词",
+   "wordNumber": "08.2274",
+   "subjectFullName": "物理学_凝聚态物理学_固体及其性质",
+   "subjectName": "固体及其性质",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "争用",
+   "en": "contention",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.357",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "当两个站或更多个站在同一条公用传输信道上同时试图进行发送时，或者当彼此通常以单工方式操作的两个站同时试图进行发送时所引起的状态。"
+  },
+  {
+   "cn": "窄细胞",
+   "en": "narrow cell",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "窄[辐射]束",
+   "en": "narrow beam",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "小沟",
+   "en": "narrow groove",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "狭水道",
+   "en": "narrow channel",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "含量",
+   "en": "content",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "含量",
+   "en": "content",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "争用",
+   "en": "contention",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "水汽含量",
+   "en": "moisture content\",\"water content",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "窄带",
+   "en": "narrow band\",\"NB",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "窄环面观",
+   "en": "narrow girdle view",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "窄淬透性钢",
+   "en": "narrow hardenability steel",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "窄带测光",
+   "en": "narrow-band photometry",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "窄带波光片",
+   "en": "narrow bandpass filter",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "窄带传输",
+   "en": "narrow-band transmission",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "窄带电路",
+   "en": "narrow band circuit",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "窄带电视",
+   "en": "narrow-band TV",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "窄带放大器",
+   "en": "narrow-band amplifier",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "窄带接收机",
+   "en": "narrow-band receiver",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "窄带链路",
+   "en": "narrow-band link",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "窄带滤波器",
+   "en": "narrow band filter",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "窄握",
+   "en": "narrow grip",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "内容制作",
+   "en": "content creation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "内容法定",
+   "en": "statutory content",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "文质",
+   "en": "Form and Content",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "内容管理框架",
+   "en": "content management framework",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字内容管理",
+   "en": "digital content management",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字内容产业",
+   "en": "digital content industry",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "内容安全监管",
+   "en": "content security supervision",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "全内容链条支撑",
+   "en": "full-content chain support",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "泛内容业务国际化",
+   "en": "ubiquitous content business internationalization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "不争",
+   "en": "Not Engaging in Contention",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "庸音杂体",
+   "en": "Banal Content and Jumbled Forms",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "用户生产内容模式",
+   "en": "user-generated content (UGC) model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据内容不可重复性",
+   "en": "non-repeatability of data content",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "媒体内容智慧化生产",
+   "en": "intelligent production of media content",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络内容层",
+   "en": "content layer of the network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "窄射束",
+   "en": "narrow beam",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.2.13",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_外照射屏蔽防护设计",
+   "subjectName": "外照射屏蔽防护设计",
+   "publishYear": "2025",
+   "definition": "经过准直器严格设置的小立体角辐射束。此条件下散射辐射的影响可忽略不计（理想情况下，不存在散射辐射）。"
+  },
+  {
+   "cn": "内容",
+   "en": "content",
+   "source": "马克思主义",
+   "wordNumber": "01.0056",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“形式”相对。指构成事物内部各种要素的总和，是事物存在的基础。它包括事物的各种内在矛盾以及由这些矛盾所决定的事物的特征、运动的过程和发展的趋势等。"
+  },
+  {
+   "cn": "内毒素含量",
+   "en": "endotoxin content",
+   "source": "消毒学",
+   "wordNumber": "6.2.31.1.1",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "革兰氏阴性菌合成的存在于细菌细胞壁最外层的脂多糖的含量。"
+  },
+  {
+   "cn": "内容分析",
+   "en": "content analysis",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.15",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "以系统和定量的方式刻画给定文本的意义的分析技术。"
+  },
+  {
+   "cn": "内容效度",
+   "en": "content validity",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.76",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "有某个量度符合测量目的和要求的程度来测量其效度的方法。"
+  },
+  {
+   "cn": "报告内容",
+   "en": "report content",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.6.1.4.5",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学校突发公共卫生事件管理",
+   "subjectName": "学校突发公共卫生事件管理",
+   "publishYear": "2025",
+   "definition": "责任报告单位和责任报告人在获得突发公共卫生事件相关信息后，对于符合报告要求的事件按照由下至上报告的原则，向所在地区人民政府卫生行政部门或有关单位报告事件信息和事件发生、发展、控制过程的信息。"
+  },
+  {
+   "cn": "酒精度",
+   "en": "alcohol content",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.12.5.2",
+   "subjectFullName": "食品卫生学_食品_酒类",
+   "subjectName": "酒类",
+   "publishYear": "2025",
+   "definition": "以蒸馏法去除样品中的不挥发性物质，用密度瓶法测出试样（酒精水溶液）20 度时的密度，求得在20 度时乙醇含量的体积分数。"
+  },
+  {
+   "cn": "内容分析",
+   "en": "content analysis",
+   "source": "社会医学名词",
+   "wordNumber": "4.2.3.2",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "定性研究",
+   "publishYear": "2025",
+   "definition": "对定性调查所获取信息资料的内容作结构化分析的方法。"
+  },
+  {
+   "cn": "内容效度",
+   "en": "content validity",
+   "source": "社会医学名词",
+   "wordNumber": "4.9.2.2",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "量表",
+   "publishYear": "2025",
+   "definition": "评价量表所涉及的内容，能在多大程度上覆盖研究目的要求达到的各个方面和领域。是一个由专家主观评价的测量结果与试图要达到的目标之间接近程度的指标。"
+  },
+  {
+   "cn": "安全水分",
+   "en": "Safe Moisture content",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.1.15",
+   "subjectFullName": "食品卫生学_食品_粮食",
+   "subjectName": "粮食",
+   "publishYear": "2025",
+   "definition": "在利用完好仓储设施储粮并采取科学保粮措施的条件下，保证粮食安全度夏储存的水分含量。"
+  },
+  {
+   "cn": "阳极热容量",
+   "en": "anode heat content",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.53",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "加载期间累积或加载后保留在X射线管阳极中的热量瞬间值。"
+  },
+  {
+   "cn": "放射性含量计",
+   "en": "radioactive content meter",
+   "source": "放射卫生学",
+   "wordNumber": "6.5.4.11",
+   "subjectFullName": "放射卫生学_放射防护_工业应用的放射防护_核仪表及其他应用",
+   "subjectName": "核仪表及其他应用",
+   "publishYear": "2025",
+   "definition": "带有放射源，用于分析物体中元素成分或物质含量的测量装置。"
+  },
+  {
+   "cn": "形式与内容",
+   "en": "form and content",
+   "source": "马克思主义",
+   "wordNumber": "01.0057",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "构成事物统一体的两个不可分割的基本方面。形式与内容相互依存，没有无形式的内容，也没有无内容的形式。内容决定形式，形式依赖于内容，并随着内容的发展而改变。形式反作用于内容，影响内容。在一定条件下，二者可"
+  },
+  {
+   "cn": "残留溶剂量",
+   "en": "residual solvent content",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.10.4.18",
+   "subjectFullName": "食品卫生学_食品_食用油脂",
+   "subjectName": "食用油脂",
+   "publishYear": "2025",
+   "definition": "油脂中留存的浸出溶剂含量。以1 千克油脂中浸出溶剂的质量分数毫克每千克（mg/kg）表示。"
+  },
+  {
+   "cn": "危险水分",
+   "en": "dangerous moisture content",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.1.13",
+   "subjectFullName": "食品卫生学_食品_粮食",
+   "subjectName": "粮食",
+   "publishYear": "2025",
+   "definition": "某种粮食在常规储存条件下，极易发热、霉变的最低水分含量"
+  },
+  {
+   "cn": "挥发性物质含量",
+   "en": "volatile substances content",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.12.5.6",
+   "subjectFullName": "食品卫生学_食品_酒类",
+   "subjectName": "酒类",
+   "publishYear": "2025",
+   "definition": "在特定条件下对酒类进行干燥所损失物质（乙醇除外）的质量。"
+  },
+  {
+   "cn": "单位含量剂量函数",
+   "en": "dose per content function",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.24",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "待积有效剂量系数（或组织器官当量剂量系数）与摄入单位活度的放射性核素t天时体内或器官活度m(t)（或日排泄量的预期值）的比值。"
+  },
+  {
+   "cn": "半安全水分",
+   "en": "semi-Safe moisture content",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.1.14",
+   "subjectFullName": "食品卫生学_食品_粮食",
+   "subjectName": "粮食",
+   "publishYear": "2025",
+   "definition": "介于安全水分和危险水分之间的水分含量"
+  },
+  {
+   "cn": "【军队卫生】监督内容",
+   "en": "military health supervision content",
+   "source": "军事预防医学名词",
+   "wordNumber": "1.4.3",
+   "subjectFullName": "军事预防医学_军事预防医学_军队卫生监督",
+   "subjectName": "军队卫生监督",
+   "publishYear": "2025",
+   "definition": "通过预防性和经常性监督，将食品卫生、环境卫生、军事作业与训练卫生、传染病防治等纳入规范化管理。其本质是将军事卫生法规与战斗力保障需求转化为具体执行标准，确保军队日常与战时良好卫生状态，为战斗力生成提供"
+  },
+  {
+   "cn": "胃内容物标本",
+   "en": "specimen of gastric content",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.20.8",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "胃内的消化物样本，包括食物残渣、胃酸、胆汁等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

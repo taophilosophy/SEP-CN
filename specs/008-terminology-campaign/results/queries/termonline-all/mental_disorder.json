@@ -1,0 +1,682 @@
+{
+ "key": "mental disorder",
+ "term": "mental disorder",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T02:31:51+00:00",
+ "status": "ok",
+ "note": "variant=mental disorder; 审定公布名词库=3327; 海峡两岸名词对照库=1015; 其他来源数据库=73; 预公布名词数据库=195; jwt-direct（JWT 直连，raw 略；已滤维基 13 条）",
+ "hits": [
+  {
+   "cn": "精神障碍",
+   "en": "mental disorder",
+   "source": "肝病学名词",
+   "wordNumber": "4.2.2.1.3.1",
+   "subjectFullName": "肝病学_脂肪性肝病_酒精性肝病",
+   "subjectName": "酒精性肝病",
+   "publishYear": "2024",
+   "definition": "一类病因复杂的脑疾病。以个体认知、情感或意志障碍为特征的一种综合征，即影响情绪、思维和行为的疾病，包括焦虑症、强迫症、抑郁症、双相障碍、精神分裂症、进食障碍、酒精或药物使用障碍等。临床可分为器质性和功"
+  },
+  {
+   "cn": "精神障碍",
+   "en": "mental disorder",
+   "source": "精神医学名词",
+   "wordNumber": "01.016",
+   "subjectFullName": "精神医学_总论",
+   "subjectName": "总论",
+   "publishYear": "2019",
+   "definition": "在各种生物、心理、社会环境等因素的影响下，人的大脑发生病理生理变化使其功能损害，导致其认知、情感、行为等精神活动出现异常的总称。"
+  },
+  {
+   "cn": "心理障碍",
+   "en": "mental disorder",
+   "source": "心理学名词",
+   "wordNumber": "10.083",
+   "subjectFullName": "心理学_医学心理学",
+   "subjectName": "医学心理学",
+   "publishYear": "2014",
+   "definition": "伴有痛苦或妨碍个人功能的症状或行为的总称。是认知、情绪、行为的改变，常伴有痛苦体验和心理功能损害。"
+  },
+  {
+   "cn": "心理障碍",
+   "en": "mental disorder",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "02.313",
+   "subjectFullName": "全科医学与社区卫生_社区常见临床问题",
+   "subjectName": "社区常见临床问题",
+   "publishYear": "2014",
+   "definition": "由各种不良刺激引起的心理异常现象。"
+  },
+  {
+   "cn": "心理障碍",
+   "en": "mental disorder",
+   "source": "放射医学与防护名词",
+   "wordNumber": "11.139",
+   "subjectFullName": "放射医学与防护_放射性疾病诊断、治疗与健康监护_放射性局部损伤",
+   "subjectName": "放射性局部损伤",
+   "publishYear": "2014",
+   "definition": "许多不同种类的心理、情绪和行为异常的总称。这些异常现象通常是由于心理的、社会的、生理的或药物的等多种原因所造成，并以个体无法有效地适应日常生活要求为其指征。"
+  },
+  {
+   "cn": "精神障碍",
+   "en": "mental disorder",
+   "source": "医学名词 第四分册",
+   "wordNumber": "08.026",
+   "subjectFullName": "医学_精神病学",
+   "subjectName": "精神病学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "心理障碍",
+   "en": "psychological disorder,mental disorder",
+   "source": "计划生育名词",
+   "wordNumber": "04.010",
+   "subjectFullName": "计划生育_生殖健康心理卫生",
+   "subjectName": "生殖健康心理卫生",
+   "publishYear": "2019",
+   "definition": "医学心理学常用的一个概念。在日常使用中有不同的含义：（1）心理疾病的一种症状；（2）轻微的心理异常；（3）与心理疾病和（或）精神疾病同义。可出现于神经症或精神病患者中，也可出现于正常人中。"
+  },
+  {
+   "cn": "心理生理障碍",
+   "en": "mental physiological disorder",
+   "source": "精神医学名词",
+   "wordNumber": "03.242",
+   "subjectFullName": "精神医学_诊断分类_心理生理障碍",
+   "subjectName": "心理生理障碍",
+   "publishYear": "2019",
+   "definition": "一组与心理社会因素有关的以进食、睡眠及性行为异常为主的精神障碍。包括进食障碍、睡眠障碍、性功能障碍等。"
+  },
+  {
+   "cn": "器质性精神障碍",
+   "en": "organic mental disorder",
+   "source": "精神医学名词",
+   "wordNumber": "03.001",
+   "subjectFullName": "精神医学_诊断分类_器质性精神障碍",
+   "subjectName": "器质性精神障碍",
+   "publishYear": "2019",
+   "definition": "基于可证实的大脑疾病、脑损伤或其他损害为病因而归于一组的精神障碍。脑功能损害可以是原发性的，如直接或选择性影响大脑的疾病和损伤；也可以是继发性的，如某些全身性疾病和障碍，脑只是多个受损害的器官或系统之"
+  },
+  {
+   "cn": "症状性精神障碍",
+   "en": "symptomatic mental disorder",
+   "source": "精神医学名词",
+   "wordNumber": "03.002",
+   "subjectFullName": "精神医学_诊断分类_器质性精神障碍",
+   "subjectName": "器质性精神障碍",
+   "publishYear": "2019",
+   "definition": "全身性疾病或障碍影响脑功能造成的精神障碍。"
+  },
+  {
+   "cn": "器质性精神障碍",
+   "en": "organic mental disorder",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "04.037",
+   "subjectFullName": "阿尔茨海默病_精神与心理认知学",
+   "subjectName": "精神与心理认知学",
+   "publishYear": "2019",
+   "definition": "一组由脑部或躯体器质性疾病或脑外伤，以及外源性物质中毒或戒断导致的精神障碍。"
+  },
+  {
+   "cn": "战时心理障碍",
+   "en": "wartime mental disorder",
+   "source": "心理学名词",
+   "wordNumber": "16.022",
+   "subjectFullName": "心理学_军事心理学",
+   "subjectName": "军事心理学",
+   "publishYear": "2014",
+   "definition": "参战人员在战争期间发生各种心理功能异常。主要包括作战应激反应、战争神经症、战争精神病及战伤后心理反应等。"
+  },
+  {
+   "cn": "器质性精神障碍",
+   "en": "organic mental disorder",
+   "source": "心理学名词",
+   "wordNumber": "10.158",
+   "subjectFullName": "心理学_医学心理学",
+   "subjectName": "医学心理学",
+   "publishYear": "2014",
+   "definition": "由于脑部疾病或躯体疾病导致的一组精神障碍。"
+  },
+  {
+   "cn": "医源性精神障碍",
+   "en": "iatrogenic mental disorder",
+   "source": "医学名词 第四分册",
+   "wordNumber": "08.224",
+   "subjectFullName": "医学_精神病学",
+   "subjectName": "精神病学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "经行情志异常",
+   "en": "menstrual mental disorders",
+   "source": "中医药学名词（2010）",
+   "wordNumber": "02.0221",
+   "subjectFullName": "中医药学_妇科学",
+   "subjectName": "妇科学",
+   "publishYear": "2010",
+   "definition": "以经期、经前出现烦躁易怒，情志抑郁，悲伤欲哭，坐卧不宁，经后又复如常人为常见症的月经病。"
+  },
+  {
+   "cn": "癫癎性精神障碍",
+   "en": "mental disorder in epilepsy",
+   "source": "心理学名词",
+   "wordNumber": "10.157",
+   "subjectFullName": "心理学_医学心理学",
+   "subjectName": "医学心理学",
+   "publishYear": "2014",
+   "definition": "特发性及症状性癫痫伴发的精神障碍。"
+  },
+  {
+   "cn": "儿童器质性精神障碍",
+   "en": "childhood organic mental disorder",
+   "source": "行为医学名词",
+   "wordNumber": "18.075",
+   "subjectFullName": "行为医学_儿童行为及其障碍_儿童行为障碍",
+   "subjectName": "儿童行为障碍",
+   "publishYear": "2022",
+   "definition": "儿童由脑部疾病或躯体疾病引起的精神障碍。"
+  },
+  {
+   "cn": "急性中毒所致精神障碍",
+   "en": "acute intoxication mental disorder",
+   "source": "精神医学名词",
+   "wordNumber": "03.050",
+   "subjectFullName": "精神医学_诊断分类_物质相关障碍",
+   "subjectName": "物质相关障碍",
+   "publishYear": "2019",
+   "definition": "使用药物或酒精后导致生理、心理或行为功能与反应模式改变的短暂状态。"
+  },
+  {
+   "cn": "入魔",
+   "en": "go into mental disorder",
+   "source": "运动医学名词",
+   "wordNumber": "08.099",
+   "subjectFullName": "运动医学_中医药应用",
+   "subjectName": "中医药应用",
+   "publishYear": "2019",
+   "definition": "练功者因练功不当而导致的一类神形失常的现象。"
+  },
+  {
+   "cn": "精神障碍儿童",
+   "en": "children with mental disorder",
+   "source": "教育学名词",
+   "wordNumber": "10.066",
+   "subjectFullName": "教育学_特殊教育",
+   "subjectName": "特殊教育",
+   "publishYear": "2013",
+   "definition": "各类精神障碍持续一年以上未痊愈，由于存在认知、情感和行为障碍，以致影响其日常生活和社会参与的儿童。"
+  },
+  {
+   "cn": "心理障碍,精神障碍",
+   "en": "mental disorder\",\"psychological disorder",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "器质性精神障碍",
+   "en": "organic mental disorder",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "颏孔点",
+   "en": "mentale",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "心理账户",
+   "en": "mental account\",\"mental accounting",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "无序",
+   "en": "disorder",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "颏结节",
+   "en": "mental tubercle",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "颏孔",
+   "en": "mental foramen",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "颏动脉",
+   "en": "mental artery",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "颏棘",
+   "en": "mental spine",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "颏联合",
+   "en": "mental symphysis",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "颏隆凸",
+   "en": "mental protuberance",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "颏区",
+   "en": "mental region",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "颏神经",
+   "en": "mental nerve",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "颏支",
+   "en": "mental branch",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "智力落后,精神发育迟缓",
+   "en": "mental retardation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "心理疾病",
+   "en": "mental illness",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "心理过程",
+   "en": "mental process",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "心理状态",
+   "en": "mental state",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "心理旋转",
+   "en": "mental rotation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "心理表征",
+   "en": "mental representation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "数据失序",
+   "en": "data disorder",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "创伤后应激障碍",
+   "en": "post-traumatic stress disorder (PTSD)",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "乱世之音",
+   "en": "Music of an Age of Disorder",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "文起八代之衰，道济天下之溺",
+   "en": "The Classical Style of Writing Revived the Literary Style in Decline During the Eight Dynasties; Confucianism Lifts the People out of Their Mental Plight.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "标枪头",
+   "en": "metal head\",\"metal point",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "金属剑道",
+   "en": "metal carpets",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "金属剑道",
+   "en": "metal carpets",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "心理障碍",
+   "en": "mental disorder",
+   "source": "社会学名词",
+   "wordNumber": "3.11.2.5",
+   "subjectFullName": "社会学名词_分支社会学_医学社会学_健康现象与行为",
+   "subjectName": "健康现象与行为",
+   "publishYear": "2025",
+   "definition": "由于心理的原因导致无法正常应对日常生活。心理专家将其区分为两类，一是神经官能性的，相对症状较轻，比如紧张；二是精神心理性的，症状较重，个体心理已经脱离现实。"
+  },
+  {
+   "cn": "精神障碍",
+   "en": "mental disorder",
+   "source": "社会医学名词",
+   "wordNumber": "13.7",
+   "subjectFullName": "社会病",
+   "subjectName": "精神障碍",
+   "publishYear": "2025",
+   "definition": "由大脑功能显著异常引起的，导致个体痛苦或社会功能受损的临床状况，且排除物质、躯体疾病等直接生理效应。"
+  },
+  {
+   "cn": "器质性精神障碍",
+   "en": "organic mental disorder",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.8.26",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_风湿免疫病相关综合征",
+   "subjectName": "风湿免疫病相关综合征",
+   "publishYear": "2025",
+   "definition": "“器质性精神病(organic psychosis)”，基于可证实的大脑疾病、脑损伤或其他损害为病因而归于一组的精神障碍。脑功能损害可以是原发性的，如直接或选择性影响大脑的疾病和损伤；也可以是继发性的"
+  },
+  {
+   "cn": "女性特有的精神障碍",
+   "en": "female-specific mental disorder",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.2.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_妇女精神障碍",
+   "subjectName": "妇女精神障碍",
+   "publishYear": "2025",
+   "definition": "仅见于女性的，与女性特有的生理和生殖相关的涉及重大精神和行为特征的综合症。"
+  },
+  {
+   "cn": "妊娠有关精神障碍",
+   "en": "mental disorder associated with pregnancy",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.2.1.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_妇女精神障碍",
+   "subjectName": "妇女精神障碍",
+   "publishYear": "2025",
+   "definition": "与妊娠有关的涉及重大精神和行为特征的综合症，可伴有幻觉、妄想、言语和行为紊乱等脱离现实的精神病性症状。"
+  },
+  {
+   "cn": "分娩有关精神障碍",
+   "en": "mental disorder associated with childbirth",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.2.1.4",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_妇女精神障碍",
+   "subjectName": "妇女精神障碍",
+   "publishYear": "2025",
+   "definition": "与分娩有关的涉及重大精神和行为特征的综合症，可伴有幻觉、妄想、言语和行为紊乱等脱离现实的精神病性症状。"
+  },
+  {
+   "cn": "产褥期相关精神障碍",
+   "en": "mental disorder associated with the puerperium",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.2.1.5",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_妇女精神障碍",
+   "subjectName": "妇女精神障碍",
+   "publishYear": "2025",
+   "definition": "于产后约6周内开始的产褥期有关的涉及重大精神和行为特征的综合症，可伴有幻觉、妄想、言语和行为紊乱等脱离现实的精神病性症状。"
+  },
+  {
+   "cn": "脑力劳动",
+   "en": "mental labor",
+   "source": "马克思主义",
+   "wordNumber": "01.0127",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“体力劳动”相对。以消耗脑力为主的劳动，体力劳动在其中起辅助作用。"
+  },
+  {
+   "cn": "精神交往",
+   "en": "mental communication",
+   "source": "马克思主义",
+   "wordNumber": "01.0149",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人们之间的思想、观念、意识等的交流、批评或肯定的精神活动。精神交往受物质交往和物质关系的制约，但具有相对独立性。精神交往使精神成果得到认同、确证、传播和实现，是保证和促进精神生产的重要手段。"
+  },
+  {
+   "cn": "心理年龄",
+   "en": "mental age",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.1.6.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育规律",
+   "subjectName": "生长发育规律",
+   "publishYear": "2025",
+   "definition": "标准化心理测验判断心理发育成熟程度对应于群体平均水平所在年龄。"
+  },
+  {
+   "cn": "心理自我",
+   "en": "mental self",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.10.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "个体对自己的智力、情感与人格特征以及价值取向和宗教信仰等的认识。"
+  },
+  {
+   "cn": "精神残疾",
+   "en": "mental disability",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.7",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "各类精神障碍持续一年以上未痊愈，由于病人的认知、情感和行为障碍，影响其日常和社会参与。"
+  },
+  {
+   "cn": "心理健康",
+   "en": "mental health",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.1.1.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育内容",
+   "subjectName": "学校健康教育内容",
+   "publishYear": "2025",
+   "definition": "有利于个体身心发展，工作、学习有效率，维持良好生活质量的适宜的心理状态。"
+  },
+  {
+   "cn": "智龄",
+   "en": "mental age",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.28",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "用某种智力测验工具测得的智力发展水平，即一个人智力发育水平的年龄。"
+  },
+  {
+   "cn": "心理健康",
+   "en": "mental health",
+   "source": "社会医学名词",
+   "wordNumber": "2.5.5",
+   "subjectFullName": "医学模式",
+   "subjectName": "生物-心理-社会医学模式",
+   "publishYear": "2025",
+   "definition": "个体在认知、情感、意志等心理活动层面所具有的一种良好状态。表现为能够认识和接纳自我，合理调节情绪、对社会有良好的适应力，并在面对压力和挑战时保持心理功能的稳定与协调。"
+  },
+  {
+   "cn": "心理状态",
+   "en": "mental status",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.1.2",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "反映个体情绪和认知的状态。"
+  },
+  {
+   "cn": "社会心态",
+   "en": "social mentality",
+   "source": "社会学名词",
+   "wordNumber": "4.1.20.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会心态",
+   "subjectName": "社会心态",
+   "publishYear": "2025",
+   "definition": "在特定社会背景下形成的一种群体共有的心理状态，包括由价值观及信仰所体现出来的社会心理倾向、对具体现实的各种感受和情绪等，直接反映当时的社会精神状态。"
+  },
+  {
+   "cn": "民俗心理",
+   "en": "folklore mentality",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0502",
+   "subjectFullName": "民族学与文化学_民俗学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "一定人类群体中蕴含的一种较稳定的习俗意识定势，是民俗生活相在人们头脑中循环往复潜留下来的心理意识，经过历史的传承而逐步形成的。"
+  },
+  {
+   "cn": "军事脑力作业",
+   "en": "military mental work",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.1.2",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业生理学",
+   "subjectName": "军事作业生理学",
+   "publishYear": "2025",
+   "definition": "在军事活动过程中，以中枢神经系统为主的作业过程。"
+  },
+  {
+   "cn": "心理健康问题预防",
+   "en": "mental health prevention",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.6.5",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_常见疾病预防",
+   "subjectName": "常见疾病预防",
+   "publishYear": "2025",
+   "definition": "为了阻止个体在心理健康方面存在的偏倚而采取的一系列措施。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

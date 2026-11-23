@@ -1,0 +1,682 @@
+{
+ "key": "large cardinal axioms",
+ "term": "large cardinal axioms",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T02:32:17+00:00",
+ "status": "ok",
+ "note": "variant=large cardinal axioms; 审定公布名词库=1453; 海峡两岸名词对照库=487; 其他来源数据库=31; 预公布名词数据库=46; jwt-direct（JWT 直连，raw 略；已滤维基 13 条）",
+ "hits": [
+  {
+   "cn": "大基数",
+   "en": "large cardinals",
+   "source": "数学名词",
+   "wordNumber": "02.0214",
+   "subjectFullName": "数学_数理逻辑·数学基础_集合论",
+   "subjectName": "集合论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "公理",
+   "en": "axiom",
+   "source": "物理学名词",
+   "wordNumber": "01.0151",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "公理",
+   "en": "axiom",
+   "source": "数学名词",
+   "wordNumber": "01.0008",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "基数词",
+   "en": "cardinal",
+   "source": "语言学名词",
+   "wordNumber": "04.075",
+   "subjectFullName": "语言学_语法学_词法",
+   "subjectName": "词法",
+   "publishYear": "2011",
+   "definition": "与“序数词”相对。表示各种数目的数词。例如“三”“四分之一”。"
+  },
+  {
+   "cn": "阿姆斯特朗公理",
+   "en": "Armstrong axioms",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0044",
+   "subjectFullName": "计算机科学技术_数据库_数据模型",
+   "subjectName": "数据模型",
+   "publishYear": "2018",
+   "definition": "函数依赖推理的公理体系，包括自反律、增广律和传递律。设 U为关系模式R的属性集总体，F是U上的一组函数依赖。则对于关系模式R<U, F>是否为F所蕴含，推理规则如下：①自反律。若Y⊆X⊆U，则X→Y为"
+  },
+  {
+   "cn": "独立公理",
+   "en": "independent axiom",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0048",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械设计_设计方法",
+   "subjectName": "设计方法",
+   "publishYear": "2021",
+   "definition": "保持功能要求独立性的基本公理。"
+  },
+  {
+   "cn": "信息公理",
+   "en": "information axiom",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0049",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械设计_设计方法",
+   "subjectName": "设计方法",
+   "publishYear": "2021",
+   "definition": "力求使设计信息量最小的基本公理。"
+  },
+  {
+   "cn": "安全性公理",
+   "en": "security axiom",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0227",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "经过人们长期反复实践的考验，不需要再加以证明的有关安全性的命题。"
+  },
+  {
+   "cn": "佩亚诺公理",
+   "en": "Peano axiom",
+   "source": "数学名词",
+   "wordNumber": "02.0128",
+   "subjectFullName": "数学_数理逻辑·数学基础_证明论",
+   "subjectName": "证明论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "概括公理",
+   "en": "comprehension axiom",
+   "source": "数学名词",
+   "wordNumber": "02.0165",
+   "subjectFullName": "数学_数理逻辑·数学基础_集合论",
+   "subjectName": "集合论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "正则公理",
+   "en": "regularity axiom",
+   "source": "数学名词",
+   "wordNumber": "02.0166",
+   "subjectFullName": "数学_数理逻辑·数学基础_集合论",
+   "subjectName": "集合论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "分离公理",
+   "en": "separating axiom",
+   "source": "数学名词",
+   "wordNumber": "05.0787",
+   "subjectFullName": "数学_分析学_凸分析",
+   "subjectName": "凸分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "公理A",
+   "en": "axiom A",
+   "source": "数学名词",
+   "wordNumber": "06.0162",
+   "subjectFullName": "数学_微分方程_积分方程_动力系统（数学）",
+   "subjectName": "动力系统（数学）",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "切除公理",
+   "en": "excision axiom",
+   "source": "数学名词",
+   "wordNumber": "08.0706",
+   "subjectFullName": "数学_几何学_拓扑学_代数拓扑学",
+   "subjectName": "代数拓扑学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "阿基米德公理",
+   "en": "Archimedean axiom",
+   "source": "数学名词",
+   "wordNumber": "08.0011",
+   "subjectFullName": "数学_几何学_拓扑学_欧几里得几何学",
+   "subjectName": "欧几里得几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "分离性公理",
+   "en": "separation axiom",
+   "source": "数学名词",
+   "wordNumber": "08.0510",
+   "subjectFullName": "数学_几何学_拓扑学_一般拓扑学",
+   "subjectName": "一般拓扑学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "关联公理",
+   "en": "incidence axioms,axiom of connection",
+   "source": "数学名词",
+   "wordNumber": "08.0005",
+   "subjectFullName": "数学_几何学_拓扑学_欧几里得几何学",
+   "subjectName": "欧几里得几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "四方点",
+   "en": "cardinal points",
+   "source": "天文学名词",
+   "wordNumber": "02.030",
+   "subjectFullName": "天文学_天体测量学",
+   "subjectName": "天体测量学",
+   "publishYear": "2024",
+   "definition": "地平圈上东、南、西、北四点的总称。子午圈与地平圈的两个交点中距北天极小于90°的一点为北点，另一点为南点。与南、北两点相距 90°，位于天体周日运动上升一边的一点为东点，另一点为西点。"
+  },
+  {
+   "cn": "基面",
+   "en": "cardinal plane",
+   "source": "光学名词",
+   "wordNumber": "13.085",
+   "subjectFullName": "光学_一般光学系统与光学设计",
+   "subjectName": "一般光学系统与光学设计",
+   "publishYear": "2021",
+   "definition": "用来表征光学系统折光特性的一些特征面。基面包括主面和焦面。"
+  },
+  {
+   "cn": "基点",
+   "en": "cardinal point",
+   "source": "物理学名词",
+   "wordNumber": "04.0374",
+   "subjectFullName": "物理学_光学、声学_光学_几何光学、光学仪器、生理光学、光度学、色度学",
+   "subjectName": "几何光学、光学仪器、生理光学、光度学、色度学",
+   "publishYear": "2019",
+   "definition": "理想光学系统中代表该系统特性的三对共轭点(两主点、两节点、两焦点)的总称。"
+  },
+  {
+   "cn": "基本方位",
+   "en": "cardinal",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "基本方向",
+   "en": "cardinal\",\"cardinal direction",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "基数",
+   "en": "cardinality",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "阿姆斯特朗公理",
+   "en": "Armstrong axioms",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "并发公理",
+   "en": "concurrency axiom",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "归纳公理",
+   "en": "induction axiom",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "情态公理",
+   "en": "case axiom",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数学公理",
+   "en": "mathematical axiom",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "外延公理",
+   "en": "extension axiom",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "基点温度",
+   "en": "cardinal temperatures",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "首要特质,核心特质",
+   "en": "cardinal trait",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "四方点",
+   "en": "cardinal points",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "基本温度",
+   "en": "cardinal temperature",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "基本方位",
+   "en": "cardinal points",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "基本方位点",
+   "en": "cardinal points",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "轴节基因",
+   "en": "cardinal gene",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "基平面",
+   "en": "cardinal plane",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "主突",
+   "en": "cardinal process",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "主线",
+   "en": "cardinal line",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "主缘",
+   "en": "cardinal margin",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "大错",
+   "en": "large fault",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "大数律",
+   "en": "law of large numbers",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大规模传感器网络",
+   "en": "large-scale sensor network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大型强子对撞机",
+   "en": "Large Hadron Collider (LHC)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大型巡天望远镜",
+   "en": "large synoptic survey telescope (LSST)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "ImageNet大规模图像识别竞赛",
+   "en": "ImageNet Large Scale Visual Recognition Challenge (ILSVRC)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB 4943.23-2012 信息技术设备 安全 第23部分：大型数据存储设备》",
+   "en": "GB 4943.23-2012 Information technology equipment — Safety — Part 23: Large data storage equipment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "基数效用论",
+   "en": "cardinal utility",
+   "source": "卫生经济学名词",
+   "wordNumber": "4.2.2",
+   "subjectFullName": "卫生经济学名词_卫生服务需求_卫生服务消费者行为",
+   "subjectName": "卫生服务消费者行为",
+   "publishYear": "2025",
+   "definition": "主张用基数词来表示消费者效用数量的理论。该理论认为，效用是消费者在消费商品时所得到的满足，可以用数值来衡量和相加。消费者均衡的条件是花在每一种商品上的最后一单位货币所带来的边际效用都相等，每一种商品所"
+  },
+  {
+   "cn": "四项基本原则",
+   "en": "Four Cardinal Principles",
+   "source": "马克思主义",
+   "wordNumber": "03.0514",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1979年3月30日邓小平在理论工作务虚会上作了题为《坚持四项基本原则》的讲话，提出了必须坚持的“四项基本原则”。四项基本原则包括：第一，必须坚持社会主义道路；第二，必须坚持无产阶级专政；第三，必须坚"
+  },
+  {
+   "cn": "三纲",
+   "en": "three cardinal guides",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.072",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "封建礼教所提倡的人与人之间的道德标准，指君为臣纲，父为子纲，夫为妻纲，要求臣、子、妻必须绝对服从君、父、夫。"
+  },
+  {
+   "cn": "大份额",
+   "en": "large portion, LP",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.58",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "能够代表一种食物消费量的第97.5 百分位数（仅食用者）的食物消费量，来自食物消费调查中的个人消费日。"
+  },
+  {
+   "cn": "大地主所有制",
+   "en": "large landlord owership",
+   "source": "马克思主义",
+   "wordNumber": "04.0030",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "一个地主、领主或贵族掌握大量土地，并以此来剥削农民，是封建土地所有制的主流。"
+  },
+  {
+   "cn": "大规模社会",
+   "en": "large-scale society",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0015",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "针对那些位于世界体系中较为复杂的社会。和小规模社会相比，他们所处的地理范围较大，文化异质性强，出现职业多元、社会分层与人口流动，内外关系联系增加，已卷入国家与世界一体的市场经济之中。"
+  },
+  {
+   "cn": "大型压力蒸汽灭菌器",
+   "en": "large pressure steam sterilizer",
+   "source": "消毒学",
+   "wordNumber": "3.1.3.10.4",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "容积大于60L的压力蒸汽灭菌器，一般为卧式结构。"
+  },
+  {
+   "cn": "大数法则",
+   "en": "law of large numbers",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.1.5.1",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险概述",
+   "subjectName": "健康保险概述",
+   "publishYear": "2025",
+   "definition": "通过大量的个体变量的汇集，消除偶然的、次要的因素所引起的个别差异，总结出的被研究总体在数量关系上稳定的、一般的规律"
+  },
+  {
+   "cn": "大型医用设备配置管理",
+   "en": "configuration management of large medical equipment ",
+   "source": "卫生经济学名词",
+   "wordNumber": "14.3.7",
+   "subjectFullName": "卫生经济学名词_医生与医院行为_医院经济管理",
+   "subjectName": "医院经济管理",
+   "publishYear": "2025",
+   "definition": "为合理配置和有效使用大型医用设备开展的规划、配置、审批以及监督的过程。"
+  },
+  {
+   "cn": "大于胎龄儿",
+   "en": "large-for-gestational-age (LGA) infant",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.2.16",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "出生体重大于同胎龄平均体重的P90th的新生儿。临床上将出生体重>4000g的新生儿也称巨大胎儿。"
+  },
+  {
+   "cn": "大杂居小聚居",
+   "en": "large-scale mixed residency with small-scale ethnic clustering",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0483",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "中国各民族居住的状况。我国有五十六个民族，汉族是人数最多的民族，其余五十五个都是少数民族。从各民族居住地看，各民族分散在各省区市，混合居住，因此叫“大杂居”，但从各省区市看，少数民族聚居在一乡、一县，"
+  },
+  {
+   "cn": "抓大放小",
+   "en": "to invigorate large enterprises while relaxing control over small ones",
+   "source": "马克思主义",
+   "wordNumber": "02.0411",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "在深化国有企业改革、推进国有企业战略性改组中提出的一个重要方针。“抓大”，是指着力培育实力雄厚、竞争力强的大型企业和企业集团，使其可以成为跨地区、跨行业、跨所有制和跨国经营的大企业集团。“放小”，是指"
+  },
+  {
+   "cn": "边缘的",
+   "en": "marginal",
+   "source": "社会学名词",
+   "wordNumber": "3.2.3.16",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别研究",
+   "subjectName": "性别研究",
+   "publishYear": "2025",
+   "definition": "女性主义对于父权制社会中弱势群体被忽视、被排斥的状况的一种描述。认为主流社会文化的盲视、遮蔽或隐匿以及等级制的划分使得弱势群体被隔离或排斥于主流之外，使其经验和知识被湮灭于历史和文化中。"
+  },
+  {
+   "cn": "边缘模型",
+   "en": "marginal model",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.112",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "对一组变量的边缘分布、甚至它们的联合分布设定限制的统计模型。"
+  },
+  {
+   "cn": "边缘群体",
+   "en": "marginal population",
+   "source": "社会学名词",
+   "wordNumber": "2.5.1.10",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_群体",
+   "subjectName": "群体",
+   "publishYear": "2025",
+   "definition": "因与主流文化、主流价值观或主导社会体制不同而被边缘化的群体，其中那些处于两种文化边缘的人群，既不为原来的文化又不为现在的文化群体所接纳；那些价值定向与社会主导的规范相异的人群，常被社会视为“异己”人群"
+  },
+  {
+   "cn": "边际分析",
+   "en": "marginal analysis",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.1.2.4",
+   "subjectFullName": "卫生经济学名词_卫生经济学_卫生经济学",
+   "subjectName": "卫生经济学",
+   "publishYear": "2025",
+   "definition": "在资源一定条件下，为从备选方案中做出最优选择，对边际成本、边际收入和边际利润所进行的计量分析。"
+  },
+  {
+   "cn": "边际效用",
+   "en": "marginal utility",
+   "source": "卫生经济学名词",
+   "wordNumber": "4.2.1.2.1",
+   "subjectFullName": "卫生经济学名词_卫生服务需求_卫生服务消费者行为",
+   "subjectName": "卫生服务消费者行为",
+   "publishYear": "2025",
+   "definition": "消费者从增加一单位某种商品的消费所获得满足程度的增加。"
+  },
+  {
+   "cn": "边际收益",
+   "en": "marginal revenue",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.2.1",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务生产",
+   "subjectName": "卫生服务生产",
+   "publishYear": "2025",
+   "definition": "每增加一单位商品销售所带来的总收益的增加。"
+  },
+  {
+   "cn": "边际报酬",
+   "en": "marginal return",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.2.2",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务生产",
+   "subjectName": "卫生服务生产",
+   "publishYear": "2025",
+   "definition": "既定技术水平下，在其余要素投入保持一定的情况下，增加一单位某要素投入所带来的产量的增量。"
+  },
+  {
+   "cn": "边际产量",
+   "en": "marginal production",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.2.7.2.2",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务生产",
+   "subjectName": "卫生服务生产",
+   "publishYear": "2025",
+   "definition": "增加一单位可变要素投入量所增加的产量。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
