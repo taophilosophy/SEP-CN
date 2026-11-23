@@ -557,7 +557,7 @@ B3.2 的 sha 全等清单即 OAIS fixity 账的实现形态；与 ADR-0076 已�
 | 子族 | 件数 | 判例与机制 |
 | ---- | ---- | ---- |
 | 数学定界/宏形 | 15 | 细分：显示式取域/宏形 8 件（criminal-law／geometry-finitism／logic-intensional／logic-power-games／logic-probability／propositional-function／ramsey／recursive-functions）；弯引号与 `&prime;` 实体形 3 件（generalized-quantifiers／logic-higher-order／intuitionistic-logic-development）；定界符形 1 件（discourse-representation-theory `\[\cb{`）；其余 3 件待逐件取证。希腊-cursive 族已于第二十八批清零（`&nbsp;` 填充另单列为 space-ent 5 件） |
-| 空白实体 | 5 | `&nbsp;`/`&thinsp;` 实体形差（显示式前导等） |
+| 空白实体 | 5 | `&nbsp;`/`&thinsp;` 实体形差（显示式前导等）；2026-11-23 复核：五件段数差 11–109，**真正阻塞是结构层段数不等**，空白仅是首差形态，不宜单列修法 |
 | 表管/标记 | 2 | anaphora `(1)` 列表标记丢失；表 `\|\|` 分隔（aristotle-mathematics） |
 | 其余 | 53 | 窗口内无显著形态特征（多为书目/区结构错位），待逐件取证 |
 
@@ -570,7 +570,7 @@ B3.2 的 sha 全等清单即 OAIS fixity 账的实现形态；与 ADR-0076 已�
 **B3.1 转红 3 件（W8）——定案：接受残留，不修**。取证：engels 实际漂移 22 条定义（`engels-*→marx-*`）、foucault 1 条（`foucault-2018→cours-2018`）、kant-religion 2 条（`kant-religion-*→kant’s-*`）。根因：R 把全部文献定义放在 References 区**最后一个标题之后**的单 `<ul>` 里，C 的 `build_cite_keys` 按 section 邻接继承姓氏，年份起首条目因而继承前一节末条（Marx）。候选修法成本实测：①年份起首不继承、统一 fallback → 改判 **1,580 条／121 件**键名（含把合法的 `lewis/Church` 类换成 slug 键，且影响译注标记），需全量重转；②同小节换 `<ul>` 重置 prev → 19 件（30 处）现有键被改判；③R 按键姓段切 ul → 账与补丁全量重算。收益 3 件（0.16%）且仅键名标签、定义文字与顺序全等（三件 B3.2 均 pool）。故**不修**，登记为已知残留。
 
 **下一批入口**（按收益排序）：
-1. **`&nbsp;` 填充（5 件，space-ent）**：显示式与表前导的 `&nbsp;` 串，须按 span 记长度（可与 `math_dollars` 同一按位账骨架）。
+1. **段数不等（结构层主靶）**：剩余 gap 的多数件 A/B 段数不等（五件 space-ent：descriptions Δ109／desert Δ44／information-entropy Δ18／spinoza-attributes Δ11／typelogical-grammar Δ−37，`&nbsp;` 只是首差形态；diagrams Δ19／game-theory Δ12／metaphysics-massexpress Δ−3／determinism-causal Δ−1 同型）。须先做「多出的 markup 段」归因器（按段类型计数：空 `u` 段、`span`/`p` 拆分、列表标记），再定修法。
 2. **显示式取域/宏形余件（8 件）**：criminal-law／geometry-finitism／logic-intensional／logic-power-games／logic-probability／propositional-function／ramsey／recursive-functions，多为 `\[…\]` 取域与相邻段错位，须逐件取证。
 3. **折行宽度（wrap_width）**：全局单宽模型对混排宽度的件不成立（hobbes-science 等）；第二十七批已把「锚不可折」固化，剩余是行内无锚段落的宽度族。
 4. **h0_extra 余件（13）**：逐件取证“H0 事项未入 md／账”的具体通道。
