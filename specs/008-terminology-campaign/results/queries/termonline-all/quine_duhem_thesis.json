@@ -1,0 +1,782 @@
+{
+ "key": "quine-duhem thesis",
+ "term": "Quine-Duhem thesis",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T02:06:53+00:00",
+ "status": "ok",
+ "note": "variant=Quine-Duhem thesis; 审定公布名词库=379; 海峡两岸名词对照库=66; 其他来源数据库=26; 预公布名词数据库=18; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "迪昂-诺伊拉特-蒯因命题",
+   "en": "Duhem-Neurath-Quine thesis",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.172",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会_历史转向",
+   "subjectName": "历史转向",
+   "publishYear": "2024",
+   "definition": "由P. 迪昂（P. Duhem）、O. 诺伊拉特（O. Neurath）、W. V. 蒯因（W. V. Quine）等分别独立提出。认为无法单独地检验一个科学假设的真假，因为经验检验需要多个背景假设。"
+  },
+  {
+   "cn": "论题",
+   "en": "thesis",
+   "source": "数学名词",
+   "wordNumber": "02.0018",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "学位论文",
+   "en": "thesis,dissertation",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.185",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_文献类型",
+   "subjectName": "文献类型",
+   "publishYear": "2019",
+   "definition": "高等学校或研究机构的学生为取得学位，在导师指导下完成的科学研究、科学试验成果的书面报告。"
+  },
+  {
+   "cn": "毕业论文",
+   "en": "graduation thesis",
+   "source": "风景园林名词",
+   "wordNumber": "10.0061",
+   "subjectFullName": "风景园林_风景园林教育_风景园林学本科学位教育课程",
+   "subjectName": "风景园林学本科学位教育课程",
+   "publishYear": "2025",
+   "definition": "风景园林学本科学位教育成果之一，内容包括选题背景与意义；研究内容与方法；国内外研究现状及发展概况、相关理论方法或者实验手段，初步论述、探讨，主要的研究结论等。"
+  },
+  {
+   "cn": "极大性论题",
+   "en": "maximality thesis",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.618",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "机器可以生成的所有功能（根据限定的指令程序在限定的输入上工作），这些功能都可以通过图灵机计算。"
+  },
+  {
+   "cn": "李约瑟命题",
+   "en": "Needham thesis",
+   "source": "管理科学技术名词",
+   "wordNumber": "10.0052",
+   "subjectFullName": "管理科学技术_科技管理与技术创新_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "长期致力于中国科技史研究的英国剑桥大学李约瑟教授在撰写《中国科学技术史》的过程中，提出的一个基本问题，本质上是探讨科学技术背后的社会文化问题。"
+  },
+  {
+   "cn": "论文硕士学位",
+   "en": "thesis master",
+   "source": "教育学名词",
+   "wordNumber": "08.243",
+   "subjectFullName": "教育学_高等教育_学位与研究生教育",
+   "subjectName": "学位与研究生教育",
+   "publishYear": "2013",
+   "definition": "对未修习相应的硕士课程，但经审核被确认具有同等学力，且完成硕士论文并通过答辩者授予的硕士学位。"
+  },
+  {
+   "cn": "毕业论文",
+   "en": "graduation thesis",
+   "source": "教育学名词",
+   "wordNumber": "08.185",
+   "subjectFullName": "教育学_高等教育_高校招生与培养",
+   "subjectName": "高校招生与培养",
+   "publishYear": "2013",
+   "definition": "高等学校的应届毕业生在教师指导下独立完成的总结性作业。提交毕业论文并通过答辩评审者，方可获得毕业证书。"
+  },
+  {
+   "cn": "边疆学说",
+   "en": "frontier thesis",
+   "source": "地理学名词",
+   "wordNumber": "17.067",
+   "subjectFullName": "地理学_人文地理学",
+   "subjectName": "人文地理学",
+   "publishYear": "2006",
+   "definition": "专指美国殖民的西向推移中边疆起到了“安全阀”作用的一种学说。"
+  },
+  {
+   "cn": "丘奇论题",
+   "en": "Church thesis",
+   "source": "数学名词",
+   "wordNumber": "02.0221",
+   "subjectFullName": "数学_数理逻辑·数学基础_递归论",
+   "subjectName": "递归论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "硕士学位论文",
+   "en": "Master's thesis,MA thesis",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.186",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_文献类型",
+   "subjectName": "文献类型",
+   "publishYear": "2019",
+   "definition": "由攻读硕士学位的研究生撰写，作为申请硕士学位评审用的学术论文。"
+  },
+  {
+   "cn": "吉布斯-杜安关系",
+   "en": "Gibbs-Duhem relation",
+   "source": "物理学名词",
+   "wordNumber": "05.0308",
+   "subjectFullName": "物理学_热学、统计物理学_热学、热力学",
+   "subjectName": "热学、热力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "吉布斯-杜安方程",
+   "en": "Gibbs-Duhem equation",
+   "source": "冶金学名词",
+   "wordNumber": "04.0183",
+   "subjectFullName": "冶金学_冶金物理化学_冶金过程热力学",
+   "subjectName": "冶金过程热力学",
+   "publishYear": "2019",
+   "definition": "在等温等压下，溶液中各组元的任意一容量性质的偏摩尔量Z随浓度的变化是相关的，它们变化的总和不引起该体系这一性质的变化，即<img src='/root/syzx/static/spz/yejin2.0"
+  },
+  {
+   "cn": "吉布斯-杜安方程",
+   "en": "Gibbs-Duhem equation",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "02.0172",
+   "subjectFullName": "化工（三）_化工热力学",
+   "subjectName": "化工热力学",
+   "publishYear": "2019",
+   "definition": "描述了在温度、 压力恒定的情况下， 混合物的组成发生变化时， 各组分偏摩尔量（化学势）变化的相互依赖关系。"
+  },
+  {
+   "cn": "杜安-马居尔方程",
+   "en": "Duhem-Margules equation",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "02.0173",
+   "subjectFullName": "化工（三）_化工热力学",
+   "subjectName": "化工热力学",
+   "publishYear": "2019",
+   "definition": "针对气体混合物可视为理想气体的平衡液相中两个不同组分之间关系的热力学描述，表示二组分溶液中两组分的蒸气压随组成变化的关系式。"
+  },
+  {
+   "cn": "吉布斯-杜安方程",
+   "en": "Gibbs-Duhem equation",
+   "source": "化学名词",
+   "wordNumber": "04.0181",
+   "subjectFullName": "化学_物理化学_化学热力学",
+   "subjectName": "化学热力学",
+   "publishYear": "2016",
+   "definition": "描述多组分均相系统在等温等压条件下偏摩尔量之间的关系式。<img src='/root/syzx/static/spz/huaxue2.04.0181.1.png'/>，式中<img src='/ro"
+  },
+  {
+   "cn": "杜安-马居尔方程",
+   "en": "Duhem-Margules equation",
+   "source": "化学名词",
+   "wordNumber": "04.0182",
+   "subjectFullName": "化学_物理化学_化学热力学",
+   "subjectName": "化学热力学",
+   "publishYear": "2016",
+   "definition": "描述多组分溶液系统中各组分蒸气压之间的关系式。<img src='/root/syzx/static/spz/huaxue2.04.0182.1.png'/>，式中<img src='/root/sy"
+  },
+  {
+   "cn": "吉布斯-杜安方程",
+   "en": "Gibbs-Duhem equation",
+   "source": "化学工程名词",
+   "wordNumber": "02.175",
+   "subjectFullName": "化学工程_化工热力学_溶液热力学",
+   "subjectName": "溶液热力学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "杜安-马居尔方程",
+   "en": "Duhem-Margules equation",
+   "source": "化学工程名词",
+   "wordNumber": "02.176",
+   "subjectFullName": "化学工程_化工热力学_溶液热力学",
+   "subjectName": "溶液热力学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "腰椎滑脱症",
+   "en": "lumbar spondylolis-thesis",
+   "source": "急救医学名词",
+   "wordNumber": "03.575",
+   "subjectFullName": "急救医学_日常医学急救_外科学_脊柱和脊髓疾病",
+   "subjectName": "脊柱和脊髓疾病",
+   "publishYear": "2025",
+   "definition": "腰椎相邻椎体间发生滑移，导致神经根或马尾神经受压，出现以腰痛或下肢麻木、疼痛为主要表现的疾病。"
+  },
+  {
+   "cn": "杜安定理",
+   "en": "Duhem theorem",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "边疆学说",
+   "en": "frontier thesis",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "丘奇论题",
+   "en": "Church thesis",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "吉布斯-杜安方程",
+   "en": "Gibbs-Duhem equation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "杜安-马居尔方程",
+   "en": "Duhem-Margules equation",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "吉布斯-杜安方程",
+   "en": "Gibbs-Duhem equation",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "普雷维什－辛格命题",
+   "en": "Prebisch-Singer Thesis",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "并行计算论题",
+   "en": "parallel computation thesis",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "五度音栓",
+   "en": "quint",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "马免疫球蛋白",
+   "en": "equine immunoglobulin",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "十二度",
+   "en": "octave quint\",\"twelfth",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "精巢",
+   "en": "testis",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "开花",
+   "en": "anthesis\",\"flowering",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "黛伊丝",
+   "en": "Thais",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Massenet, Jules"
+  },
+  {
+   "cn": "睾丸未降（=隐睾）",
+   "en": "cryptorchidism\",\"undescended testis\",\"retained testis",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "隐睾，睾丸未降",
+   "en": "cryptorchidism\",\"undescended testis\",\"retained testis",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "睾丸膜",
+   "en": "tunica testis",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "睾丸网",
+   "en": "rete testis",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "睾丸小隔",
+   "en": "septulum testis",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "精巢囊",
+   "en": "testis sac",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "丘奇—图灵论题",
+   "en": "Church-Turing thesis",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "第五姿势",
+   "en": "quinte",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第五姿势防守",
+   "en": "quinte",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第五姿势反击",
+   "en": "counter-quinte",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "民各有心，勿壅惟口",
+   "en": "The People Have Their Own Thoughts; Their Voices Should Not Be Silenced.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知人论世",
+   "en": "Know Others and Discuss Their World",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "任人唯贤",
+   "en": "Appoint People Only on Their Merits",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "以物观物",
+   "en": "Observe Things Based on Their Own Features",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "务工人员安全返岗",
+   "en": "Migrant workers return to their posts in security.    ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "这是一次危机，也是一次大考。",
+   "en": "This is a crisis and also a test.",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_理念信心",
+   "subjectName": "理念信心",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "物极必反",
+   "en": "When Reaching an Extreme, Things Are Bound to Revert to Their Opposites.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "决不能“新官不理旧账，，",
+   "en": "New officials must continue to meet the commitment undertaken by their predecessors.",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "视徒如己，反己以教",
+   "en": "Treat Students as You Would Treat Yourself, and Put Yourself in Their Shoes",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "扶贫同扶志扶智结合",
+   "en": "the combination of poverty alleviation and increasing people's confidence and enriching their knowledge",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "对紧要关头当“逃兵”的干部要就地免职",
+   "en": "to remove from their posts officials who abandon the frontline at critical moments",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "二人同心，其利断金",
+   "en": "If Two People Are of the Same Mind, Their Combined Strength Can  Break Metal.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "白衣执甲、逆行出征",
+   "en": "Heedless of their own safety, medical workers headed for the frontline against the virus. ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_理念信心",
+   "subjectName": "理念信心",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "解决好贫困地区农畜产品卖难问题",
+   "en": "to help farmers in poor areas solve difficulties in selling their produce and livestock",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "各国应该联手加大宏观政策对冲力度。",
+   "en": "Countries need to leverage and coordinate their macro policies to counteract the negative impact.",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际合作",
+   "subjectName": "国际合作",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "迪昂-诺伊拉特-蒯因命题",
+   "en": "Duhem-Neurath-Quine thesis",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.172",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "由P. 迪昂（P. Duhem）、O. 诺伊拉特（O. Neurath）、W. V. 蒯因（W. V. Quine）等分别独立提出。认为无法单独地检验一个科学假设的真假，因为经验检验需要多个背景假设。"
+  },
+  {
+   "cn": "奎因试验",
+   "en": "quine test",
+   "source": "消毒学",
+   "wordNumber": "6.2.34.2",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "将试验菌悬液滴染于硬质抗菌样片上，覆盖以培养基，使试验菌与抗菌样片充分接触，评价非溶出性硬质表面抗（抑）菌产品抗菌效果的试验方法。"
+  },
+  {
+   "cn": "世俗化命题",
+   "en": "secularization thesis",
+   "source": "社会学名词",
+   "wordNumber": "3.9.2.12",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教研究",
+   "subjectName": "宗教研究",
+   "publishYear": "2025",
+   "definition": "世俗化是在哲学、神学、社会科学等领域广泛使用的颇具争议性的概念，涂尔干、马克斯•韦伯等经典社会学家和彼得·伯格（Peter L.Berger）、托马斯·卢克曼（Thomas Luckmann）等诸多当"
+  },
+  {
+   "cn": "肌腱附着点",
+   "en": "enthesis",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.2.2.23",
+   "subjectFullName": "风湿免疫病学_总论_解剖和组织学_关节与周围软组织",
+   "subjectName": "关节与周围软组织",
+   "publishYear": "2025",
+   "definition": "韧带、肌腱和关节囊附着于骨骼的终端。"
+  },
+  {
+   "cn": "卡西人",
+   "en": "Khasis",
+   "source": "民族学与文化学名词",
+   "wordNumber": "6.0032",
+   "subjectFullName": "民族学与文化学_世界民族_亚洲地区",
+   "subjectName": "亚洲地区",
+   "publishYear": "2025",
+   "definition": "印度民族之一。人口约为67 万（2001 年）。主要分布在梅加拉亚邦和阿萨姆邦。属蒙古人种南亚类型，兼有尼格罗—澳大利亚人种维达类型的特征。操卡西语，属南亚语系卡西语族。信仰上多神信仰和祖先崇拜盛行，"
+  },
+  {
+   "cn": "泰人",
+   "en": "Thais",
+   "source": "民族学与文化学名词",
+   "wordNumber": "6.0137",
+   "subjectFullName": "民族学与文化学_世界民族_亚洲地区",
+   "subjectName": "亚洲地区",
+   "publishYear": "2025",
+   "definition": "泰王国的民族之一。人口约有2716 万（2024 年）。分布在泰国各地。属蒙古人种南亚类型。操泰语，属汉藏语系侗台语族，分为多种方言，有文字。大多数泰人信佛教，也有少数人信伊斯兰教和基督教。主要从事农"
+  },
+  {
+   "cn": "四大考验",
+   "en": "four tests",
+   "source": "马克思主义",
+   "wordNumber": "03.0786",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "在纪念建党九十周年大会的讲话中，胡锦涛首次提出。指的是在世情、国情、党情发生深刻变化的新形势下，提高党的领导水平和执政水平、提高拒腐防变和抵御风险能力，加强党的执政能力建设和先进性建设，面临的执政考验"
+  },
+  {
+   "cn": "泰尔系数",
+   "en": "Theil Index",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.4.5.5",
+   "subjectFullName": "卫生经济学名词_卫生经济学_健康公平",
+   "subjectName": "健康公平",
+   "publishYear": "2025",
+   "definition": "衡量人群或地区间收入不平等的指标，将总体差距分解为组间差距和组内差距，可以识别不同层次、不同组别公平性。"
+  },
+  {
+   "cn": "棋牌",
+   "en": "chess and cards",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0433",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "棋类和牌类智力性娱乐项目的总称，以对弈或博弈为主，属于智力游戏，最早可以追溯到人类的史前文明。棋牌包括中国象棋、国际象棋、围棋、五子棋、跳棋、国际跳棋、桥牌、扑克、麻将等。"
+  },
+  {
+   "cn": "抗菌药物敏感试验",
+   "en": "antimicrobial susceptibility tests",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.21.8",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "检测受试菌被一系列不同抗菌药物抑制或杀灭程度的方法"
+  },
+  {
+   "cn": "多次完整皮肤刺激试验",
+   "en": "multiple integral skin irritation tests",
+   "source": "消毒学",
+   "wordNumber": "6.3.1.17.3",
+   "subjectFullName": "消毒学_检测与评价_安全性检验",
+   "subjectName": "安全性检验",
+   "publishYear": "2025",
+   "definition": "多次刺激完整的实验动物皮肤后，以皮肤刺激和皮肤腐蚀为观察终点的试验。"
+  },
+  {
+   "cn": "任人唯贤",
+   "en": "appoint people on their merit",
+   "source": "马克思主义",
+   "wordNumber": "03.0485",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东提出的中国共产党的干部路线。贤是德与才的辩证统一。以能否坚决地执行党的路线，服从党的纪律，和群众有密切的联系，有独立的工作能力，积极肯干，不谋私利为标准选人用人。"
+  },
+  {
+   "cn": "止贡替寺",
+   "en": "Vbri gung this dgon",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0567",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏传佛教噶举派寺院。位于西藏自治区墨竹工卡县东北部。1179 年由喇嘛教噶举派止贡支系创始人止贡巴·仁饮贝主持兴建，是噶举派止贡支系的主要寺院。"
+  },
+  {
+   "cn": "进出境船舶船舱消毒",
+   "en": "disinfection of entry-exit ships and their cabin",
+   "source": "消毒学",
+   "wordNumber": "4.7.2.2",
+   "subjectFullName": "消毒学_消毒应用_口岸消毒",
+   "subjectName": "口岸消毒",
+   "publishYear": "2025",
+   "definition": "对有染疫风险的进出境船舶、船舱，以杀灭病原微生物为目的而采取的消毒措施。"
+  },
+  {
+   "cn": "德才兼备以德为先原则",
+   "en": "principle of selecting officials on the basis of both their moral integrity and their professional competence with priority given to the former",
+   "source": "马克思主义",
+   "wordNumber": "03.0743",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "坚持德才兼备、以德为先用人标准，是对党的组织路线和干部政策的丰富发展，是新时期党的干部工作的重要指导方针。该原则要求选拔任用干部既注重才能，更注重品德，从而使各级领导权牢牢掌握在忠于党、忠于国家、忠于"
+  },
+  {
+   "cn": "权为民所用情为民所系利为民所谋",
+   "en": "exercising power for the people showing concern for them and working for their interests",
+   "source": "马克思主义",
+   "wordNumber": "03.0766",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "权为民所用，就是要正确看待和运用手中的权力，用人民赋予的权力服务于人民、造福于人民，绝不以权谋私；情为民所系，就是要坚持与人民群众心连心，倾听群众呼声，关心群众疾苦，切实帮助群众解决实际困难，绝不脱离"
+  },
+  {
+   "cn": "禁止在大气层、外层空间和水下进行核武器试验条约",
+   "en": "Treaty Banning Nuclear Weapon Tests in the Atmosphere，in Outer Space and Underwater，LTBT/PTBT",
+   "source": "放射卫生学",
+   "wordNumber": "10.3.1",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_国际公约或条约",
+   "subjectName": "国际公约或条约",
+   "publishYear": "2025",
+   "definition": "1963年8月5日美、苏、英签署的“部分禁止核试验条约”，禁止在大气层、外层空间和水下进行核试验，三方开始了以地下核试验进行核军备竞赛。到1990年11月共有117个国家加入该条约。由于条约具有核垄断"
+  },
+  {
+   "cn": "归口包干",
+   "en": "budgets prepared by competent departments at central and local levels or to hold departments responsible for their finances",
+   "source": "马克思主义",
+   "wordNumber": "02.0393",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "财政预算归口管理、支出包干使用，是1954年邓小平任财政部长时，为了使国家财政建立在稳固的基础上，保证社会主义工业化建设和社会主义改造的需要而提出的财政工作方针。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,592 @@
+{
+ "key": "outer quantifiers",
+ "term": "outer quantifiers",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T02:05:09+00:00",
+ "status": "ok",
+ "note": "variant=outer quantifiers; 审定公布名词库=229; 海峡两岸名词对照库=105; 其他来源数据库=18; 预公布名词数据库=3; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "量词",
+   "en": "quantifier",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0440",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "命题演算中使用的符号，用以指明该命题涉及的对象范围，包括存在(<img src='/root/syzx/static/spz/jsjkx3.02.0180.001.png'/>)量词（指存在一个满足该"
+  },
+  {
+   "cn": "量词",
+   "en": "quantifier",
+   "source": "数学名词",
+   "wordNumber": "02.0055",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "代入量词",
+   "en": "substitutional quantifiers",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.264",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "对量词的一种解释。认为，F(x)是真的，当且仅当把x换成某个专名a能使得F(a)真。一些哲学家比如蒯因认为，诉诸对存在量词的代入解释，存在量词就不会涉及指称、存在以及本体论的问题。"
+  },
+  {
+   "cn": "概率量词",
+   "en": "probabilistic quantifier",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0443",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "和存在(<img src='/root/syzx/static/spz/jsjkx3.02.0180.001.png'/>)及全称(<img src='/root/syzx/static/spz/js"
+  },
+  {
+   "cn": "受囿量词",
+   "en": "bounded quantifier",
+   "source": "数学名词",
+   "wordNumber": "02.0061",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "存在量词",
+   "en": "existential quantifier",
+   "source": "数学名词",
+   "wordNumber": "02.0056",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "全称量词",
+   "en": "universal quantifier",
+   "source": "数学名词",
+   "wordNumber": "02.0057",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "量词收缩定理",
+   "en": "quantifier contraction theorem",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0185",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "定理如下：若存在一个可计算关系 R 使得<img src='/root/syzx/static/spz/jsjkx3.02.0185.001.png'/><img src='/root/syzx/st"
+  },
+  {
+   "cn": "非标准量词",
+   "en": "non-standard quantifier",
+   "source": "数学名词",
+   "wordNumber": "02.0058",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "量词消去",
+   "en": "elimination of quantifier",
+   "source": "数学名词",
+   "wordNumber": "02.0090",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "量词作用域",
+   "en": "scope of a quantifier",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0441",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "指一个量词起作用的范围，在此范围内所有变元均受此量词的约束。"
+  },
+  {
+   "cn": "量词布尔公式",
+   "en": "quantified Boolean formula,QBF",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0328",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "一个量词布尔公式指形如<img src='/root/syzx/static/spz/jsjkx3.02.0328.001.png'/><img src='/root/syzx/static/spz/"
+  },
+  {
+   "cn": "外扇",
+   "en": "outer fan",
+   "source": "地质学名词",
+   "wordNumber": "05.05.136",
+   "subjectFullName": "地质学_沉积学与沉积岩岩石学_沉积环境与沉积相",
+   "subjectName": "沉积环境与沉积相",
+   "publishYear": "2026",
+   "definition": "中扇之外比较低平的部分。基本无水道，沉积物分布宽阔而层薄，主要是Tc-Te序列和Td-Te序列的末端型浊积岩。浊流间歇期沉积的泥质沉积物保存较好，所占比例也较高。"
+  },
+  {
+   "cn": "外地核",
+   "en": "outer core",
+   "source": "地质学名词",
+   "wordNumber": "01.00.011",
+   "subjectFullName": "地质学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "地核的外层。位于距地表深度2885~5155km之间。因地震波的横波不能穿过，一般推测是由铁、镍、硅等物质构成的熔融态或近于液态的物质组成，并会缓慢流动，故有人推测地球磁场的形成可能与此有关。在外地核"
+  },
+  {
+   "cn": "外相",
+   "en": "outer phase",
+   "source": "精细化工名词",
+   "wordNumber": "06.0052",
+   "subjectFullName": "精细化工_表面活性剂",
+   "subjectName": "表面活性剂",
+   "publishYear": "2025",
+   "definition": "液-液分散体系中，一种液体以小液珠形式分散在另一种液体中的分散介质。"
+  },
+  {
+   "cn": "外缘旋臂",
+   "en": "outer arm",
+   "source": "天文学名词",
+   "wordNumber": "08.756",
+   "subjectFullName": "天文学_恒星和银河系",
+   "subjectName": "恒星和银河系",
+   "publishYear": "2024",
+   "definition": "位于银盘或其他旋涡星系外缘的旋臂。"
+  },
+  {
+   "cn": "外晕",
+   "en": "outer halo",
+   "source": "天文学名词",
+   "wordNumber": "08.757",
+   "subjectFullName": "天文学_恒星和银河系",
+   "subjectName": "恒星和银河系",
+   "publishYear": "2024",
+   "definition": "泛指星系晕的外围区域，对于银河系，通常取银心距25kpc为外晕的内边界。"
+  },
+  {
+   "cn": "外冕",
+   "en": "outer corona",
+   "source": "天文学名词",
+   "wordNumber": "09.080",
+   "subjectFullName": "天文学_太阳",
+   "subjectName": "太阳",
+   "publishYear": "2024",
+   "definition": "日冕的外层，与太阳表面的距离大于0.3个太阳半径。"
+  },
+  {
+   "cn": "带外行星",
+   "en": "outer planet",
+   "source": "天文学名词",
+   "wordNumber": "10.017",
+   "subjectFullName": "天文学_太阳系",
+   "subjectName": "太阳系",
+   "publishYear": "2024",
+   "definition": "轨道在小行星带以外(远)的行星，即木星、土星、天王星和海王星，都是属于外太阳系的巨行星。"
+  },
+  {
+   "cn": "外水体积",
+   "en": "outer volume",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "11.0175",
+   "subjectFullName": "生物化学与分子生物学_方法与技术_分离纯化技术_层析技术",
+   "subjectName": "层析技术",
+   "publishYear": "2024",
+   "definition": "层析中物质在过柱过程中完全不被滞留的洗脱液体积。相当于层析柱流动相的体积。凝胶过滤的外水体积可用特殊标记的大分子（如蓝色葡聚糖）的洗脱液体积来测量。"
+  },
+  {
+   "cn": "量词",
+   "en": "quantifier",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "存在量词",
+   "en": "existential quantifier",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "全称量词",
+   "en": "universal quantifier",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "量化知识复杂度",
+   "en": "quantified knowledge complexity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "外柱",
+   "en": "outer rod\",\"outer pillar",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "外缘隆起",
+   "en": "outer swell\",\"outer arch",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "外侧轴系",
+   "en": "outer shafting\",\"outer shaft",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "外层",
+   "en": "outer layer",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "外唇",
+   "en": "outer lip",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "外节",
+   "en": "outer segment",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "外球",
+   "en": "outer bulb",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "外隧道",
+   "en": "outer tunnel",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "外花被",
+   "en": "outer perianth",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "外珠被",
+   "en": "outer integument",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "纹孔外口",
+   "en": "outer aperture",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "外层",
+   "en": "outer layer",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "外涡",
+   "en": "outer vortex",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "外眼墙",
+   "en": "outer eyewall",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "外耳",
+   "en": "outer ear",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "[带]外行星",
+   "en": "outer planet",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "红色外环区",
+   "en": "outer red",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "黄色外环区",
+   "en": "outer gold",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "蓝色外环区",
+   "en": "outer blue",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "黑色外环区",
+   "en": "outer black",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "白色外环区",
+   "en": "outer white",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "外胎",
+   "en": "casing\",\"outer cover\",\"outer tire",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "大外车",
+   "en": "major outer wheel",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "外卷进",
+   "en": "outer winding throw\",\"soto-makikomi",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "小外刈",
+   "en": "ko-soto-gari\",\"minor outer reaping throw\",\"minor outer skipping throw",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "大外落",
+   "en": "major outer drop\",\"o-soto-otoshi",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "小外挂",
+   "en": "ko-soto-gake\",\"minor outer hooking throw",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "外挡",
+   "en": "bakkat makki\",\"outer wrist block\",\"outward block",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "离形得似",
+   "en": "Transcend the Outer Form to Capture the Essence",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "弹腰卷",
+   "en": "hane makikomi\",\"outer winding spring hip\",\"winding spring hip throw",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "大外刈",
+   "en": "major outer reaping throw\",\"major outside-leg reaping throw\",\"o-soto-gari",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "带有外包装的动物产品消毒",
+   "en": "disinfection of animal products with outer packaging",
+   "source": "消毒学",
+   "wordNumber": "4.7.3.3.3",
+   "subjectFullName": "消毒学_消毒应用_口岸消毒",
+   "subjectName": "口岸消毒",
+   "publishYear": "2025",
+   "definition": "针对带有外包装的动物产品能携带的病原微生物所进行的消毒措施。"
+  },
+  {
+   "cn": "高风险货物外包装表面消毒",
+   "en": "surface disinfection of outer packaging for high-risk good",
+   "source": "消毒学",
+   "wordNumber": "7.4.4.3.4",
+   "subjectFullName": "消毒学_其他_消毒服务机构",
+   "subjectName": "消毒服务机构",
+   "publishYear": "2025",
+   "definition": "对来自传染病高风险地区的物品外包装表面进行的消毒处理。"
+  },
+  {
+   "cn": "禁止在大气层、外层空间和水下进行核武器试验条约",
+   "en": "Treaty Banning Nuclear Weapon Tests in the Atmosphere，in Outer Space and Underwater，LTBT/PTBT",
+   "source": "放射卫生学",
+   "wordNumber": "10.3.1",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_国际公约或条约",
+   "subjectName": "国际公约或条约",
+   "publishYear": "2025",
+   "definition": "1963年8月5日美、苏、英签署的“部分禁止核试验条约”，禁止在大气层、外层空间和水下进行核试验，三方开始了以地下核试验进行核军备竞赛。到1990年11月共有117个国家加入该条约。由于条约具有核垄断"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
