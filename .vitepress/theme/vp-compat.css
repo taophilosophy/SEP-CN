@@ -86,6 +86,47 @@
   --vp-layout-max-width: 100%;
 }
 
+/* 多档视口适配（2026-11-24 用户清单：1080p/1.5×/2K/2.5×/4K/带鱼屏/iPad 全系）。
+   DPR/系统缩放的本质是 CSS 视口缩水（1080p@150%＝1280、4K@250%＝1536 CSS px），
+   真痛点是中窄视口下侧栏 272px＋aside 256px 占比过大、正文列被挤窄。侧栏宽与
+   让位由 --vp-sidebar-width 一处联动（VPSidebar 与 VPContent padding 同源消费），
+   aside 与其内部 fixed 容器同步收缩；iPad 竖屏（834/1024 等 ≤959 的走移动布局，
+   横屏 1194/1366 走桌面布局落入收缩档）。≥1500 维持现状（大屏不变）。 */
+@media (width >= 1500px) {
+  :root {
+    --vp-sidebar-width: 17rem;
+  }
+}
+
+@media (width < 1500px) {
+  :root {
+    --vp-sidebar-width: 14rem;
+  }
+
+  .VPDoc .aside {
+    max-width: 12.5rem;
+  }
+
+  .VPDoc .aside-container {
+    width: 11.5rem;
+  }
+}
+
+@media (width < 1200px) {
+  :root {
+    --vp-sidebar-width: 12rem;
+  }
+
+  .VPDoc .aside {
+    max-width: 10.5rem;
+    padding-inline-start: 1.5rem;
+  }
+
+  .VPDoc .aside-container {
+    width: 9.5rem;
+  }
+}
+
 @media (min-width: 960px) {
   /* 全部词条/文档页正文列。scoped 内部规则 .VPDoc.has-aside
      .content-container[data-v-…] 的 43rem 特异性 (0,4,0)：.VPDoc.VPDoc
