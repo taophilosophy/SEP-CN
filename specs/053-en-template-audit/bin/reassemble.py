@@ -249,6 +249,9 @@ def restore_links(line):
         # 整节并进 main-text）。全库正文标题内 href 链接 0 件，跳安全。
         return line
     flat, pos = _stripped_map(line)
+    # 既有 md 链接的**文字段**（行坐标；与 `_link` 同一取域式）
+    mdtxt = [(m.start(1), m.end(1)) for m in re.finditer(
+        r"\[((?:[^\[\]]|\[[^\[\]]*\])*)\]\((?:[^()\s]|\([^()]*\))*\)", line)]
     is_caption = bool(re.match(r"\s*\*[^*\n]", line))
     picks = []
     ceiling = 0
@@ -306,6 +309,12 @@ def restore_links(line):
             if a0 < mk_end:
                 continue          # 有序列表标记位（trinity 判例：锚文 `1` 落在
             #                   `1. ` 标记上，行首成 `[1](…)`，列表解析失效）
+            _be = pos[cand + len(t) - 1] + 1
+            if any(s0 < _be and a0 < e0 for s0, e0 in mdtxt):
+                continue          # 锚文落在既有 md 链接的文字段内：H0 从不嵌套
+            #                   `<a>`，插进去只会把字面 `[..](..)` 留在链接文字里
+            #                   （original-position 判例：C 把 H0 的「锚文＋后随
+            #                   普通文字」合并成一条 md 链）
             # 跨度内定界星不配对时就地扩展（只认紧邻星）：可见跨度可跨过强调
             # 闭星（`*interpretations* of probability`），直接插入会让 <a> 跨
             # <em> 边界；扩展成 `[*interpretations* of probability](…)` 两边
@@ -605,6 +614,9 @@ def _inline_md_to_html(text):
             return '<a href="%s.%s">%s</a>' % (m3.group(2), "html", t)
         # 内部链接账还原形（C 丢弃的两族：跨词条 `../slug/`、页内 `#anchor`）
         if url.startswith(("../", "#")):
+            return '<a href="%s">%s</a>' % (url, t)
+        # 带片段的裸兄弟链（账插入形 `other.html#frag`）：md 原本不保这类链
+        if re.fullmatch(r"[A-Za-z0-9._-]+\.html#.+", url):
             return '<a href="%s">%s</a>' % (url, t)
         return t  # 其他页内／index.html 链接——C 原样丢链接保文本
     # 链接文字可含一级方括号（书目形 `[Ervin 1997 [2016] available online](url)`），

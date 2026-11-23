@@ -5,7 +5,7 @@
  "note": "格式层残差补丁：m=标记段、u=单元布局、r=纯布局区段；禁含散文",
  "stats": {
   "page_bytes": 134701,
-  "pool_bytes": 97895,
+  "pool_bytes": 97762,
   "n_patches": 108
  },
  "patches": [
@@ -123506,103 +123506,10 @@
    "after": "<ul>\n\n <!--LINK CHECKER COMMENTED OUT (Sun Apr 17 17:24:03 PDT 2022)\n\n<li><a href=\"http://faculty.washington.edu/kpotter/\" target=\"other\">Encyclopedia of Indian Philosophies</a></li>\n\nLINK CHECKER-->\n \n "
   },
   {
-   "u": 129590,
-   "len": 152,
-   "sha": "9eb9936ad64a8165",
-   "items": [
-    [
-     "mk",
-     "<a href=\"https://gretil.sub.uni-goettingen.de/gretil.html\" target=\"other\">"
-    ],
-    [
-     "tx",
-     0,
-     14
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     14,
-     8
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     22,
-     2
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     24,
-     10
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     34,
-     5
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     39,
-     2
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     41,
-     6
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     47,
-     9
-    ],
-    [
-     "mk",
-     "</a>"
-    ],
-    [
-     "mk",
-     "</li>"
-    ],
-    [
-     "mk",
-     "\n "
-    ],
-    [
-     "mk",
-     "</ul>"
-    ],
-    [
-     "mk",
-     "\n\n"
-    ]
-   ]
+   "r": 129731,
+   "len": 11,
+   "sha": "d429e686ccace07b",
+   "after": "</li>\n </ul>\n\n"
   },
   {
    "r": 129822,

@@ -4,8 +4,8 @@
  "generated_by": "specs/053 bin/assembly_pool.py",
  "note": "格式层残差补丁：m=标记段、u=单元布局、r=纯布局区段；禁含散文",
  "stats": {
-  "page_bytes": 116896,
-  "pool_bytes": 51406,
+  "page_bytes": 116897,
+  "pool_bytes": 50858,
   "n_patches": 469
  },
  "patches": [
@@ -44824,7 +44824,7 @@
   {
    "u": 80750,
    "len": 84,
-   "sha": "4ff20eca33445a0c",
+   "sha": "79a8fe9717fd1494",
    "items": [
     [
      "mk",
@@ -61519,7 +61519,7 @@
   {
    "u": 110461,
    "len": 129,
-   "sha": "149548754b8f06bc",
+   "sha": "e7fc84326b4ea3d6",
    "items": [
     [
      "mk",
@@ -61581,8 +61581,8 @@
   },
   {
    "u": 110594,
-   "len": 126,
-   "sha": "7139e0ae3a8c70c7",
+   "len": 127,
+   "sha": "42d3a71ac5f60461",
    "items": [
     [
      "tx",
@@ -61654,9 +61654,9 @@
    ]
   },
   {
-   "u": 110724,
+   "u": 110725,
    "len": 168,
-   "sha": "ab732cedf7528ebd",
+   "sha": "b65e6787034430f7",
    "items": [
     [
      "mk",
@@ -61792,9 +61792,9 @@
    ]
   },
   {
-   "u": 110896,
+   "u": 110897,
    "len": 144,
-   "sha": "24f71bdd331affac",
+   "sha": "126113161f31614d",
    "items": [
     [
      "mk",
@@ -61879,7 +61879,7 @@
    ]
   },
   {
-   "u": 111044,
+   "u": 111045,
    "len": 66,
    "sha": "059af5293cf71249",
    "items": [
@@ -61975,224 +61975,39 @@
    ]
   },
   {
-   "u": 111114,
-   "len": 117,
-   "sha": "e73ace7de139ba44",
-   "items": [
-    [
-     "mk",
-     "<a href=\"https://mathshistory.st-andrews.ac.uk/Biographies/De_Morgan.html\" target=\"other\">"
-    ],
-    [
-     "tx",
-     0,
-     8
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     8,
-     2
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     10,
-     6
-    ],
-    [
-     "mk",
-     "</a>"
-    ],
-    [
-     "mk",
-     "</li>"
-    ],
-    [
-     "mk",
-     "\n "
-    ]
-   ]
+   "r": 111227,
+   "len": 5,
+   "sha": "0683d9779d8c72e8",
+   "after": "</li>\n "
   },
   {
-   "u": 111235,
-   "len": 130,
-   "sha": "c101cd35b5b03761",
-   "items": [
-    [
-     "mk",
-     "<a href=\"https://mathshistory.st-andrews.ac.uk/Biographies/Gregory_Duncan.html\" target=\"other\">"
-    ],
-    [
-     "tx",
-     0,
-     6
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     6,
-     11
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     17,
-     7
-    ],
-    [
-     "mk",
-     "</a>"
-    ],
-    [
-     "mk",
-     "</li>"
-    ],
-    [
-     "mk",
-     "\n "
-    ]
-   ]
+   "r": 111361,
+   "len": 5,
+   "sha": "0683d9779d8c72e8",
+   "after": "</li>\n "
   },
   {
-   "u": 111369,
-   "len": 110,
-   "sha": "3b7a48c26dfb3118",
-   "items": [
-    [
-     "mk",
-     "<a href=\"https://mathshistory.st-andrews.ac.uk/Biographies/Jevons.html\" target=\"other\">"
-    ],
-    [
-     "tx",
-     0,
-     7
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     7,
-     6
-    ],
-    [
-     "mk",
-     "</a>"
-    ],
-    [
-     "mk",
-     "</li>"
-    ],
-    [
-     "mk",
-     "\n "
-    ]
-   ]
+   "r": 111475,
+   "len": 5,
+   "sha": "0683d9779d8c72e8",
+   "after": "</li>\n "
   },
   {
-   "u": 111483,
-   "len": 111,
-   "sha": "03f56f32e5de34ea",
-   "items": [
-    [
-     "mk",
-     "<a href=\"https://mathshistory.st-andrews.ac.uk/Biographies/Peacock.html\" target=\"other\">"
-    ],
-    [
-     "tx",
-     0,
-     6
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     6,
-     7
-    ],
-    [
-     "mk",
-     "</a>"
-    ],
-    [
-     "mk",
-     "</li>"
-    ],
-    [
-     "mk",
-     "\n "
-    ]
-   ]
+   "r": 111590,
+   "len": 5,
+   "sha": "0683d9779d8c72e8",
+   "after": "</li>\n "
   },
   {
-   "u": 111598,
-   "len": 117,
-   "sha": "1730bed0b9ebbc48",
-   "items": [
-    [
-     "mk",
-     "<a href=\"https://mathshistory.st-andrews.ac.uk/Biographies/Schroder.html\" target=\"other\">"
-    ],
-    [
-     "tx",
-     0,
-     5
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     5,
-     13
-    ],
-    [
-     "mk",
-     "</a>"
-    ],
-    [
-     "mk",
-     "</li>"
-    ],
-    [
-     "mk",
-     "\n "
-    ],
-    [
-     "mk",
-     "</ul>"
-    ],
-    [
-     "mk",
-     "</li>"
-    ],
-    [
-     "mk",
-     "\n "
-    ]
-   ]
+   "r": 111711,
+   "len": 5,
+   "sha": "0683d9779d8c72e8",
+   "after": "</li>\n </ul></li>\n "
   },
   {
-   "u": 111719,
+   "u": 111720,
    "len": 163,
-   "sha": "4cd049cb11a0910f",
+   "sha": "af21078364c2eade",
    "items": [
     [
      "mk",
@@ -62322,9 +62137,9 @@
    ]
   },
   {
-   "u": 111886,
+   "u": 111887,
    "len": 120,
-   "sha": "5d9ca65fdd9d0197",
+   "sha": "52f125098c7a3184",
    "items": [
     [
      "mk",
@@ -62418,7 +62233,7 @@
    ]
   },
   {
-   "u": 112083,
+   "u": 112084,
    "len": 182,
    "sha": "2265ae1b54663194",
    "items": [
@@ -62565,7 +62380,7 @@
    ]
   },
   {
-   "u": 112335,
+   "u": 112336,
    "len": 104,
    "sha": "406298a6070d742e",
    "items": [
@@ -62716,7 +62531,7 @@
    ]
   },
   {
-   "r": 112444,
+   "r": 112445,
    "len": 8,
    "sha": "fb433b3dc85934c4",
    "after": "<script type=\"text/javascript\" src=\"local.js\"></script>\n<script type=\"text/javascript\" src=\"../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML\"></script>\n</div> \n\n"

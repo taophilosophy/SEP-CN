@@ -4,8 +4,8 @@
  "generated_by": "specs/053 bin/assembly_pool.py",
  "note": "格式层残差补丁：m=标记段、u=单元布局、r=纯布局区段；禁含散文",
  "stats": {
-  "page_bytes": 147047,
-  "pool_bytes": 77653,
+  "page_bytes": 147048,
+  "pool_bytes": 77369,
   "n_patches": 147
  },
  "patches": [
@@ -98119,99 +98119,15 @@
    "after": "<ul>\n\n "
   },
   {
-   "u": 141136,
-   "len": 159,
-   "sha": "3ff6243cfd85a25b",
-   "items": [
-    [
-     "mk",
-     "<a href=\"http://archive.org/details/collectionofseve00more/\" target=\"other\">"
-    ],
-    [
-     "tx",
-     0,
-     12
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "mk",
-     "<em>"
-    ],
-    [
-     "tx",
-     12,
-     10
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     22,
-     2
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     24,
-     8
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     32,
-     13
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     45,
-     8
-    ],
-    [
-     "mk",
-     "</em>"
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     53,
-     6
-    ],
-    [
-     "mk",
-     "</a>"
-    ],
-    [
-     "mk",
-     "</li>"
-    ],
-    [
-     "mk",
-     "\n \n "
-    ]
-   ]
+   "r": 141290,
+   "len": 5,
+   "sha": "0683d9779d8c72e8",
+   "after": "</li>\n \n "
   },
   {
    "u": 141299,
-   "len": 278,
-   "sha": "5711cb33b5d515b1",
+   "len": 279,
+   "sha": "35c571c3a7eaf4e1",
    "items": [
     [
      "mk",
@@ -98387,68 +98303,19 @@
    ]
   },
   {
-   "u": 141581,
-   "len": 159,
-   "sha": "fee9c4c683470ed3",
-   "items": [
-    [
-     "mk",
-     "<a href=\"https://www.cambridge-platonism.divinity.cam.ac.uk/view/texts/normalised/Hengstermann1679C\" target=\"other\">"
-    ],
-    [
-     "tx",
-     0,
-     3
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     3,
-     9
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     12,
-     9
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     21,
-     10
-    ],
-    [
-     "mk",
-     "</a>"
-    ],
-    [
-     "mk",
-     "</li>"
-    ],
-    [
-     "mk",
-     "\n "
-    ]
-   ]
+   "r": 141736,
+   "len": 5,
+   "sha": "0683d9779d8c72e8",
+   "after": "</li>\n "
   },
   {
-   "r": 141826,
+   "r": 141827,
    "len": 5,
    "sha": "b8dc660f3c20d4ce",
    "after": "<p>\n\n "
   },
   {
-   "u": 142556,
+   "u": 142557,
    "len": 181,
    "sha": "685a2c1b6211b53a",
    "items": [
@@ -98573,7 +98440,7 @@
    ]
   },
   {
-   "r": 142742,
+   "r": 142743,
    "len": 7,
    "sha": "da73131d8a61fe0d",
    "after": "</div> \n"

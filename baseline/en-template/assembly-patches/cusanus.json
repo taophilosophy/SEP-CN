@@ -5,7 +5,7 @@
  "note": "格式层残差补丁：m=标记段、u=单元布局、r=纯布局区段；禁含散文",
  "stats": {
   "page_bytes": 126458,
-  "pool_bytes": 47967,
+  "pool_bytes": 47658,
   "n_patches": 205
  },
  "patches": [
@@ -60167,64 +60167,10 @@
    "after": "<ul>\n\n "
   },
   {
-   "u": 121478,
-   "len": 103,
-   "sha": "3aa93256345f09a4",
-   "items": [
-    [
-     "mk",
-     "<a href=\"http://www.uni-trier.de/~cusanus\" target=\"other\">"
-    ],
-    [
-     "tx",
-     0,
-     8
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     8,
-     8
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     16,
-     7
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     23,
-     9
-    ],
-    [
-     "mk",
-     "</a>"
-    ],
-    [
-     "tx",
-     32,
-     1
-    ],
-    [
-     "mk",
-     "</li>"
-    ],
-    [
-     "mk",
-     "\n \n "
-    ]
-   ]
+   "r": 121576,
+   "len": 5,
+   "sha": "0683d9779d8c72e8",
+   "after": "</li>\n \n "
   },
   {
    "r": 121649,
@@ -60233,112 +60179,16 @@
    "after": "</li>\n \n "
   },
   {
-   "u": 121658,
-   "len": 130,
-   "sha": "64d952a01148e210",
-   "items": [
-    [
-     "mk",
-     "<a href=\"http://www.haverford.edu/library/reference/mschaus/cusanus/cusanus.html\" target=\"other\">"
-    ],
-    [
-     "tx",
-     0,
-     8
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     8,
-     7
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     15,
-     7
-    ],
-    [
-     "mk",
-     "</a>"
-    ],
-    [
-     "mk",
-     "</li>"
-    ],
-    [
-     "mk",
-     "\n \n "
-    ]
-   ]
+   "r": 121783,
+   "len": 5,
+   "sha": "0683d9779d8c72e8",
+   "after": "</li>\n \n "
   },
   {
-   "u": 121792,
-   "len": 102,
-   "sha": "b46f2cecb4a55563",
-   "items": [
-    [
-     "mk",
-     "<a href=\"http://jm.nicolle.pagesperso-orange.fr/cusa\" target=\"other\">"
-    ],
-    [
-     "tx",
-     0,
-     4
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     4,
-     5
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     9,
-     7
-    ],
-    [
-     "mk",
-     "</a>"
-    ],
-    [
-     "mk",
-     "</li>"
-    ],
-    [
-     "mk",
-     "\n \n "
-    ],
-    [
-     "mk",
-     "<!--LINK CHECKER COMMENTED OUT (Sun Aug 25 08:44:32 PDT 2024)\n\n<li><a href=\"http://jasper-hopkins.info/\" target=\"other\">Jasper Hopkins</a>,\n includes many links to translations of, and papers on, Cusanus.</li>\n\nLINK CHECKER-->"
-    ],
-    [
-     "mk",
-     "\n"
-    ],
-    [
-     "mk",
-     "</ul>"
-    ],
-    [
-     "mk",
-     "\n\n"
-    ]
-   ]
+   "r": 121883,
+   "len": 11,
+   "sha": "d429e686ccace07b",
+   "after": "</li>\n \n <!--LINK CHECKER COMMENTED OUT (Sun Aug 25 08:44:32 PDT 2024)\n\n<li><a href=\"http://jasper-hopkins.info/\" target=\"other\">Jasper Hopkins</a>,\n includes many links to translations of, and papers on, Cusanus.</li>\n\nLINK CHECKER-->\n</ul>\n\n"
   },
   {
    "r": 121974,

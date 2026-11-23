@@ -4,15 +4,15 @@
  "generated_by": "specs/053 bin/assembly_pool.py",
  "note": "格式层残差补丁：m=标记段、u=单元布局、r=纯布局区段；禁含散文",
  "stats": {
-  "page_bytes": 103895,
+  "page_bytes": 103927,
   "pool_bytes": 85153,
   "n_patches": 117
  },
  "patches": [
   {
    "u": 7747,
-   "len": 4093,
-   "sha": "8135325636714eef",
+   "len": 4098,
+   "sha": "743deabe1572869c",
    "items": [
     [
      "mk",
@@ -4954,7 +4954,7 @@
    ]
   },
   {
-   "u": 13193,
+   "u": 13198,
    "len": 589,
    "sha": "9dde689308357b1e",
    "items": [
@@ -5689,7 +5689,7 @@
    ]
   },
   {
-   "u": 13791,
+   "u": 13796,
    "len": 1879,
    "sha": "0e03918b886348f8",
    "items": [
@@ -8109,9 +8109,9 @@
    ]
   },
   {
-   "u": 15679,
-   "len": 2874,
-   "sha": "bc8bd0d3c7d35f42",
+   "u": 15684,
+   "len": 2875,
+   "sha": "2b7470aad454e0ed",
    "items": [
     [
      "mk",
@@ -11957,9 +11957,9 @@
    ]
   },
   {
-   "u": 18571,
-   "len": 277,
-   "sha": "0c06b15f3754ab8e",
+   "u": 18577,
+   "len": 278,
+   "sha": "ec38bd0d637d8e51",
    "items": [
     [
      "mk",
@@ -12287,7 +12287,7 @@
    ]
   },
   {
-   "u": 18866,
+   "u": 18873,
    "len": 81,
    "sha": "b30e247c008a9d24",
    "items": [
@@ -12406,7 +12406,7 @@
    ]
   },
   {
-   "u": 18965,
+   "u": 18972,
    "len": 547,
    "sha": "deb5b2d6323e8338",
    "items": [
@@ -13155,13 +13155,13 @@
    ]
   },
   {
-   "r": 21318,
+   "r": 21325,
    "len": 6,
    "sha": "56a5823876f66417",
    "after": "</p> <!-- Mention &ldquo;On the Dignity of the University&rdquo; from 1933 -->\n\n"
   },
   {
-   "u": 21396,
+   "u": 21403,
    "len": 490,
    "sha": "4b6539dfe1192c67",
    "items": [
@@ -13790,7 +13790,7 @@
    ]
   },
   {
-   "u": 22042,
+   "u": 22049,
    "len": 336,
    "sha": "07a462cbc9fa5550",
    "items": [
@@ -14251,7 +14251,7 @@
    ]
   },
   {
-   "u": 22384,
+   "u": 22391,
    "len": 126,
    "sha": "3cbdde607ffacc96",
    "items": [
@@ -14404,9 +14404,9 @@
    ]
   },
   {
-   "u": 22528,
-   "len": 1296,
-   "sha": "379683aa07d09c7a",
+   "u": 22535,
+   "len": 1298,
+   "sha": "d2375ef401086aa1",
    "items": [
     [
      "mk",
@@ -16134,7 +16134,7 @@
    ]
   },
   {
-   "u": 23833,
+   "u": 23842,
    "len": 1931,
    "sha": "2ebbf1de9084a3df",
    "items": [
@@ -18949,9 +18949,9 @@
    ]
   },
   {
-   "u": 25773,
-   "len": 3021,
-   "sha": "1e1771fe94caa903",
+   "u": 25782,
+   "len": 3022,
+   "sha": "af52aaadd1fcfa1d",
    "items": [
     [
      "mk",
@@ -23006,7 +23006,7 @@
    ]
   },
   {
-   "u": 28855,
+   "u": 28865,
    "len": 413,
    "sha": "fb8dd8605d2ec235",
    "items": [
@@ -23628,7 +23628,7 @@
    ]
   },
   {
-   "u": 29274,
+   "u": 29284,
    "len": 177,
    "sha": "7965af429b7168ef",
    "items": [
@@ -23862,7 +23862,7 @@
    ]
   },
   {
-   "u": 29469,
+   "u": 29479,
    "len": 362,
    "sha": "5d8e71182422f543",
    "items": [
@@ -24364,7 +24364,7 @@
    ]
   },
   {
-   "u": 29840,
+   "u": 29850,
    "len": 1342,
    "sha": "8e55c7020962f7cb",
    "items": [
@@ -26204,7 +26204,7 @@
    ]
   },
   {
-   "u": 31191,
+   "u": 31201,
    "len": 1069,
    "sha": "7a3f0c1a2273f20f",
    "items": [
@@ -27835,9 +27835,9 @@
    ]
   },
   {
-   "u": 32269,
-   "len": 1259,
-   "sha": "8771e3e560232a57",
+   "u": 32279,
+   "len": 1260,
+   "sha": "d1bda0e2196a73d9",
    "items": [
     [
      "mk",
@@ -29469,7 +29469,7 @@
    ]
   },
   {
-   "u": 33537,
+   "u": 33548,
    "len": 2177,
    "sha": "173245a4fe5c6d4c",
    "items": [
@@ -32614,9 +32614,9 @@
    ]
   },
   {
-   "u": 35776,
-   "len": 1870,
-   "sha": "177e76975bb54d6c",
+   "u": 35787,
+   "len": 1871,
+   "sha": "72cc086f60e7846a",
    "items": [
     [
      "mk",
@@ -35377,7 +35377,7 @@
    ]
   },
   {
-   "u": 37655,
+   "u": 37667,
    "len": 1080,
    "sha": "e313e52e94f29ec6",
    "items": [
@@ -37003,7 +37003,7 @@
    ]
   },
   {
-   "u": 38753,
+   "u": 38765,
    "len": 554,
    "sha": "873d0b5935da3ce0",
    "items": [
@@ -37788,9 +37788,9 @@
    ]
   },
   {
-   "u": 40428,
-   "len": 1398,
-   "sha": "886a2d2399f5e4a1",
+   "u": 40440,
+   "len": 1399,
+   "sha": "68acd1fe1c40e20a",
    "items": [
     [
      "mk",
@@ -39855,9 +39855,9 @@
    ]
   },
   {
-   "u": 41835,
-   "len": 1376,
-   "sha": "4894bd642f5f6a67",
+   "u": 41848,
+   "len": 1377,
+   "sha": "5111445cd007ec31",
    "items": [
     [
      "mk",
@@ -41700,13 +41700,13 @@
    ]
   },
   {
-   "r": 44708,
+   "r": 44722,
    "len": 6,
    "sha": "56a5823876f66417",
    "after": "</p> <!-- Future work: Van der Schaar (2015, 61) suggests that between the semantic and the psychological tenets grounding Twardowski's acceptance of non-existing objects, the psychological tenet is prior: \"Psychology is in this sense a heuristic means for metaphysics, and is thus in a genetic sense prior to the latter. Psychology is also providing the basic concepts for metaphysics, and Twardowski often makes use of inner perception in his explanations. In this sense one may say that a form of methodological psychologism is defended.\" This is plausible also insofar as the key notions of semantics &ndash; name, meaning - rest for their definition or characterisation on Twardowski's notions of act, content and object of a presentation, which are psychological ones. -->\n\n"
   },
   {
-   "u": 44946,
+   "u": 44960,
    "len": 1687,
    "sha": "49e0030033559402",
    "items": [
@@ -43767,7 +43767,7 @@
    ]
   },
   {
-   "u": 46642,
+   "u": 46656,
    "len": 871,
    "sha": "cb844a336d0ea3d5",
    "items": [
@@ -45101,7 +45101,7 @@
    ]
   },
   {
-   "u": 47522,
+   "u": 47536,
    "len": 874,
    "sha": "256185a4abebb801",
    "items": [
@@ -46465,7 +46465,7 @@
    ]
   },
   {
-   "u": 48405,
+   "u": 48419,
    "len": 1036,
    "sha": "23f9421aa1bccf21",
    "items": [
@@ -47887,19 +47887,19 @@
    ]
   },
   {
-   "r": 49447,
+   "r": 49461,
    "len": 12,
    "sha": "a24bac6256c8c43b",
    "after": "<blockquote>\n\n"
   },
   {
-   "r": 49877,
+   "r": 49891,
    "len": 4,
    "sha": "93f64017194ac1d9",
    "after": "</p>\n"
   },
   {
-   "u": 49899,
+   "u": 49913,
    "len": 523,
    "sha": "e9a14d8b4a962fae",
    "items": [
@@ -48689,9 +48689,9 @@
    ]
   },
   {
-   "u": 50431,
-   "len": 1232,
-   "sha": "ec4181c05c7554e7",
+   "u": 50445,
+   "len": 1233,
+   "sha": "29d501ef8a46fb7e",
    "items": [
     [
      "mk",
@@ -50474,7 +50474,7 @@
    ]
   },
   {
-   "u": 51672,
+   "u": 51687,
    "len": 351,
    "sha": "a09602dbd35ffa73",
    "items": [
@@ -51021,7 +51021,7 @@
    ]
   },
   {
-   "u": 52032,
+   "u": 52047,
    "len": 326,
    "sha": "e459addbda7a2e1b",
    "items": [
@@ -51528,7 +51528,7 @@
    ]
   },
   {
-   "u": 52367,
+   "u": 52382,
    "len": 426,
    "sha": "d4ab94e1fee1cdf7",
    "items": [
@@ -52099,7 +52099,7 @@
    ]
   },
   {
-   "u": 52903,
+   "u": 52918,
    "len": 107,
    "sha": "ac5e128aa136c8ae",
    "items": [
@@ -52216,7 +52216,7 @@
    ]
   },
   {
-   "u": 53021,
+   "u": 53036,
    "len": 184,
    "sha": "c61a87008f27f516",
    "items": [
@@ -52506,7 +52506,7 @@
    ]
   },
   {
-   "u": 53214,
+   "u": 53229,
    "len": 846,
    "sha": "ac5bd180fd7638b7",
    "items": [
@@ -53679,7 +53679,7 @@
    ]
   },
   {
-   "u": 54069,
+   "u": 54084,
    "len": 1539,
    "sha": "42e07dd953ce2cb7",
    "items": [
@@ -55756,7 +55756,7 @@
    ]
   },
   {
-   "u": 55684,
+   "u": 55699,
    "len": 1113,
    "sha": "1170971b4ca8e30b",
    "items": [
@@ -57084,7 +57084,7 @@
    ]
   },
   {
-   "u": 56806,
+   "u": 56821,
    "len": 340,
    "sha": "38e56a07183f50af",
    "items": [
@@ -57491,7 +57491,7 @@
    ]
   },
   {
-   "u": 57236,
+   "u": 57251,
    "len": 1537,
    "sha": "6e2f2a6a4bdac3d6",
    "items": [
@@ -59445,9 +59445,9 @@
    ]
   },
   {
-   "u": 58782,
-   "len": 365,
-   "sha": "0eee44b5b0bf8516",
+   "u": 58797,
+   "len": 366,
+   "sha": "4c657a7f22b4b147",
    "items": [
     [
      "mk",
@@ -59883,7 +59883,7 @@
    ]
   },
   {
-   "u": 59156,
+   "u": 59172,
    "len": 503,
    "sha": "c95b3fd776c52068",
    "items": [
@@ -60620,7 +60620,7 @@
    ]
   },
   {
-   "u": 59665,
+   "u": 59681,
    "len": 293,
    "sha": "bba7a0cf1ea461cc",
    "items": [
@@ -61066,7 +61066,7 @@
    ]
   },
   {
-   "u": 60876,
+   "u": 60892,
    "len": 520,
    "sha": "5b076156ea0bdb76",
    "items": [
@@ -61824,7 +61824,7 @@
    ]
   },
   {
-   "u": 61414,
+   "u": 61430,
    "len": 167,
    "sha": "9b4167edeb92acf9",
    "items": [
@@ -62113,7 +62113,7 @@
    ]
   },
   {
-   "u": 62004,
+   "u": 62020,
    "len": 39,
    "sha": "ec2cf810fc85c24c",
    "items": [
@@ -62187,7 +62187,7 @@
    ]
   },
   {
-   "u": 62263,
+   "u": 62279,
    "len": 172,
    "sha": "a78fa9d1476447c2",
    "items": [
@@ -62468,7 +62468,7 @@
    ]
   },
   {
-   "u": 62453,
+   "u": 62469,
    "len": 138,
    "sha": "f4e6784f0a26a1db",
    "items": [
@@ -62673,7 +62673,7 @@
    ]
   },
   {
-   "u": 62609,
+   "u": 62625,
    "len": 40,
    "sha": "8fbb3f1fff8400c9",
    "items": [
@@ -62747,7 +62747,7 @@
    ]
   },
   {
-   "u": 62865,
+   "u": 62881,
    "len": 170,
    "sha": "bf87186fb8a4181c",
    "items": [
@@ -63019,7 +63019,7 @@
    ]
   },
   {
-   "u": 63053,
+   "u": 63069,
    "len": 256,
    "sha": "1f3369df6f8c47fd",
    "items": [
@@ -63429,19 +63429,19 @@
    ]
   },
   {
-   "r": 63315,
+   "r": 63331,
    "len": 12,
    "sha": "a24bac6256c8c43b",
    "after": "<blockquote>\n\n"
   },
   {
-   "r": 63524,
+   "r": 63540,
    "len": 4,
    "sha": "93f64017194ac1d9",
    "after": "</p>\n\n"
   },
   {
-   "u": 63531,
+   "u": 63547,
    "len": 423,
    "sha": "35ec688c6231365a",
    "items": [
@@ -64108,7 +64108,7 @@
    ]
   },
   {
-   "u": 63972,
+   "u": 63988,
    "len": 338,
    "sha": "545f3801e99d8f50",
    "items": [
@@ -64626,7 +64626,7 @@
    ]
   },
   {
-   "u": 64319,
+   "u": 64335,
    "len": 229,
    "sha": "0b59d0d69e766c59",
    "items": [
@@ -64951,7 +64951,7 @@
    ]
   },
   {
-   "u": 64557,
+   "u": 64573,
    "len": 121,
    "sha": "86faa688cd8cdd1b",
    "items": [
@@ -65142,9 +65142,9 @@
    ]
   },
   {
-   "u": 64751,
-   "len": 722,
-   "sha": "fd6331c339c7c998",
+   "u": 64767,
+   "len": 724,
+   "sha": "4df1d98340d3f8e3",
    "items": [
     [
      "mk",
@@ -66009,7 +66009,7 @@
    ]
   },
   {
-   "u": 65666,
+   "u": 65684,
    "len": 182,
    "sha": "4de73f656be7784a",
    "items": [
@@ -66218,7 +66218,7 @@
    ]
   },
   {
-   "u": 65866,
+   "u": 65884,
    "len": 739,
    "sha": "80e1ce6fd02aac4b",
    "items": [
@@ -67160,7 +67160,7 @@
    ]
   },
   {
-   "u": 66614,
+   "u": 66632,
    "len": 235,
    "sha": "64a0a164bd9a06d9",
    "items": [
@@ -67477,115 +67477,115 @@
    ]
   },
   {
-   "r": 66855,
+   "r": 66873,
    "len": 12,
    "sha": "a24bac6256c8c43b",
    "after": "<blockquote>\n\n"
   },
   {
-   "r": 66995,
+   "r": 67013,
    "len": 4,
    "sha": "a845c297571480ce",
    "after": "<tbody>\n<tr>\n  "
   },
   {
-   "r": 67003,
+   "r": 67021,
    "len": 9,
    "sha": "ae49d944508ada85",
    "after": "</td>\n  <td style=\"font-style: italic;\">"
   },
   {
-   "r": 67015,
+   "r": 67033,
    "len": 9,
    "sha": "ae49d944508ada85",
    "after": "</td>\n  <td style=\"font-style: italic;\">"
   },
   {
-   "r": 67031,
+   "r": 67049,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td> "
   },
   {
-   "r": 67042,
+   "r": 67060,
    "len": 8,
    "sha": "e93f3918192ffe91",
    "after": "<tr>\n  <td style=\"font-style: italic;\">"
   },
   {
-   "r": 67058,
+   "r": 67076,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 67074,
+   "r": 67092,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 67086,
+   "r": 67104,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td> "
   },
   {
-   "r": 67097,
+   "r": 67115,
    "len": 8,
    "sha": "e93f3918192ffe91",
    "after": "<tr>\n  <td style=\"font-style: italic;\">"
   },
   {
-   "r": 67111,
+   "r": 67129,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 67127,
+   "r": 67145,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 67144,
+   "r": 67162,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td> "
   },
   {
-   "r": 67155,
+   "r": 67173,
    "len": 8,
    "sha": "e93f3918192ffe91",
    "after": "<tr>\n  <td style=\"font-style: italic;\">"
   },
   {
-   "r": 67177,
+   "r": 67195,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 67194,
+   "r": 67212,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 67209,
+   "r": 67227,
    "len": 11,
    "sha": "6703e39657e18300",
    "after": "</td> </tr> "
   },
   {
-   "r": 67229,
+   "r": 67247,
    "len": 8,
    "sha": "cdf4bf8f51f450a8",
    "after": "</table>\n"
   },
   {
-   "u": 67255,
+   "u": 67273,
    "len": 522,
    "sha": "491ab2399ec7a009",
    "items": [
@@ -68330,7 +68330,7 @@
    ]
   },
   {
-   "u": 67786,
+   "u": 67804,
    "len": 487,
    "sha": "aa1dc27f5951d5ab",
    "items": [
@@ -68979,7 +68979,7 @@
    ]
   },
   {
-   "u": 68282,
+   "u": 68300,
    "len": 516,
    "sha": "6e92050a9c27fba6",
    "items": [
@@ -69704,7 +69704,7 @@
    ]
   },
   {
-   "u": 69152,
+   "u": 69170,
    "len": 956,
    "sha": "f482d557a892993d",
    "items": [
@@ -71030,7 +71030,7 @@
    ]
   },
   {
-   "u": 70117,
+   "u": 70135,
    "len": 165,
    "sha": "01a225df2a44193b",
    "items": [
@@ -71275,7 +71275,7 @@
    ]
   },
   {
-   "u": 70291,
+   "u": 70309,
    "len": 1432,
    "sha": "89085658812a8dd1",
    "items": [
@@ -73423,9 +73423,9 @@
    ]
   },
   {
-   "u": 71732,
-   "len": 582,
-   "sha": "dd819c22426e917c",
+   "u": 71750,
+   "len": 583,
+   "sha": "8b685aa3cc865e8c",
    "items": [
     [
      "mk",
@@ -74237,7 +74237,7 @@
    ]
   },
   {
-   "u": 72332,
+   "u": 72351,
    "len": 254,
    "sha": "c8f2f78e984b785d",
    "items": [
@@ -74617,7 +74617,7 @@
    ]
   },
   {
-   "u": 72604,
+   "u": 72623,
    "len": 607,
    "sha": "e23b3eb81ca56af4",
    "items": [
@@ -75485,7 +75485,7 @@
    ]
   },
   {
-   "u": 73229,
+   "u": 73248,
    "len": 860,
    "sha": "03e8c6d7b059cb75",
    "items": [
@@ -76756,13 +76756,13 @@
    ]
   },
   {
-   "r": 74527,
+   "r": 74546,
    "len": 6,
    "sha": "56a5823876f66417",
    "after": "</p> <!-- add who says Yes and who says No and perhaps adds a note about the status of content, which Buczy&#324;ska-Garewicz 1980 identifies with Twardowski 1894 - and I think she has a point - while van der Schaar gives another interpretation -->\n\n"
   },
   {
-   "u": 74536,
+   "u": 74555,
    "len": 1932,
    "sha": "308ce21629a8a034",
    "items": [
@@ -79210,7 +79210,7 @@
    ]
   },
   {
-   "u": 76935,
+   "u": 76954,
    "len": 12,
    "sha": "619d65e1ae1a2704",
    "items": [
@@ -79230,7 +79230,7 @@
    ]
   },
   {
-   "u": 77007,
+   "u": 77026,
    "len": 7644,
    "sha": "3a918f017688aad8",
    "items": [
@@ -87497,7 +87497,7 @@
    ]
   },
   {
-   "u": 84805,
+   "u": 84824,
    "len": 97,
    "sha": "602c21a809fb13dc",
    "items": [
@@ -87630,7 +87630,7 @@
    ]
   },
   {
-   "u": 84963,
+   "u": 84982,
    "len": 146,
    "sha": "a300896f17b06eaa",
    "items": [
@@ -87745,9 +87745,9 @@
    ]
   },
   {
-   "u": 85120,
-   "len": 11526,
-   "sha": "69dbd2797fc80db5",
+   "u": 85139,
+   "len": 11539,
+   "sha": "8c6290d5dc44b782",
    "items": [
     [
      "tx",
@@ -99120,19 +99120,19 @@
    ]
   },
   {
-   "r": 96659,
+   "r": 96691,
    "len": 35,
    "sha": "5ea9e0725372c7e0",
    "after": "</div> \n<div id=\"academic-tools\">\n\n"
   },
   {
-   "r": 96748,
+   "r": 96780,
    "len": 34,
    "sha": "4993a190d6a73921",
    "after": "<table>\n<tr><td valign=\"top\">"
   },
   {
-   "u": 96854,
+   "u": 96886,
    "len": 145,
    "sha": "46cb530675cbb08a",
    "items": [
@@ -99193,13 +99193,13 @@
    ]
   },
   {
-   "r": 97011,
+   "r": 97043,
    "len": 9,
    "sha": "3b04f49bc05db8fb",
    "after": "<tr><td valign=\"top\">"
   },
   {
-   "u": 97092,
+   "u": 97124,
    "len": 255,
    "sha": "732a85a5bce7b18c",
    "items": [
@@ -99349,13 +99349,13 @@
    ]
   },
   {
-   "r": 97359,
+   "r": 97391,
    "len": 9,
    "sha": "3b04f49bc05db8fb",
    "after": "<tr><td valign=\"top\">"
   },
   {
-   "u": 97432,
+   "u": 97464,
    "len": 215,
    "sha": "0e78c5b41710b88c",
    "items": [
@@ -99510,13 +99510,13 @@
    ]
   },
   {
-   "r": 97659,
+   "r": 97691,
    "len": 9,
    "sha": "3b04f49bc05db8fb",
    "after": "<tr><td valign=\"top\">"
   },
   {
-   "u": 97735,
+   "u": 97767,
    "len": 227,
    "sha": "15765dd785fc1b51",
    "items": [
@@ -99648,21 +99648,21 @@
    ]
   },
   {
-   "r": 97983,
+   "r": 98015,
    "len": 14,
    "sha": "7a81a1190a66b685",
    "after": "</blockquote>\n\n"
   },
   {
-   "r": 98093,
+   "r": 98125,
    "len": 4,
    "sha": "82f4fb72c5b57add",
    "after": "<ul>\n\n<!--LINK CHECKER COMMENTED OUT (Thu Jun 1 15:20:06 PDT 2023)\n\n<li><a href=\"http://archiwum.wfis.uw.edu.pl/bibfis/zasoby-i-zrodla/zbiory-specjalne-i-archiwalia/inwentarze-zbiorow-specjalnych-i-archiwalnych/\" target=\"other\">Catalogues of Twardowski's unpublished papers at the special collections of the University of Warsaw</a>\n (in Polish).</li>\n\nLINK CHECKER-->\n\n<!--LINK CHECKER COMMENTED OUT (Thu May 1 05:02:59 PDT 2025)\n\n<li><a href=\"http://www.elv-akt.net/\" target=\"other\">Archives de L'&Eacute;cole Lvov Varsovie | Archiwum Kazimierza Twardowskiego</a>\n (in French)\n\n</li>\n\nLINK CHECKER--><!--LINK CHECKER COMMENTED OUT (Thu May 1 05:03:00 PDT 2025)\n\n<li><a href=\"http://www.elv-akt.net/ressources/archives.php?id_catalogue=2\" target=\"other\">Correspondence</a></li>\n\nLINK CHECKER-->\n\n<!--LINK CHECKER COMMENTED OUT (Thu May 1 05:02:59 PDT 2025)\n\n<li><a href=\"http://www.elv-akt.net/ressources/archives.php?id_catalogue=1\" target=\"other\">Cours et manuscrits de recherches</a></li>\n\nLINK CHECKER-->\n\n<!--LINK CHECKER COMMENTED OUT (Thu May 1 05:03:00 PDT 2025)\n\n<li><a href=\"http://www.elv-akt.net/ressources/archives.php?id_catalogue=3\" target=\"other\">Publications</a></li>\n\nLINK CHECKER-->\n\n "
   },
   {
-   "u": 98101,
+   "u": 98133,
    "len": 197,
-   "sha": "70e96fabca9885ab",
+   "sha": "199682d676ac85fb",
    "items": [
     [
      "mk",
@@ -99841,19 +99841,19 @@
    ]
   },
   {
-   "r": 98382,
+   "r": 98414,
    "len": 5,
    "sha": "b8dc660f3c20d4ce",
    "after": "<p>\n\n "
   },
   {
-   "r": 99068,
+   "r": 99100,
    "len": 5,
    "sha": "d24ff827d6aec3cc",
    "after": "</p>\n\n"
   },
   {
-   "u": 99138,
+   "u": 99170,
    "len": 346,
    "sha": "c54c492e1168b9ea",
    "items": [
@@ -100391,7 +100391,7 @@
    ]
   },
   {
-   "r": 99489,
+   "r": 99521,
    "len": 8,
    "sha": "fb433b3dc85934c4",
    "after": "</div> \n\n"

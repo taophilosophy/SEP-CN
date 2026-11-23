@@ -4,7 +4,7 @@
  "generated_by": "specs/053 bin/assembly_pool.py",
  "note": "格式层残差补丁：m=标记段、u=单元布局、r=纯布局区段；禁含散文",
  "stats": {
-  "page_bytes": 126472,
+  "page_bytes": 126503,
   "pool_bytes": 61334,
   "n_patches": 344
  },
@@ -9771,8 +9771,8 @@
   },
   {
    "u": 37305,
-   "len": 299,
-   "sha": "7167925e8ef807cc",
+   "len": 300,
+   "sha": "68e2a8ed46548dfc",
    "items": [
     [
      "mk",
@@ -10153,19 +10153,19 @@
    ]
   },
   {
-   "r": 37643,
+   "r": 37644,
    "len": 12,
    "sha": "a24bac6256c8c43b",
    "after": "<blockquote>\n\n"
   },
   {
-   "r": 37699,
+   "r": 37700,
    "len": 4,
    "sha": "93f64017194ac1d9",
    "after": "</p>\n"
   },
   {
-   "u": 37721,
+   "u": 37722,
    "len": 721,
    "sha": "d0de0f3807a5e956",
    "items": [
@@ -11236,19 +11236,19 @@
    ]
   },
   {
-   "r": 38448,
+   "r": 38449,
    "len": 12,
    "sha": "a24bac6256c8c43b",
    "after": "<blockquote>\n\n"
   },
   {
-   "r": 38794,
+   "r": 38795,
    "len": 4,
    "sha": "93f64017194ac1d9",
    "after": "</p>\n"
   },
   {
-   "u": 38880,
+   "u": 38881,
    "len": 411,
    "sha": "766f0e7d2197ba92",
    "items": [
@@ -11844,7 +11844,7 @@
    ]
   },
   {
-   "u": 39300,
+   "u": 39301,
    "len": 691,
    "sha": "d11107e464411a0e",
    "items": [
@@ -12660,7 +12660,7 @@
    ]
   },
   {
-   "u": 42669,
+   "u": 42670,
    "len": 1261,
    "sha": "d37bc2b5dcd29bdd",
    "items": [
@@ -14298,7 +14298,7 @@
    ]
   },
   {
-   "u": 43939,
+   "u": 43940,
    "len": 925,
    "sha": "3ad8d3d5e26b5665",
    "items": [
@@ -15574,7 +15574,7 @@
    ]
   },
   {
-   "u": 45585,
+   "u": 45586,
    "len": 84,
    "sha": "4cad95b5ee359db1",
    "items": [
@@ -15687,7 +15687,7 @@
    ]
   },
   {
-   "u": 47535,
+   "u": 47536,
    "len": 808,
    "sha": "069c0d7f32827762",
    "items": [
@@ -16792,7 +16792,7 @@
    ]
   },
   {
-   "u": 48352,
+   "u": 48353,
    "len": 642,
    "sha": "a29e7fd5e19e0fce",
    "items": [
@@ -17755,7 +17755,7 @@
    ]
   },
   {
-   "u": 49003,
+   "u": 49004,
    "len": 792,
    "sha": "b22cc235a4afbeca",
    "items": [
@@ -18903,7 +18903,7 @@
    ]
   },
   {
-   "u": 52779,
+   "u": 52780,
    "len": 1133,
    "sha": "ce6c4c7f11ad07ef",
    "items": [
@@ -20621,7 +20621,7 @@
    ]
   },
   {
-   "u": 54209,
+   "u": 54210,
    "len": 1012,
    "sha": "28e2299f49501e47",
    "items": [
@@ -22097,7 +22097,7 @@
    ]
   },
   {
-   "u": 55715,
+   "u": 55716,
    "len": 341,
    "sha": "429a3bb32fa52451",
    "items": [
@@ -22617,7 +22617,7 @@
    ]
   },
   {
-   "u": 57006,
+   "u": 57007,
    "len": 929,
    "sha": "ad27f0c73293a6e2",
    "items": [
@@ -23914,7 +23914,7 @@
    ]
   },
   {
-   "u": 59026,
+   "u": 59027,
    "len": 206,
    "sha": "0783def7b9265e13",
    "items": [
@@ -24254,13 +24254,13 @@
    ]
   },
   {
-   "r": 59336,
+   "r": 59337,
    "len": 0,
    "sha": "da39a3ee5e6b4b0d",
    "after": "<div class=\"figure\" id=\"figA\">\n<img alt=\"[Almost all the pictures in this article are from manuscripts and the text is not English and not always legible. A large circle divided into 16 parts at the rim, each labeled with a name]\" src=\"image001.png\" style=\"max-width:530px; width:90%\" />\n\n"
   },
   {
-   "u": 59340,
+   "u": 59341,
    "len": 480,
    "sha": "81d443aa56ffa617",
    "items": [
@@ -24520,7 +24520,7 @@
    ]
   },
   {
-   "u": 59823,
+   "u": 59824,
    "len": 251,
    "sha": "5500df9e52ead10c",
    "items": [
@@ -24854,9 +24854,9 @@
    ]
   },
   {
-   "u": 61009,
-   "len": 175,
-   "sha": "14f2f79ee58c24f8",
+   "u": 61010,
+   "len": 176,
+   "sha": "1a3c91bdc258186b",
    "items": [
     [
      "mk",
@@ -25123,9 +25123,9 @@
    ]
   },
   {
-   "u": 61188,
-   "len": 1765,
-   "sha": "d1f39448da032340",
+   "u": 61190,
+   "len": 1767,
+   "sha": "b92bb3c5da984885",
    "items": [
     [
      "mk",
@@ -27545,7 +27545,7 @@
    ]
   },
   {
-   "u": 62957,
+   "u": 62961,
    "len": 558,
    "sha": "bc007f5c0d52e7e0",
    "items": [
@@ -27805,7 +27805,7 @@
    ]
   },
   {
-   "u": 64705,
+   "u": 64709,
    "len": 201,
    "sha": "c3feb331176125e4",
    "items": [
@@ -28174,7 +28174,7 @@
    ]
   },
   {
-   "u": 64948,
+   "u": 64952,
    "len": 434,
    "sha": "6e184b685c4889ed",
    "items": [
@@ -28742,13 +28742,13 @@
    ]
   },
   {
-   "r": 65388,
+   "r": 65392,
    "len": 4,
    "sha": "82f4fb72c5b57add",
    "after": "<ul class=\"hanging\">\n\n"
   },
   {
-   "u": 65396,
+   "u": 65400,
    "len": 152,
    "sha": "7427ee569b556e69",
    "items": [
@@ -28912,7 +28912,7 @@
    ]
   },
   {
-   "u": 65552,
+   "u": 65556,
    "len": 318,
    "sha": "79865bca7737eb64",
    "items": [
@@ -29238,13 +29238,13 @@
    ]
   },
   {
-   "r": 66021,
+   "r": 66025,
    "len": 5,
    "sha": "0683d9779d8c72e8",
    "after": "</li>\n\n"
   },
   {
-   "u": 66030,
+   "u": 66034,
    "len": 293,
    "sha": "02aeb72edda7d43d",
    "items": [
@@ -29570,19 +29570,19 @@
    ]
   },
   {
-   "r": 66557,
+   "r": 66561,
    "len": 5,
    "sha": "0683d9779d8c72e8",
    "after": "</li>\n"
   },
   {
-   "r": 66569,
+   "r": 66573,
    "len": 0,
    "sha": "da39a3ee5e6b4b0d",
    "after": "<div class=\"figure\" id=\"figT\">\n<img alt=\"[3 concentric circles with the rims divided into 15 even sectors. 5 equilateral triangles each a different color connect the sectors. Sectors and points of the triangles are labelled.]\" src=\"image004.png\" style=\"max-width:530px; width:90%\" />\n\n"
   },
   {
-   "u": 66573,
+   "u": 66577,
    "len": 456,
    "sha": "ae8b1098a3b41dca",
    "items": [
@@ -29842,13 +29842,13 @@
    ]
   },
   {
-   "r": 67668,
+   "r": 67672,
    "len": 0,
    "sha": "da39a3ee5e6b4b0d",
    "after": "<div class=\"figure\" id=\"figV\">\n<img alt=\"[a circle divided on the rim into 14 sectors with the sectors labelled alternatively in red and black ink. The red sectors are all connected by lines as are the black sectors.]\" src=\"image005.png\" style=\"max-width:530px; width:90%\" />\n\n"
   },
   {
-   "u": 67672,
+   "u": 67676,
    "len": 448,
    "sha": "bf21dd70decad4fb",
    "items": [
@@ -30108,9 +30108,9 @@
    ]
   },
   {
-   "u": 68170,
-   "len": 570,
-   "sha": "aed63046075728d2",
+   "u": 68174,
+   "len": 571,
+   "sha": "b507feca554eb327",
    "items": [
     [
      "mk",
@@ -30740,15 +30740,15 @@
    ]
   },
   {
-   "r": 68746,
+   "r": 68751,
    "len": 0,
    "sha": "da39a3ee5e6b4b0d",
    "after": "<div class=\"figure\">\n<img alt=\"[a circle divided on the rim into 8 labelled sectors. A square for the even sectors and another the odd sectors. The points of the squares are labelled.]\" src=\"image006.png\" style=\"max-width:530px; width:90%\" />\n\n"
   },
   {
-   "u": 68750,
-   "len": 1056,
-   "sha": "eb7b2924bb969b6d",
+   "u": 68755,
+   "len": 1057,
+   "sha": "38584ae4e14da79b",
    "items": [
     [
      "mk",
@@ -31689,9 +31689,9 @@
    ]
   },
   {
-   "u": 69872,
-   "len": 1206,
-   "sha": "2448b08bbbb1a319",
+   "u": 69878,
+   "len": 1207,
+   "sha": "b6a00b5167b8e994",
    "items": [
     [
      "mk",
@@ -33552,9 +33552,9 @@
    ]
   },
   {
-   "u": 72107,
-   "len": 483,
-   "sha": "45cb8fc121af69b8",
+   "u": 72114,
+   "len": 485,
+   "sha": "2ab4000f0c656ce8",
    "items": [
     [
      "mk",
@@ -34195,15 +34195,15 @@
    ]
   },
   {
-   "r": 72596,
+   "r": 72605,
    "len": 0,
    "sha": "da39a3ee5e6b4b0d",
    "after": "<div class=\"figure\" id=\"figElemental\">\n<img alt=\"[four tables of 4 by 4 cells. The tables are labeled Figura Ignis, Figura A&euml;ris, Figura Aquae, and Figura Terrae]\" src=\"image008.png\" style=\"width:400px\" />\n\n"
   },
   {
-   "u": 72600,
-   "len": 2602,
-   "sha": "a9c119092d88ac64",
+   "u": 72609,
+   "len": 2606,
+   "sha": "bbd270af66f08c42",
    "items": [
     [
      "mk",
@@ -36728,9 +36728,9 @@
    ]
   },
   {
-   "u": 75797,
-   "len": 1040,
-   "sha": "84b28aeedeaa73be",
+   "u": 75810,
+   "len": 1043,
+   "sha": "8b01b1f27dd9bfa5",
    "items": [
     [
      "mk",
@@ -38302,7 +38302,7 @@
    ]
   },
   {
-   "u": 76938,
+   "u": 76954,
    "len": 294,
    "sha": "f6fa65b37bf65ad2",
    "items": [
@@ -38790,55 +38790,49 @@
    ]
   },
   {
-   "r": 77301,
+   "r": 77317,
    "len": 4,
    "sha": "a845c297571480ce",
    "after": "<tbody>\n<tr>\n  "
   },
   {
-   "r": 77332,
+   "r": 77348,
    "len": 21,
    "sha": "8e98ac66607adcbe",
    "after": "</td>\n  <td class=\"center\" colspan=\"6\">"
   },
   {
-   "r": 77380,
+   "r": 77396,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n"
   },
   {
-   "r": 77391,
+   "r": 77407,
    "len": 4,
    "sha": "a845c297571480ce",
    "after": "<tr>\n  "
   },
   {
-   "r": 77418,
+   "r": 77434,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 77435,
+   "r": 77451,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 77454,
+   "r": 77470,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 77471,
-   "len": 5,
-   "sha": "6ff2f48c157b7468",
-   "after": "</td>\n  "
-  },
-  {
-   "r": 77483,
+   "r": 77487,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
@@ -38853,142 +38847,142 @@
    "r": 77515,
    "len": 5,
    "sha": "6ff2f48c157b7468",
-   "after": "</td> "
-  },
-  {
-   "r": 77526,
-   "len": 4,
-   "sha": "a845c297571480ce",
-   "after": "<tr>\n  "
-  },
-  {
-   "r": 77553,
-   "len": 5,
-   "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 77571,
-   "len": 5,
-   "sha": "6ff2f48c157b7468",
-   "after": "</td>\n  "
-  },
-  {
-   "r": 77591,
-   "len": 5,
-   "sha": "6ff2f48c157b7468",
-   "after": "</td>\n  "
-  },
-  {
-   "r": 77605,
-   "len": 5,
-   "sha": "6ff2f48c157b7468",
-   "after": "</td>\n  "
-  },
-  {
-   "r": 77620,
-   "len": 5,
-   "sha": "6ff2f48c157b7468",
-   "after": "</td>\n  "
-  },
-  {
-   "r": 77637,
-   "len": 5,
-   "sha": "6ff2f48c157b7468",
-   "after": "</td>\n  "
-  },
-  {
-   "r": 77654,
+   "r": 77531,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td> "
   },
   {
-   "r": 77665,
+   "r": 77542,
    "len": 4,
    "sha": "a845c297571480ce",
    "after": "<tr>\n  "
   },
   {
-   "r": 77692,
+   "r": 77569,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 77709,
+   "r": 77587,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 77729,
+   "r": 77607,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 77746,
+   "r": 77621,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 77761,
+   "r": 77636,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 77779,
+   "r": 77653,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 77792,
+   "r": 77670,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td> "
   },
   {
-   "r": 77803,
+   "r": 77681,
    "len": 4,
    "sha": "a845c297571480ce",
    "after": "<tr>\n  "
   },
   {
-   "r": 77830,
+   "r": 77708,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 77844,
+   "r": 77725,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 77862,
+   "r": 77745,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 77875,
+   "r": 77762,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 77887,
+   "r": 77777,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 77906,
+   "r": 77795,
+   "len": 5,
+   "sha": "6ff2f48c157b7468",
+   "after": "</td>\n  "
+  },
+  {
+   "r": 77808,
+   "len": 5,
+   "sha": "6ff2f48c157b7468",
+   "after": "</td> "
+  },
+  {
+   "r": 77819,
+   "len": 4,
+   "sha": "a845c297571480ce",
+   "after": "<tr>\n  "
+  },
+  {
+   "r": 77846,
+   "len": 5,
+   "sha": "6ff2f48c157b7468",
+   "after": "</td>\n  "
+  },
+  {
+   "r": 77860,
+   "len": 5,
+   "sha": "6ff2f48c157b7468",
+   "after": "</td>\n  "
+  },
+  {
+   "r": 77878,
+   "len": 5,
+   "sha": "6ff2f48c157b7468",
+   "after": "</td>\n  "
+  },
+  {
+   "r": 77891,
+   "len": 5,
+   "sha": "6ff2f48c157b7468",
+   "after": "</td>\n  "
+  },
+  {
+   "r": 77903,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
@@ -38997,136 +38991,136 @@
    "r": 77922,
    "len": 5,
    "sha": "6ff2f48c157b7468",
-   "after": "</td> "
-  },
-  {
-   "r": 77933,
-   "len": 4,
-   "sha": "a845c297571480ce",
-   "after": "<tr>\n  "
-  },
-  {
-   "r": 77960,
-   "len": 5,
-   "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 77975,
-   "len": 5,
-   "sha": "6ff2f48c157b7468",
-   "after": "</td>\n  "
-  },
-  {
-   "r": 77990,
-   "len": 5,
-   "sha": "6ff2f48c157b7468",
-   "after": "</td>\n  "
-  },
-  {
-   "r": 78008,
-   "len": 5,
-   "sha": "6ff2f48c157b7468",
-   "after": "</td>\n  "
-  },
-  {
-   "r": 78028,
-   "len": 5,
-   "sha": "6ff2f48c157b7468",
-   "after": "</td>\n  "
-  },
-  {
-   "r": 78042,
-   "len": 5,
-   "sha": "6ff2f48c157b7468",
-   "after": "</td>\n  "
-  },
-  {
-   "r": 78074,
+   "r": 77938,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td> "
   },
   {
-   "r": 78085,
+   "r": 77949,
    "len": 4,
    "sha": "a845c297571480ce",
    "after": "<tr>\n  "
   },
   {
-   "r": 78112,
+   "r": 77976,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 78125,
+   "r": 77991,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 78137,
+   "r": 78006,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 78159,
+   "r": 78024,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 78174,
+   "r": 78044,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 78187,
+   "r": 78058,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 78200,
+   "r": 78090,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td> "
   },
   {
-   "r": 78211,
+   "r": 78101,
    "len": 4,
    "sha": "a845c297571480ce",
    "after": "<tr>\n  "
   },
   {
-   "r": 78238,
+   "r": 78128,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 78253,
+   "r": 78141,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 78270,
+   "r": 78153,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 78284,
+   "r": 78175,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 78303,
+   "r": 78190,
+   "len": 5,
+   "sha": "6ff2f48c157b7468",
+   "after": "</td>\n  "
+  },
+  {
+   "r": 78203,
+   "len": 5,
+   "sha": "6ff2f48c157b7468",
+   "after": "</td>\n  "
+  },
+  {
+   "r": 78216,
+   "len": 5,
+   "sha": "6ff2f48c157b7468",
+   "after": "</td> "
+  },
+  {
+   "r": 78227,
+   "len": 4,
+   "sha": "a845c297571480ce",
+   "after": "<tr>\n  "
+  },
+  {
+   "r": 78254,
+   "len": 5,
+   "sha": "6ff2f48c157b7468",
+   "after": "</td>\n  "
+  },
+  {
+   "r": 78269,
+   "len": 5,
+   "sha": "6ff2f48c157b7468",
+   "after": "</td>\n  "
+  },
+  {
+   "r": 78286,
+   "len": 5,
+   "sha": "6ff2f48c157b7468",
+   "after": "</td>\n  "
+  },
+  {
+   "r": 78300,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
@@ -39138,111 +39132,117 @@
    "after": "</td>\n  "
   },
   {
-   "r": 78333,
+   "r": 78335,
+   "len": 5,
+   "sha": "6ff2f48c157b7468",
+   "after": "</td>\n  "
+  },
+  {
+   "r": 78349,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td> "
   },
   {
-   "r": 78344,
+   "r": 78360,
    "len": 4,
    "sha": "a845c297571480ce",
    "after": "<tr>\n  "
   },
   {
-   "r": 78371,
+   "r": 78387,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 78385,
+   "r": 78401,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 78402,
+   "r": 78418,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 78417,
+   "r": 78433,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 78434,
+   "r": 78450,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 78451,
+   "r": 78467,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 78464,
+   "r": 78480,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td> "
   },
   {
-   "r": 78475,
+   "r": 78491,
    "len": 4,
    "sha": "a845c297571480ce",
    "after": "<tr>\n  "
   },
   {
-   "r": 78502,
+   "r": 78518,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 78516,
+   "r": 78532,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 78533,
+   "r": 78549,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 78560,
+   "r": 78576,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 78580,
+   "r": 78596,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 78599,
+   "r": 78615,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 78619,
+   "r": 78635,
    "len": 11,
    "sha": "6703e39657e18300",
    "after": "</td> </tr> "
   },
   {
-   "u": 78652,
-   "len": 857,
-   "sha": "9b652719c1b436ef",
+   "u": 78668,
+   "len": 858,
+   "sha": "a2f15ab3fadb1996",
    "items": [
     [
      "mk",
@@ -40510,9 +40510,9 @@
    ]
   },
   {
-   "u": 79561,
-   "len": 162,
-   "sha": "b657751e9cd60f24",
+   "u": 79578,
+   "len": 163,
+   "sha": "5db1f16f97ed8b7f",
    "items": [
     [
      "mk",
@@ -40750,13 +40750,13 @@
    ]
   },
   {
-   "r": 79729,
+   "r": 79747,
    "len": 0,
    "sha": "da39a3ee5e6b4b0d",
    "after": "<div class=\"figure\" id=\"figFirst\">\n<img alt=\"[This is a figure from an illustrated manuscript. A circle divided into 9 even sectors each labelled with a letter and word.]\" src=\"image010.png\" style=\"max-width:450px; width:80%\" />\n\n"
   },
   {
-   "u": 79733,
+   "u": 79751,
    "len": 389,
    "sha": "3899e72c34a57741",
    "items": [
@@ -41016,9 +41016,9 @@
    ]
   },
   {
-   "u": 80173,
-   "len": 813,
-   "sha": "77d673bfa905be9c",
+   "u": 80191,
+   "len": 815,
+   "sha": "77e378def538ce5e",
    "items": [
     [
      "mk",
@@ -42222,25 +42222,25 @@
    ]
   },
   {
-   "r": 80992,
+   "r": 81012,
    "len": 12,
    "sha": "a24bac6256c8c43b",
    "after": "<blockquote>\n\n"
   },
   {
-   "r": 81153,
+   "r": 81173,
    "len": 4,
    "sha": "93f64017194ac1d9",
    "after": "</p>\n"
   },
   {
-   "r": 81856,
+   "r": 81876,
    "len": 0,
    "sha": "da39a3ee5e6b4b0d",
    "after": "<div class=\"figure\" id=\"figSecond\">\n<img alt=\"[A circle divided into 9 with each sector labeled by a letter and three phrases. The sectors are connected by three equilateral triangles, the points of each are also labelled.]\" src=\"image011.png\" style=\"max-width:530px; width:90%\" />\n\n"
   },
   {
-   "u": 81860,
+   "u": 81880,
    "len": 442,
    "sha": "7d096f5f3f2aed4c",
    "items": [
@@ -42500,9 +42500,9 @@
    ]
   },
   {
-   "u": 82367,
-   "len": 676,
-   "sha": "23e5b65d791ee6dd",
+   "u": 82387,
+   "len": 678,
+   "sha": "759ef737dae0cee9",
    "items": [
     [
      "mk",
@@ -43459,13 +43459,13 @@
    ]
   },
   {
-   "r": 83049,
+   "r": 83071,
    "len": 0,
    "sha": "da39a3ee5e6b4b0d",
    "after": "<div class=\"figure\" id=\"figThird\">\n<img alt=\"[An 8 by 8 table with the upper left cells labelled. The lower right has running text.]\" src=\"image012.png\" style=\"max-width:400px; width:90%\" />\n\n"
   },
   {
-   "u": 83053,
+   "u": 83075,
    "len": 838,
    "sha": "84cafa626bab3736",
    "items": [
@@ -44018,7 +44018,7 @@
    ]
   },
   {
-   "u": 84848,
+   "u": 84870,
    "len": 117,
    "sha": "4528efd75325aab7",
    "items": [
@@ -44209,13 +44209,13 @@
    ]
   },
   {
-   "r": 84971,
+   "r": 84993,
    "len": 0,
    "sha": "da39a3ee5e6b4b0d",
    "after": "<div class=\"figure\" id=\"figFourthtable\">\n<img alt=\"[table from a manuscript. not very legible.]\" src=\"image014.png\" style=\"max-width:400px; width:50%\" />\n\n"
   },
   {
-   "u": 84975,
+   "u": 84997,
    "len": 333,
    "sha": "6348c3f1bcc8e91d",
    "items": [
@@ -44511,9 +44511,9 @@
    ]
   },
   {
-   "u": 85660,
-   "len": 281,
-   "sha": "91ae3e27ef9562ca",
+   "u": 85682,
+   "len": 283,
+   "sha": "3b2c610c16e35ce4",
    "items": [
     [
      "mk",
@@ -44833,273 +44833,273 @@
    ]
   },
   {
-   "r": 86711,
+   "r": 86735,
    "len": 0,
    "sha": "da39a3ee5e6b4b0d",
    "after": "<div class=\"indent\">\n\n"
   },
   {
-   "r": 86763,
+   "r": 86787,
    "len": 4,
    "sha": "a845c297571480ce",
    "after": "<tbody>\n<tr>\n  "
   },
   {
-   "r": 86772,
+   "r": 86796,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 86782,
+   "r": 86806,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 86808,
+   "r": 86832,
    "len": 14,
    "sha": "adb41a319c7822aa",
    "after": "</td>\n  <td> </td>\n  "
   },
   {
-   "r": 86827,
+   "r": 86851,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 86837,
+   "r": 86861,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 86864,
+   "r": 86888,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td> "
   },
   {
-   "r": 86875,
+   "r": 86899,
    "len": 4,
    "sha": "a845c297571480ce",
    "after": "<tr>\n  "
   },
   {
-   "r": 86884,
+   "r": 86908,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 86894,
+   "r": 86918,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 86924,
+   "r": 86948,
    "len": 14,
    "sha": "adb41a319c7822aa",
    "after": "</td>\n  <td> </td>\n  "
   },
   {
-   "r": 86943,
+   "r": 86967,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 86953,
+   "r": 86977,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 86981,
+   "r": 87005,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td> "
   },
   {
-   "r": 86992,
+   "r": 87016,
    "len": 4,
    "sha": "a845c297571480ce",
    "after": "<tr>\n  "
   },
   {
-   "r": 87001,
+   "r": 87025,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 87011,
+   "r": 87035,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 87042,
+   "r": 87066,
    "len": 14,
    "sha": "adb41a319c7822aa",
    "after": "</td>\n  <td> </td>\n  "
   },
   {
-   "r": 87061,
+   "r": 87085,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 87071,
+   "r": 87095,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 87104,
+   "r": 87128,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td> "
   },
   {
-   "r": 87115,
+   "r": 87139,
    "len": 4,
    "sha": "a845c297571480ce",
    "after": "<tr>\n  "
   },
   {
-   "r": 87124,
+   "r": 87148,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 87134,
+   "r": 87158,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 87160,
+   "r": 87184,
    "len": 14,
    "sha": "adb41a319c7822aa",
    "after": "</td>\n  <td> </td>\n  "
   },
   {
-   "r": 87179,
+   "r": 87203,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 87189,
+   "r": 87213,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 87217,
+   "r": 87241,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td> "
   },
   {
-   "r": 87228,
+   "r": 87252,
    "len": 4,
    "sha": "a845c297571480ce",
    "after": "<tr>\n  "
   },
   {
-   "r": 87237,
+   "r": 87261,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 87247,
+   "r": 87271,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 87278,
+   "r": 87302,
    "len": 14,
    "sha": "adb41a319c7822aa",
    "after": "</td>\n  <td> </td>\n  "
   },
   {
-   "r": 87297,
+   "r": 87321,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 87307,
+   "r": 87331,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 87336,
+   "r": 87360,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td> "
   },
   {
-   "r": 87347,
+   "r": 87371,
    "len": 4,
    "sha": "a845c297571480ce",
    "after": "<tr>\n  "
   },
   {
-   "r": 87356,
+   "r": 87380,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 87366,
+   "r": 87390,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 87398,
+   "r": 87422,
    "len": 14,
    "sha": "adb41a319c7822aa",
    "after": "</td>\n  <td> </td>\n  "
   },
   {
-   "r": 87417,
+   "r": 87441,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 87427,
+   "r": 87451,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 87460,
+   "r": 87484,
    "len": 11,
    "sha": "6703e39657e18300",
    "after": "</td> </tr> "
   },
   {
-   "r": 87480,
+   "r": 87504,
    "len": 10,
    "sha": "80d8dee1043e4afc",
    "after": "</table>\n</div>\n\n"
   },
   {
-   "u": 87493,
-   "len": 578,
-   "sha": "939ea731ce535f64",
+   "u": 87517,
+   "len": 579,
+   "sha": "05c7dd12dfb27315",
    "items": [
     [
      "mk",
@@ -45890,43 +45890,43 @@
    ]
   },
   {
-   "r": 88471,
+   "r": 88496,
    "len": 0,
    "sha": "da39a3ee5e6b4b0d",
    "after": "<div class=\"indent\">\n\n"
   },
   {
-   "r": 88523,
+   "r": 88548,
    "len": 4,
    "sha": "a845c297571480ce",
    "after": "<tbody>\n<tr>\n  "
   },
   {
-   "r": 88533,
+   "r": 88558,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 88582,
+   "r": 88607,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td> "
   },
   {
-   "r": 88593,
+   "r": 88618,
    "len": 4,
    "sha": "a845c297571480ce",
    "after": "<tr>\n  "
   },
   {
-   "r": 88603,
+   "r": 88628,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "u": 88612,
+   "u": 88637,
    "len": 71,
    "sha": "e87f808e8af6f80b",
    "items": [
@@ -46027,19 +46027,19 @@
    ]
   },
   {
-   "r": 88689,
+   "r": 88714,
    "len": 4,
    "sha": "a845c297571480ce",
    "after": "<tr>\n  "
   },
   {
-   "r": 88699,
+   "r": 88724,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "u": 88708,
+   "u": 88733,
    "len": 73,
    "sha": "27985d4f044f77c5",
    "items": [
@@ -46140,19 +46140,19 @@
    ]
   },
   {
-   "r": 88787,
+   "r": 88812,
    "len": 4,
    "sha": "a845c297571480ce",
    "after": "<tr>\n  "
   },
   {
-   "r": 88797,
+   "r": 88822,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "u": 88806,
+   "u": 88831,
    "len": 76,
    "sha": "abf0f4847de5c0dc",
    "items": [
@@ -46271,33 +46271,33 @@
    ]
   },
   {
-   "r": 88888,
+   "r": 88913,
    "len": 4,
    "sha": "a845c297571480ce",
    "after": "<tr>\n  "
   },
   {
-   "r": 88898,
+   "r": 88923,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 88957,
+   "r": 88982,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td> "
   },
   {
-   "r": 88977,
+   "r": 89002,
    "len": 10,
    "sha": "80d8dee1043e4afc",
    "after": "</table>\n</div>\n\n"
   },
   {
-   "u": 88990,
-   "len": 475,
-   "sha": "0a5d90d775fc03c5",
+   "u": 89015,
+   "len": 476,
+   "sha": "005ec0f4b22a3697",
    "items": [
     [
      "mk",
@@ -47017,9 +47017,9 @@
    ]
   },
   {
-   "u": 90226,
-   "len": 963,
-   "sha": "72e3d61b7aaf335c",
+   "u": 90252,
+   "len": 964,
+   "sha": "b0f5ea53f8479857",
    "items": [
     [
      "mk",
@@ -48333,13 +48333,13 @@
    ]
   },
   {
-   "r": 91195,
+   "r": 91222,
    "len": 12,
    "sha": "a24bac6256c8c43b",
    "after": "<blockquote>\n\n"
   },
   {
-   "u": 91210,
+   "u": 91237,
    "len": 258,
    "sha": "63ea289e634b17d3",
    "items": [
@@ -48682,9 +48682,9 @@
    ]
   },
   {
-   "u": 91556,
-   "len": 584,
-   "sha": "e787f9d89943bc8d",
+   "u": 91583,
+   "len": 586,
+   "sha": "3109e6a28db312c9",
    "items": [
     [
      "mk",
@@ -49615,67 +49615,67 @@
    ]
   },
   {
-   "r": 92146,
+   "r": 92175,
    "len": 0,
    "sha": "da39a3ee5e6b4b0d",
    "after": "<div class=\"indent\">\n\n"
   },
   {
-   "r": 92223,
+   "r": 92252,
    "len": 4,
    "sha": "a845c297571480ce",
    "after": "<tbody>\n<tr>\n  "
   },
   {
-   "r": 92232,
+   "r": 92261,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 92242,
+   "r": 92271,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 92252,
+   "r": 92281,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 92309,
+   "r": 92338,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td> "
   },
   {
-   "r": 92320,
+   "r": 92349,
    "len": 4,
    "sha": "a845c297571480ce",
    "after": "<tr>\n  "
   },
   {
-   "r": 92329,
+   "r": 92358,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 92339,
+   "r": 92368,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 92349,
+   "r": 92378,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "u": 92358,
+   "u": 92387,
    "len": 117,
    "sha": "ebb1b525778a304d",
    "items": [
@@ -49839,91 +49839,91 @@
    ]
   },
   {
-   "r": 92481,
+   "r": 92510,
    "len": 4,
    "sha": "a845c297571480ce",
    "after": "<tr>\n  "
   },
   {
-   "r": 92490,
+   "r": 92519,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 92500,
+   "r": 92529,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 92510,
+   "r": 92539,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 92556,
+   "r": 92585,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td> "
-  },
-  {
-   "r": 92567,
-   "len": 4,
-   "sha": "a845c297571480ce",
-   "after": "<tr>\n  "
-  },
-  {
-   "r": 92576,
-   "len": 5,
-   "sha": "6ff2f48c157b7468",
-   "after": "</td>\n  "
-  },
-  {
-   "r": 92586,
-   "len": 5,
-   "sha": "6ff2f48c157b7468",
-   "after": "</td>\n  "
   },
   {
    "r": 92596,
-   "len": 5,
-   "sha": "6ff2f48c157b7468",
-   "after": "</td>\n  "
-  },
-  {
-   "r": 92643,
-   "len": 5,
-   "sha": "6ff2f48c157b7468",
-   "after": "</td> "
-  },
-  {
-   "r": 92654,
    "len": 4,
    "sha": "a845c297571480ce",
    "after": "<tr>\n  "
   },
   {
-   "r": 92663,
+   "r": 92605,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 92673,
+   "r": 92615,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
+  },
+  {
+   "r": 92625,
+   "len": 5,
+   "sha": "6ff2f48c157b7468",
+   "after": "</td>\n  "
+  },
+  {
+   "r": 92672,
+   "len": 5,
+   "sha": "6ff2f48c157b7468",
+   "after": "</td> "
   },
   {
    "r": 92683,
+   "len": 4,
+   "sha": "a845c297571480ce",
+   "after": "<tr>\n  "
+  },
+  {
+   "r": 92692,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "u": 92692,
+   "r": 92702,
+   "len": 5,
+   "sha": "6ff2f48c157b7468",
+   "after": "</td>\n  "
+  },
+  {
+   "r": 92712,
+   "len": 5,
+   "sha": "6ff2f48c157b7468",
+   "after": "</td>\n  "
+  },
+  {
+   "u": 92721,
    "len": 69,
    "sha": "c963813912f00235",
    "items": [
@@ -50024,31 +50024,31 @@
    ]
   },
   {
-   "r": 92767,
+   "r": 92796,
    "len": 4,
    "sha": "a845c297571480ce",
    "after": "<tr>\n  "
   },
   {
-   "r": 92776,
+   "r": 92805,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 92786,
+   "r": 92815,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 92796,
+   "r": 92825,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "u": 92805,
+   "u": 92834,
    "len": 75,
    "sha": "bb8e5762cc24a1cf",
    "items": [
@@ -50157,15 +50157,15 @@
    ]
   },
   {
-   "r": 92889,
+   "r": 92918,
    "len": 10,
    "sha": "80d8dee1043e4afc",
    "after": "</table>\n</div>\n\n"
   },
   {
-   "u": 92902,
-   "len": 274,
-   "sha": "961406800d3fe9e4",
+   "u": 92931,
+   "len": 275,
+   "sha": "c4c6d17c4a67a2c0",
    "items": [
     [
      "mk",
@@ -50579,7 +50579,7 @@
    ]
   },
   {
-   "u": 93314,
+   "u": 93344,
    "len": 1143,
    "sha": "7069194cbd7dd86d",
    "items": [
@@ -52227,7 +52227,7 @@
    ]
   },
   {
-   "u": 94536,
+   "u": 94566,
    "len": 789,
    "sha": "3bae8b6226a1c906",
    "items": [
@@ -53375,19 +53375,19 @@
    ]
   },
   {
-   "r": 95331,
+   "r": 95361,
    "len": 12,
    "sha": "a24bac6256c8c43b",
    "after": "<blockquote>\n\n"
   },
   {
-   "r": 95588,
+   "r": 95618,
    "len": 4,
    "sha": "93f64017194ac1d9",
    "after": "</p>\n"
   },
   {
-   "u": 95610,
+   "u": 95640,
    "len": 145,
    "sha": "7f0c1c67b9fe77d2",
    "items": [
@@ -53609,19 +53609,19 @@
    ]
   },
   {
-   "r": 95761,
+   "r": 95791,
    "len": 12,
    "sha": "a24bac6256c8c43b",
    "after": "<blockquote>\n\n"
   },
   {
-   "r": 96149,
+   "r": 96179,
    "len": 4,
    "sha": "93f64017194ac1d9",
    "after": "</p>\n"
   },
   {
-   "u": 96532,
+   "u": 96562,
    "len": 93,
    "sha": "b50bbf4e0c6bbb5b",
    "items": [
@@ -53790,7 +53790,7 @@
    ]
   },
   {
-   "u": 96754,
+   "u": 96784,
    "len": 109,
    "sha": "2c5e2e0077a5a83c",
    "items": [
@@ -53923,7 +53923,7 @@
    ]
   },
   {
-   "u": 97367,
+   "u": 97397,
    "len": 95,
    "sha": "91b9b418acd82ec7",
    "items": [
@@ -54074,7 +54074,7 @@
    ]
   },
   {
-   "u": 97473,
+   "u": 97503,
    "len": 62,
    "sha": "0ec36950af276a46",
    "items": [
@@ -54171,7 +54171,7 @@
    ]
   },
   {
-   "u": 97637,
+   "u": 97667,
    "len": 173,
    "sha": "3f59d5d70665c4e6",
    "items": [
@@ -54375,7 +54375,7 @@
    ]
   },
   {
-   "u": 98233,
+   "u": 98263,
    "len": 133,
    "sha": "0cfd3f872ae8aa59",
    "items": [
@@ -54517,7 +54517,7 @@
    ]
   },
   {
-   "u": 98523,
+   "u": 98553,
    "len": 89,
    "sha": "ba5d6eac2278f8ee",
    "items": [
@@ -54650,7 +54650,7 @@
    ]
   },
   {
-   "u": 99077,
+   "u": 99107,
    "len": 209,
    "sha": "74ab5cb1f3221331",
    "items": [
@@ -54921,7 +54921,7 @@
    ]
   },
   {
-   "u": 99297,
+   "u": 99327,
    "len": 122,
    "sha": "ab08e90500f1c06d",
    "items": [
@@ -55108,7 +55108,7 @@
    ]
   },
   {
-   "u": 99583,
+   "u": 99613,
    "len": 101,
    "sha": "6fff9c40f45f3193",
    "items": [
@@ -55259,7 +55259,7 @@
    ]
   },
   {
-   "u": 99695,
+   "u": 99725,
    "len": 281,
    "sha": "7eb16497785a0644",
    "items": [
@@ -55635,7 +55635,7 @@
    ]
   },
   {
-   "u": 99987,
+   "u": 100017,
    "len": 102,
    "sha": "ddda943674b23558",
    "items": [
@@ -55759,7 +55759,7 @@
    ]
   },
   {
-   "u": 100368,
+   "u": 100398,
    "len": 127,
    "sha": "047fda989be6df69",
    "items": [
@@ -55901,7 +55901,7 @@
    ]
   },
   {
-   "u": 100615,
+   "u": 100645,
    "len": 180,
    "sha": "b1c5d174fa1b3875",
    "items": [
@@ -56106,7 +56106,7 @@
    ]
   },
   {
-   "u": 100806,
+   "u": 100836,
    "len": 105,
    "sha": "40aacb8744c6355e",
    "items": [
@@ -56248,7 +56248,7 @@
    ]
   },
   {
-   "u": 100922,
+   "u": 100952,
    "len": 134,
    "sha": "95a80f2b7be6b121",
    "items": [
@@ -56399,7 +56399,7 @@
    ]
   },
   {
-   "u": 101270,
+   "u": 101300,
    "len": 198,
    "sha": "2c56eed0ca699f3a",
    "items": [
@@ -56640,7 +56640,7 @@
    ]
   },
   {
-   "u": 101479,
+   "u": 101509,
    "len": 191,
    "sha": "526757498025d0b0",
    "items": [
@@ -56845,7 +56845,7 @@
    ]
   },
   {
-   "u": 101782,
+   "u": 101812,
    "len": 200,
    "sha": "c6ab652b4a7b6a4c",
    "items": [
@@ -57054,7 +57054,7 @@
    ]
   },
   {
-   "u": 102141,
+   "u": 102171,
    "len": 345,
    "sha": "3e734e567c95dc4d",
    "items": [
@@ -57475,7 +57475,7 @@
    ]
   },
   {
-   "u": 102672,
+   "u": 102702,
    "len": 158,
    "sha": "18d3e096810e64e9",
    "items": [
@@ -57608,7 +57608,7 @@
    ]
   },
   {
-   "u": 102841,
+   "u": 102871,
    "len": 174,
    "sha": "991d0e1fdbb06e83",
    "items": [
@@ -57822,7 +57822,7 @@
    ]
   },
   {
-   "u": 103026,
+   "u": 103056,
    "len": 144,
    "sha": "08822cc975067264",
    "items": [
@@ -57982,7 +57982,7 @@
    ]
   },
   {
-   "u": 103181,
+   "u": 103211,
    "len": 223,
    "sha": "4de4e45deff4c994",
    "items": [
@@ -58205,7 +58205,7 @@
    ]
   },
   {
-   "u": 103542,
+   "u": 103572,
    "len": 179,
    "sha": "a45df4fe431fb4c2",
    "items": [
@@ -58383,7 +58383,7 @@
    ]
   },
   {
-   "u": 103732,
+   "u": 103762,
    "len": 182,
    "sha": "3ce141023919cbfd",
    "items": [
@@ -58597,7 +58597,7 @@
    ]
   },
   {
-   "u": 103925,
+   "u": 103955,
    "len": 139,
    "sha": "758f1795184a0c27",
    "items": [
@@ -58748,7 +58748,7 @@
    ]
   },
   {
-   "u": 104075,
+   "u": 104105,
    "len": 126,
    "sha": "374d9bb49a13455b",
    "items": [
@@ -58890,7 +58890,7 @@
    ]
   },
   {
-   "u": 104212,
+   "u": 104242,
    "len": 172,
    "sha": "7716ba27cc003090",
    "items": [
@@ -59077,7 +59077,7 @@
    ]
   },
   {
-   "u": 104395,
+   "u": 104425,
    "len": 316,
    "sha": "732625dcf43300ae",
    "items": [
@@ -59435,7 +59435,7 @@
    ]
   },
   {
-   "u": 104722,
+   "u": 104752,
    "len": 132,
    "sha": "724b834af202abba",
    "items": [
@@ -59577,7 +59577,7 @@
    ]
   },
   {
-   "u": 105104,
+   "u": 105134,
    "len": 116,
    "sha": "233b65fe1f6639ff",
    "items": [
@@ -59719,7 +59719,7 @@
    ]
   },
   {
-   "u": 105231,
+   "u": 105261,
    "len": 438,
    "sha": "9699ab28b886b1e3",
    "items": [
@@ -60104,9 +60104,9 @@
    ]
   },
   {
-   "u": 105814,
-   "len": 353,
-   "sha": "ffdc20ca2b516ccd",
+   "u": 105844,
+   "len": 354,
+   "sha": "899159664a75cfee",
    "items": [
     [
      "tx",
@@ -60460,7 +60460,7 @@
    ]
   },
   {
-   "u": 106171,
+   "u": 106202,
    "len": 165,
    "sha": "a0f05c87416377f5",
    "items": [
@@ -60634,7 +60634,7 @@
    ]
   },
   {
-   "u": 106654,
+   "u": 106685,
    "len": 250,
    "sha": "f3cce438c9c06ac4",
    "items": [
@@ -60947,7 +60947,7 @@
    ]
   },
   {
-   "u": 106915,
+   "u": 106946,
    "len": 164,
    "sha": "33e64406b55c631a",
    "items": [
@@ -61152,7 +61152,7 @@
    ]
   },
   {
-   "u": 107090,
+   "u": 107121,
    "len": 112,
    "sha": "c786b9b5ad501359",
    "items": [
@@ -61312,7 +61312,7 @@
    ]
   },
   {
-   "u": 107213,
+   "u": 107244,
    "len": 160,
    "sha": "eb9863ac4577eade",
    "items": [
@@ -61476,7 +61476,7 @@
    ]
   },
   {
-   "u": 107665,
+   "u": 107696,
    "len": 101,
    "sha": "37a6f07234d97acb",
    "items": [
@@ -61600,7 +61600,7 @@
    ]
   },
   {
-   "u": 107777,
+   "u": 107808,
    "len": 100,
    "sha": "cab64180678d047e",
    "items": [
@@ -61702,7 +61702,7 @@
    ]
   },
   {
-   "u": 107888,
+   "u": 107919,
    "len": 162,
    "sha": "b8054bab947ed541",
    "items": [
@@ -61889,7 +61889,7 @@
    ]
   },
   {
-   "u": 108357,
+   "u": 108388,
    "len": 273,
    "sha": "8460859b0ec2d314",
    "items": [
@@ -62202,7 +62202,7 @@
    ]
   },
   {
-   "u": 108891,
+   "u": 108922,
    "len": 216,
    "sha": "d2c69d6d4412bf92",
    "items": [
@@ -62442,7 +62442,7 @@
    ]
   },
   {
-   "u": 109118,
+   "u": 109149,
    "len": 127,
    "sha": "e5c95e53e7e15a76",
    "items": [
@@ -62602,7 +62602,7 @@
    ]
   },
   {
-   "u": 110005,
+   "u": 110036,
    "len": 221,
    "sha": "c19d583e1b0ddaad",
    "items": [
@@ -62843,7 +62843,7 @@
    ]
   },
   {
-   "u": 110237,
+   "u": 110268,
    "len": 227,
    "sha": "c8c26b4a9b732555",
    "items": [
@@ -63088,7 +63088,7 @@
    ]
   },
   {
-   "u": 110475,
+   "u": 110506,
    "len": 159,
    "sha": "6128e811eaded038",
    "items": [
@@ -63275,7 +63275,7 @@
    ]
   },
   {
-   "u": 110645,
+   "u": 110676,
    "len": 148,
    "sha": "93e0e4e3cd3ea76a",
    "items": [
@@ -63417,7 +63417,7 @@
    ]
   },
   {
-   "u": 111633,
+   "u": 111664,
    "len": 104,
    "sha": "e4f0fa1469e0fc28",
    "items": [
@@ -63532,7 +63532,7 @@
    ]
   },
   {
-   "u": 111964,
+   "u": 111995,
    "len": 148,
    "sha": "992b19a476880d33",
    "items": [
@@ -63683,7 +63683,7 @@
    ]
   },
   {
-   "u": 112123,
+   "u": 112154,
    "len": 110,
    "sha": "04a96f2a74a7e24f",
    "items": [
@@ -63789,7 +63789,7 @@
    ]
   },
   {
-   "u": 112244,
+   "u": 112275,
    "len": 153,
    "sha": "cce3ec676e610181",
    "items": [
@@ -63940,7 +63940,7 @@
    ]
   },
   {
-   "u": 112408,
+   "u": 112439,
    "len": 154,
    "sha": "1c887fca1706675c",
    "items": [
@@ -64109,7 +64109,7 @@
    ]
   },
   {
-   "u": 113384,
+   "u": 113415,
    "len": 331,
    "sha": "9c0bf85f8534bf69",
    "items": [
@@ -64552,7 +64552,7 @@
    ]
   },
   {
-   "u": 113726,
+   "u": 113757,
    "len": 173,
    "sha": "1348052d46781b64",
    "items": [
@@ -64730,7 +64730,7 @@
    ]
   },
   {
-   "u": 113910,
+   "u": 113941,
    "len": 199,
    "sha": "281121feadf1c65d",
    "items": [
@@ -64944,7 +64944,7 @@
    ]
   },
   {
-   "u": 114120,
+   "u": 114151,
    "len": 170,
    "sha": "7cbf2cbe6cb99185",
    "items": [
@@ -65113,7 +65113,7 @@
    ]
   },
   {
-   "u": 114636,
+   "u": 114667,
    "len": 99,
    "sha": "26eee3dbbe75ae9c",
    "items": [
@@ -65206,7 +65206,7 @@
    ]
   },
   {
-   "u": 114746,
+   "u": 114777,
    "len": 219,
    "sha": "29555ae2570af071",
    "items": [
@@ -65456,7 +65456,7 @@
    ]
   },
   {
-   "u": 114976,
+   "u": 115007,
    "len": 197,
    "sha": "2a70ee80799b50fd",
    "items": [
@@ -65634,7 +65634,7 @@
    ]
   },
   {
-   "u": 115184,
+   "u": 115215,
    "len": 322,
    "sha": "4fb437a44b5fb9f5",
    "items": [
@@ -65983,7 +65983,7 @@
    ]
   },
   {
-   "u": 116191,
+   "u": 116222,
    "len": 399,
    "sha": "51844071592e607e",
    "items": [
@@ -66395,7 +66395,7 @@
    ]
   },
   {
-   "u": 116601,
+   "u": 116632,
    "len": 155,
    "sha": "cba8af41853b5b7f",
    "items": [
@@ -66555,7 +66555,7 @@
    ]
   },
   {
-   "u": 117254,
+   "u": 117285,
    "len": 150,
    "sha": "ac9753a956ab3b3e",
    "items": [
@@ -66706,7 +66706,7 @@
    ]
   },
   {
-   "u": 117572,
+   "u": 117603,
    "len": 155,
    "sha": "6738aa3eff1959e8",
    "items": [
@@ -66938,7 +66938,7 @@
    ]
   },
   {
-   "u": 117738,
+   "u": 117769,
    "len": 194,
    "sha": "6b3968f31faa0611",
    "items": [
@@ -67152,7 +67152,7 @@
    ]
   },
   {
-   "u": 117943,
+   "u": 117974,
    "len": 126,
    "sha": "fe964efda6f99635",
    "items": [
@@ -67321,13 +67321,13 @@
    ]
   },
   {
-   "r": 118075,
+   "r": 118106,
    "len": 7,
    "sha": "88e550cf4af87b75",
    "after": "</ul>\n"
   },
   {
-   "u": 118270,
+   "u": 118301,
    "len": 140,
    "sha": "ef8d06963133bb91",
    "items": [
@@ -67388,13 +67388,13 @@
    ]
   },
   {
-   "r": 118416,
+   "r": 118447,
    "len": 6,
    "sha": "cdde12a2071831e3",
    "after": "</tr>\n\n"
   },
   {
-   "u": 118503,
+   "u": 118534,
    "len": 250,
    "sha": "ba84d16e4052fc25",
    "items": [
@@ -67544,13 +67544,13 @@
    ]
   },
   {
-   "r": 118759,
+   "r": 118790,
    "len": 6,
    "sha": "cdde12a2071831e3",
    "after": "</tr>\n\n"
   },
   {
-   "u": 118838,
+   "u": 118869,
    "len": 210,
    "sha": "6f7bd25573efb2d0",
    "items": [
@@ -67705,13 +67705,13 @@
    ]
   },
   {
-   "r": 119054,
+   "r": 119085,
    "len": 6,
    "sha": "cdde12a2071831e3",
    "after": "</tr>\n\n"
   },
   {
-   "u": 119136,
+   "u": 119167,
    "len": 225,
    "sha": "7a915158e76a4246",
    "items": [
@@ -67843,21 +67843,21 @@
    ]
   },
   {
-   "r": 119367,
+   "r": 119398,
    "len": 6,
    "sha": "cdde12a2071831e3",
    "after": "</tr>\n\n"
   },
   {
-   "r": 119485,
+   "r": 119516,
    "len": 4,
    "sha": "82f4fb72c5b57add",
    "after": "<ul>\n\n "
   },
   {
-   "u": 119493,
+   "u": 119524,
    "len": 470,
-   "sha": "c62552d833fb69ab",
+   "sha": "918c4d061b775d5f",
    "items": [
     [
      "mk",
@@ -68365,9 +68365,9 @@
    ]
   },
   {
-   "u": 119967,
+   "u": 119998,
    "len": 392,
-   "sha": "1896115dc72837b3",
+   "sha": "524bef2f427b0bc3",
    "items": [
     [
      "mk",
@@ -68747,9 +68747,9 @@
    ]
   },
   {
-   "u": 120363,
+   "u": 120394,
    "len": 331,
-   "sha": "b4296ee9e96d31a7",
+   "sha": "c03e6fea5d521260",
    "items": [
     [
      "mk",
@@ -69134,9 +69134,9 @@
    ]
   },
   {
-   "u": 120698,
+   "u": 120729,
    "len": 349,
-   "sha": "7a435b6585e266ef",
+   "sha": "cc89f17183d72a44",
    "items": [
     [
      "mk",
@@ -69491,9 +69491,9 @@
    ]
   },
   {
-   "u": 121051,
+   "u": 121082,
    "len": 253,
-   "sha": "e64a3b01dedcda80",
+   "sha": "06d43af97eb0c02f",
    "items": [
     [
      "mk",
@@ -69740,9 +69740,9 @@
    ]
   },
   {
-   "u": 121308,
+   "u": 121339,
    "len": 271,
-   "sha": "b6ea09ba09d3fe00",
+   "sha": "e92b457669e25cb3",
    "items": [
     [
      "mk",
@@ -69921,13 +69921,13 @@
    ]
   },
   {
-   "r": 121656,
+   "r": 121687,
    "len": 5,
    "sha": "b8dc660f3c20d4ce",
    "after": "<p>\n\n "
   },
   {
-   "r": 122241,
+   "r": 122272,
    "len": 7,
    "sha": "da73131d8a61fe0d",
    "after": "</div> \n"

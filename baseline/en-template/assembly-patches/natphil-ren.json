@@ -5,7 +5,7 @@
  "note": "格式层残差补丁：m=标记段、u=单元布局、r=纯布局区段；禁含散文",
  "stats": {
   "page_bytes": 82412,
-  "pool_bytes": 58065,
+  "pool_bytes": 57991,
   "n_patches": 80
  },
  "patches": [
@@ -72603,55 +72603,15 @@
    "after": "<ul>\n\n "
   },
   {
-   "u": 77253,
-   "len": 78,
-   "sha": "43262646068c6f42",
-   "items": [
-    [
-     "mk",
-     "<a href=\"http://galileo.rice.edu/\" target=\"other\">"
-    ],
-    [
-     "tx",
-     0,
-     3
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     3,
-     7
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     10,
-     7
-    ],
-    [
-     "mk",
-     "</a>"
-    ],
-    [
-     "mk",
-     "</li>"
-    ],
-    [
-     "mk",
-     "\n \n "
-    ]
-   ]
+   "r": 77326,
+   "len": 5,
+   "sha": "0683d9779d8c72e8",
+   "after": "</li>\n \n "
   },
   {
    "u": 77335,
    "len": 94,
-   "sha": "7af61b6ded11bd6c",
+   "sha": "56730fb81685483e",
    "items": [
     [
      "mk",

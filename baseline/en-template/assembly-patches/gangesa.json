@@ -5,7 +5,7 @@
  "note": "格式层残差补丁：m=标记段、u=单元布局、r=纯布局区段；禁含散文",
  "stats": {
   "page_bytes": 141868,
-  "pool_bytes": 76642,
+  "pool_bytes": 76504,
   "n_patches": 202
  },
  "patches": [
@@ -95426,100 +95426,10 @@
    "after": "<ul> <!--LINK CHECKER COMMENTED OUT (Sun Apr 17 17:23:52 PDT 2022)   <li><a href=\"http://faculty.washington.edu/kpotter/\" target=\"other\">Indian Philosophies Bibliograph</a>,\n by Karl Potter (U. Washington)</li> LINK CHECKER-->\n\n "
   },
   {
-   "u": 136701,
-   "len": 146,
-   "sha": "2652c142f73a6cca",
-   "items": [
-    [
-     "mk",
-     "<a href=\"http://gretil.sub.uni-goettingen.de/gretil.html\" target=\"other\">"
-    ],
-    [
-     "tx",
-     0,
-     14
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     14,
-     8
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     22,
-     2
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     24,
-     10
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     34,
-     5
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     39,
-     2
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     41,
-     6
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     47,
-     9
-    ],
-    [
-     "mk",
-     "</a>"
-    ],
-    [
-     "tx",
-     56,
-     1
-    ],
-    [
-     "mk",
-     "</li>"
-    ],
-    [
-     "mk",
-     "\n \n "
-    ]
-   ]
+   "r": 136842,
+   "len": 5,
+   "sha": "0683d9779d8c72e8",
+   "after": "</li>\n \n "
   },
   {
    "r": 136934,

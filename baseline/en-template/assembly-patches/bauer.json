@@ -5,8 +5,8 @@
  "note": "格式层残差补丁：m=标记段、u=单元布局、r=纯布局区段；禁含散文",
  "stats": {
   "page_bytes": 85101,
-  "pool_bytes": 36162,
-  "n_patches": 90
+  "pool_bytes": 36084,
+  "n_patches": 89
  },
  "patches": [
   {
@@ -45012,53 +45012,6 @@
    "len": 4,
    "sha": "82f4fb72c5b57add",
    "after": "<ul>\n "
-  },
-  {
-   "u": 80086,
-   "len": 75,
-   "sha": "43afa1d2cb442cdc",
-   "items": [
-    [
-     "mk",
-     "<a href=\"http://www.hegel.org/\" target=\"other\">"
-    ],
-    [
-     "tx",
-     0,
-     5
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     5,
-     7
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     12,
-     2
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     14,
-     7
-    ],
-    [
-     "mk",
-     "</a>"
-    ]
-   ]
   },
   {
    "m": 80161,

@@ -5,7 +5,7 @@
  "note": "格式层残差补丁：m=标记段、u=单元布局、r=纯布局区段；禁含散文",
  "stats": {
   "page_bytes": 91638,
-  "pool_bytes": 44982,
+  "pool_bytes": 44875,
   "n_patches": 100
  },
  "patches": [
@@ -55471,72 +55471,15 @@
    "after": "<ul>\n\n<!--LINK CHECKER COMMENTED OUT (Sat Mar 9 06:37:05 PST 2024)\n\n<li><a href=\"https://aesthetics-online.org/\" target=\"other\">American Society for Aesthetics</a></li>\n\nLINK CHECKER-->\n \n "
   },
   {
-   "u": 86236,
-   "len": 115,
-   "sha": "38cca19cbd819110",
-   "items": [
-    [
-     "mk",
-     "<a href=\"http://www.euppublishing.com/journal/jsp/\" target=\"other\">"
-    ],
-    [
-     "mk",
-     "<em>"
-    ],
-    [
-     "tx",
-     0,
-     7
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     7,
-     2
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     9,
-     8
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     17,
-     10
-    ],
-    [
-     "mk",
-     "</em>"
-    ],
-    [
-     "mk",
-     "</a>"
-    ],
-    [
-     "mk",
-     "</li>"
-    ],
-    [
-     "mk",
-     "\n \n "
-    ]
-   ]
+   "r": 86346,
+   "len": 5,
+   "sha": "0683d9779d8c72e8",
+   "after": "</li>\n \n "
   },
   {
    "u": 86355,
    "len": 239,
-   "sha": "e238baf4918b60ed",
+   "sha": "2872fac379592d92",
    "items": [
     [
      "mk",

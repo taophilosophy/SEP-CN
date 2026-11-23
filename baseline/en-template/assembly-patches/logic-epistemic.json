@@ -4,7 +4,7 @@
  "generated_by": "specs/053 bin/assembly_pool.py",
  "note": "格式层残差补丁：m=标记段、u=单元布局、r=纯布局区段；禁含散文",
  "stats": {
-  "page_bytes": 150600,
+  "page_bytes": 150627,
   "pool_bytes": 89114,
   "n_patches": 306
  },
@@ -3912,8 +3912,8 @@
   },
   {
    "u": 13981,
-   "len": 563,
-   "sha": "9a27bfbef3cf125c",
+   "len": 564,
+   "sha": "4649255f17efe252",
    "items": [
     [
      "mk",
@@ -4628,9 +4628,9 @@
    ]
   },
   {
-   "u": 17342,
-   "len": 655,
-   "sha": "c19bf83194174fce",
+   "u": 17343,
+   "len": 656,
+   "sha": "da7c310d4206c1c2",
    "items": [
     [
      "mk",
@@ -5531,9 +5531,9 @@
    ]
   },
   {
-   "u": 18081,
-   "len": 394,
-   "sha": "69e51ee4b762f239",
+   "u": 18083,
+   "len": 395,
+   "sha": "efe24d1f88d7b605",
    "items": [
     [
      "mk",
@@ -6126,13 +6126,13 @@
    ]
   },
   {
-   "r": 19364,
+   "r": 19367,
    "len": 0,
    "sha": "da39a3ee5e6b4b0d",
    "after": "<div class=\"indent\">\n\n"
   },
   {
-   "u": 19367,
+   "u": 19370,
    "len": 83,
    "sha": "364c9a5ea976e794",
    "items": [
@@ -6226,15 +6226,15 @@
    ]
   },
   {
-   "r": 19473,
+   "r": 19476,
    "len": 0,
    "sha": "da39a3ee5e6b4b0d",
    "after": "<div class=\"indent\">\n\n"
   },
   {
-   "u": 19476,
-   "len": 4734,
-   "sha": "97c7d88e4a1b8ecc",
+   "u": 19479,
+   "len": 4737,
+   "sha": "2fd7e7f29406e6b7",
    "items": [
     [
      "mk",
@@ -12053,7 +12053,7 @@
    ]
   },
   {
-   "u": 24274,
+   "u": 24280,
    "len": 342,
    "sha": "341d8c72fa477c23",
    "items": [
@@ -12541,9 +12541,9 @@
    ]
   },
   {
-   "u": 25431,
-   "len": 465,
-   "sha": "058a656c2e4f5808",
+   "u": 25437,
+   "len": 466,
+   "sha": "161840cc331bdac4",
    "items": [
     [
      "mk",
@@ -13128,25 +13128,25 @@
    ]
   },
   {
-   "r": 25902,
+   "r": 25909,
    "len": 0,
    "sha": "da39a3ee5e6b4b0d",
    "after": "<div class=\"indent\">\n\n"
   },
   {
-   "r": 26084,
+   "r": 26091,
    "len": 6,
    "sha": "56a5823876f66417",
    "after": "</p>\n</div>\n\n"
   },
   {
-   "r": 26198,
+   "r": 26205,
    "len": 0,
    "sha": "da39a3ee5e6b4b0d",
    "after": "<div class=\"indent\">\n\n"
   },
   {
-   "u": 26201,
+   "u": 26208,
    "len": 172,
    "sha": "6d9cb0ebbea9246b",
    "items": [
@@ -13423,7 +13423,7 @@
    ]
   },
   {
-   "u": 26376,
+   "u": 26383,
    "len": 175,
    "sha": "a4dbdd9772d53000",
    "items": [
@@ -13681,7 +13681,7 @@
    ]
   },
   {
-   "u": 27555,
+   "u": 27562,
    "len": 115,
    "sha": "7408954850676a93",
    "items": [
@@ -13768,13 +13768,13 @@
    ]
   },
   {
-   "r": 28151,
+   "r": 28158,
    "len": 0,
    "sha": "da39a3ee5e6b4b0d",
    "after": "<div class=\"indent\">\n\n"
   },
   {
-   "u": 28155,
+   "u": 28162,
    "len": 60,
    "sha": "35cfdad3f086b1a0",
    "items": [
@@ -13875,7 +13875,7 @@
    ]
   },
   {
-   "u": 28238,
+   "u": 28245,
    "len": 66,
    "sha": "f427b636292987e3",
    "items": [
@@ -13992,9 +13992,9 @@
    ]
   },
   {
-   "u": 28307,
-   "len": 1109,
-   "sha": "a85a1560cdefd5b5",
+   "u": 28314,
+   "len": 1110,
+   "sha": "9d4411d8860ea22d",
    "items": [
     [
      "mk",
@@ -15564,9 +15564,9 @@
    ]
   },
   {
-   "u": 29537,
-   "len": 4608,
-   "sha": "ee4cf4c4e9ef2673",
+   "u": 29545,
+   "len": 4609,
+   "sha": "202a44588df72209",
    "items": [
     [
      "mk",
@@ -20717,19 +20717,19 @@
    ]
   },
   {
-   "r": 34339,
+   "r": 34348,
    "len": 242,
    "sha": "e3ddd7bf59972024",
    "after": "<div class=\"figure center\">\n<img alt=\"Basic Four Worlds except w2 is highlighted and a double headed arrow connects w2 and w1 and another double headed arrow connects w3 and w4. Each world also has an arrow that loops back to the same world.\" src=\"fig6.svg\" class=\"nocaption\" style=\"width:100%\" />\n</div>\n\n"
   },
   {
-   "r": 34889,
+   "r": 34898,
    "len": 0,
    "sha": "da39a3ee5e6b4b0d",
    "after": "<div class=\"indent\">\n\n"
   },
   {
-   "u": 34892,
+   "u": 34901,
    "len": 985,
    "sha": "54b79b2cd75ac6b9",
    "items": [
@@ -22206,7 +22206,7 @@
    ]
   },
   {
-   "u": 35881,
+   "u": 35890,
    "len": 177,
    "sha": "18a0393baf0cbc79",
    "items": [
@@ -22468,7 +22468,7 @@
    ]
   },
   {
-   "u": 36062,
+   "u": 36071,
    "len": 162,
    "sha": "30d39f9625bc9ff3",
    "items": [
@@ -22712,7 +22712,7 @@
    ]
   },
   {
-   "u": 36228,
+   "u": 36237,
    "len": 77,
    "sha": "54f59cb48bfcebc8",
    "items": [
@@ -22816,7 +22816,7 @@
    ]
   },
   {
-   "u": 36309,
+   "u": 36318,
    "len": 40,
    "sha": "397c6e714996c60a",
    "items": [
@@ -22876,7 +22876,7 @@
    ]
   },
   {
-   "u": 36353,
+   "u": 36362,
    "len": 28,
    "sha": "d76b3b2a31625c9f",
    "items": [
@@ -22921,7 +22921,7 @@
    ]
   },
   {
-   "u": 36385,
+   "u": 36394,
    "len": 90,
    "sha": "5906c1eb0946cf1e",
    "items": [
@@ -23052,7 +23052,7 @@
    ]
   },
   {
-   "u": 36479,
+   "u": 36488,
    "len": 44,
    "sha": "8767c0a9bc7dcb11",
    "items": [
@@ -23116,7 +23116,7 @@
    ]
   },
   {
-   "u": 36527,
+   "u": 36536,
    "len": 32,
    "sha": "723a80dfb5ca73c8",
    "items": [
@@ -23161,19 +23161,19 @@
    ]
   },
   {
-   "r": 37163,
+   "r": 37172,
    "len": 0,
    "sha": "da39a3ee5e6b4b0d",
    "after": "<div class=\"indent\">\n\n"
   },
   {
-   "r": 37247,
+   "r": 37256,
    "len": 4,
    "sha": "96c69ae77e540547",
    "after": "<ol style=\"list-style-type: lower-alpha\">\n\n"
   },
   {
-   "u": 37255,
+   "u": 37264,
    "len": 68,
    "sha": "fc1ea6fdd2ceac19",
    "items": [
@@ -23254,13 +23254,13 @@
    ]
   },
   {
-   "r": 37417,
+   "r": 37426,
    "len": 12,
    "sha": "b5aaab6f96b3b0f0",
    "after": "</li>\n</ol>\n</div>\n\n"
   },
   {
-   "u": 37432,
+   "u": 37441,
    "len": 540,
    "sha": "f09801660a7d93dc",
    "items": [
@@ -24026,25 +24026,25 @@
    ]
   },
   {
-   "r": 37978,
+   "r": 37987,
    "len": 238,
    "sha": "a009f9ff6204240f",
    "after": "<div class=\"figure center\">\n<img alt=\"A diagram of three nodes: w1, w2, and w3. An arrow, labeled 'assumed' goes from w1 to w2 and another arrow with the same label goes from w2 to w3. A third arrow, labeled 'implied' goes from w1 to w3.\" src=\"fig8.svg\" style=\"width:80%\" />\n</div>\n\n"
   },
   {
-   "r": 38271,
+   "r": 38280,
    "len": 0,
    "sha": "da39a3ee5e6b4b0d",
    "after": "<div class=\"indent\">\n\n"
   },
   {
-   "r": 38460,
+   "r": 38469,
    "len": 6,
    "sha": "56a5823876f66417",
    "after": "</p>\n</div>\n\n"
   },
   {
-   "u": 38599,
+   "u": 38608,
    "len": 70,
    "sha": "b5f0035ebc5c1fc3",
    "items": [
@@ -24168,19 +24168,19 @@
    ]
   },
   {
-   "r": 38675,
+   "r": 38684,
    "len": 0,
    "sha": "da39a3ee5e6b4b0d",
    "after": "<div class=\"indent\">\n\n"
   },
   {
-   "r": 38809,
+   "r": 38818,
    "len": 4,
    "sha": "82f4fb72c5b57add",
    "after": "<ul>\n\n"
   },
   {
-   "u": 38817,
+   "u": 38826,
    "len": 54,
    "sha": "4c5bbfdfc6832a28",
    "items": [
@@ -24271,7 +24271,7 @@
    ]
   },
   {
-   "u": 38875,
+   "u": 38884,
    "len": 55,
    "sha": "26bba4426753f22a",
    "items": [
@@ -24375,7 +24375,7 @@
    ]
   },
   {
-   "u": 38934,
+   "u": 38943,
    "len": 75,
    "sha": "75ebe3defd810321",
    "items": [
@@ -24456,7 +24456,7 @@
    ]
   },
   {
-   "u": 39012,
+   "u": 39021,
    "len": 362,
    "sha": "7dc22e4df06e931c",
    "items": [
@@ -25006,13 +25006,13 @@
    ]
   },
   {
-   "r": 39552,
+   "r": 39561,
    "len": 0,
    "sha": "da39a3ee5e6b4b0d",
    "after": "<div class=\"indent\">\n\n"
   },
   {
-   "u": 39556,
+   "u": 39565,
    "len": 127,
    "sha": "139cd9e2f36c525d",
    "items": [
@@ -25147,25 +25147,25 @@
    ]
   },
   {
-   "r": 39689,
+   "r": 39698,
    "len": 4,
    "sha": "82f4fb72c5b57add",
    "after": "<ul>\n\n"
   },
   {
-   "r": 39733,
+   "r": 39742,
    "len": 5,
    "sha": "0683d9779d8c72e8",
    "after": "</li>\n\n"
   },
   {
-   "r": 39753,
+   "r": 39762,
    "len": 12,
    "sha": "124b16377799b0dd",
    "after": "</li>\n</ul>\n</div>\n\n"
   },
   {
-   "u": 39768,
+   "u": 39777,
    "len": 318,
    "sha": "e6e0ac3c4a041559",
    "items": [
@@ -25580,15 +25580,15 @@
    ]
   },
   {
-   "r": 40138,
+   "r": 40147,
    "len": 0,
    "sha": "da39a3ee5e6b4b0d",
    "after": "<div class=\"indent\">\n\n"
   },
   {
-   "u": 40142,
-   "len": 1763,
-   "sha": "958b389ba439e549",
+   "u": 40151,
+   "len": 1764,
+   "sha": "0cdda312306cbce7",
    "items": [
     [
      "mk",
@@ -27717,13 +27717,13 @@
    ]
   },
   {
-   "r": 42566,
+   "r": 42576,
    "len": 0,
    "sha": "da39a3ee5e6b4b0d",
    "after": "<div class=\"indent\">\n\n"
   },
   {
-   "u": 42622,
+   "u": 42632,
    "len": 51,
    "sha": "541c000efd0bc30d",
    "items": [
@@ -27755,7 +27755,7 @@
    ]
   },
   {
-   "u": 42991,
+   "u": 43001,
    "len": 667,
    "sha": "be4691298ef840bb",
    "items": [
@@ -28724,13 +28724,13 @@
    ]
   },
   {
-   "r": 43993,
+   "r": 44003,
    "len": 0,
    "sha": "da39a3ee5e6b4b0d",
    "after": "<div class=\"indent\">\n\n"
   },
   {
-   "u": 43997,
+   "u": 44007,
    "len": 284,
    "sha": "51b4f86847065327",
    "items": [
@@ -29086,25 +29086,25 @@
    ]
   },
   {
-   "r": 44345,
+   "r": 44355,
    "len": 242,
    "sha": "48dd77b761a49c52",
    "after": "<div class=\"figure center\">\n<img alt=\"Basic Four Worlds except w2 is highlighted and a double headed arrow connects w2 and w1 and another double headed arrow connects w3 and w4. Each world also has an arrow that loops back to the same world.\" src=\"fig9.svg\" class=\"nocaption\" style=\"width:100%\" />\n</div>\n\n"
   },
   {
-   "r": 44681,
+   "r": 44691,
    "len": 652,
    "sha": "8bcefccb955e7641",
    "after": "<div class=\"figure center\">\n<img alt=\"Basic Four Worlds except w3 (instead of w2) is highlighted and a double headed arrow connects w2 and w1 and another double headed arrow connects w3 and w4. Each world also has an arrow that loops back to the same world. In addition w2 has the pair: p, q instead of p, not q.\" src=\"fig10.svg\" class=\"nocaption\" style=\"width:100%\" />\n<img alt=\"Basic Four Worlds except w4 (instead of w2 or w3) is highlighted and a double headed arrow connects w2 and w1 and another double headed arrow connects w3 and w4. Each world also has an arrow that loops back to the same world. In addition w1 has the pair: not p, not q; w2, w3, and w4 each has the pair: p, q\" src=\"fig11.svg\" class=\"nocaption\" style=\"width:100%\" />\n</div>\n\n"
   },
   {
-   "r": 45468,
+   "r": 45478,
    "len": 0,
    "sha": "da39a3ee5e6b4b0d",
    "after": "<div class=\"indent\">\n\n"
   },
   {
-   "u": 45472,
+   "u": 45482,
    "len": 477,
    "sha": "5c3310c025d5ec31",
    "items": [
@@ -29647,9 +29647,9 @@
    ]
   },
   {
-   "u": 45952,
-   "len": 1306,
-   "sha": "2b70c7e3bc330afd",
+   "u": 45962,
+   "len": 1307,
+   "sha": "7185282fe22e64fd",
    "items": [
     [
      "mk",
@@ -31073,7 +31073,7 @@
    ]
   },
   {
-   "u": 47825,
+   "u": 47836,
    "len": 2362,
    "sha": "c1d49b0a54ba53bd",
    "items": [
@@ -34045,31 +34045,31 @@
    ]
   },
   {
-   "r": 50408,
+   "r": 50419,
    "len": 4,
    "sha": "96c69ae77e540547",
    "after": "<ol>\n\n"
   },
   {
-   "r": 50500,
+   "r": 50511,
    "len": 5,
    "sha": "0683d9779d8c72e8",
    "after": "</li>\n\n"
   },
   {
-   "r": 50555,
+   "r": 50566,
    "len": 5,
    "sha": "0683d9779d8c72e8",
    "after": "</li>\n\n"
   },
   {
-   "r": 50706,
+   "r": 50717,
    "len": 5,
    "sha": "0683d9779d8c72e8",
    "after": "</li>\n\n"
   },
   {
-   "u": 50715,
+   "u": 50726,
    "len": 155,
    "sha": "db348772cac1192a",
    "items": [
@@ -34216,7 +34216,7 @@
    ]
   },
   {
-   "u": 50873,
+   "u": 50884,
    "len": 366,
    "sha": "ebd9f0b42734e2f2",
    "items": [
@@ -34740,7 +34740,7 @@
    ]
   },
   {
-   "u": 51248,
+   "u": 51259,
    "len": 335,
    "sha": "7e150524a400dba4",
    "items": [
@@ -35186,7 +35186,7 @@
    ]
   },
   {
-   "u": 51592,
+   "u": 51603,
    "len": 286,
    "sha": "d52ae60d7e6b6a5b",
    "items": [
@@ -35529,43 +35529,43 @@
    ]
   },
   {
-   "r": 51884,
+   "r": 51895,
    "len": 0,
    "sha": "da39a3ee5e6b4b0d",
    "after": "<div class=\"indent\">\n\n"
   },
   {
-   "r": 52028,
+   "r": 52039,
    "len": 6,
    "sha": "56a5823876f66417",
    "after": "</p>\n</div>\n\n"
   },
   {
-   "r": 52154,
+   "r": 52165,
    "len": 0,
    "sha": "da39a3ee5e6b4b0d",
    "after": "<div class=\"indent\">\n\n"
   },
   {
-   "r": 52356,
+   "r": 52367,
    "len": 6,
    "sha": "56a5823876f66417",
    "after": "</p>\n</div>\n\n"
   },
   {
-   "r": 53599,
+   "r": 53610,
    "len": 0,
    "sha": "da39a3ee5e6b4b0d",
    "after": "<div class=\"indent\">\n\n"
   },
   {
-   "r": 53670,
+   "r": 53681,
    "len": 4,
    "sha": "82f4fb72c5b57add",
    "after": "<ul>\n\n"
   },
   {
-   "u": 53678,
+   "u": 53689,
    "len": 54,
    "sha": "2a5e1619c115ddef",
    "items": [
@@ -35670,7 +35670,7 @@
    ]
   },
   {
-   "u": 53736,
+   "u": 53747,
    "len": 82,
    "sha": "30eba055f075117b",
    "items": [
@@ -35814,7 +35814,7 @@
    ]
   },
   {
-   "u": 53822,
+   "u": 53833,
    "len": 82,
    "sha": "6d91939e6f82c1bf",
    "items": [
@@ -35958,7 +35958,7 @@
    ]
   },
   {
-   "u": 53908,
+   "u": 53919,
    "len": 90,
    "sha": "ce4f5866f73deb5b",
    "items": [
@@ -36118,7 +36118,7 @@
    ]
   },
   {
-   "u": 54001,
+   "u": 54012,
    "len": 360,
    "sha": "0049eac81e8ee88e",
    "items": [
@@ -36707,7 +36707,7 @@
    ]
   },
   {
-   "u": 54734,
+   "u": 54745,
    "len": 610,
    "sha": "50900776b0c9609d",
    "items": [
@@ -37485,7 +37485,7 @@
    ]
   },
   {
-   "u": 55353,
+   "u": 55364,
    "len": 170,
    "sha": "ac6d5bae83333bfc",
    "items": [
@@ -37743,25 +37743,25 @@
    ]
   },
   {
-   "r": 55529,
+   "r": 55540,
    "len": 0,
    "sha": "da39a3ee5e6b4b0d",
    "after": "<!--pdf include  <div class=\"pagebreak\">\n</div> pdf include-->\n\n<div class=\"figure\">\n\n"
   },
   {
-   "r": 55579,
+   "r": 55590,
    "len": 4,
    "sha": "a845c297571480ce",
    "after": "<tbody>\n<tr>\n  "
   },
   {
-   "r": 55588,
+   "r": 55599,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n \n"
   },
   {
-   "u": 55597,
+   "u": 55608,
    "len": 114,
    "sha": "4446b045ea356ce0",
    "items": [
@@ -37833,19 +37833,19 @@
    ]
   },
   {
-   "r": 55717,
+   "r": 55728,
    "len": 4,
    "sha": "a845c297571480ce",
    "after": "<tr>\n  "
   },
   {
-   "r": 55726,
+   "r": 55737,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "u": 55735,
+   "u": 55746,
    "len": 90,
    "sha": "fc3c190ab248f044",
    "items": [
@@ -37909,19 +37909,19 @@
    ]
   },
   {
-   "r": 55831,
+   "r": 55842,
    "len": 4,
    "sha": "a845c297571480ce",
    "after": "<tr>\n  "
   },
   {
-   "r": 55840,
+   "r": 55851,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "u": 55849,
+   "u": 55860,
    "len": 69,
    "sha": "4f43dd2ef7d12733",
    "items": [
@@ -37976,19 +37976,19 @@
    ]
   },
   {
-   "r": 55924,
+   "r": 55935,
    "len": 4,
    "sha": "a845c297571480ce",
    "after": "<tr>\n  "
   },
   {
-   "r": 55933,
+   "r": 55944,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "u": 55942,
+   "u": 55953,
    "len": 127,
    "sha": "0cb6efcdcca042f9",
    "items": [
@@ -38097,19 +38097,19 @@
    ]
   },
   {
-   "r": 56075,
+   "r": 56086,
    "len": 4,
    "sha": "a845c297571480ce",
    "after": "<tr>\n  "
   },
   {
-   "r": 56084,
+   "r": 56095,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "u": 56093,
+   "u": 56104,
    "len": 114,
    "sha": "55d95b99b384634d",
    "items": [
@@ -38200,19 +38200,19 @@
    ]
   },
   {
-   "r": 56213,
+   "r": 56224,
    "len": 4,
    "sha": "a845c297571480ce",
    "after": "<tr>\n  "
   },
   {
-   "r": 56222,
+   "r": 56233,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "u": 56231,
+   "u": 56242,
    "len": 144,
    "sha": "22e4b9bb9dc436ac",
    "items": [
@@ -38339,19 +38339,19 @@
    ]
   },
   {
-   "r": 56381,
+   "r": 56392,
    "len": 4,
    "sha": "a845c297571480ce",
    "after": "<tr>\n  "
   },
   {
-   "r": 56391,
+   "r": 56402,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "u": 56400,
+   "u": 56411,
    "len": 176,
    "sha": "640af38922c2cfb3",
    "items": [
@@ -38487,19 +38487,19 @@
    ]
   },
   {
-   "r": 56582,
+   "r": 56593,
    "len": 4,
    "sha": "a845c297571480ce",
    "after": "<tr>\n  "
   },
   {
-   "r": 56592,
+   "r": 56603,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n \n"
   },
   {
-   "u": 56601,
+   "u": 56612,
    "len": 329,
    "sha": "df6fbfc652dd689e",
    "items": [
@@ -38662,19 +38662,19 @@
    ]
   },
   {
-   "r": 56936,
+   "r": 56947,
    "len": 4,
    "sha": "a845c297571480ce",
    "after": "<tr>\n  "
   },
   {
-   "r": 56948,
+   "r": 56959,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n \n"
   },
   {
-   "u": 56957,
+   "u": 56968,
    "len": 196,
    "sha": "cc91de73eadc9a63",
    "items": [
@@ -38810,19 +38810,19 @@
    ]
   },
   {
-   "r": 57159,
+   "r": 57170,
    "len": 4,
    "sha": "a845c297571480ce",
    "after": "<tr>\n  "
   },
   {
-   "r": 57169,
+   "r": 57180,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "u": 57178,
+   "u": 57189,
    "len": 194,
    "sha": "dfe641ae317dd9c2",
    "items": [
@@ -39038,7 +39038,7 @@
    ]
   },
   {
-   "u": 57391,
+   "u": 57402,
    "len": 76,
    "sha": "10289ebb7f984605",
    "items": [
@@ -39145,195 +39145,195 @@
    ]
   },
   {
-   "r": 57622,
+   "r": 57633,
    "len": 0,
    "sha": "da39a3ee5e6b4b0d",
    "after": "<div class=\"figure\">\n\n"
   },
   {
-   "r": 57669,
+   "r": 57680,
    "len": 4,
    "sha": "a845c297571480ce",
    "after": "<tbody>\n<tr>\n  "
   },
   {
-   "r": 57695,
+   "r": 57706,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
-  },
-  {
-   "r": 57720,
-   "len": 5,
-   "sha": "6ff2f48c157b7468",
-   "after": "</td> "
   },
   {
    "r": 57731,
+   "len": 5,
+   "sha": "6ff2f48c157b7468",
+   "after": "</td> "
+  },
+  {
+   "r": 57742,
    "len": 4,
    "sha": "a845c297571480ce",
    "after": "<tr>\n  "
   },
   {
-   "r": 57757,
+   "r": 57768,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
-  },
-  {
-   "r": 57791,
-   "len": 5,
-   "sha": "6ff2f48c157b7468",
-   "after": "</td> "
   },
   {
    "r": 57802,
+   "len": 5,
+   "sha": "6ff2f48c157b7468",
+   "after": "</td> "
+  },
+  {
+   "r": 57813,
    "len": 4,
    "sha": "a845c297571480ce",
    "after": "<tr>\n  "
   },
   {
-   "r": 57828,
+   "r": 57839,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
-  },
-  {
-   "r": 57862,
-   "len": 5,
-   "sha": "6ff2f48c157b7468",
-   "after": "</td> "
   },
   {
    "r": 57873,
+   "len": 5,
+   "sha": "6ff2f48c157b7468",
+   "after": "</td> "
+  },
+  {
+   "r": 57884,
    "len": 4,
    "sha": "a845c297571480ce",
    "after": "<tr>\n  "
   },
   {
-   "r": 57901,
+   "r": 57912,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
-  },
-  {
-   "r": 57944,
-   "len": 5,
-   "sha": "6ff2f48c157b7468",
-   "after": "</td> "
   },
   {
    "r": 57955,
+   "len": 5,
+   "sha": "6ff2f48c157b7468",
+   "after": "</td> "
+  },
+  {
+   "r": 57966,
    "len": 4,
    "sha": "a845c297571480ce",
    "after": "<tr>\n  "
   },
   {
-   "r": 57984,
+   "r": 57995,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
-  },
-  {
-   "r": 58036,
-   "len": 5,
-   "sha": "6ff2f48c157b7468",
-   "after": "</td> "
   },
   {
    "r": 58047,
+   "len": 5,
+   "sha": "6ff2f48c157b7468",
+   "after": "</td> "
+  },
+  {
+   "r": 58058,
    "len": 4,
    "sha": "a845c297571480ce",
    "after": "<tr>\n  "
   },
   {
-   "r": 58074,
+   "r": 58085,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
-  },
-  {
-   "r": 58117,
-   "len": 5,
-   "sha": "6ff2f48c157b7468",
-   "after": "</td> "
   },
   {
    "r": 58128,
+   "len": 5,
+   "sha": "6ff2f48c157b7468",
+   "after": "</td> "
+  },
+  {
+   "r": 58139,
    "len": 4,
    "sha": "a845c297571480ce",
    "after": "<tr>\n  "
   },
   {
-   "r": 58157,
+   "r": 58168,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
-  },
-  {
-   "r": 58210,
-   "len": 5,
-   "sha": "6ff2f48c157b7468",
-   "after": "</td> "
   },
   {
    "r": 58221,
+   "len": 5,
+   "sha": "6ff2f48c157b7468",
+   "after": "</td> "
+  },
+  {
+   "r": 58232,
    "len": 4,
    "sha": "a845c297571480ce",
    "after": "<tr>\n  "
   },
   {
-   "r": 58250,
+   "r": 58261,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
-  },
-  {
-   "r": 58303,
-   "len": 5,
-   "sha": "6ff2f48c157b7468",
-   "after": "</td> "
   },
   {
    "r": 58314,
-   "len": 4,
-   "sha": "a845c297571480ce",
-   "after": "<tr>\n  "
-  },
-  {
-   "r": 58343,
-   "len": 5,
-   "sha": "6ff2f48c157b7468",
-   "after": "</td>\n  "
-  },
-  {
-   "r": 58396,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td> "
   },
   {
-   "r": 58407,
+   "r": 58325,
    "len": 4,
    "sha": "a845c297571480ce",
    "after": "<tr>\n  "
   },
   {
-   "r": 58434,
+   "r": 58354,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 58477,
+   "r": 58407,
+   "len": 5,
+   "sha": "6ff2f48c157b7468",
+   "after": "</td> "
+  },
+  {
+   "r": 58418,
+   "len": 4,
+   "sha": "a845c297571480ce",
+   "after": "<tr>\n  "
+  },
+  {
+   "r": 58445,
+   "len": 5,
+   "sha": "6ff2f48c157b7468",
+   "after": "</td>\n  "
+  },
+  {
+   "r": 58488,
    "len": 11,
    "sha": "6703e39657e18300",
    "after": "</td> </tr> "
   },
   {
-   "u": 58507,
-   "len": 2884,
-   "sha": "f4c598d895b25130",
+   "u": 58518,
+   "len": 2886,
+   "sha": "d218b786b1df55a2",
    "items": [
     [
      "mk",
@@ -42851,7 +42851,7 @@
    ]
   },
   {
-   "u": 61697,
+   "u": 61710,
    "len": 127,
    "sha": "76350549404e9f87",
    "items": [
@@ -42947,13 +42947,13 @@
    ]
   },
   {
-   "r": 61981,
+   "r": 61994,
    "len": 0,
    "sha": "da39a3ee5e6b4b0d",
    "after": "<div class=\"indent\">\n\n"
   },
   {
-   "u": 61985,
+   "u": 61998,
    "len": 149,
    "sha": "af5cad22205ebed5",
    "items": [
@@ -43088,13 +43088,13 @@
    ]
   },
   {
-   "r": 62140,
+   "r": 62153,
    "len": 4,
    "sha": "82f4fb72c5b57add",
    "after": "<ul>\n\n"
   },
   {
-   "u": 62148,
+   "u": 62161,
    "len": 54,
    "sha": "4c5bbfdfc6832a28",
    "items": [
@@ -43185,7 +43185,7 @@
    ]
   },
   {
-   "u": 62206,
+   "u": 62219,
    "len": 66,
    "sha": "2b98a4a3e291e531",
    "items": [
@@ -43290,7 +43290,7 @@
    ]
   },
   {
-   "u": 62276,
+   "u": 62289,
    "len": 71,
    "sha": "6547893254a807e0",
    "items": [
@@ -43355,31 +43355,31 @@
    ]
   },
   {
-   "r": 62362,
+   "r": 62375,
    "len": 12,
    "sha": "124b16377799b0dd",
    "after": "</li>\n</ul>\n</div>\n\n"
   },
   {
-   "r": 62839,
+   "r": 62852,
    "len": 326,
    "sha": "30b9fa6790f91999",
    "after": "<div class=\"figure center\">\n<img alt=\"Four boxes labeled w1 (containing 'p'), w2 (containing 'not p'), w3 (containing 'p') and w4 (containing 'not p'). w1 is highlighted and an arrow, labeled 'K', goes from it to w2. w2 has arrows, each labeled 'B', pointing to w3 and w4. w3 has an arrow, labeled 'K,B', looping back to it.\" src=\"fig12.svg\" class=\"nocaption\" style=\"width:90%\" />\n</div>\n\n"
   },
   {
-   "r": 63276,
+   "r": 63289,
    "len": 0,
    "sha": "da39a3ee5e6b4b0d",
    "after": "<div class=\"indent\">\n\n"
   },
   {
-   "r": 63490,
+   "r": 63503,
    "len": 6,
    "sha": "56a5823876f66417",
    "after": "</p>\n</div>\n\n"
   },
   {
-   "u": 64128,
+   "u": 64141,
    "len": 672,
    "sha": "1edf230e6a1982b3",
    "items": [
@@ -44271,7 +44271,7 @@
    ]
   },
   {
-   "u": 65873,
+   "u": 65886,
    "len": 1182,
    "sha": "f3fc28d4d306c72e",
    "items": [
@@ -45705,7 +45705,7 @@
    ]
   },
   {
-   "u": 67344,
+   "u": 67357,
    "len": 921,
    "sha": "e6c256ba8ae6894c",
    "items": [
@@ -46834,7 +46834,7 @@
    ]
   },
   {
-   "u": 69007,
+   "u": 69020,
    "len": 628,
    "sha": "0769de43a8879366",
    "items": [
@@ -47671,7 +47671,7 @@
    ]
   },
   {
-   "u": 69835,
+   "u": 69848,
    "len": 227,
    "sha": "c01a6d5d8a663781",
    "items": [
@@ -47848,7 +47848,7 @@
    ]
   },
   {
-   "u": 70913,
+   "u": 70926,
    "len": 61,
    "sha": "254274b4a43929e3",
    "items": [
@@ -47881,7 +47881,7 @@
    ]
   },
   {
-   "u": 71153,
+   "u": 71166,
    "len": 260,
    "sha": "ffb76f874c7275e6",
    "items": [
@@ -48165,7 +48165,7 @@
    ]
   },
   {
-   "u": 71518,
+   "u": 71531,
    "len": 615,
    "sha": "9f58b3aa56fdc560",
    "items": [
@@ -49058,7 +49058,7 @@
    ]
   },
   {
-   "u": 72641,
+   "u": 72654,
    "len": 264,
    "sha": "17ccea5a07682845",
    "items": [
@@ -49438,21 +49438,21 @@
    ]
   },
   {
-   "r": 73250,
+   "r": 73263,
    "len": 0,
    "sha": "da39a3ee5e6b4b0d",
    "after": "<div class=\"indent\">\n\n"
   },
   {
-   "r": 73381,
+   "r": 73394,
    "len": 6,
    "sha": "56a5823876f66417",
    "after": "</p>\n</div>\n\n"
   },
   {
-   "u": 73840,
-   "len": 764,
-   "sha": "376a9f6920dcba44",
+   "u": 73853,
+   "len": 765,
+   "sha": "734d5a966f3fe515",
    "items": [
     [
      "mk",
@@ -50573,7 +50573,7 @@
    ]
   },
   {
-   "u": 74607,
+   "u": 74621,
    "len": 1437,
    "sha": "f0cf137faa994c0f",
    "items": [
@@ -52698,7 +52698,7 @@
    ]
   },
   {
-   "u": 76122,
+   "u": 76136,
    "len": 635,
    "sha": "6d22d3d91abd8045",
    "items": [
@@ -53377,7 +53377,7 @@
    ]
   },
   {
-   "u": 76761,
+   "u": 76775,
    "len": 54,
    "sha": "4c5bbfdfc6832a28",
    "items": [
@@ -53468,7 +53468,7 @@
    ]
   },
   {
-   "u": 76819,
+   "u": 76833,
    "len": 81,
    "sha": "04a25d922b8e60e1",
    "items": [
@@ -53582,7 +53582,7 @@
    ]
   },
   {
-   "u": 76904,
+   "u": 76918,
    "len": 71,
    "sha": "6547893254a807e0",
    "items": [
@@ -53647,13 +53647,13 @@
    ]
   },
   {
-   "r": 76990,
+   "r": 77004,
    "len": 12,
    "sha": "124b16377799b0dd",
    "after": "</li>\n</ul>\n</div>\n\n"
   },
   {
-   "u": 77167,
+   "u": 77181,
    "len": 417,
    "sha": "38167d374c140195",
    "items": [
@@ -54113,7 +54113,7 @@
    ]
   },
   {
-   "u": 77593,
+   "u": 77607,
    "len": 653,
    "sha": "c53f4631f17918d7",
    "items": [
@@ -54987,13 +54987,13 @@
    ]
   },
   {
-   "r": 78252,
+   "r": 78266,
    "len": 325,
    "sha": "8f49f39852b7c196",
    "after": "<div class=\"figure center\">\n<img alt=\"Three boxes labeled w1 (containing 'p'), w2 (containing 'p'), and w3 (containing 'not p'). Each box has an arrow labeled 'a,b' looping back to it. w1 is highlighted and is connected to w2 by a double headed arrow labeled 'b'. w2 is connected to w3 by a double headed arrow labeled 'a'.\" src=\"fig13.svg\" class=\"nocaption\" style=\"width:90%\" />\n</div>\n\n"
   },
   {
-   "u": 78580,
+   "u": 78594,
    "len": 302,
    "sha": "dabfe0460be6b04e",
    "items": [
@@ -55469,7 +55469,7 @@
    ]
   },
   {
-   "u": 79468,
+   "u": 79482,
    "len": 274,
    "sha": "e82f481805891a3b",
    "items": [
@@ -55788,7 +55788,7 @@
    ]
   },
   {
-   "u": 80063,
+   "u": 80077,
    "len": 51,
    "sha": "651cb1313b55cbbc",
    "items": [
@@ -55821,7 +55821,7 @@
    ]
   },
   {
-   "u": 80281,
+   "u": 80295,
    "len": 909,
    "sha": "af45721bca48eaec",
    "items": [
@@ -56796,7 +56796,7 @@
    ]
   },
   {
-   "u": 81745,
+   "u": 81759,
    "len": 371,
    "sha": "1cf2586dc03e06d7",
    "items": [
@@ -57225,7 +57225,7 @@
    ]
   },
   {
-   "u": 82213,
+   "u": 82227,
    "len": 1228,
    "sha": "93a29d51a1dc978e",
    "items": [
@@ -58889,7 +58889,7 @@
    ]
   },
   {
-   "u": 83558,
+   "u": 83572,
    "len": 59,
    "sha": "26f4bf6516ab445f",
    "items": [
@@ -58931,9 +58931,9 @@
    ]
   },
   {
-   "u": 83714,
-   "len": 697,
-   "sha": "ee487c66c10a72b8",
+   "u": 83728,
+   "len": 698,
+   "sha": "c4047f28b1e073b2",
    "items": [
     [
      "mk",
@@ -59725,7 +59725,7 @@
    ]
   },
   {
-   "u": 84743,
+   "u": 84758,
    "len": 247,
    "sha": "e3b921654d97b09c",
    "items": [
@@ -60162,7 +60162,7 @@
    ]
   },
   {
-   "u": 85000,
+   "u": 85015,
    "len": 1482,
    "sha": "9b147bf3a1a0022f",
    "items": [
@@ -62191,7 +62191,7 @@
    ]
   },
   {
-   "u": 86491,
+   "u": 86506,
    "len": 1604,
    "sha": "4bc9a131a9711ee9",
    "items": [
@@ -64188,7 +64188,7 @@
    ]
   },
   {
-   "u": 88874,
+   "u": 88889,
    "len": 766,
    "sha": "3b216338f4e2d7ea",
    "items": [
@@ -65192,7 +65192,7 @@
    ]
   },
   {
-   "u": 89649,
+   "u": 89664,
    "len": 1264,
    "sha": "ffba3f19895addc3",
    "items": [
@@ -66898,7 +66898,7 @@
    ]
   },
   {
-   "u": 91678,
+   "u": 91693,
    "len": 1031,
    "sha": "904836034b302a17",
    "items": [
@@ -68419,7 +68419,7 @@
    ]
   },
   {
-   "u": 92989,
+   "u": 93004,
    "len": 105,
    "sha": "1ac9c23be4295621",
    "items": [
@@ -68470,25 +68470,25 @@
    ]
   },
   {
-   "r": 93785,
+   "r": 93800,
    "len": 4,
    "sha": "a845c297571480ce",
    "after": "<tbody>\n<tr>\n  "
   },
   {
-   "r": 93830,
+   "r": 93845,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 93847,
+   "r": 93862,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "u": 93856,
+   "u": 93871,
    "len": 243,
    "sha": "2b2415c2e0a44249",
    "items": [
@@ -68879,7 +68879,7 @@
    ]
   },
   {
-   "u": 94450,
+   "u": 94465,
    "len": 888,
    "sha": "9068cdc6b52f9285",
    "items": [
@@ -70227,13 +70227,13 @@
    ]
   },
   {
-   "r": 95344,
+   "r": 95359,
    "len": 393,
    "sha": "e43bcb87cbd86798",
    "after": "<div class=\"figure nocaption\">\n<img alt=\"In the model, the dotted lines represent the epistemic relations labeled by agents, and the solid lines represent the action transitions labeled by actions. E.g., on w3 performing action b will result in w5, while performing action c will result in w6. The self-loops are omitted for epistemic relations, e.g., on w3, Doctor 2 only consider w3 possible.\" src=\"fig14.svg\" class=\"nocaption\" style=\"width:75%\" />\n</div>\n\n"
   },
   {
-   "u": 96113,
+   "u": 96128,
    "len": 424,
    "sha": "993c7fea2c43a303",
    "items": [
@@ -70850,91 +70850,91 @@
    ]
   },
   {
-   "r": 96580,
+   "r": 96595,
    "len": 4,
    "sha": "a845c297571480ce",
    "after": "<tbody>\n<tr>\n  "
   },
   {
-   "r": 96604,
+   "r": 96619,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 96635,
+   "r": 96650,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 96660,
+   "r": 96675,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 96698,
+   "r": 96713,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td> "
   },
   {
-   "r": 96709,
+   "r": 96724,
    "len": 4,
    "sha": "a845c297571480ce",
    "after": "<tr>\n  "
   },
   {
-   "r": 96733,
+   "r": 96748,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 96770,
+   "r": 96785,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 96796,
+   "r": 96811,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 96837,
+   "r": 96852,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td> "
   },
   {
-   "r": 96848,
+   "r": 96863,
    "len": 4,
    "sha": "a845c297571480ce",
    "after": "<tr>\n  "
   },
   {
-   "r": 96874,
+   "r": 96889,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 96903,
+   "r": 96918,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "r": 96931,
+   "r": 96946,
    "len": 5,
    "sha": "6ff2f48c157b7468",
    "after": "</td>\n  "
   },
   {
-   "u": 96940,
+   "u": 96955,
    "len": 72,
    "sha": "defd8d80577a0043",
    "items": [
@@ -70971,13 +70971,13 @@
    ]
   },
   {
-   "r": 97021,
+   "r": 97036,
    "len": 10,
    "sha": "80d8dee1043e4afc",
    "after": "</table>\n</div>\n\n"
   },
   {
-   "u": 99350,
+   "u": 99365,
    "len": 1665,
    "sha": "070dbad7a86fc5e3",
    "items": [
@@ -73177,7 +73177,7 @@
    ]
   },
   {
-   "u": 102448,
+   "u": 102463,
    "len": 1005,
    "sha": "16784856c4069e12",
    "items": [
@@ -74432,9 +74432,9 @@
    ]
   },
   {
-   "u": 104539,
-   "len": 1870,
-   "sha": "690c897868fc7c21",
+   "u": 104554,
+   "len": 1871,
+   "sha": "5dbe971281af75ad",
    "items": [
     [
      "mk",
@@ -76878,13 +76878,13 @@
    ]
   },
   {
-   "r": 106927,
+   "r": 106943,
    "len": 0,
    "sha": "da39a3ee5e6b4b0d",
    "after": "<div class=\"indent\">\n\n"
   },
   {
-   "u": 106930,
+   "u": 106946,
    "len": 1010,
    "sha": "59c4798e46ca5fed",
    "items": [
@@ -78334,7 +78334,7 @@
    ]
   },
   {
-   "u": 107950,
+   "u": 107966,
    "len": 410,
    "sha": "8a3b34ad8a7a4ef4",
    "items": [
@@ -78899,13 +78899,13 @@
    ]
   },
   {
-   "r": 108589,
+   "r": 108605,
    "len": 12,
    "sha": "a24bac6256c8c43b",
    "after": "<blockquote>\n\n"
   },
   {
-   "u": 108604,
+   "u": 108620,
    "len": 374,
    "sha": "23b204531f15391d",
    "items": [
@@ -79445,7 +79445,7 @@
    ]
   },
   {
-   "u": 108996,
+   "u": 109012,
    "len": 1460,
    "sha": "9fe6caa5e310d52a",
    "items": [
@@ -81474,9 +81474,9 @@
    ]
   },
   {
-   "u": 110837,
-   "len": 1163,
-   "sha": "74f8894059689750",
+   "u": 110853,
+   "len": 1164,
+   "sha": "49612a2236353381",
    "items": [
     [
      "mk",
@@ -83013,7 +83013,7 @@
    ]
   },
   {
-   "u": 112836,
+   "u": 112853,
    "len": 1157,
    "sha": "a1d3682c9afac152",
    "items": [
@@ -84454,15 +84454,15 @@
    ]
   },
   {
-   "r": 114144,
+   "r": 114161,
    "len": 13,
    "sha": "f0f21d0059145d98",
    "after": "</p> <!--bib check so far -->\n\n"
   },
   {
-   "u": 114240,
-   "len": 248,
-   "sha": "00b275734003df93",
+   "u": 114257,
+   "len": 249,
+   "sha": "62f2b5727b84736d",
    "items": [
     [
      "tx",
@@ -84646,7 +84646,7 @@
    ]
   },
   {
-   "u": 114668,
+   "u": 114686,
    "len": 394,
    "sha": "f1072c68ae6c2f36",
    "items": [
@@ -85067,7 +85067,7 @@
    ]
   },
   {
-   "u": 115282,
+   "u": 115300,
    "len": 154,
    "sha": "29c88e6d528c5806",
    "items": [
@@ -85218,7 +85218,7 @@
    ]
   },
   {
-   "u": 115447,
+   "u": 115465,
    "len": 415,
    "sha": "f9cc1465e6d85858",
    "items": [
@@ -85621,7 +85621,7 @@
    ]
   },
   {
-   "u": 115873,
+   "u": 115891,
    "len": 259,
    "sha": "14b96fb1c400ccc0",
    "items": [
@@ -85853,9 +85853,9 @@
    ]
   },
   {
-   "u": 116143,
-   "len": 1785,
-   "sha": "a7ef51575f3e1b90",
+   "u": 116161,
+   "len": 1786,
+   "sha": "3954f09141a334bc",
    "items": [
     [
      "tx",
@@ -87646,7 +87646,7 @@
    ]
   },
   {
-   "u": 118187,
+   "u": 118206,
    "len": 149,
    "sha": "aed85941ab77d5b6",
    "items": [
@@ -87806,7 +87806,7 @@
    ]
   },
   {
-   "u": 118347,
+   "u": 118366,
    "len": 128,
    "sha": "50004f75c20803d0",
    "items": [
@@ -87975,7 +87975,7 @@
    ]
   },
   {
-   "u": 118920,
+   "u": 118939,
    "len": 143,
    "sha": "a251c3742f7b9d13",
    "items": [
@@ -88126,9 +88126,9 @@
    ]
   },
   {
-   "u": 119074,
-   "len": 399,
-   "sha": "c39ae5707a05bf3e",
+   "u": 119093,
+   "len": 400,
+   "sha": "e51d97751e0277b7",
    "items": [
     [
      "tx",
@@ -88496,7 +88496,7 @@
    ]
   },
   {
-   "u": 119584,
+   "u": 119604,
    "len": 202,
    "sha": "b50c0d4388ff347b",
    "items": [
@@ -88701,7 +88701,7 @@
    ]
   },
   {
-   "u": 120486,
+   "u": 120506,
    "len": 226,
    "sha": "5eedf85d1164ab36",
    "items": [
@@ -88964,7 +88964,7 @@
    ]
   },
   {
-   "u": 120723,
+   "u": 120743,
    "len": 172,
    "sha": "5f5a04334092f8aa",
    "items": [
@@ -89115,7 +89115,7 @@
    ]
   },
   {
-   "u": 121075,
+   "u": 121095,
    "len": 161,
    "sha": "9298086285d55073",
    "items": [
@@ -89293,7 +89293,7 @@
    ]
   },
   {
-   "u": 122049,
+   "u": 122069,
    "len": 185,
    "sha": "537a7380a520b938",
    "items": [
@@ -89462,7 +89462,7 @@
    ]
   },
   {
-   "u": 122757,
+   "u": 122777,
    "len": 189,
    "sha": "dfc203c21082e4bc",
    "items": [
@@ -89667,7 +89667,7 @@
    ]
   },
   {
-   "u": 122957,
+   "u": 122977,
    "len": 287,
    "sha": "52ad4fc0293161c8",
    "items": [
@@ -89957,7 +89957,7 @@
    ]
   },
   {
-   "u": 123255,
+   "u": 123275,
    "len": 128,
    "sha": "9904de4cb6950f2c",
    "items": [
@@ -90063,7 +90063,7 @@
    ]
   },
   {
-   "u": 123871,
+   "u": 123891,
    "len": 186,
    "sha": "1967d6bd9cb47829",
    "items": [
@@ -90236,7 +90236,7 @@
    ]
   },
   {
-   "u": 124068,
+   "u": 124088,
    "len": 204,
    "sha": "24a003563420fa3c",
    "items": [
@@ -90450,9 +90450,9 @@
    ]
   },
   {
-   "u": 124283,
-   "len": 416,
-   "sha": "e19a3fc4f86a306f",
+   "u": 124303,
+   "len": 417,
+   "sha": "a8eff6fc3af93c30",
    "items": [
     [
      "tx",
@@ -90852,7 +90852,7 @@
    ]
   },
   {
-   "u": 124872,
+   "u": 124893,
    "len": 224,
    "sha": "68cac85c25da05ef",
    "items": [
@@ -91111,7 +91111,7 @@
    ]
   },
   {
-   "u": 125107,
+   "u": 125128,
    "len": 215,
    "sha": "67063b848a35f22b",
    "items": [
@@ -91298,7 +91298,7 @@
    ]
   },
   {
-   "u": 125333,
+   "u": 125354,
    "len": 292,
    "sha": "b08542b6e1e3137b",
    "items": [
@@ -91624,7 +91624,7 @@
    ]
   },
   {
-   "u": 125636,
+   "u": 125657,
    "len": 246,
    "sha": "963566f8c370eda5",
    "items": [
@@ -91887,7 +91887,7 @@
    ]
   },
   {
-   "u": 125893,
+   "u": 125914,
    "len": 141,
    "sha": "3ef450ac18e21236",
    "items": [
@@ -92020,7 +92020,7 @@
    ]
   },
   {
-   "u": 126249,
+   "u": 126270,
    "len": 203,
    "sha": "f112cd07aae42c09",
    "items": [
@@ -92207,7 +92207,7 @@
    ]
   },
   {
-   "u": 126463,
+   "u": 126484,
    "len": 206,
    "sha": "769e5485c2ec4e58",
    "items": [
@@ -92403,9 +92403,9 @@
    ]
   },
   {
-   "u": 126680,
-   "len": 413,
-   "sha": "fb7b8db6be6eb997",
+   "u": 126701,
+   "len": 414,
+   "sha": "f9e47fab5a129e0c",
    "items": [
     [
      "tx",
@@ -92800,7 +92800,7 @@
    ]
   },
   {
-   "u": 128149,
+   "u": 128171,
    "len": 263,
    "sha": "fc7abf9adc8b03f1",
    "items": [
@@ -93014,7 +93014,7 @@
    ]
   },
   {
-   "u": 128423,
+   "u": 128445,
    "len": 205,
    "sha": "5040281784c7fbe2",
    "items": [
@@ -93228,7 +93228,7 @@
    ]
   },
   {
-   "u": 128639,
+   "u": 128661,
    "len": 161,
    "sha": "fb3710bd2df2628a",
    "items": [
@@ -93397,7 +93397,7 @@
    ]
   },
   {
-   "u": 128811,
+   "u": 128833,
    "len": 235,
    "sha": "726861c688d08221",
    "items": [
@@ -93620,7 +93620,7 @@
    ]
   },
   {
-   "u": 129860,
+   "u": 129882,
    "len": 345,
    "sha": "4fe6d023c6e29de1",
    "items": [
@@ -93991,7 +93991,7 @@
    ]
   },
   {
-   "u": 130568,
+   "u": 130590,
    "len": 241,
    "sha": "0e158ebad5cc06c3",
    "items": [
@@ -94214,7 +94214,7 @@
    ]
   },
   {
-   "u": 130986,
+   "u": 131008,
    "len": 178,
    "sha": "59daa830bba15b88",
    "items": [
@@ -94374,7 +94374,7 @@
    ]
   },
   {
-   "u": 131175,
+   "u": 131197,
    "len": 169,
    "sha": "1a63105e76fd3595",
    "items": [
@@ -94543,7 +94543,7 @@
    ]
   },
   {
-   "u": 131486,
+   "u": 131508,
    "len": 275,
    "sha": "2c3ab96d629229c1",
    "items": [
@@ -94878,7 +94878,7 @@
    ]
   },
   {
-   "u": 131772,
+   "u": 131794,
    "len": 212,
    "sha": "252bbaf16841cbee",
    "items": [
@@ -95110,7 +95110,7 @@
    ]
   },
   {
-   "u": 131995,
+   "u": 132017,
    "len": 167,
    "sha": "94df28e47c91a811",
    "items": [
@@ -95297,7 +95297,7 @@
    ]
   },
   {
-   "u": 132173,
+   "u": 132195,
    "len": 255,
    "sha": "9b9fb6489c1b0387",
    "items": [
@@ -95551,7 +95551,7 @@
    ]
   },
   {
-   "u": 132439,
+   "u": 132461,
    "len": 142,
    "sha": "177d042d4f7ba21b",
    "items": [
@@ -95720,7 +95720,7 @@
    ]
   },
   {
-   "u": 132882,
+   "u": 132904,
    "len": 328,
    "sha": "e8e7143ef10d8b23",
    "items": [
@@ -96073,7 +96073,7 @@
    ]
   },
   {
-   "u": 133411,
+   "u": 133433,
    "len": 221,
    "sha": "e040540899aa0146",
    "items": [
@@ -96314,7 +96314,7 @@
    ]
   },
   {
-   "u": 133643,
+   "u": 133665,
    "len": 177,
    "sha": "8c9e9a11131e4861",
    "items": [
@@ -96528,9 +96528,9 @@
    ]
   },
   {
-   "u": 134042,
-   "len": 1700,
-   "sha": "4fae7fda4516fee3",
+   "u": 134064,
+   "len": 1702,
+   "sha": "e800af4b495e79e4",
    "items": [
     [
      "tx",
@@ -98174,7 +98174,7 @@
    ]
   },
   {
-   "u": 136102,
+   "u": 136126,
    "len": 255,
    "sha": "6cb6e29df72547a8",
    "items": [
@@ -98397,7 +98397,7 @@
    ]
   },
   {
-   "u": 137064,
+   "u": 137088,
    "len": 191,
    "sha": "8363fa14e2f3bb08",
    "items": [
@@ -98584,9 +98584,9 @@
    ]
   },
   {
-   "u": 137630,
-   "len": 1537,
-   "sha": "e1fc6093d073646c",
+   "u": 137654,
+   "len": 1538,
+   "sha": "e9c59c40bbd23fcc",
    "items": [
     [
      "tx",
@@ -100087,7 +100087,7 @@
    ]
   },
   {
-   "u": 139916,
+   "u": 139941,
    "len": 324,
    "sha": "e31272d188030470",
    "items": [
@@ -100404,7 +100404,7 @@
    ]
   },
   {
-   "u": 140444,
+   "u": 140469,
    "len": 175,
    "sha": "92adeeadbfcb3d06",
    "items": [
@@ -100605,7 +100605,7 @@
    ]
   },
   {
-   "u": 140630,
+   "u": 140655,
    "len": 219,
    "sha": "2eaa13ad5788b704",
    "items": [
@@ -100864,7 +100864,7 @@
    ]
   },
   {
-   "u": 141190,
+   "u": 141215,
    "len": 156,
    "sha": "3b31be51f167c780",
    "items": [
@@ -100988,9 +100988,9 @@
    ]
   },
   {
-   "u": 141551,
-   "len": 426,
-   "sha": "9809660652a3262d",
+   "u": 141576,
+   "len": 427,
+   "sha": "b21208eb7d33b82c",
    "items": [
     [
      "tx",
@@ -101403,7 +101403,7 @@
    ]
   },
   {
-   "u": 142222,
+   "u": 142248,
    "len": 126,
    "sha": "98ab2113bc80b083",
    "items": [
@@ -101527,7 +101527,7 @@
    ]
   },
   {
-   "u": 142832,
+   "u": 142858,
    "len": 352,
    "sha": "837d00e34e76f452",
    "items": [
@@ -101889,13 +101889,13 @@
    ]
   },
   {
-   "r": 143190,
+   "r": 143216,
    "len": 7,
    "sha": "88e550cf4af87b75",
    "after": "</ul>\n"
   },
   {
-   "u": 143385,
+   "u": 143411,
    "len": 150,
    "sha": "6d49390e9053316e",
    "items": [
@@ -101956,13 +101956,13 @@
    ]
   },
   {
-   "r": 143541,
+   "r": 143567,
    "len": 6,
    "sha": "cdde12a2071831e3",
    "after": "</tr>\n\n"
   },
   {
-   "u": 143628,
+   "u": 143654,
    "len": 260,
    "sha": "a5c46f66c5814d09",
    "items": [
@@ -102112,13 +102112,13 @@
    ]
   },
   {
-   "r": 143894,
+   "r": 143920,
    "len": 6,
    "sha": "cdde12a2071831e3",
    "after": "</tr>\n\n"
   },
   {
-   "u": 143973,
+   "u": 143999,
    "len": 220,
    "sha": "81e559a17488711d",
    "items": [
@@ -102273,13 +102273,13 @@
    ]
   },
   {
-   "r": 144199,
+   "r": 144225,
    "len": 6,
    "sha": "cdde12a2071831e3",
    "after": "</tr>\n\n"
   },
   {
-   "u": 144281,
+   "u": 144307,
    "len": 235,
    "sha": "b9c32030f0ae18fa",
    "items": [
@@ -102411,21 +102411,21 @@
    ]
   },
   {
-   "r": 144522,
+   "r": 144548,
    "len": 6,
    "sha": "cdde12a2071831e3",
    "after": "</tr>\n\n"
   },
   {
-   "r": 144640,
+   "r": 144666,
    "len": 4,
    "sha": "82f4fb72c5b57add",
    "after": "<ul>\n\n"
   },
   {
-   "u": 144648,
-   "len": 206,
-   "sha": "236c2c4fd860651d",
+   "u": 144674,
+   "len": 207,
+   "sha": "3dd3236ac6f04629",
    "items": [
     [
      "tx",
@@ -102596,9 +102596,9 @@
    ]
   },
   {
-   "u": 144858,
+   "u": 144885,
    "len": 202,
-   "sha": "33910b90df23e327",
+   "sha": "1e959fb6aedf67f1",
    "items": [
     [
      "mk",
@@ -102764,9 +102764,9 @@
    ]
   },
   {
-   "u": 145064,
+   "u": 145091,
    "len": 185,
-   "sha": "8b45c47c575a6645",
+   "sha": "db0bd0c431fd476a",
    "items": [
     [
      "mk",
@@ -102923,7 +102923,7 @@
    ]
   },
   {
-   "u": 145326,
+   "u": 145353,
    "len": 556,
    "sha": "40ef51e0018a503f",
    "items": [
@@ -103307,7 +103307,7 @@
    ]
   },
   {
-   "r": 145894,
+   "r": 145921,
    "len": 0,
    "sha": "da39a3ee5e6b4b0d",
    "after": "<script type=\"text/javascript\" src=\"local.js\"></script>\n<script type=\"text/javascript\" src=\"../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML\"></script>\n\n"

@@ -5,7 +5,7 @@
  "note": "格式层残差补丁：m=标记段、u=单元布局、r=纯布局区段；禁含散文",
  "stats": {
   "page_bytes": 68326,
-  "pool_bytes": 54104,
+  "pool_bytes": 53348,
   "n_patches": 114
  },
  "patches": [
@@ -67018,512 +67018,52 @@
    "after": "<ul>\n<!--LINK CHECKER COMMENTED OUT (Sun Feb 17 16:08:50 PST 2019)\n\n<li><a href=\"http://www.alanturing.net/\" target=\"other\">The Turing Archive for the History of Computing</a></li>\n\nLINK CHECKER-->\n\n"
   },
   {
-   "u": 62777,
-   "len": 92,
-   "sha": "d7109eb06d59fd73",
-   "items": [
-    [
-     "mk",
-     "<a href=\"http://www.turing.org.uk/turing/\" target=\"other\">"
-    ],
-    [
-     "tx",
-     0,
-     3
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     3,
-     4
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     7,
-     6
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     13,
-     4
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     17,
-     4
-    ],
-    [
-     "mk",
-     "</a>"
-    ],
-    [
-     "mk",
-     "</li>"
-    ],
-    [
-     "mk",
-     "\n\n"
-    ]
-   ]
+   "r": 62864,
+   "len": 5,
+   "sha": "0683d9779d8c72e8",
+   "after": "</li>\n\n"
   },
   {
-   "u": 62873,
-   "len": 93,
-   "sha": "00c495dbb6e32397",
-   "items": [
-    [
-     "mk",
-     "<a href=\"https://www.acms.org.au/\" target=\"other\">"
-    ],
-    [
-     "tx",
-     0,
-     10
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     10,
-     8
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     18,
-     6
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     24,
-     7
-    ],
-    [
-     "mk",
-     "</a>"
-    ],
-    [
-     "mk",
-     "</li>"
-    ],
-    [
-     "mk",
-     "\n\n"
-    ]
-   ]
+   "r": 62961,
+   "len": 5,
+   "sha": "0683d9779d8c72e8",
+   "after": "</li>\n\n"
   },
   {
-   "u": 62970,
-   "len": 92,
-   "sha": "45f452639315ea1f",
-   "items": [
-    [
-     "mk",
-     "<a href=\"https://bletchleypark.org.uk/\" target=\"other\">"
-    ],
-    [
-     "tx",
-     0,
-     3
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     3,
-     9
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     12,
-     4
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     16,
-     4
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     20,
-     4
-    ],
-    [
-     "mk",
-     "</a>"
-    ],
-    [
-     "mk",
-     "</li>"
-    ],
-    [
-     "mk",
-     "\n\n"
-    ]
-   ]
+   "r": 63057,
+   "len": 5,
+   "sha": "0683d9779d8c72e8",
+   "after": "</li>\n\n"
   },
   {
-   "u": 63066,
-   "len": 83,
-   "sha": "733e1333d7731bd8",
-   "items": [
-    [
-     "mk",
-     "<a href=\"http://www.cbi.umn.edu/\" target=\"other\">"
-    ],
-    [
-     "tx",
-     0,
-     7
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     7,
-     7
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     14,
-     9
-    ],
-    [
-     "mk",
-     "</a>"
-    ],
-    [
-     "mk",
-     "</li>"
-    ],
-    [
-     "mk",
-     "\n\n"
-    ],
-    [
-     "mk",
-     "<!--LINK CHECKER COMMENTED OUT (Sun Sep 17 11:46:54 PDT 2023)\n\n<li><a href=\"https://rd.host.cs.st-andrews.ac.uk/logic.html\" target=\"other\">Computational Logic Group at St. Andrews</a></li>\n\nLINK CHECKER-->"
-    ],
-    [
-     "mk",
-     "\n\n"
-    ],
-    [
-     "mk",
-     "<!--LINK CHECKER COMMENTED OUT (Fri Mar 11 16:19:28 PST 2022)\n\n<li><a href=\"http://www.cs.man.ac.uk/CCS/\" target=\"other\">The Computer Conservation Society (UK)</a></li>\n\nLINK CHECKER-->"
-    ],
-    [
-     "mk",
-     "\n\n"
-    ],
-    [
-     "mk",
-     "<!--LINK CHECKER COMMENTED OUT (Wed Apr 25 16:09:31 PDT 2018)\n\n<li><a href=\"http://www.cs.mu.OZ.AU/csirac/\" target=\"other\">CSIRAC (a.k.a. CSIR MARK I) Home Page</a></li>\n\nLINK CHECKER-->"
-    ],
-    [
-     "mk",
-     "\n\n"
-    ]
-   ]
+   "r": 63144,
+   "len": 5,
+   "sha": "0683d9779d8c72e8",
+   "after": "</li>\n\n<!--LINK CHECKER COMMENTED OUT (Sun Sep 17 11:46:54 PDT 2023)\n\n<li><a href=\"https://rd.host.cs.st-andrews.ac.uk/logic.html\" target=\"other\">Computational Logic Group at St. Andrews</a></li>\n\nLINK CHECKER-->\n\n<!--LINK CHECKER COMMENTED OUT (Fri Mar 11 16:19:28 PST 2022)\n\n<li><a href=\"http://www.cs.man.ac.uk/CCS/\" target=\"other\">The Computer Conservation Society (UK)</a></li>\n\nLINK CHECKER-->\n\n<!--LINK CHECKER COMMENTED OUT (Wed Apr 25 16:09:31 PDT 2018)\n\n<li><a href=\"http://www.cs.mu.OZ.AU/csirac/\" target=\"other\">CSIRAC (a.k.a. CSIR MARK I) Home Page</a></li>\n\nLINK CHECKER-->\n\n"
   },
   {
-   "u": 63153,
-   "len": 87,
-   "sha": "6615669b4e906d55",
-   "items": [
-    [
-     "mk",
-     "<a href=\"http://cryptocellar.org/\" target=\"other\">"
-    ],
-    [
-     "tx",
-     0,
-     5
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     5,
-     9
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     14,
-     12
-    ],
-    [
-     "mk",
-     "</a>"
-    ],
-    [
-     "mk",
-     "</li>"
-    ],
-    [
-     "mk",
-     "\n\n"
-    ]
-   ]
+   "r": 63235,
+   "len": 5,
+   "sha": "0683d9779d8c72e8",
+   "after": "</li>\n\n"
   },
   {
-   "u": 63244,
-   "len": 108,
-   "sha": "50075c1071496347",
-   "items": [
-    [
-     "mk",
-     "<a href=\"http://www.cis.upenn.edu/~lc/home.html\" target=\"other\">"
-    ],
-    [
-     "tx",
-     0,
-     5
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     5,
-     3
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     8,
-     11
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     19,
-     5
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     24,
-     2
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     26,
-     4
-    ],
-    [
-     "mk",
-     "</a>"
-    ],
-    [
-     "mk",
-     "</li>"
-    ],
-    [
-     "mk",
-     "\n\n"
-    ]
-   ]
+   "r": 63347,
+   "len": 5,
+   "sha": "0683d9779d8c72e8",
+   "after": "</li>\n\n"
   },
   {
-   "u": 63356,
-   "len": 128,
-   "sha": "f34c8ec77a49b72e",
-   "items": [
-    [
-     "mk",
-     "<a href=\"http://www.chstm.manchester.ac.uk/research/nahc/\" target=\"other\">"
-    ],
-    [
-     "tx",
-     0,
-     8
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     8,
-     7
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     15,
-     3
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     18,
-     3
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     21,
-     7
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     28,
-     2
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     30,
-     9
-    ],
-    [
-     "mk",
-     "</a>"
-    ],
-    [
-     "mk",
-     "</li>"
-    ],
-    [
-     "mk",
-     "\n\n"
-    ]
-   ]
+   "r": 63479,
+   "len": 5,
+   "sha": "0683d9779d8c72e8",
+   "after": "</li>\n\n"
   },
   {
-   "u": 63488,
-   "len": 122,
-   "sha": "6b9ea509c592801c",
-   "items": [
-    [
-     "mk",
-     "<a href=\"https://www.nsa.gov/about/cryptologic-heritage/museum/\" target=\"other\">"
-    ],
-    [
-     "tx",
-     0,
-     8
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     8,
-     11
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     19,
-     6
-    ],
-    [
-     "mk",
-     "</a>"
-    ],
-    [
-     "mk",
-     "</li>"
-    ],
-    [
-     "mk",
-     "\n\n"
-    ],
-    [
-     "mk",
-     "</ul>"
-    ],
-    [
-     "mk",
-     "\n\n"
-    ]
-   ]
+   "r": 63599,
+   "len": 11,
+   "sha": "d429e686ccace07b",
+   "after": "</li>\n\n</ul>\n\n"
   },
   {
    "r": 63690,

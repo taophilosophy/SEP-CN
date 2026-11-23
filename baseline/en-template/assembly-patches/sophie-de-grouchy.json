@@ -5,8 +5,8 @@
  "note": "格式层残差补丁：m=标记段、u=单元布局、r=纯布局区段；禁含散文",
  "stats": {
   "page_bytes": 75151,
-  "pool_bytes": 14971,
-  "n_patches": 73
+  "pool_bytes": 14464,
+  "n_patches": 71
  },
  "patches": [
   {
@@ -17438,89 +17438,6 @@
    "after": "<ul>\n\n "
   },
   {
-   "u": 69668,
-   "len": 318,
-   "sha": "f8ce47a0a81258ee",
-   "items": [
-    [
-     "mk",
-     "<a href=\"https://books.google.com.tr/books?id=c-M_AAAAcAAJ&amp;printsec=frontcover&amp;dq=theorie+des+sentiments+moraux&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwi25Nb-ua_jAhUrxaYKHb5yCHwQ6AEIOjAC#v=onepage&amp;q=theorie%20des%20sentiments%20moraux&amp;f=false\" target=\"other\">"
-    ],
-    [
-     "tx",
-     0,
-     5
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     5,
-     7
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     12,
-     2
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     14,
-     3
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     17,
-     7
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     24,
-     3
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     27,
-     2
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     29,
-     9
-    ],
-    [
-     "mk",
-     "</a>"
-    ]
-   ]
-  },
-  {
    "m": 69986,
    "len": 5,
    "sha": "0683d9779d8c72e8",
@@ -17529,7 +17446,7 @@
   {
    "u": 69995,
    "len": 235,
-   "sha": "4b87ff0d564a8f61",
+   "sha": "6ecd7e95c06f3d2a",
    "items": [
     [
      "mk",
@@ -17730,142 +17647,6 @@
    "len": 5,
    "sha": "0683d9779d8c72e8",
    "after": "</li>\n\n "
-  },
-  {
-   "u": 70239,
-   "len": 185,
-   "sha": "ba10ab67a32bd7b9",
-   "items": [
-    [
-     "mk",
-     "<a href=\"https://www.earlymoderntexts.com/authors/degrouchy\" target=\"other\">"
-    ],
-    [
-     "tx",
-     0,
-     7
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     7,
-     2
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     9,
-     8
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     17,
-     2
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "mk",
-     "<em>"
-    ],
-    [
-     "tx",
-     19,
-     4
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     23,
-     5
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     28,
-     4
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     32,
-     5
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     37,
-     6
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     43,
-     10
-    ],
-    [
-     "mk",
-     "</em>"
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     53,
-     21
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     74,
-     2
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     76,
-     8
-    ],
-    [
-     "mk",
-     "</a>"
-    ]
-   ]
   },
   {
    "m": 70424,

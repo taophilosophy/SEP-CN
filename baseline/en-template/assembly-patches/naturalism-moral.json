@@ -4,7 +4,7 @@
  "generated_by": "specs/053 bin/assembly_pool.py",
  "note": "格式层残差补丁：m=标记段、u=单元布局、r=纯布局区段；禁含散文",
  "stats": {
-  "page_bytes": 151130,
+  "page_bytes": 151131,
   "pool_bytes": 43978,
   "n_patches": 174
  },
@@ -54204,8 +54204,8 @@
   },
   {
    "u": 145405,
-   "len": 236,
-   "sha": "4c179c6e8f65550a",
+   "len": 237,
+   "sha": "70ff71672091439b",
    "items": [
     [
      "tx",
@@ -54285,13 +54285,13 @@
    ]
   },
   {
-   "r": 145718,
+   "r": 145719,
    "len": 5,
    "sha": "b8dc660f3c20d4ce",
    "after": "<p>\n\n "
   },
   {
-   "u": 146631,
+   "u": 146632,
    "len": 256,
    "sha": "33581850c93e0c8e",
    "items": [
@@ -54631,7 +54631,7 @@
    ]
   },
   {
-   "r": 146892,
+   "r": 146893,
    "len": 8,
    "sha": "fb433b3dc85934c4",
    "after": "</div>\n\n<script type=\"text/javascript\" src=\"local.js\"></script>\n<script type=\"text/javascript\" src=\"../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML\"></script>\n\n"

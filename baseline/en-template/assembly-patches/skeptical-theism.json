@@ -4,7 +4,7 @@
  "generated_by": "specs/053 bin/assembly_pool.py",
  "note": "格式层残差补丁：m=标记段、u=单元布局、r=纯布局区段；禁含散文",
  "stats": {
-  "page_bytes": 112642,
+  "page_bytes": 112644,
   "pool_bytes": 53830,
   "n_patches": 168
  },
@@ -64329,7 +64329,7 @@
   {
    "u": 107081,
    "len": 143,
-   "sha": "cd440d95a2e67fa2",
+   "sha": "541b69a973f5de04",
    "items": [
     [
      "mk",
@@ -64446,8 +64446,8 @@
   },
   {
    "u": 107228,
-   "len": 591,
-   "sha": "b877c803ab0e168f",
+   "len": 593,
+   "sha": "e44b2a7b12b881a3",
    "items": [
     [
      "tx",
@@ -64863,7 +64863,7 @@
    ]
   },
   {
-   "u": 107896,
+   "u": 107898,
    "len": 282,
    "sha": "eca31efcc5d9772e",
    "items": [
@@ -65071,7 +65071,7 @@
    ]
   },
   {
-   "u": 108248,
+   "u": 108250,
    "len": 150,
    "sha": "27d7c468aaab3ab9",
    "items": [
@@ -65258,7 +65258,7 @@
    ]
   },
   {
-   "r": 108403,
+   "r": 108405,
    "len": 0,
    "sha": "da39a3ee5e6b4b0d",
    "after": "<script type=\"text/javascript\" src=\"local.js\"></script>\n<script type=\"text/javascript\" src=\"../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML\"></script>\n"

@@ -5,7 +5,7 @@
  "note": "格式层残差补丁：m=标记段、u=单元布局、r=纯布局区段；禁含散文",
  "stats": {
   "page_bytes": 103600,
-  "pool_bytes": 35012,
+  "pool_bytes": 34811,
   "n_patches": 102
  },
  "patches": [
@@ -43161,114 +43161,16 @@
    "after": "</li>\n \n "
   },
   {
-   "u": 98896,
-   "len": 105,
-   "sha": "4ed29829216cb93f",
-   "items": [
-    [
-     "mk",
-     "<a href=\"http://www.hkbu.edu.hk/~ppp/Kant.html\" target=\"other\">"
-    ],
-    [
-     "tx",
-     0,
-     5
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     5,
-     17
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     22,
-     4
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     26,
-     4
-    ],
-    [
-     "mk",
-     "</a>"
-    ],
-    [
-     "mk",
-     "</li>"
-    ],
-    [
-     "mk",
-     "\n \n "
-    ]
-   ]
+   "r": 98996,
+   "len": 5,
+   "sha": "0683d9779d8c72e8",
+   "after": "</li>\n \n "
   },
   {
-   "u": 99005,
-   "len": 111,
-   "sha": "98f81caa46d6b598",
-   "items": [
-    [
-     "mk",
-     "<a href=\"https://sites.google.com/a/lclark.edu/idealism/sgi\" target=\"other\">"
-    ],
-    [
-     "tx",
-     0,
-     7
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     7,
-     2
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     9,
-     6
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     15,
-     8
-    ],
-    [
-     "mk",
-     "</a>"
-    ],
-    [
-     "mk",
-     "</li>"
-    ],
-    [
-     "mk",
-     "\n "
-    ]
-   ]
+   "r": 99111,
+   "len": 5,
+   "sha": "0683d9779d8c72e8",
+   "after": "</li>\n "
   },
   {
    "u": 99202,

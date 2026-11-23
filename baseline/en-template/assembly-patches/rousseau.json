@@ -5,8 +5,8 @@
  "note": "格式层残差补丁：m=标记段、u=单元布局、r=纯布局区段；禁含散文",
  "stats": {
   "page_bytes": 87248,
-  "pool_bytes": 45103,
-  "n_patches": 85
+  "pool_bytes": 44944,
+  "n_patches": 83
  },
  "patches": [
   {
@@ -55460,87 +55460,10 @@
    "after": "<ul>\n\n "
   },
   {
-   "u": 81688,
-   "len": 86,
-   "sha": "d4670beeb4b4d1c2",
-   "items": [
-    [
-     "mk",
-     "<a href=\"http://www.rousseauassociation.org/\" target=\"other\">"
-    ],
-    [
-     "tx",
-     0,
-     8
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     8,
-     11
-    ],
-    [
-     "mk",
-     "</a>"
-    ],
-    [
-     "tx",
-     19,
-     1
-    ]
-   ]
-  },
-  {
    "m": 81774,
    "len": 5,
    "sha": "0683d9779d8c72e8",
    "after": "</li>\n \n "
-  },
-  {
-   "u": 81783,
-   "len": 93,
-   "sha": "65b66faacea8bbc4",
-   "items": [
-    [
-     "mk",
-     "<a href=\"http://www.sjjr.ch/\" target=\"other\">"
-    ],
-    [
-     "tx",
-     0,
-     21
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     21,
-     12
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     33,
-     8
-    ],
-    [
-     "mk",
-     "</a>"
-    ],
-    [
-     "tx",
-     41,
-     1
-    ]
-   ]
   },
   {
    "m": 81876,

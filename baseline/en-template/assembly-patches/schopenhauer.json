@@ -5,7 +5,7 @@
  "note": "格式层残差补丁：m=标记段、u=单元布局、r=纯布局区段；禁含散文",
  "stats": {
   "page_bytes": 103268,
-  "pool_bytes": 45947,
+  "pool_bytes": 45872,
   "n_patches": 115
  },
  "patches": [
@@ -57690,59 +57690,15 @@
    "after": "<ul>\n\n "
   },
   {
-   "u": 98050,
-   "len": 87,
-   "sha": "0bc489a84d2f26ee",
-   "items": [
-    [
-     "mk",
-     "<a href=\"http://www.schopenhauer.de\" target=\"other\">"
-    ],
-    [
-     "tx",
-     0,
-     12
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     12,
-     12
-    ],
-    [
-     "mk",
-     "</a>"
-    ],
-    [
-     "tx",
-     24,
-     1
-    ],
-    [
-     "mk",
-     "</li>"
-    ],
-    [
-     "mk",
-     "\n \n "
-    ],
-    [
-     "mk",
-     "<!--LINK CHECKER COMMENTED OUT (Thu Apr 25 17:30:43 PDT 2019)\n\n<li><a href=\"http://www.stub.uni-frankfurt.de/archive/eschop.htm\" target=\"other\">Schopenhauer Archives</a>.</li>\n\nLINK CHECKER-->"
-    ],
-    [
-     "mk",
-     "\n \n "
-    ]
-   ]
+   "r": 98132,
+   "len": 5,
+   "sha": "0683d9779d8c72e8",
+   "after": "</li>\n \n <!--LINK CHECKER COMMENTED OUT (Thu Apr 25 17:30:43 PDT 2019)\n\n<li><a href=\"http://www.stub.uni-frankfurt.de/archive/eschop.htm\" target=\"other\">Schopenhauer Archives</a>.</li>\n\nLINK CHECKER-->\n \n "
   },
   {
    "u": 98141,
    "len": 173,
-   "sha": "28884c7db6b63801",
+   "sha": "5dcb47443368a732",
    "items": [
     [
      "mk",

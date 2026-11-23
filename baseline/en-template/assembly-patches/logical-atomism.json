@@ -5,7 +5,7 @@
  "note": "格式层残差补丁：m=标记段、u=单元布局、r=纯布局区段；禁含散文",
  "stats": {
   "page_bytes": 129057,
-  "pool_bytes": 95381,
+  "pool_bytes": 94754,
   "n_patches": 309
  },
  "patches": [
@@ -117100,352 +117100,40 @@
    "after": "<ul>\n\n "
   },
   {
-   "u": 123098,
-   "len": 110,
-   "sha": "8087fcf97f2e0b23",
-   "items": [
-    [
-     "mk",
-     "<a href=\"http://www.humanities.mcmaster.ca/~russell/\" target=\"other\">"
-    ],
-    [
-     "tx",
-     0,
-     8
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     8,
-     7
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     15,
-     8
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     23,
-     6
-    ],
-    [
-     "mk",
-     "</a>"
-    ],
-    [
-     "mk",
-     "</li>"
-    ],
-    [
-     "mk",
-     "\n \n "
-    ]
-   ]
+   "r": 123203,
+   "len": 5,
+   "sha": "0683d9779d8c72e8",
+   "after": "</li>\n \n "
   },
   {
-   "u": 123212,
-   "len": 103,
-   "sha": "e90930b06b7d1293",
-   "items": [
-    [
-     "mk",
-     "<a href=\"http://www.mcmaster.ca/russdocs/russell.htm\" target=\"other\">"
-    ],
-    [
-     "tx",
-     0,
-     8
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     8,
-     7
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     15,
-     8
-    ],
-    [
-     "mk",
-     "</a>"
-    ],
-    [
-     "mk",
-     "</li>"
-    ],
-    [
-     "mk",
-     "\n \n "
-    ]
-   ]
+   "r": 123310,
+   "len": 5,
+   "sha": "0683d9779d8c72e8",
+   "after": "</li>\n \n "
   },
   {
-   "u": 123319,
-   "len": 94,
-   "sha": "766855b7f1eb65aa",
-   "items": [
-    [
-     "mk",
-     "<a href=\"https://bertrandrussellsociety.org/\" target=\"other\">"
-    ],
-    [
-     "tx",
-     0,
-     8
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     8,
-     7
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     15,
-     7
-    ],
-    [
-     "mk",
-     "</a>"
-    ],
-    [
-     "mk",
-     "</li>"
-    ],
-    [
-     "mk",
-     "\n \n "
-    ]
-   ]
+   "r": 123408,
+   "len": 5,
+   "sha": "0683d9779d8c72e8",
+   "after": "</li>\n \n "
   },
   {
-   "u": 123417,
-   "len": 137,
-   "sha": "622f7075cdea1791",
-   "items": [
-    [
-     "mk",
-     "<a href=\"http://www.humanities.mcmaster.ca/~russell/journal.htm\" target=\"other\">"
-    ],
-    [
-     "tx",
-     0,
-     8
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     8,
-     3
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     11,
-     7
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     18,
-     2
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     20,
-     8
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     28,
-     7
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     35,
-     7
-    ],
-    [
-     "mk",
-     "</a>"
-    ],
-    [
-     "mk",
-     "</li>"
-    ],
-    [
-     "mk",
-     "\n \n "
-    ]
-   ]
+   "r": 123549,
+   "len": 5,
+   "sha": "0683d9779d8c72e8",
+   "after": "</li>\n \n "
   },
   {
-   "u": 123558,
-   "len": 108,
-   "sha": "0bfd0fed6756e6ee",
-   "items": [
-    [
-     "mk",
-     "<a href=\"http://www.users.drew.edu/~jlenz/brtexts.html\" target=\"other\">"
-    ],
-    [
-     "tx",
-     0,
-     8
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     8,
-     2
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     10,
-     8
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     18,
-     7
-    ],
-    [
-     "mk",
-     "</a>"
-    ],
-    [
-     "mk",
-     "</li>"
-    ],
-    [
-     "mk",
-     "\n \n "
-    ]
-   ]
+   "r": 123661,
+   "len": 5,
+   "sha": "0683d9779d8c72e8",
+   "after": "</li>\n \n "
   },
   {
-   "u": 123670,
-   "len": 138,
-   "sha": "b94fd14a2947a648",
-   "items": [
-    [
-     "mk",
-     "<a href=\"http://www.britannica.com/topic/analytic-philosophy\" target=\"other\">"
-    ],
-    [
-     "tx",
-     0,
-     13
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     13,
-     10
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     23,
-     7
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     30,
-     8
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     38,
-     10
-    ],
-    [
-     "mk",
-     "</a>"
-    ],
-    [
-     "mk",
-     "</li>"
-    ],
-    [
-     "mk",
-     "\n "
-    ]
-   ]
+   "r": 123803,
+   "len": 5,
+   "sha": "0683d9779d8c72e8",
+   "after": "</li>\n "
   },
   {
    "u": 123885,

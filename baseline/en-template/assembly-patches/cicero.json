@@ -5,7 +5,7 @@
  "note": "格式层残差补丁：m=标记段、u=单元布局、r=纯布局区段；禁含散文",
  "stats": {
   "page_bytes": 103530,
-  "pool_bytes": 21801,
+  "pool_bytes": 21612,
   "n_patches": 84
  },
  "patches": [
@@ -26856,129 +26856,16 @@
    ]
   },
   {
-   "u": 98324,
-   "len": 101,
-   "sha": "9a087fd2bbe1f2e8",
-   "items": [
-    [
-     "mk",
-     "<a href=\"https://historyofphilosophy.net/cicero\" target=\"other\">"
-    ],
-    [
-     "tx",
-     0,
-     10
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     10,
-     10
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     20,
-     6
-    ],
-    [
-     "mk",
-     "</a>"
-    ],
-    [
-     "mk",
-     "</li>"
-    ],
-    [
-     "mk",
-     "\n \n  "
-    ]
-   ]
+   "r": 98420,
+   "len": 5,
+   "sha": "0683d9779d8c72e8",
+   "after": "</li>\n \n  "
   },
   {
-   "u": 98429,
-   "len": 108,
-   "sha": "f783cd2bc3503103",
-   "items": [
-    [
-     "mk",
-     "<a href=\"https://historyofphilosophy.net/cicero-woolf\" target=\"other\">"
-    ],
-    [
-     "tx",
-     0,
-     7
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     7,
-     5
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     12,
-     2
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     14,
-     6
-    ],
-    [
-     "mk",
-     "</a>"
-    ],
-    [
-     "mk",
-     "</li>"
-    ],
-    [
-     "mk",
-     "\n  "
-    ],
-    [
-     "mk",
-     "</ul>"
-    ],
-    [
-     "mk",
-     " \n  "
-    ],
-    [
-     "mk",
-     "</li>"
-    ],
-    [
-     "mk",
-     "\n\n"
-    ],
-    [
-     "mk",
-     "</ul>"
-    ],
-    [
-     "mk",
-     "\n\n"
-    ]
-   ]
+   "r": 98526,
+   "len": 11,
+   "sha": "d429e686ccace07b",
+   "after": "</li>\n  </ul> \n  </li>\n\n</ul>\n\n"
   },
   {
    "r": 98608,

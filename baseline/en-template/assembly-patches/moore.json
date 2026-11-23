@@ -5,7 +5,7 @@
  "note": "格式层残差补丁：m=标记段、u=单元布局、r=纯布局区段；禁含散文",
  "stats": {
   "page_bytes": 75218,
-  "pool_bytes": 62123,
+  "pool_bytes": 62010,
   "n_patches": 94
  },
  "patches": [
@@ -78565,93 +78565,10 @@
    "after": "<ul>\n"
   },
   {
-   "u": 69353,
-   "len": 125,
-   "sha": "e3ac776452f3f2e9",
-   "items": [
-    [
-     "mk",
-     "<a href=\"http://www.philosophypages.com/ph/moor.htm\" target=\"other\">"
-    ],
-    [
-     "tx",
-     0,
-     4
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     4,
-     5
-    ],
-    [
-     "mk",
-     "</a>"
-    ],
-    [
-     "mk",
-     "\n"
-    ],
-    [
-     "tx",
-     9,
-     11
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     20,
-     2
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     22,
-     5
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     27,
-     10
-    ],
-    [
-     "mk",
-     "</li>"
-    ],
-    [
-     "mk",
-     "\n\n"
-    ],
-    [
-     "mk",
-     "<!-- LINK CHECKER COMMENTED OUT (Fri Dec  9 05:49:44 2011)\n<li><a href=\"http://www.philosophers.co.uk/cafe/phil_jul2003.htm\" target=\"other\">G.E. Moore</a>\n (by Bart Schultz, written for The Philosopher's\nMagazine)</li>\n LINK CHECKER -->"
-    ],
-    [
-     "mk",
-     "\n"
-    ],
-    [
-     "mk",
-     "</ul>"
-    ],
-    [
-     "mk",
-     "\n\n"
-    ]
-   ]
+   "r": 69467,
+   "len": 11,
+   "sha": "d429e686ccace07b",
+   "after": "</li>\n\n<!-- LINK CHECKER COMMENTED OUT (Fri Dec  9 05:49:44 2011)\n<li><a href=\"http://www.philosophers.co.uk/cafe/phil_jul2003.htm\" target=\"other\">G.E. Moore</a>\n (by Bart Schultz, written for The Philosopher's\nMagazine)</li>\n LINK CHECKER -->\n</ul>\n\n"
   },
   {
    "r": 69558,

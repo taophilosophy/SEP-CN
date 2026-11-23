@@ -5,8 +5,8 @@
  "note": "格式层残差补丁：m=标记段、u=单元布局、r=纯布局区段；禁含散文",
  "stats": {
   "page_bytes": 105256,
-  "pool_bytes": 35257,
-  "n_patches": 151
+  "pool_bytes": 35184,
+  "n_patches": 150
  },
  "patches": [
   {
@@ -42973,7 +42973,7 @@
   {
    "u": 99644,
    "len": 206,
-   "sha": "5295d83d45b69ba4",
+   "sha": "db91f73c0b79ec1c",
    "items": [
     [
      "mk",
@@ -43094,7 +43094,7 @@
   {
    "u": 99859,
    "len": 113,
-   "sha": "4b13e36a6c657bf5",
+   "sha": "976a3403aec0c2b9",
    "items": [
     [
      "mk",
@@ -43175,35 +43175,6 @@
    "len": 5,
    "sha": "0683d9779d8c72e8",
    "after": "</li>\n\n "
-  },
-  {
-   "u": 99981,
-   "len": 81,
-   "sha": "726438becfc2a6e8",
-   "items": [
-    [
-     "mk",
-     "<a href=\"http://www.utilitarianism.com/\" target=\"other\">"
-    ],
-    [
-     "tx",
-     0,
-     11
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     11,
-     9
-    ],
-    [
-     "mk",
-     "</a>"
-    ]
-   ]
   },
   {
    "m": 100062,

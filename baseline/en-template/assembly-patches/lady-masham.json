@@ -5,7 +5,7 @@
  "note": "格式层残差补丁：m=标记段、u=单元布局、r=纯布局区段；禁含散文",
  "stats": {
   "page_bytes": 39792,
-  "pool_bytes": 17599,
+  "pool_bytes": 17517,
   "n_patches": 58
  },
  "patches": [
@@ -21671,49 +21671,10 @@
    "after": "<ul>\n\n "
   },
   {
-   "u": 35045,
-   "len": 91,
-   "sha": "99bab61858ac1b1e",
-   "items": [
-    [
-     "mk",
-     "<a href=\"http://projectvox.org/masham-1659-1708/\" target=\"other\">"
-    ],
-    [
-     "tx",
-     0,
-     7
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     7,
-     3
-    ],
-    [
-     "mk",
-     "</a>"
-    ],
-    [
-     "mk",
-     "</li>"
-    ],
-    [
-     "mk",
-     "\n \n"
-    ],
-    [
-     "mk",
-     "</ul>"
-    ],
-    [
-     "mk",
-     "\n\n"
-    ]
-   ]
+   "r": 35125,
+   "len": 11,
+   "sha": "d429e686ccace07b",
+   "after": "</li>\n \n</ul>\n\n"
   },
   {
    "r": 35216,

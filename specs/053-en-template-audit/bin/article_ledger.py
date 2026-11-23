@@ -216,7 +216,12 @@ def extract_links(art_inner, skip=()):
         href, inner = m.group(1), m.group(2)
         if href.startswith(("http://", "https://", "notes.html#")):
             continue
-        if not (href.startswith("../") or href.startswith("#")):
+        # 三族入账：跨词条 `../slug/`、页内 `#anchor`、带片段的裸兄弟链
+        # `other.html#frag`。第三族 C 在 md 侧把片段整个丢掉（`slug.target.md`
+        # 无 `#frag`，全库 0 条），不记则只能靠补丁池兜；无片段的 `other.html`
+        # md 已保形（R `_link` 按 `slug.target.md` 还原），**不入账**免双发。
+        _bare_frag = re.fullmatch(r"[A-Za-z0-9._-]+\.html#.+", href)
+        if not (href.startswith("../") or href.startswith("#") or _bare_frag):
             continue
         text = htmllib.unescape(re.sub("<[^>]*>", "", inner)).strip()
         if not text:

@@ -5,7 +5,7 @@
  "note": "格式层残差补丁：m=标记段、u=单元布局、r=纯布局区段；禁含散文",
  "stats": {
   "page_bytes": 115594,
-  "pool_bytes": 88666,
+  "pool_bytes": 88540,
   "n_patches": 141
  },
  "patches": [
@@ -111526,7 +111526,7 @@
   {
    "u": 110353,
    "len": 154,
-   "sha": "4d5e73aedef038da",
+   "sha": "5f8d21bc1c8fd6b6",
    "items": [
     [
      "mk",
@@ -111656,73 +111656,10 @@
    ]
   },
   {
-   "u": 110511,
-   "len": 135,
-   "sha": "60f68e1af2815850",
-   "items": [
-    [
-     "mk",
-     "<a href=\"https://manuscripts.ibnularabifoundation.org/manuscripts\" target=\"other\">"
-    ],
-    [
-     "tx",
-     0,
-     10
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     10,
-     8
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     18,
-     3
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     21,
-     8
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     29,
-     10
-    ],
-    [
-     "mk",
-     "</a>"
-    ],
-    [
-     "tx",
-     39,
-     1
-    ],
-    [
-     "mk",
-     "</li>"
-    ],
-    [
-     "mk",
-     "\n\n "
-    ]
-   ]
+   "r": 110641,
+   "len": 5,
+   "sha": "0683d9779d8c72e8",
+   "after": "</li>\n\n "
   },
   {
    "r": 110730,

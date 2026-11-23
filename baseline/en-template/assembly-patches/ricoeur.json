@@ -5,8 +5,8 @@
  "note": "格式层残差补丁：m=标记段、u=单元布局、r=纯布局区段；禁含散文",
  "stats": {
   "page_bytes": 75881,
-  "pool_bytes": 24632,
-  "n_patches": 110
+  "pool_bytes": 24354,
+  "n_patches": 107
  },
  "patches": [
   {
@@ -29810,138 +29810,16 @@
    "after": "<ul>\n "
   },
   {
-   "u": 70676,
-   "len": 89,
-   "sha": "6c7a38563d28a038",
-   "items": [
-    [
-     "mk",
-     "<a href=\"http://www.fondsricoeur.fr/index.php?lang=en\" target=\"other\">"
-    ],
-    [
-     "tx",
-     0,
-     7
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     7,
-     7
-    ],
-    [
-     "mk",
-     "</a>"
-    ]
-   ]
-  },
-  {
    "m": 70765,
    "len": 5,
    "sha": "0683d9779d8c72e8",
    "after": "</li>\n "
   },
   {
-   "u": 70774,
-   "len": 87,
-   "sha": "a603a4ae70d21d5f",
-   "items": [
-    [
-     "mk",
-     "<a href=\"http://www.ricoeursociety.org/\" target=\"other\">"
-    ],
-    [
-     "tx",
-     0,
-     7
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     7,
-     3
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     10,
-     7
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     17,
-     7
-    ],
-    [
-     "mk",
-     "</a>"
-    ]
-   ]
-  },
-  {
    "m": 70861,
    "len": 5,
    "sha": "0683d9779d8c72e8",
    "after": "</li>\n "
-  },
-  {
-   "u": 70870,
-   "len": 127,
-   "sha": "7d9608e33f492763",
-   "items": [
-    [
-     "mk",
-     "<a href=\"http://ricoeur.pitt.edu/ojs/index.php/ricoeur\" target=\"other\">"
-    ],
-    [
-     "mk",
-     "<em>"
-    ],
-    [
-     "tx",
-     0,
-     13
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     13,
-     21
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     34,
-     7
-    ],
-    [
-     "mk",
-     "</em>"
-    ],
-    [
-     "mk",
-     "</a>"
-    ]
-   ]
   },
   {
    "m": 70997,

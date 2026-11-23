@@ -4,8 +4,8 @@
  "generated_by": "specs/053 bin/assembly_pool.py",
  "note": "格式层残差补丁：m=标记段、u=单元布局、r=纯布局区段；禁含散文",
  "stats": {
-  "page_bytes": 72190,
-  "pool_bytes": 27015,
+  "page_bytes": 72191,
+  "pool_bytes": 26277,
   "n_patches": 164
  },
  "patches": [
@@ -30777,7 +30777,7 @@
   {
    "u": 64227,
    "len": 166,
-   "sha": "c83d4fc6a1a3cb45",
+   "sha": "983bb896991d307d",
    "items": [
     [
      "mk",
@@ -30899,7 +30899,7 @@
   {
    "u": 64397,
    "len": 178,
-   "sha": "aedeec4870e99896",
+   "sha": "9217ad35b9232be2",
    "items": [
     [
      "mk",
@@ -31057,7 +31057,7 @@
   {
    "u": 64579,
    "len": 217,
-   "sha": "ac5ca90fa1434e40",
+   "sha": "50b26b2c3f1fc11e",
    "items": [
     [
      "mk",
@@ -31871,8 +31871,8 @@
   },
   {
    "u": 66600,
-   "len": 206,
-   "sha": "a1156fd128295457",
+   "len": 207,
+   "sha": "109bba38ae9e694e",
    "items": [
     [
      "tx",
@@ -32025,342 +32025,27 @@
    ]
   },
   {
-   "u": 66810,
-   "len": 125,
-   "sha": "d59f04e3ed72d331",
-   "items": [
-    [
-     "mk",
-     "<a href=\"http://www.icpic.org/\" target=\"other\">"
-    ],
-    [
-     "tx",
-     0,
-     6
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     6,
-     13
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     19,
-     7
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     26,
-     3
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     29,
-     13
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     42,
-     7
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     49,
-     4
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     53,
-     8
-    ],
-    [
-     "mk",
-     "</a>"
-    ],
-    [
-     "tx",
-     61,
-     1
-    ],
-    [
-     "mk",
-     "</li>"
-    ],
-    [
-     "mk",
-     "\n \n "
-    ]
-   ]
+   "r": 66931,
+   "len": 5,
+   "sha": "0683d9779d8c72e8",
+   "after": "</li>\n \n "
   },
   {
-   "u": 66939,
-   "len": 167,
-   "sha": "23553c6c6aa9cbf9",
-   "items": [
-    [
-     "mk",
-     "<a href=\"https://www.montclair.edu/cehs/academics/centers-and-institutes/iapc/\" target=\"other\">"
-    ],
-    [
-     "tx",
-     0,
-     5
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     5,
-     9
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     14,
-     3
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     17,
-     3
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     20,
-     11
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     31,
-     2
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     33,
-     10
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     43,
-     3
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     46,
-     8
-    ],
-    [
-     "mk",
-     "</a>"
-    ],
-    [
-     "tx",
-     54,
-     1
-    ],
-    [
-     "mk",
-     "</li>"
-    ],
-    [
-     "mk",
-     "\n \n "
-    ]
-   ]
+   "r": 67102,
+   "len": 5,
+   "sha": "0683d9779d8c72e8",
+   "after": "</li>\n \n "
   },
   {
-   "u": 67110,
-   "len": 149,
-   "sha": "deaebf59ff05318e",
-   "items": [
-    [
-     "mk",
-     "<a href=\"http://www.sapere.org.uk/\" target=\"other\">"
-    ],
-    [
-     "tx",
-     0,
-     7
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     7,
-     7
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     14,
-     3
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     17,
-     3
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     20,
-     11
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     31,
-     2
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     33,
-     13
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     46,
-     7
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     53,
-     3
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     56,
-     10
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     66,
-     2
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     68,
-     9
-    ],
-    [
-     "mk",
-     "</a>"
-    ],
-    [
-     "tx",
-     77,
-     1
-    ],
-    [
-     "mk",
-     "</li>"
-    ],
-    [
-     "mk",
-     "\n \n "
-    ]
-   ]
+   "r": 67255,
+   "len": 5,
+   "sha": "0683d9779d8c72e8",
+   "after": "</li>\n \n "
   },
   {
-   "u": 67263,
+   "u": 67264,
    "len": 143,
-   "sha": "4c90d85aa2d7976a",
+   "sha": "ee8f533bc40df8d9",
    "items": [
     [
      "mk",
@@ -32481,250 +32166,37 @@
    ]
   },
   {
-   "u": 67410,
-   "len": 117,
-   "sha": "87faa4e05e43cddc",
-   "items": [
-    [
-     "mk",
-     "<a href=\"http://plato-philosophy.org/\" target=\"other\">"
-    ],
-    [
-     "tx",
-     0,
-     6
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     6,
-     11
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     17,
-     8
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     25,
-     3
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     28,
-     8
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     36,
-     12
-    ],
-    [
-     "mk",
-     "</a>"
-    ],
-    [
-     "tx",
-     48,
-     1
-    ],
-    [
-     "mk",
-     "</li>"
-    ],
-    [
-     "mk",
-     "\n \n "
-    ],
-    [
-     "mk",
-     "<!--LINK CHECKER COMMENTED OUT (Thu Jun 1 15:20:13 PDT 2023)\n\n<li><a href=\"http://www.teachingchildrenphilosophy.org/wiki/Main_Page\" target=\"other\">Teaching Children Philosophy</a>.</li>\n\nLINK CHECKER-->"
-    ],
-    [
-     "mk",
-     "\n \n "
-    ]
-   ]
+   "r": 67523,
+   "len": 5,
+   "sha": "0683d9779d8c72e8",
+   "after": "</li>\n \n <!--LINK CHECKER COMMENTED OUT (Thu Jun 1 15:20:13 PDT 2023)\n\n<li><a href=\"http://www.teachingchildrenphilosophy.org/wiki/Main_Page\" target=\"other\">Teaching Children Philosophy</a>.</li>\n\nLINK CHECKER-->\n \n "
   },
   {
-   "r": 67596,
+   "r": 67597,
    "len": 5,
    "sha": "0683d9779d8c72e8",
    "after": "</li>\n \n "
   },
   {
-   "u": 67605,
-   "len": 97,
-   "sha": "beed187d7f9c6bcc",
-   "items": [
-    [
-     "mk",
-     "<a href=\"https://www.philosophy-foundation.org\" target=\"other\">"
-    ],
-    [
-     "tx",
-     0,
-     3
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     3,
-     10
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     13,
-     10
-    ],
-    [
-     "mk",
-     "</a>"
-    ],
-    [
-     "mk",
-     "</li>"
-    ],
-    [
-     "mk",
-     "\n \n "
-    ]
-   ]
+   "r": 67698,
+   "len": 5,
+   "sha": "0683d9779d8c72e8",
+   "after": "</li>\n \n "
   },
   {
-   "u": 67706,
-   "len": 138,
-   "sha": "e37c9a9b0b1efcf3",
-   "items": [
-    [
-     "mk",
-     "<a href=\"https://depts.washington.edu/nwcenter/\" target=\"other\">"
-    ],
-    [
-     "tx",
-     0,
-     10
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     10,
-     2
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     12,
-     10
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     22,
-     6
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     28,
-     3
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     31,
-     10
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     41,
-     3
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     44,
-     8
-    ],
-    [
-     "mk",
-     "</a>"
-    ],
-    [
-     "mk",
-     "</li>"
-    ],
-    [
-     "mk",
-     "\n\n"
-    ],
-    [
-     "mk",
-     "</ul>"
-    ],
-    [
-     "mk",
-     "\n\n"
-    ]
-   ]
+   "r": 67834,
+   "len": 11,
+   "sha": "d429e686ccace07b",
+   "after": "</li>\n\n</ul>\n\n"
   },
   {
-   "r": 67924,
+   "r": 67925,
    "len": 5,
    "sha": "b8dc660f3c20d4ce",
    "after": "<p>\n\n "
   },
   {
-   "r": 68101,
+   "r": 68102,
    "len": 12,
    "sha": "4770c12571e51b10",
    "after": "</p>\n\n</div> \n\n"

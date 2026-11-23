@@ -5,7 +5,7 @@
  "note": "格式层残差补丁：m=标记段、u=单元布局、r=纯布局区段；禁含散文",
  "stats": {
   "page_bytes": 104888,
-  "pool_bytes": 19114,
+  "pool_bytes": 18988,
   "n_patches": 105
  },
  "patches": [
@@ -23320,82 +23320,15 @@
    "after": "<ul>\n\n "
   },
   {
-   "u": 99502,
-   "len": 134,
-   "sha": "d2510150fb2d4e3b",
-   "items": [
-    [
-     "mk",
-     "<a href=\"https://sites.google.com/site/vaguenesscircle/resources\" target=\"other\">"
-    ],
-    [
-     "tx",
-     0,
-     9
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     9,
-     10
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     19,
-     2
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     21,
-     3
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     24,
-     9
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     33,
-     6
-    ],
-    [
-     "mk",
-     "</a>"
-    ],
-    [
-     "mk",
-     "</li>"
-    ],
-    [
-     "mk",
-     "\n \n "
-    ]
-   ]
+   "r": 99631,
+   "len": 5,
+   "sha": "0683d9779d8c72e8",
+   "after": "</li>\n \n "
   },
   {
    "u": 99640,
    "len": 175,
-   "sha": "9338efe725b2bf46",
+   "sha": "33c92570841de54d",
    "items": [
     [
      "mk",

@@ -4,9 +4,9 @@
  "generated_by": "specs/053 bin/assembly_pool.py",
  "note": "格式层残差补丁：m=标记段、u=单元布局、r=纯布局区段；禁含散文",
  "stats": {
-  "page_bytes": 66477,
-  "pool_bytes": 38802,
-  "n_patches": 96
+  "page_bytes": 66479,
+  "pool_bytes": 38700,
+  "n_patches": 95
  },
  "patches": [
   {
@@ -47873,8 +47873,8 @@
   },
   {
    "u": 60908,
-   "len": 157,
-   "sha": "905398a822fa07e7",
+   "len": 158,
+   "sha": "17f70f75cf1b0670",
    "items": [
     [
      "tx",
@@ -48000,15 +48000,15 @@
    ]
   },
   {
-   "m": 61065,
+   "m": 61066,
    "len": 5,
    "sha": "0683d9779d8c72e8",
    "after": "</li>\n\n"
   },
   {
-   "u": 61074,
-   "len": 128,
-   "sha": "f0f042d22148ee84",
+   "u": 61075,
+   "len": 129,
+   "sha": "ade9b06419870d76",
    "items": [
     [
      "tx",
@@ -48094,74 +48094,31 @@
    ]
   },
   {
-   "m": 61202,
+   "m": 61204,
    "len": 5,
    "sha": "0683d9779d8c72e8",
    "after": "</li>\n \n\n"
   },
   {
-   "u": 61211,
-   "len": 100,
-   "sha": "d8184760cc95aa33",
-   "items": [
-    [
-     "mk",
-     "<a href=\"https://europeanhobbessociety.squarespace.com/\" target=\"other\">"
-    ],
-    [
-     "tx",
-     0,
-     8
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     8,
-     6
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     14,
-     7
-    ],
-    [
-     "mk",
-     "</a>"
-    ],
-    [
-     "tx",
-     21,
-     1
-    ]
-   ]
-  },
-  {
-   "m": 61311,
+   "m": 61313,
    "len": 5,
    "sha": "0683d9779d8c72e8",
    "after": "</li>\n\n"
   },
   {
-   "m": 61316,
+   "m": 61318,
    "len": 6,
    "sha": "bd23c1e7895defe8",
    "after": "</ul>\n\n"
   },
   {
-   "m": 61402,
+   "m": 61404,
    "len": 5,
    "sha": "b8dc660f3c20d4ce",
    "after": "<p>\n\n "
   },
   {
-   "u": 61407,
+   "u": 61409,
    "len": 583,
    "sha": "5602690d83a0e165",
    "items": [
@@ -48580,13 +48537,13 @@
    ]
   },
   {
-   "m": 61990,
+   "m": 61992,
    "len": 5,
    "sha": "d24ff827d6aec3cc",
    "after": "</p>\n\n"
   },
   {
-   "m": 61995,
+   "m": 61997,
    "len": 7,
    "sha": "da73131d8a61fe0d",
    "after": "</div> \n\n\n"

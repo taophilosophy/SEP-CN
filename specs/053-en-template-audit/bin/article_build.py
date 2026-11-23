@@ -108,14 +108,20 @@ def wrap_html(s, width):
             i += len(m.group(0))
         return p[:i], p[i:]
 
-    toks = re.findall(r"<[^>]*>|[^<]+", s)
+    toks = re.findall(r"<a\b[^>]*>.*?</a>|<[^>]*>|[^<]+", s, re.S)
     lines, cur, pend = [], "", ""
     for tk in toks:
-        if tk.startswith("<"):
+        if tk.startswith("<") and not tk.startswith("<a "):
             pend += tk
             continue
-        for idx, word in enumerate(tk.split(" ")):
-            brk = idx > 0
+        # 整锚作一个不可折单元：H0 正文 129,369 条锚里仅 54 条锚文内含换行
+        # （0.04%），折行只发生在锚之前。若让锚文参与词级折行，右逆新插入的
+        # 锚会被从中间折断，而 H0 是整行不折 → 文字层错位（original-position
+        # 判例：`Constructivism,\nObjectivity…`）。
+        _anchor = tk.startswith("<a ")
+        words = [tk] if _anchor else tk.split(" ")
+        for idx, word in enumerate(words):
+            brk = idx > 0 or (_anchor and idx == 0)
             if not word:
                 if brk:
                     cur += pend + " "

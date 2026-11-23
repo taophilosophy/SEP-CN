@@ -5,7 +5,7 @@
  "note": "格式层残差补丁：m=标记段、u=单元布局、r=纯布局区段；禁含散文",
  "stats": {
   "page_bytes": 112554,
-  "pool_bytes": 41723,
+  "pool_bytes": 41581,
   "n_patches": 90
  },
  "patches": [
@@ -52220,100 +52220,15 @@
    "after": "<ul>\n\n "
   },
   {
-   "u": 107282,
-   "len": 147,
-   "sha": "97beb4df2dcf26a6",
-   "items": [
-    [
-     "mk",
-     "<a href=\"http://perturbedintellect.typepad.com/necessarilyeternal/\" target=\"other\">"
-    ],
-    [
-     "tx",
-     0,
-     11
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     11,
-     8
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     19,
-     1
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     20,
-     8
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     28,
-     2
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     30,
-     5
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     35,
-     6
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     41,
-     7
-    ],
-    [
-     "mk",
-     "</a>"
-    ],
-    [
-     "mk",
-     "</li>"
-    ],
-    [
-     "mk",
-     "\n \n "
-    ]
-   ]
+   "r": 107424,
+   "len": 5,
+   "sha": "0683d9779d8c72e8",
+   "after": "</li>\n \n "
   },
   {
    "u": 107433,
    "len": 166,
-   "sha": "fc388cccecea54b1",
+   "sha": "f482ca626e06cac5",
    "items": [
     [
      "mk",

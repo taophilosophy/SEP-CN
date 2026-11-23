@@ -5,7 +5,7 @@
  "note": "格式层残差补丁：m=标记段、u=单元布局、r=纯布局区段；禁含散文",
  "stats": {
   "page_bytes": 84453,
-  "pool_bytes": 25099,
+  "pool_bytes": 24964,
   "n_patches": 84
  },
  "patches": [
@@ -30103,75 +30103,10 @@
    ]
   },
   {
-   "u": 79059,
-   "len": 144,
-   "sha": "e44d4bddf3b929bf",
-   "items": [
-    [
-     "mk",
-     "<a href=\"https://peasoupblog.com/category/discussions/metaethics/practical-rationality/\" target=\"other\">"
-    ],
-    [
-     "tx",
-     0,
-     3
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     3,
-     5
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     8,
-     9
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     17,
-     11
-    ],
-    [
-     "mk",
-     "</a>"
-    ],
-    [
-     "mk",
-     "</li>"
-    ],
-    [
-     "mk",
-     "\n "
-    ],
-    [
-     "mk",
-     "</ul>"
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "mk",
-     "</li>"
-    ],
-    [
-     "mk",
-     "\n"
-    ]
-   ]
+   "r": 79198,
+   "len": 5,
+   "sha": "0683d9779d8c72e8",
+   "after": "</li>\n </ul> </li>\n"
   },
   {
    "r": 79280,

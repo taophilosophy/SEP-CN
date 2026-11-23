@@ -4,7 +4,7 @@
  "generated_by": "specs/053 bin/assembly_pool.py",
  "note": "格式层残差补丁：m=标记段、u=单元布局、r=纯布局区段；禁含散文",
  "stats": {
-  "page_bytes": 88207,
+  "page_bytes": 88209,
   "pool_bytes": 37217,
   "n_patches": 78
  },
@@ -43686,8 +43686,8 @@
   },
   {
    "u": 81034,
-   "len": 538,
-   "sha": "9f3d4afb9e9cb056",
+   "len": 540,
+   "sha": "d7332f9f5755c9f1",
    "items": [
     [
      "tx",
@@ -44046,25 +44046,25 @@
    ]
   },
   {
-   "m": 81572,
+   "m": 81574,
    "len": 5,
    "sha": "0683d9779d8c72e8",
    "after": "</li>\n "
   },
   {
-   "m": 81577,
+   "m": 81579,
    "len": 6,
    "sha": "bd23c1e7895defe8",
    "after": "</ul>\n\n"
   },
   {
-   "m": 81714,
+   "m": 81716,
    "len": 5,
    "sha": "b8dc660f3c20d4ce",
    "after": "<p>\n\n "
   },
   {
-   "u": 81719,
+   "u": 81721,
    "len": 2039,
    "sha": "e0c2b7ffccfc48c5",
    "items": [
@@ -45541,7 +45541,7 @@
    ]
   },
   {
-   "m": 83763,
+   "m": 83765,
    "len": 7,
    "sha": "da73131d8a61fe0d",
    "after": "</div> \n"

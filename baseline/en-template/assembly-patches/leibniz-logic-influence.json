@@ -5,7 +5,7 @@
  "note": "格式层残差补丁：m=标记段、u=单元布局、r=纯布局区段；禁含散文",
  "stats": {
   "page_bytes": 61703,
-  "pool_bytes": 24571,
+  "pool_bytes": 24432,
   "n_patches": 68
  },
  "patches": [
@@ -30048,55 +30048,10 @@
    "after": "<ul>\n\n "
   },
   {
-   "u": 56903,
-   "len": 144,
-   "sha": "ba0d6f1bd0b98f14",
-   "items": [
-    [
-     "mk",
-     "<a href=\"http://www.gottfried-wilhelm-leibniz-gesellschaft.de/leibniz-digital-resources.html\" target=\"other\">"
-    ],
-    [
-     "tx",
-     0,
-     7
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     7,
-     7
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     14,
-     9
-    ],
-    [
-     "mk",
-     "</a>"
-    ],
-    [
-     "tx",
-     23,
-     1
-    ],
-    [
-     "mk",
-     "</li>"
-    ],
-    [
-     "mk",
-     "\n "
-    ]
-   ]
+   "r": 57042,
+   "len": 5,
+   "sha": "0683d9779d8c72e8",
+   "after": "</li>\n "
   },
   {
    "u": 57133,

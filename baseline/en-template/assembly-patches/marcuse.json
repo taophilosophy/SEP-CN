@@ -5,8 +5,8 @@
  "note": "格式层残差补丁：m=标记段、u=单元布局、r=纯布局区段；禁含散文",
  "stats": {
   "page_bytes": 107189,
-  "pool_bytes": 61964,
-  "n_patches": 190
+  "pool_bytes": 61550,
+  "n_patches": 186
  },
  "patches": [
   {
@@ -77935,122 +77935,10 @@
    "after": "<ul>\n\n "
   },
   {
-   "u": 101699,
-   "len": 134,
-   "sha": "cbbb5cc39a23e6e3",
-   "items": [
-    [
-     "mk",
-     "<a href=\"http://pages.gseis.ucla.edu/faculty/kellner/Illumina%20Folder/\" target=\"other\">"
-    ],
-    [
-     "tx",
-     0,
-     14
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     14,
-     3
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     17,
-     8
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     25,
-     6
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     31,
-     7
-    ],
-    [
-     "mk",
-     "</a>"
-    ]
-   ]
-  },
-  {
    "m": 101833,
    "len": 5,
    "sha": "0683d9779d8c72e8",
    "after": "</li>\n \n "
-  },
-  {
-   "u": 101842,
-   "len": 116,
-   "sha": "ae832c46bdcaaa06",
-   "items": [
-    [
-     "mk",
-     "<a href=\"http://www.marxists.org/reference/archive/marcuse/\" target=\"other\">"
-    ],
-    [
-     "tx",
-     0,
-     3
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     3,
-     7
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     10,
-     7
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     17,
-     8
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     25,
-     7
-    ],
-    [
-     "mk",
-     "</a>"
-    ]
-   ]
   },
   {
    "m": 101958,
@@ -78059,104 +77947,10 @@
    "after": "</li>\n \n "
   },
   {
-   "u": 101967,
-   "len": 94,
-   "sha": "86e4c91f87dfc07a",
-   "items": [
-    [
-     "mk",
-     "<a href=\"http://www.marcuse.org/herbert/\" target=\"other\">"
-    ],
-    [
-     "tx",
-     0,
-     7
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     7,
-     7
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     14,
-     8
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     22,
-     8
-    ],
-    [
-     "mk",
-     "</a>"
-    ]
-   ]
-  },
-  {
    "m": 102061,
    "len": 5,
    "sha": "0683d9779d8c72e8",
    "after": "</li>\n \n "
-  },
-  {
-   "u": 102070,
-   "len": 96,
-   "sha": "2420244e7e2571e3",
-   "items": [
-    [
-     "mk",
-     "<a href=\"http://www.marcusesociety.org\" target=\"other\">"
-    ],
-    [
-     "tx",
-     0,
-     13
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     13,
-     7
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     20,
-     7
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     27,
-     7
-    ],
-    [
-     "mk",
-     "</a>"
-    ]
-   ]
   },
   {
    "m": 102166,

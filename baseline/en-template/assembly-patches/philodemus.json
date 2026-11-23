@@ -4,8 +4,8 @@
  "generated_by": "specs/053 bin/assembly_pool.py",
  "note": "格式层残差补丁：m=标记段、u=单元布局、r=纯布局区段；禁含散文",
  "stats": {
-  "page_bytes": 137253,
-  "pool_bytes": 126534,
+  "page_bytes": 137254,
+  "pool_bytes": 126178,
   "n_patches": 172
  },
  "patches": [
@@ -154780,77 +154780,15 @@
    ]
   },
   {
-   "u": 130021,
-   "len": 102,
-   "sha": "5f90358747873f20",
-   "items": [
-    [
-     "mk",
-     "<a href=\"http://www.herculaneum.ox.ac.uk/?q=books\" target=\"other\">"
-    ],
-    [
-     "tx",
-     0,
-     3
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     3,
-     5
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     8,
-     4
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     12,
-     11
-    ],
-    [
-     "mk",
-     "</a>"
-    ],
-    [
-     "tx",
-     23,
-     1
-    ],
-    [
-     "mk",
-     "</li>"
-    ],
-    [
-     "mk",
-     "\n\n"
-    ],
-    [
-     "mk",
-     "<!--LINK CHECKER COMMENTED OUT (Sun Sep 17 11:47:01 PDT 2023)\n\n<li><a href=\"https://bsa.univ-lille3.fr/philodemus.html\" target=\"other\">Philodemus une bibliographie des principales oeuvres de Philod&egrave;me de Gadara</a>,\n  by Annick Monet.</li>\n\nLINK CHECKER-->"
-    ],
-    [
-     "mk",
-     "\n\n"
-    ]
-   ]
+   "r": 130118,
+   "len": 5,
+   "sha": "0683d9779d8c72e8",
+   "after": "</li>\n\n<!--LINK CHECKER COMMENTED OUT (Sun Sep 17 11:47:01 PDT 2023)\n\n<li><a href=\"https://bsa.univ-lille3.fr/philodemus.html\" target=\"other\">Philodemus une bibliographie des principales oeuvres de Philod&egrave;me de Gadara</a>,\n  by Annick Monet.</li>\n\nLINK CHECKER-->\n\n"
   },
   {
    "u": 130127,
    "len": 302,
-   "sha": "ffa7e8688d215888",
+   "sha": "ffe8af4ee9edfd93",
    "items": [
     [
      "mk",
@@ -155729,7 +155667,7 @@
   {
    "u": 130975,
    "len": 441,
-   "sha": "a05623d66e60e433",
+   "sha": "52d9805c9ffed325",
    "items": [
     [
      "mk",
@@ -156295,244 +156233,15 @@
    ]
   },
   {
-   "u": 131456,
-   "len": 249,
-   "sha": "cd275356ade39b55",
-   "items": [
-    [
-     "mk",
-     "<a href=\"http://www.classics.ucla.edu/index.php/philodemus\" target=\"other\">"
-    ],
-    [
-     "tx",
-     0,
-     10
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     10,
-     11
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     21,
-     7
-    ],
-    [
-     "mk",
-     "</a>"
-    ],
-    [
-     "tx",
-     28,
-     1
-    ],
-    [
-     "mk",
-     "\n"
-    ],
-    [
-     "tx",
-     29,
-     1
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     30,
-     4
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     34,
-     6
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     40,
-     2
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     42,
-     3
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     45,
-     8
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     53,
-     10
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     63,
-     2
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     65,
-     5
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     70,
-     4
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     74,
-     6
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     80,
-     3
-    ],
-    [
-     "mk",
-     "\n"
-    ],
-    [
-     "tx",
-     83,
-     12
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     95,
-     2
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     97,
-     4
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     101,
-     6
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     107,
-     2
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     109,
-     17
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "mk",
-     "<em>"
-    ],
-    [
-     "tx",
-     126,
-     8
-    ],
-    [
-     "mk",
-     "</em>"
-    ],
-    [
-     "tx",
-     134,
-     1
-    ],
-    [
-     "mk",
-     "</li>"
-    ],
-    [
-     "mk",
-     "\n\n"
-    ]
-   ]
+   "r": 131700,
+   "len": 5,
+   "sha": "0683d9779d8c72e8",
+   "after": "</li>\n\n"
   },
   {
    "u": 131709,
-   "len": 511,
-   "sha": "1f25fc138fa39aab",
+   "len": 512,
+   "sha": "03b8d29a8d4c993b",
    "items": [
     [
      "mk",
@@ -156913,9 +156622,9 @@
    ]
   },
   {
-   "u": 132224,
+   "u": 132225,
    "len": 245,
-   "sha": "7bf21b490560c983",
+   "sha": "ae11660b1816bd7e",
    "items": [
     [
      "mk",
@@ -157152,19 +156861,19 @@
    ]
   },
   {
-   "r": 132549,
+   "r": 132550,
    "len": 5,
    "sha": "b8dc660f3c20d4ce",
    "after": "<p>\n\n "
   },
   {
-   "r": 132760,
+   "r": 132761,
    "len": 5,
    "sha": "d24ff827d6aec3cc",
    "after": "</p>\n\n"
   },
   {
-   "u": 132830,
+   "u": 132831,
    "len": 208,
    "sha": "70c5fa1bfbcbc2b1",
    "items": [

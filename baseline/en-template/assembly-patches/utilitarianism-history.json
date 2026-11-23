@@ -5,7 +5,7 @@
  "note": "格式层残差补丁：m=标记段、u=单元布局、r=纯布局区段；禁含散文",
  "stats": {
   "page_bytes": 87570,
-  "pool_bytes": 30447,
+  "pool_bytes": 30359,
   "n_patches": 70
  },
  "patches": [
@@ -37355,58 +37355,10 @@
    "after": "<ul>\n\n"
   },
   {
-   "u": 82229,
-   "len": 98,
-   "sha": "82bb5e41cd7a867c",
-   "items": [
-    [
-     "mk",
-     "<a href=\"https://www.ucl.ac.uk/bentham-project/\" target=\"other\">"
-    ],
-    [
-     "tx",
-     0,
-     3
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     3,
-     7
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     10,
-     7
-    ],
-    [
-     "mk",
-     "</a>"
-    ],
-    [
-     "mk",
-     "</li>"
-    ],
-    [
-     "mk",
-     "\n\n"
-    ],
-    [
-     "mk",
-     "</ul>"
-    ],
-    [
-     "mk",
-     " \n\n"
-    ]
-   ]
+   "r": 82316,
+   "len": 11,
+   "sha": "d429e686ccace07b",
+   "after": "</li>\n\n</ul> \n\n"
   },
   {
    "u": 82407,

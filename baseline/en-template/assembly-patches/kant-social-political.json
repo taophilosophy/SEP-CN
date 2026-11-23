@@ -5,8 +5,8 @@
  "note": "格式层残差补丁：m=标记段、u=单元布局、r=纯布局区段；禁含散文",
  "stats": {
   "page_bytes": 109348,
-  "pool_bytes": 23762,
-  "n_patches": 93
+  "pool_bytes": 23676,
+  "n_patches": 92
  },
  "patches": [
   {
@@ -28570,53 +28570,6 @@
    "len": 4,
    "sha": "82f4fb72c5b57add",
    "after": "<ul>\n "
-  },
-  {
-   "u": 103981,
-   "len": 86,
-   "sha": "a69af2889e22674e",
-   "items": [
-    [
-     "mk",
-     "<a href=\"http://www.sandiego.edu/naks/\" target=\"other\">"
-    ],
-    [
-     "tx",
-     0,
-     5
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     5,
-     8
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     13,
-     4
-    ],
-    [
-     "mk",
-     " "
-    ],
-    [
-     "tx",
-     17,
-     7
-    ],
-    [
-     "mk",
-     "</a>"
-    ]
-   ]
   },
   {
    "m": 104067,
