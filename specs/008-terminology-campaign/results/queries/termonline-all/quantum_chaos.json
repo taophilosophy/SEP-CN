@@ -1,0 +1,692 @@
+{
+ "key": "quantum chaos",
+ "term": "quantum chaos",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T02:57:21+00:00",
+ "status": "ok",
+ "note": "variant=quantum chaos; 审定公布名词库=510; 海峡两岸名词对照库=70; 其他来源数据库=121; 预公布名词数据库=16; jwt-direct（JWT 直连，raw 略；已滤维基 8 条）",
+ "hits": [
+  {
+   "cn": "量子混沌",
+   "en": "quantum chaos",
+   "source": "物理学名词",
+   "wordNumber": "11.0563",
+   "subjectFullName": "物理学_交叉学科_非线性物理学",
+   "subjectName": "非线性物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "混沌",
+   "en": "chaos",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.714",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_复杂系统科学哲学",
+   "subjectName": "复杂系统科学哲学",
+   "publishYear": "2024",
+   "definition": "非线性动力系统在远离平衡态的条件下，经过多次分叉达到的一种运动状态。"
+  },
+  {
+   "cn": "混沌",
+   "en": "chaos",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1632",
+   "subjectFullName": "地球物理学_地震科学_震源",
+   "subjectName": "震源",
+   "publishYear": "2022",
+   "definition": "古人用以描述各种形式的无规性的一个术语。在现代非线性科学中，混沌用以描述确定性动力学的不规则、不可预测的看上去是随机的行为。 "
+  },
+  {
+   "cn": "混沌",
+   "en": "chaos",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "02.0083",
+   "subjectFullName": "机械工程（一）_机械动力学_机械振动",
+   "subjectName": "机械振动",
+   "publishYear": "2021",
+   "definition": "在确定性的非线性动态系统中出现的貌似随机的、不能预测的运动。它对初始条件有极其强烈的敏感性。"
+  },
+  {
+   "cn": "混沌",
+   "en": "chaos",
+   "source": "物理学名词",
+   "wordNumber": "11.0553",
+   "subjectFullName": "物理学_交叉学科_非线性物理学",
+   "subjectName": "非线性物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "混沌",
+   "en": "chaos",
+   "source": "生物物理学名词",
+   "wordNumber": "01.034",
+   "subjectFullName": "生物物理学_概论",
+   "subjectName": "概论",
+   "publishYear": "2018",
+   "definition": "确定性非线性系统表现出的貌似随机的长期行为，对初始条件极端敏感，初始条件的微小差异会引起系统的长期行为产生很大变化，由此不可能预测这种行为的长期状态。混沌行为在相空间会表现出分形结构。"
+  },
+  {
+   "cn": "混沌",
+   "en": "chaos",
+   "source": "大气科学名词",
+   "wordNumber": "05.434",
+   "subjectFullName": "大气科学_动力气象学",
+   "subjectName": "动力气象学",
+   "publishYear": "2009",
+   "definition": "非线性确定性系统中，由于系统内部非线性相互作用而产生的一种非周期的行为。例如,大气由热对流导致的湍流就是一种混沌现象。"
+  },
+  {
+   "cn": "混沌",
+   "en": "chaos",
+   "source": "生态学名词",
+   "wordNumber": "10.098",
+   "subjectFullName": "生态学_数学生态学",
+   "subjectName": "数学生态学",
+   "publishYear": "2006",
+   "definition": "对初始条件敏感的非线性确定性系统的动态，具有正的李雅普诺夫指数。"
+  },
+  {
+   "cn": "混沌",
+   "en": "chaos",
+   "source": "地理学名词",
+   "wordNumber": "25.036",
+   "subjectFullName": "地理学_数量地理学",
+   "subjectName": "数量地理学",
+   "publishYear": "2006",
+   "definition": "对初始状态敏感，表现似周期、非周期和不可预报性的过程。"
+  },
+  {
+   "cn": "混沌",
+   "en": "chaos",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_其他力学",
+   "subjectName": "其他力学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "混沌",
+   "en": "chaos",
+   "source": "数学名词",
+   "wordNumber": "06.0151",
+   "subjectFullName": "数学_微分方程_积分方程_常微分方程",
+   "subjectName": "常微分方程",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "混沌",
+   "en": "chaos",
+   "source": "电子学名词",
+   "wordNumber": "03.448",
+   "subjectFullName": "电子学_电子线路与网络",
+   "subjectName": "电子线路与网络",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "混沌",
+   "en": "chaos",
+   "source": "自动化名词",
+   "wordNumber": "03.195",
+   "subjectFullName": "自动化科学技术_自动化技术系统_大系统",
+   "subjectName": "大系统",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "光学混沌",
+   "en": "optical chaos",
+   "source": "光学名词",
+   "wordNumber": "02.014",
+   "subjectFullName": "光学_非线性光学与量子光学",
+   "subjectName": "非线性光学与量子光学",
+   "publishYear": "2021",
+   "definition": "当光学系统在定态输入光场时，其输出光场不再处于定态，而是处于紊乱的、非周期性的状态。属于许多非线性光学系统固有的物理特性。"
+  },
+  {
+   "cn": "暂态混沌",
+   "en": "transient chaos",
+   "source": "物理学名词",
+   "wordNumber": "11.0556",
+   "subjectFullName": "物理学_交叉学科_非线性物理学",
+   "subjectName": "非线性物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "阵发混沌",
+   "en": "intermittency chaos",
+   "source": "物理学名词",
+   "wordNumber": "11.0555",
+   "subjectFullName": "物理学_交叉学科_非线性物理学",
+   "subjectName": "非线性物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "混沌同步",
+   "en": "chaos synchronization",
+   "source": "物理学名词",
+   "wordNumber": "11.0617",
+   "subjectFullName": "物理学_交叉学科_非线性物理学",
+   "subjectName": "非线性物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "动力学混沌",
+   "en": "dynamical chaos",
+   "source": "物理学名词",
+   "wordNumber": "11.0557",
+   "subjectFullName": "物理学_交叉学科_非线性物理学",
+   "subjectName": "非线性物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "混沌理论",
+   "en": "chaos theory",
+   "source": "生物物理学名词",
+   "wordNumber": "01.035",
+   "subjectFullName": "生物物理学_概论",
+   "subjectName": "概论",
+   "publishYear": "2018",
+   "definition": "研究一些对初始条件极为敏感的动态系统行为的理论。在这些系统中，初始条件的一个小小的变化(如数值计算中的四舍五入)即可造成偏离巨大的不同结果，致使不能预测这些系统的远期行为。可用于物理学、工程、经济、生"
+  },
+  {
+   "cn": "混沌控制",
+   "en": "chaos control",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0829",
+   "subjectFullName": "计算机科学技术_计算机应用_计算机控制",
+   "subjectName": "计算机控制",
+   "publishYear": "2018",
+   "definition": "混沌控制方法有两种：一是通过合适方法，有效抑制混沌行为；二是选择具有期望行为的轨道作为控制目标。"
+  },
+  {
+   "cn": "混沌",
+   "en": "chaos",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "混沌",
+   "en": "chaos",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "混沌",
+   "en": "chaos",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "混沌",
+   "en": "chaos",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "混沌理论",
+   "en": "chaos theory",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "化学混沌",
+   "en": "chemical chaos",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "量子",
+   "en": "quantum",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "赵［广绪］-西得方法",
+   "en": "Chao-Seader method",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "量子产额（=量子产率）",
+   "en": "quantum yield",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "量子产率，量子产额",
+   "en": "quantum yield",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "量子[式]进化",
+   "en": "quantum evolution",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "量子效率",
+   "en": "quantum efficiency",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "量子需求量",
+   "en": "quantum requirement",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "量子理论",
+   "en": "quantum theory",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "量子效应",
+   "en": "quantum effect",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "量子微腔",
+   "en": "quantum microcavity",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "量子线",
+   "en": "quantum wire",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "量子效率",
+   "en": "quantum efficiency",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "量子宇宙",
+   "en": "quantum universe",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "量子宇宙论",
+   "en": "quantum cosmology",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "量子混沌",
+   "en": "quantum chaos",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "浑沌",
+   "en": "Chaos",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "混沌理论",
+   "en": "chaos theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量子",
+   "en": "quantum",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量子科技",
+   "en": "Quantum Technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量子力学",
+   "en": "quantum mechanics",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量子引力",
+   "en": "quantum gravity",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量子效应",
+   "en": "quantum effect",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量子密码学",
+   "en": "quantum cryptography",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量子计算",
+   "en": "Quantum Computing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量子比特",
+   "en": "quantum bit",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "量子态",
+   "en": "quantum state",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "拨乱反正",
+   "en": "bring order out of chaos",
+   "source": "马克思主义",
+   "wordNumber": "04.0134",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "在粉碎“四人帮”后，中国共产党重新恢复党的实事求是的思想路线，纠正“文化大革命”错误，彻底扭转十年内乱造成的严重局势，实现吧工作着重点转移到社会主义现代化建设上来的一系列重大举措。“拨乱反正”，是从1"
+  },
+  {
+   "cn": "治乱说",
+   "en": "alternate cycle of chaos and order",
+   "source": "社会学名词",
+   "wordNumber": "1.1.1.10",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国古代社会思想",
+   "subjectName": "中国古代社会思想",
+   "publishYear": "2025",
+   "definition": "解释王朝历史兴衰更替的中国传统史观。由孟子最早提出的一种学说，认为“天下之生久矣，一治一乱”，是对春秋战国历史演变的总结。后世演变成中国传统史观，用以考察历史上朝代更迭形成的一治一乱的循环进程。这种史"
+  },
+  {
+   "cn": "占人",
+   "en": "Chams",
+   "source": "民族学与文化学名词",
+   "wordNumber": "6.0191",
+   "subjectFullName": "民族学与文化学_世界民族_亚洲地区",
+   "subjectName": "亚洲地区",
+   "publishYear": "2025",
+   "definition": "亚洲中南半岛民族之一。主要分布在柬埔寨、越南，少数分布在老挝和泰国。属蒙古人种南亚类型。操占语，属南岛语系印度尼西亚语族。保留母系社会残余，妇女在宗教祭祀中处于重要地位。居住在越南中部以南沿海一带的占"
+  },
+  {
+   "cn": "七教传承",
+   "en": "Chos gtad bdun",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0478",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏传佛教教法传承。宁玛派蒋扬钦哲旺波（1820 年—1892 年）和德钦秀波林巴（1829 年—1871 年）两位伏藏大师各自由教藏、伏藏和净相中分出的七种密法传承，包括：1，教藏远传；2，地伏藏；3"
+  },
+  {
+   "cn": "管・法成",
+   "en": "Vgos chos grub",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0392",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏传佛教学者、翻译家。公元8-9 世纪人，属后藏贵族管氏家族。公元833 年始至848 年在沙州（今敦煌）、甘州等地译经传法。译著共计23 种，其中汉译藏的有14 种，藏译汉的有5 种，集录和讲述的4"
+  },
+  {
+   "cn": "世间形成法",
+   "en": "Srid pavi chags rabs",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0494",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏传佛教术语。佛教关于所依外器世间和能依内情世间形成的说法。佛教认为，外器世间自下而上由清净天空、风轮、水轮、金质地基等构成，中央有须弥山及七重金山等，上有四大天众王、33 界及四欲天、四禅天等。内情"
+  },
+  {
+   "cn": "大乘法王",
+   "en": "Theg chen chos rje",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0431",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏传佛教封号称谓，1413 年萨迦派高僧贡噶扎西（汉籍中称昆泽思巴）应明朝廷之邀抵达南京，被明成祖封为“万行圆融妙法最胜真如慧智弘慈广济护国演教正觉大乘法王西天上善金刚普应大光明佛领天下释教”，简称“"
+  },
+  {
+   "cn": "大慈法王",
+   "en": "Byams chen chos rje",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.043",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏传佛教封号称谓，大慈法王·释迦益西（1354－1435 年），格鲁派高僧，曾经代表宗喀巴到京谒见明成祖，回藏后创建色拉寺。曾作永乐、宣德两代的国师，宣德9 年（1434），受封为大慈法王，全称：“万"
+  },
+  {
+   "cn": "《安多政教史》",
+   "en": "A mdo chos vbyung",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0373",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏族历史名著，札贡巴·贡却丹巴饶杰（1801 一？）著，成书于1865 年，专门叙述了安多地区佛教发展历史、政治、文化、经济、教育等，本书序论中录有600 余条藏文史传总目。"
+  },
+  {
+   "cn": "顿渐之诤",
+   "en": "Ston rtsen chos rtsod",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0579",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏族历史名词，指公元8 世纪末吐蕃顿、渐佛教两派之间的论争。顿门以汉地禅宗僧人大乘和尚为代表，渐门以印度佛教僧人莲花戒为代表，据传双方约在792～794 年间﹐分别在拉萨和桑耶寺二地进行辩论﹐由吐蕃赞"
+  },
+  {
+   "cn": "《觉囊派教法史》",
+   "en": "Jo nang chos vbyung",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0379",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "一部系统介绍藏传佛教觉囊派发展史的著作，全称《吉祥觉囊派教法源流佛法显扬明灯》，扎巴著，成书年代不详。全书分两大部分，主要阐述佛教在印度的产生发展和觉囊派的形成以及向外传播过程，还记录了寺院活佛系统、"
+  },
+  {
+   "cn": "那若六法",
+   "en": "Na ro chos drug",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0473",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏传佛教术语。为藏传佛教噶举派所修密法，因那若巴把底洛巴的“四大语旨教授”归纳为六法,故称“那若六法，由玛尔巴（1012 年—1097 年）传入西藏。六法指：脐火瑜伽、光明、幻身、中有、往生、夺舍。那"
+  },
+  {
+   "cn": "大宝法王",
+   "en": "Rin chen chos rje",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.044",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏传佛教封号称谓。1406 年，噶玛噶举黑帽系第五世活佛得银协巴（1384 年—1415 年）应明朝永乐皇帝之邀抵达南京，受到明成祖的盛情款待，并受封为万行具足十方最胜圆觉妙智慧善普应佑国演教如来大宝"
+  },
+  {
+   "cn": "道德规范十六条",
+   "en": "Mi chos gtsang ma so drug",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0445",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "藏学名词。是吐蕃赞普松赞干布为吐蕃民众制定的道德规范条文，其内容如下：1 敬信三宝；2.求修正法；3.报父母恩；4.尊重；5 敬贵尊老；6.利济乡邻；7.直言小心；8.义深亲友；9.追踪上流，远虑高瞻"
+  },
+  {
+   "cn": "《青史》",
+   "en": "Bod-kyi yul-du chos-dang chos-smra-ba ji-ltarbyung-bavi rim-pa Deb-ther sngon-po",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0297",
+   "subjectFullName": "民族学与文化学_民族史_民族文化",
+   "subjectName": "民族文化",
+   "publishYear": "2025",
+   "definition": "全称《青史佛教教法源流》。成书于明成化十二年（1476）。记述了西藏佛教传播的历史，是一部重要的藏族历史文献，作者为古代藏族著名翻译家、大学者管·宣奴贝（vgos lo-tsav-ba gzhon-n"
+  },
+  {
+   "cn": "巴楚仁波切",
+   "en": "Dpal sprul rin po che/Dpal sprul vjigs med chos kyi dbang po",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0382",
+   "subjectFullName": "民族学与文化学_民族史_藏学",
+   "subjectName": "藏学",
+   "publishYear": "2025",
+   "definition": "（1808-1887）藏传佛教著名人物，藏传佛教名著《普贤上师言教》的作者，四川甘孜石渠县人，是一位获得密法成就的杰出的密宗导师，其根本上师为著名的密宗导师吉美嘉威纽古，他是吉美林巴的主要弟子之一。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

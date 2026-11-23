@@ -1,0 +1,772 @@
+{
+ "key": "perfect recall",
+ "term": "perfect recall",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T02:56:55+00:00",
+ "status": "ok",
+ "note": "variant=perfect recall; 审定公布名词库=3839; 海峡两岸名词对照库=1246; 其他来源数据库=124; 预公布名词数据库=191; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "完美记忆",
+   "en": "perfect recall",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0015",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "认知逻辑中对智能体的一种假设。认为智能体可以记住系统运行的所有状态信息。"
+  },
+  {
+   "cn": "全记忆对策",
+   "en": "game with perfect recall",
+   "source": "数学名词",
+   "wordNumber": "011.0479",
+   "subjectFullName": "数学_运筹学_对策论",
+   "subjectName": "对策论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "回忆",
+   "en": "recall",
+   "source": "行为医学名词",
+   "wordNumber": "4.035",
+   "subjectFullName": "行为医学_行为的心理学基础_认知与行为",
+   "subjectName": "认知与行为",
+   "publishYear": "2022",
+   "definition": "当原来的识记材料或接触过的事物不在当前环境中时，仍然能从记忆系统中提取出相应信息的过程。"
+  },
+  {
+   "cn": "催还",
+   "en": "recall",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "07.161",
+   "subjectFullName": "图书馆·情报与文献学_信息服务与用户研究_外借服务",
+   "subjectName": "外借服务",
+   "publishYear": "2019",
+   "definition": "由于所借图书即将到达或已经超过借阅期限，或因其他特殊原因，图书馆催促借书人归还外借图书的行为。"
+  },
+  {
+   "cn": "回忆",
+   "en": "recall",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "06.109",
+   "subjectFullName": "阿尔茨海默病_治疗与康复_护理与康复",
+   "subjectName": "护理与康复",
+   "publishYear": "2019",
+   "definition": "对过去发生的事或物在大脑中再现的过程。"
+  },
+  {
+   "cn": "查全率",
+   "en": "recall",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0486",
+   "subjectFullName": "计算机科学技术_数据库_数据库新技术",
+   "subjectName": "数据库新技术",
+   "publishYear": "2018",
+   "definition": "信息检索领域中衡量检索结果的指标，反映真实的数据在多大程度上包含在检索结果中。"
+  },
+  {
+   "cn": "召回率",
+   "en": "recall",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0610",
+   "subjectFullName": "计算机科学技术_人工智能_计算语言学",
+   "subjectName": "计算语言学",
+   "publishYear": "2018",
+   "definition": "语言信息处理系统性能评价指标之一。是机器正确发现的实体数量占标准答案中实体数量的百分比，用来衡量机器自动处理的完全性。"
+  },
+  {
+   "cn": "回忆",
+   "en": "recall",
+   "source": "心理学名词",
+   "wordNumber": "02.562",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "当原来的识记材料或接触过的事物不在当前环境中时，仍能从记忆系统中提取出相应信息的过程。"
+  },
+  {
+   "cn": "召回",
+   "en": "recall",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "01.054",
+   "subjectFullName": "机械工程_汽车_一般名词_环保、法规和试验",
+   "subjectName": "环保、法规和试验",
+   "publishYear": "2013",
+   "definition": "经型式认证的汽车，在使用过程中如发现零部件出现一定比例的故障而影响到其使用性能时，汽车制造厂回收此车型的车辆，对所有该型在用车进行修正的一种行为。"
+  },
+  {
+   "cn": "召回率",
+   "en": "recall,labeled recall",
+   "source": "语言学名词",
+   "wordNumber": "11.245",
+   "subjectFullName": "语言学_计算语言学_应用系统",
+   "subjectName": "应用系统",
+   "publishYear": "2011",
+   "definition": "在信息检索、模式识别等领域中用于测试系统性能的指标。是识别或检索结果中的相关样例数与系统中的相关样例总数的比值，其值越高则召回率越高，系统性能越好。与之相关的是精确率。"
+  },
+  {
+   "cn": "自主回忆",
+   "en": "unaided recall;spontaneous recall",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "19.2",
+   "subjectFullName": "新闻学与传播学_传媒经济_传媒经济研究",
+   "subjectName": "传媒经济研究",
+   "publishYear": "2022",
+   "definition": "在不提示品牌或广告的情况下测定品牌的受众知晓度的分析方法。"
+  },
+  {
+   "cn": "产品召回",
+   "en": "product recall",
+   "source": "农学名词",
+   "wordNumber": "19.132",
+   "subjectFullName": "农业经济与管理_农业市场与贸易",
+   "subjectName": "农业市场与贸易",
+   "publishYear": "2025",
+   "definition": "产品出现可能对消费者的安全造成重大品质或安全问题时，公告客户退回产品、更换产品或消除安全问题的措施过程。"
+  },
+  {
+   "cn": "食品召回",
+   "en": "food recall",
+   "source": "食品科学技术名词",
+   "wordNumber": "04.0394",
+   "subjectFullName": "食品科学技术_食品安全_食品安全管理_过程控制",
+   "subjectName": "过程控制",
+   "publishYear": "2020",
+   "definition": "食品生产者按照规定程序，对由其生产原因造成的某一批次或类别的不安全食品，通过换货、退货、补充或修正消费说明等方式，及时消除或减少食品安全风险的活动。"
+  },
+  {
+   "cn": "查全率",
+   "en": "recall ratio",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.159",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_检索技术与方法",
+   "subjectName": "检索技术与方法",
+   "publishYear": "2019",
+   "definition": "某一检索系统检索出的相关文献数与该检索系统中相关文献总数之比。体现系统从特定文献集合中检出相关文献的能力，是衡量一个检索系统避免漏检的能力的指标。"
+  },
+  {
+   "cn": "查全率",
+   "en": "recall ratio",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0546",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_图书情报档案领域",
+   "subjectName": "图书情报档案领域",
+   "publishYear": "2016",
+   "definition": "检索出的信息的数量与检索系统中相关信息总量之间的比率。"
+  },
+  {
+   "cn": "自由回忆",
+   "en": "free recall",
+   "source": "心理学名词",
+   "wordNumber": "02.563",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "要求被试尽可能多地回忆出原先识记的项目的过程。"
+  },
+  {
+   "cn": "系列回忆",
+   "en": "serial recall",
+   "source": "心理学名词",
+   "wordNumber": "02.564",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "要求被试按识记顺序提取项目的过程。"
+  },
+  {
+   "cn": "线索回忆",
+   "en": "cued recall",
+   "source": "心理学名词",
+   "wordNumber": "02.565",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "要求被试借助提取线索而进行回忆的过程。"
+  },
+  {
+   "cn": "回忆法",
+   "en": "recall method",
+   "source": "心理学名词",
+   "wordNumber": "02.566",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "原来识记的材料不在当前环境中时，要求被试把它提取出来的一种记忆研究的实验方法。"
+  },
+  {
+   "cn": "药品召回",
+   "en": "drug recall",
+   "source": "药学名词",
+   "wordNumber": "09.077",
+   "subjectFullName": "药学_药事管理",
+   "subjectName": "药事管理",
+   "publishYear": "2014",
+   "definition": "药品生产企业(包括进口药品的境外制药厂商)按照规定的程序收回已上市销售的存在安全隐患的药品。"
+  },
+  {
+   "cn": "回忆",
+   "en": "recall",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "重叫，二次呼叫",
+   "en": "recall",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自由回忆",
+   "en": "free recall",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "序列回忆,系列回忆",
+   "en": "serial recall",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "线索回忆",
+   "en": "cued recall",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "回忆法,再现法",
+   "en": "recall method",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "应答浮标",
+   "en": "recall buoy",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "理想预报，完全预报",
+   "en": "perfect forecast\",\"perfect prediction",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "完全真菌",
+   "en": "perfect fungus",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "完全解偶",
+   "en": "perfect decoupling",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "完全控制",
+   "en": "perfect control",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "完全相关",
+   "en": "perfect correlation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "完全歧视",
+   "en": "perfect discrimination",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "完全吸收体",
+   "en": "perfect absorber",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "理想媒质",
+   "en": "perfect medium",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "全混洗",
+   "en": "perfect shuffle",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "完美晶体",
+   "en": "perfect crystal",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "完全保密",
+   "en": "perfect secrecy",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "完全位错",
+   "en": "perfect dislocation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "理想气体",
+   "en": "perfect gas",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "召回发令员",
+   "en": "recaller",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "召回枪响",
+   "en": "recall shot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "个别召回",
+   "en": "individual recall",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "全体召回",
+   "en": "general recall",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "妙造自然",
+   "en": "Perfect Naturalness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "全体召回信号",
+   "en": "general recall signal",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "CT影像",
+   "en": "computed tomography imaging",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.1-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第1部分：公用的语法规则》",
+   "en": "GB/T 14805.1-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 1: Syntax rules common to all parts",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.2-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第2部分：批式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.2-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 2: Syntax rules specific to batch EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.3-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第3部分：交互式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.3-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 3: Syntax rules specific to interactive EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.7-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第7部分：批式电子数据交换安全规则（保密性）》",
+   "en": "GB/T 14805.7-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 7: Security rules for batch EDI (Confidentiality)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.6-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第6部分：安全鉴别和确认报文（报文类型为AUTACK）》",
+   "en": "GB/T 14805.6-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 6: Secure authentication and acknowledgment  message (Message type — AUTACK)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.4-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第4部分：批式电子数据交换语法和服务报告报文（报文类型为CONTRL）》",
+   "en": "GB/T 14805.4-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 4: Syntax and service report message for batch EDI (Message type — CONTRL)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.5-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第5部分：批式电子数据交换安全规则（真实性、完整性和源抗抵赖性）》",
+   "en": "GB/T 14805.5-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 5: Security rules for batch EDI (Authenticity, integrity and non-repudiation of origin)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "后坐力",
+   "en": "kick\",\"recoil",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "无界零售",
+   "en": "unbounded retail",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "回忆偏倚",
+   "en": "recall bias",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.1.5.5",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "由于研究对象对暴露史或既往史回忆的准确性和完整性存在差异而产生的系统误差。"
+  },
+  {
+   "cn": "膳食回顾法",
+   "en": "dietary recall",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.1.3.2.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_学校营养食物供应",
+   "subjectName": "学校营养食物供应",
+   "publishYear": "2025",
+   "definition": "由被调查对象尽可能准确地回顾调查前一段时间，如前一日至数日食物消费情况的膳食调查方法。"
+  },
+  {
+   "cn": "回忆期",
+   "en": "recall period",
+   "source": "社会医学名词",
+   "wordNumber": "5.4.1.2",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量测量工具",
+   "publishYear": "2025",
+   "definition": "个体报告既往事件的时间长度。"
+  },
+  {
+   "cn": "食品召回",
+   "en": "food recall",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.2.8",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品安全法规",
+   "subjectName": "食品安全法规",
+   "publishYear": "2025",
+   "definition": "食品生产者按照规定程序，对由其生产原因造成的某一批次或类别的不安全食品，通过换货、退货、补充或修正消费说明等方式，及时消除或减少食品安全风险的活动。"
+  },
+  {
+   "cn": "完美的罪行",
+   "en": "perfect crime",
+   "source": "马克思主义",
+   "wordNumber": "05.0190",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "法国哲学家让·鲍德里亚（Jean Baudrillard）在《完美的罪行》（1996年)中对符号所统治的世界进行了深层次剖析，提出了大胆的假说：科学技术不但扩展了“人的形象”，它还将进一步驱逐“人类的"
+  },
+  {
+   "cn": "24",
+   "en": "24 hour dietary recall",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.49",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "一种食物消费量调查方法，回忆过去的一整天或从开始调查之时往回推24 小时内各类食物或饮料（包括饮用水，有时也包括营养补充剂）的消费情况。"
+  },
+  {
+   "cn": "完全无弹性",
+   "en": "perfect price inelasticity",
+   "source": "卫生经济学名词",
+   "wordNumber": "4.3.2.1.4",
+   "subjectFullName": "卫生经济学名词_卫生服务需求_卫生服务需求弹性",
+   "subjectName": "卫生服务需求弹性",
+   "publishYear": "2025",
+   "definition": "当弹性系数等于0时，表示因变量的变动对自变量变动无影响的特性。"
+  },
+  {
+   "cn": "完全弹性",
+   "en": "perfect price elasticity",
+   "source": "卫生经济学名词",
+   "wordNumber": "4.3.2.1.5",
+   "subjectFullName": "卫生经济学名词_卫生服务需求_卫生服务需求弹性",
+   "subjectName": "卫生服务需求弹性",
+   "publishYear": "2025",
+   "definition": "当弹性系数等于∞时，表示因变量变动率相对于无穷小自变量的变动率为无穷大。"
+  },
+  {
+   "cn": "完全竞争市场",
+   "en": "perfect competitive market",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.1.2.1",
+   "subjectFullName": "",
+   "subjectName": "市场",
+   "publishYear": "2025",
+   "definition": "竞争不受任何阻碍、干扰和控制的市场结构。市场价格由市场供给和需求共同决定，每一个供给者和需求者都是价格的接受者。市场供给与需求趋于平衡，资源配置达到有效率状态。"
+  },
+  {
+   "cn": "完全信息期望值",
+   "en": "expected value of perfect information,EVPI",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.1.2.2.2.1",
+   "subjectFullName": "卫生经济学名词_信息与技术_卫生信息经济学",
+   "subjectName": "卫生信息经济学",
+   "publishYear": "2025",
+   "definition": "决策论里在没有完全卫生信息时的期望损失与在理想状态下的期望损失之差。"
+  },
+  {
+   "cn": "部分完全信息期望值",
+   "en": "expected value of partial perfect information,EVPPI",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.1.2.2.2.2",
+   "subjectFullName": "卫生经济学名词_信息与技术_卫生信息经济学",
+   "subjectName": "卫生信息经济学",
+   "publishYear": "2025",
+   "definition": "针对一个随机变量若所收集的信息为不完全信息，则在拥有不完全信息后的最大期望值（即不完全信息期望值）与未拥有此不完全信息时的最大期望值之差。"
+  },
+  {
+   "cn": "CT值",
+   "en": "CT number，CT value",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.60",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "物质的衰减系数与水的衰减系数之差再与水的衰减系数相比之后乘以1000所得的量。单位是Hu。其不是一个绝对值，而是一个相对值，代表X射线穿过组织被吸收后的衰减值。"
+  },
+  {
+   "cn": "CT剂量指数",
+   "en": "CT dose index",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.61",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "在X射线计算机体层成像时对辐射输出剂量的一种标准化度量，用于向受检者提供剂量指示。基本CTDI表示为CTDI100，是以计算机体层成像扫描仪单次轴向采集100mm而赋予标准模体中心的平均吸收剂量值来表"
+  },
+  {
+   "cn": "γ射线工业CT设备",
+   "en": "gamma-ray industrial computed tomography equipments",
+   "source": "放射卫生学",
+   "wordNumber": "8.2.5",
+   "subjectFullName": "放射卫生学_放射卫生监管_工业及其他应用监管",
+   "subjectName": "工业及其他应用监管",
+   "publishYear": "2025",
+   "definition": "用γ射线对工件进行断层扫描成像的设备，包括CT扫描装置、数据采集与处理系统、操作台等。"
+  },
+  {
+   "cn": "容积CT剂量指数",
+   "en": "volume CT dosimetry index，CTDIvol",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.69",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "CT扫描中整个扫描范围内的平均剂量。"
+  },
+  {
+   "cn": "CT模拟定位机",
+   "en": "CT simulator",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.17",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "一种配备了放疗模拟所需装置和功能的大孔径计算机体层成像扫描仪，包括平板床、外置激光定位灯、放疗定位虚拟模拟软件等。"
+  },
+  {
+   "cn": "集体消费理论 collective consumption",
+   "en": null,
+   "source": "社会学名词",
+   "wordNumber": "3.4.5.5",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_政治经济学学派",
+   "subjectName": "政治经济学学派",
+   "publishYear": "2025",
+   "definition": "发达资本主义阶段的社会矛盾表现为城市集体消费方式问题的理论。由马克思主义城市社会学家凯斯特思(Manuel Castells）提出，认为发达资本主义阶段的社会矛盾主要是包括住房、教育、医疗、教育、文化"
+  },
+  {
+   "cn": "科马克和豪斯菲尔德发明CT技术",
+   "en": "Allan Cormack and Godfrey Hounsfield invented CT technology",
+   "source": "放射卫生学",
+   "wordNumber": "10.2.1.5",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_历史事件_重要发现与发明",
+   "subjectName": "重要发现与发明",
+   "publishYear": "2025",
+   "definition": "1967年美国籍物理学家科马克（Allan Cormack）解决了CT重建相关的数学问题。1972年豪斯菲尔德（Godfrey Hounsfield）在英国EMI实验室发明了CT扫描仪。"
+  },
+  {
+   "cn": "净人口再生产率net reproductive rate",
+   "en": null,
+   "source": "社会学名词",
+   "wordNumber": "4.5.5.4",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_人口再生产",
+   "subjectName": "人口再生产",
+   "publishYear": "2025",
+   "definition": "假设妇女从出生起就遵循当前的年龄别生育率和死亡率度过她们的一生，平均要生育的女儿数。它与粗人口再生产率有些类似，但它考虑到有些妇女可能在结束育龄期之前死亡。如果净再生产率等于1，那么就意味着每一个母亲"
+  },
+  {
+   "cn": "效应",
+   "en": "effect",
+   "source": "军事预防医学名词",
+   "wordNumber": "16.1.1.3.1",
+   "subjectFullName": "军事预防医学_军事毒理学_军事毒理学基础",
+   "subjectName": "军事毒理学基础",
+   "publishYear": "2025",
+   "definition": "暴露一定剂量外源化学物后造成的个体、器官或组织的生物学改变，是量反应，变化的程度用计量单位表示。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
