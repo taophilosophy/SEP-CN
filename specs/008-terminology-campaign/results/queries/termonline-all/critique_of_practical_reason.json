@@ -1,0 +1,772 @@
+{
+ "key": "critique of practical reason",
+ "term": "Critique of Practical Reason",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T00:13:20+00:00",
+ "status": "ok",
+ "note": "variant=Critique of Practical Reason; 审定公布名词库=10000; 海峡两岸名词对照库=8168; 其他来源数据库=1902; 预公布名词数据库=2797; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "实践理性",
+   "en": "practical reason",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.815",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_社会科学哲学",
+   "subjectName": "社会科学哲学",
+   "publishYear": "2024",
+   "definition": "决定如何行动的推理。与纯粹认识论维度的理论理性相对立，强调要以行动改变世界，而要实现行动者的意图就必须考虑实践情境的具体差异，而不能仅考虑普遍的理论原则。这种推理的结论就是行动本身。"
+  },
+  {
+   "cn": "广告批评",
+   "en": "advertising critique",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "21.004",
+   "subjectFullName": "新闻学与传播学_广告_总论",
+   "subjectName": "总论",
+   "publishYear": "2022",
+   "definition": "对广告的整体效益进行理性分析、评价和判断的活动。"
+  },
+  {
+   "cn": "论证",
+   "en": "reasoning",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.278",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻评论",
+   "subjectName": "新闻评论",
+   "publishYear": "2022",
+   "definition": "评论中使用论据阐明论点的方法。"
+  },
+  {
+   "cn": "推理",
+   "en": "reasoning",
+   "source": "行为医学名词",
+   "wordNumber": "2.091",
+   "subjectFullName": "行为医学_行为医学基本理论_认知理论",
+   "subjectName": "认知理论",
+   "publishYear": "2022",
+   "definition": "由若干已知的判断得出另一个新判断的思维形式。是借助已有的知识对事物进行间接认识的过程。所根据的判断是前提，根据前提所得到的判断是结论。"
+  },
+  {
+   "cn": "推理",
+   "en": "reasoning",
+   "source": "物理学名词",
+   "wordNumber": "01.0132",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "推理",
+   "en": "reasoning",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "04.174",
+   "subjectFullName": "阿尔茨海默病_精神与心理认知学",
+   "subjectName": "精神与心理认知学",
+   "publishYear": "2019",
+   "definition": "一种思维形式。人根据已有判断，经过分析与综合，引出新判断的过程。"
+  },
+  {
+   "cn": "推理",
+   "en": "reasoning",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0066",
+   "subjectFullName": "计算机科学技术_人工智能_自动推理",
+   "subjectName": "自动推理",
+   "publishYear": "2018",
+   "definition": "寻找理由、信念、结论或动作的认知过程。形式主要包括演绎、溯因、归纳、类比、谬误推理等。"
+  },
+  {
+   "cn": "尽可能合理降低原则",
+   "en": "as low as reasonably practicable,ALARP",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "04.068",
+   "subjectFullName": "化工（五）_工程建设_工程项目管理",
+   "subjectName": "工程项目管理",
+   "publishYear": "2021",
+   "definition": "在当前的技术条件和合理的费用下，对风险的控制要做到在合理可行的原则下“尽可能地低”。"
+  },
+  {
+   "cn": "行动的理由",
+   "en": "reasons of action",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.786",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_社会科学哲学",
+   "subjectName": "社会科学哲学",
+   "publishYear": "2024",
+   "definition": "是支持或驳斥行动者的行动或意图的根据，与所支持或驳斥的行动之间是合理性的联系，这区别于导致行动的原因。"
+  },
+  {
+   "cn": "实践",
+   "en": "practice",
+   "source": "医学影像技术学名词",
+   "wordNumber": "07.047",
+   "subjectFullName": "医学影像技术学_X射线防护_X射线防护要求",
+   "subjectName": "X射线防护要求",
+   "publishYear": "2020",
+   "definition": "任何会引入新的照射源或照射途径、扩大受照人员范围或改变现有源的照射途径网络，从而使人们受到的照射、受到照射的可能性或受到照射的人数增加的人类活动。"
+  },
+  {
+   "cn": "实践",
+   "en": "practice",
+   "source": "电力名词",
+   "wordNumber": "17.828",
+   "subjectFullName": "电力_核电",
+   "subjectName": "核电",
+   "publishYear": "2020",
+   "definition": "任何引入新的照射源或照射途径、扩大受照人员范围、改变现有源的照射途径网络,从而使人们受到的照射或受到照射的可能性或受到照射的人数增加的人类活动。"
+  },
+  {
+   "cn": "实践",
+   "en": "practice",
+   "source": "放射医学与防护名词",
+   "wordNumber": "05.001",
+   "subjectFullName": "放射医学与防护_放射防护_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2014",
+   "definition": "任何引入新的照射源或照射途径、或扩大受照人员范围、或改变现有源的照射途径网络，从而使人们受到的照射或受到照射的可能性或受到照射的人数增加的人类活动。"
+  },
+  {
+   "cn": "规程",
+   "en": "code of practice",
+   "source": "风景园林名词",
+   "wordNumber": "03.0393",
+   "subjectFullName": "风景园林_风景园林管理_法律法规与标准规范",
+   "subjectName": "法律法规与标准规范",
+   "publishYear": "2025",
+   "definition": "为设备、构件或产品的设计、制造、安装、维护或使用而推荐惯例或程序的文件。"
+  },
+  {
+   "cn": "[辐射照射]实践的正当性",
+   "en": "justification of practice",
+   "source": "化学名词",
+   "wordNumber": "06.0392",
+   "subjectFullName": "化学_放射化学_辐射化学与辐射防护",
+   "subjectName": "辐射化学与辐射防护",
+   "publishYear": "2016",
+   "definition": "国际放射防护委员会(ICRP)提出的辐射防护三原则之一。即辐射照射的实践，除非对受照个人或社会带来的利益足以弥补其可能引起的辐射危害(包括健康与非健康危害)，否则就不得采取此种实践。"
+  },
+  {
+   "cn": "规程",
+   "en": "code of practice",
+   "source": "放射医学与防护名词",
+   "wordNumber": "13.049",
+   "subjectFullName": "放射医学与防护_法规与条约_管理",
+   "subjectName": "管理",
+   "publishYear": "2014",
+   "definition": "为规范设备或产品的设计、制造、安装、维修、使用及其他辐射防护服务而制定的程序性文件。"
+  },
+  {
+   "cn": "实践性原则",
+   "en": "principle of practice",
+   "source": "教育学名词",
+   "wordNumber": "10.185",
+   "subjectFullName": "教育学_特殊教育",
+   "subjectName": "特殊教育",
+   "publishYear": "2013",
+   "definition": "特殊教育教学原则之一。在教学中让学生实地观察、实践操作、做中学、学中做的原则。"
+  },
+  {
+   "cn": "实践共同体",
+   "en": "community of practice",
+   "source": "教育学名词",
+   "wordNumber": "12.148",
+   "subjectFullName": "教育学_成人教育",
+   "subjectName": "成人教育",
+   "publishYear": "2013",
+   "definition": "同一领域或同一情境中的人，基于共同愿望或共同目标而自发聚集起来，一起分享知识和经验，共同参与学习和实践活动的群体。"
+  },
+  {
+   "cn": "教育实践",
+   "en": "practice of education",
+   "source": "教育学名词",
+   "wordNumber": "01.043",
+   "subjectFullName": "教育学_教育基本理论",
+   "subjectName": "教育基本理论",
+   "publishYear": "2013",
+   "definition": "人类有目的、有计划、有组织地进行的教育活动的总称。"
+  },
+  {
+   "cn": "地图评价",
+   "en": "map evaluation,map critique",
+   "source": "地理学名词",
+   "wordNumber": "27.150",
+   "subjectFullName": "地理学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2006",
+   "definition": "对地图质量进行分析和鉴别，评定地图质量的优劣，以确定地图的适应范围和程度。"
+  },
+  {
+   "cn": "公共理性",
+   "en": "public reason",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.198",
+   "subjectFullName": "新闻学与传播学_政治传播_公民社会与政治传播",
+   "subjectName": "公民社会与政治传播",
+   "publishYear": "2022",
+   "definition": "民主社会“公共性”的最高表现，也是现代民主国家的基本特征之一。公共理性具有两个最基本的特点：它对全体公民和社会的根本政治问题具有某种强制性；它非但不限制个人的理性和诸如教会、大学一类的社群对社会政治问"
+  },
+  {
+   "cn": "实践",
+   "en": "practice",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "地图评价",
+   "en": "map evaluation\",\"map critique",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "道德推理",
+   "en": "moral reasoning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "条件推理",
+   "en": "conditional reasoning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "矩阵推理",
+   "en": "matrix reasoning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "推理",
+   "en": "inference\",\"reasoning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "前向推论",
+   "en": "forward reasoning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "合理价值",
+   "en": "reasonable value",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "合理利润",
+   "en": "reasonable profit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "不精确推理",
+   "en": "inexact reasoning",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "不确定推理",
+   "en": "uncertain reasoning",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "常识推理",
+   "en": "commonsense reasoning",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "单调推理",
+   "en": "monotonic reasoning",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "定性推理",
+   "en": "qualitative reasoning",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "多主体推理",
+   "en": "multiagent reasoning",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "二难推理",
+   "en": "dilemma reasoning",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "反绎推理",
+   "en": "abductive reasoning",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "非单调推理",
+   "en": "nonmonotonic reasoning",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "概率推理",
+   "en": "probabilistic reasoning",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "近似推理",
+   "en": "approximate reasoning",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "习",
+   "en": "Practice",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "练习赛",
+   "en": "practice regatta",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "练习障碍",
+   "en": "practice obstacle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "缺少练习",
+   "en": "lack of practice\",\"lack of training",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "肌理",
+   "en": "Reasoning and Structure",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "“真、实、亲、诚”理念",
+   "en": "the philosophy of “true, practicability,",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "躬行",
+   "en": "Practice in Person",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自由练习",
+   "en": "free practice\",\"randori",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "试射箭",
+   "en": "practice end\",\"trial end",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "柔道馆",
+   "en": "dojo\",\"practice hall\",\"training hall",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "移风易俗",
+   "en": "Change Social Practices and Customs",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "为仁由己",
+   "en": "Readily Practice Benevolence and Virtue",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "保持社交距离",
+   "en": "to enforce/practice social distancing",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "跨媒体分析推理技术",
+   "en": "cross-media analysis and reasoning technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "党的群众路线教育实践活动",
+   "en": "the Mass Line Education and Practice Movement of the Party",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《ASME Y14.41-2012 数字化产品定义数据实施规程》",
+   "en": "ASME Y14.41-2012 Digital product definition data practices",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "实践理性",
+   "en": "practical reason",
+   "source": "马克思主义",
+   "wordNumber": "01.0100",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "全称“纯粹实践理性”，又称“实践之知”。与“思辨理性”相对。德国古典唯心主义哲学家康德用语，指纯粹理性的实践能力，即给人的行为规定先天道德准则的先验理性。"
+  },
+  {
+   "cn": "实践理性",
+   "en": "practical reason",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0623",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "最早出现在美国人类学家萨林斯的《文化与实践理性》一书中，指在生活者的世界中对其有意义的思维模式和行为习惯。萨林斯批判古典政治经济学中的英国式“上层建筑和经济基础”理论，及功能主义的功利论中过分强调的理"
+  },
+  {
+   "cn": "意识形态批判",
+   "en": "critique of ideology",
+   "source": "马克思主义",
+   "wordNumber": "05.0025",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "法兰克福学派社会批判理论的主要内容。通过对晚期资本主义社会生活状况本身的意识形态性质进行批判，清除生活世界中的意识形态遮蔽，以此来探索新的感性意识出现的可能性，如哈贝马斯对作为意识形态的科学技术的批判"
+  },
+  {
+   "cn": "文化批评",
+   "en": "cultural critique",
+   "source": "社会学名词",
+   "wordNumber": "4.2.8.17",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类学理论",
+   "subjectName": "人类学理论",
+   "publishYear": "2025",
+   "definition": "人类学者在对异文化的描写中对自己所处文化体系的价值和准则所产生的重新反思。受到德国法兰克福学派和法国超现实主义文学的影响，是人类学家开始对研究者主体进行审视的一种民族志方法论。代表人物有克利福德（Ja"
+  },
+  {
+   "cn": "日常生活批判",
+   "en": "critique of everyday life",
+   "source": "马克思主义",
+   "wordNumber": "05.0112",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "列斐伏尔（Henri Lefebvre）认为，日常生活是资本主义生产和再生产的场所，也是资本主义制度所造成的人的异化的场所，因此，对日常生活的批判就应该成为当代社会变革的主要路径，日常生活批判就是要把"
+  },
+  {
+   "cn": "技术理性批判",
+   "en": "technical rationality critique",
+   "source": "马克思主义",
+   "wordNumber": "05.0023",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "西方马克思主义者对现代社会的批判内容之一。与大众文化批判、意识形态批判、心理机制批判相比，技术理性批判具有基础性地位。卢卡奇、马尔库塞和哈贝马斯等人都在技术理性批判方面有独到的贡献，其中马尔库塞的技术"
+  },
+  {
+   "cn": "实践",
+   "en": "practice",
+   "source": "马克思主义",
+   "wordNumber": "01.0120",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "实践是人所特有的对象性活动，是人为满足自身需要而有目的有意识地认识和改造世界的活动。实践不仅是客观物质性活动，而且是人的自觉认识活动；它不仅具有直接现实性，而且具有普遍统一性，具有社会历史性。马克思主"
+  },
+  {
+   "cn": "思辨理性",
+   "en": "speculative reason",
+   "source": "马克思主义",
+   "wordNumber": "01.0099",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "全称“纯粹思辨理性”。康德哲学批判考察的对象。按照康德观点，思辨理性构成科学知识的基础，是人类认识的先验性条件，它与“经验理性”相对照。同时，思辨理性也是沃尔弗（Christian Wolff）追随者"
+  },
+  {
+   "cn": "辩证理性",
+   "en": "dialectical reason",
+   "source": "马克思主义",
+   "wordNumber": "01.0173",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "康德哲学把理性分为知性和辩证理性两个层次，知性是运用概念、范畴整理感性材料以获得规律性认识，辩证理性则是进一步综合知性规律为一般性原理。马克思进一步阐述了辩证理性的逻辑进程，即抽象的规定在思维行程中上"
+  },
+  {
+   "cn": "纯粹理性",
+   "en": "pure reason",
+   "source": "马克思主义",
+   "wordNumber": "01.0174",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "康德的用语。是纯粹的认识能力，包括感性直观、知性和理性，它在经验之前、独立于经验，不依赖于任何经验内容而存在。否定感性经验的纯理性必走向理性主义、唯心主义认识论。"
+  },
+  {
+   "cn": "民粹主义理性",
+   "en": "populist reason",
+   "source": "马克思主义",
+   "wordNumber": "05.0090",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "来自于拉克劳（Ernesto Laclau）《民粹主义理性》。描述了政治对抗中异质性因素是如何从特殊性上升为普遍性的，这种异质性因素受到拉康对象思想的启示，是实现霸权链接的主要因素和动力，是霸权建构的"
+  },
+  {
+   "cn": "公共理性",
+   "en": "public reason",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.055",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "围绕公共利益的决策和管理所应具有的公共性、民意性、正当性和合法性。"
+  },
+  {
+   "cn": "辐射实践正当性",
+   "en": "justification of radiation practice",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.2.1",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_放射防护三原则",
+   "subjectName": "放射防护三原则",
+   "publishYear": "2025",
+   "definition": "在计划照射情况下，确定某一实践在总体上是否有益的过程，即引入或继续这一实践对个人和社会带来的预期利益是否超过该实践产生的损害（包括辐射危害）。在应急照射或现存照射情况下，确定一个建议的防护行动或补救行"
+  },
+  {
+   "cn": "医生执业模型",
+   "en": "model of physician practice",
+   "source": "卫生经济学名词",
+   "wordNumber": "14.1.1",
+   "subjectFullName": "卫生经济学名词_医生与医院行为_医生行为",
+   "subjectName": "医生行为",
+   "publishYear": "2025",
+   "definition": ""
+  },
+  {
+   "cn": "辐射实践正当性",
+   "en": "justification of radiological practice",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.8.18",
+   "subjectFullName": "军事预防医学_核武器医学防护学_辐射防护基础",
+   "subjectName": "辐射防护基础",
+   "publishYear": "2025",
+   "definition": "开展医疗照射、工业探伤、核设施运行等涉电离辐射活动前，须确保实践总体利益大于辐射危害及其他社会、经济风险。仅当该实践能为个人或社会带来净利益时，才属“正当的”，反之则不应开展。"
+  },
+  {
+   "cn": "历史实践论",
+   "en": "theory of historical practice",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0647",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "中国人类学家张小军在《让历史有“实践”：历史人类学思想之旅》一书中提出的观点。他认为人类学的历史人类学视野里的“历史”则是历史实践者的“历史”；即看历史实践者如何对待他们的历史、如何解释他们的历史、如"
+  },
+  {
+   "cn": "操作规范",
+   "en": "code of practice，COP",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.4.6",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品生产规范",
+   "subjectName": "食品生产规范",
+   "publishYear": "2025",
+   "definition": "使用机器或手工具进行生产操作所要遵守的动作标准和要求。"
+  },
+  {
+   "cn": "实际射程",
+   "en": "practical range",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.35",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "对电子束辐射，模体表面位于正常治疗距离，辐射束轴上吸收剂量分布下降最陡段（斜率最大处）切线的外推与深度吸收剂量分布曲线末端的外推线相交点处所对应的深度。"
+  },
+  {
+   "cn": "实践理念",
+   "en": "practical idea",
+   "source": "马克思主义",
+   "wordNumber": "01.0121",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "实践活动除了要遵循外部世界的客观尺度，还要体现自己的需要和目的，即内在尺度。实践活动在实际进行之前，必须在头脑中观念地建构起这两种尺度的统一模式，在观念上首先实现两种尺度的统一，这种统一的模式观念就是"
+  },
+  {
+   "cn": "实践唯物主义",
+   "en": "practical materialism",
+   "source": "马克思主义",
+   "wordNumber": "01.0123",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在辩证唯物主义的世界观中，实践唯物主义是以实践为出发点和基础解释现实世界的理论，强调实践的观点是马克思主义的首要的和基本的观点，认识世界的目的在于改变世界。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

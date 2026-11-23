@@ -1,0 +1,732 @@
+{
+ "key": "life of plotinus",
+ "term": "Life of Plotinus",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T00:13:45+00:00",
+ "status": "ok",
+ "note": "variant=Life of Plotinus; 审定公布名词库=10000; 海峡两岸名词对照库=8510; 其他来源数据库=2088; 预公布名词数据库=2795; jwt-direct（JWT 直连，raw 略；已滤维基 8 条）",
+ "hits": [
+  {
+   "cn": "期望寿命",
+   "en": "expectation of life,life expectancy",
+   "source": "计划生育名词",
+   "wordNumber": "05.042",
+   "subjectFullName": "计划生育_计划生育科研方法",
+   "subjectName": "计划生育科研方法",
+   "publishYear": "2019",
+   "definition": "某一特定人群的平均存活时间。"
+  },
+  {
+   "cn": "寿命",
+   "en": "life",
+   "source": "电力名词",
+   "wordNumber": "10.471",
+   "subjectFullName": "电力_汽轮机、燃气轮机",
+   "subjectName": "汽轮机、燃气轮机",
+   "publishYear": "2020",
+   "definition": "汽轮发电机组的构件或设备从初投运直至由于损伤失效或经济性下降等原因,而不能继续服役所经历的总时间。"
+  },
+  {
+   "cn": "寿命",
+   "en": "life",
+   "source": "电气工程名词",
+   "wordNumber": "28.113",
+   "subjectFullName": "电气工程_产品品质",
+   "subjectName": "产品品质",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "生命质量",
+   "en": "quality of life",
+   "source": "急救医学名词",
+   "wordNumber": "03.868",
+   "subjectFullName": "急救医学_日常医学急救_老年学_老年流行病学",
+   "subjectName": "老年流行病学",
+   "publishYear": "2025",
+   "definition": "不同文化体系和价值体系中的个人对于他们的目标、期望、标准及与其所关心的事情有关的生存状况的体验。"
+  },
+  {
+   "cn": "生命质量",
+   "en": "quality of life",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.145",
+   "subjectFullName": "自然辩证法_科技伦理_医学伦理学",
+   "subjectName": "医学伦理学",
+   "publishYear": "2024",
+   "definition": "一个人的健康状况、舒适度以及其参与、享有生活所能够达到的程度。在卫生保健领域其被视为包括多个层面，即情感、身体、物质和社会幸福等。"
+  },
+  {
+   "cn": "生命神圣性",
+   "en": "sanctity of life",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.146",
+   "subjectFullName": "自然辩证法_科技伦理_医学伦理学",
+   "subjectName": "医学伦理学",
+   "publishYear": "2024",
+   "definition": "主张人的生命至高无上、神圣不可侵犯的医学理念和伦理观点，是人类自我认识的重大进步和文明的重要标尺，也是医学伦理学的重要理论观点。"
+  },
+  {
+   "cn": "生活质量",
+   "en": "quality of life",
+   "source": "城乡规划学名词",
+   "wordNumber": "01.165",
+   "subjectFullName": "城乡规划学_城乡规划总述_规划价值观和规划教育",
+   "subjectName": "规划价值观和规划教育",
+   "publishYear": "2021",
+   "definition": "个人或团体的社会福利状态。"
+  },
+  {
+   "cn": "生存质量",
+   "en": "quality of life",
+   "source": "器官移植学名词",
+   "wordNumber": "04.016",
+   "subjectFullName": "器官移植学_供器官的获取与保存",
+   "subjectName": "供器官的获取与保存",
+   "publishYear": "2020",
+   "definition": "个体根据其所处的文化背景和价值系统对自身生活的主观感受。受个体的目标、期望值标准和个体关注点等因素的影响。"
+  },
+  {
+   "cn": "转子寿命",
+   "en": "life of rotor",
+   "source": "电力名词",
+   "wordNumber": "10.169",
+   "subjectFullName": "电力_汽轮机、燃气轮机",
+   "subjectName": "汽轮机、燃气轮机",
+   "publishYear": "2020",
+   "definition": "汽轮机从初次投入运行至转子出现第一条微小裂纹时所经历的总工作时间。"
+  },
+  {
+   "cn": "生命质量",
+   "en": "quality of life",
+   "source": "老年医学名词",
+   "wordNumber": "02.019",
+   "subjectFullName": "老年医学_老年流行病学",
+   "subjectName": "老年流行病学",
+   "publishYear": "2017",
+   "definition": "不同文化体系和价值体系中的个人对于他们的目标、期望、标准以及与其所关心的事情有关的生存状况的体验。"
+  },
+  {
+   "cn": "生活质量",
+   "en": "quality of life",
+   "source": "心理学名词",
+   "wordNumber": "10.015",
+   "subjectFullName": "心理学_医学心理学",
+   "subjectName": "医学心理学",
+   "publishYear": "2014",
+   "definition": "个人在其所处文化和价值系统背景下，参照目标、期望和关注对自己生活状态的感受与评价。"
+  },
+  {
+   "cn": "生存质量",
+   "en": "quality of life",
+   "source": "药学名词",
+   "wordNumber": "10.073",
+   "subjectFullName": "药学_药物经济学",
+   "subjectName": "药物经济学",
+   "publishYear": "2014",
+   "definition": "一种测量患者健康结果的指标。其测量范围超越了传统的死亡率和患病率，还包括生理、功能、社会活动、认知、情感、睡眠和休息、精力和活动、健康感知和总体生存满意度等多个维度的测量。"
+  },
+  {
+   "cn": "生存质量",
+   "en": "quality of life",
+   "source": "物理医学与康复名词",
+   "wordNumber": "01.015",
+   "subjectFullName": "物理医学与康复_总论_物理医学与康复概论",
+   "subjectName": "物理医学与康复概论",
+   "publishYear": "2014",
+   "definition": "病损或残疾者在健康、职业、工作、经济、婚姻、家庭、居住环境、参与社会及政治生活等方面的状况和个人对生活的感受。"
+  },
+  {
+   "cn": "人生观",
+   "en": "view of life",
+   "source": "教育学名词",
+   "wordNumber": "01.187",
+   "subjectFullName": "教育学_教育基本理论",
+   "subjectName": "教育基本理论",
+   "publishYear": "2013",
+   "definition": "人们对人生的目的、价值和意义的根本看法和态度。包括幸福观、苦乐观、生死观、荣辱观、恋爱观等。"
+  },
+  {
+   "cn": "生活质量",
+   "en": "quality of life",
+   "source": "地理学名词",
+   "wordNumber": "24.034",
+   "subjectFullName": "地理学_社会与文化地理学",
+   "subjectName": "社会与文化地理学",
+   "publishYear": "2006",
+   "definition": "以明确指标显示的个人或团体的社会福利状况。"
+  },
+  {
+   "cn": "生之本",
+   "en": "root of life",
+   "source": "中医药学名词",
+   "wordNumber": "03.013",
+   "subjectFullName": "中医药学_中医基础理论_中医基础理论总论",
+   "subjectName": "中医基础理论总论",
+   "publishYear": "2004",
+   "definition": "阴阳是生命源泉与根本。"
+  },
+  {
+   "cn": "生命质量",
+   "en": "quality of life",
+   "source": "医学名词 第四分册",
+   "wordNumber": "10.038",
+   "subjectFullName": "医学_老年医学",
+   "subjectName": "老年医学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "贮存期",
+   "en": "shelf life,storage life",
+   "source": "林学名词",
+   "wordNumber": "11.317",
+   "subjectFullName": "林学_木材科学与技术_人造板及木基复合材料",
+   "subjectName": "人造板及木基复合材料",
+   "publishYear": "2016",
+   "definition": "在一定的条件下，制得的树脂胶能保持其使用性能指标的存放时间。"
+  },
+  {
+   "cn": "平均寿命",
+   "en": "average life,mean life",
+   "source": "化学名词",
+   "wordNumber": "06.0036",
+   "subjectFullName": "化学_放射化学_一般术语",
+   "subjectName": "一般术语",
+   "publishYear": "2016",
+   "definition": "在某特定状态下原子核的平均存活时间。对于按指数规律衰变的体系，平均寿命是在该特定状态下核数减少到原来的1/e的平均时间。"
+  },
+  {
+   "cn": "生命[地]带",
+   "en": "life zone,life belt",
+   "source": "生态学名词",
+   "wordNumber": "09.055",
+   "subjectFullName": "生态学_全球生态学",
+   "subjectName": "全球生态学",
+   "publishYear": "2006",
+   "definition": "地球上有规律分布的生物地带。"
+  },
+  {
+   "cn": "生活质量",
+   "en": "quality of life",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "生命网",
+   "en": "web of life",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "贷款期限",
+   "en": "life of loan",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "合同有效期",
+   "en": "life of contract",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "投资项目期限",
+   "en": "life of project",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "生活质量",
+   "en": "quality of life",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "生命网",
+   "en": "web of life",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "寿命",
+   "en": "longevity\",\"duration of life\",\"life span",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "平均寿命",
+   "en": "average life\",\"mean life",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "生命期望,估计寿命",
+   "en": "life expectance\",\"life expectancy",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "生活史,生活周期",
+   "en": "life cycle\",\"life history",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "生命带",
+   "en": "life zone\",\"life belt",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "生活周期（=生活史）",
+   "en": "life cycle (=life history)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "酶半衰期",
+   "en": "half life of enzyme",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "预浸料适用期",
+   "en": "pot life of prepreg",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "城市生活方式",
+   "en": "urban styles of life",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "旅游地生命周期",
+   "en": "life cycle of destination",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "生命元素化学地理",
+   "en": "chemicogeography of life elements",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "救生索",
+   "en": "life line",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "安全索",
+   "en": "life line",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "尊生",
+   "en": "Respect Life",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "好生",
+   "en": "Cherish Life",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人工生命",
+   "en": "artificial life",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字生命",
+   "en": "digital life",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "救生衣",
+   "en": "life jacket",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "救生衣",
+   "en": "life jacket",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "生活必需品",
+   "en": "necessities of life; daily necessities",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "救生衣信号",
+   "en": "life jacket signal",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "乐生",
+   "en": "To Delight in Life",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "杀身成仁",
+   "en": "Sacrifice Life to Preserve Virtue",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "死生有命",
+   "en": "Life and Death Are Predestined.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人命关天",
+   "en": "Life Is as Important as Heaven.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "寿命",
+   "en": "life",
+   "source": "消毒学",
+   "wordNumber": "6.1.15.2.1",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "消毒器械从投入使用开始，在规定使用条件下，能有效使用的期限。"
+  },
+  {
+   "cn": "生命",
+   "en": "life",
+   "source": "医学伦理学名词",
+   "wordNumber": "2.016",
+   "subjectFullName": "医学伦理学_医学伦理学的基本理论与基本观点",
+   "subjectName": "医学伦理学的基本理论与基本观点",
+   "publishYear": "2025",
+   "definition": "生物体所具有的活动能力，是核酸、蛋白质和其他大分子物质存在的一种形式。"
+  },
+  {
+   "cn": "生命竞赛",
+   "en": "competition of life",
+   "source": "社会学名词",
+   "wordNumber": "3.14.1.3",
+   "subjectFullName": "社会学名词_分支社会学环境社会学",
+   "subjectName": "分支社会学环境社会学",
+   "publishYear": "2025",
+   "definition": "人类不仅要和其他物种在自然界中竞争，还要和其他人类在社会中竞争。这一观点将那些不择手段发家致富的美国19世纪的产业大亨们成功地合理化，他们是“自然选择的结果”，他们会推动社会进步。"
+  },
+  {
+   "cn": "生存质量",
+   "en": "quality of life",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.12.7",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "一种测量患者健康结果的指标。其测量范围超越了传统的死亡率和患病率，还包括生理、功能、社会活动、认知、情感、睡眠和休息、精力和活动、健康感知和总体生存满意度等多个维度的评估。"
+  },
+  {
+   "cn": "生存质量",
+   "en": "quality of life",
+   "source": "医学伦理学名词",
+   "wordNumber": "7.045",
+   "subjectFullName": "医学伦理学_临终关怀与死亡伦理",
+   "subjectName": "临终关怀与死亡伦理",
+   "publishYear": "2025",
+   "definition": "全面评价个体或群体生存优劣、好坏的概念。主要侧重于对人的物质生活以及精神文化等需求满足程度和环境状况的评价。"
+  },
+  {
+   "cn": "生命质量",
+   "en": "quality of life",
+   "source": "社会医学名词",
+   "wordNumber": "5",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量",
+   "publishYear": "2025",
+   "definition": "nan"
+  },
+  {
+   "cn": "生命质量",
+   "en": "quality of life",
+   "source": "社会医学名词",
+   "wordNumber": "1.1.9.6",
+   "subjectFullName": "社会医学概述",
+   "subjectName": "社会医学",
+   "publishYear": "2025",
+   "definition": "个体在不同文化和价值体系中，对其生活目标、期望、标准及所关心事情有关的生活状态的主观体验。"
+  },
+  {
+   "cn": "生命尊严",
+   "en": "dignity of life",
+   "source": "医学伦理学名词",
+   "wordNumber": "7.046",
+   "subjectFullName": "医学伦理学_临终关怀与死亡伦理",
+   "subjectName": "临终关怀与死亡伦理",
+   "publishYear": "2025",
+   "definition": "人的生命本身所具有的不可侵犯的内在价值，以及人在生存过程中应获得的尊重和体面。"
+  },
+  {
+   "cn": "生命标准",
+   "en": "standard of life",
+   "source": "医学伦理学名词",
+   "wordNumber": "2.0180000000000002",
+   "subjectFullName": "医学伦理学_医学伦理学的基本理论与基本观点",
+   "subjectName": "医学伦理学的基本理论与基本观点",
+   "publishYear": "2025",
+   "definition": "用于界定、评估或衡量生命存在及其质量的一系列科学、伦理或社会规范。"
+  },
+  {
+   "cn": "生命神圣论",
+   "en": "sanctity of life",
+   "source": "医学伦理学名词",
+   "wordNumber": "2.022",
+   "subjectFullName": "医学伦理学_医学伦理学的基本理论与基本观点",
+   "subjectName": "医学伦理学的基本理论与基本观点",
+   "publishYear": "2025",
+   "definition": "认为人的生命是神圣不可侵犯的，具有绝对的、至高无上的道德价值的理论。"
+  },
+  {
+   "cn": "生命观",
+   "en": "view of life",
+   "source": "医学伦理学名词",
+   "wordNumber": "2.015",
+   "subjectFullName": "医学伦理学_医学伦理学的基本理论与基本观点",
+   "subjectName": "医学伦理学的基本理论与基本观点",
+   "publishYear": "2025",
+   "definition": "人们对生命的本质、价值等诸方面的根本看法和总的观点。统摄和支配着人们对待生命的态度、情感、意志和行为选择。"
+  },
+  {
+   "cn": "生命质量",
+   "en": "quality of life,QoL",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.6.2",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "生存质量（quality of life,QoL）”。包括不同的文化和价值体系中的个体对与他们的生活目标、期望、标准，以及所关心事情有关的生活状态的体验，包括生理状况、心理状况、独立能力、社会关系、生"
+  },
+  {
+   "cn": "生命质量测量工具",
+   "en": "quality of life instrument",
+   "source": "社会医学名词",
+   "wordNumber": "5.4",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量测量工具",
+   "publishYear": "2025",
+   "definition": "用来评价个体自报告生命质量的条目集合。"
+  },
+  {
+   "cn": "民间生活说",
+   "en": "theory of folk life",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0032",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "民俗学研究中的一种主张，即认为民间生活是民俗学研究的对象和范围。这种观点最早可以追溯到英国民俗学家汤姆斯（William John Thomas），他认为民俗学是研究“民间知识”的科学；明确提出“民间"
+  },
+  {
+   "cn": "探测器使用寿命",
+   "en": "useful life of detector",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.1.31",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_辐射探测基本量",
+   "subjectName": "辐射探测基本量",
+   "publishYear": "2025",
+   "definition": "辐射探测器的效率在无明显下降时所能预期达到的总计数时间。"
+  },
+  {
+   "cn": "日常生活史",
+   "en": "history of everyday life",
+   "source": "社会学名词",
+   "wordNumber": "3.13.2.21",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的相关范式思路",
+   "subjectName": "历史社会学的相关范式思路",
+   "publishYear": "2025",
+   "definition": "德国社会文化史中试图阐释社会结构与行动主体互动作用的一种研究路径，力求分析个体能动地、富有创造性地利用其社会环境以转换到实践中的具体形式，以便捕捉社会情境与行动主体对社会情境的诠释之间的差异，旨在克服"
+  },
+  {
+   "cn": "日常生活批判",
+   "en": "critique of everyday life",
+   "source": "马克思主义",
+   "wordNumber": "05.0112",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "列斐伏尔（Henri Lefebvre）认为，日常生活是资本主义生产和再生产的场所，也是资本主义制度所造成的人的异化的场所，因此，对日常生活的批判就应该成为当代社会变革的主要路径，日常生活批判就是要把"
+  },
+  {
+   "cn": "生命质量论",
+   "en": "quality of life theory",
+   "source": "医学伦理学名词",
+   "wordNumber": "2.024",
+   "subjectFullName": "医学伦理学_医学伦理学的基本理论与基本观点",
+   "subjectName": "医学伦理学的基本理论与基本观点",
+   "publishYear": "2025",
+   "definition": "主张根据人的健康程度、治愈希望、预期寿命、智力状况等自然素质的优劣、高低，对人的生命采取不同对待方式的理论。强调不应单纯追求生命的数量，而是应关注生命的生存质量。"
+  },
+  {
+   "cn": "生命价值论",
+   "en": "theory of life value",
+   "source": "医学伦理学名词",
+   "wordNumber": "2.023",
+   "subjectFullName": "医学伦理学_医学伦理学的基本理论与基本观点",
+   "subjectName": "医学伦理学的基本理论与基本观点",
+   "publishYear": "2025",
+   "definition": "以人的生命对自身、他人和社会的效用或价值为尺度来确定对待人的生命的态度和方式的理论。"
+  },
+  {
+   "cn": "社会生活医学化",
+   "en": "medicalization of social life",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.202",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学相关学科",
+   "subjectName": "医学伦理学相关学科",
+   "publishYear": "2025",
+   "definition": "将本属于社会生活的正常现象或正常的生命进程纳入医学问题或医学服务的范围，并授权或许可医疗卫生行业对其进行干预的现象或行为。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

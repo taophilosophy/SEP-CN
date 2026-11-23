@@ -1,0 +1,812 @@
+{
+ "key": "discourse on the method",
+ "term": "Discourse on the Method",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T00:11:44+00:00",
+ "status": "ok",
+ "note": "variant=Discourse on the Method; 审定公布名词库=9158; 海峡两岸名词对照库=2022; 其他来源数据库=1619; 预公布名词数据库=947; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "穹天说",
+   "en": "discourse on the vaulting heaven",
+   "source": "天文学名词",
+   "wordNumber": "05.165",
+   "subjectFullName": "天文学_天文学史",
+   "subjectName": "天文学史",
+   "publishYear": "2024",
+   "definition": "晋代虞耸创立的一种宇宙理论，认为天形穹隆覆地，气充其中。"
+  },
+  {
+   "cn": "方论",
+   "en": "discourse on prescription",
+   "source": "中医药学名词",
+   "wordNumber": "07.005",
+   "subjectFullName": "中医药学_方剂学_方剂学总论",
+   "subjectName": "方剂学总论",
+   "publishYear": "2004",
+   "definition": "对方剂的名称、药物的组成配伍、功效主治、用量服法及其加减等的论述。"
+  },
+  {
+   "cn": "安天说",
+   "en": "discourse on the conformation of the heavens",
+   "source": "天文学名词",
+   "wordNumber": "05.164",
+   "subjectFullName": "天文学_天文学史",
+   "subjectName": "天文学史",
+   "publishYear": "2024",
+   "definition": "晋代虞喜创立的一种宇宙理论，认为“天高穷于无穷，地深测于不测。天确乎在上，有常安之形，地魄焉在下，有居静之体。”"
+  },
+  {
+   "cn": "昕天说",
+   "en": "discourse on the tilting of the heavens",
+   "source": "天文学名词",
+   "wordNumber": "05.167",
+   "subjectFullName": "天文学_天文学史",
+   "subjectName": "天文学史",
+   "publishYear": "2024",
+   "definition": "三国时吴国姚信提出的一种宇宙理论，认为天北高南低。《晋书·天文志》：“吴太常姚信造昕天论云：人为灵虫，形最似天。今人颐前侈临胸，而项不能覆背。近取诸身，故知天之体南低入地，北则偏高。”"
+  },
+  {
+   "cn": "话语",
+   "en": "discourse",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.198",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_后现代主义科学哲学",
+   "subjectName": "后现代主义科学哲学",
+   "publishYear": "2024",
+   "definition": "人们表达出来的一个语言序列。其表达形式包括交谈、对话、叙述和论证等。"
+  },
+  {
+   "cn": "话语",
+   "en": "discourse",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.068",
+   "subjectFullName": "新闻学与传播学_传播总论_传播研究基础",
+   "subjectName": "传播研究基础",
+   "publishYear": "2022",
+   "definition": "两个和更多言谈者之间的交谈与互动。社会科学中经常使用的重要概念之一。"
+  },
+  {
+   "cn": "话语",
+   "en": "discourse",
+   "source": "心理学名词",
+   "wordNumber": "04.162",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "社会建构论心理学概念。即建构某个对象的一组陈述，不同话语对同一对象可建构出不同形象。"
+  },
+  {
+   "cn": "话语",
+   "en": "discourse",
+   "source": "语言学名词",
+   "wordNumber": "01.159",
+   "subjectFullName": "语言学_理论语言学_核心术语",
+   "subjectName": "核心术语",
+   "publishYear": "2011",
+   "definition": "指一段大于句子的连续语言（特别是口语）。通常是构成一个在话题上相当完整的单位的一连串语句，表现为一个人连续性的发言，或几个人之间的会话。"
+  },
+  {
+   "cn": "钱神论",
+   "en": "Qian Shen Lun;Discourse on the Money God",
+   "source": "中国古代史名词",
+   "wordNumber": "4.278",
+   "subjectFullName": "中国古代史_魏晋南北朝_社会经济_工商等",
+   "subjectName": "工商等",
+   "publishYear": "2022",
+   "definition": "西晋鲁褒嘲讽当世金钱崇拜之风的论说文。"
+  },
+  {
+   "cn": "平天说",
+   "en": "discourse on the flat heaven; theory of the flat heavens",
+   "source": "天文学名词",
+   "wordNumber": "05.166",
+   "subjectFullName": "天文学_天文学史",
+   "subjectName": "天文学史",
+   "publishYear": "2024",
+   "definition": "东汉王充提出的一种宇宙理论，认为天、地都是无限大的平行平面。"
+  },
+  {
+   "cn": "神灭论",
+   "en": "shen mie lun;discourse on the destruction of the spirit",
+   "source": "中国古代史名词",
+   "wordNumber": "4.292",
+   "subjectFullName": "中国古代史_魏晋南北朝_思想文化",
+   "subjectName": "思想文化",
+   "publishYear": "2022",
+   "definition": "东晋以来主张神随形灭的论题。东晋高僧慧远撰《沙门不敬王者论》，发挥了佛教的“神不灭论”，认为形质可灭而其神不灭，以喻佛之教义万世长存。其反对者以为神附于形质，形质若灭则神亦不存，先后持此论者甚多，以南"
+  },
+  {
+   "cn": "元话语",
+   "en": "meta-discourse",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.200",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_后现代主义科学哲学",
+   "subjectName": "后现代主义科学哲学",
+   "publishYear": "2024",
+   "definition": "对话语的元层次上的研究与反思。与基础话语（primary discourse）相对。讨论话语的组织与功能以及话语发出者与接受者的各种特征。"
+  },
+  {
+   "cn": "话语分析",
+   "en": "discourse analysis",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.092",
+   "subjectFullName": "自然辩证法_科学、技术与社会_科学与社会",
+   "subjectName": "科学与社会",
+   "publishYear": "2024",
+   "definition": "由迈克尔·马尔凯（Michael Mulkay）创始和发展的科学知识社会学研究方法。其基本主张是，科学家对任何给定主题的说明是十分易变的，因而社会学家在将它们作为资料解释科学实践的性质之前，首先应该对"
+  },
+  {
+   "cn": "商谈伦理",
+   "en": "discourse ethics",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.053",
+   "subjectFullName": "自然辩证法_科技伦理_工程伦理",
+   "subjectName": "工程伦理",
+   "publishYear": "2024",
+   "definition": "由J. 哈贝马斯（J. Habermas）提出的伦理理念。主张一切道德规范的有效性要由交谈获得的一致同意来保证。商谈伦理体现了对不同道德主体地位的尊重，把道德的理性基础从“意识理性”转换为“交往合理性"
+  },
+  {
+   "cn": "组织话语",
+   "en": "organizational discourse",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "9.021",
+   "subjectFullName": "新闻学与传播学_组织传播_组织传播概论",
+   "subjectName": "组织传播概论",
+   "publishYear": "2022",
+   "definition": "组织内部成员互动过程中呈现出的言语行为，包括说话人、受话人、文本、沟通、语境等传播要素。"
+  },
+  {
+   "cn": "话语视角",
+   "en": "discourse perspective",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "10.039",
+   "subjectFullName": "新闻学与传播学_跨文化传播_跨文化传播理论",
+   "subjectName": "跨文化传播理论",
+   "publishYear": "2022",
+   "definition": "文化研究中的话语理论视角探讨的是人们在简单、日常语言的言说过程中，如何体现着使用该语言的人群以及所辐射的人群背后，具有某种统一性的文化本性或本质。话语现在被语言学家从技术性角度用来描述任何从长度上多于"
+  },
+  {
+   "cn": "政治话语",
+   "en": "political discourse",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.013",
+   "subjectFullName": "新闻学与传播学_政治传播_政治传播基础",
+   "subjectName": "政治传播基础",
+   "publishYear": "2022",
+   "definition": "关于应该采取几种替代行动方案中的哪一种来解决社会问题的理性观点的交流。政治话语分析是话语分析领域的一个分支，其重点是在政治论坛(如辩论、演讲和听证)中作为研究内容的话语。"
+  },
+  {
+   "cn": "话语分析",
+   "en": "discourse analysis",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "15.037",
+   "subjectFullName": "新闻学与传播学_传播与社会发展_理论与方法",
+   "subjectName": "理论与方法",
+   "publishYear": "2022",
+   "definition": "一种研究媒介文本的方法，将传播文本、传播语境与传播实践结合在一起的内容分析。英国批判语言学家诺曼·费尔克拉夫(Norman Fairclough)用“话语”指称口头语言或书面语言的使用，其实质是“一种"
+  },
+  {
+   "cn": "话语心理学",
+   "en": "discourse psychology",
+   "source": "心理学名词",
+   "wordNumber": "04.115",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "对话语进行心理学的解释，认为话语是一种社会性活动，是了解人类心理窗口的心理学研究。"
+  },
+  {
+   "cn": "话语分析",
+   "en": "discourse analysis",
+   "source": "语言学名词",
+   "wordNumber": "01.160",
+   "subjectFullName": "语言学_理论语言学_核心术语",
+   "subjectName": "核心术语",
+   "publishYear": "2011",
+   "definition": "对句以上的言语段落所作的语言分析。其目的在于研究句以上的话语系列（sequence of utterances）或超句结构（supra sentential structure），说明各类话语系列在功"
+  },
+  {
+   "cn": "话语",
+   "en": "discourse",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "话语",
+   "en": "discourse",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "话语模型",
+   "en": "discourse model",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "话语生成",
+   "en": "discourse generation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "正在广播",
+   "en": "on-the-air",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "飞行中",
+   "en": "on the fly",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "后八字",
+   "en": "on the quarter",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "前八字",
+   "en": "on the bow",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "运动中",
+   "en": "on the fly",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "一阶法",
+   "en": "one-tier method",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "单步法",
+   "en": "one-step method",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "论域",
+   "en": "universe of discourse",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "沙滩上的爱因斯坦",
+   "en": "Einstein on the Beach",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Philip Glass"
+  },
+  {
+   "cn": "飞击式打印机",
+   "en": "on-the-fly printer",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "实时解压缩，即时解压缩",
+   "en": "on-the-fly decompression",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "实时压缩，即时压缩",
+   "en": "on-the-fly compression",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "双套结",
+   "en": "bowline on the bight",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "荒山之夜",
+   "en": "Night on the Bare Mountain",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Mussorgsky, Modest"
+  },
+  {
+   "cn": "河上夏夜",
+   "en": "Summer Night on the River",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Delius, Frederick"
+  },
+  {
+   "cn": "金融市场压力",
+   "en": "pressure on the money market",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "一",
+   "en": "The One",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大一/小一",
+   "en": "The Largest One / The Smallest One",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "在对角线",
+   "en": "on the diagonal",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "贴靠围绳",
+   "en": "lean on the ropes",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "鞍马支撑",
+   "en": "support on the pommel",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "从内侧超越",
+   "en": "overtake on the inside",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "从外侧超越",
+   "en": "overtake on the outside",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "左路进攻",
+   "en": "attack on the left",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "右路进攻",
+   "en": "attack on the right",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "触剑动作",
+   "en": "action on the blade",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "击打进攻",
+   "en": "attack on the blade",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "白色肢",
+   "en": "white on the limbs",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "在中线",
+   "en": "on the center line",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "桨入水",
+   "en": "catch\",\"grip on the water",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "交易过程信息",
+   "en": "information on the trading process",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "背后滚球",
+   "en": "roll the ball on back",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "鞍马动作",
+   "en": "exercise on the pommel horse",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "受衔",
+   "en": "be on the bit\",\"acceptance of the bit",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "错射",
+   "en": "crossfire\",\"shot on the wrong target",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "区块链遗嘱",
+   "en": "wills and testaments on the blockchain",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "青年话语",
+   "en": "discourse on youth",
+   "source": "社会学名词",
+   "wordNumber": "3.16.7.5",
+   "subjectFullName": "社会学名词_分支社会学_青少年研究_青年参与",
+   "subjectName": "青年参与",
+   "publishYear": "2025",
+   "definition": "在特定社会语境中基于文本进行的有关青年问题讨论活动的总称，包括说话人、受话人、文本、沟通、语境等要素。"
+  },
+  {
+   "cn": "话语",
+   "en": "discourse",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0053",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "一段大于句子的连续语言（特别是口语）。通常是构成一个在话题上相当完整的单位的一连串语句，表现为一个人连续性的发言，或几个人之间的会话。因此是人们语言交际支配其行为表现的表达和理解的更真实的动态过程。"
+  },
+  {
+   "cn": "话语分析",
+   "en": "discourse analysis",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.10",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "为了揭示人们对社会世界的观感及其构造，对自然产生的口头的或书面的语言及其语境进行分析的方法。"
+  },
+  {
+   "cn": "环境话语",
+   "en": "environmental discourse",
+   "source": "社会学名词",
+   "wordNumber": "3.14.4.2",
+   "subjectFullName": "社会学名词_分支社会学_环境社会学_对环境问题的应对和行动",
+   "subjectName": "对环境问题的应对和行动",
+   "publishYear": "2025",
+   "definition": "利用话语分析环境文本、意象和观念的产生、接受与策略运用。"
+  },
+  {
+   "cn": "商谈伦理",
+   "en": "discourse ethics",
+   "source": "马克思主义",
+   "wordNumber": "05.0038",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "哈贝马斯认为交往行为实质上是一种商谈关系，强调在商谈伦理规导下，通过主体之间理解达到合理一致的真理，实现交往理性从理论向实践层面的转换，最终在社会成员之间相互理解和平相处的基础上达到文明进步目标。"
+  },
+  {
+   "cn": "话语分析",
+   "en": "discourse analysis",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0054",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "对句以上的言语段落所作的语言分析。其目的在于研究句以上的话语系列（sequence ofutterances）或超句结构（supra sentential structure），说明各类话语系列在功能"
+  },
+  {
+   "cn": "中华民族共同体话语体系",
+   "en": "discourse system of the Chinese National community",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0111",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "描述中华民族共同体形成和发展的意识形态。"
+  },
+  {
+   "cn": "出海禁忌",
+   "en": "taboo on the sea",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0057",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "人们离开大陆来到海洋之后，在生活和生产上的限制和禁止。出海禁忌要求人们出海之后对神圣的或可能带来灾难的人、事、神灵，采取一种避讳态度或禁止性的行为准则；这些禁忌贯穿在衣食住行等方方面面，不同地区渔民的"
+  },
+  {
+   "cn": "国家观",
+   "en": "outlook on the state",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0137",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "公民对国家的认知，包括了国家作为一个主权完整领土统一的现代国家的历史、文化、制度和道路的认同和认知，公民个体和国家关系的认知，公民个体在国家中的权利义务的认知。在中国，核心是对中华人民共和国的认同。"
+  },
+  {
+   "cn": "岗位培训",
+   "en": "on-the-job training",
+   "source": "社会医学名词",
+   "wordNumber": "8.11.1.6.4",
+   "subjectFullName": "卫生服务研究",
+   "subjectName": "卫生资源",
+   "publishYear": "2025",
+   "definition": "针对医疗卫生从业人员，为提升其工作能力和岗位相关技能而开展的医学相关教育和培训活动。"
+  },
+  {
+   "cn": "儿童权利公约",
+   "en": "convention on the rights of the child",
+   "source": "社会医学名词",
+   "wordNumber": "3.9.2",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "儿童早期发展",
+   "publishYear": "2025",
+   "definition": "首个具法律约束力的国际公约，涵盖公民、经济、政治、文化和社会领域的所有人权，保障儿童权益。"
+  },
+  {
+   "cn": "卫生总费用",
+   "en": "total expenditure on health,THE",
+   "source": "卫生经济学名词",
+   "wordNumber": "2.1",
+   "subjectFullName": "",
+   "subjectName": "卫生总费用",
+   "publishYear": "2025",
+   "definition": "一个国家或地区在一定时期内（通常是一年），全社会为提供卫生服务所消耗经济资源的货币价值，分为经常性卫生费用和固定资本形成费用。"
+  },
+  {
+   "cn": "啃老族",
+   "en": "youth living on the elder",
+   "source": "社会学名词",
+   "wordNumber": "3.16.6.5",
+   "subjectFullName": "社会学名词_分支社会学_青少年研究_青年文化",
+   "subjectName": "青年文化",
+   "publishYear": "2025",
+   "definition": "有谋生能力但继续在经济上依赖父母的成年子女。这些成年子女中，有的有工作但仍需父母赞助其支付高房价和高消费；有的则是“自愿性失业”，主动放弃就业、依附父母。"
+  },
+  {
+   "cn": "斯大林军事思想",
+   "en": "Stalins througnts on the military",
+   "source": "马克思主义",
+   "wordNumber": "04.0104",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "继列宁军事理论之后，斯大林在帝国主义和无产阶级革命时代这个新的历史条件下，对无产阶级军事科学的丰富和发展，是马克思列宁主义的重要组成部分。斯大林军事思想的主要贡献：发展了马克思列宁主义关于战争的理论，"
+  },
+  {
+   "cn": "《蛮书》",
+   "en": "Book on the southwest outlyingdistrict",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0266",
+   "subjectFullName": "民族学与文化学_民族史_民族文化",
+   "subjectName": "民族文化",
+   "publishYear": "2025",
+   "definition": "唐人樊绰撰，记载南诏史事。共十卷。对今云南地区之自然地理、城镇、交通、里程、物产，特别是对南诏历史、政治、经济、军事、各民族的生活习俗、山川、交通城镇及境外诸国，均有系统阐述。"
+  },
+  {
+   "cn": "【军事预防医学】培训方法",
+   "en": "training method on military preventive medicine",
+   "source": "军事预防医学名词",
+   "wordNumber": "1.3.2",
+   "subjectFullName": "军事预防医学_军事预防医学_军事预防医学培训",
+   "subjectName": "军事预防医学培训",
+   "publishYear": "2025",
+   "definition": "采用系统培训、专业培训、继续教育、专题集训和岗位进修多种方法，对部队基层卫生人员、中等和高等院校学员，军队预防医学科研保障工作人员及相关人员，进行的院校培训、继续教育和在岗训练等。"
+  },
+  {
+   "cn": "摸着石头过河",
+   "en": "grope ones way across the river",
+   "source": "马克思主义",
+   "wordNumber": "03.0522",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1980年12月在中央工作会议上，陈云讲话称：“我们要改革，但是步子要稳。……随时总结经验，也就是要‘摸着石头过河’”。邓小平对陈云提出的“摸着石头过河说”完全赞同。 邓小平强调“摸着石头过河”, 就"
+  },
+  {
+   "cn": "平定准噶尔勒铭伊犁之碑",
+   "en": "Stele of the pacification of the Junggar on Ili",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0616",
+   "subjectFullName": "民族学与文化学_民族史_新疆研究",
+   "subjectName": "新疆研究",
+   "publishYear": "2025",
+   "definition": "清代纪念性碑刻。清乾隆撰，约500 字。记乾隆二十年（1755）清朝出兵征伐准噶尔部达瓦齐缘由、经过及意义。二十七年用汉、满、蒙、藏四种文字镌刻两方，一立于伊犁宁远城（今伊宁市）东，已毁；一立于承德避"
+  },
+  {
+   "cn": "食品安全法实施条例",
+   "en": "Regulation on the Implementation of the Food Safety Law",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.2.4",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品安全法规",
+   "subjectName": "食品安全法规",
+   "publishYear": "2025",
+   "definition": "与《中华人民共和国食品安全法》配套的食品法规，进一步细化了各层级的食品安全管理要求。"
+  },
+  {
+   "cn": "党委会的工作方法",
+   "en": "working method of the party committee",
+   "source": "马克思主义",
+   "wordNumber": "03.0494",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东在中国共产党第七届中央委员会第二次全体会议上提出的十二条方法：党委书记要善于当“班长”；把问题摆到桌面上来；“互通情报”；不懂得和不了解的东西要问下级，不要轻易表示赞成或反对；学会“弹钢琴”；要"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
