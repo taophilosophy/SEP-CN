@@ -316,3 +316,10 @@
 * 纪年口径三条：Wikidata 生卒与学界通说不合时（欧布里德、菲洛），从通说记活动期并注；宗教人物生卒按 Wikidata 并注学界通说区间；传统纪年有争议者（琐罗亚斯德）标注“传统纪年”。
 * 证据：`results/people-wikidata-2026-11-24-hist.tsv`。缺项告警 763→743；`registry_azsort` 守恒 4609；`check_terms` 硬错误 0。
 * 未收：桓宽、襄楷、Moses 等检索无对应条目或生卒不传者，留白不臆造；Hamlet/Zeus 等文学神话人物非信史，不填。
+
+## 2026-11-24：人名第八批（新增 6 人）＋Châtelet 别名并入
+
+* person 型全量候选别名感知挖掘（756 条过一遍过滤），倒序核对后确认真缺项 6 人：Cook Wilson（英国 1849–1915，Q3817476）、Kristie Dotson（美国，在世，Q57756823）、John Finnis（澳大利亚／美国 1940–，Q3312283，通行汉名约翰·菲尼斯）、Shannon Sullivan（美国，在世，Q21062465）、Van Bendegem（1953–，Q2229166，P27 记荷兰王国与学界通说比利时不合，籍属留白不写）、Philip Quinn（美国 1940–2004，Q7183930，与已登记 Warren Quinn 异人）。
+* 其余候选均为已登记倒序键（Hempel、Scanlon、Mackie、Stout、Anscombe、Del Medigo 等）或著作/机构名。
+* Châtelet 别名并入：语料形 Du Châtelet（大写 D）未入键，旧行 `Châtelet, Émilie du` 键追加合写别名并留痕；别名漏检根因＝重音字形折叠未覆盖大小写差异，属已知的键形变体家族。
+* 落册：`term_flow` 干跑 6/0，实写 6；`registry_azsort` 人名表 4609→4615 守恒；`check_terms` 硬错误 0。证据 `results/people-wikidata-2026-11-24-b8.tsv`；清单 `tasks/manifests/2026-11-24-058-batch34-people.json`。

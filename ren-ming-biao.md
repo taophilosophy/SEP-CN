@@ -776,7 +776,7 @@
 | Charles V | — | 查理五世 | 神圣罗马帝国（哈布斯堡） | 1500–1558 | erasmus | 学界惯例（神圣罗马皇帝通译）；nicole-oresme/newton 语境指法国瓦卢瓦王朝查理五世，随文以“法国”限定（2026-11-08）。生卒/籍属查证 2026-11-22：首现 erasmus 语境为神圣罗马皇帝查理五世（1500-02-24／1558-09-21）；nicole-oresme、newton 语境另有法王查理五世（1338–1380），同形异人，必要时另立条目 | 2026-11-22 |
 | Charlow, Simon | — | Charlow, Simon | — | — | dynamic-semantics | 无通行汉名，保留英文原名；凭证 2026-11-12 | 2026-11-12 |
 | Chase, Martha | — | 玛莎·蔡斯 | 美国 | 1927–2003 | genetics | 噬菌体实验研究者，学界通行音译（ADR-0022 通行汉名判据）；凭证 2026-11-11；籍属/生卒联网查证：Wikidata Q257008（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
-| Châtelet, Émilie du | Émilie du Châtelet | 夏特莱侯爵夫人（Émilie Du Châtelet，1706–1749） | 法国 | 1705–1749 | emilie-du-chatelet | 学界惯例（SUMMARY 定名沿用；科学史界通行“夏特莱侯爵夫人/沙特莱侯爵夫人”）；籍属/生卒联网查证：GND 规范标目 gnd 118681028（2026-11-14 查，凭证 verify-2026-11-14-gnd-e.tsv） | 2026-11-14 |
+| Châtelet, Émilie du / Du Châtelet | Émilie du Châtelet | 夏特莱侯爵夫人（Émilie Du Châtelet，1706–1749） | 法国 | 1705–1749 | emilie-du-chatelet | 学界惯例（SUMMARY 定名沿用；科学史界通行“夏特莱侯爵夫人/沙特莱侯爵夫人”）；籍属/生卒联网查证：GND 规范标目 gnd 118681028（2026-11-14 查，凭证 verify-2026-11-14-gnd-e.tsv）；2026-11-24 并入语料形 Du Châtelet（specs/058 人名别名核对） | 2026-11-14 |
 | Chater, Nick | — | 尼克·查特 | 英国 | fl. 1998 | innateness-cognition | 音译（语言演化）；凭证 2026-11-12；籍属/生卒联网查证：GND 规范标目 gnd 134185374（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Chatton, Walter | — | 沃尔特·查顿 | 英国 | 1285–1343 | crathorn | 学界惯例（牛津方济各会士，音译）；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 118669141（2026-11-14 查，凭证 verify-2026-11-14-gnd-e.tsv） | 2026-11-14 |
 | Chaucer, Geoffrey | — | 乔叟 | 英国 | 1343–1400 | godwin | 学界通行汉译（《坎特伯雷故事集》作者）；2026-11-20 复核：合并（同键变体，来源列并双 slug）；籍属/生卒联网查证：GND 规范标目 gnd 118520245（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
@@ -910,6 +910,7 @@
 | Contesi, Filippo | — | 菲利波·孔泰西 | 意大利 | 当代 | croce-aesthetics | 学界通行音译（美学家，本词条致谢）；凭证 2026-11-10 | 2026-11-09 |
 | Conway, Lady Anne | — | 安妮·康威 | 英国 | 1631–1679 | 语料回收（全目录） | 学界惯例（SUMMARY 定名沿用；学界通行汉译）；凭证 2026-11-04；审定库无相关命中（termonline-all 凭证 2026-11-13）；籍属/生卒联网查证：Wikidata Q260404（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Cook Ding | 庖丁 | 庖丁 | 中国／战国 | — | zhu-xi | 学界通行汉译（《庄子》养生主庖丁解牛；汉字本名）；凭证 2026-11-15 | 2026-11-15 |
+| Cook Wilson | — | Cook Wilson（无通行汉名，保留英文原名） | 英国 | 1849–1915 | 语料回收（全目录） | 学界通行音译；籍属/生卒联网查证：Wikidata Q3817476（2026-11-24 查，凭证 people-wikidata-2026-11-24-b8.tsv）；牛津大学哲学家，命题知识与“实用主义倒转”论题 | 2026-11-24 |
 | Cook, Stephen | — | Stephen Cook | 加拿大 | 1939– | logic-linear | 无通行汉名，保留英文原名（计算复杂性）；凭证 2026-11-10；籍属/生卒联网查证：GND 规范标目 gnd 140808973（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Cooper, Anthony Ashley (3rd Earl of Shaftesbury) / Anthony Ashley Cooper | Shaftesbury | 安东尼·阿什利-柯柏 | 英国 | 1671–1713 | cambridge-platonists | 学界通行汉译（第三代沙夫茨伯里伯爵）；凭证 2026-11-09 | 2026-11-09 |
 | Cooper, John | — | 约翰·库珀 | 美国 | 1939– | democritus | 学界通行（古代哲学主编，斯多葛研究名家）；籍属/生卒联网查证：GND 规范标目 gnd 12166371X（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
@@ -2190,6 +2191,7 @@
 | John Donne | — | 约翰·多恩 | 英国 | 1572–1631 | gadamer-aesthetics | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-11-01）；籍属/生卒联网查证：Wikidata Q140412（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | John Dupré | John Dupré | 约翰·杜普雷 | 英国 | 1952– | 语料回收（全目录） | 学界惯例（生物学哲学/分类学批判）；凭证 2026-11-01；籍属/生卒联网查证：Wikidata Q322761（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | John Earman | — | 约翰·厄尔曼 | 美国 | 1942– | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，凭证 2026-11-01）；籍属/生卒联网查证：SEP 原文 en/determinism-causal:383（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
+| John Finnis | — | 约翰·菲尼斯 | 澳大利亚／美国 | 1940– | 语料回收（全目录） | 学界通行音译；籍属/生卒联网查证：Wikidata Q3312283（2026-11-24 查，凭证 people-wikidata-2026-11-24-b8.tsv）；自然法理论家；《自然法与自然权利》通行汉译用“菲尼斯” | 2026-11-24 |
 | John Hick | — | 约翰·希克 | 英国 | 1922–2012 | religious-experience | 学界通行汉译（宗教多元论）；籍属/生卒联网查证：GND 规范标目 gnd 119231344（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | John Italos | — | 约翰·伊塔洛斯（正文简作“伊塔洛斯”） | 拜占庭 | 约1025– | john-italos；SUMMARY | SUMMARY 定名沿用（11 世纪拜占庭哲学家）；凭证 2026-11-06；籍属/生卒联网查证：Wikidata Q947651（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | John L. Wilson | — | 约翰·L·威尔逊 | — | — | alexander-crummell | 19 世纪传教士人种志学者，音译 | 2026-11-07 |
@@ -2409,6 +2411,7 @@
 | Kripke, Saul / Saul Kripke | — | 索尔·克里普克 | 美国 | 1940–2022 | closure-epistemic；knowledge-analysis | 学界通行汉译（《命名与必然性》）；凭证 2026-11-08；2026-11-13 重复行合并（旧键 `Saul Kripke`）；籍属/生卒联网查证：GND 规范标目 gnd 118813455（2026-11-14 查，凭证 verify-2026-11-14-gnd-n.tsv） | 2026-11-14 |
 | Krisch, Nico | — | 尼科·克里施 | 德国 | 1972– | global-democracy | 音译（国际法学者）；籍属/生卒联网查证：GND 规范标目 gnd 1125044039（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Kristeva, Julia / Julia Kristeva | Julia Kristeva | 朱莉娅·克里斯蒂娃 | 法国／保加利亚／哲学与精神分析 | 1941– | 语料回收（specs/058 全库提取） | 学界通行音译；籍属/生卒联网查证：Wikidata Q159876（2026-11-22 查，凭证 people-wikidata-2026-11-22-b3.tsv） | 2026-11-22 |
+| Kristie Dotson | — | Kristie Dotson（无通行汉名，保留英文原名） | 美国 | — | 语料回收（全目录） | 学界通行音译；籍属/生卒联网查证：Wikidata Q57756823（2026-11-24 查，凭证 people-wikidata-2026-11-24-b8.tsv）；认识论中的压迫与“无知认识论”（epistemology of ignorance）研究；在世，Wikidata 无生卒 | 2026-11-24 |
 | Kroon, Fred | — | Fred Kroon（现代学者，保留英文） | — | — | necessary-sufficient | ADR-0012 体例：现代学者保留英文；凭证 2026-11-09 | 2026-11-09 |
 | Kropotkin, Peter | — | 克鲁泡特金 | 俄罗斯 | 1842–1921 | godwin | 学界通行汉译（无政府主义者）；2026-11-20 复核：合并（同键变体，来源列并双 slug）；籍属/生卒联网查证：GND 规范标目 gnd 118567055（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Kṛṣṇa | कृष्ण | 黑天 | 古印度／史诗传统 | — | jaina-philosophy | 学界千年通行汉译（《摩诃婆罗多》人物） | 2026-11-08 |
@@ -3356,6 +3359,7 @@
 | Philip Bump | — | 菲利普·邦普 | — | — | justice-healthcareaccess | 学界惯例（新闻/政治评论通行译法） | 2026-11-02 |
 | Philip II | — | 腓力二世 | 西班牙／国王 | 1527–1598 | gomez-pereira | 学界通行汉译；凭证 2026-11-12 | 2026-11-12 |
 | Philip IV (the Fair), King of France | — | 腓力四世（美男子） | 法国 | 1268–1314 | giles | 学界通行汉译（法国国王）；籍属/生卒联网查证：Wikidata Q130969（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
+| Philip Quinn | — | 菲利普·奎因 | 美国 | 1940–2004 | 语料回收（全目录） | 学界通行音译；籍属/生卒联网查证：Wikidata Q7183930（2026-11-24 查，凭证 people-wikidata-2026-11-24-b8.tsv）；宗教哲学家；与已登记的 Warren Quinn（沃伦·奎因）为异人 | 2026-11-24 |
 | Philip the Chancellor | — | 菲利普校长 | 法国／经院神学 | c. 1160–1236 | conscience；analogy-medieval | 中世纪哲学通行（13 世纪巴黎圣母院学校校长；音译兼职衔；亦作“校长腓力”“尚塞利耶的菲利普”）；重复行合并 2026-11-08；凭证 2026-11-08 | 2026-11-08 |
 | Philipp Jakob Spener | — | 菲利普·雅各布·施佩纳 | 德国 | 1635–1705 | 18thGerman-preKant | 学界通行汉译（虔敬派创始人）；凭证 2026-11-05；审定库无相关命中（termonline-all 凭证 2026-11-14）；籍属/生卒联网查证：Wikidata Q311231（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Phillips, D. Z. | — | D. Z. 菲利普斯 | 英国（威尔士）／哲学家 | 1934–2006 | religion-epistemology | 学界通行（维特根斯坦式信仰主义）；凭证 2026-11-10 | 2026-11-10 |
@@ -3876,6 +3880,7 @@
 | Shalkowski, Scott | — | 斯科特·沙尔科夫斯基 | — | — | religion-epistemology | 学界通行音译；凭证 2026-11-10 | 2026-11-10 |
 | Shanahan, Murray | — | 默里·沙纳汉 | — | — | f/frame-problem | AI 学界通行汉译（本词条作者） | 2026-11-10 |
 | Shang Yang | — | 商鞅 | 中国（战国·秦） | 约前390–前338 | han-dynasty | 上游自带汉字（战国法家，亦作商君）；籍属/生卒联网查证：Wikidata Q351345（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
+| Shannon Sullivan | — | Shannon Sullivan（无通行汉名，保留英文原名） | 美国 | — | 语料回收（全目录） | 学界通行音译；籍属/生卒联网查证：Wikidata Q21062465（2026-11-24 查，凭证 people-wikidata-2026-11-24-b8.tsv）；女性主义哲学与批判种族理论；在世，Wikidata 无生卒 | 2026-11-24 |
 | Shannon, Claude | — | 克劳德·香农 | 美国 | 1916–2001 | qt-entangle | 学界通行汉译（信息论）；凭证 2026-11-09 | 2026-11-09 |
 | Shao Yong | 邵雍 | 邵雍 | 中国／北宋 | 1012–1077 | zhu-xi | 学界通行汉译（康节先生；汉字本名）；凭证 2026-11-15 | 2026-11-15 |
 | Shapiro, Lawrence A. | — | 劳伦斯·夏皮罗 | 美国 | 1962– | epiphenomenalism | 音译（正文作“夏皮罗”；与既有 Shapiro, Stewart 同姓异人）；凭证 2026-11-12；籍属/生卒联网查证：GND 规范标目 gnd 139889833（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
@@ -4329,6 +4334,7 @@
 | Valla, Lorenzo / Lorenzo Valla | — | 劳伦佐·瓦拉 | 意大利 | 约1407–1457 | lorenzo-valla；erasmus | 学界惯例（SUMMARY 定名沿用；《君士坦丁赠礼》辨伪者通行汉译）；2026-11-13 重复行合并（旧键 `Lorenzo Valla`）；籍属/生卒联网查证：Wikidata Q214115（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Vallés, Francisco | — | 弗朗西斯科·巴列斯 | 西班牙／医生 | 1524–1592 | gomez-pereira | 学界通行汉译（《论神圣哲学》作者，文艺复兴医学家）；凭证 2026-11-12 | 2026-11-12 |
 | Vallor, Shannon | — | 香农·瓦洛尔 | 美国 | — | it-moral-values | 学界通行音译（技术伦理）；凭证 2026-11-10 | 2026-11-10 |
+| Van Bendegem | — | Van Bendegem（无通行汉名，保留英文原名） | — | 1953– | 语料回收（全目录） | 学界通行音译；籍属/生卒联网查证：Wikidata Q2229166（2026-11-24 查，凭证 people-wikidata-2026-11-24-b8.tsv）；数学哲学家（布鲁塞尔自由大学）；Wikidata P27 记荷兰王国，学界通说比利时人，籍属存疑不写 | 2026-11-24 |
 | van Benthem, Johan | — | 约翰·范本特姆 | 荷兰 | 1949– | social-procedures | 学界通行汉译（逻辑与博弈，亦作“范本瑟姆”）；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 124543286（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Van Cleve, James / James Van Cleve | James Van Cleve | 詹姆斯·范·克利夫 | 美国／哲学 | — | 语料回收（specs/058 全库提取） | 学界通行音译；籍属/生卒联网查证：Wikidata Q133999881（2026-11-22 查，凭证 people-wikidata-2026-11-22.tsv）；生卒未详（Wikidata 无生卒数据） | 2026-11-22 |
 | van den Berg, Martin H. | — | van den Berg, Martin H. | — | — | dynamic-semantics | 无通行汉名，保留英文原名；凭证 2026-11-12 | 2026-11-12 |
