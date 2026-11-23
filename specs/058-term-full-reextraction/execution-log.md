@@ -323,3 +323,13 @@
 * 其余候选均为已登记倒序键（Hempel、Scanlon、Mackie、Stout、Anscombe、Del Medigo 等）或著作/机构名。
 * Châtelet 别名并入：语料形 Du Châtelet（大写 D）未入键，旧行 `Châtelet, Émilie du` 键追加合写别名并留痕；别名漏检根因＝重音字形折叠未覆盖大小写差异，属已知的键形变体家族。
 * 落册：`term_flow` 干跑 6/0，实写 6；`registry_azsort` 人名表 4609→4615 守恒；`check_terms` 硬错误 0。证据 `results/people-wikidata-2026-11-24-b8.tsv`；清单 `tasks/manifests/2026-11-24-058-batch34-people.json`。
+
+## 2026-11-24：人名第九批（新增 53 人，另补 2 条别名）
+
+* 候选源：person 型候选取频次≥8、分布≥3 的一批（含前半段遗漏者与后半段），先按“首/末名双 token 含于键”倒序核对既有 4,615 行，再逐人 Wikidata 检索并核 P31（人类）、P27（国籍）、P569/P570。
+* 新增 53 人：哲学侧有 Sharon Street（1973–）、Susan Haack（1945–2026）、Jean-Luc Marion（1946–）、Terence Horgan、Nathan Salmon、E. J. Lowe（1950–2014）、Talcott Parsons、Judea Pearl、Cass Sunstein、Andrea Dworkin、Angela Davis、Richard Joyce、James Woodward（1946–）、Tim Maudlin、Robert Kane（1938–2024）、Charles Larmore、Alison Jaggar、Solomon Feferman、Rae Langton、Kent Bach、David Copp、Michael Huemer、Anna Stilz、Leslie Green、Naomi Zack、Jennifer Saul、Louise Antony、Berys Gaut、William Galston、Mathias Risse、Eva Kittay、Susan Bordo、Michael Ayers、Robert Sugden、Susanna Siegel、Amie Thomasson、Marilyn Friedman、David O. Brink、Frances Kamm、Neil Levy 等；科学史与社会科学侧有 Charles Lyell、Alexander von Humboldt、Alfred Russel Wallace、Ludwik Fleck、Paul Samuelson、Aníbal Quijano、Ernest Renan、Charlotte Perkins Gilman、Reinhold Niebuhr、Simón Bolívar；中国与日本侧有黄宗羲（1610–1695）、金岳霖（1895–1984）、上田闲照（1926–2019）。
+* 体例：无通行汉名者按既有例记“（无通行汉名，保留英文原名）”（21 人）；籍属用「国别」／双籍并用「／」连接。
+* 三处取证例外：①Leslie Green 的 Wikidata 生年记 1918，英文维基记 1956（苏格兰－加拿大法哲学家），从维基并在依据注明；②Aníbal Quijano 出生年 Wikidata 记 1930，另说 1928，取 Wikidata 并注；③Neil Levy／Anna Stilz／Mathias Risse 三人 Wikidata 无 P27，经网页补证（Levy 1967 年生于约翰内斯堡、澳大利亚籍；Risse 生于帕德博恩、德美双籍；Stilz 公开资料未载国籍，籍属留白不猜）。
+* 别名补记 2 条：`Herschel, John F. W.` 补语料形 `John Herschel`，`Price, Henry Habberley` 补 `H. H. Price`（两行原别名列为“—”，键与译法不动）。
+* 落册：`term_flow` 干跑 53/0，实写 53；`registry_azsort` 人名表 4,615→4,668 守恒；`check_terms` 硬错误 0，缺籍属/生卒告警 746→748（新增行中 Kamm 生年、Stilz 国籍确无公开数据）；`check_all` 17 项全绿。
+* 证据：`results/people-wikidata-2026-11-24-b9.tsv`、补充取证 `results/people-wikidata-2026-11-24-b9-supplement.md`；清单 `tasks/manifests/2026-11-24-058-batch35-people.json`。
