@@ -185,7 +185,13 @@ def main():
                # 第三批逐条人工复核后的撞名/身份不符
                'MacLeod, Colin', 'McKay, Thomas', 'Meskin, Aaron',
                'Moran, Thomas', 'Murphy, Peter', 'Nishimura', 'Pease, Adam',
-               'Perry, John', 'Radcliff', 'Richmond, Marsha'}
+               'Perry, John', 'Radcliff', 'Richmond, Marsha',
+               # 第五批逐条人工复核后的撞名/无法对应/无数据
+               'Selig, Richard', 'Sextus', 'Shanahan, Murray', 'Simmons, Craig',
+               'Skow, Bradford', 'Solomon', 'Squatrito, Theresa',
+               'Stanhope, Philip', 'Stephens, Chris', 'Tian Pian',
+               'Turner, Dale', 'Ubaldo', 'Uniacke, Suzanne', 'Wagener',
+               'Weckert, John', 'Weinrich, Martin', 'Yin Xian', 'Zosimus'}
     entries = []
     with io.open(MISSING, encoding='utf-8') as f:
         for line in f:

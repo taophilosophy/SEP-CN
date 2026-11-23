@@ -115,3 +115,12 @@
 * 现象：第三批落册后再跑 `--start 600`，输出的 20 条与第三批复核名单重合。根因：`person-missing.txt` 由 `check_terms` 每次重生成（781→769 条），已补项退出后行序整体前移，用行号 `--start` 定位不等于“未处理者”。
 * 修法：`backfill_auto.py` 增 `done_keys()`——读证据 TSV 第一列去重，`todo` 只取证据未记键，再按 `--start/--limit` 切片；重复查询归零，偏移不再依赖行序。
 * 该轮干跑仅产生记录未写库（无 `--apply`），已在证据 TSV 留痕；后续批次按新逻辑重跑。
+
+## 2026-11-23：存量缺口自动回填（第五批·剩余未查项）
+
+* 按新去重逻辑（证据键）重跑，处理 181 条，得 30 条“OK”，复核后实写 10 条、排除 18 条、体例误判撤回 2 条。
+* 实写：Shakespeare（英国，1564–1616）、Stephen Schiffer（美国，1940–）、Swartz, Norman（1939–）、Tartaglia（意大利，1499–1557）、Theocritus（约前3世纪活动期）、von Fintel, Kai（德国）、Weber, Zach（新西兰）、Wetzel, Linda（美国，1951–）、Wheeler, Michael（英国，1960–）、Schubert, Lenhart（美国）。
+* 同名异人两例关键拦截：Sextus 行指莱布尼茨《神义论》里的塞克斯图斯·塔克文（恩披里柯已另行登记）、Zosimus 行指炼金术作家佐西摩斯而非拜占庭史家，均排除。
+* 排除 18 条：Selig（诗人）、Shanahan（占位生年）、Simmons（生物力学家）、Skow／Uniacke（无生卒）、Solomon／Ubaldo／Wagener／Yin Xian（单名或描述过弱）、Squatrito（非哲学家）、Stanhope（代际不符）、Stephens（馆员）、Tian Pian（占位生年，行内已有凭证）、Turner（作曲家）、Weckert（占位生年）、Weinrich（身份存疑）。
+* 方法事故与撤回：把 Van Cleve「美国／哲学」、van Gelder「澳大利亚／认知科学」误判为籍属污染并改写，核对全表发现「国籍／领域」是通行体例（1,041 行如此），已恢复原值；教训＝改存量字段前先量体例基线。
+* 证据：`results/backfill-auto-2026-11-23.tsv` 追加 30 行。`registry_azsort` 守恒 4597；`check_terms` 硬错误 0，缺项告警 769→763。
