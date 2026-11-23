@@ -91,3 +91,12 @@
 * 转权威译本档登记 12 部：《第一哲学沉思集》《实践理性批判》《宇宙发展史概论》（全增嘏译）《政治论》（斯宾诺莎文集第2卷）《语言的逻辑句法》《普罗提诺传》《可检验性与意义》《黑皮肤，白面具》（张香筠译）《逻辑哲学论》《谈谈方法》（王太庆译）《几何基础》（江泽涵、朱鼎勋译）《概率的逻辑基础》。
 * 译名联网核证（微信公号检索，2026-11-23）：谈谈方法（商务，王太庆）、宇宙发展史概论（全增嘏）、斯宾诺莎文集第2卷政治论、语言的逻辑句法（商务分析哲学名著译丛）、黑皮肤白面具（三联，张香筠）、几何基础（北大社，江泽涵/朱鼎勋）、普罗提诺生平（波菲利）。
 * 落册：`term_flow` 干跑 12/0，实写 12；`registry_azsort` 术语表 7254→7266 守恒；`check_terms` 硬错误 0。清单 `tasks/manifests/2026-11-23-058-batch9-works.json`。
+
+## 2026-11-23：存量缺口自动回填（第三批 400–600）
+
+* 干跑 200 条得 21 条“OK”，复核后实写 11 条、排除 10 条。
+* 实写：Melissus（约前5世纪活动期）、Menedemus of Pyrrha（约前350–）、Metrodorus of Chios（约前4世纪活动期）、Michael Smith（澳大利亚，1954–，Q6828096，换条目）、Moltmann, Friederike（德国／法国）、Omori, Hitoshi（日本）、Paroush, Jacob（以色列，生年 2000 占位不写）、Phaedo of Elis（约前4世纪活动期）、Retoré, Christian（1964–）、Robert Adams（美国，1937–2024，Q5254926，换条目）、Roush, Sherrilyn（美国）。
+* 换条目两例：Michael Smith 首检命中英国记者 Q6834471，改查 Q6828096（道德哲学家 Michael A. Smith）；Robert Adams 首检命中科幻小说家 Q7341356，改查 Q5254926（Robert Merrihew Adams）。
+* 排除 10 条：MacLeod, Colin（籍属与多伦多大学心理学家不符）、McKay, Thomas（生物工程师）、Meskin, Aaron（生年与已知美学家不符）、Moran, Thomas（作家）、Murphy, Peter（作家兼法官）、Nishimura（仅姓氏）、Pease, Adam（计算机科学家）、Perry, John（罗德学者）、Radcliff（军人）、Richmond, Marsha（生年 1901 与当代科学史家不符）。全部入 EXCLUDE 并记证据。
+* 纪年口径：描述只给世纪者记“约前N世纪（活动期）”，不冒充生卒；Wikidata 占位生年（2000）不写。
+* 证据：`results/backfill-auto-2026-11-23.tsv` 追加 21 行。`registry_azsort` 守恒 4597；`check_terms` 硬错误 0，缺项告警 781→769。

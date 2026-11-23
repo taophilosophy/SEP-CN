@@ -165,7 +165,11 @@ def main():
                'Gerbrandy, Jelle', 'Grant, Robert', 'Green, Adam',
                'Hanson, William', 'Hill, Thomas', 'Hippo', 'Homer',
                'Howard', 'Hyland, Martin', 'Iris', 'John Pollock',
-               'Jonah', 'Klein, Peter', 'Ladner, Richard E.'}
+               'Jonah', 'Klein, Peter', 'Ladner, Richard E.',
+               # 第三批逐条人工复核后的撞名/身份不符
+               'MacLeod, Colin', 'McKay, Thomas', 'Meskin, Aaron',
+               'Moran, Thomas', 'Murphy, Peter', 'Nishimura', 'Pease, Adam',
+               'Perry, John', 'Radcliff', 'Richmond, Marsha'}
     entries = []
     with io.open(MISSING, encoding='utf-8') as f:
         for line in f:
