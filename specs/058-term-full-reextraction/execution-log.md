@@ -407,3 +407,10 @@
 * 未收：Gaile Pohlhaus、Wayne Riggs——英文维基无条目、Wikidata 无项，无可核身份记录，暂留缺口并记入本行。
 * 落册：`term_flow` 12/0；`registry_azsort` 4,824→4,836 守恒；`check_all` 17 项全绿。
 * 证据：`results/people-wikidata-2026-11-24-b18.tsv`；清单 `tasks/manifests/2026-11-24-058-batch44-people.json`。
+
+## 2026-11-24：人名第十九批（人工智能、道德心理学与公共选择 9 人）
+
+* 新增 9 人：麦卡锡（1927–2011）、海特（1963–）、吉仁泽（1947–）、塔洛克（1922–2014）、梅西耶（1980–）、布伦南（1944–2022）、麦卡斯基尔（1987–）、格林（1974–）、维尔曼斯（1942–）。
+* 检索：参数化查询（“John McCarthy computer scientist”）在 Wikidat 全文检索失效，改英文维基页名反查（`John McCarthy (computer scientist)`→Q92739、`Joshua Greene (psychologist)`→Q16224624）。
+* 落册：`term_flow` 9/0；`registry_azsort` 4,836→4,845 守恒；`check_all` 17 项全绿。
+* 证据：`results/people-wikidata-2026-11-24-b19.tsv`；清单 `tasks/manifests/2026-11-24-058-batch45-people.json`。
