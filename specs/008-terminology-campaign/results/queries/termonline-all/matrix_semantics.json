@@ -1,0 +1,692 @@
+{
+ "key": "matrix semantics",
+ "term": "matrix semantics",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T03:07:26+00:00",
+ "status": "ok",
+ "note": "variant=matrix semantics; 审定公布名词库=960; 海峡两岸名词对照库=311; 其他来源数据库=45; 预公布名词数据库=20; jwt-direct（JWT 直连，raw 略；已滤维基 12 条）",
+ "hits": [
+  {
+   "cn": "语义学",
+   "en": "semantics",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.206",
+   "subjectFullName": "新闻学与传播学_传播总论_模式与方法",
+   "subjectName": "模式与方法",
+   "publishYear": "2022",
+   "definition": "研究语义表达的规律性、内在解释、不同语言在语义表达方面的个性以及共性。人类语言中，词汇可以有着许多不同的意义(meaning)，然而同一时代的词汇却往往有着相似的意义。对跨文化传播而言，语义学在于让人"
+  },
+  {
+   "cn": "语义",
+   "en": "semantics",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0005",
+   "subjectFullName": "计算机科学技术_系统软件_语言与编译",
+   "subjectName": "语言与编译",
+   "publishYear": "2018",
+   "definition": "语言中各个成分的含义。"
+  },
+  {
+   "cn": "语义学",
+   "en": "semantics",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0484",
+   "subjectFullName": "计算机科学技术_人工智能_计算语言学",
+   "subjectName": "计算语言学",
+   "publishYear": "2018",
+   "definition": "研究自然语言或人工语言的形式和意义间关系的语言学分支。"
+  },
+  {
+   "cn": "语义",
+   "en": "semantics",
+   "source": "数学名词",
+   "wordNumber": "02.0016",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "语义学",
+   "en": "semantics,linguistic semantics",
+   "source": "语言学名词",
+   "wordNumber": "05.001",
+   "subjectFullName": "语言学_语义学、词汇学_语义学与语义理论",
+   "subjectName": "语义学与语义理论",
+   "publishYear": "2011",
+   "definition": "①研究语言意义的学科。从研究角度和研究范畴可分为语言语义学、逻辑语义学、普通语义学、哲学语义学、文化语义学等；从历时发展角度可分为传统语义学和现代语义学；从理论模式角度可分为结构语义学、解释语义学、生"
+  },
+  {
+   "cn": "普通语义学",
+   "en": "general semantics,theoretic semantics",
+   "source": "语言学名词",
+   "wordNumber": "05.004",
+   "subjectFullName": "语言学_语义学、词汇学_语义学与语义理论",
+   "subjectName": "语义学与语义理论",
+   "publishYear": "2011",
+   "definition": "语义学的一个分支。主要研究语言交际中的意义问题。"
+  },
+  {
+   "cn": "语义检索",
+   "en": "semantic retrieval,semantic search",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.046",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_检索技术与方法",
+   "subjectName": "检索技术与方法",
+   "publishYear": "2019",
+   "definition": "通过正确分析语法格式，在理解词语的准确意思和词语之间关系的条件下，检索系统根据要求从语义层面上自动从信息源中查询和提取有关信息的过程。"
+  },
+  {
+   "cn": "语义分析",
+   "en": "semantic analysis,semantic parsing",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0534",
+   "subjectFullName": "计算机科学技术_人工智能_计算语言学",
+   "subjectName": "计算语言学",
+   "publishYear": "2018",
+   "definition": "对自然语言进行分析并得到其意义的形式化表示的过程、技术和方法。"
+  },
+  {
+   "cn": "沉积基质",
+   "en": "matrix",
+   "source": "地质学名词",
+   "wordNumber": "05.03.147",
+   "subjectFullName": "地质学_沉积学与沉积岩岩石学_沉积岩结构、构造",
+   "subjectName": "沉积岩结构、构造",
+   "publishYear": "2026",
+   "definition": "充填于较大碎屑之间的细粒机械沉积物的统称。其粒度无统一严格的规定，视岩石中主要碎屑物的相对粒度而定。常见的基质成分为绢云母、水云母、绿泥石、石英、长石，以及隐晶结构的粉砂级岩屑颗粒等。由于黏土矿物成因"
+  },
+  {
+   "cn": "凹模",
+   "en": "matrix",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "15.078",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_模具",
+   "subjectName": "模具",
+   "publishYear": "2021",
+   "definition": "在冲压过程中，与凸模配合直接对制件进行分离或成形的工作零件。"
+  },
+  {
+   "cn": "矩阵",
+   "en": "matrix",
+   "source": "医学影像技术学名词",
+   "wordNumber": "03.014",
+   "subjectFullName": "医学影像技术学_数字X射线成像技术_数字影像学基础",
+   "subjectName": "数字影像学基础",
+   "publishYear": "2020",
+   "definition": "由横行和纵列组成的数字阵列。"
+  },
+  {
+   "cn": "蓄热体",
+   "en": "matrix",
+   "source": "电力名词",
+   "wordNumber": "10.643",
+   "subjectFullName": "电力_汽轮机、燃气轮机",
+   "subjectName": "汽轮机、燃气轮机",
+   "publishYear": "2020",
+   "definition": "一种热膨胀性低、比热容大、比表面积大、压降小、热阻小、导热性能好以及耐热冲击好的蜂窝陶瓷制品。"
+  },
+  {
+   "cn": "基质",
+   "en": "matrix",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.0981",
+   "subjectFullName": "食品科学技术_食品工程_食品原料与加工_蛋与蛋制品",
+   "subjectName": "蛋与蛋制品",
+   "publishYear": "2020",
+   "definition": "蛋壳的重要组成成分。由交错的蛋白质纤维和蛋白质团块构成，分为乳头层和海绵层。"
+  },
+  {
+   "cn": "基质",
+   "en": "matrix",
+   "source": "运动医学名词",
+   "wordNumber": "01.004",
+   "subjectFullName": "运动医学_运动解剖_人体运动的结构基础",
+   "subjectName": "人体运动的结构基础",
+   "publishYear": "2019",
+   "definition": "细胞质中除去颗粒部分后剩下的均一性物质。"
+  },
+  {
+   "cn": "基体",
+   "en": "matrix",
+   "source": "冶金学名词",
+   "wordNumber": "07.0530",
+   "subjectFullName": "冶金学_金属学_显微组织",
+   "subjectName": "显微组织",
+   "publishYear": "2019",
+   "definition": "材料构成的基本组织，一般具有连续的空间分布。"
+  },
+  {
+   "cn": "矩阵",
+   "en": "matrix",
+   "source": "物理学名词",
+   "wordNumber": "01.0429",
+   "subjectFullName": "物理学_通类_数学",
+   "subjectName": "数学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "基质",
+   "en": "matrix",
+   "source": "植物学名词",
+   "wordNumber": "13.0585",
+   "subjectFullName": "植物学_植物生态学_生态系统与景观生态学",
+   "subjectName": "生态系统与景观生态学",
+   "publishYear": "2019",
+   "definition": "景观的背景地域。是景观中面积最大、连通性最好、在景观功能上起控制作用的景观要素。"
+  },
+  {
+   "cn": "基质",
+   "en": "matrix",
+   "source": "化工名词（一）石油炼制·煤制油及天然气·生物质制油",
+   "wordNumber": "02.0882",
+   "subjectFullName": "化工（一）_催化剂、助剂、添加剂",
+   "subjectName": "催化剂、助剂、添加剂",
+   "publishYear": "2017",
+   "definition": "催化裂化催化剂中除沸石外的组分。分子筛裂化催化剂由活性组分和基质组成，基质为连续相，多为硅铝胶与高岭土的紧密结合体。"
+  },
+  {
+   "cn": "基质",
+   "en": "matrix",
+   "source": "林学名词",
+   "wordNumber": "03.229",
+   "subjectFullName": "林学_森林生态、湿地与自然保护区_森林生态",
+   "subjectName": "森林生态",
+   "publishYear": "2016",
+   "definition": "面积最大、连通性最好、在景观功能上起控制作用的景观要素。"
+  },
+  {
+   "cn": "基体",
+   "en": "matrix",
+   "source": "化学名词",
+   "wordNumber": "03.1087",
+   "subjectFullName": "化学_高分子化学_高分子加工技术和应用",
+   "subjectName": "高分子加工技术和应用",
+   "publishYear": "2016",
+   "definition": "呈连续相分布，将增强体或分散相连接为整体的组分。"
+  },
+  {
+   "cn": "语义学",
+   "en": "semantics",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "语义",
+   "en": "semantic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "语义编码",
+   "en": "semantic encoding\",\"semantic coding",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "基体",
+   "en": "matrix",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "矩阵",
+   "en": "matrix",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "基质",
+   "en": "matrix",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "矩阵",
+   "en": "matrix",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "矩阵",
+   "en": "matrix",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "生成语义学",
+   "en": "generative semantics",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "地图语义",
+   "en": "cartographic semantics",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "地图语义",
+   "en": "cartographic semantics",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "数据语义",
+   "en": "data semantics",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "地图语义",
+   "en": "cartographic semantics",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "变换语义",
+   "en": "transformation semantics",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "操作语义",
+   "en": "operational semantics",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "成分语义学",
+   "en": "compositional semantics",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "词汇语义学",
+   "en": "lexical semantics",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "代数语义学",
+   "en": "algebraic semantics",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "动词语义学",
+   "en": "verb semantics",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "公理语义",
+   "en": "axiomatic semantics",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "语义网络",
+   "en": "semantic network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "语义搜索",
+   "en": "semantic search",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "语义对等",
+   "en": "semantic equivalence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "语义模型",
+   "en": "semantic model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "语义建模",
+   "en": "semantic modeling",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "分布语义假设",
+   "en": "distributional semantics hypothesis",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据语义标准",
+   "en": "data semantics standard",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "隐性语义索引",
+   "en": "latent semantic indexing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "语义的不可通约性",
+   "en": "semantic incommensurability",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.184",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "不存在一种中立语言，使得新、旧两种范式的陈述可以翻译到该语言，从而实现新、旧范式之间的合理性对比。"
+  },
+  {
+   "cn": "语义差异量表",
+   "en": "semantic differential scale",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.47",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "以形容词的正反意义为基础、通过等值的评定等级测量态度和感知的量表。是20世纪40年代到50年代由奥斯古德发展的。"
+  },
+  {
+   "cn": "语义网络分析",
+   "en": "semantic network analysis",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.16",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "表现概念间语义关系的网络图.是一种常见的知识呈现形式。"
+  },
+  {
+   "cn": "表意文字",
+   "en": "semantic script; ideography",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0195",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "文字类型之一。字符本身或其结构单位与所记录的词的意义有一定联系而与所记录词的读音没有直接联系的书写符号系统。"
+  },
+  {
+   "cn": "清单矩阵",
+   "en": "checklist matrix",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.4",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "用以分析某个主要的变量或通常感兴趣的领域的田野数据的一种表格形式。矩阵表格中包含了某个单一的、一致的变量的几个组成部分。"
+  },
+  {
+   "cn": "社会母体",
+   "en": "social matrix",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.7",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "孕育社会新生事物的社会基体或本原。"
+  },
+  {
+   "cn": "学科基质",
+   "en": "disciplinary matrix",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.179",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "在库恩的理论中，学科基质由六个部分组成：①公式和符号表征；②仪器；③正误标准和实验可重复性；④形而上学预设；⑤问题研究域；⑥范例。"
+  },
+  {
+   "cn": "食品基质",
+   "en": "food matrix",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.2.62",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "待测食品样品中除被分析物质之外的所有物质的总和"
+  },
+  {
+   "cn": "风险矩阵",
+   "en": "risk matrix",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.5.23",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "表示各方案在不同自然状态下最终收益或损失结果的矩阵。"
+  },
+  {
+   "cn": "时间序列阵",
+   "en": "time-ordered matrix",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.10",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "用以表现事件发生的次序、要点、状态的表格。其中列按照时间顺序或事件发生的前后次序排列，行列出了研究者感兴趣的内容，行列交叉处记录了事件的具体状态。"
+  },
+  {
+   "cn": "角色序列阵",
+   "en": "role-ordered matrix",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.11",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "根据从一组角色占据者那里收集到的数据，或者同一组角色占据者相关的数据，用行列交叉表格的形式表现出他们对某个问题观点差异的图表。"
+  },
+  {
+   "cn": "概念聚类阵",
+   "en": "conceptually clustered matrix",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.12",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "把同概念相关的术语汇集起来的行列交叉表格。其基本原则是概念的一致性。"
+  },
+  {
+   "cn": "主题概念阵",
+   "en": "thematic conceptual matrix",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.13",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "根据一个研究主题，列出所有相关概念的行列交叉表格。"
+  },
+  {
+   "cn": "基质金属蛋白酶",
+   "en": "matrix metalloproteinase， MMP",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.5.28",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_炎症介质",
+   "subjectName": "炎症介质",
+   "publishYear": "2025",
+   "definition": "水解细胞外基质的蛋白裂解酶。包括基质中以及整合于质膜中的各种胶原酶和弹性蛋白酶等。"
+  },
+  {
+   "cn": "基体标准物质",
+   "en": "matrix reference material",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.59",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "具有实际样品特性的标准物质"
+  },
+  {
+   "cn": "卫生费用矩阵平衡核算",
+   "en": "national health accounts by matrix",
+   "source": "卫生经济学名词",
+   "wordNumber": "2.2.5.8",
+   "subjectFullName": "卫生经济学名词_卫生总费用_卫生费用核算",
+   "subjectName": "卫生费用核算",
+   "publishYear": "2025",
+   "definition": "采用棋盘式表格，按照一定顺序分别在行和列上体现不同核算维度，不仅使每个维度的账户在总额上平等，而且相互对应，各账户之间体现严密的数量衔接，综合反映卫生资金的循环流程及内在联系。"
+  },
+  {
+   "cn": "毛利人",
+   "en": "Maoris",
+   "source": "民族学与文化学名词",
+   "wordNumber": "6.0449",
+   "subjectFullName": "民族学与文化学_世界民族_太平洋地区",
+   "subjectName": "太平洋地区",
+   "publishYear": "2025",
+   "definition": "新西兰土著（tangata whenua），该国六大族群之一。公元13 世纪从波利尼西亚来到这片大陆，并称其为“奥提罗亚”（Aotearoa）。人口约875 300，占新西兰总人口17.1% （202"
+  },
+  {
+   "cn": "马里人",
+   "en": "Mari",
+   "source": "民族学与文化学名词",
+   "wordNumber": "6.0271",
+   "subjectFullName": "民族学与文化学_世界民族_欧洲地区",
+   "subjectName": "欧洲地区",
+   "publishYear": "2025",
+   "definition": "俄罗斯联邦民族之一。 人口约为56 万（2011 年）。分布以马里自治共和国最为集中，此外在俄罗斯的其他地区也有分布。属欧罗巴人种与蒙古人种的混合类型。操马里语，属乌拉尔语系芬兰-乌戈尔语族，有文字。"
+  },
+  {
+   "cn": "国际马克思大会",
+   "en": "international Marx convention",
+   "source": "马克思主义",
+   "wordNumber": "05.0280",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_国外社会主义思想流派",
+   "subjectName": "国外社会主义思想流派",
+   "publishYear": "2025",
+   "definition": "1995年由法国《当代马克思》杂志发起，联合世界各地上百家国际马克思主义理论研究刊物和研究机构召开的国际性会议。大会以现实性、探索性、国际性、多元性和多学科性为宗旨，强调打破党派和学科界限，从学术上探"
+  },
+  {
+   "cn": "马克思学说研究会",
+   "en": "Marx Theory Research Association",
+   "source": "马克思主义",
+   "wordNumber": "04.0446",
+   "subjectFullName": "马克思主义_其他部分_重要组织政党_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "五四运动时期传播马克思主义的重要学术团体。1920年3月，由李大钊主持成立了北京大学马克思学说研究会。它是中国最早学习和研究马克思主义的团体，为中国共产党的建立作了准备。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

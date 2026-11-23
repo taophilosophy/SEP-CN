@@ -1,0 +1,752 @@
+{
+ "key": "complete lattice",
+ "term": "complete lattice",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T03:09:20+00:00",
+ "status": "ok",
+ "note": "variant=complete lattice; 审定公布名词库=1759; 海峡两岸名词对照库=468; 其他来源数据库=42; 预公布名词数据库=46; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "完全格",
+   "en": "complete lattice",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0916",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "所有子集都有上确界（并）和下确界（交）的格。"
+  },
+  {
+   "cn": "完全格",
+   "en": "complete lattice",
+   "source": "数学名词",
+   "wordNumber": "03.0271",
+   "subjectFullName": "数学_组合学·一般数学系统_序·格·一般数学系统",
+   "subjectName": "序?格?一般数学系统",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "晶格",
+   "en": "lattice",
+   "source": "光学名词",
+   "wordNumber": "06.071",
+   "subjectFullName": "光学_光学材料",
+   "subjectName": "光学材料",
+   "publishYear": "2021",
+   "definition": "晶体中周期排列所构成的空间点阵形式的结构单元。晶体结构单元的中心点称为格点，格点之间的距离称为晶格常数。"
+  },
+  {
+   "cn": "晶格",
+   "en": "lattice",
+   "source": "医学影像技术学名词",
+   "wordNumber": "05.090",
+   "subjectFullName": "医学影像技术学_磁共振成像技术_磁共振成像原理",
+   "subjectName": "磁共振成像原理",
+   "publishYear": "2020",
+   "definition": "磁共振成像中原子核磁矩对应的周围环境的空间点阵。自旋系统释放能量至周围环境中，是磁场中物质产生磁化矢量的基本原因。"
+  },
+  {
+   "cn": "点阵",
+   "en": "lattice",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "03.0494",
+   "subjectFullName": "化工（三）_传递过程与单元操作",
+   "subjectName": "传递过程与单元操作",
+   "publishYear": "2019",
+   "definition": "晶体内部的质点在三维空间呈周期性排列，并抽象成只有数学意义的周期性图形。"
+  },
+  {
+   "cn": "格[子]",
+   "en": "lattice",
+   "source": "物理学名词",
+   "wordNumber": "11.0714",
+   "subjectFullName": "物理学_交叉学科_非线性物理学",
+   "subjectName": "非线性物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "格",
+   "en": "lattice",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0194",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "一个格是一个偏序集 (P,<img src='/root/syzx/static/spz/jsjkx3.02.0156.001.png'/>) ，并在其上定义有最小上界(∨)和最大下界(∧)两种运算，"
+  },
+  {
+   "cn": "晶格",
+   "en": "lattice",
+   "source": "化学名词",
+   "wordNumber": "04.1774",
+   "subjectFullName": "化学_物理化学_晶体化学",
+   "subjectName": "晶体化学",
+   "publishYear": "2016",
+   "definition": "依据晶体三维点阵点，按特定原则选取的晶轴为棱，其贯穿点阵点的连续线，可以划分出三维连续并置、大小和形状完全相同的平行六面体，其所形成的空间无限网络格子。晶格的划分并不唯一，通常是按晶系等规定进行划分。"
+  },
+  {
+   "cn": "晶格",
+   "en": "lattice",
+   "source": "材料科学技术名词",
+   "wordNumber": "01.0247",
+   "subjectFullName": "材料科学技术_材料科学技术基础_材料科学基础_材料组织结构",
+   "subjectName": "材料组织结构",
+   "publishYear": "2011",
+   "definition": "实际晶体对应的空间点阵。"
+  },
+  {
+   "cn": "格栅",
+   "en": "lattice",
+   "source": "土木工程名词",
+   "wordNumber": "09.197",
+   "subjectFullName": "土木工程_隧道与地下工程_隧道支护和衬砌",
+   "subjectName": "隧道支护和衬砌",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "晶格",
+   "en": "lattice",
+   "source": "电气工程名词",
+   "wordNumber": "02.243",
+   "subjectFullName": "电气工程_导电材料及半导体材料",
+   "subjectName": "导电材料及半导体材料",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "格",
+   "en": "lattice",
+   "source": "数学名词",
+   "wordNumber": "03.0233",
+   "subjectFullName": "数学_组合学·一般数学系统_序·格·一般数学系统",
+   "subjectName": "序?格?一般数学系统",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "晶格",
+   "en": "lattice",
+   "source": "电子学名词",
+   "wordNumber": "13.029",
+   "subjectFullName": "电子学_半导体物理与半导体材料",
+   "subjectName": "半导体物理与半导体材料",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "晶格",
+   "en": "lattice",
+   "source": "地质学名词",
+   "wordNumber": "04.137",
+   "subjectFullName": "地质学_矿物学",
+   "subjectName": "矿物学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "晶格",
+   "en": "crystal lattice,lattice",
+   "source": "生物物理学名词",
+   "wordNumber": "02.159",
+   "subjectFullName": "生物物理学_分子与结构生物学_蛋白质晶体学",
+   "subjectName": "蛋白质晶体学",
+   "publishYear": "2018",
+   "definition": "为了充分反映晶体结构内部最重要的特征，即质点(如分子、原子)在空间排列上的周期性，在晶体中用一个点代表晶体结构的基本重复单位，在三维空间有规则地做周期性的无限分布，这些点在三个不同方向连成直线形成的一"
+  },
+  {
+   "cn": "完全[的]",
+   "en": "complete",
+   "source": "数学名词",
+   "wordNumber": "01.0062",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "1-完全的",
+   "en": "1-complete",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0172",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "给定计算可枚举集合 A ，如果对任何计算可枚举集合 X ， X<img src='/root/syzx/static/spz/jsjkx3.02.0170.002.png'/>A 均成立，则称 A 是"
+  },
+  {
+   "cn": "σ完备",
+   "en": "σ-complete,sigma-complete",
+   "source": "数学名词",
+   "wordNumber": "07.0132",
+   "subjectFullName": "数学_泛函分析_泛函分析基础",
+   "subjectName": "泛函分析基础",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "完备性",
+   "en": "completeness",
+   "source": "物理学名词",
+   "wordNumber": "06.0500",
+   "subjectFullName": "物理学_相对论、量子理论_量子理论",
+   "subjectName": "量子理论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "数据完整度",
+   "en": "completeness",
+   "source": "生物物理学名词",
+   "wordNumber": "02.234",
+   "subjectFullName": "生物物理学_分子与结构生物学_蛋白质晶体学",
+   "subjectName": "蛋白质晶体学",
+   "publishYear": "2018",
+   "definition": "衍射实验中实际收集到的独立的衍射点数与理论上可以收集到的独立的衍射点数的比值。代表了所收集衍射数据的完整性，最高为100%。"
+  },
+  {
+   "cn": "点阵",
+   "en": "lattice",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "晶格",
+   "en": "lattice",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "网点",
+   "en": "lattice",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "晶格",
+   "en": "lattice",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "晶格",
+   "en": "crystal lattice\",\"lattice",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "完整性",
+   "en": "completeness",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "完全性",
+   "en": "completeness",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "网格状纤维",
+   "en": "lattice fiber",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "空间点阵",
+   "en": "space lattice",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "空间点阵",
+   "en": "space lattice",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "布拉维点阵",
+   "en": "Bravais lattice",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "晶格失配",
+   "en": "lattice mismatch",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "点阵气",
+   "en": "lattice gas",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "点阵波",
+   "en": "lattice wave",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "倒易点阵",
+   "en": "reciprocal lattice",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "晶格畸变",
+   "en": "lattice distortion",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "晶格反演",
+   "en": "lattice inversion",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "晶格格位",
+   "en": "lattice site",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "晶格态",
+   "en": "lattice form",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "空间格子",
+   "en": "space lattice",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "成人",
+   "en": "Complete Man",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "完全伸展",
+   "en": "complete extension",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "图灵完备",
+   "en": "Turing completeness",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "锶原子光晶格钟",
+   "en": "strontium optical lattice clock",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "一本胜",
+   "en": "complete win\",\"ippon-gachi",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "双缰",
+   "en": "complete bridle\",\"double bridle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "完全支配权",
+   "en": "right to complete dominance",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "试举成功",
+   "en": "completed attempt\",\"good lift",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "NP完全性理论",
+   "en": "theory of NP-completeness",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "心悦诚服",
+   "en": "Be Completely Convinced and Follow Willingly",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "记分获胜",
+   "en": "complete win\",\"decision by points\",\"win by score\",\"win on points",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "成竹于胸",
+   "en": "<p class=\"MsoNormal\"> Have&nbsp;a Complete Image of the Bamboo Before Drawing It / Have&nbsp;a Fully Formed Picture in the Mind’ Eye</p>",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "不完全抱",
+   "en": "incomplete hold",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "阵容不完整球队",
+   "en": "incomplete team",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自杀死亡",
+   "en": "complete suicide",
+   "source": "社会医学名词",
+   "wordNumber": "13.3.2.4",
+   "subjectFullName": "社会病",
+   "subjectName": "自我伤害",
+   "publishYear": "2025",
+   "definition": "有自杀意念和行为并导致死亡的现象。"
+  },
+  {
+   "cn": "变色完全",
+   "en": "discoloration completion",
+   "source": "消毒学",
+   "wordNumber": "3.1.6.6.5",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "在化学监测中，以颜色变化作为消毒灭菌效果的判定依据时，指示物达到了终点色的现象。"
+  },
+  {
+   "cn": "整机寿命",
+   "en": "complete machine life",
+   "source": "消毒学",
+   "wordNumber": "6.1.15.2.2",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "成套或整体单机、单台形式的消毒器械的寿命。"
+  },
+  {
+   "cn": "完全缓解",
+   "en": "complete response，CR",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.6.2.3",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的疾病评估_预后与转归",
+   "subjectName": "预后与转归",
+   "publishYear": "2025",
+   "definition": "治疗后疾病完全控制，症状、体征、检查异常完全消失的状态。"
+  },
+  {
+   "cn": "完整句阶段",
+   "en": "complete sentence stage",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.7.5",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "经过不完整句阶段的准备和调整，儿童语言逐渐进入完整句的时期。句子的长度和结构的完整性和复杂性增加，包括简单句和复合句的发育阶段。"
+  },
+  {
+   "cn": "完全积累制",
+   "en": "completely accumulative system",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.5.1.5",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险筹资与运行",
+   "subjectName": "健康保险筹资与运行",
+   "publishYear": "2025",
+   "definition": "根据长期收支平衡为原则来确定费率的基金筹集模式"
+  },
+  {
+   "cn": "全营养配方食品",
+   "en": "nutritionally complete formula foods",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.2.16",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "可作为单一营养来源满足目标人群营养需求的特殊医学用途配方食品。"
+  },
+  {
+   "cn": "青少年自杀死亡",
+   "en": "completed suicide in adolescent",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.2.1.6.5",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "青少年有意图并采取行动而最终导致死亡的结果。其死亡有鲜明的“自我施予性”。"
+  },
+  {
+   "cn": "特定全营养配方食品",
+   "en": "special nutritionally complete formula foods",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.2.17",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "可作为单一营养来源满足目标人群在特定疾病或医学状况下的营养需求的特殊医学用途配方食品。"
+  },
+  {
+   "cn": "非全营养配方食品",
+   "en": "nutritionally non-complete formula foods",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.2.29",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "不能作为单一营养来源，可满足目标人群部分营养需求的特殊医学用途配方食品。"
+  },
+  {
+   "cn": "学校建设项目竣工验收",
+   "en": "school building projects completion acceptance",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "10.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校卫生监督_学校预防性卫生监督",
+   "subjectName": "学校预防性卫生监督",
+   "publishYear": "2025",
+   "definition": "学校建设项目竣工后，对照已经卫生审查的设计图纸，对该项目的建筑施工、设备安装是否符合设计要求进行现场查验并提出意见的过程。"
+  },
+  {
+   "cn": "肿瘤全营养配方食品",
+   "en": "nutritionally complete formula foods for cancer",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.2.21",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "在相应年龄段全营养配方食品的基础上，为适应肿瘤患者代谢特点及肿瘤细胞分化特性，适当提高脂肪和蛋白质的供能比以及其他免疫功能相关营养素含量，使其可作为单一营养来源满足肿瘤患者营养需求的配方食品。"
+  },
+  {
+   "cn": "糖尿病全营养配方食品",
+   "en": "nutritionally complete formula food for diabetes",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.2.18",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "在相应年龄段全营养配方食品的基础上，为满足糖尿病患者的特殊需求，调整其营养素构成后加工配制而成，以改善糖尿病患者血糖及营养代谢相关指标的能够作为单一营养来源满足患者营养需求的配方食品。"
+  },
+  {
+   "cn": "《白古通纪》",
+   "en": "Complete Annals of Ancient Bai People",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0301",
+   "subjectFullName": "民族学与文化学_民族史_民族文化",
+   "subjectName": "民族文化",
+   "publishYear": "2025",
+   "definition": "全名为《白古通玄峰年运志》，简称《白古通》；作者不详。是一部用白文撰写的白族历史典籍，大约成书于元末或明初。"
+  },
+  {
+   "cn": "肌肉衰减综合征全营养配方食品",
+   "en": "nutritionally complete formula foods for sarcopenia",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.2.23",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "在相应年龄段全营养配方食品的基础上，为适应患者肌肉流失、运动能力下降的生理特点，使用更易消化吸收的蛋白质并提高其供能比，适当调整氨基酸模式及微量营养素成分，使其可作为单一营养来源满足肌肉衰减综合征患者"
+  },
+  {
+   "cn": "肾病全营养配方食品",
+   "en": "nutritionally complete formula foods for renal diseases",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.2.20",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "在相应年龄段全营养配方食品的基础上，根据肾病患者的病理生理特点，分别调整其营养素构成后加工配制而成的能够作为单一营养来源满足肾病患者营养需求的配方食品。"
+  },
+  {
+   "cn": "肝病全营养配方食品",
+   "en": "nutritionally complete formula foods for liver diseases",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.2.22",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "在相应年龄段全营养配方食品的基础上，根据不同类型肝病患者的病理状况与生理代谢特点，调整营养素含量与相互之间的比例，使其可作为单一营养来源满足肝病患者营养需求的配方食品。"
+  },
+  {
+   "cn": "难治性癫痫全营养配方食品",
+   "en": "nutritionally complete formula foods for intractable epilepsy",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.2.27",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "采用高脂肪、低碳水化合物和适量蛋白质组成的生酮饮食配方，保证营养充足并为大脑提供必要的能量，在缓解癫痫发作的同时也能作为单一营养来源满足难治性癫痫患者营养需求的配方食品。"
+  },
+  {
+   "cn": "完整准确理解毛泽东思想",
+   "en": "understand Mao Zedong thought completely and accurately",
+   "source": "马克思主义",
+   "wordNumber": "03.0510",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "邓小平在中共十届三中全会上对毛泽东思想的阐述。邓小平指出，毛泽东同志在不同的时间、条件对同样的问题讲的话，有时分寸不同，着重点不同，甚至一些提法也不同。不能够只从个别词句来理解毛泽东思想，而必须从毛泽"
+  },
+  {
+   "cn": "炎性肠病全营养配方食品",
+   "en": "nutritionally complete formula foods for inflammatory bowel disease",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.2.24",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "在相应年龄段全营养配方食品的基础上，为适应炎性肠病患者对营养素的利用障碍，使用更易消化吸收的蛋白质和脂肪来源，使其可作为单一营养来源满足炎性肠病患者营养需求的配方食品。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

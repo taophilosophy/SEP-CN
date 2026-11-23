@@ -1,0 +1,692 @@
+{
+ "key": "logical values",
+ "term": "logical values",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T03:08:32+00:00",
+ "status": "ok",
+ "note": "variant=logical values; 审定公布名词库=3524; 海峡两岸名词对照库=1129; 其他来源数据库=117; 预公布名词数据库=152; jwt-direct（JWT 直连，raw 略；已滤维基 12 条）",
+ "hits": [
+  {
+   "cn": "多值逻辑",
+   "en": "multivalue logic,many-valued logic,multiple-value logic",
+   "source": "数学名词",
+   "wordNumber": "02.0313",
+   "subjectFullName": "数学_数理逻辑·数学基础_非经典逻辑",
+   "subjectName": "非经典逻辑",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑",
+   "en": "logic",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.359",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "通常指人们思考问题，从某些已知条件出发，推出合理的结论的规律。"
+  },
+  {
+   "cn": "逻辑主义",
+   "en": "logicism",
+   "source": "数学名词",
+   "wordNumber": "02.0304",
+   "subjectFullName": "数学_数理逻辑·数学基础_数学基础 ",
+   "subjectName": "数学基础",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑和",
+   "en": "logical disjunction,logical sum",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.021",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "A和B两个检索项之间的布尔逻辑关系为“和”的运算。表示一篇文献只要含有A、B两项中的任何一项即可命中，通常用算符“或”或“OR”表示多个文件集并列的关系。"
+  },
+  {
+   "cn": "逻辑积",
+   "en": "logical product,logical multiplication",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.020",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "A和B两个检索项之间的布尔逻辑关系为“乘”的运算。表示一篇文献既含有检索项A，又含有检索项B才能命中，通常用算符“与”或“AND”表示其文件集相交的关系。"
+  },
+  {
+   "cn": "逻辑归档",
+   "en": "logical filing；logical archiving",
+   "source": "档案学名词",
+   "wordNumber": "06.03.012",
+   "subjectFullName": "档案学_电子文件管理_流程与方法",
+   "subjectName": "流程与方法",
+   "publishYear": "2024",
+   "definition": "具有档案价值的电子文件在归档之后仍然存储在业务系统中的归档方式。通常要求将其元数据移交到电子文件管理系统中，档案部门也可以委托业务部门对这些归档文件进行保管和提供利用，并对其管理工作进行指导和监督。"
+  },
+  {
+   "cn": "信念逻辑",
+   "en": "belief logic,doxastic logic",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0023",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "关于信念推理的逻辑。"
+  },
+  {
+   "cn": "逻辑阀",
+   "en": "logical valve",
+   "source": "航海科技名词",
+   "wordNumber": "15.0610",
+   "subjectFullName": "航海科学技术_轮机管理",
+   "subjectName": "轮机管理",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "价值",
+   "en": "value",
+   "source": "经济学名词",
+   "wordNumber": "02.023",
+   "subjectFullName": "经济学_政治经济学",
+   "subjectName": "政治经济学",
+   "publishYear": "2020",
+   "definition": "凝结在商品中一般的、无差别的人类劳动。是商品的二因素之一，是商品交换的基础，体现商品的社会属性和商品生产者之间的关系，是商品经济的特有范畴。"
+  },
+  {
+   "cn": "价值",
+   "en": "value",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0701",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_其他",
+   "subjectName": "其他",
+   "publishYear": "2016",
+   "definition": "功能与实现功能所发生成本之间关系的定性或定量表示。"
+  },
+  {
+   "cn": "价值观",
+   "en": "value",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0101",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_个体行为基础",
+   "subjectName": "个体行为基础",
+   "publishYear": "2016",
+   "definition": "人们对事物的意义和重要性的总体价值评价。"
+  },
+  {
+   "cn": "明度",
+   "en": "value",
+   "source": "医学美学与美容医学名词",
+   "wordNumber": "05.060",
+   "subjectFullName": "医学美学与美容医学_美容牙科学",
+   "subjectName": "美容牙科学",
+   "publishYear": "2015",
+   "definition": "色彩的明亮度。由物体对光的反射强弱而定。"
+  },
+  {
+   "cn": "价值观",
+   "en": "value",
+   "source": "心理学名词",
+   "wordNumber": "07.156",
+   "subjectFullName": "心理学_社会心理学",
+   "subjectName": "社会心理学",
+   "publishYear": "2014",
+   "definition": "人们对事物进行评判和选择的重要性标准。"
+  },
+  {
+   "cn": "价值观",
+   "en": "value",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "09.091",
+   "subjectFullName": "全科医学与社区卫生_社区健康教育与健康促进",
+   "subjectName": "社区健康教育与健康促进",
+   "publishYear": "2014",
+   "definition": "人们认为最重要的信念和标准。"
+  },
+  {
+   "cn": "价值",
+   "en": "value",
+   "source": "药学名词",
+   "wordNumber": "10.040",
+   "subjectFullName": "药学_药物经济学",
+   "subjectName": "药物经济学",
+   "publishYear": "2014",
+   "definition": "对特定健康水平或健康产出偏好的衡量。"
+  },
+  {
+   "cn": "价值观",
+   "en": "value",
+   "source": "教育学名词",
+   "wordNumber": "01.188",
+   "subjectFullName": "教育学_教育基本理论",
+   "subjectName": "教育基本理论",
+   "publishYear": "2013",
+   "definition": "人们对客观事物的意义、重要性的看法和态度。"
+  },
+  {
+   "cn": "μ值",
+   "en": "μ value",
+   "source": "地质学名词",
+   "wordNumber": "13.03.065",
+   "subjectFullName": "地质学_地球化学_同位素地球化学",
+   "subjectName": "同位素地球化学",
+   "publishYear": "2026",
+   "definition": "铀-铅同位素组成中的²³⁸U/²⁰⁴Pb值。"
+  },
+  {
+   "cn": "δ值",
+   "en": "δ value",
+   "source": "地质学名词",
+   "wordNumber": "13.03.130",
+   "subjectFullName": "地质学_地球化学_同位素地球化学",
+   "subjectName": "同位素地球化学",
+   "publishYear": "2026",
+   "definition": "稳定同位素质谱分析中，样品中某元素的两种稳定同位素质量数比值(重同位素与轻同位素)与标准样品质量数的相对比值千分差。即δ=[(R样-R标)/R标\\]×1000‰。此值为正，表示此样品比标准样富集重同位"
+  },
+  {
+   "cn": "φ值",
+   "en": "φ value",
+   "source": "地质学名词",
+   "wordNumber": "05.03.127",
+   "subjectFullName": "地质学_沉积学与沉积岩岩石学_沉积岩结构、构造",
+   "subjectName": "沉积岩结构、构造",
+   "publishYear": "2026",
+   "definition": "粒度分析时常用的粒径单位。碎屑颗粒的粒度分布并非正态分布而属于对数正态分布。由于自然粒级标准不能正确地反映客观存在的规律，因此，目前广泛采用φ值粒级标准。由对数变换而来，其定义为：φ＝-log2D。D"
+  },
+  {
+   "cn": "τ值",
+   "en": "τ-value",
+   "source": "化学名词",
+   "wordNumber": "03.2243",
+   "subjectFullName": "化学_分析化学_仪器分析_核磁共振分析",
+   "subjectName": "核磁共振分析",
+   "publishYear": "2016",
+   "definition": "过去文献中采用的化学位移表示符号。现已不用。"
+  },
+  {
+   "cn": "多值逻辑",
+   "en": "multiple value logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑",
+   "en": "logic",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑记录",
+   "en": "logical record\",\"logic record",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑阀",
+   "en": "logical valve",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "价值观",
+   "en": "value",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "值",
+   "en": "value",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "δ值",
+   "en": "δ-value",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "τ值",
+   "en": "τ-value",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑效度",
+   "en": "logical validity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑实证论",
+   "en": "logical positivism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑思维",
+   "en": "logical thinking",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑经验论",
+   "en": "logical empiricism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑实证论",
+   "en": "logical positivism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑表达",
+   "en": "logical expression",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑查询",
+   "en": "logical query",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑单元",
+   "en": "logical unit",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑关系",
+   "en": "logical relationship",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑记录",
+   "en": "logical record",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑设计",
+   "en": "logical design",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑算子",
+   "en": "logical operator",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "价值",
+   "en": "value",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑结构",
+   "en": "logical structure",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑部件",
+   "en": "logic unit",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑编程",
+   "en": "logic programming",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "协议逻辑",
+   "en": "protocol logic",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "Bieber逻辑",
+   "en": "Bieber logic",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑数据模型",
+   "en": "logical data model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑编程语言",
+   "en": "logic programming language",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "价值观",
+   "en": "values",
+   "source": "社会学名词",
+   "wordNumber": "3.8.2.7",
+   "subjectFullName": "社会学名词_分支社会学_文化社会学_大众传媒研究",
+   "subjectName": "大众传媒研究",
+   "publishYear": "2025",
+   "definition": "人们对事物及意义的评价体系，是人们采取行动或行为取向的评价尺度和选择标准。"
+  },
+  {
+   "cn": "价值",
+   "en": "value",
+   "source": "马克思主义",
+   "wordNumber": "02.0036",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "凝结在商品中无差别的人类劳动，包括脑力劳动和体力劳动。价值是商品所特有的属性，作为商品的社会属性，它反映的是商品生产者之间的社会关系。"
+  },
+  {
+   "cn": "价值",
+   "en": "value",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.1159999999999999",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "客体对主体需要的效用。作为元伦理范畴，价值是客体具有的满足主体需要、实现主体欲望、符合主体目的的效用性。"
+  },
+  {
+   "cn": "思辨逻辑",
+   "en": "speculative logic",
+   "source": "马克思主义",
+   "wordNumber": "01.0101",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "研究人类辩证思维的科学，是关于辩证思维的形式、规律和方法的科学。它把概念的辩证运动以及如何通过概念反映现实矛盾的问题作为自己的主要研究对象。原初含义专指黑格尔思辨哲学的逻辑形态。恩格斯最早明确地把这种"
+  },
+  {
+   "cn": "先逻辑思维",
+   "en": "pre-logical thinking",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0534",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "法国人类学家列维-布留尔（Lucien Lévy-Bruhl）提出的概念。他认为原始人的思维是前逻辑思维，本质上不同于文明人的逻辑思维，后者能够进行抽象、概括和分类。前逻辑思维在我们看来很荒谬，但在原"
+  },
+  {
+   "cn": "抽象逻辑思维",
+   "en": "abstract logic thinking",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.5.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "能进行假设演绎推理和命题推理的科学思维方式。"
+  },
+  {
+   "cn": "反价值",
+   "en": "anti-values",
+   "source": "社会学名词",
+   "wordNumber": "4.4.5.17",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的价值观",
+   "subjectName": "社会工作的价值观",
+   "publishYear": "2025",
+   "definition": "与社会工作专业价值取向相抵触的消极价值取向。其既可存在于社会工作者与案主的关系之中，又可存在于社会工作者与机构的关系之中，还可存在于社会工作者的相互关系之间。从理论形态而言，社会工作的反价值包括操纵和"
+  },
+  {
+   "cn": "教育价值观",
+   "en": "educational values",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0141",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "人们对整个教育核心价值或基础价值的看法或观念，以及对其他的教育观念有直接或间接的影响作用，与其他的教育观念一起规范着、指导着或调节着人们的教育行为。"
+  },
+  {
+   "cn": "S值",
+   "en": "S value, ",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.23",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "对于男性参考人和女性参考人，源区rS中给定放射性核素的每次核转变（核反应或衰变）到靶区rT的当量剂量，Sv(Bq·s)-1。"
+  },
+  {
+   "cn": "D值",
+   "en": "D value",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.115",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "在一定的处理环境中和在一定的热力致死温度条件下，某细菌数群中每杀死90%原有残存活菌数时所需要的时间。"
+  },
+  {
+   "cn": "A0值",
+   "en": "A0 value",
+   "source": "消毒学",
+   "wordNumber": "2.2.1.1",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "生物体在80℃时达到特定Z值所用的等效时间，是评价湿热消毒效果的指标之一，单位以秒（S）表示。A0值为600时实现低水平消毒，A0值为3000时实现中水平消毒。"
+  },
+  {
+   "cn": "标定值",
+   "en": "stated value",
+   "source": "消毒学",
+   "wordNumber": "3.1.4.4.2",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "当指示物变化达到指示物制造商定义的终点时，过程关键变量的值或值的范围。"
+  },
+  {
+   "cn": "D值",
+   "en": "D-value",
+   "source": "消毒学",
+   "wordNumber": "3.1.5.5",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "在规定条件下，杀灭试验微生物总数的90%所需的时间或剂量。"
+  },
+  {
+   "cn": "pH值",
+   "en": "pH value",
+   "source": "消毒学",
+   "wordNumber": "6.1.12.2",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "溶液中氢离子浓度的负对数值。"
+  },
+  {
+   "cn": "Q值",
+   "en": "Q value",
+   "source": "消毒学",
+   "wordNumber": "6.1.15.1",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "消毒作用温度每升高1℃消毒速度加快的倍数的温度系数。"
+  },
+  {
+   "cn": "Q10值",
+   "en": "Q10 value",
+   "source": "消毒学",
+   "wordNumber": "6.1.15.1.1",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "消毒作用温度每升高10℃消毒速度加快倍数的一种温度系数。"
+  },
+  {
+   "cn": "G值",
+   "en": "G value",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.1.1.35",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2025",
+   "definition": "表示辐射化学产额，物质每吸收100 eV电离辐射能量所形成的分子或基团数。其值大小，常与射线的能量和种类有关。"
+  },
+  {
+   "cn": "基线值",
+   "en": "baseline value",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.1.22",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_医用电离辐射",
+   "subjectName": "医用电离辐射",
+   "publishYear": "2025",
+   "definition": "设备性能参数的参考值。通常在验收检测合格后，由最初的性能检测得到，或者由相应的标准给定。"
+  },
+  {
+   "cn": "指导值",
+   "en": "guidance value",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.10",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "指定量的一个水平，高于该水平时应考虑采取适当的行动。某些情况下，在指定量实际上低于该水平时，亦可能需要考虑采取某些行动。"
+  },
+  {
+   "cn": "价值中立",
+   "en": "value free",
+   "source": "社会学名词",
+   "wordNumber": "1.2.2.2",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_伦理准则",
+   "subjectName": "伦理准则",
+   "publishYear": "2025",
+   "definition": "在研究过程中，只客观地陈述事实而不做价值判断的研究方式。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

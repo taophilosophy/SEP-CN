@@ -1,0 +1,752 @@
+{
+ "key": "language of thought",
+ "term": "language of thought",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T03:07:52+00:00",
+ "status": "ok",
+ "note": "variant=language of thought; 审定公布名词库=10000; 海峡两岸名词对照库=7759; 其他来源数据库=1921; 预公布名词数据库=2916; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "思维语言假说",
+   "en": "language of thought hypothesis",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.543",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "福多（J. Fodor）于1975年提出。主张认知过程是由大脑的内部表征的因果序列构成的假说。人先天具有一种思维语言系统，系统内部有可用于表征的基本词汇表，可根据一种普遍的“语法”原则形成词项组合并具"
+  },
+  {
+   "cn": "思维迟缓",
+   "en": "retardation of thought,inhibition of thought",
+   "source": "精神医学名词",
+   "wordNumber": "02.076",
+   "subjectFullName": "精神医学_症状与体征_思维障碍症状",
+   "subjectName": "思维障碍症状",
+   "publishYear": "2019",
+   "definition": "一种抑制性的思维联想障碍。表现为受检者思维活动显著缓慢，联想困难，思考问题吃力，反应迟钝。"
+  },
+  {
+   "cn": "思",
+   "en": "thought",
+   "source": "中医药学名词",
+   "wordNumber": "03.403",
+   "subjectFullName": "中医药学_中医基础理论_气血津液精神",
+   "subjectName": "气血津液精神",
+   "publishYear": "2004",
+   "definition": "思考。"
+  },
+  {
+   "cn": "思维经济",
+   "en": "economy of thought",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.021",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学实在论",
+   "subjectName": "科学实在论",
+   "publishYear": "2024",
+   "definition": "E. 马赫（E. Mach）提出的约束科学理论的原则。认为科学家应尽力简化其智力成果，达到形态和结构上的简单性。"
+  },
+  {
+   "cn": "思维迟缓",
+   "en": "retardation of thought",
+   "source": "行为医学名词",
+   "wordNumber": "16.044",
+   "subjectFullName": "行为医学_其他神经行为障碍_异常行为症状",
+   "subjectName": "异常行为症状",
+   "publishYear": "2022",
+   "definition": "思维活动显著缓慢、联想困难、思考问题吃力、反应迟钝的精神病理状态。"
+  },
+  {
+   "cn": "思维贫乏",
+   "en": "poverty of thought",
+   "source": "行为医学名词",
+   "wordNumber": "16.045",
+   "subjectFullName": "行为医学_其他神经行为障碍_异常行为症状",
+   "subjectName": "异常行为症状",
+   "publishYear": "2022",
+   "definition": "思想内容明显少、缺乏概念和词汇的精神病理状态。"
+  },
+  {
+   "cn": "思维破裂",
+   "en": "splitting of thought",
+   "source": "行为医学名词",
+   "wordNumber": "16.049",
+   "subjectFullName": "行为医学_其他神经行为障碍_异常行为症状",
+   "subjectName": "异常行为症状",
+   "publishYear": "2022",
+   "definition": "严重的联想松弛状态。语言表达上下语词之间没有任何联系。"
+  },
+  {
+   "cn": "思维贫乏",
+   "en": "poverty of thought",
+   "source": "精神医学名词",
+   "wordNumber": "02.077",
+   "subjectFullName": "精神医学_症状与体征_思维障碍症状",
+   "subjectName": "思维障碍症状",
+   "publishYear": "2019",
+   "definition": "一种联想数量减少，概念与词汇贫乏的思维联想障碍。表现为受检者思想内容明显减少，缺乏概念和词汇。"
+  },
+  {
+   "cn": "思维奔逸",
+   "en": "flight of thought",
+   "source": "心理学名词",
+   "wordNumber": "10.147",
+   "subjectFullName": "心理学_医学心理学",
+   "subjectName": "医学心理学",
+   "publishYear": "2014",
+   "definition": "思维联想速度异常加快，表现为明显话多和语速快的现象。是躁狂症的典型表现之一。"
+  },
+  {
+   "cn": "思维贫乏",
+   "en": "poverty of thought",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "02.307",
+   "subjectFullName": "全科医学与社区卫生_社区常见临床问题",
+   "subjectName": "社区常见临床问题",
+   "publishYear": "2014",
+   "definition": "联想数量减少，概念与词汇贫乏的思维。表现为沉默少语，言谈单调或词穷句短，回答简单。"
+  },
+  {
+   "cn": "思维奔逸",
+   "en": "flight of thought",
+   "source": "医学名词 第四分册",
+   "wordNumber": "08.046",
+   "subjectFullName": "医学_精神病学",
+   "subjectName": "精神病学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "思维破裂",
+   "en": "splitting of thought",
+   "source": "医学名词 第四分册",
+   "wordNumber": "08.051",
+   "subjectFullName": "医学_精神病学",
+   "subjectName": "精神病学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "思维不连贯",
+   "en": "incoherence of thought",
+   "source": "医学名词 第四分册",
+   "wordNumber": "08.052",
+   "subjectFullName": "医学_精神病学",
+   "subjectName": "精神病学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "思维贫乏",
+   "en": "poverty of thought",
+   "source": "医学名词 第四分册",
+   "wordNumber": "08.054",
+   "subjectFullName": "医学_精神病学",
+   "subjectName": "精神病学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "思维云集",
+   "en": "pressure of thought",
+   "source": "医学名词 第四分册",
+   "wordNumber": "08.053",
+   "subjectFullName": "医学_精神病学",
+   "subjectName": "精神病学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "思维被夺",
+   "en": "thought withdrawal,thought deprivation",
+   "source": "精神医学名词",
+   "wordNumber": "02.087",
+   "subjectFullName": "精神医学_症状与体征_思维障碍症状",
+   "subjectName": "思维障碍症状",
+   "publishYear": "2019",
+   "definition": "受检者体验到自己的思想被拿走了或被某一外在的代理者挪用的一种精神病理状态。对干扰来源于“异己”的确信并不是继发推理的结果，而是发生于强制当时，与思想被撤走的体验同时发生。"
+  },
+  {
+   "cn": "思维鸣响",
+   "en": "audible thought,voiced thought",
+   "source": "精神医学名词",
+   "wordNumber": "02.054",
+   "subjectFullName": "精神医学_症状与体征_感觉与知觉障碍症状",
+   "subjectName": "感觉与知觉障碍症状",
+   "publishYear": "2019",
+   "definition": "受检者体验到自己的思想被重复或在头脑里回响(自己并没有发声说出来)的一种精神病理状态。原本的思想及其回声之间通常只间隔几秒钟。重复出来的思想，虽然内容与原来的一样，但却可以感到性质上有轻微改变。是精神"
+  },
+  {
+   "cn": "设计构思",
+   "en": "design thought",
+   "source": "风景园林名词",
+   "wordNumber": "07.0076",
+   "subjectFullName": "风景园林_风景园林建筑_设计内容",
+   "subjectName": "设计内容",
+   "publishYear": "2025",
+   "definition": "针对有目标和计划的风景园林创作行为及活动作系统性的、有中心及层次的、物化的整体性思维活动。"
+  },
+  {
+   "cn": "思想实验",
+   "en": "thought experiment",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.094",
+   "subjectFullName": "自然辩证法_科学技术方法论_实验与检验",
+   "subjectName": "实验与检验",
+   "publishYear": "2024",
+   "definition": "科学家在头脑中设计和构造出一套理想化的仪器设备和研究对象，进行纯粹理想化的实验操作和控制，发现和获取科学事实与自然规律的思维活动。"
+  },
+  {
+   "cn": "科学思想",
+   "en": "scientific thought",
+   "source": "自然辩证法名词",
+   "wordNumber": "07.292",
+   "subjectFullName": "自然辩证法_科学、技术与社会_科学技术文化",
+   "subjectName": "科学技术文化",
+   "publishYear": "2024",
+   "definition": "人类通过实践所形成的关于物质世界的系统化、规律性的科学知识的基本观念。反映了对物质世界整体图景和规律的综合认识，主要表现为科学的基本理论和学说。"
+  },
+  {
+   "cn": "思维，思考",
+   "en": "thinking\",\"thought",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "表征思维",
+   "en": "representational thought",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自动思维",
+   "en": "automatic thought",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "分析性思维",
+   "en": "analytical thought",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "地理学思想史",
+   "en": "history of geographic thought",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "语言",
+   "en": "language",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "语言描述语言",
+   "en": "language-description language",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "思维控制训练",
+   "en": "thought control training",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "受限语言",
+   "en": "restricted language\",\"controlled language",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "儿童语言模型",
+   "en": "model of child language",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "抽象语言族",
+   "en": "abstract family of languages",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "语言生成",
+   "en": "language production",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "口头语言",
+   "en": "spoken language",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "语言理解",
+   "en": "language comprehension",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "身体语言",
+   "en": "body language",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "手语",
+   "en": "sign language",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "第二语言",
+   "en": "second language",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "书面语言",
+   "en": "written language",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "舞蹈语言",
+   "en": "dance language",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "地图语言",
+   "en": "cartographic language",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "言",
+   "en": "Language",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "诸子百家",
+   "en": "A Hundred Schools of Thought",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "思无邪",
+   "en": "No Depraved Thoughts",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "诸子学",
+   "en": "Study of A Hundred Schools of Thought",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "程序设计语言",
+   "en": "programming language",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "机器语言",
+   "en": "machine language",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "正则语言",
+   "en": "regular language",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "汇编语言",
+   "en": "assembly language",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "编程语言",
+   "en": "programming language",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "R语言",
+   "en": "R language",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "Python语言",
+   "en": "Python language",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "Java语言",
+   "en": "Java language",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "Julia语言",
+   "en": "Julia language",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "Go语言",
+   "en": "Go language",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "思想",
+   "en": "thought",
+   "source": "马克思主义",
+   "wordNumber": "01.0014",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与作为思维活动的结果的理性认识同义，指人的意识对客观事物的本质和规律的反映。思想由社会存在决定，同时又对其有能动的反作用，具有相对独立性。"
+  },
+  {
+   "cn": "社会思想",
+   "en": "social thought",
+   "source": "社会学名词",
+   "wordNumber": "2.1.7.2",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会意识",
+   "subjectName": "社会意识",
+   "publishYear": "2025",
+   "definition": "人们在不同历史阶段的社会生产和社会生活实践中所形成的种种社会观念、构想或理论体系。理论社会学范畴，涉及政治、经济、文化、宗教、艺术等各个方面。"
+  },
+  {
+   "cn": "燕京学派",
+   "en": "Yenching School of thought",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.46",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "形成于20世纪30年代，以燕京大学社会学系吴文藻及其学生为核心，提倡社区研究的一个社会学人类学同仁团体。主要人物有费孝通、林耀华、李安宅、瞿同祖、杨庆堃、田汝康等，学术脉络综合了德、美文化论和英国功能"
+  },
+  {
+   "cn": "语言社会学",
+   "en": "sociology of language",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0018",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "运用社会学的理论和方法，研究社会中语言问题的学问。"
+  },
+  {
+   "cn": "语言民俗学",
+   "en": "folkloristics of language",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0477",
+   "subjectFullName": "民族学与文化学_民俗学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "以民俗学为视点研究语言中的民俗现象和民俗中的语言现象，以及语言与民俗相互关系及运动规律的一门实证性科学。"
+  },
+  {
+   "cn": "语言",
+   "en": "language",
+   "source": "马克思主义",
+   "wordNumber": "01.0015",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在人类生产劳动基础上产生和发展的、按照一定规则表达和交流思想的工具，是具有一定音、形、义的符号系统，是思维、意识的物质载体。除自然语言外，还存在人工语言。"
+  },
+  {
+   "cn": "语言",
+   "en": "language",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.14",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "用来表达思想与情感的，可共享的言语和非言语符号系统。"
+  },
+  {
+   "cn": "语言",
+   "en": "language",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0035",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "索绪尔提出语言研究要注意区分语言（langue）和言语（parole）。语言指说话者共同使用的语言系统或结构，是社会集团为了使个人有可能行使语言机能而采取的必不可少的规约，为社会成员所共同遵守。后来的"
+  },
+  {
+   "cn": "毛泽东哲学思想",
+   "en": "philosophical thought of Mao Zedong",
+   "source": "马克思主义",
+   "wordNumber": "01.0227",
+   "subjectFullName": "马克思主义_哲学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "以毛泽东为代表的中国共产党人把马克思列宁主义哲学思想与中国革命和建设的具体实践相结合的产物，以《矛盾论》《实践论》为代表作，是马克思列宁主义哲学思想的中国化理论。"
+  },
+  {
+   "cn": "三个代表重要思想",
+   "en": "important thought of Three Represents",
+   "source": "马克思主义",
+   "wordNumber": "03.0620",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "以江泽民为核心的第三代中央领导集体创立的党的指导思想的构成部分。其主要内容是：中国共产党要始终代表中国先进生产力的发展要求、要始终代表中国先进文化的前进方向、要始终代表中国最广大人民的根本利益。它是中"
+  },
+  {
+   "cn": "医学伦理思想史",
+   "en": "history of medical ethical thought",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.182",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学相关学科",
+   "subjectName": "医学伦理学相关学科",
+   "publishYear": "2025",
+   "definition": "研究不同历史时期不同国家或地区的医学伦理思想的发生和发展规律及其影响因素的学科。"
+  },
+  {
+   "cn": "以人为本",
+   "en": "people-oriented thought",
+   "source": "社会学名词",
+   "wordNumber": "4.3.4.8",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会政策思潮及理论",
+   "subjectName": "社会政策思潮及理论",
+   "publishYear": "2025",
+   "definition": "科学发展观的核心思想。社会经济发展的终极目的是促进人的全面发展，强调人人平等，尊重人作为“人”的基本权利及尊严，注重社会公平正义。“人”即人民，也包括作为个体的人；“本”即主体、本质、目的。"
+  },
+  {
+   "cn": "毛泽东思想",
+   "en": "Mao Zedong Thought",
+   "source": "马克思主义",
+   "wordNumber": "03.0321",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "以毛泽东同志为主要代表的中国共产党人，把马克思列宁主义的基本原理同中国革命的具体实践结合起来，创立了毛泽东思想。毛泽东思想是马克思列宁主义在中国的运用和发展，是被实践证明了的关于中国革命和建设的正确的"
+  },
+  {
+   "cn": "伦理思想实验法",
+   "en": "ethical thought experiment",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.234",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_医学伦理学研究方法",
+   "subjectName": "医学伦理学研究方法",
+   "publishYear": "2025",
+   "definition": "基于特定的伦理学理论、素材等材料，设定理想化的伦理情境，提出若干伦理问题，以激发人们伦理思考的实验方法。"
+  },
+  {
+   "cn": "促进语言发展",
+   "en": "promotion of language development",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.3.3.4",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_不同年龄段儿童保健",
+   "subjectName": "不同年龄段儿童保健",
+   "publishYear": "2025",
+   "definition": "在幼儿期这一语言发展的关键时期，父母或其他养育照料者通过重视与孩子的交流、利用各种游戏、故事情景帮助儿童语言发展的行为或措施。"
+  },
+  {
+   "cn": "语言社会心理学",
+   "en": "social psychology of language",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0019",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "研究不同的社会群体对使用某些语言的态度及个人在言语交际活动中的心理机制的学问。"
+  },
+  {
+   "cn": "语言谱系分类",
+   "en": "genealogical classification of language",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0026",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "历史比较语言学的研究方法。把各种语言按亲属关系作出分类。在语言谱系分类中，最高的谱系单位是语系，同一语系中的语言在来源上是相同的；语系之下的语言，根据关系的亲疏程度而分为若干语族；语族之下又可按照同样"
+  },
+  {
+   "cn": "少数民族语言",
+   "en": "Minority languages of China",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0191",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "一个国家中人口占少数的民族使用的语言。"
+  },
+  {
+   "cn": "毛泽东思想活的灵魂",
+   "en": "living soul of Mao Zedong thought",
+   "source": "马克思主义",
+   "wordNumber": "01.0244",
+   "subjectFullName": "马克思主义_哲学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "以毛泽东为代表的中国共产党人把马克思主义的世界观和方法论，运用于中国革命和建设的实践，形成了毛泽东思想活的灵魂，包括实事求是、群众路线、独立自主三个基本方面。"
+  },
+  {
+   "cn": "毛泽东思想的科学体系",
+   "en": "scientific system of Mao Zedong thought",
+   "source": "马克思主义",
+   "wordNumber": "03.0322",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "由毛泽东思想的主要内容和它的活的灵魂构成的理论体系。主要包括：关于新民主主义革命理论；关于社会主义革命和社会主义建设理论；关于革命军队的建设和军事战略理论；关于政策和策略理论；关于思想政治工作和文化工"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,802 @@
+{
+ "key": "expert knowledge",
+ "term": "expert knowledge",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T03:08:23+00:00",
+ "status": "ok",
+ "note": "variant=expert knowledge; 审定公布名词库=527; 海峡两岸名词对照库=359; 其他来源数据库=72; 预公布名词数据库=22; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "专家",
+   "en": "expert,specialist",
+   "source": "教育学名词",
+   "wordNumber": "11.088",
+   "subjectFullName": "教育学_职业技术教育",
+   "subjectName": "职业技术教育",
+   "publishYear": "2013",
+   "definition": "对某一事物或领域精通，具备该领域精深的专门知识和技能的人。"
+  },
+  {
+   "cn": "专家系统",
+   "en": "expert system",
+   "source": "农学名词",
+   "wordNumber": "16.247",
+   "subjectFullName": "农业信息_农业信息技术",
+   "subjectName": "农业信息技术",
+   "publishYear": "2025",
+   "definition": "一种模拟专家思考、推理和判断机制解决实际问题的计算机程序系统。"
+  },
+  {
+   "cn": "专家系统",
+   "en": "expert system",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "01.108",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_通论",
+   "subjectName": "通论",
+   "publishYear": "2024",
+   "definition": "具有大量专门知识与经验的程序系统。其应用人工智能技术，根据一个或多个人类专家提供的特殊领域知识和经验进行推理和判断，模拟人类专家做决策的过程，解决那些需要专家决定的复杂问题。"
+  },
+  {
+   "cn": "专家审稿",
+   "en": "expert review",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.03.012",
+   "subjectFullName": "编辑与出版学_编辑_审稿",
+   "subjectName": "审稿",
+   "publishYear": "2022",
+   "definition": "由本单位以外的专家进行审读的活动。"
+  },
+  {
+   "cn": "专家型读者",
+   "en": "expert reader",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.01.046",
+   "subjectFullName": "编辑与出版学_发行与经营_发行基础",
+   "subjectName": "发行基础",
+   "publishYear": "2022",
+   "definition": "阅读方向明确、阅读需求比较稳定，主要是为了专业工作和科研活动需要而购买和阅读出版物的读者。"
+  },
+  {
+   "cn": "专家系统",
+   "en": "expert system ",
+   "source": "草学名词",
+   "wordNumber": "2.0484",
+   "subjectFullName": "草学_草地生态与草地培育_草地培育与利用",
+   "subjectName": "草地培育与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "专家评价",
+   "en": "expert evaluation",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "20.079",
+   "subjectFullName": "新闻学与传播学_公共关系_公关关系实务",
+   "subjectName": "公关关系实务",
+   "publishYear": "2022",
+   "definition": "公共关系效果评估的方法之一。聘请活动当事人以外的公共关系专家评价公关目标、过程和效果。专家通过调查、访问和分析，对公共关系活动及其效果作出定性、定量的评价。这种方法的优点是相对客观，可以提供专业的省察"
+  },
+  {
+   "cn": "专家控制",
+   "en": "expert control",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "06.0436",
+   "subjectFullName": "机械工程（一）_机械测量与控制_机械控制",
+   "subjectName": "机械控制",
+   "publishYear": "2021",
+   "definition": "具有大量的知识与经验库，模拟人类专家的决策过程，实现对系统的控制。"
+  },
+  {
+   "cn": "专家用户",
+   "en": "expert user",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "07.253",
+   "subjectFullName": "图书馆·情报与文献学_信息服务与用户研究_用户研究",
+   "subjectName": "用户研究",
+   "publishYear": "2019",
+   "definition": "（1）对利用图书馆或计算机检索系统有着丰富的检索知识和经验的个人。（2）作为图书情报机构用户的各学科专家。"
+  },
+  {
+   "cn": "专家系统",
+   "en": "expert system",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "01.294",
+   "subjectFullName": "图书馆·情报与文献学_图书馆学情报学基础_现代图书情报技术",
+   "subjectName": "现代图书情报技术",
+   "publishYear": "2019",
+   "definition": "能在一定程度上模拟专家进行思考、推理和判断的一种软件系统。通常由知识库、问题子系统、推理网络、可信度计算和输出子系统、学习机制等要素组成。"
+  },
+  {
+   "cn": "领域专家",
+   "en": "domain expert",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0700",
+   "subjectFullName": "计算机科学技术_人工智能_知识工程",
+   "subjectName": "知识工程",
+   "publishYear": "2018",
+   "definition": "某个特殊领域的专家。具有这个领域的丰富知识和技能。"
+  },
+  {
+   "cn": "专家控制",
+   "en": "expert control",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.0824",
+   "subjectFullName": "计算机科学技术_计算机应用_计算机控制",
+   "subjectName": "计算机控制",
+   "publishYear": "2018",
+   "definition": "按照专家的经验和知识对系统进行自动控制。"
+  },
+  {
+   "cn": "专家系统",
+   "en": "expert system",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0656",
+   "subjectFullName": "计算机科学技术_人工智能_知识工程",
+   "subjectName": "知识工程",
+   "publishYear": "2018",
+   "definition": "一类具有专门知识和经验的计算机系统。采用知识表示和知识推理技术来模拟通常由领域专家才能解决的复杂问题，在领域常规问题上可达到具有与领域专家同等解决问题能力的水平，因此能辅助人类专家工作。通常由知识库、"
+  },
+  {
+   "cn": "技术专家",
+   "en": "technical expert",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0800",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "向审核组提供特定知识或技术的人员。"
+  },
+  {
+   "cn": "专家权力",
+   "en": "expert power",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0213",
+   "subjectFullName": "管理科学技术_一般管理理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "领导者以专业技术、特殊技能或知识为基础而影响其他人的权力。"
+  },
+  {
+   "cn": "专家判断",
+   "en": "expert judgment",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0246",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_范围和进度管理",
+   "subjectName": "范围和进度管理",
+   "publishYear": "2016",
+   "definition": "根据在应用领域、知识领域、专业学科、行业等的专长对于当前活动提供的适当判断。"
+  },
+  {
+   "cn": "专家系统",
+   "en": "expert system",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0322",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_决策支持系统",
+   "subjectName": "决策支持系统",
+   "publishYear": "2016",
+   "definition": "采用人工智能中的知识表示和知识推理技术模拟领域专家，试图在该领域达到与专家具有同等解决问题能力的知识系统。"
+  },
+  {
+   "cn": "专家型教师",
+   "en": "expert teacher",
+   "source": "心理学名词",
+   "wordNumber": "09.114",
+   "subjectFullName": "心理学_教育心理学",
+   "subjectName": "教育心理学",
+   "publishYear": "2014",
+   "definition": "具有优秀的教学技能、丰富的教学经验和良好的师德，并能在教学中取得显著效果的教师。"
+  },
+  {
+   "cn": "专家系统",
+   "en": "expert system",
+   "source": "药学名词",
+   "wordNumber": "06.182",
+   "subjectFullName": "药学_药物分析",
+   "subjectName": "药物分析",
+   "publishYear": "2014",
+   "definition": "运用特定领域的专门知识，通过推理来模拟通常由人类专家才能解决的各种复杂的、具体的问题，达到与专家具有同等解决问题能力的计算机智能程序系统。它能对决策的过程做出解释，并有学习功能，即能自动增长解决问题所"
+  },
+  {
+   "cn": "专家判断法",
+   "en": "expert judgment",
+   "source": "药学名词",
+   "wordNumber": "10.101",
+   "subjectFullName": "药学_药物经济学",
+   "subjectName": "药物经济学",
+   "publishYear": "2014",
+   "definition": "向具有特定专业知识的人征求意见的方法。通常采用小组座谈的方式，其目的在于当某些变量难以获得时，利用专家经验做出快速评估。"
+  },
+  {
+   "cn": "领域专家",
+   "en": "domain expert",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "专家系统",
+   "en": "expert system",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "专家可信度",
+   "en": "expert credibility",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "领域专家",
+   "en": "domain expert",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "专家系统",
+   "en": "expert system",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "知识",
+   "en": "knowledge",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "专家系统",
+   "en": "expert system\",\"ES",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "专家系统",
+   "en": "expert system\",\"ES",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "制图专家系统",
+   "en": "cartographic expert system",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "制图专家系统",
+   "en": "cartographic expert system",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "词专家句法分析",
+   "en": "word expert parsing",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "神经专家系统",
+   "en": "neural expert system",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "专家问题求解",
+   "en": "expert problem solving",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "专家系统工具",
+   "en": "expert system tool",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "专家系统外壳",
+   "en": "expert system shell",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "知识库",
+   "en": "knowledge base",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "知识工程",
+   "en": "knowledge engineering",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "非陈述性知识",
+   "en": "nondeclarative knowledge",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "知识管理",
+   "en": "knowledge management",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "陈述性知识,描述性知识",
+   "en": "declarative knowledge",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "专家系统",
+   "en": "expert system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "常识",
+   "en": "General Knowledge",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识工程",
+   "en": "Knowledge Engineering",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识图谱",
+   "en": "knowledge graph",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "元知识",
+   "en": "meta-knowledge",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识发现",
+   "en": "knowledge discovery",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识表示",
+   "en": "knowledge representation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识管理",
+   "en": "knowledge management",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识工程师",
+   "en": "knowledge engineer",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识用户",
+   "en": "knowledge user",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识库",
+   "en": "knowledge base",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识产业",
+   "en": "knowledge industry",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识编辑器",
+   "en": "knowledge editor",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识共享",
+   "en": "knowledge sharing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识建模",
+   "en": "knowledge modeling",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识网格",
+   "en": "knowledge grid",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识计算",
+   "en": "knowledge computing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识抽取",
+   "en": "knowledge extraction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识推理",
+   "en": "knowledge inference",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "合格专家",
+   "en": "qualified expert",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.5.5",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_一般要求",
+   "subjectName": "一般要求",
+   "publishYear": "2025",
+   "definition": "根据相应机构或学会所颁发的证书或持有的职业许可证或根据学历和工作资历被确认为在相关领域（例如医学物理、辐射防护、职业保健、防火安全、质量保证或任何有关的工程和安全专业）具有专门知识的人员。"
+  },
+  {
+   "cn": "知识社会",
+   "en": "knowledge society",
+   "source": "社会学名词",
+   "wordNumber": "2.1.2.5",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会形式",
+   "subjectName": "社会形式",
+   "publishYear": "2025",
+   "definition": "知识成为生产力及其发展的重要特征、知识和智力开发在社会发展中日益具有突出作用的社会。"
+  },
+  {
+   "cn": "法律知识",
+   "en": "legal knowledge",
+   "source": "社会学名词",
+   "wordNumber": "3.7.8.3",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律文化",
+   "subjectName": "法律文化",
+   "publishYear": "2025",
+   "definition": "人们有关法和法律现象的知识。"
+  },
+  {
+   "cn": "默会知识",
+   "en": "tacit knowledge",
+   "source": "社会学名词",
+   "wordNumber": "3.10.2.6",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学知识",
+   "subjectName": "科学知识",
+   "publishYear": "2025",
+   "definition": "主要相对于显性知识而言，是一种只可意会不可言传的知识，一种经常使用却又不能通过语言文字符号予以清晰表达或直接传递的知识。"
+  },
+  {
+   "cn": "地方性知识",
+   "en": "local knowledge",
+   "source": "社会学名词",
+   "wordNumber": "4.2.9.14",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化现象",
+   "subjectName": "文化现象",
+   "publishYear": "2025",
+   "definition": "相对于宏大叙事而言的现场知识系统。此概念由格尔茨(C.Geertz）于1970年代提出，强调在特定语境下被相互紧密关联的人与事编制起来的意义系统，它常见于相互认同的人群当中，职场、草根、在地等均属于这"
+  },
+  {
+   "cn": "知识经济",
+   "en": "knowledge economy",
+   "source": "马克思主义",
+   "wordNumber": "02.0422",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "一种与农业经济、工业经济等相对应的，以现代科学技术为核心、建立在知识和信息的生产、分配和使用基础上的以知识为主要生产要素的经济。"
+  },
+  {
+   "cn": "健康知识",
+   "en": "health knowledge",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.8.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育与健康促进评价",
+   "subjectName": "学校健康教育与健康促进评价",
+   "publishYear": "2025",
+   "definition": "个体通过学习、实践或探索所获得的信息和认识。健康教育评价指标之一，旨在评价个体对健康信息的正确理解程度。"
+  },
+  {
+   "cn": "良知",
+   "en": "intuitive knowledge",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.104",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人与生俱来的、先天具有的判断是非善恶的道德意识和道德本能。是人的天赋善良本心的能动作用，主宰着人的一切道德行为，是人的最高的道德理性和道德本能。"
+  },
+  {
+   "cn": "地方性知识",
+   "en": "local knowledge",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0611",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "美国阐释人类学代表格尔茨（Clifford Geertz）提出的概念，意指从本地人的观点出发“解释”本地人（被研究者）的文化。"
+  },
+  {
+   "cn": "又红又专",
+   "en": "both red and expert",
+   "source": "马克思主义",
+   "wordNumber": "03.0448",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东在20世纪50年代向中国知识分子和青年学生发出的正确处理政治与业务、技术关系的号召。又红又专是对人才的考核标准。红，指正确的政治观点；专，指为人民服务的专业知识、专业技能。毛泽东还提出各行各业的"
+  },
+  {
+   "cn": "知识社会学",
+   "en": "sociology of knowledge",
+   "source": "社会学名词",
+   "wordNumber": "3.10.1.6",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学研究",
+   "subjectName": "科学研究",
+   "publishYear": "2025",
+   "definition": "社会学的一门分支学科，主要研究知识与社会和文化等实质性因素之间的相互关系。早期研究只涉及数学和自然科学知识方面的社会学分析，后又扩展到关于知识生产、知识生产的组织、知识的传播与使用、知识政策、知识系统"
+  },
+  {
+   "cn": "科学知识社会学",
+   "en": "sociology of scientific knowledge",
+   "source": "社会学名词",
+   "wordNumber": "3.10.1.7",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学研究",
+   "subjectName": "科学研究",
+   "publishYear": "2025",
+   "definition": "一种以科学知识本身作为学术考察对象而形成的包括科学哲学、科学史、科学社会学和科学文化的批判性研究领域，认为科学知识的构成完全是社会性的，主张将科学知识纳入到社会学分析之中，探讨社会因素对科学知识形成的"
+  },
+  {
+   "cn": "科学知识的体系化",
+   "en": "systematic of scientific knowledge",
+   "source": "社会学名词",
+   "wordNumber": "3.10.2.1",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学知识",
+   "subjectName": "科学知识",
+   "publishYear": "2025",
+   "definition": "把科学知识加以整理，转变为简洁的和相互关联的系统的理论阐述。"
+  },
+  {
+   "cn": "科学知识的积累",
+   "en": "accumulation of scientific knowledge",
+   "source": "社会学名词",
+   "wordNumber": "3.10.2.7",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学知识",
+   "subjectName": "科学知识",
+   "publishYear": "2025",
+   "definition": "在科学领域中，经验—实证性知识和理论知识逐步累积和增长的过程。科学社会学认为，科学知识是经过社会与文化环境诸因素的影响，选择性积累的结果。"
+  },
+  {
+   "cn": "尊重知识尊重人才",
+   "en": "respect knowledge value talents",
+   "source": "马克思主义",
+   "wordNumber": "04.0183",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "邓小平总结我党历史上对待知识分子正反两方面的经验，于1984年10月22日在中顾委第三次会议上正式提出的著名论断。“尊重知识、尊重人才”要求在重视科学技术在现代化建设中的重要作用的同时，要充分认识到知"
+  },
+  {
+   "cn": "营养健康知识讲座",
+   "en": "nutrition and health knowledge lecture",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.1.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_学校营养食物供应",
+   "subjectName": "学校营养食物供应",
+   "publishYear": "2025",
+   "definition": "授课老师借助教学工具，运用教学的方式向教育对象传播营养健康知识和技能的一种活动形式。"
+  },
+  {
+   "cn": "妇幼健康知识",
+   "en": "woman and child health knowledge",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "9.1.1.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼健康教育与健康促进_妇幼健康教育",
+   "subjectName": "妇幼健康教育",
+   "publishYear": "2025",
+   "definition": "针对妇女儿童个体和群体与健康和疾病有关的知识与信息。通常掌握的知识越广越深，采纳妇幼健康相关行为的倾向性越强。"
+  },
+  {
+   "cn": "国家食品安全风险评估专家委员会",
+   "en": "National Experts Committee for Food Safety Risk Assessment",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.3.8",
+   "subjectFullName": "食品卫生学_总论_食品安全风险分析",
+   "subjectName": "食品安全风险分析",
+   "publishYear": "2025",
+   "definition": "由国务院卫生行政部门依法组建，负责审议风险评估规划、计划、技术报告，提出国家食品安全风险监测计划建议等职责的专家特设机构。由医学、农业、食品、营养、生物、环境等方面的专家组成。"
+  },
+  {
+   "cn": "科学知识增长的累积观",
+   "en": "cumulative view of the growth of scientific knowledge",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.137",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "认为科学发展是一项理性的、客观的积累事业，以渐进的方式进步，否认科学革命和不可通约性。"
+  },
+  {
+   "cn": "资本输出",
+   "en": "export of capital",
+   "source": "马克思主义",
+   "wordNumber": "03.0301",
+   "subjectFullName": "马克思主义_科学社会主义_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "资本主义国家的政府或垄断资本家集团，为了获得高额利润或利息，用“过剩资本”对国外进行的投资和贷款。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

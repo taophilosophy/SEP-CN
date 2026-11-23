@@ -1,0 +1,812 @@
+{
+ "key": "conditional stroke",
+ "term": "conditional stroke",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T03:10:08+00:00",
+ "status": "ok",
+ "note": "variant=conditional stroke; 审定公布名词库=2171; 海峡两岸名词对照库=543; 其他来源数据库=151; 预公布名词数据库=39; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "卒中",
+   "en": "stroke",
+   "source": "神经外科学名词",
+   "wordNumber": "8.137",
+   "subjectFullName": "医学_神经外科学_脑血管疾病_缺血性脑血管病",
+   "subjectName": "缺血性脑血管病",
+   "publishYear": "2026",
+   "definition": "一种由脑部血液循环障碍导致出血或缺血引起的、以局部神经功能缺失为特征的急性脑血管疾病。以颅内动脉疾病多见，可分为缺血性卒中和出血性卒中。"
+  },
+  {
+   "cn": "[脑]卒中",
+   "en": "stroke",
+   "source": "急救医学名词",
+   "wordNumber": "03.232",
+   "subjectFullName": "急救医学_日常医学急救_内科学_神经系统",
+   "subjectName": "神经系统",
+   "publishYear": "2025",
+   "definition": "起病急，迅速出现的脑循环障碍。症状一般持续24小时以上，可迅速导致局限性或弥漫性脑功能缺损。按病理类型可分为缺血性和出血性两大类，包括脑梗死、脑出血和蛛网膜下腔出血等。具有高发病率、高死亡率和高致残率"
+  },
+  {
+   "cn": "[脑]卒中",
+   "en": "stroke",
+   "source": "麻醉学名词",
+   "wordNumber": "05.210",
+   "subjectFullName": "麻醉学_重症监护与治疗_脑功能障碍",
+   "subjectName": "脑功能障碍",
+   "publishYear": "2024",
+   "definition": "起病急，迅速出现的脑循环障碍。症状一般持续24h以上，可迅速导致局限性或弥漫性脑功能缺损。按病理类型可分为缺血性和出血性两大类，包括脑梗死、脑出血和蛛网膜下隙出血等。具有高发病率、高死亡率和高致残率的"
+  },
+  {
+   "cn": "卒中",
+   "en": "stroke",
+   "source": "行为医学名词",
+   "wordNumber": "17.061",
+   "subjectFullName": "行为医学_相关行为疾病_神经系统相关行为疾病_脑血管系统疾病",
+   "subjectName": "脑血管系统疾病",
+   "publishYear": "2022",
+   "definition": "一种急性脑血管疾病。脑血管突发破裂或血管阻塞引起脑组织损伤的一组疾病。包括缺血性脑卒中和出血性脑卒中。"
+  },
+  {
+   "cn": "[螺纹]行程",
+   "en": "stroke",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "07.0060",
+   "subjectFullName": "机械工程（一）_机械零件_紧固件_螺纹",
+   "subjectName": "螺纹",
+   "publishYear": "2021",
+   "definition": "内、外螺纹相对转动某一角度所产生的相对轴向位移量。"
+  },
+  {
+   "cn": "[脑]卒中",
+   "en": "stroke",
+   "source": "神经病学名词",
+   "wordNumber": "08.001",
+   "subjectFullName": "神经病学_脑血管病",
+   "subjectName": "脑血管病",
+   "publishYear": "2020",
+   "definition": "起病急，迅速出现的脑循环障碍。症状一般持续24h以上，可迅速导致局限性或弥漫性脑功能缺损。按病理类型可分为缺血性和出血性两大类，包括脑梗死、脑出血和蛛网膜下腔出血等。具有高发病率、高死亡率和高致残率的"
+  },
+  {
+   "cn": "脑卒中",
+   "en": "stroke",
+   "source": "食品科学技术名词",
+   "wordNumber": "05.0440",
+   "subjectFullName": "食品科学技术_食品营养_循证营养学和食物营养学评价_人体测量",
+   "subjectName": "人体测量",
+   "publishYear": "2020",
+   "definition": "因脑血管阻塞或破裂引起的脑血流循环障碍和脑组织功能或结构损害的疾病。"
+  },
+  {
+   "cn": "冲程",
+   "en": "stroke",
+   "source": "冶金学名词",
+   "wordNumber": "03.0385",
+   "subjectFullName": "冶金学_选矿_重选、磁选及电选",
+   "subjectName": "重选、磁选及电选",
+   "publishYear": "2019",
+   "definition": "摇床床面前进或后退的最大位移。"
+  },
+  {
+   "cn": "[脑]卒中",
+   "en": "stroke",
+   "source": "肠外肠内营养学名词",
+   "wordNumber": "04.084",
+   "subjectFullName": "肠外肠内营养学_临床应用_适应证与并发症",
+   "subjectName": "适应证与并发症",
+   "publishYear": "2019",
+   "definition": "一种脑血液循环突发障碍的急性脑血管疾病。包括缺血性脑卒中(脑梗死)和出血性脑卒中两大类。"
+  },
+  {
+   "cn": "脑卒中",
+   "en": "stroke",
+   "source": "核医学名词",
+   "wordNumber": "04.0779",
+   "subjectFullName": "核医学_临床核医学_神经系统核医学_临床常见神经系统疾病",
+   "subjectName": "临床常见神经系统疾病",
+   "publishYear": "2018",
+   "definition": "急性脑循环障碍迅速导致局限性或弥漫性脑功能损伤的临床事件。分为缺血性脑卒中和出血性脑卒中。"
+  },
+  {
+   "cn": "脑卒中",
+   "en": "stroke",
+   "source": "老年医学名词",
+   "wordNumber": "04.417",
+   "subjectFullName": "老年医学_老年临床医学_老年神经系统疾病",
+   "subjectName": "老年神经系统疾病",
+   "publishYear": "2017",
+   "definition": "由于脑局部血液循环障碍而导致的神经功能缺损综合征。急性起病，症状持续时间至少24h。"
+  },
+  {
+   "cn": "[脑]卒中",
+   "en": "stroke",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "02.288",
+   "subjectFullName": "全科医学与社区卫生_社区常见临床问题",
+   "subjectName": "社区常见临床问题",
+   "publishYear": "2014",
+   "definition": "突然起病的脑血液循环障碍性疾病。可致意识障碍、偏瘫、甚至致命。分出血性与缺血性两类。"
+  },
+  {
+   "cn": "脑卒中",
+   "en": "stroke",
+   "source": "物理医学与康复名词",
+   "wordNumber": "04.126",
+   "subjectFullName": "物理医学与康复_损伤、疾病的康复_神经病损",
+   "subjectName": "神经病损",
+   "publishYear": "2014",
+   "definition": "起病急，迅速出现的脑循环障碍。症状一般持续24h以上，可迅速导致局限性或弥漫性脑功能缺损。按病理类型可分为缺血性和出血性两大类，包括脑梗死、脑出血和蛛网膜下腔出血等。具有高发病率、高死亡率和高致残率的"
+  },
+  {
+   "cn": "行程",
+   "en": "stroke",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "24.0133",
+   "subjectFullName": "机械工程_动力机械_内燃机_发动机设计和运行",
+   "subjectName": "发动机设计和运行",
+   "publishYear": "2013",
+   "definition": "工作活塞在其连续两次转换运动方向间所经过的公称距离。"
+  },
+  {
+   "cn": "行程",
+   "en": "stroke",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "04.008",
+   "subjectFullName": "机械工程_汽车_发动机_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2013",
+   "definition": "往复运动的活塞在其任一单向运动期间所经过的公称距离。"
+  },
+  {
+   "cn": "笔画",
+   "en": "stroke",
+   "source": "语言学名词",
+   "wordNumber": "02.057",
+   "subjectFullName": "语言学_文字学_汉字的结构",
+   "subjectName": "汉字的结构",
+   "publishYear": "2011",
+   "definition": "构成汉字字形的各种点和线。是汉字构形和书写的最小单位。"
+  },
+  {
+   "cn": "冲程",
+   "en": "stroke",
+   "source": "航天科学技术名词",
+   "wordNumber": "14.240",
+   "subjectFullName": "航天科学技术_航天器结构强度与航天环境工程",
+   "subjectName": "航天器结构强度与航天环境工程",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "动程",
+   "en": "stroke",
+   "source": "铁道科学技术名词",
+   "wordNumber": "08.0618",
+   "subjectFullName": "铁道科学技术_铁道信号",
+   "subjectName": "铁道信号",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "[脑]卒中",
+   "en": "stroke",
+   "source": "医学名词 第四分册",
+   "wordNumber": "07.287",
+   "subjectFullName": "医学_神经病学",
+   "subjectName": "神经病学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "按抚法",
+   "en": "stroking",
+   "source": "医学名词 第七分册",
+   "wordNumber": "04.0209",
+   "subjectFullName": "医学_物理医学与康复[学]",
+   "subjectName": "物理医学与康复[学]",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "冲程",
+   "en": "stroke",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "多次闪击",
+   "en": "multiple stroke",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "回闪击",
+   "en": "return stroke",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "进气行程",
+   "en": "intake stroke",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "笔画编码",
+   "en": "stroke coding",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "笔画码",
+   "en": "stroke code",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "笔画显示",
+   "en": "stroke display",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "笔数",
+   "en": "stroke count",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "笔顺",
+   "en": "stroke order",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "每搏输出量",
+   "en": "stroke volume",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "动力行程",
+   "en": "power stroke",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "活塞行程",
+   "en": "piston stroke",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "排气行程",
+   "en": "exhaust stroke",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "膨胀行程",
+   "en": "expansion stroke",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "气缸工作容积",
+   "en": "stroke volume",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "上行行程",
+   "en": "upward stroke",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "吸气行程",
+   "en": "suction stroke",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "压缩行程",
+   "en": "compression stroke",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "工作行程",
+   "en": "working stroke",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "回程",
+   "en": "return stroke",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "划水",
+   "en": "stroke",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "划水",
+   "en": "stroke",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "划水",
+   "en": "stroke",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "低手击球",
+   "en": "underarm stroke\",\"underhand stroke",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "划桨",
+   "en": "pull\",\"stroke",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "划水",
+   "en": "pull\",\"stroke",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_游泳名词",
+   "subjectName": "游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "移动",
+   "en": "move\",\"stroke",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "击球",
+   "en": "hit\",\"stroke",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "桨频表",
+   "en": "stroke-watch",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自由泳",
+   "en": "trudgen stroke",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "进攻性击球",
+   "en": "offensive stroke",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "击斜线球",
+   "en": "crosscourt stroke",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "上网击球",
+   "en": "approach stroke",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "防守性击球",
+   "en": "defensive stroke",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "平击球",
+   "en": "flat stroke",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "头顶击球",
+   "en": "overhead stroke",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "进攻性击球",
+   "en": "offensive stroke",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "斜线球",
+   "en": "crosscourt stroke",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "防守性击球",
+   "en": "defensive stroke",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "直线球",
+   "en": "straight stroke",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "热射病",
+   "en": "heat stroke",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.3.3.3.3",
+   "subjectFullName": "军事预防医学_热区军事卫生_高温作业",
+   "subjectName": "高温作业",
+   "publishYear": "2025",
+   "definition": "高温高湿环境中，体温调节功能失衡，中心温度迅速升高，超过40℃，伴有皮肤灼热、意识障碍（例如谵妄、惊厥、昏迷）及多器官功能障碍的严重致命性疾病。中暑最严重的类型，一旦发生，死亡率极高。"
+  },
+  {
+   "cn": "产褥中暑",
+   "en": "puerperal heat stroke",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.4.1.2",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "产褥期因高温环境使体内余热难以及时散发，引起中枢性体温调节功能障碍的急性热病，表现为高热、水电解质紊乱、循环衰竭和神经系统功能损害等。"
+  },
+  {
+   "cn": "参考条件",
+   "en": "reference conditions",
+   "source": "放射卫生学",
+   "wordNumber": "5.5.3",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_监测与评价",
+   "subjectName": "监测与评价",
+   "publishYear": "2025",
+   "definition": "一组影响量的特定值和/或值的范围，在此条件下剂量测定系统可允许的不确定度最小。"
+  },
+  {
+   "cn": "无菌状态",
+   "en": "sterility condition",
+   "source": "消毒学",
+   "wordNumber": "1.2.19.5",
+   "subjectFullName": "消毒学_消毒学_灭菌",
+   "subjectName": "灭菌",
+   "publishYear": "2025",
+   "definition": "无存活微生物的状态。"
+  },
+  {
+   "cn": "培养条件",
+   "en": "culture condition",
+   "source": "消毒学",
+   "wordNumber": "3.1.5.9",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "促进试验菌生长或增殖的条件，包括生长培养基、培养时间和温度。"
+  },
+  {
+   "cn": "生产条件",
+   "en": "production condition",
+   "source": "消毒学",
+   "wordNumber": "5.1.6",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "消毒产品生产企业生产消毒产品时对人员、设备、原料、检验、场所、生产用水等的要求。"
+  },
+  {
+   "cn": "仓储条件",
+   "en": "storage condition",
+   "source": "消毒学",
+   "wordNumber": "5.1.9",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "消毒产品生产仓储所需的有形或无形的场所与技术。"
+  },
+  {
+   "cn": "亚临床状态",
+   "en": "subclinical condition",
+   "source": "社会医学名词",
+   "wordNumber": "1.1.5",
+   "subjectFullName": "社会医学概述",
+   "subjectName": "社会医学",
+   "publishYear": "2025",
+   "definition": "机体无明显临床症状或体征，但存在生理性代偿或病理性改变的临床检测证据的一种状态。"
+  },
+  {
+   "cn": "社会物质条件",
+   "en": "social material condition",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.8",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "人类赖以生存和发展的物质要素的总和。主要包括自然条件、人口因素，以及人类生活所必需的物质资料和生产手段。"
+  },
+  {
+   "cn": "结案条件",
+   "en": "condition for termination",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.23",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "结束社会工作服务并与服务对象终止专业关系所要求的条件。在个案工作中，社会工作者与社工机构判断一个案主是否可以结案，都应有具体的条件或指标，即相应的结案条件。"
+  },
+  {
+   "cn": "社会制约",
+   "en": "social conditioning/constraint",
+   "source": "社会学名词",
+   "wordNumber": "2.1.5.9",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会生活",
+   "subjectName": "社会生活",
+   "publishYear": "2025",
+   "definition": "社会主体（个体或群体）或社会事物一方本身的存在与变化，以另一方的存在和变化为条件，受到相应的限制和约束。特指社会因素、社会权力、社会环境和条件对国家权力的限制和约束。"
+  },
+  {
+   "cn": "低氧预习服",
+   "en": "hypoxic pre-conditioning",
+   "source": "军事预防医学名词",
+   "wordNumber": "5.4.2",
+   "subjectFullName": "军事预防医学_高原军事卫生_高原习服",
+   "subjectName": "高原习服",
+   "publishYear": "2025",
+   "definition": "机体通过短暂时间的缺氧训练，来适应后续的更长时间或更严重缺氧的习服方式。"
+  },
+  {
+   "cn": "语言强化运动条件反射法",
+   "en": "language enhanced motor conditioned reflex",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.4.4.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习负荷评价",
+   "subjectName": "学习负荷评价",
+   "publishYear": "2025",
+   "definition": "以光和声为直接刺激，结合语言指示的强化（如令受试者看到某种颜色时立刻按压电键，而看到另一种颜色光时则不要按压电键），形成手指或脚趾按压的运动效应，据此来评价脑力工作能力变化的方法。"
+  },
+  {
+   "cn": "社会物质生活条件",
+   "en": "conditions of social material life",
+   "source": "马克思主义",
+   "wordNumber": "01.0226",
+   "subjectFullName": "马克思主义_哲学_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "人类社会赖以生存和发展的物质条件的总和。马克思和恩格斯在《德意志意识形态》一书中最初提出。斯大林把社会物质生活条件看成是和社会存在相当的范畴，包括三项：（1）人类社会生存于其中的自然条件；（2）人口的"
+  },
+  {
+   "cn": "伤势构成比",
+   "en": "proportion of conditions of injury",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.2.4",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "战伤伤员中轻、中、重伤伤员所占百分比，主要为掌握救治重点、确定救治范围、伤员留治期限、后送方式和次序、安排后运工具并为筹划医疗床位提供依据。"
+  },
+  {
+   "cn": "集中空调通风系统",
+   "en": "central air conditioning ventilation system",
+   "source": "消毒学",
+   "wordNumber": "1.8.18",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "为使房间或封闭空间空气温度、湿度、洁净度和气流速度等参数达到设定要求，而对空气进行集中处理、输送、分配的所有设备、管道及附件、仪器仪表所组成的系统。"
+  },
+  {
+   "cn": "多联机空调系统",
+   "en": "multi-connected split air conditioning system",
+   "source": "消毒学",
+   "wordNumber": "1.8.18.1.2",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "一组空气（水）源制冷或热泵机组配置多台室内机，通过改变制冷剂流量适应各房间负荷变化的直接膨胀式空调系统。"
+  },
+  {
+   "cn": "集中空调通风系统清洗",
+   "en": "central air conditioning ventilation system cleaning",
+   "source": "消毒学",
+   "wordNumber": "1.8.18.10",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "采用某些技术或方法清除集中空调通风系统风管、风口、空气处理单元和其他部件内与输送空气相接触表面以及空调冷却水塔内积聚的颗粒物、微生物的过程。"
+  },
+  {
+   "cn": "集中空调通风系统消毒",
+   "en": "central air conditioning ventilation system disinfecting",
+   "source": "消毒学",
+   "wordNumber": "1.8.18.11",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "采用物理和（或）化学方法杀灭集中空调通风系统风管、冷却塔、表冷器、风口、空气处理单元和其他部件内与输送空气相接触表面以及冷却水、冷凝水、积尘中的致病微生物的过程。"
+  },
+  {
+   "cn": "无产阶级实现对同盟者领导的条件",
+   "en": "conditions for the proletariat to lead the allies successfully",
+   "source": "马克思主义",
+   "wordNumber": "03.0437",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东提出的统一战线的原则之一。1940年3月，毛泽东在《目前抗日统一战线中的策略问题》中指出了争取中间势力的三个条件：我们有充足的力量；尊重他们的利益；我们对顽固派作坚决的斗争，并能一步一步地取得胜"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

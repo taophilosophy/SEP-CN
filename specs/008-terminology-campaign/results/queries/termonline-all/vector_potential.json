@@ -1,0 +1,712 @@
+{
+ "key": "vector potential",
+ "term": "vector potential",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T03:09:59+00:00",
+ "status": "ok",
+ "note": "variant=vector potential; 审定公布名词库=4224; 海峡两岸名词对照库=1510; 其他来源数据库=122; 预公布名词数据库=204; jwt-direct（JWT 直连，raw 略；已滤维基 10 条）",
+ "hits": [
+  {
+   "cn": "矢量势",
+   "en": "vector potential",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0562",
+   "subjectFullName": "地球物理学_地震科学_基础理论",
+   "subjectName": "基础理论",
+   "publishYear": "2022",
+   "definition": "将矢量场的无散部分表示为矢量场旋度，该矢量场称为矢量势。 "
+  },
+  {
+   "cn": "矢势",
+   "en": "vector potential",
+   "source": "物理学名词",
+   "wordNumber": "03.0397",
+   "subjectFullName": "物理学_电磁学",
+   "subjectName": "电磁学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "媒介潜能",
+   "en": "vector potential",
+   "source": "地方病学名词",
+   "wordNumber": "07.107",
+   "subjectFullName": "地方病学_鼠疫_媒介",
+   "subjectName": "媒介",
+   "publishYear": "2016",
+   "definition": "感染蚤中具有传播鼠疫能力的蚤的比率。"
+  },
+  {
+   "cn": "矢位",
+   "en": "vector potential",
+   "source": "电气工程名词",
+   "wordNumber": "01.029",
+   "subjectFullName": "电气工程_电工基础及通用名词",
+   "subjectName": "电工基础及通用名词",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "磁矢位",
+   "en": "magnetic vector potential",
+   "source": "电力名词",
+   "wordNumber": "01.058",
+   "subjectFullName": "电力_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "磁通密度的矢量位。磁矢位A的旋度是磁通密度B;磁矢位不是唯一的,因为任一无旋矢量都可以被叠加到一个给定的磁矢位上而不改变其旋度,在静态条件下通常选用散度为零的磁矢位。符号“A”。"
+  },
+  {
+   "cn": "节点电压向量",
+   "en": "node potential vector",
+   "source": "电力名词",
+   "wordNumber": "01.231",
+   "subjectFullName": "电力_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "在电路中,任选某一个节点作为参考节点,由所有其他节点与该参考节点之间的电压作为元素所构成的列向量。"
+  },
+  {
+   "cn": "磁矢势",
+   "en": "magnetic vector potential",
+   "source": "物理学名词",
+   "wordNumber": "03.0396",
+   "subjectFullName": "物理学_电磁学",
+   "subjectName": "电磁学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "磁矢位",
+   "en": "magnetic vector potential",
+   "source": "电气工程名词",
+   "wordNumber": "01.291",
+   "subjectFullName": "电气工程_电工基础及通用名词",
+   "subjectName": "电工基础及通用名词",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "载体",
+   "en": "vector",
+   "source": "农学名词",
+   "wordNumber": "15.041",
+   "subjectFullName": "农业生物技术_基因工程",
+   "subjectName": "基因工程",
+   "publishYear": "2025",
+   "definition": "在分子克隆中，携带外源基因或DNA片段转移进入宿主细胞，并可自我复制的DNA分子。基因工程中广泛使用的载体多来自人工改造的细菌质粒、噬菌体或动植物病毒。"
+  },
+  {
+   "cn": "病媒生物",
+   "en": "vector",
+   "source": "感染病学名词",
+   "wordNumber": "01.0283",
+   "subjectFullName": "感染病学_总论_感染病流行病学",
+   "subjectName": "感染病流行病学",
+   "publishYear": "2019",
+   "definition": "能够将病原体从人或其他动物传播给人的生物。如蚊、蝇、蚤类等。"
+  },
+  {
+   "cn": "矢量",
+   "en": "vector",
+   "source": "物理学名词",
+   "wordNumber": "01.0058",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "载体",
+   "en": "vector",
+   "source": "植物学名词",
+   "wordNumber": "16.0260",
+   "subjectFullName": "植物学_植物生物技术",
+   "subjectName": "植物生物技术",
+   "publishYear": "2019",
+   "definition": "可以插入核酸片段、能携带外源核酸进入宿主细胞，并在其中进行独立和稳定的自我复制的核酸分子。基因工程中广泛应用的载体多来自人工改造的细菌质粒、噬菌体或病毒核酸等。多数载体是DNA分子，但某些RNA分子也"
+  },
+  {
+   "cn": "载体",
+   "en": "vector",
+   "source": "核医学名词",
+   "wordNumber": "06.0142",
+   "subjectFullName": "核医学_核医学研究_分子生物学基础",
+   "subjectName": "分子生物学基础",
+   "publishYear": "2018",
+   "definition": "在基因工程重组DNA技术中，能将DNA片段(目的基因)转移至受体细胞并能自我复制的DNA分子。最常用的是细菌质粒、噬菌体和病毒。"
+  },
+  {
+   "cn": "向量",
+   "en": "vector",
+   "source": "计算机科学技术名词",
+   "wordNumber": "03.0142",
+   "subjectFullName": "计算机科学技术_计算机体系结构_计算机模型",
+   "subjectName": "计算机模型",
+   "publishYear": "2018",
+   "definition": "具有大小和方向的量。"
+  },
+  {
+   "cn": "矢量",
+   "en": "vector",
+   "source": "建筑学名词",
+   "wordNumber": "09.0151",
+   "subjectFullName": "建筑学_建筑设计_计算机辅助设计",
+   "subjectName": "计算机辅助设计",
+   "publishYear": "2014",
+   "definition": "具有大小和方向的量。在计算机辅助设计中通常指有向线段。"
+  },
+  {
+   "cn": "载体",
+   "en": "vector",
+   "source": "药学名词",
+   "wordNumber": "05.271",
+   "subjectFullName": "药学_生物药学",
+   "subjectName": "生物药学",
+   "publishYear": "2014",
+   "definition": "在基因工程重组DNA技术中将DNA片段(目的基因)转移至受体细胞的一种能自我复制的DNA分子。"
+  },
+  {
+   "cn": "载体",
+   "en": "vector",
+   "source": "微生物学名词",
+   "wordNumber": "06.126",
+   "subjectFullName": "微生物学_微生物遗传学",
+   "subjectName": "微生物遗传学",
+   "publishYear": "2012",
+   "definition": "在分子克隆中用于携带外源基因或DNA片段转移进入宿主细胞，并可自我复制的运载单位。"
+  },
+  {
+   "cn": "矢量",
+   "en": "vector",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.469",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "用于储存空间数据的一种方法。矢量数据由起点和终点定义的线或弧组成，其线或弧相交于节点。"
+  },
+  {
+   "cn": "介体",
+   "en": "vector",
+   "source": "昆虫学名词",
+   "wordNumber": "10.136",
+   "subjectFullName": "昆虫学_昆虫病理学",
+   "subjectName": "昆虫病理学",
+   "publishYear": "2000",
+   "definition": "携带对其他生物具有感染性病原体的昆虫，在介体内病原体繁殖或不繁殖。"
+  },
+  {
+   "cn": "向量",
+   "en": "vector",
+   "source": "数学名词",
+   "wordNumber": "04.0671",
+   "subjectFullName": "数学_代数学_代数几何学_线性代数",
+   "subjectName": "线性代数",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "向量势",
+   "en": "vector potential",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "向量电势",
+   "en": "electric vector potential",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "向量",
+   "en": "vector",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "载体",
+   "en": "vector",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "载体",
+   "en": "vector",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "矢量",
+   "en": "vector",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "向量",
+   "en": "vector",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "矢量",
+   "en": "vector",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "介体",
+   "en": "vector",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "矢量化",
+   "en": "vectorization",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "向量化",
+   "en": "vectorization",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "置换型载体",
+   "en": "replacement vector\",\"substitution vector",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "位[势]",
+   "en": "potential",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "位势",
+   "en": "potential",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "电势",
+   "en": "potential",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "势",
+   "en": "potential",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "位",
+   "en": "potential",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "增强",
+   "en": "potentiation",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "载体",
+   "en": "carrier\",\"vector",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "载体",
+   "en": "vector\",\"vehicle",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "向量空间",
+   "en": "vector space",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "潜能",
+   "en": "potential energy",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "支持向量机",
+   "en": "support vector machine",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "并行支持向量机",
+   "en": "parallel support vector machine",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "居安思危",
+   "en": "Be on Alert Against Potential Danger When Living in Peace",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "CT影像",
+   "en": "computed tomography imaging",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.1-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第1部分：公用的语法规则》",
+   "en": "GB/T 14805.1-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 1: Syntax rules common to all parts",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.2-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第2部分：批式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.2-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 2: Syntax rules specific to batch EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.3-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第3部分：交互式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.3-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 3: Syntax rules specific to interactive EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.7-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第7部分：批式电子数据交换安全规则（保密性）》",
+   "en": "GB/T 14805.7-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 7: Security rules for batch EDI (Confidentiality)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "媒介生物",
+   "en": "vector",
+   "source": "消毒学",
+   "wordNumber": "4.1.4.13.5.1",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "通过生物或机械方式将病原体从传染源或环境传播给人的生物，是某些疾病传播链中必不可少的环节。主要包括节肢动物中的蚊、蝇、蟑螂、蚤、蜱、螨、虱等，以及啮齿动物等，属于公共卫生有害生物。"
+  },
+  {
+   "cn": "媒介",
+   "en": "vector",
+   "source": "军事预防医学名词",
+   "wordNumber": "14.10.3",
+   "subjectFullName": "军事预防医学_军队流行病学_自然疫源性疾病",
+   "subjectName": "自然疫源性疾病",
+   "publishYear": "2025",
+   "definition": "能起到传播病原体作用的吸血昆虫和蜱螨等节肢动物。"
+  },
+  {
+   "cn": "媒介生物传播",
+   "en": "vector transmission",
+   "source": "消毒学",
+   "wordNumber": "4.6.8.5",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "被病原体感染的吸血节肢动物，如蚊、人虱、白玲、鼠蚤、蜱和螨等，叮咬时把病原体传给易感者的过程。"
+  },
+  {
+   "cn": "潜在照射",
+   "en": "potential exposure",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.5.2",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_一般要求",
+   "subjectName": "一般要求",
+   "publishYear": "2025",
+   "definition": "预期大概率不会发生但可能会因源的事故或某种具有偶然性质的事件或事件序列（包括设备故障和操作错误）所引起的照射。"
+  },
+  {
+   "cn": "事故隐患",
+   "en": "accident potential",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.6.22",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_分析评估",
+   "subjectName": "分析评估",
+   "publishYear": "2025",
+   "definition": "可能导致事故发生的物的危险状态、人的不安全行为及管理上的缺陷。"
+  },
+  {
+   "cn": "潜在危害",
+   "en": "potential hazard",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.5.21",
+   "subjectFullName": "食品卫生学_食品安全风险管理_危害分析与关键控制点",
+   "subjectName": "危害分析与关键控制点",
+   "publishYear": "2025",
+   "definition": "在食品生产过程中，可能存在但危害程度相对较低或发生可能性较小的危害。如不加以预防，将有可能发生的食品安全危害。"
+  },
+  {
+   "cn": "增强作用",
+   "en": "potentiation action",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.2.41",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "一种外源化学物对某器官或系统无毒作用，与另一种外源化学物同时或先后暴露时可增强另一种化学物的毒作用。"
+  },
+  {
+   "cn": "媒介生物传染病",
+   "en": "vector borne disease",
+   "source": "消毒学",
+   "wordNumber": "7.1.7.2",
+   "subjectFullName": "消毒学_其他_生物安全",
+   "subjectName": "生物安全",
+   "publishYear": "2025",
+   "definition": "由媒介生物即节肢类昆虫和啮齿类动物传播的疾病，包括完全或部分由媒介生物传播的疾病，如疟疾、流行性乙型脑炎、登革热等。"
+  },
+  {
+   "cn": "氧化还原电位",
+   "en": "oxidation reduction potential",
+   "source": "消毒学",
+   "wordNumber": "3.1.2.10.5.5",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "在电解过程中，氧化物质和还原物质同处于离子状态时，在电极和溶液之间产生电位差时的电极电位。"
+  },
+  {
+   "cn": "α粒子潜能",
+   "en": "potential alpha energy",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.5.1",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_氡个人监测评价",
+   "subjectName": "氡个人监测评价",
+   "publishYear": "2025",
+   "definition": "氡（222Rn）的子体完全衰变为210Pb（但不包括210Pb的衰变）和（220Rn）的子体完全衰变到稳定的208Pb时，所发射的α粒子能量的总和。"
+  },
+  {
+   "cn": "潜在致死性损伤",
+   "en": "potentially lethal damage",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.4.11",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "虽未直接导致细胞死亡，但如不进行干预，可在其他因素作用下引起细胞死亡的损伤。"
+  },
+  {
+   "cn": "潜在风险食品",
+   "en": "potentially hazardous food",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.4.29",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品生产规范",
+   "subjectName": "食品生产规范",
+   "publishYear": "2025",
+   "definition": "易于微生物生长或产生毒素的食品。这类食品通常蛋白质或碳水化合物含量较高，pH 大于4.6 且水分活度(aw)大于0.85。"
+  },
+  {
+   "cn": "媒介生物传染病消毒",
+   "en": "disinfection of vector borne disease",
+   "source": "消毒学",
+   "wordNumber": "4.1.4.13.5",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "对病媒生物传染病病原体可能污染的环境和物品进行的消毒。"
+  },
+  {
+   "cn": "媒介生物滞留喷洒",
+   "en": "residual spray for vector control",
+   "source": "军事预防医学名词",
+   "wordNumber": "14.11.2.3.3",
+   "subjectFullName": "军事预防医学_军队流行病学_部队特定场合消杀灭",
+   "subjectName": "部队特定场合消杀灭",
+   "publishYear": "2025",
+   "definition": "将药液以雾粒悬浮于空间或附着于媒介生物停留、栖息、接触的墙面或地面，以控制媒介生物的喷洒方法。"
+  },
+  {
+   "cn": "军队病媒生物控制",
+   "en": "vector pests control in army",
+   "source": "军事预防医学名词",
+   "wordNumber": "14.11.2",
+   "subjectFullName": "军事预防医学_军队流行病学_部队特定场合消杀灭",
+   "subjectName": "部队特定场合消杀灭",
+   "publishYear": "2025",
+   "definition": "由军队专业技术人员或军队认可的专业技术力量在军事管辖范围内开展的病媒生物管理活动。"
+  },
+  {
+   "cn": "病媒生物抗药性",
+   "en": "pesticides resistance in vector control",
+   "source": "军事预防医学名词",
+   "wordNumber": "14.11.2.3.4",
+   "subjectFullName": "军事预防医学_军队流行病学_部队特定场合消杀灭",
+   "subjectName": "部队特定场合消杀灭",
+   "publishYear": "2025",
+   "definition": "在长期的药物选择压力下，媒介生物具有耐受杀死大部分正常种群个体的药量能力，并在其种群内发展起来的现象。"
+  },
+  {
+   "cn": "脑诱发电位",
+   "en": "Brain Evoked Potential, BEP",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.1.4.2.2.3",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业生理学",
+   "subjectName": "军事作业生理学",
+   "publishYear": "2025",
+   "definition": "当感觉系统（如视觉、听觉、躯体感觉）接受刺激（如光、声音、电流）或大脑执行认知任务（如记忆、决策）时，神经元会产生同步化电信号，经传导路径到达皮层或皮层下结构，形成可检测的电位变化。"
+  },
+  {
+   "cn": "α粒子潜能浓度",
+   "en": "potential alpha energy concentration",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.5.10",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_氡个人监测评价",
+   "subjectName": "氡个人监测评价",
+   "publishYear": "2025",
+   "definition": "单位体积空气中氡和   子体α潜能值。"
+  },
+  {
+   "cn": "食品安全隐患",
+   "en": "potential food safety issue",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.1.27",
+   "subjectFullName": "食品卫生学_总论_食品安全",
+   "subjectName": "食品安全",
+   "publishYear": "2025",
+   "definition": "食品中存在的可能对人体健康造成危害的因素。常见的食品安全隐患包括食品中的有害物质、微生物污染、添加剂超标、不合格食品等。"
+  },
+  {
+   "cn": "潜在卫生服务需要",
+   "en": "potential health service need",
+   "source": "社会医学名词",
+   "wordNumber": "8.2.2",
+   "subjectFullName": "卫生服务研究",
+   "subjectName": "卫生服务需要",
+   "publishYear": "2025",
+   "definition": "尚未被个体或医学专业人员识别或发现的卫生服务需要。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

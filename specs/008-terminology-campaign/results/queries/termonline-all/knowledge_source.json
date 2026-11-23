@@ -1,0 +1,802 @@
+{
+ "key": "knowledge source",
+ "term": "knowledge source",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T03:06:07+00:00",
+ "status": "ok",
+ "note": "variant=knowledge source; 审定公布名词库=3542; 海峡两岸名词对照库=668; 其他来源数据库=223; 预公布名词数据库=146; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "知识源",
+   "en": "knowledge source",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0641",
+   "subjectFullName": "计算机科学技术_人工智能_知识工程",
+   "subjectName": "知识工程",
+   "publishYear": "2018",
+   "definition": "提供知识的各种信息资源。"
+  },
+  {
+   "cn": "知识",
+   "en": "knowledge",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "01.019",
+   "subjectFullName": "图书馆·情报与文献学_图书馆学情报学基础_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "与使用者的能力和经验结合在一起的信息，或通过学习、实践或探索所获得的认识、判断或技能。用以解决某个问题或创造新的知识。"
+  },
+  {
+   "cn": "知识",
+   "en": "knowledge",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0617",
+   "subjectFullName": "计算机科学技术_人工智能_知识工程",
+   "subjectName": "知识工程",
+   "publishYear": "2018",
+   "definition": "问题求解所需的信息的总和。其中信息是经过整理的、结构化的。知识具有产生或者有助于产生新信息的能力。"
+  },
+  {
+   "cn": "知识",
+   "en": "knowledge",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0712",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_知识管理",
+   "subjectName": "知识管理",
+   "publishYear": "2016",
+   "definition": "人们通过实践和学习对客观事物及其运动过程和规律的认识结果。包括事实、信念、观点、观念、概念、判断、方法和技术诀窍等。"
+  },
+  {
+   "cn": "知识",
+   "en": "knowledge",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "09.088",
+   "subjectFullName": "全科医学与社区卫生_社区健康教育与健康促进",
+   "subjectName": "社区健康教育与健康促进",
+   "publishYear": "2014",
+   "definition": "人对世界的认识和经验的总和。"
+  },
+  {
+   "cn": "知识鸿沟",
+   "en": "knowledge divide,knowledge gap",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "01.046",
+   "subjectFullName": "图书馆·情报与文献学_图书馆学情报学基础_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "由于接触媒介和学习知识的经济条件、传播技能及其他方面的差异，获得较多信息及知识的群体与获得较少信息及知识的群体之间的差异不断增大的现象。是美国传播学家在实证研究基础上提出并验证的一个假设。"
+  },
+  {
+   "cn": "知识图谱",
+   "en": "knowledge mapping,mapping knowledge",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "06.239",
+   "subjectFullName": "图书馆·情报与文献学_情报分析与研究_文献计量学",
+   "subjectName": "文献计量学",
+   "publishYear": "2019",
+   "definition": "显示知识发展进程与结构关系的一系列各种不同的图形。用可视化技术描述知识资源及其载体，挖掘、分析、构建、绘制和显示知识及它们之间的相互联系。"
+  },
+  {
+   "cn": "知识组织",
+   "en": "knowledge construction,knowledge organization",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0768",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_知识管理",
+   "subjectName": "知识管理",
+   "publishYear": "2016",
+   "definition": "人们通过对知识的加工、分类、建构等，使无序的知识形成有序结构的知识体系的过程。"
+  },
+  {
+   "cn": "知识检索",
+   "en": "knowledge retrieval,knowledge search",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0769",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_知识管理",
+   "subjectName": "知识管理",
+   "publishYear": "2016",
+   "definition": "从知识资源或知识库中，按照一定的方式和技术，并根据用户的需求找出相关知识的过程。"
+  },
+  {
+   "cn": "知识资源",
+   "en": "knowledge resource",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0727",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_知识管理",
+   "subjectName": "知识管理",
+   "publishYear": "2016",
+   "definition": "人类通过实践和思考发现和创造的智力成果，不具有独立实物形态，但可以以人类大脑和多种物质作为载体，经过开发和管理能转变为可以利用的知识。"
+  },
+  {
+   "cn": "源",
+   "en": "source",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "04.019",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程综合",
+   "subjectName": "过程综合",
+   "publishYear": "2024",
+   "definition": "过程系统中提供能量或物质的过程单元。"
+  },
+  {
+   "cn": "信源",
+   "en": "source",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.103",
+   "subjectFullName": "新闻学与传播学_传播总论_传播研究基础",
+   "subjectName": "传播研究基础",
+   "publishYear": "2022",
+   "definition": "信息的发出者与传送者。任何能发出信息的人或物都可被视为信源。"
+  },
+  {
+   "cn": "消息源",
+   "en": "source",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.08.027",
+   "subjectFullName": "编辑与出版学_编辑_报刊编辑",
+   "subjectName": "报刊编辑",
+   "publishYear": "2022",
+   "definition": "新闻、事件的出处。"
+  },
+  {
+   "cn": "源",
+   "en": "source",
+   "source": "植物学名词",
+   "wordNumber": "11.0350",
+   "subjectFullName": "植物学_植物生理学_植物同化物运输与分配",
+   "subjectName": "植物同化物运输与分配",
+   "publishYear": "2019",
+   "definition": "植物体中制造并向其他器官提供营养的器官。如叶片。"
+  },
+  {
+   "cn": "声源",
+   "en": "source",
+   "source": "语言学名词",
+   "wordNumber": "03.180",
+   "subjectFullName": "语言学_语音学_声学语音学",
+   "subjectName": "声学语音学",
+   "publishYear": "2011",
+   "definition": "声学语音学中，指为语音产生提供能量的源泉。语音的声源可分为两种：元音声源是喉头的声带振动；清辅音声源是发音部位的气流扰动。"
+  },
+  {
+   "cn": "信源",
+   "en": "source",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.035",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "在通信中，向另一部件(信宿)发出信息的部件。"
+  },
+  {
+   "cn": "源",
+   "en": "source",
+   "source": "航空科学技术名词",
+   "wordNumber": "03.062",
+   "subjectFullName": "航空科学技术_飞行原理",
+   "subjectName": "飞行原理",
+   "publishYear": "2003",
+   "definition": "流体自流场中某处向外流出的一种流动。"
+  },
+  {
+   "cn": "源",
+   "en": "source",
+   "source": "水利科学技术名词",
+   "wordNumber": "03.058",
+   "subjectFullName": "水利科学技术_水力学、河流动力学、海岸动力学_水力学（水利）",
+   "subjectName": "水力学（水利）",
+   "publishYear": "1997",
+   "definition": "理想不可压缩势流中，流体从一点以一定流量均匀地向各方径向流出所形成的流动。"
+  },
+  {
+   "cn": "源",
+   "en": "source",
+   "source": "石油名词",
+   "wordNumber": "04.0065",
+   "subjectFullName": "石油_石油地球物理测井",
+   "subjectName": "石油地球物理测井",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "源点",
+   "en": "source",
+   "source": "数学名词",
+   "wordNumber": "03.0203",
+   "subjectFullName": "数学_组合学·一般数学系统_图论",
+   "subjectName": "图论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "知识源",
+   "en": "knowledge source",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "知识",
+   "en": "knowledge",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "源",
+   "en": "source",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "源",
+   "en": "source",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "源",
+   "en": "source",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "来源",
+   "en": "source",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "α源",
+   "en": "α-source",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "β源",
+   "en": "β-source",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "γ源",
+   "en": "γ-source",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "知识库",
+   "en": "knowledge base",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "知识工程",
+   "en": "knowledge engineering",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "非陈述性知识",
+   "en": "nondeclarative knowledge",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "知识管理",
+   "en": "knowledge management",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "陈述性知识,描述性知识",
+   "en": "declarative knowledge",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "隐性知识,意会知识",
+   "en": "tacit knowledge",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自我知识",
+   "en": "self knowledge",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "程序性知识",
+   "en": "procedural knowledge",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "外显知识",
+   "en": "explicit knowledge",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "语义知识",
+   "en": "semantic knowledge",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "理性知识",
+   "en": "rational knowledge",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "Google Source社区",
+   "en": "Google Source community",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "常识",
+   "en": "General Knowledge",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识工程",
+   "en": "Knowledge Engineering",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识图谱",
+   "en": "knowledge graph",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "元知识",
+   "en": "meta-knowledge",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识发现",
+   "en": "knowledge discovery",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识表示",
+   "en": "knowledge representation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识管理",
+   "en": "knowledge management",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识工程师",
+   "en": "knowledge engineer",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识用户",
+   "en": "knowledge user",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识库",
+   "en": "knowledge base",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识产业",
+   "en": "knowledge industry",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识编辑器",
+   "en": "knowledge editor",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识共享",
+   "en": "knowledge sharing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识建模",
+   "en": "knowledge modeling",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识网格",
+   "en": "knowledge grid",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识计算",
+   "en": "knowledge computing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识抽取",
+   "en": "knowledge extraction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识推理",
+   "en": "knowledge inference",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识社会",
+   "en": "knowledge society",
+   "source": "社会学名词",
+   "wordNumber": "2.1.2.5",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会形式",
+   "subjectName": "社会形式",
+   "publishYear": "2025",
+   "definition": "知识成为生产力及其发展的重要特征、知识和智力开发在社会发展中日益具有突出作用的社会。"
+  },
+  {
+   "cn": "法律知识",
+   "en": "legal knowledge",
+   "source": "社会学名词",
+   "wordNumber": "3.7.8.3",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律文化",
+   "subjectName": "法律文化",
+   "publishYear": "2025",
+   "definition": "人们有关法和法律现象的知识。"
+  },
+  {
+   "cn": "默会知识",
+   "en": "tacit knowledge",
+   "source": "社会学名词",
+   "wordNumber": "3.10.2.6",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学知识",
+   "subjectName": "科学知识",
+   "publishYear": "2025",
+   "definition": "主要相对于显性知识而言，是一种只可意会不可言传的知识，一种经常使用却又不能通过语言文字符号予以清晰表达或直接传递的知识。"
+  },
+  {
+   "cn": "地方性知识",
+   "en": "local knowledge",
+   "source": "社会学名词",
+   "wordNumber": "4.2.9.14",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化现象",
+   "subjectName": "文化现象",
+   "publishYear": "2025",
+   "definition": "相对于宏大叙事而言的现场知识系统。此概念由格尔茨(C.Geertz）于1970年代提出，强调在特定语境下被相互紧密关联的人与事编制起来的意义系统，它常见于相互认同的人群当中，职场、草根、在地等均属于这"
+  },
+  {
+   "cn": "知识经济",
+   "en": "knowledge economy",
+   "source": "马克思主义",
+   "wordNumber": "02.0422",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "一种与农业经济、工业经济等相对应的，以现代科学技术为核心、建立在知识和信息的生产、分配和使用基础上的以知识为主要生产要素的经济。"
+  },
+  {
+   "cn": "健康知识",
+   "en": "health knowledge",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.8.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育与健康促进评价",
+   "subjectName": "学校健康教育与健康促进评价",
+   "publishYear": "2025",
+   "definition": "个体通过学习、实践或探索所获得的信息和认识。健康教育评价指标之一，旨在评价个体对健康信息的正确理解程度。"
+  },
+  {
+   "cn": "良知",
+   "en": "intuitive knowledge",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.104",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人与生俱来的、先天具有的判断是非善恶的道德意识和道德本能。是人的天赋善良本心的能动作用，主宰着人的一切道德行为，是人的最高的道德理性和道德本能。"
+  },
+  {
+   "cn": "地方性知识",
+   "en": "local knowledge",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0611",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "美国阐释人类学代表格尔茨（Clifford Geertz）提出的概念，意指从本地人的观点出发“解释”本地人（被研究者）的文化。"
+  },
+  {
+   "cn": "密封源",
+   "en": "sealed source",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.2.4",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_外照射屏蔽防护设计",
+   "subjectName": "外照射屏蔽防护设计",
+   "publishYear": "2025",
+   "definition": "永久密封在包壳里的或紧密地固结在覆盖层里并呈固体形态的放射性物质。"
+  },
+  {
+   "cn": "非密封源",
+   "en": "unsealed source",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.2.5",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_外照射屏蔽防护设计",
+   "subjectName": "外照射屏蔽防护设计",
+   "publishYear": "2025",
+   "definition": "没有被永久密封在包壳中，或没有紧密粘合在一起呈固态的放射性物质。"
+  },
+  {
+   "cn": "源组织",
+   "en": "source tissue",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.3",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "在内照射剂量估算中含有一定量放射性核素、发出射线的机体组织。"
+  },
+  {
+   "cn": "源器官",
+   "en": "source organ",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.4",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "在内照射剂量估算中含有一定量放射性核素、发出射线的机体器官。"
+  },
+  {
+   "cn": "贮源器",
+   "en": "source carrier",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.55",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "在近距离放射治疗中，可容纳一个或多个放射源的容器。当治疗源不用时可提供放射源的屏蔽防护。"
+  },
+  {
+   "cn": "施源器",
+   "en": "source applicator",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.56",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "在近距离放射治疗中，预先放入人体腔、管道或组织间，供放射源驻留或运动，并实施治疗的特殊容器。"
+  },
+  {
+   "cn": "离子源",
+   "en": "ion source",
+   "source": "放射卫生学",
+   "wordNumber": "6.5.1.16",
+   "subjectFullName": "放射卫生学_放射防护_工业应用的放射防护_加速器应用",
+   "subjectName": "加速器应用",
+   "publishYear": "2025",
+   "definition": "利用电磁场使固体或气体原子电离，产生离子的一种装置。"
+  },
+  {
+   "cn": "源材料",
+   "en": "source material",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.7.1",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护",
+   "subjectName": "核工业的放射防护",
+   "publishYear": "2025",
+   "definition": "含天然铀、贫化铀、钍或上述任何物质的金属、合金、化合物或浓缩物的材料。"
+  },
+  {
+   "cn": "危险源",
+   "en": "dangerous source",
+   "source": "放射卫生学",
+   "wordNumber": "7.1.5.1",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核或辐射应急相关辐射源",
+   "subjectName": "核或辐射应急相关辐射源",
+   "publishYear": "2025",
+   "definition": "如果失去控制，它的照射足以导致严重有害的组织反应发生的放射源。这一类别被用于确定应急响应安排的需要，不得与为其他目的所确定的源的类别相混淆。"
+  },
+  {
+   "cn": "失控源",
+   "en": "orphan source",
+   "source": "放射卫生学",
+   "wordNumber": "7.1.5.2",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_事件类型与分类_核或辐射应急相关辐射源",
+   "subjectName": "核或辐射应急相关辐射源",
+   "publishYear": "2025",
+   "definition": "未被置于审管控制之下的放射源。这可能是从未接受过审管机构控制，或是因为被废弃、丢失、错放、被盗或未经授权的擅自转移而失去控制。国际上称为“孤儿源”。"
+  },
+  {
+   "cn": "控制源",
+   "en": "control source",
+   "source": "放射卫生学",
+   "wordNumber": "8.2.8",
+   "subjectFullName": "放射卫生学_放射卫生监管_工业及其他应用监管",
+   "subjectName": "工业及其他应用监管",
+   "publishYear": "2025",
+   "definition": "用来对管线爬行器进行导向和定位控制的密封放射源。"
+  },
+  {
+   "cn": "换源器",
+   "en": "source changer",
+   "source": "放射卫生学",
+   "wordNumber": "8.2.9",
+   "subjectFullName": "放射卫生学_放射卫生监管_工业及其他应用监管",
+   "subjectName": "工业及其他应用监管",
+   "publishYear": "2025",
+   "definition": "用于更换γ射线探伤源组件的屏蔽容器。通常具有两个贮源孔，旧源从其中的一个源孔被推进，新源从另一个源孔中被移出。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

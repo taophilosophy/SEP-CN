@@ -1,0 +1,632 @@
+{
+ "key": "elementarily equivalent",
+ "term": "elementarily equivalent",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T03:05:41+00:00",
+ "status": "ok",
+ "note": "variant=elementarily equivalent; 审定公布名词库=532; 海峡两岸名词对照库=153; 其他来源数据库=12; 预公布名词数据库=45; jwt-direct（JWT 直连，raw 略；已滤维基 10 条）",
+ "hits": [
+  {
+   "cn": "初等等价[的]",
+   "en": "elementarily equivalent",
+   "source": "数学名词",
+   "wordNumber": "02.0091",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "对等词",
+   "en": "equivalent",
+   "source": "语言学名词",
+   "wordNumber": "06.084",
+   "subjectFullName": "语言学_辞书学_辞书编纂",
+   "subjectName": "辞书编纂",
+   "publishYear": "2011",
+   "definition": "两种或多种语言中在意义上具有对应等值关系的语词或短语，彼此互称对等词。"
+  },
+  {
+   "cn": "等效",
+   "en": "equivalent",
+   "source": "航海科技名词",
+   "wordNumber": "13.0282",
+   "subjectFullName": "航海科学技术_航行管理与法规",
+   "subjectName": "航行管理与法规",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "等效性",
+   "en": "equivalence",
+   "source": "物理学名词",
+   "wordNumber": "06.0168",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "当量",
+   "en": "equivalence",
+   "source": "呼吸病学名词",
+   "wordNumber": "11.004",
+   "subjectFullName": "呼吸病学_体液、电解质与酸碱平衡_体液与电解质平衡",
+   "subjectName": "体液与电解质平衡",
+   "publishYear": "2018",
+   "definition": "一种表示液体中离子电荷数量的单位。用Eq表示。1当量(Eq)=1000毫当量(mEq)。单位液体容积所含离子电荷数用Eq/L或mEq/L表示。"
+  },
+  {
+   "cn": "等价[性]",
+   "en": "equivalence",
+   "source": "数学名词",
+   "wordNumber": "01.0037",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "初等等价的",
+   "en": "elementary equivalent",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0256",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "如果两个结构有相同的基本理论，则称它们是初等等价的。"
+  },
+  {
+   "cn": "等值宽度",
+   "en": "equivalent width; equivalent breadth",
+   "source": "天文学名词",
+   "wordNumber": "04.168",
+   "subjectFullName": "天文学_天体物理学",
+   "subjectName": "天体物理学",
+   "publishYear": "2024",
+   "definition": "与吸收(或发射)谱线轮廓和连续谱之间所包围的面积相当的高度为 1 的矩形的宽度。"
+  },
+  {
+   "cn": "等效位置",
+   "en": "equivalent position",
+   "source": "地质学名词",
+   "wordNumber": "02.00.165",
+   "subjectFullName": "地质学_结晶学",
+   "subjectName": "结晶学",
+   "publishYear": "2026",
+   "definition": "晶体结构中，能通过空间群中对称要素的变换作用相互重复而联系在一起的一组几何点的空间位置。通常与“等效点系”视为同义词。"
+  },
+  {
+   "cn": "等价类质同象",
+   "en": "equivalent isomorphism",
+   "source": "地质学名词",
+   "wordNumber": "02.00.182",
+   "subjectFullName": "地质学_结晶学",
+   "subjectName": "结晶学",
+   "publishYear": "2026",
+   "definition": "在类质同象混晶中，相互替代的离子的电价相等。"
+  },
+  {
+   "cn": "当量载荷",
+   "en": "equivalent load",
+   "source": "地质学名词",
+   "wordNumber": "17.04.045",
+   "subjectFullName": "地质学_工程地质学_工程地质勘察与施工",
+   "subjectName": "工程地质勘察与施工",
+   "publishYear": "2026",
+   "definition": "为便于振动分析而采用的和作用于原振动系统的动载荷相当的静载荷。"
+  },
+  {
+   "cn": "当量试剂",
+   "en": "equivalent reagent",
+   "source": "精细化工名词",
+   "wordNumber": "08.0625",
+   "subjectFullName": "精细化工_其他精细化学品_化学试剂",
+   "subjectName": "化学试剂",
+   "publishYear": "2025",
+   "definition": "将一定质量的基准物质熔封于特制安瓶中，经精确稀释后所得的标准溶液。无须称量、干燥、恒量、标定及换算等繁杂操作过程，使用比较方便。"
+  },
+  {
+   "cn": "等效原理",
+   "en": "equivalent principle",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.356",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_物理学哲学",
+   "subjectName": "物理学哲学",
+   "publishYear": "2024",
+   "definition": "广义相对论基本原理之一。分为分别表述惯性质量与引力质量及引力效果与加速运动等效关系的弱等效原理和强等效原理。"
+  },
+  {
+   "cn": "等效温度",
+   "en": "equivalent temperature",
+   "source": "天文学名词",
+   "wordNumber": "04.112",
+   "subjectFullName": "天文学_天体物理学",
+   "subjectName": "天体物理学",
+   "publishYear": "2024",
+   "definition": "天体辐射的能谱分布或辐射总功率若与某温度黑体辐射的能谱分布或总辐射功率近似对应，则称此温度为该天体的等效温度。"
+  },
+  {
+   "cn": "电化当量",
+   "en": "electrochemical equivalent",
+   "source": "化工名词（九）无机化工与肥料",
+   "wordNumber": "01.0196",
+   "subjectFullName": "化工（九）_无机化工",
+   "subjectName": "无机化工",
+   "publishYear": "2023",
+   "definition": "在电极上通过单位电量时，电极反应产物的理论质量。"
+  },
+  {
+   "cn": "换洋",
+   "en": "equivalent replacement",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.03.051",
+   "subjectFullName": "编辑与出版学_发行与经营_发行交易",
+   "subjectName": "发行交易",
+   "publishYear": "2022",
+   "definition": "把自己的书与同行的书进行等码洋的品种调换，以增加图书品种的行为。"
+  },
+  {
+   "cn": "异氰酸酯当量",
+   "en": "isocyanate equivalent",
+   "source": "化工名词（七）高分子化工",
+   "wordNumber": "2.0554",
+   "subjectFullName": "化工（七）_合成树脂_聚氨酯树脂",
+   "subjectName": "聚氨酯树脂",
+   "publishYear": "2022",
+   "definition": "消耗1摩尔异氰酸酯（苯基异氰酸酯为基准物）所需要溶剂的克数。用于衡量聚氨酯涂料中所用溶剂的级别。"
+  },
+  {
+   "cn": "等效硫化",
+   "en": "equivalent cure",
+   "source": "化工名词（七）高分子化工",
+   "wordNumber": "3.0531",
+   "subjectFullName": "化工（七）_合成橡胶_合成橡胶的加工及改性",
+   "subjectName": "合成橡胶的加工及改性",
+   "publishYear": "2022",
+   "definition": "硫化过程中，在不同硫化温度下调节不同的硫化时间以达到制品的相同硫化效果。"
+  },
+  {
+   "cn": "热价",
+   "en": "thermal equivalent",
+   "source": "行为医学名词",
+   "wordNumber": "7.013",
+   "subjectFullName": "行为医学_健康相关行为_健康促进行为_合理膳食",
+   "subjectName": "合理膳食",
+   "publishYear": "2022",
+   "definition": "每克某种食物氧化（或在体外燃烧）时所释放的热量。"
+  },
+  {
+   "cn": "代谢当量",
+   "en": "metabolic equivalent",
+   "source": "行为医学名词",
+   "wordNumber": "7.032",
+   "subjectFullName": "行为医学_健康相关行为_健康促进行为_适量运动",
+   "subjectName": "适量运动",
+   "publishYear": "2022",
+   "definition": "维持静息代谢所需要的耗氧量。"
+  },
+  {
+   "cn": "等效",
+   "en": "equivalent",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "当量",
+   "en": "equivalent",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "等效",
+   "en": "equivalent",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "等值",
+   "en": "equivalent",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "腔上囊类同器官",
+   "en": "bursa equivalent",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "等价种（=等值种）",
+   "en": "equivalent species",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "等位种（=等值种）",
+   "en": "equivalent species",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "等值种，等位种，等价种",
+   "en": "equivalent species",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "相当温度",
+   "en": "equivalent temperature",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "等当点",
+   "en": "equivalent point",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "当量电导",
+   "en": "equivalent conductance",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "当量直径",
+   "en": "equivalent diameter",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "当量长度",
+   "en": "equivalent length",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "等效径",
+   "en": "equivalent diameter",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "等效电导",
+   "en": "equivalent conductance",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "光化学当量",
+   "en": "photochemical equivalent",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "能量当量",
+   "en": "energy equivalent",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "电化当量",
+   "en": "electrochemical equivalent",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "等值复本",
+   "en": "equivalent forms",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "等值测验",
+   "en": "equivalent test",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "语义对等",
+   "en": "semantic equivalence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "有线等效加密",
+   "en": "wired equivalent privacy (WEP)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "等价物",
+   "en": "equivalent",
+   "source": "马克思主义",
+   "wordNumber": "02.0059",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在价值表现中处于等价形式上的商品。等价物随着价值形式的发展而发展。比如，20码麻布=1件上衣，麻布的价值相对地表现出来，处于相对价值形式，上衣则起等价物的作用或说处于等价形式。"
+  },
+  {
+   "cn": "当量剂量",
+   "en": "equivalent dose",
+   "source": "放射卫生学",
+   "wordNumber": "3.3.1.3",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_辐射防护量_防护量",
+   "subjectName": "防护量",
+   "publishYear": "2025",
+   "definition": "辐射R在器官或组织T中产生的平均吸收剂量DT,R与辐射R的辐射权重因数wR的乘积。符号为HT,R。SI单位为焦耳每千克，专有名称是希沃特，记作Sv。"
+  },
+  {
+   "cn": "剂量当量",
+   "en": "dose equivalent",
+   "source": "放射卫生学",
+   "wordNumber": "3.3.2.4",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_辐射防护量_实用量",
+   "subjectName": "实用量",
+   "publishYear": "2025",
+   "definition": "组织内某一点的吸收剂量（D）与该点特定辐射的品质因数（Q）的乘积。SI单位为焦耳每千克，专有名称是希沃特，记作Sv。"
+  },
+  {
+   "cn": "衰减当量",
+   "en": "attenuation equivalent",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.2.30",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_外照射屏蔽防护设计",
+   "subjectName": "外照射屏蔽防护设计",
+   "publishYear": "2025",
+   "definition": "相对于参考物质的厚度。即在规定的辐射线束和几何条件下以该厚度的参考物质代替所考虑的物质时，具有相同的衰减程度。"
+  },
+  {
+   "cn": "铅当量",
+   "en": "lead equivalent",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.2.31",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_外照射屏蔽防护设计",
+   "subjectName": "外照射屏蔽防护设计",
+   "publishYear": "2025",
+   "definition": "用铅作为参考物质时，用铅的厚度来表示的某种物质衰减当量。单位为毫米铅（mm Pb）。"
+  },
+  {
+   "cn": "铝当量",
+   "en": "aluminum equivalent",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.1.19",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_医用电离辐射",
+   "subjectName": "医用电离辐射",
+   "publishYear": "2025",
+   "definition": "用铝作为参考物质时，用铝的厚度来表示的某种物质衰减当量。单位为毫米铝（mm Al）。"
+  },
+  {
+   "cn": "等效能量",
+   "en": "equivalent energy",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.1.20",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_医用电离辐射",
+   "subjectName": "医用电离辐射",
+   "publishYear": "2025",
+   "definition": "与所考虑的多能量辐射有相当特性的单能量辐射的能量。"
+  },
+  {
+   "cn": "等价交换",
+   "en": "equivalent exchange",
+   "source": "马克思主义",
+   "wordNumber": "02.0035",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "不同使用价值按照由社会必要劳动时间决定的价值量进行等量互换的交易行为，是商品经济的基础法则。市场价格围绕市场价值的运动，使价格在趋势上与价值趋于一致，是等价交换原则的表现形式。"
+  },
+  {
+   "cn": "一般等价物",
+   "en": "universal equivalent",
+   "source": "马克思主义",
+   "wordNumber": "02.0065",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "价值形式发展到一般价值形式时的表现形式，是从商品界分离出来表现其他一切商品价值的商品。随着商品交换的发展，经常出现并成为人们普遍乐意接受的某种商品便逐渐自发地从商品界分离出来，成为一般等价物。"
+  },
+  {
+   "cn": "特殊等价物",
+   "en": "particular equivalent",
+   "source": "马克思主义",
+   "wordNumber": "02.0066",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在扩大的相对价值形式中，处于等价形式上的一切商品。即在“20码麻布=1件上衣，或=10磅茶叶，或=40磅咖啡，或=其他”这一总和的或扩大的价值形式中，除20码麻布以外的一切商品就都获得了特殊等价物的形"
+  },
+  {
+   "cn": "个别等价物",
+   "en": "individual equivalent",
+   "source": "马克思主义",
+   "wordNumber": "02.0067",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与个别的简单相对价值形式相对应并表现其它价值的另一个商品，即处于个别等价形式的商品。如在“20码麻布=1件上衣”这一简单相对价值形式中，麻布则是作为个别等价物起作用。"
+  },
+  {
+   "cn": "等效球镜",
+   "en": "spherical equivalent",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.2.2.2.3",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测",
+   "subjectName": "学生常见疾病监测",
+   "publishYear": "2025",
+   "definition": "“柱镜度数/2+球镜度数”的计算结果。"
+  },
+  {
+   "cn": "当量剂量",
+   "en": "equivalent dose",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.4.25",
+   "subjectFullName": "食品卫生学_食品污染_食品放射性污染",
+   "subjectName": "食品放射性污染",
+   "publishYear": "2025",
+   "definition": "辐射在器官或组织内产生的平均吸收剂量与辐射权重因数的乘积，符号为希沃特（Sv），单位是J/kg。代表低水平电离辐射对人体（包括辐照食品工作人员）的随机健康影响的剂量学量。"
+  },
+  {
+   "cn": "梯恩梯当量",
+   "en": "TNT equivalent",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.1.42",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核武器",
+   "subjectName": "核武器",
+   "publishYear": "2025",
+   "definition": "用常规化学炸药梯恩梯(TNT)爆炸威力表示的核爆炸释放的能量威力。"
+  },
+  {
+   "cn": "相当温度",
+   "en": "equivalent temperature",
+   "source": "军事预防医学名词",
+   "wordNumber": "3.2.5",
+   "subjectFullName": "军事预防医学_寒区军事卫生_环境冷强度",
+   "subjectName": "环境冷强度",
+   "publishYear": "2025",
+   "definition": "表示与某一有风环境的寒冷程度相当的无风环境的气温。"
+  },
+  {
+   "cn": "剂量当量",
+   "en": "dose equivalent",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.4.26",
+   "subjectFullName": "食品卫生学_食品污染_食品放射性污染",
+   "subjectName": "食品放射性污染",
+   "publishYear": "2025",
+   "definition": "组织内某一点的吸收剂量D 与该点特定辐射的品质因子的乘积，符号为希沃特（Sv），单位是J/kg。衡量电离辐射时人体（包括辐照食品工作人员）危害程度的一个物理量。只限于在辐射防护中使用，而不能用于高水平"
+  },
+  {
+   "cn": "当量剂量",
+   "en": "equivalent dose",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.8.24",
+   "subjectFullName": "军事预防医学_核武器医学防护学_辐射防护基础",
+   "subjectName": "辐射防护基础",
+   "publishYear": "2025",
+   "definition": "某一组织或器官的平均吸收剂量按辐射权重因子加权的量。"
+  },
+  {
+   "cn": "毒性当量",
+   "en": "toxicity equivalent",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.29",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "评价某个化合物异构体的相对毒性强度或健康影响程度的计算和指标"
+  },
+  {
+   "cn": "剂量当量",
+   "en": "dose equivalent",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.8.23",
+   "subjectFullName": "军事预防医学_核武器医学防护学_辐射防护基础",
+   "subjectName": "辐射防护基础",
+   "publishYear": "2025",
+   "definition": "组织中某点处的吸收剂量、辐射品质因素和其他修正因数的乘积。单位是希沃特(Sv)。"
+  },
+  {
+   "cn": "实质等同性",
+   "en": "substantial equivalence",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.23.34",
+   "subjectFullName": "食品卫生学_食品_其他食品",
+   "subjectName": "其他食品",
+   "publishYear": "2025",
+   "definition": "基于比较相对安全的风险评估原则，若某个新食品或食品成分与现有的食品或食品成分大体相同，则可认为具有相同的安全性。最早由经济合作与发展组织（OECD)提出用于转基因食品，作为预防风险的补充；现已扩展到食"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

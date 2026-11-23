@@ -1,0 +1,792 @@
+{
+ "key": "regulative control",
+ "term": "regulative control",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T03:09:42+00:00",
+ "status": "ok",
+ "note": "variant=regulative control; 审定公布名词库=5389; 海峡两岸名词对照库=1548; 其他来源数据库=310; 预公布名词数据库=240; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "调节",
+   "en": "regulation;control",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.0237",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "维持和改变细胞、组织或机体功能和代谢过程的作用。"
+  },
+  {
+   "cn": "调节器",
+   "en": "controller,regulator",
+   "source": "建筑学名词",
+   "wordNumber": "14.0360",
+   "subjectFullName": "建筑学_建筑设备与系统_暖通空调系统与设备部件",
+   "subjectName": "暖通空调系统与设备部件",
+   "publishYear": "2014",
+   "definition": "根据被控参数的给定值与测量值的偏差，按预定的控制方式控制执行器的动作，使被控参数保持在给定值要求范围内的调节仪表。"
+  },
+  {
+   "cn": "调节棒",
+   "en": "regulation control rod",
+   "source": "电力名词",
+   "wordNumber": "17.128",
+   "subjectFullName": "电力_核电",
+   "subjectName": "核电",
+   "publishYear": "2020",
+   "definition": "在整个运行周期中始终插在堆芯内,根据反应堆控制系统的指令自动调节插入堆芯深度、以快速补偿运行时各种因素引起的反应性波动的控制棒组。"
+  },
+  {
+   "cn": "电极调节器",
+   "en": "electrode control regulator",
+   "source": "电气工程名词",
+   "wordNumber": "17.136",
+   "subjectFullName": "电气工程_工业电热设备",
+   "subjectName": "工业电热设备",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "控制环",
+   "en": "regulating ring,control ring",
+   "source": "电力名词",
+   "wordNumber": "16.063",
+   "subjectFullName": "电力_水电站机电设备",
+   "subjectName": "水电站机电设备",
+   "publishYear": "2020",
+   "definition": "由设置在水轮机机坑内的接力器连杆带动,操作导叶的连杆与导叶臂使各个导叶同步动作的环状构件。"
+  },
+  {
+   "cn": "正调控",
+   "en": "positive regulation;positive control",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0449",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_基因表达调控_修复",
+   "subjectName": "修复",
+   "publishYear": "2024",
+   "definition": "调控因子（如转录、翻译的调控因子）等通过直接结合或间接作用，引起激活或增强基因表达的调控方式。可提高目的基因的转录效率以及基因产物的数量或活性。"
+  },
+  {
+   "cn": "负调控",
+   "en": "negative regulation;negative control",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.045",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_基因表达调控_修复",
+   "subjectName": "修复",
+   "publishYear": "2024",
+   "definition": "转录、翻译或信号转导的调控过程被一些因子（如阻遏蛋白）所阻遏的调控方式。可使基因表达水平下降以及基因产物（RNA或蛋白质）数量减少。"
+  },
+  {
+   "cn": "表观遗传调控",
+   "en": "epigenetic regulation;epigenetic control",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0488",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_基因表达调控_修复",
+   "subjectName": "修复",
+   "publishYear": "2024",
+   "definition": "可遗传的、与核酸序列没有直接关系的控制基因活性的调控方式。是生物体调节基因表达及染色体行为的重要机制之一，对基因表达调控、转座子沉默、基因组稳定性以及生物体生长发育有着重要的调控作用。根据方式不同，可"
+  },
+  {
+   "cn": "林业宏观调控",
+   "en": "forestry regulation and control",
+   "source": "林学名词",
+   "wordNumber": "13.014",
+   "subjectFullName": "林学_林业经济_林业政策与管理",
+   "subjectName": "林业政策与管理",
+   "publishYear": "2016",
+   "definition": "国家为了保持林业能持续、稳定、健康迅速的发展，促进林业结构的优化，推动林业产业进步而采取的调节与控制。"
+  },
+  {
+   "cn": "调节",
+   "en": "regulation",
+   "source": "生理学名词",
+   "wordNumber": "01.039",
+   "subjectFullName": "生理学_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "规制",
+   "en": "regulation",
+   "source": "经济学名词",
+   "wordNumber": "05.066",
+   "subjectFullName": "经济学_制度经济学",
+   "subjectName": "制度经济学",
+   "publishYear": "2020",
+   "definition": "作为具体的制度安排，是政府对经济行为的管理或制约，是在市场经济体制下，以矫正和改善市场机制内在的问题为目的，政府依据有关法规制定并执行的直接干预市场配置机制或间接改变企业或消费者的供需决策的一般规则或"
+  },
+  {
+   "cn": "管制",
+   "en": "regulation",
+   "source": "经济学名词",
+   "wordNumber": "09.032",
+   "subjectFullName": "经济学_公共部门经济学",
+   "subjectName": "公共部门经济学",
+   "publishYear": "2020",
+   "definition": "政府通过制定条列和设计市场激励机制，以控制厂商的价格、销售或生产等决策。"
+  },
+  {
+   "cn": "调节",
+   "en": "regulating",
+   "source": "化工名词（四）安全·环保·可持续发展",
+   "wordNumber": "02.332",
+   "subjectFullName": "化工（四）_炼油与化工企业健康-安全-环境管理_环境保护",
+   "subjectName": "环境保护",
+   "publishYear": "2020",
+   "definition": "使污水的水量和水质（浓度、水温等指标）实现稳定和均衡，从而改善污水可处理性的过程。"
+  },
+  {
+   "cn": "规制",
+   "en": "regulation",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0024",
+   "subjectFullName": "管理科学技术_公共管理_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "公共部门依据法律法规对经济活动、社会行为进行干预的行为。包括经济性规制和社会性规制两类。"
+  },
+  {
+   "cn": "法规",
+   "en": "regulation",
+   "source": "放射医学与防护名词",
+   "wordNumber": "13.002",
+   "subjectFullName": "放射医学与防护_法规与条约_法规与标准",
+   "subjectName": "法规与标准",
+   "publishYear": "2014",
+   "definition": "一般指国家行政法规。国家行政法规是由国务院制定的有关行政管理事项的规范性文件的总称，其名称一般为“条例”；其立项、起草、审查、决定、公布、解释均适用《行政法规制定程序暂行条例》(国务院令第321号，2"
+  },
+  {
+   "cn": "管制",
+   "en": "regulation",
+   "source": "通信科学技术名词",
+   "wordNumber": "17.001",
+   "subjectFullName": "通信科学技术_政策、法规与管理",
+   "subjectName": "政策、法规与管理",
+   "publishYear": "2007",
+   "definition": "由政府机构制定并执行，直接干预市场配置机制，或间接改变企业和消费者的供需决策的一般规则或特殊行为。"
+  },
+  {
+   "cn": "调节",
+   "en": "regulation",
+   "source": "生态学名词",
+   "wordNumber": "05.137",
+   "subjectFullName": "生态学_种群生态学",
+   "subjectName": "种群生态学",
+   "publishYear": "2006",
+   "definition": "种群离开其平衡密度后又返回到这一平衡密度的过程。"
+  },
+  {
+   "cn": "调节",
+   "en": "regulation",
+   "source": "土木工程名词",
+   "wordNumber": "12.293",
+   "subjectFullName": "土木工程_燃气与供热_燃气与供热调节与控制",
+   "subjectName": "燃气与供热调节与控制",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "调节",
+   "en": "regulation",
+   "source": "自动化名词",
+   "wordNumber": "02.193",
+   "subjectFullName": "自动化科学技术_控制理论_经典控制论",
+   "subjectName": "经典控制论",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "皱状纹饰",
+   "en": "regulate",
+   "source": "古生物学名词",
+   "wordNumber": "04.0284",
+   "subjectFullName": "古生物学_古植物学_孢粉和植硅体",
+   "subjectName": "孢粉和植硅体",
+   "publishYear": "2009",
+   "definition": "介于网状和条纹之间的一种纹饰。"
+  },
+  {
+   "cn": "外汇管制规定",
+   "en": "exchange control regulation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "别构调节(=别构调控)",
+   "en": "allosteric regulation(=allosteric control)",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "调节",
+   "en": "regulation",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "调节",
+   "en": "regulation",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "调节",
+   "en": "regulation",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "调节器",
+   "en": "regulator",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "调节物, 调节剂",
+   "en": "regulator",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "调整器",
+   "en": "regulator",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "串级调速",
+   "en": "speed regulation by cascade control",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "磁场调速",
+   "en": "speed regulation by field control",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "调整型卵裂",
+   "en": "regulative cleavage",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "调整式发育",
+   "en": "regulative development",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "神经体液调节",
+   "en": "neurohumoral regulation",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "调节因子",
+   "en": "regulation factor",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "自[我]调节",
+   "en": "self-regulation",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "表观遗传调节",
+   "en": "epigenetic regulation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "代谢调节",
+   "en": "metabolic regulation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "反馈调节",
+   "en": "feedback regulation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "基因调节",
+   "en": "gene regulation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "克隆内调节",
+   "en": "intraclonal regulation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "规则",
+   "en": "regulations",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "区块链监管",
+   "en": "Blockchain Regulation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "金融科技监管",
+   "en": "Fintech Regulation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信用监管",
+   "en": "credit regulation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "算法规制",
+   "en": "algorithm regulation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "比赛时间",
+   "en": "regulation time",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "金融科技监管机构",
+   "en": "Fintech regulator",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "规则",
+   "en": "regulations\",\"rule",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "规则",
+   "en": "regulations\",\"rule",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "交通规则",
+   "en": "traffic regulations",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "交通规则",
+   "en": "traffic regulations",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "控制",
+   "en": "control",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "控制",
+   "en": "control",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "控制",
+   "en": "control",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "单线多头监管体制",
+   "en": "centralized regulation system with multiple regulators",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "双线多头监管体制",
+   "en": "dual regulation systems with multiple regulators",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "控制者",
+   "en": "controller",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "检查员",
+   "en": "controller",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "规章",
+   "en": "regulation",
+   "source": "社会学名词",
+   "wordNumber": "2.5.10.18",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织制度",
+   "subjectName": "组织制度",
+   "publishYear": "2025",
+   "definition": "各级领导机关及其职能部门、社会团体、企事业单位，为实施管理，规范工作、活动和有关人员行为，在其职权范围内制定并发布实施的、具有行政约束力和道德行为准则的规范性文书的总称。"
+  },
+  {
+   "cn": "产品监管",
+   "en": "product regulation",
+   "source": "消毒学",
+   "wordNumber": "5.2",
+   "subjectFullName": "消毒学_监督管理",
+   "subjectName": "监督管理",
+   "publishYear": "2025",
+   "definition": "行政机关依据相关法律法规和标准对消毒产品开展监督和管理的行政执法行为。"
+  },
+  {
+   "cn": "地方性法规",
+   "en": "local regulation",
+   "source": "放射卫生学",
+   "wordNumber": "9.1.4",
+   "subjectFullName": "放射卫生学_放射卫生法规标准_放射卫生法规",
+   "subjectName": "放射卫生法规",
+   "publishYear": "2025",
+   "definition": "法定的地方国家权力机关依照法定的权限，在不与宪法、法律和行政法规相抵触的前提下，制定和颁布的在本行政区域范围内实施的管理规定。"
+  },
+  {
+   "cn": "智慧型规范",
+   "en": "smart regulation",
+   "source": "社会学名词",
+   "wordNumber": "3.14.5.8",
+   "subjectFullName": "社会学名词_分支社会学环境社会学",
+   "subjectName": "分支社会学环境社会学",
+   "publishYear": "2025",
+   "definition": "一系列特定的环境管理理论认为管理环境行动的最好方式就是将各种各样的方法和行动者聚集在一起，从而培养对“可持续发展”目标的遵从。"
+  },
+  {
+   "cn": "自我调节",
+   "en": "self-regulation",
+   "source": "社会学名词",
+   "wordNumber": "4.1.6.5",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_自我发展",
+   "subjectName": "自我发展",
+   "publishYear": "2025",
+   "definition": "广义指人们给自己制定行为标准，用自己能够控制的奖赏或惩罚来加强、维护或改变自己行为的过程。狭义指自我强化，即当人们达到了自己制定的标准时，用自己能够控制的奖赏来加强和维持自己的行为的过程。"
+  },
+  {
+   "cn": "调节学派",
+   "en": "regulation school",
+   "source": "马克思主义",
+   "wordNumber": "05.0155",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "20世纪70年代在法国兴起强调资本主义须由国家调节的理论。认为无调节的积累和制度之间矛盾的激化导致了资本主义的危机，福特主义积累体制是美国战后扩张的中心环节，而70年代的滞涨是福特主义发展潜力被耗尽的"
+  },
+  {
+   "cn": "免疫调节",
+   "en": "immune regulation",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.7.1",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫调节",
+   "subjectName": "免疫调节",
+   "publishYear": "2025",
+   "definition": "机体对免疫应答进行的调控。免疫系统中的免疫细胞和免疫分子之间，以及与其他系统如神经内分泌系统之间的相互作用，使得免疫应答以最恰当的形式维持在最适当的水平。"
+  },
+  {
+   "cn": "价格管制",
+   "en": "price regulation",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.1.3.2.4",
+   "subjectFullName": "卫生经济学名词_卫生经济学_卫生经济学",
+   "subjectName": "卫生经济学",
+   "publishYear": "2025",
+   "definition": "政府利用法律法规规定价格水平，比如对高端医疗服务和贵重药品实行最高限价。"
+  },
+  {
+   "cn": "医疗规制",
+   "en": "medical regulation",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.4.2.1",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场政府作用",
+   "subjectName": "卫生服务市场政府作用",
+   "publishYear": "2025",
+   "definition": "政府从资源有效配置和服务的公平供给出发，确定医疗服务机构的产品或服务价格标准，并对个人或保险机构支付给医疗机构费用进行调节与控制的方法。主要包括准入规制、质量规制和信息规制等。"
+  },
+  {
+   "cn": "准入规制",
+   "en": "access regulation",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.4.2.1.1",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场政府作用",
+   "subjectName": "卫生服务市场政府作用",
+   "publishYear": "2025",
+   "definition": "政府对进入卫生服务市场需要达到的条件或标准以及进入市场后需要遵守的相关规范所制定的相关制度。"
+  },
+  {
+   "cn": "质量规制",
+   "en": "quality regulation",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.4.2.1.2",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场政府作用",
+   "subjectName": "卫生服务市场政府作用",
+   "publishYear": "2025",
+   "definition": "政府对医疗卫生服务的可靠性、遵照标准的程度及其结果的一种约束或限制。一般通过许可证制度、合格鉴定和审查制度等形式完成。"
+  },
+  {
+   "cn": "信息规制",
+   "en": "information regulation",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.4.2.1.3",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场政府作用",
+   "subjectName": "卫生服务市场政府作用",
+   "publishYear": "2025",
+   "definition": "政府公布信息或者规定信息处于强势地位的一方应向信息处于弱势地位的一方提供商品或服务的详细和准确信息，以减少信息不对称带来的负面影响的规制方式。"
+  },
+  {
+   "cn": "政府规制",
+   "en": "government regulation",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.4.2.2",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场政府作用",
+   "subjectName": "卫生服务市场政府作用",
+   "publishYear": "2025",
+   "definition": "作为对外部竞争约束的替代，政府必须对公共卫生机构提供公共产品的行为加以约束或规定，做出关于安全标准、价格规范、药品供应和废弃物监管等方面的制度安排。"
+  },
+  {
+   "cn": "经济规制",
+   "en": "economic regulation ",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.4.2.2.1",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场政府作用",
+   "subjectName": "卫生服务市场政府作用",
+   "publishYear": "2025",
+   "definition": "政府为防止垄断行业滥用市场力量，对商品价格、种类、市场进入和退出条件以及投资、财务、会计等方面的经济活动所进行的规制。"
+  },
+  {
+   "cn": "社会规制",
+   "en": "social regulation",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.4.2.2.2",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场政府作用",
+   "subjectName": "卫生服务市场政府作用",
+   "publishYear": "2025",
+   "definition": "政府为了民众健康或安全，针对某些经济活动所引起的各种副作用和外部影响而制定的规章制度，并对实施情况予以监督。"
+  },
+  {
+   "cn": "信用监管",
+   "en": "credit regulation",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.7.1.8",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险监管",
+   "subjectName": "健康保险监管",
+   "publishYear": "2025",
+   "definition": "医疗保障行政部门依据医疗保障信用管理制度，通过信用承诺、信用评价、信息共享、结果公开、结果应用、信用修复等对有关单位和个人进行监督、规范、控制和调节等一系列活动的总称。"
+  },
+  {
+   "cn": "功能型监管",
+   "en": "functional regulation",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.7.2.1",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险监管",
+   "subjectName": "健康保险监管",
+   "publishYear": "2025",
+   "definition": "依照医疗服务的功能划分监管机构的模式，如按照病种设立的医疗服务监管机构。"
+  },
+  {
+   "cn": "机构型监管",
+   "en": "institutional regulation",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.7.2.3",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险监管",
+   "subjectName": "健康保险监管",
+   "publishYear": "2025",
+   "definition": "按照被监管机构的类型、监管主体的机构职能设立监管机构、分配监管职能的模式，如由审计部门监管财务，由卫生行政部门负责服务质量。"
+  },
+  {
+   "cn": "表观遗传调控",
+   "en": "epigenetic regulation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.1.3.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "通过表观遗传修饰方式对细胞内核酸或蛋白质的含量与功能进行调节的过程。"
+  },
+  {
+   "cn": "始动调节",
+   "en": "initial regulation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习大脑活动特征",
+   "subjectName": "学习大脑活动特征",
+   "publishYear": "2025",
+   "definition": "大脑皮层的工作能力在工作开始时水平很低，经启动后逐渐提高的一种现象。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

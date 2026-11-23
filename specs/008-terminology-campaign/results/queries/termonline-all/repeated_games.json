@@ -1,0 +1,762 @@
+{
+ "key": "repeated games",
+ "term": "repeated games",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T03:05:27+00:00",
+ "status": "ok",
+ "note": "variant=repeated games; 审定公布名词库=771; 海峡两岸名词对照库=180; 其他来源数据库=98; 预公布名词数据库=59; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "重复博弈",
+   "en": "repeated game",
+   "source": "经济学名词",
+   "wordNumber": "03.168",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "按照相同的规则和结构反复进行的博弈，其中每次博弈称为“阶段博弈”。重复博弈是动态博弈中的重要内容，它可以是完全信息的重复博弈，也可以是不完全信息的重复博弈。"
+  },
+  {
+   "cn": "重复对策",
+   "en": "repeated game",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0326",
+   "subjectFullName": "管理科学技术_运筹与管理_对策理论与方法",
+   "subjectName": "对策理论与方法",
+   "publishYear": "2016",
+   "definition": "进行有限或无限次具有相同结构的对局。"
+  },
+  {
+   "cn": "中继器",
+   "en": "repeater",
+   "source": "物理学名词",
+   "wordNumber": "04.1502",
+   "subjectFullName": "物理学_光学、声学_光学_波动光学、信息光学",
+   "subjectName": "波动光学、信息光学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "中继器",
+   "en": "repeater",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0110",
+   "subjectFullName": "计算机科学技术_网络与数据通信_协议体系与组成结构",
+   "subjectName": "协议体系与组成结构",
+   "publishYear": "2018",
+   "definition": "在局域网中为了扩展在数据工作站之间的传输范围或互连两个网段而再生信号的设备。"
+  },
+  {
+   "cn": "留级生",
+   "en": "repeater",
+   "source": "教育学名词",
+   "wordNumber": "07.092",
+   "subjectFullName": "教育学_初等中等教育",
+   "subjectName": "初等中等教育",
+   "publishYear": "2013",
+   "definition": "学业成绩不合格，按规定不得升入高一年级而留在原来的年级重新学习的学生。"
+  },
+  {
+   "cn": "复示器",
+   "en": "repeater",
+   "source": "电气工程名词",
+   "wordNumber": "20.094",
+   "subjectFullName": "电气工程_电力牵引",
+   "subjectName": "电力牵引",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "重复性",
+   "en": "repeatability",
+   "source": "农学名词",
+   "wordNumber": "18.085",
+   "subjectFullName": "农产品质量安全_农产品质量安全监测",
+   "subjectName": "农产品质量安全监测",
+   "publishYear": "2025",
+   "definition": "在一组重复性测量条件下获得的测量精密度。"
+  },
+  {
+   "cn": "重复率",
+   "en": "repeatability",
+   "source": "行为医学名词",
+   "wordNumber": "3.154",
+   "subjectFullName": "行为医学_行为的生物学基础_遗传学基础_遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2022",
+   "definition": "衡量一个数量性状在同一个体多次度量值之间相关程度的遗传参数。"
+  },
+  {
+   "cn": "重复性",
+   "en": "repeatability",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2678",
+   "subjectFullName": "地球物理学_地震科学_地震信号处理",
+   "subjectName": "地震信号处理",
+   "publishYear": "2022",
+   "definition": "再现结果的程度。用同一原理和方法，在相同条件、正常和正确操作情况下，在短期内对相同试样所做的多个单次测试结果，在 95%概率水平两个独立测试结果的最大差值。 "
+  },
+  {
+   "cn": "重复力",
+   "en": "repeatability",
+   "source": "畜牧学名词",
+   "wordNumber": "04.384",
+   "subjectFullName": "畜牧学_遗传育种_数量遗传学",
+   "subjectName": "数量遗传学",
+   "publishYear": "2020",
+   "definition": "度量对同一个体的某个性状进行多次度量的可重复程度的参数。"
+  },
+  {
+   "cn": "重复性",
+   "en": "repeatability",
+   "source": "化工名词（四）安全·环保·可持续发展",
+   "wordNumber": "02.589",
+   "subjectFullName": "化工（四）_炼油与化工企业健康-安全-环境管理_环境监测与统计",
+   "subjectName": "环境监测与统计",
+   "publishYear": "2020",
+   "definition": "在同一实验室，使用同一方法由同一操作者对同一被测对象使用相同的仪器和设备，在相同的测试条件下，相互独立的测试结果之间的一致程度。"
+  },
+  {
+   "cn": "重复性",
+   "en": "repeatability",
+   "source": "运动医学名词",
+   "wordNumber": "09.063",
+   "subjectFullName": "运动医学_反兴奋剂_国际标准",
+   "subjectName": "国际标准",
+   "publishYear": "2019",
+   "definition": "同一实验室由同一人操作同一台设备时，在短期内检测结果的变异。用<img src='/root/syzx/static/spz/yundongyixue1.09.063.01.png'/>表示。"
+  },
+  {
+   "cn": "重复性",
+   "en": "repeatability",
+   "source": "结核病学名词",
+   "wordNumber": "03.548",
+   "subjectFullName": "结核病学_结核病诊断_诊断方法_细菌学诊断",
+   "subjectName": "细菌学诊断",
+   "publishYear": "2019",
+   "definition": "同样测量条件下，同一样本独立多次检测结果的一致性。"
+  },
+  {
+   "cn": "重复性",
+   "en": "repeatability",
+   "source": "冶金学名词",
+   "wordNumber": "04.0681",
+   "subjectFullName": "冶金学_冶金物理化学_计算冶金物理化学",
+   "subjectName": "计算冶金物理化学",
+   "publishYear": "2019",
+   "definition": "相同条件下研究对象连续多次观测结果之间的一致性。"
+  },
+  {
+   "cn": "重复性",
+   "en": "repeatability",
+   "source": "核医学名词",
+   "wordNumber": "03.0177",
+   "subjectFullName": "核医学_核医学设备与操作_探测设备",
+   "subjectName": "探测设备",
+   "publishYear": "2018",
+   "definition": "在相同测量条件下，对同一被测量进行连续多次测量所得结果之间的一致性。"
+  },
+  {
+   "cn": "重复性",
+   "en": "repeatability",
+   "source": "化学名词",
+   "wordNumber": "03.0369",
+   "subjectFullName": "化学_分析化学_化学计量学",
+   "subjectName": "化学计量学",
+   "publishYear": "2016",
+   "definition": "同一分析人员、用同一分析仪器与方法，对同一量相继进行多次测量时，所得到的各测定量值之间的一致性。"
+  },
+  {
+   "cn": "重复性",
+   "en": "repeatability",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0763",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "用以衡量同一个评价人，采用同一种测量仪器，多次测量同一零件的同一特性时获得的测量值(数据)的变差。"
+  },
+  {
+   "cn": "重复性",
+   "en": "repeatability",
+   "source": "药学名词",
+   "wordNumber": "06.055",
+   "subjectFullName": "药学_药物分析",
+   "subjectName": "药物分析",
+   "publishYear": "2014",
+   "definition": "同一实验室，由同一操作员使用相同的设备，按相同的测试方法，在短时间内对同一被测对象进行的独立测试，测定结果间的一致程度(精密度)。"
+  },
+  {
+   "cn": "留级",
+   "en": "repeating",
+   "source": "教育学名词",
+   "wordNumber": "07.101",
+   "subjectFullName": "教育学_初等中等教育",
+   "subjectName": "初等中等教育",
+   "publishYear": "2013",
+   "definition": "学生因学业成绩不合格，按规定不能升入高一年级而继续在原来的年级重新学习。"
+  },
+  {
+   "cn": "重复率",
+   "en": "repeatability",
+   "source": "遗传学名词",
+   "wordNumber": "06.110",
+   "subjectFullName": "遗传学_群体、数量遗传学",
+   "subjectName": "群体、数量遗传学",
+   "publishYear": "2007",
+   "definition": "衡量一个数量性状在同一个体多次度量值之间的相关程度的遗传参数。"
+  },
+  {
+   "cn": "中继器",
+   "en": "repeater",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "重复性",
+   "en": "repeatability",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "可重复性",
+   "en": "repeatability",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "重复率",
+   "en": "repeatability",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "[可]重复性",
+   "en": "repeatability",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "复测经纬仪",
+   "en": "repeating theodolite\",\"repeating  instrument",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "反复潜水， 重复潜水",
+   "en": "repeated diving",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "重复感染",
+   "en": "repeated infection",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "雷达转发器",
+   "en": "radar repeater",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "卫星中继器",
+   "en": "satellite repeater",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "无人增音站",
+   "en": "unattended repeater",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有人增音站",
+   "en": "attended repeater",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "再生中继器",
+   "en": "regenerative repeater",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "中继站间距",
+   "en": "repeater spacing",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "转发式干扰",
+   "en": "repeater jamming",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "分罗经",
+   "en": "compass repeater",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "重发器模式",
+   "en": "repeater mode",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "分罗经",
+   "en": "compass repeater",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "重复",
+   "en": "duplication\",\"repeat",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "重复",
+   "en": "repeat\",\"RPT",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "反复进攻",
+   "en": "repeated attack",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "路径重复性",
+   "en": "path repeatability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "连发枪",
+   "en": "repeating firearm",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "局",
+   "en": "game",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "局",
+   "en": "game",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "局",
+   "en": "game",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "局",
+   "en": "game",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "可信中继器网络",
+   "en": "trusted-repeater network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "局点",
+   "en": "game ball\",\"game point",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "位姿重复性漂移",
+   "en": "drift of pose repeatability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "比赛",
+   "en": "game\",\"match",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "局",
+   "en": "game\",\"inning",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "比赛",
+   "en": "game\",\"match",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "对策论",
+   "en": "game theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字游戏",
+   "en": "digital game",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "重复流产",
+   "en": "repeated abortion",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.3.6",
+   "subjectFullName": "妇幼卫生学名词_生育调节_人工流产",
+   "subjectName": "人工流产",
+   "publishYear": "2025",
+   "definition": "妇女有过多于一次流产（包括自然流产和人工流产）的经历。其中有近期人工流产史、多次人工流产史（3次及3次以上人工流产）的对象再次手术风险更大，容易导致流产并发症和继发的生殖健康问题。"
+  },
+  {
+   "cn": "复检",
+   "en": "repeat testing",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.2",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "对食品安全风险监测中抽样检验结果有异议的样品，按照程序进行再次检验以确定检验结果的过程。"
+  },
+  {
+   "cn": "民间游戏",
+   "en": "folk games",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0428",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "流传于民间，以嬉戏、消遣为主的娱乐活动，是民间娱乐中最常见、最简易、最普遍的趣味性活动。民间游戏包括儿童的庭院嬉戏，成人的助兴游戏，以及少年、成人共享的斗智游戏等。"
+  },
+  {
+   "cn": "博弈论",
+   "en": "game theory",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.14",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "研究多个个体或团队之间在特定条件制约下的对局里，利用相关方的策略而实施对应策略的理论。认为参加斗争或竞争的各方有不同的目标或利益，为了达到各自的目标和利益，各方必须考虑对手各种可能的行动方案，并力图选"
+  },
+  {
+   "cn": "教学游戏",
+   "en": "teaching game",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.2.2.5",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育方法",
+   "subjectName": "学校健康教育方法",
+   "publishYear": "2025",
+   "definition": "教师根据教学的目的、利用游戏的因素和形式所编制和组织的、具有一定的游戏性的教学活动。"
+  },
+  {
+   "cn": "互动式游戏",
+   "en": "interactive game",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "9.1.3.2.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼健康教育与健康促进_妇幼健康教育",
+   "subjectName": "妇幼健康教育",
+   "publishYear": "2025",
+   "definition": "将健康教育的内容融入游戏之中，生动形象地让其通过游戏的方式学习，获得知识、培养良好生活习惯的教育活动。"
+  },
+  {
+   "cn": "重出立证法",
+   "en": "method for determination of repeatability",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0523",
+   "subjectFullName": "民族学与文化学_民俗学_民俗学方法",
+   "subjectName": "民俗学方法",
+   "publishYear": "2025",
+   "definition": "日本民俗学研究方法之一，为日本民俗学家柳田国男所创立，是一种比较研究法。具体方法是从所捜集到的各地大量实例资料中归纳比较其类似点和差异点，找出甲地与乙地、甲地与丙地、乙地与丙地的相同点，再找出各地的差"
+  },
+  {
+   "cn": "民间竞技",
+   "en": "folk competitive games",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.043",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "一种以竞赛体力、技巧、技艺为内容的娱乐活动。争强斗胜是民间竞技的根本特性。民间竞技从性质表现和形态划分，分力量型、技巧型、技艺型三类。"
+  },
+  {
+   "cn": "重复流产高风险因素",
+   "en": "high-risk factor related to repeated abortion",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.3.6.1",
+   "subjectFullName": "妇幼卫生学名词_生育调节_人工流产",
+   "subjectName": "人工流产",
+   "publishYear": "2025",
+   "definition": "可能导致重复发生人工流产的情形，包括本次人工流产后尚无计划落实长效可逆避孕措施、人工流产对象属于未成年人或未婚人群、之前已经有多次人工流产史或近期人工流产史等。"
+  },
+  {
+   "cn": "前生殖期性游戏",
+   "en": "pre-reproductive period sex games",
+   "source": "社会学名词",
+   "wordNumber": "3.3.3.3",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性发展",
+   "subjectName": "性发展",
+   "publishYear": "2025",
+   "definition": "儿童模仿成人性活动的游戏，是儿童学习性别角色，进行性别认同，进而逐渐掌握性别行为模式，形成特定的性别气质的一个过程。"
+  },
+  {
+   "cn": "包装气体",
+   "en": "packaging gases",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.2.20",
+   "subjectFullName": "食品卫生学_食品添加剂_食品工业用加工助剂",
+   "subjectName": "食品工业用加工助剂",
+   "publishYear": "2025",
+   "definition": "在填充食品之前、过程中或之后装入容器内，用于保护食品（如防止氧化或腐坏）的气体。"
+  },
+  {
+   "cn": "埃姆斯试验",
+   "en": "Ames test",
+   "source": "消毒学",
+   "wordNumber": "6.3.1.15.1",
+   "subjectFullName": "消毒学_检测与评价_安全性检验",
+   "subjectName": "安全性检验",
+   "publishYear": "2025",
+   "definition": "由埃姆斯(Ames)发明的用鼠伤寒沙门氏菌组氨酸营养缺陷型菌株回复突变为野生型以检测环境中诱变剂的实验方法。可用于消毒剂致突变性检测。"
+  },
+  {
+   "cn": "气体安全要求",
+   "en": "safety requirement of gases",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.17",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "考虑其他的溶解性和活性对气体安全进行分类。SR代表安全要求（safety requirement），SR-0气体在呼吸道任何部位都不会被明显吸收，SR-1气体会导致每个区域的部分吸收，SR-2气体在胸"
+  },
+  {
+   "cn": "显示偏好法",
+   "en": "revealed preference approach",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.5.8",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "在实际购买决策行为中观察个人的偏好强度的一种分析方法。"
+  },
+  {
+   "cn": "消毒相关用品",
+   "en": "disinfection related supplies",
+   "source": "消毒学",
+   "wordNumber": "3.2",
+   "subjectFullName": "消毒学_消毒用品",
+   "subjectName": "消毒用品",
+   "publishYear": "2025",
+   "definition": "在实施消毒的过程中，对消毒起促进作用或用于消毒作业人员防护等的装备。"
+  },
+  {
+   "cn": "任务相关监测",
+   "en": "task-related monitoring",
+   "source": "放射卫生学",
+   "wordNumber": "5.4.2.6",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测类型",
+   "subjectName": "辐射监测类型",
+   "publishYear": "2025",
+   "definition": "为特定操作提供有关操作和管理方面的即时决策而进行的监测。"
+  },
+  {
+   "cn": "工伤",
+   "en": "work-related injury",
+   "source": "社会学名词",
+   "wordNumber": "3.18.6.1",
+   "subjectFullName": "社会学名词_分支社会学_社会保障_工伤保险",
+   "subjectName": "工伤保险",
+   "publishYear": "2025",
+   "definition": "劳动者在从事生产劳动或职业活动或者与职业活动有关活动时受到的伤害，既包括意外事故导致的伤害，也包括职业病。为“职业性伤害”的简称。"
+  },
+  {
+   "cn": "健康相关行为",
+   "en": "health-related behavior",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "一切与个体、群体的健康和疾病有关的行为，一般分为健康促进行为和健康危险行为。"
+  },
+  {
+   "cn": "妊娠相关死亡",
+   "en": "pregnancy-related mortality",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.1.2.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "妇女在妊娠至终止妊娠后 42 天内或1年内的死亡，无论死因如何（产科和非产科），包括因意外和偶然原因导致的死亡。"
+  },
+  {
+   "cn": "亲属活体供者",
+   "en": "living related donor",
+   "source": "医学伦理学名词",
+   "wordNumber": "9.027000000000001",
+   "subjectFullName": "医学伦理学_器官移植伦理",
+   "subjectName": "器官移植伦理",
+   "publishYear": "2025",
+   "definition": "与器官受体存在亲属关系的器官供体。包括器官受体的配偶、直系血亲或者三代以内的旁系血亲。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

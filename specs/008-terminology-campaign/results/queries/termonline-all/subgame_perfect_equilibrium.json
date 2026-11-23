@@ -1,0 +1,732 @@
+{
+ "key": "subgame perfect equilibrium",
+ "term": "subgame perfect equilibrium",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T03:04:53+00:00",
+ "status": "ok",
+ "note": "variant=subgame perfect equilibrium; 审定公布名词库=3125; 海峡两岸名词对照库=1053; 其他来源数据库=76; 预公布名词数据库=173; jwt-direct（JWT 直连，raw 略；已滤维基 8 条）",
+ "hits": [
+  {
+   "cn": "子博弈完美纳什均衡",
+   "en": "subgame perfect nash equilibrium",
+   "source": "经济学名词",
+   "wordNumber": "03.170",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "满足以下条件的策略组合：①该策略组合是整个博弈的纳什均衡；②该策略组合的相关行动规则在每个子博弈上都是纳什均衡。"
+  },
+  {
+   "cn": "子对策",
+   "en": "subgame",
+   "source": "数学名词",
+   "wordNumber": "011.0452",
+   "subjectFullName": "数学_运筹学_对策论",
+   "subjectName": "对策论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "完美贝叶斯均衡",
+   "en": "perfect Bayesian equilibrium",
+   "source": "经济学名词",
+   "wordNumber": "03.173",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "存在一个策略组合和一组信念使得博弈的每一个节点满足：①给定其他参与人的信念和策略，博弈剩余部分的策略是纳什均衡策略；②给定博弈到目前为止的历史，参与人在每一个信息集上的信念都是理性的（参与人将根据观察"
+  },
+  {
+   "cn": "完全解理",
+   "en": "perfect cleavage",
+   "source": "地质学名词",
+   "wordNumber": "03.01.085",
+   "subjectFullName": "地质学_矿物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "矿物晶体受力后总是沿解理面分裂，解理面显著而平滑。"
+  },
+  {
+   "cn": "双面印刷",
+   "en": "perfect printing",
+   "source": "编辑与出版学名词",
+   "wordNumber": "03.04.009",
+   "subjectFullName": "编辑与出版学_印刷_印刷技术_设备_材料",
+   "subjectName": "材料",
+   "publishYear": "2022",
+   "definition": "一次给纸过程中完成正、反两面印刷的方式。"
+  },
+  {
+   "cn": "胶粘订",
+   "en": "perfect binding",
+   "source": "编辑与出版学名词",
+   "wordNumber": "03.05.004",
+   "subjectFullName": "编辑与出版学_印刷_印后加工",
+   "subjectName": "印后加工",
+   "publishYear": "2022",
+   "definition": "简称“胶订”。将书帖、书页用胶黏剂粘联成册的订联方式。"
+  },
+  {
+   "cn": "完全辐射",
+   "en": "perfect radiation",
+   "source": "地球物理学名词",
+   "wordNumber": "12.0145",
+   "subjectFullName": "地球物理学_环境安全军事地球物理学_辐射",
+   "subjectName": "辐射",
+   "publishYear": "2022",
+   "definition": "能量以电磁波或粒子 (如阿尔法粒子、贝塔粒子等)的形式完全向外扩散的现象。 "
+  },
+  {
+   "cn": "理想反射体",
+   "en": "perfect reflector",
+   "source": "光学名词",
+   "wordNumber": "09.145",
+   "subjectFullName": "光学_光无源器件",
+   "subjectName": "光无源器件",
+   "publishYear": "2021",
+   "definition": "能够反射入射光波的全部光能量的物体。"
+  },
+  {
+   "cn": "完全竞争",
+   "en": "perfect competition",
+   "source": "经济学名词",
+   "wordNumber": "03.122",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "厂商之间相互竞争不受任何阻碍和干扰的市场结构。在完全竞争市场中，买卖双方的数量如此之多以及信息如此之完美，以至于任何一个厂商和消费者都不能影响市场价格，双方均是价格接受者。在完全竞争市场上，商品是同质"
+  },
+  {
+   "cn": "完全垄断",
+   "en": "perfect monopoly",
+   "source": "经济学名词",
+   "wordNumber": "03.130",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "整个行业中只有唯一的一个厂商的市场组织。"
+  },
+  {
+   "cn": "理想导体",
+   "en": "perfect conductor",
+   "source": "物理学名词",
+   "wordNumber": "03.0027",
+   "subjectFullName": "物理学_电磁学",
+   "subjectName": "电磁学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "完全真菌",
+   "en": "perfect fungus",
+   "source": "植物学名词",
+   "wordNumber": "05.0011",
+   "subjectFullName": "植物学_真菌学",
+   "subjectName": "真菌学",
+   "publishYear": "2019",
+   "definition": "能进行有性生殖的真菌。"
+  },
+  {
+   "cn": "理想成像",
+   "en": "perfect imaging",
+   "source": "物理学名词",
+   "wordNumber": "04.0369",
+   "subjectFullName": "物理学_光学、声学_光学_几何光学、光学仪器、生理光学、光度学、色度学",
+   "subjectName": "几何光学、光学仪器、生理光学、光度学、色度学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "完全抗磁性",
+   "en": "perfect diamagnetism",
+   "source": "物理学名词",
+   "wordNumber": "08.3089",
+   "subjectFullName": "物理学_凝聚态物理学_特殊物相与极端条件",
+   "subjectName": "特殊物相与极端条件",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "完全保密",
+   "en": "perfect secrecy",
+   "source": "计算机科学技术名词",
+   "wordNumber": "10.0083",
+   "subjectFullName": "计算机科学技术_信息安全_密码理论与技术",
+   "subjectName": "密码理论与技术",
+   "publishYear": "2018",
+   "definition": "在收到密文的条件下，猜测明文内容的难度，等同于在未收到密文的条件下猜测明文内容的难度。"
+  },
+  {
+   "cn": "全混洗",
+   "en": "perfect shuffle",
+   "source": "计算机科学技术名词",
+   "wordNumber": "03.0627",
+   "subjectFullName": "计算机科学技术_计算机体系结构_互连系统",
+   "subjectName": "互连系统",
+   "publishYear": "2018",
+   "definition": "将输入端的二进制编码循环左移一位，得到输出端的编码。"
+  },
+  {
+   "cn": "完美完全性",
+   "en": "perfect completeness",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0421",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "一个随机算法接受一个肯定输入的概率为１。"
+  },
+  {
+   "cn": "完美记忆",
+   "en": "perfect recall",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0015",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "认知逻辑中对智能体的一种假设。认为智能体可以记住系统运行的所有状态信息。"
+  },
+  {
+   "cn": "完全共线性",
+   "en": "perfect collinearity",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0597",
+   "subjectFullName": "管理科学技术_运筹与管理_数量经济的理论与方法",
+   "subjectName": "数量经济的理论与方法",
+   "publishYear": "2016",
+   "definition": "在多个解释变量模型中，一个变量是一个或多个其他变量的线性函数。"
+  },
+  {
+   "cn": "完全相关",
+   "en": "perfect correlation",
+   "source": "心理学名词",
+   "wordNumber": "03.125",
+   "subjectFullName": "心理学_心理统计与测量",
+   "subjectName": "心理统计与测量",
+   "publishYear": "2014",
+   "definition": "一种最强的相关。即存在相关的两个变量，相关程度越高围绕直线的分布范围越小，所有点都落在直线上。"
+  },
+  {
+   "cn": "理想预报，完全预报",
+   "en": "perfect forecast\",\"perfect prediction",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "完全真菌",
+   "en": "perfect fungus",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "完全解偶",
+   "en": "perfect decoupling",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "完全控制",
+   "en": "perfect control",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "完全相关",
+   "en": "perfect correlation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "完全歧视",
+   "en": "perfect discrimination",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "完全吸收体",
+   "en": "perfect absorber",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "理想媒质",
+   "en": "perfect medium",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "全混洗",
+   "en": "perfect shuffle",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "完美晶体",
+   "en": "perfect crystal",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "完全保密",
+   "en": "perfect secrecy",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "完全位错",
+   "en": "perfect dislocation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "理想气体",
+   "en": "perfect gas",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "改善性维护",
+   "en": "perfective maintenance",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "平衡",
+   "en": "equilibrium",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "平衡",
+   "en": "equilibrium",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "平衡",
+   "en": "equilibrium",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "平衡",
+   "en": "equilibrium",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "均衡",
+   "en": "equilibrium",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "平衡图",
+   "en": "equilibrium diagram\",\"equilibrium plot",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "妙造自然",
+   "en": "Perfect Naturalness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "纳什均衡",
+   "en": "Nash equilibrium",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "均衡价值论",
+   "en": "general equilibrium theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "CT影像",
+   "en": "computed tomography imaging",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.1-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第1部分：公用的语法规则》",
+   "en": "GB/T 14805.1-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 1: Syntax rules common to all parts",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.2-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第2部分：批式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.2-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 2: Syntax rules specific to batch EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.3-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第3部分：交互式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.3-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 3: Syntax rules specific to interactive EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.7-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第7部分：批式电子数据交换安全规则（保密性）》",
+   "en": "GB/T 14805.7-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 7: Security rules for batch EDI (Confidentiality)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.6-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第6部分：安全鉴别和确认报文（报文类型为AUTACK）》",
+   "en": "GB/T 14805.6-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 6: Secure authentication and acknowledgment  message (Message type — AUTACK)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.4-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第4部分：批式电子数据交换语法和服务报告报文（报文类型为CONTRL）》",
+   "en": "GB/T 14805.4-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 4: Syntax and service report message for batch EDI (Message type — CONTRL)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.5-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第5部分：批式电子数据交换安全规则（真实性、完整性和源抗抵赖性）》",
+   "en": "GB/T 14805.5-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 5: Security rules for batch EDI (Authenticity, integrity and non-repudiation of origin)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "弧线球",
+   "en": "effect\",\"swerve",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "完美的罪行",
+   "en": "perfect crime",
+   "source": "马克思主义",
+   "wordNumber": "05.0190",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "法国哲学家让·鲍德里亚（Jean Baudrillard）在《完美的罪行》（1996年)中对符号所统治的世界进行了深层次剖析，提出了大胆的假说：科学技术不但扩展了“人的形象”，它还将进一步驱逐“人类的"
+  },
+  {
+   "cn": "完全无弹性",
+   "en": "perfect price inelasticity",
+   "source": "卫生经济学名词",
+   "wordNumber": "4.3.2.1.4",
+   "subjectFullName": "卫生经济学名词_卫生服务需求_卫生服务需求弹性",
+   "subjectName": "卫生服务需求弹性",
+   "publishYear": "2025",
+   "definition": "当弹性系数等于0时，表示因变量的变动对自变量变动无影响的特性。"
+  },
+  {
+   "cn": "完全弹性",
+   "en": "perfect price elasticity",
+   "source": "卫生经济学名词",
+   "wordNumber": "4.3.2.1.5",
+   "subjectFullName": "卫生经济学名词_卫生服务需求_卫生服务需求弹性",
+   "subjectName": "卫生服务需求弹性",
+   "publishYear": "2025",
+   "definition": "当弹性系数等于∞时，表示因变量变动率相对于无穷小自变量的变动率为无穷大。"
+  },
+  {
+   "cn": "完全竞争市场",
+   "en": "perfect competitive market",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.1.2.1",
+   "subjectFullName": "",
+   "subjectName": "市场",
+   "publishYear": "2025",
+   "definition": "竞争不受任何阻碍、干扰和控制的市场结构。市场价格由市场供给和需求共同决定，每一个供给者和需求者都是价格的接受者。市场供给与需求趋于平衡，资源配置达到有效率状态。"
+  },
+  {
+   "cn": "社会均衡论",
+   "en": "social equilibrium",
+   "source": "社会学名词",
+   "wordNumber": "2.9.5.4",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_社会变迁理论",
+   "subjectName": "社会变迁理论",
+   "publishYear": "2025",
+   "definition": "认为社会变迁是社会不断打破原有平衡状态，重建新的平衡状态的过程的理论。美国社会学家塔尔科特·帕森斯是这一理论的代表人物。"
+  },
+  {
+   "cn": "消费者均衡",
+   "en": "consumer equilibrium",
+   "source": "卫生经济学名词",
+   "wordNumber": "4.2.3.3",
+   "subjectFullName": "卫生经济学名词_卫生服务需求_卫生服务消费者行为",
+   "subjectName": "卫生服务消费者行为",
+   "publishYear": "2025",
+   "definition": "在其他条件不变的情况下，消费者实现效用最大化并保持不变的状态，是消费者预算线和无差异相切点。"
+  },
+  {
+   "cn": "均衡价格",
+   "en": "equilibrium price",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.1.1.6.1",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给",
+   "subjectName": "卫生服务供给",
+   "publishYear": "2025",
+   "definition": "市场上人们对某种商品的需求量恰好等于厂商愿意提供的供给量时的价格，由需求和供给共同决定。"
+  },
+  {
+   "cn": "均衡数量",
+   "en": "equilibrium quantity",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.1.1.6.2",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给",
+   "subjectName": "卫生服务供给",
+   "publishYear": "2025",
+   "definition": "在均衡价格水平下的相等的供求数量。"
+  },
+  {
+   "cn": "平衡论",
+   "en": "theory of equilibrium",
+   "source": "马克思主义",
+   "wordNumber": "04.0372",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "苏联社会主义建设初期苏共党内出现的一种关于社会主义经济发展的论调。当时苏联国民经济中存在着社会主义和非社会主义的两种成分，该理论认为，两种成分可以沿着不同的轨道和平地向前发展，互不影响并且早晚会融合到"
+  },
+  {
+   "cn": "带电粒子平衡",
+   "en": "charged particle equilibrium，CPE",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.2.3",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_α、β粒子辐射探测原理",
+   "subjectName": "α、β粒子辐射探测原理",
+   "publishYear": "2025",
+   "definition": "进入受照介质测量体积元dv内带电粒子的总能量与离开该体积元带电粒子的总能量相等的现象。"
+  },
+  {
+   "cn": "平衡当量[氡]浓度",
+   "en": "equilibrium equivalent [radon] concentration",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.5.9",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_氡个人监测评价",
+   "subjectName": "氡个人监测评价",
+   "publishYear": "2025",
+   "definition": "氡与其短寿命衰变产物处于平衡状态，并具有与实际非平衡混合物相同的α潜能浓度时氡的活度浓度，SI单位为贝可每立方米（Bq/m3）。"
+  },
+  {
+   "cn": "完全信息期望值",
+   "en": "expected value of perfect information,EVPI",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.1.2.2.2.1",
+   "subjectFullName": "卫生经济学名词_信息与技术_卫生信息经济学",
+   "subjectName": "卫生信息经济学",
+   "publishYear": "2025",
+   "definition": "决策论里在没有完全卫生信息时的期望损失与在理想状态下的期望损失之差。"
+  },
+  {
+   "cn": "部分完全信息期望值",
+   "en": "expected value of partial perfect information,EVPPI",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.1.2.2.2.2",
+   "subjectFullName": "卫生经济学名词_信息与技术_卫生信息经济学",
+   "subjectName": "卫生信息经济学",
+   "publishYear": "2025",
+   "definition": "针对一个随机变量若所收集的信息为不完全信息，则在拥有不完全信息后的最大期望值（即不完全信息期望值）与未拥有此不完全信息时的最大期望值之差。"
+  },
+  {
+   "cn": "平衡什值层",
+   "en": "equilibrium tenth-value layer，TVLe",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.2.35",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_外照射屏蔽防护设计",
+   "subjectName": "外照射屏蔽防护设计",
+   "publishYear": "2025",
+   "definition": "X、γ、中子等辐射束射入物质的路径中，穿透第一什值层以后，在物质中的什值层。"
+  },
+  {
+   "cn": "卫生人力资源供需均衡",
+   "en": "supply and demand equilibrium human resource for health",
+   "source": "卫生经济学名词",
+   "wordNumber": "7.2.4",
+   "subjectFullName": "卫生经济学名词_卫生服务要素市场_卫生人力资源市场",
+   "subjectName": "卫生人力资源市场",
+   "publishYear": "2025",
+   "definition": "在一定时期内，社会对卫生人力资源的需求与卫生人力资源的供给相当，两者处于相对平衡的状态。"
+  },
+  {
+   "cn": "CT值",
+   "en": "CT number，CT value",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.60",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "物质的衰减系数与水的衰减系数之差再与水的衰减系数相比之后乘以1000所得的量。单位是Hu。其不是一个绝对值，而是一个相对值，代表X射线穿过组织被吸收后的衰减值。"
+  },
+  {
+   "cn": "CT剂量指数",
+   "en": "CT dose index",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.61",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "在X射线计算机体层成像时对辐射输出剂量的一种标准化度量，用于向受检者提供剂量指示。基本CTDI表示为CTDI100，是以计算机体层成像扫描仪单次轴向采集100mm而赋予标准模体中心的平均吸收剂量值来表"
+  },
+  {
+   "cn": "γ射线工业CT设备",
+   "en": "gamma-ray industrial computed tomography equipments",
+   "source": "放射卫生学",
+   "wordNumber": "8.2.5",
+   "subjectFullName": "放射卫生学_放射卫生监管_工业及其他应用监管",
+   "subjectName": "工业及其他应用监管",
+   "publishYear": "2025",
+   "definition": "用γ射线对工件进行断层扫描成像的设备，包括CT扫描装置、数据采集与处理系统、操作台等。"
+  },
+  {
+   "cn": "容积CT剂量指数",
+   "en": "volume CT dosimetry index，CTDIvol",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.69",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "CT扫描中整个扫描范围内的平均剂量。"
+  },
+  {
+   "cn": "CT模拟定位机",
+   "en": "CT simulator",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.17",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "一种配备了放疗模拟所需装置和功能的大孔径计算机体层成像扫描仪，包括平板床、外置激光定位灯、放疗定位虚拟模拟软件等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
