@@ -1,0 +1,732 @@
+{
+ "key": "directed acyclic graph",
+ "term": "directed acyclic graph",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T03:38:48+00:00",
+ "status": "ok",
+ "note": "variant=directed acyclic graph; 审定公布名词库=1946; 海峡两岸名词对照库=560; 其他来源数据库=98; 预公布名词数据库=46; jwt-direct（JWT 直连，raw 略；已滤维基 8 条）",
+ "hits": [
+  {
+   "cn": "有向无环图",
+   "en": "directed acyclic graph,DAG",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0073",
+   "subjectFullName": "计算机科学技术_理论计算机科学_数据结构",
+   "subjectName": "数据结构",
+   "publishYear": "2018",
+   "definition": "不含有从某一顶点开始而又返回到同一个顶点的路径的有向图。"
+  },
+  {
+   "cn": "无圈图",
+   "en": "acyclic graph",
+   "source": "数学名词",
+   "wordNumber": "03.0112",
+   "subjectFullName": "数学_组合学·一般数学系统_图论",
+   "subjectName": "图论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "有向图",
+   "en": "directed graph",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "03.017",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程模拟",
+   "subjectName": "过程模拟",
+   "publishYear": "2024",
+   "definition": "由节点的集合和边的集合组成，且每条边均为有方向的边的图。"
+  },
+  {
+   "cn": "有向图",
+   "en": "directed graph",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0066",
+   "subjectFullName": "计算机科学技术_理论计算机科学_数据结构",
+   "subjectName": "数据结构",
+   "publishYear": "2018",
+   "definition": "每条边都是由两个顶点组成有序偶对的图。"
+  },
+  {
+   "cn": "有向图",
+   "en": "directed graph",
+   "source": "语言学名词",
+   "wordNumber": "11.075",
+   "subjectFullName": "语言学_计算语言学_形式化方法",
+   "subjectName": "形式化方法",
+   "publishYear": "2011",
+   "definition": "由一组结点和一组有向边所构成的图结构。"
+  },
+  {
+   "cn": "有向图",
+   "en": "directed graph",
+   "source": "电子学名词",
+   "wordNumber": "05.286",
+   "subjectFullName": "电子学_信息论与信号处理技术",
+   "subjectName": "信息论与信号处理技术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "方向特性图",
+   "en": "directivity graph",
+   "source": "石油名词",
+   "wordNumber": "03.0398",
+   "subjectFullName": "石油_石油地球物理",
+   "subjectName": "石油地球物理",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "零调[的]",
+   "en": "acyclic",
+   "source": "数学名词",
+   "wordNumber": "08.0634",
+   "subjectFullName": "数学_几何学_拓扑学_代数拓扑学",
+   "subjectName": "代数拓扑学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "有向图",
+   "en": "digraph,directed graph",
+   "source": "数学名词",
+   "wordNumber": "03.0061",
+   "subjectFullName": "数学_组合学·一般数学系统_图论",
+   "subjectName": "图论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "无环数据库",
+   "en": "acyclic database",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0046",
+   "subjectFullName": "计算机科学技术_数据库_数据模型",
+   "subjectName": "数据模型",
+   "publishYear": "2018",
+   "definition": "一类具有很多良好性质的数据库的总称，由于这一大类数据库的数据库模式用超图表示时，超图没有回路，因此特称为无环数据库。"
+  },
+  {
+   "cn": "无环二萜",
+   "en": "acyclic diterpene",
+   "source": "化学名词",
+   "wordNumber": "02.0487",
+   "subjectFullName": "化学_有机化学_有机化合物_天然产物类名词",
+   "subjectName": "天然产物类名词",
+   "publishYear": "2016",
+   "definition": "4个异戊二烯构成的链状萜类化合物。如植物烷类二萜。"
+  },
+  {
+   "cn": "无环倍半萜",
+   "en": "acyclic sesquiterpene",
+   "source": "化学名词",
+   "wordNumber": "02.0469",
+   "subjectFullName": "化学_有机化学_有机化合物_天然产物类名词",
+   "subjectName": "天然产物类名词",
+   "publishYear": "2016",
+   "definition": "3个异戊二烯通过头尾连接方式构成的链状倍半萜类化合物。具有3,7,11-三甲基十二烷结构骨架。无环倍半萜是形成多种骨架倍半萜的前体，如金合欢烷。"
+  },
+  {
+   "cn": "无环单萜",
+   "en": "acyclic monoterpene",
+   "source": "化学名词",
+   "wordNumber": "02.0458",
+   "subjectFullName": "化学_有机化学_有机化合物_天然产物类名词",
+   "subjectName": "天然产物类名词",
+   "publishYear": "2016",
+   "definition": "两个异戊二烯构成的链状单萜。如β-月桂烯、香叶醇，其结构式分别为：<img src='/root/syzx/static/spz/huaxue2.02.0458.1.png'/>"
+  },
+  {
+   "cn": "非循环网络",
+   "en": "acyclic network",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0140",
+   "subjectFullName": "管理科学技术_运筹与管理_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "顾客在转移过程中不能回到已经经过的服务点的排队网络。"
+  },
+  {
+   "cn": "单极电机",
+   "en": "acyclic machine",
+   "source": "电气工程名词",
+   "wordNumber": "07.005",
+   "subjectFullName": "电气工程_电机",
+   "subjectName": "电机",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "零调箭图",
+   "en": "acyclic quiver",
+   "source": "数学名词",
+   "wordNumber": "04.1417",
+   "subjectFullName": "数学_代数学_代数几何学_结合环",
+   "subjectName": "结合环",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "β无环结构",
+   "en": "β acyclic structure",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0050",
+   "subjectFullName": "计算机科学技术_数据库_数据模型",
+   "subjectName": "数据模型",
+   "publishYear": "2018",
+   "definition": "在一个超图结构中，若它的每一个子超图都是α无环结构的，则称它为β无环结构。"
+  },
+  {
+   "cn": "γ无环结构",
+   "en": "γ acyclic structure",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0051",
+   "subjectFullName": "计算机科学技术_数据库_数据模型",
+   "subjectName": "数据模型",
+   "publishYear": "2018",
+   "definition": "超图H中的一个交替序列<img src='/root/syzx/static/spz/jsjkx3.07.0051.002.png'/>，其中<img src='/root/syzx/static/s"
+  },
+  {
+   "cn": "α无环结构",
+   "en": "α acyclic structure",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0049",
+   "subjectFullName": "计算机科学技术_数据库_数据模型",
+   "subjectName": "数据模型",
+   "publishYear": "2018",
+   "definition": "设 H=（X, E）是一个超图，M<img src='/root/syzx/static/spz/jsjkx3.02.0167.002.png'/>X，在集合{e∩E|e∈E}中删去是其他元素子集的那"
+  },
+  {
+   "cn": "图",
+   "en": "graph",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "01.090",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_通论",
+   "subjectName": "通论",
+   "publishYear": "2024",
+   "definition": "由一组有限个节点和节点与节点之间的一组联线组成，通常用节点表示事物或现象，图中联线表示事物或现象之间的联系。其是数学分析中的工具。"
+  },
+  {
+   "cn": "有向图",
+   "en": "digraph\",\"directed graph",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "非轮生花",
+   "en": "acyclic flower",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "无环倍半萜",
+   "en": "acyclic sesquiterpene",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "无环单萜",
+   "en": "acyclic monoterpene",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "无环二萜",
+   "en": "acyclic diterpene",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "无环化合物",
+   "en": "acyclic compound",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "非周期[性]馈送",
+   "en": "acyclic feeding",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "图",
+   "en": "graph",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "图",
+   "en": "graph",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "图论",
+   "en": "graph theory",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "偶图",
+   "en": "bipartite graph",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "对数图",
+   "en": "logarithmic graph",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "图论",
+   "en": "graph theory",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "线划图",
+   "en": "line graph",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "边图",
+   "en": "edge graph",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "博弈图",
+   "en": "game graph",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "点图",
+   "en": "point graph",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "二分图",
+   "en": "bipartite graph",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "概念图",
+   "en": "conceptual graph",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "加标图",
+   "en": "marked graph",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "图论",
+   "en": "graph theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知识图谱",
+   "en": "knowledge graph",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "简单图",
+   "en": "simple graph",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "标签图",
+   "en": "labeled graph",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "属性图",
+   "en": "property graph",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "图存储",
+   "en": "graph storage",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "图模型",
+   "en": "graph model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "图数据库",
+   "en": "graph database",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "图处理",
+   "en": "graph processing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "图结构",
+   "en": "graph structure",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "图划分",
+   "en": "graph partition",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "图团体检测",
+   "en": "graph community detection",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "曲棍球杆图",
+   "en": "hockey stick graph",
+   "source": "社会学名词",
+   "wordNumber": "3.14.5.4",
+   "subjectFullName": "社会学名词_分支社会学环境社会学",
+   "subjectName": "分支社会学环境社会学",
+   "publishYear": "2025",
+   "definition": "描述千年以来北半球平均气温的变化就像曲棍球杆的一个曲线形状。"
+  },
+  {
+   "cn": "定向抽样",
+   "en": "directed sampling",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.16",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "针对目标样品群体（如商品类型或地理区域）对于在监测项目中提示具有潜在健康风险中可疑问题开展调查或者证实过程"
+  },
+  {
+   "cn": "直接测量",
+   "en": "direct measurement",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.4.21",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内照射防护监测与评价",
+   "subjectName": "内照射防护监测与评价",
+   "publishYear": "2025",
+   "definition": "直接在体外使用全身计数器或器官测量装置（肺、甲状腺等）开展的放射性核素测量。"
+  },
+  {
+   "cn": "直接服务",
+   "en": "direct service",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.14",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "以个人、家庭和群体为关注对象，针对个人、家庭和群体采取的服务行动。其重点在于改变家庭或群体内的人际交往，或改变个人、家庭和小群体与其环境中的个人或社会系统的关系和互动方式。"
+  },
+  {
+   "cn": "直接成本",
+   "en": "direct cost",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.3.1.4",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给成本",
+   "subjectName": "卫生服务供给成本",
+   "publishYear": "2025",
+   "definition": "为提供某医疗服务项目而能够直接追溯到各个成本对象的成本。"
+  },
+  {
+   "cn": "直接效益",
+   "en": "direct benefit",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.5.1.1",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "可直接观察和测量的实行某项干预措施带来的卫生服务利用和成本减少等。"
+  },
+  {
+   "cn": "直接观察法",
+   "en": "direct observation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.4.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习负荷评价",
+   "subjectName": "学习负荷评价",
+   "publishYear": "2025",
+   "definition": "通过教学现场对靶行为的观察记录，直接评价、比较和分析学习负荷的方法。“靶行为”可事先根据疲劳常见的客观表现确定，事先根据疲劳常见的客观表现确定“靶行为”，如交头接耳、做小动作、打呵欠、瞌睡等，并可对靶"
+  },
+  {
+   "cn": "直接致癌物",
+   "en": "direct carcinogen",
+   "source": "军事预防医学名词",
+   "wordNumber": "16.1.5.1.1",
+   "subjectFullName": "军事预防医学_军事毒理学_军事毒理学基础",
+   "subjectName": "军事毒理学基础",
+   "publishYear": "2025",
+   "definition": "不经过体内代谢活化就具有致癌作用的化学物。"
+  },
+  {
+   "cn": "直接过渡",
+   "en": "direct transition",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0596",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "无产阶级夺取革命胜利后，可以通过国家各方面的帮助，尤其是引导人民对原始公有制进行根本改造，就能使残存着原始公社的民族，跨越资本主义，直接过渡到社会主义。马克思主义创始人关于“直接过渡”的英明预见，在社"
+  },
+  {
+   "cn": "风向",
+   "en": "wind direction",
+   "source": "军事预防医学名词",
+   "wordNumber": "4.2.3.1",
+   "subjectFullName": "军事预防医学_热区军事卫生_热环境",
+   "subjectName": "热环境",
+   "publishYear": "2025",
+   "definition": "风的来向。"
+  },
+  {
+   "cn": "定向能武器",
+   "en": "directed energy weapons",
+   "source": "军事预防医学名词",
+   "wordNumber": "13.1.1.1",
+   "subjectFullName": "军事预防医学_新概念武器及伤害_新概念武器",
+   "subjectName": "新概念武器",
+   "publishYear": "2025",
+   "definition": "产生和发射一束集中的电磁能或原子/亚原子粒子作为杀伤因素的武器系统，其能量以光速或近光速传输。发出的能束可对目标结构、材料及电子设备等实施外科手术式摧毁，也能通过调节功率实现非致命性破坏。"
+  },
+  {
+   "cn": "直接接触传播",
+   "en": "direct contact transmission",
+   "source": "消毒学",
+   "wordNumber": "4.6.8.3.2",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "易感者与传染者直接接触而导致病原体传播的过程。"
+  },
+  {
+   "cn": "直接冲击伤",
+   "en": "direct blast injury",
+   "source": "放射卫生学",
+   "wordNumber": "4.2.7.2.1",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射性疾病",
+   "subjectName": "放射性疾病",
+   "publishYear": "2025",
+   "definition": "冲击波直接作用于人体引起的损伤。"
+  },
+  {
+   "cn": "人民直接管理",
+   "en": "peoples direct management",
+   "source": "马克思主义",
+   "wordNumber": "03.0149",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人民直接组织政府来管理国家和社会，是人民当家作主的一种管理形式。马克思和恩格斯认为，巴黎公社的组织原则就是人民直接管理。在共产主义社会，阶级、政党或其他政治组织消亡后，人民直接管理社会公共事务。"
+  },
+  {
+   "cn": "直接抗球蛋白试验",
+   "en": "direct antiglobulin test",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.1.25",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_检测方法",
+   "subjectName": "检测方法",
+   "publishYear": "2025",
+   "definition": "用于诊断胎儿有核红细胞增多症、新生儿溶血病和自身免疫性溶血性贫血症的试验。依据某些患者红细胞表面含不完全抗体，滴加抗人球蛋白血清后可出现凝集现象。"
+  },
+  {
+   "cn": "直接经济损失",
+   "en": "direct economic loss",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.14.2",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "由于预防和治疗疾病所直接消耗的经济资源，包括在医药保健部门购买卫生服务所消耗的经济资源、在非卫生保健部门所消耗的经济资源、或在治疗疾病过程中支持性活动的费用和疾病导致的财产损失。"
+  },
+  {
+   "cn": "直接食品添加剂",
+   "en": "direct food additive",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.2",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "人为添加到食品中，并在终产品中发挥特定功能的食品添加剂。"
+  },
+  {
+   "cn": "定向剂量当量",
+   "en": "directional dose equivalent",
+   "source": "放射卫生学",
+   "wordNumber": "3.3.2.10",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_辐射防护量_实用量",
+   "subjectName": "实用量",
+   "publishYear": "2025",
+   "definition": "在相应扩展场中，ICRU球内的特定方向Ω的半径上，深度为d处的剂量当量。符号H'(d,Ω)。SI单位为焦耳每千克，专有名称是希沃特，记作Sv。对弱贯穿辐射，推荐d=0.07 mm。作为皮肤中当量剂量的"
+  },
+  {
+   "cn": "采光方向",
+   "en": "nature lighting direction",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.2.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_教室卫生",
+   "subjectName": "教室卫生",
+   "publishYear": "2025",
+   "definition": "自然光线的射入方向。"
+  },
+  {
+   "cn": "辐射直接作用",
+   "en": "direct effect of radiation",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.1.1.7",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2025",
+   "definition": "电离辐射的能量直接沉积于生物大分子，如核酸、蛋白质、酶、脂质等，引起这些生物大分子的电离和激发，破坏其结构和功能的过程。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

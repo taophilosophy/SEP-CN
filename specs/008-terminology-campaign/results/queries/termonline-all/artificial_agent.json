@@ -1,0 +1,752 @@
+{
+ "key": "artificial agent",
+ "term": "artificial agent",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T03:36:24+00:00",
+ "status": "ok",
+ "note": "variant=artificial agent; 审定公布名词库=1432; 海峡两岸名词对照库=512; 其他来源数据库=46; 预公布名词数据库=101; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "人工疗养因子",
+   "en": "artificial recuperative agent",
+   "source": "物理医学与康复名词",
+   "wordNumber": "03.316",
+   "subjectFullName": "物理医学与康复_康复治疗_疗养康复",
+   "subjectName": "疗养康复",
+   "publishYear": "2014",
+   "definition": "为模拟自然疗养因子而人工制作的具有医疗保健作用的理化因子。常用的有人工矿泉水、人工海水等。只能补充自然疗养因子的不足，不能完全替代自然疗养因子。"
+  },
+  {
+   "cn": "人工",
+   "en": "artificiality",
+   "source": "核医学名词",
+   "wordNumber": "01.0063",
+   "subjectFullName": "核医学_总论",
+   "subjectName": "总论",
+   "publishYear": "2018",
+   "definition": "对自然或其他物质施加人为影响而改变其原有性状的过程和方法。"
+  },
+  {
+   "cn": "行动者",
+   "en": "agent",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.698",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_复杂系统科学哲学",
+   "subjectName": "复杂系统科学哲学",
+   "publishYear": "2024",
+   "definition": "指那些能够被看成通过感受器来感知它的环境，并通过效应器作用于该环境的一切事物。行动具有自主性、反应性、目的定向性、历史延续性的特征。"
+  },
+  {
+   "cn": "主体",
+   "en": "agent",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "11.045",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_生态工业系统工程",
+   "subjectName": "生态工业系统工程",
+   "publishYear": "2024",
+   "definition": "在复杂适应系统中，具有适应性、可以自主决策的个体对象。"
+  },
+  {
+   "cn": "代理人",
+   "en": "agent",
+   "source": "经济学名词",
+   "wordNumber": "05.004",
+   "subjectFullName": "经济学_制度经济学",
+   "subjectName": "制度经济学",
+   "publishYear": "2020",
+   "definition": "受委托人雇用并按照签订的合同来完成委托人目标的行为主体。代理人必须具备一定的资格和相关的技能。按照代理对象的多寡，代理人一般可以分为专属代理人和普通代理人。"
+  },
+  {
+   "cn": "智能体",
+   "en": "agent",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0146",
+   "subjectFullName": "计算机科学技术_人工智能_多智能体系统",
+   "subjectName": "多智能体系统",
+   "publishYear": "2018",
+   "definition": "在一定的环境中体现出自治性、反应性、社会性、预动性、思辨性（慎思性）、认知性等一种或多种智能特征的软件或硬件实体。"
+  },
+  {
+   "cn": "代理商",
+   "en": "agent",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0570",
+   "subjectFullName": "管理科学技术_市场营销_营销组合",
+   "subjectName": "营销组合",
+   "publishYear": "2016",
+   "definition": "在较长远的基础上代表买方或卖方的一类批发商。通常包括制造商代理人、销售代理人、采购代理人、代销商等。"
+  },
+  {
+   "cn": "代理人",
+   "en": "agent",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.1016",
+   "subjectFullName": "管理科学技术_一般管理理论_企业理论",
+   "subjectName": "企业理论",
+   "publishYear": "2016",
+   "definition": "在一个契约关系中接受要约的一方或被动缔约的一方。"
+  },
+  {
+   "cn": "施事",
+   "en": "agent",
+   "source": "语言学名词",
+   "wordNumber": "04.220",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "语义成分的一种。用来指明某一动作行为得以产生或实现的施动者或动力。例如，“李四吃完了饭”中的“李四”。"
+  },
+  {
+   "cn": "自主体",
+   "en": "agent",
+   "source": "地理学名词",
+   "wordNumber": "25.029",
+   "subjectFullName": "地理学_数量地理学",
+   "subjectName": "数量地理学",
+   "publishYear": "2006",
+   "definition": "具有各自可识别的一定独特性特征的多单元系统的个体。"
+  },
+  {
+   "cn": "代理人",
+   "en": "agent",
+   "source": "公路交通科技名词",
+   "wordNumber": "01.104",
+   "subjectFullName": "公路交通科学技术_公路交通总论",
+   "subjectName": "公路交通总论",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "人工呼吸",
+   "en": "artificial respiration,artificial breathing",
+   "source": "生理学名词",
+   "wordNumber": "06.039",
+   "subjectFullName": "生理学_呼吸生理学",
+   "subjectName": "呼吸生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "人工呼吸",
+   "en": "artificial breathing,artificial respiration",
+   "source": "呼吸病学名词",
+   "wordNumber": "12.210",
+   "subjectFullName": "呼吸病学_机械通气_呼吸形式和其他通气参数",
+   "subjectName": "呼吸形式和其他通气参数",
+   "publishYear": "2018",
+   "definition": "在自主呼吸能力显著减弱或消失的情况下，由操作者对患者进行的强制性呼吸支持。"
+  },
+  {
+   "cn": "人工更新",
+   "en": "artificial regeneration,artificial reforestation",
+   "source": "林学名词",
+   "wordNumber": "05.159",
+   "subjectFullName": "林学_森林培育_抚育与主伐更新",
+   "subjectName": "抚育与主伐更新",
+   "publishYear": "2016",
+   "definition": "用人工栽植、播种、插条和分根等方法使采伐迹地恢复森林的过程。"
+  },
+  {
+   "cn": "人工肺",
+   "en": "artificial lung,artificial oxygenator",
+   "source": "材料科学技术名词",
+   "wordNumber": "08.0149",
+   "subjectFullName": "材料科学技术_生物材料_人工器官",
+   "subjectName": "人工器官",
+   "publishYear": "2011",
+   "definition": "能够使循环的血液、氧气和二氧化碳进行可控交换的装置。"
+  },
+  {
+   "cn": "人工催陈",
+   "en": "artificial aging",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.1394",
+   "subjectFullName": "食品科学技术_食品工程_食品原料与加工_酒",
+   "subjectName": "酒",
+   "publishYear": "2020",
+   "definition": "采用物理、化学的方法加速酒的老熟的技术。包括紫外线、超声波、磁化、微波、激光等处理方法。"
+  },
+  {
+   "cn": "人工时效",
+   "en": "artificial aging",
+   "source": "冶金学名词",
+   "wordNumber": "07.0239",
+   "subjectFullName": "冶金学_金属学_相变",
+   "subjectName": "相变",
+   "publishYear": "2019",
+   "definition": "将固溶处理或冷变形的某些合金加热到适当温度保持适当时间的工艺。"
+  },
+  {
+   "cn": "人工老化",
+   "en": "artificial aging",
+   "source": "化学名词",
+   "wordNumber": "05.0963",
+   "subjectFullName": "化学_高分子化学_高分子物理化学与高分子物理",
+   "subjectName": "高分子物理化学与高分子物理",
+   "publishYear": "2016",
+   "definition": "在模拟气候环境中进行的老化。"
+  },
+  {
+   "cn": "人工时效[处理]",
+   "en": "artificial aging",
+   "source": "航天科学技术名词",
+   "wordNumber": "13.172",
+   "subjectFullName": "航天科学技术_航天制造工艺",
+   "subjectName": "航天制造工艺",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "人造基因",
+   "en": "artificial gene",
+   "source": "化工名词（六）生物化工",
+   "wordNumber": "02.024",
+   "subjectFullName": "化工（六）_代谢工程与合成生物学_合成生物学_报告元件",
+   "subjectName": "报告元件",
+   "publishYear": "2021",
+   "definition": "人工设计合成的基因。"
+  },
+  {
+   "cn": "代理",
+   "en": "agent",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "主体",
+   "en": "agent",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "代理人",
+   "en": "agent",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "人工肺",
+   "en": "artificial lung\",\"artificial oxygenator",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "人工老化",
+   "en": "artificial aging",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "人工时效",
+   "en": "artificial aging",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "人工老化",
+   "en": "artificial aging",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "发泡剂",
+   "en": "blowing agent\",\"foam agent\",\"inflating agent",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "络合剂",
+   "en": "complex agent\",\"complexing agent",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "脱模剂",
+   "en": "mold-release agent\",\"parting agent\",\"release agent\",\"stripping agent",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "人工绝育",
+   "en": "artificial sterilization",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "人工流产",
+   "en": "artificial abortion",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "人工妊娠",
+   "en": "artificial pregnancy",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "人工授精",
+   "en": "artificial insemination",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "人工催熟",
+   "en": "artificial ripening",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "人工选择",
+   "en": "artificial selection",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "人工植被",
+   "en": "artificial vegetation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "人工种子",
+   "en": "artificial seed",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "人为分类",
+   "en": "artificial classification",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "人工成核作用",
+   "en": "artificial nucleation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "人工智能",
+   "en": "Artificial Intelligence",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人工生命",
+   "en": "artificial life",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人工智能",
+   "en": "Artificial Intelligence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人工脑",
+   "en": "artificial brain",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人工障碍",
+   "en": "artificial obstacle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "人工障碍",
+   "en": "artificial obstacle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "行为智能体",
+   "en": "behavioral agent",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人工智能芯片",
+   "en": "artificial intelligence chip",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人工神经网络",
+   "en": "artificial neural network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "弱人工智能",
+   "en": "weak artificial intelligence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "强人工智能",
+   "en": "strong artificial intelligence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "超级人工智能",
+   "en": "super artificial intelligence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "可解释的人工智能",
+   "en": "explainable artificial intelligence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "边缘人工智能",
+   "en": "edge artificial intelligence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "代理人",
+   "en": "agent",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.0569999999999995",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "基于法律规定、法院指定或者当事人的委托授权，在一定权限内代替被代理人为其进行有一定法律意义的活动的人，其可以是自然人也可以是法人。包括法定代理人、指定代理人、委托代理人。某些失去行为能力或病情危重的病"
+  },
+  {
+   "cn": "人工自然",
+   "en": "artificial nature",
+   "source": "马克思主义",
+   "wordNumber": "01.0145",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人类的实践活动改造过的自然，也称人化自然。它的出现是自然发展史的飞跃。人工自然一方面服从自然规律，另一方面凝结了人的本质力量，因而具有社会性，受社会规律的制约和影响。"
+  },
+  {
+   "cn": "人工免疫",
+   "en": "artificial immunity",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.1.6",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫应答",
+   "subjectName": "免疫应答",
+   "publishYear": "2025",
+   "definition": "经人工接种而使机体主动或被动获得免疫力 。"
+  },
+  {
+   "cn": "人工换气",
+   "en": "artificial ventilation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.2.3.4.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_教室卫生",
+   "subjectName": "教室卫生",
+   "publishYear": "2025",
+   "definition": "采用工具、机械设备等进行强制性对流通风，从而实现室内外空气交换的方式。"
+  },
+  {
+   "cn": "人工授精",
+   "en": "artificial insemination",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.7.1",
+   "subjectFullName": "妇幼卫生学名词_生育调节_辅助生殖技术",
+   "subjectName": "辅助生殖技术",
+   "publishYear": "2025",
+   "definition": "用人工方式将精液注入女性体内以取代性交途径使其妊娠的一种方法。"
+  },
+  {
+   "cn": "人工放射性核素",
+   "en": "artificial radionuclide",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.4.31",
+   "subjectFullName": "食品卫生学_食品污染_食品放射性污染",
+   "subjectName": "食品放射性污染",
+   "publishYear": "2025",
+   "definition": "不需人工干预，自然界中自然存在的具有放射性的不稳定原子核，能自发地放出射线（如α射线、β射线、γ射线等），通过衰变形成稳定的核素。常见的有²³⁸U、²³²Th 和²³⁵U 等，可通过空气、土壤、水等途"
+  },
+  {
+   "cn": "抗寄生虫剂",
+   "en": "antiparasitic agent",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.2.2.4",
+   "subjectFullName": "食品卫生学_食品污染_食品化学性危害因素",
+   "subjectName": "食品化学性危害因素",
+   "publishYear": "2025",
+   "definition": "能够驱除或杀灭畜禽体内外寄生虫的药物。"
+  },
+  {
+   "cn": "食用胶",
+   "en": "gelatinizing agent",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.17.27",
+   "subjectFullName": "食品卫生学_食品_糖果",
+   "subjectName": "糖果",
+   "publishYear": "2025",
+   "definition": "可在糖果中形成质地柔软的凝胶状可食用性胶凝剂，如明胶、琼脂、果胶、卡拉胶等。"
+  },
+  {
+   "cn": "灭菌剂",
+   "en": "sterilizing agent",
+   "source": "消毒学",
+   "wordNumber": "3.1.1.11",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "能够杀灭所有微生物，达到灭菌要求的消毒剂。"
+  },
+  {
+   "cn": "抗菌剂",
+   "en": "antibacterial agent",
+   "source": "消毒学",
+   "wordNumber": "3.1.13.1",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "能够杀灭和抑制细菌生长繁殖的制剂。"
+  },
+  {
+   "cn": "抑菌剂",
+   "en": "bacteriostatic agent",
+   "source": "消毒学",
+   "wordNumber": "3.1.14",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "能够在一定时间内，使某些微生物的生长或繁殖保持在一定水平以下的化学物质。"
+  },
+  {
+   "cn": "清洁剂",
+   "en": "cleaning agent",
+   "source": "消毒学",
+   "wordNumber": "3.2.1",
+   "subjectFullName": "消毒学_消毒用品_消毒相关用品",
+   "subjectName": "消毒相关用品",
+   "publishYear": "2025",
+   "definition": "用于增强水的去污能力的化学制剂。"
+  },
+  {
+   "cn": "崩解剂",
+   "en": "disintegrating agent",
+   "source": "消毒学",
+   "wordNumber": "6.1.14.3",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "能使固体消毒剂在溶液中迅速裂碎成细小颗粒，增加消毒因子溶出的辅料。"
+  },
+  {
+   "cn": "抗泡沫剂",
+   "en": "antifoam agent",
+   "source": "消毒学",
+   "wordNumber": "6.2.27.22",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "在采样液中加入的能够降低采样冲击时产生的泡沫，提高微生物采集效率的试剂。常用辛醇或橄榄油等。"
+  },
+  {
+   "cn": "络合剂",
+   "en": "complexing agent",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.3.6",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内污染医学处理",
+   "subjectName": "内污染医学处理",
+   "publishYear": "2025",
+   "definition": "能提供电子对的配位基，并能与金属离子形成络合物的化合物。如果配位基中有两个或以上提供电子对的键合原子，而且在其间相隔2个或3个其他原子时，结构上常成环状或螯环。"
+  },
+  {
+   "cn": "螯合剂",
+   "en": "chelating agent",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.3.7",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内污染医学处理",
+   "subjectName": "内污染医学处理",
+   "publishYear": "2025",
+   "definition": "能与金属离子结合形成螯合物，用于放射性药物标记，从而增加药物稳定性的交联剂。"
+  },
+  {
+   "cn": "动员剂",
+   "en": "mobile agent",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.3.9",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内污染医学处理",
+   "subjectName": "内污染医学处理",
+   "publishYear": "2025",
+   "definition": "能增加自然转换速率而使放射性核素从体内排除的一类化合物。"
+  },
+  {
+   "cn": "阻断剂",
+   "en": "blocking agent",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.3.10",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内污染医学处理",
+   "subjectName": "内污染医学处理",
+   "publishYear": "2025",
+   "definition": "使特定组织中的稳定元素代谢饱和后，降低相应的放射性核素进入该组织的制剂。"
+  },
+  {
+   "cn": "稀释剂",
+   "en": "diluting agent",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.3.11",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_内污染医学处理",
+   "subjectName": "内污染医学处理",
+   "publishYear": "2025",
+   "definition": "与所摄入放射性核素的代谢特性相似的稳定性元素或化合物。它对摄入放射性核素起稀释作用，从而降低放射性核素沉积量的一种制剂。"
+  },
+  {
+   "cn": "抗疟药",
+   "en": "antimalarial agent",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.7.1.8",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病常用药物及治疗_治疗药物",
+   "subjectName": "治疗药物",
+   "publishYear": "2025",
+   "definition": "一些能够杀灭疟原虫或抑制疟原虫繁殖，用于防治疟疾的药物。其中羟氯喹、氯喹可用于治疗类风湿关节炎、系统性红斑狼疮等自身免疫病。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

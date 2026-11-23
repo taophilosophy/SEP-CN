@@ -1,0 +1,792 @@
+{
+ "key": "four beginnings",
+ "term": "four beginnings",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T03:37:04+00:00",
+ "status": "ok",
+ "note": "variant=four beginnings; 审定公布名词库=4483; 海峡两岸名词对照库=670; 其他来源数据库=821; 预公布名词数据库=564; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "初始库存",
+   "en": "beginning inventory",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0208",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_生产运作管理",
+   "subjectName": "生产运作管理",
+   "publishYear": "2016",
+   "definition": "永续盘存记录中的上一期末库存数的结算额。"
+  },
+  {
+   "cn": "水线前段",
+   "en": "waterline beginning",
+   "source": "船舶工程名词",
+   "wordNumber": "02.197",
+   "subjectFullName": "船舶工程_船舶总体",
+   "subjectName": "船舶总体",
+   "publishYear": "1998",
+   "definition": "水线平行段以前的设计水线前部线段。"
+  },
+  {
+   "cn": "立春",
+   "en": "Beginning of Spring,Spring Beginning",
+   "source": "大气科学名词",
+   "wordNumber": "08.064",
+   "subjectFullName": "大气科学_应用气象学",
+   "subjectName": "应用气象学",
+   "publishYear": "2009",
+   "definition": "二十四节气之第一节气，在2月4日或5日；表示春季开始。"
+  },
+  {
+   "cn": "立春",
+   "en": "Beginning of Spring",
+   "source": "农学名词",
+   "wordNumber": "01.151",
+   "subjectFullName": "总论_二十四节气",
+   "subjectName": "二十四节气",
+   "publishYear": "2025",
+   "definition": "第1个节气，太阳运行至黄经315°~330°区间，通常于2月3日至5日时进入。“立”表示开始。“立春”是春季和又一个农业生产周期的开始。立春三候包括东风解冻（Spring Thaw Starts）、蛰"
+  },
+  {
+   "cn": "立夏",
+   "en": "Beginning of Summer",
+   "source": "农学名词",
+   "wordNumber": "01.157",
+   "subjectFullName": "总论_二十四节气",
+   "subjectName": "二十四节气",
+   "publishYear": "2025",
+   "definition": "第7个节气，太阳运行至黄经45°~60°区间，通常于每年5月5日至7日时进入。预示夏季开始，雷雨增多，农作物长势旺盛。立夏三候包括蝼蝈鸣（Mole Cricket Chirps）、蚯蚓出（Earthw"
+  },
+  {
+   "cn": "立秋",
+   "en": "Beginning of Autumn",
+   "source": "农学名词",
+   "wordNumber": "01.163",
+   "subjectFullName": "总论_二十四节气",
+   "subjectName": "二十四节气",
+   "publishYear": "2025",
+   "definition": "第13个节气，太阳运行至黄经135°~150°区间，通常于每年8月6日至9日进入。昼夜温差变大，农作物营养物质逐渐积累。立秋三候包括凉风至（Cool Breeze Blows）、白露降（Mist Ha"
+  },
+  {
+   "cn": "立冬",
+   "en": "Beginning of Winter",
+   "source": "农学名词",
+   "wordNumber": "01.169",
+   "subjectFullName": "总论_二十四节气",
+   "subjectName": "二十四节气",
+   "publishYear": "2025",
+   "definition": "第19个节气，太阳运行至黄经225°~240°区间，通常于每年11月6日至8日进入。预示进入冬季，黄河中下游地区农林作物全面进入越冬期。立冬三候包括水始冰（Water Starts to Freeze"
+  },
+  {
+   "cn": "立夏",
+   "en": "Beginning of Summer",
+   "source": "大气科学名词",
+   "wordNumber": "08.070",
+   "subjectFullName": "大气科学_应用气象学",
+   "subjectName": "应用气象学",
+   "publishYear": "2009",
+   "definition": "二十四节气之第七节气，在5月5日或6日；表示夏季开始。"
+  },
+  {
+   "cn": "立冬",
+   "en": "Beginning of Winter",
+   "source": "大气科学名词",
+   "wordNumber": "08.082",
+   "subjectFullName": "大气科学_应用气象学",
+   "subjectName": "应用气象学",
+   "publishYear": "2009",
+   "definition": "二十四节气之第十九节气，在11月7日或8日；表示冬季开始。"
+  },
+  {
+   "cn": "立秋",
+   "en": "Beginning of Autumn",
+   "source": "大气科学名词",
+   "wordNumber": "08.076",
+   "subjectFullName": "大气科学_应用气象学",
+   "subjectName": "应用气象学",
+   "publishYear": "2009",
+   "definition": "二十四节气之第十三节气，在8月7日或8日；表示秋季开始。"
+  },
+  {
+   "cn": "发射窗口前沿",
+   "en": "launch window beginning",
+   "source": "航天科学技术名词",
+   "wordNumber": "10.116",
+   "subjectFullName": "航天科学技术_航天发射试验与地面设备",
+   "subjectName": "航天发射试验与地面设备",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "压缩始点压力",
+   "en": "compression beginning pressure",
+   "source": "铁道科学技术名词",
+   "wordNumber": "04.0746",
+   "subjectFullName": "铁道科学技术_铁道牵引动力",
+   "subjectName": "铁道牵引动力",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "道岔始端",
+   "en": "beginning of turnout",
+   "source": "铁道科学技术名词",
+   "wordNumber": "03.0311",
+   "subjectFullName": "铁道科学技术_铁道工务",
+   "subjectName": "铁道工务",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "四维张量",
+   "en": "four-tensor",
+   "source": "物理学名词",
+   "wordNumber": "06.0156",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "四维力",
+   "en": "four-force",
+   "source": "物理学名词",
+   "wordNumber": "06.0159",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "四维加速度",
+   "en": "four-acceleration",
+   "source": "物理学名词",
+   "wordNumber": "06.0158",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "四维速度",
+   "en": "four-velocity",
+   "source": "物理学名词",
+   "wordNumber": "06.0157",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "四维矢量",
+   "en": "four-vector",
+   "source": "物理学名词",
+   "wordNumber": "06.0155",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "四维流",
+   "en": "four-current",
+   "source": "物理学名词",
+   "wordNumber": "06.0161",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "四维动量",
+   "en": "four-momentum",
+   "source": "物理学名词",
+   "wordNumber": "06.0160",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "全食始",
+   "en": "beginning of totality，total eclipse beginning",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "岁首",
+   "en": "beginning of year",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "曲线起点",
+   "en": "beginning of curve",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "开始-结束块",
+   "en": "begin-end block",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "四象",
+   "en": "four [celestial] images\",\"four Xiang",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "四冲程循环",
+   "en": "four-stroke cycle\",\"four cycle",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "晨光始",
+   "en": "beginning of morning twilight",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "偏食始",
+   "en": "beginning of partial eclipse",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "晨光始",
+   "en": "beginning of morning twilight",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "四冲程内燃机",
+   "en": "four-stroke engine\",\"four cycle engine",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "朔",
+   "en": "new moon\",\"beginning of lunation",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "四手联弹",
+   "en": "for four hands",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "四首大海间奏曲",
+   "en": "Sea Interludes\",\"Four",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Britten, Benjamin"
+  },
+  {
+   "cn": "四细胞期",
+   "en": "four-cell stage",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "四通阀",
+   "en": "four-way valve",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "四六和弦",
+   "en": "six-four chord",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "四端电极法",
+   "en": "four-probe method",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "四探针法",
+   "en": "four-probe measurement",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "四色测光",
+   "en": "four-color photometry",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "四中心聚合",
+   "en": "four center polymerization",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "开赛！",
+   "en": "Begin! Hajime!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "四人赛艇",
+   "en": "four",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "四人单桨",
+   "en": "fours",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "起射信号",
+   "en": "signal to begin",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "开始！",
+   "en": "Begin! Shijak! Start!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "四维",
+   "en": "four dimensions",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "四端",
+   "en": "Four Initiators",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "四海",
+   "en": "Four Seas",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "四书",
+   "en": "Four Books",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "四象",
+   "en": "Four Images",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "四次击球",
+   "en": "four hits",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "四次击球",
+   "en": "four contacts",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "四人单桨无舵手赛艇",
+   "en": "coxless fours\",\"coxswainless fours-oars",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "四人单桨有舵手赛艇",
+   "en": "coxed fours\",\"four oars with coxswain",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "四人划艇",
+   "en": "Canadian four\",\"C4",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "四人皮艇",
+   "en": "kayak four\",\"K4",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第四姿势反击",
+   "en": "counter-four\",\"counter-quarte",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "“四个全面”战略布局",
+   "en": "Four-Pronged Comprehensive Strategy",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": "全面建成小康社会、全面深化改革、全面依法治国、全面从严治党。（The Four-Pronged Comprehensive Strategy is to make comprehensive move"
+  },
+  {
+   "cn": "四端",
+   "en": "four initiators",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.07",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "仁、义、礼、智四种道德观念的端始、萌芽。孟子认为四端是人之本性的自然呈现，是人与动物的不同之处，人没有四端则不能称其为人；认为恻隐之心是仁之端，羞恶之心是义之端，辞让之心是礼之端，是非之心是智之端。"
+  },
+  {
+   "cn": "四个现代化",
+   "en": "four modernizations",
+   "source": "马克思主义",
+   "wordNumber": "03.0393",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "工业、农业、国防和科学技术的现代化。1959年末至1960年初，毛泽东在读苏联《政治经济学教科书》笔记中完整地提出“实现社会主义四个现代化”口号。周恩来根据毛泽东的提议，在全国人大三届一次会议的《政府"
+  },
+  {
+   "cn": "四信",
+   "en": "four beliefs",
+   "source": "马克思主义",
+   "wordNumber": "03.0647",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "江泽民在建党80周年讲话中强调：坚定对马克思主义的信仰、坚定对社会主义的信念、增强对改革开放和现代化建设的信心、增强对党和政府的信任，简称“四信”。这是针对改革开放过程中人们思想观念发生的变化而提出需"
+  },
+  {
+   "cn": "四个划清",
+   "en": "four distinctions",
+   "source": "马克思主义",
+   "wordNumber": "03.0692",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "党的十七届四中全会通过的《中共中央关于加强和改进新形势下党的建设若干重大问题的决定》提出：“加强党的意识形态工作和思想政治工作，引导党员、干部增强政治敏锐性和政治鉴别力，筑牢思想防线，自觉划清马克思主"
+  },
+  {
+   "cn": "四大危险",
+   "en": "four risks",
+   "source": "马克思主义",
+   "wordNumber": "03.0785",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "在纪念建党九十周年大会的讲话中，胡锦涛首次提出。指的是精神懈怠的危险，能力不足的危险，脱离群众的危险，消极腐败的危险。这四大危险，充分表明中国共产党的忧患意识，以及加强党的先进性和纯洁性建设的自觉意识"
+  },
+  {
+   "cn": "四大考验",
+   "en": "four tests",
+   "source": "马克思主义",
+   "wordNumber": "03.0786",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "在纪念建党九十周年大会的讲话中，胡锦涛首次提出。指的是在世情、国情、党情发生深刻变化的新形势下，提高党的领导水平和执政水平、提高拒腐防变和抵御风险能力，加强党的执政能力建设和先进性建设，面临的执政考验"
+  },
+  {
+   "cn": "四个意识",
+   "en": "Four Consciousnesses",
+   "source": "马克思主义",
+   "wordNumber": "03.0801",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "2016年1月29日，中央政治局会议首次公开提出四个意识，即：全体党员要有政治意识、大局意识、核心意识、看齐意识。"
+  },
+  {
+   "cn": "四分体系",
+   "en": "four-section system",
+   "source": "社会学名词",
+   "wordNumber": "4.2.5.5",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_亲属制度",
+   "subjectName": "亲属制度",
+   "publishYear": "2025",
+   "definition": "在部落社会两半族间平代通婚的基本制度（被称为“二分法”）的基础上，再加代际区分后所构成的四个类别。是对二分法更加精致的表述形式。以亲属制度为择偶规范，其中包含一整套类别间通婚和继嗣规则。"
+  },
+  {
+   "cn": "四项基本原则",
+   "en": "Four Cardinal Principles",
+   "source": "马克思主义",
+   "wordNumber": "03.0514",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1979年3月30日邓小平在理论工作务虚会上作了题为《坚持四项基本原则》的讲话，提出了必须坚持的“四项基本原则”。四项基本原则包括：第一，必须坚持社会主义道路；第二，必须坚持无产阶级专政；第三，必须坚"
+  },
+  {
+   "cn": "四个伟大飞跃",
+   "en": "Four great leaps",
+   "source": "马克思主义",
+   "wordNumber": "03.0816",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中共十九届六中全会决议指出，中共百年历程实现了四个“伟大飞跃”，即：新民主主义革命时期，实现了中国从几千年封建专制政治向人民民主的伟大飞跃；社会主义革命和建设时期，实现了一穷二白、人口众多的东方大国大"
+  },
+  {
+   "cn": "四季社",
+   "en": "Four Seasons Club",
+   "source": "马克思主义",
+   "wordNumber": "04.0388",
+   "subjectFullName": "马克思主义_其他部分_重要组织政党_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "19世纪法国秘密革命组织，1837年由布朗基创立，成员多为工人和手工业者。其各级组织分别称为“星期”“月”“季”和“年”,四个“季”组成一“年”,故此得名。1839年在巴黎起义失败后被解散。"
+  },
+  {
+   "cn": "四个必然要求",
+   "en": "four inevitable requirements",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0148",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "铸牢中华民族共同体意识是维护各民族根本利益的必然要求，是实现中华民族伟大复兴的必然要求，是巩固和发展平等团结互助和谐社会主义民族关系的必然要求，是党的民族工作开创新局面的必然要求。"
+  },
+  {
+   "cn": "四个教育",
+   "en": "four aspects of education",
+   "source": "马克思主义",
+   "wordNumber": "03.0619",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "江泽民根据新形势下加强军队思想政治建设问题的实际情况，在1994年12月召开的军委扩大会议上首次提出的命题，是对爱国奉献教育、革命人生观教育、尊干爱兵教育和艰苦奋斗教育的简称。"
+  },
+  {
+   "cn": "四议两公开",
+   "en": "four proposed two open",
+   "source": "马克思主义",
+   "wordNumber": "03.0771",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "即“4+2”工作法，该工作法由河南省邓州市率先提出。这种工作法主张，农村所有村级重大事项都必须在村党组织领导下，按照“四议”、“两公开”的程序决策实施。“四议”包括党支部会提议、“两委”会商议、党员大"
+  },
+  {
+   "cn": "四个服从",
+   "en": "Four Principles of Deference",
+   "source": "马克思主义",
+   "wordNumber": "03.0812",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "党员个人服从党的组织，少数服从多数，下级组织服从上级组织，全党各个组织和全体党员服从党的全国代表大会和中央委员会。"
+  },
+  {
+   "cn": "四对关系",
+   "en": "four pairs of relationships",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0149",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "正确把握共同性与差异性的关系，正确把握中华民族共同体意识和各民族意识的关系，正确把握中华文化和各民族文化的关系，正确把握物质与精神的关系。"
+  },
+  {
+   "cn": "“四个与共”",
+   "en": "Four Matters of Together",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0123",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "习近平总书记关于加强和改进民族工作的重要思想的核心内容之一，是指各族人民休戚与共、荣辱与共、生死与共、命运与共的共同体理念。"
+  },
+  {
+   "cn": "二十四节气",
+   "en": "twenty-four solar terms",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0171",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "古代一组节令的总称，即自立春至大寒共二十四个节气，以表征一年中天文、季节、气候与农业生产的关系。作为一部完整的农业气候历，在指导中国农业生产上发挥了较大作用，沿用至今。廿四个节气分别为：立春、雨水、惊"
+  },
+  {
+   "cn": "干部的四化标准",
+   "en": "four modern standards of cadres",
+   "source": "马克思主义",
+   "wordNumber": "03.0550",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "革命化、年轻化、知识化和专业化，是新时期党的干部队伍建设的总标准。革命化是对干部队伍政治素质的要求，年轻化是对干部年龄的要求，知识化是对干部文化水平的要求，专业化是对干部专业水平和业务能力的要求。19"
+  },
+  {
+   "cn": "四个同样重要",
+   "en": "four points of equal importance",
+   "source": "马克思主义",
+   "wordNumber": "03.0622",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "江泽民2002年视察中国人民大学时提出“四个同样重要”，即“哲学社会科学与自然科学同样重要，培养高水平的哲学社会科学家与培养高水平的自然科学家同样重要，提高全民族的哲学社会科学素质与提高全民族的自然科"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

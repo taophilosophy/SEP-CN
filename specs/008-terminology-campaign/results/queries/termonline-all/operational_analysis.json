@@ -1,0 +1,692 @@
+{
+ "key": "operational analysis",
+ "term": "operational analysis",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T03:35:10+00:00",
+ "status": "ok",
+ "note": "variant=operational analysis; 审定公布名词库=4101; 海峡两岸名词对照库=1247; 其他来源数据库=149; 预公布名词数据库=228; jwt-direct（JWT 直连，raw 略；已滤维基 12 条）",
+ "hits": [
+  {
+   "cn": "作业分析",
+   "en": "operations analysis",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0992",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_工业工程",
+   "subjectName": "工业工程",
+   "publishYear": "2016",
+   "definition": "研究在某道工序中，如何使工人的操作以及工人和机器的相互配合达到最经济、最有效程度的分析方法。"
+  },
+  {
+   "cn": "操作分析",
+   "en": "operating analysis",
+   "source": "教育学名词",
+   "wordNumber": "11.145",
+   "subjectFullName": "教育学_职业技术教育",
+   "subjectName": "职业技术教育",
+   "publishYear": "2013",
+   "definition": "对劳动操作进行全面分析从而改进或设计新的劳动操作的一种系统分析方法。包括对操作目的、操作成分、操作结构、操作时间、操作程序和方法，以及设备、工具、原材料和场地等各个方面的因素分析。"
+  },
+  {
+   "cn": "工艺流程分析",
+   "en": "operating process analysis",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0964",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_工业工程",
+   "subjectName": "工业工程",
+   "publishYear": "2016",
+   "definition": "以生产系统或工作系统为研究对象，对生产系统全过程所进行的概略分析，从宏观上发现问题，为进一步的流程程序分析和路径分析做准备的一种分析方法。"
+  },
+  {
+   "cn": "联合作业分析",
+   "en": "multiple activity operation analysis",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0999",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_工业工程",
+   "subjectName": "工业工程",
+   "publishYear": "2016",
+   "definition": "当几个操作者共同工作时，通过对操作者工作时间的关系比较，排除操作者在作业过程中的不经济、不均衡、不合理和浪费等现象的一种分析方法。"
+  },
+  {
+   "cn": "人–机作业分析",
+   "en": "man-machine operation analysis",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0998",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_工业工程",
+   "subjectName": "工业工程",
+   "publishYear": "2016",
+   "definition": "在机械化作业中，用来分析人–机过程中操作者手动操作和设备机动操作之间的相互配合关系的分析方法。"
+  },
+  {
+   "cn": "康复工作运行监测与结果分析系统",
+   "en": "operation monitoring and analysis system",
+   "source": "物理医学与康复名词",
+   "wordNumber": "02.019",
+   "subjectFullName": "物理医学与康复_康复功能评定_康复信息",
+   "subjectName": "康复信息",
+   "publishYear": "2014",
+   "definition": "联合国开发计划署在1994年为发展中国家残疾人康复计划设计的一套用于运行监测和结果分析的计算机软件系统，可追踪、分析、评价康复目标及康复结果，提高社区康复的工作效率。为康复医学方面开发的数据库系统之一"
+  },
+  {
+   "cn": "危险与可操作性研究",
+   "en": "hazard and operability analysis,HAZOP",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "04.237",
+   "subjectFullName": "化工（五）_工程建设_工程设计",
+   "subjectName": "工程设计",
+   "publishYear": "2021",
+   "definition": "以温度、压力、流量、液（料、界）位等“过大”“过小”“没有”等引导词为核心的系统危险分析方法，是对危险与可操作性问题进行详细识别的过程。"
+  },
+  {
+   "cn": "危险和可操作性分析",
+   "en": "hazard and operability analysis，HAZOP",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "12.014",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_化工安全",
+   "subjectName": "化工安全",
+   "publishYear": "2024",
+   "definition": "20世纪60年代由英国帝国化学工业公司（ICI）提出的一种由专家小组利用一套特定的引导词来完成的定性的化工过程风险辨识方法。由于其结构性和系统性较好，是目前化工过程安全隐患排查的最佳方法。"
+  },
+  {
+   "cn": "手术",
+   "en": "operation",
+   "source": "普通外科学名词",
+   "wordNumber": "13.001",
+   "subjectFullName": "医学_普通外科学_手术学",
+   "subjectName": "手术学",
+   "publishYear": "2026",
+   "definition": "医疗机构及其医务人员以诊断或治疗疾病为目的，在人体局部开展去除病变组织、修复损伤、重建形态或功能、移植细胞组织或器官、植入医疗器械等医学操作的医疗技术。"
+  },
+  {
+   "cn": "操作",
+   "en": "operation",
+   "source": "行为医学名词",
+   "wordNumber": "2.095",
+   "subjectFullName": "行为医学_行为医学基本理论_认知理论",
+   "subjectName": "认知理论",
+   "publishYear": "2022",
+   "definition": "按照一定的程序和技术要求进行的行为活动。"
+  },
+  {
+   "cn": "工序",
+   "en": "operation",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "01.011",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "工件在一个工位上被加工或装配所连续完成的所有工步的一部分工艺过程。"
+  },
+  {
+   "cn": "运算",
+   "en": "operation",
+   "source": "物理学名词",
+   "wordNumber": "01.0522",
+   "subjectFullName": "物理学_通类_数学",
+   "subjectName": "数学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "操作",
+   "en": "operation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "03.0243",
+   "subjectFullName": "计算机科学技术_计算机体系结构_处理系统",
+   "subjectName": "处理系统",
+   "publishYear": "2018",
+   "definition": "计算机为实现某种功能而执行的动作。如逻辑操作、传送操作、存储操作、算术运算等。"
+  },
+  {
+   "cn": "操作",
+   "en": "operation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0308",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "面向对象技术中一个用于描述对象行为特征的动作序列。"
+  },
+  {
+   "cn": "运作",
+   "en": "operation",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0002",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_生产运作管理",
+   "subjectName": "生产运作管理",
+   "publishYear": "2016",
+   "definition": "一切社会组织将对其输入转化、增值为输出的过程。"
+  },
+  {
+   "cn": "工序",
+   "en": "operation",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0051",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_生产运作管理",
+   "subjectName": "生产运作管理",
+   "publishYear": "2016",
+   "definition": "工件在一个工位上被加工或装配所连续完成所有工步的那部分工艺过程。"
+  },
+  {
+   "cn": "操作",
+   "en": "operation",
+   "source": "教育学名词",
+   "wordNumber": "11.120",
+   "subjectFullName": "教育学_职业技术教育",
+   "subjectName": "职业技术教育",
+   "publishYear": "2013",
+   "definition": "使用机器或手工具完成某工作任务的单一或多个动作综合，是工序按劳动过程所划分的组成部分。一个或多个操作构成一道工序。"
+  },
+  {
+   "cn": "操作",
+   "en": "operation",
+   "source": "电气工程名词",
+   "wordNumber": "09.355",
+   "subjectFullName": "电气工程_开关设备和控制设备",
+   "subjectName": "开关设备和控制设备",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "运算",
+   "en": "operation",
+   "source": "数学名词",
+   "wordNumber": "01.0057",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "操纵序列",
+   "en": "operator",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0537",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_基因表达调控_修复",
+   "subjectName": "修复",
+   "publishYear": "2024",
+   "definition": "操纵子中与阻遏物结合的一段特定核苷酸序列。对相邻结构基因的转录活动有控制作用。"
+  },
+  {
+   "cn": "操作",
+   "en": "operation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "操作",
+   "en": "operation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "运算",
+   "en": "operation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "操作",
+   "en": "operation",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "运算",
+   "en": "operation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "可操作性",
+   "en": "operability",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "操纵基因",
+   "en": "operator",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "操作员",
+   "en": "operator",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "操纵基因",
+   "en": "operator\",\"operator gene",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "操纵基因",
+   "en": "operator gene\",\"operator",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "操纵基因",
+   "en": "operator\",\"operator gene",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "分析",
+   "en": "analysis",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "错流操作",
+   "en": "crosscurrent operation\",\"crossflow operation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "操作变量",
+   "en": "operating variable\",\"operational variable",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "操作时间",
+   "en": "operating time\",\"operation length",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "筛析",
+   "en": "mesh analysis\",\"screen analysis\",\"sieve analysis",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "光谱分析",
+   "en": "spectroscopic analysis\",\"spectral analysis",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "自我分析",
+   "en": "ego analysis\",\"self analysis",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "筛分析",
+   "en": "screen analysis\",\"sieve analysis",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "半微量分析",
+   "en": "semimicro analysis\",\"meso analysis",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "工作人员",
+   "en": "operator",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "操作风险",
+   "en": "operational risk",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "操作技术",
+   "en": "operational technology",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无边界经营",
+   "en": "borderless operation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "运营优化",
+   "en": "operation optimization",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "协作操作",
+   "en": "collaborative operation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "“清乡”",
+   "en": "“pacification” operation",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "操作系统",
+   "en": "operating system",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "战时洗消",
+   "en": "operational decontamination",
+   "source": "军事预防医学名词",
+   "wordNumber": "10.8.7",
+   "subjectFullName": "军事预防医学_化学武器医学防护学_化学战剂消除",
+   "subjectName": "化学战剂消除",
+   "publishYear": "2025",
+   "definition": "对作战行动必需的器材、物资、人员及区域进行的洗消，以最大限度地减少核生化有害物的接触和扩散，保证作战行动的顺利进行。"
+  },
+  {
+   "cn": "无菌操作",
+   "en": "sterile operation",
+   "source": "消毒学",
+   "wordNumber": "1.2.19.4",
+   "subjectFullName": "消毒学_消毒学_灭菌",
+   "subjectName": "灭菌",
+   "publishYear": "2025",
+   "definition": "杜绝微生物污染特定环境或物品的操作过程。"
+  },
+  {
+   "cn": "手术率",
+   "en": "operation rate",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.3.4",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "救治机构对每百名伤员经手术治疗的人数，反映各救治机构的手术工作量以及伤员得到手术救治的普遍程度，为组织调配手术力量提供依据。"
+  },
+  {
+   "cn": "变性手术",
+   "en": "transsexual operation",
+   "source": "医学伦理学名词",
+   "wordNumber": "5.051",
+   "subjectFullName": "医学伦理学_临床诊疗伦理",
+   "subjectName": "临床诊疗伦理",
+   "publishYear": "2025",
+   "definition": "通过整形外科技术（组织移植和器官再造），使易性癖患者的生物学性别与其心理性别相符的手术。"
+  },
+  {
+   "cn": "操作限值",
+   "en": "operation limit",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.5.8",
+   "subjectFullName": "食品卫生学_食品安全风险管理_危害分析与关键控制点",
+   "subjectName": "危害分析与关键控制点",
+   "publishYear": "2025",
+   "definition": "用来减少偏离关键限值风险的指标或参数。"
+  },
+  {
+   "cn": "工作区",
+   "en": "operating area",
+   "source": "消毒学",
+   "wordNumber": "1.8.24.4",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "指安全柜内从左侧到右侧、从后侧到前窗内侧，高于前窗玻璃下沿约5cm到工作台面进行操作的区域。"
+  },
+  {
+   "cn": "过程分析法",
+   "en": "process analysis",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0604",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "美国人类学家特纳（Victor Turner）针对要如何去探索仪式象征意义而提出的研究方法，即任何有关象征的实证研究至少需要从三个不同层面来进行分析。（1）当地人（包括当地仪式专家和普通人）对仪式、象"
+  },
+  {
+   "cn": "仪器分析",
+   "en": "instrumental analysis",
+   "source": "消毒学",
+   "wordNumber": "6.1.13",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "基于物质的物理或化学性质，使用仪器对该物质进行定性或定量分析的方法。"
+  },
+  {
+   "cn": "联合分析",
+   "en": "pooled analysis",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.1.4",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "放射流行病学研究中常用的综合性统计分析方法，将按照共同研究计划开展的一个以上的流行病学研究的原始数据或整理后的数据合并在一起进行的统计分析。其目的是提高统计把握度。不同于基于公开文献研究数据的meta"
+  },
+  {
+   "cn": "活化分析",
+   "en": "activation analysis",
+   "source": "放射卫生学",
+   "wordNumber": "5.3.1.1",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测技术_通用监测技术",
+   "subjectName": "通用监测技术",
+   "publishYear": "2025",
+   "definition": "通过测量经辐射活化产生的放射性核素的辐射特征实现元素、核素的定性或定量分析的方法。"
+  },
+  {
+   "cn": "安全分析",
+   "en": "safety analysis",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.6.2",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_分析评估",
+   "subjectName": "分析评估",
+   "publishYear": "2025",
+   "definition": "评估与设施运行或活动进行相关的潜在危害。"
+  },
+  {
+   "cn": "叙事分析",
+   "en": "narrative analysis",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.3",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "针对以故事形式呈现的各种文本的一组研究方法。"
+  },
+  {
+   "cn": "话语分析",
+   "en": "discourse analysis",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.10",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "为了揭示人们对社会世界的观感及其构造，对自然产生的口头的或书面的语言及其语境进行分析的方法。"
+  },
+  {
+   "cn": "谈话分析",
+   "en": "conversation analysis",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.11",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "对参与者在对话过程中口头和非口头的行为进行分析的方法。认为参与者通过组织这些行为从事社会行动和社会事务。"
+  },
+  {
+   "cn": "内容分析",
+   "en": "content analysis",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.15",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "以系统和定量的方式刻画给定文本的意义的分析技术。"
+  },
+  {
+   "cn": "数据分析",
+   "en": "data analysis",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.1",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "审查、清理、转换以及模型数据，从中发现有用信息，以便获取研究发现，支持决策制定的过程。"
+  },
+  {
+   "cn": "对应分析",
+   "en": "correspondence analysis",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.78",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "通过分析由定性变量构成的交互汇总表来揭示变量间的联系，揭示同一变量的各个类别之间的差异，以及不同变量各个类别之间的对应关系的一种多元相依变量的统计分析技术。"
+  },
+  {
+   "cn": "回归分析",
+   "en": "regression analysis",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.82",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "在掌握大量观察数据的基础上，以回归方程式来描述自变量与因变量之间关系的统计分析方法。"
+  },
+  {
+   "cn": "路径分析",
+   "en": "path analysis",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.123",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "假设一组观测变量间存在因果关系，并以路径图的方式将变量间的因果关系表示出来，再根据模型的拟合程度检验观测数据是否支持假设的因果关系的统计分析法。"
+  },
+  {
+   "cn": "因子分析",
+   "en": "factor analysis",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.124",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "将一组观测数据描述为一组潜变量或假设的变量的函数的多元统计模型。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

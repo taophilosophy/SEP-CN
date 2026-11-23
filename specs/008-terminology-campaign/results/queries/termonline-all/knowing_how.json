@@ -1,0 +1,792 @@
+{
+ "key": "knowing how",
+ "term": "knowing how",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T03:40:38+00:00",
+ "status": "ok",
+ "note": "variant=knowing how; 审定公布名词库=2449; 海峡两岸名词对照库=628; 其他来源数据库=133; 预公布名词数据库=87; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "技能知识",
+   "en": "knowing-how",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.513",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "某个个体或群体知道如何运用默会知识，有效完成某项认知任务的实践技能。这种技能大多是与身体的感知运动系统相关的行动能力，如游泳或驾车的熟练技能，也包括某些道德和审美的能力。"
+  },
+  {
+   "cn": "技能知识",
+   "en": "know-how",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0715",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_知识管理",
+   "subjectName": "知识管理",
+   "publishYear": "2016",
+   "definition": "关于怎样做事情的知识。包括技艺、技巧、诀窍、方法、流程等。"
+  },
+  {
+   "cn": "实用知识和技能",
+   "en": "know-how",
+   "source": "教育学名词",
+   "wordNumber": "11.178",
+   "subjectFullName": "教育学_职业技术教育",
+   "subjectName": "职业技术教育",
+   "publishYear": "2013",
+   "definition": "成功完成某项操作所直接需要的知识和技能。"
+  },
+  {
+   "cn": "维修规程",
+   "en": "maintenance know-how",
+   "source": "冶金学名词",
+   "wordNumber": "05.1636",
+   "subjectFullName": "冶金学_钢铁冶金_冶金流程工程学",
+   "subjectName": "冶金流程工程学",
+   "publishYear": "2019",
+   "definition": "维修工人队伍应该掌握的知识和技能，可以保证在规定时间修复设备达到正常性能水平的规程。"
+  },
+  {
+   "cn": "技术诀窍",
+   "en": "technological know-how",
+   "source": "管理科学技术名词",
+   "wordNumber": "10.0164",
+   "subjectFullName": "管理科学技术_科技管理与技术创新_技术管理",
+   "subjectName": "技术管理",
+   "publishYear": "2016",
+   "definition": "存在于研发人员的头脑中，是其有效的实际技能或专门知识的积累，常被视为专有资产，并当作商业秘密而加以保护。"
+  },
+  {
+   "cn": "转换字符",
+   "en": "handoverword,HOW",
+   "source": "航空科学技术名词",
+   "wordNumber": "07.140",
+   "subjectFullName": "航空科学技术_航空电子与机载计算机系统",
+   "subjectName": "航空电子与机载计算机系统",
+   "publishYear": "2003",
+   "definition": "GPS系统中用来由C/A码转换到P码，使对P码的搜捕易于实现的一个特定字符。"
+  },
+  {
+   "cn": "豪氏钳",
+   "en": "How pliers",
+   "source": "医学名词 第二分册",
+   "wordNumber": "10.096",
+   "subjectFullName": "医学_口腔医学_器械、设备、材料、药剂",
+   "subjectName": "器械、设备、材料、药剂",
+   "publishYear": "1992",
+   "definition": ""
+  },
+  {
+   "cn": "豪氏桁架",
+   "en": "Howe truss",
+   "source": "土木工程名词",
+   "wordNumber": "05.138",
+   "subjectFullName": "土木工程_建筑结构_构件及部件",
+   "subjectName": "构件及部件",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "命题知识",
+   "en": "knowing-that",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.521",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "可用命题表达所知内容或对象的知识。"
+  },
+  {
+   "cn": "原理知识",
+   "en": "know-why",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0714",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_知识管理",
+   "subjectName": "知识管理",
+   "publishYear": "2016",
+   "definition": "关于自然原理和客观规律方面的知识。"
+  },
+  {
+   "cn": "事实知识",
+   "en": "know-what",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0713",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_知识管理",
+   "subjectName": "知识管理",
+   "publishYear": "2016",
+   "definition": "关于事物是什么和怎么样的知识。"
+  },
+  {
+   "cn": "人力知识",
+   "en": "know-who",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0716",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_知识管理",
+   "subjectName": "知识管理",
+   "publishYear": "2016",
+   "definition": "关于知道谁具有事实知识、原理知识和技能知识的知识。"
+  },
+  {
+   "cn": "认识自己",
+   "en": "know oneself",
+   "source": "教育学名词",
+   "wordNumber": "04.029",
+   "subjectFullName": "教育学_外国教育史_古代",
+   "subjectName": "古代",
+   "publishYear": "2013",
+   "definition": "古希腊哲学家苏格拉底的哲学命题。来源于德菲尔神庙的格言，主要是教人有自知之明，并以此作为理性追寻的基础。"
+  },
+  {
+   "cn": "如何可能说明",
+   "en": "how-possible explanation",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.431",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_生物学哲学",
+   "subjectName": "生物学哲学",
+   "publishYear": "2024",
+   "definition": "援引事实以显示该事件可以发生，并且没有不能发生的好理由。"
+  },
+  {
+   "cn": "知情权",
+   "en": "right to know",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "17.059",
+   "subjectFullName": "新闻学与传播学_媒体与传播法_公民(法人)的表达自由及禁限",
+   "subjectName": "公民(法人)的表达自由及禁限",
+   "publishYear": "2022",
+   "definition": "①知情权泛指公众有获取、知悉各种信息的自由和权利，包括私法领域中平等主体之间的知情权。②公民对于国家的重要决策和重要事务以及世界上发生的各种与公众利益相关的重大事件，有及时、准确地了解和知悉的权利。"
+  },
+  {
+   "cn": "按需知密",
+   "en": "need-to-know",
+   "source": "计算机科学技术名词",
+   "wordNumber": "10.0159",
+   "subjectFullName": "计算机科学技术_信息安全_信息系统安全防护技术",
+   "subjectName": "信息系统安全防护技术",
+   "publishYear": "2018",
+   "definition": "一种访问数据的原则。即用户仅拥有其完成任务所必需的数据访问权限。"
+  },
+  {
+   "cn": "入门读物",
+   "en": "how-to publication,primer",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.078",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_文献类型",
+   "subjectName": "文献类型",
+   "publishYear": "2019",
+   "definition": "提供关于怎样完成一项工作，获得一门技能，或取得期望成果方面的信息和实用建议的图书、手册或光盘。通常会一步一步地指导并伴以图解。"
+  },
+  {
+   "cn": "《钢铁是怎样炼成的》",
+   "en": "How the Steel was Tempered",
+   "source": "世界历史名词",
+   "wordNumber": "05.0439",
+   "subjectFullName": "世界历史_近现代俄罗斯、东欧、高加索、中亚_俄罗斯人",
+   "subjectName": "俄罗斯人",
+   "publishYear": "2012",
+   "definition": "苏联作家奥斯特洛夫斯基写于1932年的一部小说，以保尔·柯察金为主人公，讲述他如何走上革命道路并如何战斗、工作的事迹。为“社会主义现实主义”创作手法的典范之作。"
+  },
+  {
+   "cn": "用户知情权",
+   "en": "user's right to know",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "07.276",
+   "subjectFullName": "图书馆·情报与文献学_信息服务与用户研究_用户研究",
+   "subjectName": "用户研究",
+   "publishYear": "2019",
+   "definition": "用户全面了解图书情报机构服务政策、信息使用限制的权利。"
+  },
+  {
+   "cn": "节瓜",
+   "en": "hairy gourd; Benincasa hispida var. chieh-qua How",
+   "source": "农学名词",
+   "wordNumber": "05.179",
+   "subjectFullName": "园艺作物_蔬菜作物",
+   "subjectName": "蔬菜作物",
+   "publishYear": "2025",
+   "definition": "葫芦科冬瓜属冬瓜种的变种。一年生攀缘性草本。原产中国南部。茎蔓较细，叶片小而薄；果实小，成熟时被糙硬毛，无白蜡质粉。喜高温、喜湿润。果实供食用。"
+  },
+  {
+   "cn": "专有技术",
+   "en": "know-how",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "专门技术市场",
+   "en": "know-how market",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "专有技术合同",
+   "en": "know-how contract",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "专有技术许可证",
+   "en": "know-how license",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "专门技术使用费",
+   "en": "royalty as to know-how",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "专有技术使用权",
+   "en": "right to use technical know-how",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "罗德豪隆起",
+   "en": "Lord Howe Rise",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "按需知密",
+   "en": "need-to-know",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "知道感",
+   "en": "feeling of knowing\",\"FOK",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "经验知识",
+   "en": "empirical knowledge\",\"experiential know ledge",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "弓法",
+   "en": "bowing",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "拖曳",
+   "en": "towing",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "拖曳，牵引",
+   "en": "towing",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "高低潮",
+   "en": "higher low water\",\"HLW",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "高低潮",
+   "en": "higher low water\",\"HLW",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "拖船",
+   "en": "tug\",\"tugboat\",\"tow boat\",\"towing vessel",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "生长卵泡",
+   "en": "growing follicle",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "生长点",
+   "en": "growing point",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "高吹尘",
+   "en": "blowing dust",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "高吹沙",
+   "en": "blowing sand",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "知人",
+   "en": "Know Others",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知己知彼，百战不殆",
+   "en": "Know Yourself, Know Your Enemy and You Will Know No Peril.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "授人以渔",
+   "en": "Teaching How to Fish",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知情权理论",
+   "en": "right-to-know theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自知",
+   "en": "Know One’s Self / Self-knowledge",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知人论世",
+   "en": "Know Others and Discuss Their World",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "不愤不启，不悱不发",
+   "en": "Instruct Only Who Is Anxious to Learn; Teach Only Who Wants to  Express Himself but Does Not Know How.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知难行易",
+   "en": "To Act Is Easy; To Know Is Hard.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知易行难",
+   "en": "To Know Is Easy; To Act Is Hard.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "乐天知命",
+   "en": "Rejoice in Complying with Heaven and Know Its Mandate",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "疫情无国界，人间有真情。",
+   "en": "Virus knows no borders, but the worst of times reveals the best in people.",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际援助",
+   "subjectName": "国际援助",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《智能时代：大数据与智能革命重新定义未来》（〔中〕吴军）",
+   "en": "Age of Intelligence: How Big Data and Intelligence Revolution Remake the Future (Wu Jun, China)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "民心无常，惟惠之怀",
+   "en": "The People’s Hearts Know No Constant Leader; They Yearn Only for Kind-hearted Leadership.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《大数据时代》（〔英〕维克托·迈尔–舍恩伯格、〔英〕肯尼斯·库克耶）",
+   "en": "Big Data: A Revolution That Will Transform How We Live, Work, and Think (Viktor Mayer-Schönberger & Kenneth Cukier, UK)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "赛艇运动",
+   "en": "rowing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "荡桨池",
+   "en": "rowing tank",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "拖缆",
+   "en": "towing line",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "单桨",
+   "en": "sweep rowing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "大卫·豪",
+   "en": "David Howe",
+   "source": "社会学名词",
+   "wordNumber": "4.4.7.5",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作理论",
+   "subjectName": "社会工作理论",
+   "publishYear": "2025",
+   "definition": "美国社会工作学者，有影响的社会工作理论家。著有《社会工作理论导论》，将社会工作理论发展分为7个阶段，并且将社会工作理论分为“为社会工作的理论”和“社会工作的理论”两部分。"
+  },
+  {
+   "cn": "四个如何认识",
+   "en": "four points of how to understand",
+   "source": "马克思主义",
+   "wordNumber": "03.0621",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "2000年6月28日江泽民在中央思想政治工作会议上提出“如何认识社会主义发展的历史进程，如何认识资本主义发展的历史进程，如何认识我国社会主义改革实践过程对人们思想的影响，如何认识当今的国际环境和国际斗"
+  },
+  {
+   "cn": "《背叛的天使》",
+   "en": "Unfaithful Angels:How Social Work Has Abandoned Its Mission",
+   "source": "社会学名词",
+   "wordNumber": "4.4.2.18",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的历史发展",
+   "subjectName": "社会工作的历史发展",
+   "publishYear": "2025",
+   "definition": "1994年美国社会工作学者斯佩西(Harry Specht）和寇特妮（Mark E.Courtney）出版的反思社会工作现实发展偏离其使命初衷的著作。书中检视了美国社会工作专业的发展历程，指出目前社会"
+  },
+  {
+   "cn": "跳出历史周期率的第二个答案",
+   "en": "the second answer to the question of how to escape the historical cycle of rise and fall",
+   "source": "马克思主义",
+   "wordNumber": "03.0831",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "习近平在党的二十大报告中强调，“经过不懈努力，党找到了自我革命这一跳出治乱兴衰历史周期率的第二个答案，自我净化、自我完善、自我革新、自我提高能力显著增强，管党治党宽松软状况得到根本扭转，风清气正的党内"
+  },
+  {
+   "cn": "流动浸泡消毒",
+   "en": "flowing immersion disinfection",
+   "source": "消毒学",
+   "wordNumber": "2.1.4.1.1",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "用流动的消毒液对污染物品进行浸泡的处理。"
+  },
+  {
+   "cn": "中国国民党",
+   "en": "China Kwoming Tang",
+   "source": "马克思主义",
+   "wordNumber": "04.0458",
+   "subjectFullName": "马克思主义_其他部分_重要组织政党_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国近代资产阶级政党，前身为孙中山建立的中国同盟会。1927-1949年中国大陆执政。1949年后到中国台湾地区执政。2000年大选失败。2008年至2016年在中国台湾地区再度执政"
+  },
+  {
+   "cn": "热室",
+   "en": "hot cell",
+   "source": "放射卫生学",
+   "wordNumber": "5.4.3.3",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测类型_工作场所监测",
+   "subjectName": "工作场所监测",
+   "publishYear": "2025",
+   "definition": "一种与周围环境隔绝，有通风、电源、上下水和洁净功能，配装适当操作系统和设备的屏蔽小室。用于减少高放射性操作时对外界的辐照。分为合成热室、分装热室。"
+  },
+  {
+   "cn": "热点",
+   "en": "hot spot",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.4.23",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护",
+   "subjectName": "核工业的放射防护",
+   "publishYear": "2025",
+   "definition": "堆芯内最逼近热工安全参数限值的位置，通常也是释热率最大的位置。"
+  },
+  {
+   "cn": "低生育水平",
+   "en": "low birthrate",
+   "source": "社会学名词",
+   "wordNumber": "4.5.2.4",
+   "subjectFullName": "社会学名词_跨学科社会学_人口社会学_育龄妇女",
+   "subjectName": "育龄妇女",
+   "publishYear": "2025",
+   "definition": "在更替水平以下的生育水平。一般当总和生育率等于2.1时视为达到更替水平。"
+  },
+  {
+   "cn": "两个凡是",
+   "en": "tow whatevers",
+   "source": "马克思主义",
+   "wordNumber": "04.0385",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1977年2月7日《人民日报》、《红旗》杂志、《解放军报》社论《学好文件抓好纲》社论中提出的“凡是毛主席作出的决策，我们都坚决拥护;凡是毛主席的指示，我们都始终不渝地遵循”，被简称为“两个凡是”。由当"
+  },
+  {
+   "cn": "低视力",
+   "en": "low vision",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.2.2.1.9",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测",
+   "subjectName": "学生常见疾病监测",
+   "publishYear": "2025",
+   "definition": "双眼中较好眼的最佳矫正视力<4.5（0.3）的状态。"
+  },
+  {
+   "cn": "热持",
+   "en": "hot-holding",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.4.42",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品生产规范",
+   "subjectName": "食品生产规范",
+   "publishYear": "2025",
+   "definition": "保持烹饪后的食物在食用前处于不低于57 ℃的安全温度范围的行为。"
+  },
+  {
+   "cn": "低变体",
+   "en": "low variety",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.013",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "与“高变体”相对。多语社会中声望低的语言或方言。"
+  },
+  {
+   "cn": "木偶戏",
+   "en": "puppet show",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.041",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "表演者在幕后操纵木制（包括其他材质）偶人表演的戏剧形式，起源于原始偶像崇拜、宗教仪式；后来又与民俗紧密结合，最后才演变为一种大众的戏剧形式。就演出形式而言，可概括为提线木偶、杖头木偶、布袋木偶、铁枝木"
+  },
+  {
+   "cn": "低氧",
+   "en": "low oxygen",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.1.24",
+   "subjectFullName": "食品卫生学_食品_粮食",
+   "subjectName": "粮食",
+   "publishYear": "2025",
+   "definition": "粮堆空气中氧气浓度高于2%而低于12%的状态"
+  },
+  {
+   "cn": "霍人",
+   "en": "Ho",
+   "source": "民族学与文化学名词",
+   "wordNumber": "6.003",
+   "subjectFullName": "民族学与文化学_世界民族_亚洲地区",
+   "subjectName": "亚洲地区",
+   "publishYear": "2025",
+   "definition": "印度民族之一。为“蒙达人”的一支。人口约为104 万（1985 年）。主要生活在印度的比哈尔邦和奥里萨邦地区。属尼格罗—澳大利亚人种维达类型。操霍语，属南亚语系蒙达语族，无文字。霍人信万物有灵，盛行祖"
+  },
+  {
+   "cn": "低乳糖配方",
+   "en": "low-lactose formula",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.22.2.9",
+   "subjectFullName": "食品卫生学_食品_特殊食品",
+   "subjectName": "特殊食品",
+   "publishYear": "2025",
+   "definition": "配方中的乳糖由其他碳水化合物部分代替、蛋白质由乳蛋白提供的，适用于乳糖不耐受婴儿的特殊医学用途配方食品。"
+  },
+  {
+   "cn": "低温等离子体",
+   "en": "low-temperature plasma",
+   "source": "消毒学",
+   "wordNumber": "2.2.8",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "温度在60℃以下的等离子体。"
+  },
+  {
+   "cn": "低水平消毒剂",
+   "en": "low level disinfectant",
+   "source": "消毒学",
+   "wordNumber": "3.1.1.15",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "能够杀灭除分枝杆菌以外的细菌繁殖体和亲脂病毒，达到消毒合格要求的消毒剂。"
+  },
+  {
+   "cn": "低水平消毒",
+   "en": "low level disinfection",
+   "source": "消毒学",
+   "wordNumber": "4.6.9.2.3",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "能杀灭细菌繁殖体（分枝杆菌除外）和亲脂病毒，达到消毒合格要求所进行的消毒。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

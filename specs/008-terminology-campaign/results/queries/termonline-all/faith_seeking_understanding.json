@@ -1,0 +1,812 @@
+{
+ "key": "faith seeking understanding",
+ "term": "faith seeking understanding",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T03:39:28+00:00",
+ "status": "ok",
+ "note": "variant=faith seeking understanding; 审定公布名词库=1524; 海峡两岸名词对照库=386; 其他来源数据库=93; 预公布名词数据库=76; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "信仰",
+   "en": "faith",
+   "source": "行为医学名词",
+   "wordNumber": "1.082",
+   "subjectFullName": "行为医学_总论_行为决定健康",
+   "subjectName": "行为决定健康",
+   "publishYear": "2022",
+   "definition": "一种高级精神活动。表现为对人或某种主张、主义极度相信和敬仰，将其作为自己行动的榜样或指南。"
+  },
+  {
+   "cn": "理解",
+   "en": "understanding",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.823",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_社会科学哲学",
+   "subjectName": "社会科学哲学",
+   "publishYear": "2024",
+   "definition": "从19世纪德国哲学中产生的概念（德语词verstehen）。主张社会现象的具有不同于自然科学定律解释的诠释学意义，强调对社会行动的理解区别于对自然物的解释，因为这要求从行动者视角作出对行动的意义理解。"
+  },
+  {
+   "cn": "理解",
+   "en": "understanding",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.02",
+   "subjectFullName": "新闻学与传播学_传播总论_传播行为与活动",
+   "subjectName": "传播行为与活动",
+   "publishYear": "2022",
+   "definition": "①对于传播者意图和传播内容的含义了解和认识的思维过程。②一种用于思考和使用概念来处理与交往对象关系的能力。"
+  },
+  {
+   "cn": "理解",
+   "en": "understanding",
+   "source": "心理学名词",
+   "wordNumber": "04.043",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "将自己置于他人地位，领会他人言语、行为，获得其心理或行为意义的过程。"
+  },
+  {
+   "cn": "可理解性",
+   "en": "understandability",
+   "source": "计算机科学技术名词",
+   "wordNumber": "06.0472",
+   "subjectFullName": "计算机科学技术_软件工程",
+   "subjectName": "软件工程",
+   "publishYear": "2018",
+   "definition": "软件的一个质量特性。它指软件的结构、功能、相关文档、数据及其细节能被该软件作者以外的其他人所理解的难易程度。"
+  },
+  {
+   "cn": "可理解性",
+   "en": "understandability",
+   "source": "自动化名词",
+   "wordNumber": "04.317",
+   "subjectFullName": "自动化科学技术_控制技术_控制技术计算机应用",
+   "subjectName": "控制技术计算机应用",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "信仰疗法",
+   "en": "faith therapy",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.122",
+   "subjectFullName": "自然辩证法_科技伦理_医学伦理学",
+   "subjectName": "医学伦理学",
+   "publishYear": "2024",
+   "definition": "通过修正和改变人的世界观、人生观，塑造信仰体系，从而恢复或者强化患者的心理能力，以达到治愈心理疾病目的的治疗方法。"
+  },
+  {
+   "cn": "诚实信用",
+   "en": "good faith",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "04.034",
+   "subjectFullName": "化工（五）_工程建设_工程项目管理",
+   "subjectName": "工程项目管理",
+   "publishYear": "2021",
+   "definition": "当事人在市场活动中应讲信用，恪守诺言，诚实不欺，在追求自己利益的同时不损害他人和社会利益，要求民事主体在民事活动中维持双方的利益与社会利益的平衡。"
+  },
+  {
+   "cn": "忠实模",
+   "en": "faithful module",
+   "source": "数学名词",
+   "wordNumber": "04.0877",
+   "subjectFullName": "数学_代数学_代数几何学_模论",
+   "subjectName": "模论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "忠实函子",
+   "en": "faithful functor",
+   "source": "数学名词",
+   "wordNumber": "04.1590",
+   "subjectFullName": "数学_代数学_代数几何学_范畴论",
+   "subjectName": "范畴论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "寻道",
+   "en": "track seeking,seek",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.0485",
+   "subjectFullName": "计算机科学技术_计算机硬件_存储设备",
+   "subjectName": "存储设备",
+   "publishYear": "2018",
+   "definition": "磁头从某一磁道移动到目标磁道的过程。"
+  },
+  {
+   "cn": "内容理解",
+   "en": "content understanding",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "09.123",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_智能化工制造系统",
+   "subjectName": "智能化工制造系统",
+   "publishYear": "2024",
+   "definition": "以知识为核心，研究其中包含的对象个体、个体间的关联及其组合语义。"
+  },
+  {
+   "cn": "行为理解",
+   "en": "behavior understanding",
+   "source": "行为医学名词",
+   "wordNumber": "3.304",
+   "subjectFullName": "行为医学_行为的生物学基础_遗传学基础_行为进化",
+   "subjectName": "行为进化",
+   "publishYear": "2022",
+   "definition": "描述、识别和理解个人行为、个人与外界环境之间的交互行为及群体中人与人的交互行为。"
+  },
+  {
+   "cn": "图像理解",
+   "en": "image understanding",
+   "source": "测绘学名词",
+   "wordNumber": "03.584",
+   "subjectFullName": "测绘学_摄影测量学与遥感",
+   "subjectName": "摄影测量学与遥感",
+   "publishYear": "2020",
+   "definition": "利用计算机从影像中提取被摄景物语义信息，以实现识别、分类和判读的过程。"
+  },
+  {
+   "cn": "程序理解",
+   "en": "program understanding",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0146",
+   "subjectFullName": "计算机科学技术_系统软件_语言与编译",
+   "subjectName": "语言与编译",
+   "publishYear": "2018",
+   "definition": "从源程序提取相关必要信息的过程。"
+  },
+  {
+   "cn": "图像理解",
+   "en": "image understanding",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0376",
+   "subjectFullName": "计算机科学技术_人工智能_模式识别",
+   "subjectName": "模式识别",
+   "publishYear": "2018",
+   "definition": "对图像进行处理、分析，以识别图像中的物体和场景的技术。"
+  },
+  {
+   "cn": "寻租",
+   "en": "rent seeking",
+   "source": "经济学名词",
+   "wordNumber": "03.214",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "为了获得和维持垄断地位从而得到垄断利润（亦即垄断租金）所从事的一种非生产性寻利活动。"
+  },
+  {
+   "cn": "寻租",
+   "en": "rent seeking",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0126",
+   "subjectFullName": "管理科学技术_公共管理_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "政府部门及其管理者以其拥有的特权向服务对象谋取非正当利益的行为。 "
+  },
+  {
+   "cn": "寻神说",
+   "en": "God-Seeking",
+   "source": "世界历史名词",
+   "wordNumber": "05.0229",
+   "subjectFullName": "世界历史_近现代俄罗斯、东欧、高加索、中亚_俄罗斯人",
+   "subjectName": "俄罗斯人",
+   "publishYear": "2012",
+   "definition": "俄国自由主义知识分子宣扬的基督教哲学思潮，1905-1907年革命失败后得到传播，其哲学根源之一是弗·索洛维约夫的“万物统一”论。"
+  },
+  {
+   "cn": "寻租",
+   "en": "rent seeking",
+   "source": "资源科学技术名词",
+   "wordNumber": "05.013",
+   "subjectFullName": "资源科学技术_资源管理学",
+   "subjectName": "资源管理学",
+   "publishYear": "2008",
+   "definition": "企业等寻求经济收益如利润最大化机会或政府寻求政治收益如政治局势稳定或政治关系牢固最大化机会的行为或过程。"
+  },
+  {
+   "cn": "可理解性",
+   "en": "understandability",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "寻道",
+   "en": "seek\",\"track seeking",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "理解",
+   "en": "comprehension\",\"understanding",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "共情理解",
+   "en": "empathic understanding",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "图像理解",
+   "en": "image understanding",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "程序理解",
+   "en": "program understanding",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "计算机理解",
+   "en": "computer understanding",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "篇章理解",
+   "en": "text understanding",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "图像理解",
+   "en": "image understanding",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "文章理解",
+   "en": "article understanding",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "感觉寻求",
+   "en": "sensation seeking",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "寻径分析功能",
+   "en": "seek function",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "往复寻道[测试]",
+   "en": "accordion seek",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "寻道时间，查找时间",
+   "en": "seek time",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "指向力矩",
+   "en": "meridian-seeking torque\",\"meridian seeking moment",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "汉语理解",
+   "en": "Chinese language understanding",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自然语言理解",
+   "en": "natural language understanding",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "平均寻道时间",
+   "en": "average seek time",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "汉语语音理解系统，汉语言语理解系统",
+   "en": "Chinese speech understanding system",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "觅食行为",
+   "en": "foraging behavior\",\"food-seeking behavior",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "信",
+   "en": "Good Faith",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知天",
+   "en": "Understanding Heaven",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "图像理解",
+   "en": "image understanding",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自然语言理解",
+   "en": "natural-language understanding",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "实事求是",
+   "en": "Seek Truth from Facts",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "讲信修睦",
+   "en": "Keep Good Faith and Pursue Harmony",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "鉴古知今",
+   "en": "Review the Past to Understand the Present",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "求同存异",
+   "en": "Seek Common Ground While Setting Aside Differences",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "兵贵胜，不贵久",
+   "en": "In War, Seek Quick Victory, Not Prolongation.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "王道无近功",
+   "en": "The Righteous Way Seeks No Immediate Gains.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "知言养气",
+   "en": "Understanding True Meanings of Statements and Cultivating Uprightness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "开物成务",
+   "en": "Understand Things and Succeed in One’s Endeavors",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "君子谋道不谋食",
+   "en": "A Man of Virtue Seeks Dao, Not Livelihood.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "酌奇而不失其贞",
+   "en": "Seek Novelty Without Deviating from the Proper Way",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "心同理同",
+   "en": "People of Similar Natures and Emotions Will Have Similar Understanding.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "下学上达",
+   "en": "Study Concrete Things and Reach to a Higher-level Understanding",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "爱人深者求贤急",
+   "en": "Those Who Most Love the People Will Eagerly Seek Talent.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "善战者求之于势",
+   "en": "A Person Skilled at Warfare Seeks Victory Through Strategic Positioning.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "己欲立而立人",
+   "en": "While Seeking to Establish Oneself, One Strives Also to Establish Others.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "苟利国家，不求富贵",
+   "en": "Seek to Benefit the Country Rather than Personal Wealth and Position",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信仰",
+   "en": "faith",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.083",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人们对于某种理想、主义、宗教或某物某人极度信服、仰慕、崇拜的情感。"
+  },
+  {
+   "cn": "信仰疗法",
+   "en": "faith healing",
+   "source": "医学伦理学名词",
+   "wordNumber": "5.046",
+   "subjectFullName": "医学伦理学_临床诊疗伦理",
+   "subjectName": "临床诊疗伦理",
+   "publishYear": "2025",
+   "definition": "通过修正和改变人的世界观、人生观，塑造信仰体系，从而恢复或者强化患者的心理能力，以达到治愈心理疾病目的的治疗方法。"
+  },
+  {
+   "cn": "信仰治疗",
+   "en": "faith healing",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0241",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "通过祷告或其他能够取得神灵保佑的措施以治疗疾病的方法。"
+  },
+  {
+   "cn": "信息理解",
+   "en": "information understanding",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.015",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "真正明白所告知信息。医务人员在向患者或研究参与者说明医学信息时，应考虑到其具体情况，进行充分、全面、易懂的告知，并及时解答其咨询，其才能真正明白，最终做出决策。"
+  },
+  {
+   "cn": "寻租",
+   "en": "rent seeking",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.4.3.2",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场政府作用",
+   "subjectName": "卫生服务市场政府作用",
+   "publishYear": "2025",
+   "definition": "政府部门及其管理者以其拥有的特权向服务对象谋取非正当利益的行为。"
+  },
+  {
+   "cn": "猎奇心理",
+   "en": "sensation seeking",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.8.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "个体为获得变化的、新奇的、复杂的和强烈的感觉体验，甘愿承担可能的身体、社会、经济和法律等方面的风险而从事某活动的愿望。"
+  },
+  {
+   "cn": "亲骨性核素",
+   "en": "osteo-seeking nuclide",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.33",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "进入体内后趋向于滞留在骨骼的放射性核素。常见体积分布型和表面分布型，前者亲骨性核素置换骨骼中无机盐晶格内的钙而较均匀地分布于骨骼的无机质中，后者亲骨性核素沉积于骨内膜、小梁骨和皮质骨血管表面。"
+  },
+  {
+   "cn": "亲肾性分布",
+   "en": "kidney-seeking distribution",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.35",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "放射性核素集中沉积在肾脏的一种分布形式。"
+  },
+  {
+   "cn": "信息寻租",
+   "en": "information rent-seeking",
+   "source": "卫生经济学名词",
+   "wordNumber": "17.1.1.1.1",
+   "subjectFullName": "卫生经济学名词_信息与技术_卫生信息经济学",
+   "subjectName": "卫生信息经济学",
+   "publishYear": "2025",
+   "definition": "信息拥有者凭借自己所掌握的信息以谋取和维护个人或团体利益最大化的行为或过程。"
+  },
+  {
+   "cn": "求医行为",
+   "en": "health seeking behavior",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.1.1.6",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "在察觉到自己有某种患病可能时，寻求科学可靠的医疗帮助的行为。"
+  },
+  {
+   "cn": "求医行为",
+   "en": "health-seeking behavior",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.041",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "因罹患疾病而寻求医疗帮助的行为。根据作出求医决定的主体不同，分为主动求医行为和被动求医行为。"
+  },
+  {
+   "cn": "亲网状内皮系统分布",
+   "en": "reticulo-endothelium seeking distribution",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.34",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "放射性核素集中沉积在网状内皮系统的一种分布形式。"
+  },
+  {
+   "cn": "实事求是",
+   "en": "seeking truth from facts",
+   "source": "马克思主义",
+   "wordNumber": "01.0245",
+   "subjectFullName": "马克思主义_哲学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东思想活的灵魂之一，中国共产党的根本思想路线。实事求是一语，出自东汉班固所著《汉书·河间献王传》，原意是赞扬河间献王刘德的治学态度。1941年，毛泽东在《改造我们的学习》一文中，对实事求是作了马克"
+  },
+  {
+   "cn": "中国永远不称霸",
+   "en": "China never seeks hegemony",
+   "source": "马克思主义",
+   "wordNumber": "04.0178",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "这是中国对外政策的基本原则之一。毛泽东在上世纪70年代初期提出“深挖洞、广积粮、不称霸”，即已表明中国反对霸权主义，自己决不称霸的方针。邓小平在新的历史时期反复强调这一方针。"
+  },
+  {
+   "cn": "四个如何认识",
+   "en": "four points of how to understand",
+   "source": "马克思主义",
+   "wordNumber": "03.0621",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "2000年6月28日江泽民在中央思想政治工作会议上提出“如何认识社会主义发展的历史进程，如何认识资本主义发展的历史进程，如何认识我国社会主义改革实践过程对人们思想的影响，如何认识当今的国际环境和国际斗"
+  },
+  {
+   "cn": "搁置争议共同开发",
+   "en": "shelving differences and seeking joint development",
+   "source": "马克思主义",
+   "wordNumber": "04.0158",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "在解决某些国际争端时可以暂时不涉及两国的主权争议，共同开发诸如海底石油之类的自然资源。这是一种和平解决国际争端的方式，是邓小平将“一国两制”思想延伸到某些国际问题的处理上提出的解决方法。"
+  },
+  {
+   "cn": "完整准确理解毛泽东思想",
+   "en": "understand Mao Zedong thought completely and accurately",
+   "source": "马克思主义",
+   "wordNumber": "03.0510",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "邓小平在中共十届三中全会上对毛泽东思想的阐述。邓小平指出，毛泽东同志在不同的时间、条件对同样的问题讲的话，有时分寸不同，着重点不同，甚至一些提法也不同。不能够只从个别词句来理解毛泽东思想，而必须从毛泽"
+  },
+  {
+   "cn": "解放思想实事求是",
+   "en": "emancipate the mind seek truth from facts",
+   "source": "马克思主义",
+   "wordNumber": "03.0560",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国共产党在新时期重新确立的思想路线，也是邓小平理论的精髓和活的灵魂。邓小平指出，解放思想就是使思想和实际相符合，是主观和客观相符合，就是实事求是。解放思想与实事求是是一致的，就是在“马克思主义指导下"
+  },
+  {
+   "cn": "应就诊未就诊率",
+   "en": "rate of non-seeking health care when needed",
+   "source": "社会医学名词",
+   "wordNumber": "8.6.1.4",
+   "subjectFullName": "卫生服务研究",
+   "subjectName": "卫生服务利用",
+   "publishYear": "2025",
+   "definition": "两周内患病但未就诊的人次数占两周患病人数的比例。"
+  },
+  {
+   "cn": "自力更生为主争取外援为辅",
+   "en": "selfreliance is the core while seeking foreign aid is the complement",
+   "source": "马克思主义",
+   "wordNumber": "03.0499",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东提出的中国共产党领导革命和建设的一贯主张。既是新民主主义革命时期中国共产党领导革命斗争和开展根据地建设的战略和策略，也是社会主义经济建设以及外交工作的重要方针。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

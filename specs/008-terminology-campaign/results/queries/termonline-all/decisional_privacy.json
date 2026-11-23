@@ -1,0 +1,812 @@
+{
+ "key": "decisional privacy",
+ "term": "decisional privacy",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T03:34:53+00:00",
+ "status": "ok",
+ "note": "variant=decisional privacy; 审定公布名词库=1653; 海峡两岸名词对照库=480; 其他来源数据库=67; 预公布名词数据库=105; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "决策性隐私",
+   "en": "decisional privacy",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.2",
+   "subjectFullName": "新闻学与传播学_政治传播_公民社会与政治传播",
+   "subjectName": "公民社会与政治传播",
+   "publishYear": "2022",
+   "definition": "个人免受不正当的外部干扰做出有关自身的根本性决定的权利。"
+  },
+  {
+   "cn": "决策角色",
+   "en": "decisional role",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0538",
+   "subjectFullName": "管理科学技术_一般管理理论_管理思想史",
+   "subjectName": "管理思想史",
+   "publishYear": "2016",
+   "definition": "企业经理掌握信息和权力形成的做出抉择活动的角色。包括：①企业家角色；②故障排除者角色；③资源分配者角色；④谈判者角色。"
+  },
+  {
+   "cn": "隐私",
+   "en": "privacy",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "17.099",
+   "subjectFullName": "新闻学与传播学_媒体与传播法_新闻传播与人格权",
+   "subjectName": "新闻传播与人格权",
+   "publishYear": "2022",
+   "definition": "个人与社会公共生活无关的而不愿为他人知悉或者受他人干扰的私人事项。"
+  },
+  {
+   "cn": "私密性",
+   "en": "privacy",
+   "source": "城乡规划学名词",
+   "wordNumber": "01.174",
+   "subjectFullName": "城乡规划学_城乡规划总述_规划价值观和规划教育",
+   "subjectName": "规划价值观和规划教育",
+   "publishYear": "2021",
+   "definition": "（1）个人或团体隔绝他们自己或者有关于他们的信息的能力。（2）在私人环境中免于他人监视、观察的权利。"
+  },
+  {
+   "cn": "机密性",
+   "en": "privacy",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0062",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_电子商务",
+   "subjectName": "电子商务",
+   "publishYear": "2016",
+   "definition": "信息只能在所授权的时间、所授权的地点暴露给所授权的个人、机构或计算机软件程序，对于未被授权者，这些信息是不可获得或不可理解的。"
+  },
+  {
+   "cn": "私密性",
+   "en": "privacy",
+   "source": "建筑学名词",
+   "wordNumber": "07.0340",
+   "subjectFullName": "建筑学_城乡规划_城市设计",
+   "subjectName": "城市设计",
+   "publishYear": "2014",
+   "definition": "建筑或城市空间为社会个体或群体提供的一种基于隐私权的身心保护。"
+  },
+  {
+   "cn": "数据隐私",
+   "en": "data privacy",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.655",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "隐藏在数据中，但又不愿被他人知晓的个人敏感信息。"
+  },
+  {
+   "cn": "信息性隐私",
+   "en": "informational privacy",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.201",
+   "subjectFullName": "新闻学与传播学_政治传播_公民社会与政治传播",
+   "subjectName": "公民社会与政治传播",
+   "publishYear": "2022",
+   "definition": "个人、群体或组织自行决定在什么时候、以何种方式、到什么程度，把有关自己的信息被透露给他人的主张。"
+  },
+  {
+   "cn": "网络隐私权",
+   "en": "network privacy ",
+   "source": "编辑与出版学名词",
+   "wordNumber": "06.04.107",
+   "subjectFullName": "编辑与出版学_数字出版_网络出版",
+   "subjectName": "网络出版",
+   "publishYear": "2022",
+   "definition": "在网络传播过程中,公民享有私人生活安宁和私人信息依法受到保护,不被他人非法侵犯、知悉、搜集、利用或公开的一种人身权。"
+  },
+  {
+   "cn": "隐私权纠纷",
+   "en": "privacy dispute",
+   "source": "行为医学名词",
+   "wordNumber": "9.086",
+   "subjectFullName": "行为医学_医患行为_医学行为",
+   "subjectName": "医学行为",
+   "publishYear": "2022",
+   "definition": "医疗卫生服务过程中由涉及患者隐私权引发的纠葛与纷争。"
+  },
+  {
+   "cn": "保密性放大",
+   "en": "privacy amplification",
+   "source": "物理学名词",
+   "wordNumber": "06.0862",
+   "subjectFullName": "物理学_相对论、量子理论_量子信息",
+   "subjectName": "量子信息",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "数据隐私",
+   "en": "data privacy",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0398",
+   "subjectFullName": "计算机科学技术_数据库_数据库新技术",
+   "subjectName": "数据库新技术",
+   "publishYear": "2018",
+   "definition": "（1）数据中直接或间接蕴含的，涉及个人或组织的，不宜公开的，需要在数据收集、数据存储、数据查询和分析、数据发布等过程中加以保护的信息。（2）保护数据隐私的能力，通常采用数据匿名化、数据扰动、数据加密、"
+  },
+  {
+   "cn": "隐私保护",
+   "en": "privacy protection",
+   "source": "计算机科学技术名词",
+   "wordNumber": "10.0189",
+   "subjectFullName": "计算机科学技术_信息安全_信息系统安全防护技术",
+   "subjectName": "信息系统安全防护技术",
+   "publishYear": "2018",
+   "definition": "为保护隐私而采取的措施。"
+  },
+  {
+   "cn": "位置隐私",
+   "en": "location privacy",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0454",
+   "subjectFullName": "计算机科学技术_数据库_数据库新技术",
+   "subjectName": "数据库新技术",
+   "publishYear": "2018",
+   "definition": "移动用户的空间位置，通常是用户的隐私数据。"
+  },
+  {
+   "cn": "查询隐私",
+   "en": "query privacy",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0478",
+   "subjectFullName": "计算机科学技术_数据库_数据库新技术",
+   "subjectName": "数据库新技术",
+   "publishYear": "2018",
+   "definition": "用户提交的查询中包含该用户的隐私信息。"
+  },
+  {
+   "cn": "保密体制",
+   "en": "privacy system",
+   "source": "数学名词",
+   "wordNumber": "012.0299",
+   "subjectFullName": "数学_信息论_控制论_保密学（数学）",
+   "subjectName": "保密学（数学）",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "秘密密钥",
+   "en": "privacy key",
+   "source": "电子学名词",
+   "wordNumber": "05.170",
+   "subjectFullName": "电子学_信息论与信号处理技术",
+   "subjectName": "信息论与信号处理技术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "隐私权",
+   "en": "right of privacy",
+   "source": "生殖医学名词",
+   "wordNumber": "12.005",
+   "subjectFullName": "生殖医学_生殖伦理",
+   "subjectName": "生殖伦理",
+   "publishYear": "2022",
+   "definition": "自然人享有的私人生活安宁与私人信息秘密依法受到保护，不被他人非法侵扰、知悉、收集、利用和公开的一种人格权。"
+  },
+  {
+   "cn": "隐私权",
+   "en": "right of privacy",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "17.1",
+   "subjectFullName": "新闻学与传播学_媒体与传播法_新闻传播与人格权",
+   "subjectName": "新闻传播与人格权",
+   "publishYear": "2022",
+   "definition": "自然人私生活不受他人干扰或个人私事未经允许不得公开的权利，个人可以据此拒绝记者采访、拍照和公开传播，以保护个人生活的安宁。"
+  },
+  {
+   "cn": "保护隐私义务",
+   "en": "privacy protection obligation",
+   "source": "行为医学名词",
+   "wordNumber": "9.023",
+   "subjectFullName": "行为医学_医患行为_医者角色",
+   "subjectName": "医者角色",
+   "publishYear": "2022",
+   "definition": "医生为患者隐私保密的义务。"
+  },
+  {
+   "cn": "决策树分析",
+   "en": "decisional tree analysis",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "数据库保密",
+   "en": "database privacy",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "专用保护",
+   "en": "privacy protection",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "计算机安全与保密",
+   "en": "computer security and privacy",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "秘密密钥",
+   "en": "○1privacy key○2secret key",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "用户标识专用",
+   "en": "privacy of user's identity",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "首因效应",
+   "en": "primacy effect\",\"primary effect",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "判决，决策",
+   "en": "decision",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "妄想性障碍",
+   "en": "delusional disorder",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "群体决策",
+   "en": "group decision making\",\"group decision\",\"collaborative decision making",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "决策分析",
+   "en": "decision analysis",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "决策树",
+   "en": "decision tree",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "决策变量",
+   "en": "decision variable",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "决策",
+   "en": "decision making",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "决策树",
+   "en": "decision tree",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "决策",
+   "en": "decision making",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "统计决策",
+   "en": "statistical decision",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "决策树",
+   "en": "decision tree",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "绝对决策",
+   "en": "absolute decision",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "决策法则",
+   "en": "decision rule",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "隐私",
+   "en": "privacy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "隐私属性",
+   "en": "privacy attribute",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "隐私同态加密",
+   "en": "privacy homomorphic encryption",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "隐私保护协议",
+   "en": "privacy protection agreement",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "隐私权",
+   "en": "right to privacy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《隐私法案》（美国）",
+   "en": "Privacy Act (USA)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "隐私访问控制标准",
+   "en": "privacy access control standard",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "有线等效加密",
+   "en": "wired equivalent privacy (WEP)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全港隐私保护原则",
+   "en": "Safe Harbor Privacy Principles",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据隐私权",
+   "en": "right to data privacy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全隐私工作组",
+   "en": "Security and Privacy Working Group",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "密钥管理协议",
+   "en": "privacy key management (PKM) protocol",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《隐私法扩展令》（加拿大）",
+   "en": "Privacy Act Extension Order (Canada)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "保护公民数据隐私",
+   "en": "protection of citizens’ data privacy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《消费者隐私权利法案》（美国）",
+   "en": "Consumer Privacy Bill of Rights (USA)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《2018年加利福尼亚州消费者隐私法案》（美国）",
+   "en": "California Consumer Privacy Act of 2018 (USA)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "APEC跨境隐私规则体系",
+   "en": "Cross-Border Privacy Rules (Asia-Pacific Economic Cooperation)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《2005年个人数据隐私与安全法》（美国）",
+   "en": "Personal Data Privacy and Security Act of 2005 (USA)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《ISO/IEC 29100-2011 信息技术 安全技术 隐私保护框架》",
+   "en": "ISO/IEC 29100:2011 Information technology — Security techniques — Privacy framework",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《JIS X9250-2017 3750 信息技术 安全技术 保密体系结构框架》",
+   "en": "JIS X9250:2017 3750 Information technology — Security techniques — Privacy framework",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "隐私权",
+   "en": "privacy",
+   "source": "社会学名词",
+   "wordNumber": "1.2.2.4",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_伦理准则",
+   "subjectName": "伦理准则",
+   "publishYear": "2025",
+   "definition": "自然人享有的私人生活安宁与私人信息秘密依法受到保护，不被他人非法侵扰、知悉、收集、利用和公开的一种人格权。涉及的内容包括当事人不愿他人知道或他人不便知道的个人信息，当事人不愿他人干涉或他人不便干涉的个"
+  },
+  {
+   "cn": "隐私",
+   "en": "privacy",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.008",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "个人与社会公共生活无关的而不愿为他人知悉或者受他人干扰的私人事项。"
+  },
+  {
+   "cn": "隐私保护原则",
+   "en": "privacy protection principle",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.042",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "在传染病防控中，只有在不公布个体隐私会对公众健康产生更大侵害的情况下，才可将个体隐私信息向公众适当披露或公布，以最大限度保护个体不愿被他人知晓的个体敏感信息的行为准则。"
+  },
+  {
+   "cn": "隐私保护权",
+   "en": "right of privacy protection",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.031000000000001",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "患者依法享有的不公开与其私人生活有关的事实和秘密的权利。"
+  },
+  {
+   "cn": "知情决策",
+   "en": "informed decision",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.3.27",
+   "subjectFullName": "食品卫生学_总论_食品安全风险分析",
+   "subjectName": "食品安全风险分析",
+   "publishYear": "2025",
+   "definition": "在了解全面信息后做出决策的过程"
+  },
+  {
+   "cn": "决策阈",
+   "en": "decision threshold",
+   "source": "放射卫生学",
+   "wordNumber": "5.6.15",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测质量控制",
+   "subjectName": "辐射监测质量控制",
+   "publishYear": "2025",
+   "definition": "被测量的估计量值，在用于量化物理效应的被测量的给定测量程序，实际测量值超过该值时，可判定该物理效应存在。"
+  },
+  {
+   "cn": "决策模型",
+   "en": "decision modeling",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.9",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "用以表现一个事件中研究对象所做出的各个具体选择，以及选择间的逻辑次序的图表。"
+  },
+  {
+   "cn": "决策",
+   "en": "decision making",
+   "source": "社会学名词",
+   "wordNumber": "4.1.18.6",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_领导",
+   "subjectName": "领导",
+   "publishYear": "2025",
+   "definition": "为了到达目标，采用一定的科学方法和手段，从两个以上的方案中选择一个满意方案的分析判断过程。"
+  },
+  {
+   "cn": "决策树分析",
+   "en": "decision tree analysis",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.6.7",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_分析评估",
+   "subjectName": "分析评估",
+   "publishYear": "2025",
+   "definition": "将决策过程各个阶段之间的结构绘制成树状箭线图，利用其进行选择、分割分析。"
+  },
+  {
+   "cn": "组织决策",
+   "en": "organizational decision-making",
+   "source": "社会学名词",
+   "wordNumber": "2.5.13.10",
+   "subjectFullName": "社会学名词_社会学一般概念群体和组织",
+   "subjectName": "社会学一般概念群体和组织",
+   "publishYear": "2025",
+   "definition": "组织为了实现某一特定目标，依据一定的情况和条件对要解决的问题做出决定，并付诸实施的过程。"
+  },
+  {
+   "cn": "群体决策",
+   "en": "group decision-making",
+   "source": "社会学名词",
+   "wordNumber": "4.1.17.7",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_群体",
+   "subjectName": "群体",
+   "publishYear": "2025",
+   "definition": "群体综合多个个体的资源，从而获得了更全面的信息，为决策提供了更大的选择空间。与“个人决策”相对。但研究指出，未必比个体决策更加客观。"
+  },
+  {
+   "cn": "决策分析模型",
+   "en": "decision analytic model",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.8",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "一种在不确定性情况下进行决策的定量分析方法。呈现各决策可选项的结果及其发生的概率，通过概率加权的方法得到各选项的期望价值并做出决策。"
+  },
+  {
+   "cn": "决策树模型",
+   "en": "decision tree model",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.8.1",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "一种描述在不确定性情况下进行选择的逻辑结构的静态决策分析模型，包括所有相关的决策选择、对应结果及其概率。"
+  },
+  {
+   "cn": "决策能力",
+   "en": "decision making skill",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.5.10.9",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_生活技能教育",
+   "subjectName": "生活技能教育",
+   "publishYear": "2025",
+   "definition": "权衡不同选择并考虑其不同后果以便作出正确决定的能力。有助于个体在面对健康方面的问题时，作出有利于自身健康的决定。生活技能的核心技能之一。"
+  },
+  {
+   "cn": "负责任的决策",
+   "en": "responsible decision-making",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.5.12.5",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_生活技能教育",
+   "subjectName": "生活技能教育",
+   "publishYear": "2025",
+   "definition": "在不同情况下对个人行为和社会交往作出体现关怀并具有建设性意义的选择的能力。"
+  },
+  {
+   "cn": "护理决策",
+   "en": "nursing decision-making",
+   "source": "医学伦理学名词",
+   "wordNumber": "6.02",
+   "subjectFullName": "医学伦理学_护理伦理",
+   "subjectName": "护理伦理",
+   "publishYear": "2025",
+   "definition": "护士根据护理专业理论和经验，针对临床工作中的实际情况，经过调查研究和科学思维，从一系列备选方案中确定最佳护理方案的过程。"
+  },
+  {
+   "cn": "伦理决策",
+   "en": "ethical decision-making",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.035",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人们在实践活动和情境中，基于伦理学的理论、方法、规范、原则及法律规范等，进行伦理判断和行为选择，拟定决策方案的活动过程。"
+  },
+  {
+   "cn": "一级防护",
+   "en": "primary protection",
+   "source": "消毒学",
+   "wordNumber": "1.7.1.1",
+   "subjectFullName": "消毒学_消毒学_防护",
+   "subjectName": "防护",
+   "publishYear": "2025",
+   "definition": "在医疗卫生活动中，为避免相关人员感染而采取的一般等级的防护措施，包括穿戴工作服、工作帽、手套、口罩等。"
+  },
+  {
+   "cn": "基准物质",
+   "en": "primary standard",
+   "source": "消毒学",
+   "wordNumber": "6.1.5",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "具有确定的化学组成和足够的纯度，性质稳定，可用于直接配制标准溶液或标定滴定分析中操作溶液的物质。"
+  },
+  {
+   "cn": "初级限值",
+   "en": "primary limit",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.3.1",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_辐射危险控制",
+   "subjectName": "辐射危险控制",
+   "publishYear": "2025",
+   "definition": "《电离辐射防护与辐射源安全基本标准》中规定的个人受到辐射剂量或辐射危险不得超过的值。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

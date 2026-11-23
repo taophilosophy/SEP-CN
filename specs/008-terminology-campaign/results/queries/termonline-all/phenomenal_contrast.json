@@ -1,0 +1,772 @@
+{
+ "key": "phenomenal contrast",
+ "term": "phenomenal contrast",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T03:39:50+00:00",
+ "status": "ok",
+ "note": "variant=phenomenal contrast; 审定公布名词库=1304; 海峡两岸名词对照库=370; 其他来源数据库=65; 预公布名词数据库=58; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "现象意识",
+   "en": "phenomenal consciousness",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.550",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "具有特定主观感受的经验主体的一种性质。如果主体在一经验中具有特定主观感受，则该主体对于该经验或其中的对象具有现象意识。"
+  },
+  {
+   "cn": "现象环境",
+   "en": "phenomenal environment",
+   "source": "地理学名词",
+   "wordNumber": "24.122",
+   "subjectFullName": "地理学_社会与文化地理学",
+   "subjectName": "社会与文化地理学",
+   "publishYear": "2006",
+   "definition": "存在于个人感知之外的自然和文化环境。它们只有通过社会和文化价值的过滤才能构成行为环境。"
+  },
+  {
+   "cn": "对比",
+   "en": "contrast",
+   "source": "风景园林名词",
+   "wordNumber": "07.0097",
+   "subjectFullName": "风景园林_风景园林建筑_设计技巧与表达",
+   "subjectName": "设计技巧与表达",
+   "publishYear": "2025",
+   "definition": "具有显著的差异的建筑要素之间的对照比较，可以借彼此之间差异来突出各自的特点以求得变化。"
+  },
+  {
+   "cn": "反差",
+   "en": "contrast",
+   "source": "档案学名词",
+   "wordNumber": "05.04.013",
+   "subjectFullName": "档案学_档案保护_档案复制",
+   "subjectName": "档案复制",
+   "publishYear": "2024",
+   "definition": "影像明暗对比的差异程度。"
+  },
+  {
+   "cn": "反差",
+   "en": "contrast",
+   "source": "编辑与出版学名词",
+   "wordNumber": "03.02.061",
+   "subjectFullName": "编辑与出版学_印刷_印前工艺",
+   "subjectName": "印前工艺",
+   "publishYear": "2022",
+   "definition": "图像中不同部位的明暗差别。"
+  },
+  {
+   "cn": "反差",
+   "en": "contrast",
+   "source": "测绘学名词",
+   "wordNumber": "03.074",
+   "subjectFullName": "测绘学_摄影测量学与遥感",
+   "subjectName": "摄影测量学与遥感",
+   "publishYear": "2020",
+   "definition": "被摄景物影像明暗对比的差异程度。"
+  },
+  {
+   "cn": "对比度",
+   "en": "contrast",
+   "source": "医学影像技术学名词",
+   "wordNumber": "03.038",
+   "subjectFullName": "医学影像技术学_数字X射线成像技术_数字影像学基础",
+   "subjectName": "数字影像学基础",
+   "publishYear": "2020",
+   "definition": "影像、物体或信号中的不同区域所呈现的差别。"
+  },
+  {
+   "cn": "衬度",
+   "en": "contrast",
+   "source": "冶金学名词",
+   "wordNumber": "07.0440",
+   "subjectFullName": "冶金学_金属学_检查及分析",
+   "subjectName": "检查及分析",
+   "publishYear": "2019",
+   "definition": "像面上相邻部分间的黑白对比度或颜色差。"
+  },
+  {
+   "cn": "衬度",
+   "en": "contrast",
+   "source": "物理学名词",
+   "wordNumber": "04.1247",
+   "subjectFullName": "物理学_光学、声学_光学_波动光学、信息光学",
+   "subjectName": "波动光学、信息光学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "对比度",
+   "en": "contrast",
+   "source": "植物学名词",
+   "wordNumber": "13.0588",
+   "subjectFullName": "植物学_植物生态学_生态系统与景观生态学",
+   "subjectName": "生态系统与景观生态学",
+   "publishYear": "2019",
+   "definition": "斑块间特征上的差异。"
+  },
+  {
+   "cn": "衬度",
+   "en": "contrast",
+   "source": "生物物理学名词",
+   "wordNumber": "02.325",
+   "subjectFullName": "生物物理学_分子与结构生物学_电子显微三维重构技术",
+   "subjectName": "电子显微三维重构技术",
+   "publishYear": "2018",
+   "definition": "透射电子显微像中两个相邻区域间的强度差；或在照片、显示器中相邻区域间的灰度差。"
+  },
+  {
+   "cn": "对比度",
+   "en": "contrast",
+   "source": "核医学名词",
+   "wordNumber": "03.0449",
+   "subjectFullName": "核医学_核医学设备与操作_设备质量控制",
+   "subjectName": "设备质量控制",
+   "publishYear": "2018",
+   "definition": "成像系统对两种物理性质(密度、放射性分布)相近组织的区分能力。以病灶计数与本底计数之间的相对比值表示，反映在正常组织中区别异常组织的能力。"
+  },
+  {
+   "cn": "对比度",
+   "en": "contrast",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.0689",
+   "subjectFullName": "计算机科学技术_计算机硬件_输入输出设备",
+   "subjectName": "输入输出设备",
+   "publishYear": "2018",
+   "definition": "一幅图不同部分间的颜色和亮度差。"
+  },
+  {
+   "cn": "对比度",
+   "en": "contrast",
+   "source": "化学名词",
+   "wordNumber": "03.0851",
+   "subjectFullName": "化学_分析化学_化学分析",
+   "subjectName": "化学分析",
+   "publishYear": "2016",
+   "definition": "由显色剂参与形成的有色物质的最大吸收波长与显色剂的最大吸收波长之差值。"
+  },
+  {
+   "cn": "对比",
+   "en": "contrast",
+   "source": "计量学名词",
+   "wordNumber": "13.222",
+   "subjectFullName": "计量学_光学_色度",
+   "subjectName": "色度",
+   "publishYear": "2015",
+   "definition": "(1)感知意义定义：同时或相继观看的视场两部分或更多部分表观差异的评定。有视亮度对比、明度对比、色对比、同时对比、相继对比等。(2)物理意义定义：与感知的视亮度对比相关的量，通常由一个包括有关刺激亮度"
+  },
+  {
+   "cn": "反差",
+   "en": "contrast",
+   "source": "微生物学名词",
+   "wordNumber": "09.052",
+   "subjectFullName": "微生物学_微生物学技术",
+   "subjectName": "微生物学技术",
+   "publishYear": "2012",
+   "definition": "被观察物区别于背景的差异程度。"
+  },
+  {
+   "cn": "对照",
+   "en": "contrast",
+   "source": "语言学名词",
+   "wordNumber": "08.156",
+   "subjectFullName": "语言学_修辞学_修辞方法",
+   "subjectName": "修辞方法",
+   "publishYear": "2011",
+   "definition": "修辞格的一种。把两种对立的事物或同一事物的两个对立方面并举出来加以比较。例如，“战士军前半死生，美人帐下犹歌舞。”"
+  },
+  {
+   "cn": "对比度",
+   "en": "contrast",
+   "source": "生态学名词",
+   "wordNumber": "08.051",
+   "subjectFullName": "生态学_景观生态学",
+   "subjectName": "景观生态学",
+   "publishYear": "2006",
+   "definition": "景观中不同斑块之间属性的差异程度。"
+  },
+  {
+   "cn": "反差",
+   "en": "contrast",
+   "source": "电气工程名词",
+   "wordNumber": "22.127",
+   "subjectFullName": "电气工程_电气照明",
+   "subjectName": "电气照明",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "对照",
+   "en": "contrast",
+   "source": "数学名词",
+   "wordNumber": "09.0866",
+   "subjectFullName": "数学_概率论_数理统计_试验设计",
+   "subjectName": "试验设计",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "现象场",
+   "en": "phenomenal field",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "现象环境",
+   "en": "phenomenal environment",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "对比度",
+   "en": "contrast",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "对比",
+   "en": "contrast",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "对比度",
+   "en": "contrast",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "对比度",
+   "en": "contrast",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "对比，反差",
+   "en": "contrast",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "反差",
+   "en": "contrast",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "衬比度",
+   "en": "contrast",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "反差",
+   "en": "contrast",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "对比",
+   "en": "Contrasts",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Bartók, Béla"
+  },
+  {
+   "cn": "反差增强",
+   "en": "contrast enhancement\",\"contrast stretch",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "对比拉伸",
+   "en": "contrast stretching",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "对比遥测亮度计",
+   "en": "contrast telephotometer",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "光[亮]对比",
+   "en": "luminous contrast",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "气候对比",
+   "en": "climatic contrast",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "热对比",
+   "en": "thermal contrast",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "温度对比",
+   "en": "temperature contrast",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "对比阈限",
+   "en": "contrast threshold",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "对比效应",
+   "en": "contrast effect",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "怒涛",
+   "en": "phenomenal sea",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "天象",
+   "en": "Heavenly Phenomena",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据契约",
+   "en": "data contract",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智能合约",
+   "en": "smart contract",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "合同自动化",
+   "en": "contract automation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "接触！",
+   "en": "Contact!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "剑身接触",
+   "en": "contact",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "接触",
+   "en": "contact",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "小世界现象",
+   "en": "small-world phenomenon",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "触球",
+   "en": "touch\",\"ball contact\",\"contact",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "区块链电子合同",
+   "en": "blockchain e-contract",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社会契约论",
+   "en": "social contract theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "履约信息",
+   "en": "contract performance information",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "接触者追踪",
+   "en": "contact tracing",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "接触传播",
+   "en": "contact transmission ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_传播途径_方式",
+   "subjectName": "方式",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "密切接触者",
+   "en": "close contact",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "对比剂",
+   "en": "contrast medium",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.16",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "为增强影像显示效果而注入（或服用）到人体组织或器官的物质。分为阳性和阴性两种类型。"
+  },
+  {
+   "cn": "低对比度分辨力",
+   "en": "low contrast resolution",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.1.5",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_辐射探测基本量",
+   "subjectName": "辐射探测基本量",
+   "publishYear": "2025",
+   "definition": "从一均匀背景中分辨出特定形状和面积的低对比度微小目标的能力。"
+  },
+  {
+   "cn": "超声造影",
+   "en": "contrast-enhanced ultrasound",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.5.5",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_影像学检测",
+   "subjectName": "影像学检测",
+   "publishYear": "2025",
+   "definition": "利用一种影像对比增强剂和血流示踪剂来提高普通二维超声、三维超声的分辨率、影像特 征的敏感性和特异性的技术。可反映和观察正常组织和病变组织的血流灌注情况。"
+  },
+  {
+   "cn": "现象",
+   "en": "phenomenon",
+   "source": "马克思主义",
+   "wordNumber": "01.0058",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“本质”相对。是事物的外在联系和表面特征，是事物本质的外在表现。它是局部的、片面的、易逝的、多变的，是本质的表现，比本质丰富、生动。它可为人的感官直接感知。现象可分为真象和假象。"
+  },
+  {
+   "cn": "社会现象",
+   "en": "social phenomena",
+   "source": "社会学名词",
+   "wordNumber": "2.1.4.1",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会现象",
+   "subjectName": "社会现象",
+   "publishYear": "2025",
+   "definition": "与人类共同体相关的种种活动表现。亦指社会事物在产生、发展和变化中所表现的种种外部形式。依照是否对人类发展有利分为积极与消极两种类型。"
+  },
+  {
+   "cn": "天象",
+   "en": "astronomical phenomena",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.032",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "中国传统天文学的主要内容，主要观测对象有太阳出没、行星运动、月相变化、彗星、流星、流星雨、陨星、日食、月食、极光、新星、超新星、月掩星、太阳黑子等。中国早在距今三四千年前就注意观测和记录天象，此后历代"
+  },
+  {
+   "cn": "契约",
+   "en": "contract",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.127",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "两个或两个以上的个人或组织自由订立的有关某种权利或义务的社会约定形式。其目的是使当事人相互间可以自愿地承担有法律约束力的义务。如果一方当事人违约，另一方就有权对他从法律上予以追究。"
+  },
+  {
+   "cn": "林格现象",
+   "en": "Lindhard phenomenon",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.1.1.2.2.2",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业生理学",
+   "subjectName": "军事作业生理学",
+   "publishYear": "2025",
+   "definition": "从事军事静态作业停止后数分钟内，氧耗量先升高后再下降的现象。"
+  },
+  {
+   "cn": "道德现象",
+   "en": "moral phenomenon",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.012",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人类社会中有关善恶是非的现象或事实。作为伦理学研究的对象，可分为道德意识现象、道德规范现象和道德活动现象。"
+  },
+  {
+   "cn": "现象与本质",
+   "en": "phenomena and essence",
+   "source": "马克思主义",
+   "wordNumber": "01.0060",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "事物的内部联系和外在表现的两个方面。两者对立统一。其统一性在于，二者相互联系、相互依赖。本质是现象的根据；本质决定现象，并通过现象表现出来；现象依赖本质，是本质的表现。二者相互区别，现象是外显的、易变"
+  },
+  {
+   "cn": "社会契约",
+   "en": "social contract",
+   "source": "社会学名词",
+   "wordNumber": "3.6.3.6",
+   "subjectFullName": "社会学名词_分支社会学_政治社会学_民主与选举",
+   "subjectName": "民主与选举",
+   "publishYear": "2025",
+   "definition": "公民个体以意志表达为基础，建立政治社会与国家的政治联合形式及其结果。法国思想家卢梭认为，社会契约是个体脱离自然状态、进入政治社会的路径和保证，是政治体的合法性根基。"
+  },
+  {
+   "cn": "接案",
+   "en": "engagement，contract",
+   "source": "社会学名词",
+   "wordNumber": "4.4.4.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的过程",
+   "subjectName": "社会工作的过程",
+   "publishYear": "2025",
+   "definition": "社会工作者与潜在的服务对象开始接触、了解其需求、帮助其逐渐成为服务对象并接受服务的过程，是社会工作助人活动的开端。"
+  },
+  {
+   "cn": "契约伦理",
+   "en": "contract ethic",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.061",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "按契约履行责任义务，并对违约承担道德后果的伦理规范和要求。是市场经济高度发展的产物。"
+  },
+  {
+   "cn": "雷诺现象",
+   "en": "Raynaud phenomenon，RP",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.2.2.13",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_症状",
+   "subjectName": "症状",
+   "publishYear": "2025",
+   "definition": "在寒冷或情绪激动时指/趾端末梢血管（动脉、微动脉、微静脉及毛细血管）异常收缩导致的阵发性缺血，主要表现为指/趾远端苍白、发绀及发红，常伴疼痛及麻木。持续数分钟至数小时，经保暖及活动后可缓解。"
+  },
+  {
+   "cn": "违拗现象",
+   "en": "phenomenon of negativism",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.3.3.2",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_不同年龄段儿童保健",
+   "subjectName": "不同年龄段儿童保健",
+   "publishYear": "2025",
+   "definition": "幼儿时期儿童已能独立行走，说出自己的需要，有一定自主感，常出现不顺从的言行表现。"
+  },
+  {
+   "cn": "关系合同理论",
+   "en": "relational contract theory",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.60",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "从交易的社会关系嵌入性出发而提出的合同理论。该理论认为交易各方在长期合作中可以不追求对契约的所有细节达成一致，而仅订立一个具有灵活性和适应性的契约。与正式契约依赖法律执行不同，关系契约的执行依赖于契约"
+  },
+  {
+   "cn": "战略性购买合约",
+   "en": "strategic purchasing contract",
+   "source": "卫生经济学名词",
+   "wordNumber": "10.1.3.1.2",
+   "subjectFullName": "卫生经济学名词_卫生服务购买与支付_卫生服务购买",
+   "subjectName": "卫生服务购买",
+   "publishYear": "2025",
+   "definition": "购买者与提供者签订的用以规定卫生服务购买具体内容的合约，如购买者的目标、提供的具体服务类型、数量、价格、提供方式，以及交易和支付的方式、双方的收益和风险的分担机制等。"
+  },
+  {
+   "cn": "道德意识现象",
+   "en": "phenomenon of moral consciousness",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.013",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "道德活动中形成并影响道德活动的具有善恶价值的社会心理和个人心理，以及各种道德思想、观点和理论体系。"
+  },
+  {
+   "cn": "道德规范现象",
+   "en": "phenomenon of moral norms",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.037",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人们在道德生活中应该遵循的行为规范的总和。是一定社会对人们提出的道德要求，用以调整人们之间的利益关系，也是判断人们行为善恶的标准。具有时代性和阶级性，但也具有相对稳定性。"
+  },
+  {
+   "cn": "道德活动现象",
+   "en": "phenomenon of moral activity",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.026",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人们在道德意识支配下，依据道德准则和规范进行的可作善恶是非评价的个体活动和群体活动。可分为内部道德活动现象和外部道德活动现象。前者包括道德选择、道德自我评价、道德自我修养等；后者包括道德舆论、道德宣传"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
