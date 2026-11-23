@@ -79,7 +79,7 @@
 
 ## 2026-11-23：存量缺口自动回填（第二批 200–400）
 
-* 干跑 200 条得 19 条“OK”，逐条核对 SEP 语境后仅 5 条身份确证：Gale, George（科学哲学家，Q133521156，补 1943–）、Gopal Sreenivasan（Q108581195，加拿大）、Hippobotus（Q2614752，希腊）、Kolodny, Niko（Q16403824，美国）、Lorki, Joshua（Q462009，西班牙／犹太改宗者，活动期 1400–1419）。
+* 工具：`bin/backfill_auto.py --start 200 --limit 200` 干跑 200 条，得 19 条“OK”（代理用 `127.0.0.1:7890`，192.168.5.4:7890 TLS 握手失败已弃），逐条核对 SEP 语境后仅 5 条身份确证：Gale, George（科学哲学家，Q133521156，补 1943–）、Gopal Sreenivasan（Q108581195，加拿大）、Hippobotus（Q2614752，希腊）、Kolodny, Niko（Q16403824，美国）、Lorki, Joshua（Q462009，西班牙／犹太改宗者，活动期 1400–1419）。
 * 排除 14 条撞名/身份不符：Gerbrandy（描述计算机科学家、籍属记意大利）、Grant, Robert（美国法学家）、Green, Adam（歌手）、Hanson, William（土木工程师）、Hill, Thomas（作家）、Hippo（法国文学批评家）、Homer（美国物理学家，1942–2018）、Howard（单名物理学家）、Hyland, Martin（数学家且无生卒）、Iris（法律数据库）、John Pollock（英国史家）、Jonah（作家）、Klein, Peter（德国作家）、Ladner, Richard E.（生年 2000 为占位）。全部写入 EXCLUDE 并在证据 TSV 记理由。
 * 定点写入脚本 `bin/backfill_batch2_manual.py`（只写上述 5 行，依据列追加 Wikidata 凭证）。
 * `registry_azsort` 守恒 4597 行；`check_terms` 硬错误 0（人名缺项告警 781→775）；`check_all` 17 项全绿。
