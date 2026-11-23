@@ -394,6 +394,47 @@ export default defineConfig({
   lang: 'zh-CN',
   title: 'SEP 中文版',
   description: '斯坦福哲学百科全书（SEP）简体中文翻译项目，与英文原文对照阅读',
+  // 语言切换（VitePress 原生 locales）：root=中文词条，/yuanwen/=英文原文页。
+  // 两个 locale 只是同一站点树的路径前缀语义（yuanwen 页即中文词条的英文镜像），
+  // 页面集不受 locales 影响。en locale 的 themeConfig 覆盖根级同名键（浅合并：
+  // 对象键整体覆盖，故 outline/editLink 须连子键一起重给）。切换目标由
+  // themeConfig.i18nRouting 接管：按 frontmatter.enPath/zhPath 配对直达，
+  // 无配对页回落 locale 首页、切换器由 pageClass='no-langswitch-page'
+  // 藏掉（transformPageData 注入 + vp-compat.css，specs/037 2026-11-23）。
+  locales: {
+    root: { lang: 'zh-CN', label: '简体中文' },
+    // 键必须是「不带前导斜杠的目录名」（getLocaleForPath 按正则 ^/<键>/ 匹配
+    // relativePath，带斜杠的键会拼成 ^//yuanwen/ 永不命中，lang="en" 就不会
+    // 落到 HTML——2026-11-23 ad 片构建实测 0 页 en 后按 node 源码定位）。
+    yuanwen: {
+      lang: 'en',
+      label: 'English',
+      themeConfig: {
+        nav: [
+          { text: 'Home', link: '/' },
+          { text: 'Categories', link: '/mu-lu-s' },
+          { text: 'Glossary', link: '/qian-yan/ci-hui-biao' },
+          { text: 'Terminology', link: '/shu-yu-biao' },
+        ],
+        outline: { level: [2, 3], label: 'On this page' },
+        docFooter: { prev: 'Previous', next: 'Next' },
+        returnToTopLabel: 'Return to top',
+        sidebarMenuLabel: 'Menu',
+        langMenuLabel: 'Change language',
+        editLink: {
+          pattern: 'https://github.com/taophilosophy/SEP-CN/edit/main/:path',
+          text: 'Edit this page',
+        },
+        lastUpdated: { text: 'Last updated' },
+        darkModeSwitchLabel: 'Appearance',
+        lightModeSwitchTitle: 'Switch to light mode',
+        darkModeSwitchTitle: 'Switch to dark mode',
+        navMenuLabel: 'Menu',
+        extraMenuLabel: 'More',
+        skipToContentLabel: 'Skip to content',
+      },
+    },
+  },
   // 死链检查：2026-11-13 关闭全局豁免（原为全局放行 true）。
   // VitePress 把死链记为构建硬失败（renderStart 抛错），故下列数组仅登记已核实的存量缺口，
   // 任何新增死链都会阻断构建。台账：
@@ -532,6 +573,17 @@ export default defineConfig({
       ...dirSidebars,
     },
     outline: { level: [2, 3], label: '本页目录' },
+    // 语言切换目标接管（VitePress 原生 useLangs({linkToCorrespondingPage:true})
+    // 调此函数，类型 I18nRouting = (data, route, targetLocale) => string）：
+    // 配对页直达对应中/英文页——enPath/zhPath 由 transformPageData 按
+    // zhToEn/enToZh 配对表注入 frontmatter；无配对页回落 locale 首页兜底
+    // （该页切换器同时被 pageClass=no-langswitch-page 隐藏，正常浏览不会
+    // 看到切换器，本函数只是构建期 href 的确定性兜底）。
+    i18nRouting: (data, _route, targetLocale) => {
+      const fm = (data.page.value?.frontmatter ?? {}) as Record<string, string>
+      const toEn = targetLocale === 'yuanwen'
+      return (toEn ? fm.enPath : fm.zhPath) || (toEn ? '/yuanwen/' : '/')
+    },
     docFooter: { prev: '上一篇', next: '下一篇' },
     returnToTopLabel: '回到顶部',
     sidebarMenuLabel: '目录',
@@ -634,6 +686,15 @@ export default defineConfig({
     if (en) pageData.frontmatter.enPath = '/' + en.replace(/\.md$/, '')
     const zh = enToZh[rel]
     if (zh) pageData.frontmatter.zhPath = '/' + zh.replace(/\.md$/, '')
+    // 语言切换器按页显隐（specs/037 2026-11-23）：原生 VPNavTranslations 的
+    // show 只看 locales 数量（≥2 即渲染），无页面级开关；全站只有配对页才有
+    // 对应译文页，其余页切换只会跳 locale 首页。pageClass 挂 Layout 根 div
+    // （DefaultTheme/Layout.vue :class="[frontmatter.pageClass, ...]"，SSR
+    // 即输出、客户端路由切换响应式更新），vp-compat.css 据此藏掉两处切换器
+    // ——比客户端 watch 打 body 类少一次首屏闪现。
+    if (!pageData.frontmatter.pageClass && !en && !zh) {
+      pageData.frontmatter.pageClass = 'no-langswitch-page'
+    }
   },
   vite: {
     build: {

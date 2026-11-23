@@ -35,3 +35,19 @@
 - 审计：VitePress 本体零改动（本会话全部提交落在 config.mts＋theme/ 自有文件；node_modules/vitepress 与默认主题未动）；换肤层有 13 处引用内部类名的选择器。
 - 解耦：新建 `.vitepress/theme/vp-compat.css` 作**全站唯一桥接层**——顶栏双态（VPNavBar.top/VPLocalNav）、侧栏（VPSidebar）、页内目录（VPDocAsideOutline）、正文容器（vp-doc 链接/标题）、VPDoc padding 清零、bili-mode 与 in-iframe 两张沉浸隐藏清单全部迁入，文件头注列全依赖的内部类名清单；sep-theme.css 瘦身为纯自有类（body 渐变＋entry-*＋sep-footer）；custom.css 两张隐藏清单迁出后仅存 .vp-doc 性能块与 bili 布局改排（既有特性内聚，不动）；index.ts 桥接层最后加载。
 - 验证：dev 重启后词条页计算样式逐项核对（nav 透明+top 类、footer #f9f5f3、sidebar #f2ece8、banner/meta/footer 在位）＋截图目验，与解耦前渲染一致。
+
+## 2026-11-24 语言切换器（VitePress 原生 locales）
+
+- 指令：“为vitepress 增加 en markdown 语言选择”；两项裁定：①走原生方案（联网读官方 i18n 文档＋按 2.0-alpha.21 node/client 源码逐层确认 useLangs→resolveLocaleLink→getLocaleForPath→resolveSiteDataByRoute 全链）②无中英配对的页面不显示切换器（与双语对照按钮 enPath 缺失不渲染一致）。
+- 落地文件：`.vitepress/config.mts`（siteConfig.locales：root zh-CN＋yuanwen en，en locale themeConfig 文案英化；themeConfig.i18nRouting 接管切换目标；transformPageData 给无配对页注入 frontmatter.pageClass='no-langswitch-page'）、`.vitepress/theme/vp-compat.css`（.no-langswitch-page 藏 .VPNavTranslations 桌面 flyout 与 .VPNavScreenTranslations 手风琴两处＋头注补内部类名依赖）。主题组件与 index.ts 零改动（初版客户端 watch 打 body 类的 LangSwitchGuard.vue 方案被构建期 pageClass 方案取代后删除——SSR 即输出无首屏闪现、路由切换响应式更新）。
+- 架构要点：
+  - **locales 键必须是不带前导斜杠的目录名**（`yuanwen` 而非 `'/yuanwen/'`）：getLocaleForPath 用正则 `^/<键>/` 匹配 relativePath，带斜杠键拼成 `^//yuanwen/` 永不命中——首轮 ad 片构建 0 页 lang=en 后按 node 源码定位修正。
+  - 切换目标 i18nRouting 函数（类型 I18nRouting）：配对页读 frontmatter.enPath/zhPath 直达（SSR href 已落静态 HTML），无配对回落 locale 首页兜底（该页切换器同时被 CSS 藏掉）。
+  - en locale themeConfig 浅合并语义：对象键整体覆盖根级同名键，故 outline/editLink 须连子键一起重给（verify 脚本有断言）；search.options.locales.root 的搜索中文文案在 search 插件层级，en locale 无对应键自动回退主题默认英文。
+  - 移动端事实（2.0-alpha.21 实测）：窄屏 VPNavBar 仍渲染（display:block，specs/038 时代“槽位被吞”结论已过时），hamburger 可见 → VPNavScreen 手风琴可达；VPLocalNav menu 钮打开的是 sidebar 抽屉（openSidebar）而非 nav screen。
+- 验证凭证（specs/037-vitepress-sep-theme/results/）：
+  - `verify-langswitch.mjs` 静态 18 项全绿（locales 结构、i18nRouting 五路映射、浅合并防丢、pageClass/css 挂钩）。
+  - `SEP_SHARD=ad` 构建绿（208.7s，死链检查照常开）；产物 lang 统计 657 页 en（yuanwen）＋519 页 zh-CN；样例页 href：中文页 `/yuanwen/a/abduction`、英文页回程 `/a/abduction`、README 页 `/yuanwen/README`（首页与原文库首页配对成立）；CSS 规则 `.no-langswitch-page .VPNavTranslations,...{display:none}` 落 `assets/style.C4AAvTHc.css`；bili 双语类无回归。
+  - `verify-langswitch-browser.mjs`（CDP，preview 实测）：桌面 9/9——配对页 flyout 可见（w=75）、点击 English SPA 导航到 /yuanwen/a/abduction（window 标记存活＝无整页刷新）、客户端 html lang=en、回程 SPA 导航、无配对页 /mu-lu-s 切换器 display:none 且 Layout 根含 no-langswitch-page；移动端 3/9→3/3——390px 下 nav screen 手风琴无配对页 display:none、配对页可见（h=21）。
+- 踩坑记录：①`vitepress preview --outDir` 不生效（preview 按 config.outDir；不带 SEP_SHARD 时指向 dist/ 旧全量产物）——造成“hydration 失败”的半小时误判，产物 hash 对账后定位；②sirv（preview）启动时预载文件快照，构建收尾窗口启动会服务旧 HTML，改带 `SEP_SHARD=ad` 重启解决；③复合命令 `verify | tail && build` 中管道吞掉 verify 退出码，`&&` 未短路——两验证各自独立跑；④CDP 冷加载首页 hydration >1.5s，click 落在无监听阶段，等 `globalThis.__VITEPRESS__===true` 再点击（app chunk mount 前置标志）。
+- 回归面：双语对照面板（BilingualCompare）零改动；body 类体系与 Layout 根 pageClass 互不干扰；页面集/死链面不变（locales 只加路径前缀语义，srcExclude/分片排除面未动）；check_all 复跑 17 项全绿。

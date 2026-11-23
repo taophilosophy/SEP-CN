@@ -8,6 +8,10 @@
    - 顶栏：.VPNavBar（双态类 .top = isTop 滚动判定）、.title、
      .VPNavBarMenuLink、.VPNavBarHamburger、.VPNavBarAppearance、
      .VPSocialLink、.VPNavBarSearch .DocSearch-Button
+   - 语言切换器（specs/037 2026-11-23）：.VPNavTranslations（桌面 flyout）、
+     .VPNavScreenTranslations（移动端手风琴）——config transformPageData 给
+     无中英配对页注入 frontmatter.pageClass='no-langswitch-page'（挂 Layout
+     根 div），无配对页两处皆藏
    - 移动端顶栏：.VPLocalNav
    - 侧栏：.VPSidebar、.VPSidebarItem.level-N.is-active
    - 页内目录：.VPDocAsideOutline、.outline-marker
@@ -52,6 +56,19 @@
 
 .VPSocialLink svg {
   fill: currentColor;
+}
+
+/* ------------------------------------ 语言切换器按页显隐 ---- */
+/* 原生 VPNavTranslations 的 show 只看 locales 数量（≥2 即渲染），没有
+   页面级开关；全站只有配对页（enPath/zhPath 存在）才有对应译文页，其余
+   页面点切换只会跳 locale 首页。transformPageData 给无配对页 frontmatter
+   注入 pageClass='no-langswitch-page'（挂 DefaultTheme Layout 根 div，
+   SSR 即输出、路由切换响应式更新），此处藏掉桌面 flyout 与移动端手风琴
+   两处。display:none 让 overflow 引擎（useNavOverflow）把该集群宽度计 0，
+   不干扰导航收纳计算（collapsed 单元本就用 visibility 隐藏保持可测）。 */
+.no-langswitch-page .VPNavTranslations,
+.no-langswitch-page .VPNavScreenTranslations {
+  display: none;
 }
 
 /* 本地搜索按钮：浅色药丸（SEP 白底搜索框同款，红带/羊皮纸两态通用） */
