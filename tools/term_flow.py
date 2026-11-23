@@ -108,6 +108,32 @@ def apply(spec_path, dry):
 
     reg_keys = {key_of(l) for l in reg if l.startswith('| ')}
     ren_keys = {key_of(l) for l in ren if l.startswith('| ')}
+    # 中文主形查重（2026-11-23 加）：同主形不同英文＝疑似同概念异拼写重复登记，
+    # 只告警不拦截（同形不同义按 rules/03 分行时需人工判定）。
+    zh_main = {}
+    for l in reg:
+        if not l.startswith('| '):
+            continue
+        cells = [c.strip() for c in l.strip().strip('|').split('|')]
+        if len(cells) != 6 or cells[2] in ('—', ''):
+            continue
+        m = cells[2].split('（')[0].strip('《》')
+        if m:
+            zh_main.setdefault(m, []).append(cells[0])
+    zh_warn = []
+    for sp in rows:
+        if sp.get('table', 'term') != 'term':
+            continue
+        m = sp.get('zh', '').split('（')[0].strip('《》')
+        if not m or m not in zh_main:
+            continue
+        en_n = norm_key(sp['en'])
+        olds = [k for k in zh_main[m]
+                if en_n not in {norm_key(x) for x in k.split('/')}]
+        if olds:
+            zh_warn.append('%s（%s 已有：%s）' % (sp['en'], m, olds[0]))
+    if zh_warn:
+        print('  告警 中文主形已存在（同概念异拼写？）：' + '；'.join(zh_warn))
     miss, dup, ok_r = [], 0, 0
     for sp in rows:
         reg_row = build_row(sp, sp.get('date', date))
