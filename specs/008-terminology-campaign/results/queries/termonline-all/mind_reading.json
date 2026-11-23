@@ -1,0 +1,802 @@
+{
+ "key": "mind reading",
+ "term": "mind reading",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T04:13:02+00:00",
+ "status": "ok",
+ "note": "variant=mind reading; 审定公布名词库=4598; 海峡两岸名词对照库=918; 其他来源数据库=153; 预公布名词数据库=92; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "读心术",
+   "en": "mind-reading",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.499",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "常人所具备的“读懂”他人心理状态与活动的技能。对这种能力的解释主要有两种：人们对这一能力的运用是基于常识心理学的基本理论所做的推理，是为“理论观”；人们在理解和预测他人的心理和行为时，是以自身的心理结"
+  },
+  {
+   "cn": "读心症",
+   "en": "mind-reading",
+   "source": "医学名词 第四分册",
+   "wordNumber": "08.081",
+   "subjectFullName": "医学_精神病学",
+   "subjectName": "精神病学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "心智",
+   "en": "mind",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.560",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "与心理及智能活动相关的一切精神现象。如意识、知觉、思想、记忆、注意、意志、情绪、感受等。"
+  },
+  {
+   "cn": "心理",
+   "en": "mind",
+   "source": "行为医学名词",
+   "wordNumber": "4.001",
+   "subjectFullName": "行为医学_行为的心理学基础_心理与行为",
+   "subjectName": "心理与行为",
+   "publishYear": "2022",
+   "definition": "人脑对客观现实的主观反映。属于脑的功能，在实践活动中不断发生与发展。"
+  },
+  {
+   "cn": "心理",
+   "en": "mind",
+   "source": "计划生育名词",
+   "wordNumber": "04.001",
+   "subjectFullName": "计划生育_生殖健康心理卫生",
+   "subjectName": "生殖健康心理卫生",
+   "publishYear": "2019",
+   "definition": "人的头脑对客观规律的反映。包括感觉、知觉、记忆、思维、意志和情绪等。也可泛指人的内心活动。"
+  },
+  {
+   "cn": "心理",
+   "en": "mind",
+   "source": "心理学名词",
+   "wordNumber": "04.001",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "人脑对客观现实的主观反映。是脑的功能，在实践活动中不断地发生和发展。"
+  },
+  {
+   "cn": "正念",
+   "en": "mindfulness",
+   "source": "睡眠医学名词",
+   "wordNumber": "5.008",
+   "subjectFullName": "睡眠医学_睡眠疾病治疗学_认知行为治疗",
+   "subjectName": "认知行为治疗",
+   "publishYear": "2022",
+   "definition": "能进行深入观察的觉照。当完全地觉知并深入地观察某个对象时，能观和所观的界限就逐渐消失，能观和所观成为一体。是一种消解压力、自我放松的方法。"
+  },
+  {
+   "cn": "正念",
+   "en": "mindfulness",
+   "source": "行为医学名词",
+   "wordNumber": "20.066",
+   "subjectFullName": "行为医学_行为干预与治疗_行为治疗",
+   "subjectName": "行为治疗",
+   "publishYear": "2022",
+   "definition": "通过有目的地将注意力集中于当下，不加评判地觉知一个又一个瞬间所呈现的体验而涌现的一种觉知力。包括状态正念、特质正念、正念训练和正念认识过程。"
+  },
+  {
+   "cn": "解读",
+   "en": "reading",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.055",
+   "subjectFullName": "新闻学与传播学_传播总论_传播研究基础",
+   "subjectName": "传播研究基础",
+   "publishYear": "2022",
+   "definition": "文本接收者赋予文本意义的过程。"
+  },
+  {
+   "cn": "阅读",
+   "en": "reading",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.07.001",
+   "subjectFullName": "编辑与出版学_编辑_阅读与评论",
+   "subjectName": "阅读与评论",
+   "publishYear": "2022",
+   "definition": "读者从读物中获取信息，并进行加工，产生理解与情感效应的精神活动。"
+  },
+  {
+   "cn": "文章审读",
+   "en": "reading",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.08.053",
+   "subjectFullName": "编辑与出版学_编辑_报刊编辑",
+   "subjectName": "报刊编辑",
+   "publishYear": "2022",
+   "definition": "通过对样报样刊的通读，发现编校问题，提升报刊质量的编辑活动。"
+  },
+  {
+   "cn": "读数",
+   "en": "reading",
+   "source": "地球物理学名词",
+   "wordNumber": "10.0046",
+   "subjectFullName": "地球物理学_地球物理信息学_地球物理观测技术",
+   "subjectName": "地球物理观测技术",
+   "publishYear": "2022",
+   "definition": "仪表、机器上，由指针或水银柱等指出的刻度的数目。"
+  },
+  {
+   "cn": "阅读",
+   "en": "reading",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "07.061",
+   "subjectFullName": "图书馆·情报与文献学_信息服务与用户研究_阅读辅导",
+   "subjectName": "阅读辅导",
+   "publishYear": "2019",
+   "definition": "一种从书面语言和其他书面符号中获得意义的社会行为、实践过程和心理过程。阅读能提高人们的社会文化素质，加强社会意识，促进思想交流，是促进社会健康发展的一项重要人类活动。"
+  },
+  {
+   "cn": "解读",
+   "en": "reading",
+   "source": "遗传学名词",
+   "wordNumber": "03.461",
+   "subjectFullName": "遗传学_分子遗传学",
+   "subjectName": "分子遗传学",
+   "publishYear": "2007",
+   "definition": "蛋白质合成时密码子被译码为相应的氨基酸。"
+  },
+  {
+   "cn": "测序片段",
+   "en": "reads",
+   "source": "生物物理学名词",
+   "wordNumber": "06.087",
+   "subjectFullName": "生物物理学_生物信息学_遗传与表观遗传数据分析",
+   "subjectName": "遗传与表观遗传数据分析",
+   "publishYear": "2018",
+   "definition": "高通量测序技术产生的短核苷酸序列。常为几十到数百个碱基。"
+  },
+  {
+   "cn": "读长",
+   "en": "reads",
+   "source": "计算机科学技术名词",
+   "wordNumber": "12.0132",
+   "subjectFullName": "计算机科学技术_计算机交叉学科_生物信息学",
+   "subjectName": "生物信息学",
+   "publishYear": "2018",
+   "definition": "一次测序能够完成的DNA片段的核苷酸数。"
+  },
+  {
+   "cn": "思维导图",
+   "en": "mind map",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.216",
+   "subjectFullName": "自然辩证法_科学技术方法论_思维与创造",
+   "subjectName": "思维与创造",
+   "publishYear": "2024",
+   "definition": "围绕一个中心主题，把相关各级主题用辐射线的形式相连，图文并用，用层级图形式表现各级主题的相关关系，实现发散性思维的一种图形思维工具。"
+  },
+  {
+   "cn": "思想管理者",
+   "en": "mind manager",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "18.125",
+   "subjectFullName": "新闻学与传播学_传播政治经济研究_重要概念",
+   "subjectName": "重要概念",
+   "publishYear": "2022",
+   "definition": "控制和监督人们的思想、为统治集团利益服务的媒体、政府信息生产部门以及教育部门。这一概念由美国传播学者赫伯特·席勒(Herbert Schiller)在其1973年出版的《思想管理者》(The Mind"
+  },
+  {
+   "cn": "理念识别",
+   "en": "mind identity",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "20.106",
+   "subjectFullName": "新闻学与传播学_公共关系_公关关系技术",
+   "subjectName": "公关关系技术",
+   "publishYear": "2022",
+   "definition": "企业在长期的经营实践活动中形成的与其他企业不同的价值观、宗旨、精神等，涉及企业如何确认“我是谁”“我的愿景是什么”，以及企业如何在信念层面看待自我与他者、自我与社会、自我与自然的关系。"
+  },
+  {
+   "cn": "意守",
+   "en": "mind concentration",
+   "source": "运动医学名词",
+   "wordNumber": "08.105",
+   "subjectFullName": "运动医学_中医药应用",
+   "subjectName": "中医药应用",
+   "publishYear": "2019",
+   "definition": "摄心归一，专其一处，即气功练习中，在身心安静的情况下，把意念“放”在身体的某一部位的练功形式。"
+  },
+  {
+   "cn": "解读",
+   "en": "reading",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "读",
+   "en": "read",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "破坏性读出",
+   "en": "destructive reading\",\"destructive read",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "反读",
+   "en": "reverse read\",\"backward read",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "心身关系",
+   "en": "mind body relation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "心身问题",
+   "en": "mind body problem",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "心理理论",
+   "en": "theory of mind",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "阅读理解",
+   "en": "reading comprehension",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "阅读障碍",
+   "en": "reading disorder",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "阅读准备",
+   "en": "reading readiness",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "阅读测验",
+   "en": "reading test",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "读框",
+   "en": "reading frame",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "倒镜读数",
+   "en": "reversed reading",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "地图阅读",
+   "en": "map reading",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "读数镜",
+   "en": "reading glass",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "读数显微镜",
+   "en": "reading microscope",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "读数线",
+   "en": "reading line",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "概略读数",
+   "en": "rough reading",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "记录高差仪",
+   "en": "reading statoscope",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "逆时针方向读数，反时针方向读数",
+   "en": "anticlockwise reading",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "心",
+   "en": "Heart / Mind",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "心知",
+   "en": "Mind Cognition",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "成心",
+   "en": "Biased Mind",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "思维导图",
+   "en": "mind map",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "狂者胸次",
+   "en": "An Unrestrained Mind",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "道心",
+   "en": "Moral Mind / Moral Consciousness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "玄览",
+   "en": "Xuanlan ( Pure-minded Contemplation )",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "正心",
+   "en": "Rectify One’s Heart / Mind",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "教化",
+   "en": "Shaping the Mind Through Education",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "有容乃大",
+   "en": "A Broad Mind Achieves Greatness.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "解蔽",
+   "en": "Clear the Mind of Enigmas",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "心斋",
+   "en": "Pure State of the Mind",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "心术",
+   "en": "The Art of the Mind",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "县解",
+   "en": "Freeing the Mind from Bias",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "畅神",
+   "en": "Free Flow of One’s Mind",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "温柔敦厚",
+   "en": "Mild, Gentle, Sincere, and Broad-minded",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "澄怀味像",
+   "en": "Clear the Mind to Savor the Image",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "洞性灵之奥区",
+   "en": "Penetrate the Depths of the Human Mind",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "致乐以治心",
+   "en": "Cultivate the Mind by Immersing in Music",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "症候阅读法",
+   "en": "symptomatic reading",
+   "source": "马克思主义",
+   "wordNumber": "05.0066",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "来自于阿尔都塞（Louis Althusser）《读〈资本论〉》依据症候的阅读。依据文本表现出的各种“症候”，包括沉默、缺失、空白和严格性上的疏漏等，来揭示文本的深层结构，这一方法是阿尔都塞从精神分析"
+  },
+  {
+   "cn": "训读",
+   "en": "interpretative reading",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0068",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "把本地方言不用的字读作该方言相应义项的同义字或近义字的读音。与日本汉字读音的“音读”相对。这是一种近似于翻译而不是源于语音对应规律的读音习惯或传统。例如海口话“叶”的读音是［ȵio33］，为训读，其本"
+  },
+  {
+   "cn": "音读",
+   "en": "phonetic reading",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0069",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "与日本汉字读音的“训读”相对。指由古代中国直接或间接传入日本的基于汉语的汉字读音。如“木”读“もく”[moku]或“ぼく”[boko]。依汉字传入时间和地点的不同可分为古音、吴音、汉音、新汉音、唐音、"
+  },
+  {
+   "cn": "交叉参照",
+   "en": "read across",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.2.61",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "根据源化学物质的终点信息预测另一种结构相似的化学物质相同终点信息的方法。"
+  },
+  {
+   "cn": "阅读困难",
+   "en": "impairment in reading, dyslexia",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.2.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_儿童少年心理卫生问题",
+   "subjectName": "儿童少年心理卫生问题",
+   "publishYear": "2025",
+   "definition": "智力正常、无明显的神经或器质性损伤、并且享有同等的受教育水平下，儿童在阅读和拼写方面存在困难，发展水平明显落后于同龄人的现象。"
+  },
+  {
+   "cn": "解放思想实事求是",
+   "en": "emancipate the mind seek truth from facts",
+   "source": "马克思主义",
+   "wordNumber": "03.0560",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国共产党在新时期重新确立的思想路线，也是邓小平理论的精髓和活的灵魂。邓小平指出，解放思想就是使思想和实际相符合，是主观和客观相符合，就是实事求是。解放思想与实事求是是一致的，就是在“马克思主义指导下"
+  },
+  {
+   "cn": "领导阶级",
+   "en": "leading class",
+   "source": "马克思主义",
+   "wordNumber": "03.0110",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "阶级社会中在经济、政治和意识形态等各个领域占据统治地位和领导地位的阶级。不同社会的领导阶级是不同的。奴隶社会是奴隶主阶级；封建社会是地主阶级；进入资本主义社会后是资产阶级；社会主义社会是无产阶级。在社"
+  },
+  {
+   "cn": "抚养制度",
+   "en": "child-rearing system",
+   "source": "社会学名词",
+   "wordNumber": "3.1.1.29",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_家庭",
+   "subjectName": "家庭",
+   "publishYear": "2025",
+   "definition": "有关家庭中长辈对未成年晚辈（包括无行为能力人）进行抚育和教养的制度规范。"
+  },
+  {
+   "cn": "家庭养育评估",
+   "en": "family rearing assessment",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.3.7",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "了解影响儿童心理行为发展相关家庭环境因素的一类评估。家庭环境因素包括家庭类型、父母或抚养人的文化水平、经济收入、养育方式、亲子依恋关系、父母的婚姻稳定性、是否单亲家庭与家庭养育环境等。"
+  },
+  {
+   "cn": "信仰疗法",
+   "en": "faith healing",
+   "source": "医学伦理学名词",
+   "wordNumber": "5.046",
+   "subjectFullName": "医学伦理学_临床诊疗伦理",
+   "subjectName": "临床诊疗伦理",
+   "publishYear": "2025",
+   "definition": "通过修正和改变人的世界观、人生观，塑造信仰体系，从而恢复或者强化患者的心理能力，以达到治愈心理疾病目的的治疗方法。"
+  },
+  {
+   "cn": "听力残疾",
+   "en": "hearing disability",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.5",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "由于各种原因导致双耳不同程度的永久性听力障碍，听不到或听不清周围环境声以及言语声，以致影响日常生活和社会参与。"
+  },
+  {
+   "cn": "婴儿喂养",
+   "en": "infant feeding",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "根据婴儿吸吮、吞咽、咀嚼和消化系统功能的不断发育成熟，提供0～12月龄体格生长和心理行为发育所需的喂养方法。"
+  },
+  {
+   "cn": "喂哺姿势",
+   "en": "feeding position",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.2.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "母亲用自身乳汁哺育婴幼儿过程中的身体状态，包括摇篮式、橄榄球式、半躺式、侧卧式等姿势。"
+  },
+  {
+   "cn": "替代喂养",
+   "en": "substitute feeding",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.2.9",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "6个月以内的婴儿由于各种原因不能进行母乳喂养时，完全采用配方奶或其它兽乳等的喂哺方法。"
+  },
+  {
+   "cn": "特殊喂养",
+   "en": "Special feeding",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.4",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "早产儿、低出生体重儿和其他患病婴儿，或哺乳母亲患病，以及在自然的或人为的紧急情况(如地震、海啸、洪水、干旱、风暴、工业事故、恐怖暴力事件等)时的喂养。"
+  },
+  {
+   "cn": "配方乳喂养",
+   "en": "formula feeding",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.4.7",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "婴儿早期由于各种原因不能进行母乳喂养时，完全采用配方乳的喂哺。是替代喂养的一种形式。"
+  },
+  {
+   "cn": "幼儿喂养",
+   "en": "toddler's feeding",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.5",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "根据幼儿期饮食行为的不断发育成熟，提供幼儿(13～36月龄)主动进食的方法。"
+  },
+  {
+   "cn": "积极喂养",
+   "en": "active feeding",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.5.4",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "养育人对孩子的提示和信号做出反应，并加以鼓励和表扬的喂养方式。"
+  },
+  {
+   "cn": "强迫喂养",
+   "en": "forced feeding",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.5.5",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "不识儿童的需求，由养育人负责决定孩子何时进食、怎样进食以及进食量的喂养方式，使儿童受到各种外来力的持续作用。"
+  },
+  {
+   "cn": "自由喂养",
+   "en": "free feeding",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.2.5.6",
+   "subjectFullName": "妇幼卫生学名词_妇幼营养_儿童营养",
+   "subjectName": "儿童营养",
+   "publishYear": "2025",
+   "definition": "完全依赖儿童的个性和食欲，放任儿童饮食行为的喂养方式。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

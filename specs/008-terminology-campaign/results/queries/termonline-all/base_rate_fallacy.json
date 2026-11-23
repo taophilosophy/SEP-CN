@@ -1,0 +1,772 @@
+{
+ "key": "base rate fallacy",
+ "term": "base rate fallacy",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T04:09:50+00:00",
+ "status": "ok",
+ "note": "variant=base rate fallacy; 审定公布名词库=5349; 海峡两岸名词对照库=1710; 其他来源数据库=324; 预公布名词数据库=340; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "基率谬误",
+   "en": "base-rate fallacy",
+   "source": "心理学名词",
+   "wordNumber": "07.046",
+   "subjectFullName": "心理学_社会心理学",
+   "subjectName": "社会心理学",
+   "publishYear": "2014",
+   "definition": "解决概率相关问题时忽略小概率事件发生率的现象。"
+  },
+  {
+   "cn": "基础率",
+   "en": "base rate",
+   "source": "心理学名词",
+   "wordNumber": "03.014",
+   "subjectFullName": "心理学_心理统计与测量",
+   "subjectName": "心理统计与测量",
+   "publishYear": "2014",
+   "definition": "未经选择的总体中某类现象的出现率。"
+  },
+  {
+   "cn": "自然主义谬误",
+   "en": "naturalistic fallacy",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.195",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会_历史转向",
+   "subjectName": "历史转向",
+   "publishYear": "2024",
+   "definition": "试图从纯描述性的资源中获得规范性结果的尝试，犯了范畴性的错误。"
+  },
+  {
+   "cn": "生态学谬误",
+   "en": "ecological fallacy",
+   "source": "放射医学与防护名词",
+   "wordNumber": "12.036",
+   "subjectFullName": "放射医学与防护_放射流行病学_概述、设计与实施",
+   "subjectName": "概述、设计与实施",
+   "publishYear": "2014",
+   "definition": "由于用群体的集合暴露水平或暴露特征代表个体的暴露水平或特征所产生的偏倚。因为群体的暴露水平或特征不一定能充分反映个体的暴露水平或特征，因此在基于群体集合水平的变量间观察到的关联，比如某地区的氡平均水平"
+  },
+  {
+   "cn": "微型人谬误",
+   "en": "homunculus fallacy,fallacy of the homunculus",
+   "source": "生物物理学名词",
+   "wordNumber": "07.138",
+   "subjectFullName": "生物物理学_生物控制论_脑理论",
+   "subjectName": "脑理论",
+   "publishYear": "2018",
+   "definition": "一种很容易让人相信的错觉。在一个人意识的中心，存在一个有意识的“微型人”，一直在观察着外部世界，并主导一切行动。"
+  },
+  {
+   "cn": "基底沉降速率",
+   "en": "base subsidence rate",
+   "source": "地质学名词",
+   "wordNumber": "07.02.045",
+   "subjectFullName": "地质学_地史学与地层学_层序地层学",
+   "subjectName": "层序地层学",
+   "publishYear": "2026",
+   "definition": "在构造作用下，盆地基底向下沉降的速度大小。"
+  },
+  {
+   "cn": "基础利率",
+   "en": "base interest rate",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0536",
+   "subjectFullName": "管理科学技术_金融工程_产品与服务",
+   "subjectName": "产品与服务",
+   "publishYear": "2016",
+   "definition": "投资者希望获得的最低利率被称为投资者投资非国债有价证券所依据的基础利率。"
+  },
+  {
+   "cn": "赌徒谬误",
+   "en": "gambler’s fallacy",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0164",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_行为决策",
+   "subjectName": "行为决策",
+   "publishYear": "2016",
+   "definition": "认为在多次判断失误后必有成功结果的预期偏差。"
+  },
+  {
+   "cn": "赌徒谬误",
+   "en": "gambler’s fallacy",
+   "source": "心理学名词",
+   "wordNumber": "02.642",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "随机实验中，结果与期望有偏差时(如抛硬币结果正面远多于反面)，相信随后试验会向相反方向发展的认知偏差。"
+  },
+  {
+   "cn": "沉没成本谬误",
+   "en": "sunk cost fallacy",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0149",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_行为决策",
+   "subjectName": "行为决策",
+   "publishYear": "2016",
+   "definition": "在决策判断时忽视备选方案的当前特征，而更多考虑此前投入成本的心理定势。"
+  },
+  {
+   "cn": "基本负荷额定输出功率",
+   "en": "base-load rated output",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "23.0580",
+   "subjectFullName": "机械工程_动力机械_汽轮机和燃气轮机_燃气轮机_参数",
+   "subjectName": "参数",
+   "publishYear": "2013",
+   "definition": "燃气轮机在规定的条件和在透平基本负荷的额定温度下，且处在新的和清洁状态运行时的标称或保证的输出功率。ISO标准基本负荷额定值指在透平基本负荷温度下，每年安全运行可达到8760h和起动25次。"
+  },
+  {
+   "cn": "基于速率的流控制",
+   "en": "rate-based flow control",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0120",
+   "subjectFullName": "计算机科学技术_网络与数据通信_协议体系与组成结构",
+   "subjectName": "协议体系与组成结构",
+   "publishYear": "2018",
+   "definition": "一种流量控制方法。发送方不使用接收方的反馈信息，而是依靠诸如协定的速率这样的内置机制来限制发送速率。"
+  },
+  {
+   "cn": "BASE模型",
+   "en": "BASE model",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0094",
+   "subjectFullName": "计算机科学技术_数据库_数据库管理系统及其实现技术",
+   "subjectName": "数据库管理系统及其实现技术",
+   "publishYear": "2018",
+   "definition": "一种通过牺牲高一致性来获得可用性或可靠性的模型。主要包括基本可用性、软状态（柔事务性）和最终一致性。"
+  },
+  {
+   "cn": "半基本负荷额定输出功率",
+   "en": "semi-base- load rated output",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "23.0582",
+   "subjectFullName": "机械工程_动力机械_汽轮机和燃气轮机_燃气轮机_参数",
+   "subjectName": "参数",
+   "publishYear": "2013",
+   "definition": "燃气轮机在规定的条件和在透平半基本额定负荷的温度下，且处在新的和清洁状态时运行的标称或保证的输出功率。ISO标准半基本额定负荷值指在透平半基本负荷额定温度下，每年运行达到6000h。"
+  },
+  {
+   "cn": "碱",
+   "en": "base",
+   "source": "普通外科学名词",
+   "wordNumber": "04.005",
+   "subjectFullName": "医学_普通外科学_酸碱平衡",
+   "subjectName": "酸碱平衡",
+   "publishYear": "2026",
+   "definition": "在化学反应中能接受氢离子的物质。如OH⁻、HCO₃⁻、NH₃等。"
+  },
+  {
+   "cn": "安装面",
+   "en": "base",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "11.013",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_刀具_刀具要素",
+   "subjectName": "刀具要素",
+   "publishYear": "2021",
+   "definition": "刀柄或刀孔上的一个表面。它平行或垂直于刀具的基面，供刀具在制造、刃磨及测量时做安装或定位用。"
+  },
+  {
+   "cn": "机座",
+   "en": "base",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "01.0424",
+   "subjectFullName": "机械工程（一）_机构与机器人学_机器人学",
+   "subjectName": "机器人学",
+   "publishYear": "2021",
+   "definition": "安装操作机第一个杆件原点的平台或构架。"
+  },
+  {
+   "cn": "基极",
+   "en": "base",
+   "source": "物理学名词",
+   "wordNumber": "03.0937",
+   "subjectFullName": "物理学_电磁学",
+   "subjectName": "电磁学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "碱基",
+   "en": "base",
+   "source": "核医学名词",
+   "wordNumber": "06.0047",
+   "subjectFullName": "核医学_核医学研究_分子生物学基础",
+   "subjectName": "分子生物学基础",
+   "publishYear": "2018",
+   "definition": "嘌呤和嘧啶的衍生物。核酸、核苷、核苷酸的必要组成成分。在DNA主要有腺嘌呤、鸟嘌呤、胞嘧啶和胸腺嘧啶；RNA主要有腺嘌呤、鸟嘌呤、胞嘧啶和尿嘧啶。"
+  },
+  {
+   "cn": "碱基",
+   "en": "base",
+   "source": "化学名词",
+   "wordNumber": "02.1303",
+   "subjectFullName": "化学_有机化学_生物有机化学",
+   "subjectName": "生物有机化学",
+   "publishYear": "2016",
+   "definition": "一类带有碱性的杂环有机化合物。DNA中的碱基主要有腺嘌呤、鸟嘌呤、胞嘧啶和胸腺嘧啶；RNA中主要有腺嘌呤、鸟嘌呤、胞嘧啶和尿嘧啶。此外，在DNA和RNA中均发现有一些含量较少或很少的修饰(稀有)碱基，"
+  },
+  {
+   "cn": "基率谬误",
+   "en": "base rate fallacy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "基础率",
+   "en": "base rate",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "费率基准",
+   "en": "rate base",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "基本利率",
+   "en": "base rate",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "赌徒谬误",
+   "en": "gambler’s fallacy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "基质",
+   "en": "base",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "碱",
+   "en": "base",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "碱基",
+   "en": "base",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "基底",
+   "en": "base",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "减基",
+   "en": "base",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "碱基",
+   "en": "base",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "基座",
+   "en": "base",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "基极",
+   "en": "base",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "碱",
+   "en": "base",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "π碱",
+   "en": "π-base",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "稀有碱基",
+   "en": "unusual base\",\"minor base",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "基线尺",
+   "en": "base apparatus\",\"base tape",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "油脂性基质",
+   "en": "greasy base （=greasing base）",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "信用等级评定",
+   "en": "rating",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "普通船员",
+   "en": "rating",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "基座",
+   "en": "base",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "垒位",
+   "en": "base",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "插座",
+   "en": "base",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "满垒",
+   "en": "bases full\",\"bases loaded",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "定级",
+   "en": "rating",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "底托",
+   "en": "base\",\"head",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "知识库",
+   "en": "knowledge base",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字底座",
+   "en": "digital base",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "抗日根据地",
+   "en": "resistance base",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "起评分",
+   "en": "base score",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "垒线",
+   "en": "base line",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "三垒",
+   "en": "third base",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "二垒",
+   "en": "second base",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "场景化",
+   "en": "scenario-based",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "BASE理论",
+   "en": "BASE (basically available, soft state, eventual consistency) theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "偷垒",
+   "en": "steal a base\",\"steal\",\"stolen base",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "生态学谬误",
+   "en": "ecological fallacy",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.1.5.9",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "由于生态学研究以各个不同情况的个体“集合”而成的群体（组）为观察和分析的单位，以及存在的混杂因素等原因而造成研究结果与真实情况不符的现象。"
+  },
+  {
+   "cn": "个体论谬误",
+   "en": "individualistic fallacy",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.24",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "根据对个体单位的研究得到的事实推论总体的特征所产生的推理错误。"
+  },
+  {
+   "cn": "生态谬误",
+   "en": "ecological fallacy",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.25",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "根据较高层次上分析单位的研究结论推论较低层次上分析单位的特征所产生的推理错误。"
+  },
+  {
+   "cn": "自然主义谬误",
+   "en": "naturalistic fallacy",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.195",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "试图从纯描述性的资源中获得规范性结果的尝试，犯了范畴性的错误。"
+  },
+  {
+   "cn": "基准深度",
+   "en": "base depth",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.25",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "体模内包含辐射束轴上最大吸收剂量90%点的平面所在的深度。"
+  },
+  {
+   "cn": "社会基础",
+   "en": "social base",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.9",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "社会生活和社会发展的根基或起点，与社会阶级、社会公平、社会秩序、文化价值和社会管理密切相关。"
+  },
+  {
+   "cn": "群众基础",
+   "en": "mass base",
+   "source": "马克思主义",
+   "wordNumber": "03.0723",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "政党的群众基础本质上就是政党与群众的关系问题。从政党角度来看，就是党在人民群众中的影响力、号召力、凝聚力；从群众角度来看，就是人民群众对党的支持和认同。"
+  },
+  {
+   "cn": "解冻失水率",
+   "en": "defrost rate",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.6.12",
+   "subjectFullName": "食品卫生学_食品_禽肉",
+   "subjectName": "禽肉",
+   "publishYear": "2025",
+   "definition": "在解冻过程中，冷冻食品失去的水分占其原始重量的比例。"
+  },
+  {
+   "cn": "杀菌率",
+   "en": "bactericidal rate",
+   "source": "消毒学",
+   "wordNumber": "1.1.3.1.1",
+   "subjectFullName": "消毒学_消毒学_消毒",
+   "subjectName": "消毒",
+   "publishYear": "2025",
+   "definition": "被杀灭的活菌数占初始活菌数的比例，以百分率表示。"
+  },
+  {
+   "cn": "剂量率",
+   "en": "dosage rate",
+   "source": "消毒学",
+   "wordNumber": "2.2.2.4",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "单位时间内的吸收剂量。单位以戈每时（Gy/h）表示。"
+  },
+  {
+   "cn": "存活率",
+   "en": "survival rate",
+   "source": "消毒学",
+   "wordNumber": "6.2.18",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "经过消毒因子处理后，试验微生物的残留量与初始量的比值。"
+  },
+  {
+   "cn": "杀灭率",
+   "en": "killing rate",
+   "source": "消毒学",
+   "wordNumber": "6.2.19",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "在消毒试验评价杀菌效果时，微生物数量减少的百分率。"
+  },
+  {
+   "cn": "消亡率",
+   "en": "extinction rate",
+   "source": "消毒学",
+   "wordNumber": "6.2.23",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "空气消毒现场试验中，细菌自然衰亡和经消毒处理杀菌的总和的百分率，即消毒前、后空气中微生物减少的总量的百分率。"
+  },
+  {
+   "cn": "消除率",
+   "en": "elimination rate",
+   "source": "消毒学",
+   "wordNumber": "6.2.24",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "微生物经消毒处理（包括消毒、自然衰减、擦拭、清洗、沉降等作用）后减少的比率。"
+  },
+  {
+   "cn": "泄露量",
+   "en": "leakage rate",
+   "source": "消毒学",
+   "wordNumber": "6.3.2.4",
+   "subjectFullName": "消毒学_检测与评价_安全性检验",
+   "subjectName": "安全性检验",
+   "publishYear": "2025",
+   "definition": "消毒设备工作时产生的有害射线或气体在规定的安全区域内泄露的剂量。"
+  },
+  {
+   "cn": "降解率",
+   "en": "degradation rate",
+   "source": "消毒学",
+   "wordNumber": "6.3.2.6",
+   "subjectFullName": "消毒学_检测与评价_安全性检验",
+   "subjectName": "安全性检验",
+   "publishYear": "2025",
+   "definition": "已降解物质的量占该物质总量的百分比。"
+  },
+  {
+   "cn": "分解率",
+   "en": "decomposition rate",
+   "source": "消毒学",
+   "wordNumber": "6.3.2.7",
+   "subjectFullName": "消毒学_检测与评价_安全性检验",
+   "subjectName": "安全性检验",
+   "publishYear": "2025",
+   "definition": "已分解物质的量占该物质总量的百分比。"
+  },
+  {
+   "cn": "腐蚀速率",
+   "en": "corrosion rate",
+   "source": "消毒学",
+   "wordNumber": "6.3.3.1.2",
+   "subjectFullName": "消毒学_检测与评价_安全性检验",
+   "subjectName": "安全性检验",
+   "publishYear": "2025",
+   "definition": "单位时间内金属因消毒因子腐蚀而引起的变化。"
+  },
+  {
+   "cn": "比转换能率",
+   "en": "cema rate",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.5.3",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_基本剂量学量",
+   "subjectName": "基本剂量学量",
+   "publishYear": "2025",
+   "definition": "单位时间内单位质量的物质中重带电粒子碰撞而损失的能量。SI单位为焦耳每千克每秒，专有名称是戈瑞每秒，记作Gy·s-1。"
+  },
+  {
+   "cn": "微核率",
+   "en": "micronucleus rate",
+   "source": "放射卫生学",
+   "wordNumber": "4.3.2.8",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射工作人员健康监护_放射工作人员职业健康检查",
+   "subjectName": "放射工作人员职业健康检查",
+   "publishYear": "2025",
+   "definition": "在观察分析的每1000个转化淋巴细胞中，含有的微核数。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

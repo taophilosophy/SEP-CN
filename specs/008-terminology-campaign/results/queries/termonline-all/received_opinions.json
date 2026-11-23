@@ -1,0 +1,722 @@
+{
+ "key": "received opinions",
+ "term": "received opinions",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T04:11:35+00:00",
+ "status": "ok",
+ "note": "variant=received opinions; 审定公布名词库=423; 海峡两岸名词对照库=174; 其他来源数据库=64; 预公布名词数据库=11; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "意见",
+   "en": "opinions",
+   "source": "档案学名词",
+   "wordNumber": "02.01.066",
+   "subjectFullName": "档案学_文件管理_文件概述",
+   "subjectName": "文件概述",
+   "publishYear": "2024",
+   "definition": "兼具领导指导性、报请性、商洽性的特殊文件。适用于对重要问题提出见解和处理办法。可以根据具体情况和工作需要分别用作上行文、下行文和平行文。作为上行文,应按请示性公文的程序和要求办理。所提意见如涉及其他部"
+  },
+  {
+   "cn": "接收者",
+   "en": "receiver",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.108",
+   "subjectFullName": "新闻学与传播学_传播总论_传播研究基础",
+   "subjectName": "传播研究基础",
+   "publishYear": "2022",
+   "definition": "讯息的接受方。"
+  },
+  {
+   "cn": "接收机",
+   "en": "receiver",
+   "source": "地球物理学名词",
+   "wordNumber": "04.0285",
+   "subjectFullName": "地球物理学_地球电磁学_探测电性的方法_仪器和应用",
+   "subjectName": "仪器和应用",
+   "publishYear": "2022",
+   "definition": "通过传感器和电子线路测量电磁场信号的仪器。 "
+  },
+  {
+   "cn": "接料盘",
+   "en": "receiver",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "07.1081",
+   "subjectFullName": "机械工程（一）_机械零件_筛网",
+   "subjectName": "筛网",
+   "publishYear": "2021",
+   "definition": "紧贴地装配在筛子下面以承接通过所有筛子的那部分物料的盘。"
+  },
+  {
+   "cn": "吸热器",
+   "en": "receiver",
+   "source": "电力名词",
+   "wordNumber": "18.158",
+   "subjectFullName": "电力_新能源发电",
+   "subjectName": "新能源发电",
+   "publishYear": "2020",
+   "definition": "集热器的一部分,用于最终接收投射或反射太阳辐射的装置,它包括吸热体和任何附带的透明盖层。"
+  },
+  {
+   "cn": "接收器",
+   "en": "receiver",
+   "source": "计算机科学技术名词",
+   "wordNumber": "04.0061",
+   "subjectFullName": "计算机科学技术_计算机硬件_计算机集成电路",
+   "subjectName": "计算机集成电路",
+   "publishYear": "2018",
+   "definition": "接收信号的装置。"
+  },
+  {
+   "cn": "贮液器",
+   "en": "receiver",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "12.0233",
+   "subjectFullName": "机械工程_流体机械_制冷与空调设备_制冷_制冷设备",
+   "subjectName": "制冷设备",
+   "publishYear": "2013",
+   "definition": "制冷系统中用于储存液体制冷剂的容器。"
+  },
+  {
+   "cn": "受话人",
+   "en": "receiver",
+   "source": "语言学名词",
+   "wordNumber": "12.122",
+   "subjectFullName": "语言学_社会语言学_言语交际",
+   "subjectName": "言语交际",
+   "publishYear": "2011",
+   "definition": "语言交际中接受信息的一方。会话中指听话人，书面交际时指读者。"
+  },
+  {
+   "cn": "接收机",
+   "en": "receiver",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.530",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "工作于通信链路的目的地端，接收信号并加以处理或转换供本地使用的设备。"
+  },
+  {
+   "cn": "贮液器",
+   "en": "receiver",
+   "source": "水产名词",
+   "wordNumber": "09.423",
+   "subjectFullName": "水产_渔业船舶及渔业机械",
+   "subjectName": "渔业船舶及渔业机械",
+   "publishYear": "2002",
+   "definition": "贮存和调节供应制冷系统中各部分液态制冷剂的容器。"
+  },
+  {
+   "cn": "受话器",
+   "en": "receiver",
+   "source": "铁道科学技术名词",
+   "wordNumber": "07.0071",
+   "subjectFullName": "铁道科学技术_铁道通信",
+   "subjectName": "铁道通信",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "受货人",
+   "en": "receiver",
+   "source": "航海科技名词",
+   "wordNumber": "13.0078",
+   "subjectFullName": "航海科学技术_航行管理与法规",
+   "subjectName": "航行管理与法规",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "贮液器",
+   "en": "receiver",
+   "source": "航海科技名词",
+   "wordNumber": "15.0643",
+   "subjectFullName": "航海科学技术_轮机管理",
+   "subjectName": "轮机管理",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "接收机",
+   "en": "receiver",
+   "source": "电子学名词",
+   "wordNumber": "03.290",
+   "subjectFullName": "电子学_电子线路与网络",
+   "subjectName": "电子线路与网络",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "接收",
+   "en": "receive",
+   "source": "通信科学技术名词",
+   "wordNumber": "01.072",
+   "subjectFullName": "通信科学技术_通信原理与基本技术",
+   "subjectName": "通信原理与基本技术",
+   "publishYear": "2007",
+   "definition": "收到从通信系统中送出的信号、消息或其他形式的数据。"
+  },
+  {
+   "cn": "言论版",
+   "en": "opinion pages",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.257",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻评论",
+   "subjectName": "新闻评论",
+   "publishYear": "2022",
+   "definition": "由社论、读者来信、专栏文章等多种评论性文章汇聚成的专门刊载言论观点的报纸版面。"
+  },
+  {
+   "cn": "民意测验",
+   "en": "opinion poll",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.065",
+   "subjectFullName": "新闻学与传播学_政治传播_政治传播基础",
+   "subjectName": "政治传播基础",
+   "publishYear": "2022",
+   "definition": "利用一定的统计技术测定个人和集团的习惯和爱好,显示一个群体或地区的态度和选择，以协助各级政府、政治和经济机构作出决策和决定的一种手段。西方从事民意测验的机构在政治经济关系上可分为三大类：独立的准公共公"
+  },
+  {
+   "cn": "意见领袖",
+   "en": "opinion leaders",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "21.016",
+   "subjectFullName": "新闻学与传播学_广告_总论",
+   "subjectName": "总论",
+   "publishYear": "2022",
+   "definition": "活跃在人际沟通网络中，经常为他人提供信息、观点或建议，并对他人施加个人影响的人物。"
+  },
+  {
+   "cn": "舆论",
+   "en": "public opinion",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "1.116",
+   "subjectFullName": "新闻学与传播学_新闻理论_舆论学",
+   "subjectName": "舆论学",
+   "publishYear": "2022",
+   "definition": "公众关于现实社会以及社会中的各种现象、问题所表达的信念、态度、意见和情绪的总和。具有相对的一致性、强烈程度和持续性，对社会发展及有关事态的进程产生影响，其中混杂着理智和非理智的成分。"
+  },
+  {
+   "cn": "鉴定意见",
+   "en": "identification opinion",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "03.214",
+   "subjectFullName": "化工（五）_研发与工程化_研究成果与知识产权管理",
+   "subjectName": "研究成果与知识产权管理",
+   "publishYear": "2021",
+   "definition": "鉴定人对案件中需要解决的专门性问题进行鉴定后做出的结论。"
+  },
+  {
+   "cn": "接收机",
+   "en": "receiver",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "储液器",
+   "en": "receiver",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "接收机",
+   "en": "receiver",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "民意,舆论",
+   "en": "public opinions",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "应收账款",
+   "en": "receivables",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "民意调查",
+   "en": "public opinion poll",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "平均评定评分",
+   "en": "mean opinion score",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "接收细胞",
+   "en": "receiver cell",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "催化剂接收器",
+   "en": "catalyst receiver",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "气体收集器",
+   "en": "gas receiver",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "受波器",
+   "en": "seismic receiver",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "多波段接受器",
+   "en": "multichannel receiver",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "多通道接受器",
+   "en": "multichannel receiver",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "GLONASS接收机",
+   "en": "GLONASS receiver",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "GPS接收机",
+   "en": "GPS receiver",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "[广播]收音机",
+   "en": "broadcast receiver",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "测试接收机",
+   "en": "test receiver",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "超外差接收机",
+   "en": "superheterodyne receiver",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "超再生接收机",
+   "en": "superregeneration receiver",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "大功率接收机",
+   "en": "powerful receiver",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "裁判意见",
+   "en": "opinion",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "接发球队员",
+   "en": "receiver",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "接球球员",
+   "en": "receiver",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "接发球球员",
+   "en": "receiver",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "接发球队员",
+   "en": "receiver",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "接发球队员",
+   "en": "receiver",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "接球队员",
+   "en": "receiver",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "接发球队员",
+   "en": "receiver",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "接球",
+   "en": "receive",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "接球",
+   "en": "receive",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "接球",
+   "en": "receive",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "舆论",
+   "en": "Public Opinion",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公论",
+   "en": "Public Opinion",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "观点挖掘",
+   "en": "opinion mining",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "接球",
+   "en": "receiving",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "双打接发球方",
+   "en": "receiver pair\",\"receiving pair",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "公共舆情监测",
+   "en": "public opinion monitoring",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络意见领袖",
+   "en": "Internet opinion leader",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "接球手",
+   "en": "catcher\",\"receiver",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "接球",
+   "en": "receive\",\"reception",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "社会舆论",
+   "en": "public opinion",
+   "source": "马克思主义",
+   "wordNumber": "03.0168",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "社会中多数成员基于一定需要和利益，通过言语、非言语形式，对社会生活中有争议的事件公开表达的态度、意见、要求、情绪，通过一定的传播途径，进行交流、碰撞、感染，整合而成的、具有强烈实践意向的表层集合意识，"
+  },
+  {
+   "cn": "意见领袖",
+   "en": "opinion leaders",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.3.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育理论与模式",
+   "subjectName": "学校健康教育理论与模式",
+   "publishYear": "2025",
+   "definition": "活跃在人际沟通网络中，经常为他人提供信息、观点或建议，并对他人施加个人影响的人物。"
+  },
+  {
+   "cn": "民意测验",
+   "en": "public opinion poll",
+   "source": "社会学名词",
+   "wordNumber": "1.2.3.7",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "使用抽样调查方法了解公众舆论趋向的一种社会调查。"
+  },
+  {
+   "cn": "大众意见领袖理论",
+   "en": "popular opinion leader theory",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.9.6",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "假设受众行为通常受到通过社会网络传播的意见领袖选择的影响的理论，通常认为信息传播模式为两步模式，即大众传播到意见领袖，再到般受众的过程。"
+  },
+  {
+   "cn": "婚前医学检查意见",
+   "en": "premarital medical checkup opinion",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.3.1.1.2",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_围婚期保健",
+   "subjectName": "围婚期保健",
+   "publishYear": "2025",
+   "definition": "医疗机构基于综合检查结果，向服务对象提出的有关结婚和生育的建议。"
+  },
+  {
+   "cn": "食品安全舆情",
+   "en": "public opinions on food safety",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.3.18",
+   "subjectFullName": "食品卫生学_总论_食品安全风险分析",
+   "subjectName": "食品安全风险分析",
+   "publishYear": "2025",
+   "definition": "对可能影响消费者健康的各类食品相关问题，在各种传播形态里呈现的意见、情绪、倾向等有可能形成舆论的苗头。"
+  },
+  {
+   "cn": "梅毒感染孕产妇获得治疗的比例",
+   "en": "percentage of receiving treatment among pregnant women with syphilis infection",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.7.18",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "一定时期内某地区梅毒感染孕产妇中获得抗梅毒治疗的人数，与同期该地区梅毒感染孕产妇人数之比。"
+  },
+  {
+   "cn": "5岁以下腹泻儿童接受口服补液疗法比例",
+   "en": "percentage of receiving oral rehydration therapy among children with diarrhea under 5",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "2.9.8.11",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生管理_妇幼卫生监测与评价",
+   "subjectName": "妇幼卫生监测与评价",
+   "publishYear": "2025",
+   "definition": "一定时期内某地区最近两周患腹泻的0~59月龄儿童中接受口服补液疗法的人数，与最近两周患腹泻的0~59月龄儿童数之比。"
+  },
+  {
+   "cn": "个人感知到的需要",
+   "en": "perceived need",
+   "source": "卫生经济学名词",
+   "wordNumber": "4.1.1.1",
+   "subjectFullName": "卫生经济学名词_卫生服务需求_卫生服务需求",
+   "subjectName": "卫生服务需求",
+   "publishYear": "2025",
+   "definition": "人们主观上认为自己罹患疾病或为了预防疾病应该获得的某种卫生服务。"
+  },
+  {
+   "cn": "风险管理措施评估",
+   "en": "risk management options assessment",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.3.12",
+   "subjectFullName": "食品卫生学_总论_食品安全风险分析",
+   "subjectName": "食品安全风险分析",
+   "publishYear": "2025",
+   "definition": "对风险管理措施进行评估，帮助主管部门决定是否需要对某一物质进行进一步基于管理的风险管理活动，并确定最合适的工具来解决问题。"
+  },
+  {
+   "cn": "感知卫生服务需要",
+   "en": "perceived health service need",
+   "source": "社会医学名词",
+   "wordNumber": "8.2.1",
+   "subjectFullName": "卫生服务研究",
+   "subjectName": "卫生服务需要",
+   "publishYear": "2025",
+   "definition": "居民根据自身健康状况，未考虑实际支付能力和医学专业人士判断时，认为自己应获得的卫生服务。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

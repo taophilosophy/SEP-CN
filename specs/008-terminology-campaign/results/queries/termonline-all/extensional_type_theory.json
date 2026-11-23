@@ -1,0 +1,632 @@
+{
+ "key": "extensional type theory",
+ "term": "extensional type theory",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T04:10:38+00:00",
+ "status": "ok",
+ "note": "variant=extensional type theory; 审定公布名词库=5660; 海峡两岸名词对照库=1429; 其他来源数据库=227; 预公布名词数据库=345; jwt-direct（JWT 直连，raw 略；已滤维基 18 条）",
+ "hits": [
+  {
+   "cn": "外延性",
+   "en": "extensionality",
+   "source": "数学名词",
+   "wordNumber": "02.0155",
+   "subjectFullName": "数学_数理逻辑·数学基础_集合论",
+   "subjectName": "集合论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "类型论",
+   "en": "type theory",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0959",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "最初由罗素为了避免集合论中的悖论而提出的形式系统，其后有了很多发展，并且与编程语言的类型系统密切相关。"
+  },
+  {
+   "cn": "类型论",
+   "en": "type theory",
+   "source": "心理学名词",
+   "wordNumber": "02.764",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "20世纪30~40年代在德国产生的一种人格理论。即根据某种标准将具有相似人格特性的人加以归类，归类后即以该类最具代表性的特征加以命名。"
+  },
+  {
+   "cn": "伸展盆地",
+   "en": "extensional basin",
+   "source": "地质学名词",
+   "wordNumber": "05.05.203",
+   "subjectFullName": "地质学_沉积学与沉积岩岩石学_沉积环境与沉积相",
+   "subjectName": "沉积环境与沉积相",
+   "publishYear": "2026",
+   "definition": "在岩石圈伸展背景下发育的盆地。一般以岩石圈减薄、负布格异常为主要特征。"
+  },
+  {
+   "cn": "伸展构造",
+   "en": "extensional structure",
+   "source": "地质学名词",
+   "wordNumber": "09.01.041",
+   "subjectFullName": "地质学_构造地质学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "地壳或岩石圈在水平拉伸应力作用下变形形成的构造。包括裂谷、正断层、拆离断层等，它们常导致地壳或岩石圈减薄。"
+  },
+  {
+   "cn": "拉伸流变仪",
+   "en": "extensional rheometer",
+   "source": "化工名词（七）高分子化工",
+   "wordNumber": "2.0127",
+   "subjectFullName": "化工（七）_合成树脂_总论",
+   "subjectName": "总论",
+   "publishYear": "2022",
+   "definition": "通过对聚合物样片控温拉伸过程的测定得到一系列瞬态拉伸黏度数据，用于表征被测聚合物熔体在拉伸条件下流动和变形性能的仪器。"
+  },
+  {
+   "cn": "伸缩应变",
+   "en": "extensional strain",
+   "source": "地球物理学名词",
+   "wordNumber": "01.0518",
+   "subjectFullName": "地球物理学_地震科学_基础理论",
+   "subjectName": "基础理论",
+   "publishYear": "2022",
+   "definition": "描述物体伸缩形变的应变。 "
+  },
+  {
+   "cn": "伸展运动",
+   "en": "extensional exercise",
+   "source": "行为医学名词",
+   "wordNumber": "3.207",
+   "subjectFullName": "行为医学_行为的生物学基础_遗传学基础_运动遗传学",
+   "subjectName": "运动遗传学",
+   "publishYear": "2022",
+   "definition": "一种被动的、非用力的锻炼形式。使身体处于关节运动所可能达到的适度体位，能解除慢性紧张和僵硬。"
+  },
+  {
+   "cn": "张性构造",
+   "en": "extensional tectonic",
+   "source": "地球物理学名词",
+   "wordNumber": "02.0351",
+   "subjectFullName": "地球物理学_地球动力学_大陆构造演化",
+   "subjectName": "大陆构造演化",
+   "publishYear": "2022",
+   "definition": "构造活动表现为扩张或拉张伸展，常表现为地壳或岩石层的伸展。 "
+  },
+  {
+   "cn": "广泛切除术",
+   "en": "extensional resection",
+   "source": "核医学名词",
+   "wordNumber": "04.0243",
+   "subjectFullName": "核医学_临床核医学_肿瘤核医学_肿瘤诊疗相关技术",
+   "subjectName": "肿瘤诊疗相关技术",
+   "publishYear": "2018",
+   "definition": "对某些侵犯广泛或界限不清的肿瘤进行瘤体及所在组织全部或大部分切除的手术。如骨肉瘤的跨关节截肢。"
+  },
+  {
+   "cn": "伸展运动",
+   "en": "extensional movement",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "08.153",
+   "subjectFullName": "全科医学与社区卫生_社区健康管理",
+   "subjectName": "社区健康管理",
+   "publishYear": "2014",
+   "definition": "一种被动的、非用力的锻炼形式。它使身体处于关节运动所可能达到的最极限的体位，能解除慢性紧张和僵硬。"
+  },
+  {
+   "cn": "外延释义",
+   "en": "extensional definition",
+   "source": "语言学名词",
+   "wordNumber": "06.304",
+   "subjectFullName": "语言学_辞书学_辞书释义",
+   "subjectName": "辞书释义",
+   "publishYear": "2011",
+   "definition": "释义方法的一种。通过列举词项的所指对象或某一概念范畴内的所有个体来表述语词的意义。由抽象解释和列举事例两部分组成，前者对释义对象的概念作概括或简要的描述，后者列出这个概念所反映的个体对象。有时可以省略"
+  },
+  {
+   "cn": "伸展构造",
+   "en": "extensional tectonics",
+   "source": "地质学名词",
+   "wordNumber": "03.232",
+   "subjectFullName": "地质学_构造地质学",
+   "subjectName": "构造地质学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "板内拉张盆地",
+   "en": "intraplate extensional basin",
+   "source": "地质学名词",
+   "wordNumber": "05.05.198",
+   "subjectFullName": "地质学_沉积学与沉积岩岩石学_沉积环境与沉积相",
+   "subjectName": "沉积环境与沉积相",
+   "publishYear": "2026",
+   "definition": "板块内部在拉张作用下，地壳变薄失稳，出现强烈的构造活化，使地表陷落所形成的盆地。一般盆地周缘张性断裂十分发育。中国东部的拉张盆地是此类盆地的典型代表。"
+  },
+  {
+   "cn": "拉张偏应力",
+   "en": "extensional deviatoric stress",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1562",
+   "subjectFullName": "地球物理学_地震科学_震源",
+   "subjectName": "震源",
+   "publishYear": "2022",
+   "definition": "偏应力分量为负的分量。若应力张量的分量以压为正，其偏量 Sᵢⱼ=sᵢⱼ-s₀δᵢⱼ,i,j=1,2,3,式中，s₀=I₁/3，为静水压； I₁为应力张量对角元素之和； δᵢⱼ为克罗内克符号。"
+  },
+  {
+   "cn": "拉张边界带",
+   "en": "extensional boundary zone",
+   "source": "地球物理学名词",
+   "wordNumber": "02.0110",
+   "subjectFullName": "地球物理学_地球动力学_板块构造",
+   "subjectName": "板块构造",
+   "publishYear": "2022",
+   "definition": "板块拉伸生长的边界带。 "
+  },
+  {
+   "cn": "分支类型论",
+   "en": "ramified theory of types",
+   "source": "数学名词",
+   "wordNumber": "02.0169",
+   "subjectFullName": "数学_数理逻辑·数学基础_集合论",
+   "subjectName": "集合论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "引申义",
+   "en": "extensional meaning,denotative meaning",
+   "source": "语言学名词",
+   "wordNumber": "05.146",
+   "subjectFullName": "语言学_语义学、词汇学_词义",
+   "subjectName": "词义",
+   "publishYear": "2011",
+   "definition": "从词本义繁衍派生而来的意义，是词义发展的基本形式。根据词义引申的途径，可分为相关引申和相似引申；根据词义引申的类型，可分为辐射式引申和链条式引申；根据词义引申的结果，可分为扩大引申和缩小引申；根据词义"
+  },
+  {
+   "cn": "伸展褶劈理",
+   "en": "extensional crenulation cleavage;ECC",
+   "source": "地质学名词",
+   "wordNumber": "09.05.014",
+   "subjectFullName": "地质学_构造地质学_中、小尺度面状、线状构造",
+   "subjectName": "中、小尺度面状、线状构造",
+   "publishYear": "2026",
+   "definition": "递进剪切变形使早期叶理(尤其是剪切叶理)弯曲，形成的一种带状褶劈理构造。一般相对于剪切带有稳定的产状方向(夹角约110°)，其发育使剪切带厚度减小。其延伸方向可以用于判断剪切带的剪切运动方向。"
+  },
+  {
+   "cn": "张性构造环境",
+   "en": "extensional tec-tonic setting",
+   "source": "地球物理学名词",
+   "wordNumber": "01.1276",
+   "subjectFullName": "地球物理学_地震科学_震源",
+   "subjectName": "震源",
+   "publishYear": "2022",
+   "definition": "地壳侧向扩张、最大主应力垂直于地面的地区。 "
+  },
+  {
+   "cn": "类型论",
+   "en": "type theory",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "延伸流动",
+   "en": "extensional flow",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "整体结构",
+   "en": "extensional organization",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "外延数据库",
+   "en": "extensional database",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "基于类型理论的方法",
+   "en": "type theory-based method",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "拉伸黏度",
+   "en": "elongational viscosity\",\"extensional viscosity",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "理论",
+   "en": "theory",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "O-type device型器件",
+   "en": "O-type device",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "类型",
+   "en": "type",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "型式",
+   "en": "type",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "型式",
+   "en": "type",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "假花学说",
+   "en": "pseudoanthial theory\",\"pseudoanthium theory",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "真花学说",
+   "en": "euanthial theory\",\"euanthium theory",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "后成论，渐成论",
+   "en": "postformation theory\",\"epigenesis theory",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "下口式",
+   "en": "hypognathous type\",\"orthognathous type",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "肌源说",
+   "en": "myogenic theory",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "胚胎系统发育说",
+   "en": "phylembryogenesis theory",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "神经源说",
+   "en": "neurogenic theory",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "套装论",
+   "en": "encasement theory",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "细胞学说",
+   "en": "cell theory",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "集合论",
+   "en": "set theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "图论",
+   "en": "graph theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "理论",
+   "en": "theory",
+   "source": "马克思主义",
+   "wordNumber": "01.0119",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "关于自然、社会和人自身的本质规律的抽象、合乎逻辑的一般推论或假说。理论来源于实践，接受实践的检验。理论服务于实践，随着实践的发展而发展。"
+  },
+  {
+   "cn": "原型理论",
+   "en": "prototype theory",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0031",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "认知科学的一种理论模型。认为人类对事物进行分类（范畴化）的过程并不存在非此即彼的明确界限，某一范畴中的核心成员会比其他成员更具典型性。例如在“飞禽”这个范畴里，“燕雀”比“鸡鸭”更具“飞禽”的特征。语"
+  },
+  {
+   "cn": "波浪理论",
+   "en": "wave theory",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.003",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "研究语言演变的一种动态模型。一种创新的语言特征从起源地往外扩散，其影响类似波浪扩散、随传播距离逐渐减小。"
+  },
+  {
+   "cn": "阶层化社会理论",
+   "en": "caste theory",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0143",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "美国教育人类学家奥格布（John Uzo Ogbu）提出，他认为少数民族的历史经历、社会地位以及由此造成的各种障碍等，必然会影响他们的学习态度和教育期望。"
+  },
+  {
+   "cn": "扎根理论",
+   "en": "grounded theory",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.7",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "对定性资料进行归纳、抽绎出理论概念、生成理论洞见的定性资料分析方法。是由格拉泽和施特劳斯提出的。"
+  },
+  {
+   "cn": "测量理论",
+   "en": "measurement theory",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.23",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "关于测量的性质和方法的理论。主要包括经典测量理论、概化理论和项目反应理论三种理论模型。"
+  },
+  {
+   "cn": "概化理论",
+   "en": "generalizability theory",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.33",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "克伦巴赫等人在20世纪60至70年代初提出一种测量理论。思想上，认为测量对象的值受到测量条件和环境的影响；概念上，用全域分数代替了经典测量理论的真分数，用概括化系数代替了信度；技术上，应用方法分析技术"
+  },
+  {
+   "cn": "社会理论",
+   "en": "social theory",
+   "source": "社会学名词",
+   "wordNumber": "2.1.7.6",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会意识",
+   "subjectName": "社会意识",
+   "publishYear": "2025",
+   "definition": "以社会学视角和方法对人类社会现象及问题所进行的各种系统性的理论探讨。重点涉及一切关于社会何以构成、存续和变迁的理论思考，以及关于这类理论思考何以可能（或合理）的认识论探讨。与“应用社会学”相对。"
+  },
+  {
+   "cn": "冲突理论",
+   "en": "conflict theory",
+   "source": "社会学名词",
+   "wordNumber": "2.6.6.6",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会分层理论",
+   "subjectName": "社会分层理论",
+   "publishYear": "2025",
+   "definition": "与结构功能主义理论相对立的社会学理论流派，该派理论家借鉴马克思的阶级冲突理论或马克斯•韦伯的权力冲突观点，强调个人或群体之间的经济利益冲突和权力冲突，对结构功能主义理论（特别是功能主义社会分层理论）提"
+  },
+  {
+   "cn": "现代化理论",
+   "en": "modernization theory",
+   "source": "社会学名词",
+   "wordNumber": "2.9.1.1",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_现代化理论",
+   "subjectName": "现代化理论",
+   "publishYear": "2025",
+   "definition": "产生于20世纪50、60年代，以塔尔科特帕森斯、列维（M.J.Levy）、英克尔斯（A.Inkeles）和艾森斯塔德（S.N.Eisenstadt）等人为代表，以研究传统社会的现代转化为主旨的理论。"
+  },
+  {
+   "cn": "依附理论",
+   "en": "dependency theory",
+   "source": "社会学名词",
+   "wordNumber": "2.9.2.1",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_依附理论",
+   "subjectName": "依附理论",
+   "publishYear": "2025",
+   "definition": "产生于20世纪60年代后期的一种发展理论，以弗兰克（Andre Frank）、多斯桑托斯（Theotonio Dos Santos）、阿明（Samir Amin）等人为代表，认为发达国家和发展中国家之"
+  },
+  {
+   "cn": "紧张理论",
+   "en": "strain theory",
+   "source": "社会学名词",
+   "wordNumber": "2.10.2.4",
+   "subjectFullName": "社会学名词_社会学一般概念_社会问题与社会控制_社会越轨",
+   "subjectName": "社会越轨",
+   "publishYear": "2025",
+   "definition": "解释社会越轨行为的一种理论。认为当一些人无法通过合法手段达到社会普遍认可的成功目标时，就会产生挫折感等紧张情绪，从而形成个人的目标和社会规范之间的冲突状态，进而引发越轨行为或者犯罪行为。由美国社会学家"
+  },
+  {
+   "cn": "标签理论",
+   "en": "labeling theory",
+   "source": "社会学名词",
+   "wordNumber": "2.10.2.7",
+   "subjectFullName": "社会学名词_社会学一般概念_社会问题与社会控制_社会越轨",
+   "subjectName": "社会越轨",
+   "publishYear": "2025",
+   "definition": "解释社会越轨行为的一种理论。把越轨行为分为初级越轨行为和继发越轨行为，并认为越轨行为的性质不在于行为本身，而是社会的定义和解释。因此，只有当一个行为被社会定义为越轨行为时，其行为者才会成为越轨行为者。"
+  },
+  {
+   "cn": "立场论",
+   "en": "standpoint theory",
+   "source": "社会学名词",
+   "wordNumber": "3.2.3.9",
+   "subjectFullName": "社会学名词_分支社会学_性别社会学_性别研究",
+   "subjectName": "性别研究",
+   "publishYear": "2025",
+   "definition": "女性主义认识论的一种主流观点，对传统认识论中的主客体两分法和价值中立的客观性原则持批判态度，认为从妇女日常生活经验和边缘化的底层立场出发，可以产生比男性主流知识更少偏见、更具有客观性的好知识。"
+  },
+  {
+   "cn": "博弈论",
+   "en": "game theory",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.14",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "研究多个个体或团队之间在特定条件制约下的对局里，利用相关方的策略而实施对应策略的理论。认为参加斗争或竞争的各方有不同的目标或利益，为了达到各自的目标和利益，各方必须考虑对手各种可能的行动方案，并力图选"
+  },
+  {
+   "cn": "权变理论",
+   "en": "contingency theory",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.22",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "认为没有普遍适用的、最合理的管理模式与原则，内部特征与所处环境的要求相匹配的组织适应性最强，所以组织必须随机制宜地处理管理问题的理论观点。"
+  },
+  {
+   "cn": "品味理论",
+   "en": "taste theory",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.32",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "布迪厄以美学品味的议题为基础所发展出的社会阶层化理论。认为品味，也即人们对于饮食、文化和艺术表演的喜好等都是阶级指标，人们的这些消费倾向都对应于个人在社会中的位置。"
+  },
+  {
+   "cn": "法律思想",
+   "en": "legal theory",
+   "source": "社会学名词",
+   "wordNumber": "3.7.8.4",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律文化",
+   "subjectName": "法律文化",
+   "publishYear": "2025",
+   "definition": "关于法和法律现象的观点、理论和学说。"
+  },
+  {
+   "cn": "接受理论",
+   "en": "reception theory",
+   "source": "社会学名词",
+   "wordNumber": "3.8.2.3",
+   "subjectFullName": "社会学名词_分支社会学_文化社会学_大众传媒研究",
+   "subjectName": "大众传媒研究",
+   "publishYear": "2025",
+   "definition": "文学理论中关于读者反应的一种学说，强调读者对文学作品的接受程度，讨论文学作品与读者之间的关系。德国美学家姚斯(H.R.Jauss）在20世纪60年代最先提出该理论。"
+  },
+  {
+   "cn": "宗教剥夺理论",
+   "en": "deprivation theory",
+   "source": "社会学名词",
+   "wordNumber": "3.9.2.13",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教研究",
+   "subjectName": "宗教研究",
+   "publishYear": "2025",
+   "definition": "认为绝对的或相对的被剥夺使得个人比较容易响应特定的宗教召唤，其最广为人知的观点即马克思的宗教鸦片说。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

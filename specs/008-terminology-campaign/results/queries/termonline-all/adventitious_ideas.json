@@ -1,0 +1,602 @@
+{
+ "key": "adventitious ideas",
+ "term": "adventitious ideas",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T04:11:43+00:00",
+ "status": "ok",
+ "note": "variant=adventitious ideas; 审定公布名词库=268; 海峡两岸名词对照库=58; 其他来源数据库=11; 预公布名词数据库=10; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "理念",
+   "en": "idea",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.044",
+   "subjectFullName": "自然辩证法_自然哲学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2024",
+   "definition": "可感个体事物的共性、本原，是先于和离开可感事物而独立存在的，是可感事物追求的目标和赖以产生的原因。其世界是绝对的、永恒的，是理性认知的对象。"
+  },
+  {
+   "cn": "意",
+   "en": "idea",
+   "source": "中医药学名词",
+   "wordNumber": "03.401",
+   "subjectFullName": "中医药学_中医基础理论_气血津液精神",
+   "subjectName": "气血津液精神",
+   "publishYear": "2004",
+   "definition": "意念。获得印象，形成记忆。"
+  },
+  {
+   "cn": "不定胚生殖",
+   "en": "adventitious embryony",
+   "source": "农学名词",
+   "wordNumber": "06.349",
+   "subjectFullName": "作物基因组学与遗传育种_作物遗传改良",
+   "subjectName": "作物遗传改良",
+   "publishYear": "2025",
+   "definition": "由胚囊周围的珠心或珠被的二倍体细胞直接发育成胚的生殖方式。"
+  },
+  {
+   "cn": "不定芽",
+   "en": "adventitious bud",
+   "source": "风景园林名词",
+   "wordNumber": "09.0203",
+   "subjectFullName": "风景园林_风景园林植物_风景园林植物遗传育种",
+   "subjectName": "风景园林植物遗传育种",
+   "publishYear": "2025",
+   "definition": "生于根、茎、叶以及细胞培养、组织培养形成的愈伤组织上的芽。"
+  },
+  {
+   "cn": "附属多形",
+   "en": "adventitious polymorph",
+   "source": "动物学名词",
+   "wordNumber": "5.2568",
+   "subjectFullName": "动物学_无脊椎动物学_苔藓动物门",
+   "subjectName": "苔藓动物门",
+   "publishYear": "2021",
+   "definition": "在苔藓动物裸唇纲中，只与其他一个个虫相关联，且通常小于该关联个虫的多形。在某些情况下成为该关联个虫的附属构造。"
+  },
+  {
+   "cn": "附属鸟头体",
+   "en": "adventitious avicularium",
+   "source": "动物学名词",
+   "wordNumber": "5.2572",
+   "subjectFullName": "动物学_无脊椎动物学_苔藓动物门",
+   "subjectName": "苔藓动物门",
+   "publishYear": "2021",
+   "definition": "位于个虫表面，源自一个或多个前壁边缘孔的鸟头体。"
+  },
+  {
+   "cn": "附属芽",
+   "en": "adventitious bud",
+   "source": "动物学名词",
+   "wordNumber": "5.2705",
+   "subjectFullName": "动物学_无脊椎动物学_苔藓动物门",
+   "subjectName": "苔藓动物门",
+   "publishYear": "2021",
+   "definition": "被唇类苔藓动物中沿母个虫主轴发育的主芽背面的小的芽体原基。随着主芽发育成为新的虫体，此小芽成为母体的主芽。"
+  },
+  {
+   "cn": "不定根",
+   "en": "adventitious root",
+   "source": "化工名词（六）生物化工",
+   "wordNumber": "03.156",
+   "subjectFullName": "化工（六）_生物反应工程与生物反应器_细胞工程_动物细胞工程",
+   "subjectName": "动物细胞工程",
+   "publishYear": "2021",
+   "definition": "植物的茎、叶或组织培养中的愈伤组织上所发生的非胚根所形成的，没有固定的生长部位，不按正常时序发生的根。"
+  },
+  {
+   "cn": "不定芽",
+   "en": "adventitious bud",
+   "source": "化工名词（六）生物化工",
+   "wordNumber": "03.157",
+   "subjectFullName": "化工（六）_生物反应工程与生物反应器_细胞工程_动物细胞工程",
+   "subjectName": "动物细胞工程",
+   "publishYear": "2021",
+   "definition": "从通常不形成芽的部位（如叶、根、茎节间或离体培养的愈伤组织等）生出的芽。"
+  },
+  {
+   "cn": "不定胚",
+   "en": "adventitious embryo",
+   "source": "植物学名词",
+   "wordNumber": "08.0357",
+   "subjectFullName": "植物学_植物生殖与发育生物学",
+   "subjectName": "植物生殖与发育生物学",
+   "publishYear": "2019",
+   "definition": "由胚囊外面的珠心或珠被形成的胚。"
+  },
+  {
+   "cn": "不定芽",
+   "en": "adventitious bud",
+   "source": "植物学名词",
+   "wordNumber": "03.0093",
+   "subjectFullName": "植物学_植物形态与结构植物学_植物形态学",
+   "subjectName": "植物形态学",
+   "publishYear": "2019",
+   "definition": "从植物叶子、根、枝等非正常位置产生的芽。如从叶子生长的芽，如秋海棠；或从根上发出的芽，如甘薯；或从枝上发出的芽，如柳树属植物。"
+  },
+  {
+   "cn": "不定根",
+   "en": "adventitious root",
+   "source": "植物学名词",
+   "wordNumber": "03.0004",
+   "subjectFullName": "植物学_植物形态与结构植物学_植物形态学",
+   "subjectName": "植物形态学",
+   "publishYear": "2019",
+   "definition": "从植物叶、茎、老根、胚轴或愈伤组织等非生根部位处长出的根。"
+  },
+  {
+   "cn": "不定胚生殖",
+   "en": "adventitious embryony",
+   "source": "植物学名词",
+   "wordNumber": "08.0028",
+   "subjectFullName": "植物学_植物生殖与发育生物学",
+   "subjectName": "植物生殖与发育生物学",
+   "publishYear": "2019",
+   "definition": "由胚囊周围的珠心或珠被的二倍体细胞直接发育成胚的一种生殖方式。"
+  },
+  {
+   "cn": "不定枝",
+   "en": "adventitious shoot",
+   "source": "植物学名词",
+   "wordNumber": "03.0087",
+   "subjectFullName": "植物学_植物形态与结构植物学_植物形态学",
+   "subjectName": "植物形态学",
+   "publishYear": "2019",
+   "definition": "由不定芽发育形成的枝。"
+  },
+  {
+   "cn": "附加音",
+   "en": "adventitious sound",
+   "source": "呼吸病学名词",
+   "wordNumber": "06.100",
+   "subjectFullName": "呼吸病学_症状与体征_体征",
+   "subjectName": "体征",
+   "publishYear": "2018",
+   "definition": "呼吸音以外的由于肺或胸膜病变所致的异常声音。性质特异，伴随呼吸音出现，包括啰音和胸膜摩擦音。"
+  },
+  {
+   "cn": "不定根",
+   "en": "adventitious root",
+   "source": "林学名词",
+   "wordNumber": "02.331",
+   "subjectFullName": "林学_林学基础_森林植物",
+   "subjectName": "森林植物",
+   "publishYear": "2016",
+   "definition": "在植物体主根和侧根以外的部分如茎、叶、胚轴或老根上形成的根。"
+  },
+  {
+   "cn": "偶发隔膜",
+   "en": "adventitious septum",
+   "source": "微生物学名词",
+   "wordNumber": "03.197",
+   "subjectFullName": "微生物学_微生物形态与结构",
+   "subjectName": "微生物形态与结构",
+   "publishYear": "2012",
+   "definition": "不受核分裂控制而形成的隔膜。"
+  },
+  {
+   "cn": "偶生叶",
+   "en": "adventitious lobe",
+   "source": "古生物学名词",
+   "wordNumber": "02.0753",
+   "subjectFullName": "古生物学_古无脊椎动物学_软体动物门",
+   "subjectName": "软体动物门",
+   "publishYear": "2009",
+   "definition": "在腹鞍与第一侧叶之间的次生叶。其大小几乎与原生的腹叶和侧叶相等。"
+  },
+  {
+   "cn": "附加音",
+   "en": "adventitious sound",
+   "source": "医学名词 第一分册",
+   "wordNumber": "05.132",
+   "subjectFullName": "医学_呼吸病学",
+   "subjectName": "呼吸病学",
+   "publishYear": "1989",
+   "definition": ""
+  },
+  {
+   "cn": "外膜剥离术",
+   "en": "adventitial stripping",
+   "source": "整形外科名词",
+   "wordNumber": "5.029",
+   "subjectFullName": "整形外科_显微外科_显微外科基本技术",
+   "subjectName": "显微外科基本技术",
+   "publishYear": "2026",
+   "definition": "血管吻合时，对痉挛的血管外膜加以切除，以避免或减轻血管痉挛的方法。"
+  },
+  {
+   "cn": "不定根",
+   "en": "adventitious root",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "不定胚",
+   "en": "adventitious embryo",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "不定胚生殖",
+   "en": "adventitious embryony",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "不定芽",
+   "en": "adventitious bud",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "不定枝",
+   "en": "adventitious shoot",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "外源沉积",
+   "en": "adventitious deposit",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "不定胚",
+   "en": "adventitious embryo",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "附属小管",
+   "en": "adventitious tubule",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "附属芽",
+   "en": "adventitious bud",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "意念飘忽",
+   "en": "flight of ideas",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "观念联想",
+   "en": "association of ideas",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "进步的理念",
+   "en": "idea of progress",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "景观思想",
+   "en": "idea of landschaft",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "思想生成系统",
+   "en": "idea generation system",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自杀意念",
+   "en": "suicidal idea\",\"suicidal ideation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "理想板",
+   "en": "ideal plate\",\"ideal tray",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "理想品种",
+   "en": "ideal variety",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "理想流体",
+   "en": "ideal fluid",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "理想气候",
+   "en": "ideal climate",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "理想循环",
+   "en": "ideal cycle",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "意不称物，文不逮意",
+   "en": "Ideas Cannot Match Actual Things and Words Cannot Fully Express Ideas.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "文以载道",
+   "en": "Literature Is the Vehicle of Ideas.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "三不朽",
+   "en": "Set Moral Examples, Perform Great Deeds, and Spread Noble Ideas",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "道不欲杂",
+   "en": "The Fundamental Principle Should Not Be a Mixture of Ideas.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "夺胎换骨",
+   "en": "Express the Ideas in Earlier&nbsp;Literary Works in a New Way",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "文成规矩，思合符契",
+   "en": "The Sage’s Compositions Set the Rules of Writing, and His Ideas Fit Perfectly with Objective Things.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "应然数权",
+   "en": "ideal data rights",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "理想跑动线路",
+   "en": "ideal line of running",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "君子固穷",
+   "en": "A Man of Virtue Maintains His Ideals even in Frustrations.&nbsp;",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "观念",
+   "en": "idea",
+   "source": "马克思主义",
+   "wordNumber": "01.0016",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "客观事物在人脑中的一种能动反映形式，同物质相区别，泛指人们对事物的印象、认识、看法。"
+  },
+  {
+   "cn": "实践理念",
+   "en": "practical idea",
+   "source": "马克思主义",
+   "wordNumber": "01.0121",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "实践活动除了要遵循外部世界的客观尺度，还要体现自己的需要和目的，即内在尺度。实践活动在实际进行之前，必须在头脑中观念地建构起这两种尺度的统一模式，在观念上首先实现两种尺度的统一，这种统一的模式观念就是"
+  },
+  {
+   "cn": "主体思想",
+   "en": "Juche idea",
+   "source": "马克思主义",
+   "wordNumber": "05.0236",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_国外社会主义思想流派",
+   "subjectName": "国外社会主义思想流派",
+   "publishYear": "2025",
+   "definition": "朝鲜劳动党和朝鲜民主主义人民共和国的指导思想，指以人为中心的世界观、以实现人民群众的自主性为目标的革命思想，强调人民群众是革命和建设的主人和推动力。由金日成创立，金正日加以深化发展。"
+  },
+  {
+   "cn": "两种改革开放观",
+   "en": "two ideas of reform and opening up",
+   "source": "马克思主义",
+   "wordNumber": "04.0386",
+   "subjectFullName": "马克思主义_其他部分_主要思想流派_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "在改革开放过程中，始终存在两种不同的改革观的较量。邓小平指出：“有一些人打着拥护改革开放的旗帜，想把中国引导到资本主义，他是要改变我们社会的性质。”在1989年他指出：“某些人所谓的改革，应该换个名字"
+  },
+  {
+   "cn": "道德理想",
+   "en": "moral ideal",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.02",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "道德追求的最高境界。包括个人道德理想和社会道德理想两个方面。前者指基于一定道德要求的认识，自觉向往和追求的理想人格；后者指理想的社会道德状况。"
+  },
+  {
+   "cn": "职业理想",
+   "en": "professional ideal",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.045",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人们确立的与职业目标相联系的愿望。既是职业道德的要求，又有利于职业道德的实现。"
+  },
+  {
+   "cn": "共产主义理想",
+   "en": "ideal of the communism",
+   "source": "马克思主义",
+   "wordNumber": "03.0020",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "无产阶级以马克思主义为指导、要在全世界建立共产主义社会的理想信念。"
+  },
+  {
+   "cn": "共产主义理想信念",
+   "en": "communist ideals and beliefs",
+   "source": "马克思主义",
+   "wordNumber": "03.0553",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "对共产主义的理论和原则有了深刻的认识和理解并有了情感基础而产生的对共产主义的真诚信仰和坚强信心的思想意识。它是无产阶级世界观成熟的标志，是建立在马克思和恩格斯创立的科学社会主义理论之上的，是促使革命者"
+  },
+  {
+   "cn": "党的最高理想",
+   "en": "highest ideal of the Party",
+   "source": "马克思主义",
+   "wordNumber": "03.0717",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "即党的最终奋斗目标，是党的最高纲领的核心内容。中国共产党党章明确规定，党的最高理想和最终目标是实现共产主义。"
+  },
+  {
+   "cn": "中国特色社会主义共同理想",
+   "en": "common ideal of socialism with chinese characteristics",
+   "source": "马克思主义",
+   "wordNumber": "03.0698",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "社会主义核心价值体系基本内容的一部分。即坚定对中国共产党的信任，坚定走中国特色社会主义道路，坚定实现中华民族的伟大复兴。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

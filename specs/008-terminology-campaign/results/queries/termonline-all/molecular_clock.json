@@ -1,0 +1,632 @@
+{
+ "key": "molecular clock",
+ "term": "molecular clock",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T04:13:11+00:00",
+ "status": "ok",
+ "note": "variant=molecular clock; 审定公布名词库=1789; 海峡两岸名词对照库=646; 其他来源数据库=128; 预公布名词数据库=12; jwt-direct（JWT 直连，raw 略；已滤维基 10 条）",
+ "hits": [
+  {
+   "cn": "分子钟",
+   "en": "molecular clock",
+   "source": "农学名词",
+   "wordNumber": "06.018",
+   "subjectFullName": "作物基因组学与遗传育种_作物起源进化与多样性",
+   "subjectName": "作物起源进化与多样性",
+   "publishYear": "2025",
+   "definition": "依据拟转座子长末端重复序列LTR（long terminal repeat）和基因序列变化，估算发育树中分支发生年代的测量系统。常用百万年表示。"
+  },
+  {
+   "cn": "分子钟",
+   "en": "molecular clock",
+   "source": "天文学名词",
+   "wordNumber": "06.188",
+   "subjectFullName": "天文学_天文仪器与技术",
+   "subjectName": "天文仪器与技术",
+   "publishYear": "2024",
+   "definition": "以某种分子在特定能级之间的量子跃迁原理工作的精确时间和频率标准制成的时钟。"
+  },
+  {
+   "cn": "分子钟",
+   "en": "molecular clock",
+   "source": "动物学名词",
+   "wordNumber": "2.0251",
+   "subjectFullName": "动物学_动物进化与系统学_动物进化",
+   "subjectName": "动物进化",
+   "publishYear": "2021",
+   "definition": "蛋白质、DNA、RNA等生物大分子以相对恒定的速率发生替换，其替换速率与分子进化的时间成正相关，因此被作为推断进化事件发生时间的依据而视为一种计时器。"
+  },
+  {
+   "cn": "分子钟",
+   "en": "molecular clock",
+   "source": "植物学名词",
+   "wordNumber": "02.0269",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "蛋白质、DNA、RNA等生物大分子以相对恒定的速率发生替换，其替换速率与分子进化的时间呈正相关，因此被作为推断进化事件发生时间的依据而视为一种计时器。"
+  },
+  {
+   "cn": "分子钟",
+   "en": "molecular clock",
+   "source": "物理学名词",
+   "wordNumber": "07.0296",
+   "subjectFullName": "物理学_原子、分子物理学",
+   "subjectName": "原子、分子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "分子钟",
+   "en": "molecular clock",
+   "source": "古生物学名词",
+   "wordNumber": "06.0025",
+   "subjectFullName": "古生物学_地球生物学与分子古生物学_分子古生物学",
+   "subjectName": "分子古生物学",
+   "publishYear": "2009",
+   "definition": "一种关于分子进化的假说，认为两个物种的同源基因之间的差异程度与它们的共同祖先的存在时间(即两者的分歧时间)有一定的数量关系。基于这个假说，可以计算生物谱系发育的年代表。"
+  },
+  {
+   "cn": "分子钟",
+   "en": "molecular clock",
+   "source": "遗传学名词",
+   "wordNumber": "07.094",
+   "subjectFullName": "遗传学_进化遗传学",
+   "subjectName": "进化遗传学",
+   "publishYear": "2007",
+   "definition": "认为生物的各个系谱中，任何确定的氨基酸或核酸序列的进化速率近似相等的一种假说。"
+  },
+  {
+   "cn": "分子钟",
+   "en": "molecular clock",
+   "source": "生态学名词",
+   "wordNumber": "04.014",
+   "subjectFullName": "生态学_进化生态学",
+   "subjectName": "进化生态学",
+   "publishYear": "2006",
+   "definition": "由美国进化生物学家朱克坎德尔(E. Zuckerkandl)和波林(L. Pauling)于1963年提出，用DNA链中核酸序列替换速率推导进化事件发生时间的方法。"
+  },
+  {
+   "cn": "分子钟",
+   "en": "molecular chronometer,molecular clock",
+   "source": "微生物学名词",
+   "wordNumber": "02.023",
+   "subjectFullName": "微生物学_微生物系统学",
+   "subjectName": "微生物系统学",
+   "publishYear": "2012",
+   "definition": "蛋白质、DNA、RNA等生物大分子以相对恒定的速率发生替换，其替换速率与分子进化的时间成正相关，因此被作为推断进化事件发生时间的依据而视为一种计时器。"
+  },
+  {
+   "cn": "时钟",
+   "en": "clock",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "03.140",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程模拟",
+   "subjectName": "过程模拟",
+   "publishYear": "2024",
+   "definition": "在过程仿真培训系统界面中显示系统进度的部件。此项有三个指令：时钟设置、模拟时钟、数字时钟。"
+  },
+  {
+   "cn": "时钟周期",
+   "en": "clock cycle,clock period,clock tick",
+   "source": "计算机科学技术名词",
+   "wordNumber": "03.0351",
+   "subjectFullName": "计算机科学技术_计算机体系结构_处理系统",
+   "subjectName": "处理系统",
+   "publishYear": "2018",
+   "definition": "处理机工作的基本时间单位。"
+  },
+  {
+   "cn": "时钟",
+   "en": "clock,CK",
+   "source": "通信科学技术名词",
+   "wordNumber": "03.024",
+   "subjectFullName": "通信科学技术_支撑网络",
+   "subjectName": "支撑网络",
+   "publishYear": "2007",
+   "definition": "提供周期性定时信号的设备。"
+  },
+  {
+   "cn": "时钟比对",
+   "en": "clock comparison",
+   "source": "天文学名词",
+   "wordNumber": "02.271",
+   "subjectFullName": "天文学_天体测量学",
+   "subjectName": "天体测量学",
+   "publishYear": "2024",
+   "definition": "不同时钟的钟面时之差的测量。"
+  },
+  {
+   "cn": "钟差",
+   "en": "clock offset",
+   "source": "天文学名词",
+   "wordNumber": "02.272",
+   "subjectFullName": "天文学_天体测量学",
+   "subjectName": "天体测量学",
+   "publishYear": "2024",
+   "definition": "(1)两个钟的钟面时之差。(2)一个钟的钟面时和参考标准时之差。"
+  },
+  {
+   "cn": "钟速",
+   "en": "clock rate",
+   "source": "天文学名词",
+   "wordNumber": "02.273",
+   "subjectFullName": "天文学_天体测量学",
+   "subjectName": "天体测量学",
+   "publishYear": "2024",
+   "definition": "单位时间一个钟的钟差改变量。"
+  },
+  {
+   "cn": "水钟",
+   "en": "water-clock",
+   "source": "天文学名词",
+   "wordNumber": "05.266",
+   "subjectFullName": "天文学_天文学史",
+   "subjectName": "天文学史",
+   "publishYear": "2024",
+   "definition": "以漏水的动力通过传动装置带动指示部件以给出时刻的计时仪器。"
+  },
+  {
+   "cn": "雪特钟",
+   "en": "Shortt clock",
+   "source": "天文学名词",
+   "wordNumber": "05.267",
+   "subjectFullName": "天文学_天文学史",
+   "subjectName": "天文学史",
+   "publishYear": "2024",
+   "definition": "石英钟出现前精密度最高的一种天文机械摆钟。在恒温、真空中由电路连接的双摆机构，每日稳定度达千分之几秒。由英国人雪特(Shortt)发明。"
+  },
+  {
+   "cn": "钟楼",
+   "en": "clock tower",
+   "source": "天文学名词",
+   "wordNumber": "05.283",
+   "subjectFullName": "天文学_天文学史",
+   "subjectName": "天文学史",
+   "publishYear": "2024",
+   "definition": "中国古代城镇用钟声报时的官方建筑。"
+  },
+  {
+   "cn": "恒星钟",
+   "en": "sidereal clock",
+   "source": "天文学名词",
+   "wordNumber": "06.185",
+   "subjectFullName": "天文学_天文仪器与技术",
+   "subjectName": "天文仪器与技术",
+   "publishYear": "2024",
+   "definition": "以恒星时为计时单位的时钟。"
+  },
+  {
+   "cn": "原子钟",
+   "en": "atomic clock",
+   "source": "天文学名词",
+   "wordNumber": "06.187",
+   "subjectFullName": "天文学_天文仪器与技术",
+   "subjectName": "天文仪器与技术",
+   "publishYear": "2024",
+   "definition": "以某种原子的特定能级之间的量子跃迁原理工作的精确时间和频率标准制成的时钟。"
+  },
+  {
+   "cn": "分子钟",
+   "en": "molecular clock",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "分子钟",
+   "en": "molecular clock",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "分子钟",
+   "en": "molecular clock",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "分子钟",
+   "en": "molecular clock",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "分子钟",
+   "en": "molecular clock\",\"molecular chronometer",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "时钟",
+   "en": "clock",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "船钟",
+   "en": "clock",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "时钟周期",
+   "en": "clock cycle\",\"clock tick\",\"clock period",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "雪特钟",
+   "en": "Shortt clock\",\"Shorrtt clock",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "子钟",
+   "en": "secondary clock\",\"slave clock",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "进化钟",
+   "en": "evolutionary clock",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生物钟",
+   "en": "biological clock",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生物钟",
+   "en": "biological clock",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "氨钟",
+   "en": "ammonia clock",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "恒星钟",
+   "en": "sidereal clock",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "母钟",
+   "en": "primary clock",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "氢钟",
+   "en": "hydrogen clock",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "铷钟",
+   "en": "rubidium clock",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "铯钟",
+   "en": "caesium clock",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "石英钟",
+   "en": "quartz clock",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "计时!",
+   "en": "Clock!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "24秒计时器",
+   "en": "24-second clock",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "秒表",
+   "en": "stopwatch\",\"timing clock",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "量子时钟网络",
+   "en": "quantum clock network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "24秒计时员",
+   "en": "24-second clock operator",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "秒表",
+   "en": "stopwatch\",\"timer\",\"timing clock",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "锶原子光晶格钟",
+   "en": "strontium optical lattice clock",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "冷原子喷泉钟",
+   "en": "cold atomic fountain clock",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "昼夜不停的施工进度",
+   "en": "around-the-clock construction   ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_社会治理",
+   "subjectName": "社会治理",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "停表",
+   "en": "stop of the clock",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "分子生物学",
+   "en": "molecular biology",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.1.1",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_检测方法",
+   "subjectName": "检测方法",
+   "publishYear": "2025",
+   "definition": "从分子水平上研究生命现象物质基础的学科。研究细胞成分的物理、化学的性质和变化以及这些性质和变化与生命现象的关系，如遗传信息的传递，基因的结构、复制、转录、翻译、表达调控和表达产物的生理功能，以及细胞信"
+  },
+  {
+   "cn": "分子蒸馏",
+   "en": "molecular distillation",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.3.3.8",
+   "subjectFullName": "食品卫生学_食品添加剂_食品用香精香料",
+   "subjectName": "食品用香精香料",
+   "publishYear": "2025",
+   "definition": "在高真空下依据不同物质分子运动平均自由程的差异而实现物质分离的方法"
+  },
+  {
+   "cn": "分子放射生物学",
+   "en": "molecular radiation biology",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.5",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "从分子水平上研究电离辐射所致核酸、蛋白质等生物大分子的结构、功能、生物合成和代谢等变化来阐明电离辐射生物效应及其机制的学科。"
+  },
+  {
+   "cn": "分子遗传学方法",
+   "en": "molecular genetic methods.",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.1.1.67",
+   "subjectFullName": "食品卫生学_食品污染_食品生物性危害因素",
+   "subjectName": "食品生物性危害因素",
+   "publishYear": "2025",
+   "definition": "在种群水平上，利用遗传标记和高通量测序的方法，对遗传多样性进行检测和分析。"
+  },
+  {
+   "cn": "病原体分子分型",
+   "en": "pathogen molecular subtyping",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.21.5",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "利用分子生物学技术，在DNA, RNA,蛋白质等生物大分子水平上对病原体进行精细区分和分类的方法。它不同于形态、生化反应、血清型等传统表型分型方法，能够从遗传本质上识别和区分不同来源的菌株或病毒株。"
+  },
+  {
+   "cn": "分子起始事件",
+   "en": "molecular initiating event, MIE",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.2.54",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "外源化学物与生物体接触，在分子水平上产生的能引起下游事件并导致有害结局所必需的分子间相互作用的原初事件。"
+  },
+  {
+   "cn": "食源性致病菌分子溯源",
+   "en": "foodborne pathogen molecular tracing",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.34",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "通过对病人和食品中食源性致病菌分离株进行分子分型和聚类分析，识别聚集性病例，指导病因性食品的溯源调查的监测过程。"
+  },
+  {
+   "cn": "射野挡块",
+   "en": "shield block",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.19.11",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "阻挡有用射束的防护块，用于形成所需的任意形状的照射野。"
+  },
+  {
+   "cn": "同群动物",
+   "en": "flock herd",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.5.36",
+   "subjectFullName": "食品卫生学_食品_畜肉",
+   "subjectName": "畜肉",
+   "publishYear": "2025",
+   "definition": "以自然小群为单位，有直接传播疫病可能的同一小环境的动物，如同圈（舍）、同车、同一饲养员管理等。"
+  },
+  {
+   "cn": "共刺激分子",
+   "en": "costimulatory molecule",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.5.47",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_炎症介质",
+   "subjectName": "炎症介质",
+   "publishYear": "2025",
+   "definition": "位于抗原呈递细胞上，可将共刺激信号传递给幼稚T细胞的细胞表面蛋白。例如树突细胞上的B7分子，它们是幼稚T细胞上CD28的配体。其概念于1970年由布雷斯特谢（Brestcher）和科恩（Cohn）首先"
+  },
+  {
+   "cn": "单分子测序",
+   "en": "\"single molecule sequencing\"",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.5.1.5",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病的诊断试验和检查_检测方法",
+   "subjectName": "检测方法",
+   "publishYear": "2025",
+   "definition": "“第三代测序技术 (third generation sequencing technique)”。在DNA测序时，不需要经过PCR扩增，对每一条DNA分子进行单独测序的技术。为单分子实时DNA测序。"
+  },
+  {
+   "cn": "食品追溯区块链",
+   "en": "food traceability block chain",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.56",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "通过去中心化的分布式账本记录特性与物联等手段相结合，实现对食品行业从源头的信息采集记录、原料来源、生产过程、加工环节、仓储信息、检验批次、物流周转、质检等的全过程追溯功能的区块链。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

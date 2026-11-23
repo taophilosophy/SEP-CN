@@ -1,0 +1,742 @@
+{
+ "key": "negative analogy",
+ "term": "negative analogy",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T04:13:19+00:00",
+ "status": "ok",
+ "note": "variant=negative analogy; 审定公布名词库=1219; 海峡两岸名词对照库=433; 其他来源数据库=36; 预公布名词数据库=47; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "类比",
+   "en": "analogy",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.121",
+   "subjectFullName": "自然辩证法_科学技术方法论_分析与推理",
+   "subjectName": "分析与推理",
+   "publishYear": "2024",
+   "definition": "根据对象之间的某些相同或相似的性质，推断它们在其他性质上可能存在相同或相似的一种推理形式。类比是一种主观的不充分的似真推理。"
+  },
+  {
+   "cn": "同功",
+   "en": "analogy",
+   "source": "动物学名词",
+   "wordNumber": "2.0266",
+   "subjectFullName": "动物学_动物进化与系统学_动物进化",
+   "subjectName": "动物进化",
+   "publishYear": "2021",
+   "definition": "不同生物类群的器官虽来源和结构不同，但功能相似的现象。"
+  },
+  {
+   "cn": "类比",
+   "en": "analogy",
+   "source": "物理学名词",
+   "wordNumber": "01.0128",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "同功",
+   "en": "analogy",
+   "source": "植物学名词",
+   "wordNumber": "02.0207",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "不同生物类群的器官虽来源和结构不同，但功能相似的现象。"
+  },
+  {
+   "cn": "类比",
+   "en": "analogy",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "03.0020",
+   "subjectFullName": "化工（三）_传递过程与单元操作",
+   "subjectName": "传递过程与单元操作",
+   "publishYear": "2019",
+   "definition": "动量、质量传递与简单的热量传递——导热有相同的分子动力学机理和相似的数学表达式，这种关系称为类比。"
+  },
+  {
+   "cn": "类比",
+   "en": "analogy",
+   "source": "心理学名词",
+   "wordNumber": "02.627",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "根据两种事物之间性质的异同，用一种特定事物的性质来说明另一种特定事物，即借助前者理解后者的认知过程。"
+  },
+  {
+   "cn": "同功",
+   "en": "analogy",
+   "source": "古生物学名词",
+   "wordNumber": "01.0066",
+   "subjectFullName": "古生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2009",
+   "definition": "不同类群生物的器官虽来源和结构不同，却功能相似的现象。如蝙蝠和蝴蝶的翅膀。"
+  },
+  {
+   "cn": "同功器官",
+   "en": "analogy",
+   "source": "生态学名词",
+   "wordNumber": "04.050",
+   "subjectFullName": "生态学_进化生态学",
+   "subjectName": "进化生态学",
+   "publishYear": "2006",
+   "definition": "功能相同，外表类似，但来源上不相同，结构不相同的器官。同功器官不说明在进化上有共同来源，只是具有相似的功能。"
+  },
+  {
+   "cn": "类比",
+   "en": "analogy",
+   "source": "化学工程名词",
+   "wordNumber": "03.021",
+   "subjectFullName": "化学工程_传递过程与单元操作_传递过程与单元操作基本概念",
+   "subjectName": "传递过程与单元操作基本概念",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "类似物",
+   "en": "analog",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.0129",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "具有母体化合物核心结构特征的化合物。如核苷类似物、肽类似物等。"
+  },
+  {
+   "cn": "模拟",
+   "en": "analog",
+   "source": "医学影像技术学名词",
+   "wordNumber": "03.002",
+   "subjectFullName": "医学影像技术学_数字X射线成像技术_数字影像学基础",
+   "subjectName": "数字影像学基础",
+   "publishYear": "2020",
+   "definition": "某种范畴的表达方式，如实地反映另一种范畴。"
+  },
+  {
+   "cn": "[结构]类似物",
+   "en": "analog",
+   "source": "药学名词",
+   "wordNumber": "03.267",
+   "subjectFullName": "药学_药物化学",
+   "subjectName": "药物化学",
+   "publishYear": "2014",
+   "definition": "与现有药物分子在化学结构上具有相似性的化合物。"
+  },
+  {
+   "cn": "负片",
+   "en": "negative",
+   "source": "测绘学名词",
+   "wordNumber": "03.060",
+   "subjectFullName": "测绘学_摄影测量学与遥感",
+   "subjectName": "摄影测量学与遥感",
+   "publishYear": "2020",
+   "definition": "影像色调与景物的明暗程度相反或色彩为互补色的像片。"
+  },
+  {
+   "cn": "负片",
+   "en": "negative",
+   "source": "物理学名词",
+   "wordNumber": "04.0793",
+   "subjectFullName": "物理学_光学、声学_光学_几何光学、光学仪器、生理光学、光度学、色度学",
+   "subjectName": "几何光学、光学仪器、生理光学、光度学、色度学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "否定[的]",
+   "en": "negative",
+   "source": "数学名词",
+   "wordNumber": "01.0067",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "类似物",
+   "en": "analog,analogue",
+   "source": "化学名词",
+   "wordNumber": "02.0003",
+   "subjectFullName": "化学_有机化学_有机化合物_有机化合物及其类名",
+   "subjectName": "有机化合物及其类名",
+   "publishYear": "2016",
+   "definition": "(1)狭义的，保留母体化合物的基本结构，以类似原子或基团代替母体化合物结构中的碳原子或其他原子而生成的新化合物。例如核苷类似物、肽类似物等。(2)广义的，具有母体化合物核心结构特征的化合物。"
+  },
+  {
+   "cn": "比拟法",
+   "en": "analogy method",
+   "source": "地质学名词",
+   "wordNumber": "15.03.007",
+   "subjectFullName": "地质学_地热地质学_地热资源勘查与利用",
+   "subjectName": "地热资源勘查与利用",
+   "publishYear": "2026",
+   "definition": "利用已知地热田的地热资源储量，类比推算地热地质条件相似的地热田的地热资源储量，或用同一地热田内地热资源储量的已知部分来推算其他部分的地热资源储量的方法。"
+  },
+  {
+   "cn": "气候相似原理",
+   "en": "climatic analogy ",
+   "source": "草学名词",
+   "wordNumber": "3.0497",
+   "subjectFullName": "草学_草地资源与利用",
+   "subjectName": "草地资源与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "等瓣相似",
+   "en": "isolobal analogy",
+   "source": "化学名词",
+   "wordNumber": "02.1505",
+   "subjectFullName": "化学_有机化学_金属有机化学",
+   "subjectName": "金属有机化学",
+   "publishYear": "2016",
+   "definition": "两个或多个分子碎片之间在前线轨道数目、对称性、能量、形状及所含电子数上的相似性。如<img src='/root/syzx/static/spz/huaxue2.02.0800.2.png'/>与<i"
+  },
+  {
+   "cn": "水力模拟",
+   "en": "hydraulic analogy",
+   "source": "建筑学名词",
+   "wordNumber": "10.0442",
+   "subjectFullName": "建筑学_建筑物理_建筑气候学",
+   "subjectName": "建筑气候学",
+   "publishYear": "2014",
+   "definition": "用水力学中的阻力相当于热阻，水压差相当于温度差，蓄水量相当于热容量的方法来模拟传热的实验方法。"
+  },
+  {
+   "cn": "同功",
+   "en": "analogy",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "类比",
+   "en": "analogy",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "类比",
+   "en": "analogy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "同功",
+   "en": "analogy",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "同功",
+   "en": "analogy",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "类比",
+   "en": "analog",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "类似物",
+   "en": "analog",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "[结构]类似物",
+   "en": "analog",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "负片",
+   "en": "negative",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "模拟测图仪",
+   "en": "analog plotter\",\"analog bridging",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "模拟",
+   "en": "simulation\",\"analogy",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "农业气候相似",
+   "en": "agroclimatic analogy",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "电类比",
+   "en": "electric analogy",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "类比系统",
+   "en": "analogy system",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "类比理论",
+   "en": "analogy theory",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "等瓣相似",
+   "en": "isolobal analogy",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "类比法",
+   "en": "constructed analogs",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "气候类比",
+   "en": "climate analogs",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "类比模式",
+   "en": "analog model",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "模拟计算机",
+   "en": "analog computer",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "模拟计算机",
+   "en": "analog computer",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "模拟电路",
+   "en": "analog circuit",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "模拟信号",
+   "en": "analog signal",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非数字配套机制",
+   "en": "analog complement",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "假阴性",
+   "en": "false negative",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "类比学习",
+   "en": "learning by analogy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "负压救护车",
+   "en": "negative pressure ambulance",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_器具名称",
+   "subjectName": "器具名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "负压房间",
+   "en": "negative pressure room",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "专有词汇_场所名称",
+   "subjectName": "场所名称",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "赋比兴",
+   "en": "Narrative, Analogy, and Association",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "模数转换",
+   "en": "analog-to-digital conversion",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "市场准入负面清单",
+   "en": "market access negative list",
+   "source": "中央文献重要术语",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2015",
+   "definition": ""
+  },
+  {
+   "cn": "比显兴隐",
+   "en": "Make Analogy Explicit and Association Implicit",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "公共数据开放负面清单制度",
+   "en": "negative list system for open public data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "阴性偏差",
+   "en": "negative deviation",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.5.49",
+   "subjectFullName": "食品卫生学_总论_食品安全风险监测",
+   "subjectName": "食品安全风险监测",
+   "publishYear": "2025",
+   "definition": "标准方法得出阳性结果，而可替代方法却得出未经证实的印性结果，如果后者被证明为阳性，这种偏离便是一个假阴性"
+  },
+  {
+   "cn": "负染",
+   "en": "negative staining",
+   "source": "消毒学",
+   "wordNumber": "6.2.30.3.2",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "常用于不透光液体标本镜检的染色方法。其染色处理过程并非针对菌体本身，生物膜可用此法进行目测观察。"
+  },
+  {
+   "cn": "否定的辩证法",
+   "en": "negative dialectics",
+   "source": "马克思主义",
+   "wordNumber": "05.0027",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "出自西奥多·阿多诺（Theodore Adorno）1966年出版的《否定的辩证法》。在对传统辩证法批判的基础上，他不认同传统辩证法的肯定－否定－否定之否定的圆满逻辑，他对人的主体地位进行了反思，由此"
+  },
+  {
+   "cn": "绝对否定",
+   "en": "absolute negative",
+   "source": "马克思主义",
+   "wordNumber": "05.0029",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "阿多诺提出的概念。他认为从柏拉图到黑格尔的辩证法都服务于形而上学的目的，即把辩证法禁锢在主体的肯定性目的中。他用绝对否定代替否定之否定，声称否定一个否定，并不导致肯定，这只能证明否定得不够彻底，真正的"
+  },
+  {
+   "cn": "反面启发法",
+   "en": "negative heuristic",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.163",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "禁止性的方法论规则。告诉科学家要避免什么，以防止把经验反驳的矛头指向硬核。"
+  },
+  {
+   "cn": "负外部效应",
+   "en": "negative externality",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.2.2.2",
+   "subjectFullName": "卫生经济学名词_卫生服务市场与政府作用_卫生服务市场",
+   "subjectName": "卫生服务市场",
+   "publishYear": "2025",
+   "definition": "部分人对某种卫生服务产品的消费可以对不消费这种产品的人发生间接且不利的影响。"
+  },
+  {
+   "cn": "消极情绪",
+   "en": "negative emotion",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.8.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "不能使人感到满足，使人与人之间的关系趋于紧张的情绪状态。如恐惧、痛苦、愤怒、忧虑等。"
+  },
+  {
+   "cn": "部分阴性分析法",
+   "en": "partial negative analysis",
+   "source": "消毒学",
+   "wordNumber": "3.1.5.11",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "通过直接观察指示微生物在液体培养基中的生长情况，来间接确定试验菌的存活情况计算D值的方法。"
+  },
+  {
+   "cn": "负压病房",
+   "en": "negative pressure room",
+   "source": "消毒学",
+   "wordNumber": "4.6.18",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "通过特殊通风装置，使病房的空气按照由清洁区向污染区方向流动，病房内的压力低于室外压力的病房。"
+  },
+  {
+   "cn": "负二项分布",
+   "en": "negative binomial distribution",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.28",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "一个已知事件在伯努利试验中每次出现的概率是p，在一连串伯努利试验中，一件事件刚好在第r+k次试验中出现第r次的离散概率分布。其概率函数为。"
+  },
+  {
+   "cn": "消极健康观",
+   "en": "negative health view",
+   "source": "社会医学名词",
+   "wordNumber": "1.1.8.3",
+   "subjectFullName": "社会医学概述",
+   "subjectName": "社会医学",
+   "publishYear": "2025",
+   "definition": "生物医学模式下基于疾病的发生、发展和转归关系为依据的健康疾病观，以疾病为中心，“健康即无病”。"
+  },
+  {
+   "cn": "多关节型幼年特发性关节炎（RF阴性型）",
+   "en": "polyarticular JIA, RF negative",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.13.4",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_儿童风湿免疫病",
+   "subjectName": "儿童风湿免疫病",
+   "publishYear": "2025",
+   "definition": "发病最初6个月有5个或以上关节受累的JIA，类风湿因子阴性。"
+  },
+  {
+   "cn": "负压手术室",
+   "en": "negative pressure operating room",
+   "source": "消毒学",
+   "wordNumber": "4.6.16",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "设独立空气处理系统，室内空气静压低于相邻相通环境空气静压，为伴有经呼吸道（空气或飞沫）传播疾病的患者实施手术的房间。"
+  },
+  {
+   "cn": "冲击波负压",
+   "en": "negative pressure of shock wave",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.1.50",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核武器",
+   "subjectName": "核武器",
+   "publishYear": "2025",
+   "definition": "稀疏区内低于正常大气压的那部分压力。冲击波的杀伤破坏作用主要是由超压和动压造成的，既往认为其在致伤过程中所起作用不大，但新近的研究表明，在一定条件下，其致伤作用与超压相似。"
+  },
+  {
+   "cn": "负向生长发育长期变化",
+   "en": "negative secular trend in growth and development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.1.8.4.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育规律",
+   "subjectName": "生长发育规律",
+   "publishYear": "2025",
+   "definition": "以儿童少年青春期延后、成年身高降低为表现的长期变化。"
+  },
+  {
+   "cn": "否定",
+   "en": "negation",
+   "source": "马克思主义",
+   "wordNumber": "01.0089",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "事物内部所包含促使事物发展和转化的方面，也指事物通过它转化为另一事物的关节点。唯物辩证法认为，否定是由事物内部矛盾运动引起的质变。"
+  },
+  {
+   "cn": "相对剥夺",
+   "en": "relative deprivation",
+   "source": "社会学名词",
+   "wordNumber": "2.6.2.7",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会不平等",
+   "subjectName": "社会不平等",
+   "publishYear": "2025",
+   "definition": "缺乏某种事物的人与拥有这种事物的人相比较，感觉自己应该拥有的东西被剥夺的一种主观感受。由社会心理学家斯托福尔(Samuel Stouffer）等人提出。被广泛应用于社会不平等和社会公正问题讨论。与“绝"
+  },
+  {
+   "cn": "相对剥夺感",
+   "en": "relative deprivation",
+   "source": "社会学名词",
+   "wordNumber": "2.10.2.5",
+   "subjectFullName": "社会学名词_社会学一般概念_社会问题与社会控制_社会越轨",
+   "subjectName": "社会越轨",
+   "publishYear": "2025",
+   "definition": "人们对自己的现实处境与某种预期或者某种参照物相比较时，对两者之间的差异产生的不满足的消极感受。"
+  },
+  {
+   "cn": "相对贫困",
+   "en": "relative poverty",
+   "source": "社会学名词",
+   "wordNumber": "4.3.9.5",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会救助",
+   "subjectName": "社会救助",
+   "publishYear": "2025",
+   "definition": "社会成员基本生存需求得到满足，没有机会或能力体验当地一定经济社会条件下所公认的生活水准的状态。世界银行《1981年世界发展报告》的描述是：“当某些人、某些家庭或某些群体没有足够的资源去获取他们那个社会"
+  },
+  {
+   "cn": "相对运动",
+   "en": "relative motion",
+   "source": "马克思主义",
+   "wordNumber": "01.0025",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "物体对特定参考系而言的相对位置的连续变动，运动是绝对的；但从不同的参考系观察运动的情况是不一样的。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

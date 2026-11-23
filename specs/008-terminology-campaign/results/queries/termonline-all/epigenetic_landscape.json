@@ -1,0 +1,482 @@
+{
+ "key": "epigenetic landscape",
+ "term": "epigenetic landscape",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T04:15:09+00:00",
+ "status": "ok",
+ "note": "variant=epigenetic landscape; 审定公布名词库=640; 海峡两岸名词对照库=125; 其他来源数据库=5; 预公布名词数据库=5; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "表观遗传学",
+   "en": "epigenetics",
+   "source": "生殖医学名词",
+   "wordNumber": "10.187",
+   "subjectFullName": "生殖医学_生殖遗传",
+   "subjectName": "生殖遗传",
+   "publishYear": "2022",
+   "definition": "研究在DNA序列不发生改变的情况下，生物表型或基因表达出现稳定的可遗传变化的学科。"
+  },
+  {
+   "cn": "表观遗传学",
+   "en": "epigenetics ",
+   "source": "草学名词",
+   "wordNumber": "5.0252",
+   "subjectFullName": "草学_草业生物技术",
+   "subjectName": "草业生物技术",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "表观遗传学",
+   "en": "epigenetics",
+   "source": "医学遗传学名词",
+   "wordNumber": "3.455",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "研究非DNA序列变化情况下，相关性状的遗传信息通过DNA甲基化、染色质构象改变等途径保存并传递给子代的机制的学 科。"
+  },
+  {
+   "cn": "表观遗传学",
+   "en": "epigenetics",
+   "source": "畜牧学名词",
+   "wordNumber": "04.046",
+   "subjectFullName": "畜牧学_遗传育种_普通遗传学",
+   "subjectName": "普通遗传学",
+   "publishYear": "2020",
+   "definition": "研究生物体或细胞表观遗传变异的遗传学分支学科。"
+  },
+  {
+   "cn": "表观遗传学",
+   "en": "epigenetics",
+   "source": "食品科学技术名词",
+   "wordNumber": "05.0525",
+   "subjectFullName": "食品科学技术_食品营养_营养遗传学和营养基因组学",
+   "subjectName": "营养遗传学和营养基因组学",
+   "publishYear": "2020",
+   "definition": "研究不改变DNA序列的基因或蛋白质表达的修饰，并使其在发育和细胞增殖过程中稳定传递的遗传学分支学科。主要包括DNA甲基化、组蛋白共价修饰、染色质重塑、基因沉默和RNA编辑等。"
+  },
+  {
+   "cn": "表观遗传学",
+   "en": "epigenetics",
+   "source": "生物物理学名词",
+   "wordNumber": "06.112",
+   "subjectFullName": "生物物理学_生物信息学_遗传与表观遗传数据分析",
+   "subjectName": "遗传与表观遗传数据分析",
+   "publishYear": "2018",
+   "definition": "研究不改变DNA序列而引起基因表达或细胞表型改变的现象与机制的学科。研究对象包括DNA与RNA甲基化、核小体定位、染色质重塑、组蛋白修饰等。"
+  },
+  {
+   "cn": "表观遗传学",
+   "en": "epigenetics",
+   "source": "计算机科学技术名词",
+   "wordNumber": "12.0205",
+   "subjectFullName": "计算机科学技术_计算机交叉学科_生物信息学",
+   "subjectName": "生物信息学",
+   "publishYear": "2018",
+   "definition": "研究在其核苷酸序列不发生改变的情况下，基因表达的可遗传变化的一门遗传学分支学科。"
+  },
+  {
+   "cn": "表观遗传学",
+   "en": "epigenetics",
+   "source": "老年医学名词",
+   "wordNumber": "03.013",
+   "subjectFullName": "老年医学_老年基础医学",
+   "subjectName": "老年基础医学",
+   "publishYear": "2017",
+   "definition": "研究基因的核苷酸序列不发生改变的情况下，基因表达可遗传的变化的一门遗传学分支学科。"
+  },
+  {
+   "cn": "表观遗传学",
+   "en": "epigenetics",
+   "source": "放射医学与防护名词",
+   "wordNumber": "07.301",
+   "subjectFullName": "放射医学与防护_放射生物学_放射分子生物学",
+   "subjectName": "放射分子生物学",
+   "publishYear": "2014",
+   "definition": "研究生物体或细胞表观遗传变异的遗传学分支学科。"
+  },
+  {
+   "cn": "表观遗传学",
+   "en": "epigenetics",
+   "source": "遗传学名词",
+   "wordNumber": "01.034",
+   "subjectFullName": "遗传学_总论",
+   "subjectName": "总论",
+   "publishYear": "2007",
+   "definition": "研究生物体或细胞表观遗传变异的遗传学分支学科。"
+  },
+  {
+   "cn": "表观遗传调控",
+   "en": "epigenetic regulation;epigenetic control",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0488",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_基因表达调控_修复",
+   "subjectName": "修复",
+   "publishYear": "2024",
+   "definition": "可遗传的、与核酸序列没有直接关系的控制基因活性的调控方式。是生物体调节基因表达及染色体行为的重要机制之一，对基因表达调控、转座子沉默、基因组稳定性以及生物体生长发育有着重要的调控作用。根据方式不同，可"
+  },
+  {
+   "cn": "表皮构造",
+   "en": "epigenetic structure",
+   "source": "地质学名词",
+   "wordNumber": "05.03.078",
+   "subjectFullName": "地质学_沉积学与沉积岩岩石学_沉积岩结构、构造",
+   "subjectName": "沉积岩结构、构造",
+   "publishYear": "2026",
+   "definition": "冰川运动的推挤力作用于冰前地层，使之产生的褶皱、断裂等构造现象。仅发生于表层，向深处很快消失，且与冰川运动方向呈一定关系，是冰川运动的有力证据之一。"
+  },
+  {
+   "cn": "后生白云岩",
+   "en": "epigenetic dolomite",
+   "source": "地质学名词",
+   "wordNumber": "05.04.093",
+   "subjectFullName": "地质学_沉积学与沉积岩岩石学_沉积岩岩石类型",
+   "subjectName": "沉积岩岩石类型",
+   "publishYear": "2026",
+   "definition": "在后生作用阶段，灰岩中的方解石被白云石交代而形成的白云岩。交代作用由于富含镁的深部地下水在灰岩裂隙中不断循环而发生。岩石中的白云石多呈自形菱面体，晶体粗大而且比较干净、透明，不具环带，不含泥晶方解石和"
+  },
+  {
+   "cn": "后生异常",
+   "en": "epigenetic anomaly",
+   "source": "地质学名词",
+   "wordNumber": "13.08.033",
+   "subjectFullName": "地质学_地球化学_应用地球化学",
+   "subjectName": "应用地球化学",
+   "publishYear": "2026",
+   "definition": "异常物质是在所依附的介质形成之后形成的异常。"
+  },
+  {
+   "cn": "表观遗传修饰",
+   "en": "epigenetic modification",
+   "source": "农学名词",
+   "wordNumber": "15.023",
+   "subjectFullName": "农业生物技术_基因工程",
+   "subjectName": "基因工程",
+   "publishYear": "2025",
+   "definition": "在细胞核DNA序列不发生改变的情况下，基因功能可逆的且可遗传的改变。包括DNA甲基化修饰、RNA甲基化修饰和组蛋白修饰等。"
+  },
+  {
+   "cn": "表观遗传育种",
+   "en": "epigenetic breeding",
+   "source": "农学名词",
+   "wordNumber": "15.099",
+   "subjectFullName": "农业生物技术_基因工程",
+   "subjectName": "基因工程",
+   "publishYear": "2025",
+   "definition": "利用表观遗传学理论知识辅助选育品种的育种技术。"
+  },
+  {
+   "cn": "表观遗传变异",
+   "en": "epigenetic variation",
+   "source": "农学名词",
+   "wordNumber": "15.100",
+   "subjectFullName": "农业生物技术_基因工程",
+   "subjectName": "基因工程",
+   "publishYear": "2025",
+   "definition": "在基因核苷酸序列不发生改变的情况下，由于DNA甲基化和组蛋白乙酰化等修饰导致基因表达调控发生改变，从而导致表型出现可逆性变化的过程。"
+  },
+  {
+   "cn": "表观遗传现象",
+   "en": "epigenetic phenomena",
+   "source": "农学名词",
+   "wordNumber": "06.467",
+   "subjectFullName": "作物基因组学与遗传育种_组学育种",
+   "subjectName": "组学育种",
+   "publishYear": "2025",
+   "definition": "在细胞核DNA序列没有改变的情况下，基因表达发生可逆和可遗传修饰改变的现象。包括DNA的修饰(如甲基化修饰)、组蛋白的各种修饰等。"
+  },
+  {
+   "cn": "表观遗传分析",
+   "en": "epigenetic analysis",
+   "source": "农学名词",
+   "wordNumber": "06.468",
+   "subjectFullName": "作物基因组学与遗传育种_组学育种",
+   "subjectName": "组学育种",
+   "publishYear": "2025",
+   "definition": "对DNA和蛋白质的表观遗传修饰及其效应进行分析的方法。"
+  },
+  {
+   "cn": "表观遗传",
+   "en": "epigenetic inheritance",
+   "source": "男科及性医学名词",
+   "wordNumber": "03.129",
+   "subjectFullName": "男科及性医学_生殖系统遗传",
+   "subjectName": "生殖系统遗传",
+   "publishYear": "2023",
+   "definition": "基因DNA序列（基因型）未发生变化，基因表达（表型）却发生了可遗传改变的现象。是一种DNA序列外的遗传方式。"
+  },
+  {
+   "cn": "表观遗传学",
+   "en": "epigenetics\",\"epigenetic inheritance",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "表观遗传学",
+   "en": "epigenetics",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "表观遗传变异",
+   "en": "epigenetic variation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "表观遗传调节",
+   "en": "epigenetic regulation",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "表观遗传修饰",
+   "en": "epigenetic modification",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "表观遗传学效应，渐成效应，后生效应",
+   "en": "epigenetic effect",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "后生效应（=表观遗传学效应）",
+   "en": "epigenetic effect",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "渐成效应（=表观遗传学效应）",
+   "en": "epigenetic effect",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "后生多年冻土",
+   "en": "epigenetic permafrost",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "表观遗传变异",
+   "en": "epigenetic variation",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "表观遗传信息,外遗传基因信息",
+   "en": "epigenetic information",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "表观遗传调节",
+   "en": "epigenetic regulation",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "表观遗传信息",
+   "en": "epigenetic information",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "表观改变",
+   "en": "epigenetic change",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "外遗传致癌物",
+   "en": "epigenetic carcinogens",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "后成期",
+   "en": "epigenetic period",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "景观",
+   "en": "landscape",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "景观",
+   "en": "landscape",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "地景,景观",
+   "en": "landscape",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "景观（＝地景）",
+   "en": "landscape",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "山水诗",
+   "en": "Landscape Poetry",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "咫尺有万里之势",
+   "en": "Power of Landscape Within Inches",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "表观遗传学",
+   "en": "epigenetics",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.5.8",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "研究非DNA序列变化情况下，相关性状的遗传信息通过DNA甲基化、染色质构象改变等途径保存并传递给子代的机制的学科。"
+  },
+  {
+   "cn": "表观遗传学",
+   "en": "epigenetics",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.1.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "研究不改变DNA序列而引起基因表达或细胞表型改变的现象与机制的学科。研究对象包括DNA与RNA甲基化、核小体定位、染色质重塑、组蛋白修饰等。"
+  },
+  {
+   "cn": "表观遗传影响",
+   "en": "epigenetic influence",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "环境因素和细胞内的遗传物质之间发生交互作用，使生物在环境不断变化的情况下，能够维持遗传序列稳定特征的过程。"
+  },
+  {
+   "cn": "表观遗传调控",
+   "en": "epigenetic regulation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.1.3.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "通过表观遗传修饰方式对细胞内核酸或蛋白质的含量与功能进行调节的过程。"
+  },
+  {
+   "cn": "文化景观遗产",
+   "en": "cultural landscape heritage",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.006",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "文化遗产中“人类与自然的共同作品”；指一段时间内，在自然环境物质条件限制和/或机遇，以及连续的社会、经济和文化压力等的外在和内在影响下，人类社会演变和定居地发展的例证。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

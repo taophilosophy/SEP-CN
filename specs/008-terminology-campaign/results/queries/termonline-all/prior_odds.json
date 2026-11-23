@@ -1,0 +1,472 @@
+{
+ "key": "prior odds",
+ "term": "prior odds",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T04:14:47+00:00",
+ "status": "ok",
+ "note": "variant=prior odds; 审定公布名词库=129; 海峡两岸名词对照库=30; 其他来源数据库=1; 预公布名词数据库=6; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "优势",
+   "en": "odds",
+   "source": "肠外肠内营养学名词",
+   "wordNumber": "05.137",
+   "subjectFullName": "肠外肠内营养学_基础研究与临床研究_临床研究",
+   "subjectName": "临床研究",
+   "publishYear": "2019",
+   "definition": "某个事件发生的概率与不发生的概率之比。"
+  },
+  {
+   "cn": "奇−奇核",
+   "en": "odd-odd nucleus",
+   "source": "核科学技术名词",
+   "wordNumber": "1.206",
+   "subjectFullName": "核科学技术_核物理_核结构类",
+   "subjectName": "核结构类",
+   "publishYear": "2024",
+   "definition": "质子数为奇数、中子数为奇数的原子‍核。"
+  },
+  {
+   "cn": "奇奇核",
+   "en": "odd-odd nucleus",
+   "source": "物理学名词",
+   "wordNumber": "09.0072",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_原子核物理学",
+   "subjectName": "原子核物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "先验概率",
+   "en": "prior probability",
+   "source": "动物学名词",
+   "wordNumber": "2.0203",
+   "subjectFullName": "动物学_动物进化与系统学_系统发生分析",
+   "subjectName": "系统发生分析",
+   "publishYear": "2021",
+   "definition": "根据以往经验和分析得到的概率。"
+  },
+  {
+   "cn": "先验估计",
+   "en": "prior estimation",
+   "source": "物理学名词",
+   "wordNumber": "01.0112",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "先验信息",
+   "en": "prior information",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0208",
+   "subjectFullName": "管理科学技术_运筹与管理_决策理论与方法",
+   "subjectName": "决策理论与方法",
+   "publishYear": "2016",
+   "definition": "在决策分析中，尚未通过试验收集状态信息时所具有的信息。"
+  },
+  {
+   "cn": "先验概率",
+   "en": "prior probability",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0188",
+   "subjectFullName": "管理科学技术_运筹与管理_决策理论与方法",
+   "subjectName": "决策理论与方法",
+   "publishYear": "2016",
+   "definition": "在试验进行以前，根据已经知道的，试验结果的各种“原因”所发生的概率。"
+  },
+  {
+   "cn": "先验概率",
+   "en": "prior probability",
+   "source": "语言学名词",
+   "wordNumber": "11.156",
+   "subjectFullName": "语言学_计算语言学_算法",
+   "subjectName": "算法",
+   "publishYear": "2011",
+   "definition": "根据训练集样本直接得出的概率。是后验概率的基础。"
+  },
+  {
+   "cn": "前概率",
+   "en": "prior probability",
+   "source": "医学名词 第三分册",
+   "wordNumber": "01.448",
+   "subjectFullName": "医学_医学遗传学",
+   "subjectName": "医学遗传学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "预估值",
+   "en": "prior estimate",
+   "source": "化学工程名词",
+   "wordNumber": "05.224",
+   "subjectFullName": "化学工程_过程系统工程_过程操作",
+   "subjectName": "过程操作",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "先验概率",
+   "en": "prior probability",
+   "source": "数学名词",
+   "wordNumber": "09.0047",
+   "subjectFullName": "数学_概率论_数理统计_概率空间",
+   "subjectName": "概率空间",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "先验分布",
+   "en": "prior distribution",
+   "source": "数学名词",
+   "wordNumber": "09.0532",
+   "subjectFullName": "数学_概率论_数理统计_统计决策论",
+   "subjectName": "统计决策论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "比值比",
+   "en": "odds ratio",
+   "source": "食品科学技术名词",
+   "wordNumber": "05.0547",
+   "subjectFullName": "食品科学技术_食品营养_荟萃分析和系统综述",
+   "subjectName": "荟萃分析和系统综述",
+   "publishYear": "2020",
+   "definition": "在病例对照研究中，暴露组中患病者与非患病者的比值和非暴露组中患病者与非患病者的比值的比。"
+  },
+  {
+   "cn": "奇宇称",
+   "en": "odd parity",
+   "source": "物理学名词",
+   "wordNumber": "06.0201",
+   "subjectFullName": "物理学_相对论、量子理论_相对论",
+   "subjectName": "相对论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "奇字",
+   "en": "odd script",
+   "source": "语言学名词",
+   "wordNumber": "02.126",
+   "subjectFullName": "语言学_文字学_汉字的形体",
+   "subjectName": "汉字的形体",
+   "publishYear": "2011",
+   "definition": "历史上对战国时期流行于东方六国地区的某些形体奇特汉字的习惯性称谓。"
+  },
+  {
+   "cn": "奇数",
+   "en": "odd integer",
+   "source": "数学名词",
+   "wordNumber": "04.0049",
+   "subjectFullName": "数学_代数学_代数几何学_算术",
+   "subjectName": "算术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "奇置换",
+   "en": "odd permutation",
+   "source": "数学名词",
+   "wordNumber": "04.1829",
+   "subjectFullName": "数学_代数学_代数几何学_群论",
+   "subjectName": "群论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "奇函数",
+   "en": "odd function",
+   "source": "数学名词",
+   "wordNumber": "05.0050",
+   "subjectFullName": "数学_分析学_分析学基础·实分析",
+   "subjectName": "分析学基础?实分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "单码",
+   "en": "odd folio;odd page number",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.06.070",
+   "subjectFullName": "编辑与出版学_编辑_装帧",
+   "subjectName": "装帧",
+   "publishYear": "2022",
+   "definition": "书刊页码中的奇数页码。"
+  },
+  {
+   "cn": "预防制",
+   "en": "prior restraint system",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "17.047",
+   "subjectFullName": "新闻学与传播学_媒体与传播法_新闻从业者的权利_义务与责任",
+   "subjectName": "义务与责任",
+   "publishYear": "2022",
+   "definition": "出版物在出版之前，受政府有关部门的检查、批准、登记或履行其他法定手续，而且不排除事后追惩的制度。"
+  },
+  {
+   "cn": "先验概率",
+   "en": "prior probability",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "优先留置权",
+   "en": "prior lien",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "优先索赔权",
+   "en": "prior claim",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "优先债权",
+   "en": "prior charge",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "先验概率,前概率",
+   "en": "prior probability",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "奇函数",
+   "en": "odd function",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "奇模",
+   "en": "odd mode",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "预交进口保证金",
+   "en": "prior import deposit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "预先颁发许可证制度",
+   "en": "prior licensing system",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "相对危险度,比值比",
+   "en": "odds ratio\",\"OR",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "偶奇规则",
+   "en": "even-odd regulation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "奇检验",
+   "en": "odd-parity check",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "原始粉末颗粒边界",
+   "en": "prior particle boundary\",\"PPB",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "先入律",
+   "en": "law of prior entry",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "对立违抗性障碍",
+   "en": "oppositional defiant disorder\",\"ODD",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "奇数羽状复叶",
+   "en": "odd-pinnately compound leaf",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "奇偶归并排序",
+   "en": "odd-even merge sort",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "格吕纳-黑格",
+   "en": "Grüner-Hegge\",\"Odd(挪威)",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国音乐家",
+   "subjectName": "外国音乐家",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "有权先售的发盘",
+   "en": "offer subject to prior sale",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "对数优势比,LOD记分",
+   "en": "logarithm of the odd score\",\"LOD score",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "几率比",
+   "en": "odds ratio",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.115",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "两个几率的商。"
+  },
+  {
+   "cn": "比值比",
+   "en": "odds ratio",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.19.37",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "病例对照研究中病例组与对照组暴露比值之比，表示暴露者疾病的危险性是非暴露者的多少倍，用于估计相对危险度的关联强度指标。"
+  },
+  {
+   "cn": "前次剖宫产",
+   "en": "prior cesarean delivery",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.5.3.7.1",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_孕产期保健",
+   "subjectName": "孕产期保健",
+   "publishYear": "2025",
+   "definition": "在本次妊娠前有子宫切开的分娩经历。"
+  },
+  {
+   "cn": "对立违抗障碍",
+   "en": "oppositional defiant disorder, ODD",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.3.5.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_儿童少年行为问题",
+   "subjectName": "儿童少年行为问题",
+   "publishYear": "2025",
+   "definition": "一类以反复性、持久性违抗、敌意、对立、挑衅和破坏行为为基本特征的儿童行为障碍，且这些行为具有激惹性和冲动性。"
+  },
+  {
+   "cn": "朊病毒",
+   "en": "prion",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.1.1.122",
+   "subjectFullName": "食品卫生学_食品污染_食品生物性危害因素",
+   "subjectName": "食品生物性危害因素",
+   "publishYear": "2025",
+   "definition": "主要由不含核酸的、高度抵抗理化灭活的传染性蛋白质PrPSc 组成。可引起人或动物致死性神经系统退行性病变。"
+  },
+  {
+   "cn": "用药频度",
+   "en": "defined daily doses,DDDs",
+   "source": "卫生经济学名词",
+   "wordNumber": "13.3.4.2.3.2",
+   "subjectFullName": "卫生经济学名词_药物经济学_药品政策与规制",
+   "subjectName": "药品政策与规制",
+   "publishYear": "2025",
+   "definition": "以限定日剂量为单位计量某种药物的使用量，即药品实际总使用量与限定日剂量的比值，反映对该药的选择倾向性。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,812 @@
+{
+ "key": "appraisal respect",
+ "term": "appraisal respect",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T04:11:57+00:00",
+ "status": "ok",
+ "note": "variant=appraisal respect; 审定公布名词库=438; 海峡两岸名词对照库=105; 其他来源数据库=31; 预公布名词数据库=61; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "绩效考评",
+   "en": "performance appraisal",
+   "source": "风景园林名词",
+   "wordNumber": "03.0052",
+   "subjectFullName": "风景园林_风景园林管理_行业和部门管理",
+   "subjectName": "行业和部门管理",
+   "publishYear": "2025",
+   "definition": "企业绩效管理中的一个环节，是指通过系统的方法和标准，对员工在一定时期内的工作表现、成果及能力进行评估的过程。其目的是衡量员工的工作效率、质量及对组织目标的贡献，并为人力资源管理决策（如晋升、奖惩、培训"
+  },
+  {
+   "cn": "档案鉴定",
+   "en": "archival appraisal",
+   "source": "档案学名词",
+   "wordNumber": "03.02.001 ",
+   "subjectFullName": "档案学_档案管理_档案鉴定",
+   "subjectName": "档案鉴定",
+   "publishYear": "2024",
+   "definition": "判定档案价值和真伪的过程。"
+  },
+  {
+   "cn": "直接鉴定法",
+   "en": "direct appraisal",
+   "source": "档案学名词",
+   "wordNumber": "03.02.019",
+   "subjectFullName": "档案学_档案管理_档案鉴定",
+   "subjectName": "档案鉴定",
+   "publishYear": "2024",
+   "definition": "通过直接审查内容进行档案价值鉴定。"
+  },
+  {
+   "cn": "抽样鉴定法",
+   "en": "sampling appraisal",
+   "source": "档案学名词",
+   "wordNumber": "03.02.020",
+   "subjectFullName": "档案学_档案管理_档案鉴定",
+   "subjectName": "档案鉴定",
+   "publishYear": "2024",
+   "definition": "鉴定大量同源文件或文件汇集时采取的一种鉴定方法。对于大量同源文件或文件汇集，抽样鉴定一部分。通过样品来推断出文件的形成者、形式、内容、职能、运行环境及其档案价值。"
+  },
+  {
+   "cn": "内容鉴定",
+   "en": "content appraisal",
+   "source": "档案学名词",
+   "wordNumber": "06.03.014",
+   "subjectFullName": "档案学_电子文件管理_流程与方法",
+   "subjectName": "流程与方法",
+   "publishYear": "2024",
+   "definition": "根据电子文件所含信息的有用性和社会需求，鉴定电子文件的保存价值和历史意义，并在此基础上确定其保管期限。"
+  },
+  {
+   "cn": "技术鉴定",
+   "en": "technical appraisal",
+   "source": "档案学名词",
+   "wordNumber": "06.03.015",
+   "subjectFullName": "档案学_电子文件管理_流程与方法",
+   "subjectName": "流程与方法",
+   "publishYear": "2024",
+   "definition": "判断电子文件的有用程度是否具有实现的可能，即检查电子文件的技术状况，以明确电子文件的利用价值是否处于可利用的状态，包括对文件真实性、完整性、可读性的分析以及对文件载体性能的检测。"
+  },
+  {
+   "cn": "认知评价",
+   "en": "cognitive appraisal",
+   "source": "行为医学名词",
+   "wordNumber": "10.031",
+   "subjectFullName": "行为医学_应激与应激相关障碍_应激",
+   "subjectName": "应激",
+   "publishYear": "2022",
+   "definition": "个体对应激源的性质、程度和可能的危害情况及面对应激源时可以调动的资源做出的评估。"
+  },
+  {
+   "cn": "初级评价",
+   "en": "primary appraisal",
+   "source": "行为医学名词",
+   "wordNumber": "10.032",
+   "subjectFullName": "行为医学_应激与应激相关障碍_应激",
+   "subjectName": "应激",
+   "publishYear": "2022",
+   "definition": "对自己是否受到应激事件威胁做出的判断。"
+  },
+  {
+   "cn": "次级评价",
+   "en": "secondary appraisal",
+   "source": "行为医学名词",
+   "wordNumber": "10.033",
+   "subjectFullName": "行为医学_应激与应激相关障碍_应激",
+   "subjectName": "应激",
+   "publishYear": "2022",
+   "definition": "对自己应对能力和资源条件的评估过程。判断是否能够对抗应激事件带来的威胁、伤害或挑战。"
+  },
+  {
+   "cn": "区域评价",
+   "en": "regional appraisal",
+   "source": "冶金学名词",
+   "wordNumber": "02.0103",
+   "subjectFullName": "冶金学_采矿_矿山地质",
+   "subjectName": "矿山地质",
+   "publishYear": "2019",
+   "definition": "对评价地区的找矿地质条件及成矿规律的研究，有效地进行矿产预测，以及对矿产远景的评价。"
+  },
+  {
+   "cn": "鉴定成本",
+   "en": "appraisal cost",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0650",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "与质量检验和评估活动相关的成本。包括实验室测试、检验、测试设备与材料、因破坏性测试所造成的损失，以及与评估或其他评奖活动相关的费用。"
+  },
+  {
+   "cn": "档案鉴定",
+   "en": "archive appraisal",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0600",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_图书情报档案领域",
+   "subjectName": "图书情报档案领域",
+   "publishYear": "2016",
+   "definition": "档案真伪的鉴别和档案价值的判定。"
+  },
+  {
+   "cn": "审核报告",
+   "en": "appraisal report",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0806",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_质量管理",
+   "subjectName": "质量管理",
+   "publishYear": "2016",
+   "definition": "审核工作的重要成果，审核形成的正式文件。"
+  },
+  {
+   "cn": "绩效评估",
+   "en": "performance appraisal",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0493",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_绩效管理",
+   "subjectName": "绩效管理",
+   "publishYear": "2016",
+   "definition": "对被评估者的绩效进行考量与评价。"
+  },
+  {
+   "cn": "评估比率",
+   "en": "appraisal ratio",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0361",
+   "subjectFullName": "管理科学技术_金融工程_技术",
+   "subjectName": "技术",
+   "publishYear": "2016",
+   "definition": "分析者进行预测时使用的信号噪音比例，即阿尔法与残值标准差的比率。"
+  },
+  {
+   "cn": "项目评估",
+   "en": "project appraisal",
+   "source": "建筑学名词",
+   "wordNumber": "05.0044",
+   "subjectFullName": "建筑学_建筑经济_经济评价",
+   "subjectName": "经济评价",
+   "publishYear": "2014",
+   "definition": "咨询机构受投资人或相关部门、机构委托，依据国家建设项目相关法规、政策、规定、标准、规范，按照独立、客观、公正的原则，对建设项目前期各类报告进行的论证。一般采用现场调研、专家论证等方法。"
+  },
+  {
+   "cn": "绩效评估",
+   "en": "performance appraisal",
+   "source": "心理学名词",
+   "wordNumber": "12.031",
+   "subjectFullName": "心理学_管理心理学",
+   "subjectName": "管理心理学",
+   "publishYear": "2014",
+   "definition": "根据已设定的标准与指标、方法和程序，系统、定期评定与衡量员工或群体的工作行为与成效的方法。"
+  },
+  {
+   "cn": "资源评估",
+   "en": "resource appraisal",
+   "source": "资源科学技术名词",
+   "wordNumber": "05.050",
+   "subjectFullName": "资源科学技术_资源管理学",
+   "subjectName": "资源管理学",
+   "publishYear": "2008",
+   "definition": "政府、团体、机构及个人自主或受托对一定时空范围内的资源，进行数量、质量、价值等方面进行评价的过程或行为。"
+  },
+  {
+   "cn": "经济评价",
+   "en": "economic appraisal",
+   "source": "地理学名词",
+   "wordNumber": "18.082",
+   "subjectFullName": "地理学_经济地理学",
+   "subjectName": "经济地理学",
+   "publishYear": "2006",
+   "definition": "从经济角度对影响生产布局的自然条件和社会经济条件进行综合性评估。"
+  },
+  {
+   "cn": "土地评价",
+   "en": "land appraisal",
+   "source": "地理学名词",
+   "wordNumber": "18.241",
+   "subjectFullName": "地理学_经济地理学",
+   "subjectName": "经济地理学",
+   "publishYear": "2006",
+   "definition": "依据科学的标准，对土地的数量、质量、覆盖特征和经济特点所进行的评估。"
+  },
+  {
+   "cn": "绩效面谈",
+   "en": "appraisal interview",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "绩效评估",
+   "en": "performance appraisal",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "认知评价",
+   "en": "cognitive appraisal",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "投资评价",
+   "en": "investment appraisal",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "经济评价",
+   "en": "economic appraisal",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "土地评价",
+   "en": "land appraisal",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "土地估价",
+   "en": "land appraisal",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "维度评估论",
+   "en": "dimensional appraisal theory",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "关键事件评估",
+   "en": "critical incident appraisal",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "海上评价井",
+   "en": "offshore appraisal well",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "360度绩效评估",
+   "en": "360 degree performance appraisal",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "交通安全评估",
+   "en": "appraisal of traffic safety",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "冰面饱和水气压",
+   "en": "saturation vapor pressure with respect to ice",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "水面饱和水气压",
+   "en": "saturation vapor pressure with respect to water",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生产布局的技术经济评价",
+   "en": "techno-economic appraisal of production allocation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "知识-评价人格结构",
+   "en": "knowledge and appraisal personality archi tecture\",\"KAPA",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "建造中船舶权利登记公约",
+   "en": "Convention Relating to Registration of Rights in Respect of Vessels under Construction",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "统一船舶碰撞某些法律规定的国际公约",
+   "en": "International Convention for the Unification of Certain Rules of Law with Respect to Collision between Vessels",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "activity",
+   "en": "[]",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "intersection",
+   "en": "[]",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "敬",
+   "en": "Respect",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "尊生",
+   "en": "Respect Life",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "品题",
+   "en": "Make Appraisals",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字化核赔",
+   "en": "digital claims appraisal",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "隆礼",
+   "en": "Respect for Social Norms",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "尊师重道",
+   "en": "Honor Teachers and Respect Rules",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "全面依法治国",
+   "en": "law-based governance in all respects",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "桑梓之敬",
+   "en": "Respect and Love for Home and Elders",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "全面建成小康社会",
+   "en": "building a moderately prosperous society in all respects",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "虽负贩，必有尊",
+   "en": "Even Peddlers Have Something to Be Respected for",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "政府数据共享开放工作评估",
+   "en": "appraisal of open and shared government data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "虽天子，必有尊",
+   "en": "Even the Son of Heaven Has Something to Respect.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "全面建设社会主义现代化强国",
+   "en": "building a great modem socialist country in all respects",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "全面建成小康社会新的目标要求",
+   "en": "the goal of building a moderately prosperous society in all respects",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "法者天子所与天下公共也",
+   "en": "The Law Must Be Respected Equally by the Son of Heaven and All the People.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "贫不学俭，卑不学恭",
+   "en": "Poor People Do Not Need to Learn Frugality, and Humble People Do Not Need to Learn Respectfulness.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "道义可尊，无择负贩",
+   "en": "A Person Who Leads a Moral and Righteous Life Commands Respect Even If He Is a Humble Peddler.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "CT影像",
+   "en": "computed tomography imaging",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.1-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第1部分：公用的语法规则》",
+   "en": "GB/T 14805.1-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 1: Syntax rules common to all parts",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.2-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第2部分：批式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.2-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 2: Syntax rules specific to batch EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "尊重",
+   "en": "respect",
+   "source": "社会学名词",
+   "wordNumber": "4.4.6.4",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作伦理",
+   "subjectName": "社会工作伦理",
+   "publishYear": "2025",
+   "definition": "以尊敬和重视的态度对待他人，并努力维护个体完整性的原则。要求人们在与他人交往过程中，承认他人的人格尊严，肯定他人的权利和自由，重视他人的智慧和才能，理解他人的信念和情感，相信他人的处世和为人，对他人富"
+  },
+  {
+   "cn": "尊重",
+   "en": "respect",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.5.1.5.3.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_学校心理卫生服务",
+   "subjectName": "学校心理卫生服务",
+   "publishYear": "2025",
+   "definition": "咨询者对求咨者平等相待的态度。在学校心理咨询中，指咨询者以平等的态度对待、以关注并接纳的态度倾听求咨者，促使求咨者增强自我认知，提升自我接纳能力，从而促进心理健康和个人成长。"
+  },
+  {
+   "cn": "考核制度",
+   "en": "appraisal system",
+   "source": "马克思主义",
+   "wordNumber": "03.0515",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "对干部职工的政治态度、道德品质、业务水平、工作能力、工作实绩及身体健康状况等进行考察和评价的制度。邓小平1978年3月同国务院政治研究室负责同志谈坚持按劳分配原则时提出要实行考核制度。"
+  },
+  {
+   "cn": "评价年龄",
+   "en": "appraisal age",
+   "source": "社会医学名词",
+   "wordNumber": "7.2.6",
+   "subjectFullName": "健康管理",
+   "subjectName": "健康危险因素评价",
+   "publishYear": "2025",
+   "definition": "依据年龄和死亡率之间的函数关系，按个体所存在的危险因素计算的预期死亡概率水平计算出的年龄，反映了被评价者在当前危险因素下对应的某年龄死亡水平。"
+  },
+  {
+   "cn": "尊重原则",
+   "en": "principle of respect",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.0060000000000002",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "要求医务人员尊重患者及其家属的人格、尊严、隐私和自主选择权的根本性道德要求。"
+  },
+  {
+   "cn": "谦恭",
+   "en": "humble and respectfulness",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.097",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "人们在相互交往过程中所表现出的辞让和谦逊的品德或作风。要求为人处世均应在充分尊重他人，正确评估自身的基础上做到虚怀若谷，以礼待人。"
+  },
+  {
+   "cn": "中和剂鉴定试验",
+   "en": "neutralizer appraisal test",
+   "source": "消毒学",
+   "wordNumber": "6.2.26.9",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "判定所选中和剂是否符合要求能用于消毒学试验的检测。"
+  },
+  {
+   "cn": "疾病风险评估",
+   "en": "disease risk appraisal",
+   "source": "社会医学名词",
+   "wordNumber": "7.2.2",
+   "subjectFullName": "健康管理",
+   "subjectName": "健康危险因素评价",
+   "publishYear": "2025",
+   "definition": "对个体特定疾病的患病风险进行的风险评估或预测，通过收集和分析个体的生物学特征、生活方式、家族病史和其他相关因素来确定个体患特定疾病的可能性。"
+  },
+  {
+   "cn": "个体健康评价",
+   "en": "individual health appraisal",
+   "source": "社会医学名词",
+   "wordNumber": "7.3",
+   "subjectFullName": "健康管理",
+   "subjectName": "个体健康评价",
+   "publishYear": "2025",
+   "definition": "通过比较实际年龄、评价年龄和增长年龄三者之间的差别，了解危险因素对个体寿命可能影响的程度及降低危险因素之后寿命可能延长程度的评价过程。"
+  },
+  {
+   "cn": "群体健康评价",
+   "en": "population health appraisal",
+   "source": "社会医学名词",
+   "wordNumber": "7.4",
+   "subjectFullName": "健康管理",
+   "subjectName": "群体健康评价",
+   "publishYear": "2025",
+   "definition": "比较实际年龄、评价年龄和增长年龄三者之间差别类型的个体在人群中的分布，根据人群中不同类型人群所占比重大小，确定评价不同人群的危险程度。根据不同人群危险程度的性质区分为健康组、危险组和一般组3 种类型。"
+  },
+  {
+   "cn": "尊重知识尊重人才",
+   "en": "respect knowledge value talents",
+   "source": "马克思主义",
+   "wordNumber": "04.0183",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "邓小平总结我党历史上对待知识分子正反两方面的经验，于1984年10月22日在中顾委第三次会议上正式提出的著名论断。“尊重知识、尊重人才”要求在重视科学技术在现代化建设中的重要作用的同时，要充分认识到知"
+  },
+  {
+   "cn": "健康危险因素评价",
+   "en": "health risk appraisal, HRA",
+   "source": "社会医学名词",
+   "wordNumber": "7.2",
+   "subjectFullName": "健康管理",
+   "subjectName": "健康危险因素评价",
+   "publishYear": "2025",
+   "definition": "研究危险因素与慢性病发病及死亡之间数量依存关系及其规律性的一种技术方法。"
+  },
+  {
+   "cn": "离差评价法",
+   "en": "deviation method of appraisal",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.7.2.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育调查与评价",
+   "subjectName": "生长发育调查与评价",
+   "publishYear": "2025",
+   "definition": "评价个体、群体儿童少年生长发育水平和现状的方法。该方法用标准差和平均值表示样本调查值的分布，适用于正态分布的资料。"
+  },
+  {
+   "cn": "百分位数评价法",
+   "en": "percentile method of appraisal",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.7.2.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育调查与评价",
+   "subjectName": "生长发育调查与评价",
+   "publishYear": "2025",
+   "definition": "适用于正态或偏态分布生长发育指标的评价方法。将参考样本某生长发育指标的测量值按从小到大顺序排列，分成100等份，每一等份即代表一个百分位的值，个体测量值处于参考人群的百分位数，则反映该个体的发育水平。"
+  },
+  {
+   "cn": "指数评价法",
+   "en": "index method of appraisal",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.7.2.1.5",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育调查与评价",
+   "subjectName": "生长发育调查与评价",
+   "publishYear": "2025",
+   "definition": "利用数学公式，按身体各部分比例关系，将两项或多项指标相连，转化成指数进行评价的方法。"
+  },
+  {
+   "cn": "健康风险评估",
+   "en": "general health risk appraisal",
+   "source": "社会医学名词",
+   "wordNumber": "7.2.1",
+   "subjectFullName": "健康管理",
+   "subjectName": "健康危险因素评价",
+   "publishYear": "2025",
+   "definition": "评估个体的总体健康风险并确定其潜在健康问题的过程。它涉及评估各种影响个体健康和患慢性疾病或其他健康状况风险的因素。"
+  },
+  {
+   "cn": "尊医爱患",
+   "en": "respect doctor and love patient",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.08",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "医患双方彼此相互尊重、互相理解的一种医疗理念。患者尊重医务人员的人格尊严、权利和劳动价值；同时医务人员能够关爱患者，关注患者生理、心理以及社会适应上的问题和痛苦，通过积极工作为患者解除痛苦。"
+  },
+  {
+   "cn": "尊重医务人员义务",
+   "en": "obligation to respect medical staff",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.037",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "在就医过程中，患者应当履行的尊重医务人员的辛勤劳动和人格尊严，维护医务人员的人身安全，不得侮辱、诽谤、威胁、殴打医师或者侵犯医务人员人身自由、干扰医疗正常工作、生活等的责任。"
+  },
+  {
+   "cn": "尊重个人权利原则",
+   "en": "principle of respect individual right",
+   "source": "医学伦理学名词",
+   "wordNumber": "8.045",
+   "subjectFullName": "医学伦理学_公共卫生与健康伦理",
+   "subjectName": "公共卫生与健康伦理",
+   "publishYear": "2025",
+   "definition": "在公共卫生实践中， 以符合和承认共同人性、尊严和固有权利的方式对待个人，尊重其自主、允许个人根据自己的价值观和偏好作出自主选择的行为准则。"
+  },
+  {
+   "cn": "敬老民俗",
+   "en": "folklore of respecting the elderly",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0246",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "在特定文化和社会中，围绕尊敬和照顾老年人而形成的一系列传统习惯和行为规范。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

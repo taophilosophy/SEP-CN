@@ -1,0 +1,782 @@
+{
+ "key": "safe belief",
+ "term": "safe belief",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T04:15:43+00:00",
+ "status": "ok",
+ "note": "variant=safe belief; 审定公布名词库=434; 海峡两岸名词对照库=167; 其他来源数据库=51; 预公布名词数据库=47; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "信念",
+   "en": "belief",
+   "source": "行为医学名词",
+   "wordNumber": "4.084",
+   "subjectFullName": "行为医学_行为的心理学基础_动机与行为",
+   "subjectName": "动机与行为",
+   "publishYear": "2022",
+   "definition": "个体对某种思想或准则坚信不疑的看法或心理状态。"
+  },
+  {
+   "cn": "信念",
+   "en": "belief",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0155",
+   "subjectFullName": "管理科学技术_金融工程_原理",
+   "subjectName": "原理",
+   "publishYear": "2016",
+   "definition": "人们对未来不确定状态发生可能性的判断。广义的信念类似于预期；狭义的信念具体化为人们对事件发生的主观概率的估计。"
+  },
+  {
+   "cn": "信念",
+   "en": "belief",
+   "source": "心理学名词",
+   "wordNumber": "07.100",
+   "subjectFullName": "心理学_社会心理学",
+   "subjectName": "社会心理学",
+   "publishYear": "2014",
+   "definition": "个体对某种思想或准则坚信不移的心理状态。"
+  },
+  {
+   "cn": "信念",
+   "en": "belief",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "09.089",
+   "subjectFullName": "全科医学与社区卫生_社区健康教育与健康促进",
+   "subjectName": "社区健康教育与健康促进",
+   "publishYear": "2014",
+   "definition": "对某一现象或某一事物的存在或其合理性确信无疑的看法。"
+  },
+  {
+   "cn": "规范信念",
+   "en": "normative belief",
+   "source": "行为医学名词",
+   "wordNumber": "2.082",
+   "subjectFullName": "行为医学_行为医学基本理论_健康行为与行为改变理论",
+   "subjectName": "健康行为与行为改变理论",
+   "publishYear": "2022",
+   "definition": "个体感知到的重要他人（包括配偶、家人、同伴等）对其行为改变的认可和倾向程度。由标准信念和遵从动机两个成分构成。"
+  },
+  {
+   "cn": "标准信念",
+   "en": "standard belief",
+   "source": "行为医学名词",
+   "wordNumber": "2.083",
+   "subjectFullName": "行为医学_行为医学基本理论_健康行为与行为改变理论",
+   "subjectName": "健康行为与行为改变理论",
+   "publishYear": "2022",
+   "definition": "个体感知到的重要他人对其行为改变的支持和期望程度。"
+  },
+  {
+   "cn": "不合理信念",
+   "en": "irrational belief",
+   "source": "行为医学名词",
+   "wordNumber": "2.1",
+   "subjectFullName": "行为医学_行为医学基本理论_认知理论",
+   "subjectName": "认知理论",
+   "publishYear": "2022",
+   "definition": "个体内心不现实、不合逻辑、站不住脚的信念。是绝对化、过分概括化、极端化的思想认识。"
+  },
+  {
+   "cn": "健康信念",
+   "en": "health belief",
+   "source": "行为医学名词",
+   "wordNumber": "7.057",
+   "subjectFullName": "行为医学_健康相关行为_健康促进行为_戒烟",
+   "subjectName": "戒烟",
+   "publishYear": "2022",
+   "definition": "个体如何看待健康和疾病，如何认识预防措施和疾病易感性的心理状态。"
+  },
+  {
+   "cn": "信念收缩",
+   "en": "belief contraction",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0028",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "信念变化的基本类型之一。旨在将一个信念从信念集中删除。"
+  },
+  {
+   "cn": "信念修正",
+   "en": "belief revision",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0025",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "信念变化的基本类型之一。将公式 A加到信念集K中，同时去掉K中能导出非A的语句，使获得的新信念集合协调，该过程称为用A修正K 。"
+  },
+  {
+   "cn": "信念固化",
+   "en": "belief consolidation",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0027",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "有两种用法：①按斯文·汉森（Sven Ove Hansson）的用法，固化就是对信念集合实行逻辑协调的过程；②按奥尔森（E.J.Olsson）的用法，固化就是对信念集合实行逻辑协调加上认知均衡（稳固）"
+  },
+  {
+   "cn": "信念融合",
+   "en": "belief merging",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0030",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "两个或更多的信念集合合并在一起，同时维持其逻辑一致性的操作。"
+  },
+  {
+   "cn": "智能体的信念",
+   "en": "agent belief",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0163",
+   "subjectFullName": "计算机科学技术_人工智能_多智能体系统",
+   "subjectName": "多智能体系统",
+   "publishYear": "2018",
+   "definition": "智能体的思维属性之一。表示智能体对外部世界的感知和认识，以及为达到某种效果所可能采取的行为路线的知识。"
+  },
+  {
+   "cn": "信念扩展",
+   "en": "belief expansion",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0029",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "信念变化的基本类型之一。旨在将一个信念在集合论意义下加入现有信念集合中，该操作不保证结果的逻辑一致性。"
+  },
+  {
+   "cn": "相信逻辑",
+   "en": "belief logic",
+   "source": "计算机科学技术名词",
+   "wordNumber": "10.0237",
+   "subjectFullName": "计算机科学技术_信息安全_信息系统安全防护技术",
+   "subjectName": "信息系统安全防护技术",
+   "publishYear": "2018",
+   "definition": "实体分类为主体和客体，通过形式化推理证明，判断对客体相信度的逻辑。"
+  },
+  {
+   "cn": "消费者信念",
+   "en": "consumer belief",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0191",
+   "subjectFullName": "管理科学技术_市场营销_营销机会",
+   "subjectName": "营销机会",
+   "publishYear": "2016",
+   "definition": "消费者关于某些事物的描述性看法。"
+  },
+  {
+   "cn": "非理性信念",
+   "en": "irrational belief",
+   "source": "心理学名词",
+   "wordNumber": "15.061",
+   "subjectFullName": "心理学_咨询心理学",
+   "subjectName": "咨询心理学",
+   "publishYear": "2014",
+   "definition": "引发情绪困扰、行为失调的不合理想法。"
+  },
+  {
+   "cn": "道德信念",
+   "en": "moral belief",
+   "source": "心理学名词",
+   "wordNumber": "09.091",
+   "subjectFullName": "心理学_教育心理学",
+   "subjectName": "教育心理学",
+   "publishYear": "2014",
+   "definition": "个体意识中根深蒂固的、并遵循、信奉的道德观念和道德理想。"
+  },
+  {
+   "cn": "行为信念",
+   "en": "behavioral belief",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "09.031",
+   "subjectFullName": "全科医学与社区卫生_社区健康教育与健康促进",
+   "subjectName": "社区健康教育与健康促进",
+   "publishYear": "2014",
+   "definition": "个体采纳某行为能否达到预期结果的自信 心。"
+  },
+  {
+   "cn": "准则信念",
+   "en": "normative belief",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "09.034",
+   "subjectFullName": "全科医学与社区卫生_社区健康教育与健康促进",
+   "subjectName": "社区健康教育与健康促进",
+   "publishYear": "2014",
+   "definition": "个体觉得其周围特定的个人或群体认为其是否应该采纳某种行为的自信心。"
+  },
+  {
+   "cn": "信念",
+   "en": "belief",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "安全性",
+   "en": "safeness",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "非理性信念",
+   "en": "irrational belief",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "消费者信念",
+   "en": "consumer belief",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "不良适应信念",
+   "en": "maladaptive belief",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "信念坚持",
+   "en": "belief perseverance",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "可信度函数",
+   "en": "belief function",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "相信逻辑",
+   "en": "belief logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "信念修正",
+   "en": "belief revision",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "安全浓度",
+   "en": "safe concentration",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "[故障]安全性",
+   "en": "fail safe",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "安全停机",
+   "en": "safe shutdown",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "安全网",
+   "en": "safe net",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "安全用药",
+   "en": "safe medication",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "自我挫败信念",
+   "en": "self defeating belief",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "性别角色信念",
+   "en": "gender role belief",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "描述性消费者信念",
+   "en": "descriptive consumer belief",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "安全浓度",
+   "en": "safe concentration\",\"SC",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "安全含水量",
+   "en": "safe water content",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "安全工作压强",
+   "en": "safe working pressure",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "安全上垒！",
+   "en": "Safe!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "平安城市",
+   "en": "safe city",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全距离",
+   "en": "safe distance",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "深度置信网络",
+   "en": "deep belief network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全港隐私保护原则",
+   "en": "Safe Harbor Privacy Principles",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "平安中国",
+   "en": "the Safe China Initiative",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "泛欧量子安全互联网",
+   "en": "Europe-wide quantum-safe network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "外部组件使用安全策略",
+   "en": "strategy for safe use of external components",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "有序安全的国际人员流动",
+   "en": "orderly and safe flow of people between countries  ",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "合作抗疫_国际合作",
+   "subjectName": "国际合作",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "安全区",
+   "en": "free area around the court\",\"safe zone\",\"security zone",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "外地滞留在鄂人员安全有序返乡",
+   "en": "People stranded in Hubei return home in a safe and orderly manner.",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "理念举措_具体措施",
+   "subjectName": "具体措施",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "圣人",
+   "en": "Sage",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "救球",
+   "en": "save",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "救球",
+   "en": "save",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "救援",
+   "en": "save",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "守门员救球",
+   "en": "catch\",\"save",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "圣",
+   "en": "Sage / Sageness",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信仰",
+   "en": "belief",
+   "source": "社会学名词",
+   "wordNumber": "3.9.1.2",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教信仰现象",
+   "subjectName": "宗教信仰现象",
+   "publishYear": "2025",
+   "definition": "关于某一或某些存在、意义、价值等的认识及认可。"
+  },
+  {
+   "cn": "信念",
+   "en": "belief",
+   "source": "社会学名词",
+   "wordNumber": "4.1.15.6",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会态度",
+   "subjectName": "社会态度",
+   "publishYear": "2025",
+   "definition": "人们对自身、他人、社会以及世界的心理表征体系中信以为真的成份。在很大程度上与个人早期经验有关，由个体所处的社会文化环境塑造而成。"
+  },
+  {
+   "cn": "信仰",
+   "en": "belief",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.03",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "对某种思想或宗教，或者对某人、某物的信奉和敬仰，并把这些奉为自己的行为准则。"
+  },
+  {
+   "cn": "信念",
+   "en": "belief",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.1079999999999999",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "对事实或可能成为事实的理论、理想或目标的内在确信。在道德品质的构成中，道德信念居于基本的和核心的地位，是人们的道德认识、道德情感和道德意志反映在道德实践基础上的有机统一，具有稳定性和持久性的特点。"
+  },
+  {
+   "cn": "超凡信仰",
+   "en": "paranormal belief",
+   "source": "社会学名词",
+   "wordNumber": "3.9.1.12",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教信仰现象",
+   "subjectName": "宗教信仰现象",
+   "publishYear": "2025",
+   "definition": "相信在日常经验和科学解释之外的某些现象的存在，例如神秘物质或能量、外太空生命、UFO等。"
+  },
+  {
+   "cn": "民间信仰",
+   "en": "folk-belief",
+   "source": "社会学名词",
+   "wordNumber": "4.2.3.17",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化人类学基本概念",
+   "subjectName": "文化人类学基本概念",
+   "publishYear": "2025",
+   "definition": "不具有明确的传人、严格的教义、严密的组织，同时又有内在体系和自身运作规则的一种信仰形态。具备日常生活和草根性的基本特征。"
+  },
+  {
+   "cn": "信仰圈",
+   "en": "belief circles",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.064",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "中国台湾人类学家林美容提出的概念，指以一个神（或他的分身）的信仰为中心的区域性信徒所形成的志愿性信徒组织。"
+  },
+  {
+   "cn": "道德信念",
+   "en": "moral belief",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.0170000000000001",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "个体对道德理想和道德要求等深刻而有根据的坚信，以及由此而产生的对履行道德义务的强烈责任感。它是道德认识、道德情感和道德意志的有机统一，具有稳定性和持久性。"
+  },
+  {
+   "cn": "民俗信仰",
+   "en": "folk belief",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0277",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "在长期的历史发展过程中，在民众中产生和传承的一套神灵崇拜观念、行为习惯和相应的仪式制度。"
+  },
+  {
+   "cn": "健康信念",
+   "en": "health belief",
+   "source": "社会医学名词",
+   "wordNumber": "10.2.1.5.1",
+   "subjectFullName": "政策与策略",
+   "subjectName": "策略",
+   "publishYear": "2025",
+   "definition": "个体对健康、疾病、风险和预防措施的主观认知与态度。"
+  },
+  {
+   "cn": "四信",
+   "en": "four beliefs",
+   "source": "马克思主义",
+   "wordNumber": "03.0647",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "江泽民在建党80周年讲话中强调：坚定对马克思主义的信仰、坚定对社会主义的信念、增强对改革开放和现代化建设的信心、增强对党和政府的信任，简称“四信”。这是针对改革开放过程中人们思想观念发生的变化而提出需"
+  },
+  {
+   "cn": "渔民信仰",
+   "en": "fishermen beliefs",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0056",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "渔民自发对某种思想或宗教或追求的信奉敬仰，具有很强的实际需求导向和禳灾祈福意象。渔民信仰对象繁多，如沿海渔民信仰海神龙王爷、妈祖、鱼神、潮神、港神、船神、礁神等；在中国比较常见的有妈祖信仰、龙王信仰和"
+  },
+  {
+   "cn": "母亲安全",
+   "en": "safe motherhood",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "1.2.3",
+   "subjectFullName": "妇幼卫生学名词_妇幼卫生学_妇女健康",
+   "subjectName": "妇女健康",
+   "publishYear": "2025",
+   "definition": "确保所有妇女在孕产期间获得所需的照护，以达到孕产安全和母婴健康的理念和行动。"
+  },
+  {
+   "cn": "安全剂量",
+   "en": "safe dose",
+   "source": "军事预防医学名词",
+   "wordNumber": "10.5.14.9",
+   "subjectFullName": "军事预防医学_化学武器医学防护学_化学战剂",
+   "subjectName": "化学战剂",
+   "publishYear": "2025",
+   "definition": "对于与人群身体健康有关的各种因素(物理、化学、生物)所规定的暴露剂量的限值，暴露低于此限值，不会观察到任何直接和(或)间接的有害作用。"
+  },
+  {
+   "cn": "健康信念模型",
+   "en": "health belief model",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.9.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "运用于解释个体健康行为的理论模型。"
+  },
+  {
+   "cn": "农业信仰习俗",
+   "en": "agricultural beliefs customs",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0041",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "在农业生产活动中形成并传承的一系列与自然崇拜、祖先崇拜及地方神灵崇拜相关的信仰和习俗，体现了农民对自然规律的认识、对丰收的期盼以及对生活的美好祝愿。这些习俗通常包括祭祀仪式、节日庆典、特定的耕作仪式等"
+  },
+  {
+   "cn": "犹太教-基督教信仰",
+   "en": "Judeo-Christian beliefs",
+   "source": "社会学名词",
+   "wordNumber": "4.4.5.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的价值观",
+   "subjectName": "社会工作的价值观",
+   "publishYear": "2025",
+   "definition": "诞生于巴勒斯坦耶路撒冷圣城的同源宗教犹太教和基督教的信仰体系，主要强调爱人、利他、奉献等。"
+  },
+  {
+   "cn": "安全水分",
+   "en": "Safe Moisture content",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.1.15",
+   "subjectFullName": "食品卫生学_食品_粮食",
+   "subjectName": "粮食",
+   "publishYear": "2025",
+   "definition": "在利用完好仓储设施储粮并采取科学保粮措施的条件下，保证粮食安全度夏储存的水分含量。"
+  },
+  {
+   "cn": "安全期避孕",
+   "en": "safe period contraception",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.2.9.1.2.1",
+   "subjectFullName": "妇幼卫生学名词_生育调节_避孕",
+   "subjectName": "避孕",
+   "publishYear": "2025",
+   "definition": "利用女性月经周期的特点，确定安全期以进行避孕的方法。排卵前后的4-5天为易受孕期，月经周期的其余时间不易受孕，视为安全期，在安全期进行性交可以达到避孕目的。"
+  },
+  {
+   "cn": "健康信念模式",
+   "en": "health belief model, HBM",
+   "source": "社会医学名词",
+   "wordNumber": "10.2.1.5.4.1",
+   "subjectFullName": "政策与策略",
+   "subjectName": "策略",
+   "publishYear": "2025",
+   "definition": "一种经典健康行为理论，认为个体的健康行为是其主观信念的函数，主要受到感知到的疾病风险、潜在损害、预期收益、行为障碍、提示因素及自我效能的影响。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,632 @@
+{
+ "key": "explanatory autonomy",
+ "term": "explanatory autonomy",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T04:12:31+00:00",
+ "status": "ok",
+ "note": "variant=explanatory autonomy; 审定公布名词库=203; 海峡两岸名词对照库=130; 其他来源数据库=5; 预公布名词数据库=23; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "自律",
+   "en": "autonomy",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.037",
+   "subjectFullName": "自然辩证法_科技伦理_常规技术伦理",
+   "subjectName": "常规技术伦理",
+   "publishYear": "2024",
+   "definition": "不受外界约束和情感支配，按照自己的善良意志和道德律令为人处世的道德原则。其特征是自己约束自己。在科技伦理中，自律是专业岗位上的科技工作者严格要求自己、遵守道德底线的基本准则。"
+  },
+  {
+   "cn": "自主",
+   "en": "autonomy",
+   "source": "自然辩证法名词",
+   "wordNumber": "08.106",
+   "subjectFullName": "自然辩证法_科技伦理_医学伦理学",
+   "subjectName": "医学伦理学",
+   "publishYear": "2024",
+   "definition": "源自古希腊语（autos意为“自我”，nomos，意为“治理”）的古老概念。指自治的状态和情况或个人根据自己真实的理性、价值或欲望来指导自己生活的能力。"
+  },
+  {
+   "cn": "自主性",
+   "en": "autonomy",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.229",
+   "subjectFullName": "新闻学与传播学_政治传播_公民社会与政治传播",
+   "subjectName": "公民社会与政治传播",
+   "publishYear": "2022",
+   "definition": "理性个人做出知情而非强迫决定的能力。"
+  },
+  {
+   "cn": "自主能力",
+   "en": "autonomy",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "01.0404",
+   "subjectFullName": "机械工程（一）_机构与机器人学_机器人学",
+   "subjectName": "机器人学",
+   "publishYear": "2021",
+   "definition": "基于当前状态和感知信息，无人为干预地执行预期任务的能力。"
+  },
+  {
+   "cn": "自治力",
+   "en": "autonomy",
+   "source": "植物学名词",
+   "wordNumber": "13.0554",
+   "subjectFullName": "植物学_植物生态学_生态系统与景观生态学",
+   "subjectName": "生态系统与景观生态学",
+   "publishYear": "2019",
+   "definition": "生态系统对于发生内部的各种现象的自我控制能力。"
+  },
+  {
+   "cn": "自主权",
+   "en": "autonomy",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.1066",
+   "subjectFullName": "管理科学技术_一般管理理论_企业理论",
+   "subjectName": "企业理论",
+   "publishYear": "2016",
+   "definition": "在不违背国家法律和法令的条件下，自己做主，不受外力支配和驱使的权利。"
+  },
+  {
+   "cn": "自律",
+   "en": "autonomy",
+   "source": "教育学名词",
+   "wordNumber": "01.197",
+   "subjectFullName": "教育学_教育基本理论",
+   "subjectName": "教育基本理论",
+   "publishYear": "2013",
+   "definition": "主体的道德选择和道德行为受主体自身所认同和建构的道德认识、道德情感支配的状况。无需外部监督而能遵循法度，自加约束，为追求道德本身的目的而行动。"
+  },
+  {
+   "cn": "说明能力",
+   "en": "explanatory power",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.103",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "理论或假说可以有效说明所涉及主题的多少。"
+  },
+  {
+   "cn": "说明的还原论",
+   "en": "explanatory reductionism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.113",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_说明",
+   "subjectName": "说明",
+   "publishYear": "2024",
+   "definition": "认为某层次或形式的说明可由另一层次或形式的说明推导得出。"
+  },
+  {
+   "cn": "解释鸿沟",
+   "en": "explanatory gap",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.516",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "J. 莱文（J. Levine）对物理知识无法说明主观意识体验的感受特性的一种反物理主义的知识论描述。无论我们掌握多少物理世界的知识，在概念上我们仍然无法解释某种复杂的大脑状态或计算过程，以及会让人感"
+  },
+  {
+   "cn": "题解",
+   "en": "explanatory note",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.04.040",
+   "subjectFullName": "编辑与出版学_编辑_编辑加工",
+   "subjectName": "编辑加工",
+   "publishYear": "2022",
+   "definition": "说明书籍或文章的作者、内容、版本等情况的辅文。"
+  },
+  {
+   "cn": "释义注",
+   "en": "explanatory note",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.04.068",
+   "subjectFullName": "编辑与出版学_编辑_编辑加工",
+   "subjectName": "编辑加工",
+   "publishYear": "2022",
+   "definition": "对正文中的语句、用词进行说明的注释。"
+  },
+  {
+   "cn": "解释变量",
+   "en": "explanatory variable",
+   "source": "经济学名词",
+   "wordNumber": "10.049",
+   "subjectFullName": "经济学_数量经济学",
+   "subjectName": "数量经济学",
+   "publishYear": "2020",
+   "definition": "着重研究的自变量，是研究者重点考查对因变量有何影响的变量。"
+  },
+  {
+   "cn": "解释性妄想",
+   "en": "explanatory delusion",
+   "source": "精神医学名词",
+   "wordNumber": "02.120",
+   "subjectFullName": "精神医学_症状与体征_思维障碍症状",
+   "subjectName": "思维障碍症状",
+   "publishYear": "2019",
+   "definition": "受检者的歪曲感受显得合理的妄想。如受检者感到很多陌生人都对自己跟踪盯梢，解释为这是一个组织串通了迫害他的证据。"
+  },
+  {
+   "cn": "一般参照",
+   "en": "explanatory reference",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.640",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_资源描述",
+   "subjectName": "资源描述",
+   "publishYear": "2019",
+   "definition": "一种概括性地指明标目的选取原则的方法。它向读者提供关于某个事项的一项普通说明或一条分类编目通例，使读者遵照它去查阅目录。凡是图书分类、著录规则或目录组织规则，需进一步说明时，都可编制一般参照卡片。采用"
+  },
+  {
+   "cn": "解释方式",
+   "en": "explanatory style",
+   "source": "医学美学与美容医学名词",
+   "wordNumber": "02.103",
+   "subjectFullName": "医学美学与美容医学_美容医学心理学",
+   "subjectName": "美容医学心理学",
+   "publishYear": "2015",
+   "definition": "对事件做出某种归因的相对稳定的倾向，特别是与抑郁有关的倾向。"
+  },
+  {
+   "cn": "解释性对等词",
+   "en": "explanatory equivalent",
+   "source": "语言学名词",
+   "wordNumber": "06.086",
+   "subjectFullName": "语言学_辞书学_辞书编纂",
+   "subjectName": "辞书编纂",
+   "publishYear": "2011",
+   "definition": "与“翻译对等词”相对。在处理目标语中缺失的文化特色词时，双语词典为解释词头所提供的释义性短语。"
+  },
+  {
+   "cn": "解释充分性",
+   "en": "explanatory adequacy",
+   "source": "语言学名词",
+   "wordNumber": "01.130",
+   "subjectFullName": "语言学_理论语言学_核心术语",
+   "subjectName": "核心术语",
+   "publishYear": "2011",
+   "definition": "见“观察充分性”。"
+  },
+  {
+   "cn": "解释性词典",
+   "en": "explanatory dictionary",
+   "source": "语言学名词",
+   "wordNumber": "06.233",
+   "subjectFullName": "语言学_辞书学_辞书类型",
+   "subjectName": "辞书类型",
+   "publishYear": "2011",
+   "definition": "词典的一种类型。对所收录词汇的意义、语法和语用等信息给予详细解释。一般指普通单语词典，也指那种帮助用户理解外语文本的双语词典。"
+  },
+  {
+   "cn": "解释性释义",
+   "en": "explanatory definition",
+   "source": "语言学名词",
+   "wordNumber": "06.306",
+   "subjectFullName": "语言学_辞书学_辞书释义",
+   "subjectName": "辞书释义",
+   "publishYear": "2011",
+   "definition": "释义方法的一种。构造一个与释义对象意义和语法功能相同的子句或短语来解释其意义。"
+  },
+  {
+   "cn": "自主",
+   "en": "autonomy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "解释性地理学",
+   "en": "explanatory geography",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "说明注记",
+   "en": "explanatory text",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "图外说明",
+   "en": "explanatory note",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "功能自主",
+   "en": "functional autonomy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "关税自主[权]",
+   "en": "tariff autonomy",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "场地自治",
+   "en": "site autonomy",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自主对怀疑和羞耻",
+   "en": "autonomy versus doubt and shame",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自切,自割",
+   "en": "autotomy",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "自切",
+   "en": "autotomy",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "自割,自残",
+   "en": "autotomy",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "探究行为",
+   "en": "exploratory behavior",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "自残",
+   "en": "appendotomy\",\"autotomy",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "高空大气物理学",
+   "en": "aeronomy",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "农学，农艺学",
+   "en": "agronomy",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "自体受精",
+   "en": "autogamy",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "高层大气物理学",
+   "en": "aeronomy",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "天文学",
+   "en": "astronomy",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "自花受精",
+   "en": "autogamy",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "农艺学",
+   "en": "agronomy",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "数据自治权",
+   "en": "data autonomy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "天文",
+   "en": "The Laws of Constellations and Seasons/Astronomy",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自主",
+   "en": "autonomy",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.009",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "个人根据自己的价值观或意愿独立做出的决定。患者自主，指患者对有关自己的健康问题，经过深思熟虑所作出的决定并据以采取的行动。"
+  },
+  {
+   "cn": "公民自治",
+   "en": "civil autonomy",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.1",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "以地方自治为政治基础建设公民社会的主张。来自康有为在其“公民自治篇”中系统阐述的关于中国国家制度建设的主张。其特点是试图把中国古代的乡治传统转化为地方自治的基础，通过本地公民选举议员来共同商议地方重要"
+  },
+  {
+   "cn": "农村自治",
+   "en": "rural autonomy",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.33",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "以中国历史上的乡约制度为基础，自下而上地建立起一个属于全体村民、用于全体村民的社会共同体。共同体内秉承德业相劝、过失相规、礼俗相交、患难相恤的原则。 这是杨开道提出的农村建设运动纲领中的核心思想。"
+  },
+  {
+   "cn": "地方自治",
+   "en": "local autonomy",
+   "source": "马克思主义",
+   "wordNumber": "03.0051",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "早期资本主义市民阶层以城市特许状为主要形式的城市自治制度体系。在西欧中世纪，随着城乡分离，以商人为主导的市民阶层逐渐崛起，为了维护自身的利益而要求从封建贵族手中取得城市的自治权利。国王为了制约贵族的权"
+  },
+  {
+   "cn": "民族自治",
+   "en": "national autonomy",
+   "source": "马克思主义",
+   "wordNumber": "04.0090",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "全称“民族区域自治”。多民族的社会主义国家内的少数民族在最高国家机关的统一领导下，以其聚居区为基础建立相应的自治地区，自主管理本民族本地方的事务。这是马克思列宁主义解决多民族国家内民族问题的一项基本政"
+  },
+  {
+   "cn": "解释性序列设计",
+   "en": "explanatory sequential design",
+   "source": "社会医学名词",
+   "wordNumber": "4.4.2",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "混合方法研究",
+   "publishYear": "2025",
+   "definition": "先收集定量数据，然后收集并使用定性数据来更深入解释定量研究的结果的定性、定量混合研究方法。"
+  },
+  {
+   "cn": "科学的自主性",
+   "en": "autonomy of science",
+   "source": "社会学名词",
+   "wordNumber": "3.10.4.8",
+   "subjectFullName": "社会学名词_分支社会学科学社会学",
+   "subjectName": "分支社会学科学社会学",
+   "publishYear": "2025",
+   "definition": "科学家奉行的一种观点，即认为科学是一项独特的事业，来自外界的规定会损害科学共同体，只有允许科学家按照自己的标准和判断行事，才能获得正确的知识并进而得到有效的实际应用。"
+  },
+  {
+   "cn": "民族文化自治",
+   "en": "national cultural autonomy",
+   "source": "马克思主义",
+   "wordNumber": "04.0091",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "20世纪初奥地利社会民主党人提出的民族主义理论。认为民族与地域无关，主张用公民自由登记的办法，把散居各地的一些民族成分组成一个法定的民族，在文化事务方面实行自治。列宁斥之为“最精致、最彻底、最有害的民"
+  },
+  {
+   "cn": "民族文化自治",
+   "en": "ethnic cultural autonomy",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0016",
+   "subjectFullName": "民族学与文化学_民族理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2025",
+   "definition": "19 世纪末到20 世纪初一些奥地利社会民主党人提出的一种民族主义理论。认为民族是由一群现代人组成的和地域无关的文化共同体，消除民族问题的路径是把少数民族组成一个共同的包括各阶级的民族联盟，在文化方面"
+  },
+  {
+   "cn": "民族区域自治制度",
+   "en": "regional autonomy for ethnic minorities",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0068",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "中国共产党运用马克思列宁主义解决国内民族问题的基本政策，是中华人民共和国的一项基本政治制度，是中国特色解决民族问题正确道路的重要内容和制度保障。民族区域自治具有民族因素和区域因素、政治因素和经济因素相"
+  },
+  {
+   "cn": "民族区域自治法",
+   "en": "law of regional national autonomy",
+   "source": "马克思主义",
+   "wordNumber": "03.0574",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "宪法规定，各少数民族聚居的地方实行区域自治，建立自治机关，行使自治权。《中华人民共和国民族区域自治法》是实施民族区域自治制度的基本法律。1984年5月31日由第六届全国人民代表大会第二次会议通过，20"
+  },
+  {
+   "cn": "民族区域自治制度",
+   "en": "system of regional ethnic autonomy",
+   "source": "马克思主义",
+   "wordNumber": "03.0660",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "在国家统一领导下，各少数民族聚居的地方实行区域自治，设立自治机关，行使自治权。其核心是保障少数民族当家做主，管理本民族、本地方事务的权利。这是中华人民共和国的一项基本政治制度，是建设中国特色社会主义政"
+  },
+  {
+   "cn": "工人自治的经济模式",
+   "en": "economic mode of workers autonomy",
+   "source": "马克思主义",
+   "wordNumber": "05.0175",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "南斯拉夫探索符合本国情况和社会主义本质的具体体制模式。1950年南斯拉夫联邦国民议会颁制《关于劳动集体管理国营经济企业和高级经济联合组织的基本法》，规定一切国营企业作为公共财产，由劳动集体代表社会，根"
+  },
+  {
+   "cn": "南斯拉夫自治社会主义制度",
+   "en": "Yugoslavian system of socialist autonomy",
+   "source": "马克思主义",
+   "wordNumber": "05.0211",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_主要事件",
+   "subjectName": "主要事件",
+   "publishYear": "2025",
+   "definition": "南斯拉夫从1950年起在工人自治基础上逐步确立的政治、经济和社会发展的根本制度。工人委员会代表社会对企业进行管理；生产资料的国家所有制改为社会所有制，实行工人自治。从1953年起，自治的范围又扩展到教"
+  },
+  {
+   "cn": "经营管理自主权",
+   "en": "autonomy in management and administration",
+   "source": "卫生经济学名词",
+   "wordNumber": "16.1.4.1.1",
+   "subjectFullName": "卫生经济学名词_卫生系统改革_中国卫生系统改革",
+   "subjectName": "中国卫生系统改革",
+   "publishYear": "2025",
+   "definition": "公立医院依法依规进行经营管理和提供医疗服务，自主行使内部人事管理、机构设置、中层干部聘任、人员招聘和人才引进、内部绩效考核与薪酬分配、年度预算执行等经营管理模式"
+  },
+  {
+   "cn": "民族自治地方的自治权",
+   "en": "autonomy rights in ethnic autonomous areas",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0074",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "按照国家宪法和法律规定，民族自治地方自主管理本民族和本地区内部事务的权利。包括根据本地方实际情况贯彻执行国家的法律和政策，制定自治条例和单行条例，管理本地方财政，自主安排和管理地方经济建设，自主管理本"
+  },
+  {
+   "cn": "中华人民共和国民族区域自治法",
+   "en": "Law of the People's Republic of China on Regional National Autonomy",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0069",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "实施宪法规定的民族区域自治制度的基本法律。1984 年5 月31 日通过，2001 年2 月28日修订，包括总则、民族自治地方的建立和自治机关的组成、自治机关的自治权、民族自治地方的人民法院和人民检察"
+  },
+  {
+   "cn": "中华人民共和国民族区域自治实施纲要",
+   "en": "Implementation Outline of Regional National Autonomy of the People's Republic of China",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0071",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "中华人民共和国成立初期实施民族区域自治的重要法规。1952 年2 月22 日经中央人民政府政务院通过，同年8 月8 日，经中央人民政府委员会批准，并于8 月9 日公布施行。规定了民族自治地方的设立依据"
+  },
+  {
+   "cn": "国务院实施《中华人民共和国民族区域自治法》若干规定",
+   "en": "State Council Implements Several Provisions of Law of People's Republic of China on Regional Ethnic Autonomy",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.007",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "国务院制定的实施民族区域自治法的第一部行政法规。2005 年5 月19 日公布，5 月31 日起施行，主要是对民族区域自治法第六章上级国家的职责的内容进行细化，始终将进一步规范上级国家机关对民族自治地"
+  },
+  {
+   "cn": "二律背反",
+   "en": "antinomy",
+   "source": "马克思主义",
+   "wordNumber": "01.0087",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "是德国古典哲学家康德提出的哲学概念。意指一对称的正题和反题的对立命题都似乎可以为形式可靠的证明所支持。康德的本意是以此表明理性的局限性，但客观上揭示了思维本身矛盾的必然性。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

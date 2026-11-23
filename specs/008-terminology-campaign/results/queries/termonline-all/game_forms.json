@@ -1,0 +1,782 @@
+{
+ "key": "game forms",
+ "term": "game forms",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T04:10:46+00:00",
+ "status": "ok",
+ "note": "variant=game forms; 审定公布名词库=1801; 海峡两岸名词对照库=520; 其他来源数据库=145; 预公布名词数据库=71; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "博弈的扩展形式",
+   "en": "extensive form of game",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0310",
+   "subjectFullName": "管理科学技术_运筹与管理_对策理论与方法",
+   "subjectName": "对策理论与方法",
+   "publishYear": "2016",
+   "definition": "在一个博弈中以决策树的形式来表示博弈方的可能行为。"
+  },
+  {
+   "cn": "正规型对策",
+   "en": "game in normal form",
+   "source": "数学名词",
+   "wordNumber": "011.0439",
+   "subjectFullName": "数学_运筹学_对策论",
+   "subjectName": "对策论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "对策",
+   "en": "game",
+   "source": "数学名词",
+   "wordNumber": "011.0407",
+   "subjectFullName": "数学_运筹学_对策论",
+   "subjectName": "对策论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "对策模拟",
+   "en": "gaming",
+   "source": "数学名词",
+   "wordNumber": "011.0410",
+   "subjectFullName": "数学_运筹学_对策论",
+   "subjectName": "对策论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "博弈的正规式",
+   "en": "normal form of a game",
+   "source": "经济学名词",
+   "wordNumber": "03.156",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "用支付矩阵描述博弈的一种描述方式，包括了参与人全部可能的策略组合以及由参与人策略组合映射到支付向量上的支付函数。"
+  },
+  {
+   "cn": "博弈的扩展式",
+   "en": "extensive form of a game",
+   "source": "经济学名词",
+   "wordNumber": "03.157",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "对博弈的另一种描述方式，包括：①由节点和枝组成的博弈树；②对参与人的行动顺序的描述；③在自然节点上，对自然选择概率的描述；④划分每个参与人的节点的信息集；⑤在每一个终点节点上的支付向量。"
+  },
+  {
+   "cn": "电子游戏",
+   "en": "electronic game;e game",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "13.117",
+   "subjectFullName": "新闻学与传播学_新媒体传播_新媒体应用",
+   "subjectName": "新媒体应用",
+   "publishYear": "2022",
+   "definition": "一种游戏形式，依托电子媒介运行，通过电子设备实现交互。电子游戏的形式非常丰富。按游戏对象分有单人游戏、多人游戏；按载体分可包括街机游戏、掌机游戏、电视游戏、电脑游戏、手机游戏等；按是否有联机要求可以分"
+  },
+  {
+   "cn": "竞争情报战争游戏",
+   "en": "war game,war gaming",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "06.127",
+   "subjectFullName": "图书馆·情报与文献学_情报分析与研究_竞争情报",
+   "subjectName": "竞争情报",
+   "publishYear": "2019",
+   "definition": "一种竞争情报分析方法。让不同的人分别扮演己方、竞争对手或市场环境中的第三方以及消费者等，在尽可能逼真的模拟环境中进行模拟竞争，以发现情报人员凭借想象和推理而无法发现的问题，预测竞争对手和市场环境的发展"
+  },
+  {
+   "cn": "游戏设施",
+   "en": "game facility",
+   "source": "风景园林名词",
+   "wordNumber": "08.1211",
+   "subjectFullName": "风景园林_风景园林工程_风景园林设施",
+   "subjectName": "风景园林设施",
+   "publishYear": "2025",
+   "definition": "运用机械、电、光、声、水、力等先进技术，集知识性、趣味性、科学性、惊险性于一体的设施。"
+  },
+  {
+   "cn": "博弈论",
+   "en": "game theory",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.796",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_社会科学哲学",
+   "subjectName": "社会科学哲学",
+   "publishYear": "2024",
+   "definition": "用成本-收益分析和预期效用的计算来研究决策主体之间互动行为的学科。其中决策主体具有理性思考的能力，并力图选取预期效用最大化的方案。"
+  },
+  {
+   "cn": "网络游戏",
+   "en": "online game",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "13.115",
+   "subjectFullName": "新闻学与传播学_新媒体传播_新媒体应用",
+   "subjectName": "新媒体应用",
+   "publishYear": "2022",
+   "definition": "以互联网为数据传输媒介、以游戏运营商服务器和用户计算机为处理终端、以网页或客户端软件为信息交互窗口的游戏形式。通常是多人游戏。"
+  },
+  {
+   "cn": "手机游戏",
+   "en": "mobile game",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "13.116",
+   "subjectFullName": "新闻学与传播学_新媒体传播_新媒体应用",
+   "subjectName": "新媒体应用",
+   "publishYear": "2022",
+   "definition": "在手机终端上运行的游戏。根据游戏时是否联网可以分为单机游戏和在线游戏两大类；根据运行界面可以分为客户端游戏、网页游戏等。"
+  },
+  {
+   "cn": "网络游戏",
+   "en": "online game",
+   "source": "编辑与出版学名词",
+   "wordNumber": "07.05.038",
+   "subjectFullName": "编辑与出版学_出版物_网络出版产品与服务",
+   "subjectName": "网络出版产品与服务",
+   "publishYear": "2022",
+   "definition": "指由软件程序和信息数据构成的，经互联网、移动通信网等信息网络传播的，通过手机、网页浏览器和其他终端形式运行的游戏产品和服务。"
+  },
+  {
+   "cn": "合作博弈",
+   "en": "cooperative game",
+   "source": "经济学名词",
+   "wordNumber": "03.149",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "参与人之间能够达成有约束力协议的博弈。在合作博弈中，通常引入特征函数进行分析，特征函数是关于参与人之间组成的联盟的函数，表明联盟作为一个参与人在博弈中所能获得的最高支付。"
+  },
+  {
+   "cn": "非合作博弈",
+   "en": "noncooperative game",
+   "source": "经济学名词",
+   "wordNumber": "03.150",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "参与人不能够达成有约束力协议的博弈。在非合作博弈中，参与人之间没有形成任何合作联盟，每个参与人都独立地选择自己的策略。"
+  },
+  {
+   "cn": "重复博弈",
+   "en": "repeated game",
+   "source": "经济学名词",
+   "wordNumber": "03.168",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "按照相同的规则和结构反复进行的博弈，其中每次博弈称为“阶段博弈”。重复博弈是动态博弈中的重要内容，它可以是完全信息的重复博弈，也可以是不完全信息的重复博弈。"
+  },
+  {
+   "cn": "游戏网格",
+   "en": "game grid",
+   "source": "计算机科学技术名词",
+   "wordNumber": "11.1201",
+   "subjectFullName": "计算机科学技术_计算机应用_基于网络的信息服务",
+   "subjectName": "基于网络的信息服务",
+   "publishYear": "2018",
+   "definition": "利用网格计算技术、通过网格路由器在更广范围内查找和定位游戏资源的网络游戏系统。"
+  },
+  {
+   "cn": "动态对策",
+   "en": "dynamic game",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0295",
+   "subjectFullName": "管理科学技术_运筹与管理_对策理论与方法",
+   "subjectName": "对策理论与方法",
+   "publishYear": "2016",
+   "definition": "参与者的行动有先后顺序或者其行动可表示为以时间为变量的函数的对策类。"
+  },
+  {
+   "cn": "微分对策",
+   "en": "differential game",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0325",
+   "subjectFullName": "管理科学技术_运筹与管理_对策理论与方法",
+   "subjectName": "对策理论与方法",
+   "publishYear": "2016",
+   "definition": "研究两个或多个决策人的控制作用同时施加于一个由微分方程描述的运动系统时实现各自最优目标的对策过程的理论。"
+  },
+  {
+   "cn": "序贯对策",
+   "en": "sequential game",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0327",
+   "subjectFullName": "管理科学技术_运筹与管理_对策理论与方法",
+   "subjectName": "对策理论与方法",
+   "publishYear": "2016",
+   "definition": "参与人根据对手的行动和反应轮流行动的对策。"
+  },
+  {
+   "cn": "博弈，对策",
+   "en": "game",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "博弈论，对策论",
+   "en": "game theory",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "狩猎牧场,供猎牧场",
+   "en": "game pasture",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "狩猎管理,狩猎经营",
+   "en": "game management",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "博弈论,对策论",
+   "en": "game theory",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "等待博弈",
+   "en": "wait game",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "狩猎动物",
+   "en": "game animal",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "市场营销对策，营销策略",
+   "en": "marketing game",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "博弈论",
+   "en": "game theory",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "博弈论",
+   "en": "game theory",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "博弈论，对策论",
+   "en": "game theory",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "博弈树",
+   "en": "game tree",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "博弈图",
+   "en": "game graph",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "对策仿真",
+   "en": "gaming simulation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "变型",
+   "en": "form",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "曲式",
+   "en": "form",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "成形",
+   "en": "forming",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "成形法",
+   "en": "forming",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "囚徒困境对策",
+   "en": "prisoner’s dilemma game\",\"PD game　",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "零和博弈,零和对策",
+   "en": "zero sum game",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "局",
+   "en": "game",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "局",
+   "en": "game",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "局",
+   "en": "game",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "局",
+   "en": "game",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "局点",
+   "en": "game ball\",\"game point",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "比赛",
+   "en": "game\",\"match",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "局",
+   "en": "game\",\"inning",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "比赛",
+   "en": "game\",\"match",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "对策论",
+   "en": "game theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字游戏",
+   "en": "digital game",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "博弈论",
+   "en": "game theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "野味",
+   "en": "bushmeat; game",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "社会民生_百姓生活",
+   "subjectName": "百姓生活",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "比赛计划",
+   "en": "game plan",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "比赛间断",
+   "en": "game interruption",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "发球局",
+   "en": "service game",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "局点",
+   "en": "game point",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "局点！",
+   "en": "Game point!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "博弈论",
+   "en": "game theory",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.14",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "研究多个个体或团队之间在特定条件制约下的对局里，利用相关方的策略而实施对应策略的理论。认为参加斗争或竞争的各方有不同的目标或利益，为了达到各自的目标和利益，各方必须考虑对手各种可能的行动方案，并力图选"
+  },
+  {
+   "cn": "教学游戏",
+   "en": "teaching game",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.2.2.5",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育方法",
+   "subjectName": "学校健康教育方法",
+   "publishYear": "2025",
+   "definition": "教师根据教学的目的、利用游戏的因素和形式所编制和组织的、具有一定的游戏性的教学活动。"
+  },
+  {
+   "cn": "互动式游戏",
+   "en": "interactive game",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "9.1.3.2.2",
+   "subjectFullName": "妇幼卫生学名词_妇幼健康教育与健康促进_妇幼健康教育",
+   "subjectName": "妇幼健康教育",
+   "publishYear": "2025",
+   "definition": "将健康教育的内容融入游戏之中，生动形象地让其通过游戏的方式学习，获得知识、培养良好生活习惯的教育活动。"
+  },
+  {
+   "cn": "民间游戏",
+   "en": "folk games",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0428",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "流传于民间，以嬉戏、消遣为主的娱乐活动，是民间娱乐中最常见、最简易、最普遍的趣味性活动。民间游戏包括儿童的庭院嬉戏，成人的助兴游戏，以及少年、成人共享的斗智游戏等。"
+  },
+  {
+   "cn": "形式",
+   "en": "form",
+   "source": "马克思主义",
+   "wordNumber": "01.0055",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“内容”相对。把事物内容各个要素统一起来的结构或表现形态，是事物存在和发展的方式。可分为外在形式和内在形式。外在形式一般不影响事物的性质，内在形式则直接影响事物的性质。同一内容可以有不同的形式，同一"
+  },
+  {
+   "cn": "民间竞技",
+   "en": "folk competitive games",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.043",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "一种以竞赛体力、技巧、技艺为内容的娱乐活动。争强斗胜是民间竞技的根本特性。民间竞技从性质表现和形态划分，分力量型、技巧型、技艺型三类。"
+  },
+  {
+   "cn": "社会形态",
+   "en": "social forms",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0327",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "一定历史发展阶段上以一定的生产关系为基础的社会，是经济基础和上层建筑的历史的统一。社会形态是标志人类社会不同质态的范畴，人类历史发展就表现为社会形态依次更替的过程。"
+  },
+  {
+   "cn": "零形式",
+   "en": "zero form",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0064",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "一种理论上假设的抽象语言单位。旨在使语言单位或语言结构的分析保持均衡性和对称性。在语流中没有任何显性的实现形式，用符号Ǿ 表示。例如英语有的名词单数和复数形式同形，如deer、sheep，可以认为其复"
+  },
+  {
+   "cn": "社会形式",
+   "en": "social form",
+   "source": "社会学名词",
+   "wordNumber": "2.1.2.1",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会形式",
+   "subjectName": "社会形式",
+   "publishYear": "2025",
+   "definition": "以一定的社会—文化价值取向为突出特征的社会样式。"
+  },
+  {
+   "cn": "组织形态",
+   "en": "organizational form",
+   "source": "社会学名词",
+   "wordNumber": "2.5.6",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织",
+   "subjectName": "群体和组织",
+   "publishYear": "2025",
+   "definition": "2.5.6.1  正式组织  formal organization"
+  },
+  {
+   "cn": "养成教育",
+   "en": "formative education",
+   "source": "社会学名词",
+   "wordNumber": "3.16.4.5",
+   "subjectFullName": "社会学名词_分支社会学_青少年研究_青少年政策",
+   "subjectName": "青少年政策",
+   "publishYear": "2025",
+   "definition": "从行为训练入手，综合多种教育方法，全面提高人的“知情意行”，最终形成良好行为习惯的教育。少年儿童阶段是关键期。"
+  },
+  {
+   "cn": "形成评价",
+   "en": "formative evaluation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.8.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育与健康促进评价",
+   "subjectName": "学校健康教育与健康促进评价",
+   "publishYear": "2025",
+   "definition": "在项目实施前对项目方案进行可行性评判的过程。包括对项目执行学校的组织能力，人力和物力资源、信息管理水平等进行评估，及时发现问题，解决问题，保证干预方案能顺利实施。"
+  },
+  {
+   "cn": "形成评价",
+   "en": "formative evaluation",
+   "source": "军事预防医学名词",
+   "wordNumber": "17.1.4.1",
+   "subjectFullName": "军事预防医学_军队健康教育与健康促进_军队健康教育",
+   "subjectName": "军队健康教育",
+   "publishYear": "2025",
+   "definition": "在项目、计划、政策或活动的实施过程中，为诊断问题、优化机制、提升效果开展的系统性评估，本质是通过“实时监测- 反馈调整- 动态优化” 循环，确保健康教育活动向预期目标推进，不对最终结果定性判断。"
+  },
+  {
+   "cn": "所有制形式",
+   "en": "forms of ownership",
+   "source": "马克思主义",
+   "wordNumber": "02.0010",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "一定的生产力性质和水平决定人们对生产资料占有的具体形式，一般根据生产资料与劳动者的结合方式进行划分。人类历史上相继出现过五种基本的所有制形式，即原始公社的、奴隶主的、封建的、资本主义的和社会主义的生产"
+  },
+  {
+   "cn": "消毒剂型",
+   "en": "disinfector dosage form",
+   "source": "消毒学",
+   "wordNumber": "5.2.7",
+   "subjectFullName": "消毒学_监督管理_产品监管",
+   "subjectName": "产品监管",
+   "publishYear": "2025",
+   "definition": "消毒剂的形态，如片剂、粉剂、颗粒剂、液体、喷雾剂等。"
+  },
+  {
+   "cn": "细菌繁殖体",
+   "en": "bacterial vegetative form",
+   "source": "消毒学",
+   "wordNumber": "6.2.2",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "细菌在适宜条件下恢复正常生长，进行新陈代谢和繁殖的状态。"
+  },
+  {
+   "cn": "复本信度",
+   "en": "alternate-form reliability",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.71",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "在问卷调查中，设计两个功能等价但措辞不同的问题，或改变问卷中问题的提问次序，以评估同一回答人对两种问题（或问卷）反应的稳定性的量度。"
+  },
+  {
+   "cn": "形式与内容",
+   "en": "form and content",
+   "source": "马克思主义",
+   "wordNumber": "01.0057",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "构成事物统一体的两个不可分割的基本方面。形式与内容相互依存，没有无形式的内容，也没有无内容的形式。内容决定形式，形式依赖于内容，并随着内容的发展而改变。形式反作用于内容，影响内容。在一定条件下，二者可"
+  },
+  {
+   "cn": "价值形式",
+   "en": "form of value",
+   "source": "马克思主义",
+   "wordNumber": "02.0056",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "商品的价值表现形式，即商品在交换中通过其他商品体现自身价值的形式，反映商品交换价值的发展过程。价值形式在历史上从简单的、个别的或偶然的价值形式，发展到总和的或扩大的价值形式，再发展到一般价值形式，最后"
+  },
+  {
+   "cn": "前生殖期性游戏",
+   "en": "pre-reproductive period sex games",
+   "source": "社会学名词",
+   "wordNumber": "3.3.3.3",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性发展",
+   "subjectName": "性发展",
+   "publishYear": "2025",
+   "definition": "儿童模仿成人性活动的游戏，是儿童学习性别角色，进行性别认同，进而逐渐掌握性别行为模式，形成特定的性别气质的一个过程。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

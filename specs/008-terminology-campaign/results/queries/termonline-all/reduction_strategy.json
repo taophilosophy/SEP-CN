@@ -1,0 +1,802 @@
+{
+ "key": "reduction strategy",
+ "term": "reduction strategy",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T04:15:34+00:00",
+ "status": "ok",
+ "note": "variant=reduction strategy; 审定公布名词库=4361; 海峡两岸名词对照库=1117; 其他来源数据库=206; 预公布名词数据库=383; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "战略",
+   "en": "strategy",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "9.099",
+   "subjectFullName": "新闻学与传播学_组织传播_组织传播战略",
+   "subjectName": "组织传播战略",
+   "publishYear": "2022",
+   "definition": "制定一个组织的长期目标，以及为达到这些目标所采取的行动与资源的分配。广义上，它涉及理性确定组织的重大利益及其目标。狭义上，指通过对资源的利用和劳动效率的合理调配，来实现组织目标并获得竞争优势。"
+  },
+  {
+   "cn": "策略",
+   "en": "strategy",
+   "source": "经济学名词",
+   "wordNumber": "03.160",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "参与人在给定信息集情况下的行动规则。参与人的策略规定了参与人在何种条件下采取何种行动，是一种相机抉择的行动方案。与参与人的行动不同，策略是一种完备的行动规则。"
+  },
+  {
+   "cn": "策略",
+   "en": "strategy",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0231",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "为满足一个需求而设计的能行过程，它是一个算法过程，但可能需要无穷次做动作才能满足所对应的需求。"
+  },
+  {
+   "cn": "战略",
+   "en": "strategy",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0591",
+   "subjectFullName": "管理科学技术_一般管理理论_战略管理",
+   "subjectName": "战略管理",
+   "publishYear": "2016",
+   "definition": "组织为求得长期生存和不断发展，为创造和保持竞争优势，对组织的发展目标、达到目标的途径和手段的总体规划。"
+  },
+  {
+   "cn": "策略",
+   "en": "strategy",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0284",
+   "subjectFullName": "管理科学技术_运筹与管理_对策理论与方法",
+   "subjectName": "对策理论与方法",
+   "publishYear": "2016",
+   "definition": "局中人在对策中采用的一个可行的自始至终通盘筹划的行动方案。"
+  },
+  {
+   "cn": "还原",
+   "en": "reduction",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "10.115",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_化学产品工程与分子系统工程",
+   "subjectName": "化学产品工程与分子系统工程",
+   "publishYear": "2024",
+   "definition": "物质（分子、原子或离子）得到电子或电子对的反应过程。"
+  },
+  {
+   "cn": "还原",
+   "en": "reduction",
+   "source": "肝病学名词",
+   "wordNumber": "1.3.2.1.2",
+   "subjectFullName": "肝病学_肝脏结构与功能_肝脏功能",
+   "subjectName": "肝脏功能",
+   "publishYear": "2024",
+   "definition": "1个或多个电子转移到1个分子实体（元素氧化态降低）的过程。"
+  },
+  {
+   "cn": "减少",
+   "en": "reduction",
+   "source": "兽医学名词",
+   "wordNumber": "09.115",
+   "subjectFullName": "兽医学_实验动物学",
+   "subjectName": "实验动物学",
+   "publishYear": "2023",
+   "definition": "在动物实验中，以尽可能减少动物使用数量为基本原则，并达到预想或更多试验结果的动物实验方法。"
+  },
+  {
+   "cn": "压缩量",
+   "en": "reduction",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "03.082",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_锻压_锻造",
+   "subjectName": "锻造",
+   "publishYear": "2021",
+   "definition": "压缩前后坯料高度的差值。即高度方向被压缩而减小的尺寸。"
+  },
+  {
+   "cn": "约化",
+   "en": "reduction",
+   "source": "物理学名词",
+   "wordNumber": "01.0200",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "还原",
+   "en": "reduction",
+   "source": "物理学名词",
+   "wordNumber": "01.0199",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "还原",
+   "en": "reduction",
+   "source": "核医学名词",
+   "wordNumber": "02.0242",
+   "subjectFullName": "核医学_核医学相关基础学科_放射化学",
+   "subjectName": "放射化学",
+   "publishYear": "2018",
+   "definition": "物质得到电子、还原剂失去电子的过程。"
+  },
+  {
+   "cn": "归约",
+   "en": "reduction",
+   "source": "计算机科学技术名词",
+   "wordNumber": "05.0010",
+   "subjectFullName": "计算机科学技术_系统软件_语言与编译",
+   "subjectName": "语言与编译",
+   "publishYear": "2018",
+   "definition": "根据语法规则，把句子或句型中的符号串替换为规则左部的非终极符。"
+  },
+  {
+   "cn": "归约",
+   "en": "reduction",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0142",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "把解决一个问题归结到解决另一个问题的方法。"
+  },
+  {
+   "cn": "还原",
+   "en": "reduction",
+   "source": "化学名词",
+   "wordNumber": "01.0389",
+   "subjectFullName": "化学_无机化学_一般化学反应及无机化学反应",
+   "subjectName": "一般化学反应及无机化学反应",
+   "publishYear": "2016",
+   "definition": "1个或多个电子转移到1个分子实体(元素氧化态降低)的过程。"
+  },
+  {
+   "cn": "复位术",
+   "en": "reduction",
+   "source": "医学名词 第六分册",
+   "wordNumber": "05.216",
+   "subjectFullName": "医学_骨科学",
+   "subjectName": "骨科学",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "归约",
+   "en": "reduction",
+   "source": "数学名词",
+   "wordNumber": "02.0298",
+   "subjectFullName": "数学_数理逻辑·数学基础_递归论",
+   "subjectName": "递归论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "还原剂",
+   "en": "reductant",
+   "source": "精细化工名词",
+   "wordNumber": "08.1119",
+   "subjectFullName": "精细化工_其他精细化学品_电子化学品与感光材料",
+   "subjectName": "电子化学品与感光材料",
+   "publishYear": "2025",
+   "definition": "在氧化还原反应中，失去电子或有电子偏离的物质。"
+  },
+  {
+   "cn": "还原剂",
+   "en": "reductant",
+   "source": "冶金学名词",
+   "wordNumber": "06.0157",
+   "subjectFullName": "冶金学_有色金属冶金_一般术语与单元过程",
+   "subjectName": "一般术语与单元过程",
+   "publishYear": "2019",
+   "definition": "在氧化还原反应里，失去电子或有电子对偏离的物质。"
+  },
+  {
+   "cn": "还原剂",
+   "en": "reductant",
+   "source": "核医学名词",
+   "wordNumber": "02.0243",
+   "subjectFullName": "核医学_核医学相关基础学科_放射化学",
+   "subjectName": "放射化学",
+   "publishYear": "2018",
+   "definition": "在氧化还原反应中，所含原子失去电子(或电子对偏离)、化合价升高的物质。还原剂反应时本身被氧化，生成氧化产物。"
+  },
+  {
+   "cn": "策略",
+   "en": "strategy",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "还原",
+   "en": "reduction",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "还原",
+   "en": "reduction",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "归约",
+   "en": "reduction",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "生态对策",
+   "en": "ecological strategy\",\"bionomic strategy",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "编码策略",
+   "en": "coding strategy\",\"encoding strategy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "生态对策",
+   "en": "bionomic strategy\",\"ecological strategy",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "庇护所策略",
+   "en": "refuge strategy",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "进化对策",
+   "en": "evolutionary strategy",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "气候策略",
+   "en": "climatological strategy",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "适应性策略",
+   "en": "adaptation strategy",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "控制策略",
+   "en": "control strategy",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "认知策略",
+   "en": "cognitive strategy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "推广策略",
+   "en": "promotion strategy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "理解策略",
+   "en": "comprehension strategy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "复述策略",
+   "en": "rehearsal strategy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "学习策略",
+   "en": "learning strategy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "应对策略",
+   "en": "coping strategy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "组织策略",
+   "en": "organizational strategy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "精细加工策略",
+   "en": "elaboration strategy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "策略",
+   "en": "strategy",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "平台战略",
+   "en": "platform strategy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "标准化战略",
+   "en": "Standardization Strategy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "学习策略",
+   "en": "learning strategy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全战略",
+   "en": "Security Strategy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《ISO 2016–2020战略规划》",
+   "en": "ISO Strategy 2016–2020",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "热点减量化",
+   "en": "hotspot reduction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据归约",
+   "en": "data reduction",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "降体重",
+   "en": "bodyweight reduction",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "金融科技战略",
+   "en": "Fintech Strategies",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "大数据战略",
+   "en": "Big Data Strategy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "宽带中国战略",
+   "en": "Broadband China Strategy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自主可控战略",
+   "en": "self-reliance strategy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字包容战略",
+   "en": "Digital Inclusion Strategy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "元数据管理策略",
+   "en": "metadata management strategy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字政府战略",
+   "en": "Digital Government Strategy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "移动政务策略",
+   "en": "mobile government strategy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "i-Japan战略",
+   "en": "i-Japan Strategy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际标准化战略",
+   "en": "international standardization strategy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "策略",
+   "en": "strategy",
+   "source": "社会医学名词",
+   "wordNumber": "10.2",
+   "subjectFullName": "政策与策略",
+   "subjectName": "策略",
+   "publishYear": "2025",
+   "definition": "为实现卫生目标制定的总体行动方针与实施路径，强调系统性和可操作性，是政策落实的实践框架。"
+  },
+  {
+   "cn": "家庭策略",
+   "en": "family strategy",
+   "source": "社会学名词",
+   "wordNumber": "3.1.1.6",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_家庭",
+   "subjectName": "家庭",
+   "publishYear": "2025",
+   "definition": "家庭面临新的外部环境时，家庭及其成员的决策过程和决策时机。例如何时让孩子离家谋生，何时更换住所，何时控制家庭规模等。"
+  },
+  {
+   "cn": "适应策略",
+   "en": "adaptive strategy",
+   "source": "社会学名词",
+   "wordNumber": "4.2.9.46",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化现象",
+   "subjectName": "文化现象",
+   "publishYear": "2025",
+   "definition": "社会群体在一定时期为了调整和解决来自其内部和外部的压力所采取的行动计划。"
+  },
+  {
+   "cn": "两步走战略",
+   "en": "twostep strategy",
+   "source": "马克思主义",
+   "wordNumber": "03.0803",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中共十九大对实现“两个一百年”奋斗目标做出的两步走的战略安排：即从2020年到2035年，在全面建成小康社会的基础上，再奋斗15年，基本实现社会主义现代化；从2035年到本世纪中叶，在基本实现现代化的"
+  },
+  {
+   "cn": "劳工战略",
+   "en": "workforce strategy",
+   "source": "马克思主义",
+   "wordNumber": "05.0195",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "法国左翼思想家、《新观察家》周刊的创始人安德列·高兹（Andre Gorz）在“新工人阶级论”的基础上提出的一种反资本主义的结构改革战略，即反对劳工运动的传统领导形式，提倡以“新工人阶级”为变革的主要"
+  },
+  {
+   "cn": "沟通策略",
+   "en": "communication strategy",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.4.6",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_青少年健康促进策略",
+   "subjectName": "青少年健康促进策略",
+   "publishYear": "2025",
+   "definition": "根据国家健康促进政策和战略，通过宣传、教育和促进健康的生活方式和负责任的行为，改变导致青少年处于持续不良健康状态的潜在行为模式和态度的行动方案。"
+  },
+  {
+   "cn": "学习策略",
+   "en": "study strategy",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.4.3.3",
+   "subjectFullName": "",
+   "subjectName": "学校心理健康促进",
+   "publishYear": "2025",
+   "definition": "学生在学习过程中对信息的操纵和加工的能力，也是提高学习效率的关键。"
+  },
+  {
+   "cn": "卫生策略",
+   "en": "health strategy",
+   "source": "社会医学名词",
+   "wordNumber": "10.2.1",
+   "subjectFullName": "政策与策略",
+   "subjectName": "策略",
+   "publishYear": "2025",
+   "definition": "为实现卫生目标而制定的中长期行动框架，涵盖体系建设、疾病防控与健康促进，强调协调与可持续。"
+  },
+  {
+   "cn": "5T策略",
+   "en": "5 T strategy",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.4.5.4",
+   "subjectFullName": "",
+   "subjectName": "学校心理健康促进",
+   "publishYear": "2025",
+   "definition": "采用谈话(talking)，培训(training)，教学(teaching)，工具(tools)和照顾(taking care)的方式，以促进和支持学生心理健康的策略。"
+  },
+  {
+   "cn": "三步走战略",
+   "en": "Threestep Development Strategy",
+   "source": "马克思主义",
+   "wordNumber": "03.0583",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1987年10月党的十三大提出的中国经济建设分的总体战略部署：第一步从1981年到1990年，国民生产总值翻一番，解决人民的温饱问题；第二步从1991年到20世纪末，国民生产总值再翻一番，人民生活达到"
+  },
+  {
+   "cn": "可持续发展战略",
+   "en": "sustainable development strategy",
+   "source": "马克思主义",
+   "wordNumber": "03.0632",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "可持续发展是20世纪80年代提出的一种新发展观，指实现可持续发展的行动计划和纲领，是国家在多个领域实现可持续发展的总称。其核心思想是：经济发展、保护资源和保护生态环境协调一致。它包含两个基本要素即“需"
+  },
+  {
+   "cn": "四个全面",
+   "en": "FourPronged Comprehensive Strategy",
+   "source": "马克思主义",
+   "wordNumber": "03.0793",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "“四个全面”战略布局是以习近平同志为核心的党中央治国理政战略思想的重要内容。其主要内容包括：全面建成小康社会、全面深化改革、全面依法治国、全面从严治党。“四个全面”战略布局集中体现了时代和实践发展对党"
+  },
+  {
+   "cn": "战略和策略",
+   "en": "strategy and tactic",
+   "source": "马克思主义",
+   "wordNumber": "04.0082",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "战略是对战争全局的筹划和指导，泛指对全局性、高层次的重大问题的筹划和指导。策略指在政治斗争中，为实现一定的战略任务，根据形势的发展而制定的行动准则和斗争方式。泛指善于灵活运用适合当时情况的斗争方式和方"
+  },
+  {
+   "cn": "走出去战略",
+   "en": "going global strategy",
+   "source": "马克思主义",
+   "wordNumber": "04.0186",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国政府大力支持的海外投资战略，指中国企业充分利用国内和国外“两个市场、两种资源”，通过对外直接投资、对外工程承包、对外劳务合作等形式积极参与国际竞争与合作，实现我国经济可持续发展的现代化强国战略。"
+  },
+  {
+   "cn": "食品安全战略",
+   "en": "food safety strategy",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.1",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品安全战略",
+   "subjectName": "食品安全战略",
+   "publishYear": "2025",
+   "definition": "针对特定时期主要食品安全问题采取行动的一致性框架。"
+  },
+  {
+   "cn": "全球卫生策略",
+   "en": "global health strategy",
+   "source": "社会医学名词",
+   "wordNumber": "10.2.1.4",
+   "subjectFullName": "政策与策略",
+   "subjectName": "策略",
+   "publishYear": "2025",
+   "definition": "国际社会为促进全球健康公平与合作而制定的战略框架，涵盖疾病防控、体系建设与可持续发展。"
+  },
+  {
+   "cn": "健康治理策略",
+   "en": "health governance strategy",
+   "source": "社会医学名词",
+   "wordNumber": "6.2.1",
+   "subjectFullName": "健康治理",
+   "subjectName": "健康治理体系",
+   "publishYear": "2025",
+   "definition": "多元健康治理主体为实现全民健康目标，共同制定和实施的一整套方向性、系统性、协同性规划方案和行动路径。"
+  },
+  {
+   "cn": "氧化还原电位",
+   "en": "oxidation reduction potential",
+   "source": "消毒学",
+   "wordNumber": "3.1.2.10.5.5",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "在电解过程中，氧化物质和还原物质同处于离子状态时，在电极和溶液之间产生电位差时的电极电位。"
+  },
+  {
+   "cn": "伤亡减员率",
+   "en": "casualty reduction rate",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.1.7",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "因战伤和阵亡减员人数与平均参战人数之比，反映战伤和阵亡减员的程度。"
+  },
+  {
+   "cn": "还原型漂白剂",
+   "en": "reductive bleaching agent",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.1.8.1",
+   "subjectFullName": "食品卫生学_食品添加剂_食品添加剂",
+   "subjectName": "食品添加剂",
+   "publishYear": "2025",
+   "definition": "利用还原性化学发应破坏或抑制食品的发色基团，使食品褪色或免于褐变的物质。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

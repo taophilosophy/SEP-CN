@@ -1,0 +1,692 @@
+{
+ "key": "plural voting",
+ "term": "plural voting",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T04:13:33+00:00",
+ "status": "ok",
+ "note": "variant=plural voting; 审定公布名词库=2146; 海峡两岸名词对照库=715; 其他来源数据库=105; 预公布名词数据库=89; jwt-direct（JWT 直连，raw 略；已滤维基 12 条）",
+ "hits": [
+  {
+   "cn": "多样性",
+   "en": "pluralism",
+   "source": "物理学名词",
+   "wordNumber": "01.0167",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "多元主义",
+   "en": "pluralism",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0587",
+   "subjectFullName": "管理科学技术_公共管理_非政府组织管理",
+   "subjectName": "非政府组织管理",
+   "publishYear": "2016",
+   "definition": "一种社会对抗国家的政治模式，强调社会先于或外在于国家，认为社会是一个区别于国家建制的、自主的活动领域，是一种与国家对等的力量。"
+  },
+  {
+   "cn": "多元论",
+   "en": "pluralism",
+   "source": "地理学名词",
+   "wordNumber": "17.054",
+   "subjectFullName": "地理学_人文地理学",
+   "subjectName": "人文地理学",
+   "publishYear": "2006",
+   "definition": "有时表示一个社会中的文化多样性，有时表示现代社会中权力得到扩散和均衡的组织多元化。"
+  },
+  {
+   "cn": "多元社会",
+   "en": "plural society",
+   "source": "地理学名词",
+   "wordNumber": "24.025",
+   "subjectFullName": "地理学_社会与文化地理学",
+   "subjectName": "社会与文化地理学",
+   "publishYear": "2006",
+   "definition": "共存在同一政治单元中但宗教、文化、语言、思想方式却并不同的人类团体。"
+  },
+  {
+   "cn": "逻辑多元主义",
+   "en": "logical pluralism",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.280",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_数学哲学",
+   "subjectName": "数学哲学",
+   "publishYear": "2024",
+   "definition": "关于有多少个正确的逻辑的一种哲学立场。认为正确的逻辑不止一个。相对的立场是逻辑一元主义。"
+  },
+  {
+   "cn": "传媒多元化",
+   "en": "media pluralism",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.143",
+   "subjectFullName": "新闻学与传播学_政治传播_媒体新媒体与政治传播",
+   "subjectName": "媒体新媒体与政治传播",
+   "publishYear": "2022",
+   "definition": "在政治学中，“多元化”一词强调权力的竞争、分散、参与与相互制衡。媒介多元化主张发挥民主、公共的特色以达成多元认同主体间的相互尊重，抗拒媒体单一化与集中化，为民众提供更多选择，反映社会差异，落实言论自由"
+  },
+  {
+   "cn": "投票悖论",
+   "en": "voting paradox",
+   "source": "经济学名词",
+   "wordNumber": "05.078",
+   "subjectFullName": "经济学_制度经济学",
+   "subjectName": "制度经济学",
+   "publishYear": "2020",
+   "definition": "在通过多数原则实现个人选择到集体选择的转换过程中所遇到的障碍或非传递性。18世纪由法国思想家孔多塞（Condorcet）提出。假设甲、乙、丙三人，面对a、b、c三个备选方案。由于甲、乙都认为b好于c，"
+  },
+  {
+   "cn": "多数投票制",
+   "en": "majority voting",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0417",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "一种定义函数的方法，按取最大多数意见为函数值的方法进行，若有多个候选元具有相同的最大多数得票，则可在这些候选元中随机选取一个。"
+  },
+  {
+   "cn": "投票交易",
+   "en": "vote trading",
+   "source": "经济学名词",
+   "wordNumber": "05.077",
+   "subjectFullName": "经济学_制度经济学",
+   "subjectName": "制度经济学",
+   "publishYear": "2020",
+   "definition": "投票者在同时就两个或两个以上的问题提案进行投票时，如果投票者对这些问题具有不同的偏好强度，他们会愿意就那些与其关系重大的问题互投赞成票。"
+  },
+  {
+   "cn": "表决数据",
+   "en": "voted data",
+   "source": "石油名词",
+   "wordNumber": "08.0180",
+   "subjectFullName": "石油_海洋石油技术_海洋石油勘探",
+   "subjectName": "海洋石油勘探",
+   "publishYear": "1994",
+   "definition": ""
+  },
+  {
+   "cn": "电话投票",
+   "en": "vote over telephony",
+   "source": "通信科学技术名词",
+   "wordNumber": "13.079",
+   "subjectFullName": "通信科学技术_服务与应用",
+   "subjectName": "服务与应用",
+   "publishYear": "2007",
+   "definition": "提供特定电话号码，供大众打电话投票，以进行大规模意见调查的业务。"
+  },
+  {
+   "cn": "一元一票逻辑",
+   "en": "one dollar/one vote",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "18.063",
+   "subjectFullName": "新闻学与传播学_传播政治经济研究_重要概念",
+   "subjectName": "重要概念",
+   "publishYear": "2022",
+   "definition": "消费者通过市场机制获取媒介内容的消费者主权(consumer sovereignty)的实质逻辑。消费者主权强调，消费者通过消费表达其消费意愿和消费偏好。但实际上，受众获得媒体内容凭借的是其消费能力，"
+  },
+  {
+   "cn": "预测平均热感觉",
+   "en": "predictive mean vote,PMV",
+   "source": "建筑学名词",
+   "wordNumber": "10.0489",
+   "subjectFullName": "建筑学_建筑物理_建筑气候学",
+   "subjectName": "建筑气候学",
+   "publishYear": "2014",
+   "definition": "表征人体热反应(冷热感)的评价指标，代表了同一环境中大多数人的冷热感觉的平均。"
+  },
+  {
+   "cn": "表决系统",
+   "en": "k-out-of-n system,voting system",
+   "source": "电子学名词",
+   "wordNumber": "18.097",
+   "subjectFullName": "电子学_可靠性和质量控制",
+   "subjectName": "可靠性和质量控制",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "嗓音起始时间",
+   "en": "voice onset time,VOT",
+   "source": "语言学名词",
+   "wordNumber": "03.216",
+   "subjectFullName": "语言学_语音学_声学语音学",
+   "subjectName": "声学语音学",
+   "publishYear": "2011",
+   "definition": "从塞音或塞擦音的除阻起始点到声带振动起始点之间所经历的时间。其值可正可负。"
+  },
+  {
+   "cn": "神经编码",
+   "en": "neural coding",
+   "source": "生物物理学名词",
+   "wordNumber": "07.054",
+   "subjectFullName": "生物物理学_生物控制论_计算神经科学",
+   "subjectName": "计算神经科学",
+   "publishYear": "2018",
+   "definition": "神经元或神经元集群把外界信号中所包含的信息通过其自身的活动模式来表征，以及由运动神经元或神经元集群的活动模式表征主体所要做的动作。"
+  },
+  {
+   "cn": "胸膜间皮瘤",
+   "en": "mesothelioma of pleura,pleural mesothelioma",
+   "source": "呼吸病学名词",
+   "wordNumber": "08.328",
+   "subjectFullName": "呼吸病学_呼吸系统疾病_胸膜疾病",
+   "subjectName": "胸膜疾病",
+   "publishYear": "2018",
+   "definition": "一种比较少见的胸膜原发性肿瘤。按生长方式分为局限型和弥漫型。前者来源于胸膜下结缔组织，多为良性或低度恶性；后者原发于胸膜间皮细胞，均为高度恶性。"
+  },
+  {
+   "cn": "胸腔降温法",
+   "en": "pleural hypothermia",
+   "source": "麻醉学名词",
+   "wordNumber": "03.669",
+   "subjectFullName": "麻醉学_麻醉与围手术期管理_低温技术",
+   "subjectName": "低温技术",
+   "publishYear": "2024",
+   "definition": "将0～4℃冰盐水反复灌入、流出开胸患者胸腔内，通过心肺的血液温度交换来降温的方法。"
+  },
+  {
+   "cn": "胸腔积液细胞学检查",
+   "en": "pleural cytology",
+   "source": "妇科肿瘤学名词",
+   "wordNumber": "5.441",
+   "subjectFullName": "妇科肿瘤学_妇科肿瘤诊断学_妇科肿瘤标本检查及诊断",
+   "subjectName": "妇科肿瘤标本检查及诊断",
+   "publishYear": "2022",
+   "definition": "通过穿刺将抽出的胸腔积液立即制成涂片并进行细胞学检查，用于明确原因不明胸腔积液的病因和疾病诊断的方法。"
+  },
+  {
+   "cn": "肋部",
+   "en": "pleural area",
+   "source": "动物学名词",
+   "wordNumber": "5.1586",
+   "subjectFullName": "动物学_无脊椎动物学_软体动物门",
+   "subjectName": "软体动物门",
+   "publishYear": "2021",
+   "definition": "多板类软体动物的每一块壳板按外形可分为3部分，壳板前侧方的部分。"
+  },
+  {
+   "cn": "多元论",
+   "en": "pluralism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "多元论",
+   "en": "pluralism",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "多元社会",
+   "en": "plural society",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "表决系统",
+   "en": "k-out-of-n system\",\"voting system",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "胸膜顶",
+   "en": "pleural cupula\",\"cupula of pleura",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "胸膜腔",
+   "en": "pleural cavity",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "胸膜隐窝",
+   "en": "pleural recess",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "侧神经节",
+   "en": "pleural ganglion",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "胸膜腔",
+   "en": "pleural cavity",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "胸膜",
+   "en": "pleura",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "雨期",
+   "en": "pluvial",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "雨期",
+   "en": "pluvial",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "胸膜",
+   "en": "pleura",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "壁胸膜",
+   "en": "parietal pleura\",\"pleura parietalis",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "肺胸膜",
+   "en": "pulmonary pleura\",\"pleura pulmonalis",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "神经管",
+   "en": "neural tube\",\"neural canal",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "神经嵴",
+   "en": "neural crest\",\"neural ridge",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "脏胸膜",
+   "en": "visceral pleura\",\"pleura visceralis",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "神经网络",
+   "en": "neural net\",\"neural network",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "神经褶",
+   "en": "neural fold\",\"neural ridge",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "法律多元主义",
+   "en": "legal pluralism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "电子选举",
+   "en": "e-voting",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际标准文件投票和评议",
+   "en": "voting and commenting on international standardization documents",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "移动",
+   "en": "moving",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "神经计算",
+   "en": "neural computing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "神经微电路",
+   "en": "neural microcircuit",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "拳击运动",
+   "en": "pugilism\",\"boxing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "使用兴奋剂",
+   "en": "dope\",\"doping",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "文化多元主义",
+   "en": "cultural pluralism",
+   "source": "社会学名词",
+   "wordNumber": "2.2.1.11",
+   "subjectFullName": "社会学名词_社会学一般概念_文化与文明_文化概念",
+   "subjectName": "文化概念",
+   "publishYear": "2025",
+   "definition": "提倡不同文化之间的并存与相互尊重，反对文化同化、文化侵略、文化渗透等可能导致某种文化消失的任何文化过程。"
+  },
+  {
+   "cn": "性的多元论",
+   "en": "sexual pluralism",
+   "source": "社会学名词",
+   "wordNumber": "3.3.6.1",
+   "subjectFullName": "社会学名词_分支社会学_性社会学_性的多元论",
+   "subjectName": "性的多元论",
+   "publishYear": "2025",
+   "definition": "主张人类性行为有多种方式的观点。提倡社会容许多种性行为的方式同时存在，占主流地位的性规范不应该强行把自己的标准加在不适合这种行为的人身上，应该容许多元的生活方式。"
+  },
+  {
+   "cn": "法律多元主义",
+   "en": "legal pluralism",
+   "source": "社会学名词",
+   "wordNumber": "3.7.7.1",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律多元主义",
+   "subjectName": "法律多元主义",
+   "publishYear": "2025",
+   "definition": "一国之内或不同国家间多种法律制度、法律文化的共存。日本学者千叶正士提出的概念。为了分析多元法律，千叶正士提出法律的三重二分法，即法律规则与法律原理、官方法与非官方法、固有法与移植法。"
+  },
+  {
+   "cn": "宗教多元论",
+   "en": "religious pluralism",
+   "source": "社会学名词",
+   "wordNumber": "3.9.1.21",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教信仰现象",
+   "subjectName": "宗教信仰现象",
+   "publishYear": "2025",
+   "definition": "认为不同信仰体系可以和谐并存、共同发挥其作用的理论。强调不同宗教有相通的方面，承认多样性，提倡宗教宽容。"
+  },
+  {
+   "cn": "福利多元主义",
+   "en": "welfare Pluralism",
+   "source": "社会学名词",
+   "wordNumber": "4.3.4.4",
+   "subjectFullName": "社会学名词_跨学科社会学_社会政策_社会政策思潮及理论",
+   "subjectName": "社会政策思潮及理论",
+   "publishYear": "2025",
+   "definition": "社会福利投资主体由公共、社会、私有、志愿以及家庭等部门共同参与提供，满足社会成员在医疗、教育、住房、社会服务等各方面的社会福利需求，即赞成福利的混合经济政策。"
+  },
+  {
+   "cn": "道德多元化",
+   "en": "moral pluralism",
+   "source": "医学伦理学名词",
+   "wordNumber": "3.033",
+   "subjectFullName": "医学伦理学_医学伦理原则",
+   "subjectName": "医学伦理原则",
+   "publishYear": "2025",
+   "definition": "人类社会交往中呈现出的道德理论、道德原则、道德规范、道德选择的多样性。"
+  },
+  {
+   "cn": "医学多样性",
+   "en": "medical pluralism",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0247",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "对一个社会或文化中多种医学体系并存现象的描述。在采集渔猎等小型部落社会，对疾病的病因解释及治疗常常是单一的；而在大规模的农业社会或工业化国家，医学体系则多呈现多元并存的现象。"
+  },
+  {
+   "cn": "法律多元论",
+   "en": "legal pluralism",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0128",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "与法律一元论相对应的概念，即两种或者多种法律规范，法律体系或法律秩序共存于同一社会领域中的现象。"
+  },
+  {
+   "cn": "全委会票决制",
+   "en": "committee voting system",
+   "source": "马克思主义",
+   "wordNumber": "03.0749",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "地方党委全委会通过无记名投票表决干部任职（推荐或提名）的办法。"
+  },
+  {
+   "cn": "胸膜摩擦音",
+   "en": "pleural friction rub",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.3.5.7",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_体征",
+   "subjectName": "体征",
+   "publishYear": "2025",
+   "definition": "当胸膜面由于炎症而变得粗糙时，随着呼吸便可出现脏胸膜和壁胸膜间的摩擦声。"
+  },
+  {
+   "cn": "胸膜摩擦感",
+   "en": "pleural friction feeling",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.3.5.8",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_体征",
+   "subjectName": "体征",
+   "publishYear": "2025",
+   "definition": "胸膜炎症时，渗出的纤维蛋白于脏、壁层胸膜沉积，使胸膜表面粗糙，呼吸时两层胸膜相互摩擦，触诊时可有皮革摩擦的感觉。该体征在患侧的腋中线、腋下部最为清晰。"
+  },
+  {
+   "cn": "编码",
+   "en": "coding",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.5",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "赋予一个问题及其答案一个数字作为代码的研究行动。"
+  },
+  {
+   "cn": "乡约",
+   "en": "rural convenant",
+   "source": "社会学名词",
+   "wordNumber": "1.1.1.7",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国古代社会思想",
+   "subjectName": "中国古代社会思想",
+   "publishYear": "2025",
+   "definition": "中国乡村社会一种传统的自治制度，以乡邻相互劝勉、共同遵守约定俗成的社会准则和相互协助救济为目的。最早成型的是北宋学者吕大钧和吕大临兄弟制定的“吕氏乡约”。"
+  },
+  {
+   "cn": "乡绅",
+   "en": "rural gentry",
+   "source": "社会学名词",
+   "wordNumber": "1.1.1.20",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国古代社会思想",
+   "subjectName": "中国古代社会思想",
+   "publishYear": "2025",
+   "definition": "中国传统社会最基层的知识分子。包括科举未仕或落第的士子、退休或在乡间赋闲的官僚、有文化的小地主等。这些人通常居住在小城市或城镇里，在乡村社会中拥有权威，构成了城乡之间的纽带：一方面把政府各种政令传达到"
+  },
+  {
+   "cn": "乡村建设",
+   "en": "rural construction",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.23",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "20世纪30年代由知识分子和政界人士共同参与的中国乡村现代化改造运动。1931年，梁漱溟在山东邹平从事乡治实践时首次使用该词，但此前类似的改造运动已经展开。20世纪20年代，在国民党地方政权和军阀势力"
+  },
+  {
+   "cn": "地方共同社会",
+   "en": "rural community",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.32",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "围绕农业生产所构成的各社会组织及共同的社区生活。杨开道将美国社会学家麦基弗(R.M.Maclver）的社区概念引入农村社会学研究中，提出这个概念，认为中国农村是一种地方共同社会。对这种社会的分析，应从"
+  },
+  {
+   "cn": "农村自治",
+   "en": "rural autonomy",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.33",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "以中国历史上的乡约制度为基础，自下而上地建立起一个属于全体村民、用于全体村民的社会共同体。共同体内秉承德业相劝、过失相规、礼俗相交、患难相恤的原则。 这是杨开道提出的农村建设运动纲领中的核心思想。"
+  },
+  {
+   "cn": "农村社区",
+   "en": "rural community",
+   "source": "社会学名词",
+   "wordNumber": "4.4.8.23",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的方法模式",
+   "subjectName": "社会工作的方法模式",
+   "publishYear": "2025",
+   "definition": "在一定的农村地域范围内生活的人们所组成的社会生活共同体。其特点是社区的组织相对简单，是人类社会最早出现的社区形式；地域范围广阔，人口密度低，劳动分工简单，血缘、地缘关系浓厚，人际关系密切，社区文化具有"
+  },
+  {
+   "cn": "乡村",
+   "en": "rural areas",
+   "source": "马克思主义",
+   "wordNumber": "03.0042",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“城市”相对称。以农业为主要生活来源的人口构成的、较为分散的人类聚居区。其特点是人口分散，聚居规模较小，以农业生产为主要经济基础，社会组织结构相对简单。"
+  },
+  {
+   "cn": "农村公社",
+   "en": "rural commune",
+   "source": "马克思主义",
+   "wordNumber": "03.0126",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "原始社会解体过程中形成的、以地域性和生产资料所有制的二重性为特征的社会组织。其特点是：公社有共同的地域、共同的经济和共同的宗教祭祀活动；公社中各家庭聚族而居，公社内部同时存在私有制和公社所有制；公社实"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

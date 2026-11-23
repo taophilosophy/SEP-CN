@@ -1,0 +1,422 @@
+{
+ "key": "calculus ratiocinator",
+ "term": "calculus ratiocinator",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T04:12:14+00:00",
+ "status": "ok",
+ "note": "variant=calculus ratiocinator; 审定公布名词库=196; 海峡两岸名词对照库=33; 其他来源数据库=4; 预公布名词数据库=1; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "微积分[学]",
+   "en": "calculus",
+   "source": "数学名词",
+   "wordNumber": "05.0070",
+   "subjectFullName": "数学_分析学_分析学基础·实分析",
+   "subjectName": "分析学基础?实分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "π演算",
+   "en": "π-calculus",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0952",
+   "subjectFullName": "计算机科学技术_理论计算机科学_程序理论",
+   "subjectName": "程序理论",
+   "publishYear": "2018",
+   "definition": "由罗宾·米尔纳（Robin Milner）等提出的可描述通信拓扑结构动态变化的进程演算。"
+  },
+  {
+   "cn": "λ演算",
+   "en": "λ-calculus",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0130",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "一种定义可计算函数的形式演算系统。"
+  },
+  {
+   "cn": "λ演算",
+   "en": "λ-calculus,lambda-calculus",
+   "source": "数学名词",
+   "wordNumber": "02.0231",
+   "subjectFullName": "数学_数理逻辑·数学基础_递归论",
+   "subjectName": "递归论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "谓词演算",
+   "en": "predicate calculus,functional calculus",
+   "source": "数学名词",
+   "wordNumber": "02.0049",
+   "subjectFullName": "数学_数理逻辑·数学基础_模型论",
+   "subjectName": "模型论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "包皮结石",
+   "en": "preputial calculus",
+   "source": "男科及性医学名词",
+   "wordNumber": "08.007",
+   "subjectFullName": "男科及性医学_阴茎疾病",
+   "subjectName": "阴茎疾病",
+   "publishYear": "2023",
+   "definition": "因包皮口狭小、尿液潴留，包皮-阴茎头间隙内尿盐晶体沉积而成的结石。"
+  },
+  {
+   "cn": "结石",
+   "en": "calculus;concretion",
+   "source": "兽医学名词",
+   "wordNumber": "10.148",
+   "subjectFullName": "兽医学_兽医病理及病理生理学",
+   "subjectName": "兽医病理及病理生理学",
+   "publishYear": "2023",
+   "definition": "在腔状器官或管道内，由无机盐（或与有机物一起）形成的固体团块。如在胆管或胆囊中形成的胆石（cholelith，gallstone），在泌尿道形成的尿石（urolith）等。"
+  },
+  {
+   "cn": "结石性血尿",
+   "en": "calculus erythrocyturia",
+   "source": "兽医学名词",
+   "wordNumber": "13.377",
+   "subjectFullName": "兽医学_兽医临床诊断学",
+   "subjectName": "兽医临床诊断学",
+   "publishYear": "2023",
+   "definition": "由肾或尿路结石引起的血尿。见于肾结石、输尿管结石、膀胱结石、尿道结石等。"
+  },
+  {
+   "cn": "肠结石",
+   "en": "intestinal calculus",
+   "source": "兽医学名词",
+   "wordNumber": "15.091",
+   "subjectFullName": "兽医学_兽医内科学",
+   "subjectName": "兽医内科学",
+   "publishYear": "2023",
+   "definition": "肠内形成结石，阻塞肠腔而引发的一种腹 痛病。"
+  },
+  {
+   "cn": "齿石",
+   "en": "dental calculus",
+   "source": "兽医学名词",
+   "wordNumber": "18.194",
+   "subjectFullName": "兽医学_兽医外科及外科手术学",
+   "subjectName": "兽医外科及外科手术学",
+   "publishYear": "2023",
+   "definition": "黏附于牙齿表面的，由牙菌斑矿化而成的 团块。"
+  },
+  {
+   "cn": "胃结石",
+   "en": "gastric calculus",
+   "source": "消化病学名词",
+   "wordNumber": "3.346",
+   "subjectFullName": "消化病_胃十二指肠_胃疾病",
+   "subjectName": "胃疾病",
+   "publishYear": "2022",
+   "definition": "摄入某些植物成分或吞入毛发或某些矿物质等在胃内凝结而形成的异物。多数无明显临床症状，结石体积过大时可形成胃肠道梗阻。"
+  },
+  {
+   "cn": "阑尾结石",
+   "en": "appendiceal calculus",
+   "source": "消化病学名词",
+   "wordNumber": "5.055",
+   "subjectFullName": "消化病_阑尾_阑尾疾病",
+   "subjectName": "阑尾疾病",
+   "publishYear": "2022",
+   "definition": "发生于阑尾腔的矿物质结晶或石化异物。与阑尾炎的发生具有相关性。"
+  },
+  {
+   "cn": "结石性胆囊炎",
+   "en": "calculus cholecystitis",
+   "source": "消化病学名词",
+   "wordNumber": "13.115",
+   "subjectFullName": "消化病_胆囊与胆道_胆囊与胆道疾病 ",
+   "subjectName": "胆囊与胆道疾病 ",
+   "publishYear": "2022",
+   "definition": "胆囊内或胆囊颈发生结石所致的胆囊炎症。临床表现取决于结石的部位、大小，是否引起感染、梗阻，以及梗阻的部位和程度。"
+  },
+  {
+   "cn": "食管结石",
+   "en": "esophageal calculus",
+   "source": "消化内镜学名词",
+   "wordNumber": "6.025",
+   "subjectFullName": "消化内镜学_消化内镜表现",
+   "subjectName": "消化内镜表现",
+   "publishYear": "2021",
+   "definition": "由于食管下端括约肌张力增高或食管管腔狭窄导致食管内容物排空障碍、长期潴留，难以分解的食物纤维及蛋白质等成分相互混合形成的块状结构。"
+  },
+  {
+   "cn": "肾结石",
+   "en": "renal calculus",
+   "source": "核医学名词",
+   "wordNumber": "04.1707",
+   "subjectFullName": "核医学_临床核医学_泌尿生殖系统核医学_泌尿生殖系统解剖生理基础",
+   "subjectName": "泌尿生殖系统解剖生理基础",
+   "publishYear": "2018",
+   "definition": "发生于肾盏、肾盂及肾盂与输尿管连接部的石化异物。常引起上尿路梗阻、感染等病症，脱落至输尿管时可诱发痉挛和剧烈疼痛。"
+  },
+  {
+   "cn": "事件演算",
+   "en": "event calculus",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0054",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "科瓦尔斯基（Kowalski）和瑟高特（Sergot）于1986年提出的一种表示动作及其效果的逻辑语言,与情景演算不同的是，其语句用函数来表达，而不是用谓词。"
+  },
+  {
+   "cn": "情景演算",
+   "en": "situation calculus",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0056",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "麦卡锡（McCarthy）于1963年提出的一种对动作与变化进行表示和推理的谓词逻辑语言。常用于行为推理、规划、诊断等知识表示与推理研究领域。"
+  },
+  {
+   "cn": "元组关系演算",
+   "en": "tuple calculus",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0020",
+   "subjectFullName": "计算机科学技术_数据库_数据模型",
+   "subjectName": "数据模型",
+   "publishYear": "2018",
+   "definition": "以关系的元组作为谓词变元的关系演算。"
+  },
+  {
+   "cn": "域关系演算",
+   "en": "domain calculus",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0019",
+   "subjectFullName": "计算机科学技术_数据库_数据模型",
+   "subjectName": "数据模型",
+   "publishYear": "2018",
+   "definition": "以关系的属性（域）作为谓词变元的关系演算。"
+  },
+  {
+   "cn": "叠加演算",
+   "en": "superposition calculus",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0129",
+   "subjectFullName": "计算机科学技术_人工智能_自动推理",
+   "subjectName": "自动推理",
+   "publishYear": "2018",
+   "definition": "对含等词的一阶逻辑进行定理证明的一种方法，是归结方法和基于序的等词处理方法的结合。"
+  },
+  {
+   "cn": "微积分",
+   "en": "calculus",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "尿石",
+   "en": "urinary calculus",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "变分微积分",
+   "en": "variational calculus",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "符号演算",
+   "en": "symbolic calculus",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "关系演算",
+   "en": "relational calculus",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "逻辑演算",
+   "en": "logic calculus",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "命题演算",
+   "en": "propositional calculus",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "情景演算",
+   "en": "situation calculus",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "谓词演算",
+   "en": "predicate calculus",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "形式演算",
+   "en": "formal calculus",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "域[关系]演算",
+   "en": "domain calculus",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "元组[关系]演算",
+   "en": "tuple calculus",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "变分学",
+   "en": "calculus of variations",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "杯状孢囊基",
+   "en": "calyculus",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "小槽",
+   "en": "sulculus",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "抱器腹",
+   "en": "sacculus",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "舌状体",
+   "en": "colulus",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "弓脉",
+   "en": "arculus",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "愈伤组织",
+   "en": "callus",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "愈伤组织",
+   "en": "callus",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "尿酸结石",
+   "en": "urate calculi",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.9.1.5",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_晶体性关节病",
+   "subjectName": "晶体性关节病",
+   "publishYear": "2025",
+   "definition": "尿液中尿酸浓度增加呈过饱和状态，在泌尿系统沉积并形成的结石。10%—25%的高尿酸血症和痛风患者可发生尿酸性泌尿系结石，且可能出现于痛风性关节炎发生之前。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

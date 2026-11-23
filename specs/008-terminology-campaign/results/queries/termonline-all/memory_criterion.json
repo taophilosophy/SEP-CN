@@ -1,0 +1,672 @@
+{
+ "key": "memory criterion",
+ "term": "memory criterion",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T04:09:33+00:00",
+ "status": "ok",
+ "note": "variant=memory criterion; 审定公布名词库=730; 海峡两岸名词对照库=312; 其他来源数据库=57; 预公布名词数据库=34; jwt-direct（JWT 直连，raw 略；已滤维基 14 条）",
+ "hits": [
+  {
+   "cn": "判据",
+   "en": "criterion",
+   "source": "物理学名词",
+   "wordNumber": "01.0153",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "判据",
+   "en": "criterion",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "01.0047",
+   "subjectFullName": "化工（三）_通类",
+   "subjectName": "通类",
+   "publishYear": "2019",
+   "definition": "判断过程、装备以及产品性能的基本依据。"
+  },
+  {
+   "cn": "效标",
+   "en": "criterion",
+   "source": "心理学名词",
+   "wordNumber": "03.236",
+   "subjectFullName": "心理学_心理统计与测量",
+   "subjectName": "心理统计与测量",
+   "publishYear": "2014",
+   "definition": "用来显示测验所欲测量的特性的变量。通常用一种测验分数或某种活动来表示。"
+  },
+  {
+   "cn": "判据",
+   "en": "criterion",
+   "source": "化学工程名词",
+   "wordNumber": "01.048",
+   "subjectFullName": "化学工程_化学工程通类",
+   "subjectName": "化学工程通类",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "准则",
+   "en": "criterion",
+   "source": "数学名词",
+   "wordNumber": "01.0031",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "记忆",
+   "en": "memory",
+   "source": "神经外科学名词",
+   "wordNumber": "3.029",
+   "subjectFullName": "医学_神经外科学_神经外科病理生理_脑静脉系统",
+   "subjectName": "脑静脉系统",
+   "publishYear": "2026",
+   "definition": "大脑对经历过的事物的识记、保持、再现或再认，涉及对经验信息的编码、存储和提取的认知过程。是进行思维、想象等高级心理活动的基础。"
+  },
+  {
+   "cn": "记忆",
+   "en": "memory",
+   "source": "行为医学名词",
+   "wordNumber": "4.028",
+   "subjectFullName": "行为医学_行为的心理学基础_认知与行为",
+   "subjectName": "认知与行为",
+   "publishYear": "2022",
+   "definition": "（1）大脑对客观事物的信息进行编码、存储和提取的认知过程。（2）存储信息的结构及其内容。"
+  },
+  {
+   "cn": "记忆",
+   "en": "memory",
+   "source": "生理学名词",
+   "wordNumber": "03.700",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "记忆",
+   "en": "memory",
+   "source": "精神医学名词",
+   "wordNumber": "02.165",
+   "subjectFullName": "精神医学_症状与体征_记忆障碍症状",
+   "subjectName": "记忆障碍症状",
+   "publishYear": "2019",
+   "definition": "大脑对客观事物的信息进行编码、储存和提取的认知过程。也指存储信息的结构及其内容。包括识记、保持、回忆和再认。"
+  },
+  {
+   "cn": "记忆",
+   "en": "memory",
+   "source": "计划生育名词",
+   "wordNumber": "04.020",
+   "subjectFullName": "计划生育_生殖健康心理卫生",
+   "subjectName": "生殖健康心理卫生",
+   "publishYear": "2019",
+   "definition": "大脑对过去经历的事物的反映。包括过去感知过的形象、思考过的问题、体验过的情绪和练习过的动作等。记忆过程包括识记、保持、回忆和再认等。"
+  },
+  {
+   "cn": "记忆",
+   "en": "memory",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "04.060",
+   "subjectFullName": "阿尔茨海默病_精神与心理认知学",
+   "subjectName": "精神与心理认知学",
+   "publishYear": "2019",
+   "definition": "大脑对客观事物的信息进行编码、储存和提取的认知过程。"
+  },
+  {
+   "cn": "记忆",
+   "en": "memory",
+   "source": "生物物理学名词",
+   "wordNumber": "04.247",
+   "subjectFullName": "生物物理学_神经生物物理学_学习与记忆",
+   "subjectName": "学习与记忆",
+   "publishYear": "2018",
+   "definition": "大脑对客观事物的信息进行编码、存储和提取的过程。当外界刺激停止作用后，大脑中由生物、物理或化学变化产生的残留在脑中有关记忆的痕迹(某些特殊的蛋白质或是神经元)称“记忆痕迹(engram)”。"
+  },
+  {
+   "cn": "记忆",
+   "en": "memory",
+   "source": "核医学名词",
+   "wordNumber": "04.0770",
+   "subjectFullName": "核医学_临床核医学_神经系统核医学_神经系统解剖生理基础",
+   "subjectName": "神经系统解剖生理基础",
+   "publishYear": "2018",
+   "definition": "个体形成、保存和重现经验的心理过程。包括识记、保持、再认(回忆)三个环节。"
+  },
+  {
+   "cn": "记忆",
+   "en": "memory",
+   "source": "老年医学名词",
+   "wordNumber": "10.005",
+   "subjectFullName": "老年医学_老年心理学",
+   "subjectName": "老年心理学",
+   "publishYear": "2017",
+   "definition": "人脑中积累和保存个体经验的心理过程。包括识记、保持、回忆(再认和再现)三个部分。"
+  },
+  {
+   "cn": "记忆",
+   "en": "memory",
+   "source": "心理学名词",
+   "wordNumber": "02.506",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "大脑对客观事物的信息进行编码、储存和提取的认知过程。也指存储信息的结构及其内容。"
+  },
+  {
+   "cn": "记忆",
+   "en": "memory",
+   "source": "物理医学与康复名词",
+   "wordNumber": "02.188",
+   "subjectFullName": "物理医学与康复_康复功能评定_认知与精神心理功能障碍评定",
+   "subjectName": "认知与精神心理功能障碍评定",
+   "publishYear": "2014",
+   "definition": "一般是指既往经历信息的获得、保留与提取。是一种动态过程，涉及编码、储存和提取三个过程。"
+  },
+  {
+   "cn": "记忆",
+   "en": "memory",
+   "source": "昆虫学名词",
+   "wordNumber": "07.076",
+   "subjectFullName": "昆虫学_昆虫行为与信息化学",
+   "subjectName": "昆虫行为与信息化学",
+   "publishYear": "2000",
+   "definition": "贮存信息的能力。"
+  },
+  {
+   "cn": "切割判据",
+   "en": "tearing criterion",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "03.043",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程模拟",
+   "subjectName": "过程模拟",
+   "publishYear": "2024",
+   "definition": "切割物流的选择要求，如切割物流数量最少等，以保证不仅切断所有简单回路，而且考虑后续迭代计算效率。"
+  },
+  {
+   "cn": "收敛判据",
+   "en": "convergence criterion",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "03.054",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程模拟",
+   "subjectName": "过程模拟",
+   "publishYear": "2024",
+   "definition": "在迭代求解过程中，用以判断迭代求解过程是否实现了收敛而事先规定的判据。"
+  },
+  {
+   "cn": "大中取大准则",
+   "en": "maximal criterion",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "13.105",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_化工技术经济",
+   "subjectName": "化工技术经济",
+   "publishYear": "2024",
+   "definition": "在不确定型决策中采用乐观和冒险原则进行决策。其基本原则是在所有可选择的方案中，从最好的结果着想，再从最好的结果中选取最好的结果作为决策方案。"
+  },
+  {
+   "cn": "判据",
+   "en": "criterion",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "判据",
+   "en": "criterion",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "准则",
+   "en": "criterion",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "准则",
+   "en": "criterion",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "效标",
+   "en": "criterion\",\"validity criterion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "记忆",
+   "en": "memory",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "记忆",
+   "en": "memory",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "奥布霍夫判据",
+   "en": "Obukhov criterion",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "压缩率判据",
+   "en": "compressibility criterion",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "设计准则",
+   "en": "design criterion",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "稳定性判据",
+   "en": "stability criterion",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "循环判据",
+   "en": "circulating criterion",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "误差判据",
+   "en": "error criterion",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "大中取大判据",
+   "en": "maximax criterion",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "特性判据",
+   "en": "performance criterion",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "收敛判据",
+   "en": "convergence criterion",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "平衡判据",
+   "en": "equilibrium criterion",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "效标变量,标准变量",
+   "en": "criterion variable",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "概念效标",
+   "en": "conceptual criterion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "效标污染",
+   "en": "criterion contamination",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "联想记忆",
+   "en": "associative memory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "闪存",
+   "en": "flash memory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "随机存取存储器",
+   "en": "Random Access Memory",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "半导体存储器芯片",
+   "en": "semiconductor memory chip",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "内存计算",
+   "en": "in-memory computing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "存算一体化",
+   "en": "processing-in-memory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "记忆",
+   "en": "memory",
+   "source": "社会学名词",
+   "wordNumber": "4.2.9.38",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化现象",
+   "subjectName": "文化现象",
+   "publishYear": "2025",
+   "definition": "群体建构、共享并传递的有关过去的经验。身体、地点、建筑、物品、节庆、集会、书写等都可以成为生产和再生产场所。"
+  },
+  {
+   "cn": "记忆",
+   "en": "memory",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.2.1.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习",
+   "subjectName": "学习",
+   "publishYear": "2025",
+   "definition": "将获得新的知识、行为习惯或经验贮存（保持和再现）一定时期的心理过程。"
+  },
+  {
+   "cn": "记忆",
+   "en": "memory",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.13",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "大脑对客观事物的信息进行编码、储存和提取的认知过程。也指存储信息的结构及其内容。包括识记、保持、回忆和再认。"
+  },
+  {
+   "cn": "准则效度",
+   "en": "criterion validity",
+   "source": "社会医学名词",
+   "wordNumber": "4.9.2.4",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "量表",
+   "publishYear": "2025",
+   "definition": "用所设计量表与作为标准（即准则）的量表对同一人群进行调查，通过评价量表测量结果与标准量表测量之间的接近程度，来判断量表测量结果与试图要达到的目标之间接近程度的指标。"
+  },
+  {
+   "cn": "准则效度",
+   "en": "criterion validity",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.77",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "用几种不同的测量方式或不同指标对同一变量进行测量时，将其中的一种方式或指标作为准则，并通过其他的方式或指标与之作比较而测量效度的方法。"
+  },
+  {
+   "cn": "集体记忆",
+   "en": "collective memory",
+   "source": "社会学名词",
+   "wordNumber": "3.13.3.13",
+   "subjectFullName": "社会学名词_分支社会学_历史社会学_历史社会学的主要研究领域",
+   "subjectName": "历史社会学的主要研究领域",
+   "publishYear": "2025",
+   "definition": "为群体所共同享有、传承和建构的，具有特定文化认同性和凝聚力的，关于群体过往事件或先人事迹的回忆或追溯。凡是能保留或衍生这一记忆的场所或地方，无论是物质的或非物质的，如纪念馆、文物、图片、甚至身体或口头"
+  },
+  {
+   "cn": "免疫记忆",
+   "en": "immunological memory",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.7.4",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_免疫调节",
+   "subjectName": "免疫调节",
+   "publishYear": "2025",
+   "definition": "免疫细胞在初次接触特异性抗原后,被激活的T细胞、B细胞除可分化为效应细胞外,其中少数还可分化为记忆细胞,并长期在体内存在,从而保存免疫信息，当同一种抗原再次进入体内时,记忆细胞将迅速活化、分化为新的效"
+  },
+  {
+   "cn": "记忆力发展",
+   "en": "memory development",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.4",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "大脑获得、保存和提取知觉经验的能力随年龄增长的发展变化过程。包括识记的敏捷性、保持的持久性、回忆的准确性和及时性。"
+  },
+  {
+   "cn": "感觉记忆",
+   "en": "sensory memory",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.4.1",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "视觉、听觉、触觉信息的输入，以未加工处理的形式在脑中短暂的保留过程。"
+  },
+  {
+   "cn": "闯入性再体验",
+   "en": "intrusive memory",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.3.3.4.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_儿童少年行为问题",
+   "subjectName": "儿童少年行为问题",
+   "publishYear": "2025",
+   "definition": "儿童少年遭受严重创伤或经历严重的创伤性体验后反复、不可控制地回忆创伤经历、反复做与创伤性事件相关的梦，反复发生与此相关的错觉或幻觉重现，表现出严重的“触景生情”式精神痛苦的现象。"
+  },
+  {
+   "cn": "历史记忆",
+   "en": "historical memory",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0207",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "法国社会学家莫里斯·阿布瓦赫（Maurice Halbwachs）在《集体记忆》中提到的概念，意在强调历史带有记忆的性质，后含义被拓宽为“人们对过去的记忆与表述”。"
+  },
+  {
+   "cn": "短时记忆",
+   "en": "short-term memory",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.4.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "大脑对外界信息进行加工、编码、短暂保持（1分钟以内）的记忆过程。"
+  },
+  {
+   "cn": "长时记忆",
+   "en": "long-term memory",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.4.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "大脑对信息长时间、持久的记忆过程。"
+  },
+  {
+   "cn": "记忆力",
+   "en": "ability of memory",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.4.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习负荷评价",
+   "subjectName": "学习负荷评价",
+   "publishYear": "2025",
+   "definition": "获得、保存和提取知觉经验的能力。"
+  },
+  {
+   "cn": "赤池信息量准则",
+   "en": "akaike information criterion, AIC",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.3.43",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "衡量统计模型拟合优良性的一种信息量标准，由日本统计学家赤池弘次(Akaike)创立和发展。"
+  },
+  {
+   "cn": "三个有利于标准",
+   "en": "criterion of the three benefits",
+   "source": "马克思主义",
+   "wordNumber": "03.0543",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "邓小平在1992年南方谈话中，为消除人们在姓“资”姓“社”问题上的疑虑，推进社会主义现代化进程，提出了“三个有利于”标准，即“是否有利于发展社会主义社会的生产力，是否有利于增强社会主义国家的综合国力，"
+  },
+  {
+   "cn": "世界记忆遗产",
+   "en": "memory of the world",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0058",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "由世界记忆工程国际咨询委员会（the International Advisory Committee，IAC）推荐、由联合国教科文组织总干事认可的、符合世界重要性和突出普遍价值标准的档案文献遗产。"
+  },
+  {
+   "cn": "文艺批评的政治标准与艺术标准的统一",
+   "en": "unity of the political criterion and the artistic criterion of literary criticism",
+   "source": "马克思主义",
+   "wordNumber": "03.0459",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东于1942年《在延安文艺座谈会上的讲话》讲话中提出的文艺批评的原则。文艺批评有政治和艺术两个标准,“任何阶级社会中的任何阶级,总是以政治标准放在第一位,以艺术标准放在第二位的”。这一原则强调政治"
+  },
+  {
+   "cn": "辨别香花与毒草的标准",
+   "en": "criterion for flowers or noxious weeds",
+   "source": "马克思主义",
+   "wordNumber": "03.0460",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东在《关于正确处理人民内部矛盾的问题》一文中提出的在我国人民的政治生活中，判断人们的言论和行动的六条是非标准，即：是否有利于团结全国各族人民，是否有利于社会主义改造和建设，是否有利于巩固人民民主专"
+  },
+  {
+   "cn": "真理标准大讨论",
+   "en": "debating over the criterion of truth",
+   "source": "马克思主义",
+   "wordNumber": "03.0614",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1978年由《实践是检验真理的唯一标准》的发表而引发，在中国共产党内展开了一场关于真理标准问题的大讨论，前后历时三年多。这场讨论是“两个凡是”和“实事求是”两种执政思想的讨论，是文化大革命路线和改革开"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
