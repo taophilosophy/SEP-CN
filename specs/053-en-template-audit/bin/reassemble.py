@@ -171,6 +171,31 @@ def _occ_positions(flat, t):
     return [m.start() for m in re.finditer(pat, flat)]
 
 
+def _lead_ctx(flat, i):
+    """锚文左侧**最后两个词**（小写；与账 extract_links 同式）。
+
+    按字符取上下文会被 H0／md 折行位置不同打乱（R 逐行匹配），词边界才是
+    折行不变量。md 引注标记 `[^key]` 在 H0 无形（H0 是同处的可见文），须先
+    剥掉再取词，否则左邻词恒不相同（game-theory 引文链判例）。"""
+    pre = re.sub(r"\[\^[^\]]*\]", "", flat[:i])
+    pre = re.sub(r"\[\d+\]", "", pre)            # 可见脚注号（账侧同剥）
+    pre = re.sub(r"\$[^$]*\$", "", pre)          # md 数学段（H0 侧账已抹）
+    pre = re.sub(r"\s+", " ", pre).strip().lower()
+    # 行首列表／引用记号不算词：C 把 H0 的 `<ol><li>` 转成 md 字面 `5. `，锚文
+    # 紧跟记号时行内左邻只剩 `5.`，与账里跨行的前文词恒不符，短锚文随即 defer
+    # 并连锁饿死全页（plato-laws `H` 前提列表判例：58 条饿死）。剥掉后前缀为空
+    # 即“不可判”，按旧法放行。
+    pre = re.sub(r"^(?:>\s*)+", "", pre)
+    pre = re.sub(r"^(?:\d+|[a-z]{1,3})[.)]|^[-+]", "", pre).strip()
+    parts = pre.split(" ") if pre else []
+    # 只认**含 ASCII 字母**的词：H0 侧账把 `\(…\)` 剥净，md 侧对应位置常是
+    # ADR-0049 降级后的裸希腊字母（`\(\phi\)`→`*φ*`）或标点残片，恒与账尾词
+    # 错位一格（connectives-logic `#ref-34` 判例）。数字/标点词也不是左邻
+    # 语义，滤掉后两侧一致；全被滤空即“不可判”，按旧法放行。
+    parts = [w for w in parts if re.search(r"[A-Za-z]", w)]
+    return " ".join(parts[-2:])
+
+
 def _math_spans(s):
     """行内数学区间 [(起, 止)]（与 _scan_stash_math 同判据、不占有）。"""
     spans = []
@@ -238,7 +263,37 @@ def restore_links(line):
         mspans = _math_spans(line)
         mk = re.match(r"\s*\d+[.)] ", line)
         mk_end = mk.end() if mk else 0
-        for cand in _occ_positions(flat, t):
+        # 候选序：H0 记的**左邻字符**优先（`(<a>20</a>)` 的 `(`；同文另有
+        # 裸 `[20]` 标记时不再抢位，possible-worlds 判例），其余顺次兜底
+        cands = _occ_positions(flat, t)
+        _lead = lk.get("lead") or ""
+        # 消歧只对**短锚文**（≤3 字符，多为数字/编号）生效：这类锚文同文
+        # 多处出现且无法从上下文分辨（possible-worlds `20`、infinity `2`）。
+        # 长锚文本身已足够唯一，强加词比对会因折行/标记差异误伤——全量
+        # 实测：无条件词比对使未消费链接由 1,850 涨到 2,896。
+        _short = len(t) <= 3
+        _lwords = []
+        if _lead:
+            _lwords = _lead.split(" ") if _short else _lead.split(" ")[-1:]
+            _lwords = [w for w in _lwords if re.search(r"[A-Za-z]", w)]
+        if _lwords:
+            _pref = []
+            for c in cands:
+                _ctx = _lead_ctx(flat, c)
+                _cw = _ctx.split(" ") if _ctx else []
+                if not _cw:
+                    _pref.append(c)      # 行首无左邻词：不可判，按旧法放行
+                    continue
+                n = min(len(_cw), len(_lwords))
+                if _cw[-n:] == _lwords[-n:]:
+                    _pref.append(c)
+            if _pref:
+                cands = _pref
+            elif _short:
+                # 短锚文且本行候选左邻词全不符 → 该链接不在本行（留待后续行）
+                break
+            # 长锚文无匹配：按旧游标法（不 defer，避免连锁饿死同页后续链接）
+        for cand in cands:
             if cand < ceiling:
                 continue
             if (is_caption and cand == 0
@@ -346,6 +401,12 @@ def _display_end(s, i):
             continue
         j += 1
     return -1
+
+
+def _strip_sup_wrap(f):
+    """`<sup>[ … ]</sup>` → 内层（md 已自带外层 sup 方括号时用；容空白）。"""
+    m = re.fullmatch(r"<sup>\s*\[(.*)\]\s*</sup>", f, re.S)
+    return m.group(1) if m else f
 
 
 def _blank_dollars(body):
@@ -472,18 +533,31 @@ def _inline_md_to_html(text):
     # （同一键可既有规范脚注又有散文原形，按键记字典会互相覆盖）
     def _note_ref(nm):
         n = nm.group(1)
+        # md 已把外层 sup+方括号写成 `^{[ … ]}`（`^{[[^note-7]]}`，legal-reas-prec
+        # 判例）：此时只发锚自身，否则与外层 `<sup>[ ]</sup>` 叠成双 sup。
+        _pre = nm.string[max(0, nm.start() - 3):nm.start()]
+        _post = nm.string[nm.end():nm.end() + 2]
+        _bare = _pre.endswith("^{[") and _post.startswith("]}")
         forms = _NOTE_FORMS or []
         k = _NOTE_IDX[0]
         if k < len(forms) and forms[k]["n"] == n:
             _NOTE_IDX[0] = k + 1
             f = forms[k]["form"]
             if f:
+                if _bare:
+                    f = _strip_sup_wrap(f)
                 return f
         else:
             # 账/文序不一致：前进一格保后续对齐，本处仍出规范形
             _NOTE_IDX[0] = k + 1 if k < len(forms) else k
-        return ('<sup>[<a href="notes.html#note-%s">%s</a>]</sup>'
-                % (n, n))
+        # 无账/规范形：装配（有账）时按 md 的 `^{[ … ]}` 包裹只发锚，单层
+        # sup 与 H0 等值；B3.1 判官（无账）必须保留**双层 sup**——C 对
+        # `#N`+`name=`+`<strong>` 这类异形不回折为裸 `[^note-N]`，只有外层
+        # sup 才能让 C(R(md)) 复现 `^{[[^note-N]]}`（legal-reas-prec 判例）。
+        anchor = '<a href="notes.html#note-%s">%s</a>' % (n, n)
+        if _bare and _NOTE_FORMS is not None:
+            return anchor
+        return "<sup>[%s]</sup>" % anchor
 
     s = re.sub(r"\[\^note-([^\]\s]+)\]", _note_ref, s)
     # 数学先占位——TeX 内的 _{x}/^{x} 不得被下面的 sub/sup 规则改写

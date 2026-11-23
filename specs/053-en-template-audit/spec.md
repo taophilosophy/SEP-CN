@@ -473,6 +473,38 @@ B3.2 的 sha 全等清单即 OAIS fixity 账的实现形态；与 ADR-0076 已�
 
 **教训**：①嵌套结构的「取域」必须深度配平，且账与渲染必须共用同一实现（两处各写一份＝必然分叉）；②HTML 注释里的标签会污染任何基于标签计数的配平栈——凡扫 HTML 结构，先把注释抹白且保偏移；③「非文字字符」（`&nbsp;`）的空位口径必须两侧同判，否则整表回退；④C 消毒过的原文（`_sanitize_table_html`）还原时必须逐步撤销，顺序取消毒的逆序。
 
+## 10.26 第二十六批：脚注引用形与内部链接消歧（2026-11-23）
+
+**缺陷一（脚注形漏记）**：`extract_note_forms` 只认 `<a href="notes.html#note-…">` 一种写法，四类 H0 异形全漏：
+- 片段不带 `note-` 前缀：`href="notes.html#complex" name="note-complex"` 显示 `1`（binarium）、`#supplement-4` 显示 `4`（chance-randomness）、`#1`+`name="note-1"`（bayes 类）；
+- 属性序反置：`<a name="note-1" href="notes.html#1">`（logical-constants）；
+- 方括号与 `</sup>` 之间有空白：`…</a>]\n </sup>`（bell-theorem）。
+漏记 → R 一律出规范形 → 页面差（12 件）。
+
+**缺陷二（双 sup）**：md 对这类异形写作 `^{[[^note-N]]}`（sup＋方括号已被 C 显式编码）；R 的 `_note_ref` 仍发完整 `<sup>[<a>N</a>]</sup>`，与外层叠成双层 sup。
+
+**缺陷三（锚文数字抢位）**：`links` 账只记 text/href，锚文为数字（`20`）时同文多处出现（裸 `[20]` 标记 vs `(<a>20</a>)`），R 的游标法会把链接挂错位置（possible-worlds）。
+
+**缺陷四（lead 的四种系统性错位与连锁饿死）**：短锚文一旦本行无匹配即 defer，而 defer 的链接**阻塞队头**——一条卡死则该页其后所有链接永不消费（首扫实测：plato-laws 58 条、connectives-logic 37 条、logic-algebraic-propositional 32 条全由单条卡死放大）。错位根因四类：
+- **行首列表记号**：C 把 H0 的 `<ol><li>` 转成 md 字面 `5. `，锚文紧跟记号时行内左邻只剩 `5.`，与账里跨行前文恒不符（plato-laws 编号前提 `H`）；
+- **单希腊降级**：账侧把 `\(\phi\)` 整段抹掉，md 侧对应位置是 ADR-0049 降级后的 `*φ*`，尾词错位一格（connectives-logic `#ref-34`：账 `. (note` 对 md `φ. (note`）；
+- **可见脚注号**：H0 留文 `[19]`，md 侧写作 `[^note-19]`（已被剥），两侧尾词不同（implicature `(1)`）；
+- **注释残片**：H0 夹写 `<!-- … 1958 -->`，账尾词取到 `1958 -->`（findlay）。
+
+**缺陷五（幽灵链接）**：H0 里被 `<!-- -->` 停用的 `<a>`（整行文献项）仍被 `extract_links` 采入账——md 无锚文可消费，入账即永久卡头。正文区内 9 条／4 页（findlay 5、logic-combinatory 2、privacy-health 1、logic-intuitionistic 1）；外围区（TOC/相关条目）另有 253 条本就被剔区排除。
+
+**修法**：
+- note_forms 扫描放宽（任意属性序、任意片段前缀），规范形判据＝「被 `<sup>[` … `]</sup>` 包住（**容空白**）且锚文＝片段去 `note-` 前缀」；非规范形记**完整替代片段**（含或不含外层 sup），R 原样发。
+- R 侧 `_bare`（md 为 `^{[` … `]}` 包裹）时只发锚；**B3.1 判官（无账）仍发双层 sup**——C 对 `#N`+`name=`+`<strong>` 异形不回折为裸 `[^note-N]`，往返只有外层 sup 才能复现 `^{[[^note-N]]}`。
+- `links` 账增 `lead`＝锚文左侧**最后两个词**（空白归一、小写；按字符取上下文会被 H0／md 折行差异打乱，词边界才是折行不变量）；R 按词比对优先选位，本行无匹配即 defer。消歧**只对短锚文（≤3 字符）**生效：长锚文本身足够唯一，强加词比对反因折行/标记差异误伤（无条件比对曾使未消费链接 1,850→2,896）。
+- 两侧同式归一（缺陷四）：账侧 `extract_links` 入口**注释整体抹白**（保偏移，兼治缺陷五）并剥 `\(…\)`／`[…数字…]`；R 侧 `_lead_ctx` 剥 `[^key]`、`$…$`、`[N]`、行首列表与引用记号，且**两侧词表都只认含 ASCII 字母的词**（数字/标点尾词不可判即放行旧游标法）。
+
+**实测**：脚注形 12 件全转池。全量双通道（建池 → judge 独立复扫 → B3.1）：**pool 1,731→1,746（93.2%）／gap 142→127／stale 0**，池占页 **47.21%**，judge 与建池**逐件同值**；`scan_vs_head` delta 只有 gap→pool 15、**失池 0**；B3.1 **1,638 不变**（0 转绿 0 转红）。链接消歧的独立评测（`script/tmp/eval_links2.py`，逐页跑 `restore_links` 不装配）：lead 版未消费 1,815 条，摘掉 lead 的对照 1,812 条——残差仅 implicature 2／publicity 1，而 plato-laws／connectives-logic 等 127 条饿死全部消除。
+
+**判例（chance-randomness，字节等值 ≠ 位置正确）**：摘掉 lead 时该件能 pool，但装配把 `#thm2` 的锚文 `2` 挂到了跨文件链 `supplement B.<a href="#thm2">2</a>.` 上——H0 该处实为 `supplement <a href="algorithmic-randomness.html#B.2">B.2</a>`，错位被**整段 m 补丁**吞掉而字节全等。lead 版此处不再误挂，故该件回落 gap；真缺口是下一批的靶子：**带片段的裸兄弟文件链**（`href="other.html#frag"`，既不以 `../` 也不以 `#` 起头）不入 `links` 账，且 C 在 md 侧把这类链的片段整个丢弃（`chance-randomness.basic-chance.md` 无 `#A.2`），全库正文区 **73 页 514 条**。
+
+**教训**：①「规范形」判据要写成两侧可证的形式（H0 形态 ↔ md 形态 ↔ R 输出）；②账里存「完整替代片段」而非字段组合，R 原样发才有唯一解；③同一判据在 B3.1（无账）与 B3.2（有账）两侧允许输出不同，只要各自闭环；④**游标法加过滤必须防卡头**：defer 语义会由一条放大成整页，任何消歧判据都要能在“不可判”时退化为旧法（放行），且退化路径要与账侧**同式**；⑤字节等值可能由补丁池掩盖错位——判“位置正确”要看锚文落点本身，不能只看 sha。
+
 ## 11. 现状与下一步（开工卡，2026-11-22）
 
 **验收线现状**（现查口径，勿引快照）：
@@ -480,32 +512,35 @@ B3.2 的 sha 全等清单即 OAIS fixity 账的实现形态；与 ADR-0076 已�
 | 判据 | 现状 | 取数命令 |
 | ---- | ---- | ---- |
 | B3.1 往返不动点 | **1,638/1,873（87.5%）**，第二十一批 +14（sup/sub 实体拼写右逆）、第二十五批 +1（pm-notation）；转红 3（W8 键名漂移，定案见下） | `python -B specs/053-en-template-audit/bin/reassemble.py --all --out <json>` |
-| B3.2 页面装配 | **pool 1,731（92.4%）／gap 142／stale 0**，池占页 46.62%（2026-11-23 第二十五批全量重建＋全量 judge 双通道收官） | `python -B specs/053-en-template-audit/bin/page_assemble.py --all --build` |
+| B3.2 页面装配 | **pool 1,746（93.2%）／gap 127／stale 0**，池占页 47.21%（2026-11-23 第二十六批全量重建＋全量 judge 双通道收官） | `python -B specs/053-en-template-audit/bin/page_assemble.py --all --build` |
 | I2/I3 转换保真 | `--gate` 0 issue（1,873 全过） | `python -B tools/check_yuanwen_fidelity.py --gate` |
 | 全库门禁 | check_all 17 项全绿 | `python -B tools/check_all.py` |
 
-**缺口 142 分族**（`script/tmp/b32_families2.py <scan-json>`；分族普查须在每次转池后重跑）：2026-11-23 第二十五批收官普查为 **md_extra 100／h0_extra 13／math 11／text 9／star 4／digit 3／entity 2**。已解族：表题 `caption`（第十四批）、书目区无年份散文、书目区取域与注释（第十六批）、致谢区识别（第十七批）、related 前导竖线与希腊公式形（第十八批）、嵌套引块与 layout 陈年（第十九批）、书目散文 `note-<年>` 键（第二十批）、sup/sub 实体拼写与字形（第二十一批）、跨岛实体差（第二十二批）、行内公式 `\$` 双源（第二十三批）、题后散字与裸名条目（第二十四批）、嵌套表与管道格内 raw 表（第二十五批）。
+**缺口 127 分族**（`script/tmp/b32_families2.py <scan-json>`；分族普查须在每次转池后重跑）：2026-11-23 第二十六批收官普查为 **md_extra 84／h0_extra 13／math 12／text 9／star 4／digit 3／entity 2**。已解族：表题 `caption`（第十四批）、书目区无年份散文、书目区取域与注释（第十六批）、致谢区识别（第十七批）、related 前导竖线与希腊公式形（第十八批）、嵌套引块与 layout 陈年（第十九批）、书目散文 `note-<年>` 键（第二十批）、sup/sub 实体拼写与字形（第二十一批）、跨岛实体差（第二十二批）、行内公式 `\$` 双源（第二十三批）、题后散字与裸名条目（第二十四批）、嵌套表与管道格内 raw 表（第二十五批）、脚注引用形与内部链接消歧（第二十六批）。
 
-**md_extra 100 件再分族（批准项①，按 `plain()` 文字流首差内容形态）**：`script/tmp/fam_md_extra2.py`（文字流首差＋H0 标记上下文）与 `classify_diff_content.py`（差异内容形态）两段可复算：
+**md_extra 84 件再分族（批准项①，按 `plain()` 文字流首差内容形态）**：`script/tmp/fam_md_extra2.py`（文字流首差＋H0 标记上下文）与 `classify_diff_content.py`（差异内容形态）两段可复算，2026-11-23 第二十六批复算计数：math-delim 23／space-ent 6／table-pipe 1／marker 1／其余 53：
 
 | 子族 | 件数 | 判例与机制 |
 | ---- | ---- | ---- |
-| 数学定界/宏形 | 25 | 细分：宏↔裸 Unicode 字形（`\(\varrho\)` 对 `ϱ`）约 11 件（ergodic-hierarchy／qm-decoherence／logic-paraconsistent／time-travel-phys／type-theory-church／games-abstraction／ramsey／recursive-functions／logic-probability／logic-power-games）；`&nbsp;` 填充（显示式/表前导）约 6 件（category-theory／future-contingents／logic-conditionals／possibilism-actualism／reasoning-automated）；弯引号与 `&prime;` 实体形约 4 件（generalized-quantifiers／logic-higher-order／equivME／intuitionistic-logic-development）；定界符形 1 件（discourse-representation-theory `\[\cb{`） |
-| 脚注引用形 | 12 | 自定义键（`[complex]`／`[supplement-4]`）与就地锚链接（`[13](#qu1)`／`[[2](#Fai)]`）未还原；H0 形为 `[N]`／`note N` |
+| 数学定界/宏形 | 23 | 细分：宏↔裸 Unicode 字形（`\(\varrho\)` 对 `ϱ`）约 11 件（ergodic-hierarchy／qm-decoherence／logic-paraconsistent／time-travel-phys／type-theory-church／games-abstraction／ramsey／recursive-functions／logic-probability／logic-power-games）；`&nbsp;` 填充（显示式/表前导）约 6 件（category-theory／future-contingents／logic-conditionals／possibilism-actualism／reasoning-automated）；弯引号与 `&prime;` 实体形约 4 件（generalized-quantifiers／logic-higher-order／equivME／intuitionistic-logic-development）；定界符形 1 件（discourse-representation-theory `\[\cb{`） |
 | 空白实体 | 6 | `&nbsp;`/`&thinsp;` 实体形差（显示式前导等） |
-| 表管/标记 | 2 | anaphora `(1)` 列表标记丢失；表 `\|\|` 分隔 |
-| 其余 | 55 | 窗口内无显著形态特征（多为书目/区结构错位），待逐件取证 |
+| 表管/标记 | 2 | anaphora `(1)` 列表标记丢失；表 `\|\|` 分隔（aristotle-mathematics） |
+| 其余 | 53 | 窗口内无显著形态特征（多为书目/区结构错位），待逐件取证 |
+
+> 脚注引用形子族已于第二十六批清零（12 件全转池）。
 
 - **h0_extra 余件（13）**：余下仍属“H0 事项未入 md／账”。
+- **裸兄弟链（下一批主靶）**：`href="other.html#frag"` 带片段的跨文件链不入 `links` 账，md 侧片段又被整段丢弃（全库正文区 73 页 514 条；chance-randomness 28、anomalous-monism 81、analysis 59、carnap 23）。无片段的那 616 条 md 已保 `slug.target.md` 形、R 按 `_link` 还原，无需入账。
 - **hobbes-science**：题后散字已入账落位正确，剩余首差为**折行宽度**（`wrap_width` 全局单宽模型与该页 H0 混排宽度不合）。
 
 **B3.1 转红 3 件（W8）——定案：接受残留，不修**。取证：engels 实际漂移 22 条定义（`engels-*→marx-*`）、foucault 1 条（`foucault-2018→cours-2018`）、kant-religion 2 条（`kant-religion-*→kant’s-*`）。根因：R 把全部文献定义放在 References 区**最后一个标题之后**的单 `<ul>` 里，C 的 `build_cite_keys` 按 section 邻接继承姓氏，年份起首条目因而继承前一节末条（Marx）。候选修法成本实测：①年份起首不继承、统一 fallback → 改判 **1,580 条／121 件**键名（含把合法的 `lewis/Church` 类换成 slug 键，且影响译注标记），需全量重转；②同小节换 `<ul>` 重置 prev → 19 件（30 处）现有键被改判；③R 按键姓段切 ul → 账与补丁全量重算。收益 3 件（0.16%）且仅键名标签、定义文字与顺序全等（三件 B3.2 均 pool）。故**不修**，登记为已知残留。
 
 **下一批入口**（按收益排序）：
-1. **脚注引用形（12 件）**：自定义键与就地锚的右逆（`note_forms` 账已有机制，扩到 `[complex]`／`[supplement-N]` 与带锚形）。
+1. **带片段的裸兄弟链（73 页 514 条）**：`links` 账放宽 href 过滤收 `X.html#frag`（无片段的不收——md 已保 `slug.target.md`，收了会双发），R 按锚文＋lead 插 `<a href="X.html#frag">`；须先做单页试金石（chance-randomness，28 条）再全量。
 2. **宏 ↔ 裸字形（约 11 件）**：`\(\varrho\)`/`\vartheta`/`\varphi` 与 `ϱ`/`ϑ`/`φ` 的双源，须按 span 或按件记源形（`math_dollars` 的体内指纹式账可复用）。
-3. **折行宽度（wrap_width）**：全局单宽模型对混排宽度的件不成立（hobbes-science 等），须按件记宽度族或按段记宽度。
-4. **`&nbsp;` 填充（约 6 件）**：显示式与表前导的 `&nbsp;` 串，须按 span 记长度（可与 `math_dollars` 同一按位账骨架）。
+3. **`&nbsp;` 填充（约 6 件）**：显示式与表前导的 `&nbsp;` 串，须按 span 记长度（可与 `math_dollars` 同一按位账骨架）。
+4. **折行宽度（wrap_width）**：全局单宽模型对混排宽度的件不成立（hobbes-science 等），须按件记宽度族或按段记宽度。
+5. **h0_extra 余件（13）**：逐件取证“H0 事项未入 md／账”的具体通道。
 
 **流程提醒**：动 C 必全量重转（约 18 分钟）＋B3.1 集合级对照止损；动 R/账只重跑 B3.1（约 10 分钟）＋建池（约 20 分钟）＋judge 复扫（约 25 分钟）；**小改动走定点重建＋judge 拼接**（受影响件集＝账 diff ∪ md 变件 ∪ 结构特征件；`script/tmp/splice_b12.py`）；基线只在收敛后人工更新并提交。
 

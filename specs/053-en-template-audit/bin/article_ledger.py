@@ -205,6 +205,10 @@ def extract_links(art_inner, skip=()):
     s = _cut_region(s, '<div id="toc"', '</div>' + chr(92) + 's*(?=<div id="main-text">)')
     s = _cut_region(s, '<div id="academic-tools"', '</div>')
     s = _cut_region(s, '<div id="related-entries"', '</div>')
+    # HTML 注释整体抹白（保偏移）：注释里被停用的 `<a>` 在 md 无锚文可消费，
+    # 入账即成幽灵链接，永久卡在游标头部连锁饿死整页（findlay 两条
+    # `#bib-H`/`#bib-K` 是 `<!-- <tr>… -->` 里的停用行）。全库 262 条。
+    s = re.sub(r"<!--.*?-->", lambda m: " " * len(m.group(0)), s, flags=re.S)
     out = []
     for m in re.finditer('<a href="([^"]*)">(.*?)</a>', s, re.S):
         if any(m.group(0) in t for t in skip):
@@ -218,7 +222,23 @@ def extract_links(art_inner, skip=()):
         if not text:
             continue
         prefix = htmllib.unescape(re.sub("<[^>]*>", "", s[:m.start()]))
-        out.append({"text": text, "href": href, "nth": _count_word(prefix, text)})
+        # 左邻上下文＝锚文前**最后两个词**（空白归一、小写）：按字符取上下文
+        # 会被 H0／md 折行位置不同打乱（R 逐行匹配），词边界才是折行不变量；
+        # 单字符太弱（`Section 2` 与 `See section 2` 同以 n 收尾，infinity 判例）。
+        # 数学段整体抹掉：H0 是 `\(c\)`、md 是 `$C$`，两侧词形必然不同
+        # （logic-nonmonotonic 判例：一条卡死会连锁饿死同页后续全部链接）。
+        prefix = re.sub(r"\\\(.*?\\\)|\\\[.*?\\\]", "", prefix, flags=re.S)
+        # HTML 注释残片不入可见文：H0 常有 `<!-- … 1958 -->` 夹在词间，md 无，
+        # 账尾词写成 `1958 -->` 后短锚文恒不符（findlay `#bib-H`/`#bib-K` 判例）。
+        prefix = re.sub(r"<!--.*?-->", " ", prefix, flags=re.S)
+        # 可见脚注号 `[19]`（H0 是 `<sup>…[19]…</sup>`，md 侧成 `[^note-19]`）：
+        # 两侧都剥，否则账尾词写成 `be.[19]` 而 md 侧只剩 `be.`，短锚文恒不符
+        # 并连锁饿死（implicature `(1)` 判例）。
+        prefix = re.sub(r"\[\d+\]", "", prefix)
+        _words = re.sub(r"\s+", " ", prefix).strip().lower().split(" ")
+        lead = " ".join(_words[-2:])
+        out.append({"text": text, "href": href,
+                    "nth": _count_word(prefix, text), "lead": lead})
     return out
 
 
@@ -241,23 +261,39 @@ def extract_greek_form(art_inner):
 
 
 def extract_note_forms(art_inner):
-    """脚注引用形账：H0 全部 `notes.html#note-N` 引用按**文档序**记列表。
+    """脚注引用形账：H0 全部 `notes.html#…` 引用按**文档序**记列表。
 
     同一 note 键可既有规范脚注又有散文原形（agent-modeling 判例），且 md
     的 `[^note-N]` 出现序＝H0 引用序（C 保序），故全量记账、R 侧游标逐个
-    消费：规范形记 form=None（R 出默认 sup 形），散文原形记原片段。
-    规范形判据：前缀 `<sup>[` 且锚文＝N（带 id 属性亦算规范，属性差由
-    标记层补丁吸收）。"""
+    消费：规范形记 form=None（R 出默认 sup 形），非规范形记**完整替代片段**。
+
+    片段可为锚自身（散文形：`note <a href="notes.html#supplement-4">4</a>`）
+    或含外层 `<sup>[ … ]</sup>`（首尾方括号形）；`form` 里存哪一种，R 就原样
+    发哪一种，不再二次包裹。
+
+    片段名不必然等于显示号：`href="notes.html#complex" name="note-complex"`
+    显示 `1`（binarium）、`#supplement-4` 显示 `4`（chance-randomness）——
+    显示号不可从 md 推出，故整段记账。规范形判据：被 `<sup>[` … `]</sup>`
+    包住、且锚文＝片段名去掉 `note-` 前缀后的文本。
+    """
     out = []
+    # 属性序不固定：`<a name="note-1" href="notes.html#1">`（logical-constants
+    # 判例）——href 前可有任意属性
     for m in re.finditer(
-            r'<a href="notes\.html#note-([^"]+)"[^>]*>(.*?)</a>', art_inner,
+            r'<a\b[^>]*href="notes\.html#([^"]+)"[^>]*>(.*?)</a>', art_inner,
             re.S):
-        n, inner = m.group(1), m.group(2)
+        frag, inner = m.group(1), m.group(2)
+        key = frag[len("note-"):] if frag.startswith("note-") else frag
         pre = art_inner[max(0, m.start() - 40):m.start()]
-        if re.search(r"<sup>\[$", pre) and inner.strip() == n:
-            out.append({"n": n, "form": None})
+        post = art_inner[m.end():m.end() + 24]
+        # 方括号与 sup 之间可有空白（bell-theorem 判例：`]\n </sup>`）
+        wrapped = (bool(re.search(r"<sup>\s*\[$", pre))
+                   and bool(re.match(r"\]\s*</sup>", post)))
+        if wrapped and inner.strip() == key:
+            out.append({"n": key, "form": None})
         else:
-            out.append({"n": n, "form": m.group(0)})
+            form = ("<sup>[" + m.group(0) + "]</sup>") if wrapped else m.group(0)
+            out.append({"n": key, "form": form})
     return out
 
 

@@ -5,12 +5,12 @@
  "total": 1873,
  "counts": {
   "rule": 0,
-  "pool": 1731,
-  "gap": 142,
+  "pool": 1746,
+  "gap": 127,
   "stale": 0
  },
  "page_bytes": 235952045,
- "pool_bytes": 109992512,
+ "pool_bytes": 111398699,
  "entries": [
   {
    "slug": "18thGerman-preKant",
@@ -126,8 +126,8 @@
     "(G)"
    ],
    "status": "pool",
-   "n_patches": 187,
-   "pool_bytes": 115314
+   "n_patches": 189,
+   "pool_bytes": 115134
   },
   {
    "slug": "adaptationism",
@@ -426,8 +426,8 @@
    "slug": "alberic-paris",
    "page_len": 92231,
    "status": "pool",
-   "n_patches": 145,
-   "pool_bytes": 40514
+   "n_patches": 143,
+   "pool_bytes": 39635
   },
   {
    "slug": "albert-great",
@@ -645,8 +645,8 @@
    "slug": "animal-communication",
    "page_len": 152267,
    "status": "pool",
-   "n_patches": 151,
-   "pool_bytes": 45340
+   "n_patches": 152,
+   "pool_bytes": 45274
   },
   {
    "slug": "animal-normativity",
@@ -1046,8 +1046,8 @@
    "slug": "assertion",
    "page_len": 190736,
    "status": "pool",
-   "n_patches": 363,
-   "pool_bytes": 136519
+   "n_patches": 364,
+   "pool_bytes": 136062
   },
   {
    "slug": "associationist-thought",
@@ -1074,7 +1074,7 @@
    "page_len": 113384,
    "status": "pool",
    "n_patches": 108,
-   "pool_bytes": 53919
+   "pool_bytes": 53769
   },
   {
    "slug": "atomism-ancient",
@@ -1133,7 +1133,7 @@
    "page_len": 168510,
    "status": "pool",
    "n_patches": 250,
-   "pool_bytes": 105891
+   "pool_bytes": 105667
   },
   {
    "slug": "austin-john",
@@ -1233,8 +1233,8 @@
    "slug": "beardsley-aesthetics",
    "page_len": 162612,
    "status": "pool",
-   "n_patches": 215,
-   "pool_bytes": 61155
+   "n_patches": 213,
+   "pool_bytes": 57984
   },
   {
    "slug": "beauty",
@@ -1332,12 +1332,9 @@
   {
    "slug": "binarium",
    "page_len": 41362,
-   "status": "gap",
-   "why": "unaligned text units",
-   "sample": {
-    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
-    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
-   }
+   "status": "pool",
+   "n_patches": 64,
+   "pool_bytes": 27615
   },
   {
    "slug": "biodiversity",
@@ -1695,8 +1692,8 @@
    "slug": "capability-approach",
    "page_len": 153946,
    "status": "pool",
-   "n_patches": 169,
-   "pool_bytes": 48237
+   "n_patches": 168,
+   "pool_bytes": 47446
   },
   {
    "slug": "capitalism",
@@ -1832,7 +1829,7 @@
    "page_len": 128188,
    "status": "pool",
    "n_patches": 214,
-   "pool_bytes": 97323
+   "pool_bytes": 96910
   },
   {
    "slug": "causation-regularity",
@@ -2893,8 +2890,8 @@
    "slug": "curry-paradox",
    "page_len": 110538,
    "status": "pool",
-   "n_patches": 159,
-   "pool_bytes": 66178
+   "n_patches": 160,
+   "pool_bytes": 65354
   },
   {
    "slug": "cusanus",
@@ -3660,8 +3657,8 @@
    "slug": "egalitarianism",
    "page_len": 186189,
    "status": "pool",
-   "n_patches": 186,
-   "pool_bytes": 104248
+   "n_patches": 187,
+   "pool_bytes": 106679
   },
   {
    "slug": "egoism",
@@ -4677,18 +4674,15 @@
    "slug": "fictional-entities",
    "page_len": 150936,
    "status": "pool",
-   "n_patches": 165,
-   "pool_bytes": 90061
+   "n_patches": 164,
+   "pool_bytes": 88892
   },
   {
    "slug": "fictionalism",
    "page_len": 99440,
-   "status": "gap",
-   "why": "unaligned text units",
-   "sample": {
-    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
-    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
-   }
+   "status": "pool",
+   "n_patches": 129,
+   "pool_bytes": 53142
   },
   {
    "slug": "fictionalism-mathematics",
@@ -4721,15 +4715,9 @@
   {
    "slug": "findlay",
    "page_len": 114070,
-   "link_miss": 9,
-   "miss_sample": [
-    "LU",
-    "M",
-    "ML"
-   ],
    "status": "pool",
-   "n_patches": 247,
-   "pool_bytes": 51850
+   "n_patches": 255,
+   "pool_bytes": 50850
   },
   {
    "slug": "fine-tuning",
@@ -4830,12 +4818,9 @@
   {
    "slug": "formalism-mathematics",
    "page_len": 116550,
-   "status": "gap",
-   "why": "unaligned text units",
-   "sample": {
-    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
-    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
-   }
+   "status": "pool",
+   "n_patches": 124,
+   "pool_bytes": 48529
   },
   {
    "slug": "foucault",
@@ -4944,8 +4929,8 @@
    "slug": "frege",
    "page_len": 152964,
    "status": "pool",
-   "n_patches": 306,
-   "pool_bytes": 79204
+   "n_patches": 307,
+   "pool_bytes": 80946
   },
   {
    "slug": "frege-hilbert",
@@ -5638,8 +5623,8 @@
    "slug": "higher-order-evidence",
    "page_len": 109912,
    "status": "pool",
-   "n_patches": 122,
-   "pool_bytes": 50542
+   "n_patches": 123,
+   "pool_bytes": 50418
   },
   {
    "slug": "hilbert-program",
@@ -6094,11 +6079,11 @@
   {
    "slug": "implicature",
    "page_len": 164571,
-   "link_miss": 45,
+   "link_miss": 47,
    "miss_sample": [
-    "5b",
-    "(6)",
-    "(7)"
+    "§1",
+    "(1)",
+    "5b"
    ],
    "status": "pool",
    "n_patches": 233,
@@ -6146,8 +6131,8 @@
    "slug": "incompatibilism-arguments",
    "page_len": 171857,
    "status": "pool",
-   "n_patches": 300,
-   "pool_bytes": 68579
+   "n_patches": 299,
+   "pool_bytes": 68896
   },
   {
    "slug": "incompatibilism-theories",
@@ -6246,8 +6231,8 @@
     "Natural Selection"
    ],
    "status": "pool",
-   "n_patches": 153,
-   "pool_bytes": 60330
+   "n_patches": 154,
+   "pool_bytes": 62808
   },
   {
    "slug": "innate-acquired",
@@ -6727,8 +6712,8 @@
    "slug": "kant-conceptualism",
    "page_len": 185793,
    "status": "pool",
-   "n_patches": 320,
-   "pool_bytes": 84227
+   "n_patches": 319,
+   "pool_bytes": 83226
   },
   {
    "slug": "kant-development",
@@ -7207,12 +7192,9 @@
   {
    "slug": "legal-reas-prec",
    "page_len": 105786,
-   "status": "gap",
-   "why": "unaligned text units",
-   "sample": {
-    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
-    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
-   }
+   "status": "pool",
+   "n_patches": 176,
+   "pool_bytes": 97651
   },
   {
    "slug": "legal-rights",
@@ -7440,8 +7422,8 @@
     "\\(s_1\\)"
    ],
    "status": "pool",
-   "n_patches": 390,
-   "pool_bytes": 91205
+   "n_patches": 389,
+   "pool_bytes": 91149
   },
   {
    "slug": "locke",
@@ -7540,7 +7522,7 @@
   {
    "slug": "logic-combinatory",
    "page_len": 155677,
-   "link_miss": 15,
+   "link_miss": 13,
    "miss_sample": [
     "\\(\\lambda\\)-calculuses",
     "recursive functions",
@@ -7727,15 +7709,9 @@
   {
    "slug": "logic-intuitionistic",
    "page_len": 126102,
-   "link_miss": 20,
-   "miss_sample": [
-    "-->finitism<!--",
-    "Platonism",
-    "formalist program"
-   ],
    "status": "pool",
-   "n_patches": 250,
-   "pool_bytes": 69806
+   "n_patches": 251,
+   "pool_bytes": 70745
   },
   {
    "slug": "logic-justification",
@@ -7810,12 +7786,9 @@
   {
    "slug": "logic-normative",
    "page_len": 120336,
-   "status": "gap",
-   "why": "unaligned text units",
-   "sample": {
-    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
-    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
-   }
+   "status": "pool",
+   "n_patches": 169,
+   "pool_bytes": 86254
   },
   {
    "slug": "logic-ontology",
@@ -7934,12 +7907,9 @@
     "substructural logics",
     "Definitions"
    ],
-   "status": "gap",
-   "why": "unaligned text units",
-   "sample": {
-    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
-    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
-   }
+   "status": "pool",
+   "n_patches": 155,
+   "pool_bytes": 105731
   },
   {
    "slug": "logical-construction",
@@ -8602,12 +8572,9 @@
   {
    "slug": "metaphysical-explanation",
    "page_len": 127352,
-   "status": "gap",
-   "why": "unaligned text units",
-   "sample": {
-    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
-    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
-   }
+   "status": "pool",
+   "n_patches": 141,
+   "pool_bytes": 72001
   },
   {
    "slug": "metaphysics",
@@ -8805,8 +8772,8 @@
    "slug": "montague-semantics",
    "page_len": 97857,
    "status": "pool",
-   "n_patches": 136,
-   "pool_bytes": 42530
+   "n_patches": 135,
+   "pool_bytes": 41991
   },
   {
    "slug": "montaigne",
@@ -9185,8 +9152,8 @@
    "slug": "natural-theology",
    "page_len": 113118,
    "status": "pool",
-   "n_patches": 230,
-   "pool_bytes": 51018
+   "n_patches": 231,
+   "pool_bytes": 51893
   },
   {
    "slug": "naturalism",
@@ -9320,12 +9287,9 @@
   {
    "slug": "newton-principia",
    "page_len": 171347,
-   "status": "gap",
-   "why": "unaligned text units",
-   "sample": {
-    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
-    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
-   }
+   "status": "pool",
+   "n_patches": 145,
+   "pool_bytes": 175633
   },
   {
    "slug": "newton-stm",
@@ -9690,12 +9654,9 @@
   {
    "slug": "paradox-skolem",
    "page_len": 124754,
-   "status": "gap",
-   "why": "unaligned text units",
-   "sample": {
-    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
-    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
-   }
+   "status": "pool",
+   "n_patches": 137,
+   "pool_bytes": 110863
   },
   {
    "slug": "paradox-stpetersburg",
@@ -9758,7 +9719,7 @@
    "page_len": 72434,
    "status": "pool",
    "n_patches": 124,
-   "pool_bytes": 24099
+   "pool_bytes": 23521
   },
   {
    "slug": "patriotism",
@@ -9804,12 +9765,9 @@
     "the algebra of logic tradition",
     "the algebra of logic tradition"
    ],
-   "status": "gap",
-   "why": "unaligned text units",
-   "sample": {
-    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
-    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
-   }
+   "status": "pool",
+   "n_patches": 406,
+   "pool_bytes": 79271
   },
   {
    "slug": "peirce-semiotics",
@@ -9906,8 +9864,8 @@
    "slug": "personal-relationship-goods",
    "page_len": 118805,
    "status": "pool",
-   "n_patches": 116,
-   "pool_bytes": 26005
+   "n_patches": 115,
+   "pool_bytes": 25522
   },
   {
    "slug": "personalism",
@@ -10119,8 +10077,8 @@
    "slug": "physics-holism",
    "page_len": 102302,
    "status": "pool",
-   "n_patches": 123,
-   "pool_bytes": 63900
+   "n_patches": 124,
+   "pool_bytes": 64285
   },
   {
    "slug": "physics-interrelate",
@@ -10400,12 +10358,9 @@
     "Poss",
     "Act*"
    ],
-   "status": "gap",
-   "why": "unaligned text units",
-   "sample": {
-    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
-    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
-   }
+   "status": "pool",
+   "n_patches": 540,
+   "pool_bytes": 197273
   },
   {
    "slug": "possible-objects",
@@ -10417,12 +10372,9 @@
   {
    "slug": "possible-worlds",
    "page_len": 179140,
-   "status": "gap",
-   "why": "unaligned text units",
-   "sample": {
-    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
-    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
-   }
+   "status": "pool",
+   "n_patches": 362,
+   "pool_bytes": 171173
   },
   {
    "slug": "postmodernism",
@@ -10579,12 +10531,6 @@
   {
    "slug": "privacy-health",
    "page_len": 137795,
-   "link_miss": 7,
-   "miss_sample": [
-    "-->reproductive technologies<!--",
-    "abortion",
-    "gender affirming care"
-   ],
    "status": "pool",
    "n_patches": 137,
    "pool_bytes": 57037
@@ -10834,11 +10780,11 @@
   {
    "slug": "publicity",
    "page_len": 135958,
-   "link_miss": 3,
+   "link_miss": 4,
    "miss_sample": [
-    "1.3.1",
     "§",
-    "1.1"
+    "1.3.1",
+    "§"
    ],
    "status": "pool",
    "n_patches": 423,
@@ -11776,12 +11722,9 @@
   {
    "slug": "sakya-pandita",
    "page_len": 82916,
-   "status": "gap",
-   "why": "unaligned text units",
-   "sample": {
-    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
-    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
-   }
+   "status": "pool",
+   "n_patches": 140,
+   "pool_bytes": 48969
   },
   {
    "slug": "santayana",
@@ -12105,8 +12048,8 @@
    "slug": "self-knowledge-externalism",
    "page_len": 153230,
    "status": "pool",
-   "n_patches": 314,
-   "pool_bytes": 83133
+   "n_patches": 313,
+   "pool_bytes": 82288
   },
   {
    "slug": "self-locating-beliefs",
@@ -12448,12 +12391,9 @@
   {
    "slug": "social-procedures",
    "page_len": 67666,
-   "status": "gap",
-   "why": "unaligned text units",
-   "sample": {
-    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
-    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
-   }
+   "status": "pool",
+   "n_patches": 123,
+   "pool_bytes": 36842
   },
   {
    "slug": "socialism",
@@ -12980,12 +12920,9 @@
   {
    "slug": "tense-aspect",
    "page_len": 154845,
-   "status": "gap",
-   "why": "unaligned text units",
-   "sample": {
-    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
-    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
-   }
+   "status": "pool",
+   "n_patches": 298,
+   "pool_bytes": 102008
   },
   {
    "slug": "territorial-rights",
@@ -13054,8 +12991,8 @@
    "slug": "thick-ethical-concepts",
    "page_len": 162476,
    "status": "pool",
-   "n_patches": 153,
-   "pool_bytes": 110229
+   "n_patches": 154,
+   "pool_bytes": 110073
   },
   {
    "slug": "thomas-kuhn",
@@ -13226,8 +13163,8 @@
    "slug": "trinity",
    "page_len": 261458,
    "status": "pool",
-   "n_patches": 436,
-   "pool_bytes": 129251
+   "n_patches": 434,
+   "pool_bytes": 128194
   },
   {
    "slug": "tropes",
@@ -13501,8 +13438,8 @@
    "slug": "value-theory",
    "page_len": 99496,
    "status": "pool",
-   "n_patches": 133,
-   "pool_bytes": 51248
+   "n_patches": 132,
+   "pool_bytes": 50891
   },
   {
    "slug": "vasubandhu",
@@ -13520,8 +13457,8 @@
     "§"
    ],
    "status": "pool",
-   "n_patches": 222,
-   "pool_bytes": 48280
+   "n_patches": 220,
+   "pool_bytes": 46865
   },
   {
    "slug": "vico",
