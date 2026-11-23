@@ -421,3 +421,11 @@
 * 别名补记 1 条：`Mengzi` 补 `Mencius`（语料 706 次全用拉丁化名，登记册原只有拼音键，属高危漏配）。
 * 落册：`term_flow` 8/0；`registry_azsort` 4,845→4,853 守恒；`check_all` 17 项全绿。
 * 证据：`results/people-wikidata-2026-11-24-b20.tsv`、`results/people-alias-2026-11-24-b20.tsv`；清单 `tasks/manifests/2026-11-24-058-batch46-people.json`。
+
+## 2026-11-24：人名第二十一批（规范伦理、法哲学、自由意志、女性主义 20 人）
+
+* 新增 20 人：瓦伦泰恩（1952–）、胡克（1957–）、洪德里奇（1933–2024）、大塚（1964–）、McGowan（1968–）、伊皮（1979–）、Nahmias（1969–）、卡德（1950–）、Stratton-Lake（1959–2022）、弗莱（1941–）、哈根格鲁伯（1958–）、塔德罗斯（1972–）、艾哈迈德（1969–）、韦纳（生年缺）、里根（1938–2017）、海内玛（1960–）、斯图尔德（1965–）、迈耶斯（1947–）、斯旺顿（1947–）、萨托里奥（生卒缺）。
+* 剔除：Mark Timmons（Wikidata “Mark Timmons” 为 1986 年生爱尔兰盖尔式足球运动员，哲学家本人无项）；Ishani Maitra、Cara Nine（无项无条目）。
+* 门禁偶发：本批 `check_all` 首跑报「单体文件大小、管线单元测试」两项失败，随即复跑全绿——同期另一会话在工作区改动 `specs/053` 源文件所致，非本批引入；按 ADR 记录不改他线文件。
+* 落册：`term_flow` 20/0；`registry_azsort` 4,853→4,873 守恒；`check_terms` 硬错误 0，缺项告警 765→770。
+* 证据：`results/people-wikidata-2026-11-24-b21.tsv`；清单 `tasks/manifests/2026-11-24-058-batch47-people.json`。
