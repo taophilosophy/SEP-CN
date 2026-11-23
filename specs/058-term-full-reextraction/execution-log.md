@@ -429,3 +429,10 @@
 * 门禁偶发：本批 `check_all` 首跑报「单体文件大小、管线单元测试」两项失败，随即复跑全绿——同期另一会话在工作区改动 `specs/053` 源文件所致，非本批引入；按 ADR 记录不改他线文件。
 * 落册：`term_flow` 20/0；`registry_azsort` 4,853→4,873 守恒；`check_terms` 硬错误 0，缺项告警 765→770。
 * 证据：`results/people-wikidata-2026-11-24-b21.tsv`；清单 `tasks/manifests/2026-11-24-058-batch47-people.json`。
+
+## 2026-11-24：人名第二十二批（认知语言学、进化论、STS 6 人）
+
+* 新增 6 人：罗施（1938–）、克拉策（1948–）、怀利（1954–）、埃尔德雷奇（1943–）、伍尔加（1950–）、斯洛维奇（1938–）。
+* 未收：Janet Kourany（无 Wikidata 项、无英文维基条目）。
+* 落册：`term_flow` 6/0；`registry_azsort` 4,873→4,879 守恒；`check_all` 17 项全绿。
+* 证据：`results/people-wikidata-2026-11-24-b22.tsv`；清单 `tasks/manifests/2026-11-24-058-batch48-people.json`。
