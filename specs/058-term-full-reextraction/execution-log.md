@@ -414,3 +414,10 @@
 * 检索：参数化查询（“John McCarthy computer scientist”）在 Wikidat 全文检索失效，改英文维基页名反查（`John McCarthy (computer scientist)`→Q92739、`Joshua Greene (psychologist)`→Q16224624）。
 * 落册：`term_flow` 9/0；`registry_azsort` 4,836→4,845 守恒；`check_all` 17 项全绿。
 * 证据：`results/people-wikidata-2026-11-24-b19.tsv`；清单 `tasks/manifests/2026-11-24-058-batch45-people.json`。
+
+## 2026-11-24：人名第二十批（古典柏拉图主义、京都学派、印度现代、当代中国 8 人）
+
+* 新增 8 人：阿提库斯（约150–约200，Q758060）、三木清（1897–1945）、室利·阿罗频多（1872–1950）、辨喜（1863–1902）、拉达克里希南（1888–1975）、张岱年（1909–2004）、刘笑敢（1947–）、蒋庆（生卒留白，无 Wikidata 项与英文维基条目）。
+* 别名补记 1 条：`Mengzi` 补 `Mencius`（语料 706 次全用拉丁化名，登记册原只有拼音键，属高危漏配）。
+* 落册：`term_flow` 8/0；`registry_azsort` 4,845→4,853 守恒；`check_all` 17 项全绿。
+* 证据：`results/people-wikidata-2026-11-24-b20.tsv`、`results/people-alias-2026-11-24-b20.tsv`；清单 `tasks/manifests/2026-11-24-058-batch46-people.json`。
