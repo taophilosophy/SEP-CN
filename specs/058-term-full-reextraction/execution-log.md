@@ -343,3 +343,13 @@
 * 别名补记 15 条（键与译法不动）：Gassendi←Pierre Gassendi、Maimonides←Moses Maimonides、Fichte←Johann Gottlieb Fichte、Scanlon, T. M.←Thomas Scanlon、F.A. Hayek←Friedrich Hayek、Mackie, J. L.←John Mackie、Anscombe, Elizabeth←G. E. M. Anscombe、Twain, Mark←Samuel Clemens、Albert the Great←Albertus Magnus、Hempel, Carl G.←Carl Hempel、Wolff, R. P.←Robert Paul Wolff、Strawson, P.F.←Peter Strawson、Lewis, C.I.←C. I. Lewis、Laozi←Lao Dan、van Norden, B.W.←Bryan Van Norden。
 * 落册：`term_flow` 干跑 20/2（两条变音符同名被拦），实写 20；`registry_azsort` 人名表 4,668→4,688 守恒；`check_terms` 硬错误 0，缺项告警 748→749（Ruth Chang 生卒确无公开数据）；`check_all` 17 项全绿。
 * 证据：`results/people-wikidata-2026-11-24-b10.tsv`、`results/people-alias-2026-11-24-b10.tsv`；清单 `tasks/manifests/2026-11-24-058-batch36-people.json`。
+
+## 2026-11-24：人名第十一批（新增 14 人）＋11 条别名
+
+* 扫描器修正：按上批教训改用 NFKD 去变音符，并把**别名列**一并纳入 token 集；只取 `status=本轮新增` 的 person 候选，避免对已登记项反复报缺。修正后 freq≥6、spread≥3 档余 197 条，其中绝大多数为误分型（书名、机构、战争、概念、头衔）。
+* 新增 14 人：Richard von Mises（1883–1953，Q84292，与 Ludwig von Mises 异人）、David Ray Griffin（1939–2022，Q521358）、Ralph Barton Perry（1876–1957，Q32679）、斯塔尔夫人（1766–1817，Q123041）、Grace Lee Boggs（1915–2015）、Olympe de Gouges（1748–1793）、Johann Georg Sulzer（1720–1779）、Juan Bautista Alberdi（1810–1884）、Olivier Costa de Beauregard（1911–2007，Q3350939）、Roy Wood Sellars（1880–1973，与 Wilfrid Sellars 为父子异人）、Robert Gooding-Williams（1953–）、Lynn Hankinson Nelson（1948–2024，Wikidata 无国籍）、沃尔特·司各特（1771–1832）、Alice Chipman Dewey（1858–1927）。
+* W. D. Ross 在册（键 `Ross, W. D.`），只在册补全名别名，不重复落册。
+* 别名补记 11 条：Ross, W. D.←William David Ross、Hamilton←Sir William Hamilton、King←Martin Luther King Jr、Novalis←Friedrich von Hardenberg、Delmedigo←Elijah Del Medigo、Collingwood←Robin George Collingwood、Lotze←Rudolf Hermann Lotze、Eliot←Mary Ann Evans、Newton←Sir Isaac Newton、Moore, G. E.←George Edward Moore、Butler←Bishop Joseph Butler。
+* 落册：`term_flow` 14/0；`registry_azsort` 4,688→4,702 守恒；`check_terms` 硬错误 0，缺项告警 749→750（Lynn Hankinson Nelson 无国籍数据）；`check_all` 17 项全绿。
+* 证据：`results/people-wikidata-2026-11-24-b11.tsv`、`results/people-alias-2026-11-24-b11.tsv`；清单 `tasks/manifests/2026-11-24-058-batch37-people.json`。
+* 余量估算：别名感知后 freq≥6 档只剩误分型与零星低知名人物；下一批起以 freq 4–5、spread≥3 的少量真缺项为主，人名线接近收官。
