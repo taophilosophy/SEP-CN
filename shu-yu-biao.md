@@ -455,6 +455,7 @@
 | Arrow-Pratt measure | — | 阿罗—普拉特度量 | risk | 学界惯例（风险厌恶度量通行）；凭证 2026-11-09 | 2026-11-09 |
 | ars inveniendi | ars inveniendi | 发明术 | leibniz-logic-influence | 学界惯例（莱布尼茨研究通行，与判断术 ars iudicandi 相对）；凭证 2026-11-03 | 2026-11-03 |
 | ars iudicandi | ars iudicandi | 判断术 | leibniz-logic-influence | 学界惯例（同上）；凭证 2026-11-03 | 2026-11-03 |
+| Art and Illusion | — | 《艺术与错觉：图画再现的心理学研究》 | 语料回收（specs/058 全库提取） | 权威译本（林夕、李本正、范景中译，浙江摄影出版社 1987 / 湖南科学技术出版社 2002；2026-11-24 联网核对，凭证 works-batch13-2026-11-24.md） | 2026-11-24 |
 | Art as Experience | — | 《艺术即经验》 | 语料回收（specs/058 全库提取） | 权威译本（杜威著作通行汉译；审定库无对口条目，2026-11-22）；凭证 2026-11-22 | 2026-11-22 |
 | artha | अर्थ | 义 | early-modern-india | 同上（meaning；padārtha 之 artha）；凭证 2026-11-11；撞形豁免 2026-11-21：梵语 artha（利益/对象）与汉语 yi（义/宜）同形异源，不合并 | 2026-11-21 |
 | arthakriyā | अर्थक्रिया | 事用 | kumaarila | 佛教因明研究通行（法称“义作业/事用”，因果效力判准） | 2026-11-05 |
@@ -998,7 +999,7 @@
 | Chuci | 楚辭 | 《楚辞》 | han-dynasty | 学界通行学名 | 2026-11-10 |
 | chuin’gong(주인공) | 주인공 | 主人公 | korean-buddhism | 汉文传统写法（大行“主人公”修行法，公/空双关）；键形归一 2026-11-21：全角括注／斜线改半角（键须为源语形）；旧键 chuin’gong（주인공） | 2026-11-21 |
 | chunk and permeate | — | 分块渗透 | 语料回收（mathematics-inconsistent 首译） | 本词条首译裁定（Brown–Priest 技术）；凭证 2026-11-06 | 2026-11-06 |
-| Chunqiu | 春秋 | 《春秋》 | 术语会话种子（ADR-0011） | 学界通行学名 | 2026-10-28 |
+| Chunqiu | 春秋 / Spring and Autumn Annals | 《春秋》 | 术语会话种子（ADR-0011） | 学界通行学名；别名为 058 语料英译形（2026-11-24 核对，凭证 works-batch13-2026-11-24.md） | 2026-10-28 |
 | Chunqiu Fanlu | 春秋繁露 | 《春秋繁露》 | han-dynasty | 学界通行学名 | 2026-11-10 |
 | Church Fathers | — | 教父 | ancient-soul 首译 | 学界通行（基督教思想史） | 2026-11-09 |
 | Church's theorem | — | 丘奇定理 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
@@ -2001,6 +2002,7 @@
 | drastic distance | — | 极端距离 | belief-merging | 学界通行（信念修正文献）；凭证 2026-11-10 | 2026-11-10 |
 | dravatya | द्रवत्व | 液性 | early-modern-india | 胜论动力学义译（fluidity）；凭证 2026-11-10 | 2026-11-10 |
 | dravya | द्रव्य | 实体 | jaina-philosophy | 印度哲学通行；撞形豁免 2026-11-21：同形异语／同概念异形，按条目语境区分，不合并 | 2026-11-21 |
+| Dreams of Spirit-Seer | — | 《通灵者之梦》 | 语料回收（specs/058 全库提取） | 权威译本（商务印书馆“汉译世界学术名著丛书”1000 种书目·哲学第 300 号（康德）；2026-11-24 查，凭证 works-batch10-2026-11-24.md） | 2026-11-24 |
 | driver mutation | — | 驱动突变 | cancer | 学界通行（癌症基因组学；与 passenger mutation 乘客突变对举）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
 | dṛṣṭānta | दृष्टान्त | 喻例 | early-modern-india | 因明传统译名（三支作法之“喻”）；凭证 2026-11-10 | 2026-11-10 |
 | dual character concepts | — | 双重特征概念 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
@@ -2186,6 +2188,7 @@
 | entity | — | 实体 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·自然辩证法·自然哲学·基本概念，2026-11-18 JWT 直连凭证）；撞形豁免 2026-11-21：同形异语／同概念异形，按条目语境区分，不合并 | 2026-11-21 |
 | entity realism | — | 实体实在论 | 语料回收（specs/058 全库提取） | 审定名词库（termonline-all·自然辩证法，凭证 2026-11-23） | 2026-11-23 |
 | entropy | — | 熵 | 首现（imprecise-probabilities） | 学界惯例（信息论与统计力学通行）；凭证 2026-11-08 | 2026-11-08 |
+| Enumeration of the Sciences | — | 《科学分类》 | 语料回收（specs/058 全库提取） | 学界通行书名（法拉比著作通行书名（Enumeration of the Sciences，学界通译“科学的分类”）；2026-11-24 查，凭证 works-batch13-2026-11-24.md）；书名体例译，无单独汉译本；依据为学界通行 | 2026-11-24 |
 | enumerative induction | — | 枚举归纳 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·自然辩证法·科学技术方法论·分析与推理，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | environmental aesthetics | — | 环境美学 | 首现（environmental-aesthetics） | 学界通行译名（SUMMARY 定名沿用；美学 sub-field 通行译法） | 2026-11-08 |
 | environmental ethics | — | 环境伦理学 | 首现（environmental-aesthetics） | 学界通行（应用伦理学分支） | 2026-11-08 |
@@ -2283,6 +2286,7 @@
 | Erlangen program | — | 埃尔朗根纲领 | geometry-19th | 数学/几何学界通行译名；凭证 2026-11-11（主会话直译 g/geometry-19th） | 2026-11-11 |
 | Erlebnis | Erlebnis | 体验（狄尔泰/伽达默尔语境；亦作“亲历体验”） | gadamer-aesthetics | 学界惯例（伽达默尔《真理与方法》通行）；撞形豁免 2026-11-21：同形异语／同概念异形，按条目语境区分，不合并 | 2026-11-21 |
 | Erlebnis-Ästhetik | Erlebnis-Ästhetik | 体验美学 | gadamer-aesthetics | 学界惯例（美学研究通行） | 2026-11-01 |
+| Eros and Civilization | — | 《爱欲与文明》 | 语料回收（specs/058 全库提取） | 权威译本（黄勇、薛民译，上海译文出版社 1987 / 2012；2026-11-24 联网核对，凭证 works-batch13-2026-11-24.md） | 2026-11-24 |
 | erotapokriseis | — | 问答体 | john-italos | 拜占庭文学研究通行体裁名；审定库无相关命中（termonline-all 凭证 2026-11-09）| 2026-11-06 |
 | erotic art | — | 情色艺术 | 首现（erotic-art） | 学界通行（SUMMARY 定名沿用；erotic 译“情色的”） | 2026-11-08 |
 | erotica | — | 情色图像 | 首译（erotic-art） | 与情色艺术相对（Levinson 术语：意在刺激而不求艺术兴趣） | 2026-11-08 |
@@ -2330,6 +2334,7 @@
 | ethical skill | — | 伦理技能 | 首现（justice-virtue） | 学界惯例（Widlok 直译）；凭证 2026-11-02 | 2026-11-02 |
 | ethical state | — | 伦理国家 | gramsci | 葛兰西术语，学界通行译名；凭证 2026-11-11（主会话直译 g/gramsci） | 2026-11-11 |
 | Ethics | — | 伦理学 | 语料回收（词汇表并网） | 作学科名与书名（斯宾诺莎《伦理学》）；《模糊性的道德》随已出版书名译“道德”；词汇表并网（ADR-0036） | 2026-11-13 |
+| Ethics and Language | — | 《伦理学与语言》 | 语料回收（specs/058 全库提取） | 权威译本（姚新中、秦志华等译，中国社会科学出版社 1997（外国伦理学名著译丛）；2026-11-24 联网核对，凭证 works-batch13-2026-11-24.md） | 2026-11-24 |
 | Ethics of Ambiguity | — | 《模糊性的道德》 | 语料回收（词汇表并网） | 学界惯例（词汇表并网迁移）；词汇表并网（ADR-0036）；审定库无相关命中（termonline-all 凭证 2026-11-13） | 2026-11-13 |
 | ethics of belief | — | 信念伦理学 | 语料回收（词汇表并网） | 学界惯例（词汇表并网迁移）；词汇表并网（ADR-0036）；审定库无相关命中（termonline-all 凭证 2026-11-13）| 2026-11-13 |
 | Ethnocentrism | — | 种族中心主义 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·自然辩证法·科学哲学·分支科学哲学·社会科学哲学，2026-11-18 JWT 直连凭证） | 2026-11-19 |
@@ -2847,6 +2852,7 @@
 | General Scholium | — | 总释 | newton-philosophy；newton-principia | 牛顿《原理》中译通行（1713 年第二版新增末节）；凭证 2026-11-11；2026-11-11 合并同键行（来源列并双 slug） | 2026-11-11 |
 | general semantics | — | 普通语义学 | 语料回收（specs/058 全库提取） | 审定名词库（termonline-all·语言学，凭证 2026-11-23） | 2026-11-23 |
 | general terms | — | 普遍词项 | 语料回收（specs/058 全库提取） | 学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22） | 2026-11-22 |
+| General Theory of Knowledge | — | 《普通认识论》 | 语料回收（specs/058 全库提取） | 权威译本（商务印书馆“汉译世界学术名著丛书”1000 种书目·哲学第 129 号（石里克）；2026-11-24 查，凭证 works-batch10-2026-11-24.md） | 2026-11-24 |
 | general volition | — | 一般意志 | occasionalism 首译 | 学界惯例（马勒布朗士研究）；凭证 2026-11-07 | 2026-11-07 |
 | general will | — | 公意 | s/sovereignty 首译 | 学界通行译名（卢梭研究通行，何兆武译本既名）；凭证 2026-11-07 | 2026-11-07 |
 | generalist | — | 通才 | chinese-phil-science | 学界通行（对 technical specialist 技术专家）；凭证 2026-11-07 | 2026-11-07 |
@@ -4018,7 +4024,7 @@
 | light cone | — | 光锥 | spacetime-convensimul | 学界惯例（相对论通行） | 2026-11-06 |
 | light linear logic | — | 轻线性逻辑 | logic-linear | Girard 术语直译；凭证 2026-11-10 | 2026-11-09 |
 | light-signal method | — | 光信号法 | spacetime-convensimul | 构词直译 | 2026-11-06 |
-| Liji | 禮記 | 《礼记》 | han-dynasty | 学界通行学名 | 2026-11-10 |
+| Liji | 禮記 / Book of Rites | 《礼记》 | han-dynasty | 学界通行学名；别名为 058 语料英译形（2026-11-24 核对，凭证 works-batch13-2026-11-24.md） | 2026-11-10 |
 | likelihood principle | — | 似然原则 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | likelihood ratio | — | 似然比 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·心理学·认知与实验心理学，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | limit-case | — | 极限情形 | newton | 物理学通行（极限情形）；凭证 2026-11-11 | 2026-11-11 |
@@ -4285,6 +4291,7 @@
 | mātra | मात्र | 唯 | yogacara 首译 | 梵语“仅、只”（cittamātra／vijñaptimātra 构词成分）；凭证 2026-11-11；原文列联网查证：Monier-Williams《梵英辞典》／Apte《实用梵英辞典》“Mātra”条（2026-11-14 查，凭证 orig-verify-2026-11-14-b6.tsv） | 2026-11-14 |
 | matrix semantics | — | 矩阵语义学 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | matter | — | 质料（亚里士多德 hylê 语境；近代物理语境译“物质”） | 语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04；撞形豁免 2026-11-21：质料（亚里士多德 hylê）与 stuff（材料）分列，不合并 | 2026-11-21 |
+| Matter and Memory | — | 《材料与记忆》 | 语料回收（specs/058 全库提取） | 权威译本（肖聿译，华夏出版社 1999 / 译林出版社 2011；2026-11-24 联网核对，凭证 works-batch13-2026-11-24.md）；通行别译《物质与记忆》 | 2026-11-24 |
 | matter field | — | 物质场 | spacetime-holearg | A 档（物理学通行译名） | 2026-10-28 |
 | matter theory (of evil) | — | 质料论 | evil-kinds-origins | 本词条译名 | 2026-11-12 |
 | matters of fact | — | 事实问题 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
@@ -5782,6 +5789,7 @@
 | principle of non-contradiction | — | 不矛盾律 | reinach | 学界惯例（逻辑学通行）；凭证 2026-11-09 | 2026-11-09 |
 | principle of sufficient reason | — | 充足理由律 | rationalism-early-modern | 学界通行（SUMMARY 词条定名；简称 PSR） | 2026-11-06 |
 | principle of transcendence | — | 超越原则 | 首现（truth-coherence） | 学界通行（真命题未必可知为真）；凭证 2026-11-07 | 2026-11-07 |
+| Principles of Human Knowledge | — | 《人类知识原理》 | 语料回收（specs/058 全库提取） | 权威译本（商务印书馆“汉译世界学术名著丛书”1000 种书目·哲学第 141 号（贝克莱）；2026-11-24 查，凭证 works-batch10-2026-11-24.md） | 2026-11-24 |
 | Principles of Mathematics | — | 《数学原理》 | 语料回收（specs/058 全库提取） | 权威译本（罗素著作通行汉译；审定库无对口条目，2026-11-22）；凭证 2026-11-22 | 2026-11-22 |
 | principles of number | — | 数的原则 | 首现（william-jevons） | 构词直译（Jevons 数之哲学）；凭证 2026-11-07 | 2026-11-07 |
 | Principles of Philosophy | — | 《哲学原理》 | 语料回收（specs/058 全库提取） | 权威译本（商务印书馆汉译名著《哲学原理》；审定库无对口条目，2026-11-22）；凭证 2026-11-22 | 2026-11-22 |
@@ -6569,6 +6577,7 @@
 | Scholium | — | 附释 | newton-principia | 牛顿《原理》中译通行（与总释对举）；凭证 2026-11-11 | 2026-11-11 |
 | school divinity | — | 经院神学 | hobbes-science 首译 | 学界通行（霍布斯语，指经院神学与亚里士多德哲学之掺合）；凭证 2026-11-11 | 2026-11-11 |
 | Science | — | 科学 | 语料回收（词汇表并网） | 学界惯例（词汇表并网迁移）；词汇表并网（ADR-0036）；审定库一致（termonline-all 凭证 2026-11-13）| 2026-11-13 |
+| Science and Hypothesis | — | 《科学与假设》 | 语料回收（specs/058 全库提取） | 权威译本（商务印书馆“汉译世界学术名著丛书”1000 种书目·哲学第 67 号（彭加勒）；2026-11-24 查，凭证 works-batch10-2026-11-24.md） | 2026-11-24 |
 | science denial | — | 否认科学 | risk | 本词条首译（Hansson 2017 语境；与 pseudoscience“伪科学”并列）；凭证 2026-11-09 | 2026-11-09 |
 | science education | — | 科学教育 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·教育学·教育基本理论，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | Science of Judaism | — | 犹太学（Wissenschaft des Judentums） | s/scholem 首译 | 学界通行译名（十九世纪犹太学运动）；凭证 2026-11-08 | 2026-11-08 |
@@ -7640,6 +7649,7 @@
 | Timaeus | — | 《蒂迈欧篇》 | 语料回收（specs/058 全库提取） | 权威译本（谢文郁译，上海人民出版社 2005（世纪文库）；2026-11-24 联网核对，凭证 works-batch11-2026-11-24.md） | 2026-11-24 |
 | timbral sonicist | — | 音色声音论者 | music | Dodd 术语（timbral sonicist）；凭证 2026-11-09 | 2026-11-09 |
 | Time | — | 时间 | 语料回收（词汇表并网） | 学界惯例（词汇表并网迁移）；词汇表并网（ADR-0036）；审定库一致（termonline-all 凭证 2026-11-13）| 2026-11-13 |
+| Time and Free Will | — | 《时间与自由意志》 | 语料回收（specs/058 全库提取） | 权威译本（商务印书馆“汉译世界学术名著丛书”1000 种书目·哲学第 164 号（柏格森）；2026-11-24 查，凭证 works-batch10-2026-11-24.md） | 2026-11-24 |
 | time complexity | — | 时间复杂性 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·自然辩证法·科学哲学·分支科学哲学·信息哲学，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | time dilation | — | 时间延缓（亦作“时间膨胀”） | spacetime-convensimul | 审定名词库（termonline-all·物理学名词，2026-11-11 浏览器通道凭证）；相对论通行 | 2026-11-11 |
 | time discount rate | — | 时间贴现率 | ramsey-economics | 经济学通行（与贴现因子配对）；凭证 2026-11-11 | 2026-11-11 |
