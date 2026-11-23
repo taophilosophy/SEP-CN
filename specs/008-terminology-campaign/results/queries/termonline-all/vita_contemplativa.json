@@ -1,0 +1,632 @@
+{
+ "key": "vita contemplativa",
+ "term": "vita contemplativa",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T16:42:04+00:00",
+ "status": "ok",
+ "note": "variant=vita contemplativa; 审定公布名词库=131; 海峡两岸名词对照库=38; 其他来源数据库=23; 预公布名词数据库=3; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "小脑活树",
+   "en": "arbor vitae",
+   "source": "人体解剖学名词",
+   "wordNumber": "06.0432",
+   "subjectFullName": "人体解剖学_神经系统_小脑",
+   "subjectName": "小脑",
+   "publishYear": "2014",
+   "definition": "小脑各叶内的白质反复发出多级白质板，切面上呈树状，故名。"
+  },
+  {
+   "cn": "铁梨木轴承",
+   "en": "lignum vitae bearing",
+   "source": "航海科技名词",
+   "wordNumber": "15.0891",
+   "subjectFullName": "航海科学技术_轮机管理",
+   "subjectName": "轮机管理",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "意向阶段",
+   "en": "contemplation stage",
+   "source": "行为医学名词",
+   "wordNumber": "2.068",
+   "subjectFullName": "行为医学_行为医学基本理论_健康行为与行为改变理论",
+   "subjectName": "健康行为与行为改变理论",
+   "publishYear": "2022",
+   "definition": "行为分阶段转变理论的第二阶段。个体已经意识到问题的重要性，开始认真地思考改变自己行为的阶段。个体能够意识到改变行为的益处，同时也会意识到改变行为的代价。"
+  },
+  {
+   "cn": "打算阶段",
+   "en": "contemplation stage",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "09.040",
+   "subjectFullName": "全科医学与社区卫生_社区健康教育与健康促进",
+   "subjectName": "社区健康教育与健康促进",
+   "publishYear": "2014",
+   "definition": "行为改变阶段理论的第二阶段。在最近6个月内，人们开始意识到问题的存在及其严重性，意识到改变行为可能带来的益处，也知道改变行为需要代价，因此在益处和代价之间权衡，处于犹豫不决的矛盾状态。"
+  },
+  {
+   "cn": "神劳",
+   "en": "over contemplation",
+   "source": "中医药学名词（2010）",
+   "wordNumber": "01.0663",
+   "subjectFullName": "中医药学_内科学",
+   "subjectName": "内科学",
+   "publishYear": "2010",
+   "definition": "以神疲，失眠，健忘，头晕痛等为主要表现的疾病。"
+  },
+  {
+   "cn": "无打算阶段",
+   "en": "pre-contemplation stage",
+   "source": "全科医学与社区卫生名词",
+   "wordNumber": "09.039",
+   "subjectFullName": "全科医学与社区卫生_社区健康教育与健康促进",
+   "subjectName": "社区健康教育与健康促进",
+   "publishYear": "2014",
+   "definition": "行为改变阶段理论的第一阶段。在最近6个月内，没有考虑改变自己的行为，或者有意坚持不改变的状态。"
+  },
+  {
+   "cn": "假肋",
+   "en": "vitta",
+   "source": "植物学名词",
+   "wordNumber": "07.0042",
+   "subjectFullName": "植物学_苔藓植物学",
+   "subjectName": "苔藓植物学",
+   "publishYear": "2019",
+   "definition": "少数苔类植物叶基中部由大形细胞组成的类似中肋状的细胞结构。"
+  },
+  {
+   "cn": "油道",
+   "en": "vitta",
+   "source": "植物学名词",
+   "wordNumber": "03.1060",
+   "subjectFullName": "植物学_植物形态与结构植物学_结构植物学",
+   "subjectName": "结构植物学",
+   "publishYear": "2019",
+   "definition": "果皮中含芳香油的管道。如伞形科植物。"
+  },
+  {
+   "cn": "夹景",
+   "en": "vista",
+   "source": "林学名词",
+   "wordNumber": "09.032",
+   "subjectFullName": "林学_风景园林_园林艺术",
+   "subjectName": "园林艺术",
+   "publishYear": "2016",
+   "definition": "利用树丛、树带、地形山石或建筑等，形成比较封闭的夹峙或狭长空间，突出空间端部景物的造景手法。"
+  },
+  {
+   "cn": "米达制",
+   "en": "Mita",
+   "source": "世界历史名词",
+   "wordNumber": "03.0763",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_西班牙、葡萄牙",
+   "subjectName": "西班牙、葡萄牙",
+   "publishYear": "2012",
+   "definition": "在西属美洲殖民地主要存在于秘鲁地区的一种强迫徭役制。"
+  },
+  {
+   "cn": "签证处",
+   "en": "visa department,visa section",
+   "source": "建筑学名词",
+   "wordNumber": "02.0133",
+   "subjectFullName": "建筑学_建筑类型及组成_办公建筑",
+   "subjectName": "办公建筑",
+   "publishYear": "2014",
+   "definition": "国家权力机关或驻外使领馆专门办理在护照上进行签注手续的办公场所。"
+  },
+  {
+   "cn": "活体染料",
+   "en": "vital stain,vital dye",
+   "source": "细胞生物学名词",
+   "wordNumber": "011.114",
+   "subjectFullName": "细胞生物学_细胞生物学技术",
+   "subjectName": "细胞生物学技术",
+   "publishYear": "2009",
+   "definition": "可使活细胞呈染色反应的物质。如中性红、尼罗兰。某些染色剂对细胞器染色的具有选择性，如詹纳斯绿可专一性地使线粒体着色。"
+  },
+  {
+   "cn": "生命体征",
+   "en": "vital sign",
+   "source": "急救医学名词",
+   "wordNumber": "07.026",
+   "subjectFullName": "急救医学_急救技能与护理_常用急救设备与检查项目_急救检查项目",
+   "subjectName": "急救检查项目",
+   "publishYear": "2025",
+   "definition": "维持生命存在的最基础的体征。通常指呼吸、脉搏、血压、体温、血氧饱和度等。"
+  },
+  {
+   "cn": "生命冲动",
+   "en": "lan vital",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.119",
+   "subjectFullName": "自然辩证法_自然哲学_理论方法",
+   "subjectName": "理论方法",
+   "publishYear": "2024",
+   "definition": "作为精神性本原的生命意志的观点。由柏格森提出和描述。认为生命是带有强烈行动意志色彩的精神力量即意识和“创造需要”。其不受任何原因和条件限制，是完全偶然、盲目的冲动。这种冲动是一切有机体的本质和生物进化"
+  },
+  {
+   "cn": "正气",
+   "en": "vital qi",
+   "source": "兽医学名词",
+   "wordNumber": "19.102",
+   "subjectFullName": "兽医学_中兽医学",
+   "subjectName": "中兽医学",
+   "publishYear": "2023",
+   "definition": "动物体各脏腑组织器官的功能活动，对致病因素的抵抗能力以及对外界环境的适应能力。"
+  },
+  {
+   "cn": "要害部位",
+   "en": "vital site",
+   "source": "化工名词（四）安全·环保·可持续发展",
+   "wordNumber": "02.035",
+   "subjectFullName": "化工（四）_炼油与化工企业健康-安全-环境管理_生产安全与防护",
+   "subjectName": "生产安全与防护",
+   "publishYear": "2020",
+   "definition": "包括以下场所或区域：①多工种联合作业、频繁拆卸、搬迁、安装的部位，生产过程中不安全因素多的野外施工现场；②相对集中的油气生产与处理装置区；③制造、储存、运输和销售易燃易爆、剧毒等危险化学品的场所，以及"
+  },
+  {
+   "cn": "生命消沉",
+   "en": "vital depression",
+   "source": "精神医学名词",
+   "wordNumber": "03.174",
+   "subjectFullName": "精神医学_诊断分类_情感障碍",
+   "subjectName": "情感障碍",
+   "publishYear": "2019",
+   "definition": "生命感受呈低迷停滞的特征性病态改变现象。没有其他躯体疾病情况下，受检者在心境消沉同时有体温下降、心率减慢、胃肠蠕动减慢等表现。"
+  },
+  {
+   "cn": "生命体征",
+   "en": "vital sign",
+   "source": "烧伤学名词",
+   "wordNumber": "08.014",
+   "subjectFullName": "烧伤学_烧伤护理",
+   "subjectName": "烧伤护理",
+   "publishYear": "2019",
+   "definition": "用来判断患者的病情轻重和危急程度的指征。主要有心率、脉搏、血压、呼吸、瞳孔反射和角膜反射等。"
+  },
+  {
+   "cn": "生命统计",
+   "en": "vital statistic",
+   "source": "计划生育名词",
+   "wordNumber": "01.123",
+   "subjectFullName": "计划生育_计划生育国策、生殖健康及人口学_人口学",
+   "subjectName": "人口学",
+   "publishYear": "2019",
+   "definition": "对出生、死亡、死产、结婚、离婚、同居、分居、计划生育、领养等与人的生命现象有关事件的记载、分析和研究。"
+  },
+  {
+   "cn": "生命体征",
+   "en": "vital sign",
+   "source": "计划生育名词",
+   "wordNumber": "03.137",
+   "subjectFullName": "计划生育_计划生育临床_诊断_女性部分",
+   "subjectName": "女性部分",
+   "publishYear": "2019",
+   "definition": "能观测到的维持人体生存的基本体征。即心率或脉搏、血压、呼吸、体温。检查这四项体征，对于识别患者疾病和疾病的严重程度非常重要。"
+  },
+  {
+   "cn": "小脑活树",
+   "en": "arbor vitae\",\"arbor vitae of cerebellum",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "铁梨木轴承",
+   "en": "lignum vitae bearing",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "假肋",
+   "en": "vitta",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "油道",
+   "en": "vitta",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "丽塔",
+   "en": "Rita",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Donizetti, Gaetano"
+  },
+  {
+   "cn": "极重要",
+   "en": "vital",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "活体染料",
+   "en": "vital stain\",\"vital dye",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "活染红",
+   "en": "vital red",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "活体染料",
+   "en": "vital dye",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "技术签证",
+   "en": "technical visa",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "生命最适度",
+   "en": "vital optimum",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "生命指数",
+   "en": "vital index",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "活体囊",
+   "en": "vital gacs",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "生命统计",
+   "en": "vital statistics",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "生命过程",
+   "en": "vital process",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "[生]活力",
+   "en": "vitality\",\"vital force",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "生活力，生命力",
+   "en": "vital capacity\",\"vitality",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "生机论",
+   "en": "vital theory\",\"vitalism",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "间额",
+   "en": "interfrontalia\",\"frontal vitta",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "局部活体染色",
+   "en": "localized vital staining",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "神思",
+   "en": "Imaginative  Contemplation",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "玄览",
+   "en": "Xuanlan ( Pure-minded Contemplation )",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "兴观群怨",
+   "en": "Stimulation, Contemplation, Communication, and Criticism",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "精气",
+   "en": "Vital Energy",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际箭联赛",
+   "en": "FITA round",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "要害部位",
+   "en": "vital point",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "要害部位",
+   "en": "vital point",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "气",
+   "en": "Qi (Vital Force)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "血气",
+   "en": "Vitality / Vital Force",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "国际箭联淘汰赛",
+   "en": "grand FITA round",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "国际箭联奥林匹克淘汰赛",
+   "en": "Olympic FITA round",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "国际箭联双轮赛",
+   "en": "double FITA round",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "国际射箭联合会",
+   "en": "International Archery Federation\",\"FITA",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "元气",
+   "en": "Yuanqi / Fundamental Qi (Vital Force)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "气质之性",
+   "en": "Character Endowed by Qi (Vital Force)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "六气",
+   "en": "Six Forms of Qi (Vital Force)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "芝麻签证报告",
+   "en": "Zhima credit report for visa application",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "互联网票据理财",
+   "en": "on-bill financing via Internet",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "天地之气",
+   "en": "The Qi (Vital Force) of Heaven and Earth",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "皮肤吸收",
+   "en": "absorption via the skin",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.28",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "放射性核素经皮肤进入体液的过程。"
+  },
+  {
+   "cn": "伤口吸收",
+   "en": "absorption via the wound",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.29",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "放射性核素经伤口进入体液的过程。"
+  },
+  {
+   "cn": "醋酸染色裸眼观察",
+   "en": "visual inspection with acetic acid, VIA",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.10.2.1.3",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_妇女常见病防治",
+   "subjectName": "妇女常见病防治",
+   "publishYear": "2025",
+   "definition": "为宫颈癌筛查的初筛方法之一。通过在子宫颈表面涂抹5%醋酸溶液，观察子宫颈有无醋白反应，来判断子宫颈有无病变及病变程度。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

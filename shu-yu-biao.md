@@ -3059,6 +3059,7 @@
 | hêdonê | ἡδονή | 快乐 | epicurus | 学界惯例（与 algêdôn 痛苦对举；hedonism 快乐主义 已登记） | 2026-11-12 |
 | hedonic | — | 享乐的 | paradox-of-tragedy | 学界惯例（hedonic compensation 享乐补偿；hedonic charge 享乐电荷）；凭证 2026-11-10 | 2026-11-10 |
 | hedonic reversal | — | 快乐逆转 | paradox-of-tragedy | 学界惯例（Rozin 研究通行译法）；凭证 2026-11-10 | 2026-11-10 |
+| hedonic tone | — | 享乐基调 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-24）；凭证 2026-11-24 | 2026-11-24 |
 | Hedonic Utilitarianism | — | 快乐论功利主义 | 首现（intuitionism-ethics） | 学界通行（功利主义史标准译名） | 2026-11-09 |
 | hedonism | — | 快乐主义 | 语料回收 | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
 | Hegelianism | — | 黑格尔主义 | 语料回收（specs/050 候选池） | 条目语境研判（与 Aristotelianism=亚里士多德主义 同族；审定“黑格尔哲学”留亦作）；审定名词库（termonline-all·马克思主义·哲学·马克思恩格斯时期，2026-11-18 JWT 直连凭证，审定作“黑格尔哲学”） | 2026-11-19 |
@@ -3106,6 +3107,7 @@
 | higher understanding | — | 高级理解 | dilthey 首译 | 狄尔泰通行（höheres Verstehen）；凭证 2026-11-10 | 2026-11-10 |
 | higher-order evidence | — | 高阶证据 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | higher-order logic | — | 高阶逻辑 | ontology-is | 逻辑学通行；凭证 2026-11-11 | 2026-11-11 |
+| higher-order reasoning | — | 高阶推理 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-24）；凭证 2026-11-24 | 2026-11-24 |
 | higher-order type | — | 高阶类型 | music | Puy 术语（higher-order types）；凭证 2026-11-09 | 2026-11-09 |
 | highest good | — | 至善 | 语料回收（specs/058 全库提取） | 学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22） | 2026-11-22 |
 | ḥikma dhawqiyya | حكمة ذوقية | 品味智慧 | ibn-kammuna | 学界通行（苏哈拉瓦迪以直觉为本的智慧形态）；凭证 2026-11-10 | 2026-11-10 |
@@ -3172,6 +3174,7 @@
 | host(圣体) | host | 圣体 | gadamer-aesthetics | 本词条译名（天主教弥撒用语，伽达默尔喻作品承载超越意义）；凭证 2026-11-12；键形归一 2026-11-21：全角括注／斜线改半角（键须为源语形）；旧键 host（圣体）；旧键“consecrated host”并入（2026-11-21 撞形残余并键；旧键首现：s/sovereignty 首译） | 2026-11-21 |
 | Hou Han Shu | 後漢書 | 《后汉书》 | han-dynasty | 学界通行学名 | 2026-11-10 |
 | householder | — | 在家众 | 首现（buddha） | 佛学界通行（与出家众对项）；凭证 2026-11-12 | 2026-11-12 |
+| how-possibly explanations | — | 如何可能说明 | 语料回收（specs/058 全库提取） | 审定名词库（termonline-all，凭证 2026-11-24） | 2026-11-24 |
 | hrasva | ह्रस्व | 短 | early-modern-india | 胜论维度义译（与 dīrgha 长对举）；凭证 2026-11-10 | 2026-11-10 |
 | hua | 花 | 华（浮华） | han-dynasty | 王充（flowery）；上游原文作“花” | 2026-11-10 |
 | Hua-yen / Huayan / Kegon | 華厳 | 华严 | kukai | 佛教汉语传统（华严宗；日读 Kegon） | 2026-11-09 |
@@ -3346,6 +3349,7 @@
 | implication | — | 蕴涵 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·计算机科学技术·人工智能·自动推理，2026-11-18 JWT 直连凭证）；撞形豁免 2026-11-21：实质蕴涵（implication）与语义蕴涵（entailment）同形异义，不合并 | 2026-11-21 |
 | implicationism | — | 蕴涵主义 | deductivism-mathematics | Rheinwald 1984 属名（含句法/语义两个种）；凭证 2026-11-08 | 2026-11-08 |
 | implicit bias | — | 内隐偏见 | 语料回收（词汇表并网） | 学界惯例（词汇表并网迁移）；词汇表并网（ADR-0036）；审定库无相关命中（termonline-all 凭证 2026-11-13）| 2026-11-13 |
+| implicit conventions | — | 隐含约定 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-24）；凭证 2026-11-24 | 2026-11-24 |
 | implicit definition | — | 隐定义 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·自然辩证法·科学哲学·一般科学哲学·意义标准，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | implicit premise | — | 隐含前提 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | import | Gehalt | 意蕴（阿多诺美学语境；与 Hegel Gehalt 意蕴一脉） | adorno | 学界通行汉译（黑格尔/阿多诺美学中译通行）；凭证 2026-11-10 | 2026-11-10 |
@@ -3429,12 +3433,14 @@
 | inductive leap | — | 归纳跳跃 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | inductive logic | — | 归纳逻辑 | 语料回收（specs/058 全库提取） | 审定名词库（自然辩证法名词·自然辩证法_科学哲学_一般科学哲学_归纳，2024；凭证 2026-11-22） | 2026-11-22 |
 | inductive risk | — | 归纳风险 | cancer；risk | 学界惯例（Hempel 1965 以来科学哲学通行）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
+| inductive strategy | — | 归纳策略 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-24）；凭证 2026-11-24 | 2026-11-24 |
 | inductive validity | — | 归纳有效性 | logical-consequence | 归纳逻辑通行译法；凭证 2026-11-09 | 2026-11-09 |
 | inductive-statistical (IS) explanation | — | 归纳—统计解释 | 首译（scientific-explanation-20th） | 学界通行（Hempel 1965b）；凭证 2026-11-10 | 2026-11-10 |
 | inductivism | — | 归纳主义 | 语料回收（lakatos 首译） | 科学哲学界通行译法；凭证 2026-11-06 | 2026-11-06 |
 | industrial revolution | — | 工业革命 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·自然辩证法·技术哲学·一般技术哲学，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | Inequality | — | 不平等 | 语料回收（specs/050 候选池） | 条目语境研判（政治哲学核心词（inequality 词条）；审定“不等式”为数学义）；审定名词库（termonline-all·数学·数学通类，2026-11-18 JWT 直连凭证，审定作“不等式”） | 2026-11-19 |
 | inequality aversion | — | 不平等厌恶 | justice-moral-psych | 行为经济学通行汉译；凭证 2026-11-10 | 2026-11-10 |
+| inequity aversion | — | 不公平厌恶 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-24）；凭证 2026-11-24 | 2026-11-24 |
 | inertia | — | 惯性 | newton-principia | 物理学通行；凭证 2026-11-11 | 2026-11-11 |
 | inertial frame / Inertial Frames | — | 惯性系（亦作“惯性参考系”） | spacetime-convensimul；语料回收（词汇表并网） | 学界惯例（物理学通行）；2026-11-13 重复行合并（旧键 `Inertial Frames`） | 2026-11-13 |
 | inertial mass | — | 惯性质量 | 语料回收（specs/058 全库提取） | 审定名词库（termonline-all，凭证 2026-11-23） | 2026-11-23 |
@@ -3500,6 +3506,7 @@
 | inner imitation | — | 内模仿 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | inner models | — | 内模型 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | inner morality | — | 内在道德 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
+| inner negation | — | 内否定 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-24）；凭证 2026-11-24 | 2026-11-24 |
 | inner perception | — | 内知觉 | brentano-judgement 首译 | 布伦塔诺术语通行译法（与外知觉 outer perception 对举）；凭证 2026-11-09 | 2026-11-09 |
 | inner product | — | 内积 | qm | 审定名词库（数学名词 05.488）；凭证 2026-11-10 | 2026-11-11 |
 | inner sensation | — | 内感觉 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
@@ -3648,6 +3655,7 @@
 | intuitive understanding | — | 直观知性 | kant-science | 邓晓芒/李秋零译本通行 | 2026-11-05 |
 | INUS condition | INUS | INUS 条件（不充分但必要的部分，属于本身不必要却充分的条件） | necessary-sufficient | Mackie 术语；凭证 2026-11-08 | 2026-11-08 |
 | invariance | — | 不变性 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·物理学·通类·物理，2026-11-18 JWT 直连凭证） | 2026-11-19 |
+| invariance condition | — | 不变性条件 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-24）；凭证 2026-11-24 | 2026-11-24 |
 | inverse method | — | 逆方法 | 首现（william-jevons） | 学界惯例（归纳法语境拉普拉斯式逆概率）；凭证 2026-11-07 | 2026-11-07 |
 | inverse probabilities | — | 逆概率 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | inverse-square (central force) | — | 平方反比（中心力） | newton | 物理学通行；凭证 2026-11-08 | 2026-11-08 |
@@ -3925,6 +3933,7 @@
 | Laws of Thought | — | 思维规律 | 首现（william-jevons） | 学界通行（19 世纪逻辑学通行译名，Jevons/Boole 语境） | 2026-11-07 |
 | Lazy Argument | — | 懒惰论证 | dialectical-school | 学界通行（“懒惰论证”通行译法）；凭证 2026-11-07 | 2026-11-07 |
 | leader election problem | — | 首领选举问题 | s/social-procedures 首译 | 学界通行译法（分布式计算通行）；凭证 2026-11-07 | 2026-11-07 |
+| leaf node | — | 叶节点 | 语料回收（specs/058 全库提取） | 审定名词库（termonline-all，凭证 2026-11-24） | 2026-11-24 |
 | league of nations | — | 国联（诸国联盟） | 首译（cosmopolitanism） | 康德术语学界通行（Völkerbund，非 20 世纪国际联盟）；凭证 2026-11-09 | 2026-11-09 |
 | learnedness | — | 学识（托马修斯 Gelahrheit／Gelehrsamkeit） | 18thGerman-preKant | 据作者英译 gloss 直译；中文通行译法；凭证 2026-11-05；审定库无相关命中（termonline-all 凭证 2026-11-10）| 2026-11-05 |
 | least upper bound | — | 最小上界 | 首现（boolalg-math） | 学界惯例（序理论通行译名）；删亦作“上确界”（与他行主译撞形，2026-11-21 撞形处置） | 2026-11-21 |
@@ -3935,6 +3944,7 @@
 | Lebensstellung | Lebensstellung | 生活态度 | yorck 首译 | B 档：词面直译（作者英译 stance towards life）；凭证 2026-11-11 | 2026-11-11 |
 | Lectures on Ethics | — | 《伦理学讲座》 | 语料回收（specs/058 全库提取） | 权威译本（康德著作通行汉译；审定库无对口条目，2026-11-22）；凭证 2026-11-22 | 2026-11-22 |
 | left-continuous | — | 左连续 | logic-fuzzy | 数学通行译法；凭证 2026-11-09 | 2026-11-09 |
+| legal accountability | — | 法律问责 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-24）；凭证 2026-11-24 | 2026-11-24 |
 | legal authority | — | 法律权威 | 语料回收（specs/050 候选池） | 条目语境研判（语境为法律权威（aquinas/causation-law）；审定“法理型权威”系韦伯 legal-rational authority 义）；审定名词库（termonline-all·管理科学技术·一般管理理论·管理思想史，2026-11-18 JWT 直连凭证，审定作“法理型权威”） | 2026-11-19 |
 | legal facts | — | 法律事实 | 语料回收（specs/058 全库提取） | 审定名词库（termonline-all，凭证 2026-11-23） | 2026-11-23 |
 | legal fiction | — | 法律拟制 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
@@ -4307,6 +4317,7 @@
 | mechanism | — | 机械论 | 语料回收 | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核在案（同名噪声/辅助档差异，保留现译 2026-10-29）；FLAG 裁定 2026-11-21：2026-10-29 审定复核保留“机械论”，维持（机制义见机制设计族）（维持现译） | 2026-11-21 |
 | mechanism design theory | — | 机制设计理论 | s/social-procedures 首译 | 审定名词（经济学名词）；凭证 2026-11-07 | 2026-11-07 |
 | mechanism model | — | 机制模型 | 语料回收（specs/050 候选池） | 条目语境研判（科学哲学机制解释固定词；审定“机理性模型”冗缀）；审定名词库（termonline-all·农业信息·农业信息技术，2026-11-18 JWT 直连凭证，审定作“机理性模型”） | 2026-11-19 |
+| mechanism sketch | — | 机制草图 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-24）；凭证 2026-11-24 | 2026-11-24 |
 | mechanistic explanation | — | 机械论解释（亦作“机制说明”） | cancer | 学界通行（科学哲学）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug）；2026-11-15 补亦作（审定形；机制说明文献并行） | 2026-11-15 |
 | mechanistic knowledge | — | 机制性知识 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | mediated appreciation | — | 中介化欣赏 | 首译（environmental-aesthetics） | 本词条术语（经表征的中介欣赏） | 2026-11-08 |
@@ -4329,6 +4340,7 @@
 | mental activity | — | 心理活动 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·心理学·理论心理学与心理学史，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | mental causation | — | 心灵因果 | epiphenomenalism | 与 SUMMARY 词条名及“相关词条”定名一致；凭证 2026-11-12 | 2026-11-12 |
 | mental content | — | 心理内容 | 语料回收 | 审定名词库（termonline-all·自然辩证法名词·科学哲学，2026-10-29 浏览器通道凭证） | 2026-10-29 |
+| mental dictionary | — | 心理词典 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-24）；凭证 2026-11-24 | 2026-11-24 |
 | mental disorder | — | 精神障碍 | 语料回收（specs/058 全库提取） | 审定名词库（termonline-all，凭证 2026-11-23） | 2026-11-23 |
 | mental episodes(blo) | — | 心识事件（blo） | epistemology-language-tibetan | 直译+括注（blo=心）；原文列：工具书查无原生文字（2026-11-20 检 wisdomlib／GND／BDRC／84000／Logeion，均无“转写↔原生文字”显式配对，部分源不可达；映射表推演禁用，ADR-0030）；键形归一 2026-11-21：全角括注／斜线改半角（键须为源语形）；旧键 mental episodes（blo） | 2026-11-21 |
 | mental events | — | 心理事件（戴维森语境） | 语料回收 | 学界惯例（心灵哲学通行）；审定库无直接收录（凭证 2026-10-29） | 2026-10-29 |
@@ -4343,6 +4355,7 @@
 | mental representations | — | 心理表征 | 语料回收（specs/058 全库提取） | 审定名词库（自然辩证法名词·自然辩证法_科学哲学_分支科学哲学_认知科学哲学，2024；凭证 2026-11-22） | 2026-11-22 |
 | mental state (divine) | — | 心灵状态 | god-necessary-being | 按 mental states 在册行“亦作心灵状态，按语境”取用（神圣心灵语境锁定此形） | 2026-11-09 |
 | mental states | — | 心理状态（亦作“精神状态”“心灵状态”，按语境） | 语料回收（全目录） | A 档裁定（008 池裁定 2026-10-28）；学界通行译名 | 2026-10-28 |
+| mental time-travel | — | 心理时间旅行 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-24）；凭证 2026-11-24 | 2026-11-24 |
 | mentalism | — | 心灵主义 | 语料回收（specs/050 候选池） | 条目语境研判（语言哲学意义内在论；避让 psychologism=心理主义）；审定名词库（termonline-all·心理学·理论心理学与心理学史，2026-11-18 JWT 直连凭证，审定作“心理主义”） | 2026-11-19 |
 | mercantilism | — | 重商主义 | cosmopolitanism | 学界通行（经济思想史）；凭证 2026-11-09 | 2026-11-09 |
 | mere addition | — |纯粹增加（亦作“单纯增加”）| repugnant-conclusion | 学界通行（Parfit 术语 mere addition；亦作“单纯增加”）；凭证 2026-11-11 | 2026-11-11 |
@@ -4910,6 +4923,7 @@
 | non-bivalent world | — | 非二值世界 | logic-relevance | 多值逻辑通行译法；凭证 2026-11-09 | 2026-11-09 |
 | non-coding RNA | — | 非编码 RNA | cancer | 学界通行（分子生物学）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
 | non-cognitivism | — | 非认知主义 | 语料回收（全目录） | A 档裁定（008 池裁定 2026-10-28）；学界通行译名 | 2026-10-28 |
+| non-collapse interpretation | — | 非坍缩诠释 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-24）；凭证 2026-11-24 | 2026-11-24 |
 | non-conceptual content | — | 非概念内容 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | non-consequentialism | — | 非后果主义 | 首译（stem-cells） | 学界惯例（与已登记“后果论（亦作后果主义）”配对）；凭证 2026-11-09 | 2026-11-09 |
 | non-contemporaneity (Ungleichzeitigkeit) | — | 非同时性 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
@@ -4981,6 +4995,7 @@
 | Novum Organum | Novum Organum | 《新工具》（培根） | 语料回收（标题词）；语料回收（词汇表并网） | 学界惯例（培根著作译名）；审定库无相关命中（凭证 2026-10-31）；学界惯例（词汇表并网迁移）；词汇表并网（ADR-0036）；审定库无相关命中（termonline-all 凭证 2026-11-13）；2026-11-20 同概念合并（旧键 `Novum Organum Scientiarum` 并入） | 2026-10-31 |
 | NP-complete | — | NP 完全 | qt-entangle | 学界通行译名（计算复杂性理论）；凭证 2026-11-09 | 2026-11-09 |
 | nude mice | — | 裸鼠 | cancer | 学界通行（实验动物学）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
+| nuisance parameters | — | 冗余参数 | 语料回收（specs/058 全库提取） | 审定名词库（termonline-all，凭证 2026-11-24） | 2026-11-24 |
 | Nüjie | 女誡 | 《女诫》 | han-dynasty | 班昭书，学界通行学名 | 2026-11-10 |
 | null cone | — | 零锥（亦作“类光锥”） | spacetime-convensimul | 学界惯例（相对论通行） | 2026-11-06 |
 | null hypotheses | — | 零假设 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
@@ -5298,6 +5313,7 @@
 | pattern formation | — | 模式形成 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·动物学·动物胚胎学·细胞分化与发育，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | pattern recognition | — | 模式识别 | innateness-cognition | 学界通行；凭证 2026-11-12 | 2026-11-12 |
 | payoff function | — | 支付函数 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·管理科学技术·运筹与管理·对策理论与方法，2026-11-18 JWT 直连凭证） | 2026-11-19 |
+| peace education | — | 和平教育 | 语料回收（specs/058 全库提取） | 审定名词库（termonline-all，凭证 2026-11-24） | 2026-11-24 |
 | Peace of Augsburg | — | 奥格斯堡和约 | s/sovereignty 首译 | 学界通行译名（宗教改革研究通行）；凭证 2026-11-07 | 2026-11-07 |
 | Peace of Westphalia | — | 威斯特伐利亚和约（和会语境作“威斯特伐利亚和会”） | s/sovereignty 首译 | 学界通行译名（近代早期欧洲史通行）；凭证 2026-11-07 | 2026-11-07 |
 | peaceful coexistence | — | 和平共处 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·世界历史·综合·世界政治、世界经济，2026-11-18 JWT 直连凭证） | 2026-11-19 |
@@ -5488,6 +5504,7 @@
 | plural voting | — | 复数投票 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | pluralism | — | 多元主义 | 语料回收（词汇表并网） | 学界惯例（词汇表并网迁移）；词汇表并网（ADR-0036）；审定库一致（termonline-all 凭证 2026-11-13）| 2026-11-13 |
 | pluralist | — | 多元论者 | heraclitus 首译 | 学界通行（与 monist 一元论者对举）；凭证 2026-11-09 | 2026-11-09 |
+| pluralist cosmopolitanism | — | 多元世界主义 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-24）；凭证 2026-11-24 | 2026-11-24 |
 | pluralist theories | — | 多元论 | 语料回收（词汇表并网） | 学界惯例（词汇表并网迁移）；词汇表并网（ADR-0036）；审定库无相关命中（termonline-all 凭证 2026-11-13）| 2026-11-13 |
 | pluralistic ignorance | — | 多元无知 | 语料回收（specs/050 候选池） | 条目语境研判（社会认识论通行多元无知；审定“多数无知现象”非通行形）；审定名词库（termonline-all·心理学，2026-11-18 JWT 直连凭证，审定作“多数无知现象”） | 2026-11-19 |
 | pluralistic relativism | — | 多元相对主义 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
@@ -5516,6 +5533,7 @@
 | political economy | — | 政治经济学 | 语料回收（specs/058 全库提取） | 审定名词库（马克思主义·马克思主义_政治经济学_马克思恩格斯时期，2025；凭证 2026-11-22） | 2026-11-22 |
 | political institutions | — | 政治制度 | 语料回收（specs/058 全库提取） | 学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22） | 2026-11-22 |
 | political liberalism | — | 政治自由主义 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
+| political moralism | — | 政治道德主义 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-24）；凭证 2026-11-24 | 2026-11-24 |
 | political obligation | — | 政治义务 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | political philosophy | — | 政治哲学 | 语料回收 | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
 | political representation | — | 政治代表 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
@@ -5772,9 +5790,11 @@
 | Prisoner’s Dilemma | — | 囚徒困境 | 语料回收 | 审定名词库（termonline-all·经济学/管理学名词，2026-10-30 浏览器通道凭证） | 2026-10-30 |
 | privacy | — | 隐私 | 首现（it-moral-values） | 哲学与法学通行译名；凭证 2026-11-10 | 2026-11-10 |
 | privacy paradox | — | 隐私悖论 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
+| private government | — | 私人政府 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-24）；凭证 2026-11-24 | 2026-11-24 |
 | private information | — | 私人信息 | 语料回收（specs/050 候选池） | 条目语境研判（博弈论通行私人信息；审定“私有信息”为电力市场义）；审定名词库（termonline-all·电力·调度与通信、电力市场，2026-11-18 JWT 直连凭证，审定作“私有信息”） | 2026-11-19 |
 | private judgment | — | 私人判断 | godwin | 学界通行汉译（宗教与政治哲学传统译名）；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-10 |
 | private language argument | — | 私人语言论证 | 首现（zombies） | 学界惯例（维特根斯坦术语通译）；凭证 2026-11-10 | 2026-11-10 |
+| private object | — | 私人对象 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-24）；凭证 2026-11-24 | 2026-11-24 |
 | private property | — | 私有财产 | 语料回收（specs/058 全库提取） | 学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22） | 2026-11-22 |
 | privation | privatio | 缺失 | 首译（sharpe） | 亚里士多德—经院三原则（质料/形式/缺失）通行汉译；张竹明译《物理学》作“缺乏”，本库取“缺失”与 substance/form 并列，登记后统一；凭证 2026-11-09 | 2026-11-09 |
 | privation theory (of evil) | privatio boni | 褫夺论 | evil-kinds-origins | 本词条译名（与 privation 缺失 分列） | 2026-11-12 |
@@ -5794,6 +5814,7 @@
 | probability space | — | 概率空间 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·数学·概率论·数理统计·概率空间，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | probability theory | — | 概率论 | 语料回收 | 审定名词库（termonline-all·数学名词，2026-10-29 浏览器通道凭证） | 2026-10-29 |
 | problem of induction | — | 归纳问题 | 语料回收（specs/058 全库提取） | 审定名词库（termonline-all，凭证 2026-11-23） | 2026-11-23 |
+| problem of the many | — | 多一问题 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-24）；凭证 2026-11-24 | 2026-11-24 |
 | problem of universals | — | 共相问题 | 语料回收（词汇表并网） | 对齐登记册（termonline-standard GB 标准库凭证 2026-10-28；审定库复核 2026-10-29 保留现译）；旧译“普遍性问题”不采；词汇表并网（ADR-0036）；旧键“problem of universals / universals”并入（2026-11-21 FLAG 裁定；旧键首现：词汇表复核） | 2026-11-21 |
 | problem-shift | — | 问题转换 | 语料回收（lakatos 首译） | 科学研究纲领方法论通行译法；凭证 2026-11-06 | 2026-11-06 |
 | problematic idealism | — | 问题性唯心论 | kant-transcendental | 学界通行（康德 B274 problematischer Idealismus）；凭证 2026-11-11 | 2026-11-11 |
@@ -5822,6 +5843,8 @@
 | projection | — | 投射 | 语料回收（specs/050 候选池） | 条目语境研判（心灵/美学语境投射（阿多诺虚假投射、表达投射说）；审定“预测”为传媒预测义不采）；审定名词库（termonline-all·新闻学与传播学·传媒经济·传媒经济研究，2026-11-18 JWT 直连凭证，审定作“预测”） | 2026-11-19 |
 | projection function | — | 投影函数 | belief-merging | 直译（Everaere et al. 2015 术语）；凭证 2026-11-10 | 2026-11-10 |
 | projection postulate | — | 投影公设 | qm-relational | 量子力学教科书通行（与坍缩公设同族）；凭证 2026-11-11 | 2026-11-11 |
+| projection rules | — | 投影规则 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-24）；凭证 2026-11-24 | 2026-11-24 |
+| projective determinacy | — | 投影确定性 | 语料回收（specs/058 全库提取） | 审定名词库（termonline-all，凭证 2026-11-24） | 2026-11-24 |
 | projective geometry | — | 射影几何 | 语料回收（mathematics-inconsistent 首译） | 数学界通行译法；凭证 2026-11-06 | 2026-11-06 |
 | projective sets | — | 射影集合 | 语料回收（set-theory） | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核在案（同名噪声/辅助档差异，保留现译 2026-10-29） | 2026-10-27 |
 | projectivism | — | 投射主义 | hobbes-moral 首译 | 学界通行（元伦理学）；凭证 2026-11-09 | 2026-11-09 |
@@ -5908,6 +5931,7 @@
 | pseudogene | — | 假基因 | ecological-genetics 首译 | 学界通行译名；凭证 2026-11-09 | 2026-11-09 |
 | psuchê (ψυχή) | ψυχή | 灵魂（保留希腊原词括注） | ancient-soul 首译 | 学界惯例（古希腊哲学研究通行；与 soul“灵魂”同形分条留痕）；撞形豁免 2026-11-21：同形异语／同概念异形，按条目语境区分，不合并 | 2026-11-21 |
 | psychical distance | — | 心理距离 | 首现（erotic-art） | 美学通行（Bullough 术语） | 2026-11-08 |
+| psychological altruists | — | 心理利他主义者 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-24）；凭证 2026-11-24 | 2026-11-24 |
 | psychological egoism | — | 心理利己主义 | hobbes-moral 首译 | 学界通行（霍布斯伦理学研究通行译法）；凭证 2026-11-09 | 2026-11-09 |
 | psychological functionalism | — | 心理学功能主义 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·自然辩证法·科学哲学·分支科学哲学·认知科学哲学，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | psychological mechanism | — | 心理机制 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·心理学，2026-11-18 JWT 直连凭证） | 2026-11-19 |
@@ -5927,6 +5951,7 @@
 | public policy | — | 公共政策 | 语料回收（specs/058 全库提取） | 学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22） | 2026-11-22 |
 | public political culture | — | 公共政治文化 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | public power | — | 公共权力 | global-democracy 首译 | 学界通行（国际权威研究） | 2026-11-12 |
+| public purpose | — | 公共目的 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-24）；凭证 2026-11-24 | 2026-11-24 |
 | public reflective equilibrium | — | 公共反思平衡 | reflective-equilibrium | 学界惯例（Baderin 2017 术语）；凭证 2026-11-11 | 2026-11-11 |
 | public sphere | — | 公共领域 | 语料回收（specs/058 全库提取） | 学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22） | 2026-11-22 |
 | public values | — | 公共价值 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
@@ -5949,6 +5974,7 @@
 | purposive enterprise | — | 目的性事业 | oakeshott 首译 | 学界惯例（同上）；凭证 2026-11-07 | 2026-11-07 |
 | purposive thinking | — | 有目的的思维 | 首译（stebbing） | 斯泰宾术语（Thinking to Some Purpose 主旨；承书名译法）；凭证 2026-11-09 | 2026-11-09 |
 | purposiveness | — | 合目的性 | dilthey 首译 | 与康德 Zweckmäßigkeit 既有译法相承；凭证 2026-11-10 | 2026-11-10 |
+| purposiveness without purpose | — | 无目的的合目的性 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-24）；凭证 2026-11-24 | 2026-11-24 |
 | Putnam's paradox | — | 普特南悖论 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | puzzle boxes | — | 迷箱 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-24）；凭证 2026-11-24 | 2026-11-24 |
 | Pyrrhonism | — | 皮浪主义 | 首现（timon-phlius） | 学界惯例（希腊化怀疑论学派名；SUMMARY 定名）；凭证 2026-11-07 | 2026-11-07 |
@@ -6035,6 +6061,7 @@
 | quietism | — | 寂静主义 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
 | Quine's paradox | — | 蒯因悖论 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | Quine-Duhem thesis | — | 蒯因-迪昂论题（审定作“迪昂-诺伊拉特-蒯因命题”） | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
+| quinque voces | — | 五谓 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-24）；凭证 2026-11-24 | 2026-11-24 |
 | quodlibetal questions | quaestiones quodlibetales |自由论题（亦作“自由论辩问题”）| 首现（crathorn） | 中世纪大学辩论体 quodlibet 通行译法（亦作“自由论辩问题”备查）；凭证 2026-11-07 | 2026-11-07 |
 | Quodlibets(奥卡姆) | Quodlibeta Septem | 《自由论题》（Seven Quodlibets 作《七个自由论题》） | ockham | 沿本册 quodlibetal questions=自由论题；凭证 2026-11-07；键形归一 2026-11-21：全角括注／斜线改半角（键须为源语形）；旧键 Quodlibets（奥卡姆） | 2026-11-21 |
 
@@ -6072,6 +6099,7 @@
 | random genetic drift | — | 随机遗传漂变 | ecological-genetics 首译 | genetic drift“遗传漂变”（既有行）修饰形，学界通行；凭证 2026-11-09 | 2026-11-09 |
 | random reset | — | 随机重置 | dynamic-semantics | 学界通行；凭证 2026-11-12 | 2026-11-12 |
 | random sequence | — | 随机序列 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·信息科学技术，2026-11-18 JWT 直连凭证） | 2026-11-19 |
+| random walk | — | 随机游走（审定作“无规行走”） | 语料回收（specs/058 全库提取） | 审定名词库（termonline-all，凭证 2026-11-24） | 2026-11-24 |
 | rank | — | 秩 | quine-nf | 集合论通行译名；凭证 2026-11-09 | 2026-11-09 |
 | rank reversal | — | 地位逆转 | justice-moral-psych | Li 等 2022 术语（rank-reversal condition）；凭证 2026-11-10 | 2026-11-10 |
 | rank-dependent utility | — |秩依效用（亦作“秩依概率效用”）| risk | 学界惯例（Quiggin 1982；亦作“秩依概率效用”）；凭证 2026-11-09 | 2026-11-09 |
@@ -6098,6 +6126,7 @@
 | re-experiencing | — | 再体验 | dilthey 首译 | 狄尔泰诠释学通行（Nacherleben）；凭证 2026-11-10；撞形豁免 2026-11-21：同形异语／同概念异形，按条目语境区分，不合并 | 2026-11-21 |
 | reaction norm | — | 反应规范 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·医学遗传学·医学遗传学基础·总论，2026-11-18 JWT 直连凭证）；旧键“norm of reaction”并入（2026-11-21 撞形处置；旧键首现：ecological-genetics 首译） | 2026-11-21 |
 | reactive attitudes | — | 反应性态度 | blame 首译 | 学界通行译名（责备伦理学文献）；凭证 2026-11-07 | 2026-11-07 |
+| read-write head | — | 读写头（审定作“读写磁头”） | 语料回收（specs/058 全库提取） | 审定名词库（termonline-all，凭证 2026-11-24） | 2026-11-24 |
 | readiness potential | — | 预备电位 | epiphenomenalism | Libet 实验术语（readiness potential, RP）学界通行；凭证 2026-11-12 | 2026-11-12 |
 | real definition | — | 实在定义 | object 首译 | 学界通行汉译（与名义定义对举）；凭证 2026-11-07 | 2026-11-07 |
 | real distinction | distinctio realis | 实在区分 | 首译（sharpe） | 学界通行（与 formal distinction 形式区分对举；司各脱研究文献）；凭证 2026-11-09 | 2026-11-09 |
@@ -6982,6 +7011,7 @@
 | species concept | — | 物种概念 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | species monism | — | 物种一元论 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | species pluralism | — | 物种多元论 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
+| species problem | — | 物种问题 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-24）；凭证 2026-11-24 | 2026-11-24 |
 | species richness | — | 物种丰富度 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·植物学·植物生态学·植物多样性与保护，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | species selection | — | 物种选择 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·古生物学·总论，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | species specialissima | species specialissima | 最狭义的种 | 首译（sharpe） | 中世纪逻辑通行（波菲利树最低种；与 genus generalissimum 最高属对举）；凭证 2026-11-09 | 2026-11-09 |
@@ -7016,6 +7046,7 @@
 | spiritus | — | 精气 | 首现（telesio） | 学界惯例（文艺复兴自然主义 spiritus 通译精气/元气，取精气）；凭证 2026-11-08；撞形豁免 2026-11-21：同形异语／同概念异形，按条目语境区分，不合并 | 2026-11-21 |
 | spiritus e semine eductus | — | 由种子导出的精气 | 首现（telesio） | 照文直译（特莱西奥《论物性》卷五术语）；凭证 2026-11-08 | 2026-11-08 |
 | spiritus naturalis / vitalis / animalis | — | 自然精气／活力精气／动物精气 | 首现（telesio） | 学界通行（盖伦三精气通译）；凭证 2026-11-08 | 2026-11-08 |
+| split brain | — | 裂脑（审定亦作“分裂脑”） | 语料回收（specs/058 全库提取） | 审定名词库（termonline-all，凭证 2026-11-24） | 2026-11-24 |
 | spontaneity | — | 自发性 | 18thGerman-preKant | 学界通行汉译（康德译本通行）；凭证 2026-11-05 | 2026-11-05 |
 | spontaneous acts | — | 自发行为 | reinach | 学界惯例（spontane Akte 研究文献）；凭证 2026-11-09；旧键“spontaneous conduct”并入（2026-11-21 逐行研判；旧键首现：moral-responsibility-empirical） | 2026-11-21 |
 | spontaneous generation | — | 自然发生说（亦作“自然发生”） | natphil-ren | 审定名词库（termonline-all·动物学/微生物学名词，2026-11-11 浏览器通道凭证）；abiogenesis 前身之说 | 2026-11-11 |
@@ -7399,6 +7430,7 @@
 | tawāṭur | تواتر | 大量传递 | ibn-taymiyya | 学界惯例（传述学；与 mutawātir 同族） | 2026-11-12 |
 | tawḥīd | توحيد | 认主独一（讨黑德） | arabic-islamic-* 集群 | 学界通行 | 2026-10-28 |
 | taxon | — | 分类单元 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
+| taxonomic incommensurability | — | 分类学不可通约性 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-24）；凭证 2026-11-24 | 2026-11-24 |
 | taxonomy | — | 分类系统 | cancer | 学界通行（生物学哲学；本条作“统一的分类系统”义）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
 | taʾwīl | تأويل（التأويل） | 精神释经（隐义解经） | arabic-islamic-mysticism | 什叶派/苏非释经学通行 | 2026-11-07 |
 | taʿārīf | تعاریف | 定义（definitions；与 ḥudūd 界定同义连用） | arabic-islamic-phil-math | 学界通行；撞形豁免 2026-11-21：同形异语／同概念异形，按条目语境区分，不合并 | 2026-11-21 |
@@ -7423,6 +7455,7 @@
 | template-text | — | 模板文本 | schema | 构词直译（Corcoran 术语） | 2026-11-06 |
 | temporal / non-temporal Gestalt qualities | — | 时间性／非时间性格式塔质 | ehrenfels | 厄棱费尔对格式塔质的两分（1890）；凭证 2026-11-13 | 2026-11-13 |
 | temporal atomism | — | 时间原子论 | diodorus-cronus | 学界通行（时间由离散不可分单位构成之说）；凭证 2026-11-07 | 2026-11-07 |
+| temporal authority | — | 世俗权威 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-24）；凭证 2026-11-24 | 2026-11-24 |
 | temporal consciousness | — | 时间意识 | 语料回收（词汇表并网） | 学界惯例（词汇表并网迁移）；词汇表并网（ADR-0036）；审定库无相关命中（termonline-all 凭证 2026-11-13）| 2026-11-13 |
 | temporal logic | — | 时态逻辑 | logic-dynamic | 逻辑学通行译法；凭证 2026-11-10 | 2026-11-09 |
 | temporal orientation | — | 时间取向 | spacetime-convensimul | 学界惯例（时空哲学通行） | 2026-11-06 |
@@ -8021,6 +8054,7 @@
 | visual perception | — | 视知觉（审定；亦作“视觉感知”“视觉知觉”） | 语料回收 | 审定名词库（termonline-all·心理学·认知与实验心理学，2026-10-31 浏览器通道凭证） | 2026-10-31 |
 | visual prosthesis | — | 视觉假体 | 语料回收（molyneux-problem 首译） | 医学工程界通行译法；凭证 2026-11-06 | 2026-11-06 |
 | visual thinking in mathematics | — | 数学中的视觉思维 | 语料回收（词汇表并网） | 学界惯例（词汇表并网迁移）；词汇表并网（ADR-0036）；审定库无相关命中（termonline-all 凭证 2026-11-13）| 2026-11-13 |
+| vita contemplativa | — | 沉思生活 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-24）；凭证 2026-11-24 | 2026-11-24 |
 | vital activities | — | 生命活动 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | vital import | — | 生命意蕴 | langer 首译 | 朗格艺术术语（FF 32；《情感与形式》汉译语境）；凭证 2026-11-08 | 2026-11-08 |
 | vital movement | — | 生命运动 | gomez-pereira | 本词条译名（佩雷拉动物行为三分）；凭证 2026-11-12 | 2026-11-12 |
@@ -8168,6 +8202,7 @@
 | worldline | — | 世界线 | spacetime-holearg | A 档（物理学通行译名） | 2026-10-28 |
 | wretched subterfuge | — | 卑劣的遁词 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-24）；凭证 2026-11-24 | 2026-11-24 |
 | wrongful exploitation | — | 不当剥削 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
+| wrongful threats | — | 不当威胁 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-24）；凭证 2026-11-24 | 2026-11-24 |
 | wu lun | 五倫 | 五伦 | han-dynasty | 儒学通行（Five Relationships） | 2026-11-10 |
 | wuji | 无极 | 无极（free of polarity 无极） | zhu-xi 首译 | 学界通行（周敦颐《太极图说》首语；汉字回译）；凭证 2026-11-15 | 2026-11-15 |
 | wujūb | وجوب | 必然化 | umar-khayyam | 本条作者英译 necessitation；逻辑学通行义译；FLAG 裁定 2026-11-21：原文列误填 وجود（wujūd 存在，属 wujūdī 行），正列为 وجوب | 2026-11-21 |

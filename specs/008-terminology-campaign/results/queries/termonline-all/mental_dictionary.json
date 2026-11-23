@@ -1,0 +1,742 @@
+{
+ "key": "mental dictionary",
+ "term": "mental dictionary",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T16:39:18+00:00",
+ "status": "ok",
+ "note": "variant=mental dictionary; 审定公布名词库=2939; 海峡两岸名词对照库=949; 其他来源数据库=70; 预公布名词数据库=115; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "词典",
+   "en": "dictionary ",
+   "source": "编辑与出版学名词",
+   "wordNumber": "07.02.080",
+   "subjectFullName": "编辑与出版学_出版物_图书",
+   "subjectName": "图书",
+   "publishYear": "2022",
+   "definition": "收集词汇，以词条为单元，按某种顺序排列并加以解释的工具书。"
+  },
+  {
+   "cn": "辞典",
+   "en": "dictionary",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.088",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_文献类型",
+   "subjectName": "文献类型",
+   "publishYear": "2019",
+   "definition": "（1）辞书的一种类型。以语言符号的指称物或比词大的语言单位（如短语、成语、习语等）为收录对象，逐一提供必要的知识信息。（2）包括词典和辞典在内的工具书。"
+  },
+  {
+   "cn": "词典",
+   "en": "dictionary",
+   "source": "语言学名词",
+   "wordNumber": "06.151",
+   "subjectFullName": "语言学_辞书学_辞书类型",
+   "subjectName": "辞书类型",
+   "publishYear": "2011",
+   "definition": "辞书的一种类型。汇集语词，以条目的形式分别处理，提供必要的词汇知识信息，并按一定方式编排以供查检。"
+  },
+  {
+   "cn": "辞典",
+   "en": "dictionary",
+   "source": "语言学名词",
+   "wordNumber": "06.152",
+   "subjectFullName": "语言学_辞书学_辞书类型",
+   "subjectName": "辞书类型",
+   "publishYear": "2011",
+   "definition": "①辞书的一种类型。以语言符号的指称物或比词大的语言单位（如短语、成语、习语、典故、掌故等）为收录对象，逐一提供必要的知识信息。②指包括词典和辞典在内的辞书。"
+  },
+  {
+   "cn": "颏孔点",
+   "en": "mentale",
+   "source": "人体解剖学名词",
+   "wordNumber": "02.0929",
+   "subjectFullName": "人体解剖学_运动系统_体质人类学",
+   "subjectName": "体质人类学",
+   "publishYear": "2014",
+   "definition": "下颌骨颏孔下缘的最低点。有时下颌骨的一侧同时出现两个以上的颏孔，古人类尤为多见，则颏孔点定为主颏孔下缘最低之点。"
+  },
+  {
+   "cn": "心理主义",
+   "en": "mentalism",
+   "source": "心理学名词",
+   "wordNumber": "04.153",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "以人的内部心理过程为研究重点的心理学理论。如冯特的内容心理学与当代的认知心理学。"
+  },
+  {
+   "cn": "心智主义",
+   "en": "mentalism",
+   "source": "语言学名词",
+   "wordNumber": "01.059",
+   "subjectFullName": "语言学_理论语言学_理论与方法",
+   "subjectName": "理论与方法",
+   "publishYear": "2011",
+   "definition": "语言学的一种观点。认为人的内部的心智活动与外显的行为表现是相互独立的，并且前者可以解释后者。"
+  },
+  {
+   "cn": "网络词典",
+   "en": "online dictionary,Internet dictionary",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.106",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_文献类型",
+   "subjectName": "文献类型",
+   "publishYear": "2019",
+   "definition": "建立在互联网平台上，可供在线查询的词典。"
+  },
+  {
+   "cn": "图解字典",
+   "en": "picture dictionary,visual dictionary",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.108",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_文献类型",
+   "subjectName": "文献类型",
+   "publishYear": "2019",
+   "definition": "以示意图、线条画、照片、绘画等图片作为主要释义手段，在图片描述基础上辅以文字说明进行释义的字典类型。"
+  },
+  {
+   "cn": "多语种对照词典",
+   "en": "multilingual dictionary,polyglot dictionary",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.101",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_文献类型",
+   "subjectName": "文献类型",
+   "publishYear": "2019",
+   "definition": "使用三种或三种以上文字的词典。是双语对照词典的扩大。一般仅列出各文种的对应词，无释文。"
+  },
+  {
+   "cn": "专科词典",
+   "en": "specialized dictionary,subject dictionary",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "03.090",
+   "subjectFullName": "图书馆·情报与文献学_信息资源建设_文献类型",
+   "subjectName": "文献类型",
+   "publishYear": "2019",
+   "definition": "词典的一种类型。针对某个特定读者群，汇集某一门类学科的词语，并介绍其含义和有关知识的词典。主要选收该学科的专业术语及学说、学派、人物、地名、著作、法规、制度、组织机构、事件、器物等的名称。"
+  },
+  {
+   "cn": "辞书评论",
+   "en": "dictionary review,dictionary criticism",
+   "source": "语言学名词",
+   "wordNumber": "06.016",
+   "subjectFullName": "语言学_辞书学_总论",
+   "subjectName": "总论",
+   "publishYear": "2011",
+   "definition": "从辞书学理论和使用等方面对辞书的编纂质量、功能特征等进行评价。是辞书理论研究的组成部分。"
+  },
+  {
+   "cn": "专科词典",
+   "en": "specialized dictionary,subject dictionary",
+   "source": "语言学名词",
+   "wordNumber": "06.162",
+   "subjectFullName": "语言学_辞书学_辞书类型",
+   "subjectName": "辞书类型",
+   "publishYear": "2011",
+   "definition": "与“普通词典”相对。词典的一种类型。针对某特定用户群，集中收录某一学科的专业词汇，并提供专业性释义。有单语、双语和多语专科词典之分。"
+  },
+  {
+   "cn": "语文词典",
+   "en": "language dictionary,linguistic dictionary",
+   "source": "语言学名词",
+   "wordNumber": "06.170",
+   "subjectFullName": "语言学_辞书学_辞书类型",
+   "subjectName": "辞书类型",
+   "publishYear": "2011",
+   "definition": "词典的主要类型。主要收录和诠释语言中普通词汇和常用百科词汇，重点提供其语音、形态、意义、语法和语用等方面的语言知识。语文词典有单语、双语、多语和双解之分。"
+  },
+  {
+   "cn": "语法词典",
+   "en": "grammar dictionary,grammatical dictionary",
+   "source": "语言学名词",
+   "wordNumber": "06.171",
+   "subjectFullName": "语言学_辞书学_辞书类型",
+   "subjectName": "辞书类型",
+   "publishYear": "2011",
+   "definition": "词典的一种类型。以解释语词语法功能和分布特征为主。可以包括各类词，也可以就某一类词单独编纂。例如动词词典、形容词词典等。"
+  },
+  {
+   "cn": "印刷版词典",
+   "en": "print dictionary,paper dictionary",
+   "source": "语言学名词",
+   "wordNumber": "06.256",
+   "subjectFullName": "语言学_辞书学_辞书类型",
+   "subjectName": "辞书类型",
+   "publishYear": "2011",
+   "definition": "与“电子词典”相对。词典的一种类型。以纸张为信息载体。"
+  },
+  {
+   "cn": "多功能词典",
+   "en": "multifunctional dictionary,polyfunctional dictionary",
+   "source": "语言学名词",
+   "wordNumber": "06.189",
+   "subjectFullName": "语言学_辞书学_辞书类型",
+   "subjectName": "辞书类型",
+   "publishYear": "2011",
+   "definition": "与“单功能词典”相对。词典的一种类型。旨在能同时满足用户多方面查阅需求。"
+  },
+  {
+   "cn": "概念词典",
+   "en": "conceptual dictionary,onomasiological dictionary",
+   "source": "语言学名词",
+   "wordNumber": "06.217",
+   "subjectFullName": "语言学_辞书学_辞书类型",
+   "subjectName": "辞书类型",
+   "publishYear": "2011",
+   "definition": "词典的一种类型。把一种语言的词汇或短语看成是语义关联的概念，概念可以是意义、想法、见解、词族及类似关系。典型的概念词典是“类义词典”和“同义词典”。"
+  },
+  {
+   "cn": "教学词典",
+   "en": "pedagogical dictionary,didactic dictionary",
+   "source": "语言学名词",
+   "wordNumber": "06.239",
+   "subjectFullName": "语言学_辞书学_辞书类型",
+   "subjectName": "辞书类型",
+   "publishYear": "2011",
+   "definition": "词典的一种类型。专门为满足教师和学习者的实际教学需求而编纂。按照不同层次的教学需要，选定收词范围，解释注重释疑和活用性，注音、拼写形式和语法注释注重规范性，释义详尽，用词简单，例证丰富，通俗易懂，还常"
+  },
+  {
+   "cn": "单向词典",
+   "en": "monodirectional dictionary,unidirectional dictionary",
+   "source": "语言学名词",
+   "wordNumber": "06.197",
+   "subjectFullName": "语言学_辞书学_辞书类型",
+   "subjectName": "辞书类型",
+   "publishYear": "2011",
+   "definition": "与“双向词典”相对。双语词典的一种类型。只能以源语词目为索引单位进行查询。"
+  },
+  {
+   "cn": "颏孔点",
+   "en": "mentale",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "心理账户",
+   "en": "mental account\",\"mental accounting",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "数据字典",
+   "en": "data dictionary",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "数据字典",
+   "en": "data dictionary",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "概念词典",
+   "en": "concept dictionary",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "故障词典，故障字典",
+   "en": "fault dictionary",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "惯用型词典",
+   "en": "expression dictionary",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "机器词典",
+   "en": "machine dictionary",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "术语词典，专业词典",
+   "en": "terminological dictionary",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "语义词典",
+   "en": "semantic dictionary",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自动字典",
+   "en": "automatic dictionary",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "颏结节",
+   "en": "mental tubercle",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "颏孔",
+   "en": "mental foramen",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "颏动脉",
+   "en": "mental artery",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "颏棘",
+   "en": "mental spine",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "颏联合",
+   "en": "mental symphysis",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "颏隆凸",
+   "en": "mental protuberance",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "颏区",
+   "en": "mental region",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "颏神经",
+   "en": "mental nerve",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "颏支",
+   "en": "mental branch",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "统一数据字典",
+   "en": "unified data dictionary",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "文起八代之衰，道济天下之溺",
+   "en": "The Classical Style of Writing Revived the Literary Style in Decline During the Eight Dynasties; Confucianism Lifts the People out of Their Mental Plight.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "CT影像",
+   "en": "computed tomography imaging",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_其他医学词汇",
+   "subjectName": "其他医学词汇",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.1-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第1部分：公用的语法规则》",
+   "en": "GB/T 14805.1-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 1: Syntax rules common to all parts",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.2-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第2部分：批式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.2-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 2: Syntax rules specific to batch EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.3-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第3部分：交互式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.3-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 3: Syntax rules specific to interactive EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.7-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第7部分：批式电子数据交换安全规则（保密性）》",
+   "en": "GB/T 14805.7-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 7: Security rules for batch EDI (Confidentiality)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.6-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第6部分：安全鉴别和确认报文（报文类型为AUTACK）》",
+   "en": "GB/T 14805.6-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 6: Secure authentication and acknowledgment  message (Message type — AUTACK)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.4-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第4部分：批式电子数据交换语法和服务报告报文（报文类型为CONTRL）》",
+   "en": "GB/T 14805.4-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 4: Syntax and service report message for batch EDI (Message type — CONTRL)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.5-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第5部分：批式电子数据交换安全规则（真实性、完整性和源抗抵赖性）》",
+   "en": "GB/T 14805.5-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 5: Security rules for batch EDI (Authenticity, integrity and non-repudiation of origin)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "标枪头",
+   "en": "metal head\",\"metal point",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "金属剑道",
+   "en": "metal carpets",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "金属剑道",
+   "en": "metal carpets",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "《突厥语词典》",
+   "en": "Turkic Dictionary",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0304",
+   "subjectFullName": "民族学与文化学_民族史_民族文化",
+   "subjectName": "民族文化",
+   "publishYear": "2025",
+   "definition": "作者为马赫穆德·喀什噶里，成书于1072—1074 年间，是以阿拉伯文解释古代突厥语词汇的词典。内容极其广泛，收罗详备，堪称11 世纪西域与中亚经济社会文化的百科全书。我国存有汉语、维吾尔文译本。"
+  },
+  {
+   "cn": "心理障碍",
+   "en": "mental disorder",
+   "source": "社会学名词",
+   "wordNumber": "3.11.2.5",
+   "subjectFullName": "社会学名词_分支社会学_医学社会学_健康现象与行为",
+   "subjectName": "健康现象与行为",
+   "publishYear": "2025",
+   "definition": "由于心理的原因导致无法正常应对日常生活。心理专家将其区分为两类，一是神经官能性的，相对症状较轻，比如紧张；二是精神心理性的，症状较重，个体心理已经脱离现实。"
+  },
+  {
+   "cn": "脑力劳动",
+   "en": "mental labor",
+   "source": "马克思主义",
+   "wordNumber": "01.0127",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“体力劳动”相对。以消耗脑力为主的劳动，体力劳动在其中起辅助作用。"
+  },
+  {
+   "cn": "精神交往",
+   "en": "mental communication",
+   "source": "马克思主义",
+   "wordNumber": "01.0149",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "人们之间的思想、观念、意识等的交流、批评或肯定的精神活动。精神交往受物质交往和物质关系的制约，但具有相对独立性。精神交往使精神成果得到认同、确证、传播和实现，是保证和促进精神生产的重要手段。"
+  },
+  {
+   "cn": "心理年龄",
+   "en": "mental age",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.1.6.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育规律",
+   "subjectName": "生长发育规律",
+   "publishYear": "2025",
+   "definition": "标准化心理测验判断心理发育成熟程度对应于群体平均水平所在年龄。"
+  },
+  {
+   "cn": "心理自我",
+   "en": "mental self",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.5.10.1.3",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_心理行为发育",
+   "subjectName": "心理行为发育",
+   "publishYear": "2025",
+   "definition": "个体对自己的智力、情感与人格特征以及价值取向和宗教信仰等的认识。"
+  },
+  {
+   "cn": "精神残疾",
+   "en": "mental disability",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.14.7",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_特殊儿童卫生服务",
+   "subjectName": "特殊儿童卫生服务",
+   "publishYear": "2025",
+   "definition": "各类精神障碍持续一年以上未痊愈，由于病人的认知、情感和行为障碍，影响其日常和社会参与。"
+  },
+  {
+   "cn": "心理健康",
+   "en": "mental health",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.1.1.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育内容",
+   "subjectName": "学校健康教育内容",
+   "publishYear": "2025",
+   "definition": "有利于个体身心发展，工作、学习有效率，维持良好生活质量的适宜的心理状态。"
+  },
+  {
+   "cn": "智龄",
+   "en": "mental age",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.2.5.28",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_儿童生长发育",
+   "subjectName": "儿童生长发育",
+   "publishYear": "2025",
+   "definition": "用某种智力测验工具测得的智力发展水平，即一个人智力发育水平的年龄。"
+  },
+  {
+   "cn": "心理健康",
+   "en": "mental health",
+   "source": "社会医学名词",
+   "wordNumber": "2.5.5",
+   "subjectFullName": "医学模式",
+   "subjectName": "生物-心理-社会医学模式",
+   "publishYear": "2025",
+   "definition": "个体在认知、情感、意志等心理活动层面所具有的一种良好状态。表现为能够认识和接纳自我，合理调节情绪、对社会有良好的适应力，并在面对压力和挑战时保持心理功能的稳定与协调。"
+  },
+  {
+   "cn": "精神障碍",
+   "en": "mental disorder",
+   "source": "社会医学名词",
+   "wordNumber": "13.7",
+   "subjectFullName": "社会病",
+   "subjectName": "精神障碍",
+   "publishYear": "2025",
+   "definition": "由大脑功能显著异常引起的，导致个体痛苦或社会功能受损的临床状况，且排除物质、躯体疾病等直接生理效应。"
+  },
+  {
+   "cn": "心理状态",
+   "en": "mental status",
+   "source": "社会医学名词",
+   "wordNumber": "5.3.1.2",
+   "subjectFullName": "生命质量",
+   "subjectName": "生命质量评价",
+   "publishYear": "2025",
+   "definition": "反映个体情绪和认知的状态。"
+  },
+  {
+   "cn": "社会心态",
+   "en": "social mentality",
+   "source": "社会学名词",
+   "wordNumber": "4.1.20.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会心态",
+   "subjectName": "社会心态",
+   "publishYear": "2025",
+   "definition": "在特定社会背景下形成的一种群体共有的心理状态，包括由价值观及信仰所体现出来的社会心理倾向、对具体现实的各种感受和情绪等，直接反映当时的社会精神状态。"
+  },
+  {
+   "cn": "民俗心理",
+   "en": "folklore mentality",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0502",
+   "subjectFullName": "民族学与文化学_民俗学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "一定人类群体中蕴含的一种较稳定的习俗意识定势，是民俗生活相在人们头脑中循环往复潜留下来的心理意识，经过历史的传承而逐步形成的。"
+  },
+  {
+   "cn": "军事脑力作业",
+   "en": "military mental work",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.1.2",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业生理学",
+   "subjectName": "军事作业生理学",
+   "publishYear": "2025",
+   "definition": "在军事活动过程中，以中枢神经系统为主的作业过程。"
+  },
+  {
+   "cn": "器质性精神障碍",
+   "en": "organic mental disorder",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.18.8.26",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_风湿免疫病相关疾病_风湿免疫病相关综合征",
+   "subjectName": "风湿免疫病相关综合征",
+   "publishYear": "2025",
+   "definition": "“器质性精神病(organic psychosis)”，基于可证实的大脑疾病、脑损伤或其他损害为病因而归于一组的精神障碍。脑功能损害可以是原发性的，如直接或选择性影响大脑的疾病和损伤；也可以是继发性的"
+  },
+  {
+   "cn": "心理健康问题预防",
+   "en": "mental health prevention",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.6.5",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_常见疾病预防",
+   "subjectName": "常见疾病预防",
+   "publishYear": "2025",
+   "definition": "为了阻止个体在心理健康方面存在的偏倚而采取的一系列措施。"
+  },
+  {
+   "cn": "心理健康教育",
+   "en": "mental health education",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "4.7",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康服务_心理健康教育",
+   "subjectName": "心理健康教育",
+   "publishYear": "2025",
+   "definition": "根据中小学生生理、心理发展特点，运用有关心理教育方法和手段，培养学生良好的心理素质，促进学生身心全面和谐发展和素质全面提高的教育活动。"
+  },
+  {
+   "cn": "学校心理卫生",
+   "en": "school mental health",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生",
+   "subjectName": "学校心理卫生",
+   "publishYear": "2025",
+   "definition": "致力于学校内儿童少年精神疾病的防治以及处理和预防各类精神问题的发生的活动和措施。最终目的是提高儿童少年的心理健康和生活质量，促进学校整体教育目标的实现。"
+  },
+  {
+   "cn": "心理健康素养",
+   "en": "mental health literacy",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.4.5.1",
+   "subjectFullName": "",
+   "subjectName": "学校心理健康促进",
+   "publishYear": "2025",
+   "definition": "人们运用认识、处理和预防心理疾病的相关知识、信念和行为,维护和促进心理健康的能力。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

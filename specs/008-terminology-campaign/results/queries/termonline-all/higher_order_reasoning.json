@@ -1,0 +1,752 @@
+{
+ "key": "higher-order reasoning",
+ "term": "higher-order reasoning",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T16:38:04+00:00",
+ "status": "ok",
+ "note": "variant=higher-order reasoning; 审定公布名词库=3075; 海峡两岸名词对照库=1019; 其他来源数据库=205; 预公布名词数据库=193; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "高阶像差",
+   "en": "higher-order aberration",
+   "source": "光学名词",
+   "wordNumber": "14.226",
+   "subjectFullName": "光学_成像技术",
+   "subjectName": "成像技术",
+   "publishYear": "2021",
+   "definition": "光学相位误差中除去倾斜、离焦、像散等空间频率较低的低阶像差部分外的其他空间频率较高的像差。高阶像差的每阶各包括许多项，其中的每一项又代表不同的内容。例如，高阶像差第三阶包括彗差、三叶草样散光等四项内容"
+  },
+  {
+   "cn": "高阶模",
+   "en": "higher-order mode",
+   "source": "物理学名词",
+   "wordNumber": "04.2088",
+   "subjectFullName": "物理学_光学、声学_光学_光谱学、激光、非线性光学",
+   "subjectName": "光谱学、激光、非线性光学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "上位功能",
+   "en": "higher order function",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0708",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_其他",
+   "subjectName": "其他",
+   "publishYear": "2016",
+   "definition": "基本功能存在所要满足的特殊需求。"
+  },
+  {
+   "cn": "高次模",
+   "en": "higher-order mode",
+   "source": "计量学名词",
+   "wordNumber": "11.030",
+   "subjectFullName": "计量学_无线电_基础名词",
+   "subjectName": "基础名词",
+   "publishYear": "2015",
+   "definition": "除基模外的所有色散波型的模式的统称。"
+  },
+  {
+   "cn": "再次条件反射",
+   "en": "higher order conditioning",
+   "source": "心理学名词",
+   "wordNumber": "02.132",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "在经典条件反射中，把一个被习得的条件刺激当作无条件刺激那样用于进一步强化学习的过程。"
+  },
+  {
+   "cn": "高阶差分",
+   "en": "difference of higher order,higher difference",
+   "source": "数学名词",
+   "wordNumber": "010.0200",
+   "subjectFullName": "数学_数值分析_数值微分·数值积分",
+   "subjectName": "数值微分?数值积分",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "高阶导数",
+   "en": "derivative of higher order",
+   "source": "数学名词",
+   "wordNumber": "05.0086",
+   "subjectFullName": "数学_分析学_分析学基础·实分析",
+   "subjectName": "分析学基础?实分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "高阶微分",
+   "en": "differential of higher order",
+   "source": "数学名词",
+   "wordNumber": "05.0087",
+   "subjectFullName": "数学_分析学_分析学基础·实分析",
+   "subjectName": "分析学基础?实分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "论证",
+   "en": "reasoning",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "4.278",
+   "subjectFullName": "新闻学与传播学_应用新闻_报刊实务_新闻评论",
+   "subjectName": "新闻评论",
+   "publishYear": "2022",
+   "definition": "评论中使用论据阐明论点的方法。"
+  },
+  {
+   "cn": "推理",
+   "en": "reasoning",
+   "source": "行为医学名词",
+   "wordNumber": "2.091",
+   "subjectFullName": "行为医学_行为医学基本理论_认知理论",
+   "subjectName": "认知理论",
+   "publishYear": "2022",
+   "definition": "由若干已知的判断得出另一个新判断的思维形式。是借助已有的知识对事物进行间接认识的过程。所根据的判断是前提，根据前提所得到的判断是结论。"
+  },
+  {
+   "cn": "推理",
+   "en": "reasoning",
+   "source": "物理学名词",
+   "wordNumber": "01.0132",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "推理",
+   "en": "reasoning",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "04.174",
+   "subjectFullName": "阿尔茨海默病_精神与心理认知学",
+   "subjectName": "精神与心理认知学",
+   "publishYear": "2019",
+   "definition": "一种思维形式。人根据已有判断，经过分析与综合，引出新判断的过程。"
+  },
+  {
+   "cn": "推理",
+   "en": "reasoning",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0066",
+   "subjectFullName": "计算机科学技术_人工智能_自动推理",
+   "subjectName": "自动推理",
+   "publishYear": "2018",
+   "definition": "寻找理由、信念、结论或动作的认知过程。形式主要包括演绎、溯因、归纳、类比、谬误推理等。"
+  },
+  {
+   "cn": "高级丁铎尔谱",
+   "en": "higher order Tyndall spectra,HOTS",
+   "source": "化学名词",
+   "wordNumber": "04.1543",
+   "subjectFullName": "化学_物理化学_胶体化学",
+   "subjectName": "胶体化学",
+   "publishYear": "2016",
+   "definition": "由被照射的分散体的不同角度的散射光组成的光谱。对于在白光照射下的粒子大小与波长相近的单分散胶体，高级丁铎尔谱常常是彩色谱。"
+  },
+  {
+   "cn": "意识的高阶理论",
+   "en": "higher order theories of consciousness",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.570",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "一种关于意识本质的学说。主张心理状态只有经比它高阶的知觉或思维的表征才是有意识的。"
+  },
+  {
+   "cn": "高阶速度分析",
+   "en": "higher-order velo-city analysis",
+   "source": "地球物理学名词",
+   "wordNumber": "08.0359",
+   "subjectFullName": "地球物理学_勘探地球物理学_地震勘探",
+   "subjectName": "地震勘探",
+   "publishYear": "2022",
+   "definition": "采用包含偏移距平方项和四次方项计算时差的速度分析。 "
+  },
+  {
+   "cn": "高阶等差数列",
+   "en": "arithmetic progression of higher order",
+   "source": "数学名词",
+   "wordNumber": "04.0140",
+   "subjectFullName": "数学_代数学_代数几何学_算术",
+   "subjectName": "算术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "高阶偏导数",
+   "en": "partial derivative of higher order",
+   "source": "数学名词",
+   "wordNumber": "05.0099",
+   "subjectFullName": "数学_分析学_分析学基础·实分析",
+   "subjectName": "分析学基础?实分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "高阶微分方程",
+   "en": "differential equation of higher order",
+   "source": "数学名词",
+   "wordNumber": "06.0038",
+   "subjectFullName": "数学_微分方程_积分方程_常微分方程",
+   "subjectName": "常微分方程",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "高阶奇点",
+   "en": "singular point of higher order",
+   "source": "数学名词",
+   "wordNumber": "06.0094",
+   "subjectFullName": "数学_微分方程_积分方程_常微分方程",
+   "subjectName": "常微分方程",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "高阶闭合",
+   "en": "higher-order closure",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "高阶光孤子",
+   "en": "higher-order soliton",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "高阶逻辑",
+   "en": "higher order logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "高等植物",
+   "en": "higher plant",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "推理",
+   "en": "inference\",\"reasoning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "推理",
+   "en": "inference\",\"reasoning",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "道德推理",
+   "en": "moral reasoning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "条件推理",
+   "en": "conditional reasoning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "矩阵推理",
+   "en": "matrix reasoning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "前向推论",
+   "en": "forward reasoning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "不精确推理",
+   "en": "inexact reasoning",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "不确定推理",
+   "en": "uncertain reasoning",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "常识推理",
+   "en": "commonsense reasoning",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "单调推理",
+   "en": "monotonic reasoning",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "定性推理",
+   "en": "qualitative reasoning",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "多主体推理",
+   "en": "multiagent reasoning",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "二难推理",
+   "en": "dilemma reasoning",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "反绎推理",
+   "en": "abductive reasoning",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "非单调推理",
+   "en": "nonmonotonic reasoning",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "概率推理",
+   "en": "probabilistic reasoning",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "顺序",
+   "en": "order",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "肌理",
+   "en": "Reasoning and Structure",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字秩序",
+   "en": "digital order",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "合作秩序",
+   "en": "cooperative order",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "发球顺序",
+   "en": "service order",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "出场顺序",
+   "en": "competitive order",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "起跑顺序",
+   "en": "starting order",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "比赛顺序",
+   "en": "starting order",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "出发顺序",
+   "en": "starting order",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "逆序",
+   "en": "reversed order",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "出发顺序",
+   "en": "starting order",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "出发顺序",
+   "en": "starting order",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "奥林匹克勋章",
+   "en": "Olympic Order",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "击球顺序",
+   "en": "batting order",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "高级醇",
+   "en": "higher alcohol",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.12.5.9",
+   "subjectFullName": "食品卫生学_食品_酒类",
+   "subjectName": "酒类",
+   "publishYear": "2025",
+   "definition": "含3 个及以上碳原子醇类的总称，是酒类发酵过程中产生的主要副产物，包括正丙醇、正丁醇、异丁醇、异戊醇等。"
+  },
+  {
+   "cn": "思辨理性",
+   "en": "speculative reason",
+   "source": "马克思主义",
+   "wordNumber": "01.0099",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "全称“纯粹思辨理性”。康德哲学批判考察的对象。按照康德观点，思辨理性构成科学知识的基础，是人类认识的先验性条件，它与“经验理性”相对照。同时，思辨理性也是沃尔弗（Christian Wolff）追随者"
+  },
+  {
+   "cn": "实践理性",
+   "en": "practical reason",
+   "source": "马克思主义",
+   "wordNumber": "01.0100",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "全称“纯粹实践理性”，又称“实践之知”。与“思辨理性”相对。德国古典唯心主义哲学家康德用语，指纯粹理性的实践能力，即给人的行为规定先天道德准则的先验理性。"
+  },
+  {
+   "cn": "辩证理性",
+   "en": "dialectical reason",
+   "source": "马克思主义",
+   "wordNumber": "01.0173",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "康德哲学把理性分为知性和辩证理性两个层次，知性是运用概念、范畴整理感性材料以获得规律性认识，辩证理性则是进一步综合知性规律为一般性原理。马克思进一步阐述了辩证理性的逻辑进程，即抽象的规定在思维行程中上"
+  },
+  {
+   "cn": "纯粹理性",
+   "en": "pure reason",
+   "source": "马克思主义",
+   "wordNumber": "01.0174",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "康德的用语。是纯粹的认识能力，包括感性直观、知性和理性，它在经验之前、独立于经验，不依赖于任何经验内容而存在。否定感性经验的纯理性必走向理性主义、唯心主义认识论。"
+  },
+  {
+   "cn": "民粹主义理性",
+   "en": "populist reason",
+   "source": "马克思主义",
+   "wordNumber": "05.0090",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "来自于拉克劳（Ernesto Laclau）《民粹主义理性》。描述了政治对抗中异质性因素是如何从特殊性上升为普遍性的，这种异质性因素受到拉康对象思想的启示，是实现霸权链接的主要因素和动力，是霸权建构的"
+  },
+  {
+   "cn": "公共理性",
+   "en": "public reason",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.055",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "围绕公共利益的决策和管理所应具有的公共性、民意性、正当性和合法性。"
+  },
+  {
+   "cn": "实践理性",
+   "en": "practical reason",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0623",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "最早出现在美国人类学家萨林斯的《文化与实践理性》一书中，指在生活者的世界中对其有意义的思维模式和行为习惯。萨林斯批判古典政治经济学中的英国式“上层建筑和经济基础”理论，及功能主义的功利论中过分强调的理"
+  },
+  {
+   "cn": "消毒顺序",
+   "en": "disinfection order",
+   "source": "消毒学",
+   "wordNumber": "4.1.4.20",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "根据规范和标准要求所进行消毒的步骤和流程。"
+  },
+  {
+   "cn": "社会秩序",
+   "en": "social order",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.20",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "人们在长期共同生活和生产中形成的、社会交往或社会互动呈现相对稳定、符合规则、有条不紊的状态。通常以一定的行为准则、道德规范、法规和制度为维系的手段。具有一致性、连续性、确定性和可预见性等特征。"
+  },
+  {
+   "cn": "组织秩序",
+   "en": "organizational order",
+   "source": "社会学名词",
+   "wordNumber": "2.5.11.5",
+   "subjectFullName": "社会学名词_社会学一般概念_群体和组织_组织行为",
+   "subjectName": "组织行为",
+   "publishYear": "2025",
+   "definition": "组织按照目标所支持的有益于组织的正常结构、互动过程或变迁模式，一般包括行为秩序和状态秩序。"
+  },
+  {
+   "cn": "法律秩序",
+   "en": "legal order",
+   "source": "社会学名词",
+   "wordNumber": "3.7.6.7",
+   "subjectFullName": "社会学名词_分支社会学_法律社会学_法律的演化",
+   "subjectName": "法律的演化",
+   "publishYear": "2025",
+   "definition": "仅产生于现代西方社会的一种法律。不仅由国家确立和强制执行的公开的规则构成，而且该规则区别于政治、经济或者宗教规范，由专门的机构运用专门的法律来适用于所有人，因此具备自治性和普遍性。"
+  },
+  {
+   "cn": "宗教团体",
+   "en": "religious order",
+   "source": "社会学名词",
+   "wordNumber": "3.9.3.3",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教组织形式",
+   "subjectName": "宗教组织形式",
+   "publishYear": "2025",
+   "definition": "广泛存在于世界诸宗教之中的宗教信徒的共同体或组织，信徒们遵从特定的宗教教义、或者教主的信条或仪轨，而与社会保持一定距离。"
+  },
+  {
+   "cn": "薙发令",
+   "en": "Shaving order",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0214",
+   "subjectFullName": "民族学与文化学_民族史_民族政治",
+   "subjectName": "民族政治",
+   "publishYear": "2025",
+   "definition": "明末清初时期，清政府以“不从者斩”为手段，强令其统治下的各民族改为满人发型的政策。"
+  },
+  {
+   "cn": "上访",
+   "en": "appeal to the higher authorities",
+   "source": "社会学名词",
+   "wordNumber": "3.6.4.12",
+   "subjectFullName": "社会学名词_分支社会学_政治社会学_公民权与公民参与",
+   "subjectName": "公民权与公民参与",
+   "publishYear": "2025",
+   "definition": "公民或组织以书信、电子邮件、走访等形式向各级人民政府、县级以上人民政府工作部门反映问题、寻求解决办法的活动。"
+  },
+  {
+   "cn": "差序格局",
+   "en": "differential order pattern",
+   "source": "社会学名词",
+   "wordNumber": "1.1.2.25",
+   "subjectFullName": "社会学名词_社会学理论与方法_中国社会思想_中国近现代社会思想",
+   "subjectName": "中国近现代社会思想",
+   "publishYear": "2025",
+   "definition": "中国传统社会中以“已”为中心，根据亲属关系的原则外推而形成的关系网络。犹如石子入水引起的波纹一样。这是费孝通提出的描述中国传统社会结构特征的概念，与“团体格局”相对。这种关系网络因远近亲疏而有不同适用"
+  },
+  {
+   "cn": "时间序列阵",
+   "en": "time-ordered matrix",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.10",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "用以表现事件发生的次序、要点、状态的表格。其中列按照时间顺序或事件发生的前后次序排列，行列出了研究者感兴趣的内容，行列交叉处记录了事件的具体状态。"
+  },
+  {
+   "cn": "角色序列阵",
+   "en": "role-ordered matrix",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.11",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "根据从一组角色占据者那里收集到的数据，或者同一组角色占据者相关的数据，用行列交叉表格的形式表现出他们对某个问题观点差异的图表。"
+  },
+  {
+   "cn": "理性行为理论",
+   "en": "theory of reasoned action, TRA",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.3.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育理论与模式",
+   "subjectName": "学校健康教育理论与模式",
+   "publishYear": "2025",
+   "definition": "分析态度如何有意识地影响个体行为的理论。"
+  },
+  {
+   "cn": "ALARA原则",
+   "en": "As low as reasonably achievable principle",
+   "source": "放射卫生学",
+   "wordNumber": "10.2.2.9",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_历史事件_推动历史发展的重要事件",
+   "subjectName": "推动历史发展的重要事件",
+   "publishYear": "2025",
+   "definition": "全称“可合理达到的尽量低原则”。美国核管会在1960年代后期开始的核能与放射防护的争论中，于1975年12月正式提出该规则。1977年，ICRP第26号出版物提出了放射防护三原则，在防护最优化中包括了"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

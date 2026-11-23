@@ -1,0 +1,742 @@
+{
+ "key": "inequity aversion",
+ "term": "inequity aversion",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T16:38:30+00:00",
+ "status": "ok",
+ "note": "variant=inequity aversion; 审定公布名词库=564; 海峡两岸名词对照库=170; 其他来源数据库=24; 预公布名词数据库=39; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "不等式",
+   "en": "inequality",
+   "source": "数学名词",
+   "wordNumber": "01.0048",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "不等方程",
+   "en": "inequation",
+   "source": "数学名词",
+   "wordNumber": "01.0050",
+   "subjectFullName": "数学_数学通类",
+   "subjectName": "数学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "不等式约束条件",
+   "en": "inequality constraint",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "05.021",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程系统优化",
+   "subjectName": "过程系统优化",
+   "publishYear": "2024",
+   "definition": "优化问题需要满足的不等式形式的约束条件。"
+  },
+  {
+   "cn": "月角差",
+   "en": "parallactic inequality",
+   "source": "天文学名词",
+   "wordNumber": "03.164",
+   "subjectFullName": "天文学_天体力学",
+   "subjectName": "天体力学",
+   "publishYear": "2024",
+   "definition": "月球运动里因太阳引力作用而产生的周期为一个朔望月的小摄动项。"
+  },
+  {
+   "cn": "信息不平等",
+   "en": "information inequality",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "18.064",
+   "subjectFullName": "新闻学与传播学_传播政治经济研究_重要概念",
+   "subjectName": "重要概念",
+   "publishYear": "2022",
+   "definition": "不同国家、阶级、地域、种族、性别等背景的人获取与使用信息资源的机会和能力存在差异的现象。在数字化时代突出表现为“数字鸿沟”的形成。"
+  },
+  {
+   "cn": "施瓦茨不等式",
+   "en": "Schwarz inequality",
+   "source": "物理学名词",
+   "wordNumber": "01.0455",
+   "subjectFullName": "物理学_通类_数学",
+   "subjectName": "数学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "贝尔不等式",
+   "en": "Bell inequality",
+   "source": "物理学名词",
+   "wordNumber": "06.0769",
+   "subjectFullName": "物理学_相对论、量子理论_量子信息",
+   "subjectName": "量子信息",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "克劳修斯不等式",
+   "en": "Clausius inequality",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "02.0063",
+   "subjectFullName": "化工（三）_化工热力学",
+   "subjectName": "化工热力学",
+   "publishYear": "2019",
+   "definition": "热力学第二定律的另一种表达形式，可以表述为：过程的熵变大于或等于热温商。"
+  },
+  {
+   "cn": "克劳修斯不等式",
+   "en": "Clausius inequality",
+   "source": "物理学名词",
+   "wordNumber": "05.0267",
+   "subjectFullName": "物理学_热学、统计物理学_热学、热力学",
+   "subjectName": "热学、热力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "克劳修斯不等式",
+   "en": "Clausius inequality",
+   "source": "化学名词",
+   "wordNumber": "04.0206",
+   "subjectFullName": "化学_物理化学_化学热力学",
+   "subjectName": "化学热力学",
+   "publishYear": "2016",
+   "definition": "系统在相同的始、终态间经历可逆变化与不可逆变化时存在下述关系：<img src='/root/syzx/static/spz/huaxue2.04.0206.1.png'/>，式中dS、δQ分别为系统"
+  },
+  {
+   "cn": "日不等[现象]",
+   "en": "diurnal inequality",
+   "source": "海洋科技名词",
+   "wordNumber": "02.0257",
+   "subjectFullName": "海洋科学技术_海洋科学_物理海洋学",
+   "subjectName": "物理海洋学",
+   "publishYear": "2007",
+   "definition": "天文潮潮差变化逐日不等的现象。其周期为27.3216天。"
+  },
+  {
+   "cn": "空间不均衡性",
+   "en": "spatial inequality",
+   "source": "地理学名词",
+   "wordNumber": "24.019",
+   "subjectFullName": "地理学_社会与文化地理学",
+   "subjectName": "社会与文化地理学",
+   "publishYear": "2006",
+   "definition": "人、资源、生活品的不均衡空间分布或空间关系。"
+  },
+  {
+   "cn": "克劳修斯不等式",
+   "en": "Clausius inequality",
+   "source": "化学工程名词",
+   "wordNumber": "02.065",
+   "subjectFullName": "化学工程_化工热力学_化工热力学基本概念",
+   "subjectName": "化工热力学基本概念",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "不等式约束",
+   "en": "inequality constraint",
+   "source": "化学工程名词",
+   "wordNumber": "05.141",
+   "subjectFullName": "化学工程_过程系统工程_过程优化",
+   "subjectName": "过程优化",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "熵不等式",
+   "en": "entropy inequality",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_其他力学",
+   "subjectName": "其他力学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "变分不等式",
+   "en": "variational inequality",
+   "source": "数学名词",
+   "wordNumber": "05.0688",
+   "subjectFullName": "数学_分析学_变分法",
+   "subjectName": "变分法",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "加权不等式",
+   "en": "weighted inequality",
+   "source": "数学名词",
+   "wordNumber": "05.0306",
+   "subjectFullName": "数学_分析学_分析学基础·实分析",
+   "subjectName": "分析学基础?实分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "条件不等式",
+   "en": "conditional inequality",
+   "source": "数学名词",
+   "wordNumber": "05.0066",
+   "subjectFullName": "数学_分析学_分析学基础·实分析",
+   "subjectName": "分析学基础?实分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "绝对不等式",
+   "en": "absolute inequality",
+   "source": "数学名词",
+   "wordNumber": "05.0065",
+   "subjectFullName": "数学_分析学_分析学基础·实分析",
+   "subjectName": "分析学基础?实分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "闵可夫斯基不等式",
+   "en": "Minkowski inequality",
+   "source": "数学名词",
+   "wordNumber": "05.0069",
+   "subjectFullName": "数学_分析学_分析学基础·实分析",
+   "subjectName": "分析学基础?实分析",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "均差",
+   "en": "inequality",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "克劳修斯不等式",
+   "en": "Clausius inequality",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "克劳修斯不等式",
+   "en": "Clausius inequality",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "日不等[现象]",
+   "en": "diurnal inequality",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "空间不均衡性",
+   "en": "spatial inequality",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "日潮不等",
+   "en": "diurnal inequality",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "月角差",
+   "en": "parallactic inequality",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "日潮不等",
+   "en": "diurnal inequality",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "厌恶",
+   "en": "aversion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "月行差",
+   "en": "lunar inequality\",\"evection",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "低潮不等",
+   "en": "low water inequality",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "高潮不等",
+   "en": "high water inequality",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "厌恶疗法",
+   "en": "aversive therapy\",\"aversion therapy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "味觉厌恶",
+   "en": "taste aversion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "条件性厌恶",
+   "en": "conditioned aversion",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "风险厌恶",
+   "en": "risk aversion",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "厌恶学习",
+   "en": "aversion learning",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "厌恶学习",
+   "en": "aversive learning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "厌恶条件反射, 厌恶条 件作用",
+   "en": "aversive conditioning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "月角差",
+   "en": "parallactic inequality\",\"parallactic equation",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "不患寡而患不均",
+   "en": "Fear Not Scarcity, but Inequality",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "质询",
+   "en": "inquiry",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_蹦床名词",
+   "subjectName": "蹦床名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "出水",
+   "en": "emerge\",\"emersion",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_游泳名词",
+   "subjectName": "游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "权益风险",
+   "en": "equity risk",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "净资产收益率",
+   "en": "Return on Equity",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "股权型众筹",
+   "en": "equity-based crowdfunding",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字探究实验室",
+   "en": "inquiry-oriented digital laboratory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据查询权",
+   "en": "right to data inquiry",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "互联网协议第六版（IPv6）",
+   "en": "Internet Protocol version 6 (IPv6)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "消费金融公司股权多样化",
+   "en": "equity diversification of consumer finance company",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.1-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第1部分：公用的语法规则》",
+   "en": "GB/T 14805.1-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 1: Syntax rules common to all parts",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.2-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第2部分：批式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.2-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 2: Syntax rules specific to batch EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 14805.3-2007 行政、商业和运输业电子数据交换（EDIFACT）应用级语法规则（语法版本号：4，语法发布号：1）第3部分：交互式电子数据交换专用的语法规则》",
+   "en": "GB/T 14805.3-2007 Electronic data interchange for administration, commerce and transport (EDIFACT) — Application level syntax rules (Syntax version number: 4, Syntax release number: 1) — Part 3: Syntax rules specific to interactive EDI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "个体化的不平等",
+   "en": "individualized inequality/inequality individualization",
+   "source": "社会学名词",
+   "wordNumber": "2.6.6.19",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会分层理论",
+   "subjectName": "社会分层理论",
+   "publishYear": "2025",
+   "definition": "后现代社会一个最突出的特征是“个体化”，人们越来越强烈地要求按照自己的意愿构建生活，这导致一种新的不平等形式，取代传统的以阶级或阶层为基础的不平等。由德国理论家贝克(Ulrich Beck）等人提出，"
+  },
+  {
+   "cn": "健康不公平",
+   "en": "health inequity",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.4.4.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_青少年健康促进策略",
+   "subjectName": "青少年健康促进策略",
+   "publishYear": "2025",
+   "definition": "人们获得良好健康状态的机会、条件的差异。"
+  },
+  {
+   "cn": "社会不平等",
+   "en": "social inequality",
+   "source": "社会学名词",
+   "wordNumber": "2.6.2.1",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会不平等",
+   "subjectName": "社会不平等",
+   "publishYear": "2025",
+   "definition": "某一社会不同群体之间或同一群体内部不同个体之间存在资源或机会的不平等分配。这种不平等主要表现为两大类：机会不平等（获取资源的机会不平等）和结果不平等（实际拥有的资源不平等）。"
+  },
+  {
+   "cn": "收入不平等",
+   "en": "income inequality",
+   "source": "社会学名词",
+   "wordNumber": "2.6.2.2",
+   "subjectFullName": "社会学名词_社会学一般概念_社会分层_社会不平等",
+   "subjectName": "社会不平等",
+   "publishYear": "2025",
+   "definition": "某一社会中人们之间的收入水平差异。通常有两种方式测量收入不平等程度：一种是基尼系数（基于收入获得者百分比与收入百分比之间的回归线来计算），另一种是高低收入组之比（如收入最高的10％的人口的平均收入与收"
+  },
+  {
+   "cn": "健康不平等",
+   "en": "health inequality",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.4.4.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_青少年健康促进策略",
+   "subjectName": "青少年健康促进策略",
+   "publishYear": "2025",
+   "definition": "各类经济特征人群之间健康水平的差异。"
+  },
+  {
+   "cn": "歧视与不平等",
+   "en": "discrimination and inequality",
+   "source": "社会学名词",
+   "wordNumber": "4.4.7.9",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作理论",
+   "subjectName": "社会工作理论",
+   "publishYear": "2025",
+   "definition": "出于各种原因对他人做出贬低的评价和对待，使他人不能得到平等待遇。在社会工作者与案主或其他专业人员沟通时，应避免不当的负面评论与歧视。社会工作者应以一种关怀与尊重的态度对待每个人，关注个别差异和文化及种"
+  },
+  {
+   "cn": "风险规避",
+   "en": "risk aversion",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.3.1.5",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险市场",
+   "subjectName": "健康保险市场",
+   "publishYear": "2025",
+   "definition": "经济主体对风险较为厌恶的一种态度。与存在风险但是能够获得某一数额的期望收益相比，消费者更愿意选择一个同样数额的确定性收益"
+  },
+  {
+   "cn": "健康不平等改善策略",
+   "en": "strategy to reduce health inequality",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.4.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_青少年健康促进策略",
+   "subjectName": "青少年健康促进策略",
+   "publishYear": "2025",
+   "definition": "为实现健康公平，世界卫生组织基于健康社会决定因素理论给各国政府提供了一系列具体的政策建议。"
+  },
+  {
+   "cn": "健康公平",
+   "en": "health equity",
+   "source": "社会医学名词",
+   "wordNumber": "3.2",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "健康公平",
+   "publishYear": "2025",
+   "definition": "社会中的每个人都应有平等的机会获得卫生资源、服务和健康状态，不因社会地位不同而造成健康差异。"
+  },
+  {
+   "cn": "代际公平",
+   "en": "intergenerational equity",
+   "source": "社会学名词",
+   "wordNumber": "3.14.3.10",
+   "subjectFullName": "社会学名词_分支社会学_环境社会学_环境问题及其产生根源",
+   "subjectName": "环境问题及其产生根源",
+   "publishYear": "2025",
+   "definition": "当代人和后代人在利用自然资源、满足自身利益、谋求生存与发展上权利均等。即当代人必须留给后代人生存和发展的必要环境资源和自然资源，是可持续发展的重要原则。"
+  },
+  {
+   "cn": "代际平等",
+   "en": "intergenerational equity",
+   "source": "社会学名词",
+   "wordNumber": "3.16.5.7",
+   "subjectFullName": "社会学名词_分支社会学_青少年研究_代际",
+   "subjectName": "代际",
+   "publishYear": "2025",
+   "definition": "描述儿童、青年、成年人、老人等不同代人在经济、教育、健康等多个社会领域内的公平和正义现状。"
+  },
+  {
+   "cn": "健康公平",
+   "en": "health equity ",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.4",
+   "subjectFullName": "卫生经济学名词_卫生经济学_健康公平",
+   "subjectName": "健康公平",
+   "publishYear": "2025",
+   "definition": "所有人无论其经济地位、种族、性别、年龄、所处环境等方面有何差异，均应获得均等的维持和改善健康机会的原则。"
+  },
+  {
+   "cn": "公平性测量方法",
+   "en": "equity measurement",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.4.5",
+   "subjectFullName": "卫生经济学名词_卫生经济学_健康公平",
+   "subjectName": "健康公平",
+   "publishYear": "2025",
+   "definition": "测量和评价公平的方法。包括家庭灾难性卫生支出、因病致贫发生率和基尼系数等。"
+  },
+  {
+   "cn": "疫苗公平",
+   "en": "vaccine equity",
+   "source": "卫生经济学名词",
+   "wordNumber": "13.5.2",
+   "subjectFullName": "卫生经济学名词_药物经济学_疫苗经济学",
+   "subjectName": "疫苗经济学",
+   "publishYear": "2025",
+   "definition": "不同地区、性别、年龄、种族、收入、受教育程度等的人群在疫苗获得、疫苗接种、疫苗保护、疫苗可预防疾病负担等方面都基本一致的权利和效果。"
+  },
+  {
+   "cn": "逆温",
+   "en": "temperature inversion",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.2.3.4",
+   "subjectFullName": "军事预防医学_军事环境卫生_战时空气卫生",
+   "subjectName": "战时空气卫生",
+   "publishYear": "2025",
+   "definition": "在大气对流层中，气温随高度增加而升高的反常现象。"
+  },
+  {
+   "cn": "询问法",
+   "en": "inquiry dietary survey",
+   "source": "军事预防医学名词",
+   "wordNumber": "7.3.1.3",
+   "subjectFullName": "军事预防医学_军队营养与食品卫生_军队营养调查与评价",
+   "subjectName": "军队营养调查与评价",
+   "publishYear": "2025",
+   "definition": "向被调查者或了解情况者询问某一段时间内食物摄入量，然后计算能量和各种营养素摄入量的调查方法，适用于病人及营养咨询时个人膳食情况的调查。"
+  },
+  {
+   "cn": "社会公平原则",
+   "en": "social equity principle",
+   "source": "社会医学名词",
+   "wordNumber": "10.2.1.4.7.1",
+   "subjectFullName": "政策与策略",
+   "subjectName": "策略",
+   "publishYear": "2025",
+   "definition": "在卫生政策与服务中，强调健康资源、服务机会与健康结果在各社会群体之间的公平分配，保障任何人不因社会经济地位、地域、性别、族群等因素而在获得健康服务上受到不公待遇。"
+  },
+  {
+   "cn": "引水节",
+   "en": "Water Diversion Festival",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0192",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "流传于新疆塔什库尔干塔吉克自治县塔吉克族的农事节日，在塔吉克族春月（公历3 月22日至4 月22 日）间；是当春季来临之时，需要砸开冰块，引水入渠，灌溉耕地，为此而欢庆的节日。"
+  },
+  {
+   "cn": "卫生服务利用公平",
+   "en": "equity in health care",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.4.1",
+   "subjectFullName": "卫生经济学名词_卫生经济学_健康公平",
+   "subjectName": "健康公平",
+   "publishYear": "2025",
+   "definition": "所有人无论其经济地位、种族、性别、年龄、所处环境等方面有何差异，应获得均等的卫生服务的原则。"
+  },
+  {
+   "cn": "卫生筹资公平",
+   "en": "equity in health financing",
+   "source": "卫生经济学名词",
+   "wordNumber": "1.4.2",
+   "subjectFullName": "卫生经济学名词_卫生经济学_健康公平",
+   "subjectName": "健康公平",
+   "publishYear": "2025",
+   "definition": "根据家庭或个人支付能力筹集卫生服务资金,支付能力强的人多支付,支付能力弱的人少支付的原则。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,802 @@
+{
+ "key": "random walk",
+ "term": "random walk",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T16:41:16+00:00",
+ "status": "ok",
+ "note": "variant=random walk; 审定公布名词库=1396; 海峡两岸名词对照库=389; 其他来源数据库=73; 预公布名词数据库=43; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "无规行走",
+   "en": "random walk",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2689",
+   "subjectFullName": "地球物理学_地震科学_地震信号处理",
+   "subjectName": "地震信号处理",
+   "publishYear": "2022",
+   "definition": "用以表示不规则的变动形式所形成的随机过程记录的一种数学统计模型，该模型由一连串的轨迹所组成，其中每一次都是随机的。 "
+  },
+  {
+   "cn": "随机漫步理论",
+   "en": "random walk",
+   "source": "经济学名词",
+   "wordNumber": "04.123",
+   "subjectFullName": "经济学_宏观经济学",
+   "subjectName": "宏观经济学",
+   "publishYear": "2020",
+   "definition": "该理论应用在金融领域多用来分析股票市场价格变化情况，即价格的变动，无一定规律可循，且与历史变动无关；价格的连续变化是一些均匀分布的独立的随机变量，因为不能用过去的股票价格动向来预测未来的价格。随机漫步"
+  },
+  {
+   "cn": "无规行走",
+   "en": "random walk",
+   "source": "物理学名词",
+   "wordNumber": "05.0824",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "随机游走",
+   "en": "random walk",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0868",
+   "subjectFullName": "计算机科学技术_理论计算机科学_算法设计与分析",
+   "subjectName": "算法设计与分析",
+   "publishYear": "2018",
+   "definition": "随机算法设计的一种方法。在该方法中，个体从图上随机选择的某个顶点出发，在图上进行游走。在此过程中，个体到达一个顶点后，在该顶点的邻接顶点中随机挑选一个，然后移到这个顶点。重复此过程，直到满足某个终止条"
+  },
+  {
+   "cn": "随机游动",
+   "en": "random walk",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0574",
+   "subjectFullName": "管理科学技术_运筹与管理_数量经济的理论与方法",
+   "subjectName": "数量经济的理论与方法",
+   "publishYear": "2016",
+   "definition": "序列当期值等于上一期值加上一个白噪声的随机过程。"
+  },
+  {
+   "cn": "随机游动",
+   "en": "random walk",
+   "source": "数学名词",
+   "wordNumber": "09.0351",
+   "subjectFullName": "数学_概率论_数理统计_随机过程",
+   "subjectName": "随机过程",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "随机游走系数",
+   "en": "random walk coefficient",
+   "source": "光学名词",
+   "wordNumber": "24.050",
+   "subjectFullName": "光学_光学导航技术",
+   "subjectName": "光学导航技术",
+   "publishYear": "2021",
+   "definition": "由白噪声产生的随时间积累的陀螺仪输出误差系数。单位为<img src='/root/syzx/static/spz/guangxue1.24.050.01.png'/>。"
+  },
+  {
+   "cn": "随机游走模型",
+   "en": "random walk model",
+   "source": "计算机科学技术名词",
+   "wordNumber": "07.0483",
+   "subjectFullName": "计算机科学技术_数据库_数据库新技术",
+   "subjectName": "数据库新技术",
+   "publishYear": "2018",
+   "definition": "一种包含连续随机步骤形式化的数学模型。用于经济、生物、计算机等领域。"
+  },
+  {
+   "cn": "无规行走模型",
+   "en": "random walk model",
+   "source": "化学名词",
+   "wordNumber": "05.0704",
+   "subjectFullName": "化学_高分子化学_高分子物理化学与高分子物理",
+   "subjectName": "高分子物理化学与高分子物理",
+   "publishYear": "2016",
+   "definition": "从原点出发，以步长为b在空间任何方向行走，走了z步后出现在空间指定体积单元中几率的数学表达式。"
+  },
+  {
+   "cn": "随机游动角",
+   "en": "random walk angle",
+   "source": "航天科学技术名词",
+   "wordNumber": "05.217",
+   "subjectFullName": "航天科学技术_航天控制与导航",
+   "subjectName": "航天控制与导航",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "量子随机行走",
+   "en": "quantum random walks",
+   "source": "计算机科学技术名词",
+   "wordNumber": "12.0045",
+   "subjectFullName": "计算机科学技术_计算机交叉学科_量子计算与量子信息学",
+   "subjectName": "量子计算与量子信息学",
+   "publishYear": "2018",
+   "definition": "用量子力学概率幅表示转移概率的随机行走。"
+  },
+  {
+   "cn": "自回避无规行走",
+   "en": "self-avoiding random walk,SARW",
+   "source": "物理学名词",
+   "wordNumber": "08.2464",
+   "subjectFullName": "物理学_凝聚态物理学_软物质物理",
+   "subjectName": "软物质物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "自避随机行走模型",
+   "en": "self-avoiding random walk model",
+   "source": "化学名词",
+   "wordNumber": "05.0706",
+   "subjectFullName": "化学_高分子化学_高分子物理化学与高分子物理",
+   "subjectName": "高分子物理化学与高分子物理",
+   "publishYear": "2016",
+   "definition": "无规行走模型中，若每一步行走不允许自交，走了z步后出现在空间指定体积单元中几率的数学表达式。"
+  },
+  {
+   "cn": "慢步",
+   "en": "walk",
+   "source": "畜牧学名词",
+   "wordNumber": "02.287",
+   "subjectFullName": "畜牧学_饲养管理_马饲养",
+   "subjectName": "马饲养",
+   "publishYear": "2020",
+   "definition": "马的基础步法之一。四肢逐次着地的四节拍步伐，一个完步可以听到四个蹄音。步幅一般为1.4～1.8m，速度为4～6km/h，可以锻炼马匹的沉毅性以及使马从疲劳中恢复。"
+  },
+  {
+   "cn": "通道",
+   "en": "walk",
+   "source": "数学名词",
+   "wordNumber": "03.0082",
+   "subjectFullName": "数学_组合学·一般数学系统_图论",
+   "subjectName": "图论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "步行",
+   "en": "walking",
+   "source": "物理医学与康复名词",
+   "wordNumber": "02.059",
+   "subjectFullName": "物理医学与康复_康复功能评定_运动功能评定",
+   "subjectName": "运动功能评定",
+   "publishYear": "2014",
+   "definition": "通过双脚的交互动作移行身体的人类特征性活动。"
+  },
+  {
+   "cn": "人行道",
+   "en": "side walk,pedestrian walk",
+   "source": "土木工程名词",
+   "wordNumber": "07.019",
+   "subjectFullName": "土木工程_城市道路工程_道路组成",
+   "subjectName": "道路组成",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "散发",
+   "en": "random",
+   "source": "神经病学名词",
+   "wordNumber": "05.321",
+   "subjectFullName": "神经病学_神经病诊断技术_临床脑电图学",
+   "subjectName": "临床脑电图学",
+   "publishYear": "2020",
+   "definition": "用于描述脑波的出现方式。单个脑波以不规则的间隔时间出现在某些相同或不同导联中的现象。"
+  },
+  {
+   "cn": "无规",
+   "en": "random",
+   "source": "物理学名词",
+   "wordNumber": "05.0480",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "步速",
+   "en": "walk velocity",
+   "source": "手外科学名词",
+   "wordNumber": "06.0221",
+   "subjectFullName": "手外科学_手外科康复",
+   "subjectName": "手外科康复",
+   "publishYear": "2020",
+   "definition": "步行的平均速度（m/s）。步速=步幅÷步行周期。"
+  },
+  {
+   "cn": "随机走动",
+   "en": "random walk",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "无规行走模型",
+   "en": "random walk model",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "随机",
+   "en": "random",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "随机",
+   "en": "random",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "游走重排",
+   "en": "walk rearrangement",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "步行模式",
+   "en": "walk mode",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "游动时间",
+   "en": "walk time",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "走查",
+   "en": "walk-through",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "步桥",
+   "en": "cat walk",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "染色体步查（=染色体步移）",
+   "en": "chromosome walking",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "染色体步移，染色体步查",
+   "en": "chromosome walking",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "染色体步查,染色体步移",
+   "en": "chromosome walking",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "引物步查,引物步移",
+   "en": "primer walking",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "基因组步移",
+   "en": "genomic walking",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "染色体步移,染色体步查",
+   "en": "chromosome walking",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "引物步移, 引物步查",
+   "en": "primer walking",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "基因组步查，基因组步移",
+   "en": "genomic walking",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "染色体步查，染色体步移",
+   "en": "chromosome walking",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "走步测试",
+   "en": "walking test",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "随机性",
+   "en": "randomness",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "走步",
+   "en": "walking",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_手球名词",
+   "subjectName": "手球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "竞走",
+   "en": "walking",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "竞走",
+   "en": "walking",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "量子游走",
+   "en": "quantum walk",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "猫步",
+   "en": "cat walk",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "10公里竞走",
+   "en": "10km walk",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "50公里竞走",
+   "en": "50km walk",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "20公里竞走",
+   "en": "20km walk",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "埃菲尔步式",
+   "en": "Eiffel walk",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "自由慢步",
+   "en": "free walk",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "中度慢步",
+   "en": "medium walk",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "缩短慢步",
+   "en": "collected walk",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "伸长慢步",
+   "en": "extended walk",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "竞走项目",
+   "en": "walking event",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "走步",
+   "en": "traveling\",\"walking",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "走板",
+   "en": "run-up\",\"walk",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跳水名词",
+   "subjectName": "跳水名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "未出场",
+   "en": "forfeit\",\"walk-over",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "步式",
+   "en": "walk\",\"walkout\",\"walkover",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_花样游泳名词",
+   "subjectName": "花样游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "慢步回转",
+   "en": "pirouette at walk",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "走婚",
+   "en": "walking marriage",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0367",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "云南摩梭人的独特婚姻方式，意为用男子的“走”而实现婚姻，有走婚关系的男女彼此称为“阿夏”。建立走婚关系的男女双方，各自居住在母亲家，分属于两个家庭，通常是男子夜间到女子家里访宿，次日拂晓返回自己的母亲"
+  },
+  {
+   "cn": "儿童睡行症",
+   "en": "walking in childhood",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "7.3.2.4.1.1.1",
+   "subjectFullName": "妇幼卫生学名词_妇幼心理与精神卫生_儿童常见精神问题及保健",
+   "subjectName": "儿童常见精神问题及保健",
+   "publishYear": "2025",
+   "definition": "儿童期反复发作的睡觉时从床上起来和走动的一种睡眠障碍。走动时，个体面无表情、目不转睛；对于他人的沟通无反应；唤醒困难；醒来对发作的回忆有限。通常出现在非快速眼动睡眠期。"
+  },
+  {
+   "cn": "简单随机抽样",
+   "en": "simple random sampling",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.49",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "以研究总体中的每一成员都有一个相等的被选取的概率的方式实施的抽样设计。"
+  },
+  {
+   "cn": "随机效应模型",
+   "en": "random-effects model",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.152",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "在方差分析中，每一个自变量上的类别效应被模型作随机变量的模型。"
+  },
+  {
+   "cn": "两条腿走路方针",
+   "en": "policy of walking on two legs",
+   "source": "马克思主义",
+   "wordNumber": "02.0370",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国共产党关于社会主义经济建设的方针。即：在重工业优先发展的条件下，工业和农业同时并举；在集中领导、全面规划、分工协作的条件下，中央工业和地方工业同时并举，大型企业和中小型企业同时并举。党的八大二次会"
+  },
+  {
+   "cn": "基于随机对照临床试验的经济学评价",
+   "en": "economic evaluation based on randomized controlled clinical trial",
+   "source": "卫生经济学名词",
+   "wordNumber": "13.4.1.3",
+   "subjectFullName": "卫生经济学名词_药物经济学_药物经济学评价",
+   "subjectName": "药物经济学评价",
+   "publishYear": "2025",
+   "definition": "将基于随机、盲法和对照原则的药物临床试验与药物经济学研究相结合的经济学评价方法。"
+  },
+  {
+   "cn": "柏林墙",
+   "en": "Berlin wall",
+   "source": "马克思主义",
+   "wordNumber": "05.0213",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_主要事件",
+   "subjectName": "主要事件",
+   "publishYear": "2025",
+   "definition": "柏林墙的正式名称为反法西斯防卫墙（德文为Antifaschistischer Schutzwall），是德意志民主共和国（或东德）在己方领土上建立的隔绝与西柏林往来的围墙，目的是阻止东德居民逃往西柏林"
+  },
+  {
+   "cn": "男用避孕套",
+   "en": "male condom",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.2.8.1.1",
+   "subjectFullName": "妇幼卫生学名词_生育调节_避孕",
+   "subjectName": "避孕",
+   "publishYear": "2025",
+   "definition": "由乳胶或聚氨酯等制成的、在性交时佩戴于男性阴茎上的套状隔膜，具有阻断精子和卵子结合，达到避孕和预防感染性传播疾病的双重保护作用。"
+  },
+  {
+   "cn": "女用避孕套",
+   "en": "female condom",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "5.2.8.1.2",
+   "subjectFullName": "妇幼卫生学名词_生育调节_避孕",
+   "subjectName": "避孕",
+   "publishYear": "2025",
+   "definition": "由聚氨酯或乳胶制成的柔软、宽松袋状物。性交前置于女性阴道内，覆盖整个阴道内壁和外阴，阻隔精子进入阴道，具有避孕和预防性传播疾病和艾滋病的双重保护作用。"
+  },
+  {
+   "cn": "氡子体",
+   "en": "radon daughter，radon progeny",
+   "source": "放射卫生学",
+   "wordNumber": "2.5.5",
+   "subjectFullName": "放射卫生学_辐射来源及其应用",
+   "subjectName": "辐射来源及其应用",
+   "publishYear": "2025",
+   "definition": "氡-222的短寿命放射性衰变产物，主要包括218Po、214Pb、214Bi和214Po，以及痕量元素218At和210Tl。"
+  },
+  {
+   "cn": "氡-222",
+   "en": "radon-222",
+   "source": "放射卫生学",
+   "wordNumber": "2.5.2",
+   "subjectFullName": "放射卫生学_辐射来源及其应用",
+   "subjectName": "辐射来源及其应用",
+   "publishYear": "2025",
+   "definition": "原子序数为86、原子量为222的天然放射性元素，是铀系衰变的中间产物，无色、无味的惰性气体。"
+  },
+  {
+   "cn": "氡-220",
+   "en": "radon-220",
+   "source": "放射卫生学",
+   "wordNumber": "2.5.3",
+   "subjectFullName": "放射卫生学_辐射来源及其应用",
+   "subjectName": "辐射来源及其应用",
+   "publishYear": "2025",
+   "definition": "原子序数为86、原子量为220的天然放射性元素，是钍系衰变的中间产物，无色、无味的惰性气体。"
+  },
+  {
+   "cn": "氡-219",
+   "en": "radon-219",
+   "source": "放射卫生学",
+   "wordNumber": "2.5.4",
+   "subjectFullName": "放射卫生学_辐射来源及其应用",
+   "subjectName": "辐射来源及其应用",
+   "publishYear": "2025",
+   "definition": "原子序数为86、原子量为219的天然放射性元素，是锕系衰变的中间产物，无色、无味的惰性气体。"
+  },
+  {
+   "cn": "氡室",
+   "en": "radon chamber",
+   "source": "放射卫生学",
+   "wordNumber": "5.2.4.2",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测设备_氡及其子体监测设备",
+   "subjectName": "氡及其子体监测设备",
+   "publishYear": "2025",
+   "definition": "一种用于刻度氡及其短寿命子体探测器的标准装置。由氡发生器、温湿度控制仪和氡及其子体监测仪等组成。"
+  },
+  {
+   "cn": "氡个人剂量计",
+   "en": "radon dosimeter",
+   "source": "放射卫生学",
+   "wordNumber": "5.2.4.3",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测设备_氡及其子体监测设备",
+   "subjectName": "氡及其子体监测设备",
+   "publishYear": "2025",
+   "definition": "可佩戴在个人身上、用于监测个人受到氡及其子体致内照射剂量的器具。"
+  },
+  {
+   "cn": "氡采样器",
+   "en": "radon sampler",
+   "source": "放射卫生学",
+   "wordNumber": "5.2.4.4",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射监测设备_氡及其子体监测设备",
+   "subjectName": "氡及其子体监测设备",
+   "publishYear": "2025",
+   "definition": "一种在野外取样以供室内测量氡气用的装置。"
+  },
+  {
+   "cn": "氡浓度",
+   "en": "radon concentration",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.5.8",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_氡个人监测评价",
+   "subjectName": "氡个人监测评价",
+   "publishYear": "2025",
+   "definition": "单位体积空气中氡的放射性活度，SI单位为贝可每立方米（Bq/m3）。"
+  },
+  {
+   "cn": "探测器壁效应",
+   "en": "wall effect of detector",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.1.24",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_辐射探测基本量",
+   "subjectName": "辐射探测基本量",
+   "publishYear": "2025",
+   "definition": "探测器的内壁对测量结果的影响程度。其大小与构成壁材料的性质及壁厚有关，也与辐射的种类及能量有关。"
+  },
+  {
+   "cn": "枕墙距",
+   "en": "occiput-to-wall distance",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.4.1.3",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_脊柱关节炎_特征性表现",
+   "subjectName": "特征性表现",
+   "publishYear": "2025",
+   "definition": "用于检查颈椎的活动度的指标。患者足跟和背部靠墙；下巴平直；尽可能使头靠向墙壁；测量枕部至墙壁的距离。取两次测量的均值，以cm为单位。"
+  },
+  {
+   "cn": "耳墙距",
+   "en": "ear-to-wall distance",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.4.1.4",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_脊柱关节炎_特征性表现",
+   "subjectName": "特征性表现",
+   "publishYear": "2025",
+   "definition": "用于检查颈椎的活动度的指标。患者足跟和背部靠墙；下巴平直；尽可能使头靠向墙壁；测量耳屏至墙壁的距离(耳樯距)。取两次测量的均值，以cm为单位。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

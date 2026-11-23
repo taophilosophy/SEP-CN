@@ -1,0 +1,692 @@
+{
+ "key": "species problem",
+ "term": "species problem",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T16:41:33+00:00",
+ "status": "ok",
+ "note": "variant=species problem; 审定公布名词库=1970; 海峡两岸名词对照库=835; 其他来源数据库=69; 预公布名词数据库=112; jwt-direct（JWT 直连，raw 略；已滤维基 12 条）",
+ "hits": [
+  {
+   "cn": "问题",
+   "en": "problem",
+   "source": "航天科学技术名词",
+   "wordNumber": "21.108",
+   "subjectFullName": "航天科学技术_可靠性",
+   "subjectName": "可靠性",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "种",
+   "en": "species",
+   "source": "风景园林名词",
+   "wordNumber": "09.0155",
+   "subjectFullName": "风景园林_风景园林植物_风景园林植物遗传育种",
+   "subjectName": "风景园林植物遗传育种",
+   "publishYear": "2025",
+   "definition": "生物分类的基本单位，位于生物分类系统中最后一级，在属之下。是能够交配繁殖且子代可育的相关的生物群体。"
+  },
+  {
+   "cn": "种",
+   "en": "species",
+   "source": "动物学名词",
+   "wordNumber": "2.0038",
+   "subjectFullName": "动物学_动物进化与系统学_动物分类学",
+   "subjectName": "动物分类学",
+   "publishYear": "2021",
+   "definition": "生物分类的基本单元。具有一定的自然分布区和一定的生理、形态特征，能相互繁殖、享有一个共同基因库的一群个体。与其他种存在生殖隔离。"
+  },
+  {
+   "cn": "种",
+   "en": "species",
+   "source": "植物学名词",
+   "wordNumber": "02.0045",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "生物分类的基本单元。具有一定的自然分布区和一定的生理、形态特征，能相互繁殖、享有一个共同基因库的一群个体。与其他种存在生殖隔离。"
+  },
+  {
+   "cn": "种",
+   "en": "species",
+   "source": "微生物学名词",
+   "wordNumber": "02.050",
+   "subjectFullName": "微生物学_微生物系统学",
+   "subjectName": "微生物系统学",
+   "publishYear": "2012",
+   "definition": "生物分类阶元中的基本等级。"
+  },
+  {
+   "cn": "物种",
+   "en": "species",
+   "source": "资源科学技术名词",
+   "wordNumber": "13.005",
+   "subjectFullName": "资源科学技术_动物资源学",
+   "subjectName": "动物资源学",
+   "publishYear": "2008",
+   "definition": "是生物分类的基本单位，即具有一定的形态和生理特征以及一定的自然分布区的生物类群，是生物的繁殖、遗传和进化单元。"
+  },
+  {
+   "cn": "物种",
+   "en": "species",
+   "source": "遗传学名词",
+   "wordNumber": "07.072",
+   "subjectFullName": "遗传学_进化遗传学",
+   "subjectName": "进化遗传学",
+   "publishYear": "2007",
+   "definition": "能相互繁殖、享有一个共同基因库的一群个体，并和其他物种生殖隔离。"
+  },
+  {
+   "cn": "物种",
+   "en": "species",
+   "source": "生态学名词",
+   "wordNumber": "04.069",
+   "subjectFullName": "生态学_进化生态学",
+   "subjectName": "进化生态学",
+   "publishYear": "2006",
+   "definition": "基本的分类单元。能相互繁殖、享有一个共同基因库的一群个体，并和其他种生殖隔离。"
+  },
+  {
+   "cn": "形态",
+   "en": "species",
+   "source": "地理学名词",
+   "wordNumber": "09.062",
+   "subjectFullName": "地理学_环境地理学",
+   "subjectName": "环境地理学",
+   "publishYear": "2006",
+   "definition": "环境中污染物存在的形式，包括物理聚集态和化学状态(因价态、化学构成或结构不同而形成形态各异的化合物)。污染物的化学性质和行为与其在环境中的存在形态密切相关。"
+  },
+  {
+   "cn": "种",
+   "en": "species",
+   "source": "水产名词",
+   "wordNumber": "01.023",
+   "subjectFullName": "水产_水产基础科学",
+   "subjectName": "水产基础科学",
+   "publishYear": "2002",
+   "definition": "个体间能进行有性结合、正常繁育后代并且具有相对稳定遗传特性的自然种群。"
+  },
+  {
+   "cn": "种",
+   "en": "species",
+   "source": "昆虫学名词",
+   "wordNumber": "02.077",
+   "subjectFullName": "昆虫学_昆虫分类与进化",
+   "subjectName": "昆虫分类与进化",
+   "publishYear": "2000",
+   "definition": "生物中具有统一的构造和适应幅度，占有一定地理分布的群体，能自相繁殖而对其他群体呈现生殖隔离，代表着生物类群发展的一定阶段。分类中的阶元，包括亚种、变种和宗。"
+  },
+  {
+   "cn": "物种",
+   "en": "species",
+   "source": "医学名词 第三分册",
+   "wordNumber": "01.873",
+   "subjectFullName": "医学_医学遗传学",
+   "subjectName": "医学遗传学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "树种",
+   "en": "tree species,species",
+   "source": "林学名词",
+   "wordNumber": "01.069",
+   "subjectFullName": "林学_总论",
+   "subjectName": "总论",
+   "publishYear": "2016",
+   "definition": "树木的种类。是达到树木条件特征的植物种类最小单位，是植物分类上的树木名称。"
+  },
+  {
+   "cn": "报童问题",
+   "en": "newsboy problem,newsvendor problem",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0565",
+   "subjectFullName": "管理科学技术_运筹与管理_物流与供应链管理",
+   "subjectName": "物流与供应链管理",
+   "publishYear": "2016",
+   "definition": "为了满足单周期随机需求以最大化收益或者最小化费用的一次订货策略问题。"
+  },
+  {
+   "cn": "偶见种",
+   "en": "casual species,occasional species,incidental species",
+   "source": "植物学名词",
+   "wordNumber": "13.0286",
+   "subjectFullName": "植物学_植物生态学_植物群落与植被",
+   "subjectName": "植物群落与植被",
+   "publishYear": "2019",
+   "definition": "群落中偶然出现的物种。"
+  },
+  {
+   "cn": "孑遗种",
+   "en": "relic species,relict species,epibiotic species",
+   "source": "植物学名词",
+   "wordNumber": "02.0079",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "以前分布比较广泛，后来由于地质历史和环境的变迁，分布区缩小或伴随有迁移，现在仅在某个或某少数几个局部地区存在的古老现存种。主要指在第四纪冰川活动期存活下来的物种。"
+  },
+  {
+   "cn": "土著种",
+   "en": "endemic species,indigenous species,native species",
+   "source": "古生物学名词",
+   "wordNumber": "01.0060",
+   "subjectFullName": "古生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2009",
+   "definition": "指分布仅局限于某一特定地理区域的物种。"
+  },
+  {
+   "cn": "偶见种",
+   "en": "accidental species,incidental species,casual species",
+   "source": "生态学名词",
+   "wordNumber": "06.009",
+   "subjectFullName": "生态学_群落生态学",
+   "subjectName": "群落生态学",
+   "publishYear": "2006",
+   "definition": "在群落中出现频率很低的种类。"
+  },
+  {
+   "cn": "模拟问题",
+   "en": "simulation problem",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "03.008",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程模拟",
+   "subjectName": "过程模拟",
+   "publishYear": "2024",
+   "definition": "对所界定系统，在已知流程结构、设备参数、输入参数的情况下，根据所建立过程模型进行模拟计算，求解该系统的输出参数的问题。"
+  },
+  {
+   "cn": "设计问题",
+   "en": "design problem",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "03.009",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程模拟",
+   "subjectName": "过程模拟",
+   "publishYear": "2024",
+   "definition": "对已知流程结构的系统，在满足一定的设计要求（即输出变量）下，求取某些设备参数或系统输入参数；或对未知流程结构的系统，在满足一定的设计要求时，求取流程结构、某些设备参数或系统输入参数的问题。"
+  },
+  {
+   "cn": "问题",
+   "en": "problem",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "[物]种",
+   "en": "species",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "物种",
+   "en": "species",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "物种",
+   "en": "species",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "种,物种",
+   "en": "species",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "物种",
+   "en": "species",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "种，物种",
+   "en": "species",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "种",
+   "en": "species",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "偶见种，偶遇种",
+   "en": "casual species\",\"accidental species\",\"incidental species",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "偶遇种（=偶见种）",
+   "en": "casual species\",\"accidental species\",\"incidental species",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "外来种",
+   "en": "alien species\",\"exotic species\",\"allochthonous species",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "偶见种",
+   "en": "occasional species\",\"incidental species\",\"casual species",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "反[演]问题",
+   "en": "inverse problem",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "问题解决",
+   "en": "problem solving",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "对应问题",
+   "en": "correspondence problem",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "内倾问题",
+   "en": "internalizing problem",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "问题空间",
+   "en": "problem space",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "同构问题",
+   "en": "isomorphic problem",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "顿悟问题",
+   "en": "insight problem",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "问题表征",
+   "en": "problem representation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "运输问题",
+   "en": "transportation problem",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无约束问题",
+   "en": "unconstrained problem",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "背包问题",
+   "en": "knapsack problem",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "停机问题",
+   "en": "halting problem",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "问题空间",
+   "en": "problem space",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "问题求解",
+   "en": "problem solving",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "问题导向",
+   "en": "problem-oriented",
+   "source": "中国时政术语汉英对照（2012-2018年）",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "波斯特对应问题",
+   "en": "Post correspondence problem",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "环境问题",
+   "en": "environmental problem",
+   "source": "社会学名词",
+   "wordNumber": "3.14.3.3",
+   "subjectFullName": "社会学名词_分支社会学_环境社会学_环境问题及其产生根源",
+   "subjectName": "环境问题及其产生根源",
+   "publishYear": "2025",
+   "definition": "由于人类活动作用于周围环境所引起的环境质量变化，以及这种变化对人类的生产、生活和健康造成的影响。"
+  },
+  {
+   "cn": "妇女问题",
+   "en": "female problem",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.54",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "妇女因其性别而在经济、政治、社会和家庭省会中遇到的各种特殊障碍，导致她们在个人和家庭生活质量，以及在教育、就业、收入和社会政治参与等方面普遍存在劣势的问题。"
+  },
+  {
+   "cn": "民族问题",
+   "en": "national problem",
+   "source": "马克思主义",
+   "wordNumber": "03.0118",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "在民族发展和交往过程中产生的民族与民族之间的各种矛盾和问题，如民族歧视、民族纠纷、民族压迫等。民族问题是一个历史问题和社会政治问题，它在历史发展的不同时期表现出不同的性质和特点。解决民族问题，核心是实"
+  },
+  {
+   "cn": "农民问题",
+   "en": "peasants problem",
+   "source": "马克思主义",
+   "wordNumber": "04.0080",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "列宁于1921年2月8日俄共（布）中央政治局会议上写了《农民问题提纲初稿》，这是一篇表明苏维埃俄国农业政策、甚至整个经济政策重大变化的文献。列宁开始考虑用粮食税代替余粮征集。这篇文献奠定了新经济政策的"
+  },
+  {
+   "cn": "总问题",
+   "en": "General problem",
+   "source": "马克思主义",
+   "wordNumber": "05.0069",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "来自于阿尔都塞《保卫马克思》，指文本的深层结构，即一种思想产生和发展时所处的意识形态环境与这一思想的内在整体。"
+  },
+  {
+   "cn": "社会问题",
+   "en": "social problem",
+   "source": "社会医学名词",
+   "wordNumber": "13.1",
+   "subjectFullName": "社会病",
+   "subjectName": "社会问题",
+   "publishYear": "2025",
+   "definition": "社会中存在的人与自然、人与社会以及人与人之间关系的严重失调或冲突现象，影响社会的正常运转，阻碍社会的协调发展。例如，人口问题、环境污染问题、腐败问题、贫困问题、就业问题等。"
+  },
+  {
+   "cn": "问题识别",
+   "en": "problem identification",
+   "source": "社会医学名词",
+   "wordNumber": "10.1.2.1.1",
+   "subjectFullName": "政策与策略",
+   "subjectName": "政策",
+   "publishYear": "2025",
+   "definition": "通过对社会现象的分析、公众意见的收集或专家判断，将某一具体情况明确为需要政策干预的公共问题的过程，是整个政策过程的起点。"
+  },
+  {
+   "cn": "社会问题",
+   "en": "social problems",
+   "source": "社会学名词",
+   "wordNumber": "2.10.2.12",
+   "subjectFullName": "社会学名词_社会学一般概念_社会问题与社会控制_社会越轨",
+   "subjectName": "社会越轨",
+   "publishYear": "2025",
+   "definition": "社会成员普遍认为不符合社会预期，违反社会价值，扰乱社会秩序的社会现象。对社会稳定有负面影响，需要运用社会力量对社会结构进行调整和干预，对社会制度进行修正。"
+  },
+  {
+   "cn": "搭便车问题",
+   "en": "free rider problem",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.13",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "因为公共物品具有非竞争性和非排他性特征，使得具有理性自利特征的行动者不会积极主动地发起集体行动、提供集体物品以满足所属集团或组织的需要，而是采取不付成本或少付成本，坐享他人付出之利的行动策略。这反过来"
+  },
+  {
+   "cn": "价值转形问题",
+   "en": "value transformation problem",
+   "source": "马克思主义",
+   "wordNumber": "05.0122",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "在马克思的劳动价值论中，价值转化为生产价格被学术界称为价值转形理论。"
+  },
+  {
+   "cn": "都留重人问题",
+   "en": "Shigeto Tsuru problem",
+   "source": "马克思主义",
+   "wordNumber": "05.0154",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "日本都留重人针对我国对外开放中出现的弊端曾指出“对外开放应该有节制”。事实上，我国经济在对外开放的牵引下取得了高速的增长，但也带来了过分依靠外资和外国技术的弊端，这种弊端现在也无法完全克服。"
+  },
+  {
+   "cn": "问题行为理论",
+   "en": "problem-behavior theory",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.5.5",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_生活技能教育",
+   "subjectName": "生活技能教育",
+   "publishYear": "2025",
+   "definition": "杰瑟尔（Jessor）提出的基于行为由人与环境相互作用产生的前提来阐述青少年问题行为的性质及发生发展过程的社会心理学框架。"
+  },
+  {
+   "cn": "认知问题解决",
+   "en": "cognitive problem solving",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.5.7",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_生活技能教育",
+   "subjectName": "生活技能教育",
+   "publishYear": "2025",
+   "definition": "舒尔（Shure）和斯皮瓦克（Spivack）提出的通过提升儿童解决问题的能力，以增强其社会适应能力的干预理论。"
+  },
+  {
+   "cn": "解决问题能力",
+   "en": "problem solving skill",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.5.10.10",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_生活技能教育",
+   "subjectName": "生活技能教育",
+   "publishYear": "2025",
+   "definition": "正确认识自己面临的主要问题，寻找解决该问题的方法并评价其利弊，以便从中选择合适的解决方法的能力。有助于减轻未解决的重大问题对个体造成的心理压力，避免其引起身体紧张和不适。生活技能的核心技能之一。"
+  },
+  {
+   "cn": "偶发性社会问题",
+   "en": "incidental social problem",
+   "source": "社会医学名词",
+   "wordNumber": "13.1.2",
+   "subjectFullName": "社会病",
+   "subjectName": "社会问题",
+   "publishYear": "2025",
+   "definition": "社会系统中突然发生、难以预测、具有突发性和紧迫性，并对社会秩序、个体权益或公共安全造成一定影响的问题。例如重大疫情爆发、特大安全事故。"
+  },
+  {
+   "cn": "过失性社会问题",
+   "en": "negligent social problem",
+   "source": "社会医学名词",
+   "wordNumber": "13.1.3",
+   "subjectFullName": "社会病",
+   "subjectName": "社会问题",
+   "publishYear": "2025",
+   "definition": "部分人群偏离社会正常生活和规范而产生的问题，往往不需要制定新的政策来解决，而是可以通过教育和道德引导来改善。例如网络暴力、公共场所的不文明行为。"
+  },
+  {
+   "cn": "必发性社会问题",
+   "en": "inevitable social problem",
+   "source": "社会医学名词",
+   "wordNumber": "13.1.1",
+   "subjectFullName": "社会病",
+   "subjectName": "社会问题",
+   "publishYear": "2025",
+   "definition": "在社会发展的特定阶段或特定进程中，由于其内在的规律性、结构性原因或普遍的发展趋势而难以完全避免的问题。例如人口老龄化，大城市病。"
+  },
+  {
+   "cn": "结构性社会问题",
+   "en": "constitutive social problem",
+   "source": "社会医学名词",
+   "wordNumber": "13.1.4",
+   "subjectFullName": "社会病",
+   "subjectName": "社会问题",
+   "publishYear": "2025",
+   "definition": "由某些制度性、政策性的因素或社会发展中不可逾越的阶段引起的社会问题。例如城乡二元结构、贫富差距。"
+  },
+  {
+   "cn": "老年问题",
+   "en": "aging problem， aging issue",
+   "source": "社会学名词",
+   "wordNumber": "4.4.9.38",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作实务",
+   "subjectName": "社会工作实务",
+   "publishYear": "2025",
+   "definition": "老年人由于自身老化和外界环境的影响所带来的个人问题、家庭问题和社会问题，尤其是老年人个人需求的照顾满足问题。"
+  },
+  {
+   "cn": "青年社会问题",
+   "en": "social problems of youths",
+   "source": "社会学名词",
+   "wordNumber": "3.16.3.1",
+   "subjectFullName": "社会学名词_分支社会学_青少年研究_青少年问题",
+   "subjectName": "青少年问题",
+   "publishYear": "2025",
+   "definition": "青年态度与行为违反社会主流价值观和行为规范、妨碍社会正常运行和社会成员共同生活的社会现象。不同社会对社会问题有不同的看法。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,702 @@
+{
+ "key": "implicit conventions",
+ "term": "implicit conventions",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T16:38:13+00:00",
+ "status": "ok",
+ "note": "variant=implicit conventions; 审定公布名词库=458; 海峡两岸名词对照库=217; 其他来源数据库=24; 预公布名词数据库=24; jwt-direct（JWT 直连，raw 略；已滤维基 11 条）",
+ "hits": [
+  {
+   "cn": "习惯",
+   "en": "convention",
+   "source": "经济学名词",
+   "wordNumber": "05.020",
+   "subjectFullName": "经济学_制度经济学",
+   "subjectName": "制度经济学",
+   "publishYear": "2020",
+   "definition": "私人规则的一种类型，是由于重复或练习而巩固下来的、自然的个人行为方式。习惯是依靠便利或惯性来维持的。"
+  },
+  {
+   "cn": "隐性信息",
+   "en": "implicit information",
+   "source": "农学名词",
+   "wordNumber": "16.022",
+   "subjectFullName": "农业信息_农业数据与信息",
+   "subjectName": "农业数据与信息",
+   "publishYear": "2025",
+   "definition": "与显性信息相对，尚未或难以用文字、符号、图形等方式表达的信息。"
+  },
+  {
+   "cn": "隐性债务",
+   "en": "implicit debt",
+   "source": "农学名词",
+   "wordNumber": "19.272",
+   "subjectFullName": "农业经济与管理_农业财政金融与保险",
+   "subjectName": "农业财政金融与保险",
+   "publishYear": "2025",
+   "definition": "政府财政中，在法定债务预算之外需要政府直接或间接用财政资金偿还的债务。"
+  },
+  {
+   "cn": "隐定义",
+   "en": "implicit definition",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.040",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_意义标准",
+   "subjectName": "意义标准",
+   "publishYear": "2024",
+   "definition": "对一个概念的定义中出现的其他概念所作的定义。"
+  },
+  {
+   "cn": "隐式表达式",
+   "en": "implicit expression",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "03.048",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程模拟",
+   "subjectName": "过程模拟",
+   "publishYear": "2024",
+   "definition": "描述化工过程系统的各类方程，表达所含变量的某种约束等式关系。等式的表达形式为f(x)=0，未知变量被包含于表达式中。"
+  },
+  {
+   "cn": "隐式法",
+   "en": "implicit method",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "03.107",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程模拟",
+   "subjectName": "过程模拟",
+   "publishYear": "2024",
+   "definition": "相对于微分方程组求解显式法（如欧拉法、龙格-库塔法等）的另一类方法。隐式法通常包括离散化、构造隐式方程组、求解隐式方程组及更新解等主要步骤，通常比显式法具有更好的性能。"
+  },
+  {
+   "cn": "隐式方案",
+   "en": "implicit scheme",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "03.172",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程模拟",
+   "subjectName": "过程模拟",
+   "publishYear": "2024",
+   "definition": "当0<f≤1时的时间积分方案，无条件稳定，但其在时间域上只具有一阶截差精度，因此需要使用小的时间步长。"
+  },
+  {
+   "cn": "隐序",
+   "en": "implicit order",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.387",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_物理学哲学",
+   "subjectName": "物理学哲学",
+   "publishYear": "2024",
+   "definition": "物理学家D. J. 玻姆（D. J. Bohm）在1980年出版的《整体性与隐序》一书中提出的用来说明亚原子粒子奇特行为的一个概念。是实在涌现的更深层次的基础，意指每个部分都包括对象的某些信息，因此，"
+  },
+  {
+   "cn": "内隐记忆",
+   "en": "implicit memory",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.526",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "对先前经验的无意识记忆。"
+  },
+  {
+   "cn": "隐式枚举",
+   "en": "implicit enumeration",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "05.199",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程系统优化",
+   "subjectName": "过程系统优化",
+   "publishYear": "2024",
+   "definition": "整数规划问题的一种求解思想。根据求解过程中获得的可行性和目标函数的相关信息，不需要枚举所有的整数解即可得到最优解。通常认为该思想等同于分支定界，但与其早期版本有区别。"
+  },
+  {
+   "cn": "内隐记忆",
+   "en": "implicit memory",
+   "source": "麻醉学名词",
+   "wordNumber": "03.007",
+   "subjectFullName": "麻醉学_麻醉与围手术期管理_麻醉风险",
+   "subjectName": "麻醉风险",
+   "publishYear": "2024",
+   "definition": "与一定的操作和实践有关的记忆。即与直觉和意识无关的记忆。需要反复从事某种技能的操作，经过反复的经验积累才能缓慢地被保存下来的记忆。一旦建立，可保存较长时间，不再需要意识的参与。"
+  },
+  {
+   "cn": "隐含义",
+   "en": "implicit meaning",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.064",
+   "subjectFullName": "新闻学与传播学_传播总论_传播研究基础",
+   "subjectName": "传播研究基础",
+   "publishYear": "2022",
+   "definition": "符号的引申意义，属于意义的外围部分。"
+  },
+  {
+   "cn": "内隐行为",
+   "en": "implicit behavior",
+   "source": "行为医学名词",
+   "wordNumber": "1.003",
+   "subjectFullName": "行为医学_总论_行为基本概念",
+   "subjectName": "行为基本概念",
+   "publishYear": "2022",
+   "definition": "在神经系统调控下，机体内部不易被观察到的行为活动。如内分泌腺活动、平滑肌运动、思维活动等。"
+  },
+  {
+   "cn": "内隐记忆",
+   "en": "implicit memory",
+   "source": "行为医学名词",
+   "wordNumber": "4.029",
+   "subjectFullName": "行为医学_行为的心理学基础_认知与行为",
+   "subjectName": "认知与行为",
+   "publishYear": "2022",
+   "definition": "对过去经验无意识的记忆过程。"
+  },
+  {
+   "cn": "隐性成本",
+   "en": "implicit cost",
+   "source": "经济学名词",
+   "wordNumber": "03.110",
+   "subjectFullName": "经济学_微观经济学",
+   "subjectName": "微观经济学",
+   "publishYear": "2020",
+   "definition": "与厂商所使用的自有资源（包括企业家才能、自己所拥有的资本等）相联系的成本。它反映着这些资源同样能在别处使用这一事实。在计算厂商的总成本时，如果忽略掉隐性成本，将会使决策严重失误。隐性成本包括作为成本项"
+  },
+  {
+   "cn": "隐性契约",
+   "en": "implicit contract",
+   "source": "经济学名词",
+   "wordNumber": "05.017",
+   "subjectFullName": "经济学_制度经济学",
+   "subjectName": "制度经济学",
+   "publishYear": "2020",
+   "definition": "一种理论上的构想，用以阐述雇主和雇员之间达成默契的、超出书面约定的复杂协议。或者说，它是对交易双方利益的维护，但并不出现在交易双方的正式契约中，而是作为一种双方心照不宣的、对双方有约束力但隐含在正式契"
+  },
+  {
+   "cn": "内隐记忆",
+   "en": "implicit memory",
+   "source": "生理学名词",
+   "wordNumber": "03.708",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "暗引",
+   "en": "implicit citation",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "06.217",
+   "subjectFullName": "图书馆·情报与文献学_情报分析与研究_文献计量学",
+   "subjectName": "文献计量学",
+   "publishYear": "2019",
+   "definition": "文中引其内容而未注明其出处的引用行为。"
+  },
+  {
+   "cn": "隐性主题",
+   "en": "implicit subject",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "04.029",
+   "subjectFullName": "图书馆·情报与文献学_信息组织_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "文献中没有表述，却隐含在字面形式中的主题。标引隐性主题的难度较大，需要标引人员有较深厚的学科知识。"
+  },
+  {
+   "cn": "内隐记忆",
+   "en": "implicit memory",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "04.077",
+   "subjectFullName": "阿尔茨海默病_精神与心理认知学",
+   "subjectName": "精神与心理认知学",
+   "publishYear": "2019",
+   "definition": "在不需要意识或有意回忆的条件下，个体的过去经验对当前任务自动产生影响的心理现象。"
+  },
+  {
+   "cn": "约定",
+   "en": "convention",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "隐函数",
+   "en": "implicit function",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "隐式法",
+   "en": "implicit method",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "内隐自我主义",
+   "en": "implicit egotism",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "内隐态度",
+   "en": "implicit attitude",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "内隐理论",
+   "en": "implicit theory",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "内隐学习",
+   "en": "implicit learning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "内隐记忆",
+   "en": "implicit memory",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "内隐刻板印象",
+   "en": "implicit stereotype",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "内隐行为",
+   "en": "implicit behavior",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "内隐测量",
+   "en": "implicit measure",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "内含利息",
+   "en": "implicit interest",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "隐格式",
+   "en": "implicit scheme",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "隐式标记",
+   "en": "implicit tag",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "隐式并行性",
+   "en": "implicit parallelism",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "隐式请求",
+   "en": "implicit request",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "半隐[式]法",
+   "en": "semi-implicit method",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "半隐式格式",
+   "en": "semi-implicit scheme",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "隐式[差分]格式",
+   "en": "implicit difference scheme",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "隐式时间差分",
+   "en": "implicit time difference",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "隐性数据",
+   "en": "implicit data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "比显兴隐",
+   "en": "Make Analogy Explicit and Association Implicit",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络空间国际反恐公约",
+   "en": "international convention against terrorism in cyberspace",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《网络安全和个人数据保护公约》（非洲联盟）",
+   "en": "Convention on Cyber Security and Personal Data Protection (African Union)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《贵阳大数据交易所702公约》（中国）",
+   "en": "Global Big Data Exchange 702 Convention for Big Data Trading (Guiyang, China)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《个人数据处理中的个人保护公约》（欧洲委员会）",
+   "en": "Convention for the Protection of Individuals with regard to Automatic Processing of Personal Data (Council of Europe)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "显性数据",
+   "en": "explicit data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "目的明确",
+   "en": "explicit purpose",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "易简",
+   "en": "Ease and Simplicity",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "习俗惯制",
+   "en": "convention",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0459",
+   "subjectFullName": "民族学与文化学_民俗学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "所有俗民都遵守的风俗和被俗民普遍接受的行为模式和规范，它总是按一种常规的程序循环不已地支配着俗民的生活实践，养育出一代又一代负载民俗文化的群体。"
+  },
+  {
+   "cn": "隐性成本",
+   "en": "implicit cost",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.3.4.2",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给成本",
+   "subjectName": "卫生服务供给成本",
+   "publishYear": "2025",
+   "definition": "易忽略的及难以测量的成本，包括作为成本项目的机器设备和厂房等固定资本折旧费、企业主自己投入的资本的利息、企业家才能应得的报酬等。"
+  },
+  {
+   "cn": "传统细胞学检查",
+   "en": "conventional cytology",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.10.2.1.2.1",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_妇女常见病防治",
+   "subjectName": "妇女常见病防治",
+   "publishYear": "2025",
+   "definition": "通过采集子宫颈鳞柱上皮交接处转化区脱落细胞样本，并将样本涂抹于玻片上，用95%酒精固定，进行染色、封片后，对子宫颈细胞有无病变及病变程度进行描述的宫颈癌筛查方法。"
+  },
+  {
+   "cn": "国际马克思大会",
+   "en": "international Marx convention",
+   "source": "马克思主义",
+   "wordNumber": "05.0280",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_国外社会主义思想流派",
+   "subjectName": "国外社会主义思想流派",
+   "publishYear": "2025",
+   "definition": "1995年由法国《当代马克思》杂志发起，联合世界各地上百家国际马克思主义理论研究刊物和研究机构召开的国际性会议。大会以现实性、探索性、国际性、多元性和多学科性为宗旨，强调打破党派和学科界限，从学术上探"
+  },
+  {
+   "cn": "约定真值",
+   "en": "conventional true value",
+   "source": "放射卫生学",
+   "wordNumber": "5.5.1",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_监测与评价",
+   "subjectName": "监测与评价",
+   "publishYear": "2025",
+   "definition": "对于给定目的具有适当不确定度的、赋予特定量的值。有时该值是约定采用的。如：在给定地点，取由参考标准复现而赋予该量的值。常用某量的多次测量结果来确定。"
+  },
+  {
+   "cn": "常规岛",
+   "en": "conventional island，CI",
+   "source": "放射卫生学",
+   "wordNumber": "6.6.4.3",
+   "subjectFullName": "放射卫生学_放射防护_核工业的放射防护",
+   "subjectName": "核工业的放射防护",
+   "publishYear": "2025",
+   "definition": "核电装置中汽轮发电机组及其配套设施和它们所在厂房的统称。"
+  },
+  {
+   "cn": "核安全公约",
+   "en": "Convention on Nuclear Safety",
+   "source": "放射卫生学",
+   "wordNumber": "10.3.13",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_国际公约或条约",
+   "subjectName": "国际公约或条约",
+   "publishYear": "2025",
+   "definition": "国际原子能机构（IAEA）于1994年6月14日至17日在其总部举行的外交会议上通过的一项国际公约，旨在通过各国加强核安全措施与国际合作，维持并提高核动力厂的安全水平。其适用范围仅限于核动力厂。我国于"
+  },
+  {
+   "cn": "化学武器公约",
+   "en": "Chemical Weapons Convention， CWC",
+   "source": "军事预防医学名词",
+   "wordNumber": "10.2.8",
+   "subjectFullName": "军事预防医学_化学武器医学防护学_化学武器",
+   "subjectName": "化学武器",
+   "publishYear": "2025",
+   "definition": "全称“关于禁止发展、生产、储存和使用化学武器及销毁此种武器的公约（convention on the prohibition ofthe development, production, stockp"
+  },
+  {
+   "cn": "生物多样性公约",
+   "en": "Convention on Biological Diversity(CBD)",
+   "source": "社会学名词",
+   "wordNumber": "3.14.4.15",
+   "subjectFullName": "社会学名词_分支社会学_环境社会学_对环境问题的应对和行动",
+   "subjectName": "对环境问题的应对和行动",
+   "publishYear": "2025",
+   "definition": "一项保护地球生物资源的国际性公约，于1992年6月1日由联合国环境规划署发起的政府间谈判委员会第七次会议在内罗毕通过，1992年6月5日，由签约国在巴西里约热内卢举行的联合国环境与发展大会上签署，19"
+  },
+  {
+   "cn": "替代蛋白",
+   "en": "alternative proteins for conventional animal products",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.23.23",
+   "subjectFullName": "食品卫生学_食品_其他食品",
+   "subjectName": "其他食品",
+   "publishYear": "2025",
+   "definition": "非传统畜牧或渔业生产，能提供蛋白质来源的食物，以满足人类的蛋白质的需求，从新加工方式的工艺上包括植物基蛋白、发酵蛋白和细胞培育蛋白，从新食品资源上可以包括昆虫、藻类、酵母与真菌等。"
+  },
+  {
+   "cn": "及早通报核事故公约",
+   "en": "Convention on Early Notification of Nuclear Accident",
+   "source": "放射卫生学",
+   "wordNumber": "10.3.11",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_国际公约或条约",
+   "subjectName": "国际公约或条约",
+   "publishYear": "2025",
+   "definition": "由国际原子能机构组织制定，1986年10月27日开始生效。此公约旨在进一步加强核能的安全、发展和利用方面的国际合作，通过在缔约国之间尽早提供有关核事故的情报，以使可能超越国界的辐射后果减少到最低限度。"
+  },
+  {
+   "cn": "核损害补充赔偿公约",
+   "en": "Convention on Supplementary Compensation for Nuclear Damage",
+   "source": "放射卫生学",
+   "wordNumber": "10.3.14",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_国际公约或条约",
+   "subjectName": "国际公约或条约",
+   "publishYear": "2025",
+   "definition": "1997年12月举行的国际原子能机构第41届大会上获得通过的全球性法律文件。其主要目的是建立一个独立的、全球性的核损害补充赔偿机制，规定了一个额外的资金筹集制度，补充有关缔约国国内法规定可获得的赔偿。"
+  },
+  {
+   "cn": "防治荒漠化公约",
+   "en": "United Nations Convention on Combat Desertificaion(UNCCD)",
+   "source": "社会学名词",
+   "wordNumber": "3.14.4.14",
+   "subjectFullName": "社会学名词_分支社会学_环境社会学_对环境问题的应对和行动",
+   "subjectName": "对环境问题的应对和行动",
+   "publishYear": "2025",
+   "definition": "由各国政府共同制定国家级、次区域级和区域级行动方案，并与捐助方、地方社区和非政府组织合作，以对抗荒漠化的挑战。1994年6月7日在巴黎通过，并于1996年12月正式生效。"
+  },
+  {
+   "cn": "儿童权利公约",
+   "en": "convention on the rights of the child",
+   "source": "社会医学名词",
+   "wordNumber": "3.9.2",
+   "subjectFullName": "健康社会决定因素",
+   "subjectName": "儿童早期发展",
+   "publishYear": "2025",
+   "definition": "首个具法律约束力的国际公约，涵盖公民、经济、政治、文化和社会领域的所有人权，保障儿童权益。"
+  },
+  {
+   "cn": "核损害民事责任维也纳公约",
+   "en": "Vienna Convention on Civil Liability for Nuclear Damage",
+   "source": "放射卫生学",
+   "wordNumber": "10.3.9",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_国际公约或条约",
+   "subjectName": "国际公约或条约",
+   "publishYear": "2025",
+   "definition": "该公约的重大贡献是在核损害民事责任领域建立了一个全球性法律制度体系。公约要求营运人提供保险和其他财政保证，以满足事故责任最低的财政保证；如果营运人不能清偿索赔数额，装置国必须补足其差额，以达到其规定的"
+  },
+  {
+   "cn": "核材料实物保护公约",
+   "en": "Convention on the Physical Protection of Nuclear Material",
+   "source": "放射卫生学",
+   "wordNumber": "10.3.15",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_国际公约或条约",
+   "subjectName": "国际公约或条约",
+   "publishYear": "2025",
+   "definition": "《核材料实物保护公约》是民用核材料实物保护领域中唯一的国际法文书，其修订案于2005年在公约缔约国大会上获得通过。该公约各缔约国，确认一切国家有权为和平目的发展和利用核能，并合法享有和平利用核能所可能"
+  },
+  {
+   "cn": "联合国气候变化框架公约",
+   "en": "United Nations Framework Convention on Climate Change(UNFCCC)",
+   "source": "社会学名词",
+   "wordNumber": "3.14.4.16",
+   "subjectFullName": "社会学名词_分支社会学_环境社会学_对环境问题的应对和行动",
+   "subjectName": "对环境问题的应对和行动",
+   "publishYear": "2025",
+   "definition": "国际社会为应对气候变化共同签署的一项国际公约。1992年5月在纽约联合国总部通过，6月在巴西里约热内卢召开的世界各国政府首脑参加的联合国环境与发展会议期间开放签署，1994年3月21日正式生效。"
+  },
+  {
+   "cn": "传统改善病情抗风湿药",
+   "en": "conventional synthetic disease-modifying antirheumatic drug，cs-DMARD",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.7.1.4",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病常用药物及治疗_治疗药物",
+   "subjectName": "治疗药物",
+   "publishYear": "2025",
+   "definition": "nb-DMARD）”“慢作用抗风湿药（slow-acting anti-rheumatic drug, SAARD）”。类风湿关节炎治疗中用于减缓疾病进展的一类药物，起效较慢，常见的包括甲氨蝶呤、柳氮"
+  },
+  {
+   "cn": "核能领域第三方责任布鲁塞尔补充公约",
+   "en": "Brussels Convention Supplementary to the Paris Convention on Third Party Liability in the Field of Nuclear Energy",
+   "source": "放射卫生学",
+   "wordNumber": "10.3.8",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_国际公约或条约",
+   "subjectName": "国际公约或条约",
+   "publishYear": "2025",
+   "definition": "该公约通过由所有缔约国分摊的基金统筹机制，在运营者的责任限额之外提供附加的国家公共基金，提高了《1960年巴黎公约》规定的赔偿限额。该公约于2004年修订。"
+  },
+  {
+   "cn": "海上核材料运输民事责任公约",
+   "en": "Civil Duty Convention on Sea Transport of Nuclear Material",
+   "source": "放射卫生学",
+   "wordNumber": "10.3.10",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_国际公约或条约",
+   "subjectName": "国际公约或条约",
+   "publishYear": "2025",
+   "definition": "该公约是在原政府间海事协商组织、国际原子能机构和经济合作与发展组织下属的欧洲核能机构所做出的决定及采取的协作措施的基础上，于1971年11月29日至12月2日在布鲁塞尔召开的海上核材料运输的国际法律会"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

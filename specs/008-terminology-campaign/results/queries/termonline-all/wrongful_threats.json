@@ -1,0 +1,772 @@
+{
+ "key": "wrongful threats",
+ "term": "wrongful threats",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T16:42:12+00:00",
+ "status": "ok",
+ "note": "variant=wrongful threats; 审定公布名词库=529; 海峡两岸名词对照库=68; 其他来源数据库=27; 预公布名词数据库=23; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "致危因素",
+   "en": "threat",
+   "source": "资源科学技术名词",
+   "wordNumber": "13.077",
+   "subjectFullName": "资源科学技术_动物资源学",
+   "subjectName": "动物资源学",
+   "publishYear": "2008",
+   "definition": "造成生物生存危机的各种人为和非人为因素。"
+  },
+  {
+   "cn": "讹文",
+   "en": "wrong words",
+   "source": "档案学名词",
+   "wordNumber": "04.03.087",
+   "subjectFullName": "档案学_档案文献编纂_档案文献编纂方法",
+   "subjectName": "档案文献编纂方法",
+   "publishYear": "2024",
+   "definition": "档案文献因刊刻、传抄等形成的错字。"
+  },
+  {
+   "cn": "误收",
+   "en": "wrong collection",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "06.0334",
+   "subjectFullName": "机械工程（一）_机械测量与控制_机械测量",
+   "subjectName": "机械测量",
+   "publishYear": "2021",
+   "definition": "在检验过程中，发生的错误判断。"
+  },
+  {
+   "cn": "误字",
+   "en": "wrong words",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "08.300",
+   "subjectFullName": "图书馆·情报与文献学_文献学_校勘学",
+   "subjectName": "校勘学",
+   "publishYear": "2019",
+   "definition": "因抄写、排版等疏忽而造成的文字错误。"
+  },
+  {
+   "cn": "错简",
+   "en": "wrong compilation",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "08.304",
+   "subjectFullName": "图书馆·情报与文献学_文献学_校勘学",
+   "subjectName": "校勘学",
+   "publishYear": "2019",
+   "definition": "古时因编连简策的绳子断裂，重新编连后造成简策次序的颠倒，叫“错简”，后泛指图书中句子、段落或篇章的次序错乱。"
+  },
+  {
+   "cn": "误治",
+   "en": "wrong treatment",
+   "source": "中医药学名词",
+   "wordNumber": "03.487",
+   "subjectFullName": "中医药学_中医基础理论_病因",
+   "subjectName": "病因",
+   "publishYear": "2004",
+   "definition": "指诊断、辨证、治疗的失误。"
+  },
+  {
+   "cn": "错误显示",
+   "en": "wrong indication",
+   "source": "铁道科学技术名词",
+   "wordNumber": "08.0047",
+   "subjectFullName": "铁道科学技术_铁道信号",
+   "subjectName": "铁道信号",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "错误办理",
+   "en": "wrong handling",
+   "source": "铁道科学技术名词",
+   "wordNumber": "08.0669",
+   "subjectFullName": "铁道科学技术_铁道信号",
+   "subjectName": "铁道信号",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "偶然威胁",
+   "en": "accidental threat",
+   "source": "计算机科学技术名词",
+   "wordNumber": "10.0321",
+   "subjectFullName": "计算机科学技术_信息安全_系统安全分析与漏洞挖掘",
+   "subjectName": "系统安全分析与漏洞挖掘",
+   "publishYear": "2018",
+   "definition": "使系统状态发生偶然性非授权改变的行为。"
+  },
+  {
+   "cn": "威胁分析",
+   "en": "threat analysis",
+   "source": "计算机科学技术名词",
+   "wordNumber": "10.0269",
+   "subjectFullName": "计算机科学技术_信息安全_系统安全分析与漏洞挖掘",
+   "subjectName": "系统安全分析与漏洞挖掘",
+   "publishYear": "2018",
+   "definition": "对信息系统中存在的安全威胁以及威胁可能导致的潜在损失进行评估和测量。"
+  },
+  {
+   "cn": "威胁监控",
+   "en": "threat monitoring",
+   "source": "计算机科学技术名词",
+   "wordNumber": "10.0409",
+   "subjectFullName": "计算机科学技术_信息安全_安全监测与感知",
+   "subjectName": "安全监测与感知",
+   "publishYear": "2018",
+   "definition": "对审计跟踪及其他已搜集的数据进行的分析、评估及检查。目的是查出可能危及系统安全的违法行为或突发事变。"
+  },
+  {
+   "cn": "外部威胁",
+   "en": "outside threat",
+   "source": "计算机科学技术名词",
+   "wordNumber": "10.0364",
+   "subjectFullName": "计算机科学技术_信息安全_系统安全分析与漏洞挖掘",
+   "subjectName": "系统安全分析与漏洞挖掘",
+   "publishYear": "2018",
+   "definition": "利用系统安全脆弱点从外部环境攻击信息系统而造成的威胁。"
+  },
+  {
+   "cn": "内部威胁",
+   "en": "inside threat",
+   "source": "计算机科学技术名词",
+   "wordNumber": "10.0363",
+   "subjectFullName": "计算机科学技术_信息安全_系统安全分析与漏洞挖掘",
+   "subjectName": "系统安全分析与漏洞挖掘",
+   "publishYear": "2018",
+   "definition": "具有信息系统访问权限的内部人员滥用或误用权限，对信息系统安全造成的威胁。"
+  },
+  {
+   "cn": "威胁评估",
+   "en": "threat assessment",
+   "source": "放射医学与防护名词",
+   "wordNumber": "05.316",
+   "subjectFullName": "放射医学与防护_放射防护_放射防护管理",
+   "subjectName": "放射防护管理",
+   "publishYear": "2014",
+   "definition": "为确认涉及境内外的设施、活动或源相关的可能危险而进行的评估过程。以确定可能需要在境内采取防护行动的事件和相关地域，以及可能对减轻这类事件后果的有效的行动。"
+  },
+  {
+   "cn": "威吓行为",
+   "en": "threat behavior",
+   "source": "生态学名词",
+   "wordNumber": "03.179",
+   "subjectFullName": "生态学_行为生态学",
+   "subjectName": "行为生态学",
+   "publishYear": "2006",
+   "definition": "动物在战斗中摆出进攻姿态，意在把对方吓跑以避免真正的战斗。这种行为既能达到真正战斗的效果，又可避免双方受伤，是减少战斗双方伤亡的一种行为适应。"
+  },
+  {
+   "cn": "事故隐患",
+   "en": "accident threat",
+   "source": "铁道科学技术名词",
+   "wordNumber": "06.0626",
+   "subjectFullName": "铁道科学技术_铁道运输管理与运输经济",
+   "subjectName": "铁道运输管理与运输经济",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "威胁策略",
+   "en": "threat strategy",
+   "source": "数学名词",
+   "wordNumber": "011.0402",
+   "subjectFullName": "数学_运筹学_对策论",
+   "subjectName": "对策论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "威胁等级",
+   "en": "threat level",
+   "source": "电子学名词",
+   "wordNumber": "19.253",
+   "subjectFullName": "电子学_雷达与电子对抗",
+   "subjectName": "雷达与电子对抗",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "误爆概率",
+   "en": "wrong burst probability",
+   "source": "航天科学技术名词",
+   "wordNumber": "02.294",
+   "subjectFullName": "航天科学技术_航天运载器",
+   "subjectName": "航天运载器",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "误操作报警器",
+   "en": "wrong operation alarm",
+   "source": "船舶工程名词",
+   "wordNumber": "07.118",
+   "subjectFullName": "船舶工程_船舶电气",
+   "subjectName": "船舶电气",
+   "publishYear": "1998",
+   "definition": "发生误操作时能发出警报信号的报警器。"
+  },
+  {
+   "cn": "威胁",
+   "en": "threat",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "威吓行为",
+   "en": "threat behavior",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "威胁姿势",
+   "en": "threat posture",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "被动威胁",
+   "en": "passive threat",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "内部威胁",
+   "en": "inside threat",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "偶然威胁",
+   "en": "accidental threat",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "外部威胁",
+   "en": "outside threat",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "威胁等级",
+   "en": "threat level",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "威胁分析",
+   "en": "threat analysis",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "威胁监控",
+   "en": "threat monitoring",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "主动威胁",
+   "en": "active threat",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "误操作报警器",
+   "en": "wrong operation alarm",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "反像",
+   "en": "wrong-reading\",\"mirror reverse",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "预报评分",
+   "en": "forecast score\",\"threat score",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "喉管",
+   "en": "throat",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "线程",
+   "en": "thread",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "螺纹",
+   "en": "thread",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "螺旋丝",
+   "en": "spiral thread",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "花冠喉",
+   "en": "corolla throat",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "染色体丝",
+   "en": "chromosome thread",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "打乱阵脚",
+   "en": "wrong-foot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "打乱阵脚",
+   "en": "wrong-foot",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "威胁识别",
+   "en": "threat identification",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人工智能威胁论",
+   "en": "threat of AI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "安全威胁情报",
+   "en": "security threat intelligence",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信息安全威胁",
+   "en": "information security threat",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "高级可持续性攻击",
+   "en": "advanced persistent threat (APT)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "未知威胁监测平台",
+   "en": "monitoring platform for unknown threats",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "错射",
+   "en": "crossfire\",\"shot on the wrong target",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 36643-2018 信息安全技术 网络安全威胁信息格式规范》",
+   "en": "GB/T 36643-2018 Information security technology — Cyber security threat information format",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "拍颈",
+   "en": "throat",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "拍颈",
+   "en": "throat",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "咽喉革",
+   "en": "throat lash\",\"throat latch",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "护颈",
+   "en": "throat protector",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "锁喉",
+   "en": "throat hold",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "护颈",
+   "en": "throat protector",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "威胁评估",
+   "en": "threat assessment",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.6.23",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_分析评估",
+   "subjectName": "分析评估",
+   "publishYear": "2025",
+   "definition": "为确认涉及境内外设施的设施、活动或源相关的可能危险而进行的评估过程。已确定可能需要在境内采取防护行动的事件和相关地域，以及可能对减轻这类事件后果有关的有效的行动。"
+  },
+  {
+   "cn": "威胁等级",
+   "en": "threat level",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.1.17",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "为对核或辐射紧急情况的应急准备和响应进行优化而建立的一种分类方案，以求与威胁评估中所确立的危险的可能大小和性质相适应。威胁分为五种类型，I类到Ⅲ类按威胁水平逐次降低，Ⅳ类是在任何地区都可能存在的威胁和"
+  },
+  {
+   "cn": "刻板印象威胁",
+   "en": "stereotype threat",
+   "source": "社会学名词",
+   "wordNumber": "4.1.19.4",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_群际关系",
+   "subjectName": "群际关系",
+   "publishYear": "2025",
+   "definition": "由于一定的文化对某些群体持有负性刻板印象，群体成员在特定情景下由于担心受到别人会以这种观念来判断他和对待他，同时担心自己的表现会验证这种刻板印象而产生的威胁感。"
+  },
+  {
+   "cn": "智能与风险评估",
+   "en": "intelligence or threat assessment",
+   "source": "军事预防医学名词",
+   "wordNumber": "9.4.1.1",
+   "subjectFullName": "军事预防医学_生物武器医学防护学_生物战剂袭击侦检",
+   "subjectName": "生物战剂袭击侦检",
+   "publishYear": "2025",
+   "definition": "采用智能感知、识别、分析、评估等技术手段开展生物战剂风险的预测、预警及风险判定。"
+  },
+  {
+   "cn": "威胁评估与关键控制点",
+   "en": "threat assessment and critical control point, TACCP",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.65",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "对食品供应链中可能存在的投毒或破坏等恶意施加的危害（潜在的伤害源）、风险（危害的损失或损害的可能性）和脆弱性（对风险的敏感性）评估，发现薄弱环节与缺陷（脆弱性漏洞），对影响食品防护的关键环节或步骤进行"
+  },
+  {
+   "cn": "《中俄勘分西北界约记》",
+   "en": "Treaty of Chuguchak/Treaty of Tarbagatai",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0612",
+   "subjectFullName": "民族学与文化学_民族史_新疆研究",
+   "subjectName": "新疆研究",
+   "publishYear": "2025",
+   "definition": "1864 年清政府与沙俄签订的不平等条约，全文共10 条，通过《中俄勘分西北界约记》及三个子约，我国自巴尔喀什湖以东以南44 万平方公里土地被俄国割占。"
+  },
+  {
+   "cn": "布列斯特和约",
+   "en": "treaty of brestlitovsk",
+   "source": "马克思主义",
+   "wordNumber": "04.0075",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "1918年3月3日，苏维埃俄国在布列斯特—立托夫斯克同德国、奥匈帝国、保加利亚、土耳其四国签订的条约。按照这个和约，苏维埃俄国虽然丧失了部分领土，付出了巨额赔款，但却为年轻的苏维埃政权赢得了喘息时间，"
+  },
+  {
+   "cn": "华沙条约组织",
+   "en": "Warsaw Treaty Organization",
+   "source": "马克思主义",
+   "wordNumber": "05.0208",
+   "subjectFullName": "马克思主义_附录_国外社会主义运动_主要事件",
+   "subjectName": "主要事件",
+   "publishYear": "2025",
+   "definition": "为抗衡北大西洋公约组织（NATO）而成立的东欧社会主义国家的政治军事同盟。1955年德意志联邦共和国（西德）加入北约后，以苏联为首的欧洲社会主义阵营国家（包括德意志民主共和国，即东德）于1955年5月"
+  },
+  {
+   "cn": "《中俄伊犁条约》",
+   "en": "Sino Russian lli Treaty",
+   "source": "民族学与文化学名词",
+   "wordNumber": "3.0613",
+   "subjectFullName": "民族学与文化学_民族史_新疆研究",
+   "subjectName": "新疆研究",
+   "publishYear": "2025",
+   "definition": "1881 年2 月24 日清政府与俄国签订的不平等条约。中国虽收回了伊犁九城及特克斯河流域附近的领土，但仍割让了塔城东北和伊犁、喀什噶尔以西约7 万多平方公里的领土"
+  },
+  {
+   "cn": "咽喉与呼吸道综合征",
+   "en": "throat and respiratory syndrome",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.6.19.24",
+   "subjectFullName": "食品卫生学_食源性疾病_食物中毒卫生学处置",
+   "subjectName": "食物中毒卫生学处置",
+   "publishYear": "2025",
+   "definition": "咽喉和呼吸道同时受到感染或炎症引起的一系列症状和体征。常见的症状包括喉咙痛、咳嗽、喉部干燥、声音嘶哑、呼吸困难等"
+  },
+  {
+   "cn": "达标治疗",
+   "en": "treat-to-target，T2T",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.7.2.15",
+   "subjectFullName": "风湿免疫病学_总论_风湿免疫病常用药物及治疗",
+   "subjectName": "风湿免疫病常用药物及治疗",
+   "publishYear": "2025",
+   "definition": "一种治疗理念，最终目的是对疾病进行长程管理、降低并发症、改善自然病程。应用于类风湿关节炎、系统性红斑狼疮、痛风等疾病的治疗策略中，包括设定严格的治疗目标，密切监测及调整治疗方案以实现治疗目标。"
+  },
+  {
+   "cn": "[美苏]限制地下核武器试验条约",
+   "en": "Threshold Test Ban Treaty，TTBT",
+   "source": "放射卫生学",
+   "wordNumber": "10.3.4",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_国际公约或条约",
+   "subjectName": "国际公约或条约",
+   "publishYear": "2025",
+   "definition": "1963年签订《部分禁止核试验条约》后，地下核试验没有停止，迫于国际社会的压力，1974年7月3日美、苏签订了《限制地下核武器试验条约》。1990年两国议会分别批准该条约。"
+  },
+  {
+   "cn": "和平利用地下核爆炸条约",
+   "en": "Peaceful Nuclear Explosion Treaty，PNET",
+   "source": "放射卫生学",
+   "wordNumber": "10.3.5",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_国际公约或条约",
+   "subjectName": "国际公约或条约",
+   "publishYear": "2025",
+   "definition": "1974年《限制地下核武器试验条约》规定在缔约国管辖的任何地方禁止进行超过150kt的地下核试验。为了区分试验的目的，1974年10月美、苏开始《和平利用地下核爆炸条约》的谈判，1976年5月签署了该"
+  },
+  {
+   "cn": "全面禁止核试验条约",
+   "en": "Comprehensive Nuclear Test Ban Treaty，CTBT",
+   "source": "放射卫生学",
+   "wordNumber": "10.3.6",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_国际公约或条约",
+   "subjectName": "国际公约或条约",
+   "publishYear": "2025",
+   "definition": "1996年9月10日联合国第50届大会通过《全面禁止核试验条约》。截至2006年10月，已有176个国家签署了该条约。缔约国承诺不进行任何核武器爆炸，禁止和防止任何种类核爆炸，承诺不导致、不鼓励以任何"
+  },
+  {
+   "cn": "中苏友好同盟条约",
+   "en": "SinoSoviet treaty of friendship and alliance",
+   "source": "马克思主义",
+   "wordNumber": "04.0126",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "1945年8月14日，中国国民党政府同苏联在莫斯科签订此条约。共八条。主要内容：双方在对日本作战中相互给予一切必要的军事及其他援助和支持；双方在对日本作战停战后，共同采取措施，防止日本重新侵略；双方在"
+  },
+  {
+   "cn": "不扩散核武器条约",
+   "en": "Non-Proliferation of Nuclear Weapons Treaty，NPT",
+   "source": "放射卫生学",
+   "wordNumber": "10.3.2",
+   "subjectFullName": "放射卫生学_重要组织、机构和历史事件_国际公约或条约",
+   "subjectName": "国际公约或条约",
+   "publishYear": "2025",
+   "definition": "此条约系美、苏、英等59个国家于1968年7月1日，分别在伦敦、华盛顿和莫斯科签署的一项国际公约，1970年3月5日正式生效，有效期25年。我国在1992年3月加入该条约。1995年5月11日联合国通"
+  },
+  {
+   "cn": "打扫干净屋子再请客",
+   "en": "clean up the house to treat",
+   "source": "马克思主义",
+   "wordNumber": "03.0501",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "毛泽东于1949年1月31日在西柏坡接见斯大林派来的苏联共产党中央政治局委员米高扬时提出的一项外交方针。1949年3月，毛泽东在党的七届二中全会的报告中，对“打扫干净屋子再请客”、“另起炉灶”的外交方"
+  },
+  {
+   "cn": "中苏互不侵犯条约",
+   "en": "treaty of nonaggression between Soviet Union and China",
+   "source": "马克思主义",
+   "wordNumber": "04.0117",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "1937年8月21日，中国国民党政府在全国人民坚决拥护中国共产党坚持抗日主张的压力下，与苏联政府在南京签订了此条约。共四条。主要内容：双方斥责以战争为解决国际纠纷的方法和以战争为推行国家政策的工具；双"
+  },
+  {
+   "cn": "苏日互不侵犯条约",
+   "en": "treaty of nonaggression between Soviet Union and Japan",
+   "source": "马克思主义",
+   "wordNumber": "04.0119",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "苏联与日本于1941年4月13日签订的在战争中相互保证中立的条约，又称苏日中立条约。有效期5年。双方保证维护两国间的和平友好关系，相互尊重领土完整和不可侵犯；如缔约一方成为第三者的一国或几国的战争对象"
+  },
+  {
+   "cn": "中苏友好同盟互助条约",
+   "en": "SinoSoviet treaty of friendship alliance and mutual assistance",
+   "source": "马克思主义",
+   "wordNumber": "04.0127",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "1950年2月14日，中苏两国全权代表在莫斯科签订。同年4月11日生效，有效期30年。共六条。主要内容：缔约国双方保证共同采取措施，以期制止日本或与日本相互勾结的任何国家之重新侵略，缔约国一方一旦受到"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

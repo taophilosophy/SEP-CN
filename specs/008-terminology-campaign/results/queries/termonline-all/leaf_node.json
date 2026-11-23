@@ -1,0 +1,792 @@
+{
+ "key": "leaf node",
+ "term": "leaf node",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T16:39:01+00:00",
+ "status": "ok",
+ "note": "variant=leaf node; 审定公布名词库=2989; 海峡两岸名词对照库=1325; 其他来源数据库=102; 预公布名词数据库=59; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "叶节点",
+   "en": "leaf node",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0048",
+   "subjectFullName": "计算机科学技术_理论计算机科学_数据结构",
+   "subjectName": "数据结构",
+   "publishYear": "2018",
+   "definition": "树中度为零的节点。"
+  },
+  {
+   "cn": "叶结点",
+   "en": "leaf node",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.724",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "(1)树结构中最后的节点。(2)结构中的一个框，它没有图中更低一层的分支。"
+  },
+  {
+   "cn": "叶",
+   "en": "leaf",
+   "source": "农学名词",
+   "wordNumber": "01.040",
+   "subjectFullName": "总论_作物种类",
+   "subjectName": "作物种类",
+   "publishYear": "2025",
+   "definition": "作物着生于茎节上具有光合、蒸腾和吸收等功能的扁平侧生器官。通常由叶片和叶柄组成。"
+  },
+  {
+   "cn": "叶",
+   "en": "leaf",
+   "source": "中医药学名词",
+   "wordNumber": "06.027",
+   "subjectFullName": "中医药学_中药学_中药学总论",
+   "subjectName": "中药学总论",
+   "publishYear": "2004",
+   "definition": "维管植物的营养器官之一。由植株顶芽或侧芽茎尖顶端分生组织周缘区发生的叶原基生长和分化形成。"
+  },
+  {
+   "cn": "异面叶",
+   "en": "bifacial leaf,dorsiventral leaf",
+   "source": "植物学名词",
+   "wordNumber": "03.0184",
+   "subjectFullName": "植物学_植物形态与结构植物学_植物形态学",
+   "subjectName": "植物形态学",
+   "publishYear": "2019",
+   "definition": "栅栏组织在叶片近轴面，海绵组织位于远轴面的叶。如大多数被子植物的叶片。"
+  },
+  {
+   "cn": "苞叶",
+   "en": "bracteal leaf,subtending leaf",
+   "source": "植物学名词",
+   "wordNumber": "03.0198",
+   "subjectFullName": "植物学_植物形态与结构植物学_植物形态学",
+   "subjectName": "植物形态学",
+   "publishYear": "2019",
+   "definition": "在叶腋处具芽或总花梗的变态叶。"
+  },
+  {
+   "cn": "结点",
+   "en": "node",
+   "source": "地质学名词",
+   "wordNumber": "02.00.144",
+   "subjectFullName": "地质学_结晶学",
+   "subjectName": "结晶学",
+   "publishYear": "2026",
+   "definition": "在空间格子中规律的周期性平移重复的几何点。它是从具体的晶体结构中抽象出来的，本身并不代表任何质点。结点在空间格子中排布的规律性体现了晶体结构中的原子、离子或分子在空间分布的规律性。"
+  },
+  {
+   "cn": "节点",
+   "en": "node",
+   "source": "风景园林名词",
+   "wordNumber": "05.0193",
+   "subjectFullName": "风景园林_风景园林规划_区域景观与山水风貌规划",
+   "subjectName": "区域景观与山水风貌规划",
+   "publishYear": "2025",
+   "definition": "城市中人们所能进入的重要战略点、聚焦点和汇聚点。是一个地区辐射影响力的焦点，是视线汇集的地方，成为一种象征标志。"
+  },
+  {
+   "cn": "节点",
+   "en": "node",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "01.089",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_通论",
+   "subjectName": "通论",
+   "publishYear": "2024",
+   "definition": "图论中的一个基本元素。图论的另一元素为联线（edge，arc）。用节点和联线形成图，可以对化工流程和化工流程线性方程组解法等进行分析。"
+  },
+  {
+   "cn": "节点",
+   "en": "node",
+   "source": "地球物理学名词",
+   "wordNumber": "01.2696",
+   "subjectFullName": "地球物理学_地震科学_地震信号处理",
+   "subjectName": "地震信号处理",
+   "publishYear": "2022",
+   "definition": "有限元分析中的参考点。通常是角点。由于感兴趣的场量，如位移、应变和速度等假定为在有限元中以某种特定的方式变化，所以节点值是节点关键变量值的函数。 "
+  },
+  {
+   "cn": "波节",
+   "en": "node",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "02.0131",
+   "subjectFullName": "机械工程（一）_机械动力学_机械振动",
+   "subjectName": "机械振动",
+   "publishYear": "2021",
+   "definition": "在机械系统中某一波场特性的振幅为零的点、线或面。"
+  },
+  {
+   "cn": "结点",
+   "en": "node",
+   "source": "测绘学名词",
+   "wordNumber": "05.131",
+   "subjectFullName": "测绘学_地理信息工程",
+   "subjectName": "地理信息工程",
+   "publishYear": "2020",
+   "definition": "包括孤立点、线的端点、面的首尾点、链的连接点等。"
+  },
+  {
+   "cn": "节点",
+   "en": "node",
+   "source": "医学影像技术学名词",
+   "wordNumber": "09.113",
+   "subjectFullName": "医学影像技术学_影像存储与传输_医学影像信息系统",
+   "subjectName": "医学影像信息系统",
+   "publishYear": "2020",
+   "definition": "处理负载均衡发送数据通信流量的设备，指信息系统中的使用负载均衡技术调配的各个服务器。"
+  },
+  {
+   "cn": "节点",
+   "en": "node",
+   "source": "电力名词",
+   "wordNumber": "01.230",
+   "subjectFullName": "电力_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "连接于或不连接于一个或多个其他支路的支路端点。"
+  },
+  {
+   "cn": "[波]节",
+   "en": "node",
+   "source": "物理学名词",
+   "wordNumber": "03.0308",
+   "subjectFullName": "物理学_电磁学",
+   "subjectName": "电磁学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "节",
+   "en": "node",
+   "source": "植物学名词",
+   "wordNumber": "03.0070",
+   "subjectFullName": "植物学_植物形态与结构植物学_植物形态学",
+   "subjectName": "植物形态学",
+   "publishYear": "2019",
+   "definition": "茎上着生枝或叶的部位。"
+  },
+  {
+   "cn": "节点",
+   "en": "node",
+   "source": "生物物理学名词",
+   "wordNumber": "06.155",
+   "subjectFullName": "生物物理学_生物信息学_系统生物学与合成生物学",
+   "subjectName": "系统生物学与合成生物学",
+   "publishYear": "2018",
+   "definition": "生物网络的基本组成单元。通常是蛋白质、基因或者代谢产物等。"
+  },
+  {
+   "cn": "结点",
+   "en": "node",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0003",
+   "subjectFullName": "计算机科学技术_网络与数据通信_协议体系与组成结构",
+   "subjectName": "协议体系与组成结构",
+   "publishYear": "2018",
+   "definition": "网络拓扑中的一个设备。它通过一条或多条链路直接连接到一个或多个其他设备。"
+  },
+  {
+   "cn": "节点",
+   "en": "node",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0007",
+   "subjectFullName": "计算机科学技术_理论计算机科学_数据结构",
+   "subjectName": "数据结构",
+   "publishYear": "2018",
+   "definition": "在数据结构的图形表示中代表数据元素的连接点或端点。"
+  },
+  {
+   "cn": "[波函数]节面",
+   "en": "node",
+   "source": "化学名词",
+   "wordNumber": "04.1212",
+   "subjectFullName": "化学_物理化学_物质结构、理论和计算化学",
+   "subjectName": "物质结构、理论和计算化学",
+   "publishYear": "2016",
+   "definition": "波函数为零的平面或曲面。"
+  },
+  {
+   "cn": "叶节点",
+   "en": "leaf node",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "叶",
+   "en": "leaf",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "叶",
+   "en": "leaf",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "等面叶",
+   "en": "isobilateral leaf\",\"equifacial leaf\",\"isolateral leaf",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "苞叶",
+   "en": "bracteal leaf\",\"subtending leaf",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "背腹叶（=异面叶）",
+   "en": "bifacial leaf\",\"dorsiventral leaf",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "不完全叶",
+   "en": "incomplete leaf\",\"imperfect leaf",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "两面叶（=异面叶）",
+   "en": "bifacial leaf\",\"dorsiventral leaf",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "轮生叶",
+   "en": "verticillate leaf\",\"whorled leaf",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "肉质叶",
+   "en": "succulent leaf\",\"fleshy leaf",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "异面叶，背腹叶，两面叶",
+   "en": "bifacial leaf\",\"dorsiventral leaf",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "节点",
+   "en": "node",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "波节",
+   "en": "node",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "交点",
+   "en": "node",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "节点",
+   "en": "node",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "节点",
+   "en": "node",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "结点, 节点",
+   "en": "node",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "结[节]点",
+   "en": "node",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "节点",
+   "en": "node",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "节点",
+   "en": "node",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "节点攻击",
+   "en": "node attack",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "信任节点网络",
+   "en": "trust node network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "节点链接法",
+   "en": "node link method",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "感知节点设备安全",
+   "en": "sensor node security",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "感知节点管理",
+   "en": "sensor node management",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "感知节点物理防护",
+   "en": "physical safeguard of sensor node",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "领先",
+   "en": "lead",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "漏洞",
+   "en": "leak",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "领先",
+   "en": "lead",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "领先",
+   "en": "lead\",\"advantage",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "跳",
+   "en": "jump\",\"leap",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "马鼻",
+   "en": "nose",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "身体后倾",
+   "en": "backward lean",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "鹿跳",
+   "en": "stag leap",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "马步跳",
+   "en": "gallop leap",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "大跨跳",
+   "en": "split leap",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "领先船",
+   "en": "lead boat",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "导缆器",
+   "en": "fair lead",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "节点",
+   "en": "node",
+   "source": "社会学名词",
+   "wordNumber": "2.7.2.9",
+   "subjectFullName": "社会学名词_社会学一般概念_社会网络与社会资本_理论与方法",
+   "subjectName": "理论与方法",
+   "publishYear": "2025",
+   "definition": "网络分析中的个体单元，可以是个人、家庭、城市、国家等不同层次的单元。"
+  },
+  {
+   "cn": "鲜叶",
+   "en": "fresh leaf",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.19.17",
+   "subjectFullName": "食品卫生学_食品_茶与代用茶",
+   "subjectName": "茶与代用茶",
+   "publishYear": "2025",
+   "definition": "从茶树上采摘下的新梢的总称，包括芽、叶、梗，是茶叶加工的原料。"
+  },
+  {
+   "cn": "丁香叶油",
+   "en": "clove leaf oil",
+   "source": "食品卫生学名词",
+   "wordNumber": "6.3.1.4",
+   "subjectFullName": "食品卫生学_食品添加剂_食品用香精香料",
+   "subjectName": "食品用香精香料",
+   "publishYear": "2025",
+   "definition": "桃金娘科植物丁香的干燥花蕾、叶经水蒸气蒸馏得到的无色或淡黄色精油，主要成分为丁香酚。有丁香的特征香气，常用于食品香精的调配。"
+  },
+  {
+   "cn": "赫伯登结节",
+   "en": "Heberden’s node",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.3.3.29",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_体征",
+   "subjectName": "体征",
+   "publishYear": "2025",
+   "definition": "手指远端指间关节的关节软骨退行性改变，表现为骨性膨大及增生，是手骨关节炎的典型表现。"
+  },
+  {
+   "cn": "布夏尔结节",
+   "en": "Bouchard’s node",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.4.3.3.30",
+   "subjectFullName": "风湿免疫病学_总论_症状与体征_体征",
+   "subjectName": "体征",
+   "publishYear": "2025",
+   "definition": "位于双手近端指间关节的骨性膨大，性质同赫伯登结节，是手骨关节炎的典型表现。"
+  },
+  {
+   "cn": "贮青",
+   "en": "storing of green leaf",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.19.20",
+   "subjectFullName": "食品卫生学_食品_茶与代用茶",
+   "subjectName": "茶与代用茶",
+   "publishYear": "2025",
+   "definition": "鲜叶在采摘后的一段时间内，为了保持茶叶新鲜度所采取的措施。"
+  },
+  {
+   "cn": "铅",
+   "en": "lead",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.4.2",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_辐射防护材料",
+   "subjectName": "辐射防护材料",
+   "publishYear": "2025",
+   "definition": "元素周期表中原子序数为82，属ⅣA族金属元素，元素符号Pb。常用的X、γ射线屏蔽材料，密度为11.34g·cm-3。"
+  },
+  {
+   "cn": "铅",
+   "en": "lead",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.2.3.7",
+   "subjectFullName": "食品卫生学_食品污染_食品化学性危害因素",
+   "subjectName": "食品化学性危害因素",
+   "publishYear": "2025",
+   "definition": "符号Pb，原子量207，是淡灰色重金属。可通过环境迁移污染食品。温度超过400℃时即有大量铅蒸气逸出，在空气中迅速氧化成氧化铅烟，超限量摄入对人体有害。"
+  },
+  {
+   "cn": "票据",
+   "en": "note",
+   "source": "马克思主义",
+   "wordNumber": "02.0255",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "载明一定金额、在一定到期日、由债务人向债权人支付款项的信用证券。票据可以转让流通，由货币支付手段的职能产生。"
+  },
+  {
+   "cn": "少脂鱼",
+   "en": "lean fish",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.7.15",
+   "subjectFullName": "食品卫生学_食品_水产品",
+   "subjectName": "水产品",
+   "publishYear": "2025",
+   "definition": "体内的脂肪主要储存在肝脏的鱼类，其鱼肉中脂肪含量低于2% 。"
+  },
+  {
+   "cn": "泄露测试",
+   "en": "leak test",
+   "source": "消毒学",
+   "wordNumber": "3.1.3.10.13",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "用于检测封闭腔体的密闭情况，以确保灭菌器能够正常运行并防止可能危险的测试方法。通常应用于消毒灭菌过程的开始阶段，以确保消毒灭菌过程中的蒸汽、环氧乙烷气体、蒸汽甲醛等气体不会发生泄漏。"
+  },
+  {
+   "cn": "铅当量",
+   "en": "lead equivalent",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.2.31",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_外照射屏蔽防护设计",
+   "subjectName": "外照射屏蔽防护设计",
+   "publishYear": "2025",
+   "definition": "用铅作为参考物质时，用铅的厚度来表示的某种物质衰减当量。单位为毫米铅（mm Pb）。"
+  },
+  {
+   "cn": "铅屏风",
+   "en": "lead screen",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.3.2",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_辐射防护用品与器具",
+   "subjectName": "辐射防护用品与器具",
+   "publishYear": "2025",
+   "definition": "一种可防护射线的含铅移动屏蔽装置，可设观察窗，可制作成单片或多折的形式。"
+  },
+  {
+   "cn": "铅橡胶",
+   "en": "lead rubber",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.4.13",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_辐射防护材料",
+   "subjectName": "辐射防护材料",
+   "publishYear": "2025",
+   "definition": "一种软质X、γ射线防护材料，是天然优质橡胶[分子式为（C5H8）]或合成橡胶（如氯丁橡胶）与氧化铅等金属化合物混炼、硫化而成的橡胶制品。"
+  },
+  {
+   "cn": "铅玻璃",
+   "en": "lead glass",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.4.14",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_辐射防护材料",
+   "subjectName": "辐射防护材料",
+   "publishYear": "2025",
+   "definition": "生产过程中特意添加氧化铅制成的玻璃，在放射防护领域常用于制作既能屏蔽辐射又便于观察的防护器具。分为有机铅玻璃和无机铅玻璃。"
+  },
+  {
+   "cn": "铅污染",
+   "en": "lead contamination",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "2.8.2.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_生长发育_生长发育影响因素",
+   "subjectName": "生长发育影响因素",
+   "publishYear": "2025",
+   "definition": "过量铅对环境造成的污染。"
+  },
+  {
+   "cn": "语码混合",
+   "en": "code-mixing",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.011",
+   "subjectFullName": "民族学与文化学_民族语文研究_语言状况与规划",
+   "subjectName": "语言状况与规划",
+   "publishYear": "2025",
+   "definition": "一个语句含有两种或多种语码的现象。"
+  },
+  {
+   "cn": "作用方式",
+   "en": "action mode",
+   "source": "消毒学",
+   "wordNumber": "6.2.26.7.3",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "消毒因子对消毒对象的作用形式，包括浸泡、擦拭、喷雾、冲洗等。"
+  },
+  {
+   "cn": "连续方式",
+   "en": "continuous mode",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.56",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "在X射线发生装置中电能以连续形式施加于X射线管的加载方式。"
+  },
+  {
+   "cn": "间歇方式",
+   "en": "intermittent mode",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.57",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "在X射线发生装置中电能以单次、间歇或脉冲形式施加于X射线管的加载方式。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
