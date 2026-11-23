@@ -36,3 +36,21 @@
 
 - 154 组主形碰撞中剩余的跨传统并存组未逐一裁定，属登记层既有格局，非本线引入。
 - 合并动作改写了 20 行既有行的键与依据列，已在依据列留「2026-11-23 合并同日重复登记形」痕迹；如需回溯，可按该串检索。
+
+## 五、主形碰撞 135 组逐组定性（第二轮）
+
+机器初筛（大小写/连字符归一、单复数、前缀三档）＋逐组人工核对，结论：
+
+1. **占位主形 2 组**（「保留原文」「拉丁原文保留」）：登记惯例（无通行汉名保留原文），非碰撞。
+2. **裁定合并 6 组**（本轮；同概念/同著作异形）：
+   - excluded middle ＋ law of excluded middle（排中律）
+   - Outlines of Pyrrhonism ＋ Outline of Pyrrhonism（《皮浪主义纲要》，旧行带希腊原文列为主）
+   - ordinary objects ＋ ordinary object（日常对象）
+   - research program ＋ research programme（研究纲领；Lakatos 行为主）
+   - Phenomenology of Spirit ＋ phenomenology of mind（《精神现象学》黑格尔，gadamer-aesthetics 旧行为主）
+   - sadō ＋ chadō（茶道，两种罗马字）
+3. **同概念异语传统，合法并存（约 100 组）**：同一中文译名对应梵/阿拉伯/希腊/拉丁/日/汉字等不同语源的词（无我 anātman/nairātmya、德性 aretê/virtue、范畴 category/tattva、直观 Anschauung/intuition 等），登记层有意分行，逐组抽核无误。
+4. **同形不同义，合法分行（约 12 组）**：括注限定已到位——pudgala（佛教／耆那）、ontology（Leśniewski 逻辑系统／一般本体论）、蕴涵（entailment／implication）、图式（Kant schema／scheme）、社会建构论（constructionism／constructivism）、道德义务（duties／obligation）、心理状态（mental／psychological states）、《数学原理》（Principia Mathematica 与 Principles of Mathematics 两书同名，两行均存，语料靠上下文区分，留译注级提示待词条阶段处理）。
+5. **辨析后保留 2 组**（前轮）：可靠认知（知识论／量论）、统计相关性（一般／SR 模型）。
+
+合计 2＋6＋约100＋约12＋2＝135，全部有归属。合并后术语表 8,069 → 8,063，`check_terms` 硬错误 0。

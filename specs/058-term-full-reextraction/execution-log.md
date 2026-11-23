@@ -276,3 +276,9 @@
 * 落地率：当日 835 条术语中主形在 2,021 篇中文译文出现 364 条（43.6%），其余为前瞻性登记；抽查未落地项（丘奇论题、帕累托原则、良序原则、恶性循环原则、概率因果性）均为登记形与语料并行，非误登。
 * 防线：`tools/term_flow.py` 增「中文主形已存在」告警（只告警不拦截），合成用例正确触发；全量单测 578 项通过。
 * 报告：`results/quality-check-2026-11-23.md`。
+
+## 2026-11-23：主形碰撞 135 组逐组定性（续前）
+
+* 机器初筛（归一化后 case/punct、单复数、前缀三档）＋逐组人工核对：占位主形 2 组；裁定合并 6 组（excluded middle→law of excluded middle、Outlines→Outline of Pyrrhonism、ordinary objects→ordinary object、research program→research programme、Phenomenology of Spirit→phenomenology of mind、sadō→chadō）；同概念异语传统合法并存约 100 组；同形不同义合法分行约 12 组（含《数学原理》两书同名）；辨析保留 2 组。全部 135 组有归属，报告已更新。
+* 合并动作同前轮：新行删去、旧行键追加合写别名、依据列留痕。术语表 8,069→8,063，`registry_azsort` 守恒，`check_terms` 硬错误 0。
+* 《数学原理》两书同名（Principia Mathematica 与 Principles of Mathematics）为同形不同义双行，词条阶段需按上下文区分，已在报告标注。

@@ -936,7 +936,7 @@
 | certainty equivalent | — | 确定性等值 | risk | 学界惯例（决策论通行）；凭证 2026-11-09 | 2026-11-09 |
 | ceteris paribus | ceteris paribus | 其他条件不变（亦作“其余条件相同”） | justep-coherence；repugnant-conclusion | 学界惯例（哲学通译“其余情况相同”）；2026-11-20 复核：合并（同键变体，来源列并双 slug） | 2026-11-11 |
 | ceteris paribus preference | — | 其余条件相同的偏好 | logic-preference | 本表既有“其余条件相同”（justep-coherence）派生 | 2026-11-05 |
-| chadō | 茶道 | 茶道 | japanese-aesthetics | 学界惯例（日本茶道研究通行译法“茶道”）；撞形豁免 2026-11-21：同形异语／同概念异形，按条目语境区分，不合并 | 2026-11-21 |
+| chadō / sadō | 茶道 | 茶道 | japanese-aesthetics | 学界惯例（日本茶道研究通行译法“茶道”）；撞形豁免 2026-11-21：同形异语／同概念异形，按条目语境区分，不合并；2026-11-23 主形碰撞裁定合并（同概念/同著作异形：sadō） | 2026-11-21 |
 | chain of being | — | 存在之链 | kant-development | 学界通行（Lovejoy 大存在之链研究；蒲柏诗语）；凭证 2026-11-11 | 2026-11-11 |
 | Chakravarti | चक्रवर्तिन् | 转轮圣王 | korean-buddhism | 佛典古译（转轮圣王/转轮王） | 2026-11-05 |
 | Chan Buddhism | — | 禅宗 | 语料回收（标题词） | 审定名词库（termonline-all·中国古代史·隋唐五代·宗教，2026-10-31 浏览器通道凭证） | 2026-10-31 |
@@ -2368,7 +2368,6 @@
 | exchange principle | Tauschprinzip | 交换原则 | adorno | 学界通行汉译（阿多诺研究通行）；凭证 2026-11-10 | 2026-11-10 |
 | exchange society | Tauschgesellschaft | 交换社会 | adorno | 学界通行汉译（阿多诺研究通行）；凭证 2026-11-10 | 2026-11-10 |
 | exciting reasons | — | 激发性理由 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
-| excluded middle | — | 排中律 | 语料回收（specs/058 全库提取） | 学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22） | 2026-11-22 |
 | excluded-middle sentence schema | — | 排中语句图式 | schema | 构词直译 | 2026-11-06 |
 | exclusionary reason | — | 排他性理由 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | exclusive disjunction | — | 互斥析取 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·数学·数理逻辑·数学基础·模型论，2026-11-18 JWT 直连凭证） | 2026-11-19 |
@@ -3883,7 +3882,7 @@
 | latus rectum | — | 通径 | newton-principia | 圆锥曲线与天体力学通行；凭证 2026-11-11 | 2026-11-11 |
 | law of commutativeness | — | 交换律 | 首现（william-jevons） | 学界通行（代数-逻辑标准术语） | 2026-11-07 |
 | Law of Contradiction | — | 矛盾律 | 首现（william-jevons） | 学界通行（经典思维规律译名） | 2026-11-07 |
-| law of excluded middle | — | 排中律 | intentionality-ancient | 逻辑学通行译法；旧键“law of the excluded middle”并入（2026-11-21 撞形处置；旧键首现：首现（william-jevons）） | 2026-11-21 |
+| law of excluded middle / excluded middle | — | 排中律 | intentionality-ancient | 逻辑学通行译法；旧键“law of the excluded middle”并入（2026-11-21 撞形处置；旧键首现：首现（william-jevons））；2026-11-23 主形碰撞裁定合并（同概念/同著作异形：excluded middle） | 2026-11-21 |
 | Law of Identity | — | 同一律 | 首现（william-jevons） | 学界通行（经典思维规律译名） | 2026-11-07 |
 | law of nations | — | 万民法 | colonialism；cosmopolitanism 首译 | 学界通行（格劳秀斯—普芬多夫传统 ius gentium，亦见 Victoria 传统译名）；凭证 2026-11-07、2026-11-09 | 2026-11-09 |
 | Law of Peoples | — | 《万民法》 | 语料回收（specs/058 全库提取） | 权威译本（罗尔斯著作通行汉译；审定库命中“全员参与”等他义；审定库无对口条目，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
@@ -5102,8 +5101,7 @@
 | ordinal sum | — | 序和 | logic-fuzzy | t-范数理论通行译法；凭证 2026-11-09 | 2026-11-09 |
 | ordinary beings | — | 凡夫（佛教） | 语料回收（标题词） | 学界惯例（佛教学通行）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
 | ordinary language | — | 日常语言 | 首译（stebbing） | 学界通行（日常语言哲学）；凭证 2026-11-09 | 2026-11-09 |
-| ordinary object | — | 日常对象 | object 首译 | 学界通行汉译（ordinary objects 辩论）；凭证 2026-11-07 | 2026-11-07 |
-| ordinary objects | — | 日常对象 | 语料回收（specs/058 全库提取） | 学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22） | 2026-11-22 |
+| ordinary object / ordinary objects | — | 日常对象 | object 首译 | 学界通行汉译（ordinary objects 辩论）；凭证 2026-11-07；2026-11-23 主形碰撞裁定合并（同概念/同著作异形：ordinary objects） | 2026-11-07 |
 | ordinary quantifiers | — | 普通量词 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | ordo (of presentation) | — | 呈现秩序（ordo；与狭义 methodus 方法对举） | zabarella | 构词译法（Zabarella 术语 order of presentation）；凭证 2026-11-09 | 2026-11-09 |
 | ordo doctrinae | — | 教学秩序（保留拉丁，首现括注） | zabarella | 学界惯例（Zabarella–Piccolomini 论战研究）；凭证 2026-11-09 | 2026-11-09 |
@@ -5140,8 +5138,7 @@
 | ou mallon | οὐ μᾶλλον | 并不更 | democritus | 学界通行（原子论—怀疑论“无差异”论证式；正文完整式作“并不比…更”）；旧键“ouden mallon”并入（2026-11-21 逐行研判；旧键首现：首现（timon-phlius）） | 2026-11-21 |
 | outer models | — | 外模型 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | outer quantifiers | — | 外量词 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
-| Outline of Pyrrhonism | Πυρρώνειοι ὑποτυπώσεις | 《皮浪主义纲要》 | epicurus | 学界通行（塞克斯都·恩披里柯） | 2026-11-12 |
-| Outlines of Pyrrhonism | — | 《皮浪主义纲要》 | 语料回收（specs/058 全库提取） | 权威译本（塞克斯都·恩披里柯著作通行汉译；审定库无对口条目，2026-11-22）；凭证 2026-11-22 | 2026-11-22 |
+| Outline of Pyrrhonism / Outlines of Pyrrhonism | Πυρρώνειοι ὑποτυπώσεις | 《皮浪主义纲要》 | epicurus | 学界通行（塞克斯都·恩披里柯）；2026-11-23 主形碰撞裁定合并（同概念/同著作异形：Outlines of Pyrrhonism） | 2026-11-12 |
 | outside option | — | 外部选项 | justice-moral-psych | 博弈论通行汉译；凭证 2026-11-10 | 2026-11-10 |
 | Over-Soul | — | 超灵 | emerson | 学界通行（爱默生《论超灵》） | 2026-11-07 |
 | overdetermination | causal overdetermination | 过度决定（因果过度决定） | occasionalism 首译 | 学界通行汉译；凭证 2026-11-07 | 2026-11-07 |
@@ -5356,9 +5353,8 @@
 | Phenomenological Approaches | — | 现象学方法 | 语料回收（词汇表并网） | 学界惯例（词汇表并网迁移）；词汇表并网（ADR-0036）；审定库无相关命中（termonline-all 凭证 2026-11-13）| 2026-11-13 |
 | phenomenological puzzle | — | 现象学谜题 | imaginative-resistance | 首译（Weatherson 2004）；凭证 2026-11-12 | 2026-11-12 |
 | phenomenology | — | 现象学 | gadamer-aesthetics | 学界惯例（现象学通行）；审定库无相关命中（凭证 2026-11-01） | 2026-11-01 |
-| phenomenology of mind | — | 《精神现象学》（黑格尔） | gadamer-aesthetics | 权威译本通行译法（黑格尔《精神现象学》） | 2026-11-01 |
+| phenomenology of mind / Phenomenology of Spirit | — | 《精神现象学》（黑格尔） | gadamer-aesthetics | 权威译本通行译法（黑格尔《精神现象学》）；2026-11-23 主形碰撞裁定合并（同概念/同著作异形：Phenomenology of Spirit） | 2026-11-01 |
 | Phenomenology of Perception | — | 《知觉现象学》 | 语料回收（specs/058 全库提取） | 权威译本（梅洛-庞蒂著作通行汉译；审定库仅命中“现象学”概念；审定库无对口条目，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
-| Phenomenology of Spirit | — | 《精神现象学》 | 语料回收（specs/058 全库提取） | 权威译本（贺麟、王玖兴译本（商务印书馆）；审定库无对口条目，2026-11-22）；凭证 2026-11-22 | 2026-11-22 |
 | phenotype | — | 表型 | genetics | 遗传学通行译名；凭证 2026-11-11（主会话直译 g/genetics） | 2026-11-11 |
 | Phenotypic plasticity | — | 表型可塑性 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·动物学·动物进化与系统学·动物进化，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | phenotypic variation | — | 表型变异 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·行为医学·行为的生物学基础·遗传学基础·遗传和环境变异，2026-11-18 JWT 直连凭证） | 2026-11-19 |
@@ -6248,8 +6244,7 @@
 | res extensa | — | 广延实体 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | Research | — | 研究 | 语料回收（词汇表并网） | 学界惯例（词汇表并网迁移）；词汇表并网（ADR-0036）；审定库一致（termonline-all 凭证 2026-11-13）| 2026-11-13 |
 | research participant | — | 研究参与者 | informed-consent | 学界惯例（与 subject 受试者并行的现行伦理用语） | 2026-11-12 |
-| research program | — | 研究纲领 | 语料回收（specs/058 全库提取） | 学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22） | 2026-11-22 |
-| research programme | — | 研究纲领 | 语料回收（lakatos 首译） | 科学哲学界通行译法；凭证 2026-11-06 | 2026-11-06 |
+| research programme / research program | — | 研究纲领 | 语料回收（lakatos 首译） | 科学哲学界通行译法；凭证 2026-11-06；2026-11-23 主形碰撞裁定合并（同概念/同著作异形：research program） | 2026-11-06 |
 | research tradition | — | 研究传统 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·自然辩证法·科学哲学·一般科学哲学·科学哲学的社会·历史转向，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | resemblance nominalism | — | 相似唯名论 | nominalism-metaphysics | 分析形而上学通行 | 2026-11-10 |
 | resemblance theory | — | 相似论 | music | 学界通行（音乐表现力理论）；凭证 2026-11-09 | 2026-11-09 |
@@ -6375,7 +6370,6 @@
 | sādhya | साध्य | 宗（所立） | jaina-philosophy | 因明传统译名（三支／五支之“宗”）；撞形豁免 2026-11-21：耆那教 sādhya（所立之宗）与因明 pakṣa（宗）分属两传统，按条区分，不合并 | 2026-11-21 |
 | sādhyābhāvavad-avṛttitvam | — | 于所立之无处不转 | early-modern-india | V1 定义义译（源文自注 non-occurrence in the loci of absence of S）；凭证 2026-11-10；原文列：工具书查无原生文字（2026-11-20 检 wisdomlib／GND／BDRC／84000／Logeion，均无“转写↔原生文字”显式配对，部分源不可达；映射表推演禁用，ADR-0030） | 2026-11-10 |
 | sadistic conclusion | — | 施虐结论 | repugnant-conclusion | 学界惯例（Arrhenius 2000a 术语）；凭证 2026-11-11 | 2026-11-11 |
-| sadō | 茶道 | 茶道 | japanese-aesthetics | 学界惯例（日本茶道研究通行译法“茶道”）；撞形豁免 2026-11-21：同形异语／同概念异形，按条目语境区分，不合并 | 2026-11-21 |
 | sadomasochism | — | 施虐受虐症 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·男科及性医学·性心理障碍，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | safe belief | — | 安全信念 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | safety | — | 安全性（知识的安全性条件） | epistemology-latin-america 首译 | 学界通行（Sosa/Williamson/Pritchard 知识条件） | 2026-11-11 |
