@@ -1,0 +1,572 @@
+{
+ "key": "backpropagation algorithm",
+ "term": "backpropagation algorithm",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T16:12:28+00:00",
+ "status": "ok",
+ "note": "variant=backpropagation algorithm; 审定公布名词库=278; 海峡两岸名词对照库=105; 其他来源数据库=71; 预公布名词数据库=0; jwt-direct（JWT 直连，raw 略；已滤维基 4 条）",
+ "hits": [
+  {
+   "cn": "算法",
+   "en": "algorithm",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "01.092",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_通论",
+   "subjectName": "通论",
+   "publishYear": "2024",
+   "definition": "解决某一问题（或一类问题）的程序化方法。其是在有限步骤内，用一组完全确定的程序规则来求解问题。"
+  },
+  {
+   "cn": "算法",
+   "en": "algorithm",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.659",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "能够使目标计算机完成特定任务或目标的一系列自控制逻辑指令。"
+  },
+  {
+   "cn": "算法",
+   "en": "algorithm",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "6.083",
+   "subjectFullName": "新闻学与传播学_传播总论_传播研究基础",
+   "subjectName": "传播研究基础",
+   "publishYear": "2022",
+   "definition": "指导计算机完成特定命令的指令集，目的是用来解决特定的问题。目前算法在新闻传播业的应用主要包括两个方面：运用算法实现的自动化写作，以及对海量信息的筛选与分发。"
+  },
+  {
+   "cn": "算法",
+   "en": "algorithm",
+   "source": "生物物理学名词",
+   "wordNumber": "06.034",
+   "subjectFullName": "生物物理学_生物信息学_常用算法",
+   "subjectName": "常用算法",
+   "publishYear": "2018",
+   "definition": "在数学和计算机科学中按设定的步骤进行计算、数据处理和逻辑推理的操作流程。"
+  },
+  {
+   "cn": "算法",
+   "en": "algorithm",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0720",
+   "subjectFullName": "计算机科学技术_理论计算机科学_算法设计与分析",
+   "subjectName": "算法设计与分析",
+   "publishYear": "2018",
+   "definition": "解决给定问题的确定的计算机指令序列，用以系统地描述解决问题的步骤。"
+  },
+  {
+   "cn": "算法",
+   "en": "algorithm",
+   "source": "心理学名词",
+   "wordNumber": "02.686",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "解决某个特定问题的一种方法或程序。保证最终解决问题。"
+  },
+  {
+   "cn": "算法",
+   "en": "algorithm",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.613",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "对特定问题求解步骤的一种描述，它是指令的有限序列，其中每一条指令表示一个或多个操作。"
+  },
+  {
+   "cn": "算法",
+   "en": "algorithm",
+   "source": "地理学名词",
+   "wordNumber": "25.006",
+   "subjectFullName": "地理学_数量地理学",
+   "subjectName": "数量地理学",
+   "publishYear": "2006",
+   "definition": "模型分析的一组可行的、确定的和有穷的规则。"
+  },
+  {
+   "cn": "算法",
+   "en": "algorithm",
+   "source": "化学工程名词",
+   "wordNumber": "05.013",
+   "subjectFullName": "化学工程_过程系统工程_过程系统工程",
+   "subjectName": "过程系统工程",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "算法",
+   "en": "algorithm",
+   "source": "数学名词",
+   "wordNumber": "02.0261",
+   "subjectFullName": "数学_数理逻辑·数学基础_递归论",
+   "subjectName": "递归论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "算法",
+   "en": "algorithm",
+   "source": "数学名词",
+   "wordNumber": "02.0261",
+   "subjectFullName": "数学_数值分析_数值分析基本概念",
+   "subjectName": "数值分析基本概念",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "ε算法",
+   "en": "ε-algorithm,epsilon-algorithm",
+   "source": "数学名词",
+   "wordNumber": "010.0341",
+   "subjectFullName": "数学_数值分析_方程求根·数值代数",
+   "subjectName": "方程求根?数值代数",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "η算法",
+   "en": "η-algorithm,eta-algorithm",
+   "source": "数学名词",
+   "wordNumber": "010.0342",
+   "subjectFullName": "数学_数值分析_方程求根·数值代数",
+   "subjectName": "方程求根?数值代数",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "检索算法",
+   "en": "search algorithm,retrieval algorithm",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "05.015",
+   "subjectFullName": "图书馆·情报与文献学_信息检索_一般概念",
+   "subjectName": "一般概念",
+   "publishYear": "2019",
+   "definition": "在信息检索的过程中所运用算法的总称。典型算法包括向量空间模型、概率检索模型、语言模型、布尔模型、推理网络、扩展布尔检索、潜在语义标引、神经网络、遗传算法、模糊集等。"
+  },
+  {
+   "cn": "最大期望算法",
+   "en": "expectationmaximization algorithm,EM algorithm",
+   "source": "管理科学技术名词",
+   "wordNumber": "02.0718",
+   "subjectFullName": "管理科学技术_运筹与管理_数量经济的理论与方法",
+   "subjectName": "数量经济的理论与方法",
+   "publishYear": "2016",
+   "definition": "依赖无法观测的隐藏变量的概率模型中，采取如下步骤：第一步计算期望，第二步最大化似然值，进而迭代估计参数的一种方法。"
+  },
+  {
+   "cn": "聚类算法",
+   "en": "clustering algorithm",
+   "source": "农学名词",
+   "wordNumber": "16.198",
+   "subjectFullName": "农业信息_农业信息技术",
+   "subjectName": "农业信息技术",
+   "publishYear": "2025",
+   "definition": "对样本集合按相似性进行分簇的计算方法。"
+  },
+  {
+   "cn": "优化算法",
+   "en": "optimization algorithm",
+   "source": "农学名词",
+   "wordNumber": "16.199",
+   "subjectFullName": "农业信息_农业信息技术",
+   "subjectName": "农业信息技术",
+   "publishYear": "2025",
+   "definition": "在满足约束条件下，能够找到最优方案的计算方法。"
+  },
+  {
+   "cn": "分类算法",
+   "en": "classification algorithm",
+   "source": "农学名词",
+   "wordNumber": "16.200",
+   "subjectFullName": "农业信息_农业信息技术",
+   "subjectName": "农业信息技术",
+   "publishYear": "2025",
+   "definition": "根据信息内容、形式或应用需求等特征，对信息进行划分的计算方法。"
+  },
+  {
+   "cn": "贝叶斯算法",
+   "en": "Bayesian algorithm",
+   "source": "农学名词",
+   "wordNumber": "16.202",
+   "subjectFullName": "农业信息_农业信息技术",
+   "subjectName": "农业信息技术",
+   "publishYear": "2025",
+   "definition": "通过计算最大后验概率来预测待分类数据类别的计算方法。"
+  },
+  {
+   "cn": "关联算法",
+   "en": "association algorithm",
+   "source": "农学名词",
+   "wordNumber": "16.203",
+   "subjectFullName": "农业信息_农业信息技术",
+   "subjectName": "农业信息技术",
+   "publishYear": "2025",
+   "definition": "从数据集中发现关联事件之间相互关系的计算方法。"
+  },
+  {
+   "cn": "后向传播",
+   "en": "backpropagation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "算法",
+   "en": "algorithm",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "算法",
+   "en": "algorithm",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "算法",
+   "en": "algorithm",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "算法",
+   "en": "algorithm",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "算法",
+   "en": "algorithm",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "算法",
+   "en": "algorithm",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "反演算法",
+   "en": "inverse algorithm",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "雷达算法",
+   "en": "radar algorithm",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "控制算法",
+   "en": "control algorithm",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "单纯形算法",
+   "en": "simplex algorithm",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "遗传算法",
+   "en": "genetic algorithm",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "生物光学算法",
+   "en": "biooptical algorithm",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "遗传算法",
+   "en": "genetic algorithm",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "A算法",
+   "en": "A algorithm",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "CYK算法",
+   "en": "CYK algorithm",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "KMP算法",
+   "en": "KMP algorithm",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "并行算法",
+   "en": "parallel algorithm",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "递归算法",
+   "en": "recursive algorithm",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "费诺算法",
+   "en": "Fano algorithm",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "反向传播学习",
+   "en": "backpropagation learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "反向传播神经网络",
+   "en": "backpropagation neural network",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "算法",
+   "en": "algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "近似算法",
+   "en": "approximation algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "并行算法",
+   "en": "parallel algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "概率算法",
+   "en": "probabilistic algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "组合算法",
+   "en": "combinatorial algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "排序算法",
+   "en": "sorting algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "贪婪算法",
+   "en": "greedy algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "备忘录算法",
+   "en": "memorandum algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "算法设计",
+   "en": "Algorithm Design",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "提升算法",
+   "en": "boosting algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "遗传算法",
+   "en": "genetic algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "算法歧视",
+   "en": "algorithm discrimination",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "伦理算法",
+   "en": "ethical algorithm",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "算法信任",
+   "en": "algorithm trust",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  }
+ ],
+ "error": null,
+ "raw": null
+}

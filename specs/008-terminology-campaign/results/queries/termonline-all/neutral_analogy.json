@@ -1,0 +1,752 @@
+{
+ "key": "neutral analogy",
+ "term": "neutral analogy",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T16:09:37+00:00",
+ "status": "ok",
+ "note": "variant=neutral analogy; 审定公布名词库=2761; 海峡两岸名词对照库=872; 其他来源数据库=132; 预公布名词数据库=152; jwt-direct（JWT 直连，raw 略；已滤维基 6 条）",
+ "hits": [
+  {
+   "cn": "类比",
+   "en": "analogy",
+   "source": "自然辩证法名词",
+   "wordNumber": "06.121",
+   "subjectFullName": "自然辩证法_科学技术方法论_分析与推理",
+   "subjectName": "分析与推理",
+   "publishYear": "2024",
+   "definition": "根据对象之间的某些相同或相似的性质，推断它们在其他性质上可能存在相同或相似的一种推理形式。类比是一种主观的不充分的似真推理。"
+  },
+  {
+   "cn": "同功",
+   "en": "analogy",
+   "source": "动物学名词",
+   "wordNumber": "2.0266",
+   "subjectFullName": "动物学_动物进化与系统学_动物进化",
+   "subjectName": "动物进化",
+   "publishYear": "2021",
+   "definition": "不同生物类群的器官虽来源和结构不同，但功能相似的现象。"
+  },
+  {
+   "cn": "类比",
+   "en": "analogy",
+   "source": "物理学名词",
+   "wordNumber": "01.0128",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "同功",
+   "en": "analogy",
+   "source": "植物学名词",
+   "wordNumber": "02.0207",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "不同生物类群的器官虽来源和结构不同，但功能相似的现象。"
+  },
+  {
+   "cn": "类比",
+   "en": "analogy",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "03.0020",
+   "subjectFullName": "化工（三）_传递过程与单元操作",
+   "subjectName": "传递过程与单元操作",
+   "publishYear": "2019",
+   "definition": "动量、质量传递与简单的热量传递——导热有相同的分子动力学机理和相似的数学表达式，这种关系称为类比。"
+  },
+  {
+   "cn": "类比",
+   "en": "analogy",
+   "source": "心理学名词",
+   "wordNumber": "02.627",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "根据两种事物之间性质的异同，用一种特定事物的性质来说明另一种特定事物，即借助前者理解后者的认知过程。"
+  },
+  {
+   "cn": "同功",
+   "en": "analogy",
+   "source": "古生物学名词",
+   "wordNumber": "01.0066",
+   "subjectFullName": "古生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2009",
+   "definition": "不同类群生物的器官虽来源和结构不同，却功能相似的现象。如蝙蝠和蝴蝶的翅膀。"
+  },
+  {
+   "cn": "同功器官",
+   "en": "analogy",
+   "source": "生态学名词",
+   "wordNumber": "04.050",
+   "subjectFullName": "生态学_进化生态学",
+   "subjectName": "进化生态学",
+   "publishYear": "2006",
+   "definition": "功能相同，外表类似，但来源上不相同，结构不相同的器官。同功器官不说明在进化上有共同来源，只是具有相似的功能。"
+  },
+  {
+   "cn": "类比",
+   "en": "analogy",
+   "source": "化学工程名词",
+   "wordNumber": "03.021",
+   "subjectFullName": "化学工程_传递过程与单元操作_传递过程与单元操作基本概念",
+   "subjectName": "传递过程与单元操作基本概念",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "类似物",
+   "en": "analog",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "1.0129",
+   "subjectFullName": "生物化学与分子生物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2024",
+   "definition": "具有母体化合物核心结构特征的化合物。如核苷类似物、肽类似物等。"
+  },
+  {
+   "cn": "模拟",
+   "en": "analog",
+   "source": "医学影像技术学名词",
+   "wordNumber": "03.002",
+   "subjectFullName": "医学影像技术学_数字X射线成像技术_数字影像学基础",
+   "subjectName": "数字影像学基础",
+   "publishYear": "2020",
+   "definition": "某种范畴的表达方式，如实地反映另一种范畴。"
+  },
+  {
+   "cn": "[结构]类似物",
+   "en": "analog",
+   "source": "药学名词",
+   "wordNumber": "03.267",
+   "subjectFullName": "药学_药物化学",
+   "subjectName": "药物化学",
+   "publishYear": "2014",
+   "definition": "与现有药物分子在化学结构上具有相似性的化合物。"
+  },
+  {
+   "cn": "中性学说",
+   "en": "neutral theory,neutralism",
+   "source": "植物学名词",
+   "wordNumber": "02.0156",
+   "subjectFullName": "植物学_系统与进化植物学",
+   "subjectName": "系统与进化植物学",
+   "publishYear": "2019",
+   "definition": "1968年日本学者木村资生(M. Kimura)根据分子生物学的研究提出的一种生物进化学说。认为突变大多是“中性的”，不影响核酸和蛋白质的功能，对生物个体的生存既无害处也无好处；中性突变通过随机的遗传"
+  },
+  {
+   "cn": "中和作用",
+   "en": "neutralization",
+   "source": "兽医学名词",
+   "wordNumber": "16.259",
+   "subjectFullName": "兽医学_兽医微生物学",
+   "subjectName": "兽医微生物学",
+   "publishYear": "2023",
+   "definition": "中和抗体与病毒特异性作用，抑制病毒的繁殖，使病毒失去感染性的现象。"
+  },
+  {
+   "cn": "中和",
+   "en": "neutralization",
+   "source": "化工名词（四）安全·环保·可持续发展",
+   "wordNumber": "02.331",
+   "subjectFullName": "化工（四）_炼油与化工企业健康-安全-环境管理_环境保护",
+   "subjectName": "环境保护",
+   "publishYear": "2020",
+   "definition": "用化学法去除水中过量的酸碱，使其pH达到中性的过程。"
+  },
+  {
+   "cn": "中和肌",
+   "en": "neutralizer",
+   "source": "运动医学名词",
+   "wordNumber": "01.405",
+   "subjectFullName": "运动医学_运动解剖_人体运动技术动作解剖学分析",
+   "subjectName": "人体运动技术动作解剖学分析",
+   "publishYear": "2019",
+   "definition": "制御与调控原动肌以便有效发挥另一种作用的肌肉。当原动肌有多种功能时，调控的肌肉参加工作，抵消原动肌的一些不应产生的功能，使动作更加准确。"
+  },
+  {
+   "cn": "中和",
+   "en": "neutralizing",
+   "source": "冶金学名词",
+   "wordNumber": "09.1105",
+   "subjectFullName": "冶金学_金属加工_热处理、表面处理",
+   "subjectName": "热处理、表面处理",
+   "publishYear": "2019",
+   "definition": "在硫酸中和槽的中和液中，对挂灰的铝合金材料进行除灰的工艺。"
+  },
+  {
+   "cn": "中和",
+   "en": "neutralization",
+   "source": "物理学名词",
+   "wordNumber": "03.0137",
+   "subjectFullName": "物理学_电磁学",
+   "subjectName": "电磁学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "中和剂",
+   "en": "neutralizer",
+   "source": "化工名词 (二)基本有机化工",
+   "wordNumber": "03.220",
+   "subjectFullName": "化工（二）_反应与三剂_三剂",
+   "subjectName": "三剂",
+   "publishYear": "2019",
+   "definition": "用于调节酸性或碱性溶液pH值至中性的物质。"
+  },
+  {
+   "cn": "中和",
+   "en": "neutralization",
+   "source": "化学名词",
+   "wordNumber": "01.0348",
+   "subjectFullName": "化学_无机化学_一般化学反应及无机化学反应",
+   "subjectName": "一般化学反应及无机化学反应",
+   "publishYear": "2016",
+   "definition": "酸和碱作用生成盐和水的反应。其本质是酸中的<img src='/root/syzx/static/spz/huaxue2.01.0170.2.png'/>和碱中的<img src='/root/syz"
+  },
+  {
+   "cn": "同功",
+   "en": "analogy",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "类比",
+   "en": "analogy",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "类比",
+   "en": "analogy",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "同功",
+   "en": "analogy",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "同功",
+   "en": "analogy",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "类比",
+   "en": "analog",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "类似物",
+   "en": "analog",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "[结构]类似物",
+   "en": "analog",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "中性共生",
+   "en": "neutralism",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "中和",
+   "en": "neutralization",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "中和",
+   "en": "neutralization",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "中性共生",
+   "en": "neutralism",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "中和",
+   "en": "neutralization",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "中性共生",
+   "en": "neutralism",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "中和作用",
+   "en": "neutralization",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "中性共生",
+   "en": "neutralism",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "中和",
+   "en": "neutralization",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "中性作用",
+   "en": "neutralism",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "模拟测图仪",
+   "en": "analog plotter\",\"analog bridging",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "中性蛋白酶",
+   "en": "neutral protease\",\"neutral proteinase",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "模拟计算机",
+   "en": "analog computer",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "模拟电路",
+   "en": "analog circuit",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "模拟信号",
+   "en": "analog signal",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非数字配套机制",
+   "en": "analog complement",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中立角",
+   "en": "neutral corner",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "裁判员抛球",
+   "en": "neutral throw",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "中立裁判员",
+   "en": "neutral judge",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "中立圈",
+   "en": "neutral lap",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "中立区",
+   "en": "neutral zone",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据中立性",
+   "en": "data neutrality",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网络中立性",
+   "en": "network neutrality",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "类比学习",
+   "en": "learning by analogy",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "停留时间",
+   "en": "neutralized time period",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "赋比兴",
+   "en": "Narrative, Analogy, and Association",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "中和剂",
+   "en": "neutralizer",
+   "source": "消毒学",
+   "wordNumber": "6.2.26.9.1",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "消除微生物与消毒剂混悬液中微生物表面残余的消毒剂，使其失去对微生物抑制或杀灭作用，但不影响试验微生物生长的试剂。"
+  },
+  {
+   "cn": "中性温度",
+   "en": "neutral temperature",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.3.1.4",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_不同年龄段儿童保健",
+   "subjectName": "不同年龄段儿童保健",
+   "publishYear": "2025",
+   "definition": "机体维持体温正常所需的代谢率和耗氧量最低时的环境温度。"
+  },
+  {
+   "cn": "中和抗体",
+   "en": "neutralizing antibody",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "1.3.4.14",
+   "subjectFullName": "风湿免疫病学_总论_发病机制_抗原与抗体",
+   "subjectName": "抗原与抗体",
+   "publishYear": "2025",
+   "definition": "可与细菌毒素、病原体（如病毒）及其产物特异性结合并发挥中和作用的抗体。能中和毒素的毒性作用或阻断病毒感染靶细胞。"
+  },
+  {
+   "cn": "风险中立",
+   "en": "risk neutrality",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.3.1.6",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险市场",
+   "subjectName": "健康保险市场",
+   "publishYear": "2025",
+   "definition": "经济主体对风险既不规避也不追求的一种态度。选择资产的唯一标准是预期收益的大小，而不管风险状况如何，是因为所有预期收益相同的资产将带来同样的效用"
+  },
+  {
+   "cn": "中性离子表面活性剂",
+   "en": "neutral ion surfactant",
+   "source": "消毒学",
+   "wordNumber": "2.1.12.9",
+   "subjectFullName": "消毒学_消毒技术_化学消毒",
+   "subjectName": "化学消毒",
+   "publishYear": "2025",
+   "definition": "亲水基团为中性离子，作用温和、刺激性小的表面活性剂。"
+  },
+  {
+   "cn": "中性医用清洗剂",
+   "en": "neutral medical detergent",
+   "source": "消毒学",
+   "wordNumber": "4.6.19.4.10.2",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "在应用浓度下，pH值6.5～7.5的医用清洗剂。"
+  },
+  {
+   "cn": "中和剂鉴定试验",
+   "en": "neutralizer appraisal test",
+   "source": "消毒学",
+   "wordNumber": "6.2.26.9",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "判定所选中和剂是否符合要求能用于消毒学试验的检测。"
+  },
+  {
+   "cn": "中和产物",
+   "en": "product of neutralization",
+   "source": "消毒学",
+   "wordNumber": "6.2.26.9.3",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "中和剂与消毒剂作用后的产物。"
+  },
+  {
+   "cn": "化学中和法",
+   "en": "chemical neutralization method",
+   "source": "消毒学",
+   "wordNumber": "6.2.26.9.9",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "在消毒学试验中，加入中和剂以终止残余消毒剂抑制或杀灭试验微生物的方法。"
+  },
+  {
+   "cn": "悬液定量中和剂鉴定试验",
+   "en": "neutralizer appraisal test by suspension quantitative method",
+   "source": "消毒学",
+   "wordNumber": "6.2.26.9.10",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "在消毒学悬液试验体系中，评价所用中和剂能否有效消除残余消毒剂对试验微生物杀灭或抑制作用的试验。"
+  },
+  {
+   "cn": "载体定量中和剂鉴定试验",
+   "en": "neutralizer appraisal test by carrier quantitative method",
+   "source": "消毒学",
+   "wordNumber": "6.2.26.9.11",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "在消毒学载体试验体系中，评价所用的中和剂能否有效消除残余消毒剂对试验微生物杀灭或抑制作用的试验。"
+  },
+  {
+   "cn": "中子",
+   "en": "neutron",
+   "source": "放射卫生学",
+   "wordNumber": "3.1.6",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_核物理基本概念",
+   "subjectName": "核物理基本概念",
+   "publishYear": "2025",
+   "definition": "原子核的基本成分之一，一种不带电粒子。其静止质量为1.675×10-27kg。"
+  },
+  {
+   "cn": "中子",
+   "en": "neutron",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.1.6",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核武器",
+   "subjectName": "核武器",
+   "publishYear": "2025",
+   "definition": "构成原子核的基本粒子之一。电中性。"
+  },
+  {
+   "cn": "自然死亡",
+   "en": "natural death",
+   "source": "医学伦理学名词",
+   "wordNumber": "7.013999999999999",
+   "subjectFullName": "医学伦理学_临终关怀与死亡伦理",
+   "subjectName": "临终关怀与死亡伦理",
+   "publishYear": "2025",
+   "definition": "人的生命的自然终结。"
+  },
+  {
+   "cn": "中非人",
+   "en": "Central African",
+   "source": "民族学与文化学名词",
+   "wordNumber": "6.0209",
+   "subjectFullName": "民族学与文化学_世界民族_非洲地区",
+   "subjectName": "非洲地区",
+   "publishYear": "2025",
+   "definition": "非洲现代民族（nation）,拥有中非共和国国籍和公民身份的人们共同体，人口约为590 万（2024 年）。共有巴雅、班达、班图、桑戈等60 多个民族，其中巴雅族人数最多，班达族分布最广。官方语言为法"
+  },
+  {
+   "cn": "自然通风",
+   "en": "natural ventilation",
+   "source": "消毒学",
+   "wordNumber": "1.8.16",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "利用建筑物内外空气的密度差引起的热压或风压，促使空气流动而进行的通风换气方式。"
+  },
+  {
+   "cn": "自然菌",
+   "en": "natural bacteria",
+   "source": "消毒学",
+   "wordNumber": "6.2.3.1",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "存在于消毒对象上的、非人工污染的细菌。"
+  },
+  {
+   "cn": "自然干燥",
+   "en": "natural drying",
+   "source": "消毒学",
+   "wordNumber": "6.2.27.21",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "实验制备染菌载体过程中，将试验微生物悬液涂染试验载体后，在室温条件下使染菌载体干燥的过程。"
+  },
+  {
+   "cn": "中子数",
+   "en": "neutron number",
+   "source": "放射卫生学",
+   "wordNumber": "3.1.16",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_核物理基本概念",
+   "subjectName": "核物理基本概念",
+   "publishYear": "2025",
+   "definition": "原子核内中子的数目。等于相对原子质量减质子数。"
+  },
+  {
+   "cn": "中子慢化",
+   "en": "neutron moderation",
+   "source": "放射卫生学",
+   "wordNumber": "3.1.32",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_核物理基本概念",
+   "subjectName": "核物理基本概念",
+   "publishYear": "2025",
+   "definition": "中子与介质原子核碰撞，引起中子能量减少而减速的现象。是热中子反应堆内中子运动的基本过程之一。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

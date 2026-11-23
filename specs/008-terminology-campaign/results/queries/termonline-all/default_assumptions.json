@@ -1,0 +1,632 @@
+{
+ "key": "default assumptions",
+ "term": "default assumptions",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T16:12:50+00:00",
+ "status": "ok",
+ "note": "variant=default assumptions; 审定公布名词库=571; 海峡两岸名词对照库=158; 其他来源数据库=67; 预公布名词数据库=2; jwt-direct（JWT 直连，raw 略）",
+ "hits": [
+  {
+   "cn": "假设",
+   "en": "assumption",
+   "source": "物理学名词",
+   "wordNumber": "01.0148",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "违约行为",
+   "en": "default",
+   "source": "风景园林名词",
+   "wordNumber": "03.0199",
+   "subjectFullName": "风景园林_风景园林管理_工程项目管理",
+   "subjectName": "工程项目管理",
+   "publishYear": "2025",
+   "definition": "合同当事人违反合同义务的行为。"
+  },
+  {
+   "cn": "丢失",
+   "en": "default",
+   "source": "结核病学名词",
+   "wordNumber": "04.097",
+   "subjectFullName": "结核病学_结核病治疗_化学药物治疗_治疗转归",
+   "subjectName": "治疗转归",
+   "publishYear": "2019",
+   "definition": "患者中断治疗超过2个月，经追访仍无法取得联系的情况。"
+  },
+  {
+   "cn": "缺省",
+   "en": "default",
+   "source": "地理信息系统名词",
+   "wordNumber": "02.344",
+   "subjectFullName": "地理信息系统_技术与应用",
+   "subjectName": "技术与应用",
+   "publishYear": "2012",
+   "definition": "在用户不加指定时，由系统选定的属性、值或选择项。"
+  },
+  {
+   "cn": "违约",
+   "en": "default",
+   "source": "公路交通科技名词",
+   "wordNumber": "01.150",
+   "subjectFullName": "公路交通科学技术_公路交通总论",
+   "subjectName": "公路交通总论",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "裘布依假设",
+   "en": "Dupuit assumption",
+   "source": "地质学名词",
+   "wordNumber": "16.03.074",
+   "subjectFullName": "地质学_水文地质学_地下水动力学",
+   "subjectName": "地下水动力学",
+   "publishYear": "2026",
+   "definition": "潜水流计算的一种概化假定。针对潜水含水层，裘布依假设地下水的垂向流速可以忽略不计，单宽流量正比于潜水面坡度、潜水面相对底板的高度与渗透系数的乘积。"
+  },
+  {
+   "cn": "普雷斯顿假设",
+   "en": "Preston assumption",
+   "source": "光学名词",
+   "wordNumber": "06.165",
+   "subjectFullName": "光学_光学材料",
+   "subjectName": "光学材料",
+   "publishYear": "2021",
+   "definition": "描述光学元件抛光过程的线性微分方程。由普雷斯顿(F. W. Preston)于 1927 年提出，假设在将影响加工过程的因素进行经验性的简化基础上指出在一定范围内工件表面材料去除率与抛光工具对工件的正"
+  },
+  {
+   "cn": "行为假设",
+   "en": "behavioral assumption",
+   "source": "经济学名词",
+   "wordNumber": "10.034",
+   "subjectFullName": "经济学_数量经济学",
+   "subjectName": "数量经济学",
+   "publishYear": "2020",
+   "definition": "所有经济理论的一部分，即关于人类动机方式的设定。"
+  },
+  {
+   "cn": "荷载组合",
+   "en": "loading assumption",
+   "source": "电力名词",
+   "wordNumber": "22.039",
+   "subjectFullName": "电力_输电线路",
+   "subjectName": "输电线路",
+   "publishYear": "2020",
+   "definition": "根据国家标准、法规、当地气象数据等确定的用于线路设计的荷载条件的组合。"
+  },
+  {
+   "cn": "统计假设",
+   "en": "statistical assumption",
+   "source": "化学名词",
+   "wordNumber": "03.0209",
+   "subjectFullName": "化学_分析化学_化学计量学",
+   "subjectName": "化学计量学",
+   "publishYear": "2016",
+   "definition": "关于1个或多个随机变量总体未知分布参数和性质的假设。如果随机变量分布形式已知，而仅涉及分布中的未知参数的统计假设，称为“参数假设(parameterassumption)”。"
+  },
+  {
+   "cn": "政策假设分析法",
+   "en": "assumption analysis",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0301",
+   "subjectFullName": "管理科学技术_公共管理_公共政策",
+   "subjectName": "公共政策",
+   "publishYear": "2016",
+   "definition": "对政策问题的冲突性假设进行创造性综合的一种方法。"
+  },
+  {
+   "cn": "缺省逻辑",
+   "en": "default logic",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.641",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "一种通过缺省假设对推理进行形式化的非单调逻辑。即当缺乏足够的知识信息时，通过表示和使用缺省的信息进行猜测，是对人类常识推理形式化的重要手段。"
+  },
+  {
+   "cn": "丢失率",
+   "en": "default rate",
+   "source": "结核病学名词",
+   "wordNumber": "05.073",
+   "subjectFullName": "结核病学_结核病预防与控制_流行与控制",
+   "subjectName": "流行与控制",
+   "publishYear": "2019",
+   "definition": "一定地区、一定时期内登记患者中丢失的患者数占同期登记患者总数的百分比。丢失率 =丢失患者数/登记患者数×100%。"
+  },
+  {
+   "cn": "默认路由",
+   "en": "default route",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0587",
+   "subjectFullName": "计算机科学技术_网络与数据通信_网络互联",
+   "subjectName": "网络互联",
+   "publishYear": "2018",
+   "definition": "在路由表中的单个表项。它覆盖没有在表中明确列出的所有目的地。"
+  },
+  {
+   "cn": "缺省逻辑",
+   "en": "default logic",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0005",
+   "subjectFullName": "计算机科学技术_人工智能_人工智能逻辑",
+   "subjectName": "人工智能逻辑",
+   "publishYear": "2018",
+   "definition": "雷·赖特（Ray Reiter）提出的用来形式化有缺省假定的推理的非单调逻辑。可以表达像“若找不到反面证据，则认为某个命题是真的”这样的论断。"
+  },
+  {
+   "cn": "默认掩码",
+   "en": "default mask",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0575",
+   "subjectFullName": "计算机科学技术_网络与数据通信_网络互联",
+   "subjectName": "网络互联",
+   "publishYear": "2018",
+   "definition": "没有划分子网的网络所使用的掩码。"
+  },
+  {
+   "cn": "违约溢价",
+   "en": "default premium",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0393",
+   "subjectFullName": "管理科学技术_金融工程_技术",
+   "subjectName": "技术",
+   "publishYear": "2016",
+   "definition": "具有违约风险的公司债券与无违约的国债(或者其他公司债券)之间的收益差额。"
+  },
+  {
+   "cn": "缺省数据库",
+   "en": "default database",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.407",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "当用户没有选择操作的数据库时，系统默认的数据库。"
+  },
+  {
+   "cn": "缺省值",
+   "en": "default value",
+   "source": "地理信息系统名词",
+   "wordNumber": "01.409",
+   "subjectFullName": "地理信息系统_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2012",
+   "definition": "当用户没有给出明确的选择值时，系统作出的选择。"
+  },
+  {
+   "cn": "缺省途径",
+   "en": "default pathway",
+   "source": "细胞生物学名词",
+   "wordNumber": "08.097",
+   "subjectFullName": "细胞生物学_细胞通信与信号转导",
+   "subjectName": "细胞通信与信号转导",
+   "publishYear": "2009",
+   "definition": "在没有其他分拣信号的情况下，从高尔基体到质膜的自主性连续性分泌途径。"
+  },
+  {
+   "cn": "默认",
+   "en": "default",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "闭合假设",
+   "en": "closure assumptions",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "统计假设",
+   "en": "statistical assumption",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "缺省值",
+   "en": "default value",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "违约条款",
+   "en": "default clause",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "违约溢价",
+   "en": "default premia",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "缺省途径",
+   "en": "default pathway",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "缺省接口",
+   "en": "default interface",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "缺省数据库",
+   "en": "default database",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "缺省值，默认值",
+   "en": "default value",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "默认格式",
+   "en": "default format",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "默认推理",
+   "en": "default reasoning",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "欠费用户",
+   "en": "defaulting subscriber",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "强碰撞假设",
+   "en": "strong collision assumption",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "封闭世界假设",
+   "en": "closed world assumption",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "缺省文件扩展名",
+   "en": "default filename extension",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "当前默认目录",
+   "en": "current default directory",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "局域平衡假设",
+   "en": "assumption of local equilibrium",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "回归同质假设",
+   "en": "assumption of homogeneity of regression",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "管理船舶过失",
+   "en": "default in management of the ship",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "弃权",
+   "en": "default",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "因对方未出场获胜",
+   "en": "win by default",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "弃权球队",
+   "en": "team in default",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "人性假设",
+   "en": "assumption about human nature",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "不战胜",
+   "en": "fusen-gachi\",\"win by default",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "因对方未出场获胜",
+   "en": "victory for forfeit\",\"win by default\",\"win by walk-over",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "缺席",
+   "en": "sefault\",\"forfeit",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "违例",
+   "en": "fault",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "犯规",
+   "en": "fault",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "犯规！",
+   "en": "Fault!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "违例",
+   "en": "fault",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "违例",
+   "en": "fault",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "一发失误！",
+   "en": "Fault!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "违例",
+   "en": "fault",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "违例！",
+   "en": "Fault!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_羽毛球名词",
+   "subjectName": "羽毛球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "犯规",
+   "en": "fault",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "违例",
+   "en": "fault",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "发球违例！",
+   "en": "Fault!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "犯规",
+   "en": "fault\",\"foul",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "犯规",
+   "en": "fault\",\"infringement",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "故障树",
+   "en": "fault tree",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.6.12",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_分析评估",
+   "subjectName": "分析评估",
+   "publishYear": "2025",
+   "definition": "一种用来描述特定故障的树形图表说明。该树形图具有可选择的特性。"
+  },
+  {
+   "cn": "无过失责任原则",
+   "en": "principle of liability non-fault",
+   "source": "社会学名词",
+   "wordNumber": "3.18.6.4",
+   "subjectFullName": "社会学名词_分支社会学_社会保障_工伤保险",
+   "subjectName": "工伤保险",
+   "publishYear": "2025",
+   "definition": "在用人单位为职工缴纳工伤保险费的前提下，职工在生产与工作中受伤害，无论事故责任在谁，只要不是职工本人故意或犯罪行为导致，均可享受法定工伤保险待遇。是工伤保险原则之一。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

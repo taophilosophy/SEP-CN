@@ -1,0 +1,742 @@
+{
+ "key": "subjective motivational set",
+ "term": "subjective motivational set",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T16:11:00+00:00",
+ "status": "ok",
+ "note": "variant=subjective motivational set; 审定公布名词库=3287; 海峡两岸名词对照库=1346; 其他来源数据库=191; 预公布名词数据库=131; jwt-direct（JWT 直连，raw 略；已滤维基 7 条）",
+ "hits": [
+  {
+   "cn": "动机",
+   "en": "motivation",
+   "source": "睡眠医学名词",
+   "wordNumber": "2.197",
+   "subjectFullName": "睡眠医学_睡眠生理与心理基础_睡眠心理基础",
+   "subjectName": "睡眠心理基础",
+   "publishYear": "2022",
+   "definition": "个体行为的内在驱动力。一般与个体的内心安全需要和客观生存需要结合在一起。"
+  },
+  {
+   "cn": "动机",
+   "en": "motivation",
+   "source": "行为医学名词",
+   "wordNumber": "4.081",
+   "subjectFullName": "行为医学_行为的心理学基础_动机与行为",
+   "subjectName": "动机与行为",
+   "publishYear": "2022",
+   "definition": "由目标或对象引导，激发和维持个体活动的一种内在心理过程或内部动力。"
+  },
+  {
+   "cn": "动机",
+   "en": "motivation",
+   "source": "生理学名词",
+   "wordNumber": "03.625",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "动机",
+   "en": "motivation",
+   "source": "精神医学名词",
+   "wordNumber": "02.186",
+   "subjectFullName": "精神医学_症状与体征_意志行为障碍症状",
+   "subjectName": "意志行为障碍症状",
+   "publishYear": "2019",
+   "definition": "在社会活动过程中直接推动意志行为的力量。由内在需要和外界环境因素引起，是个体为何要达到目的的主观原因的反映。"
+  },
+  {
+   "cn": "动机",
+   "en": "motivation",
+   "source": "计划生育名词",
+   "wordNumber": "04.035",
+   "subjectFullName": "计划生育_生殖健康心理卫生",
+   "subjectName": "生殖健康心理卫生",
+   "publishYear": "2019",
+   "definition": "唤起、推动与维持行为去达到一定目标的内部动力。是人行为的直接原因。是促进人从事某种活动的念头或原因。"
+  },
+  {
+   "cn": "动机",
+   "en": "motivation",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0084",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_个体行为基础",
+   "subjectName": "个体行为基础",
+   "publishYear": "2016",
+   "definition": "激发和维持个体活动并使活动朝向一定目标的内部动力。"
+  },
+  {
+   "cn": "动机",
+   "en": "motivation",
+   "source": "心理学名词",
+   "wordNumber": "02.736",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "由目标或对象引导、激发和维持个体活动的一种内在心理过程或内部动力。"
+  },
+  {
+   "cn": "激励",
+   "en": "motivating",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0166",
+   "subjectFullName": "管理科学技术_一般管理理论_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "通过组织成员的需要、愿望、欲望等得到满足，来引导他们以组织或领导所期望的方式行事的管理职能。"
+  },
+  {
+   "cn": "动机",
+   "en": "motive",
+   "source": "医学美学与美容医学名词",
+   "wordNumber": "02.022",
+   "subjectFullName": "医学美学与美容医学_美容医学心理学",
+   "subjectName": "美容医学心理学",
+   "publishYear": "2015",
+   "definition": "直接决定一个人的行为和活动的内在原因或动力。"
+  },
+  {
+   "cn": "主体性",
+   "en": "subjectivity",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "12.191",
+   "subjectFullName": "新闻学与传播学_政治传播_媒体新媒体与政治传播",
+   "subjectName": "媒体新媒体与政治传播",
+   "publishYear": "2022",
+   "definition": "一个核心哲学概念，与意识、能动/施为(agency)、人格、现实和真理相关，存在多种定义。三个常见的定义认为，主体性意味着以下的质量或条件：①狭义上意味着一个拥有有意识的经验，如视觉、感觉、信念和欲"
+  },
+  {
+   "cn": "受试对象",
+   "en": "subject    ",
+   "source": "核医学名词",
+   "wordNumber": "06.0233",
+   "subjectFullName": "核医学_核医学研究_核医学临床研究",
+   "subjectName": "核医学临床研究",
+   "publishYear": "2018",
+   "definition": "接受试验的对象。包括健康人、患者，临床前研究时包括其他动物。"
+  },
+  {
+   "cn": "对象",
+   "en": "subject",
+   "source": "核医学名词",
+   "wordNumber": "01.0034",
+   "subjectFullName": "核医学_总论",
+   "subjectName": "总论",
+   "publishYear": "2018",
+   "definition": "进行任何操作、行为或思考时作为目标的人或事物。"
+  },
+  {
+   "cn": "主题",
+   "en": "subject",
+   "source": "管理科学技术名词",
+   "wordNumber": "03.0349",
+   "subjectFullName": "管理科学技术_信息管理与知识管理_决策支持系统",
+   "subjectName": "决策支持系统",
+   "publishYear": "2016",
+   "definition": "在较高层次上将组织信息系统中的数据综合、归类并进行分析利用的抽象。在逻辑意义上，对应于组织中某一宏观分析领域所涉及的分析对象。"
+  },
+  {
+   "cn": "主体性",
+   "en": "subjectivity",
+   "source": "心理学名词",
+   "wordNumber": "04.030",
+   "subjectFullName": "心理学_理论心理学与心理学史",
+   "subjectName": "理论心理学与心理学史",
+   "publishYear": "2014",
+   "definition": "作为主体的人的自主性、能动性和创造性。在认识方面表现为选择性、建构性与预见性。"
+  },
+  {
+   "cn": "科目",
+   "en": "subject",
+   "source": "教育学名词",
+   "wordNumber": "02.028",
+   "subjectFullName": "教育学_课程与教学",
+   "subjectName": "课程与教学",
+   "publishYear": "2013",
+   "definition": "与相对独立的学科知识领域相对应的课程。如语文、数学、艺术等。"
+  },
+  {
+   "cn": "主语",
+   "en": "subject",
+   "source": "语言学名词",
+   "wordNumber": "04.180",
+   "subjectFullName": "语言学_语法学_句法篇章",
+   "subjectName": "句法篇章",
+   "publishYear": "2011",
+   "definition": "与“谓语”相对。句法成分之一。通常由体词性成分充当，也可以由谓词性成分充当。通常位于谓语的前边，是谓语陈述的对象。例如，“我看见他了”“做学问需要扎实的基础”。"
+  },
+  {
+   "cn": "动力驱动",
+   "en": "motivational drive",
+   "source": "地球物理学名词",
+   "wordNumber": "02.0274",
+   "subjectFullName": "地球物理学_地球动力学_大陆构造演化",
+   "subjectName": "大陆构造演化",
+   "publishYear": "2022",
+   "definition": "在构造应力作用下，使油气集中、运移和储集的驱动作用。 "
+  },
+  {
+   "cn": "动机访谈",
+   "en": "motivational interviewing",
+   "source": "行为医学名词",
+   "wordNumber": "20.079",
+   "subjectFullName": "行为医学_行为干预与治疗_行为治疗",
+   "subjectName": "行为治疗",
+   "publishYear": "2022",
+   "definition": "通过独有的面谈原则和谈话技巧，协助人们认识到现有或潜在的问题，帮助受访者找寻并挖掘改变自身行为内在愿望的一种沟通方法。"
+  },
+  {
+   "cn": "消费者动机研究",
+   "en": "motivational research",
+   "source": "管理科学技术名词",
+   "wordNumber": "08.0196",
+   "subjectFullName": "管理科学技术_市场营销_营销机会",
+   "subjectName": "营销机会",
+   "publishYear": "2016",
+   "definition": "为了确定隐藏在消费者购买行为之后的动机所进行的研究。这类研究是心理导向的，并试图获知为什么人如其表现出来那样行动，为什么他们会做出特定购买行动，以及为什么他们会对特定类型的营销刺激做出反应。"
+  },
+  {
+   "cn": "激励理论",
+   "en": "motivational theory",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0086",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_个体行为基础",
+   "subjectName": "个体行为基础",
+   "publishYear": "2016",
+   "definition": "关于如何满足人的各种需要以调动其积极性的原则与方法的理论。"
+  },
+  {
+   "cn": "动机",
+   "en": "motivation\",\"motive",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "匮乏性动机",
+   "en": "deficiency motivation\",\"deficiency motive",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "被试",
+   "en": "subject",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "主体性",
+   "en": "subjectivity",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "动机研究",
+   "en": "motivational research",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "动机过程",
+   "en": "motivational process",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "动机因素",
+   "en": "motivational factor",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "无意识动机",
+   "en": "unconscious motivation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "激励理论",
+   "en": "motivation theory",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "犯罪动机",
+   "en": "criminal motivation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "存在动机",
+   "en": "being motivation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "生物性动机",
+   "en": "biological motivation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "外在激励",
+   "en": "extrinsic motivation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "亲和动机",
+   "en": "affiliation motivation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "成长动机",
+   "en": "growth motivation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "成就动机",
+   "en": "achievement motivation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "内在激励",
+   "en": "intrinsic motivation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "社会动机",
+   "en": "social motivation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "情境动机",
+   "en": "situational motivation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "诱因性动机",
+   "en": "incentive motivation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "局",
+   "en": "set",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_沙滩排球名词",
+   "subjectName": "沙滩排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "预备！",
+   "en": "Set!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "预备！",
+   "en": "Set!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "盘",
+   "en": "set",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "盘",
+   "en": "set",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "二传",
+   "en": "set",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "局",
+   "en": "set",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "校射",
+   "en": "setting",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据主体",
+   "en": "data subject",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "盘点",
+   "en": "set ball\",\"set point",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_网球名词",
+   "subjectName": "网球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "决胜局",
+   "en": "deciding set\",\"final set",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_排球名词",
+   "subjectName": "排球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "法律主体",
+   "en": "subject of law",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "系",
+   "en": "bend\",\"set",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "主体",
+   "en": "subject",
+   "source": "马克思主义",
+   "wordNumber": "01.0157",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与客体相对应的一个功能性范畴，指实践、认识、价值、审美等对象性关系的主导者、支配者。马克思说“主体是人，客体是自然”，但并非任何人都是主体，主体是有意识、能思维、从事社会实践活动和认识活动的个人或社会"
+  },
+  {
+   "cn": "主体性",
+   "en": "subjectivity",
+   "source": "马克思主义",
+   "wordNumber": "01.0158",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "马克思主义在批判地改造旧哲学基础上，认为主体性是人的一种功能属性，是人在一定实践、认识、价值、审美等活动中所表现出的主导地位、决定作用、支配态势，其核心是人的主动性、能动性、自主性和创造性。"
+  },
+  {
+   "cn": "主观性",
+   "en": "subjectivity",
+   "source": "马克思主义",
+   "wordNumber": "01.0163",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "（1）认识的片面性、独断性，从主观臆测或“先入之见”观察和分析问题的思想方法，是主观主义思想方法。（2）概念、范畴等逻辑思维形式的一种特性，具有抽象性、分隔性、主体性、意识能动性特征。"
+  },
+  {
+   "cn": "主体性",
+   "en": "subjectivity",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0598",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "被意识建构的自我认知。主体性在人类学中超越了法国哲学家笛卡尔的身心二元对立学说引发了互为主体的讨论。人类学传统上以研究异文化的他者为主，研究者与被研究者这种主体双方的关系在它的学术“基因”中就已存在。"
+  },
+  {
+   "cn": "社会动机",
+   "en": "social motivation",
+   "source": "社会学名词",
+   "wordNumber": "4.1.12.1",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会动机与需要",
+   "subjectName": "社会动机与需要",
+   "publishYear": "2025",
+   "definition": "一种继发性、习得性和心理性动机，指个体经由后天学习而获得的，以社会文化需要为基础的动机。"
+  },
+  {
+   "cn": "学习动机",
+   "en": "learning motivation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.4.3.2",
+   "subjectFullName": "",
+   "subjectName": "学校心理健康促进",
+   "publishYear": "2025",
+   "definition": "激发个体启动、维持学习活动，并使其朝向特定的学习目标的一种内部动力机制。"
+  },
+  {
+   "cn": "终末激发",
+   "en": "terminal motivation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.1.6",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习大脑活动特征",
+   "subjectName": "学习大脑活动特征",
+   "publishYear": "2025",
+   "definition": "大脑皮质在持续较长时间的功能活动后，兴奋性逐渐降低，但即将结束工作任务的喜悦可反射性引起大脑皮质一过性兴奋性增高的现象。"
+  },
+  {
+   "cn": "主觉验光",
+   "en": "subjective refraction",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.2.2.2.5.2",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_学生常见疾病监测",
+   "subjectName": "学生常见疾病监测",
+   "publishYear": "2025",
+   "definition": "采用单纯插片法或综合验光仪法，通过判断被检者对不同屈光状态微小变化的反应情况确定屈光参数的一种主观测量方法。"
+  },
+  {
+   "cn": "个体主体",
+   "en": "individual subject",
+   "source": "马克思主义",
+   "wordNumber": "01.0159",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "个体主体是相对于群体主体、人类主体、社会主体而言的，指个人在社会、政治、经济等生活中获得主体地位和独立属性。个体主体是历史地生成的，群体活动、需求、性能必须通过个体主体才能得到实现和确证。"
+  },
+  {
+   "cn": "旅游主体",
+   "en": "tourism subject",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0195",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "即旅游者，旅游者把旅游动机转变为旅游行为是与旅游相关的一切社会现象和关系发生的基础，因而旅游者在旅游活动中处于中心地位。"
+  },
+  {
+   "cn": "成名动机",
+   "en": "motivation for fame",
+   "source": "社会学名词",
+   "wordNumber": "3.10.3.6",
+   "subjectFullName": "社会学名词_分支社会学_科学社会学_科学家的社会角色",
+   "subjectName": "科学家的社会角色",
+   "publishYear": "2025",
+   "definition": "科学家为了实现伟大的科学发现或为了推进科学研究及发展，以获得相应声誉而持有的抱负。通常表现为科学家为此目的而希望在其事业和工作业绩方面有所成就。"
+  },
+  {
+   "cn": "劳动对象",
+   "en": "subject of labor",
+   "source": "马克思主义",
+   "wordNumber": "02.0100",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "劳动过程的要素之一，人们在劳动工程中将自己的劳动加于其上的一切物质资料。劳动的对象分为两类：一类是没有经过人类劳动加工过的自然物；另一类是经过人类劳动加工过的物质资料。"
+  },
+  {
+   "cn": "专题咨询",
+   "en": "subject specific counseling",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.5.1.1.6",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_学校心理卫生服务",
+   "subjectName": "学校心理卫生服务",
+   "publishYear": "2025",
+   "definition": "由专业心理健康机构，针对公众所关心的、较为普遍的学生心理健康问题，在报刊、电台、互联网等大众传播媒介进行专题讲座和答疑。"
+  },
+  {
+   "cn": "民俗主体论",
+   "en": "subject of folklore",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0452",
+   "subjectFullName": "民族学与文化学_民俗学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "对民俗学及研究对象概念本身进行阐释的理论，以明确学科分野。"
+  },
+  {
+   "cn": "角色丛",
+   "en": "role-set",
+   "source": "社会学名词",
+   "wordNumber": "2.3.2.9",
+   "subjectFullName": "社会学名词_社会学一般概念_社会化_社会角色",
+   "subjectName": "社会角色",
+   "publishYear": "2025",
+   "definition": "与个体的某一身份有关的各种角色的总合。个体通常有若干社会身份，因而也通常有若干个角色丛。"
+  },
+  {
+   "cn": "议程设置",
+   "en": "agenda setting",
+   "source": "社会医学名词",
+   "wordNumber": "10.1.2.1.2",
+   "subjectFullName": "政策与策略",
+   "subjectName": "政策",
+   "publishYear": "2025",
+   "definition": "政府或政策行动者在诸多社会问题中遴选出部分问题，进入其正式讨论与决策议程的过程，是政策进入制度化讨论的入口。"
+  },
+  {
+   "cn": "经济利益驱动掺假",
+   "en": "economic motivated adulteration，EMA",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.18",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "卖方以欺诈手段添加虚假物质，去除或替代真实物质，但不告知买方，以谋取经济利益的行为。即为了增加食品产品的表观价值或降低生产成本而在产品中欺骗性地、故意替代或添加物质。"
+  },
+  {
+   "cn": "三个主体三个补充",
+   "en": "three subjects three supplement",
+   "source": "马克思主义",
+   "wordNumber": "02.0384",
+   "subjectFullName": "马克思主义_政治经济学_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "陈云在中共八大会议上提出的关于社会主义改造基本完成以后，我国社会主义经济模式的简称。具体内容为：国家经营和集体经营是主体，一定数量的个体经营为补充；计划生产是主体，一定范围的自由生产为补充；国家市场是"
+  },
+  {
+   "cn": "新民主主义革命的动力",
+   "en": "motive forces of newdemocratic revolution",
+   "source": "马克思主义",
+   "wordNumber": "03.0330",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "工人阶级、农民阶级、城市小资产阶级和民族资产阶级是新民主主义革命的动力，而根本的动力是工人和农民。"
+  },
+  {
+   "cn": "模糊集合论",
+   "en": "fuzzy set theory",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.157",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "把待考察的对象及反映它的模糊概念作为一定的模糊集合，建立适当的隶属函数的分析方法。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,782 @@
+{
+ "key": "non-overlapping magisteria",
+ "term": "non-overlapping magisteria",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T16:09:45+00:00",
+ "status": "ok",
+ "note": "variant=non-overlapping magisteria; 审定公布名词库=2911; 海峡两岸名词对照库=930; 其他来源数据库=144; 预公布名词数据库=123; jwt-direct（JWT 直连，raw 略；已滤维基 3 条）",
+ "hits": [
+  {
+   "cn": "非覆盖操作",
+   "en": "non-overlapped operation",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "04.193",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_过程综合",
+   "subjectName": "过程综合",
+   "publishYear": "2024",
+   "definition": "在一批物料全部加工完毕，离开生产线后，再加入下一批物料的生产组织方式。"
+  },
+  {
+   "cn": "重叠绕包",
+   "en": "overlapping",
+   "source": "电气工程名词",
+   "wordNumber": "05.210",
+   "subjectFullName": "电气工程_电线、电缆及光缆",
+   "subjectName": "电线、电缆及光缆",
+   "publishYear": "1998",
+   "definition": ""
+  },
+  {
+   "cn": "超覆",
+   "en": "overlap",
+   "source": "地质学名词",
+   "wordNumber": "07.02.037",
+   "subjectFullName": "地质学_地史学与地层学_层序地层学",
+   "subjectName": "层序地层学",
+   "publishYear": "2026",
+   "definition": "整合层序中地层向陆延伸，尖灭的范围由老至新逐层扩大，较新的层依次掩埋并超越其下伏层，使下伏地层产生尖灭的现象。"
+  },
+  {
+   "cn": "正遮盖",
+   "en": "overlap",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "08.1108",
+   "subjectFullName": "机械工程（一）_传动_液压传动_控制阀",
+   "subjectName": "控制阀",
+   "publishYear": "2021",
+   "definition": "滑阀式阀的阀芯在中位时，要有一定位移量，窗口才可打开的重叠状态。"
+  },
+  {
+   "cn": "焊瘤",
+   "en": "overlap",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "04.275",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_焊接与切割_焊接缺陷与检验",
+   "subjectName": "焊接缺陷与检验",
+   "publishYear": "2021",
+   "definition": "焊接过程中，熔化金属流淌到焊缝之外未熔化的母材上所形成的金属瘤。"
+  },
+  {
+   "cn": "重叠度",
+   "en": "overlap",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "04.362",
+   "subjectFullName": "化工（五）_工程建设_工程设计",
+   "subjectName": "工程设计",
+   "publishYear": "2021",
+   "definition": "滑阀全关时阀板超过阀口的距离位置。"
+  },
+  {
+   "cn": "叠芯",
+   "en": "overlap",
+   "source": "林学名词",
+   "wordNumber": "11.397",
+   "subjectFullName": "林学_木材科学与技术_人造板及木基复合材料",
+   "subjectName": "人造板及木基复合材料",
+   "publishYear": "2016",
+   "definition": "同一层单板中相邻两片单板(或一张开裂单板的两部分)互相重叠。"
+  },
+  {
+   "cn": "重叠度",
+   "en": "overlap",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "24.1168",
+   "subjectFullName": "机械工程_动力机械_内燃机_喷油器",
+   "subjectName": "喷油器",
+   "publishYear": "2013",
+   "definition": "在节流轴针式喷油嘴中，当针阀关闭时测得的轴针节流部深入喷孔内的长度。"
+  },
+  {
+   "cn": "重叠",
+   "en": "overlap",
+   "source": "地理信息系统名词",
+   "wordNumber": "02.641",
+   "subjectFullName": "地理信息系统_技术与应用",
+   "subjectName": "技术与应用",
+   "publishYear": "2012",
+   "definition": "地图图幅与相临图幅具有重复的部分。通常指航测影像的重叠部分，相片重叠为航空摄影测量过程中建立立体模型的必要条件。"
+  },
+  {
+   "cn": "叠覆",
+   "en": "overlap",
+   "source": "古生物学名词",
+   "wordNumber": "02.0392",
+   "subjectFullName": "古生物学_古无脊椎动物学_节肢动物门",
+   "subjectName": "节肢动物门",
+   "publishYear": "2009",
+   "definition": "介形类两壳不等大者，较大壳瓣常以自由边缘叠覆于较小壳上。"
+  },
+  {
+   "cn": "锚段关节",
+   "en": "overlap",
+   "source": "铁道科学技术名词",
+   "wordNumber": "04.1429",
+   "subjectFullName": "铁道科学技术_铁道牵引动力",
+   "subjectName": "铁道牵引动力",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "上出绳",
+   "en": "overlap",
+   "source": "煤炭科学技术名词",
+   "wordNumber": "06.186",
+   "subjectFullName": "煤炭科学技术_矿山机械工程_矿井提升",
+   "subjectName": "矿井提升",
+   "publishYear": "1996",
+   "definition": "提升钢丝绳从卷筒轴线以上出绳的缠绕安装方式。"
+  },
+  {
+   "cn": "超覆",
+   "en": "overlap",
+   "source": "地质学名词",
+   "wordNumber": "02.061",
+   "subjectFullName": "地质学_地史学和地层学",
+   "subjectName": "地史学和地层学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "航向重叠度",
+   "en": "longitudinal overlap,end overlap",
+   "source": "测绘学名词",
+   "wordNumber": "03.126",
+   "subjectFullName": "测绘学_摄影测量学与遥感",
+   "subjectName": "摄影测量学与遥感",
+   "publishYear": "2020",
+   "definition": "沿飞行方向，相邻像片同名影像重叠的长度与像幅长度之比，通常以百分比表示。"
+  },
+  {
+   "cn": "旁向重叠度",
+   "en": "lateral overlap,side overlap",
+   "source": "测绘学名词",
+   "wordNumber": "03.127",
+   "subjectFullName": "测绘学_摄影测量学与遥感",
+   "subjectName": "摄影测量学与遥感",
+   "publishYear": "2020",
+   "definition": "垂直于飞行方向，相邻像片同名影像重叠的长度与像幅长度之比。通常以百分比表示。"
+  },
+  {
+   "cn": "重叠基因",
+   "en": "overlapping gene",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "5.0007",
+   "subjectFullName": "生物化学与分子生物学_遗传信息传递与基因表达调控_基因及其功能_结构",
+   "subjectName": "结构",
+   "publishYear": "2024",
+   "definition": "基因组上共享同一段序列的两个或多个基因。"
+  },
+  {
+   "cn": "重叠基因",
+   "en": "overlapping gene",
+   "source": "兽医学名词",
+   "wordNumber": "16.170",
+   "subjectFullName": "兽医学_兽医微生物学",
+   "subjectName": "兽医微生物学",
+   "publishYear": "2023",
+   "definition": "某些病毒基因组中能以两个或两个以上的阅读方式进行阅读，从而编码产生两种或两种以上不同多肽的序列。"
+  },
+  {
+   "cn": "吸收重叠",
+   "en": "overlapping absorption",
+   "source": "光学名词",
+   "wordNumber": "01.508",
+   "subjectFullName": "光学_基础光学",
+   "subjectName": "基础光学",
+   "publishYear": "2021",
+   "definition": "大气中不同分子吸收光谱的重叠现象。这是由于大气中不同气体对光的吸收存在差异，但有些气体分子因能级跃迁差异很小，会在非常相近的波段产生吸收，从而形成光谱重叠。"
+  },
+  {
+   "cn": "重叠基因",
+   "en": "overlapping gene",
+   "source": "医学遗传学名词",
+   "wordNumber": "3.296",
+   "subjectFullName": "医学遗传学_医学遗传学基础_总论",
+   "subjectName": "总论",
+   "publishYear": "2021",
+   "definition": "共享同一段DNA序列的两个或多个基因。"
+  },
+  {
+   "cn": "交缠发散",
+   "en": "overlapping divergence",
+   "source": "物理学名词",
+   "wordNumber": "09.1614",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "非重叠三联体",
+   "en": "non-overlapping triplet",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "重叠",
+   "en": "overlap",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "重叠",
+   "en": "overlap",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "重叠",
+   "en": "overlap",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "重叠螺旋桨",
+   "en": "overlap propeller\",\"overlapping propeller",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "航向重叠",
+   "en": "longitudinal overlap\",\"forward overlap",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "重叠操作",
+   "en": "overlapping operation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "重叠生态位",
+   "en": "overlapping niche",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "重复保险",
+   "en": "overlapping insurance",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "重复投资",
+   "en": "overlapping investment",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "重复债务",
+   "en": "overlapping debt",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "搭接结点",
+   "en": "overlapping joint",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "重叠世代",
+   "en": "overlapping generation",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "基因重叠",
+   "en": "gene overlapping",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "重叠环",
+   "en": "overlapping rings",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "重叠像对",
+   "en": "overlapping pair",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "重叠基因",
+   "en": "overlapping gene",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "时间重叠",
+   "en": "time overlapping",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "搭接结点",
+   "en": "overlapping joint",
+   "source": "海峡两岸船舶工程名词",
+   "wordNumber": null,
+   "subjectFullName": "船舶工程",
+   "subjectName": "船舶工程",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "峰重叠",
+   "en": "peak overlapping",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "相联",
+   "en": "overlap",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_帆船名词",
+   "subjectName": "帆船名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "无效动作！",
+   "en": "Non!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "无为",
+   "en": "Non-action",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "不可抵赖性",
+   "en": "non-repudiation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非人类中心主义",
+   "en": "non-anthropocentrism",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非消耗性",
+   "en": "non-consumability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非排他性",
+   "en": "non-excludability",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无战意",
+   "en": "non-combativity",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "不二",
+   "en": "Advaya / Non-duality",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非易失性内存",
+   "en": "non-volatile memory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非关系数据库",
+   "en": "non-relational database",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非排他性复用",
+   "en": "non-exclusive multiplexing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非现金化收付",
+   "en": "non-cash payment",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非公共数据",
+   "en": "non-public data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无介入看护",
+   "en": "non-interventional care",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "非接触性犯罪",
+   "en": "non-contact crime",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "不可否认性服务",
+   "en": "non-repudiation service",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "重叠综合征",
+   "en": "overlap syndrome, OS",
+   "source": "风湿免疫病学名词",
+   "wordNumber": "2.8.1.2",
+   "subjectFullName": "风湿免疫病学_常见风湿免疫病_混合性结缔组织病及重叠综合征",
+   "subjectName": "混合性结缔组织病及重叠综合征",
+   "publishYear": "2025",
+   "definition": "符合两种或两种以上风湿免疫病的分类诊断标准的综合征。如系统性红斑狼疮、系统性硬化症、皮肌炎/多发性肌炎、类风湿关节炎、结节性多动脉炎等。"
+  },
+  {
+   "cn": "民办非企业单位",
+   "en": "non-governmental non-enterprise units",
+   "source": "社会学名词",
+   "wordNumber": "4.4.3.18",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的运作与实施",
+   "subjectName": "社会工作的运作与实施",
+   "publishYear": "2025",
+   "definition": "企业、事业单位、社会团体和其他社会力量以及公民个人利用非国有资产创办的、从事非营利性社会服务活动的社会组织，如民办学校、民办研究所、民办博物馆等。"
+  },
+  {
+   "cn": "非食用物质",
+   "en": "non-edible substance",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.22",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "添加或者可能添加到食品中的非食品用化学物质和其他可能危害人体健康的物质。由国家制定和公布名录，包括食源性疾病、食品风险监测和监督等发现的物质；在食品生产经营过程中可能添加的物质；科学数据表明可造成人体"
+  },
+  {
+   "cn": "非单向流",
+   "en": "non-unidirectional flow",
+   "source": "消毒学",
+   "wordNumber": "1.8.22.2",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "送入洁净室（区）的送风以诱导方式与室（区）内空气混合的气流分布类型。"
+  },
+  {
+   "cn": "不透气材料",
+   "en": "non-breathable material",
+   "source": "消毒学",
+   "wordNumber": "3.1.8",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "空气、蒸汽等不能穿透的材料。可用于灭菌医疗器械的包装，包括但不限于塑料薄膜、塑料托盘、铝塑膜等。"
+  },
+  {
+   "cn": "非织造布",
+   "en": "non-woven fabric",
+   "source": "消毒学",
+   "wordNumber": "3.1.12.16",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "由定向或随机排列的纤维构成，具有布的外观和某些性能的材料。如多采用聚丙烯（pp材质）粒料为原料，经高温熔融、喷丝、铺纲、热压卷取连续一步法生产而成。"
+  },
+  {
+   "cn": "低度危险性物品",
+   "en": "non-critical item",
+   "source": "消毒学",
+   "wordNumber": "4.6.9.1.3",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "与完整皮肤接触而不与黏膜接触的物品。"
+  },
+  {
+   "cn": "无包膜病毒",
+   "en": "non-enveloped virus",
+   "source": "消毒学",
+   "wordNumber": "6.2.26.8.6",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "外表面没有包裹由糖蛋白和脂肪组成的囊膜的病毒。"
+  },
+  {
+   "cn": "非焚烧处理",
+   "en": "Non-incineration treatment",
+   "source": "消毒学",
+   "wordNumber": "7.2.12.1.2",
+   "subjectFullName": "消毒学_其他_医疗废物",
+   "subjectName": "医疗废物",
+   "publishYear": "2025",
+   "definition": "除传统焚烧处理以外的处理，如高温蒸汽处理、高温干热处理、化学法处理、微波处理等。"
+  },
+  {
+   "cn": "非电离辐射",
+   "en": "non-ionizing radiation",
+   "source": "放射卫生学",
+   "wordNumber": "1.3",
+   "subjectFullName": "放射卫生学_放射卫生学",
+   "subjectName": "放射卫生学",
+   "publishYear": "2025",
+   "definition": "不引起物质原子和分子电离、只引起其振动、转动或电子能级改变的辐射。如紫外线、可见光、红外线、微波和高频电磁场。"
+  },
+  {
+   "cn": "无应答偏倚",
+   "en": "non-response bias",
+   "source": "放射卫生学",
+   "wordNumber": "4.4.1.5.6",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射流行病学_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "由于无应答者可能在某些重要的特征或暴露方面与应答者不同，因此当无应答者超过一定比例时，将会影响研究结果的真实性，从而产生的系统误差。"
+  },
+  {
+   "cn": "非均匀照射",
+   "en": "non-homogeneity exposure",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.4.6.2",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_照射分类_均匀性分类",
+   "subjectName": "均匀性分类",
+   "publishYear": "2025",
+   "definition": "机体各组织和器官吸收剂量相差较大（剂量差别3倍及以上）的照射。"
+  },
+  {
+   "cn": "非放射学后果",
+   "en": "non-radiological consequence",
+   "source": "放射卫生学",
+   "wordNumber": "7.2.2.12",
+   "subjectFullName": "放射卫生学_核或辐射突发事件卫生应急_应急准备与响应",
+   "subjectName": "应急准备与响应",
+   "publishYear": "2025",
+   "definition": "由应急或应急响应引起的心理学、社会或经济危害对健康、生活质量的影响，而不是由辐射引起的确定性效应或随机效应对人体的影响。"
+  },
+  {
+   "cn": "非参与观察",
+   "en": "non-participant observation",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.19",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "不直接同社会生活的实践者互动，以不显著的方式收集他们社会生活某些方面的原始资料的观察。"
+  },
+  {
+   "cn": "非物质文化",
+   "en": "non-material culture",
+   "source": "社会学名词",
+   "wordNumber": "2.2.2.5",
+   "subjectFullName": "社会学名词_社会学一般概念_文化与文明_文化的结构与功能",
+   "subjectName": "文化的结构与功能",
+   "publishYear": "2025",
+   "definition": "人类在社会历史实践过程中所创造的各种精神文化。包括自然科学、宗教、艺术、哲学、语言文字、风俗道德、法律等。与“物质文化”相对。"
+  },
+  {
+   "cn": "非冗余关系",
+   "en": "non-redundant ties",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.8",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "社会网络中能够带来非重复信息的关系，通常存在于无直接联系的两个行动者之间。"
+  },
+  {
+   "cn": "无文字社会",
+   "en": "non-literary society",
+   "source": "社会学名词",
+   "wordNumber": "4.2.1.5",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_人类史",
+   "subjectName": "人类史",
+   "publishYear": "2025",
+   "definition": "没有书面语言的族群或文化。一般拥有丰富的口述表达的传统。被认为是人类社会的雏形，比较孤立、人口少、技术简单、变化速度慢，在经济和政治功能方面具有相对的自给自足性、自律性和完整性。"
+  },
+  {
+   "cn": "非政治国家",
+   "en": "non political state",
+   "source": "马克思主义",
+   "wordNumber": "03.0258",
+   "subjectFullName": "马克思主义_科学社会主义_列宁斯大林时期",
+   "subjectName": "列宁斯大林时期",
+   "publishYear": "2025",
+   "definition": "马克思、恩格斯认为，无产阶级专政是过渡时期的国家政权，到共产主义社会的第一阶段，国家将逐步消亡，而只具有管理职能，这时的国家就是非政治国家。列宁在《国家与革命》中指出：‘正在消亡的国家在它消亡的一定阶"
+  },
+  {
+   "cn": "非压抑性生存",
+   "en": "non  repressive existence",
+   "source": "马克思主义",
+   "wordNumber": "05.0052",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "马尔库塞在《爱欲与文明》中指出，真正人道的文明可以使人从压抑性生存转变为非压抑性生存，主要表现在两个方面，即异化劳动转变为消遣，性欲升华为爱欲。"
+  },
+  {
+   "cn": "非营利医院",
+   "en": "non-profit hospital",
+   "source": "卫生经济学名词",
+   "wordNumber": "14.2.1.2.2",
+   "subjectFullName": "卫生经济学名词_医生与医院行为_医院行为",
+   "subjectName": "医院行为",
+   "publishYear": "2025",
+   "definition": "为社会公众利益服务而设立和运营的医院，其收入用于弥补医疗服务成本，实际运营中的收支结余只能用于自身的发展，如改善医疗条件、引进技术、开展新的医疗服务项目等。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,732 @@
+{
+ "key": "sensible matter",
+ "term": "sensible matter",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T16:10:43+00:00",
+ "status": "ok",
+ "note": "variant=sensible matter; 审定公布名词库=1288; 海峡两岸名词对照库=456; 其他来源数据库=90; 预公布名词数据库=29; jwt-direct（JWT 直连，raw 略；已滤维基 8 条）",
+ "hits": [
+  {
+   "cn": "显汗",
+   "en": "sensible perspiration",
+   "source": "兽医学名词",
+   "wordNumber": "04.443",
+   "subjectFullName": "兽医学_动物生理学",
+   "subjectName": "动物生理学",
+   "publishYear": "2023",
+   "definition": "水分从汗腺分泌的汗液中蒸发的现象。汗液可被机体感觉到。"
+  },
+  {
+   "cn": "感觉温度",
+   "en": "sensible temperature ",
+   "source": "草学名词",
+   "wordNumber": "3.0624",
+   "subjectFullName": "草学_草地资源与利用",
+   "subjectName": "草地资源与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "感热",
+   "en": "sensible heat ",
+   "source": "草学名词",
+   "wordNumber": "3.064",
+   "subjectFullName": "草学_草地资源与利用",
+   "subjectName": "草地资源与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "显热",
+   "en": "sensible heat",
+   "source": "畜牧学名词",
+   "wordNumber": "02.358",
+   "subjectFullName": "畜牧学_饲养管理_家畜环境卫生学",
+   "subjectName": "家畜环境卫生学",
+   "publishYear": "2020",
+   "definition": "畜禽产生的经传导、对流、辐射散发到环境中的热量。能引起空气温度变化。"
+  },
+  {
+   "cn": "显汗",
+   "en": "sensible perspiration",
+   "source": "生理学名词",
+   "wordNumber": "09.090",
+   "subjectFullName": "生理学_能量代谢和体温",
+   "subjectName": "能量代谢和体温",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "显热",
+   "en": "sensible heat",
+   "source": "建筑学名词",
+   "wordNumber": "10.0335",
+   "subjectFullName": "建筑学_建筑物理_建筑热工学",
+   "subjectName": "建筑热工学",
+   "publishYear": "2014",
+   "definition": "在物质的吸热或放热过程中，能使其温度发生变化的热量。"
+  },
+  {
+   "cn": "感热",
+   "en": "sensible heat",
+   "source": "大气科学名词",
+   "wordNumber": "05.005",
+   "subjectFullName": "大气科学_动力气象学",
+   "subjectName": "动力气象学",
+   "publishYear": "2009",
+   "definition": "在不伴随水的相变的情况下，有温差存在时物质间可输送或交换的热量。"
+  },
+  {
+   "cn": "感觉温度",
+   "en": "sensible temperature",
+   "source": "大气科学名词",
+   "wordNumber": "08.211",
+   "subjectFullName": "大气科学_应用气象学",
+   "subjectName": "应用气象学",
+   "publishYear": "2009",
+   "definition": "在不同气温、湿度和风速的综合作用下，人体所感觉的冷暖程度。"
+  },
+  {
+   "cn": "感觉温度",
+   "en": "sensible temperature",
+   "source": "资源科学技术名词",
+   "wordNumber": "08.195",
+   "subjectFullName": "资源科学技术_气候资源学",
+   "subjectName": "气候资源学",
+   "publishYear": "2008",
+   "definition": "在不同气温，湿度和风速的综合作用下，人体所感觉的冷暖程度。"
+  },
+  {
+   "cn": "感热",
+   "en": "sensible heat",
+   "source": "资源科学技术名词",
+   "wordNumber": "08.213",
+   "subjectFullName": "资源科学技术_气候资源学",
+   "subjectName": "气候资源学",
+   "publishYear": "2008",
+   "definition": "在不伴随水的相变的情况下，有温差存在时，物质间可输送或交换的热量。"
+  },
+  {
+   "cn": "感热",
+   "en": "sensible heat",
+   "source": "海洋科技名词",
+   "wordNumber": "02.0495",
+   "subjectFullName": "海洋科学技术_海洋科学_海洋气象学",
+   "subjectName": "海洋气象学",
+   "publishYear": "2007",
+   "definition": "在不伴随水的相变的情况下，有温差存在时，物质间可输送或交换的热量。"
+  },
+  {
+   "cn": "显热",
+   "en": "sensible heat",
+   "source": "航空科学技术名词",
+   "wordNumber": "10.191",
+   "subjectFullName": "航空科学技术_航空安全、生命保障系统与航空医学",
+   "subjectName": "航空安全、生命保障系统与航空医学",
+   "publishYear": "2003",
+   "definition": "人与环境间通过对流、辐射和传导途径交换的热量，即非蒸发性散热。"
+  },
+  {
+   "cn": "地面真地平",
+   "en": "sensible horizon",
+   "source": "航海科技名词",
+   "wordNumber": "02.0100",
+   "subjectFullName": "航海科学技术_地文航海",
+   "subjectName": "地文航海",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "显热通量",
+   "en": "sensible heat flux",
+   "source": "农学名词",
+   "wordNumber": "13.021",
+   "subjectFullName": "农业气象_农业气象",
+   "subjectName": "农业气象",
+   "publishYear": "2025",
+   "definition": "近地层中因空气湍流运动引起的地表面和空气间的热量输送。"
+  },
+  {
+   "cn": "显热通量",
+   "en": "sensible heat flux",
+   "source": "林学名词",
+   "wordNumber": "02.052",
+   "subjectFullName": "林学_林学基础_森林气象",
+   "subjectName": "森林气象",
+   "publishYear": "2016",
+   "definition": "由于温度变化而引起的大气与下垫面之间发生的湍流形式的热流通量。"
+  },
+  {
+   "cn": "显热蓄热",
+   "en": "sensible heat regeneration",
+   "source": "建筑学名词",
+   "wordNumber": "14.1051",
+   "subjectFullName": "建筑学_建筑设备与系统_动力系统与设备部件",
+   "subjectName": "动力系统与设备部件",
+   "publishYear": "2014",
+   "definition": "对蓄热物质在不发生相态变化的条件下，加热升温，使其内能增加，并予以保温储存，用热时释放热量的蓄热方式。"
+  },
+  {
+   "cn": "显燃期",
+   "en": "sensible combustion period",
+   "source": "铁道科学技术名词",
+   "wordNumber": "04.0783",
+   "subjectFullName": "铁道科学技术_铁道牵引动力",
+   "subjectName": "铁道牵引动力",
+   "publishYear": "1997",
+   "definition": ""
+  },
+  {
+   "cn": "辨别觉训练",
+   "en": "epicritic sensibility training",
+   "source": "手外科学名词",
+   "wordNumber": "06.0080",
+   "subjectFullName": "手外科学_手外科康复",
+   "subjectName": "手外科康复",
+   "publishYear": "2020",
+   "definition": "先让患者辨别粗细差别较大物体表面，逐渐进展到差别较小的物体表面的治疗方法。每项训练采用闭眼—睁眼—闭眼方法，反馈、重复地强化训练。"
+  },
+  {
+   "cn": "焊接裂纹敏感性",
+   "en": "welding crack sensibility",
+   "source": "航天科学技术名词",
+   "wordNumber": "12.114",
+   "subjectFullName": "航天科学技术_航天材料",
+   "subjectName": "航天材料",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "运动觉训练",
+   "en": "motor sensibility training",
+   "source": "医学名词 第七分册",
+   "wordNumber": "04.0195",
+   "subjectFullName": "医学_物理医学与康复[学]",
+   "subjectName": "物理医学与康复[学]",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "灵敏度",
+   "en": "sensibility",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "灵敏度",
+   "en": "sensibility",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "感觉温度",
+   "en": "sensible temperature",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "感热",
+   "en": "sensible heat",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "显热",
+   "en": "sensible heat",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "感热",
+   "en": "sensible heat",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "可感热",
+   "en": "sensible heat",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "地面真地平",
+   "en": "sensible horizon",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "感热通量",
+   "en": "sensible heat flux",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "物质",
+   "en": "matter",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "白质",
+   "en": "white matter",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "悬浮物",
+   "en": "suspended matter",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "不皂化物",
+   "en": "unsaponified matter",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "白质",
+   "en": "white matter",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "灰质",
+   "en": "gray matter",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "软物质",
+   "en": "soft matter",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "凝聚体",
+   "en": "condensed matter",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "暗物质",
+   "en": "dark matter",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "不可见物质",
+   "en": "invisible matter",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "简并物质",
+   "en": "degenerate matter",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "细颗粒物",
+   "en": "particulate matter",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "可吸入颗粒物",
+   "en": "particulate matter 10",
+   "source": "外语中文译写规范部际联席会议专家委员会",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "色",
+   "en": "Rūpa / Matter",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "物",
+   "en": "Wu (Thing / Matter)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "垫子",
+   "en": "mat",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "以义制事",
+   "en": "Handle Matters According to Morality and Justice",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "文以意为主",
+   "en": "The Message Matters More Than the Rhetoric.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "神与物游",
+   "en": "Interaction Between the Mind and the Subject Matter",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "柔道垫",
+   "en": "mat\",\"tatami",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "比赛垫",
+   "en": "contest mat",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_柔道名词",
+   "subjectName": "柔道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "射击垫",
+   "en": "shooting mat",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "摔跤垫",
+   "en": "wrestling mat",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "感性",
+   "en": "sensibility",
+   "source": "马克思主义",
+   "wordNumber": "01.0177",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "（1）人通过感觉器官感知外在对象而产生感觉、知觉和表象等直观形式的认识能力和感知方式，是认识活动的初级形式，它只能认识对象的表面现象和外部特征，形成对对象的形象、直观、生动的认识。（2）情绪和情感统称"
+  },
+  {
+   "cn": "新感性",
+   "en": "new sensibility",
+   "source": "马克思主义",
+   "wordNumber": "05.0034",
+   "subjectFullName": "马克思主义_附录_国外马克思主义哲学",
+   "subjectName": "国外马克思主义哲学",
+   "publishYear": "2025",
+   "definition": "马尔库塞提出的艺术乌托邦中的一个重要概念。他认为，当人的爱欲获得了解决，人就不再受工具理性的统治，人就是自由的、快乐的人。在新感性降临的社会，人与自然和谐一体，人与人和平相处，人在生活中体验着美妙、安"
+  },
+  {
+   "cn": "物质",
+   "en": "matter",
+   "source": "马克思主义",
+   "wordNumber": "01.0010",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "独立存在于人的意识之外的、不依赖于意识并为人的意识所反映的客观实在。物质的根本特性是客观实在性。恩格斯提出物质无非是各种物的总和，而这个概念就是从这一总和中抽象出来的。列宁给物质下了科学定义为：物质是"
+  },
+  {
+   "cn": "颗粒物",
+   "en": "particulate matter, PM",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.2.2.1.3",
+   "subjectFullName": "军事预防医学_军事环境卫生_战时空气卫生",
+   "subjectName": "战时空气卫生",
+   "publishYear": "2025",
+   "definition": "气溶胶体系中均匀分散的各种固体或液体微粒。"
+  },
+  {
+   "cn": "大气颗粒物",
+   "en": "airborne particulate matter, APM",
+   "source": "军事预防医学名词",
+   "wordNumber": "2.2.2.3",
+   "subjectFullName": "军事预防医学_军事环境卫生_战时空气卫生",
+   "subjectName": "战时空气卫生",
+   "publishYear": "2025",
+   "definition": "大气中存在的各种固态和液态颗粒状物质的总称。"
+  },
+  {
+   "cn": "“五个认同”",
+   "en": "Five Matters of identity",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0122",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "习近平总书记关于加强和改进民族工作的重要思想的核心内容之一，是指各族群众对伟大祖国、中华民族、中华文化、中国共产党、中国特色社会主义的认同。"
+  },
+  {
+   "cn": "“四个与共”",
+   "en": "Four Matters of Together",
+   "source": "民族学与文化学名词",
+   "wordNumber": "2.0123",
+   "subjectFullName": "民族学与文化学_民族理论_马克思主义民族理论中国化",
+   "subjectName": "马克思主义民族理论中国化",
+   "publishYear": "2025",
+   "definition": "习近平总书记关于加强和改进民族工作的重要思想的核心内容之一，是指各族人民休戚与共、荣辱与共、生死与共、命运与共的共同体理念。"
+  },
+  {
+   "cn": "母料",
+   "en": "master batch",
+   "source": "食品卫生学名词",
+   "wordNumber": "7.1.41",
+   "subjectFullName": "食品卫生学_食品相关产品_食品接触材料及制品",
+   "subjectName": "食品接触材料及制品",
+   "publishYear": "2025",
+   "definition": "将影响塑料材料及制品物理性状的添加剂（如着色剂、填料、增强剂、稳定剂等）超量载附于一种或几种树脂中而制成的、与树脂或塑料材料混合使用才能加工成其他塑料材料及制品的浓缩体。"
+  },
+  {
+   "cn": "以物易物",
+   "en": "barter",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0161",
+   "subjectFullName": "民族学与文化学_民族学・人类学_分支学科与研究领域",
+   "subjectName": "分支学科与研究领域",
+   "publishYear": "2025",
+   "definition": "一种没有货币介入的物品交易方式，特点是买和卖的行为同时发生，许多现代复杂社会的早期阶段存在着这种现象。"
+  },
+  {
+   "cn": "以物易物",
+   "en": "barter",
+   "source": "社会学名词",
+   "wordNumber": "4.2.9.24",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化现象",
+   "subjectName": "文化现象",
+   "publishYear": "2025",
+   "definition": "不以货币为媒介而直接用一种物品换取另一种物品的互换行为。最简单的经济制度里唯一的交换方式。"
+  },
+  {
+   "cn": "物物交换",
+   "en": "barter",
+   "source": "马克思主义",
+   "wordNumber": "02.0060",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "商品交换的原始形式，出现在原始社会后期、第一次社会大分工以前的产品的直接交换。物物交换的特点是没有买与卖的区别。物物交换从价值形式的发展来看，包括简单的价值形式和扩大的价值形式。"
+  },
+  {
+   "cn": "牛油",
+   "en": "butter",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.10.2.2",
+   "subjectFullName": "食品卫生学_食品_食用油脂",
+   "subjectName": "食用油脂",
+   "publishYear": "2025",
+   "definition": "从牛的脂肪组织中提炼出来的油脂。"
+  },
+  {
+   "cn": "滑竿",
+   "en": "litter",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.009",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "中国旧式载人交通工具；用两根粗长竹竿绑扎成担架状，中间坐人部位用绳索结成坐兜或设一凉椅，前垂踏脚板，前后各用一人扛抬；主要流行于西南山区（一说仅流行于西南山区）。"
+  },
+  {
+   "cn": "老年性阴道炎",
+   "en": "senile vaginitis",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "3.8.2.1",
+   "subjectFullName": "妇幼卫生学名词_妇女保健_老年期保健",
+   "subjectName": "老年期保健",
+   "publishYear": "2025",
+   "definition": "阴道炎的一种。因老年女性卵巢功能衰退，雌激素水平降低导致阴道黏膜萎缩变薄，局部抵抗力下降而细菌入侵引起的阴道炎症。"
+  },
+  {
+   "cn": "苦陷症",
+   "en": "bitter pit",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.4.9",
+   "subjectFullName": "食品卫生学_食品_水果",
+   "subjectName": "水果",
+   "publishYear": "2025",
+   "definition": "苹果由于高氮低钙营养失调而引起果肉微苦，果实表面出现凹陷圆斑的症状。"
+  },
+  {
+   "cn": "可可脂",
+   "en": "cocoa butter",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.10.1.16",
+   "subjectFullName": "食品卫生学_食品_食用油脂",
+   "subjectName": "食用油脂",
+   "publishYear": "2025",
+   "definition": "以纯可可豆为原料，经清理、筛选、焙炒、脱壳、磨浆、机榨等工艺制成的产品。"
+  },
+  {
+   "cn": "可可脂",
+   "en": "cocoa butter",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.17.29",
+   "subjectFullName": "食品卫生学_食品_糖果",
+   "subjectName": "糖果",
+   "publishYear": "2025",
+   "definition": "以纯可可豆为原料，经清理、筛选、脱壳、磨浆、机榨等工艺提取出的天然植物油脂，液态时呈琥珀色，固态时呈淡黄色。"
+  },
+  {
+   "cn": "封面信",
+   "en": "cover letter",
+   "source": "社会医学名词",
+   "wordNumber": "4.8.1",
+   "subjectFullName": "社会医学研究方法",
+   "subjectName": "问卷",
+   "publishYear": "2025",
+   "definition": "一封致被调查者的短信，通常放在问卷的最前面。内容包括调查者的身份、调查目的、意义和主要内容。目的是希望取得被调查者的信任和合作。"
+  },
+  {
+   "cn": "可行的社会主义经济模式",
+   "en": "economic model of feasible socialism",
+   "source": "马克思主义",
+   "wordNumber": "05.0174",
+   "subjectFullName": "马克思主义_附录_国外经济学理论",
+   "subjectName": "国外经济学理论",
+   "publishYear": "2025",
+   "definition": "英国亚历克·诺夫（Alec Nove）在《可行的社会主义经济》中提出。主张以国有为主体的混合经济模式；有限制的市场机制，国家以经济手段为主，以行政、法律手段为辅的多种方法对经济加以调控；实行经济民主，"
+  },
+  {
+   "cn": "代可可脂",
+   "en": "cocoa butter alternatives",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.17.31",
+   "subjectFullName": "食品卫生学_食品_糖果",
+   "subjectName": "糖果",
+   "publishYear": "2025",
+   "definition": "能部分模拟天然可可脂特点并加以部分或全部替代的硬化油脂。如氧化植物油，但其脂肪酸组成与构型不同于可可脂，可能含有反式脂肪酸，且缺少多晶型特性。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
