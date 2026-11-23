@@ -1,0 +1,702 @@
+{
+ "key": "latent variable",
+ "term": "latent variable",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T06:01:28+00:00",
+ "status": "ok",
+ "note": "variant=latent variable; 审定公布名词库=2602; 海峡两岸名词对照库=874; 其他来源数据库=47; 预公布名词数据库=167; jwt-direct（JWT 直连，raw 略；已滤维基 11 条）",
+ "hits": [
+  {
+   "cn": "潜在酸",
+   "en": "latent acid",
+   "source": "精细化工名词",
+   "wordNumber": "08.0171",
+   "subjectFullName": "精细化工_其他精细化学品_油田化学品",
+   "subjectName": "油田化学品",
+   "publishYear": "2025",
+   "definition": "在地层条件下可产生酸的物质。"
+  },
+  {
+   "cn": "潜伏期",
+   "en": "latent phase",
+   "source": "妇产科学名词",
+   "wordNumber": "17.049",
+   "subjectFullName": "正常分娩_先兆临产",
+   "subjectName": "先兆临产",
+   "publishYear": "2025",
+   "definition": "规律宫缩至宫口扩张＜5cm的产程阶段。国际上不同指南对于潜伏期的界定存在差异。"
+  },
+  {
+   "cn": "潜伏侵染",
+   "en": "latent infection",
+   "source": "农学名词",
+   "wordNumber": "10.034",
+   "subjectFullName": "植物保护_作物病害",
+   "subjectName": "作物病害",
+   "publishYear": "2025",
+   "definition": "病原物侵入寄主植物后，由于发病条件的限制，潜伏在寄主植物体内不表现症状，当条件适当时，再继续扩展使寄主植物出现症状的过程。"
+  },
+  {
+   "cn": "潜影",
+   "en": "latent image",
+   "source": "档案学名词",
+   "wordNumber": "05.04.030",
+   "subjectFullName": "档案学_档案保护_档案复制",
+   "subjectName": "档案复制",
+   "publishYear": "2024",
+   "definition": "肉眼看不见的潜在影像。在照相乳剂中，潜影是在曝光的瞬间形成的。由于光的物理或化学作用，在个别的结晶（一般是卤化银）中所形成的不可见的影像，负片经过显影使其变为可见的影像。"
+  },
+  {
+   "cn": "潜像",
+   "en": "latent image",
+   "source": "天文学名词",
+   "wordNumber": "06.240",
+   "subjectFullName": "天文学_天文仪器与技术",
+   "subjectName": "天文仪器与技术",
+   "publishYear": "2024",
+   "definition": "探测器的前一帧图像因未能完全清零而在后帧图像中残留的影像。"
+  },
+  {
+   "cn": "潜伏梅毒",
+   "en": "latent syphilis",
+   "source": "男科及性医学名词",
+   "wordNumber": "22.010",
+   "subjectFullName": "男科及性医学_性传播疾病",
+   "subjectName": "性传播疾病",
+   "publishYear": "2023",
+   "definition": "有梅毒感染史，临床表现已消退，梅毒血清学阳性，但脑脊液检查正常的梅毒感染。一旦机体抵抗力减弱，可发生早期或晚期梅毒症状，亦可长期甚至终身潜伏而不发病。"
+  },
+  {
+   "cn": "潜伏感染",
+   "en": "latent infection",
+   "source": "兽医学名词",
+   "wordNumber": "02.030",
+   "subjectFullName": "兽医学_动物传染病学",
+   "subjectName": "动物传染病学",
+   "publishYear": "2023",
+   "definition": "一种病毒的持续性感染状态。病毒潜伏在宿主细胞内，不产生感染性症状，一旦条件允许才急性发作。"
+  },
+  {
+   "cn": "潜伏期",
+   "en": "latent period",
+   "source": "兽医学名词",
+   "wordNumber": "04.109",
+   "subjectFullName": "兽医学_动物生理学",
+   "subjectName": "动物生理学",
+   "publishYear": "2023",
+   "definition": "单收缩从刺激到开始收缩的时期。"
+  },
+  {
+   "cn": "潜在起搏点",
+   "en": "latent pacemaker",
+   "source": "兽医学名词",
+   "wordNumber": "04.187",
+   "subjectFullName": "兽医学_动物生理学",
+   "subjectName": "动物生理学",
+   "publishYear": "2023",
+   "definition": "窦房结之外的其他部位自律细胞。在正常情况下，并不表现自动节律性，只起兴奋传导作用。"
+  },
+  {
+   "cn": "潜隐期",
+   "en": "latent period",
+   "source": "兽医学名词",
+   "wordNumber": "12.048",
+   "subjectFullName": "兽医学_兽医寄生虫学",
+   "subjectName": "兽医寄生虫学",
+   "publishYear": "2023",
+   "definition": "从寄生虫感染宿主到宿主排出新一代虫体的最短时间。"
+  },
+  {
+   "cn": "潜热",
+   "en": "latent heat ",
+   "source": "草学名词",
+   "wordNumber": "3.0639",
+   "subjectFullName": "草学_草地资源与利用",
+   "subjectName": "草地资源与利用",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "潜抑",
+   "en": "latent inhibition",
+   "source": "行为医学名词",
+   "wordNumber": "10.073",
+   "subjectFullName": "行为医学_应激与应激相关障碍_应激",
+   "subjectName": "应激",
+   "publishYear": "2022",
+   "definition": "个体把意识中对立的或不能接受的冲动、欲望、情感或痛苦经历，不知不觉地压制到潜意识中，以至于当事人不能察觉或回忆，以避免痛苦的一种自我防御机制。"
+  },
+  {
+   "cn": "潜伏侵染",
+   "en": "latent infection ",
+   "source": "草学名词",
+   "wordNumber": "7.0291",
+   "subjectFullName": "草学_草原灾害与保护_草地保护",
+   "subjectName": "草地保护",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "潜伏病毒",
+   "en": "latent virus ",
+   "source": "草学名词",
+   "wordNumber": "7.0307",
+   "subjectFullName": "草学_草原灾害与保护_草地保护",
+   "subjectName": "草地保护",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "潜热",
+   "en": "latent heat",
+   "source": "地球物理学名词",
+   "wordNumber": "06.0079",
+   "subjectFullName": "地球物理学_地热学_理论地热学",
+   "subjectName": "理论地热学",
+   "publishYear": "2022",
+   "definition": "单位质量的物质在等温等压情况下，从一个相变化到另一个相吸收或放出的热量。 "
+  },
+  {
+   "cn": "潜热",
+   "en": "latent heat",
+   "source": "畜牧学名词",
+   "wordNumber": "02.359",
+   "subjectFullName": "畜牧学_饲养管理_家畜环境卫生学",
+   "subjectName": "家畜环境卫生学",
+   "publishYear": "2020",
+   "definition": "畜禽产生的以蒸发水汽带入空气而不改变空气温度的热量。"
+  },
+  {
+   "cn": "潜在起步点",
+   "en": "latent pacemaker",
+   "source": "生理学名词",
+   "wordNumber": "05.080",
+   "subjectFullName": "生理学_心血管生理学",
+   "subjectName": "心血管生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "潜热",
+   "en": "latent heat",
+   "source": "电力名词",
+   "wordNumber": "01.581",
+   "subjectFullName": "电力_总论",
+   "subjectName": "总论",
+   "publishYear": "2020",
+   "definition": "物质相变时放出或吸收的热量。"
+  },
+  {
+   "cn": "潜伏侵染",
+   "en": "latent infection",
+   "source": "食品科学技术名词",
+   "wordNumber": "03.0597",
+   "subjectFullName": "食品科学技术_食品工程_食品专用技术与装备_贮藏保鲜",
+   "subjectName": "贮藏保鲜",
+   "publishYear": "2020",
+   "definition": "有些病原物侵入寄主植物后，由于寄主和环境条件的限制，暂时停止生长活动而潜伏在寄主体内不表现症状，但当寄主抗病性减弱时，病菌可继续扩展并出现症状。"
+  },
+  {
+   "cn": "潜伏性感染",
+   "en": "latent infection",
+   "source": "感染病学名词",
+   "wordNumber": "01.0025",
+   "subjectFullName": "感染病学_总论_概述",
+   "subjectName": "概述",
+   "publishYear": "2019",
+   "definition": "病原体潜伏于体内某些部位，既未被机体清除，又不引起明显症状、体征，但待机体免疫功能低下或有其他诱发因素时则可引起显性感染。"
+  },
+  {
+   "cn": "潜［在］变量",
+   "en": "latent variable",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "潜伏芽",
+   "en": "latent bud",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "潜热",
+   "en": "latent heat",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "潜在不稳定",
+   "en": "latent instability",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "潜能",
+   "en": "latent energy",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "潜热",
+   "en": "latent heat",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "潜伏学习",
+   "en": "latent learning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "潜热",
+   "en": "latent heat",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "潜在货币",
+   "en": "latent currency",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "潜在[票据]拒付",
+   "en": "latent dishonour",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "潜能",
+   "en": "latent energy",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "潜热",
+   "en": "latent heat",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "潜热",
+   "en": "latent heat",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "潜在性感染",
+   "en": "latent infection",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "潜像，潜影",
+   "en": "latent image",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "滞后输出",
+   "en": "latent output",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "潜在缺陷",
+   "en": "latent defect",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "潜伏性感染",
+   "en": "latent infection",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "潜伏性固化剂",
+   "en": "latent curing agent",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "潜固化剂",
+   "en": "latent curing agent",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "隐性语义索引",
+   "en": "latent semantic indexing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "潜伏期",
+   "en": "incubation; latent period",
+   "source": "新冠肺炎疫情相关词汇中英对照",
+   "wordNumber": null,
+   "subjectFullName": "医学词汇_传播途径_方式",
+   "subjectName": "方式",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "隐狄利克雷分配",
+   "en": "latent Dirichlet allocation (LDA)",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "隐秀",
+   "en": "Latent Sentiment and Evident Beauty",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "多维变量",
+   "en": "multidimensional variable",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "时变数据",
+   "en": "time-varying data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "情以物迁，辞以情发",
+   "en": "Feeling Varies with Scenery and Verbal Expression Arises from Feeling.",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "专利权质押融资",
+   "en": "patent pledge financing",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "意图推断",
+   "en": "intent inference",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "潜变量",
+   "en": "latent variable",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.132",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "在结构方程模型中，无法被直接观测到，其不可信度被调整或其方差被两个或更多观测变量所分享的变量。"
+  },
+  {
+   "cn": "潜变量模型",
+   "en": "latent variable model",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.131",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "将一组观测变量（或显变量）和一组潜变量联系起来的统计模型"
+  },
+  {
+   "cn": "假愈期",
+   "en": "latent phase",
+   "source": "军事预防医学名词",
+   "wordNumber": "8.2.4.1.2",
+   "subjectFullName": "军事预防医学_核武器医学防护学_核武器杀伤效应",
+   "subjectName": "核武器杀伤效应",
+   "publishYear": "2025",
+   "definition": "急性放射病的第二阶段。此期患者除稍感疲乏外，其他初期反应期的症状均明显减轻或基本消失，但造血损伤仍在发展，病理变化还在进行。"
+  },
+  {
+   "cn": "潜类分析",
+   "en": "latent class analysis",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.133",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "用以解决假设的统计模型的参数在无法观测到的子群体中不一致的潜变量模型。"
+  },
+  {
+   "cn": "潜特质模型",
+   "en": "latent trait models",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.134",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "描述了在某个回答题项上特定分数的概率和解释该分数的潜变量或潜特质间关系的测量模型。模型中显变量为定距变量，潜变量为定类变量。"
+  },
+  {
+   "cn": "潜预算分析",
+   "en": "latent budget analysis",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.135",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "用一组较少的类别的预算表示整个数据结构的特征的分析方法。其中，预算是将一个确定的数目，比如时间，按照互斥和穷尽的原则分配不同类别上。"
+  },
+  {
+   "cn": "潜马尔可夫模型",
+   "en": "latent markov model",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.136",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "包含了观测变量的测量误差（类别潜变量）的离散时间的马尔科夫链模型。"
+  },
+  {
+   "cn": "变量",
+   "en": "variable",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.24",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "描述个或事物变化的一组逻辑特征。"
+  },
+  {
+   "cn": "自变量",
+   "en": "independent variable",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.25",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "任意一个被认为是其他变量（因变量）的原因的变量。"
+  },
+  {
+   "cn": "因变量",
+   "en": "dependent variable",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.26",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "任意一个被认为受到其他变量（自变量）的因果影响的变量。"
+  },
+  {
+   "cn": "虚拟变量",
+   "en": "dummy variable",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.27",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "“哑变量”。为了便于把类别式解释变量作为自变量进行统计分析，人为设定的类别式解释变量的数值。通常取值为0或1。"
+  },
+  {
+   "cn": "中介变量",
+   "en": "mediating variable",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.28",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "位于独立的原因要素和最终结果之间的变量。"
+  },
+  {
+   "cn": "调节变量",
+   "en": "moderating variable",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.29",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "能够改变自变量对因变量的影响的变量。"
+  },
+  {
+   "cn": "连续变量",
+   "en": "continuous variable",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.42",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "在某界限内连续作微量变化的变量。"
+  },
+  {
+   "cn": "离散变量",
+   "en": "discrete variable",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.43",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "以计数测定性态并用整数表示的变量。"
+  },
+  {
+   "cn": "外生变量",
+   "en": "exogenous variable",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.121",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "在因果模型或因果系统中独立于系统中其他变量的状态的因子，或只受因果系统外的变量影响的因子。"
+  },
+  {
+   "cn": "内生变量",
+   "en": "endogenous variable",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.122",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "在因果模型或因果系统中由系统中其他因子的状态决定其值的因子。"
+  },
+  {
+   "cn": "可变资本",
+   "en": "variable capital",
+   "source": "马克思主义",
+   "wordNumber": "02.0112",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“不变资本”相对。指资本家在生产中用于劳动力的那一部分资本。这部分资本在商品的生产过程中发生了价值量的变化，会增殖自己本身的价值，因此称之为可变资本，用v来表示。"
+  },
+  {
+   "cn": "可变投入",
+   "en": "variable input",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.2.7.3.2",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务生产",
+   "subjectName": "卫生服务生产",
+   "publishYear": "2025",
+   "definition": "在生产过程中随产量而变化的那部分要素投入。"
+  },
+  {
+   "cn": "可变成本",
+   "en": "variable cost",
+   "source": "卫生经济学名词",
+   "wordNumber": "5.3.1.2",
+   "subjectFullName": "卫生经济学名词_卫生服务供给_卫生服务供给成本",
+   "subjectName": "卫生服务供给成本",
+   "publishYear": "2025",
+   "definition": "成本总额与服务量的总数成正比例增减变动的成本。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

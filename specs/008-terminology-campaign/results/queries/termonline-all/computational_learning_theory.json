@@ -1,0 +1,802 @@
+{
+ "key": "computational learning theory",
+ "term": "computational learning theory",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T05:59:13+00:00",
+ "status": "ok",
+ "note": "variant=computational learning theory; 审定公布名词库=4979; 海峡两岸名词对照库=1572; 其他来源数据库=522; 预公布名词数据库=381; jwt-direct（JWT 直连，raw 略；已滤维基 1 条）",
+ "hits": [
+  {
+   "cn": "学习理论",
+   "en": "learning theory",
+   "source": "心理学名词",
+   "wordNumber": "09.010",
+   "subjectFullName": "心理学_教育心理学",
+   "subjectName": "教育心理学",
+   "publishYear": "2014",
+   "definition": "用于解释学习实质、类型、机制等的一系列概念与原理。"
+  },
+  {
+   "cn": "可计算性理论",
+   "en": "computability theory",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0107",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "研究算法可解性的数学原理，它从图灵1936年的论文开始成为一门独立的学科。"
+  },
+  {
+   "cn": "形式学习理论",
+   "en": "formal-learning theory",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.679",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "科学哲学界对于科学知识增长的一个理论模型。科学家依据关于研究对象的可用数据形成假说，获得新数据后评估、修正假说。一系列假说稳定在了一个准确的、揭示对象本质属性的理论上，这就是一个科学发现。"
+  },
+  {
+   "cn": "社会学习理论",
+   "en": "social learning theory",
+   "source": "行为医学名词",
+   "wordNumber": "5.012",
+   "subjectFullName": "行为医学_行为的社会学基础_行为社会化",
+   "subjectName": "行为社会化",
+   "publishYear": "2022",
+   "definition": "人类行为的获得是一种社会学习的过程，人们在社会情境中通过观察和模仿他人习得各种行为的理论。由阿尔伯特·班杜拉（Albert Bandura）最早提出。"
+  },
+  {
+   "cn": "统计学习理论",
+   "en": "statistical learning theory",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0233",
+   "subjectFullName": "计算机科学技术_人工智能_机器学习",
+   "subjectName": "机器学习",
+   "publishYear": "2018",
+   "definition": "统计规律及学习方法的有限样本统计理论。其典型算法是支持向量机。"
+  },
+  {
+   "cn": "社会学习理论",
+   "en": "social learning theory",
+   "source": "管理科学技术名词",
+   "wordNumber": "04.0124",
+   "subjectFullName": "管理科学技术_组织行为与人力资源管理_个体行为基础",
+   "subjectName": "个体行为基础",
+   "publishYear": "2016",
+   "definition": "通过观察和间接经验进行人际学习的理论。"
+  },
+  {
+   "cn": "社会学习理论",
+   "en": "social learning theory",
+   "source": "心理学名词",
+   "wordNumber": "09.014",
+   "subjectFullName": "心理学_教育心理学",
+   "subjectName": "教育心理学",
+   "publishYear": "2014",
+   "definition": "视学习为在社会情境中基于观察、模仿而获得经验的理论。"
+  },
+  {
+   "cn": "符号学习理论",
+   "en": "symbol learning theory",
+   "source": "心理学名词",
+   "wordNumber": "14.030",
+   "subjectFullName": "心理学_运动心理学",
+   "subjectName": "运动心理学",
+   "publishYear": "2014",
+   "definition": "萨基特(R. S. Sackett)提出的将头脑中呈现的运动动作及其时空特征看作符号及其联系并以此为基础解释表象训练作用的理论。"
+  },
+  {
+   "cn": "马尔计算理论",
+   "en": "Marr computational theory",
+   "source": "心理学名词",
+   "wordNumber": "02.461",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "马尔(D. Marr)提出的关于物体识别的计算理论。将视觉表征分为初级简图、2.5维简图和三维模型。"
+  },
+  {
+   "cn": "计算机辅助学习",
+   "en": "computer assisted learning,CAL",
+   "source": "自动化名词",
+   "wordNumber": "04.283",
+   "subjectFullName": "自动化科学技术_控制技术_控制技术计算机应用",
+   "subjectName": "控制技术计算机应用",
+   "publishYear": "1990",
+   "definition": ""
+  },
+  {
+   "cn": "学习的行为理论",
+   "en": "behavioral theory of learning",
+   "source": "心理学名词",
+   "wordNumber": "09.011",
+   "subjectFullName": "心理学_教育心理学",
+   "subjectName": "教育心理学",
+   "publishYear": "2014",
+   "definition": "视学习为建立刺激与反应之间联系过程的理论。"
+  },
+  {
+   "cn": "学习的认知理论",
+   "en": "cognitive theory of learning",
+   "source": "心理学名词",
+   "wordNumber": "09.012",
+   "subjectFullName": "心理学_教育心理学",
+   "subjectName": "教育心理学",
+   "publishYear": "2014",
+   "definition": "视学习为通过新旧经验相互作用而形成对新材料的理解、重构认知结构的理论。"
+  },
+  {
+   "cn": "学习的建构理论",
+   "en": "constructive theory of learning",
+   "source": "心理学名词",
+   "wordNumber": "09.013",
+   "subjectFullName": "心理学_教育心理学",
+   "subjectName": "教育心理学",
+   "publishYear": "2014",
+   "definition": "视学习为基于已有经验和信念去主动感知、理解世界并不断地充实、修正已有经验、生成新经验的理论。"
+  },
+  {
+   "cn": "犯罪学习理论",
+   "en": "learning theory of crime",
+   "source": "心理学名词",
+   "wordNumber": "13.035",
+   "subjectFullName": "心理学_法律心理学",
+   "subjectName": "法律心理学",
+   "publishYear": "2014",
+   "definition": "根据行为学习理论解释犯罪心理形成及犯罪行为发生机制的理论。"
+  },
+  {
+   "cn": "理论教学",
+   "en": "theory teaching and learning",
+   "source": "教育学名词",
+   "wordNumber": "11.165",
+   "subjectFullName": "教育学_职业技术教育",
+   "subjectName": "职业技术教育",
+   "publishYear": "2013",
+   "definition": "以理论知识为主要内容，以课堂讲授为主要形式的教学活动。相对于“实践教学”。"
+  },
+  {
+   "cn": "学习型组织理论",
+   "en": "theories of learning organization",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0145",
+   "subjectFullName": "管理科学技术_公共管理_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2016",
+   "definition": "提倡组织应建立共同愿景，团队学习，自我超越，系统思考，改变心智模式，以维持持续竞争力的理论。该理论最先由美国学者彼得·圣吉(Peter M. Senge)在《第五项修炼》一书中提出。"
+  },
+  {
+   "cn": "视觉计算理论",
+   "en": "computational theory of vision",
+   "source": "生物物理学名词",
+   "wordNumber": "07.106",
+   "subjectFullName": "生物物理学_生物控制论_计算神经科学",
+   "subjectName": "计算神经科学",
+   "publishYear": "2018",
+   "definition": "美国神经科学家马尔(D. Marr)基于计算机科学，系统地概括了心理物理学、神经生理学、神经病学等方面已取得的重要成果，用数学物理的观点方法，对视觉过程提出的一种理论框架。认为视觉是被动地、定量地、自"
+  },
+  {
+   "cn": "计算机支持的协作学习",
+   "en": "computer supported cooperative learning,CSCL",
+   "source": "教育学名词",
+   "wordNumber": "13.134",
+   "subjectFullName": "教育学_教育技术",
+   "subjectName": "教育技术",
+   "publishYear": "2013",
+   "definition": "一种学习形式。利用计算机网络支持并帮助（在或不在同一地域的）学生以小组的形式参与、合作，并通过实时或非实时的交流，共同完成一项任务，以达到特定的学习目标。"
+  },
+  {
+   "cn": "学习",
+   "en": "learning",
+   "source": "行为医学名词",
+   "wordNumber": "3.113",
+   "subjectFullName": "行为医学_行为的生物学基础_生理学基础_本能行为",
+   "subjectName": "本能行为",
+   "publishYear": "2022",
+   "definition": "（1）从模仿、阅读、研究、生活实践中获得知识、技能和经验的过程。（2）从外界环境获取新信息的过程。"
+  },
+  {
+   "cn": "学习",
+   "en": "learning",
+   "source": "生理学名词",
+   "wordNumber": "03.671",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "学习理论",
+   "en": "learning theory",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "学习理论",
+   "en": "learning theory\",\"theory of learning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "符号学习理论",
+   "en": "symbol learning theory\",\"sign learning theory",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "行为学习理论",
+   "en": "behavioral learning theory",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "社会学习理论",
+   "en": "social learning theory",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "计算机辅助学习",
+   "en": "computer assisted learning\",\"CAL",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "学习的认知理论",
+   "en": "cognitive theory of learning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "学习",
+   "en": "learning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "学习",
+   "en": "learning",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "观摩学习",
+   "en": "empathic learning\",\"observation learning",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "潜伏学习",
+   "en": "latent learning\",\"exploratory learning",
+   "source": "海峡两岸昆虫学名词",
+   "wordNumber": null,
+   "subjectFullName": "昆虫学",
+   "subjectName": "昆虫学",
+   "publishYear": "2002",
+   "definition": ""
+  },
+  {
+   "cn": "计算",
+   "en": "computation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "计算",
+   "en": "computation",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "计算机",
+   "en": "computer",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "学习曲线",
+   "en": "learning curve",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "同伴学习",
+   "en": "peer learning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "运动［技能］学习",
+   "en": "motor learning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "行动学习法",
+   "en": "action learning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "联想学习",
+   "en": "associative learning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "学习高原",
+   "en": "learning plateau",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "可计算性理论",
+   "en": "computability theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "计算复杂性理论",
+   "en": "computational complexity theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "计算理论",
+   "en": "Theory of Computation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "学",
+   "en": "Learn",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "机器学习",
+   "en": "Machine Learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "深度学习",
+   "en": "deep learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "监督学习",
+   "en": "supervised learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "无监督学习",
+   "en": "unsupervised learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "强化学习",
+   "en": "reinforcement learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "对抗学习",
+   "en": "adversarial learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "归纳学习",
+   "en": "inductive learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "自适应学习",
+   "en": "adaptive learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "连接机制学习",
+   "en": "connectionist learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "迁移学习",
+   "en": "transfer learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "主动学习",
+   "en": "active learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "演化学习",
+   "en": "evolutional learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "反向传播学习",
+   "en": "backpropagation learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数字化学习",
+   "en": "e-learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "智慧学习",
+   "en": "smart learning",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "社会学习理论",
+   "en": "social learning theory",
+   "source": "社会学名词",
+   "wordNumber": "4.1.2.2",
+   "subjectFullName": "社会学名词_跨学科社会学_社会心理学_社会心理学理论",
+   "subjectName": "社会心理学理论",
+   "publishYear": "2025",
+   "definition": "由美国心理学家班杜拉(Albert Bandura）提出的理论。认为人的行为可以藉由自身反应及所受强化的直接经验获得，但更为常见的是藉由观察他人（或榜样）的行为及其所受强化的间接经验获得。"
+  },
+  {
+   "cn": "社会学习理论",
+   "en": "social learning theory",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.5.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_生活技能教育",
+   "subjectName": "生活技能教育",
+   "publishYear": "2025",
+   "definition": "班杜拉（Bandura）提出的个体可以通过观察他人的行为及行为后果来学习，进而形成自身行为的理论。"
+  },
+  {
+   "cn": "学习",
+   "en": "learning",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习",
+   "subjectName": "学习",
+   "publishYear": "2025",
+   "definition": "从模仿、阅读、研究、生活实践中获得知识、技能和经验的过程。"
+  },
+  {
+   "cn": "终身学习",
+   "en": "lifelong learning",
+   "source": "社会医学名词",
+   "wordNumber": "8.11.1.6.8",
+   "subjectFullName": "卫生服务研究",
+   "subjectName": "卫生资源",
+   "publishYear": "2025",
+   "definition": "个人在其一生中，为适应社会发展与自身全面发展的需要，持续进行的自我主导或有组织的学习活动。"
+  },
+  {
+   "cn": "元学习",
+   "en": "meta-learning",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.5.13",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_生活技能教育",
+   "subjectName": "生活技能教育",
+   "publishYear": "2025",
+   "definition": "学习者对学习过程的认知和控制。元认知的一个分支，即元认知在学习领域的拓展应用。"
+  },
+  {
+   "cn": "学习环境",
+   "en": "learning environment",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.6.2.7.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_健康促进学校",
+   "subjectName": "健康促进学校",
+   "publishYear": "2025",
+   "definition": "促进学习的各种支持性条件的总称。包括情境、活动、资源、工具、学习支架、学习伙伴和学业评价等。"
+  },
+  {
+   "cn": "学习障碍",
+   "en": "learning disorder",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_学校心理卫生_儿童少年心理卫生问题",
+   "subjectName": "儿童少年心理卫生问题",
+   "publishYear": "2025",
+   "definition": "个体在听、说、读、写、算等方面显著落后于正常水平的现象。"
+  },
+  {
+   "cn": "学习动机",
+   "en": "learning motivation",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "6.4.3.2",
+   "subjectFullName": "",
+   "subjectName": "学校心理健康促进",
+   "publishYear": "2025",
+   "definition": "激发个体启动、维持学习活动，并使其朝向特定的学习目标的一种内部动力机制。"
+  },
+  {
+   "cn": "学习负荷",
+   "en": "learning load",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习负荷",
+   "subjectName": "学习负荷",
+   "publishYear": "2025",
+   "definition": "学习时脑力工作的强度和时间。与教学内容的难度、数量，教学时间和方法及学生身心健康状况等有关。"
+  },
+  {
+   "cn": "课业学习",
+   "en": "schoolwork learning",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.5.1.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_作息制度卫生",
+   "subjectName": "作息制度卫生",
+   "publishYear": "2025",
+   "definition": "根据教师要求，学生在课上进行的学习活动。"
+  },
+  {
+   "cn": "理论",
+   "en": "theory",
+   "source": "马克思主义",
+   "wordNumber": "01.0119",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "关于自然、社会和人自身的本质规律的抽象、合乎逻辑的一般推论或假说。理论来源于实践，接受实践的检验。理论服务于实践，随着实践的发展而发展。"
+  },
+  {
+   "cn": "结构化学习模式",
+   "en": "structured learning model",
+   "source": "社会学名词",
+   "wordNumber": "4.4.13.7",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作督导",
+   "subjectName": "社会工作督导",
+   "publishYear": "2025",
+   "definition": "强调系统化指导和学习的社会工作督导模式。基于教育模式，其强调要有周密的计划，按部就班，系统化地指导被督导者学习掌握相关知识技能，结合运用多种不同的教学方法和手段，尤其注重模拟教学法。"
+  },
+  {
+   "cn": "学风",
+   "en": "style of learning",
+   "source": "马克思主义",
+   "wordNumber": "03.0478",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国共产党党风的一个重要方面。是党的领导机关和干部党员的思想方法，特别是对待马克思列宁主义的态度。中国共产党倡导和坚持理论联系实际的学风。"
+  },
+  {
+   "cn": "马克思主义学习型政党",
+   "en": "Marxist learning Party",
+   "source": "马克思主义",
+   "wordNumber": "03.0791",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "中国共产党通过理论与实践相结合的不断学习，运用科学理论加以武装，具有世界眼光、善于把握规律、富有创新精神。是十七届四中全会从全面推进中国特色社会主义事业和党的建设新的伟大工程全局出发提出的一项重大战略"
+  },
+  {
+   "cn": "网络系统学习",
+   "en": "network system learning",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.2.3.3",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_学校健康教育方法",
+   "subjectName": "学校健康教育方法",
+   "publishYear": "2025",
+   "definition": "将与某教育项目有关的知识、信息和技能分门别类，编制成教学软件，放在学校计算机局域网上，学生通过计算机终端连接网络进行学习。"
+  },
+  {
+   "cn": "社会情感学习",
+   "en": "social-emotional learning",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "5.5.12",
+   "subjectFullName": "儿少与学校卫生学名词_学校健康教育与健康促进_生活技能教育",
+   "subjectName": "生活技能教育",
+   "publishYear": "2025",
+   "definition": "获得和应用正确的自我认知、识别和管理情绪、设定和实现目标、感受和理解他人、建立和维持积极关系、作出负责任的决定等方面的知识、态度、技能的过程。"
+  },
+  {
+   "cn": "学习负荷评价",
+   "en": "learning load assessment",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习负荷评价",
+   "subjectName": "学习负荷评价",
+   "publishYear": "2025",
+   "definition": "评估学习时脑力工作的强度和时间的过程。"
+  },
+  {
+   "cn": "电脑组件",
+   "en": "computer components",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.3.1.3.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校用品卫生",
+   "subjectName": "学校用品卫生",
+   "publishYear": "2025",
+   "definition": "组合计算机以及便于使用者采用良好的操作姿势所需要的硬件。包括电脑桌椅、显示器、键盘、鼠标等。"
+  },
+  {
+   "cn": "电脑桌面",
+   "en": "computer desktop",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "9.3.1.3.4",
+   "subjectFullName": "儿少与学校卫生学名词_学校环境与教学设备卫生_学校用品卫生",
+   "subjectName": "学校用品卫生",
+   "publishYear": "2025",
+   "definition": "放置电脑显示器的平面。"
+  },
+  {
+   "cn": "原型理论",
+   "en": "prototype theory",
+   "source": "民族学与文化学名词",
+   "wordNumber": "5.0031",
+   "subjectFullName": "民族学与文化学_民族语文研究_理论与概念",
+   "subjectName": "理论与概念",
+   "publishYear": "2025",
+   "definition": "认知科学的一种理论模型。认为人类对事物进行分类（范畴化）的过程并不存在非此即彼的明确界限，某一范畴中的核心成员会比其他成员更具典型性。例如在“飞禽”这个范畴里，“燕雀”比“鸡鸭”更具“飞禽”的特征。语"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

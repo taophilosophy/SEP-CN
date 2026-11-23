@@ -1,0 +1,792 @@
+{
+ "key": "legislative intent",
+ "term": "legislative intent",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T06:01:37+00:00",
+ "status": "ok",
+ "note": "variant=legislative intent; 审定公布名词库=1728; 海峡两岸名词对照库=461; 其他来源数据库=190; 预公布名词数据库=135; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "意图",
+   "en": "intent",
+   "source": "阿尔茨海默病名词",
+   "wordNumber": "04.208",
+   "subjectFullName": "阿尔茨海默病_精神与心理认知学",
+   "subjectName": "精神与心理认知学",
+   "publishYear": "2019",
+   "definition": "比较清楚地意识到要争取实现的目标和方法的需要。通常以仅仅设想而未付诸行动的企图、愿望、幻想、理想等方式存在。是作为动机推动人去行动的现实力量。人在清醒的状态中，绝大部分的活动都是有意图的。常基于某个目"
+  },
+  {
+   "cn": "意图",
+   "en": "intention",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.572",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "在做某事之前出现于人的意识中的将要做此事的心理观念与计划，意向确定了行动的目的与类型。"
+  },
+  {
+   "cn": "意向",
+   "en": "intention",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.042",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "技术设计者或使用者针对技术人工物的结构和功能所产生的某种目的预测或行为意图。它以技术人工物作为中介，调节人与世界的关系。"
+  },
+  {
+   "cn": "法定荷载",
+   "en": "legislative load",
+   "source": "电力名词",
+   "wordNumber": "22.044",
+   "subjectFullName": "电力_输电线路",
+   "subjectName": "输电线路",
+   "publishYear": "2020",
+   "definition": "在国家法规或地方法规中所规定的荷载。"
+  },
+  {
+   "cn": "立法议会",
+   "en": "Legislative Assembly",
+   "source": "世界历史名词",
+   "wordNumber": "03.0468",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_法国",
+   "subjectName": "法国",
+   "publishYear": "2012",
+   "definition": "1791年10月1日成立的法国议会，由斐扬派、雅各宾派组成。"
+  },
+  {
+   "cn": "法典委员会",
+   "en": "Legislative Commission",
+   "source": "世界历史名词",
+   "wordNumber": "05.0052",
+   "subjectFullName": "世界历史_近现代俄罗斯、东欧、高加索、中亚_俄罗斯人",
+   "subjectName": "俄罗斯人",
+   "publishYear": "2012",
+   "definition": "18世纪俄国临时召集的合议机构，目的在于编纂、规范1649年法典之后实行的一些律法。委员会先后共有7个，其中最大的一个是1767-1769年的全俄罗斯阶层代表会议，由叶卡捷琳娜二世召集。"
+  },
+  {
+   "cn": "新闻立法",
+   "en": "journalism legislation",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "17.015",
+   "subjectFullName": "新闻学与传播学_媒体与传播法_总论",
+   "subjectName": "总论",
+   "publishYear": "2022",
+   "definition": "由国家立法机关针对新闻传播主体及其新闻传播行为制定(包括修改、废止)单行法律或相关法律规范的活动，以及这种活动结果的文本呈现。具体指对报纸、通讯社、广播、电视、新闻摄影、新闻电影等新闻媒体的资格、职能"
+  },
+  {
+   "cn": "图书馆立法",
+   "en": "library legislation",
+   "source": "图书馆·情报与文献学名词",
+   "wordNumber": "01.150",
+   "subjectFullName": "图书馆·情报与文献学_图书馆学情报学基础_图书馆学",
+   "subjectName": "图书馆学",
+   "publishYear": "2019",
+   "definition": "特定立法主体依据一定职权和程序，运用一定技术，制定或修改图书馆法律规范的活动。"
+  },
+  {
+   "cn": "植物检疫立法",
+   "en": "phytosanitary legislation",
+   "source": "林学名词",
+   "wordNumber": "07.229",
+   "subjectFullName": "林学_森林保护_林业有害生物管理",
+   "subjectName": "林业有害生物管理",
+   "publishYear": "2016",
+   "definition": "授权国家植物保护机构起草植物检疫法规的法律。"
+  },
+  {
+   "cn": "行政立法",
+   "en": "administrative legislation",
+   "source": "管理科学技术名词",
+   "wordNumber": "11.0379",
+   "subjectFullName": "管理科学技术_公共管理_政府管理",
+   "subjectName": "政府管理",
+   "publishYear": "2016",
+   "definition": "行政机关依照法定程序，在职权范围内制定并颁布用于规范行政管理实践的法规规章的活动。"
+  },
+  {
+   "cn": "教育立法",
+   "en": "educational legislation",
+   "source": "教育学名词",
+   "wordNumber": "15.082",
+   "subjectFullName": "教育学_教育管理",
+   "subjectName": "教育管理",
+   "publishYear": "2013",
+   "definition": "具有立法权的国家机关依照法定权限和程序，制定、修改或废止教育法律规范的活动。"
+  },
+  {
+   "cn": "血腥立法",
+   "en": "Bloody Legislation",
+   "source": "世界历史名词",
+   "wordNumber": "03.0305",
+   "subjectFullName": "世界历史_近现代美国、加拿大、欧洲_英国、爱尔兰",
+   "subjectName": "英国、爱尔兰",
+   "publishYear": "2012",
+   "definition": "英国国王从1530年起颁布的一系列迫使在圈地运动中失去土地的租佃农受雇于新贵族和资本家的法令。"
+  },
+  {
+   "cn": "资源立法",
+   "en": "resource legislation",
+   "source": "资源科学技术名词",
+   "wordNumber": "07.004",
+   "subjectFullName": "资源科学技术_资源法学",
+   "subjectName": "资源法学",
+   "publishYear": "2008",
+   "definition": "国家机关依照法定权限及一定程序，制定、修改和废除与资源相关的法律规范的活动。这里所说的国家机关是指依法有立法权的机关，包括中央机关和地方机关。"
+  },
+  {
+   "cn": "环境法规",
+   "en": "environmental legislation",
+   "source": "地理学名词",
+   "wordNumber": "09.024",
+   "subjectFullName": "地理学_环境地理学",
+   "subjectName": "环境地理学",
+   "publishYear": "2006",
+   "definition": "国家制定或认可，并由国家强制保证执行的关于保护环境和自然资源，防治污染和其他公害的法律规范的总称。"
+  },
+  {
+   "cn": "设计目的",
+   "en": "design intent",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "04.244",
+   "subjectFullName": "化工（五）_工程建设_工程设计",
+   "subjectName": "工程设计",
+   "publishYear": "2021",
+   "definition": "设计人员期望或规定的各要素及特性的作用范围。"
+  },
+  {
+   "cn": "战略意图",
+   "en": "strategic intent",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0631",
+   "subjectFullName": "管理科学技术_一般管理理论_战略管理",
+   "subjectName": "战略管理",
+   "publishYear": "2016",
+   "definition": "关于组织及其未来的一种简化的、被广泛接受的思想模型，表达了组织迎接未来挑战的愿望。"
+  },
+  {
+   "cn": "意向性震颤",
+   "en": "intention tremor",
+   "source": "肝病学名词",
+   "wordNumber": "8.8.2.4",
+   "subjectFullName": "肝病学_肝硬化及其并发症_肝硬化其他并发症",
+   "subjectName": "肝硬化其他并发症",
+   "publishYear": "2024",
+   "definition": "出现于随意运动时的震颤。特点是在随意运动中或将要接近目标时震颤最为明显，主要见于小脑及其传出通路病变时。"
+  },
+  {
+   "cn": "意向状态",
+   "en": "intentional state",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.574",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_认知科学哲学",
+   "subjectName": "认知科学哲学",
+   "publishYear": "2024",
+   "definition": "具有意向性的心理状态，即指向世界中的对象的心理状态。如相信、认为、判断、意见、意欲、愿望、恐惧等。"
+  },
+  {
+   "cn": "目的合理性",
+   "en": "intention rationality",
+   "source": "自然辩证法名词",
+   "wordNumber": "04.033",
+   "subjectFullName": "自然辩证法_技术哲学_一般技术哲学",
+   "subjectName": "一般技术哲学",
+   "publishYear": "2024",
+   "definition": "实现某种目的的工具、手段的合理性，是可以达到预期目的，可经验实证的合理性。"
+  },
+  {
+   "cn": "意向性震颤",
+   "en": "intentional tremor",
+   "source": "麻醉学名词",
+   "wordNumber": "03.081",
+   "subjectFullName": "麻醉学_麻醉与围手术期管理_神经系统与神经肌肉疾病",
+   "subjectName": "神经系统与神经肌肉疾病",
+   "publishYear": "2024",
+   "definition": "当肢体有目的地接近某个目标时，在运动过程中出现的震颤。越接近目标，震颤越明显，达到目标并保持姿势时，震颤有时仍能持续存在。多见于小脑病变，丘脑、红核病变时也可出现。"
+  },
+  {
+   "cn": "意向，意图",
+   "en": "intention",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "专利权立法",
+   "en": "patent legislation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "保护贸易法规",
+   "en": "protectionist legislation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "贸易保护法",
+   "en": "protective legislation",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "环境法规",
+   "en": "environmental legislation",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "有意识记",
+   "en": "intentional memorization",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "预向动作",
+   "en": "intention movement",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "投资意向",
+   "en": "investment intention",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "意向锁",
+   "en": "intention lock",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "意向系统",
+   "en": "intentional system",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "预期动作",
+   "en": "intention movement",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "环境噪声法规",
+   "en": "environmental noise legislation",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "意向书",
+   "en": "letter of intent",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "意向书",
+   "en": "statement of intention",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "水污染控制法规",
+   "en": "water pollution control legislation",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "信念-期望-意图模型",
+   "en": "belief-desire-intention model",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "因特网内容提供者",
+   "en": "Internet content provider\",\"ICP",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "缺口",
+   "en": "indent",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "缩进",
+   "en": "indent",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "网际ORB间协议",
+   "en": "internet inter-ORB protocol\",\"IIOP",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "立法比较",
+   "en": "Legislation Comparison",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "意图推断",
+   "en": "intent inference",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "故意犯规",
+   "en": "intentional foul",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_曲棍球名词",
+   "subjectName": "曲棍球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "故意犯规",
+   "en": "foul intentional",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_游泳名词",
+   "subjectName": "游泳名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "故意犯规",
+   "en": "intentional foul",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_足球名词",
+   "subjectName": "足球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第二意图",
+   "en": "second intention",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "故意犯规",
+   "en": "intentional foul",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_篮球名词",
+   "subjectName": "篮球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "准立法权",
+   "en": "quasi-legislative power",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数权立法",
+   "en": "Data Rights Legislation",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据开放立法",
+   "en": "Legislation on Open Data",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据交易立法",
+   "en": "Legislation on Data Trading",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "数据安全立法",
+   "en": "Legislation on Data Security",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "故意四坏球上垒",
+   "en": "intentional base on balls",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "第二意图进攻",
+   "en": "attack on second intention",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_击剑名词",
+   "subjectName": "击剑名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数权法定",
+   "en": "Legislative Confirmation of Data Rights",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "因特网",
+   "en": "Internet",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "互联网",
+   "en": "Internet",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "虫书",
+   "en": "Insect Script",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "立法权",
+   "en": "legislative power",
+   "source": "马克思主义",
+   "wordNumber": "04.0017",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "国家制定、修改和废除法律的权力。统治阶级通过国家的立法活动把自己的意志用法律的形式表现出来，使之具有普遍遵守的效力。"
+  },
+  {
+   "cn": "宗教立法",
+   "en": "religious legislation",
+   "source": "社会学名词",
+   "wordNumber": "3.9.4.2",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教与法律",
+   "subjectName": "宗教与法律",
+   "publishYear": "2025",
+   "definition": "体现出现代国家的宗教立场、宗教政策的相关立法的总称。"
+  },
+  {
+   "cn": "社会立法",
+   "en": "social legislation",
+   "source": "马克思主义",
+   "wordNumber": "03.0162",
+   "subjectFullName": "马克思主义_科学社会主义_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "西方法学家对具有普遍社会意义的立法的统称。如涉及教育、居住、租金的控制、健康福利设施、抚恤金以及其他社会保障方面的立法。而按照马克思主义理论，在资产阶级国家，希望通过国家立法和行政手段消除或适当地改善"
+  },
+  {
+   "cn": "工厂立法",
+   "en": "factory legislation",
+   "source": "马克思主义",
+   "wordNumber": "04.0004",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "资本主义工业革命后，资本主义国家为了巩固资本主义生产关系而颁布的一系列有关调整劳动关系的法律。1802年英国议会通过的《学徒健康与道德法》被认为是资产阶级工厂立法的开端，也被认为是现代劳动法的开端。"
+  },
+  {
+   "cn": "安乐死立法",
+   "en": "euthanasia legislation",
+   "source": "医学伦理学名词",
+   "wordNumber": "7.021",
+   "subjectFullName": "医学伦理学_临终关怀与死亡伦理",
+   "subjectName": "临终关怀与死亡伦理",
+   "publishYear": "2025",
+   "definition": "由国家特定机关依据一定职权和程序，制定、认可、修改、补充和废止安乐死相关法律规范的活动。"
+  },
+  {
+   "cn": "故意污染",
+   "en": "intentional contamination",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.66",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "为谋取不当利益，故意向原辅料或食品中添加非食用物质，故意超范围、超限量使用农兽药和食品（饲料）添加剂或采用其他不适合人类食用方法生产加工食品等的行为。"
+  },
+  {
+   "cn": "蓄意破坏",
+   "en": "intentional tampering",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.67",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "为伤害他人或扰乱社会，通过生物、化学、物理等因素对食品和食品生产过程进行破坏的行为。"
+  },
+  {
+   "cn": "蓄意掺假",
+   "en": "intentional adulteration",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.2.17",
+   "subjectFullName": "食品卫生学_总论_食品完整性",
+   "subjectName": "食品完整性",
+   "publishYear": "2025",
+   "definition": "食品在生产、加工、运输、销售等过程中有意造假的行为。包括替代、稀释、隐瞒、未经许可的强化等，以降低成本或提升产品等级，从中获取不正当利益。"
+  },
+  {
+   "cn": "儿童故意伤害",
+   "en": "intentional injury to children",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "有计划、有目的地加害儿童的伤害行为。主要包括自杀、自伤、虐待/疏忽、家庭/社会暴力、强奸以及与毒品/酒精有关的伤害等，对家庭、社会及受害者危害极大，严重影响经济发展和社会安全。"
+  },
+  {
+   "cn": "有意注意时间",
+   "en": "intentional attention to time",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "8.1.2.1",
+   "subjectFullName": "儿少与学校卫生学名词_学校教育过程卫生_学习大脑活动特征",
+   "subjectName": "学习大脑活动特征",
+   "publishYear": "2025",
+   "definition": "有预定的目的，需要一定意志努力的注意所维持的时间。"
+  },
+  {
+   "cn": "故意伤害行为",
+   "en": "behavior related to intentional injury",
+   "source": "儿少与学校卫生学名词",
+   "wordNumber": "3.3.2.2",
+   "subjectFullName": "儿少与学校卫生学名词_学生健康与行为监测_健康危险行为监测",
+   "subjectName": "健康危险行为监测",
+   "publishYear": "2025",
+   "definition": "由携带枪支、刀具、凶器，校内外斗殴，各种自伤和自杀行为，校园欺负/暴力行为，离家出走，以及伤心欲绝、严重抑郁/失眠等内隐性心理-行为问题等所导致的伤害行为。"
+  },
+  {
+   "cn": "内容",
+   "en": "content",
+   "source": "马克思主义",
+   "wordNumber": "01.0056",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "与“形式”相对。指构成事物内部各种要素的总和，是事物存在的基础。它包括事物的各种内在矛盾以及由这些矛盾所决定的事物的特征、运动的过程和发展的趋势等。"
+  },
+  {
+   "cn": "婴儿",
+   "en": "infant",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "4.3.2.1",
+   "subjectFullName": "妇幼卫生学名词_儿童保健_不同年龄段儿童保健",
+   "subjectName": "不同年龄段儿童保健",
+   "publishYear": "2025",
+   "definition": "出生后1周岁内的儿童。"
+  },
+  {
+   "cn": "内毒素含量",
+   "en": "endotoxin content",
+   "source": "消毒学",
+   "wordNumber": "6.2.31.1.1",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "革兰氏阴性菌合成的存在于细菌细胞壁最外层的脂多糖的含量。"
+  },
+  {
+   "cn": "内容分析",
+   "en": "content analysis",
+   "source": "社会学名词",
+   "wordNumber": "1.2.1.15",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_方法论",
+   "subjectName": "方法论",
+   "publishYear": "2025",
+   "definition": "以系统和定量的方式刻画给定文本的意义的分析技术。"
+  },
+  {
+   "cn": "网络调查",
+   "en": "internet surveys",
+   "source": "社会学名词",
+   "wordNumber": "1.2.3.8",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_研究设计",
+   "subjectName": "研究设计",
+   "publishYear": "2025",
+   "definition": "运用互联网实施问卷调查的一种调查方式。"
+  },
+  {
+   "cn": "内容效度",
+   "en": "content validity",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.76",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "有某个量度符合测量目的和要求的程度来测量其效度的方法。"
+  },
+  {
+   "cn": "潜变量",
+   "en": "latent variable",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.132",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "在结构方程模型中，无法被直接观测到，其不可信度被调整或其方差被两个或更多观测变量所分享的变量。"
+  },
+  {
+   "cn": "青少年网络综合症",
+   "en": "internet addiction",
+   "source": "社会学名词",
+   "wordNumber": "3.16.3.4",
+   "subjectFullName": "社会学名词_分支社会学_青少年研究_青少年问题",
+   "subjectName": "青少年问题",
+   "publishYear": "2025",
+   "definition": "互联网的过度使用或者病态依赖计算机扰乱人们的日常生活，从而引发各种生理疾病和心理障碍的总称。"
+  },
+  {
+   "cn": "网络语言",
+   "en": "internet language",
+   "source": "社会学名词",
+   "wordNumber": "3.16.6.8",
+   "subjectFullName": "社会学名词_分支社会学_青少年研究_青年文化",
+   "subjectName": "青年文化",
+   "publishYear": "2025",
+   "definition": "人们使用互联网进行交流时所采用的各种表达方式的总称，有别于传统平面媒介所使用的语言。主要包括各种汉字和英文字母缩略语以及一些约定俗成的表达方式，部分网络语言经传播后也在现实社会中同时使用。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

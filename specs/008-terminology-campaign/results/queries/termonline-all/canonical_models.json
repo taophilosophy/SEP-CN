@@ -1,0 +1,712 @@
+{
+ "key": "canonical models",
+ "term": "canonical models",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T05:58:42+00:00",
+ "status": "ok",
+ "note": "variant=canonical models; 审定公布名词库=4102; 海峡两岸名词对照库=1258; 其他来源数据库=183; 预公布名词数据库=224; jwt-direct（JWT 直连，raw 略；已滤维基 10 条）",
+ "hits": [
+  {
+   "cn": "埃门特劳特–科佩尔标准模型",
+   "en": "Ermentrout-Kopell canonical model",
+   "source": "生物物理学名词",
+   "wordNumber": "07.040",
+   "subjectFullName": "生物物理学_生物控制论_计算神经科学",
+   "subjectName": "计算神经科学",
+   "publishYear": "2018",
+   "definition": "美国数学家埃门特劳特(B. Ermentrout)和科佩尔(N. Kopell)提出的有关神经元发放的一种单变量模型。用来研究神经元脉冲发放模式的分岔现象。"
+  },
+  {
+   "cn": "正则系综",
+   "en": "canonical ensemble",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "02.104",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_物质的基础物性与分子模拟",
+   "subjectName": "物质的基础物性与分子模拟",
+   "publishYear": "2024",
+   "definition": "系综里每个体系的粒子数和体积是固定且相同的，每个体系都可以和其他体系交换能量，但是系综里所有体系的能量总和是固定的，系综内各体系有相同的温度。"
+  },
+  {
+   "cn": "正则方程",
+   "en": "canonical equation",
+   "source": "物理学名词",
+   "wordNumber": "02.0601",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "正则分布",
+   "en": "canonical distribution",
+   "source": "物理学名词",
+   "wordNumber": "05.0540",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "正则量子化",
+   "en": "canonical quantization",
+   "source": "物理学名词",
+   "wordNumber": "09.0914",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "正则坐标",
+   "en": "canonical coordinate",
+   "source": "物理学名词",
+   "wordNumber": "02.0599",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "正则系综",
+   "en": "canonical ensemble",
+   "source": "物理学名词",
+   "wordNumber": "05.0539",
+   "subjectFullName": "物理学_热学、统计物理学_统计物理学",
+   "subjectName": "统计物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "正则系综",
+   "en": "canonical ensemble",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "02.0316",
+   "subjectFullName": "化工（三）_化工热力学",
+   "subjectName": "化工热力学",
+   "publishYear": "2019",
+   "definition": "系综里的每个体系的粒子数和体积是固定且相同的，每个体系都可以和其他体系交换能量，但是系综里所有体系的能量总和是固定的，系综内各体系有相同的温度。"
+  },
+  {
+   "cn": "正则动量",
+   "en": "canonical momentum",
+   "source": "物理学名词",
+   "wordNumber": "02.0600",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "正则对易子",
+   "en": "canonical commutator",
+   "source": "物理学名词",
+   "wordNumber": "06.0458",
+   "subjectFullName": "物理学_相对论、量子理论_量子理论",
+   "subjectName": "量子理论",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "正则变换",
+   "en": "canonical transformation",
+   "source": "物理学名词",
+   "wordNumber": "02.0605",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "正则变量",
+   "en": "canonical variable",
+   "source": "物理学名词",
+   "wordNumber": "02.0602",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "规范序",
+   "en": "canonical order",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0472",
+   "subjectFullName": "计算机科学技术_理论计算机科学_形式语言与自动机",
+   "subjectName": "形式语言与自动机",
+   "publishYear": "2018",
+   "definition": "对一个字母表中的字符串排列顺序的一种规则：首先根据字符串的长度由小到大排列，长度相同的串按字典序排列。"
+  },
+  {
+   "cn": "规范名",
+   "en": "canonical name",
+   "source": "计算机科学技术名词",
+   "wordNumber": "09.0785",
+   "subjectFullName": "计算机科学技术_网络与数据通信_网络应用",
+   "subjectName": "网络应用",
+   "publishYear": "2018",
+   "definition": "一种互联网资源的域名。根据域名可以推测出资源的类型或能力。"
+  },
+  {
+   "cn": "典型序",
+   "en": "canonical order",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0151",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "某种自然顺序，例如一个自然数的子集合 A 可以按其成员从小到大排列的顺序。"
+  },
+  {
+   "cn": "正则系综",
+   "en": "canonical ensemble",
+   "source": "化学名词",
+   "wordNumber": "04.0242",
+   "subjectFullName": "化学_物理化学_化学热力学",
+   "subjectName": "化学热力学",
+   "publishYear": "2016",
+   "definition": "由大量温度、体积和粒子数相同且恒定的封闭系统组成的系综。"
+  },
+  {
+   "cn": "典范相关",
+   "en": "canonical correlation",
+   "source": "生态学名词",
+   "wordNumber": "10.020",
+   "subjectFullName": "生态学_数学生态学",
+   "subjectName": "数学生态学",
+   "publishYear": "2006",
+   "definition": "找两组随机变量的线性组合，使之相关系数平方最大，从而分析两组随机变量间的关系。"
+  },
+  {
+   "cn": "正则系综",
+   "en": "canonical ensemble",
+   "source": "化学工程名词",
+   "wordNumber": "02.317",
+   "subjectFullName": "化学工程_化工热力学_分子间力、溶液理论与统计热力学",
+   "subjectName": "分子间力、溶液理论与统计热力学",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "典范赋值",
+   "en": "canonical valuation",
+   "source": "数学名词",
+   "wordNumber": "04.0473",
+   "subjectFullName": "数学_代数学_代数几何学_域·多项式",
+   "subjectName": "域?多项式",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "典范矩阵",
+   "en": "canonical matrix",
+   "source": "数学名词",
+   "wordNumber": "04.0650",
+   "subjectFullName": "数学_代数学_代数几何学_线性代数",
+   "subjectName": "线性代数",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "卡农",
+   "en": "canon",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "无终卡农",
+   "en": "infinite canon\",\"perpetual canon",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "典范矩阵",
+   "en": "canonical matrix",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "典型变数",
+   "en": "canonical variable",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "典型方程",
+   "en": "canonical equation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "典型回归",
+   "en": "canonical regression",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "典型相关",
+   "en": "canonical correlation",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "正则变换",
+   "en": "canonical transformation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "正则方程",
+   "en": "canonical equation",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "典范矩阵",
+   "en": "canonical matrix",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "正则坐标",
+   "en": "canonical coordinate",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "正则系综",
+   "en": "canonical ensemble",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "正则形式",
+   "en": "canonical form",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "典范相关,典型相关",
+   "en": "canonical correlation",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "正则系综",
+   "en": "canonical ensemble",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "典范相关",
+   "en": "canonical correlation",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "规范序列",
+   "en": "canonical sequence",
+   "source": "海峡两岸遗传学名词",
+   "wordNumber": null,
+   "subjectFullName": "遗传学",
+   "subjectName": "遗传学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "规范名",
+   "en": "canonical name",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "规范文法",
+   "en": "canonical grammar",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "正则形式",
+   "en": "canonical form",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "模型论",
+   "en": "model theory",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "脑模型",
+   "en": "brain model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "KANO模型",
+   "en": "KANO model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "物理模型",
+   "en": "physical model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "动态模型",
+   "en": "dynamic model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "层次模型",
+   "en": "hierarchical model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "网状模型",
+   "en": "network model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "关系模型",
+   "en": "relationship model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "对象模型",
+   "en": "object model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "文档模型",
+   "en": "document model",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "教会法",
+   "en": "canon law",
+   "source": "社会学名词",
+   "wordNumber": "3.9.4.5",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教与法律",
+   "subjectName": "宗教与法律",
+   "publishYear": "2025",
+   "definition": "包括罗马天主教、东正教和新教的圣公会等在内的基督教会在不同时期制订的各种法律和规则的总和，限定了教会本身的组织、制度，规定了教徒的生活准则，例如财产、婚姻与家庭、继承、犯罪、刑法与诉讼等。"
+  },
+  {
+   "cn": "典型相关分析",
+   "en": "canonical correlation analysis",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.71",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "利用两个综合变量之间的相关关系反映两组指标之间的整体相关性的多元统计分析方法。由美国数理统计学家荷泰林首先提出。"
+  },
+  {
+   "cn": "型号",
+   "en": "model",
+   "source": "消毒学",
+   "wordNumber": "5.2.8",
+   "subjectFullName": "消毒学_监督管理_产品监管",
+   "subjectName": "产品监管",
+   "publishYear": "2025",
+   "definition": "用来区别不同消毒器械的编号。"
+  },
+  {
+   "cn": "建模后相加模型",
+   "en": "model-then-add model",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.90",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "一种用于分析具有层次结构数据的统计模型。"
+  },
+  {
+   "cn": "传统模式",
+   "en": "traditional model",
+   "source": "医学伦理学名词",
+   "wordNumber": "4.071000000000001",
+   "subjectFullName": "医学伦理学_医疗人际关系",
+   "subjectName": "医疗人际关系",
+   "publishYear": "2025",
+   "definition": "在布朗斯坦提出的医患关系模式中，指医务人员只是关心疾病的处理、科学知识的解释以及标准技术和常规技能的应用，较少考虑患者的期望和感受的一种模式类型。在该种模式中医生拥有绝对权威，患者被动服从医生的判断与"
+  },
+  {
+   "cn": "模型膳食",
+   "en": "model diets",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.54",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "一种假设固定的默认消费水平的膳食暴露评估筛选方法，通常用于食品和饮料分类。"
+  },
+  {
+   "cn": "概率单位模型",
+   "en": "Probit model",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.4.76",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "一种二元响应模型，由切斯特·布利斯（Chester Bliss）提出。"
+  },
+  {
+   "cn": "隔室模型",
+   "en": "compartment model",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.2.41",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_放射性核素的体内代谢",
+   "subjectName": "放射性核素的体内代谢",
+   "publishYear": "2025",
+   "definition": "以隔室为组成单位，用动力学参数表达进入体内的放射性核素在体内转运规律的数学模型。"
+  },
+  {
+   "cn": "关联模型",
+   "en": "association model",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.70",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "一组用以拟合交叉分类表格的观测频次，从而度量两个或多个有序的类别变量的联系强度的统计模型。"
+  },
+  {
+   "cn": "模型设定",
+   "en": "model specification",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.97",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "建立自变量与因变量及其关系的过程。包括变量的构成、函数形式的选择和误差项的假定。"
+  },
+  {
+   "cn": "对数单位模型",
+   "en": "logit model",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.103",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "将某一变量的某个类别的几率作为因变量，其他变量作为自变量的一种分析定类数据的模型。在数学上等价于对数线性模型。"
+  },
+  {
+   "cn": "概率单位模型",
+   "en": "probit model",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.106",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "因变量为两分变量，应用概率单位链接函数的回归模型。"
+  },
+  {
+   "cn": "边缘模型",
+   "en": "marginal model",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.112",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "对一组变量的边缘分布、甚至它们的联合分布设定限制的统计模型。"
+  },
+  {
+   "cn": "饱和模型",
+   "en": "saturated model",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.116",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "参数数量等于数据值的统计模型。"
+  },
+  {
+   "cn": "发展模式",
+   "en": "development model",
+   "source": "社会学名词",
+   "wordNumber": "2.9.7.1",
+   "subjectFullName": "社会学名词_社会学一般概念_发展社会学_发展模式",
+   "subjectName": "发展模式",
+   "publishYear": "2025",
+   "definition": "一些国家或地区在发展过程中遵循或形成的独特的发展原则、发展方向、发展道路、发展方式等。"
+  },
+  {
+   "cn": "“社会—心理”模式",
+   "en": "psychosocial model",
+   "source": "社会学名词",
+   "wordNumber": "4.4.8.5",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的方法模式",
+   "subjectName": "社会工作的方法模式",
+   "publishYear": "2025",
+   "definition": "最具社会工作特点的一种治疗模式，也是个案工作中经常采用的传统治疗模式之一，与行为矫正模式、人本治疗模式一起并称为“当代三大个案工作治疗模式”。借助“人在情境中”的基本原理将心理和社会因素结合起来，强调"
+  },
+  {
+   "cn": "治疗模式",
+   "en": "remedial model",
+   "source": "社会学名词",
+   "wordNumber": "4.4.8.14",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的方法模式",
+   "subjectName": "社会工作的方法模式",
+   "publishYear": "2025",
+   "definition": "将小组工作与个案工作有机结合起来的一种小组工作方法模式或类型。通过提供服务给具有不同需要的个体，利用小组的经验来克服组员的个人心理、社会与文化的适应问题等，协助个人康复，获得最佳的社会功能。"
+  },
+  {
+   "cn": "互动模式",
+   "en": "reciprocal model",
+   "source": "社会学名词",
+   "wordNumber": "4.4.8.15",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的方法模式",
+   "subjectName": "社会工作的方法模式",
+   "publishYear": "2025",
+   "definition": "强调小组成员的相互关系和满足组员需要的小组工作模式，代表人物是施瓦茨(H.Schwarz）。该模式关注个人与社会之间的关系，强调小组工作者运用小组来克服危机和压力，促成社会功能的实现，进而使个人获得“"
+  },
+  {
+   "cn": "折中模式",
+   "en": "eclectic model",
+   "source": "社会学名词",
+   "wordNumber": "4.4.8.16",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作的方法模式",
+   "subjectName": "社会工作的方法模式",
+   "publishYear": "2025",
+   "definition": "主张多重目标的小组工作模式。其认为任何小组工作的实施，不可能只靠单一方法就能达到目标，而是要灵活地运用不同的方法。在小组中，社会工作者应给予小组成员较大的行动空间和相对大的自由与民主，小组则应该提供更"
+  },
+  {
+   "cn": "学徒模式",
+   "en": "apprenticeship model",
+   "source": "社会学名词",
+   "wordNumber": "4.4.13.6",
+   "subjectFullName": "社会学名词_跨学科社会学_社会工作_社会工作督导",
+   "subjectName": "社会工作督导",
+   "publishYear": "2025",
+   "definition": "一种全面的、综合的学习方式。强调提供实践机会、示范学习的社会工作督导模式。认为学习是一种“干中学”，好的实务来自于不断重复的学习，在干中不断提高。基于行为理论，强调过程与结果并重。其显著的特点在于督导"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

@@ -1,0 +1,652 @@
+{
+ "key": "successor ordinal",
+ "term": "successor ordinal",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T06:00:01+00:00",
+ "status": "ok",
+ "note": "variant=successor ordinal; 审定公布名词库=596; 海峡两岸名词对照库=294; 其他来源数据库=29; 预公布名词数据库=16; jwt-direct（JWT 直连，raw 略；已滤维基 12 条）",
+ "hits": [
+  {
+   "cn": "后继",
+   "en": "successor",
+   "source": "数学名词",
+   "wordNumber": "03.0224",
+   "subjectFullName": "数学_组合学·一般数学系统_序·格·一般数学系统",
+   "subjectName": "序?格?一般数学系统",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "后继",
+   "en": "successor",
+   "source": "电子学名词",
+   "wordNumber": "05.097",
+   "subjectFullName": "电子学_信息论与信号处理技术",
+   "subjectName": "信息论与信号处理技术",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "继承牙",
+   "en": "successor",
+   "source": "医学名词 第二分册",
+   "wordNumber": "02.004",
+   "subjectFullName": "医学_口腔医学_牙体解剖学",
+   "subjectName": "牙体解剖学",
+   "publishYear": "1992",
+   "definition": ""
+  },
+  {
+   "cn": "序数词",
+   "en": "ordinal",
+   "source": "语言学名词",
+   "wordNumber": "04.076",
+   "subjectFullName": "语言学_语法学_词法",
+   "subjectName": "词法",
+   "publishYear": "2011",
+   "definition": "与“基数词”相对。表示次序先后的数词。例如“第一”“第五”。"
+  },
+  {
+   "cn": "序数",
+   "en": "ordinal",
+   "source": "数学名词",
+   "wordNumber": "02.0176",
+   "subjectFullName": "数学_数理逻辑·数学基础_集合论",
+   "subjectName": "集合论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "纵坐标",
+   "en": "ordinate",
+   "source": "数学名词",
+   "wordNumber": "08.0211",
+   "subjectFullName": "数学_几何学_拓扑学_解析几何学",
+   "subjectName": "解析几何学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "排序",
+   "en": "ordination",
+   "source": "动物学名词",
+   "wordNumber": "7.0481",
+   "subjectFullName": "动物学_动物生态学_群落生态学",
+   "subjectName": "群落生态学",
+   "publishYear": "2021",
+   "definition": "近代群落生态学研究的一种方法。通过排序可以把很多实体（如森林的林分）作为点，并以属性为坐标轴，在一维或多维空间中，按其相似关系将它们排列起来。"
+  },
+  {
+   "cn": "排序",
+   "en": "ordination",
+   "source": "生态学名词",
+   "wordNumber": "06.323",
+   "subjectFullName": "生态学_群落生态学",
+   "subjectName": "群落生态学",
+   "publishYear": "2006",
+   "definition": "近代群落生态学研究的一种方法，通过排序可以把很多实体例如森林的林分作为点，并以属性为坐标轴，在一维或多维空间中，按其相似关系将它们排列起来。"
+  },
+  {
+   "cn": "后继函数",
+   "en": "successor function",
+   "source": "计算机科学技术名词",
+   "wordNumber": "02.0111",
+   "subjectFullName": "计算机科学技术_理论计算机科学_可计算性与计算复杂性",
+   "subjectName": "可计算性与计算复杂性",
+   "publishYear": "2018",
+   "definition": "加1的函数，即f(x)=x+1。 "
+  },
+  {
+   "cn": "紧后工作",
+   "en": "successor activity",
+   "source": "管理科学技术名词",
+   "wordNumber": "09.0230",
+   "subjectFullName": "管理科学技术_项目管理与工程管理_范围和进度管理",
+   "subjectName": "范围和进度管理",
+   "publishYear": "2016",
+   "definition": "紧排在本工作之后的工作。"
+  },
+  {
+   "cn": "管理型继任人",
+   "en": "managerial successor",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0886",
+   "subjectFullName": "管理科学技术_一般管理理论_创业管理",
+   "subjectName": "创业管理",
+   "publishYear": "2016",
+   "definition": "对提高效率、内部控制和资源有效利用感兴趣的家族企业继任人。"
+  },
+  {
+   "cn": "企业家型继任人",
+   "en": "entrepreneurial successor",
+   "source": "管理科学技术名词",
+   "wordNumber": "01.0888",
+   "subjectFullName": "管理科学技术_一般管理理论_创业管理",
+   "subjectName": "创业管理",
+   "publishYear": "2016",
+   "definition": "具有极高的灵活性、创造力和领导能力的家族企业继任人。"
+  },
+  {
+   "cn": "后继函数",
+   "en": "successor function",
+   "source": "数学名词",
+   "wordNumber": "06.0098",
+   "subjectFullName": "数学_微分方程_积分方程_常微分方程",
+   "subjectName": "常微分方程",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "顺序量表",
+   "en": "ordinal scaling",
+   "source": "测绘学名词",
+   "wordNumber": "04.312",
+   "subjectFullName": "测绘学_地图学",
+   "subjectName": "地图学",
+   "publishYear": "2020",
+   "definition": "定量表示制图对象之间相对差别（顺序）的一种量表方法。"
+  },
+  {
+   "cn": "序回归",
+   "en": "ordinal regression",
+   "source": "计算机科学技术名词",
+   "wordNumber": "08.0245",
+   "subjectFullName": "计算机科学技术_人工智能_机器学习",
+   "subjectName": "机器学习",
+   "publishYear": "2018",
+   "definition": "样本的标签是等级，学习的目标是给定样本，预测等级，使得预测的等级跟真实等级尽可能接近。"
+  },
+  {
+   "cn": "序量",
+   "en": "ordinal quantity",
+   "source": "计量学名词",
+   "wordNumber": "01.028",
+   "subjectFullName": "计量学_计量学通用名词_量和单位",
+   "subjectName": "量和单位",
+   "publishYear": "2015",
+   "definition": "由约定测量程序定义的量。与同类的其他量可按大小排序，但这些量之间无代数运算关系。"
+  },
+  {
+   "cn": "顺序变量",
+   "en": "ordinal variable",
+   "source": "心理学名词",
+   "wordNumber": "02.060",
+   "subjectFullName": "心理学_认知与实验心理学",
+   "subjectName": "认知与实验心理学",
+   "publishYear": "2014",
+   "definition": "根据对象的某种属性的大小或多少排出顺序的既无相等单位，又无绝对零点的变量。"
+  },
+  {
+   "cn": "顺序量表",
+   "en": "ordinal scale",
+   "source": "心理学名词",
+   "wordNumber": "03.316",
+   "subjectFullName": "心理学_心理统计与测量",
+   "subjectName": "心理统计与测量",
+   "publishYear": "2014",
+   "definition": "表示一个变量的不同值有次序关系(大于或小于)的一种量表。"
+  },
+  {
+   "cn": "序数效用",
+   "en": "ordinal utility",
+   "source": "药学名词",
+   "wordNumber": "10.011",
+   "subjectFullName": "药学_药物经济学",
+   "subjectName": "药物经济学",
+   "publishYear": "2014",
+   "definition": "用排序来反映偏好的一种效用表示方法，排列成序的效用间的差距大小没有意义。"
+  },
+  {
+   "cn": "序数和",
+   "en": "ordinal sum",
+   "source": "数学名词",
+   "wordNumber": "02.0177",
+   "subjectFullName": "数学_数理逻辑·数学基础_集合论",
+   "subjectName": "集合论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "后继",
+   "en": "successor",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "后继站",
+   "en": "successor",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "有序的",
+   "en": "ordinal",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "纵坐标",
+   "en": "ordinate",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "纵坐标",
+   "en": "ordinate",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "排序",
+   "en": "ordination",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "排序",
+   "en": "ordination",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "后继标识",
+   "en": "successor marking",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "顺序变量",
+   "en": "ordinal variable",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "顺序量表",
+   "en": "ordinal scale",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "顺序数据",
+   "en": "ordinal data",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "顺序量表",
+   "en": "ordinal scaling",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "群落排序",
+   "en": "community ordination",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "污水条例",
+   "en": "sewer ordinance",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "有序参照系",
+   "en": "ordinal reference system",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "有序时间标度",
+   "en": "ordinal time scale",
+   "source": "海峡两岸地理信息系统名词",
+   "wordNumber": null,
+   "subjectFullName": "地理信息系统",
+   "subjectName": "地理信息系统",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "离散纵标法",
+   "en": "discrete ordinate method",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "比较序列法",
+   "en": "comparative ordination technique",
+   "source": "海峡两岸生态学名词",
+   "wordNumber": null,
+   "subjectFullName": "生态学",
+   "subjectName": "生态学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "纵坐标轴",
+   "en": "axis of ordinates",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "区域协调人",
+   "en": "area co-ordinator",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "太空互联网",
+   "en": "Orbital Internet",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "普通犯规",
+   "en": "ordinary foul",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_水球名词",
+   "subjectName": "水球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "连续试举",
+   "en": "attempt in succession",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "本色",
+   "en": "Bense (Original Character)",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "正握",
+   "en": "ordinary grip\",\"overhand grip",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "本无",
+   "en": "Benwu（Original Non-being）",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "人工智能原始创新",
+   "en": "original innovation in AI",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "挺举握杠",
+   "en": "ordinary grip\",\"shoulder-width grip",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "定序尺度",
+   "en": "ordinal scale",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.40",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "根据一个具有逻辑次序的类别集合对测量对象进行分类的测量方式。该逻辑次序可能是从低到高或从贫到富，例如回答人对某个服务的态度可以划分作非常不满意、不满意、满意和非常满意四个等级。"
+  },
+  {
+   "cn": "序数效用论",
+   "en": "ordinal utility",
+   "source": "卫生经济学名词",
+   "wordNumber": "4.2.3",
+   "subjectFullName": "卫生经济学名词_卫生服务需求_卫生服务消费者行为",
+   "subjectName": "卫生服务消费者行为",
+   "publishYear": "2025",
+   "definition": "主张用序数词来表示消费者偏好次序的理论，主要分析工具是无差异曲线和预算线。"
+  },
+  {
+   "cn": "门诊共济",
+   "en": "outpatient co-ordination",
+   "source": "卫生经济学名词",
+   "wordNumber": "11.6.4.3",
+   "subjectFullName": "卫生经济学名词_健康保险_健康保险覆盖",
+   "subjectName": "健康保险覆盖",
+   "publishYear": "2025",
+   "definition": "统筹共济、账户共济的总称。参保人在定点服务机构发生的符合健康保险政策范围内的普通门诊费用可纳入统筹基金支付范围进行报销，称为统筹共济；参保人的个人账户可在家庭范围内与其配偶、子女、父母共济使用，称为账"
+  },
+  {
+   "cn": "演替",
+   "en": "succession",
+   "source": "社会学名词",
+   "wordNumber": "3.4.4.6",
+   "subjectFullName": "社会学名词_分支社会学_城市社会学_城市理论或流派",
+   "subjectName": "城市理论或流派",
+   "publishYear": "2025",
+   "definition": "城市社区从一种原始的、不稳定的阶段向一种比较永久性或高峰期的有序发展的过程。个体以及整个社区系统会经历一系列清晰可辨的阶段——从取得平衡到平衡被打破到建立新的平衡的过程。"
+  },
+  {
+   "cn": "继承",
+   "en": "inheritance，succession",
+   "source": "社会学名词",
+   "wordNumber": "4.2.9.28",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_文化现象",
+   "subjectName": "文化现象",
+   "publishYear": "2025",
+   "definition": "个体作为社会人所具有的权利、义务的总体，即地位或财产在其死亡或退位之时根据该社会公认的规则由特定的人所承继的行为。"
+  },
+  {
+   "cn": "神判法",
+   "en": "ordeal",
+   "source": "社会学名词",
+   "wordNumber": "3.9.4.3",
+   "subjectFullName": "社会学名词_分支社会学_宗教社会学_宗教与法律",
+   "subjectName": "宗教与法律",
+   "publishYear": "2025",
+   "definition": "让被控诉的人接受痛苦或危险的考验的一种审判方法。无恙即被神力判定无罪，受伤或致死则证明有罪。神判表明社会公正机制与宗教有关。"
+  },
+  {
+   "cn": "原罪",
+   "en": "original sin",
+   "source": "马克思主义",
+   "wordNumber": "04.0023",
+   "subjectFullName": "马克思主义_其他部分_基本词汇_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "基督教的一种教义。该教称人类始祖亚当因违背上帝命令，吃禁果而犯下的罪，传给后世子孙，绵延不绝，故称“原罪”。"
+  },
+  {
+   "cn": "基数效用论",
+   "en": "cardinal utility",
+   "source": "卫生经济学名词",
+   "wordNumber": "4.2.2",
+   "subjectFullName": "卫生经济学名词_卫生服务需求_卫生服务消费者行为",
+   "subjectName": "卫生服务消费者行为",
+   "publishYear": "2025",
+   "definition": "主张用基数词来表示消费者效用数量的理论。该理论认为，效用是消费者在消费商品时所得到的满足，可以用数值来衡量和相加。消费者均衡的条件是花在每一种商品上的最后一单位货币所带来的边际效用都相等，每一种商品所"
+  },
+  {
+   "cn": "继承制度",
+   "en": "succession system/inheritance system",
+   "source": "社会学名词",
+   "wordNumber": "3.1.1.34",
+   "subjectFullName": "社会学名词_分支社会学_家庭社会学_家庭",
+   "subjectName": "家庭",
+   "publishYear": "2025",
+   "definition": "某一个体在其死亡或退位之时将其作为社会之人所具有的权利、义务的总体，也即地位或财产转移给他人的社会制度。包括地位继承与财产继承。"
+  },
+  {
+   "cn": "普通物体表面",
+   "en": "ordinary object surfaces",
+   "source": "消毒学",
+   "wordNumber": "4.1.3.1",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "学校、托幼机构、医疗卫生机构、公共场所、家庭等各种场所的物品、用具、器械和设施的表面。"
+  },
+  {
+   "cn": "普通最小二乘方",
+   "en": "ordinary least squares",
+   "source": "社会学名词",
+   "wordNumber": "1.2.5.87",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据分析",
+   "subjectName": "数据分析",
+   "publishYear": "2025",
+   "definition": "使回归方程的残差平方和最小的参数点估计方法。"
+  },
+  {
+   "cn": "常人",
+   "en": "ordinary person/layman",
+   "source": "社会学名词",
+   "wordNumber": "4.2.4.5",
+   "subjectFullName": "社会学名词_跨学科社会学_文化人类学_与人类学相关的概念",
+   "subjectName": "与人类学相关的概念",
+   "publishYear": "2025",
+   "definition": "经营日常生活的普通人，相对于贵族或精英而言的“凡人”，与柳田国男(Yanagida Kunio）的“常民”(jyoomin）概念同义。加芬克尔 (H.Garfunkel）借助此概念证明日常实践理性活动"
+  },
+  {
+   "cn": "四项基本原则",
+   "en": "Four Cardinal Principles",
+   "source": "马克思主义",
+   "wordNumber": "03.0514",
+   "subjectFullName": "马克思主义_科学社会主义_中国化的马克思主义时期",
+   "subjectName": "中国化的马克思主义时期",
+   "publishYear": "2025",
+   "definition": "1979年3月30日邓小平在理论工作务虚会上作了题为《坚持四项基本原则》的讲话，提出了必须坚持的“四项基本原则”。四项基本原则包括：第一，必须坚持社会主义道路；第二，必须坚持无产阶级专政；第三，必须坚"
+  },
+  {
+   "cn": "原麦汁浓度",
+   "en": "original wort concentration",
+   "source": "食品卫生学名词",
+   "wordNumber": "5.12.5.3",
+   "subjectFullName": "食品卫生学_食品_酒类",
+   "subjectName": "酒类",
+   "publishYear": "2025",
+   "definition": "啤酒发酵前麦芽汁所含的糖度。"
+  },
+  {
+   "cn": "三纲",
+   "en": "three cardinal guides",
+   "source": "医学伦理学名词",
+   "wordNumber": "1.072",
+   "subjectFullName": "医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴",
+   "subjectName": "伦理学范畴",
+   "publishYear": "2025",
+   "definition": "封建礼教所提倡的人与人之间的道德标准，指君为臣纲，父为子纲，夫为妻纲，要求臣、子、妻必须绝对服从君、父、夫。"
+  },
+  {
+   "cn": "抗休克成功率",
+   "en": "anti-shock success rate",
+   "source": "军事预防医学名词",
+   "wordNumber": "15.3.3.3",
+   "subjectFullName": "军事预防医学_军队卫生统计学_战时卫生统计",
+   "subjectName": "战时卫生统计",
+   "publishYear": "2025",
+   "definition": "每百名休克伤员经救治后解除休克的人数，反映各救治机构应急能力和救治水平。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

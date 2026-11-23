@@ -1,0 +1,722 @@
+{
+ "key": "potential parts",
+ "term": "potential parts",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T05:59:52+00:00",
+ "status": "ok",
+ "note": "variant=potential parts; 审定公布名词库=1763; 海峡两岸名词对照库=693; 其他来源数据库=159; 预公布名词数据库=265; jwt-direct（JWT 直连，raw 略；已滤维基 9 条）",
+ "hits": [
+  {
+   "cn": "01.92实[部]势",
+   "en": "real [part] potential",
+   "source": "核科学技术名词",
+   "wordNumber": "1.092",
+   "subjectFullName": "核科学技术_核物理_相互作用类",
+   "subjectName": "相互作用类",
+   "publishYear": "2024",
+   "definition": "光学势中的实数部分。"
+  },
+  {
+   "cn": "01.93虚[部]势",
+   "en": "imaginary [part] potential",
+   "source": "核科学技术名词",
+   "wordNumber": "1.093",
+   "subjectFullName": "核科学技术_核物理_相互作用类",
+   "subjectName": "相互作用类",
+   "publishYear": "2024",
+   "definition": "光学势中的虚数部分。"
+  },
+  {
+   "cn": "编",
+   "en": "part",
+   "source": "编辑与出版学名词",
+   "wordNumber": "02.04.032",
+   "subjectFullName": "编辑与出版学_编辑_编辑加工",
+   "subjectName": "编辑加工",
+   "publishYear": "2022",
+   "definition": "书籍中大于章的结构单元。"
+  },
+  {
+   "cn": "零件",
+   "en": "part",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "03.0274",
+   "subjectFullName": "机械工程（一）_机械设计与制图_机械制图_三维制图",
+   "subjectName": "三维制图",
+   "publishYear": "2021",
+   "definition": "用于装配产品的基本组成单元。"
+  },
+  {
+   "cn": "零件",
+   "en": "part",
+   "source": "管理科学技术名词",
+   "wordNumber": "05.0004",
+   "subjectFullName": "管理科学技术_生产运作管理与工业工程_生产运作管理",
+   "subjectName": "生产运作管理",
+   "publishYear": "2016",
+   "definition": "有形产品的组成部分。"
+  },
+  {
+   "cn": "裂开",
+   "en": "parting",
+   "source": "地质学名词",
+   "wordNumber": "03.01.089",
+   "subjectFullName": "地质学_矿物学_总论",
+   "subjectName": "总论",
+   "publishYear": "2026",
+   "definition": "矿物晶体或晶粒在外力打击下，有时沿一定的结晶方向裂成平面的性质。裂开现象与解理相似，但存在实质差别。前者与外因有关，后者由内因引起。对辉石、磁铁矿、刚玉等矿物具有鉴定意义。"
+  },
+  {
+   "cn": "金银分离法",
+   "en": "parting",
+   "source": "冶金学名词",
+   "wordNumber": "06.0878",
+   "subjectFullName": "冶金学_有色金属冶金_贵金属冶金",
+   "subjectName": "贵金属冶金",
+   "publishYear": "2019",
+   "definition": "用稀硝酸溶解金银珠中的银，分离出金的工艺。"
+  },
+  {
+   "cn": "夹矸",
+   "en": "parting",
+   "source": "煤炭科学技术名词",
+   "wordNumber": "02.104",
+   "subjectFullName": "煤炭科学技术_煤田地质与勘探_煤层与含煤岩系",
+   "subjectName": "煤层与含煤岩系",
+   "publishYear": "1996",
+   "definition": "夹在煤层中的沉积岩层。"
+  },
+  {
+   "cn": "裂理",
+   "en": "parting",
+   "source": "地质学名词",
+   "wordNumber": "04.234",
+   "subjectFullName": "地质学_矿物学",
+   "subjectName": "矿物学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "潜能",
+   "en": "potential",
+   "source": "经济学名词",
+   "wordNumber": "08.166",
+   "subjectFullName": "经济学_区域经济学",
+   "subjectName": "区域经济学",
+   "publishYear": "2020",
+   "definition": "表示一个物体对另一物体产生的能。一个系统中所有物体对某一点产生的潜能，等于每个物体所产生潜能的总和。"
+  },
+  {
+   "cn": "势",
+   "en": "potential",
+   "source": "物理学名词",
+   "wordNumber": "02.0289",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "势",
+   "en": "potential",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_流体力学",
+   "subjectName": "流体力学",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "位势",
+   "en": "potential",
+   "source": "数学名词",
+   "wordNumber": "05.0624",
+   "subjectFullName": "数学_分析学_位势论",
+   "subjectName": "位势论",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "ξ电势",
+   "en": "ξ potential",
+   "source": "冶金学名词",
+   "wordNumber": "04.0594",
+   "subjectFullName": "冶金学_冶金物理化学_冶金熔体",
+   "subjectName": "冶金熔体",
+   "publishYear": "2019",
+   "definition": "固体或胶体粒子与溶液接触时，在表面形成双电层，当固–液之间发生相对移动时，固相连带着束缚的溶剂化层和溶液之间的电势。"
+  },
+  {
+   "cn": "潜能",
+   "en": "potentiality",
+   "source": "自然辩证法名词",
+   "wordNumber": "02.049",
+   "subjectFullName": "自然辩证法_自然哲学_基本概念",
+   "subjectName": "基本概念",
+   "publishYear": "2024",
+   "definition": "潜在的能力及可能。亚里士多德哲学重要术语。其潜能现实说认为，潜能是一种实现运动，可分为三阶段：运动前的原始潜能，某力作用下的潜能，运动实现后的二级潜能。"
+  },
+  {
+   "cn": "增强",
+   "en": "potentiation",
+   "source": "药学名词",
+   "wordNumber": "07.136",
+   "subjectFullName": "药学_药理学",
+   "subjectName": "药理学",
+   "publishYear": "2014",
+   "definition": "作用性质相同药物的联合应用，产生的相加或协同效应。"
+  },
+  {
+   "cn": "[右上肺静脉后支]叶内部",
+   "en": "intralobar part,intersegmental part",
+   "source": "人体解剖学名词",
+   "wordNumber": "05.0818",
+   "subjectFullName": "人体解剖学_脉管学_静脉",
+   "subjectName": "静脉",
+   "publishYear": "2014",
+   "definition": "上叶中央部的深静脉。"
+  },
+  {
+   "cn": "修复件",
+   "en": "reconditioned part,reworked part",
+   "source": "机械工程名词 第五分册",
+   "wordNumber": "24.0214",
+   "subjectFullName": "机械工程_动力机械_内燃机_发动机维修",
+   "subjectName": "发动机维修",
+   "publishYear": "2013",
+   "definition": "用机械加工方法修复的单个零件或部件。"
+  },
+  {
+   "cn": "修复件",
+   "en": "reconditioned part,reworked part",
+   "source": "机械工程名词 第四分册",
+   "wordNumber": "08.014",
+   "subjectFullName": "机械工程_汽车_汽车维修_一般名词",
+   "subjectName": "一般名词",
+   "publishYear": "2013",
+   "definition": "用机械加工方法修复的单个零件或部件。"
+  },
+  {
+   "cn": "总和电位",
+   "en": "summation potential,summating potential",
+   "source": "生理学名词",
+   "wordNumber": "03.428",
+   "subjectFullName": "生理学_神经生理学",
+   "subjectName": "神经生理学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "分谱",
+   "en": "part",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "位[势]",
+   "en": "potential",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "位势",
+   "en": "potential",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "电势",
+   "en": "potential",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "势",
+   "en": "potential",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "位",
+   "en": "potential",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "增强",
+   "en": "potentiation",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "大角咽部",
+   "en": "ceratopharyngeal part\",\"keratopharyngeal part",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "副交感部",
+   "en": "parasympathetic part\",\"parasympathic part",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "交感部",
+   "en": "sympathetic part\",\"sympathic part",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "口[部]",
+   "en": "mouth part\",\"oral part",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "吸引势",
+   "en": "attractive potential\",\"suction potential",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "繁殖潜力",
+   "en": "biotic potential\",\"reproductive potential",
+   "source": "海峡两岸动物学名词",
+   "wordNumber": null,
+   "subjectFullName": "动物学",
+   "subjectName": "动物学",
+   "publishYear": "2005",
+   "definition": ""
+  },
+  {
+   "cn": "渗透势（=溶质势）",
+   "en": "osmotic potential (=solute potential)",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "渐长纬度",
+   "en": "meridional parts",
+   "source": "海峡两岸测绘学名词",
+   "wordNumber": null,
+   "subjectFullName": "测绘学",
+   "subjectName": "测绘学",
+   "publishYear": "2009",
+   "definition": ""
+  },
+  {
+   "cn": "可互换部件",
+   "en": "interchangeable parts",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "零件明细表",
+   "en": "parts list",
+   "source": "海峡两岸航海科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "航海科学技术",
+   "subjectName": "航海科学技术",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "板后部",
+   "en": "postlaminar part",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "板前部",
+   "en": "prelaminar part",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "背侧部",
+   "en": "dorsal part",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "阶段",
+   "en": "part",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "摆动部位",
+   "en": "swing part",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "道不同，不相为谋",
+   "en": "Part Ways and Part Company",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "潜能",
+   "en": "potential energy",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射箭名词",
+   "subjectName": "射箭名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "力量动作",
+   "en": "force part\",\"strength part\",\"force element",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_体操名词",
+   "subjectName": "体操名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "中段",
+   "en": "middle part\",\"momtong\",\"trunk",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_跆拳道名词",
+   "subjectName": "跆拳道名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "参加体育运动",
+   "en": "take part in sports",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "《DIN 66274-2-2012 信息技术 互联网接入 第2部分：分类》",
+   "en": "DIN 66274-2:2012 Information technology — Internet accesses — Part 2: Classification",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 5271.1-2000 信息技术 词汇 第1部分：基本术语》",
+   "en": "GB/T 5271.1-2000 Information technology — Vocabulary — Part 1: Fundamental terms",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《20190810-T-469 信息技术 存储管理 第2部分：通用架构》",
+   "en": "20190810-T-469 Information technology — Storage management — Part 2: Common architecture",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "《GB/T 24405.1-2009 信息技术 服务管理 第1部分：规范》",
+   "en": "GB/T 24405.1-2009 Information technology — Service management — Part 1: Specification",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "总论",
+   "en": "general part",
+   "source": "食品卫生学名词",
+   "wordNumber": "1",
+   "subjectFullName": "食品卫生学_总论",
+   "subjectName": "总论",
+   "publishYear": "2025",
+   "definition": "nan"
+  },
+  {
+   "cn": "可食用部分",
+   "en": "edible part",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.3.15",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品标准",
+   "subjectName": "食品标准",
+   "publishYear": "2025",
+   "definition": "食品原料经过机械手段（如谷物碾磨、水果剥皮、坚果去壳、肉去骨、鱼去刺、贝去壳等）去除非食用部分后，所得到的用于食用的部分。"
+  },
+  {
+   "cn": "潜在照射",
+   "en": "potential exposure",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.5.2",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_一般要求",
+   "subjectName": "一般要求",
+   "publishYear": "2025",
+   "definition": "预期大概率不会发生但可能会因源的事故或某种具有偶然性质的事件或事件序列（包括设备故障和操作错误）所引起的照射。"
+  },
+  {
+   "cn": "事故隐患",
+   "en": "accident potential",
+   "source": "放射卫生学",
+   "wordNumber": "6.1.6.22",
+   "subjectFullName": "放射卫生学_放射防护_放射防护体系_分析评估",
+   "subjectName": "分析评估",
+   "publishYear": "2025",
+   "definition": "可能导致事故发生的物的危险状态、人的不安全行为及管理上的缺陷。"
+  },
+  {
+   "cn": "潜在危害",
+   "en": "potential hazard",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.5.21",
+   "subjectFullName": "食品卫生学_食品安全风险管理_危害分析与关键控制点",
+   "subjectName": "危害分析与关键控制点",
+   "publishYear": "2025",
+   "definition": "在食品生产过程中，可能存在但危害程度相对较低或发生可能性较小的危害。如不加以预防，将有可能发生的食品安全危害。"
+  },
+  {
+   "cn": "增强作用",
+   "en": "potentiation action",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.4.2.41",
+   "subjectFullName": "食品卫生学_总论_食品安全风险评估",
+   "subjectName": "食品安全风险评估",
+   "publishYear": "2025",
+   "definition": "一种外源化学物对某器官或系统无毒作用，与另一种外源化学物同时或先后暴露时可增强另一种化学物的毒作用。"
+  },
+  {
+   "cn": "成品库",
+   "en": "finished-parts storage",
+   "source": "消毒学",
+   "wordNumber": "5.1.9.2",
+   "subjectFullName": "消毒学_监督管理_企业监管",
+   "subjectName": "企业监管",
+   "publishYear": "2025",
+   "definition": "储存消毒产品成品的仓库。"
+  },
+  {
+   "cn": "氧化还原电位",
+   "en": "oxidation reduction potential",
+   "source": "消毒学",
+   "wordNumber": "3.1.2.10.5.5",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "在电解过程中，氧化物质和还原物质同处于离子状态时，在电极和溶液之间产生电位差时的电极电位。"
+  },
+  {
+   "cn": "α粒子潜能",
+   "en": "potential alpha energy",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.5.1",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_氡个人监测评价",
+   "subjectName": "氡个人监测评价",
+   "publishYear": "2025",
+   "definition": "氡（222Rn）的子体完全衰变为210Pb（但不包括210Pb的衰变）和（220Rn）的子体完全衰变到稳定的208Pb时，所发射的α粒子能量的总和。"
+  },
+  {
+   "cn": "潜在致死性损伤",
+   "en": "potentially lethal damage",
+   "source": "放射卫生学",
+   "wordNumber": "4.1.4.11",
+   "subjectFullName": "放射卫生学_电离辐射健康效应_放射生物效应及其机制",
+   "subjectName": "放射生物效应及其机制",
+   "publishYear": "2025",
+   "definition": "虽未直接导致细胞死亡，但如不进行干预，可在其他因素作用下引起细胞死亡的损伤。"
+  },
+  {
+   "cn": "潜在风险食品",
+   "en": "potentially hazardous food",
+   "source": "食品卫生学名词",
+   "wordNumber": "4.4.29",
+   "subjectFullName": "食品卫生学_食品安全风险管理_食品生产规范",
+   "subjectName": "食品生产规范",
+   "publishYear": "2025",
+   "definition": "易于微生物生长或产生毒素的食品。这类食品通常蛋白质或碳水化合物含量较高，pH 大于4.6 且水分活度(aw)大于0.85。"
+  },
+  {
+   "cn": "歇后语",
+   "en": "two-part allegorical saying",
+   "source": "民族学与文化学名词",
+   "wordNumber": "4.0354",
+   "subjectFullName": "民族学与文化学_民俗学_民俗与民俗事象",
+   "subjectName": "民俗与民俗事象",
+   "publishYear": "2025",
+   "definition": "由喻体、解体连缀而成的较为定型的趣味性语句，说话时把一段常用词语故意少说一个字或半句而构成的带有幽默性的话。通用的有两种：①原始意义的歇后语，指把一句成语的末一个字省去不说，又称“缩脚语”。②扩大意义"
+  },
+  {
+   "cn": "整体与部分",
+   "en": "whole and the part",
+   "source": "马克思主义",
+   "wordNumber": "01.0043",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "整体是指事物的各内在要素相互联系构成有机统一体及其发展全过程；部分是指组成有机统一体的各个方面、要素及其发展全过程的某一个阶段。整体包含部分，部分从属于整体。两者在一定条件下可以互相影响，互相转化。整"
+  },
+  {
+   "cn": "脑诱发电位",
+   "en": "Brain Evoked Potential, BEP",
+   "source": "军事预防医学名词",
+   "wordNumber": "6.1.4.2.2.3",
+   "subjectFullName": "军事预防医学_军事作业医学_军事作业生理学",
+   "subjectName": "军事作业生理学",
+   "publishYear": "2025",
+   "definition": "当感觉系统（如视觉、听觉、躯体感觉）接受刺激（如光、声音、电流）或大脑执行认知任务（如记忆、决策）时，神经元会产生同步化电信号，经传导路径到达皮层或皮层下结构，形成可检测的电位变化。"
+  },
+  {
+   "cn": "α粒子潜能浓度",
+   "en": "potential alpha energy concentration",
+   "source": "放射卫生学",
+   "wordNumber": "6.3.5.10",
+   "subjectFullName": "放射卫生学_放射防护_内照射防护_氡个人监测评价",
+   "subjectName": "氡个人监测评价",
+   "publishYear": "2025",
+   "definition": "单位体积空气中氡和   子体α潜能值。"
+  },
+  {
+   "cn": "食品安全隐患",
+   "en": "potential food safety issue",
+   "source": "食品卫生学名词",
+   "wordNumber": "1.1.27",
+   "subjectFullName": "食品卫生学_总论_食品安全",
+   "subjectName": "食品安全",
+   "publishYear": "2025",
+   "definition": "食品中存在的可能对人体健康造成危害的因素。常见的食品安全隐患包括食品中的有害物质、微生物污染、添加剂超标、不合格食品等。"
+  },
+  {
+   "cn": "潜在卫生服务需要",
+   "en": "potential health service need",
+   "source": "社会医学名词",
+   "wordNumber": "8.2.2",
+   "subjectFullName": "卫生服务研究",
+   "subjectName": "卫生服务需要",
+   "publishYear": "2025",
+   "definition": "尚未被个体或医学专业人员识别或发现的卫生服务需要。"
+  },
+  {
+   "cn": "进化潜力法则",
+   "en": "law of evolutionary potential",
+   "source": "民族学与文化学名词",
+   "wordNumber": "1.0583",
+   "subjectFullName": "民族学与文化学_民族学・人类学_学派理论与研究方法",
+   "subjectName": "学派理论与研究方法",
+   "publishYear": "2025",
+   "definition": "美国人类学家塞维斯（Elman Rogers Service）在《进化的潜势》一文中，提出在“不发达的”文明社会中，存在着一定的发达社会所不具有的进化潜势。有一些落后社会它们通过引进发达社会的文化，从"
+  },
+  {
+   "cn": "酸性氧化电位水生成器",
+   "en": "acidic oxidation potential water generator",
+   "source": "消毒学",
+   "wordNumber": "3.1.2.10.5.4",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "利用有隔膜式电解槽将氯化钠水溶液电解，在阳极侧生成酸性氧化电位水的装置。"
+  },
+  {
+   "cn": "恒压高压发生器",
+   "en": "constant potential high-voltage generator",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.25",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "输出电压波纹率不超过规定值的高压发生器。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

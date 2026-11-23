@@ -1,0 +1,792 @@
+{
+ "key": "time discounting",
+ "term": "time discounting",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T06:00:09+00:00",
+ "status": "ok",
+ "note": "variant=time discounting; 审定公布名词库=3301; 海峡两岸名词对照库=1256; 其他来源数据库=281; 预公布名词数据库=89; jwt-direct（JWT 直连，raw 略；已滤维基 2 条）",
+ "hits": [
+  {
+   "cn": "时间折现系数",
+   "en": "time-discount coefficient",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0093",
+   "subjectFullName": "管理科学技术_金融工程_原理",
+   "subjectName": "原理",
+   "publishYear": "2016",
+   "definition": "将未来某一时间点的资产价值折算到当前时点的价值的系数。"
+  },
+  {
+   "cn": "折现",
+   "en": "discounting",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "13.015",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_化工技术经济",
+   "subjectName": "化工技术经济",
+   "publishYear": "2024",
+   "definition": "在资金等值计算中，把将来某时点的资金价值折算成现值的过程。折算成现值的利率，称为折现率（discount rate）。"
+  },
+  {
+   "cn": "贴现",
+   "en": "discounting",
+   "source": "药学名词",
+   "wordNumber": "10.001",
+   "subjectFullName": "药学_药物经济学",
+   "subjectName": "药物经济学",
+   "publishYear": "2014",
+   "definition": "把将来成本和产出折算成现值的方法。第t年的贴现因子为1/(1+r)t，其中r表示贴现率。"
+  },
+  {
+   "cn": "贴现",
+   "en": "discounting",
+   "source": "教育学名词",
+   "wordNumber": "14.071",
+   "subjectFullName": "教育学_教育经济",
+   "subjectName": "教育经济",
+   "publishYear": "2013",
+   "definition": "考虑资金的时间价值，对不同时期的资金进行可比性调整的方式。"
+  },
+  {
+   "cn": "贴水",
+   "en": "discount",
+   "source": "农学名词",
+   "wordNumber": "19.142",
+   "subjectFullName": "农业经济与管理_农业市场与贸易",
+   "subjectName": "农业市场与贸易",
+   "publishYear": "2025",
+   "definition": "外汇市场上，远期汇率低于即期汇率的差额。"
+  },
+  {
+   "cn": "贴现",
+   "en": "discount",
+   "source": "农学名词",
+   "wordNumber": "19.264",
+   "subjectFullName": "农业经济与管理_农业财政金融与保险",
+   "subjectName": "农业财政金融与保险",
+   "publishYear": "2025",
+   "definition": "商业票据持有人在汇票到期日前，为了取得资金，贴付一定利息，将票据权利转让给金融机构或他人的行为。"
+  },
+  {
+   "cn": "发行折扣",
+   "en": "discount",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.05.004",
+   "subjectFullName": "编辑与出版学_发行与经营_发行信息与管理",
+   "subjectName": "发行信息与管理",
+   "publishYear": "2022",
+   "definition": "出版物实际销售价格与定价的比率。"
+  },
+  {
+   "cn": "贴现",
+   "en": "discount",
+   "source": "经济学名词",
+   "wordNumber": "10.004",
+   "subjectFullName": "经济学_数量经济学",
+   "subjectName": "数量经济学",
+   "publishYear": "2020",
+   "definition": "商业银行的放款形式之一。"
+  },
+  {
+   "cn": "贴现",
+   "en": "discount",
+   "source": "管理科学技术名词",
+   "wordNumber": "06.0068",
+   "subjectFullName": "管理科学技术_会计_财务会计",
+   "subjectName": "财务会计",
+   "publishYear": "2016",
+   "definition": "持票人向银行转让未到期票据并贴付一定利息以兑取现金的行为。"
+  },
+  {
+   "cn": "折现",
+   "en": "discount",
+   "source": "水利科学技术名词",
+   "wordNumber": "16.054",
+   "subjectFullName": "水利科学技术_水利经济_资金的时间价值（水利）",
+   "subjectName": "资金的时间价值（水利）",
+   "publishYear": "1997",
+   "definition": "将未到期的一笔资金折算为现在即付的资金数额的行为。也有泛指不同时间的资金数值之间的相互换算。"
+  },
+  {
+   "cn": "打折扣原理",
+   "en": "discounting principle",
+   "source": "心理学名词",
+   "wordNumber": "07.085",
+   "subjectFullName": "心理学_社会心理学",
+   "subjectName": "社会心理学",
+   "publishYear": "2014",
+   "definition": "对行为解释的理由由于其他理由的出现而被削弱的现象。"
+  },
+  {
+   "cn": "数量折扣",
+   "en": "quantity discount",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "07.110",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_企业经营管理",
+   "subjectName": "企业经营管理",
+   "publishYear": "2024",
+   "definition": "企业对大量购买产品的顾客给予的一种减价优惠。分为累计数量折扣和一次性数量折扣两种类型。一般购买量越多，折扣也越大。 "
+  },
+  {
+   "cn": "特别折扣",
+   "en": "special discount",
+   "source": "化工名词（十）化工系统工程和化工信息化名词",
+   "wordNumber": "07.111",
+   "subjectFullName": "化工（十）_化工系统工程和化工信息化_企业经营管理",
+   "subjectName": "企业经营管理",
+   "publishYear": "2024",
+   "definition": "为了实现某种特殊目的而给予的特别优惠价格。有利于调动采购商的积极性和扩大销路，在国际贸易中，是加强对外竞销的一种手段。"
+  },
+  {
+   "cn": "现金折扣",
+   "en": "cash discount",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.03.132",
+   "subjectFullName": "编辑与出版学_发行与经营_发行交易",
+   "subjectName": "发行交易",
+   "publishYear": "2022",
+   "definition": "为敦促顾客尽早付清货款而提供的一种价格优惠。"
+  },
+  {
+   "cn": "批发折扣",
+   "en": "wholesale discount",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.05.049",
+   "subjectFullName": "编辑与出版学_发行与经营_发行信息与管理",
+   "subjectName": "发行信息与管理",
+   "publishYear": "2022",
+   "definition": "出版物批发价与定价的比率。"
+  },
+  {
+   "cn": "零售折扣",
+   "en": "retail discount",
+   "source": "编辑与出版学名词",
+   "wordNumber": "05.05.050",
+   "subjectFullName": "编辑与出版学_发行与经营_发行信息与管理",
+   "subjectName": "发行信息与管理",
+   "publishYear": "2022",
+   "definition": "出版物实际销售价格与定价的比率。"
+  },
+  {
+   "cn": "特价书",
+   "en": "discounted book",
+   "source": "编辑与出版学名词",
+   "wordNumber": "07.02.045",
+   "subjectFullName": "编辑与出版学_出版物_图书",
+   "subjectName": "图书",
+   "publishYear": "2022",
+   "definition": "因滞销、残损或促销需要等原因，以低于定价的价格销售的图书。"
+  },
+  {
+   "cn": "文化折扣",
+   "en": "cultural discount",
+   "source": "新闻学与传播学名词",
+   "wordNumber": "18.044",
+   "subjectFullName": "新闻学与传播学_传播政治经济研究_重要概念",
+   "subjectName": "重要概念",
+   "publishYear": "2022",
+   "definition": "由于国际贸易中文化产品不被目标地区的受众认同或理解而导致其价值降低的现象。科林·霍斯金斯(Colin Hoskins)和米卢斯(R.Mirus)在1988年发表的《美国主导电视节目国际市场的原因》(R"
+  },
+  {
+   "cn": "贴息补助",
+   "en": "discount subsidy",
+   "source": "化工名词（五）化工规划·研发·工程建设及产业化",
+   "wordNumber": "02.223",
+   "subjectFullName": "化工（五）_规划、咨询、评估与决策_项目决策",
+   "subjectName": "项目决策",
+   "publishYear": "2021",
+   "definition": "为鼓励企业投资，各级政府根据政策对符合条件的银行贷款项目支付部分或全部利息的行为。"
+  },
+  {
+   "cn": "贴现率",
+   "en": "discount rate",
+   "source": "经济学名词",
+   "wordNumber": "10.005",
+   "subjectFullName": "经济学_数量经济学",
+   "subjectName": "数量经济学",
+   "publishYear": "2020",
+   "definition": "贴现利息与票据到期时应得款项金额的比率。"
+  },
+  {
+   "cn": "打折扣原则，打折扣原理",
+   "en": "discounting principle",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "折现因子",
+   "en": "discount factor",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "复利贴现",
+   "en": "compound discount",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "可贴现票据",
+   "en": "discountable note",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "贸易折扣",
+   "en": "trade discount",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "票据贴现",
+   "en": "note discount",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "贴现贷款",
+   "en": "discount loan",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "贴现费用",
+   "en": "discount charge",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "贴现经纪人",
+   "en": "discount broker",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "贴现利息",
+   "en": "discount interest",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "贴现率，折扣率",
+   "en": "discount rate",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "贴现市场",
+   "en": "discount market",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "贴现收入",
+   "en": "discount income",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "贴现损失",
+   "en": "discount loss",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "贴现信贷",
+   "en": "discounted credit",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "贴现银行",
+   "en": "discount bank",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "外汇贴水",
+   "en": "exchange discount",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "已贴现汇票",
+   "en": "discounted bill",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "已贴现票据",
+   "en": "bill discounted",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "已贴现票据",
+   "en": "discounted note",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "计时",
+   "en": "time\",\"timing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "计时",
+   "en": "time\",\"timing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_乒乓球名词",
+   "subjectName": "乒乓球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "时",
+   "en": "Time / Timing",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "时间到！",
+   "en": "Time!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "计时",
+   "en": "time",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_摔跤名词",
+   "subjectName": "摔跤名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "时间",
+   "en": "time",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "时间",
+   "en": "time",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "暂停！",
+   "en": "Time!",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_棒垒球名词",
+   "subjectName": "棒垒球名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "时间",
+   "en": "time",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_举重名词",
+   "subjectName": "举重名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "时间",
+   "en": "time",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "计时",
+   "en": "time\",\"time-keeping",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_皮划艇名词",
+   "subjectName": "皮划艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "计时",
+   "en": "time-keeping\",\"timing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "计时",
+   "en": "time-keeping\",\"timing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_田径名词",
+   "subjectName": "田径名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "计时",
+   "en": "time-keeping\",\"timing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "计时",
+   "en": "time-keeping\",\"timing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "计时",
+   "en": "time-keeping\",\"timing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "掌握时机",
+   "en": "timing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "计时",
+   "en": "timing",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_铁人三项名词",
+   "subjectName": "铁人三项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "时间贴现",
+   "en": "time discount",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.7.12.15",
+   "subjectFullName": "食品卫生学_食源性疾病_食源性疾病负担",
+   "subjectName": "食源性疾病负担",
+   "publishYear": "2025",
+   "definition": "个体在面对不同时间点的收益或损失时，倾向于高估近期收益、低估远期收益的现状，适用于疾病经济负担评估中一些时间跨度长的评估。"
+  },
+  {
+   "cn": "贴现",
+   "en": "discount",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.1.2",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "把将来某一时点发生的资金额换算成现在时点或相对于该将来时点的任何较早时点的等值金额。"
+  },
+  {
+   "cn": "双曲贴现",
+   "en": "hyperbolic discounting",
+   "source": "卫生经济学名词",
+   "wordNumber": "15.1.5",
+   "subjectFullName": "卫生经济学名词_危害健康行为经济学_危害健康行为",
+   "subjectName": "危害健康行为",
+   "publishYear": "2025",
+   "definition": "个体对于不同时期的同一收益的价值，采用不同的贴现率，即贴现的时间不一致性。例如对近期的价值采用低的贴现率，对远期的价值采取高的贴现率，个体更倾向于获得近期的收益，也可以正好相反。"
+  },
+  {
+   "cn": "贴现率",
+   "en": "discount rate",
+   "source": "卫生经济学名词",
+   "wordNumber": "12.1.1.2.1",
+   "subjectFullName": "卫生经济学名词_卫生经济学评价_卫生经济学评价",
+   "subjectName": "卫生经济学评价",
+   "publishYear": "2025",
+   "definition": "将未来的价值转化为现值的计算比率。"
+  },
+  {
+   "cn": "时间",
+   "en": "time",
+   "source": "马克思主义",
+   "wordNumber": "01.0027",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "物质存在的基本形式之一，指物质运动的持续性、顺序性和间隔性，时间具有一维性，即不可逆性。"
+  },
+  {
+   "cn": "辐射时间",
+   "en": "irradiation time",
+   "source": "消毒学",
+   "wordNumber": "2.2.2.19",
+   "subjectFullName": "消毒学_消毒技术_物理消毒",
+   "subjectName": "物理消毒",
+   "publishYear": "2025",
+   "definition": "采用辐照的方式进行消毒的作用时间。"
+  },
+  {
+   "cn": "暴露时间",
+   "en": "exposure time",
+   "source": "消毒学",
+   "wordNumber": "3.1.3.5",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "灭菌对象与消毒因子有效接触的时间。"
+  },
+  {
+   "cn": "存活时间",
+   "en": "survival time",
+   "source": "消毒学",
+   "wordNumber": "3.1.5.1",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "在规定条件下，暴露于杀菌因子，生物指示物中微生物存活的最长时间。"
+  },
+  {
+   "cn": "响应时间",
+   "en": "response time",
+   "source": "消毒学",
+   "wordNumber": "3.1.6.6.3",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "当暴露于被测量的变量逐步改变时，传感器输出90%变化的信号所需要的时间。"
+  },
+  {
+   "cn": "持续时间",
+   "en": "holding time",
+   "source": "消毒学",
+   "wordNumber": "3.1.6.6.4",
+   "subjectFullName": "消毒学_消毒用品_消毒产品",
+   "subjectName": "消毒产品",
+   "publishYear": "2025",
+   "definition": "在某灭菌阶段，灭菌器内以及装载内所有位置的灭菌变量持续保持在规定限值内的时间。"
+  },
+  {
+   "cn": "崩解时间",
+   "en": "disintegration time",
+   "source": "消毒学",
+   "wordNumber": "6.1.14.2",
+   "subjectFullName": "消毒学_检测与评价_理化检验",
+   "subjectName": "理化检验",
+   "publishYear": "2025",
+   "definition": "崩解试验时，固体消毒剂裂碎成细小颗粒且完全溶解所需的时间。"
+  },
+  {
+   "cn": "代时",
+   "en": "generation time",
+   "source": "消毒学",
+   "wordNumber": "6.2.3.9.2",
+   "subjectFullName": "消毒学_检测与评价_消毒学试验",
+   "subjectName": "消毒学试验",
+   "publishYear": "2025",
+   "definition": "在细菌培养过程中，对数期中细胞数目或生物量增加一倍所需要的时间。"
+  },
+  {
+   "cn": "死时间",
+   "en": "dead time",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.1.14",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_辐射探测基本量",
+   "subjectName": "辐射探测基本量",
+   "publishYear": "2025",
+   "definition": "在脉冲计数器中，两个相继出现，并能被分辨开的脉冲或电离事件之间的最小时间间隔(τ)。"
+  },
+  {
+   "cn": "活时间",
+   "en": "live time",
+   "source": "放射卫生学",
+   "wordNumber": "5.1.1.15",
+   "subjectFullName": "放射卫生学_辐射测量技术与设备_辐射测量原理_辐射探测基本量",
+   "subjectName": "辐射探测基本量",
+   "publishYear": "2025",
+   "definition": "在脉冲计数器中，能检测脉冲信号的时间。亦即总的测量时间扣除死时间后的时间。"
+  },
+  {
+   "cn": "时间防护",
+   "en": "time protection",
+   "source": "放射卫生学",
+   "wordNumber": "6.2.1.1",
+   "subjectFullName": "放射卫生学_放射防护_外照射防护_外照射防护方法",
+   "subjectName": "外照射防护方法",
+   "publishYear": "2025",
+   "definition": "缩短接触电离辐射的时间以减少受照剂量的防护措施。"
+  },
+  {
+   "cn": "加载时间",
+   "en": "loading time",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.44",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "将阳极输入功率加于X射线管的时间。"
+  },
+  {
+   "cn": "照射时间",
+   "en": "irradiation time",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.2.45",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护",
+   "subjectName": "医用放射防护",
+   "publishYear": "2025",
+   "definition": "照射持续时间，通常是辐射量率超过某一规定水平的时间。"
+  },
+  {
+   "cn": "定时开关",
+   "en": "time switch",
+   "source": "放射卫生学",
+   "wordNumber": "6.4.4.19.1",
+   "subjectFullName": "放射卫生学_放射防护_医用放射防护_放射治疗",
+   "subjectName": "放射治疗",
+   "publishYear": "2025",
+   "definition": "预置照射时间的一种装置。当照射到达预置时间时给出停止照射的信号并终止照射。"
+  },
+  {
+   "cn": "劳动时间",
+   "en": "labor time",
+   "source": "马克思主义",
+   "wordNumber": "02.0193",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "计量生产商品所耗费的劳动量的单位。劳动本身的量则用劳动的持续时间来计量。一定的时间单位，如小时、日是劳动时间的尺度。劳动时间有个别劳动时间和社会必要劳动时间之别。"
+  },
+  {
+   "cn": "周转时间",
+   "en": "turnover time",
+   "source": "马克思主义",
+   "wordNumber": "02.0199",
+   "subjectFullName": "马克思主义_政治经济学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "预付资本价值经历一次循环或再生产过程所持续的时间。或者说，它是从资本价值以一定的形式预付时起，到处在过程中的资本价值回到同一形式上的一段时间。它等于资本的生产时间和流通时间之和。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

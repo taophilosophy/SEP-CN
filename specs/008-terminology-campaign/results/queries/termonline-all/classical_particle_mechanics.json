@@ -1,0 +1,732 @@
+{
+ "key": "classical particle mechanics",
+ "term": "classical particle mechanics",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T05:59:04+00:00",
+ "status": "ok",
+ "note": "variant=classical particle mechanics; 审定公布名词库=2510; 海峡两岸名词对照库=544; 其他来源数据库=139; 预公布名词数据库=85; jwt-direct（JWT 直连，raw 略；已滤维基 8 条）",
+ "hits": [
+  {
+   "cn": "经典力学",
+   "en": "classical mechanics",
+   "source": "物理学名词",
+   "wordNumber": "02.0005",
+   "subjectFullName": "物理学_力学",
+   "subjectName": "力学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "经典力学",
+   "en": "classical mechanics",
+   "source": "力学名词",
+   "wordNumber": null,
+   "subjectFullName": "力学_力学通类",
+   "subjectName": "力学通类",
+   "publishYear": "1993",
+   "definition": ""
+  },
+  {
+   "cn": "颗粒界面力学",
+   "en": "particles interface mechanics",
+   "source": "机械工程名词 第一分册",
+   "wordNumber": "05.0048",
+   "subjectFullName": "机械工程（一）_机械表面与界面_机械表界面行为及特征_固体表面及其接触",
+   "subjectName": "固体表面及其接触",
+   "publishYear": "2021",
+   "definition": "研究颗粒与基体界面之间结合状态的学科。"
+  },
+  {
+   "cn": "古典学",
+   "en": "Classics",
+   "source": "世界历史名词",
+   "wordNumber": "02.0257",
+   "subjectFullName": "世界历史_古代中世纪_希腊",
+   "subjectName": "希腊",
+   "publishYear": "2012",
+   "definition": "专门研究公元前2000年至6世纪希腊罗马文明的一门学问。"
+  },
+  {
+   "cn": "新古典主义",
+   "en": "neo-classicism,classical revival",
+   "source": "建筑学名词",
+   "wordNumber": "03.0339",
+   "subjectFullName": "建筑学_中外建筑历史_外国19~20世纪建筑",
+   "subjectName": "外国19~20世纪建筑",
+   "publishYear": "2014",
+   "definition": "18世纪60年代到19世纪流行于欧美国家的一种学院派建筑思潮。其建筑形式的基本语言来自古代希腊、罗马的建筑范例，主要出现于国家大型公共建筑和纪念性建筑。代表建筑师有卡尔·弗里德里希·申克尔(Karl "
+  },
+  {
+   "cn": "颗粒",
+   "en": "particle",
+   "source": "机械工程名词 第二分册",
+   "wordNumber": "07.021",
+   "subjectFullName": "机械工程（二）_机械制造工艺与设备_粉末冶金_粉末制取",
+   "subjectName": "粉末制取",
+   "publishYear": "2021",
+   "definition": "用一般分离方法不容易再分的构成粉末体的单体。"
+  },
+  {
+   "cn": "颗粒",
+   "en": "particle",
+   "source": "冶金学名词",
+   "wordNumber": "08.0166",
+   "subjectFullName": "冶金学_金属材料_粉末冶金",
+   "subjectName": "粉末冶金",
+   "publishYear": "2019",
+   "definition": "在毫米到纳米之间尺寸范围内具有特定形状的几何体。是不易用普通方法再分的、组成粉末体的最小单位或个体。"
+  },
+  {
+   "cn": "颗粒",
+   "en": "particle",
+   "source": "化工名词(三)化学工程基础",
+   "wordNumber": "03.0999",
+   "subjectFullName": "化工（三）_传递过程与单元操作",
+   "subjectName": "传递过程与单元操作",
+   "publishYear": "2019",
+   "definition": "小而接近球形的物质。最简单的颗粒形状是球形。"
+  },
+  {
+   "cn": "粒子",
+   "en": "particle",
+   "source": "核医学名词",
+   "wordNumber": "02.0018",
+   "subjectFullName": "核医学_核医学相关基础学科_原子物理与核物理",
+   "subjectName": "原子物理与核物理",
+   "publishYear": "2018",
+   "definition": "比原子核小的基本物质构成单位。根据作用力的不同，分为强子、轻子和媒介子(传播子)三类。"
+  },
+  {
+   "cn": "刨花",
+   "en": "particle",
+   "source": "林学名词",
+   "wordNumber": "11.419",
+   "subjectFullName": "林学_木材科学与技术_人造板及木基复合材料",
+   "subjectName": "人造板及木基复合材料",
+   "publishYear": "2016",
+   "definition": "具有一定形态和尺寸的片状、棒状和颗粒状等碎料的统称。如大片刨花(flake)、华夫刨花(wafer)、定向刨花(strand)、细刨花(fine particle)、粗刨花(rough particl"
+  },
+  {
+   "cn": "大粒子",
+   "en": "particle",
+   "source": "建筑学名词",
+   "wordNumber": "11.0167",
+   "subjectFullName": "建筑学_建筑防护_洁净、防尘",
+   "subjectName": "洁净、防尘",
+   "publishYear": "2014",
+   "definition": "具有当量直径大于5μm的粒子。"
+  },
+  {
+   "cn": "粒子",
+   "en": "particle",
+   "source": "药学名词",
+   "wordNumber": "02.196",
+   "subjectFullName": "药学_药剂学",
+   "subjectName": "药剂学",
+   "publishYear": "2014",
+   "definition": "粉体运动的最小单元。"
+  },
+  {
+   "cn": "助词",
+   "en": "particle",
+   "source": "语言学名词",
+   "wordNumber": "04.054",
+   "subjectFullName": "语言学_语法学_词法",
+   "subjectName": "词法",
+   "publishYear": "2011",
+   "definition": "附加在词或短语上，表示某种语法意义的词。例如“所”“的”“着”“似的”。"
+  },
+  {
+   "cn": "刨花",
+   "en": "particle",
+   "source": "材料科学技术名词",
+   "wordNumber": "07.0697",
+   "subjectFullName": "材料科学技术_天然材料_木材_人造板",
+   "subjectName": "人造板",
+   "publishYear": "2011",
+   "definition": "木材或其他非木材植物材料，经机械加工得到的各种规格和形态的刨花。"
+  },
+  {
+   "cn": "颗粒",
+   "en": "particle",
+   "source": "化学工程名词",
+   "wordNumber": "03.618",
+   "subjectFullName": "化学工程_传递过程与单元操作_固体过程_颗粒学与流态化",
+   "subjectName": "颗粒学与流态化",
+   "publishYear": "1995",
+   "definition": ""
+  },
+  {
+   "cn": "微粒物",
+   "en": "particles",
+   "source": "公路交通科技名词",
+   "wordNumber": "10.022",
+   "subjectFullName": "公路交通科学技术_公路环境保护",
+   "subjectName": "公路环境保护",
+   "publishYear": "1996",
+   "definition": ""
+  },
+  {
+   "cn": "γ粒",
+   "en": "γ-particle",
+   "source": "植物学名词",
+   "wordNumber": "05.0075",
+   "subjectFullName": "植物学_真菌学",
+   "subjectName": "真菌学",
+   "publishYear": "2019",
+   "definition": "由膜包裹的微小球状体。参与芽枝霉休眠孢子或休止游动孢子壁的形成。"
+  },
+  {
+   "cn": "α 粒子",
+   "en": "alpha particle,α-particle",
+   "source": "物理学名词",
+   "wordNumber": "09.0122",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_原子核物理学",
+   "subjectName": "原子核物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "β 粒子",
+   "en": "beta particle,β-particle",
+   "source": "物理学名词",
+   "wordNumber": "09.0123",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_原子核物理学",
+   "subjectName": "原子核物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "γ粒",
+   "en": "gamma particle,γ-particle",
+   "source": "微生物学名词",
+   "wordNumber": "03.263",
+   "subjectFullName": "微生物学_微生物形态与结构",
+   "subjectName": "微生物形态与结构",
+   "publishYear": "2012",
+   "definition": "由膜包裹的微小球状体，参与芽枝霉休眠孢子或者休止游动孢子壁的形成。"
+  },
+  {
+   "cn": "古典",
+   "en": "classical",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "质点，粒子",
+   "en": "particle",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "粒子",
+   "en": "particle",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "刨花",
+   "en": "particle",
+   "source": "海峡两岸材料科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "材料科学技术",
+   "subjectName": "材料科学技术",
+   "publishYear": "2014",
+   "definition": ""
+  },
+  {
+   "cn": "传统分类学（=经典分类学）",
+   "en": "classical taxonomy",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "经典分类学，传统分类学",
+   "en": "classical taxonomy",
+   "source": "海峡两岸植物学名词",
+   "wordNumber": null,
+   "subjectFullName": "植物学",
+   "subjectName": "植物学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "古典交响曲",
+   "en": "Classical Symphony",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词_外国作品名",
+   "subjectName": "外国作品名",
+   "publishYear": "2016",
+   "definition": "作曲家原名：Prokofiev, Sergey"
+  },
+  {
+   "cn": "前古典",
+   "en": "pre-classical",
+   "source": "海峡两岸音乐名词",
+   "wordNumber": null,
+   "subjectFullName": "音乐名词",
+   "subjectName": "音乐名词",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "经典性条件反射,经典条件作用",
+   "en": "classical conditioning",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "经典积分",
+   "en": "classical integral",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "经典天文学",
+   "en": "classical astronomy",
+   "source": "海峡两岸天文学名词",
+   "wordNumber": null,
+   "subjectFullName": "天文学",
+   "subjectName": "天文学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "经典热力学",
+   "en": "classical thermodynamics",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "古典地方",
+   "en": "classical lands",
+   "source": "海峡两岸地理学名词",
+   "wordNumber": null,
+   "subjectFullName": "地理学",
+   "subjectName": "地理学",
+   "publishYear": "2011",
+   "definition": ""
+  },
+  {
+   "cn": "经典假说",
+   "en": "classical hypothesis",
+   "source": "海峡两岸细胞生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "细胞生物学",
+   "subjectName": "细胞生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "经典逻辑",
+   "en": "classical logic",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "经方",
+   "en": "classical prescriptions",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "絮凝粒子",
+   "en": "flocculent particle\",\"floc particle",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "力学",
+   "en": "mechanics",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "机制",
+   "en": "mechanism",
+   "source": "海峡两岸信息科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "信息科学技术",
+   "subjectName": "信息科学技术",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "核糖核蛋白颗粒",
+   "en": "ribonucleoprotein particle",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "经典",
+   "en": "Classics",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "书院",
+   "en": "Classical Academy",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "历史",
+   "subjectName": "历史",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "典雅",
+   "en": "Classical Elegance",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "五经",
+   "en": "Five Classics",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "经学",
+   "en": "Classics Scholarship",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "哲学",
+   "subjectName": "哲学",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "传统防守姿势",
+   "en": "classic guard",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_拳击名词",
+   "subjectName": "拳击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "精英赛",
+   "en": "classic event",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "机械师",
+   "en": "mechanic",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "机械师",
+   "en": "mechanic",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_自行车名词",
+   "subjectName": "自行车名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "机械师",
+   "en": "mechanic",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_奥运基本名词",
+   "subjectName": "奥运基本名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "数据质点",
+   "en": "data particle",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "天使粒子",
+   "en": "angel particle",
+   "source": "大数据百科术语辞典",
+   "wordNumber": null,
+   "subjectFullName": "其他",
+   "subjectName": "其他",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "带电粒子",
+   "en": "charged particle",
+   "source": "放射卫生学",
+   "wordNumber": "3.1.9",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_核物理基本概念",
+   "subjectName": "核物理基本概念",
+   "publishYear": "2025",
+   "definition": "带有正电荷或负电荷的微粒。如离子、电子、质子、氦核等。"
+  },
+  {
+   "cn": "不带电粒子",
+   "en": "uncharged particle",
+   "source": "放射卫生学",
+   "wordNumber": "3.1.14",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_核物理基本概念",
+   "subjectName": "核物理基本概念",
+   "publishYear": "2025",
+   "definition": "净电荷为0的微粒。常见的有光子、中子。"
+  },
+  {
+   "cn": "粒子注量",
+   "en": "particle fluence",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.2.1",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_电离辐射场物理量",
+   "subjectName": "电离辐射场物理量",
+   "publishYear": "2025",
+   "definition": "辐射场中粒子密度的量度。一定时间内，进入到辐射场以某点为球心的单位截面积小球的累计粒子数。SI单位为每平方米，记作m-2。"
+  },
+  {
+   "cn": "粒子辐射度",
+   "en": "particle radiance",
+   "source": "放射卫生学",
+   "wordNumber": "3.2.2.3",
+   "subjectFullName": "放射卫生学_辐射防护相关的量和单位_基本物理量_电离辐射场物理量",
+   "subjectName": "电离辐射场物理量",
+   "publishYear": "2025",
+   "definition": "单位时间内，沿某方向的单位立体角，进入到辐射场以某点为球心的单位截面积小球的粒子数。SI单位为每平方米每秒每球面度，记作m-2·s-1·sr-1。"
+  },
+  {
+   "cn": "粒子加速器",
+   "en": "particle accelerator",
+   "source": "放射卫生学",
+   "wordNumber": "6.5.1.2",
+   "subjectFullName": "放射卫生学_放射防护_工业应用的放射防护_加速器应用",
+   "subjectName": "加速器应用",
+   "publishYear": "2025",
+   "definition": "将带电粒子（如电子、质子、氚核以及α粒子等）加速，使其动能增加（一般指大于0.1 MeV）的装置。"
+  },
+  {
+   "cn": "经典测验理论",
+   "en": "classical test theory",
+   "source": "社会学名词",
+   "wordNumber": "1.2.4.34",
+   "subjectFullName": "社会学名词_社会学理论与方法_社会学研究方法_数据收集",
+   "subjectName": "数据收集",
+   "publishYear": "2025",
+   "definition": "基于真值与误差之间的区分而提出的测量理论。认为测量工具所得到的结果是观察值，包括了测量对象的真值和误差值，并运用相应的统计技术评估一次测验中观测值的信度，计算观测值和真值间的关联强度。"
+  },
+  {
+   "cn": "德国古典哲学",
+   "en": "German classical philosophy",
+   "source": "马克思主义",
+   "wordNumber": "01.0111",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "主要代表人物是康德、费希特、谢林、黑格尔和费尔巴哈。它经历了从唯心主义到唯物主义两个发展阶段，是德国当时社会关系的必然产物，为德国1848年资产阶级政治革命作了先导。它是马克思主义哲学的理论来源。"
+  },
+  {
+   "cn": "消毒机理",
+   "en": "disinfection mechanism",
+   "source": "消毒学",
+   "wordNumber": "1.1.7",
+   "subjectFullName": "消毒学_消毒学_消毒",
+   "subjectName": "消毒",
+   "publishYear": "2025",
+   "definition": "消毒因子对微生物在细胞和分子层面作用的原理。"
+  },
+  {
+   "cn": "机械通风",
+   "en": "mechanical ventilation",
+   "source": "消毒学",
+   "wordNumber": "1.8.17",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "依靠风机提供的风压、风量，有效地将室内外空气交换的通风换气方式。"
+  },
+  {
+   "cn": "机械排风",
+   "en": "mechanical exhaust",
+   "source": "消毒学",
+   "wordNumber": "1.8.17.2",
+   "subjectFullName": "消毒学_消毒学_其他",
+   "subjectName": "其他",
+   "publishYear": "2025",
+   "definition": "依靠风机提供的风压、风量，将室内空气排出室外的过程。在密闭条件下，室内一般处于相对负压状态。"
+  },
+  {
+   "cn": "机械传播",
+   "en": "mechanical transmission",
+   "source": "消毒学",
+   "wordNumber": "4.1.4.13.5.3",
+   "subjectFullName": "消毒学_消毒应用_环境消毒",
+   "subjectName": "环境消毒",
+   "publishYear": "2025",
+   "definition": "病原体仅通过节肢动物的携带传递到人的传播方式。"
+  },
+  {
+   "cn": "机械清洗",
+   "en": "mechanical cleaning",
+   "source": "消毒学",
+   "wordNumber": "4.6.19.4.3",
+   "subjectFullName": "消毒学_消毒应用_医院消毒",
+   "subjectName": "医院消毒",
+   "publishYear": "2025",
+   "definition": "通过清洗机清洗的方式对医疗器械和相关物品进行的清洗。"
+  },
+  {
+   "cn": "社会机制",
+   "en": "social mechanism",
+   "source": "社会学名词",
+   "wordNumber": "2.1.3.12",
+   "subjectFullName": "社会学名词_社会学一般概念_社会_社会存在",
+   "subjectName": "社会存在",
+   "publishYear": "2025",
+   "definition": "社会运行中各部分之间的相互关系及其相互作用的方式。包括社会的层次机制、社会的形式机制、社会的功能机制三种基本类型，以及社会动力机制、社会整合机制、社会控制机制、社会激励机制和社会保障机制等具体类型。"
+  },
+  {
+   "cn": "规范机制",
+   "en": "normative mechanism",
+   "source": "社会学名词",
+   "wordNumber": "3.5.3.19",
+   "subjectFullName": "社会学名词_分支社会学_经济社会学_新经济社会学",
+   "subjectName": "新经济社会学",
+   "publishYear": "2025",
+   "definition": "在专业性很强和专业要求很高的组织领域，如大学和医院，不成文的专业规范规范通过专业教育进入从业人员的大脑，进而影响组织的制度结构的过程。保罗·迪马吉奥（Paul J.DiMaggio）和沃尔特•鲍威尔（"
+  },
+  {
+   "cn": "机械唯物主义",
+   "en": "mechanical materialism",
+   "source": "马克思主义",
+   "wordNumber": "01.0108",
+   "subjectFullName": "马克思主义_哲学_马克思恩格斯时期",
+   "subjectName": "马克思恩格斯时期",
+   "publishYear": "2025",
+   "definition": "唯物主义发展的第二种形态。以孤立的、静止的、片面的观点解释自然界的一切现象和过程及认识论问题的唯物主义哲学。它具有以下局限性：机械性、形而上学性、不彻底性。主要代表人物有霍布斯（Thomas Hobb"
+  },
+  {
+   "cn": "市场机制",
+   "en": "market mechanism",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.1.1",
+   "subjectFullName": "",
+   "subjectName": "市场",
+   "publishYear": "2025",
+   "definition": "市场上供求、价格、竞争、风险等各种要素相互作用、相互制约所构成的经济运行的内在机理。是商品经济条件下，社会经济运行和资源配置的基础性调节机制，是商品经济的普遍规律即价值规律的具体表现和作用形式。规律即"
+  },
+  {
+   "cn": "价格机制",
+   "en": "price mechanism",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.1.1.1",
+   "subjectFullName": "",
+   "subjectName": "市场",
+   "publishYear": "2025",
+   "definition": "在市场运行过程中，市场上某种商品或服务的价格变动与该商品或服务供求变动的关系，是市场机制的核心。"
+  },
+  {
+   "cn": "风险机制",
+   "en": "risk mechanism",
+   "source": "卫生经济学名词",
+   "wordNumber": "6.1.1.4",
+   "subjectFullName": "",
+   "subjectName": "市场",
+   "publishYear": "2025",
+   "definition": "在利益的诱惑下，风险作为一种外在压力与竞争及供求共同作用于市场主体，共同调节市场运行的一种约束机制。"
+  },
+  {
+   "cn": "预先支付机制",
+   "en": "prepayment mechanism",
+   "source": "卫生经济学名词",
+   "wordNumber": "9.2.3.1",
+   "subjectFullName": "卫生经济学名词_卫生筹资_卫生资金筹集",
+   "subjectName": "卫生资金筹集",
+   "publishYear": "2025",
+   "definition": "在医疗费用发生之前，政府或保险方按一定的标准将医疗费用预先支付给医疗服务提供方的一种卫生资金筹集机制，支付标准在一定时期内是固定的，一段时期后按实际情况的变化再做相应的调整。"
+  },
+  {
+   "cn": "泌乳机理",
+   "en": "lactation mechanism",
+   "source": "妇幼卫生学名词",
+   "wordNumber": "6.1.4.4",
+   "subjectFullName": "",
+   "subjectName": "妇女营养",
+   "publishYear": "2025",
+   "definition": "母亲分娩后体内雌激素及黄体酮迅速下降，催乳素上升，婴儿吸吮乳头和乳晕，通过神经至脑垂体，促进催乳素和催产素分泌，刺激乳腺细胞分泌乳汁，腺泡和乳腺导管周围平滑肌收缩引起射乳的生物学现象。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}

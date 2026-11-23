@@ -1,0 +1,672 @@
+{
+ "key": "toxin puzzle",
+ "term": "toxin puzzle",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-23T06:00:18+00:00",
+ "status": "ok",
+ "note": "variant=toxin puzzle; 审定公布名词库=622; 海峡两岸名词对照库=86; 其他来源数据库=11; 预公布名词数据库=50; jwt-direct（JWT 直连，raw 略；已滤维基 5 条）",
+ "hits": [
+  {
+   "cn": "疑难",
+   "en": "puzzle",
+   "source": "物理学名词",
+   "wordNumber": "01.0173",
+   "subjectFullName": "物理学_通类_物理",
+   "subjectName": "物理",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "李约瑟难题",
+   "en": "Needham Puzzle",
+   "source": "自然辩证法名词",
+   "wordNumber": "01.121",
+   "subjectFullName": "自然辩证法_总论_历史上的重要流派和思想",
+   "subjectName": "历史上的重要流派和思想",
+   "publishYear": "2024",
+   "definition": "英国科学史家李约瑟提出：中国古代科学很发达，为什么近代科学没有产生在中国？引起科学史界广泛争论。"
+  },
+  {
+   "cn": "解谜",
+   "en": "puzzle solving",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.180",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会_历史转向",
+   "subjectName": "历史转向",
+   "publishYear": "2024",
+   "definition": "库恩认为，在常规科学中，科学家们试图拓展相关范式的应用范围的研究活动，类似于拼图游戏的玩家试图解谜的活动。"
+  },
+  {
+   "cn": "“兔子”难题",
+   "en": "“gavagai” puzzle",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.666",
+   "subjectFullName": "自然辩证法_科学哲学_分支科学哲学_信息哲学",
+   "subjectName": "信息哲学",
+   "publishYear": "2024",
+   "definition": "蒯因论述翻译的不确定性时举的例子。在一种语言的使用中，其使用者每当兔子出现时都会发出“兔子”这个词，对这种语言一无所知的人无法判定这个词对应其他语言中的哪个词，可能存在多种对应的翻译。"
+  },
+  {
+   "cn": "红利之谜",
+   "en": "dividend puzzle",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0139",
+   "subjectFullName": "管理科学技术_金融工程_原理",
+   "subjectName": "原理",
+   "publishYear": "2016",
+   "definition": "发放红利的多少对股东财富有无影响，出于不同假设，可得出相应不同的解论。"
+  },
+  {
+   "cn": "θ-τ 疑难",
+   "en": "theta-tau puzzle",
+   "source": "物理学名词",
+   "wordNumber": "09.1409",
+   "subjectFullName": "物理学_原子核物理学、粒子物理学_粒子物理学",
+   "subjectName": "粒子物理学",
+   "publishYear": "2019",
+   "definition": ""
+  },
+  {
+   "cn": "毒素",
+   "en": "toxin",
+   "source": "农学名词",
+   "wordNumber": "10.027",
+   "subjectFullName": "植物保护_作物病害",
+   "subjectName": "作物病害",
+   "publishYear": "2025",
+   "definition": "病原物产生的干扰植物正常生理功能，导致植物发病的次生代谢产物。"
+  },
+  {
+   "cn": "毒素",
+   "en": "toxin",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "2.085",
+   "subjectFullName": "生物化学与分子生物学_氨基酸_肽与蛋白质_蛋白质_功能性蛋白质",
+   "subjectName": "功能性蛋白质",
+   "publishYear": "2024",
+   "definition": "各类生物（包括细菌、植物和动物等）所产生的对其他机体有毒性的物质。包括内毒素和外毒素。可以是小分子、短肽或蛋白质等。"
+  },
+  {
+   "cn": "毒素",
+   "en": "toxin",
+   "source": "兽医学名词",
+   "wordNumber": "11.016",
+   "subjectFullName": "兽医学_兽医毒理学",
+   "subjectName": "兽医毒理学",
+   "publishYear": "2023",
+   "definition": "由活的机体产生的，其化学结构尚不完全清楚的特殊毒物。在确定其化学结构和阐明其特性后，往往按化学结构重新命名。"
+  },
+  {
+   "cn": "毒素",
+   "en": "toxin ",
+   "source": "草学名词",
+   "wordNumber": "7.0339",
+   "subjectFullName": "草学_草原灾害与保护_草地保护",
+   "subjectName": "草地保护",
+   "publishYear": "2022",
+   "definition": ""
+  },
+  {
+   "cn": "毒素",
+   "en": "toxin",
+   "source": "感染病学名词",
+   "wordNumber": "01.0127",
+   "subjectFullName": "感染病学_总论_病原体毒力因子",
+   "subjectName": "病原体毒力因子",
+   "publishYear": "2019",
+   "definition": "生物在生长代谢过程中产生的有毒化学物质。可分为蛋白毒素和非蛋白毒素。"
+  },
+  {
+   "cn": "毒素",
+   "en": "toxin",
+   "source": "药学名词",
+   "wordNumber": "07.229",
+   "subjectFullName": "药学_药理学",
+   "subjectName": "药理学",
+   "publishYear": "2014",
+   "definition": "生物体所生产出来的毒物。这些物质通常是一些会干扰生物体中其他大分子作用的蛋白质或非蛋白质。"
+  },
+  {
+   "cn": "毒",
+   "en": "toxin",
+   "source": "中医药学名词（2013）",
+   "wordNumber": "01.013",
+   "subjectFullName": "中医药学_外科学_病因病机",
+   "subjectName": "病因病机",
+   "publishYear": "2013",
+   "definition": "导致机体阴阳平衡严重失调，对机体产生较大不利影响的病理因素。"
+  },
+  {
+   "cn": "毒素",
+   "en": "toxin",
+   "source": "微生物学名词",
+   "wordNumber": "08.175",
+   "subjectFullName": "微生物学_应用微生物学",
+   "subjectName": "应用微生物学",
+   "publishYear": "2012",
+   "definition": "微生物产生的对他种生物体有毒性的产物。"
+  },
+  {
+   "cn": "δ毒素",
+   "en": "δ-toxin",
+   "source": "生物化学与分子生物学名词",
+   "wordNumber": "2.0853",
+   "subjectFullName": "生物化学与分子生物学_氨基酸_肽与蛋白质_蛋白质_功能性蛋白质",
+   "subjectName": "功能性蛋白质",
+   "publishYear": "2024",
+   "definition": "金黄色葡萄球菌产生的一种含有26个氨基酸残基的肽。可溶解在苯酚中，含有两亲性螺旋结构（故具有类似去污剂的性质），可以非特异性地在细胞膜上组装成孔道而产生广谱的细胞裂解毒性。"
+  },
+  {
+   "cn": "红疹毒素",
+   "en": "dick toxin,elythrogenic toxin,scarlatinal toxin",
+   "source": "烧伤学名词",
+   "wordNumber": "03.227",
+   "subjectFullName": "烧伤学_烧伤并发症_烧伤后脑、肠道损伤及其他脏器和系统损伤",
+   "subjectName": "烧伤后脑、肠道损伤及其他脏器和系统损伤",
+   "publishYear": "2019",
+   "definition": "金黄色葡萄球菌的一种外毒素。能够使新生鼠产生皮肤剥脱，是猩红热样葡萄球菌感染的致病因子。"
+  },
+  {
+   "cn": "拼版模型",
+   "en": "jig-saw puzzle model",
+   "source": "生物物理学名词",
+   "wordNumber": "02.086",
+   "subjectFullName": "生物物理学_分子与结构生物学_蛋白质折叠",
+   "subjectName": "蛋白质折叠",
+   "publishYear": "2018",
+   "definition": "蛋白质折叠机制的一种理论模型。认为多肽链可以沿多条不同的途径进行折叠，在沿每条途径折叠的过程中都是天然结构越来越多，最终都能形成天然构象，而且沿每条途径的折叠速度都较快，与单一途径折叠方式相比，多肽链"
+  },
+  {
+   "cn": "封闭式基金之谜",
+   "en": "close-end fund puzzle",
+   "source": "管理科学技术名词",
+   "wordNumber": "07.0142",
+   "subjectFullName": "管理科学技术_金融工程_原理",
+   "subjectName": "原理",
+   "publishYear": "2016",
+   "definition": "资本市场上封闭式基金以低于其每股资产净值的价格在市场上交易，即存在持续的、难以用传统的有效市场理论加以解释的高折价现象。"
+  },
+  {
+   "cn": "肉毒毒素",
+   "en": "botulinum toxin",
+   "source": "普通外科学名词",
+   "wordNumber": "11.123",
+   "subjectFullName": "医学_普通外科学_外科感染",
+   "subjectName": "外科感染",
+   "publishYear": "2026",
+   "definition": "肉毒梭菌产生的含有高分子蛋白的神经毒素，毒性强烈，可抑制神经末梢释放乙酰胆碱，引起肌肉松弛麻痹。"
+  },
+  {
+   "cn": "肉毒毒素",
+   "en": "botulinum toxin",
+   "source": "整形外科名词",
+   "wordNumber": "8.002",
+   "subjectFullName": "整形外科_整形外科注射治疗_肉毒毒素注射",
+   "subjectName": "肉毒毒素注射",
+   "publishYear": "2026",
+   "definition": "由厌氧的肉毒梭菌（梭状芽孢杆菌属）产生的一种细菌外毒素制成的制剂。是很强的神经毒素，可以阻断神经肌肉的连接，造成肌肉松弛麻痹。在整形美容方面的应用主要是除皱、调整面部表情、缩小肌肉、治疗肌肉痉挛等。依"
+  },
+  {
+   "cn": "迷箱",
+   "en": "puzzle box",
+   "source": "海峡两岸心理学名词",
+   "wordNumber": null,
+   "subjectFullName": "心理学",
+   "subjectName": "心理学",
+   "publishYear": "2016",
+   "definition": ""
+  },
+  {
+   "cn": "股本溢价之谜",
+   "en": "equity premium puzzle",
+   "source": "海峡两岸经贸名词",
+   "wordNumber": null,
+   "subjectFullName": "经贸",
+   "subjectName": "经贸",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "毒素",
+   "en": "toxin",
+   "source": "海峡两岸解剖与组织胚胎学名词",
+   "wordNumber": null,
+   "subjectFullName": "解剖与组织胚胎学",
+   "subjectName": "解剖与组织胚胎学",
+   "publishYear": "2021",
+   "definition": ""
+  },
+  {
+   "cn": "毒素",
+   "en": "toxin",
+   "source": "海峡两岸化学工程名词",
+   "wordNumber": null,
+   "subjectFullName": "化学工程",
+   "subjectName": "化学工程",
+   "publishYear": "2017",
+   "definition": ""
+  },
+  {
+   "cn": "毒素",
+   "en": "toxin",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "毒素",
+   "en": "toxin",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "毒素",
+   "en": "toxin",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "毒素",
+   "en": "toxin",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "δ毒素",
+   "en": "δ-toxin",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "蝎毒素",
+   "en": "scorpion toxin",
+   "source": "海峡两岸化学名词",
+   "wordNumber": null,
+   "subjectFullName": "化学",
+   "subjectName": "化学",
+   "publishYear": "2013",
+   "definition": ""
+  },
+  {
+   "cn": "贝[类]毒[素]",
+   "en": "shellfish toxin",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "藻毒素",
+   "en": "algal toxin",
+   "source": "海峡两岸海洋科学技术名词",
+   "wordNumber": null,
+   "subjectFullName": "海洋科学技术",
+   "subjectName": "海洋科学技术",
+   "publishYear": "2012",
+   "definition": ""
+  },
+  {
+   "cn": "毒素中和作用",
+   "en": "toxin neutralization",
+   "source": "海峡两岸免疫学名词",
+   "wordNumber": null,
+   "subjectFullName": "免疫学",
+   "subjectName": "免疫学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "霍乱毒素",
+   "en": "cholera toxin",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "膜毒素",
+   "en": "membrane toxin",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "破伤风毒素",
+   "en": "tetanus toxin",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "肉毒杆菌毒素",
+   "en": "botulinus toxin",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "肉毒杆菌毒素",
+   "en": "botulinum toxin",
+   "source": "海峡两岸药学名词",
+   "wordNumber": null,
+   "subjectFullName": "药学",
+   "subjectName": "药学",
+   "publishYear": "2003",
+   "definition": ""
+  },
+  {
+   "cn": "空气毒素",
+   "en": "air toxins",
+   "source": "海峡两岸大气科学名词",
+   "wordNumber": null,
+   "subjectFullName": "大气科学",
+   "subjectName": "大气科学",
+   "publishYear": "2020",
+   "definition": ""
+  },
+  {
+   "cn": "白喉毒素",
+   "en": "diphtheria toxin\",\"DT",
+   "source": "海峡两岸生物化学与分子生物学名词",
+   "wordNumber": null,
+   "subjectFullName": "生物化学与分子生物学",
+   "subjectName": "生物化学与分子生物学",
+   "publishYear": "2010",
+   "definition": ""
+  },
+  {
+   "cn": "鼻笼",
+   "en": "muzzle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "枪口火舌",
+   "en": "muzzle flash",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_射击名词",
+   "subjectName": "射击名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "枪口火舌",
+   "en": "muzzle flash",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_现代五项名词",
+   "subjectName": "现代五项名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "白色鼻笼",
+   "en": "white muzzle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_马术名词",
+   "subjectName": "马术名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "旋涡",
+   "en": "puddle",
+   "source": "奥运体育项目名词",
+   "wordNumber": null,
+   "subjectFullName": "奥运体育项目名词_赛艇名词",
+   "subjectName": "赛艇名词",
+   "publishYear": "2008",
+   "definition": ""
+  },
+  {
+   "cn": "紫之夺朱",
+   "en": "Purple Prevailing over Red",
+   "source": "中华思想文化术语传播工程",
+   "wordNumber": null,
+   "subjectFullName": "文艺",
+   "subjectName": "文艺",
+   "publishYear": "暂无年份",
+   "definition": ""
+  },
+  {
+   "cn": "解谜",
+   "en": "puzzle solving",
+   "source": "自然辩证法名词",
+   "wordNumber": "03.180",
+   "subjectFullName": "自然辩证法_科学哲学_一般科学哲学_科学哲学的社会-历史转向",
+   "subjectName": "科学哲学的社会-历史转向",
+   "publishYear": "2025",
+   "definition": "库恩认为，在常规科学中，科学家们试图拓展相关范式的应用范围的研究活动，类似于拼图游戏的玩家试图解谜的活动。"
+  },
+  {
+   "cn": "肉毒毒素",
+   "en": "botulinum toxin",
+   "source": "军事预防医学名词",
+   "wordNumber": "9.1.1.6.1",
+   "subjectFullName": "军事预防医学_生物武器医学防护学_生物武器",
+   "subjectName": "生物武器",
+   "publishYear": "2025",
+   "definition": "肉毒梭菌产生的神经毒素，可作为毒素类生物战剂。"
+  },
+  {
+   "cn": "肉毒毒素",
+   "en": "botulinum toxin",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.1.1.37",
+   "subjectFullName": "食品卫生学_食品污染_食品生物性危害因素",
+   "subjectName": "食品生物性危害因素",
+   "publishYear": "2025",
+   "definition": "肉毒梭菌产生的神经毒素，是目前已知最强烈的生物毒素，主要抑制神经末梢释放乙酰胆碱，引起肌肉松弛麻痹，特别是呼吸肌麻痹，是致死的主要原因。"
+  },
+  {
+   "cn": "蘑菇毒素",
+   "en": "mushroom toxin",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.2.5.39",
+   "subjectFullName": "食品卫生学_食品污染_食品化学性危害因素",
+   "subjectName": "食品化学性危害因素",
+   "publishYear": "2025",
+   "definition": "大型真菌的子实体产生的、人或畜禽食用后可致中毒的物质。"
+  },
+  {
+   "cn": "交链孢霉毒素",
+   "en": "alternaria toxin",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.2.5.11",
+   "subjectFullName": "食品卫生学_食品污染_食品化学性危害因素",
+   "subjectName": "食品化学性危害因素",
+   "publishYear": "2025",
+   "definition": "链格孢菌分泌的毒素。共分四类，分别为二苯并吡喃酮衍生物、四氨基酸衍生物、苝衍生物和长链氨基多元醇的丙三羧酸酯类化合物。毒素影响宿主质膜透性、激素平衡及代谢过程等。食用被毒素污染的饲料，畜禽可出现发育迟"
+  },
+  {
+   "cn": "单端孢霉烯族毒素",
+   "en": "trichothecene toxin",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.2.5.4",
+   "subjectFullName": "食品卫生学_食品污染_食品化学性危害因素",
+   "subjectName": "食品化学性危害因素",
+   "publishYear": "2025",
+   "definition": "由镰刀菌分泌的真菌毒素。其中A型单端孢霉烯族毒素包括T-2 毒素、HT-2 毒素等；B型单端孢霉烯族毒素包括脱氧雪腐镰刀菌烯醇等。易污染小麦、玉米等谷物，可抑制蛋白质、DNA和RNA的合成，导致动物机"
+  },
+  {
+   "cn": "葡萄球菌肠毒素",
+   "en": "Staphyloentero-toxin",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.2.1.1",
+   "subjectFullName": "食品卫生学_食源性疾病_中毒型食源性疾病",
+   "subjectName": "中毒型食源性疾病",
+   "publishYear": "2025",
+   "definition": "葡萄球菌代谢过程中产生的一种细菌外毒素，主要作用于肠道，为可溶性蛋白质，具有耐热性强特点，前发现A、B、C、D、E 五个主要血清型，其中A 型毒力最强，也在葡萄球菌毒素中毒中最为多见。"
+  },
+  {
+   "cn": "T-2",
+   "en": "T-2 toxin",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.2.5.6",
+   "subjectFullName": "食品卫生学_食品污染_食品化学性危害因素",
+   "subjectName": "食品化学性危害因素",
+   "publishYear": "2025",
+   "definition": "化学式C₂₄H₃₄O₉，由镰孢霉产生的一种Ａ型单端孢霉烯族化合物，易污染多种谷物，可引起食物中毒性白细胞缺乏病。"
+  },
+  {
+   "cn": "产毒试验",
+   "en": "toxin production test",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.1.1.66",
+   "subjectFullName": "食品卫生学_食品污染_食品生物性危害因素",
+   "subjectName": "食品生物性危害因素",
+   "publishYear": "2025",
+   "definition": "通过实验室手段，模拟生物体的生理环境，研究生物体在特定条件下产生毒素的规律和机制。"
+  },
+  {
+   "cn": "生物毒素",
+   "en": "biological toxin，biotoxin",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.2.5",
+   "subjectFullName": "食品卫生学_食品污染_食品化学性危害因素",
+   "subjectName": "食品化学性危害因素",
+   "publishYear": "2025",
+   "definition": "生物来源并不可自复制的有毒化学物质，包括动物、植物、微生物产生的对其他生物物种有毒害作用的各种化学物质。"
+  },
+  {
+   "cn": "毒素战剂",
+   "en": "toxin warfare agent",
+   "source": "军事预防医学名词",
+   "wordNumber": "10.5.11.1",
+   "subjectFullName": "军事预防医学_化学武器医学防护学_化学战剂",
+   "subjectName": "化学战剂",
+   "publishYear": "2025",
+   "definition": "由多种生物机体(包括微生物、动物、植物等)分泌、代谢或半生物合成产生的剧毒化学物质，被应用于战争，可以直接致人或动、植物产生伤害或死亡。"
+  },
+  {
+   "cn": "麻痹性贝类毒素",
+   "en": "paralytic shellfish toxins",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.2.4.4",
+   "subjectFullName": "食品卫生学_食源性疾病_中毒型食源性疾病",
+   "subjectName": "中毒型食源性疾病",
+   "publishYear": "2025",
+   "definition": "主要由亚历山大澡等甲藻所产生的毒素，能够通过高选择性和高亲和性的阻断神经兴奋膜上纳离子通道，造成神经肌肉麻痹。"
+  },
+  {
+   "cn": "失忆性贝类毒素",
+   "en": "amnesic shellfish toxins",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.2.4.10",
+   "subjectFullName": "食品卫生学_食源性疾病_中毒型食源性疾病",
+   "subjectName": "中毒型食源性疾病",
+   "publishYear": "2025",
+   "definition": "一种由尖刺菱形藻等硅藻产生的热稳定性毒素，具有较强的神经毒性。"
+  },
+  {
+   "cn": "贝类毒素中毒",
+   "en": "shellfish toxins poisoning",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.2.4.3",
+   "subjectFullName": "食品卫生学_食源性疾病_中毒型食源性疾病",
+   "subjectName": "中毒型食源性疾病",
+   "publishYear": "2025",
+   "definition": "食用含有贝类毒素的食品所致中毒型食源性疾病。"
+  },
+  {
+   "cn": "神经毒性贝类毒素",
+   "en": "neurotoxic shellfish toxins",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.2.4.6",
+   "subjectFullName": "食品卫生学_食源性疾病_中毒型食源性疾病",
+   "subjectName": "中毒型食源性疾病",
+   "publishYear": "2025",
+   "definition": "由海洋甲藻、短凯氏藻（以前称为短裸甲藻和短盘藻）等产生的一组十多种天然神经毒素的统称，具有神经毒性和胃肠道影响"
+  },
+  {
+   "cn": "致泻性贝类毒素",
+   "en": "diarrhoeal shellfish toxins",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.2.4.8",
+   "subjectFullName": "食品卫生学_食源性疾病_中毒型食源性疾病",
+   "subjectName": "中毒型食源性疾病",
+   "publishYear": "2025",
+   "definition": "由甲藻属和原甲藻属等海洋甲藻产生的多种海洋毒素的统称"
+  },
+  {
+   "cn": "蜡样芽孢杆菌呕吐毒素",
+   "en": "bacillus cereus emetic toxin",
+   "source": "食品卫生学名词",
+   "wordNumber": "2.1.1.50",
+   "subjectFullName": "食品卫生学_食品污染_食品生物性危害因素",
+   "subjectName": "食品生物性危害因素",
+   "publishYear": "2025",
+   "definition": "由蜡样芽孢杆菌产生，为3个环状重复序列构成的12肽分子，临床上引起呕吐综合征。"
+  },
+  {
+   "cn": "细菌毒素食物中毒",
+   "en": "bacterial toxins food poisoning",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.2.1",
+   "subjectFullName": "食品卫生学_食源性疾病_中毒型食源性疾病",
+   "subjectName": "中毒型食源性疾病",
+   "publishYear": "2025",
+   "definition": "食用含有细菌毒素的食物引起的中毒型食源性疾病的统称。"
+  },
+  {
+   "cn": "麻痹性贝类毒素中毒",
+   "en": "paralytic shellfish toxins poisoning",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.2.4.5",
+   "subjectFullName": "食品卫生学_食源性疾病_中毒型食源性疾病",
+   "subjectName": "中毒型食源性疾病",
+   "publishYear": "2025",
+   "definition": "食用含有麻痹性贝类毒素的食品所致中毒型食源性疾病。"
+  },
+  {
+   "cn": "神经毒性贝类毒素中毒",
+   "en": "neurotoxic shellfish toxins poisoning",
+   "source": "食品卫生学名词",
+   "wordNumber": "3.2.4.7",
+   "subjectFullName": "食品卫生学_食源性疾病_中毒型食源性疾病",
+   "subjectName": "中毒型食源性疾病",
+   "publishYear": "2025",
+   "definition": "食用被短甲藻毒素污染的如蛤、牡蛎、贻贝等贝类及其他滤食性动物所致中毒型食源性疾病。"
+  }
+ ],
+ "error": null,
+ "raw": null
+}
