@@ -280,13 +280,19 @@ def build(md_article_html, ledger):
     blocks = split_blocks(md_article_html)
     if not blocks:
         return None
-    # ① 取 h1 与 pubinfo（合成层）
+    # ① 取 h1 与 pubinfo（合成层）；h1 **之前**的块（H0 头部图段等）按原位
+    # 发在 h1 前——C 的 md 把 h1 提到首行，R 平铺序与 H0 相同，build 不得
+    # 把这些块卷进 preamble（whitehead 判例：H0 序＝照片段→h1→pubinfo）
     title_inner = None
     pubinfo = None
     rest = []
+    pre = []
     for b in blocks:
         if title_inner is None and b.startswith("<h1>"):
             title_inner = b[len("<h1>"):-len("</h1>")]
+            continue
+        if title_inner is None:
+            pre.append(b)
             continue
         if pubinfo is None and b.startswith('<div id="pubinfo">'):
             pubinfo = b[len('<div id="pubinfo"><em>'):-len("</em></div>")]
@@ -334,6 +340,8 @@ def build(md_article_html, ledger):
             hid_map[id(b)] = next(it, None)
     # ④ 装配
     out = [PREFIX]
+    if pre:
+        out.append("\n".join(pre))
     out.append("<h1>%s</h1>" % title_inner)
     if pubinfo is not None:
         out.append('<div id="pubinfo"><em>%s</em></div>\n' % pubinfo)

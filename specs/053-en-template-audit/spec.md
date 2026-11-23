@@ -563,27 +563,45 @@ B3.2 的 sha 全等清单即 OAIS fixity 账的实现形态；与 ADR-0076 已�
 
 **教训**：①「`[…](…)` 形态＝链接」是过强假设——语法匹配必须配语义白名单；②白名单收窄要先普查**全部**合法形态（含下划线、大写段名），漏一类就失池一件；③首裂签名聚类给出的是**表层**裂点，真失败点要用贪心延伸探针（`greedy1.py`）直取。
 
+## 10.32 第三十二批：头部图组位移（photo_pre_h1 账）与 pubinfo 行位假设（2026-11-24）
+
+**缺陷一（pubinfo 行位假设）**：合成层只认 md 前三行的 `**First published…**`；H0 有头部图段的件，C 的 md 把图注行插在 pubinfo 前把它挤出前三行 → pubinfo 落成普通段落，整页段结构错位（whitehead 判例）。
+
+**缺陷二（头部图组序）**：H0 的照片/题注块在 `<h1>` **之前**（`<div class="figure wide">` img＋题注），C 的 md 把 h1 提到首行、图与题注块留在其后；R 按 md 序发则段序错位（26 页，取证普查 B_extra 29 件的主力）。
+
+**缺陷三（连锁）**：重排后题注行（纯斜体）落进主循环 `i<=3` 的作者行免发区被误吃，真作者行反被发段（berlin 判例）。
+
+**修法**：
+- pubinfo 合成层去行位上限，改为全文首个匹配行（`_PUBINFO_DONE` 只发一次）。
+- 账增 `photo_pre_h1`（H0 首个 `<h1>` 前有 `<img>` 记 1，26 页）；R 装配内部把「首个含 `![` 行＋紧邻题注行（非标题/pubinfo/列表、≤200 字符）」提到行序最前（保块间空行；img 行在 pubinfo 后即正文图，不重排）。yuanwen 不动，B3.1 无账不重排。
+- 作者行免发改**精确匹配**（`*%s* % ", ".join(meta_authors)`）＋重排跟走的题注行排除；`i<=3` 兜底保留。
+- `article_build.build` 头部块原位化：h1 **之前**的块（头部图段）不再卷进 `<div id="preamble">`，按原位发在 h1 前（H0 序＝照片段→h1→pubinfo→preamble）。
+
+**实测**：定点 21 件头部图族 19/21 可池（berlin、meinong 余 figure 包裹层形态，留逐件取证）。全量双通道（建池 → judge 独立复扫 → B3.1）：**pool 1,760→1,774（94.7%）／gap 113→99／stale 0**，池占页 **48.18%**，judge 与建池逐件同值；delta＝**gap→pool 14**（anderson-john／bradley／church／emerson／hartley／james／johann-herbart／montaigne／prior／reichenbach／reid／royce／russell／whitehead）、**失池 0**；**B3.1 1,639→1,652（+13）**——pubinfo 行位假设同时压着 13 件往返件。缺口普查刷新为 **md_extra 63／h0_extra 12／math 8／text 7／star 4／digit 3／entity 2**。
+
+**教训**：①「行位假设」是隐形耦合——合成层只认前三行，任何头部插行都会连锁破坏 pubinfo 与作者行两处；②重排会触发免发区的宽松匹配误吃（题注也是纯斜体行），宽松匹配必须配精确形态清单；③取证普查的 B_extra 标签是启发式，真因要用贪心延伸探针逐件开窗（whitehead 的「缺图注」实为段序错位＋行位假设双重因）。
+
 ## 11. 现状与下一步（开工卡，2026-11-22）
 
 **验收线现状**（现查口径，勿引快照）：
 
 | 判据 | 现状 | 取数命令 |
 | ---- | ---- | ---- |
-| B3.1 往返不动点 | **1,639/1,873（87.5%）**，第二十一批 +14（sup/sub 实体拼写右逆）、第二十五批 +1（pm-notation）、第三十一批 +1（URL 白名单）；转红 3（W8 键名漂移，定案见下） | `python -B specs/053-en-template-audit/bin/reassemble.py --all --out <json>` |
-| B3.2 页面装配 | **pool 1,760（94.0%）／gap 113／stale 0**，池占页 47.68%（2026-11-24 第三十一批全量重建＋全量 judge 双通道收官） | `python -B specs/053-en-template-audit/bin/page_assemble.py --all --build` |
+| B3.1 往返不动点 | **1,652/1,873（88.2%）**，第二十一批 +14（sup/sub 实体拼写右逆）、第二十五批 +1、第三十一批 +1（URL 白名单）、第三十二批 +13（pubinfo 行位假设）；转红 3（W8 键名漂移，定案见下） | `python -B specs/053-en-template-audit/bin/reassemble.py --all --out <json>` |
+| B3.2 页面装配 | **pool 1,774（94.7%）／gap 99／stale 0**，池占页 48.18%（2026-11-24 第三十二批全量重建＋全量 judge 双通道收官） | `python -B specs/053-en-template-audit/bin/page_assemble.py --all --build` |
 | I2/I3 转换保真 | `--gate` 0 issue（1,873 全过） | `python -B tools/check_yuanwen_fidelity.py --gate` |
 | 全库门禁 | check_all 17 项全绿 | `python -B tools/check_all.py` |
 
-**缺口 113 分族**（`script/tmp/b32_families2.py <scan-json>`；分族普查须在每次转池后重跑）：2026-11-24 第三十一批收官普查为 **md_extra 74／h0_extra 13／text 9／math 8／star 4／digit 3／entity 2**。已解族：表题 `caption`（第十四批）、书目区无年份散文、书目区取域与注释（第十六批）、致谢区识别（第十七批）、related 前导竖线与希腊公式形（第十八批）、嵌套引块与 layout 陈年（第十九批）、书目散文 `note-<年>` 键（第二十批）、sup/sub 实体拼写与字形（第二十一批）、跨岛实体差（第二十二批）、行内公式 `\$` 双源（第二十三批）、题后散字与裸名条目（第二十四批）、嵌套表与管道格内 raw 表（第二十五批）、脚注引用形与内部链接消歧（第二十六批）、带片段的裸兄弟文件链（第二十七批）、宏↔裸字形之希腊-cursive 区（第二十八批）、账锚方括号保护（第二十九批）、引块形态账 bq（第三十批，前置件）、`_link` URL 白名单（第三十一批）。
+**缺口 99 分族**（`script/tmp/b32_families2.py <scan-json>`；分族普查须在每次转池后重跑）：2026-11-24 第三十二批收官普查为 **md_extra 63／h0_extra 12／math 8／text 7／star 4／digit 3／entity 2**。已解族：表题 `caption`（第十四批）、书目区无年份散文、书目区取域与注释（第十六批）、致谢区识别（第十七批）、related 前导竖线与希腊公式形（第十八批）、嵌套引块与 layout 陈年（第十九批）、书目散文 `note-<年>` 键（第二十批）、sup/sub 实体拼写与字形（第二十一批）、跨岛实体差（第二十二批）、行内公式 `\$` 双源（第二十三批）、题后散字与裸名条目（第二十四批）、嵌套表与管道格内 raw 表（第二十五批）、脚注引用形与内部链接消歧（第二十六批）、带片段的裸兄弟文件链（第二十七批）、宏↔裸字形之希腊-cursive 区（第二十八批）、账锚方括号保护（第二十九批）、引块形态账 bq（第三十批，前置件）、`_link` URL 白名单（第三十一批）、头部图组位移 photo_pre_h1＋pubinfo 行位假设（第三十二批）。
 
-**md_extra 74 件再分族（批准项①，按 `plain()` 文字流首差内容形态）**：`script/tmp/fam_md_extra2.py`（文字流首差＋H0 标记上下文）与 `classify_diff_content.py`（差异内容形态）两段可复算，2026-11-24 第三十一批复算计数：math-delim 15／space-ent 5／table-pipe 1／marker 1／其余 52：
+**md_extra 63 件再分族（批准项①，按 `plain()` 文字流首差内容形态）**：`script/tmp/fam_md_extra2.py`（文字流首差＋H0 标记上下文）与 `classify_diff_content.py`（差异内容形态）两段可复算，2026-11-24 第三十二批复算计数：math-delim 15／space-ent 5／table-pipe 1／marker 1／其余 41：
 
 | 子族 | 件数 | 判例与机制 |
 | ---- | ---- | ---- |
 | 数学定界/宏形 | 15 | 细分：显示式取域/宏形 8 件（criminal-law／geometry-finitism／logic-intensional／logic-power-games／logic-probability／propositional-function／ramsey／recursive-functions）；弯引号与 `&prime;` 实体形 3 件（generalized-quantifiers／logic-higher-order／intuitionistic-logic-development）；定界符形 1 件（discourse-representation-theory `\[\cb{`）；其余 3 件待逐件取证。希腊-cursive 族已于第二十八批清零（`&nbsp;` 填充另单列为 space-ent 5 件） |
 | 空白实体 | 5 | `&nbsp;`/`&thinsp;` 实体形差（显示式前导等）；2026-11-23 复核：五件段数差 11–109，**真正阻塞是结构层段数不等**，空白仅是首差形态，不宜单列修法 |
 | 表管/标记 | 2 | anaphora `(1)` 列表标记丢失；表 `\|\|` 分隔（aristotle-mathematics） |
-| 其余 | 52 | 窗口内无显著形态特征（多为书目/区结构错位），待逐件取证 |
+| 其余 | 41 | 窗口内无显著形态特征（多为书目/区结构错位），待逐件取证 |
 
 > 脚注引用形子族已于第二十六批清零（12 件全转池）。
 

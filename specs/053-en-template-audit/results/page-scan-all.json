@@ -5,12 +5,12 @@
  "total": 1873,
  "counts": {
   "rule": 0,
-  "pool": 1760,
-  "gap": 113,
+  "pool": 1774,
+  "gap": 99,
   "stale": 0
  },
  "page_bytes": 235952045,
- "pool_bytes": 112498637,
+ "pool_bytes": 113689043,
  "entries": [
   {
    "slug": "18thGerman-preKant",
@@ -631,12 +631,9 @@
   {
    "slug": "anderson-john",
    "page_len": 111136,
-   "status": "gap",
-   "why": "unaligned text units",
-   "sample": {
-    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
-    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
-   }
+   "status": "pool",
+   "n_patches": 158,
+   "pool_bytes": 66187
   },
   {
    "slug": "animal-communication",
@@ -1517,12 +1514,9 @@
   {
    "slug": "bradley",
    "page_len": 86331,
-   "status": "gap",
-   "why": "unaligned text units",
-   "sample": {
-    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
-    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
-   }
+   "status": "pool",
+   "n_patches": 80,
+   "pool_bytes": 29370
   },
   {
    "slug": "bradley-moral",
@@ -2028,12 +2022,9 @@
     "***",
     "***"
    ],
-   "status": "gap",
-   "why": "unaligned text units",
-   "sample": {
-    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
-    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
-   }
+   "status": "pool",
+   "n_patches": 333,
+   "pool_bytes": 98042
   },
   {
    "slug": "church-turing",
@@ -3007,8 +2998,8 @@
    "slug": "dedekind-foundations",
    "page_len": 132917,
    "status": "pool",
-   "n_patches": 233,
-   "pool_bytes": 45659
+   "n_patches": 232,
+   "pool_bytes": 45515
   },
   {
    "slug": "deductivism-mathematics",
@@ -3112,8 +3103,8 @@
    "slug": "descartes",
    "page_len": 179236,
    "status": "pool",
-   "n_patches": 199,
-   "pool_bytes": 81094
+   "n_patches": 198,
+   "pool_bytes": 80946
   },
   {
    "slug": "descartes-epistemology",
@@ -3175,8 +3166,8 @@
    "slug": "descartes-works",
    "page_len": 56312,
    "status": "pool",
-   "n_patches": 61,
-   "pool_bytes": 28942
+   "n_patches": 60,
+   "pool_bytes": 28798
   },
   {
    "slug": "descriptions",
@@ -3693,12 +3684,9 @@
   {
    "slug": "emerson",
    "page_len": 73380,
-   "status": "gap",
-   "why": "unaligned text units",
-   "sample": {
-    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
-    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
-   }
+   "status": "pool",
+   "n_patches": 75,
+   "pool_bytes": 29161
   },
   {
    "slug": "emilie-du-chatelet",
@@ -4838,8 +4826,8 @@
    "slug": "francisco-sanches",
    "page_len": 119250,
    "status": "pool",
-   "n_patches": 216,
-   "pool_bytes": 76245
+   "n_patches": 217,
+   "pool_bytes": 76093
   },
   {
    "slug": "francois-barre",
@@ -4908,8 +4896,8 @@
    "slug": "frege",
    "page_len": 152964,
    "status": "pool",
-   "n_patches": 307,
-   "pool_bytes": 80946
+   "n_patches": 306,
+   "pool_bytes": 80802
   },
   {
    "slug": "frege-hilbert",
@@ -5417,12 +5405,9 @@
   {
    "slug": "hartley",
    "page_len": 113976,
-   "status": "gap",
-   "why": "unaligned text units",
-   "sample": {
-    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
-    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
-   }
+   "status": "pool",
+   "n_patches": 129,
+   "pool_bytes": 39591
   },
   {
    "slug": "hartshorne",
@@ -6397,12 +6382,9 @@
   {
    "slug": "james",
    "page_len": 76844,
-   "status": "gap",
-   "why": "unaligned text units",
-   "sample": {
-    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
-    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
-   }
+   "status": "pool",
+   "n_patches": 123,
+   "pool_bytes": 54841
   },
   {
    "slug": "james-mill",
@@ -6509,12 +6491,9 @@
     "Section\n3",
     "Section 5"
    ],
-   "status": "gap",
-   "why": "unaligned text units",
-   "sample": {
-    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
-    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
-   }
+   "status": "pool",
+   "n_patches": 281,
+   "pool_bytes": 166582
   },
   {
    "slug": "johann-sturm",
@@ -8151,8 +8130,8 @@
    "slug": "maritain",
    "page_len": 140994,
    "status": "pool",
-   "n_patches": 231,
-   "pool_bytes": 78895
+   "n_patches": 232,
+   "pool_bytes": 78743
   },
   {
    "slug": "markets",
@@ -8186,8 +8165,8 @@
    "slug": "marty",
    "page_len": 105187,
    "status": "pool",
-   "n_patches": 115,
-   "pool_bytes": 50610
+   "n_patches": 131,
+   "pool_bytes": 50421
   },
   {
    "slug": "marx",
@@ -8748,12 +8727,9 @@
   {
    "slug": "montaigne",
    "page_len": 77999,
-   "status": "gap",
-   "why": "unaligned text units",
-   "sample": {
-    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
-    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
-   }
+   "status": "pool",
+   "n_patches": 61,
+   "pool_bytes": 64563
   },
   {
    "slug": "montesquieu",
@@ -10288,8 +10264,8 @@
    "slug": "popper",
    "page_len": 118135,
    "status": "pool",
-   "n_patches": 181,
-   "pool_bytes": 39068
+   "n_patches": 180,
+   "pool_bytes": 38920
   },
   {
    "slug": "population-genetics",
@@ -10470,12 +10446,9 @@
   {
    "slug": "prior",
    "page_len": 161951,
-   "status": "gap",
-   "why": "unaligned text units",
-   "sample": {
-    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
-    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
-   }
+   "status": "pool",
+   "n_patches": 238,
+   "pool_bytes": 141374
   },
   {
    "slug": "prioritarianism",
@@ -11285,12 +11258,9 @@
   {
    "slug": "reichenbach",
    "page_len": 168717,
-   "status": "gap",
-   "why": "unaligned text units",
-   "sample": {
-    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
-    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
-   }
+   "status": "pool",
+   "n_patches": 157,
+   "pool_bytes": 89713
   },
   {
    "slug": "reid",
@@ -11301,12 +11271,9 @@
     "8. Philosophy of\nReligion",
     "3.1 The Way of Ideas and Representational\nTheories of Percep"
    ],
-   "status": "gap",
-   "why": "unaligned text units",
-   "sample": {
-    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
-    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
-   }
+   "status": "pool",
+   "n_patches": 266,
+   "pool_bytes": 201798
   },
   {
    "slug": "reid-ethics",
@@ -11600,12 +11567,9 @@
   {
    "slug": "royce",
    "page_len": 123323,
-   "status": "gap",
-   "why": "unaligned text units",
-   "sample": {
-    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
-    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
-   }
+   "status": "pool",
+   "n_patches": 112,
+   "pool_bytes": 51517
   },
   {
    "slug": "rule-following",
@@ -11624,12 +11588,9 @@
   {
    "slug": "russell",
    "page_len": 169000,
-   "status": "gap",
-   "why": "unaligned text units",
-   "sample": {
-    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
-    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
-   }
+   "status": "pool",
+   "n_patches": 462,
+   "pool_bytes": 94768
   },
   {
    "slug": "russell-moral",
@@ -12030,8 +11991,8 @@
    "slug": "self-reference",
    "page_len": 141894,
    "status": "pool",
-   "n_patches": 336,
-   "pool_bytes": 89642
+   "n_patches": 335,
+   "pool_bytes": 89498
   },
   {
    "slug": "sellars",
@@ -13534,8 +13495,8 @@
    "slug": "weyl",
    "page_len": 404702,
    "status": "pool",
-   "n_patches": 635,
-   "pool_bytes": 380207
+   "n_patches": 634,
+   "pool_bytes": 380063
   },
   {
    "slug": "whewell",
@@ -13547,12 +13508,9 @@
   {
    "slug": "whitehead",
    "page_len": 156519,
-   "status": "gap",
-   "why": "unaligned text units",
-   "sample": {
-    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
-    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
-   }
+   "status": "pool",
+   "n_patches": 334,
+   "pool_bytes": 64408
   },
   {
    "slug": "wilhelm-humboldt",

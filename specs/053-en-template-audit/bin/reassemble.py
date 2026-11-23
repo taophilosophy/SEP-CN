@@ -139,6 +139,9 @@ _MATH_DOLLARS = None  # 按件行内公式美元源形账（[[体内指纹, "db�
 _MATH_IDX = [0]     # 显示公式游标（reassemble_article 重置）
 _BQ = None          # 按件引块形态账（0＝首子 <p>/<table>，1＝裸装文字），文档序
 _BQ_IDX = [0]       # 引块游标
+_PUBINFO_DONE = [False]  # pubinfo 合成层只发一次（行位不设限：whitehead 判例）
+_PHOTO_PRE = [False]     # 头部图账：题注段须在 h1 前（C 把 h1 提到 md 首行）
+_CAPTION_LINE = [""]     # 重排跟走的题注行（作者行 i<=3 兜底须排除它）
 
 _NOTE_FORMS = None  # 按件非规范脚注引用形（文档序列表 [{n, form}]）
 _NOTE_IDX = [0]  # note_forms 消费游标（跨行持续；reassemble_article 重置）
@@ -990,7 +993,8 @@ def _render_bq(q, _depth=0):
 
 def reassemble_article(md, authors, entity_map=None, links=None, greek=None,
                        italics=None, greek_form=None, note_forms=None,
-                       math_forms=None, math_dollars=None, bq=None):
+                       math_forms=None, math_dollars=None, bq=None,
+                       photo_pre_h1=None):
     """md（主档全文）→ (title, article_html)。不动点验证在调用方闭环。
 
     entity_map：按件实体策略（codepoint → 实体串）；None 表示不编码。
@@ -1002,6 +1006,9 @@ def reassemble_article(md, authors, entity_map=None, links=None, greek=None,
     global _BQ
     _BQ = bq or None
     _BQ_IDX[0] = 0
+    _PUBINFO_DONE[0] = False
+    _PHOTO_PRE[0] = bool(photo_pre_h1)
+    _CAPTION_LINE[0] = ""
     _GREEK = greek
     _GREEK_IDX = {}
     _EM = entity_map
@@ -1018,6 +1025,33 @@ def reassemble_article(md, authors, entity_map=None, links=None, greek=None,
     _ITAL = italics or "em"
     _GREEK_FORM = greek_form
     lines = md.split("\n")
+    if _PHOTO_PRE[0]:
+        # 头部图组提前：H0 的照片/题注块在 `<h1>` 之前，C 的 md 把 h1 提到首行、
+        # 图与题注块留在其后（berlin 的题注还是独立块）；R 按 md 序发则段序
+        # 错位（全库 26 页）。取「首个含 `![` 行到 pubinfo 行」整组提前；img 行
+        # 在 pubinfo 之后（正文图）或相距过远则不动。行重排只在装配内部，
+        # yuanwen 不动；B3.1 无账不重排。
+        k0 = next((k for k, ln in enumerate(lines) if "![" in ln), None)
+        if k0 is not None:
+            grp = [lines[k0]]
+            j = k0 + 1
+            while j < len(lines) and not lines[j].strip():
+                j += 1
+            # 紧邻题注行（berlin 型：题注是独立块）：非标题/pubinfo/列表、
+            # 短行才跟走；whitehead 型题注与图同行，不进此分支
+            if (j < len(lines) and len(lines[j]) <= 200
+                    and not lines[j].lstrip().startswith(("#", "|"))
+                    and not PUBINFO_LINE_RE.fullmatch(lines[j].strip())
+                    and not MD_LIST_RE.match(lines[j].strip())):
+                # H0 的 img 与题注是 figure 内**两块**，保块间空行
+                grp.append("")
+                grp.append(lines[j])
+                take = (k0, j)
+                _CAPTION_LINE[0] = lines[j]
+            else:
+                take = (k0,)
+            rest = [ln for k, ln in enumerate(lines) if k not in take]
+            lines[:] = grp + rest
     if _LINKS:
         infence = False
         new = []
@@ -1038,6 +1072,10 @@ def reassemble_article(md, authors, entity_map=None, links=None, greek=None,
         if dm and not NOTEDEF_KEY_RE.match(dm.group(1)):
             bib_defs.append(dm.group(2).strip())
     bib_ul_emitted = False
+    # 作者行精确匹配串（meta_authors 拼接；C 生成 md 的作者行即此形态）。
+    # 行重排后作者行可能落到 i>3，免发改精确比对（whitehead 判例：题注是
+    # 纯斜体行，重排后落进 i<=3 被宽松匹配误吃）。
+    _author_join = "*%s*" % ", ".join(authors) if authors else None
     while i < n:
         ln = lines[i]
         stripped = ln.strip()
@@ -1045,11 +1083,17 @@ def reassemble_article(md, authors, entity_map=None, links=None, greek=None,
             i += 1
             continue
         # 前三行的合成层（C 再生，R 不装配）：pubinfo 行与作者行
-        if i <= 3 and PUBINFO_LINE_RE.fullmatch(stripped):
+        if not _PUBINFO_DONE[0] and PUBINFO_LINE_RE.fullmatch(stripped):
+            # 合成层不设行位上限：图注/credit 行会把 pubinfo 行挤出前三行
+            # （whitehead 判例：`[![…](…) *Photo by…*` 插行后 pubinfo 落成普通
+            # 段落，整页段结构错位）。全文首个匹配行合成一次。
             out.append(_pubinfo_html([stripped]) or "")
+            _PUBINFO_DONE[0] = True
             i += 1
             continue
-        if i <= 3 and re.fullmatch(r"\*[^*]+\*", stripped):
+        if (re.fullmatch(r"\*[^*]+\*", stripped)
+                and stripped != _CAPTION_LINE[0]
+                and (i <= 3 or (_author_join and stripped == _author_join))):
             i += 1
             continue
         m = MD_HEAD_RE.match(ln)
@@ -1190,13 +1234,11 @@ def _is_block_start(ln):
 
 
 def _pubinfo_html(lines):
-    for idx, ln in enumerate(lines):
+    for ln in lines:
         s = ln.strip()
-        if s.startswith("**First published") and s.endswith("**") and idx <= 3:
+        if s.startswith("**First published") and s.endswith("**"):
             inner = s[2:-2]
             return '<div id="pubinfo"><em>%s</em></div>' % inner
-        if idx > 3:
-            break
     return None
 
 

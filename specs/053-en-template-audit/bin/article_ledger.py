@@ -268,6 +268,18 @@ def extract_bq(art_inner):
     return out if any(out) else None
 
 
+def extract_photo_pre_h1(art_inner):
+    """头部图账：H0 首个 `<h1>` 之前有 `<img>` 记 1（照片题注段在标题前）。
+
+    C 把 h1 提到 md 首行、题注段留在其后，R 按 md 序发则题注段错到标题后，
+    整页段序错位（whitehead 判例；全库 26 页）。注释抹白后取首个 `<h1` 前缀。"""
+    s = re.sub(r"<!--.*?-->", lambda m: " " * len(m.group(0)), art_inner, flags=re.S)
+    m = re.search(r"<h1[\s>]", s)
+    if m and "<img" in s[:m.start()]:
+        return 1
+    return None
+
+
 def extract_italics(art_inner):
     """按件斜体标签形：H0 全用 <i> 时记 "i"（C 把 <em>/<i> 同归一为 *…*）。"""
     BS = chr(92)
@@ -984,6 +996,9 @@ def extract(art_inner, md=None):
     bq = extract_bq(art_inner)
     if bq:
         led["bq"] = bq
+    pp = extract_photo_pre_h1(art_inner)
+    if pp:
+        led["photo_pre_h1"] = pp
     mf = extract_math_forms(art_inner)
     if mf:
         led["math_forms"] = mf
