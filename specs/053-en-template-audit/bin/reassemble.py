@@ -138,6 +138,8 @@ _MATH_FORMS = None  # 按件显示公式形态账（文档序 "br"／"naked"）
 _MATH_DOLLARS = None  # 按件行内公式美元源形账（[[体内指纹, "db…"]]，消费式）
 _MATH_IDX = [0]     # 显示公式游标（reassemble_article 重置）
 _ITAL_NAMES = []    # 文档序预排的斜体希腊 (字形, 宏名)，哨兵 \x15k\x15 索引
+_SUP_POS = None     # 上下标同页双源按位账（cp → ["ent"|"tag", …]，文档序）
+_SUP_IDX = {}       # 双源游标 (tag, cp) → 已消费次数
 _BQ = None          # 按件引块形态账（0＝首子 <p>/<table>，1＝裸装文字），文档序
 _BQ_IDX = [0]       # 引块游标
 _PUBINFO_DONE = [False]  # pubinfo 合成层只发一次（行位不设限：whitehead 判例）
@@ -385,17 +387,47 @@ def _unsubsup(s, rev, tag):
 
     若该字符在按件 `entities` 账里（H0 原位就是实体形，如 `&sup2;`），不转
     标签——留给 `encode_outside_math` 发回实体（kant-science `mv²` 判例：
-    H0 是 `&sup2;` 而 C 的 md 是裸 `²`，转 `<sup>2</sup>` 即错）。"""
+    H0 是 `&sup2;` 而 C 的 md 是裸 `²`，转 `<sup>2</sup>` 即错）。同页双源
+    （`&sup2;` 与 `<sup>2</sup>` 并存）由 `sup_pos` 账按位定：文档序每次出现
+    读原位形态，"ent" 留实体通道、"tag" 发标签（kant-science／proclus 判例）。"""
     if not rev:
         return s
     _keep = set(_EM or {})
-    rev = {c: n for c, n in rev.items() if c not in _keep}
+    rev_all = rev
+    dual = _SUP_POS or {}   # 账按 cp 平铺（上标/下标字形本不相交）
+    rev = {c: n for c, n in rev.items() if c not in _keep or c in dual}
     if not rev:
         return s
     cls = "".join(re.escape(c) for c in rev)
 
     def rep(m):
-        return "<%s>%s</%s>" % (tag, "".join(rev[c] for c in m.group(0)), tag)
+        # 连续同族字形合并为**单个**标签（`<sub>n</sub><sub>+</sub>…` 会把
+        # 字节流拆碎：adduction 判例 1,116→1,160）；双源/留实体处断组
+        outs = []
+        buf = []
+
+        def flush():
+            if buf:
+                outs.append("<%s>%s</%s>" % (tag, "".join(buf), tag))
+                del buf[:]
+
+        for c in m.group(0):
+            if c in dual:
+                k = _SUP_IDX.get((tag, c), 0)
+                _SUP_IDX[(tag, c)] = k + 1
+                if k < len(dual[c]) and dual[c][k] == "ent":
+                    flush()
+                    outs.append(c)
+                    continue
+                buf.append(rev_all[c])
+                continue
+            if c in _keep:
+                flush()
+                outs.append(c)
+                continue
+            buf.append(rev_all[c])
+        flush()
+        return "".join(outs)
     return re.sub("[%s]+" % cls, rep, s)
 
 
@@ -1175,7 +1207,7 @@ def _render_bq(q, _depth=0):
 def reassemble_article(md, authors, entity_map=None, links=None, greek=None,
                        italics=None, greek_form=None, note_forms=None,
                        math_forms=None, math_dollars=None, bq=None,
-                       photo_pre_h1=None):
+                       photo_pre_h1=None, sup_pos=None):
     """md（主档全文）→ (title, article_html)。不动点验证在调用方闭环。
 
     entity_map：按件实体策略（codepoint → 实体串）；None 表示不编码。
@@ -1187,8 +1219,10 @@ def reassemble_article(md, authors, entity_map=None, links=None, greek=None,
     # 判例，H0 带 content="" 的 meta，`'*%s*' % ''` 即孤立 '**'）
     authors = [a for a in (authors or []) if a and a.strip()]
     global _ITAL, _GREEK_FORM, _NOTE_FORMS, _MATH_FORMS, _MATH_DOLLARS
-    global _ITAL_NAMES
+    global _ITAL_NAMES, _SUP_POS, _SUP_IDX
     md, _ITAL_NAMES = _plan_ital_greek(md, greek)
+    _SUP_POS = sup_pos or None
+    _SUP_IDX = {}
     global _BQ
     _BQ = bq or None
     _BQ_IDX[0] = 0

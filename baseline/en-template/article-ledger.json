@@ -999343,7 +999343,7 @@
    "note_forms": [
     {
      "n": "1",
-     "form": "<a href=\"notes.html#note-1\" id=\"ref-1\">1</a>"
+     "form": "<sup><a href=\"notes.html#note-1\" id=\"ref-1\">1</a>]</sup>"
     }
    ],
    "toc_block": "<div id=\"toc\">\n<!--Entry Contents-->\n<ul>\n<li><a href=\"#Biog\">1. Biography</a></li>\n<li><a href=\"#Care\">2. Career</a></li>\n<li><a href=\"#EarlPsycWrit\">3. Early Psychiatric Writings</a></li>\n<li><a href=\"#PhilWrit\">4. The Philosophical Writings</a></li>\n<li><a href=\"#PhilReli\">5. Philosophy and Religion</a></li>\n<li><a href=\"#LateWorkPoliHuma\">6. Later Works: The Politics of Humanism</a></li>\n<li><a href=\"#CommEditCompWorkKJG\">7. Commentary and Edition of the complete works (KJG)</a></li>\n<li><a href=\"#Bib\">Bibliography</a>\n\t<ul>\n\t<li><a href=\"#MajoWorkJasp\">Major Works by Jaspers</a></li>\n\t<li><a href=\"#SeleSecoLite\">Selected Secondary Literature</a></li>\n\t</ul>\n\t</li>\n<li><a href=\"#Aca\">Academic Tools</a></li>\n<li><a href=\"#Oth\">Other Internet Resources</a></li>\n<li><a href=\"#Rel\">Related Entries</a></li>\n</ul>\n<!--Entry Contents-->\n\n<hr />\n\n</div>\n\n",
@@ -1045838,6 +1045838,12 @@
     "é": "&eacute;"
    },
    "links": [],
+   "sup_pos": {
+    "²": [
+     "ent",
+     "tag"
+    ]
+   },
    "toc_block": "<div id=\"toc\"><!--Entry Contents-->\n<ul>\n<li><a href=\"#PhysPreCritPeri\">1. Physics: The Pre-Critical Period</a></li>\n<li><a href=\"#PhysCritPeriMetaFounNatuScie\">2. Physics: The Critical Period (<em>Metaphysical Foundations of Natural Science</em>)</a>\n   <ul>\n   <li><a href=\"#Pref\">2.1 Preface</a></li>\n   <li><a href=\"#Phor\">2.2 Phoronomy</a></li>\n   <li><a href=\"#Dyna\">2.3 Dynamics</a></li>\n   <li><a href=\"#Mech\">2.4 Mechanics</a></li>\n   <li><a href=\"#Phen\">2.5 Phenomenology</a></li>\n   </ul></li>\n<li><a href=\"#Laws\">3. Laws</a></li>\n<li><a href=\"#PhysPostCritPeriOpusPost\">4. Physics: The Post-Critical Period (<em>Opus postumum</em>)</a></li>\n<li><a href=\"#Biol\">5. Biology</a></li>\n<li><a href=\"#Chem\">6. Chemistry</a></li>\n<li><a href=\"#Psyc\">7. Psychology</a></li>\n<li><a href=\"#OtheScieHistPhysGeogAnth\">8. Other Sciences: History, Physical Geography, and Anthropology</a></li>\n<li><a href=\"#Bib\">Bibliography</a></li>\n<li><a href=\"#Aca\">Academic Tools</a></li>\n<li><a href=\"#Oth\">Other Internet Resources</a></li>\n<li><a href=\"#Rel\">Related Entries</a></li>\n</ul>\n<!--Entry Contents-->\n\n<hr /></div>\n\n",
    "wrap_width": 70
   },
@@ -1488735,11 +1488741,11 @@
     },
     {
      "n": "10",
-     "form": "<a href=\"notes.html#note-10\" id=\"ref-10\">10</a>"
+     "form": "<sup>[<a href=\"notes.html#note-10\" id=\"ref-10\">10</a></sup>"
     },
     {
      "n": "11",
-     "form": "<a href=\"notes.html#note-11\" id=\"ref-11\">11</a>"
+     "form": "<sup>[<a href=\"notes.html#note-11\" id=\"ref-11\">11</a></sup>"
     },
     {
      "n": "12",
@@ -1645015,6 +1645021,18 @@
     "ï": "&iuml;"
    },
    "links": [],
+   "sup_pos": {
+    "²": [
+     "ent",
+     "tag",
+     "ent",
+     "tag",
+     "tag",
+     "ent",
+     "tag",
+     "tag"
+    ]
+   },
    "bq": [
     1,
     1,
@@ -1964257,7 +1964275,7 @@
     },
     {
      "n": "43",
-     "form": "<a href=\"notes.html#note-43\" id=\"ref-43\">[43]</a>"
+     "form": "<sup><a href=\"notes.html#note-43\" id=\"ref-43\">[43]</a></sup>"
     },
     {
      "n": "44",
@@ -1964329,7 +1964347,7 @@
     },
     {
      "n": "61",
-     "form": "<a href=\"notes.html#note-61\" id=\"ref-61\">[61]</a>"
+     "form": "<sup><a href=\"notes.html#note-61\" id=\"ref-61\">[61]</a></sup>"
     },
     {
      "n": "62",

@@ -98,7 +98,8 @@ def assemble(lib, slug):
                                      led.get("math_forms"),
                                      led.get("math_dollars"),
                                      led.get("bq"),
-                                     led.get("photo_pre_h1"))
+                                     led.get("photo_pre_h1"),
+                                     led.get("sup_pos"))
     miss = ra.link_misses()
     art = AB.build(flat, led)
     if art is None:

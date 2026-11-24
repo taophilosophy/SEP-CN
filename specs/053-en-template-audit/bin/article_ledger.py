@@ -331,14 +331,53 @@ def extract_note_forms(art_inner):
         pre = art_inner[max(0, m.start() - 40):m.start()]
         post = art_inner[m.end():m.end() + 24]
         # 方括号与 sup 之间可有空白（bell-theorem 判例：`]\n </sup>`）
-        wrapped = (bool(re.search(r"<sup>\s*\[$", pre))
-                   and bool(re.match(r"\]\s*</sup>", post)))
-        if wrapped and inner.strip() == key:
-            out.append({"n": key, "form": None})
+        sup_m = re.search(r"<sup>\s*(\[)?$", pre)
+        close_m = re.match(r"(\])?\s*</sup>", post)
+        if sup_m and close_m:
+            # 规范形：`<sup>[` … `]</sup>` 且显示号＝键 → form=None（R 出默认形）
+            if (sup_m.group(1) == "[" and close_m.group(1) == "]"
+                    and inner.strip() == key):
+                out.append({"n": key, "form": None})
+            else:
+                # 非规范包裹整段原样记账——含上游畸形（pain `<sup>[<a…>10</a></sup>`
+                # 缺右括号、jaspers `<sup><a…>1</a>]</sup>` 缺左括号），R 逐字节复刻
+                f0 = max(0, m.start() - 40) + sup_m.start()
+                f1 = m.end() + close_m.end()
+                out.append({"n": key, "form": art_inner[f0:f1]})
         else:
-            form = ("<sup>[" + m.group(0) + "]</sup>") if wrapped else m.group(0)
-            out.append({"n": key, "form": form})
+            out.append({"n": key, "form": m.group(0)})
     return out
+
+
+def extract_sup_pos(art_inner):
+    """上下标「同页双源」按位账：cp → ["ent"|"tag", …]（文档序，仅双源字符）。
+
+    kant-science／proclus 判例：同一页 `&sup2;` 与 `<sup>2</sup>` 并存，C 两者
+    都转成 `²`，md 同形双源；`entities` 账只能给统一形态（第三十三批让 R 一律
+    留实体），于是原位是标签形的那些也被发成 `&sup2;`。此账按文档序记每次
+    出现的原位形态，R 按出现序消费。只记同时具备两形的字符（纯单源页不受
+    影响，走原统一策略）。"""
+    sup_rev = {v: k for k, v in SUP_MAP.items()}
+    sub_rev = {v: k for k, v in SUB_MAP.items()}
+    seq = []
+    for m in re.finditer(r"&sup([A-Za-z0-9]+);|&sub([A-Za-z0-9]+);",
+                         art_inner):
+        base = m.group(1) or m.group(2)
+        cp = (SUP_MAP if m.group(1) else SUB_MAP).get(base)
+        if cp:
+            seq.append((cp, "ent", m.start()))
+    # 标签形内文恒单字符（C 的 _subsup_md 只在整段可映射时产字形）
+    for m in re.finditer(r"<sup>\s*([^<>]{1,3}?)\s*</sup>|<sub>\s*([^<>]{1,3}?)\s*</sub>",
+                         art_inner):
+        base = (m.group(1) or m.group(2)).strip()
+        cp = (SUP_MAP if m.group(1) else SUB_MAP).get(base)
+        if cp:
+            seq.append((cp, "tag", m.start()))
+    seq.sort(key=lambda x: x[2])
+    out = {}
+    for cp, form, _pos in seq:
+        out.setdefault(cp, []).append(form)
+    return {cp: f for cp, f in out.items() if "ent" in f and "tag" in f}
 
 
 def extract_toc(art_inner):
@@ -999,6 +1038,9 @@ def extract(art_inner, md=None):
     nf = extract_note_forms(art_inner)
     if nf:
         led["note_forms"] = nf
+    sp = extract_sup_pos(art_inner)
+    if sp:
+        led["sup_pos"] = sp
     bq = extract_bq(art_inner)
     if bq:
         led["bq"] = bq
