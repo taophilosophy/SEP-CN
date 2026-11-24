@@ -525,3 +525,10 @@
 * 查无汉名：Michael Bergmann（Justification without Awareness 无中译本）。
 * 凭证：`results/people-cnweb-2026-11-24-b28.md`；生成器 `bin/make_rowspec_people28.py`。
 * 落册：定点改写 3 行；`registry_azsort` 守恒；`check_all` 17 项全绿。
+
+## 2026-11-24：人名第二十九批（中文源补证 3 人）
+
+* 取中文文献定名：Hasok Chang → 张夏硕（人大科哲讲座页，韩国姓名汉字；百度百科“哈索克·张”为音译形不采）；Daniel Stoljar → 丹尼尔·斯图嘉（社科院哲学所“哲学中国网”《意识的认知理论》）；Naomi Zack → 内奥米·扎克（中译本《智慧的声音》李哲等译，上海科技文献 2025）。
+* 查无汉名：Mark Colyvan（高教社 2025《数学哲学导论》系 Körner 著，非其书，防混同）。
+* 凭证：`results/people-cnweb-2026-11-24-b29.md`；生成器 `bin/make_rowspec_people29.py`。
+* 落册：定点改写 3 行；`registry_azsort` 守恒；`check_all` 17 项全绿。
