@@ -2515,7 +2515,7 @@
 | Kolb, Brendan | — | 布伦丹·科尔布 | — | — | evil-kinds-origins | 音译（本词条致谢） | 2026-11-12 |
 | Kolmogorov, Andrey | — | 安德烈·柯尔莫哥洛夫 | 苏联 | 1903–1987 | intuitionism | 学界通行汉译（BHK 解释）；凭证 2026-11-10 | 2026-11-10 |
 | Kolodny, Niko | — | 尼科·科洛德尼 | 美国 | — | intention | 音译（理性与意图）；凭证 2026-11-12；籍属/生卒联网查证：Wikidata Q16403824（2026-11-23 查，凭证 backfill-auto-2026-11-23.tsv） | 2026-11-12 |
-| Komnene, Anna | — | 安娜·科穆宁娜 | 拜占庭 | 1899–1990 | john-italos | 学界通行汉译（《阿莱克修斯传》作者）；凭证 2026-11-06；籍属/生卒联网查证：GND 规范标目 gnd 1064558208（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv）；籍属/生卒联网查证：SEP 原文 en/byzantine-philosophy:330（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
+| Komnene, Anna | — | 安娜·科穆宁娜 | 拜占庭 | 1083–1153 | john-italos | 学界通行汉译（《阿莱克修斯传》作者）；凭证 2026-11-06；籍属/生卒联网查证：GND 规范标目 gnd 1064558208（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv）；籍属/生卒联网查证：SEP 原文 en/byzantine-philosophy:330（2026-11-21 查，凭证 verify-2026-11-20-people.tsv）；生卒订正：原 1899–1990 系 GND 规范记录误配；安娜·科穆宁娜史家通行 1083–1153（2026-11-25 订，john-italos s0 阶段复核） | 2026-11-21 |
 | Konieczny, Sébastien | — | Sébastien Konieczny（现代学者，保留英文） | 法国 | 1974– | belief-merging | ADR-0022：无通行汉名者保留英文（IC 合并框架提出者之一，与 Pino Pérez 合作）；凭证 2026-11-13；籍属/生卒联网查证：Wikidata Q102427864（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Konstan, David | — | 戴维·康斯坦 | 美国 | 1940–2024 | epicurus | 学界通行（本词条作者，古代哲学与情感研究）；籍属/生卒联网查证：GND 规范标目 gnd 132072300（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Kooi, Barteld | — | Barteld Kooi | 荷兰 | 1976– | logic-dynamic | 无通行汉名，保留英文原名；凭证 2026-11-10；籍属/生卒联网查证：Wikidata Q21551986（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |

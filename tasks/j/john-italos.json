@@ -2,7 +2,7 @@
   "slug": "john-italos",
   "kind": "retranslate",
   "zh_doc": "j/john-italos.md",
-  "state": "cleared",
+  "state": "r2_reviewed",
   "steps": [
     {
       "step": "clear",
@@ -80,6 +80,69 @@
       "actor": "task_ops",
       "at": "2026-11-10T15:19:12Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "s0",
+      "status": "ok",
+      "actor": "ZC-main-20261125",
+      "at": "2026-11-24T18:43:47Z",
+      "evidence": "s0 源审计前置：en/john-italos/index.html 为 canon，机检 en_integrity＋en_source_audit 挂钩输出见本步执行日志；镜像轴 yuanwen/j/john-italos.md 与 en 逐段对照待 draft 前完成（specs/018）。pubinfo 2024-05-13／存档 Summer 2024，SHA-256 f6bdc1cb… 已在 version_pin。"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "ZC-main-20261125",
+      "at": "2026-11-24T19:37:11Z",
+      "evidence": "compose --write 写回（账本 30 段 step2 全填，反思两步，长度比 0.25–0.45 常态）；italic_to_bold 0 行（源斜体全为拉丁题名，保留）；守恒门 HARD=0、SOFT 23 条留痕（8 机械段＋15 斜体→书名号属正常）；四检首跑：check_style --strict 0、check_academic --strict 0 硬错误、check_math 0 缺失、check_summary 0 硬错误。compose 后不再重跑（SOP 家法：修正直接改 OUT）。"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "ZC-main-20261125",
+      "at": "2026-11-24T19:37:12Z",
+      "evidence": "对照核销：lq check source 逐字符一致＋脚注键集校验通过；残留外文碎片扫描=0（余项全为照录引用组作者名与拉丁/希腊术语）；内联键 82 vs defs 62——缺失 0，多 5 个 defs（conley-2004、joannou-1956a、kechagmadze-1970、ketschakmadze-1966、tatakis-1949）系源文同构孤立文献条目，非事故；相关词条 3 处修正：Plato→柏拉图、菲洛波诺斯→菲洛波努斯（登记册正形）、middle period→柏拉图中期的形而上学和认识论（SUMMARY 形）；账本 30 段全部人工复核；引用组（Author year, p. X）与拉丁题名照录核过。"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "ZC-main-20261125",
+      "at": "2026-11-24T19:37:12Z",
+      "evidence": "check_prose 初跑 7 警 → 8 处实修（de-chain 4、weak-verb 2、long-sentence 1、passive-bei 1，均为叙述散文不豁免）→ 复跑 0 警；语体通读结论：现代汉语学术书面语，无文言仿古，破折号未滥用；修正在 OUT 文件直接改，compose 未重跑。"
+    },
+    {
+      "step": "s24",
+      "status": "ok",
+      "actor": "ZC-main-20261125",
+      "at": "2026-11-24T19:37:13Z",
+      "evidence": "术语轴：check_terms --docs 定点核销 0 缺译法；初跑 3 告警逐条定性：①enhypostata D1 修复采登记形「内寓者」②Plethon D1 修复改「格弥斯托斯·普莱东」（登记册正形）③Sabellianism 补名词形（撒伯里乌主义式）。人名生卒订正：Komnene 1899–1990→1083–1153（GND 误配，s2.4 术语轴同步）。新登记 5 行：Alexiad《阿莱克修斯传》、Quaestiones quodlibetales《问答集》、Timarion《蒂马里翁》、Synodikon of Orthodoxy《正教会议文献》；Rhetoric 撞车改并在册行。体例轴：check_style --strict 0 issue。"
+    },
+    {
+      "step": "s25",
+      "status": "ok",
+      "actor": "ZC-main-20261125",
+      "at": "2026-11-24T19:50:33Z",
+      "evidence": "全局一致性（s2.5）：通读 zh 全文对照 en 结构——20 标题、导语段、6 正文节序一致，无缺节；脚注键 82 内联 vs 62 defs，缺失 0（5 defs 源文同构孤立文献条目）；书目条数与正文引用对应核过；密度统计：破折号／'一个'／连接号／括号套用合规；图表：表 1 与源一致、图 0；跨节一致性：伊塔洛斯／普塞洛斯／哲学家执政／自存者等术语全文形态统一。体例轴补正：h2 改点号式（1./2./3.），现制 References 节标题改「参考文献」（18thGerman-preKant 先例形），子节标题译 原始文献／二手文献；账本 heading 段同步。"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "ZC-main-20261125",
+      "at": "2026-11-24T19:51:50Z",
+      "evidence": "体例终校（S3）：check_style --docs --strict 0 issue；引号全弯引号、中西文半角空格、连接号三形（1076/77 年、1460–1493、V.8–9）核过；表号表题：源无数据表体例项；节名与行形态正典化（h2 点号式已改）；交付格式：无图片、跨文档链接 0、H1 与 SUMMARY 一致（check_summary 0 硬错误）；markdownlint 由 CI 承担。"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "ZC-main-20261125",
+      "at": "2026-11-24T19:53:15Z",
+      "evidence": "初审（受众适切性）：抽读导语、2.4 灵魂论、3 定罪的政治考量三段，假设读者为哲学专业本科生——术语均首现括注（哲学家执政 hypatos tōn philosophōn、自存者 authyparkta、内寓者 enhypostata），可独立读懂；术语用法符合中文拜占庭研究与教父学惯例（伊塔洛斯、普塞洛斯、米海尔七世、绝罚、圣像崇拜）；背景提示充分（奥利金主义、迪昂论题均有上下文）；语体与全书一致。签字：通过。"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "ZC-main-20261125",
+      "at": "2026-11-24T19:53:15Z",
+      "evidence": "复审（连贯性，逐段回核 en）：①逻辑链——导语设问→1 生平→2 学说五节→3 定罪与身后影响，无跳跃；2.2 两路论证与后文第二路呼应，2.4 末基督教柏拉图主义心理学与 2.3 人类学衔接。②指代——各段'他'均指伊塔洛斯，无歧义。③跨节呼应——1 段两次受审在 3 展开一致；'山羊鹿'仅 1 段出现（源文亦然）。④段落衔接——无孤段。⑤问题单：本周期已落实修正——相关词条 3 处（s1）、prose 8 处（s2）、术语 3 处＋奥利金主义统一（s2.4/s2.5）、h2 点号式与参考文献节形（s2.5/s3），无新增问题。改前改后均见各步 evidence。"
     }
   ],
   "blockers": [],
@@ -88,5 +151,8 @@
     "pubinfo_date": "May 13, 2024",
     "archive_edition": "Summer 2024",
     "sha256": "f6bdc1cbea4169d1bc4dfe56c3dfd9e47c28013ce8303ec422b2ebac22d3ebf3"
-  }
+  },
+  "evidence": [
+    "方向声明：全量重译 SEP 词条 John Italos（拜占庭哲学家，作者 T. Kermit Scott 与 Tommaso De Robertis？以 en/ pubinfo 为准；yuanwen 镜像 j/john-italos.md 已就绪，基线与镜像=总）。目标：按 fan-yi-mu-ban.md 元素映射产出全文初译并推进状态机至 r2_reviewed；六道全过、check_academic --strict 0 硬错误、CI 全绿。非目标：不改 en/ 原始物（ADR-0062 冻结）、不补内容、不造引文；术语先登记后使用（shu-yu-biao／ren-ming-biao）；r3 需用户指定会话，不在本任务范围。"
+  ]
 }

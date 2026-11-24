@@ -429,6 +429,7 @@
 | aleatory materialism | — | 偶然相遇的唯物主义 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·马克思主义·附录·国外马克思主义哲学，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | alethic properties | — | 真势属性 | reinach | 学界惯例（模态逻辑通行）；凭证 2026-11-09 | 2026-11-09 |
 | Alexandrists | — | 亚历山大派 | gomez-pereira | 学界通行（亚历山大派亚里士多德主义者）；凭证 2026-11-12 | 2026-11-12 |
+| Alexiad | — | 《阿莱克修斯传》 | 语料回收（specs/058 全库提取） | 学界通行（安娜·科穆宁娜史著；余大英等译本用名）；语料 john-italos 首译（2026-11-25 语料核对，凭证 john-italos-draft） | 2026-11-25 |
 | algebra of logic | — | 逻辑代数 | leibniz-logic-influence | 学界惯例（SUMMARY 定名沿用）；凭证 2026-11-03 | 2026-11-03 |
 | algebraic geometry | — | 代数几何 | 语料回收（specs/050 候选池） | 条目语境研判（条目语境与既有 absolute geometry=绝对几何 同族去“学”缀）；审定名词库（termonline-all·数学·代数学·代数几何学·代数几何学，2026-11-18 JWT 直连凭证，审定作“代数几何学”） | 2026-11-19 |
 | algebraic logic | — | 代数逻辑 | peirce-benjamin | 逻辑史通行译名（与“数学逻辑”“逻辑主义”分列）；凭证 2026-11-09 | 2026-11-09 |
@@ -6235,6 +6236,7 @@
 | qizhi | 气质 | 气质（qi endowment 气质禀赋） | zhu-xi 首译 | 学界通行（宋明理学气质之禀；汉字回译）；凭证 2026-11-15 | 2026-11-15 |
 | quaestio | quaestio | 经院论辩（quaestio） | marsilius-padua | 学界通行（中世纪大学论辩体式）；凭证 2026-11-08；旧键“scholastic quaestio”并入（2026-11-21 FLAG 裁定；旧键首现：delmedigo） | 2026-11-21 |
 | quaestio disputata | quaestio disputata | 辩论题（quaestio disputata） | gregory-rimini | 中世纪大学辩论体裁通行译法；正文括注拉丁；凭证 2026-11-10；撞形改定 2026-11-21：中世纪辩论体裁名，与论辩问题（dialectical question）分列 | 2026-11-21 |
+| Quaestiones quodlibetales | — | 《问答集》 | 语料回收（specs/058 全库提取） | 本库译名（伊塔洛斯 *Quaestiones quodlibetales*；源文自题 Questions and Answers；语料 john-italos 首译）（2026-11-25 语料核对，凭证 john-italos-draft） | 2026-11-25 |
 | quaestiones | — | 问题集 | buridan 首译 | 学界通行译名（中世纪逻辑与哲学研究文献）；凭证 2026-11-08 | 2026-11-08 |
 | qualia | — | 感质（亦作“感受质”） | democritus | 学界通行（现象意识性质；与 qualia 词条族正文及 SUMMARY 相关词条名一致，2026-11-13 归一主形） | 2026-11-06 |
 | qualitative (of properties) | — | 质性的 | 首现（zombies） | 学界惯例（与倾向性对举）；凭证 2026-11-10 | 2026-11-10 |
@@ -7592,6 +7594,7 @@
 | synchronic contingency | — | 共时偶然性 | kilvington | 主会话直译收口 de6bb4b1；凭证 2026-11-04 | 2026-11-04 |
 | synchronism | — | 同步性 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·物理学·相对论、量子理论·相对论，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | synchrony / synchronization | — | 同步 | spacetime-convensimul | 学界惯例（钟表设定语境；与“同时性”相别）；审定名词库（termonline-all·计算机科学技术名词 03.0323，2018）作“同步”，与本行一致（2026-11-24 JWT 直连，凭证 termonline-b12-2026-11-24.tsv） | 2026-11-06 |
+| Synodikon of Orthodoxy | — | 《正教会议文献》 | 语料回收（specs/058 全库提取） | 本库译名（拜占庭礼仪文献 Synodikon of Orthodoxy；Gouillard 校勘本研究语境通行意译；语料 john-italos 首译）（2026-11-25 语料核对，凭证 john-italos-draft） | 2026-11-25 |
 | syncretism | — | 折中主义 | han-dynasty | 学界通行（Han Syncretism 汉代折中主义）；凭证 2026-11-10 | 2026-11-10 |
 | synderesis | συντήρησις | 良知（经院哲学术语 synderesis） | conscience 首译 | 经院哲学通行（阿奎那良知学说；与孟子学“良知”同形不同义，正文随文说明）；凭证 2026-11-08 | 2026-11-08 |
 | syndesmos | syndesmos | 联结纽带 | yorck 首译 | B 档：希腊语词（本义联结之带；作者英译 historical band）；凭证 2026-11-11 | 2026-11-11 |
@@ -7874,6 +7877,7 @@
 | tianli | 天理 | 天理 | dai-zhen | 宋明理学通行术语（戴震“自然之分理”义）；凭证 2026-11-07 | 2026-11-07 |
 | Tianwen | 天文 | 《天文》（《淮南子》篇名） | han-dynasty | 篇名逐字 | 2026-11-10 |
 | tiaoli | 條理 | 条理 | dai-zhen | 上游自带汉字；戴震术语（英 good order）；凭证 2026-11-07 | 2026-11-07 |
+| Timarion | — | 《蒂马里翁》 | 语料回收（specs/058 全库提取） | 本库译名（十二世纪琉善体讽刺作品；语料 john-italos 首译）（2026-11-25 语料核对，凭证 john-italos-draft） | 2026-11-25 |
 | tides | — | 潮汐 | newton-principia | 物理学通行；凭证 2026-11-11；审定名词库（termonline-all·海峡两岸动物学名词，2005）作“潮汐”，与本行一致（2026-11-24 JWT 直连，凭证 termonline-b12-2026-11-24.tsv） | 2026-11-11 |
 | tie-breaking rule | — | 决胜规则 | belief-merging | 学界通行（社会选择理论）；凭证 2026-11-10 | 2026-11-10 |
 | Timaeus | — | 《蒂迈欧篇》（亦作“蒂迈欧”） | 语料回收（specs/058 全库提取） | 权威译本（谢文郁译，上海人民出版社 2005（世纪文库）；2026-11-24 联网核对，凭证 works-batch11-2026-11-24.md）；语料短形作《蒂迈欧》（19 处，2026-11-24 查，凭证 works-batch21-2026-11-24.md） | 2026-11-24 |
