@@ -1,0 +1,32 @@
+{
+  "batch": "058-batch59-terms",
+  "date": "2026-11-25",
+  "scope": "术语批 7：学科与分支名缺口收割（登记册按拆形＋单复数复核后仍缺，中文语料已见其形）",
+  "rows": [
+    {"en": "applied ethics", "zh": "应用伦理学", "table": "term", "first_seen": "语料回收（学科名审计 2026-11-25）", "basis": "学科通名（中文语料“应用伦理”11 次，规范形补“学”）；凭证 2026-11-25"},
+    {"en": "bioethics", "zh": "生命伦理学", "table": "term", "first_seen": "语料回收（学科名审计 2026-11-25）", "basis": "学科通名（中文语料 41 次，与 medical ethics 医学伦理学分列）；凭证 2026-11-25"},
+    {"en": "contemporary philosophy", "zh": "当代哲学", "table": "term", "first_seen": "语料回收（学科名审计 2026-11-25）", "basis": "学科分期通名（中文语料 58 次）；凭证 2026-11-25"},
+    {"en": "feminist philosophy", "zh": "女性主义哲学", "table": "term", "first_seen": "语料回收（学科名审计 2026-11-25）", "basis": "学科通名（中文语料 31 次，“女性主义”本库统一形）；凭证 2026-11-25"},
+    {"en": "history of philosophy", "zh": "哲学史", "table": "term", "first_seen": "语料回收（学科名审计 2026-11-25）", "basis": "学科通名（中文语料 231 次）；凭证 2026-11-25"},
+    {"en": "jewish philosophy", "zh": "犹太哲学", "table": "term", "first_seen": "语料回收（学科名审计 2026-11-25）", "basis": "学科通名（中文语料 107 次）；凭证 2026-11-25"},
+    {"en": "medieval philosophy", "zh": "中世纪哲学", "table": "term", "first_seen": "语料回收（学科名审计 2026-11-25）", "basis": "学科分期通名（中文语料 79 次）；凭证 2026-11-25"},
+    {"en": "metaethics", "zh": "元伦理学", "table": "term", "first_seen": "语料回收（学科名审计 2026-11-25）", "basis": "学科通名（中文语料“元伦理”51 次）；凭证 2026-11-25"},
+    {"en": "modern philosophy", "zh": "近代哲学（亦作“现代哲学”）", "table": "term", "first_seen": "语料回收（学科名审计 2026-11-25）", "basis": "学科分期通名，主形从本库分期惯例（近代＝early modern 起），语料亦作“现代哲学”；凭证 2026-11-25"},
+    {"en": "normative ethics", "zh": "规范伦理学", "table": "term", "first_seen": "语料回收（学科名审计 2026-11-25）", "basis": "学科通名（中文语料“规范伦理”22 次）；凭证 2026-11-25"},
+    {"en": "philosophy of action", "zh": "行动哲学", "table": "term", "first_seen": "语料回收（学科名审计 2026-11-25）", "basis": "学科通名（中文语料 18 次）；凭证 2026-11-25"},
+    {"en": "philosophy of biology", "zh": "生物学哲学", "table": "term", "first_seen": "语料回收（学科名审计 2026-11-25）", "basis": "学科通名（中文语料 93 次）；凭证 2026-11-25"},
+    {"en": "philosophy of history", "zh": "历史哲学", "table": "term", "first_seen": "语料回收（学科名审计 2026-11-25）", "basis": "学科通名（中文语料 40 次）；凭证 2026-11-25"},
+    {"en": "philosophy of language", "zh": "语言哲学", "table": "term", "first_seen": "语料回收（学科名审计 2026-11-25）", "basis": "学科通名（中文语料 79 次）；凭证 2026-11-25"},
+    {"en": "philosophy of law", "zh": "法哲学", "table": "term", "first_seen": "语料回收（学科名审计 2026-11-25）", "basis": "学科通名（中文语料 41 次，与 legal theory 法律理论分列；与 philosophy of right（黑格尔 Rechtsphilosophie 语境）同译形，按原文词分列）；凭证 2026-11-25"},
+    {"en": "philosophy of logic", "zh": "逻辑哲学", "table": "term", "first_seen": "语料回收（学科名审计 2026-11-25）", "basis": "学科通名（中文语料 28 次；“哲学逻辑”语料仅 1 次且多见于 Journal of Philosophical Logic 刊名，不取）；凭证 2026-11-25"},
+    {"en": "philosophy of mathematics", "zh": "数学哲学", "table": "term", "first_seen": "语料回收（学科名审计 2026-11-25）", "basis": "学科通名（中文语料 152 次）；凭证 2026-11-25"},
+    {"en": "philosophy of mind", "zh": "心灵哲学（亦作“心智哲学”）", "table": "term", "first_seen": "语料回收（学科名审计 2026-11-25）", "basis": "学科通名（中文语料 94 次，“心智哲学”2 次为异体）；凭证 2026-11-25"},
+    {"en": "philosophy of physics", "zh": "物理学哲学", "table": "term", "first_seen": "语料回收（学科名审计 2026-11-25）", "basis": "学科通名（中文语料 11 次）；凭证 2026-11-25"},
+    {"en": "philosophy of religion", "zh": "宗教哲学", "table": "term", "first_seen": "语料回收（学科名审计 2026-11-25）", "basis": "学科通名（中文语料 96 次）；凭证 2026-11-25"},
+    {"en": "philosophy of science", "zh": "科学哲学", "table": "term", "first_seen": "语料回收（学科名审计 2026-11-25）", "basis": "学科通名（中文语料 163 次）；凭证 2026-11-25"},
+    {"en": "political science", "zh": "政治学", "table": "term", "first_seen": "语料回收（学科名审计 2026-11-25）", "basis": "学科通名（中文语料 82 次）；凭证 2026-11-25"},
+    {"en": "political theory", "zh": "政治理论", "table": "term", "first_seen": "语料回收（学科名审计 2026-11-25）", "basis": "学科通名（中文语料 105 次，与 political philosophy 政治哲学行分列，按原文用词取形）；凭证 2026-11-25"},
+    {"en": "social philosophy", "zh": "社会哲学", "table": "term", "first_seen": "语料回收（学科名审计 2026-11-25）", "basis": "学科通名（中文语料 35 次）；凭证 2026-11-25"},
+    {"en": "theoretical computer science", "zh": "理论计算机科学", "table": "term", "first_seen": "语料回收（学科名审计 2026-11-25）", "basis": "学科通名（中文语料 5 次）；凭证 2026-11-25"}
+  ]
+}
