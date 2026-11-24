@@ -1,0 +1,188 @@
+{
+ "schema": "nonlatin-scan/v1",
+ "scope": "yuanwen/<letter>/*.md（引文候选，参考文献节与代码数学豁免）",
+ "note": "启发式产候选不作裁判；unclassified-latin 仅在有变音符时计入",
+ "files_scanned": 2417,
+ "quote_candidates": 1150,
+ "emph_foreign_candidates": 12786,
+ "by_lang": {
+  "latin-diacritic": {
+   "quotes": 711,
+   "entries": 334,
+   "gloss_explicit": 2,
+   "gloss_parenthetical": 247,
+   "no_gloss": 462
+  },
+  "latin": {
+   "quotes": 187,
+   "entries": 128,
+   "gloss_explicit": 0,
+   "gloss_parenthetical": 73,
+   "no_gloss": 114
+  },
+  "german": {
+   "quotes": 111,
+   "entries": 57,
+   "gloss_explicit": 2,
+   "gloss_parenthetical": 51,
+   "no_gloss": 58
+  },
+  "greek": {
+   "quotes": 78,
+   "entries": 37,
+   "gloss_explicit": 1,
+   "gloss_parenthetical": 25,
+   "no_gloss": 52
+  },
+  "french": {
+   "quotes": 33,
+   "entries": 27,
+   "gloss_explicit": 0,
+   "gloss_parenthetical": 13,
+   "no_gloss": 20
+  },
+  "cjk": {
+   "quotes": 26,
+   "entries": 10,
+   "gloss_explicit": 0,
+   "gloss_parenthetical": 14,
+   "no_gloss": 12
+  },
+  "italian": {
+   "quotes": 3,
+   "entries": 3,
+   "gloss_explicit": 0,
+   "gloss_parenthetical": 0,
+   "no_gloss": 3
+  },
+  "spanish": {
+   "quotes": 1,
+   "entries": 1,
+   "gloss_explicit": 0,
+   "gloss_parenthetical": 1,
+   "no_gloss": 0
+  }
+ },
+ "top_entries": [
+  [
+   "ibn-gabirol",
+   21
+  ],
+  [
+   "ikhwan-al-safa",
+   16
+  ],
+  [
+   "henry-ghent",
+   15
+  ],
+  [
+   "negritude",
+   15
+  ],
+  [
+   "aesthetics-18th-german",
+   14
+  ],
+  [
+   "brentano",
+   14
+  ],
+  [
+   "korean-philosophy",
+   13
+  ],
+  [
+   "meinong.electronic-archives",
+   12
+  ],
+  [
+   "derrida",
+   11
+  ],
+  [
+   "kumaarila",
+   11
+  ],
+  [
+   "wilhelm-humboldt",
+   11
+  ],
+  [
+   "ehrenfels",
+   10
+  ],
+  [
+   "susman-margarete",
+   10
+  ],
+  [
+   "diderot",
+   9
+  ],
+  [
+   "goedel-incompleteness",
+   9
+  ],
+  [
+   "logic-preference",
+   9
+  ],
+  [
+   "epistemology-geometry",
+   8
+  ],
+  [
+   "francis-marchia.primum",
+   8
+  ],
+  [
+   "kyoto-school",
+   8
+  ],
+  [
+   "mathematical-style",
+   8
+  ]
+ ],
+ "samples": {
+  "cjk": [
+   "exhaustive comprehension of concrete facts (actualities) (*jinqi* *shi* 盡其實)",
+   "What is above forms refers to the way [*dao* 道]; what is below forms refers to utensils [*",
+   "Care overflowingly for all the myriad things; heaven and earth form one body [*yiti* 一體]"
+  ],
+  "french": [
+   "Théologie et philosophie. La providence chez al-Fārābī et l’authenticité de l’*Harmonie de",
+   "the Franco Japanese Treaty of 1896—The Naturalization of France: a) for Japanese, b) Hindu",
+   "Le système des objects,"
+  ],
+  "german": [
+   "Daß das Wesen der Dichtkunst in unserer Natur gegründet ist",
+   "*Die Lebenskraft oder der Rhodische Genius: eine Erzählung*",
+   "*Über die Steppen und Wüsten* [Concerning the Steppes and Deserts]"
+  ],
+  "greek": [
+   "the transition from a stationary state   to another stationary state   is allowed *if and ",
+   "a summa of the philosophy of the Ἑν καὶ Πάν",
+   "φ is Ω-satisfiable"
+  ],
+  "italian": [
+   "*il maestro di color che sanno*",
+   "The ten thousand things come forth from Non-Being",
+   "Saggio di interpretazione della geometria non-euclidea"
+  ],
+  "latin": [
+   "improvements in cognitive abilities, analytical problem solving skills and complex thinkin",
+   "There are many senses (*multis modis*) in which being (*ens*) can be said, but they are re",
+   "only the appearance of the thing or the thing in *esse apparens*."
+  ],
+  "latin-diacritic": [
+   "Héloïse’s Problem-List (with Abelard’s Solutions).",
+   "*dharma* means ‘upholding,’ [namely], upholding intrinsic nature (*svabhāva*),",
+   "are often viewed too much in the light of later controversies about the precise ontologica"
+  ],
+  "spanish": [
+   "De los orígenes del criticismo y del escepticismo y especialmente de los precursores españ"
+  ]
+ }
+}
