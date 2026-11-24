@@ -1437,7 +1437,12 @@ def reassemble_article(md, authors, entity_map=None, links=None, greek=None,
         text = " ".join(para)
         # 表题：table_to_md 输出 '*cap*' 紧贴表格（cap 自身可为 **bold**，
         # 故 md 形为 ***X***）——逆装配为 <caption>（bayes-theorem 判例）
-        cm = re.fullmatch(r"\*(.+)\*", text)
+        # 定界不得以 `**`（粗体）成对包裹——那可能是正文粗体段
+        # （presupposition 判例）；单星（`*Table 1:*`）、三星开头
+        # （`***Table 1***`／`***Table 5**: …*`，bayes-theorem 判例）仍是表题
+        _cap_ok = text.startswith("*") and (
+            not text.startswith("**") or text.startswith("***"))
+        cm = re.fullmatch(r"\*(.+)\*", text) if _cap_ok else None
         j = i
         while j < n and not lines[j].strip():
             j += 1

@@ -5,12 +5,12 @@
  "total": 1873,
  "counts": {
   "rule": 0,
-  "pool": 1809,
-  "gap": 64,
+  "pool": 1810,
+  "gap": 63,
   "stale": 0
  },
  "page_bytes": 235952045,
- "pool_bytes": 116976156,
+ "pool_bytes": 117102263,
  "entries": [
   {
    "slug": "18thGerman-preKant",
@@ -7248,9 +7248,9 @@
   {
    "slug": "logic-combinatory",
    "status": "pool",
-   "n_patches": 280,
+   "n_patches": 281,
    "page_len": 155677,
-   "pool_bytes": 102650
+   "pool_bytes": 102604
   },
   {
    "slug": "logic-combining",
@@ -10043,13 +10043,10 @@
   },
   {
    "slug": "presupposition",
-   "status": "gap",
-   "why": "unaligned text units",
+   "status": "pool",
+   "n_patches": 241,
    "page_len": 167633,
-   "sample": {
-    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
-    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
-   }
+   "pool_bytes": 126673
   },
   {
    "slug": "price",
@@ -11785,9 +11782,9 @@
   {
    "slug": "situations-semantics",
    "status": "pool",
-   "n_patches": 227,
+   "n_patches": 234,
    "page_len": 135772,
-   "pool_bytes": 69615
+   "pool_bytes": 69095
   },
   {
    "slug": "skeptical-theism",
