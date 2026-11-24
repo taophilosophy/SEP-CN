@@ -498,3 +498,16 @@
 * 未收：Dusk of Dawn（35 次出现，无中译本信息）、Consciencism（4 次）。
 * 凭证：`results/works-batch15-2026-11-24.md`。
 * 落册：`term_flow` 6/0；`registry_azsort` 8,258→8,264 守恒；`check_all` 17 项全绿。
+
+## 2026-11-24：人名第二十六批（中文源补证 5 人，Kamm 同人异键合并）
+
+* 背景：前批（第二十五批）起改走中文语料定向核名，处理上一轮仍保留英文原名的行。本批 5 人取得可引证的汉名：
+  * Susan Bordo → 苏珊·鲍尔多（中译本《不能承受之重》綦亮、赵育春译，江苏人民 2009，ISBN 9787214058652）；
+  * Berys Gaut → 贝里斯·高特（《文艺理论研究》2023 年第 6 期李桢、沈语冰文，并译其书为《艺术、情感与伦理》）；
+  * Michael Ayers → 迈克尔·艾尔斯（台译本《洛克》麥可·艾爾斯，陈瑞麟译，麦田 1999，馆藏 MARC 著录；仅取人名译形，非全译）；
+  * Neil Levy → 尼尔·利维（中译本《坏信念》傅婧瑛译，人民邮电 2025，ISBN 9787115684516）；
+  * Frances Kamm → 弗朗西丝·卡姆（中译本《电车难题之谜》常云云译，北京大学 2019，署名“弗朗西丝·默纳·卡姆”，入别名列）。
+* 合并：`Kamm, F.M.`（F.M.卡姆，首现 ethics-deontological，11-04 登记）与 `Frances Kamm`（Q5478769）同人异键，删重复行，键与译形入别名，来源 slug 并入首现，依据列留合并说明。人名表 4,898→4,897（净 −1）。
+* 查无定名、保持英文原名：Eva Kittay（台湾学界径用 Kittay，书名译《爱的劳动》）、Amie Thomasson、Mathias Risse、Michael Huemer、Rae Langton（台文“兰腾/藍騰”，大陆未定）、Susanna Siegel（无中译本）、David Brink（仅社团科普文作“布林克”，非权威）。
+* 凭证：`results/people-cnweb-2026-11-24-b26.md`；生成器 `bin/make_rowspec_people26.py`。
+* 落册：定点改写 5 行、删 1 行；`registry_azsort` 人名表 4,897 守恒；`check_terms` 人名缺籍属/生卒 770 条（告警口径不变）；`check_all` 17 项全绿。
