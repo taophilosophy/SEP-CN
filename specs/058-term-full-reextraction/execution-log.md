@@ -593,3 +593,9 @@
 * 查无汉名：Lawrence Barsalou（中文心理学文献径用原文）。
 * 凭证：`results/people-cnweb-2026-11-24-b32.md`；生成器 `bin/make_rowspec_people32.py`。
 * 落册：定点改写 3 行；`check_all` 17 项全绿。
+
+## 2026-11-24：术语依据补证 批次 2（100 行）
+
+* 26 行同形同义补审定凭证（数学、物理学、生态学、计算机、自然辩证法、马克思主义等库）；1 行按审定改定：Axiom of Reducibility→还原公理（旧形降亦作）；9 行同形异义/异域/百科源记不改；65 行审定无收录，仅批次留痕。
+* 凭证：`results/termonline-b2-2026-11-24.md`＋`.tsv`；工具 `bin/term_evidence_b2_patch.py`（按 TSV 自动引用 ALIGNED_SAME）。
+* 落册：术语表 8,262 守恒；`check_all` 17 项全绿。批三 100 行已排入后台。
