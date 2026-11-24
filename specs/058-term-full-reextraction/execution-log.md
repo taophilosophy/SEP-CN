@@ -606,3 +606,10 @@
 * 新增通用工具 `bin/term_evidence_cite.py`（后续批次直接复用）。
 * 凭证：`results/termonline-b3-2026-11-24.md`＋`.tsv`。
 * 落册：术语表 8,262 守恒；`check_all` 17 项全绿。批四爬取中。
+
+## 2026-11-24：人名第三十三批（中文源补证 1 人）
+
+* Rae Langton → 雷·兰顿：端传媒 2021-02-20 简体长文署名「剑桥大学的哲学教授雷·兰顿（Rae Langton）」；台译「藍騰」（郑光明，《东吴哲学学报》47 期）入别名。
+* 查无：David O. Brink（无中译本，数据库自动译名不采）。
+* 凭证：`results/people-cnweb-2026-11-24-b33.md`；`result/people-cnweb-2026-11-24-queryless.md` 同步改记。
+* 落册：定点改写 1 行；`check_all` 17 项全绿。
