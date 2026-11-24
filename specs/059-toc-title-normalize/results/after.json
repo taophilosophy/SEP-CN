@@ -1,0 +1,75 @@
+{
+ "P1_U2027": 0,
+ "P2_html_entity": 0,
+ "P3_jian_leading_space": 0,
+ "P4_colon_jian": 0,
+ "P5_colon_space_after_jian": 0,
+ "P6_group_en_first": 0,
+ "P7_mulu_en_dash_heading": 0,
+ "P8_alias_missing_zh_link": 0,
+ "N_lines_SUMMARY": 2788,
+ "N_lines_mulu": 5275,
+ "N_entries": 3772,
+ "N_alias": 638,
+ "N_group": 182,
+ "P11_alias_left_not_baseline_title": 484,
+ "P11_samples": [
+  {
+   "file": "SUMMARY.md",
+   "line": 29,
+   "frag": "accidental properties"
+  },
+  {
+   "file": "SUMMARY.md",
+   "line": 31,
+   "frag": "joint"
+  },
+  {
+   "file": "SUMMARY.md",
+   "line": 34,
+   "frag": "agent-relative vs. agent-neutral reasons"
+  },
+  {
+   "file": "SUMMARY.md",
+   "line": 35,
+   "frag": "internal vs. external reasons for action"
+  },
+  {
+   "file": "SUMMARY.md",
+   "line": 38,
+   "frag": "actualism"
+  },
+  {
+   "file": "SUMMARY.md",
+   "line": 44,
+   "frag": "Aegidius Romanus"
+  },
+  {
+   "file": "SUMMARY.md",
+   "line": 45,
+   "frag": "Aenesidemus"
+  },
+  {
+   "file": "SUMMARY.md",
+   "line": 51,
+   "frag": "Beardsley"
+  },
+  {
+   "file": "SUMMARY.md",
+   "line": 53,
+   "frag": "Chinese Philosophy, painting and calligraphy"
+  },
+  {
+   "file": "SUMMARY.md",
+   "line": 55,
+   "frag": "Collingwood"
+  }
+ ],
+ "P12_entry_u2027": 0,
+ "P12_entry_entity": 0,
+ "P12_mulu_heading_digit_dash": [
+  1618,
+  2136
+ ]
+}
+VERDICT: PASS

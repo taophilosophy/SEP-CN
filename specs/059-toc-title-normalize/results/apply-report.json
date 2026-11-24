@@ -1,0 +1,192 @@
+{
+ "written": true,
+ "applied": [
+  {
+   "file": "SUMMARY.md",
+   "line": 32,
+   "tag": "A1-见前空格",
+   "old": "  * \\*逻辑 ——见逻辑学：行动的逻辑 The Logic of Action — see logic: action",
+   "new": "  * \\*逻辑——见逻辑学：行动的逻辑 The Logic of Action — see logic: action"
+  },
+  {
+   "file": "SUMMARY.md",
+   "line": 36,
+   "tag": "A2-HTML实体",
+   "old": "  * \\*行动的理由：正当性、动机、解释——见行动的理由：正当性、动机、解释 reasons for action &ndash; justification, motivation, explanation — see reasons for action: justification, motivation, explanation",
+   "new": "  * \\*行动的理由：正当性、动机、解释——见行动的理由：正当性、动机、解释 reasons for action – justification, motivation, explanation — see reasons for action: justification, motivation, explanation"
+  },
+  {
+   "file": "SUMMARY.md",
+   "line": 214,
+   "tag": "A3-间隔号U2027",
+   "old": "* \\*弗朗索瓦-马里‧阿鲁埃——见伏尔泰 Arouet, François-Marie — see Voltaire",
+   "new": "* \\*弗朗索瓦-马里·阿鲁埃——见伏尔泰 Arouet, François-Marie — see Voltaire"
+  },
+  {
+   "file": "SUMMARY.md",
+   "line": 271,
+   "tag": "A4-见后冒号空格",
+   "old": "* \\*亚历山大·贝恩——见苏格兰哲学： 19 世纪苏格兰哲学 Bain, Alexander — see Scottish Philosophy in the 19th Century",
+   "new": "* \\*亚历山大·贝恩——见苏格兰哲学：19 世纪苏格兰哲学 Bain, Alexander — see Scottish Philosophy in the 19th Century"
+  },
+  {
+   "file": "SUMMARY.md",
+   "line": 279,
+   "tag": "A5-见后冒号空格",
+   "old": "* \\*詹姆斯·比蒂——见苏格兰哲学： 18 世纪苏格兰哲学 Beattie, James — see Scottish Philosophy in the 18th Century",
+   "new": "* \\*詹姆斯·比蒂——见苏格兰哲学：18 世纪苏格兰哲学 Beattie, James — see Scottish Philosophy in the 18th Century"
+  },
+  {
+   "file": "SUMMARY.md",
+   "line": 284,
+   "tag": "A6-见前空格",
+   "old": "* \\*存在与变化 ——见时间 being and becoming — see time",
+   "new": "* \\*存在与变化——见时间 being and becoming — see time"
+  },
+  {
+   "file": "SUMMARY.md",
+   "line": 539,
+   "tag": "A7-分组行序",
+   "old": "* \\*Confucianism 儒学",
+   "new": "* \\*儒学 Confucianism"
+  },
+  {
+   "file": "SUMMARY.md",
+   "line": 769,
+   "tag": "A8-冒号见",
+   "old": "  * \\*拉姆齐与代际福利经济学：见弗兰克·拉姆齐：拉姆齐与代际福利经济学 Ramsey and intergenerational welfare economics — see Ramsey, Frank: and intergenerational welfare economics",
+   "new": "  * \\*拉姆齐与代际福利经济学——见弗兰克·拉姆齐：拉姆齐与代际福利经济学 Ramsey and intergenerational welfare economics — see Ramsey, Frank: and intergenerational welfare economics"
+  },
+  {
+   "file": "SUMMARY.md",
+   "line": 1186,
+   "tag": "A9-见前空格",
+   "old": "* \\*人体试验 ——见生物医学伦理学：临床研究伦理 human test subjects — see The Ethics of Clinical Research",
+   "new": "* \\*人体试验——见生物医学伦理学：临床研究伦理 human test subjects — see The Ethics of Clinical Research"
+  },
+  {
+   "file": "SUMMARY.md",
+   "line": 2326,
+   "tag": "A10-冒号见",
+   "old": "  * \\*德性伦理学：见伦理学：德性伦理学 virtue ethics — see ethics: virtue",
+   "new": "  * \\*德性伦理学——见伦理学：德性伦理学 virtue ethics — see ethics: virtue"
+  },
+  {
+   "file": "SUMMARY.md",
+   "line": 2329,
+   "tag": "A11-冒号见",
+   "old": "* \\*角色义务：见义务：特殊义务 role obligations — see obligations: special",
+   "new": "* \\*角色义务——见义务：特殊义务 role obligations — see obligations: special"
+  },
+  {
+   "file": "SUMMARY.md",
+   "line": 2515,
+   "tag": "A12-分组行序",
+   "old": "* \\*speech 言语",
+   "new": "* \\*言语 speech"
+  },
+  {
+   "file": "SUMMARY.md",
+   "line": 2547,
+   "tag": "A13-冒号见",
+   "old": "  * \\*数学哲学：见数学哲学：数学哲学中的结构主义 Structuralism in the Philosophy of Mathematics — see mathematics, philosophy of: structuralism",
+   "new": "  * \\*数学哲学——见数学哲学：数学哲学中的结构主义 Structuralism in the Philosophy of Mathematics — see mathematics, philosophy of: structuralism"
+  },
+  {
+   "file": "mu-lu-s.md",
+   "line": 1618,
+   "tag": "A14-连接号一字线",
+   "old": "#### 13–14 世纪",
+   "new": "#### 13—14 世纪"
+  },
+  {
+   "file": "mu-lu-s.md",
+   "line": 2136,
+   "tag": "A15-连接号一字线",
+   "old": "### 19–20世纪",
+   "new": "### 19—20 世纪"
+  },
+  {
+   "file": "SUMMARY.md",
+   "line": 680,
+   "tag": "B1-补见字",
+   "old": "* \\*设计论证——目的论：上帝存在的目的论论证 design, argument from — see teleology: teleological arguments for God’s existence",
+   "new": "* \\*设计论证——见目的论：上帝存在的目的论论证 design, argument from — see teleology: teleological arguments for God’s existence"
+  },
+  {
+   "file": "SUMMARY.md",
+   "line": 715,
+   "tag": "B2-道德动机",
+   "old": "  * \\*道德动机 moral — see moral motivation",
+   "new": "  * \\*道德动机——见道德动机 moral — see moral motivation"
+  },
+  {
+   "file": "SUMMARY.md",
+   "line": 985,
+   "tag": "B3-费里尔",
+   "old": "* \\*詹姆斯·弗雷德里克·费里尔 Ferrier, James — see Scottish Philosophy: in the 19th century",
+   "new": "* \\*詹姆斯·弗雷德里克·费里尔——见苏格兰哲学：19 世纪苏格兰哲学 Ferrier, James — see Scottish Philosophy: in the 19th century"
+  },
+  {
+   "file": "SUMMARY.md",
+   "line": 1229,
+   "tag": "B4-人格同一性",
+   "old": "  * \\*人格同一性 personal — see personal identity",
+   "new": "  * \\*人格同一性——见人格同一性 personal — see personal identity"
+  },
+  {
+   "file": "SUMMARY.md",
+   "line": 1808,
+   "tag": "B5-道德实在论",
+   "old": "  * \\*道德实在论 moral — see moral realism",
+   "new": "  * \\*道德实在论——见道德实在论 moral — see moral realism"
+  },
+  {
+   "file": "SUMMARY.md",
+   "line": 1817,
+   "tag": "B6-道德怀疑论",
+   "old": "  * \\*道德怀疑论 moral — see moral skepticism",
+   "new": "  * \\*道德怀疑论——见道德怀疑论 moral — see moral skepticism"
+  },
+  {
+   "file": "SUMMARY.md",
+   "line": 2247,
+   "tag": "B7-结构实在论",
+   "old": "  * \\*结构实在论 structural — see structural realism",
+   "new": "  * \\*结构实在论——见结构实在论 structural — see structural realism"
+  },
+  {
+   "file": "SUMMARY.md",
+   "line": 2378,
+   "tag": "B8-科学模型",
+   "old": "  * \\*科学模型 Models in Science — see models in science",
+   "new": "  * \\*科学模型——见科学模型 Models in Science — see models in science"
+  },
+  {
+   "file": "SUMMARY.md",
+   "line": 2516,
+   "tag": "B9-内部言语",
+   "old": "  * \\*内部言语 inner — see inner speech",
+   "new": "  * \\*内部言语——见内部言语 inner — see inner speech"
+  },
+  {
+   "file": "SUMMARY.md",
+   "line": 2556,
+   "tag": "B10-子结构逻辑",
+   "old": "* \\*子结构逻辑 substructural logics — see logic: substructural",
+   "new": "* \\*子结构逻辑——见子结构逻辑 substructural logics — see logic: substructural"
+  },
+  {
+   "file": "SUMMARY.md",
+   "line": 2562,
+   "tag": "B11-预先指示",
+   "old": "* \\*预先指示和替代决策 surrogate decision-making for incompetent individuals — see advance directives",
+   "new": "* \\*预先指示和替代决策——见预先指示和替代决策 surrogate decision-making for incompetent individuals — see advance directives"
+  }
+ ],
+ "skipped_applied": [],
+ "abort": [],
+ "applied_count": 26,
+ "skipped_count": 0
+}
+applied=26 skipped=0 abort=0

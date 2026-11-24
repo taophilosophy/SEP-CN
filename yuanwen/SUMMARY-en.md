@@ -18,7 +18,7 @@
   * Practical Reason and the Structure of Actions — see practical reason: and the structure of actions
   * agent-relative vs. agent-neutral reasons — see reasons for action: agent-neutral vs. agent-relative
   * internal vs. external reasons for action — see reasons for action: internal vs. external
-  * reasons for action &ndash; justification, motivation, explanation — see reasons for action: justification, motivation, explanation
+  * reasons for action – justification, motivation, explanation — see reasons for action: justification, motivation, explanation
 * [Action-based Theories of Perception (Robert Briscoe, Rick Grush, Alison Springle)](a/action-perception.md)
 * actualism — see The Possibilism-Actualism Debate
 * [Actualism and Possibilism in Ethics (Travis Timmerman, Yishai Cohen)](a/actualism-possibilism-ethics.md)
