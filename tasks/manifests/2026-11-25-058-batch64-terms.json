@@ -1,0 +1,98 @@
+{
+ "batch": "058-batch64-terms",
+ "date": "2026-11-25",
+ "scope": "术语批 13：引号片段审计（pool type=quoted 且登记册缺、语料或英文侧高频）；inductive reasoning 并入既有 inductive inference 行",
+ "rows": [
+  {
+   "en": "divine names",
+   "zh": "神名",
+   "table": "term",
+   "first_seen": "语料回收（引号片段审计 2026-11-25）",
+   "basis": "中世纪与宗教哲学通行（伪狄奥尼修斯《神名论》语境）；凭证 2026-11-25"
+  },
+  {
+   "en": "equal respect",
+   "zh": "平等尊重",
+   "table": "term",
+   "first_seen": "语料回收（引号片段审计 2026-11-25）",
+   "basis": "政治哲学通行（与 equal concern 平等关切对举）；凭证 2026-11-25"
+  },
+  {
+   "en": "eternal law",
+   "zh": "永恒法",
+   "table": "term",
+   "first_seen": "语料回收（引号片段审计 2026-11-25）",
+   "basis": "阿奎那法哲学通行（与自然法、人法并列）；凭证 2026-11-25"
+  },
+  {
+   "en": "evil genius",
+   "zh": "恶魔（笛卡尔 evil genius；与 demon 恶魔按原文分列）",
+   "table": "term",
+   "first_seen": "语料回收（引号片段审计 2026-11-25）",
+   "basis": "笛卡尔研究通行（第一沉思的 genium malignum）；凭证 2026-11-25"
+  },
+  {
+   "en": "experimental philosopher",
+   "zh": "实验哲学家",
+   "table": "term",
+   "first_seen": "语料回收（引号片段审计 2026-11-25）",
+   "basis": "实验哲学通行（与 armchair philosopher 扶手椅哲学家对举）；凭证 2026-11-25"
+  },
+  {
+   "en": "fine art",
+   "zh": "美的艺术（亦作“美术”）",
+   "table": "term",
+   "first_seen": "语料回收（引号片段审计 2026-11-25）",
+   "basis": "美学通行（Kant 美的艺术；复数 fine arts 同形）；凭证 2026-11-25"
+  },
+  {
+   "en": "legal validity",
+   "zh": "法律效力",
+   "table": "term",
+   "first_seen": "语料回收（引号片段审计 2026-11-25）",
+   "basis": "法哲学通行（与 legal obligation 法律义务分列）；凭证 2026-11-25"
+  },
+  {
+   "en": "mind-body problem",
+   "zh": "心身问题",
+   "table": "term",
+   "first_seen": "语料回收（引号片段审计 2026-11-25）",
+   "basis": "心灵哲学通行（亦作“身心问题”，语料两形并存）；凭证 2026-11-25"
+  },
+  {
+   "en": "open question argument",
+   "zh": "开放问题论证",
+   "table": "term",
+   "first_seen": "语料回收（引号片段审计 2026-11-25）",
+   "basis": "元伦理学通行（摩尔）；凭证 2026-11-25"
+  },
+  {
+   "en": "proximate cause",
+   "zh": "近因",
+   "table": "term",
+   "first_seen": "语料回收（引号片段审计 2026-11-25）",
+   "basis": "经院与法哲学通行（与 remote cause 远因、ultimate cause 终极因对举）；凭证 2026-11-25"
+  },
+  {
+   "en": "rational egoism",
+   "zh": "理性利己主义",
+   "table": "term",
+   "first_seen": "语料回收（引号片段审计 2026-11-25）",
+   "basis": "伦理学通行（与 psychological egoism 心理利己主义对举；语料作“理性利己”）；凭证 2026-11-25"
+  },
+  {
+   "en": "specious present",
+   "zh": "显似现在（亦作“似是而非的现在”）",
+   "table": "term",
+   "first_seen": "语料回收（引号片段审计 2026-11-25）",
+   "basis": "时间哲学通行（詹姆斯；语料“显似”62 次）；凭证 2026-11-25"
+  },
+  {
+   "en": "vital force",
+   "zh": "生命力",
+   "table": "term",
+   "first_seen": "语料回收（引号片段审计 2026-11-25）",
+   "basis": "生命哲学与康德目的论通行（与 mechanism 机械论对举）；凭证 2026-11-25"
+  }
+ ]
+}
