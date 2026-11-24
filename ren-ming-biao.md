@@ -4113,7 +4113,7 @@
 | Shalkowski, Scott | — | 斯科特·沙尔科夫斯基 | — | — | religion-epistemology | 学界通行音译；凭证 2026-11-10 | 2026-11-10 |
 | Shanahan, Murray | — | 默里·沙纳汉 | — | — | f/frame-problem | AI 学界通行汉译（本词条作者） | 2026-11-10 |
 | Shang Yang | — | 商鞅 | 中国（战国·秦） | 约前390–前338 | han-dynasty | 上游自带汉字（战国法家，亦作商君）；籍属/生卒联网查证：Wikidata Q351345（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
-| Shannon Sullivan | — | Shannon Sullivan（无通行汉名，保留英文原名） | 美国 | — | 语料回收（全目录） | 学界通行音译；籍属/生卒联网查证：Wikidata Q21062465（2026-11-24 查，凭证 people-wikidata-2026-11-24-b8.tsv）；女性主义哲学与批判种族理论；在世，Wikidata 无生卒 | 2026-11-24 |
+| Shannon Sullivan | — | Shannon Sullivan（无通行汉名，保留英文原名） | 美国 | 1967– | 语料回收（全目录） | 学界通行音译；籍属/生卒联网查证：Wikidata Q21062465（2026-11-24 查，凭证 people-wikidata-2026-11-24-b8.tsv）；女性主义哲学与批判种族理论；生卒补记据同 QID（P569 1967，2026-11-24 查，凭证 backfill-auto-2026-11-23.tsv） | 2026-11-24 |
 | Shannon, Claude | — | 克劳德·香农 | 美国 | 1916–2001 | qt-entangle | 学界通行汉译（信息论）；凭证 2026-11-09 | 2026-11-09 |
 | Shao Yong | 邵雍 | 邵雍 | 中国／北宋 | 1012–1077 | zhu-xi | 学界通行汉译（康节先生；汉字本名）；凭证 2026-11-15 | 2026-11-15 |
 | Shapiro, Lawrence A. | — | 劳伦斯·夏皮罗 | 美国 | 1962– | epiphenomenalism | 音译（正文作“夏皮罗”；与既有 Shapiro, Stewart 同姓异人）；凭证 2026-11-12；籍属/生卒联网查证：GND 规范标目 gnd 139889833（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
