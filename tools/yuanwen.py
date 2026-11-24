@@ -1428,8 +1428,11 @@ def convert_entry(slug):
     article = strip_closed_comments(article)
     article, stash = protect_cross_block_math(article)
     tm = re.search(r'<meta name="citation_title" content="([^"]*)"', html)
+    # 空 citation_author 不计入作者行（plato-ethics-shorter 判例，2026-11-24：
+    # H0 带 content="" 的 meta，join 后 '*%s*' 产出孤立 '**' 行，全库唯一）
     authors = [unescape(a) for a in
-               re.findall(r'<meta name="citation_author" content="([^"]*)"', html)]
+               re.findall(r'<meta name="citation_author" content="([^"]*)"', html)
+               if a.strip()]
 
     letter = slug[0]
     ydir = repo_path('yuanwen', letter)

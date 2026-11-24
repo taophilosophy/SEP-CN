@@ -477,3 +477,11 @@ B3.1 回归：不动点 **1,435/1,873（76.6%）**（此前 1,240，＋195，无
 **实测**：定点 5/5 回池；全量双通道 **pool 1,779（95.0%）／gap 94／stale 0**，池占页 48.34%；delta＝gap→pool 5、失池 0；B3.1 1,652 不变。缺口普查 md_extra 58／h0_extra 12／math 8／text 7／star 4／digit 3／entity 2。
 **同批文档整理**：spec.md 接近 ADR-0004 上限，第二十六～三十二批实施记抽到 historical-batches.md。
 **教训**：①同形双源先量规模再决定件级/按位账（双源同页仅 2 件，留）；②已有账（entities）优先复用判据。
+
+## 2026-11-24 第三十四批：空作者 meta 过滤与词内锚兜底（池 1,779→1,780、B3.1 1,652→1,653）
+
+**缺陷**（plato-ethics-shorter 逐件取证，双根因）：①H0 带 `<meta name="citation_author" content="">`（全库唯一空 meta），C 的 `'*%s*' % ', '.join([''])` 在作者行位置产出孤立 `**` 行，H0 无对应元素，R 发字面 `**` 致页首文字差（首差 u 流 `**` 对正文）；②同页 H0 折行劈词锚 `Hippias M<a href="#16">ajor</a>`／`M<a href="#18">inor</a>`，md 里 "ajor"/"inor" 无词界可寻，游标法恒空，26 条 link_miss。
+**修法**：①C 侧 `yuanwen.py` authors 过滤空串，重转仅删孤星行 2 行（其余逐字节同）；B3.1 仿真层同步（`reassemble_article` 与 `convert_from_parts` 两处同滤）。②R 侧词内锚兜底：词界法空时，要求左邻片段与账 `lead` 末词逐字相等（大小写不敏感）＋片段起点是词界＋锚文收在词界，三者齐备才认。首版宽松子串版在 daoism 误挂（池 raw +35 而 items 全同），严格版复扫 daoism 池逐字节同 HEAD。
+**实测**：单件双绿（B3.1 ok、B3.2 pool 155 补丁、池占页 62.49%）；全量双通道 **pool 1,780（95.0%）／gap 93／stale 0**，池占页 **48.37%**，judge 与建池逐件同值；delta＝gap→pool 1、**失池 0**；**B3.1 1,653（+1）0 转红**；I2/I3 gate 0 issue（1,873）；check_all 17 项全绿；池文件变更面只有 `plato-ethics-shorter.json` 新增。
+**同批文档**：`assembly-scan-all.json` 自第二十批后未入库（HEAD 记 1,623 陈年值），本次随批提交刷新；缺口分族刷新 star 4→3（md_extra 58／h0_extra 12／math 8／text 7／star 3／digit 3／entity 2）。
+**教训**：①meta 层异常值（空串过真值判断）是 C 侧最隐蔽的注入源——真值判断不等于可用值；②词内锚兜底必须用账内已有词（`lead` 末词）做整词三重校验，裸子串匹配必误挂（“池 raw 变而 items 全同”是定位误挂的好探针）；③扫描结果 JSON 与计数须同步提交，否则全量对照失真（HEAD 扫描文件陈旧曾使集合级对照虚增 29 件“转绿”）。

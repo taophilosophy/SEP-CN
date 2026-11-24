@@ -5,12 +5,12 @@
  "total": 1873,
  "counts": {
   "rule": 0,
-  "pool": 1779,
-  "gap": 94,
+  "pool": 1780,
+  "gap": 93,
   "stale": 0
  },
  "page_bytes": 235952045,
- "pool_bytes": 114058473,
+ "pool_bytes": 114122449,
  "entries": [
   {
    "slug": "18thGerman-preKant",
@@ -10088,18 +10088,9 @@
   {
    "slug": "plato-ethics-shorter",
    "page_len": 102378,
-   "link_miss": 26,
-   "miss_sample": [
-    "ajor",
-    "inor",
-    "Euthydemus"
-   ],
-   "status": "gap",
-   "why": "unaligned text units",
-   "sample": {
-    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
-    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
-   }
+   "status": "pool",
+   "n_patches": 155,
+   "pool_bytes": 63976
   },
   {
    "slug": "plato-friendship",

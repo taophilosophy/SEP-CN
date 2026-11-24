@@ -274,6 +274,27 @@ def restore_links(line):
         # 候选序：H0 记的**左邻字符**优先（`(<a>20</a>)` 的 `(`；同文另有
         # 裸 `[20]` 标记时不再抢位，possible-worlds 判例），其余顺次兜底
         cands = _occ_positions(flat, t)
+        if not cands and len(t) >= 2 and re.match(r"[A-Za-z]", t):
+            # 词内锚兜底（plato-ethics-shorter 判例：H0 折行劈词
+            # `Hippias M<a href="#16">ajor</a>`，md 里 "ajor" 无词界可寻，
+            # 26 条 link_miss 全由此起）。严格版：左邻片段须与账 lead 末词
+            # 逐字相等（大小写不敏感）、片段起点是词界、锚文收在词界——
+            # 三者齐备才认，否则宁可 defer（宽松子串版曾在 daoism 误挂，
+            # 池 raw +35 而 items 不变，2026-11-24 判例）。
+            _lead0 = lk.get("lead") or ""
+            _lw = (_lead0.split(" ") or [""])[-1]
+            if _lw and re.fullmatch(r"[A-Za-z]+", _lw):
+                for m in re.finditer(re.escape(t), flat):
+                    p = m.start()
+                    q = p - len(_lw)
+                    if q < 0 or flat[q:p].lower() != _lw:
+                        continue
+                    if q > 0 and flat[q - 1].isalnum():
+                        continue
+                    r = p + len(t)
+                    if r < len(flat) and flat[r].isalnum():
+                        continue
+                    cands.append(p)
         _lead = lk.get("lead") or ""
         # 消歧只对**短锚文**（≤3 字符，多为数字/编号）生效：这类锚文同文
         # 多处出现且无法从上下文分辨（possible-worlds `20`、infinity `2`）。
@@ -1010,6 +1031,9 @@ def reassemble_article(md, authors, entity_map=None, links=None, greek=None,
            未消费条目经 LINK_MISSES 暴露给判官（账/文不一致即红）。
     greek：按件希腊宏覆盖（同名不同宏：pi/varphi 之类 C 侧同形不可分）。"""
     global _EM, _LINKS, _LINKS_USED, _LINK_SEEN, _LINK_IDX, _GREEK, _GREEK_IDX
+    # 空 citation_author meta 不造作者行（与 yuanwen.py 同步：plato-ethics-shorter
+    # 判例，H0 带 content="" 的 meta，`'*%s*' % ''` 即孤立 '**'）
+    authors = [a for a in (authors or []) if a and a.strip()]
     global _ITAL, _GREEK_FORM, _NOTE_FORMS, _MATH_FORMS, _MATH_DOLLARS
     global _BQ
     _BQ = bq or None
@@ -1313,6 +1337,7 @@ def _list_html(items):
 
 def convert_from_parts(slug, title, authors, article_html, notes_html=None):
     """同源求值：replicate convert_entry 主链（读映射原体），不落盘。"""
+    authors = [a for a in (authors or []) if a and a.strip()]  # 空 meta 不造作者行
     article = yuanwen.strip_closed_comments(article_html)
     article, stash = yuanwen.protect_cross_block_math(article)
     ctx = yuanwen.Ctx(slug)
