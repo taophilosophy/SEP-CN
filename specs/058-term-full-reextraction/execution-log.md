@@ -571,3 +571,11 @@
 * 同形异人交叉标注 4 组：Collins, John 两行、Menger Carl/Karl、Helen/Helene、Davis/Davies，均加“同译名异人，合法并存”与凭证；Wilkinson ×3 系 ADR-0022 作者引用组，不处置。
 * 凭证：`results/people-dup-triage-2026-11-24.md`；生成器 `bin/people_dup_triage_20261124.py`。
 * 落册：`registry_azsort` 4,893 守恒；`check_all` 17 项全绿。
+
+## 2026-11-24：术语译法重复 13 组裁定
+
+* 真合并 2 组：moral duties→moral obligation（单复数）、moral standing→moral status（同义异形），删除行 slug 与依据并入，术语表 8,264→8,262。
+* 同形异义补标注 3 组 6 行：choice theory／selection theory、cognitive ability／cognitive capacities、divine nature／ulūhiyya。
+* 原已撞形豁免 7 组（概念化、经验美学、历史化、错觉、宗（所立）、次级原因、社会建构论）确认不动；`拉丁原文保留` 为体例占位，非碰撞。
+* 凭证：`results/term-dup-triage-2026-11-24.md`；生成器 `bin/term_dup_triage_20261124.py`。
+* 落册：`registry_azsort` 术语表 8,262 守恒；`check_all` 17 项全绿。

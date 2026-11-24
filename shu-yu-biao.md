@@ -992,7 +992,7 @@
 | choice schema | — | 选择图式 | 首现（intuitionism） | 直觉主义算术术语；凭证 2026-11-10 | 2026-11-10 |
 | choice sequence | — | 选择序列 | 首现（intuitionism） | 直觉主义数学通行（布劳威尔术语）；凭证 2026-11-10 | 2026-11-10 |
 | choice set | — | 选择集 | axiom-choice | 学界通行（与 transversal 横截同指异名，照源并用） | 2026-11-13 |
-| choice theory | — | 选择理论 | 语料回收（specs/058 全库提取） | 学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22） | 2026-11-22 |
+| choice theory | — | 选择理论 | 语料回收（specs/058 全库提取） | 学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22）；同形异义：choice theory 指理性选择/博弈论与决策论，与 selection theory（演化选择）异概念，按条分立（2026-11-24 复核，凭证 term-dup-triage-2026-11-24.md） | 2026-11-22 |
 | choking under pressure | — | 高压下失常 | knowledge-how | 运动心理学通行（choking 现象）；凭证 2026-11-10 | 2026-11-10 |
 | chŏnghye ssangsu(定慧雙修) | 定慧雙修 | 定慧双修 | korean-buddhism | 汉文传统写法（知讷实践纲领）；键形归一 2026-11-21：全角括注／斜线改半角（键须为源语形）；旧键 chŏnghye ssangsu（定慧雙修） | 2026-11-21 |
 | CHSH inequality | — | CHSH 不等式 | 语料回收（bell-theorem） | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29） | 2026-10-27 |
@@ -1091,8 +1091,8 @@
 | cogito ergo sum | cogito ergo sum | 我思故我在 | gomez-pereira | 学界千年通行（与既有 cogito=我思 行对齐）；凭证 2026-11-12 | 2026-11-12 |
 | cognitio | cognitio | 认知（经院拉丁术语） | 语料回收（标题词） | 学界惯例（语料回收（正文斜体术语，specs/011 主题词汇解析））；凭证 2026-11-04；撞形豁免 2026-11-21：同形异语／同概念异形，按条目语境区分，不合并 | 2026-11-21 |
 | cognition | — | 认知 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·医学·神经外科学·神经外科病理生理·脑静脉系统，2026-11-18 JWT 直连凭证）；撞形豁免 2026-11-21：同形异语／同概念异形，按条目语境区分，不合并 | 2026-11-21 |
-| cognitive ability | — | 认知能力 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·行为医学·行为的心理学基础·人格与行为，2026-11-18 JWT 直连凭证） | 2026-11-19 |
-| cognitive capacities | — | 认知能力 | 语料回收（specs/058 全库提取） | 学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22） | 2026-11-22 |
+| cognitive ability | — | 认知能力 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·行为医学·行为的心理学基础·人格与行为，2026-11-18 JWT 直连凭证）；同形异义：cognitive ability 指能力（able），与 cognitive capacities（官能/容量）异概念，按条分立（2026-11-24 复核，凭证 term-dup-triage-2026-11-24.md） | 2026-11-19 |
+| cognitive capacities | — | 认知能力 | 语料回收（specs/058 全库提取） | 学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22）；同形异义：cognitive capacities 指认知官能/容量，与 cognitive ability（能力）异概念，按条分立（2026-11-24 复核，凭证 term-dup-triage-2026-11-24.md） | 2026-11-22 |
 | cognitive content | — | 认知内容 | gadamer-aesthetics | 学界惯例（认识论/美学通行） | 2026-11-01 |
 | cognitive development | — | 认知发展 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·心理学·发展心理学，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | cognitive faculties | — | 认知官能 | 语料回收（specs/058 全库提取） | 学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22） | 2026-11-22 |
@@ -1950,7 +1950,7 @@
 | divine ideas | — | 神圣理念（亦作“神圣观念”） | 语料回收（marsilius-inghen 首译）；john-norris | 神哲学通行译法（上帝心中的原型；奥古斯丁—马勒布朗士系）；john-norris 正文用“神圣观念”（20 处），待三校对齐；凭证 2026-11-06 | 2026-11-06 |
 | divine intellect | — | 神圣理智（亦作“神性理智”） | 语料回收 | 学界惯例（中世纪/宗教哲学）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
 | divine law | — | 神法 | albo-joseph 首译 | 犹太哲学语境通行（阿尔博三分类：神法/约定法/自然法） | 2026-11-07 |
-| divine nature | — | 神性 | 语料回收（specs/058 全库提取） | 学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22） | 2026-11-22 |
+| divine nature | — | 神性 | 语料回收（specs/058 全库提取） | 学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22）；同形异义：divine nature 为基督教神学通用语，与 ulūhiyya / ilāhiyya（伊斯兰神学“神性”）分属两传统，按条分立（2026-11-24 复核，凭证 term-dup-triage-2026-11-24.md） | 2026-11-22 |
 | divine simplicity | — | 神圣单纯性 | god-necessary-being | 学界通行译名（阿奎那—Plantinga 论域；SUMMARY 既有词条名 divine-simplicity 神圣单纯性） | 2026-11-09 |
 | division of labor | — | 分工 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·动物学，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | Djamila Boupacha | — |贾米拉·布帕查（亦作“德贾米拉·波巴查”）| 语料回收（词汇表并网） | 波伏瓦与哈里米合著之书及其人；中文媒体亦作“德贾米拉·波巴查”；词汇表并网（ADR-0036） | 2026-11-13 |
@@ -4623,7 +4623,6 @@
 | moral desert | — | 道德应得 | 语料回收（词汇表并网） | 学界惯例（词汇表并网迁移）；词汇表并网（ADR-0036）；审定库无相关命中（termonline-all 凭证 2026-11-13）| 2026-11-13 |
 | moral development | — | 道德发展 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·心理学，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | moral disagreement | — | 道德分歧 | 语料回收（specs/058 全库提取） | 学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22） | 2026-11-22 |
-| moral duties | — | 道德义务 | 语料回收（specs/058 全库提取） | 学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22） | 2026-11-22 |
 | moral education | — | 道德教育 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·教育学·教育基本理论，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | moral emotion | — | 道德情感 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·医学伦理学·伦理学与医学伦理学的学科界定·伦理学范畴，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | moral epistemology | — | 道德认识论 | 语料回收 | 学界惯例（道德哲学通行）；审定库无相关命中（凭证 2026-10-31）；佐证审定“认识论”（凭证 2026-10-31） | 2026-10-31 |
@@ -4649,7 +4648,7 @@
 | moral necessity | — | 道德必然性 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | moral neutrality | — | 道德中性 | 首译（african-ethics） | 学界惯例（道德哲学通行）；凭证 2026-11-09 | 2026-11-09 |
 | moral norm | — | 道德规范 | justice-moral-psych | 伦理学通行；凭证 2026-11-10 | 2026-11-10 |
-| moral obligation | — | 道德义务 | 语料回收 | 学界惯例（伦理学通行）；审定库无直接收录（凭证 2026-10-29） | 2026-10-29 |
+| moral obligation | moral duties | 道德义务 | 语料回收；语料回收（specs/058 全库提取） | 学界惯例（伦理学通行）；审定库无直接收录（凭证 2026-10-29）；合并单复数同义键（2026-11-24 复核）；删除行依据“学界通行（specs/058 A 档直裁）”并入（凭证 term-dup-triage-2026-11-24.md） | 2026-10-29 |
 | moral particularism | — | 道德特殊主义 | george-eliot 首译 | 元伦理学通行译名；凭证 2026-11-12 | 2026-11-12 |
 | Moral Perception | — | 道德知觉 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | moral perfection | — | 道德完善（康德语境） | 语料回收 | 学界惯例（康德译本通行）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
@@ -4671,8 +4670,7 @@
 | moral sentiment | — | 道德情操 | george-eliot 首译 | 道德感学派通行；撞形改定 2026-11-21：休谟道德情操；道德情感归 moral emotion | 2026-11-21 |
 | moral significance | — | 道德意义 | 语料回收（specs/058 全库提取） | 学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22） | 2026-11-22 |
 | moral skepticism | — | 道德怀疑论 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
-| moral standing | — | 道德地位 | 语料回收（specs/058 全库提取） | 学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22） | 2026-11-22 |
-| moral status | — | 道德地位 | 语料回收（moral-animal） | A 档裁定（008 池裁定 2026-10-28）；学界通行译名 | 2026-10-28 |
+| moral status | moral standing | 道德地位 | 语料回收（moral-animal）；语料回收（specs/058 全库提取） | A 档裁定（008 池裁定 2026-10-28）；学界通行译名；合并同义异形键（2026-11-24 复核）；standing 与 status 同指道德地位，删除行依据“学界通行（specs/058 A 档直裁）”并入（凭证 term-dup-triage-2026-11-24.md） | 2026-10-28 |
 | moral taint | — | 道德污点 | 首译（stem-cells） | 学界惯例（道德责任文献通行）；凭证 2026-11-09 | 2026-11-09 |
 | moral terms | — | 道德语词 | 语料回收（specs/058 全库提取） | 学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22） | 2026-11-22 |
 | moral theories | — | 道德理论 | 语料回收（specs/058 全库提取） | 审定名词库（医学伦理学名词·医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴，2025，1.022；凭证 2026-11-22） | 2026-11-22 |
@@ -6665,7 +6663,7 @@
 | selected effects (theory of function) | — | 选择效果 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | selection function | — | 选取函数 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·天文学·星系和宇宙学，2026-11-18 JWT 直连凭证）；撞形改定 2026-11-21：与选择函数（选择公理）分词 | 2026-11-21 |
 | selection rule | — | 选择定则 | bohr-correspondence 首译 | 学界通行译名（量子物理学史与科学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
-| selection theory | — | 选择理论 | 语料回收（specs/050 候选池） | 条目语境研判（与 theory=理论 词族一致（kin selection 亲属选择理论）；审定“选择学说”留亦作）；审定名词库（termonline-all·遗传学，2026-11-18 JWT 直连凭证，审定作“选择学说”） | 2026-11-19 |
+| selection theory | — | 选择理论 | 语料回收（specs/050 候选池） | 条目语境研判（与 theory=理论 词族一致（kin selection 亲属选择理论）；审定“选择学说”留亦作）；审定名词库（termonline-all·遗传学，2026-11-18 JWT 直连凭证，审定作“选择学说”）；同形异义：selection theory 指演化选择（亲属选择等），与 choice theory（理性选择）异概念，按条分立（2026-11-24 复核，凭证 term-dup-triage-2026-11-24.md） | 2026-11-19 |
 | selectionism | — | 选择主义 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·动物学·动物进化与系统学·动物进化，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | selective attention | — | 选择性注意 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·生理学·神经生理学，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | selective constraint | — | 选择约束 | ecological-genetics 首译 | 学界通行译名（分子进化文献，与 purifying selection 相关）；凭证 2026-11-10 | 2026-11-10 |
@@ -7907,7 +7905,7 @@
 | Ultimum | — | 终极（Ultimum） | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
 | ultra-intuitionism | — | 超直觉主义 | 首现（intuitionism） | 本词条首译（Yessenin-Volpin）；凭证 2026-11-10 | 2026-11-10 |
 | ultrafilter | — | 超滤子 | 首现（boolalg-math） | 学界惯例（集合论/拓扑通行译名） | 2026-11-01 |
-| ulūhiyya / ilāhiyya | ألوهية / إلهية | 神性 | ibn-taymiyya | 首译（伊本·泰米叶 tawḥīd 三分术语） | 2026-11-12 |
+| ulūhiyya / ilāhiyya | ألوهية / إلهية | 神性 | ibn-taymiyya | 首译（伊本·泰米叶 tawḥīd 三分术语）；同形异义：伊斯兰神学“神性”（伊本·泰米叶术语），与 divine nature（基督教通用语）分属两传统，按条分立（2026-11-24 复核，凭证 term-dup-triage-2026-11-24.md） | 2026-11-12 |
 | umbrella view | — | 伞状观 | object 首译 | 自译裁定（Rettler & Bailey 对“万物皆对象”立场的定名；凭证 2026-11-07）；凭证 2026-11-07 | 2026-11-07 |
 | unalienable rights | — | 不可让与权利 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | unanimity preservation | — | 全体一致保持 | belief-merging | 学界通行（判断聚合文献）；凭证 2026-11-10 | 2026-11-10 |
