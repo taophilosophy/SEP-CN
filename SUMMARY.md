@@ -29,11 +29,11 @@
 * \*偶然属性——见本质属性与偶然属性 accidental properties — see essential vs. accidental properties
 * [行动 Action (Juan S. Piñeros Glasscock、Sergio Tenenbaum)](a/action.md)
   * \*共同——见能动性：共享能动性 joint — see Shared Agency
-  * \*逻辑 ——见逻辑学：行动的逻辑 The Logic of Action — see logic: action
+  * \*逻辑——见逻辑学：行动的逻辑 The Logic of Action — see logic: action
   * \*实践理性与行动结构——见实践理性与行动结构 Practical Reason and the Structure of Actions — see practical reason: and the structure of actions
   * \*行动者相关与行动者中立的理由——见行动的原因：行动者中立与行动者相关 agent-relative vs. agent-neutral reasons — see reasons for action: agent-neutral vs. agent-relative
   * \*行动的内因与外因——见行动的原因：行动的原因：内在与外在 internal vs. external reasons for action — see reasons for action: internal vs. external
-  * \*行动的理由：正当性、动机、解释——见行动的理由：正当性、动机、解释 reasons for action &ndash; justification, motivation, explanation — see reasons for action: justification, motivation, explanation
+  * \*行动的理由：正当性、动机、解释——见行动的理由：正当性、动机、解释 reasons for action – justification, motivation, explanation — see reasons for action: justification, motivation, explanation
 * [基于行动的知觉理论 Action-based Theories of Perception (Robert Briscoe、Rick Grush、Alison Springle)](a/action-perception.md)
 * \*现实主义——见可能性主义与实在主义辩论 actualism — see The Possibilism-Actualism Debate
 * [伦理学中的现实主义和可能性主义 Actualism and Possibilism in Ethics (Travis Timmerman、Yishai Cohen)](a/actualism-possibilism-ethics.md)
@@ -211,7 +211,7 @@
   * [亚里士多德的矛盾律 Aristotle on Non-contradiction (Paula Gottlieb)](a/aristotle-noncontradiction.md)
   * [亚里士多德文本的传承 The Textual Transmission of the Aristotelian Corpus (Justin Winzenrieth)](a/aristotle-text.md)
 * [安托万·阿尔诺 Antoine Arnauld (Elmar Kremer)](a/arnauld.md)
-* \*弗朗索瓦-马里‧阿鲁埃——见伏尔泰 Arouet, François-Marie — see Voltaire
+* \*弗朗索瓦-马里·阿鲁埃——见伏尔泰 Arouet, François-Marie — see Voltaire
 * [阿罗定理 Arrow’s Theorem (Michael Morreau)](a/arrows-theorem.md)
 * \*艺术 art
   * [情色艺术 Erotic Art (Hans Maes)](e/erotic-art.md)
@@ -268,7 +268,7 @@
 
 * [弗朗西斯·培根 Francis Bacon (Markku Peltonen)](f/francis-bacon.md)
 * [罗吉尔·培根 Roger Bacon (Jeremiah Hackett)](r/roger-bacon.md)
-* \*亚历山大·贝恩——见苏格兰哲学： 19 世纪苏格兰哲学 Bain, Alexander — see Scottish Philosophy in the 19th Century
+* \*亚历山大·贝恩——见苏格兰哲学：19 世纪苏格兰哲学 Bain, Alexander — see Scottish Philosophy in the 19th Century
 * [认知基础关系 The Epistemic Basing Relation (Keith Allen Korcz)](b/basing-epistemic.md)
 * [让·鲍德里亚 Jean Baudrillard (Douglas Kellner)](b/baudrillard.md)
 * [布鲁诺·鲍威尔 Bruno Bauer (Douglas Moggach、Gabriele Schimmenti)](b/bauer.md)
@@ -276,12 +276,12 @@
 * [皮埃尔·培尔 Pierre Bayle (Michael Hickson)](b/bayle.md)
 * \*门罗·C.比厄斯利 Beardsley, Monroe C
   * [比厄斯利的美学 Beardsley’s Aesthetics (Michael Wreen)](b/beardsley-aesthetics.md)
-* \*詹姆斯·比蒂——见苏格兰哲学： 18 世纪苏格兰哲学 Beattie, James — see Scottish Philosophy in the 18th Century
+* \*詹姆斯·比蒂——见苏格兰哲学：18 世纪苏格兰哲学 Beattie, James — see Scottish Philosophy in the 18th Century
 * [美 Beauty (Crispin Sartwell)](b/beauty.md)
 * [西蒙娜·德·波伏娃 Simone de Beauvoir (Debra Bergoffen、Megan Burke)](b/beauvoir.md)
 * [行为主义 Behaviorism (George Graham)](b/behaviorism.md)
 * \*存在——见存在 being — see existence
-* \*存在与变化 ——见时间 being and becoming — see time
+* \*存在与变化——见时间 being and becoming — see time
   * \*现代物理学——见空间与时间：现代物理学中的存在与变化 Being and Becoming in Modern Physics — see space and time: being and becoming in modern physics
 * [信念 Belief (Eric Schwitzgebel)](b/belief.md)
   * \*自我定位——见自我定位信念 self-locating — see self-locating beliefs
@@ -536,7 +536,7 @@
 * \*马里·让·安托万·尼古拉·德·卡里塔，孔多塞侯爵 Condorcet, Marie-Jean-Antoine-Nicolas de Caritat, Marquis de
   * [女性主义历史：马里·让·安托万·尼古拉·德·卡里塔，孔多塞侯爵 The History of Feminism: Marie-Jean-Antoine-Nicolas de Caritat, Marquis de Condorcet (Joan Landes)](h/histfem-condorcet.md)
 * [确证 Confirmation (Vincenzo Crupi)](c/confirmation.md)
-* \*Confucianism 儒学
+* \*儒学 Confucianism
   * [儒学中的性别 Gender in Confucian Philosophy (Li-Hsiang Rosenlee)](c/confucian-gender.md)
   * \*日本——见日本哲学：日本儒学 Japanese — see Japanese Confucian Philosophy
   * \*韩国——见韩国哲学：韩国儒学 Korean — see Korean Confucianism
@@ -677,7 +677,7 @@
 * [摹状词 Descriptions (Peter Ludlow)](d/descriptions.md)
 * [应得 Desert (Fred Feldman、Brad Skow)](d/desert.md)
 * [罗伯特·戴加贝 Robert Desgabets (Patricia Easton)](d/desgabets.md)
-* \*设计论证——目的论：上帝存在的目的论论证 design, argument from — see teleology: teleological arguments for God’s existence
+* \*设计论证——见目的论：上帝存在的目的论论证 design, argument from — see teleology: teleological arguments for God’s existence
 * [欲望 Desire (Tim Schroeder)](d/desire.md)
 * [确定物与可确定物 Determinables and Determinates (Jessica Wilson)](d/determinate-determinables.md)
 * \*决定论 determinism
@@ -712,7 +712,7 @@
   * [残疾与正义 Disability and Justice (Jessica Begon、Daniel Putnam、David Wasserman、Jeffrey Blustein、Adrienne Asch)](d/disability-justice.md)
   * [残疾与福祉 Disability and Well-Being (Stephen M. Campbell、Joseph A. Stramondo、David Wasserman)](d/disability-well-being.md)
 * [分歧 Disagreement (Bryan Frances、Jonathan Matheson)](d/disagreement.md)
-  * \*道德动机 moral — see moral motivation
+  * \*道德动机——见道德动机 moral — see moral motivation
 * [话语表征理论 Discourse Representation Theory (Bart Geurts、David I. Beaver、Emar Maier)](d/discourse-representation-theory.md)
 * [歧视 Discrimination (Anthony Sangiuliano)](d/discrimination.md)
 * \*疾病——见健康 disease — see Concepts of Disease and Health
@@ -766,7 +766,7 @@
 * \*经济学 economics
   * [早期现代哲学中的经济学 Economics in Early Modern Philosophy (Margaret Schabas)](e/economics-early-modern.md)
   * [经济学哲学 Philosophy of Economics (Daniel M. Hausman)](e/economics.md)
-  * \*拉姆齐与代际福利经济学：见弗兰克·拉姆齐：拉姆齐与代际福利经济学 Ramsey and intergenerational welfare economics — see Ramsey, Frank: and intergenerational welfare economics
+  * \*拉姆齐与代际福利经济学——见弗兰克·拉姆齐：拉姆齐与代际福利经济学 Ramsey and intergenerational welfare economics — see Ramsey, Frank: and intergenerational welfare economics
 * [规范经济学与经济正义 Normative Economics and Economic Justice (Marc Fleurbaey)](e/economic-justice.md)
 * [教育哲学 Philosophy of Education (Randall Curren)](e/education-philosophy.md)
 * [乔纳森·爱德华兹 Jonathan Edwards (William Wainwright)](e/edwards.md)
@@ -982,7 +982,7 @@
   * [女性主义对自我的观点 Feminist Perspectives on the Self (Ellie Anderson、Cynthia Willett、Diana Meyers)](f/feminism-self.md)
   * [女性主义对跨性别议题的观点 Feminist Perspectives on Trans Issues (Talia Bettcher)](f/feminism-trans.md)
 * \*亚当·弗格森——见苏格兰哲学：18 世纪苏格兰哲学 Ferguson, Adam — see Scottish Philosophy in the 18th Century
-* \*詹姆斯·弗雷德里克·费里尔 Ferrier, James — see Scottish Philosophy: in the 19th century
+* \*詹姆斯·弗雷德里克·费里尔——见苏格兰哲学：19 世纪苏格兰哲学 Ferrier, James — see Scottish Philosophy: in the 19th century
 * [路德维希·安德列斯·费尔巴哈 Ludwig Andreas Feuerbach (Todd Gooch)](l/ludwig-feuerbach.md)
 * [保罗·费耶阿本德 Paul Feyerabend (Eric Oberheim、John Preston)](f/feyerabend.md)
 * [约翰·戈特利布·费希特 Johann Gottlieb Fichte (Dan Breazeale)](j/johann-fichte.md)
@@ -1183,7 +1183,7 @@
   * \*公民——见公民人文主义 civic — see civic humanism
 * [人性 Human Nature (Neil Roughley)](h/human-nature.md)
 * \*人权——见权利：人权 human rights — see rights: human
-* \*人体试验 ——见生物医学伦理学：临床研究伦理 human test subjects — see The Ethics of Clinical Research
+* \*人体试验——见生物医学伦理学：临床研究伦理 human test subjects — see The Ethics of Clinical Research
 * [亚历山大·冯·洪堡 Alexander von Humboldt (Dalia Nassar)](a/alexander-humboldt.md)
 * [威廉·冯·洪堡 Wilhelm von Humboldt (Kurt Mueller-Vollmer、Markus Messling)](w/wilhelm-humboldt.md)
 * [大卫·休谟 David Hume (Hsueh Qu、Elizabeth S. Radcliffe)](h/hume.md)
@@ -1226,7 +1226,7 @@
 * [同一性 Identity (Harold Noonan、Ben Curtis)](i/identity.md)
   * [不可分辨者的同一性 The Identity of Indiscernibles (Gonzalo Rodriguez-Pereyra)](i/identity-indiscernible.md)
   * [历时同一性 Identity Over Time (Andre Gallois、Irem Kurtsal)](i/identity-time.md)
-  * \*人格同一性 personal — see personal identity
+  * \*人格同一性——见人格同一性 personal — see personal identity
   * [相对同一性 Relative Identity (Harry Deutsch、Pawel Garbacz)](i/identity-relative.md)
   * [跨界同一性 Transworld Identity (Penelope Mackie、Mark Jago)](i/identity-transworld.md)
 * [身份政治 Identity Politics (Cressida Heyes)](i/identity-politics.md)
@@ -1805,7 +1805,7 @@
 * [道德学习 Moral Learning (Tamar Kushnir、Shaun Nichols)](m/moral-learning.md)
 * \*道德运气——见运气：道德运气 moral luck — see luck: moral
 * [道德动机 Moral Motivation (Connie S. Rosati)](m/moral-motivation.md)
-  * \*道德实在论 moral — see moral realism
+  * \*道德实在论——见道德实在论 moral — see moral realism
 * \*道德自然主义——见自然主义：道德自然主义 moral naturalism — see naturalism: moral
 * [道德非自然主义 Moral Non-Naturalism (Michael Ridge)](m/moral-non-naturalism.md)
 * [道德特殊主义 Moral Particularism (Jonathan Dancy)](m/moral-particularism.md)
@@ -1814,7 +1814,7 @@
 * \*道德心理学 moral psychology
   * [道德心理学的经验主义研究 Moral Psychology: Empirical Approaches (John Doris、Stephen Stich、Jonathan Phillips、Lachlan Walmsley)](m/moral-psych-emp.md)
 * [道德实在论 Moral Realism (Geoff Sayre-McCord)](m/moral-realism.md)
-  * \*道德怀疑论 moral — see moral skepticism
+  * \*道德怀疑论——见道德怀疑论 moral — see moral skepticism
 * \*道德推理——见推理：道德推理 moral reasoning — see reasoning: moral
 * [道德相对主义 Moral Relativism (Chris Gowans)](m/moral-relativism.md)
 * [道德责任 Moral Responsibility (Matthew Talbert)](m/moral-responsibility.md)
@@ -2244,7 +2244,7 @@
   * [对形而上学实在论的挑战 Challenges to Metaphysical Realism (Drew Khlentzos)](r/realism-sem-challenge.md)
   * \*道德——见道德实在论 moral — see moral realism
   * \*国际关系中的政治现实主义——见政治现实主义：国际关系中的政治现实主义 political, in international relations — see Political Realism in International Relations
-  * \*结构实在论 structural — see structural realism
+  * \*结构实在论——见结构实在论 structural — see structural realism
   * [科学实在论和理论变革 Realism and Theory Change in Science (Stathis Psillos)](r/realism-theory-change.md)
 * \*理性与宗教承诺——见理性与宗教承诺 reason and religious commitment — see religious commitment and reason
 * \*推理 reasoning
@@ -2323,10 +2323,10 @@
 * [严格指示词 Rigid Designators (Joseph LaPorte)](r/rigid-designators.md)
 * [风险 Risk (Sven Ove Hansson)](r/risk.md)
 * \*沙班·罗伯特 robert shaaban
-  * \*德性伦理学：见伦理学：德性伦理学 virtue ethics — see ethics: virtue
+  * \*德性伦理学——见伦理学：德性伦理学 virtue ethics — see ethics: virtue
 * \*机器人学 robotics
   * \*伦理学——见人工智能：人工智能和机器人伦理 Ethics of Artificial Intelligence and Robotics — see artificial intelligence: ethics of
-* \*角色义务：见义务：特殊义务 role obligations — see obligations: special
+* \*角色义务——见义务：特殊义务 role obligations — see obligations: special
 * [理查德·罗蒂 Richard Rorty (Bjørn Ramberg、Susan Dieleman)](r/rorty.md)
 * [欧根·罗森斯托克-胡絮 Eugen Rosenstock-Huessy (Wayne Cristaudo)](r/rosenstock-huessy.md)
 * [弗朗茨·罗森茨威格 Franz Rosenzweig (Benjamin Pollock)](r/rosenzweig.md)
@@ -2375,7 +2375,7 @@
   * [叔本华的美学 Schopenhauer’s Aesthetics (Sandra Shapshay)](s/schopenhauer-aesthetics.md)
 * [阿尔弗雷德·舒茨 Alfred Schutz (Michael Barber)](s/schutz.md)
 * \*科学 science
-  * \*科学模型 Models in Science — see models in science
+  * \*科学模型——见科学模型 Models in Science — see models in science
   * [科学与伪科学 Science and Pseudo-Science (Sven Ove Hansson)](p/pseudo-science.md)
   * [科学中理论与观察 Theory and Observation in Science (Nora Mills Boyd、James Bogen)](s/science-theory-observation.md)
   * [统一科学 The Unity of Science (Jordi Cat)](s/scientific-unity.md)
@@ -2512,8 +2512,8 @@
   * [奇点与黑洞 Singularities and Black Holes (Erik Curiel、Manus Visser、Juliusz Doboszewski)](s/spacetime-singularities.md)
   * [超级任务 Supertasks (JB Manchak、Bryan W. Roberts)](s/spacetime-supertasks.md)
 * [物种 Species (Marc Ereshefsky)](s/species.md)
-* \*speech 言语
-  * \*内部言语 inner — see inner speech
+* \*言语 speech
+  * \*内部言语——见内部言语 inner — see inner speech
 * [言语行为 Speech Acts (Mitchell Green)](s/speech-acts.md)
 * [赫伯特·斯宾塞 Herbert Spencer (David Weinstein)](s/spencer.md)
 * [斯彪西波 Speusippus (Russell Dancy、Giulia De Cesaris)](s/speusippus.md)
@@ -2544,7 +2544,7 @@
 * [列奥·施特劳斯 Leo Strauss (Leora Batnitzky)](s/strauss-leo.md)
 * [彼得·弗雷德里克·斯特劳森 Peter Frederick Strawson (Paul Snowdon、Anil Gomes)](s/strawson.md)
 * \*结构主义 structuralism
-  * \*数学哲学：见数学哲学：数学哲学中的结构主义 Structuralism in the Philosophy of Mathematics — see mathematics, philosophy of: structuralism
+  * \*数学哲学——见数学哲学：数学哲学中的结构主义 Structuralism in the Philosophy of Mathematics — see mathematics, philosophy of: structuralism
   * \*物理学——见物理学：物理学中的结构主义 Structuralism in Physics — see physics: structuralism in
 * [结构实在论 Structural Realism (James Ladyman)](s/structural-realism.md)
 * [卡尔·斯图姆夫 Carl Stumpf (Denis Fisette)](s/stumpf.md)
@@ -2553,13 +2553,13 @@
   * [数学风格 Mathematical Style (Paolo Mancosu)](m/mathematical-style.md)
 * [弗朗西斯科·苏亚雷斯 Francisco Suárez (Christopher Shields、Daniel Schwartz)](s/suarez.md)
 * [实体 Substance (Howard Robinson、Ralph Weir)](s/substance.md)
-* \*子结构逻辑 substructural logics — see logic: substructural
+* \*子结构逻辑——见子结构逻辑 substructural logics — see logic: substructural
 * [苏哈拉瓦迪 Suhrawardi (Roxanne Marcotte)](s/suhrawardi.md)
 * [自杀 Suicide (Michael Cholbi、Brent Kious)](s/suicide.md)
 * [超义务 Supererogation (David Heyd)](s/supererogation.md)
 * [随附性 Supervenience (Brian McLaughlin、Karen Bennett)](s/supervenience.md)
   * [道德随附性 Supervenience in Ethics (Tristram McPherson)](s/supervenience-ethics.md)
-* \*预先指示和替代决策 surrogate decision-making for incompetent individuals — see advance directives
+* \*预先指示和替代决策——见预先指示和替代决策 surrogate decision-making for incompetent individuals — see advance directives
 * [玛格丽特·苏斯曼 Margarete Susman (Willi Goetschel)](s/susman-margarete.md)
 * [悬疑悖论 The Paradox of Suspense (Aaron Smuts)](p/paradox-suspense.md)
 * \*三段论 syllogism
@@ -2711,7 +2711,7 @@
 * \*数学中的视觉思维 visual thinking in mathematics
   * [数学中的视觉思维认识论 The Epistemology of Visual Thinking in Mathematics (Marcus Giaquinto)](e/epistemology-visual-thinking.md)
 * \*维泰博的詹姆斯——见维泰博的詹姆斯 James of Viterbo — see James of Viterbo
-* [胡安·路易斯·维夫斯 Juan Luis Vives \[Joannes Ludovicus Vives\] (Lorenzo Casini)](v/vives.md)
+* [胡安·路易斯·比韦斯 Juan Luis Vives \[Joannes Ludovicus Vives\] (Lorenzo Casini)](v/vives.md)
 * \*意志——见自由意志 volition — see free will
 * [伏尔泰 Voltaire (J.B. Shank)](v/voltaire.md)
 * \*信念自愿论——见信念自愿论 voluntarism, doxastic — see doxastic voluntarism

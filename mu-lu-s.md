@@ -567,7 +567,7 @@ outline: [1, 6]
 
 * [德西德里乌斯·伊拉斯谟 Desiderius Erasmus (Erika Rummel、Eric MacPhail)](e/erasmus.md)
 * [劳伦佐·瓦拉 Lorenzo Valla (Lodi Nauta)](l/lorenzo-valla.md)
-* [胡安·路易斯·维夫斯 Juan Luis Vives \[Joannes Ludovicus Vives\] (Lorenzo Casini)](v/vives.md)
+* [胡安·路易斯·比韦斯 Juan Luis Vives \[Joannes Ludovicus Vives\] (Lorenzo Casini)](v/vives.md)
 * [雅克·勒菲弗·戴塔普勒 Jacques Lefèvre d’Étaples (Richard J. Oosterhoff)](l/lefevre-etaples.md)
 * [彼得吕斯·拉米斯 Petrus Ramus (Erland Sellberg)](r/ramus.md)
 
@@ -1615,7 +1615,7 @@ outline: [1, 6]
   * [伊斯兰思想对迈蒙尼德的影响 The Influence of Islamic Thought on Maimonides (Sarah Pessin)](m/maimonides-islamic.md)
 * [伊本·凯姆那 Ibn Kammūna (Tzvi Langermann)](i/ibn-kammuna.md)
 
-#### 13–14 世纪
+#### 13—14 世纪
 
 ##### 翻译与百科全书
 
@@ -2133,7 +2133,7 @@ outline: [1, 6]
 
 ## 拉丁美洲哲学
 
-### 19–20世纪
+### 19—20 世纪
 
 #### 拉美哲学总论与元哲学
 
