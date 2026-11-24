@@ -1026,10 +1026,16 @@ def _star_parse(s):
         content = "".join(out[start:])
         del out[start:]
         runs.pop(start, None)
+        # 闭星前尾随空白移出强调：C 把 H0 的 `<em>x&#8239;</em>` 折成 `*x *`
+        # （薄空格→空格留在星内），不闭则整对星留成字面（aristotle-text 判例）
+        m2 = re.match(r"(.*?)(\s+)$", content, re.S)
+        trail = ""
+        if m2:
+            content, trail = m2.group(1), m2.group(2)
         if kind == "em":
-            out.append(_em(content.strip()))
+            out.append(_em(content.strip()) + trail)
         else:
-            out.append("<strong>%s</strong>" % content)
+            out.append("<strong>%s</strong>%s" % (content, trail))
 
     def _open(kind):
         slot = len(out)
@@ -1045,7 +1051,12 @@ def _star_parse(s):
         run = parts[i]
         before = parts[i - 1]
         after = parts[i + 1] if i + 1 < len(parts) else ""
-        prev_tight = bool(before) and not before[-1:].isspace()
+        # 闭星侧允许“单个尾随空白”：`*x *` 是 C 的强调内容外移失败残留；
+        # 开星侧仍严格要求紧跟非空白
+        prev_tight = bool(before) and (
+            not before[-1:].isspace()
+            or (len(before) > 1 and not before[-2:-1].isspace()
+                and ("em" in marks or "strong" in marks)))
         next_tight = bool(after) and not after[:1].isspace()
         n = len(run)
         can_open_st = (n >= 2 and next_tight and "strong" not in marks)
