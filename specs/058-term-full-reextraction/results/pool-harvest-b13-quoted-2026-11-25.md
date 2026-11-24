@@ -15,7 +15,6 @@
 | divine names | 神名 | 伪狄奥尼修斯《神名论》语境 |
 | rational egoism | 理性利己主义 | 与 psychological egoism 心理利己主义对举；语料“理性利己”66 |
 | legal validity | 法律效力 | 法哲学；语料 25 |
-| reasonable person | 理性人 | 与已登记 reasonable person standard 理性人标准分列 |
 | eternal law | 永恒法 | 阿奎那法哲学（自然法、人法并列）；语料 4 |
 | proximate cause | 近因 | 与 remote cause 远因、ultimate cause 终极因对举；语料 4 |
 | equal respect | 平等尊重 | 与 equal concern 平等关切对举；语料 3 |
