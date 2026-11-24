@@ -1,0 +1,15 @@
+{
+ "batch": "058-harvest1",
+ "date": "2026-11-24",
+ "scope": "候选池 T1/T2 收割首批（2 条，审定/译文双证据）",
+ "rows": [
+  {"en": "halting problem", "zh": "停机问题", "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "note": "审定名词库（termonline-all·自然辩证法名词 03.662，2024；计算机科学技术名词 02.0166，2018）作“停机问题”（2026-11-24 JWT 直连，凭证 termonline-b14-2026-11-24.tsv）",
+   "date": "2026-11-24"},
+  {"en": "Past Hypothesis", "zh": "过去假设", "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "note": "学界惯例（物理学哲学；阿尔伯特《时间与偶然性》述“过去假设”：《诠释时间之矢》中译，郝建纲译，worldscience.cn 2002；2026-11-24 查，凭证 termonline-b14-2026-11-24.tsv 同批查询无审定收录）",
+   "date": "2026-11-24"}
+ ]
+}
