@@ -485,3 +485,11 @@ B3.1 回归：不动点 **1,435/1,873（76.6%）**（此前 1,240，＋195，无
 **实测**：单件双绿（B3.1 ok、B3.2 pool 155 补丁、池占页 62.49%）；全量双通道 **pool 1,780（95.0%）／gap 93／stale 0**，池占页 **48.37%**，judge 与建池逐件同值；delta＝gap→pool 1、**失池 0**；**B3.1 1,653（+1）0 转红**；I2/I3 gate 0 issue（1,873）；check_all 17 项全绿；池文件变更面只有 `plato-ethics-shorter.json` 新增。
 **同批文档**：`assembly-scan-all.json` 自第二十批后未入库（HEAD 记 1,623 陈年值），本次随批提交刷新；缺口分族刷新 star 4→3（md_extra 58／h0_extra 12／math 8／text 7／star 3／digit 3／entity 2）。
 **教训**：①meta 层异常值（空串过真值判断）是 C 侧最隐蔽的注入源——真值判断不等于可用值；②词内锚兜底必须用账内已有词（`lead` 末词）做整词三重校验，裸子串匹配必误挂（“池 raw 变而 items 全同”是定位误挂的好探针）；③扫描结果 JSON 与计数须同步提交，否则全量对照失真（HEAD 扫描文件陈旧曾使集合级对照虚增 29 件“转绿”）。
+
+## 2026-11-24 第三十五批：图片 alt 嵌套方括号与 math_forms 行内屏蔽（池 1,780→1,789、B3.1 1,653 不变）
+
+**缺陷**：①R 的图片占位正则只容一级 `[...]` 嵌套，而 C 原样搬运 H0 的 alt 属性，7 页 alt 含 2–5 级嵌套，字面 `![…` 漏进正文层（negation／generalized-quantifiers／word-meaning／computational-linguistics／geometry-finitism 判例）；另有 2 页 H0 alt 自身方括号不平衡（emotion `…'ACTIVATION' ]north], …`、epistemology-visual-thinking，上游属性原笔误），平衡扫描亦失败。②`extract_math_forms` 的裸排分支把**行内** `\(\begin{align*}…\)` 记成显示形态（negation (21)(22) 判例），R 的显示式游标自此错位一格，整页后续形态全错（负号真值表被发成裸排、丢 `\[…\]` 定界符）。
+**修法**：①R 图片占位改**平衡方括号扫描**，扫描失败时按行内 `](url)` URL 锚定兜底（alt 取到该 `]`）；②账 `extract_math_forms` 先用 `\(…\)` 原子吞掉行内段再记显示形态，行内归 `$…$` 不入账。
+**实测**：账改动波及面 **2 件**（negation 27→23 全 br、DRT 8→1）；图片兜底命中 **2 页**（emotion、epistemology-visual-thinking）。全量双通道 **pool 1,780→1,789（95.5%）／gap 93→84／stale 0**，池占页 **48.86%**，judge 与建池逐件同值；delta＝gap→pool 9（图片 7＋math_forms 2）、**失池 0**；**B3.1 1,653 不变（0 转红 0 转绿）**；缺口分族刷新 md_extra 49／h0_extra 12／math 8／text 7／star 3／digit 3／entity 2，md_extra 子族重算 table 13／math 10／emph 9／link 6／text 3／dl 2／note 2／supsub 2／bq 2。
+**旁注**：并行线 `specs/058` 的 `execution-log.md` 超 ADR-0004 上限 53 字节，check_all 的“单体文件大小”与“管线单元测试”两门在本批提交时为红，归其本线拆分；本批自身相关门（账实一致性、I2/I3 未经改动）全绿。
+**教训**：①C 原样搬运的上游属性文字必须按 H0 真实形态解析，正则的嵌套层级上限是隐形缺陷（先普查深度分布再定实现）；②上游自身不平衡（笔误）要有 URL 锚定兜底，不能假设输入合法；③块级形态账的**取域**必须与 C 的产物形态分母一致——行内环境被记成显示形态，游标从第一条起就错，且症状远离病灶。

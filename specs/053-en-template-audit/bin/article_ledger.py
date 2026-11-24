@@ -150,11 +150,17 @@ def extract_math_forms(art_inner):
     `\\[\\begin{align}…`）。账记原位形态，R 按游标还原。"""
     env = (r"align\*?|aligned|gather\*?|gathered|multline\*?|equation\*?|"
            r"eqnarray\*?|displaymath")
-    pat = re.compile(r"\\\[.*?\\\]|\\begin\{(" + env + r")\}.*?\\end\{\1\}",
-                     re.S)
+    # 行内段先原子吞掉：H0 有 `\(\begin{align*}…\)` 行内环境（negation
+    # (21)(22) 判例），裸排分支会把行内当显示记账，R 的显示式游标随即错位，
+    # 整页后续形态全错（负号真值表被发成裸排）。行内归 $…$，不入本账。
+    pat = re.compile(r"\\\(.*?\\\)|\\\[.*?\\\]|\\begin\{(?P<e>" + env +
+                     r")\}.*?\\end\{(?P=e)\}", re.S)
     out = []
     for m in pat.finditer(art_inner):
-        out.append("br" if m.group(0).startswith("\\[") else "naked")
+        head = m.group(0)[:2]
+        if head == "\\(":
+            continue
+        out.append("br" if head == "\\[" else "naked")
     return out
 
 

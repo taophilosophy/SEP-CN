@@ -559,16 +559,59 @@ def _inline_md_to_html(text):
     # （action-perception 的长 alt 含 `[` 与 `]`，须容一级方括号）
     img_store = []
 
-    def _stash_img(m):
-        alt, url = m.group(1), m.group(2)
+    def _stash_img(alt, url):
         m2 = re.fullmatch(
             r"\.\./assets/[a-z0-9-]+/([A-Za-z0-9._%+-]+)", url)
         src = m2.group(1) if m2 else url
         img_store.append('<img src="%s" alt="%s" />' % (src, alt))
         return "\x03%d\x03" % (len(img_store) - 1)
 
-    s = re.sub(r"!\[((?:[^\[\]]|\[[^\[\]]*\])*)\]\(([^)\s]+)\)",
-               _stash_img, s)
+    def _stash_imgs(s):
+        """图片占位：平衡方括号扫描。旧正则只容一级嵌套 `[...]`，而 C 把 H0
+        的 alt 属性原样搬运，7 页 alt 含 2–5 级（word-meaning／
+        generalized-quantifiers／negation／computational-linguistics／
+        geometry-finitism 等），字面 `![` 漏进正文层（negation 判例）。
+        另有上游 alt 自身方括号不平衡（emotion `…'ACTIVATION' ]north], …`，
+        H0 属性原笔误）：平衡扫描失败时按行内 URL 锚定兜底（`](…)` 前无
+        杂字，alt 取到该 `]` 为止）。"""
+        out, i, n = [], 0, len(s)
+        while i < n:
+            j = s.find("![", i)
+            if j < 0:
+                out.append(s[i:])
+                break
+            d, k = 1, j + 2
+            while k < n and d:
+                c = s[k]
+                if c == "\\":
+                    k += 2
+                    continue
+                if c == "[":
+                    d += 1
+                elif c == "]":
+                    d -= 1
+                k += 1
+            e = -1
+            if not d and k <= n and k < n and s[k] == "(":
+                e = s.find(")", k)
+            url = s[k + 1:e] if e >= 0 else ""
+            if e < 0 or not url or re.search(r"\s", url):
+                # 兜底：不平衡 alt（emotion 判例）——非贪婪取行内 `](url)`
+                m = re.match(r"!\[([^\n]*?)\]\(([^)\s]+)\)", s[j:], re.S)
+                if m:
+                    out.append(s[i:j])
+                    out.append(_stash_img(m.group(1), m.group(2)))
+                    i = j + m.end()
+                    continue
+                out.append(s[i:j + 2])
+                i = j + 2
+                continue
+            out.append(s[i:j])
+            out.append(_stash_img(s[j + 2:k - 1], url))
+            i = e + 1
+        return "".join(out)
+
+    s = _stash_imgs(s)
     # 引注标记剥除——link_citations 确定性重生成（keys 同源）
     s = re.sub(r"\[\^(?!note-)[^\]\s]+\]", "", s)
     # 注释引用 → 锚链接（NOTE_REF_RE 可匹配的两种 href 形任选其一）
