@@ -26,6 +26,7 @@
 | T-13 | 数据表 | `tools/data/units.json`、`ja-loanwords.json`、`register-lexicon.json`、`punct-rules.json` | 工具读取生效；变更可回退 | done |
 | T-14 | 单测 | `tools/tests/test_six_axis.py`、`test_task_ops.py` 适配 | `unittest discover` 全绿 | done |
 | T-22 | 公理化验证 | `bin/verify_six_axis.py`、`verification.md`、`results/verification.json`、`results/verification-a.json` | A 组结构违例 0；CY/T 266 覆盖 29/29、MQM 7/7；判据交待复核 0；幂等全过 | done |
+| T-23 | 三审三校对接口分析 | `triple-proofreading.md`、`bin/probe_merge.py` | 结论＋负向实验可复算；S6 谓词建议 | done |
 
 ## C 运行与验收
 
