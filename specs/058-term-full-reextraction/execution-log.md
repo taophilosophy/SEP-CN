@@ -532,3 +532,10 @@
 * 查无汉名：Mark Colyvan（高教社 2025《数学哲学导论》系 Körner 著，非其书，防混同）。
 * 凭证：`results/people-cnweb-2026-11-24-b29.md`；生成器 `bin/make_rowspec_people29.py`。
 * 落册：定点改写 3 行；`registry_azsort` 守恒；`check_all` 17 项全绿。
+
+## 2026-11-24：人名第三十批（中文源补证 6 人，逻辑学书目作者）
+
+* 取中译本/中文期刊定名：Bocheński → 鲍亨斯基（《当代思维方法》上海人民 1987；异形“波亨斯基”入别名）；Tyler Burge → 泰勒·伯奇（《外国哲学》2016-2 蒋薇文）；Nuel Belnap → 贝尔纳普、Alan Ross Anderson → 安德森（程京德“相关逻辑”系列博文，南大现代逻辑研究所）；Jon Barwise → 乔恩·巴威斯、John Etchemendy → 约翰·埃切曼迪（《说谎者悖论》贾国恒译，南大 2022，ISBN 9787305250996）。
+* 意义：此前逻辑学书目作者整批“无通行汉名”，本批证明相关逻辑与情境语义学一脉已有可靠汉名来源（专业译著与逻辑学教授科普文）。
+* 凭证：`results/people-cnweb-2026-11-24-b30.md`；生成器 `bin/make_rowspec_people30.py`。
+* 落册：定点改写 6 行；`registry_azsort` 守恒；`check_all` 17 项全绿。

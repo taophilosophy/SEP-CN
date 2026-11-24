@@ -182,7 +182,7 @@
 | AnderBois, Scott | — | AnderBois, Scott | — | — | dynamic-semantics | 无通行汉名，保留英文原名；凭证 2026-11-12 | 2026-11-12 |
 | Andersen, Mikkel Birkegaard | — | 米克尔·比尔克高·安德森 | — | — | social-procedures | 丹麦名音译（认知规划）；凭证 2026-11-07 | 2026-11-07 |
 | Anderson, A.R. | — | A.R. Anderson | 美国 | 1925–1973 | logic-relevance | 无通行汉名，保留英文原名；凭证 2026-11-09；籍属/生卒联网查证：Wikidata Q3268033（2026-11-23 查，凭证 people-wikidata-2026-11-23-backfill.tsv） | 2026-11-09 |
-| Anderson, Alan Ross | — | Alan Ross Anderson | 美国／逻辑学 | 1925–1973 | logic-linear | 无通行汉名，保留英文原名（相干逻辑）；凭证 2026-11-10；籍属/生卒联网查证：GND 规范标目 gnd 1070879037（2026-11-13 查，凭证 verify-2026-11-13-gnd-a.tsv） | 2026-11-13 |
+| Anderson, Alan Ross | — | 安德森 | 美国／逻辑学 | 1925–1973 | logic-linear | 无通行汉名，保留英文原名（相干逻辑）；凭证 2026-11-10；籍属/生卒联网查证：GND 规范标目 gnd 1070879037（2026-11-13 查，凭证 verify-2026-11-13-gnd-a.tsv）；中文定名补证：同程京德“相关逻辑”系列博文作“安德森”（系统 E 的提出者之一）（2026-11-24 查，凭证 people-cnweb-2026-11-24-b30.md） | 2026-11-13 |
 | Anderson, Elizabeth | — | 伊丽莎白·安德森 | 美国 | 1959– | economic-democracy | 学界通行汉译（《私人政府》作者）；籍属/生卒联网查证：GND 规范标目 gnd 119353288，生 1959，地理区码 USA，职业 Philosophin，异名 Anderson, Elizabeth S.（2026-11-14 查，凭证 verify-2026-11-14-alt.tsv） | 2026-11-14 |
 | Anderson, Guy | — | 盖伊·安德森 | 美国 | 1906–1998 | langer | 美国画家（朗格友人；音译）；凭证 2026-11-08；籍属/生卒联网查证：GND 规范标目 gnd 118847465（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Anderson, Michael | — | 迈克尔·安德森 | 美国 | 1951– | it-moral-values | 学界通行音译（机器伦理）；凭证 2026-11-10；籍属/生卒联网查证：GND 规范标目 gnd 1016913877，生 1951，地理区码 USA，职业 Informatiker，注记“Prof. of Computer Science, Univ. of Hartford, Conn.”（2026-11-14 查，凭证 verify-2026-11-14-alt.tsv） | 2026-11-14 |
@@ -387,7 +387,7 @@
 | Bartolus of Sassoferrato | — | 萨索费拉托的巴尔托鲁 | 意大利／法学 | 1314–1357 | lorenzo-valla | 法学史通行汉译（中世纪罗马法四大博士之一）；籍属/生卒联网查证：GND 规范标目 gnd 118652885（2026-11-13 查，凭证 verify-2026-11-13-gnd-b.tsv）；审定库无相关命中（termonline-all 凭证 2026-11-13）| 2026-11-13 |
 | Bartra, Roger | — | 罗赫尔·巴尔特拉 | 墨西哥 | 1942– | existentialism-mexican | 学界通行汉译；凭证 2026-11-12 | 2026-11-12 |
 | Baruch Spinoza | — | 斯宾诺莎 | 荷兰 | 1632–1677 | leibniz-modal | 学界通行汉译；籍属/生卒联网查证：GND 规范标目 gnd 118616242（2026-11-14 查，凭证 verify-2026-11-14-gnd-c.tsv）；审定库无相关命中（termonline-all 凭证 2026-11-13）| 2026-11-14 |
-| Barwise, Jon | — | Jon Barwise | 美国／数学 | 1942–2000 | logic-relevance | 无通行汉名，保留英文原名；凭证 2026-11-09；籍属/生卒联网查证：GND 规范标目 gnd 124163092（2026-11-14 查，凭证 verify-2026-11-14-gnd-c.tsv） | 2026-11-14 |
+| Barwise, Jon | — | 乔恩·巴威斯 | 美国／数学 | 1942–2000 | logic-relevance | 无通行汉名，保留英文原名；凭证 2026-11-09；籍属/生卒联网查证：GND 规范标目 gnd 124163092（2026-11-14 查，凭证 verify-2026-11-14-gnd-c.tsv）；中文定名补证：中译本《说谎者悖论：真与循环》（贾国恒译，南京大学出版社 2022，ISBN 9787305250996）作者署名“乔恩·巴威斯”；澎湃新闻 2022-05-24 书摘同（2026-11-24 查，凭证 people-cnweb-2026-11-24-b30.md） | 2026-11-14 |
 | Bas van Fraassen | — | 范·弗拉森 | 荷兰／美国 | 1941– | reasoning-analogy | 学界通行汉译；籍属/生卒联网查证：Wikidata Q809744（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Basil | — | 巴西尔 | 罗马帝国（卡帕多西亚·该撒利亚） | 约330–379 | neoplatonism | 学界通行汉译（卡帕多西亚教父，该撒利亚主教；亦作“大巴西尔”）；查证：生卒：Oxford Classical Dictionary（Rousseau）“c. 330–79 ce (the dates are debated but not disproved)”，Catholic-Hierarchy 与通行传记作 330–379；籍属：生于卡帕多西亚该撒利亚（罗马帝国）；原文 en/neoplatonism 称卡帕多西亚教父 Basil 与 Gregory of Nazianzus 少年时代在雅典学哲学（2026-11-22 查，凭证 dates-batch9-2026-11-22.tsv） | 2026-11-22 |
 | Basil of Caesarea | — | 凯撒利亚的巴西尔 | 卡帕多细亚（罗马帝国） | 约329–379 | 语料回收（全目录） | 学界通行译名；籍属/生卒联网查证：Wikidata Q44258（2026-11-24 查，凭证 people-wikidata-2026-11-24-b16.tsv）；卡帕多细亚教父；《hexaemeron》 | 2026-11-24 |
@@ -437,7 +437,7 @@
 | Bellamy, Edward | — | 爱德华·贝拉米 | 美国／文学 | 1850–1898 | dewey-political | 学界通行汉译（《回头看》作者）；籍属/生卒联网查证：GND 规范标目 gnd 118658034（2026-11-14 查，凭证 verify-2026-11-14-gnd-c.tsv） | 2026-11-14 |
 | Bellantoni, Stephen | — | Stephen Bellantoni | — | — | logic-linear | 无通行汉名，保留英文原名；凭证 2026-11-10 | 2026-11-09 |
 | Bellin, Gianluigi | — | Gianluigi Bellin | — | — | logic-substructural | 无通行汉名，保留英文原名；凭证 2026-11-10 | 2026-11-09 |
-| Belnap, Nuel | — | Nuel Belnap | 美国 | 1930–2024 | logic-relevance | 无通行汉名，保留英文原名；凭证 2026-11-09；2026-11-20 复核：合并（同键变体，来源列并双 slug）；籍属/生卒联网查证：GND 规范标目 gnd 118974114（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
+| Belnap, Nuel | — | 贝尔纳普 | 美国 | 1930–2024 | logic-relevance | 无通行汉名，保留英文原名；凭证 2026-11-09；2026-11-20 复核：合并（同键变体，来源列并双 slug）；籍属/生卒联网查证：GND 规范标目 gnd 118974114（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv）；中文定名补证：程京德（南京大学现代逻辑与逻辑应用研究所）科学网“相关逻辑”系列博文（2024-06-18）作“安德森和贝尔纳普”，述《蕴涵：相关性与必要性的逻辑》（2026-11-24 查，凭证 people-cnweb-2026-11-24-b30.md） | 2026-11-20 |
 | Bělohlávek, Radim | — | Bělohlávek | — | 1971– | logic-fuzzy | 无通行汉名，保留英文原名；凭证 2026-11-09；籍属/生卒联网查证：Wikidata Q95376659（2026-11-20 查，凭证 verify-2026-11-20-people.tsv）；籍属/生卒联网佐证：Wikidata 标目 Q95376659（Radim Bělohlávek）（2026-11-22 查，凭证 wd-verdict-2026-11-22.tsv） | 2026-11-22 |
 | Belon, Pierre | — | 皮埃尔·贝隆 | 法国 | 1517–1564 | natphil-ren | 科学史通行音译（博物学家）；凭证 2026-11-10 | 2026-11-10 |
 | Bembo, Pietro | — | 彼得罗·本博 | 意大利／文学 | 1470–1547 | gianfrancesco-pico | 学界通行汉译（人文主义者、枢机）；籍属/生卒联网查证：GND 规范标目 gnd 118658115（2026-11-14 查，凭证 verify-2026-11-14-gnd-c.tsv） | 2026-11-14 |
@@ -539,7 +539,7 @@
 | Bobbio, Norberto | — | 博比奥 | 意大利 | 1909–2004 | gramsci | 意大利政治哲学家，学界通行汉译（ADR-0022 通行汉名判据）；凭证 2026-11-11；籍属/生卒联网查证：GND 规范标目 gnd 119330849（2026-11-14 查，凭证 verify-2026-11-14-gnd-c.tsv） | 2026-11-14 |
 | Boccadiferro, Ludovico | — | 卢多维科·博卡迪费罗 | 意大利（博洛尼亚） | 1482–1545 | natphil-ren | 本词条首译（亚里士多德注释家）；凭证 2026-11-10 | 2026-11-10 |
 | Bochenski, I. M. | — | I. M. Bochenski（现代学者，保留英文） | 瑞士／波兰 | 1902–1995 | william-sherwood | ADR-0022（逻辑史家，Kretzmann 引及）；籍属/生卒联网查证：GND 规范标目 gnd 119245426（2026-11-14 查，凭证 verify-2026-11-14-gnd-c.tsv） | 2026-11-14 |
-| Bocheński, Józef M. | — | Józef M. Bocheński | 瑞士／波兰 | 1902–1995 | lvov-warsaw | 无通行汉名，保留英文原名；凭证 2026-11-09；籍属/生卒联网查证：GND 规范标目 gnd 119245426（2026-11-14 查，凭证 verify-2026-11-14-gnd-c.tsv） | 2026-11-14 |
+| Bocheński, Józef M. | 波亨斯基 | 鲍亨斯基 | 瑞士／波兰 | 1902–1995 | lvov-warsaw | 无通行汉名，保留英文原名；凭证 2026-11-09；籍属/生卒联网查证：GND 规范标目 gnd 119245426（2026-11-14 查，凭证 verify-2026-11-14-gnd-c.tsv）；中文定名补证：中译本《当代思维方法》（上海人民出版社 1987，ISBN 9787208000056）作者署名“J.M.鲍亨斯基”；中国社会科学网 2025-02-12 李杜白、王克喜文作“波亨斯基（J. M. Bochenski）”并引其《形式逻辑史》，臺北市立大學圖書館 MARC 亦作“波亨斯基”，异形入别名（2026-11-24 查，凭证 people-cnweb-2026-11-24-b30.md） | 2026-11-14 |
 | Bochner, Salomon | — | 所罗门·博赫纳 | 美国（波兰裔） | 1899–1982 | axiom-choice | 学界通行汉译（博赫纳积分、博赫纳定理）；凭证 2026-11-13 | 2026-11-13 |
 | Bodde, Derk | — | 德克·卜德 | 美国 | 1909–2003 | chinese-phil-science | 学界通行（汉名卜德，《中国之思想与制度》译者）；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 118887734（2026-11-14 查，凭证 verify-2026-11-14-gnd-c.tsv） | 2026-11-14 |
 | Bodhidharma | — | 菩提达摩 | 印度（南天竺）／中国（来华僧） | 470–543 | buddhism-chan | 佛学界通行汉译（初祖）；籍属/生卒联网查证：GND 规范标目 gnd 119017172（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv）；CJK 全量复核 2026-11-22：籍属正列：SEP en/buddhism-chan“an Indian monk named Bodhidharma…arrived in southeast China”，原“中国”漏源 | 2026-11-22 |
@@ -685,7 +685,7 @@
 | Burali-Forti, Cesare | — | 切萨雷·布拉利-福尔蒂 | 意大利 | 1861–1931 | quine-nf | 集合论通行译名（布拉利-福尔蒂悖论）；凭证 2026-11-09；2026-11-13 修八列错位 | 2026-11-13 |
 | Búrca, Gráinne de | — | 格龙内·德布尔卡 | 爱尔兰 | 1966– | global-democracy | 音译（欧盟法学者）；籍属/生卒联网查证：GND 规范标目 gnd 129295086（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Burckhardt, Jakob | — | 雅各布·布克哈特 | 瑞士 | 1818–1897 | scholem | 学界通行汉译（《意大利文艺复兴时期的文化》）；凭证 2026-11-08 | 2026-11-08 |
-| Burge, Tyler | — | Tyler Burge | 美国 | 1946– | logic-massexpress | 无通行汉名，保留英文原名；凭证 2026-11-10；籍属/生卒联网查证：GND 规范标目 gnd 129529575（2026-11-14 查，凭证 verify-2026-11-14-gnd-d.tsv） | 2026-11-14 |
+| Burge, Tyler | — | 泰勒·伯奇 | 美国 | 1946– | logic-massexpress | 无通行汉名，保留英文原名；凭证 2026-11-10；籍属/生卒联网查证：GND 规范标目 gnd 129529575（2026-11-14 查，凭证 verify-2026-11-14-gnd-d.tsv）；中文定名补证：蒋薇《知觉表征及其界限——泰勒·伯奇的知觉观探究》，《外国哲学》2016 年第 2 期作“泰勒·伯奇（Tyler Burge）”（2026-11-24 查，凭证 people-cnweb-2026-11-24-b30.md） | 2026-11-14 |
 | Burgess, John P. | — | John P. Burgess（现代学者，保留英文） | 美国 | 1948– | deductivism-mathematics | ADR-0022：无通行汉名者保留英文；凭证 2026-11-08；籍属/生卒联网查证：GND 规范标目 gnd 139005250（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Buridan, John [Jean] / John Buridan | — | 让·布里丹（正文简作“布里丹”） | 法国（皮卡第） | 约1300–1361 | duhem；首现（william-sherwood） | SUMMARY 定名沿用（学界通行汉译；SUMMARY b/buridan 行）；凭证 2026-11-06；2026-11-13 重复行合并（旧键 `John Buridan`）；籍属/生卒联网查证：GND 规范标目 gnd 118818864（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv）；籍属/生卒联网查证：SEP 原文 en/singular-terms-medieval:214（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Burke, Edmund | — | 埃德蒙·伯克 | 爱尔兰／英国／政治哲学 | 1729–1797 | aesthetics-18th-british | 学界千年通行（《关于崇高与美观念起源的哲学探讨》作者）；籍属/生卒联网查证：GND 规范标目 gnd 118517708（2026-11-14 查，凭证 verify-2026-11-14-gnd-d.tsv） | 2026-11-14 |
@@ -1351,7 +1351,7 @@
 | Ess, Charles | — | 查尔斯·埃斯 | 美国 | 1951– | it-moral-values | 学界通行音译（信息伦理学）；凭证 2026-11-10 | 2026-11-10 |
 | Esteva, Francesc | — | Francesc Esteva | — | — | logic-fuzzy | 无通行汉名，保留英文原名；凭证 2026-11-09 | 2026-11-09 |
 | Estlund, David | — | David Estlund | 美国 | 1958– | jury-theorems | 现代学者无通行汉名，保留英文（ADR-0022）；籍属/生卒联网查证：Wikidata Q5233431（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
-| Etchemendy, John | — | John Etchemendy | 美国 | 1952– | logical-consequence | 无通行汉名，保留英文原名；凭证 2026-11-09；籍属/生卒联网查证：GND 规范标目 gnd 132926679（2026-11-14 查，凭证 verify-2026-11-14-gnd-h.tsv） | 2026-11-14 |
+| Etchemendy, John | — | 约翰·埃切曼迪 | 美国 | 1952– | logical-consequence | 无通行汉名，保留英文原名；凭证 2026-11-09；籍属/生卒联网查证：GND 规范标目 gnd 132926679（2026-11-14 查，凭证 verify-2026-11-14-gnd-h.tsv）；中文定名补证：同书中译本作者署名“约翰·埃切曼迪”；三民书局简体书目页同（2026-11-24 查，凭证 people-cnweb-2026-11-24-b30.md） | 2026-11-14 |
 | Étienne Balibar | — | 艾蒂安·巴利巴尔 | 法国 | 1942– | 语料回收（全目录） | 学界通行音译；籍属/生卒联网查证：Wikidata Q289333（2026-11-24 查，凭证 people-wikidata-2026-11-24-b12.tsv）；马克思主义政治哲学（公民权与种族问题） | 2026-11-24 |
 | Euathlus | — | 欧绪阿卢斯 | — | — | lorenzo-valla | 希腊史工具书通行音译（普罗塔戈拉弟子、讼案当事学生） | 2026-11-04 |
 | Eubulides of Miletus | — | 米利都的欧布里德 | 古希腊（米利都） | 约前4世纪（活动期） | dialectical-school | 学界通行汉译（欧布里德悖论〔说谎者等〕之作者，辩证传统所自出）；凭证 2026-11-07；籍属/生卒联网查证：Wikidata Q461007（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
