@@ -518,3 +518,10 @@
 * 查无汉名、保持英文原名：Jennifer Saul（仅日译）、Marilyn Friedman、Louise Antony、Anna Stilz、Kent Bach（中文语用学只引 Bach 姓）、David Copp。
 * 凭证：`results/people-cnweb-2026-11-24-b27.md`；生成器 `bin/make_rowspec_people27.py`。
 * 落册：定点改写 2 行（人名表 4,897 不变）；`registry_azsort` 守恒；`check_all` 17 项全绿。
+
+## 2026-11-24：人名第二十八批（中文源补证 3 人）
+
+* 取中译本／期刊定名：Robert Pippin → 罗伯特·皮平（《黑格尔的观念论》陈虎平译，华夏 2006）；Hilary Kornblith → 希拉里·科恩布里斯（《世界哲学》2014 年第 4 期访谈）；Philip Stratton-Lake → 菲利普·斯特拉顿-莱克（《正当与善》编者，林南译，上海译文 2008/2016；CIP 作“斯特拉顿·莱克”，入别名）。
+* 查无汉名：Michael Bergmann（Justification without Awareness 无中译本）。
+* 凭证：`results/people-cnweb-2026-11-24-b28.md`；生成器 `bin/make_rowspec_people28.py`。
+* 落册：定点改写 3 行；`registry_azsort` 守恒；`check_all` 17 项全绿。

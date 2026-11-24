@@ -1988,7 +1988,7 @@
 | Heyting, Arend | — | 阿伦德·海廷 | 荷兰／数学 | 1898–1980 | deductivism-mathematics | 学界通行汉译（海廷代数/直觉主义逻辑）；凭证 2026-11-08；籍属/生卒联网查证：GND 规范标目 gnd 1027693091（2026-11-14 查，凭证 verify-2026-11-14-gnd-k.tsv） | 2026-11-14 |
 | Hideyoshi | — | 丰臣秀吉 | 日本 | 1537–1598 | japanese-aesthetics | 学界惯例（日本战国史通行汉名）。生卒/籍属查证 2026-11-22：World History Encyclopedia 作 1537 生于尾张国、1598-09-18 卒（生月日无确证） | 2026-11-22 |
 | Higginbotham, James | — | James Higginbotham | 美国 | 1941– | logic-massexpress | 无通行汉名，保留英文原名；凭证 2026-11-10；籍属/生卒联网查证：GND 规范标目 gnd 140461043（2026-11-14 查，凭证 verify-2026-11-14-gnd-k.tsv） | 2026-11-14 |
-| Hilary Kornblith | — | Hilary Kornblith（无通行汉名，保留英文原名） | 美国 | 1954– | 语料回收（全目录） | 学界通行音译；籍属/生卒联网查证：Wikidata Q5761008（2026-11-24 查，凭证 people-wikidata-2026-11-24-b18.tsv）；自然主义认识论（《Knowledge and its Place in Nature》） | 2026-11-24 |
+| Hilary Kornblith | — | 希拉里·科恩布里斯 | 美国 | 1954– | 语料回收（全目录） | 学界通行音译；籍属/生卒联网查证：Wikidata Q5761008（2026-11-24 查，凭证 people-wikidata-2026-11-24-b18.tsv）；自然主义认识论（《Knowledge and its Place in Nature》）；中文定名补证：《世界哲学》2014 年第 4 期“直觉、自然主义与认识论——H. 科恩布里斯教授访谈”（方环非访译）作“科恩布里斯”；无中译本专书，取期刊定名（2026-11-24 查，凭证 people-cnweb-2026-11-24-b28.md） | 2026-11-24 |
 | Hilary of Poitier | — | 普瓦捷的希拉里 | 古罗马（高卢） | 约315–367 | gianfrancesco-pico | 教父学通行汉译（Ilario di Poitiers）；籍属/生卒联网查证：Wikidata Q44344（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Hilbert, David / David Hilbert | — | 大卫·希尔伯特 | 德国 | 1862–1943 | scholz；geometry-19th | 数学基础与几何公理化奠基者，学界通行汉译（ADR-0022 通行汉名判据）；凭证 2026-11-11；2026-11-13 重复行合并（旧键 `David Hilbert`）；籍属/生卒联网查证：Wikidata Q41585（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Hilbig, Benjamin | — | Benjamin Hilbig（现代学者，保留英文） | — | — | justice-moral-psych | ADR-0022：无通行汉名者保留英文（诚实-谦逊实验）；凭证 2026-11-10 | 2026-11-10 |
@@ -3562,7 +3562,7 @@
 | Philip II | — | 腓力二世 | 西班牙／国王 | 1527–1598 | gomez-pereira | 学界通行汉译；凭证 2026-11-12 | 2026-11-12 |
 | Philip IV (the Fair), King of France | — | 腓力四世（美男子） | 法国 | 1268–1314 | giles | 学界通行汉译（法国国王）；籍属/生卒联网查证：Wikidata Q130969（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Philip Quinn | — | 菲利普·奎因 | 美国 | 1940–2004 | 语料回收（全目录） | 学界通行音译；籍属/生卒联网查证：Wikidata Q7183930（2026-11-24 查，凭证 people-wikidata-2026-11-24-b8.tsv）；宗教哲学家；与已登记的 Warren Quinn（沃伦·奎因）为异人 | 2026-11-24 |
-| Philip Stratton-Lake | — | Philip Stratton-Lake（无通行汉名，保留英文原名） | — | 1959–2022 | 语料回收（全目录） | 学界通行译名；籍属/生卒联网查证：Wikidata Q104583021（2026-11-24 查，凭证 people-wikidata-2026-11-24-b21.tsv）；直觉主义与罗斯研究；Wikidata 无 P27 | 2026-11-24 |
+| Philip Stratton-Lake | 斯特拉顿·莱克 | 菲利普·斯特拉顿-莱克 | — | 1959–2022 | 语料回收（全目录） | 学界通行译名；籍属/生卒联网查证：Wikidata Q104583021（2026-11-24 查，凭证 people-wikidata-2026-11-24-b21.tsv）；直觉主义与罗斯研究；Wikidata 无 P27；中文定名补证：中译本《正当与善》（罗斯著，氏编，林南译，上海译文出版社 2008／2016，ISBN 9787532771035）CIP 著录“斯特拉顿·莱克（Stratton-Lake, P.）编”，封面作“菲利普·斯特拉顿-莱克”（2026-11-24 查，凭证 people-cnweb-2026-11-24-b28.md） | 2026-11-24 |
 | Philip the Chancellor | — | 菲利普校长 | 法国／经院神学 | c. 1160–1236 | conscience；analogy-medieval | 中世纪哲学通行（13 世纪巴黎圣母院学校校长；音译兼职衔；亦作“校长腓力”“尚塞利耶的菲利普”）；重复行合并 2026-11-08；凭证 2026-11-08 | 2026-11-08 |
 | Philipp Jakob Spener | — | 菲利普·雅各布·施佩纳 | 德国 | 1635–1705 | 18thGerman-preKant | 学界通行汉译（虔敬派创始人）；凭证 2026-11-05；审定库无相关命中（termonline-all 凭证 2026-11-14）；籍属/生卒联网查证：Wikidata Q311231（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Phillips, D. Z. | — | D. Z. 菲利普斯 | 英国（威尔士）／哲学家 | 1934–2006 | religion-epistemology | 学界通行（维特根斯坦式信仰主义）；凭证 2026-11-10 | 2026-11-10 |
@@ -3854,7 +3854,7 @@
 | Robert Gooding-Williams | — | Robert Gooding-Williams（无通行汉名，保留英文原名） | 美国 | 1953– | 语料回收（全目录） | 学界通行音译；籍属/生卒联网查证：Wikidata Q29110080（2026-11-24 查，凭证 people-wikidata-2026-11-24-b11.tsv）；非裔美国政治思想（杜波依斯研究） | 2026-11-24 |
 | Robert Halifax | — | 罗伯特·哈利法克斯 | 英格兰 | 约1300–1350后 | gregory-rimini | 音译（14 世纪牛津神学家）；凭证 2026-11-10；生卒查证：Gracia & Noone (eds.), A Companion to Philosophy in the Middle Ages 年表：“Robert of Halifax b. ca. 1300; d. after 1350”（2026-11-22 查，凭证 dates-batch7-2026-11-22.tsv） | 2026-11-22 |
 | Robert Kane | — | 罗伯特·凯恩 | 美国 | 1938–2024 | 语料回收（全目录） | 学界通行音译；籍属/生卒联网查证：Wikidata Q913046（2026-11-24 查，凭证 people-wikidata-2026-11-24-b9.tsv）；自由意志论（事件因果的自由意志论） | 2026-11-24 |
-| Robert Pippin | — | Robert Pippin（无通行汉名，保留英文原名） | 美国 | — | 语料回收（全目录） | 学界通行音译；籍属/生卒联网查证（2026-11-24 查，凭证 people-wikidata-2026-11-24-b13.tsv）；黑格尔与德国观念论（芝加哥大学）；Wikidata 无人格项，英文维基摘要未载生年，生卒留白不臆造 | 2026-11-24 |
+| Robert Pippin | — | 罗伯特·皮平 | 美国 | — | 语料回收（全目录） | 学界通行音译；籍属/生卒联网查证（2026-11-24 查，凭证 people-wikidata-2026-11-24-b13.tsv）；黑格尔与德国观念论（芝加哥大学）；Wikidata 无人格项，英文维基摘要未载生年，生卒留白不臆造；中文定名补证：中译本《黑格尔的观念论：自意识的满足》（陈虎平译，华夏出版社 2006，ISBN 9787508039541）作者署名“罗伯特·皮平”；卿文光评论文（《博览群书》2007 年第 7 期）同（2026-11-24 查，凭证 people-cnweb-2026-11-24-b28.md） | 2026-11-24 |
 | Robert Post | — | Robert Post（现代学者正文保留英文；通行汉译“波斯特”备查） | 美国 | 1947– | academic-freedom | 学界通行；审定库模糊命中 20 条存查（termonline-standard 匿名通道，2026-11-01）；籍属/生卒联网查证：Wikidata Q7348986（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Robert Rynasiewicz | — | 保留英文（无通行汉名） | — | — | spacetime-convensimul | ADR-0022：无通行汉名者保留英文 | 2026-11-06 |
 | Robert Sugden | — | 罗伯特·萨格登 | 英国 | 1949– | 语料回收（全目录） | 学界通行音译；籍属/生卒联网查证：Wikidata Q7350145（2026-11-24 查，凭证 people-wikidata-2026-11-24-b9.tsv）；经济学哲学（机会均等、自发秩序）；中文定名补证：中译本《权利、合作与福利的经济学》（方钦译，上海财经大学出版社 2008 初版；复旦大学出版社 2022 新译版，ISBN 9787309159622）作者署名“罗伯特·萨格登”，澎湃新闻·上海书评方钦文、中华读书报 2023-03-15 均同（2026-11-24 查，凭证 people-cnweb-2026-11-24-b27.md） | 2026-11-24 |
