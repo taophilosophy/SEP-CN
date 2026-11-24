@@ -193,7 +193,11 @@ def extract_math_dollars(art_inner):
 
 
 def _dollar_blank(body):
-    """`\\$` 与 `$` 统一替换为哨兵后的指纹（两侧同式）。"""
+    """`\\$` 与 `$` 统一替换为哨兵、且**折叠空白**后的指纹（两侧同式）。
+
+    H0 与 md 的换行位置不同（C 重排段落），不折叠空白则同式指纹不等
+    （formal-epistemology `u(-$10)\n\approx…` 对 `u(-\\$10) \approx…` 判例）。"""
+    body = re.sub(r"\s+", "", body)
     for ch in ("\\$", "$"):
         body = body.replace(ch, "\x00")
     return hashlib.sha1(body.encode("utf-8")).hexdigest()[:16]

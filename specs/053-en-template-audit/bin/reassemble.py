@@ -489,7 +489,9 @@ def _strip_sup_wrap(f):
 
 
 def _blank_dollars(body):
-    """行内公式体内 `\\$`/`$` 统一换哨兵后的指纹（与账 extract_math_dollars 同式）。"""
+    """行内公式体内 `\\$`/`$` 统一换哨兵、折叠空白后的指纹（与账 extract_math_dollars
+    同式；空白折叠同因：H0 与 md 换行位置不同，formal-epistemology 判例）。"""
+    body = re.sub(r"\s+", "", body)
     for ch in ("\\$", "$"):
         body = body.replace(ch, "\x00")
     return hashlib.sha1(body.encode("utf-8")).hexdigest()[:16]
@@ -762,8 +764,18 @@ def _inline_md_to_html(text):
     s = re.sub(r"`([^`]*)`", _stash_code, s)
     # sub/sup 记号（_{x}/^{x}）→ 标签；原生 Unicode 字形已由 C 直接产出，
     # R 不识别（原样文本，C 亦原样）。数学占位符内的记号不受影响。
-    s = re.sub(r"_\{([^}]*)\}", lambda m: "<sub>" + _supsub_inner(m.group(1)) + "</sub>", s)
-    s = re.sub(r"\^\{([^}]*)\}", lambda m: "<sup>" + _supsub_inner(m.group(1)) + "</sup>", s)
+    def _sup_sub_repl(tag):
+        def rep(m):
+            # 前接字面 TeX 命令（`\x12`＋字母，C 侧双写反斜杠的裸排环境漏在
+            # 正文层：`\\phi_{100}`，formal-epistemology 判例）时保留字面，
+            # 不下标——H0 该处是正文层 TeX 文本而非 md 上标记号
+            if re.search("\x12[A-Za-z]+$", s[:m.start()]):
+                return m.group(0)
+            return "<%s>%s</%s>" % (tag, _supsub_inner(m.group(1)), tag)
+        return rep
+
+    s = re.sub(r"_\{([^}]*)\}", _sup_sub_repl("sub"), s)
+    s = re.sub(r"\^\{([^}]*)\}", _sup_sub_repl("sup"), s)
     # 强调／粗体（单层；C 的 em 先于 strong，嵌套粗斜体在像内为 ***x***——
     # 简形词条未出现，残差清单登记）
     # 强调／粗体：小型星解析器——C 输出的强调定界符恒“紧”（内侧无空格，
