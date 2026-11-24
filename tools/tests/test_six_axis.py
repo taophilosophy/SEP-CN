@@ -104,6 +104,14 @@ class TestSixInstruments(unittest.TestCase):
         self.assertGreaterEqual(len(rows), 2)
         self.assertTrue(all(r["verdict"] == "pending" for r in rows))
 
+    def test_logic_trivial_channel(self):
+        # 无强算子的单命题句标 trivial，不占人审预算（试金石 G1 修正）
+        p = os.path.join(self.tmp.name, "triv.md")
+        with open(p, "w", encoding="utf-8", newline="\n") as f:
+            f.write("# 样本\n\n他昨天去了图书馆，读了一本书，然后回家了。\n")
+        rows = logic_audit.skeleton("triv", ax.read_doc(p))
+        self.assertTrue(any(r["verdict"] == "trivial" for r in rows))
+
     def test_qchain_order(self):
         self.assertEqual([x[0] for x in qchain.ORDER],
                          ["q1", "q2", "q3", "q4", "q5", "q6"])
