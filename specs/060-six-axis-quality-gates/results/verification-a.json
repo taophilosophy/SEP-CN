@@ -1,0 +1,454 @@
+{
+ "schema": "six-axis-verification/v1",
+ "sample": {
+  "files": 161
+ },
+ "A_structure": {
+  "nodes": 22,
+  "violations": [],
+  "checks": [
+   {
+    "name": "链首唯一",
+    "ok": true,
+    "detail": "['P1']"
+   },
+   {
+    "name": "链尾唯一",
+    "ok": true,
+    "detail": "['R3']"
+   },
+   {
+    "name": "每节点唯一后继（全序）",
+    "ok": true,
+    "detail": "[]"
+   },
+   {
+    "name": "链覆盖全部节点",
+    "ok": true,
+    "detail": "22/22"
+   },
+   {
+    "name": "q 链连续且位于 s2.5 与 S3 之间",
+    "ok": true,
+    "detail": "{'q1': 12, 'q2': 13, 'q3': 14, 'q4': 15, 'q5': 16, 'q6': 17}"
+   },
+   {
+    "name": "q1 判据唯一登记",
+    "ok": true,
+    "detail": "['cite_audit']"
+   },
+   {
+    "name": "q2 判据唯一登记",
+    "ok": true,
+    "detail": "['logic_audit']"
+   },
+   {
+    "name": "q3 判据唯一登记",
+    "ok": true,
+    "detail": "['grammar_audit']"
+   },
+   {
+    "name": "q4 判据唯一登记",
+    "ok": true,
+    "detail": "['register_audit']"
+   },
+   {
+    "name": "q5 判据唯一登记",
+    "ok": true,
+    "detail": "['measure_audit']"
+   },
+   {
+    "name": "q6 判据唯一登记",
+    "ok": true,
+    "detail": "['punct_audit']"
+   },
+   {
+    "name": "六节点均非硬拦（T0 档）",
+    "ok": true,
+    "detail": "{'q1': False, 'q2': False, 'q3': False, 'q4': False, 'q5': False, 'q6': False}"
+   },
+   {
+    "name": "强制集含 q1–q6",
+    "ok": true,
+    "detail": "['R1', 'R2', 'R3', 'global', 'q1', 'q2', 'q3', 'q4', 'q5', 'q6', 's0', 's2.4']"
+   },
+   {
+    "name": "强制集含 R1–R3",
+    "ok": true,
+    "detail": ""
+   },
+   {
+    "name": "ORDER 含六状态且位次正确",
+    "ok": true,
+    "detail": "pending,cleared,s0_source_checked,drafted,s1_checked,s2_checked,s2.4_termchecked,s2.5_checked,q1_cite_checked,q2_logic_checked,q3_grammar_checked,q4_register_checked,q5_measure_checked,q6_punct_checked,s3_checked,r1_reviewed,r2_reviewed,r3_reviewed,done"
+   },
+   {
+    "name": "回退 checkpoint 节点在链内",
+    "ok": true,
+    "detail": "['global', 's2.4']"
+   },
+   {
+    "name": "回退目标态在 ORDER 内",
+    "ok": true,
+    "detail": "['s2.4_termchecked', 's2.5_checked']"
+   },
+   {
+    "name": "P29–P33 已登记",
+    "ok": true,
+    "detail": "P1,P10,P11,P12,P13,P14,P15,P16,P17,P18,P19,P2,P20,P21,P22,P23,P24,P25,P26,P27,P28,P29,P3,P30,P31,P32,P33,P4,P5,P6,P7,P8,"
+   },
+   {
+    "name": "journal-schema 节点计数一致",
+    "ok": true,
+    "detail": "22 vs 22"
+   }
+  ]
+ },
+ "B_coverage": {
+  "cy266": {
+   "total": 29,
+   "mapped": 29,
+   "machine": 23,
+   "manual": 4,
+   "exempt": 2,
+   "gaps": []
+  },
+  "mqm": {
+   "total": 7,
+   "mapped": 7,
+   "gaps": []
+  },
+  "judgments": {
+   "q1": {
+    "count": 10,
+    "ids": [
+     "C-1",
+     "C-2",
+     "C-3",
+     "C-4",
+     "C-4b",
+     "C-4c",
+     "C-5",
+     "C-6",
+     "C-7",
+     "C-8"
+    ]
+   },
+   "q2": {
+    "count": 12,
+    "ids": [
+     "L-1",
+     "L-10",
+     "L-11",
+     "L-12",
+     "L-2",
+     "L-3",
+     "L-4",
+     "L-5",
+     "L-6",
+     "L-7",
+     "L-8",
+     "L-9"
+    ]
+   },
+   "q3": {
+    "count": 19,
+    "ids": [
+     "G-1",
+     "G-10",
+     "G-11",
+     "G-12",
+     "G-13",
+     "G-14",
+     "G-15",
+     "G-16",
+     "G-17",
+     "G-18",
+     "G-19",
+     "G-2",
+     "G-3",
+     "G-4",
+     "G-5",
+     "G-6",
+     "G-7",
+     "G-8",
+     "G-9"
+    ]
+   },
+   "q4": {
+    "count": 12,
+    "ids": [
+     "R-1",
+     "R-2",
+     "R-3",
+     "R-4",
+     "R-5",
+     "R-a",
+     "R-b",
+     "R-c",
+     "R-d",
+     "R-e",
+     "R-f",
+     "R-g"
+    ]
+   },
+   "q5": {
+    "count": 10,
+    "ids": [
+     "M-1",
+     "M-10",
+     "M-2",
+     "M-3",
+     "M-4",
+     "M-5",
+     "M-6",
+     "M-7",
+     "M-8",
+     "M-9"
+    ]
+   },
+   "q6": {
+    "count": 20,
+    "ids": [
+     "P-1",
+     "P-10",
+     "P-11",
+     "P-12",
+     "P-13",
+     "P-14",
+     "P-15",
+     "P-16",
+     "P-17",
+     "P-18",
+     "P-19",
+     "P-2",
+     "P-20",
+     "P-3",
+     "P-4",
+     "P-5",
+     "P-6",
+     "P-7",
+     "P-8",
+     "P-9"
+    ]
+   }
+  }
+ },
+ "C_consistency": {
+  "positions_multi": 657,
+  "pairs": {
+   "q5×q6": 208,
+   "q3×q5": 179,
+   "q3×q6": 435,
+   "q4×q6": 17,
+   "q4×q5": 10,
+   "q3×q4": 18
+  },
+  "expected": 657,
+  "unexplained": 0,
+  "samples": [
+   {
+    "pos": "abduction:61",
+    "nodes": [
+     "q5",
+     "q6"
+    ],
+    "kind": "expected",
+    "why": "M-6 判该用哪种连接号，P-13 判写法"
+   },
+   {
+    "pos": "abduction:59",
+    "nodes": [
+     "q5",
+     "q6"
+    ],
+    "kind": "expected",
+    "why": "M-6 判该用哪种连接号，P-13 判写法"
+   },
+   {
+    "pos": "abelard:5",
+    "nodes": [
+     "q3",
+     "q5"
+    ],
+    "kind": "expected",
+    "why": "G 层判句法，M-2 判数值-单位空格，同句不同 span"
+   },
+   {
+    "pos": "abelard:160",
+    "nodes": [
+     "q3",
+     "q6"
+    ],
+    "kind": "expected",
+    "why": "G 层判句法，P-20 判半角标点"
+   },
+   {
+    "pos": "abelard:172",
+    "nodes": [
+     "q3",
+     "q6"
+    ],
+    "kind": "expected",
+    "why": "G 层判句法，P-20 判半角标点"
+   },
+   {
+    "pos": "abhidharma:27",
+    "nodes": [
+     "q3",
+     "q6"
+    ],
+    "kind": "expected",
+    "why": "G 层判句法，P-20 判半角标点"
+   },
+   {
+    "pos": "abhidharma:53",
+    "nodes": [
+     "q3",
+     "q5"
+    ],
+    "kind": "expected",
+    "why": "G 层判句法，M-2 判数值-单位空格，同句不同 span"
+   },
+   {
+    "pos": "abhidharma:55",
+    "nodes": [
+     "q3",
+     "q5",
+     "q6"
+    ],
+    "kind": "expected",
+    "why": "G 层判句法，M-2 判数值-单位空格，同句不同 span；G 层判句法，P-20 判半角标点；M-6 判该用哪种连接号，P-13 判写法"
+   },
+   {
+    "pos": "abhidharma:61",
+    "nodes": [
+     "q3",
+     "q6"
+    ],
+    "kind": "expected",
+    "why": "G 层判句法，P-20 判半角标点"
+   },
+   {
+    "pos": "abhidharma:63",
+    "nodes": [
+     "q3",
+     "q6"
+    ],
+    "kind": "expected",
+    "why": "G 层判句法，P-20 判半角标点"
+   },
+   {
+    "pos": "abhidharma:67",
+    "nodes": [
+     "q3",
+     "q5",
+     "q6"
+    ],
+    "kind": "expected",
+    "why": "G 层判句法，M-2 判数值-单位空格，同句不同 span；G 层判句法，P-20 判半角标点；M-6 判该用哪种连接号，P-13 判写法"
+   },
+   {
+    "pos": "abhidharma:69",
+    "nodes": [
+     "q3",
+     "q5",
+     "q6"
+    ],
+    "kind": "expected",
+    "why": "G 层判句法，M-2 判数值-单位空格，同句不同 span；G 层判句法，P-20 判半角标点；M-6 判该用哪种连接号，P-13 判写法"
+   },
+   {
+    "pos": "abhidharma:71",
+    "nodes": [
+     "q3",
+     "q6"
+    ],
+    "kind": "expected",
+    "why": "G 层判句法，P-20 判半角标点"
+   },
+   {
+    "pos": "abhidharma:75",
+    "nodes": [
+     "q3",
+     "q6"
+    ],
+    "kind": "expected",
+    "why": "G 层判句法，P-20 判半角标点"
+   },
+   {
+    "pos": "abhidharma:83",
+    "nodes": [
+     "q3",
+     "q6"
+    ],
+    "kind": "expected",
+    "why": "G 层判句法，P-20 判半角标点"
+   },
+   {
+    "pos": "abhidharma:85",
+    "nodes": [
+     "q3",
+     "q5",
+     "q6"
+    ],
+    "kind": "expected",
+    "why": "G 层判句法，M-2 判数值-单位空格，同句不同 span；G 层判句法，P-20 判半角标点；M-6 判该用哪种连接号，P-13 判写法"
+   },
+   {
+    "pos": "abhidharma:87",
+    "nodes": [
+     "q3",
+     "q6"
+    ],
+    "kind": "expected",
+    "why": "G 层判句法，P-20 判半角标点"
+   },
+   {
+    "pos": "abhidharma:97",
+    "nodes": [
+     "q3",
+     "q5",
+     "q6"
+    ],
+    "kind": "expected",
+    "why": "G 层判句法，M-2 判数值-单位空格，同句不同 span；G 层判句法，P-20 判半角标点；M-6 判该用哪种连接号，P-13 判写法"
+   },
+   {
+    "pos": "abhidharma:99",
+    "nodes": [
+     "q3",
+     "q6"
+    ],
+    "kind": "expected",
+    "why": "G 层判句法，P-20 判半角标点"
+   },
+   {
+    "pos": "abhidharma:103",
+    "nodes": [
+     "q3",
+     "q5",
+     "q6"
+    ],
+    "kind": "expected",
+    "why": "G 层判句法，M-2 判数值-单位空格，同句不同 span；G 层判句法，P-20 判半角标点；M-6 判该用哪种连接号，P-13 判写法"
+   }
+  ],
+  "idempotent_files": {
+   "cite": 161,
+   "cite_hash": 161,
+   "q3": 161,
+   "q4": 161,
+   "q5": 161,
+   "q6": 161,
+   "q2": 161
+  }
+ },
+ "D_assumptions": [
+  "前提 A1：人审裁判如实执行（机检为筛，人审为判，ADR-0070）",
+  "前提 A2：作者的英文阐释可由紧邻段落识别（q1 通道二）",
+  "前提 A3：LLM 输出不进入 verdict 字段（只产候选）",
+  "前提 A4：`verifiable` 的版本判定由查证承担，工具不代判",
+  "前提 A5：语义类判据（语域、逻辑、句法深检）不可机判，其通过以人审签字为凭"
+ ]
+}
