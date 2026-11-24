@@ -1,4 +1,4 @@
-# 果让巴·索南僧格 Gorampa [go rams pa] (Constance Kassor)
+# 果让巴·索南僧格 Gorampa [go rams pa] (Ryan Conlon)
 
 *首次发表于 2011 年 5 月 2 日；2021 年 3 月 29 日实质修订。*
 

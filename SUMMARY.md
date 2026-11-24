@@ -601,8 +601,7 @@
 * [批判理论（法兰克福学派） Critical Theory (Frankfurt School) (Robin Celikates、Jeffrey Flynn)](c/critical-theory.md)
   * \*美学——见批判理论中的美学 Aesthetics in Critical Theory — see aesthetics: in critical theory
 * [批判性思维 Critical Thinking (David Hitchcock)](c/critical-thinking.md)
-* \*克罗齐 croce benedetto
-  * [克罗齐的美学 Croce’s Aesthetics (Gary Kemp)](c/croce-aesthetics.md)
+* [贝内代托·克罗齐 Benedetto Croce (Richard Bellamy、Gary Kemp)](c/croce.md)
 * [亚历山大·克鲁梅尔 Alexander Crummell (Stephen Thompson)](a/alexander-crummell.md)
 * [拉尔夫·库德沃斯 Ralph Cudworth (Sarah Hutton)](c/cudworth.md)
 * [奥托巴·库加诺 Ottobah Cugoano (Antonia LoLordo)](c/cugoano.md)
@@ -1108,7 +1107,7 @@
   * [古德曼的美学 Goodman’s Aesthetics (Alessandro Giovannelli)](g/goodman-aesthetics.md)
 * [全善 Perfect Goodness (Mark Murphy)](p/perfect-goodness.md)
 * \*公共物品——见公共物品 goods, public — see public goods
-* [果让巴·索南僧格 Gorampa \[go rams pa\] (Constance Kassor)](g/gorampa.md)
+* [果让巴·索南僧格 Gorampa \[go rams pa\] (Ryan Conlon)](g/gorampa.md)
 * \*语法 grammar
   * \*范畴——见语法：类型语法 categorial — see Typelogical Grammar
   * [类型语法 Typelogical Grammar (Michael Moortgat)](t/typelogical-grammar.md)

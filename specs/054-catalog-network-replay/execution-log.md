@@ -146,3 +146,18 @@ cron `0 1,9,17 * * *`（北京 09:00／17:00／次日 01:00）；抓 contents.ht
 - **G5 增补**：`check_catalog_network.py` 由四子门扩为五子门，G5 断言 official-snapshot ≡ 最新 contents.html 解析 ≡ catalog 账（sku 集、title/authors、alias 文本集）。负向探针（改 `abduction` 一条 title）实测转红，`--write` 复原转绿。
 - **依据**：这是“派生物无生成器/门禁”族缺口的第二次（首次为 `yuanwen/SUMMARY.md` 镜像 stale，2026-11-22 已登记），按 ADR-0039 升级防线而非只修数据。
 - **复核**：`rebuild_dir check` 0 缺镜像／1873；五子门全绿；`check_all` 17 项全绿。
+
+## 2026-11-24 issue #54 落地：croce 换发＋gorampa 作者变更
+
+### 目录（catalog 层）
+`fetch_catalog` 落快照 `20261124T182518Z`（1873 条／别名 652）；`summary_sync report` → ADD 1／REMOVE 1：
+- `croce`（Benedetto Croce，Richard Bellamy、Gary Kemp，first_published Nov 23 2026）走 `apply-add --title-zh 贝内代托·克罗齐`：中文标题沿用人名表既有登记（ren-ming-biao.md「Croce, Benedetto → 贝内代托·克罗齐」行，《美学原理》中译本凭证＋GND 118522779）；SUMMARY 原占位别名行 `* \*克罗齐 croce benedetto` 同轮删除（croce 由别名升正典，catalog alias_rows 中该行已消失）；
+- `croce-aesthetics`（Croce's Aesthetics）上游撤条走 `apply-remove --yes`（SUMMARY 行＋zh 文件＋entries.json 登记）；`en/croce-aesthetics/`、`yuanwen/c/croce-aesthetics.md` 随之清除（privacy-medicine 换发先例，git 历史保留）；在途任务（s2.4_termchecked）先 `task_ops block` 留史，任务文件与 journal 随词条一并删除——上游撤条后 zh-doc-missing 悬空无豁免通道，账随词条共存亡；
+- mu-lu-s：删「美学理论家」小节 croce-aesthetics 行；croce 直属行插入「后黑格尔与马克思主义」节。归类裁定依据：条目首段实证——精神哲学重铸黑格尔辩证法（新黑格尔主义代表）；哲学史区无独立新黑格尔主义节、单条不成节；H3 节直属条目形态有先例；与同节西方马克思主义小节的葛兰西为论战双方，语义相邻；
+- `gorampa` 作者变更（Constance Kassor → Ryan Conlon）：SUMMARY／mu-lu-s 行文本＋zh H1 作者括号三处同步（作者括号按体例保留英文原名；正文脚注 Deguchi 2013 等文献著录中的 Kassor 是引文作者，不动）。
+
+### 账与门禁
+`check_catalog_network --build-mulu`（1883 行）；`rebuild_catalog --build`（池重冻 194 条，≤200 纪律内）→ `--check` 装配 sha256 全等（c60c25f0… ≡ 20261124T182518Z）；`sync_official_snapshot --write`（main 1873／alias 652；首跑 changed=true 含 justice-retributive 等作者增补，复跑幂等全 0）；`gen_en_summary` 重写镜像（词条 1873）。
+
+### 验收
+`check_catalog_network --gate` 五门全绿；`fetch_audit croce` 0 缺件；`check_all` 17 项全绿（首跑 3 红：SUMMARY↔H1 gorampa 作者失配、任务账悬空 zh-doc-missing、G2 en-SUMMARY 镜像 stale——均在本轮修复并复验）。处置路线走 specs/054 §3 单向波纹；issue #54 由下一班巡检目录四方全等时自动关闭。

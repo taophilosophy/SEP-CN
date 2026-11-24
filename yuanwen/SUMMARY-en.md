@@ -584,8 +584,7 @@
 * [Critical Theory (Frankfurt School) (Robin Celikates, Jeffrey Flynn)](c/critical-theory.md)
   * Aesthetics in Critical Theory — see aesthetics: in critical theory
 * [Critical Thinking (David Hitchcock)](c/critical-thinking.md)
-* croce benedetto
-  * [Croce’s Aesthetics (Gary Kemp)](c/croce-aesthetics.md)
+* [Benedetto Croce (Richard Bellamy, Gary Kemp)](c/croce.md)
 * [Alexander Crummell (Stephen Thompson)](a/alexander-crummell.md)
 * [Ralph Cudworth (Sarah Hutton)](c/cudworth.md)
 * [Ottobah Cugoano (Antonia LoLordo)](c/cugoano.md)
@@ -1087,7 +1086,7 @@
   * [Goodman’s Aesthetics (Alessandro Giovannelli)](g/goodman-aesthetics.md)
 * [Perfect Goodness (Mark Murphy)](p/perfect-goodness.md)
 * goods, public — see public goods
-* [Gorampa \[go rams pa\] (Constance Kassor)](g/gorampa.md)
+* [Gorampa \[go rams pa\] (Ryan Conlon)](g/gorampa.md)
 * grammar
   * categorial — see Typelogical Grammar
   * [Typelogical Grammar (Michael Moortgat)](t/typelogical-grammar.md)

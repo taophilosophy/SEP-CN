@@ -31220,77 +31220,46 @@
       }
     },
     {
-      "slug": "croce-aesthetics",
-      "fetched_at": "2026-10-26T20:36:30Z",
-      "source_url": "https://plato.stanford.edu/entries/croce-aesthetics/",
-      "title": "Croce’s Aesthetics",
+      "slug": "croce",
+      "fetched_at": "2026-11-24T18:29:57Z",
+      "source_url": "https://plato.stanford.edu/entries/croce/",
+      "title": "Benedetto Croce",
       "authors": [
+        "Bellamy, Richard",
         "Kemp, Gary"
       ],
       "pubinfo": {
-        "first_published": "May 4, 2008",
-        "substantive_revision": "Oct 8, 2021"
+        "first_published": "Nov 23, 2026",
+        "substantive_revision": null
       },
       "in_article_markers": true,
-      "zh_doc": "c/croce-aesthetics.md",
+      "zh_doc": "c/croce.md",
       "archinfo": {
-        "latest_edition": "Winter 2025",
-        "latest_change_type": "minor correction",
-        "history": [
-          {
-            "edition": "Winter 2021",
-            "change_type": "substantive content change"
-          },
-          {
-            "edition": "Fall 2018",
-            "change_type": "minor correction"
-          },
-          {
-            "edition": "Winter 2017",
-            "change_type": "substantive content change"
-          },
-          {
-            "edition": "Fall 2014",
-            "change_type": "minor correction"
-          },
-          {
-            "edition": "Fall 2013",
-            "change_type": "substantive content change"
-          },
-          {
-            "edition": "Fall 2009",
-            "change_type": "substantive content change"
-          },
-          {
-            "edition": "Fall 2008",
-            "change_type": "minor correction"
-          },
-          {
-            "edition": "Summer 2008",
-            "change_type": "first archived"
-          }
-        ]
+        "latest_edition": null,
+        "latest_change_type": null,
+        "pending_change_type": "new publication",
+        "history": []
       },
-      "archive_edition": "Winter 2025",
+      "archive_edition": null,
       "files": [
         {
-          "path": "en/croce-aesthetics/index.html",
-          "sha256": "28223724ef31cc252fe7d02965cee3fbdc1f4bc5661579fc3c8463e032a3b9d1",
-          "bytes": 65998,
+          "path": "en/croce/index.html",
+          "sha256": "9d2686498858ed78a2ec866e9e2d52a779fd16ac06a7d9a2e24210b6966e5563",
+          "bytes": 124663,
           "kind": "main"
         }
       ],
       "missing": [],
       "yuanwen": {
-        "md": "yuanwen/c/croce-aesthetics.md",
-        "sha256": "7f945b775bf88715cb50d9fe4273adb8a6ea5c73520dfba4ba38f0b97a772f53",
-        "source_sha256": "28223724ef31cc252fe7d02965cee3fbdc1f4bc5661579fc3c8463e032a3b9d1",
-        "cite_markers": 4,
-        "cite_defs": 33,
+        "md": "yuanwen/c/croce.md",
+        "sha256": "ee36a8836c355fd16da221c4533cf20de47e2903e38ba9ffac253b6185c14ebc",
+        "source_sha256": "9d2686498858ed78a2ec866e9e2d52a779fd16ac06a7d9a2e24210b6966e5563",
+        "converted_at": "2026-11-24T18:46:58Z",
+        "cite_markers": 119,
+        "cite_defs": 100,
         "supplements": [],
         "images": [],
-        "notes": 0,
-        "converted_at": "2026-11-22T07:16:22Z"
+        "notes": 0
       }
     },
     {
@@ -151759,5 +151728,5 @@
       }
     }
   ],
-  "updated_at": "2026-11-24T02:13:20Z"
+  "updated_at": "2026-11-24T18:51:05Z"
 }

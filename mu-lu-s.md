@@ -1026,6 +1026,8 @@ outline: [1, 6]
 
 ### 后黑格尔与马克思主义
 
+* [贝内代托·克罗齐 Benedetto Croce (Richard Bellamy、Gary Kemp)](c/croce.md)
+
 #### 马克思与恩格斯
 
 ##### 马克思
@@ -1757,7 +1759,7 @@ outline: [1, 6]
 #### 萨迦派
 
 * [萨迦·班智达·贡噶坚赞 Sakya Paṇḍita \[sa skya paṇ ḍi ta\] (Jonathan C. Gold)](s/sakya-pandita.md)
-* [果让巴·索南僧格 Gorampa \[go rams pa\] (Constance Kassor)](g/gorampa.md)
+* [果让巴·索南僧格 Gorampa \[go rams pa\] (Ryan Conlon)](g/gorampa.md)
 
 #### 藏传认识论与二谛
 
@@ -4103,7 +4105,6 @@ outline: [1, 6]
 #### 美学理论家
 
 * [比厄斯利的美学 Beardsley’s Aesthetics (Michael Wreen)](b/beardsley-aesthetics.md)
-* [克罗齐的美学 Croce’s Aesthetics (Gary Kemp)](c/croce-aesthetics.md)
 * [苏珊·朗格 Susanne Langer (Juliet Floyd)](l/langer.md)
 
 #### 虚构、描绘与情感

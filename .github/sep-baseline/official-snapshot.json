@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-22 02:12:17 UTC",
+ "fetched_at": "2026-11-24 18:25:18 UTC",
  "main": {
   "abduction": {
    "title": "abduction",
@@ -1537,9 +1537,9 @@
    "title": "critical thinking",
    "authors": "David Hitchcock"
   },
-  "croce-aesthetics": {
-   "title": "aesthetics",
-   "authors": "Gary Kemp"
+  "croce": {
+   "title": "Croce, Benedetto",
+   "authors": "Richard Bellamy and Gary Kemp"
   },
   "alexander-crummell": {
    "title": "Crummell, Alexander",
@@ -2835,7 +2835,7 @@
   },
   "gorampa": {
    "title": "Gorampa [go rams pa]",
-   "authors": "Constance Kassor"
+   "authors": "Ryan Conlon"
   },
   "typelogical-grammar": {
    "title": "typelogical",
@@ -3531,7 +3531,7 @@
   },
   "justice-retributive": {
    "title": "retributive",
-   "authors": "Alec Walen"
+   "authors": "Leora Dahan-Katz and Alec Walen"
   },
   "justice-transitional": {
    "title": "transitional",
@@ -7546,10 +7546,6 @@
   {
    "alias": "Collingwood",
    "slug": "collingwood-aesthetics"
-  },
-  {
-   "alias": "Croce",
-   "slug": "croce-aesthetics"
   },
   {
    "alias": "cultural appropriation",
