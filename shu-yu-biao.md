@@ -232,8 +232,7 @@
 | ahaṃkāra | अहंकार | 我慢（亦作“我慢”） | yogacara 首译 | 数论派通行译“我慢”；作者英译 egoism/I-making；与 ātmamāna 我慢同形，正文括注原词消歧；凭证 2026-11-11；原文列联网查证：Monier-Williams《梵英辞典》ahaṃkāra 条（Cologne 数字词典天城体词头渲染）（2026-11-13 查，凭证 orig-verify-2026-11-13-b4.tsv）；旧键“ātmamāna”并入（2026-11-21 撞形处置） | 2026-11-21 |
 | āhāryāropa | आहार्यारोप | 假设性认知（假想赋予） | early-modern-india | 正理思择义译（counterfactual supposition；āropa 之限定形）；凭证 2026-11-10；正文随文作“假设性认知”（校 2026-11-11）| 2026-11-10 |
 | ahiṃsā | अहिंसा | 不害（非暴力） | jaina-philosophy；colonialism | 学界千年通行（印度宗教共同术语）；2026-11-13 重复行合并（旧键 `ahimsa`） | 2026-11-13 |
-| air pump | — | 抽气机 | johann-sturm | 物理学史通行（真空泵） | 2026-11-25 |
-| air-pump | — | 空气泵 | hobbes-science 首译 | 学界通行（波义耳空气泵实验；相关研究书题《利维坦与空气泵》通行形）；凭证 2026-11-11 | 2026-11-11 |
+| air pump / air-pump | — | 空气泵（亦作“抽气机”） | johann-sturm | 物理学史通行（真空泵）；异形键 air-pump 并入（2026-11-25；旧键首现 hobbes-science，译形“空气泵”沿用） | 2026-11-25 |
 | aisthêseis | αἰσθήσεις | 感觉 | epicurus | 学界惯例（伊壁鸠鲁派认识论；与 pathê 感受分列）；撞形豁免 2026-11-21：与 Empfindung、Sensation 同概念异语（希腊语），不合并 | 2026-11-21 |
 | aisthêsis | αἴσθησις | 感知（希腊；亦作“感觉”） | 语料回收 | 学界惯例（希腊哲学术语）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
 | aitihya | — | 传承量 | jayaraasi | 印度量论通行译法（辗转相传为量） | 2026-11-07 |
@@ -2039,8 +2038,7 @@
 | Discourse on Colonialism | — | 《论殖民主义》 | 语料回收（specs/058 全库提取） | 权威译本（施雪莹译，人民文学出版社 2024（与《还乡笔记》合刊）；2026-11-24 联网核对，凭证 works-batch15-2026-11-24.md） | 2026-11-24 |
 | Discourse on Inequality | — | 《论人类不平等的起源和基础》 | 语料回收（specs/058 全库提取） | 权威译本（卢梭著作通行汉译；审定库仅命中“话语”概念；审定库无对口条目，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | Discourse on Metaphysics | — | 《形而上学谈话》（亦作“形而上学论”） | 语料回收（specs/058 全库提取） | 权威译本（莱布尼茨著作通行汉译（亦作《论形而上学》）；审定库无对口条目，2026-11-22）；凭证 2026-11-22；语料形作《形而上学谈话》（12 处，2026-11-24 查，凭证 works-batch24-2026-11-24.md）；主形改定：语料精确形 12 处，旧主形《形而上学论》0 处（2026-11-24 查，凭证 works-batch32-2026-11-24.md） | 2026-11-22 |
-| Discourse on Method / Discourse on the Method | — | 《谈谈方法》 | 语料回收（specs/058 全库提取） | 权威译本（笛卡尔著作通行汉译（王太庆译本，亦作《方法谈》）；审定库无对口条目，2026-11-22）；凭证 2026-11-22；2026-11-23 合并同日重复登记形（同概念异拼写：Discourse on the Method） | 2026-11-22 |
-| Discourse on the Method | — | 《方法谈》 | 语料回收（specs/058 全库提取） | 权威译本（王太庆译本，商务印书馆 2000-11（汉译世界学术名著丛书，ISBN 9787100030908），题作《谈谈方法》；语料通行形作《方法谈》；2026-11-24 联网核对，凭证 works-batch18-2026-11-24.md） | 2026-11-24 |
+| Discourse on Method / Discourse on the Method | — | 《谈谈方法》（亦作《方法谈》） | 语料回收（specs/058 全库提取） | 权威译本（笛卡尔著作通行汉译（王太庆译本，亦作《方法谈》）；审定库无对口条目，2026-11-22）；凭证 2026-11-22；2026-11-23 合并同日重复登记形（同概念异拼写：Discourse on the Method）；同日重复登记形《方法谈》并入（2026-11-25；旧键首现 语料回收） | 2026-11-22 |
 | discourse referent | — | 话语所指（亦作“话语指称物”） | dynamic-semantics | DRT 文献通行（亦作“话语指称物”）；凭证 2026-11-12 | 2026-11-12 |
 | discourse representation structure (DRS) / discourse representation structures | — | 话语表现结构（DRS） | dynamic-semantics | 学界通行；凭证 2026-11-12；2026-11-23 合并同日重复登记形（同概念异拼写：discourse representation structures） | 2026-11-12 |
 | Discourse Representation Theory | — | 话语表现理论（亦作“话语表现理论（DRT）（亦作“话语表征理论”“话语表示理论”）”） | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·语言学·理论语言学·理论与方法，2026-11-18 JWT 直连凭证）；旧键“discourse representation theory (DRT)”并入（2026-11-21 撞形处置；旧键首现：dynamic-semantics） | 2026-11-21 |
@@ -4901,8 +4899,7 @@
 | monē / proodos / epistrophē | μονή / πρόοδος / ἐπιστροφή | 静驻／流出／回返 | john-italos | 新柏拉图主义三重运动通行译法（普罗提诺）；审定库无相关命中（termonline-all 凭证 2026-11-10）| 2026-11-06 |
 | monetarism | — | 货币主义 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·经济学·宏观经济学，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | monetization | — | 货币化 | nicole-oresme | 经济史通行；凭证 2026-11-08；审定名词库（termonline-all·食品卫生学名词 3.7.14.8，2025）作“货币化”，与本行一致（2026-11-24 JWT 直连，凭证 termonline-b8-2026-11-24.tsv） | 2026-11-08 |
-| money pump | — | 货币泵 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
-| money-pump | — | 抽钱机 | repugnant-conclusion | 学界惯例（理性选择理论 money-pump argument）；凭证 2026-11-11 | 2026-11-11 |
+| money pump / money-pump | — | 抽钱机（亦作“货币泵”） | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23；异形键 money-pump 并入（2026-11-25；旧键首现 repugnant-conclusion，译形“抽钱机”沿用） | 2026-11-23 |
 | monism | — | 一元论 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·心理学·理论心理学与心理学史，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | mono no aware | 物の哀れ | 物哀（物の哀れ） | japanese-aesthetics | 学界惯例（日本美学研究通行译法“物哀”） | 2026-11-02 |
 | mono-object | — | 单对象 | axiom-choice（补充材料） | 本词条译名（monotype 同指异名，照源并用） | 2026-11-13 |
@@ -5996,8 +5993,7 @@
 | pornographic art | — | 色情艺术 | 首现（erotic-art） | 学界通行（pornographic 译“色情的”） | 2026-11-08 |
 | pornography | — | 色情 | 首现（erotic-art） | 学界通行；审定名词库（新闻学与传播学名词 17.074，2022）作“色情内容”，本行“色情”为核心词（凭证 termonline-b9-2026-11-24.tsv） | 2026-11-08 |
 | poroi | πόροι | 通道 | alcmaeon | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29） | 2026-10-26 |
-| Port Royal Logic | — | 《波尔·罗亚尔逻辑》 | 语料回收（specs/058 全库提取） | 权威译本（阿尔诺与尼科尔著作通行汉译；审定库无对口条目，2026-11-22）；凭证 2026-11-22 | 2026-11-22 |
-| Port-Royal Logic | La Logique ou l’Art de penser | 《波尔-罗亚尔逻辑》（国内亦称“王港逻辑”） | journal 2024-05-27 | 《波尔-罗亚尔逻辑》国内译名考（zhexueshi.com，日志 2024-05-27 引；书名行 ADR-0011）；2026-11-15 日志增补 | 2026-11-15 |
+| Port Royal Logic / Port-Royal Logic | — | 《波尔·罗亚尔逻辑》（国内亦称“王港逻辑”） | 语料回收（specs/058 全库提取） | 权威译本（阿尔诺与尼科尔著作通行汉译；审定库无对口条目，2026-11-22）；凭证 2026-11-22；异形键 Port-Royal Logic 并入（2026-11-25；旧键首现 journal） | 2026-11-22 |
 | portfolio analysis | — | 组合分析 | risk | 学界惯例（Markowitz 1952 以来金融经济学通行）；凭证 2026-11-09 | 2026-11-09 |
 | positing (Setzung) | Setzung | 设定 | brentano-judgement 首译 | 布伦塔诺/斯图姆夫术语通行译法；凭证 2026-11-09；撞形豁免 2026-11-21：同形异语／同概念异形，按条目语境区分，不合并 | 2026-11-21 |
 | positio | — | 设定（保留拉丁原词） | obligationes 首译 | 学界惯例（中世纪义务理论研究通行）；凭证 2026-11-07；撞形豁免 2026-11-21：同形异语／同概念异形，按条目语境区分，不合并 | 2026-11-21 |
@@ -6113,7 +6109,6 @@
 | pre-humanist | — | 前人文主义 | marsilius-padua | 学界通行（帕多瓦前人文主义运动）；凭证 2026-11-08 | 2026-11-08 |
 | pre-order | — | 预序 | belief-merging | 数学通行（序理论）；凭证 2026-11-10 | 2026-11-10 |
 | pre-reflective self-awareness | — | 前反思自我意识 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
-| pre-Socratic | — | 前苏格拉底 | johann-sturm | 学界通行 | 2026-11-25 |
 | precancerous lesion | — | 癌前病变 | cancer | 学界通行（病理学）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
 | precautionary principle | — | 预防原则（亦作“预警原则”“谨慎原则”） | risk | 学界惯例（环境法与风险治理通行）；凭证 2026-11-09；2026-11-15 亦作移入译法列并补审定形 | 2026-11-15 |
 | preceding necessity / subsequent necessity | — | 在先必然性／在后必然性 | peter-damian | 安瑟伦《上帝何以成人》II.17 术语通行译法（necessitas praecedens/sequens）；凭证 2026-11-09 | 2026-11-09 |
@@ -6164,7 +6159,7 @@
 | presentism | — | 现在主义 | 语料回收（全目录） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29） | 2026-10-27 |
 | preservation | — | 保存 | 语料回收（specs/050 候选池） | 条目语境研判（哲学通行保存（灵魂状态保存在来世）；审定“修缮”为遗产保护义）；审定名词库（termonline-all·城乡规划学·中国城市建设史和遗产保护规划·文化遗产保护，2026-11-18 JWT 直连凭证，审定作“修缮”） | 2026-11-19 |
 | preservationism | — | 保存主义（科学说明） | 语料回收（ism 扫描 2026-11-25） | 理论更替中的知识保存论题通行；凭证 2026-11-25 | 2026-11-25 |
-| Presocratic / Presocratic philosophers | — | 前苏格拉底（的） | ancient-soul 首译 | 学界通行（西方哲学史通行）；异形键 Presocratic philosophers 并入（2026-11-25） | 2026-11-09 |
+| Presocratic / Presocratic philosophers / pre-Socratic | — | 前苏格拉底（的） | ancient-soul 首译 | 学界通行（西方哲学史通行）；异形键 Presocratic philosophers 并入（2026-11-25）；异形键 pre-Socratic 并入（2026-11-25；旧键首现 johann-sturm） | 2026-11-09 |
 | prêstêr | prêstêr | 火旋 | heraclitus 首译 | 学界通行（B31 气象现象；一种带火带风的暴风）；凭证 2026-11-09 | 2026-11-09 |
 | presumed consent | — | 推定同意 | organ-donation | 学界惯例（生命伦理学与法学通行；凭证 2026-11-06） | 2026-11-06 |
 | presupposition | — | 预设（亦作“前提”） | dynamic-semantics | 语言哲学/语言学通行（亦作“前提”）；凭证 2026-11-12 | 2026-11-12 |
@@ -7879,8 +7874,7 @@
 | symposium | — | 会饮 | 首现（xenophanes） | 学界通行（希腊宴饮；sympotic 作会饮诗）；凭证 2026-11-07 | 2026-11-07 |
 | Syncategoremata | — | 《非范畴词论》 | 语料回收（specs/058 全库提取） | 本库译名（中世纪逻辑论著体裁名；语料 10 处一致）（2026-11-24 联网／语料核对，凭证 works-batch27-2026-11-24.md） | 2026-11-24 |
 | syncategorematic | — | 非范畴的 | buridan 首译 | 学界通行译名（中世纪逻辑与哲学研究文献）；凭证 2026-11-08；FLAG 裁定 2026-11-21：形容词形“非范畴的”；名词行保留非范畴词，书名《助范畴词》作专名 | 2026-11-21 |
-| syncategorematic word | — | 非范畴词 | richard-sophister | 学界通行汉译（中世纪逻辑研究界）；审定库无相关命中（termonline-all 凭证 2026-11-10）| 2026-11-04 |
-| syncategorematic word / syncategorema | — | 助范畴词 | peter-spain | 中世纪逻辑通行译法（与范畴词相对；复数 Syncategoreumata 作书名《助范畴词》）；凭证 2026-11-09 | 2026-11-09 |
+| syncategorematic word / syncategorema | — | 非范畴词（亦作“助范畴词”） | peter-spain | 中世纪逻辑通行译法（与范畴词相对；复数 Syncategoreumata 作书名《助范畴词》）；凭证 2026-11-09；形近键 syncategorematic word 并入（2026-11-25；旧键首现 richard-sophister，译形“非范畴词”取语料多数） | 2026-11-09 |
 | syncategorematica / synsemantica | syncategorematica / synsemantica | 非范畴词／伴语义词（保留拉丁，首现括注） | reism | 沿用本册 syncategorematic word=非范畴词；synsemantica 按构词括注 | 2026-11-04 |
 | Syncategoreumata | — | 《助范畴词》 | peter-spain | 书名沿用术语派生形；凭证 2026-11-09 | 2026-11-09 |
 | synchronic | — | 共时的 | cancer | 学界通行（形而上学与因果理论）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
@@ -8369,7 +8363,6 @@
 | truth definition / truth definitions | — | 真之定义（亦作“真理定义”） | tarski-truth；语料回收（词汇表并网） | 逻辑学通行；2026-11-13 重复行合并（旧键 `truth definitions`）；2026-11-14 联网复核：当代逻辑学/分析哲学文献转以“真之定义”为通行（陈晓平《真之收缩论与真之膨胀论》；塔斯基 1944 通译《真之语义学概念与语义学基础》；与“真之理论”“真谓词”系连）；2026-11-15 用户裁定按国内通行定名，主译改“真之定义”，SUMMARY 两处互见同步，旧形降为亦作 | 2026-11-15 |
 | truth function | — | 真值函数 | 语料回收（specs/050 候选池） | 条目语境研判（逻辑通行真值函数；审定“真假值函数”非通行形）；审定名词库（termonline-all·数学·数理逻辑·数学基础·模型论，2026-11-18 JWT 直连凭证，审定作“真假值函数”） | 2026-11-19 |
 | truth in a model | — | 模型中的真 | logical-consequence | 模型论通行译法；凭证 2026-11-09 | 2026-11-09 |
-| truth maker | — | 真值制造者 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | truth predicate | — | 真谓词 | logic-substructural | 真理论通行译法；凭证 2026-11-10 | 2026-11-09 |
 | truth set | — | 真值集 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | truth value / truth values | — | 真值（亦作“真假值”） | logic-relevance；语料回收；语料回收（词汇表并网） | 审定名词库（termonline-all·数学·数理逻辑；审定 truth value=真假值、truth=真值 并立，2026-11-08 浏览器通道凭证；主译从逻辑学通行形，审定自身真值表=truth-table 并存）；2026-11-09 合并同键变体（来源列并双 slug）；2026-11-13 重复行合并（旧键 `truth values`） | 2026-11-13 |
@@ -8379,7 +8372,7 @@
 | truth-determination | — | 真理判定 | 首现（simon-faversham） | 本库行文（真值如何被决定）；凭证 2026-11-08 | 2026-11-08 |
 | truth-functional | — | 真值函项的 | necessary-sufficient | 逻辑学通行；凭证 2026-11-08 | 2026-11-08 |
 | truth-functionality | — | 真值函项性 | logic-fuzzy | 逻辑学通行译法；凭证 2026-11-09 | 2026-11-09 |
-| truth-maker | — | 使真者（亦作“真值制造者”） | reinach；首现（truth-coherence）；首现（simon-faversham） | 学界通行（truthmaker 另一形体，正文照源作 truth-maker；与 truthmaker theory 真值制造理论 同族）；simon-faversham 等篇用“真理制造者”，待三校对齐；凭证 2026-11-07；2026-11-09 合并同键变体（来源列并双 slug）；FLAG 裁定 2026-11-21：使真者系中文形而上学通行定名（truthmakers 行已作使真者），合键后统一；旧键“truthmakers”并入（2026-11-21 FLAG 裁定；旧键首现：语料回收（词汇表并网）） | 2026-11-21 |
+| truth-maker / truth maker | — | 使真者（亦作“真值制造者”） | reinach；首现（truth-coherence）；首现（simon-faversham） | 学界通行（truthmaker 另一形体，正文照源作 truth-maker；与 truthmaker theory 真值制造理论 同族）；simon-faversham 等篇用“真理制造者”，待三校对齐；凭证 2026-11-07；2026-11-09 合并同键变体（来源列并双 slug）；FLAG 裁定 2026-11-21：使真者系中文形而上学通行定名（truthmakers 行已作使真者），合键后统一；旧键“truthmakers”并入（2026-11-21 FLAG 裁定；旧键首现：语料回收（词汇表并网））；异形键 truth maker 并入（2026-11-25；旧键首现 语料回收） | 2026-11-21 |
 | truth-tracking properties | — | 求真性质（亦作“追踪真理”） | belief-merging | 直译（Hartmann et al. 语境；知识论亦作追踪真理）；凭证 2026-11-10 | 2026-11-10 |
 | Truthlikeness | — | 似真性 | 语料回收（词汇表并网） | 波普尔 verisimilitude，中译亦作“逼真性”；词汇表并网（ADR-0036）；删亦作“逼真性”（与他行主译撞形，2026-11-21 撞形处置） | 2026-11-21 |
 | truthmaker theory | — | 使真者理论 | necessary-sufficient | 与 truth-maker 真值制造者（truth-coherence 既有行）同族；凭证 2026-11-08；FLAG 裁定 2026-11-21：随 truth-maker＝使真者统一 | 2026-11-21 |
