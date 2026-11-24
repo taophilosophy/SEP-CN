@@ -586,3 +586,10 @@
 * 结果：6 行获审定硬凭证（absolutism、action at a distance、algebraic semantics、alternating Turing machine、anaphora、anorexia nervosa）；4 行记不改理由（ad hoc 下位、agreeableness 对照库、antecedent/consequent 异义、accuracy 异域）；40 行确认审定无对口收录。无译法变更。
 * 凭证：`results/termonline-b1-2026-11-24.md`＋`.tsv`；工具 `bin/term_evidence_batch.py`、`bin/term_evidence_batch1_patch.py`。
 * 落册：术语表 8,262 守恒；`check_all` 17 项全绿。下批 100 行。
+
+## 2026-11-24：人名第三十二批（中文源补证 3 人）
+
+* 取中译本/期刊署名定名：Herman Cappelen → 赫尔曼·卡珀朗（《语义最小论与语用多元论》2015；异形“开普兰”入别名）；Ernest Lepore → 厄尼·莱波雷（2015／人大 2017 两书；异形“利珀尔”“勒坡”入别名）；Justin Tiwald → 贾斯汀·提沃尔德（《学术月刊》2013-11 梁涛、匡钊译文署名）。
+* 查无汉名：Lawrence Barsalou（中文心理学文献径用原文）。
+* 凭证：`results/people-cnweb-2026-11-24-b32.md`；生成器 `bin/make_rowspec_people32.py`。
+* 落册：定点改写 3 行；`check_all` 17 项全绿。
