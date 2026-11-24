@@ -137,6 +137,7 @@ _GREEK_FORM = None  # 按件希腊字形态："em" 表示 <em>&alpha;</em> 而�
 _MATH_FORMS = None  # 按件显示公式形态账（文档序 "br"／"naked"）
 _MATH_DOLLARS = None  # 按件行内公式美元源形账（[[体内指纹, "db…"]]，消费式）
 _MATH_IDX = [0]     # 显示公式游标（reassemble_article 重置）
+_ITAL_NAMES = []    # 文档序预排的斜体希腊 (字形, 宏名)，哨兵 \x15k\x15 索引
 _BQ = None          # 按件引块形态账（0＝首子 <p>/<table>，1＝裸装文字），文档序
 _BQ_IDX = [0]       # 引块游标
 _PUBINFO_DONE = [False]  # pubinfo 合成层只发一次（行位不设限：whitehead 判例）
@@ -832,6 +833,15 @@ def link_misses():
 def _em(inner):
     """孤立希腊斜体回写 \\(\\alpha\\)（ADR-0049 逆映射，反斜杠必须有——C 侧
     fullmatch r'\\\\([A-Za-z]+)' 识别的是带杠命令名）；其余内容包 <em>。"""
+    m0 = re.fullmatch("\x15(\\d+)\x15", inner)
+    if m0:
+        # 文档序预排哨兵（_plan_ital_greek）：名字已按全文档序定位
+        k = int(m0.group(1))
+        if k < len(_ITAL_NAMES):
+            glyph, name = _ITAL_NAMES[k]
+            if _GREEK_FORM == "em":
+                return "<%s>%s</%s>" % (_ITAL, glyph, _ITAL)
+            return r"\(\%s\)" % name
     m = re.fullmatch(r"([A-Za-z\u0370-\u03FF]+)", inner)
     if m and m.group(0) in GREEK_REV and m.group(0) not in GREEK_C_DEFER:
         if _GREEK_FORM == "em":
@@ -839,6 +849,105 @@ def _em(inner):
         name = _greek_next(m.group(0))
         return r"\(\%s\)" % name
     return "<%s>%s</%s>" % (_ITAL, inner, _ITAL)
+
+
+def _greek_cp(tok):
+    """宏名或字形 → 账内码位（GREEK_UNI 的 phi/varphi 同形取 φ）。"""
+    if tok in GREEK_UNI:
+        return GREEK_UNI[tok]
+    if tok in GREEK_REV:
+        return tok
+    return None
+
+
+def _plan_ital_greek(md, greek):
+    """文档序预排斜体希腊宏名 → (md′, [(字形, 宏名)…])。
+
+    C 把 H0 的孤立希腊公式（`\\(\\phi\\)`）转成 `*φ*` 斜体，md 只剩字形；账
+    `greek` 记的是 **H0 全文档宏出现序**（数学段与斜体混排）。R 原按“斜体出
+    现序”从账首顺取，凡与数学段交错即错位（ramsey 判例：第 8 处该 varphi
+    取了 phi）。此处按文档序数：数学段内每次宏/字形占一位，斜体字形取其文
+    档序号的名字，并把斜体改写成 `\\x15<序号>\\x15` 哨兵——位置信息随文本
+    走，旁路（题注/表格）漏处理也不会让后续错位。围栏代码与反引号段跳过
+    （R 先占位保护，其中的 `$` 与希腊字不入账）。"""
+    if not greek:
+        return md, []
+    cnt = {}
+    names = []
+    out = []
+    i, n = 0, len(md)
+    math_re = re.compile(r"\\phi(?![A-Za-z])|\\varphi|[\u03c6\u03d5]")
+
+    def take(cp):
+        k = cnt.get(cp, 0)
+        cnt[cp] = k + 1
+        return k
+
+    while i < n:
+        c = md[i]
+        if md.startswith("```", i):
+            j = md.find("```", i + 3)
+            j = n if j < 0 else j + 3
+            out.append(md[i:j])
+            i = j
+            continue
+        if c == "`":
+            m = re.match(r"`+", md[i:])
+            run = m.group(0)
+            j = md.find(run, i + len(run))
+            j = n if j < 0 else j + len(run)
+            out.append(md[i:j])
+            i = j
+            continue
+        if c == "\\" and i + 1 < n:
+            out.append(md[i:i + 2])
+            i += 2
+            continue
+        if c == "$":
+            if md.startswith("$$", i):
+                j = _display_end(md, i + 2)
+                if j >= 0:
+                    for m in math_re.finditer(md[i + 2:j]):
+                        cp = _greek_cp(m.group(0).replace("\\", ""))
+                        if cp:
+                            take(cp)
+                    out.append(md[i:j + 2])
+                    i = j + 2
+                    continue
+            else:
+                j = _inline_end(md, i + 1)
+                if j >= 0:
+                    for m in math_re.finditer(md[i + 1:j]):
+                        cp = _greek_cp(m.group(0).replace("\\", ""))
+                        if cp:
+                            take(cp)
+                    out.append(md[i:j + 1])
+                    i = j + 1
+                    continue
+            out.append(c)
+            i += 1
+            continue
+        if c == "*":
+            m = re.match(r"\*([^*\n]+)\*", md[i:])
+            if m:
+                inner = m.group(1).strip()
+                if (len(inner) == 1 and inner in GREEK_REV
+                        and inner not in GREEK_C_DEFER):
+                    cp = _greek_cp(inner)
+                    seq = (greek or {}).get(cp) or []
+                    k = take(cp)
+                    nm = seq[k] if k < len(seq) else GREEK_REV.get(inner)
+                    if nm:
+                        names.append((inner, nm))
+                        out.append("*\x15%d\x15*" % (len(names) - 1))
+                        i += m.end()
+                        continue
+            out.append(c)
+            i += 1
+            continue
+        out.append(c)
+        i += 1
+    return "".join(out), names
 
 
 def _greek_next(cp):
@@ -1078,6 +1187,8 @@ def reassemble_article(md, authors, entity_map=None, links=None, greek=None,
     # 判例，H0 带 content="" 的 meta，`'*%s*' % ''` 即孤立 '**'）
     authors = [a for a in (authors or []) if a and a.strip()]
     global _ITAL, _GREEK_FORM, _NOTE_FORMS, _MATH_FORMS, _MATH_DOLLARS
+    global _ITAL_NAMES
+    md, _ITAL_NAMES = _plan_ital_greek(md, greek)
     global _BQ
     _BQ = bq or None
     _BQ_IDX[0] = 0
