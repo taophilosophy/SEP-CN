@@ -1,0 +1,143 @@
+{
+ "batch": "058-batch63-terms",
+ "date": "2026-11-25",
+ "scope": "术语批 11：著作名与古典语词（斜体片段审计 ≥8）；reductio ad absurdum 并入既有 reductio 行不重登",
+ "rows": [
+  {
+   "en": "Isagoge",
+   "orig": "Εἰσαγωγή",
+   "zh": "《导论》（波菲利）",
+   "table": "term",
+   "first_seen": "语料回收（斜体标题审计 2026-11-25）",
+   "basis": "希腊哲学史通行（波菲利《导论》，即 Isagoge；与《范畴篇》注疏传统同列）；凭证 2026-11-25"
+  },
+  {
+   "en": "The Presocratic Philosophers",
+   "orig": "—",
+   "zh": "《前苏格拉底哲学家》",
+   "table": "term",
+   "first_seen": "语料回收（斜体标题审计 2026-11-25）",
+   "basis": "哲学史通行（Kirk–Raven–Schofield 文集；语料 13 次）；凭证 2026-11-25"
+  },
+  {
+   "en": "Essays on Actions and Events",
+   "orig": "—",
+   "zh": "《行动与事件论文集》",
+   "table": "term",
+   "first_seen": "语料回收（斜体标题审计 2026-11-25）",
+   "basis": "戴维森研究通行（Davidson 1980 文集；语料 12 次）；凭证 2026-11-25"
+  },
+  {
+   "en": "The Philosophical Writings of Descartes",
+   "orig": "—",
+   "zh": "《笛卡尔哲学著作集》",
+   "table": "term",
+   "first_seen": "语料回收（斜体标题审计 2026-11-25）",
+   "basis": "笛卡尔研究通行（Cottingham 等英译本；语料 14 次）；凭证 2026-11-25"
+  },
+  {
+   "en": "doxa",
+   "orig": "δόξα",
+   "zh": "意见（希腊哲学；与 episteme 知识对举）",
+   "table": "term",
+   "first_seen": "语料回收（斜体标题审计 2026-11-25）",
+   "basis": "希腊哲学通行（巴门尼德—柏拉图认识论；语料 doxai 抬头）；凭证 2026-11-25"
+  },
+  {
+   "en": "intentio",
+   "orig": "intentio",
+   "zh": "意向（经院哲学）",
+   "table": "term",
+   "first_seen": "语料回收（斜体标题审计 2026-11-25）",
+   "basis": "中世纪语言哲学通行（与 intentio aucta 等复合形分列）；凭证 2026-11-25"
+  },
+  {
+   "en": "ens realissimum",
+   "orig": "ens realissimum",
+   "zh": "最实在的存在者",
+   "table": "term",
+   "first_seen": "语料回收（斜体标题审计 2026-11-25）",
+   "basis": "本体论论证通行（莱布尼茨—康德语境；语料 26 次）；凭证 2026-11-25"
+  },
+  {
+   "en": "pietas",
+   "orig": "pietas",
+   "zh": "虔敬",
+   "table": "term",
+   "first_seen": "语料回收（斜体标题审计 2026-11-25）",
+   "basis": "古典与宗教哲学通行（西塞罗 pietas；语料 11 次）；凭证 2026-11-25"
+  },
+  {
+   "en": "per se",
+   "orig": "per se",
+   "zh": "就其自身（亦作“自身”）",
+   "table": "term",
+   "first_seen": "语料回收（斜体标题审计 2026-11-25）",
+   "basis": "经院—分析哲学通行（与 per accidens 偶然 对举）；凭证 2026-11-25"
+  },
+  {
+   "en": "ipso facto",
+   "orig": "ipso facto",
+   "zh": "凭其事实本身（亦作“就此而言”）",
+   "table": "term",
+   "first_seen": "语料回收（斜体标题审计 2026-11-25）",
+   "basis": "法学与经院哲学通行；凭证 2026-11-25"
+  },
+  {
+   "en": "ad infinitum",
+   "orig": "ad infinitum",
+   "zh": "至无穷（无穷倒退语境）",
+   "table": "term",
+   "first_seen": "语料回收（斜体标题审计 2026-11-25）",
+   "basis": "哲学通行（无限倒退论证）；凭证 2026-11-25"
+  },
+  {
+   "en": "mutatis mutandis",
+   "orig": "mutatis mutandis",
+   "zh": "略作必要改动",
+   "table": "term",
+   "first_seen": "语料回收（斜体标题审计 2026-11-25）",
+   "basis": "学术通行；凭证 2026-11-25"
+  },
+  {
+   "en": "de facto",
+   "orig": "de facto",
+   "zh": "事实上（与 de iure 法理上对举）",
+   "table": "term",
+   "first_seen": "语料回收（斜体标题审计 2026-11-25）",
+   "basis": "法学与政治哲学通行；凭证 2026-11-25"
+  },
+  {
+   "en": "locus classicus",
+   "orig": "locus classicus",
+   "zh": "经典出处",
+   "table": "term",
+   "first_seen": "语料回收（斜体标题审计 2026-11-25）",
+   "basis": "学术通行（语料 89 次）；凭证 2026-11-25"
+  },
+  {
+   "en": "magnum opus",
+   "orig": "magnum opus",
+   "zh": "代表作",
+   "table": "term",
+   "first_seen": "语料回收（斜体标题审计 2026-11-25）",
+   "basis": "学术通行（语料 136 次）；凭证 2026-11-25"
+  },
+  {
+   "en": "par excellence",
+   "orig": "par excellence",
+   "zh": "典范（地）",
+   "table": "term",
+   "first_seen": "语料回收（斜体标题审计 2026-11-25）",
+   "basis": "学术通行（语料 118 次）；凭证 2026-11-25"
+  },
+  {
+   "en": "tout court",
+   "orig": "tout court",
+   "zh": "全然（简单地说）",
+   "table": "term",
+   "first_seen": "语料回收（斜体标题审计 2026-11-25）",
+   "basis": "学术通行（语料 151 次）；凭证 2026-11-25"
+  }
+ ]
+}
