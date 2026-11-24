@@ -7876,7 +7876,7 @@
 | type exponentiation | — | 类型指数运算 | axiom-choice（补充材料） | 本词条译名 | 2026-11-13 |
 | type I error | — | 第一类错误 | risk | 学界惯例（统计推断通行；括注“假阳性”）；凭证 2026-11-09 | 2026-11-09 |
 | type II error | — | 第二类错误 | risk | 学界惯例（统计推断通行；括注“假阴性”）；凭证 2026-11-09 | 2026-11-09 |
-| Type Theory | — | 类型论 | 语料回收（lakatos 首译） | 逻辑学界通行译法；凭证 2026-11-06 | 2026-11-06 |
+| Type Theory | — | 类型论 | 语料回收（lakatos 首译） | 逻辑学界通行译法；凭证 2026-11-06；审定名词库（termonline-all·计算机科学技术名词 02.0959，2018）作“类型论”，与本行一致（2026-11-24 JWT 直连，凭证 termonline-b13-2026-11-24.tsv） | 2026-11-06 |
 | type-form | — | 类型形式 | penbygull | 构词直译（ Naturally apt to be present-in 的共相形态）；凭证 2026-11-09 | 2026-11-09 |
 | type-type reduction | — | 类型-类型还原 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | typed logic | — | 类型化逻辑 | dynamic-semantics | 学界通行；凭证 2026-11-12 | 2026-11-12 |
@@ -7904,7 +7904,7 @@
 | ultimism | — | 终极主义 | faith | 学界通行（Schellenberg 2009 术语）；凭证 2026-11-11 | 2026-11-11 |
 | Ultimum | — | 终极（Ultimum） | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
 | ultra-intuitionism | — | 超直觉主义 | 首现（intuitionism） | 本词条首译（Yessenin-Volpin）；凭证 2026-11-10 | 2026-11-10 |
-| ultrafilter | — | 超滤子 | 首现（boolalg-math） | 学界惯例（集合论/拓扑通行译名） | 2026-11-01 |
+| ultrafilter | — | 超滤子 | 首现（boolalg-math） | 学界惯例（集合论/拓扑通行译名）；审定名词库（termonline-all·数学名词 03.0231，1993）作“超滤子”，与本行一致（2026-11-24 JWT 直连，凭证 termonline-b13-2026-11-24.tsv） | 2026-11-01 |
 | ulūhiyya / ilāhiyya | ألوهية / إلهية | 神性 | ibn-taymiyya | 首译（伊本·泰米叶 tawḥīd 三分术语）；同形异义：伊斯兰神学“神性”（伊本·泰米叶术语），与 divine nature（基督教通用语）分属两传统，按条分立（2026-11-24 复核，凭证 term-dup-triage-2026-11-24.md） | 2026-11-12 |
 | umbrella view | — | 伞状观 | object 首译 | 自译裁定（Rettler & Bailey 对“万物皆对象”立场的定名；凭证 2026-11-07）；凭证 2026-11-07 | 2026-11-07 |
 | unalienable rights | — | 不可让与权利 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
@@ -7978,8 +7978,8 @@
 | Universal Natural History | — | 《宇宙发展史概论》 | 语料回收（specs/058 全库提取） | 权威译本（全增嘏译、王福山校（商务印书馆）；审定库命中“博物学传统”，无对口条目；审定库无对口条目，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | universal proposition | — | 全称命题 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·自然辩证法·科学哲学·一般科学哲学·意义标准，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | universal quantification | — | 全称量化 | 语料回收 | 学界惯例（逻辑学通行）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
-| universal quantifier | — | 全称量词 | dynamic-semantics | 逻辑学通行；凭证 2026-11-12 | 2026-11-12 |
-| universal relation | — | 普适关系 | spacetime-convensimul | 构词直译 | 2026-11-06 |
+| universal quantifier | — | 全称量词 | dynamic-semantics | 逻辑学通行；凭证 2026-11-12；审定名词库（termonline-all·数学名词 02.0057，1993）作“全称量词”，与本行一致（2026-11-24 JWT 直连，凭证 termonline-b13-2026-11-24.tsv） | 2026-11-12 |
+| universal relation | — | 普适关系 | spacetime-convensimul | 构词直译；审定名词库（termonline-all·计算机科学技术名词 07.0045，2018）作“泛关系”，为数据库义；本行“普适关系”语境不同，保留（凭证 termonline-b13-2026-11-24.tsv） | 2026-11-06 |
 | universal rights | — | 普遍权利 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | universal suspension | — | 普遍悬置 | 语料回收（arcesilaus） | B 档联网核查（2026-10-27）；008 战役复核 | 2026-10-27 |
 | universal time | — | 普适时间 | cosmology-30s 首译 | Milne 术语学界通行；凭证 2026-11-08 | 2026-11-08 |
@@ -8016,7 +8016,7 @@
 | Urtheilung | Urtheil 或 Urtheilung | 原初划分 | yorck 首译 | B 档：约克用语（Ur-teil 兼指原初判断与原初划分；作者英译 original division）；凭证 2026-11-11 | 2026-11-11 |
 | usage-based | — | 基于用法 | innateness-cognition | 学界通行（Tomasello 语言习得）；凭证 2026-11-12 | 2026-11-12 |
 | usury | — | 高利贷 | gregory-rimini | 经济思想史通行汉译；凭证 2026-11-10 | 2026-11-10 |
-| utilitarianism | — | 功利主义 | 首现（william-jevons） | 学界通行（伦理学标准译名） | 2026-11-07 |
+| utilitarianism | — | 功利主义 | 首现（william-jevons） | 学界通行（伦理学标准译名）；审定名词库（termonline-all·经济学名词 14.003，2020）作“功利主义”，与本行一致（2026-11-24 JWT 直连，凭证 termonline-b13-2026-11-24.tsv） | 2026-11-07 |
 | utility | — | 效用 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·经济学·微观经济学，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | utility function | — | 效用函数 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·经济学·微观经济学，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | utility maximization | — | 效用最大化 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·经济学·微观经济学，2026-11-18 JWT 直连凭证） | 2026-11-19 |
@@ -8046,8 +8046,8 @@
 | valence | — | 效价 | paradox-of-tragedy | 学界惯例（心理学情绪研究通行：正/负效价；与 bivalence 二值无关）；凭证 2026-11-10 | 2026-11-10 |
 | valid consent | — | 有效同意 | informed-consent | 学界惯例（与 invalid consent 无效同意对举） | 2026-11-12 |
 | Validation | — | 验证 | 语料回收（specs/050 候选池） | 条目语境研判（模拟哲学固定词（verification/validation 验证/确证对偶）；审定“验证”为食品管理义）；审定名词库（termonline-all·食品科学技术·食品安全·食品安全管理·过程控制，2026-11-18 JWT 直连凭证，审定作“验证”）；撞形改定 2026-11-21：审定验证；确证归 corroboration；撞形改定 2026-11-21：补注：仿真领域 verification／validation／accreditation＝校核／验证／确认 三分，本行取“验证”与国标用法一致；与 corroboration 确认、confirmation 确证、verification 证实 分形 | 2026-11-21 |
-| validity | — | 有效性 | logic-hybrid | 逻辑学通行；凭证 2026-11-09 | 2026-11-09 |
-| valuation | — | 赋值 | logic-fuzzy | 逻辑学通行译法；凭证 2026-11-09 | 2026-11-09 |
+| validity | — | 有效性 | logic-hybrid | 逻辑学通行；凭证 2026-11-09；审定名词库（termonline-all·物理学名词 01.0157，2019）作“有效性”，与本行一致（2026-11-24 JWT 直连，凭证 termonline-b13-2026-11-24.tsv） | 2026-11-09 |
+| valuation | — | 赋值 | logic-fuzzy | 逻辑学通行译法；凭证 2026-11-09；审定名词库（termonline-all·数学名词 02.0040，1993）作“赋值”，与本行一致（2026-11-24 JWT 直连，凭证 termonline-b13-2026-11-24.tsv） | 2026-11-09 |
 | valuation function | — | 估值函数 | s/social-procedures 首译 | 学界通行译法（社会选择理论通行）；凭证 2026-11-07 | 2026-11-07 |
 | value | — | 价值 | 语料回收（词汇表并网） | 学界惯例（词汇表并网迁移）；词汇表并网（ADR-0036）；审定库一致（termonline-all 凭证 2026-11-13）| 2026-11-13 |
 | value function | — | 价值函数 | jury-theorems | 学界惯例（经济学/决策论通行）；凭据 2026-11-02 | 2026-11-02 |
@@ -8099,7 +8099,7 @@
 | vicarious harm | — | 替代性伤害 | organ-donation | 学界惯例（Feinberg 伤害理论中译；凭证 2026-11-06） | 2026-11-06 |
 | vicious circle principle | — | 恶性循环原则 | 语料回收（specs/058 全库提取） | 审定名词库（termonline-all·自然辩证法，凭证 2026-11-23） | 2026-11-23 |
 | victors' justice | — | 胜利者正义 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
-| Vienna Circle | Wiener Kreis | 维也纳学派 | 首译（stebbing） | 学界通行汉译；凭证 2026-11-09 | 2026-11-09 |
+| Vienna Circle | Wiener Kreis | 维也纳学派 | 首译（stebbing） | 学界通行汉译；凭证 2026-11-09；审定名词库（termonline-all·自然辩证法名词 03.024，2024）作“维也纳学派”，与本行一致（2026-11-24 JWT 直连，凭证 termonline-b13-2026-11-24.tsv） | 2026-11-09 |
 | view from nowhere | — | 无源之见 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | vijñāna | विज्ञान | 识（佛教） | 语料回收 | 审定名词库（termonline-all·哲学，2026-10-31 浏览器通道凭证） | 2026-10-31 |
 | vijñānavāda | विज्ञानवाद | 唯识论 | yogacara 首译 | 学界通行（vijñāna 识＋vāda 论）；凭证 2026-11-11；原文列联网查证：Monier-Williams《梵英辞典》／Böhtlingk–Roth《大彼得堡梵语词典》“Vijñānavā（2026-11-14 查，凭证 orig-verify-2026-11-14-b6.tsv） | 2026-11-14 |
@@ -8131,7 +8131,7 @@
 | vis copulativa | vis copulativa | 连接力 | 首现（abelard） | 学界惯例（语言哲学与中世纪哲学文献通行译法）；termonline-standard 查无直接对应，凭证 2026-10-29 | 2026-10-29 |
 | vis inertiae | vis inertiae | 惰性力 | newton-philosophy | 牛顿力学史通行 | 2026-11-10 |
 | vis viva / living forces | vis viva | 活力（vis viva） | kant-science；newton | 莱布尼茨力学史通行；物理史通行（莱布尼茨学派守恒量）；凭证 2026-11-08；2026-11-15 合并同键行（specs/034）；2026-11-23 合并同日重复登记形（同概念异拼写：living forces） | 2026-11-08 |
-| viscosity | — | 黏滞性 | newton-principia | 流体力学通行；凭证 2026-11-11 | 2026-11-11 |
+| viscosity | — | 黏滞性 | newton-principia | 流体力学通行；凭证 2026-11-11；审定名词库（termonline-all·海峡两岸大气科学名词，2020）作“黏滞性”，与本行一致（2026-11-24 JWT 直连，凭证 termonline-b13-2026-11-24.tsv） | 2026-11-11 |
 | viśeṣa(胜论句义) | विशेष | 异（特殊／基本别异） | early-modern-india | 胜论句义传统译“异”（《胜宗十句义论》）；别义“基本别异”（原子个体化原理）随文括注；凭证 2026-11-10；键形归一 2026-11-21：全角括注／斜线改半角（键须为源语形）；旧键 viśeṣa（胜论句义） | 2026-11-21 |
 | viśeṣābhāva | विशेषाभाव | 特定非存在 | early-modern-india | 新正理否定语义译（specific absence；与通类非存在对举）；凭证 2026-11-10 | 2026-11-10 |
 | viśeṣaṇa | विशेषण | 能别（限定） | early-modern-india | 因明传统译名（qualifier；与所别对举）；凭证 2026-11-10；撞形豁免 2026-11-21：与 prakāra 同形异角色（能别方式／限定词），不合并 | 2026-11-21 |
@@ -8157,12 +8157,12 @@
 | vitaṇḍā | वितण्डा | 只破不立之辩 | jayaraasi | 正理派辩论分类通行译法（与 vāda 真辩相对） | 2026-11-07 |
 | void | — | 虚空 | crescas | 学界通行；凭证 2026-11-08；撞形豁免 2026-11-21：同形异语／同概念异形，按条目语境区分，不合并 | 2026-11-21 |
 | void space | — | 虚空空间 | nicole-oresme | 自然哲学通行（extracosmic void 宇宙之外虚空）；凭证 2026-11-08 | 2026-11-08 |
-| volatilization | — | 挥发 | locke-on-medicine | 化学史通行（volatize=使挥发） | 2026-11-05 |
+| volatilization | — | 挥发 | locke-on-medicine | 化学史通行（volatize=使挥发）；审定名词库（termonline-all·冶金学名词 06.0034，2019）作“挥发”，与本行一致（2026-11-24 JWT 直连，凭证 termonline-b13-2026-11-24.tsv） | 2026-11-05 |
 | volitional choice | — | 意愿选择 | bradley-moral 首译 | 学界通行译名（布拉德雷与英国观念论研究文献）；凭证 2026-11-08 | 2026-11-08 |
 | Volksgeist | Volksgeist | 民族精神 | august-rehberg 首译 | 历史主义研究通行；凭证 2026-11-08 | 2026-11-08 |
 | Volksseele | Volksseele | 民族灵魂 | ehrenfels | 德语词照录（高阶人格之例）；凭证 2026-11-13 | 2026-11-13 |
 | Vollkommenheit | — | 完善自身 | dilthey 首译 | 狄尔泰伦理学三动因之三（以社会认可的方式完善自身）；本词条括注原文；凭证 2026-11-11 | 2026-11-11 |
-| voltage clamp | — | 电压钳 | model-organisms 首译 | 电生理学通行译名；凭证 2026-11-09 | 2026-11-09 |
+| voltage clamp | — | 电压钳 | model-organisms 首译 | 电生理学通行译名；凭证 2026-11-09；审定名词库（termonline-all·生理学名词 02.395，2020）作“电压钳”，与本行一致（2026-11-24 JWT 直连，凭证 termonline-b13-2026-11-24.tsv） | 2026-11-09 |
 | voluntariness | — | 自愿性 | informed-consent | 学界通行（知情同意的三要素之一） | 2026-11-12 |
 | voluntarism | — | 意志主义 | 语料回收（全目录） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
 | voluntarist | — | 意志论者 | buridan 首译 | 学界通行译名（中世纪逻辑与哲学研究文献）；凭证 2026-11-08 | 2026-11-08 |
@@ -8170,7 +8170,7 @@
 | von Neumann entropy | — | 冯·诺依曼熵 | qt-entangle | 学界通行译名（量子信息文献）；凭证 2026-11-09 | 2026-11-09 |
 | Vor-Schein | — | 前现（先行照亮） | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
 | Vorstellung | Vorstellung | 表象（康德/叔本华） | 语料回收 | 学界惯例（德国古典哲学通行）；审定库无相关命中（凭证 2026-10-31）；审定库精确查无（凭证 2026-10-31）；撞形豁免 2026-11-21：德语 Vorstellung 与 phantasia 同概念异语，不合并 | 2026-11-21 |
-| vortex | — | 涡旋 | emilie-du-chatelet；newton-philosophy | 科学史通行（笛卡尔涡旋说） | 2026-11-10 |
+| vortex | — | 涡旋 | emilie-du-chatelet；newton-philosophy | 科学史通行（笛卡尔涡旋说）；审定名词库（termonline-all·物理学名词 02.0803，2019）作“涡旋”，与本行一致（2026-11-24 JWT 直连，凭证 termonline-b13-2026-11-24.tsv） | 2026-11-10 |
 | Voting | — | 投票 | 语料回收（词汇表并网） | 学界惯例（词汇表并网迁移）；词汇表并网（ADR-0036）；审定库无相关命中（termonline-all 凭证 2026-11-13）| 2026-11-13 |
 | voting semantics | — | 投票语义 | logic-fuzzy | Lawry 1998 术语直译；凭证 2026-11-09 | 2026-11-09 |
 | vox populi | vox populi | 人民之声（拉丁原词保留斜体） | s/sovereignty 首译 | 学界惯例（拉丁语通行）；凭证 2026-11-07 | 2026-11-07 |
@@ -8226,14 +8226,14 @@
 | weighing relation | — | 权衡关系 | logic-preference | Dietrich-List 研究通行 | 2026-11-05 |
 | weight of evidence | — | 证据权重 | 首现（imprecise-probabilities） | 学界惯例（确证理论通行）；凭证 2026-11-08 | 2026-11-08 |
 | WEIRD | — | WEIRD 样本 | 首现（experimental-aesthetics） | 学界通行（Henrich et al. 2010：Western/Educated/Industrialized/Rich/Democratic） | 2026-11-09 |
-| welfare economics | — | 福利经济学 | ramsey-economics | 经济学通行；凭证 2026-11-11 | 2026-11-11 |
+| welfare economics | — | 福利经济学 | ramsey-economics | 经济学通行；凭证 2026-11-11；审定名词库（termonline-all·经济学名词 03.198，2020）作“福利经济学”，与本行一致（2026-11-24 JWT 直连，凭证 termonline-b13-2026-11-24.tsv） | 2026-11-11 |
 | welfare rights | — | 福利权利 | organ-donation | 学界惯例（政治哲学通行；凭证 2026-11-06） | 2026-11-06 |
 | welfare state game | — | 福利国家博弈 | justice-moral-psych | Schlösser 等 2018 实验范式名；凭证 2026-11-10 | 2026-11-10 |
 | welfarism | — | 福利主义 | disability | 学界通行译名（此处指残疾的福利主义定义进路）；凭证 2026-11-09 | 2026-11-09 |
 | welfarist | — | 福利主义的 | repugnant-conclusion | 学界惯例；凭证 2026-11-11 | 2026-11-11 |
 | well-being | — | 福祉 | disability | 学界通行（发布词汇表 Well-Being｜福祉 已收，三表一致）；凭证 2026-11-09 | 2026-11-09 |
 | well-formed | — | 合式的 | schema | 学界惯例（数理逻辑通行：well-formed formula 合式公式） | 2026-11-06 |
-| well-founded | — | 良基 | tarski-truth | 集合论与逻辑学通行 | 2026-11-09 |
+| well-founded | — | 良基 | tarski-truth | 集合论与逻辑学通行；审定名词库（termonline-all·计算机科学技术名词 08.0061，2018）作“良基语义”，本行“良基”为其核心词（凭证 termonline-b13-2026-11-24.tsv） | 2026-11-09 |
 | well-ordering principle | — | 良序原则 | 语料回收（specs/058 全库提取） | 审定名词库（termonline-all·数学，凭证 2026-11-23） | 2026-11-23 |
 | well-ordering theorem | — | 良序定理 | 语料回收（mathematics-inconsistent 首译） | 数学界通行译法；凭证 2026-11-06 | 2026-11-06 |
 | wellformed formula | — | 合式公式 | quine-nf | 数理逻辑通行译名；凭证 2026-11-09 | 2026-11-09 |
@@ -8264,7 +8264,7 @@
 | Wissenschaftslehre | Wissenschaftslehre | 知识学 | karl-reinhold | 主会话直译收口 432e0a76；凭证 2026-11-04 | 2026-11-04 |
 | Wistar Institute | — | 威斯塔研究所 | model-organisms 首译 | 机构通行译名（费城）；凭证 2026-11-09 | 2026-11-09 |
 | wit | — | 机智 | 首现（schlegel） | 学界惯例（施莱格尔研究通行；与 Witz 对应）；凭证 2026-11-07 | 2026-11-07 |
-| witchcraft | — | 巫术 | gianfrancesco-pico | 学界通行；与 sorcery 同译，源文二词并用 | 2026-11-09 |
+| witchcraft | — | 巫术 | gianfrancesco-pico | 学界通行；与 sorcery 同译，源文二词并用；审定名词库（termonline-all·民族学与文化学名词 4.0298，2025）作“巫术崇拜”，本行“巫术”为核心词（凭证 termonline-b13-2026-11-24.tsv） | 2026-11-09 |
 | Wittgensteinian Fideism | — | 维特根斯坦式信仰主义 | 语料回收（标题词） | 学界惯例（宗教哲学（Kai Nielsen/D.Z. Phillips 论辩））；凭证 2026-11-01 | 2026-11-01 |
 | Wohlwollen | — | 仁爱 | dilthey 首译 | 狄尔泰伦理学三动因之一（康德传统亦译“善意”，此处从正文）；本词条括注原文；凭证 2026-11-11；撞形豁免 2026-11-21：同形异语／同概念异形，按条目语境区分，不合并 | 2026-11-21 |
 | Wolffianism | — | 沃尔夫主义 | 语料回收（academic-freedom） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29） | 2026-10-27 |
@@ -8278,13 +8278,13 @@
 | words of second imposition | voces secundae impositionis | 第二重命名词 | 首现（simon-faversham） | 与 first imposition 对举；凭证 2026-11-08 | 2026-11-08 |
 | Work of Ninety Days / Opus nonaginta dierum | Opus nonaginta dierum | 《九十日之作》（首现括注拉丁名） | ockham | 中文文献未见定译；存见译例《九十日之作》；Kilcullen 英译作 Work of Ninety Days；凭证 2026-11-07 | 2026-11-07 |
 | workers (social insects) | — | 职虫 | altruism-biological 首现 | 社会性昆虫中不育工者泛称（《自私的基因》中译本通行用语，统摄工蚁、工蜂、工白蚁）；凭证 2026-11-12 | 2026-11-12 |
-| working memory | — | 工作记忆 | moral-responsibility-empirical | 心理学通行 | 2026-11-07 |
+| working memory | — | 工作记忆 | moral-responsibility-empirical | 心理学通行；审定名词库（termonline-all·生物物理学名词 04.256，2018）作“工作记忆”，与本行一致（2026-11-24 JWT 直连，凭证 termonline-b13-2026-11-24.tsv） | 2026-11-07 |
 | workplace democracy | — | 工作场所民主 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | Works of Love | — | 《爱的作为》 | 语料回收（specs/058 全库提取） | 权威译本（京不特译，中国社会科学出版社 2014（克尔凯郭尔文集 7）；2026-11-24 联网核对，凭证 works-batch12-2026-11-24.md） | 2026-11-24 |
 | World 2/World 3 | — | 世界 2／世界 3 | 语料回收（lakatos 首译） | 波普尔三个世界学说通行译法；凭证 2026-11-06 | 2026-11-06 |
 | world citizen | — | 世界公民 | 首译（cosmopolitanism） | 学界通行（kosmopolitēs 世界公民，第欧根尼典）；凭证 2026-11-09 | 2026-11-09 |
 | world citizenship | — | 世界公民身份 | 首译（cosmopolitanism） | 学界通行（与 world citizen 世界公民同族，本条作制度/身份义）；凭证 2026-11-09 | 2026-11-09 |
-| world community | — | 世界共同体 | cosmopolitanism | 学界通行；凭证 2026-11-09 | 2026-11-09 |
+| world community | — | 世界共同体 | cosmopolitanism | 学界通行；凭证 2026-11-09；审定名词库（世界历史名词 01.0829，2012）作“国际社会”，本行“世界共同体”为字面译，保留（凭证 termonline-b13-2026-11-24.tsv） | 2026-11-09 |
 | world government | — | 世界政府 | cosmopolitanism | 学界通行（国际关系理论）；凭证 2026-11-09 | 2026-11-09 |
 | World Health Organization | — | 世界卫生组织 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·放射医学与防护·总论，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | world picture | Weltbild | 世界图景 | cosmology-30s 首现（epistemology-latin-america 维特根斯坦《论确定性》同条） | 学界通行（Weltbild 传统译法）；凭证 2026-11-08；2026-11-12 合并原“world-picture”重复行（同义同译，归一避免凭证文件名相撞） | 2026-11-12 |
@@ -8352,7 +8352,7 @@
 | yielding(虚空) | — | 让与 | democritus | 学界通行（虚空本性，与原子相互抵抗相对；r2 改定，初译“让开”）；键形归一 2026-11-21：全角括注／斜线改半角（键须为源语形）；旧键 yielding（虚空） | 2026-11-21 |
 | Yijing / I Ching | 易經 | 《周易》（亦作“《易经》”） | 术语会话种子（ADR-0011）；han-dynasty | 学界通行学名；2026-11-20 同概念合并（旧键 `Yijing` 并入） | 2026-10-28 |
 | yin | 陰 | 阴 | 语料回收（标题词） | 学界惯例（语料回收（正文斜体术语，specs/011 主题词汇解析））；凭证 2026-11-04 | 2026-11-04 |
-| yin-yang | 陰陽 | 阴阳 | chinese-phil-science | 学界通行；凭证 2026-11-07 | 2026-11-07 |
+| yin-yang | 陰陽 | 阴阳 | chinese-phil-science | 学界通行；凭证 2026-11-07；审定名词库（termonline-all·中医药学名词 03.009，2004）作“阴阳”，与本行一致（2026-11-24 JWT 直连，凭证 termonline-b13-2026-11-24.tsv） | 2026-11-07 |
 | Yishuv | — | 伊舒夫（巴勒斯坦犹太社群） | s/scholem 首译 | 犹太研究通行音译；凭证 2026-11-08 | 2026-11-08 |
 | Yogācāra | योगाचार | 瑜伽行派 | gelukpa | 佛学界通行译名 | 2026-11-01 |
 | Yogācārabhūmi | योगाचारभूमि | 《瑜伽师地论》 | yogacara 首译 | 汉文古译（玄奘译）；文献译名；凭证 2026-11-11；原文列联网查证：Edgerton《佛教混合梵语辞典》 lnum 12509（p. 448,2），csl-devanagari 官（2026-11-14 查，凭证 orig-verify-2026-11-14-b7.tsv） | 2026-11-14 |
@@ -8380,7 +8380,7 @@
 | zhuzai | 主宰 | 主宰（self-mastery/master will 主宰） | zhu-xi 首译 | 学界通行（朱子语类语汇；汉字回译）；凭证 2026-11-15 | 2026-11-15 |
 | Zhuzi wenji | 《朱子文集》 | 《朱子文集》 | zhu-xi 首译 | 书名体例（通行定名）；凭证 2026-11-15 | 2026-11-15 |
 | Zhuzi yulei | 《朱子语类》 | 《朱子语类》 | zhu-xi 首译 | 书名体例（通行定名）；凭证 2026-11-15 | 2026-11-15 |
-| Zika virus | — | 寨卡病毒 | 首译（stem-cells） | 学界惯例（医学通行）；凭证 2026-11-09 | 2026-11-09 |
+| Zika virus | — | 寨卡病毒 | 首译（stem-cells） | 学界惯例（医学通行）；凭证 2026-11-09；审定名词库（termonline-all·感染病学名词 03.0080，2019）作“寨卡病毒”，与本行一致（2026-11-24 JWT 直连，凭证 termonline-b13-2026-11-24.tsv） | 2026-11-09 |
 | Zimzum | — | 齐姆祖姆（神性收缩） | s/scholem 首译 | 犹太神秘主义研究通行音译；凭证 2026-11-08 | 2026-11-08 |
 | Zionism | — | 锡安主义（犹太复国主义） | s/scholem 首译 | 学界通行译名（亦作“犹太复国主义”；历史语境用“锡安主义”；凭证 2026-11-08 | 2026-11-08 |
 | ziran | 自然 | 自然（self-so） | dai-zhen | 戴震哲学术语：自然而然者，与“必然”对举（英 self-so）；凭证 2026-11-07；撞形豁免 2026-11-21：同形异语／同概念异形，按条目语境区分，不合并 | 2026-11-21 |
