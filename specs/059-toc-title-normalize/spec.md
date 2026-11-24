@@ -78,4 +78,4 @@
 
 ## 9 外部红项（非本卡引入，不抢修）
 
-实施完成时 `check_all` 唯一红项为「SUMMARY 结构审计」的 `H1 mismatch: v/vives.md`（SUMMARY 名“比韦斯”／H1 名“维夫斯”），系并行会话 5700c2b82（specs/058 vives 登记批）的提交面；`journal/v/vives.ndjson` 当时仍在途 M，判定其正在该文件线上作业，按 rules/06 竞态纪律不抢修、不抢提交，报用户知悉。本卡 26 处改动已随 5700c2b82 收编入库（`git show HEAD:SUMMARY.md` 特征串 4/4、`git show HEAD:mu-lu-s.md` 特征串 2/2）。
+实施完成时 `check_all` 唯一红项为「SUMMARY 结构审计」的 `H1 mismatch: v/vives.md`（SUMMARY 名“比韦斯”／H1 名“维夫斯”），系并行会话 5700c2b82（specs/058 vives 登记批）的提交面；`journal/v/vives.ndjson` 与 `v/vives.md` 当时在途 M，判定其正在该文件线上作业，按 rules/06 竞态纪律不抢修、不抢提交，报用户知悉。**终态**：并行会话随即把 H1 同步为“比韦斯”，`check_all` 二次复跑 17 项失败 0、全绿（首次红属在途半成品瞬态，符合“并行在途门禁假失败先复跑定性”判例）。本卡 26 处改动已随 5700c2b82 收编入库（`git show HEAD:SUMMARY.md` 特征串 4/4、`git show HEAD:mu-lu-s.md` 特征串 2/2）。
