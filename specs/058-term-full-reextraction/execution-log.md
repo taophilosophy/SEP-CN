@@ -539,3 +539,10 @@
 * 意义：此前逻辑学书目作者整批“无通行汉名”，本批证明相关逻辑与情境语义学一脉已有可靠汉名来源（专业译著与逻辑学教授科普文）。
 * 凭证：`results/people-cnweb-2026-11-24-b30.md`；生成器 `bin/make_rowspec_people30.py`。
 * 落册：定点改写 6 行；`registry_azsort` 守恒；`check_all` 17 项全绿。
+
+## 2026-11-24：人名第三十一批（中文源补证 2 人）
+
+* 取中文源定名：Wilhelm Ackermann → 阿克曼（《数理逻辑基础》莫绍揆译，科学出版社 1958；北大逻辑学科史）；C. A. R. Hoare → 托尼·霍尔（1969 年论文中文译介；通行「霍尔逻辑」「霍尔三元组」，本条主证为通行术语，权重已注明）。
+* 查无汉名：Girard（线性逻辑中文文献径用原文）、Abramsky（博弈语义同）、Baltag／van Ditmarsch（刘奋荣《世界哲学》2010-3 参考书目用原文）。
+* 凭证：`results/people-cnweb-2026-11-24-b31.md`；生成器 `bin/make_rowspec_people31.py`。
+* 落册：定点改写 2 行；`registry_azsort` 守恒；`check_all` 17 项全绿。

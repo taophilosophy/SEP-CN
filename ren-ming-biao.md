@@ -40,7 +40,7 @@
 | Achilles | Ἀχιλλεύς | 阿基里斯（亦作“阿喀琉斯”） | 非历史人物（荷马史诗英雄） | 不适用 | diodorus-cronus、ancient-soul | 学界通行；原文 Ἀχιλλεύς 与籍属/生卒列自 ancient-soul 行并入 | 2026-11-09 |
 | Achillini, Alessandro | — | 亚历山德罗·阿基利尼 | 意大利（博洛尼亚） | 1463–1512 | natphil-ren | 本词条首译（解剖学家、亚里士多德派；源文生卒照录）；凭证 2026-11-10 | 2026-11-10 |
 | Achinstein, Peter | — | 彼得·阿钦斯坦 | 美国 | 1935– | scientific-explanation-20th | 学界通行（科学哲学家，语用解释论）；凭证 2026-11-10 | 2026-11-10 |
-| Ackermann, Wilhelm | — | Wilhelm Ackermann | 德国 | 1896–1962 | logic-substructural | 无通行汉名，保留英文原名；凭证 2026-11-10；籍属/生卒联网查证：GND 规范标目 gnd 116006080，生 1896-03-29、卒 1962-12-24，地理区码 Deutschland，职业 Mathematiker，注记“… entdeckte die … Ackermannfunktion”（2026-11-14 查，凭证 verify-2026-11-14-alt.tsv） | 2026-11-14 |
+| Ackermann, Wilhelm | — | 阿克曼 | 德国 | 1896–1962 | logic-substructural | 无通行汉名，保留英文原名；凭证 2026-11-10；籍属/生卒联网查证：GND 规范标目 gnd 116006080，生 1896-03-29、卒 1962-12-24，地理区码 Deutschland，职业 Mathematiker，注记“… entdeckte die … Ackermannfunktion”（2026-11-14 查，凭证 verify-2026-11-14-alt.tsv）；中文定名补证：中译本《数理逻辑基础》（希尔柏脱、阿克曼著，莫绍揆译，科学出版社 1958，统一书号 13031-750）作者署名“阿克曼”；北京大学哲学系逻辑学科史（2024-10-20）作“希尔伯特和阿克曼的《理论逻辑基础》”（2026-11-24 查，凭证 people-cnweb-2026-11-24-b31.md） | 2026-11-14 |
 | Aczel, Peter | — | Aczel | 英国 | 1941– | quine-nf | 无通行汉名，保留英文原名；凭证 2026-11-09 | 2026-11-09 |
 | Adam Elga | — | 亚当·埃尔加 | 美国 | — | 语料回收（全目录） | 学界通行译名；籍属/生卒联网查证（2026-11-24 查，凭证 people-cnweb-2026-11-24-b25.md）；中文通行译名（睡美人问题译介均作“亚当·埃尔加”）；生年未见权威著录，留白（2026-11-24 查，见 people-cnweb-2026-11-24-b25.md） | 2026-11-24 |
 | Adam Loughnane | — | Adam Loughnane | 爱尔兰 | 1978– | japanese-aesthetics | 现代学者无通行汉名，保留英文；籍属/生卒联网查证：GND 规范标目 gnd 1205765972（2026-11-13 查，凭证 verify-2026-11-13-gnd-a.tsv） | 2026-11-13 |
@@ -2022,7 +2022,7 @@
 | Hiż, Henryk | — | Henryk Hiż | 波兰 | 1917–2006 | lvov-warsaw | 无通行汉名，保留英文原名；凭证 2026-11-09；籍属/生卒联网查证：GND 规范标目 gnd 1023918617（2026-11-14 查，凭证 verify-2026-11-14-gnd-l.tsv） | 2026-11-14 |
 | Hjortland, Ole | — | Hjortland | 挪威 | 1982– | logical-consequence | 无通行汉名，保留英文原名；凭证 2026-11-09；籍属/生卒联网查证：GND 规范标目 gnd 1128665158（2026-11-14 查，凭证 verify-2026-11-14-gnd-l.tsv） | 2026-11-14 |
 | Ho, Hock Lai | — | 何福来 | 新加坡 | — | evidence-legal | 本人汉名（新加坡国立大学法学院；《证据法哲学》中国人民大学出版社 2021 中译本署名“何福来”）；凭证 2026-11-12 | 2026-11-12 |
-| Hoare, C. A. R. | — | C. A. R. Hoare | 英国／计算机科学 | 1934–2026 | logic-dynamic | 无通行汉名，保留英文原名（Hoare 演算提出者）；凭证 2026-11-10；籍属/生卒联网查证：GND 规范标目 gnd 119103265（2026-11-14 查，凭证 verify-2026-11-14-gnd-l.tsv） | 2026-11-14 |
+| Hoare, C. A. R. | 霍尔 | 托尼·霍尔 | 英国／计算机科学 | 1934–2026 | logic-dynamic | 无通行汉名，保留英文原名（Hoare 演算提出者）；凭证 2026-11-10；籍属/生卒联网查证：GND 规范标目 gnd 119103265（2026-11-14 查，凭证 verify-2026-11-14-gnd-l.tsv）；中文定名补证：其 1969 年论文中文译介（JOVANA Education 文献馆 hoare-1969）署名“C. A. R. 霍尔（托尼·霍尔）”；中文计算机科学文献通行“霍尔逻辑”“霍尔三元组”，与本条一致（2026-11-24 查，凭证 people-cnweb-2026-11-24-b31.md；本条以通行术语为主证，权重低于中译本署名类） | 2026-11-14 |
 | Hobbes, Thomas / Thomas Hobbes | — | 托马斯·霍布斯 | 英国 | 1588–1679 | descartes-works；语料回收（全目录） | 学界千年通行（《利维坦》作者）；2026-11-13 重复行合并（旧键 `Thomas Hobbes`）；籍属/生卒联网查证：GND 规范标目 gnd 118551698（2026-11-14 查，凭证 verify-2026-11-14-gnd-l.tsv） | 2026-11-14 |
 | Hodas, Joshua | — | Joshua Hodas | — | — | logic-linear | 无通行汉名，保留英文原名；凭证 2026-11-10 | 2026-11-09 |
 | Hodgson, Shadworth | — | 沙德沃思·霍奇森 | 英国 | 1838–1912 | epiphenomenalism | 学界通行汉译（正文另作“S. 霍奇森”）；凭证 2026-11-12 | 2026-11-12 |
