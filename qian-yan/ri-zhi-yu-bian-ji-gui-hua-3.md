@@ -162,3 +162,14 @@
 * **判据落地**：ADR-0078＋`rules/01`“条目标题体例”节＋README 标准清单增 GB/T 22466-2023、ISO 999:1996、《世界人名翻译大辞典》。
 * **研判结案**：L2378 左段 `Models in Science` 经 ADR-0024 判为合规存量（左侧写目标完整标题），同族 103 行维持不改；“建目录别名词条左侧英文”存量面（P11=484）不在本卡管辖。
 * **外部红项**：`check_all` 唯一红为并行会话 vives 批（5700c2b82）的 H1 不一致（比韦斯／维夫斯），`journal/v/vives.ndjson` 在途 M，判其在途不抢修；本卡 26 处已随该提交收编入库（特征串核验 4/4、2/2）。
+
+## 2026-11-25 六轴独立质量工序立项（ADR-0079，specs/060）
+
+* **裁定**：用户认定标点、语法、语域、引文、计量、逻辑六类均未独立实现，要求全部独立；四项裁定＝工序层独立、全量回炉、结构化人工判据、只禁未定型日源词；补裁＝目标态 r2_reviewed、现代著作也逐条查原文、方括号承载、术语级全部首现括注。批准立项至 r2_reviewed。
+* **状态机 v3**：`pipeline.json` 16 节点扩为 22，新增 q1_cite_check → q2_logic → q3_grammar → q4_register → q5_measure → q6_punct，接在 s2.5 与 S3 之间；`journal_lib` 加映射（ORDER 自动推导，零任务迁移）；`task_ops.advance` 挂 `_axis_gate`；首期 `gate_owner=false`（T1 升硬）。
+* **判据与工具**：六器 `cite_audit`／`logic_audit`／`grammar_audit`／`register_audit`／`measure_audit`／`punct_audit`＋共享库 `axis_lib`＋编排器 `qchain`；数据表 `units.json`、`ja-loanwords.json`、`register-lexicon.json`、`punct-rules.json`。全部“机检为筛、人审为判”，逻辑骨架只登记可判项。
+* **规则落地**：ADR-0079（四件套齐）；`rules/02` 标点判据归 q6；`rules/03` 和制汉语三分类；`rules/04` 六工序位次与五条顺序依赖；`rules/05/tools.md` 九行工具；`rules/07` 引文管理扩全语种；`rules/README` 标准清单增 ISO 5060:2024／690:2021／24229／80000-1:2022／SI 9／ISO 24617-8、-11、-12；`axioms.json` P29–P33；`journal-schema` 节点计数同步 22。
+* **摸底**：全库 2417 个 yuanwen 文件，成句引文 34450 片段，确定非英文 314（0.91%，拉丁 161／德 79／希腊 34／法 20／汉 17）；术语级片段约 1.27 万。引文规范由“一律补原文”改为“判原著语种与原文可得性，verifiable 补、unavailable 不代造”。
+* **公理化验证**：`specs/060/bin/verify_six_axis.py` 四组计算——A 结构公理（单链、q 位次、判据唯一、强制集、三处同步、回退合法，19 项违例 0）；B 覆盖完备（CY/T 266 29/29：机检 23、人审 4、豁免 2，缺口 0；MQM 7/7；判据 73 条）；C 一致性（多器同位置 100% 落入预登记分工对，待复核 0；幂等 7 指标全过）；D 假设登记（H-1…H-5 不可判项显式列出，不伪证）。定理 T1–T7 与五条顺序依赖反例见 `specs/060/verification.md`。
+* **验证**：`unittest discover` 590 项全绿（新增 `test_six_axis.py` 12 项，`test_task_ops.py` 适配 q 链）；`check_stages` 13 项全绿；`check_doc_size`／`check_junk`／`spec_index` 绿。
+* **遗留**：T0 全库六轴摸底、试金石 3 件、A–Z 存量回炉（T1/T2）；语域样章与逻辑骨架金样本待用户裁定后入库。

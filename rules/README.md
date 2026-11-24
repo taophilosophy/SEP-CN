@@ -33,7 +33,7 @@
 | ---- | ---- | ---- | ---- |
 | 宪法 | `.specify/memory/constitution.md` | 最高原则 | 治理会话 |
 | 约束性规则 | `rules/01-09` + `rules/adr/`（决策记录）；单文件超 300 行/30KB 按主题拆为 `rules/0X/` 目录 | 可执行条文 + ADR 决策史 | 治理会话（修订走 ADR） |
-| 判据机读件 | `rules/pipeline.json` | 16 作业节点、四类型、三档降级、`criteria_owner`——节点与判据唯一事实源（ADR-0068 W2 转正） | 治理会话（修订走 ADR） |
+| 判据机读件 | `rules/pipeline.json` | 22 作业节点（含 q1–q6 六轴，ADR-0079）、四类型、三档降级、`criteria_owner`——节点与判据唯一事实源（ADR-0068 W2 转正） | 治理会话（修订走 ADR） |
 | 公理登记 | `rules/axioms.json` | P1–P28 公理 + 定理 + 退役映射 + 谓词映射——公理唯一登记册（整合 041/042/043 三套，ADR-0068 W6 转正） | 治理会话（修订走 ADR） |
 | 事件模型 | `rules/journal-schema.json` | 六类事件、四节点类型、三档降级语义，`nodes_ref` 指 `pipeline.json`——事件日志模型唯一源（ADR-0068 W6 转正） | 治理会话（修订走 ADR） |
 | 参考方法论 | `rules/reference/`（[engineering-doctrine](reference/engineering-doctrine/README.md)：G0-G5 门禁、32 条总纲、知难行易（00b）、FR/NFR、交付清单） | 方法论基线，**不具约束力**，采纳进 rules/ 才生效 | 全体可读 |
@@ -65,6 +65,11 @@
 | 译文质量 | GB/T 19682-2005 | 现行 | [02](02-style.md) 数字与计量、[04](04-translation-workflow.md) 六道 |
 | 术语工作 | ISO 704:2022 / GB/T 10112-2019；ISO 1087:2019 | 现行 | [03](03-terminology.md) 登记流程 |
 | 术语交换 | ISO 30042:2019（TBX）；ISO 25964（叙词） | 现行 | Tier 3 可选（未立项） |
+| 翻译质量评估 | ISO 5060:2024（翻译产出的评估，错误类型与 MQM 一级维度对齐，七维含 Linguistic conventions／Style／Locale conventions） | 现行（2024-04） | [04](04-translation-workflow.md) 六轴独立（ADR-0079） |
+| 引文与参考文献（国际） | ISO 690:2021（第 4 版；原始语言与文字系统、关联信息 `[translit.: …]`／`[trans.: …]`） | 现行 | [07](07-academic-norms.md)、q1 引文判据 |
+| 转写系统代码 | ISO 24229（转写与转写系统代码清单，ISO 690:2021 引注） | 现行（条款落地前核对全名与版本） | [07](07-academic-norms.md) 引文转写登记 |
+| 量和单位 | ISO 80000-1:2022（第 2 版；7.1 量符号斜体、7.2 数字与小数点）；SI Brochure 第 9 版（2019，2026-06 修订 4.01） | 现行 | q5 计量判据（ADR-0079） |
+| 语义标注 | ISO 24617-8:2016（DR-core 篇章关系）、ISO 24617-11:2021（MQI）、ISO 24617-12:2025（QuantML 量化） | 现行 | q2 逻辑骨架与量词标注（ADR-0079） |
 | 日期时间 | ISO 8601-1:2019 / GB/T 7408.1-2023（等同采用，代替 2005 版） | 现行 | 任务 JSON 时间戳、tag 命名 |
 | 记录管理 | ISO 15489-1:2016 | 现行 | 宪法 II（四特性全对上） |
 | 文件管理（中文采标） | GB/T 26162-2021（信息与文献 文件管理，等同 ISO 15489-1:2016；代替 GB/T 26162.1-2010） | 现行（2022-07-01 实施）；ISO 15489-1 修订中（目标 2029），引用条款前重核 | [ADR-0076](adr/0076-英文侧审计产物三类目制.md)（baseline 三类目分类方案） |

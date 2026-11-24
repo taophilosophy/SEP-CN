@@ -4,6 +4,10 @@
 
 体例修改同样是任务：先确认要修哪类问题、以 `check_style.py` 0 issue 为验收，再逐处手动修改；禁止以“跑了格式化工具”代替判断（[08](08-intent-first.md)）。
 
+## 标点（判据归 q6，ADR-0079）
+
+本节下列标点体例为**条文描述**；机检判据自 ADR-0079 起归独立工序 `q6_punct_checked`（`tools/punct_audit.py`，GB/T 15834-2011 十七种标点逐种建判据，见 `specs/060-six-axis-quality-gates/checklists/q6-punct.md`）。`check_style.py` 自本裁定起只保留空格、加粗、HTML/AsciiDoc、斜体等非标点项；`check_quotes.py` 的直角引号总检与 `check_pairs` 的括号/省略号轴并入 q6。
+
 ## 引号
 
 * 正文必须使用中文弯引号：双引号 `“ ”`、单引号 `‘ ’`（外层双引号，引内层用单引号）。

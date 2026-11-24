@@ -33,6 +33,8 @@ class TestTaskOps(unittest.TestCase):
         task_ops._audit_gate = lambda zh_doc: None
         task_ops._term_gate = lambda zh_doc: None
         task_ops._source_gate = lambda slug: None
+        self.old_axis = task_ops._axis_gate
+        task_ops._axis_gate = lambda step, zh_doc: None
 
     def tearDown(self):
         task_ops.TASKS_DIR = self.old
@@ -42,7 +44,12 @@ class TestTaskOps(unittest.TestCase):
         task_ops._audit_gate = self.old_audit
         task_ops._term_gate = self.old_term
         task_ops._source_gate = self.old_src
+        task_ops._axis_gate = self.old_axis
         self._dir.cleanup()
+
+    def _qchain(self, slug, actor="t"):
+        for st in ("q1", "q2", "q3", "q4", "q5", "q6"):
+            task_ops.advance(slug, st, actor=actor, evidence="六轴凭证")
 
     def _md(self, name, body="# 测试标题\n\n旧正文。\n"):
         p = os.path.join(self._dir.name, name)
@@ -87,6 +94,7 @@ class TestTaskOps(unittest.TestCase):
         t = task_ops.source_audit("test-s0b", actor="t", evidence="specs/036 补课凭证")
         self.assertEqual(t["state"], "s2.5_checked")  # 补课不迁移状态
         self.assertEqual(sum(1 for s in t["steps"] if s["step"] == "s0"), 1)
+        self._qchain("test-s0b")
         t = task_ops.advance("test-s0b", "s3", actor="t", evidence="e")
         self.assertEqual(t["state"], "s3_checked")
 
@@ -120,6 +128,7 @@ class TestTaskOps(unittest.TestCase):
             task_ops.advance("test-r", step, actor="t", evidence="e")
         task_ops.advance("test-r", "s24", actor="t", evidence="e")
         task_ops.advance("test-r", "audit", actor="t", evidence="e；冷置回读＋密度统计")
+        self._qchain("test-r")
         for step in ("s3", "r1", "r2"):
             task_ops.advance("test-r", step, actor="t", evidence="e")
         task_ops.advance("test-r", "r3", actor="t", evidence="冷置重读",
@@ -144,13 +153,17 @@ class TestTaskOps(unittest.TestCase):
         # ADR-0068 W3 双写：完整流程推进后，journal 的 pass 节点序列与推进一致
         task_ops.create("test-jw", "retranslate", zh_doc=self._md("jw.md"))
         task_ops.clear("test-jw")
-        for step in ("s0", "draft", "s1", "s2", "s24", "audit", "s3", "r1", "r2"):
+        for step in ("s0", "draft", "s1", "s2", "s24", "audit"):
             ev = "e；冷置回读＋密度统计" if step == "audit" else "e"
             task_ops.advance("test-jw", step, actor="t", evidence=ev)
+        self._qchain("test-jw")
+        for step in ("s3", "r1", "r2"):
+            task_ops.advance("test-jw", step, actor="t", evidence="e")
         events = journal_lib.read_events("test-jw")
         pass_nodes = [e["node"] for e in events if e["type"] == "pass"]
         self.assertEqual(pass_nodes,
-                         ["s0", "draft", "s1", "s2", "s2.4", "global", "S3", "R1", "R2"])
+                         ["s0", "draft", "s1", "s2", "s2.4", "global",
+                          "q1", "q2", "q3", "q4", "q5", "q6", "S3", "R1", "R2"])
         # state 与最后 pass 节点一致（r2 → R2 → r2_reviewed）
         t = task_ops.load_task("test-jw")
         self.assertEqual(t["state"], "r2_reviewed")
@@ -170,6 +183,7 @@ class TestTaskOps(unittest.TestCase):
             task_ops.advance("test-e", step, actor="t", evidence="e")
         task_ops.advance("test-e", "s24", actor="t", evidence="e")
         task_ops.advance("test-e", "audit", actor="t", evidence="e；冷置回读＋密度统计")
+        self._qchain("test-e")
         task_ops.advance("test-e", "s3", actor="t", evidence="e")
         with self.assertRaises(task_ops.PreconditionError):
             task_ops.advance("test-e", "done", actor="t", evidence="跳步收口")
@@ -190,6 +204,7 @@ class TestTaskOps(unittest.TestCase):
             task_ops.advance("test-m", step, actor="t", evidence="e")
         task_ops.advance("test-m", "s24", actor="t", evidence="e")
         task_ops.advance("test-m", "audit", actor="t", evidence="e；冷置回读＋密度统计")
+        self._qchain("test-m")
         for step in ("s3", "r1", "r2"):
             task_ops.advance("test-m", step, actor="t", evidence="e")
         with self.assertRaises(task_ops.PreconditionError):
@@ -209,6 +224,7 @@ class TestTaskOps(unittest.TestCase):
             task_ops.advance("test-i1", step, actor="t", evidence="e")
         task_ops.advance("test-i1", "s24", actor="t", evidence="e")
         task_ops.advance("test-i1", "audit", actor="t", evidence="e；冷置回读＋密度统计")
+        self._qchain("test-i1")
         for step in ("s3", "r1", "r2"):
             task_ops.advance("test-i1", step, actor="t", evidence="e")
         with self.assertRaises(task_ops.PreconditionError):
@@ -226,6 +242,7 @@ class TestTaskOps(unittest.TestCase):
             task_ops.advance("test-i2", step, actor="w", evidence="e")
         task_ops.advance("test-i2", "s24", actor="w", evidence="e")
         task_ops.advance("test-i2", "audit", actor="w", evidence="e；冷置回读＋密度统计")
+        self._qchain("test-i2", actor="w")
         for step in ("s3", "r1", "r2"):
             task_ops.advance("test-i2", step, actor="w", evidence="e")
         t = task_ops.advance("test-i2", "r3", actor="rev", evidence="e",
@@ -267,6 +284,7 @@ class TestTaskOps(unittest.TestCase):
         t = task_ops.advance("test-a1", "audit", actor="t",
                              evidence="三向比对记录；单会话冷置回读＋密度统计")
         self.assertEqual(t["state"], "s2.5_checked")
+        self._qchain("test-a1")
         t = task_ops.advance("test-a1", "s3", actor="t", evidence="e")
         self.assertEqual(t["state"], "s3_checked")
 
@@ -346,6 +364,7 @@ class TestTaskOps(unittest.TestCase):
             task_ops.advance("test-u4", step, actor="t", evidence="e")
         task_ops.advance("test-u4", "s24", actor="t", evidence="e")
         task_ops.advance("test-u4", "audit", actor="rev", evidence="e")
+        self._qchain("test-u4", actor="rev")
         for step in ("s3", "r1", "r2"):
             task_ops.advance("test-u4", step, actor="rev", evidence="e")
         task_ops.advance("test-u4", "r3", actor="rev", evidence="e",
@@ -380,6 +399,8 @@ class TestS25ThreeAxes(unittest.TestCase):
                                               "sha256": "0" * 64}
         task_ops._clear_gate = lambda slug: None
         task_ops._source_gate = lambda slug: None
+        self.old_axis = task_ops._axis_gate
+        task_ops._axis_gate = lambda step, zh_doc: None
         task_ops._audit_independence_gate = lambda task, actor, ev: None
         task_ops._term_gate = lambda zh: self.calls.append("term")
         task_ops._style_gate = lambda zh: self.calls.append("style")
@@ -390,6 +411,7 @@ class TestS25ThreeAxes(unittest.TestCase):
         journal_lib.JOURNAL_DIR = self.old_jdir
         for n, f in self._old.items():
             setattr(task_ops, n, f)
+        task_ops._axis_gate = self.old_axis
         self._dir.cleanup()
 
     def _md(self, name):

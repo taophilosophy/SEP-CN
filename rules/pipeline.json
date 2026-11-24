@@ -1,8 +1,8 @@
 {
  "schema": "sep-pipeline/v2",
- "status": "proposal",
- "date": "2026-11-17",
- "revision": "重构：18 节点收敛为 17（16 作业 + 1 入口动作），五组判据重复归零；check_style 由挂三处收敛为挂一处",
+ "status": "accepted",
+ "date": "2026-11-25",
+ "revision": "重构：16 节点扩为 22（新增 q1–q6 六轴独立工序，ADR-0079；顺序 s2.5→引文→逻辑→语法→语域→计量→标点→S3；首期 gate_owner=false，T1 升硬）",
  "note": "本文件管“有哪些工位、每个工位做什么”；journal-schema.json 管“怎么记事件”。二者不重复。",
  "principles": [
   "一个节点只对一个对象负责：对象变了就是两个节点，哪怕工序名相同",
@@ -344,10 +344,178 @@
    "replay_on_change": "tighten"
   },
   {
-   "id": "S3",
+   "id": "q1",
    "seg": "seg3",
    "type": "stage",
    "prev": "global",
+   "mandatory": true,
+   "label": "引文锁定",
+   "axes": [
+    "引文级（成句直引）",
+    "原著语种与原文可得性"
+   ],
+   "does": [
+    "逐条登记直引（引块、行内、脚注），间接转述不入清单",
+    "判原著语种 origin_lang 与原文可得性 na/present/verifiable/unavailable",
+    "verifiable 者补原文（方括号承载），unavailable 者保留英文并说明，不代造",
+    "非英文直引补英文：作者阐释＞通行译本＞本库转译（末位，标待核实）",
+    "术语级片段不入清单，归术语轴首现括注",
+    "引文 hash 落账，q2–q6 出口核对守恒"
+   ],
+   "criteria": [
+    "cite_audit"
+   ],
+   "gate_owner": false,
+   "gate_note": "T0 报告档；T1 起 gate_owner=true（ADR-0079 §6）",
+   "products": [
+    "cite-manifest.json"
+   ],
+   "replay_on_change": "tighten"
+  },
+  {
+   "id": "q2",
+   "seg": "seg3",
+   "type": "stage",
+   "prev": "q1",
+   "mandatory": true,
+   "label": "逻辑一致性",
+   "axes": [
+    "命题骨架",
+    "算子与辖域"
+   ],
+   "does": [
+    "逐句登记谓词-论元骨架：谓词、论元角色、量化、极性、模态、条件、态度",
+    "与源句骨架比对：命题数守恒、角色不反转、量词与否定辖域、条件方向、模态强度",
+    "并列同质与指代链登记",
+    "歧义、前后矛盾、不合事理、表意不明判 Critical（CY/T 266 表 1 第 1-11 类）",
+    "不可形式化项标 unformalized 转人审；LLM 只产候选"
+   ],
+   "criteria": [
+    "logic_audit"
+   ],
+   "gate_owner": false,
+   "gate_note": "T0 报告档；T1 起 gate_owner=true（ADR-0079 §6）",
+   "products": [
+    "logic-skeleton.jsonl"
+   ],
+   "replay_on_change": "tighten"
+  },
+  {
+   "id": "q3",
+   "seg": "seg3",
+   "type": "stage",
+   "prev": "q2",
+   "mandatory": true,
+   "label": "语法",
+   "axes": [
+    "句法合法性",
+    "反欧化",
+    "和制汉语"
+   ],
+   "does": [
+    "成分残缺、赘余、搭配、语序、杂糅、虚词、关联词、指代形式八型",
+    "反欧化八条：被字句、弱动词、定语链、名词化、时态词、连词、类名们、直译框架",
+    "和制汉语三分类：已定型照用；未定形禁用并回源重选；误用逐词裁定",
+    "防误判：分句主语隐现、羡余非赘余、标准工具书同类用法不判错"
+   ],
+   "criteria": [
+    "grammar_audit"
+   ],
+   "gate_owner": false,
+   "gate_note": "T0 报告档；T1 起 gate_owner=true（ADR-0079 §6）",
+   "products": [
+    "grammar-report.json"
+   ],
+   "replay_on_change": "tighten"
+  },
+  {
+   "id": "q4",
+   "seg": "seg3",
+   "type": "stage",
+   "prev": "q3",
+   "mandatory": true,
+   "label": "语域",
+   "axes": [
+    "五档标尺",
+    "语气一致"
+   ],
+   "does": [
+    "逐节判定档位 R-1 至 R-5，译文自述只允许 R-1/R-2/R-3",
+    "档位漂移、文言残留、口语与方言残留、称谓一致",
+    "语气：陈述、让步、反讽按源保留，不拔高不抹平",
+    "与 register-baseline 样章比对（同一本书，不是好文笔）"
+   ],
+   "criteria": [
+    "register_audit"
+   ],
+   "gate_owner": false,
+   "gate_note": "T0 报告档；T1 起 gate_owner=true（ADR-0079 §6）",
+   "products": [
+    "register-report.md"
+   ],
+   "replay_on_change": "tighten"
+  },
+  {
+   "id": "q5",
+   "seg": "seg3",
+   "type": "stage",
+   "prev": "q4",
+   "mandatory": true,
+   "label": "计量",
+   "axes": [
+    "量值-单位",
+    "数字形态"
+   ],
+   "does": [
+    "单位符号与中文名称合规（GB 3100/3101/3102、ISO 80000-1）",
+    "数值与单位符号间一个空格；% 与角分秒例外",
+    "同量全文单位一致；源内不一致登记并按主形统一",
+    "数值范围连接号与数字形态（GB/T 15835）",
+    "换算可复核，记公式与来源；修约数位一致"
+   ],
+   "criteria": [
+    "measure_audit"
+   ],
+   "gate_owner": false,
+   "gate_note": "T0 报告档；T1 起 gate_owner=true（ADR-0079 §6）",
+   "products": [
+    "measure-manifest.json"
+   ],
+   "replay_on_change": "tighten"
+  },
+  {
+   "id": "q6",
+   "seg": "seg3",
+   "type": "stage",
+   "prev": "q5",
+   "mandatory": true,
+   "label": "标点",
+   "axes": [
+    "十七种标点",
+    "邻接与禁则"
+   ],
+   "does": [
+    "GB/T 15834-2011 十七种标点逐种判据 P-1 至 P-17",
+    "引号、括号、书名号配对与套用；省略号六连点；破折号两字位",
+    "连接号三形分工；间隔号；概数不用顿号；冒号不套用",
+    "引号/括号与中西文邻接空格；半角全角；行首行末禁则转渲染层",
+    "吸收 check_style 标点项与 check_quotes/check_pairs 标点轴，所有权归本节点"
+   ],
+   "criteria": [
+    "punct_audit"
+   ],
+   "gate_owner": false,
+   "gate_note": "T0 报告档；T1 起 gate_owner=true（ADR-0079 §6）",
+   "products": [
+    "punct-report.json"
+   ],
+   "replay_on_change": "tighten"
+  },
+  {
+   "id": "S3",
+   "seg": "seg3",
+   "type": "stage",
+   "prev": "q6",
    "mandatory": true,
    "label": "体例终校",
    "reconstructed": "由“s3 三校”正名并扩容：吸收原 s2.4 体例轴、原 s3、原 F3、原 X1 的单件可判部分；check_style 由挂三处收敛为唯一硬拦点",
@@ -459,7 +627,13 @@
    "global",
    "R1",
    "R2",
-   "R3"
+   "R3",
+   "q1",
+   "q2",
+   "q3",
+   "q4",
+   "q5",
+   "q6"
   ],
   "rule": "任何 attempt 合回主干前，nodes 必须全部 pass；分支内自审不可替代",
   "note": "R1 至 R3 是最小集不是全集：可增，不可减"
@@ -519,6 +693,24 @@
   ],
   "ci_all": [
    "R3"
+  ],
+  "cite_audit": [
+   "q1"
+  ],
+  "logic_audit": [
+   "q2"
+  ],
+  "grammar_audit": [
+   "q3"
+  ],
+  "register_audit": [
+   "q4"
+  ],
+  "measure_audit": [
+   "q5"
+  ],
+  "punct_audit": [
+   "q6"
   ]
  },
  "migration": {

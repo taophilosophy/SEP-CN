@@ -89,6 +89,25 @@
 * **例外**：某件因横向缺陷无法进 s3（如文献分类丢失致节集合不符）时，该件停留 s2.5 并在 steps evidence 引用本流程凭证。
 * **批次启动**：待用户批准；未启动期间本步骤为登记态，不作为任何件的阻塞项。
 
+### 六轴独立质量工序（q1–q6，ADR-0079，2026-11-25 用户裁定）
+
+用户判定标点、语法、语域、引文、计量、逻辑六类此前**均未独立实现**（标点四器分散挂三节点，语法与语域混装 s2，引文只有中文/日文窄条款，计量只有“照录源”，句级逻辑空白）。六类现各设独立工序、独立判据表、独立凭据、独立判据所有权；判据全文见 `specs/060-six-axis-quality-gates/checklists/q1-cite.md` … `q6-punct.md`。
+
+位次固定：`s2.5_checked → q1_cite_checked → q2_logic_checked → q3_grammar_checked → q4_register_checked → q5_measure_checked → q6_punct_checked → s3_checked`。
+
+| 节点 | 对象 | 机检承载体 | 凭据 | 首期档 |
+| ---- | ---- | ---- | ---- | ---- |
+| q1 引文锁定 | 成句直引；原著语种与原文可得性 | `cite_audit` | `state/axis/<slug>.cite.json` | 告警→T1 硬 |
+| q2 逻辑一致性 | 谓词-论元骨架、量化与辖域、条件方向、模态 | `logic_audit`（只产候选） | `state/axis/<slug>.logic.jsonl` | 告警 |
+| q3 语法 | 句法合法性、反欧化、和制汉语 | `grammar_audit`（吸收 `check_prose`） | `state/axis/<slug>.grammar.json` | 告警→T2 硬三型 |
+| q4 语域 | 五档标尺、档位漂移、语气 | `register_audit`（只产候选） | `state/axis/<slug>.register.json` | 告警 |
+| q5 计量 | 量值-单位、数字形态、换算 | `measure_audit` | `state/axis/<slug>.measure.json` | 告警→T1 硬 |
+| q6 标点 | GB/T 15834 十七种标点、邻接与禁则 | `punct_audit`（吸收 check_style 标点项） | `state/axis/<slug>.punct.json` | 告警→T1 硬 |
+
+**顺序依赖五条**（不可换位）：① 引文先于逻辑——引文命题不属译者责任，先锁 hash，q2–q6 不得改引文内部；② 逻辑先于语法——“说什么”先于“说得对不对”；③ 语法先于语域——ISO 5060 定义 Style 以语法可接受为前提；④ 计量先于标点——量值形态牵动连接号与空格；⑤ 标点先于三校——S3 只留结构与交付格式。
+
+**共同纪律**：机检为筛、人审为判（ADR-0070）；英文直引不另造英文，逐条判原著语种与原文可得性（`na`／`present`／`verifiable`／`unavailable`），`verifiable` 补原文（方括号），`unavailable` 不代造；术语级片段归 s2.4 首现括注，不入引文清单；q 链重入上限 1；全量回炉经 `revert-state --to s2.5_checked` 重走 q1–q6 与 r 链。
+
 ### 复核独立性与问题分级（ADR-0020）
 
 * **MQM Core 映射**：一校对 Accuracy（误译／漏译／增译／未译）；二校对 Fluency 与 Style（语法、欧化、语域）；**s2.4 术语校对 Terminology（登记册一致性）**；三校对 Locale Convention（标点体例、数字与连接号）；初审至终审做 Verity（受众适切性）抽查与整体验收。

@@ -1,217 +1,217 @@
 {
-  "schema": "sep-journal/v2",
-  "status": "accepted",
-  "date": "2026-11-18",
-  "note": "事件模型与判据类型的机读定义。节点集不在本文件定义，改为引用 rules/pipeline.json，以消除双源。落地须经 ADR；本文件为草案，不参与任何门禁。",
-  "revision": "v2：删除内嵌 nodes 与 mandatory_minimum，改为 nodes_ref／mandatory_ref 指向 rules/pipeline.json；v1 的两份节点定义（18 节点 vs 17 节点）已合并为单一源",
-  "principles": {
-    "J4": "日志只追加：任何事件不得修改或删除",
-    "J5": "视图禁回写：progress.py 不写任何文件",
-    "J7": "事件六类封闭：新增语义须改 pipeline，不得新造事件类型"
+ "schema": "sep-journal/v2",
+ "status": "accepted",
+ "date": "2026-11-18",
+ "note": "事件模型与判据类型的机读定义。节点集不在本文件定义，改为引用 rules/pipeline.json，以消除双源。落地须经 ADR；本文件为草案，不参与任何门禁。",
+ "revision": "2026-11-25 增 q1–q6 六节点引用（ADR-0079）；节点集仍由 pipeline.json 唯一定义，本文件只同步计数",
+ "principles": {
+  "J4": "日志只追加：任何事件不得修改或删除",
+  "J5": "视图禁回写：progress.py 不写任何文件",
+  "J7": "事件六类封闭：新增语义须改 pipeline，不得新造事件类型"
+ },
+ "event_types": {
+  "lock": {
+   "desc": "源钉变更：记录一次上游字节事实的锁定",
+   "required": [
+    "seq",
+    "at",
+    "actor",
+    "type",
+    "sha256"
+   ],
+   "optional": [
+    "pubinfo_date",
+    "edition",
+    "source_url"
+   ],
+   "invariant": "同一 attempt 内 sha256 变更须开新 attempt"
   },
-  "event_types": {
-    "lock": {
-      "desc": "源钉变更：记录一次上游字节事实的锁定",
-      "required": [
-        "seq",
-        "at",
-        "actor",
-        "type",
-        "sha256"
-      ],
-      "optional": [
-        "pubinfo_date",
-        "edition",
-        "source_url"
-      ],
-      "invariant": "同一 attempt 内 sha256 变更须开新 attempt"
-    },
-    "pass": {
-      "desc": "某节点判据通过",
-      "required": [
-        "seq",
-        "at",
-        "actor",
-        "type",
-        "node",
-        "attempt",
-        "gate"
-      ],
-      "optional": [
-        "witness",
-        "note",
-        "gate_version"
-      ],
-      "invariant": "node 必须存在于 nodes_ref；gate 非空"
-    },
-    "fail": {
-      "desc": "某节点判据失败",
-      "required": [
-        "seq",
-        "at",
-        "actor",
-        "type",
-        "node",
-        "attempt",
-        "gate",
-        "reason"
-      ],
-      "optional": [
-        "witness",
-        "gate_version"
-      ],
-      "invariant": "fail 不改变 attempt，仅记录；下游节点不得在 fail 之后 pass"
-    },
-    "rework": {
-      "desc": "开返工分支：不改写既有事件，只新增分支头",
-      "required": [
-        "seq",
-        "at",
-        "actor",
-        "type",
-        "attempt",
-        "from_node",
-        "reason"
-      ],
-      "optional": [
-        "scope",
-        "parent_attempt",
-        "arbiter"
-      ],
-      "invariant": "attempt 全局唯一；scope 为条目列表时限定分支作用面"
-    },
-    "merge": {
-      "desc": "分支合回主干",
-      "required": [
-        "seq",
-        "at",
-        "actor",
-        "type",
-        "attempt",
-        "into",
-        "verdict",
-        "arbiter"
-      ],
-      "optional": [
-        "r_chain"
-      ],
-      "invariant": "verdict=accept 前 r_chain 必须覆盖 mandatory_ref 全部 pass"
-    },
-    "import": {
-      "desc": "迁移期合成快照：承认历史不可考，不推断",
-      "required": [
-        "seq",
-        "at",
-        "actor",
-        "type",
-        "synthetic",
-        "basis"
-      ],
-      "optional": [
-        "state_at_import",
-        "note"
-      ],
-      "invariant": "synthetic 必须为 true；basis 取值限定 state / rework-only / steps"
-    }
+  "pass": {
+   "desc": "某节点判据通过",
+   "required": [
+    "seq",
+    "at",
+    "actor",
+    "type",
+    "node",
+    "attempt",
+    "gate"
+   ],
+   "optional": [
+    "witness",
+    "note",
+    "gate_version"
+   ],
+   "invariant": "node 必须存在于 nodes_ref；gate 非空"
   },
-  "node_types": {
-    "pipe": {
-      "desc": "管线型：判据由 ADR 定义，改动须 ADR",
-      "criteria_source": "rules/adr/*",
-      "replay_on_change": "replace"
-    },
-    "stage": {
-      "desc": "生产型：判据由该环节对应的三位一体定义",
-      "criteria_source": "specs/<NNN>/spec.md",
-      "replay_on_change": "tighten"
-    },
-    "review": {
-      "desc": "验收型：可增不可减，最小集 R1-R3 强制",
-      "criteria_source": "rules/04",
-      "replay_on_change": "replace"
-    },
-    "format": {
-      "desc": "格式型：段末闭合，只处置本段产生的格式问题，零差异也须记录",
-      "criteria_source": "rules/02 + rules/04",
-      "replay_on_change": "widen"
-    }
+  "fail": {
+   "desc": "某节点判据失败",
+   "required": [
+    "seq",
+    "at",
+    "actor",
+    "type",
+    "node",
+    "attempt",
+    "gate",
+    "reason"
+   ],
+   "optional": [
+    "witness",
+    "gate_version"
+   ],
+   "invariant": "fail 不改变 attempt，仅记录；下游节点不得在 fail 之后 pass"
   },
-  "replay_on_change": {
-    "widen": {
-      "desc": "新判据是旧判据的子集（放宽）：既有 pass 继续有效",
-      "state_migration": 0,
-      "action": "无"
-    },
-    "tighten": {
-      "desc": "新判据是旧判据的超集（收紧）：对既存 pass 重跑新判据",
-      "state_migration": 0,
-      "action": "追加 pass（gate_version+1）或 fail"
-    },
-    "replace": {
-      "desc": "新旧判据互不包含（更换）：开 attempt 分支，合回须 R 链全过",
-      "state_migration": "仅受影响条目",
-      "action": "rework + merge"
-    }
+  "rework": {
+   "desc": "开返工分支：不改写既有事件，只新增分支头",
+   "required": [
+    "seq",
+    "at",
+    "actor",
+    "type",
+    "attempt",
+    "from_node",
+    "reason"
+   ],
+   "optional": [
+    "scope",
+    "parent_attempt",
+    "arbiter"
+   ],
+   "invariant": "attempt 全局唯一；scope 为条目列表时限定分支作用面"
   },
-  "segments": [
-    {
-      "id": "seg1",
-      "name": "英语文本提取",
-      "contract": "出口产物须可由 seg2 单钉消费"
-    },
-    {
-      "id": "seg2",
-      "name": "中文翻译",
-      "contract": "出口产物须为全文一致的中文 markdown"
-    },
-    {
-      "id": "seg3",
-      "name": "审阅与校对",
-      "contract": "出口须含 R 链全部 pass 事件"
-    }
-  ],
-  "nodes_ref": {
-    "source": "rules/pipeline.json#nodes",
-    "count": 16,
-    "note": "节点集与次序由 rules/pipeline.json 唯一定义。本文件不再内嵌节点，避免两处各写一套（v1 曾同时存在 18 节点与 17 节点两版）"
+  "merge": {
+   "desc": "分支合回主干",
+   "required": [
+    "seq",
+    "at",
+    "actor",
+    "type",
+    "attempt",
+    "into",
+    "verdict",
+    "arbiter"
+   ],
+   "optional": [
+    "r_chain"
+   ],
+   "invariant": "verdict=accept 前 r_chain 必须覆盖 mandatory_ref 全部 pass"
   },
-  "mandatory_ref": {
-    "source": "jian-yi-shu/rules/pipeline.json#mandatory_minimum.nodes",
-    "members": [
-      "s0",
-      "s2.4",
-      "global",
-      "R1",
-      "R2",
-      "R3"
-    ],
-    "rule": "任何 attempt 合回主干前，该集合必须全部 pass；分支内自审不可替代",
-    "note": "R1-R3 是最小集不是全集：可增，不可减"
-  },
-  "saturation": {
-    "predicate": "passed(e, attempt) ⊇ nodes_ref ∪ mandatory_ref",
-    "note": "nodes_ref 可随 pipeline 扩展，故该判定随时可能由真变假"
-  },
-  "state_only_entry": {
-    "id": "cleared",
-    "desc": "置空动作，非作业节点：无判据、无交付物，仅表示旧译文作废、等待重译",
-    "applicability": "仅 retranslate 序列；update 序列无此态",
-    "entry_condition": "已登记可信英文基线（baseline/ 有 version_pin），且清空动作可由 git 历史回溯"
-  },
-  "derived_views": {
-    "stage_done": "从日志折叠出某 attempt 已 pass 的节点集",
-    "saturate": "上式的集合包含判定",
-    "stale": "lock 事件的 sha256 ≠ en/ 现文件哈希",
-    "attempt": "未被 merge 的最新 rework 分支，无则为 main",
-    "report": "曾达饱和 / 当前口径饱和 / 钉过期，三项并列，不合并为布尔值"
-  },
-  "migration": {
-    "from": [
-      "tasks/*.json 的 state 与 steps",
-      "tools/task_ops.py 的 ORDER"
-    ],
-    "to": "journal/<letter>/<slug>.ndjson + rules/pipeline.json",
-    "synthetic_rule": "steps 中无任何阶段节点的条目，一律 import{synthetic:true, basis:rework-only}；不得推断中间节点",
-    "irreversible_step": "W1"
+  "import": {
+   "desc": "迁移期合成快照：承认历史不可考，不推断",
+   "required": [
+    "seq",
+    "at",
+    "actor",
+    "type",
+    "synthetic",
+    "basis"
+   ],
+   "optional": [
+    "state_at_import",
+    "note"
+   ],
+   "invariant": "synthetic 必须为 true；basis 取值限定 state / rework-only / steps"
   }
+ },
+ "node_types": {
+  "pipe": {
+   "desc": "管线型：判据由 ADR 定义，改动须 ADR",
+   "criteria_source": "rules/adr/*",
+   "replay_on_change": "replace"
+  },
+  "stage": {
+   "desc": "生产型：判据由该环节对应的三位一体定义",
+   "criteria_source": "specs/<NNN>/spec.md",
+   "replay_on_change": "tighten"
+  },
+  "review": {
+   "desc": "验收型：可增不可减，最小集 R1-R3 强制",
+   "criteria_source": "rules/04",
+   "replay_on_change": "replace"
+  },
+  "format": {
+   "desc": "格式型：段末闭合，只处置本段产生的格式问题，零差异也须记录",
+   "criteria_source": "rules/02 + rules/04",
+   "replay_on_change": "widen"
+  }
+ },
+ "replay_on_change": {
+  "widen": {
+   "desc": "新判据是旧判据的子集（放宽）：既有 pass 继续有效",
+   "state_migration": 0,
+   "action": "无"
+  },
+  "tighten": {
+   "desc": "新判据是旧判据的超集（收紧）：对既存 pass 重跑新判据",
+   "state_migration": 0,
+   "action": "追加 pass（gate_version+1）或 fail"
+  },
+  "replace": {
+   "desc": "新旧判据互不包含（更换）：开 attempt 分支，合回须 R 链全过",
+   "state_migration": "仅受影响条目",
+   "action": "rework + merge"
+  }
+ },
+ "segments": [
+  {
+   "id": "seg1",
+   "name": "英语文本提取",
+   "contract": "出口产物须可由 seg2 单钉消费"
+  },
+  {
+   "id": "seg2",
+   "name": "中文翻译",
+   "contract": "出口产物须为全文一致的中文 markdown"
+  },
+  {
+   "id": "seg3",
+   "name": "审阅与校对",
+   "contract": "出口须含 R 链全部 pass 事件"
+  }
+ ],
+ "nodes_ref": {
+  "source": "rules/pipeline.json#nodes",
+  "count": 22,
+  "note": "节点集与次序由 rules/pipeline.json 唯一定义。本文件不再内嵌节点，避免两处各写一套（v1 曾同时存在 18 节点与 17 节点两版）"
+ },
+ "mandatory_ref": {
+  "source": "jian-yi-shu/rules/pipeline.json#mandatory_minimum.nodes",
+  "members": [
+   "s0",
+   "s2.4",
+   "global",
+   "R1",
+   "R2",
+   "R3"
+  ],
+  "rule": "任何 attempt 合回主干前，该集合必须全部 pass；分支内自审不可替代",
+  "note": "R1-R3 是最小集不是全集：可增，不可减"
+ },
+ "saturation": {
+  "predicate": "passed(e, attempt) ⊇ nodes_ref ∪ mandatory_ref",
+  "note": "nodes_ref 可随 pipeline 扩展，故该判定随时可能由真变假"
+ },
+ "state_only_entry": {
+  "id": "cleared",
+  "desc": "置空动作，非作业节点：无判据、无交付物，仅表示旧译文作废、等待重译",
+  "applicability": "仅 retranslate 序列；update 序列无此态",
+  "entry_condition": "已登记可信英文基线（baseline/ 有 version_pin），且清空动作可由 git 历史回溯"
+ },
+ "derived_views": {
+  "stage_done": "从日志折叠出某 attempt 已 pass 的节点集",
+  "saturate": "上式的集合包含判定",
+  "stale": "lock 事件的 sha256 ≠ en/ 现文件哈希",
+  "attempt": "未被 merge 的最新 rework 分支，无则为 main",
+  "report": "曾达饱和 / 当前口径饱和 / 钉过期，三项并列，不合并为布尔值"
+ },
+ "migration": {
+  "from": [
+   "tasks/*.json 的 state 与 steps",
+   "tools/task_ops.py 的 ORDER"
+  ],
+  "to": "journal/<letter>/<slug>.ndjson + rules/pipeline.json",
+  "synthetic_rule": "steps 中无任何阶段节点的条目，一律 import{synthetic:true, basis:rework-only}；不得推断中间节点",
+  "irreversible_step": "W1"
+ }
 }

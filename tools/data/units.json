@@ -1,0 +1,28 @@
+{
+ "schema": "units/v1",
+ "note": "q5 量纲表与单位白名单（ADR-0079）。符号→量；bad_form 为非规范形到规范形的映射；no_space_ok 为数值与符号之间不加空格的例外。标准依据：GB 3100-1993、GB/T 3101-1993、GB/T 3102 系列、ISO 80000-1:2022、SI Brochure 第 9 版。",
+ "units": {
+  "km": "length", "m": "length", "cm": "length", "mm": "length",
+  "µm": "length", "nm": "length", "mile": "length", "mi": "length",
+  "ft": "length", "in": "length", "yd": "length",
+  "kg": "mass", "g": "mass", "mg": "mass", "t": "mass", "lb": "mass", "oz": "mass",
+  "s": "time", "min": "time", "h": "time", "d": "time",
+  "°C": "temperature", "°F": "temperature", "K": "temperature",
+  "m²": "area", "m³": "volume", "L": "volume", "mL": "volume",
+  "ha": "area", "acre": "area",
+  "m/s": "speed", "km/h": "speed", "mph": "speed",
+  "J": "energy", "kJ": "energy", "W": "power", "kW": "power",
+  "kWh": "energy", "cal": "energy", "kcal": "energy",
+  "Pa": "pressure", "kPa": "pressure", "bar": "pressure", "atm": "pressure",
+  "Hz": "frequency", "kHz": "frequency", "MHz": "frequency", "GHz": "frequency",
+  "V": "voltage", "A": "current", "Ω": "resistance", "mol": "amount",
+  "N": "force", "%": "ratio", "‰": "ratio",
+  "°": "angle", "′": "angle", "″": "angle"
+ },
+ "bad_form": {
+  "KM": "km", "KG": "kg", "ML": "mL", "CM": "cm", "MM": "mm",
+  "HZ": "Hz", "KHZ": "kHz", "MHZ": "MHz", "GHZ": "GHz",
+  "KW": "kW", "KWH": "kWh", "PA": "Pa", "KPA": "kPa"
+ },
+ "no_space_ok": ["%", "‰", "°", "′", "″"]
+}

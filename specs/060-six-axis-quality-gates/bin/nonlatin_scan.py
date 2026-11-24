@@ -101,7 +101,7 @@ def lang_of(text):
     en_ratio = sum(1 for w in words if w in ENGLISH_STOP) / max(len(words), 1)
     scored = []
     for lang, hints in LATIN_HINTS.items():
-        hit = sum(1 for h in hints if h.lower() in words)
+        hit = sum(words.count(h.lower()) for h in hints)
         if hit:
             scored.append((hit, lang))
     if scored:
@@ -112,7 +112,7 @@ def lang_of(text):
         return "none"
     scored = []
     for lang, hints in LATIN_HINTS.items():
-        hit = sum(1 for h in hints if h.lower() in words)
+        hit = sum(words.count(h.lower()) for h in hints)
         if hit:
             scored.append((hit, lang))
     if scored:

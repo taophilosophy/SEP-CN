@@ -13,6 +13,14 @@
 | `task_ops.py` | 文档任务状态机（show / create / advance / clear / block） |
 | `check_style.py` | 体例检查（引号、quote-spacing、空格、HTML/AsciiDoc 残留、italic-cjk；输出 JSON）；`--connector-scan` 连接号形态告警（connector-form，GB/T 15834 §4.13，ADR-0041，告警级不进 CI） |
 | `check_prose.py` | 语言质量预检（ADR-0020，**告警级**，不进 CI）：长句、被动、弱动词、“的”链、类名“们”、作为一个、存在着、当…的时候 八则＋时态词冗余、并列连词接动词、“成功地” 三则（2026-11-14 扩项，specs/027）反欧化模式；输出 JSON，默认退出码 0，`--strict` 升硬 |
+| `axis_lib.py` | 六轴工序共享库（ADR-0079，非 CLI）：保护域掩码（代码/公式/URL/参考文献）、散句与段落块、直引抽取、语种判定（BCP 47 映射）、目标枚举 |
+| `cite_audit.py` | q1 引文锁定（ADR-0079）：直引清单与 `state/axis/<slug>.cite.json`；`--init` 生清单、`--gate` 校 C-1/C-2/C-6/C-7、`--check-hash` 守恒核对 |
+| `logic_audit.py` | q2 逻辑一致性（ADR-0079）：逐句骨架 `state/axis/<slug>.logic.jsonl`＋算子配对初筛（all/some/no/not/if/unless/must/should/may）；只产候选，人审为判 |
+| `grammar_audit.py` | q3 语法（ADR-0079）：句法三型启发式＋复用 `check_prose` 十一条（映射 G-9…G-16）＋和制汉语词表（G-17…G-19）；`--init` 写 `state/axis/<slug>.grammar.json` |
+| `register_audit.py` | q4 语域（ADR-0079）：逐节档位骨架＋文言/口语/称谓候选（R-d/R-e/R-f）；语义判断归人审 |
+| `measure_audit.py` | q5 计量（ADR-0079）：单位白名单与量纲（`tools/data/units.json`）、数值-单位空格、同量单位集合、数值范围连接号；`--init` 写 `state/axis/<slug>.measure.json` |
+| `punct_audit.py` | q6 标点（ADR-0079）：GB/T 15834 十七种标点机检子集（条款映射 `tools/data/punct-rules.json`）；`--init` 写 `state/axis/<slug>.punct.json` |
+| `qchain.py` | 六轴编排器（ADR-0079）：依次跑 q1–q6 出工单 `state/axis/qchain-latest.json`；只编排不裁判 |
 | `check_render_artifacts.py` | 渲染产物残留物扫描（ADR-0019）：对构建产物 HTML 做文本级检查——裸 `**`（星内空格粗体永不渲染）、字面 `[^`（脚注配对失效）、`](`链接残留、数学哨兵 `@@M`；代码块/预排块内字面量豁免。分期转硬门禁（`raw[^` 待镜像脚注修复后纳入） |
 | `check_images.py` | 图片引用检查（rules/01 图片三条硬性要求）：悬空引用、大小写不符（Windows 不敏感/CI 404）、外部地址、`assets/` 未引用资产；`/...` 站点绝对路径单列**告警**（非本仓相对引用，多来自抄录的上游 HTML，不入硬门）；跳过代码块与行内代码，`yuanwen/` 缺位（CI）时跳过镜像引用；报告写 `state/image-report.md`（本地）或 `image-report.md`（CI 开 issue 用），无问题即清除旧报告，默认退出码 0；`--gate` 时悬空/大小写/外链任一 >0 退出 1（check_all 与 CI 门禁用） |
 | `check_summary.py` | SUMMARY.md 结构审计（条目解析、缺失文件、孤儿文件、命名、重复）＋ H1 一致性硬门禁（SUMMARY 条目文字 ↔ 文件 H1，ADR-0024）＋ 别名行英文完整标题硬门禁（`alias fragment`，ADR-0024）；硬错误退出码 1；`--headers` 只查标题（CI 用），`--sync-headers` 按 SUMMARY 同步 H1（本地用，写回后跑残差门） |
