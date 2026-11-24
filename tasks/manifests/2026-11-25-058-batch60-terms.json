@@ -1,0 +1,20 @@
+{
+  "batch": "058-batch60-terms",
+  "date": "2026-11-25",
+  "scope": "术语批 8：学派与思潮名缺口（72 个抽样学派名逐个复核，登记册缺而语料已用者）",
+  "rows": [
+    {"en": "analytic philosophy", "zh": "分析哲学", "table": "term", "first_seen": "语料回收（学派名扫描 2026-11-25）", "basis": "学界通行（中文语料 76 次；与 continental philosophy 大陆哲学对举）；凭证 2026-11-25"},
+    {"en": "Avicennism", "zh": "阿维森纳主义", "table": "term", "first_seen": "语料回收（学派名扫描 2026-11-25）", "basis": "学界通行（与已登记 Averroism 阿威罗伊主义配对；语料 3 次）；凭证 2026-11-25"},
+    {"en": "Cambridge Platonism", "zh": "剑桥柏拉图主义", "table": "term", "first_seen": "语料回收（学派名扫描 2026-11-25）", "basis": "学界通行（中文语料 31 次）；凭证 2026-11-25"},
+    {"en": "Cynicism", "zh": "犬儒主义", "table": "term", "first_seen": "语料回收（学派名扫描 2026-11-25）", "basis": "学界通行（中文语料 4 次；与 Stoicism 斯多葛主义并列的希腊化学派）；凭证 2026-11-25"},
+    {"en": "Daoism", "zh": "道家（宗教义作“道教”；亦作 Taoism）", "table": "term", "first_seen": "语料回收（学派名扫描 2026-11-25）", "basis": "学界通行按域分义（中文语料道家 87／道教 57；原文一词两义，译文按语境择形）；凭证 2026-11-25"},
+    {"en": "Deism", "zh": "自然神论", "table": "term", "first_seen": "语料回收（学派名扫描 2026-11-25）", "basis": "学界通行（中文语料 18 次；与 theism 有神论、atheism 无神论并列）；凭证 2026-11-25"},
+    {"en": "Incompatibilism", "zh": "不相容论", "table": "term", "first_seen": "语料回收（学派名扫描 2026-11-25）", "basis": "学界通行（中文语料 18 次；与已登记 compatibilism 相容论对举）；凭证 2026-11-25"},
+    {"en": "Psychoanalysis", "zh": "精神分析（亦作“精神分析学”）", "table": "term", "first_seen": "语料回收（学派名扫描 2026-11-25）", "basis": "学界通行（中文语料 28 次）；凭证 2026-11-25"},
+    {"en": "Renaissance humanism", "zh": "文艺复兴人文主义", "table": "term", "first_seen": "语料回收（学派名扫描 2026-11-25）", "basis": "学界通行（中文语料 9 次；与已登记 humanism 人文主义分行，限定语不省）；凭证 2026-11-25"},
+    {"en": "Sāṃkhya", "orig": "सांख्य", "zh": "数论（印度哲学派；与 number theory 数论（数学义）按域分用）", "table": "term", "first_seen": "语料回收（学派名扫描 2026-11-25）", "basis": "印度哲学史学界通行（正理—胜论等派名同例；中文语料“数论”含数学义，按域分用）；凭证 2026-11-25"},
+    {"en": "Scotism", "zh": "司各脱主义", "table": "term", "first_seen": "语料回收（学派名扫描 2026-11-25）", "basis": "学界通行（中文语料 12 次；与 Thomism 托马斯主义并列的中世纪学派）；凭证 2026-11-25"},
+    {"en": "Thomism", "zh": "托马斯主义", "table": "term", "first_seen": "语料回收（学派名扫描 2026-11-25）", "basis": "学界通行（中文语料 41 次）；凭证 2026-11-25"},
+    {"en": "Vedānta", "orig": "वेदान्त", "zh": "吠檀多（亦作“吠檀多派”）", "table": "term", "first_seen": "语料回收（学派名扫描 2026-11-25）", "basis": "印度哲学史学界通行（中文语料 9 次；与 Mīmāṃsā 弥曼差、Nyāya 正理派同例）；凭证 2026-11-25"}
+  ]
+}
