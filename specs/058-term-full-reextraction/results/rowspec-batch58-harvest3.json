@@ -1,0 +1,71 @@
+{
+ "batch": "058-batch58-harvest3",
+ "date": "2026-11-24",
+ "scope": "候选池收割第三批（核心术语真缺 8 条）",
+ "rows": [
+  {
+   "en": "conceptual analysis",
+   "zh": "概念分析",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（分析哲学文献通行术语；语料 19 处一致；审定库无对口条目）（2026-11-24 联网／语料核对，凭证 pool-harvest-b3-2026-11-24.md）",
+   "date": "2026-11-24"
+  },
+  {
+   "en": "mental properties",
+   "zh": "心理属性",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（心灵哲学文献通行术语；语料 31 处一致）（2026-11-24 联网／语料核对，凭证 pool-harvest-b3-2026-11-24.md）",
+   "date": "2026-11-24"
+  },
+  {
+   "en": "moral truths",
+   "zh": "道德真理",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（元伦理学文献通行术语；语料 35 处一致）（2026-11-24 联网／语料核对，凭证 pool-harvest-b3-2026-11-24.md）",
+   "date": "2026-11-24"
+  },
+  {
+   "en": "rational agents",
+   "zh": "理性行动者",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（行动哲学与伦理学通行术语；语料 17 处一致）（2026-11-24 联网／语料核对，凭证 pool-harvest-b3-2026-11-24.md）",
+   "date": "2026-11-24"
+  },
+  {
+   "en": "logical space",
+   "zh": "逻辑空间",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（维特根斯坦《逻辑哲学论》通行汉译；语料 8 处一致）（2026-11-24 联网／语料核对，凭证 pool-harvest-b3-2026-11-24.md）",
+   "date": "2026-11-24"
+  },
+  {
+   "en": "empty names",
+   "zh": "空名",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（语言哲学文献通行术语；语料 6 处一致）（2026-11-24 联网／语料核对，凭证 pool-harvest-b3-2026-11-24.md）",
+   "date": "2026-11-24"
+  },
+  {
+   "en": "Kyoto School",
+   "zh": "京都学派",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（吴汝钧《绝对无的哲学：京都学派哲学导论》，台湾商务印书馆 1998；《绝对无诠释学：京都学派的批判性研究》，学生书局 2012；语料 6 处一致）（2026-11-24 联网／语料核对，凭证 pool-harvest-b3-2026-11-24.md）",
+   "date": "2026-11-24"
+  },
+  {
+   "en": "ethical theory",
+   "zh": "伦理学理论",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（伦理学文献通行术语；语料 8 处一致）（2026-11-24 联网／语料核对，凭证 pool-harvest-b3-2026-11-24.md）",
+   "date": "2026-11-24"
+  }
+ ]
+}
