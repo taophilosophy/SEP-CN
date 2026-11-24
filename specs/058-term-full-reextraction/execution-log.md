@@ -613,3 +613,9 @@
 * 查无：David O. Brink（无中译本，数据库自动译名不采）。
 * 凭证：`results/people-cnweb-2026-11-24-b33.md`；`result/people-cnweb-2026-11-24-queryless.md` 同步改记。
 * 落册：定点改写 1 行；`check_all` 17 项全绿。
+
+## 2026-11-24：术语依据补证 批次 4（100 行）
+
+* 22 行同形同义补审定凭证；2 行按审定改定（expected value→期望值、explicit definition→显定义，旧形降亦作）；4 行对齐但保留并注（Enlightenment、environmental ethics、explanans、extraversion）；7 行异义/噪声不改；67 行无收录留 TSV。
+* 凭证：`results/termonline-b4-2026-11-24.md`＋`.tsv`。
+* 落册：术语表 8,262 守恒；`check_all` 17 项全绿。批五爬取中，批九至十四已排队。

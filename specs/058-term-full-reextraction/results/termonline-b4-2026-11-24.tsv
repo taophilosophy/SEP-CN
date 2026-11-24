@@ -1,0 +1,101 @@
+en	current_cn	status	verdict	aligned_hits
+antitupia	相互抵抗	empty	EMPTY	
+anubhava	直接经验	empty	EMPTY	
+anuprekṣā	随念	empty	EMPTY	
+apoha	遮诠（apoha，字面义“排除”）	ok	NO_ALIGNED	
+apoptosis	细胞凋亡	ok	ALIGNED_SAME	细胞凋亡<=apoptosis|生物化学与分子生物学名词|1.0261|2024 ; 细胞凋亡<=apoptosis|兽医学名词|10.108|2023 ; 细胞凋亡<=apoptosis|动物学名词|4.0597|2021
+approximate fixed-point theorem	近似不动点定理	ok	NO_ALIGNED	
+apretado	保留原文（复数 apretados）	empty	EMPTY	
+apsidal angle	拱点角	ok	NO_ALIGNED	
+Archeus	阿尔凯厄斯	ok	NO_ALIGNED	
+arithmetical completeness/soundness	算术完全性／算术可靠性	ok	NO_ALIGNED	
+eavesdropper	窃听者	ok	NO_ALIGNED	
+ecclesiology	教会论	empty	EMPTY	
+echolocation	回声定位	ok	ALIGNED_SAME	回声定位<=echolocation|动物学名词|7.0228|2021 ; 回声定位<=echolocation|生理学名词|12.058|2020 ; 回声定位<=echolocation|海峡两岸生态学名词|None|2013
+eclecticism	折衷主义	ok	ALIGNED_SAME	折衷主义<=eclecticism|海峡两岸地理学名词|None|2011
+ecological aesthetics	生态美学	ok	NO_ALIGNED	
+econometrics	计量经济学	ok	ALIGNED_SAME	计量经济学<=econometrics|经济学名词|10.045|2020 ; 计量经济学<=econometrics|社会学名词|1.2.5.150|2025
+ecotype	生态型	ok	ALIGNED_SAME	生态型<=ecotype|农学名词|06.034|2025 ; 生态型<=ecotype|风景园林名词|12.0015|2025 ; 生态型<=ecotype |草学名词|4.0635|2022
+egoism	利己主义	ok	ALIGNED_SAME	利己主义<=egoism|大数据百科术语辞典|None|暂无年份 ; 利己主义<=egoism|马克思主义|04.0293|2025
+Einfühlung	移情	empty	EMPTY	
+electric shock	电击	ok	ALIGNED_SAME	电击<=electric shock|电力名词|26.070|2020 ; 电击<=electric shock|建筑学名词|14.0493|2014 ; 电击<=electric shock|电气工程名词|29.027|1998
+electrophoresis	电泳	ok	ALIGNED_SAME	电泳<=electrophoresis|生物化学与分子生物学名词|11.0071|2024 ; 电泳<=electrophoresis|机械工程名词 第二分册|06.031|2021 ; 电泳<=electrophoresis|畜牧学名词|04.274|2020
+elementary embedding	初等嵌入	ok	NO_ALIGNED	
+elimination of opposite superimpositions	遮除对立增益	ok	NO_ALIGNED	
+empirical psychology	经验心理学	ok	ALIGNED_SAME	经验心理学<=empirical psychology|心理学名词|04.051|2014 ; 经验心理学<=empirical psychology|海峡两岸心理学名词|None|2016
+emptiness	空性	ok	ALIGNED_DIFF	放空<=emptiness|数学名词|011.0558|1993 ; 不真空<=Emptiness as Non-substantiality|中华思想文化术语传播工程|None|暂无年份 ; 空巢综合症<=emptiness syndrome，empty nest syndrome|社会学名词|3.15.5.3|2025
+emptiness charge	空洞指责	ok	NO_ALIGNED	
+empty reference	空指称	ok	NO_ALIGNED	
+en voyage	法文原文保留（永远在途中）	ok	NO_ALIGNED	
+end extension	真端扩张	ok	NO_ALIGNED	
+Enlightenment	启蒙（时代名，视语境亦作“启蒙运动”）	ok	ALIGNED_DIFF	启蒙运动<=Enlightenment|世界历史名词|03.0451|2012 ; 巴西启蒙运动<=Enlightenment in Brazil|世界历史名词|04.0707|2012 ; 西班牙美洲启蒙运动<=Enlightenment in Spanish America|世界历史名词|04.0576|2012
+ens inquantum ens	作为存在的存在	ok	NO_ALIGNED	
+enthymematic	省略前提的（enthymeme → 省略三段论）	empty	EMPTY	
+enthymeme	省略三段论	empty	EMPTY	
+environmental ethics	环境伦理学	ok	ALIGNED_DIFF	环境伦理<=environmental ethics|风景园林名词|13.0011|2025 ; 环境伦理<=environmental ethics|生态学名词|13.004|2006
+epiclesis	呼求祷文	ok	NO_ALIGNED	
+Epicureanism	伊壁鸠鲁主义	empty	EMPTY	
+epidemic constitution	疫病体质	ok	NO_ALIGNED	
+epidemiology	流行病学	ok	ALIGNED_SAME	流行病学<=epidemiology|感染病学名词|01.0278|2019 ; 流行病学<=epidemiology|核医学名词|01.0037|2018 ; 流行病学<=epidemiology|全科医学与社区卫生名词|06.002|2014
+epiphenomenal	副现象的（副现象主义）	ok	NO_ALIGNED	
+epistemic community	认知共同体	ok	NO_ALIGNED	
+epistemic luck	认知运气	ok	NO_ALIGNED	
+epistemic parity	认知对等	ok	NO_ALIGNED	
+epistemic transparency	认知透明性	ok	NO_ALIGNED	
+epistemology of law	法律认识论	ok	NO_ALIGNED	
+equinumerous	等势	empty	EMPTY	
+equivalence class	等价类	ok	ALIGNED_SAME	等价类<=equivalence class|数学名词|01.0120|1993
+equivalence relation	等价关系	ok	ALIGNED_SAME	等价关系<=equivalence relation|管理科学技术名词|02.0466|2016 ; 等价关系<=equivalence relation|数学名词|01.0119|1993 ; 等价关系<=equivalence relation|海峡两岸信息科学技术名词|None|2008
+Ereignis	事件（伽达默尔语境；“居有事件”）	empty	EMPTY	
+Erlebnis-Ästhetik	体验美学	ok	NO_ALIGNED	
+esotericism	秘传主义	empty	EMPTY	
+esse apparens	显在存在	ok	NO_ALIGNED	
+essential predication	本质述谓	ok	NO_ALIGNED	
+essential property	本质属性	ok	NO_ALIGNED	
+est negandum	必须否认	ok	NO_ALIGNED	
+Estates Assembly	等级议会	ok	NO_ALIGNED	
+Estates General	三级会议	ok	NO_ALIGNED	
+eternal return	永恒回归	ok	NO_ALIGNED	
+ethnographic analogy	民族志类比	ok	NO_ALIGNED	
+eudaimonism	幸福论	empty	EMPTY	
+evaluation system	评价系统	ok	ALIGNED_DIFF	信息安全等级保护测评系统<=evaluation system of classified protection of information security|大数据百科术语辞典|None|暂无年份
+evidence-transcending	越出证据的	ok	NO_ALIGNED	
+evidential support thesis	证据支持论题	ok	NO_ALIGNED	
+evil empire	邪恶帝国	ok	NO_ALIGNED	
+Ewam Choden	俄旺秋丹寺	ok	NO_ALIGNED	
+ex-stasis	出离（ex-stasis）	ok	NO_ALIGNED	
+exact science	精密科学	ok	NO_ALIGNED	
+excluded-middle sentence schema	排中语句图式	ok	NO_ALIGNED	
+exemplarism	范例论	ok	NO_ALIGNED	
+existential quantifier	存在量词	ok	ALIGNED_SAME	存在量词<=existential quantifier|数学名词|02.0056|1993 ; 存在量词<=existential quantifier|海峡两岸信息科学技术名词|None|2008
+exoteric	显白的	ok	NO_ALIGNED	
+expected value	期望价值	ok	ALIGNED_DIFF	期望值<=expected value|经济学名词|10.012|2020 ; 期望值<=expected value|药学名词|10.067|2014 ; 期望值判据<=expected value criterion|化学工程名词|05.175|1995
+experimenter demand effect	实验者需求效应	ok	NO_ALIGNED	
+explanans	解释项	ok	ALIGNED_DIFF	说明项<=explanans|自然辩证法名词|03.101|2024
+explanatory coherence	解释性融贯	ok	NO_ALIGNED	
+explicit definition	显式定义	ok	ALIGNED_DIFF	显定义<=explicit definition|自然辩证法名词|03.039|2024
+exploitation	剥削	ok	ALIGNED_SAME	剥削<=exploitation|经济学名词|02.057|2020 ; 剥削<=exploitation|马克思主义|03.0035|2025
+expressive power	表达力	ok	NO_ALIGNED	
+expressiveness	表现力（音乐的情感表现）	ok	ALIGNED_DIFF	表达能力<=expressiveness|新闻学与传播学名词|8.163|2022 ; 表达能力<=expressiveness|海峡两岸心理学名词|None|2016 ; 表现力<=expressiveness|奥运体育项目名词|None|2008
+extensionality	外延性	ok	ALIGNED_SAME	外延性<=extensionality|数学名词|02.0155|1993
+external contraction	外收缩	ok	NO_ALIGNED	
+external validity	外部效度	ok	ALIGNED_SAME	外部效度<=external validity|管理科学技术名词|04.0516|2016 ; 外部效度<=external validity|心理学名词|03.226|2014
+external weakening	外弱化	ok	NO_ALIGNED	
+external-realist	外境实在论的	ok	NO_ALIGNED	
+extrapolation	外推	ok	ALIGNED_SAME	外推<=extrapolation|物理学名词|01.0196|2019 ; 外推<=extrapolation|化工名词(三)化学工程基础|05.0045|2019 ; 外推<=extrapolation|化学工程名词|07.046|1995
+extraversion	外向性	ok	ALIGNED_DIFF	外向<=extraversion|心理学名词|02.759|2014 ; 外向<=extraversion|海峡两岸心理学名词|None|2016
+factorization	因式分解	ok	ALIGNED_SAME	因式分解<=factorization|数学名词|04.0531|1993
+faculty psychology	官能心理学	ok	ALIGNED_SAME	官能心理学<=faculty psychology|心理学名词|04.099|2014 ; 官能心理学<=faculty psychology|海峡两岸心理学名词|None|2016
+fairness norm	公平规范	ok	NO_ALIGNED	
+fallibilism	可错论	ok	ALIGNED_SAME	可错论<=fallibilism|自然辩证法名词|03.151|2024 ; 可错论<=fallibilism|自然辩证法名词|03.151|2025
+falsafa	法尔萨法；哲学（按语境：术语名音译，行文通译“哲学”）	ok	NO_ALIGNED	
+falsificationism	证伪主义	ok	NO_ALIGNED	
+feminist epistemology	女性主义认识论	ok	NO_ALIGNED	
+feminist pornography	女性主义色情	ok	NO_ALIGNED	
+fermentation	发酵	ok	ALIGNED_SAME	发酵<=fermentation|食品科学技术名词|02.0462|2020 ; 发酵<=fermentation|植物学名词|11.0283|2019 ; 发酵<=fermentation|药学名词|05.290|2014
+festival	节日（节庆；festive celebration 节庆）	ok	ALIGNED_DIFF	节庆景观<=festival celebration landscape|风景园林名词|04.0197|2025 ; 音乐节<=festivals|海峡两岸音乐名词|None|2016 ; 岁时节日<=festival|民族学与文化学名词|4.0169|2025
+fictionality	虚构性	ok	NO_ALIGNED	
+fiduciary relationship	信义关系	ok	NO_ALIGNED	
+figure of the Earth	地球形状	ok	ALIGNED_SAME	地球形状<=figure of the earth|海峡两岸天文学名词|None|2013
+finite model property	有穷模型性质	ok	NO_ALIGNED	
+First / Later Diffusion of Buddhism	前弘期／后弘期	ok	ALIGNED_DIFF	上半场<=first half","first period|奥运体育项目名词|None|2008 ; 第一入境点<=first point of entry|新冠肺炎疫情相关词汇中英对照|None|2020 ; 第一回合!<=First round!|奥运体育项目名词|None|2008
