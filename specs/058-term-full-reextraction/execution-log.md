@@ -579,3 +579,10 @@
 * 原已撞形豁免 7 组（概念化、经验美学、历史化、错觉、宗（所立）、次级原因、社会建构论）确认不动；`拉丁原文保留` 为体例占位，非碰撞。
 * 凭证：`results/term-dup-triage-2026-11-24.md`；生成器 `bin/term_dup_triage_20261124.py`。
 * 落册：`registry_azsort` 术语表 8,262 守恒；`check_all` 17 项全绿。
+
+## 2026-11-24：术语依据补证 批次 1（50 行）
+
+* 对象：依据列不足 25 字的行，A–Z 前 50（不含书名行、占位行）；通道 `tl_jwt_crawl` JWT 直连 termonline-all，5 s 间隔 1 worker。
+* 结果：6 行获审定硬凭证（absolutism、action at a distance、algebraic semantics、alternating Turing machine、anaphora、anorexia nervosa）；4 行记不改理由（ad hoc 下位、agreeableness 对照库、antecedent/consequent 异义、accuracy 异域）；40 行确认审定无对口收录。无译法变更。
+* 凭证：`results/termonline-b1-2026-11-24.md`＋`.tsv`；工具 `bin/term_evidence_batch.py`、`bin/term_evidence_batch1_patch.py`。
+* 落册：术语表 8,262 守恒；`check_all` 17 项全绿。下批 100 行。

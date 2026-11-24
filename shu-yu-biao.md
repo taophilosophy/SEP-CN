@@ -56,7 +56,7 @@
 | absolute term | — | 绝对词项 | ockham | 王路译本《逻辑大全》作“绝对的名”；与含蓄词项对偶；凭证 2026-11-07 | 2026-11-07 |
 | absolute time | — | 绝对时间 | newton-principia | 物理学通行（牛顿《原理》定义附释）；凭证 2026-11-11 | 2026-11-11 |
 | absoluteness | — | 绝对性 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·数学·数理逻辑·数学基础·集合论，2026-11-18 JWT 直连凭证） | 2026-11-19 |
-| absolutism | — | 绝对主义 | hobbes-moral 首译 | 学界通行；凭证 2026-11-09 | 2026-11-09 |
+| absolutism | — | 绝对主义 | hobbes-moral 首译 | 学界通行；凭证 2026-11-09；审定名词库（termonline-all·自然辩证法名词 03.139，2024）作“绝对主义”，与本行一致（2026-11-24 JWT 直连，凭证 termonline-b1-2026-11-24.tsv） | 2026-11-09 |
 | absolutism(space and time) | — | 绝对论 | newton-philosophy | 时空哲学通行（与关系论对举）；键形归一 2026-11-21：全角括注／斜线改半角（键须为源语形）；旧键 absolutism（space and time） | 2026-11-21 |
 | abstract artifact | — | 抽象人造物 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | abstract discourse | — | 抽象话语 | nominalism-metaphysics | 本词条核心术语（abstract discourse） | 2026-11-10 |
@@ -95,7 +95,7 @@
 | accountability | — | 问责 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·新闻学与传播学·媒体与传播法·媒体责任与公共服务，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | accounting price | — | 核算价格 | ramsey-economics | 学界惯例（von Weizsacker 1965；社会成本收益分析）；凭证 2026-11-11 | 2026-11-11 |
 | accumulation | — | 积累 | 语料回收（specs/050 候选池） | 条目语境研判（认识论通行积累（知识积累）；审定“蓄积作用”为毒理学义）；审定名词库（termonline-all·兽医学·兽医毒理学，2026-11-18 JWT 直连凭证，审定作“蓄积作用”） | 2026-11-19 |
-| accuracy/adroitness/aptness | — | 准确性／灵巧性／恰当性 | knowledge-analysis | 索萨 AAA 模型通行译法 | 2026-11-05 |
+| accuracy/adroitness/aptness | — | 准确性／灵巧性／恰当性 | knowledge-analysis | 索萨 AAA 模型通行译法；（2026-11-24 复核）审定库“accuracy＝准确度”属农学、兽医、地球物理异域同形；索萨 AAA 术语不改 | 2026-11-05 |
 | acedia | — |灵性倦怠（亦作“怠惰”）| paradox-of-tragedy | 学界惯例（中世纪灵修术语；亦作“怠惰”备查）；凭证 2026-11-10 | 2026-11-10 |
 | Ackermann function | — | 阿克曼函数 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·计算机科学技术·理论计算机科学·可计算性与计算复杂性，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | acknowledgement (Anerkennung) | Anerkennung | 承认 | brentano-judgement 首译 | 布伦塔诺术语通行译法（与拒绝 Verwerfung 对举）；凭证 2026-11-09；撞形豁免 2026-11-21：同形异语／同概念异形，按条目语境区分，不合并 | 2026-11-21 |
@@ -105,7 +105,7 @@
 | act of assertion (Behauptung) | — | 断言行为 | reinach | 学界惯例（言语行为理论通行）；凭证 2026-11-09 | 2026-11-09 |
 | act-utilitarianism / act utilitarianism | — | 行为功利主义（亦作“行为功利论”） | godwin | 功利主义分类标准译名；2026-11-09 合并同键变体（来源列并双 slug）；2026-11-15 联网复核补亦作（审定形“行为功利论”；“行动功利主义”为少数译本形，账留不堆叠）；2026-11-23 合并同日重复登记形（同概念异拼写：act utilitarianism） | 2026-11-15 |
 | action | — | 行动 | 语料回收（标题词） | 学界惯例（语料回收（标题词，specs/011 主题词汇解析 a/action））；凭证 2026-11-04 | 2026-11-04 |
-| action at a distance | — | 超距作用 | newton | 物理学通行；凭证 2026-11-08 | 2026-11-08 |
+| action at a distance | — | 超距作用 | newton | 物理学通行；凭证 2026-11-08；审定名词库（termonline-all·自然辩证法名词 03.399，2024，物理学哲学）作“超距作用”，与本行一致（2026-11-24 JWT 直连，凭证 termonline-b1-2026-11-24.tsv） | 2026-11-08 |
 | action quantum | — | 量子作用（亦作“作用量子”） | bohr-correspondence 首译 | 审定名词库（termonline-all·物理学名词·量子理论，2026-11-08 浏览器通道凭证，en=quantum of action 精确命中） | 2026-11-08 |
 | action theory | — | 行动理论 | anscombe 首现 | 学界惯例（行动哲学核心分支）；凭证 2026-11-12 | 2026-11-12 |
 | action-centred commitment | — | 以行动为中心的承诺 | faith | 学界通行（McKaughan 2016 术语）；凭证 2026-11-11 | 2026-11-11 |
@@ -126,7 +126,7 @@
 | actualist | — | 现实论者 | risk | 本词条首译（与期望效用进路对举的实际后果评价方案）；凭证 2026-11-09；逐行研判 2026-11-21：词族对齐 actualism＝现实论 | 2026-11-21 |
 | actuality | — | 现实性 | 语料回收（specs/050 候选池） | 条目语境研判（哲学通行现实性（亚里士多德 energeia/virtus 潜能对偶）；审定“现实”义近；abrabanel/adorno 等语境）；审定名词库（termonline-all·自然辩证法·自然哲学·基本概念，2026-11-18 JWT 直连凭证，审定作“现实”） | 2026-11-19 |
 | actualization | — | 现实化 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
-| ad hoc | — | 特设性的 | god-necessary-being | 学界通行（特设假设/特设性） | 2026-11-09 |
+| ad hoc | — | 特设性的 | god-necessary-being | 学界通行（特设假设/特设性）；（2026-11-24 复核）审定库仅收下位“ad hoc hypothesis 特设性假说”（自然辩证法名词 06.191，2024），非本词条；现行“特设性的”不改 | 2026-11-09 |
 | ad hominem | — | 人身攻击 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | adaptation | — | 适应 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·自然辩证法·总论·自然图景，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | adaptationism | — | 适应主义 | 语料回收（标题词） | 学界惯例（语料回收（标题词，specs/011 主题词汇解析 a/adaptationism））；凭证 2026-11-04 | 2026-11-04 |
@@ -210,7 +210,7 @@
 | AGM theory | — | AGM 理论 | belief-merging | AGM 研究通行（Alchourrón–Gärdenfors–Makinson 缩写不译）；凭证 2026-11-10 | 2026-11-10 |
 | agnosticism | — | 不可知论 | 语料回收 | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
 | agonism | — | 对抗论 | grotius | 本词条译名（Schneewind 论格劳秀斯把冲突不可根除之说引入伦理学）；凭证 2026-11-12 | 2026-11-12 |
-| agreeableness | — | 宜人性 | justice-moral-psych | 大五特质通行汉译；凭证 2026-11-10 | 2026-11-10 |
+| agreeableness | — | 宜人性 | justice-moral-psych | 大五特质通行汉译；凭证 2026-11-10；（2026-11-24 复核）审定库（海峡两岸心理学名词，2016）作“亲和性”，系对照库非审定公布库，且与大陆大五人格通行“宜人性”不合；现行译法保留 | 2026-11-10 |
 | Agrippa's trilemma | — | 阿格里帕三难 | epistemology-latin-america 首译 | 学界通行（trilemma 三难） | 2026-11-11 |
 | ahaṃkāra | अहंकार | 我慢（亦作“我慢”） | yogacara 首译 | 数论派通行译“我慢”；作者英译 egoism/I-making；与 ātmamāna 我慢同形，正文括注原词消歧；凭证 2026-11-11；原文列联网查证：Monier-Williams《梵英辞典》ahaṃkāra 条（Cologne 数字词典天城体词头渲染）（2026-11-13 查，凭证 orig-verify-2026-11-13-b4.tsv）；旧键“ātmamāna”并入（2026-11-21 撞形处置） | 2026-11-21 |
 | āhāryāropa | आहार्यारोप | 假设性认知（假想赋予） | early-modern-india | 正理思择义译（counterfactual supposition；āropa 之限定形）；凭证 2026-11-10；正文随文作“假设性认知”（校 2026-11-11）| 2026-11-10 |
@@ -244,7 +244,7 @@
 | algebra of logic | — | 逻辑代数 | leibniz-logic-influence | 学界惯例（SUMMARY 定名沿用）；凭证 2026-11-03 | 2026-11-03 |
 | algebraic geometry | — | 代数几何 | 语料回收（specs/050 候选池） | 条目语境研判（条目语境与既有 absolute geometry=绝对几何 同族去“学”缀）；审定名词库（termonline-all·数学·代数学·代数几何学·代数几何学，2026-11-18 JWT 直连凭证，审定作“代数几何学”） | 2026-11-19 |
 | algebraic logic | — | 代数逻辑 | peirce-benjamin | 逻辑史通行译名（与“数学逻辑”“逻辑主义”分列）；凭证 2026-11-09 | 2026-11-09 |
-| algebraic semantics | — | 代数语义 | logic-fuzzy | 非经典逻辑通行译法；凭证 2026-11-09 | 2026-11-09 |
+| algebraic semantics | — | 代数语义 | logic-fuzzy | 非经典逻辑通行译法；凭证 2026-11-09；审定名词库（termonline-all·计算机科学技术名词 02.0875，2018，程序理论）作“代数语义”，与本行一致（2026-11-24 JWT 直连，凭证 termonline-b1-2026-11-24.tsv） | 2026-11-09 |
 | algêdôn | ἀλγηδών | 痛苦 | epicurus | 本词条译名（与 hêdonê 快乐对举） | 2026-11-12 |
 | algorithm | — | 算法 | s/social-procedures 首译 | 审定名词（计算机科学技术名词）；凭证 2026-11-07 | 2026-11-07 |
 | algorithmic complexity | — | 算法复杂性 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·自然辩证法·科学哲学·分支科学哲学·复杂系统科学哲学，2026-11-18 JWT 直连凭证） | 2026-11-19 |
@@ -261,7 +261,7 @@
 | allographic | — | 代笔的（autographic 亲笔的） | digital-art 首译 | 古德曼《艺术语言》分析美学通行（与亲笔的/代笔的对举）；凭证 2026-11-10 | 2026-11-10 |
 | allozyme | — | 等位酶 | ecological-genetics 首译 | 学界通行译名（区别于 isozyme“同工酶”）；凭证 2026-11-09 | 2026-11-09 |
 | alter ego | — | 他我 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
-| alternating Turing machine | — | 交替图灵机 | logic-dynamic | 计算复杂性通行译法；凭证 2026-11-10 | 2026-11-09 |
+| alternating Turing machine | — | 交替图灵机 | logic-dynamic | 计算复杂性通行译法；凭证 2026-11-10；审定名词库（termonline-all·计算机科学技术名词 02.0332，2018，可计算性与计算复杂性）作“交替图灵机”，与本行一致（2026-11-24 JWT 直连，凭证 termonline-b1-2026-11-24.tsv） | 2026-11-09 |
 | alternation of quantifiers | — | 量词交替 | axiom-choice（补充材料） | 数理逻辑通行（量词交错层级） | 2026-11-13 |
 | alternative set theories | — | 替代集合论 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | alternative splicing | — | 可变剪接 | genetics | 分子遗传学通行译名；凭证 2026-11-11（主会话直译 g/genetics） | 2026-11-11 |
@@ -306,7 +306,7 @@
 | analyticity | — | 分析性 | 语料回收（specs/050 候选池） | 条目语境研判（分析哲学核心词（与 analytic=分析的 词族一致）；审定“解析性”为数学义）；审定名词库（termonline-all·物理学·通类·数学，2026-11-18 JWT 直连凭证，审定作“解析性”） | 2026-11-19 |
 | anamnesis | — | 回忆（anamnesis） | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07；撞形豁免 2026-11-21：同形异语／同概念异形，按条目语境区分，不合并 | 2026-11-21 |
 | ananyathāsiddha | अनन्यथासिद्ध | 不由他立 | early-modern-india | 因明“不离他立/不由他立”传统义（causal relevance 条件）；凭证 2026-11-10 | 2026-11-10 |
-| anaphora | — | 回指 | dynamic-semantics | 学界通行；凭证 2026-11-12 | 2026-11-12 |
+| anaphora | — | 回指 | dynamic-semantics | 学界通行；凭证 2026-11-12；审定名词库（termonline-all·语言学名词 01.147，2011，理论语言学核心术语）作“回指”，与本行一致（2026-11-24 JWT 直连，凭证 termonline-b1-2026-11-24.tsv） | 2026-11-12 |
 | anaphoric index | — | 回指索引 | dynamic-semantics | 学界通行（DMG/ITL 形式语义）；凭证 2026-11-12 | 2026-11-12 |
 | anarchic hand | — | 异己手（anarchic hand） | bodily-awareness 首译 | 学界通行译名（身体意识与认知神经科学文献）；凭证 2026-11-07；FLAG 裁定 2026-11-21（联网凭证）：中文神经科学文献通作“异己手（综合征）”，anarchic hand 为其额叶型变体；删直译“无政府手” | 2026-11-21 |
 | anarchism | — | 无政府主义 | 语料回收（全目录） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
@@ -340,10 +340,10 @@
 | anomalism of the mental | — | 心理的异常性 | davidson 首译 | 与变异一元论（anomalous monism，termonline 定名 2026-10-27）同族取“变异”形；凭证 2026-11-10；FLAG 裁定 2026-11-21：与 anomalous monism 同族随审定形“异常”；anomalism＝无严格定律性，非“变异性” | 2026-11-21 |
 | anomalous monism | — | 异常一元论（亦作“变异一元论”） | 词汇表复核（源提交 48adaba4） | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）；FLAG 裁定 2026-11-21：审定名词库（termonline-all·自然辩证法·科学哲学·认知科学哲学）作“异常一元论”，主译从审定，旧形降亦作 | 2026-11-21 |
 | anonymity | — | 匿名 | 首现（it-moral-values） | 伦理学通行译名（信息技术语境）；凭证 2026-11-10 | 2026-11-10 |
-| anorexia nervosa | — | 神经性厌食 | george-eliot 首译 | 医学通行 | 2026-11-12 |
+| anorexia nervosa | — | 神经性厌食 | george-eliot 首译 | 医学通行；审定名词库（termonline-all·行为医学名词 16.192，2022；消化病学名词 1.08，2022）作“神经性厌食”，亦作“神经性厌食[症]”，与本行一致（2026-11-24 JWT 直连，凭证 termonline-b1-2026-11-24.tsv） | 2026-11-12 |
 | Anschauung | Anschauung | 直观 | yorck 首译 | 学界惯例（德国古典哲学通行，康德 Anschauung 直观）；凭证 2026-11-11；撞形豁免 2026-11-21：同形异语／同概念异形，按条目语境区分，不合并 | 2026-11-21 |
 | answered prayer | — | 蒙应允的祷告 | petitionary-prayer | 构词直译（answered 取“应允/垂听”义，与 effective“有效”区分）；凭证 2026-11-09 | 2026-11-09 |
-| antecedent/consequent | — | 前件／后件 | 语料回收（marsilius-inghen 首译） | 逻辑学通行译法；凭证 2026-11-06 | 2026-11-06 |
+| antecedent/consequent | — | 前件／后件 | 语料回收（marsilius-inghen 首译） | 逻辑学通行译法；凭证 2026-11-06；（2026-11-24 复核）审定库数学名词作“前项／后项”（04.0072／04.0073，1993），属代数几何异义；逻辑学“前件／后件”不改 | 2026-11-06 |
 | antelapsarian state | status ante lapsum | 堕落前状态 | evil-kinds-origins | 神学通行（亚当堕落前的状态） | 2026-11-12 |
 | Anthropocene | — | 人类世 | 首现（environmental-aesthetics） | 地质学通行（Crutzen 术语） | 2026-11-08 |
 | anthropocentrism | — | 人类中心主义（亦作“人类中心论”） | jaina-philosophy 首译 | 审定名词库（termonline-all·自然辩证法名词，2026-11-11 浏览器通道凭证）；环境伦理与印度哲学文献通用 | 2026-11-11 |
