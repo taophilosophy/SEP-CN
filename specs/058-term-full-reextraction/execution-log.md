@@ -564,3 +564,10 @@
 * 复核确认无误：鲍亨斯基（中译本署名，异形波亨斯基）、伯奇、贝尔纳普、安德森、巴威斯、埃切曼迪、阿克曼、霍尔、皮平、萨格登、盖尔斯敦、鲍尔多、高特、艾尔斯、利维、卡姆、扎克、科恩布里斯、斯特拉顿-莱克。
 * 附注：《物理主义》（华夏 2014）只作人名凭证，不另立书名行——与术语「物理主义」同形，登记会造中文主形碰撞；术语行已覆盖该概念。
 * 门禁：`registry_azsort` 人名表 4,897 守恒；`check_terms` 告警 770 条不变；`check_all` 17 项全绿。
+
+## 2026-11-24：人名译法重复 8 组裁定
+
+* 同人异键合并 4 组：Abraham Ibn-Dahoud→Abraham ibn Daud、Bhāvaviveka→Bhāviveka、Davies, Stephen 合写键→Davies, Stephen、Vidyānanda Pātrakesarisvāmin→Vidyānandin；删除行依据与 slug 并入保留行，人名表 4,897→4,893。
+* 同形异人交叉标注 4 组：Collins, John 两行、Menger Carl/Karl、Helen/Helene、Davis/Davies，均加“同译名异人，合法并存”与凭证；Wilkinson ×3 系 ADR-0022 作者引用组，不处置。
+* 凭证：`results/people-dup-triage-2026-11-24.md`；生成器 `bin/people_dup_triage_20261124.py`。
+* 落册：`registry_azsort` 4,893 守恒；`check_all` 17 项全绿。
