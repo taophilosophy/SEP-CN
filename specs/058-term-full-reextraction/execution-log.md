@@ -546,3 +546,10 @@
 * 查无汉名：Girard（线性逻辑中文文献径用原文）、Abramsky（博弈语义同）、Baltag／van Ditmarsch（刘奋荣《世界哲学》2010-3 参考书目用原文）。
 * 凭证：`results/people-cnweb-2026-11-24-b31.md`；生成器 `bin/make_rowspec_people31.py`。
 * 落册：定点改写 2 行；`registry_azsort` 守恒；`check_all` 17 项全绿。
+
+## 2026-11-24：中文世界核名收束（第二十五至三十一批）与查无汇总
+
+* 本段（第二十五至三十一批）共 21 行取中文定名、1 组同人异键合并（Kamm）。人名表 4,898→4,897。
+* 取定名者：鲍尔多、高特、艾尔斯、利维（Neil）、卡姆；萨格登、盖尔斯敦；皮平、科恩布里斯、斯特拉顿-莱克；张夏硕、斯图嘉、扎克；鲍亨斯基、伯奇、贝尔纳普、安德森（Alan Ross）、巴威斯、埃切曼迪；阿克曼、霍尔。
+* 查无汉名 16 人（Kittay、Saul、Colyvan、Thomasson、Risse、Huemer、Siegel、Brink、M. Friedman、Antony、Stilz、Bach、Copp、Bergmann、Girard、Abramsky、Baltag、van Ditmarsch 中仅 Kittay/Saul/Colyvan 有中译本线索），逐人结论见 `results/people-cnweb-2026-11-24-queryless.md`。
+* 仍保留英文原名 427 行，主体是逻辑学、计算机科学、语言学书目引用作者；后续不再逐条扫，改为「有新中译本/新期刊定名即按本批流程补证」的常态增量口径。
