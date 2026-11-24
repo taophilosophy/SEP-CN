@@ -25,5 +25,5 @@ for c in d['candidates']:
         c['status'] = 'published@2026-11-24（held 结算：词条已立册）'
         print('结算', c.get('en'), '->', c['status'])
         n += 1
-json.dump(d, io.open(p, 'w', encoding='utf-8', newline='\n'), ensure_ascii=False, indent=1)
+json.dump(d, io.open(p, 'w', encoding='utf-8', newline='\n'), ensure_ascii=False)
 print('resolved=%d' % n)
