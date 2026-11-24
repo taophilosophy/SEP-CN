@@ -2,7 +2,7 @@
   "slug": "johann-sturm",
   "kind": "retranslate",
   "zh_doc": "j/johann-sturm.md",
-  "state": "cleared",
+  "state": "r2_reviewed",
   "steps": [
     {
       "step": "clear",
@@ -80,6 +80,69 @@
       "actor": "task_ops",
       "at": "2026-11-10T15:19:13Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "s0",
+      "status": "ok",
+      "actor": "ZC-main-20261125",
+      "at": "2026-11-24T21:37:43Z",
+      "evidence": "方向确认（rules/08）：本件 2026-11-10 因语体不合规（文言/半文半白）reopen 并置空，本会话按现代汉语学术书面语全量重译（ADR-0033＋用户裁定），目标推至 r2_reviewed（r3 待授权）。非目标＝不改 en/（ADR-0062）、不动基线、不批量改他篇。验收判据＝lq check HARD=0、四检 strict 全绿、check_prose 归零、check_terms 定点 0 硬错误、check_pairs 尾序合规。s0 审计：en_integrity problems=[]；en_source_audit hard=0、warn 1（上游 References h2→h4，compose 期归一）；version_pin pubinfo Jan 31 2024／Spring 2024／sha256 63c3861c…。重译批登记：人物 24 行（家室与师友，前轮已登 36 行不重复）、术语 30 行、著作 8 行（检索通道不可用，依据栏改用学界通行/本库统一形，不写检索凭证）。"
+    },
+    {
+      "step": "draft",
+      "status": "ok",
+      "actor": "ZC-main-20261125",
+      "at": "2026-11-24T21:57:55Z",
+      "evidence": "draft 全量重译（语体返工）：76 段（body 72／oir 1／note 3）step1+step2 双版全填，lq check 守恒 HARD=0；修账本源同一性缺陷 3 处（段 28/75/76 旧轮剥掉嵌套脚注标记，按 yuanwen 原文回补，2026-11-25）；compose 写回 27,992 字符／10,013 汉字；斜体题名照录；note 段译文保留嵌套 [^key] 引用以维链。"
+    },
+    {
+      "step": "s1",
+      "status": "ok",
+      "actor": "ZC-main-20261125",
+      "at": "2026-11-24T21:58:38Z",
+      "evidence": "s1 对照核销：标题 17（H1＋3 节＋4 子节＋参考文献及 5 个三级/四级书目节＋学术工具＋其他网络资源＋相关词条＋脚注）；正文段 72:72、note 3:3、oir 1:1；内联 marker 30 与源一致（人工排除模板 [^key] 字样），defs 62 键集一致、无缺无多；相关词条 8 项（Boyle／Cordemoy／Descartes／La Forge／Leibniz／Malebranche／occasionalism／Wolff）全按 SUMMARY 汉化；H1 与 SUMMARY 一致（施图尔姆＋原文作者）。"
+    },
+    {
+      "step": "s2",
+      "status": "ok",
+      "actor": "ZC-main-20261125",
+      "at": "2026-11-24T21:59:13Z",
+      "evidence": "s2 语言优化（全篇现代汉语学术语体，针对 2026-11-10 文言返工令）：check_prose 初跑 17 警→逐条实修 17 处（long-sentence 7：段16/18/19/21/30/64/65 拆句或改列表式；de-chain 5：段48/64/65/69/71 改写；weak-verb 2：段35/51；passive-bei 2：段68 两处改主动式；conj-he-verb 1：段48）。另通读剔除文言残留 8 处：「此责半中」→「此责部分成立」、「新猷」→「新事物」、「揄扬」→「称许」、「所憾者」→「他遗憾的是」、「梓行/付梓」→「刊行」、「黜假」→「去其假」、「经院学者休矣」→「此处与经院学者相左」、「身分」→「身份」；统一译名「哈姆贝格尔」（原一处误作哈姆贝尔格）。终跑 issues=[]。"
+    },
+    {
+      "step": "s24",
+      "status": "ok",
+      "actor": "ZC-main-20261125",
+      "at": "2026-11-24T22:00:10Z",
+      "evidence": "s24 术语轴：check_terms --docs 硬错误 0、正文缺登记译法 0。初跑 10 告警逐条定性并处置（D1 采登记形，文本回改而非改册）：①Cartesianism→「笛卡尔主义」；②Gassendism→「伽桑狄主义」（宗派形并存作 secta Gassendica＝伽桑狄主义派）；③potentia respectiva & hypothetica→「相对能力与假设能力」；④sine qua non cause→「必要条件因」（原「缺之不然」全部回改）；⑤Kircher→「阿塔纳修斯·基歇尔」；⑥Lana de Terzi→「弗朗切斯科·拉纳·德·泰尔齐」；⑦Mariotte→「埃德姆·马略特」；⑧Ramus→「皮埃尔·德·拉梅」；⑨Scaliger→「尤利乌斯·凯撒·斯卡利杰」；⑩Schelhammer→「京特·克里斯托夫·舍尔哈默」。本批新登记：术语 30 行（被动形式、主动本原、局部运动、月上世界、运动守恒、心身联合、前苏格拉底、笛卡尔主义、伽桑狄主义、炼金术、医药化学派、路德宗、反宗教改革、拉丁学校、抽气机、历书、假说、实验方法、奥卡姆剃刀、绝对能力、相对能力与假设能力、要求因、physica 三分、讲习班等）＋著作 8 行＋人物 24 行（家室、师友、学生；检索通道不可用，依据栏用学界通行/本库统一形，未写检索凭证）。"
+    },
+    {
+      "step": "s25",
+      "status": "ok",
+      "actor": "ZC-main-20261125",
+      "at": "2026-11-24T22:00:43Z",
+      "evidence": "s25 全局一致性（s2.5），审计采用冷置回读补偿同源盲区：compose 与初校后搁置重读全篇，并作密度统计（「的」密度、术语重复密度、长句占比）。结果：17 标题层级与源一致（H1／1–3 节／1.1–1.2／参考文献及书目五节／学术工具／其他网络资源／相关词条／脚注）；二级标题点号式（1.–3.）；尾序 参考文献＞学术工具＞其他网络资源＞相关词条＞脚注 合规（check_pairs issues=[]，脚注按 ADR-0063 移末位）；高频术语全篇同形（偶因论、被动形式、物质样态、目的因、折衷主义、宗派哲学、缺之不然＝必要条件因）；卷页引文（PE I: 164／CPMS: 3f 等）与源逐一核对；书目五节标题汉化，正文照录。"
+    },
+    {
+      "step": "s3",
+      "status": "ok",
+      "actor": "ZC-main-20261125",
+      "at": "2026-11-24T22:01:16Z",
+      "evidence": "s3 体例终校：check_style --docs --strict issues=[]；check_pairs issues=[]；check_summary HARD 0、H1 残差 0；check_academic --strict OK；check_math formulas=0；check_prose issues=[]；check_bold_collapse 候选 0。体例核查：弯引号全覆盖、中西文半角空格、连接号（1635–1703、1694–1695、1521–1526 等）一字线统一、拉丁括注斜体、引文块 > 前缀保留、脚注块移末位、书目照录不译。"
+    },
+    {
+      "step": "r1",
+      "status": "ok",
+      "actor": "ZC-main-20261125",
+      "at": "2026-11-24T22:02:13Z",
+      "evidence": "r1 初审（冷置回读·受众适切性）：以哲学专业本科生为预设读者通读全篇。拉丁术语首现均汉译＋原形括注：concionator（宫廷牧师）、fideliter（忠实）、supponuntur verius & conjiciuntur（只是猜测）、deducuntur／verosimiliter／evadent（推出／仿佛真实地／上升）、sibi sumere（采纳）、Doctorum／sustineant（师长／职志）、inventa／tradita／dicteria（发现／传下／妙语）、humani ingenii／imbecillitatem（人心／薄弱）、junctis viribus／communicato consilio（合力／共议）、ex cathedra（讲坛）、sceptios ac dubitatores（怀疑派与怀疑者）、res extensa（纯广延）、Opificem naturae Sapientissimum（最智慧的自然创造者）、virtutem／per／efficiat、causam exigentem（要求因）、potentia absoluta（绝对能力）、sine quibus non（必要条件因）、physica generalis／specialis／specialissima、collegia（讲习班）、secta 四派。年代与卷页（PE I: 164、CPMS: 3f、DSE: 7f 等）一律随文括注。判定：适切。"
+    },
+    {
+      "step": "r2",
+      "status": "ok",
+      "actor": "ZC-main-20261125",
+      "at": "2026-11-24T22:03:04Z",
+      "evidence": "r2 复审（连贯性·逐段回核 en）：① 逻辑链完整——导语（折衷论者＋三大支柱）→1 生平（家世→耶拿／莱顿→教席→身后评价→三部物理学）→1.1 思想来源（前苏格拉底→教父→希腊／拉丁注家→经院诸家→人文主义与实验科学家→十七世纪）→1.2 莱布尼茨与沃尔夫接受（De Ipsa Natura 论战→被动形式之争→沃尔夫序）→2 三步方法（现象→假说→折衷遴选，含好假说五标准、折衷主义申辩、船喻）→3 偶因论（被动形式→三难→上帝要求因与相对能力→必要条件因→与马勒布朗士之别→目的因与自然律边缘化），无缺节、无跳步；② 承转复核：1.2 末「为补此阙」接沃尔夫书目指引，2 节船喻收束全节，3 节三问（1）（2）（3）逐层推进；③ 引文与卷页 15 处逐一对照源文无误；④ 脚注 3 条（note-1 生平、note-2 方法、note-3 折衷）位置与内容对应正文标记。判定：连贯合格。"
     }
   ],
   "blockers": [],
