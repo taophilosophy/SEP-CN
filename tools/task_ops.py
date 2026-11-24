@@ -6,7 +6,10 @@
 状态机（retranslate）:
   pending → cleared → s0_source_checked(源审计前置) → drafted → s1_checked
           → s2_checked → s2.4_termchecked(术语校) → s2.5_checked(审计已译)
+          → q1_cite_checked → q2_logic_checked → q3_grammar_checked
+          → q4_register_checked → q5_measure_checked → q6_punct_checked
           → s3_checked → r1_reviewed → r2_reviewed → r3_reviewed → done
+  q1–q6（ADR-0079）：六轴独立工序，advance 时按步挂对应扫描器 --gate。
 状态机（update）已删除（ADR-0068 W5）：零任务使用，上游修订走 reopen --upstream-sync。
 禁止跳步；blocked 标志独立于状态，解除用 advance --unblock。
 合法前驱由 ORDER 单一事实源推导（expected_prev）：目标态不属于该任务 kind 的
@@ -218,6 +221,8 @@ def advance(slug, step, actor, evidence, unblock=False, mandate=""):
         raise PreconditionError(
             "进三校前必须已有源审计记录（s0，ADR-0052）：在途件先跑 "
             "task_ops.py source-audit 补课（specs/036），新件先 advance --step s0")
+    if step in AXIS_TOOL and task.get("kind") != "glossary-maintenance":
+        _axis_gate(step, task.get("zh_doc"))
     if step == "s25" and task.get("kind") != "glossary-maintenance":
         # 三轴并挂（ADR-0063 2026-11-17 补记）：受控回退的目标态是
         # s2.4_termchecked（视为该 checkpoint 已完成），随后 normal 推进即 s25，
@@ -244,6 +249,30 @@ def _clear_gate(slug):
     ok, report = baseline_audit.gate_passes(slug)
     if not ok:
         raise PreconditionError("基线 gate 未通过: %s" % json.dumps(report, ensure_ascii=False))
+
+
+AXIS_TOOL = {"q1": "cite_audit.py", "q2": "logic_audit.py",
+             "q3": "grammar_audit.py", "q4": "register_audit.py",
+             "q5": "measure_audit.py", "q6": "punct_audit.py"}
+
+
+def _axis_gate(step, zh_doc):
+    """q1–q6 校次挂钩（ADR-0079）：对应扫描器 --gate，未裁定/未登记即拦。
+
+    机检只筛，人审为判：--gate 通过只证明清单与裁决字段齐备，不证明内容合格。
+    无 zh_doc（词汇表维护等）不设门。
+    """
+    if not zh_doc:
+        return
+    tools_dir = _os.path.join(_os.path.dirname(_os.path.dirname(_os.path.abspath(__file__))),
+                              "tools")
+    script = AXIS_TOOL[step]
+    r = subprocess.run([sys.executable, _os.path.join(tools_dir, script),
+                        zh_doc, "--gate"], capture_output=True, text=True,
+                       encoding="utf-8", errors="replace")
+    if r.returncode == 1:
+        raise PreconditionError("%s 门禁未通过（ADR-0079 六轴工序）：%s"
+                                % (step, (r.stdout or r.stderr).strip()[-800:]))
 
 
 def _term_gate(zh_doc):

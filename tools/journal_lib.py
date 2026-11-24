@@ -22,6 +22,7 @@ from tools.common import read_text, repo_path, write_text_verified  # noqa: E402
 NODE_MAP = {
     "s0": "s0", "draft": "draft", "s1": "s1", "s2": "s2",
     "s24": "s2.4", "s25": "global", "audit": "global", "s3": "S3",
+    "q1": "q1", "q2": "q2", "q3": "q3", "q4": "q4", "q5": "q5", "q6": "q6",
     "r1": "R1", "r2": "R2", "r3": "R3",
 }
 
@@ -33,6 +34,12 @@ NODE_TO_STATE = {
     "s2": "s2_checked",
     "s2.4": "s2.4_termchecked",
     "global": "s2.5_checked",
+    "q1": "q1_cite_checked",
+    "q2": "q2_logic_checked",
+    "q3": "q3_grammar_checked",
+    "q4": "q4_register_checked",
+    "q5": "q5_measure_checked",
+    "q6": "q6_punct_checked",
     "S3": "s3_checked",
     "R1": "r1_reviewed",
     "R2": "r2_reviewed",
