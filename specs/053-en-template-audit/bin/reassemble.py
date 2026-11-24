@@ -359,7 +359,15 @@ def restore_links(line):
 
 
 def _unsubsup(s, rev, tag):
-    """连续同族上/下标字形段 → 单个 <sup>/<sub> 标签（C 只在整段可映射时产字形）。"""
+    """连续同族上/下标字形段 → 单个 <sup>/<sub> 标签（C 只在整段可映射时产字形）。
+
+    若该字符在按件 `entities` 账里（H0 原位就是实体形，如 `&sup2;`），不转
+    标签——留给 `encode_outside_math` 发回实体（kant-science `mv²` 判例：
+    H0 是 `&sup2;` 而 C 的 md 是裸 `²`，转 `<sup>2</sup>` 即错）。"""
+    if not rev:
+        return s
+    _keep = set(_EM or {})
+    rev = {c: n for c, n in rev.items() if c not in _keep}
     if not rev:
         return s
     cls = "".join(re.escape(c) for c in rev)
