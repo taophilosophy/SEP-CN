@@ -512,7 +512,7 @@ def _render_bib(bib, hid_map, ledger):
         _hname = _rname
         _hhid = hid_map.get(id(bib[0])) or "Bib"
     parts = ['\n<div id="bibliography">\n\n%s\n\n'
-             % heading_tag(_hlv, _hhid, _hname)]
+             % heading_tag(_hlv, _hhid, _enc(_hname, ledger))]
     body = bib[1:]
     items = []
     for b in body:
@@ -618,10 +618,11 @@ def _render_bib(bib, hid_map, ledger):
                     # 常规空行分隔——该片段自带尾随空白（hobbes-science 判例）
                     _bt = bh[bhi[0] - 1][3] if (bhi[0] - 1 < len(bh)
                                                 and len(bh[bhi[0] - 1]) > 3) else ""
+                    _hname_enc = _enc(name, ledger)
                     if _bt:
-                        parts.append(heading_tag(lv, hid, name) + _bt)
+                        parts.append(heading_tag(lv, hid, _hname_enc) + _bt)
                     else:
-                        parts.append("%s\n\n" % heading_tag(lv, hid, name))
+                        parts.append("%s\n\n" % heading_tag(lv, hid, _hname_enc))
             elif kind == "table":
                 if tb_i[0] < len(tables):
                     parts.append("%s\n\n" % tables[tb_i[0]])

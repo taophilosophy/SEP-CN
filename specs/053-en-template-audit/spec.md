@@ -498,7 +498,7 @@ B3.2 的 sha 全等清单即 OAIS fixity 账的实现形态；与 ADR-0076 已�
 | 判据 | 现状 | 取数命令 |
 | ---- | ---- | ---- |
 | B3.1 往返不动点 | **1,660/1,873（88.6%）**，第二十一批 +14（sup/sub 实体拼写右逆）、第二十五批 +1、第三十一批 +1（URL 白名单）、第三十二批 +13（pubinfo 行位假设）、第三十四批 +1（空作者 meta＋词内锚兜底）、第三十八批 +7（格内转义管道分格）；转红 3（W8 键名漂移，定案见下） | `python -B specs/053-en-template-audit/bin/reassemble.py --all --out <json>` |
-| B3.2 页面装配 | **pool 1,807（96.5%）／gap 66／stale 0**，池占页 49.45%（2026-11-24 第三十八批全量重建＋全量 judge 双通道收官） | `python -B specs/053-en-template-audit/bin/page_assemble.py --all --build` |
+| B3.2 页面装配 | **pool 1,807（96.5%）／gap 66／stale 0**，池占页 49.44%（2026-11-24 第三十九批全量重建＋全量 judge 双通道收官） | `python -B specs/053-en-template-audit/bin/page_assemble.py --all --build` |
 | I2/I3 转换保真 | `--gate` 0 issue（1,873 全过） | `python -B tools/check_yuanwen_fidelity.py --gate` |
 | 全库门禁 | check_all 17 项全绿 | `python -B tools/check_all.py` |
 

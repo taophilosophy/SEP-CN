@@ -514,3 +514,10 @@ B3.1 回归：不动点 **1,435/1,873（76.6%）**（此前 1,240，＋195，无
 **修法**：新增 `_split_pipe_cells`：按**未转义** `|`（`(?<!\\)\|`）分格，再去首尾空段、把 `\|` 还原为格内字面管道；两处调用点统一。B3.1 判官同走此路，往返亦受益。
 **实测**：md 含 `\|` 的 16 页（14 主档＋2 补件）；定点 14 件 **8 转池／0 失池**（aristotle-mathematics／descriptions／desert／information-entropy／jayaraasi／reasoning-automated／spinoza-attributes／william-jevons）。全量双通道 **pool 1,799→1,807（96.5%）／gap 74→66／stale 0**，池占页 **49.45%**，judge 与建池逐件同值；delta＝gap→pool 8、**失池 0**；**B3.1 1,653→1,660（+7，含 qt-quantcomp）0 转红**；check_all 17 项全绿。缺口分族刷新 md_extra 29／h0_extra 12／math 10／text 7／star 3／digit 3／entity 2，md_extra 子族 table 13→5。
 **教训**：①md 的转义字符必须在**分格前**参与判定，“先分格后还原”必然错位；②同一行两个分格器（`_pipe_rows` 与 `_pipe_rows_collect`）必须抽公共函数，否则改一处漏一处的故障面不可见；③B3.1 判官不传账却共享同一 md 解析路，R 侧纯解析修复会同时抬高两条验收线。
+
+## 2026-11-24 第三十九批：书目区标题实体编码（池 1,807 持平、池 −11.2 KB）
+
+**缺陷**：书目区 `<h2>/<h3>` 由账 `bib_heads` 文字直接发 `heading_tag`，**不经实体策略编码**——账存解码文字（`Heytesbury’s`），派生的 `entities` 账在，但发射端没消费，装配页留原字形而 H0 一律实体（`&rsquo;`，heytesbury 判例）。全库 H0 标题**零原字形、1,145 处全实体（528 页）**，可统一编码。
+**修法**：`article_build` 两处书目区标题发射（区标题与 `bib_seq` 的 h 分支）套 `_enc(name, ledger)`（按件实体策略）。
+**实测**：受影响面＝`bib_heads` 含非 ASCII 的 **156 件**，定点重建 **150 pool／6 gap、与原状态逐件相同（0 转池 0 转红）**；149 个池文件字节收缩，池总量 **116,674,872→116,663,627 B（−11,245）**。全量双通道 **pool 1,807／gap 66／stale 0**，judge 与建池同值；**B3.1 1,660 不变**（judge 走 `convert_from_parts`，不经 article_build）；check_all 17 项全绿。
+**教训**：①“账里有 + 策略在”不等于“发射端消费了”——凡不经 `_inline_md_to_html` 的账文字路径都要显式过 `_enc`；②零转池的纯保真修复也须全量双通道（149 池文件重写后不重扫即与记录脱节）；③用“H0 标题零原字形”的全库普查结果给统一编码背书，而不是按判例拍板。
