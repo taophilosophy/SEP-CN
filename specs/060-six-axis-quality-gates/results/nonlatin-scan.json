@@ -63,6 +63,22 @@
    "no_gloss": 0
   }
  },
+ "sentence_level": {
+  "rule": "quote spans >=4 chars for totals; sentence = >=40 chars and >=6 words; unclassified-latin/latin-diacritic excluded from non-English",
+  "all_quote_spans": 151424,
+  "sentence_quote_spans": 34450,
+  "confident_nonenglish": 314,
+  "ratio_pct": 0.91,
+  "by_lang": {
+   "latin": 161,
+   "german": 79,
+   "greek": 34,
+   "french": 20,
+   "cjk": 17,
+   "italian": 2,
+   "spanish": 1
+  }
+ },
  "top_entries": [
   [
    "ibn-gabirol",

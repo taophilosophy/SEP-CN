@@ -149,23 +149,32 @@ def scan_entry(path):
     m = BIB_HEAD_RE.search(txt)
     body = txt[:m.start()] if m else txt
     found, emph = [], []
+    stats = {"quotes": 0, "sent": 0, "sent_confident_non": 0}
     for mt in QUOTE_RE.finditer(body):
         s = URL_RE.sub(" ", mt.group(1)).strip()
+        if len(s) < 4:
+            continue
+        stats["quotes"] += 1
+        is_sent = len(s) >= 40 and len(s.split()) >= 6
+        if is_sent:
+            stats["sent"] += 1
         lg = lang_of(s)
+        if is_sent and lg not in ("none", "unclassified-latin", "latin-diacritic"):
+            stats["sent_confident_non"] += 1
         if lg in ("none",):
             continue
         if lg == "unclassified-latin" and not DIACITRIC_RE.search(s):
             continue  # 纯英文引号片段不计
         found.append({"slug": slug, "lang": lg,
                       "gloss": has_gloss(body, mt.end()),
-                      "len": len(s), "sample": s[:90]})
+                      "len": len(s), "words": len(s.split()), "sample": s[:90]})
     for mt in EMPH_RE.finditer(body):
         s = URL_RE.sub(" ", mt.group(1)).strip()
         lg = lang_of(s)
         if lg not in ("none", "unclassified-latin") or DIACITRIC_RE.search(s):
             if len(s.split()) <= 6:
                 emph.append({"slug": slug, "lang": lg, "text": s[:60]})
-    return found, emph
+    return found, emph, stats
 
 
 def main():
@@ -181,10 +190,13 @@ def main():
              and os.path.basename(os.path.dirname(p)).isalpha()]
 
     all_q, all_e = [], []
+    agg = {"quotes": 0, "sent": 0, "sent_confident_non": 0}
     for p in files:
-        q, e = scan_entry(p)
+        q, e, st = scan_entry(p)
         all_q.extend(q)
         all_e.extend(e)
+        for k in agg:
+            agg[k] += st[k]
 
     by_lang = collections.defaultdict(lambda: {"quotes": 0, "entries": set(),
                                                "gloss_explicit": 0,
@@ -202,6 +214,12 @@ def main():
 
     per_entry = collections.Counter(r["slug"] for r in all_q)
 
+    # 成句门槛（>=40 字符且 >=6 词）下的确定非英文占比：回答“SEP 引文是否以英文为主”
+    sent_by = collections.Counter(
+        r["lang"] for r in all_q
+        if r["len"] >= 40 and r.get("words", 0) >= 6
+        and r["lang"] not in ("unclassified-latin", "latin-diacritic"))
+
     out = {
         "schema": "nonlatin-scan/v1",
         "scope": "yuanwen/<letter>/*.md（引文候选，参考文献节与代码数学豁免）",
@@ -215,6 +233,13 @@ def main():
                         "no_gloss": v["no_gloss"]}
                     for k, v in sorted(by_lang.items(),
                                        key=lambda kv: -kv[1]["quotes"])},
+        "sentence_level": {
+            "rule": "quote spans >=4 chars for totals; sentence = >=40 chars and >=6 words; unclassified-latin/latin-diacritic excluded from non-English",
+            "all_quote_spans": agg["quotes"],
+            "sentence_quote_spans": agg["sent"],
+            "confident_nonenglish": agg["sent_confident_non"],
+            "ratio_pct": round(100.0 * agg["sent_confident_non"] / max(agg["sent"], 1), 2),
+            "by_lang": dict(sent_by.most_common())},
         "top_entries": per_entry.most_common(args.top),
         "samples": {k: [r["sample"] for r in all_q if r["lang"] == k][:3]
                     for k in sorted({r["lang"] for r in all_q})},
