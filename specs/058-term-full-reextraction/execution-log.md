@@ -511,3 +511,10 @@
 * 查无定名、保持英文原名：Eva Kittay（台湾学界径用 Kittay，书名译《爱的劳动》）、Amie Thomasson、Mathias Risse、Michael Huemer、Rae Langton（台文“兰腾/藍騰”，大陆未定）、Susanna Siegel（无中译本）、David Brink（仅社团科普文作“布林克”，非权威）。
 * 凭证：`results/people-cnweb-2026-11-24-b26.md`；生成器 `bin/make_rowspec_people26.py`。
 * 落册：定点改写 5 行、删 1 行；`registry_azsort` 人名表 4,897 守恒；`check_terms` 人名缺籍属/生卒 770 条（告警口径不变）；`check_all` 17 项全绿。
+
+## 2026-11-24：人名第二十七批（中文源补证 2 人）
+
+* 取中译本署名定名：Robert Sugden → 罗伯特·萨格登（《权利、合作与福利的经济学》方钦译，上海财经 2008／复旦 2022，ISBN 9787309159622）；William Galston → 威廉·盖尔斯敦（《自由多元主义》佟德志、庞金友译，江苏人民 2005，ISBN 9787214040213；同译者论文作“盖尔斯顿”，主形取书署名）。
+* 查无汉名、保持英文原名：Jennifer Saul（仅日译）、Marilyn Friedman、Louise Antony、Anna Stilz、Kent Bach（中文语用学只引 Bach 姓）、David Copp。
+* 凭证：`results/people-cnweb-2026-11-24-b27.md`；生成器 `bin/make_rowspec_people27.py`。
+* 落册：定点改写 2 行（人名表 4,897 不变）；`registry_azsort` 守恒；`check_all` 17 项全绿。
