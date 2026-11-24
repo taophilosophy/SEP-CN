@@ -1462,13 +1462,30 @@ def _pubinfo_html(lines):
     return None
 
 
+_CELL_SEP = re.compile(r"(?<!\\)\|")
+
+
+def _split_pipe_cells(line):
+    r"""按**未转义** `|` 分格，再把 `\|` 还原为格内字面管道。
+
+    C 侧对格内字面管道转义为 `\|`（H0 `<td>|</td>` 判例，william-jevons／
+    spinoza-attributes）；整行 `str.split("|")` 会把 `\|` 当分格符，`\` 留成
+    格尾字面。"""
+    parts = _CELL_SEP.split(line.strip())
+    if parts and parts[0] == "":
+        parts = parts[1:]
+    if parts and parts[-1] == "":
+        parts = parts[:-1]
+    return [p.replace("\\|", "|") for p in parts]
+
+
 def _pipe_rows(body):
     rows = []
     for ln in body.split("\n"):
         s = ln.strip()
         if not s.startswith("|"):
             continue
-        cells = [c for c in s.strip("|").split("|")]
+        cells = _split_pipe_cells(s)
         if re.fullmatch(r"[\s:|-]+", s.strip("|")):
             continue  # 分隔行
         rows.append(cells)
@@ -1479,7 +1496,7 @@ def _pipe_rows_collect(lines, i):
     rows = []
     while i < len(lines) and lines[i].strip().startswith("|"):
         s = lines[i].strip()
-        cells = [c for c in s.strip("|").split("|")]
+        cells = _split_pipe_cells(s)
         if not re.fullmatch(r"[\s:|-]+", s.strip("|")):
             rows.append(cells)
         i += 1

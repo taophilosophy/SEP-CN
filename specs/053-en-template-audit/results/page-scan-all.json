@@ -5,12 +5,12 @@
  "total": 1873,
  "counts": {
   "rule": 0,
-  "pool": 1799,
-  "gap": 74,
+  "pool": 1807,
+  "gap": 66,
   "stale": 0
  },
  "page_bytes": 235952045,
- "pool_bytes": 116005770,
+ "pool_bytes": 116674872,
  "entries": [
   {
    "slug": "18thGerman-preKant",
@@ -932,12 +932,9 @@
   {
    "slug": "aristotle-mathematics",
    "page_len": 94554,
-   "status": "gap",
-   "why": "unaligned text units",
-   "sample": {
-    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
-    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
-   }
+   "status": "pool",
+   "n_patches": 208,
+   "pool_bytes": 77376
   },
   {
    "slug": "aristotle-metaphysics",
@@ -3169,22 +3166,16 @@
   {
    "slug": "descriptions",
    "page_len": 167815,
-   "status": "gap",
-   "why": "unaligned text units",
-   "sample": {
-    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
-    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
-   }
+   "status": "pool",
+   "n_patches": 367,
+   "pool_bytes": 59124
   },
   {
    "slug": "desert",
    "page_len": 119448,
-   "status": "gap",
-   "why": "unaligned text units",
-   "sample": {
-    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
-    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
-   }
+   "status": "pool",
+   "n_patches": 267,
+   "pool_bytes": 98709
   },
   {
    "slug": "desgabets",
@@ -6130,12 +6121,9 @@
   {
    "slug": "information-entropy",
    "page_len": 133904,
-   "status": "gap",
-   "why": "unaligned text units",
-   "sample": {
-    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
-    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
-   }
+   "status": "pool",
+   "n_patches": 170,
+   "pool_bytes": 122521
   },
   {
    "slug": "information-semantic",
@@ -6422,12 +6410,9 @@
   {
    "slug": "jayaraasi",
    "page_len": 85860,
-   "status": "gap",
-   "why": "unaligned text units",
-   "sample": {
-    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
-    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
-   }
+   "status": "pool",
+   "n_patches": 121,
+   "pool_bytes": 43719
   },
   {
    "slug": "jefferson",
@@ -11086,12 +11071,9 @@
   {
    "slug": "reasoning-automated",
    "page_len": 283862,
-   "status": "gap",
-   "why": "unaligned text units",
-   "sample": {
-    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
-    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
-   }
+   "status": "pool",
+   "n_patches": 583,
+   "pool_bytes": 180998
   },
   {
    "slug": "reasoning-defeasible",
@@ -12436,12 +12418,9 @@
   {
    "slug": "spinoza-attributes",
    "page_len": 81771,
-   "status": "gap",
-   "why": "unaligned text units",
-   "sample": {
-    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
-    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
-   }
+   "status": "pool",
+   "n_patches": 108,
+   "pool_bytes": 43333
   },
   {
    "slug": "spinoza-epistemology-mind",
@@ -13482,12 +13461,9 @@
   {
    "slug": "william-jevons",
    "page_len": 58336,
-   "status": "gap",
-   "why": "unaligned text units",
-   "sample": {
-    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
-    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
-   }
+   "status": "pool",
+   "n_patches": 128,
+   "pool_bytes": 43322
   },
   {
    "slug": "william-sherwood",

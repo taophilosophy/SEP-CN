@@ -507,3 +507,10 @@ B3.1 回归：不动点 **1,435/1,873（76.6%）**（此前 1,240，＋195，无
 **修法**：①`extract_note_forms` 改为“非规范包裹一律记 H0 原文片段”（含 `<sup>` 与畸形括号），R 原样发出；②新增账 `sup_pos`（cp → ["ent"|"tag"…]，文档序，仅同页双源字符），`_unsubsup` 按位消费：`ent` 留实体通道、`tag` 发 `<sup>/<sub>` 标签；无账字符维持第三十三批统一策略。
 **实测**：note_forms 波及面 **3 件**（pain／jaspers 转池、srigupta 形态更准）；sup_pos 波及面 **2 件**（即目标件，md 字形数与账长逐件配平）。全量双通道 **pool 1,795→1,799（96.1%）／gap 78→74／stale 0**，池占页 **49.16%**，judge 与建池逐件同值；delta＝gap→pool 4（pain／jaspers／kant-science／proclus）、**失池 0**；**B3.1 1,653 不变（0 转红 0 转绿）**；check_all 17 项全绿。缺口分族刷新 md_extra 38／h0_extra 12／math 9／text 7／star 3／digit 3／entity 2；md_extra 子族 note／supsub 两族清零。
 **教训**：①“规范形”判定要把**畸形**当一等公民——凡包裹不完整，就记原文而不是按想象补全；②同形双源（实体/标签、宏/字形）的账必须按**出现位**存，统一策略必然在一部分位置出错；③按位账的消费方若按“族”而不是“字符”取表，键形错一层就静默退回旧行为（本批 dual 取值首版取错层级，症状为修复不生效而页面格式看似正常）。
+
+## 2026-11-24 第三十八批：表格格内转义管道分格（池 1,799→1,807、B3.1 1,653→1,660）
+
+**缺陷**：H0 表格单元格内可含**字面 `|`**（`<td>|</td>`，william-jevons／spinoza-attributes 判例），C 转 md 时转义为 `\|`；R 的 `_pipe_rows`／`_pipe_rows_collect` 用整行 `split("|")` 分格，把 `\|` 当分格符——`\` 留成格尾字面、单元格错位（装配页 `<em>AB</em> &middot;\\</td>` 判例）。
+**修法**：新增 `_split_pipe_cells`：按**未转义** `|`（`(?<!\\)\|`）分格，再去首尾空段、把 `\|` 还原为格内字面管道；两处调用点统一。B3.1 判官同走此路，往返亦受益。
+**实测**：md 含 `\|` 的 16 页（14 主档＋2 补件）；定点 14 件 **8 转池／0 失池**（aristotle-mathematics／descriptions／desert／information-entropy／jayaraasi／reasoning-automated／spinoza-attributes／william-jevons）。全量双通道 **pool 1,799→1,807（96.5%）／gap 74→66／stale 0**，池占页 **49.45%**，judge 与建池逐件同值；delta＝gap→pool 8、**失池 0**；**B3.1 1,653→1,660（+7，含 qt-quantcomp）0 转红**；check_all 17 项全绿。缺口分族刷新 md_extra 29／h0_extra 12／math 10／text 7／star 3／digit 3／entity 2，md_extra 子族 table 13→5。
+**教训**：①md 的转义字符必须在**分格前**参与判定，“先分格后还原”必然错位；②同一行两个分格器（`_pipe_rows` 与 `_pipe_rows_collect`）必须抽公共函数，否则改一处漏一处的故障面不可见；③B3.1 判官不传账却共享同一 md 解析路，R 侧纯解析修复会同时抬高两条验收线。
