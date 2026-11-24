@@ -2,12 +2,13 @@
  "schema": "sep-pipeline/v2",
  "status": "accepted",
  "date": "2026-11-25",
- "revision": "重构：16 节点扩为 22（新增 q1–q6 六轴独立工序，ADR-0079；顺序 s2.5→引文→逻辑→语法→语域→计量→标点→S3；首期 gate_owner=false，T1 升硬）",
+ "revision": "重构：16 节点扩为 22（新增 q1–q6 六轴独立工序，ADR-0079；顺序 s2.5→引文→逻辑→语法→语域→计量→标点→S3；首期 gate_owner=false，T1 升硬）；2026-11-25 补记 S6 对象域双登记（ADR-0079 分析裁定）",
  "note": "本文件管“有哪些工位、每个工位做什么”；journal-schema.json 管“怎么记事件”。二者不重复。",
  "principles": [
   "一个节点只对一个对象负责：对象变了就是两个节点，哪怕工序名相同",
   "写者与判官不同一：转换器不给自己发合格证",
-  "判据只在一个节点硬拦：其余节点可复用同一工具做辅助，退出码不由它决定"
+  "判据只在一个节点硬拦：其余节点可复用同一工具做辅助，退出码不由它决定",
+  "判据对象域与节点对象类双登记：新增判据须同时登记 criteria_domain 与本节点 object_class（S6）"
  ],
  "segments": [
   {
@@ -62,7 +63,8 @@
     "en/<slug>/index.html",
     "lock 事件"
    ],
-   "replay_on_change": "replace"
+   "replay_on_change": "replace",
+   "object_class": "source"
   },
   {
    "id": "P2",
@@ -87,7 +89,8 @@
     "yuanwen/*.md",
     "baseline/en-patches/"
    ],
-   "replay_on_change": "replace"
+   "replay_on_change": "replace",
+   "object_class": "conversion"
   },
   {
    "id": "P3",
@@ -116,7 +119,8 @@
    "products": [
     "反校报告（结构差异清单 + 字符差异分类表）"
    ],
-   "replay_on_change": "replace"
+   "replay_on_change": "replace",
+   "object_class": "conversion"
   },
   {
    "id": "s0",
@@ -146,7 +150,8 @@
     "s0 事件",
     "疑点清单"
    ],
-   "replay_on_change": "replace"
+   "replay_on_change": "replace",
+   "object_class": "source"
   },
   {
    "id": "F1",
@@ -189,7 +194,8 @@
     "术语摘录表",
     "提示词"
    ],
-   "replay_on_change": "tighten"
+   "replay_on_change": "tighten",
+   "object_class": "term"
   },
   {
    "id": "draft",
@@ -233,7 +239,8 @@
    "products": [
     "对照记录"
    ],
-   "replay_on_change": "tighten"
+   "replay_on_change": "tighten",
+   "object_class": "consistency"
   },
   {
    "id": "s2",
@@ -258,7 +265,8 @@
     "修改 diff",
     "语体结论"
    ],
-   "replay_on_change": "tighten"
+   "replay_on_change": "tighten",
+   "object_class": "grammar"
   },
   {
    "id": "F2",
@@ -310,7 +318,8 @@
     "术语锁定记录",
     "勘误核销表"
    ],
-   "replay_on_change": "tighten"
+   "replay_on_change": "tighten",
+   "object_class": "term"
   },
   {
    "id": "global",
@@ -341,7 +350,13 @@
    "products": [
     "审计记录（changes: 开头）"
    ],
-   "replay_on_change": "tighten"
+   "replay_on_change": "tighten",
+   "object_class": [
+    "academic",
+    "consistency",
+    "format",
+    "punct"
+   ]
   },
   {
    "id": "q1",
@@ -370,7 +385,8 @@
    "products": [
     "cite-manifest.json"
    ],
-   "replay_on_change": "tighten"
+   "replay_on_change": "tighten",
+   "object_class": "cite"
   },
   {
    "id": "q2",
@@ -398,7 +414,8 @@
    "products": [
     "logic-skeleton.jsonl"
    ],
-   "replay_on_change": "tighten"
+   "replay_on_change": "tighten",
+   "object_class": "logic"
   },
   {
    "id": "q3",
@@ -426,7 +443,8 @@
    "products": [
     "grammar-report.json"
    ],
-   "replay_on_change": "tighten"
+   "replay_on_change": "tighten",
+   "object_class": "grammar"
   },
   {
    "id": "q4",
@@ -453,7 +471,8 @@
    "products": [
     "register-report.md"
    ],
-   "replay_on_change": "tighten"
+   "replay_on_change": "tighten",
+   "object_class": "register"
   },
   {
    "id": "q5",
@@ -481,7 +500,8 @@
    "products": [
     "measure-manifest.json"
    ],
-   "replay_on_change": "tighten"
+   "replay_on_change": "tighten",
+   "object_class": "measure"
   },
   {
    "id": "q6",
@@ -509,7 +529,8 @@
    "products": [
     "punct-report.json"
    ],
-   "replay_on_change": "tighten"
+   "replay_on_change": "tighten",
+   "object_class": "punct"
   },
   {
    "id": "S3",
@@ -541,7 +562,8 @@
    "criteria_advisory": [
     "markdownlint"
    ],
-   "advisory_note": "markdownlint 由 format.yml 以 continue-on-error 告警级执行（ADR-0061 裁定），不入 s2.4/S3 硬拦退出码；本仓无同名本地工具，2026-11-18 由 criteria_carrier 声明承载体与级别。"
+   "advisory_note": "markdownlint 由 format.yml 以 continue-on-error 告警级执行（ADR-0061 裁定），不入 s2.4/S3 硬拦退出码；本仓无同名本地工具，2026-11-18 由 criteria_carrier 声明承载体与级别。",
+   "object_class": "format"
   },
   {
    "id": "R1",
@@ -559,13 +581,14 @@
     "签字"
    ],
    "criteria": [
-    "须独立于译者"
+    "review-verity"
    ],
    "gate_owner": false,
    "products": [
     "适切性记录"
    ],
-   "replay_on_change": "replace"
+   "replay_on_change": "replace",
+   "object_class": "review"
   },
   {
    "id": "R2",
@@ -583,13 +606,14 @@
     "问题单：逐处位置与改前改后，禁机械批量"
    ],
    "criteria": [
-    "问题单形态"
+    "review-coherence"
    ],
    "gate_owner": false,
    "products": [
     "复核记录"
    ],
-   "replay_on_change": "replace"
+   "replay_on_change": "replace",
+   "object_class": "review"
   },
   {
    "id": "R3",
@@ -617,7 +641,8 @@
    "products": [
     "验收签字"
    ],
-   "replay_on_change": "replace"
+   "replay_on_change": "replace",
+   "object_class": "aggregate"
   }
  ],
  "mandatory_minimum": {
@@ -711,6 +736,12 @@
   ],
   "punct_audit": [
    "q6"
+  ],
+  "review-verity": [
+   "R1"
+  ],
+  "review-coherence": [
+   "R2"
   ]
  },
  "migration": {
@@ -783,6 +814,44 @@
    "of": "check_all",
    "workflow": ".github/workflows/checks.yml",
    "level": "hard"
+  },
+  "review-verity": {
+   "kind": "manual",
+   "note": "R1 受众适切性：人工审核签字，无工具承载体（ADR-0079 S6 补登记）"
+  },
+  "review-coherence": {
+   "kind": "manual",
+   "note": "R2 跨节连贯性：人工审核签字，无工具承载体（ADR-0079 S6 补登记）"
   }
- }
+ },
+ "criteria_domain": {
+  "fetch_audit": "source",
+  "check_en_patches": "conversion",
+  "divergence": "conversion",
+  "check_yuanwen_fidelity": "conversion",
+  "en_integrity": "source",
+  "en_source_audit": "source",
+  "check_terms": "term",
+  "errata_check": "term",
+  "check_pairs": "consistency",
+  "check_prose": "grammar",
+  "check_math_zh": "consistency",
+  "check_quotes": "punct",
+  "check_tables_images": "format",
+  "check_academic": "academic",
+  "check_style": "format",
+  "check_images": "format",
+  "check_summary": "format",
+  "cite_audit": "cite",
+  "logic_audit": "logic",
+  "grammar_audit": "grammar",
+  "register_audit": "register",
+  "measure_audit": "measure",
+  "punct_audit": "punct",
+  "ci_all": "aggregate",
+  "markdownlint": "format",
+  "review-verity": "review",
+  "review-coherence": "review"
+ },
+ "criteria_domain_note": "判据对象域（S6）：每条判据须登记 domain，所在节点的 object_class 必须覆盖它。新增判据不同时登记两处即红——这是防止“把新轴静默并入旧节点”的结构防线（ADR-0079 补记）。"
 }

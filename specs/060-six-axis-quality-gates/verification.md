@@ -57,8 +57,8 @@
 
 ### T2 判据唯一性
 
-**断言**：六判据 `cite_audit…punct_audit` 各恰属一个节点，无双挂，承载体存在且与档位一致。
-**证明**：S-2 谓词；六节点 `criteria` 各单项且 `gate_owner=false`（T0 档），`criteria_owner` 反向完备，`tools/<名>.py` 存在（S5 缺省承载）。∎
+**断言**：六判据 `cite_audit…punct_audit` 各恰属一个节点，无双挂，承载体存在且与档位一致；判据对象域与节点对象类双登记一致。
+**证明**：S-2 与 S-6 谓词；六节点 `criteria` 各单项且 `gate_owner=false`（T0 档），`criteria_owner` 反向完备，`tools/<名>.py` 存在（S5 缺省承载）；每条判据有 `criteria_domain`，节点 `object_class` 覆盖之。归并探针（`bin/probe_merge.py`）在 S6 落地后由“全绿”转为“16 项失败 1”。∎
 
 ### T3 覆盖完备性
 

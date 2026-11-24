@@ -81,5 +81,23 @@ class CheckStagesTest(unittest.TestCase):
         self.assertTrue(any(not h["ok"] and h["name"] == "判据承载体可解析" for h in hits))
 
 
+    def test_object_class_declared_for_multi_criteria(self):
+        """S6：多判据节点必须声明 object_class（ADR-0079 补记）。"""
+        pipe = load_pipeline()
+        for n in pipe["nodes"]:
+            crit = [g for g in n.get("criteria", []) if g]
+            if len(crit) > 1:
+                self.assertTrue(n.get("object_class"), n["id"])
+
+    def test_negative_merge_detected_by_s6(self):
+        """把六轴判据塞进 S3 而不改 object_class，S6 应失败（防静默归并）。"""
+        pipe = load_pipeline()
+        for n in pipe["nodes"]:
+            if n["id"] == "S3":
+                n["criteria"] = n["criteria"] + ["cite_audit", "logic_audit"]
+        hits = check(pipe)
+        bad = [h for h in hits if h["code"] == "S6" and not h["ok"]]
+        self.assertTrue(bad, hits)
+
 if __name__ == "__main__":
     unittest.main()

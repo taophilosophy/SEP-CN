@@ -135,6 +135,9 @@ def check(pipe):
             miss = [x for x in (cfg, wf) if x and not os.path.exists(os.path.join(ROOT, x))]
             return (not miss, "external:%s%s" % (cfg or wf,
                                                  "" if not miss else "（缺 %s）" % ",".join(miss)))
+        if kind == "manual":
+            # 人工审核判据：无工具承载体，凭据为签字（ADR-0079 S6 补登记）
+            return True, "manual:%s" % (c.get("note") or "")
         if kind == "aggregate":
             host = c.get("of")
             path = os.path.join(ROOT, "tools", "%s.py" % host)
@@ -158,6 +161,34 @@ def check(pipe):
         if lvl != "hard":
             level_bad.append("%s（硬拦位，承载体 level=%s）" % (g, lvl))
     rec("S5", "硬拦判据不由告警级承载", not level_bad, "不符=%s" % (level_bad or "无"))
+
+    # ---- S6 对象域双登记（ADR-0079 补记，2026-11-25 用户批准）----
+    domains = {k: v for k, v in pipe.get("criteria_domain", {}).items()
+               if k != "note"}
+    undeclared = [g for g in sorted(owner) if g not in domains]
+    rec("S6", "判据对象域已登记", not undeclared,
+        "未登记=%s" % (undeclared or "无"))
+
+    class_bad, overload = [], []
+    for n in nodes:
+        crit = [g for g in n.get("criteria", []) if g]
+        if not crit:
+            continue
+        oc = n.get("object_class")
+        if len(crit) > 1 and not oc:
+            class_bad.append("%s：多判据未声明 object_class" % n["id"])
+            continue
+        ocs = set(oc if isinstance(oc, list) else [oc]) if oc else set()
+        miss = [g for g in crit if domains.get(g) not in ocs]
+        if miss:
+            class_bad.append("%s：%s 的 domain 不在 object_class %s"
+                             % (n["id"], ",".join(miss), sorted(ocs)))
+        if len(ocs) > 3:
+            overload.append("%s=%d" % (n["id"], len(ocs)))
+    rec("S6", "节点对象类覆盖判据域", not class_bad,
+        "不符=%s" % (class_bad or "无"))
+    rec("S6", "节点对象类未过载（提示，≤3）", True,
+        "过载=%s" % (overload or "无"))
 
     return hits
 

@@ -174,4 +174,5 @@
 * **验证**：`unittest discover` 590 项全绿（新增 `test_six_axis.py` 12 项，`test_task_ops.py` 适配 q 链）；`check_stages` 13 项全绿；`check_doc_size`／`check_junk`／`spec_index` 绿。
 * **试金石**（三件：adorno／abduction／aesthetics-existentialist）：清单 137/597/78/1/85/72、45/394/1/3/7/6、39/436/130/0/95/37（q1/q2/q3/q4/q5/q6）；门禁实拦 586／191／364 条。暴露 q2 逐句人审不可行（386 小时/件），已加“非逻辑句 trivial”通道（无强算子且分句 <4），待裁定降至 138/597、156/394、123/436；人工估算 149–253／47–78／88–163 小时。G4 anchor 自动对齐、G5/G6 误报排除列 T1 前置。
 * **事故与自愈**：并行会话 1d85345ff（058 批 9）收编本批 trial.py／trial.md／verification.md／verify_six_axis.py，提交信息与内容不符（历史事实，禁 force 不追改）；8f9201a82 漏 add `journal_lib.py`／`task_ops.py`，已补提并推送，单测 591 绿。
+* **S6 对象域双登记落地**（同日用户批准）：criteria_domain 24 条＋多判据节点 object_class；check_stages 增 S6 两谓词（16 项全绿）；归并探针由"13/13 全绿"转为"16 项失败 1"，归并从此可检。连带：R1/R2 判据由自然语言正名为 review-verity／review-coherence，承载体登记 kind=manual（S6 首轮即暴露）；P29 check.ref 改 [S2,S6]；单测 593 绿。
 * **遗留**：T0 全库六轴摸底、试金石 3 件、A–Z 存量回炉（T1/T2）；语域样章与逻辑骨架金样本待用户裁定后入库。
