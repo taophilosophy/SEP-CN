@@ -520,7 +520,7 @@
 | anniyya faqat | — | 纯粹存在 | 首现（theology-aristotle） | 学界惯例（阿拉伯文 anniyya 之源；正文双语并列）；凭证 2026-11-08 | 2026-11-08 |
 | annus mirabilis | annus mirabilis | 奇迹年 | newton | 科学史通行（牛顿 1665–1666）；凭证 2026-11-08 | 2026-11-08 |
 | anomalism of the mental | — | 心理的异常性 | davidson 首译 | 与变异一元论（anomalous monism，termonline 定名 2026-10-27）同族取“变异”形；凭证 2026-11-10；FLAG 裁定 2026-11-21：与 anomalous monism 同族随审定形“异常”；anomalism＝无严格定律性，非“变异性” | 2026-11-21 |
-| anomalous monism | — | 异常一元论（亦作“变异一元论”） | 词汇表复核（源提交 48adaba4） | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）；FLAG 裁定 2026-11-21：审定名词库（termonline-all·自然辩证法·科学哲学·认知科学哲学）作“异常一元论”，主译从审定，旧形降亦作 | 2026-11-21 |
+| anomalous monism | — | 变异一元论（亦作“异常一元论”） | 词汇表复核（源提交 48adaba4） | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）；FLAG 裁定 2026-11-21：审定名词库（termonline-all·自然辩证法·科学哲学·认知科学哲学）作“异常一元论”，主译从审定，旧形降亦作；主形改定：戴维森条目通篇用“变异一元论”；册内原“异常一元论”全库 0 处（2026-11-24 语料核对，凭证 works-batch33-2026-11-24.md） | 2026-11-21 |
 | anonymity | — | 匿名 | 首现（it-moral-values） | 伦理学通行译名（信息技术语境）；凭证 2026-11-10 | 2026-11-10 |
 | anorexia nervosa | — | 神经性厌食 | george-eliot 首译 | 医学通行；审定名词库（termonline-all·行为医学名词 16.192，2022；消化病学名词 1.08，2022）作“神经性厌食”，亦作“神经性厌食[症]”，与本行一致（2026-11-24 JWT 直连，凭证 termonline-b1-2026-11-24.tsv） | 2026-11-12 |
 | Anschauung | Anschauung | 直观 | yorck 首译 | 学界惯例（德国古典哲学通行，康德 Anschauung 直观）；凭证 2026-11-11；撞形豁免 2026-11-21：同形异语／同概念异形，按条目语境区分，不合并 | 2026-11-21 |
@@ -1129,7 +1129,7 @@
 | cerebral organoid | — | 脑类器官 | 首译（stem-cells） | 学界惯例（神经伦理与干细胞文献通行）；凭证 2026-11-09 | 2026-11-09 |
 | certainty | — | 确定性 | 语料回收（标题词） | 学界惯例（语料回收（标题词，specs/011 主题词汇解析 c/certainty））；凭证 2026-11-04 | 2026-11-04 |
 | certainty equivalent | — | 确定性等值 | risk | 学界惯例（决策论通行）；凭证 2026-11-09 | 2026-11-09 |
-| ceteris paribus | ceteris paribus | 其他条件不变（亦作“其余条件相同”） | justep-coherence；repugnant-conclusion | 学界惯例（哲学通译“其余情况相同”）；2026-11-20 复核：合并（同键变体，来源列并双 slug） | 2026-11-11 |
+| ceteris paribus | ceteris paribus | 其余条件相同（亦作“其他条件不变”） | justep-coherence；repugnant-conclusion | 学界惯例（哲学通译“其余情况相同”）；2026-11-20 复核：合并（同键变体，来源列并双 slug）；主形改定：justep-coherence 等条目作“其余条件相同”（34 处）；原“其他条件不变”仅 11 处（2026-11-24 语料核对，凭证 works-batch33-2026-11-24.md） | 2026-11-11 |
 | ceteris paribus preference | — | 其余条件相同的偏好 | logic-preference | 本表既有“其余条件相同”（justep-coherence）派生 | 2026-11-05 |
 | chadō / sadō | 茶道 | 茶道 | japanese-aesthetics | 学界惯例（日本茶道研究通行译法“茶道”）；撞形豁免 2026-11-21：同形异语／同概念异形，按条目语境区分，不合并；2026-11-23 主形碰撞裁定合并（同概念/同著作异形：sadō） | 2026-11-21 |
 | chain of being | — | 存在之链 | kant-development | 学界通行（Lovejoy 大存在之链研究；蒲柏诗语）；凭证 2026-11-11 | 2026-11-11 |
@@ -1458,7 +1458,7 @@
 | condensation | — | 凝缩 | langer 首译 | 精神分析术语（梦的凝缩；朗格借喻艺术符号）；凭证 2026-11-08 | 2026-11-08 |
 | condicio (condiciones) | condicio | 样态（condicio） | nicole-oresme | 奥雷斯姆偶性存在论核心术语（condiciones/modi se habendi；正文首现括注拉丁）；凭证 2026-11-08；撞形豁免 2026-11-21：同形异语／同概念异形，按条目语境区分，不合并 | 2026-11-21 |
 | conditional | sunêmmenon | 条件句 | dialectical-school | 逻辑学通行译法（希腊文原词括注）；凭证 2026-11-07 | 2026-11-07 |
-| conditional analysis | — | 条件分析（亦作“条件句分析”） | 语料回收（标题词） | 学界惯例（能力哲学通行（abilities 词条核心））；凭证 2026-11-01 | 2026-11-01 |
+| conditional analysis | — | 条件句分析（亦作“条件分析”） | 语料回收（标题词） | 学界惯例（能力哲学通行（abilities 词条核心））；凭证 2026-11-01；主形改定：abilities 条目作“条件句分析”（36 处）；原“条件分析”仅 6 处（2026-11-24 语料核对，凭证 works-batch33-2026-11-24.md） | 2026-11-01 |
 | conditional competence | — | 条件胜任度 | jury-theorems | 学界惯例（本词条定名）；凭据 2026-11-02 | 2026-11-02 |
 | Conditional Entailment | — | 条件蕴涵 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | conditional independence | — | 条件独立 | jury-theorems、justep-coherence | 学界惯例（概率论通行）；凭据 2026-11-02 | 2026-11-02 |
@@ -4056,7 +4056,7 @@
 | knockout | — | 敲除 | cancer | 学界通行（分子遗传学）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
 | knot diagrams | — | 纽结图 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | Knowability Paradox | — | 可知性悖论 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
-| knowing how | — | 技能知识（亦作“知道如何”） | 语料回收（specs/058 全库提取） | 审定名词库（termonline-all，凭证 2026-11-23） | 2026-11-23 |
+| knowing how | — | 知道如何（knowledge how） | 语料回收（specs/058 全库提取） | 审定名词库（termonline-all，凭证 2026-11-23）；主形改定：abilities 条目作“知道如何”；原“技能知识”全库 0 处（2026-11-24 语料核对，凭证 works-batch33-2026-11-24.md） | 2026-11-23 |
 | knowledge acquisition | — | 知识获取 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·化工（十）·化工系统工程和化工信息化·智能化工制造系统，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | knowledge argument | — | 知识论证 | 首现（zombies） | 学界惯例（杰克逊论证通译）；凭证 2026-11-10 | 2026-11-10 |
 | knowledge base | — | 知识库 | belief-merging | 计算机科学通行（人工智能）；凭证 2026-11-10 | 2026-11-10 |
@@ -5539,7 +5539,7 @@
 | Peace of Augsburg | — | 奥格斯堡和约 | s/sovereignty 首译 | 学界通行译名（宗教改革研究通行）；凭证 2026-11-07 | 2026-11-07 |
 | Peace of Westphalia | — | 威斯特伐利亚和约（和会语境作“威斯特伐利亚和会”） | s/sovereignty 首译 | 学界通行译名（近代早期欧洲史通行）；凭证 2026-11-07 | 2026-11-07 |
 | peaceful coexistence | — | 和平共处 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·世界历史·综合·世界政治、世界经济，2026-11-18 JWT 直连凭证） | 2026-11-19 |
-| Peano arithmetic | — | 佩亚诺算术（亦作“皮亚诺算术”） | 语料回收 | 审定名词库（termonline-all·“佩亚诺公理”定名系，2026-10-29 浏览器通道凭证） | 2026-10-29 |
+| Peano arithmetic | — | 皮亚诺算术（亦作“佩亚诺算术”） | 语料回收 | 审定名词库（termonline-all·“佩亚诺公理”定名系，2026-10-29 浏览器通道凭证）；主形改定：deductivism 等条目作“皮亚诺算术”（15 处）；原“佩亚诺算术”0 处（2026-11-24 语料核对，凭证 works-batch33-2026-11-24.md） | 2026-10-29 |
 | pedagogical goals | — | 教学意图 | moral-learning | 学界通行（自然教育学）；凭证 2026-11-09 | 2026-11-09 |
 | Pedagogy of the Oppressed | — | 《被压迫者教育学》 | 语料回收（specs/058 全库提取） | 权威译本（顾建新、赵友华、何曙荣译，华东师范大学出版社 2001（30 周年纪念版）；2026-11-24 联网核对，凭证 works-batch15-2026-11-24.md） | 2026-11-24 |
 | pedigree | — | 系谱 | genetics | 遗传学通行译名；凭证 2026-11-11（主会话直译 g/genetics） | 2026-11-11 |
@@ -6713,7 +6713,7 @@
 | sāmānyābhāva | सामान्याभाव | 通类非存在 | early-modern-india | 新正理否定语义译（generic absence；与特定非存在对举）；凭证 2026-11-10 | 2026-11-10 |
 | sāmānyalakṣaṇa | सामान्यलक्षण | 总相连接 | early-modern-india | 正理现量论通行义译（超常感知之一）；凭证 2026-11-10 | 2026-11-10 |
 | samavāya | समवाय | 和合 | early-modern-india 首译 | 玄奘古译通行（inherence；胜论第六句义）；凭证 2026-11-10 | 2026-11-10 |
-| samavāyi-kāraṇa | समवायिकारण | 和合因（亦作“依处因”） | early-modern-india | 胜论三因义译（inherent/substrate cause；果所依之实，与 a-samavāyi-kāraṇa 非和合因并列）；亦作记同词异译形；凭证 2026-11-11；2026-11-13 合并 samavayi-kāraṇa/samavāyi-kāraṇa 同键异形两行 | 2026-11-13 |
+| samavāyi-kāraṇa | समवायिकारण | 依处因（亦作“和合因”） | early-modern-india | 胜论三因义译（inherent/substrate cause；果所依之实，与 a-samavāyi-kāraṇa 非和合因并列）；亦作记同词异译形；凭证 2026-11-11；2026-11-13 合并 samavayi-kāraṇa/samavāyi-kāraṇa 同键异形两行；主形改定：early-modern-india 条目作“依处因”，括注“即和合因”；原“和合因”仅 7 处（2026-11-24 语料核对，凭证 works-batch33-2026-11-24.md） | 2026-11-13 |
 | samaveta-samavāya | समवेतसमवाय | 和合者中的和合（和合内之和合） | early-modern-india | 同上系列（inherence-in-the-inherent）；凭证 2026-11-10；六种感官连接之五（校 2026-11-11）| 2026-11-10 |
 | Sambandhaparīkṣā | — | 《观相属论》 | yogacara 首译 | 梵题汉译（法称造，无汉文古译；依源文英译 gloss）；文献译名；原文列待考；凭证 2026-11-11；原文列：工具书查无原生文字（2026-11-20 检 wisdomlib／GND／BDRC／84000／Logeion，均无“转写↔原生文字”显式配对，部分源不可达；映射表推演禁用，ADR-0030） | 2026-11-11 |
 | sambhāva | — | 相等量 | jayaraasi | 印度量论通行译法；原文列：工具书查无原生文字（2026-11-20 检 wisdomlib／GND／BDRC／84000／Logeion，均无“转写↔原生文字”显式配对，部分源不可达；映射表推演禁用，ADR-0030） | 2026-11-07 |
@@ -7674,7 +7674,7 @@
 | taʾwīl | تأويل（التأويل） | 精神释经（隐义解经） | arabic-islamic-mysticism | 什叶派/苏非释经学通行 | 2026-11-07 |
 | taʿārīf | تعاریف | 定义（definitions；与 ḥudūd 界定同义连用） | arabic-islamic-phil-math | 学界通行；撞形豁免 2026-11-21：同形异语／同概念异形，按条目语境区分，不合并 | 2026-11-21 |
 | taʿṭīl | تعطيل | 剥离 | ibn-taymiyya | 首译（剥离真主属性；与 taḥrīf 对举） | 2026-11-12 |
-| tea ceremony | — | 茶道仪式（茶会；日常语境亦作“茶道”） | japanese-aesthetics | 学界惯例（日本文化研究通行译法“茶道”）；审定名词库（民族学与文化学名词 4.011，2025）作“茶道”，本行主形“茶道仪式”已含之并注（凭证 termonline-b12-2026-11-24.tsv） | 2026-11-02 |
+| tea ceremony | — | 茶道（亦作“茶道仪式”） | japanese-aesthetics | 学界惯例（日本文化研究通行译法“茶道”）；审定名词库（民族学与文化学名词 4.011，2025）作“茶道”，本行主形“茶道仪式”已含之并注（凭证 termonline-b12-2026-11-24.tsv）；主形改定：aesthetics-of-everyday 条目作“茶道”（22 处）；原“茶道仪式”0 处（2026-11-24 语料核对，凭证 works-batch33-2026-11-24.md） | 2026-11-02 |
 | team semantics | — | 团队语义学 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | technê | τέχνη | 技艺 | 语料回收；knowledge-how | 学界惯例（希腊哲学术语）；审定库无直接收录（凭证 2026-10-30）；2026-11-13 重复行合并（旧键 `technē`）；删亦作“技术”（与他行主译撞形，2026-11-21 撞形处置） | 2026-11-21 |
 | technical object | — | 技术物 | model-organisms 首译 | 与“认知物”对举的术语（Rheinberger 认知物/技术物）；审定名词库作“技术客体”（自然辩证法名词，2026-11-11 凭证），对举体例保留现译 | 2026-11-11 |
