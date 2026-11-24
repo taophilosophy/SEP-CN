@@ -1,0 +1,55 @@
+{
+ "batch": "058-batch58-harvest5",
+ "date": "2026-11-24",
+ "scope": "候选池收割第五批（分域审计真缺 6 条）",
+ "rows": [
+  {
+   "en": "problem of evil",
+   "zh": "恶的问题",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（宗教哲学文献通行译名；语料 50 处一致；在册仅有 argument from evil 恶的论证与诸恶论变体行，伞形词缺）（2026-11-24 联网／语料核对，凭证 pool-harvest-b5-2026-11-24.md）",
+   "date": "2026-11-24"
+  },
+  {
+   "en": "historical explanation",
+   "zh": "历史解释",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（历史哲学文献通行译名；语料 11 处一致）（2026-11-24 联网／语料核对，凭证 pool-harvest-b5-2026-11-24.md）",
+   "date": "2026-11-24"
+  },
+  {
+   "en": "theory choice",
+   "zh": "理论选择",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（科学哲学文献通行译名；语料 9 处一致）（2026-11-24 联网／语料核对，凭证 pool-harvest-b5-2026-11-24.md）",
+   "date": "2026-11-24"
+  },
+  {
+   "en": "collective action",
+   "zh": "集体行动",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（社会科学哲学文献通行译名；语料 9 处一致）（2026-11-24 联网／语料核对，凭证 pool-harvest-b5-2026-11-24.md）",
+   "date": "2026-11-24"
+  },
+  {
+   "en": "artworld",
+   "zh": "艺术界",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（丹托艺术理论通行译名；语料 8 处一致）（2026-11-24 联网／语料核对，凭证 pool-harvest-b5-2026-11-24.md）",
+   "date": "2026-11-24"
+  },
+  {
+   "en": "theory-ladenness",
+   "zh": "理论负载",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行（科学哲学文献通行译名；语料 6 处一致，含“观察的理论负载”变体）（2026-11-24 联网／语料核对，凭证 pool-harvest-b5-2026-11-24.md）",
+   "date": "2026-11-24"
+  }
+ ]
+}
