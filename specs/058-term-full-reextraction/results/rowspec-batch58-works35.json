@@ -1,0 +1,55 @@
+{
+ "batch": "058-batch58-works35",
+ "date": "2026-11-24",
+ "scope": "池 held 结算第二批（术语立册 6 条）",
+ "rows": [
+  {
+   "en": "likelihood",
+   "zh": "似然",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "统计与贝叶斯认识论文献通行术语；语料 58 处一致；在册仅有 likelihood principle／ratio 复合行（2026-11-24 语料核对，凭证 works-batch35-2026-11-24.md）",
+   "date": "2026-11-24"
+  },
+  {
+   "en": "particularism",
+   "zh": "特殊主义",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "学界通行；道德特殊主义（moral particularism）已在册，本行为伞形词，道德／知识论两义按语境；语料 29 处一致（2026-11-24 语料核对，凭证 works-batch35-2026-11-24.md）",
+   "date": "2026-11-24"
+  },
+  {
+   "en": "incremental evidence",
+   "zh": "增量证据",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "贝叶斯认识论文献通行术语；语料 38 处一致（2026-11-24 语料核对，凭证 works-batch35-2026-11-24.md）",
+   "date": "2026-11-24"
+  },
+  {
+   "en": "candidate explanations",
+   "zh": "候选解释",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "溯因与科学解释文献通行术语；语料 16 处一致（2026-11-24 语料核对，凭证 works-batch35-2026-11-24.md）",
+   "date": "2026-11-24"
+  },
+  {
+   "en": "hosshin seppō",
+   "zh": "法身说法",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "本库译名（空海论学名题；语料 18 处一致）（2026-11-24 语料核对，凭证 works-batch35-2026-11-24.md）",
+   "date": "2026-11-24"
+  },
+  {
+   "en": "yogyatā",
+   "zh": "适切性",
+   "table": "term",
+   "first_seen": "语料回收（specs/058 全库提取）",
+   "basis": "本库译名（新胜论组合关系术语；语料 5 处一致）（2026-11-24 语料核对，凭证 works-batch35-2026-11-24.md）",
+   "date": "2026-11-24"
+  }
+ ]
+}
