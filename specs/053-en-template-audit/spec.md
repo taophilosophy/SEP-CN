@@ -497,10 +497,12 @@ B3.2 的 sha 全等清单即 OAIS fixity 账的实现形态；与 ADR-0076 已�
 
 | 判据 | 现状 | 取数命令 |
 | ---- | ---- | ---- |
-| B3.1 往返不动点 | **1,663/1,873（88.8%）**，第二十一批 +14（sup/sub 实体拼写右逆）、第二十五批 +1、第三十一批 +1（URL 白名单）、第三十二批 +13（pubinfo 行位假设）、第三十四批 +1（空作者 meta＋词内锚兜底）、第三十八批 +7（格内转义管道分格）、第四十批 +1（公式美元指纹空白归一）、第四十一批 +1（表题定界判据）、第四十三批 +2（围栏码块↔`<pre>`、反引号字面化、`&#124;` 单次转义：linguistics／qualia-inverted）；转红 3（W8 键名漂移，定案见下） | `python -B specs/053-en-template-audit/bin/reassemble.py --all --out <json>` |
-| B3.2 页面装配 | **pool 1,851（98.8%）／gap 22／stale 0**，池占页 51.26%（2026-11-25 第四十三批全量重建＋全量 judge 双通道收官） | `python -B specs/053-en-template-audit/bin/page_assemble.py --all --build` |
+| B3.1 往返不动点 | **1,685/1,873（90.0%）**，第四十八批 +20（书目嵌套 References 标题按原文标题再生、C 注入固定注不搬运、定义 ul 就地发）；**转红 0** | `python -B specs/053-en-template-audit/bin/reassemble.py --all --out <json>` |
+| B3.2 页面装配 | **pool 1,873（100%）／gap 0／stale 0**，池占页 52.16%（2026-11-26 第四十八批全量重建＋judge 双通道复核，与第四十七批收官逐值一致） | `python -B specs/053-en-template-audit/bin/page_assemble.py --all --build` |
 | I2/I3 转换保真 | `--gate` 0 issue（1,873 全过） | `python -B tools/check_yuanwen_fidelity.py --gate` |
-| 全库门禁 | check_all 17 项全绿 | `python -B tools/check_all.py` |
+| 全库门禁 | check_all 21 项全绿（以 `--list-gates` 为准） | `python -B tools/check_all.py` |
+
+> **2026-11-26 现查**：B3.2 缺口已清零（第四十五～四十七批），第四十八批复核仍为 0；下文「缺口 22 分族」「md_extra 19 件再分族」等段落是第四十三批快照，仅作机制索引，数字勿引。B3.1 余 188 件的最大族＝**书目键名派生**（小节归属不在 md 内，见第四十八批「回退记录」A／A′）与**书目 dl 身份**（B，须账/装配同改），为下一批靶子。
 
 **缺口 22 分族**（`script/tmp/b32_families2.py <scan-json>`；分族普查须在每次转池后重跑）：2026-11-25 第四十三批收官普查为 **md_extra 19／h0_extra 2／error 1**（error＝`croce-aesthetics`，本克隆缺 en 包、环境缺件），math／text／digit／star／entity 五族清零。已解族：表题 `caption`（第十四批）、书目区无年份散文、书目区取域与注释（第十六批）、致谢区识别（第十七批）、related 前导竖线与希腊公式形（第十八批）、嵌套引块与 layout 陈年（第十九批）、书目散文 `note-<年>` 键（第二十批）、sup/sub 实体拼写与字形（第二十一批）、跨岛实体差（第二十二批）、行内公式 `\$` 双源（第二十三批）、题后散字与裸名条目（第二十四批）、嵌套表与管道格内 raw 表（第二十五批）、脚注引用形与内部链接消歧（第二十六批）、带片段的裸兄弟文件链（第二十七批）、宏↔裸字形之希腊-cursive 区（第二十八批）、账锚方括号保护（第二十九批）、引块形态账 bq（第三十批，前置件）、`_link` URL 白名单（第三十一批）、头部图组位移 photo_pre_h1＋pubinfo 行位假设（第三十二批）、上标字形双源件级判定（第三十三批）、空作者 meta 与词内锚兜底（第三十四批）、图片 alt 嵌套方括号扫描＋不平衡兜底与 math_forms 行内屏蔽（第三十五批）、希腊宏按文档序定位（第三十六批）、脚注畸形包裹与上下标同页双源按位（第三十七批）、表格格内转义管道分格（第三十八批）、公式美元指纹空白归一与字面 TeX 上标记号守卫（第四十批）、表题定界判据收紧（第四十一批）、强调尾随空白外移（第四十二批）、书目嵌套三层 ul 与空壳 li 槽位、题后散字含链接去重、反引号字面化与围栏码块↔`<pre>`、斜体希腊锚账（第四十三批）。
 

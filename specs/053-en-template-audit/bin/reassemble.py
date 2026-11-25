@@ -1467,6 +1467,12 @@ def reassemble_article(md, authors, entity_map=None, links=None, greek=None,
                         i += 1
                         continue
                     if s2.startswith("> ") or s2 == ">":
+                        # C 注入的区首固定注（`> 原文参考文献已转为脚注引用…`）：
+                        # 每见一次书目/参考文献标题就再生一次，R 不搬运（搬运会
+                        # 让 `[^key]` 字面被行内渲染吃掉，aesthetic-judgment 判例）
+                        if s2.startswith("> 原文参考文献已转为脚注引用"):
+                            i += 1
+                            continue
                         # 区内容引块（berkeley 判例：`### Berkeley's Works` 下
                         # 的 `[W]` 版本条目以 `>` 块排）。旧实现把区内所有 `>`
                         # 行一律跳过——原意只是跳过 C 注入的“原文参考文献已转
@@ -1484,8 +1490,22 @@ def reassemble_article(md, authors, entity_map=None, links=None, greek=None,
                         lv2 = len(mh.group(1))
                         if lv2 <= 2:
                             break
+                        htxt = mh.group(2).strip()
+                        if htxt == "References（引用注释）":
+                            # 嵌套书目标题（H0 `<h2>Bibliography</h2>` 内又有
+                            # `<h3>References</h3>`，aesthetic-judgment 判例）：
+                            # 发可被 C 命中的原文标题，C 按同级再生标题＋固定注。
+                            # 该标题把 C 的 bib_lvl 提到同级，其后同级小节标题
+                            # （Further Reading）即终止书目区——定义 ul 必须就地发，
+                            # 留在区末会被当成普通列表（条目蒸发）。
+                            out.append("<h%d>References</h%d>" % (lv2, lv2))
+                            i += 1
+                            if bib_defs and not bib_ul_emitted:
+                                out.append(_bib_ul_html(bib_defs))
+                                bib_ul_emitted = True
+                            continue
                         out.append("<h%d>%s</h%d>" % (
-                            lv2, _inline_md_to_html(mh.group(2).strip()), lv2))
+                            lv2, _inline_md_to_html(htxt), lv2))
                         i += 1
                         continue
                     if MD_DEF_RE.match(lines[i]):
@@ -1496,9 +1516,7 @@ def reassemble_article(md, authors, entity_map=None, links=None, greek=None,
                     out.append("<p>%s</p>" % _inline_md_to_html(s2))
                     i += 1
                 if bib_defs and not bib_ul_emitted:
-                    lis = "".join("<li>%s</li>" % _inline_md_to_html(d)
-                                  for d in bib_defs)
-                    out.append("<ul>%s</ul>" % lis)
+                    out.append(_bib_ul_html(bib_defs))
                     bib_ul_emitted = True
                 continue
             if text.startswith("Notes（原文脚注"):
@@ -1683,6 +1701,12 @@ def _list_html(items):
     tag = "ol" if ordered else "ul"
     lis = "".join("<li>%s</li>" % _inline_md_to_html(tx) for _, _, tx in items)
     return "<%s>%s</%s>" % (tag, lis, tag)
+
+
+def _bib_ul_html(defs):
+    """文献定义行 → <ul><li>…；C 在书目区内按 ul 收编成脚注定义。"""
+    return "<ul>%s</ul>" % "".join("<li>%s</li>" % _inline_md_to_html(d)
+                                   for d in defs)
 
 
 # ------------------------------------------------------------ 求值闭环 ----
