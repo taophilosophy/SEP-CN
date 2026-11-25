@@ -65,5 +65,6 @@
 | [058-term-full-reextraction](058-term-full-reextraction/spec.md) | 规格：全库术语二次提取与 A–Z 总表（specs/058） | — | ✓ | ✓ | 目录 |
 | [059-toc-title-normalize](059-toc-title-normalize/spec.md) | specs/059 — 目录条目标题体例规范化实施（甲类机械＋乙类补译，丙类裁定不归一） | — | ✓ | ✓ | — |
 | [060-six-axis-quality-gates](060-six-axis-quality-gates/spec.md) | 六轴独立质量工序建议书（标点、语法、语域、引文、计量、逻辑） | — | ✓ | ✓ | — |
+| [061-standards-realignment-2026](061-standards-realignment-2026/spec.md) | 翻译全流程国标／国际规范复核（2026-11-25） | — | — | — | — |
 
-共 59 个规格目录。
+共 60 个规格目录。
