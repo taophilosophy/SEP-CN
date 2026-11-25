@@ -23,3 +23,15 @@
 
 * 第三轮全量 Wikidata（限速与命中率双低）。
 * 无候选自动写册（防线即是判据，GND 会错例在案）。
+
+## 工具与格式（2026-11-26 定型）
+
+* `bin/gnd_batch_candidates.py`：候选列四列制（键｜原文｜译法｜候选），候选列为
+  `q=…; verdict=HIT/MISS/ERR; gndIdentifier=…; preferredName=…; dateOfBirth=…; dateOfDeath=…;
+  countryOfActivity=…; professionOrOccupation=…; type=…`，多候选 ` || ` 分隔，制表符已清洗；
+  限速按"相邻请求 ≥5s"计（同一次判定的两个查询形共享节流），断点 state 每 10 名落盘。
+* `bin/gnd_triage.py`：判定线。R1（无逗号键且候选生年>1850 不自动采）、R2（floruit≥2020
+  不自动采）、三重判据（姓＋名/首字母＋学界职业）全过且国别可映射 → auto；否则 review；
+  无命中 → none。国别映射走德→中表（54 国在册），映射外（城市名等）进 review 人工。
+  auto 档产 `gnd-auto-ledger-2026-11-26.tsv`（apply_person_meta 凭证格式），**写册前仍须
+  人工过目**——GND 会错例防线只挡机器，不替代判定。
