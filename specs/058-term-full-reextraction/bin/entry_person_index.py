@@ -19,14 +19,21 @@ import io
 import os
 import re
 import sys
+import unicodedata
 from collections import deque
 
 sys.stdout.reconfigure(encoding='utf-8')
 
 
+def fold(ch):
+    # 长度保持的变音符折叠：Nāgārjuna→nagarjuna，索引仍与原文对齐
+    base = unicodedata.normalize('NFKD', ch)[0]
+    return base.lower()
+
+
 def norm(s):
-    # 只做 1:1 替换，不改长度——扫描时用原文索引验大小写
-    s = s.lower().replace('’', "'").replace('–', '-').replace('—', '-')
+    s = ''.join(fold(ch) for ch in s)
+    s = s.replace('’', "'").replace('–', '-').replace('—', '-')
     return s.replace('-', ' ')
 
 
@@ -35,7 +42,8 @@ COMMON_UPPER = set(
     'Knight Pope Bishop Abbott Banks Rice Fish Bird Fox Wolf Winter Summer '
     'May March April June Hope Faith Grace Rose Price Miles Short Long Small '
     'Little Strong Wise Good Best Sharp Smart Sweet Rich Poor West East North '
-    'South Love Joy Peace Mark Luke John Paul Peter James Thomas George Henry '
+    'South Love Joy Peace Wisdom Truth Being Nature Reason Mark Luke John '
+    'Paul Peter James Thomas George Henry '
     'Charles William Edward Richard Robert Michael Martin'.split())
 
 
@@ -76,7 +84,9 @@ def main():
         if zh in ('—', ''):
             continue
         for v in variants(key, alias):
-            if len(v) < 4 or any(ord(ch) > 127 for ch in v):
+            if len(v) < 4:
+                continue
+            if not re.search(r'[A-Za-z]', v):
                 continue
             table.setdefault(norm(v), (key, zh))
     pats = list(table)
