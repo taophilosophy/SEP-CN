@@ -24,7 +24,11 @@ import sys
 from tools.common import repo_path, utcnow_iso
 
 PATCH_DIR = ('baseline', 'en-patches')
-REQUIRED_FIELDS = ('id', 'slug', 'file', 'expect', 'category', 'source')
+REQUIRED_FIELDS = ('id', 'slug', 'file', 'expect', 'category', 'source', 'origin')
+# 补丁出处二分类（ADR-0085）：
+#   upstream-typo  上游自身瑕疵（漏空格、缺闭合标签等），转换层无从推导——留在池内；
+#   converter-gap  转换器规则缺失（结构映射该做而未做）——必须附升档计划，升档后退役。
+ORIGINS = ('upstream-typo', 'converter-gap')
 TAG_RE = re.compile(r'<[^>]*>|<!--.*?-->', re.S)
 # 独立记录文件（运行态，state/ 不入库）：每进程首次解析补丁池时追加一行
 RECORD = ('state', 'en-patches-loader.jsonl')
@@ -129,10 +133,13 @@ def parse_patch_text(text):
     p = {'id': meta.get('id'), 'slug': meta.get('slug'), 'file': meta.get('file'),
          'expect': int(meta['expect']) if meta.get('expect', '').isdigit() else None,
          'category': meta.get('category'), 'source': meta.get('source'),
+         'origin': meta.get('origin'),
          'find': minus[0], 'replace': plus[0], 'context': context}
     missing = [k for k in REQUIRED_FIELDS if not str(p.get(k) or '').strip()]
     if missing:
         raise ValueError('字段缺失: %s' % ','.join(missing))
+    if p['origin'] not in ORIGINS:
+        raise ValueError('origin 须为 %s 之一（实为 %r）' % ('/'.join(ORIGINS), p['origin']))
     return p
 
 

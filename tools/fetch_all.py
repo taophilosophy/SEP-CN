@@ -89,12 +89,18 @@ def worker(q, channels, flags, stats):
                 sys.stderr.write("[fetch_all] FAIL %s: %s\n" % (slug, r["error"]))
                 q.task_done()
                 continue
-            upsert_baseline(r)
-            rec["files"] = len(r["files"])
-            rec["missing"] = len(r["missing"])
-            rec["archive_edition"] = r.get("archive_edition")
-            rec["ok"] = True
-            stats["fetched"] += 1
+            if r.get("result") == "unchanged":
+                # 上游与钉一致：不写盘、不动台账（ADR-0045），只做转换与计数。
+                rec.update(ok=True, unchanged=True, stage="fetch")
+                stats["unchanged"] += 1
+                stats["fetched"] += 1
+            else:
+                upsert_baseline(r)
+                rec["files"] = len(r["files"])
+                rec["missing"] = len(r["missing"])
+                rec["archive_edition"] = r.get("archive_edition")
+                rec["ok"] = True
+                stats["fetched"] += 1
             if flags["convert"]:
                 try:
                     yuanwen.convert_entry(slug)
@@ -108,7 +114,7 @@ def worker(q, channels, flags, stats):
             _flog(rec)
             n = stats["done"] + stats["failed"]
             if n % 25 == 0 or n == stats["total"]:
-                _checkpoint(stats["done"], stats["failed"], stats["total"], cfg)
+                _checkpoint(stats["done"], stats["failed"], stats["total"], channels)
             if n % 10 == 0:
                 sys.stderr.write("[fetch_all] %d/%d fetched=%d conv_fail=%d fail=%d\n"
                                  % (n, stats["total"], stats["fetched"],
@@ -151,7 +157,7 @@ def main(argv=None):
     sys.stderr.write("[fetch_all] 配置 %s：%d 路，共 %d 词条\n"
                      % (args.config, cfg, total))
 
-    stats = {"done": 0, "failed": 0, "fetched": 0, "converted": 0,
+    stats = {"done": 0, "failed": 0, "fetched": 0, "unchanged": 0, "converted": 0,
              "fail": [], "conv_fail": [], "total": total}
     flags = {"convert": not args.no_convert}
     q = Queue()
@@ -159,14 +165,15 @@ def main(argv=None):
         q.put(s)
     t0 = time.time()
     threads = [threading.Thread(target=worker, args=(q, cfg, flags, stats), daemon=True)
-               for _ in range(cfg[0])]
+               for _ in range(cfg)]
     for t in threads:
         t.start()
     q.join()
     _stop.set()
     _checkpoint(stats["done"], stats["failed"], total, cfg)
 
-    out = {"total": total, "fetched": stats["fetched"], "converted": stats["converted"],
+    out = {"total": total, "fetched": stats["fetched"], "unchanged": stats["unchanged"],
+           "converted": stats["converted"],
            "fetch_failures": stats["fail"], "convert_failures": stats["conv_fail"],
            "elapsed_s": round(time.time() - t0, 1)}
     print(json.dumps(out, ensure_ascii=False, indent=2))

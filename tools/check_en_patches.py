@@ -63,6 +63,38 @@ def _index_issues(base):
     return issues
 
 
+def probe_key(find, replace):
+    """取补丁的“变更核心 token”：find 中有、replace 中没有的最长非空白 token。
+
+    公共性探针只对空白差有意义（如 `Einstein1949b`→`Einstein 1949b`）；标记差返回 None。
+    """
+    def toks(s):
+        return [t.strip('.,;:()[]"\u201c\u201d\u2018\u2019') for t in s.split()]
+    if admission(find, replace) != "blank":
+        return None   # 标记差的补丁核心是标签本身，跨件同形不代表同一缺陷
+    ft = [t for t in toks(find) if t]
+    rt = set(toks(replace))
+    gone = [t for t in ft if t not in rt and len(t) >= 4]
+    return max(gone, key=len) if gone else None
+
+
+def public_hits(keys, en_root=None):
+    """跨件公共性：{key: {slug,...}}，只统计含该 key 的 en/<slug>/index.html。"""
+    root = en_root or repo_path('en')
+    out = {k: set() for k in keys if k}
+    if not out:
+        return out
+    for slug in sorted(os.listdir(root)):
+        p = os.path.join(root, slug, 'index.html')
+        if not os.path.exists(p):
+            continue
+        txt = open(p, encoding='utf-8', errors='replace').read()
+        for k in out:
+            if k in txt:
+                out[k].add(slug)
+    return out
+
+
 def _git_check(path):
     r = subprocess.run(['git', 'apply', '--check', path], capture_output=True, text=True)
     return r.returncode == 0, (r.stderr or r.stdout).strip()
@@ -82,7 +114,7 @@ def main(argv=None):
         elif argv[i] == '--dir' and i + 1 < len(argv):
             base = argv[i + 1]
             i += 2
-        elif argv[i] in ('--strict', '--no-git-check'):
+        elif argv[i] in ('--strict', '--no-git-check', '--no-public'):
             i += 1
         else:
             sys.stderr.write(__doc__)
@@ -105,6 +137,10 @@ def main(argv=None):
     admission_bad = 0
     index_bad = 0
     git_bad = 0
+    public_candidates = 0
+    probes = ({}
+              if '--no-public' in argv
+              else public_hits([probe_key(p['find'], p['replace']) for p in patches]))
     for p in patches:
         kind = en_patch_lib.admission(p['find'], p['replace'])
         if kind is None:
@@ -132,6 +168,15 @@ def main(argv=None):
                       % (p['slug'], p['id'], err.splitlines()[0] if err else ''))
                 git_bad += 1
                 bad += 1
+        key = probe_key(p['find'], p['replace'])
+        if key and probes.get(key):
+            others = sorted(s for s in probes[key] if s != p['slug'])
+            if others:
+                public_candidates += 1
+                print('PUBLIC %s 补丁 %s 变更核心 %r 另见于 %d 件（%s）；'
+                      '若可结构规则化则升档转换器并退役补丁（ADR-0085）'
+                      % (p['slug'], p['id'], key, len(others),
+                         ','.join(others[:5]) + ('…' if len(others) > 5 else '')))
     if not only:
         for msg in _index_issues(base):
             print('INDEX %s' % msg)
@@ -140,7 +185,7 @@ def main(argv=None):
     print(json.dumps({'schema': 'sep-cn-en-patches-dir/1', 'patches': len(patches),
                       'checked': checked, 'mismatch': bad,
                       'admission_bad': admission_bad, 'index_bad': index_bad,
-                      'git_check_bad': git_bad},
+                      'git_check_bad': git_bad, 'public_candidates': public_candidates},
                      ensure_ascii=False))
     return 0 if bad == 0 else 1
 

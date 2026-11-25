@@ -26,19 +26,60 @@ from tools import check_en_patches  # noqa: E402
 
 def patch_text(pid="P-900", slug="demo", file_rel="en/demo/index.html", expect=1,
                old="b Einstein1949b c", new="b Einstein 1949b c",
-               before="a line", after="d line"):
+               before="a line", after="d line", origin="upstream-typo"):
     head = [
         "# id: %s" % pid,
         "# slug: %s" % slug,
         "# file: %s" % file_rel,
         "# expect: %d" % expect,
         "# category: 格式层（空格）",
+        "# origin: %s" % origin,
         "# source: en-errata.md §九",
         "--- a/%s" % file_rel,
         "+++ b/%s" % file_rel,
         "@@ -1,3 +1,3 @@",
     ]
     return "\n".join(head + [" " + before, "-" + old, "+" + new, " " + after]) + "\n"
+
+
+class TestOrigin(unittest.TestCase):
+    """ADR-0085：补丁出处二分类必填且值域受限。"""
+
+    def test_origin_parsed(self):
+        p = en_patch_lib.parse_patch_text(patch_text(origin="converter-gap"))
+        self.assertEqual(p["origin"], "converter-gap")
+
+    def test_origin_missing_rejected(self):
+        txt = patch_text().replace("# origin: upstream-typo\n", "")
+        with self.assertRaises(ValueError):
+            en_patch_lib.parse_patch_text(txt)
+
+    def test_origin_bad_value_rejected(self):
+        with self.assertRaises(ValueError):
+            en_patch_lib.parse_patch_text(patch_text(origin="whatever"))
+
+
+class TestPublicProbe(unittest.TestCase):
+    """公共性探针：变更核心 token 的跨件命中（候选升档信号）。"""
+
+    def test_probe_key_extracts_glued_token(self):
+        self.assertEqual(
+            check_en_patches.probe_key("b Einstein1949b c", "b Einstein 1949b c"),
+            "Einstein1949b")
+
+    def test_probe_key_markup_diff_returns_none(self):
+        self.assertIsNone(
+            check_en_patches.probe_key("x <div>", "x </div>"))
+
+    def test_public_hits_counts_files(self):
+        with tempfile.TemporaryDirectory() as td:
+            for slug, body in (("a", "x Einstein1949b y"), ("b", "no hit"),
+                               ("c", "x Einstein1949b y")):
+                os.makedirs(os.path.join(td, slug))
+                with open(os.path.join(td, slug, "index.html"), "w", encoding="utf-8") as f:
+                    f.write(body)
+            hits = check_en_patches.public_hits(["Einstein1949b"], en_root=td)
+            self.assertEqual(hits["Einstein1949b"], {"a", "c"})
 
 
 class TestParse(unittest.TestCase):

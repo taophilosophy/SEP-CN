@@ -22,6 +22,7 @@ PATCH_BODY = """# id: {pid}
 # file: en/demo/index.html
 # expect: 1
 # category: 格式层（空格）
+# origin: upstream-typo
 # source: en-errata.md §九 格式层
 --- a/en/demo/index.html
 +++ b/en/demo/index.html

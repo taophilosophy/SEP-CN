@@ -205,6 +205,11 @@ def _journal_lock(slug, old_main_sha, new_main_sha, rec):
 
 def upsert_baseline(rec):
     from tools.common import BASELINE_LOCK
+    if not rec.get("files"):
+        # 护栏（2026-11-25）：fetch_one 的 unchanged 结果无 files，若误交本函数
+        # 会把整条钉账替换成残记录（files[].sha256 丢失）。只接受带 files 的完整记录。
+        raise ValueError('upsert_baseline 拒绝无 files 的记录（slug=%r）：'
+                         'unchanged 结果不得覆盖钉账' % rec.get('slug'))
     path = repo_path("baseline", "entries.json")
     old_main_sha = None
     with BASELINE_LOCK:

@@ -80,8 +80,9 @@ def build_patch(p):
         '# file: %s' % p['file'],
         '# expect: %s' % p['expect'],
         '# category: %s' % p['category'],
+        '# origin: %s' % p['origin'],
         '# source: %s' % p['source'],
-        '# created: %s' % datetime.now(timezone.utc).strftime('%Y-%m-%d'),
+        '# created: %s' % (p.get('created') or datetime.now(timezone.utc).strftime('%Y-%m-%d')),
         '--- a/%s' % p['file'],
         '+++ b/%s' % p['file'],
         '@@ -%d,%d +%d,%d @@' % (n, count, n, count),
@@ -109,7 +110,9 @@ def parse_patch(text):
         raise SystemExit('UNSUPPORTED：补丁含 %d 减行 / %d 加行（应各 1）' % (len(minus), len(plus)))
     p = {'id': meta.get('id'), 'slug': meta.get('slug'), 'file': meta.get('file'),
          'expect': int(meta.get('expect') or 0), 'category': meta.get('category'),
-         'source': meta.get('source'), 'find': minus[0], 'replace': plus[0]}
+         'source': meta.get('source'), 'origin': meta.get('origin'),
+         'created': meta.get('created'),
+         'find': minus[0], 'replace': plus[0]}
     missing = [k for k, v in p.items() if not str(v).strip()]
     if missing:
         raise SystemExit('FIELD MISSING %s：%s' % (p['id'] or '?', ','.join(missing)))
@@ -121,7 +124,7 @@ def write_index(patches):
     for p, body in patches:
         index.append({'id': p['id'], 'slug': p['slug'], 'file': p['file'],
                       'expect': p['expect'], 'category': p['category'],
-                      'source': p['source'],
+                      'source': p['source'], 'origin': p['origin'],
                       'patch': 'baseline/en-patches/%s.patch' % p['id'],
                       'sha256': hashlib.sha256(body.encode('utf-8')).hexdigest()})
     idx = {'schema': 'sep-cn-en-patches-dir/1',

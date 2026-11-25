@@ -61,7 +61,7 @@
 | `term_flow.py` | 术语落册统一流水线（rowspec 驱动幂等落册，specs/008） |
 | `registry_azsort.py` | 登记册 A–Z 分节重排（行序守恒门＋幂等，specs/033 消费方） |
 | `gen_en_summary.py` | 生成 GitBook 英文空间 TOC `yuanwen/SUMMARY-en.md`（ADR-0056，生成物不手改）；`--check` 只校验（已并入 `check_catalog_network.py` 的 G2 门） |
-| `en_patch_lib.py` | 补丁池唯一解析实现（目录正本三律＋C2 准入谓词，ADR-0062/0063；消费方＝yuanwen.py/check_en_patches.py） |
+| `en_patch_lib.py` | 补丁池唯一解析实现（目录正本三律＋C2 准入谓词＋`origin` 出处二分类，ADR-0062/0063/0085；消费方＝yuanwen.py/check_en_patches.py） |
 | `common.py` | 管线共享库（UTF-8 读写＋写后读回核验、SHA-256、SUMMARY 三级 zh_doc 匹配；非 CLI） |
 | `compose_from_ledger.py` | 【已废弃留档】旧布局（tasks/h/）账本拼装器（specs/040 F-25） |
 | `migrate_exec.py` | 【已废弃留档】拼音 slug 迁移执行器（ADR-0007/0008 后布局已不存在） |

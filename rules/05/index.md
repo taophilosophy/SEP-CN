@@ -14,6 +14,7 @@
 | [tools.md](tools.md) | 本地工具表、快速命令、lint 配置与表格风格 |
 | [site.md](site.md) | 站点运行（本地预演） |
 | [batch-rewrite.md](batch-rewrite.md) | 生成器与批量改写脚本纪律 |
+| [patches.md](patches.md) | 补丁三出口判据、出处二分类与公共性探针（ADR-0085） |
 | [judgment-rights.md](judgment-rights.md) | 判定权与规则所有权（ADR-0063）、升门四件套、测量效度 |
 | [commit-policy.md](commit-policy.md) | 提交策略（提交即推，ADR-0059） |
 | [shell-discipline.md](shell-discipline.md) | 本机 shell 工具纪律（Windows + Git Bash 实测判据） |
