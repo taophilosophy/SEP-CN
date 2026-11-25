@@ -77,10 +77,11 @@
 
 * **抓取**：1873/1873，0 抓取失败；unchanged 1351、账变化 522；耗时 1414 秒（16 路）。账变化的主体是 `local.js` 补登（存量文件入 `files[]`，盘面不变），磁盘真变化 126 文件／100 词条。
 * **转换**：1871 件成功；2 件因 Windows 文件占用 `PermissionError` 失败（frege-logic、scientific-reproducibility），补转后 I2 复核 **1873 件 0 issue**。
-* **磁盘变化分类**（`en_delta.py`）：`text` 66、`layout` 42、`rename-wave` 17、`binary` 1。`text` 中的大改件与 10 件 `substantive_revision` 变更完全对应（justice-retributive、hume-moral、plato-sophstate、culture-cogsci、gorampa、logic-deontic、delusion、embodied-cognition、rule-following、schopenhauer）。
+* **磁盘变化分类**（`en_delta.py`）：`text` 65、`layout` 42、`rename-wave` 17、`binary` 1、`asset` 1（合计 126）。`text` 中的大改件与 10 件 `substantive_revision` 变更完全对应（justice-retributive、hume-moral、plato-sophstate、culture-cogsci、gorampa、logic-deontic、delusion、embodied-cognition、rule-following、schopenhauer）。
 * **元数据**（`entry_meta_delta.py`）：29 件变化，其中 `substantive_revision` 变更 10 件（上游 2026-11-21～24 发布）。
 * **补丁**：3 条全部“有效”（命中 1/1），`mismatch 0`、`admission_bad 0`、`index_bad 0`、`public_candidates 0`；无需退役或改写。
-* **基线**：B3.1 重跑 1663／210，与旧基线集合零差（转好 0／转差 0）；B3.2 judge（旧池）pool 1780／gap 48／stale 45，`--build` 重建池后 pool 1811／gap 62／stale 0；相对旧基线（1851／22／0）新增 gap 40、修复 0——新增族集中在本轮 `en` 变化件，待 053 线下批四出口处置。
+* **基线**：B3.1 重跑 1663／210，与旧基线集合零差（转好 0／转差 0）；B3.2 judge（旧池）pool 1780／gap 48／stale 45（叙述值，无落盘凭证），`--build` 重建池后 pool 1811／gap 62／stale 0；相对旧基线（1851／22／0）新增 gap 40、修复 0——新增族集中在本轮 `en` 变化件，待 053 线下批四出口处置。
+* **收口复核**（`results/phase12-review.md`，独立复算）：实质数字全部成立；订正本卡 `text 66`→65 与分类串；修复 `logic-deontic` 重钉时 3 个旧图摘钉（按 `registered_orphans` 口径恢复登记，`en_integrity --all` 硬发现 4→3，余项均既存）；新登记待处置项——上游新版 `aristotle-psychology/notes.html` 双点错链 `index..html#ref-1`（建议补丁 P-004 或格式例外）、`.svg` 重导出被判 `layout` 的分类盲区、`en_integrity` 未入 `check_all`、`upsert_baseline` 整体替换 `files[]`。
 
 ## 6. 全库置空复核与账外补建（2026-11-25，用户指令“所有中文条目全部置空只 H1、允许重写进度”）
 
@@ -96,5 +97,5 @@
 4. `check_all` 19 项全绿；`wipe-2026-11-25.json` 报告随批刷新。
 
 **口径说明**：新建账的 673 条任务各带 1 条 `clear` 步骤（过程凭证，ADR-0084 D4 只追加），正文不动。
-* **处置**：`text` 66 件出建账清单（10 件正式修订优先），走 `compare.py` → 置空待译；`layout`／`rename-wave`／`binary` 不建账；`522` 账变化不构成上游更新。
+* **处置**：`text` 65 件出建账清单（10 件正式修订优先），走 `compare.py` → 置空待译；`layout`／`rename-wave`／`binary`／`asset` 不建账；`522` 账变化不构成上游更新。
 

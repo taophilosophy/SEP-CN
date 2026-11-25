@@ -85177,6 +85177,12 @@
           "kind": "image"
         },
         {
+          "path": "en/logic-deontic/fig-square-b.svg",
+          "sha256": "332abc04afdb7c893958d22787f3c1db1b3bdda364fbc41bd378b7d53a30be6f",
+          "bytes": 29427,
+          "kind": "image"
+        },
+        {
           "path": "en/logic-deontic/fig-hex-a.svg",
           "sha256": "00b9f06705ded58c79a6239a0ec2a04265af120d33c3dc6ad2fe50a3e456a0fc",
           "bytes": 22122,
@@ -85210,6 +85216,18 @@
           "path": "en/logic-deontic/fig-bar-a.svg",
           "sha256": "e5fe8dded8eec32da63fab139987d1c850a85c394cb955139931867ef1a80c64",
           "bytes": 45846,
+          "kind": "image"
+        },
+        {
+          "path": "en/logic-deontic/fig-box-b.svg",
+          "sha256": "9624a6e16912ca4d1d1bc3ecd1f860fb1c3f77337311c4d5df744d34cf65960c",
+          "bytes": 24289,
+          "kind": "image"
+        },
+        {
+          "path": "en/logic-deontic/fig-vbox-a.svg",
+          "sha256": "70ba971fc0cbd6a7db2498e6e6a6a178303fe90feb40a742ca8eb78ef872c25d",
+          "bytes": 9941,
           "kind": "image"
         },
         {
@@ -154928,5 +154946,5 @@
       }
     }
   ],
-  "updated_at": "2026-11-25T03:37:07Z"
+  "updated_at": "2026-11-25T04:38:06Z"
 }
