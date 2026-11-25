@@ -4,7 +4,8 @@
 - 承办：主会话（ADR-0034 主代理单干）
 - 上位：项目宪法（`.specify/memory/constitution.md`）、`rules/` 全部、`rules/pipeline.json`（节点结构）、`rules/naming.json`（标识）、`rules/standards.json`（标准登记）、specs/061（标准矩阵）、specs/063（阶段轨与公理化）
 - 合并对象：rev 1 的“节点文档承载审计”＋specs/063 的公理化成果（AX1–AX14／CT1–CT9）＋本轮全量审计、标准化、规范化、格式化设计
-- 版本：rev 2（2026-11-26，用户裁定案 B＋暂不开工＋全要素合并）
+- 版本：rev 5（2026-11-26；rev 2 全要素合并 → rev 3 工具链 → rev 4 三门＋登记表 → rev 5 三件套＋公理化扩展＋查缺补遗）
+- 施工图：`plan.md`（技术方案与回退）／`tasks.md`（T001–T114 任务与依赖）／`results/axioms-v3.md`（AX21–AX30）
 
 ## 0 方向声明（rules/08 §0）
 
@@ -177,7 +178,7 @@
 | 8 | `tools/progress.py` | 节点表增退役列 | 回滚 |
 | 9 | `tools/check_stages.py` | ⑨ 放行 retired | 回滚 |
 | 10 | `PROGRESS.md` | 重新生成 | 生成物 |
-| 11 | ADR-0091 | 新增（只追加） | 保留 |
+| 11 | ADR-0091（案 B 退役）／ADR-0092（三门分层＋双登记表＋清理检查点） | 新增（只追加） | 保留 |
 | 12 | CI | 若引节点计数须同步 | 不改引用 |
 
 ### 3.4 案 B 后矩阵（20 活跃节点）
@@ -320,6 +321,8 @@ B1 语义恰当性｜B2 26 个 reserved 语义｜B3 ex-05 状态位（退役后�
 4. §5 每族至少一个适用标准或“不适用”理由；待核项显式标注。
 5. §6／§7 规范可机检，承载工具列明。
 6. 本卡不实施任何代码／数据改动；`git log origin/main..main` 为空；`check_all` 全绿。
+7. **三件套自洽**（AX29／CT17）：本卡 spec＋plan＋tasks 齐全；`check_doc_shape` 对 56 张单卡判为合法、对本卡判为“工具型需三件套”且已满足。
+8. **公理化扩展**（AX21–AX30／CT13–CT17）：`results/axioms-v3.md` 全成立；CT16 反定理（无黄金测试不可证等价）作为 AX27 的必要性依据在案。
 
 ## 10 决策记录
 
@@ -330,7 +333,7 @@ B1 语义恰当性｜B2 26 个 reserved 语义｜B3 ex-05 状态位（退役后�
 | 审计范围 | 全流程／全阶段／全工具链／文档／软件工程理论／规则 |
 | 合并目标 | 并入 specs/064（rev 2） |
 | ADR 号 | 0091（0089 已被术语线占用，0090 由 063 预定） |
-| 工具链语言 | **Rust 1.100／edition 2024、禁 unsafe、多并发多线程**；A 级 24 项迁 Rust，B/C/D 分层不动（§12） |
+| 工具链语言 | **Rust 1.100／edition 2024、禁 unsafe、多并发多线程**；A 级 26 项迁 Rust，B/C/D 分层不动（§12） |
 | 其他语言 | Go 为“只选一门”时的性价比首选（同为 RE2 限制）；Python 3.15 现代化先行；Bun 维持站点（§13） |
 | 清理检查点 | `clean --check` 入 check_all 第 22 项，扫描面扩至 target/ 与缓存目录（§14） |
 | **语言组合** | **三门定案：Rust＋Python＋Bun**（不引入 Go；理由见 §13“三门判据”）——2026-11-26 批准 |
@@ -340,8 +343,9 @@ B1 语义恰当性｜B2 26 个 reserved 语义｜B3 ex-05 状态位（退役后�
 
 - **rev 1（2026-11-26）**：立卡，节点文档承载审计（三件套 5/62、六列矩阵、G1–G8）。
 - **rev 2（2026-11-26）**：案 B＋暂不开工裁定；合并 063 公理化并扩展至全要素（AX1–AX20／CT1–CT12）；补工具链（96）、规则（10）、ADR（88）、标准（96）审计；补标准化、规范化、格式化与实施路线。代码与数据零改动。
-- **rev 3（2026-11-26）**：增 §12 工具链 Rust 迁移逐个评估（96 项：A24／B26／C32／D12，黄金主测试，正则语义审计前置门，五批路线）、§13 其他语言对比（Rust／Go／Python／TS／C#／Zig）、§14 全局清理与缓存检查点（clean --check 入 check_all 第 22 项）；补“零第三方依赖”事实与 Python 现代化先行项。代码与数据零改动。
+- **rev 3（2026-11-26）**：增 §12 工具链 Rust 迁移逐个评估（96 项：A26／B29／C28／D10，黄金主测试，正则语义审计前置门，五批路线）、§13 其他语言对比（Rust／Go／Python／TS／C#／Zig）、§14 全局清理与缓存检查点（clean --check 入 check_all 第 22 项）；补“零第三方依赖”事实与 Python 现代化先行项。代码与数据零改动。
 - **rev 4（2026-11-26）**：用户批准**三门方案**（Rust＋Python＋Bun，不引入 Go）并定案入 §12.2／§13；新增 §15 全局登记表（长期／临时双表、15 字段、5 生命周期、5 状态、单一事实源约束、sha 分层校验、并入 check_all 第 22 项）；§8 路线加 P0 登记表项。代码与数据零改动。
+- **rev 5（2026-11-26）**：建立三件套（plan.md／tasks.md），本卡自身满足 AX29 判据；新增公理化扩展 AX21–AX30／CT13–CT17（含 CT16 反定理）；查缺补遗修正 5 项（评级计数 A24→26 等、B5 补两项、ADR 0091／0092 分列、§2.2 断链、首批登记范围）；§15.8 与 §16 风险表补入。代码与数据零改动。
 
 ## 12 工具链语言迁移：Rust 逐个评估（2026-11-26 用户指令）
 
@@ -355,9 +359,9 @@ B1 语义恰当性｜B2 26 个 reserved 语义｜B3 ex-05 状态位（退役后�
 
 ### 12.2 结论（先说判断）
 
-对 96 个工具逐个评级（全表见 `results/toolchain-rust-audit.md`）：**A 级 24／B 级 26／C 级 32／D 级 12**。
+对 96 个工具逐个评级（全表见 `results/toolchain-rust-audit.md`）：**A 级 26／B 级 29／C 级 28／D 级 10**（另 2 项：重复引用与包标记；rev 5 计数复核订正，rev 3 曾误记 24／26／32／12）。
 
-- **A 级 24 项**（check_* 14、审计 6、fetch 5、clean 1，`fetch_all` 记 A+）覆盖门禁核心面与全部高并发路径，重写面积约占全部代码 40%——迁完即达“原生并发＋内存安全＋单二进制”目标的约 80%。
+- **A 级 26 项**（check_* 14、审计 6、fetch 5、clean 1，`fetch_all` 记 A+；14+6+5+1＝26）覆盖门禁核心面与全部高并发路径，重写面积约占全部代码 40%——迁完即达“原生并发＋内存安全＋单二进制”目标的约 80%。
 - **2026-11-26 用户批准三门方案定案**：Rust（稳态内核＋并发抓取）＋Python 3.15（语义锁定＋边缘）＋Bun（站点），**不引入 Go**；理由见 §13“三门判据”。
 - **D 级 12 项禁迁**，其中三类是硬禁：转换器（`yuanwen`／`parser`，被 I2/I3 逐字节锁定，重写即灾难）、一次性迁移（`migrate_*`／`wipe_*`／`rebuild_dir`／`journal_migrate` 等）、浏览器自动化（`tl_browser_batch`，Rust 生态远弱于 Playwright）。
 - **C 级 32 项留 Python**：库（被 import，迁移需连带）、生成器（输出格式常调）、低频运维与会话密集者。
@@ -393,7 +397,7 @@ sep-py（Python 3.15）
 | B2 | check_stages／check_catalog_network／check_pairs／check_summary／check_taskfile_invariant | 同上（JSON 结构，纯函数） |
 | B3 | fetch_all／fetch／fetch_audit／fetch_catalog／catalog_drift | 并发基准（16 路 → 目标 64–128 路） |
 | B4 | check_yuanwen_fidelity／check_style／check_academic | **正则语义审计** |
-| B5 | 六轴 audit 四项＋check_terms／check_math_zh | 同上，风险最高 |
+| B5 | 六轴 audit 四项＋check_terms／check_math_zh＋en_source_audit／en_integrity | 同上，风险最高 |
 
 **正则语义审计（B4/B5 前置，不可跳过）**：逐工具列出不可直译模式（反向引用、lookaround、条件组），给出改写方案与等价性测试；无等价改写者降 C 留 Python。全表见 `results/toolchain-rust-audit.md` §10。
 
@@ -559,3 +563,39 @@ sep-py（Python 3.15）
 - 与 `check_junk.py`：junk 管根目录白名单（空间维度）；登记表管产物生命周期（时间维度）。
 - 与 `check_doc_size.py`：`size_bytes` 字段是“大体积产物”判定依据。
 - 与 ADR-0081/0082 清史纪律：长期表是“未来留存”的落地形态——凡 `permanent` 产物，其存在与 sha 受门禁保护，与记录管理偏离（D4）的补救方向一致。
+
+### 15.8 首批登记范围（S1 起点）
+
+避免“一次登记全库”的冲动，首批只登三件长期物，验证机制后再扩：
+
+| 条目 | lifecycle | clean_policy | 理由 |
+| ---- | ---- | ---- | ---- |
+| `baseline/catalog.json` | permanent | protect | 目录账，1.1 阶段核心产物 |
+| `baseline/en-errata/en-errata.md` | permanent | protect | 勘误表，ADR-0076 |
+| `baseline/en-patches/INDEX.json` | permanent | protect | 补丁池索引（生成物） |
+
+**明确不登记**：`en/`（事实源 `baseline/entries.json`）、`tasks/`、`baseline/en-patches/*.patch`（索引已覆盖）；`state/` 下运行态默认全归 temp 表、TTL 按 `session`。
+
+## 16 风险登记
+
+| # | 风险 | 概率 | 影响 | 缓解 |
+| ---- | ---- | ---- | ---- | ---- |
+| R1 | Rust regex 与 Python `re` 语义不一致 | 高 | 判据静默错判 | S8 前置正则审计；无等价改写者留 Python；黄金测试覆盖 Unicode 与边界 |
+| R2 | 重写引入行为漂移 | 中高 | 门禁假绿／假红 | 黄金测试为唯一验收；未过测试不得替换 |
+| R3 | 双机／CI 构建差异 | 中 | 本地绿 CI 红 | 三份锁文件＋工具链钉；CI 与本地同镜像 |
+| R4 | 登记表重复既有事实源 | 中 | 第二本账 | AX22 单源公理；首批只三件；`en/` 不登记 |
+| R5 | 清理误删用户草稿 | 低 | 数据丢失 | SKIP 集含 `script/`／`en/`／`yuanwen/`；`--go` 显式 |
+| R6 | 并行会话在途红项误判 | 高 | 归因耗时 | 红项先查 mtime 与最近提交归属；不碰他人文件 |
+| R7 | 064 自身文档膨胀 | 中 | 门禁红 | 现 561 行／37 KB；新增优先入 results/；近 800 行拆分 |
+
+## 17 查缺补遗（rev 5 修正清单）
+
+| # | 缺漏 | 证据 | 处置 |
+| ---- | ---- | ---- | ---- |
+| M1 | **评级计数错**：§12.2 与汇总表写 A24／B26／C32／D12，逐行复核为 **A26／B29／C28／D10** | 脚本解析 `toolchain-rust-audit.md` 表格 | 四处修正，rev 3 记录加“计数复核订正” |
+| M2 | §12.5 批次表漏 `en_source_audit`／`en_integrity`（A 级审计 6 项只列 4） | A 级清单与 B5 行对照 | B5 补两项；tasks T092 已含 |
+| M3 | ADR 号未分列：案 B 用 0091，三门／登记表／清理检查点无号 | §10 决策记录 | 增 ADR-0092（三门＋双表＋清理检查点） |
+| M4 | 登记表首批范围未定 | §15 只给 schema | 新增 §15.8（三件起步） |
+| M5 | 风险无登记表 | plan §5 有、spec 无 | 新增 §16（R1–R7） |
+| M6 | 本卡自身不满足其规定的三件套判据（AX29 自指矛盾） | 此前只有 spec＋results | 建 plan.md／tasks.md，CT17 证其一致 |
+| M7 | 观察项：§2.2 曾引用已被覆盖的 rev 1 §3（断链） | 文本检查 | 现文本已直接指向 §3.4，无需处置（rev 4 前已清理，登记以免复发） |
