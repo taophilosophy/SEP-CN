@@ -68,6 +68,6 @@
 | [061-standards-realignment-2026](061-standards-realignment-2026/spec.md) | 翻译全流程国标／国际规范复核（2026-11-25） | — | — | — | — |
 | [062-phase12-recheck](062-phase12-recheck/spec.md) | 062 — 阶段 1.1／1.2：目录四方互转复核与 HTML 重抓·基线·转换补丁复核 | — | ✓ | ✓ | — |
 | [063-stage-naming](063-stage-naming/spec.md) | 063 — 阶段轨命名与线级标记登记（四段纯流程＋独立战役块，22 节点归位；阶段为派生视图；编号族去冗余） | — | ✓ | ✓ | — |
-| [064-flow-spec-audit](064-flow-spec-audit/spec.md) | 064 — 节点文档承载与全流程规格完备性审计（三件套分布、22 节点六列矩阵、8 项缺口；评估类建议书） | — | — | — | — |
+| [064-flow-spec-audit](064-flow-spec-audit/spec.md) | 064 — 全流程全要素审计·公理化·标准化·规范化（AX1–AX20／CT1–CT12；案 B：ex-05／tr-05 退役并入 rv-09；12 项缺口） | — | — | — | — |
 
 共 63 个规格目录。
