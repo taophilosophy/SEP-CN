@@ -241,3 +241,54 @@ class AtomicWriteTest(unittest.TestCase):
             check_terms._atomic_write(p, 'old\n')
             check_terms._atomic_write(p, 'new\n')
             self.assertEqual(open(p, encoding='utf-8').read(), 'new\n')
+
+class PairingGateTests(unittest.TestCase):
+    """ADR-0088 审定引用配对的集成测试：检查器真会亮告警（不只是判据单测）。"""
+
+    REG_TEXT = (
+        '# 测试登记册\n\n'
+        '| 键 | 原文 | 译法 | 首现 | 依据 | 裁定日期 |\n'
+        '| --- | --- | --- | --- | --- | --- |\n'
+        '| halting problem | — | 停机问题 | test | 审定名词库（termonline-all，凭证 2026-11-23） | 2026-11-23 |\n'
+        '| knowing how | — | 知道如何 | test | 审定名词库（termonline-all，凭证 2026-11-23） | 2026-11-23 |\n'
+        '| negative case | — | 反证形 | test | 审定库无对口条目（2026-11-26 界面复核：未审定） | 2026-11-26 |\n'
+    )
+
+    def setUp(self):
+        import tempfile
+        from tools import term_pairing as tp
+        self.tmp = tempfile.mkdtemp(prefix='pairgate-')
+        reg = os.path.join(self.tmp, 'registry.md')
+        with io.open(reg, 'w', encoding='utf-8', newline='\n') as f:
+            f.write(self.REG_TEXT)
+        idx = {'records': [['停机问题', 'halting problem', '自然辩证法名词', '03.662', 'audit']],
+               'by_key': {}, 'en': {}, 'cn': {}}
+        for i, r in enumerate(idx['records']):
+            for e in tp.en_stems(r[1]):
+                idx['en'].setdefault(e, []).append(i)
+            for ck in tp.cn_keys(r[0]):
+                idx['cn'].setdefault(ck, []).append(i)
+        self.idx_path = os.path.join(self.tmp, 'index.json.gz')
+        tp.save_index(idx, self.idx_path)
+        buf = io.StringIO()
+        with redirect_stdout(buf):
+            self.code = check_terms.main(['--registry', reg, '--pair-index', self.idx_path])
+        self.out = buf.getvalue()
+
+    def tearDown(self):
+        import shutil
+        shutil.rmtree(self.tmp, ignore_errors=True)
+
+    def test_matched_row_passes_silently(self):
+        self.assertNotIn('halting problem', self.out)
+
+    def test_unmatched_claim_warns(self):
+        self.assertIn('审定引用无配对（告警）: knowing how', self.out)
+
+    def test_negative_claim_exempt(self):
+        self.assertNotIn('negative case', self.out)
+
+    def test_warning_does_not_raise_hard_error(self):
+        # 配对告警是告警级：本夹具无自洽错误，退出码应为 0
+        self.assertEqual(self.code, 0)
+

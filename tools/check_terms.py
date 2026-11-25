@@ -483,6 +483,7 @@ def main(argv=None):
     argv = sys.argv[1:] if argv is None else argv
     reg_path, docs = REGISTRY, []
     reg2_path = REGISTRY2
+    pair_index_path = PAIR_INDEX
     ledger_path = ''
     injected = False
     i = 0
@@ -498,6 +499,8 @@ def main(argv=None):
             reg2_path, i = argv[i + 1], i + 1
         elif argv[i] == '--ledger':
             ledger_path, i = argv[i + 1], i + 1
+        elif argv[i] == '--pair-index':
+            pair_index_path, i = argv[i + 1], i + 1
         i += 1
     if ledger_path and not docs:
         print('--ledger 仅在 --docs 模式可用（先给台账路径，再给 --docs <词条>…）')
@@ -527,11 +530,12 @@ def main(argv=None):
     reg1_rows = load_one('登记册', reg_path)
     reg2_rows = load_one('人名表', reg2_path, warn_orig=False)
 
-    # 审定引用配对检查（ADR-0088）：注入模式（测试）跳过保证密闭；索引缺失时跳过并提示
+    # 审定引用配对检查（ADR-0088）：注入模式（测试）跳过保证密闭；索引缺失时跳过并提示；
+    # --pair-index 可指定索引（测试用小索引注入，兼作集成测试入口）
     pair_bad = []
-    if not injected:
-        if os.path.exists(PAIR_INDEX):
-            pair_index = term_pairing.load_index(PAIR_INDEX)
+    if not injected or '--pair-index' in argv:
+        if os.path.exists(pair_index_path):
+            pair_index = term_pairing.load_index(pair_index_path)
             pair_bad = audit_basis_pairs(reg1_rows, pair_index)
             for term, trans, v, ln in pair_bad[:10]:
                 warns.append('审定引用无配对（告警）: %s「%s」档 %s（行 %d）' % (term, trans, v, ln))
@@ -594,7 +598,7 @@ def main(argv=None):
         print('非英语术语缺原文（提醒，不计硬错误）: %d 条，清单 → %s'
               % (len(orig_entries), ORIG_REPORT))
         # 审定引用配对（ADR-0088）：告警级，清单落 specs/058
-        if pair_bad or os.path.exists(PAIR_INDEX):
+        if pair_bad or (os.path.exists(pair_index_path) and '--pair-index' not in argv):
             write_pair_warnings(pair_bad, PAIR_REPORT)
             print('审定引用无配对（告警，不计硬错误）: %d 条，清单 → %s'
                   % (len(pair_bad), PAIR_REPORT))
