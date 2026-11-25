@@ -19,6 +19,7 @@ import json
 import os
 import re
 import sys
+import unicodedata
 from collections import deque
 
 sys.path.insert(0, '.')
@@ -40,7 +41,10 @@ BLACK_PREFIX = (
 
 
 def strong(s):
-    s = s.lower().replace('’', "'")
+    # 变音符折叠（2026-11-25 加）：naïve realism 曾因 ï 被剥成 naverealism，
+    # 与 naive realism 判成两键而误报缺口；NFKD 去组合符后再归一。
+    s = unicodedata.normalize('NFKD', s.lower().replace('’', "'"))
+    s = ''.join(ch for ch in s if not unicodedata.combining(ch))
     return re.sub(r'[^a-z0-9\u4e00-\u9fff]+', '', s)
 
 
