@@ -608,4 +608,4 @@
 
 | slug | 位置 | 上游原文 | 缺陷定性 | 参考读法 | 中文承载 | 凭证 |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| aristotle-psychology | notes.html `note-1` 回链 | `<a href="index..html#ref-1">1.</a>` | ③（链接目标多一「.」） | `<a href="index.html#ref-1">1.</a>`（同页脚注回链） | 转换层补丁 P-004 修正；译文无影响（页内链接不落 md） | `git apply --check` 通过、`en_integrity --all` 缺件消失（2026-11-25） |
+| aristotle-psychology | notes.html `note-1` 回链 | `<a href="index..html#ref-1">1.</a>` | ③（链接目标多一个点号） | `<a href="index.html#ref-1">1.</a>`（同页脚注回链） | 转换层补丁 P-004 修正；译文无影响（页内链接不落 md） | `git apply --check` 通过、`en_integrity --all` 缺件消失（2026-11-25） |

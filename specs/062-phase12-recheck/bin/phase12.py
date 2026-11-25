@@ -18,6 +18,7 @@ import os
 import shutil
 import subprocess
 import sys
+import time
 from collections import Counter
 from datetime import datetime, timezone
 
@@ -142,6 +143,26 @@ def main(argv=None):
         fetch_result = json.load(open(fetch_last, encoding='utf-8'))
         fetch_result['reused'] = True
 
+    # 补转（2026-11-25，specs/062 R-6）：转换失败不阻塞抓取，但必须自动补转并留痕；
+    # Windows 文件占用（PermissionError）多为瞬时句柄，串行重试一次即可。
+    convert_retry = None
+    fails = ((fetch_result or {}).get('json') or {}).get('convert_failures') or []
+    if fetch and fails:
+        convert_retry = []
+        for f in fails:
+            slug = f.get('slug')
+            if not slug:
+                continue
+            time.sleep(1.5)   # 让上一轮写句柄释放
+            c, o, e = run(['tools/yuanwen.py', slug])
+            entry = {'slug': slug, 'exit': c, 'recovered': c == 0,
+                     'at': datetime.now(timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ')}
+            if c != 0:
+                entry['error'] = ((e or o).splitlines() or [''])[-1][:300]
+            convert_retry.append(entry)
+            print('[%s] 补转 %s%s' % ('OK' if c == 0 else 'FAIL', slug,
+                                     '' if c == 0 else '：' + entry['error']))
+
     after = snap(ENTRIES)
     delta = diff_snap(before, after)
     print('[OK] 差集：变化 %d／新增 %d／移除 %d'
@@ -161,14 +182,17 @@ def main(argv=None):
     prog = progress()
     report = {'schema': 'sep-cn-phase12/1',
               'generated_at': datetime.now(timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ'),
-              'fetch': fetch_result, 'delta': {k: v[:200] for k, v in delta.items()},
+              'fetch': fetch_result, 'convert_retry': convert_retry,
+              'delta': {k: v[:200] for k, v in delta.items()},
               'delta_counts': {k: len(v) for k, v in delta.items()},
               'patches': {'summary': patches, 'review': review},
               'fidelity': fidelity, 'progress': prog}
     with open(os.path.join(RES, 'phase12-run.json'), 'w', encoding='utf-8', newline='\n') as f:
         f.write(json.dumps(report, ensure_ascii=False, indent=1) + '\n')
     write_md(report)
-    ok = (patches or {}).get('mismatch', 1) == 0 and (fidelity or {}).get('issue_total', 1) == 0
+    ok = ((patches or {}).get('mismatch', 1) == 0
+          and (fidelity or {}).get('issue_total', 1) == 0
+          and all(x['recovered'] for x in (convert_retry or [])))
     print(json.dumps({'phase': '1.2', 'ok': ok,
                       'delta': report['delta_counts'],
                       'patch_verdicts': Counter(r['verdict'] for r in review),
@@ -185,7 +209,10 @@ def write_md(r):
          '| 抓取 | %s |' % ('执行' if r['fetch'] else '跳过（--no-fetch）'),
          '| 变化件 | %d |' % r['delta_counts']['changed'],
          '| 新增件 | %d |' % r['delta_counts']['added'],
-         '| 移除件 | %d |' % r['delta_counts']['removed'], '']
+         '| 移除件 | %d |' % r['delta_counts']['removed'],
+         '| 补转 | %s |' % ('无失败' if not r.get('convert_retry') else
+                            '；'.join('%s %s' % (x['slug'], '成功' if x['recovered'] else '仍失败')
+                                     for x in r['convert_retry'])), '']
     if r['delta_counts']['changed']:
         L += ['变化清单（前 50）：' + '、'.join('`%s`' % s for s in r['delta']['changed'][:50]), '']
     L += ['## 二、补丁复核（必要性／有效性／一致性）', '',

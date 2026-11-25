@@ -61,5 +61,36 @@ class TestWorkerUnchanged(unittest.TestCase):
         self.assertEqual(stats["done"], 1)
 
 
+class TestMergeFiles(unittest.TestCase):
+    """钉账并集保留（2026-11-25，specs/062 R-2）：上游新版不再引用的旧资产不摘钉。"""
+
+    def test_update_retain_and_append(self):
+        from tools.fetch_entry import merge_files
+        old = [
+            {"path": "en/x/index.html", "sha256": "a"},
+            {"path": "en/x/fig-old.svg", "sha256": "b"},
+            {"path": "en/x/notes.html", "sha256": "c"},
+        ]
+        new = [
+            {"path": "en/x/index.html", "sha256": "A"},
+            {"path": "en/x/notes.html", "sha256": "C"},
+            {"path": "en/x/fig-new.svg", "sha256": "D"},
+        ]
+        merged = merge_files(old, new)
+        self.assertEqual([f["path"] for f in merged],
+                         ["en/x/index.html", "en/x/fig-old.svg",
+                          "en/x/notes.html", "en/x/fig-new.svg"])
+        self.assertEqual(merged[0]["sha256"], "A")   # 钉前移
+        self.assertEqual(merged[1]["sha256"], "b")   # 旧钉保留（注册残件）
+        self.assertEqual(merged[3]["sha256"], "D")   # 新件追加
+
+    def test_empty_sides(self):
+        from tools.fetch_entry import merge_files
+        self.assertEqual(merge_files([], [{"path": "p", "sha256": "1"}]),
+                         [{"path": "p", "sha256": "1"}])
+        self.assertEqual(merge_files([{"path": "p", "sha256": "1"}], []),
+                         [{"path": "p", "sha256": "1"}])
+
+
 if __name__ == "__main__":
     unittest.main()

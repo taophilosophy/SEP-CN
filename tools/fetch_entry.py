@@ -203,6 +203,21 @@ def _journal_lock(slug, old_main_sha, new_main_sha, rec):
         "source_url": rec.get("source_url")})
 
 
+def merge_files(old_files, new_files):
+    """钉账并集保留（2026-11-25，specs/062 R-2）。
+
+    新抓包未含、旧钉已有的文件**保留原记录**：上游新版不再引用的资产（改版后的
+    旧图、被撤的补充页）在盘面仍存在（`en/` 绝对冻结，ADR-0062），摘钉即成
+    `en_integrity` 的游离件硬发现；保留则落既定的 `registered_orphans`
+    （版本更替残件，信息级）。两包同有者以新记录为准（钉前移）；新路径追加。
+    顺序：先旧序（原位更新），后新件。
+    """
+    new_by = {f["path"]: f for f in (new_files or [])}
+    merged = [new_by.pop(f["path"], f) for f in (old_files or [])]
+    merged.extend(new_by.values())
+    return merged
+
+
 def upsert_baseline(rec):
     from tools.common import BASELINE_LOCK
     if not rec.get("files"):
@@ -217,8 +232,11 @@ def upsert_baseline(rec):
             base = load_json(path)
         else:
             base = {"schema": "sep-cn-baseline/1", "entries": []}
-        old_main_sha = _main_sha_of(next(
-            (e for e in base["entries"] if e["slug"] == rec["slug"]), {}).get("files"))
+        prev = next((e for e in base["entries"] if e["slug"] == rec["slug"]), None)
+        old_main_sha = _main_sha_of((prev or {}).get("files"))
+        if prev and prev.get("files"):
+            rec = dict(rec)
+            rec["files"] = merge_files(prev["files"], rec["files"])
         entries = [e for e in base["entries"] if e["slug"] != rec["slug"]]
         entries.append(rec)
         entries.sort(key=lambda e: e["slug"])

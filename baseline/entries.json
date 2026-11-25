@@ -9602,6 +9602,12 @@
           "sha256": "978c938246e7f2aa297ba63502204063e314b5d0e82491c49340bca357f9b00f",
           "bytes": 22960,
           "kind": "supplement"
+        },
+        {
+          "path": "en/aristotle-psychology/suppl1.html",
+          "sha256": "db799a6ac918827bef3fb5ab80ad2b5a6a0378db60b35f04a26cf33c6bcf4ecb",
+          "bytes": 22957,
+          "kind": "supplement"
         }
       ],
       "missing": [],
@@ -131304,6 +131310,12 @@
           "sha256": "fdbd11c385f344975d770f5419b3b6a49ff46c6664eec4161899eab5ae6dc605",
           "bytes": 89114,
           "kind": "main"
+        },
+        {
+          "path": "en/saadya/notes.html",
+          "sha256": "f7ff969037ac8fd808c5febabdbd66016fd106a092a4ee1bff7acf17898eaf23",
+          "bytes": 12569,
+          "kind": "notes"
         }
       ],
       "missing": [],
@@ -154946,5 +154958,5 @@
       }
     }
   ],
-  "updated_at": "2026-11-25T05:06:46Z"
+  "updated_at": "2026-11-25T05:14:38Z"
 }
