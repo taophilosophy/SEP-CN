@@ -26,6 +26,13 @@ OUT = 'specs/013-person-attribution/results/gnd-triage-2026-11-26.tsv'
 LEDGER = 'specs/013-person-attribution/results/gnd-auto-ledger-2026-11-26.tsv'
 SHORT = 'specs/013-person-attribution/results/gnd-review-short-2026-11-26.tsv'
 
+# 人工复核发现的同名异人疑点：判据过得再像也要降到 review，不自动采。
+# Páez 判例（2026-11-26）：GND 记 Jurist，而 en/ 里 Paez 2022 是美学/知识论作者，
+# 执业域不合即可能是厄瓜多尔法学家同名人。
+SUSPECT = {
+    'Páez, Andrés': 'GND 记 Jurist；en/ 语境为哲学作者（Paez 2022 美学/知识论），同名异人须核',
+}
+
 DE2ZH = {
     'Deutschland': '德国', 'Frankreich': '法国', 'USA': '美国', 'Großbritannien': '英国',
     'Österreich': '奥地利', 'Schweiz': '瑞士', 'Italien': '意大利', 'Spanien': '西班牙',
@@ -221,6 +228,8 @@ def triage_one(key, cand_text):
     detail = ('gnd=%s; name=%s; birth=%s; death=%s; coa=%s; pob=%s; occ=%s; country=%s'
               % (best['gnd'], best['pref'], best['birth'], best['death'],
                  best['coa'], best['pob'], best['occ'], country))
+    if key in SUSPECT:
+        return 'review', '%s｜%s' % (reason, SUSPECT[key]), detail
     return 'auto', reason, detail
 
 
@@ -253,11 +262,16 @@ def best_brief(key, cand_text):
 def main():
     rows, auto, review, none_cnt = [], [], [], 0
     brief_rows = []
+    # 断点续跑会在候选池里留下同键多行（后一次为重试结果）；按键去重、后者胜，
+    # 保证分诊口径是 780 个键而不是 783 行（2026-11-26 实测 Bṛhaspati、Brock, Dan、
+    # Brock, Gillian 各重复一次）。
+    pool = {}
     for line in io.open(SRC, encoding='utf-8'):
         c = line.rstrip('\n').split('\t')
         if len(c) < 4 or c[0] == '键':
             continue
-        key, cand_text = c[0], c[3]
+        pool[c[0]] = c[3]
+    for key, cand_text in pool.items():
         v, reason, detail = triage_one(key, cand_text)
         if v == 'auto':
             auto.append((key, detail, reason))

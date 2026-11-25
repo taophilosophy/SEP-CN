@@ -56,4 +56,20 @@ Wikidata 侧同时复测：`wbsearchentities` 直接 429（unthrottling 需联�
 
 **结论**：人名元数据**不做批量自动回填**，两档方案维持——GND 只产**候选 dossier**
 （`gnd-candidates-2026-11-26.tsv`，含生卒、职业、出生地，供人工消歧），A 档仍走人工判定；
-B 档查无留空。auto-ledger 现有 0 行，保留生成器以备将来唯一命中时使用。
+B 档查无留空。
+
+## 全量跑完的实测（2026-11-26 晚，780/780）
+
+后台池跑满 780 名后重跑判定线（`gnd_triage.py`，候选池按键去重、后者胜）：
+
+| 档位 | 条数 | 处置 |
+| ---- | ---- | ---- |
+| auto | 6 | 仅作待核条目（不直接写登记册）：Dorsey, Dale（1976–）、Kirmānī, Ḥamīd al-Dīn（963–1021）、Lopez-Escobar, Edgar（1937–）、McCrae, Robert（1949–）、Molema, S. M.（1892–1965）、Pelletier, Francis Jeffry（1944–） |
+| review | 383 | 人工扫读 `gnd-review-short-2026-11-26.tsv`（已按姓名过滤＋年份／职业排序） |
+| none | 391 | 查无可用候选，留空 |
+
+即全量自动档也只有 **6/780（0.77%）**，且 6 条均为“人名一致＋学界职业＋年份合理”，
+仍以人工复核为准。auto-ledger 只作凭证草稿。
+
+人工复核抓到的反例已进防线：`Páez, Andrés` GND 记 Jurist，而 en/ 里 Paez 2022 是
+美学／知识论作者，执业域不合即可能同名异人 → 降 review（`gnd_triage.SUSPECT`）。
