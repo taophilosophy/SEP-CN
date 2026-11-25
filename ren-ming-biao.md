@@ -2863,7 +2863,7 @@
 | Lysenko, Trofim | — | 李森科 | 俄罗斯 | 1898–1976 | 语料回收（lakatos 首译） | 史学界通行汉译（苏联农学家，李森科事件主角）；审定库无相关命中（凭证 2026-11-06）；籍属/生卒联网查证：GND 规范标目 gnd 118575597（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Lysis | Λύσις | 吕西斯 | 古希腊／南意大利（塔兰托） | 约前 5–4 世纪 | bessarion | 学界通行音译（毕达哥拉斯派成员，《致希帕尔科斯书信》托名作者）；凭证 2026-11-12 | 2026-11-12 |
 | Lønning, Jan Tore | — | Jan Tore Lønning | 挪威 | 1956– | logic-massexpress | 无通行汉名，保留英文原名；凭证 2026-11-10；籍属/生卒联网查证：Wikidata Q83401629（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
-| Łukasiewicz, Jan / Jan Łukasiewicz | Jan Łukasiewicz | Jan Łukasiewicz | 波兰 | 1878–1956 | 语料回收（全目录）；logic-fuzzy | 本库惯例保留英文原名（波兰逻辑学家）；凭证 2026-11-09；2026-11-13 重复行合并（旧键 `Jan Łukasiewicz`）；籍属/生卒联网查证：Wikidata Q313454（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
+| Łukasiewicz, Jan / Jan Łukasiewicz | Jan Łukasiewicz | 扬·卢卡西维茨 | 波兰 | 1878–1956 | 语料回收（全目录）；logic-fuzzy | 本库惯例保留英文原名（波兰逻辑学家）；凭证 2026-11-09；2026-11-13 重复行合并（旧键 `Jan Łukasiewicz`）；籍属/生卒联网查证：Wikidata Q313454（2026-11-20 查，凭证 verify-2026-11-20-people.tsv）；译形改定 2026-11-25：通行汉名卢卡西维茨（汪奠基《现代逻辑》1937 介绍“卢卡西维茨的三值逻辑”；北大哲学系逻辑学科史沿用；扬=Jan 通行），原“保留英文”撤销 | 2026-11-20 |
 
 ## M
 
@@ -3822,7 +3822,7 @@
 | Rehnquist, William | — | 威廉·伦奎斯特 | 美国 | 1924–2005 | double-effect | 学界通行汉译（美国最高法院首席大法官，Vacco v. Quill 多数意见）；凭证 2026-11-11 | 2026-11-11 |
 | Reich, Robert | — | 罗伯特·赖克 | 美国 | 1946– | economic-democracy | 学界惯例（美国劳工部长/学者，通行音译）；籍属/生卒联网查证：Wikidata Q718828（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Reichardt, Werner | — | 维尔纳·赖夏特 | 德国 | 1924–1992 | change | 认知科学通行汉译（赖夏特探测器提出者）；凭证 2026-11-12 change r2 | 2026-11-12 |
-| Reichenbach, Hans / Hans Reichenbach | — | Reichenbach | 德国／美国 | 1891–1953 | spacetime-convensimul；lvov-warsaw | 本库惯例保留英文原名；凭证 2026-11-09；2026-11-13 重复行合并（旧键 `Hans Reichenbach`）；籍属/生卒联网查证：Wikidata Q170147（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
+| Reichenbach, Hans / Hans Reichenbach | — | 汉斯·赖欣巴哈 | 德国／美国 | 1891–1953 | spacetime-convensimul；lvov-warsaw | 本库惯例保留英文原名；凭证 2026-11-09；2026-11-13 重复行合并（旧键 `Hans Reichenbach`）；籍属/生卒联网查证：Wikidata Q170147（2026-11-20 查，凭证 verify-2026-11-20-people.tsv）；译形改定 2026-11-25：通行汉名赖欣巴哈（商务印书馆汉译名著《科学哲学的兴起》著者署名；孙明湘〈试论赖欣巴哈的意义理论〉《科学技术与辩证法》2004-5），原“保留英文”按 ADR-0022 撤销 | 2026-11-20 |
 | Reicher-Marek, Maria | — | 玛丽亚·赖歇尔-马雷克 | 奥地利 | — | ehrenfels | 音译（价值论与美学学者，本词条致谢）；凭证 2026-11-13 | 2026-11-13 |
 | Reid, Thomas | — | 托马斯·里德 | 英国（苏格兰） | 1710–1796 | SUMMARY 定名（r/reid.md） | 学界惯例（SUMMARY 定名沿用；学界通行汉译）；凭证 2026-11-06；籍属/生卒联网查证：Wikidata Q316347（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Reigersbergen, Maria van | — | 玛丽亚·范·赖格斯贝亨 | 荷兰 | 1589–1653 | grotius | 音译（格劳秀斯之妻，助其越狱）；凭证 2026-11-12 | 2026-11-12 |
