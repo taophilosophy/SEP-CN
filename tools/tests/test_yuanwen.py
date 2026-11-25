@@ -38,7 +38,10 @@ class TestInline(unittest.TestCase):
                 r'\mbox{for every \(f\)-variant \(w\) of \(v\)} \end{align}')
         out = inline_to_md(html)
         self.assertNotIn('\x00', out)
-        self.assertIn('$f$', out)
+        # 2026-11-26 裁定改判：环境体内的 `\(…\)` 是公式原文（全库 21 件 84
+        # 处），转 `$…$` 与 H0 文字流不等（B3.2 判 gap）——保持字面
+        self.assertIn('\\(f\\)-variant \\(w\\)', out)
+        self.assertNotIn('$f$', out)
 
     def test_note_ref_prefixed_anchor(self):
         # bell-theorem 的锚是 notes.html#note-8（自带前缀），不得双重化

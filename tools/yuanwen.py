@@ -730,8 +730,10 @@ def inline_to_md(html, slug=None):
     # 二次清扫（2026-11-25，logic-intensional 判例）：裸排环境内容里可能有行内
     # 公式占位（`\mbox{for every \(f\)-variant …}`）。占位先于环境入库，环境
     # 还原在其后，首轮替换已过 → 不补扫就把 NUL 哨兵泄漏进 md（12 处）。
-    # 这里的残留只可能在显示环境内，按行内式还原（不含希腊单字母转文字分支；
-    # 该分支只服务正文行内语境，环境内出现即为上游公式体，保持公式形更稳）。
+    # 这里的残留只可能在显示环境内。行内 `\(…\)` **保持字面 `\(…\)`**（2026-11-26，
+    # logic-intensional 判例）：H0 环境体内的 `\(` 是公式原文的一部分（全库 21
+    # 件 84 处），旧式转 `$…$` 与 H0 文字流不等；显示体 `[…]` 分支不变（其体
+    # 在 MATH_RE 层整段占位、内嵌 `\(…\)` 本就未拆）。
     for idx, val in enumerate(store):
         key = '\x00%d\x00' % idx
         if key not in s:
@@ -739,7 +741,7 @@ def inline_to_md(html, slug=None):
         v = re.sub(r'[ \t\r\n\f\v]+', ' ', unescape(val)).strip()
         if v.startswith('\\(') and v.endswith('\\)'):
             body = _esc_math_dollar(v[2:-2])
-            v = ('$' + body + '$') if body.strip() else r'\(\)'
+            v = ('\\(' + body + '\\)') if body.strip() else r'\(\)'
         elif v.startswith('\\[') and v.endswith('\\]'):
             v = '$$' + _esc_math_dollar(v[2:-2], display=True) + '$$'
         s = s.replace(key, v)

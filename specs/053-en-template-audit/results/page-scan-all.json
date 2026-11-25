@@ -5,12 +5,12 @@
  "total": 1873,
  "counts": {
   "rule": 0,
-  "pool": 1871,
-  "gap": 2,
+  "pool": 1872,
+  "gap": 1,
   "stale": 0
  },
  "page_bytes": 236108340,
- "pool_bytes": 122843291,
+ "pool_bytes": 122970983,
  "entries": [
   {
    "slug": "18thGerman-preKant",
@@ -7489,12 +7489,9 @@
   {
    "slug": "logic-intensional",
    "page_len": 138497,
-   "status": "gap",
-   "why": "unaligned text units",
-   "sample": {
-    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
-    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
-   }
+   "status": "pool",
+   "n_patches": 159,
+   "pool_bytes": 127692
   },
   {
    "slug": "logic-intuitionistic",

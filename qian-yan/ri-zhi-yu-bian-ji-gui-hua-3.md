@@ -176,3 +176,12 @@
 * **事故与自愈**：并行会话 1d85345ff（058 批 9）收编本批 trial.py／trial.md／verification.md／verify_six_axis.py，提交信息与内容不符（历史事实，禁 force 不追改）；8f9201a82 漏 add `journal_lib.py`／`task_ops.py`，已补提并推送，单测 591 绿。
 * **S6 对象域双登记落地**（同日用户批准）：criteria_domain 24 条＋多判据节点 object_class；check_stages 增 S6 两谓词（16 项全绿）；归并探针由"13/13 全绿"转为"16 项失败 1"，归并从此可检。连带：R1/R2 判据由自然语言正名为 review-verity／review-coherence，承载体登记 kind=manual（S6 首轮即暴露）；P29 check.ref 改 [S2,S6]；单测 593 绿。
 * **遗留**：T0 全库六轴摸底、试金石 3 件、A–Z 存量回炉（T1/T2）；语域样章与逻辑骨架金样本待用户裁定后入库。
+
+
+## 2026-11-25/26 阶段 1.2 独立复核＋缺口族根因收口（specs/062 复核、specs/053 第四十五／四十六批）
+
+* **独立复核（ADR-0039）**：阶段 1.2 实质数字全部复算成立；订正文档数字 2 处（text 66→65、资产口径）、修复图钉摘除 3 件（upsert_baseline 整体替换 files[] 的缺陷，改并集保留＋registered_orphans 补登）、旧池 judge 凭证补齐（1780/48/45 复现）、SVG 归图片资产（用户裁定：sha 变了随钉替换）。报告 `specs/062-phase12-recheck/results/phase12-review.md`。
+* **B 族账本随 en/ 刷新（第四十四批）**：40 件假阳性 gap 根因是版面账/结构账冻结于抓取前（版权年滚动＋改名波纹）；`--rebuild-b3` 入 SOP。
+* **缺口族根因收口（第四十五批）**：`gap_probe.py` 增 `fail_block()`（复演池吞并算法）逐件定真因；20 件缺口清至 2 件。真根因全是**上游 HTML 不规范写法**：空 `<li>`（账记 `e:1`，渲染禁兜底占位）、未闭合 `<dt>/<dd>`（`_close_dl_optional_end`）、末格省 `</td>`（按开标签切格）、大写 `<LI>`（li/ul 匹配一律 `re.I`）、URL 不平衡括号（RFC 3986 编码）；另修文字型注释链丢词（56 条保留 md 内链）、学术工具表 4 行上限（truth-correspondence 第 5 行）、引块表被 `<br>` 行标记撕行（`_split_br_lines` 容器配平）、supsub 样式 span 相邻星歧义（提前剥壳）、列表标记位挂链接（`mk` 保护含 `>` 前缀）、TOC 悬置首段（`toc_block` 尾携＋两侧去重）。**pool 1,853→1,871／gap 20→2／B3.1 1,663→1,665（0 转红）**。执行账超 100 KB，按 ADR-0004 拆分为 `execution-log/` 七卷日期文件＋index。
+* **logic-intensional 收口（第四十六批，2026-11-26）**：裸排环境体内嵌 `\(…\)` 二次清扫改保持字面（占位序不变量成立，账驱动属冗余；全库对照证明真受影响面仅 1 件——pattern 计数会虚报 20 倍）。**终态 pool 1,872／gap 1（augustine＝勘误 §十二上游结构例外）／stale 0、池占页 52.08%；B3.1 1,665／208；I2 1873/0；check_all 21 门全绿**；两批均已提交推送、CI 门禁矩阵绿。
+* **方法沉淀**：判 gap 必须复演池判据（首失配多是漂移噪声）；改 C 后标准陪跑＝旧模块全库对照→按改动清单重转→账增量刷→全量三步验收“pool 只增不减、B3.1 无新红”；放宽正则先做反例试金石（`\s*` 一字之差曾破 265 件 B3.1，靠 aristotle/nietzsche 抽样拦下）。
