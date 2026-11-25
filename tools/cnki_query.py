@@ -143,11 +143,15 @@ _ACTIVE_TOKEN = None
 
 
 class ChannelSuspect(RuntimeError):
-    """通道看似成功实则不可用（权限失效、回包结构变更）。不重试、不记空命中。"""
+    """通道看似成功实则不可用（限流、后端抖动、回包结构变更）。不重试、不记空命中。"""
 
 
 def _tl_all_fetch(term, timeout):
-    """审定名词库 allSearch；需 X-Access-Token 明文 JWT，匿名恒空（200 但 totalRecords=0）。"""
+    """审定名词库 allSearch；需 X-Access-Token 明文 JWT，匿名恒空（200 但 totalRecords=0）。
+
+    2026-11-25 实测：后端有间歇性“全零回包”（同 token 同参数，前一次 0、隔几秒再查
+    上千条）。全零时重查一次，宁可多一次请求，也不把瞬时故障记成“确无收录”。
+    """
     if not _ACTIVE_TOKEN:
         raise ValueError('termonline-all 需明文 JWT：--token <jwt> 或环境变量 TERMONLINE_TOKEN')
     url = ('https://api.termonline.cn/main-serve/business/tm/tmWord/allSearch'
@@ -161,37 +165,61 @@ def _tl_all_fetch(term, timeout):
         'Origin': 'https://www.termonline.cn',
     })
     with urllib.request.urlopen(req, timeout=timeout) as resp:
+        data = json.loads(resp.read().decode('utf-8', 'replace'))
+    if _tl_all_total(data):
+        return data
+    time.sleep(2)
+    with urllib.request.urlopen(req, timeout=timeout) as resp:
         return json.loads(resp.read().decode('utf-8', 'replace'))
+
+
+def _tl_all_total(data):
+    """四库 totalRecords 之和；用于全零判定与探针。"""
+    result = (data or {}).get('result') or {}
+    return sum(((s or {}).get('result') or {}).get('totalRecords') or 0
+               for s in result.get('searchResult') or [])
+
+
+_DB_NAMES = {0: '审定公布名词库', 1: '海峡两岸名词对照库',
+             2: '其他来源数据库', 6: '预公布名词数据库'}
+
+
+def _db_name(raw):
+    """分库 id → 库名。id 为 32 位补零数字串，取末位数字归一；未知库记 db-<n>。"""
+    s = str(raw or '').strip().lstrip('0') or '0'
+    if not s.isdigit():
+        return 'db-' + str(raw)[:8]
+    return _DB_NAMES.get(int(s), 'db-' + s)
+
+
+def _tl_all_probe(timeout=30):
+    """正控制探针：查 abduction（自然辩证法名词·2024 等，实测上千条），返回四库总数。
+
+    接口在限流或后端抖动时会回 success=true 且各库全零，与“确无收录”同形；只有探针
+    能把通道坏与词条空分开。探针本身不写凭证（2026-11-25 实测：同一 token 在浏览器
+    里能查到，脚本连发 20 余次后开始全零，隔数分钟后恢复）。
+    """
+    return _tl_all_total(_tl_all_fetch('abduction', timeout))
 
 
 def _tl_all_parse(data):
     """审定库聚合：searchResult[] 每库 {result:{totalRecords,tmWordList[]},id}。
 
     字段实测（2026-10-28）：tmWordList 词条 cn/en/source/subjectName/subjectFullName/
-    publishYear/definition/bbh/wordNumber。命中按库聚合，库名由 tmDatabase/listFront
-    的 id↔dbName 映射（0=审定公布/1=海峡两岸/2=其他来源/6=预公布）。
+    publishYear/definition/bbh/wordNumber。库名由 tmDatabase/listFront 的 id↔dbName
+    映射：id 是 32 位补零形（"00000000000000000000000000000000"＝审定公布、
+    …0001＝海峡两岸、…0002＝其他来源、…0006＝预公布），故取末位数字归一，
+    不能按字面 '0'/'1' 比对（2026-11-25 更正：曾把补零形当成 UUID 误判为通道故障）。
 
-    2026-11-25 加通道失效识别：token 失效或权限降级时，接口仍回 success=true、
-    HTTP 200，但三个分库 id 变成 UUID（"00000000000000000000000000000000" 一类），
-    各库 totalRecords=0、sourceStats/yearStats 全空。旧解析会把这种回包记成
-    “审定库确无收录”，写成一条 0 命中的凭证——假证据，比缺证据更坏（实测 35 条
-    被误写后删除）。故：分库 id 无一落在 DB_NAMES 且全库为零，即抛 ChannelSuspect。
+    空包识别交给探针（见 _tl_all_probe）：token 权限不足时接口仍回 success=true 且
+    各库 totalRecords=0，与“确无收录”同形，只有正控制探针能区分。
     """
     result = (data or {}).get('result') or {}
-    DB_NAMES = {'0': '审定公布名词库', '1': '海峡两岸名词对照库',
-                '2': '其他来源数据库', '6': '预公布名词数据库'}
-    segs = result.get('searchResult') or []
-    if segs and not any(str((s or {}).get('id')) in DB_NAMES for s in segs):
-        if not any(((s or {}).get('result') or {}).get('totalRecords') for s in segs):
-            raise ChannelSuspect(
-                'termonline-all 回空桶（分库 id 未映射：%s），疑 token 权限失效；'
-                '不记为空命中' % ','.join(str((s or {}).get('id'))[:8] for s in segs))
     hits, notes = [], []
-    for seg in segs:
+    for seg in result.get('searchResult') or []:
         res = (seg or {}).get('result') or {}
         total = res.get('totalRecords') or 0
-        db = DB_NAMES.get(str((seg or {}).get('id')), str((seg or {}).get('id')))
-        notes.append('%s=%s' % (db, total))
+        notes.append('%s=%s' % (_db_name((seg or {}).get('id')), total))
         for w in res.get('tmWordList') or []:
             hits.append({'cn': w.get('cn'), 'en': w.get('en'),
                          'code': w.get('wordNumber'), 'standard': w.get('source'),
@@ -218,8 +246,10 @@ PROVIDERS = {
         'parse': _tl_all_parse,
         'enabled': True,
         'requires_token': True,
-        'note': '审定名词库 allSearch（2026-10-28 破译：需明文 JWT X-Access-Token，'
-                '匿名恒空 200；token 经 --token / TERMONLINE_TOKEN，不落盘）',
+        'probe': _tl_all_probe,
+        'note': '审定名词库 allSearch（需明文 JWT X-Access-Token；限流/抖动时回'
+                'success=true 全零，靠 abduction 正控制探针识别；token 经 --token / '
+                'TERMONLINE_TOKEN，不落盘）',
     },
     'cnki-dict': {
         'enabled': False,
@@ -325,6 +355,17 @@ def main(argv=None):
 
     outdir = os.path.join(OUTDIR, args.provider)
     os.makedirs(outdir, exist_ok=True)
+    if prov.get('probe'):
+        try:
+            total = prov['probe']()
+        except Exception as exc:
+            print('探针异常：%s: %s' % (type(exc).__name__, exc))
+            return 1
+        if not total:
+            print('通道探针 0 命中（abduction 应有多库收录）：限流、token 失效或通道异常，'
+                  '本批不写任何凭证；稍后重试')
+            return 1
+        print('探针 belief 命中 %d 条，通道正常' % total)
     stat = {'ok': 0, 'empty': 0, 'error': 0, 'skip': 0, 'denied': 0}
     for key, display in collect_terms(args):
         path = os.path.join(outdir, safe_key(key) + '.json')

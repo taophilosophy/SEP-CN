@@ -59,19 +59,30 @@ class CnkiQueryTests(unittest.TestCase):
         self.assertEqual(len(hits), 1)
         self.assertIn('审定公布名词库=1', note)
 
-    def test_all_parse_uuid_buckets_is_denied(self):
-        """2026-11-25 实测：token 权限失效时回包 success=true，但分库 id 变 UUID、
-        全库零记录。旧解析会记成“审定库确无收录”，产出假凭证。"""
+    def test_all_parse_padded_db_ids(self):
+        """2026-11-25 实测：listFront 的分库 id 是 32 位补零形，须按末位数字归一。"""
         body = {"success": True, "result": {"searchResult": [
-            {"id": "0" * 32, "result": {"totalRecords": 0, "tmWordList": []}},
-            {"id": "0" * 31 + "1", "result": {"totalRecords": 0, "tmWordList": []}},
+            {"id": "0" * 32, "result": {"totalRecords": 217, "tmWordList": []}},
+            {"id": "0" * 31 + "1", "result": {"totalRecords": 75, "tmWordList": []}},
+            {"id": "0" * 31 + "7", "result": {"totalRecords": 0, "tmWordList": []}},
         ]}}
-        self.assertRaises(cq.ChannelSuspect, cq._tl_all_parse, body)
-        prov = {'fetch': lambda t, to: body, 'parse': cq._tl_all_parse}
-        status, hits, note, raw, err = cq.query_with_retry(prov, 'belief', retries=())
-        self.assertEqual(status, 'denied')
+        hits, note = cq._tl_all_parse(body)
         self.assertEqual(hits, [])
-        self.assertIn('ChannelSuspect', err)
+        self.assertIn('审定公布名词库=217', note)
+        self.assertIn('海峡两岸名词对照库=75', note)
+        self.assertIn('db-7=0', note)
+
+    def test_probe_sums_totals(self):
+        """正控制探针：把各库 totalRecords 加总，用于把“通道坏”与“词条确无收录”分开。"""
+        old_fetch = cq._tl_all_fetch
+        cq._tl_all_fetch = lambda term, timeout: {"success": True, "result": {"searchResult": [
+            {"id": "0" * 32, "result": {"totalRecords": 217, "tmWordList": []}},
+            {"id": "0" * 31 + "1", "result": {"totalRecords": 75, "tmWordList": []}},
+        ]}}
+        try:
+            self.assertEqual(cq._tl_all_probe(), 292)
+        finally:
+            cq._tl_all_fetch = old_fetch
 
     def test_disabled_provider_rejected(self):
         buf = io.StringIO()
