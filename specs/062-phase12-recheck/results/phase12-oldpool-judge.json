@@ -1,0 +1,7598 @@
+{
+ "schema": "sep-cn-oldpool-judge/1",
+ "pool_dir": "C:\\Users\\ykla\\AppData\\Local\\Temp\\oldpool\\baseline\\en-template\\assembly-patches",
+ "pool_files": 1852,
+ "total": 1873,
+ "counts": {
+  "pool": 1780,
+  "gap": 48,
+  "stale": 45
+ },
+ "entries": [
+  {
+   "slug": "18thGerman-preKant",
+   "status": "pool"
+  },
+  {
+   "slug": "abduction",
+   "status": "pool"
+  },
+  {
+   "slug": "abelard",
+   "status": "pool"
+  },
+  {
+   "slug": "abhidharma",
+   "status": "pool"
+  },
+  {
+   "slug": "abilities",
+   "status": "pool"
+  },
+  {
+   "slug": "abner-burgos",
+   "status": "pool"
+  },
+  {
+   "slug": "abortion",
+   "status": "gap",
+   "why": "unaligned text units"
+  },
+  {
+   "slug": "abrabanel",
+   "status": "pool"
+  },
+  {
+   "slug": "abraham-daud",
+   "status": "pool"
+  },
+  {
+   "slug": "abstract-objects",
+   "status": "pool"
+  },
+  {
+   "slug": "abu-bakr-al-razi",
+   "status": "pool"
+  },
+  {
+   "slug": "academic-freedom",
+   "status": "pool"
+  },
+  {
+   "slug": "action",
+   "status": "pool"
+  },
+  {
+   "slug": "action-perception",
+   "status": "pool"
+  },
+  {
+   "slug": "actualism-possibilism-ethics",
+   "status": "pool"
+  },
+  {
+   "slug": "adaptationism",
+   "status": "pool"
+  },
+  {
+   "slug": "addams-jane",
+   "status": "pool"
+  },
+  {
+   "slug": "adorno",
+   "status": "pool"
+  },
+  {
+   "slug": "advance-directives",
+   "status": "pool"
+  },
+  {
+   "slug": "aesthetic-concept",
+   "status": "gap",
+   "why": "pool applied but not byte-equal"
+  },
+  {
+   "slug": "aesthetic-experience",
+   "status": "gap",
+   "why": "pool applied but not byte-equal"
+  },
+  {
+   "slug": "aesthetic-judgment",
+   "status": "pool"
+  },
+  {
+   "slug": "aesthetic-testimony",
+   "status": "pool"
+  },
+  {
+   "slug": "aesthetics-18th-british",
+   "status": "pool"
+  },
+  {
+   "slug": "aesthetics-18th-french",
+   "status": "pool"
+  },
+  {
+   "slug": "aesthetics-18th-german",
+   "status": "pool"
+  },
+  {
+   "slug": "aesthetics-19th-romantic",
+   "status": "pool"
+  },
+  {
+   "slug": "aesthetics-cogsci",
+   "status": "pool"
+  },
+  {
+   "slug": "aesthetics-critical-theory",
+   "status": "pool"
+  },
+  {
+   "slug": "aesthetics-existentialist",
+   "status": "pool"
+  },
+  {
+   "slug": "aesthetics-of-everyday",
+   "status": "pool"
+  },
+  {
+   "slug": "aesthetics-race",
+   "status": "pool"
+  },
+  {
+   "slug": "affirmative-action",
+   "status": "pool"
+  },
+  {
+   "slug": "african-ethics",
+   "status": "pool"
+  },
+  {
+   "slug": "african-sage",
+   "status": "pool"
+  },
+  {
+   "slug": "africana",
+   "status": "pool"
+  },
+  {
+   "slug": "africana-contemporary",
+   "status": "pool"
+  },
+  {
+   "slug": "afterlife",
+   "status": "pool"
+  },
+  {
+   "slug": "agency",
+   "status": "pool"
+  },
+  {
+   "slug": "agent-modeling-philscience",
+   "status": "pool"
+  },
+  {
+   "slug": "agrippa-nettesheim",
+   "status": "pool"
+  },
+  {
+   "slug": "akan-person",
+   "status": "pool"
+  },
+  {
+   "slug": "al-baghdadi",
+   "status": "pool"
+  },
+  {
+   "slug": "al-din-al-razi",
+   "status": "pool"
+  },
+  {
+   "slug": "al-farabi",
+   "status": "pool"
+  },
+  {
+   "slug": "al-farabi-logic",
+   "status": "pool"
+  },
+  {
+   "slug": "al-farabi-metaphysics",
+   "status": "pool"
+  },
+  {
+   "slug": "al-farabi-psych",
+   "status": "pool"
+  },
+  {
+   "slug": "al-farabi-soc-rel",
+   "status": "pool"
+  },
+  {
+   "slug": "al-ghazali",
+   "status": "pool"
+  },
+  {
+   "slug": "al-khunaji",
+   "status": "pool"
+  },
+  {
+   "slug": "al-kindi",
+   "status": "pool"
+  },
+  {
+   "slug": "al-qudat",
+   "status": "pool"
+  },
+  {
+   "slug": "alain-locke",
+   "status": "pool"
+  },
+  {
+   "slug": "albalag",
+   "status": "pool"
+  },
+  {
+   "slug": "alberic-paris",
+   "status": "pool"
+  },
+  {
+   "slug": "albert-great",
+   "status": "pool"
+  },
+  {
+   "slug": "albert-saxony",
+   "status": "pool"
+  },
+  {
+   "slug": "albo-joseph",
+   "status": "pool"
+  },
+  {
+   "slug": "alcmaeon",
+   "status": "pool"
+  },
+  {
+   "slug": "alexander",
+   "status": "pool"
+  },
+  {
+   "slug": "alexander-aphrodisias",
+   "status": "pool"
+  },
+  {
+   "slug": "alexander-crummell",
+   "status": "pool"
+  },
+  {
+   "slug": "alexander-humboldt",
+   "status": "pool"
+  },
+  {
+   "slug": "algebra",
+   "status": "pool"
+  },
+  {
+   "slug": "algebra-logic-tradition",
+   "status": "pool"
+  },
+  {
+   "slug": "algorithmic-fairness",
+   "status": "pool"
+  },
+  {
+   "slug": "alienation",
+   "status": "pool"
+  },
+  {
+   "slug": "alternative-possibilities",
+   "status": "pool"
+  },
+  {
+   "slug": "althusser",
+   "status": "pool"
+  },
+  {
+   "slug": "altruism",
+   "status": "pool"
+  },
+  {
+   "slug": "altruism-biological",
+   "status": "pool"
+  },
+  {
+   "slug": "altruism-empirical",
+   "status": "pool"
+  },
+  {
+   "slug": "alyngton",
+   "status": "pool"
+  },
+  {
+   "slug": "ambiguity",
+   "status": "pool"
+  },
+  {
+   "slug": "ammonius",
+   "status": "pool"
+  },
+  {
+   "slug": "analogy-medieval",
+   "status": "pool"
+  },
+  {
+   "slug": "analysis",
+   "status": "pool"
+  },
+  {
+   "slug": "analytic-synthetic",
+   "status": "pool"
+  },
+  {
+   "slug": "anaphora",
+   "status": "gap",
+   "why": "unaligned text units"
+  },
+  {
+   "slug": "anarchism",
+   "status": "pool"
+  },
+  {
+   "slug": "anaxagoras",
+   "status": "pool"
+  },
+  {
+   "slug": "ancient-political",
+   "status": "pool"
+  },
+  {
+   "slug": "ancient-soul",
+   "status": "pool"
+  },
+  {
+   "slug": "anderson-john",
+   "status": "pool"
+  },
+  {
+   "slug": "animal-communication",
+   "status": "pool"
+  },
+  {
+   "slug": "animal-normativity",
+   "status": "pool"
+  },
+  {
+   "slug": "animal-social-cognition",
+   "status": "pool"
+  },
+  {
+   "slug": "animal-thought",
+   "status": "pool"
+  },
+  {
+   "slug": "animalism",
+   "status": "pool"
+  },
+  {
+   "slug": "anna-julia-cooper",
+   "status": "pool"
+  },
+  {
+   "slug": "anomalous-monism",
+   "status": "pool"
+  },
+  {
+   "slug": "anscombe",
+   "status": "pool"
+  },
+  {
+   "slug": "anselm",
+   "status": "pool"
+  },
+  {
+   "slug": "antiochus-ascalon",
+   "status": "pool"
+  },
+  {
+   "slug": "antonio-rosmini",
+   "status": "pool"
+  },
+  {
+   "slug": "apriori",
+   "status": "pool"
+  },
+  {
+   "slug": "aquinas",
+   "status": "pool"
+  },
+  {
+   "slug": "aquinas-moral-political",
+   "status": "pool"
+  },
+  {
+   "slug": "arabic-islamic-causation",
+   "status": "pool"
+  },
+  {
+   "slug": "arabic-islamic-essence",
+   "status": "pool"
+  },
+  {
+   "slug": "arabic-islamic-greek",
+   "status": "pool"
+  },
+  {
+   "slug": "arabic-islamic-influence",
+   "status": "pool"
+  },
+  {
+   "slug": "arabic-islamic-judaic",
+   "status": "pool"
+  },
+  {
+   "slug": "arabic-islamic-language",
+   "status": "pool"
+  },
+  {
+   "slug": "arabic-islamic-liar",
+   "status": "pool"
+  },
+  {
+   "slug": "arabic-islamic-metaphysics",
+   "status": "pool"
+  },
+  {
+   "slug": "arabic-islamic-mind",
+   "status": "pool"
+  },
+  {
+   "slug": "arabic-islamic-mysticism",
+   "status": "pool"
+  },
+  {
+   "slug": "arabic-islamic-natural",
+   "status": "pool"
+  },
+  {
+   "slug": "arabic-islamic-phil-math",
+   "status": "pool"
+  },
+  {
+   "slug": "arabic-islamic-religion",
+   "status": "pool"
+  },
+  {
+   "slug": "arcesilaus",
+   "status": "pool"
+  },
+  {
+   "slug": "architecture",
+   "status": "pool"
+  },
+  {
+   "slug": "archytas",
+   "status": "pool"
+  },
+  {
+   "slug": "arendt",
+   "status": "pool"
+  },
+  {
+   "slug": "argument",
+   "status": "pool"
+  },
+  {
+   "slug": "aristotelianism-renaissance",
+   "status": "pool"
+  },
+  {
+   "slug": "aristotle",
+   "status": "pool"
+  },
+  {
+   "slug": "aristotle-aesthetics",
+   "status": "pool"
+  },
+  {
+   "slug": "aristotle-biology",
+   "status": "pool"
+  },
+  {
+   "slug": "aristotle-categories",
+   "status": "pool"
+  },
+  {
+   "slug": "aristotle-causality",
+   "status": "pool"
+  },
+  {
+   "slug": "aristotle-commentators",
+   "status": "pool"
+  },
+  {
+   "slug": "aristotle-de-motu",
+   "status": "pool"
+  },
+  {
+   "slug": "aristotle-ethics",
+   "status": "pool"
+  },
+  {
+   "slug": "aristotle-logic",
+   "status": "pool"
+  },
+  {
+   "slug": "aristotle-mathematics",
+   "status": "pool"
+  },
+  {
+   "slug": "aristotle-metaphysics",
+   "status": "pool"
+  },
+  {
+   "slug": "aristotle-natphil",
+   "status": "pool"
+  },
+  {
+   "slug": "aristotle-noncontradiction",
+   "status": "pool"
+  },
+  {
+   "slug": "aristotle-politics",
+   "status": "pool"
+  },
+  {
+   "slug": "aristotle-psychology",
+   "status": "pool"
+  },
+  {
+   "slug": "aristotle-rhetoric",
+   "status": "pool"
+  },
+  {
+   "slug": "aristotle-text",
+   "status": "pool"
+  },
+  {
+   "slug": "arnauld",
+   "status": "pool"
+  },
+  {
+   "slug": "arrows-theorem",
+   "status": "pool"
+  },
+  {
+   "slug": "art-definition",
+   "status": "pool"
+  },
+  {
+   "slug": "art-ontology-history",
+   "status": "gap",
+   "why": "pool applied but not byte-equal"
+  },
+  {
+   "slug": "artifact",
+   "status": "pool"
+  },
+  {
+   "slug": "artificial-intelligence",
+   "status": "pool"
+  },
+  {
+   "slug": "assertion",
+   "status": "pool"
+  },
+  {
+   "slug": "associationist-thought",
+   "status": "pool"
+  },
+  {
+   "slug": "astell",
+   "status": "pool"
+  },
+  {
+   "slug": "atheism-agnosticism",
+   "status": "pool"
+  },
+  {
+   "slug": "atomism-ancient",
+   "status": "pool"
+  },
+  {
+   "slug": "atomism-modern",
+   "status": "pool"
+  },
+  {
+   "slug": "atonement",
+   "status": "pool"
+  },
+  {
+   "slug": "attention",
+   "status": "pool"
+  },
+  {
+   "slug": "august-rehberg",
+   "status": "pool"
+  },
+  {
+   "slug": "augustine",
+   "status": "gap",
+   "why": "unaligned text units"
+  },
+  {
+   "slug": "auriol",
+   "status": "pool"
+  },
+  {
+   "slug": "austin-jl",
+   "status": "pool"
+  },
+  {
+   "slug": "austin-john",
+   "status": "pool"
+  },
+  {
+   "slug": "authenticity",
+   "status": "pool"
+  },
+  {
+   "slug": "authority",
+   "status": "pool"
+  },
+  {
+   "slug": "autonomy-moral",
+   "status": "pool"
+  },
+  {
+   "slug": "autrecourt",
+   "status": "stale",
+   "why": "u segment hash mismatch at 47814"
+  },
+  {
+   "slug": "axiom-choice",
+   "status": "pool"
+  },
+  {
+   "slug": "ayer",
+   "status": "stale",
+   "why": "m segment hash mismatch at 103225"
+  },
+  {
+   "slug": "ayn-rand",
+   "status": "pool"
+  },
+  {
+   "slug": "basing-epistemic",
+   "status": "pool"
+  },
+  {
+   "slug": "baudrillard",
+   "status": "gap",
+   "why": "unaligned text units"
+  },
+  {
+   "slug": "bauer",
+   "status": "pool"
+  },
+  {
+   "slug": "bayes-theorem",
+   "status": "pool"
+  },
+  {
+   "slug": "bayle",
+   "status": "pool"
+  },
+  {
+   "slug": "beardsley-aesthetics",
+   "status": "pool"
+  },
+  {
+   "slug": "beauty",
+   "status": "gap",
+   "why": "pool applied but not byte-equal"
+  },
+  {
+   "slug": "beauvoir",
+   "status": "pool"
+  },
+  {
+   "slug": "behaviorism",
+   "status": "pool"
+  },
+  {
+   "slug": "belief",
+   "status": "pool"
+  },
+  {
+   "slug": "belief-merging",
+   "status": "pool"
+  },
+  {
+   "slug": "bell-theorem",
+   "status": "pool"
+  },
+  {
+   "slug": "benjamin",
+   "status": "gap",
+   "why": "unaligned text units"
+  },
+  {
+   "slug": "bentham",
+   "status": "pool"
+  },
+  {
+   "slug": "bergson",
+   "status": "pool"
+  },
+  {
+   "slug": "berkeley",
+   "status": "pool"
+  },
+  {
+   "slug": "berlin",
+   "status": "gap",
+   "why": "unaligned text units"
+  },
+  {
+   "slug": "bessarion",
+   "status": "pool"
+  },
+  {
+   "slug": "binarium",
+   "status": "pool"
+  },
+  {
+   "slug": "biodiversity",
+   "status": "pool"
+  },
+  {
+   "slug": "bioethics-latin-america",
+   "status": "pool"
+  },
+  {
+   "slug": "bioethics-moral-reasoning",
+   "status": "pool"
+  },
+  {
+   "slug": "biology-developmental",
+   "status": "pool"
+  },
+  {
+   "slug": "biology-experiment",
+   "status": "pool"
+  },
+  {
+   "slug": "biology-individual",
+   "status": "pool"
+  },
+  {
+   "slug": "biology-philosophy",
+   "status": "pool"
+  },
+  {
+   "slug": "biomedicine",
+   "status": "pool"
+  },
+  {
+   "slug": "black-reparations",
+   "status": "pool"
+  },
+  {
+   "slug": "blame",
+   "status": "pool"
+  },
+  {
+   "slug": "bloch",
+   "status": "pool"
+  },
+  {
+   "slug": "bodily-awareness",
+   "status": "pool"
+  },
+  {
+   "slug": "bodin",
+   "status": "stale",
+   "why": "u segment hash mismatch at 158610"
+  },
+  {
+   "slug": "boethius",
+   "status": "pool"
+  },
+  {
+   "slug": "boethius-dacia",
+   "status": "pool"
+  },
+  {
+   "slug": "bohr-correspondence",
+   "status": "pool"
+  },
+  {
+   "slug": "bolzano",
+   "status": "pool"
+  },
+  {
+   "slug": "bolzano-logic",
+   "status": "pool"
+  },
+  {
+   "slug": "bonaventure",
+   "status": "pool"
+  },
+  {
+   "slug": "boolalg-math",
+   "status": "pool"
+  },
+  {
+   "slug": "boole",
+   "status": "pool"
+  },
+  {
+   "slug": "bosanquet",
+   "status": "gap",
+   "why": "pool applied but not byte-equal"
+  },
+  {
+   "slug": "boundary",
+   "status": "pool"
+  },
+  {
+   "slug": "bounded-rationality",
+   "status": "pool"
+  },
+  {
+   "slug": "boyle",
+   "status": "pool"
+  },
+  {
+   "slug": "bradley",
+   "status": "pool"
+  },
+  {
+   "slug": "bradley-moral",
+   "status": "pool"
+  },
+  {
+   "slug": "bradley-regress",
+   "status": "pool"
+  },
+  {
+   "slug": "branching-time",
+   "status": "pool"
+  },
+  {
+   "slug": "brentano",
+   "status": "stale",
+   "why": "r segment hash mismatch at 109867"
+  },
+  {
+   "slug": "brentano-judgement",
+   "status": "pool"
+  },
+  {
+   "slug": "broad",
+   "status": "pool"
+  },
+  {
+   "slug": "brouwer",
+   "status": "pool"
+  },
+  {
+   "slug": "bruno",
+   "status": "pool"
+  },
+  {
+   "slug": "buber",
+   "status": "stale",
+   "why": "u segment hash mismatch at 7823"
+  },
+  {
+   "slug": "buddha",
+   "status": "pool"
+  },
+  {
+   "slug": "buddhism-chan",
+   "status": "pool"
+  },
+  {
+   "slug": "buddhism-huayan",
+   "status": "pool"
+  },
+  {
+   "slug": "buddhism-tiantai",
+   "status": "pool"
+  },
+  {
+   "slug": "buridan",
+   "status": "pool"
+  },
+  {
+   "slug": "burke",
+   "status": "pool"
+  },
+  {
+   "slug": "burley",
+   "status": "pool"
+  },
+  {
+   "slug": "butler-moral",
+   "status": "pool"
+  },
+  {
+   "slug": "byzantine-philosophy",
+   "status": "pool"
+  },
+  {
+   "slug": "callicles-thrasymachus",
+   "status": "pool"
+  },
+  {
+   "slug": "cambridge-platonists",
+   "status": "pool"
+  },
+  {
+   "slug": "campanella",
+   "status": "pool"
+  },
+  {
+   "slug": "camus",
+   "status": "pool"
+  },
+  {
+   "slug": "cancer",
+   "status": "pool"
+  },
+  {
+   "slug": "capability-approach",
+   "status": "pool"
+  },
+  {
+   "slug": "capitalism",
+   "status": "pool"
+  },
+  {
+   "slug": "cardano",
+   "status": "pool"
+  },
+  {
+   "slug": "carnap",
+   "status": "pool"
+  },
+  {
+   "slug": "carneades",
+   "status": "pool"
+  },
+  {
+   "slug": "cassirer",
+   "status": "pool"
+  },
+  {
+   "slug": "categories",
+   "status": "pool"
+  },
+  {
+   "slug": "category-mistakes",
+   "status": "pool"
+  },
+  {
+   "slug": "category-theory",
+   "status": "pool"
+  },
+  {
+   "slug": "catharine-macaulay",
+   "status": "pool"
+  },
+  {
+   "slug": "causal-explanation-science",
+   "status": "pool"
+  },
+  {
+   "slug": "causal-models",
+   "status": "pool"
+  },
+  {
+   "slug": "causation-backwards",
+   "status": "pool"
+  },
+  {
+   "slug": "causation-counterfactual",
+   "status": "pool"
+  },
+  {
+   "slug": "causation-law",
+   "status": "pool"
+  },
+  {
+   "slug": "causation-mani",
+   "status": "pool"
+  },
+  {
+   "slug": "causation-medieval",
+   "status": "pool"
+  },
+  {
+   "slug": "causation-metaphysics",
+   "status": "pool"
+  },
+  {
+   "slug": "causation-physics",
+   "status": "pool"
+  },
+  {
+   "slug": "causation-probabilistic",
+   "status": "pool"
+  },
+  {
+   "slug": "causation-regularity",
+   "status": "pool"
+  },
+  {
+   "slug": "cell-biology",
+   "status": "pool"
+  },
+  {
+   "slug": "cellular-automata",
+   "status": "pool"
+  },
+  {
+   "slug": "certainty",
+   "status": "pool"
+  },
+  {
+   "slug": "ceteris-paribus",
+   "status": "pool"
+  },
+  {
+   "slug": "chance-randomness",
+   "status": "pool"
+  },
+  {
+   "slug": "change",
+   "status": "pool"
+  },
+  {
+   "slug": "chaos",
+   "status": "pool"
+  },
+  {
+   "slug": "chemistry",
+   "status": "pool"
+  },
+  {
+   "slug": "childhood",
+   "status": "pool"
+  },
+  {
+   "slug": "children",
+   "status": "pool"
+  },
+  {
+   "slug": "chimeras",
+   "status": "pool"
+  },
+  {
+   "slug": "chinese-change",
+   "status": "pool"
+  },
+  {
+   "slug": "chinese-epistemology",
+   "status": "pool"
+  },
+  {
+   "slug": "chinese-legalism",
+   "status": "pool"
+  },
+  {
+   "slug": "chinese-logic-language",
+   "status": "pool"
+  },
+  {
+   "slug": "chinese-metaphysics",
+   "status": "pool"
+  },
+  {
+   "slug": "chinese-mind",
+   "status": "pool"
+  },
+  {
+   "slug": "chinese-painting-calligraphy",
+   "status": "pool"
+  },
+  {
+   "slug": "chinese-phil-medicine",
+   "status": "pool"
+  },
+  {
+   "slug": "chinese-phil-science",
+   "status": "pool"
+  },
+  {
+   "slug": "chinese-room",
+   "status": "pool"
+  },
+  {
+   "slug": "chinese-social-political",
+   "status": "stale",
+   "why": "r segment hash mismatch at 100926"
+  },
+  {
+   "slug": "chinese-translate-interpret",
+   "status": "pool"
+  },
+  {
+   "slug": "chisholm",
+   "status": "pool"
+  },
+  {
+   "slug": "christiantheology-philosophy",
+   "status": "pool"
+  },
+  {
+   "slug": "church",
+   "status": "pool"
+  },
+  {
+   "slug": "church-turing",
+   "status": "pool"
+  },
+  {
+   "slug": "cicero",
+   "status": "pool"
+  },
+  {
+   "slug": "citizenship",
+   "status": "pool"
+  },
+  {
+   "slug": "civic-education",
+   "status": "pool"
+  },
+  {
+   "slug": "civil-disobedience",
+   "status": "pool"
+  },
+  {
+   "slug": "civil-rights",
+   "status": "pool"
+  },
+  {
+   "slug": "clarke",
+   "status": "pool"
+  },
+  {
+   "slug": "clauberg",
+   "status": "pool"
+  },
+  {
+   "slug": "climate-science",
+   "status": "pool"
+  },
+  {
+   "slug": "clinical-research",
+   "status": "pool"
+  },
+  {
+   "slug": "cloning",
+   "status": "pool"
+  },
+  {
+   "slug": "closure-epistemic",
+   "status": "pool"
+  },
+  {
+   "slug": "cockburn",
+   "status": "pool"
+  },
+  {
+   "slug": "coercion",
+   "status": "pool"
+  },
+  {
+   "slug": "cognition-animal",
+   "status": "pool"
+  },
+  {
+   "slug": "cognitive-disability",
+   "status": "pool"
+  },
+  {
+   "slug": "cognitive-science",
+   "status": "pool"
+  },
+  {
+   "slug": "cohen",
+   "status": "pool"
+  },
+  {
+   "slug": "collective-intentionality",
+   "status": "pool"
+  },
+  {
+   "slug": "collective-responsibility",
+   "status": "pool"
+  },
+  {
+   "slug": "collingwood",
+   "status": "pool"
+  },
+  {
+   "slug": "collingwood-aesthetics",
+   "status": "gap",
+   "why": "pool applied but not byte-equal"
+  },
+  {
+   "slug": "collins",
+   "status": "pool"
+  },
+  {
+   "slug": "colonialism",
+   "status": "pool"
+  },
+  {
+   "slug": "color",
+   "status": "pool"
+  },
+  {
+   "slug": "common-good",
+   "status": "pool"
+  },
+  {
+   "slug": "common-ground-pragmatics",
+   "status": "pool"
+  },
+  {
+   "slug": "common-knowledge",
+   "status": "pool"
+  },
+  {
+   "slug": "communitarianism",
+   "status": "pool"
+  },
+  {
+   "slug": "comparative-cognition",
+   "status": "pool"
+  },
+  {
+   "slug": "comparphil-chiwes",
+   "status": "pool"
+  },
+  {
+   "slug": "compatibilism",
+   "status": "pool"
+  },
+  {
+   "slug": "compositionality",
+   "status": "pool"
+  },
+  {
+   "slug": "computability",
+   "status": "pool"
+  },
+  {
+   "slug": "computation-physicalsystems",
+   "status": "pool"
+  },
+  {
+   "slug": "computational-complexity",
+   "status": "pool"
+  },
+  {
+   "slug": "computational-linguistics",
+   "status": "pool"
+  },
+  {
+   "slug": "computational-mind",
+   "status": "pool"
+  },
+  {
+   "slug": "computational-philosophy",
+   "status": "pool"
+  },
+  {
+   "slug": "computer-science",
+   "status": "pool"
+  },
+  {
+   "slug": "computing-history",
+   "status": "pool"
+  },
+  {
+   "slug": "computing-responsibility",
+   "status": "pool"
+  },
+  {
+   "slug": "comte",
+   "status": "stale",
+   "why": "u segment hash mismatch at 99348"
+  },
+  {
+   "slug": "concept-emotion-india",
+   "status": "pool"
+  },
+  {
+   "slug": "concept-evil",
+   "status": "pool"
+  },
+  {
+   "slug": "concept-religion",
+   "status": "pool"
+  },
+  {
+   "slug": "concepts",
+   "status": "pool"
+  },
+  {
+   "slug": "conceptual-art",
+   "status": "pool"
+  },
+  {
+   "slug": "condemnation",
+   "status": "pool"
+  },
+  {
+   "slug": "condillac",
+   "status": "pool"
+  },
+  {
+   "slug": "conditionals",
+   "status": "pool"
+  },
+  {
+   "slug": "confirmation",
+   "status": "pool"
+  },
+  {
+   "slug": "confucian-gender",
+   "status": "pool"
+  },
+  {
+   "slug": "confucianism-modern",
+   "status": "pool"
+  },
+  {
+   "slug": "confucius",
+   "status": "pool"
+  },
+  {
+   "slug": "connectionism",
+   "status": "pool"
+  },
+  {
+   "slug": "connectives-logic",
+   "status": "pool"
+  },
+  {
+   "slug": "conscience",
+   "status": "gap",
+   "why": "unaligned text units"
+  },
+  {
+   "slug": "conscience-medieval",
+   "status": "pool"
+  },
+  {
+   "slug": "consciousness",
+   "status": "pool"
+  },
+  {
+   "slug": "consciousness-17th",
+   "status": "stale",
+   "why": "m segment hash mismatch at 111077"
+  },
+  {
+   "slug": "consciousness-animal",
+   "status": "pool"
+  },
+  {
+   "slug": "consciousness-higher",
+   "status": "pool"
+  },
+  {
+   "slug": "consciousness-intentionality",
+   "status": "gap",
+   "why": "unaligned text units"
+  },
+  {
+   "slug": "consciousness-neuroscience",
+   "status": "pool"
+  },
+  {
+   "slug": "consciousness-representational",
+   "status": "pool"
+  },
+  {
+   "slug": "consciousness-temporal",
+   "status": "pool"
+  },
+  {
+   "slug": "consciousness-unity",
+   "status": "pool"
+  },
+  {
+   "slug": "consequence-medieval",
+   "status": "pool"
+  },
+  {
+   "slug": "consequentialism",
+   "status": "pool"
+  },
+  {
+   "slug": "consequentialism-rule",
+   "status": "pool"
+  },
+  {
+   "slug": "consequentializing",
+   "status": "pool"
+  },
+  {
+   "slug": "conservation-biology",
+   "status": "pool"
+  },
+  {
+   "slug": "conservatism",
+   "status": "pool"
+  },
+  {
+   "slug": "constitutionalism",
+   "status": "pool"
+  },
+  {
+   "slug": "constructive-empiricism",
+   "status": "pool"
+  },
+  {
+   "slug": "constructivism-metaethics",
+   "status": "pool"
+  },
+  {
+   "slug": "constructivism-political",
+   "status": "pool"
+  },
+  {
+   "slug": "content-causal",
+   "status": "pool"
+  },
+  {
+   "slug": "content-externalism",
+   "status": "pool"
+  },
+  {
+   "slug": "content-narrow",
+   "status": "pool"
+  },
+  {
+   "slug": "content-nonconceptual",
+   "status": "pool"
+  },
+  {
+   "slug": "content-teleological",
+   "status": "pool"
+  },
+  {
+   "slug": "contextualism-epistemology",
+   "status": "pool"
+  },
+  {
+   "slug": "continuity",
+   "status": "pool"
+  },
+  {
+   "slug": "continuum-hypothesis",
+   "status": "pool"
+  },
+  {
+   "slug": "contract-law",
+   "status": "pool"
+  },
+  {
+   "slug": "contractarianism",
+   "status": "pool"
+  },
+  {
+   "slug": "contractarianism-contemporary",
+   "status": "pool"
+  },
+  {
+   "slug": "contractualism",
+   "status": "pool"
+  },
+  {
+   "slug": "contradiction",
+   "status": "pool"
+  },
+  {
+   "slug": "convention",
+   "status": "pool"
+  },
+  {
+   "slug": "conway",
+   "status": "pool"
+  },
+  {
+   "slug": "copernicus",
+   "status": "pool"
+  },
+  {
+   "slug": "cordemoy",
+   "status": "pool"
+  },
+  {
+   "slug": "corruption",
+   "status": "pool"
+  },
+  {
+   "slug": "cosmological-argument",
+   "status": "pool"
+  },
+  {
+   "slug": "cosmology",
+   "status": "pool"
+  },
+  {
+   "slug": "cosmology-30s",
+   "status": "pool"
+  },
+  {
+   "slug": "cosmology-theology",
+   "status": "pool"
+  },
+  {
+   "slug": "cosmopolitanism",
+   "status": "pool"
+  },
+  {
+   "slug": "counterfactuals",
+   "status": "pool"
+  },
+  {
+   "slug": "crathorn",
+   "status": "pool"
+  },
+  {
+   "slug": "creation-conservation",
+   "status": "pool"
+  },
+  {
+   "slug": "creationism",
+   "status": "pool"
+  },
+  {
+   "slug": "creativity",
+   "status": "pool"
+  },
+  {
+   "slug": "crescas",
+   "status": "pool"
+  },
+  {
+   "slug": "criminal-law",
+   "status": "gap",
+   "why": "unaligned text units"
+  },
+  {
+   "slug": "critical-phil-race",
+   "status": "pool"
+  },
+  {
+   "slug": "critical-theory",
+   "status": "pool"
+  },
+  {
+   "slug": "critical-thinking",
+   "status": "pool"
+  },
+  {
+   "slug": "croce",
+   "status": "gap",
+   "why": "no layout"
+  },
+  {
+   "slug": "cudworth",
+   "status": "pool"
+  },
+  {
+   "slug": "cugoano",
+   "status": "pool"
+  },
+  {
+   "slug": "culture",
+   "status": "pool"
+  },
+  {
+   "slug": "culture-cogsci",
+   "status": "stale",
+   "why": "r segment hash mismatch at 246728"
+  },
+  {
+   "slug": "curry-paradox",
+   "status": "pool"
+  },
+  {
+   "slug": "cusanus",
+   "status": "pool"
+  },
+  {
+   "slug": "cyrenaics",
+   "status": "pool"
+  },
+  {
+   "slug": "dai-zhen",
+   "status": "pool"
+  },
+  {
+   "slug": "dance",
+   "status": "pool"
+  },
+  {
+   "slug": "dante",
+   "status": "pool"
+  },
+  {
+   "slug": "daoism",
+   "status": "pool"
+  },
+  {
+   "slug": "daoism-religion",
+   "status": "pool"
+  },
+  {
+   "slug": "darwinism",
+   "status": "pool"
+  },
+  {
+   "slug": "david",
+   "status": "pool"
+  },
+  {
+   "slug": "david-lewis",
+   "status": "pool"
+  },
+  {
+   "slug": "davidson",
+   "status": "pool"
+  },
+  {
+   "slug": "death",
+   "status": "pool"
+  },
+  {
+   "slug": "death-definition",
+   "status": "pool"
+  },
+  {
+   "slug": "decision-capacity",
+   "status": "pool"
+  },
+  {
+   "slug": "decision-causal",
+   "status": "pool"
+  },
+  {
+   "slug": "decision-theory",
+   "status": "pool"
+  },
+  {
+   "slug": "decision-theory-descriptive",
+   "status": "pool"
+  },
+  {
+   "slug": "dedekind-foundations",
+   "status": "pool"
+  },
+  {
+   "slug": "deductivism-mathematics",
+   "status": "pool"
+  },
+  {
+   "slug": "defaults-semantics-pragmatics",
+   "status": "pool"
+  },
+  {
+   "slug": "definitions",
+   "status": "pool"
+  },
+  {
+   "slug": "dehumanization",
+   "status": "pool"
+  },
+  {
+   "slug": "deleuze",
+   "status": "pool"
+  },
+  {
+   "slug": "della-porta",
+   "status": "pool"
+  },
+  {
+   "slug": "delmedigo",
+   "status": "pool"
+  },
+  {
+   "slug": "delusion",
+   "status": "stale",
+   "why": "r segment hash mismatch at 127627"
+  },
+  {
+   "slug": "democracy",
+   "status": "pool"
+  },
+  {
+   "slug": "democritus",
+   "status": "pool"
+  },
+  {
+   "slug": "demonstration-medieval",
+   "status": "pool"
+  },
+  {
+   "slug": "dependence-ontological",
+   "status": "pool"
+  },
+  {
+   "slug": "depiction",
+   "status": "pool"
+  },
+  {
+   "slug": "derrida",
+   "status": "pool"
+  },
+  {
+   "slug": "descartes",
+   "status": "stale",
+   "why": "r segment hash mismatch at 174501"
+  },
+  {
+   "slug": "descartes-epistemology",
+   "status": "pool"
+  },
+  {
+   "slug": "descartes-ethics",
+   "status": "pool"
+  },
+  {
+   "slug": "descartes-ideas",
+   "status": "pool"
+  },
+  {
+   "slug": "descartes-mathematics",
+   "status": "pool"
+  },
+  {
+   "slug": "descartes-method",
+   "status": "pool"
+  },
+  {
+   "slug": "descartes-modal",
+   "status": "pool"
+  },
+  {
+   "slug": "descartes-ontological",
+   "status": "pool"
+  },
+  {
+   "slug": "descartes-physics",
+   "status": "pool"
+  },
+  {
+   "slug": "descartes-works",
+   "status": "pool"
+  },
+  {
+   "slug": "descriptions",
+   "status": "pool"
+  },
+  {
+   "slug": "desert",
+   "status": "pool"
+  },
+  {
+   "slug": "desgabets",
+   "status": "pool"
+  },
+  {
+   "slug": "desire",
+   "status": "pool"
+  },
+  {
+   "slug": "determinate-determinables",
+   "status": "pool"
+  },
+  {
+   "slug": "determinism-causal",
+   "status": "pool"
+  },
+  {
+   "slug": "dewey",
+   "status": "pool"
+  },
+  {
+   "slug": "dewey-aesthetics",
+   "status": "gap",
+   "why": "pool applied but not byte-equal"
+  },
+  {
+   "slug": "dewey-moral",
+   "status": "pool"
+  },
+  {
+   "slug": "dewey-political",
+   "status": "pool"
+  },
+  {
+   "slug": "dharmakiirti",
+   "status": "pool"
+  },
+  {
+   "slug": "diagrams",
+   "status": "gap",
+   "why": "unaligned text units"
+  },
+  {
+   "slug": "dialectical-school",
+   "status": "pool"
+  },
+  {
+   "slug": "dialetheism",
+   "status": "pool"
+  },
+  {
+   "slug": "diderot",
+   "status": "stale",
+   "why": "r segment hash mismatch at 152340"
+  },
+  {
+   "slug": "dietrich-freiberg",
+   "status": "pool"
+  },
+  {
+   "slug": "digital-art",
+   "status": "pool"
+  },
+  {
+   "slug": "dignity",
+   "status": "pool"
+  },
+  {
+   "slug": "dilthey",
+   "status": "gap",
+   "why": "unaligned text units"
+  },
+  {
+   "slug": "diodorus-cronus",
+   "status": "pool"
+  },
+  {
+   "slug": "dirty-hands",
+   "status": "pool"
+  },
+  {
+   "slug": "disability",
+   "status": "pool"
+  },
+  {
+   "slug": "disability-care-rationing",
+   "status": "pool"
+  },
+  {
+   "slug": "disability-critical",
+   "status": "pool"
+  },
+  {
+   "slug": "disability-justice",
+   "status": "pool"
+  },
+  {
+   "slug": "disability-well-being",
+   "status": "pool"
+  },
+  {
+   "slug": "disagreement",
+   "status": "pool"
+  },
+  {
+   "slug": "disagreement-moral",
+   "status": "pool"
+  },
+  {
+   "slug": "discourse-representation-theory",
+   "status": "pool"
+  },
+  {
+   "slug": "discrimination",
+   "status": "stale",
+   "why": "m segment hash mismatch at 117673"
+  },
+  {
+   "slug": "disjunction",
+   "status": "pool"
+  },
+  {
+   "slug": "dispositions",
+   "status": "pool"
+  },
+  {
+   "slug": "divine-freedom",
+   "status": "gap",
+   "why": "pool applied but not byte-equal"
+  },
+  {
+   "slug": "divine-hiddenness",
+   "status": "pool"
+  },
+  {
+   "slug": "divine-revelation",
+   "status": "pool"
+  },
+  {
+   "slug": "divine-simplicity",
+   "status": "pool"
+  },
+  {
+   "slug": "doing-allowing",
+   "status": "pool"
+  },
+  {
+   "slug": "domination",
+   "status": "pool"
+  },
+  {
+   "slug": "double-consciousness",
+   "status": "pool"
+  },
+  {
+   "slug": "double-effect",
+   "status": "pool"
+  },
+  {
+   "slug": "doxastic-voluntarism",
+   "status": "pool"
+  },
+  {
+   "slug": "doxography-ancient",
+   "status": "pool"
+  },
+  {
+   "slug": "dreams-dreaming",
+   "status": "pool"
+  },
+  {
+   "slug": "du-bos",
+   "status": "pool"
+  },
+  {
+   "slug": "dualism",
+   "status": "pool"
+  },
+  {
+   "slug": "dubois",
+   "status": "gap",
+   "why": "unaligned text units"
+  },
+  {
+   "slug": "duhem",
+   "status": "pool"
+  },
+  {
+   "slug": "duns-scotus",
+   "status": "pool"
+  },
+  {
+   "slug": "dutch-book",
+   "status": "pool"
+  },
+  {
+   "slug": "dynamic-choice",
+   "status": "pool"
+  },
+  {
+   "slug": "dynamic-epistemic",
+   "status": "pool"
+  },
+  {
+   "slug": "dynamic-semantics",
+   "status": "pool"
+  },
+  {
+   "slug": "early-modern-india",
+   "status": "pool"
+  },
+  {
+   "slug": "ecological-genetics",
+   "status": "pool"
+  },
+  {
+   "slug": "ecology",
+   "status": "pool"
+  },
+  {
+   "slug": "economic-democracy",
+   "status": "pool"
+  },
+  {
+   "slug": "economic-justice",
+   "status": "pool"
+  },
+  {
+   "slug": "economics",
+   "status": "pool"
+  },
+  {
+   "slug": "economics-early-modern",
+   "status": "pool"
+  },
+  {
+   "slug": "education-philosophy",
+   "status": "pool"
+  },
+  {
+   "slug": "edwards",
+   "status": "pool"
+  },
+  {
+   "slug": "egalitarianism",
+   "status": "pool"
+  },
+  {
+   "slug": "egoism",
+   "status": "pool"
+  },
+  {
+   "slug": "ehrenfels",
+   "status": "stale",
+   "why": "u segment hash mismatch at 95506"
+  },
+  {
+   "slug": "einstein-philscience",
+   "status": "pool"
+  },
+  {
+   "slug": "elias",
+   "status": "pool"
+  },
+  {
+   "slug": "elisabeth-bohemia",
+   "status": "pool"
+  },
+  {
+   "slug": "embodied-cognition",
+   "status": "stale",
+   "why": "m segment hash mismatch at 129099"
+  },
+  {
+   "slug": "emerson",
+   "status": "pool"
+  },
+  {
+   "slug": "emilie-du-chatelet",
+   "status": "pool"
+  },
+  {
+   "slug": "emily-elizabeth-constance-jones",
+   "status": "pool"
+  },
+  {
+   "slug": "emotion",
+   "status": "pool"
+  },
+  {
+   "slug": "emotion-Christian-tradition",
+   "status": "pool"
+  },
+  {
+   "slug": "emotions-17th18th",
+   "status": "pool"
+  },
+  {
+   "slug": "emotions-chinese",
+   "status": "pool"
+  },
+  {
+   "slug": "empathy",
+   "status": "pool"
+  },
+  {
+   "slug": "empedocles",
+   "status": "pool"
+  },
+  {
+   "slug": "empiricism-ancient-medieval",
+   "status": "pool"
+  },
+  {
+   "slug": "engels",
+   "status": "gap",
+   "why": "unaligned text units"
+  },
+  {
+   "slug": "enhancement",
+   "status": "pool"
+  },
+  {
+   "slug": "enlightenment",
+   "status": "pool"
+  },
+  {
+   "slug": "environmental-aesthetics",
+   "status": "pool"
+  },
+  {
+   "slug": "envy",
+   "status": "pool"
+  },
+  {
+   "slug": "epictetus",
+   "status": "pool"
+  },
+  {
+   "slug": "epicurus",
+   "status": "pool"
+  },
+  {
+   "slug": "epiphenomenalism",
+   "status": "pool"
+  },
+  {
+   "slug": "episteme-techne",
+   "status": "pool"
+  },
+  {
+   "slug": "epistemic-game",
+   "status": "pool"
+  },
+  {
+   "slug": "epistemic-paradoxes",
+   "status": "pool"
+  },
+  {
+   "slug": "epistemic-self-doubt",
+   "status": "pool"
+  },
+  {
+   "slug": "epistemic-utility",
+   "status": "pool"
+  },
+  {
+   "slug": "epistemology",
+   "status": "pool"
+  },
+  {
+   "slug": "epistemology-ai",
+   "status": "pool"
+  },
+  {
+   "slug": "epistemology-bayesian",
+   "status": "pool"
+  },
+  {
+   "slug": "epistemology-evolutionary",
+   "status": "pool"
+  },
+  {
+   "slug": "epistemology-geometry",
+   "status": "pool"
+  },
+  {
+   "slug": "epistemology-india",
+   "status": "pool"
+  },
+  {
+   "slug": "epistemology-language-tibetan",
+   "status": "pool"
+  },
+  {
+   "slug": "epistemology-latin-america",
+   "status": "pool"
+  },
+  {
+   "slug": "epistemology-naturalized",
+   "status": "pool"
+  },
+  {
+   "slug": "epistemology-social",
+   "status": "pool"
+  },
+  {
+   "slug": "epistemology-virtue",
+   "status": "pool"
+  },
+  {
+   "slug": "epistemology-visual-thinking",
+   "status": "pool"
+  },
+  {
+   "slug": "epsilon-calculus",
+   "status": "pool"
+  },
+  {
+   "slug": "equal-ed-opportunity",
+   "status": "pool"
+  },
+  {
+   "slug": "equal-opportunity",
+   "status": "pool"
+  },
+  {
+   "slug": "equality",
+   "status": "pool"
+  },
+  {
+   "slug": "equivME",
+   "status": "pool"
+  },
+  {
+   "slug": "erasmus",
+   "status": "pool"
+  },
+  {
+   "slug": "erfurt",
+   "status": "pool"
+  },
+  {
+   "slug": "ergodic-hierarchy",
+   "status": "pool"
+  },
+  {
+   "slug": "ernst-mach",
+   "status": "pool"
+  },
+  {
+   "slug": "erotic-art",
+   "status": "pool"
+  },
+  {
+   "slug": "essential-accidental",
+   "status": "pool"
+  },
+  {
+   "slug": "eternity",
+   "status": "pool"
+  },
+  {
+   "slug": "ethics-ai",
+   "status": "stale",
+   "why": "m segment hash mismatch at 193333"
+  },
+  {
+   "slug": "ethics-ancient",
+   "status": "pool"
+  },
+  {
+   "slug": "ethics-belief",
+   "status": "pool"
+  },
+  {
+   "slug": "ethics-business",
+   "status": "pool"
+  },
+  {
+   "slug": "ethics-chinese",
+   "status": "pool"
+  },
+  {
+   "slug": "ethics-cultural-heritage",
+   "status": "stale",
+   "why": "m segment hash mismatch at 147206"
+  },
+  {
+   "slug": "ethics-deontological",
+   "status": "pool"
+  },
+  {
+   "slug": "ethics-environmental",
+   "status": "pool"
+  },
+  {
+   "slug": "ethics-indian-buddhism",
+   "status": "pool"
+  },
+  {
+   "slug": "ethics-internet-research",
+   "status": "pool"
+  },
+  {
+   "slug": "ethics-it-phenomenology",
+   "status": "pool"
+  },
+  {
+   "slug": "ethics-manipulation",
+   "status": "pool"
+  },
+  {
+   "slug": "ethics-pregnancy",
+   "status": "pool"
+  },
+  {
+   "slug": "ethics-search",
+   "status": "pool"
+  },
+  {
+   "slug": "ethics-social-networking",
+   "status": "pool"
+  },
+  {
+   "slug": "ethics-virtue",
+   "status": "pool"
+  },
+  {
+   "slug": "eugenics",
+   "status": "pool"
+  },
+  {
+   "slug": "euthanasia-voluntary",
+   "status": "pool"
+  },
+  {
+   "slug": "events",
+   "status": "pool"
+  },
+  {
+   "slug": "evidence",
+   "status": "pool"
+  },
+  {
+   "slug": "evidence-legal",
+   "status": "pool"
+  },
+  {
+   "slug": "evil",
+   "status": "pool"
+  },
+  {
+   "slug": "evil-kinds-origins",
+   "status": "pool"
+  },
+  {
+   "slug": "evolution",
+   "status": "pool"
+  },
+  {
+   "slug": "evolution-before-darwin",
+   "status": "pool"
+  },
+  {
+   "slug": "evolution-cultural",
+   "status": "pool"
+  },
+  {
+   "slug": "evolution-development",
+   "status": "pool"
+  },
+  {
+   "slug": "evolutionary-psychology",
+   "status": "pool"
+  },
+  {
+   "slug": "existence",
+   "status": "pool"
+  },
+  {
+   "slug": "existentialism",
+   "status": "pool"
+  },
+  {
+   "slug": "existentialism-mexican",
+   "status": "pool"
+  },
+  {
+   "slug": "experimental-aesthetics",
+   "status": "pool"
+  },
+  {
+   "slug": "experimental-jurisprudence",
+   "status": "pool"
+  },
+  {
+   "slug": "experimental-moral",
+   "status": "pool"
+  },
+  {
+   "slug": "experimental-philosophy",
+   "status": "pool"
+  },
+  {
+   "slug": "exploitation",
+   "status": "pool"
+  },
+  {
+   "slug": "facts",
+   "status": "pool"
+  },
+  {
+   "slug": "faith",
+   "status": "pool"
+  },
+  {
+   "slug": "falaquera",
+   "status": "pool"
+  },
+  {
+   "slug": "fallacies",
+   "status": "pool"
+  },
+  {
+   "slug": "fatalism",
+   "status": "pool"
+  },
+  {
+   "slug": "fechner",
+   "status": "pool"
+  },
+  {
+   "slug": "federalism",
+   "status": "pool"
+  },
+  {
+   "slug": "feigl",
+   "status": "pool"
+  },
+  {
+   "slug": "femapproach-analy-cont",
+   "status": "pool"
+  },
+  {
+   "slug": "femapproach-analytic",
+   "status": "pool"
+  },
+  {
+   "slug": "femapproach-continental",
+   "status": "pool"
+  },
+  {
+   "slug": "femapproach-prag-cont",
+   "status": "pool"
+  },
+  {
+   "slug": "femapproach-pragmatism",
+   "status": "pool"
+  },
+  {
+   "slug": "feminism-aesthetics",
+   "status": "pool"
+  },
+  {
+   "slug": "feminism-argumentation",
+   "status": "pool"
+  },
+  {
+   "slug": "feminism-autonomy",
+   "status": "pool"
+  },
+  {
+   "slug": "feminism-class",
+   "status": "pool"
+  },
+  {
+   "slug": "feminism-disability",
+   "status": "pool"
+  },
+  {
+   "slug": "feminism-environmental",
+   "status": "pool"
+  },
+  {
+   "slug": "feminism-epistemology",
+   "status": "pool"
+  },
+  {
+   "slug": "feminism-ethics",
+   "status": "pool"
+  },
+  {
+   "slug": "feminism-family",
+   "status": "pool"
+  },
+  {
+   "slug": "feminism-femhist",
+   "status": "pool"
+  },
+  {
+   "slug": "feminism-gender",
+   "status": "pool"
+  },
+  {
+   "slug": "feminism-globalization",
+   "status": "pool"
+  },
+  {
+   "slug": "feminism-language",
+   "status": "pool"
+  },
+  {
+   "slug": "feminism-latin-america",
+   "status": "pool"
+  },
+  {
+   "slug": "feminism-law",
+   "status": "pool"
+  },
+  {
+   "slug": "feminism-liberal",
+   "status": "pool"
+  },
+  {
+   "slug": "feminism-metaphysics",
+   "status": "pool"
+  },
+  {
+   "slug": "feminism-moralpsych",
+   "status": "pool"
+  },
+  {
+   "slug": "feminism-objectification",
+   "status": "pool"
+  },
+  {
+   "slug": "feminism-political",
+   "status": "pool"
+  },
+  {
+   "slug": "feminism-psychoanalysis",
+   "status": "pool"
+  },
+  {
+   "slug": "feminism-rape",
+   "status": "pool"
+  },
+  {
+   "slug": "feminism-self",
+   "status": "pool"
+  },
+  {
+   "slug": "feminism-trans",
+   "status": "pool"
+  },
+  {
+   "slug": "feminist-bioethics",
+   "status": "pool"
+  },
+  {
+   "slug": "feminist-body",
+   "status": "pool"
+  },
+  {
+   "slug": "feminist-philosophy",
+   "status": "pool"
+  },
+  {
+   "slug": "feminist-philosophy-biology",
+   "status": "pool"
+  },
+  {
+   "slug": "feminist-power",
+   "status": "pool"
+  },
+  {
+   "slug": "feminist-religion",
+   "status": "pool"
+  },
+  {
+   "slug": "feminist-science",
+   "status": "pool"
+  },
+  {
+   "slug": "feminist-sex-markets",
+   "status": "pool"
+  },
+  {
+   "slug": "feminist-social-epistemology",
+   "status": "pool"
+  },
+  {
+   "slug": "feyerabend",
+   "status": "pool"
+  },
+  {
+   "slug": "ficino",
+   "status": "pool"
+  },
+  {
+   "slug": "fiction",
+   "status": "pool"
+  },
+  {
+   "slug": "fiction-emotion-response",
+   "status": "pool"
+  },
+  {
+   "slug": "fictional-entities",
+   "status": "pool"
+  },
+  {
+   "slug": "fictionalism",
+   "status": "pool"
+  },
+  {
+   "slug": "fictionalism-mathematics",
+   "status": "pool"
+  },
+  {
+   "slug": "fictionalism-modal",
+   "status": "pool"
+  },
+  {
+   "slug": "fideism",
+   "status": "pool"
+  },
+  {
+   "slug": "film",
+   "status": "pool"
+  },
+  {
+   "slug": "findlay",
+   "status": "pool"
+  },
+  {
+   "slug": "fine-tuning",
+   "status": "pool"
+  },
+  {
+   "slug": "fitch-paradox",
+   "status": "pool"
+  },
+  {
+   "slug": "fitness",
+   "status": "pool"
+  },
+  {
+   "slug": "fitting-attitude-theories",
+   "status": "pool"
+  },
+  {
+   "slug": "fitzralph",
+   "status": "pool"
+  },
+  {
+   "slug": "fleck",
+   "status": "pool"
+  },
+  {
+   "slug": "folkpsych-simulation",
+   "status": "pool"
+  },
+  {
+   "slug": "folkpsych-theory",
+   "status": "pool"
+  },
+  {
+   "slug": "forgiveness",
+   "status": "pool"
+  },
+  {
+   "slug": "form-matter",
+   "status": "pool"
+  },
+  {
+   "slug": "formal-belief",
+   "status": "pool"
+  },
+  {
+   "slug": "formal-epistemology",
+   "status": "pool"
+  },
+  {
+   "slug": "formalism-mathematics",
+   "status": "pool"
+  },
+  {
+   "slug": "foucault",
+   "status": "pool"
+  },
+  {
+   "slug": "frame-problem",
+   "status": "pool"
+  },
+  {
+   "slug": "francis-bacon",
+   "status": "pool"
+  },
+  {
+   "slug": "francis-marchia",
+   "status": "pool"
+  },
+  {
+   "slug": "francisco-sanches",
+   "status": "pool"
+  },
+  {
+   "slug": "francois-barre",
+   "status": "pool"
+  },
+  {
+   "slug": "frantz-fanon",
+   "status": "pool"
+  },
+  {
+   "slug": "frederick-douglass",
+   "status": "pool"
+  },
+  {
+   "slug": "free-rider",
+   "status": "pool"
+  },
+  {
+   "slug": "free-will-foreknowledge",
+   "status": "pool"
+  },
+  {
+   "slug": "freedom-ancient",
+   "status": "pool"
+  },
+  {
+   "slug": "freedom-association",
+   "status": "pool"
+  },
+  {
+   "slug": "freedom-speech",
+   "status": "pool"
+  },
+  {
+   "slug": "freewill",
+   "status": "pool"
+  },
+  {
+   "slug": "frege",
+   "status": "pool"
+  },
+  {
+   "slug": "frege-hilbert",
+   "status": "pool"
+  },
+  {
+   "slug": "frege-logic",
+   "status": "pool"
+  },
+  {
+   "slug": "frege-theorem",
+   "status": "pool"
+  },
+  {
+   "slug": "friedrich-hayek",
+   "status": "pool"
+  },
+  {
+   "slug": "friedrich-jacobi",
+   "status": "pool"
+  },
+  {
+   "slug": "friedrich-lange",
+   "status": "pool"
+  },
+  {
+   "slug": "friendship",
+   "status": "pool"
+  },
+  {
+   "slug": "fuller-margaret",
+   "status": "pool"
+  },
+  {
+   "slug": "functionalism",
+   "status": "pool"
+  },
+  {
+   "slug": "fundamentality",
+   "status": "pool"
+  },
+  {
+   "slug": "future-contingents",
+   "status": "pool"
+  },
+  {
+   "slug": "gadamer",
+   "status": "pool"
+  },
+  {
+   "slug": "gadamer-aesthetics",
+   "status": "pool"
+  },
+  {
+   "slug": "galen",
+   "status": "pool"
+  },
+  {
+   "slug": "galileo",
+   "status": "pool"
+  },
+  {
+   "slug": "game-ethics",
+   "status": "pool"
+  },
+  {
+   "slug": "game-evolutionary",
+   "status": "pool"
+  },
+  {
+   "slug": "game-theory",
+   "status": "gap",
+   "why": "unaligned text units"
+  },
+  {
+   "slug": "games-abstraction",
+   "status": "pool"
+  },
+  {
+   "slug": "gametes-donation-sale",
+   "status": "stale",
+   "why": "u segment hash mismatch at 153265"
+  },
+  {
+   "slug": "gangesa",
+   "status": "pool"
+  },
+  {
+   "slug": "gassendi",
+   "status": "pool"
+  },
+  {
+   "slug": "gasset",
+   "status": "gap",
+   "why": "unaligned text units"
+  },
+  {
+   "slug": "gauge-theories",
+   "status": "pool"
+  },
+  {
+   "slug": "gelukpa",
+   "status": "pool"
+  },
+  {
+   "slug": "gene",
+   "status": "pool"
+  },
+  {
+   "slug": "generalized-quantifiers",
+   "status": "pool"
+  },
+  {
+   "slug": "generics",
+   "status": "pool"
+  },
+  {
+   "slug": "genetic-drift",
+   "status": "pool"
+  },
+  {
+   "slug": "genetics",
+   "status": "stale",
+   "why": "m segment hash mismatch at 93489"
+  },
+  {
+   "slug": "genomics",
+   "status": "pool"
+  },
+  {
+   "slug": "genotype-phenotype",
+   "status": "pool"
+  },
+  {
+   "slug": "genrel-early",
+   "status": "pool"
+  },
+  {
+   "slug": "geometry-19th",
+   "status": "pool"
+  },
+  {
+   "slug": "geometry-finitism",
+   "status": "pool"
+  },
+  {
+   "slug": "george-eliot",
+   "status": "pool"
+  },
+  {
+   "slug": "gersonides",
+   "status": "pool"
+  },
+  {
+   "slug": "gianfrancesco-pico",
+   "status": "pool"
+  },
+  {
+   "slug": "giles",
+   "status": "pool"
+  },
+  {
+   "slug": "global-democracy",
+   "status": "pool"
+  },
+  {
+   "slug": "globalization",
+   "status": "pool"
+  },
+  {
+   "slug": "god-necessary-being",
+   "status": "pool"
+  },
+  {
+   "slug": "god-ultimates",
+   "status": "pool"
+  },
+  {
+   "slug": "godfrey",
+   "status": "pool"
+  },
+  {
+   "slug": "godwin",
+   "status": "pool"
+  },
+  {
+   "slug": "goedel",
+   "status": "pool"
+  },
+  {
+   "slug": "goedel-incompleteness",
+   "status": "pool"
+  },
+  {
+   "slug": "gomez-pereira",
+   "status": "pool"
+  },
+  {
+   "slug": "goodman",
+   "status": "pool"
+  },
+  {
+   "slug": "goodman-aesthetics",
+   "status": "pool"
+  },
+  {
+   "slug": "gorampa",
+   "status": "stale",
+   "why": "r segment hash mismatch at 52242"
+  },
+  {
+   "slug": "gramsci",
+   "status": "gap",
+   "why": "pool applied but not byte-equal"
+  },
+  {
+   "slug": "gratitude",
+   "status": "pool"
+  },
+  {
+   "slug": "green",
+   "status": "pool"
+  },
+  {
+   "slug": "gregory-rimini",
+   "status": "pool"
+  },
+  {
+   "slug": "grice",
+   "status": "pool"
+  },
+  {
+   "slug": "grosseteste",
+   "status": "pool"
+  },
+  {
+   "slug": "grotius",
+   "status": "pool"
+  },
+  {
+   "slug": "grounding",
+   "status": "pool"
+  },
+  {
+   "slug": "grounds-moral-status",
+   "status": "pool"
+  },
+  {
+   "slug": "habermas",
+   "status": "pool"
+  },
+  {
+   "slug": "haecceitism",
+   "status": "pool"
+  },
+  {
+   "slug": "halevi",
+   "status": "pool"
+  },
+  {
+   "slug": "hamann",
+   "status": "pool"
+  },
+  {
+   "slug": "han-dynasty",
+   "status": "pool"
+  },
+  {
+   "slug": "happiness",
+   "status": "pool"
+  },
+  {
+   "slug": "hare",
+   "status": "pool"
+  },
+  {
+   "slug": "harriet-mill",
+   "status": "pool"
+  },
+  {
+   "slug": "hartley",
+   "status": "pool"
+  },
+  {
+   "slug": "hartshorne",
+   "status": "pool"
+  },
+  {
+   "slug": "hate-speech",
+   "status": "pool"
+  },
+  {
+   "slug": "health-disease",
+   "status": "pool"
+  },
+  {
+   "slug": "heaven-hell",
+   "status": "pool"
+  },
+  {
+   "slug": "hedonism",
+   "status": "pool"
+  },
+  {
+   "slug": "hegel",
+   "status": "pool"
+  },
+  {
+   "slug": "hegel-aesthetics",
+   "status": "pool"
+  },
+  {
+   "slug": "hegel-dialectics",
+   "status": "pool"
+  },
+  {
+   "slug": "hegel-social-political",
+   "status": "pool"
+  },
+  {
+   "slug": "heidegger",
+   "status": "pool"
+  },
+  {
+   "slug": "heidegger-aesthetics",
+   "status": "pool"
+  },
+  {
+   "slug": "heinrich-rickert",
+   "status": "pool"
+  },
+  {
+   "slug": "hempel",
+   "status": "pool"
+  },
+  {
+   "slug": "henricus-regius",
+   "status": "pool"
+  },
+  {
+   "slug": "henry-ghent",
+   "status": "pool"
+  },
+  {
+   "slug": "henry-more",
+   "status": "pool"
+  },
+  {
+   "slug": "heraclitus",
+   "status": "pool"
+  },
+  {
+   "slug": "herder",
+   "status": "gap",
+   "why": "unaligned text units"
+  },
+  {
+   "slug": "heritability",
+   "status": "pool"
+  },
+  {
+   "slug": "hermann-helmholtz",
+   "status": "pool"
+  },
+  {
+   "slug": "hermann-lotze",
+   "status": "pool"
+  },
+  {
+   "slug": "hermeneutics",
+   "status": "pool"
+  },
+  {
+   "slug": "heytesbury",
+   "status": "gap",
+   "why": "unaligned text units"
+  },
+  {
+   "slug": "higher-order-evidence",
+   "status": "pool"
+  },
+  {
+   "slug": "hilbert-program",
+   "status": "pool"
+  },
+  {
+   "slug": "hist-westphilmusic-since-1800",
+   "status": "pool"
+  },
+  {
+   "slug": "hist-westphilmusic-to-1800",
+   "status": "pool"
+  },
+  {
+   "slug": "histfem-condorcet",
+   "status": "stale",
+   "why": "m segment hash mismatch at 115142"
+  },
+  {
+   "slug": "history",
+   "status": "stale",
+   "why": "r segment hash mismatch at 160263"
+  },
+  {
+   "slug": "hobbes",
+   "status": "pool"
+  },
+  {
+   "slug": "hobbes-moral",
+   "status": "pool"
+  },
+  {
+   "slug": "hobbes-science",
+   "status": "pool"
+  },
+  {
+   "slug": "holbach",
+   "status": "pool"
+  },
+  {
+   "slug": "holes",
+   "status": "pool"
+  },
+  {
+   "slug": "holism-social",
+   "status": "pool"
+  },
+  {
+   "slug": "holkot",
+   "status": "pool"
+  },
+  {
+   "slug": "homosexuality",
+   "status": "pool"
+  },
+  {
+   "slug": "hope",
+   "status": "pool"
+  },
+  {
+   "slug": "horkheimer",
+   "status": "pool"
+  },
+  {
+   "slug": "human-genome",
+   "status": "stale",
+   "why": "u segment hash mismatch at 172705"
+  },
+  {
+   "slug": "human-nature",
+   "status": "pool"
+  },
+  {
+   "slug": "humanism-civic",
+   "status": "pool"
+  },
+  {
+   "slug": "hume",
+   "status": "pool"
+  },
+  {
+   "slug": "hume-aesthetics",
+   "status": "pool"
+  },
+  {
+   "slug": "hume-freewill",
+   "status": "pool"
+  },
+  {
+   "slug": "hume-moral",
+   "status": "stale",
+   "why": "m segment hash mismatch at 116484"
+  },
+  {
+   "slug": "hume-newton",
+   "status": "pool"
+  },
+  {
+   "slug": "hume-religion",
+   "status": "pool"
+  },
+  {
+   "slug": "humor",
+   "status": "pool"
+  },
+  {
+   "slug": "husserl",
+   "status": "pool"
+  },
+  {
+   "slug": "hutcheson",
+   "status": "pool"
+  },
+  {
+   "slug": "hyperintensionality",
+   "status": "pool"
+  },
+  {
+   "slug": "iamblichus",
+   "status": "pool"
+  },
+  {
+   "slug": "ibn-arabi",
+   "status": "pool"
+  },
+  {
+   "slug": "ibn-bajja",
+   "status": "pool"
+  },
+  {
+   "slug": "ibn-ezra",
+   "status": "pool"
+  },
+  {
+   "slug": "ibn-gabirol",
+   "status": "pool"
+  },
+  {
+   "slug": "ibn-kammuna",
+   "status": "pool"
+  },
+  {
+   "slug": "ibn-rushd",
+   "status": "pool"
+  },
+  {
+   "slug": "ibn-rushd-natural",
+   "status": "pool"
+  },
+  {
+   "slug": "ibn-sina",
+   "status": "pool"
+  },
+  {
+   "slug": "ibn-sina-logic",
+   "status": "pool"
+  },
+  {
+   "slug": "ibn-sina-metaphysics",
+   "status": "pool"
+  },
+  {
+   "slug": "ibn-sina-natural",
+   "status": "pool"
+  },
+  {
+   "slug": "ibn-taymiyya",
+   "status": "pool"
+  },
+  {
+   "slug": "idealism",
+   "status": "pool"
+  },
+  {
+   "slug": "identity",
+   "status": "pool"
+  },
+  {
+   "slug": "identity-ethics",
+   "status": "pool"
+  },
+  {
+   "slug": "identity-indiscernible",
+   "status": "pool"
+  },
+  {
+   "slug": "identity-personal",
+   "status": "pool"
+  },
+  {
+   "slug": "identity-politics",
+   "status": "pool"
+  },
+  {
+   "slug": "identity-relative",
+   "status": "pool"
+  },
+  {
+   "slug": "identity-time",
+   "status": "pool"
+  },
+  {
+   "slug": "identity-transworld",
+   "status": "pool"
+  },
+  {
+   "slug": "ideology",
+   "status": "pool"
+  },
+  {
+   "slug": "idiolects",
+   "status": "pool"
+  },
+  {
+   "slug": "ikhwan-al-safa",
+   "status": "pool"
+  },
+  {
+   "slug": "illumination",
+   "status": "pool"
+  },
+  {
+   "slug": "imagination",
+   "status": "pool"
+  },
+  {
+   "slug": "imaginative-resistance",
+   "status": "pool"
+  },
+  {
+   "slug": "immigration",
+   "status": "pool"
+  },
+  {
+   "slug": "immunology",
+   "status": "pool"
+  },
+  {
+   "slug": "immutability",
+   "status": "pool"
+  },
+  {
+   "slug": "impartiality",
+   "status": "pool"
+  },
+  {
+   "slug": "implicature",
+   "status": "pool"
+  },
+  {
+   "slug": "implicature-optimality-games",
+   "status": "pool"
+  },
+  {
+   "slug": "implicit-bias",
+   "status": "pool"
+  },
+  {
+   "slug": "impossible-worlds",
+   "status": "pool"
+  },
+  {
+   "slug": "imprecise-probabilities",
+   "status": "pool"
+  },
+  {
+   "slug": "incommensurability",
+   "status": "pool"
+  },
+  {
+   "slug": "incompatibilism-arguments",
+   "status": "pool"
+  },
+  {
+   "slug": "incompatibilism-theories",
+   "status": "pool"
+  },
+  {
+   "slug": "independence-large-cardinals",
+   "status": "pool"
+  },
+  {
+   "slug": "indexicals",
+   "status": "pool"
+  },
+  {
+   "slug": "induction-problem",
+   "status": "pool"
+  },
+  {
+   "slug": "infinite-regress",
+   "status": "pool"
+  },
+  {
+   "slug": "infinity",
+   "status": "pool"
+  },
+  {
+   "slug": "information",
+   "status": "pool"
+  },
+  {
+   "slug": "information-biological",
+   "status": "pool"
+  },
+  {
+   "slug": "information-entropy",
+   "status": "pool"
+  },
+  {
+   "slug": "information-semantic",
+   "status": "pool"
+  },
+  {
+   "slug": "informed-consent",
+   "status": "stale",
+   "why": "u segment hash mismatch at 111769"
+  },
+  {
+   "slug": "ingarden",
+   "status": "pool"
+  },
+  {
+   "slug": "inheritance-systems",
+   "status": "pool"
+  },
+  {
+   "slug": "innate-acquired",
+   "status": "pool"
+  },
+  {
+   "slug": "innateness-cognition",
+   "status": "pool"
+  },
+  {
+   "slug": "innateness-history",
+   "status": "pool"
+  },
+  {
+   "slug": "innateness-language",
+   "status": "pool"
+  },
+  {
+   "slug": "inner-speech",
+   "status": "pool"
+  },
+  {
+   "slug": "inquiry",
+   "status": "pool"
+  },
+  {
+   "slug": "insolubles",
+   "status": "pool"
+  },
+  {
+   "slug": "integrity",
+   "status": "pool"
+  },
+  {
+   "slug": "intellectual-property",
+   "status": "pool"
+  },
+  {
+   "slug": "intensional-trans-verbs",
+   "status": "pool"
+  },
+  {
+   "slug": "intention",
+   "status": "pool"
+  },
+  {
+   "slug": "intentionality",
+   "status": "pool"
+  },
+  {
+   "slug": "intentionality-ancient",
+   "status": "pool"
+  },
+  {
+   "slug": "international-justice",
+   "status": "pool"
+  },
+  {
+   "slug": "international-law",
+   "status": "pool"
+  },
+  {
+   "slug": "intrinsic-extrinsic",
+   "status": "pool"
+  },
+  {
+   "slug": "introspection",
+   "status": "pool"
+  },
+  {
+   "slug": "intuition",
+   "status": "pool"
+  },
+  {
+   "slug": "intuitionism",
+   "status": "pool"
+  },
+  {
+   "slug": "intuitionism-ethics",
+   "status": "pool"
+  },
+  {
+   "slug": "intuitionistic-logic-development",
+   "status": "stale",
+   "why": "r segment hash mismatch at 185025"
+  },
+  {
+   "slug": "israeli",
+   "status": "pool"
+  },
+  {
+   "slug": "it-moral-values",
+   "status": "pool"
+  },
+  {
+   "slug": "it-privacy",
+   "status": "pool"
+  },
+  {
+   "slug": "jaina-philosophy",
+   "status": "pool"
+  },
+  {
+   "slug": "james",
+   "status": "pool"
+  },
+  {
+   "slug": "james-mill",
+   "status": "pool"
+  },
+  {
+   "slug": "james-viterbo",
+   "status": "pool"
+  },
+  {
+   "slug": "james-ward",
+   "status": "pool"
+  },
+  {
+   "slug": "japanese-aesthetics",
+   "status": "pool"
+  },
+  {
+   "slug": "japanese-confucian",
+   "status": "pool"
+  },
+  {
+   "slug": "japanese-philosophy",
+   "status": "pool"
+  },
+  {
+   "slug": "japanese-pure-land",
+   "status": "pool"
+  },
+  {
+   "slug": "japanese-zen",
+   "status": "pool"
+  },
+  {
+   "slug": "jaspers",
+   "status": "pool"
+  },
+  {
+   "slug": "jayaraasi",
+   "status": "pool"
+  },
+  {
+   "slug": "jefferson",
+   "status": "pool"
+  },
+  {
+   "slug": "joane-petrizi",
+   "status": "pool"
+  },
+  {
+   "slug": "johann-fichte",
+   "status": "pool"
+  },
+  {
+   "slug": "johann-herbart",
+   "status": "pool"
+  },
+  {
+   "slug": "johann-sturm",
+   "status": "pool"
+  },
+  {
+   "slug": "john-italos",
+   "status": "pool"
+  },
+  {
+   "slug": "john-norris",
+   "status": "pool"
+  },
+  {
+   "slug": "john-salisbury",
+   "status": "pool"
+  },
+  {
+   "slug": "jury-theorems",
+   "status": "pool"
+  },
+  {
+   "slug": "justep-coherence",
+   "status": "pool"
+  },
+  {
+   "slug": "justep-foundational",
+   "status": "pool"
+  },
+  {
+   "slug": "justep-intext",
+   "status": "pool"
+  },
+  {
+   "slug": "justice",
+   "status": "pool"
+  },
+  {
+   "slug": "justice-bad-luck",
+   "status": "pool"
+  },
+  {
+   "slug": "justice-climate",
+   "status": "pool"
+  },
+  {
+   "slug": "justice-distributive",
+   "status": "pool"
+  },
+  {
+   "slug": "justice-global",
+   "status": "pool"
+  },
+  {
+   "slug": "justice-healthcareaccess",
+   "status": "pool"
+  },
+  {
+   "slug": "justice-inequality-health",
+   "status": "pool"
+  },
+  {
+   "slug": "justice-intergenerational",
+   "status": "pool"
+  },
+  {
+   "slug": "justice-moral-psych",
+   "status": "pool"
+  },
+  {
+   "slug": "justice-retributive",
+   "status": "stale",
+   "why": "m segment hash mismatch at 113265"
+  },
+  {
+   "slug": "justice-transitional",
+   "status": "pool"
+  },
+  {
+   "slug": "justice-virtue",
+   "status": "pool"
+  },
+  {
+   "slug": "justification-public",
+   "status": "pool"
+  },
+  {
+   "slug": "justus-lipsius",
+   "status": "pool"
+  },
+  {
+   "slug": "kant",
+   "status": "pool"
+  },
+  {
+   "slug": "kant-aesthetics",
+   "status": "pool"
+  },
+  {
+   "slug": "kant-conceptualism",
+   "status": "pool"
+  },
+  {
+   "slug": "kant-development",
+   "status": "pool"
+  },
+  {
+   "slug": "kant-hume-causality",
+   "status": "pool"
+  },
+  {
+   "slug": "kant-hume-morality",
+   "status": "pool"
+  },
+  {
+   "slug": "kant-judgment",
+   "status": "pool"
+  },
+  {
+   "slug": "kant-leibniz",
+   "status": "pool"
+  },
+  {
+   "slug": "kant-mathematics",
+   "status": "pool"
+  },
+  {
+   "slug": "kant-metaphysics",
+   "status": "pool"
+  },
+  {
+   "slug": "kant-mind",
+   "status": "pool"
+  },
+  {
+   "slug": "kant-moral",
+   "status": "pool"
+  },
+  {
+   "slug": "kant-reason",
+   "status": "pool"
+  },
+  {
+   "slug": "kant-religion",
+   "status": "pool"
+  },
+  {
+   "slug": "kant-science",
+   "status": "pool"
+  },
+  {
+   "slug": "kant-social-political",
+   "status": "pool"
+  },
+  {
+   "slug": "kant-spacetime",
+   "status": "pool"
+  },
+  {
+   "slug": "kant-transcendental",
+   "status": "pool"
+  },
+  {
+   "slug": "kant-transcendental-idealism",
+   "status": "pool"
+  },
+  {
+   "slug": "karl-reinhold",
+   "status": "pool"
+  },
+  {
+   "slug": "kaspi-joseph",
+   "status": "pool"
+  },
+  {
+   "slug": "kepler",
+   "status": "pool"
+  },
+  {
+   "slug": "kierkegaard",
+   "status": "pool"
+  },
+  {
+   "slug": "kilvington",
+   "status": "pool"
+  },
+  {
+   "slug": "knowledge-acquaindescrip",
+   "status": "pool"
+  },
+  {
+   "slug": "knowledge-analysis",
+   "status": "pool"
+  },
+  {
+   "slug": "knowledge-how",
+   "status": "pool"
+  },
+  {
+   "slug": "knowledge-value",
+   "status": "pool"
+  },
+  {
+   "slug": "kochen-specker",
+   "status": "pool"
+  },
+  {
+   "slug": "kokugaku-school",
+   "status": "pool"
+  },
+  {
+   "slug": "korean-buddhism",
+   "status": "pool"
+  },
+  {
+   "slug": "korean-confucianism",
+   "status": "pool"
+  },
+  {
+   "slug": "korean-philosophy",
+   "status": "pool"
+  },
+  {
+   "slug": "kukai",
+   "status": "pool"
+  },
+  {
+   "slug": "kumaarila",
+   "status": "pool"
+  },
+  {
+   "slug": "kyoto-school",
+   "status": "pool"
+  },
+  {
+   "slug": "la-forge",
+   "status": "pool"
+  },
+  {
+   "slug": "lacan",
+   "status": "pool"
+  },
+  {
+   "slug": "lady-masham",
+   "status": "pool"
+  },
+  {
+   "slug": "lakatos",
+   "status": "pool"
+  },
+  {
+   "slug": "lambda-calculus",
+   "status": "pool"
+  },
+  {
+   "slug": "lambert-auxerre",
+   "status": "pool"
+  },
+  {
+   "slug": "landmann-kalischer",
+   "status": "pool"
+  },
+  {
+   "slug": "langer",
+   "status": "pool"
+  },
+  {
+   "slug": "language-india",
+   "status": "pool"
+  },
+  {
+   "slug": "language-thought",
+   "status": "pool"
+  },
+  {
+   "slug": "laozi",
+   "status": "pool"
+  },
+  {
+   "slug": "large-cardinals-determinacy",
+   "status": "pool"
+  },
+  {
+   "slug": "latin-american-analytic",
+   "status": "pool"
+  },
+  {
+   "slug": "latin-american-metaphilosophy",
+   "status": "pool"
+  },
+  {
+   "slug": "latin-american-philosophy",
+   "status": "pool"
+  },
+  {
+   "slug": "latinx",
+   "status": "pool"
+  },
+  {
+   "slug": "law-ideology",
+   "status": "pool"
+  },
+  {
+   "slug": "law-interpretivist",
+   "status": "pool"
+  },
+  {
+   "slug": "law-language",
+   "status": "pool"
+  },
+  {
+   "slug": "law-limits",
+   "status": "pool"
+  },
+  {
+   "slug": "lawphil-naturalism",
+   "status": "pool"
+  },
+  {
+   "slug": "lawphil-nature",
+   "status": "pool"
+  },
+  {
+   "slug": "lawphil-theory",
+   "status": "pool"
+  },
+  {
+   "slug": "laws-of-nature",
+   "status": "pool"
+  },
+  {
+   "slug": "learning-formal",
+   "status": "pool"
+  },
+  {
+   "slug": "lefevre-etaples",
+   "status": "pool"
+  },
+  {
+   "slug": "legal-econanalysis",
+   "status": "pool"
+  },
+  {
+   "slug": "legal-interpretation",
+   "status": "pool"
+  },
+  {
+   "slug": "legal-obligation",
+   "status": "pool"
+  },
+  {
+   "slug": "legal-positivism",
+   "status": "pool"
+  },
+  {
+   "slug": "legal-probabilism",
+   "status": "pool"
+  },
+  {
+   "slug": "legal-punishment",
+   "status": "pool"
+  },
+  {
+   "slug": "legal-reas-interpret",
+   "status": "pool"
+  },
+  {
+   "slug": "legal-reas-prec",
+   "status": "pool"
+  },
+  {
+   "slug": "legal-rights",
+   "status": "pool"
+  },
+  {
+   "slug": "legitimacy",
+   "status": "pool"
+  },
+  {
+   "slug": "legrand",
+   "status": "pool"
+  },
+  {
+   "slug": "leibniz",
+   "status": "stale",
+   "why": "u segment hash mismatch at 143885"
+  },
+  {
+   "slug": "leibniz-causation",
+   "status": "stale",
+   "why": "r segment hash mismatch at 110120"
+  },
+  {
+   "slug": "leibniz-ethics",
+   "status": "pool"
+  },
+  {
+   "slug": "leibniz-evil",
+   "status": "pool"
+  },
+  {
+   "slug": "leibniz-exoteric",
+   "status": "pool"
+  },
+  {
+   "slug": "leibniz-logic-influence",
+   "status": "pool"
+  },
+  {
+   "slug": "leibniz-mind",
+   "status": "pool"
+  },
+  {
+   "slug": "leibniz-modal",
+   "status": "pool"
+  },
+  {
+   "slug": "leibniz-physics",
+   "status": "pool"
+  },
+  {
+   "slug": "leibowitz-yeshayahu",
+   "status": "pool"
+  },
+  {
+   "slug": "lesniewski",
+   "status": "pool"
+  },
+  {
+   "slug": "leucippus",
+   "status": "pool"
+  },
+  {
+   "slug": "levels-org-biology",
+   "status": "pool"
+  },
+  {
+   "slug": "levinas",
+   "status": "pool"
+  },
+  {
+   "slug": "lewis-ci",
+   "status": "pool"
+  },
+  {
+   "slug": "lewis-metaphysics",
+   "status": "pool"
+  },
+  {
+   "slug": "liar-paradox",
+   "status": "pool"
+  },
+  {
+   "slug": "liberalism",
+   "status": "pool"
+  },
+  {
+   "slug": "liberalism-latin-america",
+   "status": "pool"
+  },
+  {
+   "slug": "liberation",
+   "status": "pool"
+  },
+  {
+   "slug": "libertarianism",
+   "status": "pool"
+  },
+  {
+   "slug": "liberty-positive-negative",
+   "status": "pool"
+  },
+  {
+   "slug": "life",
+   "status": "pool"
+  },
+  {
+   "slug": "life-meaning",
+   "status": "pool"
+  },
+  {
+   "slug": "linguistics",
+   "status": "pool"
+  },
+  {
+   "slug": "literal-nonliteral-india",
+   "status": "pool"
+  },
+  {
+   "slug": "llull",
+   "status": "pool"
+  },
+  {
+   "slug": "location-mereology",
+   "status": "pool"
+  },
+  {
+   "slug": "locke",
+   "status": "pool"
+  },
+  {
+   "slug": "locke-freedom",
+   "status": "pool"
+  },
+  {
+   "slug": "locke-moral",
+   "status": "pool"
+  },
+  {
+   "slug": "locke-on-medicine",
+   "status": "pool"
+  },
+  {
+   "slug": "locke-personal-identity",
+   "status": "pool"
+  },
+  {
+   "slug": "locke-philosophy-science",
+   "status": "pool"
+  },
+  {
+   "slug": "locke-political",
+   "status": "pool"
+  },
+  {
+   "slug": "logic-action",
+   "status": "pool"
+  },
+  {
+   "slug": "logic-ai",
+   "status": "pool"
+  },
+  {
+   "slug": "logic-algebraic-propositional",
+   "status": "pool"
+  },
+  {
+   "slug": "logic-ancient",
+   "status": "pool"
+  },
+  {
+   "slug": "logic-belief-revision",
+   "status": "pool"
+  },
+  {
+   "slug": "logic-classical",
+   "status": "pool"
+  },
+  {
+   "slug": "logic-combinatory",
+   "status": "pool"
+  },
+  {
+   "slug": "logic-combining",
+   "status": "pool"
+  },
+  {
+   "slug": "logic-conditionals",
+   "status": "pool"
+  },
+  {
+   "slug": "logic-connexive",
+   "status": "pool"
+  },
+  {
+   "slug": "logic-deontic",
+   "status": "stale",
+   "why": "r segment hash mismatch at 172817"
+  },
+  {
+   "slug": "logic-dependence",
+   "status": "pool"
+  },
+  {
+   "slug": "logic-dialogical",
+   "status": "pool"
+  },
+  {
+   "slug": "logic-dynamic",
+   "status": "pool"
+  },
+  {
+   "slug": "logic-epistemic",
+   "status": "pool"
+  },
+  {
+   "slug": "logic-firstorder-emergence",
+   "status": "pool"
+  },
+  {
+   "slug": "logic-free",
+   "status": "pool"
+  },
+  {
+   "slug": "logic-fuzzy",
+   "status": "pool"
+  },
+  {
+   "slug": "logic-games",
+   "status": "pool"
+  },
+  {
+   "slug": "logic-higher-order",
+   "status": "pool"
+  },
+  {
+   "slug": "logic-hybrid",
+   "status": "pool"
+  },
+  {
+   "slug": "logic-if",
+   "status": "pool"
+  },
+  {
+   "slug": "logic-india",
+   "status": "pool"
+  },
+  {
+   "slug": "logic-inductive",
+   "status": "pool"
+  },
+  {
+   "slug": "logic-infinitary",
+   "status": "pool"
+  },
+  {
+   "slug": "logic-informal",
+   "status": "pool"
+  },
+  {
+   "slug": "logic-information",
+   "status": "pool"
+  },
+  {
+   "slug": "logic-intensional",
+   "status": "gap",
+   "why": "unaligned text units"
+  },
+  {
+   "slug": "logic-intuitionistic",
+   "status": "pool"
+  },
+  {
+   "slug": "logic-justification",
+   "status": "pool"
+  },
+  {
+   "slug": "logic-linear",
+   "status": "pool"
+  },
+  {
+   "slug": "logic-many-sorted",
+   "status": "pool"
+  },
+  {
+   "slug": "logic-manyvalued",
+   "status": "pool"
+  },
+  {
+   "slug": "logic-massexpress",
+   "status": "pool"
+  },
+  {
+   "slug": "logic-modal",
+   "status": "pool"
+  },
+  {
+   "slug": "logic-modal-origins",
+   "status": "pool"
+  },
+  {
+   "slug": "logic-nonmonotonic",
+   "status": "pool"
+  },
+  {
+   "slug": "logic-normative",
+   "status": "pool"
+  },
+  {
+   "slug": "logic-ontology",
+   "status": "pool"
+  },
+  {
+   "slug": "logic-paraconsistent",
+   "status": "pool"
+  },
+  {
+   "slug": "logic-power-games",
+   "status": "pool"
+  },
+  {
+   "slug": "logic-preference",
+   "status": "pool"
+  },
+  {
+   "slug": "logic-probability",
+   "status": "pool"
+  },
+  {
+   "slug": "logic-propositional",
+   "status": "pool"
+  },
+  {
+   "slug": "logic-provability",
+   "status": "pool"
+  },
+  {
+   "slug": "logic-relevance",
+   "status": "pool"
+  },
+  {
+   "slug": "logic-substructural",
+   "status": "pool"
+  },
+  {
+   "slug": "logic-temporal",
+   "status": "pool"
+  },
+  {
+   "slug": "logical-atomism",
+   "status": "pool"
+  },
+  {
+   "slug": "logical-consequence",
+   "status": "pool"
+  },
+  {
+   "slug": "logical-constants",
+   "status": "pool"
+  },
+  {
+   "slug": "logical-construction",
+   "status": "pool"
+  },
+  {
+   "slug": "logical-empiricism",
+   "status": "pool"
+  },
+  {
+   "slug": "logical-form",
+   "status": "pool"
+  },
+  {
+   "slug": "logical-pluralism",
+   "status": "pool"
+  },
+  {
+   "slug": "logical-truth",
+   "status": "pool"
+  },
+  {
+   "slug": "logicism",
+   "status": "pool"
+  },
+  {
+   "slug": "logics-for-games",
+   "status": "pool"
+  },
+  {
+   "slug": "lorenzo-valla",
+   "status": "pool"
+  },
+  {
+   "slug": "love",
+   "status": "pool"
+  },
+  {
+   "slug": "loyalty",
+   "status": "pool"
+  },
+  {
+   "slug": "lucretius",
+   "status": "pool"
+  },
+  {
+   "slug": "lucrezia-marinella",
+   "status": "pool"
+  },
+  {
+   "slug": "ludwig-feuerbach",
+   "status": "pool"
+  },
+  {
+   "slug": "lukacs",
+   "status": "pool"
+  },
+  {
+   "slug": "lukasiewicz",
+   "status": "pool"
+  },
+  {
+   "slug": "luther",
+   "status": "pool"
+  },
+  {
+   "slug": "luther-influence",
+   "status": "pool"
+  },
+  {
+   "slug": "luxemburg",
+   "status": "pool"
+  },
+  {
+   "slug": "lvov-warsaw",
+   "status": "pool"
+  },
+  {
+   "slug": "lying-definition",
+   "status": "pool"
+  },
+  {
+   "slug": "lyotard",
+   "status": "pool"
+  },
+  {
+   "slug": "machiavelli",
+   "status": "pool"
+  },
+  {
+   "slug": "macroevolution",
+   "status": "gap",
+   "why": "unaligned text units"
+  },
+  {
+   "slug": "madeleine-scudery",
+   "status": "stale",
+   "why": "r segment hash mismatch at 77250"
+  },
+  {
+   "slug": "madhyamaka",
+   "status": "pool"
+  },
+  {
+   "slug": "maimon",
+   "status": "pool"
+  },
+  {
+   "slug": "maimonides",
+   "status": "pool"
+  },
+  {
+   "slug": "maimonides-islamic",
+   "status": "pool"
+  },
+  {
+   "slug": "malebranche",
+   "status": "pool"
+  },
+  {
+   "slug": "malebranche-ideas",
+   "status": "pool"
+  },
+  {
+   "slug": "mally",
+   "status": "pool"
+  },
+  {
+   "slug": "mally-deontic",
+   "status": "pool"
+  },
+  {
+   "slug": "mandeville",
+   "status": "pool"
+  },
+  {
+   "slug": "marcel",
+   "status": "pool"
+  },
+  {
+   "slug": "marcus-aurelius",
+   "status": "pool"
+  },
+  {
+   "slug": "marcuse",
+   "status": "pool"
+  },
+  {
+   "slug": "margaret-cavendish",
+   "status": "pool"
+  },
+  {
+   "slug": "margaret-fell",
+   "status": "pool"
+  },
+  {
+   "slug": "maritain",
+   "status": "pool"
+  },
+  {
+   "slug": "markets",
+   "status": "pool"
+  },
+  {
+   "slug": "marriage",
+   "status": "pool"
+  },
+  {
+   "slug": "marsilius-inghen",
+   "status": "pool"
+  },
+  {
+   "slug": "marsilius-padua",
+   "status": "pool"
+  },
+  {
+   "slug": "marty",
+   "status": "pool"
+  },
+  {
+   "slug": "marx",
+   "status": "pool"
+  },
+  {
+   "slug": "marxism-analytical",
+   "status": "pool"
+  },
+  {
+   "slug": "mary-shepherd",
+   "status": "pool"
+  },
+  {
+   "slug": "material-constitution",
+   "status": "pool"
+  },
+  {
+   "slug": "materialism-eliminative",
+   "status": "pool"
+  },
+  {
+   "slug": "mathematical-practice",
+   "status": "pool"
+  },
+  {
+   "slug": "mathematical-style",
+   "status": "pool"
+  },
+  {
+   "slug": "mathematics-constructive",
+   "status": "pool"
+  },
+  {
+   "slug": "mathematics-explanation",
+   "status": "pool"
+  },
+  {
+   "slug": "mathematics-inconsistent",
+   "status": "pool"
+  },
+  {
+   "slug": "mathematics-nondeductive",
+   "status": "pool"
+  },
+  {
+   "slug": "mathphil-indis",
+   "status": "pool"
+  },
+  {
+   "slug": "max-stirner",
+   "status": "pool"
+  },
+  {
+   "slug": "mctaggart",
+   "status": "pool"
+  },
+  {
+   "slug": "mead",
+   "status": "pool"
+  },
+  {
+   "slug": "meaning",
+   "status": "pool"
+  },
+  {
+   "slug": "meaning-holism",
+   "status": "pool"
+  },
+  {
+   "slug": "meaning-normativity",
+   "status": "pool"
+  },
+  {
+   "slug": "measurement-science",
+   "status": "pool"
+  },
+  {
+   "slug": "medicine",
+   "status": "pool"
+  },
+  {
+   "slug": "medieval-categories",
+   "status": "pool"
+  },
+  {
+   "slug": "medieval-emotions",
+   "status": "pool"
+  },
+  {
+   "slug": "medieval-futcont",
+   "status": "pool"
+  },
+  {
+   "slug": "medieval-haecceity",
+   "status": "pool"
+  },
+  {
+   "slug": "medieval-literary",
+   "status": "pool"
+  },
+  {
+   "slug": "medieval-philosophy",
+   "status": "pool"
+  },
+  {
+   "slug": "medieval-political",
+   "status": "pool"
+  },
+  {
+   "slug": "medieval-syllogism",
+   "status": "pool"
+  },
+  {
+   "slug": "medieval-terms",
+   "status": "pool"
+  },
+  {
+   "slug": "meinong",
+   "status": "pool"
+  },
+  {
+   "slug": "meister-eckhart",
+   "status": "pool"
+  },
+  {
+   "slug": "memory",
+   "status": "pool"
+  },
+  {
+   "slug": "memory-episprob",
+   "status": "pool"
+  },
+  {
+   "slug": "mencius",
+   "status": "pool"
+  },
+  {
+   "slug": "mendelssohn",
+   "status": "pool"
+  },
+  {
+   "slug": "mental-causation",
+   "status": "pool"
+  },
+  {
+   "slug": "mental-disorder",
+   "status": "pool"
+  },
+  {
+   "slug": "mental-imagery",
+   "status": "pool"
+  },
+  {
+   "slug": "mental-representation",
+   "status": "pool"
+  },
+  {
+   "slug": "mereology",
+   "status": "pool"
+  },
+  {
+   "slug": "mereology-medieval",
+   "status": "pool"
+  },
+  {
+   "slug": "meritocracy",
+   "status": "pool"
+  },
+  {
+   "slug": "merleau-ponty",
+   "status": "pool"
+  },
+  {
+   "slug": "mersenne",
+   "status": "stale",
+   "why": "u segment hash mismatch at 109105"
+  },
+  {
+   "slug": "metaepistemology",
+   "status": "pool"
+  },
+  {
+   "slug": "metaethics",
+   "status": "pool"
+  },
+  {
+   "slug": "metaphor",
+   "status": "pool"
+  },
+  {
+   "slug": "metaphysical-explanation",
+   "status": "pool"
+  },
+  {
+   "slug": "metaphysics",
+   "status": "pool"
+  },
+  {
+   "slug": "metaphysics-massexpress",
+   "status": "gap",
+   "why": "unaligned text units"
+  },
+  {
+   "slug": "methodological-individualism",
+   "status": "pool"
+  },
+  {
+   "slug": "michel-henry",
+   "status": "pool"
+  },
+  {
+   "slug": "microbiology",
+   "status": "pool"
+  },
+  {
+   "slug": "mill",
+   "status": "pool"
+  },
+  {
+   "slug": "mill-moral-political",
+   "status": "pool"
+  },
+  {
+   "slug": "mind-identity",
+   "status": "pool"
+  },
+  {
+   "slug": "mind-indian-buddhism",
+   "status": "pool"
+  },
+  {
+   "slug": "miracles",
+   "status": "pool"
+  },
+  {
+   "slug": "modality-epistemology",
+   "status": "pool"
+  },
+  {
+   "slug": "modality-medieval",
+   "status": "pool"
+  },
+  {
+   "slug": "modality-varieties",
+   "status": "gap",
+   "why": "pool applied but not byte-equal"
+  },
+  {
+   "slug": "model-organisms",
+   "status": "pool"
+  },
+  {
+   "slug": "model-theory",
+   "status": "pool"
+  },
+  {
+   "slug": "models-science",
+   "status": "pool"
+  },
+  {
+   "slug": "modeltheory-fo",
+   "status": "pool"
+  },
+  {
+   "slug": "modesty-humility",
+   "status": "pool"
+  },
+  {
+   "slug": "modularity-mind",
+   "status": "pool"
+  },
+  {
+   "slug": "mohism",
+   "status": "pool"
+  },
+  {
+   "slug": "mohist-canons",
+   "status": "pool"
+  },
+  {
+   "slug": "molecular-biology",
+   "status": "pool"
+  },
+  {
+   "slug": "molecular-genetics",
+   "status": "pool"
+  },
+  {
+   "slug": "molyneux-problem",
+   "status": "pool"
+  },
+  {
+   "slug": "money-finance",
+   "status": "pool"
+  },
+  {
+   "slug": "monism",
+   "status": "pool"
+  },
+  {
+   "slug": "monotheism",
+   "status": "pool"
+  },
+  {
+   "slug": "montague-semantics",
+   "status": "pool"
+  },
+  {
+   "slug": "montaigne",
+   "status": "pool"
+  },
+  {
+   "slug": "montesquieu",
+   "status": "pool"
+  },
+  {
+   "slug": "montessori-maria",
+   "status": "pool"
+  },
+  {
+   "slug": "moore",
+   "status": "pool"
+  },
+  {
+   "slug": "moore-moral",
+   "status": "pool"
+  },
+  {
+   "slug": "moral-animal",
+   "status": "pool"
+  },
+  {
+   "slug": "moral-anti-realism",
+   "status": "pool"
+  },
+  {
+   "slug": "moral-arguments-god",
+   "status": "pool"
+  },
+  {
+   "slug": "moral-character",
+   "status": "pool"
+  },
+  {
+   "slug": "moral-character-empirical",
+   "status": "pool"
+  },
+  {
+   "slug": "moral-cognitivism",
+   "status": "pool"
+  },
+  {
+   "slug": "moral-conventional",
+   "status": "pool"
+  },
+  {
+   "slug": "moral-decision-uncertainty",
+   "status": "pool"
+  },
+  {
+   "slug": "moral-demands-permissions",
+   "status": "pool"
+  },
+  {
+   "slug": "moral-dilemmas",
+   "status": "pool"
+  },
+  {
+   "slug": "moral-epistemology",
+   "status": "pool"
+  },
+  {
+   "slug": "moral-epistemology-a-priori",
+   "status": "pool"
+  },
+  {
+   "slug": "moral-learning",
+   "status": "pool"
+  },
+  {
+   "slug": "moral-luck",
+   "status": "pool"
+  },
+  {
+   "slug": "moral-motivation",
+   "status": "pool"
+  },
+  {
+   "slug": "moral-non-naturalism",
+   "status": "pool"
+  },
+  {
+   "slug": "moral-particularism",
+   "status": "pool"
+  },
+  {
+   "slug": "moral-particularism-generalism",
+   "status": "pool"
+  },
+  {
+   "slug": "moral-phenomenology",
+   "status": "pool"
+  },
+  {
+   "slug": "moral-psych-emp",
+   "status": "pool"
+  },
+  {
+   "slug": "moral-realism",
+   "status": "pool"
+  },
+  {
+   "slug": "moral-relativism",
+   "status": "pool"
+  },
+  {
+   "slug": "moral-responsibility",
+   "status": "pool"
+  },
+  {
+   "slug": "moral-responsibility-empirical",
+   "status": "pool"
+  },
+  {
+   "slug": "moral-responsibility-epistemic",
+   "status": "pool"
+  },
+  {
+   "slug": "moral-sentimentalism",
+   "status": "pool"
+  },
+  {
+   "slug": "moral-theory",
+   "status": "pool"
+  },
+  {
+   "slug": "morality-biology",
+   "status": "pool"
+  },
+  {
+   "slug": "morality-definition",
+   "status": "pool"
+  },
+  {
+   "slug": "mulla-sadra",
+   "status": "pool"
+  },
+  {
+   "slug": "multiculturalism",
+   "status": "pool"
+  },
+  {
+   "slug": "multiple-realizability",
+   "status": "pool"
+  },
+  {
+   "slug": "murdoch",
+   "status": "pool"
+  },
+  {
+   "slug": "music",
+   "status": "pool"
+  },
+  {
+   "slug": "mysticism",
+   "status": "pool"
+  },
+  {
+   "slug": "nagarjuna",
+   "status": "pool"
+  },
+  {
+   "slug": "names",
+   "status": "pool"
+  },
+  {
+   "slug": "nationalism",
+   "status": "pool"
+  },
+  {
+   "slug": "natorp",
+   "status": "pool"
+  },
+  {
+   "slug": "natphil-ren",
+   "status": "pool"
+  },
+  {
+   "slug": "natural-deduction",
+   "status": "pool"
+  },
+  {
+   "slug": "natural-kinds",
+   "status": "pool"
+  },
+  {
+   "slug": "natural-language-ontology",
+   "status": "pool"
+  },
+  {
+   "slug": "natural-law-ethics",
+   "status": "pool"
+  },
+  {
+   "slug": "natural-law-theories",
+   "status": "pool"
+  },
+  {
+   "slug": "natural-properties",
+   "status": "pool"
+  },
+  {
+   "slug": "natural-selection",
+   "status": "pool"
+  },
+  {
+   "slug": "natural-theology",
+   "status": "pool"
+  },
+  {
+   "slug": "naturalism",
+   "status": "pool"
+  },
+  {
+   "slug": "naturalism-india",
+   "status": "pool"
+  },
+  {
+   "slug": "naturalism-mathematics",
+   "status": "pool"
+  },
+  {
+   "slug": "naturalism-moral",
+   "status": "pool"
+  },
+  {
+   "slug": "necessary-sufficient",
+   "status": "pool"
+  },
+  {
+   "slug": "needs",
+   "status": "pool"
+  },
+  {
+   "slug": "negation",
+   "status": "pool"
+  },
+  {
+   "slug": "negritude",
+   "status": "pool"
+  },
+  {
+   "slug": "neo-daoism",
+   "status": "pool"
+  },
+  {
+   "slug": "neo-kantianism",
+   "status": "pool"
+  },
+  {
+   "slug": "neoliberalism",
+   "status": "pool"
+  },
+  {
+   "slug": "neoplatonism",
+   "status": "pool"
+  },
+  {
+   "slug": "neurath",
+   "status": "pool"
+  },
+  {
+   "slug": "neuroethics",
+   "status": "stale",
+   "why": "r segment hash mismatch at 149514"
+  },
+  {
+   "slug": "neuroscience",
+   "status": "pool"
+  },
+  {
+   "slug": "neutral-monism",
+   "status": "pool"
+  },
+  {
+   "slug": "newton",
+   "status": "pool"
+  },
+  {
+   "slug": "newton-philosophy",
+   "status": "pool"
+  },
+  {
+   "slug": "newton-principia",
+   "status": "pool"
+  },
+  {
+   "slug": "newton-stm",
+   "status": "pool"
+  },
+  {
+   "slug": "nicolai-hartmann",
+   "status": "pool"
+  },
+  {
+   "slug": "nicole-oresme",
+   "status": "pool"
+  },
+  {
+   "slug": "nietzsche",
+   "status": "pool"
+  },
+  {
+   "slug": "nietzsche-aesthetics",
+   "status": "pool"
+  },
+  {
+   "slug": "nietzsche-life-works",
+   "status": "pool"
+  },
+  {
+   "slug": "nietzsche-moral-political",
+   "status": "pool"
+  },
+  {
+   "slug": "nishida-kitaro",
+   "status": "pool"
+  },
+  {
+   "slug": "nominalism-mathematics",
+   "status": "pool"
+  },
+  {
+   "slug": "nominalism-metaphysics",
+   "status": "pool"
+  },
+  {
+   "slug": "nonexistent-objects",
+   "status": "pool"
+  },
+  {
+   "slug": "nonidentity-problem",
+   "status": "pool"
+  },
+  {
+   "slug": "nonwellfounded-set-theory",
+   "status": "pool"
+  },
+  {
+   "slug": "normativity-metaethics",
+   "status": "pool"
+  },
+  {
+   "slug": "nothingness",
+   "status": "pool"
+  },
+  {
+   "slug": "novalis",
+   "status": "pool"
+  },
+  {
+   "slug": "nozick-political",
+   "status": "pool"
+  },
+  {
+   "slug": "numenius",
+   "status": "pool"
+  },
+  {
+   "slug": "oakeshott",
+   "status": "gap",
+   "why": "unaligned text units"
+  },
+  {
+   "slug": "object",
+   "status": "pool"
+  },
+  {
+   "slug": "obligationes",
+   "status": "pool"
+  },
+  {
+   "slug": "occasionalism",
+   "status": "pool"
+  },
+  {
+   "slug": "ockham",
+   "status": "pool"
+  },
+  {
+   "slug": "olivi",
+   "status": "pool"
+  },
+  {
+   "slug": "olympiodorus",
+   "status": "pool"
+  },
+  {
+   "slug": "omnipotence",
+   "status": "pool"
+  },
+  {
+   "slug": "omnipresence",
+   "status": "pool"
+  },
+  {
+   "slug": "omniscience",
+   "status": "pool"
+  },
+  {
+   "slug": "ontological-arguments",
+   "status": "pool"
+  },
+  {
+   "slug": "ontological-commitment",
+   "status": "pool"
+  },
+  {
+   "slug": "ontology-is",
+   "status": "pool"
+  },
+  {
+   "slug": "operationalism",
+   "status": "pool"
+  },
+  {
+   "slug": "ordinary-objects",
+   "status": "pool"
+  },
+  {
+   "slug": "organ-donation",
+   "status": "stale",
+   "why": "m segment hash mismatch at 97137"
+  },
+  {
+   "slug": "organs-sale",
+   "status": "stale",
+   "why": "u segment hash mismatch at 87796"
+  },
+  {
+   "slug": "origen",
+   "status": "pool"
+  },
+  {
+   "slug": "origin-descent",
+   "status": "pool"
+  },
+  {
+   "slug": "original-position",
+   "status": "pool"
+  },
+  {
+   "slug": "other-minds",
+   "status": "pool"
+  },
+  {
+   "slug": "pacifism",
+   "status": "pool"
+  },
+  {
+   "slug": "pain",
+   "status": "pool"
+  },
+  {
+   "slug": "paine",
+   "status": "pool"
+  },
+  {
+   "slug": "panentheism",
+   "status": "pool"
+  },
+  {
+   "slug": "panpsychism",
+   "status": "pool"
+  },
+  {
+   "slug": "pantheism",
+   "status": "pool"
+  },
+  {
+   "slug": "paradox-of-tragedy",
+   "status": "pool"
+  },
+  {
+   "slug": "paradox-simpson",
+   "status": "pool"
+  },
+  {
+   "slug": "paradox-skolem",
+   "status": "pool"
+  },
+  {
+   "slug": "paradox-stpetersburg",
+   "status": "pool"
+  },
+  {
+   "slug": "paradox-suspense",
+   "status": "pool"
+  },
+  {
+   "slug": "paradox-zeno",
+   "status": "pool"
+  },
+  {
+   "slug": "paradoxes-contemporary-logic",
+   "status": "pool"
+  },
+  {
+   "slug": "parenthood",
+   "status": "pool"
+  },
+  {
+   "slug": "parmenides",
+   "status": "pool"
+  },
+  {
+   "slug": "pascal",
+   "status": "pool"
+  },
+  {
+   "slug": "pascal-wager",
+   "status": "pool"
+  },
+  {
+   "slug": "paternalism",
+   "status": "pool"
+  },
+  {
+   "slug": "patriotism",
+   "status": "pool"
+  },
+  {
+   "slug": "patrizi",
+   "status": "pool"
+  },
+  {
+   "slug": "paul-venice",
+   "status": "pool"
+  },
+  {
+   "slug": "peirce",
+   "status": "pool"
+  },
+  {
+   "slug": "peirce-benjamin",
+   "status": "pool"
+  },
+  {
+   "slug": "peirce-logic",
+   "status": "pool"
+  },
+  {
+   "slug": "peirce-semiotics",
+   "status": "pool"
+  },
+  {
+   "slug": "penbygull",
+   "status": "pool"
+  },
+  {
+   "slug": "perception-auditory",
+   "status": "pool"
+  },
+  {
+   "slug": "perception-contents",
+   "status": "pool"
+  },
+  {
+   "slug": "perception-disjunctive",
+   "status": "pool"
+  },
+  {
+   "slug": "perception-episprob",
+   "status": "pool"
+  },
+  {
+   "slug": "perception-india",
+   "status": "pool"
+  },
+  {
+   "slug": "perception-justification",
+   "status": "pool"
+  },
+  {
+   "slug": "perception-problem",
+   "status": "pool"
+  },
+  {
+   "slug": "perceptual-learning",
+   "status": "pool"
+  },
+  {
+   "slug": "perfect-goodness",
+   "status": "pool"
+  },
+  {
+   "slug": "perfectionism-moral",
+   "status": "pool"
+  },
+  {
+   "slug": "personal-autonomy",
+   "status": "pool"
+  },
+  {
+   "slug": "personal-relationship-goods",
+   "status": "pool"
+  },
+  {
+   "slug": "personalism",
+   "status": "pool"
+  },
+  {
+   "slug": "personhood-india",
+   "status": "pool"
+  },
+  {
+   "slug": "persons-means",
+   "status": "pool"
+  },
+  {
+   "slug": "peter-damian",
+   "status": "pool"
+  },
+  {
+   "slug": "peter-spain",
+   "status": "pool"
+  },
+  {
+   "slug": "petitionary-prayer",
+   "status": "pool"
+  },
+  {
+   "slug": "phenomenal-intentionality",
+   "status": "pool"
+  },
+  {
+   "slug": "phenomenology",
+   "status": "pool"
+  },
+  {
+   "slug": "phenomenology-mg",
+   "status": "pool"
+  },
+  {
+   "slug": "phenomenology-religion",
+   "status": "pool"
+  },
+  {
+   "slug": "phil-bio-latin-america",
+   "status": "pool"
+  },
+  {
+   "slug": "phil-multimodallogic",
+   "status": "pool"
+  },
+  {
+   "slug": "phil-science-latin-america",
+   "status": "pool"
+  },
+  {
+   "slug": "philanthropy",
+   "status": "pool"
+  },
+  {
+   "slug": "philip-chancellor",
+   "status": "pool"
+  },
+  {
+   "slug": "philippa-foot",
+   "status": "pool"
+  },
+  {
+   "slug": "philo",
+   "status": "pool"
+  },
+  {
+   "slug": "philo-larissa",
+   "status": "pool"
+  },
+  {
+   "slug": "philodemus",
+   "status": "pool"
+  },
+  {
+   "slug": "philolaus",
+   "status": "pool"
+  },
+  {
+   "slug": "philoponus",
+   "status": "pool"
+  },
+  {
+   "slug": "philosophy-chile",
+   "status": "pool"
+  },
+  {
+   "slug": "philosophy-mathematics",
+   "status": "pool"
+  },
+  {
+   "slug": "philosophy-mexico",
+   "status": "stale",
+   "why": "u segment hash mismatch at 136424"
+  },
+  {
+   "slug": "philosophy-religion",
+   "status": "pool"
+  },
+  {
+   "slug": "phylogenetic-inference",
+   "status": "gap",
+   "why": "unaligned text units"
+  },
+  {
+   "slug": "physicalism",
+   "status": "pool"
+  },
+  {
+   "slug": "physics-Rpcc",
+   "status": "pool"
+  },
+  {
+   "slug": "physics-experiment",
+   "status": "pool"
+  },
+  {
+   "slug": "physics-holism",
+   "status": "pool"
+  },
+  {
+   "slug": "physics-interrelate",
+   "status": "pool"
+  },
+  {
+   "slug": "physics-structuralism",
+   "status": "pool"
+  },
+  {
+   "slug": "pico-della-mirandola",
+   "status": "pool"
+  },
+  {
+   "slug": "plato",
+   "status": "pool"
+  },
+  {
+   "slug": "plato-aesthetics",
+   "status": "pool"
+  },
+  {
+   "slug": "plato-cratylus",
+   "status": "pool"
+  },
+  {
+   "slug": "plato-ethics",
+   "status": "pool"
+  },
+  {
+   "slug": "plato-ethics-politics",
+   "status": "pool"
+  },
+  {
+   "slug": "plato-ethics-shorter",
+   "status": "pool"
+  },
+  {
+   "slug": "plato-friendship",
+   "status": "pool"
+  },
+  {
+   "slug": "plato-laws",
+   "status": "pool"
+  },
+  {
+   "slug": "plato-metaphysics",
+   "status": "pool"
+  },
+  {
+   "slug": "plato-myths",
+   "status": "pool"
+  },
+  {
+   "slug": "plato-parmenides",
+   "status": "pool"
+  },
+  {
+   "slug": "plato-rhetoric",
+   "status": "pool"
+  },
+  {
+   "slug": "plato-sophstate",
+   "status": "stale",
+   "why": "u segment hash mismatch at 128604"
+  },
+  {
+   "slug": "plato-theaetetus",
+   "status": "pool"
+  },
+  {
+   "slug": "plato-timaeus",
+   "status": "pool"
+  },
+  {
+   "slug": "platonism",
+   "status": "pool"
+  },
+  {
+   "slug": "platonism-mathematics",
+   "status": "pool"
+  },
+  {
+   "slug": "pleasure",
+   "status": "pool"
+  },
+  {
+   "slug": "plotinus",
+   "status": "pool"
+  },
+  {
+   "slug": "plural-quant",
+   "status": "pool"
+  },
+  {
+   "slug": "plutarch",
+   "status": "pool"
+  },
+  {
+   "slug": "pm-notation",
+   "status": "pool"
+  },
+  {
+   "slug": "poincare",
+   "status": "pool"
+  },
+  {
+   "slug": "political-obligation",
+   "status": "pool"
+  },
+  {
+   "slug": "political-representation",
+   "status": "pool"
+  },
+  {
+   "slug": "polqar",
+   "status": "pool"
+  },
+  {
+   "slug": "pomponazzi",
+   "status": "pool"
+  },
+  {
+   "slug": "popper",
+   "status": "pool"
+  },
+  {
+   "slug": "population-genetics",
+   "status": "pool"
+  },
+  {
+   "slug": "pornography-censorship",
+   "status": "pool"
+  },
+  {
+   "slug": "porphyry",
+   "status": "pool"
+  },
+  {
+   "slug": "port-royal-logic",
+   "status": "pool"
+  },
+  {
+   "slug": "possibilism-actualism",
+   "status": "stale",
+   "why": "u segment hash mismatch at 197735"
+  },
+  {
+   "slug": "possible-objects",
+   "status": "pool"
+  },
+  {
+   "slug": "possible-worlds",
+   "status": "pool"
+  },
+  {
+   "slug": "postmodernism",
+   "status": "gap",
+   "why": "pool applied but not byte-equal"
+  },
+  {
+   "slug": "practical-reason",
+   "status": "pool"
+  },
+  {
+   "slug": "practical-reason-action",
+   "status": "pool"
+  },
+  {
+   "slug": "practical-reason-med",
+   "status": "pool"
+  },
+  {
+   "slug": "pragmatic-belief-god",
+   "status": "pool"
+  },
+  {
+   "slug": "pragmatics",
+   "status": "pool"
+  },
+  {
+   "slug": "pragmatism",
+   "status": "pool"
+  },
+  {
+   "slug": "prediction-accommodation",
+   "status": "pool"
+  },
+  {
+   "slug": "preferences",
+   "status": "pool"
+  },
+  {
+   "slug": "presentism",
+   "status": "pool"
+  },
+  {
+   "slug": "presocratics",
+   "status": "pool"
+  },
+  {
+   "slug": "presupposition",
+   "status": "pool"
+  },
+  {
+   "slug": "price",
+   "status": "pool"
+  },
+  {
+   "slug": "prichard",
+   "status": "pool"
+  },
+  {
+   "slug": "principia-mathematica",
+   "status": "pool"
+  },
+  {
+   "slug": "principle-beneficence",
+   "status": "pool"
+  },
+  {
+   "slug": "prior",
+   "status": "pool"
+  },
+  {
+   "slug": "prioritarianism",
+   "status": "pool"
+  },
+  {
+   "slug": "prisoner-dilemma",
+   "status": "pool"
+  },
+  {
+   "slug": "privacy",
+   "status": "gap",
+   "why": "unaligned text units"
+  },
+  {
+   "slug": "privacy-health",
+   "status": "pool"
+  },
+  {
+   "slug": "private-language",
+   "status": "pool"
+  },
+  {
+   "slug": "probability-interpret",
+   "status": "pool"
+  },
+  {
+   "slug": "probability-medieval-renaissance",
+   "status": "pool"
+  },
+  {
+   "slug": "problem-of-many",
+   "status": "pool"
+  },
+  {
+   "slug": "process-philosophy",
+   "status": "pool"
+  },
+  {
+   "slug": "process-theism",
+   "status": "pool"
+  },
+  {
+   "slug": "proclus",
+   "status": "pool"
+  },
+  {
+   "slug": "progress",
+   "status": "gap",
+   "why": "unaligned text units"
+  },
+  {
+   "slug": "promises",
+   "status": "pool"
+  },
+  {
+   "slug": "proof-theoretic-semantics",
+   "status": "pool"
+  },
+  {
+   "slug": "proof-theory",
+   "status": "pool"
+  },
+  {
+   "slug": "proof-theory-development",
+   "status": "pool"
+  },
+  {
+   "slug": "prop-attitude-reports",
+   "status": "pool"
+  },
+  {
+   "slug": "properties",
+   "status": "pool"
+  },
+  {
+   "slug": "properties-emergent",
+   "status": "pool"
+  },
+  {
+   "slug": "property",
+   "status": "pool"
+  },
+  {
+   "slug": "prophecy",
+   "status": "pool"
+  },
+  {
+   "slug": "propositional-function",
+   "status": "gap",
+   "why": "unaligned text units"
+  },
+  {
+   "slug": "propositions",
+   "status": "pool"
+  },
+  {
+   "slug": "propositions-singular",
+   "status": "pool"
+  },
+  {
+   "slug": "propositions-structured",
+   "status": "pool"
+  },
+  {
+   "slug": "protagoras",
+   "status": "pool"
+  },
+  {
+   "slug": "providence-divine",
+   "status": "pool"
+  },
+  {
+   "slug": "pseudo-dionysius-areopagite",
+   "status": "pool"
+  },
+  {
+   "slug": "pseudo-science",
+   "status": "pool"
+  },
+  {
+   "slug": "psychiatry",
+   "status": "pool"
+  },
+  {
+   "slug": "psychologism",
+   "status": "pool"
+  },
+  {
+   "slug": "psychology-normative-cognition",
+   "status": "pool"
+  },
+  {
+   "slug": "psychotherapy",
+   "status": "pool"
+  },
+  {
+   "slug": "public-goods",
+   "status": "pool"
+  },
+  {
+   "slug": "public-reason",
+   "status": "pool"
+  },
+  {
+   "slug": "publichealth-ethics",
+   "status": "stale",
+   "why": "u segment hash mismatch at 263282"
+  },
+  {
+   "slug": "publicity",
+   "status": "pool"
+  },
+  {
+   "slug": "pufendorf",
+   "status": "gap",
+   "why": "unaligned text units"
+  },
+  {
+   "slug": "pyrrho",
+   "status": "pool"
+  },
+  {
+   "slug": "pythagoras",
+   "status": "pool"
+  },
+  {
+   "slug": "pythagoreanism",
+   "status": "pool"
+  },
+  {
+   "slug": "qing-philosophy",
+   "status": "pool"
+  },
+  {
+   "slug": "qm",
+   "status": "pool"
+  },
+  {
+   "slug": "qm-bohm",
+   "status": "pool"
+  },
+  {
+   "slug": "qm-collapse",
+   "status": "pool"
+  },
+  {
+   "slug": "qm-consistent-histories",
+   "status": "pool"
+  },
+  {
+   "slug": "qm-copenhagen",
+   "status": "pool"
+  },
+  {
+   "slug": "qm-decoherence",
+   "status": "pool"
+  },
+  {
+   "slug": "qm-everett",
+   "status": "pool"
+  },
+  {
+   "slug": "qm-manyworlds",
+   "status": "pool"
+  },
+  {
+   "slug": "qm-modal",
+   "status": "pool"
+  },
+  {
+   "slug": "qm-relational",
+   "status": "pool"
+  },
+  {
+   "slug": "qm-retrocausality",
+   "status": "pool"
+  },
+  {
+   "slug": "qt-consciousness",
+   "status": "pool"
+  },
+  {
+   "slug": "qt-entangle",
+   "status": "pool"
+  },
+  {
+   "slug": "qt-epr",
+   "status": "pool"
+  },
+  {
+   "slug": "qt-idind",
+   "status": "pool"
+  },
+  {
+   "slug": "qt-issues",
+   "status": "pool"
+  },
+  {
+   "slug": "qt-nvd",
+   "status": "pool"
+  },
+  {
+   "slug": "qt-quantcomp",
+   "status": "pool"
+  },
+  {
+   "slug": "qt-quantlog",
+   "status": "pool"
+  },
+  {
+   "slug": "qt-uncertainty",
+   "status": "pool"
+  },
+  {
+   "slug": "qualia",
+   "status": "pool"
+  },
+  {
+   "slug": "qualia-inverted",
+   "status": "pool"
+  },
+  {
+   "slug": "qualia-knowledge",
+   "status": "pool"
+  },
+  {
+   "slug": "qualities-prim-sec",
+   "status": "pool"
+  },
+  {
+   "slug": "quantification",
+   "status": "pool"
+  },
+  {
+   "slug": "quantum-bayesian",
+   "status": "pool"
+  },
+  {
+   "slug": "quantum-field-theory",
+   "status": "pool"
+  },
+  {
+   "slug": "quantum-gravity",
+   "status": "pool"
+  },
+  {
+   "slug": "questions",
+   "status": "pool"
+  },
+  {
+   "slug": "quine",
+   "status": "pool"
+  },
+  {
+   "slug": "quine-nf",
+   "status": "pool"
+  },
+  {
+   "slug": "quotation",
+   "status": "pool"
+  },
+  {
+   "slug": "race",
+   "status": "pool"
+  },
+  {
+   "slug": "radulphus-brito",
+   "status": "pool"
+  },
+  {
+   "slug": "ramsey",
+   "status": "pool"
+  },
+  {
+   "slug": "ramsey-economics",
+   "status": "pool"
+  },
+  {
+   "slug": "ramus",
+   "status": "pool"
+  },
+  {
+   "slug": "rationalism-early-modern",
+   "status": "pool"
+  },
+  {
+   "slug": "rationalism-empiricism",
+   "status": "pool"
+  },
+  {
+   "slug": "rationality-historicist",
+   "status": "stale",
+   "why": "m segment hash mismatch at 135563"
+  },
+  {
+   "slug": "rationality-instrumental",
+   "status": "pool"
+  },
+  {
+   "slug": "rationality-normative-nonutility",
+   "status": "pool"
+  },
+  {
+   "slug": "rationality-normative-utility",
+   "status": "pool"
+  },
+  {
+   "slug": "rationality-structural",
+   "status": "pool"
+  },
+  {
+   "slug": "ratnakirti",
+   "status": "pool"
+  },
+  {
+   "slug": "rawls",
+   "status": "pool"
+  },
+  {
+   "slug": "real-essence",
+   "status": "pool"
+  },
+  {
+   "slug": "realism",
+   "status": "pool"
+  },
+  {
+   "slug": "realism-about-metaphysics",
+   "status": "pool"
+  },
+  {
+   "slug": "realism-intl-relations",
+   "status": "pool"
+  },
+  {
+   "slug": "realism-sem-challenge",
+   "status": "pool"
+  },
+  {
+   "slug": "realism-theory-change",
+   "status": "stale",
+   "why": "r segment hash mismatch at 124273"
+  },
+  {
+   "slug": "reasoning-analogy",
+   "status": "pool"
+  },
+  {
+   "slug": "reasoning-automated",
+   "status": "pool"
+  },
+  {
+   "slug": "reasoning-defeasible",
+   "status": "pool"
+  },
+  {
+   "slug": "reasoning-moral",
+   "status": "pool"
+  },
+  {
+   "slug": "reasons-agent",
+   "status": "pool"
+  },
+  {
+   "slug": "reasons-internal-external",
+   "status": "pool"
+  },
+  {
+   "slug": "reasons-just-vs-expl",
+   "status": "pool"
+  },
+  {
+   "slug": "recognition",
+   "status": "pool"
+  },
+  {
+   "slug": "reconciliation",
+   "status": "pool"
+  },
+  {
+   "slug": "recursive-functions",
+   "status": "pool"
+  },
+  {
+   "slug": "redistribution",
+   "status": "pool"
+  },
+  {
+   "slug": "reduction-biology",
+   "status": "pool"
+  },
+  {
+   "slug": "reference",
+   "status": "pool"
+  },
+  {
+   "slug": "reflective-equilibrium",
+   "status": "pool"
+  },
+  {
+   "slug": "reichenbach",
+   "status": "pool"
+  },
+  {
+   "slug": "reid",
+   "status": "pool"
+  },
+  {
+   "slug": "reid-ethics",
+   "status": "pool"
+  },
+  {
+   "slug": "reid-memory-identity",
+   "status": "pool"
+  },
+  {
+   "slug": "reinach",
+   "status": "pool"
+  },
+  {
+   "slug": "reism",
+   "status": "pool"
+  },
+  {
+   "slug": "relations",
+   "status": "pool"
+  },
+  {
+   "slug": "relations-medieval",
+   "status": "pool"
+  },
+  {
+   "slug": "relativism",
+   "status": "pool"
+  },
+  {
+   "slug": "reliabilism",
+   "status": "pool"
+  },
+  {
+   "slug": "religion-comparative",
+   "status": "pool"
+  },
+  {
+   "slug": "religion-epistemology",
+   "status": "pool"
+  },
+  {
+   "slug": "religion-evolutionary",
+   "status": "pool"
+  },
+  {
+   "slug": "religion-morality",
+   "status": "pool"
+  },
+  {
+   "slug": "religion-politics",
+   "status": "pool"
+  },
+  {
+   "slug": "religion-science",
+   "status": "pool"
+  },
+  {
+   "slug": "religious-commitment-reason",
+   "status": "pool"
+  },
+  {
+   "slug": "religious-experience",
+   "status": "pool"
+  },
+  {
+   "slug": "religious-language",
+   "status": "pool"
+  },
+  {
+   "slug": "religious-pluralism",
+   "status": "pool"
+  },
+  {
+   "slug": "replication",
+   "status": "pool"
+  },
+  {
+   "slug": "representation-medieval",
+   "status": "pool"
+  },
+  {
+   "slug": "republicanism",
+   "status": "pool"
+  },
+  {
+   "slug": "repugnant-conclusion",
+   "status": "pool"
+  },
+  {
+   "slug": "respect",
+   "status": "pool"
+  },
+  {
+   "slug": "reverse-mathematics",
+   "status": "pool"
+  },
+  {
+   "slug": "revolution",
+   "status": "pool"
+  },
+  {
+   "slug": "richard-price",
+   "status": "pool"
+  },
+  {
+   "slug": "richard-sophister",
+   "status": "pool"
+  },
+  {
+   "slug": "ricoeur",
+   "status": "pool"
+  },
+  {
+   "slug": "rights",
+   "status": "pool"
+  },
+  {
+   "slug": "rights-children",
+   "status": "pool"
+  },
+  {
+   "slug": "rights-group",
+   "status": "pool"
+  },
+  {
+   "slug": "rights-human",
+   "status": "pool"
+  },
+  {
+   "slug": "rigid-designators",
+   "status": "pool"
+  },
+  {
+   "slug": "risk",
+   "status": "pool"
+  },
+  {
+   "slug": "robert-kilwardby",
+   "status": "pool"
+  },
+  {
+   "slug": "roger-bacon",
+   "status": "pool"
+  },
+  {
+   "slug": "rorty",
+   "status": "pool"
+  },
+  {
+   "slug": "rosenstock-huessy",
+   "status": "pool"
+  },
+  {
+   "slug": "rosenzweig",
+   "status": "pool"
+  },
+  {
+   "slug": "rousseau",
+   "status": "pool"
+  },
+  {
+   "slug": "royce",
+   "status": "pool"
+  },
+  {
+   "slug": "rule-following",
+   "status": "stale",
+   "why": "u segment hash mismatch at 125977"
+  },
+  {
+   "slug": "rule-of-law",
+   "status": "pool"
+  },
+  {
+   "slug": "russell",
+   "status": "pool"
+  },
+  {
+   "slug": "russell-moral",
+   "status": "pool"
+  },
+  {
+   "slug": "russell-paradox",
+   "status": "pool"
+  },
+  {
+   "slug": "russellian-monism",
+   "status": "gap",
+   "why": "pool applied but not byte-equal"
+  },
+  {
+   "slug": "ruth-barcan-marcus",
+   "status": "pool"
+  },
+  {
+   "slug": "ryle",
+   "status": "pool"
+  },
+  {
+   "slug": "saadya",
+   "status": "pool"
+  },
+  {
+   "slug": "saantarak-sita",
+   "status": "pool"
+  },
+  {
+   "slug": "sakya-pandita",
+   "status": "pool"
+  },
+  {
+   "slug": "santayana",
+   "status": "pool"
+  },
+  {
+   "slug": "sartre",
+   "status": "pool"
+  },
+  {
+   "slug": "scheler",
+   "status": "pool"
+  },
+  {
+   "slug": "schelling",
+   "status": "pool"
+  },
+  {
+   "slug": "schema",
+   "status": "pool"
+  },
+  {
+   "slug": "schiller",
+   "status": "pool"
+  },
+  {
+   "slug": "schlegel",
+   "status": "pool"
+  },
+  {
+   "slug": "schlegel-aw",
+   "status": "pool"
+  },
+  {
+   "slug": "schleiermacher",
+   "status": "pool"
+  },
+  {
+   "slug": "schlick",
+   "status": "pool"
+  },
+  {
+   "slug": "schmitt",
+   "status": "pool"
+  },
+  {
+   "slug": "scholem",
+   "status": "pool"
+  },
+  {
+   "slug": "scholz",
+   "status": "pool"
+  },
+  {
+   "slug": "school-names",
+   "status": "pool"
+  },
+  {
+   "slug": "school-salamanca",
+   "status": "pool"
+  },
+  {
+   "slug": "schopenhauer",
+   "status": "stale",
+   "why": "r segment hash mismatch at 98789"
+  },
+  {
+   "slug": "schopenhauer-aesthetics",
+   "status": "pool"
+  },
+  {
+   "slug": "schutz",
+   "status": "pool"
+  },
+  {
+   "slug": "science-big-data",
+   "status": "pool"
+  },
+  {
+   "slug": "science-mechanisms",
+   "status": "pool"
+  },
+  {
+   "slug": "science-theory-observation",
+   "status": "pool"
+  },
+  {
+   "slug": "scientific-discovery",
+   "status": "pool"
+  },
+  {
+   "slug": "scientific-explanation-20th",
+   "status": "pool"
+  },
+  {
+   "slug": "scientific-knowledge-social",
+   "status": "pool"
+  },
+  {
+   "slug": "scientific-method",
+   "status": "pool"
+  },
+  {
+   "slug": "scientific-objectivity",
+   "status": "pool"
+  },
+  {
+   "slug": "scientific-pluralism",
+   "status": "pool"
+  },
+  {
+   "slug": "scientific-progress",
+   "status": "pool"
+  },
+  {
+   "slug": "scientific-realism",
+   "status": "pool"
+  },
+  {
+   "slug": "scientific-reduction",
+   "status": "pool"
+  },
+  {
+   "slug": "scientific-representation",
+   "status": "pool"
+  },
+  {
+   "slug": "scientific-reproducibility",
+   "status": "pool"
+  },
+  {
+   "slug": "scientific-revolutions",
+   "status": "pool"
+  },
+  {
+   "slug": "scientific-underdetermination",
+   "status": "pool"
+  },
+  {
+   "slug": "scientific-unity",
+   "status": "pool"
+  },
+  {
+   "slug": "scottish-18th",
+   "status": "pool"
+  },
+  {
+   "slug": "scottish-19th",
+   "status": "pool"
+  },
+  {
+   "slug": "scottus-eriugena",
+   "status": "gap",
+   "why": "unaligned text units"
+  },
+  {
+   "slug": "secession",
+   "status": "pool"
+  },
+  {
+   "slug": "selection-units",
+   "status": "pool"
+  },
+  {
+   "slug": "self-consciousness",
+   "status": "pool"
+  },
+  {
+   "slug": "self-consciousness-phenomenological",
+   "status": "pool"
+  },
+  {
+   "slug": "self-deception",
+   "status": "pool"
+  },
+  {
+   "slug": "self-defense",
+   "status": "pool"
+  },
+  {
+   "slug": "self-knowledge",
+   "status": "pool"
+  },
+  {
+   "slug": "self-knowledge-externalism",
+   "status": "pool"
+  },
+  {
+   "slug": "self-locating-beliefs",
+   "status": "pool"
+  },
+  {
+   "slug": "self-obligations",
+   "status": "pool"
+  },
+  {
+   "slug": "self-reference",
+   "status": "pool"
+  },
+  {
+   "slug": "sellars",
+   "status": "pool"
+  },
+  {
+   "slug": "semiotics-medieval",
+   "status": "pool"
+  },
+  {
+   "slug": "seneca",
+   "status": "pool"
+  },
+  {
+   "slug": "sense-data",
+   "status": "stale",
+   "why": "r segment hash mismatch at 134709"
+  },
+  {
+   "slug": "set-theory",
+   "status": "pool"
+  },
+  {
+   "slug": "set-theory-constructive",
+   "status": "pool"
+  },
+  {
+   "slug": "settheory-alternative",
+   "status": "pool"
+  },
+  {
+   "slug": "settheory-early",
+   "status": "pool"
+  },
+  {
+   "slug": "sex-sexuality",
+   "status": "pool"
+  },
+  {
+   "slug": "sextus-empiricus",
+   "status": "pool"
+  },
+  {
+   "slug": "shaaban-robert-ethics",
+   "status": "pool"
+  },
+  {
+   "slug": "shaftesbury",
+   "status": "pool"
+  },
+  {
+   "slug": "shankara",
+   "status": "pool"
+  },
+  {
+   "slug": "shantideva",
+   "status": "pool"
+  },
+  {
+   "slug": "shared-agency",
+   "status": "gap",
+   "why": "unaligned text units"
+  },
+  {
+   "slug": "sharpe",
+   "status": "pool"
+  },
+  {
+   "slug": "sidgwick",
+   "status": "pool"
+  },
+  {
+   "slug": "sidney-hook",
+   "status": "pool"
+  },
+  {
+   "slug": "sign-language-semantics",
+   "status": "pool"
+  },
+  {
+   "slug": "sikh-philosophy",
+   "status": "pool"
+  },
+  {
+   "slug": "simon-faversham",
+   "status": "pool"
+  },
+  {
+   "slug": "simone-weil",
+   "status": "pool"
+  },
+  {
+   "slug": "simplicity",
+   "status": "pool"
+  },
+  {
+   "slug": "simplicius",
+   "status": "pool"
+  },
+  {
+   "slug": "simulations-science",
+   "status": "pool"
+  },
+  {
+   "slug": "sin-christian",
+   "status": "pool"
+  },
+  {
+   "slug": "singular-terms-medieval",
+   "status": "gap",
+   "why": "unaligned text units"
+  },
+  {
+   "slug": "situations-semantics",
+   "status": "pool"
+  },
+  {
+   "slug": "skeptical-theism",
+   "status": "pool"
+  },
+  {
+   "slug": "skepticism",
+   "status": "pool"
+  },
+  {
+   "slug": "skepticism-ancient",
+   "status": "pool"
+  },
+  {
+   "slug": "skepticism-content-externalism",
+   "status": "pool"
+  },
+  {
+   "slug": "skepticism-latin-america",
+   "status": "pool"
+  },
+  {
+   "slug": "skepticism-medieval",
+   "status": "pool"
+  },
+  {
+   "slug": "skepticism-moral",
+   "status": "pool"
+  },
+  {
+   "slug": "skepticism-moral-responsibility",
+   "status": "pool"
+  },
+  {
+   "slug": "smith-moral-political",
+   "status": "pool"
+  },
+  {
+   "slug": "social-choice",
+   "status": "pool"
+  },
+  {
+   "slug": "social-construction-naturalistic",
+   "status": "pool"
+  },
+  {
+   "slug": "social-institutions",
+   "status": "pool"
+  },
+  {
+   "slug": "social-minimum",
+   "status": "pool"
+  },
+  {
+   "slug": "social-norms",
+   "status": "pool"
+  },
+  {
+   "slug": "social-ontology",
+   "status": "pool"
+  },
+  {
+   "slug": "social-procedures",
+   "status": "pool"
+  },
+  {
+   "slug": "socialism",
+   "status": "pool"
+  },
+  {
+   "slug": "sociobiology",
+   "status": "pool"
+  },
+  {
+   "slug": "socrates",
+   "status": "pool"
+  },
+  {
+   "slug": "solidarity",
+   "status": "pool"
+  },
+  {
+   "slug": "song-ming-confucianism",
+   "status": "pool"
+  },
+  {
+   "slug": "sophie-de-grouchy",
+   "status": "pool"
+  },
+  {
+   "slug": "sophismata",
+   "status": "pool"
+  },
+  {
+   "slug": "sophists",
+   "status": "pool"
+  },
+  {
+   "slug": "sorites-paradox",
+   "status": "pool"
+  },
+  {
+   "slug": "sortals",
+   "status": "pool"
+  },
+  {
+   "slug": "sounds",
+   "status": "pool"
+  },
+  {
+   "slug": "sovereignty",
+   "status": "pool"
+  },
+  {
+   "slug": "spacetime-bebecome",
+   "status": "pool"
+  },
+  {
+   "slug": "spacetime-convensimul",
+   "status": "pool"
+  },
+  {
+   "slug": "spacetime-holearg",
+   "status": "pool"
+  },
+  {
+   "slug": "spacetime-iframes",
+   "status": "pool"
+  },
+  {
+   "slug": "spacetime-singularities",
+   "status": "pool"
+  },
+  {
+   "slug": "spacetime-supertasks",
+   "status": "pool"
+  },
+  {
+   "slug": "spacetime-theories",
+   "status": "pool"
+  },
+  {
+   "slug": "spacetime-theories-classical",
+   "status": "pool"
+  },
+  {
+   "slug": "special-obligations",
+   "status": "pool"
+  },
+  {
+   "slug": "species",
+   "status": "pool"
+  },
+  {
+   "slug": "speech-acts",
+   "status": "pool"
+  },
+  {
+   "slug": "spencer",
+   "status": "pool"
+  },
+  {
+   "slug": "speusippus",
+   "status": "pool"
+  },
+  {
+   "slug": "spinoza",
+   "status": "pool"
+  },
+  {
+   "slug": "spinoza-attributes",
+   "status": "pool"
+  },
+  {
+   "slug": "spinoza-epistemology-mind",
+   "status": "pool"
+  },
+  {
+   "slug": "spinoza-modal",
+   "status": "pool"
+  },
+  {
+   "slug": "spinoza-physics",
+   "status": "pool"
+  },
+  {
+   "slug": "spinoza-political",
+   "status": "pool"
+  },
+  {
+   "slug": "spinoza-psychological",
+   "status": "pool"
+  },
+  {
+   "slug": "sport",
+   "status": "pool"
+  },
+  {
+   "slug": "square",
+   "status": "pool"
+  },
+  {
+   "slug": "srigupta",
+   "status": "pool"
+  },
+  {
+   "slug": "sriharsa",
+   "status": "pool"
+  },
+  {
+   "slug": "states-of-affairs",
+   "status": "pool"
+  },
+  {
+   "slug": "statistics",
+   "status": "pool"
+  },
+  {
+   "slug": "statphys-Boltzmann",
+   "status": "pool"
+  },
+  {
+   "slug": "statphys-statmech",
+   "status": "pool"
+  },
+  {
+   "slug": "stebbing",
+   "status": "pool"
+  },
+  {
+   "slug": "stein",
+   "status": "pool"
+  },
+  {
+   "slug": "stem-cells",
+   "status": "pool"
+  },
+  {
+   "slug": "stevenson",
+   "status": "pool"
+  },
+  {
+   "slug": "stoicism",
+   "status": "pool"
+  },
+  {
+   "slug": "strauss-leo",
+   "status": "pool"
+  },
+  {
+   "slug": "strawson",
+   "status": "pool"
+  },
+  {
+   "slug": "structural-realism",
+   "status": "pool"
+  },
+  {
+   "slug": "structuralism-mathematics",
+   "status": "pool"
+  },
+  {
+   "slug": "structure-scientific-theories",
+   "status": "pool"
+  },
+  {
+   "slug": "stumpf",
+   "status": "pool"
+  },
+  {
+   "slug": "suarez",
+   "status": "pool"
+  },
+  {
+   "slug": "substance",
+   "status": "pool"
+  },
+  {
+   "slug": "sufficient-reason",
+   "status": "pool"
+  },
+  {
+   "slug": "suhrawardi",
+   "status": "pool"
+  },
+  {
+   "slug": "suicide",
+   "status": "gap",
+   "why": "unaligned text units"
+  },
+  {
+   "slug": "supererogation",
+   "status": "pool"
+  },
+  {
+   "slug": "supervenience",
+   "status": "pool"
+  },
+  {
+   "slug": "supervenience-ethics",
+   "status": "pool"
+  },
+  {
+   "slug": "susman-margarete",
+   "status": "pool"
+  },
+  {
+   "slug": "sylvan-routley",
+   "status": "pool"
+  },
+  {
+   "slug": "symmetry-breaking",
+   "status": "pool"
+  },
+  {
+   "slug": "syrianus",
+   "status": "pool"
+  },
+  {
+   "slug": "systems-synthetic-biology",
+   "status": "pool"
+  },
+  {
+   "slug": "tarski",
+   "status": "pool"
+  },
+  {
+   "slug": "tarski-truth",
+   "status": "pool"
+  },
+  {
+   "slug": "taurellus",
+   "status": "pool"
+  },
+  {
+   "slug": "technology",
+   "status": "pool"
+  },
+  {
+   "slug": "teleological-arguments",
+   "status": "pool"
+  },
+  {
+   "slug": "teleology-biology",
+   "status": "pool"
+  },
+  {
+   "slug": "telesio",
+   "status": "pool"
+  },
+  {
+   "slug": "temporal-parts",
+   "status": "pool"
+  },
+  {
+   "slug": "tense-aspect",
+   "status": "pool"
+  },
+  {
+   "slug": "territorial-rights",
+   "status": "pool"
+  },
+  {
+   "slug": "terrorism",
+   "status": "pool"
+  },
+  {
+   "slug": "testimony-episprob",
+   "status": "pool"
+  },
+  {
+   "slug": "theater",
+   "status": "pool"
+  },
+  {
+   "slug": "theodicies",
+   "status": "pool"
+  },
+  {
+   "slug": "theology-aristotle",
+   "status": "pool"
+  },
+  {
+   "slug": "theophrastus",
+   "status": "pool"
+  },
+  {
+   "slug": "theoretical-terms-science",
+   "status": "pool"
+  },
+  {
+   "slug": "theories-biological-development",
+   "status": "pool"
+  },
+  {
+   "slug": "thick-ethical-concepts",
+   "status": "pool"
+  },
+  {
+   "slug": "thomas-kuhn",
+   "status": "pool"
+  },
+  {
+   "slug": "thomas-more",
+   "status": "pool"
+  },
+  {
+   "slug": "thoreau",
+   "status": "pool"
+  },
+  {
+   "slug": "thought-experiment",
+   "status": "pool"
+  },
+  {
+   "slug": "tibbon",
+   "status": "pool"
+  },
+  {
+   "slug": "time",
+   "status": "gap",
+   "why": "unaligned text units"
+  },
+  {
+   "slug": "time-machine",
+   "status": "pool"
+  },
+  {
+   "slug": "time-thermo",
+   "status": "pool"
+  },
+  {
+   "slug": "time-travel",
+   "status": "pool"
+  },
+  {
+   "slug": "time-travel-phys",
+   "status": "pool"
+  },
+  {
+   "slug": "timon-phlius",
+   "status": "pool"
+  },
+  {
+   "slug": "toleration",
+   "status": "pool"
+  },
+  {
+   "slug": "tort-theories",
+   "status": "pool"
+  },
+  {
+   "slug": "torture",
+   "status": "pool"
+  },
+  {
+   "slug": "touch",
+   "status": "pool"
+  },
+  {
+   "slug": "trans",
+   "status": "pool"
+  },
+  {
+   "slug": "transcendental-arguments",
+   "status": "pool"
+  },
+  {
+   "slug": "transcendentalism",
+   "status": "pool"
+  },
+  {
+   "slug": "transcendentals-medieval",
+   "status": "pool"
+  },
+  {
+   "slug": "transformative-experience",
+   "status": "pool"
+  },
+  {
+   "slug": "transmission-justification-warrant",
+   "status": "pool"
+  },
+  {
+   "slug": "trinity",
+   "status": "pool"
+  },
+  {
+   "slug": "tropes",
+   "status": "pool"
+  },
+  {
+   "slug": "trust",
+   "status": "pool"
+  },
+  {
+   "slug": "truth",
+   "status": "pool"
+  },
+  {
+   "slug": "truth-axiomatic",
+   "status": "pool"
+  },
+  {
+   "slug": "truth-coherence",
+   "status": "pool"
+  },
+  {
+   "slug": "truth-correspondence",
+   "status": "gap",
+   "why": "unaligned text units"
+  },
+  {
+   "slug": "truth-deflationary",
+   "status": "pool"
+  },
+  {
+   "slug": "truth-identity",
+   "status": "pool"
+  },
+  {
+   "slug": "truth-pluralist",
+   "status": "pool"
+  },
+  {
+   "slug": "truth-pragmatic",
+   "status": "pool"
+  },
+  {
+   "slug": "truth-primitivist",
+   "status": "pool"
+  },
+  {
+   "slug": "truth-revision",
+   "status": "pool"
+  },
+  {
+   "slug": "truth-values",
+   "status": "pool"
+  },
+  {
+   "slug": "truthlikeness",
+   "status": "pool"
+  },
+  {
+   "slug": "truthmakers",
+   "status": "pool"
+  },
+  {
+   "slug": "tsongkhapa",
+   "status": "pool"
+  },
+  {
+   "slug": "turing",
+   "status": "pool"
+  },
+  {
+   "slug": "turing-machine",
+   "status": "pool"
+  },
+  {
+   "slug": "turing-test",
+   "status": "pool"
+  },
+  {
+   "slug": "twardowski",
+   "status": "pool"
+  },
+  {
+   "slug": "two-dimensional-semantics",
+   "status": "pool"
+  },
+  {
+   "slug": "twotruths-india",
+   "status": "pool"
+  },
+  {
+   "slug": "twotruths-tibet",
+   "status": "pool"
+  },
+  {
+   "slug": "type-theory",
+   "status": "pool"
+  },
+  {
+   "slug": "type-theory-church",
+   "status": "pool"
+  },
+  {
+   "slug": "type-theory-intuitionistic",
+   "status": "pool"
+  },
+  {
+   "slug": "typelogical-grammar",
+   "status": "gap",
+   "why": "unaligned text units"
+  },
+  {
+   "slug": "types-tokens",
+   "status": "pool"
+  },
+  {
+   "slug": "umar-khayyam",
+   "status": "pool"
+  },
+  {
+   "slug": "understanding",
+   "status": "pool"
+  },
+  {
+   "slug": "universals-medieval",
+   "status": "pool"
+  },
+  {
+   "slug": "utilitarianism-history",
+   "status": "pool"
+  },
+  {
+   "slug": "vagueness",
+   "status": "pool"
+  },
+  {
+   "slug": "vaihinger",
+   "status": "pool"
+  },
+  {
+   "slug": "value-incommensurable",
+   "status": "pool"
+  },
+  {
+   "slug": "value-intrinsic-extrinsic",
+   "status": "pool"
+  },
+  {
+   "slug": "value-pluralism",
+   "status": "pool"
+  },
+  {
+   "slug": "value-theory",
+   "status": "pool"
+  },
+  {
+   "slug": "vasubandhu",
+   "status": "pool"
+  },
+  {
+   "slug": "vegetarianism",
+   "status": "pool"
+  },
+  {
+   "slug": "vico",
+   "status": "stale",
+   "why": "r segment hash mismatch at 57644"
+  },
+  {
+   "slug": "vienna-circle",
+   "status": "pool"
+  },
+  {
+   "slug": "vives",
+   "status": "pool"
+  },
+  {
+   "slug": "voltaire",
+   "status": "pool"
+  },
+  {
+   "slug": "voluntarism-theological",
+   "status": "pool"
+  },
+  {
+   "slug": "voting",
+   "status": "pool"
+  },
+  {
+   "slug": "voting-methods",
+   "status": "pool"
+  },
+  {
+   "slug": "walter-chatton",
+   "status": "pool"
+  },
+  {
+   "slug": "wang-yangming",
+   "status": "pool"
+  },
+  {
+   "slug": "war",
+   "status": "pool"
+  },
+  {
+   "slug": "watsuji-tetsuro",
+   "status": "pool"
+  },
+  {
+   "slug": "weakness-will",
+   "status": "pool"
+  },
+  {
+   "slug": "weber",
+   "status": "pool"
+  },
+  {
+   "slug": "weighing-reasons",
+   "status": "pool"
+  },
+  {
+   "slug": "well-being",
+   "status": "pool"
+  },
+  {
+   "slug": "wesley-salmon",
+   "status": "pool"
+  },
+  {
+   "slug": "weyl",
+   "status": "pool"
+  },
+  {
+   "slug": "whewell",
+   "status": "pool"
+  },
+  {
+   "slug": "whitehead",
+   "status": "pool"
+  },
+  {
+   "slug": "wilhelm-humboldt",
+   "status": "gap",
+   "why": "unaligned text units"
+  },
+  {
+   "slug": "wilhelm-windelband",
+   "status": "pool"
+  },
+  {
+   "slug": "wilhelm-wundt",
+   "status": "pool"
+  },
+  {
+   "slug": "william-auvergne",
+   "status": "pool"
+  },
+  {
+   "slug": "william-champeaux",
+   "status": "pool"
+  },
+  {
+   "slug": "william-david-ross",
+   "status": "pool"
+  },
+  {
+   "slug": "william-jevons",
+   "status": "pool"
+  },
+  {
+   "slug": "william-sherwood",
+   "status": "pool"
+  },
+  {
+   "slug": "williams-bernard",
+   "status": "pool"
+  },
+  {
+   "slug": "williams-dc",
+   "status": "pool"
+  },
+  {
+   "slug": "wilson",
+   "status": "pool"
+  },
+  {
+   "slug": "wisdom-analytic",
+   "status": "pool"
+  },
+  {
+   "slug": "wittgenstein",
+   "status": "pool"
+  },
+  {
+   "slug": "wittgenstein-aesthetics",
+   "status": "pool"
+  },
+  {
+   "slug": "wittgenstein-atomism",
+   "status": "pool"
+  },
+  {
+   "slug": "wittgenstein-mathematics",
+   "status": "pool"
+  },
+  {
+   "slug": "wodeham",
+   "status": "pool"
+  },
+  {
+   "slug": "wolff-christian",
+   "status": "pool"
+  },
+  {
+   "slug": "wollstonecraft",
+   "status": "pool"
+  },
+  {
+   "slug": "word-meaning",
+   "status": "pool"
+  },
+  {
+   "slug": "work-labor",
+   "status": "pool"
+  },
+  {
+   "slug": "world-government",
+   "status": "pool"
+  },
+  {
+   "slug": "wright",
+   "status": "pool"
+  },
+  {
+   "slug": "wyclif",
+   "status": "pool"
+  },
+  {
+   "slug": "xenocrates",
+   "status": "pool"
+  },
+  {
+   "slug": "xenophanes",
+   "status": "pool"
+  },
+  {
+   "slug": "xunzi",
+   "status": "pool"
+  },
+  {
+   "slug": "yogacara",
+   "status": "pool"
+  },
+  {
+   "slug": "yorck",
+   "status": "gap",
+   "why": "unaligned text units"
+  },
+  {
+   "slug": "zabarella",
+   "status": "pool"
+  },
+  {
+   "slug": "zeno-elea",
+   "status": "pool"
+  },
+  {
+   "slug": "zermelo-set-theory",
+   "status": "pool"
+  },
+  {
+   "slug": "zhu-xi",
+   "status": "pool"
+  },
+  {
+   "slug": "zhuangzi",
+   "status": "pool"
+  },
+  {
+   "slug": "zombies",
+   "status": "pool"
+  }
+ ]
+}

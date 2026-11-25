@@ -168,6 +168,30 @@ def main(argv=None):
     print('[OK] 差集：变化 %d／新增 %d／移除 %d'
           % (len(delta['changed']), len(delta['added']), len(delta['removed'])))
 
+    # B 族账本刷新（2026-11-25，specs/062 第四十四批教训）：en/ 变了以后，版面账
+    # （copyright/site_year/era）与结构账（rel_items、hids）仍是旧版，B3.2 会把这些
+    # 陈旧字段报成 gap（62 件里 40 件属此）。固定顺序：两账 → B3.1 扫描 → 池重建 → 终判。
+    b3_rebuild = None
+    if '--rebuild-b3' in argv:
+        steps = [
+            ('版面账 page_layout', ['specs/053-en-template-audit/bin/page_layout.py']),
+            ('结构账 article_ledger', ['specs/053-en-template-audit/bin/article_ledger.py']),
+            ('B3.1 往返扫描', ['specs/053-en-template-audit/bin/reassemble.py', '--all',
+                            '--out',
+                            'specs/053-en-template-audit/results/assembly-scan-all.json']),
+            ('B3.2 池重建', ['specs/053-en-template-audit/bin/page_assemble.py',
+                           '--all', '--build']),
+            ('B3.2 终判', ['specs/053-en-template-audit/bin/page_assemble.py', '--all']),
+        ]
+        b3_rebuild = []
+        for name, cmd in steps:
+            t0 = time.time()
+            c, o, e = run_stream(cmd)
+            b3_rebuild.append({'step': name, 'exit': c,
+                               'seconds': round(time.time() - t0, 1)})
+            print('[%s] %s（%.0f 秒）'
+                  % ('OK' if c == 0 else 'FAIL', name, time.time() - t0))
+
     code, out, err = run(['tools/check_en_patches.py', '--strict'])
     patches = last_json(out)
     review = patch_review()
@@ -183,6 +207,7 @@ def main(argv=None):
     report = {'schema': 'sep-cn-phase12/1',
               'generated_at': datetime.now(timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ'),
               'fetch': fetch_result, 'convert_retry': convert_retry,
+              'b3_rebuild': b3_rebuild,
               'delta': {k: v[:200] for k, v in delta.items()},
               'delta_counts': {k: len(v) for k, v in delta.items()},
               'patches': {'summary': patches, 'review': review},

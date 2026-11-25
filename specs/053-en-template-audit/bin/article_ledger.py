@@ -1281,6 +1281,10 @@ def extract(art_inner, md=None):
 def main(argv=None):
     ap = argparse.ArgumentParser()
     ap.add_argument("--check", action="store_true")
+    ap.add_argument("--slugs", nargs="*",
+                    help="增量刷新（与既有账合并；账冻结纪律：只改指定词条）")
+    ap.add_argument("--drop", nargs="*", default=[],
+                    help="增量刷新时删除的条目（en 包已不存在的陈旧 slug）")
     args = ap.parse_args(argv)
     entries = {}
     n_no = 0
@@ -1289,7 +1293,9 @@ def main(argv=None):
     if os.path.exists(bpath):
         base = {r["slug"]: r for r in json.load(
             io.open(bpath, encoding="utf-8"))["entries"] if r.get("slug")}
-    for d in sorted(os.listdir(repo_path("en"))):
+    dirs = args.slugs or sorted(d for d in os.listdir(repo_path("en"))
+                                if os.path.isdir(repo_path("en", d)))
+    for d in dirs:
         p = repo_path("en", d, "index.html")
         if not os.path.exists(p):
             continue
@@ -1309,6 +1315,16 @@ def main(argv=None):
     sys.stderr.write("[ledger] %d 件；缺区段 %d\n" % (len(entries), n_no))
     if args.check:
         return 0
+    if args.slugs:
+        lp = repo_path(*LEDGER_PATH)
+        if os.path.exists(lp):
+            old = json.load(io.open(lp, encoding="utf-8"))["entries"]
+            for s in args.drop:
+                old.pop(s, None)
+            old.update(entries)
+            entries = old
+        sys.stderr.write("[ledger] 增量合并：改 %d、删 %d，总 %d\n"
+                         % (len(dirs), len(args.drop), len(entries)))
     payload = {"schema": "sep-cn-article-ledger/1",
                "generated_by": "specs/053 bin/article_ledger.py",
                "note": "正文段结构补集：只承载结构（标题 id 形态/文献切分/链接目标/图标），禁含散文",

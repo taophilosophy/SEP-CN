@@ -196,8 +196,8 @@
    "headA_id": "cee4c7bb",
    "era": {
     "headrest": "bac9aa7c",
-    "pre": "b44fb504",
-    "postrest": "795ed2b6",
+    "pre": "92aa4de1",
+    "postrest": "adf5305e",
     "headmid": "2999539b"
    },
    "copyright_year": "2025",
@@ -208,7 +208,7 @@
      "email": "eharman@princeton.edu"
     }
    ],
-   "site_year": "2025"
+   "site_year": "2026"
   },
   {
    "slug": "abrabanel",
@@ -4605,8 +4605,8 @@
    "headA_id": "cee4c7bb",
    "era": {
     "headrest": "bac9aa7c",
-    "pre": "b44fb504",
-    "postrest": "795ed2b6",
+    "pre": "92aa4de1",
+    "postrest": "adf5305e",
     "headmid": "2999539b"
    },
    "copyright_year": "2025",
@@ -4627,7 +4627,7 @@
      "email": null
     }
    ],
-   "site_year": "2025"
+   "site_year": "2026"
   },
   {
    "slug": "ayn-rand",
@@ -7920,9 +7920,9 @@
    "modified": "2022-01-13",
    "headA_id": "cee4c7bb",
    "era": {
-    "headrest": "53156a71",
-    "pre": "b44fb504",
-    "postrest": "3b8544a7",
+    "headrest": "bac9aa7c",
+    "pre": "92aa4de1",
+    "postrest": "adf5305e",
     "headmid": "2999539b"
    },
    "copyright_year": "2022",
@@ -7933,7 +7933,7 @@
      "email": "sangle@wesleyan.edu"
     }
    ],
-   "site_year": "2023"
+   "site_year": "2026"
   },
   {
    "slug": "chinese-translate-interpret",
@@ -9739,8 +9739,8 @@
    "headA_id": "cee4c7bb",
    "era": {
     "headrest": "bac9aa7c",
-    "pre": "b44fb504",
-    "postrest": "84735982",
+    "pre": "92aa4de1",
+    "postrest": "adf5305e",
     "headmid": "2999539b"
    },
    "copyright_year": "2024",
@@ -9748,10 +9748,10 @@
     {
      "display": "Alberto Giubilini",
      "url": null,
-     "email": "alberto.giubilini@philosophy.ox.ac.uk"
+     "email": "alberto.giubilini@uehiro.ox.ac.uk"
     }
    ],
-   "site_year": "2024"
+   "site_year": "2026"
   },
   {
    "slug": "conscience-medieval",
@@ -11335,31 +11335,37 @@
    "site_year": "2024"
   },
   {
-   "slug": "croce-aesthetics",
-   "title_meta": "Croce’s Aesthetics",
-   "title_html": "<title>\nCroce’s Aesthetics (Stanford Encyclopedia of Philosophy)\n</title>\n",
+   "slug": "croce",
+   "title_meta": "Benedetto Croce",
+   "title_html": "<title>\nBenedetto Croce (Stanford Encyclopedia of Philosophy)\n</title>\n",
    "meta_authors": [
+    "Bellamy, Richard",
     "Kemp, Gary"
    ],
-   "pub_date": "2008/05/04",
-   "issued": "2008-05-04",
-   "modified": "2021-10-08",
+   "pub_date": "2026/11/23",
+   "issued": "2026-11-23",
+   "modified": "2026-11-23",
    "headA_id": "cee4c7bb",
    "era": {
     "headrest": "bac9aa7c",
-    "pre": "b44fb504",
-    "postrest": "795ed2b6",
+    "pre": "92aa4de1",
+    "postrest": "adf5305e",
     "headmid": "2999539b"
    },
-   "copyright_year": "2021",
+   "copyright_year": "2026",
    "copyright_authors": [
+    {
+     "display": "Richard Bellamy",
+     "url": null,
+     "email": "r.bellamy@ucl.ac.uk"
+    },
     {
      "display": "Gary Kemp",
      "url": "http://www.gla.ac.uk/schools/humanities/staff/garykemp/",
-     "email": "gary.kemp@glasgow.ac.uk"
+     "email": null
     }
    ],
-   "site_year": "2025"
+   "site_year": "2026"
   },
   {
    "slug": "cudworth",
@@ -11452,15 +11458,15 @@
    ],
    "pub_date": "2022/06/02",
    "issued": "2022-06-02",
-   "modified": "2022-06-02",
+   "modified": "2026-11-21",
    "headA_id": "cee4c7bb",
    "era": {
-    "headrest": "53156a71",
-    "pre": "b44fb504",
-    "postrest": "3b8544a7",
+    "headrest": "bac9aa7c",
+    "pre": "92aa4de1",
+    "postrest": "adf5305e",
     "headmid": "2999539b"
    },
-   "copyright_year": "2022",
+   "copyright_year": "2026",
    "copyright_authors": [
     {
      "display": "Daniel Kelly",
@@ -11473,7 +11479,7 @@
      "email": "andreas.deblock@kuleuven.be"
     }
    ],
-   "site_year": "2023"
+   "site_year": "2026"
   },
   {
    "slug": "curry-paradox",
@@ -12258,7 +12264,7 @@
    ],
    "pub_date": "2009/09/16",
    "issued": "2009-09-16",
-   "modified": "2022-05-04",
+   "modified": "2026-11-21",
    "headA_id": "cee4c7bb",
    "era": {
     "headrest": "bac9aa7c",
@@ -12266,7 +12272,7 @@
     "postrest": "adf5305e",
     "headmid": "2999539b"
    },
-   "copyright_year": "2022",
+   "copyright_year": "2026",
    "copyright_authors": [
     {
      "display": "Lisa Bortolotti",
@@ -13654,8 +13660,8 @@
    "headA_id": "cee4c7bb",
    "era": {
     "headrest": "bac9aa7c",
-    "pre": "b44fb504",
-    "postrest": "561ebc27",
+    "pre": "92aa4de1",
+    "postrest": "adf5305e",
     "headmid": "2999539b"
    },
    "copyright_year": "2026",
@@ -14763,32 +14769,38 @@
    "title_html": "<title>\nEmbodied Cognition (Stanford Encyclopedia of Philosophy)\n</title>\n",
    "meta_authors": [
     "Shapiro, Lawrence",
-    "Spaulding, Shannon"
+    "Spaulding, Shannon",
+    "Dove, Guy"
    ],
    "pub_date": "2021/06/25",
    "issued": "2021-06-25",
-   "modified": "2021-06-25",
+   "modified": "2026-11-21",
    "headA_id": "cee4c7bb",
    "era": {
     "headrest": "bac9aa7c",
-    "pre": "b44fb504",
-    "postrest": "795ed2b6",
+    "pre": "92aa4de1",
+    "postrest": "adf5305e",
     "headmid": "2999539b"
    },
-   "copyright_year": "2021",
+   "copyright_year": "2026",
    "copyright_authors": [
     {
      "display": "Lawrence Shapiro",
      "url": null,
-     "email": "lshapiro@wisc.edu"
+     "email": null
     },
     {
      "display": "Shannon Spaulding",
      "url": null,
-     "email": "shannon.spaulding@okstate.edu"
+     "email": null
+    },
+    {
+     "display": "Guy Dove",
+     "url": null,
+     "email": "guy.dove@louisville.edu"
     }
    ],
-   "site_year": "2025"
+   "site_year": "2026"
   },
   {
    "slug": "emerson",
@@ -21353,27 +21365,27 @@
    "title_meta": "Gorampa [go rams pa]",
    "title_html": "<title>\nGorampa [go rams pa] (Stanford Encyclopedia of Philosophy)\n</title>\n",
    "meta_authors": [
-    "Kassor, Constance"
+    "Conlon, Ryan"
    ],
-   "pub_date": "2011/05/02",
-   "issued": "2011-05-02",
-   "modified": "2021-03-29",
+   "pub_date": "2026/11/23",
+   "issued": "2026-11-23",
+   "modified": "2026-11-23",
    "headA_id": "cee4c7bb",
    "era": {
     "headrest": "bac9aa7c",
-    "pre": "b44fb504",
-    "postrest": "795ed2b6",
+    "pre": "92aa4de1",
+    "postrest": "adf5305e",
     "headmid": "2999539b"
    },
-   "copyright_year": "2021",
+   "copyright_year": "2026",
    "copyright_authors": [
     {
-     "display": "Constance Kassor",
+     "display": "Ryan Conlon",
      "url": null,
-     "email": "constance.kassor@tri-c.edu"
+     "email": "rconlon517@gmail.com"
     }
    ],
-   "site_year": "2025"
+   "site_year": "2026"
   },
   {
    "slug": "gramsci",
@@ -23023,8 +23035,8 @@
    "headA_id": "cee4c7bb",
    "era": {
     "headrest": "bac9aa7c",
-    "pre": "b44fb504",
-    "postrest": "795ed2b6",
+    "pre": "92aa4de1",
+    "postrest": "adf5305e",
     "headmid": "2999539b"
    },
    "copyright_year": "2023",
@@ -23035,7 +23047,7 @@
      "email": "lisa.gannett@smu.ca"
     }
    ],
-   "site_year": "2025"
+   "site_year": "2026"
   },
   {
    "slug": "human-nature",
@@ -23187,7 +23199,7 @@
    ],
    "pub_date": "2004/10/29",
    "issued": "2004-10-29",
-   "modified": "2018-08-20",
+   "modified": "2026-11-22",
    "headA_id": "cee4c7bb",
    "era": {
     "headrest": "bac9aa7c",
@@ -23195,7 +23207,7 @@
     "postrest": "adf5305e",
     "headmid": "2999539b"
    },
-   "copyright_year": "2018",
+   "copyright_year": "2026",
    "copyright_authors": [
     {
      "display": "Rachel Cohon",
@@ -24847,8 +24859,8 @@
    "headA_id": "cee4c7bb",
    "era": {
     "headrest": "bac9aa7c",
-    "pre": "b44fb504",
-    "postrest": "795ed2b6",
+    "pre": "92aa4de1",
+    "postrest": "adf5305e",
     "headmid": "2999539b"
    },
    "copyright_year": "2025",
@@ -24859,7 +24871,7 @@
      "email": "nir.eyal@rutgers.edu"
     }
    ],
-   "site_year": "2025"
+   "site_year": "2026"
   },
   {
    "slug": "ingarden",
@@ -26621,11 +26633,12 @@
    "title_meta": "Retributive Justice",
    "title_html": "<title>\nRetributive Justice (Stanford Encyclopedia of Philosophy)\n</title>\n",
    "meta_authors": [
+    "Dahan-Katz, Leora",
     "Walen, Alec"
    ],
    "pub_date": "2014/06/18",
    "issued": "2014-06-18",
-   "modified": "2020-07-31",
+   "modified": "2026-11-24",
    "headA_id": "cee4c7bb",
    "era": {
     "headrest": "bac9aa7c",
@@ -26633,12 +26646,17 @@
     "postrest": "adf5305e",
     "headmid": "2999539b"
    },
-   "copyright_year": "2020",
+   "copyright_year": "2026",
    "copyright_authors": [
+    {
+     "display": "Leora Dahan-Katz",
+     "url": "https://en.law.huji.ac.il/people/leora-dahan-katz",
+     "email": "leora.dahankatz@mail.huji.ac.il"
+    },
     {
      "display": "Alec Walen",
      "url": "https://philosophy.rutgers.edu/people/regular-faculty/regular-faculty-profile/274-regular-faculty-partial-appointment/438-alec-d-walen",
-     "email": "awalen@rutgers.edu"
+     "email": null
     }
    ],
    "site_year": "2026"
@@ -30247,15 +30265,15 @@
    ],
    "pub_date": "2006/02/07",
    "issued": "2006-02-07",
-   "modified": "2021-03-11",
+   "modified": "2026-11-23",
    "headA_id": "cee4c7bb",
    "era": {
     "headrest": "bac9aa7c",
-    "pre": "b44fb504",
-    "postrest": "795ed2b6",
+    "pre": "92aa4de1",
+    "postrest": "adf5305e",
     "headmid": "2999539b"
    },
-   "copyright_year": "2021",
+   "copyright_year": "2026",
    "copyright_authors": [
     {
      "display": "Paul McNamara",
@@ -30265,10 +30283,10 @@
     {
      "display": "Frederik Van De Putte",
      "url": "https://www.researchgate.net/profile/Frederik_Van_De_Putte",
-     "email": "frederik.vandeputte@ugent.be"
+     "email": "vandeputte@esphil.eur.nl"
     }
    ],
-   "site_year": "2025"
+   "site_year": "2026"
   },
   {
    "slug": "logic-dependence",
@@ -36991,8 +37009,8 @@
    "headA_id": "cee4c7bb",
    "era": {
     "headrest": "bac9aa7c",
-    "pre": "b44fb504",
-    "postrest": "795ed2b6",
+    "pre": "92aa4de1",
+    "postrest": "adf5305e",
     "headmid": "2999539b"
    },
    "copyright_year": "2025",
@@ -37003,7 +37021,7 @@
      "email": "aroskies@ucsb.edu"
     }
    ],
-   "site_year": "2025"
+   "site_year": "2026"
   },
   {
    "slug": "neuroscience",
@@ -38161,8 +38179,8 @@
    "headA_id": "cee4c7bb",
    "era": {
     "headrest": "bac9aa7c",
-    "pre": "b44fb504",
-    "postrest": "795ed2b6",
+    "pre": "92aa4de1",
+    "postrest": "adf5305e",
     "headmid": "2999539b"
    },
    "copyright_year": "2025",
@@ -38173,7 +38191,7 @@
      "email": "s.wilkinson2@lancaster.ac.uk"
     }
    ],
-   "site_year": "2025"
+   "site_year": "2026"
   },
   {
    "slug": "origen",
@@ -40124,15 +40142,15 @@
    "headA_id": "cee4c7bb",
    "era": {
     "headrest": "bac9aa7c",
-    "pre": "b44fb504",
-    "postrest": "84735982",
+    "pre": "92aa4de1",
+    "postrest": "adf5305e",
     "headmid": "2999539b"
    },
    "copyright_year": "2022",
    "copyright_authors": [
     {
      "display": "Matt Haber",
-     "url": null,
+     "url": "https://sites.google.com/view/matt-haber",
      "email": "matt.haber@utah.edu"
     },
     {
@@ -40141,7 +40159,7 @@
      "email": "joel.velasco@ttu.edu"
     }
    ],
-   "site_year": "2024"
+   "site_year": "2026"
   },
   {
    "slug": "physicalism",
@@ -40689,15 +40707,15 @@
    ],
    "pub_date": "2005/10/06",
    "issued": "2005-10-06",
-   "modified": "2020-02-26",
+   "modified": "2026-11-22",
    "headA_id": "cee4c7bb",
    "era": {
-    "headrest": "53156a71",
-    "pre": "b44fb504",
-    "postrest": "3b8544a7",
+    "headrest": "bac9aa7c",
+    "pre": "92aa4de1",
+    "postrest": "adf5305e",
     "headmid": "2999539b"
    },
-   "copyright_year": "2020",
+   "copyright_year": "2026",
    "copyright_authors": [
     {
      "display": "Mary-Louise Gill",
@@ -40705,7 +40723,7 @@
      "email": "Mary_Louise_Gill@brown.edu"
     }
    ],
-   "site_year": "2023"
+   "site_year": "2026"
   },
   {
    "slug": "plato-theaetetus",
@@ -41275,8 +41293,8 @@
    "headA_id": "cee4c7bb",
    "era": {
     "headrest": "bac9aa7c",
-    "pre": "b44fb504",
-    "postrest": "561ebc27",
+    "pre": "92aa4de1",
+    "postrest": "adf5305e",
     "headmid": "2999539b"
    },
    "copyright_year": "2025",
@@ -41936,8 +41954,8 @@
    "headA_id": "cee4c7bb",
    "era": {
     "headrest": "bac9aa7c",
-    "pre": "b44fb504",
-    "postrest": "795ed2b6",
+    "pre": "92aa4de1",
+    "postrest": "adf5305e",
     "headmid": "2999539b"
    },
    "copyright_year": "2023",
@@ -41953,7 +41971,7 @@
      "email": "JDeCew@clarku.edu"
     }
    ],
-   "site_year": "2025"
+   "site_year": "2026"
   },
   {
    "slug": "privacy-health",
@@ -42197,8 +42215,8 @@
    "headA_id": "cee4c7bb",
    "era": {
     "headrest": "bac9aa7c",
-    "pre": "b44fb504",
-    "postrest": "84735982",
+    "pre": "92aa4de1",
+    "postrest": "adf5305e",
     "headmid": "2999539b"
    },
    "copyright_year": "2024",
@@ -42214,7 +42232,7 @@
      "email": null
     }
    ],
-   "site_year": "2024"
+   "site_year": "2026"
   },
   {
    "slug": "promises",
@@ -42912,8 +42930,8 @@
    "headA_id": "cee4c7bb",
    "era": {
     "headrest": "bac9aa7c",
-    "pre": "b44fb504",
-    "postrest": "561ebc27",
+    "pre": "92aa4de1",
+    "postrest": "adf5305e",
     "headmid": "2999539b"
    },
    "copyright_year": "2020",
@@ -46375,7 +46393,7 @@
    ],
    "pub_date": "2022/04/12",
    "issued": "2022-04-12",
-   "modified": "2022-04-12",
+   "modified": "2026-11-23",
    "headA_id": "cee4c7bb",
    "era": {
     "headrest": "bac9aa7c",
@@ -46383,7 +46401,7 @@
     "postrest": "adf5305e",
     "headmid": "2999539b"
    },
-   "copyright_year": "2022",
+   "copyright_year": "2026",
    "copyright_authors": [
     {
      "display": "Alexander Miller",
@@ -47148,7 +47166,7 @@
    ],
    "pub_date": "2003/05/12",
    "issued": "2003-05-12",
-   "modified": "2021-09-09",
+   "modified": "2026-11-23",
    "headA_id": "cee4c7bb",
    "era": {
     "headrest": "bac9aa7c",
@@ -47156,7 +47174,7 @@
     "postrest": "adf5305e",
     "headmid": "2999539b"
    },
-   "copyright_year": "2021",
+   "copyright_year": "2026",
    "copyright_authors": [
     {
      "display": "Robert Wicks",

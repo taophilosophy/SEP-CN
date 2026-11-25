@@ -1,0 +1,2511 @@
+{
+ "schema": "sep-cn-gap-probe/1",
+ "count": 40,
+ "results": [
+  {
+   "slug": "abortion",
+   "page_len": 72639,
+   "asm_len": 72857,
+   "skipped": null,
+   "segs": [
+    1133,
+    1148
+   ],
+   "status": "gap",
+   "mismatch": [
+    {
+     "i": 276,
+     "kinds": [
+      "u",
+      "m"
+     ],
+     "reason": "kind-mismatch",
+     "a": "<strong>1.</strong>",
+     "b": "<dt>",
+     "diff": [
+      {
+       "op": "replace",
+       "a": "<strong>1.</strong>",
+       "b": "<dt>"
+      },
+      {
+       "op": "delete",
+       "a": "<strong>1.</strong>",
+       "b": "<dt>"
+      },
+      {
+       "op": "delete",
+       "a": "<strong>1.</strong>",
+       "b": "<dt>"
+      }
+     ]
+    },
+    {
+     "i": 277,
+     "kinds": [
+      "m",
+      "u"
+     ],
+     "reason": "kind-mismatch",
+     "a": "</p>\n\n",
+     "b": "1.",
+     "diff": [
+      {
+       "op": "replace",
+       "a": "</p>\n\n",
+       "b": "1."
+      }
+     ]
+    }
+   ],
+   "first_index": 276
+  },
+  {
+   "slug": "ayer",
+   "page_len": 107700,
+   "asm_len": 107739,
+   "skipped": null,
+   "segs": [
+    1014,
+    1006
+   ],
+   "status": "gap",
+   "mismatch": [
+    {
+     "i": 907,
+     "kinds": [
+      "m",
+      "u"
+     ],
+     "reason": "kind-mismatch",
+     "a": "<h4>",
+     "b": "<span class=\"listheader\"><i class=\"icon-book\"></i> Browse</span>\n          ",
+     "diff": [
+      {
+       "op": "insert",
+       "a": "<h4>",
+       "b": "<span class=\"listheader\"><i class=\"icon-book\"></i> Browse</span>\n          "
+      },
+      {
+       "op": "replace",
+       "a": "<h4>",
+       "b": "<span class=\"listheader\"><i class=\"icon-book\"></i> Browse</span>\n          "
+      },
+      {
+       "op": "insert",
+       "a": "<h4>",
+       "b": "<span class=\"listheader\"><i class=\"icon-book\"></i> Browse</span>\n          "
+      }
+     ]
+    },
+    {
+     "i": 908,
+     "kinds": [
+      "u",
+      "m"
+     ],
+     "reason": "kind-mismatch",
+     "a": "<i class=\"icon-book\"></i> Browse",
+     "b": "<ul role=\"menu\">\n            ",
+     "diff": [
+      {
+       "op": "replace",
+       "a": "<i class=\"icon-book\"></i> Browse",
+       "b": "<ul role=\"menu\">\n            "
+      },
+      {
+       "op": "replace",
+       "a": "<i class=\"icon-book\"></i> Browse",
+       "b": "<ul role=\"menu\">\n            "
+      },
+      {
+       "op": "replace",
+       "a": "<i class=\"icon-book\"></i> Browse",
+       "b": "<ul role=\"menu\">\n            "
+      }
+     ]
+    }
+   ],
+   "first_index": 907
+  },
+  {
+   "slug": "benjamin",
+   "page_len": 164687,
+   "asm_len": 164586,
+   "skipped": null,
+   "segs": [
+    1392,
+    1407
+   ],
+   "status": "gap",
+   "mismatch": [
+    {
+     "i": 287,
+     "kinds": [
+      "u",
+      "m"
+     ],
+     "reason": "kind-mismatch",
+     "a": "Since the content of each, successive, level of reflection is supplied\nby the form of its object, the criticism unfolds the germ of immanent\ncriticizability contained in each particular artwork&rsquo;s form.\nThis formalism precludes any serious discussion of the artwork&rsquo;s\nspecific content.",
+     "b": "<p>",
+     "diff": [
+      {
+       "op": "replace",
+       "a": "Since the content of each, successive, level of reflection is supplied\nby the form of its object, the criticism unfolds the germ of immanent\ncriticizability contained in each particula",
+       "b": "<p>"
+      },
+      {
+       "op": "replace",
+       "a": "Since the content of each, successive, level of reflection is supplied\nby the form of its object, the criticism unfolds the germ of immanent\ncriticizability contained in each particular artwork&rsquo;s form.\nThis formalism precludes any serious discussion of the artwork&rsquo;s\nspecific content.",
+       "b": "<p>"
+      }
+     ]
+    },
+    {
+     "i": 288,
+     "kinds": [
+      "m",
+      "u"
+     ],
+     "reason": "kind-mismatch",
+     "a": "</li>",
+     "b": "\nSince the content of each, successive, level of reflection is supplied\nby the form of its object, the criticism unfolds the germ of immanent\ncriticizability contained in each particular artwork&rsquo;s form.\nThis formalism precludes any serious discussion of the artwork&rsquo;s\nspecific content.",
+     "diff": [
+      {
+       "op": "replace",
+       "a": "</li>",
+       "b": "\nSince the content of each, successive, level of reflection is supplied\nby the form of its object, the criticism unfolds the germ of immanent\ncriticizability contained in each particular "
+      },
+      {
+       "op": "replace",
+       "a": "</li>",
+       "b": "\nSince the content of each, successive, level of reflection is supplied\nby the form of its object, the criticism unfolds the germ of immanent\ncriticizability contained in each particular artwork&rsquo;s form.\nThis formalism precludes any serious discussion of the artwork&rsquo;s\nspecific content."
+      }
+     ]
+    }
+   ],
+   "first_index": 287
+  },
+  {
+   "slug": "bodin",
+   "page_len": 164087,
+   "asm_len": 163368,
+   "skipped": null,
+   "segs": [
+    1872,
+    1871
+   ],
+   "status": "gap",
+   "mismatch": [
+    {
+     "i": 504,
+     "kinds": [
+      "u",
+      "m"
+     ],
+     "reason": "kind-mismatch",
+     "a": "\nThe &lsquo;Bodin Sources Project&rsquo;, directed by Professor\nKenneth D. McRae, aims to list the sources mentioned in five of\nBodin&rsquo;s major works &ndash; <em>Methodus</em>, <em>R&eacute;publique</em>, <em>D&eacute;monomanie</em>, <em>Theatrum</em>\nand the commentary on Oppian &ndash; in machine-readable form. For\nfurther information, contact: K. D. McRae, Department of Political\nScience, C",
+     "b": "<p>",
+     "diff": [
+      {
+       "op": "delete",
+       "a": "\nThe &lsquo;Bodin Sources Project&rsquo;, directed by Professor\nKenneth D. McRae, aims to list the sources mentioned in five of\nBodin&rsquo;s major works &ndash; <em>Methodus</em>, <em>R&eacute;publique</em>, <em>D&eacute;monomanie</em>, <em>Theatrum</em>\nand the commentary on Oppi",
+       "b": "<p>"
+      },
+      {
+       "op": "replace",
+       "a": "irected by Professor\nKenneth D. McRae, aims to list the sources mentioned in five of\nBodin&rsquo;s major works &ndash; <em>Methodus</em>, <em>R&eacute;publique</em>, <em>D&eacute;monomanie</em>, <em>Theatrum</em>\nand the commentary on Oppian ",
+       "b": "<p>"
+      },
+      {
+       "op": "delete",
+       "a": "cted by Professor\nKenneth D. McRae, aims to list the sources mentioned in five of\nBodin&rsquo;s major works &ndash; <em>Methodus</em>, <em>R&eacute;publique</em>, <em>D&eacute;monomanie</em>, <em>Theatrum</em>\nand the commentary on Oppian &ndash; in machine-readable form. For\nfurther information, contact: K. D. McRae, Department of Political\nScience, Carleton University, 1125 Colonel by Drive, Ottawa ON K1S\n5B6 Canada.",
+       "b": "<p>"
+      }
+     ]
+    },
+    {
+     "i": 505,
+     "kinds": [
+      "m",
+      "u"
+     ],
+     "reason": "kind-mismatch",
+     "a": "</p>\n\n",
+     "b": "\nThe &lsquo;Bodin Sources Project&rsquo;, directed by Professor Kenneth\nD. McRae, aims to list the sources mentioned in five of Bodin&rsquo;s major\nworks &ndash; <em>Methodus</em>, <em>R&eacute;publique</em>,\n<em>D&eacute;monomanie</em>, <em>Theatrum</em> and the commentary on\nOppian &ndash; in machine-readable form. For further information,\ncontact: K. D. McRae, Department of Political Science, C",
+     "diff": [
+      {
+       "op": "insert",
+       "a": "</p>\n\n",
+       "b": "\nThe &lsquo;Bodin Sources Project&rsquo;, directed by Professor Kenneth\nD. McRae, aims to list the sources mentioned in five of Bodin&rsquo;s major\nworks &ndash; <em>Methodus</em>, <em>R&eacute;publique</em>,\n<em>D&eacute;monomanie</em>, <em>Theatrum</em> and the commentary on\nOppian &ndash; i"
+      },
+      {
+       "op": "insert",
+       "a": "</p>\n\n",
+       "b": "ofessor Kenneth\nD. McRae, aims to list the sources mentioned in five of Bodin&rsquo;s major\nworks &ndash; <em>Methodus</em>, <em>R&eacute;publique</em>,\n<em>D&eacute;monomanie</em>, <em>Theatrum</em> and the commentary on\nOppian &ndash; in machine-readable f"
+      },
+      {
+       "op": "insert",
+       "a": "</p>\n\n",
+       "b": "McRae, aims to list the sources mentioned in five of Bodin&rsquo;s major\nworks &ndash; <em>Methodus</em>, <em>R&eacute;publique</em>,\n<em>D&eacute;monomanie</em>, <em>Theatrum</em> and the commentary on\nOppian &ndash; in machine-readable form. For fur"
+      }
+     ]
+    }
+   ],
+   "first_index": 504
+  },
+  {
+   "slug": "chinese-social-political",
+   "page_len": 105328,
+   "asm_len": 105165,
+   "skipped": null,
+   "segs": [
+    1103,
+    1096
+   ],
+   "status": "gap",
+   "mismatch": [
+    {
+     "i": 662,
+     "kinds": [
+      "m",
+      "u"
+     ],
+     "reason": "kind-mismatch",
+     "a": "<tr>",
+     "b": "<tbody>\n",
+     "diff": [
+      {
+       "op": "replace",
+       "a": "<tr>",
+       "b": "<tbody>\n"
+      },
+      {
+       "op": "insert",
+       "a": "<tr>",
+       "b": "<tbody>\n"
+      }
+     ]
+    },
+    {
+     "i": 664,
+     "kinds": [
+      "u",
+      "m"
+     ],
+     "reason": "kind-mismatch",
+     "a": "[DDJ]",
+     "b": "<td>",
+     "diff": [
+      {
+       "op": "replace",
+       "a": "[DDJ]",
+       "b": "<td>"
+      }
+     ]
+    }
+   ],
+   "first_index": 662
+  },
+  {
+   "slug": "comte",
+   "page_len": 103980,
+   "asm_len": 104025,
+   "skipped": null,
+   "segs": [
+    1068,
+    1067
+   ],
+   "status": "gap",
+   "mismatch": [
+    {
+     "i": 179,
+     "kinds": [
+      "u",
+      "m"
+     ],
+     "reason": "kind-mismatch",
+     "a": "<a href=\"#Int\">1. Introduction</a>",
+     "b": "<li>",
+     "diff": [
+      {
+       "op": "replace",
+       "a": "<a href=\"#Int\">1. Introduction</a>",
+       "b": "<li>"
+      },
+      {
+       "op": "delete",
+       "a": "<a href=\"#Int\">1. Introduction</a>",
+       "b": "<li>"
+      }
+     ]
+    },
+    {
+     "i": 180,
+     "kinds": [
+      "m",
+      "u"
+     ],
+     "reason": "kind-mismatch",
+     "a": "</li>\n\t",
+     "b": "<a href=\"#Int\">1. Introduction</a>",
+     "diff": [
+      {
+       "op": "insert",
+       "a": "</li>\n\t",
+       "b": "<a href=\"#Int\">1. Introduction</a>"
+      },
+      {
+       "op": "replace",
+       "a": "</li>\n\t",
+       "b": "<a href=\"#Int\">1. Introduction</a>"
+      },
+      {
+       "op": "delete",
+       "a": "</li>\n\t",
+       "b": "<a href=\"#Int\">1. Introduction</a>"
+      }
+     ]
+    }
+   ],
+   "first_index": 179
+  },
+  {
+   "slug": "conscience",
+   "page_len": 90453,
+   "asm_len": 90676,
+   "skipped": null,
+   "segs": [
+    964,
+    953
+   ],
+   "status": "gap",
+   "mismatch": [
+    {
+     "i": 826,
+     "kinds": [
+      "u",
+      "u"
+     ],
+     "reason": "ukey-diff",
+     "a": "<a href=\"../aquinas-moral-political/\">Aquinas, Thomas: moral, political, and legal philosophy</a> |\n <a href=\"../conscience-medieval/\">conscience: medieval theories of</a> |\n <a href=\"../consciousness-17th/\">consciousness: seventeenth-century theories of</a> |\n <a href=\"../privacy-medicine/\">ethics, biomedical: privacy and medicine</a> |\n <a href=\"../integrity/\">integrity</a> |\n <a href=\"../moral-",
+     "b": "<a href=\"../aquinas-moral-political/\">Aquinas, Thomas: moral, political, and legal philosophy</a> |\n <a href=\"../conscience-medieval/\">conscience: medieval theories of</a> |\n <a href=\"../consciousness-17th/\">consciousness: seventeenth-century theories of</a> |\n <a href=\"../privacy-health/\">ethics, biomedical: privacy in health care and research</a> |\n <a href=\"../integrity/\">integrity</a> |\n <a hr",
+     "diff": [
+      {
+       "op": "replace",
+       "a": "es of</a> |\n <a href=\"../consciousness-17th/\">consciousness: seventeenth-century theories of</a> |\n <a href=\"../privacy-medicine/\">ethics, biomedical: privacy and medicine</a> |\n <a href=\"../integrity/\">integrity</a> |\n <a href=\"../moral-epi",
+       "b": "es of</a> |\n <a href=\"../consciousness-17th/\">consciousness: seventeenth-century theories of</a> |\n <a href=\"../privacy-health/\">ethics, biomedical: privacy in health care and research</a> |\n <a href=\"../integrity/\">integrity</a> |\n <a href="
+      },
+      {
+       "op": "replace",
+       "a": " of</a> |\n <a href=\"../consciousness-17th/\">consciousness: seventeenth-century theories of</a> |\n <a href=\"../privacy-medicine/\">ethics, biomedical: privacy and medicine</a> |\n <a href=\"../integrity/\">integrity</a> |\n <a href=\"../moral-epistemolo",
+       "b": " of</a> |\n <a href=\"../consciousness-17th/\">consciousness: seventeenth-century theories of</a> |\n <a href=\"../privacy-health/\">ethics, biomedical: privacy in health care and research</a> |\n <a href=\"../integrity/\">integrity</a> |\n <a href=\"../m"
+      },
+      {
+       "op": "insert",
+       "a": "17th/\">consciousness: seventeenth-century theories of</a> |\n <a href=\"../privacy-medicine/\">ethics, biomedical: privacy and medicine</a> |\n <a href=\"../integrity/\">integrity</a> |\n <a href=\"../moral-epistemology/\">moral epistemology</a> |\n ",
+       "b": "s-17th/\">consciousness: seventeenth-century theories of</a> |\n <a href=\"../privacy-health/\">ethics, biomedical: privacy in health care and research</a> |\n <a href=\"../integrity/\">integrity</a> |\n <a href=\"../moral-epistemology/\">moral epistemology</a> |\n "
+      }
+     ]
+    },
+    {
+     "i": 830,
+     "kinds": [
+      "u",
+      "m"
+     ],
+     "reason": "kind-mismatch",
+     "a": "Aquinas, Thomas: moral, political, and legal philosophy | conscience: medieval theories of | consciousness: seventeenth-century theories of | ethics, biomedical: privacy in health care and research | integrity | moral epistemology | moral sentimentalism",
+     "b": "<!-- #aueditable -->",
+     "diff": [
+      {
+       "op": "replace",
+       "a": "Aquinas, Thomas: moral, political, and legal philosophy | conscience: medieval theories of | consciousness: seventeenth-ce",
+       "b": "<!-- #aueditable -->"
+      },
+      {
+       "op": "delete",
+       "a": "Aquinas, Thomas: moral, political, and legal philosophy | conscience: medieval theories of | consciousness: seventeenth-century theories of | ethics, biomedical: privacy in health care and re",
+       "b": "<!-- #aueditable -->"
+      },
+      {
+       "op": "replace",
+       "a": "Aquinas, Thomas: moral, political, and legal philosophy | conscience: medieval theories of | consciousness: seventeenth-century theories of | ethics, biomedical: privacy in health care and researc",
+       "b": "<!-- #aueditable -->"
+      }
+     ]
+    }
+   ],
+   "first_index": 826
+  },
+  {
+   "slug": "culture-cogsci",
+   "page_len": 260886,
+   "asm_len": 258572,
+   "skipped": null,
+   "segs": [
+    2490,
+    2513
+   ],
+   "status": "gap",
+   "mismatch": [
+    {
+     "i": 207,
+     "kinds": [
+      "u",
+      "u"
+     ],
+     "reason": "ukey-diff",
+     "a": "<a href=\"#CultCumuCultCultComp\">3.1 Culture, Cumulative Culture, and Cultural Complexity</a>",
+     "b": "<a href=\"#CultAcquCumuCult\">3.1 Cultural Acquisition and Cumulative Culture</a>",
+     "diff": [
+      {
+       "op": "insert",
+       "a": "<a href=\"#CultCumuCultCultComp\">3.1 Culture, Cumulative Culture, and Cultural Complexity</a>",
+       "b": "<a href=\"#CultAcquCumuCult\">3.1 Cultural Acquisition and Cumulative Culture</a>"
+      },
+      {
+       "op": "delete",
+       "a": "<a href=\"#CultCumuCultCultComp\">3.1 Culture, Cumulative Culture, and Cultural Complexity</a>",
+       "b": "<a href=\"#CultAcquCumuCult\">3.1 Cultural Acquisition and Cumulative Culture</a>"
+      },
+      {
+       "op": "replace",
+       "a": "<a href=\"#CultCumuCultCultComp\">3.1 Culture, Cumulative Culture, and Cultural Complexity</a>",
+       "b": "<a href=\"#CultAcquCumuCult\">3.1 Cultural Acquisition and Cumulative Culture</a>"
+      }
+     ]
+    },
+    {
+     "i": 1749,
+     "kinds": [
+      "u",
+      "m"
+     ],
+     "reason": "kind-mismatch",
+     "a": "&ndash;&ndash;&ndash;, 2016, &ldquo;Theodiversity&rdquo;, <em>Annual\nReview of Psychology</em>, 67(1): 465&ndash;488.\ndoi:10.1146/annurev-psych-122414-033426",
+     "b": "<li>",
+     "diff": [
+      {
+       "op": "replace",
+       "a": "&ndash;&ndash;&ndash;, 2016, &ldquo;Theodiversity&rdquo;, <em>Annual\nReview of Psychology</em>, 67(1): 465&ndash;488.\ndoi:10.1146/annurev-psych-122414",
+       "b": "<li>"
+      },
+      {
+       "op": "delete",
+       "a": "&ndash;&ndash;&ndash;, 2016, &ldquo;Theodiversity&rdquo;, <em>Annual\nReview of Psychology</em>, 67(1): 465&ndash;488.\ndoi:10.1146/annurev-psych-122414-033426",
+       "b": "<li>"
+      },
+      {
+       "op": "delete",
+       "a": "&ndash;&ndash;&ndash;, 2016, &ldquo;Theodiversity&rdquo;, <em>Annual\nReview of Psychology</em>, 67(1): 465&ndash;488.\ndoi:10.1146/annurev-psych-122414-033426",
+       "b": "<li>"
+      }
+     ]
+    }
+   ],
+   "first_index": 207
+  },
+  {
+   "slug": "delusion",
+   "page_len": 134660,
+   "asm_len": 132582,
+   "skipped": null,
+   "segs": [
+    1454,
+    1499
+   ],
+   "status": "gap",
+   "mismatch": [
+    {
+     "i": 305,
+     "kinds": [
+      "u",
+      "m"
+     ],
+     "reason": "kind-mismatch",
+     "a": "Delusions are pathological because they present themselves as what\nthey are not. They are reported like beliefs but do not share some of\nthe core features of beliefs such as action guidance, and are\nirrational to a higher degree than, or in a qualitatively different\nway from, irrational beliefs (for a discussion of aspects of this\nview, see Currie and Jureidini 2001 and Frankish 2009).",
+     "b": "<p>",
+     "diff": [
+      {
+       "op": "replace",
+       "a": "Delusions are pathological because they present themselves as what\nthey are not. They are reported like beliefs but do not share some ",
+       "b": "<p>"
+      },
+      {
+       "op": "replace",
+       "a": "Delusions are pathological because they present themselves as what\nthey are not. They are reported like beliefs but do not share some of\nthe core features of beliefs such as action guidance, and are\nirrational to a higher degree than, or in a qualitatively different\nway from, irrational beliefs (for a discussion of aspects of this\nview, see Currie and Jureidini 2001 and Frankish 2009).",
+       "b": "<p>"
+      }
+     ]
+    },
+    {
+     "i": 306,
+     "kinds": [
+      "m",
+      "u"
+     ],
+     "reason": "kind-mismatch",
+     "a": "</li>",
+     "b": "\nDelusions are pathological because they present themselves as what\nthey are not. They are reported like beliefs but do not share some of\nthe core features of beliefs such as action guidance, and are\nirrational to a higher degree than, or in a qualitatively different\nway from, irrational beliefs (for a discussion of aspects of this\nview, see Currie and Jureidini 2001 and Frankish 2009).",
+     "diff": [
+      {
+       "op": "replace",
+       "a": "</li>",
+       "b": "\nDelusions are pathological because they present themselves as what\nthey are not. They are reported like beliefs but do not share some of\nthe core features of beliefs such as action guidance, and are\nirrational to a high"
+      },
+      {
+       "op": "replace",
+       "a": "</li>",
+       "b": "\nDelusions are pathological because they present themselves as what\nthey are not. They are reported like beliefs but do not share some of\nthe core features of beliefs such as action guidance, and are\nirrational to a higher degree than, or in a qualitatively different\nway from, irrational beliefs (for a discussion of aspects of this\nview, see Currie and Jureidini 2001 and Frankish 2009)."
+      }
+     ]
+    }
+   ],
+   "first_index": 305
+  },
+  {
+   "slug": "dilthey",
+   "page_len": 106363,
+   "asm_len": 106159,
+   "skipped": null,
+   "segs": [
+    1089,
+    1121
+   ],
+   "status": "gap",
+   "mismatch": [
+    {
+     "i": 249,
+     "kinds": [
+      "m",
+      "u"
+     ],
+     "reason": "kind-mismatch",
+     "a": "<p>",
+     "b": " -\n\n",
+     "diff": [
+      {
+       "op": "replace",
+       "a": "<p>",
+       "b": " -\n\n"
+      }
+     ]
+    },
+    {
+     "i": 250,
+     "kinds": [
+      "u",
+      "m"
+     ],
+     "reason": "kind-mismatch",
+     "a": "\n-",
+     "b": "<p>",
+     "diff": [
+      {
+       "op": "replace",
+       "a": "\n-",
+       "b": "<p>"
+      }
+     ]
+    }
+   ],
+   "first_index": 249
+  },
+  {
+   "slug": "dubois",
+   "page_len": 147139,
+   "asm_len": 146460,
+   "skipped": null,
+   "segs": [
+    1799,
+    1799
+   ],
+   "status": "gap",
+   "mismatch": [
+    {
+     "i": 263,
+     "kinds": [
+      "m",
+      "u"
+     ],
+     "reason": "kind-mismatch",
+     "a": "<tr>",
+     "b": "<tbody>\n",
+     "diff": [
+      {
+       "op": "replace",
+       "a": "<tr>",
+       "b": "<tbody>\n"
+      },
+      {
+       "op": "insert",
+       "a": "<tr>",
+       "b": "<tbody>\n"
+      }
+     ]
+    },
+    {
+     "i": 265,
+     "kinds": [
+      "u",
+      "m"
+     ],
+     "reason": "kind-mismatch",
+     "a": "1868",
+     "b": "<td>",
+     "diff": [
+      {
+       "op": "replace",
+       "a": "1868",
+       "b": "<td>"
+      }
+     ]
+    }
+   ],
+   "first_index": 263
+  },
+  {
+   "slug": "embodied-cognition",
+   "page_len": 150502,
+   "asm_len": 141074,
+   "skipped": null,
+   "segs": [
+    1252,
+    1394
+   ],
+   "status": "gap",
+   "mismatch": [
+    {
+     "i": 211,
+     "kinds": [
+      "m",
+      "u"
+     ],
+     "reason": "kind-mismatch",
+     "a": "</li>\n\t",
+     "b": "<a href=\"#4ECogn\">2.5 4-E Cognition</a>",
+     "diff": [
+      {
+       "op": "insert",
+       "a": "</li>\n\t",
+       "b": "<a href=\"#4ECogn\">2.5 4-E Cognition</a>"
+      },
+      {
+       "op": "replace",
+       "a": "</li>\n\t",
+       "b": "<a href=\"#4ECogn\">2.5 4-E Cognition</a>"
+      },
+      {
+       "op": "delete",
+       "a": "</li>\n\t",
+       "b": "<a href=\"#4ECogn\">2.5 4-E Cognition</a>"
+      }
+     ]
+    },
+    {
+     "i": 213,
+     "kinds": [
+      "u",
+      "m"
+     ],
+     "reason": "kind-mismatch",
+     "a": "<a href=\"#Conc\">3. Conceptualization</a>\n\t",
+     "b": "</ul>\n\t",
+     "diff": [
+      {
+       "op": "delete",
+       "a": "<a href=\"#Conc\">3. Conceptualization</a>\n\t",
+       "b": "</ul>\n\t"
+      },
+      {
+       "op": "replace",
+       "a": "<a href=\"#Conc\">3. Conceptualization</a>\n\t",
+       "b": "</ul>\n\t"
+      }
+     ]
+    }
+   ],
+   "first_index": 211
+  },
+  {
+   "slug": "engels",
+   "page_len": 111485,
+   "asm_len": 111758,
+   "skipped": null,
+   "segs": [
+    971,
+    969
+   ],
+   "status": "gap",
+   "mismatch": [
+    {
+     "i": 502,
+     "kinds": [
+      "u",
+      "m"
+     ],
+     "reason": "kind-mismatch",
+     "a": "Bibliography",
+     "b": "<h2 id=\"Bib\">",
+     "diff": [
+      {
+       "op": "insert",
+       "a": "Bibliography",
+       "b": "<h2 id=\"Bib\">"
+      },
+      {
+       "op": "replace",
+       "a": "Bibliography",
+       "b": "<h2 id=\"Bib\">"
+      }
+     ]
+    },
+    {
+     "i": 503,
+     "kinds": [
+      "m",
+      "u"
+     ],
+     "reason": "kind-mismatch",
+     "a": "</h2>\n\n",
+     "b": "Bibliography",
+     "diff": [
+      {
+       "op": "replace",
+       "a": "</h2>\n\n",
+       "b": "Bibliography"
+      },
+      {
+       "op": "replace",
+       "a": "</h2>\n\n",
+       "b": "Bibliography"
+      }
+     ]
+    }
+   ],
+   "first_index": 502
+  },
+  {
+   "slug": "ethics-cultural-heritage",
+   "page_len": 151562,
+   "asm_len": 151837,
+   "skipped": null,
+   "segs": [
+    1478,
+    1475
+   ],
+   "status": "gap",
+   "mismatch": [
+    {
+     "i": 1332,
+     "kinds": [
+      "u",
+      "u"
+     ],
+     "reason": "ukey-diff",
+     "a": "<a href=\"../colonialism/\">colonialism</a> |\n <a href=\"../essential-accidental/\">essential vs. accidental properties</a> |\n <a href=\"../freedom-speech/\">freedom: of speech</a> |\n <a href=\"../history/\">history, philosophy of</a> |\n <a href=\"../justice-intergenerational/\">justice: intergenerational</a> |\n <a href=\"../multiculturalism/\">multiculturalism</a> |\n <a href=\"../nonidentity-problem/\">noniden",
+     "b": "<a href=\"../colonialism/\">colonialism</a> |\n <a href=\"../essential-accidental/\">essential vs. accidental properties</a> |\n <a href=\"../freedom-speech/\">freedom: of speech</a> |\n <a href=\"../history/\">history and historiography, philosophy of</a> |\n <a href=\"../justice-intergenerational/\">justice: intergenerational</a> |\n <a href=\"../multiculturalism/\">multiculturalism</a> |\n <a href=\"../nonidentit",
+     "diff": [
+      {
+       "op": "insert",
+       "a": "ial vs. accidental properties</a> |\n <a href=\"../freedom-speech/\">freedom: of speech</a> |\n <a href=\"../history/\">history, philosophy of</a> |\n <a href=\"../justice-intergenerational/\">justice: intergenerational</a> |\n <a href=\"../multicultu",
+       "b": "ial vs. accidental properties</a> |\n <a href=\"../freedom-speech/\">freedom: of speech</a> |\n <a href=\"../history/\">history and historiography, philosophy of</a> |\n <a href=\"../justice-intergenerational/\">justice: intergenerational</a> |\n <a href=\"../multicultu"
+      },
+      {
+       "op": "insert",
+       "a": ">race</a> |\n <a href=\"../reconciliation/\">reconciliation</a> |\n <a href=\"../black-reparations/\">reparations, Black</a>\n\n",
+       "b": ">race</a> |\n <a href=\"../reconciliation/\">reconciliation</a> |\n <a href=\"../black-reparations/\">reparations, Black</a>\n\n "
+      }
+     ]
+    },
+    {
+     "i": 1336,
+     "kinds": [
+      "u",
+      "m"
+     ],
+     "reason": "kind-mismatch",
+     "a": "colonialism | essential vs. accidental properties | freedom: of speech | history and historiography, philosophy of | justice: intergenerational | multiculturalism | nonidentity problem | personal identity | property: intellectual | property and ownership | race | reconciliation | reparations, Black",
+     "b": "<h3>",
+     "diff": [
+      {
+       "op": "replace",
+       "a": "colonialism | essential vs. accidental properties | freedom: of speech | history and historiography, philosophy of | justice: intergenerational | multiculturalism | nonidentity problem | pe",
+       "b": "<h3>"
+      },
+      {
+       "op": "replace",
+       "a": "colonialism | essential vs. accidental properties | freedom: of speech | history and historiography, philosophy of | justice: intergenerational | multiculturalism | nonidentity problem | personal identity | property: intellectual | property and ownership | race | reconciliation | reparations, Black",
+       "b": "<h3>"
+      }
+     ]
+    }
+   ],
+   "first_index": 1332
+  },
+  {
+   "slug": "gametes-donation-sale",
+   "page_len": 158446,
+   "asm_len": 158917,
+   "skipped": null,
+   "segs": [
+    1669,
+    1666
+   ],
+   "status": "gap",
+   "mismatch": [
+    {
+     "i": 1531,
+     "kinds": [
+      "u",
+      "u"
+     ],
+     "reason": "ukey-diff",
+     "a": "<a href=\"../cloning/\">cloning</a> |\n <a href=\"../disability-well-being/\">disability: and well-being</a> |\n <a href=\"../disability/\">disability: definitions and models</a> |\n <a href=\"../organ-donation/\">donation of human organs</a> |\n <a href=\"../privacy-medicine/\">ethics, biomedical: privacy and medicine</a> |\n <a href=\"../eugenics/\">eugenics</a> |\n <a href=\"../exploitation/\">exploitation</a> |\n ",
+     "b": "<a href=\"../cloning/\">cloning</a> |\n <a href=\"../disability-well-being/\">disability: and well-being</a> |\n <a href=\"../disability/\">disability: definitions and models</a> |\n <a href=\"../organ-donation/\">donation of human organs</a> |\n <a href=\"../privacy-health/\">ethics, biomedical: privacy in health care and research</a> |\n <a href=\"../eugenics/\">eugenics</a> |\n <a href=\"../exploitation/\">exploit",
+     "diff": [
+      {
+       "op": "replace",
+       "a": "ability: definitions and models</a> |\n <a href=\"../organ-donation/\">donation of human organs</a> |\n <a href=\"../privacy-medicine/\">ethics, biomedical: privacy and medicine</a> |\n <a href=\"../eugenics/\">eugenics</a> |\n <a href=\"../exploitatio",
+       "b": "ability: definitions and models</a> |\n <a href=\"../organ-donation/\">donation of human organs</a> |\n <a href=\"../privacy-health/\">ethics, biomedical: privacy in health care and research</a> |\n <a href=\"../eugenics/\">eugenics</a> |\n <a href=\"."
+      },
+      {
+       "op": "replace",
+       "a": "ility: definitions and models</a> |\n <a href=\"../organ-donation/\">donation of human organs</a> |\n <a href=\"../privacy-medicine/\">ethics, biomedical: privacy and medicine</a> |\n <a href=\"../eugenics/\">eugenics</a> |\n <a href=\"../exploitation/\">exp",
+       "b": "ility: definitions and models</a> |\n <a href=\"../organ-donation/\">donation of human organs</a> |\n <a href=\"../privacy-health/\">ethics, biomedical: privacy in health care and research</a> |\n <a href=\"../eugenics/\">eugenics</a> |\n <a href=\"../exp"
+      },
+      {
+       "op": "insert",
+       "a": "<a href=\"../organ-donation/\">donation of human organs</a> |\n <a href=\"../privacy-medicine/\">ethics, biomedical: privacy and medicine</a> |\n <a href=\"../eugenics/\">eugenics</a> |\n <a href=\"../exploitation/\">exploitation</a> |\n <a href=\"../fe",
+       "b": "\n <a href=\"../organ-donation/\">donation of human organs</a> |\n <a href=\"../privacy-health/\">ethics, biomedical: privacy in health care and research</a> |\n <a href=\"../eugenics/\">eugenics</a> |\n <a href=\"../exploitation/\">exploitation</a> |\n <a href=\"../fe"
+      }
+     ]
+    },
+    {
+     "i": 1535,
+     "kinds": [
+      "u",
+      "m"
+     ],
+     "reason": "kind-mismatch",
+     "a": "cloning | disability: and well-being | disability: definitions and models | donation of human organs | ethics, biomedical: privacy in health care and research | eugenics | exploitation | feminist philosophy, topics: perspectives on reproduction and the family | feminist philosophy, topics: perspectives on sex markets | heritability | informed consent | justice: intergenerational | nonidentity prob",
+     "b": "<h3>",
+     "diff": [
+      {
+       "op": "replace",
+       "a": "cloning | disability: and well-being | disability: definitions and models | donation of human organs | ethics, biomedical: privacy in health care and research | eugenics | exploitation | feminist philosophy, ",
+       "b": "<h3>"
+      },
+      {
+       "op": "replace",
+       "a": "cloning | disability: and well-being | disability: definitions and models | donation of human organs | ethics, biomedical: privacy in health care and research | eugenics | exploitation | feminist philosophy, topics: perspectives on reproduction and the family | feminist philosophy, topics: perspectives on sex markets | heritability | informed consent | justice: intergenerational | nonidentity problem | parenthood and procreation | personal identity: and ethics | pregnancy, birth, and medicine | race | sale of human organs",
+       "b": "<h3>"
+      }
+     ]
+    }
+   ],
+   "first_index": 1531
+  },
+  {
+   "slug": "gasset",
+   "page_len": 221938,
+   "asm_len": 222185,
+   "skipped": null,
+   "segs": [
+    1611,
+    1612
+   ],
+   "status": "gap",
+   "mismatch": [
+    {
+     "i": 1481,
+     "kinds": [
+      "u",
+      "u"
+     ],
+     "reason": "ukey-diff",
+     "a": "<a href=\"../collingwood/\">Collingwood, Robin George</a> |\n <a href=\"../collingwood-aesthetics/\">Collingwood, Robin George: aesthetics</a> |\n <a href=\"../croce-aesthetics/\">Croce, Benedetto: aesthetics</a> |\n <a href=\"../dilthey/\">Dilthey, Wilhelm</a> |\n <a href=\"../existentialism/\">existentialism</a> |\n <a href=\"../heidegger/\">Heidegger, Martin</a> |\n <a href=\"../history/\">history, philosophy of</",
+     "b": "<a href=\"../collingwood/\">Collingwood, Robin George</a> |\n <a href=\"../collingwood-aesthetics/\">Collingwood, Robin George: aesthetics</a> |\n ",
+     "diff": [
+      {
+       "op": "delete",
+       "a": "od/\">Collingwood, Robin George</a> |\n <a href=\"../collingwood-aesthetics/\">Collingwood, Robin George: aesthetics</a> |\n <a href=\"../croce-aesthetics/\">Croce, Benedetto: aesthetics</a> |\n <a href=\"../dilthey/\">Dilthey, Wilhelm</a> |\n <a href=\"../existentialism/\">existentialism</a> |\n <a href=\"../heidegger/\">Heidegger, Martin</a> |\n <a href=\"../history/\">history, philosophy of</a> |\n <a href=\"../husserl/\">Husserl, Edmund</a> |\n <a href=\"../merleau-ponty/\">Merleau-Ponty, Maurice</a> |\n <a href=\"../phenomenology/\">phenomenology</a> |\n <a href=\"../rationality-historicist/\">rationality: historicist theories of</a> |\n <a href=\"../sartre/\">Sartre, Jean-Paul</a> |\n <a href=\"../scheler/\">Scheler, Max</a> |\n <a href=\"../schutz/\">Schutz, Alfred</a>\n\n",
+       "b": "od/\">Collingwood, Robin George</a> |\n <a href=\"../collingwood-aesthetics/\">Collingwood, Robin George: aesthetics</a> |\n "
+      }
+     ]
+    },
+    {
+     "i": 1483,
+     "kinds": [
+      "m",
+      "u"
+     ],
+     "reason": "kind-mismatch",
+     "a": "</div>\n\n",
+     "b": "Croce, Benedetto: aesthetics",
+     "diff": [
+      {
+       "op": "replace",
+       "a": "</div>\n\n",
+       "b": "Croce, Benedetto: aesthetics"
+      },
+      {
+       "op": "insert",
+       "a": "</div>\n\n",
+       "b": "Croce, Benedetto: aesthetics"
+      },
+      {
+       "op": "replace",
+       "a": "</div>\n\n",
+       "b": "Croce, Benedetto: aesthetics"
+      }
+     ]
+    }
+   ],
+   "first_index": 1481
+  },
+  {
+   "slug": "genetics",
+   "page_len": 97955,
+   "asm_len": 99397,
+   "skipped": null,
+   "segs": [
+    915,
+    912
+   ],
+   "status": "gap",
+   "mismatch": [
+    {
+     "i": 785,
+     "kinds": [
+      "u",
+      "u"
+     ],
+     "reason": "ukey-diff",
+     "a": "<a href=\"../adaptationism/\">adaptationism</a> |\n <a href=\"../altruism-biological/\">altruism: biological</a> |\n <a href=\"../bioethics-moral-reasoning/\">bioethics: and moral reasoning</a> |\n <a href=\"../theories-biological-development/\">biological development: theories of</a> |\n <a href=\"../biology-individual/\">biological individuals</a> |\n <a href=\"../biology-experiment/\">biology: experiment in</a>",
+     "b": "<a href=\"../adaptationism/\">adaptationism</a> |\n <a href=\"../altruism-biological/\">altruism: biological</a> |\n <a href=\"../bioethics-moral-reasoning/\">bioethics: and moral reasoning</a> |\n <a href=\"../theories-biological-development/\">biological development: theories of</a> |\n <a href=\"../biology-individual/\">biological individuals</a> |\n <a href=\"../biology-experiment/\">biology: experiment in</a>",
+     "diff": [
+      {
+       "op": "replace",
+       "a": "l biology: evolution and development</a> |\n <a href=\"../biodiversity/\">ecology: biodiversity</a> |\n <a href=\"../privacy-medicine/\">ethics, biomedical: privacy and medicine</a> |\n <a href=\"../eugenics/\">eugenics</a> |\n <a href=\"../evolution/\"",
+       "b": "l biology: evolution and development</a> |\n <a href=\"../biodiversity/\">ecology: biodiversity</a> |\n <a href=\"../privacy-health/\">ethics, biomedical: privacy in health care and research</a> |\n <a href=\"../eugenics/\">eugenics</a> |\n <a href=\"."
+      },
+      {
+       "op": "replace",
+       "a": "biology: evolution and development</a> |\n <a href=\"../biodiversity/\">ecology: biodiversity</a> |\n <a href=\"../privacy-medicine/\">ethics, biomedical: privacy and medicine</a> |\n <a href=\"../eugenics/\">eugenics</a> |\n <a href=\"../evolution/\">evolut",
+       "b": "biology: evolution and development</a> |\n <a href=\"../biodiversity/\">ecology: biodiversity</a> |\n <a href=\"../privacy-health/\">ethics, biomedical: privacy in health care and research</a> |\n <a href=\"../eugenics/\">eugenics</a> |\n <a href=\"../evo"
+      },
+      {
+       "op": "insert",
+       "a": "> |\n <a href=\"../biodiversity/\">ecology: biodiversity</a> |\n <a href=\"../privacy-medicine/\">ethics, biomedical: privacy and medicine</a> |\n <a href=\"../eugenics/\">eugenics</a> |\n <a href=\"../evolution/\">evolution</a> |\n <a href=\"../feminist",
+       "b": "/a> |\n <a href=\"../biodiversity/\">ecology: biodiversity</a> |\n <a href=\"../privacy-health/\">ethics, biomedical: privacy in health care and research</a> |\n <a href=\"../eugenics/\">eugenics</a> |\n <a href=\"../evolution/\">evolution</a> |\n <a href=\"../feminist"
+      }
+     ]
+    },
+    {
+     "i": 789,
+     "kinds": [
+      "u",
+      "m"
+     ],
+     "reason": "kind-mismatch",
+     "a": "adaptationism | altruism: biological | bioethics: and moral reasoning | biological development: theories of | biological individuals | biology: experiment in | biology: philosophy of | biomedicine, philosophy of | cancer | causation: and manipulability | conservation biology | Darwinism | developmental biology | developmental biology: evolution and development | ecology: biodiversity | ethics, bio",
+     "b": "<!-- #aueditable -->",
+     "diff": [
+      {
+       "op": "insert",
+       "a": "adaptationism | altruism: biological | bioethics: and moral reasoning | biological development: theories of | biological",
+       "b": "<!-- #aueditable -->"
+      },
+      {
+       "op": "delete",
+       "a": "adaptationism | altruism: biological | bioethics: and moral reasoning | biological development: theories of | biological individuals | biolo",
+       "b": "<!-- #aueditable -->"
+      },
+      {
+       "op": "delete",
+       "a": "adaptationism | altruism: biological | bioethics: and moral reasoning | biological development: theories of | biological individuals | biology: experiment in | biology: philosophy of | biomedicine, philosophy of | cancer | causation: and manipulability | conservation biology | Darwinism | developmental biolo",
+       "b": "<!-- #aueditable -->"
+      }
+     ]
+    }
+   ],
+   "first_index": 785
+  },
+  {
+   "slug": "gorampa",
+   "page_len": 79548,
+   "asm_len": 76510,
+   "skipped": null,
+   "segs": [
+    712,
+    749
+   ],
+   "status": "gap",
+   "mismatch": [
+    {
+     "i": 169,
+     "kinds": [
+      "u",
+      "m"
+     ],
+     "reason": "kind-mismatch",
+     "a": "\n[<em>Editor&rsquo;s Note: The following new entry by Ryan Conlon\nreplaces the  <a href=\"https://plato.stanford.edu/archives/fall2026/entries/gorampa/\" target=\"other\">former entry</a>\non this topic by the previous author.</em>]",
+     "b": "<p class=\"smaller\">",
+     "diff": [
+      {
+       "op": "delete",
+       "a": "\n[<em>Editor&rsquo;s Note: The following new entry by Ryan Conlon\nreplaces the  <a href=\"https://plato.stanford.edu/archiv",
+       "b": "<p class=\"smaller\">"
+      },
+      {
+       "op": "replace",
+       "a": "\n[<em>Editor&rsquo;s Note: The following new entry by Ryan Conlon\nreplaces the  <a href=\"https://plato.stanford.edu/archives/fall2026/entrie",
+       "b": "<p class=\"smaller\">"
+      },
+      {
+       "op": "replace",
+       "a": "\n[<em>Editor&rsquo;s Note: The following new entry by Ryan Conlon\nreplaces the  <a href=\"https://plato.stanford.edu/archives/fall2026/entries/gorampa/\" target=\"other\">former entry</a>\non th",
+       "b": "<p class=\"smaller\">"
+      }
+     ]
+    },
+    {
+     "i": 170,
+     "kinds": [
+      "m",
+      "u"
+     ],
+     "reason": "kind-mismatch",
+     "a": "</p>\n",
+     "b": "\n[<em>Editor&rsquo;s Note: The following new entry by Ryan Conlon\nreplaces the\n <a href=\"https://plato.stanford.edu/archives/fall2026/entries/gorampa/\">former entry</a>\n on this topic by the previous author.</em>]",
+     "diff": [
+      {
+       "op": "insert",
+       "a": "</p>\n",
+       "b": "\n[<em>Editor&rsquo;s Note: The following new entry by Ryan Conlon\nreplaces the\n <a href=\"https://plato.stanford.edu/archives/fall2026/entries/gorampa/\">former entry</a>\n on this topic by the previous author.</em>]"
+      },
+      {
+       "op": "replace",
+       "a": "</p>\n",
+       "b": "ntry by Ryan Conlon\nreplaces the\n <a href=\"https://plato.stanford.edu/archives/fall2026/entries/gorampa/\">former entry</a>\n on this topic by the previous author.</em>]"
+      },
+      {
+       "op": "insert",
+       "a": "</p>\n",
+       "b": "y by Ryan Conlon\nreplaces the\n <a href=\"https://plato.stanford.edu/archives/fall2026/entries/gorampa/\">former entry</a>\n on this topic by the previous author.</em>]"
+      }
+     ]
+    }
+   ],
+   "first_index": 169
+  },
+  {
+   "slug": "herder",
+   "page_len": 200353,
+   "asm_len": 200495,
+   "skipped": null,
+   "segs": [
+    1704,
+    1704
+   ],
+   "status": "gap",
+   "mismatch": [
+    {
+     "i": 1049,
+     "kinds": [
+      "u",
+      "u"
+     ],
+     "reason": "ukey-diff",
+     "a": "<em>Ideas for the Philosophy of the History of Humanity</em>\n(1784&ndash;91) plus a very helpful introduction.",
+     "b": "<em>Ideas for the Philosophy of the\nHistory of Humanity</em> (1784&ndash;91)",
+     "diff": [
+      {
+       "op": "replace",
+       "a": "<em>Ideas for the Philosophy of the History of Humanity</em>\n(1784&ndash;91) plus a very helpful introduction.",
+       "b": "<em>Ideas for the Philosophy of the\nHistory of Humanity</em> (1784&ndash;91)"
+      },
+      {
+       "op": "replace",
+       "a": "<em>Ideas for the Philosophy of the History of Humanity</em>\n(1784&ndash;91) plus a very helpful introduction.",
+       "b": "<em>Ideas for the Philosophy of the\nHistory of Humanity</em> (1784&ndash;91)"
+      },
+      {
+       "op": "delete",
+       "a": "<em>Ideas for the Philosophy of the History of Humanity</em>\n(1784&ndash;91) plus a very helpful introduction.",
+       "b": "<em>Ideas for the Philosophy of the\nHistory of Humanity</em> (1784&ndash;91)"
+      }
+     ]
+    },
+    {
+     "i": 1052,
+     "kinds": [
+      "m",
+      "u"
+     ],
+     "reason": "kind-mismatch",
+     "a": "</li>\n\n",
+     "b": " plus a very helpful introduction.",
+     "diff": [
+      {
+       "op": "replace",
+       "a": "</li>\n\n",
+       "b": " plus a very helpful introduction."
+      },
+      {
+       "op": "insert",
+       "a": "</li>\n\n",
+       "b": " plus a very helpful introduction."
+      },
+      {
+       "op": "replace",
+       "a": "</li>\n\n",
+       "b": " plus a very helpful introduction."
+      }
+     ]
+    }
+   ],
+   "first_index": 1049
+  },
+  {
+   "slug": "history",
+   "page_len": 164969,
+   "asm_len": 164789,
+   "skipped": null,
+   "segs": [
+    1719,
+    1726
+   ],
+   "status": "gap",
+   "mismatch": [
+    {
+     "i": 169,
+     "kinds": [
+      "u",
+      "m"
+     ],
+     "reason": "kind-mismatch",
+     "a": "\n[<em>Editor&rsquo;s Note: The following new entry by Jouni-Matti\nKuukkanen replaces the  <a href=\"https://plato.stanford.edu/archives/fall2026/entries/history/\" target=\"other\">former entry</a>\non this topic by the previous author.</em>]",
+     "b": "<p class=\"smaller\">",
+     "diff": [
+      {
+       "op": "delete",
+       "a": "\n[<em>Editor&rsquo;s Note: The following new entry by Jouni-Matti\nKuukkanen replaces the  <a href=\"https://plato.stanford.",
+       "b": "<p class=\"smaller\">"
+      },
+      {
+       "op": "replace",
+       "a": "\n[<em>Editor&rsquo;s Note: The following new entry by Jouni-Matti\nKuukkanen replaces the  <a href=\"https://plato.stanford.edu/archives/fall2",
+       "b": "<p class=\"smaller\">"
+      },
+      {
+       "op": "replace",
+       "a": "\n[<em>Editor&rsquo;s Note: The following new entry by Jouni-Matti\nKuukkanen replaces the  <a href=\"https://plato.stanford.edu/archives/fall2026/entries/history/\" target=\"other\">former entry</a>\non th",
+       "b": "<p class=\"smaller\">"
+      }
+     ]
+    },
+    {
+     "i": 170,
+     "kinds": [
+      "m",
+      "u"
+     ],
+     "reason": "kind-mismatch",
+     "a": "</p>\n",
+     "b": "\n[<em>Editor&rsquo;s Note: The following new entry by Jouni-Matti\nKuukkanen replaces the\n <a href=\"https://plato.stanford.edu/archives/fall2026/entries/history/\">former entry</a>\n on this topic by the previous author.</em>]",
+     "diff": [
+      {
+       "op": "insert",
+       "a": "</p>\n",
+       "b": "\n[<em>Editor&rsquo;s Note: The following new entry by Jouni-Matti\nKuukkanen replaces the\n <a href=\"https://plato.stanford.edu/archives/fall2026/entries/history/\">former entry</a>\n on this topic by the previous author.</em>]"
+      },
+      {
+       "op": "replace",
+       "a": "</p>\n",
+       "b": "uni-Matti\nKuukkanen replaces the\n <a href=\"https://plato.stanford.edu/archives/fall2026/entries/history/\">former entry</a>\n on this topic by the previous author.</em>]"
+      },
+      {
+       "op": "insert",
+       "a": "</p>\n",
+       "b": "-Matti\nKuukkanen replaces the\n <a href=\"https://plato.stanford.edu/archives/fall2026/entries/history/\">former entry</a>\n on this topic by the previous author.</em>]"
+      }
+     ]
+    }
+   ],
+   "first_index": 169
+  },
+  {
+   "slug": "human-genome",
+   "page_len": 177990,
+   "asm_len": 178471,
+   "skipped": null,
+   "segs": [
+    1381,
+    1372
+   ],
+   "status": "gap",
+   "mismatch": [
+    {
+     "i": 1187,
+     "kinds": [
+      "u",
+      "m"
+     ],
+     "reason": "kind-mismatch",
+     "a": "<a href=\"http://www.hugo-international.org/\" target=\"other\">Human Genome Organization (HUGO)</a>",
+     "b": "<li>",
+     "diff": [
+      {
+       "op": "replace",
+       "a": "<a href=\"http://www.hugo-international.org/\" target=\"other\">Human Genome Organization (HUGO)</a>",
+       "b": "<li>"
+      },
+      {
+       "op": "delete",
+       "a": "<a href=\"http://www.hugo-international.org/\" target=\"other\">Human Genome Organization (HUGO)</a>",
+       "b": "<li>"
+      },
+      {
+       "op": "delete",
+       "a": "<a href=\"http://www.hugo-international.org/\" target=\"other\">Human Genome Organization (HUGO)</a>",
+       "b": "<li>"
+      }
+     ]
+    },
+    {
+     "i": 1188,
+     "kinds": [
+      "m",
+      "u"
+     ],
+     "reason": "kind-mismatch",
+     "a": "</li>",
+     "b": "<a href=\"http://www.hugo-international.org/\" target=\"other\">Human Genome Organization (HUGO)</a>",
+     "diff": [
+      {
+       "op": "insert",
+       "a": "</li>",
+       "b": "<a href=\"http://www.hugo-international.org/\" target=\"other\">Human Genome Organization (HUGO)</a>"
+      },
+      {
+       "op": "replace",
+       "a": "</li>",
+       "b": "<a href=\"http://www.hugo-international.org/\" target=\"other\">Human Genome Organization (HUGO)</a>"
+      }
+     ]
+    }
+   ],
+   "first_index": 1187
+  },
+  {
+   "slug": "hume-moral",
+   "page_len": 125766,
+   "asm_len": 124924,
+   "skipped": null,
+   "segs": [
+    984,
+    996
+   ],
+   "status": "gap",
+   "mismatch": [
+    {
+     "i": 791,
+     "kinds": [
+      "m",
+      "u"
+     ],
+     "reason": "kind-mismatch",
+     "a": "</div> \n\n",
+     "b": "Taylor, Jacqueline, 1998, &ldquo;Justice and the Foundations of\nSocial Morality in Hume&rsquo;s Treatise,&rdquo; <em>Hume\nStudies</em>, 24(1): 5&ndash;30.",
+     "diff": [
+      {
+       "op": "insert",
+       "a": "</div> \n\n",
+       "b": "Taylor, Jacqueline, 1998, &ldquo;Justice and the Foundations of\nSocial Morality in Hume&rsquo;s Treatise,&rdquo; <em>Hume\nStudies</em>, 24(1): 5&ndash;30."
+      },
+      {
+       "op": "insert",
+       "a": "</div> \n\n",
+       "b": "queline, 1998, &ldquo;Justice and the Foundations of\nSocial Morality in Hume&rsquo;s Treatise,&rdquo; <em>Hume\nStudies</em>, 24(1): 5&ndash;30."
+      },
+      {
+       "op": "replace",
+       "a": "</div> \n\n",
+       "b": "ldquo;Justice and the Foundations of\nSocial Morality in Hume&rsquo;s Treatise,&rdquo; <em>Hume\nStudies</em>, 24(1): 5&ndash;30."
+      }
+     ]
+    },
+    {
+     "i": 794,
+     "kinds": [
+      "u",
+      "u"
+     ],
+     "reason": "ukey-diff",
+     "a": "Academic Tools",
+     "b": "&ndash;&ndash;&ndash;, 2002, &ldquo;Hume on the Standard of\nVirtue,&rdquo; <em>Journal of Ethics</em>, 6: 43&ndash;62.",
+     "diff": [
+      {
+       "op": "replace",
+       "a": "Academic Tools",
+       "b": "&ndash;&ndash;&ndash;, 2002, &ldquo;Hume on the Standard of\nVirtue,&rdquo; <em>Journal of Ethics</em>, 6: 43&ndash;62."
+      },
+      {
+       "op": "insert",
+       "a": "Academic Tools",
+       "b": "&ndash;&ndash;&ndash;, 2002, &ldquo;Hume on the Standard of\nVirtue,&rdquo; <em>Journal of Ethics</em>, 6: 43&ndash;62."
+      },
+      {
+       "op": "insert",
+       "a": "Academic Tools",
+       "b": "&ndash;&ndash;&ndash;, 2002, &ldquo;Hume on the Standard of\nVirtue,&rdquo; <em>Journal of Ethics</em>, 6: 43&ndash;62."
+      }
+     ]
+    }
+   ],
+   "first_index": 791
+  },
+  {
+   "slug": "informed-consent",
+   "page_len": 116450,
+   "asm_len": 116873,
+   "skipped": null,
+   "segs": [
+    1164,
+    1153
+   ],
+   "status": "gap",
+   "mismatch": [
+    {
+     "i": 1018,
+     "kinds": [
+      "u",
+      "u"
+     ],
+     "reason": "ukey-diff",
+     "a": "<a href=\"../advance-directives/\">advance directives</a> |\n <a href=\"../autonomy-moral/\">autonomy: in moral and political philosophy</a> |\n <a href=\"../personal-autonomy/\">autonomy: personal</a> |\n <a href=\"../contractarianism/\">contractarianism</a> |\n <a href=\"../decision-capacity/\">decision-making capacity</a> |\n <a href=\"../clinical-research/\">ethics, biomedical: clinical research</a> |\n <a href",
+     "b": "<a href=\"../advance-directives/\">advance directives</a> |\n <a href=\"../autonomy-moral/\">autonomy: in moral and political philosophy</a> |\n <a href=\"../personal-autonomy/\">autonomy: personal</a> |\n <a href=\"../contractarianism/\">contractarianism</a> |\n <a href=\"../decision-capacity/\">decision-making capacity</a> |\n <a href=\"../clinical-research/\">ethics, biomedical: clinical research</a> |\n <a href",
+     "diff": [
+      {
+       "op": "replace",
+       "a": "making capacity</a> |\n <a href=\"../clinical-research/\">ethics, biomedical: clinical research</a> |\n <a href=\"../privacy-medicine/\">ethics, biomedical: privacy and medicine</a> |\n <a href=\"../ethics-internet-research/\">ethics: internet resear",
+       "b": "making capacity</a> |\n <a href=\"../clinical-research/\">ethics, biomedical: clinical research</a> |\n <a href=\"../privacy-health/\">ethics, biomedical: privacy in health care and research</a> |\n <a href=\"../ethics-internet-research/\">ethics: in"
+      },
+      {
+       "op": "replace",
+       "a": "king capacity</a> |\n <a href=\"../clinical-research/\">ethics, biomedical: clinical research</a> |\n <a href=\"../privacy-medicine/\">ethics, biomedical: privacy and medicine</a> |\n <a href=\"../ethics-internet-research/\">ethics: internet research</a> ",
+       "b": "king capacity</a> |\n <a href=\"../clinical-research/\">ethics, biomedical: clinical research</a> |\n <a href=\"../privacy-health/\">ethics, biomedical: privacy in health care and research</a> |\n <a href=\"../ethics-internet-research/\">ethics: interne"
+      },
+      {
+       "op": "insert",
+       "a": "ical-research/\">ethics, biomedical: clinical research</a> |\n <a href=\"../privacy-medicine/\">ethics, biomedical: privacy and medicine</a> |\n <a href=\"../ethics-internet-research/\">ethics: internet research</a> |\n <a href=\"../euthanasia-volun",
+       "b": "inical-research/\">ethics, biomedical: clinical research</a> |\n <a href=\"../privacy-health/\">ethics, biomedical: privacy in health care and research</a> |\n <a href=\"../ethics-internet-research/\">ethics: internet research</a> |\n <a href=\"../euthanasia-volun"
+      }
+     ]
+    },
+    {
+     "i": 1022,
+     "kinds": [
+      "u",
+      "m"
+     ],
+     "reason": "kind-mismatch",
+     "a": "advance directives | autonomy: in moral and political philosophy | autonomy: personal | contractarianism | decision-making capacity | ethics, biomedical: clinical research | ethics, biomedical: privacy in health care and research | ethics: internet research | euthanasia: voluntary | liberty: positive and negative | paternalism | privacy | property and ownership | respect | social contract: contemp",
+     "b": "<h3>",
+     "diff": [
+      {
+       "op": "replace",
+       "a": "advance directives | autonomy: in moral and political philosophy | autonomy: personal | contractarianism | decision-making capacity | ethics, biomedical: clinical research | e",
+       "b": "<h3>"
+      },
+      {
+       "op": "replace",
+       "a": "advance directives | autonomy: in moral and political philosophy | autonomy: personal | contractarianism | decision-making capacity | ethics, biomedical: clinical research | ethics, biomedical: privacy in health care and research | ethics: internet research | euthanasia: voluntary | liberty: positive and negative | paternalism | privacy | property and ownership | respect | social contract: contemporary approaches to | trust | well-being",
+       "b": "<h3>"
+      }
+     ]
+    }
+   ],
+   "first_index": 1018
+  },
+  {
+   "slug": "justice-retributive",
+   "page_len": 129200,
+   "asm_len": 123482,
+   "skipped": null,
+   "segs": [
+    1423,
+    1505
+   ],
+   "status": "gap",
+   "mismatch": [
+    {
+     "i": 190,
+     "kinds": [
+      "u",
+      "u"
+     ],
+     "reason": "ukey-diff",
+     "a": "<a href=\"#AppeRetrJust\">1. The Appeal of Retributive Justice</a>",
+     "b": "<a href=\"#IntrRetrTheo\">1. Introducing Retributive Theory</a>\n\n\t",
+     "diff": [
+      {
+       "op": "replace",
+       "a": "<a href=\"#AppeRetrJust\">1. The Appeal of Retributive Justice</a>",
+       "b": "<a href=\"#IntrRetrTheo\">1. Introducing Retributive Theory</a>\n\n\t"
+      },
+      {
+       "op": "replace",
+       "a": "<a href=\"#AppeRetrJust\">1. The Appeal of Retributive Justice</a>",
+       "b": "<a href=\"#IntrRetrTheo\">1. Introducing Retributive Theory</a>\n\n\t"
+      },
+      {
+       "op": "replace",
+       "a": "<a href=\"#AppeRetrJust\">1. The Appeal of Retributive Justice</a>",
+       "b": "<a href=\"#IntrRetrTheo\">1. Introducing Retributive Theory</a>\n\n\t"
+      }
+     ]
+    },
+    {
+     "i": 193,
+     "kinds": [
+      "u",
+      "u"
+     ],
+     "reason": "ukey-diff",
+     "a": "<a href=\"#BackConc\">2. Background Concepts</a>\n   ",
+     "b": "<a href=\"#Puni\">1.1 On Punishment</a>",
+     "diff": [
+      {
+       "op": "replace",
+       "a": "<a href=\"#BackConc\">2. Background Concepts</a>\n   ",
+       "b": "<a href=\"#Puni\">1.1 On Punishment</a>"
+      },
+      {
+       "op": "replace",
+       "a": "<a href=\"#BackConc\">2. Background Concepts</a>\n   ",
+       "b": "<a href=\"#Puni\">1.1 On Punishment</a>"
+      },
+      {
+       "op": "replace",
+       "a": "<a href=\"#BackConc\">2. Background Concepts</a>\n   ",
+       "b": "<a href=\"#Puni\">1.1 On Punishment</a>"
+      }
+     ]
+    }
+   ],
+   "first_index": 190
+  },
+  {
+   "slug": "logic-deontic",
+   "page_len": 186633,
+   "asm_len": 177969,
+   "skipped": null,
+   "segs": [
+    2704,
+    2814
+   ],
+   "status": "gap",
+   "mismatch": [
+    {
+     "i": 442,
+     "kinds": [
+      "m",
+      "u"
+     ],
+     "reason": "kind-mismatch",
+     "a": "<p>\n",
+     "b": "<span class=\"figlabel\">Fig. 1</span>",
+     "diff": [
+      {
+       "op": "insert",
+       "a": "<p>\n",
+       "b": "<span class=\"figlabel\">Fig. 1</span>"
+      },
+      {
+       "op": "insert",
+       "a": "<p>\n",
+       "b": "<span class=\"figlabel\">Fig. 1</span>"
+      },
+      {
+       "op": "replace",
+       "a": "<p>\n",
+       "b": "<span class=\"figlabel\">Fig. 1</span>"
+      }
+     ]
+    },
+    {
+     "i": 443,
+     "kinds": [
+      "u",
+      "m"
+     ],
+     "reason": "kind-mismatch",
+     "a": "<em>Fig. 1</em>",
+     "b": "</p>\n",
+     "diff": [
+      {
+       "op": "delete",
+       "a": "<em>Fig. 1</em>",
+       "b": "</p>\n"
+      },
+      {
+       "op": "replace",
+       "a": "<em>Fig. 1</em>",
+       "b": "</p>\n"
+      },
+      {
+       "op": "insert",
+       "a": "<em>Fig. 1</em>",
+       "b": "</p>\n"
+      }
+     ]
+    }
+   ],
+   "first_index": 442
+  },
+  {
+   "slug": "macroevolution",
+   "page_len": 141237,
+   "asm_len": 141458,
+   "skipped": null,
+   "segs": [
+    1526,
+    1526
+   ],
+   "status": "gap",
+   "mismatch": [
+    {
+     "i": 1393,
+     "kinds": [
+      "u",
+      "m"
+     ],
+     "reason": "kind-mismatch",
+     "a": "Related Entries",
+     "b": "</div>\n\n",
+     "diff": [
+      {
+       "op": "replace",
+       "a": "Related Entries",
+       "b": "</div>\n\n"
+      },
+      {
+       "op": "delete",
+       "a": "Related Entries",
+       "b": "</div>\n\n"
+      },
+      {
+       "op": "replace",
+       "a": "Related Entries",
+       "b": "</div>\n\n"
+      }
+     ]
+    },
+    {
+     "i": 1396,
+     "kinds": [
+      "u",
+      "u"
+     ],
+     "reason": "ukey-diff",
+     "a": "<a href=\"../adaptationism/\">adaptationism</a> |\n <a href=\"../biology-individual/\">biological individuals</a> |\n <a href=\"../biology-philosophy/\">biology: philosophy of</a> |\n <a href=\"../creationism/\">creationism</a> |\n <a href=\"../darwinism/\">Darwinism</a> |\n <a href=\"../evolution/\">evolution</a> |\n <a href=\"../fitness/\">fitness</a> |\n <a href=\"../genetic-drift/\">genetic drift</a> |\n <a href=\"../",
+     "b": "Related Entries",
+     "diff": [
+      {
+       "op": "replace",
+       "a": "<a href=\"../adaptationism/\">adaptationism</a> |\n <a href=\"../biology-individual/\">biological individuals</a> |\n <a href=\"../b",
+       "b": "Related Entries"
+      },
+      {
+       "op": "delete",
+       "a": "<a href=\"../adaptationism/\">adaptationism</a> |\n <a href=\"../biology-individual/\">biological individuals</a> |\n <a href=\"../biology-philosophy/\">biology: philosophy of</a> |\n <a href=\"../creationism/\">creationism</a> |\n <a href=\"../darwinism/\">Darwinism</a> |\n <a href=\"../evolution/\">evolution</a> |\n <a href=\"../fitness/\">fitness</a> |\n <a href=\"../genetic-drift/\">genetic drift</a> |\n <a href=\"../population-genetics/\">genetics: population</a> |\n <a href=\"../history/\">history, philosophy of</a> |\n <a href=\"../laws-of-na",
+       "b": "Related Entries"
+      },
+      {
+       "op": "delete",
+       "a": "olution</a> |\n <a href=\"../fitness/\">fitness</a> |\n <a href=\"../genetic-drift/\">genetic drift</a> |\n <a href=\"../population-genetics/\">genetics: population</a> |\n <a href=\"../history/\">history, philosophy of</a> |\n <a href=\"../laws-of-nature/\">l",
+       "b": "Related Entries"
+      }
+     ]
+    }
+   ],
+   "first_index": 1393
+  },
+  {
+   "slug": "neuroethics",
+   "page_len": 154120,
+   "asm_len": 154233,
+   "skipped": null,
+   "segs": [
+    1372,
+    1364
+   ],
+   "status": "gap",
+   "mismatch": [
+    {
+     "i": 1223,
+     "kinds": [
+      "u",
+      "m"
+     ],
+     "reason": "kind-mismatch",
+     "a": "Related Entries",
+     "b": "</div>\n\n",
+     "diff": [
+      {
+       "op": "replace",
+       "a": "Related Entries",
+       "b": "</div>\n\n"
+      },
+      {
+       "op": "delete",
+       "a": "Related Entries",
+       "b": "</div>\n\n"
+      },
+      {
+       "op": "replace",
+       "a": "Related Entries",
+       "b": "</div>\n\n"
+      }
+     ]
+    },
+    {
+     "i": 1226,
+     "kinds": [
+      "u",
+      "u"
+     ],
+     "reason": "ukey-diff",
+     "a": "<a href=\"../autonomy-moral/\">autonomy: in moral and political philosophy</a> |\n <a href=\"../personal-autonomy/\">autonomy: personal</a> |\n <a href=\"../implicit-bias/\">bias, implicit</a> |\n <a href=\"../decision-capacity/\">decision-making capacity</a> |\n <a href=\"../clinical-research/\">ethics, biomedical: clinical research</a> |\n <a href=\"../justice-inequality-health/\">ethics, biomedical: justice, in",
+     "b": "Related Entries",
+     "diff": [
+      {
+       "op": "replace",
+       "a": "<a href=\"../autonomy-moral/\">autonomy: in moral and political philosophy</a> |\n <a href=\"../personal-autonomy/\">autonomy:",
+       "b": "Related Entries"
+      },
+      {
+       "op": "delete",
+       "a": "<a href=\"../autonomy-moral/\">autonomy: in moral and political philosophy</a> |\n <a href=\"../personal-autonomy/\">autonomy: personal</a>",
+       "b": "Related Entries"
+      },
+      {
+       "op": "delete",
+       "a": "<a href=\"../autonomy-moral/\">autonomy: in moral and political philosophy</a> |\n <a href=\"../personal-autonomy/\">autonomy: personal</a> |\n <a href=\"../implicit-bias/\">bias, implicit</a> |\n <a href=\"../decision-capacity/\">decision-making capacity</a> |\n <a href=\"../clinical-research/\">ethics, biomedical: clinical research</a> |\n <a href=\"../justice-inequality-health/\">ethics, biomedical: justice, inequality, and health</a> |\n <a href=\"../privacy-medicine/\">ethics, biomedical: privacy and medicine</a> |\n <a href=\"../freewill/\">free will</a> |\n <a href=\"../health-disease/\">health</a> |\n <a href=\"../enhancement/\">human enhancement</a> |\n <a href=\"../informed-consent/\">informed consent</a> |\n <a href=\"../moral-responsibility/\">moral responsibility</a> |\n <a href=\"../identity-personal/\">persona",
+       "b": "Related Entries"
+      }
+     ]
+    }
+   ],
+   "first_index": 1223
+  },
+  {
+   "slug": "oakeshott",
+   "page_len": 88890,
+   "asm_len": 88990,
+   "skipped": null,
+   "segs": [
+    800,
+    798
+   ],
+   "status": "gap",
+   "mismatch": [
+    {
+     "i": 392,
+     "kinds": [
+      "u",
+      "m"
+     ],
+     "reason": "kind-mismatch",
+     "a": "Bibliography",
+     "b": "<h2 id=\"Bib\">",
+     "diff": [
+      {
+       "op": "insert",
+       "a": "Bibliography",
+       "b": "<h2 id=\"Bib\">"
+      },
+      {
+       "op": "replace",
+       "a": "Bibliography",
+       "b": "<h2 id=\"Bib\">"
+      }
+     ]
+    },
+    {
+     "i": 393,
+     "kinds": [
+      "m",
+      "u"
+     ],
+     "reason": "kind-mismatch",
+     "a": "</h2>\n\n",
+     "b": "Bibliography",
+     "diff": [
+      {
+       "op": "replace",
+       "a": "</h2>\n\n",
+       "b": "Bibliography"
+      },
+      {
+       "op": "replace",
+       "a": "</h2>\n\n",
+       "b": "Bibliography"
+      }
+     ]
+    }
+   ],
+   "first_index": 392
+  },
+  {
+   "slug": "organ-donation",
+   "page_len": 102069,
+   "asm_len": 102417,
+   "skipped": null,
+   "segs": [
+    1182,
+    1179
+   ],
+   "status": "gap",
+   "mismatch": [
+    {
+     "i": 1044,
+     "kinds": [
+      "u",
+      "u"
+     ],
+     "reason": "ukey-diff",
+     "a": "<a href=\"https://plato.stanford.edu/entries/autonomy-moral/\">autonomy in moral and political philosophy</a> |\n <a href=\"../principle-beneficence/\">beneficence, principle of</a> |\n <a href=\"../coercion/\">coercion</a> |\n <a href=\"../death-definition/\">death: definition of </a> |\n <a href=\"../decision-capacity/\">decision-making capacity</a> |\n <a href=\"../clinical-research/\">ethics, biomedical: clini",
+     "b": "<a href=\"https://plato.stanford.edu/entries/autonomy-moral/\">autonomy in moral and political philosophy</a> |\n <a href=\"../principle-beneficence/\">beneficence, principle of</a> |\n <a href=\"../coercion/\">coercion</a> |\n <a href=\"../death-definition/\">death: definition of </a> |\n <a href=\"../decision-capacity/\">decision-making capacity</a> |\n <a href=\"../clinical-research/\">ethics, biomedical: clini",
+     "diff": [
+      {
+       "op": "replace",
+       "a": " <a href=\"../justice-inequality-health/\">ethics, biomedical: justice, inequality, and health</a> |\n <a href=\"../privacy-medicine/\">ethics, biomedical: privacy and medicine</a> |\n <a href=\"../informed-consent/\">informed consent</a> |\n <a href",
+       "b": " <a href=\"../justice-inequality-health/\">ethics, biomedical: justice, inequality, and health</a> |\n <a href=\"../privacy-health/\">ethics, biomedical: privacy in health care and research</a> |\n <a href=\"../informed-consent/\">informed consent</"
+      },
+      {
+       "op": "replace",
+       "a": "a href=\"../justice-inequality-health/\">ethics, biomedical: justice, inequality, and health</a> |\n <a href=\"../privacy-medicine/\">ethics, biomedical: privacy and medicine</a> |\n <a href=\"../informed-consent/\">informed consent</a> |\n <a href=\"../ju",
+       "b": "a href=\"../justice-inequality-health/\">ethics, biomedical: justice, inequality, and health</a> |\n <a href=\"../privacy-health/\">ethics, biomedical: privacy in health care and research</a> |\n <a href=\"../informed-consent/\">informed consent</a> |\n"
+      },
+      {
+       "op": "insert",
+       "a": "\">ethics, biomedical: justice, inequality, and health</a> |\n <a href=\"../privacy-medicine/\">ethics, biomedical: privacy and medicine</a> |\n <a href=\"../informed-consent/\">informed consent</a> |\n <a href=\"../justice-distributive/\">justice: d",
+       "b": "h/\">ethics, biomedical: justice, inequality, and health</a> |\n <a href=\"../privacy-health/\">ethics, biomedical: privacy in health care and research</a> |\n <a href=\"../informed-consent/\">informed consent</a> |\n <a href=\"../justice-distributive/\">justice: d"
+      }
+     ]
+    },
+    {
+     "i": 1048,
+     "kinds": [
+      "u",
+      "m"
+     ],
+     "reason": "kind-mismatch",
+     "a": "<a href=\"https://plato.stanford.edu/entries/autonomy-moral/\" target=\"other\">autonomy in moral and political philosophy</a> | beneficence, principle of | coercion | death: definition of | decision-making capacity | ethics, biomedical: clinical research | ethics, biomedical: justice, inequality, and health | ethics, biomedical: privacy in health care and research | informed consent | justice: distri",
+     "b": "<h3>",
+     "diff": [
+      {
+       "op": "delete",
+       "a": "<a href=\"https://plato.stanford.edu/entries/autonomy-moral/\" target=\"other\">autonomy in moral and political philosophy</a> ",
+       "b": "<h3>"
+      },
+      {
+       "op": "replace",
+       "a": "<a href=\"https://plato.stanford.edu/entries/autonomy-moral/\" target=\"other\">autonomy in moral and political philosophy</a> | beneficence, principle of | coercion | death: definition of | decision",
+       "b": "<h3>"
+      },
+      {
+       "op": "delete",
+       "a": "<a href=\"https://plato.stanford.edu/entries/autonomy-moral/\" target=\"other\">autonomy in moral and political philosophy</a> | beneficence, principle of | coercion | death: definition of | decision-making capacity | ethics, biomedical: clinical research | ethics, biomedical: justice, inequality, and health | ethics, biomedical: privacy in health care and research | informed consent | justice: distributive | libertarianism | mental disorder | paternalism | respect | sale of human organs",
+       "b": "<h3>"
+      }
+     ]
+    }
+   ],
+   "first_index": 1044
+  },
+  {
+   "slug": "organs-sale",
+   "page_len": 92579,
+   "asm_len": 92785,
+   "skipped": null,
+   "segs": [
+    1145,
+    1132
+   ],
+   "status": "gap",
+   "mismatch": [
+    {
+     "i": 459,
+     "kinds": [
+      "m",
+      "u"
+     ],
+     "reason": "kind-mismatch",
+     "a": "<p>",
+     "b": " Kidneys may then be different in practical\nrespects from (say) blood. For if there is no substantial system of\nfree donation in place, then free donation cannot be undermined by\npermitting sale. But if an almost adequate system of free donation\ndoes exist (as, in many countries, it does with blood) then there is a\nserious possibility of its being undermined. Thus, the argument which\nsays that wha",
+     "diff": [
+      {
+       "op": "replace",
+       "a": "<p>",
+       "b": " Kidneys may then be different in practical\nrespects from (say) blood. For if there is no substantial system of\nfree donation in place, then free donation"
+      },
+      {
+       "op": "replace",
+       "a": "<p>",
+       "b": " Kidneys may then be different in practical\nrespects from (say) blood. For if there is no substantial system of\nfree donation in place, then free donation cannot be undermined by\npermitting sale. But if an almost adequate system of free donation\ndoes exist (as, in many countries, it does with blood) then there is a\nserious possibility of its being undermined. Thus, the argument which\nsays that what is wrong with sale is that free donation would be\nundermined might well work for blood, even if it does not for kidneys.\nThe same might be true of the arguments in favour of an altruistic\nblood system proposed by Titmuss and others. Perhaps the voluntary\nblood donation system (and indeed a voluntary posthumous organ\ndonation system) can be used as a method of encouraging a valuable\nculture of altruism, but this is much less likely to work in the case\nof living organ donation (Archard 2002; Campbell 2009; Titmuss 1997).\n\n"
+      }
+     ]
+    },
+    {
+     "i": 460,
+     "kinds": [
+      "u",
+      "m"
+     ],
+     "reason": "kind-mismatch",
+     "a": "\nKidneys may then be different in practical respects from (say) blood.\nFor if there is no substantial system of free donation in place, then\nfree donation cannot be undermined by permitting sale. But if an\nalmost adequate system of free donation does exist (as, in many\ncountries, it does with blood) then there is a serious possibility of\nits being undermined. Thus, the argument which says that wha",
+     "b": "<p>",
+     "diff": [
+      {
+       "op": "replace",
+       "a": "\nKidneys may then be different in practical respects from (say) blood.\nFor if there is no substantial system of free donation in place, then\nfree donation",
+       "b": "<p>"
+      },
+      {
+       "op": "replace",
+       "a": "\nKidneys may then be different in practical respects from (say) blood.\nFor if there is no substantial system of free donation in place, then\nfree donation cannot be undermined by permitting sale. But if an\nalmost adequate system of free donation does exist (as, in many\ncountries, it does with blood) then there is a serious possibility of\nits being undermined. Thus, the argument which says that what is wrong\nwith sale is that free donation would be undermined might well work\nfor blood, even if it does not for kidneys. The same might be true of\nthe arguments in favour of an altruistic blood system proposed by\nTitmuss and others. Perhaps the voluntary blood donation system (and\nindeed a voluntary posthumous organ donation system) can be used as a\nmethod of encouraging a valuable culture of altruism, but this is much\nless likely to work in the case of living organ donation (Archard\n2002; Campbell 2009; Titmuss 1997).",
+       "b": "<p>"
+      }
+     ]
+    }
+   ],
+   "first_index": 459
+  },
+  {
+   "slug": "philosophy-mexico",
+   "page_len": 141257,
+   "asm_len": 141787,
+   "skipped": null,
+   "segs": [
+    1470,
+    1469
+   ],
+   "status": "gap",
+   "mismatch": [
+    {
+     "i": 629,
+     "kinds": [
+      "u",
+      "u"
+     ],
+     "reason": "ukey-diff",
+     "a": "\nOne challenge to studying Mexican philosophy outside Mexico,\nparticularly in the United States, has been the lack of resources in\nEnglish. However, over the past several years, a group of scholars\nhave begun to produce translations of and commentaries on canonical\ntexts. One notable example is <em>Mexican Philosophy in the 20<sup>th</sup>\nCentury: Essential Readings</em>, edited by Carlos Alberto",
+     "b": "\nOne challenge to studying Mexican philosophy outside Mexico,\nparticularly in the United States, has been the lack of resources in\nEnglish. However, over the past several years, a group of scholars\nhave begun to produce translations of and commentaries on canonical\ntexts. One notable example is <em>Mexican Philosophy in the\n20<sup>th</sup> Century: Essential Readings</em>, edited by Carlos\nAlberto",
+     "diff": [
+      {
+       "op": "replace",
+       "a": "gun to produce translations of and commentaries on canonical\ntexts. One notable example is <em>Mexican Philosophy in the 20<sup>th</sup>\nCentury: Essential Readings</em>, edited by Carlos Alberto\nS&aacute;nchez and Robert Eli Sanchez, Jr. (F",
+       "b": "gun to produce translations of and commentaries on canonical\ntexts. One notable example is <em>Mexican Philosophy in the\n20<sup>th</sup> Century: Essential Readings</em>, edited by Carlos\nAlberto S&aacute;nchez and Robert Eli Sanchez, Jr. (F"
+      },
+      {
+       "op": "replace",
+       "a": "ranslations of and commentaries on canonical\ntexts. One notable example is <em>Mexican Philosophy in the 20<sup>th</sup>\nCentury: Essential Readings</em>, edited by Carlos Alberto\nS&aacute;nchez and Robert Eli Sanchez, Jr. (For future projec",
+       "b": "ranslations of and commentaries on canonical\ntexts. One notable example is <em>Mexican Philosophy in the\n20<sup>th</sup> Century: Essential Readings</em>, edited by Carlos\nAlberto S&aacute;nchez and Robert Eli Sanchez, Jr. (For future\nprojec"
+      },
+      {
+       "op": "replace",
+       "a": " One notable example is <em>Mexican Philosophy in the 20<sup>th</sup>\nCentury: Essential Readings</em>, edited by Carlos Alberto\nS&aacute;nchez and Robert Eli Sanchez, Jr. (For future projects\nrelated to making Mexican philosophy more widely",
+       "b": " One notable example is <em>Mexican Philosophy in the\n20<sup>th</sup> Century: Essential Readings</em>, edited by Carlos\nAlberto S&aacute;nchez and Robert Eli Sanchez, Jr. (For future\nprojects related to making Mexican philosophy more widely"
+      }
+     ]
+    },
+    {
+     "i": 631,
+     "kinds": [
+      "m",
+      "u"
+     ],
+     "reason": "kind-mismatch",
+     "a": "<p>",
+     "b": "\nThe APA&rsquo;s <em>Studies on Hispanic/Latino Issues in\nPhilosophy</em> is another valuable source of information and research\n(see\n <a href=\"#Oth\">Other Internet Resources</a>).",
+     "diff": [
+      {
+       "op": "insert",
+       "a": "<p>",
+       "b": "\nThe APA&rsquo;s <em>Studies on Hispanic/Latino Issues in\nPhilosophy</em> is another valuable source of information and research\n(see\n <a"
+      },
+      {
+       "op": "insert",
+       "a": "<p>",
+       "b": "\nThe APA&rsquo;s <em>Studies on Hispanic/Latino Issues in\nPhilosophy</em> is another valuable source of information and research\n(see\n <a href=\"#Oth\">Other"
+      },
+      {
+       "op": "insert",
+       "a": "<p>",
+       "b": "\nThe APA&rsquo;s <em>Studies on Hispanic/Latino Issues in\nPhilosophy</em> is another valuable source of information and research\n(see\n <a href=\"#Oth\">Other Internet Resources</a>)."
+      }
+     ]
+    }
+   ],
+   "first_index": 629
+  },
+  {
+   "slug": "phylogenetic-inference",
+   "page_len": 198043,
+   "asm_len": 197389,
+   "skipped": null,
+   "segs": [
+    1824,
+    1819
+   ],
+   "status": "gap",
+   "mismatch": [
+    {
+     "i": 271,
+     "kinds": [
+      "m",
+      "u"
+     ],
+     "reason": "kind-mismatch",
+     "a": "<p>\n",
+     "b": "<span class=\"figlabel\">Figure 1</span> Phylogenetic (or evolutionary)\ntrees have become commonplace in biology research articles. This tree\ndisplays a recent hypothesis on the relative placement of lungfish and\ncoelacanth in the evolutionary history of tetrapods (Amemiya et al.\n2013: 312, fig. 1). [An\n <a href=\"figdesc.html#TetraNaturePhylo\">extended description of figure 6</a>\n is in the suppleme",
+     "diff": [
+      {
+       "op": "insert",
+       "a": "<p>\n",
+       "b": "<span class=\"figlabel\">Figure 1</span> Phylogenetic (or evolutionary)\ntrees have become commonplace in biology research ar"
+      },
+      {
+       "op": "insert",
+       "a": "<p>\n",
+       "b": "<span class=\"figlabel\">Figure 1</span> Phylogenetic (or evolutionary)\ntrees have become commonplace in biology research articles. This tree\ndisplays a recent hypothesis on the relative placement of lungfish and\ncoelacanth in the evolutionary history of tetrapods (Amemiya et al.\n2013: 312, fig. 1). [An\n <a href=\"figdesc.html#TetraNaturePhylo\">extended description of figure 6</a>\n is in the supplement.]"
+      },
+      {
+       "op": "insert",
+       "a": "<p>\n",
+       "b": "s (Amemiya et al.\n2013: 312, fig. 1). [An\n <a href=\"figdesc.html#TetraNaturePhylo\">extended description of figure 6</a>\n is in the supplement.]"
+      }
+     ]
+    },
+    {
+     "i": 272,
+     "kinds": [
+      "u",
+      "m"
+     ],
+     "reason": "kind-mismatch",
+     "a": "<em>Figure 1</em> Phylogenetic (or evolutionary) trees have become\ncommonplace in biology research articles. This tree displays a recent\nhypothesis on the relative placement of lungfish and coelacanth in the\nevolutionary history of tetrapods (Amemiya et al. 2013: 312, fig. 1).\n[An  <a href=\"figdesc.html#TetraNaturePhylo\">extended description of figure 6</a>\nis in the supplement.]",
+     "b": "</p>\n",
+     "diff": [
+      {
+       "op": "delete",
+       "a": "<em>Figure 1</em> Phylogenetic (or evolutionary) trees have become\ncommonplace in biology research articles. This tree displays a re",
+       "b": "</p>\n"
+      },
+      {
+       "op": "delete",
+       "a": "<em>Figure 1</em> Phylogenetic (or evolutionary) trees have become\ncommonplace in biology research articles. This tree displays a recent\nhypothesis on the relative placement of lungfish and coe",
+       "b": "</p>\n"
+      },
+      {
+       "op": "delete",
+       "a": "<em>Figure 1</em> Phylogenetic (or evolutionary) trees have become\ncommonplace in biology research articles. This tree displays a recent\nhypothesis on the relative placement of lungfish and coelacanth in the\nevolutionary history of tetrapods (Amemiya et al. 2013: 312, fig. 1).\n[An  <a href=\"figdesc.html#TetraNaturePhylo\">extended description of figure 6</a>\nis in the supplement.]",
+       "b": "</p>\n"
+      }
+     ]
+    }
+   ],
+   "first_index": 271
+  },
+  {
+   "slug": "plato-sophstate",
+   "page_len": 141046,
+   "asm_len": 135342,
+   "skipped": null,
+   "segs": [
+    1247,
+    1343
+   ],
+   "status": "gap",
+   "mismatch": [
+    {
+     "i": 853,
+     "kinds": [
+      "m",
+      "u"
+     ],
+     "reason": "kind-mismatch",
+     "a": "<li>",
+     "b": "G&oacute;mez-Lobo, A., 1977, &ldquo;Plato&rsquo;s Description of\nDialectic in the <em>Sophist</em> 253d1&ndash;e2,&rdquo;\n<em>Phronesis</em>, 22: 29&ndash;47.",
+     "diff": [
+      {
+       "op": "insert",
+       "a": "<li>",
+       "b": "G&oacute;mez-Lobo, A., 1977, &ldquo;Plato&rsquo;s Description of\nDialectic in the <em>Sophist</em> 253d1&ndash;e2,&rdquo;\n<em>Phronesis</em>, 22: 29&ndash;47."
+      },
+      {
+       "op": "replace",
+       "a": "<li>",
+       "b": "G&oacute;mez-Lobo, A., 1977, &ldquo;Plato&rsquo;s Description of\nDialectic in the <em>Sophist</em> 253d1&ndash;e2,&rdquo;\n<em>Phronesis</em>, 22: 29&ndash;47."
+      },
+      {
+       "op": "insert",
+       "a": "<li>",
+       "b": "G&oacute;mez-Lobo, A., 1977, &ldquo;Plato&rsquo;s Description of\nDialectic in the <em>Sophist</em> 253d1&ndash;e2,&rdquo;\n<em>Phronesis</em>, 22: 29&ndash;47."
+      }
+     ]
+    },
+    {
+     "i": 854,
+     "kinds": [
+      "u",
+      "m"
+     ],
+     "reason": "kind-mismatch",
+     "a": "G&oacute;mez-Lobo, A., 1977, &ldquo;Plato&rsquo;s Description of\nDialectic in the <em>Sophist</em> 253d1&ndash;e2,&rdquo; <em>Phronesis</em>,\n22: 29&ndash;47.",
+     "b": "</li>\n\n",
+     "diff": [
+      {
+       "op": "delete",
+       "a": "G&oacute;mez-Lobo, A., 1977, &ldquo;Plato&rsquo;s Description of\nDialectic in the <em>Sophist</em> 253d1&ndash;e2,&rdquo; <em>Phronesis</em>,\n22: 29&ndash;47.",
+       "b": "</li>\n\n"
+      },
+      {
+       "op": "replace",
+       "a": "G&oacute;mez-Lobo, A., 1977, &ldquo;Plato&rsquo;s Description of\nDialectic in the <em>Sophist</em> 253d1&ndash;e2,&rdquo; <em>Phronesis</em>,\n22: 29&ndash;47.",
+       "b": "</li>\n\n"
+      },
+      {
+       "op": "delete",
+       "a": "G&oacute;mez-Lobo, A., 1977, &ldquo;Plato&rsquo;s Description of\nDialectic in the <em>Sophist</em> 253d1&ndash;e2,&rdquo; <em>Phronesis</em>,\n22: 29&ndash;47.",
+       "b": "</li>\n\n"
+      }
+     ]
+    }
+   ],
+   "first_index": 853
+  },
+  {
+   "slug": "privacy",
+   "page_len": 187377,
+   "asm_len": 187545,
+   "skipped": null,
+   "segs": [
+    2152,
+    2141
+   ],
+   "status": "gap",
+   "mismatch": [
+    {
+     "i": 2014,
+     "kinds": [
+      "u",
+      "u"
+     ],
+     "reason": "ukey-diff",
+     "a": "<a href=\"../ethics-ai/\">artificial intelligence: ethics of</a> |\n <a href=\"../autonomy-moral/\">autonomy: in moral and political philosophy</a> |\n <a href=\"../privacy-medicine/\">ethics, biomedical: privacy and medicine</a> |\n <a href=\"../feminism-law/\">feminist philosophy, interventions: philosophy of law</a> |\n <a href=\"../it-privacy/\">information technology: and privacy</a> |\n <a href=\"../legal-r",
+     "b": "<a href=\"../ethics-ai/\">artificial intelligence: ethics of</a> |\n <a href=\"../autonomy-moral/\">autonomy: in moral and political philosophy</a> |\n <a href=\"../privacy-health/\">ethics, biomedical: privacy in health care and research</a> |\n <a href=\"../feminism-law/\">feminist philosophy, interventions: philosophy of law</a> |\n <a href=\"../it-privacy/\">information technology: and privacy</a> |\n <a hre",
+     "diff": [
+      {
+       "op": "replace",
+       "a": "e: ethics of</a> |\n <a href=\"../autonomy-moral/\">autonomy: in moral and political philosophy</a> |\n <a href=\"../privacy-medicine/\">ethics, biomedical: privacy and medicine</a> |\n <a href=\"../feminism-law/\">feminist philosophy, interventions:",
+       "b": "e: ethics of</a> |\n <a href=\"../autonomy-moral/\">autonomy: in moral and political philosophy</a> |\n <a href=\"../privacy-health/\">ethics, biomedical: privacy in health care and research</a> |\n <a href=\"../feminism-law/\">feminist philosophy, i"
+      },
+      {
+       "op": "replace",
+       "a": " ethics of</a> |\n <a href=\"../autonomy-moral/\">autonomy: in moral and political philosophy</a> |\n <a href=\"../privacy-medicine/\">ethics, biomedical: privacy and medicine</a> |\n <a href=\"../feminism-law/\">feminist philosophy, interventions: philos",
+       "b": " ethics of</a> |\n <a href=\"../autonomy-moral/\">autonomy: in moral and political philosophy</a> |\n <a href=\"../privacy-health/\">ethics, biomedical: privacy in health care and research</a> |\n <a href=\"../feminism-law/\">feminist philosophy, interv"
+      },
+      {
+       "op": "insert",
+       "a": "y-moral/\">autonomy: in moral and political philosophy</a> |\n <a href=\"../privacy-medicine/\">ethics, biomedical: privacy and medicine</a> |\n <a href=\"../feminism-law/\">feminist philosophy, interventions: philosophy of law</a> |\n <a href=\"../",
+       "b": "omy-moral/\">autonomy: in moral and political philosophy</a> |\n <a href=\"../privacy-health/\">ethics, biomedical: privacy in health care and research</a> |\n <a href=\"../feminism-law/\">feminist philosophy, interventions: philosophy of law</a> |\n <a href=\"../"
+      }
+     ]
+    },
+    {
+     "i": 2018,
+     "kinds": [
+      "u",
+      "m"
+     ],
+     "reason": "kind-mismatch",
+     "a": "artificial intelligence: ethics of | autonomy: in moral and political philosophy | ethics, biomedical: privacy in health care and research | feminist philosophy, interventions: philosophy of law | information technology: and privacy | legal rights | liberty: positive and negative | rights | rights: human | torts, theories of the common law of | value: intrinsic vs. extrinsic",
+     "b": "<!-- #aueditable -->",
+     "diff": [
+      {
+       "op": "replace",
+       "a": "artificial intelligence: ethics of | autonomy: in moral and political philosophy | ethics, biomedical: privacy in health care and ",
+       "b": "<!-- #aueditable -->"
+      },
+      {
+       "op": "replace",
+       "a": "artificial intelligence: ethics of | autonomy: in moral and political philosophy | ethics, biomedical: privacy in health care and research | feminist philoso",
+       "b": "<!-- #aueditable -->"
+      },
+      {
+       "op": "delete",
+       "a": "artificial intelligence: ethics of | autonomy: in moral and political philosophy | ethics, biomedical: privacy in health care and research | feminist philosophy, interventions: philosophy of law | information techno",
+       "b": "<!-- #aueditable -->"
+      }
+     ]
+    }
+   ],
+   "first_index": 2014
+  },
+  {
+   "slug": "progress",
+   "page_len": 99438,
+   "asm_len": 99713,
+   "skipped": null,
+   "segs": [
+    907,
+    896
+   ],
+   "status": "gap",
+   "mismatch": [
+    {
+     "i": 769,
+     "kinds": [
+      "u",
+      "u"
+     ],
+     "reason": "ukey-diff",
+     "a": "<a href=\"../adorno/\">Adorno, Theodor W.</a> |\n <a href=\"../critical-theory/\">critical theory</a> |\n <a href=\"../enlightenment/\">Enlightenment</a> |\n <a href=\"../hegel/\">Hegel, Georg Wilhelm Friedrich</a> |\n <a href=\"../history/\">history, philosophy of</a> |\n <a href=\"../kant-social-political/\">Kant, Immanuel: social and political philosophy</a> |\n <a href=\"../marx/\">Marx, Karl</a> |\n <a href=\"../m",
+     "b": "<a href=\"../adorno/\">Adorno, Theodor W.</a> |\n <a href=\"../critical-theory/\">critical theory</a> |\n <a href=\"../enlightenment/\">Enlightenment</a> |\n <a href=\"../hegel/\">Hegel, Georg Wilhelm Friedrich</a> |\n <a href=\"../history/\">history and historiography, philosophy of</a> |\n <a href=\"../kant-social-political/\">Kant, Immanuel: social and political philosophy</a> |\n <a href=\"../marx/\">Marx, Karl</",
+     "diff": [
+      {
+       "op": "insert",
+       "a": "ightenment/\">Enlightenment</a> |\n <a href=\"../hegel/\">Hegel, Georg Wilhelm Friedrich</a> |\n <a href=\"../history/\">history, philosophy of</a> |\n <a href=\"../kant-social-political/\">Kant, Immanuel: social and political philosophy</a> |\n <a hr",
+       "b": "ightenment/\">Enlightenment</a> |\n <a href=\"../hegel/\">Hegel, Georg Wilhelm Friedrich</a> |\n <a href=\"../history/\">history and historiography, philosophy of</a> |\n <a href=\"../kant-social-political/\">Kant, Immanuel: social and political philosophy</a> |\n <a hr"
+      }
+     ]
+    },
+    {
+     "i": 773,
+     "kinds": [
+      "u",
+      "m"
+     ],
+     "reason": "kind-mismatch",
+     "a": "Adorno, Theodor W. | critical theory | Enlightenment | Hegel, Georg Wilhelm Friedrich | history and historiography, philosophy of | Kant, Immanuel: social and political philosophy | Marx, Karl | moral realism | moral relativism | postmodernism | scientific progress",
+     "b": "<!-- #aueditable -->",
+     "diff": [
+      {
+       "op": "replace",
+       "a": "Adorno, Theodor W. | critical theory | Enlightenment | Hegel, Georg Wilhelm Friedrich | history and historiography, philo",
+       "b": "<!-- #aueditable -->"
+      },
+      {
+       "op": "delete",
+       "a": "Adorno, Theodor W. | critical theory | Enlightenment | Hegel, Georg Wilhelm Friedrich | history and historiography, philosophy of | Kant, Imman",
+       "b": "<!-- #aueditable -->"
+      },
+      {
+       "op": "delete",
+       "a": "Adorno, Theodor W. | critical theory | Enlightenment | Hegel, Georg Wilhelm Friedrich | history and historiography, philosophy of | Kant, Immanuel:",
+       "b": "<!-- #aueditable -->"
+      }
+     ]
+    }
+   ],
+   "first_index": 769
+  },
+  {
+   "slug": "publichealth-ethics",
+   "page_len": 268453,
+   "asm_len": 268885,
+   "skipped": null,
+   "segs": [
+    2136,
+    2127
+   ],
+   "status": "gap",
+   "mismatch": [
+    {
+     "i": 642,
+     "kinds": [
+      "u",
+      "m"
+     ],
+     "reason": "kind-mismatch",
+     "a": "<em>Measure</em>",
+     "b": "<td>",
+     "diff": [
+      {
+       "op": "replace",
+       "a": "<em>Measure</em>",
+       "b": "<td>"
+      },
+      {
+       "op": "delete",
+       "a": "<em>Measure</em>",
+       "b": "<td>"
+      }
+     ]
+    },
+    {
+     "i": 643,
+     "kinds": [
+      "m",
+      "u"
+     ],
+     "reason": "kind-mismatch",
+     "a": "</td>",
+     "b": "<em>Measure</em>",
+     "diff": [
+      {
+       "op": "insert",
+       "a": "</td>",
+       "b": "<em>Measure</em>"
+      },
+      {
+       "op": "replace",
+       "a": "</td>",
+       "b": "<em>Measure</em>"
+      }
+     ]
+    }
+   ],
+   "first_index": 642
+  },
+  {
+   "slug": "rationality-historicist",
+   "page_len": 139726,
+   "asm_len": 140476,
+   "skipped": null,
+   "segs": [
+    1330,
+    1327
+   ],
+   "status": "gap",
+   "mismatch": [
+    {
+     "i": 1184,
+     "kinds": [
+      "u",
+      "u"
+     ],
+     "reason": "ukey-diff",
+     "a": "<a href=\"../collingwood/\">Collingwood, Robin George</a> |\n <a href=\"../decision-theory/\">decision theory</a> |\n <a href=\"../epistemology-bayesian/\">epistemology: Bayesian</a> |\n <a href=\"../epistemology-evolutionary/\">epistemology: evolutionary</a> |\n <a href=\"../epistemology-social/\">epistemology: social</a> |\n <a href=\"../feminism-epistemology/\">feminist philosophy, interventions: epistemology a",
+     "b": "<a href=\"../collingwood/\">Collingwood, Robin George</a> |\n <a href=\"../decision-theory/\">decision theory</a> |\n <a href=\"../epistemology-bayesian/\">epistemology: Bayesian</a> |\n <a href=\"../epistemology-evolutionary/\">epistemology: evolutionary</a> |\n <a href=\"../epistemology-social/\">epistemology: social</a> |\n <a href=\"../feminism-epistemology/\">feminist philosophy, interventions: epistemology a",
+     "diff": [
+      {
+       "op": "insert",
+       "a": "hy, topics: perspectives on science</a> |\n <a href=\"../feyerabend/\">Feyerabend, Paul</a> |\n <a href=\"../history/\">history, philosophy of</a> |\n <a href=\"../incommensurability/\">incommensurability: of scientific theories</a> |\n <a href=\"../j",
+       "b": "hy, topics: perspectives on science</a> |\n <a href=\"../feyerabend/\">Feyerabend, Paul</a> |\n <a href=\"../history/\">history and historiography, philosophy of</a> |\n <a href=\"../incommensurability/\">incommensurability: of scientific theories</a> |\n <a href=\"../j"
+      }
+     ]
+    },
+    {
+     "i": 1188,
+     "kinds": [
+      "u",
+      "m"
+     ],
+     "reason": "kind-mismatch",
+     "a": "Collingwood, Robin George | decision theory | epistemology: Bayesian | epistemology: evolutionary | epistemology: social | feminist philosophy, interventions: epistemology and philosophy of science | feminist philosophy, interventions: political philosophy | feminist philosophy, interventions: social epistemology | feminist philosophy, topics: perspectives on science | Feyerabend, Paul | history a",
+     "b": "<h3>",
+     "diff": [
+      {
+       "op": "replace",
+       "a": "Collingwood, Robin George | decision theory | epistemology: Bayesian | epistemology: evolutionary | epistemology: social | feminist philosophy, interventions:",
+       "b": "<h3>"
+      },
+      {
+       "op": "replace",
+       "a": "Collingwood, Robin George | decision theory | epistemology: Bayesian | epistemology: evolutionary | epistemology: social | feminist philosophy, interventions: epistemology and philosophy of science | feminist philosophy, interventions: political philosophy | feminist philosophy, interventions: social epistemology | feminist philosophy, topics: perspectives on science | Feyerabend, Paul | history and historiography, philosophy of | incommensurability: of scientific theories | justification, epistemic: internalist vs. externalist conceptions of | Kuhn, Thomas | Lakatos, Imre | mental causation | Popper, Karl | relativism | Rorty, Richard | scientific discovery | scientific explanation: 20th century theories | scientific knowledge: social dimensions of | scientific method | scientific progress | scientific realism",
+       "b": "<h3>"
+      }
+     ]
+    }
+   ],
+   "first_index": 1184
+  },
+  {
+   "slug": "rule-following",
+   "page_len": 142298,
+   "asm_len": 134739,
+   "skipped": null,
+   "segs": [
+    1353,
+    1446
+   ],
+   "status": "gap",
+   "mismatch": [
+    {
+     "i": 240,
+     "kinds": [
+      "m",
+      "u"
+     ],
+     "reason": "kind-mismatch",
+     "a": "<p>",
+     "b": " \n\\[\n2, 4, 6, 8, 10, \\ldots\n\\]\n\n",
+     "diff": [
+      {
+       "op": "replace",
+       "a": "<p>",
+       "b": " \n\\[\n2, 4, 6, 8, 10, \\ldots\n\\]\n\n"
+      }
+     ]
+    },
+    {
+     "i": 241,
+     "kinds": [
+      "u",
+      "m"
+     ],
+     "reason": "kind-mismatch",
+     "a": "\n\\[ 2, 4, 6, 8, 10, \\ldots \\]",
+     "b": "<p>",
+     "diff": [
+      {
+       "op": "replace",
+       "a": "\n\\[ 2, 4, 6, 8, 10, \\ldots \\]",
+       "b": "<p>"
+      }
+     ]
+    }
+   ],
+   "first_index": 240
+  },
+  {
+   "slug": "schopenhauer",
+   "page_len": 109097,
+   "asm_len": 107665,
+   "skipped": null,
+   "segs": [
+    987,
+    1034
+   ],
+   "status": "gap",
+   "mismatch": [
+    {
+     "i": 214,
+     "kinds": [
+      "u",
+      "u"
+     ],
+     "reason": "ukey-diff",
+     "a": "<a href=\"#Aca\">Academic Tools</a>",
+     "b": "<a href=\"#PriLit\">Primary Literature</a>\n      ",
+     "diff": [
+      {
+       "op": "replace",
+       "a": "<a href=\"#Aca\">Academic Tools</a>",
+       "b": "<a href=\"#PriLit\">Primary Literature</a>\n      "
+      },
+      {
+       "op": "replace",
+       "a": "<a href=\"#Aca\">Academic Tools</a>",
+       "b": "<a href=\"#PriLit\">Primary Literature</a>\n      "
+      },
+      {
+       "op": "replace",
+       "a": "<a href=\"#Aca\">Academic Tools</a>",
+       "b": "<a href=\"#PriLit\">Primary Literature</a>\n      "
+      }
+     ]
+    },
+    {
+     "i": 217,
+     "kinds": [
+      "u",
+      "u"
+     ],
+     "reason": "ukey-diff",
+     "a": "<a href=\"#Oth\">Other Internet Resources</a>",
+     "b": "<a href=\"#WorSch\">Works by Schopenhauer</a>",
+     "diff": [
+      {
+       "op": "replace",
+       "a": "<a href=\"#Oth\">Other Internet Resources</a>",
+       "b": "<a href=\"#WorSch\">Works by Schopenhauer</a>"
+      },
+      {
+       "op": "replace",
+       "a": "<a href=\"#Oth\">Other Internet Resources</a>",
+       "b": "<a href=\"#WorSch\">Works by Schopenhauer</a>"
+      },
+      {
+       "op": "insert",
+       "a": "<a href=\"#Oth\">Other Internet Resources</a>",
+       "b": "<a href=\"#WorSch\">Works by Schopenhauer</a>"
+      }
+     ]
+    }
+   ],
+   "first_index": 214
+  },
+  {
+   "slug": "yorck",
+   "page_len": 76762,
+   "asm_len": 76689,
+   "skipped": null,
+   "segs": [
+    820,
+    817
+   ],
+   "status": "gap",
+   "mismatch": [
+    {
+     "i": 682,
+     "kinds": [
+      "u",
+      "u"
+     ],
+     "reason": "ukey-diff",
+     "a": "<a href=\"../dilthey/\">Dilthey, Wilhelm</a> |\n <a href=\"../gadamer/\">Gadamer, Hans-Georg</a> |\n <a href=\"../hegel/\">Hegel, Georg Wilhelm Friedrich</a> |\n <a href=\"../heidegger/\">Heidegger, Martin</a> |\n <a href=\"../history/\">history, philosophy of</a> |\n <a href=\"../husserl/\">Husserl, Edmund</a> |\n <a href=\"../schleiermacher/\">Schleiermacher, Friedrich Daniel Ernst</a>\n\n",
+     "b": "<a href=\"../dilthey/\">Dilthey, Wilhelm</a> |\n <a href=\"../gadamer/\">Gadamer, Hans-Georg</a> |\n <a href=\"../hegel/\">Hegel, Georg Wilhelm Friedrich</a> |\n <a href=\"../heidegger/\">Heidegger, Martin</a> |\n <a href=\"../history/\">history and historiography, philosophy of</a> |\n <a href=\"../husserl/\">Husserl, Edmund</a> |\n <a href=\"../schleiermacher/\">Schleiermacher, Friedrich Daniel Ernst</a>\n\n ",
+     "diff": [
+      {
+       "op": "insert",
+       "a": "l/\">Hegel, Georg Wilhelm Friedrich</a> |\n <a href=\"../heidegger/\">Heidegger, Martin</a> |\n <a href=\"../history/\">history, philosophy of</a> |\n <a href=\"../husserl/\">Husserl, Edmund</a> |\n <a href=\"../schleiermacher/\">Schleiermacher, Friedri",
+       "b": "l/\">Hegel, Georg Wilhelm Friedrich</a> |\n <a href=\"../heidegger/\">Heidegger, Martin</a> |\n <a href=\"../history/\">history and historiography, philosophy of</a> |\n <a href=\"../husserl/\">Husserl, Edmund</a> |\n <a href=\"../schleiermacher/\">Schleiermacher, Friedri"
+      },
+      {
+       "op": "insert",
+       "a": "\n <a href=\"../husserl/\">Husserl, Edmund</a> |\n <a href=\"../schleiermacher/\">Schleiermacher, Friedrich Daniel Ernst</a>\n\n",
+       "b": "\n <a href=\"../husserl/\">Husserl, Edmund</a> |\n <a href=\"../schleiermacher/\">Schleiermacher, Friedrich Daniel Ernst</a>\n\n "
+      }
+     ]
+    },
+    {
+     "i": 686,
+     "kinds": [
+      "u",
+      "m"
+     ],
+     "reason": "kind-mismatch",
+     "a": "Dilthey, Wilhelm | Gadamer, Hans-Georg | Hegel, Georg Wilhelm Friedrich | Heidegger, Martin | history and historiography, philosophy of | Husserl, Edmund | Schleiermacher, Friedrich Daniel Ernst",
+     "b": "<!-- #aueditable -->",
+     "diff": [
+      {
+       "op": "replace",
+       "a": "Dilthey, Wilhelm | Gadamer, Hans-Georg | Hegel, Georg Wilhelm Friedrich | Heidegger, Martin | history and historiography, philos",
+       "b": "<!-- #aueditable -->"
+      },
+      {
+       "op": "replace",
+       "a": "Dilthey, Wilhelm | Gadamer, Hans-Georg | Hegel, Georg Wilhelm Friedrich | Heidegger, Martin | history and historiography, philosophy of | Hu",
+       "b": "<!-- #aueditable -->"
+      },
+      {
+       "op": "replace",
+       "a": "Dilthey, Wilhelm | Gadamer, Hans-Georg | Hegel, Georg Wilhelm Friedrich | Heidegger, Martin | history and historiography, philosophy of | Husserl, Edmund | Schleiermacher, Friedrich Dan",
+       "b": "<!-- #aueditable -->"
+      }
+     ]
+    }
+   ],
+   "first_index": 682
+  }
+ ]
+}

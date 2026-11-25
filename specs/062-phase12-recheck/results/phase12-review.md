@@ -58,24 +58,32 @@
 
 建议出口：补丁 P-004（`find` 该 href、`replace` 单点、`expect 1`），转化后须重转该词条 yuanwen 并复跑 I2；或判格式例外并登记。属 053 四出口处置，本卡不改补丁池。
 
-### R-5 旧池 judge 无凭证（待补）
+### R-5 旧池 judge 无凭证（已补）
 
-pool 1780／gap 48／stale 45 只见于叙述，无落盘 JSON；算术自洽但不可复算。建议以 `page_assemble.py --all --dry`（旧池）留痕，或在报告中标注“叙述值，无凭证”。
+pool 1780／gap 48／stale 45 原先只见于叙述。已用 `bin/oldpool_judge.py` 复现：`git archive 802db20da` 导出第 43 批池，内存替换 `assembly_pool.load_pool` 后对当前 en/ 重判，凭证 `results/phase12-oldpool-judge.json`。结果 **pool 1780／gap 48／stale 45（1873）**，与叙述逐值吻合。
 
-### R-6 exit＝1 与补转凭证（建议补记）
+### R-6 exit＝1 与补转凭证（已修）
 
-`fetch-last.json` 记录 exit 1（2 件转换 `PermissionError`），SOP 以 exit 0 为全绿；补转动作无日志，仅结果可证（I2 复跑 1873／0）。建议 spec 记补转命令与时间，或 `phase12.py` 在补转后归一退出码。
+`fetch-last.json` 记录 exit 1（2 件转换 `PermissionError`），SOP 以 exit 0 为全绿；补转动作无日志。已在 `phase12.py` 加自动补转：抓取后对 `convert_failures` 逐件串行重转（间隔 1.5 秒释放 Windows 句柄），结果写入 `convert_retry`（slug／exit／recovered／at）；任一未补回则整体判失败。报告新增“补转”行。
 
 ### R-7 叙述口径（已改）
 
 `phase12-analysis.md` §五“钉账资产 image 1477／script 28”是抓取前值，与同文 §三、`run.json` 的 1474／458 矛盾；`script 28` 恰是 `local.js` 补登前计数，与“已补登”自相矛盾。已改为抓取后口径，并注明修复后 image 回到 1477。
 
-## 三、既存项（非本轮引入，未改动）
+### R-8 新增 gap 的真正根因：B 族账本未随 en/ 刷新（已修）
+
+追查 40 件新增 gap：`page-layout.json` 的 `copyright_year`／`site_year`／`era` 与 `article-ledger.json` 的 `rel_items`／`hids` 都是抓取前冻结值，与新 en/ 不符。逐件定位显示首因是页脚版权年（2025→2026 等）与目录改名波纹（8 件 rename-wave 的 `rel_items` 显示文本）——不是池规则缺陷，也不是上游文本问题。
+
+处置：版面账全量重建（25 件变化：年份／修订日／作者／era／`croce-aesthetics`→`croce`）；结构账增量刷新 101 件（`--slugs` 合并、`--drop croce-aesthetics`）。随后 B3.1 扫描 → 池重建 → 终判，见 053 第四十四批。SOP 已把“B 族账本刷新”列为 1.2 必做步，`phase12.py` 增 `--rebuild-b3`。
+
+**教训**：B3.2 的“gap”是**账与 H0 不符**的合并信号，其中一大族是账本冻结造成的假阳性；判定 gap 前必须先确认账本与本轮 en/ 同时点。
+
+## 三、既存项（非本轮引入）
 
 | 词条 | 现象 | 定性 |
 | --- | --- | --- |
-| aristotle-psychology | `suppl1.html` 未登记（游离件）；`suppl2–4` 在盘未登记（fetch_audit 契约不写 baseline，非硬） | 既存账务缺口 |
-| saadya | `notes.html` 未登记（游离件） | 既存 |
+| aristotle-psychology | `suppl1.html` 此前既无引用也无登记（游离件） | 已登记（`registered_orphans` 口径） |
+| saadya | `notes.html` 同上 | 已登记 |
 | 全库 | `files[]` 内 113 条重复 image 路径（前后一致） | 既存账务冗余 |
 | logic-deontic | `fig-graph-b/c.svg`、`supplement.html` 被引用且在盘，未登记 | fetch_audit 契约允许 |
 
@@ -83,4 +91,4 @@ pool 1780／gap 48／stale 45 只见于叙述，无落盘 JSON；算术自洽但
 
 ## 四、结论
 
-阶段 1.2 的实质数字（抓取、分类、建账面、补丁、I2、B3.1／B3.2）全部经独立复算成立；两处文档数字错误已订正，一处账实脱节（3 个旧图摘钉）已修复，SVG 分类按“随钉替换、不建账”结案。剩余两项待办：R-4 上游新错链出口、R-5／R-6 凭证与退出码口径。
+阶段 1.2 的实质数字（抓取、分类、建账面、补丁、I2、B3.1／B3.2）全部经独立复算成立；两处文档数字错误已订正，一处账实脱节（3 个旧图摘钉）已修复，SVG 分类按“随钉替换、不建账”结案。复核提出的其余各项均已落地：补丁 P-004、`upsert_baseline` 并集保留、`en_integrity` 入门禁、补转自动重试、旧池 judge 凭证、B 族账本刷新（R-8）。

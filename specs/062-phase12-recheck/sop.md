@@ -51,8 +51,12 @@ python specs/062-phase12-recheck/bin/phase12.py --no-fetch          # 只复核�
    * 已修复＝命中 0 且 replace 已存在（上游已修，补丁可退役，走 ADR-0085 升档流程第 3、4 步）；
    * 失配＝其余（上游漂移或补丁失效，转换层硬失败，须人工裁定）。
    一致性由 `check_en_patches --strict` 的 INDEX／C2 准入／`git apply --check` 三面承载。
+   * 补丁按头部 `file` 限定作用文件（index.html／notes.html／supplement）；转换器与 `en_integrity` 都按文件取补丁。
 5. **I2 转换保真**：`check_yuanwen_fidelity --gate`（md ≡ convert(H1)）。
-6. **进度**：钉账词条、资产分类、yuanwen 文件数、B3.1／B3.2 基线计数（读现成 JSON，不重跑）。
+6. **B 族账本刷新**（`--rebuild-b3`；en/ 有实质变化时必做，否则 B3.2 把陈旧账报成 gap）：
+   `page_layout.py`（版权年／site_year／era）→ `article_ledger.py --slugs <变更清单> [--drop <陈旧 slug>]`（rel_items／hids）→ `reassemble.py --all --out results/assembly-scan-all.json`（B3.1）→ `page_assemble.py --all --build`（池重建）→ `page_assemble.py --all`（终判）。
+   全库重跑结构账极慢（1873 件约数小时），日常只刷 `--slugs` 变更集并合并。
+7. **进度**：钉账词条、资产分类、yuanwen 文件数、B3.1／B3.2 基线计数（读现成 JSON）。
 
 **通过判据**：补丁 `mismatch=0`、`admission_bad=0`、`index_bad=0`；I2 issue 0。差集非空不自动判失败——逐条给出出口（建账、补丁、勘误、例外）。
 
