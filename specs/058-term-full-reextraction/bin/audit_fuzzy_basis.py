@@ -38,6 +38,13 @@ def strong(s):
     return re.sub(r'[^a-z0-9\u4e00-\u9fff]+', '', s)
 
 
+def cn_keys(s):
+    """中文形归一：GB 方括号是可选字（优先[方]法＝优先法／优先方法），故两种都收。"""
+    base = re.sub(r'（[^）]*）|\([^)]*\)', '', str(s or ''))
+    out = {strong(re.sub(r'\[[^\]]*\]', '', base)), strong(re.sub(r'\[([^\]]*)\]', r'\1', base))}
+    return {x for x in out if x}
+
+
 def en_stems(s):
     """英文各义项（分号／逗号分隔）的折叠形与去复数形，-ise/-ize、-our/-or 互认。"""
     out = set()
@@ -64,11 +71,11 @@ def zh_forms(zh, *extra):
     登记册里“审定”表述花样多（审定作 X／审定名词库 X＝Y／审定收 Y），一律按
     “行内引用过的中文形”处理：只要其中任一式能与审定条目配对，该行的凭证就自洽。
     """
-    forms = {strong(zh.split('（')[0].strip('《》'))}
+    forms = cn_keys(zh.split('（')[0].strip('《》'))
     for text in (zh,) + extra:
         for x in re.findall(r'[“"]([^”"]{1,14})[”"]', text or ''):
             if re.search(r'[一-鿿]', x):
-                forms.add(strong(x))
+                forms |= cn_keys(x)
     for x in re.findall(r'审定[^；。，]{0,16}?[＝作]([一-鿿]{2,10})', zh + ' '.join(extra or '')):
         forms.add(strong(x))
     return {y for y in forms if y}
@@ -111,8 +118,8 @@ def main():
             by_key[key].append(rec)
             for e in en_stems(h.get('en')):
                 en_index[e].append(rec)
-            if h.get('cn'):
-                cn_index[strong(h.get('cn'))].append(rec)
+            for ck in cn_keys(h.get('cn')):
+                cn_index[ck].append(rec)
     print('缓存 %d 份；英文形索引 %d、中文形索引 %d' % (len(files), len(en_index), len(cn_index)))
 
     rows = []
@@ -146,9 +153,9 @@ def main():
         pool = {id(r): r for r in pool}.values()
         audit_pool = [r for r in pool if r[4] == 'audit']
         en_hits = [r for r in audit_pool if en_stems(r[1]) & stems]
-        cn_hits = [r for r in audit_pool if strong(r[0]) in forms]
-        pairs = [r for r in en_hits if strong(r[0]) in forms]
-        tw = [r for r in pool if r[4] == 'tw' and (en_stems(r[1]) & stems or strong(r[0]) in forms)]
+        cn_hits = [r for r in audit_pool if cn_keys(r[0]) & forms]
+        pairs = [r for r in en_hits if cn_keys(r[0]) & forms]
+        tw = [r for r in pool if r[4] == 'tw' and (en_stems(r[1]) & stems or cn_keys(r[0]) & forms)]
         if pairs:
             v, ev = 'pair', pairs[0]
         elif en_hits:
