@@ -127,6 +127,76 @@ class TestNeedsPairing(unittest.TestCase):
     def test_no_shen_ding_exempt(self):
         self.assertFalse(tp.needs_pairing('学界通行译名；凭证 2026-11-07'))
 
+    def test_loose_token_no_longer_exempts(self):
+        """旧词表的单字豁免（义／异）与裸“复核”“作“”曾使 3,008 条断言几乎全豁免。"""
+        self.assertTrue(tp.needs_pairing('审定名词库（termonline-all，凭证）；与本行义务论用法一致'))
+        self.assertTrue(tp.needs_pairing('审定义务论；与本行差异在域'))
+        self.assertTrue(tp.needs_pairing('审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）'))
+        self.assertTrue(tp.needs_pairing('审定库命中；译法列作亦作“X”'))
+
+    def test_claim_text_ignores_trans_forms(self):
+        # 译法列的“亦作“X””不得进待判文本；译法列自带“审定…”时才并入
+        self.assertEqual(tp.claim_text('建构主义（亦作“建构论”）', '学界通行；凭证 2026-11-07'),
+                         '学界通行；凭证 2026-11-07')
+        self.assertIn('审定', tp.claim_text('建构主义（审定作“构造主义”）', '凭证 2026-11-07'))
+
+    def test_explicit_citation_per_segment(self):
+        self.assertTrue(tp.explicit_citation('审定作“诠释学”（hermeneutics，自然辩证法名词）'))
+        self.assertFalse(tp.explicit_citation('审定名词库（termonline-all，凭证）；亦作“解释学”'))
+
+
+class TestCitationLibs(unittest.TestCase):
+    """库名如实（ADR-0088 第 2 条）：引证形与实际库别不符即问题。"""
+
+    def setUp(self):
+        self.index = mini_index([
+            ['畸形', 'malformation', '海峡两岸解剖与组织胚胎学名词', '', 'tw'],
+            ['诠释学', 'hermeneutics', '自然辩证法名词', '', 'audit'],
+            ['一阐提', 'Icchantika', '中华思想文化术语传播工程', '', 'other'],
+        ])
+
+    def test_claim_extraction(self):
+        claims = tp.citation_claims('审定名词库（termonline-all·地理学）作“反本质论”')
+        self.assertEqual(claims[0][0], tp.LIB_AUDIT)
+        claims = tp.citation_claims('海峡两岸名词对照库·心理学作“亲和性”')
+        self.assertEqual(claims[0][0], tp.LIB_TW)
+        # 亦作不是引证
+        self.assertEqual(tp.citation_claims('删亦作“纯音乐”（撞形处置）'), [])
+
+    def test_mislabel_flagged(self):
+        bad = tp.audit_citation_libs(
+            self.index, 'abnormality',
+            '审定名词库（termonline-all·解剖与组织胚胎学，凭证）作“畸形”')
+        self.assertEqual(len(bad), 1)
+        self.assertIn('tw', bad[0])
+
+    def test_correct_lib_silent(self):
+        self.assertEqual(tp.audit_citation_libs(
+            self.index, 'hermeneutics', '审定作“诠释学”（自然辩证法名词）'), [])
+
+    def test_mixed_claim_flagged(self):
+        bad = tp.audit_citation_libs(
+            self.index, 'icchantika',
+            '审定名词库（termonline-all·中华思想文化术语传播工程）作“一阐提”')
+        self.assertTrue(bad and '既称审定' in bad[0])
+
+    def test_print_citation_with_code_skipped(self):
+        # 带条文号的纸质审定本引证，索引未必覆盖，不作失实判定
+        self.assertEqual(tp.audit_citation_libs(
+            self.index, 'cardinal', '审定名词库（数学名词 01.0125，1993）作“基数”'), [])
+
+
+class TestMultiFormTrans(unittest.TestCase):
+    def test_semicolon_forms_split(self):
+        idx = mini_index([['构造主义', 'constructivism', '自然辩证法名词', '03.272', 'audit']])
+        v, _ev = tp.classify_row('constructivism', '构造主义；建构主义', '审定名词库', idx)
+        self.assertEqual(v, 'pair')
+
+    def test_slash_and_dunhao_forms_split(self):
+        idx = mini_index([['斯多葛学派', 'Stoics', '自然辩证法名词', '02.142', 'audit']])
+        v, _ev = tp.classify_row('Stoic', '斯多葛／斯多葛学派（亦作“斯多亚”）', '审定名词库', idx)
+        self.assertEqual(v, 'pair')
+
 
 if __name__ == '__main__':
     unittest.main()

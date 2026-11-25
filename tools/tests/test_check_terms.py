@@ -218,6 +218,53 @@ class LedgerTests(unittest.TestCase):
         self.assertNotIn('正文缺登记译法', buf.getvalue())
 
 
+class LibHonestyGateTests(unittest.TestCase):
+    """ADR-0090 引证库名如实：检查器对「称审定、实为对照库」的行亮告警。"""
+
+    REG_TEXT = (
+        '# 测试登记册\n\n'
+        '| 键 | 原文 | 译法 | 首现 | 依据 | 裁定日期 |\n'
+        '| --- | --- | --- | --- | --- | --- |\n'
+        '| abnormality | — | 异常 | test | 审定作“畸形”（解剖与组织胚胎学名词） | 2026-11-26 |\n'
+        '| hermeneutics | — | 诠释学 | test | 审定作“诠释学”（自然辩证法名词） | 2026-11-26 |\n'
+    )
+
+    def setUp(self):
+        import tempfile
+        from tools import term_pairing as tp
+        self.tmp = tempfile.mkdtemp(prefix='libgate-')
+        reg = os.path.join(self.tmp, 'registry.md')
+        with io.open(reg, 'w', encoding='utf-8', newline='\n') as f:
+            f.write(self.REG_TEXT)
+        idx = {'records': [['畸形', 'malformation', '海峡两岸解剖与组织胚胎学名词', '', 'tw'],
+                           ['诠释学', 'hermeneutics', '自然辩证法名词', '03.001', 'audit']],
+               'by_key': {}, 'en': {}, 'cn': {}}
+        for i, r in enumerate(idx['records']):
+            for e in tp.en_stems(r[1]):
+                idx['en'].setdefault(e, []).append(i)
+            for ck in tp.cn_keys(r[0]):
+                idx['cn'].setdefault(ck, []).append(i)
+        self.path = os.path.join(self.tmp, 'index.json.gz')
+        tp.save_index(idx, self.path)
+        buf = io.StringIO()
+        with redirect_stdout(buf):
+            self.code = check_terms.main(['--registry', reg, '--pair-index', self.path])
+        self.out = buf.getvalue()
+
+    def tearDown(self):
+        import shutil
+        shutil.rmtree(self.tmp, ignore_errors=True)
+
+    def test_mislabel_warns(self):
+        self.assertIn('引证库名失实（告警）: abnormality', self.out)
+
+    def test_correct_lib_silent(self):
+        self.assertNotIn('hermeneutics：', self.out)
+
+    def test_exit_code_zero(self):
+        self.assertEqual(self.code, 0)
+
+
 if __name__ == '__main__':
     unittest.main()
 

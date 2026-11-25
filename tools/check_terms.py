@@ -26,6 +26,10 @@
     specs/008 results/orig-missing.txt。
   - 审定引用配对 = 告警（非硬错误，ADR-0088 2026-11-26）：依据声明审定命中、但按
     配对判据（tools/term_pairing.py）无 pairing 且行内无说明的行；索引缺失时跳过。
+    判据口径见 ADR-0090（豁免词只认精确短语、待判文本只取依据列、多形译法拆形）。
+  - 引证库名如实 = 告警（非硬错误，ADR-0088 第 2 条／ADR-0090 2026-11-26）：行内
+    「审定…作“X”」所声称的库别与索引内 X 的实际库别不符，或同段既称审定又称
+    对照库／其他库；带条文号的纸质引证跳过。清单落 specs/058 results/citation-lib-warnings.txt。
 退出码: 0 无硬错误；1 有冲突或自洽违例（--docs 模式仅告警，恒 0；--check-ledger 违例 1）；
         2 参数错误（如 --ledger 未配 --docs）。
 """
@@ -66,6 +70,8 @@ STD_PAIR_REPORT = os.path.join(ROOT, 'specs', '058-term-full-reextraction', 'res
                                'std-pairing-warnings.txt')
 PAIR_REPORT = os.path.join(ROOT, 'specs', '058-term-full-reextraction', 'results',
                            'term-pairing-warnings.txt')
+LIB_REPORT = os.path.join(ROOT, 'specs', '058-term-full-reextraction', 'results',
+                          'citation-lib-warnings.txt')
 DEPRECATED_MARK = '已废弃'
 # 判读台账（ADR-0048 决策 6，specs/031）：机器只写事实，D 类/出口/凭证/复核人留空待人填
 LEDGER_SCHEMA = 'sep-cn-term-ledger/1'
@@ -341,10 +347,10 @@ def write_orig_missing(entries, path):
 def audit_basis_pairs(rows, index):
     """审定引用配对检查（ADR-0088）：依据声明审定命中（无否定、无说明措辞）、
     且按配对判据非 pair 的行 → 告警清单 [(键, 译法, 档位, 行号)]。
-    说明措辞在译法列与依据列都算（审定作 X 常写在译法括注里）。"""
+    说明措辞默认只看依据列；译法列自身写有“审定…”时才并入（见 claim_text）。"""
     bad = []
     for term, trans, _fs, basis, _date, lineno in rows:
-        if not term_pairing.needs_pairing('%s；%s' % (trans, basis)):
+        if not term_pairing.needs_pairing(term_pairing.claim_text(trans, basis)):
             continue
         v, _ev = term_pairing.classify_row(term, trans, basis, index)
         if v != 'pair':
@@ -356,8 +362,7 @@ def audit_std_pairs(rows, index):
     """GB 标准库引用配对检查（ADR-0088 同判据）：主张标准库命中、实际无配对的行。"""
     bad = []
     for term, trans, _fs, basis, _date, lineno in rows:
-        merged = '%s；%s' % (trans, basis)
-        if not term_pairing.needs_std_pairing(merged):
+        if not term_pairing.needs_std_pairing(term_pairing.claim_text(trans, basis)):
             continue
         v, _ev = term_pairing.classify_std_row(term, trans, basis, index)
         if v != 'pair':
@@ -369,6 +374,13 @@ def write_pair_warnings(entries, path):
     """term-pairing-warnings.txt：每行「键\t译法\t档位\t行号」，末尾汇总（原子写）。"""
     lines = ['%s\t%s\t%s\t%d' % e for e in entries]
     lines.append('汇总\t%d\t审定引用无配对（ADR-0088）' % len(entries))
+    _atomic_write(path, '\n'.join(lines) + '\n')
+
+
+def write_lib_warnings(entries, path):
+    """citation-lib-warnings.txt：每行「说明\t行号」，末尾汇总（原子写）。"""
+    lines = ['%s\t%d' % e for e in entries]
+    lines.append('汇总\t%d\t引证库名失实（ADR-0088 第 2 条）' % len(entries))
     _atomic_write(path, '\n'.join(lines) + '\n')
 
 
@@ -551,7 +563,7 @@ def main(argv=None):
 
     # 审定引用配对检查（ADR-0088）：注入模式（测试）跳过保证密闭；索引缺失时跳过并提示；
     # --pair-index 可指定索引（测试用小索引注入，兼作集成测试入口）
-    pair_bad, std_bad = [], []
+    pair_bad, std_bad, lib_bad = [], [], []
     # 两个索引各自独立开合：注入模式下只有显式给出该索引才跑（测试密闭、互不拖慢）
     if (not injected or '--pair-index' in argv) and os.path.exists(pair_index_path):
         pair_index = term_pairing.load_index(pair_index_path)
@@ -560,6 +572,14 @@ def main(argv=None):
             warns.append('审定引用无配对（告警）: %s「%s」档 %s（行 %d）' % (term, trans, v, ln))
         if len(pair_bad) > 10:
             warns.append('…（其余 %d 条见清单）' % (len(pair_bad) - 10))
+        # 库名如实（ADR-0088 第 2 条）：引证形与实际库别不符
+        for term, _trans, _fs, basis, _d, ln in reg1_rows:
+            for msg in term_pairing.audit_citation_libs(pair_index, term, basis):
+                lib_bad.append((msg, ln))
+        for msg, ln in lib_bad[:10]:
+            warns.append('引证库名失实（告警）: %s（行 %d）' % (msg, ln))
+        if len(lib_bad) > 10:
+            warns.append('…（其余 %d 条见清单）' % (len(lib_bad) - 10))
     elif not injected and not os.path.exists(pair_index_path):
         print('审定引用配对检查：索引缺失，跳过（python -I tools/build_term_pair_index.py 预建）')
     if (not injected or '--std-index' in argv) and os.path.exists(std_index_path):
@@ -633,6 +653,10 @@ def main(argv=None):
             write_pair_warnings(std_bad, STD_PAIR_REPORT)
             print('标准库引用无配对（告警，不计硬错误）: %d 条，清单 → %s'
                   % (len(std_bad), STD_PAIR_REPORT))
+        if lib_bad or os.path.exists(pair_index_path):
+            write_lib_warnings(lib_bad, LIB_REPORT)
+            print('引证库名失实（告警，不计硬错误）: %d 条，清单 → %s'
+                  % (len(lib_bad), LIB_REPORT))
         # 人名缺籍属/生卒（013 工程）：同口径告警，清单落 specs/013
         if reg2_path:
             rows2, _w2 = parse_registry2_full(reg2_path)
