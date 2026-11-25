@@ -9,3 +9,4 @@
 {"seq": 9, "at": "2026-11-15T17:23:04Z", "actor": "Z-rework-20261115", "type": "pass", "attempt": "main", "node": "R1", "gate": []}
 {"seq": 10, "at": "2026-11-15T17:25:20Z", "actor": "Z-rework-20261115", "type": "pass", "attempt": "main", "node": "R2", "gate": []}
 {"seq": 11, "at": "2026-11-17T06:28:49Z", "actor": "P8-revert-20261117", "type": "rework", "attempt": "main", "from_node": "s2.4", "reason": "回退到 s2.4_termchecked；依据：中文体例归一全量回退（specs/039 P8，ADR-0063）：尾节节名残留（参考文献/References 英文括注）修复后机检归绿，并入回退面；凭证 results/revert-ledger-residual-20261117.json"}
+{"type": "rework", "from_node": null, "reason": "全库置空重译（用户 2026-11-25 裁定）：既有中文译文全部置空仅留 H1、全部进度归零；逐字依据见本会话指令与 qian-yan 日志同日条目", "at": "2026-11-25T00:59:38Z", "actor": "wipe-2026-11-25", "attempt": "main", "seq": 12}

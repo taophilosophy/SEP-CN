@@ -9,3 +9,4 @@
 {"type": "pass", "node": "S3", "gate": [], "at": "2026-11-24T21:22:52Z", "actor": "ZC-main-20261125", "attempt": "main", "seq": 9}
 {"type": "pass", "node": "R1", "gate": [], "at": "2026-11-24T21:23:13Z", "actor": "ZC-main-20261125", "attempt": "main", "seq": 10}
 {"type": "pass", "node": "R2", "gate": [], "at": "2026-11-24T21:23:32Z", "actor": "ZC-main-20261125", "attempt": "main", "seq": 11}
+{"type": "rework", "from_node": null, "reason": "全库置空重译（用户 2026-11-25 裁定）：既有中文译文全部置空仅留 H1、全部进度归零；逐字依据见本会话指令与 qian-yan 日志同日条目", "at": "2026-11-25T00:59:37Z", "actor": "wipe-2026-11-25", "attempt": "main", "seq": 12}
