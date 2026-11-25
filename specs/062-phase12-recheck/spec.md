@@ -81,5 +81,20 @@
 * **元数据**（`entry_meta_delta.py`）：29 件变化，其中 `substantive_revision` 变更 10 件（上游 2026-11-21～24 发布）。
 * **补丁**：3 条全部“有效”（命中 1/1），`mismatch 0`、`admission_bad 0`、`index_bad 0`、`public_candidates 0`；无需退役或改写。
 * **基线**：B3.1 重跑 1663／210，与旧基线集合零差（转好 0／转差 0）；B3.2 judge（旧池）pool 1780／gap 48／stale 45，`--build` 重建池后 pool 1811／gap 62／stale 0；相对旧基线（1851／22／0）新增 gap 40、修复 0——新增族集中在本轮 `en` 变化件，待 053 线下批四出口处置。
+
+## 6. 全库置空复核与账外补建（2026-11-25，用户指令“所有中文条目全部置空只 H1、允许重写进度”）
+
+**复核事实**：`[a-z]/*.md` 共 1880 件，正文全部为 H1-only（0 件有正文、0 件缺 H1）；`tools/wipe_translations.py --apply` 报 `already 1868`、任务 `already-cleared 1200`，幂等零写盘。
+
+**发现的缺口**：catalog 主条目 1873 件中只有 1200 件有 retranslate 任务账，**673 件从未建账**（历史账外件）——正文虽已 H1，但无“待译”状态位，进度视图记为账外。
+
+**处置**：
+
+1. `bin/wipe_missing_tasks.py`：对无账件走状态机正规原语 `create(retranslate)` → `clear`；试金石 5 件先行，全量 668 件全部 `created+cleared`（forced 0、error 0）。
+2. journal 壳补齐 656 件（progress 的“已建任务”口径按 journal 词条计），使账外归零。
+3. `progress.py` 重写 PROGRESS：已建任务 1873、账外 0、骨架 1873（全部在账内）、有正文 0、账实不符 0、核心段完成 0、在途 0、阻塞 0。
+4. `check_all` 19 项全绿；`wipe-2026-11-25.json` 报告随批刷新。
+
+**口径说明**：新建账的 673 条任务各带 1 条 `clear` 步骤（过程凭证，ADR-0084 D4 只追加），正文不动。
 * **处置**：`text` 66 件出建账清单（10 件正式修订优先），走 `compare.py` → 置空待译；`layout`／`rename-wave`／`binary` 不建账；`522` 账变化不构成上游更新。
 

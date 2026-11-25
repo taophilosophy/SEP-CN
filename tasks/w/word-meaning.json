@@ -1,0 +1,31 @@
+{
+  "slug": "word-meaning",
+  "kind": "retranslate",
+  "zh_doc": "w/word-meaning.md",
+  "state": "cleared",
+  "translation_mode": "human",
+  "project_spec": {
+    "audience": "中文哲学读者（研究者与研究生为主）",
+    "purpose": "学术阅读与引用（SEP 词条简体中文译本）",
+    "register": "现代汉语学术书面语",
+    "terminology_basis": "shu-yu-biao.md／ren-ming-biao.md／baseline/term-concepts.md",
+    "delivery": "GitBook Markdown＋VitePress 双语站",
+    "qa_level": "CY/T 266＋ISO 5060（六轴机检＋人工复核）"
+  },
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-25T04:24:01Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-25T04:24:00Z",
+  "version_pin": {
+    "pubinfo_date": "Jun 7, 2024",
+    "archive_edition": "Summer 2024",
+    "sha256": "f23eef7e6b762517ff1b68de017cdaf7f78f094e9457441531a3dcdfd82c6aa8"
+  }
+}

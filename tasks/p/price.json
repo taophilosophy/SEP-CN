@@ -1,0 +1,31 @@
+{
+  "slug": "price",
+  "kind": "retranslate",
+  "zh_doc": "p/price.md",
+  "state": "cleared",
+  "translation_mode": "human",
+  "project_spec": {
+    "audience": "中文哲学读者（研究者与研究生为主）",
+    "purpose": "学术阅读与引用（SEP 词条简体中文译本）",
+    "register": "现代汉语学术书面语",
+    "terminology_basis": "shu-yu-biao.md／ren-ming-biao.md／baseline/term-concepts.md",
+    "delivery": "GitBook Markdown＋VitePress 双语站",
+    "qa_level": "CY/T 266＋ISO 5060（六轴机检＋人工复核）"
+  },
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-25T04:22:56Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-25T04:22:56Z",
+  "version_pin": {
+    "pubinfo_date": "Nov 4, 2023",
+    "archive_edition": "Spring 2025",
+    "sha256": "5ae85fde401a13636c7fd540e62c73e484ea20e0688d928b3bc5e344a509c9e0"
+  }
+}

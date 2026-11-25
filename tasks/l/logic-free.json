@@ -1,0 +1,31 @@
+{
+  "slug": "logic-free",
+  "kind": "retranslate",
+  "zh_doc": "l/logic-free.md",
+  "state": "cleared",
+  "translation_mode": "human",
+  "project_spec": {
+    "audience": "中文哲学读者（研究者与研究生为主）",
+    "purpose": "学术阅读与引用（SEP 词条简体中文译本）",
+    "register": "现代汉语学术书面语",
+    "terminology_basis": "shu-yu-biao.md／ren-ming-biao.md／baseline/term-concepts.md",
+    "delivery": "GitBook Markdown＋VitePress 双语站",
+    "qa_level": "CY/T 266＋ISO 5060（六轴机检＋人工复核）"
+  },
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-25T04:21:42Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-25T04:21:41Z",
+  "version_pin": {
+    "pubinfo_date": "Jun 19, 2025",
+    "archive_edition": "Summer 2025",
+    "sha256": "c3d83964761a852a83ed134c41db3e233cf407158d9f08887679ed1834331f38"
+  }
+}

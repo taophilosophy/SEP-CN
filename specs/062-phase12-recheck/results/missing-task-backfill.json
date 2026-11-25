@@ -1,0 +1,2682 @@
+{
+ "schema": "sep-cn-missing-task-backfill/1",
+ "apply": true,
+ "candidates": 668,
+ "status": {
+  "created+cleared": 668
+ },
+ "rows": [
+  {
+   "slug": "language-thought",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "laozi",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "large-cardinals-determinacy",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "latin-american-analytic",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "latin-american-metaphilosophy",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "latin-american-philosophy",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "latinx",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "law-interpretivist",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "law-language",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "law-limits",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "lawphil-naturalism",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "lawphil-nature",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "laws-of-nature",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "learning-formal",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "lefevre-etaples",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "legal-econanalysis",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "legal-interpretation",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "legal-obligation",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "legal-positivism",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "legal-probabilism",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "legal-punishment",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "legal-reas-interpret",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "legal-reas-prec",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "legal-rights",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "legitimacy",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "leibniz",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "leibniz-causation",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "leibniz-exoteric",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "leibniz-physics",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "leibowitz-yeshayahu",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "lesniewski",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "levels-org-biology",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "levinas",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "lewis-ci",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "lewis-metaphysics",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "liar-paradox",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "liberalism",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "liberalism-latin-america",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "liberation",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "libertarianism",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "liberty-positive-negative",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "life",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "life-meaning",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "linguistics",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "literal-nonliteral-india",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "llull",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "location-mereology",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "locke",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "locke-freedom",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "locke-moral",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "locke-personal-identity",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "locke-philosophy-science",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "locke-political",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "logic-action",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "logic-ai",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "logic-algebraic-propositional",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "logic-ancient",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "logic-belief-revision",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "logic-classical",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "logic-combinatory",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "logic-combining",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "logic-conditionals",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "logic-connexive",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "logic-deontic",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "logic-dependence",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "logic-dialogical",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "logic-epistemic",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "logic-firstorder-emergence",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "logic-free",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "logic-games",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "logic-higher-order",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "logic-if",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "logic-india",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "logic-inductive",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "logic-informal",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "logic-information",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "logic-intensional",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "logic-intuitionistic",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "logic-justification",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "logic-many-sorted",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "logic-manyvalued",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "logic-modal",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "logic-modal-origins",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "logic-nonmonotonic",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "logic-normative",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "logic-ontology",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "logic-paraconsistent",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "logic-power-games",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "logic-probability",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "logic-propositional",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "logic-temporal",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "logical-atomism",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "logical-constants",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "logical-construction",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "logical-empiricism",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "logical-form",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "logical-pluralism",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "logical-truth",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "logicism",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "logics-for-games",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "love",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "loyalty",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "lucretius",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "lucrezia-marinella",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "ludwig-feuerbach",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "lukacs",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "lukasiewicz",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "luther",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "luther-influence",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "lying-definition",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "lyotard",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "machiavelli",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "macroevolution",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "madeleine-scudery",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "madhyamaka",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "maimon",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "maimonides",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "maimonides-islamic",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "malebranche",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "malebranche-ideas",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "mally",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "mally-deontic",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "marcel",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "marcus-aurelius",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "marcuse",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "margaret-cavendish",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "margaret-fell",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "maritain",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "markets",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "marriage",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "marty",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "marx",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "marxism-analytical",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "mary-shepherd",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "material-constitution",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "materialism-eliminative",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "mathematical-style",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "mathematics-constructive",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "mathematics-explanation",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "mathematics-nondeductive",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "mathphil-indis",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "max-stirner",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "mctaggart",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "mead",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "meaning",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "meaning-holism",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "meaning-normativity",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "measurement-science",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "medicine",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "medieval-categories",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "medieval-emotions",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "medieval-futcont",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "medieval-haecceity",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "medieval-literary",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "medieval-philosophy",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "medieval-political",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "medieval-syllogism",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "medieval-terms",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "meinong",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "meister-eckhart",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "memory",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "memory-episprob",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "mencius",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "mendelssohn",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "mental-causation",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "mental-disorder",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "mental-imagery",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "mental-representation",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "mereology",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "mereology-medieval",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "meritocracy",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "merleau-ponty",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "mersenne",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "metaepistemology",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "metaethics",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "metaphor",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "metaphysical-explanation",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "metaphysics",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "metaphysics-massexpress",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "methodological-individualism",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "michel-henry",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "microbiology",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "mill",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "mill-moral-political",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "mind-identity",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "mind-indian-buddhism",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "miracles",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "modality-epistemology",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "modality-medieval",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "model-theory",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "models-science",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "modeltheory-fo",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "modularity-mind",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "mohism",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "mohist-canons",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "molecular-biology",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "molecular-genetics",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "money-finance",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "monism",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "monotheism",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "montague-semantics",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "montaigne",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "moore",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "moore-moral",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "moral-animal",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "moral-anti-realism",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "moral-arguments-god",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "moral-character",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "moral-character-empirical",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "moral-cognitivism",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "moral-conventional",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "moral-decision-uncertainty",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "moral-dilemmas",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "moral-epistemology",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "moral-epistemology-a-priori",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "moral-luck",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "moral-motivation",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "moral-non-naturalism",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "moral-particularism",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "moral-particularism-generalism",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "moral-phenomenology",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "moral-psych-emp",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "moral-realism",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "moral-relativism",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "moral-responsibility",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "moral-responsibility-epistemic",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "moral-sentimentalism",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "moral-theory",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "morality-biology",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "morality-definition",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "mulla-sadra",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "multiculturalism",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "multiple-realizability",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "murdoch",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "mysticism",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "nagarjuna",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "names",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "nationalism",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "natorp",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "natural-deduction",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "natural-kinds",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "natural-language-ontology",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "natural-law-ethics",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "natural-law-theories",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "natural-properties",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "natural-selection",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "natural-theology",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "naturalism",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "naturalism-india",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "naturalism-mathematics",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "naturalism-moral",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "needs",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "negation",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "negritude",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "neo-daoism",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "neo-kantianism",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "neoliberalism",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "neurath",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "neuroethics",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "neuroscience",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "neutral-monism",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "nicolai-hartmann",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "nietzsche",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "nietzsche-life-works",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "nietzsche-moral-political",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "nishida-kitaro",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "nominalism-mathematics",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "nonexistent-objects",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "nonidentity-problem",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "nonwellfounded-set-theory",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "normativity-metaethics",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "nothingness",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "nozick-political",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "numenius",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "olivi",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "ontological-arguments",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "ontological-commitment",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "operationalism",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "ordinary-objects",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "origen",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "original-position",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "other-minds",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "pacifism",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "pain",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "paine",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "panentheism",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "panpsychism",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "pantheism",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "paradox-simpson",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "paradox-skolem",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "paradox-stpetersburg",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "paradox-zeno",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "paradoxes-contemporary-logic",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "parenthood",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "parmenides",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "pascal",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "pascal-wager",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "paternalism",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "patriotism",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "patrizi",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "paul-venice",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "peirce",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "peirce-logic",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "peirce-semiotics",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "perception-auditory",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "perception-contents",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "perception-disjunctive",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "perception-episprob",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "perception-india",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "perception-justification",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "perception-problem",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "perceptual-learning",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "perfect-goodness",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "perfectionism-moral",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "personal-autonomy",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "personal-relationship-goods",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "personalism",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "personhood-india",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "persons-means",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "phenomenal-intentionality",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "phenomenology",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "phenomenology-mg",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "phenomenology-religion",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "phil-bio-latin-america",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "phil-multimodallogic",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "phil-science-latin-america",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "philip-chancellor",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "philippa-foot",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "philo",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "philo-larissa",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "philodemus",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "philolaus",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "philoponus",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "philosophy-chile",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "philosophy-mathematics",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "philosophy-mexico",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "philosophy-religion",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "phylogenetic-inference",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "physicalism",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "physics-Rpcc",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "physics-experiment",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "physics-holism",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "physics-interrelate",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "physics-structuralism",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "pico-della-mirandola",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "plato",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "plato-aesthetics",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "plato-cratylus",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "plato-ethics",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "plato-ethics-politics",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "plato-ethics-shorter",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "plato-friendship",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "plato-laws",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "plato-metaphysics",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "plato-myths",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "plato-parmenides",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "plato-rhetoric",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "plato-sophstate",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "plato-theaetetus",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "plato-timaeus",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "platonism",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "platonism-mathematics",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "pleasure",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "plotinus",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "plural-quant",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "plutarch",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "pm-notation",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "poincare",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "political-obligation",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "political-representation",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "polqar",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "pomponazzi",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "popper",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "population-genetics",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "pornography-censorship",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "port-royal-logic",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "possibilism-actualism",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "possible-objects",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "possible-worlds",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "postmodernism",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "practical-reason",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "practical-reason-action",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "practical-reason-med",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "pragmatic-belief-god",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "pragmatics",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "pragmatism",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "prediction-accommodation",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "preferences",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "presentism",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "presocratics",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "presupposition",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "price",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "prichard",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "principia-mathematica",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "principle-beneficence",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "prior",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "prisoner-dilemma",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "privacy",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "private-language",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "probability-interpret",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "probability-medieval-renaissance",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "problem-of-many",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "process-philosophy",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "process-theism",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "proclus",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "progress",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "promises",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "proof-theoretic-semantics",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "proof-theory",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "proof-theory-development",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "prop-attitude-reports",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "properties",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "properties-emergent",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "property",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "propositional-function",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "propositions",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "propositions-singular",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "propositions-structured",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "protagoras",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "providence-divine",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "pseudo-dionysius-areopagite",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "pseudo-science",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "psychiatry",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "psychologism",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "psychology-normative-cognition",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "public-goods",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "public-reason",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "publichealth-ethics",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "publicity",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "pufendorf",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "pyrrho",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "pythagoras",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "pythagoreanism",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "saantarak-sita",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "sakya-pandita",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "santayana",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "sartre",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "scheler",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "schelling",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "schiller",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "schlegel-aw",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "schleiermacher",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "schlick",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "schmitt",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "school-names",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "school-salamanca",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "schopenhauer",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "schopenhauer-aesthetics",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "schutz",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "science-big-data",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "science-mechanisms",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "science-theory-observation",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "scientific-discovery",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "scientific-knowledge-social",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "scientific-method",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "scientific-objectivity",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "scientific-pluralism",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "scientific-progress",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "scientific-realism",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "scientific-reduction",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "scientific-representation",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "scientific-reproducibility",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "scientific-revolutions",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "scientific-underdetermination",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "scientific-unity",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "scottish-18th",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "scottish-19th",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "scottus-eriugena",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "secession",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "selection-units",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "self-consciousness",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "self-consciousness-phenomenological",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "self-deception",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "self-defense",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "self-knowledge-externalism",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "self-locating-beliefs",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "self-obligations",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "self-reference",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "sellars",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "semiotics-medieval",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "seneca",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "sense-data",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "set-theory",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "set-theory-constructive",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "settheory-alternative",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "settheory-early",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "sex-sexuality",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "sextus-empiricus",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "shaaban-robert-ethics",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "shaftesbury",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "shankara",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "shantideva",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "shared-agency",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "sidgwick",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "sidney-hook",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "simone-weil",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "simplicity",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "simplicius",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "simulations-science",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "sin-christian",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "singular-terms-medieval",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "situations-semantics",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "skeptical-theism",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "skepticism",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "skepticism-ancient",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "skepticism-content-externalism",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "skepticism-latin-america",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "skepticism-medieval",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "skepticism-moral",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "skepticism-moral-responsibility",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "smith-moral-political",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "social-choice",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "social-construction-naturalistic",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "social-institutions",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "social-minimum",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "social-norms",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "social-ontology",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "socialism",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "sociobiology",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "socrates",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "solidarity",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "song-ming-confucianism",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "sophie-de-grouchy",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "sophists",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "sorites-paradox",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "sortals",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "sounds",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "spacetime-bebecome",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "spacetime-iframes",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "spacetime-singularities",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "spacetime-supertasks",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "spacetime-theories",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "spacetime-theories-classical",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "special-obligations",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "species",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "speech-acts",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "spencer",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "speusippus",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "spinoza",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "spinoza-attributes",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "spinoza-epistemology-mind",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "spinoza-modal",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "spinoza-physics",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "spinoza-political",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "spinoza-psychological",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "sport",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "square",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "sriharsa",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "states-of-affairs",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "statistics",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "statphys-Boltzmann",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "statphys-statmech",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "stein",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "stevenson",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "stoicism",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "strauss-leo",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "strawson",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "structural-realism",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "structuralism-mathematics",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "structure-scientific-theories",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "stumpf",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "suarez",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "substance",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "sufficient-reason",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "suhrawardi",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "suicide",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "supererogation",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "supervenience",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "supervenience-ethics",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "susman-margarete",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "sylvan-routley",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "symmetry-breaking",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "syrianus",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "systems-synthetic-biology",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "tarski",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "taurellus",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "technology",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "teleological-arguments",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "teleology-biology",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "temporal-parts",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "tense-aspect",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "territorial-rights",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "terrorism",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "testimony-episprob",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "theater",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "theophrastus",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "theoretical-terms-science",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "theories-biological-development",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "thick-ethical-concepts",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "thomas-kuhn",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "thomas-more",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "thoreau",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "thought-experiment",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "tibbon",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "time",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "time-machine",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "time-thermo",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "time-travel",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "time-travel-phys",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "toleration",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "tort-theories",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "torture",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "touch",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "trans",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "transcendental-arguments",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "transcendentalism",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "transcendentals-medieval",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "transformative-experience",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "transmission-justification-warrant",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "trinity",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "tropes",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "trust",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "truth",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "truth-axiomatic",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "truth-correspondence",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "truth-deflationary",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "truth-identity",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "truth-pluralist",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "truth-pragmatic",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "truth-revision",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "truth-values",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "truthlikeness",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "truthmakers",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "tsongkhapa",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "turing",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "turing-machine",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "turing-test",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "twardowski",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "two-dimensional-semantics",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "twotruths-india",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "twotruths-tibet",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "type-theory-church",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "type-theory-intuitionistic",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "typelogical-grammar",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "types-tokens",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "universals-medieval",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "utilitarianism-history",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "walter-chatton",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "wang-yangming",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "war",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "watsuji-tetsuro",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "weakness-will",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "weber",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "well-being",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "wesley-salmon",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "whewell",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "whitehead",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "wilhelm-humboldt",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "wilhelm-windelband",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "wilhelm-wundt",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "william-auvergne",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "william-champeaux",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "william-david-ross",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "williams-bernard",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "williams-dc",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "wilson",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "wittgenstein",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "wittgenstein-aesthetics",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "wittgenstein-atomism",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "wittgenstein-mathematics",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "wodeham",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "wolff-christian",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "wollstonecraft",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "word-meaning",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "work-labor",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "world-government",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "wright",
+   "status": "created+cleared"
+  },
+  {
+   "slug": "wyclif",
+   "status": "created+cleared"
+  }
+ ]
+}

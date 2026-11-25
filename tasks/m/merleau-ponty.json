@@ -1,0 +1,31 @@
+{
+  "slug": "merleau-ponty",
+  "kind": "retranslate",
+  "zh_doc": "m/merleau-ponty.md",
+  "state": "cleared",
+  "translation_mode": "human",
+  "project_spec": {
+    "audience": "中文哲学读者（研究者与研究生为主）",
+    "purpose": "学术阅读与引用（SEP 词条简体中文译本）",
+    "register": "现代汉语学术书面语",
+    "terminology_basis": "shu-yu-biao.md／ren-ming-biao.md／baseline/term-concepts.md",
+    "delivery": "GitBook Markdown＋VitePress 双语站",
+    "qa_level": "CY/T 266＋ISO 5060（六轴机检＋人工复核）"
+  },
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-25T04:22:05Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-25T04:22:05Z",
+  "version_pin": {
+    "pubinfo_date": "Sep 28, 2023",
+    "archive_edition": "Fall 2025",
+    "sha256": "67e5c8ec54ba360a89cc37705b94b3fcb5a0b48ffc3e0d913e0f315619506643"
+  }
+}

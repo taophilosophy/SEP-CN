@@ -1,0 +1,31 @@
+{
+  "slug": "socrates",
+  "kind": "retranslate",
+  "zh_doc": "s/socrates.md",
+  "state": "cleared",
+  "translation_mode": "human",
+  "project_spec": {
+    "audience": "中文哲学读者（研究者与研究生为主）",
+    "purpose": "学术阅读与引用（SEP 词条简体中文译本）",
+    "register": "现代汉语学术书面语",
+    "terminology_basis": "shu-yu-biao.md／ren-ming-biao.md／baseline/term-concepts.md",
+    "delivery": "GitBook Markdown＋VitePress 双语站",
+    "qa_level": "CY/T 266＋ISO 5060（六轴机检＋人工复核）"
+  },
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-25T04:23:26Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-25T04:23:26Z",
+  "version_pin": {
+    "pubinfo_date": "May 26, 2022",
+    "archive_edition": "Fall 2025",
+    "sha256": "66c1adbed21e237788c9c3fcb5a81c7bbb30b910e3f5b118c78dda95804daf17"
+  }
+}

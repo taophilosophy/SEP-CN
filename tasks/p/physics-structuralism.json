@@ -1,0 +1,31 @@
+{
+  "slug": "physics-structuralism",
+  "kind": "retranslate",
+  "zh_doc": "p/physics-structuralism.md",
+  "state": "cleared",
+  "translation_mode": "human",
+  "project_spec": {
+    "audience": "中文哲学读者（研究者与研究生为主）",
+    "purpose": "学术阅读与引用（SEP 词条简体中文译本）",
+    "register": "现代汉语学术书面语",
+    "terminology_basis": "shu-yu-biao.md／ren-ming-biao.md／baseline/term-concepts.md",
+    "delivery": "GitBook Markdown＋VitePress 双语站",
+    "qa_level": "CY/T 266＋ISO 5060（六轴机检＋人工复核）"
+  },
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-25T04:22:45Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-25T04:22:45Z",
+  "version_pin": {
+    "pubinfo_date": "Feb 20, 2026",
+    "archive_edition": "Spring 2026",
+    "sha256": "c25cd0dd310b982702df0c7c937c49c488934940bf4078adb394d3e465a4fd25"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "life-meaning",
+  "kind": "retranslate",
+  "zh_doc": "l/life-meaning.md",
+  "state": "cleared",
+  "translation_mode": "human",
+  "project_spec": {
+    "audience": "中文哲学读者（研究者与研究生为主）",
+    "purpose": "学术阅读与引用（SEP 词条简体中文译本）",
+    "register": "现代汉语学术书面语",
+    "terminology_basis": "shu-yu-biao.md／ren-ming-biao.md／baseline/term-concepts.md",
+    "delivery": "GitBook Markdown＋VitePress 双语站",
+    "qa_level": "CY/T 266＋ISO 5060（六轴机检＋人工复核）"
+  },
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-25T04:21:36Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
+  "blockers": [],
+  "created_at": "2026-11-25T04:21:35Z",
+  "version_pin": {
+    "pubinfo_date": "Jun 26, 2026",
+    "archive_edition": "Fall 2026",
+    "sha256": "88be355ffe3147d2a841632194aa53ebd28fa1c6878d473b7c7bb6d77dca5190"
+  }
+}
