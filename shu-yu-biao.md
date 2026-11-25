@@ -173,17 +173,21 @@
 | aesthetic engagement | — | 审美参与（亦作“审美介入”） | 语料回收（f20 审计 2026-11-25） | 环境美学通行（与 aesthetic experience 审美经验分列）；凭证 2026-11-25 | 2026-11-25 |
 | aesthetic enjoyment | — | 审美享受 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·医学美学与美容医学·美容医学心理学，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | aesthetic experience | — | 审美经验（亦作“审美体验”） | 语料回收 | 学界惯例（美学通行）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
+| aesthetic formalism | — | 审美形式主义 | 语料回收（美学族扫描 2026-11-25） | 美学通行（与 aesthetic realism 审美实在论对举；语料 14 次）；凭证 2026-11-25 | 2026-11-25 |
 | aesthetic idea | — | 审美理念 | aesthetic-judgment 首译 | 康德《判断力批判》§49 通行汉译；凭证 2026-11-09 | 2026-11-09 |
 | aesthetic intuition | — | 审美直观 | landmann-kalischer | 美学通行 | 2026-11-04 |
 | aesthetic judgment / aesthetic judgments / aesthetic judgement / aesthetic judgements | — | 审美判断 | SUMMARY 定名沿用（aesthetic-judgment 词条）；语料回收 | SUMMARY 题名；跨条一致；2026-11-13 重复行合并（旧键 `aesthetic judgments`）；英式拼写 judgment 异形并入（2026-11-25） | 2026-11-13 |
 | aesthetic perception | — | 审美知觉 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·医学美学与美容医学·美容医学心理学，2026-11-18 JWT 直连凭证） | 2026-11-19 |
-| aesthetic properties | — | 审美属性 | 语料回收（zh 频次审计 2026-11-25） | 学界通行译名（审定库无对口命中，2026-11-25）；凭证 2026-11-25 | 2026-11-25 |
+| aesthetic pleasure | — | 审美愉悦 | 语料回收（美学族扫描 2026-11-25） | 美学通行（康德“无利害的愉悦”；语料 42 次）；凭证 2026-11-25 | 2026-11-25 |
+| aesthetic properties / aesthetic property | — | 审美属性 | 语料回收（zh 频次审计 2026-11-25） | 学界通行译名（审定库无对口命中，2026-11-25）；凭证 2026-11-25；单数形 aesthetic property 并入（2026-11-25） | 2026-11-25 |
 | aesthetic protectionism | — | 审美保护主义 | 首译（environmental-aesthetics） | 本词条术语（以审美价值为自然保护根据） | 2026-11-08 |
 | aesthetic puzzle | — | 美学谜题 | imaginative-resistance | 首译（Weatherson 2004 四谜之一）；凭证 2026-11-12 | 2026-11-12 |
+| aesthetic realism | — | 审美实在论 | 语料回收（美学族扫描 2026-11-25） | 美学通行（审美属性客观存在论；语料 11 次）；凭证 2026-11-25 | 2026-11-25 |
 | aesthetic spectator | — | 审美旁观者 | gadamer-aesthetics | 学界惯例（美学研究通行） | 2026-11-01 |
 | aesthetic state of mind | — | 审美心境 | landmann-kalischer | 本词条定案（Zustand=状态；席勒审美状态语境） | 2026-11-04 |
 | aesthetic subjectivity | — | 审美主体性 | gadamer-aesthetics | 学界惯例（美学研究通行） | 2026-11-01 |
 | aesthetic testimony | — | 审美证言 | SUMMARY 定名沿用（aesthetic-testimony 词条） | SUMMARY 题名；跨条一致 | 2026-11-09 |
+| aesthetic value | — | 审美价值 | 语料回收（美学族扫描 2026-11-25） | 美学通行（语料 202 次；与 artistic value 艺术价值分列）；凭证 2026-11-25 | 2026-11-25 |
 | aestheticism | — | 审美主义 | oakeshott 首译 | 学界通行汉译；凭证 2026-11-07 | 2026-11-07 |
 | aesthetics | — | 美学 | 首现（schlegel） | 学界惯例（哲学通行）；凭证 2026-11-07 | 2026-11-07 |
 | aesthetics of engagement | — |介入美学（亦作“参与美学”）| 首译（environmental-aesthetics） | Berleant 术语（亦作“参与美学”“介入的美学”备查） | 2026-11-08 |
@@ -511,6 +515,8 @@
 | artificial persons | — | 人造人格 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | artificial viscosity | — | 人工黏性 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·航天科学技术·空气动力学与飞行原理，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | artistae | — | 艺学家 | condemnation 首译 | 依 Faculty of Arts 定名（中世纪大学艺学院教师/学生）；凭证 2026-11-08 | 2026-11-08 |
+| artistic expression | — | 艺术表现 | 语料回收（美学族扫描 2026-11-25） | 艺术哲学通行（表现论核心；语料 12 次）；凭证 2026-11-25 | 2026-11-25 |
+| artistic value | — | 艺术价值 | 语料回收（美学族扫描 2026-11-25） | 艺术哲学通行（语料 21 次）；凭证 2026-11-25 | 2026-11-25 |
 | artworld | — | 艺术界 | 语料回收（specs/058 全库提取） | 学界通行（丹托艺术理论通行译名；语料 8 处一致）（2026-11-24 联网／语料核对，凭证 pool-harvest-b5-2026-11-24.md） | 2026-11-24 |
 | as if | das Als Ob | 仿佛 | vaihinger 首译 | 费英格核心概念通行译法（《仿佛的哲学》通行书名从之）；凭证 2026-11-14 | 2026-11-14 |
 | asādhāraṇa | असाधारण | 特殊（非共） | early-modern-india | 新正理因果义译（'special'；karaṇa 之性）；凭证 2026-11-10 | 2026-11-10 |
@@ -583,6 +589,7 @@
 | autexousion | autexousion / autoexousy | 自主能力（autexousion） | cambridge-platonists 补登 | 普罗提诺术语（库德沃斯与莫尔取用）；凭证 2026-11-09；FLAG 裁定 2026-11-21：原文列补录同文异形：SEP 同段并用 autexousion（普罗提诺系）与 autoexousy（摩尔用语） | 2026-11-21 |
 | authentic performance | — | 本真演奏 | music | 学界通行（authentic performance 通译“本真演奏”）；凭证 2026-11-09 | 2026-11-09 |
 | authenticity | — | 本真性 | oakeshott 首译 | 发布词汇表既有形（法哲学效力义）；凭证 2026-11-07 | 2026-11-07 |
+| authorial intention | — | 作者意图 | 语料回收（美学族扫描 2026-11-25） | 艺术哲学与解释理论通行（语料 5 次）；凭证 2026-11-25 | 2026-11-25 |
 | authoritarian personality | — | 权威主义人格 | adorno | 学界通行汉译（《权威主义人格》研究通行）；审定库无查询件（termonline-all 目录现查 2026-11-10） | 2026-11-10 |
 | authoritarianism | — | 权威主义 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·心理学·社会心理学，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | authoritative teaching | — | 可信教说 | jaina-philosophy | 随既有 āpta＝可信者 | 2026-11-25 |
@@ -605,6 +612,7 @@
 | avacchinna | अवच्छिन्न | 限界者 | early-modern-india | 新正理通行义译（delimitor；限定出现之属性）；凭证 2026-11-10 | 2026-11-10 |
 | avadhi-jñāna | अवधिज्ञान | 有限知 | jaina-philosophy | 耆那五种智之一（有限直接知），本库自拟 | 2026-11-25 |
 | avaktavya | अवक्तव्य | 不可言说 | jaina-philosophy | 义译（七支之一） | 2026-11-25 |
+| avant-garde | — | 先锋派 | 语料回收（美学族扫描 2026-11-25） | 艺术史与艺术哲学通行（语料 8 次）；凭证 2026-11-25 | 2026-11-25 |
 | āvāpa | आवाप | 集取 | early-modern-india | 语言习得义译（collection；与 udvāpa 摒除对举）；凭证 2026-11-10 | 2026-11-10 |
 | āvaraṇa | आवरण | 障 | yogacara 首译 | 汉传佛典千年通行译名（烦恼障、所知障）；凭证 2026-11-11；原文列联网查证：Monier-Williams《梵英辞典》ā-varaṇa 条（Cologne 数字词典天城体词头渲染）（2026-11-13 查，凭证 orig-verify-2026-11-13-b5.tsv） | 2026-11-13 |
 | Avatamsaka Sutra | — | 《华严经》 | 语料回收（specs/058 全库提取） | 汉译佛典通行经题（实叉难陀译《大方广佛华严经》，八十卷本；非抉择项，语料 38 处一致）（2026-11-24 联网／语料核对，凭证 works-batch21-2026-11-24.md） | 2026-11-24 |
@@ -1633,6 +1641,7 @@
 | covering law model | — | 覆盖律模型 | oakeshott 首译 | 学界通行汉译（分析历史哲学；亨佩尔模型）；凭证 2026-11-07 | 2026-11-07 |
 | covertly erotic art | — | 隐秘的情色艺术 | 首译（erotic-art） | 本词条术语（covert intention） | 2026-11-08 |
 | CP-net | — | CP 网（条件偏好网络） | logic-preference | AI 文献通行 | 2026-11-05 |
+| craft | — | 工艺（亦作“手艺”） | 语料回收（美学族扫描 2026-11-25） | 艺术哲学通行（与 fine art 美的艺术对举；语料 5 次）；凭证 2026-11-25 | 2026-11-25 |
 | Cratylus | — | 《克拉底鲁篇》 | 语料回收（specs/058 全库提取） | 本库译名（柏拉图对话；语料 6 处一致）（2026-11-24 语料核对，凭证 works-batch31-2026-11-24.md） | 2026-11-24 |
 | created glory | — | 受造荣耀 | 首译（saadya） | 犹太哲学研究通行（created glory，与“受造之言”并为预言之两要素）；凭证 2026-11-09 | 2026-11-09 |
 | created word | — | 受造之言 | 首译（saadya） | 犹太哲学研究通行（Saadya 预言学说 created word／divine “created” speech）；凭证 2026-11-09 | 2026-11-09 |
@@ -1920,6 +1929,7 @@
 | dependent product | — | 依赖积 | axiom-choice（补充材料） | 类型论通行（Π 型） | 2026-11-13 |
 | dependent sum | — | 依赖和 | axiom-choice（补充材料） | 类型论通行（Σ 型；与 coproduct 余积对举） | 2026-11-13 |
 | dependent type | — | 依赖类型 | axiom-choice（补充材料） | 类型论通行（依值类型） | 2026-11-13 |
+| depiction | — | 描绘（图像再现义；与 pictorial representation 图像再现分列） | 语料回收（美学族扫描 2026-11-25） | 图像哲学通行（语料“描绘”268 次，含一般义，需按域取）；凭证 2026-11-25 | 2026-11-25 |
 | depositio | — | 撤定 | obligationes 首译 | 自译裁定（与 positio 对举；凭证 2026-11-07）；凭证 2026-11-07 | 2026-11-07 |
 | der ganze Mensch | der ganze Mensch | 完整的人 | yorck 首译 | B 档：词面直译（作者英译 the full human being）；凭证 2026-11-11 | 2026-11-11 |
 | dereliction | — | 废弃 | logic-linear | 线性逻辑指数规则通行译法；凭证 2026-11-10 | 2026-11-09 |
@@ -2693,6 +2703,7 @@
 | expression | Ausdruck | 表现（美学/阿多诺语境；与 expression 普通用法“表达”随文区分） | adorno | 学界通行汉译（美学与《美学理论》中译通行）；凭证 2026-11-10 | 2026-11-10 |
 | expression meaning | — | 表达式意义 | idiolects | 语言哲学通行（与 speaker's meaning 对举）；凭证 2026-11-11 | 2026-11-11 |
 | expression theory | — | 表现论 | music | 学界通行（音乐表现力理论）；凭证 2026-11-09 | 2026-11-09 |
+| expression theory of art | — | 艺术表现论 | 语料回收（美学族扫描 2026-11-25） | 艺术哲学通行（托尔斯泰—科林伍德谱系）；凭证 2026-11-25 | 2026-11-25 |
 | expressionism | — | 表现主义 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·建筑学·中外建筑历史·外国19~20世纪建筑，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | expressive power | — | 表达力 | logic-fuzzy | 逻辑学通行译法；凭证 2026-11-09 | 2026-11-09 |
 | expressiveness | — | 表现力（音乐的情感表现） | music | 学界通行；凭证 2026-11-09 | 2026-11-09 |
@@ -3808,6 +3819,7 @@
 | institutional facts | — | 制度事实 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | institutional neutrality | — | 机构中立 | 语料回收（academic-freedom） | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29） | 2026-10-27 |
 | institutional practice | — | 制度实践 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
+| institutional theory of art | — | 艺术制度论 | 语料回收（美学族扫描 2026-11-25） | 艺术哲学通行（迪基艺术界理论）；凭证 2026-11-25 | 2026-11-25 |
 | institutionalism | — | 制度主义 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·经济学·制度经济学，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | Institutions de physique | — | 《物理学奠基》 | 语料回收（specs/058 全库提取） | 本库译名（夏特莱侯爵夫人，1740；未见中译本，语料 39 处一致，含短形《奠基》）（2026-11-24 联网／语料核对，凭证 works-batch20-2026-11-24.md） | 2026-11-24 |
 | instrumental agency | — | 工具性能动 | bodily-awareness 首译 | 学界通行译名（身体意识与认知神经科学文献）；凭证 2026-11-07 | 2026-11-07 |
@@ -4585,6 +4597,7 @@
 | masculinity | — | 男性气质 | 语料回收（specs/050 候选池） | 条目语境研判（性别哲学通行男性气质（与女性气质对偶）；审定“男性化”为性医学义）；审定名词库（termonline-all·行为医学·性行为及其障碍·性行为，2026-11-18 JWT 直连凭证，审定作“男性化”） | 2026-11-19 |
 | maṣlaḥa | مصلحة | 利益（公共福利） | ibn-taymiyya | 学界通行（教法“利益”原则） | 2026-11-12 |
 | masochism | — | 受虐症 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·男科及性医学·性心理障碍，2026-11-18 JWT 直连凭证） | 2026-11-19 |
+| mass art | — | 大众艺术 | 语料回收（美学族扫描 2026-11-25） | 艺术哲学通行（卡罗尔；与 popular art 通俗艺术分列）；凭证 2026-11-25 | 2026-11-25 |
 | mass culture | — | 大众文化 | 语料回收（f20 审计 2026-11-25） | 文化哲学通名（语料 27 次）；凭证 2026-11-25 | 2026-11-25 |
 | mass expression | — | 物质名词表达 | logic-massexpress | 语法通行译法（与“物质名词”配套）；凭证 2026-11-10 | 2026-11-09 |
 | mass man | — | 大众人 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
@@ -5096,6 +5109,7 @@
 | Muromachi | 室町 | 室町（室町时代） | japanese-aesthetics | 学界惯例（日本史研究通行译法“室町时代”） | 2026-11-08 |
 | mushakkik | مشكك | 调节的 | ibn-taymiyya | 首译（tashkīk 调节之形容词；与单义/歧义对举） | 2026-11-12 |
 | music alone | — | 纯音乐（music alone） | music | 学界通行（Kivy 1990 书名与论题通行译法）；凭证 2026-11-09 | 2026-11-09 |
+| musical expressiveness | — | 音乐表现力 | 语料回收（美学族扫描 2026-11-25） | 音乐哲学通行（语料 12 次）；凭证 2026-11-25 | 2026-11-25 |
 | musical ontology | — | 音乐本体论 | music | 学界通行；凭证 2026-11-09 | 2026-11-09 |
 | musical understanding | — | 音乐理解 | music | 学界通行；凭证 2026-11-09 | 2026-11-09 |
 | musical work | — | 音乐作品 | music | 学界通行；凭证 2026-11-09；审定名词库（termonline-all·编辑与出版学名词 08.02.004，2022）作“音乐作品”，与本行一致（2026-11-24 JWT 直连，凭证 termonline-b8-2026-11-24.tsv） | 2026-11-09 |
@@ -5534,6 +5548,7 @@
 | ontological turn | — | 本体论转向 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | ontology | — | 本体论（通行；亦作“存在论”） | 语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04；撞形豁免 2026-11-21：同形异语／同概念异形，按条目语境区分，不合并 | 2026-11-21 |
 | ontology (Leśniewski) | — | 本体论 | lvov-warsaw | Leśniewski 术语（与形而上学 ontology 分义）；凭证 2026-11-09；撞形豁免 2026-11-21：同形异语／同概念异形，按条目语境区分，不合并 | 2026-11-21 |
+| ontology of art | — | 艺术本体论 | 语料回收（美学族扫描 2026-11-25） | 艺术哲学通行（语料 18 次）；凭证 2026-11-25 | 2026-11-25 |
 | ontology of the unfinished | — | 未完成者本体论 | bloch 首译 | 学界通行译名（布洛赫研究文献）；凭证 2026-11-07 | 2026-11-07 |
 | oocyte | — | 卵母细胞 | 首现（cloning） | 学界惯例（发育生物学/生殖医学通行）；凭证 2026-11-07 | 2026-11-07 |
 | opacity | — | 不透明性 | 语料回收（specs/050 候选池） | 条目语境研判（语言哲学通行不透明性（指称不透明）；审定“不透明度”为天体物理义）；审定名词库（termonline-all·天文学·天体物理学，2026-11-18 JWT 直连凭证，审定作“不透明度”） | 2026-11-19 |
@@ -8480,6 +8495,7 @@
 | Udasi | Udāsī | 乌达西派 | 首译（sikh-philosophy） | 锡克研究通行（室利·昌德所创游方苦修系）；凭证 2026-11-09 | 2026-11-09 |
 | uddeśa | उद्देश | 列举 | early-modern-india | 正理方法论义译（enumeration；三步法第一步）；凭证 2026-11-10 | 2026-11-10 |
 | udvāpa | उद्वाप | 摒除 | early-modern-india | 语言习得义译（rejection；与 āvāpa 集取对举）；凭证 2026-11-10 | 2026-11-10 |
+| ugliness | — | 丑（美学范畴；与 beauty 美对举） | 语料回收（美学族扫描 2026-11-25） | 美学通行（语料 107 次）；凭证 2026-11-25 | 2026-11-25 |
 | ultimate control | — | 终极控制 | moral-responsibility-empirical | 自由意志论通行 | 2026-11-07 |
 | ultimate ends | — | 终极目的 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | ultimate felicity | — | 终极幸福 | gersonides | 犹太-伊斯兰哲学通行（felicity） | 2026-11-09 |
