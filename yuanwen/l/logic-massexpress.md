@@ -195,7 +195,7 @@ Universal instantiation: as mentioned in section 2, this kind of reasoning also 
 
 Also, sentences like the following should come out as always true, given the meanings of the words involved: *All gold is gold.* And in any situation in which there is some gold in Zurich, this should also be true: *The gold in Zurich is gold.*
 
-Mass nouns can also be used in generic sentences, which express generalizations: *Gold is metal*. So one would need a semantics for generic sentences to check, for instance, if this reasoning is validated: *This is gold. Gold is metal. Therefore, this is metal.* However, the semantics of genericity is a vast topic, which falls out of the scope of this entry (see also [^note-7]).
+Mass nouns can also be used in generic sentences, which express generalizations: *Gold is metal*. So one would need a semantics for generic sentences to check, for instance, if this reasoning is validated: *This is gold. Gold is metal. Therefore, this is metal.* However, the semantics of genericity is a vast topic, which falls out of the scope of this entry (see also [note 7](notes.html#note-7)).
 
 Finally, mass nouns can also be used as count nouns: *Gold is a metal*. So a full-blown semantics, covering both mass nouns and count nouns, should be able to validate syllogisms like the following, which involve mass and count uses of a mass noun: *This is gold. Gold is a metal. Therefore, this is a metal.*
 

@@ -220,9 +220,9 @@ T ⊧_{Ω} φ
 
 if for all complete Boolean algebras *B* and for all ordinals α,
 
-if *V**B*α ⊧ T then *V**B*α ⊧ φ.
+if *VB*α ⊧ T then *VB*α ⊧ φ.
 
-We say that a statement φ is Ω-*satisfiable* if there exists an ordinal α and a complete Boolean algebra *B* such that *V**B*α ⊧ φ, and we say that φ is Ω-*valid* if ∅ ⊧_{Ω} φ. So, the above theorem says that (under our background assumptions), the statement “φ is Ω-satisfiable” is generically invariant and in terms of Ω-validity this is simply the following:
+We say that a statement φ is Ω-*satisfiable* if there exists an ordinal α and a complete Boolean algebra *B* such that *VB*α ⊧ φ, and we say that φ is Ω-*valid* if ∅ ⊧_{Ω} φ. So, the above theorem says that (under our background assumptions), the statement “φ is Ω-satisfiable” is generically invariant and in terms of Ω-validity this is simply the following:
 
 **Theorem 3.5** (Woodin 1999)[^woodin-1999].
 

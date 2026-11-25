@@ -60,8 +60,12 @@ MD_DEF_RE = re.compile(r"^\[\^([^\]\s]+)\]:(.*)$", re.S)
 # `note-2005` 判例）——与 article_ledger._is_note_key 同判据（账与 R 同语料）
 NOTEDEF_KEY_RE = re.compile(r"^note-(?!1[5-9]\d\d\b|20\d\d\b)\S+$")
 MD_LIST_RE = re.compile(r"^(\s*)([-*+]|\d+[.])\s+(.*)$")
-OL_ITEM_RE = re.compile(r"^(\d+)\.\s+(.*)$")
-UL_ITEM_RE = re.compile(r"^[-*+]\s+(.*)$")
+# 记号后可无内容、但**有内容时必须隔空白**：H0 偶有空 `<li></li>`（suicide
+# 判例：`<ol type="a">` 首个 `<li>` 无内容），C 侧落成 `> 1. `（记号后仅空白）。
+# 若放开成 `\s*`，`> *a* and *b* …` 这类以星号起的**强调正文**会被误认成
+# 列表项（aristotle／nietzsche 判例：整页 B3.1 破）。
+OL_ITEM_RE = re.compile(r"^(\d+)\.(?:\s+(.*))?$")
+UL_ITEM_RE = re.compile(r"^[-*+](?:\s+(.*))?$")
 SUB_MAP = getattr(yuanwen, "SUB_MAP", {})
 SUP_MAP = getattr(yuanwen, "SUP_MAP", {})
 GREEK_UNI = getattr(yuanwen, "GREEK_UNI", {})
@@ -152,10 +156,21 @@ _NOTE_SEEN = {}  # 已按规范形输出的键计数（游标跳过判据）
 
 
 def _stripped_map(s):
-    """去 md 记号（*、\\、_{…}/^{…} 括号）后的可见串 + 位置映射。"""
+    """去 md 记号（*、\\、_{…}/^{…} 括号、引注标记 `[^key]`）后的可见串 + 位置映射。
+
+    引注标记必须整体掩掉（2026-11-25，diagrams／game-theory 判例）：标记里的
+    `[^shin-1994]` 含年份 `1994`，与正文锚文 `Shin (1994)` 同形，旧实现把它当
+    候选，在标记内部插入 md 链接 → `[^shin-[1994](#shin94)]`，后续引注剥离
+    正则失配，页面残留 `(#shin94)]`。标记在 H0 无可见文，不构成锚文。
+    """
     out, pos, stack = [], [], []
     i = 0
     while i < len(s):
+        if s.startswith("[^", i):
+            j = s.find("]", i + 2)
+            if j > i and not re.search(r"\s", s[i + 2:j]):
+                i = j + 1
+                continue
         if s.startswith("_{", i) or s.startswith("^{", i):
             stack.append(1)
             i += 2
@@ -272,7 +287,10 @@ def restore_links(line):
             continue
         st = None
         mspans = _math_spans(line)
-        mk = re.match(r"\s*\d+[.)] ", line)
+        mk = re.match(r"\s*(?:>\s*)*\d+[.)] ", line)
+        # 引块内的有序列表标记同为 `> 2. `（metaphysics-massexpress 判例：
+        # 不剥 `>` 前缀则标记位保护失效，锚文 `2` 挂到标记上 → 行内成
+        # `[2](#…)`，列表解析失效、整块跌回 <p>）
         mk_end = mk.end() if mk else 0
         # 候选序：H0 记的**左邻字符**优先（`(<a>20</a>)` 的 `(`；同文另有
         # 裸 `[20]` 标记时不再抢位，possible-worlds 判例），其余顺次兜底
@@ -757,6 +775,18 @@ def _inline_md_to_html(text):
         m2 = re.fullmatch(r"\.\./assets/[a-z0-9-]+/([A-Za-z0-9._%+-]+)", url)
         if m2:
             return '<a href="%s">%s</a>' % (m2.group(1), t)
+        mnote = re.fullmatch(r"notes\.html#note-(.+)", url)
+        if mnote:
+            # md 里的文字型注释链（C 为 `see note 6` 这类散文引用保留的链，
+            # 2026-11-25）本身就是 H0 的「非规范形」——note_forms 游标须在此
+            # 同步前进，否则后续 `[^note-N]` 标记会冒领这一形（fundamentality／
+            # kant-hume-causality／spacetime-singularities 判例：`work.` 后
+            # 冒出正文式 “note 10” 而非上标）
+            forms = _NOTE_FORMS or []
+            k = _NOTE_IDX[0]
+            if k < len(forms) and forms[k]["n"] == mnote.group(1):
+                _NOTE_IDX[0] = k + 1
+            return '<a href="%s">%s</a>' % (url, t)
         m3 = re.fullmatch(r"([a-z0-9-]+)\.([a-z0-9-]+)\.md", url)
         if m3:
             return '<a href="%s.%s">%s</a>' % (m3.group(2), "html", t)
@@ -808,6 +838,10 @@ def _inline_md_to_html(text):
     for idx, val in enumerate(math_store):
         if val.startswith("$$"):
             body = val[2:-2]
+            # 显示体内的嵌套 `$…$` 既有 H0 的 `\(…\)`（logic-intensional），
+            # 也有上游字面美元（identity-time 的 `\tag{$1'$}`）——无账不能判，
+            # 2026-11-25 试过未转义对启发式转换：修 1 件、破 11 件池件，已回退。
+            # 正解＝账驱动（按 H0 显示体指纹记嵌套 span），留待下一批。
             # 显示体形态按账：H0 裸排环境（`\begin{align}` 无 `\[…\]` 包裹）
             # 原样发，不补定界符——C 的 wrap_naked_envs 只是渲染层约定，
             # 右逆必须与 H0 逐字节一致（belief-merging 判例）
@@ -1262,7 +1296,7 @@ def _render_bq(q, _depth=0):
             # （boole 等 10 件判例），此时维持旧 <p>
             items = [OL_ITEM_RE.match(x.strip()) for x in p if x.strip()]
             if int(items[0].group(1)) == 1:
-                lis = "".join("<li>%s</li>" % _inline_md_to_html(m.group(2))
+                lis = "".join("<li>%s</li>" % _inline_md_to_html(m.group(2) or "")
                               for m in items)
                 inner += "<ol>%s</ol>" % lis
             else:
@@ -1270,7 +1304,7 @@ def _render_bq(q, _depth=0):
                     _inline_md_to_html(x) for x in p)
         elif p and all(UL_ITEM_RE.match(x.strip()) for x in p if x.strip()):
             lis = "".join("<li>%s</li>" % _inline_md_to_html(
-                UL_ITEM_RE.match(x.strip()).group(1))
+                UL_ITEM_RE.match(x.strip()).group(1) or "")
                 for x in p if x.strip())
             inner += "<ul>%s</ul>" % lis
         else:

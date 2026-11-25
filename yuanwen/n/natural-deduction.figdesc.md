@@ -259,7 +259,7 @@ The second (b) described from the bottom up is
 - branch 1: above and to the left is $a=b$
 - branch 2: above and to the right is $F(a)$
 
-### [^note-note24figa] description
+### [Figures in note 24](notes.html#note-note24figa) description
 
 Note 24 has five Gentzen style proofs.
 
@@ -306,7 +306,7 @@ Figure (e):
 - above is ⋮
 - above is $[\neg \phi]$
 
-### [^note-note25figa] description
+### [Figures in note 25](notes.html#note-note25figa) description
 
 Six Fitch style proofs.
 

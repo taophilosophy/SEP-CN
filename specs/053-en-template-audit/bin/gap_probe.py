@@ -44,6 +44,60 @@ def _char_diff(a, b, width=120):
     return ops
 
 
+def _ukey_diverge(ua, ub, width=120):
+    """两个 ukey 流首次分叉处（含两侧窗口），供判断“谁少/多了什么”。"""
+    j = 0
+    while j < min(len(ua), len(ub)) and ua[j] == ub[j]:
+        j += 1
+    return {"at": j,
+            "a": ua[max(0, j - width):j + width],
+            "b": ub[max(0, j - width):j + width]}
+
+
+def fail_block(A, B):
+    """复演 POOL._sub_diff 的吞并逻辑，给出**首个救不回的块**（拒录真因）。
+
+    逐段下标比对的 “first mismatch” 多是可吞并的标记漂移；池的判据是区间内
+    ukey 流相等，故缺口定位必须按同一算法走一遍：ran-out＝吞并到页尾仍不等
+    （文字差或顺序差）；ent-spans＝文字流相等但实体边界对不上。
+    """
+    sm = difflib.SequenceMatcher(None, list(A), list(B),
+                                 autojunk=len(A) > 4000)
+    ops = list(sm.get_opcodes())
+    i = 0
+    while i < len(ops):
+        tag, i1, i2, j1, j2 = ops[i]
+        if tag == "equal":
+            i += 1
+            continue
+        ai1, ai2, bi1, bi2 = i1, i2, j1, j2
+        start = {"op": tag, "range": [i1, i2, j1, j2]}
+        while True:
+            ua = "".join(POOL.ukey(t) for k, t in A[ai1:ai2] if k == "u")
+            ub = "".join(POOL.ukey(t) for k, t in B[bi1:bi2] if k == "u")
+            if ua == ub:
+                break
+            i += 1
+            if i >= len(ops):
+                return {"why": "ran-out", "start": start,
+                        "a_i": [ai1, ai2], "b_i": [bi1, bi2],
+                        "diverge": _ukey_diverge(ua, ub),
+                        "a_head": [t[:200] for k, t in A[ai1:ai1 + 3]],
+                        "b_head": [t[:200] for k, t in B[bi1:bi1 + 3]]}
+            ai2, bi2 = ops[i][2], ops[i][4]
+        at = "".join(t for _, t in A[ai1:ai2])
+        bt = "".join(t for _, t in B[bi1:bi2])
+        i += 1
+        if at == bt or not ua:
+            continue
+        if POOL.ent_spans(POOL.plain(at), POOL.plain(bt)) is None:
+            return {"why": "ent-spans", "start": start,
+                    "a_i": [ai1, ai2], "b_i": [bi1, bi2],
+                    "a": at[:300], "b": bt[:300],
+                    "diff": _char_diff(at, bt)}
+    return None
+
+
 def probe(lib, slug, limit=3):
     p = repo_path("en", slug, "index.html")
     if not os.path.exists(p):
@@ -87,6 +141,8 @@ def probe(lib, slug, limit=3):
     out["mismatch"] = mism
     out["first_index"] = mism[0]["i"] if mism else None
     out["flow"] = flow_diff(A, B)
+    # 拒录真因：按池自己的吞并算法走一遍（first mismatch 多为可吞并的漂移）
+    out["fail"] = fail_block(A, B) if mism else None
     return out
 
 
@@ -157,9 +213,11 @@ def main(argv=None):
         print(text)
     for r in rows:
         first = r.get("mismatch") or [{}]
-        print("[%s] %s %s segs=%s first=%s %s"
-              % (r.get("status"), r["slug"], "", r.get("segs"),
-                 (first[0] or {}).get("reason"), ""), file=sys.stderr)
+        fail = r.get("fail") or {}
+        print("[%s] %s segs=%s first=%s fail=%s@%s"
+              % (r.get("status"), r["slug"], r.get("segs"),
+                 (first[0] or {}).get("reason"), fail.get("why"),
+                 (fail.get("start") or {}).get("range")), file=sys.stderr)
     return 0
 
 

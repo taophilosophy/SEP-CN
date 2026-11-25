@@ -122,7 +122,7 @@ Pettit draws on the literature on judgment aggregation (E.g. Kornhauser and Sage
 | A | Yes | No | Yes | No |
 | B | No | Yes | Yes | No |
 | C | Yes | Yes | No | No |
-| Group | Yes | Yes | Yes |   |
+| Group | Yes | Yes | Yes | _{Yes}╲ᴺᵒ |
 
 If the group decides on the conclusion by a majority vote on what each individual personally thinks s/he ought to do, it will decide against taking the train (this is the “no” in the upper triangle of the lower right box). But this conclusion would be hard to square with the group judgments concerning the three premises of the argument. Whereas, if the group adopts the premise driven procedure, where the conclusion is determined not by a vote but by group’s views regarding the premises, then the group’s conclusion is rational (this is the “yes” in the lower triangle of the lower right box).
 

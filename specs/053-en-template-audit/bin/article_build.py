@@ -378,7 +378,24 @@ def build(md_article_html, ledger):
         out.append('<div id="pubinfo"><em>%s</em></div>\n' % pubinfo)
     else:
         out.append("\n")
+    # TOC 逐字块与「toc 后悬置的正文首段」先算：preamble 过滤要用 _skip_norms
+    _toc_block = (ledger or {}).get("toc_block")
+    _skip_norms = []
+    if _toc_block:
+        # H0 的 toc div 与 main-text div 之间可能悬着正文首块（domination 判例：
+        # main-text div 晚开；consciousness-intentionality 判例：main-text 首段
+        # 在首个 h2 之前）——toc_block 已按 H0 原样带上这一截，正文与前言两侧
+        # 须跳过同文块，否则双发。
+        _mtail = re.search(r"</div>\s*(.*)$", _toc_block, re.S)
+        if _mtail and _mtail.group(1).strip():
+            _skip_norms = [_norm_txt(x) for x in re.findall(
+                r"<(?:h[1-6]|p|blockquote|ul|ol|table|dl)[^>]*>.*?"
+                r"</(?:h[1-6]|p|blockquote|ul|ol|table|dl)>",
+                _mtail.group(1), re.S)]
     if preamble:
+        if _skip_norms:
+            preamble = [b for b in preamble
+                        if _norm_txt(b) not in _skip_norms]
         body = "\n".join(preamble)
         body = re.sub(r"^<p>", "<p>\n", body)
         out.append('\n<div id="preamble">\n\n%s\n</div> \n' % body)
@@ -396,20 +413,9 @@ def build(md_article_html, ledger):
             toc.append('\t<li><a href="#%s">%s</a></li>' % (toc_href(hid), txt))
     for hid, txt in TOC_FIXED:
         toc.append('\t<li><a href="#%s">%s</a></li>' % (toc_href(hid), txt))
-    _skip_norms = []
-    if (ledger or {}).get("toc_block"):
+    if _toc_block:
         # 导航区逐字（题与锚由正文派生；另设一致性核对，见 article_ledger 注释）
-        out.append("\n" + ledger["toc_block"])
-        # H0 的 toc div 与 main-text div 之间可能悬着主节头＋首段
-        # （domination 判例：H0 的 main-text div 晚到节 1 首段之后才开，
-        # toc_block 按 H0 原样把这段带上）——main 侧须跳过同文块，
-        # 否则节头＋首段双发
-        _mtail = re.search(r"</div>\s*(.*)$", ledger["toc_block"], re.S)
-        if _mtail and _mtail.group(1).strip():
-            _skip_norms = [_norm_txt(x) for x in re.findall(
-                r"<(?:h[1-6]|p|blockquote|ul|ol|table|dl)[^>]*>.*?"
-                r"</(?:h[1-6]|p|blockquote|ul|ol|table|dl)>",
-                _mtail.group(1), re.S)]
+        out.append("\n" + _toc_block)
     else:
         out.append('\n<div id="toc"><!--Entry Contents-->\n<ul>\n%s\n</ul>\n'
                    '<!--Entry Contents-->\n\n<hr /></div>\n' % "\n".join(toc))
@@ -483,10 +489,11 @@ def _match_close(s, start, open_pat, close_pat):
     已由调用方消费开标签本身）。"""
     depth = 1
     j = None
-    for t in re.finditer(open_pat + "|" + close_pat, s):
+    # 大小写不敏感同账侧：H0 偶见大写 `<LI>`／`</LI>`（time 判例）
+    for t in re.finditer(open_pat + "|" + close_pat, s, re.I):
         if t.start() < start:
             continue
-        depth += 1 if re.match(open_pat, t.group(0)) else -1
+        depth += 1 if re.match(open_pat, t.group(0), re.I) else -1
         if depth == 0:
             j = t
             break
@@ -503,7 +510,7 @@ def _flat_li(html):
 
     def walk(inner):
         pos = 0
-        for m in re.finditer(r"<li([^>]*)>", inner):
+        for m in re.finditer(r"<li([^>]*)>", inner, re.I):
             if m.start() < pos:
                 continue
             t = _match_close(inner, m.end(), r"<li[^>]*>", r"</li>")
@@ -512,7 +519,7 @@ def _flat_li(html):
             else:
                 sub, nxt = inner[m.end():], len(inner)
             kids, rest, p = [], [], 0
-            for mu in re.finditer(r"<ul([^>]*)>", sub):
+            for mu in re.finditer(r"<ul([^>]*)>", sub, re.I):
                 if mu.start() < p:
                     # 已随外层 ul 平衡跨度入 kids 的内层 ul 不重扫：三层嵌套
                     # （li→ul→ul）时旧实现把同一子表挂两遍，条目双计、后续
@@ -629,6 +636,14 @@ def _render_bib(bib, hid_map, ledger):
                     head += ("\n\n<ul %s>\n\n%s\n</ul>\n\n</li>"
                              % (nd.get("u") or "", nodes_html(nd["c"])))
                     out.append(head)
+                    continue
+                if nd.get("e"):
+                    # 账记 `e`=1：H0 的 `<li> </li>` 空条目（全库 12 件）。原样
+                    # 发空条目，禁兜底占位——占位会把本节尾条顶进下一节、下一
+                    # 节首条错位一位（scottus-eriugena「Other Early Works」尾
+                    # 混进 Allard，2026-11-25）。须由账标记而非渲染侧猜测：
+                    # 匹配失败但 H0 有文字的节点仍须兜底（habermas 判例）
+                    out.append("<li></li>")
                     continue
                 j = _next_free(cursor[0] + 1)
             if j >= len(items) or j in used_i:
@@ -790,8 +805,17 @@ def _render_acad(acad, hid_map, ledger):
            % heading_tag(2, hid_map.get(id(head)) or "Aca",
                          head_of(head).group(2).strip())]
     icons = (ledger or {}).get("acad_icons") or [list(x) for x in ACAD_ROWS]
-    for i, (cell1, cell2) in enumerate(rows[:4]):
-        icon, alt = (icons[i] if i < len(icons) else ACAD_ROWS[i])
+    for i, (cell1, cell2) in enumerate(rows):
+        # 行数按实有行发，**不设 4 行上限**：新版模板的学术工具表多一行
+        # 「The PhilPapers Surveys…」（truth-correspondence 判例，全库 1 件）。
+        # 图标按位取；超出默认表的行沿用末项（pp.gif）——该行在 H0 恒为
+        # PhilPapers 图标行。
+        if i < len(icons):
+            icon, alt = icons[i]
+        elif i < len(ACAD_ROWS):
+            icon, alt = ACAD_ROWS[i]
+        else:
+            icon, alt = ACAD_ROWS[-1]
         # 学术工具外链一律带 target="other"（站点固定式；md 表里只有 href）
         cell2 = re.sub(r'<a href="(https?://[^"]*)"', r'<a href="\1" target="other"',
                        cell2)

@@ -344,7 +344,7 @@ On a more abstract, philosophical level the canon has also begun to acknowledge 
 
 - [Portrait of Samuel Pufendorf](https://upload.wikimedia.org/wikipedia/commons/1/1f/Samuel_von_Pufendorf2.jpg).
 - [NDB | ADB Deutsche Biographie](https://www.deutsche-biographie.de/sfz103778.html#ndbcontent).
-- [Zedler: *Universal-Lexicon*](https://www.zedler-lexikon.de/index.html?c=blaettern&id=266162&bandnummer=29&seitenzahl=0606&supplement=0&dateiformat=1%27)), vol. 29, pp. 606–608.
+- [Zedler: *Universal-Lexicon*](https://www.zedler-lexikon.de/index.html?c=blaettern&id=266162&bandnummer=29&seitenzahl=0606&supplement=0&dateiformat=1%27%29), vol. 29, pp. 606–608.
 - [Michaud: *Biographie Universelle*](https://gallica.bnf.fr/ark:/12148/bpt6k51674f/f507.image.r=pufendorf), vol. 34, pp. 502–505.
 - [Samuel von Pufendorf](http://de.wikipedia.org/wiki/Samuel_Pufendorf), Wikipedia entry.
 - [Gallica](https://gallica.bnf.fr/), text archive of the Bibliothèque Nationale de France.

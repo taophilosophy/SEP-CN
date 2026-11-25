@@ -275,6 +275,9 @@ SUB_MAP = {
     'β': 'ᵦ', 'γ': 'ᵧ', 'ρ': 'ᵨ', 'φ': 'ᵩ', 'χ': 'ᵪ',
 }
 
+# 上下标 Unicode 字形 → ASCII（判号形态用：`¹⁵` 视同 `15`）
+_SUPSUB_CHAR_REV = {v: k for k, v in list(SUP_MAP.items()) + list(SUB_MAP.items())}
+
 
 def _subsup_md(inner, mapping, marker):
     """<sub>/<sup> 内容整体可映射 → Unicode 原生字符；否则保持纯文本记号。
@@ -441,14 +444,83 @@ def _split_br_lines(inner):
     """引块内 <br> 行结构 → 行标记（诗节/逻辑图式逐行，2026-11-13 审计
     实证 abduction 两处三行图式被并行成单行）；标记由 blockquote 分支在
     渲染后还原为换行，紧贴成行、不引入段间空行。表格/列表/定义/代码
-    区内 <br> 维持旧行为（转空格），不动容器结构。"""
-    out, last = [], 0
-    for m in BR_KEEP_ZONE_RE.finditer(inner):
+    区内 <br> 维持旧行为（转空格），不动容器结构。
+
+    容器区间按**配平**取（2026-11-25，typelogical-grammar 判例）：旧式非
+    贪婪 `</(?:table|ul|ol|dl|pre)>` 会在内层 `</table>` 早断，外层表剩余
+    部分的 `<br/>`（rowspan 格的 `↑I↓E` 之类）被打成行标记，还原成换行后
+    把表行撕成多行、右逆认不出表。"""
+    out, last, pos = [], 0, 0
+    while True:
+        m = _KEEP_OPEN_RE.search(inner, pos)
+        if not m:
+            break
+        tag = m.group(1).lower()
+        stop = _container_end(inner, m.start(), tag)
         out.append(BR_LINE_RE.sub(BR_MARK, inner[last:m.start()]))
-        out.append(m.group(0))
-        last = m.end()
+        out.append(inner[m.start():stop])
+        last = pos = stop
     out.append(BR_LINE_RE.sub(BR_MARK, inner[last:]))
     return ''.join(out)
+
+
+_KEEP_OPEN_RE = re.compile(r'<(table|ul|ol|dl|pre)\b', re.I)
+
+
+def _container_end(inner, start, tag):
+    """容器 `<tag>` 的收口下标（含 `</tag>`；未闭合则到串尾）。"""
+    depth = 0
+    pat = re.compile(r'<(/?)%s\b' % tag, re.I)
+    for m in pat.finditer(inner, start):
+        depth += -1 if m.group(1) else 1
+        if depth == 0:
+            close = re.compile(r'</%s\s*>' % tag, re.I).search(inner, m.start())
+            return close.end() if close else m.end()
+    return len(inner)
+
+
+_SUPSUB_OPEN_RE = re.compile(r'<span\s+class="supsub"\s*>', re.I)
+_LOWER_OPEN_RE = re.compile(r'<span\s+class="lower"\s*>', re.I)
+
+
+def _match_span_end(s, start):
+    """`start` 处（`<span…>` 之后）的配平 `</span>` 结束下标。"""
+    depth = 1
+    for m in re.finditer(r'<span\b[^>]*>|</span\s*>', s[start:], re.I):
+        depth += -1 if m.group(0).startswith("</") else 1
+        if depth == 0:
+            return start + m.start(), start + m.end()
+    return None, None
+
+
+def _rewrite_supsub(s):
+    """剥掉 `<span class="supsub">` / `<span class="lower">` 包装，只留内容。
+
+    SEP 用这对 span 表达「上次标＋下标」的**纯样式**（`a`ₙ`1`、ℵ`0` 族；全库
+    180 处／5 件），可见文字就是内容本身，无上标字形。旧实现靠通用剥标签在
+    流程末尾去掉，此时相邻 `<em>` 已各自转成 `*…*`，产出 `*a**n*1` 这种**相邻
+    星号**：markdown 强调配对歧义，右逆把 `**` 当 strong 跨段配对，行内强调与
+    逗号被吞（typelogical-grammar 判例：`capacity of **LG**,` 前冒出未闭合
+    `<strong>`，B3.2 判 gap）。
+
+    提前剥壳后，相邻 `<em>` 回到既有「相邻强调合并」判据（`<em>a</em><em>b</em>`
+    → `*ab*`），得到 `*an*1`：文字不变、无歧义；标记形差（合并斜体 vs 两个
+    斜体）由池补丁偿还。**不**转 `^{}／_{}` 或 Unicode 字形——那会给纯样式
+    增加可见字符，与 H0 文字流不等。
+    """
+    out, pos = s, 0
+    while True:
+        m = _SUPSUB_OPEN_RE.search(out, pos)
+        if not m:
+            return out
+        close_start, close_end = _match_span_end(out, m.end())
+        if close_start is None:
+            return out
+        inner = out[m.end():close_start]
+        rep = re.sub(r'<span\s+class="lower"\s*>|</span\s*>', '', inner,
+                     flags=re.I)
+        out = out[:m.start()] + rep + out[close_end:]
+        pos = m.start() + len(rep)
 
 
 def inline_to_md(html, slug=None):
@@ -456,6 +528,7 @@ def inline_to_md(html, slug=None):
     if not html:
         return ''
     s = re.sub(r'<!--.*?-->', '', html, flags=re.S)
+    s = _rewrite_supsub(s)
     def _noteref(m):
         ref = re.sub('^note-', '', m.group('ref'))
         return '[^note-%s]' % ref
@@ -503,6 +576,30 @@ def inline_to_md(html, slug=None):
                 # 上游断锚（`notes.html#` 空片段，ratnakirti 判例）：纯文字照录，
                 # 不留空键 `[^note-]`（无定义、右逆也还原不出链接）
                 return text
+            # 文字型注释链（`note 6`／`footnote 14`，全库 56 条）：H0 可见文是
+            # 词语，不是上标号。旧式一律换 `[^note-N]` 会把词语抹成 `[6]`，与
+            # H0 文字不等（wilhelm-humboldt 书目 dl 配对失败、整块回落散文，
+            # 2026-11-25）。此类保留 md 链：可见文原样，右逆还原同形 `<a>`
+            # 内链；裸数字／`[3]` 形才是上标号，仍走上标标记。
+            _plain = re.sub(r'<[^>]+>', '', text).strip()
+            # 上标号形态：纯编号（`6`／`34.`／`[3]`）、补充材料的 `S1`
+            # （`note-supp1` 锚文，logic-normative 判例），或**位于 `<sup>` 内**
+            # （H0 的 `[<a>note 10</a>]` 括注，fundamentality／kant-hume-causality
+            # 判例：可见文是 `[10]`，须还原成上标形）。这些仍走 `[^note-N]`
+            # 标记，否则补注定义失去键、整条被丢，或上标变正文词语。
+            _pre = s[max(0, m.start() - 24):m.start()]
+            _in_sup = bool(re.search(r'<sup[^>]*>\s*\[?\s*$', _pre, re.I))
+            # 上/下标 Unicode 字形先折回 ASCII 再判号形态：C 的上下标步先于
+            # 链接步，数字锚文此刻可能已是 `¹⁵`（scientific-explanation-20th
+            # 判例：`^{[}¹⁵{]}` 被当散文链，补注定义失去键、整条被丢）。
+            # 锚内自带上标包裹（`<a><sup>[3]</sup></a>`，cognitive-disability
+            # 判例）同样先剥 `^{}／_{}` 记号再判。
+            _numish = _plain.replace('^{', '').replace('_{', '').replace('}', '')
+            _numish = "".join(_SUPSUB_CHAR_REV.get(c, c) for c in _numish)
+            if (_plain and not _in_sup
+                    and not re.fullmatch(r'\[?\s*[A-Za-z]?\d+\.?\s*\]?',
+                                         _numish)):
+                return '[%s](notes.html#note-%s)' % (text, ref)
             return '[^note-%s]' % ref
         if slug and re.fullmatch(r'[A-Za-z0-9._%+-]+\.(?:png|jpe?g|gif|svg|webp|pdf)', href):
             # 点图放大链（<a href="X-large.gif"> 包 <img src="X.gif">）：本地化引用，
@@ -512,6 +609,13 @@ def inline_to_md(html, slug=None):
             base = href[:-5]
             return '[%s](%s.%s.md)' % (text, slug, base)
         if href.startswith(('http:', 'https:')):
+            # URL 内**不平衡**圆括号（pufendorf 判例：`…dateiformat=1%27)`，
+            # 全库 1 处）在 md 链接语法里会被提前闭合，余下的 `)` 变正文
+            # （B3.2 文字流因此不等）。按 RFC 3986 百分号编码括号：URL 语义
+            # 不变，右逆可逆（生成的 href 拼写与 H0 差异由池 m/u 补丁偿还）。
+            # 平衡括号（`…_(1973)`，privacy 等 8 件）保持原形，不动。
+            if href.count(')') != href.count('('):
+                href = href.replace('(', '%28').replace(')', '%29')
             return '[%s](%s)' % (text, href)
         return text
 
@@ -587,7 +691,10 @@ def inline_to_md(html, slug=None):
         if v.startswith('\\(') and v.endswith('\\)'):
             body = _esc_math_dollar(v[2:-2])
             if not body.strip():
-                v = ''        # 空公式 `\(\)`（propositional-function 判例）：不产 `$$`
+                # 空公式 `\(\)`（propositional-function 判例）：不产 `$$`；但也不能丢——
+                # H0 原文确有此定界符，丢了 B3.2 文字流不等（全库仅 1 处），
+                # 原样保留字面形态，装配侧按文本透传。
+                v = r'\(\)'
             else:
                 # ADR-0049 转换层并入：孤立希腊字母行内片段转文字（变量斜体）；
                 # C 类嫌疑与 B 类（派生形/复合式）保持公式
@@ -632,7 +739,7 @@ def inline_to_md(html, slug=None):
         v = re.sub(r'[ \t\r\n\f\v]+', ' ', unescape(val)).strip()
         if v.startswith('\\(') and v.endswith('\\)'):
             body = _esc_math_dollar(v[2:-2])
-            v = ('$' + body + '$') if body.strip() else ''
+            v = ('$' + body + '$') if body.strip() else r'\(\)'
         elif v.startswith('\\[') and v.endswith('\\]'):
             v = '$$' + _esc_math_dollar(v[2:-2], display=True) + '$$'
         s = s.replace(key, v)
@@ -739,8 +846,16 @@ def table_to_md(inner, slug):
         inner = inner[:cm.start()] + inner[cm.end():]
     rows = []
     for rm in re.finditer(r'<tr[^>]*>(.*?)</tr>', inner, re.S | re.I):
-        cells = [_cell(c, slug)
-                 for c in re.findall(r'<t[dh][^>]*>(.*?)</t[dh]>', rm.group(1), re.S | re.I)]
+        row = rm.group(1)
+        # 单元格按**开标签序**切（shared-agency 判例：末格 `<td><sub>Yes</sub>
+        # &#9586;<sup>No</sup></tr>` 省 `</td>`，硬要闭标签则整格文字丢失）
+        opens = list(re.finditer(r'<t[dh][^>]*>', row, re.I))
+        cells = []
+        for k2, om in enumerate(opens):
+            end = opens[k2 + 1].start() if k2 + 1 < len(opens) else len(row)
+            chunk = row[om.end():end]
+            chunk = re.sub(r'</t[dh]>\s*$', '', chunk, flags=re.I)
+            cells.append(_cell(chunk, slug))
         if cells:
             rows.append(cells)
     if not rows:
@@ -751,12 +866,19 @@ def table_to_md(inner, slug):
     out.insert(1, '|' + ' --- |' * width)
     table = '\n'.join(out)
     for i, v in enumerate(tstash):
-        table = table.replace('\x00T%d\x00' % i, v)
+        # 单元格里嵌的原表 HTML 原样是多行（H0 折行），md 表行不能带换行——
+        # 带换行会把一行拆成多行、右逆认不出表（typelogical-grammar 判例：
+        # rowspan 格内的嵌套表让后续行变散段、页内整表退回字面管道）。
+        # 压成空格只动空白，可见文字不变；换行差异由池补丁（m/u）偿还。
+        table = table.replace('\x00T%d\x00' % i, re.sub(r"[ \t]*\n\s*", " ", v))
     return ('*%s*\n\n' % cap + table) if cap else table
 
 
 def _cell(cell_html, slug):
     t = inline_to_md(cell_html, slug)
+    # 格内 `<br/>` 折行压成空格：md 表行不能带换行，否则一行拆多行、右逆认
+    # 不出表（同 table_to_md 内嵌表注；空白差异由池补丁偿还）
+    t = re.sub(r"[ \t]*\n\s*", " ", t)
     # 表格竖线转义只作用于数学之外；数学内容里的 | 若被转成 \| 会改语义
     # （LaTeX \| = ‖），故数学段内的 | 用 &#124; 实体保真（渲染时还原为 |）
     # 转义感知（C 侧字面美元写作 `\$`，不得与真数学定界符配对）
@@ -908,6 +1030,27 @@ def _drop_duplicate_h1(md):
     return md
 
 
+def _close_dl_optional_end(inner):
+    """补齐 `<dl>` 内可省略的结束标签（HTML5 允许 `<dt>`／`<dd>` 省 `</dt>`
+    `</dd>`；SEP 大量这样写）。
+
+    旧匹配式硬要 `</dt>`／`</dd>`：未闭合 `<dt>` 的文字落进 `dt/dd` 间隙被
+    `_emit_gap` 按“含结构标签不碰”跳过（anaphora `(1)` 判例），未闭合
+    `<dd>` 的整段文字不入 md（criminal-law “We control \\(X\\) if …” 判例）。
+    只补本级、内容中不再含 dl 结构标签者；嵌套 dl 原样留给既有间隙逻辑
+    （al-khunaji 判例行为不变）。
+
+    dt：内容到下一个 `<dd>`／`</dl>`／末尾；dd：内容到 `</dl>`／末尾。
+    """
+    inner = re.sub(
+        r'<dt([^>]*)>((?:(?!</?(?:dt|dd)\b).)*?)(?=<dd\b|</dl>|\Z)',
+        r'<dt\1>\2</dt>', inner, flags=re.S | re.I)
+    inner = re.sub(
+        r'<dd([^>]*)>((?:(?!</?(?:dt|dd)\b).)*?)(?=</dl>|\Z)',
+        r'<dd\1>\2</dd>', inner, flags=re.S | re.I)
+    return inner
+
+
 def render_blocks(blocks, ctx, bib_container=False):
     """块渲染。`bib_container=True`：正在渲染书目 div 内部（容器边界即书目边界）。"""
     for b in blocks:
@@ -993,6 +1136,7 @@ def render_blocks(blocks, ctx, bib_container=False):
                                                count=1, flags=re.I),
                                         t == 'ol', ctx.slug))
         elif t == 'dl':
+            inner = _close_dl_optional_end(inner)
             # specs/039 D2 → 023 卡（al-khunaji 判例，2026-11-17）：`<dd>` 内嵌套
             # `<dl>` 时，非贪婪匹配在内部 `</dd>` 处截断，外层 `<dd>` 的尾随 `<p>`
             # 段落落在 match 间隙里被静默丢弃（“In neither case …”“Avicenna used

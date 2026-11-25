@@ -712,5 +712,82 @@ class TestDlGaps(unittest.TestCase):
         self.assertEqual(out.count('orphan'), 1)
 
 
+class TestDlOptionalEndTags(unittest.TestCase):
+    """HTML5 允许 `<dt>`／`<dd>` 省略结束标签；SEP 大量这样写。
+
+    旧匹配式硬要 `</dt>`／`</dd>`：未闭合 `<dt>` 的文字落进含 dt/dd 的间隙被
+    跳过（anaphora `(1)`），未闭合 `<dd>` 的整段文字不入 md（criminal-law
+    “We control X if …”）。回归口径：文字必在、其余格式不变。
+    """
+
+    def _render(self, html):
+        ctx = Ctx('probe')
+        render_blocks(extract_blocks_raw(html), ctx)
+        return '\n'.join(ctx.out)
+
+    def test_unclosed_dt_keeps_text(self):
+        out = self._render('<dl class="sentag tag3em">\n<dt id="ex1">(1)\n'
+                           '<dd>John is down by the bank of the river.</dd>\n</dl>')
+        self.assertIn('**(1)**', out)
+        self.assertIn('John is down by the bank of the river.', out)
+
+    def test_unclosed_dd_keeps_text(self):
+        out = self._render('<dl class="sentag tag4em">\n<dt>(2)</dt>\n'
+                           '<dd>We control \\(X\\) if we have a reasonable '
+                           'chance.\n</dl>')
+        self.assertIn('**(2)**', out)
+        self.assertIn('reasonable chance', out)
+
+    def test_wellformed_unchanged(self):
+        # 闭合件行为不变（不重复加粗、不重复输出）
+        out = self._render('<dl><dt>(a)</dt><dd>alpha</dd></dl>')
+        self.assertEqual(out.count('**(a)**'), 1)
+        self.assertEqual(out.count('alpha'), 1)
+
+    def test_nested_dl_body_untouched(self):
+        # 嵌套 dl 的 dd 内容含结构标签，不补尾（既有间隙逻辑接管，防回归）
+        out = self._render('<dl><dt>A</dt><dd>outer<dl><dt>B</dt>'
+                           '<dd>inner</dd></dl>tail</dd></dl>')
+        self.assertIn('outer', out)
+        self.assertIn('inner', out)
+        self.assertIn('tail', out)
+
+
+class TestConverterFixes20261125(unittest.TestCase):
+    """2026-11-25 B3.2 缺口族修复的定点用例（逐族一例）。"""
+
+    def test_table_last_cell_without_closing_td(self):
+        # shared-agency：末格省 `</td>`，旧式 findall 整格丢字
+        from tools.yuanwen import table_to_md
+        md = table_to_md('<table><tr><td>a</td><td>b</td></tr>'
+                         '<tr><td>Group</td><td><sub>Yes</sub>&#9586;'
+                         '<sup>No</sup>\n</tr></table>', 'x')
+        self.assertIn('Group', md)
+        self.assertIn('_{Yes}', md)      # 上标号 No → Unicode ᴺᵒ，按可见文断言
+        self.assertIn('╲', md)
+
+    def test_textual_note_link_keeps_words(self):
+        # wilhelm-humboldt：`see <a>note 6</a>` 是散文引用，须保留词语
+        out = inline_to_md('see\n <a href="notes.html#note-6">note 6</a>.')
+        self.assertIn('[note 6](notes.html#note-6)', out)
+
+    def test_numeric_note_ref_stays_marker(self):
+        out = inline_to_md('x.<a href="notes.html#note-3" id="ref-3">'
+                           '<sup>[3]</sup></a>')
+        self.assertIn('[^note-3]', out)
+        self.assertNotIn('notes.html#note-3)', out)
+
+    def test_supsub_span_unwrapped_before_emphasis_merge(self):
+        # typelogical-grammar：相邻 `*a**n*` 歧义 → 提前剥壳合并为 `*an*1`
+        out = inline_to_md('<em>a</em><span class="supsub"><em>n</em>'
+                           '<span class="lower">1</span></span>')
+        self.assertEqual(out, '*an*1')
+
+    def test_unbalanced_paren_in_url_percent_encoded(self):
+        # pufendorf：URL 内不平衡 `)` 会被 md 链接语法提前闭合
+        out = inline_to_md('<a href="https://e.org/x?f=1%27)">Zedler</a>, v.')
+        self.assertIn('%27%29)', out)
+
+
 if __name__ == '__main__':
     unittest.main()

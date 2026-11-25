@@ -95,7 +95,11 @@ To locate the different points of disagreement it is helpful to formulate the st
 
 Mary knows all the physical facts about human color vision before her release.
 
-*Premise P1* There is some (kind of) knowledge concerning facts about human color vision that Mary does not have before her release. *Therefore (from (P2))*: *Consequence C2*
+*Premise P1*
+
+There is some (kind of) knowledge concerning facts about human color vision that Mary does not have before her release. *Therefore (from (P2))*:
+
+*Consequence C2*
 
 There are some facts about human color vision that Mary does not know before her release. *Therefore (from (C1) and (C2))*:
 

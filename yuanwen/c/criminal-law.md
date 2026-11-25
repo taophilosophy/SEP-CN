@@ -261,6 +261,8 @@ We might try to salvage the argument from (1)–(3) by revising our account of c
 
 **(2$''$)**
 
+We control $X$ if we have a reasonable chance of preventing $X$ or bringing $X$ about.
+
 This revision avoids the unpalatable implications of (2$'$). But it also renders the argument from (1)–(3) invalid. If (2$''$) states the correct account of control, we *do* sometimes have control over outcomes. Imagine $D$ holds a loaded gun to $V$’s head and pulls the trigger. $D$ has a reasonable chance—indeed, an extremely high chance—of killing $V$. On this account of control, (1) and (2) do not support (3): they give us no reason to accept that we are never criminally responsible for outcomes (Moore 2009, 24–26).
 
 ### 5.3 Defences

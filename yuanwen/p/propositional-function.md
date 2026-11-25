@@ -448,6 +448,6 @@ An expression of type $\langle t_1 , \ldots ,t_n\rangle /m$ is a propositional f
 
 [^linsky-1999]: Linsky, Bernard, 1999, *Russell’s Metaphysical Logic*, Stanford: Center for the Study of Language and Information Publications.
 
-[^parsons-1986]: Parsons, Terence, 1986, “Why Frege should not have said that “The Concept Horse is not a Concept””, *History of Philosophy Quarterly*, 3: 449–465.
+[^parsons-1986]: Parsons, Terence, 1986, “Why Frege should not have said that “The Concept Horse is not a Concept”\(\)”, *History of Philosophy Quarterly*, 3: 449–465.
 
 [^steadman-1991]: Steadman, Mark, 1991, “Type Raising and Directionality in Combinatory Grammar”, Technical Report MS-CIS-91-11, University of Pennsylvania Department of Computer and Information Science .

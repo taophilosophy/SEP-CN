@@ -5,6 +5,8 @@
 
 Anaphora is sometimes characterized as the phenomenon whereby the interpretation of an occurrence of one expression depends on the interpretation of an occurrence of another or whereby an occurrence of an expression has its referent supplied by an occurrence of some other expression in the same or another sentence.[^note-1] However, these are at best very rough characterizations of the phenomena, since things other than anaphoric expressions satisfy the first characterization and many cases of anaphora fail to satisfy the second. For example, in some sense of “interpretation”, the interpretation of the expression “bank” in the following sentence depends on the interpretation of other expressions (in particular, “of the river”):
 
+**(1)**
+
 John is down by the bank of the river.
 
 But no one would say this is an example of anaphora. And as to the second characterization, though all agree that the following is an example of anaphora (and “he” is an anaphoric pronoun here on one reading of the sentence), it is not a case of the *referent* of one expression being supplied by another expression, (since “he” is not a referring expression on the reading in question):

@@ -349,6 +349,13 @@ def extract_note_forms(art_inner):
                 f1 = m.end() + close_m.end()
                 out.append({"n": key, "form": art_inner[f0:f1]})
         else:
+            # 散文型注释链（锚文含字母：`note 6`／`footnote 14`／`fn. 7`）：
+            # C 侧已保留为 md 内链（2026-11-25），可见文字由 md 自身携带，
+            # 账不再记「形」——记了会让后续 `[^note-N]` 标记在游标上冒领这
+            # 一形（fundamentality／kant-hume-causality 判例：`work.` 后冒出
+            # 正文式 “note 10” 而非上标）。纯编号锚（含补充材料 `S1`）仍记。
+            if re.search(r"[A-Za-z]", re.sub(r"<[^>]*>", "", inner)):
+                continue
             out.append({"n": key, "form": m.group(0)})
     return out
 
@@ -387,7 +394,26 @@ def extract_sup_pos(art_inner):
 def extract_toc(art_inner):
     """TOC 块逐字（导航区：题与锚皆由正文派生，另设一致性核对）。"""
     m = re.search(r'<div id="toc".*?(?=<div id="main-text">)', art_inner, re.S)
-    return m.group(0) if m else None
+    if not m:
+        return None
+    toc = m.group(0)
+    # main-text 首个 `<h2>` 之前的内容在 H0 属正文，不属前言：R 的块分类会把
+    # 它们归进 preamble、排到 TOC 之前（consciousness-intentionality 判例：
+    # 「This entry includes the following supplementary documents…」＋文件
+    # 列表整块前置）。把这一截接在 toc 后：R 按 `_mtail` 原样发出、正文与
+    # 前言两侧按 `_skip_norms` 去重，H0 顺序即复原。
+    # 只收「无标题、短」的首段（logic-connexive 全 h3 体 main-text 前无 h2，
+    # 整节 38 KB 会被误收；domination 判例的主节头已随 div 晚开含在 toc 里）。
+    mm = re.search(r'<div id="main-text">(.*?)(?=<h2\b|</div>)', art_inner, re.S)
+    if mm:
+        lead = mm.group(1)
+        if (lead.strip() and len(lead) <= 2000
+                and not re.search(r'<h[1-6]\b', lead, re.I)):
+            flat = re.sub(r"\s+", "", re.sub(r"<[^>]*>", "", lead))
+            if flat and flat not in re.sub(
+                    r"\s+", "", re.sub(r"<[^>]*>", "", toc)):
+                toc = toc.rstrip() + lead
+    return toc
 
 
 MD_DEF_RE = re.compile(r"^\[\^([^\]\s]+)\]:(.*)$", re.M)
@@ -442,10 +468,12 @@ def _match_close(region, start, open_pat, close_pat):
     """从 start 起按深度扫描，返回 [(内容起, 内容止, 标签止)] 的顶层块。"""
     depth = 1
     j = None
-    for t in re.finditer(open_pat + "|" + close_pat, region):
+    # HTML 标签大小写不敏感：H0 偶见大写 `<LI>`／`</LI>`（time 判例，全库 1 处），
+    # 区分大小写会让该条 H0 条目在账里缺席 → 装配侧整条不发音（Barnes 判例）
+    for t in re.finditer(open_pat + "|" + close_pat, region, re.I):
         if t.start() < start:
             continue
-        depth += 1 if re.match(open_pat, t.group(0)) else -1
+        depth += 1 if re.match(open_pat, t.group(0), re.I) else -1
         if depth == 0:
             j = t
             break
@@ -464,7 +492,7 @@ def split_items(inner):
     兄弟之后、且两者之间无未闭合 `<ul>` 时，按兄弟边界截断。"""
     out = []
     opens = [(m.start(), m.end(), m.group(1))
-             for m in re.finditer(r"<li([^>]*)>", inner)]
+             for m in re.finditer(r"<li([^>]*)>", inner, re.I)]
     pos = 0
     for idx, (s, e, attrs) in enumerate(opens):
         if s < pos:
@@ -577,7 +605,7 @@ def _tree_nodes(inner, md_plain, used):
         kids = []
         rest = ""
         pos = 0
-        for m in re.finditer("<ul([^>]*)>", sub):
+        for m in re.finditer("<ul([^>]*)>", sub, re.I):
             if m.start() < pos:
                 # 已被上一层 ul 的平衡跨度吞掉的内层 ul 不再计一次：三层嵌套
                 # （li→ul→ul）时旧实现把同一子表登记两遍、子节点双计，多出
@@ -602,6 +630,11 @@ def _tree_nodes(inner, md_plain, used):
         if idx is not None:
             used.add(idx)
         node = {"i": idx}
+        if not vis and not kids:
+            # H0 的空 `<li> </li>`（全库 12 件）：记 e=1。渲染侧据此发空条目、
+            # 不占定义序——否则兜底占位把本节尾条顶进下一节（scottus-eriugena
+            # 「Other Early Works」尾混进 Allard，2026-11-25）
+            node["e"] = 1
         if vis:
             # 本层自带文字（父条目的引子行）：渲染侧 i 缺失时须兜底占位，
             # 否则文字整条丢失（pomponazzi 判例：`Aristotle,` 父条 + 子表）
@@ -1224,11 +1257,16 @@ def extract(art_inner, md=None):
         led["ack_div"] = 1
     elif re.search(r"<h[2-4][^>]*>(?:\s*<a[^>]*>)?\s*Acknowl", art_inner):
         led["ack_div"] = 0
-    # 学术工具图标
-    acad = re.search(r'<table class="vert-top">(.*?)</table>', art_inner, re.S)
+    # 学术工具图标。新版模板已去掉 `class="vert-top"`（全库 76 件，如
+    # truth-correspondence），故按 `div#academic-tools` 作用域取首个表；单元格
+    # 可带属性（`<td valign="top">`），行数不设上限（truth-correspondence 有 5 行）
+    _acad_scope = re.search(r'<div id="academic-tools">(.*?)</div>', art_inner, re.S)
+    acad = re.search(r'<table[^>]*>(.*?)</table>',
+                     _acad_scope.group(1) if _acad_scope else art_inner, re.S)
     if acad:
         icons = []
-        for m in re.finditer(r'<tr>\s*<td>(.*?)</td>\s*<td>', acad.group(1), re.S):
+        for m in re.finditer(r'<tr>\s*<td[^>]*>(.*?)</td>\s*<td[^>]*>',
+                             acad.group(1), re.S):
             cell = m.group(1)
             im = re.search(r'src="\.\./\.\./symbols/([^"]*)"\s+alt="([^"]*)"', cell)
             icons.append([im.group(1), im.group(2)] if im else ["", ""])
