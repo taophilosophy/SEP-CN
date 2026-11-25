@@ -30,7 +30,7 @@
 | D4 | 设计 | 标准对照列“—”既非适用也非不适用结论，违反 specs/061 §10 | 逐节填满：工程层写 12207:2026／29148，无对应者写“不适用（理由）”；§1.9 全量对照 |
 | D5 | 设计 | 战役混入流程段，语义正交被压平 | **战役独立成 campaigns 块**，stages 只含 1–4 四段纯流程 |
 | D6 | 设计 | 阶段不可消费（无派生视图、无写入禁令） | 增 `tools/stage_of.py`（只读派生）＋“阶段号永不写入”原则＋check_stages 禁写校验 |
-| D7 | 设计 | 无 state→stage 映射 | 增 `state_stage_map`（§1.7），15 状态逐条映射 |
+| D7 | 设计 | 无 state→stage 映射 | 增 `state_stage_map`（§1.7），**19** 状态逐条映射（16 节点态＋pending／cleared／done） |
 | D8 | 一致性 | 预留号未入册 | 26 项 `status: reserved` 入册；总册 60 项 |
 | D9 | 一致性 | check_stages 五条不全 | 扩为八条（§3 第 2 项） |
 | D10 | 一致性 | ex-05 无状态位，“格式闭合完成”无载体 | stage_of 采“最近前驱状态”规则；状态机增设登记为后续项（不在本卡） |
@@ -71,7 +71,7 @@ stages 60 项＋campaigns 6 项＋marks 8 项入册；check_stages 八条校验�
 
 | 大段 | 名称 | 与 seg 关系 | ISO 17100 对应 | 子节编号规则 |
 | ---- | ---- | ---- | ---- | ---- |
-| 1 | 源侧镜像与交割 | seg1＋维护 | §5.3 前期准备 | 批量作业面节点子节＝节点号（1.2.1↔ex-01）；交割面节点接在交割三步之后（1.3.3 起） |
+| 1 | 源侧镜像与交割 | seg1＋维护 | §5.3 前期准备 | 批量作业面节点子节＝节点号（1.2.1↔ex-01）；交割面节点接在交割三步之后（1.3.3 起）。**非节点子节按逻辑层次编号（工序→质量核→账本→报告），不承诺执行序** |
 | 2 | 中文翻译 | seg2 | §5.4 笔译＋自检 | M＝段内节点号（2.1↔tr-01 … 2.5↔tr-05） |
 | 3 | 审阅校对 | seg3 前段 | §5.4 双语审校／单语审校／校对 | M＝段内节点号（3.1↔rv-01 … 3.9↔rv-09） |
 | 4 | 终审签字与发布 | seg3 末段 | §5.4 最终验证与发布 | M＝段内节点号（4.1↔sg-01 … 4.3↔sg-03） |
@@ -186,6 +186,8 @@ D1／D2 修正要点：ex-05 是**语法格式层检查**而非补丁应用；�
 | ⑨ | 进度报告 | 1.2.8 |
 | — | HTML 转 Markdown | 1.2.2（ex-02，SOP 未单列，因 phase12 内部执行） |
 
+**编号序≠执行序（公理化证明 C2）**：`phase12.py` 实际执行顺序为 抓取/转换 → 版面账 → 结构账 → B3.1 → B3.2 → 补丁复核 → I2 保真，与 1.2.1–1.2.8 的编排不同。阶段号只承诺**节点链单调**（`results/axiomatic-completeness.md` CT4），非节点子节按逻辑层次组织，调换顺序不违任何公理。
+
 ### 1.7 state → stage 映射（D7）
 
 | tasks.state | 阶段号 | 阶段名 |
@@ -208,7 +210,7 @@ D1／D2 修正要点：ex-05 是**语法格式层检查**而非补丁应用；�
 | sg-01_checked | 4.1 | 初审完成 |
 | sg-02_checked | 4.2 | 复审完成 |
 | sg-03_checked | 4.3 | 终审完成 |
-| done | 4.3＋发布 | 交付完成 |
+| done | `4.3`（`released: true`） | 交付完成 |
 
 **注（D10）**：无状态位节点（ex-01／ex-02／ex-03／ex-05／tr-01／tr-05）的完成不上报状态；`stage_of` 以其**最近前驱有状态节点的阶段号**表示当前所在站，并输出 `derived_from` 字段说明派生依据，不伪造状态。
 
@@ -279,10 +281,11 @@ D1／D2 修正要点：ex-05 是**语法格式层检查**而非补丁应用；�
    ② 节点↔阶段**双向**一致：每个 pipeline 节点恰出现于一个 stages 子节；每个 `stages[].nodes` 的 id 在 nodes 块存在。
    ③ 大段 2–4 子节号＝节点号（M＝节点号规则）。
    ④ ex 寄居表逐条硬比对：ex-01→1.2.1、ex-02→1.2.2、ex-03→1.2.3、ex-04→1.3.3、ex-05→1.3.4；**ex-04 出现在 1.2 任何子节即红**（不变量 2 的机检形态）。
-   ⑤ marks 自洽：`attach` 指向存在的 stages 号或 campaigns identifier（主 spec 号）；status ∈ {live, retired}；`equivalent` 字段（q↔rv）两侧皆须存在。
+   ⑤ **注册表自洽**：marks 的 `attach` 指向存在的 stages 号或 campaigns identifier（主 spec 号），`equivalent`（q↔rv）两侧皆须存在，status ∈ {live, retired}；**campaigns identifier 互异且形如 `specs/NNN`、目录存在**；**marks 源文件零改写**（diff 白名单，AX13）。
    ⑥ 非节点子节须有 `specs` 落点或母节归属，不得游离。
    ⑦ **预留完整性**：1.4–1.9／2.6–2.9／3.10–3.19／4.4–4.9 以 `reserved` 在册；已用号与 reserved 号不得重叠；retired 号不复用。
    ⑧ **映射完整性**：`state_stage_map` 的键集＝naming.json 中 state 非 null 的节点 state 集；值皆为存在的 stages 号。**另加写入禁令校验**：扫描 `tasks/` 与 `journal/` 不得出现阶段号／战役号模式。
+2a. **公理化证明**（`results/axiomatic-completeness.md`）：论域基数、13 条公理 AX1–AX13、7 条定理 CT1–CT7、一致性模型、独立性反例、可判定性、5 项不可自证边界。公理→谓词映射表随 ADR-0089 入库；证明发现的 C1–C4 已回修本卡。§4 判据以 CT1–CT7 为验收面。
 3. **反例试金石**（rules/08 §9–12）：注入三个反例验证机检确拦——a）ex-04 归属改 1.2.4 应红；b）tr-03 子节改 2.4 撞 tr-04 应红；c）tasks 中植入字符串 `1.2.3` 应红。还原复跑应绿。evidence 落 `results/s7-probe.json`。
 4. **`tools/stage_of.py`（新增，D6）**：只读派生视图。
    - 单件：`python tools/stage_of.py <slug>` → 输出当前阶段号、name、label、`derived_from`（派生依据状态）、下一站。
@@ -297,7 +300,7 @@ D1／D2 修正要点：ex-05 是**语法格式层检查**而非补丁应用；�
 
 ## 4. 验收判据
 
-1. `rules/naming.json` schema `sep-naming/v2`，stages 60／campaigns 6／marks 8／state_stage_map 18 在册；campaigns 无字母号（D13）。
+1. `rules/naming.json` schema `sep-naming/v2`，stages 60／campaigns 6／marks 8／state_stage_map 19 在册；campaigns 无字母号（D13）；公理化证明落 `results/axiomatic-completeness.md` 且 CT1–CT7 全成立。
 2. check_stages 八条生效；三个反例（ex-04 错寄／tr 撞号／tasks 植入阶段号）必红，还原必绿；probe 凭证落盘。
 3. `stage_of.py` 对全部 1873 件输出阶段，无异常；`--all` 分布计数与 `tasks.state` 聚合一致（独立复算）。
 4. 22 节点归属唯一且与 §1.5 寄居表逐条一致；`check_all` 全绿（清单以 `--list-gates` 为准）。
@@ -333,3 +336,4 @@ D1／D2 修正要点：ex-05 是**语法格式层检查**而非补丁应用；�
 - **rev 3（2026-11-26）**：不计成本重审，修正 D1–D12；四段制＋战役独立＋stage_of＋check_stages 八条。代码侧仍未动（naming.json 未升 v2），无迁移成本。
 - **rev 4（2026-11-26）**：编号族全库扫描后的冗余清理，修正 D13–D16——战役去号（避 ADR-0063 C1–C4 撞名）、marks 10→8、阶段轨弃 S 号、新增 §1.9 编号族总表与 seg 映射规则。
 - **裹带自首（rev 4 提交 `44496c77c`）**：`git add` 本卡两文件后以裸 `git commit -m`（未带 pathspec）提交，把并行会话（术语线）已暂存的 specs/058 `entry-glossary-2026-11-25.tsv.gz`、`entry-person-index-2026-11-25.tsv.gz` 两件删除一并收编并推送。归属：删除系并行会话以 11-26 新版替代旧版的真实意图，非本卡改动；内容无损失（11-26 版在本地未跟踪，待其自行提交）。处置：**不做还原提交**（会与其在途状态碰撞），等其续提交自愈；本行即日志登记。教训第四次重演（`git commit` 必须带 `-- <paths>`，提交后必核 `git show --stat HEAD`）。
+- **rev 5（2026-11-26）**：公理化完备性证明（`results/axiomatic-completeness.md`）——公理 AX1–AX13、定理 CT1–CT7、独立性与可判定性成立；证明过程查出 C1（映射计数 18→19）、C2（编号序≠执行序）、C3（done 复合值违单值）、C4（谓词 ⑤ 覆盖缺口），四处已回修。
