@@ -57,6 +57,7 @@
 | 战役 | **6** | specs/063 §1.4 | — |
 | 标记 | **8** | specs/063 §1.8 | — |
 | 标准登记 | **96 条**（adopted／cited／not_adopted／deviations 四层） | `rules/standards.json` | 含 `std` 字段条目 |
+| 第三方依赖 | **0**（纯标准库） | `grep` 实测：无 requests／bs4／yaml／lxml | `grep -rhoE "^(import\|from) (requests\|yaml\|bs4\|lxml)" tools/*.py` |
 
 ## 2 全量审计结果
 
@@ -306,6 +307,9 @@ B1 语义恰当性｜B2 26 个 reserved 语义｜B3 ex-05 状态位（退役后�
 | P2 | 判据—工具登记表（G7）；rules `applies_to`（G8／AX19）；check_stages ⑩–⑮ | P1 | |
 | P2 | ADR 头格式统一（G10）；29148／15289／26514 版本复核（G11） | — | |
 | P3 | ISO/IEC 25010:2023 纳登与判据分类映射（G12）；六列矩阵进 CI | P2 | |
+| P0 | **全局清理检查点**：`clean --check` 入 check_all 第 22 项（§10） | — | 低风险，提前做 |
+| P1 | **Python 现代化**：pyproject＋ruff＋mypy strict＋uv（§8.1） | — | 零风险高收益，先于 Rust |
+| P4 | **工具链 Rust 化**：B1 试金石 → B2 结构 → B3 并发 → B4/B5 正则密集（§12） | 黄金主测试 | 成本最高，最后做 |
 
 ## 9 验收判据
 
@@ -325,8 +329,133 @@ B1 语义恰当性｜B2 26 个 reserved 语义｜B3 ex-05 状态位（退役后�
 | 审计范围 | 全流程／全阶段／全工具链／文档／软件工程理论／规则 |
 | 合并目标 | 并入 specs/064（rev 2） |
 | ADR 号 | 0090（0089 由 063 预定） |
+| 工具链语言 | **Rust 1.100／edition 2024、禁 unsafe、多并发多线程**；A 级 24 项迁 Rust，B/C/D 分层不动（§12） |
+| 其他语言 | Go 为“只选一门”时的性价比首选（同为 RE2 限制）；Python 3.15 现代化先行；Bun 维持站点（§13） |
+| 清理检查点 | `clean --check` 入 check_all 第 22 项，扫描面扩至 target/ 与缓存目录（§14） |
 
 ## 11 执行记录
 
 - **rev 1（2026-11-26）**：立卡，节点文档承载审计（三件套 5/62、六列矩阵、G1–G8）。
 - **rev 2（2026-11-26）**：案 B＋暂不开工裁定；合并 063 公理化并扩展至全要素（AX1–AX20／CT1–CT12）；补工具链（96）、规则（10）、ADR（88）、标准（96）审计；补标准化、规范化、格式化与实施路线。代码与数据零改动。
+- **rev 3（2026-11-26）**：增 §12 工具链 Rust 迁移逐个评估（96 项：A24／B26／C32／D12，黄金主测试，正则语义审计前置门，五批路线）、§13 其他语言对比（Rust／Go／Python／TS／C#／Zig）、§14 全局清理与缓存检查点（clean --check 入 check_all 第 22 项）；补“零第三方依赖”事实与 Python 现代化先行项。代码与数据零改动。
+
+## 12 工具链语言迁移：Rust 逐个评估（2026-11-26 用户指令）
+
+### 12.1 版本与约束（本轮联网核实）
+
+| 项 | 事实 |
+| ---- | ---- |
+| Rust | **1.100.0**（2026-11-12 发布）；最新 edition＝**2024**（2015／2018／2021／2024） |
+| 用户约束 | **禁 unsafe**（`#![forbid(unsafe_code)]`）、**必须多并发多线程**（tokio multi-thread＋rayon）、**最新语法规范**（edition 2024） |
+| 交付形态 | 单二进制；双机与 CI 无环境差异 |
+
+### 12.2 结论（先说判断）
+
+对 96 个工具逐个评级（全表见 `results/toolchain-rust-audit.md`）：**A 级 24／B 级 26／C 级 32／D 级 12**。
+
+- **A 级 24 项**（check_* 14、审计 6、fetch 5、clean 1，`fetch_all` 记 A+）覆盖门禁核心面与全部高并发路径，重写面积约占全部代码 40%——迁完即达“原生并发＋内存安全＋单二进制”目标的约 80%。
+- **D 级 12 项禁迁**，其中三类是硬禁：转换器（`yuanwen`／`parser`，被 I2/I3 逐字节锁定，重写即灾难）、一次性迁移（`migrate_*`／`wipe_*`／`rebuild_dir`／`journal_migrate` 等）、浏览器自动化（`tl_browser_batch`，Rust 生态远弱于 Playwright）。
+- **C 级 32 项留 Python**：库（被 import，迁移需连带）、生成器（输出格式常调）、低频运维与会话密集者。
+
+### 12.3 三条前置事实改变了“全量迁移”的必要性
+
+1. **零第三方依赖**：96 个工具只用标准库（sys／os／json／re／io／argparse／urllib／threading／unicodedata／difflib）。“依赖安全”这一 Rust 最强论据在本仓不成立。
+2. **正则语义风险是最大单点**：`re` 被 62 个工具使用，含反向引用、lookaround、条件组；Rust `regex` 是 RE2 族，**不支持回溯与反向引用**。直译会静默改变语义——这是比工时更严重的正确性风险。故 §12.5 设“正则语义审计”为前置门，不可等价改写者降级留 Python。
+3. **重写面积与锁定面积正相关**：21 项门禁＋55 个单测文件已把行为锁死；重写不是“写新代码”而是“在等价约束下复现旧行为”。**黄金主测试**是唯一可证伪的安全网。
+
+### 12.4 架构方案
+
+```
+sep-core（Rust 1.100 / edition 2024，`#![forbid(unsafe_code)]`）
+├─ check <gate> | audit <axis> | fetch | clean
+├─ tokio multi-thread（IO）＋ rayon（CPU）
+├─ 输出与 Python 版逐字节一致（黄金主测试）
+└─ 单二进制分发
+
+sep-py（Python 3.15）
+├─ 爬虫 tl_*、一次性 migrate_*/wipe_*/rebuild_dir
+├─ 生成器 progress/gen_en_summary/compose
+└─ 转换器 yuanwen/parser（永不迁移）
+
+站点：Bun 1.3＋VitePress（既有）
+```
+
+### 12.5 迁移批次与前置门
+
+| 批 | 内容 | 前置 |
+| ---- | ---- | ---- |
+| B1 | check_doc_size／check_junk／check_quotes／clean | 黄金测试录制 |
+| B2 | check_stages／check_catalog_network／check_pairs／check_summary／check_taskfile_invariant | 同上（JSON 结构，纯函数） |
+| B3 | fetch_all／fetch／fetch_audit／fetch_catalog／catalog_drift | 并发基准（16 路 → 目标 64–128 路） |
+| B4 | check_yuanwen_fidelity／check_style／check_academic | **正则语义审计** |
+| B5 | 六轴 audit 四项＋check_terms／check_math_zh | 同上，风险最高 |
+
+**正则语义审计（B4/B5 前置，不可跳过）**：逐工具列出不可直译模式（反向引用、lookaround、条件组），给出改写方案与等价性测试；无等价改写者降 C 留 Python。全表见 `results/toolchain-rust-audit.md` §10。
+
+### 12.6 黄金主测试
+
+每个 A 级工具迁移前录制 `tools/golden/<tool>/`：真实输入快照＋stdout＋退出码＋产物哈希。Rust 版逐字节对齐，任一字节不同即失败。与项目“对账式生成器”原则同构（`eng-lesson-reconciliation-idempotency`）。
+
+### 12.7 Python 现代化（先于 Rust 的零风险步骤）
+
+现无 `pyproject.toml`／无类型检查／无格式化器／无锁文件。建议：
+
+| 项 | 内容 | 成本 |
+| ---- | ---- | ---- |
+| 依赖与项目元数据 | `pyproject.toml`（3.15，零第三方依赖） | 1 小时 |
+| 格式化与 lint | `ruff format`＋`ruff check` | 半天 |
+| 类型检查 | `mypy --strict` 逐模块推进（先 lib 层） | 数天 |
+| 运行器 | `uv run`（环境一致性，双机/CI 同一 lock） | 半天 |
+
+这四项以约 1/20 的成本拿到“类型安全＋统一格式＋环境可复现”的 60–70%，且**不改变任何行为**，可作为 Rust 迁移期间的过渡基线。
+
+## 13 其他语言评估
+
+| 语言 | 版本（核实） | 并发 | 安全 | 文本/正则生态 | 部署 | 结论 |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| **Rust** | 1.100／e2024 | tokio＋rayon，真并行 | 最强（禁 unsafe 可达） | regex＝RE2，**无回溯/反向引用** | 单二进制 | **核心层首选** |
+| **Go** | 1.27.4 | goroutine，最简 | GC＋静态类型 | RE2 同族（**同限制**） | 单二进制 | **性价比最高**：若只选一门新语言覆盖全部工具，Go 优于 Rust（开发效率×部署×并发），但同样受正则限制 |
+| **Python** | 3.15.2 | asyncio／threading（GIL） | 动态＋mypy | `re` 最全（回溯/反向引用）、unicodedata 最强 | 解释器 | 边缘/生成器/转换器（**必须保留**） |
+| TypeScript／Bun | 1.3.x（待核） | 事件循环 | 类型层 | 弱（数值/正则） | bun 运行时 | 站点（既有，不动） |
+| C#／.NET | 10（待核） | async/await | GC＋静态 | **Regex 支持回溯/反向引用（与 Python 语义最接近）** | AOT 单文件 | 语义最平滑但生态无优势，不选 |
+| Zig | 0.15（待核） | 手动 | 手动 | 弱 | 单二进制 | 生态不成熟，不选 |
+
+**反直觉但重要的一点**：若把“正则语义零漂移”放在第一权重，最平滑的目标其实是 **.NET**（其 Regex 支持回溯与反向引用），而 Rust 与 Go 同属 RE2 族、都受限。这意味着 Rust/Go 迁移的 B4/B5 批必须付出正则改写成本——这是评估里最容易被忽略的隐性代价，已在 §12.5 设为独立前置门。
+
+**最优组合（不计成本）**：Rust core（24 个 A 级）＋Python 边缘（32 个 C 级＋12 个 D 级）＋Bun 站点；Python 现代化先行作为过渡基线。若组织只允许维护一门新语言，改推 Go 覆盖 A 级，其余不变。
+
+## 14 全局清理与缓存检查点（新增）
+
+### 14.1 现状
+
+`tools/clean.py` 已存在（ADR-0003）：删除**未跟踪**的缓存与临时文件，安全边界明确（跳过 `.git/`、`node_modules/`、`en/`、`yuanwen/`、`script/`、`.specify/`、`.zcode/`），支持 `--go` 实际删除。**但它不在 `check_all`**——全局检查点缺失。
+
+### 14.2 设计
+
+| 项 | 内容 |
+| ---- | ---- |
+| 只读检查档 | `python tools/clean.py --check`：仅列出目标，有目标时退出码 1；无目标 0 |
+| 入册 | `check_all` GATES 增第 **22** 项（名称“缓存与临时物”） |
+| 扫描面扩展 | `__pycache__`／`*.pyc`／`*.pyo`；`.ruff_cache`／`.mypy_cache`／`.pytest_cache`；`.vitepress/cache`／`.vitepress/dist`；**`target/`（Rust 迁移后）**；`state/` 临时；`*.tmp`／`*.bak`／`*.swp`／`*.orig`；`node_modules` 体积 |
+| 分级 | 跟踪文件缺失＝**红**；未跟踪垃圾存在＝**告警**（不拦提交）；缓存体积超阈值＝告警 |
+| CI 面 | `checks.yml` 增只读 `--check` 步骤（不删，只报） |
+| `.gitignore` 审计 | 确认含 `__pycache__/`、`*.pyc`、`target/`、`.vitepress/cache`、`.vitepress/dist`、`node_modules/`；缺则补 |
+
+### 14.3 临时工具链治理
+
+| 类 | 现状 | 规则 |
+| ---- | ---- | ---- |
+| 一次性脚本（`specs/*/bin`） | 大量 | 任务收口后移入该 spec 的 `archive/` 或删除；**不留在 bin 冒充现行工具** |
+| `script/`（个人草稿） | 本地不入库 | 维持（`.gitignore` 覆盖） |
+| 迁移中间物（Rust 后） | 未产生 | 目标产物只留 `sep-core` 二进制构建产物，`target/` 不入库 |
+| 缓存与临时文件 | 已由 clean 覆盖 | 进 check_all（§14.2） |
+
+### 14.4 与既有检查器的分工
+
+| 检查器 | 范围 |
+| ---- | ---- |
+| `check_junk.py` | **根目录白名单**（入库结构） |
+| `clean.py --check`（新入册） | **临时与缓存**（不入库物） |
+| `check_doc_size.py` | 单体文件规模 |
+
+三者互不重叠，共同构成“结构—垃圾—缓存”三层卫生面。
