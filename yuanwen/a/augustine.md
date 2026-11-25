@@ -163,6 +163,8 @@ A bilingual edition of the anti-Pelagian treatises with full annotation is:
 
 #### Italian
 
+#### Spanish
+
 ### Commentaries
 
 Except for the *Confessiones* and the Cassiciacum dialogues, detailed commentaries on Augustine’s writings are rare, especially in English. Here is a selection:
@@ -237,8 +239,6 @@ Christian theology, philosophy and | divine: illumination | emotion: in the Chri
 [^kopp-1955]: Kopp, Sebastian, Thomas Gerhard Ring, and Adolar Zumkeller (eds.), 1955–2005, *Sankt Augustinus—Der Lehrer der Gnade. Gesamtausgabe seiner antipelagianischen Schriften*, 8 vols. (5 completed) + 3 vols. Prolegomena, Würzburg: Augustinus-Verlag.
 
 [^nba-1965]: [*NBA*] *Nuova Biblioteca Agostiniana. Opere di Sant’Agostino. Edizione latino-italiana*, 44 vols., Agostino Trapé et al. (eds.), Roma: Città Nuova Editrice, 1965–2010. Complete.
-
-[^spanish-nd]: Spanish
 
 [^bac-1946]: [*BAC*] *Obras completas de San Agustín. Edición bilingüe (Biblioteca de Autores Cristianos)*, 41 vols., Victorino Capánaga et al. (eds.), 1946–2002. Complete.
 

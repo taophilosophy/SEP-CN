@@ -25,6 +25,8 @@ sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.dirname(
 sys.path.insert(0, os.path.join(os.path.dirname(os.path.dirname(
     os.path.dirname(os.path.dirname(os.path.abspath(__file__))))), "tools"))
 from tools.common import repo_path  # noqa: E402
+from tools import en_patch_lib  # noqa: E402
+from tools import yuanwen  # noqa: E402
 
 B1 = "<!-- BEGIN ARTICLE HTML -->"
 E1 = "<!-- END ARTICLE HTML -->"
@@ -1338,6 +1340,13 @@ def main(argv=None):
         if not os.path.exists(p):
             continue
         t = read(p)
+        # 补丁视图对齐（2026-11-26，augustine P-005 判例）：C 的 md 与账必须
+        # 同一视图——格式层补丁修上游结构错位，账不吃补丁就 heads/seq 失配、
+        # 装配标题错位。失配即硬失败（与转换层同语义，禁静默降级）。
+        try:
+            t = yuanwen.apply_en_patches(d, t)
+        except (en_patch_lib.PatchMismatch, en_patch_lib.PatchPoolMissing):
+            raise
         if B1 not in t or E1 not in t:
             continue
         md = None

@@ -1,8 +1,8 @@
 {
   "schema": "sep-cn-en-patches-dir/1",
-  "generated_at": "2026-11-25T05:01:50Z",
+  "generated_at": "2026-11-25T19:18:50Z",
   "note": "生成物，禁手改；正本为同目录 *.patch（ADR-0063 补丁池目录化）。",
-  "count": 4,
+  "count": 5,
   "patches": [
     {
       "id": "P-001",
@@ -47,6 +47,17 @@
       "origin": "upstream-typo",
       "patch": "baseline/en-patches/P-004.patch",
       "sha256": "6c5a83504e11f385807498fbf5f46e11a84383bc297a7951e820a82985bf6020"
+    },
+    {
+      "id": "P-005",
+      "slug": "augustine",
+      "file": "en/augustine/index.html",
+      "expect": 1,
+      "category": "格式层（结构错位）",
+      "source": "en-errata.md §十二 格式层",
+      "origin": "upstream-typo",
+      "patch": "baseline/en-patches/P-005.patch",
+      "sha256": "8aaf940db4a0316b9ad90267ccb42da402c9f9446fc00bbf18d044608b25aa45"
     }
   ]
 }

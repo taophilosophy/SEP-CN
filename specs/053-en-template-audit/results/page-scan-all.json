@@ -5,12 +5,12 @@
  "total": 1873,
  "counts": {
   "rule": 0,
-  "pool": 1872,
-  "gap": 1,
+  "pool": 1873,
+  "gap": 0,
   "stale": 0
  },
  "page_bytes": 236108340,
- "pool_bytes": 122970983,
+ "pool_bytes": 123163292,
  "entries": [
   {
    "slug": "18thGerman-preKant",
@@ -1093,12 +1093,9 @@
   {
    "slug": "augustine",
    "page_len": 230812,
-   "status": "gap",
-   "why": "unaligned text units",
-   "sample": {
-    "asm": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en",
-    "tgt": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"ie6 ie\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"ie7 ie\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"ie8 ie\"> <![endif]-->\n<!--[if IE 9]>    <html class=\"ie9 ie\"> <![en"
-   }
+   "status": "pool",
+   "n_patches": 195,
+   "pool_bytes": 192309
   },
   {
    "slug": "auriol",

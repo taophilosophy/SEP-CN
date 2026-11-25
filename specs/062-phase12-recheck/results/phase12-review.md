@@ -95,4 +95,4 @@ pool 1780／gap 48／stale 45 原先只见于叙述。已用 `bin/oldpool_judge.
 
 ## 五、后续收口（2026-11-25 第四十五批，补记）
 
-§二 R-8 修完后的剩余 20 缺口已由 specs/053 第四十五、四十六批逐族清零至 **1 件**（augustine 上游结构错位＝勘误 §十二例外；logic-intensional 裸排环境内嵌行内公式已于 11-26 第四十六批收口）。终态：**B3.2 pool 1,872／gap 1／stale 0（池占页 52.08%）**、**B3.1 1,665／208（+2，0 转红）**、I2 1873/0、`check_all` 全绿。族账见 `specs/053-en-template-audit/execution-log/2026-11-25.md`、`2026-11-26.md` 与 `results/gap-probe-*`。
+§二 R-8 修完后的剩余 20 缺口已由 specs/053 第四十五至四十七批**全部清零**（末件 augustine 结构错位于 11-26 走补丁出口 P-005 收口，勘误 §十二改记补丁出口；其余见第四十五、四十六批）。终态：**B3.2 pool 1,873／gap 0／stale 0（页面级闭合 100%，池占页 52.16%）**、**B3.1 1,665／208（+2，0 转红）**、I2 1873/0、`check_all` 全绿。族账见 `specs/053-en-template-audit/execution-log/2026-11-25.md`、`2026-11-26.md` 与 `results/gap-probe-*`。

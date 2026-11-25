@@ -609,4 +609,4 @@
 | slug | 位置 | 上游原文 | 缺陷定性 | 参考读法 | 中文承载 | 凭证 |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | aristotle-psychology | notes.html `note-1` 回链 | `<a href="index..html#ref-1">1.</a>` | ③（链接目标多一个点号） | `<a href="index.html#ref-1">1.</a>`（同页脚注回链） | 转换层补丁 P-004 修正；译文无影响（页内链接不落 md） | `git apply --check` 通过、`en_integrity --all` 缺件消失（2026-11-25） |
-| augustine | 书目 Translations 节内 `<li>\n\n<h4>Spanish</h4> </li>`（2792 行） | ③（节标题误嵌在空列表项里，破坏 English/French/German/Italian 四节同构） | 节标题应在 `</ul>` 之后与兄弟节同级（`<h4>Spanish</h4>` 顶格） | 无需译注（结构层；en/ 冻结照录，转换器按上游原样吸收，B3.2 gap 例外登记） | 2026-11-25 B3.2 缺口探针文字流定位＋同节四节同构比对（`gap-probe-postbatch.json`） |
+| augustine | 书目 Translations 节内 `<li>\n\n<h4>Spanish</h4> </li>`（2792 行） | ③（节标题误嵌在空列表项里，破坏 English/French/German/Italian 四节同构） | 节标题应在 `</ul>` 之后与兄弟节同级（`<h4>Spanish</h4>` 顶格） | 转换层补丁 P-005 修正（格式层；en/ 冻结照录）；无需译注 | 2026-11-25 B3.2 缺口探针文字流定位＋同节四节同构比对（`gap-probe-postbatch.json`）；2026-11-26 P-005 命中 1、账与转换同视图后 B3.2 gap→pool |
