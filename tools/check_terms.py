@@ -20,9 +20,12 @@
   - 译法集合：取"（"前主形，并按 / 与 ／ 拆分为变体（--docs 定点核销按变体命中判定）。
   - 登记册自洽：废弃行须有同键非废弃行；裁定日期缺失、依据列缺失 = 告警
     （数据欠账，登记会话补齐）；同键同译法重复 = 硬错误。
-  - 非英语术语缺原文 = 告警（非硬错误，2026-11-06）：键含非 ASCII 拉丁变音符／
-    非拉丁文字，或命中内置小语种词表者，「原文」列为「—」或空（旧五列无该列
-    亦视为缺）即记一条；全量清单落 specs/008 results/orig-missing.txt。
+  - 非英语术语缺原文 = 提醒（非硬错误；ADR-0087 2026-11-26 定性，原 2026-11-06 告警）：
+    键含非 ASCII 拉丁变音符／非拉丁文字，或命中内置小语种词表者，「原文」列为「—」
+    或空（旧五列无该列亦视为缺）即记一条；查无显式配对留「—」为合规终态，清单落
+    specs/008 results/orig-missing.txt。
+  - 审定引用配对 = 告警（非硬错误，ADR-0088 2026-11-26）：依据声明审定命中、但按
+    配对判据（tools/term_pairing.py）无 pairing 且行内无说明的行；索引缺失时跳过。
 退出码: 0 无硬错误；1 有冲突或自洽违例（--docs 模式仅告警，恒 0；--check-ledger 违例 1）；
         2 参数错误（如 --ledger 未配 --docs）。
 """
@@ -50,12 +53,16 @@ from tools.register_lib import (HEADER_WORDS, is_data_row,  # noqa: E402,F401
                                 parse_registry, parse_registry2_full,  # noqa: E401,F401
                                 parse_registry_full,  # noqa: E401,F401
                                 person_path, split_row, term_path)  # noqa: E401,F401
+from tools import term_pairing  # noqa: E402  ADR-0088 配对判据共享实现
 REGISTRY = term_path()
 REGISTRY2 = person_path()
 ORIG_REPORT = os.path.join(ROOT, 'specs', '008-terminology-campaign', 'results',
                            'orig-missing.txt')
 PERSON_REPORT = os.path.join(ROOT, 'specs', '013-person-attribution', 'results',
                              'person-missing.txt')
+PAIR_INDEX = os.path.join(ROOT, term_pairing.INDEX_PATH)
+PAIR_REPORT = os.path.join(ROOT, 'specs', '058-term-full-reextraction', 'results',
+                           'term-pairing-warnings.txt')
 DEPRECATED_MARK = '已废弃'
 # 判读台账（ADR-0048 决策 6，specs/031）：机器只写事实，D 类/出口/凭证/复核人留空待人填
 LEDGER_SCHEMA = 'sep-cn-term-ledger/1'
@@ -328,6 +335,27 @@ def write_orig_missing(entries, path):
     _atomic_write(path, '\n'.join(lines) + '\n')
 
 
+def audit_basis_pairs(rows, index):
+    """审定引用配对检查（ADR-0088）：依据声明审定命中（无否定、无说明措辞）、
+    且按配对判据非 pair 的行 → 告警清单 [(键, 译法, 档位, 行号)]。
+    说明措辞在译法列与依据列都算（审定作 X 常写在译法括注里）。"""
+    bad = []
+    for term, trans, _fs, basis, _date, lineno in rows:
+        if not term_pairing.needs_pairing('%s；%s' % (trans, basis)):
+            continue
+        v, _ev = term_pairing.classify_row(term, trans, basis, index)
+        if v != 'pair':
+            bad.append((term, trans, v, lineno))
+    return bad
+
+
+def write_pair_warnings(entries, path):
+    """term-pairing-warnings.txt：每行「键\t译法\t档位\t行号」，末尾汇总（原子写）。"""
+    lines = ['%s\t%s\t%s\t%d' % e for e in entries]
+    lines.append('汇总\t%d\t审定引用无配对（ADR-0088）' % len(entries))
+    _atomic_write(path, '\n'.join(lines) + '\n')
+
+
 def check_registry_self(rows):
     """自洽性：废弃链、重复 = 硬错误；缺裁定日期/缺依据 = 告警（数据欠账）。"""
     errors, warns = [], []
@@ -487,17 +515,30 @@ def main(argv=None):
         e, dw = check_registry_self(rows)
         all_self_errors.extend('%s %s' % (label, x) for x in e)
         warns.extend('%s %s' % (label, x) for x in w + dw)
-        # 非英语术语缺原文（只告警，不改正、不计硬错误）：清单落 orig-missing.txt
-        # 人名表按 ADR-0030（2026-11-10）豁免：来源页与工具书均未给原生文字者留「—」，不再逐行告警
+        # 非英语术语缺原文（ADR-0087：提醒，不改正、不计硬错误）：清单落 orig-missing.txt
+        # 人名表按 ADR-0030（2026-11-10）豁免：来源页与工具书均未给原生文字者留「—」，不再逐行提醒
         if warn_orig:
             for term, lineno in orig_missing(full_rows):
-                warns.append('非英语术语缺原文: %s %s（行 %d）' % (label, term, lineno))
+                warns.append('非英语术语缺原文（提醒）: %s %s（行 %d）' % (label, term, lineno))
                 orig_entries.append((label, term, lineno))
         doc_rows.extend(rows)
         return rows
 
     reg1_rows = load_one('登记册', reg_path)
     reg2_rows = load_one('人名表', reg2_path, warn_orig=False)
+
+    # 审定引用配对检查（ADR-0088）：注入模式（测试）跳过保证密闭；索引缺失时跳过并提示
+    pair_bad = []
+    if not injected:
+        if os.path.exists(PAIR_INDEX):
+            pair_index = term_pairing.load_index(PAIR_INDEX)
+            pair_bad = audit_basis_pairs(reg1_rows, pair_index)
+            for term, trans, v, ln in pair_bad[:10]:
+                warns.append('审定引用无配对（告警）: %s「%s」档 %s（行 %d）' % (term, trans, v, ln))
+            if len(pair_bad) > 10:
+                warns.append('…（其余 %d 条见清单）' % (len(pair_bad) - 10))
+        else:
+            print('审定引用配对检查：索引缺失，跳过（python -I tools/build_term_pair_index.py 预建）')
 
     print('登记册 %s 行 %d | 人名表 %s 行 %d'
           % (os.path.basename(reg_path or '(跳过)'), len(reg1_rows),
@@ -547,11 +588,16 @@ def main(argv=None):
 
     hard = len(all_self_errors)
     print('硬错误 %d（自洽 %d）' % (hard, len(all_self_errors)))
-    # 非英语术语缺原文：全量清单只对正式登记表落盘（注入模式=测试，不写产物）
+    # 非英语术语缺原文（ADR-0087：提醒）：全量清单只对正式登记表落盘（注入模式=测试，不写产物）
     if not injected:
         write_orig_missing(orig_entries, ORIG_REPORT)
-        print('非英语术语缺原文（告警，不计硬错误）: %d 条，清单 → %s'
+        print('非英语术语缺原文（提醒，不计硬错误）: %d 条，清单 → %s'
               % (len(orig_entries), ORIG_REPORT))
+        # 审定引用配对（ADR-0088）：告警级，清单落 specs/058
+        if pair_bad or os.path.exists(PAIR_INDEX):
+            write_pair_warnings(pair_bad, PAIR_REPORT)
+            print('审定引用无配对（告警，不计硬错误）: %d 条，清单 → %s'
+                  % (len(pair_bad), PAIR_REPORT))
         # 人名缺籍属/生卒（013 工程）：同口径告警，清单落 specs/013
         if reg2_path:
             rows2, _w2 = parse_registry2_full(reg2_path)
