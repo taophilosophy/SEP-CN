@@ -1,0 +1,51 @@
+{
+  "checked_at": "2026-11-25T21:38:53Z",
+  "reports": [
+    {
+      "slug": "habermas",
+      "hard": [],
+      "warn": [
+        {
+          "kind": "word_digit_eq",
+          "token": "sum2023",
+          "ctx": "< https://plato.stanford.edu/archives/sum2023/entries/habermas/ >.\n [This was the pre",
+          "cls": "typo_candidate"
+        },
+        {
+          "kind": "doubled_word",
+          "token": "Discourse \n\n \nDiscourse",
+          "ctx": "of morality”\n(1993: 1; 1991: 7). \n\n 3.1 Discourse \n\n \nDiscourse is not a synonym for language or speech",
+          "cls": "typo_candidate"
+        },
+        {
+          "kind": "digit_for_letter",
+          "token": "80s",
+          "ctx": "ote and\nresearched the book in the late 80s and early 90s, political theory\nwas in",
+          "cls": "typo_candidate"
+        },
+        {
+          "kind": "digit_for_letter",
+          "token": "90s",
+          "ctx": "ched the book in the late 80s and early 90s, political theory\nwas in the grip of th",
+          "cls": "typo_candidate"
+        },
+        {
+          "kind": "punct_run",
+          "token": ",,",
+          "ctx": "gattungsgeschichtlichen Sinn\ndes Ritus”,, translated as “A Hypothesis concerning",
+          "cls": "typo_candidate"
+        }
+      ],
+      "info": [],
+      "counts": {
+        "entry_links": 15,
+        "external_links": 12,
+        "math_inline": 0,
+        "math_display": 0,
+        "tables": 2,
+        "headings": 49
+      },
+      "checked_at": "2026-11-25T21:38:53Z"
+    }
+  ]
+}
