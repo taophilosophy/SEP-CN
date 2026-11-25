@@ -942,7 +942,7 @@
 | Cardinal(教会职衔) | Cardinal | 枢机主教 | 语料回收（词汇表并网） | 学界通行（天主教会职衔；与 cardinal 基数 同键多义分工；termonline-all 命中“基数词/基本方位”均异学科，凭证 2026-11-13）；键形归一 2026-11-21：全角括注／斜线改半角（键须为源语形）；旧键 Cardinal（教会职衔） | 2026-11-21 |
 | Cardinal-Bishop of Ostia | — | 奥斯提亚枢机主教 | peter-damian | 天主教会职衔通行汉译；凭证 2026-11-09 | 2026-11-09 |
 | cardinality | — | 势（基数） | omniscience | 数学通行译名；凭证 2026-11-09；撞形改定 2026-11-21：基数归 cardinal；集合论 cardinality 通行“势” | 2026-11-21 |
-| care ethics | — | 关怀伦理学（亦作“关怀伦理”） | 语料回收（标题词） | 审定名词库（termonline-all·新闻学与传播学·媒体与传播伦理，2026-11-08 浏览器通道凭证，en=ethics of care 精确命中；语料多数词条已用“关怀伦理学”） | 2026-11-08 |
+| care ethics / ethics of care | — | 关怀伦理学（亦作“关怀伦理”） | 语料回收（标题词） | 审定名词库（termonline-all·新闻学与传播学·媒体与传播伦理，2026-11-08 浏览器通道凭证，en=ethics of care 精确命中；语料多数词条已用“关怀伦理学”）；异形键 ethics of care 并入（2026-11-25） | 2026-11-08 |
 | caretaker gene | — | 看护基因 | cancer | 学界通行（癌症遗传学；与 gatekeeper 守门基因对举）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
 | caritas | caritas | 仁爱（亦作“博爱”） | 首现（justice-virtue） | 学界惯例（神学德性，托马斯·阿奎那）；凭证 2026-11-02；撞形豁免 2026-11-21：同形异语／同概念异形，按条目语境区分，不合并 | 2026-11-21 |
 | carrier screening | — | 携带者筛查 | genetics | 医学遗传学通行译名；凭证 2026-11-11（主会话直译 g/genetics） | 2026-11-11 |
@@ -2887,6 +2887,7 @@
 | fixed-point | — | 不动点 | deductivism-mathematics | 逻辑与数学通行译法（此处指语句迭代的不动点）；凭证 2026-11-08 | 2026-11-08 |
 | flattering ethics | — | 谄媚伦理学（鲍姆嘉通；指把德性境况说得轻易可得的伦理体系） | 18thGerman-preKant | 据作者英译直译（Thorndike 2008 论题）；凭证 2026-11-05；审定库无相关命中（termonline-all 凭证 2026-11-09）| 2026-11-05 |
 | flexibility | — | 灵活性 | 语料回收（specs/050 候选池） | 条目语境研判（哲学通行灵活性；审定“柔性”为化工义）；审定名词库（termonline-all·化工（十）·化工系统工程和化工信息化·化学产品工程与分子系统工程，2026-11-18 JWT 直连凭证，审定作“柔性”） | 2026-11-19 |
+| flourishing | — | 兴盛（亦作“繁荣”） | 语料回收（伦理学族扫描 2026-11-25） | 伦理学与幸福论通行（与 well-being 福祉对举；语料 91 次）；凭证 2026-11-25 | 2026-11-25 |
 | fluid | une liqueur | 流体 | cordemoy 补登 | 笛卡尔物理学通行（与 mass 团块、heap 一堆对举）；凭证 2026-11-09 | 2026-11-09 |
 | flux | — | 流变 | heraclitus 首译 | 学界通行（赫拉克利特研究通行译法）；凭证 2026-11-09 | 2026-11-09 |
 | fluxus | fluxus | 流（fluxus） | nicole-oresme | 奥雷斯姆运动论术语（与运动者并存的相继实体）；凭证 2026-11-08 | 2026-11-08 |
@@ -4299,6 +4300,7 @@
 | Legalism | — | 法家 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·管理科学技术·一般管理理论·管理思想史，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | legality | — | 合法性 | 语料回收（specs/050 候选池） | 条目语境研判（法哲学通行合法性（legality/legitimacy 对偶）；审定“合法律性”非通行形）；审定名词库（termonline-all·社会学名词·分支社会学·法律社会学，2026-11-18 JWT 直连凭证，审定作“合法律性”） | 2026-11-19 |
 | legislative intent | — | 立法意图 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
+| legitimacy | — | 正当性（政治哲学；与 legality 合法性分列） | 语料回收（伦理学族扫描 2026-11-25） | 政治哲学通行（语料 144 次）；凭证 2026-11-25 | 2026-11-25 |
 | legitimate authority | — | 合法权威 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·管理科学技术·公共管理·基本概念，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | Lehrfreiheit | Lehrfreiheit | 教学自由 | 语料回收（academic-freedom） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29） | 2026-10-27 |
 | Leib | Leib | 活的身体 | existentialism；phenomenology | 学界通行（现象学 Leib 与 Körper 躯体相对；本册定“活的身体”一形）；凭证 2026-11-11；FLAG 裁定 2026-11-21（联网凭证）：用语列删人名引用（contract-law:1042 Leib 2015），取 existentialism:592 与 phenomenology:1540 “活的身体”义；译法维持 | 2026-11-21 |
@@ -4977,6 +4979,7 @@
 | moral community | — | 道德共同体 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·马克思主义·附录·国外马克思主义哲学，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | moral concepts | — | 道德概念 | 语料回收（specs/058 全库提取） | 学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22） | 2026-11-22 |
 | moral conscience | — | 道德良心 | conscience 首译 | 学界通行（conscience 的道德义）；凭证 2026-11-08 | 2026-11-08 |
+| moral considerably | — | 道德考量性 | 语料回收（伦理学族扫描 2026-11-25） | 动物伦理与环境伦理通行（语料 17 次；与 moral standing 道德地位分列）；凭证 2026-11-25 | 2026-11-25 |
 | moral considerations | — | 道德考虑 | 语料回收（specs/058 全库提取） | 学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22） | 2026-11-22 |
 | moral consistency reasoning | — | 道德一致性推理 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | moral conversion | — | 道德改宗 | reflective-equilibrium | 学界惯例（DePaul 1993 语境）；凭证 2026-11-11 | 2026-11-11 |
@@ -4984,6 +4987,7 @@
 | moral deference | — | 道德顺从 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | moral desert | — | 道德应得 | 语料回收（词汇表并网） | 学界惯例（词汇表并网迁移）；词汇表并网（ADR-0036）；审定库无相关命中（termonline-all 凭证 2026-11-13）| 2026-11-13 |
 | moral development | — | 道德发展 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·心理学，2026-11-18 JWT 直连凭证） | 2026-11-19 |
+| moral dilemma | — | 道德困境 | 语料回收（伦理学族扫描 2026-11-25） | 伦理学通行（语料 9 次）；凭证 2026-11-25 | 2026-11-25 |
 | moral disagreement | — | 道德分歧 | 语料回收（specs/058 全库提取） | 学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22） | 2026-11-22 |
 | moral education | — | 道德教育 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·教育学·教育基本理论，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | moral emotion | — | 道德情感 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·医学伦理学·伦理学与医学伦理学的学科界定·伦理学范畴，2026-11-18 JWT 直连凭证） | 2026-11-19 |
@@ -5023,6 +5027,7 @@
 | moral property | — | 道德属性 | 首现（intuitionism-ethics） | 学界惯例（元伦理学通行）；凭证 2026-11-08 | 2026-11-08 |
 | moral psychology | — | 道德心理学（亦作“道德心理”） | bradley-moral 首译 | 学界通行译名（布拉德雷与英国观念论研究文献）；凭证 2026-11-08；2026-11-15 补亦作（审定短形） | 2026-11-15 |
 | moral quality | — | 道德品质 | grotius | 格劳秀斯 ius 定义通行译法；凭证 2026-11-12 | 2026-11-12 |
+| moral rationalism | — | 道德理性主义 | 语料回收（伦理学族扫描 2026-11-25） | 元伦理学通行（语料 8 次）；凭证 2026-11-25 | 2026-11-25 |
 | moral realism | — | 道德实在论 | 首现（intuitionism-ethics） | 学界惯例（元伦理学通行）；凭证 2026-11-08 | 2026-11-08 |
 | moral reasons | — | 道德理由 | 语料回收（specs/058 全库提取） | 学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22） | 2026-11-22 |
 | moral responsibility | — | 道德责任 | moral-responsibility-empirical | 学界通行（本词条核心术语）；审定名词库（termonline-all·医学伦理学名词 1.04，2025）作“道德责任”，与本行一致（2026-11-24 JWT 直连，凭证 termonline-b8-2026-11-24.tsv） | 2026-11-07 |
@@ -5032,9 +5037,10 @@
 | moral self | — | 道德自我 | bradley-moral 首译 | 学界通行译名（布拉德雷与英国观念论研究文献）；凭证 2026-11-08 | 2026-11-08 |
 | moral sense | — | 道德感 | moral-responsibility-empirical | 道德哲学通行（moral sense 传统）；审定名词库（termonline-all·教育学名词 01.219，2013）作“道德感”，与本行一致（2026-11-24 JWT 直连，凭证 termonline-b8-2026-11-24.tsv） | 2026-11-07 |
 | moral sentiment / moral sentiments | — | 道德情操 | george-eliot 首译 | 道德感学派通行；撞形改定 2026-11-21：休谟道德情操；道德情感归 moral emotion；异形键 moral sentiments 并入（2026-11-25） | 2026-11-21 |
+| moral sentimentalism | — | 道德情感主义 | 语料回收（伦理学族扫描 2026-11-25） | 元伦理学通行（语料 10 次；与 sentimentalism 情感主义同行族）；凭证 2026-11-25 | 2026-11-25 |
 | moral significance | — | 道德意义 | 语料回收（specs/058 全库提取） | 学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22） | 2026-11-22 |
 | moral skepticism | — | 道德怀疑论 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
-| moral status | moral standing | 道德地位 | 语料回收（moral-animal）；语料回收（specs/058 全库提取） | A 档裁定（008 池裁定 2026-10-28）；学界通行译名；合并同义异形键（2026-11-24 复核）；standing 与 status 同指道德地位，删除行依据“学界通行（specs/058 A 档直裁）”并入（凭证 term-dup-triage-2026-11-24.md） | 2026-10-28 |
+| moral status / moral standing | moral standing | 道德地位 | 语料回收（moral-animal）；语料回收（specs/058 全库提取） | A 档裁定（008 池裁定 2026-10-28）；学界通行译名；合并同义异形键（2026-11-24 复核）；standing 与 status 同指道德地位，删除行依据“学界通行（specs/058 A 档直裁）”并入（凭证 term-dup-triage-2026-11-24.md）；异形键 moral standing 并入（2026-11-25） | 2026-10-28 |
 | moral taint | — | 道德污点 | 首译（stem-cells） | 学界惯例（道德责任文献通行）；凭证 2026-11-09 | 2026-11-09 |
 | moral terms | — | 道德语词 | 语料回收（specs/058 全库提取） | 学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22） | 2026-11-22 |
 | moral theories | — | 道德理论 | 语料回收（specs/058 全库提取） | 审定名词库（医学伦理学名词·医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴，2025，1.022；凭证 2026-11-22） | 2026-11-22 |
@@ -5181,7 +5187,7 @@
 | natural kind | — | 自然种类（亦作“自然类”） | cancer；biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07；2026-11-09 合并同键变体（来源列并双 slug）；2026-11-15 补亦作（审定形，两形并行） | 2026-11-15 |
 | natural knowledge | — | 自然知识 | petitionary-prayer | 莫利纳三知识说通行译法（scientia naturalis）；凭证 2026-11-09 | 2026-11-09 |
 | natural language | — | 自然语言 | 语料回收（logic-classical） | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
-| natural law | — | 自然法 | 语料回收 | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
+| natural law / natural law theory | — | 自然法 | 语料回收 | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）；异形键 natural law theory 并入（2026-11-25） | 2026-10-27 |
 | natural law ethics | — | 自然法伦理学 | 首译（saadya） | 伦理学通行（与“神命论”对举）；凭证 2026-11-09 | 2026-11-09 |
 | natural law internalism | — | 自然法内在主义 | hegel-social-political | 学界通行（Brooks 术语） | 2026-11-10 |
 | natural light | — | 自然之光（心灵的） | 18thGerman-preKant | 学界通行汉译（近代哲学惯例） | 2026-11-05 |
@@ -5396,6 +5402,7 @@
 | normative force | — | 规范性力量 | bradley-moral 首译 | 学界通行译名（布拉德雷与英国观念论研究文献）；凭证 2026-11-08 | 2026-11-08 |
 | normative necessity | — | 规范必然性 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | normative positions | — | 规范立场 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
+| normative reason | — | 规范理由 | 语料回收（伦理学族扫描 2026-11-25） | 理由论通行（与 motivating reason 动机理由对举）；凭证 2026-11-25 | 2026-11-25 |
 | normativism | — | 规范主义 | 语料回收（ism 扫描 2026-11-25） | 元伦理学与知识论通行（规范性优先论题）；凭证 2026-11-25 | 2026-11-25 |
 | normativity | — | 规范性 | reinach | 学界惯例（与登记册 normative force“规范性力量”同族）；凭证 2026-11-09 | 2026-11-09 |
 | norms of use | — | 使用规范 | aesthetic-testimony | 本词条术语（unusability 悲观论之使用规范进路）；依义直译 | 2026-11-11 |
@@ -6322,6 +6329,7 @@
 | problem of universals | — | 共相问题 | 语料回收（词汇表并网） | 对齐登记册（termonline-standard GB 标准库凭证 2026-10-28；审定库复核 2026-10-29 保留现译）；旧译“普遍性问题”不采；词汇表并网（ADR-0036）；旧键“problem of universals / universals”并入（2026-11-21 FLAG 裁定；旧键首现：词汇表复核） | 2026-11-21 |
 | problem-shift | — | 问题转换 | 语料回收（lakatos 首译） | 科学研究纲领方法论通行译法；凭证 2026-11-06 | 2026-11-06 |
 | problematic idealism | — | 问题性唯心论 | kant-transcendental | 学界通行（康德 B274 problematischer Idealismus）；凭证 2026-11-11 | 2026-11-11 |
+| procedural justice | — | 程序正义 | 语料回收（伦理学族扫描 2026-11-25） | 政治哲学与法学通行（与 distributive justice 分配正义对举）；凭证 2026-11-25 | 2026-11-25 |
 | procedural norm | — | 程序性规范 | blame 首译 | 学界通行译名（责备伦理学文献）；凭证 2026-11-07 | 2026-11-07 |
 | procedural rationality | — | 程序合理性 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | proceduralism | — | 程序主义 | 语料回收（ism 扫描 2026-11-25） | 政治哲学与法学通行（与 substantivism 实质主义对举）；凭证 2026-11-25 | 2026-11-25 |
@@ -6842,6 +6850,7 @@
 | representationalism | — | 表征主义（亦作“表象主义”“表象论”） | 语料回收（全目录） | A 档裁定（008 池裁定 2026-10-28）；学界通行译名 | 2026-10-28 |
 | representationalist | — | 表征主义的 | epistemology-language-tibetan | 哲学通译；FLAG 裁定 2026-11-21：与 representationalism＝表征主义（A 档裁定）同族统一 | 2026-11-21 |
 | representative agents / representative individuals | — | 代表性行为者／代表性个体 | 首现（william-jevons） | 学界通行（经济学方法论通行译名）；凭证 2026-11-07 | 2026-11-07 |
+| representative democracy | — | 代议制民主（亦作“代议民主”） | 语料回收（伦理学族扫描 2026-11-25） | 政治哲学通行；凭证 2026-11-25 | 2026-11-25 |
 | representative realism | — | 表象实在论 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | representor | — | 表征集 | 首现（imprecise-probabilities） | 学界惯例（van Fraassen 术语）；凭证 2026-11-08 | 2026-11-08 |
 | reprobation | reprobatio |弃绝（亦作“遗弃”）| gregory-rimini | 神学通行（亦作“遗弃”；与 predestination 预定配对）；凭证 2026-11-10 | 2026-11-10 |
