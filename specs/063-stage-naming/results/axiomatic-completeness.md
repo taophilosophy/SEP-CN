@@ -34,6 +34,7 @@
 | AX11 | 守恒 | `reserved` 号未分配；已用号 ∉ reserved；`retired` 号不复用 | struct（⑦） |
 | AX12 | 纪律 | `tasks/`、`journal/` 的 state 与 step 字段不含阶段号／战役号模式 | struct（⑧ 禁写面） |
 | AX13 | 冻结 | marks 只登记：本卡 diff 白名单外不得触及 marks 源文件 | gate（diff 白名单） |
+| AX14 | 派生 | 每条 `criteria_owner` 键恰属一个 stages 条目的 `criteria`，且两侧集合双向相等（rev 6，D17） | struct（⑨） |
 
 ## 2 定理
 
@@ -101,9 +102,22 @@
 | S（60） | AX10（非节点子节落点）＋AX5（号合法） | AX5 | struct ✓ |
 | K（6） | AX6 | AX6 | struct ✓ |
 | M（8） | AX7 | AX7（attach 唯一解析） | struct／gate ✓ |
+| C（26） | AX14 | AX14 | struct ✓ |
 
-**满射检验**（每个 check_stages 谓词至少承载一条公理）：①←AX5,AX10；②←AX1,AX2；③←AX8；④←AX9；⑤←AX6,AX7,AX13；⑥←AX10；⑦←AX11；⑧←AX3,AX4,AX12。八谓词均非空，满射成立。
+**满射检验**（每个 check_stages 谓词至少承载一条公理）：①←AX5,AX10；②←AX1,AX2；③←AX8；④←AX9；⑤←AX6,AX7,AX13；⑥←AX10；⑦←AX11；⑧←AX3,AX4,AX12；⑨←AX14。九谓词均非空，满射成立。
 **覆盖检验**（每条公理至少被一个谓词承载）：AX1–AX13 逐条命中，无孤儿公理。∎
+
+### CT8 跃迁相容（rev 6 增补）
+
+**陈述**：任何改变 `state(e)` 的操作后，`stage_of(e)` 自动反映新值，无需额外写入。
+**证明**：`stage_of = μ ∘ state`（CT3）；μ 为静态表。故 state 变则 stage 随之变，AX4 保证无歧义。不改 state 的操作（`--unblock`、`source-audit`）阶段不变，与规范一致。∎
+**推论**：阶段轨不需要跃迁引擎——7 种状态机操作的阶段语义全部免费获得（详表见 `spec.md` §1.11 与 `flow-audit.md` §3 G4）。
+
+### CT9 判据阶段可导出（rev 6 增补）
+
+**陈述**：∀c∈C（|C|＝26），`stage(c) = stage(owner(c))` 唯一可导（公理 AX14）。
+**证明**：pipeline 声明检查器硬拦点唯一 → `criteria_owner[c]` 单元素；σ 由 AX2 单值 → 复合函数唯一。∎
+**必要性反证**：审计实测手编必错三处（`register_audit`→rv-06、`check_pairs`→tr-03、`check_academic`→rv-02），故 stages 的 `criteria` 字段只能派生、禁手编（`flow-audit.md` §3 G1）。
 
 ## 3 一致性（无矛盾模型）
 
@@ -133,14 +147,15 @@
 | AX11 | 1.4 既分配又保留 | 双登记，序号膨胀或冲突 |
 | AX12 | 执行账写“阶段 3.5 完成”入 journal | 阶段名演进即锁死历史（ADR-0080 同构论证） |
 | AX13 | 顺手把 B0–B3 改名为 S0–S3 | 228 处既有引用断链 |
+| AX14 | criteria 手编把 `register_audit` 挂 rv-01 | 判据归属与 pipeline 事实源冲突，⑨ 报错 |
 
-13 条各有一个反例使体系失效，故**独立（无冗余公理）**。
+14 条各有一个反例使体系失效，故**独立（无冗余公理）**。
 
 ## 5 可判定性
 
 - AX1–AX12 全部为只读结构谓词，输入 naming.json＋pipeline.json＋tasks/，判定 O(|S|+|N|)，无人工判断。
 - AX13 为 diff 白名单比对，机检可得。
-- 公理与谓词的映射是满射（CT7），故**每个公理都可被现行 check_stages 八谓词判定**，无“写了但查不了”的公理。
+- 公理与谓词的映射是满射（CT7），故**每个公理都可被现行 check_stages 九谓词判定**，无“写了但查不了”的公理。
 
 ## 6 边界（不可自证项，如实登记）
 

@@ -40,6 +40,14 @@
 | D14 | 冗余 | marks 登记 P1–P4 与 nodes 块 aliases 重复（ex-01 的 aliases 即 P1） | 删该行 |
 | D15 | 冗余 | marks 登记 061 号域（评估已实施完毕；且与 054 的 G1–G5、rules/03 的 D1–D5、axioms 的 P1–P33 三处撞名） | 删该行；specs/061 自洽保管 |
 | D16 | 撞名 | S1–S7 双重重载（pipeline.json principles 与 check_stages 谓词共用同一套号） | 阶段轨文档一律写 check_stages，不用 S 号 |
+| D17 | 脱漏 | 26 个判据无阶段归属；手编必错（`register_audit`→rv-06 非 rv-01、`check_pairs`→tr-03、`check_academic`→rv-02） | stages 增 `criteria` 字段，由 criteria_owner 派生、**禁手编**；check_stages 第 ⑨ 谓词 |
+| D18 | 脱漏 | 85 个工具无归属 | 声明不入阶段轨，随判据挂靠（GATES 表为事实源） |
+| D19 | 脱漏 | `rules/01–10` 无归属 | 声明不入阶段轨（规范非作业），作用面在规则头注 |
+| D20 | 脱漏 | **阶段跃迁缺失**：7 种状态机操作（advance／revert-state／reopen --clear／--upstream-sync／--unblock／source-audit／语体返工）无阶段语义 | 新增 §1.11 跃迁表＋CT8 跃迁相容 |
+| D21 | 脱漏 | 任务类型：`glossary-maintenance` 与例行／维护任务（2 项）无阶段 | §1.12 列为非阶段对象（旁路任务） |
+| D22 | 脱漏 | 文档形态（骨架／桩件／补充材料子文档／非词条目录）无处置 | §1.12 逐形态处置（骨架＝1.3.2 明说） |
+| D23 | 脱漏 | 旁路产物线（站点／PDF／术语库／目录体系）无处置 | §1.12 声明正交，归战役 |
+| D24 | 部分 | 结构层仅目录面覆盖（别名链／占位母行无） | §1.12 声明属结构规则，不随阶段变化 |
 
 ### 0.3 目标
 
@@ -49,7 +57,7 @@
 
 ### 0.4 验收判据（概要，详见 §4）
 
-stages 60 项＋campaigns 6 项＋marks 8 项入册；check_stages 八条校验生效且经三个反例试金石验证；`stage_of.py` 可对全部 1873 件输出阶段；22 节点归属唯一；旧标记来源文件零改写；specs/062 加头注；ADR-0089 登记；`check_all` 全绿；提交即推。
+stages 60 项＋campaigns 6 项＋marks 8 项入册；check_stages 九条校验生效且经三个反例试金石验证；`stage_of.py` 可对全部 1873 件输出阶段；22 节点归属唯一；旧标记来源文件零改写；specs/062 加头注；ADR-0089 登记；`check_all` 全绿；提交即推。
 
 ## 1. 命名体系定案
 
@@ -137,6 +145,8 @@ stages 60 项＋campaigns 6 项＋marks 8 项入册；check_stages 八条校验�
 | 4.2 | signoff.coherence | 连贯性（复审） | sg-02 | ISO 5060:2024 Annex E | accepted |
 | 4.3 | signoff.acceptance | 交付验收（终审；`--mandate`；CY/T 266 万分之一线） | sg-03 | ISO 5060:2024 §6.4／6.5、GB/T 19682-2005、CY/T 266-2023、ISO 17100 符合性、图书质量保障体系第八条 | accepted |
 | 4.4–4.9 | — | 预留（sg-04–09） | — | — | reserved |
+
+> **criteria 字段（D17）**：每个 stages 条目带 `criteria: [...]`，**只由 `rules/pipeline.json` 的 `criteria_owner` × 节点阶段派生，禁手编**——审计实证手编必错（`register_audit` 实属 rv-06 而非 rv-01、`check_pairs` 属 tr-03、`check_academic` 属 rv-02）。26 条判据全部单 owner，故可唯一导出（定理 CT9，`results/flow-audit.md` §4）。
 
 > **发布动作**（提交即推＋壳仓拉取制，ADR-0059/0064）登记为 4.3 的 `closing_action` 字段，不占号（避免挤占 sg 预留）。**节点绑定子节计数**：1.2.1／1.2.2／1.2.3／1.3.3／1.3.4（5）＋2.1–2.5（5）＋3.1–3.9（9）＋4.1–4.3（3）＝**22**，与节点总数对齐。
 
@@ -264,6 +274,39 @@ D1／D2 修正要点：ex-05 是**语法格式层检查**而非补丁应用；�
 - 本项目把 review／proofreading 做成强制工序是**超出基线**而非偏离（ISO 17100 中为可选），无需登记偏离。
 - 每子节的“不适用”结论均附理由（D4），满足 specs/061 §10 第 2 条验收。
 
+### 1.11 阶段跃迁（D20）
+
+阶段轨不设跃迁引擎：跃迁语义由状态机与 μ 免费获得（定理 CT8）。七种操作与阶段效应：
+
+| 操作 | 依据 | 阶段效应 |
+| ---- | ---- | ---- |
+| `advance --step <id>` | 状态机 | 前进一站，stage 单调增 |
+| `revert-state --to rv-02_checked` | ADR-0043／0063 | 回 3.2，重走 3.3–3.9 与 r 链 |
+| `reopen --clear` | ADR-0050 | 回 1.3.2（置空），再自 1.3.3 起 |
+| `reopen --upstream-sync` | ADR-0051 四闸 | 同上，附凭证审计 |
+| `advance --unblock` | blocked 标志 | 解除阻塞，**不改阶段** |
+| `task_ops.py source-audit` | 存量补课（specs/036） | 追加 ex-04 记录，**状态不迁移**（阶段不变） |
+| 语体违规返工 | ADR-0033 | reopen → clear → 自 1.3.2 起重译 |
+
+**CT8（跃迁相容）**：`stage_of = μ ∘ state` 是全函数且 μ 静态，故任何 state 变更自动反映为阶段变更，无歧义；不改 state 的操作（unblock／source-audit）阶段不变——与规范表述一致。
+
+### 1.12 非阶段对象（D18／D19／D21–D24）
+
+以下对象**不入阶段轨**，各有明确归属——这是“无脱漏”的判据（每族有处置），不是遗漏：
+
+| 对象 | 为何不入阶段轨 | 归属 |
+| ---- | ---- | ---- |
+| 判据（26） | 是阶段的属性，不是站 | stages 的 `criteria` 字段（派生） |
+| 工具（85） | 判据的实现 | 随判据；`check_all` GATES 表 |
+| 规则（01–10） | 规范文本，非作业 | 作用面见规则头注 |
+| `glossary-maintenance` 任务 | 登记册维护，不绑词条 | 旁路任务（PROGRESS 单列） |
+| 例行／维护任务（2 项） | 同上（`zh_doc` 为空） | 旁路任务 |
+| 桩件（< 2048 B） | 非真词条 | `axis_lib` 排除，不编址 |
+| 补充材料子文档 `<slug>.<x>.md` | 附属主文件 | 随主 slug 阶段，不独立编址 |
+| 骨架（仅 H1） | `state=cleared` | **1.3.2**（非脱漏，明说） |
+| 站点构建／PDF／术语库／目录体系 | 与正文正交的第二产物线 | 战役（§1.4）或独立 spec |
+| 别名链／占位母行 | 结构规则，不随阶段变 | `rules/01`、ADR-0057／0060 |
+
 ## 2. 非目标
 
 1. 不改 22 节点 id／name／label（ADR-0080 既定），不动状态机、journal、tasks。
@@ -275,8 +318,8 @@ D1／D2 修正要点：ex-05 是**语法格式层检查**而非补丁应用；�
 
 ## 3. 实施步骤
 
-1. **naming.json 升 v2**：schema `sep-naming/v2`；增 `stages`（60 项）、`campaigns`（6 项，无号，identifier＝主 spec 号）、`marks`（8 项）、`state_stage_map`（§1.7）；`patterns` 增 stage 三级正则（**不设 campaign 正则**，D13）；`revision` 记 rev 4。
-2. **check_stages 扩展**（`tools/check_stages.py`）八条：
+1. **naming.json 升 v2**：schema `sep-naming/v2`；增 `stages`（60 项，每项含由 criteria_owner 派生的 `criteria` 字段）、`campaigns`（6 项，无号，identifier＝主 spec 号）、`marks`（8 项）、`state_stage_map`（§1.7）；`patterns` 增 stage 三级正则（**不设 campaign 正则**，D13）；`revision` 记 rev 4。
+2. **check_stages 扩展**（`tools/check_stages.py`）九条：
    ① stages 自洽：identifier 唯一、符合正则、`specs` 落点存在、status 枚举内。
    ② 节点↔阶段**双向**一致：每个 pipeline 节点恰出现于一个 stages 子节；每个 `stages[].nodes` 的 id 在 nodes 块存在。
    ③ 大段 2–4 子节号＝节点号（M＝节点号规则）。
@@ -285,14 +328,15 @@ D1／D2 修正要点：ex-05 是**语法格式层检查**而非补丁应用；�
    ⑥ 非节点子节须有 `specs` 落点或母节归属，不得游离。
    ⑦ **预留完整性**：1.4–1.9／2.6–2.9／3.10–3.19／4.4–4.9 以 `reserved` 在册；已用号与 reserved 号不得重叠；retired 号不复用。
    ⑧ **映射完整性**：`state_stage_map` 的键集＝naming.json 中 state 非 null 的节点 state 集；值皆为存在的 stages 号。**另加写入禁令校验**：扫描 `tasks/` 与 `journal/` 不得出现阶段号／战役号模式。
-2a. **公理化证明**（`results/axiomatic-completeness.md`）：论域基数、13 条公理 AX1–AX13、7 条定理 CT1–CT7、一致性模型、独立性反例、可判定性、5 项不可自证边界。公理→谓词映射表随 ADR-0089 入库；证明发现的 C1–C4 已回修本卡。§4 判据以 CT1–CT7 为验收面。
+   ⑨ **判据归属**（D17／CT9）：每条 `criteria_owner` 键恰出现在一个 stages 条目的 `criteria` 中，且 `stage(criteria) = stage(owner)`；stages 侧 `criteria` 集合等于反查结果集（双向相等，禁手编偏差）。
+2a. **公理化证明**（`results/axiomatic-completeness.md`）：论域基数、14 条公理 AX1–AX14、9 条定理 CT1–CT9、一致性模型、独立性反例、可判定性、5 项不可自证边界。覆盖审计（`results/flow-audit.md`）另查 8 项脱漏 G1–G8，已补 §1.11／§1.12 与第 ⑨ 谓词。公理→谓词映射表随 ADR-0089 入库。§4 判据以 CT1–CT9 为验收面。
 3. **反例试金石**（rules/08 §9–12）：注入三个反例验证机检确拦——a）ex-04 归属改 1.2.4 应红；b）tr-03 子节改 2.4 撞 tr-04 应红；c）tasks 中植入字符串 `1.2.3` 应红。还原复跑应绿。evidence 落 `results/s7-probe.json`。
 4. **`tools/stage_of.py`（新增，D6）**：只读派生视图。
    - 单件：`python tools/stage_of.py <slug>` → 输出当前阶段号、name、label、`derived_from`（派生依据状态）、下一站。
    - 全库：`--all` → 阶段分布计数（按 stages 号聚合，供 PROGRESS 后续消费）。
    - 纪律：只读、不写盘、不修改 tasks；无状态节点按 §1.7 注取最近前驱。
 5. **specs/062 注记**：spec.md 首行下加一行“注（2026-11-26）：阶段 1＝源侧镜像与交割；1.1 两半段、1.2 八子节、1.3 四步交割（含 ex-04／ex-05 放行门）见 specs/063 与 ADR-0089”；sop.md 加一行“九步与 stages 子节的映射见 specs/063 §1.6”。正文不动。
-6. **ADR-0089**：`rules/adr/0089-阶段轨命名与线级标记登记.md`。内容：背景（§0.1–§0.2 摘要）、决策（四层标识、阶段派生原则、四段＋战役正交、ex 寄居表、八条 check_stages、stage_of 唯一入口）、后果（跨卡引用可机检、marks 冻结、战役与阶段不嵌套、ex-05 无状态位为已知缺口）、回退（naming.json 单文件、git revert 整体可退）。
+6. **ADR-0089**：`rules/adr/0089-阶段轨命名与线级标记登记.md`。内容：背景（§0.1–§0.2 摘要）、决策（四层标识、阶段派生原则、四段＋战役正交、ex 寄居表、九条 check_stages、stage_of 唯一入口）、后果（跨卡引用可机检、marks 冻结、战役与阶段不嵌套、ex-05 无状态位为已知缺口）、回退（naming.json 单文件、git revert 整体可退）。
 7. **指针登记**：specs/README.md 063 行（rev 3 描述）；`rules/04-translation-workflow.md`“节点标识与旧名”节末增阶段轨＋战役块＋stage_of 三行指针；AGENTS.md 按任务必读表与硬约束表各增指针（不复制数字）。**该步待并行会话收工后执行**（AGENTS.md／rules/04 当前有他人在途改动）。
 8. **后续项登记**（不在本卡实施）：①ex-05 状态位；②PROGRESS 增“阶段分布”节（消费 `stage_of --all`）；③spec 卡头“阶段／战役”字段模板（写入 `specs/README.md` 表列后续演进）。
 
@@ -301,7 +345,7 @@ D1／D2 修正要点：ex-05 是**语法格式层检查**而非补丁应用；�
 ## 4. 验收判据
 
 1. `rules/naming.json` schema `sep-naming/v2`，stages 60／campaigns 6／marks 8／state_stage_map 19 在册；campaigns 无字母号（D13）；公理化证明落 `results/axiomatic-completeness.md` 且 CT1–CT7 全成立。
-2. check_stages 八条生效；三个反例（ex-04 错寄／tr 撞号／tasks 植入阶段号）必红，还原必绿；probe 凭证落盘。
+2. check_stages 九条生效；三个反例（ex-04 错寄／tr 撞号／tasks 植入阶段号）必红，还原必绿；probe 凭证落盘。
 3. `stage_of.py` 对全部 1873 件输出阶段，无异常；`--all` 分布计数与 `tasks.state` 聚合一致（独立复算）。
 4. 22 节点归属唯一且与 §1.5 寄居表逐条一致；`check_all` 全绿（清单以 `--list-gates` 为准）。
 5. 每个 stages／campaigns 条目有标准对照，或“不适用”附理由（specs/061 §10 第 2 条）。
@@ -337,3 +381,4 @@ D1／D2 修正要点：ex-05 是**语法格式层检查**而非补丁应用；�
 - **rev 4（2026-11-26）**：编号族全库扫描后的冗余清理，修正 D13–D16——战役去号（避 ADR-0063 C1–C4 撞名）、marks 10→8、阶段轨弃 S 号、新增 §1.9 编号族总表与 seg 映射规则。
 - **裹带自首（rev 4 提交 `44496c77c`）**：`git add` 本卡两文件后以裸 `git commit -m`（未带 pathspec）提交，把并行会话（术语线）已暂存的 specs/058 `entry-glossary-2026-11-25.tsv.gz`、`entry-person-index-2026-11-25.tsv.gz` 两件删除一并收编并推送。归属：删除系并行会话以 11-26 新版替代旧版的真实意图，非本卡改动；内容无损失（11-26 版在本地未跟踪，待其自行提交）。处置：**不做还原提交**（会与其在途状态碰撞），等其续提交自愈；本行即日志登记。教训第四次重演（`git commit` 必须带 `-- <paths>`，提交后必核 `git show --stat HEAD`）。
 - **rev 5（2026-11-26）**：公理化完备性证明（`results/axiomatic-completeness.md`）——公理 AX1–AX13、定理 CT1–CT7、独立性与可判定性成立；证明过程查出 C1（映射计数 18→19）、C2（编号序≠执行序）、C3（done 复合值违单值）、C4（谓词 ⑤ 覆盖缺口），四处已回修。
+- **rev 6（2026-11-26）**：全流程覆盖审计（`results/flow-audit.md`）——12 族实体比对，查出 8 项脱漏 G1–G8（D17–D24），补 `criteria` 派生字段、§1.11 跃迁表（CT8）、§1.12 非阶段对象、check_stages 第 ⑨ 谓词；公理化证明补 CT8／CT9。
