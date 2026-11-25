@@ -52,6 +52,7 @@ GATES = [
     ("公式体例总检", "mathzh", "tools/check_math_zh.py --strict"),
     ("原始物分歧账", "divergence", "tools/divergence.py verify"),
     ("转换保真（yuanwen≡基线）", "fidelity", "tools/check_yuanwen_fidelity.py --gate"),
+    ("补丁池合法性（命中/准入/INDEX/公共性）", "en-patches", "tools/check_en_patches.py --strict"),
     ("中文体例归一（s2.4 三轴结构面）", "style", "tools/check_pairs.py --gate --all"),
     ("账实一致性（清账/过程记录，严格档）", "ledger", "tools/check_taskfile_invariant.py --strict"),
     ("目录四方重放网络", "catalog-net", "tools/check_catalog_network.py --gate"),

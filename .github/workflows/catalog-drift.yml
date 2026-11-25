@@ -65,6 +65,19 @@ jobs:
           python -c "import json;d=json.load(open('$RUNNER_TEMP/drift.json',encoding='utf-8'));print('changed=%s' % str(d['changed']).lower())" >> "$GITHUB_OUTPUT"
           python -c "import json;d=json.load(open('$RUNNER_TEMP/drift.json',encoding='utf-8'));c=d['catalog'];l=d['local'];a=d.get('assembly') or {};print('目录漂移：%s（新增 %d／删除 %d／改名 %d／作者 %d／别名＋%d－%d；SUMMARY 缺 %d 多 %d；mu-lu-s 缺 %d 多 %d；装配核验：%s）' % ('有' if d['changed'] else '无', len(c['added']), len(c['removed']), len(c['renamed']), len(c['authors_changed']), len(c['alias_added']), len(c['alias_removed']), len(l['upstream_missing_in_summary']), len(l['summary_only_upstream']), len(l['upstream_missing_in_mulu']), len(l['mulu_only_upstream']), '全等' if a.get('ok') else '不等'))"
 
+      - name: 目录网络五门（G1–G5，只读重放；不改账）
+        id: net
+        if: always() && steps.fetch.outputs.snapshot != ''
+        continue-on-error: true
+        run: |
+          set -o pipefail
+          if python tools/check_catalog_network.py --gate > "$RUNNER_TEMP/net.json" 2>"$RUNNER_TEMP/net.err"; then
+            echo "ok=1" >> "$GITHUB_OUTPUT"
+          else
+            echo "ok=0" >> "$GITHUB_OUTPUT"
+          fi
+          python -c "import json;d=json.load(open('$RUNNER_TEMP/net.json',encoding='utf-8'));print('目录五门：%s（%d 门）' % ('全绿' if d.get('ok') else '有红', len(d.get('gates') or [])))" 2>/dev/null || echo "目录五门：输出不可解析（见工件）"
+
       - name: 上游变更检测（new.html ＋ 版次核对；仅目录干净时执行，结果只落工件）
         id: updates
         if: always() && steps.drift.outputs.changed == 'false'
@@ -99,6 +112,7 @@ jobs:
             ${{ runner.temp }}/drift.md
             ${{ runner.temp }}/queue.json
             ${{ runner.temp }}/snapshot-meta.json
+            ${{ runner.temp }}/net.json
           if-no-files-found: ignore
 
       - name: 有目录漂移时创建或更新 Issue
@@ -148,6 +162,25 @@ jobs:
                 --comment "本轮巡检（run ${GITHUB_RUN_ID}）目录四方全等，按 2026-11-22 裁定自动关闭。"
               echo "目录四方全等：已关闭 issue #$NUM"
             done
+          fi
+
+      - name: 目录无漂移但五门红时另开问题
+        if: always() && steps.drift.outputs.changed == 'false' && steps.net.outputs.ok == '0'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          TITLE="SEP 上游变化同步报告"
+          gh label create "sep-sync-broken" --color D93F0B \
+            --description "抓取或解析失败，脚本/护栏需人工处理" --force >/dev/null 2>&1 || true
+          NUM=$(gh issue list --state open --search "in:title \"$TITLE\"" \
+                 --json number --jq '.[0].number' 2>/dev/null || true)
+          MSG="目录四方无漂移，但 G1–G5 五门有红（run ${GITHUB_RUN_ID}）：账／规则／池派生链不一致，需人工定位。见运行工件 net.json。"
+          if [ -n "$NUM" ]; then
+            gh issue comment "$NUM" --body "$MSG"
+            gh issue edit "$NUM" --add-label "sep-sync-broken" >/dev/null
+          else
+            gh issue create --title "$TITLE" --body "$MSG" --label "sep-sync-broken"
           fi
 
       - name: 抓取/解析失败时另开问题

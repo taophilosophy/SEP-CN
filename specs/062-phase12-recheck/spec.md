@@ -82,6 +82,7 @@
 * **补丁**：3 条全部“有效”（命中 1/1），`mismatch 0`、`admission_bad 0`、`index_bad 0`、`public_candidates 0`；无需退役或改写。
 * **基线**：B3.1 重跑 1663／210，与旧基线集合零差（转好 0／转差 0）；B3.2 judge（旧池）pool 1780／gap 48／stale 45（叙述值，无落盘凭证），`--build` 重建池后 pool 1811／gap 62／stale 0；相对旧基线（1851／22／0）新增 gap 40、修复 0——新增族集中在本轮 `en` 变化件，待 053 线下批四出口处置。
 * **收口复核**（`results/phase12-review.md`，独立复算）：实质数字全部成立；订正本卡 `text 66`→65 与分类串；修复 `logic-deontic` 重钉时 3 个旧图摘钉（按 `registered_orphans` 口径恢复登记，`en_integrity --all` 硬发现 4→3，余项均既存）；新登记待处置项——上游新版 `aristotle-psychology/notes.html` 双点错链 `index..html#ref-1`（建议补丁 P-004 或格式例外）、`.svg` 重导出被判 `layout` 的分类盲区、`en_integrity` 未入 `check_all`、`upsert_baseline` 整体替换 `files[]`。
+* **处置**：`text` 65 件出建账清单（10 件正式修订优先），走 `compare.py` → 置空待译；`layout`／`rename-wave`／`binary`／`asset` 不建账；`522` 账变化不构成上游更新。
 
 ## 6. 全库置空复核与账外补建（2026-11-25，用户指令“所有中文条目全部置空只 H1、允许重写进度”）
 
@@ -97,5 +98,12 @@
 4. `check_all` 19 项全绿；`wipe-2026-11-25.json` 报告随批刷新。
 
 **口径说明**：新建账的 673 条任务各带 1 条 `clear` 步骤（过程凭证，ADR-0084 D4 只追加），正文不动。
-* **处置**：`text` 65 件出建账清单（10 件正式修订优先），走 `compare.py` → 置空待译；`layout`／`rename-wave`／`binary`／`asset` 不建账；`522` 账变化不构成上游更新。
+
+## 7. CI 面更新（2026-11-25，用户批准）
+
+用户提问“是否合并 1.1/1.2 的两个 CI”；结论是**不合并**（判据所有权、issue 口径、失败域隔离、耗时与只读面均不同），只做两处补强：
+
+1. `catalog-drift.yml` 增“目录网络五门（G1–G5）”步骤：此前定时面只跑 G1 装配核验，G2–G5 仅在 push 的 `checks.yml`；现每日三班的 1.1 判据完整。目录四方无漂移而五门红（派生链断裂）另报 `sep-sync-broken`。
+2. `en-roundtrip.yml` 增“②′ 补丁池体检（`check_en_patches --strict`）”步骤（约 2 秒，含公共性探针），并把 `en-patches` 登记进 `tools/check_all.py` 的 `GATES`（现 20 项）；巡检自身失败条件并入补丁池红。
+3. 1.2 的全量重抓**不进定时 CI**（4528 资产请求 × 日三次不礼貌、CI 只读不能落钉），保持本地 `bin/phase12.py --fetch`；上游修订的 CI 面由 `detect_updates`（元数据）与基线差集承载。
 

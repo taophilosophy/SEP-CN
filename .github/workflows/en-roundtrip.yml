@@ -57,6 +57,18 @@ jobs:
             echo "code=1" >> "$GITHUB_OUTPUT"
           fi
 
+      - name: ②′ 补丁池体检（命中/准入/INDEX/公共性，ADR-0085）
+        id: patches
+        continue-on-error: true
+        run: |
+          set -o pipefail
+          if python tools/check_en_patches.py --strict > "$RUNNER_TEMP/patches.json" 2>&1; then
+            echo "ok=1" >> "$GITHUB_OUTPUT"
+          else
+            echo "ok=0" >> "$GITHUB_OUTPUT"
+          fi
+          tail -n 1 "$RUNNER_TEMP/patches.json" || true
+
       - name: ③ 逆向装配全库（B3.1 往返不动点，约 12–20 分钟）
         id: assemble
         continue-on-error: true
@@ -101,6 +113,7 @@ jobs:
             ${{ runner.temp }}/drift.md
             ${{ runner.temp }}/divergence.json
             ${{ runner.temp }}/fidelity.txt
+            ${{ runner.temp }}/patches.json
             ${{ runner.temp }}/assembly.log
             ${{ runner.temp }}/assembly-scan.json
             ${{ runner.temp }}/page.log
@@ -121,7 +134,12 @@ jobs:
                  --json number --jq '.[0].number' 2>/dev/null || true)
           {
             echo "运行：[${GITHUB_RUN_ID}](https://github.com/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID})"
-            echo "核验链：en 钉（divergence verify）→ I2 正向重放（fidelity --gate）→ B3.1 逆向装配（reassemble --all）→ B3.2 页面判定（page_assemble --all）"
+            echo "核验链：en 钉（divergence verify）→ I2 正向重放（fidelity --gate）→ 补丁池体检（check_en_patches --strict）→ B3.1 逆向装配（reassemble --all）→ B3.2 页面判定（page_assemble --all）"
+            if [ "${{ steps.patches.outputs.ok }}" = "1" ]; then
+              echo "补丁池体检（ADR-0085）：通过"
+            else
+              echo "补丁池体检（ADR-0085）：红（命中/准入/INDEX/公共性，见工件 patches.json）"
+            fi
             echo
             if [ -f "$RUNNER_TEMP/drift.md" ]; then cat "$RUNNER_TEMP/drift.md"; else echo "（无对比报告）"; fi
             echo
@@ -136,7 +154,7 @@ jobs:
           fi
 
       - name: 巡检自身失败时另开问题
-        if: failure() || steps.assemble.outputs.ok != '1'
+        if: failure() || steps.assemble.outputs.ok != '1' || steps.patches.outputs.ok != '1'
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
