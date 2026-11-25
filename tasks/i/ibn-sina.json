@@ -2,7 +2,7 @@
   "slug": "ibn-sina",
   "kind": "retranslate",
   "zh_doc": "i/ibn-sina.md",
-  "state": "s2.5_checked",
+  "state": "rv-02_checked",
   "steps": [
     {
       "step": "clear",
@@ -81,5 +81,11 @@
     "pubinfo_date": "Oct 31, 2025",
     "archive_edition": "Winter 2025",
     "sha256": "d5ba9bb6d2d2f0565d662570acc322d974ee406695b572dfa87a9327a4d1a475"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.5_checked",
+    "to": "rv-02_checked",
+    "by": "ADR-0080"
   }
 }

@@ -2,7 +2,7 @@
   "slug": "epsilon-calculus",
   "kind": "retranslate",
   "zh_doc": "e/epsilon-calculus.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -95,5 +95,11 @@
     "pubinfo_date": "Jul 18, 2024",
     "archive_edition": "Fall 2024",
     "sha256": "399372adb36606a0088ac6c3b51832989921c256e880af88357ef74a74b5a852"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

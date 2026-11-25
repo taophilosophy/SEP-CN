@@ -2,7 +2,7 @@
   "slug": "bayes-theorem",
   "kind": "retranslate",
   "zh_doc": "b/bayes-theorem.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Sep 30, 2003",
     "archive_edition": "Fall 2021",
     "sha256": "97f4b4e84ee2e7e1ecaa5b53acc0cb11c1c3b848a11bc79a8f49bb8a29724328"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

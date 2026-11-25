@@ -2,7 +2,7 @@
   "slug": "holkot",
   "kind": "retranslate",
   "zh_doc": "h/holkot.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Feb 15, 2017",
     "archive_edition": "Fall 2021",
     "sha256": "432c1ab9b451c25e2b426299aba5dd5a46d5de7defdb3798a3cbfa075453a04d"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

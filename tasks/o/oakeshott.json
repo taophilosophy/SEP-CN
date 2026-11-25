@@ -2,7 +2,7 @@
   "slug": "oakeshott",
   "kind": "retranslate",
   "zh_doc": "o/oakeshott.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Feb 1, 2024",
     "archive_edition": "Spring 2024",
     "sha256": "65696e41506d41b56cc56e8229d4e170c006489b6bf8ca85637461a10205cddf"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:41Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

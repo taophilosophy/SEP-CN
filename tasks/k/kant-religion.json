@@ -2,7 +2,7 @@
   "slug": "kant-religion",
   "kind": "retranslate",
   "zh_doc": "k/kant-religion.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -60,5 +60,11 @@
     "pubinfo_date": "Oct 13, 2025",
     "archive_edition": "Winter 2025",
     "sha256": "e7d6a7471697368641b9a0c8e0c3fb815e5977cb803c7a31f80f23843e080db7"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

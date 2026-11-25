@@ -2,7 +2,7 @@
   "slug": "bradley",
   "kind": "retranslate",
   "zh_doc": "b/bradley.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -67,5 +67,11 @@
     "pubinfo_date": "Feb 23, 2021",
     "archive_edition": "Spring 2024",
     "sha256": "6aef9ec200d3be9c1f8f957bbb2ec7c4d0a2e4519714a91d395a67fd72c2f657"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

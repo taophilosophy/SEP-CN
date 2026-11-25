@@ -1,0 +1,80 @@
+{
+ "schema": "sep-naming/v1",
+ "status": "accepted",
+ "date": "2026-11-25",
+ "revision": "2026-11-25 首版：三层分离（identifier／name／state），22 节点分配 ex／tr／rv／sg 号段（ADR-0080）",
+ "note": "本文件是节点标识的唯一事实源：identifier 永不变、永不复用；name 可演进（带 name_version）；state 由 identifier 派生。判据、顺序、对象域仍以 rules/pipeline.json 为准，本文件不复制。历史 journal 与 tasks.steps 不改写，经 aliases 解析。",
+ "authority": [
+  "ISO/IEC 11179-5:2015 命名与标识原则（标识与名称分离、唯一、稳定、不复用）",
+  "GB/T 18391.5-2009（等同采用 11179-5:2005）",
+  "ISO 15489-1:2016 记录不可篡改",
+  "ISO/IEC/IEEE 12207:2017 配置标识唯一且稳定"
+ ],
+ "layers": {
+  "identifier": "段缩写＋两位序号；永不变、永不复用；已退役号不回收",
+  "name": "段.阶段，全小写 kebab；可演进，改名须升 name_version 并保留旧名至 aliases",
+  "label": "中文展示名，可翻译、可润色，不承载标识",
+  "state": "identifier＋_checked；状态是 journal 的派生视图（ADR-0068），不承载名称语义"
+ },
+ "patterns": {
+  "identifier": "^(ex|tr|rv|sg)-(0[1-9]|1[0-9])$",
+  "name": "^(extract|translate|review|signoff)\\.[a-z][a-z0-9-]*$",
+  "state": "^(ex|tr|rv|sg)-(0[1-9]|1[0-9])_checked$"
+ },
+ "segments": [
+  {"abbr": "ex", "name": "extract", "seg": "seg1", "zh": "英语文本提取", "reserved": "ex-06 至 ex-09"},
+  {"abbr": "tr", "name": "translate", "seg": "seg2", "zh": "中文翻译", "reserved": "tr-06 至 tr-09"},
+  {"abbr": "rv", "name": "review", "seg": "seg3", "zh": "审阅校对", "reserved": "rv-10 至 rv-19"},
+  {"abbr": "sg", "name": "signoff", "seg": "seg3", "zh": "终审签字", "reserved": "sg-04 至 sg-09"}
+ ],
+ "nodes": [
+  {"identifier": "ex-01", "name": "extract.fetch", "name_version": "1.0", "label": "抓取与版本钉", "state": null, "aliases": ["P1"]},
+  {"identifier": "ex-02", "name": "extract.convert", "name_version": "1.0", "label": "HTML 转 Markdown", "state": null, "aliases": ["P2"]},
+  {"identifier": "ex-03", "name": "extract.fidelity", "name_version": "1.0", "label": "转换保真校验", "state": null, "aliases": ["P3"]},
+  {"identifier": "ex-04", "name": "extract.source-audit", "name_version": "1.0", "label": "源完整性审计", "state": "ex-04_checked", "aliases": ["s0"]},
+  {"identifier": "ex-05", "name": "extract.format", "name_version": "1.0", "label": "镜像格式闭合", "state": null, "aliases": ["F1"]},
+  {"identifier": "tr-01", "name": "translate.preprocess", "name_version": "1.0", "label": "译前预处理", "state": null, "aliases": ["P4"]},
+  {"identifier": "tr-02", "name": "translate.draft", "name_version": "1.0", "label": "初译", "state": "tr-02_checked", "aliases": ["draft"]},
+  {"identifier": "tr-03", "name": "translate.accuracy", "name_version": "1.0", "label": "准确性校（一校）", "state": "tr-03_checked", "aliases": ["s1"]},
+  {"identifier": "tr-04", "name": "translate.fluency", "name_version": "1.0", "label": "行文通顺校（二校）", "state": "tr-04_checked", "aliases": ["s2"]},
+  {"identifier": "tr-05", "name": "translate.format", "name_version": "1.0", "label": "中文段内格式闭合", "state": null, "aliases": ["F2"]},
+  {"identifier": "rv-01", "name": "review.terminology", "name_version": "1.0", "label": "术语与勘误锁定", "state": "rv-01_checked", "aliases": ["s2.4", "s24"]},
+  {"identifier": "rv-02", "name": "review.consistency", "name_version": "1.0", "label": "全局一致性", "state": "rv-02_checked", "aliases": ["global", "s25", "audit"]},
+  {"identifier": "rv-03", "name": "review.cite", "name_version": "1.0", "label": "引文锁定", "state": "rv-03_checked", "aliases": ["q1"]},
+  {"identifier": "rv-04", "name": "review.logic", "name_version": "1.0", "label": "逻辑一致性", "state": "rv-04_checked", "aliases": ["q2"]},
+  {"identifier": "rv-05", "name": "review.grammar", "name_version": "1.0", "label": "语法与病句校", "state": "rv-05_checked", "aliases": ["q3"]},
+  {"identifier": "rv-06", "name": "review.register", "name_version": "1.0", "label": "语域", "state": "rv-06_checked", "aliases": ["q4"]},
+  {"identifier": "rv-07", "name": "review.measure", "name_version": "1.0", "label": "计量", "state": "rv-07_checked", "aliases": ["q5"]},
+  {"identifier": "rv-08", "name": "review.punctuation", "name_version": "1.0", "label": "标点", "state": "rv-08_checked", "aliases": ["q6"]},
+  {"identifier": "rv-09", "name": "review.style", "name_version": "1.0", "label": "体例终校", "state": "rv-09_checked", "aliases": ["S3", "s3"]},
+  {"identifier": "sg-01", "name": "signoff.verity", "name_version": "1.0", "label": "受众适切性", "state": "sg-01_checked", "aliases": ["R1", "r1"]},
+  {"identifier": "sg-02", "name": "signoff.coherence", "name_version": "1.0", "label": "连贯性", "state": "sg-02_checked", "aliases": ["R2", "r2"]},
+  {"identifier": "sg-03", "name": "signoff.acceptance", "name_version": "1.0", "label": "交付验收", "state": "sg-03_checked", "aliases": ["R3", "r3"]}
+ ],
+ "state_aliases": {
+  "drafted": "tr-02_checked",
+  "s0_source_checked": "ex-04_checked",
+  "s1_checked": "tr-03_checked",
+  "s2_checked": "tr-04_checked",
+  "s2.4_termchecked": "rv-01_checked",
+  "s2.5_checked": "rv-02_checked",
+  "q1_cite_checked": "rv-03_checked",
+  "q2_logic_checked": "rv-04_checked",
+  "q3_grammar_checked": "rv-05_checked",
+  "q4_register_checked": "rv-06_checked",
+  "q5_measure_checked": "rv-07_checked",
+  "q6_punct_checked": "rv-08_checked",
+  "s3_checked": "rv-09_checked",
+  "r1_reviewed": "sg-01_checked",
+  "r2_reviewed": "sg-02_checked",
+  "r3_reviewed": "sg-03_checked"
+ },
+ "non_node_states": ["pending", "cleared", "done"],
+ "revert_checkpoints": ["rv-01", "rv-02"],
+ "migration": {
+  "journal": "不改写；读取时经 aliases 归一（记录不可篡改，P5）",
+  "steps": "历史 step 名不改写；读取时经 aliases 归一；新写入一律 identifier",
+  "tasks_state": "按 state_aliases 迁移；校验＝映射双档（迁移前后逐条对照）＋journal 重放诊断（不一致项归因，不作硬门）",
+  "cli": "旧短名（s0／s24／s25／audit／s3／r1…r3）保留为输入别名，内部统一转 identifier"
+ }
+}

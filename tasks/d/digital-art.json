@@ -2,7 +2,7 @@
   "slug": "digital-art",
   "kind": "retranslate",
   "zh_doc": "d/digital-art.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Dec 15, 2023",
     "archive_edition": "Summer 2024",
     "sha256": "25414cbbd1cbf9617ad046fdba1be17cd01e9f93edc183f41c1218f9d3edfc01"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

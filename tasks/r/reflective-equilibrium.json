@@ -2,7 +2,7 @@
   "slug": "reflective-equilibrium",
   "kind": "retranslate",
   "zh_doc": "r/reflective-equilibrium.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Nov 27, 2023",
     "archive_edition": "Spring 2025",
     "sha256": "4fc10f666dfa41549bf7094a4f7a8d87a64bba2cdf3f27b71bf6cd5d6acc24b1"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:41Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

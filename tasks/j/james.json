@@ -2,7 +2,7 @@
   "slug": "james",
   "kind": "retranslate",
   "zh_doc": "j/james.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Nov 3, 2021",
     "archive_edition": "Summer 2024",
     "sha256": "7c2ff8fdc94bf2a87e6da59e99f1cabe13917bd5251c33e02c45cf98c469bd67"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

@@ -2,7 +2,7 @@
   "slug": "immutability",
   "kind": "retranslate",
   "zh_doc": "i/immutability.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Mar 28, 2024",
     "archive_edition": "Summer 2024",
     "sha256": "40982650afba2d16bbcd47886ba4f2bfe7bdf2e70f9a148cc268502ff15d451d"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

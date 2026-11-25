@@ -2,7 +2,7 @@
   "slug": "descartes-ontological",
   "kind": "retranslate",
   "zh_doc": "d/descartes-ontological.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "May 5, 2025",
     "archive_edition": "Summer 2025",
     "sha256": "ad7dad872f33c5e8195b9ad0dd1e4ffcf3d2ec0d835ef09e0b2f9eb48c44645d"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

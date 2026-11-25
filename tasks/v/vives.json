@@ -2,7 +2,7 @@
   "slug": "vives",
   "kind": "retranslate",
   "zh_doc": "v/vives.md",
-  "state": "r2_reviewed",
+  "state": "sg-02_checked",
   "steps": [
     {
       "step": "clear",
@@ -81,5 +81,11 @@
     "pubinfo_date": "Apr 5, 2025",
     "archive_edition": "Summer 2025",
     "sha256": "653e41493a85903540c629435d27b60a3fadd47b4e95f68ca98a2cae03b2a19c"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:41Z",
+    "from": "r2_reviewed",
+    "to": "sg-02_checked",
+    "by": "ADR-0080"
   }
 }

@@ -2,7 +2,7 @@
   "slug": "alberic-paris",
   "kind": "retranslate",
   "zh_doc": "a/alberic-paris.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Oct 28, 2025",
     "archive_edition": "Summer 2026",
     "sha256": "3653abcb57ecfb22b158e096d93ed3ab4b2f9d00ba45a9e7e6b3e9dda208c635"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:39Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

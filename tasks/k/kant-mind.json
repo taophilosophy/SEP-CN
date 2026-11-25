@@ -2,7 +2,7 @@
   "slug": "kant-mind",
   "kind": "retranslate",
   "zh_doc": "k/kant-mind.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -95,5 +95,11 @@
     "pubinfo_date": "Oct 8, 2020",
     "archive_edition": "Spring 2023",
     "sha256": "95b84280be355ff4849a954ca1701cb811564cd87d12ac7148d9113f558041b1"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

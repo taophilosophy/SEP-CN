@@ -2,7 +2,7 @@
   "slug": "israeli",
   "kind": "retranslate",
   "zh_doc": "i/israeli.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -158,5 +158,11 @@
     "pubinfo_date": "Aug 31, 2026",
     "archive_edition": "Fall 2026",
     "sha256": "5d5270fb0f76466c307f9b87d4229e534804cf09a0130b77376c8947a774a683"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

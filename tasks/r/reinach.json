@@ -2,7 +2,7 @@
   "slug": "reinach",
   "kind": "retranslate",
   "zh_doc": "r/reinach.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Apr 5, 2024",
     "archive_edition": "Summer 2024",
     "sha256": "414dbdee731cf7533b4a8a822c9ffe966f59d34dbb8fd622400ceb3636cdf7d5"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:41Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

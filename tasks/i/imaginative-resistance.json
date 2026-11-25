@@ -2,7 +2,7 @@
   "slug": "imaginative-resistance",
   "kind": "retranslate",
   "zh_doc": "i/imaginative-resistance.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Sep 1, 2024",
     "archive_edition": "Fall 2024",
     "sha256": "782d962c35ed0d4c5cf79b6080c980ea690c18fe5d8b5acfa5be187c90f30518"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

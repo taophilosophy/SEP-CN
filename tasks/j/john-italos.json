@@ -2,7 +2,7 @@
   "slug": "john-italos",
   "kind": "retranslate",
   "zh_doc": "j/john-italos.md",
-  "state": "r2_reviewed",
+  "state": "sg-02_checked",
   "steps": [
     {
       "step": "clear",
@@ -154,5 +154,11 @@
   },
   "evidence": [
     "方向声明：全量重译 SEP 词条 John Italos（拜占庭哲学家，作者 T. Kermit Scott 与 Tommaso De Robertis？以 en/ pubinfo 为准；yuanwen 镜像 j/john-italos.md 已就绪，基线与镜像=总）。目标：按 fan-yi-mu-ban.md 元素映射产出全文初译并推进状态机至 r2_reviewed；六道全过、check_academic --strict 0 硬错误、CI 全绿。非目标：不改 en/ 原始物（ADR-0062 冻结）、不补内容、不造引文；术语先登记后使用（shu-yu-biao／ren-ming-biao）；r3 需用户指定会话，不在本任务范围。"
-  ]
+  ],
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "r2_reviewed",
+    "to": "sg-02_checked",
+    "by": "ADR-0080"
+  }
 }

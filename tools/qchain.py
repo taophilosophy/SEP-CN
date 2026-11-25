@@ -21,9 +21,9 @@ sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from tools import axis_lib as ax  # noqa: E402
 
 TOOLS = os.path.join(ax.ROOT, "tools")
-ORDER = [("q1", "cite_audit.py"), ("q2", "logic_audit.py"), ("q3", "grammar_audit.py"),
-         ("q4", "register_audit.py"), ("q5", "measure_audit.py"),
-         ("q6", "punct_audit.py")]
+ORDER = [("rv-03", "cite_audit.py"), ("rv-04", "logic_audit.py"),
+         ("rv-05", "grammar_audit.py"), ("rv-06", "register_audit.py"),
+         ("rv-07", "measure_audit.py"), ("rv-08", "punct_audit.py")]
 
 
 def run(script, paths, gate=False):
@@ -42,11 +42,11 @@ def run(script, paths, gate=False):
 
 def summarize(name, data):
     files = data.get("files", [])
-    if name == "q1":
+    if name == "rv-03":
         n = sum(f.get("quote_level", 0) for f in files)
-    elif name in ("q2",):
+    elif name in ("rv-04",):
         n = sum(f.get("sentences", 0) for f in files)
-    elif name in ("q3", "q4", "q5", "q6"):
+    elif name in ("rv-05", "rv-06", "rv-07", "rv-08"):
         n = sum(f.get("issues", 0) for f in files)
     else:
         n = len(files)

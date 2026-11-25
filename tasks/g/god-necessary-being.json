@@ -2,7 +2,7 @@
   "slug": "god-necessary-being",
   "kind": "retranslate",
   "zh_doc": "g/god-necessary-being.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Aug 6, 2019",
     "archive_edition": "Fall 2024",
     "sha256": "df0a192141fc9cd9acc6400c87ddab7c627582e985b34e5d774408a8ebf52d90"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

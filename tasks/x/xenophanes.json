@@ -2,7 +2,7 @@
   "slug": "xenophanes",
   "kind": "retranslate",
   "zh_doc": "x/xenophanes.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -116,5 +116,11 @@
     "pubinfo_date": "May 19, 2023",
     "archive_edition": "Summer 2023",
     "sha256": "52eb46c10200b6310729e25d54a2a27b237f54e8a9548eaa53e3075edb902402"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:41Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

@@ -2,7 +2,7 @@
   "slug": "newton-stm",
   "kind": "retranslate",
   "zh_doc": "n/newton-stm.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -60,5 +60,11 @@
     "pubinfo_date": "Aug 22, 2011",
     "archive_edition": "Spring 2022",
     "sha256": "70e1224f763937d04406df720dc1e3cfc8c02a307ac3b4f2a1e2376e8950d55c"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:41Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

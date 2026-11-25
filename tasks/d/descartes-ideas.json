@@ -2,7 +2,7 @@
   "slug": "descartes-ideas",
   "kind": "retranslate",
   "zh_doc": "d/descartes-ideas.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Sep 18, 2025",
     "archive_edition": "Fall 2025",
     "sha256": "1258be679c98f59c13bda01e81a623745fba42d128627260c0c2c23393f9317b"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

@@ -2,7 +2,7 @@
   "slug": "adorno",
   "kind": "retranslate",
   "zh_doc": "a/adorno.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Nov 4, 2024",
     "archive_edition": "Winter 2024",
     "sha256": "dd24b349d7cbb79d21cff81fe468ca0ca600e7fe9a6c989d6d6fdb3cb5708408"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:39Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

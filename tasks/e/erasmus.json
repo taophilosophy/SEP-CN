@@ -2,7 +2,7 @@
   "slug": "erasmus",
   "kind": "retranslate",
   "zh_doc": "e/erasmus.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Sep 19, 2025",
     "archive_edition": "Fall 2025",
     "sha256": "0544c32a33cbd159c91238b8a191b0e0a2676745964403a63c918ce62bcb3aae"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

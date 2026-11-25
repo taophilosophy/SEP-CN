@@ -2,7 +2,7 @@
   "slug": "heytesbury",
   "kind": "retranslate",
   "zh_doc": "h/heytesbury.md",
-  "state": "drafted",
+  "state": "tr-02_checked",
   "steps": [
     {
       "step": "clear",
@@ -32,5 +32,11 @@
     "pubinfo_date": "Jun 19, 2026",
     "archive_edition": "Summer 2026",
     "sha256": "10e4920182c189c82738031a6df7f10a34359ac9991e70d69fe972d899c274c8"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "drafted",
+    "to": "tr-02_checked",
+    "by": "ADR-0080"
   }
 }

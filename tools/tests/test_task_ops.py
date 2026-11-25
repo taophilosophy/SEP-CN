@@ -65,10 +65,10 @@ class TestTaskOps(unittest.TestCase):
         task_ops.create("test-b", "retranslate", zh_doc=self._md("b.md"))
         task_ops.clear("test-b")
         t = task_ops.advance("test-b", "s0", actor="t", evidence="源审计记录")
-        self.assertEqual(t["state"], "s0_source_checked")
+        self.assertEqual(t["state"], "ex-04_checked")
         task_ops.advance("test-b", "draft", actor="t", evidence="e")
         t = task_ops.advance("test-b", "s1", actor="t", evidence="对照记录")
-        self.assertEqual(t["state"], "s1_checked")
+        self.assertEqual(t["state"], "tr-03_checked")
 
     def test_draft_requires_s0(self):
         # 源审计前置（ADR-0052）：cleared → draft 跳过 s0 即拒
@@ -77,7 +77,7 @@ class TestTaskOps(unittest.TestCase):
         with self.assertRaises(task_ops.PreconditionError):
             task_ops.advance("test-s0a", "draft", actor="t", evidence="e")
         t = task_ops.advance("test-s0a", "s0", actor="t", evidence="源审计记录")
-        self.assertEqual(t["state"], "s0_source_checked")
+        self.assertEqual(t["state"], "ex-04_checked")
 
     def test_s3_requires_s0_history(self):
         # 进三校前必须有 s0 记录（ADR-0052 决策 5）：在途件补课后才放行。
@@ -85,18 +85,18 @@ class TestTaskOps(unittest.TestCase):
         # 新状态机下已无法经 advance 走出这种流程。
         task_ops.create("test-s0b", "retranslate", zh_doc=self._md("s0b.md"))
         t = task_ops.load_task("test-s0b")
-        t["state"] = "s2.5_checked"
+        t["state"] = "rv-02_checked"
         t["steps"] = [{"step": st, "status": "ok", "actor": "t", "at": "2026-11-01T00:00:00Z",
                        "evidence": "e"} for st in ("clear", "draft", "s1", "s2", "s24", "s25")]
         task_ops.save_task(t)
         with self.assertRaises(task_ops.PreconditionError):
             task_ops.advance("test-s0b", "s3", actor="t", evidence="e")
         t = task_ops.source_audit("test-s0b", actor="t", evidence="specs/036 补课凭证")
-        self.assertEqual(t["state"], "s2.5_checked")  # 补课不迁移状态
-        self.assertEqual(sum(1 for s in t["steps"] if s["step"] == "s0"), 1)
+        self.assertEqual(t["state"], "rv-02_checked")  # 补课不迁移状态
+        self.assertEqual(sum(1 for s in t["steps"] if s["step"] in ("s0", "ex-04")), 1)
         self._qchain("test-s0b")
         t = task_ops.advance("test-s0b", "s3", actor="t", evidence="e")
-        self.assertEqual(t["state"], "s3_checked")
+        self.assertEqual(t["state"], "rv-09_checked")
 
     def test_source_audit_makeup_rules(self):
         # 补课子命令边界：pending/cleared 走正常 advance；重复补课拒
@@ -162,11 +162,12 @@ class TestTaskOps(unittest.TestCase):
         events = journal_lib.read_events("test-jw")
         pass_nodes = [e["node"] for e in events if e["type"] == "pass"]
         self.assertEqual(pass_nodes,
-                         ["s0", "draft", "s1", "s2", "s2.4", "global",
-                          "q1", "q2", "q3", "q4", "q5", "q6", "S3", "R1", "R2"])
+                         ["ex-04", "tr-02", "tr-03", "tr-04", "rv-01", "rv-02",
+                          "rv-03", "rv-04", "rv-05", "rv-06", "rv-07", "rv-08",
+                          "rv-09", "sg-01", "sg-02"])
         # state 与最后 pass 节点一致（r2 → R2 → r2_reviewed）
         t = task_ops.load_task("test-jw")
-        self.assertEqual(t["state"], "r2_reviewed")
+        self.assertEqual(t["state"], "sg-02_checked")
 
     def test_clear_gate_rejected_without_baseline(self):
         # 还原真 gate：仓库基线无此词条 → 必须拒绝（宪法附加约束）
@@ -209,10 +210,10 @@ class TestTaskOps(unittest.TestCase):
             task_ops.advance("test-m", step, actor="t", evidence="e")
         with self.assertRaises(task_ops.PreconditionError):
             task_ops.advance("test-m", "r3", actor="t", evidence="自作主张终审")
-        self.assertEqual(task_ops.load_task("test-m")["state"], "r2_reviewed")
+        self.assertEqual(task_ops.load_task("test-m")["state"], "sg-02_checked")
         t = task_ops.advance("test-m", "r3", actor="t", evidence="冷置重读",
                              mandate="用户 2026-11-15 指定本会话终审（ADR-0054）")
-        self.assertEqual(t["state"], "r3_reviewed")
+        self.assertEqual(t["state"], "sg-03_checked")
         self.assertEqual(t["steps"][-1].get("mandate"),
                          "用户 2026-11-15 指定本会话终审（ADR-0054）")
 
@@ -232,7 +233,7 @@ class TestTaskOps(unittest.TestCase):
                              mandate="用户 2026-11-15 指定本会话终审（ADR-0054）")
         t = task_ops.advance("test-i1", "r3", actor="t", evidence="冷置：先做其他任务后回读",
                              mandate="用户 2026-11-15 指定本会话终审（ADR-0054）")
-        self.assertEqual(t["state"], "r3_reviewed")
+        self.assertEqual(t["state"], "sg-03_checked")
 
     def test_r3_independence_cross_actor_passes(self):
         # 评审线交叉（specs/005 §6）：r3 由初译以外 actor 执行即满足，无需冷置记明
@@ -247,7 +248,7 @@ class TestTaskOps(unittest.TestCase):
             task_ops.advance("test-i2", step, actor="w", evidence="e")
         t = task_ops.advance("test-i2", "r3", actor="rev", evidence="e",
                              mandate="用户 2026-11-15 指定本会话终审（ADR-0054）")
-        self.assertEqual(t["state"], "r3_reviewed")
+        self.assertEqual(t["state"], "sg-03_checked")
 
 
     def test_advance_requires_actor_and_evidence(self):
@@ -269,7 +270,7 @@ class TestTaskOps(unittest.TestCase):
         task_ops.clear("test-d")
         task_ops.advance("test-d", "s0", actor="t", evidence="e")
         t2 = task_ops.advance("test-d", "draft", actor="t", evidence="e")
-        self.assertEqual(t2["state"], "drafted")
+        self.assertEqual(t2["state"], "tr-02_checked")
 
 
     def test_audit_step_required_before_s3(self):
@@ -283,10 +284,10 @@ class TestTaskOps(unittest.TestCase):
             task_ops.advance("test-a1", "s3", actor="t", evidence="跳过审计")
         t = task_ops.advance("test-a1", "audit", actor="t",
                              evidence="三向比对记录；单会话冷置回读＋密度统计")
-        self.assertEqual(t["state"], "s2.5_checked")
+        self.assertEqual(t["state"], "rv-02_checked")
         self._qchain("test-a1")
         t = task_ops.advance("test-a1", "s3", actor="t", evidence="e")
-        self.assertEqual(t["state"], "s3_checked")
+        self.assertEqual(t["state"], "rv-09_checked")
 
     def test_audit_gate_blocks_bare_dollar(self):
         # audited 挂钩：check_math_zh 默认档硬错误（裸 $）拦下审计（ADR-0040）
@@ -311,7 +312,7 @@ class TestTaskOps(unittest.TestCase):
         task_ops.advance("test-g2", "s24", actor="t", evidence="e")
         t = task_ops.advance("test-g2", "audit", actor="t",
                              evidence="三向比对记录；冷置回读＋密度统计")
-        self.assertEqual(t["state"], "s2.5_checked")
+        self.assertEqual(t["state"], "rv-02_checked")
 
 
     def test_audit_independence_same_actor_requires_compensation(self):
@@ -325,7 +326,7 @@ class TestTaskOps(unittest.TestCase):
         with self.assertRaises(task_ops.PreconditionError):
             task_ops.advance("test-n1", "audit", actor="t", evidence="三向比对记录")
         t = task_ops.advance("test-n1", "audit", actor="rev", evidence="三向比对记录")
-        self.assertEqual(t["state"], "s2.5_checked")
+        self.assertEqual(t["state"], "rv-02_checked")
 
     def test_reopen_upstream_sync_from_s25(self):
         # R3（ADR-0051）：在途 s2.5_checked 遇上游实质修订——无 flag 拒绝（禁跳步），
@@ -337,7 +338,7 @@ class TestTaskOps(unittest.TestCase):
             task_ops.advance("test-u2", step, actor="t", evidence="e")
         task_ops.advance("test-u2", "s24", actor="t", evidence="e")
         t = task_ops.advance("test-u2", "audit", actor="rev", evidence="e")
-        self.assertEqual(t["state"], "s2.5_checked")
+        self.assertEqual(t["state"], "rv-02_checked")
         with self.assertRaises(task_ops.PreconditionError):
             task_ops.reopen("test-u2", "上游修订", actor="t")
         t = task_ops.reopen("test-u2", "上游实质修订，compare/u.json 在案", actor="t",
@@ -429,7 +430,7 @@ class TestS25ThreeAxes(unittest.TestCase):
         self._walk_s24("t-s25a")
         self.calls.clear()
         t = task_ops.advance("t-s25a", "s25", actor="t", evidence="两轴比对记录")
-        self.assertEqual(t["state"], "s2.5_checked")
+        self.assertEqual(t["state"], "rv-02_checked")
         self.assertEqual(sorted(self.calls), ["audit", "style", "term"])
 
     def test_revert_then_s25_refires_three_axes(self):
@@ -437,10 +438,10 @@ class TestS25ThreeAxes(unittest.TestCase):
         task_ops.advance("t-s25b", "s25", actor="t", evidence="e")
         t = task_ops.revert_state("t-s25b", "s2.4_termchecked",
                                   "体例归一全量回退（specs/039 P8）", actor="t")
-        self.assertEqual(t["state"], "s2.4_termchecked")
+        self.assertEqual(t["state"], "rv-01_checked")
         self.calls.clear()
         t = task_ops.advance("t-s25b", "s25", actor="t", evidence="体例轴增项并入 s25")
-        self.assertEqual(t["state"], "s2.5_checked")
+        self.assertEqual(t["state"], "rv-02_checked")
         self.assertEqual(sorted(self.calls), ["audit", "style", "term"])
 
     def test_style_gate_failure_blocks_s25(self):
@@ -451,7 +452,7 @@ class TestS25ThreeAxes(unittest.TestCase):
         task_ops._style_gate = boom
         with self.assertRaises(task_ops.PreconditionError):
             task_ops.advance("t-s25c", "s25", actor="t", evidence="e")
-        self.assertEqual(task_ops.load_task("t-s25c")["state"], "s2.4_termchecked")
+        self.assertEqual(task_ops.load_task("t-s25c")["state"], "rv-01_checked")
 
 
 if __name__ == "__main__":

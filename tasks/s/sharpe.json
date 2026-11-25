@@ -2,7 +2,7 @@
   "slug": "sharpe",
   "kind": "retranslate",
   "zh_doc": "s/sharpe.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Dec 1, 2021",
     "archive_edition": "Spring 2024",
     "sha256": "2bd8588d2b19538cf2b09e56d1bcfa98da4f047631df7fd187557b170daff285"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:41Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

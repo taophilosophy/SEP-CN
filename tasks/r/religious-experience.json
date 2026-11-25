@@ -2,7 +2,7 @@
   "slug": "religious-experience",
   "kind": "retranslate",
   "zh_doc": "r/religious-experience.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "direction",
@@ -95,5 +95,11 @@
     "pubinfo_date": "Aug 26, 2022",
     "archive_edition": "Fall 2022",
     "sha256": "0ce3558fed85e12391f21991c87fa4ae6676de9575ec892ec5e4465f795692f3"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:41Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

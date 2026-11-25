@@ -2,7 +2,7 @@
   "slug": "evil-kinds-origins",
   "kind": "retranslate",
   "zh_doc": "e/evil-kinds-origins.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Dec 10, 2021",
     "archive_edition": "Winter 2021",
     "sha256": "c5d0a2a5c7a609f1dd99168d498020578d81583facc2de8419fc57bc6e0835d9"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

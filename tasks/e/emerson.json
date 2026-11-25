@@ -2,7 +2,7 @@
   "slug": "emerson",
   "kind": "retranslate",
   "zh_doc": "e/emerson.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Oct 21, 2022",
     "archive_edition": "Winter 2022",
     "sha256": "1f50f123c975c90768b811cf9f26c85dad34a6799cc46c8c4c6466d37fbe2d68"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

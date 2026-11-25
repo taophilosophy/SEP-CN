@@ -2,7 +2,7 @@
   "slug": "innateness-history",
   "kind": "retranslate",
   "zh_doc": "i/innateness-history.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Mar 27, 2019",
     "archive_edition": "Summer 2024",
     "sha256": "aeb6f6ce0334178c9f43bd486e9cdc9e990210a731545c5b7f2f07d79f9bae78"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

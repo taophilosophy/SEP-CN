@@ -2,7 +2,7 @@
   "slug": "modality-varieties",
   "kind": "retranslate",
   "zh_doc": "m/modality-varieties.md",
-  "state": "s0_source_checked",
+  "state": "ex-04_checked",
   "steps": [
     {
       "step": "clear",
@@ -25,5 +25,11 @@
     "pubinfo_date": "Nov 20, 2026",
     "archive_edition": null,
     "sha256": "557ef0da98937a116853da9b90c9e9a2fefb930147fea5982a975bf6db229b21"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s0_source_checked",
+    "to": "ex-04_checked",
+    "by": "ADR-0080"
   }
 }

@@ -2,7 +2,7 @@
   "slug": "lady-masham",
   "kind": "retranslate",
   "zh_doc": "l/lady-masham.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Nov 25, 2020",
     "archive_edition": "Winter 2020",
     "sha256": "845ed4c205795f14c78fc6d9f7f5ec580585e38a6dbb436813b56135eaa058a5"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

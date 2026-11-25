@@ -47,7 +47,11 @@ def _iter_journal():
 
 
 def stage_done(path):
-    """折叠一个 journal 文件的 pass 集合（沿主 attempt 累积，pass 只增不减）。"""
+    """折叠一个 journal 文件的 pass 集合（沿主 attempt 累积，pass 只增不减）。
+
+    节点名经 naming.json 归一到 identifier（ADR-0080）。
+    """
+    from tools import naming_lib
     done = set()
     try:
         with open(path, encoding="utf-8") as f:
@@ -56,8 +60,8 @@ def stage_done(path):
                 if not line:
                     continue
                 ev = json.loads(line)
-                if ev.get("type") == "pass":
-                    done.add(ev.get("node"))
+                if ev.get("type") == "pass" and ev.get("node"):
+                    done.add(naming_lib.try_identifier(ev["node"]) or ev["node"])
     except (json.JSONDecodeError, OSError):
         pass
     return done
@@ -78,9 +82,9 @@ def main():
 
     nodes = {n["id"] for n in pipe.get("nodes", [])}
     mand = set(pipe.get("mandatory_minimum", {}).get("nodes", []))
-    # 迁移可达节点：task_ops 状态机覆盖的 10 个；管线/预处理节点（P1-P3/F1/P4/F2）
-    # 无迁移事件，须由 journal_ops 未来补齐（ADR-0068 已知局限）
-    core = {"draft", "s1", "s2", "S3", "R1", "R2", "R3"}
+    # 迁移可达节点：task_ops 状态机覆盖的 15 个；管线/预处理节点（ex-01–03、ex-05、
+    # tr-01、tr-05）无迁移事件，须由 journal_ops 未来补齐（ADR-0068 已知局限）
+    core = {"tr-02", "tr-03", "tr-04", "rv-09", "sg-01", "sg-02", "sg-03"}
     full = nodes | mand
 
     core_done, mand_ok, saturate = [], [], []

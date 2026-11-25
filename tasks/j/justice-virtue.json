@@ -2,7 +2,7 @@
   "slug": "justice-virtue",
   "kind": "retranslate",
   "zh_doc": "j/justice-virtue.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Aug 8, 2025",
     "archive_edition": "Fall 2025",
     "sha256": "9df41730bc123b4e735faf78861660c7ac93c12732e747961fbea561b22f000d"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

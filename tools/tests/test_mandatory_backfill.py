@@ -25,7 +25,7 @@ class LedgerNameTest(unittest.TestCase):
 
 class ProcessTest(unittest.TestCase):
 
-    TASK = {"slug": "x-entry", "state": "s2.4_termchecked", "zh_doc": "x/x-entry.md"}
+    TASK = {"slug": "x-entry", "state": "rv-01_checked", "zh_doc": "x/x-entry.md"}
 
     def _run(self, events, eval_result, apply=True):
         written = []
@@ -37,20 +37,20 @@ class ProcessTest(unittest.TestCase):
         return rec, written
 
     def test_existing_pass_is_not_rewritten(self):
-        rec, written = self._run([{"type": "pass", "node": "s0"}],
+        rec, written = self._run([{"type": "pass", "node": "s0"}],  # 历史旧名须经别名归一（ADR-0080）
                                  lambda s, z, n: (True, ["x"], ""))
-        self.assertEqual(rec["nodes"]["s0"]["status"], "already-pass")
-        self.assertEqual([e["node"] for e in written], ["s2.4", "global"])
+        self.assertEqual(rec["nodes"]["ex-04"]["status"], "already-pass")
+        self.assertEqual([e["node"] for e in written], ["rv-01", "rv-02"])
 
     def test_fail_stops_downstream_and_records_reason(self):
         rec, written = self._run(
-            [], lambda s, z, n: (n != "s2.4", ["g:%s" % n], "boom" if n == "s2.4" else ""))
-        self.assertEqual(rec["nodes"]["s0"]["status"], "pass")
-        self.assertEqual(rec["nodes"]["s2.4"]["status"], "fail")
-        self.assertEqual(rec["nodes"]["global"]["status"], "skipped-after-fail")
+            [], lambda s, z, n: (n != "rv-01", ["g:%s" % n], "boom" if n == "rv-01" else ""))
+        self.assertEqual(rec["nodes"]["ex-04"]["status"], "pass")
+        self.assertEqual(rec["nodes"]["rv-01"]["status"], "fail")
+        self.assertEqual(rec["nodes"]["rv-02"]["status"], "skipped-after-fail")
         fails = [e for e in written if e["type"] == "fail"]
         self.assertEqual(len(fails), 1)
-        self.assertEqual(fails[0]["node"], "s2.4")
+        self.assertEqual(fails[0]["node"], "rv-01")
         self.assertTrue(fails[0]["reason"])
 
     def test_pass_event_carries_nonempty_gate_and_witness(self):
@@ -66,10 +66,10 @@ class ProcessTest(unittest.TestCase):
     def test_dry_run_writes_nothing(self):
         rec, written = self._run([], lambda s, z, n: (True, ["g:%s" % n], ""), apply=False)
         self.assertEqual(written, [])
-        self.assertEqual(rec["nodes"]["global"]["status"], "pass")
+        self.assertEqual(rec["nodes"]["rv-02"]["status"], "pass")
 
     def test_missing_zh_doc_fails_loudly(self):
-        task = {"slug": "y-entry", "state": "s2.4_termchecked", "zh_doc": ""}
+        task = {"slug": "y-entry", "state": "rv-01_checked", "zh_doc": ""}
         written = []
         with mock.patch.object(mb, "_load_task", return_value=task), \
                 mock.patch.object(mb, "read_events", return_value=[]), \
@@ -77,7 +77,7 @@ class ProcessTest(unittest.TestCase):
                 mock.patch.object(mb, "append_event", side_effect=lambda s, e: written.append(e)):
             rec = mb.process("y-entry", apply=True, gate_version="gv", ledger_name="led.json")
         ev.assert_not_called()
-        self.assertEqual(rec["nodes"]["s0"]["status"], "fail")
+        self.assertEqual(rec["nodes"]["ex-04"]["status"], "fail")
 
 
 if __name__ == "__main__":

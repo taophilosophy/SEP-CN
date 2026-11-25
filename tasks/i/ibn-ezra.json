@@ -2,7 +2,7 @@
   "slug": "ibn-ezra",
   "kind": "retranslate",
   "zh_doc": "i/ibn-ezra.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Oct 22, 2018",
     "archive_edition": "Fall 2021",
     "sha256": "2b614598587b6654796bd9688f0ee83560f1fbeb65ef8405321cd39445c76269"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

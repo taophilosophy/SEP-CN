@@ -2,7 +2,7 @@
   "slug": "qm",
   "kind": "retranslate",
   "zh_doc": "q/qm.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Jan 18, 2025",
     "archive_edition": "Spring 2025",
     "sha256": "a81e37b72b9d4ce0994700ad175131e45c9046d4d51e7f6ca60bf477f15ff1bb"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:41Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

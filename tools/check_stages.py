@@ -1,11 +1,15 @@
 # -*- coding: utf-8 -*-
 """管线判据登记表核对（ADR-0068：rules/pipeline.json 为判据唯一事实源）。
 
-四谓词（全部只读，A11 判官只读）：
+七谓词（全部只读，A11 判官只读）：
   S1 链闭合   prev 链首/链尾唯一、无环、无悬挂、覆盖全部节点
   S2 判据唯一 每个判据至多一个硬拦节点（gate_owner），且与 criteria_owner 双向一致
-  S3 强制集   mandatory_minimum 是节点子集，且含 R1/R2/R3
+  S3 强制集   mandatory_minimum 是节点子集，且含 sg-01/sg-02/sg-03（原 R1–R3）
   S4 类型值域  type ∈ {pipe,stage,review,format}；review 必须属强制集
+  S5 承载体   判据承载体可解析；硬拦判据不由告警级承载
+  S6 对象域   判据对象域登记；节点 object_class 覆盖其判据域
+  S7 命名词表 rules/naming.json 自洽、与 pipeline 一一对应、号段与 seg 一致、
+              历史 journal 节点值与任务状态名均可经别名归一（ADR-0080）
 
 用法: python tools/check_stages.py [--json]
 退出码: 0 全绿；1 有违例；2 输入缺失（A12 禁静默兜底）。
@@ -25,6 +29,8 @@ except (AttributeError, ValueError, OSError):
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 PIPE = os.path.join(ROOT, "rules", "pipeline.json")
 TYPES = {"pipe", "stage", "review", "format"}
+SIGNOFF = frozenset(("sg-01", "sg-02", "sg-03"))
+SEG_PREFIX = {"seg1": ("ex",), "seg2": ("tr",), "seg3": ("rv", "sg")}
 
 
 def load_pipeline(path=PIPE):
@@ -34,8 +40,60 @@ def load_pipeline(path=PIPE):
         return json.loads(f.read().decode("utf-8"))
 
 
-def check(pipe):
-    """纯函数：对 pipeline dict 求值，返回 hits 列表（无 IO，可单测）。"""
+def _journal_node_values():
+    """journal 中出现过的全部 node 值（只读；S7 用于验证别名可解析）。"""
+    vals = set()
+    jdir = os.path.join(ROOT, "journal")
+    for dirpath, _, files in os.walk(jdir):
+        for fn in files:
+            if not fn.endswith(".ndjson"):
+                continue
+            try:
+                with open(os.path.join(dirpath, fn), encoding="utf-8") as fh:
+                    for line in fh:
+                        line = line.strip()
+                        if not line:
+                            continue
+                        try:
+                            ev = json.loads(line)
+                        except ValueError:
+                            continue
+                        if ev.get("node"):
+                            vals.add(ev["node"])
+            except OSError:
+                continue
+    return vals
+
+
+def _task_state_values():
+    """tasks/ 中词条任务（kind=retranslate）出现过的 state 值（S7 用）。
+
+    词汇表维护与每日例行检查等非词条任务有自己的状态词（如 checked），不属管线
+    状态机（ADR-0068 只覆盖 retranslate），故不纳入。
+    """
+    vals = set()
+    tdir = os.path.join(ROOT, "tasks")
+    for dirpath, _, files in os.walk(tdir):
+        for fn in files:
+            if not fn.endswith(".json"):
+                continue
+            try:
+                with open(os.path.join(dirpath, fn), encoding="utf-8") as fh:
+                    t = json.load(fh)
+            except (OSError, ValueError):
+                continue
+            if isinstance(t, dict) and t.get("state") \
+                    and str(t.get("kind") or "") == "retranslate":
+                vals.add(t["state"])
+    return vals
+
+
+def check(pipe, naming_path=None, journal_nodes=None, task_states=None):
+    """纯函数：对 pipeline dict 求值，返回 hits 列表。
+
+    S7 默认读 rules/naming.json 与磁盘 journal/tasks；单测可注入 naming_path／
+    journal_nodes／task_states 以免依赖工作区现状。
+    """
     nodes = pipe.get("nodes", [])
     by = {n["id"]: n for n in nodes}
     ids = set(by)
@@ -58,7 +116,7 @@ def check(pipe):
         path, cur = [], start
         while cur and cur not in path:
             path.append(cur)
-            cur = by[cur].get("prev")
+            cur = by.get(cur, {}).get("prev")
         if cur:
             cyc.append(path)
     rec("S1", "无环", not cyc, "环=%s" % (cyc[:2] if cyc else "无"))
@@ -91,8 +149,8 @@ def check(pipe):
 
     # ---- S3 强制集 ----
     rec("S3", "强制集是节点子集", mand <= ids, "越界=%s" % sorted(mand - ids))
-    rec("S3", "R1/R2/R3 在强制集内", {"R1", "R2", "R3"} <= mand,
-        "差集=%s" % sorted({"R1", "R2", "R3"} - mand))
+    rec("S3", "终审三节点在强制集内", SIGNOFF <= mand,
+        "差集=%s" % sorted(SIGNOFF - mand))
 
     # ---- S4 类型值域 ----
     badtype = [n["id"] for n in nodes if n.get("type") not in TYPES]
@@ -189,6 +247,59 @@ def check(pipe):
         "不符=%s" % (class_bad or "无"))
     rec("S6", "节点对象类未过载（提示，≤3）", True,
         "过载=%s" % (overload or "无"))
+
+    # ---- S7 命名词表（ADR-0080：identifier／name／state 三层分离）----
+    # 动机：旧命名把标识与名称压成一个字符串（s2.4、global、S3），于是“改语义名”等于
+    # “改标识”，历史 journal（只追加，P5）就成了改名的锁死项。三层分离后改名只动
+    # name／label。本谓词是分离不被悄悄放弃的哨兵：登记表缺项、号段越界、
+    # 历史节点名解析不了、状态名游离在别名表外，一律红。
+    try:
+        from tools import naming_lib
+    except ImportError:  # 直连脚本运行（无包路径）
+        sys.path.insert(0, ROOT)
+        from tools import naming_lib
+    npath = naming_path or naming_lib.REGISTRY_PATH
+    try:
+        reg = naming_lib.load(npath)
+        v_errs = naming_lib.validate(npath)
+    except (RuntimeError, ValueError, OSError) as exc:
+        rec("S7", "登记表自洽", False, "rules/naming.json 不可读：%s" % exc)
+        return hits
+    rec("S7", "登记表自洽", not v_errs, "违例=%s" % (v_errs[:4] or "无"))
+
+    reg_ids = [n["identifier"] for n in reg.get("nodes", [])]
+    missing = sorted(set(ids) - set(reg_ids))
+    extra = sorted(set(reg_ids) - set(ids))
+    rec("S7", "登记表与管线一一对应", not missing and not extra,
+        "未登记=%s；无对应节点=%s" % (missing or "无", extra or "无"))
+
+    seg_bad = []
+    for n in nodes:
+        nid = n["id"]
+        if "-" not in nid:
+            seg_bad.append("%s：非 identifier 形态" % nid)
+            continue
+        prefix = nid.split("-")[0]
+        allow = SEG_PREFIX.get(n.get("seg") or "", ())
+        if allow and prefix not in allow:
+            seg_bad.append("%s：号段 %s 与 seg %s 不符" % (nid, prefix, n.get("seg")))
+    rec("S7", "号段与管线段一致", not seg_bad, "不符=%s" % (seg_bad or "无"))
+
+    dup = [n["id"] for n in nodes if "label" in n or "name" in n]
+    rec("S7", "命名属性不在管线重复", not dup,
+        "重复=%s（label／name 归 rules/naming.json，管线只放判据）" % (dup or "无"))
+
+    unresolved = sorted({v for v in (journal_nodes if journal_nodes is not None
+                                     else _journal_node_values())
+                         if naming_lib.try_identifier(v) is None})
+    rec("S7", "历史节点名可归一", not unresolved,
+        "解析失败=%s" % (unresolved or "无"))
+
+    known = set(reg.get("non_node_states", [])) | set(naming_lib.all_states()) \
+        | set(reg.get("state_aliases", {}))
+    stray = sorted({s for s in (task_states if task_states is not None
+                                else _task_state_values()) if s not in known})
+    rec("S7", "任务状态名在词表内", not stray, "游离=%s" % (stray or "无"))
 
     return hits
 

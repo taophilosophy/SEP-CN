@@ -2,7 +2,7 @@
   "slug": "advance-directives",
   "kind": "retranslate",
   "zh_doc": "a/advance-directives.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "s1",
@@ -109,5 +109,11 @@
     "pubinfo_date": "Mar 24, 2009",
     "archive_edition": "Summer 2017",
     "sha256": "b663ee735fa054a479ed07760bc15288b3a3e5c863c55a1a3996a9b41d79dcb6"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:39Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

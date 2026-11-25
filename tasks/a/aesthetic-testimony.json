@@ -2,7 +2,7 @@
   "slug": "aesthetic-testimony",
   "kind": "retranslate",
   "zh_doc": "a/aesthetic-testimony.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Mar 13, 2024",
     "archive_edition": "Fall 2026",
     "sha256": "e06d15e8c62c347153c6719208a05a2ef90e228c366848b2ac8565bd221bf872"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:39Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

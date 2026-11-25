@@ -2,7 +2,7 @@
   "slug": "agrippa-nettesheim",
   "kind": "retranslate",
   "zh_doc": "a/agrippa-nettesheim.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Mar 28, 2025",
     "archive_edition": "Summer 2025",
     "sha256": "d5e7b06f000d8acd89cee8cb909fd72e3e462b08d68944e3fdec6dba7536fe7f"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:39Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

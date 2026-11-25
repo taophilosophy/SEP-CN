@@ -2,7 +2,7 @@
   "slug": "holes",
   "kind": "retranslate",
   "zh_doc": "h/holes.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "May 12, 2025",
     "archive_edition": "Summer 2025",
     "sha256": "7219107925ee551c194ed9ea27873fb33803f97b59020af929d8baefa613a29e"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

@@ -2,7 +2,7 @@
   "slug": "sikh-philosophy",
   "kind": "retranslate",
   "zh_doc": "s/sikh-philosophy.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Feb 12, 2026",
     "archive_edition": "Spring 2026",
     "sha256": "92b0f6c147a66f8631e150c9f934767c99701d0fa7186318f546fc777216b137"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:41Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

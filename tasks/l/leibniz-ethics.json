@@ -2,7 +2,7 @@
   "slug": "leibniz-ethics",
   "kind": "retranslate",
   "zh_doc": "l/leibniz-ethics.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Jun 17, 2025",
     "archive_edition": "Summer 2025",
     "sha256": "55288647b321381a4b1649154cf716a4b5887fefcf1a86aa406be22c6508e6d7"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

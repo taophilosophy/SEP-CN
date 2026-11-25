@@ -2,7 +2,7 @@
   "slug": "tarski-truth",
   "kind": "retranslate",
   "zh_doc": "t/tarski-truth.md",
-  "state": "drafted",
+  "state": "tr-02_checked",
   "steps": [
     {
       "step": "clear",
@@ -32,5 +32,11 @@
     "pubinfo_date": "Sep 21, 2022",
     "archive_edition": "Winter 2022",
     "sha256": "62f20ef7268642d68b26203a72fdb7e4a556f62472923411bdafc07bea920a54"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:41Z",
+    "from": "drafted",
+    "to": "tr-02_checked",
+    "by": "ADR-0080"
   }
 }

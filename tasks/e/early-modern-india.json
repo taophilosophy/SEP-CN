@@ -2,7 +2,7 @@
   "slug": "early-modern-india",
   "kind": "retranslate",
   "zh_doc": "e/early-modern-india.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -130,5 +130,11 @@
     "pubinfo_date": "Nov 5, 2023",
     "archive_edition": "Winter 2023",
     "sha256": "c3b66a9114eb3f6722428ed51b6948a55a0576d5914c3f05df16e96904f7f4b2"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

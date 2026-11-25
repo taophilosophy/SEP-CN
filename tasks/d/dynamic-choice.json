@@ -2,7 +2,7 @@
   "slug": "dynamic-choice",
   "kind": "retranslate",
   "zh_doc": "d/dynamic-choice.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "May 12, 2025",
     "archive_edition": "Summer 2025",
     "sha256": "62757450323609bfdddd9dbc8759226b8a34336824f17ab617aed8ff9bf64550"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

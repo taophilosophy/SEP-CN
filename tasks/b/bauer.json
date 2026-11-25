@@ -2,7 +2,7 @@
   "slug": "bauer",
   "kind": "retranslate",
   "zh_doc": "b/bauer.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -95,5 +95,11 @@
     "pubinfo_date": "Feb 20, 2026",
     "archive_edition": "Spring 2026",
     "sha256": "815720465f6c483b5f7bc487f5513659400c9f4b85835f717fbb89cf3ecf6282"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

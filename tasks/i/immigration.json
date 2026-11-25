@@ -2,7 +2,7 @@
   "slug": "immigration",
   "kind": "retranslate",
   "zh_doc": "i/immigration.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -95,5 +95,11 @@
     "pubinfo_date": "Oct 23, 2024",
     "archive_edition": "Winter 2024",
     "sha256": "e5851bb6d31e80a57f0c9a59977ad63bc022b4383272408828c58960603431c5"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

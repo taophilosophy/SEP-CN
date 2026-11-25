@@ -2,7 +2,7 @@
   "slug": "identity-indiscernible",
   "kind": "retranslate",
   "zh_doc": "i/identity-indiscernible.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Jun 4, 2025",
     "archive_edition": "Summer 2025",
     "sha256": "17f3243fc2f28cb9ae354223d2c53de6d9d738467c5eef5eda0ccea44cac6c7d"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

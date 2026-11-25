@@ -2,7 +2,7 @@
   "slug": "giles",
   "kind": "retranslate",
   "zh_doc": "g/giles.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Aug 7, 2025",
     "archive_edition": "Fall 2025",
     "sha256": "623df094748e13b77e34a0a87d6eae8a0125918662f69d319494ad94dbc326b0"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

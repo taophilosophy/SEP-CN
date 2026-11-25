@@ -2,7 +2,7 @@
   "slug": "edwards",
   "kind": "retranslate",
   "zh_doc": "e/edwards.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Jul 15, 2020",
     "archive_edition": "Summer 2024",
     "sha256": "88d2c62881fa2bd2eef99ccf8994d5b05e8fcb419c080c7a9a71a03e07bf4148"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

@@ -2,7 +2,7 @@
   "slug": "crathorn",
   "kind": "retranslate",
   "zh_doc": "c/crathorn.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -95,5 +95,11 @@
     "pubinfo_date": "Feb 24, 2022",
     "archive_edition": "Spring 2022",
     "sha256": "b49d1264c12e9fd275edf3cdba1e0c42d84bbd1019f0e3ecacb0ed4166019e91"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

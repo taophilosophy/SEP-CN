@@ -2,7 +2,7 @@
   "slug": "cloning",
   "kind": "retranslate",
   "zh_doc": "c/cloning.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -60,5 +60,11 @@
     "pubinfo_date": "Dec 10, 2021",
     "archive_edition": "Winter 2024",
     "sha256": "e9a9136e6212f866096b0d951af2d403bbf9e7ca6b566a78e97c9bf7a577804b"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

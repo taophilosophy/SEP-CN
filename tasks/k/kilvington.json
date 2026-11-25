@@ -2,7 +2,7 @@
   "slug": "kilvington",
   "kind": "retranslate",
   "zh_doc": "k/kilvington.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Sep 6, 2022",
     "archive_edition": "Fall 2022",
     "sha256": "268a950c3916992a74c87be29521502521d5966ea87bcae361e3703971ec405e"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

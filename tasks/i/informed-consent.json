@@ -2,7 +2,7 @@
   "slug": "informed-consent",
   "kind": "retranslate",
   "zh_doc": "i/informed-consent.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Feb 20, 2025",
     "archive_edition": "Spring 2025",
     "sha256": "04ed0fcb8eee755001f37261e412006c3ee95b2611f7dc60d6ddae8a8c45c928"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

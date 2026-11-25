@@ -2,7 +2,7 @@
   "slug": "epistemology-latin-america",
   "kind": "retranslate",
   "zh_doc": "e/epistemology-latin-america.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Dec 6, 2022",
     "archive_edition": "Winter 2022",
     "sha256": "8fb8afbe6f3eb10989ba49d52547ae97282177cdfe7846580687635c091c8f2b"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

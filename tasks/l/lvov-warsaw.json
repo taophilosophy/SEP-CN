@@ -2,7 +2,7 @@
   "slug": "lvov-warsaw",
   "kind": "retranslate",
   "zh_doc": "l/lvov-warsaw.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Nov 30, 2023",
     "archive_edition": "Winter 2023",
     "sha256": "7a308fa1be005d1c552414cedfbc19fef55c7c056469904395a3e3b0e95cdad4"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

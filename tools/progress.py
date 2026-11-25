@@ -24,9 +24,9 @@ except (AttributeError, ValueError, OSError):
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 JOURNAL = os.path.join(ROOT, "journal")
 PIPE = os.path.join(ROOT, "rules", "pipeline.json")
-# 核心翻译段（task_ops 状态机覆盖的 10 节点中，存量真实走通的 7 个）：
-# 不含 s0/s2.4/global（后加环节，存量由 revert 到达而非 advance 通过，ADR-0068 发现 2）
-CORE = {"draft", "s1", "s2", "S3", "R1", "R2", "R3"}
+# 核心翻译段（task_ops 状态机覆盖的 15 个节点中，存量真实走通的 7 个）：
+# 不含 ex-04/rv-01/rv-02（后加环节，存量由 revert 到达而非 advance 通过，ADR-0068 发现 2）
+CORE = {"tr-02", "tr-03", "tr-04", "rv-09", "sg-01", "sg-02", "sg-03"}
 
 
 def unescape(t):
@@ -134,8 +134,10 @@ def load_journal(journal_dir=JOURNAL):
 
     返回 (passed: dict[slug -> set(node)], node_count: Counter)。
     不读 tasks 的 state——进度事实只认 journal（ADR-0068 W4）。
+    节点名经 naming.json 归一到 identifier（ADR-0080；历史事件不改写）。
     journal_dir 可注入供单元测试隔离。
     """
+    from tools import naming_lib
     passed, node_count = {}, Counter()
     if not os.path.isdir(journal_dir):
         return passed, node_count
@@ -154,7 +156,7 @@ def load_journal(journal_dir=JOURNAL):
                             continue
                         ev = json.loads(line)
                         if ev.get("type") == "pass" and ev.get("node"):
-                            done.add(ev["node"])
+                            done.add(naming_lib.try_identifier(ev["node"]) or ev["node"])
             except (json.JSONDecodeError, OSError):
                 continue
             passed[slug] = done

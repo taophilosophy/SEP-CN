@@ -2,7 +2,7 @@
   "slug": "novalis",
   "kind": "retranslate",
   "zh_doc": "n/novalis.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Oct 20, 2020",
     "archive_edition": "Winter 2020",
     "sha256": "4facd0b0b542b7a90a3b316a675105d2fb5c390b1e22865b41d6aeebf4d71d6d"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:41Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

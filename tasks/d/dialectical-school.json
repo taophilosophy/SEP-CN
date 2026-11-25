@@ -2,7 +2,7 @@
   "slug": "dialectical-school",
   "kind": "retranslate",
   "zh_doc": "d/dialectical-school.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Aug 9, 2023",
     "archive_edition": "Fall 2025",
     "sha256": "debcc11864a9b5a139bd5e68e243953493b5350b9d4ec68b4cbc7bbbd92a9006"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

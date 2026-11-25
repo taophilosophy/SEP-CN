@@ -2,7 +2,7 @@
   "slug": "quantum-bayesian",
   "kind": "retranslate",
   "zh_doc": "q/quantum-bayesian.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -67,5 +67,11 @@
     "pubinfo_date": "Sep 8, 2026",
     "archive_edition": "Fall 2026",
     "sha256": "998d26434fdfbf035af9240414756d887b18c5a98e90d5349e7f204f6cc5d739"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:41Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

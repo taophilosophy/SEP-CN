@@ -2,7 +2,7 @@
   "slug": "independence-large-cardinals",
   "kind": "retranslate",
   "zh_doc": "i/independence-large-cardinals.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Apr 20, 2010",
     "archive_edition": "Summer 2011",
     "sha256": "5a8c61f07c7f99ad45d3868ab1788a215e9ddca945e435496271c969d9a1b99e"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

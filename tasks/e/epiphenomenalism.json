@@ -2,7 +2,7 @@
   "slug": "epiphenomenalism",
   "kind": "retranslate",
   "zh_doc": "e/epiphenomenalism.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Jun 15, 2023",
     "archive_edition": "Summer 2023",
     "sha256": "f86fc15892eb283a5a73da86f17d72cf34eb4aee54b6b5bdf5890c453b1ba468"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

@@ -2,7 +2,7 @@
   "slug": "karl-reinhold",
   "kind": "retranslate",
   "zh_doc": "k/karl-reinhold.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Sep 23, 2026",
     "archive_edition": null,
     "sha256": "6863c1195db7f163e0823ba8d9e067718d478091b6b6c637a48fd2bc748bc5cb"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

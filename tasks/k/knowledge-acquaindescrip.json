@@ -2,7 +2,7 @@
   "slug": "knowledge-acquaindescrip",
   "kind": "retranslate",
   "zh_doc": "k/knowledge-acquaindescrip.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Jun 12, 2019",
     "archive_edition": "Summer 2024",
     "sha256": "c023e84f3c53ccbbbcd834cc960ae6ef1f71f454566c3a3089ce198bb09464f2"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

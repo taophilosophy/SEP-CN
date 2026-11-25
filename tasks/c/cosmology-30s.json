@@ -2,7 +2,7 @@
   "slug": "cosmology-30s",
   "kind": "retranslate",
   "zh_doc": "c/cosmology-30s.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -60,5 +60,11 @@
     "pubinfo_date": "Sep 7, 2023",
     "archive_edition": "Fall 2023",
     "sha256": "f131e2d09a66362fdc909ca8aa48eb9ed3dd785ee4bf2afe5c1ac37007d166af"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

@@ -2,7 +2,7 @@
   "slug": "intrinsic-extrinsic",
   "kind": "retranslate",
   "zh_doc": "i/intrinsic-extrinsic.md",
-  "state": "drafted",
+  "state": "tr-02_checked",
   "steps": [
     {
       "step": "clear",
@@ -32,5 +32,11 @@
     "pubinfo_date": "Sep 18, 2023",
     "archive_edition": "Fall 2023",
     "sha256": "869f5aae19fbb71cfcc47de2d785c518987633ddf216c08a3cf33629a3d2fa4e"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "drafted",
+    "to": "tr-02_checked",
+    "by": "ADR-0080"
   }
 }

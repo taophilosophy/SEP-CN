@@ -2,7 +2,7 @@
   "slug": "haecceitism",
   "kind": "retranslate",
   "zh_doc": "h/haecceitism.md",
-  "state": "s0_source_checked",
+  "state": "ex-04_checked",
   "steps": [
     {
       "step": "clear",
@@ -39,5 +39,11 @@
     "pubinfo_date": "Dec 31, 2022",
     "archive_edition": "Spring 2023",
     "sha256": "6fa8aba6add244c48d20ffcc51f523d8e15280456b012960868c4f047fbdb0e1"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s0_source_checked",
+    "to": "ex-04_checked",
+    "by": "ADR-0080"
   }
 }

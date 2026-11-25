@@ -2,7 +2,7 @@
   "slug": "global-democracy",
   "kind": "retranslate",
   "zh_doc": "g/global-democracy.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Dec 5, 2025",
     "archive_edition": "Spring 2026",
     "sha256": "d094129da3c0a50a2fc3919548c2cd0388c49c2ffef1feb96554aac649ba9c71"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

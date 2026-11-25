@@ -2,7 +2,7 @@
   "slug": "information-biological",
   "kind": "retranslate",
   "zh_doc": "i/information-biological.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Jul 19, 2024",
     "archive_edition": "Fall 2024",
     "sha256": "00e3e68da980729878433234783dbb2a6f5bb837cad897f275e2bef0c1f65f11"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

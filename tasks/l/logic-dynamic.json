@@ -2,7 +2,7 @@
   "slug": "logic-dynamic",
   "kind": "retranslate",
   "zh_doc": "l/logic-dynamic.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Feb 16, 2023",
     "archive_edition": "Fall 2023",
     "sha256": "bb7c36ae9f82ba0c7e5bc8c15382ff1572a79e9e3f394bfbff59677efdb35cf9"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

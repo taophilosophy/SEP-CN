@@ -2,7 +2,7 @@
   "slug": "timon-phlius",
   "kind": "retranslate",
   "zh_doc": "t/timon-phlius.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Sep 24, 2022",
     "archive_edition": "Winter 2022",
     "sha256": "9556873b5b6d3b753f1b30762d10fea8a718f2b5744db903b40536f276158bb4"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:41Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

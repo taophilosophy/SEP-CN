@@ -2,7 +2,7 @@
   "slug": "arabic-islamic-mysticism",
   "kind": "retranslate",
   "zh_doc": "a/arabic-islamic-mysticism.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -116,5 +116,11 @@
     "pubinfo_date": "Jan 19, 2021",
     "archive_edition": "Spring 2021",
     "sha256": "7e7571a174d51c9644fb08c689b45dce5d750966b71b7108b9afa6e56cb7e588"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:39Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

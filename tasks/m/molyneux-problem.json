@@ -2,7 +2,7 @@
   "slug": "molyneux-problem",
   "kind": "retranslate",
   "zh_doc": "m/molyneux-problem.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "direction",
@@ -95,5 +95,11 @@
     "pubinfo_date": "Jan 8, 2026",
     "archive_edition": "Summer 2026",
     "sha256": "fca86a12704f01961be0424e8d1574353e1af2e17978c878debea1715e4d3d04"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

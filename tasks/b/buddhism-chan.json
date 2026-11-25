@@ -2,7 +2,7 @@
   "slug": "buddhism-chan",
   "kind": "retranslate",
   "zh_doc": "b/buddhism-chan.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -60,5 +60,11 @@
     "pubinfo_date": "Mar 2, 2019",
     "archive_edition": "Fall 2023",
     "sha256": "30acddaf0c906aa7b5a895f0c95064b86b741c81691b7e5f09074af2a196846b"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

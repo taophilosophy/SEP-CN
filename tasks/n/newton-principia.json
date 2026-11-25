@@ -2,7 +2,7 @@
   "slug": "newton-principia",
   "kind": "retranslate",
   "zh_doc": "n/newton-principia.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Dec 20, 2007",
     "archive_edition": "Winter 2024",
     "sha256": "05a4a2b2ef2bbca8eda188bc2bc705767bb7183f6132cfc05adfa316a3ee6f38"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:41Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

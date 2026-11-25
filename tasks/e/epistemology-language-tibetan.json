@@ -2,7 +2,7 @@
   "slug": "epistemology-language-tibetan",
   "kind": "retranslate",
   "zh_doc": "e/epistemology-language-tibetan.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Mar 16, 2025",
     "archive_edition": "Spring 2025",
     "sha256": "f78949d3bd2f5ef35473515292acccef75ccf37b4882b4b45e8750f19beb6863"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

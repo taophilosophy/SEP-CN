@@ -2,7 +2,7 @@
   "slug": "representation-medieval",
   "kind": "retranslate",
   "zh_doc": "r/representation-medieval.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "direction",
@@ -95,5 +95,11 @@
     "pubinfo_date": "Dec 18, 2023",
     "archive_edition": "Winter 2023",
     "sha256": "f3e58eecbbb9c84379fa90a00746bfe67a5e71bf0e5213a1f263b59c8c117219"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:41Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

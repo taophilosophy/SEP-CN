@@ -2,7 +2,7 @@
   "slug": "film",
   "kind": "retranslate",
   "zh_doc": "f/film.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Jul 30, 2015",
     "archive_edition": "Summer 2025",
     "sha256": "958f84b3e3d157b05f0306b21bd31d1c5aa2b20b6e38500506e2f9d810f25587"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

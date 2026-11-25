@@ -2,7 +2,7 @@
   "slug": "identity-politics",
   "kind": "retranslate",
   "zh_doc": "i/identity-politics.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Nov 1, 2024",
     "archive_edition": "Winter 2024",
     "sha256": "4dbd67b4bb6dcd47bd96710490e7bc71c5738a3f909c687d02e182cac06a27eb"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

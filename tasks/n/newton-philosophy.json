@@ -2,7 +2,7 @@
   "slug": "newton-philosophy",
   "kind": "retranslate",
   "zh_doc": "n/newton-philosophy.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Jul 14, 2021",
     "archive_edition": "Fall 2021",
     "sha256": "a760f0097a5a7a3656bc2bc9d3cf7937e9dec355598f3379499230e3f682eaec"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:41Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

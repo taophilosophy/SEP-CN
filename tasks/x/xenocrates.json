@@ -2,7 +2,7 @@
   "slug": "xenocrates",
   "kind": "retranslate",
   "zh_doc": "x/xenocrates.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -116,5 +116,11 @@
     "pubinfo_date": "Sep 3, 2025",
     "archive_edition": "Fall 2025",
     "sha256": "55c476502fa10412f85b5fb498ff93c61006477f6626b38b139cb970f567cc87"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:41Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

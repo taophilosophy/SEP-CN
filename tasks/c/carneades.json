@@ -2,7 +2,7 @@
   "slug": "carneades",
   "kind": "retranslate",
   "zh_doc": "c/carneades.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Jul 8, 2020",
     "archive_edition": "Summer 2024",
     "sha256": "eb26658cc9aa5ad5932963929d3a570bb6cb1cd0874eaf84e138ed52db355aa3"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

@@ -2,7 +2,7 @@
   "slug": "duns-scotus",
   "kind": "retranslate",
   "zh_doc": "d/duns-scotus.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Dec 15, 2025",
     "archive_edition": "Winter 2025",
     "sha256": "d78b7fdd6fe4a50f439e922040391eb9e22eed10fc824a1cd7634e054232e427"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

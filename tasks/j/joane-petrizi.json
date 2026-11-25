@@ -2,7 +2,7 @@
   "slug": "joane-petrizi",
   "kind": "retranslate",
   "zh_doc": "j/joane-petrizi.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Dec 27, 2025",
     "archive_edition": "Spring 2026",
     "sha256": "9f9d4e178e11f4d1daf17ac8afabb427f51f6566aa632f773c0c2e5525d7ce96"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

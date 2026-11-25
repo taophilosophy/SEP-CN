@@ -2,7 +2,7 @@
   "slug": "alcmaeon",
   "kind": "retranslate",
   "zh_doc": "a/alcmaeon.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -95,5 +95,11 @@
     "pubinfo_date": "Jul 18, 2025",
     "archive_edition": "Fall 2025",
     "sha256": "4ec54e0bfbd670359cca829743ccb0f7bf637c492e559f5ca3b1d2e4df330d75"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:39Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

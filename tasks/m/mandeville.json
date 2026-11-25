@@ -2,7 +2,7 @@
   "slug": "mandeville",
   "kind": "retranslate",
   "zh_doc": "m/mandeville.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Jun 3, 2024",
     "archive_edition": "Summer 2025",
     "sha256": "e1d4146c814790a2a9c363d44ab8ed85d7f3f54a1dd432b7c924a791eaa8bb81"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

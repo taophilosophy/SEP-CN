@@ -2,7 +2,7 @@
   "slug": "chinese-phil-medicine",
   "kind": "retranslate",
   "zh_doc": "c/chinese-phil-medicine.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Oct 7, 2020",
     "archive_edition": "Winter 2020",
     "sha256": "1b0f57a65be7b037575dc50fb43df8cf26f5bec2ab9336ff04cffee1cb3eef11"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

@@ -2,7 +2,7 @@
   "slug": "descartes-works",
   "kind": "retranslate",
   "zh_doc": "d/descartes-works.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -95,5 +95,11 @@
     "pubinfo_date": "Mar 1, 2023",
     "archive_edition": "Spring 2023",
     "sha256": "935a1c6b5a44a7b076c1dcd0d1458a940beaba4022e6cb0f435724c254ecfdfe"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

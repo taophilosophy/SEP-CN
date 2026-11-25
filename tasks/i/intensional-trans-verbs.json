@@ -2,7 +2,7 @@
   "slug": "intensional-trans-verbs",
   "kind": "retranslate",
   "zh_doc": "i/intensional-trans-verbs.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "May 29, 2025",
     "archive_edition": "Summer 2025",
     "sha256": "ed2769a0fd1426c0a71c82e3f4d30dbaf0ff16de144f79564cac65d865b059c1"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

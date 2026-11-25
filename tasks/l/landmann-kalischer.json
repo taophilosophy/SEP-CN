@@ -2,7 +2,7 @@
   "slug": "landmann-kalischer",
   "kind": "retranslate",
   "zh_doc": "l/landmann-kalischer.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Mar 18, 2025",
     "archive_edition": "Spring 2025",
     "sha256": "e169e894ef0fca45499b132a280f11f3940550cbfe83eca33c40ddeae267119d"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

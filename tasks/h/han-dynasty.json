@@ -2,7 +2,7 @@
   "slug": "han-dynasty",
   "kind": "retranslate",
   "zh_doc": "h/han-dynasty.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -95,5 +95,11 @@
     "pubinfo_date": "Jan 3, 2022",
     "archive_edition": "Spring 2022",
     "sha256": "6edf3b1437c647ee9c9e364d5148cd7c136de5df07ec7f66f29c530da42e4c1a"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

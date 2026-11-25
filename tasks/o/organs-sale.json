@@ -2,7 +2,7 @@
   "slug": "organs-sale",
   "kind": "retranslate",
   "zh_doc": "o/organs-sale.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Mar 10, 2025",
     "archive_edition": "Spring 2025",
     "sha256": "a5cf9d08d6064e4e5a911ad80f116781197a5674a012a0a38dbe3c38d6e099d7"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:41Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

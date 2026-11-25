@@ -2,7 +2,7 @@
   "slug": "humanism-civic",
   "kind": "retranslate",
   "zh_doc": "h/humanism-civic.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Jan 2, 2024",
     "archive_edition": "Spring 2026",
     "sha256": "3a228765b0cb86651ae62516ba17610b3125997b7065fae703e6f257a4f81c69"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

@@ -2,7 +2,7 @@
   "slug": "occasionalism",
   "kind": "retranslate",
   "zh_doc": "o/occasionalism.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Oct 17, 2019",
     "archive_edition": "Fall 2020",
     "sha256": "125ea37f6d47781a423cc74eaffc9528b95d5179e700ff7fc642b0ed951b6ce7"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:41Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

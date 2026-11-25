@@ -2,7 +2,7 @@
   "slug": "cancer",
   "kind": "retranslate",
   "zh_doc": "c/cancer.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -60,5 +60,11 @@
     "pubinfo_date": "Oct 23, 2023",
     "archive_edition": "Winter 2025",
     "sha256": "59639a4007a05507faaeb98c3331ee9158bf14eaebdb094b71770c0d4350c196"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

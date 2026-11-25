@@ -2,7 +2,7 @@
   "slug": "kaspi-joseph",
   "kind": "retranslate",
   "zh_doc": "k/kaspi-joseph.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Apr 10, 2023",
     "archive_edition": "Summer 2023",
     "sha256": "9a008f00fbabfee9b99af8c8da30faad86a82ddabce037347493547d41e68b7f"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

@@ -2,7 +2,7 @@
   "slug": "auriol",
   "kind": "retranslate",
   "zh_doc": "a/auriol.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Feb 12, 2026",
     "archive_edition": "Spring 2026",
     "sha256": "1f773a25e3330244e00df27d52acf4fce91d7fb16dd9bb0a039c01578a1be1ff"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

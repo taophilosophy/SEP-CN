@@ -2,7 +2,7 @@
   "slug": "religion-epistemology",
   "kind": "retranslate",
   "zh_doc": "r/religion-epistemology.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "direction",
@@ -95,5 +95,11 @@
     "pubinfo_date": "Oct 26, 2025",
     "archive_edition": "Winter 2025",
     "sha256": "d46529f29003482881f77009fd99ded0c7bf41b9cdab97f66f76d767044fd3c6"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:41Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

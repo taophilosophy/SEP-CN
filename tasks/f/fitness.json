@@ -2,7 +2,7 @@
   "slug": "fitness",
   "kind": "retranslate",
   "zh_doc": "f/fitness.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -60,5 +60,11 @@
     "pubinfo_date": "Sep 18, 2015",
     "archive_edition": "Spring 2023",
     "sha256": "f67baffd67500055ec8b7e736890e3dd91ec130d1b452a36bdb7453667c6328f"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

@@ -2,7 +2,7 @@
   "slug": "crescas",
   "kind": "retranslate",
   "zh_doc": "c/crescas.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Feb 7, 2024",
     "archive_edition": "Spring 2024",
     "sha256": "c888f5dd98839e13c7efad4059febcad3755babcae3e7817da9d7ba169efbf98"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

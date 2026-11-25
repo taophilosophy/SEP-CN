@@ -2,7 +2,7 @@
   "slug": "leibniz-mind",
   "kind": "retranslate",
   "zh_doc": "l/leibniz-mind.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Jun 29, 2020",
     "archive_edition": "Winter 2020",
     "sha256": "63d15c9157494b6c43a7c92342610e2b5566e551cac898b9f952477a42e5381f"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

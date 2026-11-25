@@ -2,7 +2,7 @@
   "slug": "brouwer",
   "kind": "retranslate",
   "zh_doc": "b/brouwer.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Feb 26, 2020",
     "archive_edition": "Spring 2020",
     "sha256": "8f8d656962d2744a0d7a6b37548e68f59253f13fe6bc3ed9063eca082319e3d1"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

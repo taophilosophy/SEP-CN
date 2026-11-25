@@ -2,7 +2,7 @@
   "slug": "ingarden",
   "kind": "retranslate",
   "zh_doc": "i/ingarden.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Jun 11, 2026",
     "archive_edition": "Summer 2026",
     "sha256": "3a889c3e07b7064647e2330ebb3a2106e6a8111a36bd0107870f3319cd23c850"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

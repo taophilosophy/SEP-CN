@@ -2,7 +2,7 @@
   "slug": "deductivism-mathematics",
   "kind": "retranslate",
   "zh_doc": "d/deductivism-mathematics.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Aug 25, 2023",
     "archive_edition": "Fall 2023",
     "sha256": "20a6a3db0e6c52570c9d642cd979ba1a75566911846473850f821f7fe79253dd"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

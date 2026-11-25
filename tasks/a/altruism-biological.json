@@ -2,7 +2,7 @@
   "slug": "altruism-biological",
   "kind": "retranslate",
   "zh_doc": "a/altruism-biological.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Jul 21, 2013",
     "archive_edition": "Summer 2020",
     "sha256": "2e48cb2b4bc2deda6e4dffcc0670755c5e632caebea1ad0803cd19d02b442535"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:39Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

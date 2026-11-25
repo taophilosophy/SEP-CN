@@ -2,7 +2,7 @@
   "slug": "african-ethics",
   "kind": "retranslate",
   "zh_doc": "a/african-ethics.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Sep 9, 2010",
     "archive_edition": "Fall 2011",
     "sha256": "d69518e7466f1ce90271509aa778e6e022cea23b7e5b451da9647647b33921d0"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:39Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

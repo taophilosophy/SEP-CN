@@ -2,7 +2,7 @@
   "slug": "falaquera",
   "kind": "retranslate",
   "zh_doc": "f/falaquera.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Aug 28, 2020",
     "archive_edition": "Fall 2020",
     "sha256": "260f1bf02d8d07c955ef3f0c23c05ab651e3d0245055c76ef6e1589dd3fd2891"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

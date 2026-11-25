@@ -2,7 +2,7 @@
   "slug": "ontology-is",
   "kind": "retranslate",
   "zh_doc": "o/ontology-is.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Jan 3, 2026",
     "archive_edition": "Spring 2026",
     "sha256": "86e4a9e6cc2ba946bcad2e7b43a255513ca3ec200d0c87072ced5c88c25ccb6b"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:41Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

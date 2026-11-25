@@ -2,7 +2,7 @@
   "slug": "dewey-political",
   "kind": "retranslate",
   "zh_doc": "d/dewey-political.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Feb 9, 2023",
     "archive_edition": "Spring 2023",
     "sha256": "490e3f497a62353de0a52290db80d036adcc7c9911e062156a07b1dae3464115"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

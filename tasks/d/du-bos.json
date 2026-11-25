@@ -2,7 +2,7 @@
   "slug": "du-bos",
   "kind": "retranslate",
   "zh_doc": "d/du-bos.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Dec 5, 2023",
     "archive_edition": "Winter 2023",
     "sha256": "79062b0e67de4f4a6a8a51e6b63ca28022acdebd928c6fca1db18a3fbfbd6aae"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

@@ -2,7 +2,7 @@
   "slug": "impossible-worlds",
   "kind": "retranslate",
   "zh_doc": "i/impossible-worlds.md",
-  "state": "drafted",
+  "state": "tr-02_checked",
   "steps": [
     {
       "step": "clear",
@@ -32,5 +32,11 @@
     "pubinfo_date": "Apr 27, 2023",
     "archive_edition": "Summer 2023",
     "sha256": "04c9311eef5139291b61ffa3fd7872ea2002911638ed03a924863c9915c0a33a"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "drafted",
+    "to": "tr-02_checked",
+    "by": "ADR-0080"
   }
 }

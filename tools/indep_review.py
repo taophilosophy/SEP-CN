@@ -42,12 +42,14 @@ BIBSUB_EN = re.compile(r'<h3[^>]*>\s*(?:Primary|Secondary)\s+Sources?', re.I)
 CLASSES = ("bib-heading-form", "pubinfo-form", "bib-subsection",
            "style", "quote-adjacent", "pairs")
 
-# 已完整翻译的状态（存根与未动工件不属独立审校范围，ADR-0047）
-TRANSLATED = {"drafted", "s1_checked", "s2_checked", "s2.4_termchecked", "s2.5_checked",
-              "s3_checked", "r1_reviewed", "r2_reviewed", "r3_reviewed", "done"}
+# 已完整翻译的状态（存根与未动工件不属独立审校范围，ADR-0047）；旧名经 naming.json 归一
+TRANSLATED = {"tr-02_checked", "tr-03_checked", "tr-04_checked", "rv-01_checked",
+              "rv-02_checked", "rv-09_checked", "sg-01_checked", "sg-02_checked",
+              "sg-03_checked", "done"}
 
 
 def task_state(path):
+    from tools import naming_lib
     root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     letter = os.path.basename(os.path.dirname(path))
     slug = os.path.splitext(os.path.basename(path))[0]
@@ -58,7 +60,7 @@ def task_state(path):
         t = json.load(io.open(p, encoding="utf-8"))
     except Exception:
         return None
-    return t.get("state") if isinstance(t, dict) else None
+    return naming_lib.normalize_state(t.get("state")) if isinstance(t, dict) else None
 
 
 def zh_docs(letters=None):

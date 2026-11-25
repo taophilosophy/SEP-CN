@@ -2,7 +2,7 @@
   "slug": "organ-donation",
   "kind": "retranslate",
   "zh_doc": "o/organ-donation.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "direction",
@@ -95,5 +95,11 @@
     "pubinfo_date": "May 20, 2026",
     "archive_edition": "Summer 2026",
     "sha256": "9a11c8307c7a7253fd1900c397a6949ff0e566e90d1fca2f248b4f6e5e63fdda"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:41Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

@@ -2,7 +2,7 @@
   "slug": "chinese-phil-science",
   "kind": "retranslate",
   "zh_doc": "c/chinese-phil-science.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Oct 7, 2020",
     "archive_edition": "Winter 2020",
     "sha256": "00c9f02e50bc83dda5672ce7112193d515405b92c14bd344097531dbfeee536b"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

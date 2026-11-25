@@ -2,7 +2,7 @@
   "slug": "algebra-logic-tradition",
   "kind": "retranslate",
   "zh_doc": "a/algebra-logic-tradition.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Feb 12, 2021",
     "archive_edition": "Spring 2021",
     "sha256": "70646f08f46e48185799be5dc5fb8409bedfc38ca2dc06c2f0110b4a1dc6ae4e"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:39Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

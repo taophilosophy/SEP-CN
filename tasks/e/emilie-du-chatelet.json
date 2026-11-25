@@ -2,7 +2,7 @@
   "slug": "emilie-du-chatelet",
   "kind": "retranslate",
   "zh_doc": "e/emilie-du-chatelet.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Jun 13, 2014",
     "archive_edition": "Winter 2018",
     "sha256": "43362ec9760ba126776a4f9394575fd53dc56e5c87cec76e990126abe35563c3"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

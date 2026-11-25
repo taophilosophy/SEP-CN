@@ -2,7 +2,7 @@
   "slug": "albert-great",
   "kind": "retranslate",
   "zh_doc": "a/albert-great.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Nov 30, 2025",
     "archive_edition": "Winter 2025",
     "sha256": "46751ce67171aeb31e77f4bceaf183855eaa3ee43ab95a207a5b4daf6db6adb4"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:39Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

@@ -2,7 +2,7 @@
   "slug": "conscience",
   "kind": "retranslate",
   "zh_doc": "c/conscience.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -60,5 +60,11 @@
     "pubinfo_date": "Oct 1, 2024",
     "archive_edition": "Winter 2024",
     "sha256": "b7cb53c8b4d5e66bd36ee659d9b9b56c5197d139f5e1acabb49824c71bc86402"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

@@ -2,7 +2,7 @@
   "slug": "abduction",
   "kind": "retranslate",
   "zh_doc": "a/abduction.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -214,5 +214,11 @@
     "pubinfo_date": "Jun 18, 2025",
     "archive_edition": "Winter 2025",
     "sha256": "f15cabf1118658053a76f5b7813f0638e8acb88c370a1150b3c13283786ff8e6"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:39Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

@@ -2,7 +2,7 @@
   "slug": "george-eliot",
   "kind": "retranslate",
   "zh_doc": "g/george-eliot.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Apr 28, 2025",
     "archive_edition": "Summer 2025",
     "sha256": "66402e0a59b71fce0780eeb790d71990445c69ee5118fd4fae154bec6eef444d"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

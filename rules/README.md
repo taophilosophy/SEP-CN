@@ -33,7 +33,7 @@
 | ---- | ---- | ---- | ---- |
 | 宪法 | `.specify/memory/constitution.md` | 最高原则 | 治理会话 |
 | 约束性规则 | `rules/01-09` + `rules/adr/`（决策记录）；单文件超 300 行/30KB 按主题拆为 `rules/0X/` 目录 | 可执行条文 + ADR 决策史 | 治理会话（修订走 ADR） |
-| 判据机读件 | `rules/pipeline.json` | 22 作业节点（含 q1–q6 六轴，ADR-0079）、四类型、三档降级、`criteria_owner`——节点与判据唯一事实源（ADR-0068 W2 转正） | 治理会话（修订走 ADR） |
+| 判据机读件 | `rules/pipeline.json` | 22 作业节点（含 rv-03–rv-08 六轴，ADR-0079）、四类型、三档降级、`criteria_owner`——节点与判据唯一事实源（ADR-0068 W2 转正） | 治理会话（修订走 ADR） |
 | 公理登记 | `rules/axioms.json` | P1–P28 公理 + 定理 + 退役映射 + 谓词映射——公理唯一登记册（整合 041/042/043 三套，ADR-0068 W6 转正） | 治理会话（修订走 ADR） |
 | 事件模型 | `rules/journal-schema.json` | 六类事件、四节点类型、三档降级语义，`nodes_ref` 指 `pipeline.json`——事件日志模型唯一源（ADR-0068 W6 转正） | 治理会话（修订走 ADR） |
 | 参考方法论 | `rules/reference/`（[engineering-doctrine](reference/engineering-doctrine/README.md)：G0-G5 门禁、32 条总纲、知难行易（00b）、FR/NFR、交付清单） | 方法论基线，**不具约束力**，采纳进 rules/ 才生效 | 全体可读 |
@@ -66,10 +66,10 @@
 | 术语工作 | ISO 704:2022 / GB/T 10112-2019；ISO 1087:2019 | 现行 | [03](03-terminology.md) 登记流程 |
 | 术语交换 | ISO 30042:2019（TBX）；ISO 25964（叙词） | 现行 | Tier 3 可选（未立项） |
 | 翻译质量评估 | ISO 5060:2024（翻译产出的评估，错误类型与 MQM 一级维度对齐，七维含 Linguistic conventions／Style／Locale conventions） | 现行（2024-04） | [04](04-translation-workflow.md) 六轴独立（ADR-0079） |
-| 引文与参考文献（国际） | ISO 690:2021（第 4 版；原始语言与文字系统、关联信息 `[translit.: …]`／`[trans.: …]`） | 现行 | [07](07-academic-norms.md)、q1 引文判据 |
+| 引文与参考文献（国际） | ISO 690:2021（第 4 版；原始语言与文字系统、关联信息 `[translit.: …]`／`[trans.: …]`） | 现行 | [07](07-academic-norms.md)、rv-03 引文判据 |
 | 转写系统代码 | ISO 24229（转写与转写系统代码清单，ISO 690:2021 引注） | 现行（条款落地前核对全名与版本） | [07](07-academic-norms.md) 引文转写登记 |
-| 量和单位 | ISO 80000-1:2022（第 2 版；7.1 量符号斜体、7.2 数字与小数点）；SI Brochure 第 9 版（2019，2026-06 修订 4.01） | 现行 | q5 计量判据（ADR-0079） |
-| 语义标注 | ISO 24617-8:2016（DR-core 篇章关系）、ISO 24617-11:2021（MQI）、ISO 24617-12:2025（QuantML 量化） | 现行 | q2 逻辑骨架与量词标注（ADR-0079） |
+| 量和单位 | ISO 80000-1:2022（第 2 版；7.1 量符号斜体、7.2 数字与小数点）；SI Brochure 第 9 版（2019，2026-06 修订 4.01） | 现行 | rv-07 计量判据（ADR-0079） |
+| 语义标注 | ISO 24617-8:2016（DR-core 篇章关系）、ISO 24617-11:2021（MQI）、ISO 24617-12:2025（QuantML 量化） | 现行 | rv-04 逻辑骨架与量词标注（ADR-0079） |
 | 日期时间 | ISO 8601-1:2019 / GB/T 7408.1-2023（等同采用，代替 2005 版） | 现行 | 任务 JSON 时间戳、tag 命名 |
 | 记录管理 | ISO 15489-1:2016 | 现行 | 宪法 II（四特性全对上） |
 | 文件管理（中文采标） | GB/T 26162-2021（信息与文献 文件管理，等同 ISO 15489-1:2016；代替 GB/T 26162.1-2010） | 现行（2022-07-01 实施）；ISO 15489-1 修订中（目标 2029），引用条款前重核 | [ADR-0076](adr/0076-英文侧审计产物三类目制.md)（baseline 三类目分类方案） |
@@ -98,7 +98,7 @@
 * 登记译法与正文不一致 / `check_terms --docs` 告警 → 先按 D1–D5 定性再处置（修复／登记／豁免），**不得机械替换**；涉译法抉择或登记改动须联网查证留凭证（[03](03-terminology.md)、[ADR-0048](adr/0048-术语落地差异处置标准.md)）。
 * 动手翻译 → 先建/查任务 `tasks/`，按状态机推进，禁止跳步（[04](04-translation-workflow.md)）。
 * 发现 `en/` 文字缺陷（typo、年份、人名、条目重复、缺空格）→ **不改 en/**（绝对冻结，与原始钉逐字节一致）：文字层入全局勘误表（`baseline/en-errata/en-errata.md`）＋中文译注承载；格式层入 `baseline/en-patches/` 补丁池（一补丁一文件，转换层应用，命中计数硬校验）；`yuanwen/` 忠实于 HTML 文字（[ADR-0062](adr/0062-en原始物文字冻结与全局勘误表.md)、[ADR-0076](adr/0076-英文侧审计产物三类目制.md)）。
-* 想推进终审（R3）→ 不进行：仅用户显式指定的会话执行（`advance --step r3 --mandate "<指定记录>"`），未指定时条目停 r2_reviewed、done 冻结（[04](04-translation-workflow.md)、[ADR-0054](adr/0054-终审须用户显式指定会话.md)）。
+* 想推进终审（sg-03）→ 不进行：仅用户显式指定的会话执行（`advance --step sg-03 --mandate "<指定记录>"`），未指定时条目停 sg-02_checked、done 冻结（[04](04-translation-workflow.md)、[ADR-0054](adr/0054-终审须用户显式指定会话.md)）。
 * 引号、空格、表格格式 → 按 [02](02-style.md)，机器可判部分用 `tools/check_style.py` 预检。
 * 学术规范（参考文献/译注/版本事实）→ 按 [07](07-academic-norms.md)，定点 `tools/check_academic.py --docs <路径> --strict`；收工前 `python tools/check_all.py` 一键全量。
 * 推送 → 先 `git pull --rebase`，被拒不硬推；force push 属用户授权期专属（[06](06-governance.md)）。
@@ -107,5 +107,5 @@
 * 单体文档超 1000 行或 100KB → 按文件夹拆分（登记册与生成物豁免），见 [01](01-repository-structure.md) 与 ADR-0004。
 * 根目录出现散件/未知目录 → 迁 `script/`（本地草稿）、`state/`（运行态）或 `specs/<NNN>-*/bin|results/`（入库凭证）；根目录白名单见 [01](01-repository-structure.md) 与 ADR-0023，门禁 `tools/check_junk.py`。
 * 改站点构建 / 主题 / 搜索 → 先读 [`.vitepress/README.md`](../.vitepress/README.md)；命令与门禁口径仍以 [05](05/index.md) 为准。
-* 标准化中文 markdown / 尾序·编号·H1·脚注位次 / 回退重走体例校 → 按 [04](04-translation-workflow.md) s2.4 双轴与 ADR-0063；体例判定表在 04，判定权与规则所有权在 [05](05/index.md)。
+* 标准化中文 markdown / 尾序·编号·H1·脚注位次 / 回退重走体例校 → 按 [04](04-translation-workflow.md) rv-01 双轴与 ADR-0063；体例判定表在 04，判定权与规则所有权在 [05](05/index.md)。
 * 动 `en/` 或 `yuanwen/` 的"看起来错了"处 → 先读 ADR-0062 三出口（文字→全局勘误表＋译注；HTML 格式→`baseline/en-patches/`；转换器缺陷→改 `tools/yuanwen.py`）；`en/` 与 `yuanwen/` 文字一致性由不变量 I2/I3 机检（ADR-0063），禁手改产物。

@@ -2,7 +2,7 @@
   "slug": "quine-nf",
   "kind": "retranslate",
   "zh_doc": "q/quine-nf.md",
-  "state": "s2.5_checked",
+  "state": "rv-02_checked",
   "steps": [
     {
       "step": "clear",
@@ -81,5 +81,11 @@
     "pubinfo_date": "Apr 2, 2025",
     "archive_edition": "Spring 2026",
     "sha256": "1786dc0bfa895dcc563cefdcc14dbb0e66da60685ace9f0de45efdf9720a0c54"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:41Z",
+    "from": "s2.5_checked",
+    "to": "rv-02_checked",
+    "by": "ADR-0080"
   }
 }

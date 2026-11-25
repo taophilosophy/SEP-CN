@@ -2,7 +2,7 @@
   "slug": "abilities",
   "kind": "retranslate",
   "zh_doc": "a/abilities.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -102,5 +102,11 @@
     "pubinfo_date": "Apr 22, 2025",
     "archive_edition": null,
     "sha256": "30f3949f11b6217e12f1f0867b994bfffebc6cc8f5c65634b6be577e2456740a"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:39Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

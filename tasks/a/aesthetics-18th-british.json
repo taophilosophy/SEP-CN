@@ -2,7 +2,7 @@
   "slug": "aesthetics-18th-british",
   "kind": "retranslate",
   "zh_doc": "a/aesthetics-18th-british.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Oct 6, 2022",
     "archive_edition": "Winter 2022",
     "sha256": "92494fd6d18417b6a07284ed13866ecf732e90a9581e3f3d271178d829095e02"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:39Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

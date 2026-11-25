@@ -2,7 +2,7 @@
   "slug": "legrand",
   "kind": "retranslate",
   "zh_doc": "l/legrand.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Jul 26, 2023",
     "archive_edition": "Fall 2023",
     "sha256": "daac126f65e80fffacbd0c96c507443386a5716675bd29cf104fdeb0aa2cd5b1"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

@@ -2,7 +2,7 @@
   "slug": "david",
   "kind": "retranslate",
   "zh_doc": "d/david.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "May 18, 2018",
     "archive_edition": "Summer 2018",
     "sha256": "bbda8f36a5c260376a4d9b7bedd0d5c70d355baad78b280e863dd7ef12dbd976"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

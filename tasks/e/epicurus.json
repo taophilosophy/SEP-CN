@@ -2,7 +2,7 @@
   "slug": "epicurus",
   "kind": "retranslate",
   "zh_doc": "e/epicurus.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Jul 8, 2022",
     "archive_edition": "Summer 2025",
     "sha256": "edef494c9bcce6f8f84c26173740c2aa456207f86ee53ed0c6b32b1c369f3198"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

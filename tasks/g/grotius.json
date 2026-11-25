@@ -2,7 +2,7 @@
   "slug": "grotius",
   "kind": "retranslate",
   "zh_doc": "g/grotius.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Jan 8, 2021",
     "archive_edition": "Fall 2026",
     "sha256": "6d00c7ab7785d403bce416dbffaf2518b8ca170a606fa711f662c391826e3b8c"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

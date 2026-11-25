@@ -35,7 +35,7 @@ class CheckStagesTest(unittest.TestCase):
         """构造判据双硬拦，S2 应失败。"""
         pipe = load_pipeline()
         for n in pipe["nodes"]:
-            if n["id"] == "s1":
+            if n["id"] == "tr-03":
                 n["criteria"] = ["check_pairs", "check_style"]
         hits = check(pipe)
         self.assertTrue(any(not h["ok"] and h["code"] == "S2" for h in hits))
@@ -44,7 +44,7 @@ class CheckStagesTest(unittest.TestCase):
         """构造断链（双链首），S1 应失败。"""
         pipe = load_pipeline()
         for n in pipe["nodes"]:
-            if n["id"] == "P3":
+            if n["id"] == "ex-03":
                 n["prev"] = None
         hits = check(pipe)
         self.assertTrue(any(not h["ok"] and h["code"] == "S1" for h in hits))
@@ -56,10 +56,10 @@ class CheckStagesTest(unittest.TestCase):
         "登记双向一致"，判据悬空也能全绿，故补 S5。
         """
         pipe = load_pipeline()
-        target = next(n for n in pipe["nodes"] if n["id"] == "s1")
+        target = next(n for n in pipe["nodes"] if n["id"] == "tr-03")
         target["criteria"] = ["nonexistent_tool"]
         pipe["criteria_owner"].pop("check_pairs", None)
-        pipe["criteria_owner"]["nonexistent_tool"] = ["s1"]
+        pipe["criteria_owner"]["nonexistent_tool"] = ["tr-03"]
         hits = check(pipe)
         self.assertTrue(any(not h["ok"] and h["name"] == "判据承载体可解析" for h in hits))
 
@@ -90,10 +90,10 @@ class CheckStagesTest(unittest.TestCase):
                 self.assertTrue(n.get("object_class"), n["id"])
 
     def test_negative_merge_detected_by_s6(self):
-        """把六轴判据塞进 S3 而不改 object_class，S6 应失败（防静默归并）。"""
+        """把六轴判据塞进 rv-09（原 S3）而不改 object_class，S6 应失败（防静默归并）。"""
         pipe = load_pipeline()
         for n in pipe["nodes"]:
-            if n["id"] == "S3":
+            if n["id"] == "rv-09":
                 n["criteria"] = n["criteria"] + ["cite_audit", "logic_audit"]
         hits = check(pipe)
         bad = [h for h in hits if h["code"] == "S6" and not h["ok"]]

@@ -2,7 +2,7 @@
   "slug": "dilthey",
   "kind": "retranslate",
   "zh_doc": "d/dilthey.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Sep 29, 2020",
     "archive_edition": "Spring 2021",
     "sha256": "45def7cc535dfa374748480b13562a80f9251be01f478c600c5fbf0c61ed5974"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

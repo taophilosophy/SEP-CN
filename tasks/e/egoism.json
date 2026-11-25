@@ -2,7 +2,7 @@
   "slug": "egoism",
   "kind": "retranslate",
   "zh_doc": "e/egoism.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -95,5 +95,11 @@
     "pubinfo_date": "Jan 9, 2023",
     "archive_edition": "Spring 2023",
     "sha256": "4c2fe573c1206065afe39661162b7430da6de43304bed8cce6d7e1ba983145b5"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

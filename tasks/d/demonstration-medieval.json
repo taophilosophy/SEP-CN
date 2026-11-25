@@ -2,7 +2,7 @@
   "slug": "demonstration-medieval",
   "kind": "retranslate",
   "zh_doc": "d/demonstration-medieval.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Aug 12, 2005",
     "archive_edition": "Spring 2021",
     "sha256": "8da36cb62e5b46c7dbe406f178124585dc560cf5d92f2c845ec92cc42d2bee77"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

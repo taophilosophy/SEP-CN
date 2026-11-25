@@ -2,7 +2,7 @@
   "slug": "newton",
   "kind": "retranslate",
   "zh_doc": "n/newton.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Dec 19, 2007",
     "archive_edition": "Fall 2008",
     "sha256": "b1a2f78ec2f56c1c38f642035992b55b02172b6a8ada807d2dc8ed9d26326d16"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:41Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

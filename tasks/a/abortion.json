@@ -2,7 +2,7 @@
   "slug": "abortion",
   "kind": "retranslate",
   "zh_doc": "a/abortion.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "s1",
@@ -109,5 +109,11 @@
     "pubinfo_date": "May 14, 2025",
     "archive_edition": "Summer 2025",
     "sha256": "889a1e52f493e111d677317b061e3f737dfae49e29dd7e80b1db1f1b12adcefa"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:39Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

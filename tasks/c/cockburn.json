@@ -2,7 +2,7 @@
   "slug": "cockburn",
   "kind": "retranslate",
   "zh_doc": "c/cockburn.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Nov 10, 2023",
     "archive_edition": "Winter 2023",
     "sha256": "e89537aaf99731d6b8ee129fa205da6e30f25d7bbbe60a7c44703eb9baa16287"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

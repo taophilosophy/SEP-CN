@@ -2,7 +2,7 @@
   "slug": "peter-spain",
   "kind": "retranslate",
   "zh_doc": "p/peter-spain.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Sep 14, 2023",
     "archive_edition": "Fall 2023",
     "sha256": "f169add9bcfda5ad21df5e1f7893ad1d847da311dde640deca8049e86ff10891"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:41Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

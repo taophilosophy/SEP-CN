@@ -2,7 +2,7 @@
   "slug": "type-theory",
   "kind": "retranslate",
   "zh_doc": "t/type-theory.md",
-  "state": "s0_source_checked",
+  "state": "ex-04_checked",
   "steps": [
     {
       "step": "clear",
@@ -25,5 +25,11 @@
     "pubinfo_date": "Nov 20, 2026",
     "archive_edition": null,
     "sha256": "f289038b214af59b0cc930f3f7bdd540784ec8915d20203a8aac933627684347"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:41Z",
+    "from": "s0_source_checked",
+    "to": "ex-04_checked",
+    "by": "ADR-0080"
   }
 }

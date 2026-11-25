@@ -2,7 +2,7 @@
   "slug": "gorampa",
   "kind": "retranslate",
   "zh_doc": "g/gorampa.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Mar 29, 2021",
     "archive_edition": "Summer 2021",
     "sha256": "b6b19ecfbd5db54456b822b7da50b4b7cdc72837e1d2c1cf107c42d56aa4fc0d"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

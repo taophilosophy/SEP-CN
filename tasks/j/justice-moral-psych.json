@@ -2,7 +2,7 @@
   "slug": "justice-moral-psych",
   "kind": "retranslate",
   "zh_doc": "j/justice-moral-psych.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "May 30, 2025",
     "archive_edition": "Summer 2025",
     "sha256": "0e16c1ed5912ee0841a96f6b82dcebce868acbb131bf664abac82394bd56952b"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

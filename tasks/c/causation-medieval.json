@@ -2,7 +2,7 @@
   "slug": "causation-medieval",
   "kind": "retranslate",
   "zh_doc": "c/causation-medieval.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -95,5 +95,11 @@
     "pubinfo_date": "Apr 23, 2018",
     "archive_edition": "Summer 2018",
     "sha256": "df96363987e22fe09167945013213478f9d2c5ee252a05add61820c71a54ec90"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

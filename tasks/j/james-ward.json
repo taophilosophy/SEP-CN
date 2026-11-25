@@ -2,7 +2,7 @@
   "slug": "james-ward",
   "kind": "retranslate",
   "zh_doc": "j/james-ward.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Sep 2, 2021",
     "archive_edition": "Winter 2024",
     "sha256": "9a6eb691fb5277536cab3a87e75f869f12f0853b9f5c0e8699d16ab1f147c6cc"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

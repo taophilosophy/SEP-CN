@@ -2,7 +2,7 @@
   "slug": "abstract-objects",
   "kind": "retranslate",
   "zh_doc": "a/abstract-objects.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -102,5 +102,11 @@
     "pubinfo_date": "Aug 21, 2025",
     "archive_edition": "Fall 2025",
     "sha256": "44f169d7111de8daba0c190d55751e76edfe9a6db3cb82572f8710deae905594"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:39Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

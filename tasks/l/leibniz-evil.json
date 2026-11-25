@@ -2,7 +2,7 @@
   "slug": "leibniz-evil",
   "kind": "retranslate",
   "zh_doc": "l/leibniz-evil.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Jan 12, 2026",
     "archive_edition": "Spring 2026",
     "sha256": "b64225d120de656b0f8ee2ec7b733421582a061b813aead42b4064a8421e11b7"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

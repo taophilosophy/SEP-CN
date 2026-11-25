@@ -2,7 +2,7 @@
   "slug": "hilbert-program",
   "kind": "retranslate",
   "zh_doc": "h/hilbert-program.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Sep 29, 2023",
     "archive_edition": "Winter 2023",
     "sha256": "9d22df688d118ea25dccccc4c227649919fa543da350605da6e759ad26ea05cf"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

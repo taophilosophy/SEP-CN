@@ -2,7 +2,7 @@
   "slug": "habermas",
   "kind": "retranslate",
   "zh_doc": "h/habermas.md",
-  "state": "drafted",
+  "state": "tr-02_checked",
   "steps": [
     {
       "step": "clear",
@@ -32,5 +32,11 @@
     "pubinfo_date": "Sep 15, 2023",
     "archive_edition": "Spring 2026",
     "sha256": "8f15af6efaba8c9c03cf4031227bee2bc57bc024c8a85739614571b611cebe32"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "drafted",
+    "to": "tr-02_checked",
+    "by": "ADR-0080"
   }
 }

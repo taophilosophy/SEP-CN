@@ -252,7 +252,7 @@ class TestNoteSection(unittest.TestCase):
         self.assertEqual(self._issues(text), [])
 
 class TestGateStateScope(unittest.TestCase):
-    """第 13 项状态感知（ADR-0063）：只有 ≥s2.4 的件硬拦，其余告警不拦。"""
+    """第 13 项状态感知（ADR-0063）：只有 ≥rv-01 的件硬拦，其余告警不拦。"""
 
     def _run(self, state):
         import check_pairs as cp
@@ -268,12 +268,12 @@ class TestGateStateScope(unittest.TestCase):
         return rc, json.loads(buf.getvalue())
 
     def test_in_scope_blocks(self):
-        rc, out = self._run("s2.5_checked")
+        rc, out = self._run("rv-02_checked")
         self.assertEqual(rc, 1)
         self.assertEqual(out["gate"]["hard_in_scope"], 1)
 
     def test_s24_state_blocks(self):
-        rc, _out = self._run("s2.4_termchecked")
+        rc, _out = self._run("rv-01_checked")
         self.assertEqual(rc, 1)
 
     def test_out_of_scope_warns(self):

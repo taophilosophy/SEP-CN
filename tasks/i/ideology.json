@@ -2,7 +2,7 @@
   "slug": "ideology",
   "kind": "retranslate",
   "zh_doc": "i/ideology.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Mar 7, 2025",
     "archive_edition": "Spring 2025",
     "sha256": "7e753d93211792992d504b19250db7982e406887a6377e9377998fcbee6ae77b"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

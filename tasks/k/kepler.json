@@ -2,7 +2,7 @@
   "slug": "kepler",
   "kind": "retranslate",
   "zh_doc": "k/kepler.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Sep 14, 2025",
     "archive_edition": "Fall 2025",
     "sha256": "c8024755d64caf81eecd7f7d5f288dc36dc2a31b368f9ad4f20fc92d4708181b"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

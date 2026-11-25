@@ -2,7 +2,7 @@
   "slug": "stebbing",
   "kind": "retranslate",
   "zh_doc": "s/stebbing.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Jul 24, 2026",
     "archive_edition": "Fall 2026",
     "sha256": "58444d241a6fffe9b1ed584261793600677fe60e419b383474da236c4c4f8acd"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:41Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

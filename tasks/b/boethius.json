@@ -2,7 +2,7 @@
   "slug": "boethius",
   "kind": "retranslate",
   "zh_doc": "b/boethius.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Oct 14, 2026",
     "archive_edition": null,
     "sha256": "2c5dff089dded604fa0c9d78229f8297a458c21906d4ef0e17e8880ede15eeea"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

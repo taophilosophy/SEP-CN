@@ -2,7 +2,7 @@
   "slug": "boolalg-math",
   "kind": "retranslate",
   "zh_doc": "b/boolalg-math.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "intent",
@@ -95,5 +95,11 @@
     "pubinfo_date": "Jul 11, 2018",
     "archive_edition": "Spring 2022",
     "sha256": "28c221d1ed3aaa2ed849ebbfa95ead2c145a715fb89df5c803ef162ed2b886f3"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

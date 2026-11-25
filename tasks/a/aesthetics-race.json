@@ -2,7 +2,7 @@
   "slug": "aesthetics-race",
   "kind": "retranslate",
   "zh_doc": "a/aesthetics-race.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Sep 22, 2026",
     "archive_edition": null,
     "sha256": "f1e768bbdc754352b465163d7283a91fd7ada326422a9c83286433505d1e5cba"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:39Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

@@ -176,17 +176,23 @@
   "note": "节点集与次序由 rules/pipeline.json 唯一定义。本文件不再内嵌节点，避免两处各写一套（v1 曾同时存在 18 节点与 17 节点两版）"
  },
  "mandatory_ref": {
-  "source": "jian-yi-shu/rules/pipeline.json#mandatory_minimum.nodes",
+  "source": "rules/pipeline.json#mandatory_minimum.nodes",
   "members": [
-   "s0",
-   "s2.4",
-   "global",
-   "R1",
-   "R2",
-   "R3"
+   "ex-04",
+   "rv-01",
+   "rv-02",
+   "rv-03",
+   "rv-04",
+   "rv-05",
+   "rv-06",
+   "rv-07",
+   "rv-08",
+   "sg-01",
+   "sg-02",
+   "sg-03"
   ],
   "rule": "任何 attempt 合回主干前，该集合必须全部 pass；分支内自审不可替代",
-  "note": "R1-R3 是最小集不是全集：可增，不可减"
+  "note": "sg-01–sg-03（原 R1–R3）是最小集不是全集：可增，不可减"
  },
  "saturation": {
   "predicate": "passed(e, attempt) ⊇ nodes_ref ∪ mandatory_ref",

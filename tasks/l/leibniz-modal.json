@@ -2,7 +2,7 @@
   "slug": "leibniz-modal",
   "kind": "retranslate",
   "zh_doc": "l/leibniz-modal.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Feb 8, 2013",
     "archive_edition": "Winter 2022",
     "sha256": "242ea95888f7d6e8c3d88abd4098045b1a652ca9fd0a58b830d520aeba198760"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

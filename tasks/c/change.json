@@ -2,7 +2,7 @@
   "slug": "change",
   "kind": "retranslate",
   "zh_doc": "c/change.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Feb 13, 2020",
     "archive_edition": "Spring 2020",
     "sha256": "3beb8f07887eef7f7ebe71237a92cb0b51c8c125d4db8dd5bc1012301070a957"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

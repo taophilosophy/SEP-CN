@@ -2,7 +2,7 @@
   "slug": "adaptationism",
   "kind": "retranslate",
   "zh_doc": "a/adaptationism.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Jul 22, 2010",
     "archive_edition": "Spring 2017",
     "sha256": "298b00e487cfa62dd3212c6901bbd7d9287ce2ff059414c61c329eb9140c3555"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:39Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

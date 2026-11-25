@@ -2,7 +2,7 @@
   "slug": "addams-jane",
   "kind": "retranslate",
   "zh_doc": "a/addams-jane.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Aug 11, 2026",
     "archive_edition": "Fall 2026",
     "sha256": "e3e02f4c559414de2197f8acc26b766036f946ad4f19652ce5d0331499190900"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:39Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

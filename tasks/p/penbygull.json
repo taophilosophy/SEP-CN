@@ -2,7 +2,7 @@
   "slug": "penbygull",
   "kind": "retranslate",
   "zh_doc": "p/penbygull.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Jun 19, 2026",
     "archive_edition": "Summer 2026",
     "sha256": "ce13da0cb259916a9343ac92829cd758ffb08704d28b4cc4392f034842478992"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:41Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

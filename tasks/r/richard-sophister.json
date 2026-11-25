@@ -2,7 +2,7 @@
   "slug": "richard-sophister",
   "kind": "retranslate",
   "zh_doc": "r/richard-sophister.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "direction",
@@ -102,5 +102,11 @@
     "pubinfo_date": "Nov 26, 2016",
     "archive_edition": "Fall 2025",
     "sha256": "ab5c92dab94a176b8822824149bbd0e5a75a6bf9c0d7d2d0ff3a3053c4f9633b"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:41Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

@@ -2,7 +2,7 @@
   "slug": "erotic-art",
   "kind": "retranslate",
   "zh_doc": "e/erotic-art.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Feb 7, 2023",
     "archive_edition": "Spring 2023",
     "sha256": "d379bb09c58805213022ef11bb9afee7b9d469e87c6a313c48db1dfcf8cec014"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

@@ -2,7 +2,7 @@
   "slug": "harriet-mill",
   "kind": "retranslate",
   "zh_doc": "h/harriet-mill.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -95,5 +95,11 @@
     "pubinfo_date": "Jul 29, 2022",
     "archive_edition": "Fall 2022",
     "sha256": "a805eb5d26041999216bbd4ad8d8a96f4d3d40674e63d148db4d04d1d2d20d8f"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

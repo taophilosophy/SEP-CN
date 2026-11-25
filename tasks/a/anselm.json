@@ -2,7 +2,7 @@
   "slug": "anselm",
   "kind": "retranslate",
   "zh_doc": "a/anselm.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Jul 16, 2023",
     "archive_edition": "Summer 2025",
     "sha256": "efa42f104f512e41e13f637a8abd73ccacf2a93644ba53df349df7baadba161a"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:39Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

@@ -2,7 +2,7 @@
   "slug": "epistemology-evolutionary",
   "kind": "retranslate",
   "zh_doc": "e/epistemology-evolutionary.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Jan 21, 2020",
     "archive_edition": "Spring 2023",
     "sha256": "757c9aca4fed3b41edd2d80421df4f5cc67bb79ab21a4730841ea0faaee3cf08"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

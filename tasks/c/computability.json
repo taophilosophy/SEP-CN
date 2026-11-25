@@ -2,7 +2,7 @@
   "slug": "computability",
   "kind": "retranslate",
   "zh_doc": "c/computability.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Oct 18, 2021",
     "archive_edition": "Winter 2021",
     "sha256": "f3359a39e0fc876c47cbf07b381f6cbaa64b9c486d4be9ac44ce3eebc8ba4441"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

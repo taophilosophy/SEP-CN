@@ -2,7 +2,7 @@
   "slug": "al-din-al-razi",
   "kind": "retranslate",
   "zh_doc": "a/al-din-al-razi.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Feb 5, 2023",
     "archive_edition": "Spring 2026",
     "sha256": "745529daf68eec84bef818abb9434630241147e12dac7ea05e1e604f90cfbccd"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:39Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

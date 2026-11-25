@@ -2,7 +2,7 @@
   "slug": "japanese-aesthetics",
   "kind": "retranslate",
   "zh_doc": "j/japanese-aesthetics.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Dec 6, 2023",
     "archive_edition": "Spring 2024",
     "sha256": "022caca637b16361067e407fa5648e57a6afadd919a7524aa6fc14e2bef0904d"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

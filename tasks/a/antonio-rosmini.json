@@ -2,7 +2,7 @@
   "slug": "antonio-rosmini",
   "kind": "retranslate",
   "zh_doc": "a/antonio-rosmini.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "May 15, 2015",
     "archive_edition": "Fall 2020",
     "sha256": "843bc06d2272cc1f79ca687d3f3b2955ec3618841b321fdd5539296bf07f7663"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:39Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

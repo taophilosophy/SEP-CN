@@ -2,7 +2,7 @@
   "slug": "lambert-auxerre",
   "kind": "retranslate",
   "zh_doc": "l/lambert-auxerre.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -95,5 +95,11 @@
     "pubinfo_date": "Apr 3, 2024",
     "archive_edition": "Summer 2024",
     "sha256": "893dbd180508d0fd4ab2405e98780fed6c3f56098cc17ce52b0f0e1bc50fdea8"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

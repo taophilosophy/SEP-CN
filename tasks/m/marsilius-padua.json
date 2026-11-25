@@ -2,7 +2,7 @@
   "slug": "marsilius-padua",
   "kind": "retranslate",
   "zh_doc": "m/marsilius-padua.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Jan 28, 2026",
     "archive_edition": "Spring 2026",
     "sha256": "2076273bd1389b566f575c248a996d4d220a9dcea62d1d1d9a7f334b4455a236"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

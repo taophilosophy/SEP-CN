@@ -2,7 +2,7 @@
   "slug": "william-jevons",
   "kind": "retranslate",
   "zh_doc": "w/william-jevons.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Feb 12, 2015",
     "archive_edition": "Spring 2020",
     "sha256": "df2e02ea9b9ce56402102b567f197f1bbfc0de26418cc2235c9edd5f8343b636"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:41Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

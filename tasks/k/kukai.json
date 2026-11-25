@@ -2,7 +2,7 @@
   "slug": "kukai",
   "kind": "retranslate",
   "zh_doc": "k/kukai.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -60,5 +60,11 @@
     "pubinfo_date": "Sep 10, 2026",
     "archive_edition": "Fall 2026",
     "sha256": "b38970e5eff8e66da979b4fd231ded06dd792c851eda7ed3348a3e113d2aae47"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

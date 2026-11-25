@@ -2,7 +2,7 @@
   "slug": "delmedigo",
   "kind": "retranslate",
   "zh_doc": "d/delmedigo.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Jun 2, 2023",
     "archive_edition": "Summer 2023",
     "sha256": "f06b50f40b62f3e18308c4cddec4c6fad3aff391482ebceed2db71f2c81c97b9"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

@@ -49,6 +49,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, ROOT)
 
 from tools.biblio_audit import probe_text  # noqa: E402  文献探针（疑似中国文献定位）
+from tools import naming_lib  # noqa: E402  节点名归一（ADR-0080）
 
 # 西方出版标志：英文文献条目即便主题涉中国典籍也照录（ADR-0011 判据=条目语言本身）
 WESTERN_PUB_RE = re.compile(
@@ -421,7 +422,7 @@ def check_tasks(tasks_dir, hard, warns, records=None):
                 # 缺 at 的手工文件按生效前豁免，不虚构时点。
                 if done_at >= STYLE_ATTEST_FROM:
                     for st in steps:
-                        if st.get('step') not in ('s2', 'r1') \
+                        if not naming_lib.step_matches(st.get('step'), 'tr-04', 'sg-01') \
                                 or '语体' in str(st.get('evidence') or ''):
                             continue
                         if str(st.get('at') or '') < STYLE_ATTEST_FROM:

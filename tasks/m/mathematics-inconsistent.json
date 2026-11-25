@@ -2,7 +2,7 @@
   "slug": "mathematics-inconsistent",
   "kind": "retranslate",
   "zh_doc": "m/mathematics-inconsistent.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "direction",
@@ -95,5 +95,11 @@
     "pubinfo_date": "Nov 30, 2022",
     "archive_edition": "Winter 2022",
     "sha256": "e7ac610a1d9f42bdae596448ade1dea2ebdb8a002d9026899ebf87b3ee1303ad"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

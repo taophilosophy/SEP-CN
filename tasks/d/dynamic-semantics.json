@@ -2,7 +2,7 @@
   "slug": "dynamic-semantics",
   "kind": "retranslate",
   "zh_doc": "d/dynamic-semantics.md",
-  "state": "drafted",
+  "state": "tr-02_checked",
   "steps": [
     {
       "step": "clear",
@@ -32,5 +32,11 @@
     "pubinfo_date": "Jul 12, 2016",
     "archive_edition": "Fall 2022",
     "sha256": "2106f67576a59f7544e21953bf6c0dc43473c36c04dcb9e04affcfa1b6ade3af"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "drafted",
+    "to": "tr-02_checked",
+    "by": "ADR-0080"
   }
 }

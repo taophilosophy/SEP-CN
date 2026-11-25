@@ -16,18 +16,18 @@ from tools import punct_audit, register_audit, qchain, task_ops  # noqa: E402
 class TestAxisLib(unittest.TestCase):
     def test_order_has_q_chain(self):
         order = task_ops.ORDER["retranslate"]
-        qs = [s for s in order if s.startswith("q")]
-        self.assertEqual(qs, ["q1_cite_checked", "q2_logic_checked",
-                              "q3_grammar_checked", "q4_register_checked",
-                              "q5_measure_checked", "q6_punct_checked"])
-        self.assertLess(order.index("s2.5_checked"), order.index("q1_cite_checked"))
-        self.assertLess(order.index("q6_punct_checked"), order.index("s3_checked"))
+        axis_states = ["rv-03_checked", "rv-04_checked", "rv-05_checked",
+                       "rv-06_checked", "rv-07_checked", "rv-08_checked"]
+        qs = [s for s in order if s in axis_states]
+        self.assertEqual(qs, axis_states)
+        self.assertLess(order.index("rv-02_checked"), order.index("rv-03_checked"))
+        self.assertLess(order.index("rv-08_checked"), order.index("rv-09_checked"))
 
     def test_skip_q_node_rejected(self):
-        self.assertEqual(task_ops.expected_prev("retranslate", "q3"),
-                         "q2_logic_checked")
-        self.assertEqual(task_ops.expected_prev("retranslate", "s3"),
-                         "q6_punct_checked")
+        self.assertEqual(task_ops.expected_prev("retranslate", "rv-05"),
+                         "rv-04_checked")
+        self.assertEqual(task_ops.expected_prev("retranslate", "rv-09"),
+                         "rv-08_checked")
 
     def test_protect_masks_code_math_url(self):
         text = "正文$公式$。`code`\n\n```\nblock\n```\n\nhttps://x.y 收尾。"
@@ -114,7 +114,7 @@ class TestSixInstruments(unittest.TestCase):
 
     def test_qchain_order(self):
         self.assertEqual([x[0] for x in qchain.ORDER],
-                         ["q1", "q2", "q3", "q4", "q5", "q6"])
+                         ["rv-03", "rv-04", "rv-05", "rv-06", "rv-07", "rv-08"])
 
 
 if __name__ == "__main__":

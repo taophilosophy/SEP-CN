@@ -2,7 +2,7 @@
   "slug": "kant-science",
   "kind": "retranslate",
   "zh_doc": "k/kant-science.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Sep 18, 2023",
     "archive_edition": "Fall 2023",
     "sha256": "51b8609227d9513bcfc30f0e3da60659525eb188f56a74dc953db3aa3c27fd51"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

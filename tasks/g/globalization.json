@@ -2,7 +2,7 @@
   "slug": "globalization",
   "kind": "retranslate",
   "zh_doc": "g/globalization.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Jan 9, 2023",
     "archive_edition": "Spring 2023",
     "sha256": "18639ff07f910c3d251b0814f338cca846960525ab357d17f72ce3d2da638746"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

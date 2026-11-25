@@ -2,7 +2,7 @@
   "slug": "buridan",
   "kind": "retranslate",
   "zh_doc": "b/buridan.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Jan 24, 2024",
     "archive_edition": "Spring 2026",
     "sha256": "cb367d65a64cb0f0bf75b4960c5f7595d39a4b93c369f534575f03e35bc40eb6"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

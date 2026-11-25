@@ -2,7 +2,7 @@
   "slug": "aesthetic-judgment",
   "kind": "retranslate",
   "zh_doc": "a/aesthetic-judgment.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Feb 16, 2023",
     "archive_edition": "Fall 2024",
     "sha256": "3caadd6c982e3cccee2e70e296f2015b9e92f7d1d46458454e8d38e479bf8f6c"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:39Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

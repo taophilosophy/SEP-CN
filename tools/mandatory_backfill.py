@@ -46,28 +46,28 @@ DATE = datetime.now().strftime("%Y-%m-%d")
 ACTOR = "backfill-" + DATE
 RESULTS = os.path.join(ROOT, "specs", "052-mandatory-backfill", "results")
 
-# mandatory_minimum 中需要回补的三节点（R1/R2/R3 在核心段内，本就不缺）
-NODES = ("s0", "s2.4", "global")
+# mandatory_minimum 中需要回补的三节点（sg-01–sg-03 在核心段内，本就不缺）
+NODES = ("ex-04", "rv-01", "rv-02")
 
-# 目标面：曾走到 R3 的件（specs/051 §2 第 1 条的"400 件走完 R3"）。
-# 不用 CORE ⊆ passed：有 6 件 R3 已过但缺 draft 记录，用 CORE 会把它们漏在批次外。
-TARGET_NODE = "R3"
+# 目标面：曾走到 sg-03 的件（specs/051 §2 第 1 条的"400 件走完终审"）。
+# 不用 CORE ⊆ passed：有 6 件 sg-03 已过但缺 tr-02 记录，用 CORE 会把它们漏在批次外。
+TARGET_NODE = "sg-03"
 
 # 节点 → 现行判据名（写入 pass.gate，schema 要求非空）
 GATE_NAMES = {
-    "s0": ["en_integrity", "en_source_audit"],
-    "s2.4": ["check_terms", "errata_check", "check_style"],
-    "global": ["check_math_zh", "check_quotes", "check_tables_images",
-               "check_academic", "check_style"],
+    "ex-04": ["en_integrity", "en_source_audit"],
+    "rv-01": ["check_terms", "errata_check", "check_style"],
+    "rv-02": ["check_math_zh", "check_quotes", "check_tables_images",
+              "check_academic", "check_style"],
 }
 
 # 节点 → 实跑命令（与 task_ops 的 _source_gate/_term_gate/_style_gate/_audit_gate 同源）；
 # check_quotes 与 check_tables_images 是全库判官，按件归属见 _repo_wide_hits。
 NODE_COMMANDS = {
-    "s0": [("en_integrity.py", "{slug}"), ("en_source_audit.py", "{slug}")],
-    "s2.4": [("check_terms.py", "--docs {zh}"), ("check_pairs.py", "--gate {zh}"),
-             ("check_style.py", "{zh}")],
-    "global": [("check_math_zh.py", "{zh}"), ("check_academic.py", "--docs {zh}"),
+    "ex-04": [("en_integrity.py", "{slug}"), ("en_source_audit.py", "{slug}")],
+    "rv-01": [("check_terms.py", "--docs {zh}"), ("check_pairs.py", "--gate {zh}"),
+              ("check_style.py", "{zh}")],
+    "rv-02": [("check_math_zh.py", "{zh}"), ("check_academic.py", "--docs {zh}"),
                ("check_style.py", "{zh}")],
 }
 
@@ -95,7 +95,7 @@ def _repo_wide_hits(zh, node):
     两者 CLI 无逐件入口，但判据函数本身按文件求值；此处调同一函数、只喂该件，
     保证"同视图、同谓词"，不另写一套规则。
     """
-    if node != "global":
+    if node != "rv-02":
         return []
     hits = []
     from tools.check_quotes import scan
@@ -124,13 +124,19 @@ def eval_node(slug, zh, node):
     return True, gate, ""
 
 
+def _node_of(ev):
+    """事件节点名归一到 identifier（历史事件为旧名，ADR-0080）。"""
+    from tools import naming_lib
+    return naming_lib.try_identifier(ev.get("node")) or ev.get("node")
+
+
 def _has_pass(events, node):
-    return any(e.get("type") == "pass" and e.get("node") == node for e in events)
+    return any(e.get("type") == "pass" and _node_of(e) == node for e in events)
 
 
 def _has_batch_fail(events, node):
     """本批次已判 fail 的节点不重判（重跑幂等；修判官后重判须显式 --recheck）。"""
-    return any(e.get("type") == "fail" and e.get("node") == node
+    return any(e.get("type") == "fail" and _node_of(e) == node
                and str(e.get("note") or "").startswith("backfill:" + DATE) for e in events)
 
 

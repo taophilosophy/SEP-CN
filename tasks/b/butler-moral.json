@@ -2,7 +2,7 @@
   "slug": "butler-moral",
   "kind": "retranslate",
   "zh_doc": "b/butler-moral.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -60,5 +60,11 @@
     "pubinfo_date": "Nov 27, 2023",
     "archive_edition": "Winter 2023",
     "sha256": "1f2fb8be74c7fe06db380b57fc79c69a200d99fc3f10e9f5be27029d80327b5d"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

@@ -2,7 +2,7 @@
   "slug": "cognitive-science",
   "kind": "retranslate",
   "zh_doc": "c/cognitive-science.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Jan 31, 2023",
     "archive_edition": "Winter 2023",
     "sha256": "2881971a5a31966b3063be6b2df5d17f382e614b30e1b83df2bfdbe21955751c"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

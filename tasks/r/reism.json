@@ -2,7 +2,7 @@
   "slug": "reism",
   "kind": "retranslate",
   "zh_doc": "r/reism.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "direction",
@@ -102,5 +102,11 @@
     "pubinfo_date": "Apr 10, 2020",
     "archive_edition": "Spring 2022",
     "sha256": "3783d7cf77ad93bfa8fd02acc36250db1ba83c37065c258edb7fdb86d48afd63"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:41Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

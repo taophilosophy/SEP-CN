@@ -2,7 +2,7 @@
   "slug": "basing-epistemic",
   "kind": "retranslate",
   "zh_doc": "b/basing-epistemic.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Mar 16, 2026",
     "archive_edition": "Spring 2026",
     "sha256": "568a8aadbd574312637b9413e9fc1a7b8c29dbee6f4945f97085f55fd63a7682"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

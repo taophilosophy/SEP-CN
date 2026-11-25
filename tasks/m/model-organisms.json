@@ -2,7 +2,7 @@
   "slug": "model-organisms",
   "kind": "retranslate",
   "zh_doc": "m/model-organisms.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Jul 24, 2026",
     "archive_edition": "Fall 2026",
     "sha256": "27b79938d954985c30e23159c264ce1ec7304fa23af2c406122aca4d7e6f0450"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

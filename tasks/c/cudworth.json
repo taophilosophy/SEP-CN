@@ -2,7 +2,7 @@
   "slug": "cudworth",
   "kind": "retranslate",
   "zh_doc": "c/cudworth.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Aug 15, 2025",
     "archive_edition": "Fall 2025",
     "sha256": "0d2eca66a7cdc805ace0dab0205ffbc1f39b945cf25149ec7604d05835b1a405"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

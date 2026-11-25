@@ -2,7 +2,7 @@
   "slug": "logic-substructural",
   "kind": "retranslate",
   "zh_doc": "l/logic-substructural.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Aug 15, 2024",
     "archive_edition": "Fall 2024",
     "sha256": "6d43589b0ef1bc2bf4fc89d564cd0297954ed4ea9df0de8618c279b4af73106d"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

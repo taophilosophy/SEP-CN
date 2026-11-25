@@ -2,7 +2,7 @@
   "slug": "theology-aristotle",
   "kind": "retranslate",
   "zh_doc": "t/theology-aristotle.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "May 14, 2025",
     "archive_edition": "Summer 2025",
     "sha256": "686b48ce3113c364b9987cdddc3525cdeb28727cfff91186ab60bd9006bb0cc1"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:41Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

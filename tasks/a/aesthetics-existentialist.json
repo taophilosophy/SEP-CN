@@ -2,7 +2,7 @@
   "slug": "aesthetics-existentialist",
   "kind": "retranslate",
   "zh_doc": "a/aesthetics-existentialist.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Feb 27, 2025",
     "archive_edition": "Spring 2025",
     "sha256": "1e1a85ee5a9b07eeff05583ed94380261c7f75f1ff135de64b0f248a3a9fe768"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:39Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

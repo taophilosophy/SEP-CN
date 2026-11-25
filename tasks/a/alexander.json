@@ -2,7 +2,7 @@
   "slug": "alexander",
   "kind": "retranslate",
   "zh_doc": "a/alexander.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Oct 6, 2026",
     "archive_edition": null,
     "sha256": "c246484a61dedbb02b739e8d755eea015fe769407ee02966da0a24369ef8bf29"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:39Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

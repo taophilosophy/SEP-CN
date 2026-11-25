@@ -3,27 +3,31 @@
 
 用法: python tools/task_ops.py <命令> <slug> [参数]
 命令: show / create / advance / clear / reopen / block / revert-state / source-audit
-状态机（retranslate）:
-  pending → cleared → s0_source_checked(源审计前置) → drafted → s1_checked
-          → s2_checked → s2.4_termchecked(术语校) → s2.5_checked(审计已译)
-          → q1_cite_checked → q2_logic_checked → q3_grammar_checked
-          → q4_register_checked → q5_measure_checked → q6_punct_checked
-          → s3_checked → r1_reviewed → r2_reviewed → r3_reviewed → done
-  q1–q6（ADR-0079）：六轴独立工序，advance 时按步挂对应扫描器 --gate。
+状态机（retranslate，identifier 口径，ADR-0080）:
+  pending → cleared → ex-04_checked(源审计前置) → tr-02_checked(初译) → tr-03_checked(一校)
+          → tr-04_checked(二校) → rv-01_checked(术语校) → rv-02_checked(审计已译)
+          → rv-03_checked → rv-04_checked → rv-05_checked
+          → rv-06_checked → rv-07_checked → rv-08_checked
+          → rv-09_checked(体例终校) → sg-01_checked → sg-02_checked → sg-03_checked → done
+  旧状态名（drafted／s1_checked／s2.5_checked／r3_reviewed…）作为输入别名接受，
+  经 rules/naming.json 的 state_aliases 归一（ADR-0080）。
+  rv-03–rv-08（ADR-0079 六轴，原 q1–q6）：advance 时按步挂对应扫描器 --gate。
+  旧命令行短名（s0／s24／s25／audit／s3／r1–r3）保留为输入别名，内部写 identifier。
 状态机（update）已删除（ADR-0068 W5）：零任务使用，上游修订走 reopen --upstream-sync。
 禁止跳步；blocked 标志独立于状态，解除用 advance --unblock。
 合法前驱由 ORDER 单一事实源推导（expected_prev）：目标态不属于该任务 kind 的
 序列即拒，且前驱唯一直接前驱——specs/040 F-01/F-02 收口（旧 STEP_EXPECT_PREV 元组并集语义废止）。
 ORDER 与 STEPS 由 rules/pipeline.json 推导（ADR-0068 W5），不再硬编码序列。
 r3 终审（ADR-0054，用户 2026-11-15 裁定）：仅用户显式指定的会话执行，未指定不进行
-R3、条目停 r2_reviewed；advance --step r3 必须带 --mandate <用户指定记录>。
-s0（ADR-0052）：advance --step s0 自动挂 en_integrity＋en_source_audit；
-在途/done 存量补课用 source-audit 子命令（追加 s0 记录，状态不迁移）；
-进 s3 前任务历史必须有 s0 记录。
-s2.4（ADR-0043/0063）：advance --step s24 顺序挂术语轴（check_terms）与体例轴＋勘误轴
-（check_pairs --gate 与 check_style，结构硬、空白告警）。
-revert-state：受控回退原语，--to {s2.5_checked, s2.4_termchecked}，适用于 s2.5_checked
-及其后状态（ADR-0043 全量回退、ADR-0063 扩 s2.4；steps append-only 留史）。
+终审、条目停 sg-02_checked；advance --step sg-03 必须带 --mandate <用户指定记录>。
+源审计（ADR-0052）：advance --step ex-04 自动挂 en_integrity＋en_source_audit；
+在途/done 存量补课用 source-audit 子命令（追加 ex-04 记录，状态不迁移）；
+进体例终校（rv-09）前任务历史必须有源审计记录。
+术语与勘误（ADR-0043/0063）：advance --step rv-01 顺序挂术语轴（check_terms）与
+体例轴＋勘误轴（check_pairs --gate 与 check_style，结构硬、空白告警）。
+revert-state：受控回退原语，--to {rv-02_checked, rv-01_checked}（旧名 s2.5_checked／
+s2.4_termchecked 作输入别名），适用于 rv-02_checked 及其后状态（ADR-0043 全量回退、
+ADR-0063 扩 rv-01；steps append-only 留史）。
 退出码: 0 成功；1 任务不存在；2 用法错误；3 前置条件不满足。
 """
 import argparse
@@ -65,7 +69,8 @@ def _derive_order_steps():
         "retranslate": ["pending", "cleared"] + states + ["done"],
         # update 死序列删除（ADR-0068 W5）：零任务使用，上游修订走 reopen --upstream-sync
     }
-    steps = {alias: NODE_TO_STATE[node] for alias, node in NODE_MAP.items()}
+    steps = {alias: NODE_TO_STATE[node] for alias, node in NODE_MAP.items()
+             if node in NODE_TO_STATE}
     steps["done"] = "done"
     return order, steps
 
@@ -73,6 +78,15 @@ def _derive_order_steps():
 ORDER, STEPS = _derive_order_steps()
 # revert-state 可回退目标态：由 pipeline 的 checkpoint 节点推导（ADR-0043/0063）
 REVERT_TARGETS = tuple(NODE_TO_STATE[c] for c in REVERT_CHECKPOINTS)
+
+
+def _history_steps(task):
+    """任务历史里出现过的节点 identifier 集合（历史 step 名经别名归一，ADR-0080）。"""
+    out = set()
+    for s in task.get("steps", []):
+        v = s.get("step")
+        out.add(NODE_MAP.get(v, v))
+    return out
 
 
 def expected_prev(kind, step):
@@ -191,8 +205,8 @@ def advance(slug, step, actor, evidence, unblock=False, mandate=""):
         raise PreconditionError("任务被阻塞: %s；先 advance --unblock" % task["blockers"])
     if step not in STEPS:
         raise UsageError("step 必须是 %s" % "/".join(STEPS))
-    if step == "audit":
-        step = "s25"  # 兼容别名（ADR-0043 更名）：归一后统一走 s25 的前驱推导与挂钩派发
+    step = NODE_MAP.get(step, step)  # 标识归一（ADR-0080）：历史短名／name／identifier
+    # 统一为 identifier；非节点动作（done 等）原样透传
     order = ORDER.get(task["kind"])
     if order is None:
         raise PreconditionError("非法任务类型 %s（状态机仅 retranslate）" % task["kind"])
@@ -203,32 +217,33 @@ def advance(slug, step, actor, evidence, unblock=False, mandate=""):
             "step %s 要求状态 %s，当前 %s（禁止跳步）" % (step, prev_needed, cur))
     if cur not in order:
         raise PreconditionError("非法状态 %s" % cur)
-    if step == "r3" and task.get("kind") != "glossary-maintenance":
+    if step == "sg-03" and task.get("kind") != "glossary-maintenance":
         if not str(mandate or "").strip():
             raise PreconditionError(
-                "R3 终审须用户显式指定会话（ADR-0054）：advance --step r3 --mandate "
-                "\"<用户指定记录：何时/何范围>\"；未指定时不进行 R3，条目停 r2_reviewed")
+                "终审须用户显式指定会话（ADR-0054）：advance --step sg-03 --mandate "
+                "\"<用户指定记录：何时/何范围>\"（旧短名 r3 仍可用）；未指定时不进行终审，"
+                "条目停 sg-02_checked")
         _independence_gate(task, actor, evidence)  # 复核独立性机检（rules/04）
-    if step in ("s3", "r3") and task.get("kind") != "glossary-maintenance":
+    if step in ("rv-09", "sg-03") and task.get("kind") != "glossary-maintenance":
         _academic_gate(task.get("zh_doc"), step)  # 审校挂钩（rules/07）
-    if step == "s24" and task.get("kind") != "glossary-maintenance":
+    if step == "rv-01" and task.get("kind") != "glossary-maintenance":
         _term_gate(task.get("zh_doc"))  # 术语轴（rules/03/07、ADR-0043）
         _style_gate(task.get("zh_doc"))  # 体例轴＋勘误轴（ADR-0063）
-    if step == "s0" and task.get("kind") != "glossary-maintenance":
+    if step == "ex-04" and task.get("kind") != "glossary-maintenance":
         _source_gate(slug)  # 源审计前置挂钩（en_integrity＋en_source_audit，ADR-0052）
-    if step == "s3" and task.get("kind") != "glossary-maintenance" \
-            and not any(s.get("step") == "s0" for s in task.get("steps", [])):
+    if step == "rv-09" and task.get("kind") != "glossary-maintenance" \
+            and "ex-04" not in _history_steps(task):
         raise PreconditionError(
-            "进三校前必须已有源审计记录（s0，ADR-0052）：在途件先跑 "
-            "task_ops.py source-audit 补课（specs/036），新件先 advance --step s0")
+            "进三校前必须已有源审计记录（ex-04，原 s0，ADR-0052）：在途件先跑 "
+            "task_ops.py source-audit 补课（specs/036），新件先 advance --step ex-04")
     if step in AXIS_TOOL and task.get("kind") != "glossary-maintenance":
         _axis_gate(step, task.get("zh_doc"))
-    if step == "s25" and task.get("kind") != "glossary-maintenance":
+    if step == "rv-02" and task.get("kind") != "glossary-maintenance":
         # 三轴并挂（ADR-0063 2026-11-17 补记）：受控回退的目标态是
-        # s2.4_termchecked（视为该 checkpoint 已完成），随后 normal 推进即 s25，
-        # advance s24 对回退件不可达 → 术语/体例/勘误三轴须在 s25 复检，
-        # 否则 P8 回退件整体绕过体例硬门。同一先例见 ADR-0043「s2.4 增项并入
-        # s25 凭证」。三项均只读幂等，正常件在 s24 刚过、此处复检零成本。
+        # rv-01_checked（原 s2.4_termchecked，视为该 checkpoint 已完成），随后 normal
+        # 推进即 rv-02，advance rv-01 对回退件不可达 → 术语/体例/勘误三轴须在
+        # rv-02 复检，否则 P8 回退件整体绕过体例硬门。同一先例见 ADR-0043「s2.4
+        # 增项并入 s25 凭证」。三项均只读幂等，正常件在 rv-01 刚过、此处复检零成本。
         _term_gate(task.get("zh_doc"))  # 术语轴（rules/03、ADR-0043）
         _style_gate(task.get("zh_doc"))  # 体例轴＋勘误轴（ADR-0063）
         _audit_gate(task.get("zh_doc"))  # 审计挂钩（rules/04、ADR-0040）
@@ -236,7 +251,7 @@ def advance(slug, step, actor, evidence, unblock=False, mandate=""):
     task["state"] = STEPS[step]
     step_rec = {"step": step, "status": "ok", "actor": actor,
                 "at": utcnow_iso(), "evidence": evidence}
-    if step == "r3" and task.get("kind") != "glossary-maintenance":
+    if step == "sg-03" and task.get("kind") != "glossary-maintenance":
         step_rec["mandate"] = mandate  # 用户指定终审凭证（ADR-0054）；审计须核对对得上用户当轮发言
     task["steps"].append(step_rec)
     save_task(task)
@@ -251,13 +266,13 @@ def _clear_gate(slug):
         raise PreconditionError("基线 gate 未通过: %s" % json.dumps(report, ensure_ascii=False))
 
 
-AXIS_TOOL = {"q1": "cite_audit.py", "q2": "logic_audit.py",
-             "q3": "grammar_audit.py", "q4": "register_audit.py",
-             "q5": "measure_audit.py", "q6": "punct_audit.py"}
+AXIS_TOOL = {"rv-03": "cite_audit.py", "rv-04": "logic_audit.py",
+             "rv-05": "grammar_audit.py", "rv-06": "register_audit.py",
+             "rv-07": "measure_audit.py", "rv-08": "punct_audit.py"}
 
 
 def _axis_gate(step, zh_doc):
-    """q1–q6 校次挂钩（ADR-0079）：对应扫描器 --gate，未裁定/未登记即拦。
+    """六轴校次挂钩（ADR-0079）：对应扫描器 --gate，未裁定/未登记即拦。
 
     机检只筛，人审为判：--gate 通过只证明清单与裁决字段齐备，不证明内容合格。
     无 zh_doc（词汇表维护等）不设门。
@@ -331,8 +346,8 @@ def _source_gate(slug):
 def source_audit(slug, actor, evidence):
     """在途/done 存量源审计补课（ADR-0052 决策 5、specs/036）。
 
-    向 steps 追加 s0 记录（append-only），状态不迁移；机检门与 advance --step s0
-    同源。pending/cleared 不适用（走 advance --step s0 正常推进）。
+    向 steps 追加 ex-04 记录（append-only），状态不迁移；机检门与 advance --step ex-04
+    （旧名 s0）同源。pending/cleared 不适用（走 advance --step ex-04 正常推进）。
     """
     task = load_task(slug)
     if not task:
@@ -347,35 +362,38 @@ def source_audit(slug, actor, evidence):
         raise PreconditionError("任务被阻塞: %s；先 advance --unblock" % task["blockers"])
     if task["state"] in ("pending", "cleared"):
         raise PreconditionError(
-            "状态 %s 用 advance --step s0 正常推进，source-audit 仅补在途/done 存量"
-            % task["state"])
-    if any(s.get("step") == "s0" for s in task.get("steps", [])):
-        raise PreconditionError("任务历史已有 s0 记录，勿重复补课")
+            "状态 %s 用 advance --step ex-04（旧名 s0）正常推进，"
+            "source-audit 仅补在途/done 存量" % task["state"])
+    if "ex-04" in _history_steps(task):
+        raise PreconditionError("任务历史已有源审计记录（ex-04，原 s0），勿重复补课")
     _source_gate(slug)
-    task["steps"].append({"step": "s0", "status": "ok", "actor": actor,
+    task["steps"].append({"step": "ex-04", "status": "ok", "actor": actor,
                           "at": utcnow_iso(),
                           "evidence": "补课（ADR-0052，状态不迁移）：%s" % evidence})
     save_task(task)
-    _journal_append(task, "s0", "补课（ADR-0052）：%s" % evidence, actor)
+    _journal_append(task, "ex-04", "补课（ADR-0052）：%s" % evidence, actor)
     return task
 
 
 def revert_state(slug, to_state, reason, actor):
-    """受控状态回退原语（026 T0 设计，ADR-0043 目标态；ADR-0063 扩 s2.4）。
+    """受控状态回退原语（026 T0 设计，ADR-0043 目标态；ADR-0063 扩 rv-01）。
 
-    接受 --to {s2.5_checked, s2.4_termchecked}；适用于 state ∈ {s2.5_checked,
-    s3_checked, r1_reviewed, r2_reviewed, r3_reviewed, done}；steps 追加 revert
-    记录（append-only），不触碰正文与既有 steps/evidence。reason 必填（回退依据）。
+    接受 --to {rv-02_checked, rv-01_checked}（旧名 s2.5_checked／s2.4_termchecked
+    仍可作输入别名）；适用于 state ∈ {rv-02_checked, rv-09_checked, sg-01_checked,
+    sg-02_checked, sg-03_checked, done}；steps 追加 revert 记录（append-only），
+    不触碰正文与既有 steps/evidence。reason 必填（回退依据）。
 
     目标态语义同 ADR-0043 既有惯例：置为“该 checkpoint 已完成”，增项须在该状态下补做
-    并留 evidence，随后按正常序列推进（回 s2.4 后下一步是 s25，不是重跑 advance s24）。
+    并留 evidence，随后按正常序列推进（回 rv-01 后下一步是 rv-02，不是重跑 advance rv-01）。
     """
+    from tools import naming_lib
+    to_state = naming_lib.normalize_state(to_state)
     task = load_task(slug)
     if not task:
         raise TaskNotFound(slug)
     if to_state not in REVERT_TARGETS:
-        raise UsageError("revert-state 仅支持 --to %s（由 pipeline checkpoint 推导，ADR-0068 W5）"
-                         % " 或 ".join(REVERT_TARGETS))
+        raise UsageError("revert-state 仅支持 --to %s（由 pipeline checkpoint 推导，ADR-0068 W5；"
+                         "旧状态名亦作别名接受）" % " 或 ".join(REVERT_TARGETS))
     if task.get("kind") == "glossary-maintenance" or task.get("kind") not in ORDER:
         raise PreconditionError("revert-state 不适用于非词条任务")
     if not str(reason or "").strip():
@@ -384,15 +402,14 @@ def revert_state(slug, to_state, reason, actor):
         raise UsageError("actor 必填（写入路径追责字段）")
     if task.get("blockers"):
         raise PreconditionError("任务被阻塞: %s；先 advance --unblock" % task["blockers"])
-    if task["state"] not in ("s2.5_checked", "s3_checked", "r1_reviewed",
-                             "r2_reviewed", "r3_reviewed", "done"):
+    if task["state"] not in ("rv-02_checked", "rv-09_checked", "sg-01_checked",
+                             "sg-02_checked", "sg-03_checked", "done"):
         raise PreconditionError(
-            "revert-state 要求状态 s2.5/s3/r1/r2/r3/done，当前 %s（更早的任务未经回退点，"
-            "按新状态机自然推进）" % task["state"])
-    if to_state == "s2.4_termchecked" and not any(
-            s.get("step") in ("s2", "s24") for s in task.get("steps", [])):
+            "revert-state 要求状态 rv-02/rv-09/sg-01/sg-02/sg-03/done，当前 %s"
+            "（更早的任务未经回退点，按新状态机自然推进）" % task["state"])
+    if to_state == "rv-01_checked" and not (_history_steps(task) & {"tr-04", "rv-01"}):
         raise PreconditionError(
-            "该任务历史无 s2/s24 记录，无法定位 s2.4 回退点（先补链，禁跳步）")
+            "该任务历史无 tr-04/rv-01 记录（原 s2/s24），无法定位 rv-01 回退点（先补链，禁跳步）")
     task["steps"].append({"step": "revert-state", "status": "ok", "actor": actor,
                           "at": utcnow_iso(),
                           "evidence": "回退到 %s；依据：%s" % (to_state, reason)})
@@ -410,9 +427,9 @@ def _audit_independence_gate(task, actor, evidence):
     高危形态，evidence 须记明“冷置”回读或“密度”统计补偿；否则拒绝。旧任务缺首写步
     则跳过（不强溯）。
     """
-    first = "draft" if task.get("kind") == "retranslate" else "s1"
+    first = "tr-02" if task.get("kind") == "retranslate" else "tr-03"
     writer = next((s.get("actor") or "" for s in task.get("steps", [])
-                   if s.get("step") == first), None)
+                   if NODE_MAP.get(s.get("step"), s.get("step")) == first), None)
     if not writer or actor != writer:
         return
     if "冷置" not in (evidence or "") and "密度" not in (evidence or ""):
@@ -462,23 +479,23 @@ def _academic_gate(zh_doc, step):
 def _independence_gate(task, actor, evidence):
     """复核独立性机检（rules/04"复核独立性"、ADR-0020 裁定②混合制）。
 
-    r1–r3 的 actor 全部同于初译 actor（retranslate 取 draft、update 取 s1）时，
-    属单会话形态，须在 r3 evidence 记明"冷置"（先做其他任务再回读）；
-    正常形态由评审线交叉满足（specs/005 §6 评审线接管）。
+    sg-01–sg-03（原 r1–r3）的 actor 全部同于初译 actor（retranslate 取 tr-02、
+    update 取 tr-03）时，属单会话形态，须在 sg-03 evidence 记明"冷置"（先做其他
+    任务再回读）；正常形态由评审线交叉满足（specs/005 §6 评审线接管）。
     旧任务缺首写步则跳过（不强溯）。
     """
-    first = "draft" if task.get("kind") == "retranslate" else "s1"
+    first = "tr-02" if task.get("kind") == "retranslate" else "tr-03"
     writer = next((s.get("actor") or "" for s in task.get("steps", [])
-                   if s.get("step") == first), None)
+                   if NODE_MAP.get(s.get("step"), s.get("step")) == first), None)
     if not writer:
         return
     actors = [s.get("actor") or "" for s in task.get("steps", [])
-              if s.get("step") in ("r1", "r2")]
+              if NODE_MAP.get(s.get("step"), s.get("step")) in ("sg-01", "sg-02")]
     actors.append(actor or "")
     if all(a == writer for a in actors) and "冷置" not in (evidence or ""):
         raise PreconditionError(
-            "复核独立性未满足：r1–r3 与初译 actor（%s）全部相同，单会话形态须在 r3 "
-            "evidence 记明冷置（rules/04 复核独立性；或交评审线交叉 r1–r3，specs/005 §6）"
+            "复核独立性未满足：sg-01–sg-03 与初译 actor（%s）全部相同，单会话形态须在"
+            " sg-03 evidence 记明冷置（rules/04 复核独立性；或交评审线交叉，specs/005 §6）"
             % writer)
 
 

@@ -2,7 +2,7 @@
   "slug": "knowledge-how",
   "kind": "retranslate",
   "zh_doc": "k/knowledge-how.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -60,5 +60,11 @@
     "pubinfo_date": "Apr 20, 2021",
     "archive_edition": "Fall 2022",
     "sha256": "7dea470f51eb16e3e3a44f14a4549fa9a27ebb0861b9537469430aba3516dd91"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

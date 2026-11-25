@@ -55,8 +55,8 @@ class TestLoadJournal(unittest.TestCase):
         # a-full 核心段完成，b-part 在途，c-idle 未开工
         core_done = [s for s, d in passed.items() if progress.CORE <= d]
         self.assertEqual(core_done, ["a-full"])
-        self.assertEqual(node_count.get("s1"), 2)
-        self.assertEqual(node_count.get("R3"), 1)
+        self.assertEqual(node_count.get("tr-03"), 2)  # s1 归一
+        self.assertEqual(node_count.get("sg-03"), 1)  # R3 归一
 
     def test_empty_journal_returns_empty(self):
         passed, node_count = progress.load_journal(self._dir.name)
@@ -70,7 +70,7 @@ class TestLoadJournal(unittest.TestCase):
             {"type": "lock", "sha256": "1" * 64},
         ])
         passed, _ = progress.load_journal(self._dir.name)
-        self.assertEqual(passed["x-mixed"], {"draft"})
+        self.assertEqual(passed["x-mixed"], {"tr-02"})  # draft 归一
 
 
 class TestCountSkeletons(unittest.TestCase):

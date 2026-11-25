@@ -2,7 +2,7 @@
   "slug": "boethius-dacia",
   "kind": "retranslate",
   "zh_doc": "b/boethius-dacia.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Sep 7, 2020",
     "archive_edition": "Fall 2020",
     "sha256": "7d430eae0fd463be73d99176cc9091e8a925ecdc43ecba268cd2d0bda86edbc2"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

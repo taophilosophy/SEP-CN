@@ -2,7 +2,7 @@
   "slug": "faith",
   "kind": "retranslate",
   "zh_doc": "f/faith.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Dec 9, 2023",
     "archive_edition": "Winter 2023",
     "sha256": "90cf1eb0370456e7a7255282125536d1854dae299781eee8e020d7e2a647a889"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

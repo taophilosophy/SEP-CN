@@ -2,7 +2,7 @@
   "slug": "korean-buddhism",
   "kind": "retranslate",
   "zh_doc": "k/korean-buddhism.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Dec 8, 2025",
     "archive_edition": "Summer 2026",
     "sha256": "d2e56ff29cd08646b617869cedc830ecf0f4256099e25a68a521a53efbe1302a"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

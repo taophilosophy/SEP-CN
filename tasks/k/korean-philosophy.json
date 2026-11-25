@@ -2,7 +2,7 @@
   "slug": "korean-philosophy",
   "kind": "retranslate",
   "zh_doc": "k/korean-philosophy.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Jan 14, 2022",
     "archive_edition": "Spring 2022",
     "sha256": "f4cba1f40050549bf5fdfe9be91973ea7f6a6623c7ec8534e757ac652f8e4235"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

@@ -2,7 +2,7 @@
   "slug": "ehrenfels",
   "kind": "retranslate",
   "zh_doc": "e/ehrenfels.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -60,5 +60,11 @@
     "pubinfo_date": "Jun 6, 2025",
     "archive_edition": "Summer 2025",
     "sha256": "265ed0b21eb2265f7c2cb30cba44514c8c8af48dd7c0a5b20ae346da83faa230"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

@@ -2,7 +2,7 @@
   "slug": "descartes-physics",
   "kind": "retranslate",
   "zh_doc": "d/descartes-physics.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Oct 20, 2025",
     "archive_edition": "Winter 2025",
     "sha256": "78a0e2789e67ae44d21a53376e3a1d0eb8d914f8d840a492e562592759d3fbb5"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

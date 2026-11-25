@@ -2,7 +2,7 @@
   "slug": "colonialism",
   "kind": "retranslate",
   "zh_doc": "c/colonialism.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Jan 17, 2023",
     "archive_edition": "Summer 2024",
     "sha256": "3767e3f75699cae9acce833967989d02ec90d6cdc23634ea2c9bea35da40f2a9"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

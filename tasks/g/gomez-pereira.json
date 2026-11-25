@@ -2,7 +2,7 @@
   "slug": "gomez-pereira",
   "kind": "retranslate",
   "zh_doc": "g/gomez-pereira.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Jun 8, 2026",
     "archive_edition": "Summer 2026",
     "sha256": "d1ac566a3c0d8529c3f6020c1f9ae414cba6e4f10e535883578052cf4501bb55"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

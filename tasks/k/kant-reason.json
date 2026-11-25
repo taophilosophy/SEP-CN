@@ -2,7 +2,7 @@
   "slug": "kant-reason",
   "kind": "retranslate",
   "zh_doc": "k/kant-reason.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Jan 4, 2023",
     "archive_edition": "Summer 2024",
     "sha256": "7acafcd15a4a24f271c0cbbb2fcb8b4650dea2eb8d1f36b2534bc642658b9105"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

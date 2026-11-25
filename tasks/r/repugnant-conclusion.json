@@ -2,7 +2,7 @@
   "slug": "repugnant-conclusion",
   "kind": "retranslate",
   "zh_doc": "r/repugnant-conclusion.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -60,5 +60,11 @@
     "pubinfo_date": "Jan 16, 2017",
     "archive_edition": "Spring 2026",
     "sha256": "5e41945efd4bcf668f3689949bdea3fbd643d736299f039ac0e734bbcbb909a0"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:41Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

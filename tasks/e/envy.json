@@ -2,7 +2,7 @@
   "slug": "envy",
   "kind": "retranslate",
   "zh_doc": "e/envy.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Dec 22, 2016",
     "archive_edition": "Spring 2017",
     "sha256": "902392c40a60da4415f020e5fb827f529de5f8171225019b5cb866b2756d036f"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

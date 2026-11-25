@@ -2,7 +2,7 @@
   "slug": "kant-development",
   "kind": "retranslate",
   "zh_doc": "k/kant-development.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -60,5 +60,11 @@
     "pubinfo_date": "Nov 22, 2019",
     "archive_edition": "Summer 2024",
     "sha256": "a7e82dcf78706143c3932ae2fb75fbdbfae565b0f4649e8ff9d38d1ea4989752"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

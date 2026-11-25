@@ -2,7 +2,7 @@
   "slug": "grounding",
   "kind": "retranslate",
   "zh_doc": "g/grounding.md",
-  "state": "drafted",
+  "state": "tr-02_checked",
   "steps": [
     {
       "step": "clear",
@@ -32,5 +32,11 @@
     "pubinfo_date": "Dec 6, 2021",
     "archive_edition": "Summer 2024",
     "sha256": "24f9258128cb068128d40199f69aab7118f594025738e12ca891eaa1ffc47d73"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "drafted",
+    "to": "tr-02_checked",
+    "by": "ADR-0080"
   }
 }

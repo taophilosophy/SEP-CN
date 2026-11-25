@@ -2,7 +2,7 @@
   "slug": "marsilius-inghen",
   "kind": "retranslate",
   "zh_doc": "m/marsilius-inghen.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "direction",
@@ -95,5 +95,11 @@
     "pubinfo_date": "Jul 9, 2025",
     "archive_edition": "Fall 2025",
     "sha256": "56d8e6fdfff56ee097f66f5de9eb0834b5f7ecc8136a4183cd957aa90be11e86"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

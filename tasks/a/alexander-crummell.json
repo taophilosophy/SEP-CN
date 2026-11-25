@@ -2,7 +2,7 @@
   "slug": "alexander-crummell",
   "kind": "retranslate",
   "zh_doc": "a/alexander-crummell.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Dec 19, 2024",
     "archive_edition": "Spring 2025",
     "sha256": "f2e7ad63be7b0a16816e1c22a0b9c5d6030963000158fe4c3481d32965b10a0a"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:39Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

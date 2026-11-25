@@ -2,7 +2,7 @@
   "slug": "certainty",
   "kind": "retranslate",
   "zh_doc": "c/certainty.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Feb 21, 2022",
     "archive_edition": "Spring 2022",
     "sha256": "aee3c7a26bd05e830167a70fa546e990493718af670573c9abd593509564eda9"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

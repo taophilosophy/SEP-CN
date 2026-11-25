@@ -2,7 +2,7 @@
   "slug": "lakatos",
   "kind": "retranslate",
   "zh_doc": "l/lakatos.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Jun 19, 2026",
     "archive_edition": "Summer 2026",
     "sha256": "ed7d067a2c0b7d973f9a59babcee96c74a935a5e4c8a44cf9ea7da1ba9bce8fb"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

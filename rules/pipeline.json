@@ -2,7 +2,7 @@
  "schema": "sep-pipeline/v2",
  "status": "accepted",
  "date": "2026-11-25",
- "revision": "重构：16 节点扩为 22（新增 q1–q6 六轴独立工序，ADR-0079；顺序 s2.5→引文→逻辑→语法→语域→计量→标点→S3；首期 gate_owner=false，T1 升硬）；2026-11-25 补记 S6 对象域双登记（ADR-0079 分析裁定）",
+ "revision": "重构：16 节点扩为 22（新增 q1–q6 六轴独立工序，ADR-0079；顺序 s2.5→引文→逻辑→语法→语域→计量→标点→S3；首期 gate_owner=false，T1 升硬）；2026-11-25 补记 S6 对象域双登记（ADR-0079 分析裁定）；2026-11-25 节点 id 改用 identifier（ex/tr/rv/sg，ADR-0080），旧名转 aliases",
  "note": "本文件管“有哪些工位、每个工位做什么”；journal-schema.json 管“怎么记事件”。二者不重复。",
  "principles": [
   "一个节点只对一个对象负责：对象变了就是两个节点，哪怕工序名相同",
@@ -42,12 +42,11 @@
  },
  "nodes": [
   {
-   "id": "P1",
+   "id": "ex-01",
    "seg": "seg1",
    "type": "pipe",
    "prev": null,
    "mandatory": true,
-   "label": "抓取锁钉",
    "does": [
     "按 baseline/catalog.json 的 URL 请求上游页面（重试、编码、UA）",
     "原样保存 HTML 到 en/<slug>/index.html，不清洗、不加包裹层",
@@ -67,12 +66,11 @@
    "object_class": "source"
   },
   {
-   "id": "P2",
+   "id": "ex-02",
    "seg": "seg1",
    "type": "pipe",
-   "prev": "P1",
+   "prev": "ex-01",
    "mandatory": true,
-   "label": "转换",
    "does": [
     "解析 HTML：DOM 树、文本节点、属性、注释",
     "生成 markdown：标题层级、段落、有序与无序与嵌套列表、表格、公式定界符、脚注、引用块、图片",
@@ -93,12 +91,11 @@
    "object_class": "conversion"
   },
   {
-   "id": "P3",
+   "id": "ex-03",
    "seg": "seg1",
    "type": "pipe",
-   "prev": "P2",
+   "prev": "ex-02",
    "mandatory": true,
-   "label": "保真校验",
    "axes": [
     "结构轴",
     "文字轴"
@@ -123,12 +120,11 @@
    "object_class": "conversion"
   },
   {
-   "id": "s0",
+   "id": "ex-04",
    "seg": "seg1",
    "type": "pipe",
-   "prev": "P3",
+   "prev": "ex-03",
    "mandatory": true,
-   "label": "源完整性",
    "axes": [
     "源本体"
    ],
@@ -154,12 +150,11 @@
    "object_class": "source"
   },
   {
-   "id": "F1",
+   "id": "ex-05",
    "seg": "seg1",
    "type": "format",
-   "prev": "s0",
+   "prev": "ex-04",
    "mandatory": true,
-   "label": "镜像格式闭合",
    "does": [
     "markdown 语法：标题不跳级、表格有对齐行、代码块闭合、公式定界符配对",
     "HTML 实体转义正确（&amp;、&#124;）",
@@ -174,12 +169,11 @@
    "replay_on_change": "widen"
   },
   {
-   "id": "P4",
+   "id": "tr-01",
    "seg": "seg2",
    "type": "stage",
-   "prev": "F1",
+   "prev": "ex-05",
    "mandatory": true,
-   "label": "预处理",
    "does": [
     "术语摘录：从 yuanwen 抽候选术语，与登记册比对，分已定、待定、冲突三类",
     "errata 注入：取该条目的全局勘误条目，把参考读法写进提示词",
@@ -198,12 +192,11 @@
    "object_class": "term"
   },
   {
-   "id": "draft",
+   "id": "tr-02",
    "seg": "seg2",
    "type": "stage",
-   "prev": "P4",
+   "prev": "tr-01",
    "mandatory": true,
-   "label": "初译",
    "does": [
     "step1 忠实初译：逐句对应，不增不减，保留原文语序痕迹",
     "step2 语言优化：去欧化、调语序、润色",
@@ -219,12 +212,11 @@
    "replay_on_change": "replace"
   },
   {
-   "id": "s1",
+   "id": "tr-03",
    "seg": "seg2",
    "type": "stage",
-   "prev": "draft",
+   "prev": "tr-02",
    "mandatory": true,
-   "label": "一校",
    "does": [
     "逐节核销：漏译、错译、增译、未译",
     "事实核查：人名、年代、书名、编号、专名",
@@ -243,12 +235,11 @@
    "object_class": "consistency"
   },
   {
-   "id": "s2",
+   "id": "tr-04",
    "seg": "seg2",
    "type": "stage",
-   "prev": "s1",
+   "prev": "tr-03",
    "mandatory": true,
-   "label": "二校",
    "reconstructed": "判据收窄：不挂 check_style，体例项全部移到 S3，避免两处同档",
    "does": [
     "去欧化：长定语、被动句、倒装、的的不休",
@@ -269,12 +260,11 @@
    "object_class": "grammar"
   },
   {
-   "id": "F2",
+   "id": "tr-05",
    "seg": "seg2",
    "type": "format",
-   "prev": "s2",
+   "prev": "tr-04",
    "mandatory": true,
-   "label": "中文段内格式闭合",
    "does": [
     "标题层级与 SUMMARY 一致",
     "列表标记统一、缩进层级正确",
@@ -290,12 +280,11 @@
    "replay_on_change": "widen"
   },
   {
-   "id": "s2.4",
+   "id": "rv-01",
    "seg": "seg3",
    "type": "stage",
-   "prev": "F2",
+   "prev": "tr-05",
    "mandatory": true,
-   "label": "术语与勘误锁定",
    "axes": [
     "术语轴",
     "勘误轴"
@@ -322,12 +311,11 @@
    "object_class": "term"
   },
   {
-   "id": "global",
+   "id": "rv-02",
    "seg": "seg3",
    "type": "stage",
-   "prev": "s2.4",
+   "prev": "rv-01",
    "mandatory": true,
-   "label": "全局一致性",
    "axes": [
     "全局"
    ],
@@ -359,12 +347,11 @@
    ]
   },
   {
-   "id": "q1",
+   "id": "rv-03",
    "seg": "seg3",
    "type": "stage",
-   "prev": "global",
+   "prev": "rv-02",
    "mandatory": true,
-   "label": "引文锁定",
    "axes": [
     "引文级（成句直引）",
     "原著语种与原文可得性"
@@ -389,12 +376,11 @@
    "object_class": "cite"
   },
   {
-   "id": "q2",
+   "id": "rv-04",
    "seg": "seg3",
    "type": "stage",
-   "prev": "q1",
+   "prev": "rv-03",
    "mandatory": true,
-   "label": "逻辑一致性",
    "axes": [
     "命题骨架",
     "算子与辖域"
@@ -418,12 +404,11 @@
    "object_class": "logic"
   },
   {
-   "id": "q3",
+   "id": "rv-05",
    "seg": "seg3",
    "type": "stage",
-   "prev": "q2",
+   "prev": "rv-04",
    "mandatory": true,
-   "label": "语法",
    "axes": [
     "句法合法性",
     "反欧化",
@@ -447,12 +432,11 @@
    "object_class": "grammar"
   },
   {
-   "id": "q4",
+   "id": "rv-06",
    "seg": "seg3",
    "type": "stage",
-   "prev": "q3",
+   "prev": "rv-05",
    "mandatory": true,
-   "label": "语域",
    "axes": [
     "五档标尺",
     "语气一致"
@@ -475,12 +459,11 @@
    "object_class": "register"
   },
   {
-   "id": "q5",
+   "id": "rv-07",
    "seg": "seg3",
    "type": "stage",
-   "prev": "q4",
+   "prev": "rv-06",
    "mandatory": true,
-   "label": "计量",
    "axes": [
     "量值-单位",
     "数字形态"
@@ -504,12 +487,11 @@
    "object_class": "measure"
   },
   {
-   "id": "q6",
+   "id": "rv-08",
    "seg": "seg3",
    "type": "stage",
-   "prev": "q5",
+   "prev": "rv-07",
    "mandatory": true,
-   "label": "标点",
    "axes": [
     "十七种标点",
     "邻接与禁则"
@@ -533,12 +515,11 @@
    "object_class": "punct"
   },
   {
-   "id": "S3",
+   "id": "rv-09",
    "seg": "seg3",
    "type": "stage",
-   "prev": "q6",
+   "prev": "rv-08",
    "mandatory": true,
-   "label": "体例终校",
    "reconstructed": "由“s3 三校”正名并扩容：吸收原 s2.4 体例轴、原 s3、原 F3、原 X1 的单件可判部分；check_style 由挂三处收敛为唯一硬拦点",
    "does": [
     "引号形态（弯引号）、中西文之间空格",
@@ -566,12 +547,11 @@
    "object_class": "format"
   },
   {
-   "id": "R1",
+   "id": "sg-01",
    "seg": "seg3",
    "type": "review",
-   "prev": "S3",
+   "prev": "rv-09",
    "mandatory": true,
-   "label": "受众适切性",
    "reconstructed": "改判据：从“对照原文自审 + 通读语体”（等于重做 s1+s2）改为 MQM 的 Verity 维度",
    "does": [
     "抽 3 至 5 段，假设读者为哲学专业本科生，判断能否读懂",
@@ -591,12 +571,11 @@
    "object_class": "review"
   },
   {
-   "id": "R2",
+   "id": "sg-02",
    "seg": "seg3",
    "type": "review",
-   "prev": "R1",
+   "prev": "sg-01",
    "mandatory": true,
-   "label": "连贯性",
    "reconstructed": "改判据：从“逐句回核原文”（等于 s1）改为逻辑链与跨节连贯",
    "does": [
     "全文逻辑链：论证步骤是否连贯、有无跳跃",
@@ -616,12 +595,11 @@
    "object_class": "review"
   },
   {
-   "id": "R3",
+   "id": "sg-03",
    "seg": "seg3",
    "type": "review",
-   "prev": "R2",
+   "prev": "sg-02",
    "mandatory": true,
-   "label": "交付验收",
    "does": [
     "CI 全绿（14 项门禁）",
     "交付清单完整：正文、图片、脚注、书目、SUMMARY、H1",
@@ -647,18 +625,18 @@
  ],
  "mandatory_minimum": {
   "nodes": [
-   "s0",
-   "s2.4",
-   "global",
-   "R1",
-   "R2",
-   "R3",
-   "q1",
-   "q2",
-   "q3",
-   "q4",
-   "q5",
-   "q6"
+   "ex-04",
+   "rv-01",
+   "rv-02",
+   "sg-01",
+   "sg-02",
+   "sg-03",
+   "rv-03",
+   "rv-04",
+   "rv-05",
+   "rv-06",
+   "rv-07",
+   "rv-08"
   ],
   "rule": "任何 attempt 合回主干前，nodes 必须全部 pass；分支内自审不可替代",
   "note": "R1 至 R3 是最小集不是全集：可增，不可减"
@@ -666,82 +644,82 @@
  "criteria_owner": {
   "note": "每个检查器的硬拦点唯一；非 gate_owner 的挂载只做辅助，不决定退出码",
   "fetch_audit": [
-   "P1"
+   "ex-01"
   ],
   "check_en_patches": [
-   "P2"
+   "ex-02"
   ],
   "divergence": [
-   "P2"
+   "ex-02"
   ],
   "check_yuanwen_fidelity": [
-   "P3"
+   "ex-03"
   ],
   "en_integrity": [
-   "s0"
+   "ex-04"
   ],
   "en_source_audit": [
-   "s0"
+   "ex-04"
   ],
   "check_terms": [
-   "s2.4"
+   "rv-01"
   ],
   "check_pairs": [
-   "s1"
+   "tr-03"
   ],
   "errata_check": [
-   "s2.4"
+   "rv-01"
   ],
   "check_prose": [
-   "s2"
+   "tr-04"
   ],
   "check_math_zh": [
-   "global"
+   "rv-02"
   ],
   "check_quotes": [
-   "global"
+   "rv-02"
   ],
   "check_tables_images": [
-   "global"
+   "rv-02"
   ],
   "check_academic": [
-   "global"
+   "rv-02"
   ],
   "check_style": [
-   "S3"
+   "rv-09"
   ],
   "check_images": [
-   "S3"
+   "rv-09"
   ],
   "check_summary": [
-   "S3"
+   "rv-09"
   ],
   "ci_all": [
-   "R3"
+   "sg-03"
   ],
   "cite_audit": [
-   "q1"
+   "rv-03"
   ],
   "logic_audit": [
-   "q2"
+   "rv-04"
   ],
   "grammar_audit": [
-   "q3"
+   "rv-05"
   ],
   "register_audit": [
-   "q4"
+   "rv-06"
   ],
   "measure_audit": [
-   "q5"
+   "rv-07"
   ],
   "punct_audit": [
-   "q6"
+   "rv-08"
   ],
   "review-verity": [
-   "R1"
+   "sg-01"
   ],
   "review-coherence": [
-   "R2"
+   "sg-02"
   ]
  },
  "migration": {

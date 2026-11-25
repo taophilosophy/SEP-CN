@@ -2,7 +2,7 @@
   "slug": "xunzi",
   "kind": "retranslate",
   "zh_doc": "x/xunzi.md",
-  "state": "drafted",
+  "state": "tr-02_checked",
   "steps": [
     {
       "step": "clear",
@@ -32,5 +32,11 @@
     "pubinfo_date": "Jun 2, 2025",
     "archive_edition": "Summer 2025",
     "sha256": "aff334f830e9497e9be219b103592fc5c7e0edf5035796bb2b41033b10d9dc18"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:41Z",
+    "from": "drafted",
+    "to": "tr-02_checked",
+    "by": "ADR-0080"
   }
 }

@@ -2,7 +2,7 @@
   "slug": "binarium",
   "kind": "retranslate",
   "zh_doc": "b/binarium.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Jun 16, 2008",
     "archive_edition": "Fall 2008",
     "sha256": "c0494a7ba7c25f8e00253afee0db1d802dea16a49eb2cb4c64605b807506505d"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

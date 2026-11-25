@@ -2,7 +2,7 @@
   "slug": "vaihinger",
   "kind": "retranslate",
   "zh_doc": "v/vaihinger.md",
-  "state": "drafted",
+  "state": "tr-02_checked",
   "steps": [
     {
       "step": "clear",
@@ -32,5 +32,11 @@
     "pubinfo_date": "Jan 23, 2020",
     "archive_edition": "Spring 2020",
     "sha256": "e23b0a599864af9652d9675d69d785272d5a2d51af3ed75b8c15ab8dc7cc8fa5"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:41Z",
+    "from": "drafted",
+    "to": "tr-02_checked",
+    "by": "ADR-0080"
   }
 }

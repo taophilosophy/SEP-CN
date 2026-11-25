@@ -2,7 +2,7 @@
   "slug": "belief-merging",
   "kind": "retranslate",
   "zh_doc": "b/belief-merging.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Jun 9, 2025",
     "archive_edition": "Summer 2025",
     "sha256": "494d5518f0416f74baa722ecee0c022e2b0a5ba5b13076d7c007937e60d09990"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

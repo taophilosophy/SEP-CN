@@ -2,7 +2,7 @@
   "slug": "logical-consequence",
   "kind": "retranslate",
   "zh_doc": "l/logical-consequence.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "May 17, 2024",
     "archive_edition": "Spring 2026",
     "sha256": "c122ae54b4a676ed2bb66d2ed541f8868431fabc2db5e919f211bb32b0d0e990"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

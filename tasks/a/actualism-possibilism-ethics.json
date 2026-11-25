@@ -2,7 +2,7 @@
   "slug": "actualism-possibilism-ethics",
   "kind": "retranslate",
   "zh_doc": "a/actualism-possibilism-ethics.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -102,5 +102,11 @@
     "pubinfo_date": "May 20, 2019",
     "archive_edition": "Fall 2020",
     "sha256": "b69db0a3fff7a50c8d34a13e15901168a603b769fab52a7f55ac2dff1aebabe1"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:39Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

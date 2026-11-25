@@ -17,37 +17,18 @@ except (AttributeError, ValueError, OSError):
     pass
 
 from tools.common import read_text, repo_path, write_text_verified  # noqa: E402
+from tools import naming_lib  # noqa: E402
 
-# step 短名 → pipeline 节点 id（命令面短名到节点 id 的稳定映射，非顺序）
-NODE_MAP = {
-    "s0": "s0", "draft": "draft", "s1": "s1", "s2": "s2",
-    "s24": "s2.4", "s25": "global", "audit": "global", "s3": "S3",
-    "q1": "q1", "q2": "q2", "q3": "q3", "q4": "q4", "q5": "q5", "q6": "q6",
-    "r1": "R1", "r2": "R2", "r3": "R3",
-}
+# step 拼写（identifier／name／历史别名／CLI 短名）→ 节点 identifier（ADR-0080）。
+# 新事件一律写 identifier；旧事件里的历史名经同一张表反查。
+NODE_MAP = dict(naming_lib.load()["_by_alias"])
 
-# pipeline 节点 id → task_ops 状态名（状态名全保留，ADR-0068 零迁移）
-NODE_TO_STATE = {
-    "s0": "s0_source_checked",
-    "draft": "drafted",
-    "s1": "s1_checked",
-    "s2": "s2_checked",
-    "s2.4": "s2.4_termchecked",
-    "global": "s2.5_checked",
-    "q1": "q1_cite_checked",
-    "q2": "q2_logic_checked",
-    "q3": "q3_grammar_checked",
-    "q4": "q4_register_checked",
-    "q5": "q5_measure_checked",
-    "q6": "q6_punct_checked",
-    "S3": "s3_checked",
-    "R1": "r1_reviewed",
-    "R2": "r2_reviewed",
-    "R3": "r3_reviewed",
-}
+# 节点 identifier → 状态名（identifier＋_checked；旧状态名进 naming.json 的 state_aliases）
+NODE_TO_STATE = {n["identifier"]: n["state"]
+                 for n in naming_lib.load().get("nodes", []) if n.get("state")}
 
 # 回退 checkpoint：从这些节点重走（对应 ADR-0043/0063 的受控回退语义）
-REVERT_CHECKPOINTS = ("s2.4", "global")
+REVERT_CHECKPOINTS = tuple(naming_lib.load().get("revert_checkpoints") or ())
 
 JOURNAL_DIR = None  # 可注入（测试用）；默认 <repo>/journal
 
@@ -104,9 +85,10 @@ def step_to_event(step_name, evidence="", at="", actor="migrate", attempt="main"
     if step_name == "revert-state":
         import re
         to = None
-        m = re.search(r"回退到\s*([A-Za-z0-9._]+)", evidence or "")
+        m = re.search(r"回退到\s*([A-Za-z0-9._\-]+)", evidence or "")
         if m:
-            to = {"s2.4_termchecked": "s2.4", "s2.5_checked": "global"}.get(m.group(1))
+            # 证据文本可能是旧状态名或新状态名：统一经 naming.json 归一到 identifier
+            to = naming_lib.node_of_state(m.group(1))
         return {"type": "rework", "from_node": to,
                 "reason": (evidence or "")[:200],
                 "at": at, "actor": actor, "attempt": attempt}

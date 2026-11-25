@@ -2,7 +2,7 @@
   "slug": "logic-fuzzy",
   "kind": "retranslate",
   "zh_doc": "l/logic-fuzzy.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Nov 11, 2021",
     "archive_edition": "Summer 2023",
     "sha256": "dda00ba425fc31648f9553e88d53845383c496edd740d9e38f39952213c041c7"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

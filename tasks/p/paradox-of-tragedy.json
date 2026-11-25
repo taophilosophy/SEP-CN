@@ -2,7 +2,7 @@
   "slug": "paradox-of-tragedy",
   "kind": "retranslate",
   "zh_doc": "p/paradox-of-tragedy.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Jan 13, 2025",
     "archive_edition": "Spring 2025",
     "sha256": "6c523af240fd428d0bf4351d6cc1c5df08188c1c1acd1760f44ed9df29cf9ddd"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:41Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

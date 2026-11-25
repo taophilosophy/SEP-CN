@@ -2,7 +2,7 @@
   "slug": "concept-emotion-india",
   "kind": "retranslate",
   "zh_doc": "c/concept-emotion-india.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Oct 30, 2025",
     "archive_edition": "Winter 2025",
     "sha256": "596e69290fcd10b2d4c2bd410336135e9397c8dd71cb86c91eaea9761d320a45"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

@@ -2,7 +2,7 @@
   "slug": "montessori-maria",
   "kind": "retranslate",
   "zh_doc": "m/montessori-maria.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Feb 23, 2025",
     "archive_edition": "Spring 2025",
     "sha256": "bd47d35a1cd00a6ffa30dbe61fe5066cd8238411f2802be2d5ffbd1b69dccf89"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

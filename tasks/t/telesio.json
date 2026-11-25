@@ -2,7 +2,7 @@
   "slug": "telesio",
   "kind": "retranslate",
   "zh_doc": "t/telesio.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -74,5 +74,11 @@
     "pubinfo_date": "Jan 4, 2023",
     "archive_edition": "Spring 2023",
     "sha256": "7c613f3f7f359aa94f3a1086200486c45638aec98c2ccd4caa88e6085564bcb2"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:41Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

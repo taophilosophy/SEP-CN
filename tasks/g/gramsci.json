@@ -2,7 +2,7 @@
   "slug": "gramsci",
   "kind": "retranslate",
   "zh_doc": "g/gramsci.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Jan 13, 2023",
     "archive_edition": "Spring 2023",
     "sha256": "a8b12b60969ac4b04ae1c7d2b44fc7d5b46212e8e4c72ec04bc8eb679fd24e9e"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

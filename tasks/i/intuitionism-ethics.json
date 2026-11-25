@@ -2,7 +2,7 @@
   "slug": "intuitionism-ethics",
   "kind": "retranslate",
   "zh_doc": "i/intuitionism-ethics.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Jul 27, 2026",
     "archive_edition": "Fall 2026",
     "sha256": "f356ccd1c99a604fb4680790d9b30869aa552f57a60528379f54a24f7182e7cf"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

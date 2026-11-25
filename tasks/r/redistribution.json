@@ -2,7 +2,7 @@
   "slug": "redistribution",
   "kind": "retranslate",
   "zh_doc": "r/redistribution.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "direction",
@@ -95,5 +95,11 @@
     "pubinfo_date": "Feb 7, 2018",
     "archive_edition": "Spring 2018",
     "sha256": "26cabfd26b309d969dcb8370a5ecd4fba630a3f034f45c96f092b4a52e9f9af7"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:41Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

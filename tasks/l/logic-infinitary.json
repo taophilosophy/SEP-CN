@@ -2,7 +2,7 @@
   "slug": "logic-infinitary",
   "kind": "retranslate",
   "zh_doc": "l/logic-infinitary.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Sep 6, 2023",
     "archive_edition": "Fall 2023",
     "sha256": "f28c5568028a79b4b1387a75448478eaeec4ea976272b034dbfaedce42797473"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

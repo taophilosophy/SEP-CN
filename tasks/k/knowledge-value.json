@@ -2,7 +2,7 @@
   "slug": "knowledge-value",
   "kind": "retranslate",
   "zh_doc": "k/knowledge-value.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Oct 1, 2026",
     "archive_edition": null,
     "sha256": "cf4572a059a39f6c248fdbbd9ba536fae3bf1e1acccfba4bf25f52e93f12f172"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

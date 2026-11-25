@@ -2,7 +2,7 @@
   "slug": "biology-philosophy",
   "kind": "retranslate",
   "zh_doc": "b/biology-philosophy.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Oct 19, 2024",
     "archive_edition": "Winter 2024",
     "sha256": "d0cb854a374db7230d7ccfef0c01ec46feb7de7c58d13c985814a52204966210"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

@@ -2,7 +2,7 @@
   "slug": "cordemoy",
   "kind": "retranslate",
   "zh_doc": "c/cordemoy.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "May 7, 2026",
     "archive_edition": "Summer 2026",
     "sha256": "628995ab0a150cf0c69ff3a235df1968c72b7d72ca5b2604d984e06ab7747960"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

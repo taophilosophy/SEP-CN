@@ -2,7 +2,7 @@
   "slug": "necessary-sufficient",
   "kind": "retranslate",
   "zh_doc": "n/necessary-sufficient.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Jul 6, 2022",
     "archive_edition": "Summer 2024",
     "sha256": "31d2896a034b08d7cc4be397b3e728d8d54a55b150bb902d4dc8684dea4d9356"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

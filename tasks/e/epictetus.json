@@ -2,7 +2,7 @@
   "slug": "epictetus",
   "kind": "retranslate",
   "zh_doc": "e/epictetus.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Jul 16, 2025",
     "archive_edition": "Fall 2025",
     "sha256": "ecd01d482e1aeac1e1c49fc9555cb406aae08fe3479426e044fc45e60cc0f183"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

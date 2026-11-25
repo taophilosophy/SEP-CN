@@ -2,7 +2,7 @@
   "slug": "montesquieu",
   "kind": "retranslate",
   "zh_doc": "m/montesquieu.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "direction",
@@ -95,5 +95,11 @@
     "pubinfo_date": "Apr 2, 2014",
     "archive_edition": "Winter 2018",
     "sha256": "8fd26789d2b1f5463c69a611e24cbeea7dead57a768ad91dc60b45fe28509684"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

@@ -2,7 +2,7 @@
   "slug": "anscombe",
   "kind": "retranslate",
   "zh_doc": "a/anscombe.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "May 30, 2022",
     "archive_edition": "Spring 2026",
     "sha256": "49e68ba6323d032ddef8840b3dd6c220cea8fdc8ce36d2ca89c2c184fdf0c7a1"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:39Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

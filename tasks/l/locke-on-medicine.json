@@ -2,7 +2,7 @@
   "slug": "locke-on-medicine",
   "kind": "retranslate",
   "zh_doc": "l/locke-on-medicine.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Oct 14, 2024",
     "archive_edition": "Winter 2024",
     "sha256": "186d294e7d01629926b7e845926987db9db0b427d86ecab2a0a45efc2e7fe447"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

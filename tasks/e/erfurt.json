@@ -2,7 +2,7 @@
   "slug": "erfurt",
   "kind": "retranslate",
   "zh_doc": "e/erfurt.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -95,5 +95,11 @@
     "pubinfo_date": "Sep 11, 2023",
     "archive_edition": "Fall 2023",
     "sha256": "d0c75fb8e334ae8fa11c76ef9a45838fa948d2f3431e6859b6c70c58ce3aa36c"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

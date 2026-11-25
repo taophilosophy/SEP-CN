@@ -2,7 +2,7 @@
   "slug": "evolution",
   "kind": "retranslate",
   "zh_doc": "e/evolution.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "May 27, 2026",
     "archive_edition": "Summer 2026",
     "sha256": "40b4ff0e4d52825b0bb7ce3999f2c01a34536665b1c422ea16399dcf7508499b"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

@@ -2,7 +2,7 @@
   "slug": "axiom-choice",
   "kind": "retranslate",
   "zh_doc": "a/axiom-choice.md",
-  "state": "drafted",
+  "state": "tr-02_checked",
   "steps": [
     {
       "step": "clear",
@@ -32,5 +32,11 @@
     "pubinfo_date": "Dec 10, 2021",
     "archive_edition": "Winter 2021",
     "sha256": "4a723bef8246464d1506436bcf37b6dc8ceba6803b397435f51baa5b669e9c8f"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "drafted",
+    "to": "tr-02_checked",
+    "by": "ADR-0080"
   }
 }

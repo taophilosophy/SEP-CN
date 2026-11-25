@@ -2,7 +2,7 @@
   "slug": "identity-ethics",
   "kind": "retranslate",
   "zh_doc": "i/identity-ethics.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "s1",
@@ -74,5 +74,11 @@
     "pubinfo_date": "Jun 30, 2025",
     "archive_edition": "Winter 2025",
     "sha256": "c625abc07a0bc5239d7e61c646728d2debc858c294e7bcbcbd7964ff2dfa8780"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

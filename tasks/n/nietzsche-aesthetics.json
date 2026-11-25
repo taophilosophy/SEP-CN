@@ -2,7 +2,7 @@
   "slug": "nietzsche-aesthetics",
   "kind": "retranslate",
   "zh_doc": "n/nietzsche-aesthetics.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Feb 14, 2025",
     "archive_edition": "Spring 2025",
     "sha256": "4355ab7292d0a96a4914ee53cc3992d606303160a0d980ef79daab8531ae908c"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:41Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

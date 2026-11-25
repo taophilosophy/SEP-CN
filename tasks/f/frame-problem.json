@@ -2,7 +2,7 @@
   "slug": "frame-problem",
   "kind": "retranslate",
   "zh_doc": "f/frame-problem.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Feb 8, 2016",
     "archive_edition": "Spring 2016",
     "sha256": "d05100fc96e747266a1abe731df07846c100fe3c3bf77d4c251412a738b3ed94"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

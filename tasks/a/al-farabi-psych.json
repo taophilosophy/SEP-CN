@@ -2,7 +2,7 @@
   "slug": "al-farabi-psych",
   "kind": "retranslate",
   "zh_doc": "a/al-farabi-psych.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Jun 5, 2024",
     "archive_edition": "Summer 2024",
     "sha256": "9cfef2e44ba814db51d70f8b2a5d216f4048936fcba310ed357fa82cd8b386d4"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:39Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

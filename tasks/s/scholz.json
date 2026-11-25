@@ -2,7 +2,7 @@
   "slug": "scholz",
   "kind": "retranslate",
   "zh_doc": "s/scholz.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Dec 19, 2022",
     "archive_edition": "Winter 2022",
     "sha256": "61fbec3e10e3d43a2b62626da19ec209e63b692834ccdb5b8421be6fea113f9d"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:41Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

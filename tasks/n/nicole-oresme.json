@@ -2,7 +2,7 @@
   "slug": "nicole-oresme",
   "kind": "retranslate",
   "zh_doc": "n/nicole-oresme.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -95,5 +95,11 @@
     "pubinfo_date": "Dec 17, 2025",
     "archive_edition": "Winter 2025",
     "sha256": "3b1081414d8ed660d04387dba203276930a14e34d8cd902542d6cce435260b28"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:41Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

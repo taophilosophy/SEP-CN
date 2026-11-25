@@ -2,7 +2,7 @@
   "slug": "leucippus",
   "kind": "retranslate",
   "zh_doc": "l/leucippus.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Jan 9, 2023",
     "archive_edition": "Spring 2023",
     "sha256": "a35765e3d545787be7cb397f8dc85947f97fa84f38cdd807e26af88bf546c2b8"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

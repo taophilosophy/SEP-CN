@@ -2,7 +2,7 @@
   "slug": "godwin",
   "kind": "retranslate",
   "zh_doc": "g/godwin.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Mar 24, 2025",
     "archive_edition": "Summer 2025",
     "sha256": "a4253bc73d1e52cdbaa5038c1510b23da3ff04d7542388cacc7ba01b293ca3de"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

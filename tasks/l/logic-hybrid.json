@@ -2,7 +2,7 @@
   "slug": "logic-hybrid",
   "kind": "retranslate",
   "zh_doc": "l/logic-hybrid.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Dec 22, 2021",
     "archive_edition": "Summer 2024",
     "sha256": "bf7046faf0c93fb29504c72a6bbe1d3f8cde86929f522e154a1ac74b151de6be"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

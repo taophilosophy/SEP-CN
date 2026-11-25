@@ -14,13 +14,13 @@
 | `check_style.py` | 体例检查（引号、quote-spacing、空格、HTML/AsciiDoc 残留、italic-cjk；输出 JSON）；`--connector-scan` 连接号形态告警（connector-form，GB/T 15834 §4.13，ADR-0041，告警级不进 CI） |
 | `check_prose.py` | 语言质量预检（ADR-0020，**告警级**，不进 CI）：长句、被动、弱动词、“的”链、类名“们”、作为一个、存在着、当…的时候 八则＋时态词冗余、并列连词接动词、“成功地” 三则（2026-11-14 扩项，specs/027）反欧化模式；输出 JSON，默认退出码 0，`--strict` 升硬 |
 | `axis_lib.py` | 六轴工序共享库（ADR-0079，非 CLI）：保护域掩码（代码/公式/URL/参考文献）、散句与段落块、直引抽取、语种判定（BCP 47 映射）、目标枚举 |
-| `cite_audit.py` | q1 引文锁定（ADR-0079）：直引清单与 `state/axis/<slug>.cite.json`；`--init` 生清单、`--gate` 校 C-1/C-2/C-6/C-7、`--check-hash` 守恒核对 |
-| `logic_audit.py` | q2 逻辑一致性（ADR-0079）：逐句骨架 `state/axis/<slug>.logic.jsonl`＋算子配对初筛（all/some/no/not/if/unless/must/should/may）；只产候选，人审为判 |
-| `grammar_audit.py` | q3 语法（ADR-0079）：句法三型启发式＋复用 `check_prose` 十一条（映射 G-9…G-16）＋和制汉语词表（G-17…G-19）；`--init` 写 `state/axis/<slug>.grammar.json` |
-| `register_audit.py` | q4 语域（ADR-0079）：逐节档位骨架＋文言/口语/称谓候选（R-d/R-e/R-f）；语义判断归人审 |
-| `measure_audit.py` | q5 计量（ADR-0079）：单位白名单与量纲（`tools/data/units.json`）、数值-单位空格、同量单位集合、数值范围连接号；`--init` 写 `state/axis/<slug>.measure.json` |
-| `punct_audit.py` | q6 标点（ADR-0079）：GB/T 15834 十七种标点机检子集（条款映射 `tools/data/punct-rules.json`）；`--init` 写 `state/axis/<slug>.punct.json` |
-| `qchain.py` | 六轴编排器（ADR-0079）：依次跑 q1–q6 出工单 `state/axis/qchain-latest.json`；只编排不裁判 |
+| `cite_audit.py` | rv-03 引文锁定（ADR-0079）：直引清单与 `state/axis/<slug>.cite.json`；`--init` 生清单、`--gate` 校 C-1/C-2/C-6/C-7、`--check-hash` 守恒核对 |
+| `logic_audit.py` | rv-04 逻辑一致性（ADR-0079）：逐句骨架 `state/axis/<slug>.logic.jsonl`＋算子配对初筛（all/some/no/not/if/unless/must/should/may）；只产候选，人审为判 |
+| `grammar_audit.py` | rv-05 语法（ADR-0079）：句法三型启发式＋复用 `check_prose` 十一条（映射 G-9…G-16）＋和制汉语词表（G-17…G-19）；`--init` 写 `state/axis/<slug>.grammar.json` |
+| `register_audit.py` | rv-06 语域（ADR-0079）：逐节档位骨架＋文言/口语/称谓候选（R-d/R-e/R-f）；语义判断归人审 |
+| `measure_audit.py` | rv-07 计量（ADR-0079）：单位白名单与量纲（`tools/data/units.json`）、数值-单位空格、同量单位集合、数值范围连接号；`--init` 写 `state/axis/<slug>.measure.json` |
+| `punct_audit.py` | rv-08 标点（ADR-0079）：GB/T 15834 十七种标点机检子集（条款映射 `tools/data/punct-rules.json`）；`--init` 写 `state/axis/<slug>.punct.json` |
+| `qchain.py` | 六轴编排器（ADR-0079）：依次跑 rv-03–rv-08 出工单 `state/axis/qchain-latest.json`；只编排不裁判 |
 | `check_render_artifacts.py` | 渲染产物残留物扫描（ADR-0019）：对构建产物 HTML 做文本级检查——裸 `**`（星内空格粗体永不渲染）、字面 `[^`（脚注配对失效）、`](`链接残留、数学哨兵 `@@M`；代码块/预排块内字面量豁免。分期转硬门禁（`raw[^` 待镜像脚注修复后纳入） |
 | `check_images.py` | 图片引用检查（rules/01 图片三条硬性要求）：悬空引用、大小写不符（Windows 不敏感/CI 404）、外部地址、`assets/` 未引用资产；`/...` 站点绝对路径单列**告警**（非本仓相对引用，多来自抄录的上游 HTML，不入硬门）；跳过代码块与行内代码，`yuanwen/` 缺位（CI）时跳过镜像引用；报告写 `state/image-report.md`（本地）或 `image-report.md`（CI 开 issue 用），无问题即清除旧报告，默认退出码 0；`--gate` 时悬空/大小写/外链任一 >0 退出 1（check_all 与 CI 门禁用） |
 | `check_summary.py` | SUMMARY.md 结构审计（条目解析、缺失文件、孤儿文件、命名、重复）＋ H1 一致性硬门禁（SUMMARY 条目文字 ↔ 文件 H1，ADR-0024）＋ 别名行英文完整标题硬门禁（`alias fragment`，ADR-0024）；硬错误退出码 1；`--headers` 只查标题（CI 用），`--sync-headers` 按 SUMMARY 同步 H1（本地用，写回后跑残差门） |
@@ -39,20 +39,20 @@
 | `compare.py` | 段落级变更比较（spec 001 US-3）：抓取英文源最新快照（不覆盖 en/ 基线）与基线比较，节级 added/removed/moved + 段落级 diff，映射中文文档与节行号；无 zh_doc 标注待建任务 |
 | `fetch_audit.py` | 抓取完整性主动闭环：校验每词条包内全部被引用资产在包内，缺件自动补抓（404=缺省件登记）；引用闭包迭代至不动点（一切形如文件名的裸引用皆词条资产——页面/图片/词条自有 js/css/媒体；注释剥离＋实体反解后统计，与浏览器语义一致） |
 | `en_integrity.py` | 英文镜像逐词条深度复核（纯离线）：页面真实性（SEP 签名/截断/零字节）、引用闭包按上游 URL 语义解析（大小写精确、跨词条与子目录资产）、目录结构一致性（在盘文件＝被引用（含跨词条入站）∪已登记，否则游离）、数学形态盘点；全量凭证 `specs/001-sep-sync-pipeline/en-integrity-full.json` |
-| `biblio_audit.py` | 参考文献结构盘点与中文文献定位（ADR-0011）：条目量/链接域统计；三探针（实体解码汉字/典籍专名/作者位拼音）标出需按 ADR-0011 还原的词条与条目，供 s1 一校与质检定位 |
+| `biblio_audit.py` | 参考文献结构盘点与中文文献定位（ADR-0011）：条目量/链接域统计；三探针（实体解码汉字/典籍专名/作者位拼音）标出需按 ADR-0011 还原的词条与条目，供 tr-03 一校与质检定位 |
 | `cnki_query.py` | 术语依据查询（ADR-0012 译名依据源）：知网系权威源（CNKI 翻译助手、术语在线）在线查询与缓存；2026-11-14 起为存量凭证通道，不再新增查询（rules/03） |
 | `term_audit.py` / `term_harvest.py` | 术语战役工具（specs/008）：登记册审计与候选收割（008 池裁定流水线） |
 | `campaign.py` | 全局统计表与批次调度（specs/005 并行设计）：a–z 批次账本（认领/阶段/断点续上），计数实时推导零漂移，多会话独立无耦合 |
-| `check_math_zh.py` | 译文侧公式体例门禁（021 战役，D26 接线）：C1 宏残留/C2 内侧空白/C3 不可见字符/C4 未转义 %#/C5 中文入公式/C6 裸 $/C7 未转义货币/C8 英连接语/C9 散文 `\\(` 九类；默认 C1–C6+C8 硬错误，`--strict` 加 C7/C9（check_all 与 s3/r3 任务门用 strict） |
+| `check_math_zh.py` | 译文侧公式体例门禁（021 战役，D26 接线）：C1 宏残留/C2 内侧空白/C3 不可见字符/C4 未转义 %#/C5 中文入公式/C6 裸 $/C7 未转义货币/C8 英连接语/C9 散文 `\\(` 九类；默认 C1–C6+C8 硬错误，`--strict` 加 C7/C9（check_all 与 rv-09/sg-03 任务门用 strict） |
 | `check_pairs.py` | 格式配对与一致性预检（ADR-0046，**告警级**，不进 CI）：全角括号/书名号配对与方向（序次语 N）豁免）、文内作者-年份引注与书目一致（en 书目交叉、破折号承接链）、书目键重复、节/书目/公式数量对照（zh vs en/yuanwen）、相对链接悬空、出版信息行形态、省略号六连点；输出 JSON，默认退出码 0，`--strict` 升硬 |
 | `check_all.py` | 一键全量合规复核（门禁项数以 `--list-gates` 为准，ADR-0061/0067；`--all` 另加 baseline_audit、en_integrity 与 divergence --deep；`--quiet` 只报失败）；`--list-gates` 输出 CI 门禁矩阵 JSON（`checks.yml` 的唯一数据源，改门禁只改 `GATES`）；收工前/推审前跑一次 |
 | `check_layout.py` | 目录布局一致性门禁（ADR-0067）：`rules/layout.json` 为唯一事实源，L1 根⊆声明／L2 `rules/01` 表≡源（双向）／L3 容器有索引或写明理由的 `index_exempt`／L4 specs 容器 schema（必需 `spec.md`、禁 `tmp/`、规格根禁 JSON、`execution-log` 两形态不并存）；只读，`--json` 出机读 |
 | `spec_index.py` | 生成 `specs/README.md` 索引（ADR-0067，生成物不手改）；`--check` 只校验一致性（CI 可用） |
-| `indep_review.py` | 形态横向清账扫描器（ADR-0047，s3 前置独立步骤，**告警级**，不进 CI）：六类判据 `bib-heading-form`（参考文献节名正典，W7）、`pubinfo-form`（出版信息行形态＋与 en 源有无一致，W8）、`bib-subsection`（文献分类子标题丢失）、`style`（check_style 全则，O1）、`quote-adjacent`（引号↔西文邻接，O2，脚注键/链接/转写撇号已遮蔽）、`pairs`（ADR-0046 七则）；默认只扫已译集合，`--letter` 分字头、`--class` 单类、`--all-files` 含存根、`--classes` 列判据 |
+| `indep_review.py` | 形态横向清账扫描器（ADR-0047，rv-09 前置独立步骤，**告警级**，不进 CI）：六类判据 `bib-heading-form`（参考文献节名正典，W7）、`pubinfo-form`（出版信息行形态＋与 en 源有无一致，W8）、`bib-subsection`（文献分类子标题丢失）、`style`（check_style 全则，O1）、`quote-adjacent`（引号↔西文邻接，O2，脚注键/链接/转写撇号已遮蔽）、`pairs`（ADR-0046 七则）；默认只扫已译集合，`--letter` 分字头、`--class` 单类、`--all-files` 含存根、`--classes` 列判据 |
 | `clean.py` | 本地垃圾清理器：默认试运行，`--go` 删除未跟踪缓存与临时文件（不触碰跟踪文件与 en/ 原始物） |
 | `progress.py` | 生成 `PROGRESS.md` 进度汇总（自动生成，不手改）；含二维账与“账实不符”行（引用 `check_taskfile_invariant`） |
 | `check_taskfile_invariant.py` | 任务账本↔译文一致性（specs/051，2026-11-19 起**严格档入 CI**）：I1 `cleared` ⟹ 译文仅 H1；I2 有正文 ⟹ journal 至少一个 `pass`；另列 `zh-doc-missing`／`maintenance-doc-missing` |
-| `mandatory_backfill.py` | 强制集回补（specs/052/ADR-0075）：按现行判据重算 s0/s2.4/global，记 pass/fail；状态不迁移，fail 即停 |
+| `mandatory_backfill.py` | 强制集回补（specs/052/ADR-0075）：按现行判据重算 ex-04/rv-01/rv-02，记 pass/fail；状态不迁移，fail 即停 |
 | `summary_sync.py` | SUMMARY/mu-lu-s 目录同步与 intake（`apply-add` 为新词条接入唯一入口，职责权属见 specs/001 cli.md；report/apply-add/remove） |
 | `sync_guard.py` | 双机同步护栏：`pull`（fetch＋rebase＋判弃自检实拦，ADR-0028）与 `status`（未推送自查；收工核对 `git log origin/main..main` 为空，ADR-0059） |
 | `rebuild_dir.py` | 上游同构重建（ADR-0007 立项）：现役面＝`check` 镜像覆盖核验（rules/06 结构改动 done 判据）；`toletters` 为 ADR-0009 一次性迁移；rebuild/stubs/yuanwen 遗留废弃（specs/040 F-26） |
@@ -77,7 +77,7 @@
   python tools/check_summary.py                # 目录结构审计（门禁）
   python tools/check_mulu_s.py                 # 分类目录对应性（门禁）
   python tools/check_doc_size.py             # 单体文件大小（门禁）
-  python tools/check_academic.py --docs a/某词条.md --strict   # 学术规范定点（s3/r3 校次）
+  python tools/check_academic.py --docs a/某词条.md --strict   # 学术规范定点（rv-09/sg-03 校次）
   python tools/compare.py <slug>               # 段落级变更比较（更新任务输入，spec 001 US-3）
   python tools/baseline_audit.py [slug...]     # 基线完整性（需本地 en/ 原始物，不进 CI）
   python tools/progress.py                     # 重新生成 PROGRESS.md

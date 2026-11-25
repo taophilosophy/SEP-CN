@@ -2,7 +2,7 @@
   "slug": "ockham",
   "kind": "retranslate",
   "zh_doc": "o/ockham.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "direction",
@@ -95,5 +95,11 @@
     "pubinfo_date": "Sep 11, 2024",
     "archive_edition": null,
     "sha256": "c20cc0b201d3a584a2cf57a8a332b2c8026a5420f93ba557c1c1ee36657ad701"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:41Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

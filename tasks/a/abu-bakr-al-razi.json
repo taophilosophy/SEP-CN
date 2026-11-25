@@ -2,7 +2,7 @@
   "slug": "abu-bakr-al-razi",
   "kind": "retranslate",
   "zh_doc": "a/abu-bakr-al-razi.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -130,5 +130,11 @@
     "pubinfo_date": "May 14, 2025",
     "archive_edition": "Summer 2025",
     "sha256": "786740df0af667371693b14ee3482700de9cb8e86114af16ad9e48f42330a735"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:39Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

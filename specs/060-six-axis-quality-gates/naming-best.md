@@ -1,7 +1,7 @@
 # 节点标识与命名：不计成本最优方案
 
 > 与 `naming-proposal.md`（成本约束案：四段式直改）并列；本文件是不计成本案，主推。
-> 交付物类型：评估类（结论＋建议，不含实施）。实施须另立卡。
+> 交付物类型：评估类（结论＋建议）。**实施状态：已落地**（2026-11-25 用户批准 B1＋B2 并要求先复核计算；决策见 `rules/adr/0080-节点标识三层与状态名统一.md`）。复核计算否证了 §7 原“100% 重放”前提，验收改为映射双档＋重放分类不变，详见该节修正。
 
 ## 1 结论
 
@@ -90,23 +90,36 @@
 | 命令行短名（`s0/s24/s25/s3/r1…`） | — | 保留为输入别名，内部转 identifier | 不动肌肉记忆 |
 | 文档引用 | 约 1033 处 | 双列写法（identifier＋name），脚本替换＋人工核 10 处高风险 | 可读性 |
 
-## 7 重放校验（本方案的核心，不可省）
+## 7 重放校验：复核计算后的修正
 
-新增 `tools/replay_state.py`：从 journal 事件折叠每个任务的 state（`alias → identifier`；`pass`／`fail`／`clear`／`reopen`／`done`），与 `tasks.state` 逐条比对。
+原设计主张“从 journal 重放可 100% 复现 `tasks.state`”。**实测否证**：`tools/replay_state.py` 对 1200 条任务严格重放，吻合 803 条，差异四类且全部可归因——
 
-验收：1200/1200 一致；任一条不一致即停并归因（R1 视图错误 / R2 写入脱核 / R3 基准漂移）。
+| 类别 | 条数 | 原因 |
+| ---- | ---- | ---- |
+| state-behind-journal | 376 | 强制集回补 pass 不迁移状态（ADR-0075） |
+| terminal-vs-node | 16 | `cleared` 不是事件（clear 只写 steps） |
+| state-ahead-of-journal | 3 | 缺 pass 事件的历史推进 |
+| no-journal-evidence | 2 | 无 journal 文件 |
 
-没有这一步，改名就是“把视图改坏而无法发现”；有了这一步，改名变成可证伪的工程。
+根因在事件模型：`clear`／`done` 不是事件，回补 pass 与状态推进共用 `pass` 类型。要让重放成为硬门，须改 journal-schema 增事件类型（J7 封闭六类，需另立 ADR），代价大于收益。
+
+修正后的验收（已实施）：
+
+1. **映射双档**：迁移前逐条记 (slug, old)，迁移后复核 new == `state_aliases[old]`，一条不符即整体不写（实测 435 条改写、0 不符）。
+2. **重放分类不变**：迁移前后按 `replay_state.classify` 的分类逐条对照，只换标签不换事实（实测 0 漂移）。
+3. 重放器保留为**诊断器**（退出码恒 0），报告漂移类别，不作门禁。
+
+改名的可证伪性仍在：任何一条状态写错，映射双档即红；重放负责长期漂移体检。
 
 ## 8 落地顺序（一次性，可整体回退）
 
-1. 建 `rules/naming.json`：identifier／name／name_version／label／state／alias／object_class 七列单一事实源。
-2. `pipeline.json` 以 identifier 作 `id`；`criteria_owner` 同步。
+1. 建 `rules/naming.json`：identifier／name／name_version／label／state／aliases 六列单一事实源（`object_class` 留在 pipeline，避免双源，见 ADR-0080 决策 2）。
+2. `pipeline.json` 以 identifier 作 `id`；`prev`、`criteria_owner`、`mandatory_minimum` 同步；`label` 移出管线。
 3. `journal_lib` 加 alias 解析（读旧、写新）；`step_to_event` 写 identifier。
-4. `tasks.state` 迁移脚本：先备份、幂等、逐条报告；迁移后用 `replay_state.py` 校验。
-5. 文档双列改写（脚本＋人工核）。
-6. `check_stages` 增 S7：identifier 唯一且匹配 `^(ex|tr|rv|sg)-\d{2}$`、预留号段不越界、name 版本非空、alias 可解析、state 与 identifier 对应。
-7. 一次性提交；回退 = `git revert` 该提交，并从 journal 重建 state。
+4. `tasks.state` 迁移脚本：幂等、逐条报告；以映射双档验收，重放作诊断。
+5. 规则正文改用 identifier（ADR 正文保留年代名）；脚本替换＋人工核对链接与文件名。
+6. `check_stages` 增 S7：登记表自洽、与管线一一对应、号段与段一致、命名属性不在管线重复、历史节点名可归一、任务状态名在词表内。
+7. 一次性提交；回退 = `git revert` 该提交，`tasks.state` 按别名表逆向映射，journal 未动。
 
 ## 9 与“四段式直改”案的差别
 

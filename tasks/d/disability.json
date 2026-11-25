@@ -2,7 +2,7 @@
   "slug": "disability",
   "kind": "retranslate",
   "zh_doc": "d/disability.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Apr 14, 2022",
     "archive_edition": "Summer 2026",
     "sha256": "764e9417b989089d97ecdc54a20ca14de5e10527679e18bba41b613825d28603"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

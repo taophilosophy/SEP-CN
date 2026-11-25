@@ -2,7 +2,7 @@
   "slug": "identity-personal",
   "kind": "retranslate",
   "zh_doc": "i/identity-personal.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Jun 30, 2023",
     "archive_edition": "Winter 2024",
     "sha256": "bed25f23b2d088442cddd5f3f9fbe5957585dd2cabd85afbb4761039321a755d"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

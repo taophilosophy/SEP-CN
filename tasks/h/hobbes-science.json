@@ -2,7 +2,7 @@
   "slug": "hobbes-science",
   "kind": "retranslate",
   "zh_doc": "h/hobbes-science.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Jun 5, 2023",
     "archive_edition": "Summer 2023",
     "sha256": "c7243e7b6d957665538f09274e2e994e3991454b7ceb2bd6ae077dccf1415104"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

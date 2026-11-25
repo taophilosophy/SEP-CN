@@ -2,7 +2,7 @@
   "slug": "neoplatonism",
   "kind": "retranslate",
   "zh_doc": "n/neoplatonism.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Jan 11, 2016",
     "archive_edition": "Winter 2021",
     "sha256": "3c14b7ead18a03b4e1fdd16c6ce52b4f8a6ee3c3724d0cdf0e2c27d3560041b3"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

@@ -2,7 +2,7 @@
   "slug": "philanthropy",
   "kind": "retranslate",
   "zh_doc": "p/philanthropy.md",
-  "state": "drafted",
+  "state": "tr-02_checked",
   "steps": [
     {
       "step": "clear",
@@ -32,5 +32,11 @@
     "pubinfo_date": "Nov 12, 2024",
     "archive_edition": "Winter 2024",
     "sha256": "1d19995b747631b1161ea2c928548ea93d6bd069d329539cc20f0cc7a251865a"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:41Z",
+    "from": "drafted",
+    "to": "tr-02_checked",
+    "by": "ADR-0080"
   }
 }

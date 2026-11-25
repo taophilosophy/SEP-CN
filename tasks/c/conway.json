@@ -2,7 +2,7 @@
   "slug": "conway",
   "kind": "retranslate",
   "zh_doc": "c/conway.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -95,5 +95,11 @@
     "pubinfo_date": "Aug 4, 2025",
     "archive_edition": "Fall 2025",
     "sha256": "9b951314efe94a48e4395499df242728483de3974aca6f9a1c87255d9ae6a890"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

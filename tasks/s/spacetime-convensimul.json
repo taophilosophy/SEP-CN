@@ -2,7 +2,7 @@
   "slug": "spacetime-convensimul",
   "kind": "retranslate",
   "zh_doc": "s/spacetime-convensimul.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Jul 21, 2018",
     "archive_edition": "Fall 2018",
     "sha256": "92221768570ce0fa3dac611c3ddd4927a97c3122d049dfe80dcaa2665f19cc04"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:41Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

@@ -2,7 +2,7 @@
   "slug": "social-procedures",
   "kind": "retranslate",
   "zh_doc": "s/social-procedures.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Nov 7, 2019",
     "archive_edition": "Winter 2024",
     "sha256": "b0a2311b4426396323f371a258899eaee203bbd104e053befbd0c3fb15d815a7"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:41Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

@@ -2,7 +2,7 @@
   "slug": "albert-saxony",
   "kind": "retranslate",
   "zh_doc": "a/albert-saxony.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -116,5 +116,11 @@
     "pubinfo_date": "Mar 30, 2023",
     "archive_edition": "Summer 2023",
     "sha256": "42bd24b872f6355eb75922f2ce2ebe9914e86287faecd4bd631d9de84ab9ce85"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:39Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

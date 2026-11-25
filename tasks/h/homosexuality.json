@@ -2,7 +2,7 @@
   "slug": "homosexuality",
   "kind": "retranslate",
   "zh_doc": "h/homosexuality.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Apr 28, 2020",
     "archive_edition": "Spring 2021",
     "sha256": "7a9b279f0ddfe8aebd911393942058d6ffd478999d142b65e0112bac5e31a972"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

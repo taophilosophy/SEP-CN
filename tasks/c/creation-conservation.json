@@ -2,7 +2,7 @@
   "slug": "creation-conservation",
   "kind": "retranslate",
   "zh_doc": "c/creation-conservation.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Mar 8, 2022",
     "archive_edition": "Spring 2022",
     "sha256": "f1d01de1368afb6a383ce3fd15cc7166940a765c12007073a1fa02317c1fbacf"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

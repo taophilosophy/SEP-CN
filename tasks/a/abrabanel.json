@@ -2,7 +2,7 @@
   "slug": "abrabanel",
   "kind": "retranslate",
   "zh_doc": "a/abrabanel.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -102,5 +102,11 @@
     "pubinfo_date": "Jun 8, 2022",
     "archive_edition": "Summer 2022",
     "sha256": "fea21ba849b594f1b8e8b902c3f97e6d28963ba828eab3b27c41d28c70295aad"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:39Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

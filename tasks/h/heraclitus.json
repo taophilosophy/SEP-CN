@@ -2,7 +2,7 @@
   "slug": "heraclitus",
   "kind": "retranslate",
   "zh_doc": "h/heraclitus.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -95,5 +95,11 @@
     "pubinfo_date": "Dec 8, 2023",
     "archive_edition": "Winter 2023",
     "sha256": "9d25de0e23cc84ad6a93233efc8b12995b02782ff94f3865c48c1f84c736301a"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

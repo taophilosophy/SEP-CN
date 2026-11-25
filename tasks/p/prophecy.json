@@ -2,7 +2,7 @@
   "slug": "prophecy",
   "kind": "retranslate",
   "zh_doc": "p/prophecy.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Oct 18, 2022",
     "archive_edition": "Winter 2022",
     "sha256": "a01a2a467e75cc6ff4c3d90db5b60151fa0aa3cd319957b66fc7d85084f4fa5e"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:41Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

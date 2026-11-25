@@ -2,7 +2,7 @@
   "slug": "omnipresence",
   "kind": "retranslate",
   "zh_doc": "o/omnipresence.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "direction",
@@ -95,5 +95,11 @@
     "pubinfo_date": "Jun 1, 2026",
     "archive_edition": "Summer 2026",
     "sha256": "dac7d2bb72d58cf45405f4d1307ace55acf9c4668e5554c40f74bf01082b0b9b"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:41Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

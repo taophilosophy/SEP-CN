@@ -2,7 +2,7 @@
   "slug": "analogy-medieval",
   "kind": "retranslate",
   "zh_doc": "a/analogy-medieval.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Dec 3, 2025",
     "archive_edition": "Winter 2025",
     "sha256": "eaefd22a65c4b76dec2cf4928b43cfeea4203ea7a158da20b2d811e87886d823"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:39Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

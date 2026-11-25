@@ -2,7 +2,7 @@
   "slug": "knowledge-analysis",
   "kind": "retranslate",
   "zh_doc": "k/knowledge-analysis.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Jan 21, 2026",
     "archive_edition": "Summer 2026",
     "sha256": "0157e33c1698bec237e8b6a6897fb266ae8efa6d5f09a75b07fb4fa7745cec65"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

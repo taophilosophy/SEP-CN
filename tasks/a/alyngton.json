@@ -2,7 +2,7 @@
   "slug": "alyngton",
   "kind": "retranslate",
   "zh_doc": "a/alyngton.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Jan 17, 2022",
     "archive_edition": "Spring 2022",
     "sha256": "bac61f682d78345a0da650e031a076a392fb5a06b366ca523f6b136ba82c04cd"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:39Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

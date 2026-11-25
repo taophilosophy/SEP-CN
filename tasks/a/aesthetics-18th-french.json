@@ -2,7 +2,7 @@
   "slug": "aesthetics-18th-french",
   "kind": "retranslate",
   "zh_doc": "a/aesthetics-18th-french.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Nov 13, 2023",
     "archive_edition": "Spring 2024",
     "sha256": "8fa99f4be38697f4927b2435cc6f84a98de325162b20c63b4b0d10e466dac801"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:39Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

@@ -2,7 +2,7 @@
   "slug": "abelard",
   "kind": "retranslate",
   "zh_doc": "a/abelard.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "s1",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Jul 31, 2026",
     "archive_edition": "Fall 2026",
     "sha256": "75ee8c24717589b82cd2ea8e0e2202ed160e0dea8dbc2dc33f75215f6b538a6e"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:39Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

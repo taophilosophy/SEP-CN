@@ -2,7 +2,7 @@
   "slug": "ecological-genetics",
   "kind": "retranslate",
   "zh_doc": "e/ecological-genetics.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Jan 12, 2026",
     "archive_edition": "Spring 2026",
     "sha256": "09513c2b8b248a54812bd1150204d12917cc4f5f5ae17cb820b0730462460ab2"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

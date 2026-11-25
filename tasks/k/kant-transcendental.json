@@ -2,7 +2,7 @@
   "slug": "kant-transcendental",
   "kind": "retranslate",
   "zh_doc": "k/kant-transcendental.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -60,5 +60,11 @@
     "pubinfo_date": "Oct 24, 2026",
     "archive_edition": null,
     "sha256": "dd9e0fb82a5c89337351d0df9bdf28d079631e98ed2a1b21ab94dd6168039a92"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

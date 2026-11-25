@@ -2,7 +2,7 @@
   "slug": "obligationes",
   "kind": "retranslate",
   "zh_doc": "o/obligationes.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Jan 19, 2022",
     "archive_edition": "Spring 2022",
     "sha256": "8662d1e902b2543beb8942afaa0c5f6901a2f9be1349b88002af2b25fad1a20f"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:41Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

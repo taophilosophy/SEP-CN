@@ -531,18 +531,19 @@ def check_file(path):
     return issues
 
 
-GATE_STATES = ("s2.4_termchecked", "s2.5_checked", "s3_checked", "r1_reviewed",
-               "r2_reviewed", "r3_reviewed", "done")
+GATE_STATES = ("rv-01_checked", "rv-02_checked", "rv-09_checked", "sg-01_checked",
+               "sg-02_checked", "sg-03_checked", "done")
 
 
 def _task_state(path):
-    """zh 文件 → 任务状态（无任务返回 None）。
+    """zh 文件 → 任务状态（无任务返回 None；旧状态名经 naming.json 归一，ADR-0080）。
 
-    体例硬门状态感知（ADR-0063 第 13 项）：只有已进入体例面（≥s2.4_termchecked）
-    的件才硬拦；未到该阶段的件（pending/cleared/…）与无任务件（别名桩、补充材料
-    子文档）按告警计——它们走到 s2.4/s2.5 时必被 `_style_gate` 拦，硬门不替人
-    逼未完成件的债，只防已成件的新劣化。
+    体例硬门状态感知（ADR-0063 第 13 项）：只有已进入体例面（≥rv-01_checked，原
+    s2.4_termchecked）的件才硬拦；未到该阶段的件（pending/cleared/…）与无任务件
+    （别名桩、补充材料子文档）按告警计——它们走到 rv-01/rv-02 时必被 `_style_gate`
+    拦，硬门不替人逼未完成件的债，只防已成件的新劣化。
     """
+    from tools import naming_lib
     name = os.path.basename(path)
     slug = name[:-3] if name.endswith(".md") else name
     letter = os.path.basename(os.path.dirname(os.path.abspath(path)))
@@ -552,7 +553,7 @@ def _task_state(path):
         if os.path.exists(cand):
             try:
                 with open(cand, encoding="utf-8") as f:
-                    return json.load(f).get("state")
+                    return naming_lib.normalize_state(json.load(f).get("state"))
             except Exception:
                 return None
     return None

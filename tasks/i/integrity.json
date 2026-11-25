@@ -2,7 +2,7 @@
   "slug": "integrity",
   "kind": "retranslate",
   "zh_doc": "i/integrity.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Sep 9, 2025",
     "archive_edition": "Fall 2025",
     "sha256": "76e68f5e9184814560fd53c11b2c8579c9862491d260ea52986d32fa78daff15"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

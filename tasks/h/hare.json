@@ -2,7 +2,7 @@
   "slug": "hare",
   "kind": "retranslate",
   "zh_doc": "h/hare.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "May 10, 2019",
     "archive_edition": "Winter 2025",
     "sha256": "6936c21baaa9fedc2c46b9ac2c347d1657f3b33d9994c5428efe412a0500d69a"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

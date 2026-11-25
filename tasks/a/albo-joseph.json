@@ -2,7 +2,7 @@
   "slug": "albo-joseph",
   "kind": "retranslate",
   "zh_doc": "a/albo-joseph.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -116,5 +116,11 @@
     "pubinfo_date": "Apr 14, 2024",
     "archive_edition": "Summer 2024",
     "sha256": "9a09b6620b636136da0e11923006104dca5578c06edea734b72d454110dee1df"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:39Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

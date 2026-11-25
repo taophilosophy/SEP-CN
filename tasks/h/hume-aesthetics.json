@@ -2,7 +2,7 @@
   "slug": "hume-aesthetics",
   "kind": "retranslate",
   "zh_doc": "h/hume-aesthetics.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -95,5 +95,11 @@
     "pubinfo_date": "Apr 21, 2020",
     "archive_edition": "Summer 2024",
     "sha256": "49c7755518cbe6146e9044d5688e4a92adc2524e7eefedf9230723a7244d8336"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

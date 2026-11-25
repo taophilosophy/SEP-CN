@@ -2,7 +2,7 @@
   "slug": "spacetime-holearg",
   "kind": "retranslate",
   "zh_doc": "s/spacetime-holearg.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -95,5 +95,11 @@
     "pubinfo_date": "Jun 6, 2023",
     "archive_edition": "Summer 2023",
     "sha256": "5be8592f6a7840d7be1c2c223f3d112215f6920b1effe377e5eeab394a6f46fb"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:41Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

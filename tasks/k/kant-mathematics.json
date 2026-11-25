@@ -2,7 +2,7 @@
   "slug": "kant-mathematics",
   "kind": "retranslate",
   "zh_doc": "k/kant-mathematics.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -95,5 +95,11 @@
     "pubinfo_date": "Aug 11, 2021",
     "archive_edition": "Fall 2025",
     "sha256": "95ad5974db252dfa693f7ebc6020a6e6462dfc34fcdef8e03af7aa12b77ca41d"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

@@ -2,7 +2,7 @@
   "slug": "jaina-philosophy",
   "kind": "retranslate",
   "zh_doc": "j/jaina-philosophy.md",
-  "state": "cleared",
+  "state": "ex-04_checked",
   "steps": [
     {
       "step": "clear",
@@ -80,6 +80,13 @@
       "actor": "task_ops",
       "at": "2026-11-10T15:31:19Z",
       "evidence": "baseline gate: hash_ok"
+    },
+    {
+      "step": "s0",
+      "status": "ok",
+      "actor": "ZC-main-20261125",
+      "at": "2026-11-24T22:23:07Z",
+      "evidence": "方向确认（rules/08）：本件 2026-11-10 因语体不合规（半文半白）reopen 置空，本会话按现代汉语学术书面语全量重译 137 段（ADR-0033＋用户裁定），目标 r2_reviewed（r3 待授权）。非目标＝不改 en/（ADR-0062）、不动基线。验收判据＝lq check HARD=0、四检 strict 全绿、check_prose 归零、check_terms 定点 0 硬错误、check_pairs 尾序合规。s0 审计：en_integrity problems=[]；en_source_audit hard=0、warn 1（上游 h2→h4）。重译批登记：术语 63 行（耆那业论八业、七支、或然论、全知、视角、业质等）、典籍 24 行（汉名沿用既有作者行已立形：《论存在者》《一切义成就》《自我之精髓》《大雄教法之精髓》等）、人物 1 行（因陀罗菩提·乔答摩；其余四人已在前轮）。检索通道不可用，依据栏不写检索凭证；新增典籍行 22 条「非英语术语缺原文」告警定性为随 Tractatus（Summule logicales）行先例的 IAST 题名豁免。"
     }
   ],
   "blockers": [],
@@ -88,5 +95,11 @@
     "pubinfo_date": "Feb 13, 2023",
     "archive_edition": "Summer 2024",
     "sha256": "fbda54e0bb711b2413a9c51af408dcf354b8b9b80332ac1278b0ceebeb56b4b8"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s0_source_checked",
+    "to": "ex-04_checked",
+    "by": "ADR-0080"
   }
 }

@@ -2,7 +2,7 @@
   "slug": "music",
   "kind": "retranslate",
   "zh_doc": "m/music.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Oct 30, 2023",
     "archive_edition": "Spring 2026",
     "sha256": "aeef683154c73956ef03dae56fafe5a8f9a490186ae11c1365425d60ebe51aa0"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

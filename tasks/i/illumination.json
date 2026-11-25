@@ -2,7 +2,7 @@
   "slug": "illumination",
   "kind": "retranslate",
   "zh_doc": "i/illumination.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "May 22, 2024",
     "archive_edition": "Fall 2025",
     "sha256": "b620ab26233e965eead4019d7af0046eb3b86daead23f06868eca8087773f897"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

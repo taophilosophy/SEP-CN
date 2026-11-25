@@ -20,9 +20,9 @@
 
 * **英文直引**：中译据英文；逐条判原著语种（`origin_lang`）与原文可得性——`na`（英文原著）／`present`（上游已给）／`verifiable`（有通行编号或定本，含现代著作逐条查初版或权威版，用户裁定）／`unavailable`。`verifiable` 者补原文入方括号（用户裁定承载形态），`unavailable` 者保留英文并注明，**不代造原文**。
 * **非英文直引**（约 300–600 条）：原文必须呈现；英文按作者紧随引文的英文阐释（`sep-paraphrase`）＞通行译本（`published`）＞本库转译（`editorial`，末位，须标待核实）取用，禁用作者口吻。
-* **术语级片段**：不属引文，按 s2.4 术语轴处理；用户裁定全部首现括注原文与通行英译。
-* **间接转述**（无引号）不按引文处理，归 s1 准确性。
-* 判据全文与清单模型见 `specs/060-six-axis-quality-gates/checklists/q1-cite.md`（C-1…C-8）；机检 `tools/cite_audit.py`；引文 hash 在 q2–q6 守恒。
+* **术语级片段**：不属引文，按 rv-01 术语轴处理；用户裁定全部首现括注原文与通行英译。
+* **间接转述**（无引号）不按引文处理，归 tr-03 准确性。
+* 判据全文与清单模型见 `specs/060-six-axis-quality-gates/checklists/q1-cite.md`（C-1…C-8）；机检 `tools/cite_audit.py`；引文 hash 在 rv-04–rv-08 守恒。
 
 
 * 参考文献节标题用 `## 参考文献`，节首保留加粗说明行（正典样文，[ADR-0017](adr/0017-参考文献双形态澄清.md) 收口 2026-11-13）：`**以下文献从原文照录，不作翻译；中国文献条目（古今）一律译为中文。**`——**中国文献条目（无论古代现代）一并译为中文**（用户裁定 2026-10-28，[ADR-0011](adr/0011-引文原文语言与中文文献翻译.md)）：保留西文著录骨架与引注键，汉名与中文书名还原为通行简体，如 `[^yan-2001]: Yan Buke 阎步克, 2001, 《乐师与史官》, 北京：三联书店。`——依据英文源所载信息与可核实文献，幻觉禁令照旧。
@@ -54,11 +54,11 @@
 
 | 校次 | 本规则的落点 |
 | ---- | ---- |
-| s1 一校 | 逐节核对版本事实行、引注与文献条目（对照 `yuanwen/`/`en/` 逐条搬运，留凭证） |
-| s2.4 术语校 | `python tools/check_terms.py --docs <路径>` 0 硬错误（登记册自洽；告警留 evidence）；逐条对照两登记册核验正文用词（ADR-0043） |
-| s2.5 审计已译 | `python tools/check_math_zh.py <路径>` 0 硬错误（默认档；strict 升档留 s3/r3）；三向比对记录、密度统计与脚注键位配对核验入 evidence（ADR-0040/0043） |
-| s3 三校 | `python tools/check_academic.py --docs <路径> --strict` 0 硬错误；`check_style.py` 照旧 |
-| r3 终审 | 复核结构完整性；CI 全绿（含 check_academic）为验收线；仅用户显式指定的会话执行（ADR-0054），未指定时停 r2_reviewed |
+| tr-03 一校 | 逐节核对版本事实行、引注与文献条目（对照 `yuanwen/`/`en/` 逐条搬运，留凭证） |
+| rv-01 术语校 | `python tools/check_terms.py --docs <路径>` 0 硬错误（登记册自洽；告警留 evidence）；逐条对照两登记册核验正文用词（ADR-0043） |
+| rv-02 审计已译 | `python tools/check_math_zh.py <路径>` 0 硬错误（默认档；strict 升档留 rv-09/sg-03）；三向比对记录、密度统计与脚注键位配对核验入 evidence（ADR-0040/0043） |
+| rv-09 三校 | `python tools/check_academic.py --docs <路径> --strict` 0 硬错误；`check_style.py` 照旧 |
+| sg-03 终审 | 复核结构完整性；CI 全绿（含 check_academic）为验收线；仅用户显式指定的会话执行（ADR-0054），未指定时停 sg-02_checked |
 
 ## 缺陷分类与处置（2026-11-15 自散页《翻译工程标准》S5 折叠收编）
 

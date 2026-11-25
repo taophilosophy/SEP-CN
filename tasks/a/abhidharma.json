@@ -2,7 +2,7 @@
   "slug": "abhidharma",
   "kind": "retranslate",
   "zh_doc": "a/abhidharma.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "s1",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Mar 31, 2026",
     "archive_edition": "Summer 2026",
     "sha256": "7c50598043153df3e9b069687098dd3eaeb40b219688b2c74872702d1bbc3b91"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:39Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

@@ -2,7 +2,7 @@
   "slug": "brentano",
   "kind": "retranslate",
   "zh_doc": "b/brentano.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -67,5 +67,11 @@
     "pubinfo_date": "Jan 30, 2019",
     "archive_edition": "Spring 2019",
     "sha256": "7b5066f431d73e1652bc1cba933b9ffd010b861a96e6728324ea488571225c0b"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

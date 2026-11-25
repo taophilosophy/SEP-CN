@@ -2,7 +2,7 @@
   "slug": "schlegel",
   "kind": "retranslate",
   "zh_doc": "s/schlegel.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Mar 17, 2025",
     "archive_edition": "Spring 2025",
     "sha256": "e1f70b3132d703d8adabfb6bc35a011e1b2b2c2436b7f686bf37208efe6653fb"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:41Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

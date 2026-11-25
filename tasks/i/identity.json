@@ -2,7 +2,7 @@
   "slug": "identity",
   "kind": "retranslate",
   "zh_doc": "i/identity.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Oct 2, 2026",
     "archive_edition": null,
     "sha256": "641f58e0199d95ddfbddf0c8908cbefcdd7987092eec3abf702bb7b14d28f0a6"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

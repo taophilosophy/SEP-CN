@@ -2,7 +2,7 @@
   "slug": "computing-history",
   "kind": "retranslate",
   "zh_doc": "c/computing-history.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Jun 9, 2006",
     "archive_edition": "Winter 2020",
     "sha256": "0289b0a20caaaabe838acafe65040faa3b972e052b29795dfa34dcda09bbf286"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

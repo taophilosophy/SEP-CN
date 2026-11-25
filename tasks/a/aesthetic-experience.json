@@ -2,7 +2,7 @@
   "slug": "aesthetic-experience",
   "kind": "retranslate",
   "zh_doc": "a/aesthetic-experience.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Jan 20, 2023",
     "archive_edition": "Fall 2024",
     "sha256": "4d15114a59edcd5cf4c0c7fa0174bc52ae687195d0bda4e140bfd09ade7c5b43"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:39Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

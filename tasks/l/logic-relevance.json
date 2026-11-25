@@ -2,7 +2,7 @@
   "slug": "logic-relevance",
   "kind": "retranslate",
   "zh_doc": "l/logic-relevance.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Nov 13, 2020",
     "archive_edition": "Summer 2024",
     "sha256": "ab3c11d89fcd6e5c97d82184267081efdfd223766cc28abfabded9bf1dd386f3"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

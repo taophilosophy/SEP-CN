@@ -2,7 +2,7 @@
   "slug": "kant-spacetime",
   "kind": "retranslate",
   "zh_doc": "k/kant-spacetime.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -60,5 +60,11 @@
     "pubinfo_date": "Apr 1, 2022",
     "archive_edition": "Summer 2022",
     "sha256": "da1e4ade4573f1ccff62257e0cd531d2205aa538e92edf2002daccbcfbf4991c"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

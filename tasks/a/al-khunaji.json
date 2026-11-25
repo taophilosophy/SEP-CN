@@ -2,7 +2,7 @@
   "slug": "al-khunaji",
   "kind": "retranslate",
   "zh_doc": "a/al-khunaji.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Sep 10, 2026",
     "archive_edition": "Fall 2026",
     "sha256": "c402e76728fa107b7fb0b206fe42eb9362cc6b4885f159d222f7c1e7f6fe165b"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:39Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

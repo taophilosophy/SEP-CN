@@ -2,7 +2,7 @@
   "slug": "copernicus",
   "kind": "retranslate",
   "zh_doc": "c/copernicus.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Sep 29, 2023",
     "archive_edition": "Winter 2023",
     "sha256": "363d3088c4cdcd35521a6b5c1aa1ca920380b874277ef46776d415d984113a9a"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

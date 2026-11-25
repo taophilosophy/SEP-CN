@@ -2,7 +2,7 @@
   "slug": "halevi",
   "kind": "retranslate",
   "zh_doc": "h/halevi.md",
-  "state": "drafted",
+  "state": "tr-02_checked",
   "steps": [
     {
       "step": "clear",
@@ -32,5 +32,11 @@
     "pubinfo_date": "Jul 30, 2026",
     "archive_edition": "Fall 2026",
     "sha256": "7845ae755f538ffff43757e8f994038f2b36f8b584e59e8df7e8ea6c087c2b2a"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "drafted",
+    "to": "tr-02_checked",
+    "by": "ADR-0080"
   }
 }

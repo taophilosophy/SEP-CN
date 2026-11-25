@@ -2,7 +2,7 @@
   "slug": "gadamer-aesthetics",
   "kind": "retranslate",
   "zh_doc": "g/gadamer-aesthetics.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Sep 6, 2023",
     "archive_edition": "Fall 2023",
     "sha256": "089db2a3f19acb2671ec8299125b927948a313dea08257575a9e89d3c003870e"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

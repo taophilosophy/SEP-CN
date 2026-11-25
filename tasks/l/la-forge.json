@@ -2,7 +2,7 @@
   "slug": "la-forge",
   "kind": "retranslate",
   "zh_doc": "l/la-forge.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Oct 15, 2019",
     "archive_edition": "Summer 2020",
     "sha256": "1d92d16ece8b860a8e39cb2b713c59ab6ffe03c48c5bf9f7e8b49ff0aa0f0617"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

@@ -2,7 +2,7 @@
   "slug": "paradox-suspense",
   "kind": "retranslate",
   "zh_doc": "p/paradox-suspense.md",
-  "state": "s2.4_termchecked",
+  "state": "rv-01_checked",
   "steps": [
     {
       "step": "clear",
@@ -88,5 +88,11 @@
     "pubinfo_date": "Oct 26, 2021",
     "archive_edition": "Winter 2021",
     "sha256": "b15b17c1178c82bccdc2e72f8c084dd8f671558582748f11022c9b978a355f68"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:41Z",
+    "from": "s2.4_termchecked",
+    "to": "rv-01_checked",
+    "by": "ADR-0080"
   }
 }

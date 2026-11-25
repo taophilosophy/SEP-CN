@@ -3,6 +3,7 @@
 > 状态：**accepted**（2026-11-25 用户批准立项至 r2_reviewed）。§1–§12 为建议书与判据依据；实施卡见同目录 `plan.md`、`tasks.md`，决策记录见 `rules/adr/0079-六轴独立质量工序与状态机v3.md`。
 > 用户 2026-11-25 裁定：工序层独立、全量回炉、结构化人工判据、只禁未定型日源词；补裁：目标态 r2_reviewed、现代著作也逐条查原文、方括号承载、术语级全部首现括注。
 > 本文件替代任何“六类并入 s2／S3 即可”的既有口径；`rules/pipeline.json` 已按本文件扩为 22 节点（q1–q6）。
+> **命名口径（ADR-0080，2026-11-25）**：本文件成文于节点改名之前，正文保留当时写法（`q1–q6`、`s2.5_checked`、`S3` 等）。现行 identifier 为 q1–q6→rv-03–rv-08、s2.5_checked→rv-02_checked、s2.4_termchecked→rv-01_checked、s3_checked／S3→rv-09_checked／rv-09、r1–r3→sg-01–sg-03；完整映射见 `rules/naming.json`。`q1`–`q6` 在本文件内作**轴标签**使用（清单文件名 `q1-cite.md` 等同理），不再作节点 id；判据内容不受改名影响。
 
 ## 1 方向声明（rules/08 §1）
 

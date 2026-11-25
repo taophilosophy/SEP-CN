@@ -2,7 +2,7 @@
   "slug": "hamann",
   "kind": "retranslate",
   "zh_doc": "h/hamann.md",
-  "state": "s0_source_checked",
+  "state": "ex-04_checked",
   "steps": [
     {
       "step": "clear",
@@ -39,5 +39,11 @@
     "pubinfo_date": "Sep 23, 2026",
     "archive_edition": null,
     "sha256": "24b5a5a3ae0de9d0da61763a72754e2c69544e3364a46003e15969b936569441"
+  },
+  "state_migrated": {
+    "at": "2026-11-25T00:31:40Z",
+    "from": "s0_source_checked",
+    "to": "ex-04_checked",
+    "by": "ADR-0080"
   }
 }
