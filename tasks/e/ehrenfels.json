@@ -3,72 +3,7 @@
   "kind": "retranslate",
   "zh_doc": "e/ehrenfels.md",
   "state": "cleared",
-  "steps": [
-    {
-      "step": "clear",
-      "status": "ok",
-      "actor": "task_ops",
-      "at": "2026-11-12T16:31:38Z",
-      "evidence": "baseline gate: hash_ok"
-    },
-    {
-      "step": "draft",
-      "status": "ok",
-      "actor": "E-main-20261111",
-      "at": "2026-11-12T22:56:13Z",
-      "evidence": "账本 79 段（77 body+1 oir+1 ack）双版填充（step1≠step2），9 批落盘；守恒门 HARD=0（段36 漏译尾部由守恒门实抓后补齐）；compose 40512 字符/274 行；SUMMARY 家法定名厄棱费尔回改正文 281 处；H1/学术工具四行制/相关词条映射经 compose 生成并人工核对无误映射"
-    },
-    {
-      "step": "s1",
-      "status": "ok",
-      "actor": "E-main-20261111",
-      "at": "2026-11-12T22:59:21Z",
-      "evidence": "五维对账：段落块 94:96（+2=compose 模板说明行豁免）、标题 18:18 逐条对齐、行内 marker 189:189 序列全同、defs 键集 74:74 相等、年份 430:429 唯一差=2000 years 译数量词两千多年（豁免留痕）、粗体缩写键 0:0；撇号 15 处全定性（内层单引号与照录区合法）"
-    },
-    {
-      "step": "s2",
-      "status": "ok",
-      "actor": "E-main-20261111",
-      "at": "2026-11-12T23:10:26Z",
-      "evidence": "check_prose 34→9：叙述散文实修 22 处（长句拆分 12/de-chain 改写 9/两极漂移断句 1，经账本 step2 修正后重 compose 两轮），余 9 条全部为引文内部或引块（>）之 de-chain/long-sentence/passive-bei，按 ADR-0020 豁免留痕；check_style --strict 0 issues"
-    },
-    {
-      "step": "s3",
-      "status": "ok",
-      "actor": "E-main-20261111",
-      "at": "2026-11-12T23:38:25Z",
-      "evidence": "四检全绿：check_style --strict 0 issues；check_academic --strict 无硬错误；check_math 无缺失无不配对；check_summary HARD ERRORS 0；check_terms 册行复核通过（16 术语+23 人名已插，bisect 排序）"
-    },
-    {
-      "step": "revert-state",
-      "status": "ok",
-      "actor": "pc6-m2.5-revert",
-      "at": "2026-11-14T15:04:24Z",
-      "evidence": "回退到 s2.5_checked；依据：ADR-0043 全量回退（specs/028 §5；185 全口径＋非 A1 在途件）"
-    },
-    {
-      "step": "revert-state",
-      "status": "ok",
-      "actor": "P8-revert-20261117",
-      "at": "2026-11-17T01:31:08Z",
-      "evidence": "回退到 s2.4_termchecked；依据：中文体例归一全量回退（specs/039 P8，ADR-0063）：s2.4 三轴硬门上线后在途件一律回退重走；机检凭证 results/revert-ledger-20261117.json"
-    },
-    {
-      "step": "reopen",
-      "status": "ok",
-      "actor": "wipe-2026-11-25",
-      "at": "2026-11-25T00:58:44Z",
-      "evidence": "全库置空重译（用户 2026-11-25 裁定）：既有中文译文全部置空仅留 H1、全部进度归零；逐字依据见本会话指令与 qian-yan 日志同日条目",
-      "bypass": "upstream-sync（ADR-0051 R3：在途吸收上游同步）"
-    },
-    {
-      "step": "clear",
-      "status": "ok",
-      "actor": "task_ops",
-      "at": "2026-11-25T00:58:44Z",
-      "evidence": "baseline gate: hash_ok"
-    }
-  ],
+  "steps": [],
   "blockers": [],
   "created_at": "2026-11-01T11:02:27Z",
   "version_pin": {

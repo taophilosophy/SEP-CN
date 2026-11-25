@@ -3,15 +3,7 @@
   "kind": "retranslate",
   "zh_doc": "j/japanese-philosophy.md",
   "state": "cleared",
-  "steps": [
-    {
-      "step": "clear",
-      "status": "ok",
-      "actor": "task_ops",
-      "at": "2026-11-01T10:37:04Z",
-      "evidence": "baseline gate: hash_ok"
-    }
-  ],
+  "steps": [],
   "blockers": [],
   "created_at": "2026-11-01T10:34:03Z",
   "version_pin": {

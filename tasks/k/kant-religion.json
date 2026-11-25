@@ -3,72 +3,7 @@
   "kind": "retranslate",
   "zh_doc": "k/kant-religion.md",
   "state": "cleared",
-  "steps": [
-    {
-      "step": "clear",
-      "status": "ok",
-      "actor": "task_ops",
-      "at": "2026-11-01T17:43:40Z",
-      "evidence": "baseline gate: hash_ok"
-    },
-    {
-      "step": "draft",
-      "status": "ok",
-      "actor": "K-main-20261111",
-      "at": "2026-11-11T11:21:59Z",
-      "evidence": "零信任全量重译 186 段（body 184/oir 1/ack 1），分十批落账本；守恒门 OK：source 与 yuanwen 逐字符一致、脚注键 85/85、defs 203/203、$ 计数守恒（公式段）、** 计数守恒"
-    },
-    {
-      "step": "s1",
-      "status": "ok",
-      "actor": "K-main-20261111",
-      "at": "2026-11-11T11:22:00Z",
-      "evidence": "对照核销：H2 8:9（+## 致谢）、H3 12:11（源 ### Acknowledgments 按惯例升为 ## 致谢）、H4 29:29、defs 203:203、正文 marker 85:85；相关词条人工映射 2 处（German Philosophy: in the 18th century→康德之前的 18 世纪德国哲学；Kant, Immanuel: philosophical development→康德哲学的发展历程）；SUMMARY/mu-lu-s 英文题补全 Kant’s Philosophy of Religion"
-    },
-    {
-      "step": "s2",
-      "status": "ok",
-      "actor": "K-main-20261111",
-      "at": "2026-11-11T11:22:00Z",
-      "evidence": "斜体→中文粗体 17 行；prose 实修 8 处（长句拆分 6、去被动 2、去弱动词 2 交叉）；<existence> 记法转义为 &lt;existence&gt; 以过 no-html 门；残余 44 条（long 26/de-chain 14/passive 2/exists-there 1/plural 1），多为 70–95 字学术长句与概念性定语链，按 ADR-0020 豁免"
-    },
-    {
-      "step": "s3",
-      "status": "ok",
-      "actor": "K-main-20261111",
-      "at": "2026-11-11T11:22:01Z",
-      "evidence": "四检终态：check_style 0、check_academic --strict OK、check_math 0/0、check_summary H1 mismatch 0、check_terms 硬错误 0"
-    },
-    {
-      "step": "revert-state",
-      "status": "ok",
-      "actor": "pc6-m2.5-revert",
-      "at": "2026-11-14T15:04:24Z",
-      "evidence": "回退到 s2.5_checked；依据：ADR-0043 全量回退（specs/028 §5；185 全口径＋非 A1 在途件）"
-    },
-    {
-      "step": "revert-state",
-      "status": "ok",
-      "actor": "P8-revert-20261117",
-      "at": "2026-11-17T01:13:17Z",
-      "evidence": "回退到 s2.4_termchecked；依据：中文体例归一全量回退（specs/039 P8，ADR-0063）：s2.4 三轴硬门上线后在途件一律回退重走；机检凭证 results/revert-ledger-20261117.json"
-    },
-    {
-      "step": "reopen",
-      "status": "ok",
-      "actor": "wipe-2026-11-25",
-      "at": "2026-11-25T00:59:15Z",
-      "evidence": "全库置空重译（用户 2026-11-25 裁定）：既有中文译文全部置空仅留 H1、全部进度归零；逐字依据见本会话指令与 qian-yan 日志同日条目",
-      "bypass": "upstream-sync（ADR-0051 R3：在途吸收上游同步）"
-    },
-    {
-      "step": "clear",
-      "status": "ok",
-      "actor": "task_ops",
-      "at": "2026-11-25T00:59:15Z",
-      "evidence": "baseline gate: hash_ok"
-    }
-  ],
+  "steps": [],
   "blockers": [],
   "created_at": "2026-11-01T17:41:03Z",
   "version_pin": {

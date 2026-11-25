@@ -3,72 +3,7 @@
   "kind": "retranslate",
   "zh_doc": "k/kant-development.md",
   "state": "cleared",
-  "steps": [
-    {
-      "step": "clear",
-      "status": "ok",
-      "actor": "task_ops",
-      "at": "2026-11-01T17:43:40Z",
-      "evidence": "baseline gate: hash_ok"
-    },
-    {
-      "step": "draft",
-      "status": "ok",
-      "actor": "K-main-20261110b",
-      "at": "2026-11-11T01:16:39Z",
-      "evidence": "主会话直译：账本 182 段全填（155 body/1 oir/26 note），lq 守恒门 OK（step1≠step2 反思两步，* 计数软旗留痕），compose 落盘 45.7k 字符"
-    },
-    {
-      "step": "s1",
-      "status": "ok",
-      "actor": "K-main-20261110b",
-      "at": "2026-11-11T01:16:39Z",
-      "evidence": "对照核销（_k_parity）：marker 52=52 零缺零多、defs 73=73、段落 150:149（byline 豁免）、拉丁串 12 行皆书目与引文照录；引用组/书名/脚注键逐段核对；相关词条 1 条英文项按 SUMMARY 定名映射（kant-leibniz→莱布尼茨对康德的影响）；SUMMARY/mu-lu-s 标题补全为 Kant’s Philosophical Development"
-    },
-    {
-      "step": "s2",
-      "status": "ok",
-      "actor": "K-main-20261110b",
-      "at": "2026-11-11T01:16:39Z",
-      "evidence": "check_prose 60→2（58 处实修）；语体：现代汉语学术书面语，实修中引入的半文言（乃/之滥用）已回改 80 处，破折号仅用于插入与转折、无滥用；余 2 条为康德引文内部 de-chain，按 ADR-0020 豁免"
-    },
-    {
-      "step": "s3",
-      "status": "ok",
-      "actor": "K-main-20261110b",
-      "at": "2026-11-11T01:16:40Z",
-      "evidence": "终校：check_style --strict 0；check_academic --strict 0；check_math 0；check_terms 硬错误 0；术语册补登 19 行（星云假说/存在之链/相容论/善良意志/自律（康德义）等，先登后用）"
-    },
-    {
-      "step": "revert-state",
-      "status": "ok",
-      "actor": "pc6-m2.5-revert",
-      "at": "2026-11-14T15:04:24Z",
-      "evidence": "回退到 s2.5_checked；依据：ADR-0043 全量回退（specs/028 §5；185 全口径＋非 A1 在途件）"
-    },
-    {
-      "step": "revert-state",
-      "status": "ok",
-      "actor": "P8-revert-20261117",
-      "at": "2026-11-17T01:13:17Z",
-      "evidence": "回退到 s2.4_termchecked；依据：中文体例归一全量回退（specs/039 P8，ADR-0063）：s2.4 三轴硬门上线后在途件一律回退重走；机检凭证 results/revert-ledger-20261117.json"
-    },
-    {
-      "step": "reopen",
-      "status": "ok",
-      "actor": "wipe-2026-11-25",
-      "at": "2026-11-25T00:59:14Z",
-      "evidence": "全库置空重译（用户 2026-11-25 裁定）：既有中文译文全部置空仅留 H1、全部进度归零；逐字依据见本会话指令与 qian-yan 日志同日条目",
-      "bypass": "upstream-sync（ADR-0051 R3：在途吸收上游同步）"
-    },
-    {
-      "step": "clear",
-      "status": "ok",
-      "actor": "task_ops",
-      "at": "2026-11-25T00:59:14Z",
-      "evidence": "baseline gate: hash_ok"
-    }
-  ],
+  "steps": [],
   "blockers": [],
   "created_at": "2026-11-01T17:41:03Z",
   "version_pin": {

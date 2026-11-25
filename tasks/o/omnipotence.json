@@ -3,15 +3,7 @@
   "kind": "retranslate",
   "zh_doc": "o/omnipotence.md",
   "state": "cleared",
-  "steps": [
-    {
-      "step": "clear",
-      "status": "ok",
-      "actor": "task_ops",
-      "at": "2026-11-10T22:22:34Z",
-      "evidence": "baseline gate: hash_ok"
-    }
-  ],
+  "steps": [],
   "blockers": [],
   "created_at": "2026-11-10T22:22:34Z",
   "version_pin": {

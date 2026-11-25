@@ -3,51 +3,7 @@
   "kind": "retranslate",
   "zh_doc": "h/haecceitism.md",
   "state": "cleared",
-  "steps": [
-    {
-      "step": "clear",
-      "status": "ok",
-      "actor": "task_ops",
-      "at": "2026-11-01T18:43:30Z",
-      "evidence": "baseline gate: hash_ok"
-    },
-    {
-      "step": "s0",
-      "status": "ok",
-      "actor": "adopt-2026-11-19",
-      "at": "2026-11-18T17:25:12Z",
-      "evidence": "跨机收编回炉（ADR-0075）：正文首次入库 641faf13a（2026-11-02，sha256 2ba60ddf923b…，2898 汉字）；s0 门禁本次实跑"
-    },
-    {
-      "step": "block",
-      "status": "ok",
-      "actor": "task_ops",
-      "at": "2026-11-18T17:25:12Z",
-      "evidence": "逐段对齐：EN 块 199/249 未配对（详情 specs/044 results）"
-    },
-    {
-      "step": "unblock",
-      "status": "ok",
-      "actor": "?",
-      "at": "2026-11-21T02:48:05Z",
-      "evidence": "用户 2026-11-22 指令「解决阻塞，重译的进入正常翻译频道」：ADR-0075 §5 截断件阻塞解除，重译沿 retranslate 状态机正常推进；旧稿系跨机收编截断中间态（50/249 EN 块配对），重译将整体置换，逐段对齐由 LQ 段落账本重建立（specs/006），无需旧稿对齐修复"
-    },
-    {
-      "step": "reopen",
-      "status": "ok",
-      "actor": "wipe-2026-11-25",
-      "at": "2026-11-25T00:59:02Z",
-      "evidence": "全库置空重译（用户 2026-11-25 裁定）：既有中文译文全部置空仅留 H1、全部进度归零；逐字依据见本会话指令与 qian-yan 日志同日条目",
-      "bypass": "upstream-sync（ADR-0051 R3：在途吸收上游同步）"
-    },
-    {
-      "step": "clear",
-      "status": "ok",
-      "actor": "task_ops",
-      "at": "2026-11-25T00:59:02Z",
-      "evidence": "baseline gate: hash_ok"
-    }
-  ],
+  "steps": [],
   "blockers": [],
   "created_at": "2026-11-01T10:33:24Z",
   "version_pin": {

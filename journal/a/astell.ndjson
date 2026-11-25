@@ -1,2 +1,0 @@
-{"seq": 1, "at": "2026-10-28T16:37:03Z", "actor": "migrate", "type": "lock", "attempt": "main", "sha256": "16e912a5f57367220b99d219f263d463b4ab343bcaecb6f20ca71caf89331b11", "pubinfo_date": "Jun 6, 2023", "edition": "Summer 2023"}
-{"seq": 2, "at": "2026-10-28T16:37:03Z", "actor": "migrate", "type": "import", "synthetic": true, "basis": "state:pending", "attempt": "main"}

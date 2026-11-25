@@ -3,15 +3,7 @@
   "kind": "retranslate",
   "zh_doc": "v/value-intrinsic-extrinsic.md",
   "state": "cleared",
-  "steps": [
-    {
-      "step": "clear",
-      "status": "ok",
-      "actor": "task_ops",
-      "at": "2026-11-12T23:10:36Z",
-      "evidence": "baseline gate: hash_ok"
-    }
-  ],
+  "steps": [],
   "blockers": [],
   "created_at": "2026-11-12T23:08:50Z",
   "version_pin": {

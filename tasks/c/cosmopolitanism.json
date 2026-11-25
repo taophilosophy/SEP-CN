@@ -3,72 +3,7 @@
   "kind": "retranslate",
   "zh_doc": "c/cosmopolitanism.md",
   "state": "cleared",
-  "steps": [
-    {
-      "step": "clear",
-      "status": "ok",
-      "actor": "task_ops",
-      "at": "2026-11-09T04:32:14Z",
-      "evidence": "baseline gate: hash_ok"
-    },
-    {
-      "step": "draft",
-      "status": "ok",
-      "actor": "C-main-20261109b",
-      "at": "2026-11-09T09:02:55Z",
-      "evidence": "账本 71 段双版齐（body 70+oir 1，HARD=0，SOFT 仅斜体→书名号与 5 个机械段）；compose 35,189 字符；接手前 28 段 step2 文言体已按 rules/02 白话标尺全数重写（同 J 批 justus-lipsius 先例），引号 250 处「」→“”归一（conv_quotes 前置门：配对+去引号后逐字符身份一致）；四检 style 0/math 0 缺/academic 0 硬，prose 56 条待 s2"
-    },
-    {
-      "step": "s1",
-      "status": "ok",
-      "actor": "C-main-20261109b",
-      "at": "2026-11-09T09:32:21Z",
-      "evidence": "回源逐节核销 71 段/3 节 10 小节：节集合与编号 7:7（h2）、10:10（h3）全等；脚注键 118:118 逐键一致、定义区齐；参考文献 118 条照录（无中国文献，ADR-0011 不触发）；pubinfo 逐字对照一致。问题分级：Critical 0、Major 0、Minor 10（world ‘cosmopolitan’ 词性归位、clustered around 误读‘身边’、paternalism 主形家长主义、historically uninformed 直译硬、de-chain 主语断裂 2、括号引语嵌套 1 等，逐处手改）。相关词条 3 项英文残留（Chrysippus/Cynics/Diogenes of Sinope）回 SUMMARY 核对无对应条目，按模板 §6.5 保留中文译名待挂链；无年份作者括注（Nielsen, Cabrera）（Pogge）按引用组照录。源页缺陷 1：第 60 段 (c) 括号源文未闭合，译文补全留痕。四检 style 0 / math 0 / academic 0 硬 / terms 0 硬"
-    },
-    {
-      "step": "s2",
-      "status": "ok",
-      "actor": "C-main-20261109b",
-      "at": "2026-11-09T10:19:44Z",
-      "evidence": "反欧化逐句打磨：check_prose 55→0（首轮 48 处 + 收尾 7 处）。实修类型：长句拆分 20（94/104/91/88/79 汉字诸句按语义断句）、的链 29（有的…有的→一派…另一派、删冗余定语）、弱动词 4（作出决定→自愿决定、作出裁断→居中裁断、作出区分→再作几种区分、作出承诺→拿出承诺）、双被字句 2（被指责…被批评→批评者指责…特别是指责）。改后四检复绿：style 0 / math 0 缺 0 失衡 / academic --strict 0 硬 / terms 0 硬；结构 h2 7:7、h3 10:10、脚注定义 118:118 逐键一致"
-    },
-    {
-      "step": "s3",
-      "status": "ok",
-      "actor": "C-main-20261109b",
-      "at": "2026-11-09T10:30:30Z",
-      "evidence": "三校体例终验：check_style 0 issue（引号弯形、中西文半角空格、** 内侧无空格、无 HTML）；markdownlint-cli2 该文件 0 错；术语主形归一 2 处（保护主义→贸易保护主义）；尾部节序 脚注并入现制 References 定义区→参考文献→学术工具（四行）→其他网络资源→相关词条，h2 序合规；版本行与源 pubinfo 逐字一致；H1 与 SUMMARY 逐字一致（check_summary 0 硬）；脚注定义 118 条与 yuanwen 逐键一致；数学 0 公式（本条无公式，check_math 空集）"
-    },
-    {
-      "step": "revert-state",
-      "status": "ok",
-      "actor": "pc6-m2.5-revert",
-      "at": "2026-11-14T15:04:24Z",
-      "evidence": "回退到 s2.5_checked；依据：ADR-0043 全量回退（specs/028 §5；185 全口径＋非 A1 在途件）"
-    },
-    {
-      "step": "revert-state",
-      "status": "ok",
-      "actor": "P8-revert-20261117",
-      "at": "2026-11-17T01:13:17Z",
-      "evidence": "回退到 s2.4_termchecked；依据：中文体例归一全量回退（specs/039 P8，ADR-0063）：s2.4 三轴硬门上线后在途件一律回退重走；机检凭证 results/revert-ledger-20261117.json"
-    },
-    {
-      "step": "reopen",
-      "status": "ok",
-      "actor": "wipe-2026-11-25",
-      "at": "2026-11-25T00:58:32Z",
-      "evidence": "全库置空重译（用户 2026-11-25 裁定）：既有中文译文全部置空仅留 H1、全部进度归零；逐字依据见本会话指令与 qian-yan 日志同日条目",
-      "bypass": "upstream-sync（ADR-0051 R3：在途吸收上游同步）"
-    },
-    {
-      "step": "clear",
-      "status": "ok",
-      "actor": "task_ops",
-      "at": "2026-11-25T00:58:33Z",
-      "evidence": "baseline gate: hash_ok"
-    }
-  ],
+  "steps": [],
   "blockers": [],
   "created_at": "2026-10-31T22:09:44Z",
   "version_pin": {

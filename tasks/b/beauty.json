@@ -3,15 +3,7 @@
   "kind": "retranslate",
   "zh_doc": "b/beauty.md",
   "state": "cleared",
-  "steps": [
-    {
-      "step": "clear",
-      "status": "ok",
-      "actor": "task_ops",
-      "at": "2026-11-01T04:16:01Z",
-      "evidence": "baseline gate: hash_ok"
-    }
-  ],
+  "steps": [],
   "blockers": [],
   "created_at": "2026-11-01T04:14:58Z",
   "version_pin": {

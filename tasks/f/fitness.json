@@ -3,72 +3,7 @@
   "kind": "retranslate",
   "zh_doc": "f/fitness.md",
   "state": "cleared",
-  "steps": [
-    {
-      "step": "clear",
-      "status": "ok",
-      "actor": "task_ops",
-      "at": "2026-11-11T12:20:28Z",
-      "evidence": "baseline gate: hash_ok"
-    },
-    {
-      "step": "draft",
-      "status": "ok",
-      "actor": "F-main-20261113",
-      "at": "2026-11-13T00:20:54Z",
-      "evidence": "账本流水线（script/lq.py，ADR-0021）：61 段 step1/step2 反思双版落盘（本会话接填段 37–61 共 25 段：正文 23+oir+ack）；守恒门 HARD 0（source 逐字符、脚注键/$/\\*\\* 计数全过）；SOFT 旗 10 留痕——段2/5/10/14/39/48/52/60 step1==step2（章节标题与联系行机械段）、段4/16/21/23/26/55/57 * 计数（源文斜体在中文去强调，纯中文不造标记）；批参数：model=GLM-5.3-Flash（ZCode 主会话直译）、temperature 0.2、全量一次（账本 params 节）；相关词条 3 项按 SUMMARY 主行定名重写（分子遗传学、选择的单位与层次、上帝存在的目的论论证）"
-    },
-    {
-      "step": "s1",
-      "status": "ok",
-      "actor": "F-main-20261113",
-      "at": "2026-11-13T00:24:50Z",
-      "evidence": "对照核销（逐节）：脚注 marker 多重集 87:87 全等（ASCII 归一化比较，[^o’malley-2007] U+2019 照源逐字节）；defs 57:57 全等；H2 11+致谢升节=12（体例豁免）；引用组照录（Pence and Ramsey 2013, 862; equation (4)、Van Valen 1989, 7 等逐处核对）；数学 token 序列核验（PNS 定义式 x/y、w_a/w_b、X/Y/Z 持存式计数相等）；相关词条 16 项对 SUMMARY 主行全量复核（含 compose 别名行误映射修正 3 项）；重点类别：漏译 0、错译 0、增译 0——翻译即本会话对照源文逐段完成"
-    },
-    {
-      "step": "s2",
-      "status": "ok",
-      "actor": "F-main-20261113",
-      "at": "2026-11-13T00:24:51Z",
-      "evidence": "check_prose 28 处实修归零：长句拆分 9（段3/4/13/15/21/45/46/50/55/56，句号或分号断句）、de-chain 重构 10（段11/21/38/46/50/57/58 的字三连窗口消除）、weak-verb 4（作出解释/加以组合/予以容纳/予以报告）、plural-men 1（哲学家们）、长句复查 4；豁免 0（无引文内残留告警）；修法=账本 step2 层 SUBS 唯一命中断言（script/fitness_prose_fix.py，幂等重放）后重 compose，产物与账本一致；语体：全篇现代汉语学术书面语，无文言句式残留，破折号仅用于源文同位插入语对应结构，引号全弯引（check_style 直角引号门 0）"
-    },
-    {
-      "step": "s3",
-      "status": "ok",
-      "actor": "F-main-20261113",
-      "at": "2026-11-13T00:42:58Z",
-      "evidence": "四检全绿：check_style --docs --strict 0 issue；check_academic --docs --strict 0 硬错误；check_math fitness 100 式无缺无失衡；check_bold_collapse 0 候选；check_prose 0（s2 实修后）；check_markdown 全库扫描本词条 0 新增 hard（style/引号/链接逐条门同器）；对账三项：marker 87:87、defs 57:57、H2 11+1；登记册补 36 行人名（含 H1 括注作者 Bouchard、叙述处必登沃丁顿/彭斯/格兰特·拉姆齐/范瓦伦，键分立防与 Frank Ramsey/David Kaplan/迈克尔·汤普森 混淆），插行 bisect 保序防重复"
-    },
-    {
-      "step": "revert-state",
-      "status": "ok",
-      "actor": "pc6-m2.5-revert",
-      "at": "2026-11-14T15:04:24Z",
-      "evidence": "回退到 s2.5_checked；依据：ADR-0043 全量回退（specs/028 §5；185 全口径＋非 A1 在途件）"
-    },
-    {
-      "step": "revert-state",
-      "status": "ok",
-      "actor": "P8-revert-20261117",
-      "at": "2026-11-17T01:13:17Z",
-      "evidence": "回退到 s2.4_termchecked；依据：中文体例归一全量回退（specs/039 P8，ADR-0063）：s2.4 三轴硬门上线后在途件一律回退重走；机检凭证 results/revert-ledger-20261117.json"
-    },
-    {
-      "step": "reopen",
-      "status": "ok",
-      "actor": "wipe-2026-11-25",
-      "at": "2026-11-25T00:58:57Z",
-      "evidence": "全库置空重译（用户 2026-11-25 裁定）：既有中文译文全部置空仅留 H1、全部进度归零；逐字依据见本会话指令与 qian-yan 日志同日条目",
-      "bypass": "upstream-sync（ADR-0051 R3：在途吸收上游同步）"
-    },
-    {
-      "step": "clear",
-      "status": "ok",
-      "actor": "task_ops",
-      "at": "2026-11-25T00:58:57Z",
-      "evidence": "baseline gate: hash_ok"
-    }
-  ],
+  "steps": [],
   "blockers": [],
   "created_at": "2026-11-01T10:24:24Z",
   "version_pin": {

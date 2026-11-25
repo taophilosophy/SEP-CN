@@ -1,6 +1,0 @@
-{"seq": 1, "at": "2026-11-01T10:34:00Z", "actor": "migrate", "type": "lock", "attempt": "main", "sha256": "d4f4db7883d5c2759f2d6acf3330a582bf759eccadd3e5661e18b9f0e16a4aa7", "pubinfo_date": "Aug 16, 2024", "edition": "Fall 2024"}
-{"seq": 2, "at": "2026-11-07T01:40:28Z", "actor": "?", "type": "pass", "attempt": "main", "node": "draft", "gate": []}
-{"seq": 3, "at": "2026-11-07T01:40:28Z", "actor": "?", "type": "pass", "attempt": "main", "node": "s1", "gate": []}
-{"seq": 4, "at": "2026-11-07T01:40:29Z", "actor": "?", "type": "pass", "attempt": "main", "node": "s2", "gate": []}
-{"seq": 5, "at": "2026-11-07T01:40:31Z", "actor": "?", "type": "pass", "attempt": "main", "node": "S3", "gate": []}
-{"seq": 6, "at": "2026-11-10T16:32:39Z", "actor": "M1-20261111-register", "type": "rework", "attempt": "main", "from_node": null, "reason": "specs/015 语体复核：半文半白（真之/的=0.96 与 0.79，文言句式成段出现），按 ADR-0033 置空重译"}

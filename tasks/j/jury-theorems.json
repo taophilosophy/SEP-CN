@@ -3,15 +3,7 @@
   "kind": "retranslate",
   "zh_doc": "j/jury-theorems.md",
   "state": "cleared",
-  "steps": [
-    {
-      "step": "clear",
-      "status": "ok",
-      "actor": "task_ops",
-      "at": "2026-11-01T10:37:11Z",
-      "evidence": "baseline gate: hash_ok"
-    }
-  ],
+  "steps": [],
   "blockers": [],
   "created_at": "2026-11-01T10:34:14Z",
   "version_pin": {

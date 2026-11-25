@@ -1,6 +1,0 @@
-{"seq": 1, "at": "2026-11-09T00:13:06Z", "actor": "migrate", "type": "lock", "attempt": "main", "sha256": "aff334f830e9497e9be219b103592fc5c7e0edf5035796bb2b41033b10d9dc18", "pubinfo_date": "Jun 2, 2025", "edition": "Summer 2025"}
-{"seq": 2, "at": "2026-11-09T00:13:06Z", "actor": "migrate", "type": "import", "synthetic": true, "basis": "state:cleared", "attempt": "main"}
-{"type": "import", "synthetic": true, "basis": "state", "state_at_import": "cleared", "attempt": "main", "at": "2026-11-18T17:25:49Z", "actor": "adopt-2026-11-19", "note": "adopt:2026-11-19:正文首次入库 0cd06b97a（2026-11-14 ！），sha256 d5472a32e06b4a49，9568 汉字；clear 早于正文，无过程记录（specs/052，ADR-0075）", "seq": 3}
-{"type": "pass", "node": "s0", "gate": [], "at": "2026-11-18T17:25:50Z", "actor": "adopt-2026-11-19", "attempt": "main", "seq": 4}
-{"type": "pass", "node": "draft", "gate": [], "at": "2026-11-18T17:25:50Z", "actor": "adopt-2026-11-19", "attempt": "main", "seq": 5}
-{"type": "rework", "from_node": null, "reason": "全库置空重译（用户 2026-11-25 裁定）：既有中文译文全部置空仅留 H1、全部进度归零；逐字依据见本会话指令与 qian-yan 日志同日条目", "at": "2026-11-25T00:59:38Z", "actor": "wipe-2026-11-25", "attempt": "main", "seq": 6}

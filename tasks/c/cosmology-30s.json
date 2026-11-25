@@ -3,72 +3,7 @@
   "kind": "retranslate",
   "zh_doc": "c/cosmology-30s.md",
   "state": "cleared",
-  "steps": [
-    {
-      "step": "clear",
-      "status": "ok",
-      "actor": "task_ops",
-      "at": "2026-11-07T22:33:58Z",
-      "evidence": "baseline gate: hash_ok"
-    },
-    {
-      "step": "draft",
-      "status": "ok",
-      "actor": "C-main-20261109",
-      "at": "2026-11-08T18:17:02Z",
-      "evidence": "初译成稿收口（接管前会话未提交在途件）：段落账本 tasks/c/cosmology-30s.ledger.yaml 100 段（p1-p100）source/step1/step2 全填、源文正文块 3-136 全覆盖（块1 H1、块2 作者行由 SUMMARY/模板承载），脚本 script/c30_compose.py 组装产物与工作区正文逐字符一致（仅 markdownlint 要求的空行差 3 处）；结构守恒五维：marker 123:123、defs 62:62、年份集合 49:49 全等、公式 0、图片 0，h2 13:12 与 h3 26:27 之差为『致谢』按模板由 ### 归一为 ##（合规）；待办登记：29 段 step1==step2 反思步欠账（7 段为引块），列入 s2 逐段补写"
-    },
-    {
-      "step": "s1",
-      "status": "ok",
-      "actor": "C-main-20261109",
-      "at": "2026-11-08T22:20:10Z",
-      "evidence": "一校（准确性）逐段回源核销 p1-p100 全覆盖：结构守恒 marker 123:123、defs 62:62、年份集合 49:49、公式 0、图片 0；实质问题 9 处已修并双版同步——①Critical 1 处：p51 源 How could Dingle be answered? 第二版误作『丁格尔该如何作答？』主客颠倒，改『又该如何回应丁格尔呢？』；②Major 体例 8 处：第二版删去首现英文括注，已补回 A. G. 沃克（A.G. Walker）、L. N. G. 菲隆（L.N.G. Filon）、R. A. 桑普森（R.A. Sampson）、N. R. 坎贝尔（N.R. Campbell）、G. J. 惠特罗（G.J. Whitrow）、乔治·坦普尔（George Temple）、詹姆斯·斯科特奖（James Scott Prize）、托马斯·戈尔德（Thomas Gold）、弗雷德·霍伊尔（Fred Hoyle）；③渲染缺陷 43 处：星内空格 ** 词 **（CommonMark 永不渲染）全数归一为 **词** 并补体外空格，源头生成器 script/c30_compose.py bold_spacing 已改为 span 级处理，重跑 compose 与正文逐字符一致；术语补登 5 行（说明性实在论/红移/完美宇宙学原理/稳恒态宇宙学/多普勒频移）"
-    },
-    {
-      "step": "s2",
-      "status": "ok",
-      "actor": "C-main-20261109",
-      "at": "2026-11-09T01:43:02Z",
-      "evidence": "二校（语言）收口：prose 告警 59→2（正文），另 6 条引文照译豁免留痕——①批量实修 44 处：弱动词/作出类 10、被动堆叠 4、冠词直译 1、长句拆分 22、去『的』链 7（分批落库 a0edcfa4..现批，每批结构计数 source/step1/step2/段=100 守恒，只改 step2）；②正文残留 2 条：L31『不幸，两解预言的宇宙都很极端：爱因斯坦的密布物质，德西特的近乎空无』系专名省略式指代的必要『的』，L115『他在《自然》（*Nature*）发表刻薄书评…』单句 81 字含书名斜体括注与引注，均非欧化句，判为豁免；③引文豁免 6 条：p28（Milne 1934a 引块）、p37（Robertson 1935）、p41（Whittaker 1941）、p49（Dingle 1937）、p79（Bondi 1960）、p98（Dingle 1953）——源文引块照译，长句与『的』密度随原文，不改写；④四检全绿：check_style 0 issue、check_academic --strict 0 硬错误、check_math 0 缺式、check_terms 0 硬错误；check_all 7/7 全绿"
-    },
-    {
-      "step": "s3",
-      "status": "ok",
-      "actor": "C-main-20261109",
-      "at": "2026-11-09T04:19:30Z",
-      "evidence": "三校（体例/术语/格式）收口：①体例 check_style --strict 0 issue（含加粗标记形态：星内空格 ** 词 ** 43 处全数归一为 **词** 并补体外空格，源自生成器 bold_spacing 缺陷已修于 script/c30_compose.py，重跑 compose 与正文逐字符一致）；②术语 check_terms 0 硬错误；术语登记册补登 6 行（说明性实在论/红移/完美宇宙学原理/稳恒态宇宙学/多普勒频移/world structure）；③学术 check_academic --strict 0 硬错误、check_math 0 缺式 0 不平衡；④结构对账：marker 123:123、defs 62:62、年份集合 49:49 全等、公式 0、图片 0；H2 13:12、H3 26:27 之差为源『### Acknowledgments』按模板归一为『## 致谢』（合规）；⑤H1 与 SUMMARY 定名逐字符一致；尾部节序 正文→REFERENCES（引用注释）→学术工具→其他网络资源→相关词条→致谢，符合模板 §4；⑥反思步（ADR-0021 双版互异）：step1==step2 由 29 段降至 9 段，均为引文块（p28 Milne 1934a、p37 Robertson 1935、p41 Whittaker 1941、p49 Dingle 1937、p58 McCrea 1939、p66 McCrea 1939、p77 Bondi 1960、p84 Bondi 1990、p88 Bondi 1960、p90 Bondi 1960）——引文照译即定稿，step2 无需二次润色，逐条登记豁免；其余 12 段已补写真正的第二版（p8/p9/p10/p12/p13/p14/p15/p19/p20/p23/p24/p67）；⑦prose 残留 8 条已逐条留痕：6 条引文（p28/p37/p41/p49/p79/p98）照译不改写，2 条正文（p11『不幸，两解预言的宇宙都很极端：爱因斯坦的密布物质，德西特的近乎空无』系专名省略指代的必要『的』；p39『他在《自然》（*Nature*）发表刻薄书评…』81 字含书名斜体括注与引注）判为非欧化；⑧markdownlint 本地未安装，按既往成例交由 CI 终裁；⑨check_all 7/7 全绿（顺带修复跨批红项：g/gianfrancesco-pico.md H1 与 SUMMARY 不符）"
-    },
-    {
-      "step": "revert-state",
-      "status": "ok",
-      "actor": "pc6-m2.5-revert",
-      "at": "2026-11-14T15:04:24Z",
-      "evidence": "回退到 s2.5_checked；依据：ADR-0043 全量回退（specs/028 §5；185 全口径＋非 A1 在途件）"
-    },
-    {
-      "step": "revert-state",
-      "status": "ok",
-      "actor": "P8-revert-20261117",
-      "at": "2026-11-17T01:31:08Z",
-      "evidence": "回退到 s2.4_termchecked；依据：中文体例归一全量回退（specs/039 P8，ADR-0063）：s2.4 三轴硬门上线后在途件一律回退重走；机检凭证 results/revert-ledger-20261117.json"
-    },
-    {
-      "step": "reopen",
-      "status": "ok",
-      "actor": "wipe-2026-11-25",
-      "at": "2026-11-25T00:58:32Z",
-      "evidence": "全库置空重译（用户 2026-11-25 裁定）：既有中文译文全部置空仅留 H1、全部进度归零；逐字依据见本会话指令与 qian-yan 日志同日条目",
-      "bypass": "upstream-sync（ADR-0051 R3：在途吸收上游同步）"
-    },
-    {
-      "step": "clear",
-      "status": "ok",
-      "actor": "task_ops",
-      "at": "2026-11-25T00:58:32Z",
-      "evidence": "baseline gate: hash_ok"
-    }
-  ],
+  "steps": [],
   "blockers": [],
   "created_at": "2026-10-31T22:09:42Z",
   "version_pin": {

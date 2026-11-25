@@ -3,15 +3,7 @@
   "kind": "retranslate",
   "zh_doc": "k/kant-moral.md",
   "state": "cleared",
-  "steps": [
-    {
-      "step": "clear",
-      "status": "ok",
-      "actor": "task_ops",
-      "at": "2026-11-01T17:43:39Z",
-      "evidence": "baseline gate: hash_ok"
-    }
-  ],
+  "steps": [],
   "blockers": [],
   "created_at": "2026-11-01T17:41:02Z",
   "version_pin": {

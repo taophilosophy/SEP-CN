@@ -3,15 +3,7 @@
   "kind": "retranslate",
   "zh_doc": "f/frantz-fanon.md",
   "state": "cleared",
-  "steps": [
-    {
-      "step": "clear",
-      "status": "ok",
-      "actor": "task_ops",
-      "at": "2026-11-25T00:58:58Z",
-      "evidence": "baseline gate: hash_ok"
-    }
-  ],
+  "steps": [],
   "blockers": [],
   "created_at": "2026-11-01T10:41:55Z",
   "version_pin": {

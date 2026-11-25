@@ -1,0 +1,10 @@
+{
+  "schema": "wipe-history/v1",
+  "reason": "用户 2026-11-25 追加授权：允许置空翻译历史",
+  "journal_files": 1199,
+  "tasks": 1200,
+  "steps_removed": 6536,
+  "axis_files_removed": 19,
+  "skipped": [],
+  "adr": "0082"
+}

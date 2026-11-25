@@ -345,3 +345,10 @@
 * **纪元**：`rules/epoch.json` 声明 2026-11-25T00:00:00Z 为进度纪元；progress／journal_view／账实不变量只统计纪元后的 pass。PROGRESS 重算：核心段 0、在途 0、强制集 0、饱和 0、有正文 0、骨架 1,873、账实不符 0。
 * **门禁**：I1/I2 严格档 0 违例；check_stages 22 项、check_all 17 项全绿。
 
+## 2026-11-25 置空翻译历史（ADR-0082）：journal 与 steps 清零、纪元撤除
+
+* **用户追加授权**：“允许置空翻译历史。”据此不再以 P5／ISO 15489-1 保留旧过程记录——处分对象是翻译过程（事件与 steps），不含源钉、登记册、勘误与目录。
+* **执行**：`tools/wipe_history.py`——journal 1,199 文件（7,566 行）截为 0 字节（条目仍在账、seq 重启）；1,200 条任务 steps 6,536 条置空（state 仍 cleared、version_pin／zh_doc／created_at 保留）；`state/axis` 19 个旧工单删除。
+* **撤除纪元**：`rules/epoch.json`、`tools/epoch_lib.py` 删除；progress／journal_view／账实不变量去掉纪元过滤（历史既空，过滤器失去对象）。ADR-0081 第 4 条由 0082 取代，正文置空条款继续有效。
+* **校验**：I1/I2 严格档 0 违例；PROGRESS 核心段 0／在途 0／强制集 0／饱和 0／有正文 0；check_stages 与 check_all 复跑见提交前结果。
+

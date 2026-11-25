@@ -3,72 +3,7 @@
   "kind": "retranslate",
   "zh_doc": "n/newton-stm.md",
   "state": "cleared",
-  "steps": [
-    {
-      "step": "clear",
-      "status": "ok",
-      "actor": "task_ops",
-      "at": "2026-11-11T18:35:51Z",
-      "evidence": "baseline gate: hash_ok"
-    },
-    {
-      "step": "draft",
-      "status": "ok",
-      "actor": "N-main-20261112",
-      "at": "2026-11-12T00:01:22Z",
-      "evidence": "draft 组装：lq 账本 103 段（body 100+oir 1+ack 1+note 1，biblio 72 defs 照录不入账）反思两步填毕，守恒门 103 段全过（软旗：3 机械段 step1==step2、2 处斜体→书名号）；compose --write 生成 28291 字符；SUMMARY/mu-lu-s 英文题补全联动（views on space…→Newton’s Views on Space, Time, and Motion）"
-    },
-    {
-      "step": "s1",
-      "status": "ok",
-      "actor": "N-main-20261112",
-      "at": "2026-11-12T00:01:22Z",
-      "evidence": "s1 对照核销：五维 parity 段落 119/118（byline 豁免）、标题 27/26（双 Notes 标题合并豁免，节序同 done 先例）；相关词条补映射 1 处（Newton, Isaac: philosophy→牛顿的哲学，据 SUMMARY 1888 行）；H1/中文强调/相关词条修正落地；check_terms 硬错误 0；Molyneux 告警判读：源文 0 命中（grep 实证），登记册行系 2026-11-06 SUMMARY 定名旧行，关联系词池伪关联，留痕不改"
-    },
-    {
-      "step": "s2",
-      "status": "ok",
-      "actor": "N-main-20261112",
-      "at": "2026-11-12T00:10:05Z",
-      "evidence": "s2 语言实修：style --strict 31→0（italic-cjk 21 处剥斜体还原无标记——中文强调守恒门禁粗体，沿 5b 家法；bold-spacing 13 处补空格）；prose 告警 51→47：弱动词 3 实修（加以区分→区分、加以批评→提出批评、持续进行的实验情境→连续展开的实验情境）、plural-men 1 实修（批评者们→批评者）、误并书名斜体对 1 处复原、确支持→确实支持、效应论证引词定义加引号；余 47 条按 ADR-0020 豁免留痕：de-chain 20（概念性定语）、长句 22（忠实转写多层论证与引文）、passive-bei 5（引文内部 2、术语内含被 2：被包围物体/被确定被定义讨论、释义句 1）。语体：现代汉语学术书面语，无文言仿古、无半文半白；破折号均对应源文 em dash；术语用词与登记册一致（实体论/关系论/充实/受迫运动/离心趋向/旋转水桶实验等 20 行本轮登记）"
-    },
-    {
-      "step": "s3",
-      "status": "ok",
-      "actor": "N-main-20261112",
-      "at": "2026-11-12T00:10:06Z",
-      "evidence": "s3 体例三校：check_style --strict 0、check_academic --strict 0 硬、check_math 0、check_quotes 0（本文件）、check_summary 0、check_images 0；check_terms 硬错误 0（克尔凯郭尔重复行由并行会话合并收口）；check_prose 余 47 条豁免（见 s2）；登记册：术语 20 行+人名 3 行（Charleton/Cajori/Motte 保留英文）已 bisect 插入并同批提交；正文用词与登记册一致"
-    },
-    {
-      "step": "revert-state",
-      "status": "ok",
-      "actor": "pc6-m2.5-revert",
-      "at": "2026-11-14T15:04:24Z",
-      "evidence": "回退到 s2.5_checked；依据：ADR-0043 全量回退（specs/028 §5；185 全口径＋非 A1 在途件）"
-    },
-    {
-      "step": "revert-state",
-      "status": "ok",
-      "actor": "P8-revert-20261117",
-      "at": "2026-11-17T01:13:17Z",
-      "evidence": "回退到 s2.4_termchecked；依据：中文体例归一全量回退（specs/039 P8，ADR-0063）：s2.4 三轴硬门上线后在途件一律回退重走；机检凭证 results/revert-ledger-20261117.json"
-    },
-    {
-      "step": "reopen",
-      "status": "ok",
-      "actor": "wipe-2026-11-25",
-      "at": "2026-11-25T00:59:22Z",
-      "evidence": "全库置空重译（用户 2026-11-25 裁定）：既有中文译文全部置空仅留 H1、全部进度归零；逐字依据见本会话指令与 qian-yan 日志同日条目",
-      "bypass": "upstream-sync（ADR-0051 R3：在途吸收上游同步）"
-    },
-    {
-      "step": "clear",
-      "status": "ok",
-      "actor": "task_ops",
-      "at": "2026-11-25T00:59:22Z",
-      "evidence": "baseline gate: hash_ok"
-    }
-  ],
+  "steps": [],
   "blockers": [],
   "created_at": "2026-11-11T18:35:51Z",
   "version_pin": {

@@ -3,15 +3,7 @@
   "kind": "retranslate",
   "zh_doc": "e/emotions-17th18th.md",
   "state": "cleared",
-  "steps": [
-    {
-      "step": "clear",
-      "status": "ok",
-      "actor": "task_ops",
-      "at": "2026-11-25T00:58:45Z",
-      "evidence": "baseline gate: hash_ok"
-    }
-  ],
+  "steps": [],
   "blockers": [],
   "created_at": "2026-11-01T11:02:29Z",
   "version_pin": {

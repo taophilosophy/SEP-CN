@@ -138,11 +138,9 @@ def load_journal(journal_dir=JOURNAL):
     journal_dir 可注入供单元测试隔离。
     """
     try:
-        from tools import naming_lib, epoch_lib
+        from tools import naming_lib
     except ImportError:  # 直连脚本运行（无包路径）
         import naming_lib
-        import epoch_lib
-    ep = epoch_lib.start()
     passed, node_count = {}, Counter()
     if not os.path.isdir(journal_dir):
         return passed, node_count
@@ -160,8 +158,7 @@ def load_journal(journal_dir=JOURNAL):
                         if not line:
                             continue
                         ev = json.loads(line)
-                        if ev.get("type") == "pass" and ev.get("node") \
-                                and epoch_lib.in_epoch(ev, ep):
+                        if ev.get("type") == "pass" and ev.get("node"):
                             done.add(naming_lib.try_identifier(ev["node"]) or ev["node"])
             except (json.JSONDecodeError, OSError):
                 continue
