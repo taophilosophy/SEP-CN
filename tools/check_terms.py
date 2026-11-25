@@ -61,6 +61,9 @@ ORIG_REPORT = os.path.join(ROOT, 'specs', '008-terminology-campaign', 'results',
 PERSON_REPORT = os.path.join(ROOT, 'specs', '013-person-attribution', 'results',
                              'person-missing.txt')
 PAIR_INDEX = os.path.join(ROOT, term_pairing.INDEX_PATH)
+STD_PAIR_INDEX = os.path.join(ROOT, term_pairing.STD_INDEX_PATH)
+STD_PAIR_REPORT = os.path.join(ROOT, 'specs', '058-term-full-reextraction', 'results',
+                               'std-pairing-warnings.txt')
 PAIR_REPORT = os.path.join(ROOT, 'specs', '058-term-full-reextraction', 'results',
                            'term-pairing-warnings.txt')
 DEPRECATED_MARK = '已废弃'
@@ -349,6 +352,19 @@ def audit_basis_pairs(rows, index):
     return bad
 
 
+def audit_std_pairs(rows, index):
+    """GB 标准库引用配对检查（ADR-0088 同判据）：主张标准库命中、实际无配对的行。"""
+    bad = []
+    for term, trans, _fs, basis, _date, lineno in rows:
+        merged = '%s；%s' % (trans, basis)
+        if not term_pairing.needs_std_pairing(merged):
+            continue
+        v, _ev = term_pairing.classify_std_row(term, trans, basis, index)
+        if v != 'pair':
+            bad.append((term, trans, v, lineno))
+    return bad
+
+
 def write_pair_warnings(entries, path):
     """term-pairing-warnings.txt：每行「键\t译法\t档位\t行号」，末尾汇总（原子写）。"""
     lines = ['%s\t%s\t%s\t%d' % e for e in entries]
@@ -484,6 +500,7 @@ def main(argv=None):
     reg_path, docs = REGISTRY, []
     reg2_path = REGISTRY2
     pair_index_path = PAIR_INDEX
+    std_index_path = STD_PAIR_INDEX
     ledger_path = ''
     injected = False
     i = 0
@@ -501,6 +518,8 @@ def main(argv=None):
             ledger_path, i = argv[i + 1], i + 1
         elif argv[i] == '--pair-index':
             pair_index_path, i = argv[i + 1], i + 1
+        elif argv[i] == '--std-index':
+            std_index_path, i = argv[i + 1], i + 1
         i += 1
     if ledger_path and not docs:
         print('--ledger 仅在 --docs 模式可用（先给台账路径，再给 --docs <词条>…）')
@@ -532,17 +551,25 @@ def main(argv=None):
 
     # 审定引用配对检查（ADR-0088）：注入模式（测试）跳过保证密闭；索引缺失时跳过并提示；
     # --pair-index 可指定索引（测试用小索引注入，兼作集成测试入口）
-    pair_bad = []
-    if not injected or '--pair-index' in argv:
-        if os.path.exists(pair_index_path):
-            pair_index = term_pairing.load_index(pair_index_path)
-            pair_bad = audit_basis_pairs(reg1_rows, pair_index)
-            for term, trans, v, ln in pair_bad[:10]:
-                warns.append('审定引用无配对（告警）: %s「%s」档 %s（行 %d）' % (term, trans, v, ln))
-            if len(pair_bad) > 10:
-                warns.append('…（其余 %d 条见清单）' % (len(pair_bad) - 10))
-        else:
-            print('审定引用配对检查：索引缺失，跳过（python -I tools/build_term_pair_index.py 预建）')
+    pair_bad, std_bad = [], []
+    # 两个索引各自独立开合：注入模式下只有显式给出该索引才跑（测试密闭、互不拖慢）
+    if (not injected or '--pair-index' in argv) and os.path.exists(pair_index_path):
+        pair_index = term_pairing.load_index(pair_index_path)
+        pair_bad = audit_basis_pairs(reg1_rows, pair_index)
+        for term, trans, v, ln in pair_bad[:10]:
+            warns.append('审定引用无配对（告警）: %s「%s」档 %s（行 %d）' % (term, trans, v, ln))
+        if len(pair_bad) > 10:
+            warns.append('…（其余 %d 条见清单）' % (len(pair_bad) - 10))
+    elif not injected and not os.path.exists(pair_index_path):
+        print('审定引用配对检查：索引缺失，跳过（python -I tools/build_term_pair_index.py 预建）')
+    if (not injected or '--std-index' in argv) and os.path.exists(std_index_path):
+        std_index = term_pairing.load_index(std_index_path)
+        std_bad = audit_std_pairs(reg1_rows, std_index)
+        for term, trans, v, ln in std_bad[:10]:
+            warns.append('标准库引用无配对（告警）: %s「%s」档 %s（行 %d）'
+                         % (term, trans, v, ln))
+        if len(std_bad) > 10:
+            warns.append('…（其余 %d 条见清单）' % (len(std_bad) - 10))
 
     print('登记册 %s 行 %d | 人名表 %s 行 %d'
           % (os.path.basename(reg_path or '(跳过)'), len(reg1_rows),
@@ -602,6 +629,10 @@ def main(argv=None):
             write_pair_warnings(pair_bad, PAIR_REPORT)
             print('审定引用无配对（告警，不计硬错误）: %d 条，清单 → %s'
                   % (len(pair_bad), PAIR_REPORT))
+        if std_bad or (os.path.exists(std_index_path) and '--std-index' not in argv):
+            write_pair_warnings(std_bad, STD_PAIR_REPORT)
+            print('标准库引用无配对（告警，不计硬错误）: %d 条，清单 → %s'
+                  % (len(std_bad), STD_PAIR_REPORT))
         # 人名缺籍属/生卒（013 工程）：同口径告警，清单落 specs/013
         if reg2_path:
             rows2, _w2 = parse_registry2_full(reg2_path)

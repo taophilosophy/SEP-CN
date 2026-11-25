@@ -23,6 +23,10 @@ def main():
     files = sorted(glob.glob(os.path.join(tp.QD, '*.json')))
     index = tp.build_index(files=files)
     size = tp.save_index(index)
+    # 标准文件术语库（GB 标准）：同一套判据，条目全按标准库计
+    sfiles = sorted(glob.glob(os.path.join(tp.STD_QD, '*.json')))
+    sindex = tp.build_index(files=sfiles, force_lib=tp.LIB_STD)
+    ssize = tp.save_index(sindex, tp.STD_INDEX_PATH)
     recs = len(index['records'])
     by_lib = {}
     for r in index['records']:
@@ -32,6 +36,9 @@ def main():
     print('映射：by_key %d、en %d、cn %d；索引 %s（%.1f MB）'
           % (len(index['by_key']), len(index['en']), len(index['cn']),
              tp.INDEX_PATH, size / 1048576.0))
+    print('标准库：缓存 %d 份 → 条目 %d；索引 %s（%.2f MB）'
+          % (len(sfiles), len(sindex['records']), tp.STD_INDEX_PATH,
+             ssize / 1048576.0))
 
 
 if __name__ == '__main__':

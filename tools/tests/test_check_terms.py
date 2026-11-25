@@ -292,3 +292,49 @@ class PairingGateTests(unittest.TestCase):
         # 配对告警是告警级：本夹具无自洽错误，退出码应为 0
         self.assertEqual(self.code, 0)
 
+class StdPairingGateTests(unittest.TestCase):
+    """GB 标准库配对门（ADR-0088 同判据）：claim 无配对即告警，负证豁免。"""
+
+    REG_TEXT = (
+        '# 测试登记册\n\n'
+        '| 键 | 原文 | 译法 | 首现 | 依据 | 裁定日期 |\n'
+        '| --- | --- | --- | --- | --- | --- |\n'
+        '| scada system | — | 数据采集系统 | test | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28） | 2026-10-28 |\n'
+        '| noise term | — | 噪声项 | test | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28） | 2026-10-28 |\n'
+        '| negative std | — | 反证标 | test | 知网系查证无收录（GB 标准库凭证在案 2026-10-28） | 2026-10-28 |\n'
+    )
+
+    def setUp(self):
+        import tempfile
+        from tools import term_pairing as tp
+        self.tmp = tempfile.mkdtemp(prefix='stdgate-')
+        reg = os.path.join(self.tmp, 'registry.md')
+        with io.open(reg, 'w', encoding='utf-8', newline='\n') as f:
+            f.write(self.REG_TEXT)
+        idx = {'records': [['数据采集系统', 'SCADA system', '工业自动化 术语', 'GB/T 1', 'std']],
+               'by_key': {}, 'en': {}, 'cn': {}}
+        for i, r in enumerate(idx['records']):
+            for e in tp.en_stems(r[1]):
+                idx['en'].setdefault(e, []).append(i)
+            for ck in tp.cn_keys(r[0]):
+                idx['cn'].setdefault(ck, []).append(i)
+        self.path = os.path.join(self.tmp, 'std.json.gz')
+        tp.save_index(idx, self.path)
+        buf = io.StringIO()
+        with redirect_stdout(buf):
+            self.code = check_terms.main(['--registry', reg, '--std-index', self.path])
+        self.out = buf.getvalue()
+
+    def tearDown(self):
+        import shutil
+        shutil.rmtree(self.tmp, ignore_errors=True)
+
+    def test_matched_std_row_passes(self):
+        self.assertNotIn('scada system', self.out)
+
+    def test_unmatched_std_claim_warns(self):
+        self.assertIn('标准库引用无配对（告警）: noise term', self.out)
+
+    def test_negative_std_claim_exempt(self):
+        self.assertNotIn('negative std', self.out)
+

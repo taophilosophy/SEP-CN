@@ -18,7 +18,9 @@ from collections import defaultdict
 
 # 索引产物路径（入库；缓存新增后重跑 builder 刷新）
 INDEX_PATH = 'specs/058-term-full-reextraction/results/term-pair-index.json.gz'
+STD_INDEX_PATH = 'specs/058-term-full-reextraction/results/std-pair-index.json.gz'
 QD = 'specs/008-terminology-campaign/results/queries/termonline-all'
+STD_QD = 'specs/008-terminology-campaign/results/queries/termonline-standard'
 
 # 库别标记（lib_of 的返回值）
 LIB_AUDIT = 'audit'      # 审定公布名词库
@@ -94,7 +96,7 @@ def cache_filename(key):
     return re.sub(r'[^0-9a-zA-Z]+', '_', str(key).strip().lower()).strip('_')
 
 
-def build_index(qd=QD, files=None):
+def build_index(qd=QD, files=None, force_lib=None):
     """扫描缓存目录建索引。返回 {records, by_key, en, cn}；records 元素为
     [cn, en, std, code, lib]，三个映射的值都是 records 下标列表。"""
     import glob
@@ -113,7 +115,7 @@ def build_index(qd=QD, files=None):
             continue
         for h in j.get('hits') or []:
             std = str(h.get('standard') or h.get('source') or '')
-            lib = lib_of(std)
+            lib = force_lib or lib_of(std)
             if not lib:
                 continue
             rec = [h.get('cn') or '', h.get('en') or '', std,
@@ -144,6 +146,46 @@ def save_index(index, path=INDEX_PATH):
 def load_index(path=INDEX_PATH):
     with gzip.open(path, 'rb') as f:
         return json.loads(f.read().decode('utf-8'))
+
+
+def classify_std_row(key, zh, basis, index):
+    """标准文件术语库（GB 标准）配对判定：同 classify_row，但条目全按标准库计。
+    返回 (verdict, hit)；verdict ∈ pair/en-only/cn-only/none。"""
+    forms = zh_forms(zh, basis)
+    seg = re.split(r'\s*/\s*', key)
+    stems = set()
+    for s in [key] + seg:
+        stems |= en_stems(s)
+    records = index['records']
+    pool_ids = set()
+    for s in [key] + seg:
+        pool_ids.update(index['by_key'].get(cache_filename(s), ()))
+    for e in stems:
+        pool_ids.update(index['en'].get(e, ()))
+    for f in forms:
+        pool_ids.update(index['cn'].get(f, ()))
+    pool = [records[i] for i in pool_ids]
+    en_hits = [r for r in pool if en_stems(r[1]) & stems]
+    cn_hits = [r for r in pool if cn_keys(r[0]) & forms]
+    pairs = [r for r in en_hits if cn_keys(r[0]) & forms]
+    if pairs:
+        return 'pair', pairs[0]
+    if en_hits:
+        return 'en-only', en_hits[0]
+    if cn_hits:
+        return 'cn-only', cn_hits[0]
+    return 'none', ['', '', '', '', '']
+
+
+def needs_std_pairing(basis):
+    """依据是否主张 GB 标准库命中且未说明（true = 需配对否则告警）。"""
+    if 'GB 标准库' not in basis and 'termonline-standard' not in basis:
+        return False
+    if '无收录' in basis or '查无' in basis or '无配对' in basis or '无直接对应' in basis:
+        return False
+    if ACK_RE.search(basis):
+        return False
+    return True
 
 
 def classify_row(key, zh, basis, index):
