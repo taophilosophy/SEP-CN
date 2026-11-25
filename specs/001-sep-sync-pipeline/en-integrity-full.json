@@ -1,52 +1,73 @@
 {
-  "audited": 1872,
-  "ran_at": "2026-11-14T02:27:15Z",
-  "clean": 1872,
-  "with_hard_issues": 0,
-  "hard_findings": 0,
+  "audited": 1873,
+  "ran_at": "2026-11-25T04:54:38Z",
+  "clean": 1871,
+  "with_hard_issues": 2,
+  "hard_findings": 3,
   "errors": [],
-  "mathjax_entries": 454,
-  "math_inline_entries": 862,
+  "mathjax_entries": 455,
+  "math_inline_entries": 863,
   "math_asset_entries": 2,
   "default_absent_total": 0,
   "site_ref_segments": {
-    "support": 24776,
-    "css": 18582,
-    "js": 15485,
-    "info.html": 12395,
-    "cgi-bin": 11314,
-    "symbols": 10586,
-    "archives": 7450,
-    "contents.html": 6196,
-    "new.html": 6194,
-    "published.html": 6194,
-    "about.html": 6194,
-    "board.html": 6194,
-    "cite.html": 6194,
-    "special-characters.html": 6194,
-    "tools": 6194,
-    "contact.html": 6194,
-    "index.html": 5294,
-    "fundraising": 3097,
-    "accessibility.html": 3097,
-    "": 3097
+    "support": 24832,
+    "css": 18624,
+    "js": 15520,
+    "info.html": 12423,
+    "cgi-bin": 11341,
+    "symbols": 10597,
+    "archives": 7482,
+    "contents.html": 6210,
+    "new.html": 6208,
+    "published.html": 6208,
+    "about.html": 6208,
+    "board.html": 6208,
+    "cite.html": 6208,
+    "special-characters.html": 6208,
+    "tools": 6208,
+    "contact.html": 6208,
+    "index.html": 5208,
+    "fundraising": 3104,
+    "accessibility.html": 3104,
+    "": 3104
   },
   "external_ref_domains": {
-    "leibniz.stanford.edu": 6841,
-    "philpapers.org": 3957,
-    "mally.stanford.edu": 3136,
-    "fonts.googleapis.com": 3097,
-    "www.inphoproject.org": 1878,
-    "arxiv.org": 401,
+    "leibniz.stanford.edu": 6850,
+    "philpapers.org": 3962,
+    "mally.stanford.edu": 3143,
+    "fonts.googleapis.com": 3104,
+    "www.inphoproject.org": 1879,
+    "arxiv.org": 399,
     "archive.org": 280,
-    "hdl.handle.net": 231,
-    "www.iep.utm.edu": 178,
-    "web.archive.org": 172,
-    "sites.google.com": 151,
+    "hdl.handle.net": 232,
+    "www.iep.utm.edu": 177,
+    "web.archive.org": 173,
+    "sites.google.com": 156,
     "ctext.org": 115,
-    "doi.org": 103,
+    "doi.org": 105,
     "gallica.bnf.fr": 95,
-    "philsci-archive.pitt.edu": 86
+    "iep.utm.edu": 86
   },
-  "problems": []
+  "problems": [
+    {
+      "slug": "aristotle-psychology",
+      "missing_assets": [
+        "index..html"
+      ],
+      "unregistered_orphans": [
+        "suppl1.html"
+      ],
+      "fetched_not_registered": [
+        "suppl2.html",
+        "suppl3.html",
+        "suppl4.html"
+      ]
+    },
+    {
+      "slug": "saadya",
+      "unregistered_orphans": [
+        "notes.html"
+      ]
+    }
+  ]
 }
