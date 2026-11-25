@@ -1,0 +1,93 @@
+{
+ "schema": "sep-cn-phase11/1",
+ "generated_at": "2026-11-25T03:11:23Z",
+ "offline": false,
+ "ok": true,
+ "steps": [
+  {
+   "step": "fetch_catalog",
+   "exit": 0,
+   "ok": true,
+   "json": null,
+   "tail": [
+    "}"
+   ]
+  },
+  {
+   "step": "summary_sync report",
+   "exit": 0,
+   "ok": true,
+   "json": {
+    "add": 0,
+    "remove": 0,
+    "mapped": 1873,
+    "verdict": "specs/001-sep-sync-pipeline/catalog-verdict.json"
+   },
+   "tail": [
+    "{\"add\": 0, \"remove\": 0, \"mapped\": 1873, \"verdict\": \"specs/001-sep-sync-pipeline/catalog-verdict.json\"}"
+   ]
+  },
+  {
+   "step": "catalog_drift --latest",
+   "exit": 0,
+   "ok": true,
+   "json": {
+    "changed": false,
+    "upstream": {
+     "items": 1873,
+     "alias_rows": 652,
+     "cluster_mothers": 187
+    }
+   },
+   "tail": [
+    "5. `python tools/check_catalog_network.py --gate` 四门全绿"
+   ],
+   "changed": false
+  },
+  {
+   "step": "rebuild_catalog --check",
+   "exit": 0,
+   "ok": true,
+   "json": null,
+   "tail": [
+    "}"
+   ]
+  },
+  {
+   "step": "check_catalog_network --gate",
+   "exit": 0,
+   "ok": true,
+   "json": null,
+   "tail": [
+    "}"
+   ]
+  },
+  {
+   "step": "gen_en_summary --check",
+   "exit": 0,
+   "ok": true,
+   "json": null,
+   "tail": [
+    "english summary: 最新（yuanwen\\SUMMARY-en.md）"
+   ]
+  },
+  {
+   "step": "check_mulu_s",
+   "exit": 0,
+   "ok": true,
+   "json": null,
+   "tail": [
+    "HARD ERRORS: 0"
+   ]
+  },
+  {
+   "step": "sync_official_snapshot --check",
+   "exit": 0,
+   "ok": true,
+   "json": null,
+   "tail": [
+    "}"
+   ]
+  }
+ ]
+}

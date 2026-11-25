@@ -43,6 +43,9 @@ python specs/062-phase12-recheck/bin/phase12.py --no-fetch          # 只复核�
 1. **抓取前快照**：`baseline/entries.json` 复制到 `results/entries-before.json`。
 2. **全量重抓**：`tools/fetch_all.py --config A`（16 路）。上游未变件走 `unchanged`：不写盘、不动钉账（ADR-0045），仍执行转换；有未搬运分歧且上游已变时自动拒抓。
 3. **差集**：按 `slug → {path: sha256}` 比较前后，输出 changed／added／removed。
+   * `bin/en_delta.py`：把磁盘变化按**可见文本**判为 `new`／`layout`（逐字等值，仅换行、标签属性、注释、模板重排）／`tokens`（词元多重集等值）／`text`（实质改动）。
+   * `bin/entry_meta_delta.py`：比较 `title`／`authors`／`pubinfo`／`archive_edition`，`substantive_revision` 变更是上游修订的硬信号。
+   * 处置：`layout` 不建账（钉前移照常）；`text` 出清单走 `compare.py` → 置空待译（ADR-0050/0068）；`new` 走建账；`tokens` 人工核。
 4. **补丁复核**（三判定）：
    * 有效＝命中数等于 `expect`（补丁仍必要且可用）；
    * 已修复＝命中 0 且 replace 已存在（上游已修，补丁可退役，走 ADR-0085 升档流程第 3、4 步）；

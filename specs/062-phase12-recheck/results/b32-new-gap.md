@@ -1,0 +1,46 @@
+# B3.2 池重建后新增 gap 清单（2026-11-25）
+
+新增 40 件（旧基线非 gap → 现 gap）；修复 0。
+
+| 词条 | 页长 |
+| --- | --- |
+| abortion | 72639 |
+| ayer | 107700 |
+| benjamin | 164687 |
+| bodin | 164087 |
+| chinese-social-political | 105328 |
+| comte | 103980 |
+| conscience | 90453 |
+| culture-cogsci | 260886 |
+| delusion | 134660 |
+| dilthey | 106363 |
+| dubois | 147139 |
+| embodied-cognition | 150502 |
+| engels | 111485 |
+| ethics-cultural-heritage | 151562 |
+| gametes-donation-sale | 158446 |
+| gasset | 221938 |
+| genetics | 97955 |
+| gorampa | 79548 |
+| herder | 200353 |
+| history | 164969 |
+| human-genome | 177990 |
+| hume-moral | 125766 |
+| informed-consent | 116450 |
+| justice-retributive | 129200 |
+| logic-deontic | 186633 |
+| macroevolution | 141237 |
+| neuroethics | 154120 |
+| oakeshott | 88890 |
+| organ-donation | 102069 |
+| organs-sale | 92579 |
+| philosophy-mexico | 141257 |
+| phylogenetic-inference | 198043 |
+| plato-sophstate | 141046 |
+| privacy | 187377 |
+| progress | 99438 |
+| publichealth-ethics | 268453 |
+| rationality-historicist | 139726 |
+| rule-following | 142298 |
+| schopenhauer | 109097 |
+| yorck | 76762 |

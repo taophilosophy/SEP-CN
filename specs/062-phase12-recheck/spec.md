@@ -55,6 +55,31 @@
 - 与上一基线（2026-11-24T18:25:19Z）比较：added／removed／renamed／alias_changed **四项全空**。
 - 四方门禁与报告：见 `results/phase11-report.md`。
 
-## 5. 阶段 1.2 执行记录
+## 5. 阶段 1.2 执行记录（2026-11-25）
 
-（1.1 收口后填写；残差族与补丁判定逐条落 results。）
+**执行方式**：`python specs/062-phase12-recheck/bin/phase12.py --fetch --config A`（16 路，ADR-0069 无强制间隔）。
+
+**前置修复**（本阶段发现并修复，见 tools 单测）：
+
+1. `tools/fetch_all.py` 自 2026-11-18 起不可用：`CONFIGS` 已改为整数线程数，第 162 行仍按 `cfg[0]` 取数 → `TypeError`；worker 内 `_checkpoint(..., cfg)` 引用不存在的 `cfg`。
+2. `fetch_one` 的 `unchanged` 结果（无 `files`）被 worker 直接送 `upsert_baseline` 会整条覆盖钉账、丢失 `files[].sha256`（ADR-0045 风险）。现改为：unchanged 不写盘、不动账、仍转换；`upsert_baseline` 增护栏，无 `files` 的拒收。
+
+**差集口径**：`results/entries-before.json`（抓取前）↔ 抓取后 `baseline/entries.json`，按 `slug → {path: sha256}` 比较。en/ 文件的性质分类用 `bin/en_delta.py`：
+
+| 判定 | 判据 | 处置 |
+| ---- | ---- | ---- |
+| `new` | HEAD 无此路径 | 随钉入库，走 specs/001 建账 |
+| `layout` | 可见文本逐字等值（仅换行／标签属性／注释／模板重排） | 不建账；钉前移照常 |
+| `tokens` | 词元多重集等值但词序变 | 人工核对 |
+| `text` | 可见文本有实质改动 | 出建账清单，走 compare → 置空待译（ADR-0050/0068） |
+
+**结果**（2026-11-25，`results/phase12-run.json`、`phase12-analysis.md`）：
+
+* **抓取**：1873/1873，0 抓取失败；unchanged 1351、账变化 522；耗时 1414 秒（16 路）。账变化的主体是 `local.js` 补登（存量文件入 `files[]`，盘面不变），磁盘真变化 126 文件／100 词条。
+* **转换**：1871 件成功；2 件因 Windows 文件占用 `PermissionError` 失败（frege-logic、scientific-reproducibility），补转后 I2 复核 **1873 件 0 issue**。
+* **磁盘变化分类**（`en_delta.py`）：`text` 66、`layout` 42、`rename-wave` 17、`binary` 1。`text` 中的大改件与 10 件 `substantive_revision` 变更完全对应（justice-retributive、hume-moral、plato-sophstate、culture-cogsci、gorampa、logic-deontic、delusion、embodied-cognition、rule-following、schopenhauer）。
+* **元数据**（`entry_meta_delta.py`）：29 件变化，其中 `substantive_revision` 变更 10 件（上游 2026-11-21～24 发布）。
+* **补丁**：3 条全部“有效”（命中 1/1），`mismatch 0`、`admission_bad 0`、`index_bad 0`、`public_candidates 0`；无需退役或改写。
+* **基线**：B3.1 重跑 1663／210，与旧基线集合零差（转好 0／转差 0）；B3.2 judge（旧池）pool 1780／gap 48／stale 45，`--build` 重建池后 pool 1811／gap 62／stale 0；相对旧基线（1851／22／0）新增 gap 40、修复 0——新增族集中在本轮 `en` 变化件，待 053 线下批四出口处置。
+* **处置**：`text` 66 件出建账清单（10 件正式修订优先），走 `compare.py` → 置空待译；`layout`／`rename-wave`／`binary` 不建账；`522` 账变化不构成上游更新。
+

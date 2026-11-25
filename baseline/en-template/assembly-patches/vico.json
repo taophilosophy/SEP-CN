@@ -4,8 +4,8 @@
  "generated_by": "specs/053 bin/assembly_pool.py",
  "note": "格式层残差补丁：m=标记段、u=单元布局、r=纯布局区段；禁含散文",
  "stats": {
-  "page_bytes": 61962,
-  "pool_bytes": 32200,
+  "page_bytes": 61963,
+  "pool_bytes": 32201,
   "n_patches": 67
  },
  "patches": [
@@ -38750,12 +38750,12 @@
   },
   {
    "u": 56711,
-   "len": 215,
-   "sha": "3f9e66b21bcfeec2",
+   "len": 216,
+   "sha": "91462f1e1cff363c",
    "items": [
     [
      "mk",
-     "<a href=\"http://gallica.bnf.fr/ark:/12148/bpt6k84339f/f1.image\" target=\"other\">"
+     "<a href=\"https://gallica.bnf.fr/ark:/12148/bpt6k84339f/f1.image\" target=\"other\">"
     ],
     [
      "tx",
@@ -38908,7 +38908,7 @@
    ]
   },
   {
-   "u": 57003,
+   "u": 57004,
    "len": 636,
    "sha": "50b0ec783359d7ba",
    "items": [
@@ -39431,7 +39431,7 @@
    ]
   },
   {
-   "r": 57644,
+   "r": 57645,
    "len": 7,
    "sha": "da73131d8a61fe0d",
    "after": "</div> \n"

@@ -1,0 +1,38 @@
+{
+ "exit": 1,
+ "json": {
+  "total": 1873,
+  "fetched": 1873,
+  "unchanged": 1351,
+  "converted": 1871,
+  "fetch_failures": [],
+  "convert_failures": [
+   {
+    "at": "2026-11-25T03:20:21Z",
+    "slug": "frege-logic",
+    "files": 211,
+    "missing": 0,
+    "archive_edition": "Summer 2024",
+    "ok": true,
+    "converted": false,
+    "conv_error": "PermissionError(13, '拒绝访问。')"
+   },
+   {
+    "at": "2026-11-25T03:32:32Z",
+    "slug": "scientific-reproducibility",
+    "files": 3,
+    "missing": 0,
+    "archive_edition": "Summer 2026",
+    "ok": true,
+    "converted": false,
+    "conv_error": "PermissionError(13, '拒绝访问。')"
+   }
+  ],
+  "elapsed_s": 1414.1
+ },
+ "tail": [
+  "  ],",
+  "  \"elapsed_s\": 1414.1",
+  "}"
+ ]
+}

@@ -4,8 +4,8 @@
  "generated_by": "specs/053 bin/assembly_pool.py",
  "note": "格式层残差补丁：m=标记段、u=单元布局、r=纯布局区段；禁含散文",
  "stats": {
-  "page_bytes": 148289,
-  "pool_bytes": 133639,
+  "page_bytes": 148290,
+  "pool_bytes": 133640,
   "n_patches": 235
  },
  "patches": [
@@ -165864,12 +165864,12 @@
   },
   {
    "u": 141680,
-   "len": 105,
-   "sha": "d3075417322246f6",
+   "len": 106,
+   "sha": "624aef7db9358d0f",
    "items": [
     [
      "mk",
-     "<a href=\"http://gallica.bnf.fr/\" target=\"other\">"
+     "<a href=\"https://gallica.bnf.fr/\" target=\"other\">"
     ],
     [
      "tx",
@@ -165936,31 +165936,31 @@
    ]
   },
   {
-   "r": 141910,
+   "r": 141911,
    "len": 5,
    "sha": "0683d9779d8c72e8",
    "after": "</li>\n\n"
   },
   {
-   "r": 141985,
+   "r": 141986,
    "len": 5,
    "sha": "0683d9779d8c72e8",
    "after": "</li>\n\n"
   },
   {
-   "r": 142069,
+   "r": 142070,
    "len": 5,
    "sha": "0683d9779d8c72e8",
    "after": "</li>\n\n"
   },
   {
-   "r": 142179,
+   "r": 142180,
    "len": 5,
    "sha": "0683d9779d8c72e8",
    "after": "</li>\n\n"
   },
   {
-   "u": 142188,
+   "u": 142189,
    "len": 228,
    "sha": "fccf82b754880228",
    "items": [
@@ -166155,7 +166155,7 @@
    ]
   },
   {
-   "u": 142420,
+   "u": 142421,
    "len": 336,
    "sha": "23d20321ea13365a",
    "items": [
@@ -166321,19 +166321,19 @@
    ]
   },
   {
-   "r": 142836,
+   "r": 142837,
    "len": 5,
    "sha": "b8dc660f3c20d4ce",
    "after": "<p>\n\n "
   },
   {
-   "r": 143815,
+   "r": 143816,
    "len": 5,
    "sha": "d24ff827d6aec3cc",
    "after": "</p>\n\n"
   },
   {
-   "u": 143885,
+   "u": 143886,
    "len": 135,
    "sha": "4af6d196c360e6e2",
    "items": [

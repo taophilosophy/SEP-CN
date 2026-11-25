@@ -5,7 +5,7 @@
  "note": "格式层残差补丁：m=标记段、u=单元布局、r=纯布局区段；禁含散文",
  "stats": {
   "page_bytes": 156299,
-  "pool_bytes": 50912,
+  "pool_bytes": 50926,
   "n_patches": 220
  },
  "patches": [
@@ -62001,7 +62001,7 @@
     ],
     [
      "mk",
-     "<a href=\"../croce-aesthetics/\">"
+     "<!--<a href=\"../croce-aesthetics/\">-->"
     ],
     [
      "tx",
@@ -62028,7 +62028,7 @@
     ],
     [
      "mk",
-     "</a>"
+     "<!--</a>-->"
     ],
     [
      "mk",

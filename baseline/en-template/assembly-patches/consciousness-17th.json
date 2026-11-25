@@ -4,8 +4,8 @@
  "generated_by": "specs/053 bin/assembly_pool.py",
  "note": "格式层残差补丁：m=标记段、u=单元布局、r=纯布局区段；禁含散文",
  "stats": {
-  "page_bytes": 115321,
-  "pool_bytes": 55943,
+  "page_bytes": 115322,
+  "pool_bytes": 55944,
   "n_patches": 248
  },
  "patches": [
@@ -68218,8 +68218,8 @@
   },
   {
    "u": 109728,
-   "len": 248,
-   "sha": "19cef5f4fb1fa7d4",
+   "len": 249,
+   "sha": "6c3989df5606966c",
    "items": [
     [
      "mk",
@@ -68276,7 +68276,7 @@
     ],
     [
      "mk",
-     "<a href=\"http://gallica.bnf.fr/\" target=\"other\">"
+     "<a href=\"https://gallica.bnf.fr/\" target=\"other\">"
     ],
     [
      "tx",
@@ -68416,19 +68416,19 @@
    ]
   },
   {
-   "m": 109976,
+   "m": 109977,
    "len": 5,
    "sha": "0683d9779d8c72e8",
    "after": "</li>\n"
   },
   {
-   "m": 110058,
+   "m": 110059,
    "len": 5,
    "sha": "b8dc660f3c20d4ce",
    "after": "<p>\n\n "
   },
   {
-   "u": 110933,
+   "u": 110934,
    "len": 139,
    "sha": "f348ec392492305e",
    "items": [
@@ -68624,7 +68624,7 @@
    ]
   },
   {
-   "m": 111077,
+   "m": 111078,
    "len": 8,
    "sha": "fb433b3dc85934c4",
    "after": "</div> \n\n\n"

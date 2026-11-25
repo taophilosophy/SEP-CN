@@ -32,6 +32,19 @@ def run(args):
     return p.returncode, (p.stdout or '').strip(), (p.stderr or '').strip()
 
 
+def run_stream(args):
+    """长任务：逐行转发到 stderr（保持进度可见），返回合并输出。"""
+    p = subprocess.Popen([sys.executable, '-B'] + args, cwd=ROOT,
+                         stdout=subprocess.PIPE, stderr=subprocess.STDOUT,
+                         text=True, encoding='utf-8', errors='replace', bufsize=1)
+    lines = []
+    for line in p.stdout:
+        sys.stderr.write(line)
+        sys.stderr.flush()
+        lines.append(line.rstrip('\n'))
+    return p.wait(), '\n'.join(lines), ''
+
+
 def last_json(text):
     text = (text or '').strip()
     try:
@@ -104,24 +117,30 @@ def main(argv=None):
     os.makedirs(RES, exist_ok=True)
 
     before_path = os.path.join(RES, 'entries-before.json')
-    shutil.copyfile(ENTRIES, before_path)
+    if fetch or not os.path.exists(before_path):
+        shutil.copyfile(ENTRIES, before_path)
     before = snap(before_path)
 
+    fetch_last = os.path.join(RES, 'fetch-last.json')
     fetch_result = None
     if fetch:
         args = ['tools/fetch_all.py', '--config', config]
         if '--no-convert' in argv:
             args.append('--no-convert')
-        for flag in ('--limit', '--only'):
-            if flag in argv:
-                i = argv.index(flag)
-                args += [flag] + ([argv[i + 1]] if flag == '--limit'
-                                  else argv[i + 1:])
-                break
-        code, out, err = run(args)
+        if '--limit' in argv:
+            args += ['--limit', argv[argv.index('--limit') + 1]]
+        if '--only' in argv:
+            tail = [a for a in argv[argv.index('--only') + 1:] if not a.startswith('-')]
+            args += ['--only'] + tail
+        code, out, err = run_stream(args)
         fetch_result = {'exit': code, 'json': last_json(out),
                         'tail': (out or err).splitlines()[-3:]}
+        with open(fetch_last, 'w', encoding='utf-8', newline='\n') as fh:
+            fh.write(json.dumps(fetch_result, ensure_ascii=False, indent=1) + '\n')
         print('[%s] fetch_all（exit %d）' % ('OK' if code == 0 else 'WARN', code))
+    elif os.path.exists(fetch_last):
+        fetch_result = json.load(open(fetch_last, encoding='utf-8'))
+        fetch_result['reused'] = True
 
     after = snap(ENTRIES)
     delta = diff_snap(before, after)

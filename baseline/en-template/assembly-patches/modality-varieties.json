@@ -5,7 +5,7 @@
  "note": "格式层残差补丁：m=标记段、u=单元布局、r=纯布局区段；禁含散文",
  "stats": {
   "page_bytes": 98907,
-  "pool_bytes": 61608,
+  "pool_bytes": 61615,
   "n_patches": 144
  },
  "patches": [
@@ -75938,10 +75938,18 @@
    "after": "</tr>\n\n"
   },
   {
-   "u": 94127,
-   "len": 386,
-   "sha": "7fc6f00bc37ec583",
+   "u": 94122,
+   "len": 391,
+   "sha": "a94880839f495723",
    "items": [
+    [
+     "mk",
+     "<p>"
+    ],
+    [
+     "mk",
+     "\n\n "
+    ],
     [
      "mk",
      "<a href=\"../analytic-synthetic/\">"
@@ -76194,7 +76202,7 @@
     ],
     [
      "mk",
-     "\n "
+     "\n\n "
     ]
    ]
   },

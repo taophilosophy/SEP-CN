@@ -4,8 +4,8 @@
  "generated_by": "specs/053 bin/assembly_pool.py",
  "note": "格式层残差补丁：m=标记段、u=单元布局、r=纯布局区段；禁含散文",
  "stats": {
-  "page_bytes": 119372,
-  "pool_bytes": 91043,
+  "page_bytes": 119377,
+  "pool_bytes": 91048,
   "n_patches": 243
  },
  "patches": [
@@ -108291,8 +108291,8 @@
   },
   {
    "u": 109064,
-   "len": 286,
-   "sha": "cbf6733cc27262b1",
+   "len": 287,
+   "sha": "751ae9e1b2eafd03",
    "items": [
     [
      "tx",
@@ -108314,7 +108314,7 @@
     ],
     [
      "mk",
-     "<a href=\"http://classiques.uqac.ca/classiques/condorcet/cinq_memoires_instruction/cinq_memoires.html\" target=\"other\">"
+     "<a href=\"https://classiques.uqam.ca/classiques/condorcet/cinq_memoires_instruction/cinq_memoires.html\" target=\"other\">"
     ],
     [
      "mk",
@@ -108467,13 +108467,13 @@
    ]
   },
   {
-   "m": 109350,
+   "m": 109351,
    "len": 5,
    "sha": "0683d9779d8c72e8",
    "after": "</li>\n\n"
   },
   {
-   "u": 109359,
+   "u": 109360,
    "len": 281,
    "sha": "60f239cc6bb72611",
    "items": [
@@ -108708,15 +108708,15 @@
    ]
   },
   {
-   "m": 109640,
+   "m": 109641,
    "len": 5,
    "sha": "0683d9779d8c72e8",
    "after": "</li>\n\n"
   },
   {
-   "u": 109649,
-   "len": 331,
-   "sha": "8be7915e1375a8d4",
+   "u": 109650,
+   "len": 332,
+   "sha": "f4fc83540bc09c71",
    "items": [
     [
      "tx",
@@ -108738,7 +108738,7 @@
     ],
     [
      "mk",
-     "<a href=\"http://gallica.bnf.fr/ark:/12148/bpt6k41724z\" target=\"other\">"
+     "<a href=\"https://gallica.bnf.fr/ark:/12148/bpt6k41724z\" target=\"other\">"
     ],
     [
      "mk",
@@ -109048,13 +109048,13 @@
    ]
   },
   {
-   "m": 109980,
+   "m": 109982,
    "len": 5,
    "sha": "0683d9779d8c72e8",
    "after": "</li>\n\n"
   },
   {
-   "u": 109989,
+   "u": 109991,
    "len": 397,
    "sha": "1eafe7ae7e7f2331",
    "items": [
@@ -109420,15 +109420,15 @@
    ]
   },
   {
-   "m": 110386,
+   "m": 110388,
    "len": 5,
    "sha": "0683d9779d8c72e8",
    "after": "</li>\n\n"
   },
   {
-   "u": 110395,
-   "len": 186,
-   "sha": "20a4bed43dd5ae50",
+   "u": 110397,
+   "len": 187,
+   "sha": "ef69e7701a3377bf",
    "items": [
     [
      "tx",
@@ -109450,7 +109450,7 @@
     ],
     [
      "mk",
-     "<a href=\"http://gallica.bnf.fr/ark:/12148/bpt6k823018\" target=\"other\">"
+     "<a href=\"https://gallica.bnf.fr/ark:/12148/bpt6k823018\" target=\"other\">"
     ],
     [
      "mk",
@@ -109567,13 +109567,13 @@
    ]
   },
   {
-   "m": 110581,
+   "m": 110584,
    "len": 5,
    "sha": "0683d9779d8c72e8",
    "after": "</li>\n\n"
   },
   {
-   "u": 110590,
+   "u": 110593,
    "len": 286,
    "sha": "c517e041b5bbad8e",
    "items": [
@@ -109778,19 +109778,19 @@
    ]
   },
   {
-   "m": 110876,
+   "m": 110879,
    "len": 5,
    "sha": "0683d9779d8c72e8",
    "after": "</li> \n\n"
   },
   {
-   "m": 110881,
+   "m": 110884,
    "len": 6,
    "sha": "bd23c1e7895defe8",
    "after": "</ul>\n\n"
   },
   {
-   "u": 110891,
+   "u": 110894,
    "len": 26,
    "sha": "255e752599d3ab4b",
    "items": [
@@ -109837,19 +109837,19 @@
    ]
   },
   {
-   "m": 110917,
+   "m": 110920,
    "len": 6,
    "sha": "1eaf6670c6b389ee",
    "after": "</h3>\n\n"
   },
   {
-   "m": 110923,
+   "m": 110926,
    "len": 4,
    "sha": "82f4fb72c5b57add",
    "after": "<ul>\n\n "
   },
   {
-   "u": 110931,
+   "u": 110934,
    "len": 256,
    "sha": "0521be8c9bdf7652",
    "items": [
@@ -110000,13 +110000,13 @@
    ]
   },
   {
-   "m": 111187,
+   "m": 111190,
    "len": 5,
    "sha": "0683d9779d8c72e8",
    "after": "</li> \n\n "
   },
   {
-   "u": 111196,
+   "u": 111199,
    "len": 182,
    "sha": "2cd7931ba0de2d53",
    "items": [
@@ -110148,19 +110148,19 @@
    ]
   },
   {
-   "m": 111378,
+   "m": 111381,
    "len": 5,
    "sha": "0683d9779d8c72e8",
    "after": "</li>\n\n "
   },
   {
-   "u": 111387,
-   "len": 309,
-   "sha": "de3f2462e25d435d",
+   "u": 111390,
+   "len": 310,
+   "sha": "c1af40ca66fd7abd",
    "items": [
     [
      "mk",
-     "<a href=\"http://classiques.uqac.ca/contemporains/massot_alain/condorcet/condorcet.html\" target=\"other\">"
+     "<a href=\"https://classiques.uqam.ca/contemporains/massot_alain/condorcet/condorcet.html\" target=\"other\">"
     ],
     [
      "tx",
@@ -110395,13 +110395,13 @@
    ]
   },
   {
-   "m": 111696,
+   "m": 111700,
    "len": 5,
    "sha": "0683d9779d8c72e8",
    "after": "</li>\n\n "
   },
   {
-   "u": 111705,
+   "u": 111709,
    "len": 206,
    "sha": "2eb7335050703a82",
    "items": [
@@ -110516,19 +110516,19 @@
    ]
   },
   {
-   "m": 111911,
+   "m": 111915,
    "len": 5,
    "sha": "0683d9779d8c72e8",
    "after": "</li>\n\n "
   },
   {
-   "u": 111920,
-   "len": 246,
-   "sha": "291edca229ee0018",
+   "u": 111924,
+   "len": 247,
+   "sha": "922d4ec24c0fcc4a",
    "items": [
     [
      "mk",
-     "<a href=\"http://classiques.uqac.ca/contemporains/fossaert_robert/de_condorcet_a_gramsci/de_Condorcet.html\" target=\"other\">"
+     "<a href=\"https://classiques.uqam.ca/contemporains/fossaert_robert/de_condorcet_a_gramsci/de_Condorcet.html\" target=\"other\">"
     ],
     [
      "mk",
@@ -110672,19 +110672,19 @@
    ]
   },
   {
-   "m": 112166,
+   "m": 112171,
    "len": 5,
    "sha": "0683d9779d8c72e8",
    "after": "</li>\n"
   },
   {
-   "m": 112171,
+   "m": 112176,
    "len": 6,
    "sha": "bd23c1e7895defe8",
    "after": "</ul>\n\n"
   },
   {
-   "u": 112181,
+   "u": 112186,
    "len": 21,
    "sha": "bbcab53905614961",
    "items": [
@@ -110722,19 +110722,19 @@
    ]
   },
   {
-   "m": 112202,
+   "m": 112207,
    "len": 6,
    "sha": "1eaf6670c6b389ee",
    "after": "</h3>\n\n"
   },
   {
-   "m": 112208,
+   "m": 112213,
    "len": 4,
    "sha": "82f4fb72c5b57add",
    "after": "<ul>\n\n"
   },
   {
-   "u": 112216,
+   "u": 112221,
    "len": 254,
    "sha": "96ba3a5029aaf24c",
    "items": [
@@ -110966,13 +110966,13 @@
    ]
   },
   {
-   "m": 112470,
+   "m": 112475,
    "len": 5,
    "sha": "0683d9779d8c72e8",
    "after": "</li>\n\n"
   },
   {
-   "u": 112479,
+   "u": 112484,
    "len": 287,
    "sha": "bc58ff923232a954",
    "items": [
@@ -111104,13 +111104,13 @@
    ]
   },
   {
-   "m": 112766,
+   "m": 112771,
    "len": 5,
    "sha": "0683d9779d8c72e8",
    "after": "</li>\n\n"
   },
   {
-   "u": 112775,
+   "u": 112780,
    "len": 225,
    "sha": "c1d1c1c7c972ffb0",
    "items": [
@@ -111239,19 +111239,19 @@
    ]
   },
   {
-   "m": 113000,
+   "m": 113005,
    "len": 5,
    "sha": "0683d9779d8c72e8",
    "after": "</li>\n \n "
   },
   {
-   "m": 113111,
+   "m": 113116,
    "len": 5,
    "sha": "0683d9779d8c72e8",
    "after": "</li>\n\n\n"
   },
   {
-   "u": 113120,
+   "u": 113125,
    "len": 135,
    "sha": "788a36a95cf37b52",
    "items": [
@@ -111374,13 +111374,13 @@
    ]
   },
   {
-   "m": 113255,
+   "m": 113260,
    "len": 5,
    "sha": "0683d9779d8c72e8",
    "after": "</li>\n\n "
   },
   {
-   "u": 113264,
+   "u": 113269,
    "len": 469,
    "sha": "ae370c1e75beeed2",
    "items": [
@@ -111904,13 +111904,13 @@
    ]
   },
   {
-   "m": 113733,
+   "m": 113738,
    "len": 5,
    "sha": "0683d9779d8c72e8",
    "after": "</li>\n\n "
   },
   {
-   "u": 113742,
+   "u": 113747,
    "len": 175,
    "sha": "609f3e5bbf1851fa",
    "items": [
@@ -112051,13 +112051,13 @@
    ]
   },
   {
-   "m": 113917,
+   "m": 113922,
    "len": 5,
    "sha": "0683d9779d8c72e8",
    "after": "</li>\n\n"
   },
   {
-   "u": 113926,
+   "u": 113931,
    "len": 189,
    "sha": "2937f14814b06b1d",
    "items": [
@@ -112168,13 +112168,13 @@
    ]
   },
   {
-   "m": 114115,
+   "m": 114120,
    "len": 5,
    "sha": "0683d9779d8c72e8",
    "after": "</li>\n\n "
   },
   {
-   "u": 114124,
+   "u": 114129,
    "len": 257,
    "sha": "161ffbfce37facfc",
    "items": [
@@ -112459,25 +112459,25 @@
    ]
   },
   {
-   "m": 114381,
+   "m": 114386,
    "len": 5,
    "sha": "0683d9779d8c72e8",
    "after": "</li>\n"
   },
   {
-   "m": 114470,
+   "m": 114475,
    "len": 5,
    "sha": "b8dc660f3c20d4ce",
    "after": "<p>\n\n "
   },
   {
-   "m": 115137,
+   "m": 115142,
    "len": 5,
    "sha": "d24ff827d6aec3cc",
    "after": "</p>\n\n"
   },
   {
-   "m": 115142,
+   "m": 115147,
    "len": 7,
    "sha": "da73131d8a61fe0d",
    "after": "</div> \n\n\n"

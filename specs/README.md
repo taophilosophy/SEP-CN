@@ -66,5 +66,6 @@
 | [059-toc-title-normalize](059-toc-title-normalize/spec.md) | specs/059 — 目录条目标题体例规范化实施（甲类机械＋乙类补译，丙类裁定不归一） | — | ✓ | ✓ | — |
 | [060-six-axis-quality-gates](060-six-axis-quality-gates/spec.md) | 六轴独立质量工序建议书（标点、语法、语域、引文、计量、逻辑） | — | ✓ | ✓ | — |
 | [061-standards-realignment-2026](061-standards-realignment-2026/spec.md) | 翻译全流程国标／国际规范复核（2026-11-25） | — | — | — | — |
+| [062-phase12-recheck](062-phase12-recheck/spec.md) | 062 — 阶段 1.1／1.2：目录四方互转复核与 HTML 重抓·基线·转换补丁复核 | — | ✓ | ✓ | — |
 
-共 60 个规格目录。
+共 61 个规格目录。
