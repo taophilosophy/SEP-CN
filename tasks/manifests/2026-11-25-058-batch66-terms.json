@@ -1,0 +1,140 @@
+{
+ "batch": "058-batch66-terms",
+ "date": "2026-11-25",
+ "scope": "术语批 15：逻辑与论证方法族（逻辑基础、论证谬误、模型论定理）；Gödel numbering 并入既有 Gödel encoding 行；Löwenheim–Skolem theorem 已有连字符行，并入不重登",
+ "rows": [
+  {
+   "en": "axiom",
+   "zh": "公理",
+   "table": "term",
+   "first_seen": "语料回收（逻辑方法族扫描 2026-11-25）",
+   "basis": "逻辑与数学基础通行（语料 986 次；与 postulate 公设、theorem 定理并列）；凭证 2026-11-25"
+  },
+  {
+   "en": "biconditional",
+   "zh": "双条件",
+   "table": "term",
+   "first_seen": "语料回收（逻辑方法族扫描 2026-11-25）",
+   "basis": "逻辑学通行（↔；与 conditional 条件句分列）；凭证 2026-11-25"
+  },
+  {
+   "en": "burden of proof",
+   "zh": "举证责任",
+   "table": "term",
+   "first_seen": "语料回收（逻辑方法族扫描 2026-11-25）",
+   "basis": "论证理论通行（与 presumption 推定对举）；凭证 2026-11-25"
+  },
+  {
+   "en": "circular reasoning",
+   "zh": "循环论证",
+   "table": "term",
+   "first_seen": "语料回收（逻辑方法族扫描 2026-11-25）",
+   "basis": "论证理论通行（语料 21 次）；凭证 2026-11-25"
+  },
+  {
+   "en": "combinatory logic",
+   "zh": "组合子逻辑",
+   "table": "term",
+   "first_seen": "语料回收（逻辑方法族扫描 2026-11-25）",
+   "basis": "数理逻辑通行（Schönfinkel–Curry 谱系）；凭证 2026-11-25"
+  },
+  {
+   "en": "compactness theorem",
+   "zh": "紧致性定理",
+   "table": "term",
+   "first_seen": "语料回收（逻辑方法族扫描 2026-11-25）",
+   "basis": "模型论通行（语料 20 次）；凭证 2026-11-25"
+  },
+  {
+   "en": "false dilemma",
+   "zh": "假两难（亦作“虚假两难”）",
+   "table": "term",
+   "first_seen": "语料回收（逻辑方法族扫描 2026-11-25）",
+   "basis": "论证理论通行；凭证 2026-11-25"
+  },
+  {
+   "en": "hypothetical syllogism",
+   "zh": "假言三段论",
+   "table": "term",
+   "first_seen": "语料回收（逻辑方法族扫描 2026-11-25）",
+   "basis": "传统逻辑通行（语料 24 次）；凭证 2026-11-25"
+  },
+  {
+   "en": "lambda calculus",
+   "zh": "λ 演算",
+   "table": "term",
+   "first_seen": "语料回收（逻辑方法族扫描 2026-11-25）",
+   "basis": "数理逻辑与计算理论通行（丘奇；语料见 λ 表达式）；凭证 2026-11-25"
+  },
+  {
+   "en": "lemma",
+   "zh": "引理",
+   "table": "term",
+   "first_seen": "语料回收（逻辑方法族扫描 2026-11-25）",
+   "basis": "数学与逻辑通行（语料 39 次）；凭证 2026-11-25"
+  },
+  {
+   "en": "logical connective",
+   "zh": "逻辑联结词",
+   "table": "term",
+   "first_seen": "语料回收（逻辑方法族扫描 2026-11-25）",
+   "basis": "逻辑学通行（语料 10 次）；凭证 2026-11-25"
+  },
+  {
+   "en": "necessary and sufficient conditions",
+   "zh": "充分必要条件（亦作“充要条件”）",
+   "table": "term",
+   "first_seen": "语料回收（逻辑方法族扫描 2026-11-25）",
+   "basis": "分析哲学通行（语料 12 次）；凭证 2026-11-25"
+  },
+  {
+   "en": "paradox",
+   "zh": "悖论",
+   "table": "term",
+   "first_seen": "语料回收（逻辑方法族扫描 2026-11-25）",
+   "basis": "哲学通行（语料 455 次；与 antinomy 二律背反分列）；凭证 2026-11-25"
+  },
+  {
+   "en": "proof",
+   "zh": "证明（逻辑与数学义；与 burhān 证明按原文分列）",
+   "table": "term",
+   "first_seen": "语料回收（逻辑方法族扫描 2026-11-25）",
+   "basis": "逻辑与数学基础通行（语料高频；与 argument 论证分列）；凭证 2026-11-25"
+  },
+  {
+   "en": "quantifier",
+   "zh": "量词",
+   "table": "term",
+   "first_seen": "语料回收（逻辑方法族扫描 2026-11-25）",
+   "basis": "逻辑学通行（语料 272 次；与 quantifier phrase 量词短语分列）；凭证 2026-11-25"
+  },
+  {
+   "en": "straw man",
+   "zh": "稻草人谬误（亦作“稻草人”）",
+   "table": "term",
+   "first_seen": "语料回收（逻辑方法族扫描 2026-11-25）",
+   "basis": "论证理论通行；凭证 2026-11-25"
+  },
+  {
+   "en": "truth table",
+   "zh": "真值表",
+   "table": "term",
+   "first_seen": "语料回收（逻辑方法族扫描 2026-11-25）",
+   "basis": "逻辑学通行（语料 4 次）；凭证 2026-11-25"
+  },
+  {
+   "en": "axiomatic set theory",
+   "zh": "公理集合论",
+   "table": "term",
+   "first_seen": "语料回收（逻辑方法族扫描 2026-11-25）",
+   "basis": "数学基础通行（与 naive set theory 朴素集合论对举）；凭证 2026-11-25"
+  },
+  {
+   "en": "begging the question",
+   "zh": "丐题（亦作“预设问题”）",
+   "table": "term",
+   "first_seen": "语料回收（逻辑方法族扫描 2026-11-25）",
+   "basis": "论证理论通行（勿与 circular reasoning 循环论证混用）；凭证 2026-11-25"
+  }
+ ]
+}
