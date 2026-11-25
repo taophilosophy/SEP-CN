@@ -9607,9 +9607,8 @@
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/a/aristotle-psychology.md",
-        "sha256": "50955cb529e5506d1e2612f55f2ebaa4de0a78522601a5e658aff5440fa08bee",
+        "sha256": "1fd7f07291228b03df183a772ee1df15a4b1ccb6aca5765387e9473295e88d45",
         "source_sha256": "d00d9c9a178cd6ff98188c8fdef1036a48c83b0b84c0523e49adae65bfb5feeb",
-        "converted_at": "2026-11-25T03:14:09Z",
         "cite_markers": 5,
         "cite_defs": 199,
         "supplements": [
@@ -9626,7 +9625,8 @@
           "aristotle-psychology.suppl4.md"
         ],
         "images": [],
-        "notes": 10
+        "notes": 10,
+        "converted_at": "2026-11-25T05:06:46Z"
       }
     },
     {
@@ -154946,5 +154946,5 @@
       }
     }
   ],
-  "updated_at": "2026-11-25T04:38:06Z"
+  "updated_at": "2026-11-25T05:06:46Z"
 }

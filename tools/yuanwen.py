@@ -1389,14 +1389,20 @@ def _load_en_patches():
     return _EN_PATCH_CACHE
 
 
-def apply_en_patches(slug, html):
+def apply_en_patches(slug, html, filename='index.html'):
     """格式层补丁应用（ADR-0062/0063）：en/ 本体零改动，格式修正只在转换层生效。
 
     行锚定：find 为整行；命中计数必须等于 expect，上下文行须在 html 中出现；
     不符抛 PatchMismatch（该件转换硬失败，防上游漂移静默失配）。
     文字层缺陷不在本池（登记全局勘误表＋中文译注）。
+
+    `filename` 限定作用文件：补丁头 `file` 的基名一致才应用（2026-11-25 修：
+    原实现把本词条全部补丁套到 index.html，notes.html 一类补丁必报命中 0）。
     """
     for p in _load_en_patches().get(slug, []):
+        target = (p.get('file') or '').replace('\\', '/').rsplit('/', 1)[-1]
+        if target and target != filename:
+            continue
         n = html.count(p['find'])
         if n != p['expect']:
             raise PatchMismatch(
@@ -1454,7 +1460,11 @@ def convert_entry(slug):
     if os.path.exists(notes_path):
         # 不得过滤非 [^note- 行：notes.html 里裸公式段与"where…"接续段
         # 是原文内容（2026-10-27 数学保真裁定），过滤即丢公式
-        note_defs = convert_notes(read_text(notes_path), slug)
+        try:
+            notes_html = apply_en_patches(slug, read_text(notes_path), 'notes.html')
+        except (PatchMismatch, en_patch_lib.PatchPoolMissing) as ex:
+            return {'slug': slug, 'error': str(ex)}
+        note_defs = convert_notes(notes_html, slug)
         if note_defs:
             md += '\n\n## Notes（原文脚注）\n\n' + '\n\n'.join(note_defs)
 
@@ -1484,7 +1494,12 @@ def convert_entry(slug):
     for f in sorted(os.listdir(src_dir)):
         if f.endswith('.html') and f not in ('index.html', 'notes.html'):
             base = f[:-5]
-            sp = convert_supplement(read_text(os.path.join(src_dir, f)), slug, base)
+            try:
+                supp_html = apply_en_patches(
+                    slug, read_text(os.path.join(src_dir, f)), f)
+            except (PatchMismatch, en_patch_lib.PatchPoolMissing) as ex:
+                return {'slug': slug, 'error': str(ex)}
+            sp = convert_supplement(supp_html, slug, base)
             if note_defs and '[^note-' in sp:
                 # 补充材料引用主文脚注：定义随被引条目附于文末，页内自洽
                 # （2026-10-28 复核：46 文件引用悬空，D14 伴生缺陷）

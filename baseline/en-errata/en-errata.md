@@ -601,3 +601,11 @@
 **不入表判定（留此备考）**：`Caterus (1597–1641)` 见 suarez 书目书名、`Alberico Gentili (1522–1608)` 见 bodin 论文题名——均系被引文献题名原样，非 SEP 文字缺陷；`Martin Buber (1878–1956)` 为 Łukasiewicz 生卒误配（同名邻近）；Dong Zhongshu、Candrakīrti、Nāgārjuna、Dietrich of Freiberg、Amo 属 SEP 源内两存（人名表依据列已注）；Figo/Morgan 等 12 处的表内值经核对本就正确，故本批只动勘误表与在途译文，不动人名表数值。
 
 **本节小结**：13 件入表（①类，en/ 冻结照录、译文按参考读法承载）；其中 5 件中文承载已落地（natphil-ren、occasionalism、nicole-oresme、18thGerman-preKant、kokugaku-school，均在 s2.4_termchecked 在途件），其余 8 件挂译注队列，待相应词条重译或回炉时落地。
+
+## 十二、2026-11-25 阶段 1.2 复核新发现（specs/062；格式层入补丁池）
+
+上游 2026-11-23 对 `aristotle-psychology` 作正式修订时新引入一处双点错链，旧版（23935892e~1）无此串。属标记层（href 目标）缺陷，按 ADR-0062 第 2 条入补丁池（P-004），`en/` 本体零改动。
+
+| slug | 位置 | 上游原文 | 缺陷定性 | 参考读法 | 中文承载 | 凭证 |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| aristotle-psychology | notes.html `note-1` 回链 | `<a href="index..html#ref-1">1.</a>` | ③（链接目标多一「.」） | `<a href="index.html#ref-1">1.</a>`（同页脚注回链） | 转换层补丁 P-004 修正；译文无影响（页内链接不落 md） | `git apply --check` 通过、`en_integrity --all` 缺件消失（2026-11-25） |

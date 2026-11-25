@@ -174,7 +174,7 @@ Aristotle, General Topics: ethics | Aristotle, General Topics: metaphysics
 
 ## Notes（原文脚注）
 
-[^note-1]: 1\. Readers wishing for a fuller introduction may wish to review the relevant section of the entry on Aristotle.
+[^note-1]: Readers wishing for a fuller introduction may wish to review the relevant section of the entry on Aristotle.
 
 ### Notes to [Supplement D. Psychic Mereology](aristotle-psychology.psychic-mereology.md)
 

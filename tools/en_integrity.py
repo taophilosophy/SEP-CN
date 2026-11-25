@@ -32,12 +32,47 @@ from urllib.parse import urljoin, urlparse
 
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
+from tools import en_patch_lib
 from tools.common import load_json, repo_path, utcnow_iso, write_json_verified
 
 SITE = "https://plato.stanford.edu"
 REF_RE = re.compile(r'(?:src|href)="([^"]+)"')
 COMMENT_RE = re.compile(r"<!--.*?-->", re.S)
 IMG_EXT_RE = re.compile(r"\.(png|jpe?g|gif|svg|webp)$", re.I)
+
+_PATCH_CACHE = None
+
+
+def _patches():
+    """补丁池（读失败降级为空池并记在凭证里，不静默；池缺失由 check_en_patches 红）。"""
+    global _PATCH_CACHE
+    if _PATCH_CACHE is None:
+        try:
+            _PATCH_CACHE = en_patch_lib.load_patches(notice=False)
+        except en_patch_lib.PatchPoolMissing:
+            _PATCH_CACHE = {}
+    return _PATCH_CACHE
+
+
+def patched_view(slug, fname, txt):
+    """审计视图 = en/ 原文 + 该文件的格式层补丁（ADR-0062：补丁只在消费层生效）。
+
+    引用闭包按消费形态审计：补丁已修正的链接（如 P-004 的 index..html）不应
+    再报缺件。命中计数不符原样返回并记失配（上游漂移，硬发现）。
+    """
+    mismatches = []
+    for p in _patches().get(slug, []):
+        target = (p.get("file") or "").replace("\\", "/").rsplit("/", 1)[-1] \
+            or "index.html"
+        if target != fname:
+            continue
+        n = txt.count(p["find"])
+        if n != p["expect"]:
+            mismatches.append({"id": p.get("id"), "file": fname,
+                               "hits": n, "expect": p["expect"]})
+            continue
+        txt = txt.replace(p["find"], p["replace"])
+    return txt, mismatches
 MATH_ASSET_RE = re.compile(r"(eqn|equat|formula|math)", re.I)
 INLINE_MATH_RE = re.compile(r"<math[\s>]|\\\(|\\\[")
 MARKERS = [
@@ -130,9 +165,12 @@ def audit_dir(root, slug, registered, inbound=frozenset(), default_absent=frozen
     mathjax, math_inline_pages, math_assets = set(), [], []
     suspects, truncated, no_charset, not_sep = [], [], [], []
 
+    patch_mismatch = []
     for pf in pages:
         with open(os.path.join(d, pf), encoding="utf-8", errors="replace") as fh:
             txt = fh.read()
+        txt, mm = patched_view(slug, pf, txt)
+        patch_mismatch.extend(mm)
         body = COMMENT_RE.sub("", txt)  # 注释掉的引用不构成浏览器加载义务
         low = body.lower()
         if pf == "index.html" and \
@@ -235,6 +273,9 @@ def audit_dir(root, slug, registered, inbound=frozenset(), default_absent=frozen
             unmirrored.add(slug2)
     if missing:
         res["missing_assets"] = missing
+        hard += 1
+    if patch_mismatch:
+        res["patch_mismatch"] = patch_mismatch   # 补丁命中数与 expect 不符（上游漂移）
         hard += 1
     if defaults:
         res["default_absent"] = defaults  # fetch_audit 已探明 404，显式缺省件
