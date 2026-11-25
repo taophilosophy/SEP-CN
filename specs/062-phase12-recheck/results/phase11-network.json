@@ -1,0 +1,65 @@
+{
+ "ok": true,
+ "gates": [
+  {
+   "gate": "G1",
+   "ok": true,
+   "checks": [
+    {
+     "equal": true,
+     "sha_rebuilt": "c60c25f048076181a6167e28005873ab004c119f14c8959e355fbe092bde90ac",
+     "sha_snapshot": "c60c25f048076181a6167e28005873ab004c119f14c8959e355fbe092bde90ac",
+     "snapshot": "20261125T023957Z-contents.html",
+     "residual_used": 194,
+     "tag": "latest",
+     "ok": true
+    },
+    {
+     "equal": true,
+     "sha_rebuilt": "9a230fc0802d3c33febe295ea4d4432becccf6176693b7e353fbb9f826701631",
+     "sha_snapshot": "9a230fc0802d3c33febe295ea4d4432becccf6176693b7e353fbb9f826701631",
+     "snapshot": "20261027T171130Z-contents.html",
+     "residual_used": 194,
+     "tag": "20261027",
+     "ok": true
+    }
+   ]
+  },
+  {
+   "gate": "G2",
+   "ok": true,
+   "detail": "词条 1873；分组行 820；跳过 16\nenglish summary: 最新（yuanwen\\SUMMARY-en.md）"
+  },
+  {
+   "gate": "G3",
+   "ok": true
+  },
+  {
+   "gate": "G4",
+   "ok": true,
+   "upstream": 1873,
+   "unmapped": [],
+   "unmapped_count": 0,
+   "extra": [],
+   "extra_count": 0,
+   "suspended": []
+  },
+  {
+   "gate": "G5",
+   "ok": true,
+   "snapshot": "20261125T023957Z-contents.html",
+   "baseline_fetched_at": "2026-11-24 18:25:18 UTC",
+   "main_old": 1873,
+   "main_new": 1873,
+   "account": 1873,
+   "main_added": [],
+   "main_removed": [],
+   "alias_added": [],
+   "alias_removed": [],
+   "title_changed": [],
+   "authors_changed": [],
+   "account_mismatch": [],
+   "duplicates": []
+  }
+ ]
+}

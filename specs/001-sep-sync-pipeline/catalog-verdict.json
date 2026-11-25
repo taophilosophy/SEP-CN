@@ -1,20 +1,6 @@
 {
-  "generated_at": "2026-11-24T18:28:56Z",
-  "add": [
-    {
-      "slug": "croce",
-      "title_en": "Croce, Benedetto",
-      "authors": "Richard Bellamy and Gary Kemp",
-      "proposed_file": "c/croce.md",
-      "disposition": "ADD（需人工定中文标题）"
-    }
-  ],
-  "remove": [
-    {
-      "line": 605,
-      "path": "c/croce-aesthetics.md",
-      "disposition": "REMOVE/RENAME 候选（上游无对应；若字母目录中有同义 ADD 则为改名对）"
-    }
-  ],
-  "mapped": 1872
+  "generated_at": "2026-11-25T02:40:52Z",
+  "add": [],
+  "remove": [],
+  "mapped": 1873
 }

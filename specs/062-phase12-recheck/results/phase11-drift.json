@@ -1,0 +1,26 @@
+{
+ "generated_at": "2026-11-25T02:43:06Z",
+ "upstream": {
+  "items": 1873,
+  "alias_rows": 652,
+  "cluster_mothers": 187
+ },
+ "catalog": {
+  "added": [],
+  "removed": [],
+  "renamed": [],
+  "authors_changed": [],
+  "alias_added": [],
+  "alias_removed": []
+ },
+ "local": {
+  "upstream_missing_in_summary": [],
+  "summary_only_upstream": [],
+  "upstream_missing_in_mulu": [],
+  "mulu_only_upstream": []
+ },
+ "suspended": [],
+ "assembly": null,
+ "changed": false,
+ "snapshot": "20261125T023957Z-contents.html"
+}
