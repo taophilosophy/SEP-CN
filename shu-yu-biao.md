@@ -1623,6 +1623,7 @@
 | counterfactual of freedom | — |自由反事实（亦作“自由意志反事实”）| omnipotence 首译 | 莫利纳主义术语（Flint & Freddoso 1983；亦作“自由意志反事实”备查）；凭证 2026-11-11 | 2026-11-11 |
 | counterfactual power | — | 反事实能力 | petitionary-prayer | 构词直译（counterfactual power over God's knowledge）；凭证 2026-11-09 | 2026-11-09 |
 | counterfactual power over the past | — | 对过去的反事实能力 | prophecy | 构词直译（沿登记册 counterfactual power 反事实能力）；凭证 2026-11-09 | 2026-11-09 |
+| counterpart | — | 对应体（模态对应体理论） | 语料回收（形而上学／语言哲学族扫描 2026-11-25） | 模态形而上学通行（Lewis counterpart theory；语料 9 次）；凭证 2026-11-25 | 2026-11-25 |
 | counterpossible | — | 反可能条件句 | god-necessary-being | 学界通行汉译（前件必然为假的反事实条件句） | 2026-11-09 |
 | counterwitnessing | — |反证（亦作“反见证”）| epicurus | 本词条译名（伊壁鸠鲁方法论术语，亦作“反见证”） | 2026-11-12 |
 | covenant | — | 信约 | hobbes-moral 首译 | 学界通行（霍布斯《利维坦》中译惯例）；凭证 2026-11-09 | 2026-11-09 |
@@ -1866,6 +1867,7 @@
 | degrees of belief | — | 信念度 | 语料回收（specs/058 全库提取） | 审定名词库（termonline-all，凭证 2026-11-23） | 2026-11-23 |
 | deification | — | 神化 | neoplatonism | 宗教哲学通行（希腊语 theosis）；本词条视为伦理学最高目标 | 2026-11-07 |
 | Deism | — | 自然神论 | 语料回收（学派名扫描 2026-11-25） | 学界通行（中文语料 18 次；与 theism 有神论、atheism 无神论并列）；凭证 2026-11-25 | 2026-11-25 |
+| deixis | — | 指示（语用学；与 demonstrative 指示词分列） | 语料回收（形而上学／语言哲学族扫描 2026-11-25） | 语用学通行（语料“指示”265 次、指示性 23 次）；凭证 2026-11-25 | 2026-11-25 |
 | DEKI framework | — | DEKI 框架 | model-organisms 首译 | 科学哲学通行（Frigg & Nguyen 的 denote-exemplify-key-impute 四要素框架，缩略语保留）；凭证 2026-11-09 | 2026-11-09 |
 | delectatio | delectatio | 愉悦 | lorenzo-valla | 瓦拉研究通行（其道德哲学术语链 voluptas/beatitudo/fruitio/delectatio/amor） | 2026-11-04 |
 | Delegation | — | 委托 | 语料回收（specs/050 候选池） | 条目语境研判（技术伦理通行委托（technological delegation）；审定“代表团”为奥运义）；审定名词库（termonline-all·奥运体育项目名词·奥运基本名词，2026-11-18 JWT 直连凭证，审定作“代表团”） | 2026-11-19 |
@@ -2697,6 +2699,7 @@
 | extended cognition | — | 延展认知 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·自然辩证法·科学哲学·分支科学哲学·认知科学哲学，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | extended discourse | — | 扩展话语 | ricoeur | 利科术语（discours étendu）；本词条首译；凭证 2026-11-11 | 2026-11-11 |
 | extended fiction | — | 扩展虚构 | deductivism-mathematics | Leng 虚构主义术语；凭证 2026-11-08 | 2026-11-08 |
+| extended mind | — | 延展心灵（克拉克—查默斯；与 extended cognition 延展认知分列） | 语料回收（形而上学／语言哲学族扫描 2026-11-25） | 心灵哲学通行（语料 3 次）；凭证 2026-11-25 | 2026-11-25 |
 | extended phenotype | — | 延伸表现型 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | extended replicator | — | 扩展复制子 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | extended simple | — | 延展简单物 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
@@ -3001,6 +3004,7 @@
 | Fundamental Theorem of Prevision | — | 预现基本定理 | 首现（imprecise-probabilities） | 学界惯例（de Finetti 术语）；凭证 2026-11-08 | 2026-11-08 |
 | fundamentalism | — | 基要主义 | kant-development | 学界通行（宗教研究）；凭证 2026-11-11；审定名词库（社会学名词 3.9.1.15，2025）作“原教旨主义”，宗教学通行“基要主义”，保留并注（凭证 termonline-b5-2026-11-24.tsv） | 2026-11-11 |
 | fundamentalist debate | — | 基础主义之争 | music | 学界通行（Matheson & Caplan 2011 术语，指音乐作品基本本体范畴之争）；凭证 2026-11-09 | 2026-11-09 |
+| fundamentality | — | 基础性 | 语料回收（形而上学／语言哲学族扫描 2026-11-25） | 形而上学奠基研究通行（语料 49 次；与 grounding 奠基、grounded 被奠基成族）；凭证 2026-11-25 | 2026-11-25 |
 | fusion of horizons | Horizontverschmelzung | 视域融合 | gadamer | 伽达默尔诠释学核心术语；凭证 2026-11-10 | 2026-11-10 |
 | fusion operator | — | 融合算子 | belief-merging | 学界通行（信念合并文献）；凭证 2026-11-10 | 2026-11-10 |
 | future contingent event / future contingents / future contingent | — | 未来偶然事件 | prophecy | 中世纪模态与神意论题通行（登记册既有“未来偶然后件”系 auriol 词条特定用法，本词条用通名）；凭证 2026-11-09；旧键“future contingents”并入（2026-11-21 FLAG 裁定；旧键首现：auriol）；异形键 future contingent 并入（2026-11-25） | 2026-11-21 |
@@ -3546,6 +3550,7 @@
 | Identity | — | 同一性 | 语料回收（词汇表并网） | 学界惯例（词汇表并网迁移）；词汇表并网（ADR-0036）；审定库一致（termonline-all 凭证 2026-11-13）| 2026-11-13 |
 | identity function | — | 恒等函数 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·计算机科学技术·理论计算机科学·可计算性与计算复杂性，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | identity of indiscernibles | — | 不可分辨者的同一 | object 首译 | 学界通行汉译（莱布尼茨第二律）；凭证 2026-11-07 | 2026-11-07 |
+| identity over time | — | 历时同一性 | 语料回收（形而上学／语言哲学族扫描 2026-11-25） | 形而上学通行（语料 20 次；与 numerical identity 数值同一、personal identity 人格同一性分列）；凭证 2026-11-25 | 2026-11-25 |
 | identity politics | — | 身份政治 | 语料回收（标题词） | 学界惯例（语料回收（标题词，specs/011 主题词汇解析 i/identity-politics））；凭证 2026-11-04 | 2026-11-04 |
 | identity reduction | — | 同一性还原 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | identity relation | — | 同一关系 | 语料回收 | 学界惯例（逻辑学/形而上学通行）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
@@ -6892,6 +6897,8 @@
 | right to life | — | 生命权 | 首译（stem-cells） | 学界惯例（生命伦理学通行）；凭证 2026-11-09 | 2026-11-09 |
 | rightness | — | 正当性 | oakeshott 首译 | 学界惯例（与 validity 效力对举）；凭证 2026-11-07 | 2026-11-07 |
 | rights-based moral theory | — | 权利论道德理论 | risk | 学界惯例（与义务论、后果论并列）；凭证 2026-11-09 | 2026-11-09 |
+| rigid designation | — | 严格指示（亦作“严格指示词”） | 语料回收（形而上学／语言哲学族扫描 2026-11-25） | 语言哲学与模态形而上学通行（克里普克；语料“严格指示”4 次）；凭证 2026-11-25 | 2026-11-25 |
+| rigidity | — | 刚性（模态语境） | 语料回收（形而上学／语言哲学族扫描 2026-11-25） | 同上（rigidity of designators；语料 25 次）；凭证 2026-11-25 | 2026-11-25 |
 | Rigor | — | 严谨性 | 语料回收（词汇表并网） | 学界惯例（词汇表并网迁移）；词汇表并网（ADR-0036）；审定库不一致（termonline-all 凭证 2026-11-13）| 2026-11-13 |
 | rigorism | — | 严格主义 | 首现（schlegel） | 学界惯例（康德伦理学通行）；凭证 2026-11-07 | 2026-11-07 |
 | rigorous science | — | 严格科学 | reinach | 学界惯例（胡塞尔“作为严格科学的哲学”通行译法）；凭证 2026-11-09 | 2026-11-09 |
@@ -7217,6 +7224,7 @@
 | sender | — | 发送者 | information-biological | 学界通行（发送者-接收者框架）；凭证 2026-11-12 | 2026-11-12 |
 | Sensation | — | 感觉 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·急救医学·日常医学急救·内科学·神经系统，2026-11-18 JWT 直连凭证）；撞形豁免 2026-11-21：同形异语／同概念异形，按条目语境区分，不合并 | 2026-11-21 |
 | sensationalism | — | 感觉主义 | antonio-rosmini | 近代认识论通行（与 sensism 感觉论区别）；审定名词库（termonline-all·心理学名词 04.135，2014）作“感觉主义”，与本行一致（2026-11-24 JWT 直连，凭证 termonline-b11-2026-11-24.tsv） | 2026-11-07 |
+| sense and reference | — | 涵义与指称（亦作“意义与意谓”） | 语料回收（形而上学／语言哲学族扫描 2026-11-25） | 弗雷格研究通行（Sinn und Bedeutung；语料 2 次）；凭证 2026-11-25 | 2026-11-25 |
 | Sense and Sensibilia | — | 《感觉与可感物》 | 语料回收（specs/058 全库提取） | 权威译本（奥斯汀著作通行汉译；审定库无对口条目，2026-11-22）；凭证 2026-11-22 | 2026-11-22 |
 | sense data | — | 感觉材料 | anscombe 首现 | 学界通行（sense-datum 理论）；凭证 2026-11-12 | 2026-11-12 |
 | sense experience | — | 感觉经验 | 语料回收（specs/058 全库提取） | 学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22） | 2026-11-22 |
@@ -7845,7 +7853,7 @@
 | superstition | — | 迷信 | gianfrancesco-pico | 通行；审定名词库（termonline-all·自然辩证法名词 07.315，2024）作“迷信”，与本行一致（2026-11-24 JWT 直连，凭证 termonline-b12-2026-11-24.tsv） | 2026-11-09 |
 | Supertasks | — | 超级任务 | 语料回收（词汇表并网） | 学界惯例（词汇表并网迁移）；词汇表并网（ADR-0036）；审定库无相关命中（termonline-all 凭证 2026-11-13）| 2026-11-13 |
 | supervaluationism | — | 超赋值论 | 语料回收（ism 扫描 2026-11-25） | 模糊性逻辑通行（Fine 方案）；凭证 2026-11-25 | 2026-11-25 |
-| supervenience | — | 随附性（supervenient property 随附属性） | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
+| supervenience / supervenient | — | 随附性（supervenient property 随附属性） | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07；异形键 supervenient 并入（2026-11-25） | 2026-11-07 |
 | Supervenience in Ethics | — | 道德随附性 | 语料回收（词汇表并网） | 学界惯例（词汇表并网迁移）；词汇表并网（ADR-0036）；审定库无相关命中（termonline-all 凭证 2026-11-13）| 2026-11-13 |
 | supervenience physicalism | — | 随附性物理主义 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | suppositio accidentalis | — | 偶性指代 | peter-spain | 沿本册指代派生形；凭证 2026-11-09 | 2026-11-09 |
@@ -8414,6 +8422,7 @@
 | truth-tracking properties | — | 求真性质（亦作“追踪真理”） | belief-merging | 直译（Hartmann et al. 语境；知识论亦作追踪真理）；凭证 2026-11-10 | 2026-11-10 |
 | Truthlikeness | — | 似真性 | 语料回收（词汇表并网） | 波普尔 verisimilitude，中译亦作“逼真性”；词汇表并网（ADR-0036）；删亦作“逼真性”（与他行主译撞形，2026-11-21 撞形处置） | 2026-11-21 |
 | truthmaker theory | — | 使真者理论 | necessary-sufficient | 与 truth-maker 真值制造者（truth-coherence 既有行）同族；凭证 2026-11-08；FLAG 裁定 2026-11-21：随 truth-maker＝使真者统一 | 2026-11-21 |
+| truthmaking | — | 使真（与 truthmaker 使真者、truthmaker theory 使真者理论分列） | 语料回收（形而上学／语言哲学族扫描 2026-11-25） | 形而上学通行（语料 35 次）；凭证 2026-11-25 | 2026-11-25 |
 | tryaṇuka | त्र्यणुक | 三微 | early-modern-india | 胜论原子论通行（三二微之合，最小可见物“尘芥”）；凭证 2026-11-10 | 2026-11-10 |
 | tuistic / non-tuistic | tuism | 利他的／非利他的 | c/contractarianism 首译 | 戈蒂耶自造术语（tuistic），学界通行译法；凭证 2026-11-07 | 2026-11-07 |
 | tulyatva | तुल्यत्व | 等同 | early-modern-india | 正理普遍性障碍义译（equipollence）；凭证 2026-11-10 | 2026-11-10 |
