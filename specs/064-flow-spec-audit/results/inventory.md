@@ -101,7 +101,7 @@
 
 | 缺口 | 证据命令或位置 |
 | ---- | ---- |
-| G1 源侧规则真空 | `for id in ex-01 ex-02 ex-03 ex-05 tr-05; do grep -rl "$id" rules --include=*.md; done` → 仅 ex-01 命中 ADR-0080 |
+| G1 源侧规则真空 | `for id in ex-01 ex-02 ex-03 ex-05 tr-05; do grep -rl "$id" rules --include=*.md; done` → 仅 ex-01 命中 ADR-0080（**2026-11-26 rev 9 注**：`rules/11` 已为本组工序立条款，本条证据作历史快照；G1 转“部分闭合”，见 spec §2.7） |
 | G2 三无节点 | pipeline.json 中 ex-05／tr-05 `criteria: []`；rules 零条款；测试零覆盖 |
 | G3 errata_check | `ls tools/errata_check.py` → 不存在 |
 | G4 测试薄 | `ls tools/tests/*.py` 55 文件，覆盖判据 7 项 |
