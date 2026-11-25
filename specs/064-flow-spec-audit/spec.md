@@ -308,6 +308,7 @@ B1 语义恰当性｜B2 26 个 reserved 语义｜B3 ex-05 状态位（退役后�
 | P2 | ADR 头格式统一（G10）；29148／15289／26514 版本复核（G11） | — | |
 | P3 | ISO/IEC 25010:2023 纳登与判据分类映射（G12）；六列矩阵进 CI | P2 | |
 | P0 | **全局清理检查点**：`clean --check` 入 check_all 第 22 项（§10） | — | 低风险，提前做 |
+| P0 | **全局登记表**：`registry-long`／`registry-temp` 建表与 `tools/registry.py`（§15） | — | 与清理检查点同批 |
 | P1 | **Python 现代化**：pyproject＋ruff＋mypy strict＋uv（§8.1） | — | 零风险高收益，先于 Rust |
 | P4 | **工具链 Rust 化**：B1 试金石 → B2 结构 → B3 并发 → B4/B5 正则密集（§12） | 黄金主测试 | 成本最高，最后做 |
 
@@ -332,12 +333,15 @@ B1 语义恰当性｜B2 26 个 reserved 语义｜B3 ex-05 状态位（退役后�
 | 工具链语言 | **Rust 1.100／edition 2024、禁 unsafe、多并发多线程**；A 级 24 项迁 Rust，B/C/D 分层不动（§12） |
 | 其他语言 | Go 为“只选一门”时的性价比首选（同为 RE2 限制）；Python 3.15 现代化先行；Bun 维持站点（§13） |
 | 清理检查点 | `clean --check` 入 check_all 第 22 项，扫描面扩至 target/ 与缓存目录（§14） |
+| **语言组合** | **三门定案：Rust＋Python＋Bun**（不引入 Go；理由见 §13“三门判据”）——2026-11-26 批准 |
+| **全局登记表** | 新增 `baseline/registry-long.json`（入库，长期）与 `state/registry-temp.json`（本地，临时）；15 字段、5 生命周期、5 状态；`tools/registry.py` 维护；并入 check_all 第 22 项（§15） |
 
 ## 11 执行记录
 
 - **rev 1（2026-11-26）**：立卡，节点文档承载审计（三件套 5/62、六列矩阵、G1–G8）。
 - **rev 2（2026-11-26）**：案 B＋暂不开工裁定；合并 063 公理化并扩展至全要素（AX1–AX20／CT1–CT12）；补工具链（96）、规则（10）、ADR（88）、标准（96）审计；补标准化、规范化、格式化与实施路线。代码与数据零改动。
 - **rev 3（2026-11-26）**：增 §12 工具链 Rust 迁移逐个评估（96 项：A24／B26／C32／D12，黄金主测试，正则语义审计前置门，五批路线）、§13 其他语言对比（Rust／Go／Python／TS／C#／Zig）、§14 全局清理与缓存检查点（clean --check 入 check_all 第 22 项）；补“零第三方依赖”事实与 Python 现代化先行项。代码与数据零改动。
+- **rev 4（2026-11-26）**：用户批准**三门方案**（Rust＋Python＋Bun，不引入 Go）并定案入 §12.2／§13；新增 §15 全局登记表（长期／临时双表、15 字段、5 生命周期、5 状态、单一事实源约束、sha 分层校验、并入 check_all 第 22 项）；§8 路线加 P0 登记表项。代码与数据零改动。
 
 ## 12 工具链语言迁移：Rust 逐个评估（2026-11-26 用户指令）
 
@@ -354,6 +358,7 @@ B1 语义恰当性｜B2 26 个 reserved 语义｜B3 ex-05 状态位（退役后�
 对 96 个工具逐个评级（全表见 `results/toolchain-rust-audit.md`）：**A 级 24／B 级 26／C 级 32／D 级 12**。
 
 - **A 级 24 项**（check_* 14、审计 6、fetch 5、clean 1，`fetch_all` 记 A+）覆盖门禁核心面与全部高并发路径，重写面积约占全部代码 40%——迁完即达“原生并发＋内存安全＋单二进制”目标的约 80%。
+- **2026-11-26 用户批准三门方案定案**：Rust（稳态内核＋并发抓取）＋Python 3.15（语义锁定＋边缘）＋Bun（站点），**不引入 Go**；理由见 §13“三门判据”。
 - **D 级 12 项禁迁**，其中三类是硬禁：转换器（`yuanwen`／`parser`，被 I2/I3 逐字节锁定，重写即灾难）、一次性迁移（`migrate_*`／`wipe_*`／`rebuild_dir`／`journal_migrate` 等）、浏览器自动化（`tl_browser_batch`，Rust 生态远弱于 Playwright）。
 - **C 级 32 项留 Python**：库（被 import，迁移需连带）、生成器（输出格式常调）、低频运维与会话密集者。
 
@@ -422,7 +427,11 @@ sep-py（Python 3.15）
 
 **反直觉但重要的一点**：若把“正则语义零漂移”放在第一权重，最平滑的目标其实是 **.NET**（其 Regex 支持回溯与反向引用），而 Rust 与 Go 同属 RE2 族、都受限。这意味着 Rust/Go 迁移的 B4/B5 批必须付出正则改写成本——这是评估里最容易被忽略的隐性代价，已在 §12.5 设为独立前置门。
 
-**最优组合（不计成本）**：Rust core（24 个 A 级）＋Python 边缘（32 个 C 级＋12 个 D 级）＋Bun 站点；Python 现代化先行作为过渡基线。若组织只允许维护一门新语言，改推 Go 覆盖 A 级，其余不变。
+**定案（2026-11-26 用户批准，不计成本最优）**：**三门**——Rust（24 个 A 级判据＋全部并发抓取）＋Python 3.15（转换器、爬虫、一次性、生成器、测试网）＋Bun（站点）。
+
+**为什么不是四门（不加 Go）**：单语言场景推荐 Go，与混合场景保留 Go 是两个命题。Go 的价值在以一门语言覆盖并发与部署；一旦 Rust 因 CPU 热点已成必需，Go 的边际价值只剩抓取调参迭代快一小块，而新增第二门系统语言的维护成本是 1+1>2（两套构建、两套 CI、两种并发模型、两种错误哲学）。故抓取并入 Rust（tokio multi-thread），语言数压到**最小不可替代集**。
+
+**最小不可替代性论证**：Rust 不可替代（唯一 CPU 热点解＋编译期并发安全）；Python 不可替代（I2 字节锁定、Playwright 生态、最低摩擦）；Bun 不可替代（站点既有）。三者交集为空，缺任一门则某类负载失去最优载体。
 
 ## 14 全局清理与缓存检查点（新增）
 
@@ -459,3 +468,94 @@ sep-py（Python 3.15）
 | `check_doc_size.py` | 单体文件规模 |
 
 三者互不重叠，共同构成“结构—垃圾—缓存”三层卫生面。
+
+
+## 15 全局登记表：长期与临时（2026-11-26 用户指令）
+
+### 15.1 两张表与放置
+
+| 表 | 位置 | 入库 | 职责 |
+| ---- | ---- | ---- | ---- |
+| **长期表** | `baseline/registry-long.json` | 是 | 长期保留产物清单：sha 钉、用途、生命周期；`clean` 的保护清单 |
+| **临时表** | `state/registry-temp.json` | 否（本机运行态） | 临时／中间物清单：TTL 与过期判定；`clean` 的删除依据 |
+
+**为何不放 `rules/`**：`naming.json`／`standards.json` 是**判据规则**（稳定、抽象）；两张表是**记录**（随产物变化、含本机路径）。长期表与 `baseline/` 的版本钉同源（en／patches／catalog 都属长期物）；临时表高频变动且双机不同步，入库只会制造假冲突。两表 schema 同构，只有 `kind` 与 `ttl` 语义不同。
+
+### 15.2 字段（schema `sep-registry/v1`，15 字段）
+
+| 字段 | 类型 | 必填 | 说明 | 标准依据 |
+| ---- | ---- | ---- | ---- | ---- |
+| `id` | string | 是 | `REG-L-0001`／`REG-T-0001`，递增、**不复用** | ISO/IEC 11179-5:2015（唯一稳定标识） |
+| `path` | string | 是 | 相对仓库根的 POSIX 路径；temp 允许绝对路径 | — |
+| `sha256` | string(64) | 是 | 小写十六进制内容散列 | FIPS 180-4／ISO/IEC 10118-3 |
+| `size_bytes` | int | 是 | 字节数 | ISO 80000-1:2022（量值与单位） |
+| `created_at` | string | 是 | UTC、秒精度、`Z` 结尾 | ISO 8601-1:2019／RFC 3339／GB/T 7408.1 |
+| `modified_at` | string | 是 | 同上 | 同上 |
+| `verified_at` | string｜null | 否 | 最后一次 sha 校验时间 | ISO 15489-1:2016（真实性） |
+| `purpose` | string | 是 | 用途；**须含生成工具与目的** | ISO 15489-1（可用性） |
+| `lifecycle` | enum | 是 | `permanent`／`epoch`／`campaign`／`session`／`one-shot` | 本卡 §15.3 |
+| `ttl_days` | int｜null | temp 必填 | 过期天数；`null`＝不自动过期；long 恒 `null` | 本卡 §15.3 |
+| `owner` | string | 是 | 生成／维护工具的仓库路径 | ISO 15489-1（来源） |
+| `git_tracked` | bool | 是 | 是否受版本控制 | — |
+| `clean_policy` | enum | 是 | `protect`／`expire`／`archive` | 本卡 §15.4 |
+| `status` | enum | 是 | `active`／`expired`／`orphaned`／`superseded`／`pruned` | 本卡 §15.4 |
+| `notes` | string | 否 | 备注（自由文本） | — |
+
+> 元数据原则参考 ISO 23081-1（记录管理元数据；版本待核，按 `rules/08` §13 不写死版本号）。
+
+### 15.3 生命周期枚举
+
+| 值 | 语义 | 默认 TTL | 到期动作 |
+| ---- | ---- | ---- | ---- |
+| `permanent` | 与仓库同寿（长期表默认） | 永不 | 不删；sha 不符＝红 |
+| `epoch` | 纪元期（本轮重译纪元内有效，如 results 快照） | 纪元收口 | `archive` |
+| `campaign` | 战役期（战役收口后归档） | 战役收口 | `archive` |
+| `session` | 会话期（调试输出、临时下载） | 1 天 | `expire`（删） |
+| `one-shot` | 一次性脚本产物 | 7 天 | `expire`（删） |
+
+### 15.4 状态与清理动作矩阵
+
+状态判定：`active`（文件在且 sha 符合）｜`expired`（`now − created_at > ttl_days`）｜`orphaned`（登记了但文件不存在）｜`superseded`（同 path 有新条目，旧条目留史）｜`pruned`（条目删除，仅 temp）。
+
+| 状态 × 策略 | `protect` | `expire` | `archive` |
+| ---- | ---- | ---- | ---- |
+| `active` | 保留 | 保留至 TTL | 保留 |
+| `expired` | **告警**（违背生命周期） | 删文件＋置 `pruned` | 移入 `archive/`＋置 `superseded` |
+| `orphaned` | **红**（长期物丢失） | 删条目 | 删条目 |
+| `superseded` | 保留（历史） | 删文件 | 保留 |
+
+### 15.5 单一事实源约束（关键）
+
+登记表**不复制既有事实源**：
+
+| 对象 | 既有事实源 | 登记表处置 |
+| ---- | ---- | ---- |
+| `en/` 逐文件 sha | `baseline/entries.json`（1873 条） | **不登记**；long 表只登记目录级条目指向该事实源 |
+| `baseline/en-patches` | `INDEX.json` | 不逐条登记 |
+| `tasks/` | 任务 JSON 自身 | 不登记 |
+| `baseline/registry-long.json` 自身 | — | 登记（自引用；`sha256` 取上一版值） |
+
+登记表只承担“**没有专门事实源的长期物**”（导出包、诊断快照、大体积生成物）与“**全部临时物**”。
+
+### 15.6 工具与门禁集成
+
+| 工具 | 职责 |
+| ---- | ---- |
+| `tools/registry.py`（新） | `register <path> --kind L\|T --purpose … --lifecycle … --ttl …`（自动填 sha／size／时间）；`verify [--kind]`（状态机求值，只读）；`prune [--go]`（按 §15.4 执行） |
+| `tools/clean.py`（扩展） | `--check` 消费两表：long 表缺件＝红、temp 表过期＝候选删除；未登记临时物＝告警（提示登记） |
+| `check_all` | 第 22 项“缓存与临时物”判据面扩展为“clean --check ＋ registry verify” |
+
+**sha 校验频率分层**（避免 1873 级全量散列拖慢 CI）：
+
+| 场景 | 范围 |
+| ---- | ---- |
+| 每次 CI／提交前 | 仅本次变更路径＋`git_tracked=false` 条目 |
+| 每周／每月 | long 表全量（目录级条目展开后校验） |
+| 每次 `clean --check` | temp 表全量（本机量小） |
+
+### 15.7 与既有机制的关系
+
+- 与 `clean.py`（ADR-0003）：clean 负责“未跟踪垃圾”的发现与删除；登记表负责“已跟踪或已命名产物”的保留／过期判定。互补不重叠。
+- 与 `check_junk.py`：junk 管根目录白名单（空间维度）；登记表管产物生命周期（时间维度）。
+- 与 `check_doc_size.py`：`size_bytes` 字段是“大体积产物”判定依据。
+- 与 ADR-0081/0082 清史纪律：长期表是“未来留存”的落地形态——凡 `permanent` 产物，其存在与 sha 受门禁保护，与记录管理偏离（D4）的补救方向一致。
