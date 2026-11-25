@@ -1700,6 +1700,13 @@ def judge_slug(slug, baseline):
                re.findall(r'<meta name="citation_author" content="([^"]*)"', html1)]
     notes_path = repo_path("en", slug, "notes.html")
     notes_html = read_text(notes_path) if os.path.exists(notes_path) else None
+    if notes_html:
+        # 求值视图与转换器同源（2026-11-25，P-004 判例）：notes.html 也要吃格式层补丁，
+        # 否则 C(R(md)) 用原文再生脚注、md 侧已是补丁后形态 → 不动点假破。
+        try:
+            notes_html = yuanwen.apply_en_patches(slug, notes_html, "notes.html")
+        except Exception as ex:  # noqa: BLE001
+            return {"slug": slug, "ok": False, "skipped": "patch(notes): %s" % ex}
     title, article_r = reassemble_article(md0, authors)
     if not title:
         title = m.group(1) if m else slug
