@@ -314,6 +314,12 @@ def build(md_article_html, ledger):
     # ② 粗分区
     preamble, main, bib, acad, oth, rel, ack = [], [], [], [], [], [], []
     cur = preamble
+    # 书目 div 内的同行级分节（H0 的 Bibliography 之后仍有 h2 分节，全库 4 件：
+    # baudrillard／aristotle-ethics／epistemology-latin-america／marxism-analytical）。
+    # 账里的 bib_heads 是容器内标题的唯一事实源：名字在册即归书目区，
+    # 否则会被当成正文新主节、抢到书目区之前（baudrillard 判例）。
+    _bib_names = {re.sub(r"<[^>]*>", "", (h[1] or "")).strip()
+                  for h in ((ledger or {}).get("bib_heads") or [])}
     for b in rest:
         m = head_of(b)
         if m:
@@ -323,6 +329,9 @@ def build(md_article_html, ledger):
                        "other-internet-resources": oth,
                        "related-entries": rel}[REGION_HEADS[txt]]
                 cur.append(b)
+                continue
+            if cur is bib and lv >= 2 and txt in _bib_names:
+                cur.append(b)      # 书目容器内的分节标题，留在书目区
                 continue
             if lv in (2, 3) and ACK_HEAD_RE.match(
                     re.sub(r"</?(?:strong|em|b)>", "", txt)):

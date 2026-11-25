@@ -908,7 +908,8 @@ def _drop_duplicate_h1(md):
     return md
 
 
-def render_blocks(blocks, ctx):
+def render_blocks(blocks, ctx, bib_container=False):
+    """块渲染。`bib_container=True`：正在渲染书目 div 内部（容器边界即书目边界）。"""
     for b in blocks:
         t, inner = b['type'], b['inner']
         if t == 'h1':
@@ -924,8 +925,12 @@ def render_blocks(blocks, ctx):
                          '完整条目见本文末脚注定义。')
             else:
                 # 文献节后的任何同级/更高级标题都终止文献节
-                # （演示轮 2 复核：in_bib 永不复位曾吞掉致谢/相关词条等尾段）
-                if not (ctx.in_bib and {'h2': 2, 'h3': 3, 'h4': 4, 'h5': 5, 'h6': 6}[t] > ctx.bib_lvl):
+                # （演示轮 2 复核：in_bib 永不复位曾吞掉致谢/相关词条等尾段）。
+                # 例外（2026-11-25，baudrillard 判例）：书目 div 内部再出现 h2 分节
+                # （Bibliography→Primary→Secondary，全库 4 件）时，容器边界才是
+                # 书目边界——按标题层级终止会把子分节甩到书目区外、装配顺序错位。
+                if not (ctx.in_bib and (bib_container
+                                        or {'h2': 2, 'h3': 3, 'h4': 4, 'h5': 5, 'h6': 6}[t] > ctx.bib_lvl)):
                     ctx.in_bib = False
                 elif ctx.in_bib:
                     # 2026-11-15：文献节内小节标题是「某氏著作」分组的唯一线索——
@@ -1037,8 +1042,9 @@ def render_blocks(blocks, ctx):
             code = unescape(re.sub(r'<[^>]+>', '', inner))
             ctx.emit('', '```\n%s\n```' % code.strip('\n'))
         elif t == 'bib-container':
-            # 容器内的 h2 Bibliography 自行置位 in_bib；无需强制
-            render_blocks(extract_blocks_raw(inner), ctx)
+            # 容器内的 h2 Bibliography 自行置位 in_bib；容器内部所有标题都留在书目区
+            # （书目 div 内多 h2 分节：baudrillard／aristotle-ethics 等 4 件）
+            render_blocks(extract_blocks_raw(inner), ctx, bib_container=True)
 
 
 # ------------------------------------------------------------ citations -----

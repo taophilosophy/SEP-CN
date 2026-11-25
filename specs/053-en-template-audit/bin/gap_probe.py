@@ -86,6 +86,31 @@ def probe(lib, slug, limit=3):
     out["status"] = "gap" if mism else "no-text-mismatch"
     out["mismatch"] = mism
     out["first_index"] = mism[0]["i"] if mism else None
+    out["flow"] = flow_diff(A, B)
+    return out
+
+
+def flow_diff(A, B, limit=3):
+    """按文字单元 ukey 流对齐（忽略标记漂移），给出真正的文字层差异。
+
+    逐段下标比对会把标记插入造成的位次漂移误报成文字差；池的 P1 谓词判的是
+    ukey 流，所以定位也要按流做。
+    """
+    ua = [POOL.ukey(t) for k, t in A if k == "u"]
+    ub = [POOL.ukey(t) for k, t in B if k == "u"]
+    ta = [t for k, t in A if k == "u"]
+    tb = [t for k, t in B if k == "u"]
+    out = {"units": [len(ua), len(ub)], "equal": ua == ub, "ops": []}
+    sm = difflib.SequenceMatcher(None, ua, ub, autojunk=False)
+    for tag, i1, i2, j1, j2 in sm.get_opcodes():
+        if tag == "equal":
+            continue
+        out["ops"].append({
+            "op": tag, "range": [i1, i2, j1, j2],
+            "a": [t[:220] for t in ta[i1:i2][:3]],
+            "b": [t[:220] for t in tb[j1:j2][:3]]})
+        if len(out["ops"]) >= limit:
+            break
     return out
 
 

@@ -9,7 +9,7 @@ For some years a cult figure of postmodern theory, Baudrillard moved beyond the 
 
 ## 1. Early Writings: From the *System of Objects* to *The Mirror of Production*
 
-Jean Baudrillard was born in the cathedral town of Reims, France in 1929. He told interviewers that his grandparents were peasants and his parents became civil servants (Gane 1993: 19). Baudrillard also claims that he was the first member of his family to pursue an advanced education and that this led to a rupture with his parents and cultural milieu. In 1956, he began working as a professor of secondary education in a French high school (Lyceé) and in the early 1960s did editorial work for the French publisher Seuil. Baudrillard was initially a Germanist who published essays on literature in *Les temps modernes* in 1962–1963 and translated works of Peter Weiss and Bertolt Brecht into French, as well as a book on messianic revolutionary movements by Wilhelm Mühlmann. During this period, he met and studied the works of Henri Lefebvre, whose critiques of everyday life impressed him, and Roland Barthes, whose semiological analyses of contemporary society had lasting influence on his work.
+Jean Baudrillard was born in the cathedral town of Reims, France in 1929. He told interviewers that his grandparents were peasants and his parents became civil servants (Gane 1993: 19)[^gane-1993]. Baudrillard also claims that he was the first member of his family to pursue an advanced education and that this led to a rupture with his parents and cultural milieu. In 1956, he began working as a professor of secondary education in a French high school (Lyceé) and in the early 1960s did editorial work for the French publisher Seuil. Baudrillard was initially a Germanist who published essays on literature in *Les temps modernes* in 1962–1963 and translated works of Peter Weiss and Bertolt Brecht into French, as well as a book on messianic revolutionary movements by Wilhelm Mühlmann. During this period, he met and studied the works of Henri Lefebvre, whose critiques of everyday life impressed him, and Roland Barthes, whose semiological analyses of contemporary society had lasting influence on his work.
 
 In 1966, Baudrillard entered the University of Paris, Nanterre, and became Lefebvre’s assistant, while studying languages, philosophy, sociology, and other disciplines. He defended his “These de Troisième Cycle” in sociology at Nanterre in 1966 with a dissertation on “Le système des objects,” and began teaching sociology in October of that year. Opposing French and U.S. intervention in the Algerian and Vietnamese wars, Baudrillard associated himself with the French Left in the 1960s. Nanterre was a key site of radical politics and the “March 22 movement,” associated with Daniel Cohn-Bendit and the *enragés*, began in the Nanterre sociology department. Baudrillard said later that he participated in the events of May 1968 that resulted in massive student uprisings and a general strike that almost drove de Gaulle from power.
 
@@ -31,7 +31,7 @@ By 1970, Baudrillard has distinguished himself from the Marxist theory of revolu
 
 Baudrillard thus had an ambivalent relation to classical Marxism by the early 1970s. On one hand, he carried forward the Marxian critique of commodity production which delineates and criticizes various forms of alienation, domination, and exploitation produced by capitalism. At this stage, it appeared that his critique takes place from the standard neo-Marxian vantage point which assumes that capitalism is blameworthy because it is homogenizing, controlling and dominating social life, while robbing individuals of their freedom, creativity, time and human potentialities. On the other hand, he cannot point to any revolutionary forces and in particular did not discuss the situation and potential of the working class as an agent of change in the consumer society. Indeed, Baudrillard has no theory of the subject as an active agent of social change whatsoever, thus following the structuralist and poststructuralist critique of the philosophical and practical subject categorized by Descartes, Kant, and Sartre which was long dominant in French thought. Structuralists and poststructuralists argued that subjectivity was produced by language, social institutions, and cultural forms and was not independent of its construction in these institutions and practices.
 
-Nor does Baudrillard develop a theory of class or group revolt, or any theory of political organization, struggle, or strategy of the sort frequent in post-1960s France. Yet Baudrillard’s work here is particularly close to the work of the Frankfurt school, especially that of Herbert Marcuse, who had already developed some of the first Marxist critiques of the consumer society (see Kellner 1984 and 1989b). Like Lukàcs (1971) and the Frankfurt School, Baudrillard analyzes how the commodity and commodification permeate social life and come to dominate individual thought and behavior. Following the general line of critical Marxism, Baudrillard argues that the process of social homogenization, alienation, and exploitation constitutes a process of *reification* in commodities, technologies, and things (i.e., “objects”) come to dominate people (“subjects”) divesting them of their human qualities and capacities.
+Nor does Baudrillard develop a theory of class or group revolt, or any theory of political organization, struggle, or strategy of the sort frequent in post-1960s France. Yet Baudrillard’s work here is particularly close to the work of the Frankfurt school, especially that of Herbert Marcuse, who had already developed some of the first Marxist critiques of the consumer society (see Kellner 1984 and 1989b)[^kellner-1989b]. Like Lukàcs (1971) and the Frankfurt School, Baudrillard analyzes how the commodity and commodification permeate social life and come to dominate individual thought and behavior. Following the general line of critical Marxism, Baudrillard argues that the process of social homogenization, alienation, and exploitation constitutes a process of *reification* in commodities, technologies, and things (i.e., “objects”) come to dominate people (“subjects”) divesting them of their human qualities and capacities.
 
 For Lukàcs, the Frankfurt School, and Baudrillard, *reification* — the process whereby human beings become dominated by things and become more thinglike themselves — comes to govern social life. Conditions of labor imposed submission and standardization on human life, as well as exploiting workers and alienating them from a life of freedom and self-determination. In a media and consumer society, culture and consumption also became homogenized, depriving individuals of the possibility of cultivating individuality and self-determination.
 
@@ -41,7 +41,7 @@ Yet in some writings, Baudrillard has a somewhat more active theory of consumpti
 
 Baudrillard’s first three works can thus be read in the framework of a neo-Marxian critique of capitalist societies. One could read Baudrillard’s emphasis on consumption as a supplement to Marx’s analysis of production and his focus on culture and signs as an important supplement to classical Marxian political economy, which adds a cultural and semiological dimension to the Marxian project. But in his 1973 provocation, *The Mirror of Production* (translated into English in 1975), Baudrillard carries out a systematic attack on classical Marxism, claiming that Marxism is but a mirror of bourgeois society, placing production at the center of life, thus naturalizing the capitalist organization of society.
 
-Although in the 1960s, Baudrillard participated in the tumultuous events of May 1968, and was associated with the revolutionary Left and Marxism, he broke with Marxism in the early 1970s, but remained politically radical though unaffiliated the rest of the decade. Like many on the Left, Baudrillard was disappointed that the French Communist Party did not support the radical ‘60s movements and he also distrusted the official Marxism of theorists like Louis Althusser who he found dogmatic and reductive. Consequently, Baudrillard began a radical critique of Marxism, one that would be repeated by many of his contemporaries who would also take a postmodern turn (see Best and Kellner 1991 and 1997).
+Although in the 1960s, Baudrillard participated in the tumultuous events of May 1968, and was associated with the revolutionary Left and Marxism, he broke with Marxism in the early 1970s, but remained politically radical though unaffiliated the rest of the decade. Like many on the Left, Baudrillard was disappointed that the French Communist Party did not support the radical ‘60s movements and he also distrusted the official Marxism of theorists like Louis Althusser who he found dogmatic and reductive. Consequently, Baudrillard began a radical critique of Marxism, one that would be repeated by many of his contemporaries who would also take a postmodern turn (see Best and Kellner 1991 and 1997)[^best-1991][^best-1997].
 
 Baudrillard (1975) argues that Marxism, first, does not adequately illuminate premodern societies that were organized around religion, mythology, and tribal organization and not production. He also argues that Marxism does not provide a sufficiently radical critique of capitalist societies and alternative critical discourses and perspectives. At this stage, Baudrillard turns to anthropological perspectives on premodern societies for hints of more emancipatory alternatives. Yet it is important to note that this critique of Marxism was taken from the Left, arguing that Marxism did not provide a radical enough critique of, or alternative to, contemporary capitalist and communist societies organized around production. Baudrillard concluded that French communist failure to support the May 68 movements was rooted in part in a conservatism that had roots in Marxism itself. Hence, Baudrillard and others of his generation began searching for alternative critical positions.
 
@@ -75,7 +75,7 @@ In 1970s like Baudrillard posits another divide in history as radical as the rup
 
 The discourse of “the end” signifies his announcing a postmodern break or rupture in history. People are now, Baudrillard claims, in a new era of simulation in which social reproduction (information processing, communication, and knowledge industries, and so on) replaces production as the organizing form of society. In this era, labor is no longer a force of production but is itself a “one *sign* amongst many” (1993a: 10). Labor is not primarily productive in this situation, but is a sign of one’s social position, way of life, and mode of servitude. Wages too bear no rational relation to one’s work and what one produces but to one’s place within the system (1993a: 19ff.). But, crucially, political economy is no longer the foundation, the social determinant, or even a structural “reality” in which other phenomena can be interpreted and explained (31ff.). Instead people live in the “hyperreality” of simulations in which images, spectacles, and the play of signs replace the concepts of production and class conflict as key constituents of contemporary societies.
 
-From now on, capital and political economy disappear from Baudrillard’s story, or return in radically new forms. Henceforth, signs and codes proliferate and produce other signs and new sign machines in ever-expanding and spiraling cycles. Technology thus replaces capital in this story and semiurgy (interpreted by Baudrillard as proliferation of images, information, and signs) replaces production. His postmodern turn is thus connected to a form of technological determinism and a rejection of political economy as a useful explanatory principle — a move that many of his critics reject (see Kellner 1989, Norris 1992, and the studies in Kellner 1994).
+From now on, capital and political economy disappear from Baudrillard’s story, or return in radically new forms. Henceforth, signs and codes proliferate and produce other signs and new sign machines in ever-expanding and spiraling cycles. Technology thus replaces capital in this story and semiurgy (interpreted by Baudrillard as proliferation of images, information, and signs) replaces production. His postmodern turn is thus connected to a form of technological determinism and a rejection of political economy as a useful explanatory principle — a move that many of his critics reject (see Kellner 1989, Norris 1992, and the studies in Kellner 1994)[^kellner-1994].
 
 *Symbolic Exchange and Death* and the succeeding studies in *Simulation and Simulacra* (1994 [1981]) articulate the principle of a fundamental rupture between modern and postmodern societies and mark Baudrillard’s departure from the problematic of modern social theory. For him, modern societies are organized around the production and consumption of commodities, while postmodern societies are organized around *simulation* and the play of images and signs, denoting a situation in which codes, models, and signs are the organizing forms of a new social order where simulation rules.[^note-6] In the society of simulation, identities are constructed by the appropriation of images, and codes and models determine how individuals perceive themselves and relate to other people. Economics, politics, social life, and culture are all governed by the mode of simulation, whereby codes and models determine how goods are consumed and used, politics unfold, culture is produced and consumed, and everyday life is lived.
 
@@ -117,7 +117,7 @@ In these works, Baudrillard seems to be taking his theory into the realm of meta
 
 > pataphysics is the science of the realm beyond metaphysics… It will study the laws which govern exceptions and will explain the universe supplementary to this one; or, less ambitiously, it will describe a universe which one can see — must see perhaps — instead of the traditional one…
 
-> Definition: pataphysics is the science of imaginary solutions, which symbolically attributes the properties of objects, described by their virtuality, to their lineaments (Jarry 1963: 131).
+> Definition: pataphysics is the science of imaginary solutions, which symbolically attributes the properties of objects, described by their virtuality, to their lineaments (Jarry 1963: 131)[^jarry-1963].
 
 Like the universe in Jarry’s *Ubu Roi*, *The Gestures and Opinions of Doctor Faustroll* (1969), and other literary texts — as well as in Jarry’s more theoretical explications of pataphysics — Baudrillard’s is a totally absurd universe where objects rule in mysterious ways, and people and events are governed by absurd and ultimately unknowable interconnections and predestination (The French playwright Eugene Ionesco is another good source of entry to this universe). Like Jarry’s pataphysics, Baudrillard’s universe is ruled by surprise, reversal, hallucination, blasphemy, obscenity, and a desire to shock and outrage.
 
@@ -197,7 +197,7 @@ Baudrillard has never been as influential in France as in the English-speaking w
 
 Baudrillard is perhaps most important as part of the postmodern turn against modern society and its academic disciplines. His work cuts across the disciplines and promotes cross-disciplinary thought. He challenges standard wisdom and puts in question received dogma and methods. While his early work on the consumer society, the political economy of the sign, simulation and simulacra, and the implosion of phenomena previously separated can be deployed within critical philosophy and social theory, much of his post-1980s work quite self-consciously goes beyond the classical tradition and in most interviews of the past decade Baudrillard distances himself from critical philosophy and social theory, claiming that the energy of critique has dissipated.
 
-Baudrillard thus emerges in retrospect as a transdisciplinary theorist of the end of modernity who produces sign-posts to the new era of postmodernity and is an important, albeit hardly trustworthy, guide to the new era. One can read Baudrillard’s post-1970s work as science fiction that anticipates the future by exaggerating present tendencies, and thus provides early warnings about what might happen if present trends continue (Kellner 1995). It is not an accident that Baudrillard is an aficionado of science fiction, who has himself influenced a large number of contemporary science fiction writers and filmmakers of the contemporary era, including *The Matrix* (1999) where his work is cited.[^note-21]
+Baudrillard thus emerges in retrospect as a transdisciplinary theorist of the end of modernity who produces sign-posts to the new era of postmodernity and is an important, albeit hardly trustworthy, guide to the new era. One can read Baudrillard’s post-1970s work as science fiction that anticipates the future by exaggerating present tendencies, and thus provides early warnings about what might happen if present trends continue (Kellner 1995)[^kellner-1995]. It is not an accident that Baudrillard is an aficionado of science fiction, who has himself influenced a large number of contemporary science fiction writers and filmmakers of the contemporary era, including *The Matrix* (1999) where his work is cited.[^note-21]
 
 However, in view of his exaggeration of the alleged break with modernity, it is ambiguous whether Baudrillard’s last two decades of work is best read as science fiction or theory. He obviously wants to have it both ways with social theorists thinking that he provides salient perspectives on contemporary social realities, that Baudrillard reveals what is really happening, that he tells it like it is. And yet more cynical anti-sociologists are encouraged to enjoy Baudrillard’s fictions, his experimental discourse, his games, and play. Likewise, he sometimes encourages cultural metaphysicians to read his work as serious reflections on the realities of our time, while winking a pataphysical aside at those skeptical of such undertakings. And Baudrillard’s philosophical writings provoke philosophers to defend their positions against his and to rethink certain traditional questions in the light of contemporary realities.
 
@@ -214,36 +214,6 @@ In the final analysis, Baudrillard is perhaps more useful as a provocateur who c
 Major Theoretical Works by Baudrillard:
 
 ## Secondary Literature
-
-- Best, Steven, and Kellner, Douglas, 1991, *Postmodern Theory: Critical Interrogations*, London and New York: MacMillan and Guilford Press.
-- –––, 1997, *The Postmodern Turn*, New York: Guilford Press.
-- –––, 2001, *The Postmodern Adventure*, New York: Guilford Press.
-- Bishop, Ryan (ed.), 2009, *Baudrillard Now: Current Perspectives in Baudrillard Studies*. Cambridge, UK: Polity Press.
-- Butler, Rex, 1999, *Jean Baudrillard: The Defense of the Real*, London and Thousand Oaks: Sage.
-- Clarke, D.B., Doel, M.A., Merrin, William, and Smith, R.G. (eds), 2009, *Jean Baudrillard. Fatal Theories*. London and New York: Routledge.
-- Debord, Guy, 1970, *The Society of the Spectacle*, Detroit: Black and Red.
-- Frankovits, Alan, 1984, editor *Seduced and Abandoned: The Baudrillard Scene*, Glebe, New South Wales: Stonemoss.
-- Gane, Mike, 1991, *Baudrillard. Critical and Fatal Theory*, London: Routledge.
-- –––, 2000, *Jean Baudrillard: In Radical Uncertainty*. London: Pluto Press.
-- ––– (ed.), 1993, *Baudrillard Live. Selected Interviews*, London: Routledge.
-- Genosko, Gary, 1994, *Baudrillard and Signs*, London: Routledge.
-- Grace, V., 2000, *Baudrillard’s Challenge: A Feminist Reading*, London: Routledge.
-- Jarry, Alfred, 1963, “What is Pataphysics?,” *Evergreen Review*, 13: 131–151.
-- –––, 1969, *The Ubu Plays*, New York: Grove press.
-- Kellner, Douglas, 1989a, *Jean Baudrillard: From Marxism to Postmodernism and Beyond*, Cambridge and Palo Alto: Polity Press and Stanford University Press.
-- –––, 1989b, *Critical Theory, Marxism, and Modernity*, Cambridge, UK and Baltimore, MD: Polity Press and John Hopkins University Press, 1989.
-- ––– (ed.), 1994, *Jean Baudrillard. A Critical Reader*, Oxford: Basil Blackwell.
-- –––, 1995, *Media Culture. Cultural Studies, Identity and Politics Between the Modern and the Postmodern*, London and New York: Routledge.
-- –––, 2003a, *Media Spectacle*, London and New York: Routledge.
-- –––, 2003b, *From September 11 to Terror War: The Dangers of the Bush Legacy*, Lanham, Md.: Rowman and Littlefield.
-- Lefebvre, Henri, 1971 [1968], *Everyday Life in the Modern World*, New Brunswick: Transaction Books.
-- –––, 1991 [1947; 1958], *Critique of Everyday Life*, London: Verso.
-- Norris, Christopher, 1998 *Uncritical Theory: Postmodernism, Intellectuals and the Gulf War.* Amhearst: Univ of Massachusetts Press.
-- Rokek, Chris and Bryan Turner, 1993, editors *Forget Baudrillard*, London: Routledge.
-- Smith, Jonathan, 2004, “The Gnostic Baudrillard: A Philosophy of Terrorism Seeking Pure Appearance,” in *International Journal of Baudrillard Studies*, Volume 1/No. 1 (January).
-- Sokal, A. and J. Bricmont, 1998, “Jean Baudrillard” in *Fashionable Nonsense: Postmodern Intellectuals’ Abuse of Science*, New York: Picador, pp. 147–153.
-- Stearns, William and William Chaloupka (eds.), 1992, *The Disappearence of Art and Politics*, New York and London: Saint Martins and Macmillan Press.
-- Woodward, Ashley, 2009, *Nihilism in postmodernity: Lyotard, Baudrillard, Vattimo*, Aurora, Colo,: Davies Group, Publishers.
 
 ## Academic Tools
 
@@ -286,7 +256,7 @@ For critical commentary that helped with the revision of this entry, I am gratef
 
 [^note-8]: On this work, see Kellner (2005): “Baudrillard, Globalization and Terrorism: Some Comments on Recent Adventures of the Image and Spectacle on the Occasion of Baudrillard’s 75th Birthday,” in the Other Internet Resources.
 
-[^note-9]: To those who would deny that Baudrillard is a postmodern theorist and has nothing to do with the discourse of the postmodern (e.g. Gane 1991 and 1993), one might note that Baudrillard uses the concept of the postmodern in his books of the 1990s (Baudrillard 1994b: 23, 27, 31, 34, 36, 107, passim; and Baudrillard 1996a: 36, 70 passim). *The Perfect Crime* (Baudrillard 1996b) does not use the discourse of the postmodern per se, but makes ample use of his classic categories of simulation, hyperreality, and implosion to elucidate a new virtual order opposed to the previous order of reality, the murder of which is “the perfect crime” (see 16, 83, 125, 128, passim). And in the conference “Jean Baudrillard und die Kunste: Eine Hommage zu seinem 75. Geburtstag,” Baudrillard mentioned several times that radical transformations in art and culture were linked to fundamental “anthropological changes in the human being,” ruptures that which the term “postmodern” has been generally used to signify.
+[^note-9]: To those who would deny that Baudrillard is a postmodern theorist and has nothing to do with the discourse of the postmodern (e.g. Gane 1991 and 1993)[^gane-1991][^gane-1993], one might note that Baudrillard uses the concept of the postmodern in his books of the 1990s (Baudrillard 1994b: 23, 27, 31, 34, 36, 107, passim; and Baudrillard 1996a: 36, 70 passim). *The Perfect Crime* (Baudrillard 1996b) does not use the discourse of the postmodern per se, but makes ample use of his classic categories of simulation, hyperreality, and implosion to elucidate a new virtual order opposed to the previous order of reality, the murder of which is “the perfect crime” (see 16, 83, 125, 128, passim). And in the conference “Jean Baudrillard und die Kunste: Eine Hommage zu seinem 75. Geburtstag,” Baudrillard mentioned several times that radical transformations in art and culture were linked to fundamental “anthropological changes in the human being,” ruptures that which the term “postmodern” has been generally used to signify.
 
 [^note-10]: Many commentators have remarked on Baudrillard’s curious mixture of Manicheanism and Gnosticism that identifies with the principle of evil mixed with an ironic skepticism. The result of this mixture is a unique form of cynicism and nihilism which plays with philosophical and other categories, debunks standard philosophical theorizing and offers provocative alternatives. For different takes on this, see Smith 2004 and Woodley 2009.
 
@@ -371,3 +341,61 @@ For critical commentary that helped with the revision of this entry, I am gratef
 [^baudrillard-2015]: 2015, *Jean Baudrillard: From Hyperreality to Disappearance: Uncollected Interviews*, Richard G. Smith, and David B. Clarke, eds., Edinburgh, UK: Edinburgh University Press.
 
 [^baudrillard-2017]: 2017, *Jean Baudrillard: The Disappearance of Culture: Uncollected Interviews*, Richard G. Smith, and David B. Clarke, eds., Edinburgh, UK: Edinburgh University Press.
+
+[^best-1991]: Best, Steven, and Kellner, Douglas, 1991, *Postmodern Theory: Critical Interrogations*, London and New York: MacMillan and Guilford Press.
+
+[^best-1997]: –––, 1997, *The Postmodern Turn*, New York: Guilford Press.
+
+[^best-2001]: –––, 2001, *The Postmodern Adventure*, New York: Guilford Press.
+
+[^bishop-2009]: Bishop, Ryan (ed.), 2009, *Baudrillard Now: Current Perspectives in Baudrillard Studies*. Cambridge, UK: Polity Press.
+
+[^butler-1999]: Butler, Rex, 1999, *Jean Baudrillard: The Defense of the Real*, London and Thousand Oaks: Sage.
+
+[^clarke-2009]: Clarke, D.B., Doel, M.A., Merrin, William, and Smith, R.G. (eds), 2009, *Jean Baudrillard. Fatal Theories*. London and New York: Routledge.
+
+[^debord-1970]: Debord, Guy, 1970, *The Society of the Spectacle*, Detroit: Black and Red.
+
+[^frankovits-1984]: Frankovits, Alan, 1984, editor *Seduced and Abandoned: The Baudrillard Scene*, Glebe, New South Wales: Stonemoss.
+
+[^gane-1991]: Gane, Mike, 1991, *Baudrillard. Critical and Fatal Theory*, London: Routledge.
+
+[^gane-2000]: –––, 2000, *Jean Baudrillard: In Radical Uncertainty*. London: Pluto Press.
+
+[^gane-1993]: ––– (ed.), 1993, *Baudrillard Live. Selected Interviews*, London: Routledge.
+
+[^genosko-1994]: Genosko, Gary, 1994, *Baudrillard and Signs*, London: Routledge.
+
+[^grace-2000]: Grace, V., 2000, *Baudrillard’s Challenge: A Feminist Reading*, London: Routledge.
+
+[^jarry-1963]: Jarry, Alfred, 1963, “What is Pataphysics?,” *Evergreen Review*, 13: 131–151.
+
+[^jarry-1969]: –––, 1969, *The Ubu Plays*, New York: Grove press.
+
+[^kellner-1989a]: Kellner, Douglas, 1989a, *Jean Baudrillard: From Marxism to Postmodernism and Beyond*, Cambridge and Palo Alto: Polity Press and Stanford University Press.
+
+[^kellner-1989b]: –––, 1989b, *Critical Theory, Marxism, and Modernity*, Cambridge, UK and Baltimore, MD: Polity Press and John Hopkins University Press, 1989.
+
+[^kellner-1994]: ––– (ed.), 1994, *Jean Baudrillard. A Critical Reader*, Oxford: Basil Blackwell.
+
+[^kellner-1995]: –––, 1995, *Media Culture. Cultural Studies, Identity and Politics Between the Modern and the Postmodern*, London and New York: Routledge.
+
+[^kellner-2003a]: –––, 2003a, *Media Spectacle*, London and New York: Routledge.
+
+[^kellner-2003b]: –––, 2003b, *From September 11 to Terror War: The Dangers of the Bush Legacy*, Lanham, Md.: Rowman and Littlefield.
+
+[^lefebvre-1971]: Lefebvre, Henri, 1971 [1968], *Everyday Life in the Modern World*, New Brunswick: Transaction Books.
+
+[^lefebvre-1991]: –––, 1991 [1947; 1958], *Critique of Everyday Life*, London: Verso.
+
+[^norris-1998]: Norris, Christopher, 1998 *Uncritical Theory: Postmodernism, Intellectuals and the Gulf War.* Amhearst: Univ of Massachusetts Press.
+
+[^rokek-1993]: Rokek, Chris and Bryan Turner, 1993, editors *Forget Baudrillard*, London: Routledge.
+
+[^smith-2004]: Smith, Jonathan, 2004, “The Gnostic Baudrillard: A Philosophy of Terrorism Seeking Pure Appearance,” in *International Journal of Baudrillard Studies*, Volume 1/No. 1 (January).
+
+[^sokal-1998]: Sokal, A. and J. Bricmont, 1998, “Jean Baudrillard” in *Fashionable Nonsense: Postmodern Intellectuals’ Abuse of Science*, New York: Picador, pp. 147–153.
+
+[^stearns-1992]: Stearns, William and William Chaloupka (eds.), 1992, *The Disappearence of Art and Politics*, New York and London: Saint Martins and Macmillan Press.
+
+[^woodward-2009]: Woodward, Ashley, 2009, *Nihilism in postmodernity: Lyotard, Baudrillard, Vattimo*, Aurora, Colo,: Davies Group, Publishers.
