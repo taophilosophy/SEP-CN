@@ -99,7 +99,8 @@ def assemble(lib, slug):
                                      led.get("math_dollars"),
                                      led.get("bq"),
                                      led.get("photo_pre_h1"),
-                                     led.get("sup_pos"))
+                                     led.get("sup_pos"),
+                                     greek_ital=led.get("greek_ital"))
     miss = ra.link_misses()
     art = AB.build(flat, led)
     if art is None:
@@ -156,7 +157,9 @@ def judge(lib, slug):
 def build_pool(lib, slug, dry=False):
     p = repo_path("en", slug, "index.html")
     if not os.path.exists(p):
-        return None
+        # layout 账先行于 en 包（并行挂账窗口）：judge 侧同款语义，回 gap
+        # 不触池（croce-aesthetics 判例：返回 None 曾令全量计数崩溃）
+        return {"slug": slug, "status": "gap", "why": "no en"}
     h0 = PL.read(p)
     page, info = assemble(lib, slug)
     if page is None:

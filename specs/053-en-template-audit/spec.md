@@ -497,28 +497,27 @@ B3.2 的 sha 全等清单即 OAIS fixity 账的实现形态；与 ADR-0076 已�
 
 | 判据 | 现状 | 取数命令 |
 | ---- | ---- | ---- |
-| B3.1 往返不动点 | **1,660/1,873（88.6%）**，第二十一批 +14（sup/sub 实体拼写右逆）、第二十五批 +1、第三十一批 +1（URL 白名单）、第三十二批 +13（pubinfo 行位假设）、第三十四批 +1（空作者 meta＋词内锚兜底）、第三十八批 +7（格内转义管道分格）、第四十批 +1（公式美元指纹空白归一）、第四十一批 +1（表题定界判据）；转红 3（W8 键名漂移，定案见下） | `python -B specs/053-en-template-audit/bin/reassemble.py --all --out <json>` |
-| B3.2 页面装配 | **pool 1,811（96.7%）／gap 62／stale 0**，池占页 49.66%（2026-11-25 第四十二批全量重建＋全量 judge 双通道收官） | `python -B specs/053-en-template-audit/bin/page_assemble.py --all --build` |
+| B3.1 往返不动点 | **1,663/1,873（88.8%）**，第二十一批 +14（sup/sub 实体拼写右逆）、第二十五批 +1、第三十一批 +1（URL 白名单）、第三十二批 +13（pubinfo 行位假设）、第三十四批 +1（空作者 meta＋词内锚兜底）、第三十八批 +7（格内转义管道分格）、第四十批 +1（公式美元指纹空白归一）、第四十一批 +1（表题定界判据）、第四十三批 +2（围栏码块↔`<pre>`、反引号字面化、`&#124;` 单次转义：linguistics／qualia-inverted）；转红 3（W8 键名漂移，定案见下） | `python -B specs/053-en-template-audit/bin/reassemble.py --all --out <json>` |
+| B3.2 页面装配 | **pool 1,851（98.8%）／gap 22／stale 0**，池占页 51.26%（2026-11-25 第四十三批全量重建＋全量 judge 双通道收官） | `python -B specs/053-en-template-audit/bin/page_assemble.py --all --build` |
 | I2/I3 转换保真 | `--gate` 0 issue（1,873 全过） | `python -B tools/check_yuanwen_fidelity.py --gate` |
 | 全库门禁 | check_all 17 项全绿 | `python -B tools/check_all.py` |
 
-**缺口 62 分族**（`script/tmp/b32_families2.py <scan-json>`；分族普查须在每次转池后重跑）：2026-11-25 第四十二批收官普查为 **md_extra 29／h0_extra 12／math 9／text 7／digit 3／star 1／entity 1**。已解族：表题 `caption`（第十四批）、书目区无年份散文、书目区取域与注释（第十六批）、致谢区识别（第十七批）、related 前导竖线与希腊公式形（第十八批）、嵌套引块与 layout 陈年（第十九批）、书目散文 `note-<年>` 键（第二十批）、sup/sub 实体拼写与字形（第二十一批）、跨岛实体差（第二十二批）、行内公式 `\$` 双源（第二十三批）、题后散字与裸名条目（第二十四批）、嵌套表与管道格内 raw 表（第二十五批）、脚注引用形与内部链接消歧（第二十六批）、带片段的裸兄弟文件链（第二十七批）、宏↔裸字形之希腊-cursive 区（第二十八批）、账锚方括号保护（第二十九批）、引块形态账 bq（第三十批，前置件）、`_link` URL 白名单（第三十一批）、头部图组位移 photo_pre_h1＋pubinfo 行位假设（第三十二批）、上标字形双源件级判定（第三十三批）、空作者 meta 与词内锚兜底（第三十四批）、图片 alt 嵌套方括号扫描＋不平衡兜底与 math_forms 行内屏蔽（第三十五批）、希腊宏按文档序定位（第三十六批）、脚注畸形包裹与上下标同页双源按位（第三十七批）、表格格内转义管道分格（第三十八批）、公式美元指纹空白归一与字面 TeX 上标记号守卫（第四十批）、表题定界判据收紧（第四十一批）、强调尾随空白外移（第四十二批）。
+**缺口 22 分族**（`script/tmp/b32_families2.py <scan-json>`；分族普查须在每次转池后重跑）：2026-11-25 第四十三批收官普查为 **md_extra 19／h0_extra 2／error 1**（error＝`croce-aesthetics`，本克隆缺 en 包、环境缺件），math／text／digit／star／entity 五族清零。已解族：表题 `caption`（第十四批）、书目区无年份散文、书目区取域与注释（第十六批）、致谢区识别（第十七批）、related 前导竖线与希腊公式形（第十八批）、嵌套引块与 layout 陈年（第十九批）、书目散文 `note-<年>` 键（第二十批）、sup/sub 实体拼写与字形（第二十一批）、跨岛实体差（第二十二批）、行内公式 `\$` 双源（第二十三批）、题后散字与裸名条目（第二十四批）、嵌套表与管道格内 raw 表（第二十五批）、脚注引用形与内部链接消歧（第二十六批）、带片段的裸兄弟文件链（第二十七批）、宏↔裸字形之希腊-cursive 区（第二十八批）、账锚方括号保护（第二十九批）、引块形态账 bq（第三十批，前置件）、`_link` URL 白名单（第三十一批）、头部图组位移 photo_pre_h1＋pubinfo 行位假设（第三十二批）、上标字形双源件级判定（第三十三批）、空作者 meta 与词内锚兜底（第三十四批）、图片 alt 嵌套方括号扫描＋不平衡兜底与 math_forms 行内屏蔽（第三十五批）、希腊宏按文档序定位（第三十六批）、脚注畸形包裹与上下标同页双源按位（第三十七批）、表格格内转义管道分格（第三十八批）、公式美元指纹空白归一与字面 TeX 上标记号守卫（第四十批）、表题定界判据收紧（第四十一批）、强调尾随空白外移（第四十二批）、书目嵌套三层 ul 与空壳 li 槽位、题后散字含链接去重、反引号字面化与围栏码块↔`<pre>`、斜体希腊锚账（第四十三批）。
 
-**md_extra 29 件再分族（批准项①，按 `plain()` 文字流首差内容形态）**：`script/tmp/fam_md_extra2.py`（文字流首差＋H0 标记上下文）与 `classify_diff_content.py`（差异内容形态）两段可复算，2026-11-24 第三十八批复算计数：**emph 9／link 6／table 5／math 4／dl 2／bq 2／text 1**：
+**md_extra 19 件再分族（批准项①，按 `plain()` 文字流首差内容形态）**：`script/tmp/fam_md_extra2.py`（文字流首差＋H0 标记上下文）与 `classify_diff_content.py`（差异内容形态）两段可复算，2026-11-25 第四十三批复算计数：**emph 5／link 4／math 3／table 3／dl 2／bq 2**（text 族清零）：
 
 | 子族 | 件数 | 判例与机制 |
 | ---- | ---- | ---- |
-| 表格/管道 | 5 | 余件为格内空实体形（`&nbsp;` 与空 td 双源）与表内块序；格内转义管道分格已于第三十八批解（8 件转池） |
-| 数学宏形 | 4 | 同符号按位宏差余件；按位希腊宏账已于第三十六批落地（ramsey／recursive-functions／type-theory-church 等 6 件转池），余件为显示式取域残片 |
-| 强调/星 | 9 | 书目区 `B. Books about…` 之类区首强调与星形配对（augustine／berlin／baudrillard／time 等） |
-| 链接 | 6 | 书目/资源区链接组（aristotle-noncontradiction 等），锚文与区标题相邻错位 |
-| 文字 | 3 | 窗口内纯文字差，待逐件取证 |
-| 定义列表 | 2 | H0 `<dl>` 的 dt/dd 结构（anaphora `(1)` 标记丢失、wilhelm-humboldt 书目区） |
-| 引块 | 2 | 引块形态余件（suicide 等），须与 bq 账游标对齐 |
+| 表格/管道 | 3 | pufendorf／truth-correspondence／typelogical-grammar：格内空实体形（`&nbsp;`／`&#8942;` 与字形双源）与表内块序 |
+| 数学宏形 | 3 | criminal-law／logic-intensional／propositional-function：同符号按位宏差余件（显示式取域残片） |
+| 强调/星 | 5 | augustine／baudrillard／berlin／heytesbury／time：书目区 `B. Books about…` 之类区首强调与星形配对 |
+| 链接 | 4 | consciousness-intentionality／diagrams／game-theory／scottus-eriugena：书目/资源区链接组，锚文与区标题相邻错位 |
+| 定义列表 | 2 | anaphora（`(1)` 标记丢失）、wilhelm-humboldt（书目区） |
+| 引块 | 2 | metaphysics-massexpress／suicide，须与 bq 账游标对齐 |
 
 > 脚注引用形子族已于第二十六批清零（12 件全转池）。
 
-- **h0_extra 余件（13）**：余下仍属“H0 事项未入 md／账”。
+- **h0_extra 余件（2）**：shared-agency（H0 缺 `</td>`，C 侧已知缺陷）、singular-terms-medieval；余下属“H0 事项未入 md／账”。
 - **裸兄弟链（第二十七批已解）**：带片段 `other.html#frag` 已入账（73 页 514 条），转池 2、失池 0；余 13 条未消费属 figdesc／补充材料族（锚文已并入 C 保留的链接文字或文字有异），不再单独建族。
 - **hobbes-science**：题后散字已入账落位正确，剩余首差为**折行宽度**（`wrap_width` 全局单宽模型与该页 H0 混排宽度不合）。
 

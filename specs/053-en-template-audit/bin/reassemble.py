@@ -43,7 +43,7 @@ sys.path.insert(0, os.path.join(ROOT, "tools"))
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))  # -I 模式不带脚本目录
 
 from tools import parser, yuanwen  # noqa: E402
-from article_ledger import table_spans  # noqa: E402  （表块扫描与账同一实现）
+from article_ledger import table_spans, ital_anchor  # noqa: E402  （表块扫描与账同一实现；斜体锚两侧同式）
 from tools.common import repo_path, read_text  # noqa: E402
 
 if (sys.stdout.encoding or "").lower().replace("-", "") != "utf8":
@@ -439,13 +439,30 @@ def encode_outside_math(s, policy):
 
     def st(m):
         keep.append(m.group(0))
-        return chr(3) + str(len(keep) - 1) + chr(3)
+        return chr(4) + str(len(keep) - 1) + chr(4)
 
     s = re.sub(r"""\\\([^)]*\\\)|\\\[[^\]]*\\\]|\d+""", st, s)
     s = "".join(policy.get(c, c) for c in s)
     for i, v in enumerate(keep):
-        s = s.replace(chr(3) + str(i) + chr(3), v)
+        s = s.replace(chr(4) + str(i) + chr(4), v)
     return s
+
+
+def _pre_html(lines):
+    """md 围栏码块 → H0 形 <pre>（digital-art/linguistics 判例）。
+
+    C 的 pre→fence：code = unescape(剥标签 inner)，emit '```\\n%s\\n```'
+    （strip('\\n')）。逆：非空行尾实体化 &#10;，空行保留真实换行
+    （H0 的 &#10;＋真实换行连排 → md 的空行）；<、> 无条件实体化
+    （正文实体策略不含这两个码位，H0 pre 内恒为 &lt;/&gt;）。"""
+    parts = []
+    for ln in lines:
+        if ln == "":
+            parts.append("\n")
+        else:
+            t = ln.replace("<", "&lt;").replace(">", "&gt;")
+            parts.append(encode_outside_math(t, _EM) + "&#10;")
+    return "<pre>\n" + "".join(parts) + "</pre>"
 
 
 def _inline_end(s, i):
@@ -584,6 +601,10 @@ def _inline_md_to_html(text):
 
     s = _stash_tbls(s)    # 文本层转义：C 在输出端 unescape，R 必须先把字面 & < > 编码回实体——
     # 否则 md 里的 <URL> 尖括号在装配 HTML 中被当标签吃掉（bayes-theorem 判例）
+    # C 的表格单元管道转义 `&#124;` 先行占位（H0 全库无 `&#124;` 字面，
+    # pm-notation 判例：数学内 `\{⟨x,y⟩|Rxy\}`）——整体转义会把它的 `&`
+    # 编成 `&amp;` 双重转义；哨兵最终还原为裸 `|`（H0 侧恒裸管道）
+    s = s.replace("&#124;", "\x1b")
     s = s.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
     # 字面转义星（\*）占位保护——必须在强调解析前隔离，否则 *H\** 会被
     # 拆成 *H** 破配对（bayes-theorem 判例）；解析后还原为裸 *
@@ -753,15 +774,10 @@ def _inline_md_to_html(text):
     # 记号星（`(1*)` 注解记号）不再需要 R 侧占位：C 已把正文层字面星统一
     # 转成 `(1\*)`，到此处是 `\x01`。旧占位 `\(\d+\*+\)` 反而吞掉合法强调的
     # 闭星（histfem-condorcet `(1786*)` 判例），已撤除。
-    # 行内代码（先占位：代码内 `*` 是字面字符，2026-11-21 C 侧结构化转义后
-    # md 里裸星只剩强调定界符，若不隔离代码段会被 _star_parse 误当定界符）
-    code_store = []
-
-    def _stash_code(m):
-        code_store.append("<code>%s</code>" % m.group(1))
-        return "\x11%d\x11" % (len(code_store) - 1)
-
-    s = re.sub(r"`([^`]*)`", _stash_code, s)
+    # 反引号一律字面（H0 全库无 <code>/<tt>/<kbd>/<samp>；md 反引号是 H0
+    # 原文字符，pm-notation 57 处、newton-stm `Tertium Qid` 判例）——旧实现
+    # 把 `…` 配对成 <code>，孤反引号隔空配对还吞掉中间的数学与强调；围栏码
+    # 块另在主循环装配为 <pre>（C 的 pre→fence 逆，digital-art/linguistics）。
     # sub/sup 记号（_{x}/^{x}）→ 标签；原生 Unicode 字形已由 C 直接产出，
     # R 不识别（原样文本，C 亦原样）。数学占位符内的记号不受影响。
     def _sup_sub_repl(tag):
@@ -823,9 +839,20 @@ def _inline_md_to_html(text):
     # 图片占位还原（alt 内已有文本层转义，不再加工）
     for idx, tag in enumerate(img_store):
         s = s.replace("\x03%d\x03" % idx, tag)
-    # 代码段还原（含字面星，不再参与任何规则）
-    for idx, tag in enumerate(code_store):
-        s = s.replace("\x11%d\x11" % idx, tag)
+    # 表格单元管道转义还原（&#124; 占位 → 裸 |）
+    s = s.replace("\x1b", "|")
+    # 斜体希腊哨兵兜底：星配对失效时（`λP*λ*Q` 之类与相邻星交错）哨兵可能
+    # 漏留在正文（computational-linguistics/nonwellfounded-set-theory 判例）。
+    # 按账内名字还原为宏或斜体字形，等价于 _em 的对应分支。
+    def _sent(m):
+        k = int(m.group(1))
+        if k < len(_ITAL_NAMES):
+            glyph, name = _ITAL_NAMES[k]
+            if name == "em":
+                return "<%s>%s</%s>" % (_ITAL, glyph, _ITAL)
+            return r"\(\%s\)" % name
+        return m.group(0)
+    s = re.sub("\x15(\\d+)\x15", _sent, s)
     return s
 
 
@@ -879,11 +906,15 @@ def _em(inner):
     fullmatch r'\\\\([A-Za-z]+)' 识别的是带杠命令名）；其余内容包 <em>。"""
     m0 = re.fullmatch("\x15(\\d+)\x15", inner)
     if m0:
-        # 文档序预排哨兵（_plan_ital_greek）：名字已按全文档序定位
+        # 文档序预排哨兵（_plan_ital_greek）：名字已按全文档序定位。
+        # 账内该次形态为 "em" 时发斜体字形（H0 `<em>&phi;</em>`／`<em>φ</em>`），
+        # 否则发宏（H0 `\(\phi\)`）——按**逐次**形态而非按件一刀切：同一件
+        # 可混排（ernst-mach/fiction 判例：`\(\phi\)` 与 `&phi;` 同页，
+        # 按件 greek_form 一刀切必错一半）
         k = int(m0.group(1))
         if k < len(_ITAL_NAMES):
             glyph, name = _ITAL_NAMES[k]
-            if _GREEK_FORM == "em":
+            if name == "em":
                 return "<%s>%s</%s>" % (_ITAL, glyph, _ITAL)
             return r"\(\%s\)" % name
     m = re.fullmatch(r"([A-Za-z\u0370-\u03FF]+)", inner)
@@ -904,7 +935,7 @@ def _greek_cp(tok):
     return None
 
 
-def _plan_ital_greek(md, greek):
+def _plan_ital_greek(md, greek, greek_ital=None):
     """文档序预排斜体希腊宏名 → (md′, [(字形, 宏名)…])。
 
     C 把 H0 的孤立希腊公式（`\\(\\phi\\)`）转成 `*φ*` 斜体，md 只剩字形；账
@@ -913,14 +944,23 @@ def _plan_ital_greek(md, greek):
     取了 phi）。此处按文档序数：数学段内每次宏/字形占一位，斜体字形取其文
     档序号的名字，并把斜体改写成 `\\x15<序号>\\x15` 哨兵——位置信息随文本
     走，旁路（题注/表格）漏处理也不会让后续错位。围栏代码与反引号段跳过
-    （R 先占位保护，其中的 `$` 与希腊字不入账）。"""
-    if not greek:
+    （R 先占位保护，其中的 `$` 与希腊字不入账）。
+
+    `greek_ital`（账内 md 序斜体账，见 article_ledger.extract_greek_ital）
+    优先：它按锚词对回 H0 的同一次出现，不依赖数学段出现数——md 正文层有
+    多余段（md_extra）时全文档序整体漂移，纯位次取名会把 φ/varphi 配反
+    （recursive-functions 判例：md 339 对 H0 336）。锚缺失的位次退回位次口径。"""
+    if not greek and not greek_ital:
         return md, []
     cnt = {}
+    ital_used = {}
     names = []
     out = []
     i, n = 0, len(md)
-    math_re = re.compile(r"\\phi(?![A-Za-z])|\\varphi|[\u03c6\u03d5]")
+    # 数学段内的希腊占位：宏名（含 phi/varphi 与其他字形）＋原生字形。
+    # 只认 phi 会让其他字形（alpha/beta…）的斜体计数与账内序列错位——账
+    # 记的是全文档序（math 与斜体混排），故每个字形都要占位
+    math_re = re.compile(r"\\([A-Za-z]+)|[\u0370-\u03ff]")
 
     def take(cp):
         k = cnt.get(cp, 0)
@@ -972,22 +1012,43 @@ def _plan_ital_greek(md, greek):
             i += 1
             continue
         if c == "*":
-            m = re.match(r"\*([^*\n]+)\*", md[i:])
-            if m:
-                inner = m.group(1).strip()
-                if (len(inner) == 1 and inner in GREEK_REV
-                        and inner not in GREEK_C_DEFER):
-                    cp = _greek_cp(inner)
-                    seq = (greek or {}).get(cp) or []
-                    k = take(cp)
-                    nm = seq[k] if k < len(seq) else GREEK_REV.get(inner)
-                    if nm:
-                        names.append((inner, nm))
-                        out.append("*\x15%d\x15*" % (len(names) - 1))
-                        i += m.end()
-                        continue
-            out.append(c)
-            i += 1
+            # 先整段跳过粗体/粗斜体：否则其闭星会被当下一段的开星，配出
+            # `*; … λ*` 之类的伪斜体、λ 被错标宏（computational-linguistics
+            # 判例：`***a***; | Det′ | = | λ*P* λ*Q*` 连环错配）
+            for pat in (r"\*\*\*([^*\n]+)\*\*\*", r"\*\*([^*\n]+)\*\*"):
+                mb = re.match(pat, md[i:])
+                if mb:
+                    out.append(mb.group(0))
+                    i += mb.end()
+                    break
+            else:
+                m = re.match(r"\*([^*\n]+)\*", md[i:])
+                if m:
+                    inner = m.group(1).strip()
+                    if (len(inner) == 1 and inner in GREEK_REV
+                            and inner not in GREEK_C_DEFER):
+                        cp = _greek_cp(inner)
+                        seq = (greek or {}).get(cp) or []
+                        k = take(cp)
+                        ilist = (greek_ital or {}).get(cp) or []
+                        k2 = ital_used.get(cp, 0)
+                        ital_used[cp] = k2 + 1
+                        nm = ilist[k2] if k2 < len(ilist) else None
+                        if not nm:
+                            nm = seq[k] if k < len(seq) else GREEK_REV.get(inner)
+                        if nm:
+                            names.append((inner, nm))
+                            out.append("*\x15%d\x15*" % (len(names) - 1))
+                            i += m.end()
+                            continue
+                    # 非希腊斜体整段原样跳过：只推进一个字符会让闭星被当作
+                    # 下一段的开星
+                    out.append(m.group(0))
+                    i += m.end()
+                    continue
+                out.append(c)
+                i += 1
+                continue
             continue
         out.append(c)
         i += 1
@@ -1230,7 +1291,7 @@ def _render_bq(q, _depth=0):
 def reassemble_article(md, authors, entity_map=None, links=None, greek=None,
                        italics=None, greek_form=None, note_forms=None,
                        math_forms=None, math_dollars=None, bq=None,
-                       photo_pre_h1=None, sup_pos=None):
+                       photo_pre_h1=None, sup_pos=None, greek_ital=None):
     """md（主档全文）→ (title, article_html)。不动点验证在调用方闭环。
 
     entity_map：按件实体策略（codepoint → 实体串）；None 表示不编码。
@@ -1243,7 +1304,7 @@ def reassemble_article(md, authors, entity_map=None, links=None, greek=None,
     authors = [a for a in (authors or []) if a and a.strip()]
     global _ITAL, _GREEK_FORM, _NOTE_FORMS, _MATH_FORMS, _MATH_DOLLARS
     global _ITAL_NAMES, _SUP_POS, _SUP_IDX
-    md, _ITAL_NAMES = _plan_ital_greek(md, greek)
+    md, _ITAL_NAMES = _plan_ital_greek(md, greek, greek_ital)
     _SUP_POS = sup_pos or None
     _SUP_IDX = {}
     global _BQ
@@ -1355,10 +1416,17 @@ def reassemble_article(md, authors, entity_map=None, links=None, greek=None,
                 # 剥固定注（render_blocks 再生）；区内按文档序发题与散文段
                 # （文献题可至 h4、题后散文须原位——18thGerman 判例），
                 # 定义行统一在区末 ul 发射（B3.1 键序＝md 定义序）
+                _seen_note = False
                 while i < n and (not lines[i].strip()
-                                 or lines[i].startswith("> ")
-                                 or lines[i].strip() == ">"):
+                                 or ((not _seen_note)
+                                     and (lines[i].startswith("> ")
+                                          or lines[i].strip() == ">"))):
+                    if lines[i].startswith(">"):
+                        _seen_note = True
                     i += 1
+                # 旧实现无 _seen_note：固定注之后的所有 `> ` 行一并跳过——
+                # 区首第二块引块列表（qualia-inverted 判例：H0 书目条目被
+                # C 包成 `> - Allen…`）整块丢失
                 while i < n:
                     s2 = lines[i].strip()
                     if not s2:
@@ -1431,6 +1499,19 @@ def reassemble_article(md, authors, entity_map=None, links=None, greek=None,
             while i < n and lines[i].strip():
                 i += 1
             continue
+        if stripped.startswith("```"):
+            # 围栏码块（digital-art/linguistics 判例）：整块原行收集
+            # （pre 内容保前导空白），至闭围栏止；无闭围栏则到文件尾
+            j = i + 1
+            buf = []
+            while j < n and not lines[j].strip().startswith("```"):
+                buf.append(lines[j])
+                j += 1
+            if j < n:
+                j += 1
+            out.append(_pre_html(buf))
+            i = j
+            continue
         if stripped.startswith("|"):
             rows, i = _pipe_rows_collect(lines, i)
             out.append(_table_html(rows))
@@ -1464,7 +1545,11 @@ def reassemble_article(md, authors, entity_map=None, links=None, greek=None,
         out.append("<p>%s</p>" % _inline_md_to_html(text))
     # 文献 ul 已在 References（引用注释）分支原位发射（bib_ul_emitted 守卫）；
     # 文末不再发射——尾部 ul 落在 in_bib 区间外会被渲染成 md 列表（leucippus 判例）
-    return title, "\n".join(out)
+    # C 的表格单元管道转义还原：md 里 `&#124;` 全是 C 对单元内 `|` 的转义
+    # （H0 全库无 `&#124;` 字面，pm-notation 判例：数学内 `\{⟨x,y⟩|Rxy\}`）；
+    # H0 侧恒为裸 `|`，装配输出统一还原（数学偿还段已并入 out，此处一并）。
+    # B3.1 闭环无碍：C 的 table_to_md 会再度转义单元内管道。
+    return title, "\n".join(out).replace("&#124;", "|")
 
 
 def _strip_md(text):

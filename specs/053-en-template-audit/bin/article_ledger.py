@@ -409,7 +409,10 @@ def norm_md(s):
     t = s.replace("\\*", "\x01")
     t = re.sub(r"\[((?:[^\[\]]|\[[^\[\]]*\])*)\]"
                r"\(((?:[^()\s]|\([^()]*\))*)\)", r"\1", t)
-    t = re.sub(r"\[\^[^\]\s]+\]", "", t)   # 脚注引用标记不是可见文字（clauberg 判例：
+    t = re.sub(r"\[\^note-([^\]\s]+)\]", r"[\1]", t)  # 注引用是可见文字：
+    #   H0 `<sup>[<a…>4</a>]</sup>` 可见为 `[4]`，md `[^note-4]` 须同形
+    #   （meinong 判例：书目散文含注引用，两侧失配致 pd 定位全错）
+    t = re.sub(r"\[\^[^\]\s]+\]", "", t)   # 其余脚注引用标记不是可见文字（clauberg 判例：
     #   书目散文带 `[^verbeek-1999a]` 标记，与 H0 段可见文失配致 pd 定位失败）
     t = t.replace("*", "")
     t = t.replace("\x01", "*")
@@ -487,7 +490,18 @@ def scan_bib(region):
     while i < len(region):
         m = BI_START.search(region, i)
         if not m:
+            # 区尾裸排文字（philosophy-religion 判例：末条 ul 后悬一段
+            # `Zagzebski, Linda, 2022, …` 散文，无后续标签可寻）——同样
+            # 自成 p 块，文字仍只从 md 取
+            if region[i:].strip():
+                out.append(("p", region[i:]))
             break
+        if m.start() > i and region[i:m.start()].strip():
+            # 块间裸排文字自成 p 块（locke 判例：`</p> The Clarendon Edition
+            # … Press:` 悬在 `</p>` 与 `<ul>` 之间，BI_START 不收裸文字——
+            # 旧实现整段丢、md 对应散文段永不匹配）。文字仍只从 md 取：
+            # 裸文 norm 后与 md 散文段精确等值，seq 走常规 'p' 步。
+            out.append(("p", region[i:m.start()]))
         if m.group(1) is not None:
             close = "</h%s>" % m.group(1)
             e = region.find(close, m.end())
@@ -564,6 +578,13 @@ def _tree_nodes(inner, md_plain, used):
         rest = ""
         pos = 0
         for m in re.finditer("<ul([^>]*)>", sub):
+            if m.start() < pos:
+                # 已被上一层 ul 的平衡跨度吞掉的内层 ul 不再计一次：三层嵌套
+                # （li→ul→ul）时旧实现把同一子表登记两遍、子节点双计，多出
+                # 的节点匹配不到 md 定义，渲染按「下一个未用索引」兜底→整条
+                # ul 的条目级联错位一位（habermas 判例：Works 节尾部混进
+                # Aboulafia、Secondary 节首条变 Adorno）
+                continue
             t = _match_close(sub, m.end(), "<ul[^>]*>", "</ul>")
             if not t:
                 continue
@@ -573,11 +594,18 @@ def _tree_nodes(inner, md_plain, used):
         rest += sub[pos:]
         vis = norm_html(rest)
         idx = _match_def(vis, md_plain, used)
-        if idx is None:
+        if idx is None and not kids:
+            # 全文前缀回退只给无子表的条目：H0 双层 ul 的空壳包装 li 自身
+            # 无文字、sub 全文以首条目开头，前缀回退会让包装冒领首条定义
+            # （confucian-gender 判例：包装领走 def 0，真条目全部错位一位）
             idx = _match_def(norm_html(sub), md_plain, used)
         if idx is not None:
             used.add(idx)
         node = {"i": idx}
+        if vis:
+            # 本层自带文字（父条目的引子行）：渲染侧 i 缺失时须兜底占位，
+            # 否则文字整条丢失（pomponazzi 判例：`Aristotle,` 父条 + 子表）
+            node["t"] = 1
         for attrs2, inner2 in kids:
             node.setdefault("u", (attrs2 or "").strip())
             node.setdefault("c", []).extend(_tree_nodes(inner2, md_plain, used))
@@ -640,7 +668,11 @@ def extract_bib_indices(art_inner, md_defs):
 
 def _bib_region(art_inner):
     """bibliography div 的内容区间（收口形态不齐：adorno 等件结尾无
-    `</div> ` 尾随空格——用括号配平定位，支持嵌套 div）。"""
+    `</div> ` 尾随空格——用括号配平定位，支持嵌套 div）。
+
+    div 闭后到下一个 `<div ` 之间的条目块一并收入（rights-group 判例：
+    H0 的书目 div 在 h2 后即闭、全部条目 ul 悬在 div 外；BI_START 扫描
+    不看 div 边界，不收则整单条目层丢失）。"""
     m0 = re.search(r'<div id="bibliography">', art_inner)
     if not m0:
         return None
@@ -648,13 +680,34 @@ def _bib_region(art_inner):
     if not t0:
         return None
     inner = art_inner[m0.end():t0.start()]
+    pos = t0.end()
+    while True:
+        # div 闭后到下一个 `<div ` 之间的条目块一并收入（rights-group 判例：
+        # H0 的书目 div 在 h2 后即闭、全部条目 ul 悬在 div 外）；兄弟书目
+        # div（id 以 biblio 起）也并入（spacetime-singularities 判例：作者把
+        # 书目拆成 biblio-phil/phys/-ref 四个兄弟 div）
+        nxt = re.search(r"<div[\s>]", art_inner[pos:])
+        seg_end = pos + (nxt.start() if nxt else len(art_inner) - pos)
+        tail = art_inner[pos:seg_end]
+        if BI_START.search(tail):
+            inner += tail
+        ndiv = (re.match(r'<div id="biblio[^"]*">', art_inner[seg_end:])
+                if nxt else None)
+        if ndiv:
+            t1 = _match_close(art_inner, seg_end + ndiv.end(),
+                              r"<div[^>]*>", r"</div>")
+            if t1:
+                inner += art_inner[seg_end:t1.end()]
+                pos = t1.end()
+                continue
+        break
     # H0 书目区常见整条注释掉的条目（`<!--<li>Humane Society…n.d.…</li>-->`）：
     # C 侧注释被丢弃，账侧必须同等丢弃，否则账里多出一个 md 无对应的条目，
     # 分组条目数与 H0 不等（chimeras 判例：组 2 少 1 件、首条错位）
     return re.sub(r"<!--.*?-->", "", inner, flags=re.S)
 
 
-def extract_bib_seq(art_inner, md):
+def extract_bib_seq(art_inner, md, tails=None):
     """文献区块序账：[[kind, idx], …]，kind ∈ h/p/pd/ul/table/dl。
 
     dl 另出配对账（纯整数 + 标签属性；文字仍只从 md 取）：dls[k] 记
@@ -672,6 +725,10 @@ def extract_bib_seq(art_inner, md):
                     md, re.S | re.M)
     if not reg:
         return None
+    # 题后散字里可能夹链接（boethius-dacia：`Editions</h3> See <a>section 2</a>, above.`），
+    # 与 md 散文段比对须剥标签解实体（norm_html 与下方 vis 同式），否则跳不掉
+    # p 步、题后散字发两遍
+    tail_set = {norm_html(t) for t in (tails or []) if t}
     md_heads, md_prose = [], []
     for ln in reg.group(1).split(NL):
         s2 = ln.strip()
@@ -681,6 +738,11 @@ def extract_bib_seq(art_inner, md):
             # 表格行归 table 块（R 侧发 <table>，不是 <p>）——散文序必须与
             # R 侧 ps 块序一致，含表格行的文件旧索引会错位（anselm 判例：
             # `["p", 6]` 越界被静默跳过，整段散文在装配页消失）
+            continue
+        if re.match(r"[-*+]\s+", s2) or re.match(r"\d+[.]\s+", s2):
+            # md 列表行同理不入散文（logic-propositional 判例：C 的 md 在
+            # References 区保留可见列表形，`- Schechter…` 混进 md_prose 使
+            # p 步索引整体错位、段落在装配页互换）
             continue
         m = re.match(r"^(#{3,6})\s+(.*)$", s2)
         if m:
@@ -759,6 +821,10 @@ def extract_bib_seq(art_inner, md):
                         seq.append(["p", k])
         else:
             vis = norm_html(blk[1])
+            if vis in tail_set:
+                # 题后散字（bib_heads 第 4 位已记、由标题步原样发出）：
+                # 不再单独发 p，否则重复（boethius-dacia 判例）
+                continue
             idx = next((i for i in range(pi, len(md_prose))
                         if md_prose[i] == vis), None)
             if idx is not None:
@@ -858,29 +924,170 @@ def extract_tables(art_inner):
     return out
 
 
-def extract_greek(art_inner):
-    """按件希腊宏账：同形不同名（phi/varphi 等）者按出现序记宏名表。
+def extract_greek(art_inner, md=None):
+    """按件希腊字序账：H0 文档序的**逐次出现形态**（宏名或 "em"）。
 
-    单一名与 GREEK_UNI 默认相同的字形不入账（默认规则已覆盖）。"""
+    同形不同名（phi/varphi 等）按出现序记宏名；H0 以 `<em>&phi;</em>`／
+    `<em>φ</em>` 排的斜体字形记 "em"（C 落 md 成 `*φ*`，R 侧须还原为
+    em 形而非宏）。单一名且从未出 em 形的字形不入账（默认规则已覆盖）。"""
     GREEK_UNI = getattr(__import__("yuanwen"), "GREEK_UNI", {})
     rev = {}
     for k, v in GREEK_UNI.items():
         rev.setdefault(v, []).append(k)
+    name2cp = {}
+    for cp, names in rev.items():
+        for nm in names:
+            name2cp[nm] = cp
+    rng = "[" + chr(0x370) + "-" + chr(0x3ff) + "]"
+    # 宏名按“反斜杠＋字母”取（与 C 侧命令识别一致）：不能要求紧跟 `\)`——
+    # 数学体里 `\varepsilon` 可出现在 `\stackrel{,}{…}` 等复合写法中间，
+    # 卡定界符会漏位、序列整体错位（logic-temporal/chance-randomness 判例：
+    # ε 取了 epsilon 而 H0 是 varepsilon）
+    pat = re.compile(r"\\([A-Za-z]+)"
+                     r"|<(em|i)>\s*(?:&([A-Za-z]+);|(" + rng + r"))\s*</\2>")
     seq = {}
-    pat = chr(92) * 2 + "(" + "([A-Za-z]+)" + ")"
-    matcher = re.compile(pat)
-    for m in matcher.finditer(art_inner):
-        name = m.group(1)
-        for cp, names in rev.items():
-            if name in names:
-                seq.setdefault(cp, []).append(name)
-                break
+    for m in pat.finditer(art_inner):
+        if m.group(1):
+            cp = name2cp.get(m.group(1))
+            if cp:
+                seq.setdefault(cp, []).append(m.group(1))
+            continue
+        cp = name2cp.get(m.group(3)) if m.group(3) else m.group(4)
+        if cp is None:
+            continue
+        seq.setdefault(cp, []).append("em")
     out = {}
     for cp, names in seq.items():
         canon = (rev.get(cp) or [None])[0]
-        if len(rev.get(cp, [])) > 1 or names[0] != canon:
+        if len(rev.get(cp, [])) > 1 or names[0] != canon or "em" in names:
             out[cp] = names
     return out
+
+
+# 锚提取：抹掉数学段/行内代码/标签/实体后取可见词——两侧（H0 与 md）同式调用，
+# 键可逐字比较。数学段两侧写法不同（H0 `\(…\)`、md `$…$`），整段抹掉后
+# 剩下的都只是散文词，故能对上。
+ANCHOR_DROP = re.compile(
+    r"\\\[[\s\S]*?\\\]|\\\([\s\S]*?\\\)|\$\$[\s\S]*?\$\$"
+    r"|\$[^$\n]*\$|`[^`\n]*`|\[\^[^\]]*\]"
+    r"|<[^>]*>|&[A-Za-z#0-9]+;")
+
+
+def ital_anchor(text, pos, words=5):
+    """`pos` 之前最近 5 个词（去数学/代码/标签/实体）——斜体字形的定位锚。
+
+    斜体希腊位次不能靠“全文档第 k 次出现”定位：md 侧有正文层多出的段
+    （H0 无对应、装配层会丢），出现数一多就整体错位（recursive-functions
+    判例：md 339 对 H0 336，4 处 φ/varphi 互换）。锚词是散文，两侧一致。"""
+    pre = ANCHOR_DROP.sub(" ", text[max(0, pos - 220):pos])
+    return " ".join(re.findall(r"[A-Za-z]{2,}", pre)[-words:])
+
+
+ITAL_STAR_RE = re.compile(r"(?<![*\w])\*\s*([A-Za-z\u0370-\u03ff])\s*\*(?!\*)")
+
+
+def _mask_md(md):
+    """围栏/行内代码/数学段抹成等长空白（位置不变），只用于找斜体字形。"""
+    out = list(md)
+    n = len(md)
+
+    def blank(a, b):
+        for k in range(a, min(b, n)):
+            if out[k] != "\n":
+                out[k] = " "
+
+    i = 0
+    while i < n:
+        if md.startswith("```", i):
+            j = md.find("```", i + 3)
+            j = n if j < 0 else j + 3
+            blank(i, j)
+            i = j
+            continue
+        c = md[i]
+        if c == "`":
+            j = md.find("`", i + 1)
+            if j > 0 and "\n" not in md[i:j]:
+                blank(i, j + 1)
+                i = j + 1
+                continue
+        if c == "$":
+            if md.startswith("$$", i):
+                j = md.find("$$", i + 2)
+                if j > 0:
+                    blank(i, j + 2)
+                    i = j + 2
+                    continue
+            else:
+                j = md.find("$", i + 1)
+                if j > 0 and "\n" not in md[i:j]:
+                    blank(i, j + 1)
+                    i = j + 1
+                    continue
+        i += 1
+    return "".join(out)
+
+
+def extract_greek_ital(art_inner, md, greek):
+    """md 侧 `*φ*` 斜体字形的逐次宏名账：{码位: [宏名或 None, …]}（md 序）。
+
+    名字取自 H0 中**锚词相同**的那次出现（H0 侧同名同锚），与数学段出现数
+    脱钩——正文层多余段（md_extra）不再让后续位次整体漂移。None 表示该次
+    没有可靠锚，R 侧退回旧口径（分字形序）。"""
+    if not md or not greek:
+        return None
+    uni = getattr(__import__("yuanwen"), "GREEK_UNI", {})
+    # 先定 md 侧需要定名的斜体（只有账内字形才要），再按需扫 H0——全扫会为
+    # 每件数千次希腊出现算锚，账重生成明显变慢
+    stars = []
+    for m in ITAL_STAR_RE.finditer(_mask_md(md)):
+        glyph = m.group(1)
+        cp = uni.get(glyph) or glyph
+        if cp in greek:
+            stars.append((m.start(), cp))
+    if not stars:
+        return None
+    need = {cp for _, cp in stars}
+    name2cp = dict(uni)
+    rng = "[" + chr(0x370) + "-" + chr(0x3ff) + "]"
+    pat = re.compile(r"\\([A-Za-z]+)"
+                     r"|<(em|i)>\s*(?:&([A-Za-z]+);|(" + rng + r"))\s*</\2>")
+    occ = {}
+    for m in pat.finditer(art_inner):
+        if m.group(1):
+            cp = name2cp.get(m.group(1))
+            if not cp:
+                continue
+            nm = m.group(1)
+        else:
+            cp = name2cp.get(m.group(3)) if m.group(3) else m.group(4)
+            if cp is None:
+                continue
+            nm = "em"
+        if cp not in need:
+            continue
+        occ.setdefault(cp, []).append(
+            [nm, ital_anchor(art_inner, m.start())])
+    out = {}
+    used = {}
+    for pos, cp in stars:
+        lst = out.setdefault(cp, [])
+        cands = occ.get(cp) or []
+        taken = used.setdefault(cp, set())
+        key = ital_anchor(md, pos)
+        picked = None
+        if key:
+            # 同名锚可能重复（同段两次 `*φ*`）：取**最小未用**位次，天然保序；
+            # 不能用“游标只进不退”——md 侧正文层段序与 H0 有出入时游标会
+            # 越过尚未对上的位次（recursive-functions 判例：后两处漏配）
+            for idx, o in enumerate(cands):
+                if idx not in taken and o[1] == key:
+                    picked = o[0]
+                    taken.add(idx)
+                    break
+        lst.append(picked)
+    out = {k: v for k, v in out.items() if v}
+    return out or None
 
 
 def extract(art_inner, md=None):
@@ -938,6 +1145,8 @@ def extract(art_inner, md=None):
         led["bib_sections"] = secs
         led["bib_groups"] = [x[1] for x in secs]
         if md:
+            _tails_bib = [h[3] for h in (led.get("bib_heads") or [])
+                          if len(h) > 3]
             defs = [m.group(2).strip() for m in MD_DEF_RE.finditer(md)
                     if not _is_note_key(m.group(1))]
             got = extract_bib_indices(art_inner, defs)
@@ -947,7 +1156,7 @@ def extract(art_inner, md=None):
                     led["bib_indices"] = idx
                 if ids:
                     led["bib_ids"] = {str(k): v for k, v in ids.items()}
-            seq, dls = extract_bib_seq(art_inner, md)
+            seq, dls = extract_bib_seq(art_inner, md, _tails_bib)
             if seq is not None:
                 led["bib_seq"] = seq
             if dls:
@@ -1027,9 +1236,12 @@ def extract(art_inner, md=None):
     tb = extract_tables(art_inner)
     if tb:
         led["tables"] = tb
-    gk = extract_greek(art_inner)
+    gk = extract_greek(art_inner, md)
     if gk:
         led["greek"] = gk
+    gi = extract_greek_ital(art_inner, md, gk)
+    if gi:
+        led["greek_ital"] = gi
     led["entities"] = extract_entities(art_inner)
     _tails = [h[3] for h in led.get("bib_heads") or [] if len(h) > 3]
     led["links"] = extract_links(art_inner, _tails)

@@ -542,3 +542,22 @@ B3.1 回归：不动点 **1,435/1,873（76.6%）**（此前 1,240，＋195，无
 **修法**：`_star_parse` 闭星侧放宽为“单个尾随空白可闭”，并在 `_close` 把尾随空白移到强调外（开星侧仍严格要求紧跟非空白，防乘号星误开）。
 **实测**：候选面＝H0 `<em>…空白</em>` 的 273 件，全量定点重建 **265 pool／8 gap 与原状态逐件相同（仅 aristotle-text 转池、0 失池）**；其余 272 件池文件逐字节未变。全量双通道 **pool 1,810→1,811（96.7%）／gap 63→62／stale 0**，池占页 **49.66%**，judge 与建池同值；delta＝gap→pool 1、**失池 0**；**B3.1 1,662 不变（0 转红 0 转绿）**；check_all 17 项全绿。缺口分族 star 2→1。
 **教训**：①开/闭星判据可以不对称——开星严格、闭星容单个尾随空白（并外移空白），既收上游形态又不放过乘号星；②候选面用 H0 真实形态（`<em>…&#8239;</em>`）圈定，比在 md 侧猜星形可靠；③273 件定点重建后“272 件池文件零字节变化”是规则无附作用的强证据。
+
+## 2026-11-25 第四十三批：书目结构与槽位九修、斜体希腊锚账（池 1,811→1,851、gap 62→22、B3.1 1,662→1,663）
+
+**缺陷**（同批九类，根都在“账/规则与 H0 真实形态不符”）：
+①**书目嵌套列表双计**：`_tree_nodes` 的平衡跨度已把内层 `<ul>` 收进外层节点 kids，逐子表重扫时又走一遍——三层嵌套（li→ul→ul）同一子表挂两遍，条目级联错位一位（habermas 判例：Works 节 125 条 vs H0 124）。
+②**空壳 li 与父条引子行**：H0 双层 `<ul>` 包装里有“有子表、本层无文字”的空壳 li（confucian-gender），旧兜底给它占位 → 整条 ul 顶后一位、尾段条目溢进下一节；但一刀切“空壳不占位”又把带引子行的父条（pomponazzi `Aristotle,`）文字丢掉。
+③**块切分并块**：`split_blocks` 按深度计数切分，行首开块标签会被并进上一块（meinong：`</p>\n<h2>Bibliography</h2>\n<p>…` 三块并一），区域路由只见 h2、首段被当标题附件吞掉。
+④**区题与悬置段**：全 h3 体例词条（logic-connexive，通体无 h2）首 h3 未入 main，正文全卷进 preamble、TOC 被挤到正文之后；致谢题带行内强调（suhrawardi `### **Acknowledgement**`）时匹配失败、整节并进 related 区；H0 的 toc div 与 main div 之间悬着“节头＋首段”（domination）由 `toc_block` 原样带上，main 侧不跳即双发。
+⑤**反引号与围栏**：H0 全库无 `<code>/<tt>/<kbd>/<samp>`，md 反引号是原文正文字符（pm-notation 57 处、newton-stm `Tertium Qid`）；旧实现把反引号配对成 `<code>`，孤反引号还隔空吞掉中间的数学与强调；围栏码块（C 的 pre→fence）未还原为 `<pre>`（digital-art／linguistics）。
+⑥**`&#124;` 双转义**：C 对表格单元内 `|` 转义为 `&#124;`，整体实体编码把它的 `&` 编成 `&amp;`（pm-notation：数学内 `\{⟨x,y⟩|Rxy\}`）；H0 侧恒为裸管道。
+⑦**哨兵撞车**：`encode_outside_math` 的保留段哨兵 chr(3) 与图片占位同码，img 被当数学文本替换（frege-logic／dynamic-epistemic）。
+⑧**书目区取域与散文序**：块间与区尾裸排文字未自成 p 步（locke／philosophy-religion）；`_bib_region` 未收 div 闭后到下一 `<div` 的条目块、未吸收兄弟 `biblio*` div（rights-group／spacetime-singularities）；md 列表行混进散文序（logic-propositional）；`norm_md` 未把 `[^note-4]` 映成 `[4]`（meinong：pd 定位全错）；题后散字去重键按原文建（boethius-dacia 尾字为 `See <a href="#Work">section 2</a>, above.`，不剥标签则 p 步不跳、题后文字发两遍）。
+⑨**斜体希腊位次**：recursive-functions 的 φ/varphi 互换**不是计数不等**（旧口径 339、新口径 339，H0 336），而是 md 正文层有 H0 没有的段（脚注定义里 3 处 `*φ*`）：装配层丢段，但 `_plan_ital_greek` 已按全文档序占位，此后每次 φ 的名字整体漂移；上一轮为此加的“计数对齐筛除”建立在错误假设上，唯一效果是把 boethius-dacia／logic-temporal 的必需账撤掉造成失池。
+
+**修法**：①内层 ul 消费位守卫（`m.start() < pos` 跳过）；②父条引子行以 `t` 位标记，只有 `t` 缺失且无文字的节点免占位（`<li>` 外壳照发）；③行首开块标签在 depth≤0 时先收上一块（depth 计入 `pre`）；④全 h3 首个入 main、致谢匹配前剥 `strong/em/b`、`toc_block` 的后置块经 `_norm_txt` 在 main 头部逐块跳过（只吃头部，中段同文不跳）；⑤反引号一律字面化，围栏在装配层收 `<pre>\n`＋非空行实体化＋`&#10;`；⑥`&#124;` 先占位（哨兵 chr(0x1b)）后编码、末尾还原裸 `|`；⑦保留段哨兵换 chr(4)；⑧账侧四处取域修正＋`norm_html` 建键；⑨**新增按位斜体希腊账 `greek_ital`**：`article_ledger.extract_greek_ital()` 用 `ital_anchor()`（字形前 5 个可见词，剥数学/代码/标签/实体，两侧同式）把 md 的 `*φ*` 对回 H0 同一次出现、取该次真名，同名锚取最小未用位次保序，对不上记 `None` 退回位次口径；`_plan_ital_greek` 增参优先消费，同时撤销计数筛除与 `_expect` 守卫。另：`page_assemble.build_pool` 补“无 en 包”守卫（croce-aesthetics 判例：返回 None 曾令全量计数崩溃）。
+
+**实测**：全量双通道 **pool 1,811→1,851（98.8%）／gap 62→22／stale 0**，池占页 **49.66%→51.26%**，judge 与建池逐件同值；delta＝gap→pool 41、**失池 1（croce-aesthetics：本克隆无 en 包，环境缺件，池文件不动）**；B3.1 **1,662→1,663（+2 机制归因：linguistics、qualia-inverted）0 转红**（croce-aesthetics ok→缺件、他线新增 `croce` 条目 fail，净 −1；1,662−1+2=1,663 对齐）；check_all 17 项全绿；`assembly-trial.json` 随批刷新为全量结果（此前留在 16 件试金石形态）。缺口 22 分族 **md_extra 19／h0_extra 2／error 1**；md_extra 子族（`fam_md_extra2.py` 复算）**emph 5／link 4／math 3／table 3／dl 2／bq 2**，text 族清零。
+
+**教训**：①“同一元素被两条扫描路各消费一次”是结构账最隐蔽的错位源——跨度的平衡扫描与逐子表扫描必须共用消费位；②“空壳”与“有子表但本层无字”是两种形态，占位判据要落到 `t` 这类显式标记，不能靠“有没有文字”推断；③**账的位次不等于出现数**：md 可以有 H0 没有的段（正文层多余），任何“第 k 次出现取账第 k 项”的取法在被丢段之后必整体漂移，正确做法是用内容锚定而不是数数；④失败补丁要回滚——“计数对齐筛除”是错误假设驱动的补丁（实测两口径同为 339），它的唯一作用是撤掉必需账，用局部筛除掩盖位次模型错误正是不该做的（ADR-0039 同缺口二发升级防线的反例）；⑤“H0 有、md 无”或“H0 无、md 有”的边角文字，去重键必须按**可见文**（剥标签解实体）建，按原文建键在含链接的尾字上必失配。

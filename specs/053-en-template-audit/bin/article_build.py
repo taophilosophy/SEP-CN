@@ -39,16 +39,27 @@ ACK_HEAD_RE = re.compile(r"^Acknowl")
 
 
 def split_blocks(art):
-    """R 的平铺输出 → 块列表（按顶层标签配平切分）。"""
+    """R 的平铺输出 → 块列表（按顶层标签配平切分）。
+
+    行首出现新块的开标签（`<h2>`/`<p>`/`<ul>` 等）时先收上一块——
+    词条 HTML 的块边界恒在行首，而深度计数法会因跨行标签把相邻块并成
+    一块（meinong 判例：`</p>\n<h2>Bibliography</h2>\n<p>…` 三块并一，
+    区域路由只见 h2、首段被当标题附件吞掉）。"""
     lines = art.split("\n")
     blocks, cur, depth = [], [], 0
     for ln in lines:
+        s = ln.lstrip()
+        opens = re.match(r"<(?:p|ul|ol|blockquote|table|div|figure|dl|pre|"
+                         r"h[1-6])\b", s)
+        if cur and opens and depth <= 0:
+            blocks.append("\n".join(cur))
+            cur = []
         if not cur and not ln.strip():
             continue
         cur.append(ln)
         depth += sum(ln.count("<" + t) - ln.count("</" + t)
                      for t in ("p", "ul", "ol", "blockquote", "table",
-                               "div", "figure", "dl"))
+                               "div", "figure", "dl", "pre"))
         if depth <= 0 and cur:
             depth = 0
             blocks.append("\n".join(cur))
@@ -313,11 +324,22 @@ def build(md_article_html, ledger):
                        "related-entries": rel}[REGION_HEADS[txt]]
                 cur.append(b)
                 continue
-            if lv in (2, 3) and ACK_HEAD_RE.match(txt):
+            if lv in (2, 3) and ACK_HEAD_RE.match(
+                    re.sub(r"</?(?:strong|em|b)>", "", txt)):
+                # 致谢题允许行内强调包裹（suhrawardi 判例：md
+                # `### **Acknowledgement**` → R 发 <strong>；不剥则匹配
+                # 失败、整节被并进 related-entries 区丢弃）
                 cur = ack
                 cur.append(b)
                 continue
             if lv == 2:
+                cur = main
+                cur.append(b)
+                continue
+            if lv == 3 and cur is preamble:
+                # 全 h3 体例的词条（logic-connexive 判例：H0 主节即 h3、
+                # 通体无 h2）：首个 h3 即入 main——否则正文全部卷进
+                # preamble、TOC 块被挤到正文之后（unaligned text units）
                 cur = main
                 cur.append(b)
                 continue
@@ -365,14 +387,25 @@ def build(md_article_html, ledger):
             toc.append('\t<li><a href="#%s">%s</a></li>' % (toc_href(hid), txt))
     for hid, txt in TOC_FIXED:
         toc.append('\t<li><a href="#%s">%s</a></li>' % (toc_href(hid), txt))
+    _skip_norms = []
     if (ledger or {}).get("toc_block"):
         # 导航区逐字（题与锚由正文派生；另设一致性核对，见 article_ledger 注释）
         out.append("\n" + ledger["toc_block"])
+        # H0 的 toc div 与 main-text div 之间可能悬着主节头＋首段
+        # （domination 判例：H0 的 main-text div 晚到节 1 首段之后才开，
+        # toc_block 按 H0 原样把这段带上）——main 侧须跳过同文块，
+        # 否则节头＋首段双发
+        _mtail = re.search(r"</div>\s*(.*)$", ledger["toc_block"], re.S)
+        if _mtail and _mtail.group(1).strip():
+            _skip_norms = [_norm_txt(x) for x in re.findall(
+                r"<(?:h[1-6]|p|blockquote|ul|ol|table|dl)[^>]*>.*?"
+                r"</(?:h[1-6]|p|blockquote|ul|ol|table|dl)>",
+                _mtail.group(1), re.S)]
     else:
         out.append('\n<div id="toc"><!--Entry Contents-->\n<ul>\n%s\n</ul>\n'
                    '<!--Entry Contents-->\n\n<hr /></div>\n' % "\n".join(toc))
     # main-text
-    mt = _render_main(main, hid_map)
+    mt = _render_main(main, hid_map, _skip_norms)
     out.append('<div id="main-text">\n\n%s\n</div>\n' % (mt or ""))
     # 尾部区按 md 标题次序发（md 序＝H0 序，C 按文档序落块）：常序 bib→acad→oth→rel；
     # civil-disobedience 的致谢在书目之后、学术工具之前（H0 实测），固定次序会错位。
@@ -410,9 +443,20 @@ def build(md_article_html, ledger):
     return wrap_article("".join(out), (ledger or {}).get("wrap_width"))
 
 
-def _render_main(main, hid_map):
+def _norm_txt(s):
+    """块 → 归一化可见文（剥标签折空白），跨侧同文块比对用。"""
+    return re.sub(r"\s+", "", re.sub(r"<[^>]*>", "", s))
+
+
+def _render_main(main, hid_map, skip_norms=None):
+    skip = list(skip_norms or [])
+    skipping = bool(skip)   # 只允许吃头部：同文块出现在中段不跳
     chunks = []
     for b in main:
+        if skipping and skip and _norm_txt(b) == skip[0]:
+            skip.pop(0)
+            continue
+        skipping = False
         m = head_of(b)
         if m:
             lv = int(m.group(1))
@@ -460,6 +504,11 @@ def _flat_li(html):
                 sub, nxt = inner[m.end():], len(inner)
             kids, rest, p = [], [], 0
             for mu in re.finditer(r"<ul([^>]*)>", sub):
+                if mu.start() < p:
+                    # 已随外层 ul 平衡跨度入 kids 的内层 ul 不重扫：三层嵌套
+                    # （li→ul→ul）时旧实现把同一子表挂两遍，条目双计、后续
+                    # 索引整体错位（habermas 判例：Works 节 125 条 vs H0 124）
+                    continue
                 tu = _match_close(sub, mu.end(), r"<ul[^>]*>", r"</ul>")
                 if not tu:
                     continue
@@ -559,6 +608,19 @@ def _render_bib(bib, hid_map, ledger):
         for nd in nodes:
             j = nd.get("i")
             if not isinstance(j, int) or j in used_i:
+                if nd.get("c") and not nd.get("t"):
+                    # 有子表、且本层无文字的空壳 li（H0 双层 ul 包装，
+                    # confucian-gender 判例）：本无条目内容，禁兜底占位——
+                    # 占位会把整条 ul 的条目顶后一位、尾段条目溢进下一节。
+                    # 父条目带引子行（`t`=1，pomponazzi `Aristotle,`）不在此列，
+                    # 仍须兜底占位，否则引子文字丢失
+                    content = ""
+                    lid = None
+                    head = "<li>"
+                    head += ("\n\n<ul %s>\n\n%s\n</ul>\n\n</li>"
+                             % (nd.get("u") or "", nodes_html(nd["c"])))
+                    out.append(head)
+                    continue
                 j = _next_free(cursor[0] + 1)
             if j >= len(items) or j in used_i:
                 # 无可用条目：跳过空节点（不再输出空 li，abelard 多 8 条判例）
@@ -612,6 +674,11 @@ def _render_bib(bib, hid_map, ledger):
                 # 再发一遍就成了重复标题；其文字已在正文出现，div 边界差交池
                 if (bh and _skip_h is not None and _pos <= _skip_h) or (
                         not bh and lv == 2 and name == "Bibliography"):
+                    continue
+                if name and re.sub(r"<[^>]*>", "", name).strip() in REGION_HEADS:
+                    # 后续独立区题被 H0 的 bibliograph div 裹进来
+                    # （marxism-analytical 判例：div 内 `Academic Tools`）：
+                    # 该区由自己的分区渲染（含表），此处跳过，免双重
                     continue
                 if lv and name:
                     # 题后散字（账第 4 位，H0 原文片段）原样接在题后，替代
@@ -725,6 +792,22 @@ def _render_acad(acad, hid_map, ledger):
         else:
             out.append('<tr>\n<td></td>\n<td>%s</td>\n</tr>\n' % cell2)
     out.append("</table>\n</blockquote>\n</div>\n")
+    # acad 区余块原样跟随（levinas 判例：H0 书目 A./B. 分节被 C 按文档序排在
+    # 学术工具表之后，H0 里位于 acad div 之外、OIR 之前；旧实现整块丢弃）。
+    # 标题 id 形态交补集池（'m' 段）补。
+    _tb = next((b for b in acad[1:] if "<tr" in b), None)
+    _head_name = head_of(head).group(2).strip()
+    for b in acad[1:]:
+        if b is _tb or "<tr" in b:
+            continue
+        m = head_of(b)
+        if m and re.sub(r"<[^>]*>", "", m.group(2)).strip() == re.sub(
+                r"<[^>]*>", "", _head_name).strip():
+            # 区内重复的区标题块（marxism-analytical 判例：H0 的 bibliograph
+            # 尾部另有一段 `Academic Tools` 题，路由已由 acad[0] 发过一次；
+            # H0 的题常带 `<a name=…>` 包裹，比对须剥标签）
+            continue
+        out.append("\n%s\n" % b)
     return "".join(out)
 
 
@@ -775,6 +858,25 @@ def _render_rel(rel, hid_map, ledger):
             para = " |\n" + (" " + para if not para.startswith(" ") else para)
     else:
         para = inner.strip()
-    return '\n<div id="related-entries">\n\n%s\n\n<p>\n%s\n\n</p>\n</div>\n' % (
+    out = '\n<div id="related-entries">\n\n%s\n\n<p>\n%s\n\n</p>\n</div>\n' % (
         heading_tag(2, hid_map.get(id(head)) or "Rel",
                     head_of(head).group(2).strip()), para)
+    # rel 区余块原样跟随（chinese-translate-interpret 判例：H0 在 rel div
+    # 之后、acknowledgments div 之前悬一枚上游杂散反引号 `<p>`</p>`；旧实现
+    # 丢弃）。位置随文档序落在 rel 与下一区之间。
+    # 只发「不在已渲染条目文内」的块：H0 的 related 区可被拆成多段 `<p>`
+    # （feminist-science 判例），逐块跟随会把条目文字重发一遍。
+    def _rel_flat(x):
+        # 注释（死链形 `<!--<a …>-->文字<!--</a>-->`）、分隔竖线、空白与实体
+        # 形态不参与比对：H0 的 related 区可另有一份无竖线副本
+        # （feminist-science 判例），账侧文字经实体编码、R 侧原文两侧形态
+        # 不同（gregory-rimini／boethius-dacia 判例）
+        x = re.sub(r"<!--.*?-->", "", x, flags=re.S)
+        x = re.sub(r"&[A-Za-z]+;|&#\d+;", "", re.sub(r"<[^>]*>", "", x))
+        return re.sub(r"[\s|]+", "", x)
+    _para_flat = _rel_flat(para)
+    for b in rel[1:]:
+        if _rel_flat(b) and _rel_flat(b) in _para_flat:
+            continue
+        out += "\n%s\n" % b
+    return out
