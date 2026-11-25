@@ -24,6 +24,7 @@ sys.stdout.reconfigure(encoding='utf-8')
 SRC = 'specs/013-person-attribution/results/gnd-candidates-2026-11-26.tsv'
 OUT = 'specs/013-person-attribution/results/gnd-triage-2026-11-26.tsv'
 LEDGER = 'specs/013-person-attribution/results/gnd-auto-ledger-2026-11-26.tsv'
+SHORT = 'specs/013-person-attribution/results/gnd-review-short-2026-11-26.tsv'
 
 DE2ZH = {
     'Deutschland': '德国', 'Frankreich': '法国', 'USA': '美国', 'Großbritannien': '英国',
@@ -223,8 +224,35 @@ def triage_one(key, cand_text):
     return 'auto', reason, detail
 
 
+def best_brief(key, cand_text):
+    """供人工扫读的紧凑候选：先按姓名过滤（姓须出现），再优先「有年份且职业为学界」。"""
+    cands = parse_candidates(cand_text)
+    if not cands:
+        return None
+    last, _firsts, _single = name_tokens(key)
+    cands = [kv for kv in cands if last in fold(kv.get('preferredName'))] or []
+    if not cands:
+        return None
+    best = None
+    for kv in cands:
+        occ = kv.get('professionOrOccupation') or ''
+        by = parse_year(kv.get('dateOfBirth'))
+        dy = parse_year(kv.get('dateOfDeath'))
+        score = (bool(by or dy), bool(SCHOLAR_RE.search(occ)))
+        if best is None or score > best[0]:
+            best = (score, kv)
+    kv = best[1]
+    b = (kv.get('dateOfBirth') or '')[:4]
+    d = (kv.get('dateOfDeath') or '')[:4]
+    years = ('%s–%s' % (b, d)) if (b and d) else (b or d)
+    return (kv.get('preferredName') or '', years,
+            kv.get('placeOfBirth') or '', (kv.get('professionOrOccupation') or '')[:40],
+            kv.get('gndIdentifier') or '')
+
+
 def main():
     rows, auto, review, none_cnt = [], [], [], 0
+    brief_rows = []
     for line in io.open(SRC, encoding='utf-8'):
         c = line.rstrip('\n').split('\t')
         if len(c) < 4 or c[0] == '键':
@@ -238,6 +266,8 @@ def main():
         else:
             none_cnt += 1
         rows.append((key, v, reason, detail))
+        b = best_brief(key, cand_text)
+        brief_rows.append((key, v, b))
     with io.open(OUT, 'w', encoding='utf-8', newline='\n') as f:
         f.write('键\tverdict\t理由\t候选\n')
         for r in rows:
@@ -249,7 +279,15 @@ def main():
             f.write('%s\t%s\t%s\tGND %s｜%s\t\t%s\n'
                     % (key, kv['coa'], kv['birth'] + '–' + kv['death'], kv['gnd'],
                        kv['name'], reason))
+    with io.open(SHORT, 'w', encoding='utf-8', newline='\n') as f:
+        f.write('键\t状态\t候选名\t生卒\t出生地\t职业\tGND\n')
+        for key, v, b in brief_rows:
+            if b:
+                f.write('%s\t%s\t%s\t%s\t%s\t%s\t%s\n' % ((key, v) + b))
+            else:
+                f.write('%s\t%s\t—\t\t\t\t\n' % (key, v))
     print('分诊 %d 行：auto %d、review %d、none %d' % (len(rows), len(auto), len(review), none_cnt))
+    print('→', SHORT)
     print('→', OUT)
     print('→', LEDGER)
 
