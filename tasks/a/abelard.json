@@ -2,7 +2,7 @@
   "slug": "abelard",
   "kind": "retranslate",
   "zh_doc": "a/abelard.md",
-  "state": "rv-01_checked",
+  "state": "cleared",
   "steps": [
     {
       "step": "s1",
@@ -80,6 +80,21 @@
       "actor": "P8-revert-20261117",
       "at": "2026-11-17T01:12:18Z",
       "evidence": "回退到 s2.4_termchecked；依据：中文体例归一全量回退（specs/039 P8，ADR-0063）：s2.4 三轴硬门上线后在途件一律回退重走；机检凭证 results/revert-ledger-20261117.json"
+    },
+    {
+      "step": "reopen",
+      "status": "ok",
+      "actor": "wipe-2026-11-25",
+      "at": "2026-11-25T00:57:44Z",
+      "evidence": "全库置空重译（用户 2026-11-25 裁定）：既有中文译文全部置空仅留 H1、全部进度归零；逐字依据见本会话指令与 qian-yan 日志同日条目",
+      "bypass": "upstream-sync（ADR-0051 R3：在途吸收上游同步）"
+    },
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-25T00:57:44Z",
+      "evidence": "baseline gate: hash_ok"
     }
   ],
   "blockers": [],

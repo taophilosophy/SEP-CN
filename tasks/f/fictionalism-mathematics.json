@@ -2,8 +2,16 @@
   "slug": "fictionalism-mathematics",
   "kind": "retranslate",
   "zh_doc": "f/fictionalism-mathematics.md",
-  "state": "pending",
-  "steps": [],
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-25T00:58:56Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-11-01T10:42:10Z",
   "version_pin": {

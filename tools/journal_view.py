@@ -51,7 +51,12 @@ def stage_done(path):
 
     节点名经 naming.json 归一到 identifier（ADR-0080）。
     """
-    from tools import naming_lib
+    try:
+        from tools import naming_lib, epoch_lib
+    except ImportError:  # 直连脚本运行（无包路径）
+        import naming_lib
+        import epoch_lib
+    ep = epoch_lib.start()
     done = set()
     try:
         with open(path, encoding="utf-8") as f:
@@ -60,7 +65,8 @@ def stage_done(path):
                 if not line:
                     continue
                 ev = json.loads(line)
-                if ev.get("type") == "pass" and ev.get("node"):
+                if ev.get("type") == "pass" and ev.get("node") \
+                        and epoch_lib.in_epoch(ev, ep):
                     done.add(naming_lib.try_identifier(ev["node"]) or ev["node"])
     except (json.JSONDecodeError, OSError):
         pass

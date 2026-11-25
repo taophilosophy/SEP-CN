@@ -2,8 +2,16 @@
   "slug": "reasons-internal-external",
   "kind": "retranslate",
   "zh_doc": "r/reasons-internal-external.md",
-  "state": "pending",
-  "steps": [],
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-25T00:59:29Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-11-08T18:26:33Z",
   "version_pin": {

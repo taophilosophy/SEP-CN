@@ -49,7 +49,10 @@ TRANSLATED = {"tr-02_checked", "tr-03_checked", "tr-04_checked", "rv-01_checked"
 
 
 def task_state(path):
-    from tools import naming_lib
+    try:
+        from tools import naming_lib
+    except ImportError:  # 直连脚本运行（无包路径）
+        import naming_lib
     root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     letter = os.path.basename(os.path.dirname(path))
     slug = os.path.splitext(os.path.basename(path))[0]

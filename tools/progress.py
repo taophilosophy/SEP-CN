@@ -137,7 +137,12 @@ def load_journal(journal_dir=JOURNAL):
     节点名经 naming.json 归一到 identifier（ADR-0080；历史事件不改写）。
     journal_dir 可注入供单元测试隔离。
     """
-    from tools import naming_lib
+    try:
+        from tools import naming_lib, epoch_lib
+    except ImportError:  # 直连脚本运行（无包路径）
+        import naming_lib
+        import epoch_lib
+    ep = epoch_lib.start()
     passed, node_count = {}, Counter()
     if not os.path.isdir(journal_dir):
         return passed, node_count
@@ -155,7 +160,8 @@ def load_journal(journal_dir=JOURNAL):
                         if not line:
                             continue
                         ev = json.loads(line)
-                        if ev.get("type") == "pass" and ev.get("node"):
+                        if ev.get("type") == "pass" and ev.get("node") \
+                                and epoch_lib.in_epoch(ev, ep):
                             done.add(naming_lib.try_identifier(ev["node"]) or ev["node"])
             except (json.JSONDecodeError, OSError):
                 continue
@@ -326,8 +332,8 @@ def main():
         '|全库有正文（已译出内容）|%d|' % skel_stat['body'],
         '|**账实不符（cleared 有正文／有正文零过程记录）**|**%s**|'
         % (len(inv) if inv is not None else '判据未跑'),
-        '|核心段完成（draft..R3 七节点）|%d|' % len(core_done),
-        '|强制集完成（s0/s2.4/global/R1/R2/R3）|%d|' % mand_ok,
+        '|核心段完成（tr-02..sg-03 七节点）|%d|' % len(core_done),
+        '|强制集完成（ex-04/rv-01/rv-02/rv-03–08/sg-01–03）|%d|' % mand_ok,
         '|其中：依赖回补重算（specs/052）|%d|' % mand_backfill,
         '|完整饱和（16 节点全过）|%d|' % saturate,
         '|在途（已开工未走完核心段）|%d|' % len(wip_slugs),

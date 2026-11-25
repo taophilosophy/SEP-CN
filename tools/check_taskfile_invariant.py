@@ -75,7 +75,15 @@ def iter_tasks(root=ROOT):
 
 
 def journal_passed(slug, root=ROOT):
-    """该词条 journal 里的 pass 节点集合；无文件返回 None（账外）。"""
+    """该词条 journal 里当前纪元的 pass 节点集合；无文件返回 None（账外）。
+
+    纪元过滤（ADR-0081）：全库置空前的 pass 属历史事实，不再证明现行稿件的过程完整。
+    """
+    try:
+        from tools import epoch_lib
+    except ImportError:  # 直连脚本运行（无包路径）
+        import epoch_lib
+    ep = epoch_lib.start()
     letter = slug[0] if slug and slug[0].isalnum() else "0"
     p = os.path.join(root, "journal", letter, slug + ".ndjson")
     if not os.path.exists(p):
@@ -90,7 +98,7 @@ def journal_passed(slug, root=ROOT):
                 e = json.loads(line)
             except ValueError:
                 continue
-            if e.get("type") == "pass" and e.get("node"):
+            if e.get("type") == "pass" and e.get("node") and epoch_lib.in_epoch(e, ep):
                 done.add(e["node"])
     return done
 

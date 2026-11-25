@@ -126,7 +126,10 @@ def eval_node(slug, zh, node):
 
 def _node_of(ev):
     """事件节点名归一到 identifier（历史事件为旧名，ADR-0080）。"""
-    from tools import naming_lib
+    try:
+        from tools import naming_lib
+    except ImportError:  # 直连脚本运行（无包路径）
+        import naming_lib
     return naming_lib.try_identifier(ev.get("node")) or ev.get("node")
 
 

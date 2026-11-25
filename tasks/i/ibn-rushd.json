@@ -2,8 +2,16 @@
   "slug": "ibn-rushd",
   "kind": "retranslate",
   "zh_doc": "i/ibn-rushd.md",
-  "state": "pending",
-  "steps": [],
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-25T00:59:06Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-11-01T10:29:19Z",
   "version_pin": {

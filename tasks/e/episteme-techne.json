@@ -2,8 +2,16 @@
   "slug": "episteme-techne",
   "kind": "retranslate",
   "zh_doc": "e/episteme-techne.md",
-  "state": "pending",
-  "steps": [],
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-25T00:58:46Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-11-01T11:02:33Z",
   "version_pin": {

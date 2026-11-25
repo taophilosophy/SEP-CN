@@ -322,3 +322,26 @@
 * 复核矩阵：B3.1 全量复扫 1,623＝基线逐件一致；B3.2 全量复扫初扫爆 463 件 stale——取证排除非确定性与并行干扰，定位为“池建档停在第九、十批，后续发射层改动改变未重建件页面字节”，抽 5 件重建全部回池，定性池过期非规则回归。
 * 修法：全量重建池＋全量 judge 复扫收官——**pool 1,696（90.5%）／gap 177／stale 0／池占页 45.43%，失池 0**；另 4 件拼接误记 gap 实为 pool（记录双向陈旧）。抽样 25 件独立验证全过；I2/I3 0 issue；check_all 17 绿；账/layout --check 过。
 * 教训：拼接的 stale 0 是旧判继承非当前复测；全局数字必须全量复扫为准，收工口径改为“全量复扫收官或如实标注未复扫面”。
+
+## 2026-11-25 specs/060 六轴工序试金石名单固定（长度与格式复杂度全库扫描）
+
+* **扫描**：`bin/entry_scale_scan.py` → `results/entry-scale-scan.json`（1,881 词条；长度按字符／汉字／正文汉字，复杂度按 14 类构件对数加权）。冠军：长度 `h/habermas`（105,946 字符／37,025 汉字），格式复杂度 `l/logic-preference`（18 公式块＋17 LaTeX 环境＋362 行内公式），构件多样性 `i/imprecise-probabilities`（12/14 类）。
+* **裁定**：用户指令“将以上几篇优先列为试金石条目……将政策固定下来”。§5.4 由抽象三件制改为固定名单：第一梯队 `habermas`／`logic-preference`／`environmental-aesthetics`；第二梯队 `imprecise-probabilities`／`action`／`axiom-choice`／`newton-principia`；第三梯队单项极值观察件 `logic-dynamic`／`japanese-aesthetics`／`kokugaku-school`／`digital-art`。名录增删须用户裁定并在 §5.4 留痕。
+* **计量轴**：原“计量密集件”为预设，全库实测无天然密集件（无歧义单位串最高 14 处，`i/intrinsic-extrinsic`），q5 判据改在第一梯队三件上同验，存量面走 `measure_audit`。
+* **门禁**：check_doc_size OK、check_junk 0 命中、check_quotes 0 违例；check_all 结果见提交前复跑。
+
+## 2026-11-25 节点标识三层落地（ADR-0080）：复核计算否证“100% 重放”
+
+* **批准**：用户“B1/2 复核计算后全部批准”。先计算后落地：`tools/replay_state.py` 对 1,200 条任务严格重放，吻合 803——376 条为回补 pass 不迁移状态（ADR-0075）、16 条 `cleared` 不是事件、3 条缺 pass、2 条无 journal。原评估案的“重放 100%”前提被实测否证，验收改为**映射双档**（迁移后逐条 new==aliases[old]，435 条 0 不符）＋**重放分类不变**（0 漂移）。
+* **落地**：`rules/naming.json`（22 identifier，ex／tr／rv／sg 号段含预留；name 带版本；state 由 identifier 派生）；`pipeline.json` id 全换 identifier，`label` 移出管线（S7 禁命名属性回写）；journal 4,276 事件与 steps 不改写，旧名（`s0`／`s24`／`s25`／`audit`／`S3`／`R1–R3`）作输入别名；`check_stages` 增 S7 六条；`rules/09` 角色号 R1–R4 去代号（原与节点别名撞车）。
+* **迁移**：435 条 tasks.state 改写（s2.4→rv-01 408、drafted→tr-02 16、s0→ex-04 5、s2.5→rv-02 3、r2→sg-02 3），765 条 pending／cleared 不动；报告 `results/state-migration.json`。
+* **门禁**：单测 605 绿（新增 test_naming 12 例）；check_stages 22 项、check_all 17 项全绿。
+
+## 2026-11-25 全库置空重译（ADR-0081）：译文只留 H1、进度归零
+
+* **用户裁定**：“既有中文翻译全部置空，除了 H1。所有进度全部置空。不计成本代价。”
+* **执行**：`tools/wipe_translations.py`（先 3 件试金石）——SUMMARY 1,868 件正文：427 件截为 H1、1,440 件本已仅 H1、1 件缺 H1（tarski-truth）按词条名补回；SUMMARY 外 8 件补充材料同口径置空。1,200 条任务：done 走 `reopen`、在途 `reopen --upstream-sync`、pending `clear`、cleared 有正文截 H1；1 条 clear gate 未过（tarski-truth）按裁定强制置空并留痕；blockers 全解。逐件报告 `results/wipe-2026-11-25.json`。
+* **事实不动**：journal 与 steps 不删不改，仅追加约 1,054 个 rework；`en/`、`yuanwen/`、基线钉、登记册、勘误表原样保留。
+* **纪元**：`rules/epoch.json` 声明 2026-11-25T00:00:00Z 为进度纪元；progress／journal_view／账实不变量只统计纪元后的 pass。PROGRESS 重算：核心段 0、在途 0、强制集 0、饱和 0、有正文 0、骨架 1,873、账实不符 0。
+* **门禁**：I1/I2 严格档 0 违例；check_stages 22 项、check_all 17 项全绿。
+

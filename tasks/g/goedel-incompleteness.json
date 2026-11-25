@@ -2,8 +2,16 @@
   "slug": "goedel-incompleteness",
   "kind": "retranslate",
   "zh_doc": "g/goedel-incompleteness.md",
-  "state": "pending",
-  "steps": [],
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-25T00:59:01Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-11-01T10:31:34Z",
   "version_pin": {

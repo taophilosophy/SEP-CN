@@ -2,7 +2,7 @@
   "slug": "john-italos",
   "kind": "retranslate",
   "zh_doc": "j/john-italos.md",
-  "state": "sg-02_checked",
+  "state": "cleared",
   "steps": [
     {
       "step": "clear",
@@ -143,6 +143,21 @@
       "actor": "ZC-main-20261125",
       "at": "2026-11-24T19:53:15Z",
       "evidence": "复审（连贯性，逐段回核 en）：①逻辑链——导语设问→1 生平→2 学说五节→3 定罪与身后影响，无跳跃；2.2 两路论证与后文第二路呼应，2.4 末基督教柏拉图主义心理学与 2.3 人类学衔接。②指代——各段'他'均指伊塔洛斯，无歧义。③跨节呼应——1 段两次受审在 3 展开一致；'山羊鹿'仅 1 段出现（源文亦然）。④段落衔接——无孤段。⑤问题单：本周期已落实修正——相关词条 3 处（s1）、prose 8 处（s2）、术语 3 处＋奥利金主义统一（s2.4/s2.5）、h2 点号式与参考文献节形（s2.5/s3），无新增问题。改前改后均见各步 evidence。"
+    },
+    {
+      "step": "reopen",
+      "status": "ok",
+      "actor": "wipe-2026-11-25",
+      "at": "2026-11-25T00:59:14Z",
+      "evidence": "全库置空重译（用户 2026-11-25 裁定）：既有中文译文全部置空仅留 H1、全部进度归零；逐字依据见本会话指令与 qian-yan 日志同日条目",
+      "bypass": "upstream-sync（ADR-0051 R3：在途吸收上游同步）"
+    },
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-25T00:59:14Z",
+      "evidence": "baseline gate: hash_ok"
     }
   ],
   "blockers": [],

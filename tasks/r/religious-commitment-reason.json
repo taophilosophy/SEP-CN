@@ -2,8 +2,16 @@
   "slug": "religious-commitment-reason",
   "kind": "retranslate",
   "zh_doc": "r/religious-commitment-reason.md",
-  "state": "pending",
-  "steps": [],
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-25T00:59:32Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-10-28T05:38:14Z",
   "version_pin": {

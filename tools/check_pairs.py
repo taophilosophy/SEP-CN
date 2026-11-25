@@ -543,7 +543,10 @@ def _task_state(path):
     （别名桩、补充材料子文档）按告警计——它们走到 rv-01/rv-02 时必被 `_style_gate`
     拦，硬门不替人逼未完成件的债，只防已成件的新劣化。
     """
-    from tools import naming_lib
+    try:
+        from tools import naming_lib
+    except ImportError:  # 直连脚本运行（无包路径）
+        import naming_lib
     name = os.path.basename(path)
     slug = name[:-3] if name.endswith(".md") else name
     letter = os.path.basename(os.path.dirname(os.path.abspath(path)))

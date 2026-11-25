@@ -2,8 +2,16 @@
   "slug": "ryle",
   "kind": "retranslate",
   "zh_doc": "r/ryle.md",
-  "state": "pending",
-  "steps": [],
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-25T00:59:35Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-11-08T18:26:54Z",
   "version_pin": {

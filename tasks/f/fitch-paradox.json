@@ -2,8 +2,16 @@
   "slug": "fitch-paradox",
   "kind": "retranslate",
   "zh_doc": "f/fitch-paradox.md",
-  "state": "pending",
-  "steps": [],
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-25T00:58:57Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-11-01T10:42:00Z",
   "version_pin": {

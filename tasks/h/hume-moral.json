@@ -2,7 +2,7 @@
   "slug": "hume-moral",
   "kind": "retranslate",
   "zh_doc": "h/hume-moral.md",
-  "state": "tr-02_checked",
+  "state": "cleared",
   "steps": [
     {
       "step": "clear",
@@ -24,6 +24,21 @@
       "actor": "adopt-2026-11-19",
       "at": "2026-11-18T17:25:53Z",
       "evidence": "回炉起点：正文在库 1671 汉字（来源 641faf13a），自 s1 起重走；状态不再声称已清空"
+    },
+    {
+      "step": "reopen",
+      "status": "ok",
+      "actor": "wipe-2026-11-25",
+      "at": "2026-11-25T00:59:05Z",
+      "evidence": "全库置空重译（用户 2026-11-25 裁定）：既有中文译文全部置空仅留 H1、全部进度归零；逐字依据见本会话指令与 qian-yan 日志同日条目",
+      "bypass": "upstream-sync（ADR-0051 R3：在途吸收上游同步）"
+    },
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-25T00:59:06Z",
+      "evidence": "baseline gate: hash_ok"
     }
   ],
   "blockers": [],

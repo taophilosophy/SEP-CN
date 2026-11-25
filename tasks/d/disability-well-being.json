@@ -2,8 +2,16 @@
   "slug": "disability-well-being",
   "kind": "retranslate",
   "zh_doc": "d/disability-well-being.md",
-  "state": "pending",
-  "steps": [],
+  "state": "cleared",
+  "steps": [
+    {
+      "step": "clear",
+      "status": "ok",
+      "actor": "task_ops",
+      "at": "2026-11-25T00:58:40Z",
+      "evidence": "baseline gate: hash_ok"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-10-28T05:38:03Z",
   "version_pin": {
