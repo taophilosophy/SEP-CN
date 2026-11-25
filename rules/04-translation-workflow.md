@@ -8,6 +8,8 @@
 
 创建任务前先写清：词条范围（主文与补充材料）、目标读者、验收判据（六道全过、`check_academic --strict` 0 硬错误、CI 全绿）与非目标（不改原文、不补内容、不造引文）。方向声明写入任务 JSON 的 `evidence` 首条；含糊先问不猜（[08](08-intent-first.md)）。
 
+项目规格按 ISO 11669:2024 补齐（`project_spec`：用途与受众、语域、术语与体例基准、交付、QA 等级）；缺受众或用途不得进 `tr-02`（人工核，ADR-0083）。
+
 ## 任务类型与状态机
 
 | 类型 | 触发 | 状态序列 |
@@ -21,30 +23,7 @@
 
 节点用**稳定标识符**（identifier，永不变、永不复用）＋可演进名称（name）两层：标识写进 `tasks.steps`、journal 与 `rules/pipeline.json`；名称只用于阅读。旧节点名（`s0`、`S3`、`global` 等）与命令行短名（`s24`、`s25`、`audit`、`r3` 等）保留为**输入别名**，历史 journal 与既有 steps **不改写**，读取时经 `rules/naming.json` 归一。ADR 正文保留各自年代的名字，不作改写。
 
-| identifier | name | 中文 | 旧名 |
-| ---- | ---- | ---- | ---- |
-| ex-01 | extract.fetch | 抓取与版本钉 | P1 |
-| ex-02 | extract.convert | HTML 转 Markdown | P2 |
-| ex-03 | extract.fidelity | 转换保真校验 | P3 |
-| ex-04 | extract.source-audit | 源完整性审计 | s0 |
-| ex-05 | extract.format | 镜像格式闭合 | F1 |
-| tr-01 | translate.preprocess | 译前预处理 | P4 |
-| tr-02 | translate.draft | 初译 | draft |
-| tr-03 | translate.accuracy | 准确性校（一校） | s1 |
-| tr-04 | translate.fluency | 行文通顺校（二校） | s2 |
-| tr-05 | translate.format | 中文段内格式闭合 | F2 |
-| rv-01 | review.terminology | 术语与勘误锁定 | s2.4、s24 |
-| rv-02 | review.consistency | 全局一致性 | global、s2.5、s25、audit |
-| rv-03 | review.cite | 引文锁定 | q1 |
-| rv-04 | review.logic | 逻辑一致性 | q2 |
-| rv-05 | review.grammar | 语法与病句校 | q3 |
-| rv-06 | review.register | 语域 | q4 |
-| rv-07 | review.measure | 计量 | q5 |
-| rv-08 | review.punctuation | 标点 | q6 |
-| rv-09 | review.style | 体例终校 | S3、s3 |
-| sg-01 | signoff.verity | 受众适切性 | R1、r1 |
-| sg-02 | signoff.coherence | 连贯性 | R2、r2 |
-| sg-03 | signoff.acceptance | 交付验收 | R3、r3 |
+完整映射见 `rules/naming.json`（单一事实源）；此处只列状态机用到的十五个：ex-04（源审计）、tr-02（初译）、tr-03（一校）、tr-04（二校）、rv-01（术语与勘误）、rv-02（全局一致性）、rv-03–rv-08（引文／逻辑／语法／语域／计量／标点）、rv-09（体例终校）、sg-01–sg-03（初审／复审／终审）。旧名 s0／draft／s1／s2／s2.4／global／q1–q6／S3／R1–R3 与短名 s24／s25／audit／s3／r1–r3 均为输入别名。
 
 ## 六道与前置环节的含义（经典出版映射，用户 2026-10-26 裁定；rv-01/rv-02 环节 ADR-0040/0043 增补）
 
@@ -99,7 +78,7 @@
 
 * **译文轴（译文↔en）**：逐段回 en 零信任核对内容（漏译、增译、错译），格式按 [02](02-style.md)/[03](03-terminology.md)/[07](07-academic-norms.md)。
 * **全局**：内容——节集合与结构对账、脚注键位总数、书目条数、术语登记册一致性；格式——[02](02-style.md) 体例与题注齐全；**密度统计**——全篇破折号数、量词“一个”频次、AI 高频词共现（分布类缺陷“滥用＝过多而非错”，逐段不可见、全局现形，specs/004 W11）；全局比对检查单按《图书校对工作基本规程》“文字技术整理”十项裁剪（注码与注文相符、图表编序连续、目录与标题一致、插图说明相符等，2026-11-14 标准研读采纳，[ADR-0041](adr/0041-标准对齐基线与偏离登记.md)）。
-* **同源盲区对冲**（specs/004 W11）：审计宜由初译 actor 以外的会话执行；单会话形态以全局密度统计＋冷置回读补偿，并在 evidence 记明（承 [ADR-0020](adr/0020-译文语言质量门禁.md) 复核独立性）。
+* **同源盲区对冲**（specs/004 W11）：rv-02 审计宜由初译 actor 以外的会话执行；单会话形态以全局密度统计＋冷置回读补偿，并在 evidence 记明（承 [ADR-0020](adr/0020-译文语言质量门禁.md) 复核独立性；终审 sg-03 不适用补偿，见 ADR-0084）。
 * **资产核验清单**（正确性、一致性、可识别性）：公式——定界符正确（`check_math_zh` C1–C9）、与源逐条对应、源自带编号者对应保留、盒子标签语译中文，源无编号不补；表格——结构完整、**必有“表 N”编号**（源有题注者“表 N：说明”，无者表前标签行“表 N”），表内文字按 [ADR-0037](adr/0037-表格与图片体例.md)；图片——必有“图 N”、alt 与图注中文、引用基座 `../assets/<slug>/`；引用——引块与书名斜体体例、照录豁免正确；注释——脚注键位配对（marker↔定义）、回链可解析。
 * **机检拦截网**（不作裁判，逐段人审是裁判，specs/018 先例）：`check_math_zh`、`check_tables_images`、`check_math`、`check_academic --strict`、`check_pairs`（配对/方向/数量/引用一致/悬空，ADR-0046）、022 `scan_zh_vs_yuanwen`。`advance --step rv-02` 自动挂 `check_math_zh`（默认档 0 硬错误；strict 升档留 rv-09/sg-03）与 `check_style`（specs/028 O1 体例预检——回退件历史违例潜伏教训）。
 * **语体审阅**（2026-11-14 用户裁定增项）：破折号逐处审阅——只承担真正的插入、转折与解释，句法功能与可读性判定（[02](02-style.md)“破折号节制”）；量词“一个”滥用审阅——仿破折号限制，语义判定不按个数机械计数（[02](02-style.md)““一个”节制”）；AI 腔与套话审阅——增译套话、空洞拔高、模糊归因、公式化排比、高频词密度（[02](02-style.md)“AI 腔与套话”）。结论入 evidence。
@@ -141,8 +120,10 @@
 
 * **MQM Core 映射**：一校对 Accuracy（误译／漏译／增译／未译）；二校对 Fluency 与 Style（语法、欧化、语域）；**rv-01 术语校对 Terminology（登记册一致性）**；三校对 Locale Convention（标点体例、数字与连接号）；初审至终审做 Verity（受众适切性）抽查与整体验收。
 * **问题分级**：校次发现的问题按 Critical（改变原文立场、事实错误、术语反用）、Major（破句、漏译、成语误用）、Minor（措辞、标点）登记在 evidence；Critical 不得带入 done。
+* **译文质量基本／特殊要求**（GB/T 19682-2005，ADR-0084 D3=B）：基本要求（忠实、准确、术语与格式）逐件核，特殊要求记 `project_spec`；不另设第二套分数，评定仍用 CY/T 266＋ISO 5060。
 * **编校差错率**（CY/T 266-2023 图书合格线；ISO 5060:2024 critical 一票否决，ADR-0071）：终审验收以“编校差错数 ÷ 总字数 ≤ 万分之一”为合格硬线；Critical 级差错一票否决，不计入万分之一的容差；差错判定与计错按 CY/T 266-2023（文字/标点/格式三类，格式类见表 3）。
-* **复核独立性**（ISO 17100：校者独立于译者且资质相当）：sg-01–sg-03 至少其一应由初译 actor 以外的会话或人工执行；单会话作业时，终审前须冷置（先做其他任务再回读），并在 evidence 记明。执行形态默认值为 [ADR-0020](adr/0020-译文语言质量门禁.md) 裁定②（混合制：sg-02 交叉、sg-03 冷置重读，评审线接管见 specs/005 §6；其中 sg-03 的执行前提另受下节会话门槛约束，ADR-0054）；sg-01–sg-03 与初译 actor 全同时，`task_ops` 在 sg-03 机检 evidence 须含"冷置"记明。
+* **复核独立性**（ISO 17100／GB/T 19363.1：复核由译者以外的人执行；《图书质量保障体系》第八条：三审任何两个环节不得同一人。ADR-0084 D1=C）：**sg-03 终审 actor 不得等于初译（tr-02）或初审／复审（sg-01／sg-02）的 actor**，机检硬拒，冷置／密度补偿不适用于终审。sg-01／sg-02 允许与初译同人，但须在 evidence 记明冷置或密度补偿（[ADR-0020](adr/0020-译文语言质量门禁.md) 前两审条款保留）；该前两审形态登记为对上述两标准的**部分偏离**（`rules/standards.json` 的 `deviations` V01）。
+* **译后编辑定位**（ISO 18587:2017／GB/T 40036-2021，ADR-0084 D2=B）：LLM 辅助初译按译后编辑管理。任务 JSON 标 `translation_mode: "llm-pe"` 与 `pe: {level, system, disclosure}`；`level` 默认 `full`，`light` 须用户裁定并记 `light_basis`；`tr-02` 机检三字段与 evidence 的“译后编辑／PE”留痕；纯人工标 `human`。
 
 ### 终审会话门槛（sg-03 终审，ADR-0054，2026-11-15 用户裁定）
 
@@ -151,7 +132,7 @@ sg-03 终审**必须由用户显式指定会话进行，否则不进行 sg-03**�
 * **默认停 sg-02_checked**：sg-02 完成即止，任何会话不得自行推进 sg-03_checked；done 相应冻结（done 的前置仍是 sg-03_checked，不因本裁定放宽）。
 * **进入方式**：仅当用户在会话中显式指定该会话执行终审（指明范围——件或批次），该会话方可对指定范围执行 `python tools/task_ops.py advance <slug> --step sg-03 --mandate "<用户指定记录：何时/何范围>"`；`--mandate` 必填（机检硬门，缺失即拒），step 记录留 `mandate` 字段，收工审计核对指定记录与用户当轮发言对得上。
 * **指定不继承**：指定只在被指定的会话与范围内有效，下一次终审须重新指定；工具无法自证会话身份，指定记录的真实性属审计面（与 ADR-0051 `--upstream-sync` 凭证审计同构）。
-* **既有门不变**：复核独立性（上文）与学术挂钩（`check_academic --strict`，[07](07-academic-norms.md)）在 sg-03 照常机检；冷置要求在其执行时照常适用。
+* **既有门不变**：复核独立性（上文）与学术挂钩（`check_academic --strict`，[07](07-academic-norms.md)）在 sg-03 照常机检；终审 actor 分离为硬门（ADR-0084 D1=C），冷置不再替代分离。
 * **不追溯**：已 done 件维持 done；在途件停 sg-02_checked 等待指定，或经 ADR-0043 `revert-state` 受控回退重走复核。
 
 ## 重译纪律（零信任，宪法 I）

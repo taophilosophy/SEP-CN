@@ -166,14 +166,23 @@ def _version_pin(slug):
                         if f["kind"] == "main"), None)}
 
 
-def create(slug, kind, zh_doc=None, change_file=None):
+def create(slug, kind, zh_doc=None, change_file=None, translation_mode="human",
+           pe_level="full", pe_system="", pe_disclosure=""):
     if kind != "retranslate":
         raise UsageError("kind 仅支持 retranslate（update 死序列已删，ADR-0068 W5；"
                          "上游修订走 reopen --upstream-sync，ADR-0051）")
+    if translation_mode not in ("human", "llm-pe"):
+        raise UsageError("translation_mode 仅支持 human／llm-pe（ADR-0084 D2=B）")
+    if translation_mode == "llm-pe" and not str(pe_system or "").strip():
+        raise UsageError("llm-pe 任务须给 --pe-system（引擎与版本，ADR-0084 D2=B）")
     if load_task(slug):
         raise PreconditionError("任务已存在: %s" % slug)
     task = {"slug": slug, "kind": kind, "zh_doc": zh_doc, "state": "pending",
+            "translation_mode": translation_mode,
             "steps": [], "blockers": [], "created_at": utcnow_iso()}
+    if translation_mode == "llm-pe":
+        task["pe"] = {"level": pe_level, "system": pe_system,
+                      "disclosure": pe_disclosure or "tr-02 evidence"}
     # 版本钉一并取：check_academic 对词条绑定任务查 pin、缺失即硬错误（2026-11-04 修潜在陷阱）
     task["version_pin"] = _version_pin(slug)
     if task["zh_doc"] is None:
@@ -238,6 +247,8 @@ def advance(slug, step, actor, evidence, unblock=False, mandate=""):
             "task_ops.py source-audit 补课（specs/036），新件先 advance --step ex-04")
     if step in AXIS_TOOL and task.get("kind") != "glossary-maintenance":
         _axis_gate(step, task.get("zh_doc"))
+    if step == "tr-02" and task.get("kind") != "glossary-maintenance":
+        _pe_gate(task, evidence)  # 译后编辑定位机检（ADR-0084 D2=B）
     if step == "rv-02" and task.get("kind") != "glossary-maintenance":
         # 三轴并挂（ADR-0063 2026-11-17 补记）：受控回退的目标态是
         # rv-01_checked（原 s2.4_termchecked，视为该 checkpoint 已完成），随后 normal
@@ -264,6 +275,29 @@ def _clear_gate(slug):
     ok, report = baseline_audit.gate_passes(slug)
     if not ok:
         raise PreconditionError("基线 gate 未通过: %s" % json.dumps(report, ensure_ascii=False))
+
+
+def _pe_gate(task, evidence):
+    """译后编辑定位机检（ADR-0084 D2=B；标准 ISO 18587:2017／GB/T 40036-2021）。
+
+    llm-pe 任务：PE 级别须为 full（light 须有用户逐件裁定的 light_basis）、引擎与版本、
+    披露位置均非空；tr-02 evidence 须写明“译后编辑”或“PE”。human 任务不设门。
+    """
+    if task.get("translation_mode") != "llm-pe":
+        return
+    pe = task.get("pe") or {}
+    level = str(pe.get("level") or "")
+    if level not in ("full", "light"):
+        raise PreconditionError("llm-pe 任务须有 pe.level=full／light（ADR-0084 D2=B）")
+    if level == "light" and not str(pe.get("light_basis") or "").strip():
+        raise PreconditionError("轻译后编辑须有用户逐件裁定记录（pe.light_basis）")
+    for key, label in (("system", "引擎与版本"), ("disclosure", "披露位置")):
+        if not str(pe.get(key) or "").strip():
+            raise PreconditionError("llm-pe 任务缺 pe.%s（%s）" % (key, label))
+    if "译后编辑" not in (evidence or "") and "PE" not in (evidence or ""):
+        raise PreconditionError(
+            "llm-pe 任务 tr-02 evidence 须写明译后编辑（含“译后编辑”或“PE”），"
+            "以对应 ISO 18587／GB/T 40036 的过程留痕（ADR-0084 D2=B）")
 
 
 AXIS_TOOL = {"rv-03": "cite_audit.py", "rv-04": "logic_audit.py",
@@ -477,26 +511,29 @@ def _academic_gate(zh_doc, step):
 
 
 def _independence_gate(task, actor, evidence):
-    """复核独立性机检（rules/04"复核独立性"、ADR-0020 裁定②混合制）。
+    """终审分离硬门（ADR-0084 D1=C；《图书质量保障体系》第八条、ISO 17100）。
 
-    sg-01–sg-03（原 r1–r3）的 actor 全部同于初译 actor（retranslate 取 tr-02、
-    update 取 tr-03）时，属单会话形态，须在 sg-03 evidence 记明"冷置"（先做其他
-    任务再回读）；正常形态由评审线交叉满足（specs/005 §6 评审线接管）。
-    旧任务缺首写步则跳过（不强溯）。
+    sg-03 的 actor 不得是初译（retranslate 取 tr-02、update 取 tr-03）或初审／复审
+    （sg-01／sg-02）的同一人；违反直接拒绝，不再接受“冷置／密度”补偿。
+    前两审（sg-01／sg-02）与初译同人仍允许，但属登记偏离 V01（见 standards.json）。
+    旧任务缺首写步或前审步时，仅在可判定范围内检查（不强溯）。
     """
     first = "tr-02" if task.get("kind") == "retranslate" else "tr-03"
-    writer = next((s.get("actor") or "" for s in task.get("steps", [])
+    steps = task.get("steps", [])
+    writer = next((s.get("actor") or "" for s in steps
                    if NODE_MAP.get(s.get("step"), s.get("step")) == first), None)
-    if not writer:
-        return
-    actors = [s.get("actor") or "" for s in task.get("steps", [])
-              if NODE_MAP.get(s.get("step"), s.get("step")) in ("sg-01", "sg-02")]
-    actors.append(actor or "")
-    if all(a == writer for a in actors) and "冷置" not in (evidence or ""):
+    prior = [s.get("actor") or "" for s in steps
+             if NODE_MAP.get(s.get("step"), s.get("step")) in ("sg-01", "sg-02")]
+    conflicts = []
+    if writer and actor == writer:
+        conflicts.append("初译")
+    if actor in prior:
+        conflicts.append("初审／复审")
+    if conflicts:
         raise PreconditionError(
-            "复核独立性未满足：sg-01–sg-03 与初译 actor（%s）全部相同，单会话形态须在"
-            " sg-03 evidence 记明冷置（rules/04 复核独立性；或交评审线交叉，specs/005 §6）"
-            % writer)
+            "终审须由未参与初译、初审、复审的人执行（ADR-0084 D1=C；"
+            "《图书质量保障体系》第八条）：actor %r 已参与 %s；冷置／密度补偿不适用于终审"
+            % (actor, "、".join(conflicts)))
 
 
 def reopen(slug, reason, actor, upstream_sync=False):
@@ -608,8 +645,13 @@ def main(argv=None):
             print(json.dumps(task, ensure_ascii=False, indent=2))
             return 0
         if cmd == "create":
-            args = _parse(["--kind", "--zh-doc", "--from"], argv[2:])
-            task = create(slug, args.get("kind"), args.get("zh_doc"), args.get("from"))
+            args = _parse(["--kind", "--zh-doc", "--from", "--translation-mode",
+                           "--pe-level", "--pe-system", "--pe-disclosure"], argv[2:])
+            task = create(slug, args.get("kind"), args.get("zh_doc"), args.get("from"),
+                          translation_mode=args.get("translation_mode") or "human",
+                          pe_level=args.get("pe_level") or "full",
+                          pe_system=args.get("pe_system") or "",
+                          pe_disclosure=args.get("pe_disclosure") or "")
             print(json.dumps(task, ensure_ascii=False, indent=2))
             return 0
         if cmd == "advance":

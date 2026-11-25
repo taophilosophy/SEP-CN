@@ -55,6 +55,8 @@ GATES = [
     ("中文体例归一（s2.4 三轴结构面）", "style", "tools/check_pairs.py --gate --all"),
     ("账实一致性（清账/过程记录，严格档）", "ledger", "tools/check_taskfile_invariant.py --strict"),
     ("目录四方重放网络", "catalog-net", "tools/check_catalog_network.py --gate"),
+    ("规范登记册一致性", "standards", "specs/046-standards-compliance/bin/verify_standards.py"),
+    ("规范标准表同步", "standards-table", "tools/standards_table.py --check"),
 ]
 UNIT_TESTS = ("管线单元测试", "unittest", "-m unittest discover -s tools/tests")
 OPTIONAL = [

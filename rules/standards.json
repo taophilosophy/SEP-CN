@@ -1,95 +1,1095 @@
 {
-  "schema": "sep-cn-standards/1",
-  "date": "2026-11-18",
-  "note": "规范对齐单一事实源：每条采纳项登记标准、条款、承接规则文件（owner）与工具/凭证（tool）。判定器 verify_standards.py 据此验证充分性（每条有承接）、一致性（落点单一）、完备性（五类覆盖流程环节）。not_adopted 记录已评估但明确不采纳的规范。",
-  "categories": {
-    "翻译质量": ["S01", "S02", "S03"],
-    "校对": ["S04", "S05"],
-    "参考文献": ["S06"],
-    "工具链安全": ["S07", "S08"],
-    "合规": ["S10"]
-  },
-  "adopted": [
-    {
-      "id": "S01",
-      "std": "ISO 5060:2024",
-      "clause": "错误严重度 minor/major/critical 三档；critical 自动 fail 不论总分",
-      "owner": "rules/04 §复核独立性与问题分级",
-      "tool": "task_ops evidence 分级（Critical 不得带入 done）",
-      "status": "adopted"
-    },
-    {
-      "id": "S02",
-      "std": "ISO 5060:2024",
-      "clause": "采样评估方法学（sampling 未必检出全部错误）",
-      "owner": "rules/04 §机检为筛人审为判（ADR-0070）+ 每批 5% 深读",
-      "tool": "manual-5pct 台账（specs/009 先例）",
-      "status": "adopted"
-    },
-    {
-      "id": "S03",
-      "std": "MQM Core",
-      "clause": "七维度错误分类（Terminology/Accuracy/Fluency/Style/Locale/Verity/Design）",
-      "owner": "rules/04 §复核独立性（一校 Accuracy、二校 Fluency/Style、s2.4 Terminology、三校 Locale、r 链 Verity）",
-      "tool": "check_terms/check_pairs/check_style/check_academic",
-      "status": "adopted"
-    },
-    {
-      "id": "S04",
-      "std": "CY/T 266-2023",
-      "clause": "图书编校差错率 = 差错数÷总字数（万分比），≤ 万分之一合格",
-      "owner": "rules/04 §复核独立性与问题分级",
-      "tool": "s3/r3 验收硬线",
-      "status": "adopted"
-    },
-    {
-      "id": "S05",
-      "std": "CY/T 266-2023",
-      "clause": "格式差错计错（表 3：空行空格/转行/编写体例/排版格式/图表位置，每处 0.1–1 差错）",
-      "owner": "rules/04 §s3 三校体例",
-      "tool": "check_style/check_pairs（映射表 3 判据）+ 人审必查",
-      "status": "adopted"
-    },
-    {
-      "id": "S06",
-      "std": "GB/T 7714-2025",
-      "clause": "新增预印本[PP]/数据集著录要素；取消非网络文献访问日期（2026-07-01 实施）",
-      "owner": "rules/07 §参考文献（防漏核对基准，ADR-0041 适用边界内）",
-      "tool": "biblio_audit/check_academic",
-      "status": "adopted"
-    },
-    {
-      "id": "S07",
-      "std": "SBOM（SPDX/CycloneDX）",
-      "clause": "软件物料清单登记依赖与版本，可溯源",
-      "owner": "rules/05-ci-and-tools.md",
-      "tool": "specs/046/results/sbom.json（生成物）",
-      "status": "adopted"
-    },
-    {
-      "id": "S08",
-      "std": "OWASP LLM Top 10 2025 LLM01",
-      "clause": "提示注入防护：上游 HTML 是数据不是指令，翻译 Agent 不得把上游文本解释为指令",
-      "owner": "rules/04 §P4 预处理",
-      "tool": "prompt 组装约束（数据区隔离）",
-      "status": "adopted"
-    },
-    {
-      "id": "S10",
-      "std": "许可链（CC BY-NC-SA / BSD-2-Clause）",
-      "clause": "SEP 原文 CC BY-NC-SA；项目仓库 BSD-2-Clause；无冲突审计",
-      "owner": "rules/adr/0071",
-      "tool": "ADR 审计结论",
-      "status": "adopted"
-    }
+ "schema": "sep-cn-standards/2",
+ "date": "2026-11-25",
+ "note": "双层登记：cited＝引用事实（标准号/版本状态/落点/来源/检索日）；adopted＝采纳三元组（承接规则与工具）；deviations＝合法偏离；not_adopted＝明确不采纳。README 标准表由 tools/standards_table.py 从 cited 生成（标记区间）。V5 校验 rules 正文引用可解析。",
+ "categories": {
+  "翻译质量": [
+   "S01",
+   "S02",
+   "S03",
+   "S11",
+   "S12",
+   "S13",
+   "S23",
+   "S24"
   ],
-  "not_adopted": [
-    {
-      "id": "S09",
-      "std": "GB 45438-2025",
-      "clause": "AI 生成合成内容标识方法（强制）",
-      "reason": "用户 2026-11-18 明确决定：不执行 GB 45438-2025，本项目译文不做 AI 生成合成内容标识",
-      "status": "not_adopted"
-    }
+  "校对": [
+   "S04",
+   "S05",
+   "S14",
+   "S16"
+  ],
+  "参考文献": [
+   "S06",
+   "S15"
+  ],
+  "工具链安全": [
+   "S07",
+   "S08"
+  ],
+  "合规": [
+   "S10",
+   "S20",
+   "S21",
+   "S22"
+  ],
+  "术语": [
+   "S18"
   ]
+ },
+ "cited": [
+  {
+   "id": "C01",
+   "std": "ISO 17100:2015（+Amd 1:2017）",
+   "std_key": [
+    "ISO 17100"
+   ],
+   "title": "翻译服务——笔译服务要求",
+   "status": "修订中（90.92，2025-08-04；AWI 在研）",
+   "domain": "笔译服务",
+   "owner": "rules/04",
+   "source": "iso.org/standard/59149.html",
+   "checked": "2026-11-25"
+  },
+  {
+   "id": "C02",
+   "std": "GB/T 19363.1-2022",
+   "std_key": [
+    "GB/T 19363.1"
+   ],
+   "title": "翻译服务 第1部分：笔译服务要求（IDT 采 ISO 17100:2015）",
+   "status": "现行（2023-07-01 实施）",
+   "domain": "笔译服务",
+   "owner": "rules/04",
+   "source": "openstd.samr.gov.cn",
+   "checked": "2026-11-25"
+  },
+  {
+   "id": "C03",
+   "std": "ISO 5060:2024",
+   "std_key": [
+    "ISO 5060"
+   ],
+   "title": "翻译产出的评估——一般指南",
+   "status": "现行（2024-02 发布）",
+   "domain": "翻译质量评估",
+   "owner": "rules/04",
+   "source": "iso.org/standard/80701.html",
+   "checked": "2026-11-25"
+  },
+  {
+   "id": "C04",
+   "std": "ISO 18587:2017",
+   "std_key": [
+    "ISO 18587"
+   ],
+   "title": "机器翻译输出的译后编辑——要求",
+   "status": "现行；DIS 第2版（非人类译文输出）在票，预计 2026 年底",
+   "domain": "译后编辑",
+   "owner": "rules/04",
+   "source": "iso.org/standard/62970.html",
+   "checked": "2026-11-25"
+  },
+  {
+   "id": "C05",
+   "std": "GB/T 40036-2021",
+   "std_key": [
+    "GB/T 40036"
+   ],
+   "title": "翻译服务 机器翻译结果的译后编辑 要求（IDT 采 ISO 18587:2017）",
+   "status": "现行（2021-11-01 实施）",
+   "domain": "译后编辑",
+   "owner": "rules/04",
+   "source": "std.samr.gov.cn",
+   "checked": "2026-11-25"
+  },
+  {
+   "id": "C06",
+   "std": "ISO 11669:2024",
+   "std_key": [
+    "ISO 11669"
+   ],
+   "title": "翻译项目——一般指南（取代 ISO/TS 11669:2012）",
+   "status": "现行（2024-03）",
+   "domain": "翻译项目规格",
+   "owner": "rules/04",
+   "source": "iso.org/standard/79089.html",
+   "checked": "2026-11-25"
+  },
+  {
+   "id": "C07",
+   "std": "ISO 704:2022",
+   "std_key": [
+    "ISO 704"
+   ],
+   "title": "术语工作——原则与方法（第4版）",
+   "status": "现行",
+   "domain": "术语工作",
+   "owner": "rules/03",
+   "source": "iso.org/standard/79077.html",
+   "checked": "2026-11-25"
+  },
+  {
+   "id": "C08",
+   "std": "ISO 1087:2019",
+   "std_key": [
+    "ISO 1087"
+   ],
+   "title": "术语工作与术语学——词汇（第2版）",
+   "status": "现行（2025 确认）",
+   "domain": "术语工作",
+   "owner": "rules/03",
+   "source": "iso.org/standard/62330.html",
+   "checked": "2026-11-25"
+  },
+  {
+   "id": "C09",
+   "std": "ISO 10241-1:2011",
+   "std_key": [
+    "ISO 10241-1"
+   ],
+   "title": "标准中的术语条目 第1部分",
+   "status": "现行（2022 确认）",
+   "domain": "术语工作",
+   "owner": "rules/03",
+   "source": "iso.org/standard/40362.html",
+   "checked": "2026-11-25"
+  },
+  {
+   "id": "C10",
+   "std": "ISO 860:2007",
+   "std_key": [
+    "ISO 860"
+   ],
+   "title": "术语工作——概念与术语的协调",
+   "status": "待核（本轮未取得官方页）",
+   "domain": "术语工作",
+   "owner": "rules/03",
+   "source": "—",
+   "checked": "2026-11-25"
+  },
+  {
+   "id": "C11",
+   "std": "GB/T 10112-2019",
+   "std_key": [
+    "GB/T 10112"
+   ],
+   "title": "术语工作 原则与方法（IDT 采 ISO 704:2009）",
+   "status": "现行；复审 2025-12-02 结论“修订”",
+   "domain": "术语工作",
+   "owner": "rules/03",
+   "source": "std.samr.gov.cn",
+   "checked": "2026-11-25"
+  },
+  {
+   "id": "C12",
+   "std": "ISO 30042:2019",
+   "std_key": [
+    "ISO 30042"
+   ],
+   "title": "术语资源管理——术语库交换（TBX）",
+   "status": "现行",
+   "domain": "术语数据",
+   "owner": "rules/03",
+   "source": "iso.org（经 GB/T 44227 采标页）",
+   "checked": "2026-11-25"
+  },
+  {
+   "id": "C13",
+   "std": "GB/T 44227-2024",
+   "std_key": [
+    "GB/T 44227"
+   ],
+   "title": "术语资源管理 术语数据库交换（TBX）（MOD 采 ISO 30042:2019）",
+   "status": "现行（2025-02-01 实施）",
+   "domain": "术语数据",
+   "owner": "rules/03",
+   "source": "std.samr.gov.cn",
+   "checked": "2026-11-25"
+  },
+  {
+   "id": "C14",
+   "std": "ISO 690:2021",
+   "std_key": [
+    "ISO 690"
+   ],
+   "title": "信息与文献——信息资源引用与参考文献指南（第4版）",
+   "status": "现行",
+   "domain": "引文与参考文献",
+   "owner": "rules/07",
+   "source": "iso.org；Relaton",
+   "checked": "2026-11-25"
+  },
+  {
+   "id": "C15",
+   "std": "GB/T 7714-2025",
+   "std_key": [
+    "GB/T 7714"
+   ],
+   "title": "信息与文献 参考文献著录规则（NEQ ISO 690:2021）",
+   "status": "现行（2026-07-01 实施）",
+   "domain": "引文与参考文献",
+   "owner": "rules/07",
+   "source": "std.samr.gov.cn",
+   "checked": "2026-11-25"
+  },
+  {
+   "id": "C16",
+   "std": "ISO 24229:2022",
+   "std_key": [
+    "ISO 24229"
+   ],
+   "title": "信息与文献——文字转换系统代码",
+   "status": "现行（2022-11）",
+   "domain": "引文转写",
+   "owner": "rules/07",
+   "source": "iso.org/standard/78143.html",
+   "checked": "2026-11-25"
+  },
+  {
+   "id": "C17",
+   "std": "ISO 9:1995／233:1984（-3:2023）／259:1984／843:1997／3602:1989／7098:2015／15919:2001",
+   "std_key": [
+    "ISO 9",
+    "ISO 233",
+    "ISO 259",
+    "ISO 843",
+    "ISO 3602",
+    "ISO 7098",
+    "ISO 15919"
+   ],
+   "title": "各文种转写／罗马化系统",
+   "status": "逐版待核（清单来源：ISO romanizations 目录）",
+   "domain": "引文转写",
+   "owner": "rules/07",
+   "source": "ISO 目录",
+   "checked": "2026-11-25"
+  },
+  {
+   "id": "C18",
+   "std": "ISO 80000-1:2022",
+   "std_key": [
+    "ISO 80000-1"
+   ],
+   "title": "量和单位 第1部分：总则（第2版）",
+   "status": "现行（2022-12）",
+   "domain": "量和单位",
+   "owner": "rules/02",
+   "source": "iso.org",
+   "checked": "2026-11-25"
+  },
+  {
+   "id": "C19",
+   "std": "SI Brochure 第9版",
+   "std_key": [
+    "SI Brochure"
+   ],
+   "title": "国际单位制（2019；最新修订 4.01，2026-06）",
+   "status": "现行",
+   "domain": "量和单位",
+   "owner": "rules/02",
+   "source": "bipm.org/en/si-brochure-9",
+   "checked": "2026-11-25"
+  },
+  {
+   "id": "C20",
+   "std": "GB 3100-1993",
+   "std_key": [
+    "GB 3100"
+   ],
+   "title": "国际单位制及其应用",
+   "status": "现行",
+   "domain": "量和单位",
+   "owner": "rules/02",
+   "source": "openstd.samr.gov.cn",
+   "checked": "2026-11-25"
+  },
+  {
+   "id": "C21",
+   "std": "GB/T 3101-1993",
+   "std_key": [
+    "GB/T 3101"
+   ],
+   "title": "有关量、单位和符号的一般原则",
+   "status": "现行；复审 2026-03-02 结论“修订”",
+   "domain": "量和单位",
+   "owner": "rules/02",
+   "source": "std.samr.gov.cn",
+   "checked": "2026-11-25"
+  },
+  {
+   "id": "C22",
+   "std": "GB 3102.1-13",
+   "std_key": [
+    "GB 3102"
+   ],
+   "title": "量和单位 各学科分册",
+   "status": "待核（本轮未逐册复核）",
+   "domain": "量和单位",
+   "owner": "rules/02",
+   "source": "—",
+   "checked": "2026-11-25"
+  },
+  {
+   "id": "C23",
+   "std": "GB/T 8170-2008",
+   "std_key": [
+    "GB/T 8170"
+   ],
+   "title": "数值修约规则与极限数值的表示和判定",
+   "status": "现行",
+   "domain": "量和单位",
+   "owner": "rules/02",
+   "source": "标准文本页",
+   "checked": "2026-11-25"
+  },
+  {
+   "id": "C24",
+   "std": "GB/T 15834-2011",
+   "std_key": [
+    "GB/T 15834"
+   ],
+   "title": "标点符号用法",
+   "status": "现行；修订计划 20240034-T-360 暂缓",
+   "domain": "标点",
+   "owner": "rules/02",
+   "source": "std.samr.gov.cn",
+   "checked": "2026-11-25"
+  },
+  {
+   "id": "C25",
+   "std": "GB/T 15835-2011",
+   "std_key": [
+    "GB/T 15835"
+   ],
+   "title": "出版物上数字用法",
+   "status": "现行（复审 2025-09-05 继续有效）",
+   "domain": "数字",
+   "owner": "rules/02",
+   "source": "std.samr.gov.cn",
+   "checked": "2026-11-25"
+  },
+  {
+   "id": "C26",
+   "std": "GB/T 16159-2012",
+   "std_key": [
+    "GB/T 16159"
+   ],
+   "title": "汉语拼音正词法基本规则",
+   "status": "现行",
+   "domain": "拼音",
+   "owner": "rules/01",
+   "source": "std.samr.gov.cn",
+   "checked": "2026-11-25"
+  },
+  {
+   "id": "C27",
+   "std": "GB/T 28039-2011",
+   "std_key": [
+    "GB/T 28039"
+   ],
+   "title": "中国人名汉语拼音字母拼写规则",
+   "status": "现行",
+   "domain": "人名",
+   "owner": "rules/03",
+   "source": "openstd.samr.gov.cn",
+   "checked": "2026-11-25"
+  },
+  {
+   "id": "C28",
+   "std": "GB/T 17693.1-2008",
+   "std_key": [
+    "GB/T 17693.1"
+   ],
+   "title": "外语地名汉字译写导则 英语",
+   "status": "现行",
+   "domain": "地名",
+   "owner": "rules/03",
+   "source": "README",
+   "checked": "2026-11-25"
+  },
+  {
+   "id": "C29",
+   "std": "CY/T 154-2017",
+   "std_key": [
+    "CY/T 154"
+   ],
+   "title": "中文出版物夹用英文的编辑规范",
+   "status": "现行（发布/实施日期两源口径不一，待核）",
+   "domain": "中英混排",
+   "owner": "rules/02",
+   "source": "nppa.gov.cn",
+   "checked": "2026-11-25"
+  },
+  {
+   "id": "C30",
+   "std": "CY/T 122-2015",
+   "std_key": [
+    "CY/T 122"
+   ],
+   "title": "学术出版规范 引文",
+   "status": "现行",
+   "domain": "引文",
+   "owner": "rules/07",
+   "source": "nppa.gov.cn",
+   "checked": "2026-11-25"
+  },
+  {
+   "id": "C31",
+   "std": "CY/T 123-2015",
+   "std_key": [
+    "CY/T 123"
+   ],
+   "title": "学术出版规范 中文译著",
+   "status": "现行（发布日两源口径不一，待核）",
+   "domain": "中文译著",
+   "owner": "rules/04",
+   "source": "nppa.gov.cn",
+   "checked": "2026-11-25"
+  },
+  {
+   "id": "C32",
+   "std": "CY/T 118-2015",
+   "std_key": [
+    "CY/T 118"
+   ],
+   "title": "学术出版规范 一般要求（4.3 三审三校）",
+   "status": "现行",
+   "domain": "学术出版",
+   "owner": "rules/02",
+   "source": "nppa.gov.cn",
+   "checked": "2026-11-25"
+  },
+  {
+   "id": "C33",
+   "std": "CY/T 121-2015",
+   "std_key": [
+    "CY/T 121"
+   ],
+   "title": "学术出版规范 注释",
+   "status": "现行",
+   "domain": "注释",
+   "owner": "rules/07",
+   "source": "nppa.gov.cn",
+   "checked": "2026-11-25"
+  },
+  {
+   "id": "C34",
+   "std": "CY/T 170-2019",
+   "std_key": [
+    "CY/T 170"
+   ],
+   "title": "学术出版规范 表格",
+   "status": "现行（2019-07-01 实施）",
+   "domain": "表格",
+   "owner": "rules/02",
+   "source": "nppa.gov.cn",
+   "checked": "2026-11-25"
+  },
+  {
+   "id": "C35",
+   "std": "CY/T 171-2019",
+   "std_key": [
+    "CY/T 171"
+   ],
+   "title": "学术出版规范 插图",
+   "status": "现行（2019-07-01 实施）",
+   "domain": "插图",
+   "owner": "rules/02",
+   "source": "nppa.gov.cn",
+   "checked": "2026-11-25"
+  },
+  {
+   "id": "C36",
+   "std": "CY/T 266-2023",
+   "std_key": [
+    "CY/T 266"
+   ],
+   "title": "图书编校质量差错判定和计算方法",
+   "status": "现行",
+   "domain": "校对",
+   "owner": "rules/04",
+   "source": "既有登记",
+   "checked": "2026-11-25"
+  },
+  {
+   "id": "C37",
+   "std": "图书质量保障体系（1997，署令第8号）",
+   "std_key": [
+    "图书质量保障体系"
+   ],
+   "title": "三审责任制度（第八条）与三校一读（第十一条）",
+   "status": "现行",
+   "domain": "出版制度",
+   "owner": "rules/04",
+   "source": "gov.cn",
+   "checked": "2026-11-25"
+  },
+  {
+   "id": "C38",
+   "std": "图书质量管理规定（2004，署令第26号）",
+   "std_key": [
+    "图书质量管理规定"
+   ],
+   "title": "图书质量检查与处罚",
+   "status": "现行（待核原文）",
+   "domain": "出版制度",
+   "owner": "rules/04",
+   "source": "引用文献",
+   "checked": "2026-11-25"
+  },
+  {
+   "id": "C39",
+   "std": "ISO 15489-1:2016",
+   "std_key": [
+    "ISO 15489-1"
+   ],
+   "title": "信息与文献——文件管理 第1部分",
+   "status": "现行；2026-11-06 转 90.92 修订中",
+   "domain": "记录管理",
+   "owner": "rules/09",
+   "source": "iso.org/standard/62542.html",
+   "checked": "2026-11-25"
+  },
+  {
+   "id": "C40",
+   "std": "GB/T 26162-2021",
+   "std_key": [
+    "GB/T 26162"
+   ],
+   "title": "信息与文献 文件管理（IDT 采 ISO 15489-1:2016）",
+   "status": "现行（2022-07-01 实施）",
+   "domain": "记录管理",
+   "owner": "rules/09",
+   "source": "std.samr.gov.cn",
+   "checked": "2026-11-25"
+  },
+  {
+   "id": "C41",
+   "std": "GB/T 18894-2016",
+   "std_key": [
+    "GB/T 18894"
+   ],
+   "title": "电子文件归档与电子档案管理规范",
+   "status": "现行",
+   "domain": "记录管理",
+   "owner": "rules/09",
+   "source": "README",
+   "checked": "2026-11-25"
+  },
+  {
+   "id": "C42",
+   "std": "DA/T 22-2015",
+   "std_key": [
+    "DA/T 22"
+   ],
+   "title": "归档文件整理规则",
+   "status": "现行",
+   "domain": "记录管理",
+   "owner": "rules/09",
+   "source": "README",
+   "checked": "2026-11-25"
+  },
+  {
+   "id": "C43",
+   "std": "ISO/IEC 11179-5:2015",
+   "std_key": [
+    "ISO/IEC 11179-5"
+   ],
+   "title": "元数据注册系统 第5部分：命名原则",
+   "status": "现行；DIS 第4版在票（2026-09-17）",
+   "domain": "标识命名",
+   "owner": "rules/naming.json",
+   "source": "iso.org/standard/92786.html",
+   "checked": "2026-11-25"
+  },
+  {
+   "id": "C44",
+   "std": "GB/T 18391.5-2009",
+   "std_key": [
+    "GB/T 18391.5"
+   ],
+   "title": "信息技术 元数据注册系统 第5部分（等同 ISO/IEC 11179-5:2005）",
+   "status": "现行",
+   "domain": "标识命名",
+   "owner": "rules/naming.json",
+   "source": "既有记忆/待复核",
+   "checked": "2026-11-25"
+  },
+  {
+   "id": "C45",
+   "std": "ISO/IEC/IEEE 12207:2026",
+   "std_key": [
+    "ISO/IEC/IEEE 12207"
+   ],
+   "title": "系统与软件工程——软件生命周期过程",
+   "status": "现行（2026-04；2017 版 2026-04-29 废止）",
+   "domain": "工程过程",
+   "owner": "rules/09",
+   "source": "iso.org/standard/90219.html",
+   "checked": "2026-11-25"
+  },
+  {
+   "id": "C46",
+   "std": "ISO 999:1996",
+   "std_key": [
+    "ISO 999"
+   ],
+   "title": "索引编制指南",
+   "status": "现行；FDIS 在研",
+   "domain": "索引",
+   "owner": "rules/01",
+   "source": "iso.org/standard/5446.html",
+   "checked": "2026-11-25"
+  },
+  {
+   "id": "C47",
+   "std": "ISO 25964-1:2011",
+   "std_key": [
+    "ISO 25964"
+   ],
+   "title": "叙词表与词表互操作 第1部分",
+   "status": "第2版在版（60.00，2026-10）；第2部分 2013 版现行",
+   "domain": "叙词表",
+   "owner": "rules/03",
+   "source": "iso.org",
+   "checked": "2026-11-25"
+  },
+  {
+   "id": "C48",
+   "std": "GB/T 22466-2023",
+   "std_key": [
+    "GB/T 22466"
+   ],
+   "title": "索引编制规则 总则",
+   "status": "现行（2023-12-01 实施）",
+   "domain": "索引",
+   "owner": "rules/01",
+   "source": "README",
+   "checked": "2026-11-25"
+  },
+  {
+   "id": "C49",
+   "std": "GB/T 1.1-2020",
+   "std_key": [
+    "GB/T 1.1"
+   ],
+   "title": "标准化工作导则 第1部分",
+   "status": "现行",
+   "domain": "规则起草",
+   "owner": "rules/README.md",
+   "source": "README",
+   "checked": "2026-11-25"
+  },
+  {
+   "id": "C50",
+   "std": "ISO/IEC/IEEE 29148:2018",
+   "std_key": [
+    "ISO/IEC/IEEE 29148"
+   ],
+   "title": "生命周期过程——需求工程",
+   "status": "待核",
+   "domain": "工程过程",
+   "owner": "specs 模板",
+   "source": "README",
+   "checked": "2026-11-25"
+  },
+  {
+   "id": "C51",
+   "std": "ISO/IEC/IEEE 26514:2022",
+   "std_key": [
+    "ISO/IEC/IEEE 26514"
+   ],
+   "title": "用户文档设计与开发",
+   "status": "待核",
+   "domain": "工程过程",
+   "owner": "specs 模板",
+   "source": "README",
+   "checked": "2026-11-25"
+  },
+  {
+   "id": "C52",
+   "std": "ISO/IEC/IEEE 15289:2019",
+   "std_key": [
+    "ISO/IEC/IEEE 15289"
+   ],
+   "title": "生命周期信息项内容",
+   "status": "待核",
+   "domain": "工程过程",
+   "owner": "specs 模板",
+   "source": "README",
+   "checked": "2026-11-25"
+  },
+  {
+   "id": "C53",
+   "std": "ISO 24617-8:2016／-11:2021／-12:2025",
+   "std_key": [
+    "ISO 24617-8",
+    "ISO 24617-11",
+    "ISO 24617-12",
+    "ISO 24617"
+   ],
+   "title": "语义标注框架（篇章关系／MQI／QuantML）",
+   "status": "待核",
+   "domain": "语义标注",
+   "owner": "rules/04",
+   "source": "README",
+   "checked": "2026-11-25"
+  },
+  {
+   "id": "C54",
+   "std": "GB/T 7408.1-2023",
+   "std_key": [
+    "GB/T 7408.1"
+   ],
+   "title": "日期和时间 表示法（IDT 采 ISO 8601-1）",
+   "status": "待核",
+   "domain": "日期时间",
+   "owner": "tasks/",
+   "source": "README",
+   "checked": "2026-11-25"
+  },
+  {
+   "id": "C55",
+   "std": "ISO 8601-1:2019",
+   "std_key": [
+    "ISO 8601-1",
+    "ISO 8601"
+   ],
+   "title": "日期和时间 信息交换表示法",
+   "status": "待核",
+   "domain": "日期时间",
+   "owner": "tasks/",
+   "source": "README",
+   "checked": "2026-11-25"
+  },
+  {
+   "id": "C56",
+   "std": "通用规范汉字表（2013）",
+   "std_key": [
+    "通用规范汉字表"
+   ],
+   "title": "国务院批准的规范汉字表",
+   "status": "现行",
+   "domain": "用字",
+   "owner": "rules/02",
+   "source": "README",
+   "checked": "2026-11-25"
+  },
+  {
+   "id": "C57",
+   "std": "《世界人名翻译大辞典》（新华社译名室，2007 修订）",
+   "std_key": [
+    "世界人名翻译大辞典"
+   ],
+   "title": "人名译写权威工具书",
+   "status": "工具书",
+   "domain": "人名",
+   "owner": "rules/03",
+   "source": "README",
+   "checked": "2026-11-25"
+  },
+  {
+   "id": "C58",
+   "std": "GB/T 19682-2005",
+   "std_key": [
+    "GB/T 19682"
+   ],
+   "title": "翻译服务译文质量要求（基本要求／特殊要求／评定与检测）",
+   "status": "现行（复审 2023-12-28 继续有效）",
+   "domain": "译文质量",
+   "owner": "rules/04",
+   "source": "openstd.samr.gov.cn",
+   "checked": "2026-11-25"
+  },
+  {
+   "id": "C59",
+   "std": "CY/T 174-2019",
+   "std_key": [
+    "CY/T 174"
+   ],
+   "title": "学术出版规范 期刊学术不端行为界定",
+   "status": "现行",
+   "domain": "学术出版",
+   "owner": "rules/07",
+   "source": "nppa.gov.cn",
+   "checked": "2026-11-25"
+  },
+  {
+   "id": "C60",
+   "std": "GB/T 32424-2015",
+   "std_key": [
+    "GB/T 32424"
+   ],
+   "title": "信息技术 用户文档（对应 ISO/IEC/IEEE 26514 采标）",
+   "status": "待核",
+   "domain": "工程过程",
+   "owner": "rules/09",
+   "source": "README",
+   "checked": "2026-11-25"
+  },
+  {
+   "id": "C61",
+   "std": "ISO/IEC 15939:2007",
+   "std_key": [
+    "ISO/IEC 15939"
+   ],
+   "title": "系统和软件工程 测量过程",
+   "status": "待核",
+   "domain": "工程过程",
+   "owner": "rules/09",
+   "source": "README",
+   "checked": "2026-11-25"
+  }
+ ],
+ "adopted": [
+  {
+   "id": "S01",
+   "std": "ISO 5060:2024",
+   "clause": "错误严重度 minor/major/critical 三档；critical 自动 fail 不论总分",
+   "owner": "rules/04 §复核独立性与问题分级",
+   "tool": "task_ops evidence 分级（Critical 不得带入 done）",
+   "status": "adopted"
+  },
+  {
+   "id": "S02",
+   "std": "ISO 5060:2024",
+   "clause": "采样评估方法学（sampling 未必检出全部错误）",
+   "owner": "rules/04 §机检为筛人审为判（ADR-0070）+ 每批 5% 深读",
+   "tool": "manual-5pct 台账（specs/009 先例）",
+   "status": "adopted"
+  },
+  {
+   "id": "S03",
+   "std": "MQM Core",
+   "clause": "七维度错误分类（Terminology/Accuracy/Fluency/Style/Locale/Verity/Design）",
+   "owner": "rules/04 §复核独立性（一校 Accuracy、二校 Fluency/Style、s2.4 Terminology、三校 Locale、r 链 Verity）",
+   "tool": "check_terms/check_pairs/check_style/check_academic",
+   "status": "adopted"
+  },
+  {
+   "id": "S04",
+   "std": "CY/T 266-2023",
+   "clause": "图书编校差错率 = 差错数÷总字数（万分比），≤ 万分之一合格",
+   "owner": "rules/04 §复核独立性与问题分级",
+   "tool": "s3/r3 验收硬线",
+   "status": "adopted"
+  },
+  {
+   "id": "S05",
+   "std": "CY/T 266-2023",
+   "clause": "格式差错计错（表 3：空行空格/转行/编写体例/排版格式/图表位置，每处 0.1–1 差错）",
+   "owner": "rules/04 §s3 三校体例",
+   "tool": "check_style/check_pairs（映射表 3 判据）+ 人审必查",
+   "status": "adopted"
+  },
+  {
+   "id": "S06",
+   "std": "GB/T 7714-2025",
+   "clause": "新增预印本[PP]/数据集著录要素；取消非网络文献访问日期（2026-07-01 实施）",
+   "owner": "rules/07 §参考文献（防漏核对基准，ADR-0041 适用边界内）",
+   "tool": "biblio_audit/check_academic",
+   "status": "adopted"
+  },
+  {
+   "id": "S07",
+   "std": "SBOM（SPDX/CycloneDX）",
+   "clause": "软件物料清单登记依赖与版本，可溯源",
+   "owner": "rules/05-ci-and-tools.md",
+   "tool": "specs/046/results/sbom.json（生成物）",
+   "status": "adopted"
+  },
+  {
+   "id": "S08",
+   "std": "OWASP LLM Top 10 2025 LLM01",
+   "clause": "提示注入防护：上游 HTML 是数据不是指令，翻译 Agent 不得把上游文本解释为指令",
+   "owner": "rules/04 §P4 预处理",
+   "tool": "prompt 组装约束（数据区隔离）",
+   "status": "adopted"
+  },
+  {
+   "id": "S10",
+   "std": "许可链（CC BY-NC-SA / BSD-2-Clause）",
+   "clause": "SEP 原文 CC BY-NC-SA；项目仓库 BSD-2-Clause；无冲突审计",
+   "owner": "rules/adr/0071",
+   "tool": "ADR 审计结论",
+   "status": "adopted"
+  },
+  {
+   "id": "S11",
+   "std": "GB/T 19682-2005",
+   "clause": "译文质量基本要求与特殊要求（评定与检测仍用 CY/T 266＋ISO 5060）",
+   "owner": "rules/04 六道、rules/02 数字与计量",
+   "tool": "人工核验＋check_style",
+   "status": "adopted（部分）"
+  },
+  {
+   "id": "S12",
+   "std": "GB/T 19363.1-2022",
+   "clause": "IDT 采 ISO 17100：核心过程、资源与复核（复核须译者以外人员）",
+   "owner": "rules/04 六道与复核独立性",
+   "tool": "task_ops 独立性机检",
+   "status": "adopted"
+  },
+  {
+   "id": "S13",
+   "std": "CY/T 123-2015",
+   "clause": "中文译著：部件顺序、篇章一致、首现括注原文、译者注独立注码、原文错误用译者注、混排标点",
+   "owner": "rules/04、rules/07、rules/02",
+   "tool": "check_pairs/check_style/check_academic",
+   "status": "adopted"
+  },
+  {
+   "id": "S14",
+   "std": "CY/T 118-2015",
+   "clause": "学术出版一般要求：4.3 三审三校；5.3–5.12 分项引用",
+   "owner": "rules/02、rules/09",
+   "tool": "check_all 既有门禁＋人工",
+   "status": "adopted"
+  },
+  {
+   "id": "S15",
+   "std": "CY/T 122-2015",
+   "clause": "引文：完整准确、出处、行中引／提行引、省略、方括号补入、出处注",
+   "owner": "rules/07 引文",
+   "tool": "cite_audit＋check_pairs",
+   "status": "adopted"
+  },
+  {
+   "id": "S16",
+   "std": "CY/T 170-2019／CY/T 171-2019",
+   "clause": "表格与插图：表号表题、表头单位、表注顺序、图号图题图注",
+   "owner": "rules/02 表图",
+   "tool": "check_tables_images",
+   "status": "adopted"
+  },
+  {
+   "id": "S17",
+   "std": "GB/T 8170-2008",
+   "clause": "数值修约与极限数值",
+   "owner": "rules/02 数字与计量",
+   "tool": "measure_audit（M-8）＋人工",
+   "status": "adopted"
+  },
+  {
+   "id": "S18",
+   "std": "GB/T 44227-2024／ISO 30042:2019",
+   "clause": "TBX 术语数据交换模型",
+   "owner": "rules/03 术语",
+   "tool": "check_term_concepts（告警级）＋TBX 导出（P2）",
+   "status": "adopted（分阶段）"
+  },
+  {
+   "id": "S19",
+   "std": "ISO 11669:2024",
+   "clause": "翻译项目规格：需求分析、风险评估、工作流",
+   "owner": "rules/04 任务方向声明",
+   "tool": "task JSON project_spec 字段＋人工",
+   "status": "adopted"
+  },
+  {
+   "id": "S20",
+   "std": "ISO/IEC 11179-5:2015／GB/T 18391.5-2009",
+   "clause": "标识与名称分离、唯一、稳定、不复用",
+   "owner": "rules/naming.json",
+   "tool": "check_stages S7",
+   "status": "adopted"
+  },
+  {
+   "id": "S21",
+   "std": "ISO/IEC/IEEE 12207:2026",
+   "clause": "配置标识与生命周期过程",
+   "owner": "rules/09 过程标准化",
+   "tool": "check_stages/check_layout",
+   "status": "adopted"
+  },
+  {
+   "id": "S22",
+   "std": "图书质量保障体系（1997）第八条",
+   "clause": "三审责任制度：任何两个环节不得同一人；三校一读",
+   "owner": "rules/04 终审分离",
+   "tool": "task_ops sg-03 独立性硬门",
+   "status": "adopted（部分，见 deviations V01）"
+  },
+  {
+   "id": "S23",
+   "std": "ISO 18587:2017／GB/T 40036-2021",
+   "clause": "译后编辑过程与能力（llm-pe 件）",
+   "owner": "rules/04 LLM 协议",
+   "tool": "task_ops tr-02 pe 字段机检",
+   "status": "adopted"
+  },
+  {
+   "id": "S24",
+   "std": "ISO 5060:2024 第4章与 Annex D",
+   "clause": "评估者能力与抽样设计",
+   "owner": "rules/04 复核",
+   "tool": "r 链 evidence 字段＋抽样计划（P1）",
+   "status": "adopted（分阶段）"
+  }
+ ],
+ "deviations": [
+  {
+   "id": "V01",
+   "std": "图书质量保障体系第八条／ISO 17100",
+   "deviation": "sg-01／sg-02 允许与初译同人（须冷置或密度补偿）；sg-03 强制他人",
+   "basis": "用户 2026-11-25 批准 D1=C",
+   "adr": "0084",
+   "scope": "词条翻译前两审"
+  },
+  {
+   "id": "V02",
+   "std": "ISO 15489-1／GB/T 26162／GB/T 18894／DA/T 22",
+   "deviation": "2026-11-25 之前 journal 与 tasks.steps 历史已按用户授权清空",
+   "basis": "用户 2026-11-25 授权（ADR-0082）",
+   "adr": "0082/0084",
+   "scope": "历史事件；此后恢复只追加"
+  },
+  {
+   "id": "V03",
+   "std": "CY/T 154-2017 8.2",
+   "deviation": "引号与西文／数字之间保留半角空格",
+   "basis": "ADR-0041 已登记",
+   "adr": "0041",
+   "scope": "全库"
+  },
+  {
+   "id": "V04",
+   "std": "中文排版惯例",
+   "deviation": "着重号以加粗替代；中文不用斜体",
+   "basis": "ADR-0041",
+   "adr": "0041",
+   "scope": "全库"
+  },
+  {
+   "id": "V05",
+   "std": "GB/T 7714-2025／GB 3100／GB/T 15834",
+   "deviation": "参考文献骨架、数学定界符与单位照录",
+   "basis": "ADR-0011/0062 照录原则",
+   "adr": "0011/0062",
+   "scope": "文献节与公式"
+  }
+ ],
+ "not_adopted": [
+  {
+   "std": "GB 45438-2025",
+   "reason": "用户 2026-11-18 明确决定：译文不做 AI 生成合成内容标识"
+  },
+  {
+   "std": "ISO 20771:2020",
+   "reason": "法律翻译专用要求，本项目对象为哲学学术文本；且该标准 2026 处于撤销投票，状态不稳"
+  },
+  {
+   "std": "ISO 20252:2026",
+   "reason": "市场、民意与社会研究服务要求，与学术翻译无关"
+  },
+  {
+   "std": "ASTM F2575-14(2021)",
+   "reason": "翻译质量保证指南是服务协议框架，本项目已有 ISO 17100／GB/T 19363.1 与 CY/T 266 双层承接"
+  },
+  {
+   "std": "SAE J2450",
+   "reason": "汽车行业译文质量指标，领域与计分口径均不适用"
+  }
+ ]
 }

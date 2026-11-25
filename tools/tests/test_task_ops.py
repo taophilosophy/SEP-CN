@@ -131,7 +131,7 @@ class TestTaskOps(unittest.TestCase):
         self._qchain("test-r")
         for step in ("s3", "r1", "r2"):
             task_ops.advance("test-r", step, actor="t", evidence="e")
-        task_ops.advance("test-r", "r3", actor="t", evidence="冷置重读",
+        task_ops.advance("test-r", "r3", actor="rev", evidence="冷置重读",
                          mandate="用户 2026-11-15 指定本会话终审（ADR-0054）")  # 单会话形态留痕
         task_ops.advance("test-r", "done", actor="t", evidence="e")
         with self.assertRaises(task_ops.UsageError):
@@ -190,7 +190,7 @@ class TestTaskOps(unittest.TestCase):
             task_ops.advance("test-e", "done", actor="t", evidence="跳步收口")
         for step in ("r1", "r2"):
             task_ops.advance("test-e", step, actor="t", evidence="e")
-        t = task_ops.advance("test-e", "r3", actor="t", evidence="冷置重读",
+        t = task_ops.advance("test-e", "r3", actor="rev", evidence="冷置重读",
                              mandate="用户 2026-11-15 指定本会话终审（ADR-0054）")
         t = task_ops.advance("test-e", "done", actor="t", evidence="e")
         self.assertEqual(t["state"], "done")
@@ -209,16 +209,16 @@ class TestTaskOps(unittest.TestCase):
         for step in ("s3", "r1", "r2"):
             task_ops.advance("test-m", step, actor="t", evidence="e")
         with self.assertRaises(task_ops.PreconditionError):
-            task_ops.advance("test-m", "r3", actor="t", evidence="自作主张终审")
+            task_ops.advance("test-m", "r3", actor="rev", evidence="自作主张终审")
         self.assertEqual(task_ops.load_task("test-m")["state"], "sg-02_checked")
-        t = task_ops.advance("test-m", "r3", actor="t", evidence="冷置重读",
+        t = task_ops.advance("test-m", "r3", actor="rev", evidence="冷置重读",
                              mandate="用户 2026-11-15 指定本会话终审（ADR-0054）")
         self.assertEqual(t["state"], "sg-03_checked")
         self.assertEqual(t["steps"][-1].get("mandate"),
                          "用户 2026-11-15 指定本会话终审（ADR-0054）")
 
-    def test_r3_independence_same_actor_requires_cold_note(self):
-        # 复核独立性机检（rules/04、ADR-0020 裁定②）：单会话形态 r3 必须记明冷置
+    def test_r3_independence_same_actor_always_rejected(self):
+        # 终审分离硬门（ADR-0084 D1=C）：同一 actor 即使记明冷置也拒绝
         task_ops.create("test-i1", "retranslate", zh_doc=self._md("i1.md"))
         task_ops.clear("test-i1")
         for step in ("s0", "draft", "s1", "s2"):
@@ -229,11 +229,55 @@ class TestTaskOps(unittest.TestCase):
         for step in ("s3", "r1", "r2"):
             task_ops.advance("test-i1", step, actor="t", evidence="e")
         with self.assertRaises(task_ops.PreconditionError):
-            task_ops.advance("test-i1", "r3", actor="t", evidence="看过了",
+            task_ops.advance("test-i1", "r3", actor="t", evidence="冷置：先做其他任务后回读",
                              mandate="用户 2026-11-15 指定本会话终审（ADR-0054）")
-        t = task_ops.advance("test-i1", "r3", actor="t", evidence="冷置：先做其他任务后回读",
+        t = task_ops.advance("test-i1", "r3", actor="rev", evidence="e",
                              mandate="用户 2026-11-15 指定本会话终审（ADR-0054）")
         self.assertEqual(t["state"], "sg-03_checked")
+
+    def test_r3_rejects_actor_who_did_first_review(self):
+        # 初审 actor 不得签发终审（三审任何两环节不得同一人）
+        task_ops.create("test-i3", "retranslate", zh_doc=self._md("i3.md"))
+        task_ops.clear("test-i3")
+        for step in ("s0", "draft", "s1", "s2"):
+            task_ops.advance("test-i3", step, actor="w", evidence="e")
+        task_ops.advance("test-i3", "s24", actor="w", evidence="e")
+        task_ops.advance("test-i3", "audit", actor="w", evidence="e；冷置回读＋密度统计")
+        self._qchain("test-i3", actor="w")
+        task_ops.advance("test-i3", "s3", actor="w", evidence="e")
+        task_ops.advance("test-i3", "r1", actor="rev1", evidence="e")
+        task_ops.advance("test-i3", "r2", actor="w", evidence="e")
+        with self.assertRaises(task_ops.PreconditionError):
+            task_ops.advance("test-i3", "r3", actor="rev1", evidence="e",
+                             mandate="用户 2026-11-15 指定本会话终审（ADR-0054）")
+        t = task_ops.advance("test-i3", "r3", actor="rev2", evidence="e",
+                             mandate="用户 2026-11-15 指定本会话终审（ADR-0054）")
+        self.assertEqual(t["state"], "sg-03_checked")
+
+    def test_llm_pe_requires_fields_and_evidence(self):
+        # 译后编辑定位（ADR-0084 D2=B；ISO 18587／GB/T 40036）
+        with self.assertRaises(task_ops.UsageError):
+            task_ops.create("test-pe0", "retranslate", zh_doc=self._md("pe0.md"),
+                            translation_mode="llm-pe")  # 缺 pe_system
+        task_ops.create("test-pe", "retranslate", zh_doc=self._md("pe.md"),
+                        translation_mode="llm-pe", pe_system="test-engine 1.0",
+                        pe_level="full")
+        task_ops.clear("test-pe")
+        task_ops.advance("test-pe", "s0", actor="t", evidence="e")
+        with self.assertRaises(task_ops.PreconditionError):
+            task_ops.advance("test-pe", "draft", actor="t", evidence="直接成稿")
+        t = task_ops.advance("test-pe", "draft", actor="t",
+                             evidence="译后编辑：全文 PE 复核；引擎 test-engine 1.0")
+        self.assertEqual(t["state"], "tr-02_checked")
+
+    def test_llm_pe_light_requires_basis(self):
+        task_ops.create("test-pe2", "retranslate", zh_doc=self._md("pe2.md"),
+                        translation_mode="llm-pe", pe_level="light",
+                        pe_system="test-engine 1.0")
+        task_ops.clear("test-pe2")
+        task_ops.advance("test-pe2", "s0", actor="t", evidence="e")
+        with self.assertRaises(task_ops.PreconditionError):
+            task_ops.advance("test-pe2", "draft", actor="t", evidence="PE 轻编辑")
 
     def test_r3_independence_cross_actor_passes(self):
         # 评审线交叉（specs/005 §6）：r3 由初译以外 actor 执行即满足，无需冷置记明
@@ -368,7 +412,7 @@ class TestTaskOps(unittest.TestCase):
         self._qchain("test-u4", actor="rev")
         for step in ("s3", "r1", "r2"):
             task_ops.advance("test-u4", step, actor="rev", evidence="e")
-        task_ops.advance("test-u4", "r3", actor="rev", evidence="e",
+        task_ops.advance("test-u4", "r3", actor="rev2", evidence="e",
                          mandate="用户 2026-11-15 指定本会话终审（ADR-0054）")
         task_ops.advance("test-u4", "done", actor="t", evidence="e")
         with self.assertRaises(task_ops.PreconditionError):

@@ -114,3 +114,6 @@
 | [0080](0080-节点标识三层与状态名统一.md) | 节点标识三层与状态名统一（identifier／name／state 分离：`rules/naming.json` 单一事实源、22 号段含预留、pipeline id 换 identifier、历史 journal／steps 经 alias 不改写、tasks.state 按映射迁移＋重放分类不变校验、S7 命名词表谓词；复核计算否证“100% 重放”主张：803/1200，差异四类可归因） | accepted |
 | [0081](0081-全库置空与进度纪元.md) | 全库置空与进度纪元（用户 2026-11-25 裁定：既有中文译文全部截为 H1、1,200 条任务游标归零；journal／steps 事实不删不改，`rules/epoch.json` 声明进度纪元，进度视图与账实不变量只统计纪元后的 pass；逐件留痕报告） | superseded（0082） |
 | [0082](0082-置空翻译历史.md) | 置空翻译历史（用户追加授权：journal 1,199 文件 7,566 行截为 0、1,200 条任务 steps 6,536 条清空、state/axis 旧工单删除、撤除 epoch.json／epoch_lib 与三处纪元过滤；保留 state／version_pin／en／yuanwen／baseline／登记册；取代 ADR-0081 第 4 条） | accepted |
+| [0083](0083-规范登记册分层与版本校正.md) | 规范登记册分层与版本校正（`rules/standards.json` v2：cited／adopted／deviations／not_adopted；README 标准表由 `tools/standards_table.py` 生成；`verify_standards` 增 V5 引用可解析；按 specs/061 校正 12207:2026、15489/17100 修订中、18587 DIS、5060 2024-02 等并补登 15 项） | accepted |
+| [0084](0084-三审分离译后编辑定位与记录偏离.md) | 三审分离、译后编辑定位与记录偏离（D1=C 终审 actor 强制分离；D2=B LLM 辅助按译后编辑 ISO 18587／GB/T 40036，task 增 translation_mode／pe；D3=B 采 GB/T 19682 基本／特殊要求；D4=B 登记清史偏离并恢复未来留存；D5=B 术语概念层 baseline/term-concepts.md 先加定义与学科域） | accepted |
+| [0085](0085-补丁三出口判据与出处二分类.md) | 补丁三出口判据与出处二分类（`origin: upstream-typo｜converter-gap` 必填；Q1 规则可表达／Q2 同形跨件／Q3 影响可枚举三问定出口；`check_en_patches` 公共性探针；存量 P-001～P-003 判为 upstream-typo 留池） | accepted |

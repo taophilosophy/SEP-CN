@@ -16,6 +16,7 @@
 import argparse
 import json
 import os
+import re
 import sys
 
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.dirname(
@@ -47,6 +48,60 @@ def check_completeness(categories):
     return not empty and not missing, {"empty": empty, "missing_stage": missing}
 
 
+STD_RE = re.compile(
+    r"(?<![A-Za-z0-9])"
+    r"((?:GB/T|GB|CY/T|DA/T|ISO/IEC/IEEE|ISO/IEC|ISO|ASTM|SAE)\s*\d+(?:\.\d+)?(?:[.\-]\d+)?)")
+
+
+def _variants(tok):
+    """标准号的可能登记写法：全文、去年份、去分册、去分册与序号。"""
+    t = tok.strip()
+    out = {t}
+    m = re.match(r"^(.*?)[-:](\d{4})$", t)
+    if m:
+        out.add(m.group(1))
+        t = m.group(1)
+    m = re.match(r"^(.*?)\.\d+(-\d+)?$", t)
+    if m:
+        out.add(m.group(1))
+    m = re.match(r"^(.*?)-\d+$", t)
+    if m:
+        out.add(m.group(1))
+    return {x.replace(" ", "") for x in out}
+
+
+def check_citation_resolution(cited, not_adopted, texts):
+    """V5 引用可解析：正文出现的标准号必须能落到 cited／not_adopted 的 std_key。"""
+    keys = set()
+    for c in cited:
+        keys.update(k.replace(" ", "") for k in c.get("std_key", []))
+    for n in not_adopted:
+        keys.update(_variants(str(n.get("std", "")).split("（")[0]))
+    unresolved = []
+    for name, text in texts.items():
+        for m in STD_RE.finditer(text or ""):
+            if not (_variants(m.group(1)) & keys):
+                unresolved.append("%s:%s" % (name, m.group(1)))
+    return not unresolved, sorted(set(unresolved))
+
+
+def _rules_texts():
+    """rules 下非 ADR／非 reference 的 md 正文（ADR 保留年代名，不纳入扫描）。"""
+    base = repo_path("rules")
+    out = {}
+    for dirpath, dirnames, files in os.walk(base):
+        rel = os.path.relpath(dirpath, base).replace(os.sep, "/")
+        if rel.startswith("adr") or rel.startswith("reference"):
+            dirnames[:] = []
+            continue
+        for fn in files:
+            if fn.endswith(".md"):
+                p = os.path.join(dirpath, fn)
+                with open(p, encoding="utf-8") as f:
+                    out[os.path.relpath(p, base).replace(os.sep, "/")] = f.read()
+    return out
+
+
 def run():
     d = json.load(open(repo_path("rules", "standards.json"), encoding="utf-8"))
     adopted = d.get("adopted", [])
@@ -61,6 +116,10 @@ def run():
     ok, det = check_completeness(cats)
     rows.append({"prop": "完备性", "name": "五类规范覆盖流程环节", "ok": ok,
                  "detail": json.dumps(det, ensure_ascii=False)})
+    ok, det = check_citation_resolution(d.get("cited", []), d.get("not_adopted", []),
+                                        _rules_texts())
+    rows.append({"prop": "V5", "name": "规则正文标准号可解析到登记册", "ok": ok,
+                 "detail": "未解析=%s" % (det[:8] or "无")})
     return rows, len(adopted)
 
 
@@ -71,6 +130,9 @@ def selftest():
         ("N2-一致性", check_consistency(good + [{"id": "S1", "owner": "o2", "tool": "t2"}]),
          "重复 id"),
         ("N3-完备性", check_completeness({}), "空类别"),
+        ("N4-V5", check_citation_resolution(
+            [{"std_key": ["ISO 17100"]}], [],
+            {"a.md": "依 ISO 17100 与 GB/T 9999-2025"}), "未解析标准号"),
     ]
     ok = True
     for name, (passed, det), expect in cases:
