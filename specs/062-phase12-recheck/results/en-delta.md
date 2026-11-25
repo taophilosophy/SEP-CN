@@ -1,6 +1,6 @@
 # en/ 本轮变化性质分类
 
-变化文件 126，涉及词条 100；{"text": 65, "layout": 42, "rename-wave": 17, "binary": 1, "asset": 1}
+变化文件 126，涉及词条 100；{"text": 65, "layout": 40, "rename-wave": 17, "binary": 3, "asset": 1}
 
 | 词条 | 文件 | 判定 | 增删行 | 波纹行 | 框架行 | 其余 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -72,8 +72,8 @@
 | leibniz | index.html | layout | 2 | 0 | 0 | 2 |
 | linguistics | whorfianism.html | text | 16 | 0 | 6 | 10 |
 | logic-ancient | notes.html | text | 20 | 0 | 12 | 8 |
-| logic-deontic | fig-square-c.svg | layout | 194 | 0 | 0 | 194 |
-| logic-deontic | fig-three-c.svg | layout | 266 | 0 | 0 | 266 |
+| logic-deontic | fig-square-c.svg | binary | 0 | 0 | 0 | 0 |
+| logic-deontic | fig-three-c.svg | binary | 0 | 0 | 0 | 0 |
 | logic-deontic | index.html | text | 1333 | 0 | 6 | 1327 |
 | logic-deontic | notes.html | text | 822 | 0 | 6 | 816 |
 | logic-provability | notes.html | text | 12 | 0 | 6 | 6 |

@@ -77,7 +77,7 @@
 
 * **抓取**：1873/1873，0 抓取失败；unchanged 1351、账变化 522；耗时 1414 秒（16 路）。账变化的主体是 `local.js` 补登（存量文件入 `files[]`，盘面不变），磁盘真变化 126 文件／100 词条。
 * **转换**：1871 件成功；2 件因 Windows 文件占用 `PermissionError` 失败（frege-logic、scientific-reproducibility），补转后 I2 复核 **1873 件 0 issue**。
-* **磁盘变化分类**（`en_delta.py`）：`text` 65、`layout` 42、`rename-wave` 17、`binary` 1、`asset` 1（合计 126）。`text` 中的大改件与 10 件 `substantive_revision` 变更完全对应（justice-retributive、hume-moral、plato-sophstate、culture-cogsci、gorampa、logic-deontic、delusion、embodied-cognition、rule-following、schopenhauer）。
+* **磁盘变化分类**（`en_delta.py`）：`text` 65、`layout` 40、`rename-wave` 17、`binary` 3（含重导出的 2 件 SVG）、`asset` 1（合计 126；SVG 并入资产类，sha 变化即随钉替换，不建账）。`text` 中的大改件与 10 件 `substantive_revision` 变更完全对应（justice-retributive、hume-moral、plato-sophstate、culture-cogsci、gorampa、logic-deontic、delusion、embodied-cognition、rule-following、schopenhauer）。
 * **元数据**（`entry_meta_delta.py`）：29 件变化，其中 `substantive_revision` 变更 10 件（上游 2026-11-21～24 发布）。
 * **补丁**：3 条全部“有效”（命中 1/1），`mismatch 0`、`admission_bad 0`、`index_bad 0`、`public_candidates 0`；无需退役或改写。
 * **基线**：B3.1 重跑 1663／210，与旧基线集合零差（转好 0／转差 0）；B3.2 judge（旧池）pool 1780／gap 48／stale 45（叙述值，无落盘凭证），`--build` 重建池后 pool 1811／gap 62／stale 0；相对旧基线（1851／22／0）新增 gap 40、修复 0——新增族集中在本轮 `en` 变化件，待 053 线下批四出口处置。

@@ -11,7 +11,7 @@
 | 抓取 | 1873／1873，失败 0 | `entries-before.json` 与 `baseline/entries.json` 各 1873 条，slug 集零差 | 一致 |
 | 账变化 | 522（unchanged 1351） | 记录级差集 522 条：含 `local.js` 补登 430（仅补登 423、仅正文变化 92、兼有 7） | 一致 |
 | 磁盘变化 | 126 文件／100 词条 | `en-delta.json` rows 126／slugs 100；账侧非 js 实变路径 122 html＋1 png＋2 svg，另 1 件 `local.js` | 一致（口径见 R-2） |
-| 变化分类 | text 65／layout 42／rename-wave 17／binary 1／asset 1 | `en-delta.json` kinds 同值，合计 126 | 一致 |
+| 变化分类 | text 65／layout 42／rename-wave 17／binary 1／asset 1 | 原分类 kinds 同值、合计 126；SVG 并入资产类复跑后为 text 65／layout 40／rename-wave 17／binary 3／asset 1 | 一致（R-3 结案后口径） |
 | 建账清单 | 65 件 | 与 `kind=text` 集合 65 行同集，覆盖 54 词条 | 一致 |
 | 正式修订件 | 10 件全在建账清单 | 逐名核对 10／10 在册 | 一致 |
 | 元数据 | 29 件变化，10 件 `substantive_revision` | `entry-meta-delta.md` 29 行；10 件同上 | 一致 |
@@ -28,7 +28,7 @@
 
 ### R-1 文档数字错（已改）
 
-`spec.md` §5 两处写 `text 66`，实际 65；分类串漏 `asset 1`。原因：分类在 asset 类落地（voting-methods/local.js）前定稿。已改为 65／42／17／1／1（合计 126）与“65 件出建账清单”。
+`spec.md` §5 两处写 `text 66`，实际 65；分类串漏 `asset 1`。原因：分类在 asset 类落地（voting-methods/local.js）前定稿。SVG 归资产类后口径为 65／40／17／3／1（合计 126），与“65 件出建账清单”。
 
 ### R-2 图钉丢失（已修）
 
@@ -40,11 +40,11 @@
 
 建议（未实施）：`upsert_baseline` 改为并集保留——旧有而新抓包无者保留原记录（标记残件），避免每次上游修订都摘钉；`check_all.py` 增 `en_integrity` 门（HEAD 的 19 项门禁清单不含它，故门禁全绿掩盖了该硬发现）。
 
-### R-3 SVG 分类盲区（待裁）
+### R-3 SVG 分类（已结案）
 
-`logic-deontic` 的 `fig-square-c.svg`、`fig-three-c.svg` 被上游重导出：画布 206.33×179.51pt → 216.28×175.15pt、357.27×87pt → 367.22×83.91pt，图元引用 26→30、42→47。`en_delta.py` 判 `layout`（“可见文本逐字等值”），未入建账。
+`logic-deontic` 的 `fig-square-c.svg`、`fig-three-c.svg` 被上游重导出：画布 206.33×179.51pt → 216.28×175.15pt、357.27×87pt → 367.22×83.91pt，图元引用 26→30、42→47。旧判据把它们判成 `layout`，因为 SVG 无 text 节点、可见文本判据恒为空。
 
-成因：SVG 以 path 承载字形、无 text 节点，“可见文本”判据在 SVG 上恒为空，图形变化被一律吞作 layout。建议对 `.svg` 单列 `asset-visual` 类并人工过目；本次两图正文未变，不需重译，但应登记。
+用户 2026-11-25 裁定：图片资产 sha 变了就随钉替换入库，不建账、不过目。据此把 `.svg` 并入 `binary` 资产类（`en_delta.py` 已改，另增 `--base REV` 复跑参数）；复跑值：text 65／layout 40／rename-wave 17／binary 3／asset 1（合计 126）。残差：无。
 
 ### R-4 上游新错链（待处置）
 
@@ -83,4 +83,4 @@ pool 1780／gap 48／stale 45 只见于叙述，无落盘 JSON；算术自洽但
 
 ## 四、结论
 
-阶段 1.2 的实质数字（抓取、分类、建账面、补丁、I2、B3.1／B3.2）全部经独立复算成立；两处文档数字错误已订正，一处账实脱节（3 个旧图摘钉）已修复。剩余三项待办：R-3 SVG 分类口径、R-4 上游新错链出口、R-5／R-6 凭证与退出码口径。
+阶段 1.2 的实质数字（抓取、分类、建账面、补丁、I2、B3.1／B3.2）全部经独立复算成立；两处文档数字错误已订正，一处账实脱节（3 个旧图摘钉）已修复，SVG 分类按“随钉替换、不建账”结案。剩余两项待办：R-4 上游新错链出口、R-5／R-6 凭证与退出码口径。

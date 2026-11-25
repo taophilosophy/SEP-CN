@@ -3,16 +3,21 @@
 
 判据（按强度递减）：
 
-  new     新增文件（HEAD 无此路径）
-  layout  可见文本逐字等值，仅换行／标签属性／注释／模板重排
-  tokens  可见文本词元多重集等值但词序变（极罕见，人工核）
-  text    可见文本有实质改动（上游修订或改名传播），需逐件裁定
+  new           新增文件（基线无此路径）
+  layout        可见文本逐字等值，仅换行／标签属性／注释／模板重排
+  tokens        可见文本词元多重集等值但词序变（极罕见，人工核）
+  text          可见文本有实质改动（上游修订或改名传播），需逐件裁定
+  binary        图片／二进制资产（含 .svg）：sha 变化即随钉替换入库，不建账
+  asset         脚本／样式资产（sha 变化即随钉入库）
 
 辅助列：chrome（框架行）、rename（croce／history 改名波纹）的增删行数。
 
 输出：results/en-delta.json 与 results/en-delta.md。
-用法：python specs/062-phase12-recheck/bin/en_delta.py
+用法：
+  python specs/062-phase12-recheck/bin/en_delta.py            # 工作区 vs HEAD（抓取后未提交时）
+  python specs/062-phase12-recheck/bin/en_delta.py --base REV # REV..HEAD（已提交后复跑）
 """
+import argparse
 import html
 import json
 import os
@@ -56,7 +61,21 @@ def git(*args):
                           text=True, encoding='utf-8', errors='replace').stdout
 
 
-def changed_files():
+def changed_files(base=None):
+    """收集变化文件；base 给定时取 REV..HEAD（已提交复跑），否则工作区 vs HEAD。"""
+    if base:
+        out = git('diff', '--name-status', base, 'HEAD', '--', 'en/')
+        files = []
+        for line in out.splitlines():
+            parts = line.split('\t', 1)
+            if len(parts) < 2 or parts[0].strip() == 'D':
+                continue
+            path = parts[1].strip().strip('"')
+            if path.startswith('en/_catalog'):
+                continue
+            files.append(('M' if parts[0].strip() == 'M' else 'A',
+                          path.replace('\\', '/')))
+        return sorted(files)
     out = git('status', '--porcelain', '--', 'en/')
     files = []
     for line in out.splitlines():
@@ -68,12 +87,13 @@ def changed_files():
     return sorted(files)
 
 
-def per_file(st, path):
-    if path.lower().endswith(('.png', '.jpg', '.jpeg', '.gif', '.webp', '.ico', '.pdf', '.zip')):
-        return 'binary', Counter(), 0, 0   # 二进制资产：sha 变化即更新，无文字面
+def per_file(st, path, base=None):
+    if path.lower().endswith(('.png', '.jpg', '.jpeg', '.gif', '.webp', '.ico', '.pdf', '.zip', '.svg')):
+        return 'binary', Counter(), 0, 0   # 图片资产（含 SVG）：按 sha 随钉替换，无文字面
     if path.lower().endswith(('.js', '.css')):
         return 'asset', Counter(), 0, 0    # 脚本／样式资产（如 local.js 宏定义），不建账
-    old = git('show', 'HEAD:' + path) if st == 'M' else ''
+    rev = base + ':' + path if base else 'HEAD:' + path
+    old = git('show', rev) if st == 'M' else ''
     full = os.path.join(ROOT, path.replace('/', os.sep))
     new = open(full, encoding='utf-8', errors='replace').read() if os.path.exists(full) else ''
     o, n = visible(old), visible(new)
@@ -85,8 +105,9 @@ def per_file(st, path):
         kind = 'tokens'
     else:
         kind = 'text'
+    diff_args = ['-U0'] + ([base, 'HEAD'] if base else []) + ['--', path]
     c = Counter()
-    for line in git('diff', '-U0', '--', path).splitlines():
+    for line in git('diff', *diff_args).splitlines():
         if line[:3] in ('+++', '---') or line.startswith(('diff ', 'index ', '@@')):
             continue
         if line.startswith(('+', '-')):
@@ -98,10 +119,13 @@ def per_file(st, path):
 
 
 def main():
+    ap = argparse.ArgumentParser()
+    ap.add_argument('--base', help='REV..HEAD 复跑（抓取结果已提交后用）')
+    args = ap.parse_args()
     os.makedirs(RES, exist_ok=True)
     rows, kinds = [], Counter()
-    for st, path in changed_files():
-        kind, c, nops, wave = per_file(st, path)
+    for st, path in changed_files(args.base):
+        kind, c, nops, wave = per_file(st, path, args.base)
         kinds[kind] += 1
         slug = path.split('/')[1] if path.count('/') >= 2 else path
         rows.append({'path': path, 'slug': slug, 'status': st, 'kind': kind,

@@ -4,9 +4,9 @@
  "slugs": 100,
  "kinds": {
   "text": 65,
-  "layout": 42,
+  "layout": 40,
   "rename-wave": 17,
-  "binary": 1,
+  "binary": 3,
   "asset": 1
  },
  "rows": [
@@ -762,23 +762,23 @@
    "path": "en/logic-deontic/fig-square-c.svg",
    "slug": "logic-deontic",
    "status": "M",
-   "kind": "layout",
-   "ops": 194,
+   "kind": "binary",
+   "ops": 0,
    "wave": 0,
    "chrome": 0,
    "rename": 0,
-   "body": 194
+   "body": 0
   },
   {
    "path": "en/logic-deontic/fig-three-c.svg",
    "slug": "logic-deontic",
    "status": "M",
-   "kind": "layout",
-   "ops": 266,
+   "kind": "binary",
+   "ops": 0,
    "wave": 0,
    "chrome": 0,
    "rename": 0,
-   "body": 266
+   "body": 0
   },
   {
    "path": "en/logic-deontic/index.html",

@@ -18,9 +18,9 @@
 | 判定 | 文件数 | 含义 | 处置 |
 | --- | --- | --- | --- |
 | `text` | 65 | 可见文本实质改动 | 出建账清单（见 §六） |
-| `layout` | 42 | 逐字等值，仅换行／标签属性／注释／模板重排 | 不建账 |
+| `layout` | 40 | 逐字等值，仅换行／标签属性／注释／模板重排 | 不建账 |
 | `rename-wave` | 17 | 增删行全部是目录改名波纹（croce／history／privacy） | 不建账，随目录线 |
-| `binary` | 1 | 图片等二进制资产（berlin.png） | 随钉入库 |
+| `binary` | 3 | 图片资产（berlin.png＋重导出的 2 件 SVG） | 按 sha 随钉替换入库，不建账 |
 | `asset` | 1 | 脚本／样式资产（voting-methods/local.js） | 随钉入库 |
 
 `text` 中最大的六件与上游正式修订完全对应：justice-retributive（3725 行）、hume-moral（2580）、plato-sophstate（2098）、culture-cogsci（1849）、gorampa（1841）、logic-deontic（1333）。
@@ -155,7 +155,8 @@
 
 证据：`phase12-review.md`。要点：
 
-* 全部实质数字经独立复算成立（抓取 1873、账差 522、磁盘 126 文件／100 词条、分类 65／42／17／1／1、清单 65 件、I2 1873／0、B3.1 1663／210 集合零差、B3.2 新增 gap 40 修复 0 且 40 件全在变更集内）。
+* 全部实质数字经独立复算成立（抓取 1873、账差 522、磁盘 126 文件／100 词条、分类 65／40／17／3／1、清单 65 件、I2 1873／0、B3.1 1663／210 集合零差、B3.2 新增 gap 40 修复 0 且 40 件全在变更集内）。
 * 订正本文件两处口径：旧池 judge 标注“叙述值无凭证”；钉账资产改用抓取后口径（image 1474→1477、script 458）。
+* SVG 归资产类结案（用户 2026-11-25 裁定：sha 变了随钉替换，不建账不过目）：`.svg` 并入 `binary`，`en_delta.py` 增 `--base REV` 复跑参数。
 * 修复一处账实脱节：`logic-deontic` 重钉时 3 个旧图（`fig-box-b.svg`、`fig-square-b.svg`、`fig-vbox-a.svg`）被摘出 `files[]`，按 `registered_orphans` 口径恢复登记；`en_integrity --all` 硬发现由 4 降为 3（余项均既存）。
-* 新发现待处置：① 上游 2026-11-23 修订在 `aristotle-psychology/notes.html` 新引入双点错链 `index..html#ref-1`（建议补丁 P-004 或格式例外）；② `.svg` 重导出被判 `layout`（文本判据在 SVG 上为空），建议单列 `asset-visual`；③ `en_integrity` 未入 `check_all` 门禁，建议增门；④ `upsert_baseline` 整体替换 `files[]`，建议改为并集保留。
+* 待落项：① 上游 2026-11-23 修订在 `aristotle-psychology/notes.html` 新引入双点错链 `index..html#ref-1`，按补丁 P-004 处置；② `en_integrity` 入门禁；③ `upsert_baseline` 改为并集保留。
