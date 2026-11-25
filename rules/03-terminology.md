@@ -40,6 +40,8 @@
 （告警）；判据实现 `tools/term_pairing.py`，索引 `tools/build_term_pair_index.py` 预建。
 界面“精确匹配”通道（约 7 秒/词）与缓存配对是仅有的两种合法证据来源。
 
+**同形异义盯防**（ADR-0088 配套，2026-11-26；rv-01 术语轴逐条对照）：审定库对下列键收的是**另一学科义项**的同形词，正文不得拿审定义顶替哲学义，逐条对照 `specs/058-term-full-reextraction/results/homonym-watchlist-2026-11-26.tsv`：argumentation（论证，物理）、golden rule（黄金定则，物理）、recognition（再认，心理）、natural theology（自然神论＝deism）、folk psychology（民族心理学）、microworld（微观世界，物理）、world community（国际社会，世界史）、selection function（选择函数，天文）；Chancellor 属对口命中（大学校长），只需防学科误引。
+
 ### 非英语原文列查无留“—”为合规终态（ADR-0087，2026-11-26）
 
 原文列在来源页与权威工具书均查无显式配对时留“—”，视同研判完毕；检查器对该族输出

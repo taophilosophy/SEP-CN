@@ -55,8 +55,6 @@
 
 **术语轴**（ADR-0043，用户 2026-11-14 裁定）：逐词条对照两登记册（`shu-yu-biao.md`、`ren-ming-biao.md`）核验正文用词；未登记词按“先登记后使用”复查（[03](03-terminology.md)）；登记册生卒列等修正（specs/026 a2 W2）同步于本阶段。机检挂钩 `check_terms --docs`（硬错误拦，告警留 evidence）。**本环节每条告警按 [03](03-terminology.md)“差异五分类”定性（D1–D5）并给出三出口之一（修复／登记／豁免），禁止“看到了不处理”；修复以句/段为单位回源重译或逐处人工改，禁止机械替换；D3–D5 须联网查证并留凭证（[ADR-0048](adr/0048-术语落地差异处置标准.md)）。** MQM Terminology 归本环节。
 
-**同形异义盯防**（ADR-0088 配套，2026-11-26）：审定库对下列键收的是**另一学科义项**的同形词，正文不得拿审定义顶替哲学义，逐条对照 `specs/058-term-full-reextraction/results/homonym-watchlist-2026-11-26.tsv`：argumentation（论证，物理）、golden rule（黄金定则，物理）、recognition（再认，心理）、natural theology（自然神论＝deism）、folk psychology（民族心理学）、microworld（微观世界，物理）、world community（国际社会，世界史）、selection function（选择函数，天文）；Chancellor 属对口命中（大学校长），只需防学科误引。
-
 **体例轴**（[ADR-0063](adr/0063-中文体例归一入s2.4双轴与转换保真不变量.md)，2026-11-16 用户批准）——判定表：
 
 | 项 | 判据 | 档 |
