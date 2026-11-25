@@ -57,7 +57,7 @@
 
 ### 0.4 验收判据（概要，详见 §4）
 
-stages 60 项＋campaigns 6 项＋marks 8 项入册；check_stages 九条校验生效且经三个反例试金石验证；`stage_of.py` 可对全部 1873 件输出阶段；22 节点归属唯一；旧标记来源文件零改写；specs/062 加头注；ADR-0089 登记；`check_all` 全绿；提交即推。
+stages 60 项＋campaigns 6 项＋marks 8 项入册；check_stages 九条校验生效且经三个反例试金石验证；`stage_of.py` 可对全部 1873 件输出阶段；22 节点归属唯一；旧标记来源文件零改写；specs/062 加头注；ADR-0090 登记；`check_all` 全绿；提交即推。
 
 ## 1. 命名体系定案
 
@@ -165,7 +165,7 @@ stages 60 项＋campaigns 6 项＋marks 8 项入册；check_stages 九条校验�
 | specs/028 | campaign.rework-backfill | 受控回炉与回补 | specs/028、specs/030、specs/052 | ISO 5060（质量复核）、ISO 17100（复核独立性） | active |
 | specs/061 | campaign.standards-review | 标准对齐复核 | specs/061 | 自身即标准符合性评估，不另引标准 | registered |
 
-**正交性示例**（写入 ADR-0089 与 naming.json 注释）：EN 模板审计战役（specs/053）影响 1.2.7 与 1.3.4；回炉战役（specs/028）影响 3.1–3.9；术语提取（specs/058）影响 2.1 与 3.1。战役与阶段是多对多，不得嵌套编号。跨卡引用写“specs/053 战役”或 `campaign.en-template-audit`，不写裸字母号。
+**正交性示例**（写入 ADR-0090 与 naming.json 注释）：EN 模板审计战役（specs/053）影响 1.2.7 与 1.3.4；回炉战役（specs/028）影响 3.1–3.9；术语提取（specs/058）影响 2.1 与 3.1。战役与阶段是多对多，不得嵌套编号。跨卡引用写“specs/053 战役”或 `campaign.en-template-audit`，不写裸字母号。
 
 ### 1.5 ex 节点寄居表（修改后）
 
@@ -329,14 +329,14 @@ D1／D2 修正要点：ex-05 是**语法格式层检查**而非补丁应用；�
    ⑦ **预留完整性**：1.4–1.9／2.6–2.9／3.10–3.19／4.4–4.9 以 `reserved` 在册；已用号与 reserved 号不得重叠；retired 号不复用。
    ⑧ **映射完整性**：`state_stage_map` 的键集＝naming.json 中 state 非 null 的节点 state 集；值皆为存在的 stages 号。**另加写入禁令校验**：扫描 `tasks/` 与 `journal/` 不得出现阶段号／战役号模式。
    ⑨ **判据归属**（D17／CT9）：每条 `criteria_owner` 键恰出现在一个 stages 条目的 `criteria` 中，且 `stage(criteria) = stage(owner)`；stages 侧 `criteria` 集合等于反查结果集（双向相等，禁手编偏差）。
-2a. **公理化证明**（`results/axiomatic-completeness.md`）：论域基数、14 条公理 AX1–AX14、9 条定理 CT1–CT9、一致性模型、独立性反例、可判定性、5 项不可自证边界。覆盖审计（`results/flow-audit.md`）另查 8 项脱漏 G1–G8，已补 §1.11／§1.12 与第 ⑨ 谓词。公理→谓词映射表随 ADR-0089 入库。§4 判据以 CT1–CT9 为验收面。
+2a. **公理化证明**（`results/axiomatic-completeness.md`）：论域基数、14 条公理 AX1–AX14、9 条定理 CT1–CT9、一致性模型、独立性反例、可判定性、5 项不可自证边界。覆盖审计（`results/flow-audit.md`）另查 8 项脱漏 G1–G8，已补 §1.11／§1.12 与第 ⑨ 谓词。公理→谓词映射表随 ADR-0090 入库。§4 判据以 CT1–CT9 为验收面。
 3. **反例试金石**（rules/08 §9–12）：注入三个反例验证机检确拦——a）ex-04 归属改 1.2.4 应红；b）tr-03 子节改 2.4 撞 tr-04 应红；c）tasks 中植入字符串 `1.2.3` 应红。还原复跑应绿。evidence 落 `results/s7-probe.json`。
 4. **`tools/stage_of.py`（新增，D6）**：只读派生视图。
    - 单件：`python tools/stage_of.py <slug>` → 输出当前阶段号、name、label、`derived_from`（派生依据状态）、下一站。
    - 全库：`--all` → 阶段分布计数（按 stages 号聚合，供 PROGRESS 后续消费）。
    - 纪律：只读、不写盘、不修改 tasks；无状态节点按 §1.7 注取最近前驱。
-5. **specs/062 注记**：spec.md 首行下加一行“注（2026-11-26）：阶段 1＝源侧镜像与交割；1.1 两半段、1.2 八子节、1.3 四步交割（含 ex-04／ex-05 放行门）见 specs/063 与 ADR-0089”；sop.md 加一行“九步与 stages 子节的映射见 specs/063 §1.6”。正文不动。
-6. **ADR-0089**：`rules/adr/0089-阶段轨命名与线级标记登记.md`。内容：背景（§0.1–§0.2 摘要）、决策（四层标识、阶段派生原则、四段＋战役正交、ex 寄居表、九条 check_stages、stage_of 唯一入口）、后果（跨卡引用可机检、marks 冻结、战役与阶段不嵌套、ex-05 无状态位为已知缺口）、回退（naming.json 单文件、git revert 整体可退）。
+5. **specs/062 注记**：spec.md 首行下加一行“注（2026-11-26）：阶段 1＝源侧镜像与交割；1.1 两半段、1.2 八子节、1.3 四步交割（含 ex-04／ex-05 放行门）见 specs/063 与 ADR-0090”；sop.md 加一行“九步与 stages 子节的映射见 specs/063 §1.6”。正文不动。
+6. **ADR-0090**：`rules/adr/0090-阶段轨命名与线级标记登记.md`。内容：背景（§0.1–§0.2 摘要）、决策（四层标识、阶段派生原则、四段＋战役正交、ex 寄居表、九条 check_stages、stage_of 唯一入口）、后果（跨卡引用可机检、marks 冻结、战役与阶段不嵌套、ex-05 无状态位为已知缺口）、回退（naming.json 单文件、git revert 整体可退）。
 7. **指针登记**：specs/README.md 063 行（rev 3 描述）；`rules/04-translation-workflow.md`“节点标识与旧名”节末增阶段轨＋战役块＋stage_of 三行指针；AGENTS.md 按任务必读表与硬约束表各增指针（不复制数字）。**该步待并行会话收工后执行**（AGENTS.md／rules/04 当前有他人在途改动）。
 8. **后续项登记**（不在本卡实施）：①ex-05 状态位；②PROGRESS 增“阶段分布”节（消费 `stage_of --all`）；③spec 卡头“阶段／战役”字段模板（写入 `specs/README.md` 表列后续演进）。
 
@@ -349,7 +349,7 @@ D1／D2 修正要点：ex-05 是**语法格式层检查**而非补丁应用；�
 3. `stage_of.py` 对全部 1873 件输出阶段，无异常；`--all` 分布计数与 `tasks.state` 聚合一致（独立复算）。
 4. 22 节点归属唯一且与 §1.5 寄居表逐条一致；`check_all` 全绿（清单以 `--list-gates` 为准）。
 5. 每个 stages／campaigns 条目有标准对照，或“不适用”附理由（specs/061 §10 第 2 条）。
-6. marks 来源文件零改写；本卡 diff 触及面仅 `rules/naming.json`、`tools/check_stages.py`、`tools/stage_of.py`（新）、`specs/062…/spec.md`＋`sop.md`（各一行）、`specs/063…/`、`specs/README.md`、`rules/adr/0089…`、`rules/04…`、`AGENTS.md`。
+6. marks 来源文件零改写；本卡 diff 触及面仅 `rules/naming.json`、`tools/check_stages.py`、`tools/stage_of.py`（新）、`specs/062…/spec.md`＋`sop.md`（各一行）、`specs/063…/`、`specs/README.md`、`rules/adr/0090…`、`rules/04…`、`AGENTS.md`。
 7. 提交推送后 `git log origin/main..main` 为空；CI 为最终裁判。
 
 ## 5. 决策记录
@@ -369,7 +369,7 @@ D1／D2 修正要点：ex-05 是**语法格式层检查**而非补丁应用；�
 | 阶段与状态关系 | **阶段是派生视图，永不写入**（D6） |
 | 预留号 | 26＋3 项以 reserved 入册（D8） |
 | stages／campaigns／marks 登记处 | `rules/naming.json` 单一事实源 |
-| ADR 号 | 0089（0087／0088 已被术语线占用） |
+| ADR 号 | 0090（0087／0088／0089 已被术语线占用） |
 | 追溯登记 | 已完成战役以 registered 入册，不改原文 |
 | spec 号 | 063（062 已被阶段 1.1／1.2 占用） |
 
