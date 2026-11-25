@@ -282,7 +282,21 @@ ORIG_EDITORIAL_PAREN = frozenset({
     #   Great Learning（王阳明《大学问》）——键为英文题名，中文括注系同形异义分行标记（ADR-0048）
     #   Löwenheim–Skolem–Tarski theorem——英文定理名，含 ö 致 is_non_english 误命中
     'Great Learning（王阳明《大学问》）', 'Löwenheim–Skolem–Tarski theorem',
+    # 2026-11-25 补遗：英文题名＋作者括注（肯迪著作与“第一哲学”通名分行）
+    'On First Philosophy (al-Kindi)',
 })
+
+
+def _paren_norm(s):
+    """全角/半角括注归一：白名单按全角登记，登记册里半角写法也须命中。
+
+    2026-11-25 修：anarchy（国际关系）等 7 条早已在白名单，却因登记册写作半角
+    “anarchy(国际关系)”而继续告警——比对时未归一括号形态。
+    """
+    return s.replace('\uff08', '(').replace('\uff09', ')')
+
+
+ORIG_EDITORIAL_PAREN_N = frozenset(_paren_norm(x) for x in ORIG_EDITORIAL_PAREN)
 
 
 def orig_missing(rows):
@@ -295,7 +309,7 @@ def orig_missing(rows):
     for term, orig, _trans, _fs, _basis, _date, lineno in rows:
         if orig is not None and orig.strip() not in ORIG_BLANK:
             continue
-        if term in ORIG_EDITORIAL_PAREN:
+        if _paren_norm(term) in ORIG_EDITORIAL_PAREN_N:
             continue
         if is_non_english(term):
             out.append((term, lineno))

@@ -1607,7 +1607,7 @@
 | correspondence rules | — | 对应规则 | 语料回收（specs/058 全库提取） | 审定名词库（termonline-all，凭证 2026-11-23） | 2026-11-23 |
 | correspondence theory / correspondence theory of truth | — | 符合论（亦作“真理符合论”；词条题名依 SUMMARY 作“真理符合论”） | 语料回收（specs/058 全库提取） | 学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22）；2026-11-25 同概念并键（旧键 correspondence theory of truth，旧首现 首现（truth-coherence））；同形不同义：与 conformality theory（符合论，中世纪模态论）分列 | 2026-11-25 |
 | corroboration | — | 确认（亦作“验证”；degree of corroboration＝确认度） | 语料回收（lakatos 首译） | 波普尔研究通行译法（已在册佐证，批6 正文使用）；凭证 2026-11-06；FLAG 裁定 2026-11-21（联网凭证）：波普尔《实在论与科学的目标：科学发现的逻辑后记》中译“验证度”一节：作者自述弃“确证度”改“验证度”，并把“确证”让给证实主义者；据此 corroboration＝验证，与 confirmation theory 确证理论 分形；撞形改定 2026-11-21：波普尔中译两系并存（周煦良等译“确证”、后记中译“验证度”）；为避免与 validation＝验证（仿真 V&V 校核—验证—确认，GB/T 领域通行）及 confirmation＝确证 混同，主译取“确认”；撞形豁免 2026-11-21：波普尔科学哲学义，与藏传量论 ascertainment（nges pa）确认 同形异域，不合并 | 2026-11-21 |
-| corvée | — | 劳役制 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·世界历史·古代中世纪·东欧，2026-11-18 JWT 直连凭证）；原文列：工具书查无原生文字（2026-11-20 检 wisdomlib／GND／BDRC／84000／Logeion，均无“转写↔原生文字”显式配对，部分源不可达；映射表推演禁用，ADR-0030） | 2026-11-19 |
+| corvée | corvée | 劳役制 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·世界历史·古代中世纪·东欧，2026-11-18 JWT 直连凭证）；原文列：工具书查无原生文字（2026-11-20 检 wisdomlib／GND／BDRC／84000／Logeion，均无“转写↔原生文字”显式配对，部分源不可达；映射表推演禁用，ADR-0030）；2026-11-25 原文列补录：键即源语言原题（拉丁字母书写，无转写层），原文列＝键形 | 2026-11-25 |
 | cosmic cycle | — | 宇宙周期 | jaina-philosophy | 耆那宇宙论通行（升降各六期） | 2026-11-25 |
 | cosmogony | — | 宇宙生成论 | peirce-benjamin | 哲学通行译名（与“宇宙论”cosmology 分列）；凭证 2026-11-09 | 2026-11-09 |
 | Cosmogony (Ehrenfels) | — | 《宇宙发生论》 | 语料回收（specs/058 全库提取） | 本库译名（厄棱费尔著；在册 cosmogony 为概念行“宇宙生成论”，书加人物括注分键；语料 6 处一致；2026-11-24 核对，凭证 works-batch30-2026-11-24.md） | 2026-11-24 |
@@ -4296,8 +4296,8 @@
 | laws of revelation | — | 启示律法 | 首译（saadya） | 学界通行（与“理性律法”对举；源文 sam‘iyyât 字面“被听见者”）；凭证 2026-11-09 | 2026-11-09 |
 | Laws of Thought | — | 思维规律 | 首现（william-jevons） | 学界通行（19 世纪逻辑学通行译名，Jevons/Boole 语境） | 2026-11-07 |
 | Lazy Argument | — | 懒惰论证 | dialectical-school | 学界通行（“懒惰论证”通行译法）；凭证 2026-11-07 | 2026-11-07 |
-| Le Monde | — | 《世界》 | 语料回收（specs/058 全库提取） | 本库译名（笛卡尔遗著，Clerselier 编；语料 18 处一致）（2026-11-24 语料核对，凭证 works-batch24-2026-11-24.md） | 2026-11-24 |
-| Le Système du Monde | — | 《世界体系》 | 语料回收（specs/058 全库提取） | 本库译名（迪昂十卷本科学史，1913–1959；语料 6 处一致）（2026-11-24 语料核对，凭证 works-batch31-2026-11-24.md） | 2026-11-24 |
+| Le Monde | Le Monde | 《世界》 | 语料回收（specs/058 全库提取） | 本库译名（笛卡尔遗著，Clerselier 编；语料 18 处一致）（2026-11-24 语料核对，凭证 works-batch24-2026-11-24.md）；2026-11-25 原文列补录：键即源语言原题（拉丁字母书写，无转写层），原文列＝键形 | 2026-11-25 |
+| Le Système du Monde | Le Système du Monde | 《世界体系》 | 语料回收（specs/058 全库提取） | 本库译名（迪昂十卷本科学史，1913–1959；语料 6 处一致）（2026-11-24 语料核对，凭证 works-batch31-2026-11-24.md）；2026-11-25 原文列补录：键即源语言原题（拉丁字母书写，无转写层），原文列＝键形 | 2026-11-25 |
 | leader election problem | — | 首领选举问题 | s/social-procedures 首译 | 学界通行译法（分布式计算通行）；凭证 2026-11-07 | 2026-11-07 |
 | leaf node | — | 叶节点 | 语料回收（specs/058 全库提取） | 审定名词库（termonline-all，凭证 2026-11-24） | 2026-11-24 |
 | league of nations | — | 国联（诸国联盟） | 首译（cosmopolitanism） | 康德术语学界通行（Völkerbund，非 20 世纪国际联盟）；凭证 2026-11-09 | 2026-11-09 |
@@ -5684,7 +5684,7 @@
 | ownership | — | 所有权 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·农业经济与管理·农业制度经济，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | Oxford Calculators | — | 牛津计算者 | kilvington | 主会话直译收口 de6bb4b1；凭证 2026-11-04 | 2026-11-04 |
 | Oxford Realists | — | 牛津实在论者 | penbygull | 学界通行（中世纪后期实在论研究文献）；凭证 2026-11-09 | 2026-11-09 |
-| Œuvres théologiques | — | 《神学著作集》 | 语料回收（specs/058 全库提取） | 本库译名（奥卡姆神学著作编本；语料 6 处一致，正文多作卷页引）（2026-11-24 语料核对，凭证 works-batch31-2026-11-24.md） | 2026-11-24 |
+| Œuvres théologiques | Œuvres théologiques | 《神学著作集》 | 语料回收（specs/058 全库提取） | 本库译名（奥卡姆神学著作编本；语料 6 处一致，正文多作卷页引）（2026-11-24 语料核对，凭证 works-batch31-2026-11-24.md）；2026-11-25 原文列补录：键即源语言原题（拉丁字母书写，无转写层），原文列＝键形 | 2026-11-25 |
 | ω-consistency | ω-consistency | ω-一致性（亦作“ω-相容性”） | logic-provability | 数理逻辑通行（复旦大学出版社《数理逻辑·证明及其限度》§9.4.2 与科学出版社《哥德尔不完全性定理》第 5 章均用“ω-一致性”；审定库数学名词作“ω相容性”，降为亦作；2026-11-14 权威译本联网复核） | 2026-11-14 |
 | ω-provability | ω-provability | ω-可证性 | logic-provability | 本词条定案（Japaridze GLB） | 2026-11-05 |
 
@@ -5813,7 +5813,7 @@
 | pedigree | — | 系谱 | genetics | 遗传学通行译名；凭证 2026-11-11（主会话直译 g/genetics） | 2026-11-11 |
 | peer disagreement | — | 同侪分歧 | 首现（religion-epistemology） | 知识论通行汉译；凭证 2026-11-08 | 2026-11-08 |
 | Pelagianism | — | 佩拉纠主义 | gregory-rimini | 教父学通行（Pelagius 佩拉纠）；凭证 2026-11-10 | 2026-11-10 |
-| Pensées diverses sur la comète | — | 《关于彗星的种种思考》 | 语料回收（specs/058 全库提取） | 本库译名（培尔著，1682；语料 6 处一致）（2026-11-24 联网／语料核对，凭证 works-batch30-2026-11-24.md） | 2026-11-24 |
+| Pensées diverses sur la comète | Pensées diverses sur la comète | 《关于彗星的种种思考》 | 语料回收（specs/058 全库提取） | 本库译名（培尔著，1682；语料 6 处一致）（2026-11-24 联网／语料核对，凭证 works-batch30-2026-11-24.md）；2026-11-25 原文列补录：键即源语言原题（拉丁字母书写，无转写层），原文列＝键形 | 2026-11-25 |
 | Pensées philosophiques | Pensées philosophiques | 《哲学思想录》（狄德罗） | 语料回收 | 学界惯例（狄德罗著作译名）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
 | pensionary | pensionaris | 议政官 | grotius | 荷兰史通行汉译（Grand Pensionary 大议政官同系）；凭证 2026-11-12 | 2026-11-12 |
 | per prius et posterius | per prius et posterius | 在先与在后意义上（保留拉丁） | analogy-medieval 首译 | 学界惯例（中世纪类比理论标志性表述）；凭证 2026-11-08 | 2026-11-08 |
@@ -6783,7 +6783,7 @@
 | reflective judgment | — | 反思判断（力） | kant-science | 邓晓芒/李秋零译本通行 | 2026-11-05 |
 | reflective knowledge | — | 反思知识 | 语料回收（f20 审计 2026-11-25） | 德性认识论通行（Sosa 层次说）；凭证 2026-11-25 | 2026-11-25 |
 | reflex reaction | — | 反射反应 | gomez-pereira | 生理学通行；凭证 2026-11-12 | 2026-11-12 |
-| Réflexions critiques | — | 《批判反思》 | 语料回收（specs/058 全库提取） | 本库译名（杜博斯著，1719；全题《诗与画批判反思》；语料 18 处一致）（2026-11-24 语料核对，凭证 works-batch24-2026-11-24.md） | 2026-11-24 |
+| Réflexions critiques | Réflexions critiques | 《批判反思》 | 语料回收（specs/058 全库提取） | 本库译名（杜博斯著，1719；全题《诗与画批判反思》；语料 18 处一致）（2026-11-24 语料核对，凭证 works-batch24-2026-11-24.md）；2026-11-25 原文列补录：键即源语言原题（拉丁字母书写，无转写层），原文列＝键形 | 2026-11-25 |
 | reflexive awareness | — | 自证 | gelukpa | 藏传佛教通译（rang rig）；撞形豁免 2026-11-21：同形异语／同概念异形，按条目语境区分，不合并 | 2026-11-21 |
 | reflexive philosophy | — | 反省哲学 | ricoeur | 法国哲学传统（philosophie réflexive）；学界惯例；凭证 2026-11-11 | 2026-11-11 |
 | reflexive pronoun | — | 反身代词 | anscombe 首现 | 语法学通行（indirect reflexive＝间接反身代词）；凭证 2026-11-12 | 2026-11-12 |
@@ -8402,7 +8402,7 @@
 | trait | — | 特质 | justice-moral-psych | 人格心理学通行（与“状态”对举）；凭证 2026-11-10 | 2026-11-10 |
 | trait (biological) | — | 性状 | genetics | 遗传学通行译名（与人格心理学“特质”分立）；凭证 2026-11-11（主会话直译 g/genetics） | 2026-11-11 |
 | trait gratitude | — | 特质感恩 | justice-moral-psych | 人格心理学通行译法（与“状态感恩”对举）；凭证 2026-11-10 | 2026-11-10 |
-| Traité de l’Esprit de l’Homme | — | 《论人的心灵》 | 语料回收（specs/058 全库提取） | 本库译名（拉弗尔热著，1666；语料 11 处一致）（2026-11-24 联网／语料核对，凭证 works-batch26-2026-11-24.md） | 2026-11-24 |
+| Traité de l’Esprit de l’Homme | Traité de l’Esprit de l’Homme | 《论人的心灵》 | 语料回收（specs/058 全库提取） | 本库译名（拉弗尔热著，1666；语料 11 处一致）（2026-11-24 联网／语料核对，凭证 works-batch26-2026-11-24.md）；2026-11-25 原文列补录：键即源语言原题（拉丁字母书写，无转写层），原文列＝键形 | 2026-11-25 |
 | trans-specific polymorphism | — | 跨种多态性 | ecological-genetics 首译 | 学界通行译名（分子进化文献）；凭证 2026-11-10 | 2026-11-10 |
 | transaction cost | — | 交易成本 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·经济学·制度经济学，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | transcendence | — | 超越 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·心理学，2026-11-18 JWT 直连凭证） | 2026-11-19 |
@@ -8879,7 +8879,7 @@
 | war of position | — | 阵地战 | gramsci | 葛兰西军事比喻术语，学界通行译名；凭证 2026-11-11（主会话直译 g/gramsci） | 2026-11-11 |
 | Warden of the Mint | — | 造币局督办 | newton | 英国史通行汉译（与 Master of the Mint 造币局局长分级）；凭证 2026-11-08 | 2026-11-08 |
 | warrant | — | 保证（普兰丁格认识论语境；勿译“担保”） | 词汇表复核 | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核在案（同名噪声/辅助档差异，保留现译 2026-10-29） | 2026-10-27 |
-| Was heißt: sich im Denken orientiren? | — | 《什么叫做在思维中定向？》 | 语料回收（specs/058 全库提取） | 本库译名（康德著，1786；语料 7 处一致）（2026-11-24 语料核对，凭证 works-batch31-2026-11-24.md） | 2026-11-24 |
+| Was heißt: sich im Denken orientiren? | Was heißt: sich im Denken orientiren? | 《什么叫做在思维中定向？》 | 语料回收（specs/058 全库提取） | 本库译名（康德著，1786；语料 7 处一致）（2026-11-24 语料核对，凭证 works-batch31-2026-11-24.md）；2026-11-25 原文列补录：键即源语言原题（拉丁字母书写，无转写层），原文列＝键形 | 2026-11-25 |
 | wave function | — | 波函数 | qm | 学界惯例（物理学通行；审定库检索无命中）；凭证 2026-11-11 | 2026-11-11 |
 | weak anthropic principle | — | 弱人择原理（审定只收“人择原理”） | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | weak completeness | — | 弱完全性 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |

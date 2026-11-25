@@ -79,6 +79,13 @@ class CheckTermsTests(unittest.TestCase):
         self.assertNotIn('非英语术语缺原文: 人名表 al-Fārābī', out)
         self.assertNotIn('非英语术语缺原文: 人名表 Ibn Sīnā', out)
 
+    def test_editorial_paren_whitelist_ignores_paren_width(self):
+        # 2026-11-25：白名单按全角括注登记，登记册里半角写法曾继续告警（7 条）
+        from tools import check_terms as ct
+        rows = [('anarchy(国际关系)', '—', '无政府状态', 'x', 'b', '2026-01-01', 1),
+                ('anarchy（国际关系）', '—', '无政府状态', 'x', 'b', '2026-01-01', 2)]
+        self.assertEqual(ct.orig_missing(rows), [])
+
     def test_slug_in_translation_column_is_hard_error(self):
         # 2026-11-10 补遗：合并脚本曾把来源 slug 写进译法列，slug 被当译法变体比对，
         # 造成滞后伪欠账（lvov-warsaw / cancer / logical-consequence 三例）。
