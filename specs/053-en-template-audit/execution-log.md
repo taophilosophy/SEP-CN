@@ -561,3 +561,13 @@ B3.1 回归：不动点 **1,435/1,873（76.6%）**（此前 1,240，＋195，无
 **实测**：全量双通道 **pool 1,811→1,851（98.8%）／gap 62→22／stale 0**，池占页 **49.66%→51.26%**，judge 与建池逐件同值；delta＝gap→pool 41、**失池 1（croce-aesthetics：本克隆无 en 包，环境缺件，池文件不动）**；B3.1 **1,662→1,663（+2 机制归因：linguistics、qualia-inverted）0 转红**（croce-aesthetics ok→缺件、他线新增 `croce` 条目 fail，净 −1；1,662−1+2=1,663 对齐）；check_all 17 项全绿；`assembly-trial.json` 随批刷新为全量结果（此前留在 16 件试金石形态）。缺口 22 分族 **md_extra 19／h0_extra 2／error 1**；md_extra 子族（`fam_md_extra2.py` 复算）**emph 5／link 4／math 3／table 3／dl 2／bq 2**，text 族清零。
 
 **教训**：①“同一元素被两条扫描路各消费一次”是结构账最隐蔽的错位源——跨度的平衡扫描与逐子表扫描必须共用消费位；②“空壳”与“有子表但本层无字”是两种形态，占位判据要落到 `t` 这类显式标记，不能靠“有没有文字”推断；③**账的位次不等于出现数**：md 可以有 H0 没有的段（正文层多余），任何“第 k 次出现取账第 k 项”的取法在被丢段之后必整体漂移，正确做法是用内容锚定而不是数数；④失败补丁要回滚——“计数对齐筛除”是错误假设驱动的补丁（实测两口径同为 339），它的唯一作用是撤掉必需账，用局部筛除掩盖位次模型错误正是不该做的（ADR-0039 同缺口二发升级防线的反例）；⑤“H0 有、md 无”或“H0 无、md 有”的边角文字，去重键必须按**可见文**（剥标签解实体）建，按原文建键在含链接的尾字上必失配。
+
+## 2026-11-25 第四十四批：B 族账本随 en/ 刷新、补丁作用面按文件（池 1,811→1,852、gap 62→21、B3.1 1,663 不变）
+
+**缺陷**：本轮不是池规则缺陷，而是**账本冻结与 en/ 不同时点**。specs/062 阶段 1.2 重抓只重建了补集池，版面账与结构账仍是抓取前值：①版面账 `copyright_year`/`site_year`/`era` 陈旧（25 件，页脚版权年 2025→2026 的年度滚动为主，croce-aesthetics→croce 改名）；②结构账 `rel_items`/`hids` 陈旧（51 件，含 8 件目录改名波纹的相关条目显示文本）。B3.2 把这些陈旧账连同真实结构变化一起报成 62 件 gap，其中 40 件是纯账本时点造成的假阳性（32 件年份/era、8 件改名波纹）。
+
+**修法**：①`page_layout.py` 全量重建（重跑 25 件逐字段复核：年份/修订日/作者/era 迁移，无异常字段）；②`article_ledger.py` 增 `--slugs`/`--drop` 增量合并（账冻结纪律：只改指定词条），按 en-delta 变更清单刷 101 件并删陈旧 slug；③连带修两处补丁集成——`yuanwen.apply_en_patches` 按**文件限定**作用面（原实现把本词条全部补丁套到 index.html，notes.html 补丁必报命中 0），notes/supplement 转换同接补丁；`reassemble.py` 求值视图的 notes.html 也吃补丁（P-004 判例：否则 C(R(md)) 用原文再生脚注回链、md 侧已是补丁后形态 → 不动点假破）；④池全量重建后终判。
+
+**实测**：**pool 1,811→1,852（98.9%）／gap 62→21／stale 0**，池占页 **50.12%→51.17%**；与上基线集合差＝转好 40（40 件假阳性 gap 全部回池）、转差 0，另有 croce-aesthetics 缺件旧 gap 随改名退役（新词条 croce 入池）；B3.1 **1,663／210 集合零变**；剩余 21 缺口为既存 W 族残差（anaphora、augustine、baudrillard、berlin、consciousness-intentionality、criminal-law、diagrams、game-theory、heytesbury、logic-intensional、metaphysics-massexpress、propositional-function、pufendorf、scottus-eriugena、shared-agency、singular-terms-medieval、suicide、time、truth-correspondence、typelogical-grammar、wilhelm-humboldt），族分类见 `results/gap-probe-2026-11-25.json`（探针 `bin/gap_probe.py`）。工具面：`specs/062 bin/oldpool_judge.py` 以第 43 批池内存重判复现 1780/48/45（阶段 1.2 叙述值的凭证）；`specs/062 bin/phase12.py` 增 `--rebuild-b3`（两账→B3.1→池重建→终判）与 `convert_retry` 自动补转。
+
+**教训**：①**账本刷新必须与 en/ 更新同批**——B3.2 的 gap 是「账 ≠ H0」的合并信号，判 gap 前先核对账本时点，否则假阳性混入四出口清单；②补丁的作用面以补丁头 `file` 为准，按 slug 套全部补丁会让跨文件补丁必失败，转换层与求值视图（B3.1/审计器）必须同吃补丁、同按文件取用；③页脚版权年是年度滚动字段，年度之交全量重抓后预期出现一大批年份 gap，属可预期噪声。

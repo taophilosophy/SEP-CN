@@ -1,0 +1,1349 @@
+{
+ "schema": "sep-cn-gap-probe/1",
+ "count": 21,
+ "results": [
+  {
+   "slug": "anaphora",
+   "page_len": 134133,
+   "asm_len": 131268,
+   "skipped": null,
+   "segs": [
+    1807,
+    1994
+   ],
+   "status": "gap",
+   "mismatch": [
+    {
+     "i": 172,
+     "kinds": [
+      "u",
+      "m"
+     ],
+     "reason": "kind-mismatch",
+     "a": "\nJohn is down by the bank of the river.",
+     "b": "<dt id=\"ex1\">",
+     "diff": [
+      {
+       "op": "replace",
+       "a": "\nJohn is down by the bank of the river.",
+       "b": "<dt id=\"ex1\">"
+      },
+      {
+       "op": "delete",
+       "a": "\nJohn is down by the bank of the river.",
+       "b": "<dt id=\"ex1\">"
+      },
+      {
+       "op": "replace",
+       "a": "\nJohn is down by the bank of the river.",
+       "b": "<dt id=\"ex1\">"
+      }
+     ]
+    },
+    {
+     "i": 173,
+     "kinds": [
+      "m",
+      "u"
+     ],
+     "reason": "kind-mismatch",
+     "a": "</p>\n",
+     "b": "(1)\n",
+     "diff": [
+      {
+       "op": "replace",
+       "a": "</p>\n",
+       "b": "(1)\n"
+      }
+     ]
+    }
+   ],
+   "first_index": 172
+  },
+  {
+   "slug": "augustine",
+   "page_len": 230812,
+   "asm_len": 230775,
+   "skipped": null,
+   "segs": [
+    1712,
+    1714
+   ],
+   "status": "gap",
+   "mismatch": [
+    {
+     "i": 607,
+     "kinds": [
+      "u",
+      "m"
+     ],
+     "reason": "kind-mismatch",
+     "a": "Spanish",
+     "b": "<h4>",
+     "diff": [
+      {
+       "op": "replace",
+       "a": "Spanish",
+       "b": "<h4>"
+      },
+      {
+       "op": "insert",
+       "a": "Spanish",
+       "b": "<h4>"
+      }
+     ]
+    },
+    {
+     "i": 608,
+     "kinds": [
+      "m",
+      "u"
+     ],
+     "reason": "kind-mismatch",
+     "a": "</li>\n\n",
+     "b": "Spanish",
+     "diff": [
+      {
+       "op": "replace",
+       "a": "</li>\n\n",
+       "b": "Spanish"
+      },
+      {
+       "op": "replace",
+       "a": "</li>\n\n",
+       "b": "Spanish"
+      }
+     ]
+    }
+   ],
+   "first_index": 607
+  },
+  {
+   "slug": "baudrillard",
+   "page_len": 115698,
+   "asm_len": 112998,
+   "skipped": null,
+   "segs": [
+    927,
+    929
+   ],
+   "status": "gap",
+   "mismatch": [
+    {
+     "i": 527,
+     "kinds": [
+      "u",
+      "m"
+     ],
+     "reason": "kind-mismatch",
+     "a": "Secondary Literature",
+     "b": "<div id=\"bibliography\">\n\n",
+     "diff": [
+      {
+       "op": "replace",
+       "a": "Secondary Literature",
+       "b": "<div id=\"bibliography\">\n\n"
+      },
+      {
+       "op": "replace",
+       "a": "Secondary Literature",
+       "b": "<div id=\"bibliography\">\n\n"
+      },
+      {
+       "op": "replace",
+       "a": "Secondary Literature",
+       "b": "<div id=\"bibliography\">\n\n"
+      }
+     ]
+    },
+    {
+     "i": 529,
+     "kinds": [
+      "m",
+      "u"
+     ],
+     "reason": "kind-mismatch",
+     "a": "<ul>",
+     "b": "Bibliography",
+     "diff": [
+      {
+       "op": "replace",
+       "a": "<ul>",
+       "b": "Bibliography"
+      },
+      {
+       "op": "replace",
+       "a": "<ul>",
+       "b": "Bibliography"
+      }
+     ]
+    }
+   ],
+   "first_index": 527
+  },
+  {
+   "slug": "berlin",
+   "page_len": 191323,
+   "asm_len": 190535,
+   "skipped": null,
+   "segs": [
+    1703,
+    1724
+   ],
+   "status": "gap",
+   "mismatch": [
+    {
+     "i": 164,
+     "kinds": [
+      "m",
+      "u"
+     ],
+     "reason": "kind-mismatch",
+     "a": "<p>\n",
+     "b": "<em>Isaiah Berlin, 18 July 1968\n<br />\nPhoto by Helen Muspratt, Ramsey and Muspratt\n<br />\n&copy; The Trustees of the Isaiah Berlin Literary Trust</em>",
+     "diff": [
+      {
+       "op": "replace",
+       "a": "<p>\n",
+       "b": "<em>Isaiah Berlin, 18 July 1968\n<br />\nPhoto by Helen Muspratt, Ramsey and Muspratt\n<br />\n&copy; The Trustees of the Isaiah Berlin Literary Trust</em>"
+      },
+      {
+       "op": "insert",
+       "a": "<p>\n",
+       "b": "<em>Isaiah Berlin, 18 July 1968\n<br />\nPhoto by Helen Muspratt, Ramsey and Muspratt\n<br />\n&copy; The Trustees of the Isaiah Berlin Literary Trust</em>"
+      }
+     ]
+    },
+    {
+     "i": 165,
+     "kinds": [
+      "u",
+      "m"
+     ],
+     "reason": "kind-mismatch",
+     "a": "<em>Isaiah Berlin, 18 July 1968 Photo by Helen Muspratt, Ramsey and\nMuspratt &copy; The Trustees of the Isaiah Berlin Literary Trust</em>",
+     "b": "</p>\n",
+     "diff": [
+      {
+       "op": "delete",
+       "a": "<em>Isaiah Berlin, 18 July 1968 Photo by Helen Muspratt, Ramsey and\nMuspratt &copy; The Trustees of the Isaiah Berlin Literary Trust</em>",
+       "b": "</p>\n"
+      },
+      {
+       "op": "replace",
+       "a": "lin, 18 July 1968 Photo by Helen Muspratt, Ramsey and\nMuspratt &copy; The Trustees of the Isaiah Berlin Literary Trust</em>",
+       "b": "</p>\n"
+      },
+      {
+       "op": "insert",
+       "a": ", 18 July 1968 Photo by Helen Muspratt, Ramsey and\nMuspratt &copy; The Trustees of the Isaiah Berlin Literary Trust</em>",
+       "b": "</p>\n"
+      }
+     ]
+    }
+   ],
+   "first_index": 164
+  },
+  {
+   "slug": "consciousness-intentionality",
+   "page_len": 232570,
+   "asm_len": 232610,
+   "skipped": null,
+   "segs": [
+    1577,
+    1577
+   ],
+   "status": "gap",
+   "mismatch": [
+    {
+     "i": 178,
+     "kinds": [
+      "u",
+      "m"
+     ],
+     "reason": "kind-mismatch",
+     "a": "\nThis entry includes the following supplementary documents linked into\nthe text, as described above.",
+     "b": "<div id=\"toc\">\n\n",
+     "diff": [
+      {
+       "op": "replace",
+       "a": "\nThis entry includes the following supplementary documents linked into\nthe text, as described above.",
+       "b": "<div id=\"toc\">\n\n"
+      },
+      {
+       "op": "replace",
+       "a": "\nThis entry includes the following supplementary documents linked into\nthe text, as described above.",
+       "b": "<div id=\"toc\">\n\n"
+      },
+      {
+       "op": "delete",
+       "a": "\nThis entry includes the following supplementary documents linked into\nthe text, as described above.",
+       "b": "<div id=\"toc\">\n\n"
+      }
+     ]
+    },
+    {
+     "i": 182,
+     "kinds": [
+      "u",
+      "u"
+     ],
+     "reason": "ukey-diff",
+     "a": "<a href=\"arguments-intentionalism.html\">Arguments for Intentionalism</a>",
+     "b": "<a href=\"#InteCons\">1. The Interpretation of &ldquo;Consciousness&rdquo;</a>",
+     "diff": [
+      {
+       "op": "replace",
+       "a": "<a href=\"arguments-intentionalism.html\">Arguments for Intentionalism</a>",
+       "b": "<a href=\"#InteCons\">1. The Interpretation of &ldquo;Consciousness&rdquo;</a>"
+      },
+      {
+       "op": "replace",
+       "a": "<a href=\"arguments-intentionalism.html\">Arguments for Intentionalism</a>",
+       "b": "<a href=\"#InteCons\">1. The Interpretation of &ldquo;Consciousness&rdquo;</a>"
+      },
+      {
+       "op": "delete",
+       "a": "<a href=\"arguments-intentionalism.html\">Arguments for Intentionalism</a>",
+       "b": "<a href=\"#InteCons\">1. The Interpretation of &ldquo;Consciousness&rdquo;</a>"
+      }
+     ]
+    }
+   ],
+   "first_index": 178
+  },
+  {
+   "slug": "criminal-law",
+   "page_len": 137266,
+   "asm_len": 136621,
+   "skipped": null,
+   "segs": [
+    1192,
+    1217
+   ],
+   "status": "gap",
+   "mismatch": [
+    {
+     "i": 346,
+     "kinds": [
+      "u",
+      "m"
+     ],
+     "reason": "kind-mismatch",
+     "a": "<strong>(W)</strong>",
+     "b": "<dt>",
+     "diff": [
+      {
+       "op": "replace",
+       "a": "<strong>(W)</strong>",
+       "b": "<dt>"
+      },
+      {
+       "op": "delete",
+       "a": "<strong>(W)</strong>",
+       "b": "<dt>"
+      },
+      {
+       "op": "delete",
+       "a": "<strong>(W)</strong>",
+       "b": "<dt>"
+      }
+     ]
+    },
+    {
+     "i": 347,
+     "kinds": [
+      "m",
+      "u"
+     ],
+     "reason": "kind-mismatch",
+     "a": "</p>\n\n",
+     "b": "(W)",
+     "diff": [
+      {
+       "op": "replace",
+       "a": "</p>\n\n",
+       "b": "(W)"
+      }
+     ]
+    }
+   ],
+   "first_index": 346
+  },
+  {
+   "slug": "diagrams",
+   "page_len": 161560,
+   "asm_len": 156349,
+   "skipped": null,
+   "segs": [
+    1557,
+    1566
+   ],
+   "status": "gap",
+   "mismatch": [
+    {
+     "i": 439,
+     "kinds": [
+      "m",
+      "u"
+     ],
+     "reason": "kind-mismatch",
+     "a": "<p>\n",
+     "b": "<span class=\"figlabel\">Figure 1:</span> Euler Diagrams",
+     "diff": [
+      {
+       "op": "insert",
+       "a": "<p>\n",
+       "b": "<span class=\"figlabel\">Figure 1:</span> Euler Diagrams"
+      },
+      {
+       "op": "insert",
+       "a": "<p>\n",
+       "b": "<span class=\"figlabel\">Figure 1:</span> Euler Diagrams"
+      },
+      {
+       "op": "replace",
+       "a": "<p>\n",
+       "b": "<span class=\"figlabel\">Figure 1:</span> Euler Diagrams"
+      }
+     ]
+    },
+    {
+     "i": 440,
+     "kinds": [
+      "u",
+      "m"
+     ],
+     "reason": "kind-mismatch",
+     "a": "<em>Figure 1:</em> Euler Diagrams",
+     "b": "</p>\n",
+     "diff": [
+      {
+       "op": "delete",
+       "a": "<em>Figure 1:</em> Euler Diagrams",
+       "b": "</p>\n"
+      },
+      {
+       "op": "replace",
+       "a": "<em>Figure 1:</em> Euler Diagrams",
+       "b": "</p>\n"
+      },
+      {
+       "op": "replace",
+       "a": "<em>Figure 1:</em> Euler Diagrams",
+       "b": "</p>\n"
+      }
+     ]
+    }
+   ],
+   "first_index": 439
+  },
+  {
+   "slug": "game-theory",
+   "page_len": 391654,
+   "asm_len": 384514,
+   "skipped": null,
+   "segs": [
+    2736,
+    2746
+   ],
+   "status": "gap",
+   "mismatch": [
+    {
+     "i": 330,
+     "kinds": [
+      "m",
+      "u"
+     ],
+     "reason": "kind-mismatch",
+     "a": "<p>",
+     "b": " \n\\[\\begin{align}\n\\text{bundle } a &amp;\\gg 3 \\\\\n\\text{bundle } b &amp;\\gg 2 \\\\\n\\text{bundle } c &amp;\\gg 1\n\\end{align}\\]\n\n",
+     "diff": [
+      {
+       "op": "replace",
+       "a": "<p>",
+       "b": " \n\\[\\begin{align}\n\\text{bundle } a &amp;\\gg 3 \\\\\n\\text{bundle } b &amp;\\gg 2 \\\\\n\\text{bundle } c &amp;\\gg 1\n\\end{align}\\]\n\n"
+      },
+      {
+       "op": "replace",
+       "a": "<p>",
+       "b": " \n\\[\\begin{align}\n\\text{bundle } a &amp;\\gg 3 \\\\\n\\text{bundle } b &amp;\\gg 2 \\\\\n\\text{bundle } c &amp;\\gg 1\n\\end{align}\\]\n\n"
+      }
+     ]
+    },
+    {
+     "i": 331,
+     "kinds": [
+      "u",
+      "m"
+     ],
+     "reason": "kind-mismatch",
+     "a": "\n\\[\\begin{align} \\text{bundle } a &amp;\\gg 3 \\\\ \\text{bundle } b\n&amp;\\gg 2 \\\\ \\text{bundle } c &amp;\\gg 1 \\end{align}\\]",
+     "b": "<p>",
+     "diff": [
+      {
+       "op": "replace",
+       "a": "\n\\[\\begin{align} \\text{bundle } a &amp;\\gg 3 \\\\ \\text{bundle } b\n&amp;\\gg 2 \\\\ \\text{bundle } c &amp;\\gg 1 \\end{align}\\]",
+       "b": "<p>"
+      },
+      {
+       "op": "replace",
+       "a": "\n\\[\\begin{align} \\text{bundle } a &amp;\\gg 3 \\\\ \\text{bundle } b\n&amp;\\gg 2 \\\\ \\text{bundle } c &amp;\\gg 1 \\end{align}\\]",
+       "b": "<p>"
+      }
+     ]
+    }
+   ],
+   "first_index": 330
+  },
+  {
+   "slug": "heytesbury",
+   "page_len": 129085,
+   "asm_len": 127020,
+   "skipped": null,
+   "segs": [
+    1813,
+    1861
+   ],
+   "status": "gap",
+   "mismatch": [
+    {
+     "i": 338,
+     "kinds": [
+      "u",
+      "m"
+     ],
+     "reason": "kind-mismatch",
+     "a": "2. Logic",
+     "b": "<h2 id=\"Logi\">",
+     "diff": [
+      {
+       "op": "insert",
+       "a": "2. Logic",
+       "b": "<h2 id=\"Logi\">"
+      },
+      {
+       "op": "delete",
+       "a": "2. Logic",
+       "b": "<h2 id=\"Logi\">"
+      },
+      {
+       "op": "insert",
+       "a": "2. Logic",
+       "b": "<h2 id=\"Logi\">"
+      }
+     ]
+    },
+    {
+     "i": 339,
+     "kinds": [
+      "m",
+      "u"
+     ],
+     "reason": "kind-mismatch",
+     "a": "</h2>\n\n",
+     "b": "2. Logic",
+     "diff": [
+      {
+       "op": "delete",
+       "a": "</h2>\n\n",
+       "b": "2. Logic"
+      },
+      {
+       "op": "replace",
+       "a": "</h2>\n\n",
+       "b": "2. Logic"
+      }
+     ]
+    }
+   ],
+   "first_index": 338
+  },
+  {
+   "slug": "logic-intensional",
+   "page_len": 138497,
+   "asm_len": 138297,
+   "skipped": null,
+   "segs": [
+    1264,
+    1203
+   ],
+   "status": "gap",
+   "mismatch": [
+    {
+     "i": 398,
+     "kinds": [
+      "m",
+      "u"
+     ],
+     "reason": "kind-mismatch",
+     "a": "<p>",
+     "b": "\n\n\\begin{align}\n\\cM, \\Gamma \\vDash P &amp;\\Leftrightarrow \\bV(P, \\Gamma ) = \\textit{true} \\\\\n\n\\cM, \\Gamma \\vDash X \\wedge Y &amp;\\Leftrightarrow \\cM, \\Gamma \\vDash X\n  \\text{ and } \\cM, \\Gamma \\vDash Y \\\\\n\n\\ldots &amp;\\Leftrightarrow \\ldots \\\\\n\n\\cM, \\Gamma \\vDash \\Box X &amp;\\Leftrightarrow \\cM, \\Delta \\vDash X\n \\text{ for every }\\Delta \\in \\bG \\text{ with } \\Gamma \\bR \\Delta \\\\\n\n\\cM, \\Gamma \\vDas",
+     "diff": [
+      {
+       "op": "replace",
+       "a": "<p>",
+       "b": "\n\n\\begin{align}\n\\cM, \\Gamma \\vDash P &amp;\\Leftrightarrow \\bV(P, \\Gamma ) = \\textit{true} \\\\\n\n\\cM, \\Gamma \\vDash X \\wedge Y &amp;\\Leftrightarrow \\cM, \\Gamma \\vD"
+      },
+      {
+       "op": "replace",
+       "a": "<p>",
+       "b": "\n\n\\begin{align}\n\\cM, \\Gamma \\vDash P &amp;\\Leftrightarrow \\bV(P, \\Gamma ) = \\textit{true} \\\\\n\n\\cM, \\Gamma \\vDash X \\wedge Y &amp;\\Leftrightarrow \\cM, \\Gamma \\vDash X\n  \\text{ and } \\cM, \\Gamma \\vDash Y \\\\\n\n\\ldots &amp;\\Leftrightarrow \\ldots \\\\\n\n\\cM, \\Gamma \\vDash \\Box X &amp;\\Leftrightarrow \\cM, \\Delta \\vDash X\n \\text{ for every }\\Delta \\in \\bG \\text{ with } \\Gamma \\bR \\Delta \\\\\n\n\\cM, \\Gamma \\vDash \\Diamond X &amp;\\Leftrightarrow \\cM, \\Delta \\vDash X\n \\text{ for some } \\Delta \\in \\bG \\text{ with } \\Gamma \\bR \\Delta\n\\end{align}\n\n"
+      }
+     ]
+    },
+    {
+     "i": 399,
+     "kinds": [
+      "u",
+      "m"
+     ],
+     "reason": "kind-mismatch",
+     "a": "\n\\begin{align} \\cM, \\Gamma \\vDash P &amp;\\Leftrightarrow \\bV(P, \\Gamma )\n= \\textit{true} \\\\ \\cM, \\Gamma \\vDash X \\wedge Y &amp;\\Leftrightarrow\n\\cM, \\Gamma \\vDash X \\text{ and } \\cM, \\Gamma \\vDash Y \\\\ \\ldots\n&amp;\\Leftrightarrow \\ldots \\\\ \\cM, \\Gamma \\vDash \\Box X\n&amp;\\Leftrightarrow \\cM, \\Delta \\vDash X \\text{ for every }\\Delta \\in\n\\bG \\text{ with } \\Gamma \\bR \\Delta \\\\ \\cM, \\Gamma \\vDash \\Diamo",
+     "b": "<p>",
+     "diff": [
+      {
+       "op": "replace",
+       "a": "\n\\begin{align} \\cM, \\Gamma \\vDash P &amp;\\Leftrightarrow \\bV(P, \\Gamma )\n= \\textit{true} \\\\ \\cM, \\Gamma \\vDash X \\wedge Y &amp;\\Leftrightarrow\n\\cM, \\Gamma \\vDa",
+       "b": "<p>"
+      },
+      {
+       "op": "replace",
+       "a": "\n\\begin{align} \\cM, \\Gamma \\vDash P &amp;\\Leftrightarrow \\bV(P, \\Gamma )\n= \\textit{true} \\\\ \\cM, \\Gamma \\vDash X \\wedge Y &amp;\\Leftrightarrow\n\\cM, \\Gamma \\vDash X \\text{ and } \\cM, \\Gamma \\vDash Y \\\\ \\ldots\n&amp;\\Leftrightarrow \\ldots \\\\ \\cM, \\Gamma \\vDash \\Box X\n&amp;\\Leftrightarrow \\cM, \\Delta \\vDash X \\text{ for every }\\Delta \\in\n\\bG \\text{ with } \\Gamma \\bR \\Delta \\\\ \\cM, \\Gamma \\vDash \\Diamond X\n&amp;\\Leftrightarrow \\cM, \\Delta \\vDash X \\text{ for some } \\Delta \\in\n\\bG \\text{ with } \\Gamma \\bR \\Delta \\end{align}",
+       "b": "<p>"
+      }
+     ]
+    }
+   ],
+   "first_index": 398
+  },
+  {
+   "slug": "metaphysics-massexpress",
+   "page_len": 167008,
+   "asm_len": 164414,
+   "skipped": null,
+   "segs": [
+    1979,
+    1999
+   ],
+   "status": "gap",
+   "mismatch": [
+    {
+     "i": 279,
+     "kinds": [
+      "u",
+      "u"
+     ],
+     "reason": "ukey-diff",
+     "a": "(<em>Thinghood</em>) <em>x</em> is a <em>thing</em> or <em>object</em> if and only if:1. <em>x</em> falls under some <em>F</em>, and <em>F</em> is singular. [Furthermore, the plural &ldquo;the <em>F</em>s&rdquo; is well-formed and does not refer to kinds (e.g., in &lsquo;the wines of France&rsquo;).]<br /><a href=\"#StufSpecKindThinThin\">2</a>. <em>x</em> can be unqualifiedly counted as <em>one</em",
+     "b": "\n(<em>Thinghood</em>) <em>x</em> is a <em>thing</em> or <em>object</em>\nif and only if:\n\n",
+     "diff": [
+      {
+       "op": "insert",
+       "a": "(<em>Thinghood</em>) <em>x</em> is a <em>thing</em> or <em>object</em> if and only if:1. <em>x</em> falls under some <em",
+       "b": "\n(<em>Thinghood</em>) <em>x</em> is a <em>thing</em> or <em>object</em>\nif and only if:\n\n"
+      },
+      {
+       "op": "replace",
+       "a": "(<em>Thinghood</em>) <em>x</em> is a <em>thing</em> or <em>object</em> if and only if:1. <em>x</em> falls under some <em>F</em>, and <em>F</em> is singular. [Furthermore, the plural &ldquo;th",
+       "b": "\n(<em>Thinghood</em>) <em>x</em> is a <em>thing</em> or <em>object</em>\nif and only if:\n\n"
+      },
+      {
+       "op": "replace",
+       "a": "(<em>Thinghood</em>) <em>x</em> is a <em>thing</em> or <em>object</em> if and only if:1. <em>x</em> falls under some <em>F</em>, and <em>F</em> is singular. [Furthermore, the plural &ldquo;the <em>F</em>s&rdquo; is well-formed and does not refer to kinds (e.g., in &lsquo;the wines of France&rsquo;).]<br /><a href=\"#StufSpecKindThinThin\">2</a>. <em>x</em> can be unqualifiedly counted as <em>one</em>. [i.e., <em>x</em> can take &lsquo;one&rsquo; as an unqualified numerical determiner, without recourse to measurement, &lsquo;packaging&rsquo;, or partitive phrases (e.g., &lsquo;one dog&rsquo;, versus &lsquo;one gallon of water&rsquo; or &lsquo;one water molecule&rsquo;).] (See Laycock 2006, chapter 2)<br />3. <em>x</em> is concrete (i.e., <em>x</em> is not a universal, property, relation, or abstract entity).",
+       "b": "\n(<em>Thinghood</em>) <em>x</em> is a <em>thing</em> or <em>object</em>\nif and only if:\n\n"
+      }
+     ]
+    },
+    {
+     "i": 282,
+     "kinds": [
+      "u",
+      "u"
+     ],
+     "reason": "ukey-diff",
+     "a": "\nAnd now, using the notion of Thinghood, a minimalist Thing Theory can\nbe captured as follows:",
+     "b": "<em>x</em> falls under some <em>F</em>, and <em>F</em> is\nsingular. [Furthermore, the plural &ldquo;the <em>F</em>s&rdquo; is\nwell-formed and does not refer to kinds (e.g., in &lsquo;the wines of\nFrance&rsquo;).]",
+     "diff": [
+      {
+       "op": "replace",
+       "a": "\nAnd now, using the notion of Thinghood, a minimalist Thing Theory can\nbe captured as follows:",
+       "b": "<em>x</em> falls under some <em>F</em>, and <em>F</em> is\nsingular. [Furthermore, the plural &ldquo;the <em>F</em>s&rdquo; is\nwell-formed and does not refer to k"
+      },
+      {
+       "op": "replace",
+       "a": "\nAnd now, using the notion of Thinghood, a minimalist Thing Theory can\nbe captured as follows:",
+       "b": "<em>x</em> falls under some <em>F</em>, and <em>F</em> is\nsingular. [Furthermore, the plural &ldquo;the <em>F</em>s&rdquo; is\nwell-formed and does not refer to kinds (e.g., i"
+      },
+      {
+       "op": "replace",
+       "a": "\nAnd now, using the notion of Thinghood, a minimalist Thing Theory can\nbe captured as follows:",
+       "b": "<em>x</em> falls under some <em>F</em>, and <em>F</em> is\nsingular. [Furthermore, the plural &ldquo;the <em>F</em>s&rdquo; is\nwell-formed and does not refer to kinds (e.g., in &l"
+      }
+     ]
+    }
+   ],
+   "first_index": 279
+  },
+  {
+   "slug": "propositional-function",
+   "page_len": 73407,
+   "asm_len": 73201,
+   "skipped": null,
+   "segs": [
+    1140,
+    1141
+   ],
+   "status": "gap",
+   "mismatch": [
+    {
+     "i": 952,
+     "kinds": [
+      "u",
+      "u"
+     ],
+     "reason": "ukey-diff",
+     "a": "Parsons, Terence, 1986, &ldquo;Why Frege should not have said that\n&ldquo;The Concept Horse is not a Concept&rdquo;&rdquo;, <em>History\nof Philosophy Quarterly</em>, 3: 449&ndash;465.",
+     "b": "Parsons, Terence, 1986, &ldquo;Why Frege should not have said that\n&ldquo;The Concept Horse is not a Concept&rdquo;\\(\\)&rdquo;,\n<em>History of Philosophy Quarterly</em>, 3: 449&ndash;465.",
+     "diff": [
+      {
+       "op": "insert",
+       "a": "Parsons, Terence, 1986, &ldquo;Why Frege should not have said that\n&ldquo;The Concept Horse is not a Concept&rdquo;&rdquo;, <em>History\nof Philosophy Quarterly</em>, 3: 449&ndash;465.",
+       "b": "Parsons, Terence, 1986, &ldquo;Why Frege should not have said that\n&ldquo;The Concept Horse is not a Concept&rdquo;\\(\\)&rdquo;,\n<em>History of Philosophy Quarterly</em>, 3: 449&ndash;465."
+      },
+      {
+       "op": "replace",
+       "a": "sons, Terence, 1986, &ldquo;Why Frege should not have said that\n&ldquo;The Concept Horse is not a Concept&rdquo;&rdquo;, <em>History\nof Philosophy Quarterly</em>, 3: 449&ndash;465.",
+       "b": ", Terence, 1986, &ldquo;Why Frege should not have said that\n&ldquo;The Concept Horse is not a Concept&rdquo;\\(\\)&rdquo;,\n<em>History of Philosophy Quarterly</em>, 3: 449&ndash;465."
+      },
+      {
+       "op": "replace",
+       "a": "e, 1986, &ldquo;Why Frege should not have said that\n&ldquo;The Concept Horse is not a Concept&rdquo;&rdquo;, <em>History\nof Philosophy Quarterly</em>, 3: 449&ndash;465.",
+       "b": "986, &ldquo;Why Frege should not have said that\n&ldquo;The Concept Horse is not a Concept&rdquo;\\(\\)&rdquo;,\n<em>History of Philosophy Quarterly</em>, 3: 449&ndash;465."
+      }
+     ]
+    },
+    {
+     "i": 1016,
+     "kinds": [
+      "m",
+      "u"
+     ],
+     "reason": "kind-mismatch",
+     "a": "</div>",
+     "b": "<script type=\"text/javascript\" src=\"local.js\"></script>\n<script type=\"text/javascript\" src=\"../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML\"></script>\n\n\n",
+     "diff": [
+      {
+       "op": "insert",
+       "a": "</div>",
+       "b": "<script type=\"text/javascript\" src=\"local.js\"></script>\n<script type=\"text/javascript\" src=\"../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML\"></script>\n\n\n"
+      },
+      {
+       "op": "replace",
+       "a": "</div>",
+       "b": "<script type=\"text/javascript\" src=\"local.js\"></script>\n<script type=\"text/javascript\" src=\"../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML\"></script>\n\n\n"
+      },
+      {
+       "op": "insert",
+       "a": "</div>",
+       "b": "<script type=\"text/javascript\" src=\"local.js\"></script>\n<script type=\"text/javascript\" src=\"../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML\"></script>\n\n\n"
+      }
+     ]
+    }
+   ],
+   "first_index": 952
+  },
+  {
+   "slug": "pufendorf",
+   "page_len": 301381,
+   "asm_len": 299104,
+   "skipped": null,
+   "segs": [
+    3248,
+    3258
+   ],
+   "status": "gap",
+   "mismatch": [
+    {
+     "i": 169,
+     "kinds": [
+      "u",
+      "m"
+     ],
+     "reason": "kind-mismatch",
+     "a": "\n[<em>Editor&rsquo;s Note: The following entry replaces and is based on\nthe former entry titled  <a href=\"https://plato.stanford.edu/archives/sum2026/entries/pufendorf-moral/\" target=\"other\">Pufendorf&rsquo;s Moral and Political Philosophy</a>.</em>]",
+     "b": "<p class=\"smaller\">",
+     "diff": [
+      {
+       "op": "delete",
+       "a": "\n[<em>Editor&rsquo;s Note: The following entry replaces and is based on\nthe former entry titled  <a href=\"https://plato.st",
+       "b": "<p class=\"smaller\">"
+      },
+      {
+       "op": "replace",
+       "a": "\n[<em>Editor&rsquo;s Note: The following entry replaces and is based on\nthe former entry titled  <a href=\"https://plato.stan",
+       "b": "<p class=\"smaller\">"
+      },
+      {
+       "op": "replace",
+       "a": "\n[<em>Editor&rsquo;s Note: The following entry replaces and is based on\nthe former entry titled  <a href=\"https://plato.stanford.edu/archives/sum2026/ent",
+       "b": "<p class=\"smaller\">"
+      }
+     ]
+    },
+    {
+     "i": 170,
+     "kinds": [
+      "m",
+      "u"
+     ],
+     "reason": "kind-mismatch",
+     "a": "</p>\n",
+     "b": "\n[<em>Editor&rsquo;s Note: The following entry replaces and is based on\nthe former entry titled\n <a href=\"https://plato.stanford.edu/archives/sum2026/entries/pufendorf-moral/\">Pufendorf&rsquo;s Moral and Political Philosophy</a>.</em>]",
+     "diff": [
+      {
+       "op": "insert",
+       "a": "</p>\n",
+       "b": "\n[<em>Editor&rsquo;s Note: The following entry replaces and is based on\nthe former entry titled\n <a href=\"https://plato.stanford.edu/archives/sum2026/entries/pufendorf-moral/\">Pufendorf&rsquo;s Moral and Political Philosophy</a>.</em>]"
+      },
+      {
+       "op": "replace",
+       "a": "</p>\n",
+       "b": "https://plato.stanford.edu/archives/sum2026/entries/pufendorf-moral/\">Pufendorf&rsquo;s Moral and Political Philosophy</a>.</em>]"
+      },
+      {
+       "op": "replace",
+       "a": "</p>\n",
+       "b": "tps://plato.stanford.edu/archives/sum2026/entries/pufendorf-moral/\">Pufendorf&rsquo;s Moral and Political Philosophy</a>.</em>]"
+      }
+     ]
+    }
+   ],
+   "first_index": 169
+  },
+  {
+   "slug": "scottus-eriugena",
+   "page_len": 122977,
+   "asm_len": 122979,
+   "skipped": null,
+   "segs": [
+    1185,
+    1187
+   ],
+   "status": "gap",
+   "mismatch": [
+    {
+     "i": 790,
+     "kinds": [
+      "u",
+      "m"
+     ],
+     "reason": "kind-mismatch",
+     "a": "Origen, <em>Origen: On First Principles</em>, edited and translated by\nJohn Behr, Oxford: Oxford University Press, 2018.",
+     "b": "</li>",
+     "diff": [
+      {
+       "op": "delete",
+       "a": "Origen, <em>Origen: On First Principles</em>, edited and translated by\nJohn Behr, Oxford: Oxford University Press, 2018.",
+       "b": "</li>"
+      },
+      {
+       "op": "replace",
+       "a": "Origen, <em>Origen: On First Principles</em>, edited and translated by\nJohn Behr, Oxford: Oxford University Press, 2018.",
+       "b": "</li>"
+      },
+      {
+       "op": "delete",
+       "a": "Origen, <em>Origen: On First Principles</em>, edited and translated by\nJohn Behr, Oxford: Oxford University Press, 2018.",
+       "b": "</li>"
+      }
+     ]
+    },
+    {
+     "i": 792,
+     "kinds": [
+      "m",
+      "u"
+     ],
+     "reason": "kind-mismatch",
+     "a": "<li>",
+     "b": "Origen, <em>Origen: On First Principles</em>, edited and\ntranslated by John Behr, Oxford: Oxford University Press, 2018.",
+     "diff": [
+      {
+       "op": "insert",
+       "a": "<li>",
+       "b": "Origen, <em>Origen: On First Principles</em>, edited and\ntranslated by John Behr, Oxford: Oxford University Press, 2018."
+      },
+      {
+       "op": "insert",
+       "a": "<li>",
+       "b": "Origen, <em>Origen: On First Principles</em>, edited and\ntranslated by John Behr, Oxford: Oxford University Press, 2018."
+      },
+      {
+       "op": "insert",
+       "a": "<li>",
+       "b": "Origen, <em>Origen: On First Principles</em>, edited and\ntranslated by John Behr, Oxford: Oxford University Press, 2018."
+      }
+     ]
+    }
+   ],
+   "first_index": 790
+  },
+  {
+   "slug": "shared-agency",
+   "page_len": 83465,
+   "asm_len": 82946,
+   "skipped": null,
+   "segs": [
+    993,
+    997
+   ],
+   "status": "gap",
+   "mismatch": [
+    {
+     "i": 457,
+     "kinds": [
+      "m",
+      "u"
+     ],
+     "reason": "kind-mismatch",
+     "a": "</table>\n\n",
+     "b": "<sub>Yes</sub>&#9586;<sup>No</sup>\n",
+     "diff": [
+      {
+       "op": "insert",
+       "a": "</table>\n\n",
+       "b": "<sub>Yes</sub>&#9586;<sup>No</sup>\n"
+      },
+      {
+       "op": "replace",
+       "a": "</table>\n\n",
+       "b": "<sub>Yes</sub>&#9586;<sup>No</sup>\n"
+      },
+      {
+       "op": "replace",
+       "a": "</table>\n\n",
+       "b": "<sub>Yes</sub>&#9586;<sup>No</sup>\n"
+      }
+     ]
+    },
+    {
+     "i": 459,
+     "kinds": [
+      "u",
+      "m"
+     ],
+     "reason": "kind-mismatch",
+     "a": "\nIf the group decides on the conclusion by a majority vote on what each\nindividual personally thinks s/he ought to do, it will decide against\ntaking the train (this is the &ldquo;no&rdquo; in the upper triangle\nof the lower right box). But this conclusion would be hard to square\nwith the group judgments concerning the three premises of the\nargument. Whereas, if the group adopts the premise driven ",
+     "b": "</table>\n\n",
+     "diff": [
+      {
+       "op": "replace",
+       "a": "\nIf the group decides on the conclusion by a majority vote on what each\nindividual personally thinks s/he ought to do, it will decide against\ntaking the train (this is the &ldquo;no&rdquo; in the upper triangle\nof the lowe",
+       "b": "</table>\n\n"
+      },
+      {
+       "op": "delete",
+       "a": "\nIf the group decides on the conclusion by a majority vote on what each\nindividual personally thinks s/he ought to do, it will decide against\ntaking the train (this is the &ldquo;no&rdquo; in the upper triangle\nof the lower right box). But this conclusion would ",
+       "b": "</table>\n\n"
+      },
+      {
+       "op": "replace",
+       "a": " the conclusion by a majority vote on what each\nindividual personally thinks s/he ought to do, it will decide against\ntaking the train (this is the &ldquo;no&rdquo; in the upper triangle\nof the lower right box). But this conclusion would be hard to square\nwith the group judgments concerning the three pr",
+       "b": "</table>\n\n"
+      }
+     ]
+    }
+   ],
+   "first_index": 457
+  },
+  {
+   "slug": "singular-terms-medieval",
+   "page_len": 129602,
+   "asm_len": 129634,
+   "skipped": null,
+   "segs": [
+    1063,
+    1067
+   ],
+   "status": "gap",
+   "mismatch": [
+    {
+     "i": 515,
+     "kinds": [
+      "u",
+      "m"
+     ],
+     "reason": "kind-mismatch",
+     "a": "Albert of Saxony. <em>Quaestiones in artem veterem</em>, ed. A. Munoz\nGarcia, Maracaibo, 1988.",
+     "b": "</li>\n\n",
+     "diff": [
+      {
+       "op": "delete",
+       "a": "Albert of Saxony. <em>Quaestiones in artem veterem</em>, ed. A. Munoz\nGarcia, Maracaibo, 1988.",
+       "b": "</li>\n\n"
+      },
+      {
+       "op": "replace",
+       "a": "Albert of Saxony. <em>Quaestiones in artem veterem</em>, ed. A. Munoz\nGarcia, Maracaibo, 1988.",
+       "b": "</li>\n\n"
+      },
+      {
+       "op": "delete",
+       "a": "Albert of Saxony. <em>Quaestiones in artem veterem</em>, ed. A. Munoz\nGarcia, Maracaibo, 1988.",
+       "b": "</li>\n\n"
+      }
+     ]
+    },
+    {
+     "i": 518,
+     "kinds": [
+      "u",
+      "m"
+     ],
+     "reason": "kind-mismatch",
+     "a": "Anonymous. <em>Grammatica porretana</em>, ed. Karin M. Fredborg, C. H.\nKneepkens, <em>Cahiers de l&rsquo;Institut du Moyen &Acirc;ge grec et\nlatin</em>, 57, 1988, pp. 11&ndash;67.",
+     "b": "<li>",
+     "diff": [
+      {
+       "op": "delete",
+       "a": "Anonymous. <em>Grammatica porretana</em>, ed. Karin M. Fredborg, C. H.\nKneepkens, <em>Cahiers de l&rsquo;Institut du Moyen &Acirc;g",
+       "b": "<li>"
+      },
+      {
+       "op": "replace",
+       "a": "Anonymous. <em>Grammatica porretana</em>, ed. Karin M. Fredborg, C. H.\nKneepkens, <em>Cahiers de l&rsquo;Institut du Moyen &Acirc;ge g",
+       "b": "<li>"
+      },
+      {
+       "op": "delete",
+       "a": "Anonymous. <em>Grammatica porretana</em>, ed. Karin M. Fredborg, C. H.\nKneepkens, <em>Cahiers de l&rsquo;Institut du Moyen &Acirc;ge grec et\nlatin</em>, 57, 1988, pp. 11&ndash;67.",
+       "b": "<li>"
+      }
+     ]
+    }
+   ],
+   "first_index": 515
+  },
+  {
+   "slug": "suicide",
+   "page_len": 113523,
+   "asm_len": 113511,
+   "skipped": null,
+   "segs": [
+    1142,
+    1148
+   ],
+   "status": "gap",
+   "mismatch": [
+    {
+     "i": 284,
+     "kinds": [
+      "u",
+      "m"
+     ],
+     "reason": "kind-mismatch",
+     "a": "\n1. <br>2. <em>S</em> believed that <em>B</em>, or some causal\nconsequence of <em>B</em>, would hasten their death (i.e, their death\nwould occur earlier in time than it would have in <em>B</em>&rsquo;s\nabsence), and<br>3. <em>S</em> intended to die by engaging in <em>B</em>.",
+     "b": "<li>\n",
+     "diff": [
+      {
+       "op": "delete",
+       "a": "\n1. <br>2. <em>S</em> believed that <em>B</em>, or some causal\nconsequence of <em>B</em>, would hasten their death (i.e, the",
+       "b": "<li>\n"
+      },
+      {
+       "op": "delete",
+       "a": "\n1. <br>2. <em>S</em> believed that <em>B</em>, or some causal\nconsequence of <em>B</em>, would hasten their death (i.e, their death\nwould occur",
+       "b": "<li>\n"
+      },
+      {
+       "op": "delete",
+       "a": "\n1. <br>2. <em>S</em> believed that <em>B</em>, or some causal\nconsequence of <em>B</em>, would hasten their death (i.e, their death\nwould occur earlier in tim",
+       "b": "<li>\n"
+      }
+     ]
+    },
+    {
+     "i": 286,
+     "kinds": [
+      "m",
+      "u"
+     ],
+     "reason": "kind-mismatch",
+     "a": "</blockquote>\n\n",
+     "b": "<em>S</em> believed that <em>B</em>, or some causal consequence of\n<em>B</em>, would hasten their death (i.e, their death would occur\nearlier in time than it would have in <em>B</em>&rsquo;s absence),\nand",
+     "diff": [
+      {
+       "op": "insert",
+       "a": "</blockquote>\n\n",
+       "b": "<em>S</em> believed that <em>B</em>, or some causal consequence of\n<em>B</em>, would hasten their death (i.e, their death wou"
+      },
+      {
+       "op": "insert",
+       "a": "</blockquote>\n\n",
+       "b": "<em>S</em> believed that <em>B</em>, or some causal consequence of\n<em>B</em>, would hasten their death (i.e, their death would occ"
+      },
+      {
+       "op": "insert",
+       "a": "</blockquote>\n\n",
+       "b": "<em>S</em> believed that <em>B</em>, or some causal consequence of\n<em>B</em>, would hasten their death (i.e, their death would occur"
+      }
+     ]
+    }
+   ],
+   "first_index": 284
+  },
+  {
+   "slug": "time",
+   "page_len": 116504,
+   "asm_len": 115508,
+   "skipped": null,
+   "segs": [
+    1382,
+    1386
+   ],
+   "status": "gap",
+   "mismatch": [
+    {
+     "i": 252,
+     "kinds": [
+      "u",
+      "m"
+     ],
+     "reason": "kind-mismatch",
+     "a": "<strong>(1)</strong>",
+     "b": "<dt>",
+     "diff": [
+      {
+       "op": "replace",
+       "a": "<strong>(1)</strong>",
+       "b": "<dt>"
+      },
+      {
+       "op": "delete",
+       "a": "<strong>(1)</strong>",
+       "b": "<dt>"
+      },
+      {
+       "op": "delete",
+       "a": "<strong>(1)</strong>",
+       "b": "<dt>"
+      }
+     ]
+    },
+    {
+     "i": 253,
+     "kinds": [
+      "m",
+      "u"
+     ],
+     "reason": "kind-mismatch",
+     "a": "</p>\n\n",
+     "b": "(1)",
+     "diff": [
+      {
+       "op": "replace",
+       "a": "</p>\n\n",
+       "b": "(1)"
+      }
+     ]
+    }
+   ],
+   "first_index": 252
+  },
+  {
+   "slug": "truth-correspondence",
+   "page_len": 151171,
+   "asm_len": 150464,
+   "skipped": null,
+   "segs": [
+    1426,
+    1437
+   ],
+   "status": "gap",
+   "mismatch": [
+    {
+     "i": 357,
+     "kinds": [
+      "u",
+      "m"
+     ],
+     "reason": "kind-mismatch",
+     "a": "Mental sentences were the preferred primary truthbearers throughout\nthe medieval period. They were neglected in the first half of the\n20th century, but made a comeback in the second half through the\nrevival of the representational theory of the mind (especially in\nthe form of the language-of-thought hypothesis, cf. Fodor 1975).\nSomewhat confusingly (to us now), for many centuries the term\n&ldquo;p",
+     "b": "</li>\n\n",
+     "diff": [
+      {
+       "op": "delete",
+       "a": "Mental sentences were the preferred primary truthbearers throughout\nthe medieval period. They were neglected in the first half of the\n20th century, but made a comeback in the second half through the\nrevival of the representational theory of the mind (especially in\nthe form of the language-of-thought hypothesis, cf. Fodor 1975).\nSomewhat confusingly (to us now), for many centuries the term\n&ldquo;proposition&rdquo; (<em>propositio</em>) was reserved\nexclusively for sentences, written, spoken or mental. This use was\nmade official by Boethius in the ",
+       "b": "</li>\n\n"
+      },
+      {
+       "op": "delete",
+       "a": ". Fodor 1975).\nSomewhat confusingly (to us now), for many centuries the term\n&ldquo;proposition&rdquo; (<em>propositio</em>) was reserved\nexclusively for sentences, written, spoken or mental. This use was\nmade official by Boethius in the 6th century, and is sti",
+       "b": "</li>\n\n"
+      },
+      {
+       "op": "delete",
+       "a": "t confusingly (to us now), for many centuries the term\n&ldquo;proposition&rdquo; (<em>propositio</em>) was reserved\nexclusively for sentences, written, spoken or mental. This use was\nmade official by Boethius in the 6th century, and is still ",
+       "b": "</li>\n\n"
+      }
+     ]
+    },
+    {
+     "i": 359,
+     "kinds": [
+      "m",
+      "u"
+     ],
+     "reason": "kind-mismatch",
+     "a": "</ol>\n\n",
+     "b": "Mental sentences were the preferred primary truthbearers\nthroughout the medieval period. They were neglected in the first half\nof the 20th century, but made a comeback in the second half through\nthe revival of the representational theory of the mind (especially in\nthe form of the language-of-thought hypothesis, cf. Fodor\n1975). Somewhat confusingly (to us now), for many centuries the term\n&ldquo;p",
+     "diff": [
+      {
+       "op": "insert",
+       "a": "</ol>\n\n",
+       "b": "Mental sentences were the preferred primary truthbearers\nthroughout the medieval period. They were neglected in the first half\nof the 20th century, but made a comeback in the second half through\nthe revival of the representational theory of the mind (especially in\nthe form of the language-of-thought hypothesis, cf. Fodor\n1975). Somewhat confusingly (to us now), for many centuries the term\n&ldquo;proposition&rdquo; (<em>propositio</em>) was reserved\nexclusively for sentences, written, spoken or mental. This use was\nmade official by Boethius in the "
+      },
+      {
+       "op": "insert",
+       "a": "</ol>\n\n",
+       "b": ". Fodor\n1975). Somewhat confusingly (to us now), for many centuries the term\n&ldquo;proposition&rdquo; (<em>propositio</em>) was reserved\nexclusively for sentences, written, spoken or mental. This use was\nmade official by Boethius in the 6th century, and is still found i"
+      },
+      {
+       "op": "insert",
+       "a": "</ol>\n\n",
+       "b": "gly (to us now), for many centuries the term\n&ldquo;proposition&rdquo; (<em>propositio</em>) was reserved\nexclusively for sentences, written, spoken or mental. This use was\nmade official by Boethius in the 6th century, and is still found in\nLocke&rsquo;s <em>Essay</em> in 1705"
+      }
+     ]
+    }
+   ],
+   "first_index": 357
+  },
+  {
+   "slug": "typelogical-grammar",
+   "page_len": 172974,
+   "asm_len": 166929,
+   "skipped": null,
+   "segs": [
+    3076,
+    3121
+   ],
+   "status": "gap",
+   "mismatch": [
+    {
+     "i": 295,
+     "kinds": [
+      "u",
+      "m"
+     ],
+     "reason": "kind-mismatch",
+     "a": "residuation laws: <em>A</em> &#8866; <em>C</em>/<em>B</em> iff <em>A</em>\n&otimes; <em>B</em> &#8866; <em>C</em> iff <em>B</em> &#8866; <em>A</em>\\<em>C</em>",
+     "b": "</li>\n\n",
+     "diff": [
+      {
+       "op": "delete",
+       "a": "residuation laws: <em>A</em> &#8866; <em>C</em>/<em>B</em> iff <em>A</em>\n&otimes; <em>B</em> &#8866; <em>C</em> iff <em>B</em> &#8866; <em>A</",
+       "b": "</li>\n\n"
+      },
+      {
+       "op": "replace",
+       "a": "residuation laws: <em>A</em> &#8866; <em>C</em>/<em>B</em> iff <em>A</em>\n&otimes; <em>B</em> &#8866; <em>C</em> iff <em>B</em> &#8866; <em>A</em>\\<em>C</em>",
+       "b": "</li>\n\n"
+      },
+      {
+       "op": "delete",
+       "a": "residuation laws: <em>A</em> &#8866; <em>C</em>/<em>B</em> iff <em>A</em>\n&otimes; <em>B</em> &#8866; <em>C</em> iff <em>B</em> &#8866; <em>A</em>\\<em>C</em>",
+       "b": "</li>\n\n"
+      }
+     ]
+    },
+    {
+     "i": 297,
+     "kinds": [
+      "m",
+      "u"
+     ],
+     "reason": "kind-mismatch",
+     "a": "<li>",
+     "b": "residuation laws: <em>A</em> &#8866;\n<em>C</em>/<em>B</em> iff <em>A</em> &otimes; <em>B</em>\n&#8866; <em>C</em> iff <em>B</em> &#8866; <em>A</em>\\<em>C</em>",
+     "diff": [
+      {
+       "op": "insert",
+       "a": "<li>",
+       "b": "residuation laws: <em>A</em> &#8866;\n<em>C</em>/<em>B</em> iff <em>A</em> &otimes; <em>B</em>\n&#8866; <em>C</em> iff <em>B</em> &#8866; <e"
+      },
+      {
+       "op": "replace",
+       "a": "<li>",
+       "b": "residuation laws: <em>A</em> &#8866;\n<em>C</em>/<em>B</em> iff <em>A</em> &otimes; <em>B</em>\n&#8866; <em>C</em> iff <em>B</em> &#8866; <em>A</em>\\<em>C</em>"
+      },
+      {
+       "op": "insert",
+       "a": "<li>",
+       "b": "residuation laws: <em>A</em> &#8866;\n<em>C</em>/<em>B</em> iff <em>A</em> &otimes; <em>B</em>\n&#8866; <em>C</em> iff <em>B</em> &#8866; <em>A</em>\\<em>C</em>"
+      }
+     ]
+    }
+   ],
+   "first_index": 295
+  },
+  {
+   "slug": "wilhelm-humboldt",
+   "page_len": 128479,
+   "asm_len": 126375,
+   "skipped": null,
+   "segs": [
+    1338,
+    1394
+   ],
+   "status": "gap",
+   "mismatch": [
+    {
+     "i": 472,
+     "kinds": [
+      "u",
+      "m"
+     ],
+     "reason": "kind-mismatch",
+     "a": "<strong>1836</strong>",
+     "b": "<dt>",
+     "diff": [
+      {
+       "op": "replace",
+       "a": "<strong>1836</strong>",
+       "b": "<dt>"
+      },
+      {
+       "op": "delete",
+       "a": "<strong>1836</strong>",
+       "b": "<dt>"
+      },
+      {
+       "op": "delete",
+       "a": "<strong>1836</strong>",
+       "b": "<dt>"
+      }
+     ]
+    },
+    {
+     "i": 473,
+     "kinds": [
+      "m",
+      "u"
+     ],
+     "reason": "kind-mismatch",
+     "a": "</p>\n\n",
+     "b": "1836",
+     "diff": [
+      {
+       "op": "replace",
+       "a": "</p>\n\n",
+       "b": "1836"
+      }
+     ]
+    }
+   ],
+   "first_index": 472
+  }
+ ]
+}

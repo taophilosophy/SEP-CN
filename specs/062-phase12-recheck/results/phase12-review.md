@@ -74,7 +74,7 @@ pool 1780／gap 48／stale 45 原先只见于叙述。已用 `bin/oldpool_judge.
 
 追查 40 件新增 gap：`page-layout.json` 的 `copyright_year`／`site_year`／`era` 与 `article-ledger.json` 的 `rel_items`／`hids` 都是抓取前冻结值，与新 en/ 不符。逐件定位显示首因是页脚版权年（2025→2026 等）与目录改名波纹（8 件 rename-wave 的 `rel_items` 显示文本）——不是池规则缺陷，也不是上游文本问题。
 
-处置：版面账全量重建（25 件变化：年份／修订日／作者／era／`croce-aesthetics`→`croce`）；结构账增量刷新 101 件（`--slugs` 合并、`--drop croce-aesthetics`）。随后 B3.1 扫描 → 池重建 → 终判，见 053 第四十四批。SOP 已把“B 族账本刷新”列为 1.2 必做步，`phase12.py` 增 `--rebuild-b3`。
+处置：版面账全量重建（25 件变化：年份／修订日／作者／era／`croce-aesthetics`→`croce`）；结构账增量刷新 101 件（`--slugs` 合并、`--drop croce-aesthetics`，实际变化 51 件）。随后 B3.1 扫描 → 池重建 → 终判，落为 053 第四十四批：**pool 1811→1852、gap 62→21、stale 0、占比 50.12%→51.17%，转好 40、转差 0；B3.1 1663／210 集合零变**。SOP 已把“B 族账本刷新”列为 1.2 必做步，`phase12.py` 增 `--rebuild-b3`。
 
 **教训**：B3.2 的“gap”是**账与 H0 不符**的合并信号，其中一大族是账本冻结造成的假阳性；判定 gap 前必须先确认账本与本轮 en/ 同时点。
 

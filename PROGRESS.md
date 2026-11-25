@@ -2,7 +2,7 @@
 
 <!-- 本文件由 `python tools/progress.py` 自动生成，不手改。数据源：SUMMARY.md（结构）、baseline/entries.json（基线）、journal/（进度事实）、tasks/（仅调度侧阻塞）。 -->
 
-生成时间：2026-11-25 04:26（UTC）
+生成时间：2026-11-25 07:24（UTC）
 
 ## 总览
 
