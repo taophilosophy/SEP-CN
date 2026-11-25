@@ -46,3 +46,16 @@ keeper 取排序靠前行，键写“A / B”，依据栏记旧键与旧首现�
 * 145 组撞形全部带裁定痕迹，无标记组 0；全量清单 `results/zh-collision-all-2026-11-25.tsv`（313 行），残余清单 `results/zh-collision-residue-2026-11-25.tsv` 为空表头即达标态。
 * 门禁：`check_terms` 硬错误 0，缺原文 147、缺籍属/生卒 781；`check_all` 19 项全绿。
 * 遗留：`《论第一哲学》` 两行只靠括注区分作者，若日后新增同题著作，须先查本清单再登记；`Causation` 作词条主题名与 `causal relation` 的题名分工仍归 SUMMARY 管辖，登记册只登记概念形。
+
+## 六、“亦作”与独立行撞车（批 32）
+
+撞形线收口后再加一道：译法列“亦作“X””里的异形，是否已经有独立行。扫得 27 处，逐处研判：
+
+* 三处属同概念两行，并键：
+  * degree of belief / degrees of belief（置信度，亦作信念度；审定作“信念度”，形式认识论两形并用）；
+  * correspondence theory / correspondence theory of truth（符合论，亦作真理符合论；题名依 SUMMARY 作“真理符合论”，概念形仍用短形）；
+  * Chinese Room / Chinese Room argument（中文屋，亦作中文屋论证、中文房间）。
+* 其余 24 处是跨域或跨概念，不动：直觉／直观（康德传统 vs 伦理学语境）、智者／《智者篇》、广延／外延、理智／努斯、明智／实践智慧、图型／图式、伦理生活／伦理、空性／空、等数／等势、命名／设定等，每行依据已各自说明分列理由。
+* 另清一处键残留：`rubūbiyya / rabbāniyya` 的别名列已被 2026-11-21 的 FLAG 裁定拆出（rabbāniyya 另立行作“养育性”），本键与原文列同步去掉残留并列形，只留 rubūbiyya／ربوبية。
+
+数据行 9,005 → 9,002；撞形无标记组仍为 0（并键后新出现的符合论／conformality theory 一组已补“同形不同义”标记）。

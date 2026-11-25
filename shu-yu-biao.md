@@ -1072,8 +1072,7 @@
 | chimerism | — | 嵌合性 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·遗传学·经典遗传学，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | Chinese medicine | — | 中医 | 语料回收（标题词） | 学界惯例（语料回收（标题词，specs/011 主题词汇解析 c/chinese-phil-medicine））；凭证 2026-11-04 | 2026-11-04 |
 | chinese philosophy | — | 中国哲学 | 语料回收 | 知网系查证在案（termonline-standard GB 标准库凭证 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
-| Chinese Room | — | 中文屋（亦作“中文屋论证”“中文房间”） | 语料回收（标题词） | 审定名词库（termonline-all·自然辩证法·科学哲学“中文屋论证”，2026-10-31 浏览器通道凭证）；2026-11-15 联网复核补亦作（大众语境通行“中文房间”，哲学文献“中文屋”） | 2026-11-15 |
-| Chinese Room argument | — | 中文屋论证 | 语料回收（specs/058 全库提取） | 审定名词库（termonline-all·自然辩证法，凭证 2026-11-23） | 2026-11-23 |
+| Chinese Room / Chinese Room argument | — | 中文屋（亦作“中文屋论证”“中文房间”） | 语料回收（标题词） | 审定名词库（termonline-all·自然辩证法·科学哲学“中文屋论证”，2026-10-31 浏览器通道凭证）；2026-11-15 联网复核补亦作（大众语境通行“中文房间”，哲学文献“中文屋”）；2026-11-25 同概念并键（旧键 Chinese Room argument，旧首现 语料回收（specs/058 全库提取）） | 2026-11-25 |
 | chiromancy | — | 手相术 | gianfrancesco-pico | 西洋占术史通行 | 2026-11-09 |
 | choice function | — | 选择函数 | axiom-choice | 学界通行（集合论）；审定名词库（termonline-all·数学名词 02.0160，1993）作“选择函数”，与本行一致（2026-11-24 JWT 直连，凭证 termonline-b2-2026-11-24.tsv） | 2026-11-13 |
 | choice principle | — | 选择原理 | axiom-choice | 本词条译名（Bell 2006 语境统称） | 2026-11-13 |
@@ -1606,8 +1605,7 @@
 | correlative cosmology | correlative cosmology | 关联性宇宙论 | chinese-phil-science | 学界通行（参 Graham《阴阳与关联思维》）；凭证 2026-11-07；FLAG 裁定 2026-11-21：原文列误填中文译文，正列为英文原词（Graham 关联性思维） | 2026-11-21 |
 | correspondence principle | — | 对应原理 | bohr-correspondence 首译 | 学界通行译名（量子物理学史与科学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | correspondence rules | — | 对应规则 | 语料回收（specs/058 全库提取） | 审定名词库（termonline-all，凭证 2026-11-23） | 2026-11-23 |
-| correspondence theory | — | 符合论（真理理论） | 语料回收（specs/058 全库提取） | 学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22） | 2026-11-25 |
-| correspondence theory of truth | — | 真理符合论（亦作“符合论”） | 首现（truth-coherence） | 学界通行（与 truth-coherence 词条配对；SUMMARY 定名）；凭证 2026-11-07；2026-11-15 补亦作（审定形）；旧键“correspondence theory”并入（2026-11-21 逐行研判；旧键首现：语料回收（词汇表并网）） | 2026-11-21 |
+| correspondence theory / correspondence theory of truth | — | 符合论（亦作“真理符合论”；词条题名依 SUMMARY 作“真理符合论”） | 语料回收（specs/058 全库提取） | 学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22）；2026-11-25 同概念并键（旧键 correspondence theory of truth，旧首现 首现（truth-coherence））；同形不同义：与 conformality theory（符合论，中世纪模态论）分列 | 2026-11-25 |
 | corroboration | — | 确认（亦作“验证”；degree of corroboration＝确认度） | 语料回收（lakatos 首译） | 波普尔研究通行译法（已在册佐证，批6 正文使用）；凭证 2026-11-06；FLAG 裁定 2026-11-21（联网凭证）：波普尔《实在论与科学的目标：科学发现的逻辑后记》中译“验证度”一节：作者自述弃“确证度”改“验证度”，并把“确证”让给证实主义者；据此 corroboration＝验证，与 confirmation theory 确证理论 分形；撞形改定 2026-11-21：波普尔中译两系并存（周煦良等译“确证”、后记中译“验证度”）；为避免与 validation＝验证（仿真 V&V 校核—验证—确认，GB/T 领域通行）及 confirmation＝确证 混同，主译取“确认”；撞形豁免 2026-11-21：波普尔科学哲学义，与藏传量论 ascertainment（nges pa）确认 同形异域，不合并 | 2026-11-21 |
 | corvée | — | 劳役制 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·世界历史·古代中世纪·东欧，2026-11-18 JWT 直连凭证）；原文列：工具书查无原生文字（2026-11-20 检 wisdomlib／GND／BDRC／84000／Logeion，均无“转写↔原生文字”显式配对，部分源不可达；映射表推演禁用，ADR-0030） | 2026-11-19 |
 | cosmic cycle | — | 宇宙周期 | jaina-philosophy | 耆那宇宙论通行（升降各六期） | 2026-11-25 |
@@ -1881,10 +1879,9 @@
 | deflationary | — | 紧缩（与既有 deflationism=紧缩论 对齐） | 首现（abelard） | 分析哲学文献通行译法；审定库无相关命中（termonline-standard 匿名通道，2026-11-01） | 2026-11-01 |
 | deflationism | — | 紧缩论 | 语料回收（词汇表并网） | 真理紧缩论；亦译“收缩论”；词汇表并网（ADR-0036） | 2026-11-13 |
 | degenerating research programme | — | 退化的研究纲领（亦作“退步的研究纲领”） | 语料回收（lakatos 首译） | 科学研究纲领方法论通行译法；凭证 2026-11-06；2026-11-15 补亦作（审定形；拉卡托斯文献“退化/退步”两形并行） | 2026-11-15 |
-| degree of belief | — | 置信度（亦作“信念度”） | 首现（imprecise-probabilities） | 审定名词库作“信念度”（自然辩证法名词，2026-11-11 凭证）；形式认识论两形并用（正文 24:14） | 2026-11-11 |
+| degree of belief / degrees of belief | — | 置信度（亦作“信念度”） | 首现（imprecise-probabilities） | 审定名词库作“信念度”（自然辩证法名词，2026-11-11 凭证）；形式认识论两形并用（正文 24:14）；2026-11-25 同概念并键（旧键 degrees of belief，旧首现 语料回收（specs/058 全库提取）） | 2026-11-25 |
 | degree of membership | — | 隶属度 | logic-fuzzy | 模糊集合论通行译法；凭证 2026-11-09 | 2026-11-09 |
 | degree of truth | — | 真值度 | logic-fuzzy | 模糊逻辑通行译法（truth-value 真值分列）；凭证 2026-11-09 | 2026-11-09 |
-| degrees of belief | — | 信念度 | 语料回收（specs/058 全库提取） | 审定名词库（termonline-all，凭证 2026-11-23） | 2026-11-23 |
 | deification | — | 神化 | neoplatonism | 宗教哲学通行（希腊语 theosis）；本词条视为伦理学最高目标 | 2026-11-07 |
 | Deism | — | 自然神论 | 语料回收（学派名扫描 2026-11-25） | 学界通行（中文语料 18 次；与 theism 有神论、atheism 无神论并列）；凭证 2026-11-25 | 2026-11-25 |
 | deixis | — | 指示（语用学；与 demonstrative 指示词分列） | 语料回收（形而上学／语言哲学族扫描 2026-11-25） | 语用学通行（语料“指示”265 次、指示性 23 次）；凭证 2026-11-25 | 2026-11-25 |
@@ -7009,7 +7006,7 @@
 | Royal Society (of London) | — | 皇家学会 | newton | 科学史通行；凭证 2026-11-08 | 2026-11-08 |
 | Rubā‘iyyāt | — | 《鲁拜集》（海亚姆四行诗） | 语料回收 | 学界惯例（波斯文学译名）；审定库无相关命中（凭证 2026-10-31）；审定库精确查无（凭证 2026-10-31）；原文列：工具书查无原生文字（2026-11-20 检 wisdomlib／GND／BDRC／84000／Logeion，均无“转写↔原生文字”显式配对，部分源不可达；映射表推演禁用，ADR-0030） | 2026-10-31 |
 | rubber hand illusion | — | 橡胶手错觉 | bodily-awareness 首译 | 学界通行译名（身体意识与认知神经科学文献）；凭证 2026-11-07 | 2026-11-07 |
-| rubūbiyya / rabbāniyya | ربوبية / ربانية | 主性（rubūbiyya） | ibn-taymiyya | 首译（伊本·泰米叶 tawḥīd 三分术语）；FLAG 裁定 2026-11-21：两词分列：rabbāniyya 另立行作养育性（主属性），本行只载 rubūbiyya 主性 | 2026-11-21 |
+| rubūbiyya | ربوبية | 主性（rubūbiyya） | ibn-taymiyya | 首译（伊本·泰米叶 tawḥīd 三分术语）；FLAG 裁定 2026-11-21：两词分列：rabbāniyya 另立行作养育性（主属性），本行只载 rubūbiyya 主性；2026-11-25 键形清理：rabbāniyya 已另立行，本键与原文列去掉残留并列形 | 2026-11-25 |
 | Rule Consequentialism / rule-consequentialism | — | 规则后果论（亦作“规则后果主义”） | 语料回收（标题词） | 学界惯例；佐证本册已登记“后果论”与审定库（凭证 2026-10-31）；异形键 rule-consequentialism 并入（2026-11-25） | 2026-10-31 |
 | rule egoism | — | 规则利己主义 | hobbes-moral 首译 | 学界通行（与行为利己主义对举）；凭证 2026-11-09 | 2026-11-09 |
 | rule of composition | — | 合成规则 | logic-dynamic | Hoare 演算通行译法；凭证 2026-11-10 | 2026-11-09 |
