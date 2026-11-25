@@ -167,7 +167,7 @@ def _version_pin(slug):
 
 
 def create(slug, kind, zh_doc=None, change_file=None, translation_mode="human",
-           pe_level="full", pe_system="", pe_disclosure=""):
+           pe_level="full", pe_system="", pe_disclosure="", project_spec=None):
     if kind != "retranslate":
         raise UsageError("kind 仅支持 retranslate（update 死序列已删，ADR-0068 W5；"
                          "上游修订走 reopen --upstream-sync，ADR-0051）")
@@ -179,6 +179,7 @@ def create(slug, kind, zh_doc=None, change_file=None, translation_mode="human",
         raise PreconditionError("任务已存在: %s" % slug)
     task = {"slug": slug, "kind": kind, "zh_doc": zh_doc, "state": "pending",
             "translation_mode": translation_mode,
+            "project_spec": _build_project_spec(project_spec),
             "steps": [], "blockers": [], "created_at": utcnow_iso()}
     if translation_mode == "llm-pe":
         task["pe"] = {"level": pe_level, "system": pe_system,
@@ -248,6 +249,7 @@ def advance(slug, step, actor, evidence, unblock=False, mandate=""):
     if step in AXIS_TOOL and task.get("kind") != "glossary-maintenance":
         _axis_gate(step, task.get("zh_doc"))
     if step == "tr-02" and task.get("kind") != "glossary-maintenance":
+        _project_spec_gate(task)  # 项目规格机检（ISO 11669:2024；ADR-0086）
         _pe_gate(task, evidence)  # 译后编辑定位机检（ADR-0084 D2=B）
     if step == "rv-02" and task.get("kind") != "glossary-maintenance":
         # 三轴并挂（ADR-0063 2026-11-17 补记）：受控回退的目标态是
@@ -275,6 +277,40 @@ def _clear_gate(slug):
     ok, report = baseline_audit.gate_passes(slug)
     if not ok:
         raise PreconditionError("基线 gate 未通过: %s" % json.dumps(report, ensure_ascii=False))
+
+
+PROJECT_SPEC_FIELDS = ("audience", "purpose", "register", "terminology_basis",
+                        "delivery", "qa_level")
+PROJECT_SPEC_DEFAULT = {
+    "audience": "中文哲学读者（研究者与研究生为主）",
+    "purpose": "学术阅读与引用（SEP 词条简体中文译本）",
+    "register": "现代汉语学术书面语",
+    "terminology_basis": "shu-yu-biao.md／ren-ming-biao.md／baseline/term-concepts.md",
+    "delivery": "GitBook Markdown＋VitePress 双语站",
+    "qa_level": "CY/T 266＋ISO 5060（六轴机检＋人工复核）",
+}
+
+
+def _project_spec_gate(task):
+    """项目规格机检（ISO 11669:2024；ADR-0086）：六项非空才可进 tr-02。"""
+    spec = task.get("project_spec") or {}
+    miss = [k for k in PROJECT_SPEC_FIELDS if not str(spec.get(k) or "").strip()]
+    if miss:
+        raise PreconditionError(
+            "project_spec 缺项 %s（ISO 11669:2024 项目规格，ADR-0086）：补齐后再进 tr-02"
+            % "/".join(miss))
+
+
+def _build_project_spec(overrides):
+    spec = dict(PROJECT_SPEC_DEFAULT)
+    for k, v in (overrides or {}).items():
+        if k not in PROJECT_SPEC_FIELDS:
+            raise UsageError("project_spec 未知字段: %s（可选 %s）"
+                             % (k, "/".join(PROJECT_SPEC_FIELDS)))
+        if not str(v or "").strip():
+            raise UsageError("project_spec.%s 不得为空（ISO 11669:2024）" % k)
+        spec[k] = str(v).strip()
+    return spec
 
 
 def _pe_gate(task, evidence):
@@ -646,12 +682,21 @@ def main(argv=None):
             return 0
         if cmd == "create":
             args = _parse(["--kind", "--zh-doc", "--from", "--translation-mode",
-                           "--pe-level", "--pe-system", "--pe-disclosure"], argv[2:])
+                           "--pe-level", "--pe-system", "--pe-disclosure",
+                           "--spec-audience", "--spec-purpose", "--spec-register",
+                           "--spec-basis", "--spec-delivery", "--spec-qa"], argv[2:])
+            spec = {}
+            for flag, key in (("spec_audience", "audience"), ("spec_purpose", "purpose"),
+                              ("spec_register", "register"), ("spec_basis", "terminology_basis"),
+                              ("spec_delivery", "delivery"), ("spec_qa", "qa_level")):
+                if args.get(flag):
+                    spec[key] = args[flag]
             task = create(slug, args.get("kind"), args.get("zh_doc"), args.get("from"),
                           translation_mode=args.get("translation_mode") or "human",
                           pe_level=args.get("pe_level") or "full",
                           pe_system=args.get("pe_system") or "",
-                          pe_disclosure=args.get("pe_disclosure") or "")
+                          pe_disclosure=args.get("pe_disclosure") or "",
+                          project_spec=spec or None)
             print(json.dumps(task, ensure_ascii=False, indent=2))
             return 0
         if cmd == "advance":

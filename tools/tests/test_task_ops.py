@@ -279,6 +279,42 @@ class TestTaskOps(unittest.TestCase):
         with self.assertRaises(task_ops.PreconditionError):
             task_ops.advance("test-pe2", "draft", actor="t", evidence="PE 轻编辑")
 
+    def test_project_spec_defaults_written(self):
+        # 项目规格（ISO 11669:2024；ADR-0086）：建账即写六项
+        t = task_ops.create("test-ps1", "retranslate", zh_doc=self._md("ps1.md"))
+        for k in task_ops.PROJECT_SPEC_FIELDS:
+            self.assertTrue(t["project_spec"][k])
+
+    def test_project_spec_missing_blocks_tr02(self):
+        task_ops.create("test-ps2", "retranslate", zh_doc=self._md("ps2.md"))
+        t = task_ops.load_task("test-ps2")
+        t.pop("project_spec")
+        task_ops.save_task(t)
+        task_ops.clear("test-ps2")
+        task_ops.advance("test-ps2", "s0", actor="t", evidence="e")
+        with self.assertRaises(task_ops.PreconditionError):
+            task_ops.advance("test-ps2", "draft", actor="t", evidence="e")
+
+    def test_project_spec_cli_passthrough(self):
+        rc = task_ops.main(["create", "test-ps6", "--kind", "retranslate",
+                            "--zh-doc", self._md("ps6.md"),
+                            "--spec-purpose", "命令行覆盖用途"])
+        self.assertEqual(rc, 0)
+        t = task_ops.load_task("test-ps6")
+        self.assertEqual(t["project_spec"]["purpose"], "命令行覆盖用途")
+        self.assertTrue(t["project_spec"]["audience"])
+
+    def test_project_spec_override_and_validation(self):
+        t = task_ops.create("test-ps3", "retranslate", zh_doc=self._md("ps3.md"),
+                            project_spec={"audience": "测试受众"})
+        self.assertEqual(t["project_spec"]["audience"], "测试受众")
+        with self.assertRaises(task_ops.UsageError):
+            task_ops.create("test-ps4", "retranslate", zh_doc=self._md("ps4.md"),
+                            project_spec={"bogus": "x"})
+        with self.assertRaises(task_ops.UsageError):
+            task_ops.create("test-ps5", "retranslate", zh_doc=self._md("ps5.md"),
+                            project_spec={"purpose": "  "})
+
     def test_r3_independence_cross_actor_passes(self):
         # 评审线交叉（specs/005 §6）：r3 由初译以外 actor 执行即满足，无需冷置记明
         task_ops.create("test-i2", "retranslate", zh_doc=self._md("i2.md"))
