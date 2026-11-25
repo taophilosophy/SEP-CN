@@ -1,0 +1,77 @@
+{
+ "batch": "058-batch72-terms",
+ "date": "2026-11-25",
+ "scope": "术语批 21：社会本体论、行动哲学与生物学／动物伦理族",
+ "rows": [
+  {
+   "en": "animal ethics",
+   "zh": "动物伦理",
+   "table": "term",
+   "first_seen": "语料回收（社会本体论与生物学族扫描 2026-11-25）",
+   "basis": "应用伦理学通行（语料 2 次；与 environmental ethics 环境伦理学分列）；凭证 2026-11-25"
+  },
+  {
+   "en": "animal rights",
+   "zh": "动物权利",
+   "table": "term",
+   "first_seen": "语料回收（社会本体论与生物学族扫描 2026-11-25）",
+   "basis": "应用伦理学通行（与 animal welfare 动物福利对举）；凭证 2026-11-25"
+  },
+  {
+   "en": "animal welfare",
+   "zh": "动物福利",
+   "table": "term",
+   "first_seen": "语料回收（社会本体论与生物学族扫描 2026-11-25）",
+   "basis": "应用伦理学通行（语料 2 次）；凭证 2026-11-25"
+  },
+  {
+   "en": "constitutive rule",
+   "zh": "构成性规则",
+   "table": "term",
+   "first_seen": "语料回收（社会本体论与生物学族扫描 2026-11-25）",
+   "basis": "社会本体论通行（塞尔；与 regulative rule 调节性规则对举）；凭证 2026-11-25"
+  },
+  {
+   "en": "drift",
+   "zh": "漂变（演化生物学）",
+   "table": "term",
+   "first_seen": "语料回收（社会本体论与生物学族扫描 2026-11-25）",
+   "basis": "演化生物学通行（genetic drift；语料 85 次）；凭证 2026-11-25"
+  },
+  {
+   "en": "ecology",
+   "zh": "生态学",
+   "table": "term",
+   "first_seen": "语料回收（社会本体论与生物学族扫描 2026-11-25）",
+   "basis": "学科通名（语料 48 次）；凭证 2026-11-25"
+  },
+  {
+   "en": "joint action",
+   "zh": "联合行动",
+   "table": "term",
+   "first_seen": "语料回收（社会本体论与生物学族扫描 2026-11-25）",
+   "basis": "行动哲学与社会本体论通行（语料 6 次；与 collective action 集体行动分列）；凭证 2026-11-25"
+  },
+  {
+   "en": "regulative rule",
+   "zh": "调节性规则",
+   "table": "term",
+   "first_seen": "语料回收（社会本体论与生物学族扫描 2026-11-25）",
+   "basis": "社会本体论通行（与 constitutive rule 构成性规则对举）；凭证 2026-11-25"
+  },
+  {
+   "en": "social kind",
+   "zh": "社会类",
+   "table": "term",
+   "first_seen": "语料回收（社会本体论与生物学族扫描 2026-11-25）",
+   "basis": "社会科学哲学通行（与 natural kind 自然类对举；语料 5 次）；凭证 2026-11-25"
+  },
+  {
+   "en": "speech act theory",
+   "zh": "言语行为理论",
+   "table": "term",
+   "first_seen": "语料回收（社会本体论与生物学族扫描 2026-11-25）",
+   "basis": "语言哲学通行（奥斯汀—塞尔；语料 8 次）；凭证 2026-11-25"
+  }
+ ]
+}
