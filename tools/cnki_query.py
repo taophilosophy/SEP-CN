@@ -142,6 +142,10 @@ def _youdao_parse(html):
 _ACTIVE_TOKEN = None
 
 
+class ChannelSuspect(RuntimeError):
+    """通道看似成功实则不可用（权限失效、回包结构变更）。不重试、不记空命中。"""
+
+
 def _tl_all_fetch(term, timeout):
     """审定名词库 allSearch；需 X-Access-Token 明文 JWT，匿名恒空（200 但 totalRecords=0）。"""
     if not _ACTIVE_TOKEN:
@@ -166,12 +170,24 @@ def _tl_all_parse(data):
     字段实测（2026-10-28）：tmWordList 词条 cn/en/source/subjectName/subjectFullName/
     publishYear/definition/bbh/wordNumber。命中按库聚合，库名由 tmDatabase/listFront
     的 id↔dbName 映射（0=审定公布/1=海峡两岸/2=其他来源/6=预公布）。
+
+    2026-11-25 加通道失效识别：token 失效或权限降级时，接口仍回 success=true、
+    HTTP 200，但三个分库 id 变成 UUID（"00000000000000000000000000000000" 一类），
+    各库 totalRecords=0、sourceStats/yearStats 全空。旧解析会把这种回包记成
+    “审定库确无收录”，写成一条 0 命中的凭证——假证据，比缺证据更坏（实测 35 条
+    被误写后删除）。故：分库 id 无一落在 DB_NAMES 且全库为零，即抛 ChannelSuspect。
     """
     result = (data or {}).get('result') or {}
     DB_NAMES = {'0': '审定公布名词库', '1': '海峡两岸名词对照库',
                 '2': '其他来源数据库', '6': '预公布名词数据库'}
+    segs = result.get('searchResult') or []
+    if segs and not any(str((s or {}).get('id')) in DB_NAMES for s in segs):
+        if not any(((s or {}).get('result') or {}).get('totalRecords') for s in segs):
+            raise ChannelSuspect(
+                'termonline-all 回空桶（分库 id 未映射：%s），疑 token 权限失效；'
+                '不记为空命中' % ','.join(str((s or {}).get('id'))[:8] for s in segs))
     hits, notes = [], []
-    for seg in result.get('searchResult') or []:
+    for seg in segs:
         res = (seg or {}).get('result') or {}
         total = res.get('totalRecords') or 0
         db = DB_NAMES.get(str((seg or {}).get('id')), str((seg or {}).get('id')))
@@ -219,13 +235,18 @@ def query_once(provider, term, timeout=30):
 
 
 def query_with_retry(provider, term, retries=(15, 30, 60), timeout=30):
-    """退避重试；返回 (status, hits, note, raw, error)。"""
+    """退避重试；返回 (status, hits, note, raw, error)。
+
+    ChannelSuspect（通道结构/权限异常）不重试、不记空命中：status='denied'。
+    """
     note, err = '', None
     for attempt in range(1 + len(retries)):
         try:
             data, hits, note = query_once(provider, term, timeout)
             status = 'ok' if hits else 'empty'
             return status, hits, note, data, None
+        except ChannelSuspect as exc:
+            return 'denied', [], '', None, '%s: %s' % (type(exc).__name__, exc)
         except Exception as exc:  # urllib/JSON 各类失败统一退避
             err = '%s: %s' % (type(exc).__name__, exc)
             if attempt < len(retries):
@@ -304,13 +325,18 @@ def main(argv=None):
 
     outdir = os.path.join(OUTDIR, args.provider)
     os.makedirs(outdir, exist_ok=True)
-    stat = {'ok': 0, 'empty': 0, 'error': 0, 'skip': 0}
+    stat = {'ok': 0, 'empty': 0, 'error': 0, 'skip': 0, 'denied': 0}
     for key, display in collect_terms(args):
         path = os.path.join(outdir, safe_key(key) + '.json')
         if os.path.exists(path) and not args.force:
             stat['skip'] += 1
             continue
         status, hits, note, raw, err = query_with_retry(prov, display)
+        if status == 'denied':
+            # 通道异常不落凭证：留一条“无收录”凭证会成假证据，且 --resume 会挡住重试
+            stat['denied'] += 1
+            print('[denied] %s → 不写凭证（%s）' % (display, err))
+            continue
         record = {
             'key': key, 'term': display, 'provider': args.provider,
             'queried_at': datetime.now(timezone.utc).isoformat(timespec='seconds'),
@@ -325,9 +351,9 @@ def main(argv=None):
         stat[status] += 1
         print('[%s] %s → %d hits%s' % (status, display, len(hits),
                                        ('（' + err + '）') if err else ''))
-    print('查证完成：ok=%d empty=%d error=%d skip=%d（provider=%s，凭证 %s）'
-          % (stat['ok'], stat['empty'], stat['error'], stat['skip'],
-             args.provider, outdir))
+    print('查证完成：ok=%d empty=%d error=%d denied=%d skip=%d（provider=%s，凭证 %s）'
+          % (stat['ok'], stat['empty'], stat['error'], stat['denied'],
+             stat['skip'], args.provider, outdir))
     return 0
 
 

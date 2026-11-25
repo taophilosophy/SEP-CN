@@ -51,6 +51,28 @@ class CnkiQueryTests(unittest.TestCase):
         self.assertEqual(status, 'error')
         self.assertIn('disconnected', err)
 
+    def test_all_parse_normal_db_ids(self):
+        hits, note = cq._tl_all_parse({"result": {"searchResult": [
+            {"id": "0", "result": {"totalRecords": 1, "tmWordList": [
+                {"cn": "信念", "en": "belief", "wordNumber": "03.001",
+                 "source": "心理学名词", "subjectFullName": "心理学"}]}}]}})
+        self.assertEqual(len(hits), 1)
+        self.assertIn('审定公布名词库=1', note)
+
+    def test_all_parse_uuid_buckets_is_denied(self):
+        """2026-11-25 实测：token 权限失效时回包 success=true，但分库 id 变 UUID、
+        全库零记录。旧解析会记成“审定库确无收录”，产出假凭证。"""
+        body = {"success": True, "result": {"searchResult": [
+            {"id": "0" * 32, "result": {"totalRecords": 0, "tmWordList": []}},
+            {"id": "0" * 31 + "1", "result": {"totalRecords": 0, "tmWordList": []}},
+        ]}}
+        self.assertRaises(cq.ChannelSuspect, cq._tl_all_parse, body)
+        prov = {'fetch': lambda t, to: body, 'parse': cq._tl_all_parse}
+        status, hits, note, raw, err = cq.query_with_retry(prov, 'belief', retries=())
+        self.assertEqual(status, 'denied')
+        self.assertEqual(hits, [])
+        self.assertIn('ChannelSuspect', err)
+
     def test_disabled_provider_rejected(self):
         buf = io.StringIO()
         with redirect_stdout(buf):
