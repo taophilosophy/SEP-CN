@@ -28,24 +28,28 @@
 | D2 | 硬缺陷 | 顺序倒置：pipeline 链 ex-04→ex-05，rev 2 却把 ex-05 排在 ex-04 之前 | ex-05 随 ex-04 入 1.3，顺序 1.3.3→1.3.4 |
 | D3 | 硬缺陷 | “1.2 九步＝SOP 九步”不成立（SOP ①无号、⑧移 1.3.1、ex-02／ex-05 不在九步内） | 1.2 定为 8 子节；另立 §1.6 显式映射表，删除“一一对应／非新增工序”表述 |
 | D4 | 设计 | 标准对照列“—”既非适用也非不适用结论，违反 specs/061 §10 | 逐节填满：工程层写 12207:2026／29148，无对应者写“不适用（理由）”；§1.9 全量对照 |
-| D5 | 设计 | 战役混入流程段，语义正交被压平 | **战役独立成 campaigns 块（C1–C6）**，stages 只含 1–4 四段纯流程 |
-| D6 | 设计 | 阶段不可消费（无派生视图、无写入禁令） | 增 `tools/stage_of.py`（只读派生）＋“阶段号永不写入”原则＋S7 禁写校验 |
+| D5 | 设计 | 战役混入流程段，语义正交被压平 | **战役独立成 campaigns 块**，stages 只含 1–4 四段纯流程 |
+| D6 | 设计 | 阶段不可消费（无派生视图、无写入禁令） | 增 `tools/stage_of.py`（只读派生）＋“阶段号永不写入”原则＋check_stages 禁写校验 |
 | D7 | 设计 | 无 state→stage 映射 | 增 `state_stage_map`（§1.7），15 状态逐条映射 |
 | D8 | 一致性 | 预留号未入册 | 26 项 `status: reserved` 入册；总册 60 项 |
-| D9 | 一致性 | S7 五条不全 | 扩为八条（§3 第 2 项） |
+| D9 | 一致性 | check_stages 五条不全 | 扩为八条（§3 第 2 项） |
 | D10 | 一致性 | ex-05 无状态位，“格式闭合完成”无载体 | stage_of 采“最近前驱状态”规则；状态机增设登记为后续项（不在本卡） |
 | D11 | 一致性 | 1.3 父 registered、子 accepted，无父子规则 | 父子 status 独立登记，规则入 §1.1 |
 | D12 | 表述 | 子节号多轮漂移 | §1.3 总表为唯一事实源，他处只引号不重复列名 |
+| D13 | 冗余 | **战役号 C1–C6 与 ADR-0063 补丁准入谓词 C1–C4 撞名**（C1 库内既有 43 处引用），且战役已由 spec 号唯一标识 | campaigns 去号，以主 spec 号作 identifier |
+| D14 | 冗余 | marks 登记 P1–P4 与 nodes 块 aliases 重复（ex-01 的 aliases 即 P1） | 删该行 |
+| D15 | 冗余 | marks 登记 061 号域（评估已实施完毕；且与 054 的 G1–G5、rules/03 的 D1–D5、axioms 的 P1–P33 三处撞名） | 删该行；specs/061 自洽保管 |
+| D16 | 撞名 | S1–S7 双重重载（pipeline.json principles 与 check_stages 谓词共用同一套号） | 阶段轨文档一律写 check_stages，不用 S 号 |
 
 ### 0.3 目标
 
-建立**阶段轨**（stages，四段纯流程，三级 `N.M[.K]`）、**战役块**（campaigns，C1–C6）与**线级标记层**（marks），与节点轨（ADR-0080 的 22 节点）构成四层标识：节点管工序、阶段管位置、战役管全库元活动、marks 管专项线记号。阶段划分与术语对齐 ISO 17100:2015／GB/T 19363.1-2022。
+建立**阶段轨**（stages，四段纯流程，三级 `N.M[.K]`）、**战役块**（campaigns，以主 spec 号作 identifier，不发号）与**线级标记层**（marks），与节点轨（ADR-0080 的 22 节点）构成四层标识：节点管工序、阶段管位置、战役管全库元活动、marks 管专项线记号。阶段划分与术语对齐 ISO 17100:2015／GB/T 19363.1-2022。
 
 **核心设计命题**：阶段号是**派生视图**，不是事实——事实只有 `tasks.state`；阶段由 state 映射而得，永不写入 tasks／steps／journal。这条命题使阶段轨与 ADR-0080 关于“状态不可由 journal 严格重放”的经验相容，同时保证任何时刻“词条在哪一站”只有一个答案。
 
 ### 0.4 验收判据（概要，详见 §4）
 
-stages 60 项＋campaigns 9 项＋marks 10 项入册；S7 八条校验生效且经三个反例试金石验证；`stage_of.py` 可对全部 1873 件输出阶段；22 节点归属唯一；旧标记来源文件零改写；specs/062 加头注；ADR-0089 登记；`check_all` 全绿；提交即推。
+stages 60 项＋campaigns 6 项＋marks 8 项入册；check_stages 八条校验生效且经三个反例试金石验证；`stage_of.py` 可对全部 1873 件输出阶段；22 节点归属唯一；旧标记来源文件零改写；specs/062 加头注；ADR-0089 登记；`check_all` 全绿；提交即推。
 
 ## 1. 命名体系定案
 
@@ -55,12 +59,13 @@ stages 60 项＋campaigns 9 项＋marks 10 项入册；S7 八条校验生效且�
 | ---- | ---- | ---- | ---- | ---- | ---- |
 | **节点轨**（ADR-0080 既定） | `ex-01`…`sg-03` | 工序标识 | `rules/naming.json` nodes | journal、tasks.steps、状态机 | — |
 | **阶段轨**（本卡新立） | `N.M`／`N.M.K`（正则 `^[1-9]\.[0-9]{1,2}(\.[0-9]{1,2})?$`） | 生产线位置 | `rules/naming.json` stages | spec 卡头、执行账、跨卡引用 | **禁入 tasks／steps／journal**（D6） |
-| **战役块**（本卡新立） | `C1`…`C6`（正则 `^C[1-9]$`） | 全库元活动 | `rules/naming.json` campaigns | spec 卡头、执行账 | 同上 |
+| **战役块**（本卡新立） | **不发号**：identifier＝主 spec 号（如 `specs/053`），name 为 `campaign.*` | 全库元活动 | `rules/naming.json` campaigns | spec 卡头、执行账 | 同上 |
 | **线级标记层**（登记不改写） | 字母前缀原样 | 专项线内递进阶段与判据号 | `rules/naming.json` marks | 原线内继续流通 | — |
 
 **规则一（派生性）**：阶段号永不写入机读载体，由 `state_stage_map` 派生；`stage_of.py` 是唯一读取入口。
 **规则二（正交性）**：战役与阶段正交——一场战役可跨多个阶段，一个阶段可受多场战役影响；故不同编号空间、不互相嵌套。
 **规则三（status 语义）**：`accepted`（已认可且常态执行）／`registered`（已登记落点、未常态执行）／`active`（当前在批）／`reserved`（号位预留未分配）／`retired`（退役，号不回收）。父子 status 独立登记，不要求一致（D11）：1.3 整体 `registered` 而其子节 1.3.3 因已入状态机强制集而为 `accepted`。
+**规则四（seg 映射）**：`seg1–seg3` 是 `rules/pipeline.json` 的契约分组（3 段），阶段轨是作业站序（4 段），映射为 1↔seg1、2↔seg2、3 与 4↔seg3。**对外引用一律用阶段号；seg 仅 pipeline 内部结构字段**（stages 条目以 `seg` 字段回指，不反向改写 pipeline）。
 
 ### 1.2 四段划分与映射规则
 
@@ -137,19 +142,20 @@ stages 60 项＋campaigns 9 项＋marks 10 项入册；S7 八条校验生效且�
 
 > **D10 观察项**：ex-05 无状态位（state null），1.3.4 无法由 state 派生；`stage_of` 采“最近前驱状态”规则（见 §1.7 注）。为 ex-05 增设状态位属状态机变更，另卡处理。
 
-### 1.4 战役块（campaigns 9 项）
+### 1.4 战役块（campaigns 6 项，不发号）
 
-| 号 | name | label | 落点 | 标准对照 | status |
+战役以**主 spec 号为 identifier**（D13）：战役的身份就是它的规格卡，二次编码既违反单一事实源，又与 ADR-0063 补丁准入谓词 C1–C4 撞名（C1 库内既有 43 处引用）。
+
+| identifier | name | label | 范围 specs | 标准对照 | status |
 | ---- | ---- | ---- | ---- | ---- | ---- |
-| C1 | campaign.wipe-restart | 全库置空与重译启动 | ADR-0081/0082、specs/062 §6 | 不适用（组织级活动；记录保留偏离见 ADR-0082／ISO 15489-1 D4 登记） | registered |
-| C2 | campaign.term-extraction | 术语全库提取 | specs/058 | ISO 704／1087／30042、GB/T 44227（术语数据模型） | active |
-| C3 | campaign.en-template-audit | EN 模板审计（挂 B0–B3.2 阶梯） | specs/044/047/053 | 不适用（工程层语料装配；配置管理参照 12207:2026） | active |
-| C4 | campaign.mulu-recategorize | 目录六区重分类 | specs/055/056/057 | 不适用（内部目录体系，无外部标准对象） | registered |
-| C5 | campaign.rework-backfill | 受控回炉与回补 | specs/028/030/052 | ISO 5060（质量复核）、ISO 17100（复核独立性） | active |
-| C6 | campaign.standards-review | 标准对齐复核（挂 061 号域） | specs/061 | 自身即标准符合性评估，不另引标准 | registered |
-| C7–C9 | — | 预留 | — | — | reserved |
+| specs/062 | campaign.wipe-restart | 全库置空与重译启动 | specs/062 §6、ADR-0081/0082 | 不适用（组织级活动；记录保留偏离见 ADR-0082／ISO 15489-1 D4 登记） | registered |
+| specs/058 | campaign.term-extraction | 术语全库提取 | specs/058 | ISO 704／1087／30042、GB/T 44227（术语数据模型） | active |
+| specs/053 | campaign.en-template-audit | EN 模板审计（挂 B0–B3.2 阶梯） | specs/044、specs/047、specs/053 | 不适用（工程层语料装配；配置管理参照 12207:2026） | active |
+| specs/055 | campaign.mulu-recategorize | 目录六区重分类 | specs/055、specs/056、specs/057 | 不适用（内部目录体系，无外部标准对象） | registered |
+| specs/028 | campaign.rework-backfill | 受控回炉与回补 | specs/028、specs/030、specs/052 | ISO 5060（质量复核）、ISO 17100（复核独立性） | active |
+| specs/061 | campaign.standards-review | 标准对齐复核 | specs/061 | 自身即标准符合性评估，不另引标准 | registered |
 
-**正交性示例**（写入 ADR-0089 与 naming.json 注释）：C3 影响 1.2.7（B 族账本）与 1.3.4（格式闭合）；C5 影响 3.1–3.9；C2 影响 2.1 与 3.1。战役与阶段是多对多，不得嵌套编号。
+**正交性示例**（写入 ADR-0089 与 naming.json 注释）：EN 模板审计战役（specs/053）影响 1.2.7 与 1.3.4；回炉战役（specs/028）影响 3.1–3.9；术语提取（specs/058）影响 2.1 与 3.1。战役与阶段是多对多，不得嵌套编号。跨卡引用写“specs/053 战役”或 `campaign.en-template-audit`，不写裸字母号。
 
 ### 1.5 ex 节点寄居表（修改后）
 
@@ -206,24 +212,47 @@ D1／D2 修正要点：ex-05 是**语法格式层检查**而非补丁应用；�
 
 **注（D10）**：无状态位节点（ex-01／ex-02／ex-03／ex-05／tr-01／tr-05）的完成不上报状态；`stage_of` 以其**最近前驱有状态节点的阶段号**表示当前所在站，并输出 `derived_from` 字段说明派生依据，不伪造状态。
 
-### 1.8 线级标记层（marks 10 项，原名全保留）
+### 1.8 线级标记层（marks 8 项，原名全保留）
 
-| prefix | range | line | attach | source | status |
+| prefix | range | line | attach | 备注 | status |
 | ---- | ---- | ---- | ---- | ---- | ---- |
-| B | B0–B3.2（B3.1 装配／B3.2 判断） | en-template-audit | C3 主挂；1.2.7 刷新 | specs/044-b0b1-baseline、specs/047-structural-reverse-check、specs/053-en-template-audit | live |
-| G | G1–G5 | catalog-network | 1.1.2 | specs/054-catalog-network-replay | live |
-| I | I1–I6 | conversion-fidelity | 1.2.3 | ADR-0063 | live |
-| T | T0–T3 | six-axis-rollback | 3.3–3.8（主挂 3.3） | specs/060-six-axis-quality-gates | live |
-| q | q1–q6 | six-axis-checklist | 3.3–3.8（逐轴对应） | specs/060；ADR-0080 既裁沿用 | live |
-| D | D1–D5 | term-diff-classification | 3.1 | rules/03-terminology.md | live |
-| W/O | spec 内未决项 | per-spec | —（跨卡须带 spec 号） | 各 spec | live |
-| P | P1–P33 | axioms | 全流程引用 | rules/axioms.json | live |
-| P | P1–P4 | legacy-node-name | — | ADR-0080 收编为 aliases | retired |
-| G/D/P（061 号域） | 061-G1–G16／061-D1–D5／061-P0–P2 | standards-realignment | C6 历史凭证 | specs/061 | retired |
+| B | B0–B3.2（B3.1 装配／B3.2 判断） | en-template-audit | specs/053 战役主挂；1.2.7 刷新 | 跨 044／047／053 三卡的阶梯，保留（B3 228 处引用） | live |
+| G | G1–G5 | catalog-network | 1.1.2 | 与 doctrine 的 G0–G5（不具约束力）撞名，跨卡引用写“054-G1”或“目录门禁 G1” | live |
+| I | I1–I6 | conversion-fidelity | 1.2.3 | 唯一合法偏离是格式补丁（I3） | live |
+| T | T0–T3 | six-axis-rollback | 3.3–3.8（主挂 3.3） | 升档时相，六轴共用 | live |
+| q | q1–q6 | six-axis-checklist | 3.3–3.8（逐轴对应） | **equivalent：q1↔rv-03、q2↔rv-04、q3↔rv-05、q4↔rv-06、q5↔rv-07、q6↔rv-08**；清单文件名 `q1-cite.md` 等沿用（ADR-0080 既裁），此为唯一合法冗余 | live |
+| D | D1–D5 | term-diff-classification | 3.1 | 与 061 决策点 D1–D5 撞名；061 侧不登记，引用写“061-D1” | live |
+| P | P1–P33 | axioms | 全流程引用 | 节点旧名 P1–P4 **不在本层登记**（已含于 nodes.aliases，D14） | live |
+| L | 局部编号族 | per-spec／per-checklist | — | 通则：W/O（spec 内未决项）、A1（连接号波）、X1（rv-09 吸收项）、轴清单项（`q1 C-1…C-7`／`q2 L-1…L-6`／`q3 G-1…G-8`／`q5 M-1…M-8`）、脚本名 phase11／phase12——**不跨卡裸引用**，引用须带前缀（如 `specs/060 q1 C-1`、`specs/004 W11`） | live |
 
-> marks 只登记不改写：不重命名、不加前缀、不消解撞名（用户 2026-11-26 裁定）。跨线引用须带线名或 spec 号。ADR 与 spec 原文一字不动。
+**已废除的登记项（D14／D15）**：`P1–P4 节点旧名`（重复于 nodes.aliases）、`061 号域 G1–G16／D1–D5／P0–P2`（评估已实施完毕，specs/061 自洽保管；登记只会把撞名面从 1 处扩到 3 处）。
 
-### 1.9 标准对照锚点
+> marks 只登记不改写：不重命名、不加前缀、不消解撞名（用户 2026-11-26 裁定）。ADR 与 spec 原文一字不动。
+
+### 1.9 编号族总表与撞名处置
+
+| 族 | 实测规模（库内引用次数） | 归属 | 处置 |
+| ---- | ---- | ---- | ---- |
+| ex/tr/rv/sg-01… | 22 个，sg-03 34／rv-09 32 | 节点轨 | 不可动 |
+| N.M／N.M.K | 本卡新立 | 阶段轨 | 入册 |
+| campaign.* | 本卡新立（不发号） | 战役块 | 入册，identifier＝spec 号 |
+| B0–B3.2 | B3 228／B0 126／B1 119／B3.2 91／B3.1 80 | EN 模板审计阶梯 | 保留 |
+| G1–G5 | G1 71／G4 55／G5 53 | 054 目录门禁 | 保留，前缀消解 |
+| I1–I6 | I2 111／I3 80 | ADR-0063 不变量 | 保留 |
+| T0–T3 | T1 83／T2 54 | 060 升档时相 | 保留 |
+| q1–q6 | q6 101／q1 88 | 060 轴标签 | 保留，标 equivalent |
+| D1–D5 | D1 109／D5 70 | rules/03 术语五分类 | 保留 |
+| P1–P33 | P1 118／P8 25 | axioms 公理 | 保留 |
+| C1–C4 | C1 43／C2 30 | ADR-0063 补丁准入谓词 | 保留（故战役不得用 C 号） |
+| S1–S7 | S5 28／S6 25／S1 23 | principles＋check_stages 谓词（双重重载） | 阶段轨不用；引用写 `check_stages` |
+| G0–G5（doctrine） | G0 23 | rules/reference 方法论（不具约束力） | 前缀“doctrine” |
+| P1–P4 | P4 39 | 节点旧名 | 仅存 nodes.aliases |
+| A1／X1／W／O | A1 97／W1 31／W8 26 | spec 内编号 | 局部编号通则（L 条） |
+| 061 号域 | — | 已完成评估 | 不登记 |
+| seg1–seg3 | pipeline 结构 | 契约分组 | 不作对外引用 |
+| V01 | 1 项 | standards.json 偏离号 | 登记册内部编号，保留 |
+
+### 1.10 标准对照锚点
 
 - ISO 17100:2015＋Amd 1:2017（现行；AWI 修订约至 2029）§5.3 前期准备（源文本接受性、术语工作）、§5.4 翻译过程（笔译→自检→双语审校〔强制〕→单语审校〔可选〕→校对〔可选〕→最终验证与发布）。
 - GB/T 19363.1-2022（等同采用 ISO 17100，现行）：自检＝checking（3.2.5）、双语审校＝revising（3.4.5）、单语审校＝reviewing（3.4.6）、校对＝proofreading（3.4.7）。
@@ -244,15 +273,15 @@ D1／D2 修正要点：ex-05 是**语法格式层检查**而非补丁应用；�
 
 ## 3. 实施步骤
 
-1. **naming.json 升 v2**：schema `sep-naming/v2`；增 `stages`（60 项）、`campaigns`（9 项）、`marks`（10 项）、`state_stage_map`（§1.7）；`patterns` 增 stage 三级正则与 campaign 正则；`revision` 记 rev 3。
-2. **S7 扩展**（`tools/check_stages.py`）八条：
+1. **naming.json 升 v2**：schema `sep-naming/v2`；增 `stages`（60 项）、`campaigns`（6 项，无号，identifier＝主 spec 号）、`marks`（8 项）、`state_stage_map`（§1.7）；`patterns` 增 stage 三级正则（**不设 campaign 正则**，D13）；`revision` 记 rev 4。
+2. **check_stages 扩展**（`tools/check_stages.py`）八条：
    ① stages 自洽：identifier 唯一、符合正则、`specs` 落点存在、status 枚举内。
    ② 节点↔阶段**双向**一致：每个 pipeline 节点恰出现于一个 stages 子节；每个 `stages[].nodes` 的 id 在 nodes 块存在。
    ③ 大段 2–4 子节号＝节点号（M＝节点号规则）。
    ④ ex 寄居表逐条硬比对：ex-01→1.2.1、ex-02→1.2.2、ex-03→1.2.3、ex-04→1.3.3、ex-05→1.3.4；**ex-04 出现在 1.2 任何子节即红**（不变量 2 的机检形态）。
-   ⑤ marks 自洽：`attach` 指向存在的 stages 号或 campaigns 号；status ∈ {live, retired}。
+   ⑤ marks 自洽：`attach` 指向存在的 stages 号或 campaigns identifier（主 spec 号）；status ∈ {live, retired}；`equivalent` 字段（q↔rv）两侧皆须存在。
    ⑥ 非节点子节须有 `specs` 落点或母节归属，不得游离。
-   ⑦ **预留完整性**：1.4–1.9／2.6–2.9／3.10–3.19／4.4–4.9／C7–C9 以 `reserved` 在册；已用号与 reserved 号不得重叠；retired 号不复用。
+   ⑦ **预留完整性**：1.4–1.9／2.6–2.9／3.10–3.19／4.4–4.9 以 `reserved` 在册；已用号与 reserved 号不得重叠；retired 号不复用。
    ⑧ **映射完整性**：`state_stage_map` 的键集＝naming.json 中 state 非 null 的节点 state 集；值皆为存在的 stages 号。**另加写入禁令校验**：扫描 `tasks/` 与 `journal/` 不得出现阶段号／战役号模式。
 3. **反例试金石**（rules/08 §9–12）：注入三个反例验证机检确拦——a）ex-04 归属改 1.2.4 应红；b）tr-03 子节改 2.4 撞 tr-04 应红；c）tasks 中植入字符串 `1.2.3` 应红。还原复跑应绿。evidence 落 `results/s7-probe.json`。
 4. **`tools/stage_of.py`（新增，D6）**：只读派生视图。
@@ -260,7 +289,7 @@ D1／D2 修正要点：ex-05 是**语法格式层检查**而非补丁应用；�
    - 全库：`--all` → 阶段分布计数（按 stages 号聚合，供 PROGRESS 后续消费）。
    - 纪律：只读、不写盘、不修改 tasks；无状态节点按 §1.7 注取最近前驱。
 5. **specs/062 注记**：spec.md 首行下加一行“注（2026-11-26）：阶段 1＝源侧镜像与交割；1.1 两半段、1.2 八子节、1.3 四步交割（含 ex-04／ex-05 放行门）见 specs/063 与 ADR-0089”；sop.md 加一行“九步与 stages 子节的映射见 specs/063 §1.6”。正文不动。
-6. **ADR-0089**：`rules/adr/0089-阶段轨命名与线级标记登记.md`。内容：背景（§0.1–§0.2 摘要）、决策（四层标识、阶段派生原则、四段＋战役正交、ex 寄居表、八条 S7、stage_of 唯一入口）、后果（跨卡引用可机检、marks 冻结、战役与阶段不嵌套、ex-05 无状态位为已知缺口）、回退（naming.json 单文件、git revert 整体可退）。
+6. **ADR-0089**：`rules/adr/0089-阶段轨命名与线级标记登记.md`。内容：背景（§0.1–§0.2 摘要）、决策（四层标识、阶段派生原则、四段＋战役正交、ex 寄居表、八条 check_stages、stage_of 唯一入口）、后果（跨卡引用可机检、marks 冻结、战役与阶段不嵌套、ex-05 无状态位为已知缺口）、回退（naming.json 单文件、git revert 整体可退）。
 7. **指针登记**：specs/README.md 063 行（rev 3 描述）；`rules/04-translation-workflow.md`“节点标识与旧名”节末增阶段轨＋战役块＋stage_of 三行指针；AGENTS.md 按任务必读表与硬约束表各增指针（不复制数字）。**该步待并行会话收工后执行**（AGENTS.md／rules/04 当前有他人在途改动）。
 8. **后续项登记**（不在本卡实施）：①ex-05 状态位；②PROGRESS 增“阶段分布”节（消费 `stage_of --all`）；③spec 卡头“阶段／战役”字段模板（写入 `specs/README.md` 表列后续演进）。
 
@@ -268,8 +297,8 @@ D1／D2 修正要点：ex-05 是**语法格式层检查**而非补丁应用；�
 
 ## 4. 验收判据
 
-1. `rules/naming.json` schema `sep-naming/v2`，stages 60／campaigns 9／marks 10／state_stage_map 18 在册。
-2. S7 八条生效；三个反例（ex-04 错寄／tr 撞号／tasks 植入阶段号）必红，还原必绿；probe 凭证落盘。
+1. `rules/naming.json` schema `sep-naming/v2`，stages 60／campaigns 6／marks 8／state_stage_map 18 在册；campaigns 无字母号（D13）。
+2. check_stages 八条生效；三个反例（ex-04 错寄／tr 撞号／tasks 植入阶段号）必红，还原必绿；probe 凭证落盘。
 3. `stage_of.py` 对全部 1873 件输出阶段，无异常；`--all` 分布计数与 `tasks.state` 聚合一致（独立复算）。
 4. 22 节点归属唯一且与 §1.5 寄居表逐条一致；`check_all` 全绿（清单以 `--list-gates` 为准）。
 5. 每个 stages／campaigns 条目有标准对照，或“不适用”附理由（specs/061 §10 第 2 条）。
@@ -281,9 +310,10 @@ D1／D2 修正要点：ex-05 是**语法格式层检查**而非补丁应用；�
 | 决策 | 裁定 |
 | ---- | ---- |
 | 大段划分 | rev 3：**四段纯流程**（源侧／翻译／审校／终审）＋**战役独立块**；五段制作废 |
-| 战役编号空间 | 独立 C1–C6（不与阶段嵌套，正交多对多） |
+| 战役编号空间 | 独立块、正交多对多（rev 3）；**不发号，以主 spec 号作 identifier**（rev 4，D13） |
 | 22 节点归位 | 全部归 x.y；ex 寄居 1.2.1／1.2.2／1.2.3／1.3.3／1.3.4 |
 | 旧标记处置 | 一律保留原名原义，撤撞名消解与加前缀 |
+| 冗余编号废除 | marks 删 P1–P4（重复 aliases）与 061 号域（已完成）；阶段轨不用 S 号（D14–D16） |
 | 1.4／1.5（旧预留） | 并入 1.2（1.2.4 资产闭包／1.2.6 补丁三判定） |
 | 1.3 归属 | 独立站，扩为四步交割（建账→置空→源审计→格式闭合） |
 | 1.1 内部结构 | 两半段显式编号 1.1.1／1.1.2 |
@@ -300,4 +330,5 @@ D1／D2 修正要点：ex-05 是**语法格式层检查**而非补丁应用；�
 
 - **rev 1（2026-11-26）**：立卡，六段制；提交 `0938d40e1`。
 - **rev 2（2026-11-26）**：阶段 2 消解进 1.2／1.3，五段制＋三级号；提交 `1cad6ed4a`。
-- **rev 3（2026-11-26）**：不计成本重审，修正 D1–D12；四段制＋战役独立＋stage_of＋S7 八条。代码侧仍未动（naming.json 未升 v2），无迁移成本。
+- **rev 3（2026-11-26）**：不计成本重审，修正 D1–D12；四段制＋战役独立＋stage_of＋check_stages 八条。代码侧仍未动（naming.json 未升 v2），无迁移成本。
+- **rev 4（2026-11-26）**：编号族全库扫描后的冗余清理，修正 D13–D16——战役去号（避 ADR-0063 C1–C4 撞名）、marks 10→8、阶段轨弃 S 号、新增 §1.9 编号族总表与 seg 映射规则。
