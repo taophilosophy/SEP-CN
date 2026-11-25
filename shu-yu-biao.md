@@ -3519,8 +3519,7 @@
 | humility | — | 谦卑 | modesty-humility | 学界通行译法（与 modesty“谦逊”区分；凭证 2026-11-06） | 2026-11-06 |
 | humility theory of wisdom | — | 智慧的谦逊理论 | 首现（wisdom） | 学界惯例（Ryan 词条分类）；凭证 2026-11-07 | 2026-11-07 |
 | Humorism | — | 四体液说 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·医学模式，2026-11-18 JWT 直连凭证） | 2026-11-19 |
-| humors | — | 体液 | vives | 盖伦医学通行 | 2026-11-25 |
-| humours | — | 体液 | locke-on-medicine | 医史通行（盖伦四体液：血液/黑胆/黄胆/黏液） | 2026-11-05 |
+| humors / humours | — | 体液 | vives | 盖伦医学通行；异形键 humours（英式拼写）并入（2026-11-25；旧键首现 locke-on-medicine） | 2026-11-25 |
 | Hungarian Uprising | — | 匈牙利起义 | 语料回收（lakatos 首译） | 史学界通行译法（1956）；凭证 2026-11-06 | 2026-11-06 |
 | Huntington's disease | — | 亨廷顿病 | genetics | 医学通行译名；凭证 2026-11-11（主会话直译 g/genetics） | 2026-11-11 |
 | hupatuphos | — | 半脱虚妄 | 首现（timon-phlius） | 学界惯例（第蒙自铸形容词，partly free from tuphos）；凭证 2026-11-07 | 2026-11-07 |
