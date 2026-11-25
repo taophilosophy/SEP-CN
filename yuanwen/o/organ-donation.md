@@ -279,7 +279,7 @@ The suspension of normal allocation principles when live donation is involved of
 
 ## Related Entries
 
-[autonomy in moral and political philosophy](https://plato.stanford.edu/entries/autonomy-moral/) | beneficence, principle of | coercion | death: definition of | decision-making capacity | ethics, biomedical: clinical research | ethics, biomedical: justice, inequality, and health | ethics, biomedical: privacy and medicine | informed consent | justice: distributive | libertarianism | mental disorder | paternalism | respect | sale of human organs
+[autonomy in moral and political philosophy](https://plato.stanford.edu/entries/autonomy-moral/) | beneficence, principle of | coercion | death: definition of | decision-making capacity | ethics, biomedical: clinical research | ethics, biomedical: justice, inequality, and health | ethics, biomedical: privacy in health care and research | informed consent | justice: distributive | libertarianism | mental disorder | paternalism | respect | sale of human organs
 
 ### Acknowledgments
 

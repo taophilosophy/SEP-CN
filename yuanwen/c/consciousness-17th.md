@@ -394,7 +394,7 @@ But the overall transition has been made. The initial transition from a morally-
 
 ## Other Internet Resources
 
-- [Early English Books Online](http://eebo.chadwyck.com/home) and [Gallica](http://gallica.bnf.fr/) have online facsimiles of many seventeenth-century texts, including some of the ones cited above.
+- [Early English Books Online](http://eebo.chadwyck.com/home) and [Gallica](https://gallica.bnf.fr/) have online facsimiles of many seventeenth-century texts, including some of the ones cited above.
 
 ## Related Entries
 

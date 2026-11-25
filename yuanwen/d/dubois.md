@@ -384,7 +384,7 @@ To be sure, it would be false to claim that all of the above-mentioned interpret
 
 ## Related Entries
 
-Africana Philosophy | Crummell, Alexander | democracy | Dilthey, Wilhelm | double consciousness | Douglass, Frederick | Hegel, Georg Wilhelm Friedrich | history, philosophy of | James, William | Locke, Alain LeRoy | race | race-black-identity | Royce, Josiah | social construction: naturalistic approaches to | Weber, Max
+Africana Philosophy | Crummell, Alexander | democracy | Dilthey, Wilhelm | double consciousness | Douglass, Frederick | Hegel, Georg Wilhelm Friedrich | history and historiography, philosophy of | James, William | Locke, Alain LeRoy | race | race-black-identity | Royce, Josiah | social construction: naturalistic approaches to | Weber, Max
 
 ## Notes（原文脚注）
 

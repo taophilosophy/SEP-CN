@@ -498,7 +498,7 @@ Thus, if we look back to the beginnings of informational privacy in the late nin
 
 ## Related Entries
 
-artificial intelligence: ethics of | autonomy: in moral and political philosophy | ethics, biomedical: privacy and medicine | feminist philosophy, interventions: philosophy of law | information technology: and privacy | legal rights | liberty: positive and negative | rights | rights: human | torts, theories of the common law of | value: intrinsic vs. extrinsic
+artificial intelligence: ethics of | autonomy: in moral and political philosophy | ethics, biomedical: privacy in health care and research | feminist philosophy, interventions: philosophy of law | information technology: and privacy | legal rights | liberty: positive and negative | rights | rights: human | torts, theories of the common law of | value: intrinsic vs. extrinsic
 
 [^allen-1988]: Allen, Anita L., 1988, *Uneasy Access: Privacy for Women in a Free Society*, (New Feminist Perspectives Series), Totowa, NJ: Rowman & Littlefield.
 

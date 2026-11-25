@@ -338,7 +338,7 @@ But what are the criteria by which one can say that this world is the *best*? It
 
 ## Other Internet Resources
 
-- [Gallica](http://gallica.bnf.fr/) (Contains searchable texts from Leibniz)
+- [Gallica](https://gallica.bnf.fr/) (Contains searchable texts from Leibniz)
 - [Gottfried-Wilhelm-Leibniz-Gesellschaft](http://www.gottfried-wilhelm-leibniz-gesellschaft.de/)
 - [Leibnitiana](http://www.gwleibniz.com/)
 - [Leibniz-Edition](http://www.leibniz-edition.de/)

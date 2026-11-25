@@ -196,7 +196,7 @@ All quotations from Engels in this article follow the translations compiled in t
 
 ## Related Entries
 
-feminist philosophy, interventions: political philosophy | Feuerbach, Ludwig Andreas | Hegel, Georg Wilhelm Friedrich | history, philosophy of | idealism | ideology | Marx, Karl | Marxism, after Marx | Marxism, analytical | socialism
+feminist philosophy, interventions: political philosophy | Feuerbach, Ludwig Andreas | Hegel, Georg Wilhelm Friedrich | history and historiography, philosophy of | idealism | ideology | Marx, Karl | Marxism, after Marx | Marxism, analytical | socialism
 
 [^marx-1976]: Marx, Karl and Friedrich Engels, 1976–, *Gesamtausgabe* [“MEGA”], Berlin: De Gruyter.
 

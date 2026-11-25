@@ -192,7 +192,7 @@ Finally, the investigation of macroevolution challenges the purported distinctio
 
 ## Related Entries
 
-adaptationism | biological individuals | biology: philosophy of | creationism | Darwinism | evolution | fitness | genetic drift | genetics: population | history, philosophy of | laws of nature | natural selection | natural selection: units and levels of | reduction, scientific: in biology | scientific knowledge: social dimensions of | species | teleology: teleological notions in biology
+adaptationism | biological individuals | biology: philosophy of | creationism | Darwinism | evolution | fitness | genetic drift | genetics: population | history and historiography, philosophy of | laws of nature | natural selection | natural selection: units and levels of | reduction, scientific: in biology | scientific knowledge: social dimensions of | species | teleology: teleological notions in biology
 
 [^armstrong-1981]: Armstrong, Joseph E. and Boyce A. Drummond, 1981, “Macroevolution Conference”, *Science*, 211(4484): 774–774. doi:10.1126/science.211.4484.774
 

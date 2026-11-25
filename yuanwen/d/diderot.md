@@ -523,7 +523,7 @@ The authors wish to thank Daniel Brewer, Andrew Curran, Kate Tunstall, and John 
 
 [^holbach-1770]: d’Holbach, Paul Henri Thiry, Baron, 1770/1781 [1990], *Système de la Nature ou des lois du monde physique et du monde moral*, first edition 1770, 2 vols.. Reprinted Josiane Boulad-Ayoub (ed), (Corpus des Œuvres de philosophie en langue française), Paris: Fayard, 1990.
 
-[^holbach-1774]: –––, 1774, *Le bon sens, ou Idées naturelles opposées aux idées surnaturelles*, London: n.p. [d’Holbach 1774 available online](http://gallica.bnf.fr/ark:/12148/bpt6k739238)
+[^holbach-1774]: –––, 1774, *Le bon sens, ou Idées naturelles opposées aux idées surnaturelles*, London: n.p. [d’Holbach 1774 available online](https://gallica.bnf.fr/ark:/12148/bpt6k739238)
 
 [^hugo-1876]: Hugo, Victor, 1876, *Actes et paroles*, vol. 7, Paris: J. Hetzel & Co. [[Hugo 1876 available online](https://fr.wikisource.org/wiki/Actes_et_paroles,_volume_7)]
 

@@ -258,7 +258,7 @@ In seeking justification for the requirement of informed consent, we may therefo
 
 ## Related Entries
 
-advance directives | autonomy: in moral and political philosophy | autonomy: personal | contractarianism | decision-making capacity | ethics, biomedical: clinical research | ethics, biomedical: privacy and medicine | ethics: internet research | euthanasia: voluntary | liberty: positive and negative | paternalism | privacy | property and ownership | respect | social contract: contemporary approaches to | trust | well-being
+advance directives | autonomy: in moral and political philosophy | autonomy: personal | contractarianism | decision-making capacity | ethics, biomedical: clinical research | ethics, biomedical: privacy in health care and research | ethics: internet research | euthanasia: voluntary | liberty: positive and negative | paternalism | privacy | property and ownership | respect | social contract: contemporary approaches to | trust | well-being
 
 ### Acknowledgments
 

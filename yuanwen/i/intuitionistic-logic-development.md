@@ -858,17 +858,17 @@ Note that Gödel did not take this earlier opportunity to announce his translati
 
 [^dequoy-1952]: Dequoy, Nicolle, 1952 [1955], *Axiomatique intuitionniste sans négation de la géométrie projective*, PhD thesis, Université de Paris. Published in 1955, Paris:Gauthier-Villars (Collection de logique mathématique ; sér. A, 6).
 
-[^destouches-février-1945a]: Destouches-Février, Paulette, 1945a, “Rapports entre le calcul des problèmes et le calcul des propositions”, *Comptes Rendus de l’Académie des sciences*, 220: 484–486. [[Destouches-Février 1945a available online](http://gallica.bnf.fr/ark:/12148/bpt6k3172c/f484)]
+[^destouches-février-1945a]: Destouches-Février, Paulette, 1945a, “Rapports entre le calcul des problèmes et le calcul des propositions”, *Comptes Rendus de l’Académie des sciences*, 220: 484–486. [[Destouches-Février 1945a available online](https://gallica.bnf.fr/ark:/12148/bpt6k3172c/f484)]
 
-[^destouches-février-1945b]: –––, 1945b, “Logique adaptee aux théories quantiques”, *Comptes Rendus de l’Académie des sciences*, 221: 287–288. [[Destouches-Février 1945b available online](http://gallica.bnf.fr/ark:/12148/bpt6k3173p/f287)]
+[^destouches-février-1945b]: –––, 1945b, “Logique adaptee aux théories quantiques”, *Comptes Rendus de l’Académie des sciences*, 221: 287–288. [[Destouches-Février 1945b available online](https://gallica.bnf.fr/ark:/12148/bpt6k3173p/f287)]
 
-[^destouches-février-1947a]: –––, 1947a, “Sur la notion d’adequation et le calcul minimal de Johannsson”, *Comptes Rendus de l’Académie des sciences*, 224: 545–547. [[Destouches-Février 1947a available online](http://gallica.bnf.fr/ark:/12148/bpt6k3176m/f545)]
+[^destouches-février-1947a]: –––, 1947a, “Sur la notion d’adequation et le calcul minimal de Johannsson”, *Comptes Rendus de l’Académie des sciences*, 224: 545–547. [[Destouches-Février 1947a available online](https://gallica.bnf.fr/ark:/12148/bpt6k3176m/f545)]
 
-[^destouches-février-1947b]: –––, 1947b, “Esquisse d’une mathématique intuitioniste positive”, *Comptes Rendus de l’Académie des sciences*, 225: 1241–1243. [[Destouches-Février 1947b available online](http://gallica.bnf.fr/ark:/12148/bpt6k3177x/f1243)]
+[^destouches-février-1947b]: –––, 1947b, “Esquisse d’une mathématique intuitioniste positive”, *Comptes Rendus de l’Académie des sciences*, 225: 1241–1243. [[Destouches-Février 1947b available online](https://gallica.bnf.fr/ark:/12148/bpt6k3177x/f1243)]
 
-[^destouches-février-1948]: –––, 1948, “Logique de l’intuitionisme sans négation et logique de l’intuitionisme positif”, *Comptes Rendus de l’Académie des sciences*, 226: 38–39. [[Destouches-Février 1948 available online](http://gallica.bnf.fr/ark:/12148/bpt6k31787/f38)]
+[^destouches-février-1948]: –––, 1948, “Logique de l’intuitionisme sans négation et logique de l’intuitionisme positif”, *Comptes Rendus de l’Académie des sciences*, 226: 38–39. [[Destouches-Février 1948 available online](https://gallica.bnf.fr/ark:/12148/bpt6k31787/f38)]
 
-[^destouches-février-1949]: –––, 1949, “Connexions entre les calculs des constructions, des problèmes, des propositions”, *Comptes Rendus de l’Académie des sciences*, 228: 31–33. [[Destouches-Février 1949 available online](http://gallica.bnf.fr/ark:/12148/bpt6k31801/f31)]
+[^destouches-février-1949]: –––, 1949, “Connexions entre les calculs des constructions, des problèmes, des propositions”, *Comptes Rendus de l’Académie des sciences*, 228: 31–33. [[Destouches-Février 1949 available online](https://gallica.bnf.fr/ark:/12148/bpt6k31801/f31)]
 
 [^destouches-février-1951]: –––, 1951, “Sur l’intuitionnisme et la conception strictement constructive”, *Proceedings Koninklijke Nederlandse Akademie van Wetenschappen Amsterdam*, 54: 80–86. doi:10.1016/S1385-7258(51)50012-4
 
@@ -958,7 +958,7 @@ Note that Gödel did not take this earlier opportunity to announce his translati
 
 [^griss-1948a]: –––, 1948a, “Sur la négation (dans les mathématiques et la logique)”, *Synthese*, 7(1/2): 71–74.
 
-[^griss-1948b]: –––, 1948b, “Logique des mathématiques intuitionistes sans négation”, *Comptes Rendus de l’Académie des sciences*, 227: 946–948. [[Griss 1948b available online](http://gallica.bnf.fr/ark:/12148/bpt6k3179j/f938)]
+[^griss-1948b]: –––, 1948b, “Logique des mathématiques intuitionistes sans négation”, *Comptes Rendus de l’Académie des sciences*, 227: 946–948. [[Griss 1948b available online](https://gallica.bnf.fr/ark:/12148/bpt6k3179j/f938)]
 
 [^griss-1950]: –––, 1950, “Negationless intuitionistic mathematics. II”, *Proceedings Koninklijke Nederlandse Akademie van Wetenschappen Amsterdam*, 53: 456–463. Also *Indagationes Mathematicae*, 12: 108–115.
 

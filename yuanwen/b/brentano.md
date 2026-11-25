@@ -294,7 +294,7 @@ Brentano, Franz: theory of judgement | consciousness: and intentionality | consc
 
 [^wahrheit-1930]: *Wahrheit und Evidenz*, ed. by Oskar Kraus, Leipzig: Meiner, 1930.
 
-[^was-1876]: *Was für ein Philosoph manchmal Epoche macht*, Wien: Hartleben, 1876. [[Available online](http://gallica.bnf.fr/ark:/12148/bpt6k75159j)]
+[^was-1876]: *Was für ein Philosoph manchmal Epoche macht*, Wien: Hartleben, 1876. [[Available online](https://gallica.bnf.fr/ark:/12148/bpt6k75159j)]
 
 [^werkausgabe-nd]: *Werkausgabe: sämtliche veröffentlichte Schriften* (10 vols.), Frankfurt: ontos (in publication).
 

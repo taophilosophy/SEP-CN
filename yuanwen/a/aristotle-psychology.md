@@ -174,17 +174,29 @@ Aristotle, General Topics: ethics | Aristotle, General Topics: metaphysics
 
 ## Notes（原文脚注）
 
-### Notes to The Active Mind of *De Anima* iii 5
+[^note-1]: 1\. Readers wishing for a fuller introduction may wish to review the relevant section of the entry on Aristotle.
 
-[^note-1]: 1\. For useful collections of references to a representative sample of the voluminous literature on this chapter, see Wedin (1988, 160–1 nn. 1–4) and Caston (1999, 199 n.1). For a somewhat older but still extremely valuable collection of interpretations, see Hicks (1907)[^hicks-1907].
+### Notes to [Supplement D. Psychic Mereology](aristotle-psychology.psychic-mereology.md)
 
-[^note-2]: 2\. Aquinas develops this approach instructively. See his *In de anima* 730.
+[^note-2]: 2\. For a similar appraisal, see Sorabji (1974, 64)[^sorabji-1974].
 
-[^note-3]: 3\. This approach finds a powerful advocate in Alexander of Aphrosias, *in De An.* 88.10–16. Some modern scholars who regard hylomorphism as incompatible with personal immortality: Jaeger (1948), Nuyens (1948), and Dancy (1996).
+[^note-3]: 3\. One especially fruitful discussion of these and allied questions is Corcilius and Gregoric (2010).
 
-[^note-4]: 4\. The bracketed text recurs in its entirety at *DA* iii 7, 431a1–4. It seems likely that they were inserted by a scribe seeking to provide an explanation of the way in which the active is prior to the passive.
+[^note-4]: 4\. See Whiting (2002), Shields (2016)[^shields-2016], and Corcilius (2021)[^corcilius-2021] for different sorts of explanations of these questions.
 
-[^note-5]: 5\. Hicks (1907, 509–510)[^hicks-1907] provides a succinct summary of the main approaches, before opting for a version of (ii) as his own preference. As he notes, most ancient commentators opted for (iv), because they took Aristotle to be explaining his otherwise obscure remark about memory in the previous line. See, e.g. Themistius *In de an*. 101.27 and Philoponus *In de an.* 62.1.
+[^note-5]: 5\. This is a topic which rightly exercised later Aristotelians, who investigated this matter is some detail. See, eg. Suarez (1597).
+
+### Notes to [Supplement G. The Active Mind of *De Anima* iii 5](aristotle-psychology.active-mind.md)
+
+[^note-6]: 6\. For useful collections of references to a representative sample of the voluminous literature on this chapter, see Wedin (1988, 160–1 nn. 1–4) and Caston (1999, 199 n.1). For a somewhat older but still extremely valuable collection of interpretations, see Hicks (1907)[^hicks-1907].
+
+[^note-7]: 7\. Aquinas develops this approach instructively. See his *In de anima* 730.
+
+[^note-8]: 8\. This approach finds a powerful advocate in Alexander of Aphrosias, *in De An.* 88.10–16. Some modern scholars who regard hylomorphism as incompatible with personal immortality: Jaeger (1948), Nuyens (1948), and Dancy (1996).
+
+[^note-9]: 9\. The bracketed text recurs in its entirety at *DA* iii 7, 431a1–4. It seems likely that they were inserted by a scribe seeking to provide an explanation of the way in which the active is prior to the passive.
+
+[^note-10]: 10\. Hicks (1907, 509–510)[^hicks-1907] provides a succinct summary of the main approaches, before opting for a version of (ii) as his own preference. As he notes, most ancient commentators opted for (iv), because they took Aristotle to be explaining his otherwise obscure remark about memory in the previous line. See, e.g. Themistius *In de an*. 101.27 and Philoponus *In de an.* 62.1.
 
 [^aquinas-1999]: Aquinas, Thomas, 1999, *A Commentary in Aristotle’s De anima*, tr. by Robert Pasnau, New Haven: Yale University Press.
 

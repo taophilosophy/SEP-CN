@@ -135,7 +135,7 @@ A different aspect of Oakeshott’s conception of historical inquiry can be brou
 
 ## Related Entries
 
-categories | history, philosophy of | idealism | nature of law | practical reason
+categories | history and historiography, philosophy of | idealism | nature of law | practical reason
 
 [^oakeshott-1933]: Oakeshott, M., 1933 [*EM*], *Experience and Its Modes*, Cambridge: Cambridge University Press.
 

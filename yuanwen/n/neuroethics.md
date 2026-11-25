@@ -269,7 +269,7 @@ CRISPR, optogenetics, and other technologies were not even imagined a few decade
 
 ## Related Entries
 
-autonomy: in moral and political philosophy | autonomy: personal | bias, implicit | decision-making capacity | ethics, biomedical: clinical research | ethics, biomedical: justice, inequality, and health | ethics, biomedical: privacy and medicine | free will | health | human enhancement | informed consent | moral responsibility | personal identity | personal identity: and ethics
+autonomy: in moral and political philosophy | autonomy: personal | bias, implicit | decision-making capacity | ethics, biomedical: clinical research | ethics, biomedical: justice, inequality, and health | ethics, biomedical: privacy in health care and research | free will | health | human enhancement | informed consent | moral responsibility | personal identity | personal identity: and ethics
 
 ### Acknowledgments
 

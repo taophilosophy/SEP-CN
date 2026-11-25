@@ -213,20 +213,20 @@ Had he lived longer, he would have seen many disappointments, watching as so man
 
 ### Works by Condorcet Online
 
-- Condorcet, 1791, [*Cinq mémoires sur l’instruction publique*](http://classiques.uqac.ca/classiques/condorcet/cinq_memoires_instruction/cinq_memoires.html), hosted at Les classiques des sciences sociales (Université du Québec)
+- Condorcet, 1791, [*Cinq mémoires sur l’instruction publique*](https://classiques.uqam.ca/classiques/condorcet/cinq_memoires_instruction/cinq_memoires.html), hosted at Les classiques des sciences sociales (Université du Québec)
 - Condorcet, Year 6 (1798), URL: [*Esquisse d’un tableau historique des progrès de l’esprit humain*](http://socserv.mcmaster.ca/~econ/ugcm/3ll3/condorcet/cindex1.htm), 4ᵗʰ edition, Paris: Agasse (hosted at U. McMaster).
-- Condorcet, 1789, [*Idées sur le despotisme, à l’usage de ceux qui prononcent ce mot sans l’entendre*](http://gallica.bnf.fr/ark:/12148/bpt6k41724z), extract from *Oeuvres de Condorcet*, vol. 9, A. Condorcet O’Connor and M.F. Arago (eds.), Paris: Didot, 1847.
+- Condorcet, 1789, [*Idées sur le despotisme, à l’usage de ceux qui prononcent ce mot sans l’entendre*](https://gallica.bnf.fr/ark:/12148/bpt6k41724z), extract from *Oeuvres de Condorcet*, vol. 9, A. Condorcet O’Connor and M.F. Arago (eds.), Paris: Didot, 1847.
 - Marie-Jean-Antoine-Nicolas Caritat, Marquis de Condorcet, (1796), [1795], [*Outlines of an historical view of the progress of the human mind*](http://oll.libertyfund.org/index.php?option=com_staticxt&staticfile=show.php%3Ftitle=1669&Itemid=28), a posthumous work of the late M. de Condorcet. (Translated from the French), in The Online Library of Liberty.
-- Condorcet, 1781, [*Reflexions sur l’esclavage des nègres*](http://gallica.bnf.fr/ark:/12148/bpt6k823018), by M. Schwartz, pastor at Bienne.
+- Condorcet, 1781, [*Reflexions sur l’esclavage des nègres*](https://gallica.bnf.fr/ark:/12148/bpt6k823018), by M. Schwartz, pastor at Bienne.
 - Condorcet, 1790, [Sur l’admission des femmes au droit au cité](http://oll.libertyfund.org/index.php?option=com_staticxt&staticfile=show.php%3Ftitle=1014&Itemid=99999999), Journal de la Société de 1789, 3 juillet 1790, no. V.
 
 ### Web Resources on Condorcet
 
 - [Marie Jean Antoine Nicolas Caritat, marquis de Condorcet](http://agora.qc.ca/mot.nsf/Dossiers/Marie_Jean_Antoine_Nicolas_Caritat_marquis_de_Condorcet), Encyclopedia entry, in French (L’Encyclopédie de L’Agora).
 - [Condorcet, l’instruction et la cité](http://www.mezetulle.net/article-1560495.html), blog entry by Catherine Kintzler, 3 parts and references.
-- [Condorcet: le fondateur des systèmes scolaires modernes](http://classiques.uqac.ca/contemporains/massot_alain/condorcet/condorcet.html), text by Alain Massot, presented to the 70e Congrès de l’Acfas, Histoire, Université Laval, QUÉBEC, 16 May 2002.
+- [Condorcet: le fondateur des systèmes scolaires modernes](https://classiques.uqam.ca/contemporains/massot_alain/condorcet/condorcet.html), text by Alain Massot, presented to the 70e Congrès de l’Acfas, Histoire, Université Laval, QUÉBEC, 16 May 2002.
 - [Condorcet, un mathématicien engagé](http://pagesperso-orange.fr/fabien.besnard/condorcet.htm), by Fabien Besnard, EPF école d’ingénieurs, Sceaux.
-- [*De Condorcet à Gramsci: un élan à rénouveler*](http://classiques.uqac.ca/contemporains/fossaert_robert/de_condorcet_a_gramsci/de_Condorcet.html), text by Robert Fossaert, Paris, 1996.
+- [*De Condorcet à Gramsci: un élan à rénouveler*](https://classiques.uqam.ca/contemporains/fossaert_robert/de_condorcet_a_gramsci/de_Condorcet.html), text by Robert Fossaert, Paris, 1996.
 
 ### Related Web Resources
 

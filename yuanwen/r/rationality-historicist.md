@@ -288,7 +288,7 @@ How significant can we expect historical epistemology to be in the longer run? H
 
 ## Related Entries
 
-Collingwood, Robin George | decision theory | epistemology: Bayesian | epistemology: evolutionary | epistemology: social | feminist philosophy, interventions: epistemology and philosophy of science | feminist philosophy, interventions: political philosophy | feminist philosophy, interventions: social epistemology | feminist philosophy, topics: perspectives on science | Feyerabend, Paul | history, philosophy of | incommensurability: of scientific theories | justification, epistemic: internalist vs. externalist conceptions of | Kuhn, Thomas | Lakatos, Imre | mental causation | Popper, Karl | relativism | Rorty, Richard | scientific discovery | scientific explanation: 20th century theories | scientific knowledge: social dimensions of | scientific method | scientific progress | scientific realism
+Collingwood, Robin George | decision theory | epistemology: Bayesian | epistemology: evolutionary | epistemology: social | feminist philosophy, interventions: epistemology and philosophy of science | feminist philosophy, interventions: political philosophy | feminist philosophy, interventions: social epistemology | feminist philosophy, topics: perspectives on science | Feyerabend, Paul | history and historiography, philosophy of | incommensurability: of scientific theories | justification, epistemic: internalist vs. externalist conceptions of | Kuhn, Thomas | Lakatos, Imre | mental causation | Popper, Karl | relativism | Rorty, Richard | scientific discovery | scientific explanation: 20th century theories | scientific knowledge: social dimensions of | scientific method | scientific progress | scientific realism
 
 ### Acknowledgments
 

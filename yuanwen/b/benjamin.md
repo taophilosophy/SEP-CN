@@ -262,7 +262,7 @@ Benjamin was interested in ‘culture’ not as an autonomous realm of values (�
 
 ## Related Entries
 
-Adorno, Theodor W. | Cohen, Hermann | critical theory | Croce, Benedetto: aesthetics | Derrida, Jacques | Fichte, Johann Gottlieb | Habermas, Jürgen | Hamann, Johann Georg | Hegel, Georg Wilhelm Friedrich | Heidegger, Martin | history, philosophy of | Horkheimer, Max | Husserl, Edmund | Kant, Immanuel | Lukács, Georg [György] | Marx, Karl | metaphysics | Nietzsche, Friedrich | nominalism: in metaphysics | Novalis [Georg Friedrich Philipp von Hardenberg] | realism | Rickert, Heinrich | Schlegel, August Wilhelm von | Schlegel, Friedrich | Schmitt, Carl | Scholem, Gershom
+Adorno, Theodor W. | Cohen, Hermann | critical theory | Croce, Benedetto: aesthetics | Derrida, Jacques | Fichte, Johann Gottlieb | Habermas, Jürgen | Hamann, Johann Georg | Hegel, Georg Wilhelm Friedrich | Heidegger, Martin | history and historiography, philosophy of | Horkheimer, Max | Husserl, Edmund | Kant, Immanuel | Lukács, Georg [György] | Marx, Karl | metaphysics | Nietzsche, Friedrich | nominalism: in metaphysics | Novalis [Georg Friedrich Philipp von Hardenberg] | realism | Rickert, Heinrich | Schlegel, August Wilhelm von | Schlegel, Friedrich | Schmitt, Carl | Scholem, Gershom
 
 [^german-2008]: The current standard German edition of Benjamin’s work remains Suhrkamp’s seven volume *Gesammelte Schriften*, edited by Tiedemann and Schweppenhauser, although a new *Kritish Gesamtausgabe*, also by Suhrkamp and projected at twenty-one volumes, began to appear in 2008 and is due to be completed in 2027. The standard English edition is Harvard University Press’ recent four volume *Selected Writings*, *Early Writings*, and *The Arcades Project*.
 

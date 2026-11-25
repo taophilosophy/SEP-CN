@@ -303,7 +303,7 @@ An asterisk (\*) on a date indicates the work was published posthumously.
 
 ## Related Entries
 
-Gadamer, Hans-Georg | Hegel, Georg Wilhelm Friedrich | Heidegger, Martin | hermeneutics | history, philosophy of | Kant, Immanuel | Schleiermacher, Friedrich Daniel Ernst
+Gadamer, Hans-Georg | Hegel, Georg Wilhelm Friedrich | Heidegger, Martin | hermeneutics | history and historiography, philosophy of | Kant, Immanuel | Schleiermacher, Friedrich Daniel Ernst
 
 [^briefwechsel-1877]: *Briefwechsel zwischen Wilhelm Dilthey und dem Grafen Paul Yorck von Wartenburg, 1877–1897*, Halle (Saale), Germany: M. Niemeyer, 1922.
 

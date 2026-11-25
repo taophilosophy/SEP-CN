@@ -4,7 +4,7 @@
 
 #### Supplement to Self-Knowledge
 
-## 
+## Knowledge of the Self
 
 The main entry focused on knowledge of one’s own mental states. Yet “self-knowledge” can also be used to refer to knowledge of the self and its nature. Issues about knowledge of the self include: (1) how it is that one distinguishes oneself from others, as the object of a self-attribution; (2) whether self-awareness yields knowledge of the material or non-material nature of the self; (3) whether self-awareness yields knowledge of one’s personal identity over time; and (4) what sort of self-understanding is required for rational or free agency. These issues are closely connected with referential semantics, the mind-body problem, the metaphysics of personal identity, and moral psychology, respectively. This section briefly sketches some prominent views about knowledge of the self arising from debates in these areas, especially as they related to self-knowledge of our mental states (for a differently oriented overview of these topics, see the entry on self-consciousness).
 

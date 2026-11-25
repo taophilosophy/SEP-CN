@@ -1,5 +1,5 @@
 # Method and Metaphysics in Plato’s *Sophist* and *Statesman*
-**First published Thu Oct 6, 2005; substantive revision Wed Feb 26, 2020**
+**First published Thu Oct 6, 2005; substantive revision Sun Nov 22, 2026**
 
 *Gill, Mary-Louise*
 
@@ -7,7 +7,7 @@ The *Sophist* and *Statesman* are late Platonic dialogues, whose relative dates 
 
 ## 1. Introduction
 
-The *Sophist* and *Statesman* represent themselves as the first two members of a trilogy, which was to include a third member, the *Philosopher*, a dialogue Plato never wrote. The conversations in the *Sophist* and *Statesman* take place sequentially on a single day and are dramatically linked to the *Theaetetus*, which occurred on the previous day, shortly before Socrates’ trial and death (*Theaetetus* 210d, *Sophist* 216a). The *Theaetetus* and *Sophist* are also linked more remotely to the *Parmenides*, a conversation Socrates says he had with the great philosopher of Elea, when Parmenides was old and he was very young (*Theaetetus* 183e–184a, *Sophist* 217c). Socrates plays a minor role in the conversations in the *Sophist* and *Statesman*, observing the proceedings but replaced as main speaker by a visitor from Elea, a follower of Parmenides, who converses with Theaetetus in the *Sophist* and with a young man named Socrates (the Younger) in the *Statesman*.
+The *Sophist* and *Statesman* present themselves as the first two members of a trilogy, which was to include a third member, the *Philosopher*, a dialogue Plato never wrote. The conversations in the *Sophist* and *Statesman* take place sequentially on a single day and are dramatically linked to the *Theaetetus*, which occurred on the previous day, shortly before Socrates’ trial and death (*Theaetetus* 210d, *Sophist* 216a). The *Theaetetus* and *Sophist* are also linked more remotely to the *Parmenides*, a conversation Socrates says he had with the great philosopher of Elea, when Parmenides was old and he was very young (*Theaetetus* 183e–184a, *Sophist* 217c). Socrates plays a minor role in the conversations in the *Sophist* and *Statesman*, observing the proceedings but replaced as main speaker by a visitor from Elea, a follower of Parmenides, who converses with Theaetetus in the *Sophist* and with a young man named Socrates (the Younger) in the *Statesman*.
 
 Although the *Sophist* and *Statesman* are dialogues, the interaction between the Stranger and his two young interlocutors seems rather different from that between Socrates and his interlocutors in the Socratic dialogues, including the *Theaetetus*. In that dialogue Theaetetus distinguished himself as a highly promising student, who answered Socrates’ questions resourcefully. The respondents in the *Sophist* and *Statesman* are docile by comparison, readily accepting the Stranger’s arguments and occasionally asking him to explain, but rarely raising tough objections or making good proposals of their own. Young Socrates in the *Statesman* is particularly prone to misunderstandings and mistakes. Of all the respondents in Plato’s dialogues, the interlocutors in the *Sophist* and *Statesman* most closely resemble the respondent in the second part of the *Parmenides*, a young man named Aristotle (not the famous philosopher), who never objects when he should, and who gives his most enthusiastic assents when Parmenides’ argument is most problematic or obscure.
 
@@ -113,7 +113,7 @@ This entry skips over the puzzles about being, which aim to show that we are in 
 
 ### 5.2 Great Kinds
 
-To show that we can call one thing by many names and that some names specify a thing but misdescribe it, the Stranger introduces some machinery. He proposes that some kinds can *partake of*, or *blend* or *associate with*, other kinds (these terms appear to be synonyms and to introduce an asymmetrical relation between an entity and a property it has (*pace* Cornford 1935, 255–57; see Ackrill 1957, 212–18)[^cornford-1935], whereas some kinds cannot blend with each other (*Sophist* 251e–252e). Great kinds enable the blending of other kinds, much as vowels enable consonants to fit together (252e–253a). Just as one needs expertise to know how letters combine, so one needs expertise to know how forms combine—an expertise the Stranger calls *dialectic* and attributes to the philosopher (*Sophist* 253b–e). (For different interpretations of the brief vexed passage on dialectic in the *Sophist*, see Stenzel 1931 [1940], Gómez-Lobo 1977, and M. L. Gill 2012, ch. 7.)[^gill-2012][^gómez-lobo-1977]
+To show that we can call one thing by many names and that some names specify a thing but misdescribe it, the Stranger introduces some machinery. He proposes that some kinds can *partake of*, or *blend* or *associate with*, other kinds (these terms appear to be synonyms and to introduce an asymmetrical relation between an entity and a property it has (*pace* Cornford 1935, 255–57; see Ackrill 1957)[^ackrill-1957][^cornford-1935], whereas some kinds cannot blend with each other (*Sophist* 251e–252e). Great kinds enable the blending of other kinds, much as vowels enable consonants to fit together (252e–253a). Just as one needs expertise to know how letters combine, so one needs expertise to know how forms combine—an expertise the Stranger calls *dialectic* and attributes to the philosopher (*Sophist* 253b–e). (For different interpretations of the brief vexed passage on dialectic in the *Sophist*, see Stenzel 1931 [1940], Gómez-Lobo 1977, and M. L. Gill 2012, ch. 7.)[^gill-2012][^gómez-lobo-1977]
 
 The Stranger announces that there are five great kinds (*Sophist* 254b–c), and he will ask two questions about them: (1) Of what sort are they? and (2) what capacity do they have to associate with other things? (*Sophist* 254c). The five kinds are change, rest, being, sameness and difference, and he will eventually interpret not-being as difference (*Sophist* 257b, 258e–259a). He does not say that these five are the only great kinds. There are probably others, including likeness and unlikeness, oneness and multitude (cf. *Parmenides* 129d–e and 130b). The second part of the *Parmenides* investigates such kinds, especially oneness and multitude, being and not-being, but also sameness and difference, likeness and unlikeness, equality and inequality, and others. The visitor presumably selects the five he does in the *Sophist*, because for the present purpose he needs a pair of opposites that exclude each other (change and rest, described as “most opposite” [*Sophist* 250a], serve as mutually exclusive consonant forms) and three vowel forms—being, sameness, and difference—enabling kinds to fit together or to be marked off from others.
 
@@ -145,7 +145,7 @@ What is it for something to be *itself by itself* and/or *in relation to other t
 
 > Of things that are, some are by themselves (*kath’ heauta*), whereas others are said in relation to something (*pros ti*). Things said by themselves are ones that need nothing further in their interpretation. These would be, for instance, man, horse and other animals, since none of these gains through interpretation. All the things said in relation to something need in addition some interpretation, for instance, that which is greater than something and that which is quicker than something and the more beautiful and such things. For the greater is greater than something less and the quicker is quicker than something. So of things-that-are some are said themselves by themselves (*auta kath’ hauta*), whereas others are said in relation to something (*pros ti*). In this way, according to Aristotle, he [Plato] used to divide the primary things. (Diogenes Laertius 3.108–109)
 
-Many scholars think that, in saying that being is said both itself by itself (*auto kath’ hauto*) and in relation to other things (*pros alla*), Plato distinguishes different senses of the verb “to be”—a complete or absolute sense (“exists,” as in “The sea is”) and an incomplete sense (the “is” of predication, as in “the sea is blue” and/or the “is” of identity, as in “the sea is the sea”) (Cornford 1935; Ackrill 1957)[^cornford-1935]. There is no separate verb “to exist” in classical Greek; existence was expressed by means of the verb “to be.”
+Many scholars think that, in saying that being is said both itself by itself (*auto kath’ hauto*) and in relation to other things (*pros alla*), Plato distinguishes different senses of the verb “to be”—a complete or absolute sense (“exists,” as in “The sea is”) and an incomplete sense (the “is” of predication, as in “the sea is blue” and/or the “is” of identity, as in “the sea is the sea”) (Cornford 1935; Ackrill 1957)[^ackrill-1957][^cornford-1935]. There is no separate verb “to exist” in classical Greek; existence was expressed by means of the verb “to be.”
 
 If the Stranger characterizes being as having two (or more) senses, we expect Plato to mention two (or more) forms of being, one for each sense. Note that the Stranger introduces sameness as a distinct kind, which should take care of the “is” of identity, so the real issue is whether Plato distinguishes two other senses of the verb “to be,” a complete existential sense and an incomplete predicative sense. Michael Frede (1967, 1992)[^frede-1967][^frede-1992] and G. E. L. Owen (1971)[^owen-1971] argue that Plato does not mark off two senses of the verb “to be,” but only different uses. There are significant differences between these scholars’ views, but their common ground, that Plato uses “being” only as an incomplete predicate, has been queried. Sentences in the *Sophist*, such as “Change is, because it partakes of being” (*Sophist* 256a), are most naturally construed as using “is” as a complete predicate (existence).
 
@@ -207,9 +207,9 @@ The main idea about statements is simple: a statement has *structure* and its pa
 
 The statements the Stranger considers, “Man learns,” “Theaetetus is sitting,” and “Theaetetus is flying,” are all positive predications, the first two true, the third false. But as noted above (§ 5.5), we need negative predication to analyze the false statement, “Theaetetus is flying.” Since the statement is false, the statement “Theaetetus is not flying” is true.
 
-Negative predication has received considerable attention in the scholarly literature on the *Sophist* (for helpful accounts of the various interpretations, and their advantages and disadvantages, see Keyt 1973 and Crivelli 2012)[^crivelli-2012][^keyt-1973]. Some scholars think that Plato needs a second notion of negation in addition to difference (understood as distinctness or non-identity), such as incompatibility, to accommodate negative predication. On this view, flying is incompatible with one of Theaetetus’ properties (namely sitting). The incompatibility interpretation requires Plato to change the meaning of *heteron* from “different” to “incompatible,” and there is no evidence in the text that he does. The Oxford interpretation (mentioned above § 6.1) has the advantage of keeping a single meaning for *heteron* but calls for universal quantification over properties: to analyze the statement “Theaetetus is not flying,” one must show that flying is different from everything that Theaetetus is—a man, snub-nosed, sitting, and so on. The *Sophist* does not provide evidence of such an approach (see Wiggins 1971; Bostock 1984, 113; White 1993, §§ 10, 11)[^bostock-1984][^white-1993][^wiggins-1971].
+Negative predication has received considerable attention in the scholarly literature on the *Sophist* (for helpful accounts of the various interpretations, and their advantages and disadvantages, see Keyt 1973 and Crivelli 2012)[^crivelli-2012][^keyt-1973]. Some scholars think that Plato needs a second notion of negation in addition to difference (understood as distinctness or non-identity), such as incompatibility, to accommodate negative predication. On that view, flying is incompatible with one of Theaetetus’ properties (namely sitting). The incompatibility interpretation requires Plato to change the meaning of *heteron* from “different” to “incompatible,” and there is no evidence in the text that he does. The Oxford interpretation (mentioned above § 6.1) has the advantage of keeping a single meaning for *heteron* but calls for universal quantification over properties: to analyze the statement “Theaetetus is not flying,” one must show that flying is different from everything that Theaetetus is—a man, snub-nosed, sitting, and so on. The *Sophist* does not provide evidence of such an approach (see Wiggins 1971; Bostock 1984, 113; White 1993, §§ 10, 11)[^bostock-1984][^white-1993][^wiggins-1971].
 
-If Plato construes difference as a structural kind that operates in the way we have discussed (the incompatibility range interpretation), he can handle negative predication without introducing a second meaning of *heteron*. We need not consider all of Theaetetus’ properties to explain the falsehood of “Theaetetus is flying.” The analysis of negative predication is complex: the item negated in “Simmias is not large” indicates a division of the genus size, and the negation designates something different (non-identical, distinct) from largeness within that genus. In the case of Theaetetus’ imagined flight, we must find that activity different from flying within the relevant incompatibility set, a set apparently consisting of our pair of consonant forms: change/rest. Since Theaetetus is currently sitting (a species of rest), his current rest excludes flying (a species of change). One can explain his not flying by appeal to his sitting.
+If Plato construes difference as a structural kind that operates in the way we have discussed (the incompatibility range/set interpretation), he can handle negative predication without introducing a second meaning of *heteron*. We need not consider all of Theaetetus’ properties to explain the falsehood of “Theaetetus is flying.” The analysis of negative predication is complex: the item negated in “Simmias is not large” indicates a division of the genus size, and the negation designates something different (non-identical, distinct) from largeness within that genus. In the case of Theaetetus’ imagined flight, we must find that activity different from flying within the relevant incompatibility set, a set apparently consisting of our pair of consonant forms: change/rest. Since Theaetetus is currently sitting (a species of rest), his current rest excludes flying (a species of change). One can explain his not flying by appeal to his sitting.
 
 ## 7. Method and Metaphysics in the *Statesman*
 
@@ -227,7 +227,7 @@ Although the Stranger admits that he is wandering from the topic and should put 
 
 First the visitor retraces his steps and points out that in speaking of rearing animate things, he and Young Socrates had already in effect divided living creatures into wild and tame (*Statesman* 264a). All rearing deals with tame animals, and some of that rearing devotes itself to tame animals in herds. He then divides herd-rearing into aquatic and terrestrial (the branch he pursues), next marks off the winged from the footed (the branch he pursues), then the horned (oxen, sheep) from the hornless (the branch he pursues), then the interbreeding (horses, donkeys) from the non-interbreeding (the branch he pursues), and finally the four-footed (just pigs are left) from the two-footed (humans). He now defines statecraft as rearing the two-footed, non-interbreeding, hornless, terrestrial, tame herd: humans (*Statesman* 267a–c).
 
-This division has given Platonic division a bad name, and there is much to query (see Dorter 1994: 181–91)[^dorter-1994], but perhaps the most obviously dubious move comes at the end: according to the division, the swineherd has more in common with the statesman than with the cowherd and shepherd. Later in the dialogue the visitor says that the statesman differs from all other herdsman (including the swineherd) in a crucial respect. No one disputes with the cowherd his claim to look after all aspects of the life of his herd—he rears them; he is their doctor, their match-maker, their breeder and trainer—and the same is true of all other herdsmen, with one exception: the herdsman of humans, the statesman. In his case alone many rivals compete for the title of caretaker—farmers produce their food, doctors cure their diseases, physical trainers guide their exercise, and other experts attend to other human needs (*Statesman* 267e–268d). Given this difference, would it not have been better to distinguish humans from other herded animals at the outset, as Young Socrates proposed?
+This division has given Platonic division a bad name, and there is much to query (see Dorter 1994: 181–91)[^dorter-1994], but perhaps the most obviously dubious move comes at the end: according to the division, the swineherd has more in common with the statesman than with the cowherd and shepherd. Later in the dialogue the visitor says that the statesman differs from all other herdsman (including the swineherd) in a crucial respect. No one disputes with the cowherd his claim to look after all aspects of the life of his herd—he rears them; he is their doctor, their match-maker, their breeder and trainer—and the same is true of all other herdsmen, with one exception: the herdsman of humans, the statesman. In his case alone many rivals compete for the title of caretaker—farmers produce their food, doctors cure their diseases, physical trainers guide their exercise, and other experts attend to other human needs (*Statesman* 267e–268d). Given that difference, would it not have been better to distinguish humans from other herded animals at the outset, as Young Socrates proposed?
 
 Young Socrates’ division into the herding of humans and the herding of other animals seems in retrospect to have considerable merit and indeed to apply two lessons from earlier in the day (cf. § 6.1 above). First, the Stranger said in the *Sophist* that parts of knowledge derive their names from the objects they are set over (*Sophist* 257c–d), and that claim justifies identifying statecraft—a mode of herding—as human herding. Second, a negation specifies the complement of a form within a wider kind, and that thesis justifies distinguishing herded animals into humans and other animals. In the *Sophist*, kinds designated by negations, such as the not-large and the not-beautiful, have their own distinctive feature (not-large, not-beautiful), and one might construe them as forms, though the Stranger does not explicitly identify them as such (*Sophist* 257e–258c). Evidence from the *Sophist* thus encourages a division of animals herded into humans and other animals, especially since the negative kind has a positive name: “beast.”
 
@@ -235,19 +235,19 @@ Young Socrates has in fact made an error, but the nature of his error becomes ev
 
 What should we make of the Stranger’s lecture on parts and kinds, given that it overlooks the real faults in Young Socrates’ proposal and that the second stage of the division yields such odd results? The Stranger probably suspects the nature of the boy’s confusion and adopts an approach to help him see his mistake. His lecture assumes the boy’s point of view (that statecraft differs from other modes of herding because of the physical traits of the animals herded), advises him to divide kinds into sub-kinds with roughly equal extension, and then demonstrates in hilarious detail the results of that assumption. According to this interpretation, we should not take the Stranger’s lecture to reveal Plato’s views on metaphysics and method. In the lecture itself the visitor appears to warn Young Socrates and the audience to beware of his advice (*Statesman* 263b: “But be absolutely on your guard against ever thinking that you have heard this [i.e., the difference between kind and part] clearly distinguished by me”).
 
-Our suspicions should increase when we reflect on the Stranger’s practice in the dichotomous divisions in the *Sophist* and earlier in the *Statesman*. At the beginning of the *Statesman* the visitor declares that his search for the statesman will start from the same genus used in the search for the sophist, but he will cut it in a different place (*Statesman* 258b–c). No one remarks on the fact that in the *Sophist* the visitor divided the genus art or expertise (*technê*), whereas now he calls the genus “knowledge” (*epistêmê*); he blurs the difference further by using the terms *technê* and *epistêmê* interchangeably in the *Statesman*. In the *Sophist* he cut the genus at step one into productive and acquisitive (later he added separative), and this time cuts it at step one into practical and theoretical. Recall that in the *Phaedrus* the elder Socrates advises his interlocutor to divide kinds at the natural joints: dividing at the natural joints mattered in that dialogue, because Socrates was classifying kinds in order to sort out an ambiguity between two senses of the word “love” (*eros*), a vulgar love on the left and a heavenly love on the right (*Phaedrus* 265e–266b). The *Sophist* and *Statesman* use dichotomous division for a different purpose and consequently ignore parts on the left once marked off: the Stranger aims to define a single kind at the *bottom* of the right-hand branch of a tree. The target (however vague or even misguided the initial conception of it) determines what genus to divide at the start, then a useful first cut and relevant next steps. Different targets (the angler, the sophist, the noble sophist, the statesman) prompt the investigators to carve up kinds in different ways (cf. Ackrill 1970, 384; Cavini 1995, 131; Lane 1998, 34–38)[^ackrill-1970][^cavini-1995][^lane-1998], and what counts as an appropriate cut depends on the target of the investigation. We should not expect genuine kinds at intermediate steps on either the left- or right-hand side of the division.
+Our suspicions should increase when we reflect on the Stranger’s practice in the dichotomous divisions in the *Sophist* and earlier in the *Statesman*. At the beginning of the *Statesman* the visitor declares that his search for the statesman will start from the same genus used in the search for the sophist, but he will cut it in a different place (*Statesman* 258b–c). No one remarks on the fact that in the *Sophist* the visitor divided the genus art or expertise (*technê*), whereas now he calls the genus “knowledge” (*epistêmê*); he blurs the difference further by using the terms *technê* and *epistêmê* interchangeably in the *Statesman*. In the *Sophist* he cut the genus at step one into productive and acquisitive (later he added separative), and this time cuts it at step one into practical and theoretical. Recall that in the *Phaedrus* the elder Socrates advises his interlocutor to divide kinds at the natural joints: dividing at the natural joints mattered in that dialogue, because Socrates was classifying kinds in order to sort out an ambiguity between two senses of the word “love” (*eros*), a vulgar love on the left and a heavenly love on the right (*Phaedrus* 265e–266b). The *Sophist* and *Statesman* use dichotomous division for a different purpose and consequently ignore parts on the left once marked off: the Stranger aims to define a single kind at the *bottom* of the right-hand branch of a tree. The target (however vague or even misguided the initial conception of it) determines what genus to divide at the start, then a useful first cut and relevant next steps. Different targets (the angler, the sophist, the noble sophist, the statesman) prompt the investigators to carve up kinds in different ways (cf. Ackrill 1970, 384; Cavini 1995, 131; Lane 1998, 34–38)[^ackrill-1970][^cavini-1995][^lane-1998], and what counts as an appropriate cut depends on the target of the investigation. We should not expect to find genuine kinds at intermediate steps on either the left- or right-hand side of the division.
 
 The Stranger’s lecture on parts and kinds and the second stage of the dichotomous division contribute to the overall impression that the *Statesman* is a philosophical exercise designed to train students to recognize, diagnose, and correct mistakes. The dialogue is full of trial and error, with many mistakes noticed and corrected along the way, while others go unremarked. This strategy provokes the interlocutor and audience to see for themselves what has gone wrong and why. In this way they learn the methods of Platonic dialectic.
 
 ### 7.2 Weaving and Statecraft
 
-Earlier we observed (§ 4.2) that the problems of definition to which the *Sophist* calls attention, though not unique to the sophist, are in his case partially explained by his essence. The same is true of the statesman. Why does the statesman have so many rivals? That is the puzzle of the statesman. Reflection on the shortcomings of the first division and the Myth eventually suggests a way forward. What is the special *manner* of the statesman’s care as opposed to theirs? We have noticed that the inquirers tangle the threads of theoretical and practical knowledge. This difficulty arises, because statecraft, as we finally learn, involves both theoretical and practical knowledge (cf. *Statesman* 284c, 289c–d, 305c–d, 311b–c). Because of the nature of his expertise, the statesman is intimately connected with everyone engaged in the care of humans; he oversees and directs their activities and uses their products and services in his own higher-order activity. Perhaps the statesman somehow *combines* theoretical and practical knowledge in managing the interactions of the members of his flock. Indeed, perhaps his essence is or includes the art of combining, like weaving (*Statesman* 279a–b). The last part of the dialogue recognizes this connection and takes weaving as its paradigm.
+Earlier we observed (§ 4.2) that the problems of definition to which the *Sophist* calls attention, though not unique to the sophist, are in his case partially explained by his essence. The same is true of the statesman. Why does the statesman have so many rivals? That is the puzzle of the statesman. Reflection on the shortcomings of the first division and the Myth eventually suggests a way forward. What is the special *manner* of the statesman’s care as opposed to theirs? We have noticed that the inquirers tangle the threads of theoretical and practical knowledge. This difficulty arises, because statecraft, as we finally learn, involves both theoretical and practical knowledge (cf. *Statesman* 284c, 289c–d, 305c–d, 311b–c). Because of the nature of his expertise, the statesman is intimately connected with everyone engaged in the care of humans; he oversees and directs their activities and uses their products and services in his own higher-order activity. Perhaps the statesman somehow *combines* theoretical and practical knowledge in managing the interactions of the members of his flock. Indeed, perhaps his essence is or includes the art of combining, like weaving (*Statesman* 279a–b). The last part of the dialogue recognizes that connection and takes weaving as its paradigm.
 
 The Stranger quickly presents a dichotomous division that yields the art of weaving and defines it as the art in charge of clothes (*Statesman* 279c–280a). Like the definition of the statesman reached in the first part of the dialogue, this definition, for all its detail, is too general, since many arts compete for the same title: carding, spinning, spindle-making, mending, clothes-cleaning, and others. The dichotomous division fails to isolate the *mode* of clothes-working peculiar to weaving.
 
 The paradigm of weaving serves two main functions (on the paradigm of weaving, cf. El Murr 2002 and Blondell 2005)[^blondell-2005][^el-2002][^el-2005]. First, it introduces a new procedure allowing the inquirers to differentiate the target from other arts akin to it, all located in the lowest kind reached by the previous dichotomous division. As earlier noted (§ 3.2), the new procedure is division “by limbs, like a sacrificial animal” (*Statesman* 287c) (for a different view of the Stranger’s strategy, see El Murr 2005)[^el-2005]. Whereas dichotomous division separates a kind into two parts, and then ignores at each step the part that does not lead to the goal, division by limbs breaks off pieces of an original whole, whose members are interrelated and cooperate in tending their common object. All the arts of clothes-working have clothes as their object. Many of the kindred arts provide weaving with its tools or materials (these contributing arts are characterized as *sunaitiai*, “helping causes”). The differentiation of weaving from various subsidiary arts reveals a procedure to define statecraft in relation to the subordinate arts.
 
-Second, weaving exemplifies an essential feature shared with the target: both weaving and statecraft engage in intertwining. The statesman weaves in a number of ways, and in particular weaves together into one fabric the virtues of courage and moderation, often at odds in a city. The statesman and the weaver have many other features in common. Both are experts in measurement, measuring the more and the less not merely in relation to each other but more importantly in relation to some practical goal they aim to achieve (*Statesman* 284a–e) (on the arts of measurement, see Lane 1998, Delcomminette 2005, Lafrance 2005, and Sayre 2006)[^delcomminette-2005][^lane-1998][^lane-2005][^sayre-2006]. Furthermore, the arts of both experts control the subsidiary arts, whose products they use in their own activity (*Statesman* 308d–e). The statesman directs the experts who are, as it were, the practical arms of his expertise and especially those identified as his closest kin: the orator, the general, the judge, and the teacher. The statesman, an expert in timing (see Lane 1998)[^lane-1998], determines when the general should go to war, though he leaves it to the general to work out military strategy and carry it out. He determines the good that rhetoric will serve but leaves the techniques and practice of persuasion to the rhetorician. He decides what is just and lawful but leaves it to the judges to implement his decisions (*Statesman* 303e–305d). The statesman must further determine what mix of courage and moderation will most advance the good in the city, but he calls on the teachers to instill in the youth the right belief about what is good (*Statesman* 308e–310a). The visitor tells us that the statesman cares for every aspect of things in the city, *weaving* them together in the most correct way (*Statesman* 305e).
+Second, weaving exemplifies an essential feature shared with the target: both weaving and statecraft engage in intertwining. The statesman weaves in a number of ways, and in particular weaves together into one fabric the virtues of courage and moderation, often at odds in a city. The statesman and the weaver have many other features in common. Both are experts in measurement, measuring the more and the less not merely in relation to each other but more importantly in relation to some practical goal they aim to achieve (*Statesman* 284a–e) (on the arts of measurement, see Lafrance 1995, Lane 1998, Delcomminette 2005, Sayre 2006, and Barney 2021)[^barney-2021][^delcomminette-2005][^lafrance-1995][^lane-1998][^lane-2005][^sayre-2006]. Furthermore, the arts of both experts control the subsidiary arts, whose products they use in their own activity (*Statesman* 308d–e). The statesman directs the experts who are, as it were, the practical arms of his expertise and especially those identified as his closest kin: the orator, the general, the judge, and the teacher. The statesman, an expert in timing (see Lane 1998)[^lane-1998], determines when the general should go to war, though he leaves it to the general to work out military strategy and carry it out. He determines the good that rhetoric will serve but leaves the techniques and practice of persuasion to the rhetorician. He decides what is just and lawful but leaves it to the judges to implement his decisions (*Statesman* 303e–305d). The statesman must further determine what mix of courage and moderation will most advance the good in the city, but he calls on the teachers to instill in the youth the right belief about what is good (*Statesman* 308e–310a). The visitor tells us that the statesman cares for every aspect of things in the city, *weaving* them together in the most correct way (*Statesman* 305e).
 
 ## 8. Metaphysics and Dialectic in the *Sophist* and *Statesman*
 
@@ -257,7 +257,7 @@ Our investigation of the *Sophist* and *Statesman* prompts two observations. Fir
 
 Second, the *Sophist* and *Statesman* say a lot about forms, and yet the forms discussed in these dialogues seem different in some key respects from those discussed in the *Phaedo* and first part of the *Parmenides*. Both the *Sophist* and *Statesman* search for the essence of their target kinds, the stable feature or collection of features that makes its possessor what it is. Each dialogue succeeds in revealing the essence of the kinds investigated. Are the sophist, the statesman, the angler, the weaver, and their arts separate forms of the sort discussed in the first part of the *Parmenides*? Strange if they were, since the arts are human inventions. The visitor does say (as noted in § 2 above) that “immaterial things, being finest and greatest, are revealed clearly only by means of a verbal account (*logos*) and by nothing else,” and that “all things now said are for the sake of those” (*Statesman* 285e–286b). The sophist and the statesman rank among great and difficult things (*Sophist* 218c–d, *Statesman* 278e; cf. 279a–b), and their arts are immaterial, though immanent in their possessors. So the visitor’s statement need not refer to separate forms. Still, the *Timaeus* (widely regarded as a late dialogue) speaks of separate immaterial forms, and such forms would be included in the Stranger’s statement. Whatever one makes of the treatment of forms in the *Timaeus*, separate forms are absent from the *Sophist* and *Statesman*, with one notable exception: at *Sophist* 245e–249d (the Battle of Gods and Giants), the Stranger tries to reconcile two extreme positions about being, one of which features separate, immaterial and unchanging forms.
 
-What should we think about forms of negations, such as the not-large and the not-beautiful? Aristotle criticized Plato for commitment to such forms (*Metaphysics* A.9, 990b), but notoriously Aristotle was not always fair in his criticisms. The *Sophist* explicitly speaks of the form of not-being (*Sophist* 258d: *to eidos…tou mê ontos*), and a number of scholars regard the not-large and the not-beautiful as forms (e.g., Moravcsik 1962, Frede 1967, 92–94, Szaif 1996, 439–45, Crivelli 2012, 204–14)[^crivelli-2012][^frede-1967][^frede-1996][^moravcsik-1962][^szaif-1996]. The Stranger’s lecture on parts and kinds in the *Statesman*, rejecting forms of barbarian and numbers other than 10,000, poses a well-known problem for that view, yet as we saw (§ 7.1 above) the lecture and second stage of the dichotomous division are themselves puzzling. Not only that: the Stranger warns Young Socrates not to think he has heard anything clear from him about the difference between a kind and a part (*Statesman* 263b). This warning could strengthen the hand of those who attribute to Plato a commitment to forms of negations. One question we should be asking, though: what function(s) do Platonic forms perform? Does Plato need a form whenever people call several things by the same name (as stated perhaps at *Republic* 10.596a)? Or does he invoke only those forms needed to explain the features of things? In the latter case, perhaps he can do without a form of the not-large, because he can explain that range of sizes by appeal to the form of largeness and the form of not-being. Perhaps he needs no form of mud/clay (rejected by Socrates as a separate form at *Parmenides* 130c–e), since he can explain the mixture by appeal to forms of its ingredients, earth and water, and the ratio of their combination (*Parmenides* 130c, with *Theaetetus* 147a–c). Questions about the scope of forms in Plato remain far from settled.
+What should we think about forms of negations, such as the not-large and the not-beautiful? Aristotle criticized Plato for commitment to such forms (*Metaphysics* A.9, 990b), but notoriously Aristotle was not always fair in his criticisms. The *Sophist* explicitly speaks of the form of not-being (*Sophist* 258d: *to eidos…tou mê ontos*), and a number of scholars regard the not-large and the not-beautiful as forms (e.g., Moravcsik 1962, Frede 1967, 92–94, Szaif 1996, 439–45, Crivelli 2012, 204–14; for objections to negative forms in the *Sophist*, see Meister 2023)[^crivelli-2012][^frede-1967][^frede-1996][^meister-2023][^moravcsik-1962][^szaif-1996]. The Stranger’s lecture on parts and kinds in the *Statesman*, rejecting forms of barbarian and numbers other than 10,000, poses a well-known problem for that view, yet as we saw (§ 7.1 above) the lecture and second stage of the dichotomous division are themselves puzzling. Not only that: the Stranger warns Young Socrates not to think he has heard anything clear from him about the difference between a kind and a part (*Statesman* 263b). This warning could strengthen the hand of those who attribute to Plato a commitment to forms of negations. One question we should be asking, though: what function(s) do Platonic forms perform? Does Plato need a form whenever people call several things by the same name (as stated perhaps at *Republic* 10.596a)? Or does he invoke only those forms needed to explain the features of things? In the latter case, perhaps he can do without a form of the not-large, because he can explain that range of sizes by appeal to the form of largeness and the form of not-being. Perhaps he needs no form of mud/clay (rejected by Socrates as a separate form at *Parmenides* 130c–e), since he can explain the mixture by appeal to forms of its ingredients, earth and water, and the ratio of their combination (*Parmenides* 130c, with *Theaetetus* 147a–c). Questions about the scope of forms in Plato remain far from settled.
 
 In addition to categorial kinds such as the sophist and statesman, there are also the great kinds discussed in the *Sophist*—change, rest, being, sameness, and difference. These kinds were embraced in the *Parmenides* (esp. *Parmenides* 130b), but they seem markedly different from ordinary kinds like the sophist and statesman. The vowel forms—being, sameness, and difference—appear to structure other kinds, enabling them to be what they are and to relate to one another. Dialectic aims to discover and articulate those structures. Structural kinds are closely tied to dialectic, as Parmenides foretold, but both forms and dialectic seem to have developed apace since the *Phaedo* and the *Republic*.
 
@@ -287,19 +287,29 @@ Plato | Plato: *Cratylus* | Plato: middle period metaphysics and epistemology | 
 
 [^note-1]: On the Sophistic movement itself, which owes its negative assessment largely to Plato, see Kerferd 1981, Barney 2006; and with special reference to Plato’s *Sophist*, Notomi 1999, ch. 2.
 
-[^note-2]: The most important sections about being are the Battle of Gods and Giants (*Sophist* 245e–249d) and the aporetic passage that follows (*Sophist* 249d–251a). The Gods are friends of the forms and look a lot like middle period Platonists (committed to separate immaterial forms), and the Giants are materialists. The Stranger tries to reconcile the two groups by getting them to agree on a definition of being. He offers the reformed Giants a definition (*horos*) of being as a capacity (*dunamis*) to do something to something else or to be affected by something else (*Sophist* 247d–e), and then tries unsuccessfully to get the Gods to agree (*Sophist* 248a–e). For different interpretations of the Battle of Gods and Giants, see Owen 1966, Keyt 1969, Brown 1998, and Gill 2012, chs. 3 and 7.
+[^note-2]: The most important sections about being are the Battle of Gods and Giants (*Sophist* 245e–249d) and the aporetic passage that follows it (*Sophist* 249d–251a). The Gods are friends of the forms and look a lot like middle period Platonists (committed to separate immaterial forms), and the Giants are materialists. The Stranger tries to reconcile the two groups by getting them to agree on a definition of being. He offers the reformed Giants a definition (*horos*) of being as a capacity (*dunamis*) to do something to something else or to be affected by something else (*Sophist* 247d–e), and then tries unsuccessfully to get the Gods to agree (*Sophist* 248a–e). For different interpretations of the Battle of Gods and Giants, see Owen 1966, Keyt 1969, Brown 1998, Gill 2012, chs. 3 and 7, and Gill 2024. The section has been the subject of lively recent debate: A whole section of Brisson, Halper, and Parry (eds.) 2024 is devoted to the Battle of Gods and Giants, and Araújo (ed.) 2025 contains several papers on it.
 
-[^note-3]: The myth has been much debated but will not be discussed in this essay. For some interpretations, see Rowe 1995, Ferrari 1995, and Lane 1998, Part II.
+[^note-3]: The myth has been much debated but will not be discussed in this essay. For some interpretations, see Rowe 1995, Ferrari 1995, Lane 1998, Part II, and Betegh 2021.
 
 [^ackrill-1955]: Ackrill, J. L., 1955, “ΣΥΜΠΛΟΚΗ ΕΙΔΩΝ,” *Bulletin of the Institute of Classical Studies*, 2: 31–35; reprinted in *Studies in Plato’s Metaphysics*, R. E. Allen (ed.), and in *Essays on Plato and Aristotle*, J. L. Ackrill, Oxford: Oxford University Press, 1997, 72–79.
 
-[^ackrill-1959]: –––, 1959, “Plato and the Copula: *Sophist* 251–259,” in *Studies in Plato’s Metaphysics*, R. E. Allen (ed.), and in *Essays on Plato and Aristotle*, J. L. Ackrill, Oxford: Oxford University Press, 1997, 80–92.
+[^ackrill-1957]: –––, 1957, “Plato and the Copula: *Sophist* 251–259,” *Journal of Hellenic Studies*, 77(1): 1–6. Republished 1959 in *Studies in Plato’s Metaphysics*, R. E. Allen (ed.) and in *Essays on Plato and Aristotle*, J. L. Ackrill, Oxford: Oxford University Press, 1997, 80–92.
 
 [^ackrill-1970]: –––, 1970, “In Defence of Platonic Division,” in *Ryle*, O. P. Wood and G. Pitcher (eds.), London: MacMillan, 373–92; reprinted in *Essays on Plato and Aristotle*, J. L. Ackrill, Oxford: Oxford University Press, 1997, 93–109.
 
+[^ambuel-2007]: Ambuel, D., 2007, *Image and Paradigm in Plato’s Sophist*, Las Vegas: Parmenides Publishing.
+
+[^araújo-2024]: Araújo, C., 2024, “Power of Connection as a Mark of Being” in *Plato’s Sophist* (Selected Papers of the Thirteenth Symposium Platonicum), L. Brisson, E. Halper, and R. D. Parry (eds.), Baden-Baden: Karl Alber. 257–64.
+
+[^araújo-2025]: ––– (ed.), 2025, *Plato’s Power*, Leiden: Brill.
+
 [^barney-2006]: Barney, R., 2006, “The Sophistic Movement,” in *A Companion to Ancient Philosophy*, M. L. Gill and P. Pellegrin (eds.), Oxford: Blackwell, 77–97.
 
+[^barney-2021]: –––, 2021, “Plato on Normative Measurement: 283b1–287b3,” in *Plato’s Statesman: A Philosophical Discussion* (The Plato Dialogue Project), P. Dimas, M. Lane, and S. S. Meyer (eds.), Oxford: Oxford University Press, 115–35.
+
 [^benardete-1984]: Benardete, S., 1984, *The Being of the Beautiful: Plato’s Theaetetus, Sophist, and Statesman*, Chicago: University of Chicago Press.
+
+[^betegh-2021]: Betegh, G., 2021, “The Myth and What it Achieves: 268d5–277c6”, in *Plato’s Statesman: A Philosophical Discussion* (The Plato Dialogue Project), P. Dimas, M. Lane, and S. S. Meyer (eds.), Oxford: Oxford University Press, 71–93.
 
 [^blondell-2002]: Blondell, R., 2002, *The Play of Character in Plato’s Dialogues*, Cambridge: Cambridge University Press.
 
@@ -313,7 +323,11 @@ Plato | Plato: *Cratylus* | Plato: middle period metaphysics and epistemology | 
 
 [^bostock-1984]: Bostock, D., 1984, “Plato on ‘is not’,” *Oxford Studies in Ancient Philosophy*, 2: 89–119.
 
-[^brown-1986]: Brown, L., 1986, “Being in the *Sophist*: A Syntactic Inquiry,” *Oxford Studies in Ancient Philosophy*, 4 [Festschrift for J. L. Ackrill]: 49–70; reprinted in *Plato* 1: *Metaphysics and Epistemology*, G. Fine (ed.), Oxford: Oxford University Press, 1999, 455–78.
+[^brisson-2024]: Brisson, L., E. Halper, and R. D. Parry, (eds.), 2024, *Plato’s Sophist* (Selected Papers of the Thirteenth Symposium Platonicum), Baden-Baden: Karl Alber.
+
+[^bronstein-2021]: Bronstein, D. 2021, “Learning from Models: 277c7–283a9,” in *Plato’s Statesman: A Philosophical Discussion* (The Plato Dialogue Project), P. Dimas, M. Lane, and S. S. Meyer (eds.), Oxford: Oxford University Press, 94–114.
+
+[^brown-1986]: Brown, L., 1986, “Being in the *Sophist*: A Syntactic Inquiry,” *Oxford Studies in Ancient Philosophy* 4 [Festschrift for J. L. Ackrill]: 49–70; reprinted in *Plato* 1: *Metaphysics and Epistemology*, G. Fine (ed.), Oxford: Oxford University Press, 1999, 455–78.
 
 [^brown-1998]: –––, 1998, “Innovation and Continuity: The Battle of Gods and Giants,” in *Method in Ancient Philosophy*, J. Gentzler (ed.), Oxford: Clarendon Press, 181–207.
 
@@ -347,6 +361,8 @@ Plato | Plato: *Cratylus* | Plato: middle period metaphysics and epistemology | 
 
 [^diès-1955]: Diès, A. 1955, 1960, *Platon Oeuvres completes*, Tome VIII, 3e partie: *Sophiste*; Tome IX, 1re partie: *Le Politique*, Paris: Les Belles Lettres.
 
+[^dimas-2021]: Dimas, P., M. Lane, and S. S. Meyer (eds.), 2021, *Plato’s Statesman: A Philosophical Discussion* (The Plato Dialogue Project), Oxford: Oxford University Press.
+
 [^dixsaut-1995]: Dixsaut, M., 1995, “Une politique vraiment conforme à la nature,” in *Reading the Statesman* (Proceedings of the Third Symposium Platonicum), C. J. Rowe (ed.), Sankt Augustin: Academia Verlag, 253–73.
 
 [^dixsaut-2001]: –––, 2001, *Métamorphoses de la dialectique dans les dialogues de Platon*, Paris: Vrin.
@@ -365,39 +381,59 @@ Plato | Plato: *Cratylus* | Plato: middle period metaphysics and epistemology | 
 
 [^el-2014]: –––, 2014, *Savoir et Gouverner. Essai sur le science politique platonicienne*, Paris: Vrin.
 
+[^el-2021]: –––, 2021, “Kingly Intertwinement: 308b10–311c10,” in *Plato’s Statesman: A Philosophical Discussion* (The Plato Dialogue Project), P. Dimas, M. Lane, and S. S. Meyer (eds.), Oxford: Oxford University Press, 239–59.
+
 [^ferejohn-1989]: Ferejohn, M., 1989, “Plato and Aristotle on Negative Predication and Semantic Fragmentation,” *Archiv für Geschichte der Philosophie*, 71: 257–82.
 
 [^ferrari-1995]: Ferrari, G. R. F., 1995, “Myth and Conservatism in Plato’s *Statesman*,” in *Reading the Statesman* (Proceedings of the Third Symposium Platonicum), C. J. Rowe (ed.), Sankt Augustin: Academia Verlag, 389–97.
 
 [^fine-1993]: Fine, G., 1993, *On Ideas: Aristotle’s Criticisms of Plato’s Theory of Forms*, Oxford: Clarendon Press.
 
-[^fink-2012]: Fink, J. L. (ed.), 2012, *The Development of Dialectic from Plato to Aristotle*, Cambridge: Cambridge University Press.
+[^fink-2012]: Fink, J. L., (ed.), 2012, *The Development of Dialectic from Plato to Aristotle*, Cambridge: Cambridge University Press.
 
-[^franklin-2011]: Franklin, L. 2011, “Dichotomy and Platonic Diairesis,” *History of Philosophy Quarterly*, 28:1–20.
+[^franklin-2011]: Franklin, L., 2011, “Dichotomy and Platonic Diairesis,” *History of Philosophy Quarterly*, 28:1–20.
 
-[^frede-1967]: Frede, M., 1967, “Prädikation und Existenzaussage”, *Hypomnemata*, 18: 1–99.
+[^frede-1967]: Frede, M., 1967, “Prädikation und Existenzaussage,” *Hypomnemata*, 18: 1–99.
 
 [^frede-1992]: –––, 1992, “Plato’s *Sophist* on False Statements,” in *The Cambridge Companion to Plato*, R. Kraut (ed.), Cambridge: Cambridge University Press, 397–424.
 
 [^frede-1996]: –––, 1996, “The Literary Form of the *Sophist*,” in *Form and Argument in Late Plato*, C. Gill and M. M. McCabe (eds.), Oxford: Clarendon Press, 135–51.
 
-[^friedländer-1969]: Friedländer, P. 1969, *Plato*, 3 vols, vol. 3: *The Dialogues: Second and Third Period*, Princeton: Princeton University Press.
+[^gerson-2024]: Gerson, L. P., 2024. “Being and Power in Plato’s *Sophist*,” in *Plato’s Sophist*, L. Brisson, E. Halper, and R. D. Parry, (eds.), Baden-Baden: Karl Alber. 265–72.
+
+[^friedländer-1969]: Friedländer, P., 1969, *Plato*, 3 vols, vol. 3: *The Dialogues: Second and Third Period*, Princeton: Princeton University Press.
+
+[^fronterotta-1995]: Fronterotta, F., 1995, “L’être et la participation de l’autre. Une nouvelle ontologie dans le *Sophiste*,” *LES ÉTUDES PHILOSOPHIQUES*, 3: 311–53.
+
+[^fronterotta-2008]: –––, 2008, “La notion de δύναμις dans le *Sophiste* de Platon: *koinônia* entre les formes et *methexis* du sensible à intelligible,” in *DUNAMIS: Autour de la puissance chez Aristote*, M. Crubellier, A. Jaulin, D. Lefebre, P.-M. Morel (eds.), Louvain-La Neuve: Peeters. 187–224.
 
 [^gill-1996]: Gill, C., 1996, “Afterward: Dialectic and the Dialogue Form in Late Plato,” in *Form and Argument in Late Plato*, C. Gill and M. M. McCabe (eds.), Oxford: Clarendon Press, 283–311.
 
 [^gill-1996-2]: Gill, C. and M. M. McCabe (eds.), 1996, *Form and Argument in Late Plato*, Oxford: Clarendon Press.
 
-[^gill-2006]: Gill, M. L., 2006, “Models in Plato’s *Sophist* and *Statesman*,” *Journal of the International Plato Society* 6. doi:10.14195/2183-4105_6_2
+[^gill-2006]: Gill, M. L., 2006, “Models in Plato’s *Sophist* and *Statesman*,” *Journal of the International Plato Society*, 6: 1–16.
 
 [^gill-2010]: –––, 2010, “Division and Definition in Plato’s *Sophist* and *Statesman*,” in *Definition in Greek Philosophy*, D. Charles (ed.), Oxford: Oxford University Press. 172–99.
 
 [^gill-2012]: –––, 2012, *Philosophos: Plato’s Missing Dialogue*, Oxford: Oxford University Press.
 
+[^gill-2021]: –––, 2021, “Images of Wisdom in the Prologue of Plato’s *Sophist*,” *The Journal of Greco-Roman Studies*, 60.3: 183–52.
+
+[^gill-2024]: –––, 2024, “Knowledge and Forms in Plato’s *Parmenides* and *Sophist*,” in *Platonism* (Proceedings of the Wittgenstein Symposium), H. Hrachovec and J. Mácha (eds.), Berlin: De Gruyter, 9–30.
+
 [^gómez-lobo-1977]: Gómez-Lobo, A., 1977, “Plato’s Description of Dialectic in the *Sophist* 253d1–e2,” *Phronesis*, 22: 29–47.
 
 [^goldschmidt-1947]: Goldschmidt, V., 1947, *Le paradigme dans la dialectique platonicienne*, Paris: Vrin.
 
+[^gonzalez-2024]: Gonzalez, F. J., 2024, “The *Kinêsis* of Being in Plato’ *Sophist* and the Motivation for Aristotle’s Notion of *Energeia*,” in *Plato’s Sophist*, L. Brisson, E. Halper, and R. D. Parry (eds.), Baden-Baden: Karl Alber. 249–56.
+
+[^granieri-2023]: Granieri, R., 2023, “Plato’s Isolation of a Kind Being or Why in the *Sophist* To Be is Not To Be Something,” *Oxford Studies in Ancient Philosophy*, 64: 1–51.
+
+[^granieri-2024]: –––, 2024, “The Referents of ‘being’ in Plato’s *Sophist*,” in L. Brisson, E. Halper, and R. D. Parry (eds.), 2024, *Plato’s Sophist* (Selected Papers of the Thirteenth Symposium Platonicum), Baden-Baden: Karl Alber, 349–56.
+
 [^harte-2002]: Harte, V., 2002, *Plato on Parts and Wholes: The Metaphysics of Structure*, Oxford: Clarendon Press.
+
+[^harte-2024]: –––, 2024, “Dialectical Know-How: A Deflationary Approach to *Sophist* 253b–254a,” in *Plato’s Sophist* (Selected Papers of the Thirteenth Symposium Platonicum), L. Brisson, E. Halper, and R. D. Parry (eds.), Baden-Baden: Karl Alber.
 
 [^havlíček-2011]: Havlíček, A. and F. Karfík (eds.), 2011, *Plato’s Sophist* (Proceedings of the Seventh Symposium Platonicum Pragense), Prague: OIKYMENH.
 
@@ -408,6 +444,16 @@ Plato | Plato: *Cratylus* | Plato: middle period metaphysics and epistemology | 
 [^henry-2011]: Henry, D., 2011, “A Sharp Eye for Kinds: Plato on Collection and Division,” *Oxford Studies in Ancient Philosophy*, 41: 229–55.
 
 [^hestir-2003]: Hestir, B. E., 2003, “A ‘Conception’ of Truth in Plato’s *Sophist*,” *Journal of the History of Philosophy*, 41: 1–24.
+
+[^hestir-2016]: –––, 2016, *Plato on the Metaphysical Foundations of Meaning and Truth*, Cambridge: Cambridge University Press.
+
+[^ionescu-2014]: Ionescu, C., 2014, “Dialectical Method and Myth in Plato’s *Statesman*,” *Ancient Philosophy* 34.1: 29–46.
+
+[^ionescu-2016]: –––, 2016. “Due Measure and the Dialectical Method in Plato’s *Statesman*,” *Journal of Philosophical Research*, 41: 77–104.
+
+[^ionescu-2022]: –––, 2022, “Elenchus and the Method of Division in the *Sophist*,” in *New Perspectives on Platonic Dialectic*, J. K. Larson, V. V. Haraldson, and J. Vlasits (eds.), New York: Routledge, 116–33.
+
+[^irani-2021]: Irani, T., 2021, “Perfect Change in Plato’s *Sophist*”, *Oxford Studies in Ancient Philosophy*, 60: 45–93.
 
 [^jordan-1984]: Jordan, R. W., 1984, “Plato’s Task in the *Sophist*,” *Classical Quarterly* (New Series), 34: 113–29.
 
@@ -420,6 +466,8 @@ Plato | Plato: *Cratylus* | Plato: middle period metaphysics and epistemology | 
 [^kahn-2007]: –––, 2007, “Why is the *Sophist* the Sequel of the *Theaetetus*?” *Phronesis*, 52: 33–57.
 
 [^kahn-2013]: –––, 2013, *Plato and the Post-Socratic Dialogue: The Return to the Philosophy of Nature*, Cambridge: Cambridge University Press.
+
+[^kamtekar-2021]: Kamtekar, R., 2021, “Weaving together Natural Courage and Moderation: 305e8–308b9,” in *Plato’s Statesman: A Philosophical Discussion* (The Plato Dialogue Project), P. Dimas, M. Lane, and S. S. Meyer (eds.), Oxford: Oxford University Press, 217–38.
 
 [^kato-1995]: Kato, S., 1995, “The Role of *Paradeigma* in the *Statesman*,” in *Reading the Statesman* (Proceedings of the Third Symposium Platonicum), C. J. Rowe (ed.), Sankt Augustin: Academia Verlag, 162–72.
 
@@ -439,9 +487,15 @@ Plato | Plato: *Cratylus* | Plato: middle period metaphysics and epistemology | 
 
 [^lane-2005]: –––, 2005, “‘Emploie pour philosophes’: l’art politique et l’étranger dans le *Politique* à la lumière de Socrate et du Philosophe dans le *Théétète*,” *Les études philosophiques* (Special Issue: *Le Politique de Platon*), 325–45.
 
+[^larson-2022]: Larson, J. K., 2022, “Using Examples in Philosophical Inquiry: Plato’s *Statesman* 277d1–278e2 and 285c4–286b2,” in *New Perspectives on Platonic Dialectic*, J. K. Larson, V. V. Haraldson, and J. Vlasits (eds.), New York: Routledge, 134–51.
+
+[^larson-2022-2]: Larson, J. K., V. V. Haraldson, and J. Vlasits (eds.), 2022, *New Perspectives on Platonic Dialectic*, New York: Routledge.
+
 [^lee-1972]: Lee, E. N., 1972, “Plato on Negation and Not-Being in the *Sophist*,” *Philosophical Review*, 81: 267–304.
 
 [^leigh-2008]: Leigh, F., 2008, “The Copula and Semantic Continuity in Plato’s *Sophist*,” *Oxford Studies in Ancient Philosophy*, 34: 105–21.
+
+[^leigh-2024]: –––, 2024, “The Theory of Being and the Argument for Forms in Plato’s *Sophist*,” *Phronesis*, 69: 402–38.
 
 [^lewis-1976]: Lewis, F. A., 1976, “Did Plato Discover the *Estin* of Identity?” *California Studies in Classical Antiquity* 8: 113–43.
 
@@ -461,7 +515,13 @@ Plato | Plato: *Cratylus* | Plato: middle period metaphysics and epistemology | 
 
 [^malcolm-2006b]: –––, 2006b, “Some Cautionary Remarks on the ‘Is’/‘Teaches’ Analogy,” *Oxford Studies in Ancient Philosophy*, 31: 281–96.
 
-[^mié-nd]: Mié, F., forthcoming, “The Initial Division of the *Statesman*: 259d7–268d4. Methodological Issues and the Limits of a Traditional model of Politics,” in P. Dimas, et al. (eds.), *Plato’s Statesman* (Plato’s Dialogue Project), Oxford: Oxford University Press.
+[^meister-2023]: Meister, S., 2023, “Negative Forms in Plato’s *Sophist*: A Re-Examination,” *Oxford Studies in Ancient Philosophy*, 64: 53–94.
+
+[^mié-2004]: Mié, F., 2004, *Dialéctica, predicación y metafísica en Platón: investigaciones sobre el* Sofista *y los diálogos tardíos.* Córdoba: Del Copista.
+
+[^mié-2021]: –––, 2021, “Defining the Statesman by Division: 259d7–268d4,” in *Plato’s Statesman* (The Plato Dialogue Project), P. Dimas, M. Lane, and S. S. Meyer (eds.), Oxford: Oxford University Press, 52–70.
+
+[^migliori-2007]: Migliori, M., 2007, *Plato’s Sophist: Value and Limitations of Ontology*, Sankt Augustin: Academia.
 
 [^miller-1990]: Miller, M., 1990, “The God-Given Way: Reflections on Method and the Good in Later Plato,” *Proceedings of the Boston Area Colloquium in Ancient Philosophy*, 6: 323–59.
 
@@ -475,6 +535,8 @@ Plato | Plato: *Cratylus* | Plato: middle period metaphysics and epistemology | 
 
 [^muniz-2018]: Muniz, F. and G. Rudebusch, 2018, “Dividing Plato’s Kinds,” *Phronesis*, 63: 392–407.
 
+[^muniz-2024]: –––, 2024, “Division and Metaphysics in Plato,” in *Plato’s Sophist*, Selected Papers of the Thirteenth Symposium Platonicum, L. Brisson, E. Halper, and R. D. Parry (eds.), Baden-Baden: Karl Alber.
+
 [^nehamas-1982]: Nehamas, A., 1982, “Participation and Predication in Plato’s Later Thought,” *Review of Metaphysics*, 26: 343–74.
 
 [^notomi-1999]: Notomi, N., 1999, *The Unity of Plato’s ‘Sophist’: Between the Sophist and the Philosopher*, Cambridge: Cambridge University Press.
@@ -486,6 +548,8 @@ Plato | Plato: *Cratylus* | Plato: middle period metaphysics and epistemology | 
 [^owen-1971]: –––, 1971, “Plato on Not-Being,” in *Plato* 1: *Metaphysics and Epistemology*, G. Vlastos (ed.), Garden City, N.Y.: Doubleday. 223–67; reprinted in *Logic, Science, and Dialectic*, G. E. L. Owen, M. C. Nussbaum (ed.), London: Duckworth/Ithaca, N. Y.: Cornell University Press, 1986, 104–37; reprinted in *Plato* 1: *Metaphysics and Epistemology*, G. Fine (ed.), Oxford: Oxford University Press, 1999, 416–54.
 
 [^owen-1973]: –––, 1973, “Plato on the Undepictable,” in *Exegesis and Argument* (= *Phronesis*, Supplement 1), E. N. Lee, A. P. D. Mourelatos, R. M. Rorty (eds.) [Festschrift for Gregory Vlastos], New York, N. Y.: Humanities Press, 349–61; reprinted in *Logic, Science, and Dialectic*, G. E. L. Owen, M. C. Nussbaum (ed.), London: Duckworth/Ithaca, NY: Cornell University Press, 1986, 138–47.
+
+[^pavani-2023]: Pavani, A. 2023, “On Plato’s Late Dialectic: The Methods of Collection and Division,” in Melina G. Mouzala, *Ancient Greek Dialectic and Its Reception*, Berlin: De Gruyter, 189–210.
 
 [^pelletier-1975]: Pelletier, F. J., 1975, “‘Incompatibility’ in Plato’s *Sophist*,” *Dialogue*, 14: 143–46.
 
@@ -511,9 +575,13 @@ Plato | Plato: *Cratylus* | Plato: middle period metaphysics and epistemology | 
 
 [^rowe-1996]: –––, 1996, “The *Politicus:* Form and Structure,” in *Form and Argument in Late Plato*, C. Gill and M. M. McCabe (eds.), Oxford: Clarendon Press, 153–78.
 
-[^runciman-1962]: Runciman, W. G. 1962, *Plato’s Later Epistemology*, Cambridge: Cambridge University Press.
+[^rowe-2015]: ––– (ed.), 2015, *Plato: Theaetetus and Sophist*. Cambridge: Cambridge University Press.
+
+[^runciman-1962]: Runciman, W. G., 1962, *Plato’s Later Epistemology*, Cambridge: Cambridge University Press.
 
 [^ryle-1939]: Ryle, G., 1939 [1965], “Plato’s *Parmenides*,” *Mind*, 49: 302–325; reprinted with Afterward in *Studies in Plato’s Metaphysics*, R. E. Allen (ed.), London: Routledge & Kegan Paul, 97–147.
+
+[^sabrier-2022]: Sabrier, P., 2022, “Plato’s Method of Enquiry in the *Sophist*: The Relation Between the Question ‘What is Being?’ and the Question ‘What is There?’,” in *New Perspectives on Platonic Dialectic*, J. K. Larson, V. V. Haraldson, and J. Vlasits (eds.), New York: Routledge.
 
 [^sayre-1969]: Sayre, K. M., 1969, *Plato’s Analytic Method*, Chicago: University of Chicago Press.
 
@@ -521,11 +589,11 @@ Plato | Plato: *Cratylus* | Plato: middle period metaphysics and epistemology | 
 
 [^sayre-2006]: –––, 2006, *Method and Metaphysics in Plato’s Statesman*, Cambridge: Cambridge University Press.
 
-[^scodel-1987]: Scodel, H. R. 1987, *Diairesis and Myth in Plato’s Statesman*, Göttingen: Vandenhoeck & Ruprecht.
+[^scodel-1987]: Scodel, H. R., 1987, *Diairesis and Myth in Plato’s Statesman*, Göttingen: Vandenhoeck & Ruprecht.
 
 [^silverman-2002]: Silverman, A., 2002, *The Dialectic of Essence*: *A Study of Plato’s Metaphysics*, Princeton: Princeton University Press. Chs. 5 and 6.
 
-[^skemp-1952]: Skemp, J. B. 1952, *Plato: The Statesman*, London: Routledge & Kegan Paul.
+[^skemp-1952]: Skemp, J. B., 1952, *Plato: The Statesman*, London: Routledge & Kegan Paul.
 
 [^stenzel-1940]: Stenzel, J., 1940, *Plato’s Method of Dialectic*, D. J. Allan (trans. and ed.), Oxford: Clarendon Press. [from 2nd Edition of German version, 1931.]
 
@@ -550,3 +618,5 @@ Plato | Plato: *Cratylus* | Plato: middle period metaphysics and epistemology | 
 [^white-1993]: White, N. P., 1993, *Plato: Sophist*, Indianapolis, Ind.: Hackett.
 
 [^wiggins-1971]: Wiggins, D., 1971, “Sentence Meaning, Negation, and Plato’s Problem of Not-Being,” in *Plato* 1: *Metaphysics and Epistemology*, G. Vlastos (ed.), Garden City, N.Y.: Doubleday.
+
+[^wiitala-2022]: Wiitala, M., 2022, “That Difference is Difference from Being: *Sophist* 255c9–e2,” *Oxford Studies in Ancient Philosophy*, 62: 85–103.

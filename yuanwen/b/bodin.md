@@ -221,7 +221,7 @@ Despite this welcome resurgence of interest in Bodin, a remaining deisderatum is
 
 ## Related Entries
 
-Aristotle | Cicero | constitutionalism | history, philosophy of | Hobbes, Thomas | Locke, John | Machiavelli, Niccolò | Montesquieu, Charles-Louis de Secondat, Baron de | Plato | republicanism | rights | sovereignty | theology, natural and natural religion
+Aristotle | Cicero | constitutionalism | history and historiography, philosophy of | Hobbes, Thomas | Locke, John | Machiavelli, Niccolò | Montesquieu, Charles-Louis de Secondat, Baron de | Plato | republicanism | rights | sovereignty | theology, natural and natural religion
 
 ### Acknowledgments
 

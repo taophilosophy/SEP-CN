@@ -255,7 +255,7 @@ All told, it seems that Leibniz ascribes to a heterogeneous account of causation
 
 ## Other Internet Resources
 
-- [Gallica](http://gallica.bnf.fr/) (Contains searchable texts from Leibniz)
+- [Gallica](https://gallica.bnf.fr/) (Contains searchable texts from Leibniz)
 - [Leibnitiana](http://www.gwleibniz.com/), maintained by Gregory Brown (University of Houston)
 - [Leibniz](http://web.ics.purdue.edu/~jacover/Leibniz.htm), maintained by Jan Cover (Purdue University)
 - [Leibniz-Forschungsstelle](http://www.uni-muenster.de/Leibniz/Welcome.html)

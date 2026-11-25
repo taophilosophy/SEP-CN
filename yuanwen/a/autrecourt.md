@@ -97,7 +97,7 @@ Five other articles that turn up in Autreourt’s condemnation concern the *comp
 
 ## Other Internet Resources
 
-[Please contact the author with suggestions.]
+- Berger, Harald, 2026, [Nicholas of Autrécourt, Fifth Release of Corrigenda and Addenda as wel las Continuation of the Bibiography to *Herders Bibliothek der Philosophie des Mittelalters*, vol. 62, 2024](https://www.academia.edu/170870221/Nicholas_of_Autrécourt_File_for_Academia_Fünfte_Ausgabe_Fifth_Release)
 
 ## Related Entries
 

@@ -11,10 +11,10 @@ window.MathJax = {
 	    bR: "\\mathbf{R}",
 	    bX: "\\mathbf{X}",
 	    bb: "\\mathbf{b}",
-	    gA: "{\\color{lightgray} A}",
-	    gB: "{\\color{lightgray} B}",
-	    gC: "{\\color{lightgray} C}",
-	    gD: "{\\color{lightgray} D}",
+	    gA: "{\\color{dimgray} A}",
+	    gB: "{\\color{dimgray} B}",
+	    gC: "{\\color{dimgray} C}",
+	    gD: "{\\color{dimgray} D}",
 	    BS: "\\textit{BS}",
 	    Borda: "\\textit{Borda}"
 	}

@@ -75,7 +75,7 @@ In addition to his account of the origins and history of civil society developed
 
 - [Institute for Vico Studies](http://ivs.emory.edu/) Emory University
 - [New Vico Studies](http://www.pdcnet.org/newvico), The Journal of the Institute for Vico Studies.
-- [Principi di scienza nuova](http://gallica.bnf.fr/ark:/12148/bpt6k84339f/f1.image), Facscimile Reproduction of the original, hosted by the Gallica Bibliothèque Numérique.
+- [Principi di scienza nuova](https://gallica.bnf.fr/ark:/12148/bpt6k84339f/f1.image), Facscimile Reproduction of the original, hosted by the Gallica Bibliothèque Numérique.
 
 ## Related Entries
 

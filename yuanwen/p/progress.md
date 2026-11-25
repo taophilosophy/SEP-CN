@@ -162,7 +162,7 @@ Catherine Lu (2023) offers yet another interesting proposal. She rejects the und
 
 ## Related Entries
 
-Adorno, Theodor W. | critical theory | Enlightenment | Hegel, Georg Wilhelm Friedrich | history, philosophy of | Kant, Immanuel: social and political philosophy | Marx, Karl | moral realism | moral relativism | postmodernism | scientific progress
+Adorno, Theodor W. | critical theory | Enlightenment | Hegel, Georg Wilhelm Friedrich | history and historiography, philosophy of | Kant, Immanuel: social and political philosophy | Marx, Karl | moral realism | moral relativism | postmodernism | scientific progress
 
 [^adorno-2006]: Adorno, T.W., 2006, *History and Freedom: Lectures 1964–1965*, R. Livingstone (trans.), Cambridge, MA: Polity.
 

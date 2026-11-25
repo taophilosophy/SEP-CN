@@ -528,17 +528,17 @@ Many thanks to Ludwig Fahrbach, Stavros Ioannidis, Moti Mizrahi, Nathan Oseroff,
 
 [^alai-2021]: –––, 2021, “The Historical Challenge to Realism and Essential Deployment”, in T.D. Lyons and P. Vickers (eds.), *Contemporary Scientific Realism: The Challenge from the History of Science*, Oxford: Oxford University Press, pp. 183–215.
 
-[^anonymous-1889]: Anonymous, 1889, “Causerie Bibliographique”, *Revue Scientifique*, No. 7, August 17 1889. [[Anonymous 1889: 215 available online](http://gallica.bnf.fr/ark:/12148/bpt6k2152735/f218)]
+[^anonymous-1889]: Anonymous, 1889, “Causerie Bibliographique”, *Revue Scientifique*, No. 7, August 17 1889. [[Anonymous 1889: 215 available online](https://gallica.bnf.fr/ark:/12148/bpt6k2152735/f218)]
 
-[^berthelot-1897]: Berthelot, Marcelin, 1897, *Science et Morale*, Paris: Calmann Levy. [[Berthelot 1897 available online](http://gallica.bnf.fr/ark:/12148/bpt6k76817s)]
+[^berthelot-1897]: Berthelot, Marcelin, 1897, *Science et Morale*, Paris: Calmann Levy. [[Berthelot 1897 available online](https://gallica.bnf.fr/ark:/12148/bpt6k76817s)]
 
 [^boge-2021]: Boge, Florian, J., 2021, “Incompatibility and the Pessimistic Induction: A Challenge for Selective Realism”, *European Journal for Philosophy of Science*, 11(2): 1–31. doi:10.1007/s13194-021-00367-4
 
 [^boltzmann-1901]: Boltzmann, Ludwig, 1901, “The Recent Development of Method in Theoretical Physics”, *The Monist*, 11(2): 226–257. doi:10.5840/monist190111224
 
-[^brunetière-1889]: Brunetière, Ferdinand, 1889, “Revue Littéraire—A propos du Disciple de Paul Bourget”, *Revue des Deux Mondes*, 94: 214–226. [[Brunetière 1889 available available online](http://gallica.bnf.fr/ark:/12148/bpt6k87149x/f215)]
+[^brunetière-1889]: Brunetière, Ferdinand, 1889, “Revue Littéraire—A propos du Disciple de Paul Bourget”, *Revue des Deux Mondes*, 94: 214–226. [[Brunetière 1889 available available online](https://gallica.bnf.fr/ark:/12148/bpt6k87149x/f215)]
 
-[^brunetière-1895]: –––, 1895, “Après une visite au Vatican”,*Revue des Deux Mondes*, 127: 97–118. [[Brunetière 1895 available online](http://gallica.bnf.fr/ark:/12148/bpt6k87173s/f102)]
+[^brunetière-1895]: –––, 1895, “Après une visite au Vatican”,*Revue des Deux Mondes*, 127: 97–118. [[Brunetière 1895 available online](https://gallica.bnf.fr/ark:/12148/bpt6k87173s/f102)]
 
 [^chakravartty-2008]: Chakravartty, Anjan, 2008, “What you don’t Know can’t Hurt you: Realism and the Unconceived”, *Philosophical Studies*, 137: 149–158. doi:10.1007/s11098-007-9173-1
 
@@ -626,7 +626,7 @@ Many thanks to Ludwig Fahrbach, Stavros Ioannidis, Moti Mizrahi, Nathan Oseroff,
 
 [^poincaré-1902]: –––, 1902, *La Science et L’Hypothese*, (1968 reprint) Paris: Flammarion.
 
-[^prevost-1823]: Prevost, Jean Louis, and Dumas, Jean-Baptiste André, 1823, “Examen du Sang et de son Action dans les Divers Phènoménes de la Vie”, *Journal de Physique, De Chimie et d’Histoire Naturelle*, XCVI: 245–263. [[Prevost & Dumas 1823 available online](http://gallica.bnf.fr/ark:/12148/bpt6k9602622j)]
+[^prevost-1823]: Prevost, Jean Louis, and Dumas, Jean-Baptiste André, 1823, “Examen du Sang et de son Action dans les Divers Phènoménes de la Vie”, *Journal de Physique, De Chimie et d’Histoire Naturelle*, XCVI: 245–263. [[Prevost & Dumas 1823 available online](https://gallica.bnf.fr/ark:/12148/bpt6k9602622j)]
 
 [^psillos-1994]: Psillos, Stathis, 1994, “A philosophical study of the transition from the caloric theory of heat to thermodynamics: Resisting the pessimistic meta-induction”, *Studies in the History and Philosophy of Science*, 25(2): 159–190. doi:10.1016/0039-3681(94)90026-4
 
@@ -650,7 +650,7 @@ Many thanks to Ludwig Fahrbach, Stavros Ioannidis, Moti Mizrahi, Nathan Oseroff,
 
 [^ramsey-1929]: Ramsey, Frank Plumpton, 1929, “Theories”, in his *The Foundations of Mathematics and Other Essays*, R. B. Braithwaite (ed.), (1931) London: Routledge and Kegan Paul.
 
-[^richet-1895]: Richet, Charles, 1895, *“*La Science a-t-elle fait banqueroute?*”, Revue Scientifique*, No. 3, 12 January 1895, 33–39. [[Richet 1895 available online](http://gallica.bnf.fr/ark:/12148/bpt6k215122r/f35)]
+[^richet-1895]: Richet, Charles, 1895, *“*La Science a-t-elle fait banqueroute?*”, Revue Scientifique*, No. 3, 12 January 1895, 33–39. [[Richet 1895 available online](https://gallica.bnf.fr/ark:/12148/bpt6k215122r/f35)]
 
 [^russell-1927]: Russell, Bertrand, 1927, *The Analysis of Matter*, London: George Allen & Unwin.
 

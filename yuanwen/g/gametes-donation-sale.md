@@ -391,7 +391,7 @@ A related concern may also be noted regarding the question of the parties to who
 
 ## Related Entries
 
-cloning | disability: and well-being | disability: definitions and models | donation of human organs | ethics, biomedical: privacy and medicine | eugenics | exploitation | feminist philosophy, topics: perspectives on reproduction and the family | feminist philosophy, topics: perspectives on sex markets | heritability | informed consent | justice: intergenerational | nonidentity problem | parenthood and procreation | personal identity: and ethics | pregnancy, birth, and medicine | race | sale of human organs
+cloning | disability: and well-being | disability: definitions and models | donation of human organs | ethics, biomedical: privacy in health care and research | eugenics | exploitation | feminist philosophy, topics: perspectives on reproduction and the family | feminist philosophy, topics: perspectives on sex markets | heritability | informed consent | justice: intergenerational | nonidentity problem | parenthood and procreation | personal identity: and ethics | pregnancy, birth, and medicine | race | sale of human organs
 
 ### Acknowledgments
 

@@ -310,7 +310,7 @@ Citations are to the page numbers of the original French version. Passages from 
 
 ## Other Internet Resources
 
-- Digital versions of Madeleine de Scudéry’s writings in the original French editions can be found by searching at [*Gallica: Bibliothèque numérique*](http://gallica.bnf.fr/), a section of the website of the *Bibliothèque nationale de France*.
+- Digital versions of Madeleine de Scudéry’s writings in the original French editions can be found by searching at [*Gallica: Bibliothèque numérique*](https://gallica.bnf.fr/), a section of the website of the *Bibliothèque nationale de France*.
 - [Artamène ou le Grand Cyrus](https://artamene.othone.org), complete text of the novel, funded by the Swiss National Foundation.
 
 ## Related Entries

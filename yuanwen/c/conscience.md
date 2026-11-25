@@ -205,7 +205,7 @@ Far from being a conversation-stopper, conscience can only find its proper place
 
 ## Related Entries
 
-Aquinas, Thomas: moral, political, and legal philosophy | conscience: medieval theories of | consciousness: seventeenth-century theories of | ethics, biomedical: privacy and medicine | integrity | moral epistemology | moral sentimentalism
+Aquinas, Thomas: moral, political, and legal philosophy | conscience: medieval theories of | consciousness: seventeenth-century theories of | ethics, biomedical: privacy in health care and research | integrity | moral epistemology | moral sentimentalism
 
 [^aharoni-2012]: Aharoni, E., W. Sinnott-Armstrong, and K.A. Kiehl, 2012, “Can psychopathic offenders discern moral wrongs? A new look at the moral/conventional distinction”, *Journal of Abnormal Psychology*, 121(2): 484–497. doi:10.1037/a0024796
 

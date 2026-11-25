@@ -255,9 +255,9 @@ Some passages in the biographical parts of this entry are borrowed from Hamou 20
 
 [^mersenne-1623-2]: 1623, *L’Analyse de la vie spirituelle*, Paris, [lost].
 
-[^mersenne-1623-3]: 1623 [QG], *Quaestiones celeberrimae in Genesim*, followed with *Observationes et emendationes ad Francisci Georgii Veneti problemata*, Paris. [[available online](http://gallica.bnf.fr/ark:/12148/bpt6k109218n)]
+[^mersenne-1623-3]: 1623 [QG], *Quaestiones celeberrimae in Genesim*, followed with *Observationes et emendationes ad Francisci Georgii Veneti problemata*, Paris. [[available online](https://gallica.bnf.fr/ark:/12148/bpt6k109218n)]
 
-[^mersenne-1623-4]: 1623 [OF], *Observationes et emendationes ad Francisci Georgii Veneti Problemata : in hoc opere cabala evertitur, editio vulgata…* Paris. [[available online](http://gallica.bnf.fr/ark:/12148/bpt6k109218n.r=mersenne.langFR)]
+[^mersenne-1623-4]: 1623 [OF], *Observationes et emendationes ad Francisci Georgii Veneti Problemata : in hoc opere cabala evertitur, editio vulgata…* Paris. [[available online](https://gallica.bnf.fr/ark:/12148/bpt6k109218n.r=mersenne.langFR)]
 
 [^mersenne-1624]: 1624 [ID], *L’Impiété des déistes, athées et libertins de ce temps combattue et renversée de point en point par des raisons tirées de la philosophie*, Paris.
 
@@ -265,7 +265,7 @@ Some passages in the biographical parts of this entry are borrowed from Hamou 20
 
 [^critical-2005]: Critical edition by Dominique Descotes, Paris: Champion, 1 volume, 2005
 
-[^critical-1625]: 1625 [VS], *La Vérité des sciences contre les septiques [sic] ou Pyrrhoniens, Paris*. [[available online](http://gallica.bnf.fr/ark:/12148/bpt6k579276.r=mersenne.langFR)]
+[^critical-1625]: 1625 [VS], *La Vérité des sciences contre les septiques [sic] ou Pyrrhoniens, Paris*. [[available online](https://gallica.bnf.fr/ark:/12148/bpt6k579276.r=mersenne.langFR)]
 
 [^critical-2003]: Critical edition by Dominique Descotes, Paris: Honoré Champion, 1 volume, 2003.
 
@@ -297,9 +297,9 @@ Some passages in the biographical parts of this entry are borrowed from Hamou 20
 
 [^hu-1639]: 1639, *Les Nouvelles Pensées de Galilée*, Paris. Edited by Pierre Costabel and Michel-Pierre Lerner, Paris: J. Vrin, 1973.
 
-[^hu-1644]: 1644, *Universae geometriae synopsis* and *Cogitata physico mathematica*, Paris. [[available online](http://gallica.bnf.fr/ark:/12148/bpt6k81531h.r=mersenne.langFR)]
+[^hu-1644]: 1644, *Universae geometriae synopsis* and *Cogitata physico mathematica*, Paris. [[available online](https://gallica.bnf.fr/ark:/12148/bpt6k81531h.r=mersenne.langFR)]
 
-[^hu-1647]: 1647 *Novarum observationum physico-mathematicarum*, Paris. [[available online](http://gallica.bnf.fr/ark:/12148/bpt6k815336.r=mersenne.langFR)]
+[^hu-1647]: 1647 *Novarum observationum physico-mathematicarum*, Paris. [[available online](https://gallica.bnf.fr/ark:/12148/bpt6k815336.r=mersenne.langFR)]
 
 [^hu-1651]: 1651 [OC], *L’Optique et la catoptrique nouvellement mise en lumière après la mort de l’autheur*, in *La Perspective curieuse du R. P. Nicéron*, Paris. [[available online](http://archive.wikiwix.com/cache/?url=http%3A%2F%2Fgallica.bnf.fr%2Fark%3A%2F12148%2Fbpt6k105514z.r%3Dmersenne.langFR)]
 

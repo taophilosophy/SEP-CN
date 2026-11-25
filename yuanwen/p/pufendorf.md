@@ -347,7 +347,7 @@ On a more abstract, philosophical level the canon has also begun to acknowledge 
 - [Zedler: *Universal-Lexicon*](https://www.zedler-lexikon.de/index.html?c=blaettern&id=266162&bandnummer=29&seitenzahl=0606&supplement=0&dateiformat=1%27)), vol. 29, pp. 606–608.
 - [Michaud: *Biographie Universelle*](https://gallica.bnf.fr/ark:/12148/bpt6k51674f/f507.image.r=pufendorf), vol. 34, pp. 502–505.
 - [Samuel von Pufendorf](http://de.wikipedia.org/wiki/Samuel_Pufendorf), Wikipedia entry.
-- [Gallica](http://gallica.bnf.fr/), text archive of the Bibliothèque Nationale de France.
+- [Gallica](https://gallica.bnf.fr/), text archive of the Bibliothèque Nationale de France.
 - [Zentrales Verzeichnis Digitalisierter Drucke (ZVDD)](http://www.zvdd.de/), comprehensive directory of digitized sources in Germany since the 15th century.
 - [Natural Law 1625–1850: Database](https://naturallawdatabase.thulb.uni-jena.de/database/natlaw_76?ceid=114&no_cache=1&tx_joportal_listeneinstieg%5Bh%5D=1&tx_joportal_listeneinstieg%5Bjopaginatepage%5D=1&tx_joportal_listeneinstieg%5Bstartfrom%5D=0), an open-ended, collaborative biographical and bibliographical knowledge reservoir of early modern natural law.
 - [Natural Law and Enlightenment Series](https://about.libertyfund.org/collections/natural-law-and-enlightenment-classics/) (Online Library of Liberty), newly edited reprints of early modern natural law works in English translation.

@@ -1370,7 +1370,7 @@ namely, $\Diamond\exists \sfx@\forall \sfy\,\sfx \neq \sfy$, would turn out fals
 
 Jager appears to find justification for his semantical choices here in Plantinga’s (1976: 156–9)[^plantinga-1976] discussion of the *de re*/*de dicto* distinction, but I see nothing in that discussion suggesting Jager’s *de re* truth conditions. Indeed, it is clear they would not have been what Plantinga intended, as providing metaphysical grounds for $(*)$ that rendered it true was the entire motivation for his 1976 paper (see p. 142). Plantinga endorses Jager’s (at the time unpublished) paper in note 8 of his 1976 article but it would have been easy to miss the problems above, as they require both adding identity and an “actually” operator to Jager’s framework and taking a fairly deep dive into Jager’s formal machinery. All that said, the above issues could be avoided without any essential modifications to Jager’s framework if one were simply to adopt standard (what Jager calls “*de dicto*”) truth conditions for $\Box,$ $\neg,$ and $@.$
 
-[^note-67]: There is little to distinguish between propositions and states of affairs in Plantinga’s work beyond the fact that the former are referred to by means of that-clauses and the latter by gerunds: *that the earth is smaller than the sun* vs. *the earth’s being smaller than the sun*. Indeed, Plantinga (1974: 45)[^plantinga-1974] acknowledges that Chisholm (1970, 1971) might well be correct in identifying the two. Nothing hangs on the matter for purposes here.
+[^note-67]: There is little to distinguish between propositions and states of affairs in Plantinga’s work beyond the fact that the former are referred to by means of that-clauses and the latter by gerunds: *that the earth is smaller than the sun* vs. *the earth’s being smaller than the sun*. Indeed, Plantinga (1974: 45)[^plantinga-1974] acknowledges that Chisholm (1970, 1971)[^chisholm-1971] might well be correct in identifying the two. Nothing hangs on the matter for purposes here.
 
 [^note-68]: Plantinga also very often uses “actual” instead of “obtains” but this introduces a terribly confusing ambiguity that pervades Plantinga’s work. As the term has been used in this entry—and as it is most often used in the literature as well as by Plantinga himself—“actual” has a purely ontological meaning: for the possibilist, it indicates a certain privileged ontological status and, for the actualist, it is synonymous with “being” and “existence”. In this sense, every one of Plantinga’s states of affairs (including every possible world, as he defines them), *qua* necessarily existing abstract entity, is actual, regardless of whether or not it obtains. Thus, to start using “actual” *also* as a synonym for “obtains” invites a great deal of unnecessary confusion. Consequently, in our discussion of Plantinga (and Adams, below) we will consistently use “actual” only to indicate the relevant ontological state *with one exception*: we will continue to use “the actual world” to indicate the possible world that obtains (as it is defined below), as that expression is so pervasive both in Plantinga and in the broad literature. So long as its definition is borne in mind, this should not cause any confusion.
 
@@ -1613,11 +1613,11 @@ The right disjunct here will be false for any value of $\sfx$ in the Leibnizian 
 
 [^chihara-1998]: Chihara, Charles S., 1998, *The Worlds of Possibility: Modal Realism and the Semantics of Modal Logic*, Oxford: Clarendon Press.
 
-[^chihara-1971]: –––, 1971, “States of Affairs Again”, *Noûs*, 5(2): 179–189. doi:10.2307/2214730
+[^chisholm-1971]: Chisholm, Roderick M., 1971, “States of Affairs Again”, *Noûs*, 5(2): 179–189. doi:10.2307/2214730
 
-[^chihara-1973]: –––, 1973, “Beyond Being and Nonbeing”, *Philosophical Studies*, 24(4): 245–257. doi:10.1007/BF00356489
+[^chisholm-1973]: –––, 1973, “Beyond Being and Nonbeing”, *Philosophical Studies*, 24(4): 245–257. doi:10.1007/BF00356489
 
-[^chihara-1981]: –––, 1981, *The First Person: an Essay on Reference and Intentionality*, Minneapolis, MN: University of Minnesota Press.
+[^chisholm-1981]: –––, 1981, *The First Person: an Essay on Reference and Intentionality*, Minneapolis, MN: University of Minnesota Press.
 
 [^copeland-2002]: Copeland, B. Jack, 2002, “The Genesis of Possible Worlds Semantics”, *Journal of Philosophical Logic*, 31(2): 99–137. doi:10.1023/A:1015273407895
 

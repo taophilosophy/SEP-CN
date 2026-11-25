@@ -43,7 +43,7 @@ Three main positive arguments are advanced in favour of permitting organ sale.
 
 While there are many different variants under this heading, the basic claim common to all is that autonomous and competent adults have a strong presumptive right to do as they please with their own bodies (especially where this is not substantially harmful to third parties). Therefore, at least in the absence of strong reasons to do otherwise, people should be allowed to sell parts of their bodies if they so wish. Whether there are any such strong reasons is of course a moot point and the main candidate reasons are discussed in subsequent sections.
 
-Not much directly will be said about these positive arguments for permitting organ sale since they rely on more fundamental and general questions in moral and political theory that cannot be tackled within the confines of a piece on organ sale (see the entries on libertarianism, privacy and medicine, and property and ownership). Later sections will indirectly address these arguments, though, because many of the objections to sale considered could, if successful, overturn any defeasible presumption in favour of allowing ‘self-ownership’ to prevail.
+Not much directly will be said about these positive arguments for permitting organ sale since they rely on more fundamental and general questions in moral and political theory that cannot be tackled within the confines of a piece on organ sale (see the entries on libertarianism, privacy in health care and research, and property and ownership). Later sections will indirectly address these arguments, though, because many of the objections to sale considered could, if successful, overturn any defeasible presumption in favour of allowing ‘self-ownership’ to prevail.
 
 ### 2.2 The Saving of Lives
 
@@ -282,7 +282,7 @@ It should finally be noted however that there is conceptual space for a very dif
 
 ## Related Entries
 
-[collective responsibility](https://plato.stanford.edu/entries/collective-responsibility/) | [the common good](https://plato.stanford.edu/entries/common-good/) | [the donation and sale of human eggs and sperm](https://plato.stanford.edu/entries/gametes-donation-sale/) | beneficence, principle of | coercion | death: definition of | decision-making capacity | donation of human organs | ethics, biomedical: privacy and medicine | exploitation | feminist philosophy, topics: perspectives on sex markets | Kant, Immanuel: moral philosophy | libertarianism | paternalism | property and ownership | respect
+[collective responsibility](https://plato.stanford.edu/entries/collective-responsibility/) | [the common good](https://plato.stanford.edu/entries/common-good/) | [the donation and sale of human eggs and sperm](https://plato.stanford.edu/entries/gametes-donation-sale/) | beneficence, principle of | coercion | death: definition of | decision-making capacity | donation of human organs | ethics, biomedical: privacy in health care and research | exploitation | feminist philosophy, topics: perspectives on sex markets | Kant, Immanuel: moral philosophy | libertarianism | paternalism | property and ownership | respect
 
 ### Acknowledgments
 

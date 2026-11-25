@@ -286,7 +286,7 @@ Today, Mexican philosophy is a professional, pluralistic, and growing field of s
 
 ## Related Entries
 
-anarchism | Bergson, Henri | civic humanism | Comte, Auguste | democracy | Dewey, John | Enlightenment | epistemology: in Latin America | Erasmus, Desiderius | existentialism | hermeneutics | history, philosophy of | Latin American Philosophy | Latin American Philosophy: metaphilosophical foundations | liberalism | liberalism: in Latin America | liberation, philosophy of | liberty: positive and negative | Marxism, analytical | Mill, John Stuart | More, Thomas | nature of law: natural law theories | Ortega y Gasset, José | phenomenology | Platonism: in metaphysics | race | socialism | Spencer, Herbert | Stoicism | Suárez, Francisco | war
+anarchism | Bergson, Henri | civic humanism | Comte, Auguste | democracy | Dewey, John | Enlightenment | epistemology: in Latin America | Erasmus, Desiderius | existentialism | hermeneutics | history and historiography, philosophy of | Latin American Philosophy | Latin American Philosophy: metaphilosophical foundations | liberalism | liberalism: in Latin America | liberation, philosophy of | liberty: positive and negative | Marxism, analytical | Mill, John Stuart | More, Thomas | nature of law: natural law theories | Ortega y Gasset, José | phenomenology | Platonism: in metaphysics | race | socialism | Spencer, Herbert | Stoicism | Suárez, Francisco | war
 
 ### Acknowledgments
 

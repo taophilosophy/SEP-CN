@@ -199,13 +199,13 @@ The editors would like to thank Maria Reicher-Marek for providing useful comment
 
 [^ehrenfels-1887]: –––, 1887, *Über Fühlen und Wollen. Eine psychologische Studie*. Vienna: Kaiserliche Akademie der Wissenschaften. (Reprint in Fabian 1988: 15–97.) [[von Ehrenfels 1887 available online](https://archive.org/details/ueberfhlenundwo00ehregoog)]
 
-[^ehrenfels-1890]: –––, 1890, “Über ‘Gestaltqualitäten’”, *Vierteljahrsschrift für wissenschaftliche Philosophie*, 14: 249–292. (Reprint in Fabian 1988: 128–155.) [[von Ehrenfels 1890 available online](http://gallica.bnf.fr/ark:/12148/bpt6k94141n/f254.image)]
+[^ehrenfels-1890]: –––, 1890, “Über ‘Gestaltqualitäten’”, *Vierteljahrsschrift für wissenschaftliche Philosophie*, 14: 249–292. (Reprint in Fabian 1988: 128–155.) [[von Ehrenfels 1890 available online](https://gallica.bnf.fr/ark:/12148/bpt6k94141n/f254.image)]
 
-[^ehrenfels-1891]: –––, 1891, “Zur Philosophie der Mathematik”, *Vierteljahrsschrift für wissenschaftliche Philosophie*, 15: 285–347. (Reprint in Fabian 1988: 415–451.) [[von Ehrenfels 1891 available online](http://gallica.bnf.fr/ark:/12148/bpt6k941420/f290.image)]
+[^ehrenfels-1891]: –––, 1891, “Zur Philosophie der Mathematik”, *Vierteljahrsschrift für wissenschaftliche Philosophie*, 15: 285–347. (Reprint in Fabian 1988: 415–451.) [[von Ehrenfels 1891 available online](https://gallica.bnf.fr/ark:/12148/bpt6k941420/f290.image)]
 
-[^ehrenfels-1893]: –––, 1893, “Werttheorie und Ethik”, *Vierteljahrsschrift für wissenschaftliche Philosophie*, 17: 76–110, 200–266, 321–363, 413–475. (Reprint in Fabian 1982: 23–151.) [[von Ehrenfels 1893 available online](http://gallica.bnf.fr/ark:/12148/bpt6k94144p/f83.image)]
+[^ehrenfels-1893]: –––, 1893, “Werttheorie und Ethik”, *Vierteljahrsschrift für wissenschaftliche Philosophie*, 17: 76–110, 200–266, 321–363, 413–475. (Reprint in Fabian 1982: 23–151.) [[von Ehrenfels 1893 available online](https://gallica.bnf.fr/ark:/12148/bpt6k94144p/f83.image)]
 
-[^ehrenfels-1894]: –––, 1894, “Werttheorie und Ethik”, *Vierteljahrsschrift für wissenschaftliche Philosophie*, 18: 77–97. (Reprint in Fabian 1982: 151–166.) [[von Ehrenfels 1894 available online](http://gallica.bnf.fr/ark:/12148/bpt6k941451/f82.image)]
+[^ehrenfels-1894]: –––, 1894, “Werttheorie und Ethik”, *Vierteljahrsschrift für wissenschaftliche Philosophie*, 18: 77–97. (Reprint in Fabian 1982: 151–166.) [[von Ehrenfels 1894 available online](https://gallica.bnf.fr/ark:/12148/bpt6k941451/f82.image)]
 
 [^ehrenfels-1897]: –––, 1897, *System der Werttheorie, I: Allgemeine Werttheorie, Psychologie des Begehrens*. Leipzig: O. R. Reisland. (Reprint in Fabian 1982: 201–406.) [[von Ehrenfels 1897 available online](https://archive.org/details/systemderwertth00ehregoog)]
 

@@ -462,7 +462,7 @@ and ultimately endorses (1994, ch. 7; further elaboration in 2022, 33–34).
 
 [^crane-2015]: Crane, Tim and Craig French, 2015 [2021], “The Problem of Perception”, *The Stanford Encyclopedia of Philosophy* (Spring 2021 Edition), Edward N. Zalta (ed.), URL = <[https://plato.stanford.edu/archives/spr2021/entries/perception-problem/](https://plato.stanford.edu/archives/spr2021/entries/perception-problem/)>
 
-[^descartes-1637]: Descartes, René, 1637 [1965], *La Dioptrique*, in *Discours de la methode pour bien conduire sa raison, & chercher la verité dans les sciences, plus La Dioptrique, Les Meteores, et La Geometrie*, Leiden: Maire. [[*La Dioptrique* available online](http://classiques.uqac.ca/classiques/Descartes/dioptrique/dioptrique.html)] Translated as *Discourse on the Method, Optics, Geometry, and Meterology*, Paul J. Olscamp (ed. and trans.), Indianapolis: Bobbs-Merrill, 1965.
+[^descartes-1637]: Descartes, René, 1637 [1965], *La Dioptrique*, in *Discours de la methode pour bien conduire sa raison, & chercher la verité dans les sciences, plus La Dioptrique, Les Meteores, et La Geometrie*, Leiden: Maire. [[*La Dioptrique* available online](https://classiques.uqam.ca/classiques/Descartes/dioptrique/dioptrique.html)] Translated as *Discourse on the Method, Optics, Geometry, and Meterology*, Paul J. Olscamp (ed. and trans.), Indianapolis: Bobbs-Merrill, 1965.
 
 [^descartes-1641]: –––, 1641 [1985], *Meditationes de Prima Philosophia*, Paris: Michel Soly. Translated as *Meditations on First Philosophy*, in *The Philosophical Writings of Descartes*, volume 2, John Cottingham, Robert Stoothoff, and Dugald Murdoch (eds/trans), Cambridge: Cambridge University Press, 1985. doi:10.1017/CBO9780511818998
 

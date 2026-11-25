@@ -380,7 +380,7 @@ The historical act of reconstructing past human creations and projecting oneself
 
 ## Related Entries
 
-Collingwood, Robin George | Collingwood, Robin George: aesthetics | Croce, Benedetto: aesthetics | Dilthey, Wilhelm | existentialism | Heidegger, Martin | history, philosophy of | Husserl, Edmund | Merleau-Ponty, Maurice | phenomenology | rationality: historicist theories of | Sartre, Jean-Paul | Scheler, Max | Schutz, Alfred
+Collingwood, Robin George | Collingwood, Robin George: aesthetics | Croce, Benedetto: aesthetics | Dilthey, Wilhelm | existentialism | Heidegger, Martin | history and historiography, philosophy of | Husserl, Edmund | Merleau-Ponty, Maurice | phenomenology | rationality: historicist theories of | Sartre, Jean-Paul | Scheler, Max | Schutz, Alfred
 
 [^obras-2004]: *Obras Completas*. Vols. 1–10.Jose Ortega y Gasset Foundation Edition, Madrid: Taurus, 2004–2010. Recent edition of collected works.
 

@@ -211,18 +211,18 @@ Most of Comte’s works are now accessible on the web. In English, for instance:
 Other texts can be found here:
 
 - [Google search for Auguste Comte](http://www.google.com/search?q=inauthor:%22Auguste+comte%22&hl=en&tbs=bks:1,bkv:f&ei=lFFgTJr2C5Cd4Qb1zeykBw&start=0&sa=N)
-- [Comte’s works at the Bibliothèque Nationale de France](http://gallica.bnf.fr/Search?dateMiseEnLigne=indexDateFrom&idArk=&date=daEx&enreg=&ope4=MUST&firstIndexationDateDebut=&ope5=MUST&ope3=MUST&ope2=MUST&cat1=auguste+comte&sel_provenance_Part=toutPartenaires&cat3=&cat2=&cat5=&cat4=&daFr=&reset=&adv=1&adva=1&t_typedoc=livre&urlReferer=%2Fadvancedsearch%3Flang%3DFR&submit2=Lancer+la+recherche&n=15&catsel5=f_metadata&catsel4=f_tdm&firstIndexationDateFin=&tri=&tri=&catsel2=f_title&catsel3=f_content&p=1&catsel1=f_creator&sel_provenance_Edist=toutSNE&lang=fr).
+- [Comte’s works at the Bibliothèque Nationale de France](https://gallica.bnf.fr/Search?dateMiseEnLigne=indexDateFrom&idArk=&date=daEx&enreg=&ope4=MUST&firstIndexationDateDebut=&ope5=MUST&ope3=MUST&ope2=MUST&cat1=auguste+comte&sel_provenance_Part=toutPartenaires&cat3=&cat2=&cat5=&cat4=&daFr=&reset=&adv=1&adva=1&t_typedoc=livre&urlReferer=%2Fadvancedsearch%3Flang%3DFR&submit2=Lancer+la+recherche&n=15&catsel5=f_metadata&catsel4=f_tdm&firstIndexationDateFin=&tri=&tri=&catsel2=f_title&catsel3=f_content&p=1&catsel1=f_creator&sel_provenance_Edist=toutSNE&lang=fr).
 
 ### Other Online Resources
 
 - [Positivist e-texts](http://confucius.chez.com/essai/etexts.xml), a very useful inventory, which gives easy access to 1087 e-texts by Comte and positivists, in nine languages .
 - [Association Internationale Maison d’Auguste Comte](http://www.augustecomte.org/), rich documentation on Comte and the positivists.
 - [Association Positiviste Internationale](http://confucius.chez.com/clotilde/index.xml), not regularly maintained, but presents some useful information.
-- [Les Classiques des Sciences Sociales](http://classiques.uqac.ca/), has many texts by Comte, in French.
+- [Les Classiques des Sciences Sociales](https://classiques.uqam.ca/), has many texts by Comte, in French.
 
 ## Related Entries
 
-altruism | authority | consensus | history, philosophy of | metaphysics | Mill, John Stuart | progress | religion: philosophy of | science: unity of | scientific knowledge: social dimensions of
+altruism | authority | consensus | history and historiography, philosophy of | metaphysics | Mill, John Stuart | progress | religion: philosophy of | science: unity of | scientific knowledge: social dimensions of
 
 ### Acknowledgments
 

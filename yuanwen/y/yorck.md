@@ -203,7 +203,7 @@ By contrast, Yorck eschews all cooptation of the Christian breakthrough to supre
 
 ## Related Entries
 
-Dilthey, Wilhelm | Gadamer, Hans-Georg | Hegel, Georg Wilhelm Friedrich | Heidegger, Martin | history, philosophy of | Husserl, Edmund | Schleiermacher, Friedrich Daniel Ernst
+Dilthey, Wilhelm | Gadamer, Hans-Georg | Hegel, Georg Wilhelm Friedrich | Heidegger, Martin | history and historiography, philosophy of | Husserl, Edmund | Schleiermacher, Friedrich Daniel Ernst
 
 ## Notes（原文脚注）
 

@@ -399,14 +399,14 @@ Links to digitized photographic reproductions of early editions of Descartes’ 
 - [French *Meditations* and *Discourse*](http://abu.cnam.fr/BIB/auteurs/descartesr.html), online French text of the six Meditations and the *Discourse* (from the Association de Bibliophiles Universels, [http://abu.cnam.fr/](http://abu.cnam.fr/))
 - [French *Dioptrics*](https://classiques.uqam.ca/classiques/Descartes/dioptrique/dioptrique.html), online French text of *La dioptrique* (from Les classiques des sciences sociales, University of Quebec at Chicoutimi)
 - [French *Discourse* and *Meditations*](http://www.gutenberg.org/ebooks/13846), online French text of the *Discourse* and six Meditations plus the first three Objections and Replies, from the edition of Descartes’ works by Victor Cousin (Project Gutenburg)
-- [Latin *Meditations*](http://www.thelatinlibrary.com/des.html), online Latin text of the six Meditations (from The Latin Library, Classics Page, Neo-Latin, Descartes)
+- [Latin *Meditations*](https://www.thelatinlibrary.com/des.html), online Latin text of the six Meditations (from The Latin Library, Classics Page, Neo-Latin, Descartes)
 - [Latin *Meditations*](http://www.gutenberg.org/ebooks/23306), online Latin text of the six Meditations, ed. Artur Buchenau. Leipzig: Felix Meiner, 1913 (from Project Gutenburg)
 - [French and English Passions](https://research.cgu.edu/descartes/) (1649/1650), side by side (Descartes Web Project, Claremont Graduate University)
 
 The following provide access to digital photographic reproductions of many additional texts:
 
 - [An Analytic Bibliography of On-Line Neo-Latin Texts](https://philological.cal.bham.ac.uk/bibliography/t.html), has links to more than 46,000 neo-Latin texts, including many by Descartes (Dana F. Sutton)
-- [Gallica](http://gallica.bnf.fr/), a search engine for a large digital collection (Bibliothèque nationale de France)
+- [Gallica](https://gallica.bnf.fr/), a search engine for a large digital collection (Bibliothèque nationale de France)
 
 ## Related Entries
 
@@ -418,55 +418,55 @@ The author thanks Elle Kirsch, who served as research assistant and offered many
 
 [^see-2002]: See Otegem 2002 for a full bibliography.
 
-[^see-1637]: 1637, *Discours de la methode pour bien conduire sa raison, & chercher la verité dans les sciences. Plus La dioptrique, Les meteores, et La geometrie. Qui sont des essais de cete Methode*, Leiden: Jan Maire. Digitized photographic reproduction (DPR) [online](http://gallica.bnf.fr/ark:/12148/btv1b86069594.r=.langEN) (pdf).
+[^see-1637]: 1637, *Discours de la methode pour bien conduire sa raison, & chercher la verité dans les sciences. Plus La dioptrique, Les meteores, et La geometrie. Qui sont des essais de cete Methode*, Leiden: Jan Maire. Digitized photographic reproduction (DPR) [Descartes 1637 online](https://gallica.bnf.fr/ark:/12148/btv1b86069594.r=.langEN) (pdf).
 
-[^see-1641]: 1641, *Meditationes de prima philosophia, in qua Dei existentia et animae immortalitas demonstrantur*, Paris: Michel Soly. DPR [online](http://gallica.bnf.fr/ark:/12148/btv1b86002964.r=.langEN) (pdf).
+[^see-1641]: 1641, *Meditationes de prima philosophia, in qua Dei existentia et animae immortalitas demonstrantur*, Paris: Michel Soly. DPR [Descartes 1641 online](https://gallica.bnf.fr/ark:/12148/btv1b86002964.r=.langEN) (pdf).
 
 [^see-1642]: 1642, *Meditationes de prima philosophia, in quibus Dei existentia & animae humanae à corpore distinctio demonstrantur: his adjunctae sunt variae objectiones doctorum virorum in istas de Deo & anima demonstrationes, cum responsionibus authoris*, Amsterdam: Elzevir, 2nd edn. The main title was changed from the first edition, which had promised to demonstrate “the immortality of the soul”; this edition promises to demonstrate “the distinction of the human soul from the body.” The seventh set of Objections and Replies, by Pierre Bourdin, first appeared in the second edition, along with Descartes’ letter to Father Dinet, Bourdin’s superior in the Jesuit order.
 
-[^see-1643]: 1643, *Epistola ad celeberrimum virum D. Gisbertum Voetium*, Amsterdam: Elzivir. DPR [online](https://gallica.bnf.fr/ark:/12148/btv1b86015062.r=descartes%20epistola%20ad%20voetium?rk=64378;0) (pdf). Published in Dutch the same year. A related polemical work appeared posthumously (1656; see Verbeek 1988).
+[^see-1643]: 1643, *Epistola ad celeberrimum virum D. Gisbertum Voetium*, Amsterdam: Elzivir. DPR [Descartes 1643 online](https://gallica.bnf.fr/ark:/12148/btv1b86015062.r=descartes%20epistola%20ad%20voetium?rk=64378;0) (pdf). Published in Dutch the same year. A related polemical work appeared posthumously (1656; see Verbeek 1988).
 
-[^see-1644]: 1644, *Principia philosophiae*, Amsterdam: Elzevir. DPR [online](https://gallica.bnf.fr/ark:/12148/btv1b8601507g?rk=21459;2) (pdf and tiff).
+[^see-1644a]: 1644a, *Principia philosophiae*, Amsterdam: Elzevir. DPR [Descartes 1644a online](https://gallica.bnf.fr/ark:/12148/btv1b8601507g?rk=21459;2) (pdf and tiff).
 
-[^see-1644-2]: 1644, *Specimina philosophiae, seu Dissertatio de methodo recte regendae rationis & veritatis in scientiis investigandae: Dioptrice et Meteora*, trans. Etienne de Courcelles, Amsterdam: Elzevir. DPR [online](http://gallica.bnf.fr/ark:/12148/btv1b8601508w.r=.langEN) (pdf).
+[^see-1644b]: 1644b, *Specimina philosophiae, seu Dissertatio de methodo recte regendae rationis & veritatis in scientiis investigandae: Dioptrice et Meteora*, trans. Etienne de Courcelles, Amsterdam: Elzevir. DPR [Descartes 1644b online](https://gallica.bnf.fr/ark:/12148/btv1b8601508w.r=.langEN) (pdf).
 
-[^see-1647]: 1647, *Les meditations metaphysiques, touchant la premiere philosophie, dans lesquelles l’existence de Dieu, & la distinction réele entre l’ame & le corps de l’homme, sont demonstrées: et les Objections faites contre ces Meditations par diverses personnes tres-doctes, avec les réponses de l’Auteur*, trans. Louis-Charles d’Albert, duc de Luynes (*Meds*.) and Claude Clerselier (Objections and Replies). Paris: Jean Camusat and Pierre Le Petit. DPR [online](http://gallica.bnf.fr/ark:/12148/btv1b86015099.r=.langEN) (pdf). The Seventh Objections and Replies appeared first in the 2nd French edn. (1661).
+[^see-1647a]: 1647a, *Les meditations metaphysiques, touchant la premiere philosophie, dans lesquelles l’existence de Dieu, & la distinction réele entre l’ame & le corps de l’homme, sont demonstrées: et les Objections faites contre ces Meditations par diverses personnes tres-doctes, avec les réponses de l’Auteur*, trans. Louis-Charles d’Albert, duc de Luynes (*Meds*.) and Claude Clerselier (Objections and Replies). Paris: Jean Camusat and Pierre Le Petit. DPR [Descartes 1647 online](https://gallica.bnf.fr/ark:/12148/btv1b86015099.r=.langEN) (pdf). The Seventh Objections and Replies appeared first in the 2nd French edn. (1661).
 
-[^see-1647-2]: 1647, *Les principes de la philosophie*, trans. Claude Picot, Paris: Henry Le Gras. DPR [online](http://gallica.bnf.fr/ark:/12148/btv1b8600298z.r=.langEN) (pdf). Descartes added an “Author’s letter” to the translation, as a preface.
+[^see-1647b]: 1647b, *Les principes de la philosophie*, trans. Claude Picot, Paris: Henry Le Gras. DPR [Descartes 1647b online](https://gallica.bnf.fr/ark:/12148/btv1b8600298z.r=.langEN) (pdf). Descartes added an “Author’s letter” to the translation, as a preface.
 
 [^see-1649]: 1649, *A discourse of a method for the well guiding of reason, and the discovery of truth in the sciences*, London: Thomas Newcombe. Available through Early Modern Books (EMB), accessible through many College and University libraries.
 
-[^see-1649-2]: 1649, *Geometria*, trans. Frans van Schooten, Leiden: Jan Maire. DPR [online](https://gallica.bnf.fr/ark:/12148/btv1b8601510z?rk=128756;0) (pdf).
+[^see-1649a]: 1649a, *Geometria*, trans. Frans van Schooten, Leiden: Jan Maire. DPR [Descartes 1649a online](https://gallica.bnf.fr/ark:/12148/btv1b8601510z?rk=128756;0) (pdf).
 
-[^see-1649-3]: 1649, *Les passions de l’ame*, Paris: Henry Le Gras. DPR [online](http://gallica.bnf.fr/ark:/12148/btv1b8601505n.r=.langEN) (pdf).
+[^see-1649b]: 1649b, *Les passions de l’ame*, Paris: Henry Le Gras. DPR [Descartes 1649b online](https://gallica.bnf.fr/ark:/12148/btv1b8601505n.r=.langEN) (pdf).
 
-[^see-1650]: 1650, *Compendium musicae*, Utrecht: Gijsbert van Zijll and Dirck van Ackersdijck. DPR [online](https://gallica.bnf.fr/ark:/12148/btv1b8601512s/f1.item.r=compendium%20musicae) (pdf).
+[^see-1650a]: 1650a, *Compendium musicae*, Utrecht: Gijsbert van Zijll and Dirck van Ackersdijck. DPR [Descartes 1650a online](https://gallica.bnf.fr/ark:/12148/btv1b8601512s/f1.item.r=compendium%20musicae) (pdf).
 
-[^see-1650-2]: 1650, *Meditationes de prima philosophia, in quibus Dei existentia, & animæ humanæ à corpore distinctio, demonstrantur: his adjunctæ sunt variæ objectiones doctorum virorum in istas de Deo & anima demonstrationes; cum responsionibus authoris*, Amsterdam: Elzevir, 3rd edn. DPR [online](https://gallica.bnf.fr/ark:/12148/btv1b8601514m?rk=21459;2#) (pdf).
+[^see-1650b]: 1650b, *Meditationes de prima philosophia, in quibus Dei existentia, & animæ humanæ à corpore distinctio, demonstrantur: his adjunctæ sunt variæ objectiones doctorum virorum in istas de Deo & anima demonstrationes; cum responsionibus authoris*, Amsterdam: Elzevir, 3rd edn. DPR [Descartes 1650b online](https://gallica.bnf.fr/ark:/12148/btv1b8601514m?rk=21459;2#) (pdf).
 
-[^see-1650-3]: 1650, *Passiones animae*, Henry Desmarets (trans.), Amsterdam: Elzevir. DPR [online](http://gallica.bnf.fr/ark:/12148/btv1b86120184.r=.langEN) (pdf).
+[^see-1650c]: 1650c, *Passiones animae*, Henry Desmarets (trans.), Amsterdam: Elzevir. DPR [Descartes 1650c online](https://gallica.bnf.fr/ark:/12148/btv1b86120184.r=.langEN) (pdf).
 
-[^see-1650-4]: 1650, *The passions of the soule*, London: John Martin and John Ridley. Available through EMB.
+[^see-1650d]: 1650d, *The passions of the soule*, London: John Martin and John Ridley. Available through EMB.
 
-[^see-1653]: 1653, *Compendium of musick: With necessary and judicious animadversions thereupon*, William Brouncker (trans.), London: Thomas Harper. DPR [online](https://gallica.bnf.fr/ark:/12148/bpt6k581068?rk=64378;0) (pdf).
+[^see-1653]: 1653, *Compendium of musick: With necessary and judicious animadversions thereupon*, William Brouncker (trans.), London: Thomas Harper. DPR [Descartes 1653 online](https://gallica.bnf.fr/ark:/12148/bpt6k581068?rk=64378;0) (pdf).
 
 [^see-1656]: 1656, *Querela apologetica*, Groningen: Misopodem. A response to Voetius, written in 1648 in French and translated into Dutch and Latin (Otegem 2:472–75).
 
-[^see-1657]: 1657–67, *Lettres, où sont traittées les plus belles questions de la morale, physique, medecine, et des mathematiques*, 3 vols., Claude Clerseliers (ed.), Paris: Charles Angot. DPRs online, [Vol. 1](http://gallica.bnf.fr/ark:/12148/bpt6k5401225s.r=.langEN), [Vol. 2](http://gallica.bnf.fr/ark:/12148/bpt6k58378332.r=.langEN), [Vol. 3](http://gallica.bnf.fr/ark:/12148/bpt6k54012281.r=.langEN) (pdf).
+[^see-1657]: 1657–67, *Lettres, où sont traittées les plus belles questions de la morale, physique, medecine, et des mathematiques*, 3 vols., Claude Clerseliers (ed.), Paris: Charles Angot. DPRs online, [Descartes Lettres, Vol. 1](https://gallica.bnf.fr/ark:/12148/bpt6k5401225s.r=.langEN), [Descartes Lettres, Vol. 2](https://gallica.bnf.fr/ark:/12148/bpt6k58378332.r=.langEN), [Descartes Lettres, Vol. 3](https://gallica.bnf.fr/ark:/12148/bpt6k54012281.r=.langEN) (pdf).
 
-[^see-1662]: 1662, *De homine figuris*, trans. Florent Schuyl, Leiden: Leffen and Moyardum. DPR [online](http://gallica.bnf.fr/Search?q=bpt6k57493m) (pdf). A Latin translation of the original French, which was published as *L’Homme* in 1664.
+[^see-1662]: 1662, *De homine figuris*, trans. Florent Schuyl, Leiden: Leffen and Moyardum. DPR [Descartes 1662 online](https://gallica.bnf.fr/Search?q=bpt6k57493m) (pdf). A Latin translation of the original French, which was published as *L’Homme* in 1664.
 
-[^see-1664]: 1664, *Le monde, ou, Le traite de la lumiere, et des autres principaux objects des sens*, Paris: Girard. DPR [online](http://gallica.bnf.fr/ark:/12148/bpt6k5534491g.r=.langEN) (pdf).
+[^see-1664a]: 1664a, *Le monde, ou, Le traite de la lumiere, et des autres principaux objects des sens*, Paris: Girard. DPR [Descartes 1664a online](https://gallica.bnf.fr/ark:/12148/bpt6k5534491g.r=.langEN) (pdf).
 
-[^see-1664-2]: 1664, *L’homme, et un Traitté de la formation du foetus*, Claude Clerselier (ed.), Paris: Charles Angot. DPR [online](http://gallica.bnf.fr/Search?q=bpt6k574850) (pdf). This is the first edition of Descartes’ original French. It includes Remarks by Louis de la Forge and a translation of Florentius Schuyl’s Preface to the Latin translation.
+[^see-1664b]: 1664b, *L’homme, et un Traitté de la formation du foetus*, Claude Clerselier (ed.), Paris: Charles Angot. DPR [Descartes 1664b online](https://gallica.bnf.fr/Search?q=bpt6k574850) (pdf). This is the first edition of Descartes’ original French. It includes Remarks by Louis de la Forge and a translation of Florentius Schuyl’s Preface to the Latin translation.
 
-[^see-1668]: 1668, *Abbregé de la musique*, Nicolas Poisson (trans.), Paris: Charles Angot. DPR [online](https://gallica.bnf.fr/ark:/12148/bpt6k57508t?rk=42918;4) (pdf).
+[^see-1668]: 1668, *Abbregé de la musique*, Nicolas Poisson (trans.), Paris: Charles Angot. DPR [Descartes 1668 online](https://gallica.bnf.fr/ark:/12148/bpt6k57508t?rk=42918;4) (pdf).
 
-[^see-1677]: 1677, *L’ Homme, et La formation du foetus, avec Les remarques de Louis de La Forge; à quoy l’on a ajouté Le monde ou Traité de la lumière*, Claude Clerselier (ed.), Paris: Theodore Girard, 2nd edition. *L’Homme* and *Le Monde* are brought together in this second edition. Clerselier had the firgures for *Le Monde* redrawn, and used a putatively more accurate manuscript for that work. DPR [online](https://gallica.bnf.fr/ark:/12148/bpt6k57486b?rk=85837;2) (pdf).
+[^see-1677]: 1677, *L’ Homme, et La formation du foetus, avec Les remarques de Louis de La Forge; à quoy l’on a ajouté Le monde ou Traité de la lumière*, Claude Clerselier (ed.), Paris: Theodore Girard, 2nd edition. *L’Homme* and *Le Monde* are brought together in this second edition. Clerselier had the firgures for *Le Monde* redrawn, and used a putatively more accurate manuscript for that work. DPR [Descartes 1677 online](https://gallica.bnf.fr/ark:/12148/bpt6k57486b?rk=85837;2) (pdf).
 
 [^see-1680]: 1680, *Six metaphysical meditations wherein it is proved that there is a God and that mans mind is really distinct from his body: hereunto are added the objections made against these meditations by Thomas Hobbes, with the authors answers*, William Molyneux (trans.), London: Benjamin Tooke. This translation of the six Meditations is reprinted in Gaukroger (2006). The entire book (including the Third Objections and Replies) is available through EMB.
 
-[^see-1701]: 1701, *Opuscula posthuma, physica et mathematica*, Amsterdam: Blaeu. DPR [online](http://gallica.bnf.fr/ark:/12148/btv1b8612019j/f1.image.r=.langEN) (pdf). The first publication of the *Rules* in Latin (a Dutch translation had appeared in 1684), together with other writings.
+[^see-1701]: 1701, *Opuscula posthuma, physica et mathematica*, Amsterdam: Blaeu. DPR [Descartes 1701 online](https://gallica.bnf.fr/ark:/12148/btv1b8612019j/f1.image.r=.langEN) (pdf). The first publication of the *Rules* in Latin (a Dutch translation had appeared in 1684), together with other writings.
 
 [^descartes-1936]: 1936–1963, *Correspondance*, Charles Adam and Gaston Milhaud (eds.), 8 vols., Paris: Presses Universitaires de France. A complete edition of the known correspondence at date, with French translations accompanying letters in Latin.
 
@@ -508,7 +508,7 @@ The author thanks Elle Kirsch, who served as research assistant and offered many
 
 [^descartes-2015]: 2015, *The Passions of the Soul and Other Late Philosophical Writings*, Michael Moriarty (trans.), Oxford: Oxford University Press. Also includes the correspondence with Elisabeth and other letters.
 
-[^alhazen-2001]: Alhazen, or Ibn al-Haytham, and Witelo. *Opticae thesaurus: Alhazeni Arabis libri septem nunc primum editi; ejusdem Liber de crepusculis et nubium ascensionibus. Item Vitellonis, libri X*, Friedrich Risner (ed.), Basel: Episcopius. DPR [online](https://gallica.bnf.fr/ark:/12148/bpt6k312873d?rk=21459;2) (pdf). Translation of Alhazen’s theory of vision: *Alhacen’s Theory of Visual Perception: A Critical Edition, with English Translation and Commentary, of the first three books of Alhacen’s De aspectibus, the medieval Latin version of Ibn al-Haytham’s Kitab al-Manazir*, A. Mark Smith (trans.), 2 vols., Philadelphia: American Philosophical Society, 2001. Descartes cites Witelo (10:8).
+[^alhazen-2001]: Alhazen, or Ibn al-Haytham, and Witelo. *Opticae thesaurus: Alhazeni Arabis libri septem nunc primum editi; ejusdem Liber de crepusculis et nubium ascensionibus. Item Vitellonis, libri X*, Friedrich Risner (ed.), Basel: Episcopius. DPR [Alhazen *Opticae* online](https://gallica.bnf.fr/ark:/12148/bpt6k312873d?rk=21459;2) (pdf). Translation of Alhazen’s theory of vision: *Alhacen’s Theory of Visual Perception: A Critical Edition, with English Translation and Commentary, of the first three books of Alhacen’s De aspectibus, the medieval Latin version of Ibn al-Haytham’s Kitab al-Manazir*, A. Mark Smith (trans.), 2 vols., Philadelphia: American Philosophical Society, 2001. Descartes cites Witelo (10:8).
 
 [^coimbran-nd]: Coimbran Commentators, 1598, *Commentarium in tres libros De anima Aristotelis*, Coimbra: Antonio de Maris.
 
@@ -538,29 +538,29 @@ The author thanks Elle Kirsch, who served as research assistant and offered many
 
 [^hogelande-1646]: Hogelande, Cornelius van, 1646, *Cogitationes, quibus Dei existentia: item animae spiritalitas, et possibilis cum corpore unio, demonstrantur: nec non, brevis historia oeconomiae corporis animalis, proponitur, atque mechanice explicator*, Amsterdam: Elzevir. Book dedicated to Descartes. Available online tlhrough Early Modern Books (EMB) in many university libraries.
 
-[^regius-1646]: Regius, Henricus, 1646, *Fundamenta physices*, Amsterdam: Elzevir. DPR [online](https://gallica.bnf.fr/ark:/12148/bpt6k5719179g/f2.item) (pdf). Influenced by Descartes’ physics and physiology.
+[^regius-1646]: Regius, Henricus, 1646, *Fundamenta physices*, Amsterdam: Elzevir. DPR [Regius 1646 online](https://gallica.bnf.fr/ark:/12148/bpt6k5719179g/f2.item) (pdf). Influenced by Descartes’ physics and physiology.
 
 [^regius-1648]: –––, 1648, *Brevis explicatio mentis humanae, sive animae rationalis: ubi explicatur, quid sit et quid esse possit*, Utrecht: Dirck van Ackersdijck. Descartes replied with his *Comments on a Certain Broadsheet*.
 
-[^raei-1654]: Raei, Johannes de, 1654, *Clavis philosophiae naturalis, seu Introductio ad naturae contemplationem Aristotelico-Cartesiana*, Leiden: Elzevir. DPR [online](https://gallica.bnf.fr/ark:/12148/btv1b8601511c?rk=21459;2) (pdf). A student of Regius, favorable toward Descartes (see Verbeek 1992).
+[^raei-1654]: Raei, Johannes de, 1654, *Clavis philosophiae naturalis, seu Introductio ad naturae contemplationem Aristotelico-Cartesiana*, Leiden: Elzevir. DPR [Raei 1654 online](https://gallica.bnf.fr/ark:/12148/btv1b8601511c?rk=21459;2) (pdf). A student of Regius, favorable toward Descartes (see Verbeek 1992).
 
 [^more-1662]: More, Henry, 1662, *A Collection of Several Philosophical Writings*, 2 vols., London: Flesher, 2nd edition; reprint, New York, Garland, 1978.
 
 [^heereboord-1663]: Heereboord, Adrianus, 1663, *Philosophia naturalis: cum commentariis peripateticis antehac edita*, Leiden: Cornelius Driehuysen. Discusses Descartes’ mechanization of the vegetative and sensitive souls. Later editions available through EMB.
 
-[^spinoza-1663]: Spinoza, Benedictus de, 1663, *Renati Des Cartes Principiorum philosophiae pars I et II, more geometrico demonstratae*, Amsterdam: Joannes Riewerts. DPR [online](https://gallica.bnf.fr/ark:/12148/bpt6k943625?rk=21459;2) (pdf). Spinoza’s reconstruction of the arguments of the first two parts of Descartes’ *Principles of Philosophy*.
+[^spinoza-1663]: Spinoza, Benedictus de, 1663, *Renati Des Cartes Principiorum philosophiae pars I et II, more geometrico demonstratae*, Amsterdam: Joannes Riewerts. DPR [Spinoza 1663 online](https://gallica.bnf.fr/ark:/12148/bpt6k943625?rk=21459;2) (pdf). Spinoza’s reconstruction of the arguments of the first two parts of Descartes’ *Principles of Philosophy*.
 
-[^la-1666]: La Forge, Louis de, 1666, *Traitté de l’esprit de l’homme, de ses facultez et fonctions, et de son union avec le corps, suivant les Principes de René Descartes*, Paris: Michel Bobin and Nicolas Le Gras. DPR [online](https://gallica.bnf.fr/ark:/12148/bpt6k164900h?rk=21459;2) (pdf). A treatise on the human mind following Descartes’ principles.
+[^la-1666]: La Forge, Louis de, 1666, *Traitté de l’esprit de l’homme, de ses facultez et fonctions, et de son union avec le corps, suivant les Principes de René Descartes*, Paris: Michel Bobin and Nicolas Le Gras. DPR [La Forge 1666 online](https://gallica.bnf.fr/ark:/12148/bpt6k164900h?rk=21459;2) (pdf). A treatise on the human mind following Descartes’ principles.
 
 [^more-1671]: More, Henry, 1671, *Enchiridion metaphysicum*, London: Flesher; *Manual of Metaphysics*, Alexander Jacob (trans.), 2 vols., Hildesheim: Georg Olms, 1995.
 
-[^rohault-1671]: Rohault, Jacques, 1671, *Traité de physique*, Paris: Charles Savreux. DPR [online](https://gallica.bnf.fr/ark:/12148/bpt6k10426711.r=rohault%20physiqe?rk=42918;4) (pdf).
+[^rohault-1671]: Rohault, Jacques, 1671, *Traité de physique*, Paris: Charles Savreux. DPR [Rohault 1671 online](https://gallica.bnf.fr/ark:/12148/bpt6k10426711.r=rohault%20physiqe?rk=42918;4) (pdf).
 
-[^poulain-1673]: Poulain de la Barre, François, 1673, *De l’égalité des deux sexes, discours physique et moral où l’on voit l’importance de se défaire des préjugez*, Paris: Jean du Puis. DPR [online](https://gallica.bnf.fr/ark:/12148/bpt6k9617928w?rk=64378;0) (pdf). Translation: *A Physical and Moral Descourse concerning the Equality of Both Sexes*, Desmond M. Clarke (trans.), in *The Equality of the Sexes: Three Feminist Texts of the Seventeenth Century*, Desmond M. Clarke (ed.), Oxford: Oxford University Press, 2013.
+[^poulain-1673]: Poulain de la Barre, François, 1673, *De l’égalité des deux sexes, discours physique et moral où l’on voit l’importance de se défaire des préjugez*, Paris: Jean du Puis. DPR [Poulain de la Barre 1673 online](https://gallica.bnf.fr/ark:/12148/bpt6k9617928w?rk=64378;0) (pdf). Translation: *A Physical and Moral Descourse concerning the Equality of Both Sexes*, Desmond M. Clarke (trans.), in *The Equality of the Sexes: Three Feminist Texts of the Seventeenth Century*, Desmond M. Clarke (ed.), Oxford: Oxford University Press, 2013.
 
 [^huet-1689]: Huet, Pierre-Daniel, 1689, *Censura philosophiae cartesianae*, Paris: D. Horthemels; *Against Cartesian Philosophy*, Thomas M. Lennon (ed. and trans.), New York: Humanity Books, 2003.
 
-[^regis-1690]: Regis, Pierre Sylvain, 1690, *Système de philosophie, contenant la logique, la métaphysique, la physique et la morale*, Paris: Denys Thierry. DPR: [Tome 1](https://gallica.bnf.fr/ark:/12148/bpt6k10415076?rk=21459;2), [Tome 2](https://gallica.bnf.fr/ark:/12148/bpt6k10415091?rk=85837;2), [Tome 3](https://gallica.bnf.fr/ark:/12148/bpt6k10415113?rk=42918;4).
+[^regis-1690]: Regis, Pierre Sylvain, 1690, *Système de philosophie, contenant la logique, la métaphysique, la physique et la morale*, Paris: Denys Thierry. DPR: [Regis Tome 1](https://gallica.bnf.fr/ark:/12148/bpt6k10415076?rk=21459;2), [Regis Tome 2](https://gallica.bnf.fr/ark:/12148/bpt6k10415091?rk=85837;2), [Regis Tome 3](https://gallica.bnf.fr/ark:/12148/bpt6k10415113?rk=42918;4).
 
 [^le-1694]: Le Grande, Antoine, 1694, *An Entire Body of Philosophy, According to the Principles of the Famous Renate des Cartes*, Richard Blome (trans.), 2 vols., London: Samuel Roycroft. Available through EMB (under EEBO). Originally published in Latin, 1672–1675.
 

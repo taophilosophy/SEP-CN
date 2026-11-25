@@ -295,7 +295,7 @@ Public statues and monuments generally express positive evaluative attitudes tow
 
 ## Related Entries
 
-colonialism | essential vs. accidental properties | freedom: of speech | history, philosophy of | justice: intergenerational | multiculturalism | nonidentity problem | personal identity | property: intellectual | property and ownership | race | reconciliation | reparations, Black
+colonialism | essential vs. accidental properties | freedom: of speech | history and historiography, philosophy of | justice: intergenerational | multiculturalism | nonidentity problem | personal identity | property: intellectual | property and ownership | race | reconciliation | reparations, Black
 
 ### Acknowledgments
 

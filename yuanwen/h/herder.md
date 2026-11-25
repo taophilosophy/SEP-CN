@@ -495,7 +495,7 @@ The latter edition includes very helpful notes.
 
 ## Related Entries
 
-cosmopolitanism | Dilthey, Wilhelm | dualism | egalitarianism | Hamann, Johann Georg | Hegel, Georg Wilhelm Friedrich | hermeneutics | history, philosophy of | Humboldt, Wilhelm von | Kant, Immanuel | Kant, Immanuel: aesthetics and teleology | liberalism | Mill, John Stuart | nationalism | naturalism | Nietzsche, Friedrich | physicalism | rationalism vs. empiricism | relativism | religion: philosophy of | Schelling, Friedrich Wilhelm Joseph von | Schlegel, Friedrich | Schleiermacher, Friedrich Daniel Ernst | skepticism | Spinoza, Baruch | Wolff, Christian
+cosmopolitanism | Dilthey, Wilhelm | dualism | egalitarianism | Hamann, Johann Georg | Hegel, Georg Wilhelm Friedrich | hermeneutics | history and historiography, philosophy of | Humboldt, Wilhelm von | Kant, Immanuel | Kant, Immanuel: aesthetics and teleology | liberalism | Mill, John Stuart | nationalism | naturalism | Nietzsche, Friedrich | physicalism | rationalism vs. empiricism | relativism | religion: philosophy of | Schelling, Friedrich Wilhelm Joseph von | Schlegel, Friedrich | Schleiermacher, Friedrich Daniel Ernst | skepticism | Spinoza, Baruch | Wolff, Christian
 
 [^johann-1877]: *Johann Gottfried Herder Sämtliche Werke*, B. Suphan et al. (eds.), Berlin: Weidmann, 1877–.
 

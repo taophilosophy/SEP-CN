@@ -361,7 +361,7 @@ One might object that pregnancy cannot force anyone into motherhood as long as o
 
 ## Related Entries
 
-cognitive disability and moral status | conscience | double effect, doctrine of | ethics, biomedical: privacy and medicine | ethics, biomedical: stem cell research | ethics: in Indian Buddhism | eugenics | feminist philosophy, approaches: Latin American feminism | feminist philosophy, interventions: philosophy of law | feminist philosophy, topics: perspectives on reproduction and the family | Foot, Philippa | moral status, grounds of | parenthood and procreation | personal identity: and ethics | pregnancy, birth, and medicine | self-defense | thought experiments
+cognitive disability and moral status | conscience | double effect, doctrine of | ethics, biomedical: privacy in health care and research | ethics, biomedical: stem cell research | ethics: in Indian Buddhism | eugenics | feminist philosophy, approaches: Latin American feminism | feminist philosophy, interventions: philosophy of law | feminist philosophy, topics: perspectives on reproduction and the family | Foot, Philippa | moral status, grounds of | parenthood and procreation | personal identity: and ethics | pregnancy, birth, and medicine | self-defense | thought experiments
 
 [^asch-1989]: Asch, Adrienne, 1989, “Reproductive Technology and Disability”, in Sherrill Cohen and Nadine Taub (eds.), *Reproductive Laws for the 1990s, Clifton*, NJ: Humana Press, pp. 69–124.
 
