@@ -3633,7 +3633,7 @@
 | Immunity | — | 免疫 | 语料回收（specs/050 候选池） | 条目语境研判（认识论/生物学通行免疫（immunity to error through misidentification 免于误认）；审定“免蚀态”为腐蚀学义）；审定名词库（termonline-all·机械工程（一）·机械表面与界面·腐蚀与防护·一般名词，2026-11-18 JWT 直连凭证，审定作“免蚀态”） | 2026-11-19 |
 | immunity to error through misidentification | — | 免于误认错误 | bodily-awareness 首译 | 学界通行译名（身体意识与认知神经科学文献）；凭证 2026-11-07 | 2026-11-07 |
 | immunorejection | — | 免疫排斥 | 首现（cloning） | 学界惯例（移植医学通行）；凭证 2026-11-07 | 2026-11-07 |
-| immutability | — | 不可变性 | 语料回收（标题词） | 学界惯例（语料回收（标题词，specs/011 主题词汇解析 i/immutability））；凭证 2026-11-04；撞形改定 2026-11-21：审定 invariant＝不变性；immutability 为不可改变性，须分词 | 2026-11-21 |
+| immutability | — | 不可变性 | 语料回收（标题词） | 学界惯例（语料回收（标题词，specs/011 主题词汇解析 i/immutability））；凭证 2026-11-04；撞形改定 2026-11-21：审定 invariant＝不变性（物理学名词；2026-11-26 界面精确匹配复核）；immutability 为不可改变性，须分词 | 2026-11-26 |
 | impaired control | — | 受损的控制 | moral-responsibility-empirical | 成瘾研究通行（DSM 物质使用障碍语境） | 2026-11-07 |
 | impairment | — | 损伤 | disability | 学界通行（失能研究“损伤／残疾”二分；概念·社会模型类词条统一用“损伤”，与 disability 行“残疾”对举）；凭证 2026-11-09 | 2026-11-09 |
 | impartial care | — | 兼爱 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
@@ -3812,7 +3812,7 @@
 | injection | — | 单射 | quine-nf | 数学通行译名；凭证 2026-11-09 | 2026-11-09 |
 | innate ideas | — | 天赋观念 | rationalism-early-modern | 学界通行（笛卡尔—莱布尼茨一线；innate knowledge 作“先天知识”，ideas 从“观念”） | 2026-11-06 |
 | innate knowledge | — | 天赋知识 | 语料回收 | 学界惯例（古希腊/近代理性论文献通行；与 a priori knowledge 先天知识 分义，2026-11-09 反校撤“先天知识”别形）；审定库无直接收录（凭证 2026-10-30） | 2026-10-30 |
-| innateness | — | 天赋性 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07；撞形改定 2026-11-21：审定 innateness hypothesis＝天赋假说；apriority 保留先天性 | 2026-11-21 |
+| innateness | — | 天赋性 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07；撞形改定 2026-11-21：审定作“天赋说”（innateness hypothesis，语言学名词 01.056；2026-11-26 界面精确匹配复核，“天赋假说／天赋假设”未审定）；apriority 保留先天性 | 2026-11-26 |
 | inner cell mass | — | 内细胞团 | 首译（stem-cells） | 学界惯例（胚胎学通行）；凭证 2026-11-09 | 2026-11-09 |
 | inner imitation | — | 内模仿 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | inner models | — | 内模型 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
@@ -4291,7 +4291,7 @@
 | lawless sequence | — |无规律序列（亦作“无反射序列”）| 首现（intuitionism） | 直觉主义数学通行（与 lawlike 合规律的对举；亦作“无反射序列”）；凭证 2026-11-10 | 2026-11-10 |
 | lawlike | — | 合规律的（亦作“律性的”） | 首现（intuitionism） | 直觉主义数学通行（选择序列之受规律/算法支配者）；凭证 2026-11-10；FLAG 裁定 2026-11-21：首现 intuitionism 义为合规律；Goodman 律性义入亦作，合键后统一；旧键“lawlike / lawfulness”并入（2026-11-21 FLAG 裁定；旧键首现：首译（scientific-explanation-20th）） | 2026-11-21 |
 | Laws | — | 《法律篇》 | 语料回收（specs/058 全库提取） | 权威译本（柏拉图《法律篇》通行汉译；审定库无对口条目，2026-11-22）；凭证 2026-11-22 | 2026-11-22 |
-| laws of nature | — | 自然律 | hobbes-moral 首译 | 学界通行（霍布斯“自然法”，与 natural law 同形归一）；凭证 2026-11-09；2026-11-15 补亦作（审定形；科学哲学语境“自然律”并行）；撞形改定 2026-11-21：自然法归 natural law；laws of nature 取自然律 | 2026-11-21 |
+| laws of nature | — | 自然律 | hobbes-moral 首译 | 学界通行（霍布斯“自然法”，与 natural law 同形归一）；凭证 2026-11-09；2026-11-15 补亦作；审定作“自然律”（law of nature，自然辩证法名词；2026-11-26 界面精确匹配复核，科学哲学语境并行）；撞形改定 2026-11-21：自然法归 natural law；laws of nature 取自然律 | 2026-11-26 |
 | laws of reason | — | 理性律法 | 首译（saadya） | 学界通行（萨阿迪亚研究文献，与“启示律法”对举；源文 ‘aqliyyât 出自 ‘aql 智性）；凭证 2026-11-09 | 2026-11-09 |
 | laws of revelation | — | 启示律法 | 首译（saadya） | 学界通行（与“理性律法”对举；源文 sam‘iyyât 字面“被听见者”）；凭证 2026-11-09 | 2026-11-09 |
 | Laws of Thought | — | 思维规律 | 首现（william-jevons） | 学界通行（19 世纪逻辑学通行译名，Jevons/Boole 语境） | 2026-11-07 |
@@ -4525,7 +4525,7 @@
 | Lurianic Kabbalah | — | 卢里亚卡巴拉 | s/scholem 首译 | 学界通行译名（以撒·卢里亚体系）；凭证 2026-11-08 | 2026-11-08 |
 | Lüshi chunqiu | 呂氏春秋 | 《吕氏春秋》 | 语料回收 | 学界惯例（典籍译名）；审定库无相关命中（凭证 2026-10-31） | 2026-10-31 |
 | Lutheran / Lutheranism | — | 路德宗 | johann-sturm | 学界通行（亦作信义宗）；2026-11-25 异形并键（旧键 Lutheranism；旧首现 语料回收（academic-freedom）） | 2026-11-25 |
-| Lvov-Warsaw School | — | 利沃夫—华沙学派（亦作“华沙学派”） | lvov-warsaw | 学界通行译法（LWS）；凭证 2026-11-09；2026-11-15 补亦作（审定短形） | 2026-11-15 |
+| Lvov-Warsaw School | — | 利沃夫—华沙学派（亦作“华沙学派”） | lvov-warsaw | 学界通行译法（LWS）；凭证 2026-11-09；2026-11-15 补亦作；审定作“华沙学派”（The Lvov-Warsaw School; LWS，自然辩证法名词；2026-11-26 界面精确匹配复核） | 2026-11-26 |
 | Lyceum | — | 吕克昂 | schema | 学界惯例（亚里士多德学园通译）；审定名词库（termonline-all·教育学名词 04.038，2013）作“吕克昂”，与本行一致（2026-11-24 JWT 直连，凭证 termonline-b7-2026-11-24.tsv） | 2026-11-06 |
 | lymph | — | 淋巴 | cancer | 学界通行（免疫学与肿瘤学）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
 | Ł-modal system | — | Ł-模态系统 | lvov-warsaw | Łukasiewicz 术语照录；凭证 2026-11-09 | 2026-11-09 |
@@ -4682,7 +4682,7 @@
 | Māturīdī | ماتريدي | 马图里迪（人名） | al-din-al-razi 首译 | 学界通行（中亚伊斯兰教义学派）；原文列取证：GND 规范档（lobid）条目变体形 检索 2026-11-20（2026-11-20 查）；撞形改定 2026-11-21：人名与派别分列；派别归 Maṭurīdiyya | 2026-11-21 |
 | Maṭurīdiyya | المَاتُريدِيَّةُ | 马图里迪派 | arabic-islamic-* 集群 | 学界通行 | 2026-10-28 |
 | mawjūd | موجود | 存在者（阿拉伯存在论） | 语料回收（外文术语审计 2026-11-25） | 伊斯兰哲学通行（与 māhiyya 本质对举；原文形为通行转写对）；凭证 2026-11-25 | 2026-11-25 |
-| maximal act-set | — | 极大行动集 | 语料回收（标题词） | 学界惯例（行动哲学（A批正文定案）；审定“极大集”数学域佐证）；凭证 2026-11-01 | 2026-11-01 |
+| maximal act-set | — | 极大行动集 | 语料回收（标题词） | 学界惯例（行动哲学（A批正文定案）；审定“极大集”（maximal set，数学名词；2026-11-26 界面精确匹配复核）为数学域佐证）；凭证 2026-11-01 | 2026-11-26 |
 | maximal element | — | 极大元 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·数学·组合学·一般数学系统·序·格·一般数学系统，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | maximal principles | — | 极大原理 | axiom-choice | 本词条译名（Bell 对一类原理的统称） | 2026-11-13 |
 | maximal propositions | — | 极大命题 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
@@ -4929,7 +4929,7 @@
 | model carrier | — | 模型载体 | model-organisms 首译 | 本词条术语（Prieto & Fábregas-Tejeda 2025 的 model carrier，与表征论进路对举）；凭证 2026-11-09 | 2026-11-09 |
 | model checking | — | 模型检验（亦作“模型检测”“模型检查”） | logic-linear | 计算机科学通行译法；凭证 2026-11-10；2026-11-15 补亦作（通行异体“模型检测”与审定形“模型检查”） | 2026-11-15 |
 | model organism | — | 模式生物 | cancer；biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
-| model surrogate | — | 替代模型（亦作“代理模型”） | model-organisms 首译 | 生物医学通行译名（surrogate model）；凭证 2026-11-09；2026-11-15 补亦作（审定形，机器学习语境“代理模型”并行） | 2026-11-15 |
+| model surrogate | — | 替代模型（亦作“代理模型”） | model-organisms 首译 | 生物医学通行译名（surrogate model）；凭证 2026-11-09；2026-11-15 补亦作；审定作“代理模型”（surrogate model，化工名词（十）化工系统工程和化工信息化名词；2026-11-26 界面精确匹配复核，机器学习语境并行） | 2026-11-26 |
 | model system | — | 模式系统 | model-organisms 首译 | 学界通行译名（生物学与生物医学文献，与模式生物并用）；凭证 2026-11-09 | 2026-11-09 |
 | model theory | — | 模型论 | 语料回收 | 审定名词库（termonline-all·数学名词，2026-10-29 浏览器通道凭证）；“模型理论”为土木工程域不采（凭证 2026-10-29） | 2026-10-29 |
 | model-based fusion | — | 基于模型的融合 | belief-merging | 学界通行（信念合并文献，与句法进路对举）；凭证 2026-11-10 | 2026-11-10 |
@@ -5757,7 +5757,7 @@
 | parochialism | — | 偏狭主义 | moral-learning | 学界通行（群内偏好；本词条 3.3 专节）；凭证 2026-11-09 | 2026-11-09 |
 | pars principans | pars principans | 统治部分（政府） | marsilius-padua | 学界通行（马西利乌斯拉丁术语，与 legislator 立法者相对）；凭证 2026-11-08 | 2026-11-08 |
 | parsimony | — | 简约法 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
-| part-whole relation | — | 部分—整体关系（亦作“整体—部分关系”） | logic-massexpress | 分体论通行译法；凭证 2026-11-10；2026-11-15 补亦作（审定形，语序两形并行，连接号从 ADR-0041 一字线） | 2026-11-15 |
+| part-whole relation | — | 部分—整体关系（亦作“整体—部分关系”） | logic-massexpress | 分体论通行译法；凭证 2026-11-10；2026-11-15 补亦作；审定作“整体与部分”（whole and part，自然辩证法名词；2026-11-26 界面精确匹配复核，语序两形并行，连接号从 ADR-0041 一字线） | 2026-11-26 |
 | partial coherentism | — | 局部融贯论 | 首现（truth-coherence） | 学界惯例（仅对某类命题成立的融贯论）；凭证 2026-11-07 | 2026-11-07 |
 | partial correctness | — | 部分正确性 | logic-dynamic | 程序验证通行译法；凭证 2026-11-10；审定名词库（termonline-all·计算机科学技术名词 02.0964，2018）作“部分正确性”，与本行一致（2026-11-24 JWT 直连，凭证 termonline-b9-2026-11-24.tsv） | 2026-11-09 |
 | partial definition | — | 部分定义 | schema | 学界惯例（塔尔斯基真理论研究通行） | 2026-11-06 |
@@ -6210,7 +6210,7 @@
 | precautionary principle | — | 预防原则（亦作“预警原则”“谨慎原则”） | risk | 学界惯例（环境法与风险治理通行）；凭证 2026-11-09；2026-11-15 亦作移入译法列并补审定形 | 2026-11-15 |
 | preceding necessity / subsequent necessity | — | 在先必然性／在后必然性 | peter-damian | 安瑟伦《上帝何以成人》II.17 术语通行译法（necessitas praecedens/sequens）；凭证 2026-11-09 | 2026-11-09 |
 | precession | — | 进动 | newton-principia | 物理学通行（与岁差 precession of the equinoxes 分列）；凭证 2026-11-11 | 2026-11-11 |
-| precession of the equinoxes | — | 岁差（亦作“分点岁差”） | newton | 天文学通行；凭证 2026-11-08；2026-11-15 补亦作（审定全称形） | 2026-11-15 |
+| precession of the equinoxes | — | 岁差（亦作“分点岁差”） | newton | 天文学通行；凭证 2026-11-08；2026-11-15 补亦作；审定天文学名词作“岁差”（precession），“分点岁差”为海峡两岸天文学名词／测绘学名词对照形、非审定公布（2026-11-26 界面精确匹配复核） | 2026-11-26 |
 | precisification | — | 精确化 | dynamic-semantics | 模糊语义学通行（vague predicates 文献）；凭证 2026-11-12 | 2026-11-12 |
 | precision language | — | 精确语言 | 首现（scholz） | 学界惯例（肖尔兹术语）；凭证 2026-11-07 | 2026-11-07 |
 | precision medicine | — | 精准医学 | cancer；genetics | 学界通行（医学政策与生命伦理学）；医学通行译名（主会话直译 g/genetics）；凭证 2026-11-09、2026-11-11；2026-11-11 合并同键变体（来源列并双 slug） | 2026-11-11 |
@@ -6594,7 +6594,7 @@
 | quantum entanglement | — | 量子纠缠 | qt-entangle | 学界通行译名；凭证 2026-11-09；审定名词库（termonline-all·自然辩证法名词 03.370，2024）作“量子纠缠”，与本行一致（2026-11-24 JWT 直连，凭证 termonline-b10-2026-11-24.tsv） | 2026-11-09 |
 | quantum field | — | 量子场 | 语料回收（specs/058 全库提取） | 审定名词库（物理学名词·物理学_原子核物理学、粒子物理学_粒子物理学，2019，09.1551；凭证 2026-11-22） | 2026-11-22 |
 | Quantum Field Theory | — | 量子场论 | 语料回收（词汇表并网） | 学界惯例（词汇表并网迁移）；词汇表并网（ADR-0036）；审定库一致（termonline-all 凭证 2026-11-13）；旧键“QFT”并入（2026-11-21 逐行研判） | 2026-11-21 |
-| quantum gate | — | 量子门（亦作“量子逻辑门”） | qt-entangle | 学界通行译名（量子计算文献）；凭证 2026-11-09；2026-11-15 补亦作（审定全称形） | 2026-11-15 |
+| quantum gate | — | 量子门（亦作“量子逻辑门”） | qt-entangle | 学界通行译名（量子计算文献）；凭证 2026-11-09；2026-11-15 补亦作；审定全称形“量子逻辑门”（quantum logic gate，物理学名词／计算机科学技术名词；2026-11-26 界面精确匹配复核） | 2026-11-26 |
 | quantum gravity | — | 量子引力 | qm-relational | 审定名词库（物理学名词）；凭证 2026-11-11 | 2026-11-11 |
 | quantum information | — | 量子信息 | qt-entangle | 审定名词库通行（物理学名词·量子信息）；凭证 2026-11-09 | 2026-11-09 |
 | quantum information theory | — | 量子信息论 | qt-entangle | 学界通行译名；凭证 2026-11-09 | 2026-11-09 |
@@ -6612,7 +6612,7 @@
 | Quantum-Bayesian | — | 量子贝叶斯模型 | 语料回收（词汇表并网） | 即 QBism，亦译“量子贝叶斯主义”；词汇表并网（ADR-0036） | 2026-11-13 |
 | quasi-being | — | 准存在 | peter-damian | 构词直译（恶之存在为表面而非真实，Damian 研究文献用法）；凭证 2026-11-09 | 2026-11-09 |
 | quasi-emotion | — | 准情绪 | paradox-of-tragedy | 学界惯例（Walton 虚构理论通行译法）；凭证 2026-11-10 | 2026-11-10 |
-| quasi-empiricism | — | 准经验主义（亦作“数学拟经验论”） | 语料回收（lakatos 首译） | 数学基础研究通行译法；凭证 2026-11-06；2026-11-15 补亦作（审定形，拟经验/准经验并行） | 2026-11-15 |
+| quasi-empiricism | — | 准经验主义（亦作“数学拟经验论”） | 语料回收（lakatos 首译） | 数学基础研究通行译法；凭证 2026-11-06；2026-11-15 补亦作；审定作“数学拟经验论”（quasi-empiricism in mathematics，自然辩证法名词 03.247；2026-11-26 界面精确匹配复核，拟经验/准经验并行） | 2026-11-26 |
 | quasi-fideism | — | 准信仰主义 | 首现（religion-epistemology） | Pritchard 术语；凭证 2026-11-08 | 2026-11-08 |
 | quasi-merging operator | — | 准合并算子 | belief-merging | 学界通行（信念合并文献 quasi-）；凭证 2026-11-10 | 2026-11-10 |
 | quaternion | — | 四元数 | peirce-benjamin | 数学通行译名（四元数代数）；凭证 2026-11-09 | 2026-11-09 |
@@ -7491,7 +7491,7 @@
 | Skolem function | — | 斯科伦函数 | tarski-truth | 模型论与逻辑学通行；审定名词库（termonline-all·数学名词 02.0085，1993）作“斯科伦函数”，与本行一致（2026-11-24 JWT 直连，凭证 termonline-b11-2026-11-24.tsv） | 2026-11-09 |
 | Skolem's Paradox | — | 斯科伦悖论 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23；译形补证 2026-11-25：Skolem 通行译“斯科伦”，见《数理逻辑与集合论》教学大纲（北京航空航天大学，“斯科伦函数”）与 Manin《数学家用的数理逻辑教程》第 7 节 Skolem’s Paradox | 2026-11-25 |
 | skopos | σκοπός | 论旨（首现括注原文） | olympiodorus | 古代注疏学通行（文本的宗旨/主题）；凭证 2026-11-08 | 2026-11-08 |
-| Sleeping Beauty | — | 睡美人问题 | 语料回收（标题词） | 审定直接命中（自然辩证法·科学哲学）；凭证 2026-11-01 | 2026-11-01 |
+| Sleeping Beauty | — | 睡美人问题 | 语料回收（标题词） | 审定直接命中“睡美人问题”（Sleeping Beauty problem，自然辩证法名词；2026-11-26 界面精确匹配复核）；凭证 2026-11-01 | 2026-11-26 |
 | sleeping dog strategy | — | “睡狗”策略 | f/frame-problem 首译 | 构词直译（McDermott 1987 提法，let sleeping dogs lie 典故）；凭证 2026-11-10 | 2026-11-10 |
 | slippery slope | — | 滑坡（论证） | euthanasia-voluntary 首译 | 学界通行 | 2026-11-11 |
 | Ślokavārttika | — | 《颂释补》 | 语料回收（specs/058 全库提取） | 本库译名（鸠摩利罗著，偈颂体批判注释；语料 16 处一致；未见中译本）（2026-11-24 语料核对，凭证 works-batch23-2026-11-24.md） | 2026-11-24 |
