@@ -58,7 +58,63 @@
      ]
     }
    ],
-   "first_index": 172
+   "first_index": 172,
+   "flow": {
+    "units": [
+     562,
+     572
+    ],
+    "equal": false,
+    "ops": [
+     {
+      "op": "insert",
+      "range": [
+       44,
+       44,
+       44,
+       45
+      ],
+      "a": [],
+      "b": [
+       "(1)\n"
+      ]
+     },
+     {
+      "op": "replace",
+      "range": [
+       331,
+       332,
+       332,
+       337
+      ],
+      "a": [
+       "\\(\\lambda s_1\\). For every minimal situation \\(s_4\\) such that\\(s_4 \\le s_1\\) and there is an individual <em>y</em> and a situation \\(s_7\\) such that \\(s_7\\) is a minimal situation such that \\(s_7\\le s_4\\) and <em>y</em>"
+      ],
+      "b": [
+       "\n\\(\\lambda s_1\\).  For every minimal situation \\(s_4\\) such that\n",
+       "\n\\(s_4 \\le s_1\\) and there is\nan individual <i>y</i> and a situation \\(s_7\\) such that \\(s_7\\) is a\nminimal situation such that \\(s_7\\le s_4\\) and <i>y</i> is a man in\n\\(s_7\\), such that there is a situation \\(s_9\\) such",
+       "\n \\(s_7\\le s_9\\) and\nthere is an individual <i>x</i> and a situation \\(s_2\\) such that\n\\(s_2\\) is a minimal situation such that \\(s_2\\le s_9\\) and <i>x</i>\nis a donkey in \\(s_2\\), such that there is a situation \\(s_3\\) s"
+      ]
+     },
+     {
+      "op": "replace",
+      "range": [
+       387,
+       388,
+       392,
+       395
+      ],
+      "a": [
+       "\nWeak Readings: a. Every person who had a credit card paid his bill\nwith it."
+      ],
+      "b": [
+       "Weak Readings:\n  ",
+       "a.",
+       "Every person who had a\ncredit card paid his bill with it."
+      ]
+     }
+    ]
+   }
   },
   {
    "slug": "augustine",
@@ -116,7 +172,61 @@
      ]
     }
    ],
-   "first_index": 607
+   "first_index": 607,
+   "flow": {
+    "units": [
+     519,
+     519
+    ],
+    "equal": false,
+    "ops": [
+     {
+      "op": "replace",
+      "range": [
+       180,
+       181,
+       180,
+       181
+      ],
+      "a": [
+       "Spanish"
+      ],
+      "b": [
+       "Commentaries"
+      ]
+     },
+     {
+      "op": "replace",
+      "range": [
+       194,
+       195,
+       194,
+       195
+      ],
+      "a": [
+       "Commentaries"
+      ],
+      "b": [
+       "Reference Works"
+      ]
+     },
+     {
+      "op": "replace",
+      "range": [
+       204,
+       205,
+       204,
+       205
+      ],
+      "a": [
+       "Reference Works"
+      ],
+      "b": [
+       "Introductory and General"
+      ]
+     }
+    ]
+   }
   },
   {
    "slug": "baudrillard",
@@ -179,7 +289,46 @@
      ]
     }
    ],
-   "first_index": 527
+   "first_index": 527,
+   "flow": {
+    "units": [
+     268,
+     267
+    ],
+    "equal": false,
+    "ops": [
+     {
+      "op": "delete",
+      "range": [
+       157,
+       187,
+       157,
+       157
+      ],
+      "a": [
+       "Secondary Literature",
+       "Best, Steven, and Kellner, Douglas, 1991, <em>Postmodern Theory:\nCritical Interrogations</em>, London and New York: MacMillan and\nGuilford Press.",
+       "&ndash;&ndash;&ndash;, 1997, <em>The Postmodern Turn</em>, New\nYork: Guilford Press."
+      ],
+      "b": []
+     },
+     {
+      "op": "insert",
+      "range": [
+       221,
+       221,
+       191,
+       220
+      ],
+      "a": [],
+      "b": [
+       "Best, Steven, and Kellner, Douglas, 1991, <em>Postmodern Theory:\nCritical Interrogations</em>, London and New York: MacMillan and\nGuilford Press.",
+       "&ndash;&ndash;&ndash;, 1997, <em>The Postmodern Turn</em>, New\nYork: Guilford Press.",
+       "&ndash;&ndash;&ndash;, 2001, <em>The Postmodern Adventure</em>, New\nYork: Guilford Press."
+      ]
+     }
+    ]
+   }
   },
   {
    "slug": "berlin",
@@ -242,7 +391,59 @@
      ]
     }
    ],
-   "first_index": 164
+   "first_index": 164,
+   "flow": {
+    "units": [
+     518,
+     520
+    ],
+    "equal": false,
+    "ops": [
+     {
+      "op": "replace",
+      "range": [
+       153,
+       154,
+       153,
+       156
+      ],
+      "a": [
+       "Relatedly, is it better to regard a culture as a holistic value-system\nwith a separate value of its own rather than as an unordered aggregate\nof individual values? On the holistic view, all subsidiary parts of a\nculture "
+      ],
+      "b": [
+       "\nRelatedly, is it better to regard a culture as a holistic value-system\nwith a separate value of its own rather than as an unordered aggregate\nof individual values? On the holistic view, all subsidiary parts of a\nculture",
+       "\nThe way in which the Portuguese eat and drink and dance, the way in\nwhich they produce their laws, the way in which they study their\nhistory, the way they look, the way they get up and sit down, the kind\nof moral and po",
+       "\nAt times Berlin seems to share a view of this kind: as so often, it\ncan be hard to know whether he is ventriloquising or speaking in his\nown voice."
+      ]
+     },
+     {
+      "op": "insert",
+      "range": [
+       312,
+       312,
+       314,
+       315
+      ],
+      "a": [],
+      "b": [
+       "B. Books about Berlin"
+      ]
+     },
+     {
+      "op": "delete",
+      "range": [
+       313,
+       314,
+       316,
+       316
+      ],
+      "a": [
+       "B. Books about Berlin"
+      ],
+      "b": []
+     }
+    ]
+   }
   },
   {
    "slug": "consciousness-intentionality",
@@ -310,7 +511,46 @@
      ]
     }
    ],
-   "first_index": 178
+   "first_index": 178,
+   "flow": {
+    "units": [
+     486,
+     486
+    ],
+    "equal": false,
+    "ops": [
+     {
+      "op": "delete",
+      "range": [
+       46,
+       50,
+       46,
+       46
+      ],
+      "a": [
+       "\nThis entry includes the following supplementary documents linked into\nthe text, as described above.",
+       "<a href=\"arguments-intentionalism.html\">Arguments for Intentionalism</a>",
+       "<a href=\"phenomenology-intentionalism.html\">Phenomenology and Intentionalism</a>"
+      ],
+      "b": []
+     },
+     {
+      "op": "insert",
+      "range": [
+       64,
+       64,
+       60,
+       64
+      ],
+      "a": [],
+      "b": [
+       "\nThis entry includes the following supplementary documents linked into\nthe text, as described above.",
+       "<a href=\"arguments-intentionalism.html\">Arguments for Intentionalism</a>",
+       "<a href=\"phenomenology-intentionalism.html\">Phenomenology and Intentionalism</a>"
+      ]
+     }
+    ]
+   }
   },
   {
    "slug": "criminal-law",
@@ -368,7 +608,42 @@
      ]
     }
    ],
-   "first_index": 346
+   "first_index": 346,
+   "flow": {
+    "units": [
+     359,
+     361
+    ],
+    "equal": false,
+    "ops": [
+     {
+      "op": "insert",
+      "range": [
+       183,
+       183,
+       183,
+       184
+      ],
+      "a": [],
+      "b": [
+       "We control\n    \\(X\\) if we have a reasonable chance of preventing \\(X\\) or\n    bringing \\(X\\) about.\n"
+      ]
+     },
+     {
+      "op": "insert",
+      "range": [
+       330,
+       330,
+       331,
+       332
+      ],
+      "a": [],
+      "b": [
+       "<script type=\"text/javascript\" src=\"local.js\"></script>\n<script type=\"text/javascript\" src=\"../../MathJax/MathJax.js?config=TeX-AMS-MML_HTMLorMML\"></script>\n\n\n"
+      ]
+     }
+    ]
+   }
   },
   {
    "slug": "diagrams",
@@ -436,7 +711,59 @@
      ]
     }
    ],
-   "first_index": 439
+   "first_index": 439,
+   "flow": {
+    "units": [
+     476,
+     478
+    ],
+    "equal": false,
+    "ops": [
+     {
+      "op": "replace",
+      "range": [
+       173,
+       174,
+       173,
+       174
+      ],
+      "a": [
+       "\nShin ( <a href=\"#shin94\">1994</a>)(#shin94)] follows up Peirce&rsquo;s\nwork in two directions. One is to improve Peirce&rsquo;s version of\nVenn diagrams, and the other is to prove the soundness and the\ncompleteness of t"
+      ],
+      "b": [
+       "\nShin\n (<a href=\"#shin94\">1994</a>)\n follows up Peirce&rsquo;s work in two directions. One is to improve\nPeirce&rsquo;s version of Venn diagrams, and the other is to prove the\nsoundness and the completeness of this revis"
+      ]
+     },
+     {
+      "op": "insert",
+      "range": [
+       237,
+       237,
+       237,
+       238
+      ],
+      "a": [],
+      "b": [
+       "</tbody>\n"
+      ]
+     },
+     {
+      "op": "replace",
+      "range": [
+       281,
+       282,
+       282,
+       283
+      ],
+      "a": [
+       "Representations are objects in the world, and as such they obey certain structural constraints that govern their possible formation. The variance in inferential potential of different modes of representation is largely a"
+      ],
+      "b": [
+       "\nRepresentations are objects in the world, and as such they obey\ncertain structural constraints that govern their possible formation.\nThe variance in inferential potential of different modes of\nrepresentation is largely "
+      ]
+     }
+    ]
+   }
   },
   {
    "slug": "game-theory",
@@ -494,7 +821,61 @@
      ]
     }
    ],
-   "first_index": 330
+   "first_index": 330,
+   "flow": {
+    "units": [
+     821,
+     828
+    ],
+    "equal": false,
+    "ops": [
+     {
+      "op": "replace",
+      "range": [
+       160,
+       161,
+       160,
+       167
+      ],
+      "a": [
+       "<em>Node</em>: a point at which a player chooses an action.<em>Initial node</em>: the point at which the first action in the game occurs.<em>Terminal node</em>: any node which, if reached, ends the game. Each terminal no"
+      ],
+      "b": [
+       "<em>Node</em>: a point at which a player chooses an action.\n\n",
+       "<em>Initial node</em>: the point at which the first action in the game\noccurs.",
+       "<em>Terminal node</em>: any node which, if reached, ends the game.\nEach terminal node corresponds to an <em>outcome</em>."
+      ]
+     },
+     {
+      "op": "replace",
+      "range": [
+       555,
+       556,
+       561,
+       562
+      ],
+      "a": [
+       "\nThe developments reviewed in the previous section bring us up to the\nmoving frontier of experimental / behavioral applications of classical\ngame theory. We can now return to the branch point left off several\nparagraphs "
+      ],
+      "b": [
+       "\nThe developments reviewed in the previous section bring us up to the\nmoving frontier of experimental / behavioral applications of classical\ngame theory. We can now return to the branch point left off several\nparagraphs "
+      ]
+     },
+     {
+      "op": "insert",
+      "range": [
+       583,
+       583,
+       589,
+       590
+      ],
+      "a": [],
+      "b": [
+       "\nMany philosophers will also be interested in Binmore\n (<a href=\"#Bin94\">1994</a>\n <a href=\"#Bin98\">1998</a>,\n <a href=\"#Bin05a\">2005a</a>)\n (**), which shows that application of game-theoretic analysis can\nunderwrite a "
+      ]
+     }
+    ]
+   }
   },
   {
    "slug": "heytesbury",
@@ -557,7 +938,55 @@
      ]
     }
    ],
-   "first_index": 338
+   "first_index": 338,
+   "flow": {
+    "units": [
+     536,
+     542
+    ],
+    "equal": false,
+    "ops": [
+     {
+      "op": "insert",
+      "range": [
+       98,
+       98,
+       98,
+       99
+      ],
+      "a": [],
+      "b": [
+       "<tbody>\n"
+      ]
+     },
+     {
+      "op": "insert",
+      "range": [
+       120,
+       120,
+       121,
+       122
+      ],
+      "a": [],
+      "b": [
+       "<tbody>\n"
+      ]
+     },
+     {
+      "op": "insert",
+      "range": [
+       216,
+       216,
+       218,
+       219
+      ],
+      "a": [],
+      "b": [
+       "<tbody>\n"
+      ]
+     }
+    ]
+   }
   },
   {
    "slug": "logic-intensional",
@@ -615,7 +1044,44 @@
      ]
     }
    ],
-   "first_index": 398
+   "first_index": 398,
+   "flow": {
+    "units": [
+     377,
+     378
+    ],
+    "equal": false,
+    "ops": [
+     {
+      "op": "replace",
+      "range": [
+       142,
+       143,
+       142,
+       143
+      ],
+      "a": [
+       "\n\\begin{align} \\cM, \\Gamma \\vDash_{v} \\forall fX \\Leftrightarrow\n&amp;\\cM, \\Gamma \\vDash_{w} X, \\mbox{for every \u00000\u0000-variant \u00001\u0000 of \u00002\u0000}\n\\\\ \\cM, \\Gamma \\vDash_{v} \\exists fX \\Leftrightarrow &amp;\\cM, \\Gamma\n\\vDash_{w} X, "
+      ],
+      "b": [
+       "\n\n\\begin{align}\n\\cM, \\Gamma \\vDash_{v} \\forall fX \\Leftrightarrow &amp;\\cM, \\Gamma \\vDash_{w} X,\n \\mbox{for every \\(f\\)-variant \\(w\\) of \\(v\\)} \\\\\n\n\\cM, \\Gamma \\vDash_{v} \\exists fX \\Leftrightarrow &amp;\\cM, \\Gamma \\vDas"
+      ]
+     },
+     {
+      "op": "insert",
+      "range": [
+       348,
+       348,
+       348,
+       349
+      ],
+      "a": [],
+      "b": [
+       "<script type=\"text/javascript\" src=\"local.js\"></script>\n<script type=\"text/javascript\" src=\"../../MathJax/MathJax.js?config=TeX-AMS-MML_HTMLorMML\"></script>\n\n"
+      ]
+     }
+    ]
+   }
   },
   {
    "slug": "metaphysics-massexpress",
@@ -683,7 +1149,59 @@
      ]
     }
    ],
-   "first_index": 279
+   "first_index": 279,
+   "flow": {
+    "units": [
+     602,
+     608
+    ],
+    "equal": false,
+    "ops": [
+     {
+      "op": "replace",
+      "range": [
+       75,
+       76,
+       75,
+       79
+      ],
+      "a": [
+       "(<em>Thinghood</em>) <em>x</em> is a <em>thing</em> or <em>object</em> if and only if:1. <em>x</em> falls under some <em>F</em>, and <em>F</em> is singular. [Furthermore, the plural &ldquo;the <em>F</em>s&rdquo; is well-"
+      ],
+      "b": [
+       "\n(<em>Thinghood</em>) <em>x</em> is a <em>thing</em> or <em>object</em>\nif and only if:\n\n",
+       "<em>x</em> falls under some <em>F</em>, and <em>F</em> is\nsingular. [Furthermore, the plural &ldquo;the <em>F</em>s&rdquo; is\nwell-formed and does not refer to kinds (e.g., in &lsquo;the wines of\nFrance&rsquo;).]",
+       "<em>x</em> can be unqualifiedly counted as <em>one</em>. [i.e.,\n<em>x</em> can take &lsquo;one&rsquo; as an unqualified numerical\ndeterminer, without recourse to measurement, &lsquo;packaging&rsquo;,\nor partitive phrases"
+      ]
+     },
+     {
+      "op": "insert",
+      "range": [
+       250,
+       250,
+       253,
+       254
+      ],
+      "a": [],
+      "b": [
+       "<tbody>\n"
+      ]
+     },
+     {
+      "op": "insert",
+      "range": [
+       310,
+       310,
+       314,
+       315
+      ],
+      "a": [],
+      "b": [
+       "<hr />\n\n"
+      ]
+     }
+    ]
+   }
   },
   {
    "slug": "propositional-function",
@@ -751,7 +1269,44 @@
      ]
     }
    ],
-   "first_index": 952
+   "first_index": 952,
+   "flow": {
+    "units": [
+     319,
+     320
+    ],
+    "equal": false,
+    "ops": [
+     {
+      "op": "replace",
+      "range": [
+       275,
+       276,
+       275,
+       276
+      ],
+      "a": [
+       "Parsons, Terence, 1986, &ldquo;Why Frege should not have said that\n&ldquo;The Concept Horse is not a Concept&rdquo;&rdquo;, <em>History\nof Philosophy Quarterly</em>, 3: 449&ndash;465."
+      ],
+      "b": [
+       "Parsons, Terence, 1986, &ldquo;Why Frege should not have said that\n&ldquo;The Concept Horse is not a Concept&rdquo;\\(\\)&rdquo;,\n<em>History of Philosophy Quarterly</em>, 3: 449&ndash;465."
+      ]
+     },
+     {
+      "op": "insert",
+      "range": [
+       290,
+       290,
+       290,
+       291
+      ],
+      "a": [],
+      "b": [
+       "<script type=\"text/javascript\" src=\"local.js\"></script>\n<script type=\"text/javascript\" src=\"../../MathJax/MathJax.js?config=TeX-MML-AM_CHTML\"></script>\n\n\n"
+      ]
+     }
+    ]
+   }
   },
   {
    "slug": "pufendorf",
@@ -819,7 +1374,55 @@
      ]
     }
    ],
-   "first_index": 169
+   "first_index": 169,
+   "flow": {
+    "units": [
+     989,
+     997
+    ],
+    "equal": false,
+    "ops": [
+     {
+      "op": "insert",
+      "range": [
+       184,
+       184,
+       184,
+       185
+      ],
+      "a": [],
+      "b": [
+       "<tbody>\n"
+      ]
+     },
+     {
+      "op": "insert",
+      "range": [
+       202,
+       202,
+       203,
+       204
+      ],
+      "a": [],
+      "b": [
+       "<tbody>\n"
+      ]
+     },
+     {
+      "op": "insert",
+      "range": [
+       214,
+       214,
+       216,
+       217
+      ],
+      "a": [],
+      "b": [
+       "<tbody>\n"
+      ]
+     }
+    ]
+   }
   },
   {
    "slug": "scottus-eriugena",
@@ -887,7 +1490,42 @@
      ]
     }
    ],
-   "first_index": 790
+   "first_index": 790,
+   "flow": {
+    "units": [
+     342,
+     342
+    ],
+    "equal": false,
+    "ops": [
+     {
+      "op": "insert",
+      "range": [
+       239,
+       239,
+       239,
+       240
+      ],
+      "a": [],
+      "b": [
+       "Secondary Literature"
+      ]
+     },
+     {
+      "op": "delete",
+      "range": [
+       240,
+       241,
+       241,
+       241
+      ],
+      "a": [
+       "Secondary Literature"
+      ],
+      "b": []
+     }
+    ]
+   }
   },
   {
    "slug": "shared-agency",
@@ -955,7 +1593,29 @@
      ]
     }
    ],
-   "first_index": 457
+   "first_index": 457,
+   "flow": {
+    "units": [
+     290,
+     291
+    ],
+    "equal": false,
+    "ops": [
+     {
+      "op": "insert",
+      "range": [
+       133,
+       133,
+       133,
+       134
+      ],
+      "a": [],
+      "b": [
+       "<sub>Yes</sub>&#9586;<sup>No</sup>\n"
+      ]
+     }
+    ]
+   }
   },
   {
    "slug": "singular-terms-medieval",
@@ -1023,7 +1683,42 @@
      ]
     }
    ],
-   "first_index": 515
+   "first_index": 515,
+   "flow": {
+    "units": [
+     312,
+     312
+    ],
+    "equal": false,
+    "ops": [
+     {
+      "op": "insert",
+      "range": [
+       199,
+       199,
+       199,
+       200
+      ],
+      "a": [],
+      "b": [
+       "Secondary Sources"
+      ]
+     },
+     {
+      "op": "delete",
+      "range": [
+       201,
+       202,
+       202,
+       202
+      ],
+      "a": [
+       "Secondary Sources"
+      ],
+      "b": []
+     }
+    ]
+   }
   },
   {
    "slug": "suicide",
@@ -1091,7 +1786,32 @@
      ]
     }
    ],
-   "first_index": 284
+   "first_index": 284,
+   "flow": {
+    "units": [
+     339,
+     340
+    ],
+    "equal": false,
+    "ops": [
+     {
+      "op": "replace",
+      "range": [
+       77,
+       78,
+       77,
+       79
+      ],
+      "a": [
+       "\n1. <br>2. <em>S</em> believed that <em>B</em>, or some causal\nconsequence of <em>B</em>, would hasten their death (i.e, their death\nwould occur earlier in time than it would have in <em>B</em>&rsquo;s\nabsence), and<br>3"
+      ],
+      "b": [
+       "<em>S</em> believed that <em>B</em>, or some causal consequence of\n<em>B</em>, would hasten their death (i.e, their death would occur\nearlier in time than it would have in <em>B</em>&rsquo;s absence),\nand",
+       "<em>S</em> intended to die by engaging in <em>B</em>."
+      ]
+     }
+    ]
+   }
   },
   {
    "slug": "time",
@@ -1149,7 +1869,31 @@
      ]
     }
    ],
-   "first_index": 252
+   "first_index": 252,
+   "flow": {
+    "units": [
+     421,
+     421
+    ],
+    "equal": false,
+    "ops": [
+     {
+      "op": "replace",
+      "range": [
+       242,
+       243,
+       242,
+       243
+      ],
+      "a": [
+       "Baron, Samuel and Andrew J. Latham, Jordan Veng Oh &amp; Kristie\nMiller, 2024, &ldquo;Is Endurantism the Folk Friendly View of\nPersistence?&rdquo; <em>Philosophical Studies,</em> 181:\n2605&ndash;2638."
+      ],
+      "b": [
+       "Baron, Samuel and Andrew J. Latham, Jordan Veng Oh &amp; Kristie\nMiller, 2024, &ldquo;Is Endurantism the Folk Friendly View of\nPersistence?&rdquo; <em>Philosophical Studies,</em> 181:\n2605&ndash;2638.</LI>\n\n<LI> Barnes, "
+      ]
+     }
+    ]
+   }
   },
   {
    "slug": "truth-correspondence",
@@ -1217,7 +1961,30 @@
      ]
     }
    ],
-   "first_index": 357
+   "first_index": 357,
+   "flow": {
+    "units": [
+     421,
+     423
+    ],
+    "equal": false,
+    "ops": [
+     {
+      "op": "insert",
+      "range": [
+       387,
+       387,
+       387,
+       389
+      ],
+      "a": [],
+      "b": [
+       "<img src=\"../../symbols/pp.gif\" alt=\"phil papers icon\" />",
+       "<a href=\"http://philpapers.org/surveys/\" target=\"other\">The PhilPapers Surveys: Results, Analysis and Discussion</a> at <a href=\"http://philpapers.org\" target=\"other\">PhilPapers</a>."
+      ]
+     }
+    ]
+   }
   },
   {
    "slug": "typelogical-grammar",
@@ -1285,7 +2052,55 @@
      ]
     }
    ],
-   "first_index": 295
+   "first_index": 295,
+   "flow": {
+    "units": [
+     665,
+     674
+    ],
+    "equal": false,
+    "ops": [
+     {
+      "op": "insert",
+      "range": [
+       325,
+       325,
+       325,
+       326
+      ],
+      "a": [],
+      "b": [
+       "&nbsp;&nbsp;&nbsp;"
+      ]
+     },
+     {
+      "op": "insert",
+      "range": [
+       336,
+       336,
+       337,
+       338
+      ],
+      "a": [],
+      "b": [
+       "&nbsp;&nbsp;&nbsp;"
+      ]
+     },
+     {
+      "op": "insert",
+      "range": [
+       348,
+       348,
+       350,
+       351
+      ],
+      "a": [],
+      "b": [
+       "&nbsp;&nbsp;&nbsp;"
+      ]
+     }
+    ]
+   }
   },
   {
    "slug": "wilhelm-humboldt",
@@ -1343,7 +2158,61 @@
      ]
     }
    ],
-   "first_index": 472
+   "first_index": 472,
+   "flow": {
+    "units": [
+     395,
+     411
+    ],
+    "equal": false,
+    "ops": [
+     {
+      "op": "replace",
+      "range": [
+       143,
+       144,
+       143,
+       148
+      ],
+      "a": [
+       "<em>Gesammelte Schriften</em>, (GS) edited by K&ouml;niglich\nPreussische, Akademie der Wissen-schaften, 17 vols., Berlin: Behr.\nAbteilung 1: <em>Werke</em>, Albert Leitzmann (ed.), vols.\n1&ndash;9 and 13. Abteilung 2: <e"
+      ],
+      "b": [
+       "<em>Gesammelte Schriften</em>, (GS) edited by K&ouml;niglich\nPreussische, Akademie der Wissen-schaften, 17 vols., Berlin: Behr.\n\n",
+       "Abteilung 1: <em>Werke</em>, Albert Leitzmann (ed.), vols.\n1&ndash;9 and 13.",
+       "Abteilung 2: <em>Politische Denkschriften</em>, Bruno Gebhardt\n(ed.), vols. 10&ndash;12."
+      ]
+     },
+     {
+      "op": "insert",
+      "range": [
+       151,
+       151,
+       155,
+       167
+      ],
+      "a": [],
+      "b": [
+       "<em>Schriften zur Sprachwissenschaft</em> (<em>Writings on\nLinguistics</em>), edited by Kurt Mueller-Vollmer in cooperation with\nTilman Borsche, Bernhard Hurch, Manfred Ringmacher, J&uuml;rgen\nTrabant, and Gordon Whittak",
+       "Abt. 2. Bd. 1. <em>Schriften zur Anthropologie der Basken</em>,\nwith introduction and commentary, Bernhard Hurch (ed.), 2010, VIII +\n432 pages.",
+       "Abt. 2. Bd. 2. <em>Baskische Wortstudien und Grammatik</em>, with\nintroduction and commentary, Bernhard Hurch (ed.), 2012, XIII + 427\npages."
+      ]
+     },
+     {
+      "op": "insert",
+      "range": [
+       207,
+       207,
+       223,
+       224
+      ],
+      "a": [],
+      "b": [
+       "Monographs, Biographies and Collected Essays"
+      ]
+     }
+    ]
+   }
   }
  ]
 }

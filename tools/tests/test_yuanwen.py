@@ -30,6 +30,16 @@ class TestInline(unittest.TestCase):
         # 用户 2026-10-27：数学定界符统一为 LaTeX（$…$）
         self.assertIn('$\\beta < \\alpha$', out)
 
+    def test_nested_math_in_env_no_sentinel_leak(self):
+        # logic-intensional 判例（2026-11-25）：裸排 align 里 \mbox{… \(f\) …}
+        # 的内层行内公式占位在环境还原后才出现，必须二次清扫——否则 NUL 哨兵
+        # 泄漏进 md（实测 12 处，一路污染译文）。
+        html = (r'\begin{align} \cM \vDash_{v} \forall fX & '
+                r'\mbox{for every \(f\)-variant \(w\) of \(v\)} \end{align}')
+        out = inline_to_md(html)
+        self.assertNotIn('\x00', out)
+        self.assertIn('$f$', out)
+
     def test_note_ref_prefixed_anchor(self):
         # bell-theorem 的锚是 notes.html#note-8（自带前缀），不得双重化
         out = inline_to_md('x<sup>[<a href="notes.html#note-8" id="ref-8">8</a>]</sup>', slug='s')

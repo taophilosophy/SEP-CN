@@ -620,6 +620,22 @@ def inline_to_md(html, slug=None):
     for idx, val in enumerate(env_store):
         v = re.sub(r'[ \t\r\n\f\v]+', ' ', unescape(val)).strip()
         s = s.replace('\x14%d\x14' % idx, '$$' + v + '$$')
+    # 二次清扫（2026-11-25，logic-intensional 判例）：裸排环境内容里可能有行内
+    # 公式占位（`\mbox{for every \(f\)-variant …}`）。占位先于环境入库，环境
+    # 还原在其后，首轮替换已过 → 不补扫就把 NUL 哨兵泄漏进 md（12 处）。
+    # 这里的残留只可能在显示环境内，按行内式还原（不含希腊单字母转文字分支；
+    # 该分支只服务正文行内语境，环境内出现即为上游公式体，保持公式形更稳）。
+    for idx, val in enumerate(store):
+        key = '\x00%d\x00' % idx
+        if key not in s:
+            continue
+        v = re.sub(r'[ \t\r\n\f\v]+', ' ', unescape(val)).strip()
+        if v.startswith('\\(') and v.endswith('\\)'):
+            body = _esc_math_dollar(v[2:-2])
+            v = ('$' + body + '$') if body.strip() else ''
+        elif v.startswith('\\[') and v.endswith('\\]'):
+            v = '$$' + _esc_math_dollar(v[2:-2], display=True) + '$$'
+        s = s.replace(key, v)
     s = wrap_naked_envs(s)
     for idx, val in enumerate(tstore):
         # 嵌套表段原样还原：不解码、不归一（HTML 段不参与 markdown 处理）
@@ -1527,6 +1543,13 @@ def convert_entry(slug):
         cite_defs = len(keys)
 
     md = restore_cross_block_math(md, stash)
+
+    # 后置硬校验（2026-11-25，logic-intensional 判例）：占位哨兵是转换器内部记号，
+    # 泄漏进 md 即成不可见污染（NUL 会一路进译文与站点）。宁可该件转换失败。
+    leak = {c: md.count(c) for c in ('\x00', '\x07', '\x14', '\x15', '\x1b') if c in md}
+    if leak:
+        return {'slug': slug,
+                'error': 'md 哨兵泄漏 %r（内部占位未还原，禁写盘）' % leak}
 
     md_path = os.path.join(ydir, slug + '.md')
     _write_if_changed(md_path, md + '\n')
