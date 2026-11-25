@@ -76,6 +76,7 @@ tools/golden/
 
 | 阶段 | 产物 | 依赖 | 可并行 |
 | ---- | ---- | ---- | ---- |
+| **S-1** | **端到端试金石**（060 §5.4 第一梯队 3 件走完整流程，产出 findings） | — | **最先**，独立于其余 |
 | S0 | 黄金测试框架＋register 骨架 | — | 与 S1 并行 |
 | S1 | `tools/registry.py`＋两表建表（首批：catalog／errata／patches） | — | 与 S0 并行 |
 | S2 | `clean --check` 入 check_all 第 22 项 | S1（表消费） | — |
@@ -89,7 +90,7 @@ tools/golden/
 | S10 | 063 阶段轨实施（naming v2、check_stages ⑩–⑮、stage_of、ADR-0090） | S1 | 与 S5–S9 并行 |
 | S11 | 案 B 退役（ADR-0091、pipeline/naming retired、rules/04 注记） | S10 | — |
 
-**关键路径**：S0 → S4 → S5 → S6 → S7/S8 → S9；S10→S11 为独立支线（只动 JSON 与 Python 校验器）。
+**关键路径**：**S-1** → S0 → S4 → S5 → S6 → S7/S8 → S9；S10→S11 为独立支线（只动 JSON 与 Python 校验器）；S-1 的 findings 可能调整全部后续顺序。
 
 ## 4 迁移与回退
 
