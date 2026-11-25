@@ -2687,6 +2687,7 @@
 | experimenter demand effect | — | 实验者需求效应 | justice-moral-psych | 实验方法论通行汉译；凭证 2026-11-10 | 2026-11-10 |
 | expert knowledge | — | 专家知识 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | expertise | — | 专长（亦作“专家知识”） | 语料回收（宗教与科学哲学族扫描 2026-11-25） | 社会认识论通行（语料 40 次）；凭证 2026-11-25 | 2026-11-25 |
+| explainability | — | 可解释性（AI 伦理） | 语料回收（女性主义／技术／物理族扫描 2026-11-25） | 人工智能伦理通行（与 interpretability 可解释性（模型内部）按域分列；语料 34 次）；凭证 2026-11-25 | 2026-11-25 |
 | explanandum (that which is to be explained) | — | 被解释项 | 首译（scientific-explanation-20th） | 学界通行（Hempel 模型术语；与“解释项”对）；凭证 2026-11-10 | 2026-11-10 |
 | explanans | — | 解释项 | 首现（xenophanes） | 学界通行（科学说明）；凭证 2026-11-07；审定名词库（自然辩证法名词 03.101，2024）作“说明项”，中文科学哲学通行“解释项”并与“被解释项”成对，保留现行（2026-11-24 复核，凭证 termonline-b4-2026-11-24.tsv） | 2026-11-07 |
 | explanation | Erklären | 说明 | dilthey 首译 | 学界通行（与“理解”Verstehen 对举；说明—理解二分）；凭证 2026-11-09；FLAG 裁定 2026-11-21：审定名词库作“说明”（自然辩证法·一般科学哲学·说明），与 Erklären／Verstehen 二分之“说明”一致（维持现译） | 2026-11-21 |
@@ -2820,9 +2821,11 @@
 | femininity | — | 女性气质 | 语料回收（specs/050 候选池） | 条目语境研判（性别哲学通行女性气质（波伏娃语境）；审定“女性化”为性医学义）；审定名词库（termonline-all·行为医学·性行为及其障碍·性行为，2026-11-18 JWT 直连凭证，审定作“女性化”） | 2026-11-19 |
 | feminism | — | 女性主义 | 语料回收 | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
 | feminist epistemology | — | 女性主义认识论 | omniscience | 学界通行译名；凭证 2026-11-09 | 2026-11-09 |
+| feminist ethics | — | 女性主义伦理学 | 语料回收（女性主义／技术／物理族扫描 2026-11-25） | 伦理学通行（与 feminist epistemology 女性主义认识论并列）；凭证 2026-11-25 | 2026-11-25 |
 | feminist philosophy | — | 女性主义哲学 | 语料回收（学科名审计 2026-11-25） | 学科通名（中文语料 31 次，“女性主义”本库统一形）；凭证 2026-11-25 | 2026-11-25 |
 | feminist pornography | — | 女性主义色情 | 首译（erotic-art） | 本词条术语 | 2026-11-08 |
 | feminist postmodernism | — | 女性主义后现代主义 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
+| feminist standpoint | — | 女性主义立场 | 语料回收（女性主义／技术／物理族扫描 2026-11-25） | 女性主义认识论通行（立场论核心；语料 7 次）；凭证 2026-11-25 | 2026-11-25 |
 | feminist theory | — | 女性主义理论 | 语料回收（specs/050 候选池） | 条目语境研判（与既有女性主义词族一致；审定“女权主义理论”与库内译名惯例冲突）；审定名词库（termonline-all·社会学名词·跨学科社会学·社会工作·社会工作理论，2026-11-18 JWT 直连凭证，审定作“女权主义理论”） | 2026-11-19 |
 | ferment | — | 酵素（亦作“激荡”） | locke-on-medicine | 赫尔蒙特研究通行（亦作“发酵原”备查）；FLAG 裁定 2026-11-21：双义：洛克医学史酵素义为主，泛用激荡义入亦作 | 2026-11-21 |
 | fermentation | — | 发酵 | locke-on-medicine | 化学/医史通行；审定名词库（termonline-all·食品卫生学名词 4.4.61，2025）作“发酵”，与本行一致（2026-11-24 JWT 直连，凭证 termonline-b4-2026-11-24.tsv） | 2026-11-05 |
@@ -3931,6 +3934,7 @@
 | interpretation function | — | 解释函数 | logical-consequence | 模型论通行译法；凭证 2026-11-09 | 2026-11-09 |
 | interpretive key | — | 解释键 | model-organisms 首译 | 本词条术语（Sartori 的 interpretive key，与 DEKI 的 key 同源）；凭证 2026-11-09 | 2026-11-09 |
 | interpretivism | — | 诠释主义 | 语料回收（ism 扫描 2026-11-25） | 社会科学方法论与量子力学诠释两域通行（按语境取义）；凭证 2026-11-25 | 2026-11-25 |
+| intersectionality | — | 交叉性 | 语料回收（女性主义／技术／物理族扫描 2026-11-25） | 女性主义与批判种族理论通行（克伦肖；语料 17 次）；凭证 2026-11-25 | 2026-11-25 |
 | intersubjectivity | — | 主体间性 | qm-relational | 哲学通行汉译（胡塞尔以降）；凭证 2026-11-11 | 2026-11-11 |
 | intertheoretic reduction | — | 理论间还原 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·自然辩证法·科学哲学·一般科学哲学·意义标准，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | intertumor heterogeneity | — | 肿瘤间异质性 | cancer | 本条术语（肿瘤生物学）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
@@ -4254,6 +4258,7 @@
 | Laozi / Lao Tzu | 老子 | 《老子》 | 术语会话种子（ADR-0011） | 学界通行学名 | 2026-10-28 |
 | large cardinal / Large Cardinals | — | 大基数 | quine-nf；语料回收（词汇表并网） | 集合论通行译名；凭证 2026-11-09；2026-11-13 重复行合并（旧键 `Large Cardinals`） | 2026-11-13 |
 | large cardinal axioms | — | 大基数公理 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
+| large language model | — | 大语言模型 | 语料回收（女性主义／技术／物理族扫描 2026-11-25） | 人工智能通行（语料 10 次）；凭证 2026-11-25 | 2026-11-25 |
 | large number argument | — | 大数论证 | 首现（william-jevons） | 学界惯例（社会科学方法论通行说法）；凭证 2026-11-07 | 2026-11-07 |
 | late capitalism | — | 晚期资本主义 | adorno | 学界通行汉译（曼德尔/法兰克福学派研究通行）；审定库无查询件（termonline-all 目录现查 2026-11-10） | 2026-11-10 |
 | Late Middle Ages | — | 中世纪晚期 | 语料回收（f20 审计 2026-11-25） | 分期通名（语料 30 次）；凭证 2026-11-25 | 2026-11-25 |
@@ -4883,6 +4888,7 @@
 | Miscellanies | — | 《杂录》 | 首现（xenophanes） | B 档联网查证：伪普鲁塔克 Στρωματεῖς 通行译名《杂录》（亦作《杂缀集》；克莱门同名作译《杂语》）（WebSearch 2026-11-15 查）；分档裁定 B 档（rules/03 S2） | 2026-11-15 |
 | Mishneh Torah | — | 《重述托拉》 | crescas | 学界通行（迈蒙尼德律法巨著）；凭证 2026-11-08 | 2026-11-08 |
 | mismatch | — | 失配 | cancer | 学界通行（演化医学，evolutionary mismatch）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
+| misogyny | — | 厌女（亦作“厌女症”） | 语料回收（女性主义／技术／物理族扫描 2026-11-25） | 女性主义哲学通行（语料 5 次）；凭证 2026-11-25 | 2026-11-25 |
 | misrepresentation | — | 误表征 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·自然辩证法·科学哲学·分支科学哲学·信息哲学，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | missing heritability | — | 缺失遗传率 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | mistaken cognition(log shes) | ལོག་ཤེས་ | 颠倒识（log shes） | epistemology-language-tibetan | 藏传量论通行；原文列联网查证：Monlam 藏英词典 log shes 条（“a knower which is mistaken with （2026-11-14 查，凭证 orig-verify-2026-11-14-b8.tsv）；键形归一 2026-11-21：全角括注／斜线改半角（键须为源语形）；旧键 mistaken cognition（log shes） | 2026-11-21 |
@@ -5790,6 +5796,7 @@
 | pathos | πάθος | 情致 | japanese-aesthetics | 学界惯例（美学研究通行译法“情致”） | 2026-11-02 |
 | patient-derived xenograft | — | 患者来源异种移植 | cancer | 学界通行（转化医学，PDX）；凭证 2026-11-09 | 2026-11-09 |
 | patriarchalism | — | 家长制主义 | hobbes-moral 首译 | 学界通行；凭证 2026-11-09 | 2026-11-09 |
+| patriarchy | — | 父权制 | 语料回收（女性主义／技术／物理族扫描 2026-11-25） | 女性主义哲学通行（语料 11 次）；凭证 2026-11-25 | 2026-11-25 |
 | patriotism | — | 爱国主义 | 语料回收（全目录） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
 | pattern formation | — | 模式形成 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·动物学·动物胚胎学·细胞分化与发育，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | pattern recognition | — | 模式识别 | innateness-cognition | 学界通行；凭证 2026-11-12；审定名词库（termonline-all·计算机科学技术名词 08.0366，2018）作“模式识别”，与本行一致（2026-11-24 JWT 直连，凭证 termonline-b9-2026-11-24.tsv） | 2026-11-12 |
@@ -7346,7 +7353,9 @@
 | Sewall Wright Effect | — | 休厄尔·赖特效应 | ecological-genetics 首译 | Fisher–Ford 1950 命名之历史专名；随人名行（Sewall Wright 既有行）；凭证 2026-11-09 | 2026-11-09 |
 | sex discrimination | — | 性别歧视 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·心理学，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | sex roles | — | 性别角色 | 语料回收（specs/058 全库提取） | 审定名词库（termonline-all，凭证 2026-11-23） | 2026-11-23 |
+| sex work | — | 性工作 | 语料回收（女性主义／技术／物理族扫描 2026-11-25） | 应用伦理学通行（语料 27 次）；凭证 2026-11-25 | 2026-11-25 |
 | sexual activity | — | 性活动 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·医学·泌尿外科学，2026-11-18 JWT 直连凭证） | 2026-11-19 |
+| sexual consent | — | 性同意 | 语料回收（女性主义／技术／物理族扫描 2026-11-25） | 应用伦理学通行（与 consent 同意分列）；凭证 2026-11-25 | 2026-11-25 |
 | sexual desire | — | 性欲 | 语料回收（specs/058 全库提取） | 审定名词库（termonline-all，凭证 2026-11-23） | 2026-11-23 |
 | sexual harassment | — | 性骚扰 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·行为医学·性行为及其障碍·性功能障碍，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | sexual orientation | — | 性取向 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·生殖医学·性与性功能障碍，2026-11-18 JWT 直连凭证） | 2026-11-19 |
@@ -7713,6 +7722,8 @@
 | standing to blame | — | 责备资格 | blame 首译 | 学界通行译名（责备伦理学文献）；凭证 2026-11-07 | 2026-11-07 |
 | standing variation | — | 存量变异 | ecological-genetics 首译 | 学界通行译名（进化遗传学文献）；凭证 2026-11-10 | 2026-11-10 |
 | standing-in-itself | — | 自立（standing-in-itself；亦作“自身站立”） | gadamer-aesthetics | 学界惯例（伽达默尔研究通行）；撞形豁免 2026-11-21：与爱默生 self-reliance 同形异源，不合并 | 2026-11-21 |
+| standpoint epistemology | — | 立场认识论 | 语料回收（女性主义／技术／物理族扫描 2026-11-25） | 女性主义认识论通行（语料 6 次）；凭证 2026-11-25 | 2026-11-25 |
+| standpoint theory | — | 立场论 | 语料回收（女性主义／技术／物理族扫描 2026-11-25） | 女性主义认识论通行（语料 4 次）；凭证 2026-11-25 | 2026-11-25 |
 | Star of Redemption | — | 《救赎之星》 | s/scholem 首译 | 学界通行译名（罗森茨维格代表作）；凭证 2026-11-08 | 2026-11-08 |
 | star operator | — | 星号算子 | logic-relevance | Routley 星号通行译法；凭证 2026-11-09 | 2026-11-09 |
 | stare decisis / ratio decidendi | stare decisis / ratio decidendi | 遵循先例（stare decisis）／判决理由（ratio decidendi） | reasoning-analogy | 学界通行（法学术语，保留拉丁） | 2026-11-05 |
@@ -7777,6 +7788,7 @@
 | strict preference | — | 严格偏好 | 语料回收（specs/050 候选池） | 条目语境研判（偏好词族统一（与个体偏好/偏好排序一致）；审定“严格偏爱”同义）；审定名词库（termonline-all·数学·运筹学·多目标规划，2026-11-18 JWT 直连凭证，审定作“严格偏爱”） | 2026-11-19 |
 | strict/tolerant validity | — | 严格/宽容有效性 | logic-substructural | Cobreros 等术语直译；凭证 2026-11-10 | 2026-11-09 |
 | string | — | 字符串 | schema | 学界惯例（计算机与数理逻辑通行）；审定名词库（termonline-all·地理信息系统名词 01.794，2012）作“字符串”，与本行一致（2026-11-24 JWT 直连，凭证 termonline-b11-2026-11-24.tsv） | 2026-11-06 |
+| string theory | — | 弦论 | 语料回收（女性主义／技术／物理族扫描 2026-11-25） | 物理学哲学通行（语料 4 次）；凭证 2026-11-25 | 2026-11-25 |
 | stringency (of an argument pattern) | — | 严格度 | 首译（scientific-explanation-20th） | 本库首译（Kitcher 1989）；凭证 2026-11-10 | 2026-11-10 |
 | striving possibles | — |力求存在的可能者（亦作“力争存在的可能者”）| leibniz-modal | 学界惯例（莱布尼茨研究通行，亦作“力争存在的可能者”备查）；凭证 2026-11-03 | 2026-11-03 |
 | Strix | — | 《女巫》 | 语料回收（specs/058 全库提取） | 本库译名（詹弗朗切斯科·皮科著，1523；意大利文译本 1524；语料 8 处一致）（2026-11-24 联网／语料核对，凭证 works-batch29-2026-11-24.md） | 2026-11-24 |
