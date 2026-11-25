@@ -110,6 +110,8 @@ def apply(spec_path, dry):
     ren_keys = {key_of(l) for l in ren if l.startswith('| ')}
     # 中文主形查重（2026-11-23 加）：同主形不同英文＝疑似同概念异拼写重复登记，
     # 只告警不拦截（同形不同义按 rules/03 分行时需人工判定）。
+    # 2026-11-25：告警带出既有行键与译法，并给处置提示——只报“已有”时告警曾被忽略，
+    # 同概念二次登记因此造出 air pump（抽气机／空气泵）、《谈谈方法》／《方法谈》等分裂。
     zh_main = {}
     for l in reg:
         if not l.startswith('| '):
@@ -119,7 +121,7 @@ def apply(spec_path, dry):
             continue
         m = cells[2].split('（')[0].strip('《》')
         if m:
-            zh_main.setdefault(m, []).append(cells[0])
+            zh_main.setdefault(m, []).append((cells[0], cells[2]))
     zh_warn = []
     for sp in rows:
         if sp.get('table', 'term') != 'term':
@@ -128,12 +130,15 @@ def apply(spec_path, dry):
         if not m or m not in zh_main:
             continue
         en_n = norm_key(sp['en'])
-        olds = [k for k in zh_main[m]
+        olds = [(k, z) for k, z in zh_main[m]
                 if en_n not in {norm_key(x) for x in k.split('/')}]
         if olds:
-            zh_warn.append('%s（%s 已有：%s）' % (sp['en'], m, olds[0]))
+            k, z = olds[0]
+            zh_warn.append('%s（%s 已有：%s＝%s）' % (sp['en'], m, k, z[:40]))
     if zh_warn:
         print('  告警 中文主形已存在（同概念异拼写？）：' + '；'.join(zh_warn))
+        print('  提示 同形不同义请在译法加域括注后重跑；同概念请并键（键写 A / B，'
+              '依据栏记旧键与旧首现），勿两行照登')
     miss, dup, ok_r = [], 0, 0
     for sp in rows:
         reg_row = build_row(sp, sp.get('date', date))
