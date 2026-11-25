@@ -1,0 +1,11 @@
+{
+ "key": "secondary literature",
+ "term": "secondary literature",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-25T04:33:27+00:00",
+ "status": "empty",
+ "note": "审定公布名词库=0; 海峡两岸名词对照库=0; 其他来源数据库=0",
+ "hits": [],
+ "error": null,
+ "raw": "{\"success\": true, \"message\": \"\", \"code\": 200, \"result\": {\"searchResult\": [{\"result\": {\"totalRecords\": 0, \"tmWordList\": [], \"totalPage\": 0, \"yearsList\": [], \"yearStats\": {}, \"currentPage\": 1, \"typeStats\": {}, \"sourceStats\": {}}, \"id\": \"00000000000000000000000000000000\"}, {\"result\": {\"totalRecords\": 0, \"tmWordList\": [], \"totalPage\": 0, \"yearsList\": [], \"yearStats\": {}, \"currentPage\": 1, \"typeStats\": {}, \"sourceStats\": {}}, \"id\": \"00000000000000000000000000000001\"}, {\"result\": {\"totalRecords\": 0, \"tmWordList\": [], \"totalPage\": 0, \"yearsList\": [], \"yearStats\": {}, \"currentPage\": 1, \"typeStats\": {}, \"sourceStats\": {}}, \"id\": \"00000000000000000000000000000002\"}], \"overView\": {\"tw\": [], \"en\": [], \"cn\": [], \"source\": []}}, \"timestamp\": 1795581209932}"
+}

@@ -1,0 +1,11 @@
+{
+ "key": "belief",
+ "term": "belief",
+ "provider": "termonline-all",
+ "queried_at": "2026-11-25T04:10:52+00:00",
+ "status": "empty",
+ "note": "",
+ "hits": [],
+ "error": null,
+ "raw": "{\"success\": false, \"message\": \"操作失败，[401] during [GET] to [http://system/sys/user/getUserSectionInfoByToken?token=%7B%22value%22%3A%22eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTgxNzE2OTcsInVzZXJuYW1lIjoiMTc3NjQwMzE1MTcifQ.CXjcnv6q1uQKeibgnbTpWJ66-7hDHefbCsi_AKGEM_E%22%2C%22time%22%3A1795579694708%2C%22expire%22%3A1796184494708%7D] [ISysUserFeignService#getUserSectionInfoByToken(String)]: [{\\\"success\\\":true,\\\"message\\\":\\\"token非法无效!\\\",\\\"code\\\":401,\\\"result\\\":null,\\\"timestamp\\\":1795579855132}]\", \"code\": 500, \"result\": null, \"timestamp\": 1795579855140}"
+}
