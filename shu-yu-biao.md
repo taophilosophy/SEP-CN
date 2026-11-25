@@ -43,6 +43,7 @@
 | ability hypothesis | — | 能力假说 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | ableism | — | 能力主义 | disability | 学界通行译名（失能研究）；凭证 2026-11-09 | 2026-11-09 |
 | abnormality | — | 异常 | 语料回收（specs/050 候选池） | 条目语境研判（医学伦理/病理哲学通行异常（正常/异常对偶）；审定“畸形”为胚胎学义）；审定名词库（termonline-all·解剖与组织胚胎学，2026-11-18 JWT 直连凭证，审定作“畸形”） | 2026-11-19 |
+| abortion | — | 堕胎（亦作“人工流产”） | 语料回收（生命伦理／法哲学／教育哲学族扫描 2026-11-25） | 应用伦理学通行（语料 171 次）；凭证 2026-11-25 | 2026-11-25 |
 | absence theory (of evil) | — | 缺失论 | evil-kinds-origins | 本词条译名（与 privation 褫夺论 分列） | 2026-11-12 |
 | absent qualia | — | 缺失感质 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | absenteeism | — | 缺勤 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·管理科学技术·组织行为与人力资源管理·绩效管理，2026-11-18 JWT 直连凭证） | 2026-11-19 |
@@ -1127,6 +1128,7 @@
 | civitas | civitas | 拉丁原文保留（国家） | oakeshott 首译 | 体例：拉丁术语保留原词并随文释义；凭证 2026-11-07 | 2026-11-07 |
 | cladistics | — | 分支系统学 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | claim (promissory) | — |请求权（亦作“要求权”）| reinach | 学界惯例（Anspruch；法学与现象学通行）；亦作“要求权”；凭证 2026-11-09 | 2026-11-09 |
+| claim rights | — | 请求权（霍菲尔德权利束；与 claim (promissory) 请求权分列） | 语料回收（生命伦理／法哲学／教育哲学族扫描 2026-11-25） | 权利理论通行（霍菲尔德；与 liberty rights 自由权对举；语料 14 次）；凭证 2026-11-25 | 2026-11-25 |
 | claimant injustice | — | 主张者不义 | blame 首译 | 学界通行译名（责备伦理学文献）；凭证 2026-11-07 | 2026-11-07 |
 | clarification | — | 澄清 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·农产品贮运与加工·果蔬加工，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | clarity | — | 清晰性 | 语料回收（specs/050 候选池） | 条目语境研判（笛卡尔清晰分明传统（clarity and distinctness）；审定“明晰度”为建筑声学义）；审定名词库（termonline-all·建筑学·建筑物理·建筑声学，2026-11-18 JWT 直连凭证，审定作“明晰度”） | 2026-11-19 |
@@ -1692,6 +1694,7 @@
 | crystal spheres | — | 水晶天球 | natphil-ren | 天文学史通行；凭证 2026-11-10 | 2026-11-10 |
 | cue | — | 线索 | information-biological | 学界通行（与信号对举）；凭证 2026-11-12 | 2026-11-12 |
 | cuius regio, eius religio | cuius regio, eius religio | 教随国定（拉丁原词保留斜体） | s/sovereignty 首译 | 学界通行译法（宗教改革研究通行）；凭证 2026-11-07 | 2026-11-07 |
+| culpability | — | 可责性 | 语料回收（生命伦理／法哲学／教育哲学族扫描 2026-11-25） | 法哲学通行（与 liability 责任分列；语料 5 次）；凭证 2026-11-25 | 2026-11-25 |
 | culpable ignorance | — | 可归咎的无知 | moral-responsibility-empirical | 责任伦理学通行（与“不可归咎的无知”对举） | 2026-11-07 |
 | cultural adaptation | — | 文化适应 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·地理学·社会与文化地理学，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | cultural badge | — | 文化徽章 | moral-responsibility-empirical | 文化演化研究通行（Boyd & Richerson 系） | 2026-11-07 |
@@ -1967,6 +1970,7 @@
 | determination rule | — | 决定规则 | reasoning-analogy | 构词直译（Russell/Davies 术语） | 2026-11-05 |
 | determining reason | — | 决定理由（克鲁修斯 ratio determinans／Grund） | 18thGerman-preKant | 同“决定理由原则”行依据；凭证 2026-11-05 | 2026-11-05 |
 | determinism | — | 决定论 | 语料回收 | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29） | 2026-10-27 |
+| deterrence | — | 威慑（刑罚理论） | 语料回收（生命伦理／法哲学／教育哲学族扫描 2026-11-25） | 法哲学通行（与 retributivism 报应主义对举；语料 15 次）；凭证 2026-11-25 | 2026-11-25 |
 | deterritorialization | — | 解辖域化 | globalization | 社会理论通行汉译（全球化三要素之一）；FLAG 裁定 2026-11-21：审定名词库作“解辖域化和再辖域化”（deterritorialization and reterritorialization） | 2026-11-21 |
 | development | — | 发展；发育 | 语料回收（词汇表并网） | 哲学与一般语境译“发展”，生物学语境译“发育”；词汇表并网（ADR-0036） | 2026-11-13 |
 | developmental constraint | — | 发育约束 | biology-philosophy 首译 | 学界通行译名（生物学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
@@ -3339,6 +3343,7 @@
 | health equity | — | 健康公平 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·健康社会决定因素，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | health inequality | — | 健康不平等 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·儿少与学校卫生学名词·学校健康教育与健康促进·青少年健康促进策略，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | health insurance | — | 医疗保险 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·社会学名词·分支社会学·社会保障·医疗保险，2026-11-18 JWT 直连凭证） | 2026-11-19 |
+| healthcare rationing | — | 医疗配给 | 语料回收（生命伦理／法哲学／教育哲学族扫描 2026-11-25） | 生命伦理学通行（语料 6 次）；凭证 2026-11-25 | 2026-11-25 |
 | hêdonê | ἡδονή | 快乐 | epicurus | 学界惯例（与 algêdôn 痛苦对举；hedonism 快乐主义 已登记） | 2026-11-12 |
 | hedonic | — | 享乐的 | paradox-of-tragedy | 学界惯例（hedonic compensation 享乐补偿；hedonic charge 享乐电荷）；凭证 2026-11-10 | 2026-11-10 |
 | hedonic reversal | — | 快乐逆转 | paradox-of-tragedy | 学界惯例（Rozin 研究通行译法）；凭证 2026-11-10 | 2026-11-10 |
@@ -3408,6 +3413,7 @@
 | historical epistemology | — | 历史认识论 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | historical explanation | — | 历史解释 | 语料回收（specs/058 全库提取） | 学界通行（历史哲学文献通行译名；语料 11 处一致）（2026-11-24 联网／语料核对，凭证 pool-harvest-b5-2026-11-24.md） | 2026-11-24 |
 | historical individual | — | 历史个体 | music | Rohrbaugh 术语（historical individuals）；凭证 2026-11-09 | 2026-11-09 |
+| historical narrative | — | 历史叙事 | 语料回收（生命伦理／法哲学／教育哲学族扫描 2026-11-25） | 历史哲学通行（语料 4 次）；凭证 2026-11-25 | 2026-11-25 |
 | historical school of law | — | 历史法学派 | august-rehberg 首译 | 法学史通行（萨维尼开创的历史法学派）；凭证 2026-11-08 | 2026-11-08 |
 | historically-effected consciousness | wirkungsgeschichtliches Bewußtsein | 效果历史意识 | gadamer | 伽达默尔诠释学核心术语；凭证 2026-11-10 | 2026-11-10 |
 | historicism | — | 历史主义 | oakeshott 首译 | 学界通行汉译；凭证 2026-11-07；撞形豁免 2026-11-21：波普尔 historicism 与德语 Historismus 同形异源，分行按条区分，不合并 | 2026-11-21 |
@@ -3607,6 +3613,7 @@
 | ikiji | 意地 | 意地 | japanese-aesthetics | 学界惯例（九鬼周造研究通行译法“意地”） | 2026-11-02 |
 | Iliad | — | 《伊利亚特》 | ancient-soul 首译 | 学界通行汉译（荷马史诗） | 2026-11-09 |
 | ill will | — | 恶意 | blame 首译 | 学界通行译名（责备伦理学文献）；凭证 2026-11-07 | 2026-11-07 |
+| illness | — | 病痛 | 语料回收（生命伦理／法哲学／教育哲学族扫描 2026-11-25） | 医学哲学通行（与 disease 疾病、sickness 患病三分；语料 3 次）；凭证 2026-11-25 | 2026-11-25 |
 | illocutionary negation | — |施行性否定（亦作“语用否定”）| 首现（buddha） | 言语行为论译法（亦作“语用否定”）；凭证 2026-11-12 | 2026-11-12 |
 | illumination (model of abstraction) | illuminatio | 光照说 | 首现（simon-faversham） | 学界通行（奥古斯丁—经院认识论）；凭证 2026-11-08 | 2026-11-08 |
 | illuminationist | — | 照明论 | 首译（saadya） | 伊斯兰哲学通行（ishrāqī 照明哲学一路；与既有“光照说 illumination”行分立，勿混）；凭证 2026-11-09 | 2026-11-09 |
@@ -3725,6 +3732,7 @@
 | individuation | — | 个体化 | 首译（stem-cells） | 学界惯例（形而上学通行；与已登记“个体化原理”同源）；凭证 2026-11-09 | 2026-11-09 |
 | indivisibility | — | 不可分 | logic-massexpress | 语义学通行译法（复数预设）；凭证 2026-11-10 | 2026-11-09 |
 | indivisible lines | — | 不可分线 | xenocrates | 学界通行（SEP On Indivisible Lines 通行译名） | 2026-11-08 |
+| indoctrination | — | 灌输 | 语料回收（生命伦理／法哲学／教育哲学族扫描 2026-11-25） | 教育哲学通行（语料 23 次）；凭证 2026-11-25 | 2026-11-25 |
 | indolent | — | 惰性 | cancer | 学界通行（肿瘤学，指生长缓慢不侵袭的病程）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
 | induced pluripotent stem cell (iPSC) | — | 诱导多能干细胞 | 首现（cloning） | 学界惯例（干细胞生物学通行）；凭证 2026-11-07 | 2026-11-07 |
 | induction | — | 归纳 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·自然辩证法·科学哲学·一般科学哲学·归纳，2026-11-18 JWT 直连凭证） | 2026-11-19 |
@@ -4312,8 +4320,11 @@
 | legal facts | — | 法律事实 | 语料回收（specs/058 全库提取） | 审定名词库（termonline-all，凭证 2026-11-23） | 2026-11-23 |
 | legal fiction | — | 法律拟制 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | legal interpretation | — | 法律解释 | 语料回收（specs/058 全库提取） | 审定名词库（termonline-all，凭证 2026-11-23） | 2026-11-23 |
+| legal obligation | — | 法律义务 | 语料回收（生命伦理／法哲学／教育哲学族扫描 2026-11-25） | 法哲学通行（与 legal validity 法律效力分列；语料 7 次）；凭证 2026-11-25 | 2026-11-25 |
 | legal phenomena | — | 法律现象 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | legal positivism | — | 法律实证主义 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
+| legal realism | — | 法律现实主义 | 语料回收（生命伦理／法哲学／教育哲学族扫描 2026-11-25） | 法哲学通行（语料 4 次）；凭证 2026-11-25 | 2026-11-25 |
+| legal reasoning | — | 法律推理 | 语料回收（生命伦理／法哲学／教育哲学族扫描 2026-11-25） | 法哲学通行（语料 13 次）；凭证 2026-11-25 | 2026-11-25 |
 | legal rights | — | 法定权利 | 语料回收（specs/058 全库提取） | 学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22） | 2026-11-22 |
 | legal systems | — | 法律体系 | 语料回收（specs/058 全库提取） | 学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22） | 2026-11-22 |
 | legal theory | — | 法律理论 | 语料回收（zh 频次审计 2026-11-25） | 法哲学通行（审定库无对口命中，2026-11-25）；凭证 2026-11-25 | 2026-11-25 |
@@ -5933,14 +5944,17 @@
 | Philosophy and Logical Syntax | — | 《哲学与逻辑句法》 | 首译（stebbing） | 卡尔纳普著作（1935）；书名体例译；凭证 2026-11-09 | 2026-11-09 |
 | Philosophy and the Mirror of Nature | — | 《哲学和自然之镜》 | 语料回收（specs/058 全库提取） | 权威译本（商务印书馆“汉译世界学术名著丛书”1000 种书目（2024-09-24）·哲学第 228 号 载此书名；2026-11-24 查，凭证 works-batch10-2026-11-24.md）；罗蒂 | 2026-11-24 |
 | Philosophy and the Physicists | — | 《哲学与物理学家》 | 首译（stebbing） | 斯泰宾著作（1937）；书名体例译；凭证 2026-11-09 | 2026-11-09 |
+| philosophy for children | — | 儿童哲学 | 语料回收（生命伦理／法哲学／教育哲学族扫描 2026-11-25） | 教育哲学通行（李普曼谱系；语料 23 次）；凭证 2026-11-25 | 2026-11-25 |
 | philosophy of action | — | 行动哲学 | 语料回收（学科名审计 2026-11-25） | 学科通名（中文语料 18 次）；凭证 2026-11-25 | 2026-11-25 |
 | philosophy of biology | — | 生物学哲学 | 语料回收（学科名审计 2026-11-25） | 学科通名（中文语料 93 次）；凭证 2026-11-25 | 2026-11-25 |
+| philosophy of education | — | 教育哲学 | 语料回收（生命伦理／法哲学／教育哲学族扫描 2026-11-25） | 学科通名（语料 25 次）；凭证 2026-11-25 | 2026-11-25 |
 | philosophy of history | — | 历史哲学 | 语料回收（学科名审计 2026-11-25） | 学科通名（中文语料 40 次）；凭证 2026-11-25 | 2026-11-25 |
 | philosophy of language | — | 语言哲学 | 语料回收（学科名审计 2026-11-25） | 学科通名（中文语料 79 次）；凭证 2026-11-25 | 2026-11-25 |
 | philosophy of law | — | 法哲学 | 语料回收（学科名审计 2026-11-25） | 学科通名（中文语料 41 次，与 legal theory 法律理论分列；与 philosophy of right（黑格尔 Rechtsphilosophie 语境）同译形，按原文词分列）；凭证 2026-11-25 | 2026-11-25 |
 | philosophy of life | Lebensphilosophie | 生命哲学 | dilthey 首译 | 学界通行；凭证 2026-11-09 | 2026-11-09 |
 | philosophy of logic | — | 逻辑哲学 | 语料回收（学科名审计 2026-11-25） | 学科通名（中文语料 28 次；“哲学逻辑”语料仅 1 次且多见于 Journal of Philosophical Logic 刊名，不取）；凭证 2026-11-25 | 2026-11-25 |
 | philosophy of mathematics | — | 数学哲学 | 语料回收（学科名审计 2026-11-25） | 学科通名（中文语料 152 次）；凭证 2026-11-25 | 2026-11-25 |
+| philosophy of medicine | — | 医学哲学 | 语料回收（生命伦理／法哲学／教育哲学族扫描 2026-11-25） | 学科通名（语料 7 次）；凭证 2026-11-25 | 2026-11-25 |
 | philosophy of mind | — | 心灵哲学（亦作“心智哲学”） | 语料回收（学科名审计 2026-11-25） | 学科通名（中文语料 94 次，“心智哲学”2 次为异体）；凭证 2026-11-25 | 2026-11-25 |
 | Philosophy of New Music | — | 《新音乐的哲学》 | 语料回收（specs/058 全库提取） | 权威译本（商务印书馆“汉译世界学术名著丛书”1000 种书目（2024-09-24）·哲学第 312 号 载此书名；2026-11-24 查，凭证 works-batch10-2026-11-24.md）；阿多诺 | 2026-11-24 |
 | philosophy of physics | — | 物理学哲学 | 语料回收（学科名审计 2026-11-25） | 学科通名（中文语料 11 次）；凭证 2026-11-25 | 2026-11-25 |
@@ -6906,6 +6920,7 @@
 | research ethics | — | 研究伦理 | 语料回收（zh 频次审计 2026-11-25） | 应用伦理学通行（与 medical ethics 医学伦理学分列）；审定库无对口命中，2026-11-25；凭证 2026-11-25 | 2026-11-25 |
 | research participant | — | 研究参与者 | informed-consent | 学界惯例（与 subject 受试者并行的现行伦理用语） | 2026-11-12 |
 | research programme / research program | — | 研究纲领 | 语料回收（lakatos 首译） | 科学哲学界通行译法；凭证 2026-11-06；2026-11-23 主形碰撞裁定合并（同概念/同著作异形：research program） | 2026-11-06 |
+| research subject | — | 受试者（研究伦理） | 语料回收（生命伦理／法哲学／教育哲学族扫描 2026-11-25） | 研究伦理通行（语料 22 次）；凭证 2026-11-25 | 2026-11-25 |
 | research tradition | — | 研究传统 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·自然辩证法·科学哲学·一般科学哲学·科学哲学的社会·历史转向，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | resemblance nominalism | — | 相似唯名论 | nominalism-metaphysics | 分析形而上学通行 | 2026-11-10 |
 | resemblance theory | — | 相似论 | music | 学界通行（音乐表现力理论）；凭证 2026-11-09 | 2026-11-09 |
@@ -7407,6 +7422,7 @@
 | si duan / four beginnings | 四端 | 四端（four beginnings 四端） | zhu-xi 首译 | 学界通行（《孟子》四端；汉字回译）；凭证 2026-11-15；2026-11-23 合并同日重复登记形（同概念异拼写：four beginnings） | 2026-11-15 |
 | SIC | — | SIC（对称信息完备正算子值测度） | quantum-bayesian | Symmetric Informationally Complete POVM 缩写；学界保留 SIC；凭证 2026-11-12 | 2026-11-12 |
 | sickle-cell anemia | — | 镰状细胞贫血 | genetics | 医学通行译名；凭证 2026-11-11（主会话直译 g/genetics） | 2026-11-11 |
+| sickness | — | 患病 | 语料回收（生命伦理／法哲学／教育哲学族扫描 2026-11-25） | 医学哲学通行（与 disease 疾病、illness 病痛三分；语料 15 次）；凭证 2026-11-25 | 2026-11-25 |
 | Siddham / shittan | 悉曇 | 悉昙 | kukai | 佛学界传统译名（梵字悉昙书体）；审定名词库（termonline-all·语言学名词 09.114，2011）作“悉昙”，与本行一致（2026-11-24 JWT 直连，凭证 termonline-b11-2026-11-24.tsv） | 2026-11-09 |
 | siddhānta | सिद्धान्त | 宗义 | 语料回收（specs/050 候选池） | 条目语境研判（印度哲学通行宗义（藏文 grub mtha' 宗义书传统；定说义）；审定“悉檀多历算书”为天文学史义）；审定名词库（termonline-all·天文学·天文学史，2026-11-18 JWT 直连凭证，审定作“悉檀多历算书”）；原文列取证：wisdomlib（Monier-Williams／佛学辞典聚合）条目页显式配对 https://www.wisdomlib.org/definition/siddhanta（2026-11-20 查） | 2026-11-20 |
 | siddhānta-lakṣaṇa | सिद्धान्तलक्षण | 宗义相 | early-modern-india | 新正理通行义译（Gaṅgeśa 遍充终极定义）；凭证 2026-11-10 | 2026-11-10 |
@@ -7756,6 +7772,7 @@
 | stem cell | — | 干细胞 | cancer | 学界通行；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
 | stem cell bank | — | 干细胞库 | 首译（stem-cells） | 学界惯例（生命伦理学通行）；凭证 2026-11-09 | 2026-11-09 |
 | stem cell line | — | 干细胞系 | 首译（stem-cells） | 学界惯例（干细胞生物学通行）；凭证 2026-11-09 | 2026-11-09 |
+| stem cell research | — | 干细胞研究 | 语料回收（生命伦理／法哲学／教育哲学族扫描 2026-11-25） | 生命伦理学通行（语料 9 次）；凭证 2026-11-25 | 2026-11-25 |
 | stemness | — | 干性 | cancer | 学界通行（干细胞生物学）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
 | Sterblichkeitsgefühl | Sterblichkeitsgefühl | 有死感 | yorck 首译 | B 档：词面直译（作者英译 the feeling of one's own mortality；有死性为通行哲学术语）；凭证 2026-11-11 | 2026-11-11 |
 | stereoscope | — | 立体镜 | 语料回收（molyneux-problem 首译） | 学界通行译法（惠斯通 1838 发明）；凭证 2026-11-06 | 2026-11-06 |
