@@ -35,3 +35,25 @@
   无命中 → none。国别映射走德→中表（54 国在册），映射外（城市名等）进 review 人工。
   auto 档产 `gnd-auto-ledger-2026-11-26.tsv`（apply_person_meta 凭证格式），**写册前仍须
   人工过目**——GND 会错例防线只挡机器，不替代判定。
+
+## 实测结论（2026-11-26 晚，172 名先头批）
+
+GND（lobid）按「姓, 名」检索的**同名率极高**，自动档实测 **0/172**。三个判例：
+
+| 键 | GND 首条命中 | 问题 |
+| ---- | ---- | ---- |
+| Blake, Michael | Schriftsteller 1945–2015 | 同名作家，非政治哲学家 |
+| Collins, John | Musiker/Songwriter 1944 | 同名音乐人 |
+| Crupi, Vincenzo | Literaturwissenschaftler 1952 | 同名文学研究者 |
+| Baumgartner, Michael | 1996– | 生年过晚（R3 防线拦下） |
+
+判定线上过的防线：R1（无逗号键＋生年>1850）、R2（floruit≥2020）、R3（生年≥1980，
+SEP 作者群极少年份，疑同名）、同名多候选（size=3 命中里 2 条以上即判歧义）。
+即使加上「唯一候选＋学界职业＋有年份」三重，前 172 名仍无一条落 auto。
+
+Wikidata 侧同时复测：`wbsearchentities` 直接 429（unthrottling 需联系 WMF），
+与既有「0.6 次/秒即 429」记录一致。
+
+**结论**：人名元数据**不做批量自动回填**，两档方案维持——GND 只产**候选 dossier**
+（`gnd-candidates-2026-11-26.tsv`，含生卒、职业、出生地，供人工消歧），A 档仍走人工判定；
+B 档查无留空。auto-ledger 现有 0 行，保留生成器以备将来唯一命中时使用。
