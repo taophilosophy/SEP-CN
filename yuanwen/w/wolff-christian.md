@@ -259,6 +259,8 @@ Wolff's philosophy proved enormously influential, both within Germany and outsid
 
 ### Wolff’s Principal Works
 
+For a complete listing of Wolff’s works, see Theis & Aichele (2018: 20–27). Editions of all of Wolff’s works have been reprinted in the series:
+
 In the case of the *German Logic* and *German Metaphysics*, both of which saw numerous editions and significant changes throughout Wolff’s lifetime, references in this entry are to the later, reprinted editions.
 
 In the above entry, all translations are by the authors unless otherwise indicated.
@@ -301,8 +303,6 @@ aesthetics: German, in the 18th century | Châtelet, Émilie du | German Philoso
 [^note-4]: Other commentators who mention the interactive quality of Wolff’s atomic elements include: Beck (1969: 271)[^beck-1969]; Johann Erdmann, (1866 [1890: 224–226]); and Burns (1966: 99)[^burns-1966].
 
 [^note-5]: Here, and throughout this section, passages from Wolff’s *Cosmologia* generalis are taken from Burns 1966.
-
-[^for-2018]: For a complete listing of Wolff’s works, see Theis & Aichele (2018: 20–27). Editions of all of Wolff’s works have been reprinted in the series:
 
 [^christian-1962]: *Christian Wolff: Gesammelte Werke*, 1962–, edited by Jean École, Hans Werner Arndt, Charles Anthony Corr, Joseph Ehrenfried Hofmann, M. Thoman, Hildesheim: Olms.
 

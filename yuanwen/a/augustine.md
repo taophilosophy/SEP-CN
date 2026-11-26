@@ -151,6 +151,8 @@ The most famous works of Augustine, *Confessiones* and *De civitate dei*, have o
 
 #### English
 
+English translations of Augustine’s works down to 1999 are listed in Fitzgerald (ed.) 1999, xxxv–xlii. A nearly complete modern translation is:
+
 Two older series of Patristic writers in translation include selected works of Augustine:
 
 #### French
@@ -158,6 +160,8 @@ Two older series of Patristic writers in translation include selected works of A
 The last complete translations of Augustine into French date from the nineteenth century. The—still incomplete—standard translation series is:
 
 #### German
+
+No complete translation of Augustine’s work into German exists. Useful older translations are available in the series *Bibliothek der Kirchenväter* (*BKV*; 1ˢᵗ series: 8 vols., München: Kösel 1871–1879; 2ⁿᵈ series: 12 vols., München: Kösel 1911–1936; [available online](https://bkv.unifr.ch/de/works?authorName=Augustinus)). An annotated bilingual edition of Augustine’s *Opera omnia* was begun in 2002:
 
 A bilingual edition of the anti-Pelagian treatises with full annotation is:
 
@@ -214,8 +218,6 @@ Christian theology, philosophy and | divine: illumination | emotion: in the Chri
 
 [^fuhrer-2018a]: A complete work list is also found in Fuhrer 2018a: 1680–1687.
 
-[^english-1999]: English translations of Augustine’s works down to 1999 are listed in Fitzgerald (ed.) 1999, xxxv–xlii. A nearly complete modern translation is:
-
 [^wsa-1991]: [*WSA*] *The Works of Saint Augustine. A Translation for the 21st Century*, 46 vols., John E. Rotelle et al. (eds.), New York: New City Press, 1991–2019. Reliable and modern, but almost without annotation.
 
 [^fc-nd]: [*FC*] *The Fathers of the Church*, Ludwig Schopp et al. (eds.), New York: Cima Publishing, 1947ff.
@@ -231,8 +233,6 @@ Christian theology, philosophy and | divine: illumination | emotion: in the Chri
 [^de-1972]: *De Genesi ad litteram* (*BA* 48–49, edited by Paul Agaësse and Aimé Solignac, 1972) and
 
 [^letters-2011]: *Letters* 1–30 (*BA* 40/A, edited by Serge Lancel, Emmanuel Bermon et al., 2011).
-
-[^no-1871]: No complete translation of Augustine’s work into German exists. Useful older translations are available in the series *Bibliothek der Kirchenväter* (*BKV*; 1ˢᵗ series: 8 vols., München: Kösel 1871–1879; 2ⁿᵈ series: 12 vols., München: Kösel 1911–1936; [available online](https://bkv.unifr.ch/de/works?authorName=Augustinus)). An annotated bilingual edition of Augustine’s *Opera omnia* was begun in 2002:
 
 [^aow-nd]: [*AOW*] *Augustinus: Opera—Werke*, Wilhelm Geerlings, Johannes Brachtendorf, and Volker Henning Drecoll (eds.), Paderborn: Schöningh, 2002ff. 82 volumes planned, 14 completed.
 

@@ -61,6 +61,8 @@ Most likely in 1311, Giles wrote a treatise, *Contra Exemptos*, attacking the Te
 
 ### Primary Sources
 
+The most complete list of Giles’ works can be found in Del Punta–Donati–Luna 1993 together with the most reliable attempt at dating them (see also Donati 1990b as far as commentaries on Aristotle are concerned)[^donati-1990b]. The same article by Del Punta, Donati and Luna also contains the best available bibliography, which can be complemented with Lezcano 1995, 32–50 and Lanza 2003.It is impossible to reproduce all that information in the present entry. Standard older editions were reprinted in Frankfurt 1967–1970. Among the texts edited in our century I would mention the following:
+
 ### Secondary Literature
 
 ## Academic Tools
@@ -81,8 +83,6 @@ Most likely in 1311, Giles wrote a treatise, *Contra Exemptos*, attacking the Te
 ## Related Entries
 
 Aquinas, Thomas | condemnation of 1277 | demonstration: medieval theories of | Godfrey of Fontaines | Henry of Ghent
-
-[^giles’-1993]: The most complete list of Giles’ works can be found in Del Punta–Donati–Luna 1993 together with the most reliable attempt at dating them (see also Donati 1990b as far as commentaries on Aristotle are concerned). The same article by Del Punta, Donati and Luna also contains the best available bibliography, which can be complemented with Lezcano 1995, 32–50 and Lanza 2003.It is impossible to reproduce all that information in the present entry. Standard older editions were reprinted in Frankfurt 1967–1970. Among the texts edited in our century I would mention the following:
 
 [^de-1929]: *De ecclesiastica potestate*, R. Scholz (ed.), Weimar 1929 (New critical edition and revised English translation in R. W. Dyson, *Giles of Rome’s On Ecclesiastical Power. A Medieval Theory of World Government*, New York 2004).
 

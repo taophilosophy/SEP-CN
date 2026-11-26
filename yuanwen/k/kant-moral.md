@@ -265,6 +265,8 @@ The unfinished nature of Kant’s moral system along with our responsibility to 
 
 ### Primary Sources
 
+Kant’s original German and Latin writings can be found in Königlichen Preußischen Akademie der Wissenschaften (ed.), 1900–, Kants gesammelte Schriften, Berlin: Walter De Gruyter. Most translations include volume and page numbers to this standard Academy edition. Citations in this article do so as well. There are many English translations of Kant’s primary ethical writings. The recent Cambridge Edition of the Works of Immanuel Kant provides critical translations of Kant’s published works as well as selections from his correspondence and lectures. The following volumes of that series are especially relevant to his moral theory:
+
 ### Recent Commentaries on Kant’s Ethical Writings
 
 There have been several comprehensive commentaries on the *Groundwork* that have been published recently, some of which also include new English translations.
@@ -293,8 +295,6 @@ Commentaries on the *Critique of Practical Reason* :
 ## Related Entries
 
 autonomy: personal | character, moral | consequentialism | consequentialism: rule | constructivism: in metaethics | ethics: deontological | ethics: virtue | Kant, Immanuel | Kant, Immanuel: account of reason | Kant, Immanuel: aesthetics and teleology | Kant, Immanuel: and Hume on morality | Kant, Immanuel: philosophical development | Kant, Immanuel: philosophy of religion | Kant, Immanuel: social and political philosophy | Kant, Immanuel: transcendental idealism | morality, definition of | practical reason | respect | rights
-
-[^kant’s-1900]: Kant’s original German and Latin writings can be found in Königlichen Preußischen Akademie der Wissenschaften (ed.), 1900–, Kants gesammelte Schriften, Berlin: Walter De Gruyter. Most translations include volume and page numbers to this standard Academy edition. Citations in this article do so as well. There are many English translations of Kant’s primary ethical writings. The recent Cambridge Edition of the Works of Immanuel Kant provides critical translations of Kant’s published works as well as selections from his correspondence and lectures. The following volumes of that series are especially relevant to his moral theory:
 
 [^practical-1996]: *Practical Philosophy*, translated by Mary Gregor, 1996. Includes: “An Answer to the Question: What is Enlightenment?,” *Groundwork of the Metaphysics of Morals*, *Critique of Practical Reason*, and *The Metaphysics of Morals*.
 

@@ -275,6 +275,8 @@ In the past three decades there has been a renewed interest in Bosanquet’s wor
 
 ### Primary Literature: Works by Bosanquet
 
+The 20 volume *Collected Works of Bernard Bosanquet* (edited by William Sweet) appeared in 1999 from Thoemmes Press (Bristol, U.K.). In addition to reprints of the standard editions of Bosanquet’s principal works, the *Collected Works* contains two volumes of previously uncollected essays, with notes and Introductions. The *Collected Works* includes the following texts:
+
 Two recent editions of Bosanquet’s work are:
 
 Several of Bosanquet’s undergraduate essays appear in:
@@ -298,8 +300,6 @@ Several of Bosanquet’s undergraduate essays appear in:
 Bradley, Francis Herbert | Croce, Benedetto | Green, Thomas Hill | idealism | idealism: British | liberalism
 
 [^bosanquet’s-1883]: The most comprehensive list to date of Bosanquet’s work is found in Vol. 1 of *Essays in Philosophy and Social Policy, 1883–1922*, (ed. William Sweet), Bristol, UK: Thoemmes Press, 2003, pp. xxxix–lxv.
-
-[^collected-1999]: The 20 volume *Collected Works of Bernard Bosanquet* (edited by William Sweet) appeared in 1999 from Thoemmes Press (Bristol, U.K.). In addition to reprints of the standard editions of Bosanquet’s principal works, the *Collected Works* contains two volumes of previously uncollected essays, with notes and Introductions. The *Collected Works* includes the following texts:
 
 [^knowledge-1885]: *Knowledge and Reality, A Criticism of Mr. F. H. Bradley’s ‘Principles of Logic’*, London: Kegan Paul, Trench, 1885.
 

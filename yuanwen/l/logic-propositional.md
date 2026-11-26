@@ -632,6 +632,8 @@ Most textbooks treat propositional logic as an elementary step *en route* to qua
 
 Another sensitive treatment of propositional logic with attention to non-classical interpretations is:
 
+Among standard textbook treatments, standout presentations of propositional logic can be found in Quine 1982 and in:
+
 An excellent presentation of the rapid historical development of the subject in the early twentieth century is:
 
 ## Academic Tools
@@ -749,8 +751,6 @@ Boolean algebra: the mathematics of | computational complexity theory | conditio
 [^schechter-2005]: Schechter, Eric, 2005, *Classical and Nonclassical Logics: An Introduction to the Mathematics of Propositions*, N.J: Princeton University Press.
 
 [^gamut-1990]: Gamut, L. T. F., 1990, *Logic, Language, and Meaning, Volume 1: Introduction to Logic*, Chicago, IL: University of Chicago Press. Translation of *Logica, taal en betekenis I: inleiding in de logica*, Utrecht: Het Spectrum, 1982. (L. T. F. Gamut is a collective name for Johan van Benthem, J. A. G. Groenendijk, D. H. J. de Jongh, M. J. B. Stokhof, and H. J. Verkuyl.)
-
-[^among-1982]: Among standard textbook treatments, standout presentations of propositional logic can be found in Quine 1982 and in:
 
 [^buss-1998]: Buss, Samuel R., 1998, “An Introduction to Proof Theory”, in *Handbook of Proof Theory*, Samuel R. Buss (ed.), (Studies in Logic and the Foundations of Mathematics 137), Amsterdam: Elsevier, 1–78. doi:10.1016/S0049-237X(98)80016-5
 

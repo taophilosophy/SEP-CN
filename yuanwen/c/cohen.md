@@ -189,6 +189,12 @@ But philosophers far beyond the Marburg School were influenced by Cohen’s insi
 
 A small number of Cohen’s writings are avilable in English. They can be found in:
 
+1971, *Reason and Hope: Selections from the Jewish Writings of Hermann Cohen*, trans. Eva Jospe, New York: Norton and Norton. This volume contains selections from Cohen’s posthumously published *Jüdische Schriften* (1924), including:
+
+2015, *The Neo-Kantian Reader*, ed. Sebastian Luft, Oxford: Routledge. This volume contains:
+
+2021, *Hermann Cohen: Writings on Neo-Kantianism and Jewish Philosophy*, eds. Samuel Moyn & Robert S. Schine. This volume contains:
+
 ### Selected Secondary Literature and Other Works Cited
 
 ## Academic Tools
@@ -243,8 +249,6 @@ Buber, Martin | Cassirer, Ernst | Helmholtz, Hermann von | Kant, Immanuel | Kant
 
 [^cohen-1971]: 1971 (1908), “Charakteristik der Ethik Maimunis,” in W. Bacher, M. Brann, D. Simonsen, and J. Guttman (eds.), *Moses ben Maimon: Sein Leben, seine Werke, und seine Einfluss*, Hildesheim: Georg Olms.
 
-[^cohen-1971-2]: 1971, *Reason and Hope: Selections from the Jewish Writings of Hermann Cohen*, trans. Eva Jospe, New York: Norton and Norton. This volume contains selections from Cohen’s posthumously published *Jüdische Schriften* (1924), including:
-
 [^uniqueness-nd]: “Uniqueness Rather Than Unity of God”
 
 [^style-nd]: “The Style of the Prophets”
@@ -267,15 +271,11 @@ Buber, Martin | Cassirer, Ernst | Helmholtz, Hermann von | Kant, Immanuel | Kant
 
 [^cohen-2004]: 2004, *Ethics of Maimonides*, trans. A. Sh. Bruckstein, Madison, WI: University of Wisconsin Press.
 
-[^cohen-2015]: 2015, *The Neo-Kantian Reader*, ed. Sebastian Luft, Oxford: Routledge. This volume contains:
-
 [^cohen’s-1883]: A short exerpt from Cohen’s *Principle of the Infinitesimal Method and its History* (1883)
 
 [^synthetic-1885]: “The Synthetic Principles,” excerpted from the second edition of *Kant’s Theory of Experience* (1885)
 
 [^an-1914]: An exerpt from Cohen’s introduction to Lange’s *History of Materialism* (1914).
-
-[^cohen-2021]: 2021, *Hermann Cohen: Writings on Neo-Kantianism and Jewish Philosophy*, eds. Samuel Moyn & Robert S. Schine. This volume contains:
 
 [^introduction-1907]: “Introduction” and “The Idea of God” excerpted from second edition of *The Ethics of Pure Will* (1907)
 

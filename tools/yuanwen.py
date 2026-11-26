@@ -1103,12 +1103,16 @@ def render_blocks(blocks, ctx, bib_container=False):
                 # 时整段消失（h0_extra 骨干，33 件）。
                 # 无四位年份＝不可能是可引用条目 → 直接落段（文字照录）；
                 # 含年份者维持定义流（可能被正文引用，键语义照旧）。
-                # 注：曾试「以冒号收尾的引导句一律落段」（specs/053 第五十批修 B），
-                # 键名确实更干净（`among-1982` 伪键消失），但 B3.2 从 gap 1 恶化到
-                # gap 22——装配层按账 `bib_seq` 定位书目单元，引导句的段落身份
-                # 不在账里，落段即与 H0 的「导语→列表」次序脱钩（clauberg 判例）。
-                # 该族唯一出口是账/装配同改（书目区 `<p>` 入账），见第五十一批。
-                if re.search(r'\b(1[6-9]\d\d|20\d\d)\b', text):
+                # 引导句例外（specs/053 第五十一批，logic-propositional 判例）：
+                # 以冒号收尾的散文段是「… 列举如下：」式导语，全库 24 件 31 段，
+                # 后面必跟 ul/ol/table；含年份（多为句中引用如 “Quine 1982”）时
+                # 旧规则把它建成伪条目（键 `among-1982`），页面文字随之错位。
+                # 落段后必须同步刷账（`article_ledger.py --slugs`）——账的 bib_seq
+                # 在 `pd`（定义项）与 `p`（散文段）之间切换，账不刷则装配错位
+                # （第五十批修 B 首轮 22 件 gap 即此因）。
+                if text.rstrip().endswith((':', '：')):
+                    ctx.emit('', _escape_leading_hash(text))
+                elif re.search(r'\b(1[6-9]\d\d|20\d\d)\b', text):
                     ctx.bib_entries.append((text, ctx.bib_section))
                 else:
                     ctx.emit('', _escape_leading_hash(text))

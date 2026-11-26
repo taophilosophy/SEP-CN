@@ -83,6 +83,8 @@ The sixth book of the *In calumniatorem* has been recently edited and translated
 
 There also exists an Italian translation:
 
+Bessarion’s theological works have been printed in the *Patrologia Greca* 161 (Paris 1866). The *Oratio dogmatica de unione* has been re-edited several times since:
+
 Other works by Bessarion, including many of his letters, have been edited by Mohler in *Aus Bessarions Gelehrtenkreis: Abhandlungen, Reden, Briefe*.
 
 ### Secondary Literature
@@ -114,8 +116,6 @@ Aristotelianism: in the Renaissance | Byzantine Philosophy | Ficino, Marsilio | 
 [^la-2015]: *La natura delibera—La natura e l’arte*, Pier Davide Accendere and Ivanoe Privitera (eds.), Milan: Bompiani, 2015.
 
 [^giovanni-2021]: Giovanni Gatti’s *Notata*, which represents the basis for the third book of the *In calumniatorem*, has been published in a critical edition : Giovanni Gatti, *Notata ex libro ineptiis et deliramentis pleno, qui inscribitur De Comparatione Philosophorum*, John Monfasani (ed.), Turnhout: Brepols, 2021.
-
-[^bessarion’s-1866]: Bessarion’s theological works have been printed in the *Patrologia Greca* 161 (Paris 1866). The *Oratio dogmatica de unione* has been re-edited several times since:
 
 [^bessarion-1958]: *Bessarion Nicaenus, S.R.E. Cardinalis: Oratio dogmatica de unione*, Emmanuel Candal (ed.), Rome: Pontificium institutum orientalium studiorum, 1958;
 

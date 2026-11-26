@@ -128,6 +128,23 @@ class TestBlocks(unittest.TestCase):
         self.assertEqual([e[0] for e in ctx.bib_entries if 'Entry One' in e[0]],
                          ['Entry One 2001, Book.'])
 
+    def test_bib_lead_in_sentence_stays_paragraph(self):
+        # specs/053 第五十一批（logic-propositional 判例）：书目区内以冒号收尾的
+        # 引导句不是条目——含年份（Quine 1982）也不得建键 `among-1982`。
+        # 落段须与账同步刷新（`article_ledger.py --slugs`），否则 bib_seq 错位。
+        blocks = extract_blocks_raw(
+            '<h2>Bibliography</h2>'
+            '<h3>More Readings</h3>'
+            '<p>Among standard treatments, see Quine 1982 and in:</p>'
+            '<ul><li>Buss, Samuel R., 1998, Proof Theory.</li></ul>')
+        ctx = Ctx('t')
+        render_blocks(blocks, ctx)
+        text = '\n'.join(ctx.out)
+        self.assertIn('Among standard treatments', text)
+        self.assertEqual([e[0] for e in ctx.bib_entries if 'Among' in e[0]], [])
+        self.assertEqual([e[0] for e in ctx.bib_entries if 'Buss' in e[0]],
+                         ['Buss, Samuel R., 1998, Proof Theory.'])
+
 
 class TestCitations(unittest.TestCase):
     def test_acronym_krs(self):

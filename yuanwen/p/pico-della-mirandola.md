@@ -233,6 +233,8 @@ For the smaller *Commento*—a favorite today left unfinished by the author and 
 
 ### B. Bibliographies
 
+The bibliography of primary and secondary literature by Quaquarelli and Zanardi lists more than 700 studies after 1899 but only 160 for the preceding century, when even Italian scholars came late to the prince and not in large numbers:
+
 See the additions in:
 
 ### C. Secondary Literature
@@ -340,8 +342,6 @@ Agrippa von Nettesheim, Heinrich Cornelius | Delmedigo, Elijah | Ficino, Marsili
 [^manetti-2018]: Manetti, Giannozzo, c. 1450, *De dignitate et excellentia hominis*. Translated as *On Human Worth and Excellence* (I Tatti Renaissance Library 85), Brian Copenhaver (ed./trans.), Cambridge MA: Harvard University Press, 2018.
 
 [^biblia-nd]: *Biblia latina cum glossa ordinaria*, ed. M. Morard, based on the edition of Adolf Rusch and Antonio Koberger, Strasbourg, 1480.
-
-[^quaquarelli-1899]: The bibliography of primary and secondary literature by Quaquarelli and Zanardi lists more than 700 studies after 1899 but only 160 for the preceding century, when even Italian scholars came late to the prince and not in large numbers:
 
 [^quaquarelli-2005]: Quaquarelli, Leonardo and Zita Zanardi, 2005, *Pichiana: Bibliografia delle edizioni e degli studi* (Studi pichiani 10), Florence: Olschki.
 

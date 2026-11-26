@@ -68,6 +68,8 @@ We can set aside the difficulties that such a view raises with respect to morali
 
 ### Primary Sources
 
+Kelsen’s academic publications span over almost seven decades in which he published dozens of books and hundreds of articles. Only about a third of this vast literature has been translated to English. Kelsen’s two most important books on the pure theory of law are the first edition of his *Reine Rechtslehre*, published in 1934 and recently (2002) translated. The second edition, which Kelson published in 1960 (translated in 1967) is a considerably extended version of the first edition. In addition, most of the themes in these two books also appear in Kelsen’s *General Theory of Law and State*. These three works are cited in text as follows:
+
 | [PT1] | 1934/2002. *Introduction to the Problems of Legal Theory*, B.L. Paulson and S.L. Paulson (trans.), Oxford: Clarendon Press. |
 | --- | --- |
 | [PT2] | 1960/1967. *Pure Theory of Law*, M. Knight (trans.), Berkeley: University of California Press. |
@@ -94,8 +96,6 @@ Other relevant publications in English include:
 ## Related Entries
 
 ethics: natural law tradition | Hume, David: moral philosophy | nature of law | nature of law: legal positivism
-
-[^kelsen’s-1934]: Kelsen’s academic publications span over almost seven decades in which he published dozens of books and hundreds of articles. Only about a third of this vast literature has been translated to English. Kelsen’s two most important books on the pure theory of law are the first edition of his *Reine Rechtslehre*, published in 1934 and recently (2002) translated. The second edition, which Kelson published in 1960 (translated in 1967) is a considerably extended version of the first edition. In addition, most of the themes in these two books also appear in Kelsen’s *General Theory of Law and State*. These three works are cited in text as follows:
 
 [^lawphil-theory-1957]: 1957, *What is Justice?*, Berkeley: University of California Press.
 

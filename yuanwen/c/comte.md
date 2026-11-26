@@ -177,6 +177,8 @@ A sound assessment of Comte’s philosophy must also take into account the work 
 
 ### Primary Literature
 
+A standard edition of Comte’s works does not yet exist and some of the most important ones (the second part of the *Course of Positive Philosophy*, the whole *System of Positive Polity*) have been unavailable for many years (in the case of the *System*, for more than fifty years), until recently. See the Other Internet Resources section below. The most complete edition, which is an anastatic reprint of previously published volumes (essentially 1830–1842 and 1851–1854), is:
+
 A new edition has yet to appear. For the time being, only three volumes have been issued:
 
 On the other hand, English positivists (Harriet Martineau, Richard Congreve, John H. Bridges, Edward S. Bessly, Frederic Harrison) translated in the second half of the 19th century the most important works. So, after the original text, we give the reference to these English translations, even if they are not easily accessible.
@@ -243,8 +245,6 @@ Many thanks to Mark van Atten for the English translation, and to Béatrice Fink
 Of course, there may have been some flattery going on.
 
 [^note-5]: See, for example, H. Taine, in his *Le positivisme anglais, étude sur Stuart Mill* (1864). Note also that the distinction W. Dilthey drew between *Naturwissenschaft* and *Geisteswissenschaft* arose in a critical discussion of Mill’s theory of moral sciences (the last part of the *System of Logic*). Dilthey considers this, with some reason, a positivist conception. (See S. Mesure, *Dilthey et la fondation des sciences historiques*, Paris: PUF, 1990.) It might be surprising that Mill was considered a positivist on the continent. One may ask if this interpretation is correct, but that is a separate matter.
-
-[^comte’s-1830]: A standard edition of Comte’s works does not yet exist and some of the most important ones (the second part of the *Course of Positive Philosophy*, the whole *System of Positive Polity*) have been unavailable for many years (in the case of the *System*, for more than fifty years), until recently. See the Other Internet Resources section below. The most complete edition, which is an anastatic reprint of previously published volumes (essentially 1830–1842 and 1851–1854), is:
 
 [^auguste-1968]: Auguste Comte, *Œuvres*, Paris: Anthropos (11 vols.), 1968–1970.
 

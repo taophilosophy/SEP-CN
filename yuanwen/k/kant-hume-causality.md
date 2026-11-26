@@ -421,6 +421,8 @@ We can only have objective experience of particular events, for Kant, in so far 
 
 #### Kant
 
+Citations from Kant’s works, except for the *Critique of Pure Reason*, are by volume and page numbers of the Akademie edition of *Kant’s gesammelte Schriften* (Berlin, 1902—); the *Critique of Pure Reason* is cited by the standard A and B pagination of the first (1781) and second (1787) editions respectively. Although all translations from Kant’s writings are our own, we follow the reference to the Akademie edition (except in the case of the *Critique of Pure Reason*) with references to the translations in the now standard Cambridge Edition of the Works of Immanuel Kant, as follows:
+
 #### Hume
 
 #### Locke
@@ -634,8 +636,6 @@ In section 2 above we discussed in detail the relationship between the general c
 [^note-51]: If this is correct, there might be something importantly right about “Kant’s debt to Hume via Beattie” after all (compare notes 1 and 8 above, together with the paragraphs to which they are appended). Kant’s awareness of Hume’s discussion of the general causal principle in the *Treatise* (derived from reading Beattie after 1772) may have led him to the idea that this principle (together with the other principles of what will eventually become the three Analogies of Experience) could serve as a (synthetic) a priori realization of Hume’s principle of the uniformity of nature. Such a new awareness would not have represented Kant’s first acquaintance with “Hume’s problem” (which awoke him from his dogmatic slumber), but it may have been an important step towards Kant’s ultimate *solution* to the problem in the critical period.
 
 [^note-52]: Kant’s argument in the *Metaphysical Foundations of Natural Science* provides a specific realization or instantiation of this idea in the case of Newton’s theory of universal gravitation: Newtonian mathematical demonstrations, in the context of the Newtonian mathematical theory of space, time, and motion, can indeed lead to a more than merely inductive status for an especially important empirical causal law. Kant then supposes that the mathematical theory of space and time, as further determined via the Analogies of Experience, can (at least in principle) do something similar for lower-level empirical laws such as the sun warming the stone. The question of the relationship between lower-level empirical laws and the “pure natural science” discussed in the *Metaphysical Foundations* is especially difficult, however, and it involves us, eventually, with the new questions about the relationship between empirical laws and the transcendental principles of the understanding raised in the *Critique of Judgment*: for further discussion see Friedman 1992a, 1992b, 2013.
-
-[^citations-1902]: Citations from Kant’s works, except for the *Critique of Pure Reason*, are by volume and page numbers of the Akademie edition of *Kant’s gesammelte Schriften* (Berlin, 1902—); the *Critique of Pure Reason* is cited by the standard A and B pagination of the first (1781) and second (1787) editions respectively. Although all translations from Kant’s writings are our own, we follow the reference to the Akademie edition (except in the case of the *Critique of Pure Reason*) with references to the translations in the now standard Cambridge Edition of the Works of Immanuel Kant, as follows:
 
 [^critique-1997]: *Critique of Pure Reason*, translated and edited by Paul Guyer and Allen W. Wood (Cambridge: Cambridge University Press, 1997).
 

@@ -91,6 +91,8 @@ In the body of Gianfrancesco’s theoretical writings, witchcraft played a cruci
 
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
+For a complete list and description of Gianfrancesco Pico’s works, including his poems and the early modern printed editions of his texts, see Schmitt 1967: 191–229. His main works are listed below:
+
 The complete works of Gianfrancesco Pico, including his correspondence, have been published in:
 
 ### Modern editions and translations of Gianfrancesco Pico’s works
@@ -115,8 +117,6 @@ The complete works of Gianfrancesco Pico, including his correspondence, have bee
 ## Related Entries
 
 Ficino, Marsilio | Pico della Mirandola, Giovanni | Sextus Empiricus | skepticism: medieval
-
-[^for-1967]: For a complete list and description of Gianfrancesco Pico’s works, including his poems and the early modern printed editions of his texts, see Schmitt 1967: 191–229. His main works are listed below:
 
 [^vita-nd]: 1496, *Vita Ioannis Pici*, in Giovanni Pico della Mirandola, *Opera*, Bologna: Benedetto Faelli
 

@@ -286,11 +286,15 @@ The jurisdiction that temporal rulers have is remarkably restrained. Ockham sugg
 
 #### In English
 
+A fair number of Ockham’s writings are available in English, in whole or in part. For a list of translations to 1999, see Spade (1999b: 5–11)[^spade-1999b]. The following major items deserve particular mention:
+
 ### Secondary Literature
 
 The following list includes all works cited in this article, plus several other noteworthy items:
 
 ### Other Bibliographies
+
+Ample bibliographies of the secondary literature up to 1990 may be found in:
 
 ## Academic Tools
 
@@ -499,8 +503,6 @@ For the update to this entry published in the summer of 2011, Claude Panaccio be
 
 [^part-2019]: *Part 3, Tract 2*, Semih Heinen and Karl Ubl (eds.), 2019.
 
-[^ockham’s-1999]: A fair number of Ockham’s writings are available in English, in whole or in part. For a list of translations to 1999, see Spade (1999b: 5–11). The following major items deserve particular mention:
-
 [^adams-1983]: Adams, Marilyn McCord, and Norman Kretzmann (trans.), 1983, *William of Ockham: Predestination, God’s Foreknowledge, and Future Contingents*, second edition, Indianapolis: Hackett. (Includes Ockham’s *Treatise on Predestination and God’s Foreknowledge with Respect to Future Contingents*, with introduction and commentary, and translations of related passages from other works of Ockham.)
 
 [^birch-1930]: Birch, T. Bruce (ed./trans.), 1930, *The De sacramento altaris of William of Ockham*, Burlington, Iowa: Lutheran Literary Board. (Translation of Ockham’s *Treatise on Quantity* and *On the Body of Christ*. Despite Birch’s title, these two are *not* parts of a larger single work *De sacramento altaris*.)
@@ -666,8 +668,6 @@ For the update to this entry published in the summer of 2011, Claude Panaccio be
 [^tweedale-1992]: Tweedale, Martin M., 1992, “Ockham’s Supposed Elimination of Connotative Terms and His Ontological Parsimony”, *Dialogue*, 31(3): 431–444. doi:10.1017/S0012217300012075
 
 [^wood-1999]: Wood, Rega, 1999, “Ockham’s Repudiation of Pelagianism”, in Spade 1999a: 350–374 (ch. 15). doi:10.1017/CCOL052158244X.016
-
-[^ample-1990]: Ample bibliographies of the secondary literature up to 1990 may be found in:
 
 [^beckmann-1992]: Beckmann, Jan P., 1992, *Ockham—Bibliographie: 1900–1990*, Hamburg: Felix Meiner.
 

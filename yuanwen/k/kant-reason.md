@@ -349,6 +349,8 @@ This account depends on a particular interpretation of Kant’s texts. It is abs
 
 ### Primary sources
 
+Kant’s works are cited by volume and page numbers of the *Akademie* edition of *Kants gesammelte Schriften* (Berlin, 1902–). The only exception is the *Critique of Pure Reason*, cited by the standard A and B pagination of the first (1781) and second (1787) editions respectively. The *Groundwork* is printed in *Akademie* volume 4 and the *Critique of Practical Reason* in volume 5; unless otherwise noted, references beginning with “4:” are to the *Groundwork* and those beginning with “5:” to the second *Critique*. The *Akademie* pagination is found in the margins of all modern translations. Apart from the 2011 edition of the *Groundwork*, translations are from the standard Cambridge Edition of the Works of Immanuel Kant:
+
 ### Secondary literature
 
 ## Academic Tools
@@ -447,8 +449,6 @@ For comments on this entry over the years, my thanks to Carla Bagnoli, Graham Bi
 [^note-35]: Hieronymi 2021 offers an insightful account of reasoning that ties it closely to rational agency. Her account responds to other contemporary accounts that frame reasons simply (?) as considerations that “count in favor” of an action or conclusion.
 
 [^note-36]: Schadow 2022 emphasizes the role of the “practical syllogism” in Kant’s idea of maxims and his philosophy of action. A maxim represents a general policy—the “major premise” of practical reasoning. Specific circumstances supply the “minor premise.” An action should be understood as a logical (“syllogistic”) inference from these premises. If there are contradictions between these, then the syllogism is invalid—or more bluntly, we have reasoned badly.
-
-[^kant’s-1902]: Kant’s works are cited by volume and page numbers of the *Akademie* edition of *Kants gesammelte Schriften* (Berlin, 1902–). The only exception is the *Critique of Pure Reason*, cited by the standard A and B pagination of the first (1781) and second (1787) editions respectively. The *Groundwork* is printed in *Akademie* volume 4 and the *Critique of Practical Reason* in volume 5; unless otherwise noted, references beginning with “4:” are to the *Groundwork* and those beginning with “5:” to the second *Critique*. The *Akademie* pagination is found in the margins of all modern translations. Apart from the 2011 edition of the *Groundwork*, translations are from the standard Cambridge Edition of the Works of Immanuel Kant:
 
 [^critique-1997]: *Critique of Pure Reason*, translated/edited by P. Guyer & A. Wood, Cambridge: Cambridge University Press, 1997.
 

@@ -167,6 +167,8 @@ Burke’s thought is philosophical in at least two senses. One is that it is con
 
 #### Burke’s Writings
 
+There is no complete edition of Burke’s works: their quantity, the character of some of his manuscript materials and the manner in which many of his parliamentary speeches are preserved all make it very likely that this situation will continue. Neither have the editorial problems implied in his writings and speeches been overcome in the selections that have been published. For the present, there is, in nine, large substantive volumes,: *Writings and Speeches of Edmund Burke*, P. Langford (general editor), Oxford: Clarendon Press, 1981–2015. This, though not without further problems peculiar to itself, does at least provide a standard system reference for most of the items quoted here, and is cited above as **W & S**, and individual works are cited as follows:
+
 > | [**ATX**] | American Taxation. |
 > | --- | --- |
 > | [**CWA**] | Conciliation with America. |
@@ -229,8 +231,6 @@ Berkeley, George | conservatism | ethics: natural law tradition | ideas | Locke,
 [^note-9]: Second Earl of Buckinghamshire, memorandum on commencement of the American Rebellion, Historical Manuscripts Commission, 1905: p. 291.
 
 [^note-10]: Speech of 18 April 1794, reported in *The Sun*, 19 April 1794.
-
-[^there-1981]: There is no complete edition of Burke’s works: their quantity, the character of some of his manuscript materials and the manner in which many of his parliamentary speeches are preserved all make it very likely that this situation will continue. Neither have the editorial problems implied in his writings and speeches been overcome in the selections that have been published. For the present, there is, in nine, large substantive volumes,: *Writings and Speeches of Edmund Burke*, P. Langford (general editor), Oxford: Clarendon Press, 1981–2015. This, though not without further problems peculiar to itself, does at least provide a standard system reference for most of the items quoted here, and is cited above as **W & S**, and individual works are cited as follows:
 
 [^burke-1757]: [Burke, William, and Edmund Burke], 1757, *An Account of the European Settlements*, London (and later editions).
 

@@ -388,6 +388,8 @@ except for references to the *Critique of Pure Reason*, which is cited by page n
 
 #### A. Pre-critical writings
 
+The following texts are central to Kant’s pre-critical views on religion. They are found in *Theoretical Philosophy 1755–1770* (TPpre):
+
 See also:
 
 #### B. Critical writings
@@ -438,8 +440,6 @@ The co-authors jointly authored Section 1 (“Overview”). Fugate wrote most of
 [^rrt-1996]: [RRT] *Religion and Rational Theology*, Allen W. Wood and George di Giovanni (eds. & trans.), Cambridge: Cambridge University Press, 1996. doi:10.1017/CBO9780511814433
 
 [^pp-1996]: [PP] *Immanuel Kant: Practical Philosophy*, Mary J. Gregor (ed.), Cambridge: Cambridge University Press, 1996. doi:10.1017/CBO9780511813306
-
-[^kant’s-1755]: The following texts are central to Kant’s pre-critical views on religion. They are found in *Theoretical Philosophy 1755–1770* (TPpre):
 
 [^kant-religion-1755a]: 1755a, *A New Elucidation of the First Principles of Metaphysical Cognition*, TPpre: 1–45. [AK 1:385–416]
 

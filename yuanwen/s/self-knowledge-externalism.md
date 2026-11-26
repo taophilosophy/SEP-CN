@@ -371,6 +371,8 @@ The debate on whether EXT is compatible with SK thus deserves our continued, ser
 
 ### Collections
 
+Many works cited and further readings are found in the anthologies above: Boghossian & Peacocke (eds.) 2000, Coliva (ed.) 2012a, Coliva (ed.) 2012b, Frapolli (ed.) 2003, Gertler (ed.) 2003, Goldberg (ed.) 2007, Goldberg (ed.) 2015a, Hatzimoysis (ed.) 2011, Ludlow & Martin (eds.) 1998, Marvan (ed.) 2006, Nuccetelli (ed.) 2003, Schantz (ed.) 2004, Smithies & Stoljar (eds.) 2012, Villanueva (ed.) 1992, 1998, and Wright, et al. (eds.) 1998. Other relevant collections include:
+
 ## Academic Tools
 
 > |   | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=self-knowledge-externalism). |
@@ -1013,8 +1015,6 @@ But again, the closure of warrant does not imply that the deduction *created* th
 [^zimmerman-2006]: Zimmerman, A., 2006, “Basic Self-Knowledge: Answering Peacocke’s Criticisms of Constitutivism,” *Philosophical Studies*, 128: 337–379.
 
 [^zimmerman-2008]: –––, 2008, “Self-Knowledge: Rationalism vs. Empiricism,” *Philosophy Compass*, 3(2): 325–352.
-
-[^many-2000]: Many works cited and further readings are found in the anthologies above: Boghossian & Peacocke (eds.) 2000, Coliva (ed.) 2012a, Coliva (ed.) 2012b, Frapolli (ed.) 2003, Gertler (ed.) 2003, Goldberg (ed.) 2007, Goldberg (ed.) 2015a, Hatzimoysis (ed.) 2011, Ludlow & Martin (eds.) 1998, Marvan (ed.) 2006, Nuccetelli (ed.) 2003, Schantz (ed.) 2004, Smithies & Stoljar (eds.) 2012, Villanueva (ed.) 1992, 1998, and Wright, et al. (eds.) 1998. Other relevant collections include:
 
 [^barber-2003]: Barber, A. (ed.), 2003, *Epistemology of Language*, New York: Oxford University Press.
 

@@ -470,6 +470,8 @@ Dewey thought his call for a common faith was deeply democratic. The idea of the
 
 #### Collections
 
+Citations to John Dewey’s works are to the thirty-seven-volume critical edition *The Collected Works of John Dewey, 1882–1953*, edited by Jo Ann Boydston (Southern Illinois University Press, 1969–1991). [The series](https://www.siupress.com/search-results/?keyword=collected+works+of+john+dewey) includes:
+
 This critical edition was also published in electronic form as:
 
 In-text citations give the original publication date, series abbreviation, followed by volume and page number. For example LW10: 12 refers to page 12 of *Art as Experience*, which is published as volume 10 of *The Later Works*.
@@ -718,8 +720,6 @@ Aesthetic concepts and fine-grained meanings are rooted, then, in the organism�
 [^note-59]: Dewey wrote,
 
 > The things in civilization we most prize are not of ourselves. They exist by grace of the doings and sufferings of the continuous human community in which we are a link. Ours is the responsibility of conserving, transmitting, rectifying and expanding the heritage of values we have received that those who come after us may receive it more solid and secure, more widely accessible and more generously shared than we have received it. Here are all the elements for a religious faith that shall not be confined to sect, class, or race. (*ACF*, LW9: 57–58)
-
-[^citations-1882]: Citations to John Dewey’s works are to the thirty-seven-volume critical edition *The Collected Works of John Dewey, 1882–1953*, edited by Jo Ann Boydston (Southern Illinois University Press, 1969–1991). [The series](https://www.siupress.com/search-results/?keyword=collected+works+of+john+dewey) includes:
 
 [^ew-1967]: [EW] 1967, *The Early Works*, 1882–1898, 5 volumes.
 

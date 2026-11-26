@@ -228,6 +228,8 @@ As for the referential character of sensations, Clauberg regards it as analogous
 
 Verbeek (1999a: 187–94)[^verbeek-1999a] contains a comprehensive list of Clauberg’s works and their publication details (with some errors, corrected in the list below). Clauberg’s *Opera omnia* has been reprinted by Georg Olms as:
 
+*Logica vetus et nova* (1654) is the only work of Clauberg’s that exists in a complete modern translation:
+
 Additionally, selections from various texts, including *Logica vetus et nova, Corporis et animae in homine conjunctio*, and *De cognitione Dei et nostri* exist in English, Italian, and German; for bibliographical details, see Ragni (2019a: 735–6)[^ragni-2019a]. In the entry above, references are to the *Opera omnia* edition, with the exception of *Elementa philosophiae*, which is not included in OO; *Unterscheid*, which appears in OO in a posthumously translated Latin version; and the “Prolegomena” and “Proemium” to *Logica*. All translations are my own.
 
 Below is a non-exhaustive list of Clauberg’s works published in his lifetime:
@@ -257,8 +259,6 @@ Descartes, René | Leibniz, Gottfried Wilhelm | occasionalism | Port Royal Logic
 The author would like to thank Adi Efal-Lautenschläger and Devin Curry for helpful comments on an earlier draft of this entry.
 
 [^opera-1968]: *Opera omnia philosophica*, 2 vols., Hildesheim: Georg Olms, 1968. [OO, cited by volume and page number]
-
-[^logica-1654]: *Logica vetus et nova* (1654) is the only work of Clauberg’s that exists in a complete modern translation:
 
 [^logique-2007]: *Logique ancienne et nouvelle*, Jacqueline Lagrée and Guillaume Coqui (eds. and trans.), Paris: Vrin, 2007.
 
