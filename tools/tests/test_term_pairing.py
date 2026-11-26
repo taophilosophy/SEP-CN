@@ -144,6 +144,26 @@ class TestNeedsPairing(unittest.TestCase):
         self.assertTrue(tp.explicit_citation('审定作“诠释学”（hermeneutics，自然辩证法名词）'))
         self.assertFalse(tp.explicit_citation('审定名词库（termonline-all，凭证）；亦作“解释学”'))
 
+    def test_segment_scope_beats_row_scope(self):
+        # GB 标准库的负证句不得把同行的审定正断言一起豁免（academic freedom 判例）
+        self.assertTrue(tp.needs_pairing(
+            '知网系 GB 标准库查证：首屏无该键配对条目（命中均为模糊邻居）；'
+            '审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29）'))
+
+    def test_paren_semicolon_not_split(self):
+        # 括号内的分号不切句（absolute idealism 判例）
+        self.assertFalse(tp.needs_pairing(
+            '审定库无对口条目（2026-11-25 界面复核：未审定；原“审定库复核一致”表述作废）'))
+
+    def test_citation_after_library_word(self):
+        # 「审定名词库“性别歧视”」虽无“作”字，也是引形
+        self.assertFalse(tp.needs_pairing(
+            '审定名词库“性别歧视”对应 gender discrimination（计划生育名词）'))
+        self.assertFalse(tp.needs_pairing('审定作“潜变量”（社会学名词·数据分析，2025）'))
+
+    def test_spaced_no_counterpart(self):
+        self.assertFalse(tp.needs_pairing('审定库无 transcendence 对口（2026-11-26 配对复核）'))
+
 
 class TestCitationLibs(unittest.TestCase):
     """库名如实（ADR-0088 第 2 条）：引证形与实际库别不符即问题。"""

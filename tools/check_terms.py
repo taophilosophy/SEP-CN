@@ -350,6 +350,9 @@ def audit_basis_pairs(rows, index):
     说明措辞默认只看依据列；译法列自身写有“审定…”时才并入（见 claim_text）。"""
     bad = []
     for term, trans, _fs, basis, _date, lineno in rows:
+        # 译法列的括注里引出审定形（“审定收「X」”等）也算行内交代，整行放行
+        if term_pairing.explicit_citation(trans):
+            continue
         if not term_pairing.needs_pairing(term_pairing.claim_text(trans, basis)):
             continue
         v, _ev = term_pairing.classify_row(term, trans, basis, index)

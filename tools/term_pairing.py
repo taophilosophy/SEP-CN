@@ -249,22 +249,42 @@ ACK_RE = re.compile(
     # 判定与处置记录
     r'佐证|撞形|降为亦作|审定形|《数学名词》形|非哲学义|语序|并行|分立|复数形|省略|'
     r'缩略|本行为|研判|同族|核心词|复合|简称|上限|豁免|本库首译|首译|收“|有“|'
-    r'定名系|定名裁定|对照形')
+    r'定名系|定名裁定|对照形|作废|保留现译|统一族形|无审定|审定公布库无')
 
 # 「声明有命中」的反证措辞：出现即视为否定句／无对口句，不要求配对。
 # 「无该键配对条目」是 ADR-0089 的标准写法（首屏无配对），必须计入负证。
 NEG_RE = re.compile(
     r'无相关|无对口|未收|查无|无命中|0 条|未见|无“|无独立|不收录|仅收|非本词|命中他义|'
-    r'非审定|对照库|其他来源|不一致|无该键配对条目|无配对条目')
+    r'非审定|对照库|其他来源|不一致|无该键配对条目|无配对条目|无[^；，]{0,24}对口')
+
+
+def split_segments(text):
+    """按分号切句，但括号内的分号不切（`（…复核：未审定；原表述作废）` 是一个整体）。"""
+    out, buf, depth = [], [], 0
+    for ch in str(text or ''):
+        if ch in '（(':
+            depth += 1
+        elif ch in '）)':
+            depth = max(0, depth - 1)
+        if ch in '；;' and depth == 0:
+            out.append(''.join(buf))
+            buf = []
+        else:
+            buf.append(ch)
+    out.append(''.join(buf))
+    return out
 
 
 def explicit_citation(text):
-    """行内是否引出了审定的具体形：同一分段里同时出现“审定”与 作“／＝ 即算交代清楚。
+    """行内是否引出了审定的具体形：同一分段里出现「审定…作／形／收／有／＝“X”」或
+    「审定“X”」即算交代清楚。
 
-    按分号分段判，不作全文匹配——否则一段里的“亦作“X””会把另一段的裸断言一起豁免掉。
-    引了形即视为已交代关系（形异、义异、英文侧不同都由文字自证），未引形的裸断言才告警。"""
-    for seg in re.split(r'[；;]', str(text or '')):
-        if '审定' in seg and ('作“' in seg or '＝' in seg):
+    按分号分段判（括号内不切），不作全文匹配——否则一段里的“亦作“X””会把另一段的
+    裸断言一起豁免掉。引了形即视为已交代关系（形异、义异、英文侧不同都由文字自证），
+    未引形的裸断言才告警。"""
+    cite = re.compile(r'审定(?!库?无|库?未|公布库无)[^；“”]{0,60}?“|审定[^；]{0,40}?[＝=]')
+    for seg in split_segments(text):
+        if '审定' in seg and cite.search(seg):
             return True
     return False
 
@@ -293,31 +313,30 @@ LIB_MIXED = 'mixed'
 def citation_claims(text):
     """显式引证清单 [(声称库别, 所引中文形, 前文窗口, 是否带条文号)]；无声称库别的跳过。
 
-    窗口取「作“」之前、且不超过最近分号」——一句里的“审定作 X”不该管到下一句的
-    “对照库作 Y”，否则并列两句必被判混标。"""
-    t = str(text or '')
+    按分号分段（括号内不切）逐段找「作“X”」，窗口取本段内、引号之前的 90 字，再判段内
+    所称库别——一句里的“审定作 X”不该管到下一句的“对照库作 Y”。"""
     out = []
-    for m in CITE_CN_RE.finditer(t):
-        cn = m.group(1)
-        if not re.search(r'[一-鿿]', cn):
-            continue
-        sep = max(t.rfind('；', 0, m.start()), t.rfind(';', 0, m.start()))
-        w = t[(sep + 1 if sep >= 0 else 0):m.start()][-90:]
-        audit = ('审定' in w and not any(x in w for x in
-                                        ('非审定', '审定公布库无', '审定库无', '审定无')))
-        tw = any(x in w for x in TW_MARKS)
-        other = any(x in w for x in OTHER_MARKS)
-        if audit and (tw or other):
-            lib = LIB_MIXED
-        elif audit:
-            lib = LIB_AUDIT
-        elif tw:
-            lib = LIB_TW
-        elif other:
-            lib = LIB_OTHER
-        else:
-            continue
-        out.append((lib, cn, w[-46:], bool(CODE_RE.search(w))))
+    for seg in split_segments(text):
+        for m in CITE_CN_RE.finditer(seg):
+            cn = m.group(1)
+            if not re.search(r'[一-鿿]', cn):
+                continue
+            w = seg[:m.start()][-90:]
+            audit = ('审定' in w and not any(x in w for x in
+                                            ('非审定', '审定公布库无', '审定库无', '审定无')))
+            tw = any(x in w for x in TW_MARKS)
+            other = any(x in w for x in OTHER_MARKS)
+            if audit and (tw or other):
+                lib = LIB_MIXED
+            elif audit:
+                lib = LIB_AUDIT
+            elif tw:
+                lib = LIB_TW
+            elif other:
+                lib = LIB_OTHER
+            else:
+                continue
+            out.append((lib, cn, w[-46:], bool(CODE_RE.search(w))))
     return out
 
 
@@ -343,11 +362,17 @@ def audit_citation_libs(index, key, basis):
 
 
 def needs_pairing(basis):
-    """该依据是否主张审定命中且未说明（true = 需要配对否则告警）。"""
-    if '审定' not in basis:
-        return False
-    if explicit_citation(basis):
-        return False
-    if ACK_RE.search(basis):
-        return False
-    return True
+    """该依据是否主张审定命中且未说明（true = 需要配对否则告警）。
+
+    按分句判：一行里常并列两种主张（GB 标准库首屏无配对 ＋ 审定库复核一致），若按整行
+    匹配，标准库的负证词会把审定的正断言一起豁免（2026-11-26 实测 academic freedom、
+    cognitivism、connectionism 三行）。"""
+    for seg in split_segments(basis):
+        if '审定' not in seg:
+            continue
+        if explicit_citation(seg):
+            continue
+        if ACK_RE.search(seg) or NEG_RE.search(seg):
+            continue
+        return True
+    return False
