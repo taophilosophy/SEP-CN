@@ -1,6 +1,6 @@
 {
  "schema": "sep-cn-b32-page/2",
- "generated_by": "specs/053 bin/page_assemble.py",
+ "generated_by": "script/tmp/b32_parallel.py",
  "mode": "judge",
  "total": 1873,
  "counts": {
@@ -10,7 +10,7 @@
   "stale": 0
  },
  "page_bytes": 236108340,
- "pool_bytes": 123168272,
+ "pool_bytes": 123168227,
  "entries": [
   {
    "slug": "18thGerman-preKant",
@@ -5044,8 +5044,8 @@
    "slug": "genomics",
    "page_len": 136922,
    "status": "pool",
-   "n_patches": 208,
-   "pool_bytes": 76474
+   "n_patches": 209,
+   "pool_bytes": 76440
   },
   {
    "slug": "genotype-phenotype",
@@ -10849,6 +10849,12 @@
   {
    "slug": "ratnakirti",
    "page_len": 105187,
+   "link_miss": 17,
+   "miss_sample": [
+    "Thakur (ed.) 1975b",
+    "Thakur (ed.) 1975b",
+    "Pind 2015"
+   ],
    "status": "pool",
    "n_patches": 95,
    "pool_bytes": 70141
@@ -11808,7 +11814,7 @@
    "page_len": 86270,
    "status": "pool",
    "n_patches": 82,
-   "pool_bytes": 54663
+   "pool_bytes": 54652
   },
   {
    "slug": "shaftesbury",

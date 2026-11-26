@@ -1,127 +1,20 @@
 {
  "schema": "sep-cn-b31-assembly/1",
  "generated_by": "specs/053 bin/reassemble.py",
- "total": 12,
- "ok": 9,
- "fail": 1,
- "skipped": 2,
+ "total": 1,
+ "ok": 1,
+ "fail": 0,
+ "skipped": 0,
  "entries": [
   {
-   "slug": "socrates",
+   "slug": "sign-language-semantics",
    "ok": true,
-   "md_len": 97252,
+   "md_len": 113928,
    "b0_mini": {
     "sections": true,
     "parses": true
    },
-   "sec": 0.178
-  },
-  {
-   "slug": "information-entropy",
-   "ok": true,
-   "md_len": 103879,
-   "b0_mini": {
-    "sections": true,
-    "parses": true
-   },
-   "sec": 0.166
-  },
-  {
-   "slug": "large-cardinals-determinacy",
-   "ok": true,
-   "md_len": 103949,
-   "b0_mini": {
-    "sections": true,
-    "parses": true
-   },
-   "sec": 0.198
-  },
-  {
-   "slug": "kochen-specker.sfderiv",
-   "ok": false,
-   "skipped": "not in baseline",
-   "sec": 0.0
-  },
-  {
-   "slug": "continuum-hypothesis",
-   "ok": true,
-   "md_len": 83910,
-   "b0_mini": {
-    "sections": true,
-    "parses": true
-   },
-   "sec": 0.186
-  },
-  {
-   "slug": "cosmology-theology",
-   "ok": true,
-   "md_len": 77811,
-   "b0_mini": {
-    "sections": true,
-    "parses": true
-   },
-   "sec": 0.119
-  },
-  {
-   "slug": "fundamentality",
-   "ok": true,
-   "md_len": 145602,
-   "b0_mini": {
-    "sections": true,
-    "parses": true
-   },
-   "sec": 0.407
-  },
-  {
-   "slug": "heidegger",
-   "ok": false,
-   "md_len": 246694,
-   "b0_mini": {
-    "sections": true,
-    "parses": true
-   },
-   "first_diff": {
-    "op": "replace",
-    "md": "one of the four insists on its own separate particularity”. (GA7: 171 / PLT 179).\n\n[^backman-2020]: Backman, Jussi, 2020, “Radical Contextua",
-    "asm": "t is Called Thinking?*, J. Glenn Gray (trans.), New York: Harper Torchbook, 1968.\n\n[^backman-2020]: Backman, Jussi, 2020, “Radical Contextua"
-   },
-   "sec": 0.723
-  },
-  {
-   "slug": "independence-large-cardinals",
-   "ok": true,
-   "md_len": 44895,
-   "b0_mini": {
-    "sections": true,
-    "parses": true
-   },
-   "sec": 0.084
-  },
-  {
-   "slug": "logic-infinitary",
-   "ok": true,
-   "md_len": 61577,
-   "b0_mini": {
-    "sections": true,
-    "parses": true
-   },
-   "sec": 0.166
-  },
-  {
-   "slug": "possible-worlds",
-   "ok": true,
-   "md_len": 173523,
-   "b0_mini": {
-    "sections": true,
-    "parses": true
-   },
-   "sec": 0.395
-  },
-  {
-   "slug": "possible-worlds.problems-abstractionism",
-   "ok": false,
-   "skipped": "not in baseline",
-   "sec": 0.0
+   "sec": 0.313
   }
  ]
 }
