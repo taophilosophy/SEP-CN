@@ -753,7 +753,7 @@
 | belief revision | — | 信念修正 | logic-preference | AGM 研究通行；审定名词库（termonline-all·计算机科学技术名词 08.0025，2018）作“信念修正”，与本行一致（2026-11-24 JWT 直连，凭证 termonline-b2-2026-11-24.tsv） | 2026-11-05 |
 | belief set | — | 信念集 | epistemology-latin-america 首译 | 学界通行（AGM 文献） | 2026-11-11 |
 | belief-like imagining | — | 信念式想象 | imaginative-resistance | 学界通行（Currie 2002）；凭证 2026-11-12 | 2026-11-12 |
-| Bell inequalities | — | 贝尔不等式 | 语料回收（bell-theorem） | 知网系 GB 标准库查证（termonline-standard 凭证 2026-10-28）：首屏无该键配对条目（命中均为模糊邻居，2026-11-26 复核）；审定库复核在案（同名噪声/辅助档差异，保留现译 2026-10-29）；旧键“bell inequality”并入（2026-11-21 撞形处置） | 2026-11-26 |
+| Bell inequalities | — | 贝尔不等式 | 语料回收（bell-theorem） | 知网系 GB 标准库查证（termonline-standard 凭证 2026-10-28）：首屏无该键配对条目（命中均为模糊邻居，2026-11-26 复核）；审定作“贝尔不等式”（Bell inequality，物理学名词；2026-11-26 界面精确匹配复核改判）；旧键“bell inequality”并入（2026-11-21 撞形处置） | 2026-11-26 |
 | Bell theorem | — | 贝尔定理 | 语料回收（bell-theorem） | 知网系 GB 标准库查证（termonline-standard 凭证 2026-10-28）：首屏无该键配对条目（命中均为模糊邻居，2026-11-26 复核）；审定库复核查无（termonline-all 浏览器通道 2026-10-29）；旧键“Bell’s Theorem”并入（2026-11-21 撞形处置；旧键首现：语料回收（词汇表并网）） | 2026-11-26 |
 | ben-mo | 本末 | 本末 | han-dynasty | 中国哲学通行（《淮南子》本末结构） | 2026-11-10 |
 | beneficence | — | 行善（亦作“有利”） | cosmopolitanism | 学界通行（伦理学义务论；与 justice 正义对举）；凭证 2026-11-09；2026-11-15 联网复核补亦作（生命伦理学四原则文献“行善原则/有利原则”两形并行） | 2026-11-15 |
@@ -4015,7 +4015,7 @@
 | isometry | — | 等距（映射）（亦作“等度规”） | spacetime-convensimul | 学界惯例（几何学通行）；2026-11-15 补亦作（审定形，广义相对论语境） | 2026-11-15 |
 | isomorphism | — | 同构 | 语料回收（全目录） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29；2026-11-25 界面精确匹配复核在案） | 2026-11-25 |
 | isomorphism class | — | 同构类 | quine-nf | 范畴论/模型论通行译名；凭证 2026-11-09 | 2026-11-09 |
-| isonomia | ἰσονομία | 平等（政治隐喻中指各种力量的均等） | alcmaeon | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29）；撞形豁免 2026-11-21：同形异语／同概念异形，按条目语境区分，不合并 | 2026-11-21 |
+| isonomia | ἰσονομία | 平等（政治隐喻中指各种力量的均等） | alcmaeon | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29；2026-11-26 界面复核：审定公布库无，其他术语库“中华思想文化术语传播工程”作“平等”（Equality，历史））；撞形豁免 2026-11-21：同形异语／同概念异形，按条目语境区分，不合并 | 2026-11-26 |
 | isotakheia | ἰσοτάχεια | 等速性 | epicurus | 本词条译名（原子同速原则） | 2026-11-12 |
 | isotropy | — | 各向同性 | f/frame-problem 首译 | Fodor 术语通行译法（借自物理学术语）；凭证 2026-11-10 | 2026-11-10 |
 | īśvara | ईश्वर | 自在天（亦作“自在”） | 语料回收 | 学界惯例（印度哲学译名）；审定库无相关命中（凭证 2026-10-31；2026-11-26 界面精确匹配复核：0 条） | 2026-11-26 |
@@ -4150,7 +4150,7 @@
 | kayfiyya | كيفية | 样式 | ibn-taymiyya | 首译（属性“如何”；与 maʿnā 意义对举） | 2026-11-12 |
 | Kemeny rule | — | 凯梅尼规则 | belief-merging | 学界通行（社会选择理论中译文献）；凭证 2026-11-10 | 2026-11-10 |
 | kenodoxia | κενοδοξία |空洞信念（亦作“虚妄意见”）| epicurus | 本词条译名（亦作“虚妄意见”） | 2026-11-12 |
-| kenon | κενόν | 空腔 | alcmaeon | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29） | 2026-10-26 |
+| kenon | κενόν | 空腔 | alcmaeon | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29；2026-11-26 界面复核：审定“空腔”系 cavity pocket（电力名词）／air containing space（结核病学名词）义，非同概念，不采） | 2026-11-26 |
 | kensho | 見性 | 见性（保留拉丁 kensho） | religious-experience | 学界通行（禅宗） | 2026-11-05 |
 | kernel function | — | 核函数 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·数学·分析学·复分析，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | kerygmatic theology | — | 宣道神学 | 首现（scholz） | 学界惯例（巴特研究通行）；凭证 2026-11-07 | 2026-11-07 |
@@ -4329,7 +4329,7 @@
 | legislative intent | — | 立法意图 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | legitimacy | — | 正当性（政治哲学；与 legality 合法性分列） | 语料回收（伦理学族扫描 2026-11-25） | 政治哲学通行（语料 144 次）；凭证 2026-11-25 | 2026-11-25 |
 | legitimate authority | — | 合法权威 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·管理科学技术·公共管理·基本概念，2026-11-18 JWT 直连凭证） | 2026-11-19 |
-| Lehrfreiheit | Lehrfreiheit | 教学自由 | 语料回收（academic-freedom） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29） | 2026-10-27 |
+| Lehrfreiheit | Lehrfreiheit | 教学自由 | 语料回收（academic-freedom） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29；2026-11-26 界面复核改判：审定作“教学自由”（freedom of teaching，教育学名词）） | 2026-11-26 |
 | Leib | Leib | 活的身体 | existentialism；phenomenology | 学界通行（现象学 Leib 与 Körper 躯体相对；本册定“活的身体”一形）；凭证 2026-11-11；FLAG 裁定 2026-11-21（联网凭证）：用语列删人名引用（contract-law:1042 Leib 2015），取 existentialism:592 与 phenomenology:1540 “活的身体”义；译法维持 | 2026-11-21 |
 | Leibniz Equivalence | — | 莱布尼茨等价 | spacetime-holearg | B 档（学界通行译名） | 2026-10-28 |
 | Leibniz language | Leibniz language | 莱布尼茨语言 | 首现（scholz） | 学界惯例（肖尔兹研究通行）；凭证 2026-11-07 | 2026-11-07 |
@@ -4338,7 +4338,7 @@
 | lekton (lekta) | — | 可说者 | intentionality-ancient | 斯多葛逻辑通行译法（“可道者”；与 ennoēma 分） | 2026-11-07 |
 | lemma | — | 引理 | 语料回收（逻辑方法族扫描 2026-11-25） | 数学与逻辑通行（语料 39 次）；凭证 2026-11-25 | 2026-11-25 |
 | Leninism | — | 列宁主义 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·世界历史·综合·国际共产主义运动，2026-11-18 JWT 直连凭证） | 2026-11-19 |
-| Lernfreiheit | Lernfreiheit | 学习自由（亦作“学的自由”） | 语料回收（academic-freedom） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29） | 2026-10-27 |
+| Lernfreiheit | Lernfreiheit | 学习自由（亦作“学的自由”） | 语料回收（academic-freedom） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29；2026-11-26 界面复核改判：审定作“学习自由”（freedom of learning，教育学名词）） | 2026-11-26 |
 | lesyā | लेश्या | 业染 | jaina-philosophy | 耆那教义译（心为业所染之色） | 2026-11-25 |
 | Letter on Divine Science | — | 《论神圣科学书简》 | 首现（theology-aristotle） | 照题直译（伪法拉比书简，通行亦作《论神圣科学》）；凭证 2026-11-08 | 2026-11-08 |
 | Letter to Herodotus | — | 《致希罗多德书》 | epicurus | 本词条译名（*LH*） | 2026-11-12 |
@@ -6089,7 +6089,7 @@
 | populism | — | 民粹主义 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·新闻学与传播学·政治传播·政治传播基础，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | pornographic art | — | 色情艺术 | 首现（erotic-art） | 学界通行（pornographic 译“色情的”） | 2026-11-08 |
 | pornography | — | 色情 | 首现（erotic-art） | 学界通行；审定名词库（新闻学与传播学名词 17.074，2022）作“色情内容”，本行“色情”为核心词（凭证 termonline-b9-2026-11-24.tsv） | 2026-11-08 |
-| poroi | πόροι | 通道 | alcmaeon | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29） | 2026-10-26 |
+| poroi | πόροι | 通道 | alcmaeon | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29；2026-11-26 界面复核：审定“通道”为 alley way／passage／channel 等交通与信道义共 14 条，非同概念，不采） | 2026-11-26 |
 | Port Royal Logic / Port-Royal Logic | — | 《波尔·罗亚尔逻辑》（国内亦称“王港逻辑”） | 语料回收（specs/058 全库提取） | 权威译本（阿尔诺与尼科尔著作通行汉译；审定库无对口条目，2026-11-22）；凭证 2026-11-22；异形键 Port-Royal Logic 并入（2026-11-25；旧键首现 journal） | 2026-11-22 |
 | portfolio analysis | — | 组合分析 | risk | 学界惯例（Markowitz 1952 以来金融经济学通行）；凭证 2026-11-09 | 2026-11-09 |
 | positing (Setzung) | Setzung | 设定 | brentano-judgement 首译 | 布伦塔诺/斯图姆夫术语通行译法；凭证 2026-11-09；撞形豁免 2026-11-21：同形异语／同概念异形，按条目语境区分，不合并 | 2026-11-21 |
@@ -7021,7 +7021,7 @@
 | ruling ideas | — | 统治观念 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | Russellian monism | — | 罗素式一元论 | 首现（zombies） | 学界惯例（意识研究文献通行）；凭证 2026-11-10 | 2026-11-10 |
 | Russellianism | — | 罗素主义 | 语料回收（ism 扫描 2026-11-25） | 命题态度与逻辑原子论语境通行（本库罗素形已立）；凭证 2026-11-25 | 2026-11-25 |
-| Russell’s Paradox | — | 罗素悖论 | 语料回收（specs/058 全库提取） | 学界通行（教科书级标准术语，specs/058 A 档直裁；审定库查无对应条目；凭证 2026-11-22） | 2026-11-22 |
+| Russell’s Paradox | — | 罗素悖论 | 语料回收（specs/058 全库提取） | 学界通行（教科书级标准术语，specs/058 A 档直裁；审定作“罗素悖论”（Russell’s paradox，自然辩证法名词；2026-11-26 界面精确匹配复核改判）；凭证 2026-11-22） | 2026-11-26 |
 | ryōbu mandara | 両部曼荼羅 | 两部曼荼罗 | kukai | 真言宗汉语传统（胎藏/金刚界合称） | 2026-11-09 |
 
 ## S
@@ -7632,7 +7632,7 @@
 | Sovereignty: An Inquiry Into the Political Good | — | 《主权：对政治善的探究》（茹弗内尔 1957） | s/sovereignty 首译 | 构词直译，无中译本；凭证 2026-11-07；审定库无相关命中（termonline-all 凭证 2026-11-10；2026-11-26 界面精确匹配复核：0 条）| 2026-11-26 |
 | Space, Time, and Deity | — | 《空间、时间与神性》 | 语料回收（specs/058 全库提取） | 本库译名（亚历山大著，1920；语料 15 处一致）（2026-11-24 语料核对，凭证 works-batch23-2026-11-24.md） | 2026-11-24 |
 | spacelike / lightlike | — | 类空／类光 | spacetime-convensimul | 学界惯例（相对论通行）；审定名词库（物理学名词 06.0100，2019；数学名词 06.0350，1993）作“类空”，与本行前半一致；“类光”审定无对应（凭证 termonline-b11-2026-11-24.tsv） | 2026-11-06 |
-| spacelike separation | — | 类空间隔 | 语料回收（bell-theorem） | 知网系 GB 标准库查证（termonline-standard 凭证 2026-10-28）：首屏无该键配对条目（命中均为模糊邻居，2026-11-26 复核）；审定库复核查无（termonline-all 浏览器通道 2026-10-29） | 2026-11-26 |
+| spacelike separation | — | 类空间隔 | 语料回收（bell-theorem） | 知网系 GB 标准库查证（termonline-standard 凭证 2026-10-28）：首屏无该键配对条目（命中均为模糊邻居，2026-11-26 复核）；审定库复核查无（termonline-all 浏览器通道 2026-10-29；2026-11-26 界面复核改判：审定作“类空间隔”（spacelike interval，物理学名词）） | 2026-11-26 |
 | spacetime geometry | — | 时空几何 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·物理学·相对论、量子理论·相对论，2026-11-18 JWT 直连凭证）；旧键“chronogeometry”并入（2026-11-21 撞形处置；旧键首现：geometry-19th） | 2026-11-21 |
 | spacetime substantivalism | — | 时空实体论 | spacetime-holearg | B 档（substance 发布表译“实体”；substantivalism 学界通行“实体论”） | 2026-10-28 |
 | Spagyric | Spagyric | 医药化学派 | johann-sturm | 近代化学史通行（spagyrici＝医药化学家） | 2026-11-25 |

@@ -180,6 +180,14 @@ class TestCitationLibs(unittest.TestCase):
             '审定名词库（termonline-all·中华思想文化术语传播工程）作“一阐提”')
         self.assertTrue(bad and '既称审定' in bad[0])
 
+    def test_negated_audit_not_mixed(self):
+        # 「审定公布库无，其他术语库作 X」是负证＋库别交代，不算混标
+        idx = mini_index([['平等', 'Equality', '中华思想文化术语传播工程', '', 'other']])
+        self.assertEqual(tp.audit_citation_libs(
+            idx, 'isonomia',
+            '审定库复核查无（缓存通道 2026-10-29）；2026-11-26 界面复核：审定公布库无，'
+            '其他术语库“中华思想文化术语传播工程”作“平等”（Equality，历史）'), [])
+
     def test_print_citation_with_code_skipped(self):
         # 带条文号的纸质审定本引证，索引未必覆盖，不作失实判定
         self.assertEqual(tp.audit_citation_libs(

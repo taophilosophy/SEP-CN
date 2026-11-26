@@ -303,7 +303,8 @@ def citation_claims(text):
             continue
         sep = max(t.rfind('；', 0, m.start()), t.rfind(';', 0, m.start()))
         w = t[(sep + 1 if sep >= 0 else 0):m.start()][-90:]
-        audit = '审定' in w and '非审定' not in w
+        audit = ('审定' in w and not any(x in w for x in
+                                        ('非审定', '审定公布库无', '审定库无', '审定无')))
         tw = any(x in w for x in TW_MARKS)
         other = any(x in w for x in OTHER_MARKS)
         if audit and (tw or other):
