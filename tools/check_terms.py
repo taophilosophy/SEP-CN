@@ -180,20 +180,37 @@ def translations(cell):
     return {v for v in variants if v}
 
 
-def person_dangling_first(rows2):
-    """人名表「首现」列写了 slug 形状但 en/ 下无该词条目录 → 悬空（告警）。
+FIRST_PATH_RE = re.compile(r'^([a-z])/([A-Za-z0-9][A-Za-z0-9_.-]*)$')
+# 裸 slug 必须含小写字母：全大写者是「SUMMARY」一类标注词，不是词条名
+FIRST_SLUG_RE = re.compile(r'^(?=.*[a-z])[A-Za-z0-9][A-Za-z0-9_.-]*$')
 
-    非 slug 标注（语料回收（…）、首现（…）、书名、—）不判。判据与 ADR-0009 的
-    `<letter>/<slug>.md` 目录命名同源：只认纯 ASCII 词条名。"""
+
+def person_dangling_first(rows2):
+    """人名表「首现」列的词条引用是否落地；同时报非规范的路径形（告警）。
+
+    首现列允许三类值：裸 slug（en/<slug>/ 存在）、`<letter>/<slug>` 路径形（ADR-0009
+    的目录形，可解但非规范，应归一为裸 slug）、散文标注（语料回收（…）、SUMMARY 定名
+    （…）、—）；以「；」分段逐段判。返回 (悬空, 非规范形)，元素为
+    (term, 列值, 行号, 归一后的 slug)。判据与 ADR-0009 的目录命名同源：只认 ASCII 词条名。"""
     en_dir = os.path.join(ROOT, 'en')
-    bad = []
+    bad, informal = [], []
     for (term, _orig, _trans, _nation, _years, fs, _basis, _date, lineno) in rows2:
-        s = (fs or '').strip()
-        if not re.match(r'^[A-Za-z0-9][A-Za-z0-9_.-]*$', s):
-            continue
-        if not os.path.isdir(os.path.join(en_dir, s)):
-            bad.append((term, s, lineno))
-    return bad
+        for part in re.split(r'[；;]', fs or ''):
+            p = part.strip()
+            if not p:
+                continue
+            m = FIRST_PATH_RE.match(p)
+            if m:
+                slug = m.group(2)
+                if os.path.isdir(os.path.join(en_dir, slug)):
+                    informal.append((term, p, lineno, slug))
+                else:
+                    bad.append((term, p, lineno, slug))
+                continue
+            if FIRST_SLUG_RE.match(p):
+                if not os.path.isdir(os.path.join(en_dir, p)):
+                    bad.append((term, p, lineno, ''))
+    return bad, informal
 
 
 def person_missing(rows2):
@@ -693,17 +710,25 @@ def main(argv=None):
             write_person_missing(person_entries, PERSON_REPORT)
             print('人名缺籍属/生卒（告警，不计硬错误）: %d 条，清单 → %s'
                   % (len(person_entries), PERSON_REPORT))
-            dangling = person_dangling_first(rows2)
+            dangling, informal = person_dangling_first(rows2)
             if not docs:
-                for term, slug, ln in dangling[:10]:
+                for term, slug, ln, _c in dangling[:10]:
                     print('人名首现悬空（告警）: %s → en/%s（行 %d）' % (term, slug, ln))
                 if len(dangling) > 10:
                     print('…（其余 %d 条见清单）' % (len(dangling) - 10))
+                for term, val, ln, canon in informal[:5]:
+                    print('人名首现非规范形（告警）: %s → %s（应为 %s，行 %d）'
+                          % (term, val, canon, ln))
+                if len(informal) > 5:
+                    print('…（其余 %d 条见清单）' % (len(informal) - 5))
             _atomic_write(PERSON_FIRST_REPORT, '\n'.join(
-                ['%s\t%s\t%d' % d for d in dangling] +
-                ['汇总\t%d\t人名首现悬空（ADR-0009 目录命名）' % len(dangling)]) + '\n')
-            print('人名首现悬空（告警，不计硬错误）: %d 条，清单 → %s'
-                  % (len(dangling), PERSON_FIRST_REPORT))
+                ['%s\t%s\t%d\t%s' % d for d in dangling] +
+                ['汇总\t%d\t人名首现悬空（ADR-0009 目录命名）' % len(dangling)] +
+                ['%s\t%s\t%d\t应为 %s' % d for d in informal] +
+                ['汇总\t%d\t人名首现非规范形（<letter>/<slug>，宜归一裸 slug）'
+                 % len(informal)]) + '\n')
+            print('人名首现悬空（告警，不计硬错误）: %d 条；非规范形: %d 条，清单 → %s'
+                  % (len(dangling), len(informal), PERSON_FIRST_REPORT))
     if docs:
         return 0
     return 1 if hard else 0

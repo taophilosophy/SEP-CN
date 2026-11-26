@@ -335,3 +335,33 @@ Botticelli、Contesi、Joachim、Lejeune、Michelangelo、Peters），其首现�
 
 **单测**：`tools/tests/test_check_terms.py` 增 `PersonDanglingFirstTests`（悬空命中／目录存在／
 非 slug 值不判三例），全套 698 项 OK；`check_all.py` 21 项全绿。
+
+### 批 65：44 条“有年份无职业”候选的年代相容性复核（2026-11-26）
+
+**对象**：review 池里只有生年、GND 无职业的 44 条。职业缺位使三重判据失效，改以
+**条目语境年代相容性**作第一道筛（首现词条首现句档案），再对可另指者回权威档交叉：
+lobid 完整记录取 `sameAs` → Wikidata `wbgetentities` 取 P569/P570/P27/P106。只认有职业或
+国籍的实体——仅年精度、无职业国籍的 Wikidata 条目多为 GND 导入件（26 条对应实体的 8 条），
+不作独立佐证，避免自证循环。
+
+**判定分布**（`gnd-review-decisions-2026-11-26.tsv` 已逐条回写）：采信 12、改判识别 4、
+同名驳回 16、存疑 4、未判 8。量测：可用率 27%（12/44），驳回率 36%，与 en/ 括注取生卒
+15% 同量级——**年份单值不构成身份**。详见 `results/dates-only-triage-2026-11-26.md`。
+
+**写册八行**（`bin/patch_b65_dates_only_triage.py`，幂等）：Robertson, G. 1842–1892／英国
+（Mind 1 (1876) 书目行即创刊主编 George Croom Robertson，WD Q983704）；King, Peter
+1669–1734／英国（lady-masham“洛克外甥”即第一代金男爵，WD Q7175194）；Klein, Peter 1940–／
+美国（closure-epistemic 的知识论者，WD Q7173507；GND 候选 1959 德国短跑运动员驳回）；
+Clarke, Edward 1650–1710／英国（GND 1055230068 与 WD Q19039689 同档，GND 生年 1652 属异说）；
+Burstall 籍属英国、Stamos 籍属加拿大（WD 国籍）；Mehta, Uday 生卒 1933 → —（原值取自同名
+GND 1145908829，语境作者实为 Uday Singh Mehta，权威档无年份）；Nellie 依据注非人物
+（necessary-sufficient 例子中的象名）。
+
+**同批登记册卫生：首现列路径形归一**。检查器 `person_dangling_first` 升级为分段判定，
+新增两类：`<letter>/<slug>` 路径形（可解但非规范，单列告警）与全大写标注词（SUMMARY，
+不判）。首跑：悬空 0、非规范 41（多为 `f/fuller-margaret`、`f/falaquera` 旧写法）。
+`bin/patch_b65_normalize_first.py` 归一 41 行（前置门：目标 `en/<slug>/` 必须存在、
+残余必须 0、幂等），复跑悬空 0／非规范 0。单测补 5 例（路径可解／路径悬空／分段／
+SUMMARY 标注／散文标注），全套 702 项 OK，`check_all` 21 项全绿。
+
+**人名缺项**：776 → 770（8 行改动的净效果，含 Mehta 置空回补 1）。

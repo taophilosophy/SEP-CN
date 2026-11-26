@@ -266,17 +266,37 @@ class LibHonestyGateTests(unittest.TestCase):
 
 
 class PersonDanglingFirstTests(unittest.TestCase):
-    """人名表首现列：slug 形但库内无目录 → 悬空；非 slug 标注不判。"""
+    """人名表首现列：slug 形但库内无目录 → 悬空；路径形可解 → 非规范形；散文标注不判。"""
 
     def test_slug_shaped_unknown_flagged(self):
         rows2 = [('X', '—', 'X', '—', '—', 'no-such-entry-xyz', 'b', '2026-01-01', 1)]
-        self.assertEqual(check_terms.person_dangling_first(rows2),
-                         [('X', 'no-such-entry-xyz', 1)])
+        self.assertEqual(check_terms.person_dangling_first(rows2)[0],
+                         [('X', 'no-such-entry-xyz', 1, '')])
 
     def test_non_slug_markers_skipped(self):
         rows2 = [('Y', '—', 'Y', '—', '—', '语料回收（全目录）', 'b', '2026-01-01', 2),
-                 ('Z', '—', 'Z', '—', '—', '—', 'b', '2026-01-01', 3)]
-        self.assertEqual(check_terms.person_dangling_first(rows2), [])
+                 ('Z', '—', 'Z', '—', '—', '—', 'b', '2026-01-01', 3),
+                 ('W', '—', 'W', '—', '—', 'SUMMARY 定名（b/croce.md）', 'b', '2026-01-01', 4)]
+        self.assertEqual(check_terms.person_dangling_first(rows2), ([], []))
+
+    def test_letter_path_resolved_reported_informal(self):
+        rows2 = [('A', '—', 'A', '—', '—', 'c/croce', 'b', '2026-01-01', 5)]
+        self.assertEqual(check_terms.person_dangling_first(rows2),
+                         ([], [('A', 'c/croce', 5, 'croce')]))
+
+    def test_letter_path_unknown_is_dangling(self):
+        rows2 = [('B', '—', 'B', '—', '—', 'f/no-such-entry-xyz', 'b', '2026-01-01', 6)]
+        self.assertEqual(check_terms.person_dangling_first(rows2)[0],
+                         [('B', 'f/no-such-entry-xyz', 6, 'no-such-entry-xyz')])
+
+    def test_semicolon_list_checked_per_part(self):
+        rows2 = [('C', '—', 'C', '—', '—', 'c/croce；语料回收（全目录）', 'b', '2026-01-01', 7)]
+        self.assertEqual(check_terms.person_dangling_first(rows2),
+                         ([], [('C', 'c/croce', 7, 'croce')]))
+
+    def test_uppercase_marker_not_a_slug(self):
+        rows2 = [('D', '—', 'D', '—', '—', 'SUMMARY', 'b', '2026-01-01', 8)]
+        self.assertEqual(check_terms.person_dangling_first(rows2), ([], []))
 
 
 if __name__ == '__main__':
