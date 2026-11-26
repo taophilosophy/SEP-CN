@@ -161,7 +161,7 @@
 | Alston, William | — | 威廉·阿尔斯顿 | 美国／哲学 | 1921–2009 | closure-epistemic | 学界通行音译（知识证成、感知理论）；凭证 2026-11-08；籍属/生卒联网查证：GND 规范标目 gnd 123664977（2026-11-13 查，凭证 verify-2026-11-13-gnd-a.tsv） | 2026-11-13 |
 | Alter, Robert | — | 罗伯特·阿尔特 | 美国 | 1935– | scholem | 学界通行汉译（圣经文学研究）；凭证 2026-11-08 | 2026-11-08 |
 | Altmann, Alexander | — | 亚历山大·阿尔特曼 | 德国／犹太哲学 | 1906–1987 | israeli | 犹太哲学研究通行汉译（Altmann & Stern 1958 合著者）；凭证 2026-11-11 | 2026-11-11 |
-| Alvarado, José Tomás | — | 何塞·托马斯·阿尔瓦拉多 | 哥斯达黎加 | 1969 | epistemology-latin-america | 音译（西班牙语译名惯例）；凭证 2026-11-11；籍属/生卒联网查证：GND 与 Wikidata 双源一致（1969 于 Q121514614(José Tomás Alvarado)，2026-11-22 查，凭证 debt-merge-2026-11-22.tsv） | 2026-11-22 |
+| Alvarado, José Tomás | — | 何塞·托马斯·阿尔瓦拉多 | 哥斯达黎加 | 1969– | epistemology-latin-america | 音译（西班牙语译名惯例）；凭证 2026-11-11；籍属/生卒联网查证：GND 与 Wikidata 双源一致（1969 于 Q121514614(José Tomás Alvarado)，2026-11-22 查，凭证 debt-merge-2026-11-22.tsv） | 2026-11-26 |
 | Alyngton, Robert / Robert Alyngton | Robert Alyngton | 罗伯特·阿林顿 | 英国 | 约1355–1398 | alyngton；sophismata | 学界通行汉译（SUMMARY 定名沿用）；2026-11-13 重复行合并（旧键 `Robert Alyngton`）；籍属/生卒联网查证：Wikidata Q7341485（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Ambrose | — | 安布罗斯 | 古罗马（米兰） | 约339–397 | 语料回收（全目录） | 学界通行译名；籍属/生卒联网查证：Wikidata Q43689（2026-11-24 查，凭证 people-wikidata-2026-11-24-b16.tsv）；米兰主教，教父；《论责任》 | 2026-11-24 |
 | Ames, Roger T. | — | 安乐哲 | 美国 | 1949– | confucius | 学界通行汉名（《通过孔子而思》《论语》英译合作者）；凭证 2026-11-12 confucius r2 | 2026-11-12 |
@@ -1719,7 +1719,7 @@
 | Goldstine, Herman | — | 赫尔曼·戈德斯坦 | 美国 | 1913–2004 | computing-history | 学界通行汉译（ENIAC 项目军方联络人，IAS 计算机参与者）；凭证 2026-11-10 | 2026-11-09 |
 | Goldziher, Ignace | — | 伊格纳茨·戈尔德齐赫尔 | 匈牙利／伊斯兰研究 | 1850–1921 | ibn-kammuna | 学界通行音译（伊斯兰研究奠基者之一） | 2026-11-10 |
 | Göller, Stefan | — | Stefan Göller | — | 1961– | logic-dynamic | 无通行汉名，保留英文原名；凭证 2026-11-10；籍属/生卒联网查证：GND 规范标目 gnd 11577565X（2026-11-20 查，凭证 verify-2026-11-20-people.tsv）；籍属/生卒联网佐证：GND 标目 11577565X（Göller, Stefan）（2026-11-22 查，凭证 gnd-verdict-2026-11-22.tsv） | 2026-11-22 |
-| Gollwitzer, Manfred | — | Manfred Gollwitzer（现代学者，保留英文） | — | 1947 | justice-moral-psych | ADR-0022：无通行汉名者保留英文（正义敏感性研究）；凭证 2026-11-10；籍属/生卒联网查证：GND 规范标目 1145998771（Gollwitzer, Manfred，2026-11-22 查；单源，已人工过目，凭证 gnd-verdict-2026-11-22.tsv） | 2026-11-22 |
+| Gollwitzer, Manfred | — | Manfred Gollwitzer（现代学者，保留英文） | — | 1947– | justice-moral-psych | ADR-0022：无通行汉名者保留英文（正义敏感性研究）；凭证 2026-11-10；籍属/生卒联网查证：GND 规范标目 1145998771（Gollwitzer, Manfred，2026-11-22 查；单源，已人工过目，凭证 gnd-verdict-2026-11-22.tsv） | 2026-11-26 |
 | Gombrich, E. H. | — | 恩斯特·贡布里希 | 奥地利／英国 | 1909–2001 | langer | 英籍奥地利艺术史家（学界惯用“贡布里希”，正文以姓行文）；凭证 2026-11-08；籍属/生卒联网查证：GND 规范标目 gnd 118540637（2026-11-14 查，凭证 verify-2026-11-14-gnd-j.tsv） | 2026-11-14 |
 | Gomes, Gilberto | — | Gilberto Gomes（现代学者，保留英文） | — | — | necessary-sufficient | ADR-0012 体例：现代学者保留英文；凭证 2026-11-09 | 2026-11-09 |
 | Gómez Pereira | Gómez Pereira | 戈麦斯·佩雷拉 | 西班牙／医学 | 1500– | 语料回收（全目录） | 学界通行汉译；审定库无相关命中（termonline-all 浏览器通道，2026-10-31）；籍属/生卒联网查证：GND 规范标目 gnd 120606410（2026-11-14 查，凭证 verify-2026-11-14-gnd-j.tsv） | 2026-11-14 |
@@ -2548,7 +2548,7 @@
 | Korsgaard, Christine / Christine Korsgaard | Christine Korsgaard | 克里斯蒂娜·科尔斯戈德 | 美国／哲学 | 1952– | 语料回收（specs/058 全库提取） | 学界通行音译；籍属/生卒联网查证：Wikidata Q467518（2026-11-22 查，凭证 people-wikidata-2026-11-22.tsv） | 2026-11-22 |
 | Korsmeyer, Carolyn | — | 卡罗琳·科尔斯梅耶 | 美国 | 1950– | hume-aesthetics | 学界惯例音译（本词条引用文献作者）；凭证 2026-11-08；籍属/生卒联网查证：GND 规范标目 gnd 173230733（2026-11-14 查，凭证 verify-2026-11-14-gnd-n.tsv） | 2026-11-14 |
 | Korteweg, Diederik | — | 迪德里克·科特韦格 | 荷兰 | 1848–1941 | brouwer | 数学界通行汉译（KdV 方程以 Korteweg–de Vries 命名）；凭证 2026-11-12 | 2026-11-12 |
-| Koslicki, Kathrin | — | Kathrin Koslicki | 美国 | [19X– | logic-massexpress | 无通行汉名，保留英文原名；凭证 2026-11-10；籍属/生卒联网查证：GND 规范标目 gnd 1058425617（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv）；籍属/生卒联网查证：SEP 原文 en/artifact:385（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
+| Koslicki, Kathrin | — | Kathrin Koslicki | 美国 | — | logic-massexpress | 无通行汉名，保留英文原名；凭证 2026-11-10；籍属/生卒联网查证：GND 规范标目 gnd 1058425617（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv）；籍属/生卒联网查证：SEP 原文 en/artifact:385（2026-11-21 查，凭证 verify-2026-11-20-people.tsv）；2026-11-26 核：GND 1058425617 的 dateOfBirth 为字面占位“[19XX]”，非年份，原样抄录入册系抄录缺陷，清为“—”；权威档无确年 | 2026-11-26 |
 | Kotarbiński, Tadeusz | — | Tadeusz Kotarbiński | 波兰 | 1886–1981 | lvov-warsaw | 本库惯例保留英文原名；凭证 2026-11-09；籍属/生卒联网查证：GND 规范标目 gnd 11898764X（2026-11-14 查，凭证 verify-2026-11-14-gnd-n.tsv） | 2026-11-14 |
 | Kowalewski, Gerhard | — | 格哈德·科瓦莱夫斯基 | 德国 | 1876–1950 | ehrenfels | 音译（数学家，《素数定律》同行）；凭证 2026-11-13 | 2026-11-13 |
 | Koyré, Alexander / Alexandre Koyré / Koyré, Alexandre | Alexandre Koyré | 亚历山大·柯瓦雷 | 法国／科学史与现象学 | 1892–1964 | 语料回收（全目录）；reinach；cambridge-platonists | 学界通行汉译（科学史与现象学）；旧译“科伊雷”已弃，2026-11-10 裁定主形柯瓦雷（与语料回收行、词汇表、cassirer/duhem 一致）；凭证 2026-11-09；2026-11-13 重复行合并（旧键 `Alexandre Koyré`、`Koyré, Alexandre`） | 2026-11-13 |
@@ -2725,7 +2725,7 @@
 | Levinson, Jerrold / Jerrold Levinson | — | 莱文森 | 美国 | 1948– | 语料回收（全目录）；hume-aesthetics | 学界惯例音译（本词条引用文献作者）；凭证 2026-11-08；2026-11-13 重复行合并（旧键 `Jerrold Levinson`）；籍属/生卒联网查证：Wikidata Q1812792（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Levy, Arnon | — | 阿尔农·莱维 | 以色列 | — | information-biological | 音译（生物信息虚构主义）；凭证 2026-11-12 | 2026-11-12 |
 | Levy, Azriel | — | 莱维 | 以色列 | 1934– | tarski-truth | 学界通行汉译（集合论学家，Σ_n 公式层级）；2026-11-20 复核：合并（同键变体，来源列并双 slug）；籍属/生卒联网查证：GND 规范标目 gnd 109437543（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
-| Lévy, Jean-Jacques | — | Jean-Jacques Lévy | — | 1947 | logic-linear | 无通行汉名，保留英文原名（Lévy 最优归约）；凭证 2026-11-10；籍属/生卒联网查证：GND 规范标目 143319191（Lévy, Jean-Jacques，2026-11-22 查；单源，已人工过目，凭证 gnd-verdict-2026-11-22.tsv） | 2026-11-22 |
+| Lévy, Jean-Jacques | — | Jean-Jacques Lévy | — | 1947– | logic-linear | 无通行汉名，保留英文原名（Lévy 最优归约）；凭证 2026-11-10；籍属/生卒联网查证：GND 规范标目 143319191（Lévy, Jean-Jacques，2026-11-22 查；单源，已人工过目，凭证 gnd-verdict-2026-11-22.tsv） | 2026-11-26 |
 | Levy, Steven | — | 史蒂文·利维 | 美国 | 1951– | it-moral-values | 新闻与科技史通行音译（《黑客》作者）；凭证 2026-11-10 | 2026-11-10 |
 | Lewens, Tim | — | 蒂姆·卢文斯 | 英国 | 1974– | fitness | 学界通行音译（剑桥生物学哲学家）；凭证 2026-11-13；籍属/生卒联网查证：GND 规范标目 gnd 133048152（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Lewes, George Henry | — | 乔治·亨利·刘易斯 | 英国 | 1817–1878 | george-eliot | 学界通行汉译（哲学家、批评家，艾略特伴侣） | 2026-11-12 |
@@ -4450,7 +4450,7 @@
 | Tavani, Herman | — | 赫尔曼·塔瓦尼 | 美国 | — | it-moral-values | 学界通行音译（信息伦理学）；凭证 2026-11-10 | 2026-11-10 |
 | Tayasu Munetake | — | 田安宗武 | 日本 | 1715–1771 | kokugaku-school | 学界通行汉译；凭证 2026-11-04；籍属/生卒联网查证：Wikidata Q2439046（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Taylor, Alan D. | — | 艾伦·泰勒 | 美国 | 1947– | social-procedures | 构词直译（公平分配研究者）；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 114332959（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
-| Taylor, C.C.W. | — | C.C.W. 泰勒 | — | 1936 | democritus | 学界惯例（原子论译注名家；名缩写保留）；籍属/生卒联网查证：GND 规范标目 123352126（Taylor, C. C. W.，2026-11-22 查；单源，已人工过目，凭证 gnd-verdict-2026-11-22.tsv） | 2026-11-22 |
+| Taylor, C.C.W. | — | C.C.W. 泰勒 | — | 1936– | democritus | 学界惯例（原子论译注名家；名缩写保留）；籍属/生卒联网查证：GND 规范标目 123352126（Taylor, C. C. W.，2026-11-22 查；单源，已人工过目，凭证 gnd-verdict-2026-11-22.tsv） | 2026-11-26 |
 | Taylor, Charles | — | 查尔斯·泰勒 | 加拿大 | 1931– | hegel-social-political | 学界通行汉译；籍属/生卒联网查证：Wikidata Q311757（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Taylor, Harriet A. / Harriet Taylor | — | 哈丽雅特·泰勒 | 英国 | 1807–1858 | 语料回收（全目录）；william-jevons | 学界惯例（杰文斯之妻）；凭证 2026-11-07；2026-11-13 重复行合并（旧键 `Harriet Taylor`）；籍属/生卒联网查证：Wikidata Q240782（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Taylor, Jacqueline | — | 泰勒 | 美国 | 1951– | hume-aesthetics | 学界惯例音译（本词条引用文献作者；正文以姓行文）；凭证 2026-11-08；籍属/生卒联网查证：GND 规范标目 gnd 133516822（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
@@ -4739,7 +4739,7 @@
 | Wallis, John | — | 约翰·沃利斯 | 英国 | 1616–1703 | newton | 数学史通行汉译（无穷小分析先驱）；凭证 2026-11-08；籍属/生卒联网查证：GND 规范标目 gnd 118771167（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Walpole, Horace | — | 霍勒斯·沃波尔 | 英国 | 1717–1797 | origin-descent | 学界通行汉译（英国文人）；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 118628844（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Walsh, Denis | — | 丹尼斯·沃尔什 | 加拿大 | 1958– | fitness | 学界通行音译（多伦多生物学哲学家）；凭证 2026-11-13；籍属/生卒联网查证：GND 规范标目 gnd 173485545（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
-| Walter Kinder | Walter Kinder | Walter Kinder | — | 1909 | scholz | ADR-0022：无通行汉名者保留英文；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 125186479（Kinder, Walter，2026-11-22 查；单源，已人工过目，凭证 gnd-verdict-2026-11-22.tsv）；2026-11-25 译法列归一：原填“保留英文（无通行汉名）”占位，改填英文原名形，与其余 ADR-0022 行口径一致 | 2026-11-25 |
+| Walter Kinder | Walter Kinder | Walter Kinder | — | 1909–1998 | scholz | ADR-0022：无通行汉名者保留英文；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 125186479（Kinder, Walter，2026-11-22 查；单源，已人工过目，凭证 gnd-verdict-2026-11-22.tsv）；2026-11-25 译法列归一：原填“保留英文（无通行汉名）”占位，改填英文原名形，与其余 ADR-0022 行口径一致；2026-11-26 补卒年：en/scholz 正文括注 Walter Kinder (1909–1998)（与 GND 生年 1909 一致） | 2026-11-26 |
 | Walter Mignolo | — | 瓦尔特·米尼奥洛 | 阿根廷／美国 | 1941– | 语料回收（全目录） | 学界通行音译；籍属/生卒联网查证：Wikidata Q497968（2026-11-24 查，凭证 people-wikidata-2026-11-24-b12.tsv）；殖民性差异与去殖民选项 | 2026-11-24 |
 | Walther, Gerda | — | 格尔达·瓦尔特 | 德国 | 1897–1977 | reinach | 学界通行汉译（社会现象学）；凭证 2026-11-09；籍属/生卒联网查证：GND 规范标目 gnd 118628992（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Walton, Kendall | — | 肯德尔·沃尔顿 | 美国 | 1939– | erotic-art | 学界通行（分析美学）；籍属/生卒联网查证：GND 规范标目 gnd 139120203（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
@@ -4990,7 +4990,7 @@
 | Yi Sŏnggye | 李成桂 | 李成桂 | 朝鲜 | 1335–1408 | korean-confucianism | 汉文传统写法（朝鲜太祖）；籍属/生卒联网查证：Wikidata Q378483（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Yi Sugwang | 李睟光 | 李睟光 | 朝鲜 | 1563–1628 | korean-confucianism | 汉文传统写法（朝鲜文臣，号芝峰，《芝峰类说》作者）；籍属/生卒联网查证：韩国学典（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Yi Sŭnghun | 李承薰 | 李承薰 | 朝鲜 | 1756–1801 | korean-confucianism | 汉文传统写法（朝鲜早期天主教领袖，1784 年北京受洗）；籍属/生卒联网查证：韩国学典（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
-| Yin Xian | — | 尹咸 | — | 1943 | chinese-phil-science | 上游自带汉字（汉太史，《数术略》辑者）；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 1048302512（Yin, Xian，2026-11-22 查；单源，已人工过目，凭证 gnd-verdict-2026-11-22.tsv） | 2026-11-22 |
+| Yin Xian | — | 尹咸 | — | — | chinese-phil-science | 上游自带汉字（汉太史，《数术略》辑者）；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 1048302512（Yin, Xian，2026-11-22 查；单源，已人工过目，凭证 gnd-verdict-2026-11-22.tsv）；2026-11-26 核：尹咸为汉代太史（《数术略》辑者），在册 1943 取自 GND 1048302512（Yin, Xian，现代同名者），年代不可能，清为“—” | 2026-11-26 |
 | Yohay, Shim'on Bar | — | 希姆翁·巴尔·约海 | — | — | delmedigo | 音译（阿拉姆语 bar 形照源直译；犹太学亦作“西门·本·约海”） | 2026-11-06 |
 | Yorck von Wartenburg, Hans David Ludwig | — | 汉斯·大卫·路德维希·约克·冯·瓦滕堡 | 德国 | 1752–1830 | yorck | 学界通行音译（普鲁士元帅，《陶罗根公约》签署者，保罗之祖父）；凭证 2026-11-11 | 2026-11-11 |
 | Yorck von Wartenburg, Hans Ludwig Paul | — | 汉斯·路德维希·保罗·约克·冯·瓦滕堡（保罗·约克·冯·瓦滕堡伯爵） | 德国 | 1835–1897 | yorck | SUMMARY 定名（y/yorck 主行）；学界通行音译；凭证 2026-11-11 | 2026-11-11 |
