@@ -1,75 +1,96 @@
 # 会话开工卡：多会话分批执行交接（specs/005）
 
-**版本**：v1.0 | **日期**：2026-10-27 | **用途**：新会话拿此卡即可独立开工，无需其他上下文
-**前置阅读**：`specs/005-translation-campaign/parallel-design.md`（批次模型与会话协议）
+**版本**：v2.0 | **日期**：2026-11-26（v1.0 2026-10-27，旧断点已随全库置空作废，留档见 §7）
+**用途**：新会话拿此卡即可独立开工，无需其他上下文
+**前置阅读**：`specs/005-translation-campaign/parallel-design.md`（批次模型与会话协议）、`rules/08-intent-first.md`、`rules/04-translation-workflow.md`
 
-## 1. 开工三件事（每个会话）
+## 0. 现状（2026-11-26 复账；数字现查，不在本卡复制）
+
+| 事实 | 口径 |
+| --- | --- |
+| 正式词条 1873 件**全部** `state=cleared`、正文仅 H1 | ADR-0081/0082 全库置空，重译起点 |
+| 任务账 1873＝SUMMARY 链接 1873＝journal 1873，`version_pin` 100% 齐 | `PROGRESS.md`、`task_ops.py show` |
+| journal：1800 件无事件、73 件仅 `fetch_entry` 的 `lock` 记录 | 均属未开工 |
+| 批次账 27 批已清空认领（2026-11-26 复账），phase 仅作历史阶段记录 | `campaign.py status` |
+| 现行 `campaign.py next` 应指向 `a` 批 | 阶段机只进不退，`done` 批按 phase 跳过 |
+| 术语表 8948 行、人名表 4974 行，由独立线推进（§4），不阻塞翻译 | `check_terms.py` |
+
+**不要**凭本卡判断进度：一律跑 `python tools/campaign.py status` 与看 `PROGRESS.md`（journal 口径，由 `tools/progress.py` 生成）。
+
+## 1. 开工四件事（每个会话）
 
 ```
-python tools/campaign.py status          # 全局统计表（断点即在此）
-python tools/campaign.py next            # 取未认领批次建议
+python tools/sync_guard.py pull            # 落后不干活（ADR-0028）
+python tools/campaign.py status            # 全局统计表（断点即在此）
+python tools/campaign.py next              # 取未认领批次建议
 python tools/campaign.py claim <批次> --session <你的会话名>
 ```
 
-开工前先按 `rules/08-intent-first.md` 写方向声明：本批目标、非目标与完成判据（以本卡 §3 的阶段判据为准）；批次或词条范围含糊时先问不猜。
+开工前按 `rules/08` 写方向声明：本批目标、非目标与完成判据（以 §3 为准）；批次或词条范围含糊时先问不猜。动笔翻译前先钉基准：该批 `yuanwen/` 镜像 commit 与转换器版本写入首批任务 evidence（`rules/08` §9）。
 
 ## 2. 分工（按此优先级领取）
 
 | 阶段 | 内容 | 认领方式 | 前置 |
 | --- | --- | --- | --- |
-| **A. 工作流验证**（首个会话，P0） | Wave 0 五词条**翻译**全流程实跑：abduction（短）、logic-classical（1545 公式）、action-perception（含图）、bayes-theorem（脚注+表格）、set-theory（补充材料）——specs/005 Wave 0 | 手动认领 `a/c/l/b/s` 批次中对应词条 | 无——**批量翻译须等本阶段通过** |
-| **B. 批次预处理**（可 N 会话并行） | 各批 intake → fetch → convert 三阶段（`campaign.py next` 领批） | `campaign.py claim` | 无——可与阶段 A 并行 |
-| **C. 批次翻译**（可 N 会话并行） | 各批 translate 阶段：`campaign.py slugs <批>` 逐词条 `task_ops.py create --kind retranslate` + 状态机 | `campaign.py claim` | **阶段 A 验收通过后** |
+| **预处理**（可 N 会话并行） | 各批 intake → fetch → convert 三阶段 | `campaign.py claim` | 无 |
+| **翻译**（可 N 会话并行） | 批内词条逐条 `task_ops.py create <slug> --kind retranslate` → 状态机全流程 | `campaign.py claim` | 该件基线已建、镜像已转换 |
 
-当前批次状态（2026-11-08 复核）：27 批全部已认领、均处 translate 阶段；done 计数以 `PROGRESS.md`／`campaign.py status` 现查为准（生成物，本卡不复制数字，避免并行会话推进后过期）；断点与 next 建议随时以 `campaign.py status` / `campaign.py next` 现查，评审线 r1–r3 接管见 §6。
+原 v1.0 的 Wave 0 五词条验证已于 2026-11 完成，不再要求单独认领；旧「A/C/L/B/S 批次对应词条」约定随之失效。
 
 ## 3. 各阶段的标准作业（每批次）
 
 | phase | 命令 | 完成判据 |
 | --- | --- | --- |
-| intake | `python tools/summary_sync.py report` 查看 ADD 队列；逐条 `apply-add <slug> --title-zh "译名"`（译名先登记 shu-yu-biao.md，沿用集群命名惯例） | `report` 队列清空 |
+| intake | `python tools/summary_sync.py report` 查看 ADD 队列；逐条 `apply-add <slug> --title-zh "译名"`（译名先登记 `shu-yu-biao.md`，沿用集群命名惯例） | `report` 队列清空 |
 | fetch | `python tools/fetch_entry.py $(python tools/campaign.py slugs <批>)`；`fetch_audit.py $(...)` 补缺件 | `campaign.py status` 该批 基线=总 |
-| convert | `python tools/yuanwen.py $(python tools/campaign.py slugs <批>)` | 该批 镜像=总 |
-| translate | 逐词条 `task_ops.py create <slug> --kind retranslate` → clear → draft → s1→s2→s3→r1→r2→r3 → done（s3/r3 学术＋公式挂钩自动拦截）；**开工先钉基准**：该批 yuanwen/ 镜像 commit 与转换器版本写入首批任务 evidence（rules/08 §9，D31）；**骨架与元素映射一律照 [fan-yi-mu-ban.md](fan-yi-mu-ban.md)**；s1 含文献还原：脚注定义条中的中国文献按 [ADR-0011](../../rules/adr/0011-引文原文语言与中文文献翻译.md) 译为中文（定位 `tools/biblio_audit.py <slug>`，译名对 shu-yu-biao.md“文献译名”表，三来源幻觉防线） | 该批 done=总 |
-| 收口 | `campaign.py advance <批> done`；`check_all` 全绿；G4 记录入 specs/001 execution-log | 批次 phase=done |
+| convert | `python tools/yuanwen.py $(python tools/campaign.py slugs <批>)` | 该批 镜像=总；`check_yuanwen_fidelity --gate` 绿 |
+| translate | 逐词条 `task_ops.py create <slug> --kind retranslate` → 按 `rules/04` 状态机推进（节点名以 `task_ops.py show` 与 ADR-0080 为准：`tr-*`／`rv-*`／`sg-*`／`ex-*`）；**开工先钉基准**；骨架与元素映射照 [fan-yi-mu-ban.md](fan-yi-mu-ban.md)；s1 含文献还原（ADR-0011，定位 `tools/biblio_audit.py <slug>`，译名对 `shu-yu-biao.md` 文献译名表，三来源幻觉防线） | 该件走完核心段与强制集（口径见 `PROGRESS.md`） |
+| 收口 | `campaign.py advance <批> done`；`check_all` 全绿；G4 记录入 `specs/001-sep-sync-pipeline/execution-log.md` | 批次 phase=done |
 
-每阶段完成后：`campaign.py advance <批次> <下一阶段> --note "计数依据"`。**账本阶段只在事实满足时推进**（note 写明计数）。
+每阶段完成后：`campaign.py advance <批次> <下一阶段> --note "计数依据"`。**账本阶段只在事实满足时推进**（note 写明计数）。注意 `advance --note` 会覆盖该批 note 历史，只在确需改写时使用。
 
-> **工作量提示（ADR-0011）**：含中国文献的词条（chinese-*簇约 30 条 + 全库罗马化线索约 170–280 条，探针见 `tools/biblio_audit.py --all` 的 flagged）文献还原额外 +10–15% 工时；认领 chinese-* 簇的会话按此排程。
+> **工作量提示（ADR-0011）**：含中国文献的词条（`chinese-*` 簇约 30 条 + 全库罗马化线索约 170–280 条，探针见 `tools/biblio_audit.py --all` 的 flagged）文献还原额外 +10–15% 工时。
 
-## 4. 纪律（违反即返工）
+## 4. 并行线（不占批次，独立交接）
+
+| 线 | 范围 | 目录 | 交接要点 |
+| --- | --- | --- | --- |
+| 人名表 | 籍属/生卒补捞、译法归一、撞形处置 | `specs/013-person-attribution/` | 缺项已判终态者按 `check_terms` 终态口径，不反复回填 |
+| EN 模板审计 | 模板分级、三类目、逆向装配 | `specs/053-en-template-audit/` | `en/` 绝对冻结（ADR-0062），改动只走补丁池与勘误表 |
+| 术语 | 全库二次提取、审定库配对、候选池裁定 | `specs/058-term-full-reextraction/`、`tasks/term-pool.json` | 池是库存不是欠账，按词条取用 |
+| 流程审计 | 流程规格逐件核对与排程 | `specs/064-flow-spec-audit/` | rev16 排程见 `results/schedule.md`，全部标未启动 |
+
+各线开工同样先 `sync_guard pull`，收工 `check_all` 绿。
+
+## 5. 纪律（违反即返工）
 
 1. **只动你认领的批次**；协调只经账本（提交），不共享进行中文件。
-2. **推送先 `git pull --rebase`**；账本冲突 rebase 后重放 advance（幂等）。
-3. **零信任**：既有译文不作底稿；术语先登记 shu-yu-biao.md 后使用。
-4. **抓取礼貌** ≥5 秒/请求；429 即收敛并记录。
-5. **不备份文件**（用户裁定，git 即管理）；`script/` 为个人草稿区。
-6. **中断随时可停**：重跑 `status` 即断点，工具全部幂等。
-7. 演练/试跑产生的假任务与假变更文件必须清理，状态复位 pending 并留痕。
+2. **推送先 `git fetch` + `pull --rebase`**；账本冲突 rebase 后重放 advance（幂等）；禁 force。
+3. **零信任**：既有译文不作底稿；术语先登记 `shu-yu-biao.md` 后使用。
+4. **禁子代理**（ADR-0034）：翻译与复核由主代理单干，唯一例外是用户当轮显式批准并写明范围。
+5. **抓取礼貌** ≥5 秒/请求；429 即收敛并记录。
+6. **不备份文件**（git 即管理）；`script/` 为个人草稿区。
+7. **中断随时可停**：重跑 `status` 即断点，工具全部幂等。
+8. 演练/试跑产生的假任务与假变更文件必须清理，状态复位 pending 并留痕。
 
-## 5. 验收与升级
+## 6. 评审线接管
+
+- 全库置空后**无 s3 存量**，原先「R-main-20261108 接管 77 条 r1→r3」的安排自动终止。
+- 重译产出的评审仍按件走 `rv-*`／`sg-*` 节点；`r3` 默认停在上一节点，`advance --step r3` 必须带 `--mandate`，且指定的 mandate 不继承（ADR-0054）。
+- 复核独立性：actor 须异于原初译，或 evidence 记明冷置回读/密度统计补偿。
+
+## 7. 已作废条目（留档，勿再执行）
+
+| 条目 | 作废原因 |
+| --- | --- |
+| 27 批 `translate` 旧断点（2026-11-08~24 的 done 计数与认领） | 全库置空（ADR-0081/0082），计数已归零；2026-11-26 清空认领 |
+| Wave 0 五词条验证 | 2026-11 已完成 |
+| 411 件 `s2.4_termchecked` 体例归一重走队列（specs/039） | 随置空清零，不再有该状态存量 |
+| R-main 评审线存量接管（§6 旧文） | 无 s3 存量 |
+| 参考文献英文小节标题汉化的待裁定项 | 随重译按 `fan-yi-mu-ban.md` 重新决定 |
+
+## 8. 验收与升级
 
 * 批次收口 → G4 记录（doctrine 最小字段）入 `specs/001-sep-sync-pipeline/execution-log.md`。
-* 批次收口 → **语体结论第二读者抽查**：抽 3 条该批 done 词条复核 s2/r1 语体结论与证据句（specs/015 验收判据 3 常态化，D29；交叉由他会话/人工执行，ADR-0034 相容）。
-* 阶段 A 验收 → checklist 见 `specs/005-translation-campaign/checklist.md`。
-* 规划书修订（暴露问题回流）→ specs/005 spec.md 版本号 v1.x + 提交说明。
-* 技术债务消化 → specs/004 登记表逐项标记。
-
-## 6. 评审线接管（2026-11-08，用户裁定）
-
-**R-main-20261108 会话负责全部 s3_checked 存量的 r1→r2→r3→done**（当日接管 77 条，约 78 万英文词；用户裁定"现在全部由你负责，不用子代理"，主会话直审）。各词条责任以任务 JSON `steps[].actor` 为准，无需按批次重新认领；原初译会话**不要再自行推进这些词条的 r1–r3**（复核独立性由评审会话满足）。队列顺序与进度看 `tasks/` 状态（s3_checked 只减不增即本线产出）。
-
-## 7. 体例归一重走队列（ADR-0063／specs/039，2026-11-17 移交）
-
-**事实**：408 件在途件经 specs/039 P8 受控回退置于 `s2.4_termchecked`（另 3 件早期件同态），合计 **411 件待重走**；回退只置状态位次，正文未动。回退面与机检底单见 `specs/039/results/revert-ledger-residual-20261117.json` 及 039 execution-log。
-
-**重走工序**（每件，按字头批次认领，`task_ops.py show <slug>` 取件）：
-
-1. **s2.4 三轴增项**（状态不迁，补做后留 evidence）：术语轴 `check_terms --docs`（告警按 rules/03 D1–D5 逐条定性、三出口）；体例轴 `check_pairs --gate`＋`check_style`（P8 台账已跑绿，重走时复跑确认）；勘误轴——该件若在全局勘误表有行，核正确读法在位＋读者可见处译注在位。
-2. `advance --step s25`：机检自动挂 **术语＋体例/勘误＋审计（`check_math_zh`）＋同源独立性**；任一红即拦，禁跳过。
-3. s25 语义部分：两轴比对记录（逐段＋全局）、语体审阅（破折号／“一个”／AI 腔）、散布统计入 evidence；同源盲区对冲——actor 须异于原初译，或 evidence 记明冷置回读/密度统计补偿。
-4. `s3 → r1 → r2` 全重走（r3 仅用户显式指定会话，ADR-0054）；update 任务各步 evidence 以 `changes:` 开头。
-
-**已知必拦件（重走前先修）**：`ibn-sina`（引文多重引号错位，需对照源重排）；`implicature-optimality-games`、`quine-nf`（数学记号区引号，待 check_math 面裁定）。
-
-**纪律**：不得为过闸而调整正文措辞（体例归一不改词面）；红件修复属该件翻译工序，禁止跨件批量套改；本队列的收口判据＝`PROGRESS.md` 中 `s2.4_termchecked` 归零、`check_all` 13 项全绿。
+* 批次收口 → **语体结论第二读者抽查**：抽 3 条该批完成词条复核语体结论与证据句（specs/015 判据，D29；ADR-0034 相容）。
+* 规划书修订（暴露问题回流）→ `specs/005` spec.md 版本号 + 提交说明。

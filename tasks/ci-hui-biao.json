@@ -59,12 +59,21 @@
       "actor": "reconcile-2026-11-19",
       "at": "2026-11-18T17:27:01Z",
       "evidence": "原指 qian-yan/ci-hui-biao.md 已于 5b8ab13b7（2026-11-13）并入 shu-yu-biao.md（ADR-0036 并网原发布词汇表），指针随并网更新；specs/052 §2"
+    },
+    {
+      "step": "archive-2026-11-26",
+      "status": "ok",
+      "actor": "zcode-四表复核",
+      "at": "2026-11-26T00:00:00+08:00",
+      "evidence": "维护账归档：todo 4 个 pending 子项全部标 superseded（承接方：候选池 tasks/term-pool.json、历史 manifest tasks/manifests/、现行登记册 shu-yu-biao.md 与 ren-ming-biao.md）；删去已删文件路径引用（原发布表、原登记簿、原复核报告）"
     }
   ],
   "todo": [
     {
       "item": "从 git 提交信息增补修订词汇表（总任务，持续）",
-      "status": "pending",
+      "status": "superseded",
+      "superseded_at": "2026-11-26",
+      "superseded_reason": "词汇表已于 2026-11-13 并网删除（ADR-0036），本账仅作历史留档；后续增补走两登记册与候选池，不再由本任务推进",
       "subtasks": [
         {
           "item": "找回标准化合并中可能丢失的行：将 2024 年 13 条“词汇表”提交（d9d2942f、570a25a0、6acb4b7d、f0064f0c、78138117、2551e56d、a46dd663、745fee67、bd21366c、e77fb6f3、c5c752fc、ed047338、54c24bcf）逐一 git show 提取增删行，与 bb2793a0 合并版比对，缺者补录",
@@ -72,26 +81,39 @@
           "evidence": "2026-10-27 script/recover_lost_rows.py：13 条提交的全部新增行经折叠键比对均存在于当前表（706 行），零丢失，债清"
         },
         {
-          "item": "14 条全文型提交（信息即整篇旧译文：701ecbfd 二谛、9ae16e8a/c6b0567e 空间与运动、39e1aac7、ccab7bfc 亚里士多德著作、a0c1bfb5 论证、1463bf6c 拉姆齐、876add05、afb955fe 形而上学解释、12bd2336、fd416c8b 富勒、ce8599fe 欧陆女性主义、bdccafe6 情绪、2dd3b749 残疾与健康）按词条重译时回收其中的术语译名",
-          "status": "pending"
+          "item": "14 条全文型提交（信息即整篇旧译文）按词条重译时回收其中的术语译名",
+          "status": "superseded",
+          "superseded_at": "2026-11-26",
+          "superseded_by": "specs/058 全库术语提取（候选池 tasks/term-pool.json 承接，语料回收行由该线入册）",
+          "mined_commits": "701ecbfd 二谛、9ae16e8a/c6b0567e 空间与运动、39e1aac7、ccab7bfc 亚里士多德著作、a0c1bfb5 论证、1463bf6c 拉姆齐、876add05、afb955fe 形而上学解释、12bd2336、fd416c8b 富勒、ce8599fe 欧陆女性主义、bdccafe6 情绪、2dd3b749 残疾与健康",
+          "evidence": "2026-11-26 复核：058 已对全库语料做术语提取并分批复核入册（published 约 2.7k），本子项目标已由该线覆盖"
         },
         {
-          "item": "登记-发布双向同步：每个词条翻译任务在 yi-zhe-shuo-ming.md 登记的裁定行，任务收尾时反向合并进 qian-yan/ci-hui-biao.md，防止两表漂移",
-          "status": "pending"
+          "item": "登记-发布双向同步：词条翻译任务的裁定行在任务收尾时反向合并进发布表，防止两表漂移",
+          "status": "superseded",
+          "superseded_at": "2026-11-26",
+          "superseded_by": "两表合一（ADR-0036）；正文用词与登记册一致性由 tools/check_terms.py --docs 定点核销承担",
+          "evidence": "2026-11-26 复核：发布表已删除，不存在两表漂移；反向合并机制随之作废"
         },
         {
-          "item": "裁定沿革留痕：Token 一词 2024-05-11 43ea5ea2 裁“个体”（令牌→个体），2026-10-27 复核改裁“殊例”（消除与 Individuals 的中文碰撞），沿革记入 fang-fa-lun/ci-hui-biao-fu-he-bao-gao.md，不进发布表",
-          "status": "pending"
+          "item": "裁定沿革留痕：Token 一词 2024-05-11 裁“个体”，2026-10-27 复核改裁“殊例”（消除与 Individuals 的中文碰撞）",
+          "status": "superseded",
+          "superseded_at": "2026-11-26",
+          "superseded_by": "shu-yu-biao.md 该行依据列的裁定记录；原复核报告文件已随并网删除",
+          "evidence": "2026-11-26 复核：沿革信息已落在登记册行内（依据列），不再单设报告文件"
         },
         {
-          "item": "裁定 tasks/term-candidates.json 中 55 条候选（suggest 列为建议译法，标待核者需联网复核）：通过者登记 yi-zhe-shuo-ming.md 后并入 qian-yan/ci-hui-biao.md；语料扩充（新增词条抓取）后重跑 script/extract_terms.py 增量提取",
-          "status": "pending",
-          "note": "2026-10-27 首批完成：37 条已发布（published），held 14 条随相关词条或下一批次，rejected 6 条已注明理由；余下 held 条目继续挂起"
+          "item": "裁定 tasks/term-candidates.json 中的候选（首批 55 条，suggest 列为建议译法，标待核者需联网复核）；通过者登记后并表；语料扩充后重跑提取器增量提取",
+          "status": "superseded",
+          "superseded_at": "2026-11-26",
+          "superseded_by": "tasks/term-pool.json（现行候选池）与 tasks/manifests/（历史 manifest）",
+          "evidence": "2026-11-26 复核：term-candidates.json 保留 58 条历史候选（含首批 published 记录），现行候选池 71913 条、由 check_term_pool 管不变量；首批 55 条已按批裁定完毕（37 published、held 后续结算、rejected 有理由）"
         }
       ]
     }
   ],
   "blockers": [],
   "created_at": "2026-10-27T02:40:00+08:00",
-  "notes": "2026-11-13 随 ADR-0036 并网收官：发布词汇表已删除，本任务账留档不再推进。遗留送审 5 条人名译法冲突见执行记录第四节。"
+  "archived_at": "2026-11-26",
+  "notes": "2026-11-13 随 ADR-0036 并网收官：发布词汇表已删除，本任务账留档不再推进。2026-11-26 归档：全部 pending 子项标 superseded 并写明承接方；遗留送审 5 条人名译法冲突见执行记录第四节（随两册复核处置）。本账不参与状态机调度，不在 tasks/<letter>/ 下，不进门禁账实核对。"
 }

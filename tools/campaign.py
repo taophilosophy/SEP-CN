@@ -187,6 +187,8 @@ def cmd_next(args):
         meta = d["batches"].get(b, {})
         if meta.get("claimed_by"):
             continue
+        if meta.get("phase") == "done":
+            continue  # 批次已收口（2026-11-26：全库置空后计数不再代表收口，以 phase 为准）
         c = batch_counts(b)
         if c["done"] >= c["total"] and c["total"] > 0:
             continue  # 已完成
