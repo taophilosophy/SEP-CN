@@ -213,9 +213,9 @@ A natural response to this kind of objection would be to require that the extens
 
 $$ \cq{\#\phi}~\text{is true on an assignment } a \text{ just in case }\\ \phi \text{ is not true on } a \text { and water is } H_{2}O. $$
 
-Assuming that Kripke (1971; 1980)[^kripke-1971][^kripke-1980] is right that water is *necessarily* H_{2}O, $\dq{\#}$ has the same extension as $\dq{\neg}$ in every possible world, and so satisfies the permutation invariance criterion as a matter of necessity (McGee 1996, 578)[^mcgee-1996]. But intuitively, it does not seem that $\dq{\#}$ should be counted a logical constant.^{[[^note-18]]}
+Assuming that Kripke (1971; 1980)[^kripke-1971][^kripke-1980] is right that water is *necessarily* H₂O, $\dq{\#}$ has the same extension as $\dq{\neg}$ in every possible world, and so satisfies the permutation invariance criterion as a matter of necessity (McGee 1996, 578)[^mcgee-1996]. But intuitively, it does not seem that $\dq{\#}$ should be counted a logical constant.^{[[^note-18]]}
 
-One might evade this counterexample by appealing to an *epistemic* modality instead of a metaphysical one. This is McCarthy’s strategy (1987, 439). Even if it is metaphysically necessary that water is H_{2}O, there are presumably epistemically possible worlds, or information states, in which water is not H_{2}O. So if we require that a logical constant be permutation invariant as a matter of epistemic necessity (or *a priori*), $\dq{\#}$ does not count as a logical constant. But even on this version of the criterion, a connective like $\dq{\%}$, defined by
+One might evade this counterexample by appealing to an *epistemic* modality instead of a metaphysical one. This is McCarthy’s strategy (1987, 439). Even if it is metaphysically necessary that water is H₂O, there are presumably epistemically possible worlds, or information states, in which water is not H₂O. So if we require that a logical constant be permutation invariant as a matter of epistemic necessity (or *a priori*), $\dq{\#}$ does not count as a logical constant. But even on this version of the criterion, a connective like $\dq{\%}$, defined by
 
 $$ \cq{\%\phi}~\text{is true on an assignment } a \text{ just in case }\\ \phi \text { is not true on } a \text{ and there are no male widows.} $$
 
@@ -446,11 +446,11 @@ I am grateful to Fabrizio Cariani, Kosta Došen, Solomon Feferman, Mario Gómez-
 18. McGee backs up this intuitive claim with the following argument:
 
 1. If $\dq{\#}$ is a logical constant, then $\dq{\#\neg (0=0) \vee \neg (0=0)}$ is a logical truth (that is, it is true in every domain on every interpretation of its nonlogical constants).
-2. But $\dq{\#\neg (0=0) \vee \neg (0=0)}$ entails “water is H_{2}O”, which is not a logical truth.
+2. But $\dq{\#\neg (0=0) \vee \neg (0=0)}$ entails “water is H₂O”, which is not a logical truth.
 3. And logical truths entail only logical truths. Thus,
 4. $\dq{\#}$ is not a logical constant.
 
-The argument is problematic, because it is not clear what McGee means by “entails” in (2) and (3). If he has in mind the standard notion of logical implication (truth preservation on every domain and interpretation of the nonlogical constants), then (2) is false: $\dq{\#\neg(0=0) \vee \neg(0=0)}$ is true on every interpretation, but “water = H_{2}O” is false on many interpretations (those that assign distinct referents to the nonlogical constants “water” and “H_{2}O”). If he has in mind the standard modal notion of entailment ($A$ entails $B$ just in case it is impossible for $A$ to be true and $B$ false), then (3) is false, for in that sense of entailment, logical truths entail all necessary truths, not just other logical truths. Perhaps McGee has in mind some other notion of entailment that makes both premises true, but pending clarification on this point, the force of his argument remains unclear.
+The argument is problematic, because it is not clear what McGee means by “entails” in (2) and (3). If he has in mind the standard notion of logical implication (truth preservation on every domain and interpretation of the nonlogical constants), then (2) is false: $\dq{\#\neg(0=0) \vee \neg(0=0)}$ is true on every interpretation, but “water = H₂O” is false on many interpretations (those that assign distinct referents to the nonlogical constants “water” and “H₂O”). If he has in mind the standard modal notion of entailment ($A$ entails $B$ just in case it is impossible for $A$ to be true and $B$ false), then (3) is false, for in that sense of entailment, logical truths entail all necessary truths, not just other logical truths. Perhaps McGee has in mind some other notion of entailment that makes both premises true, but pending clarification on this point, the force of his argument remains unclear.
 
 19. An expression is a rigid designator if its denotation is constant across possible worlds. (See the entry on rigid designators.)
 

@@ -37,7 +37,7 @@ During the dawn of set theory Cantor showed that for every cardinal κ,
 
 There is no mystery about the size of 2^{*n*} for finite *n*. The first natural question then is where 2^{ℵ₀} is located in the aleph-hierarchy: Is it ℵ₁, ℵ₂, …, ℵ₁₇ or something much larger?
 
-The cardinal 2^{ℵ₀} is important since it is the size of the continuum (the set of real numbers). Cantor's famous *continuum hypothesis* (CH) is the statement that 2^{ℵ_{0}} = ℵ₁. This is a special case of the *generalized continuum hypothesis* (GCH) which asserts that for all α, 2^{ℵ_{α}} = ℵ_{α+1}. One virtue of GCH is that it gives a complete solution to the problem of computing κ^{λ} for infinite cardinals: Assuming GCH, if κ ≤ λ then κ^{λ} = λ⁺; if cf(κ) ≤ λ ≤ κ then κ^{λ} = κ⁺; and if λ < cf(κ) then κ^{λ} = κ.
+The cardinal 2^{ℵ₀} is important since it is the size of the continuum (the set of real numbers). Cantor's famous *continuum hypothesis* (CH) is the statement that 2^{ℵ₀} = ℵ₁. This is a special case of the *generalized continuum hypothesis* (GCH) which asserts that for all α, 2^{ℵ_{α}} = ℵ_{α+1}. One virtue of GCH is that it gives a complete solution to the problem of computing κ^{λ} for infinite cardinals: Assuming GCH, if κ ≤ λ then κ^{λ} = λ⁺; if cf(κ) ≤ λ ≤ κ then κ^{λ} = κ⁺; and if λ < cf(κ) then κ^{λ} = κ.
 
 Very little progress was made on CH and GCH. In fact, in the early era of set theory the only other piece of progress beyond Cantor's result that 2^{κ} > κ (and the trivial result that if κ ≤ λ then 2^{κ} ≤ 2^{λ}) was König's result that cf(2^{κ}) > κ. The explanation for the lack of progress was provided by the independence results in set theory:
 

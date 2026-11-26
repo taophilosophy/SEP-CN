@@ -353,7 +353,7 @@ Sometimes, moreover, Chomsky seems to capitulate almost entirely to Quine:
 
 Indeed:
 
-> With regard to “meaning holism” [Quine] may well turn out to be correct, at least in large part. (2000, p. 61; cf., ASD §3.4fn13).^{[[^note-34]]}
+> With regard to “meaning holism” [Quine] may well turn out to be correct, at least in large part. (2000, p. 61; cf., ASD §3.4fn13).[^note-34]
 
 However, despite all of Chomsky’s vacillations, the really important point to bear in mind is his *methodological* one:
 

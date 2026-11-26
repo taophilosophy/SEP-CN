@@ -40,7 +40,7 @@ BLOCK_OPEN_RE = re.compile(
 MATH_RE = re.compile(r'(\$\$.*?\$\$|\\\[.*?\\\]|\\\(.*?\\\))', re.S)
 SUP_KEEP_RE = re.compile(r'<(su[bp])>.*?</\1>', re.S | re.I)
 NOTE_REF_RE = re.compile(
-    r'<sup>\s*\[?\s*<a\s+href="notes\.html#(?P<ref>[A-Za-z0-9_-]+)"[^>]*>\s*\d*\s*</a>\s*\]?\s*</sup>', re.I)
+    r'<sup>\s*\[?\s*<a\s+href="notes\.html#(?P<ref>[A-Za-z0-9_-]+)"[^>]*>\s*[^<]*\s*</a>\s*\]?\s*</sup>', re.I)
 SPECIAL_DIV_RE = re.compile(r'pubinfo|preamble|figure|bibliography', re.I)
 SKIP_DIV_RE = re.compile(r'\btoc\b', re.I)
 CROSS_MATH_RE = re.compile(r'(\\\[.*?\\\]|\\\(.*?\\\))', re.S)
@@ -283,9 +283,16 @@ def _subsup_md(inner, mapping, marker):
     """<sub>/<sup> 内容整体可映射 → Unicode 原生字符；否则保持纯文本记号。
 
     内容含标签/强调（如 <sub><i>x</i></sub>）或无原生字形的字符时不可映射，
-    维持 _{…}/^{…} 交由站点渲染层处理（2026-10-28 裁定）。"""
-    if inner and all(ch in mapping for ch in inner):
-        return ''.join(mapping[ch] for ch in inner)
+    维持 _{…}/^{…} 交由站点渲染层处理（2026-10-28 裁定）。
+
+    表现型包裹（`<font size="2">`／`<span …>`）先剥再判（specs/053 第五十四批，
+    logical-constants 判例）：H0 的 `<sub><font size="2">2</font></sub>` 内层带
+    font，旧式判不可映射 → md 留 `_{2}`；R 回 `<sub>2</sub>` 后 C 可映射 →
+    `₂`，两遍不对称、B3.1 恒红。只剥纯表现层，不剥 em/i/strong（`_{<i>def</i>}`
+    的斜体语义必须保留）。"""
+    plain = re.sub(r'</?(?:font|span)\b[^>]*>', '', inner)
+    if plain and all(ch in mapping for ch in plain):
+        return ''.join(mapping[ch] for ch in plain)
     return marker % inner
 
 

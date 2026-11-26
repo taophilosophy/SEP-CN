@@ -40,7 +40,7 @@ In our murder example above, assume we want to compute $P\left(guilty, \lnot wea
 
 $$\begin{align*} P\Big(guilty, &\lnot weapon, \lnot intuition, PriceTChina =5\Big) = \\ &P\left(guilty\right) P\left(\lnot weapon \ggiven guilty \right) \times \\ &P\left(\lnot intuition \ggiven guilty \right) \times \\ &P\left(PriceTChina =5\right) \end{align*}$$
 
-The Bayes net for the problem is shown fleshed out below. The values in the Bayes net below were computed using the table for the joint distribution of $\mathbf{P}(\Guilty,\Weapon,\Intuition)$ given above.^{[[^note-b1]]}
+The Bayes net for the problem is shown fleshed out below. The values in the Bayes net below were computed using the table for the joint distribution of $\mathbf{P}(\Guilty,\Weapon,\Intuition)$ given above.[^note-b1]
 
 ![Same network as above with conditional probability tables](../assets/artificial-intelligence/guilty_baysiannet2.png)
 
@@ -50,7 +50,7 @@ Plugging in the values from the Bayes net into the equation gives us:
 
 $$\begin{aligned} &P\Big(guilty, \lnot weapon, \lnot intuition, PriceTChina =5\Big) \\ &\qquad\qquad= 0.304 \times 0.26 \times 0.08 \times 0.40\\ &\qquad\qquad= 0.0025 \end{aligned}$$
 
-Earlier, we observed that the full joint distribution can be used to infer an answer to queries about the domain. Given this, it follows immediately that Bayesian networks have the same power. But in addition, there are much more efficient methods over such networks for answering queries. These methods, and increasing the expressivity of networks toward the first-order case, are outside the scope of the present entry. Readers are directed to *AIMA*, or any of the other textbooks affirmed in this entry.^{[[^note-b2]]}
+Earlier, we observed that the full joint distribution can be used to infer an answer to queries about the domain. Given this, it follows immediately that Bayesian networks have the same power. But in addition, there are much more efficient methods over such networks for answering queries. These methods, and increasing the expressivity of networks toward the first-order case, are outside the scope of the present entry. Readers are directed to *AIMA*, or any of the other textbooks affirmed in this entry.[^note-b2]
 
 
 ## Notes（原文脚注，引自主文）

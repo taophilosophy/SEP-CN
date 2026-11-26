@@ -1,9 +1,8 @@
 {
- "total": 45,
+ "total": 42,
  "counts": {
   "bib-keys": 24,
-  "text": 5,
-  "note-forms": 2,
+  "text": 4,
   "blank": 14
  },
  "items": [
@@ -23,11 +22,6 @@
    "why": "真文字差"
   },
   {
-   "slug": "binarium",
-   "fam": "note-forms",
-   "why": "注形往返"
-  },
-  {
    "slug": "buddhism-tiantai",
    "fam": "blank",
    "why": "空行/折行"
@@ -43,11 +37,6 @@
    "why": "空行/折行"
   },
   {
-   "slug": "chance-randomness",
-   "fam": "note-forms",
-   "why": "注形往返"
-  },
-  {
    "slug": "church",
    "fam": "blank",
    "why": "空行/折行"
@@ -61,11 +50,6 @@
    "slug": "continuity",
    "fam": "blank",
    "why": "空行/折行"
-  },
-  {
-   "slug": "continuum-hypothesis",
-   "fam": "text",
-   "why": "真文字差"
   },
   {
    "slug": "contract-law",

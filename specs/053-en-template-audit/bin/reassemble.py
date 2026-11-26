@@ -822,20 +822,45 @@ def _inline_md_to_html(text):
     # 块另在主循环装配为 <pre>（C 的 pre→fence 逆，digital-art/linguistics）。
     # sub/sup 记号（_{x}/^{x}）→ 标签；原生 Unicode 字形已由 C 直接产出，
     # R 不识别（原样文本，C 亦原样）。数学占位符内的记号不受影响。
-    def _sup_sub_repl(tag):
-        def rep(m):
-            # 前接字面 TeX 命令（`\x12`＋字母，C 侧双写反斜杠的裸排环境漏在
-            # 正文层：`\\phi_{100}`，formal-epistemology 判例）时保留字面，
-            # 不下标——H0 该处是正文层 TeX 文本而非 md 上标记号
-            if re.search("\x12[A-Za-z]+$", s[:m.start()]):
-                return m.group(0)
-            return "<%s>%s</%s>" % (
-                tag, _supsub_inner(m.group(1), SUB_MAP if tag == "sub" else SUP_MAP),
-                tag)
-        return rep
+    def _replace_supsub(s, lead, tag):
+        """平衡花括号扫描 `_{…}`/`^{…}`（specs/053 第五十四批）。
 
-    s = re.sub(r"_\{([^}]*)\}", _sup_sub_repl("sub"), s)
-    s = re.sub(r"\^\{([^}]*)\}", _sup_sub_repl("sup"), s)
+        旧式 `re.sub(r"_\\{([^}]*)\\}")` 不支持嵌套：`ℵ_{(|δ|^{cf(δ)})⁺}`
+        在 `^{cf(δ)}` 的 `}` 处截断，结构破坏后 C 再转出 `+}`，B3.1 恒红
+        （continuum-hypothesis 判例）。改深度配平，支持任意层嵌套。"""
+        res, i = [], 0
+        pat = lead + "{"
+        mp = SUB_MAP if tag == "sub" else SUP_MAP
+        while True:
+            j = s.find(pat, i)
+            if j < 0:
+                res.append(s[i:])
+                break
+            # 前接字面 TeX 命令（`\x12`＋字母，C 侧双写反斜杠的裸排环境漏在
+            # 正文层：`\\phi_{100}`，formal-epistemology 判例）时保留字面
+            if re.search("\x12[A-Za-z]+$", s[:j]):
+                res.append(s[i:j + 2])
+                i = j + 2
+                continue
+            depth, k = 1, j + 2
+            while k < len(s) and depth:
+                c = s[k]
+                if c == "{":
+                    depth += 1
+                elif c == "}":
+                    depth -= 1
+                k += 1
+            if depth:
+                res.append(s[i:])
+                break
+            inner = s[j + 2:k - 1]
+            res.append(s[i:j])
+            res.append("<%s>%s</%s>" % (tag, _supsub_inner(inner, mp), tag))
+            i = k
+        return "".join(res)
+
+    s = _replace_supsub(s, "_", "sub")
+    s = _replace_supsub(s, "^", "sup")
     # 强调／粗体（单层；C 的 em 先于 strong，嵌套粗斜体在像内为 ***x***——
     # 简形词条未出现，残差清单登记）
     # 强调／粗体：小型星解析器——C 输出的强调定界符恒“紧”（内侧无空格，
@@ -1168,6 +1193,17 @@ def _star_parse(s):
                 and ("em" in marks or "strong" in marks)))
         next_tight = bool(after) and not after[:1].isspace()
         n = len(run)
+        nxt_run = parts[i + 2] if i + 2 < len(parts) else ""
+        # 相邻强调（specs/053 第五十四批）：`**` 前有 em 开启、无 strong、
+        # 且下一个 run 恰为单星——`*R**i*`／`*V**B*` 是 C 的两段相邻斜体
+        # （H0 `<em>R</em><em>i</em>`），不是 strong 开星。否则 `**` 被当
+        # strong 开、末尾单星再闭 em，整段结构错位（information-entropy／
+        # large-cardinals-determinacy 判例）。
+        if (n == 2 and prev_tight and "em" in marks and "strong" not in marks
+                and len(nxt_run) == 1):
+            _close("em")
+            _open("em")
+            continue
         can_open_st = (n >= 2 and next_tight and "strong" not in marks)
         can_open_em = (n >= 1 and next_tight and "em" not in marks)
         # ① 整 run 可全作开星（无同级已开）时优先开——C 的嵌套形态
