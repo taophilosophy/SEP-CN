@@ -390,3 +390,9 @@ Papini 等），仅 Nellie 一例为假名且已在批 65 注记。**方法精�
 
 **单源 GND 行**（依据列带 `单源` 与 `gnd-verdict-2026-11-22.tsv`）：全库仅 8 行，
 Yin Xian 为其中唯一的年代不可能者，其余（Gollwitzer、Stout、Taylor 等）语境与年份相容。
+
+**负证量测三（人名首现含姓氏）**：仿术语侧“首现含词”量测，对人名表首现词条核姓氏（折叠变音符、
+去连字符与 apostrophe、剥 al/ibn/van 类粒子）——185 行“不命中”，逐类看主要是**姓名形变**
+（A. J. Ayer 的点空格形、Caroline of Ansbach 的封号形、Emperor Wu (Han) 的汉名转写），
+以及人名在正文以异拼出现（Schopenhauer 于 landmann-kalischer 确实在文，但姓氏外的名形干扰判定）。
+信噪比过低，不做机检、不据此改册；人名侧仍靠“悬空检查＋随译定点”两条。
