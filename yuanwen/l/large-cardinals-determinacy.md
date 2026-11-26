@@ -483,7 +483,7 @@ A fruitful consequence of large cardinal axioms is that they place us in exactly
 
 **Theorem 4.10** (Woodin).
 
-*Assume* ZFC *and that there is a proper class of Woodin cardinals. Suppose* ϕ *is a sentence and* *B* *is a complete Boolean algebra. Then* *L*(ℝ)^{*V*} ⊧ ϕ *iff* *L*(ℝ)^{*V**B*} ⊧ ϕ.
+*Assume* ZFC *and that there is a proper class of Woodin cardinals. Suppose* ϕ *is a sentence and* *B* *is a complete Boolean algebra. Then* *L*(ℝ)^{*V*} ⊧ ϕ *iff* *L*(ℝ)^{*V*^{*B*}} ⊧ ϕ.
 
 In this situation one, of course, has AD^{*L*(ℝ)}. Again, one might be concerned that one can have this fruitful consequence without having AD^{*L*(ℝ)}. This is addressed by the following theorem:
 

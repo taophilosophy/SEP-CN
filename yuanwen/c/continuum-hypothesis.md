@@ -73,7 +73,7 @@ It was generally believed that, as in the case for regular cardinals, the behavi
 
 *If* ℵ_{δ} *is a singular cardinal of uncountable cofinality, then, if* GCH *holds below* ℵ_{δ}*, then* GCH *holds at* ℵ_{δ}*.*
 
-It turns out that (by a deep result of Magidor, published in 1977) GCH can first fail at ℵ_{ω} (assuming the consistency of a supercompact cardinal). Silver's theorem shows that it cannot first fail at ℵ_{ω1} and *this is provable in* ZFC.
+It turns out that (by a deep result of Magidor, published in 1977) GCH can first fail at ℵ_{ω} (assuming the consistency of a supercompact cardinal). Silver's theorem shows that it cannot first fail at ℵ_{ω₁} and *this is provable in* ZFC.
 
 This raises the question of whether one can “control” the size of 2^{ℵ_{δ}} with a weaker assumption than that ℵ_{δ} is a singular cardinal of uncountable cofinality such that GCH holds below ℵ_{δ}. The natural hypothesis to consider is that ℵ_{δ} is a singular cardinal of uncountable cofinality which is *a strong limit cardinal*, that is, that for all α < ℵ_{δ}, 2^{α} < ℵ_{δ}. In 1975 Galvin and Hajnal proved (among other things) that under this weaker assumption there is indeed a bound:
 
@@ -87,13 +87,13 @@ The next question is whether a similar situation prevails with singular cardinal
 
 **Theorem 1.6** (Shelah 1978).
 
-*If* ℵ_{ω} *is a strong limit cardinal then* 2^{ℵ_{ω}} < ℵ_{(2^{ℵ0}})⁺.
+*If* ℵ_{ω} *is a strong limit cardinal then* 2^{ℵ_{ω}} < ℵ_{(2^{ℵ₀})⁺}.
 
 One drawback of this result is that the bound is sensitive to the actual size of 2^{ℵ₀}, which can be anything below ℵ_{ω}. Remarkably Shelah was later able to remedy this with the development of his pcf (possible cofinalities) theory. One very quotable result from this theory is the following:
 
 **Theorem 1.7** (Shelah 1982).
 
-*If* ℵ_{ω} *is a strong limit cardinal then* (*regardless of the size of* 2^{ℵ₀}) 2^{ℵ_{ω}} < ℵ_{ω4}.
+*If* ℵ_{ω} *is a strong limit cardinal then* (*regardless of the size of* 2^{ℵ₀}) 2^{ℵ_{ω}} < ℵ_{ω₄}.
 
 In summary, although the continuum function at regular cardinals is relatively unconstrained in ZFC, the continuum function at singular cardinals is (provably in ZFC) constrained in significant ways by the behaviour of the continuum function on the smaller cardinals.
 
@@ -180,7 +180,7 @@ It follows that if ℙ is any homogeneous partial order in *L*(ℝ) then the gen
 
 There are two ways of stratifying the universe of sets. The first is in terms of ⟨*V*_{α} | α ∈ On ⟩, the second is in terms of ⟨*H*(κ) | κ ∈ Card⟩, where *H*(κ) is the set of all sets which have cardinality less than κ and whose members have cardinality less than κ, and whose members of members have cardinality less than κ, and so on. For example, *H*(ω) = *V*_{ω} and the theories of the structures *H*(ω₁) and *V*_{ω+1} are mutually interpretable. This latter structure is the structure of second-order arithmetic and, as mentioned above, large cardinal axioms give us an “effectively complete” understanding of this structure. We should like to be in the same position with regard to larger and larger fragments of the universe and the question is whether we should proceed in terms of the first or the second stratification.
 
-The second stratification is potentially more fine-grained. Assuming CH one has that the theories of *H*(ω₂) and *V*_{ω+2} are mutually interpretable and assuming larger and larger fragments of GCH this correspondence continues upward. But if CH is false then the structure *H*(ω₂) is less rich than the structure *V*_{ω2}. In this event the latter structure captures full third-order arithmetic, while the former captures only a small fragment of third-order arithmetic but is nevertheless rich enough to express CH. Given this, in attempting to understand the universe of sets by working up through it level by level, it is sensible to use the potentially more fine-grained stratification.
+The second stratification is potentially more fine-grained. Assuming CH one has that the theories of *H*(ω₂) and *V*_{ω+2} are mutually interpretable and assuming larger and larger fragments of GCH this correspondence continues upward. But if CH is false then the structure *H*(ω₂) is less rich than the structure *V*_{ω₂}. In this event the latter structure captures full third-order arithmetic, while the former captures only a small fragment of third-order arithmetic but is nevertheless rich enough to express CH. Given this, in attempting to understand the universe of sets by working up through it level by level, it is sensible to use the potentially more fine-grained stratification.
 
 Our next step is therefore to understand *H*(ω₂). It actually turns out that we will be able to understand slightly more and this is somewhat technical. We will be concerned with the structure ⟨*H*(ω₂), ∈, *I*_{NS}, *A*^{*G*}⟩ ⊧ φ, where *I*_{NS} is the non-stationary ideal on ω₁ and *A*^{*G*} is the interpretation of (the canonical representation of) a set of reals *A* in *L*(ℝ). The details will not be important and the reader is asked to just think of *H*(ω₂) along with some “extra stuff” and not worry about the details concerning the extra stuff.[^note-6]
 
@@ -530,7 +530,7 @@ This still leaves us with the question of existence and the answer to this quest
 
 **Theorem 5.6** (Woodin).
 
-*Assume that there is a proper class of Woodin cardinals and that the* Ω *Conjecture holds. Then there is no recursive theory* *A*→ *such that* ZFC + *A*→ *is* Ω*-complete for the theory of* *V*_{δ0}+1*, where* δ₀ *is the least Woodin cardinal.*
+*Assume that there is a proper class of Woodin cardinals and that the* Ω *Conjecture holds. Then there is no recursive theory* *A*→ *such that* ZFC + *A*→ *is* Ω*-complete for the theory of* *V*_{δ₀+1}*, where* δ₀ *is the least Woodin cardinal.*
 
 In fact, under a stronger assumption, the scenario must fail at a much earlier level.
 

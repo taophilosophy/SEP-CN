@@ -1,8 +1,7 @@
 {
- "total": 27,
+ "total": 24,
  "counts": {
-  "bib-keys": 24,
-  "text": 3
+  "bib-keys": 24
  },
  "items": [
   {
@@ -46,11 +45,6 @@
    "why": "49 键名不同"
   },
   {
-   "slug": "information-entropy",
-   "fam": "text",
-   "why": "真文字差"
-  },
-  {
    "slug": "japanese-philosophy",
    "fam": "bib-keys",
    "why": "91 键名不同"
@@ -59,11 +53,6 @@
    "slug": "kant-hume-morality",
    "fam": "bib-keys",
    "why": "106 键名不同"
-  },
-  {
-   "slug": "large-cardinals-determinacy",
-   "fam": "text",
-   "why": "真文字差"
   },
   {
    "slug": "leibniz-evil",
@@ -109,11 +98,6 @@
    "slug": "scholem",
    "fam": "bib-keys",
    "why": "25 键名不同"
-  },
-  {
-   "slug": "socrates",
-   "fam": "text",
-   "why": "真文字差"
   },
   {
    "slug": "srigupta",

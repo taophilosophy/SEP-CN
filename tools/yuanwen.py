@@ -546,8 +546,31 @@ def inline_to_md(html, slug=None):
     # 用户 2026-10-27 指令：禁止 HTML 标签，保持洁净——sub/sup 一律转纯文本；
     # 2026-10-28 裁定升级：有原生 Unicode 字形直接用原生字符，否则保持
     # 下标 _{x}、上标 ^{x} 记号（站点渲染层兜底），不再保留 <sub>/<sup> 标签
-    s = re.sub(r'<sub>(.*?)</sub>', lambda m: _subsup_md(m.group(1), SUB_MAP, '_{%s}'), s, flags=re.S | re.I)
-    s = re.sub(r'<sup>(.*?)</sup>', lambda m: _subsup_md(m.group(1), SUP_MAP, '^{%s}'), s, flags=re.S | re.I)
+    # sub/sup 改平衡扫描、内层优先（specs/053 第五十七批）：旧 `(.*?)` 非贪婪
+    # 不支持嵌套——H0 的 `<sub><em>R</em><sub><em>i</em></sub></sub>`（嵌套
+    # 下标）在内层 `</sub>` 截断、结构破坏（information-entropy 判例；R 侧
+    # `_replace_supsub` 第五十四批已对称改平衡扫描）。内层优先使不可映射的
+    # 外层把内层保留为 `_{…}` 记号，两遍对称（第二遍 md 的嵌套记号经 R 的
+    # 平衡扫描同样保留）。
+    def _balanced_subsup(s, tag):
+        mp = SUB_MAP if tag == 'sub' else SUP_MAP
+        marker = '_{%s}' if tag == 'sub' else '^{%s}'
+        op_re = re.compile(r'<%s\b[^>]*>' % tag, re.I)
+        cl_re = re.compile(r'</%s\s*>' % tag, re.I)
+        while True:
+            cm = cl_re.search(s)
+            if not cm:
+                return s
+            om = None
+            for om in op_re.finditer(s, 0, cm.start()):
+                pass
+            if not om:
+                return s
+            inner = s[om.end():cm.start()]
+            s = s[:om.start()] + _subsup_md(inner, mp, marker) + s[cm.end():]
+
+    s = _balanced_subsup(s, 'sub')
+    s = _balanced_subsup(s, 'sup')
     store = []
 
     def _stash(m):

@@ -67,8 +67,8 @@ Given this, the failures of the classical substitutivity principles can be trace
 
 - An atomic sentence ^{⌈}πτ₁...τ_{*n*}^{⌉} (of ℒ) is *true*_{**I**} if and only if
 - *n* = 0 (i.e., π is a sentence letter) and the extension of π is the truth value TRUE; or
-- *n* = 1 and **a**_{τ1} is in the extension of π; or
-- *n* > 1 and ⟨**a**_{τ1}, ..., **a**_{τ*n*}⟩ is in the extension of π.
+- *n* = 1 and **a**_{τ₁} is in the extension of π; or
+- *n* > 1 and ⟨**a**_{τ₁}, ..., **a**_{τ_{*n*}}⟩ is in the extension of π.
 - A negation ^{⌈}¬ψ^{⌉} is true_{**I**} if and only if ψ is not true_{**I**}.
 - A material conditional^{⌈}ψ → θ^{⌉} is true_{**I**} iff, if ψ is true_{**I**}, then θ is true_{**I**}.
 - A universally quantified sentence ^{⌈}∀νψ^{⌉} is true_{**I**} if and only if, for all individuals **a** ∈ **D**, ψ is true_{**I**[ν/**a**]}.[^note-4]
@@ -92,8 +92,8 @@ The Tarskian truth conditions above are now generalized by relativizing them to 
 
 - An atomic sentence ^{⌈}πτ₁...τ_{*n*}^{⌉} (of ℒ) is *true*_{**M**} *at* **w** if and only if:
 - *n* = 0 and the **w**-extension of π is the truth value TRUE; or
-- *n* = 1 and *a*_{τ1} is in the **w**-extension of π; or
-- *n* > 1 and ⟨**a**_{τ1},..., **a**_{τ*n*}⟩ is in the **w**-extension of π.
+- *n* = 1 and *a*_{τ₁} is in the **w**-extension of π; or
+- *n* > 1 and ⟨**a**_{τ₁},..., **a**_{τ_{*n*}}⟩ is in the **w**-extension of π.
 - A negation ^{⌈}¬ψ^{⌉} is true_{**M**} at **w** if and only ψ is not true_{**M**} in **w**.
 - A material conditional^{⌈}ψ→θ^{⌉} is true_{**M**} at **w** iff, if ψ is true_{**M**} at **w**, then θ is true_{**M**} at **w**.
 - A quantified sentence ^{⌈}∀νψ^{⌉} is true_{**M**} at **w** if and only if, for all individuals **a** that exist in **w**, ψ is true_{**M**[ν/**a**]}.

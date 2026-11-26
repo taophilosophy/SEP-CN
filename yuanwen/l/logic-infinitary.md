@@ -557,11 +557,11 @@ for which ƒ_{*i*} = *h* ○ σ_{*i*} for all *i* ∈ *I*.
 
 [^barwise-1985]: Barwise, J. and S. Feferman (eds.), 1985, *Handbook of Model-Theoretic Logics*, New York: Springer-Verlag.
 
-[^baumgartner-1974]: Baumgartner, J., 1974, “The Hanf number for complete L_{ω1},ω sentences (without GCH)”, *Journal of Symbolic Logic*, 39: 575–578.
+[^baumgartner-1974]: Baumgartner, J., 1974, “The Hanf number for complete L_{ω₁,ω} sentences (without GCH)”, *Journal of Symbolic Logic*, 39: 575–578.
 
 [^bell-1970]: Bell, J. L., 1970, “Weak Compactness in Restricted Second-Order Languages”, *Bulletin of the Polish Academy of Sciences*, 18: 111–114.
 
-[^bell-1972]: –––, 1972, “On the Relationship between Weak Compactness in L_{ω1}, ω, L_{ω1}, ω₁, and Restricted Second-Order Languages”, *Archive for Mathematical Logic*, 15: 74–78.
+[^bell-1972]: –––, 1972, “On the Relationship between Weak Compactness in L_{ω₁, ω}, L_{ω₁, ω₁}, and Restricted Second-Order Languages”, *Archive for Mathematical Logic*, 15: 74–78.
 
 [^bell-1974]: –––, 1974, “On Compact Cardinals”, *Zeitschrift für Mathematical Logik und Grundlagen der Mathematik*, 20: 389–393.
 
@@ -599,7 +599,7 @@ for which ƒ_{*i*} = *h* ○ σ_{*i*} for all *i* ∈ *I*.
 
 [^morley-1965]: Morley, M., 1965, “Omitting Classes of Elements”, *The Theory of Models*, J. Addison, L. Henkin, and A. Tarski (eds.), Amsterdam: North-Holland, 265-273.
 
-[^nadel-1985]: Nadel, M., 1985, “L_{ω1},ω and Admissible Fragments”, in J. Barwise and S. Feferman (eds.) 1985, 271–287.
+[^nadel-1985]: Nadel, M., 1985, “L_{ω₁,ω} and Admissible Fragments”, in J. Barwise and S. Feferman (eds.) 1985, 271–287.
 
 [^negri-2021]: Negri, Sara, 2021, “Geometric Rules in Infinitary Logic”, in O. Arieli and A. Zamansky (eds.), *Arnon Avron on Semantics and Proof Theory of Non-Classical Logics*, Cham: Springer, 265–293. doi:10.1007/978-3-030-71258-7_12
 

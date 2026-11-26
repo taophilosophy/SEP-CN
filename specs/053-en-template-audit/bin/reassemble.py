@@ -855,7 +855,14 @@ def _inline_md_to_html(text):
                 break
             inner = s[j + 2:k - 1]
             res.append(s[i:j])
-            res.append("<%s>%s</%s>" % (tag, _supsub_inner(inner, mp), tag))
+            # 内层优先（specs/053 第五十七批，对齐 C 侧 _balanced_subsup）：
+            # H0 真嵌套 `<sub><em>R</em><sub><em>i</em></sub></sub>` 的 md 是
+            # `_{*R*_{*i*}}`，外层先展开会把内层记号留在标签内成字面
+            # `_{<em>i</em>}`（information-entropy 判例，B3.2 文字岛多出
+            # `_{}` 字符）。inner 先递归展开内层记号，再交 _supsub_inner；
+            # 展开后含标签者 _supsub_inner 原样返回，外层发真嵌套标签。
+            inner2 = _replace_supsub(inner, lead, tag)
+            res.append("<%s>%s</%s>" % (tag, _supsub_inner(inner2, mp), tag))
             i = k
         return "".join(res)
 
@@ -1222,11 +1229,14 @@ def _star_parse(s):
             else:
                 _open("strong" if n == 2 else "em")
             continue
-        # ② 先闭：最内层优先（slot 大者后开先闭）；同槽时三级连闭先闭 em
+        # ② 先闭：最内层优先（slot 大者后开先闭）；同槽时**strong 先闭**
+        # （H0 的 `<em><strong>x</strong></em>` 是 em 外层——socrates 判例，
+        # 2026-11-27 第五十七批；旧式 em 先闭产出 strong 外层，经 C 的
+        # 相邻 strong 合并后星数不守恒）
         while n and prev_tight:
             if "em" in marks and "strong" in marks:
                 if marks["em"] == marks["strong"]:
-                    inner = "em" if n >= 3 else "strong"
+                    inner = "strong" if n >= 2 else "em"
                 else:
                     inner = "em" if marks["em"] > marks["strong"] else "strong"
             elif "em" in marks:

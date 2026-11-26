@@ -172,9 +172,9 @@ By Liouville's Theorem, if all the microstates (up to a set of measure zero) in 
 
 The Gibbs approach to statistical mechanics is based upon probability distributions, *p*(*X*^{3*N*}, *P*^{3*N*}), over the state space, rather than the properties of individual microstates. The Gibbs entropy of the distribution is defined by *S*_{*G*} = −*k* ∫ *p*(*X*^{3*N*}, *P*^{3*N*}) ln *p*(*X*^{3*N*}, *P*^{3*N*}) d*X*^{3*N*}d*P*^{3*N*}. If the state space is divided into a number of distinct macrostates, *R*_{*i*}, then the Gibbs entropy of the *i*th macrostate is
 
-> *S*_{*Gi*} = −*k* ∫_{*R**i*} *p*(*X*^{3*N*}, *P*^{3*N*} | *i*) ln *p*(*X*^{3*N*}, *P*^{3*N*} | *i*) d*X*^{3*N*}d*P*^{3*N*},
+> *S*_{*Gi*} = −*k* ∫_{*R*_{*i*}} *p*(*X*^{3*N*}, *P*^{3*N*} | *i*) ln *p*(*X*^{3*N*}, *P*^{3*N*} | *i*) d*X*^{3*N*}d*P*^{3*N*},
 
-with *p*(*X*^{3*N*}, *P*^{3*N*} | *i*) = *p*(*X*^{3*N*}, *P*^{3*N*}, *i*) / *p*_{*i*} and *p*_{*i*} = ∫_{*R**i*} *p*(*X*^{3*N*}, *P*^{3*N*}) d*X*^{3*N*} d*P*^{3*N*}. This gives *S*_{*G*} = ∑_{*i*} *p*_{*i*}(*S*_{*Gi*} −*k* ln *p*_{*i*}). (N.B. *p*(*X*^{3*N*}, *P*^{3*N*}, *i*) = 0 outside of *R*_{*i*} and *p*(*X*^{3*N*}, *P*^{3*N*}, *i*) = *p*(*X*^{3*N*}, *P*^{3*N*}) inside of *R*_{*i*}.)
+with *p*(*X*^{3*N*}, *P*^{3*N*} | *i*) = *p*(*X*^{3*N*}, *P*^{3*N*}, *i*) / *p*_{*i*} and *p*_{*i*} = ∫_{*R*_{*i*}} *p*(*X*^{3*N*}, *P*^{3*N*}) d*X*^{3*N*} d*P*^{3*N*}. This gives *S*_{*G*} = ∑_{*i*} *p*_{*i*}(*S*_{*Gi*} −*k* ln *p*_{*i*}). (N.B. *p*(*X*^{3*N*}, *P*^{3*N*}, *i*) = 0 outside of *R*_{*i*} and *p*(*X*^{3*N*}, *P*^{3*N*}, *i*) = *p*(*X*^{3*N*}, *P*^{3*N*}) inside of *R*_{*i*}.)
 
 It is a consequence of Liouville's Theorem that this entropy is constant under Hamiltonian flows. While this guarantees entropy is non-decreasing, it presents a problem for providing an account of the appearance of entropy increase. The standard approach to dealing with this is called coarse graining. Coarse graining replaces the probability distribution over each macrostate, *p*(*X*^{3*N*}, *P*^{3*N*} | *i*), with a ‘smoother’ probability distribution, *p*′(*X*^{3*N*}, *P*^{3*N*} | *i*), Typically the ‘uniform’ distribution:
 
@@ -183,7 +183,7 @@ It is a consequence of Liouville's Theorem that this entropy is constant under H
 
 inside *R*_{*i*} and *p*′(*X*^{3*N*}, *P*^{3*N*} | *i*) = 0 outside *R*_{*i*}. The coarse grained entropy for the macrostate now satisfies
 
-> *S*′_{*Gi*} = −*k* ∫_{*R**i*} *p*′(*X*^{3*N*}, *P*^{3*N*} | *i*) ln *p*′(*X*^{3*N*}, *P*^{3*N*} | *i*) d*X*^{3*N*}d*P*^{3*N*} ≥ *S*_{*Gi*} .
+> *S*′_{*Gi*} = −*k* ∫_{*R*_{*i*}} *p*′(*X*^{3*N*}, *P*^{3*N*} | *i*) ln *p*′(*X*^{3*N*}, *P*^{3*N*} | *i*) d*X*^{3*N*}d*P*^{3*N*} ≥ *S*_{*Gi*} .
 
 The entropy of the overall coarse grained probability distribution *p*′(*X*^{3*N*}, *P*^{3*N*}) = ∑_{*i*} *p*′(*X*^{3*N*}, *P*^{3*N*} | *i*) *p*_{*i*} is
 

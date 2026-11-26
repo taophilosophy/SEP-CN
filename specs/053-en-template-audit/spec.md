@@ -497,12 +497,12 @@ B3.2 的 sha 全等清单即 OAIS fixity 账的实现形态；与 ADR-0076 已�
 
 | 判据 | 现状 | 取数命令 |
 | ---- | ---- | ---- |
-| B3.1 往返不动点 | **1,846/1,873（98.6%）**，第五十二批 +23、第五十三批 +13、第五十四批 +3、第五十五批 +13、第五十六批 +2；**累计自 1,685 起 +161，转红 0** | `python -B specs/053-en-template-audit/bin/reassemble.py --all --out <json>` |
-| B3.2 页面装配 | **pool 1,873（100%）／gap 0／stale 0**，池 123,154,746 B／页 236,108,340 B＝**52.16%**（第五十五批全量重建；池较第五十一批 −8,546 B） | `python -B specs/053-en-template-audit/bin/page_assemble.py --all --build` |
+| B3.1 往返不动点 | **1,849/1,873（98.7%）**，第五十二批 +23、第五十三批 +13、第五十四批 +3、第五十五批 +13、第五十六批 +2、第五十七批 +3；**累计自 1,685 起 +164，转红 0** | `python -B specs/053-en-template-audit/bin/reassemble.py --all --out <json>` |
+| B3.2 页面装配 | **pool 1,873（100%）／gap 0／stale 0**，池 123,168,272 B／页 236,108,340 B＝**52.17%**（第五十七批全量重建；池较第五十五批 +13,526 B） | `python -B specs/053-en-template-audit/bin/page_assemble.py --all --build` |
 | I2/I3 转换保真 | `--gate` 0 issue（1,873 全过） | `python -B tools/check_yuanwen_fidelity.py --gate` |
-| 全库门禁 | check_all 21 项全绿（以 `--list-gates` 为准） | `python -B tools/check_all.py` |
+| 全库门禁 | check_all 22 项全绿（以 `--list-gates` 为准） | `python -B tools/check_all.py` |
 
-> **2026-11-26 现查**：B3.1 现为 **1,846／1,873（98.6%）**，余 27 件的归因见 `results/b31-attribution.json`：**bib-keys 24／text 3**。演进：第四十九批账域 68.6% → 第五十批建键去小节依赖（bib-keys 122→24）→ 第五十二批 R 侧规则族（+23）→ 第五十三批引块空行与上下标（+13）→ 第五十四批 note-forms 与嵌套上下标（+3）→ 第五十五批连续空行归一（+13）→ 第五十六批图片区引用误挂与强调尾空格（+2）。**余 27 件定性**：bib-keys 24＝判据信息边界（md 把书目拆成「正文散段＋文末定义」，H0 交错顺序不可复原，与第四十九批结论同源，交 B3.2 覆盖）；text 3＝相邻强调 2（`_{}` 内合并判据）＋三星嵌套 1（闭星次序）。B3.2 现为 **pool 1,873（100%）／gap 0／stale 0**，池 **123,154,746 B**／页 236,108,340 B＝52.16%。**纪律：改 C 使 md 段落/定义归属变化→同批刷账；改 R 使 A 变化→全量重建池并 judge 双通道；md 出现连续空行必是 C 侧过产，归一在 C 一次做净。** 下文“缺口 22 分族”“md_extra 19 件再分族”等段落是第四十三批快照，仅作机制索引，数字勿引。
+> **2026-11-27 现查（第五十七批收口，独立复算）**：B3.1 现为 **1,849／1,873（98.7%）**，余 24 件归因见 `results/b31-attribution.json`：**bib-keys 24**（text 族已于第五十七批清零）。演进：第四十九批账域 68.6% → 第五十批建键去小节依赖（bib-keys 122→24）→ 第五十二批 R 侧规则族（+23）→ 第五十三批引块空行与上下标（+13）→ 第五十四批 note-forms 与嵌套上下标（+3）→ 第五十五批连续空行归一（+13）→ 第五十六批图片区引用误挂与强调尾空格（+2）→ 第五十七批嵌套 sub/sup 内层优先 C＋R 对称与三星嵌套 strong 先闭（+3）。**余 24 件定性（2026-11-27 重新取证，`script/tmp/b31_keydiff.py` 键差普查）**：主族＝**书目区 `<dl class="sentag">`（dt 缩写／dd 条目）未入 `bib_entries`**——C 第一遍把 dd 发成散文段（md0 无定义行），R 重建后第二遍却建键（md2 有定义行），两遍键集不等（addams-jane 17 条、heidegger 107 条为最大判例；watsuji-tetsuro／ibn-bajja 两件为续行小节首条子族：小节边界清空 `prev_surnames` 后向 `_section_author` 取到 "Work"/"Books" 而第二遍跨节继承）。原「判据信息边界」定性对主族**不成立**（不是顺序不可复原，是条目未入账），第五十八批靶。B3.2 现为 **pool 1,873（100%）／gap 0／stale 0**，池 **123,168,272 B**／页 236,108,340 B＝52.17%。**纪律：改 C 使 md 段落/定义归属变化→同批刷账；改 R 使 A 变化→全量重建池并 judge 双通道；md 出现连续空行必是 C 侧过产，归一在 C 一次做净。** 下文“缺口 22 分族”“md_extra 19 件再分族”等段落是第四十三批快照，仅作机制索引，数字勿引。
 **缺口 22 分族**（`script/tmp/b32_families2.py <scan-json>`；分族普查须在每次转池后重跑）：2026-11-25 第四十三批收官普查为 **md_extra 19／h0_extra 2／error 1**（error＝`croce-aesthetics`，本克隆缺 en 包、环境缺件），math／text／digit／star／entity 五族清零。已解族：表题 `caption`（第十四批）、书目区无年份散文、书目区取域与注释（第十六批）、致谢区识别（第十七批）、related 前导竖线与希腊公式形（第十八批）、嵌套引块与 layout 陈年（第十九批）、书目散文 `note-<年>` 键（第二十批）、sup/sub 实体拼写与字形（第二十一批）、跨岛实体差（第二十二批）、行内公式 `\$` 双源（第二十三批）、题后散字与裸名条目（第二十四批）、嵌套表与管道格内 raw 表（第二十五批）、脚注引用形与内部链接消歧（第二十六批）、带片段的裸兄弟文件链（第二十七批）、宏↔裸字形之希腊-cursive 区（第二十八批）、账锚方括号保护（第二十九批）、引块形态账 bq（第三十批，前置件）、`_link` URL 白名单（第三十一批）、头部图组位移 photo_pre_h1＋pubinfo 行位假设（第三十二批）、上标字形双源件级判定（第三十三批）、空作者 meta 与词内锚兜底（第三十四批）、图片 alt 嵌套方括号扫描＋不平衡兜底与 math_forms 行内屏蔽（第三十五批）、希腊宏按文档序定位（第三十六批）、脚注畸形包裹与上下标同页双源按位（第三十七批）、表格格内转义管道分格（第三十八批）、公式美元指纹空白归一与字面 TeX 上标记号守卫（第四十批）、表题定界判据收紧（第四十一批）、强调尾随空白外移（第四十二批）、书目嵌套三层 ul 与空壳 li 槽位、题后散字含链接去重、反引号字面化与围栏码块↔`<pre>`、斜体希腊锚账（第四十三批）。
 
 **md_extra 19 件再分族（批准项①，按 `plain()` 文字流首差内容形态）**：`script/tmp/fam_md_extra2.py`（文字流首差＋H0 标记上下文）与 `classify_diff_content.py`（差异内容形态）两段可复算，2026-11-25 第四十三批复算计数：**emph 5／link 4／math 3／table 3／dl 2／bq 2**（text 族清零）：
@@ -524,13 +524,10 @@ B3.2 的 sha 全等清单即 OAIS fixity 账的实现形态；与 ADR-0076 已�
 
 **B3.1 转红 3 件（W8）——定案：接受残留，不修**。取证：engels 实际漂移 22 条定义（`engels-*→marx-*`）、foucault 1 条（`foucault-2018→cours-2018`）、kant-religion 2 条（`kant-religion-*→kant’s-*`）。根因：R 把全部文献定义放在 References 区**最后一个标题之后**的单 `<ul>` 里，C 的 `build_cite_keys` 按 section 邻接继承姓氏，年份起首条目因而继承前一节末条（Marx）。候选修法成本实测：①年份起首不继承、统一 fallback → 改判 **1,580 条／121 件**键名（含把合法的 `lewis/Church` 类换成 slug 键，且影响译注标记），需全量重转；②同小节换 `<ul>` 重置 prev → 19 件（30 处）现有键被改判；③R 按键姓段切 ul → 账与补丁全量重算。收益 3 件（0.16%）且仅键名标签、定义文字与顺序全等（三件 B3.2 均 pool）。故**不修**，登记为已知残留。
 
-**下一批入口**（按收益排序，归因器＝`script/tmp/segshape.py --gap`＋`gap_split.py` 首裂签名聚类）：
-1. **dl 定义列表（11 件）**：H0 `<dl class="sentag">` 有 `<dt>/<dd>`，A 侧发段落＋`<strong>`（u:`<strong` 对 m:`<dt`）；与松散列表同属「md 不可辨结构」账。
-2. **松散列表（10 件）**：H0 `<li><p>…</p></li>`（u:`text` 对 m:`</li`），按列表记 `li_p` 账。
-3. **段落包装余件（13 件）**：`u:text | m:<p` 7＋`m:<p | u:<span` 6，逐件取证。
-4. **显示式取域/宏形余件（8 件）**：criminal-law／geometry-finitism／logic-intensional／logic-power-games／logic-probability／propositional-function／ramsey／recursive-functions。
-5. **段数相等但文字差（10 件）**：math 8／text 9 等族的残余。
-6. **h0_extra 余件（13）**：逐件取证“H0 事项未入 md／账”的具体通道。
+**下一批入口（2026-11-27 重新排定；旧六项 B3.2 gap 族入口已随 gap 清零失效，仅存于执行日志）**：
+1. **书目区 `<dl>` 条目入账（主族，22 件）**：H0 `<dl class="sentag tag4em">` 的 `<dd>` 条目未进 `ctx.bib_entries`（dt 发 `**缩写**` 段、dd 发散文段），C 第一遍不建键、R 重建后第二遍建键 → B3.1 键集不等。修法：dl 分支在 `in_bib` 时把 dd 文字入账（建键后成定义行）；dt 缩写段去留与装配形态（dl↔ul）须两侧同验。判例：addams-jane（17 条）、heidegger（107 条）。
+2. **续行小节首条不跨节（2 件）**：`section_free` 只管「年份起首」分支，`section != prev_section` 清空 `prev_surnames` 与续行分支的 `_section_author` 仍是小节依赖（watsuji-tetsuro 的 "Work"、ibn-bajja 的 "Books"）。修法：`section_free` 下续行只继承 prev、不清空；两遍一致。
+3. 收口后复核：B3.1 全量重扫应至 1,873/1,873（或登记新残留族）；B3.2 全量重建＋judge 双通道；受影响件刷账。
 
 **流程提醒**：动 C 必全量重转（约 18 分钟）＋B3.1 集合级对照止损；动 R/账只重跑 B3.1（约 10 分钟）＋建池（约 20 分钟）＋judge 复扫（约 25 分钟）；**小改动走定点重建＋judge 拼接**（受影响件集＝账 diff ∪ md 变件 ∪ 结构特征件；`script/tmp/splice_b12.py`）；基线只在收敛后人工更新并提交。
 

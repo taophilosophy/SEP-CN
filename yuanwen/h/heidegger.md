@@ -1046,7 +1046,7 @@ All volumes of Heidegger’s collected works or *Gesamtausgabe* (abbreviated *GA
 
 **SZ**
 
-*Sein und Zeit*, 7ᵗʰ edition, Tübingen: Max Niemeyer Verlag, 1953 (first published in 1927). Translated as *Being and Time*, see MR. NOTE: Page numbers for the 7th German Edition of Being and Time are found in the margin of English translation of *Being and Time*, and it is standard to refer to passages using the 7th edition’s pagination.
+*Sein und Zeit*, 7ᵗʰ edition, Tübingen: Max Niemeyer Verlag, 1953 (first published in 1927). Translated as *Being and Time*, see MR. NOTE: Page numbers for the 7ᵗʰ German Edition of Being and Time are found in the margin of English translation of *Being and Time*, and it is standard to refer to passages using the 7ᵗʰ edition’s pagination.
 
 **WCT**
 

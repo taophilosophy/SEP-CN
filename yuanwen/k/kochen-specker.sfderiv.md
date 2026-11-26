@@ -10,11 +10,11 @@ The result is proved for a pure state and a non-degenerate discrete observable *
 
 We first rewrite the statistical algorithm for projection operators:
 
-> (1) prob(*v*(*A*)^{| ψ>} = *a*_{*k*}) = Tr(*P*_{| *a**k*}> · *P*_{| ψ>})
+> (1) prob(*v*(*A*)^{| ψ>} = *a*_{*k*}) = Tr(*P*_{| *a*_{*k*}>} · *P*_{| ψ>})
 
 For an arbitrary function f: **R** → **R** (where **R** is the set of real numbers) we define the function of an observable *A* as:
 
-> *f*(*A*) =_{df} Σ_{*i*} *f*(*a*_{*i*}) *P*_{| *a**i*}>
+> *f*(*A*) =_{df} Σ_{*i*} *f*(*a*_{*i*}) *P*_{| *a*_{*i*}>}
 
 Moreover, we introduce the characteristic function χ_{*a*} as:
 
@@ -22,13 +22,13 @@ Moreover, we introduce the characteristic function χ_{*a*} as:
 > | --- | --- |
 > |   | = 0 for *x* ≠ *a* |
 
-As a result, we can rewrite a project operator *P*_{| *a**k*}> as:
+As a result, we can rewrite a project operator *P*_{| *a*_{*k*}>} as:
 
-> (2) *P*_{| *a**k*}> = χ_{*a**k*}(*A*)
+> (2) *P*_{| *a*_{*k*}>} = χ_{*a*_{*k*}}(*A*)
 
 and thus the statistical algorithm as:
 
-> prob(*v*(*A*)^{| ψ>}=*a*_{*k*}) = Tr(χ_{*a**k*}(*A*) · *P*_{| ψ>})
+> prob(*v*(*A*)^{| ψ>}=*a*_{*k*}) = Tr(χ_{*a*_{*k*}}(*A*) · *P*_{| ψ>})
 
 We also use a simple mathematical property of characteristic functions:
 

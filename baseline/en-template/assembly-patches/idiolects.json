@@ -5,8 +5,8 @@
  "note": "格式层残差补丁：m=标记段、u=单元布局、r=纯布局区段；禁含散文",
  "stats": {
   "page_bytes": 98923,
-  "pool_bytes": 52907,
-  "n_patches": 148
+  "pool_bytes": 52971,
+  "n_patches": 146
  },
  "patches": [
   {
@@ -22322,22 +22322,97 @@
    "after": "<tr>\n  "
   },
   {
-   "r": 39199,
-   "len": 9,
-   "sha": "31d88ebcf4d0ba9f",
-   "after": "&nbsp;</td>\n  <th scope=\"col\">"
-  },
-  {
-   "r": 39235,
-   "len": 9,
-   "sha": "7b8b41f027655465",
-   "after": "</th>\n  <th scope=\"col\">"
-  },
-  {
-   "r": 39271,
-   "len": 11,
-   "sha": "505e3a94759a1ead",
-   "after": "</th> </tr>\n    "
+   "u": 39199,
+   "len": 83,
+   "sha": "3a0ef21874a387ff",
+   "items": [
+    [
+     "mk",
+     "&nbsp;"
+    ],
+    [
+     "mk",
+     "</td>"
+    ],
+    [
+     "mk",
+     "\n  "
+    ],
+    [
+     "mk",
+     "<th scope=\"col\">"
+    ],
+    [
+     "mk",
+     "<strong>"
+    ],
+    [
+     "mk",
+     "<em>"
+    ],
+    [
+     "tx",
+     0,
+     1
+    ],
+    [
+     "mk",
+     "</em>"
+    ],
+    [
+     "mk",
+     "</strong>"
+    ],
+    [
+     "mk",
+     "</th>"
+    ],
+    [
+     "mk",
+     "\n  "
+    ],
+    [
+     "mk",
+     "<th scope=\"col\">"
+    ],
+    [
+     "mk",
+     "<strong>"
+    ],
+    [
+     "mk",
+     "<em>"
+    ],
+    [
+     "tx",
+     1,
+     1
+    ],
+    [
+     "mk",
+     "</em>"
+    ],
+    [
+     "mk",
+     "</strong>"
+    ],
+    [
+     "mk",
+     "</th>"
+    ],
+    [
+     "mk",
+     " "
+    ],
+    [
+     "mk",
+     "</tr>"
+    ],
+    [
+     "mk",
+     "\n    "
+    ]
+   ]
   },
   {
    "r": 39299,

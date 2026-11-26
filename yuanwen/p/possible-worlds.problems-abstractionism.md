@@ -29,7 +29,7 @@ A more pernicious threat arising from the lack of adequate formal rigor is the t
 | (B) |   | Every proposition *p* has a negation ¬*p*. |
 | --- | --- | --- |
 
-| (C) |   | If *S* and *S*′ are distinct sets of propositions, then *p_{S}*, *p_{S′}*, and their negations are all pairwise distinct. |
+| (C) |   | If *S* and *S*′ are distinct sets of propositions, then *p_{_{S}}*, *p_{_{S′}}*, and their negations are all pairwise distinct. |
 | --- | --- | --- |
 
 Then a paradox follows. For let *w* be a world story. By (A), (B), and the maximality of *w*, for every subset *S* of *w* either *p_{S}* ∈ *w* or ¬*p_{S}* ∈ *w* and, by (C) and the consistency of *w*, this proposition is correlated uniquely with *S*. It follows that function *f*(*S*) = *p_{S}* maps the set ℘(*w*) of all subsets of *w* one-to-one into *w*. Hence ℘(*w*) is no larger than *w*, in violation of Cantor's Theorem. (For more on this paradox, see Bringsjord 1985, Menzel 1986, Grim 1986, Beall 2000, and Menzel 2012.) Because Plantinga (1974, 44–5) accepts (A)–(C) and postulates, for each of his worlds *w*, the existence of a corresponding world story (which he calls *the book on w*), this paradox arises for him as well. However, making reasonable assumptions about the nature of Plantinga's underlying metaphysics, Chihara (1998, 126–7) reconstructs a similar paradox directly for Plantinga's notion of a possible world.

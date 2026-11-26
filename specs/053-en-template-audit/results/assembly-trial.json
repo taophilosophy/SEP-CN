@@ -1,135 +1,15 @@
 {
  "schema": "sep-cn-b31-assembly/1",
  "generated_by": "specs/053 bin/reassemble.py",
- "total": 15,
- "ok": 15,
- "fail": 0,
- "skipped": 0,
+ "total": 12,
+ "ok": 9,
+ "fail": 1,
+ "skipped": 2,
  "entries": [
   {
-   "slug": "leucippus",
+   "slug": "socrates",
    "ok": true,
-   "md_len": 10988,
-   "b0_mini": {
-    "sections": true,
-    "parses": true
-   },
-   "sec": 0.033
-  },
-  {
-   "slug": "david",
-   "ok": true,
-   "md_len": 13176,
-   "b0_mini": {
-    "sections": true,
-    "parses": true
-   },
-   "sec": 0.026
-  },
-  {
-   "slug": "elias",
-   "ok": true,
-   "md_len": 13358,
-   "b0_mini": {
-    "sections": true,
-    "parses": true
-   },
-   "sec": 0.02
-  },
-  {
-   "slug": "peirce-benjamin",
-   "ok": true,
-   "md_len": 14671,
-   "b0_mini": {
-    "sections": true,
-    "parses": true
-   },
-   "sec": 0.03
-  },
-  {
-   "slug": "evolution",
-   "ok": true,
-   "md_len": 19016,
-   "b0_mini": {
-    "sections": true,
-    "parses": true
-   },
-   "sec": 0.032
-  },
-  {
-   "slug": "reism",
-   "ok": true,
-   "md_len": 22737,
-   "b0_mini": {
-    "sections": true,
-    "parses": true
-   },
-   "sec": 0.052
-  },
-  {
-   "slug": "holes",
-   "ok": true,
-   "md_len": 23749,
-   "b0_mini": {
-    "sections": true,
-    "parses": true
-   },
-   "sec": 0.066
-  },
-  {
-   "slug": "lady-masham",
-   "ok": true,
-   "md_len": 24122,
-   "b0_mini": {
-    "sections": true,
-    "parses": true
-   },
-   "sec": 0.056
-  },
-  {
-   "slug": "richard-sophister",
-   "ok": true,
-   "md_len": 24221,
-   "b0_mini": {
-    "sections": true,
-    "parses": true
-   },
-   "sec": 0.055
-  },
-  {
-   "slug": "cockburn",
-   "ok": true,
-   "md_len": 24249,
-   "b0_mini": {
-    "sections": true,
-    "parses": true
-   },
-   "sec": 0.049
-  },
-  {
-   "slug": "penbygull",
-   "ok": true,
-   "md_len": 24701,
-   "b0_mini": {
-    "sections": true,
-    "parses": true
-   },
-   "sec": 0.037
-  },
-  {
-   "slug": "crathorn",
-   "ok": true,
-   "md_len": 25495,
-   "b0_mini": {
-    "sections": true,
-    "parses": true
-   },
-   "sec": 0.05
-  },
-  {
-   "slug": "incommensurability",
-   "ok": true,
-   "md_len": 101840,
+   "md_len": 97252,
    "b0_mini": {
     "sections": true,
     "parses": true
@@ -137,9 +17,35 @@
    "sec": 0.178
   },
   {
-   "slug": "abelard",
+   "slug": "information-entropy",
    "ok": true,
-   "md_len": 94112,
+   "md_len": 103879,
+   "b0_mini": {
+    "sections": true,
+    "parses": true
+   },
+   "sec": 0.166
+  },
+  {
+   "slug": "large-cardinals-determinacy",
+   "ok": true,
+   "md_len": 103949,
+   "b0_mini": {
+    "sections": true,
+    "parses": true
+   },
+   "sec": 0.198
+  },
+  {
+   "slug": "kochen-specker.sfderiv",
+   "ok": false,
+   "skipped": "not in baseline",
+   "sec": 0.0
+  },
+  {
+   "slug": "continuum-hypothesis",
+   "ok": true,
+   "md_len": 83910,
    "b0_mini": {
     "sections": true,
     "parses": true
@@ -147,14 +53,75 @@
    "sec": 0.186
   },
   {
-   "slug": "bayes-theorem",
+   "slug": "cosmology-theology",
    "ok": true,
-   "md_len": 69690,
+   "md_len": 77811,
+   "b0_mini": {
+    "sections": true,
+    "parses": true
+   },
+   "sec": 0.119
+  },
+  {
+   "slug": "fundamentality",
+   "ok": true,
+   "md_len": 145602,
+   "b0_mini": {
+    "sections": true,
+    "parses": true
+   },
+   "sec": 0.407
+  },
+  {
+   "slug": "heidegger",
+   "ok": false,
+   "md_len": 246694,
+   "b0_mini": {
+    "sections": true,
+    "parses": true
+   },
+   "first_diff": {
+    "op": "replace",
+    "md": "one of the four insists on its own separate particularity”. (GA7: 171 / PLT 179).\n\n[^backman-2020]: Backman, Jussi, 2020, “Radical Contextua",
+    "asm": "t is Called Thinking?*, J. Glenn Gray (trans.), New York: Harper Torchbook, 1968.\n\n[^backman-2020]: Backman, Jussi, 2020, “Radical Contextua"
+   },
+   "sec": 0.723
+  },
+  {
+   "slug": "independence-large-cardinals",
+   "ok": true,
+   "md_len": 44895,
+   "b0_mini": {
+    "sections": true,
+    "parses": true
+   },
+   "sec": 0.084
+  },
+  {
+   "slug": "logic-infinitary",
+   "ok": true,
+   "md_len": 61577,
    "b0_mini": {
     "sections": true,
     "parses": true
    },
    "sec": 0.166
+  },
+  {
+   "slug": "possible-worlds",
+   "ok": true,
+   "md_len": 173523,
+   "b0_mini": {
+    "sections": true,
+    "parses": true
+   },
+   "sec": 0.395
+  },
+  {
+   "slug": "possible-worlds.problems-abstractionism",
+   "ok": false,
+   "skipped": "not in baseline",
+   "sec": 0.0
   }
  ]
 }
