@@ -92,12 +92,13 @@ def main():
         else:
             bare.append((r['line'], r['key'], 'k=%s 无说明' % k))
 
-    # 同主译法多键组：组内无撞形记录 = 未留痕（跳过“保留原文”类元译法）
+    # 同主译法多键组：组内无撞形记录 = 未留痕（跳过“保留原文”类元译法；
+    # 书名同译名是常见合法现象，按 2026-11-26 分类判为工具误报，不计）
     META = {'保留原文', '拉丁原文保留', '保留英文', '保留梵文', '保留拉丁形'}
     groups = collections.defaultdict(list)
     for r in term:
         main = re.split(r'[（(]', r['trans'])[0].strip()
-        if main and main not in META:
+        if main and main not in META and not main.startswith('《'):
             groups[main].append(r)
     untraced = []
     for main, items in groups.items():
