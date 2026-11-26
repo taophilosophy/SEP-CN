@@ -97,3 +97,21 @@
 | **R5 B3 并发抓取** | fetch_all/fetch/entry/catalog/audit/drift；--only | T070–T074 | R4 出口 | dry-run 1873 一致；速率受控 | 已批准、未执行 |
 | **R6 B4 正则审计与迁移** | 正则语义审计；fidelity/style/academic | T080–T083 | R5 出口 | 审计清单；告警集合一致 | 已批准、未执行 |
 | **R7 B5 高风险迁移** | 六轴 audit 四项、terms/math、en 审计 | T090–T093 | R6 出口 | 黄金测试；集合与退出语义一致 | 已批准、未执行 |
+
+## 8 组界 tag（2026-11-27 新增）
+
+> 目的：为每个执行组的开始与结束留下不可改写的回退锚点。tag 只证明时点，不替代任务勾选、evidence 或闸门判据。本规则是 064 的执行约定；若要上升为全局 tag 规范，按 `rules/06` 另立 ADR。
+
+| 项 | 规则 |
+| ---- | ---- |
+| 范围 | a–k 共 11 组，每组 start／end 各一枚，共 **22 枚**；c1–c3、j1–j9、k1–k8 默认不单独打，用户另行指定除外 |
+| 命名 | `batch/064-<组>-start`、`batch/064-<组>-end`；沿用 `rules/06` 的 `batch/<批次名>`，不与发布 tag `v...`、备份 tag `backup/...` 混用 |
+| 时点 | start：该组第一个任务开工前，工作树干净且基点提交已推送；end：该组出口证据提交并推送后 |
+| 命令 | `git tag batch/064-a-start`；`git push origin batch/064-a-start`（与既有 `batch/*` 轻量 tag 一致） |
+| 不可改写 | tag 只追加、不移动；返工另打 `batch/064-<组>-rN-start|end`，旧 tag 保留 |
+| 闸门关系 | 未打 start 不得开工；未打 end 不得宣称该组收口或进入下一闸；G0 仍须用户显式“开始” |
+| 部分执行件 | T130 已部分执行：a-start 标记“剩余工作开始”，既有机器证据保留原提交／文件引用，不追溯改 tag |
+| 例外 | T131 已完成且不属于任何组，不补 tag |
+
+**执行顺序**：`git pull --rebase`／`sync_guard pull` → 确认干净 → 打 start tag 并推送 → 执行该组 → 提交出口证据 → 打 end tag 并推送 → 过闸。
+
