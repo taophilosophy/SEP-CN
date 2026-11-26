@@ -1,7 +1,7 @@
 # 全要素清单与审计证据（rev 10 复算）
 
 - 用途：specs/064 rev 10 的事实底表；数字均为 2026-11-26 实读
-- **时点注（rev 17）**：本表保留 rev 10 口径；测试、G4、G11、G15 与承载状态已由 rev 15／17 改写，现行一律以 `spec.md` §2.7／§2.9 与 `results/test-coverage.md` 为准。
+- **时点注（rev 18）**：本表保留 rev 10 口径；测试、G4、G11、G15 与承载状态已由 rev 15／17 改写；流程 v2 见 `results/target-workflow.md` 与 spec §21；现行一律以 `spec.md` §2.7／§2.9 与 `results/test-coverage.md` 为准。
 - 纪律：current 与 target 分列；“有值／N/A／未实现”分开；“待核”不用来掩盖未查
 - 基点：`2ce7ac7fe`；工作树含他人既有 rev 9 改动，本轮已回读保留
 
