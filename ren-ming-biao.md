@@ -1349,7 +1349,7 @@
 | Ernest Lepore | 利珀尔 / 勒坡 | 厄尼·莱波雷 | 美国 | 1950– | 语料回收（全目录） | 学界通行译名；籍属/生卒联网查证：Wikidata Q5393458（2026-11-24 查，凭证 people-wikidata-2026-11-24-b15.tsv）；语言哲学（与 Ramsey 合编语义学文集）；语料形“Ernie Lepore”；中文定名补证：中译本《语义最小论与语用多元论》（2015）、《想象与规约》（刘龙跟、朱晓真译，中国人民大学出版社 2017，ISBN 9787300248578）均署“厄尼·莱波雷”；《语言与价值》（江怡、氏主编，中国社会科学出版社 2017）作“勒坡”，2009 译林版作“利珀尔”，并入别名（2026-11-24 查，凭证 people-cnweb-2026-11-24-b32.md） | 2026-11-24 |
 | Ernest Renan | — | 埃内斯特·勒南 | 法国 | 1823–1892 | 语料回收（全目录） | 学界通行音译；籍属/生卒联网查证：Wikidata Q157155（2026-11-24 查，凭证 people-wikidata-2026-11-24-b9.tsv）；民族主义理论（《民族是什么》） | 2026-11-24 |
 | Ernest Trumpp | — | 欧内斯特·特鲁姆普 | 德国 | 1828–1885 | sikh-philosophy | 学界通行（德国传教士、印度学家，1877 年《阿迪·格兰特》部分英译） | 2026-11-09 |
-| Ernst Christoph Graf von Manteuffel | — | 恩斯特·克里斯托夫·冯·曼托伊费尔伯爵 | — | — | 18thGerman-preKant | 学界通行汉译（萨克森贵族，沃尔夫派护法人）；凭证 2026-11-05；审定库无相关命中（termonline-all 凭证 2026-11-13）| 2026-11-05 |
+| Ernst Christoph Graf von Manteuffel | — | 恩斯特·克里斯托夫·冯·曼托伊费尔伯爵 | 德国（萨克森） | 1676–1749 | 18thGerman-preKant | 学界通行汉译（萨克森贵族，沃尔夫派护法人）；凭证 2026-11-05；审定库无相关命中（termonline-all 凭证 2026-11-13）；生卒据 en/18thGerman-preKant/index.html:1625 正文括注、籍属据同处 “Saxon nobleman”（2026-11-26 查） | 2026-11-26 |
 | Ernst Mayr | — | 恩斯特·迈尔 | 德国／美国／生物学 | 1904–2005 | 语料回收（全目录） | 审定“迈尔”在案（生物学）；凭证 2026-11-01；籍属/生卒联网查证：GND 规范标目 gnd 116973080（2026-11-14 查，凭证 verify-2026-11-14-gnd-h.tsv） | 2026-11-14 |
 | Ernst Meumann | — | 恩斯特·迈曼 | 德国 | 1862–1915 | landmann-kalischer | 学界通行汉译（实验教育学/美学学者）；审定库无相关命中（termonline-all 凭证 2026-11-13）；籍属/生卒联网查证：Wikidata Q77947（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Ernst Schröder | Ernst Schröder | 恩斯特·施罗德 | 德国 | 1841–1902 | leibniz-logic-influence | 学界通行汉译（《逻辑代数讲义》作者）；审定库无相关命中（termonline-all 凭证 2026-11-13）；籍属/生卒联网查证：GND 规范标目 gnd 118761846（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
@@ -1817,7 +1817,7 @@
 | Gustav Noske | — | 古斯塔夫·诺斯克 | 德国／政治 | 1868–1946 | luxemburg | 学界通行汉译（社民党国防部长）；籍属/生卒联网查证：GND 规范标目 gnd 118588761（2026-11-14 查，凭证 verify-2026-11-14-gnd-j.tsv）；审定库无相关命中（termonline-all 凭证 2026-11-14）| 2026-11-14 |
 | Gustavus Adolphus | — | 古斯塔夫·阿道夫 | 瑞典／国王 | 1594–1632 | grotius | 学界通行汉译（古斯塔夫二世·阿道夫）；凭证 2026-11-12 | 2026-11-12 |
 | Güth, Werner | — | Werner Güth（现代学者，保留英文） | 德国 | 1944– | justice-moral-psych | ADR-0022：无通行汉名者保留英文（最后通牒博弈首篇实验）；凭证 2026-11-10；籍属/生卒联网查证：GND 规范标目 gnd 121535282（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
-| Guthrie, E.R. | — | E.R.格思里 | — | — | behaviorism | 学界通行汉译（邻近学习理论） | 2026-11-05 |
+| Guthrie, E.R. | — | E.R.格思里 | — | 1886–1959 | behaviorism | 学界通行汉译（邻近学习理论）；生卒据 en/behaviorism/index.html:481 正文括注（2026-11-26 查） | 2026-11-26 |
 | Gutschoven, Gerard van | — | 赫拉德·范·古茨霍芬 | 医学 | 1615–1668 | la-forge | 学界惯例音译（鲁汶解剖学家，笛卡儿《论人》插图作者之一）；凭证 2026-11-09；籍属/生卒联网查证：GND 规范标目 gnd 129823783（2026-11-14 查，凭证 verify-2026-11-14-gnd-j.tsv） | 2026-11-14 |
 | Guttmann, Julius | — | 尤利乌斯·古特曼 | 德国 | 1880–1950 | delmedigo | 学界通行（犹太哲学史家）；籍属/生卒联网查证：GND 规范标目 gnd 122512324（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Gutton, Jean | — | 让·居东 | — | — | bergson | 第七版《绵延与同时性》编者；学界通行音译 | 2026-11-08 |
@@ -2117,7 +2117,7 @@
 | Huike | — | 慧可 | 中国（北魏） | 487–593 | buddhism-chan | 佛学界通行汉译（二祖）；籍属/生卒联网查证：SEP 原文 en/buddhism-chan:429（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Huineng | — | 慧能 | 中国（唐） | 638–713 | buddhism-chan | 佛学界通行汉译（六祖，《坛经》）；籍属/生卒联网查证：SEP 原文 en/buddhism-chan:274（2026-11-20 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-20 |
 | Huizinga, Johan | — | 约翰·赫伊津哈 | 荷兰／史学 | 1872–1945 | erasmus | 学界惯例（《中世纪之秋》作者通行汉译）；籍属/生卒联网查证：GND 规范标目 gnd 118775294（2026-11-14 查，凭证 verify-2026-11-14-gnd-l.tsv） | 2026-11-14 |
-| Hull, C.L. | — | C.L.赫尔 | — | — | behaviorism | 学界通行汉译（行为系统理论） | 2026-11-05 |
+| Hull, C.L. | — | C.L.赫尔 | — | 1884–1952 | behaviorism | 学界通行汉译（行为系统理论）；生卒据 en/behaviorism/index.html:480 正文括注（原文作 1884–52，上游截断；2026-11-26 查） | 2026-11-26 |
 | Humboldt, Wilhelm von / Wilhelm von Humboldt | — | 威廉·冯·洪堡 | 德国 | 1767–1835 | novalis；leibniz-logic-influence | 学界千年通行汉译；凭证 2026-11-11；2026-11-13 重复行合并（旧键 `Wilhelm von Humboldt`） | 2026-11-13 |
 | Hume, David / David Hume | — | 大卫·休谟 | 苏格兰／经验论 | 1711–1776 | 语料回收（全目录）；august-rehberg | 学界千年通行汉译；凭证 2026-11-08；2026-11-13 重复行合并（旧键 `David Hume`） | 2026-11-13 |
 | Ḥunayn ibn Isḥāq / Isḥāq ibn Ḥunayn | حنين بن إسحاق | 侯奈因·本·伊斯哈格（父，翻译家） | 阿拉伯／叙利亚基督教（希拉出生，巴格达任职） | 808–873 | arabic-islamic-greek | 学界通行；与子伊沙克·本·侯奈因（Isḥāq ibn Ḥunayn）语序区分；2026-11-13 重复行合并（旧键 `Isḥāq ibn Ḥunayn`） | 2026-11-13 |
@@ -3483,7 +3483,7 @@
 | Paris, Jeff | — | Jeff Paris | 英国 | 1944– | logic-fuzzy | 无通行汉名，保留英文原名；凭证 2026-11-09；籍属/生卒联网查证：Wikidata Q441137（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Paris, Roland | — | 罗兰·帕里斯 | 加拿大 | 1967– | sovereignty | 构词直译（国际关系学者，无通行定译）；凭证 2026-11-07；籍属/生卒联网查证：GND 规范标目 gnd 133439372（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Parizek, Michal | — | 米哈尔·帕里泽克 | — | — | global-democracy | 音译（国际组织研究） | 2026-11-12 |
-| Park Chungbin, Sot’aesan | — | 朴重彬（少太山） | — | — | korean-buddhism | 学界通行汉译（圆佛教创始人，尊号 소태산 汉字 少太山） | 2026-11-05 |
+| Park Chungbin, Sot’aesan | — | 朴重彬（少太山） | — | 1891–1943 | korean-buddhism | 学界通行汉译（圆佛教创始人，尊号 소태산 汉字 少太山）；生卒据 en/korean-buddhism/index.html:1523 正文括注（2026-11-26 查） | 2026-11-26 |
 | Park, Gewnhi | — | Gewnhi Park（现代学者，保留英文） | — | — | justice-moral-psych | ADR-0022：无通行汉名者保留英文（感恩与博弈实验）；凭证 2026-11-10 | 2026-11-10 |
 | Parker, Richard | — | Parker（现代学者，保留英文） | — | — | necessary-sufficient | ADR-0012 体例：现代学者保留英文；凭证 2026-11-09 | 2026-11-09 |
 | Parker, Theodore | — | 西奥多·帕克 | 美国 | 1810–1860 | f/fuller-margaret | 音译（美国超验主义牧师）；凭证 2026-11-11；籍属/生卒联网查证：GND 规范标目 gnd 118739336（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
@@ -4531,7 +4531,7 @@
 | Togliatti, Palmiro | — | 帕尔米罗·陶里亚蒂 | 意大利 | 1893–1964 | gramsci | 意共领袖，学界通行汉译（ADR-0022 通行汉名判据）；凭证 2026-11-11；籍属/生卒联网查证：GND 规范标目 gnd 118623184（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Toledo, Francisco de | — | 弗朗西斯科·德·托莱多 | 西班牙／耶稣会经院哲学家 | 1532–1596 | johann-sturm | 学界通行音译；凭证 2026-11-10 | 2026-11-10 |
 | Tolliver, Joseph | — | 约瑟夫·托利弗 | — | — | basing-epistemic | 学界惯例（音译，信念论代表）；凭证 2026-11-08 | 2026-11-08 |
-| Tolman, E.C. | — | E.C.托尔曼 | — | — | behaviorism | 学界通行汉译（认知行为主义） | 2026-11-05 |
+| Tolman, E.C. | — | E.C.托尔曼 | — | 1886–1959 | behaviorism | 学界通行汉译（认知行为主义）；生卒据 en/behaviorism/index.html:480 正文括注（2026-11-26 查） | 2026-11-26 |
 | Tolman, Richard | — | 理查德·托尔曼 | 美国 | 1881–1948 | cosmology-30s | 学界通行音译（相对论宇宙学；与 E. C. 托尔曼〔行为主义心理学家〕别为一人）；凭证 2026-11-08；籍属/生卒联网查证：GND 规范标目 gnd 121326047（2026-11-20 查，凭证 verify-2026-11-20-gnd-a.tsv） | 2026-11-20 |
 | Tolstoy, Leo | — | 托尔斯泰（列夫·托尔斯泰） | 俄国 | 1828–1910 | music | 学界通行汉译（俄国作家、思想家，《艺术论》作者）；正文用通行简称“托尔斯泰” | 2026-11-09 |
 | Tom Regan | — | 汤姆·里根 | 美国 | 1938–2017 | 语料回收（全目录） | 学界通行译名；籍属/生卒联网查证：Wikidata Q314146（2026-11-24 查，凭证 people-wikidata-2026-11-24-b21.tsv）；动物权利论（《The Case for Animal Rights》） | 2026-11-24 |
@@ -4980,7 +4980,7 @@
 | Yi Che-hyŏn | 李齊賢 | 李齐贤 | 高丽 | 1287–1367 | korean-confucianism | 汉文传统写法（高丽文臣，号益斋）；籍属/生卒联网查证：Wikidata Q497120（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Yi Chin-sang | 李震相 | 李震相 | 朝鲜 | 1818–1886 | korean-confucianism | 汉文传统写法（朝鲜性理学家，号寒洲）；籍属/生卒联网查证：韩国学典（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Yi Hangno | 李恒老 | 李恒老 | 朝鲜 | 1792–1868 | korean-confucianism | 汉文传统写法（朝鲜性理学家，号华西）；籍属/生卒联网查证：韩国学典（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
-| Yi Hwang, T’oegye | — | 李滉（退溪） | — | — | korean-philosophy | 汉文传统写法（朝鲜性理学家，四端七情之辩“理发四端”说） | 2026-11-05 |
+| Yi Hwang, T’oegye | — | 李滉（退溪） | — | 1501–1570 | korean-philosophy | 汉文传统写法（朝鲜性理学家，四端七情之辩“理发四端”说）；生卒据 en/korean-philosophy/index.html:312 正文括注（2026-11-26 查） | 2026-11-26 |
 | Yi I, Yulgok | — | 李珥（栗谷） | — | — | korean-philosophy | 汉文传统写法（朝鲜性理学家，“气发理乘”说） | 2026-11-05 |
 | Yi Ik | — | 李瀷 | 朝鲜 | 1681–1763 | korean-philosophy | 汉文传统写法（实学家，星湖）；籍属/生卒联网查证：SEP 原文 en/korean-confucianism:1552（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |
 | Yi Kan | 李柬 | 李柬 | 朝鲜 | 1677–1727 | korean-confucianism | 汉文传统写法（朝鲜性理学家，号巍岩；湖洛之辩与韩元震对垒，主人与物性同）；籍属/生卒联网查证：Wikidata Q29169755（2026-11-21 查，凭证 verify-2026-11-20-people.tsv） | 2026-11-21 |

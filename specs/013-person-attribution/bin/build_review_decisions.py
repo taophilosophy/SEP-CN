@@ -1,17 +1,22 @@
 # -*- coding: utf-8 -*-
-"""生成 GND review 候选判定台账（2026-11-26）。
+"""生成 GND review 候选判定台账（2026-11-26，覆盖全部 383 条）。
 
-输入 script/tmp/person-candidates-102.tsv（383 条 review 中“有生卒且有职业”的 102 条），
-输出 specs/013-person-attribution/results/gnd-review-decisions-2026-11-26.tsv。
+输入
+  specs/013-person-attribution/results/gnd-review-short-2026-11-26.tsv（383 条）
+  script/tmp/review-signals.tsv（281 条“缺年份或缺职业”者的条目内引证旁证）
+输出
+  specs/013-person-attribution/results/gnd-review-decisions-2026-11-26.tsv
 
-判定口径（人名线两档方案）：GND 只产 dossier，采信＝姓名、职业、年代、条目语境四者相容；
-非学界职业一律驳回；学界职业但语境不符者记同名异人。采信者仍留人工终审。
+判定口径（两档方案）：GND 只产 dossier，采信＝姓名、职业、年代、条目语境四者相容；
+非学界职业驳回；学界职业但语境不符记同名异人；无生卒或缺职业且无法从条目旁证定身份者
+记“未判”，随译核。采信者仍留人工终审。
 """
 import io
 import sys
 
 sys.stdout.reconfigure(encoding='utf-8')
-SRC = 'script/tmp/person-candidates-102.tsv'
+SRC = 'specs/013-person-attribution/results/gnd-review-short-2026-11-26.tsv'
+SIG = 'script/tmp/review-signals.tsv'
 OUT = 'specs/013-person-attribution/results/gnd-review-decisions-2026-11-26.tsv'
 
 ACCEPT = {
@@ -22,11 +27,9 @@ ACCEPT = {
     'Wülfer, Daniel': 'johann-sturm 正文：圣洛伦茨牧师兼教长',
     'Rötenbeck, Georg Paul': 'johann-sturm 正文：阿尔特多夫教授、悼文作者',
 }
-
 SUSPECT = {
     'Páez, Andrés': 'GND 记法学家（Ibarra 1966）；SEP 记其哲学学士，职业不符，待人工',
 }
-
 REJECT = {
     'Hippo': '非人名（地名／残句），GND 命中经济学者属同名',
     'Nicanor': '同名哲学家，Bayle 词条无此引证',
@@ -62,34 +65,41 @@ REJECT = {
 
 
 def main():
+    signals = {}
+    try:
+        for l in io.open(SIG, encoding='utf-8'):
+            c = l.rstrip('\n').split('\t')
+            if len(c) >= 8 and c[0] != '键':
+                signals[c[0]] = c[7]
+    except IOError:
+        pass
     rows = []
     for l in io.open(SRC, encoding='utf-8'):
-        c = l.rstrip('\n').split('\t')
-        if len(c) < 8 or c[0] == '键':
+        x = l.rstrip('\n').split('\t')
+        if len(x) < 7 or x[0] == '键' or x[1] != 'review':
             continue
-        key, cand, years, pob, occ, gnd, first, school = c[:8]
+        key, cand, years, pob, occ, gnd = x[0], x[2], x[3], x[4], x[5], x[6]
         if key in ACCEPT:
             verdict, why = '采信候选', ACCEPT[key]
         elif key in SUSPECT:
             verdict, why = '存疑', SUSPECT[key]
         elif key in REJECT:
             verdict, why = '驳回', REJECT[key]
-        elif key in REJECT or cand in REJECT:
-            verdict, why = '驳回', REJECT.get(key) or REJECT[cand]
-        elif school == 'Y':
-            verdict, why = '驳回', '学界职业但条目语境不符（同名异人）'
-        else:
+        elif years and occ:
             verdict, why = '驳回', '职业非学界（%s）' % occ
-        rows.append((key, cand, years, pob, occ, gnd, first, verdict, why))
-    order = {'采信候选': 0, '存疑': 1, '驳回': 2}
-    rows.sort(key=lambda r: (order[r[7]], r[6], r[0]))
+        else:
+            verdict = '未判'
+            why = '无生卒或缺职业，随译核；条目内引证 %s' % (
+                '有' if signals.get(key) == 'Y' else '无／未搜到')
+        rows.append((key, cand, years, pob, occ, gnd, verdict, why))
+    order = {'采信候选': 0, '存疑': 1, '未判': 2, '驳回': 3}
+    rows.sort(key=lambda r: (order[r[6]], r[0]))
     with io.open(OUT, 'w', encoding='utf-8', newline='\n') as f:
-        f.write('键\t候选名\t生卒\t出生地\t职业\tGND\t首现\t判定\t理由\n')
+        f.write('键\t候选名\t生卒\t出生地\t职业\tGND\t判定\t理由\n')
         for r in rows:
             f.write('\t'.join(r) + '\n')
     from collections import Counter
-    cnt = Counter(r[7] for r in rows)
-    print('台账 %d 行：%s' % (len(rows), dict(cnt)))
+    print('台账 %d 行：%s' % (len(rows), dict(Counter(r[6] for r in rows))))
 
 
 if __name__ == '__main__':
