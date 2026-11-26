@@ -6,7 +6,7 @@
 
 ## 规范层级（冲突时上位覆盖下位）
 
-1. **项目宪法** `.specify/memory/constitution.md`：零信任、可追溯、单一事实源、流程先行、礼貌抓取、体例即契约、知难行易。
+1. **项目宪法** `.specify/memory/constitution.md`：零信任、可追溯、单一事实源、流程先行、抓取失败显式化、体例即契约、知难行易。
 2. **全局规则** `rules/`：宪法的操作性展开；修订走 `rules/adr/`（ADR 只追加，取代链完整）；存放位置见 `rules/README.md` 的规则地图。
 3. **参考方法论** `rules/reference/`：engineering-doctrine，不具约束力，采纳进 `rules/` 才生效。
 4. **工程规格** `specs/<NNN>-*/`：规格、契约（`contracts/cli.md` 职责权属）与执行记录。
@@ -46,7 +46,7 @@
 | 单一事实源 | 结构 `SUMMARY.md`、术语 `shu-yu-biao.md`、人名 `ren-ming-biao.md`、版本 `baseline/`、任务 `tasks/`；不一致时修弱势方 | ADR-0012、ADR-0036 |
 | 流程先行 | 动笔前先建任务；先登记术语后使用；每步留 `evidence` | `rules/04`、`rules/03` |
 | 提交纪律 | 小步提交、中文一行信息、只提交相关文件、直接提交 main；**提交即推**（自动 push；推前 fetch，落后先 pull --rebase；禁 force）；收工核对 `git log origin/main..main` 为空 | `rules/06`、ADR-0026、ADR-0059 |
-| 抓取礼貌 | 相邻请求至少间隔 5 秒；4xx、5xx、超时退避重试并记录，禁止静默跳过 | `rules/05` |
+| 抓取失败显式化 | 4xx／5xx／超时退避重试并记录最终状态，禁止静默跳过；不设最小请求间隔（ADR-0069） | `rules/05` |
 | 抓取完整性 | 词条包内被引用资产必须齐备；`tools/fetch_audit.py` 闭包迭代至不动点，缺件自动补抓 | `tools/fetch_audit.py` |
 | 更新流程 | `fetch_catalog` 检测漂移，`compare.py` 产出变更文件，建账置空待译（done 件 `reopen --clear`、在途件 `reopen --upstream-sync`、无账件 `create --from`；证据 `changes:` 开头；ADR-0050/0051/0068），置空后全量重译走 retranslate 链；**en/ 绝对冻结（ADR-0062）**——与原始钉逐字节一致，文字与格式层一律不改；文字缺陷入全局勘误表（`baseline/en-errata/en-errata.md`，ADR-0076）并在中文译文加译注，格式问题走 `baseline/en-patches/` 补丁池（一补丁一文件，转换层应用，命中计数硬校验）；`yuanwen/` 与 HTML 文字一致（忠实转换，上游错字照录）；en/ 与钉不一致未登记即门禁红（ADR-0045） | `specs/001-sep-sync-pipeline/contracts/cli.md`、`rules/adr/0062-*.md` |
 | 结构形态 | 词条 `<letter>/<slug>.md`，别名链目标；集群占位母行为无链接分组行（不指向文件）；`yuanwen/<letter>/<slug>.md` 镜像逐字符一致 | `rules/01`、ADR-0009、ADR-0057 |

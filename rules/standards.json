@@ -627,7 +627,7 @@
    "domain": "工程过程",
    "owner": "rules/09",
    "source": "iso.org/standard/90219.html",
-   "checked": "2026-11-25"
+   "checked": "2026-11-27"
   },
   {
    "id": "C47",
@@ -662,11 +662,11 @@
     "ISO/IEC/IEEE 29148"
    ],
    "title": "生命周期过程——需求工程",
-   "status": "待核",
+   "status": "现行（2018 版；2024 复审确认；DIS 在研）",
    "domain": "工程过程",
    "owner": "specs 模板",
-   "source": "README",
-   "checked": "2026-11-25"
+   "source": "https://www.iso.org/standard/72089.html",
+   "checked": "2026-11-27"
   },
   {
    "id": "C51",
@@ -675,11 +675,11 @@
     "ISO/IEC/IEEE 26514"
    ],
    "title": "用户文档设计与开发",
-   "status": "待核",
+   "status": "现行（2022 版）",
    "domain": "工程过程",
    "owner": "specs 模板",
-   "source": "README",
-   "checked": "2026-11-25"
+   "source": "https://www.iso.org/standard/77451.html",
+   "checked": "2026-11-27"
   },
   {
    "id": "C52",
@@ -688,11 +688,11 @@
     "ISO/IEC/IEEE 15289"
    ],
    "title": "生命周期信息项内容",
-   "status": "待核",
+   "status": "现行（2019 版；2025 确认；2026-06-11 转 90.92 修订）",
    "domain": "工程过程",
    "owner": "specs 模板",
-   "source": "README",
-   "checked": "2026-11-25"
+   "source": "https://www.iso.org/standard/74909.html",
+   "checked": "2026-11-27"
   },
   {
    "id": "C53",
@@ -1089,6 +1089,10 @@
   {
    "std": "ISO 11940（泰文转写系统）",
    "reason": "泰文仅出现在个别引文中，按来源照录、不自行转写；未见系统性需求，不采其转写表"
+  },
+  {
+   "std": "ISO/IEC 25010:2023",
+   "reason": "第 2 版九特性，适用于 ICT／软件产品质量，不是译文质量模型；功能适合性不得等同译文准确性，亦不得据此声称译文符合 25010。裁定不直接适用、不纳登，仅可作工具产品质量或类比分类（064 spec §2.5／G12；官方页 https://www.iso.org/standard/78176.html；检索日 2026-11-27）"
   }
  ]
 }

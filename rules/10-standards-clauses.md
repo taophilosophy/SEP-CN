@@ -95,3 +95,15 @@
 * 本库只导 **TBX Core（DCT 风格）**，不启用方言模块（TBX-Basic／Min 的模块层暂不引入，避免空壳字段）。
 * 字段映射：键→`conceptEntry/@id`；原文→`langSec[@xml:lang=en]` 的 `term`；译法→`langSec[@xml:lang=zh-Hans]` 的 `term`；定义→`descrip type="definition"`；学科域→`descrip type="subjectField"`；概念关系→`descrip type="relatedConcept"`。
 * 生成：`python tools/term_tbx.py [--out PATH]`；只读两表、确定性排序、XML 良构校验；产物为生成物，**禁手改**。
+
+## 10.7 工程过程标准备注（T169 回写，2026-11-27）
+
+版本状态与官方页以 `rules/standards.json` 为准（C45／C50／C51／C52 及 `not_adopted`）；本表只登记处置，不复制标准原文。
+
+| 标准 | 版本状态（检索日 2026-11-27） | 本库处置 |
+| ---- | ---- | ---- |
+| ISO/IEC/IEEE 29148:2018 | 现行（2018 版；2024 复审确认；DIS 在研） | 需求与规格文档：部分适用；specs 三件套参照其需求陈述要求，判据未逐条落地（064 spec §5） |
+| ISO/IEC/IEEE 15289:2019 | 现行（2019 版；2025 确认；2026-06-11 转 90.92 修订） | 信息项／文档内容：部分适用；信息项模板未按标准分类建立（064 spec §5） |
+| ISO/IEC/IEEE 26514:2022 | 现行（2022 版） | 用户文档设计与开发：仅登记引用事实，未采纳承接——本库无面向终端用户的软件文档产品 |
+| ISO/IEC/IEEE 12207:2026 | 现行（2026-04；2017 版 2026-04-29 废止） | 生命周期与配置：采纳，承接见 `adopted` S21（`rules/09` 过程标准化；`check_stages`／`check_layout`） |
+| ISO/IEC 25010:2023 | 现行（第 2 版） | 九特性、ICT／软件产品质量模型、非译文质量模型；**不直接适用、不纳登**，仅可作工具产品质量或类比分类；不得把“功能适合性”等同译文准确性（`not_adopted` 已登记理由） |

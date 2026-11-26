@@ -78,3 +78,39 @@
 ## 下一站的前置
 
 tr-02 初译涉及 37,025 汉字的正文与 247 条脚注，单轮无法完成。需按节分批：先完成 §1–§2 作为样章，验证账本与写作口径，再全量推进。**在批次划分与样章验收前，不进入 tr-02。**
+
+## T130 人工定性（2026-11-27，待用户复核签字）
+
+> 依据：`rules/11-source-side.md` §5.3 A–E 类；候选取自 `results/e2e-habermas-source-audit.json`（`slug: habermas`，`checked_at 2026-11-25T21:38:53Z`，hard 0／warn 5／info 0）。回源对象 `en/habermas/index.html`（只读），行号为该文件行号。
+
+### 三段摘要
+
+1. **候选总数：5**（warn 5；hard 0、info 0，与 JSON 一致）。
+2. **豁免类计数**：A（存档与 URL 片段）1、B（年代与数字缩写）2、C（标题接正文）1、D（标点连串）1、E（外链失效）0。其中 A/B/C 共 4 项按 §5.3 豁免、不计缺陷；D 类不豁免，属真候选。
+3. **逐条定性结论**：真候选 **1**（`,,`，D 类，回原文确认系排印手误）；误报 **4**（A 1＋B 2＋C 1）；待核 **0**。缺陷计数净增 1 条（文字层），按 ADR-0062 走全局勘误表＋中文译注，`en/` 零改动。
+
+### 逐条定性表
+
+| # | 候选 | 类 | 定性 | 依据 | 处置 |
+| ---- | ---- | ---- | ---- | ---- | ---- |
+| 1 | `sum2023`（`word_digit_eq`） | A 存档与 URL 片段 | **误报** | HTML L4867：`&lt;<a href="https://plato.stanford.edu/archives/sum2023/entries/habermas/">https://plato.stanford.edu/archives/sum2023/entries/habermas/</a>&gt;`（Other Internet Resources，L4860 起；同句另有 `(Summer 2023 Edition)`，L4865–4866）。`sum2023` 为存档路径片段，非正文文字 | 豁免，不入勘误表；记录“命中 A 类、判为误报” |
+| 2 | `Discourse … Discourse`（`doubled_word`） | C 标题接正文 | **误报** | HTML L1577 `<h3 id="Disc">3.1 Discourse</h3>`，L1579–1580 `<p>` 换段后正文首句 `Discourse is not a synonym for language or speech.`。重复关系来自“标题末词＋正文首词”，非正文重复。JSON token 原文含换行：`Discourse \n\n \nDiscourse`；ctx 为 `… 3.1 Discourse \n\n \nDiscourse is not a synonym for language or speech` | 豁免（回原文确认后判误报）；建议 `en_source_audit` 后续屏蔽“标题末词＝段落首词”形态 |
+| 3 | `80s`（`digit_for_letter`） | B 年代与数字缩写 | **误报** | HTML L2120：`researched the book in the late 80s and early 90s, political theory`（§4 首段，L2116 起） | 豁免（GB/T 15835 年代缩写规范用法）；不入勘误表 |
+| 4 | `90s`（`digit_for_letter`） | B 年代与数字缩写 | **误报** | 同上句 HTML L2120（同一短语 `the late 80s and early 90s`） | 豁免，同上 |
+| 5 | `,,`（`punct_run`） | D 标点连串 | **真候选（真 typo）** | HTML L4199–4201：`<li>chapter 3, &ldquo;Eine Hypothese zum gattungsgeschichtlichen Sinn` / `des Ritus&rdquo;,, translated as &ldquo;A Hypothesis concerning the` / `Evolutionary Meaning of Rites&rdquo;, 43&ndash;56.</li>`（Bibliography › Works by Habermas，L3561 起；父条 2012 [2017] 见 L4192–4195）。`&rdquo;` 后紧接两个逗号，而姊妹子条 chapter 4 作 `&rdquo;, translated as`（L4203–4205，单逗号），chapter 6 作 `&rdquo; translated as`（L4208–4209，无逗号） | **真 typo**：入全局勘误表＋中文译注；`en/` 不改（ADR-0062），`yuanwen/h/habermas.md` L823 照录双逗号；建议勘误行要素见下 |
+
+### 第 5 条建议勘误行要素（仅供复核，本会话未写 `baseline/en-errata/en-errata.md`）
+
+按 `baseline/en-errata/en-errata.md` §“入表格式（第八节起）”七列：
+
+| slug | 位置 | 上游原文 | 缺陷定性 | 参考读法 | 中文承载 | 凭证 |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| habermas | Bibliography › Works by Habermas（`#WorkHabe`，L3561）› 2012 [2017]《Nachmetaphysisches Denken II》条子项 chapter 3（HTML L4199–4201；yuanwen `h/habermas.md` L823，脚注键 `eine-nd-3`） | `des Ritus”,, translated as` | ①（排印手误） | `des Ritus”, translated as`（单逗号） | 该脚注条目按单逗号呈现；译注落同条句内，形如 `（译注：上游原文此处作双逗号“”,,”，系排印之误。）`，具体措辞由 tr-04／rv-01 定 | 同页姊妹子条 chapter 4（L4203–4205）、chapter 6（L4208–4209）均无连串逗号；`en/` 冻结不改，`yuanwen` 忠实照录 |
+
+### 未决项（不计入本表 5 候选）
+
+* 附带观察：HTML L4179–4181 `Theory on Empitical Research` 疑为 `Empirical` 之误（①排印手误），`en_source_audit` 未产出该候选（拼写类不在其检出范围）。是否另立勘误条目待用户裁定；本表 5 行仍与 JSON warn 一一对应，不因该观察改动计数。
+
+状态：T130 未完成，待用户复核签字
+
+待用户复核签字：________

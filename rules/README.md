@@ -36,7 +36,7 @@
 | 宪法 | `.specify/memory/constitution.md` | 最高原则 | 治理会话 |
 | 约束性规则 | `rules/01-10` + `rules/adr/`（决策记录）；单文件超 300 行/30KB 按主题拆为 `rules/0X/` 目录 | 可执行条文 + ADR 决策史 | 治理会话（修订走 ADR） |
 | 判据机读件 | `rules/pipeline.json` | 22 作业节点（含 rv-03–rv-08 六轴，ADR-0079）、四类型、三档降级、`criteria_owner`——节点与判据唯一事实源（ADR-0068 W2 转正） | 治理会话（修订走 ADR） |
-| 公理登记 | `rules/axioms.json` | P1–P28 公理 + 定理 + 退役映射 + 谓词映射——公理唯一登记册（整合 041/042/043 三套，ADR-0068 W6 转正） | 治理会话（修订走 ADR） |
+| 公理登记 | `rules/axioms.json` | P1–P33 公理 + 定理 + 退役映射 + 谓词映射——公理唯一登记册（整合 041/042/043 三套，ADR-0068 W6 转正） | 治理会话（修订走 ADR） |
 | 事件模型 | `rules/journal-schema.json` | 六类事件、四节点类型、三档降级语义，`nodes_ref` 指 `pipeline.json`——事件日志模型唯一源（ADR-0068 W6 转正） | 治理会话（修订走 ADR） |
 | 参考方法论 | `rules/reference/`（[engineering-doctrine](reference/engineering-doctrine/README.md)：G0-G5 门禁、32 条总纲、知难行易（00b）、FR/NFR、交付清单） | 方法论基线，**不具约束力**，采纳进 rules/ 才生效 | 全体可读 |
 | 站点实现文档 | [`.vitepress/README.md`](../.vitepress/README.md) | 阅读站构建、主题、搜索、双语配对的实现说明（**非规则**，冲突以 rules/ 为准；ADR-0015） | 站点会话 |
@@ -103,9 +103,9 @@
 | 工程过程 | ISO/IEC/IEEE 12207:2026 | 现行（2026-04；2017 版 2026-04-29 废止） | rules/09 |
 | 叙词表 | ISO 25964-1:2011 | 第2版在版（60.00，2026-10）；第2部分 2013 版现行 | rules/03 |
 | 规则起草 | GB/T 1.1-2020 | 现行 | rules/README.md |
-| 工程过程 | ISO/IEC/IEEE 29148:2018 | 待核 | specs 模板 |
-| 工程过程 | ISO/IEC/IEEE 26514:2022 | 待核 | specs 模板 |
-| 工程过程 | ISO/IEC/IEEE 15289:2019 | 待核 | specs 模板 |
+| 工程过程 | ISO/IEC/IEEE 29148:2018 | 现行（2018 版；2024 复审确认；DIS 在研） | specs 模板 |
+| 工程过程 | ISO/IEC/IEEE 26514:2022 | 现行（2022 版） | specs 模板 |
+| 工程过程 | ISO/IEC/IEEE 15289:2019 | 现行（2019 版；2025 确认；2026-06-11 转 90.92 修订） | specs 模板 |
 | 语义标注 | ISO 24617-8:2016／-11:2021／-12:2025 | 待核 | rules/04 |
 | 日期时间 | GB/T 7408.1-2023 | 待核 | tasks/ |
 | 日期时间 | ISO 8601-1:2019 | 待核 | tasks/ |
