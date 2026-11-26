@@ -427,7 +427,7 @@
 | anuprekṣā | अनुप्रेक्षा | 随念 | jaina-philosophy | 耆那教学界通行（十二随念） | 2026-11-08 |
 | anusandhāna | अनुसन्धान | 再认统觉 | early-modern-india | 义译（re-identifying awareness；统觉对齐既有行 apperception）；凭证 2026-11-10 | 2026-11-10 |
 | anuśaya | अनुशय | 随眠 | yogacara 首译 | 学界惯例；汉传阿毗达磨与唯识学通行译名；凭证 2026-11-11；原文列联网查证：Monier-Williams《梵英辞典》anu-śaya 条（p. 39 col. 2，Cologne 词条页（2026-11-13 查，凭证 orig-verify-2026-11-13-b3.tsv） | 2026-11-13 |
-| aṇuvrata | अणुव्रत | 小誓 | 待核（jaina-philosophy 正文未见原词） | 学界惯例；耆那戒律通行（在家五戒）；2026-11-26 核：全库正文（index/notes/supplement/further-discussion 等全部 HTML，NFC 归一）未见该词；jaina-philosophy 行文用 omniscience 等通名，本行术语系按耆那研究通行形登记，首现待该条译出后回填 | 2026-11-26 |
+| aṇuvrata | अणुव्रत | 小誓 | 文献补编（源文未见原词，2026-11-26 核） | 学界惯例；耆那戒律通行（在家五戒）；2026-11-26 核：全库正文（index/notes/supplement/further-discussion 等全部 HTML，NFC 归一）未见该词；jaina-philosophy 行文用 omniscience 等通名，本行术语系按耆那研究通行形登记，首现待该条译出后回填；2026-11-26 核：全库去变音变体匹配未见原词，首现按文献补编记；首现待核处置 2026-11-26 | 2026-11-26 |
 | anvaya | अन्वय | 同有 | early-modern-india | 学界惯例；因明“同品有”通行（agreement in presence；与 vyatireka 同无对举）；凭证 2026-11-10 | 2026-11-10 |
 | anvaya-vyatirekin | अन्वयव्यतिरेकिन् | 同有同无（推理） | early-modern-india | 印度逻辑三分推理之一（positive-and-negative）；凭证 2026-11-11 | 2026-11-11 |
 | anyāpoha(gzhan sel) | གཞན་སེལ་ | 遣他（亦作“遮诠”） | epistemology-language-tibetan | 佛学界通行；原文列联网查证：Monlam 藏英词典 gzhan sel 条（“other exclusion; other-eliminat（2026-11-14 查，凭证 orig-verify-2026-11-14-b8.tsv）；FLAG 裁定 2026-11-21（联网凭证）：法尊译《集量论》卷五《观遣他品》作“遣他”；华文哲学百科述陈那遮诠理论作“遮诠” | 2026-11-21 |
@@ -618,8 +618,8 @@
 | auxiliary (verb) | — | 助动词 | necessary-sufficient | 学界惯例；语言学通行；凭证 2026-11-08 | 2026-11-08 |
 | auxiliary hypothesis | — | 辅助假设 | 语料回收（lakatos 首译） | 科学哲学界通行译法；凭证 2026-11-06 | 2026-11-06 |
 | avacchinna | अवच्छिन्न | 限界者 | early-modern-india | 学界惯例；新正理通行义译（delimitor；限定出现之属性）；凭证 2026-11-10 | 2026-11-10 |
-| avadhi-jñāna | अवधिज्ञान | 有限知 | 待核（jaina-philosophy 正文未见原词） | 耆那五种智之一（有限直接知），本库自拟；2026-11-26 核：全库正文（index/notes/supplement/further-discussion 等全部 HTML，NFC 归一）未见该词；jaina-philosophy 行文用 omniscience 等通名，本行术语系按耆那研究通行形登记，首现待该条译出后回填 | 2026-11-26 |
-| avaktavya | अवक्तव्य | 不可言说 | 待核（jaina-philosophy 正文未见原词） | 义译（七支之一）；2026-11-26 核：全库正文（index/notes/supplement/further-discussion 等全部 HTML，NFC 归一）未见该词；jaina-philosophy 行文用 omniscience 等通名，本行术语系按耆那研究通行形登记，首现待该条译出后回填 | 2026-11-26 |
+| avadhi-jñāna | अवधिज्ञान | 有限知 | 文献补编（源文未见原词，2026-11-26 核） | 耆那五种智之一（有限直接知），本库自拟；2026-11-26 核：全库正文（index/notes/supplement/further-discussion 等全部 HTML，NFC 归一）未见该词；jaina-philosophy 行文用 omniscience 等通名，本行术语系按耆那研究通行形登记，首现待该条译出后回填；2026-11-26 核：全库去变音变体匹配未见原词，首现按文献补编记；首现待核处置 2026-11-26 | 2026-11-26 |
+| avaktavya | अवक्तव्य | 不可言说 | 文献补编（源文未见原词，2026-11-26 核） | 义译（七支之一）；2026-11-26 核：全库正文（index/notes/supplement/further-discussion 等全部 HTML，NFC 归一）未见该词；jaina-philosophy 行文用 omniscience 等通名，本行术语系按耆那研究通行形登记，首现待该条译出后回填；2026-11-26 核：全库去变音变体匹配未见原词，首现按文献补编记；首现待核处置 2026-11-26 | 2026-11-26 |
 | avant-garde | — | 先锋派 | 语料回收（美学族扫描 2026-11-25） | 学界惯例；艺术史与艺术哲学通行（语料 8 次）；凭证 2026-11-25 | 2026-11-25 |
 | āvāpa | आवाप | 集取 | early-modern-india | 语言习得义译（collection；与 udvāpa 摒除对举）；凭证 2026-11-10 | 2026-11-10 |
 | āvaraṇa | आवरण | 障 | yogacara 首译 | 学界惯例；汉传佛典千年通行译名（烦恼障、所知障）；凭证 2026-11-11；原文列联网查证：Monier-Williams《梵英辞典》ā-varaṇa 条（Cologne 数字词典天城体词头渲染）（2026-11-13 查，凭证 orig-verify-2026-11-13-b5.tsv） | 2026-11-13 |
@@ -2500,7 +2500,7 @@
 | Erlebnis-Ästhetik | Erlebnis-Ästhetik | 体验美学 | gadamer-aesthetics | 学界惯例（美学研究通行） | 2026-11-01 |
 | erôs / eros | ἔρως | 爱欲（希腊；与 philia 友爱、agapē 圣爱对举） | 语料回收（外文术语审计 2026-11-25） | 希腊哲学通行（柏拉图《会饮》；原文形为学界通行转写对）；凭证 2026-11-25 | 2026-11-25 |
 | Eros and Civilization | — | 《爱欲与文明》 | 语料回收（specs/058 全库提取） | 权威译本（黄勇、薛民译，上海译文出版社 1987 / 2012；2026-11-24 联网核对，凭证 works-batch13-2026-11-24.md） | 2026-11-24 |
-| erotapokriseis | — | 问答体 | 待核（john-italos 正文未见原词） | 拜占庭文学研究通行体裁名；审定库无相关命中（termonline-all 凭证 2026-11-09；2026-11-26 界面精确匹配复核：0 条）；2026-11-26 核：原记首现词条正文未见该词，按全库精确匹配改记（全库未见） | 2026-11-26 |
+| erotapokriseis | — | 问答体 | john-italos | 拜占庭文学研究通行体裁名；审定库无相关命中（termonline-all 凭证 2026-11-09；2026-11-26 界面精确匹配复核：0 条）；2026-11-26 核：原记首现词条正文未见该词，按全库精确匹配改记（全库未见）；2026-11-26 核：原记首现未见原词，按源文变体（erōtapokriseis）精确匹配改记（john-italos）；首现待核处置 2026-11-26 | 2026-11-26 |
 | erotic art | — | 情色艺术 | 首现（erotic-art） | 学界通行（SUMMARY 定名沿用；erotic 译“情色的”） | 2026-11-08 |
 | erotica | — | 情色图像 | 首译（erotic-art） | 与情色艺术相对（Levinson 术语：意在刺激而不求艺术兴趣） | 2026-11-08 |
 | erroneous conscience | — | 错误良心 | conscience 首译 | 学界惯例；经院与天主教伦理学通行（conscientia erronea）；凭证 2026-11-08 | 2026-11-08 |
@@ -2613,7 +2613,7 @@
 | evolutionary medicine | — | 演化医学 | cancer | 学界通行（进化生物学与医学交叉）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug）；FLAG 裁定 2026-11-21：同上域内例外，维持“演化医学”（维持现译） | 2026-11-21 |
 | evolutionary psychology | — | 进化心理学 | 语料回收（specs/058 全库提取） | 审定名词库（termonline-all，凭证 2026-11-23） | 2026-11-23 |
 | evolutionism | — | 进化论 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·动物学·动物进化与系统学·动物进化，2026-11-18 JWT 直连凭证） | 2026-11-19 |
-| Ewam Choden | — | 俄旺秋丹寺 | 待核（gorampa 正文未见原词） | 萨迦派俄尔支派主寺音译；2026-11-26 核：原记首现词条正文未见该词，按全库精确匹配改记（全库未见） | 2026-11-26 |
+| Ewam Choden | — | 俄旺秋丹寺 | gorampa | 萨迦派俄尔支派主寺音译；2026-11-26 核：原记首现词条正文未见该词，按全库精确匹配改记（全库未见）；2026-11-26 核：原记首现未见原词，按源文变体（Evaṃ Chöden）精确匹配改记（gorampa）；首现待核处置 2026-11-26 | 2026-11-26 |
 | Ewe | — | 埃维语 | 首译（african-ethics） | 民族语言通行音译（加纳/多哥 Ewe）；凭证 2026-11-09 | 2026-11-09 |
 | ex falso quodlibet | — | ex falso quodlibet | logic-relevance | 学界惯例；无通行汉译，正文保留拉丁原文；凭证 2026-11-09 | 2026-11-09 |
 | ex nihilo | ex nihilo | 从无中创生 | delmedigo | 学界通行（creatio ex nihilo 通行译法；拉丁原语保留） | 2026-11-06 |
@@ -2912,7 +2912,7 @@
 | focal meaning / pros hen | — |焦点意义／面向一（pros hen）（亦作“指向一”）| analogy-medieval 首译 | 学界通行（亚里士多德 Metaph. 4.2 的 pros hen 歧义；亦作“指向一”）；凭证 2026-11-08 | 2026-11-08 |
 | focus imaginarius | — | 想象焦点 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | focused proof | — | 聚焦证明 | logic-linear | 学界惯例；证明论通行译法（Andreoli）；凭证 2026-11-10 | 2026-11-09 |
-| foliation | — | 叶状结构（亦作“叶状剖分”） | 待核（本库仅见波姆力学用法） | 学界惯例（微分几何“叶状结构”之动词义）；2026-11-24 审定改定：审定名词库（termonline-all·数学名词 08.0927，1993）作“叶状结构”，旧形降为亦作（凭证 termonline-b5-2026-11-24.tsv）；2026-11-26 核：spacetime-convensimul 正文未见该词；本库 foliation 见于 qm-bohm、quantum-gravity 等（波姆力学/量子引力用法），与微分几何义不同，首现待几何条译出后回填 | 2026-11-26 |
+| foliation | — | 叶状结构（亦作“叶状剖分”） | spacetime-convensimul | 学界惯例（微分几何“叶状结构”之动词义）；2026-11-24 审定改定：审定名词库（termonline-all·数学名词 08.0927，1993）作“叶状结构”，旧形降为亦作（凭证 termonline-b5-2026-11-24.tsv）；2026-11-26 核：spacetime-convensimul 正文未见该词；本库 foliation 见于 qm-bohm、quantum-gravity 等（波姆力学/量子引力用法），与微分几何义不同，首现待几何条译出后回填；2026-11-26 核：原记首现未见原词，按源文变体（foliation（补充材料 further-discussion））精确匹配改记（spacetime-convensimul）；首现待核处置 2026-11-26 | 2026-11-26 |
 | folk biology | — | 民间生物学 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | folk psychology | — | 民间心理学 | f/frame-problem 首译 | 心灵哲学通行译法；凭证 2026-11-10；审定名词库（心理学名词 04.091，2014）作“民族心理学”，为 folk＝民族义，非本行“民间心理学”（凭证 termonline-b5-2026-11-24.tsv） | 2026-11-10 |
 | folk theorem | — | 民间定理 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
@@ -3274,7 +3274,7 @@
 | Guliang Zhuan | 穀梁傳 | 《穀梁传》 | han-dynasty | 学界通行学名（春秋三传之一） | 2026-11-10 |
 | guṇa | गुण | 性质（德） | early-modern-india 首译 | 胜论句义传统译“德”（玄奘《胜宗十句义论》），正文取“性质”便于通读；认识论另义见 guṇa（认识论善德义）；凭证 2026-11-10；撞形豁免 2026-11-21：同形异语／同概念异形，按条目语境区分，不合并 | 2026-11-21 |
 | guṇa(认识论善德义) | गुण | 善德 | early-modern-india | 新正理因果认识论义译（truth-conducive factor；与 doṣa 过失对举）；凭证 2026-11-10；键形归一 2026-11-21：全角括注／斜线改半角（键须为源语形）；旧键 guṇa（认识论善德义） | 2026-11-21 |
-| guṇasthāna | गुणस्थान | 阶位 | 待核（jaina-philosophy 正文未见原词） | 学界惯例；耆那教通行（十四阶位）；2026-11-26 核：全库正文（index/notes/supplement/further-discussion 等全部 HTML，NFC 归一）未见该词；jaina-philosophy 行文用 omniscience 等通名，本行术语系按耆那研究通行形登记，首现待该条译出后回填 | 2026-11-26 |
+| guṇasthāna | गुणस्थान | 阶位 | 文献补编（源文未见原词，2026-11-26 核） | 学界惯例；耆那教通行（十四阶位）；2026-11-26 核：全库正文（index/notes/supplement/further-discussion 等全部 HTML，NFC 归一）未见该词；jaina-philosophy 行文用 omniscience 等通名，本行术语系按耆那研究通行形登记，首现待该条译出后回填；2026-11-26 核：全库去变音变体匹配未见原词，首现按文献补编记；首现待核处置 2026-11-26 | 2026-11-26 |
 | Guru Granth Sahib | — | 《古鲁·格兰特·萨希卜》 | 首译（sikh-philosophy） | 学界通行汉译（锡克正典，1604 阿尔詹古鲁编定；亦作《室利·古鲁·格兰特·萨希卜》SGGS）；凭证 2026-11-09 | 2026-11-09 |
 | gurutva | गुरुत्व | 重性 | early-modern-india | 学界惯例；胜论动力学通行义译（weight）；凭证 2026-11-10 | 2026-11-10 |
 | Gymnosophists | — | 裸形智者 | gianfrancesco-pico | 学界惯例；希腊文术语通行汉译（印度苦行者） | 2026-11-09 |
@@ -4119,7 +4119,7 @@
 | kāla | काल | 时（时间） | early-modern-india | 学界惯例；印度哲学通行义译（胜论第九实）；凭证 2026-11-10；撞形豁免 2026-11-21：同形异语／同概念异形，按条目语境区分，不合并 | 2026-11-21 |
 | kalām | كلام | 凯拉姆；伊斯兰教义学（直音译与意译并存；勿泛译“神学”） | umar-khayyam；arabic-islamic-* 集群 | 伊斯兰研究通行音译（辩证神学；亦译教义学）；知网系 GB 标准库查证：无收录（totalRecords=0，凭证 2026-10-28）；学界通行（《中国伊斯兰百科全书》等）；2026-11-15 合并同键行（specs/034） | 2026-11-26 |
 | kalima | — | 词（逻各斯） | 首现（theology-aristotle） | 学界惯例（伊斯兰神学 kalima 兼指'词/言语'）；凭证 2026-11-08；撞形豁免 2026-11-21：同形异语／同概念异形，按条目语境区分，不合并 | 2026-11-21 |
-| kalokagathos | καλοκἀγαθός |美善合一（亦作“美且善者”）| 待核（landmann-kalischer 正文未见原词） | 希腊 καλοκἀγαθός 学界通行（亦作“美且善者”备查）；2026-11-26 核：原记首现词条正文未见该词，按全库精确匹配改记（全库未见） | 2026-11-26 |
+| kalokagathos | καλοκἀγαθός | 美善合一（亦作“美且善者”） | philo | 希腊 καλοκἀγαθός 学界通行（亦作“美且善者”备查）；2026-11-26 核：原记首现词条正文未见该词，按全库精确匹配改记（全库未见）；2026-11-26 核：原记首现未见原词，按源文变体（kalos kagathos（分写））精确匹配改记（philo）；首现待核处置 2026-11-26 | 2026-11-26 |
 | Kanhwa Sŏn(看話禪) | 看話禪 | 看话禅 | korean-buddhism | 汉文传统写法（大慧宗杲创、知讷引入韩国）；键形归一 2026-11-21：全角括注／斜线改半角（键须为源语形）；旧键 Kanhwa Sŏn（看話禪） | 2026-11-21 |
 | kannagara | 随神 | 随神而行 | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
 | Kanon (Epicurus) | Κανών | 《规范》 | epicurus | 本词条译名（伊壁鸠鲁认识论著作；与 canon 咏礼司铎 分列） | 2026-11-12 |
@@ -4145,7 +4145,7 @@
 | kartṛ | कर्तृ | 作业者 | early-modern-india | 学界惯例；印度语法/因明通行（agent；与所作业、工具并列）；凭证 2026-11-10 | 2026-11-10 |
 | kartṛ-janyatva | कर्तृजन्यत्व | 有作者性 | early-modern-india | 新正理义译（being made by an agent；欲成之性）；凭证 2026-11-10 | 2026-11-10 |
 | kāryatva | कार्यत्व | 果性 | early-modern-india | 新正理义译（effect-hood；神存在论证之因相）；凭证 2026-11-10 | 2026-11-10 |
-| kaṣāya | कषाय | 烦恼（耆那） | 待核（jaina-philosophy 正文未见原词） | 学界惯例；耆那业论通行（情欲之胶）；2026-11-26 核：全库正文（全部 HTML，去变音符归一）未见该词；jaina-philosophy 行文用 omniscience 等通名，术语按耆那研究通行形登记，首现待该条译出后回填；撞形豁免 2026-11-26：同形异义（耆那 kaṣāya 与佛教 kleśa），不合并 | 2026-11-26 |
+| kaṣāya | कषाय | 烦恼（耆那） | 文献补编（源文未见原词，2026-11-26 核） | 学界惯例；耆那业论通行（情欲之胶）；2026-11-26 核：全库正文（全部 HTML，去变音符归一）未见该词；jaina-philosophy 行文用 omniscience 等通名，术语按耆那研究通行形登记，首现待该条译出后回填；撞形豁免 2026-11-26：同形异义（耆那 kaṣāya 与佛教 kleśa），不合并；2026-11-26 核：全库去变音变体匹配未见原词，首现按文献补编记；首现待核处置 2026-11-26 | 2026-11-26 |
 | Kashf al-Asrār | — | 《揭开通向思想幽微之秘》 | 语料回收（specs/058 全库提取） | 本库译名（胡纳吉著；全题 Kashf al-Asrār ʿan Ghawāmiḍ al-Afkār，英译 The Disclosure of Secrets；语料 14 处一致，正文多简称拉丁题）（2026-11-24 语料核对，凭证 works-batch24-2026-11-24.md） | 2026-11-24 |
 | kata | 型 | 型（形） | japanese-aesthetics | 学界惯例（日本艺道研究通行译法“型”）；FLAG 裁定 2026-11-21：登记册用语 japanese-aesthetics 无误（原文“a “form” ( kata )”日语艺道义确证）；dossier 希腊介词证据行误选（维持现译，用语列无需改） | 2026-11-21 |
 | katanakake | 刀掛け | 刀挂 | japanese-aesthetics | 学界惯例（日本茶室研究通行译法“刀挂”） | 2026-11-02 |
@@ -4156,11 +4156,11 @@
 | kensho | 見性 | 见性（保留拉丁 kensho） | religious-experience | 学界通行（禅宗） | 2026-11-05 |
 | kernel function | — | 核函数 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·数学·分析学·复分析，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | kerygmatic theology | — | 宣道神学 | 首现（scholz） | 学界惯例（巴特研究通行）；凭证 2026-11-07 | 2026-11-07 |
-| kevala | केवल | 全知（kevala） | 待核（jaina-philosophy 正文未见原词） | 耆那教研究通行（kevala-jñāna 全知；本库统一形“全知”）；2026-11-26 核：全库正文（index/notes/supplement/further-discussion 等全部 HTML，NFC 归一）未见该词；jaina-philosophy 行文用 omniscience 等通名，本行术语系按耆那研究通行形登记，首现待该条译出后回填；本库仅见 kevala-vyatirekin 等因明复合形，非全知义；撞形豁免 2026-11-26：同形异义（耆那 kevala 与神学 omniscience），不合并 | 2026-11-26 |
+| kevala | केवल | 全知（kevala） | 待核（jaina-philosophy 正文未见原词；2026-11-26 核：仅见因明复合形；personhood-india 解作解脱义；不充首现，保持待核） | 耆那教研究通行（kevala-jñāna 全知；本库统一形“全知”）；2026-11-26 核：全库正文（index/notes/supplement/further-discussion 等全部 HTML，NFC 归一）未见该词；jaina-philosophy 行文用 omniscience 等通名，本行术语系按耆那研究通行形登记，首现待该条译出后回填；本库仅见 kevala-vyatirekin 等因明复合形，非全知义；撞形豁免 2026-11-26：同形异义（耆那 kevala 与神学 omniscience），不合并；2026-11-26 核：仅见因明复合形；personhood-india 解作解脱义；不充首现，保持待核；首现待核处置 2026-11-26 | 2026-11-26 |
 | kevala-vyatirekin | केवलव्यतिरेकिन् | 全异转 | early-modern-india | 学界惯例；印度逻辑学通行义译（universally negative）；凭证 2026-11-10 | 2026-11-10 |
 | kevalābhāva | केवलाभाव | 纯非存在（唯无） | early-modern-india | 新正理否定语义译（mere absence；与 viśiṣṭābhāva 别有所无对举）；凭证 2026-11-10；正文作“纯非存在”（校 2026-11-11）| 2026-11-10 |
 | kevalānvayin | केवलान्वयिन् | 全同转（亦作“纯同”） | early-modern-india 首译 | 学界惯例；印度逻辑学通行义译（universally positive；亦作“纯同”）；凭证 2026-11-10 | 2026-11-10 |
-| kevalin | केवलिन् | 全知者 | 待核（jaina-philosophy 正文未见原词） | 随 kevala；2026-11-26 核：全库正文（index/notes/supplement/further-discussion 等全部 HTML，NFC 归一）未见该词；jaina-philosophy 行文用 omniscience 等通名，本行术语系按耆那研究通行形登记，首现待该条译出后回填 | 2026-11-26 |
+| kevalin | केवलिन् | 全知者 | 文献补编（源文未见原词，2026-11-26 核） | 随 kevala；2026-11-26 核：全库正文（index/notes/supplement/further-discussion 等全部 HTML，NFC 归一）未见该词；jaina-philosophy 行文用 omniscience 等通名，本行术语系按耆那研究通行形登记，首现待该条译出后回填；2026-11-26 核：全库去变音变体匹配未见原词，首现按文献补编记；首现待核处置 2026-11-26 | 2026-11-26 |
 | key distribution | — | 密钥分发 | qt-entangle | 密码学通行译名；凭证 2026-11-09；审定名词库（termonline-all·计算机科学技术名词 10.0036，2018）作“密钥分发中心”，本行“密钥分发”为其核心词（凭证 termonline-b6-2026-11-24.tsv） | 2026-11-09 |
 | khabar | خبر | 传述 | ibn-taymiyya | 学界惯例（与 ḥiss 感官、ʿaql 理性并列的认识来源）；旧键“al-kabar”并入（2026-11-21 FLAG 裁定：原键拼写误、出处误记 saadya） | 2026-11-21 |
 | khamr | خمر | 酒（葡萄酒） | ibn-taymiyya | 学界通行（教法禁酒术语） | 2026-11-12 |
@@ -4341,7 +4341,7 @@
 | lemma | — | 引理 | 语料回收（逻辑方法族扫描 2026-11-25） | 学界惯例；数学与逻辑通行（语料 39 次）；凭证 2026-11-25 | 2026-11-25 |
 | Leninism | — | 列宁主义 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·世界历史·综合·国际共产主义运动，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | Lernfreiheit | Lernfreiheit | 学习自由（亦作“学的自由”） | 语料回收（academic-freedom） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核查无（termonline-all 浏览器通道 2026-10-29；2026-11-26 界面复核改判：审定作“学习自由”（freedom of learning，教育学名词）） | 2026-11-26 |
-| lesyā | लेश्या | 业染 | 待核（jaina-philosophy 正文未见原词） | 耆那教义译（心为业所染之色）；2026-11-26 核：全库正文（index/notes/supplement/further-discussion 等全部 HTML，NFC 归一）未见该词；jaina-philosophy 行文用 omniscience 等通名，本行术语系按耆那研究通行形登记，首现待该条译出后回填 | 2026-11-26 |
+| lesyā | लेश्या | 业染 | 文献补编（源文未见原词，2026-11-26 核） | 耆那教义译（心为业所染之色）；2026-11-26 核：全库正文（index/notes/supplement/further-discussion 等全部 HTML，NFC 归一）未见该词；jaina-philosophy 行文用 omniscience 等通名，本行术语系按耆那研究通行形登记，首现待该条译出后回填；2026-11-26 核：全库去变音变体匹配未见原词，首现按文献补编记；首现待核处置 2026-11-26 | 2026-11-26 |
 | Letter on Divine Science | — | 《论神圣科学书简》 | 首现（theology-aristotle） | 照题直译（伪法拉比书简，通行亦作《论神圣科学》）；凭证 2026-11-08 | 2026-11-08 |
 | Letter to Herodotus | — | 《致希罗多德书》 | epicurus | 本词条译名（*LH*） | 2026-11-12 |
 | Letter to Menoeceus | — | 《致美诺寇书》 | epicurus | 本词条译名（*LM*） | 2026-11-12 |
@@ -4562,7 +4562,7 @@
 | magokoro | 真心 | 真心 | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
 | Mahāvairocana | महावैरोचन | 大毗卢遮那（大日如来） | kukai | 佛学界传统译名（真言宗称大日）；原文取证（wisdomlib.org Monier-Williams 词条显式配对，2026-11-10） | 2026-11-09 |
 | Mahāvairocana Sūtra | — | 《大日经》 | 语料回收（specs/058 全库提取） | 学界惯例；汉译佛典通行经题（善无畏、一行译《大毗卢遮那成佛神变加持经》之简称；非抉择项，语料 16 处一致）（2026-11-24 联网／语料核对，凭证 works-batch21-2026-11-24.md） | 2026-11-24 |
-| mahāvrata | महाव्रत | 大誓 | 待核（jaina-philosophy 正文未见原词） | 学界惯例；耆那戒律通行（出家五誓）；2026-11-26 核：全库正文（index/notes/supplement/further-discussion 等全部 HTML，NFC 归一）未见该词；jaina-philosophy 行文用 omniscience 等通名，本行术语系按耆那研究通行形登记，首现待该条译出后回填 | 2026-11-26 |
+| mahāvrata | महाव्रत | 大誓 | 文献补编（源文未见原词，2026-11-26 核） | 学界惯例；耆那戒律通行（出家五誓）；2026-11-26 核：全库正文（index/notes/supplement/further-discussion 等全部 HTML，NFC 归一）未见该词；jaina-philosophy 行文用 omniscience 等通名，本行术语系按耆那研究通行形登记，首现待该条译出后回填；2026-11-26 核：全库去变音变体匹配未见原词，首现按文献补编记；首现待核处置 2026-11-26 | 2026-11-26 |
 | Mahāyāna | महायान | 大乘 | yogacara 首译 | 学界惯例；汉传佛典千年通行；凭证 2026-11-11；原文列联网查证：Monier-Williams《梵英辞典》mahā-yāna 条（2026-11-13 查，凭证 orig-verify-2026-11-13.tsv） | 2026-11-13 |
 | Mahāyānasaṃgraha | महायानसंग्रह | 《摄大乘论》 | yogacara 首译 | 汉文古译（真谛、玄奘译）；文献译名；凭证 2026-11-11；原文列联网查证：Monier-Williams《梵英辞典》 lnum 160508.1（p. 799,2），csl-devana（2026-11-14 查，凭证 orig-verify-2026-11-14-b7.tsv） | 2026-11-14 |
 | Mahāyānasūtrālaṃkāra | — | 《大乘庄严经论》 | yogacara 首译 | 汉文古译（波罗颇蜜多罗译）；文献译名；原文列待考；凭证 2026-11-11；原文列：工具书查无原生文字（2026-11-20 检 wisdomlib／GND／BDRC／84000／Logeion，均无“转写↔原生文字”显式配对，部分源不可达；映射表推演禁用，ADR-0030） | 2026-11-11 |
@@ -4582,7 +4582,7 @@
 | male gaze | — | 男性凝视 | 首现（erotic-art） | 学界惯例；女性主义电影理论通行（Mulvey 术语） | 2026-11-08 |
 | malware | — | 恶意软件 | 首现（it-moral-values） | 信息安全通行译名；凭证 2026-11-10；海峡两岸名词对照库（termonline-all·大数据百科术语辞典；非审定公布库）作“恶意软件”，与本行一致（2026-11-24 JWT 直连，凭证 termonline-b7-2026-11-24.tsv） | 2026-11-25 |
 | Man and the State | — | 《人和国家》（马里坦 1951） | s/sovereignty 首译 | 学界通行译名（商务印书馆中译本既名）；凭证 2026-11-07 | 2026-11-07 |
-| manaḥparyaya-jñāna | मनःपर्ययज्ञान | 他心智 | 待核（jaina-philosophy 正文未见原词） | 耆那五种智之一，本库自拟；2026-11-26 核：全库正文（全部 HTML，去变音符归一）未见该词；jaina-philosophy 行文用 omniscience 等通名，术语按耆那研究通行形登记，首现待该条译出后回填 | 2026-11-26 |
+| manaḥparyaya-jñāna | मनःपर्ययज्ञान | 他心智 | 文献补编（源文未见原词，2026-11-26 核） | 耆那五种智之一，本库自拟；2026-11-26 核：全库正文（全部 HTML，去变音符归一）未见该词；jaina-philosophy 行文用 omniscience 等通名，术语按耆那研究通行形登记，首现待该条译出后回填；2026-11-26 核：全库去变音变体匹配未见原词，首现按文献补编记；首现待核处置 2026-11-26 | 2026-11-26 |
 | mañana paradox | mañana paradox | 明天悖论 | 语料回收（词汇表并网） | 学界惯例（词汇表并网迁移）；词汇表并网（ADR-0036）；审定库无相关命中（termonline-all 凭证 2026-11-13；2026-11-26 界面精确匹配复核：0 条）| 2026-11-26 |
 | manas | मनस् | 意 | early-modern-india | 印度哲学通行（胜论第九实，内感官；佛典古译“意”）；凭证 2026-11-10 | 2026-11-10 |
 | mancipium animi | mancipium animi | 灵魂的奴仆 | vives | 拉丁语随文括注义译 | 2026-11-25 |
@@ -4673,7 +4673,7 @@
 | mathematical structure | — | 数学结构 | 语料回收（zh 频次审计 2026-11-25） | 数学哲学通行（与 mathematical structuralism 数学结构主义分列）；审定库无对口命中，2026-11-25；凭证 2026-11-25 | 2026-11-25 |
 | mathematical sublime | — | 数学崇高 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | mathematical theories | — | 数学理论 | 语料回收（specs/058 全库提取） | 学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22） | 2026-11-22 |
-| mati-jñāna | मतिज्ञान | 意觉知 | 待核（jaina-philosophy 正文未见原词） | 耆那五种智之一，本库自拟；2026-11-26 核：全库正文（index/notes/supplement/further-discussion 等全部 HTML，NFC 归一）未见该词；jaina-philosophy 行文用 omniscience 等通名，本行术语系按耆那研究通行形登记，首现待该条译出后回填 | 2026-11-26 |
+| mati-jñāna | मतिज्ञान | 意觉知 | 文献补编（源文未见原词，2026-11-26 核） | 耆那五种智之一，本库自拟；2026-11-26 核：全库正文（index/notes/supplement/further-discussion 等全部 HTML，NFC 归一）未见该词；jaina-philosophy 行文用 omniscience 等通名，本行术语系按耆那研究通行形登记，首现待该条译出后回填；2026-11-26 核：全库去变音变体匹配未见原词，首现按文献补编记；首现待核处置 2026-11-26 | 2026-11-26 |
 | mātra | मात्र | 唯 | yogacara 首译 | 梵语“仅、只”（cittamātra／vijñaptimātra 构词成分）；凭证 2026-11-11；原文列联网查证：Monier-Williams《梵英辞典》／Apte《实用梵英辞典》“Mātra”条（2026-11-14 查，凭证 orig-verify-2026-11-14-b6.tsv） | 2026-11-14 |
 | matrix semantics | — | 矩阵语义学 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | matter | — | 质料（亚里士多德 hylê 语境；近代物理语境译“物质”） | 语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04；撞形豁免 2026-11-21：质料（亚里士多德 hylê）与 stuff（材料）分列，不合并 | 2026-11-21 |
@@ -5325,7 +5325,7 @@
 | Nihonjinron | 日本人論 | 日本人论 | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
 | niḥsvabhāvatā | — | 无自性性 | yogacara 首译 | 汉传唯识学（三无性）；原文列待考；凭证 2026-11-11；原文列：工具书查无原生文字（2026-11-20 检 wisdomlib／GND／BDRC／84000／Logeion，均无“转写↔原生文字”显式配对，部分源不可达；映射表推演禁用，ADR-0030） | 2026-11-11 |
 | nijiriguchi | 躙口 | 躙口 | japanese-aesthetics | 学界惯例（日本茶室研究通行译法“躙口”） | 2026-11-02 |
-| nikṣepa | निक्षेप | 安立（界定） | 待核（jaina-philosophy 正文未见原词） | 耆那认识论义译（多角度安立对象）；2026-11-26 核：全库正文（全部 HTML，去变音符归一）未见该词；jaina-philosophy 行文用 omniscience 等通名，术语按耆那研究通行形登记，首现待该条译出后回填 | 2026-11-26 |
+| nikṣepa | निक्षेप | 安立（界定） | 文献补编（源文未见原词，2026-11-26 核） | 耆那认识论义译（多角度安立对象）；2026-11-26 核：全库正文（全部 HTML，去变音符归一）未见该词；jaina-philosophy 行文用 omniscience 等通名，术语按耆那研究通行形登记，首现待该条译出后回填；2026-11-26 核：全库去变音变体匹配未见原词，首现按文献补编记；首现待核处置 2026-11-26 | 2026-11-26 |
 | nilpotent | — | 幂零 | peirce-benjamin | 学界惯例；抽象代数通行译名（与“幂等”idempotent 对举）；凭证 2026-11-09 | 2026-11-09 |
 | nimitta-kāraṇa | निमित्तकारण | 工具因 | early-modern-india | 胜论三种因之一（instrumental cause）；凭证 2026-11-11 | 2026-11-11 |
 | nirākāra | निराकार | 无相 | yogacara 首译 | 学界惯例；汉传量论研究通行（无相说，与 sākāra 有相相对）；凭证 2026-11-11；原文列联网查证：Monier-Williams《梵英辞典》／Apte《实用梵英辞典》“Nirākāra”条（2026-11-14 查，凭证 orig-verify-2026-11-14-b6.tsv） | 2026-11-14 |
@@ -5417,7 +5417,7 @@
 | nonidentity problem | — | 非同一性问题 | repugnant-conclusion（首见；语料回收同现） | 学界通行（Parfit 1984；与既有 the nonidentical“非同一之物”分立）；高景柱《论代际正义视域中的“非同一性问题”》（爱思想 147258）；王灵芝、周斌、郝明《帕菲特非同一性问题的再审视——以人类生殖系基因编辑为例》，《医学与哲学》2023 年第 18 期，英文题 A Reflection of Parfit's Non-identity Problem；审定库无对口命中，2026-11-24 | 2026-11-24 |
 | noninstrumental | — | 非工具性 | oakeshott 首译 | 学界惯例（工具性/非工具性对举）；凭证 2026-11-07 | 2026-11-07 |
 | nonlocality | — | 非定域性 | qt-entangle | 审定名词库（物理学名词 nonlocality）；凭证 2026-11-09 | 2026-11-09 |
-| nonsectarian movement | — | 无派别运动 | 待核（gorampa 正文未见原词） | 学界惯例；藏传佛教近现代史通行（ris med，利美运动）；本条目从“无派别运动”并括注原词；2026-11-26 核：gorampa 正文无英文对译形，亦无 ris med／khyab；全库 overpervad 0 命中，nonsectarian 仅见异义（feminism-femhist）与他条（tsongkhapa），khyab 见 dharmakiirti／tsongkhapa；术语按藏传研究通行形登记，首现待该条译出后回填 | 2026-11-26 |
+| nonsectarian movement | — | 无派别运动 | 待核（gorampa 正文未见原词；2026-11-26 核：仅见 kyoto-school 形容词用法；不充首现，保持待核） | 学界惯例；藏传佛教近现代史通行（ris med，利美运动）；本条目从“无派别运动”并括注原词；2026-11-26 核：gorampa 正文无英文对译形，亦无 ris med／khyab；全库 overpervad 0 命中，nonsectarian 仅见异义（feminism-femhist）与他条（tsongkhapa），khyab 见 dharmakiirti／tsongkhapa；术语按藏传研究通行形登记，首现待该条译出后回填；2026-11-26 核：仅见 kyoto-school 形容词用法；不充首现，保持待核；首现待核处置 2026-11-26 | 2026-11-26 |
 | nonstandard model | — | 非标准模型 | quine-nf | 学界惯例；模型论通行译名；凭证 2026-11-09 | 2026-11-09 |
 | norm | — | 范数（亦作“模”） | qm | 审定作“范数”（norm，数学名词、物理学名词各 1 条；2026-11-26 界面精确匹配复核）；“模”在审定库对 mode/module/modulus，非本义 | 2026-11-26 |
 | norm psychology | — | 规范心理学 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
@@ -5680,7 +5680,7 @@
 | overdiagnosis | — | 过度诊断 | cancer | 学界通行（筛查与预防医学）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
 | overimitation | — | 过度模仿 | moral-learning | 学界通行（儿童模仿研究）；凭证 2026-11-09 | 2026-11-09 |
 | overlapping consensus | — | 重叠共识 | reflective-equilibrium | 学界通行（罗尔斯《政治自由主义》汉译）；凭证 2026-11-11 | 2026-11-11 |
-| overpervades | — | 周遍过宽 | 待核（gorampa 正文未见原词） | 学界惯例；藏传因明通行（khyab che ba）；果让巴反批评宗喀巴“否定过多”之术语；2026-11-26 核：gorampa 正文无英文对译形，亦无 ris med／khyab；全库 overpervad 0 命中，nonsectarian 仅见异义（feminism-femhist）与他条（tsongkhapa），khyab 见 dharmakiirti／tsongkhapa；术语按藏传研究通行形登记，首现待该条译出后回填 | 2026-11-26 |
+| overpervades | — | 周遍过宽 | 文献补编（源文未见原词，2026-11-26 核） | 学界惯例；藏传因明通行（khyab che ba）；果让巴反批评宗喀巴“否定过多”之术语；2026-11-26 核：gorampa 正文无英文对译形，亦无 ris med／khyab；全库 overpervad 0 命中，nonsectarian 仅见异义（feminism-femhist）与他条（tsongkhapa），khyab 见 dharmakiirti／tsongkhapa；术语按藏传研究通行形登记，首现待该条译出后回填；2026-11-26 核：全库去变音变体匹配未见原词，首现按文献补编记；首现待核处置 2026-11-26 | 2026-11-26 |
 | overtaking criterion | — | 赶超标准 | ramsey-economics | 学界惯例（Koopmans 1965、von Weizsacker 1965）；凭证 2026-11-11 | 2026-11-11 |
 | overtone | — | 泛音 | bohr-correspondence 首译 | 学界通行译名（量子物理学史与科学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | ownership | — | 所有权 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·农业经济与管理·农业制度经济，2026-11-18 JWT 直连凭证） | 2026-11-19 |
@@ -7051,7 +7051,7 @@
 | safety | — | 安全性（知识的安全性条件） | epistemology-latin-america 首译 | 学界通行（Sosa/Williamson/Pritchard 知识条件） | 2026-11-11 |
 | safety barrier | — | 安全屏障 | risk | 学界惯例（安全工程通行）；凭证 2026-11-09 | 2026-11-09 |
 | safety factor | — | 安全系数 | risk | 审定名词库工程术语通行译名；凭证 2026-11-09 | 2026-11-09 |
-| sāgaropama | सागरोपम | 海劫 | 待核（jaina-philosophy 正文未见原词） | 学界惯例；耆那宇宙论通行（海洋计年单位）；2026-11-26 核：全库正文（index/notes/supplement/further-discussion 等全部 HTML，NFC 归一）未见该词；jaina-philosophy 行文用 omniscience 等通名，本行术语系按耆那研究通行形登记，首现待该条译出后回填 | 2026-11-26 |
+| sāgaropama | सागरोपम | 海劫 | 文献补编（源文未见原词，2026-11-26 核） | 学界惯例；耆那宇宙论通行（海洋计年单位）；2026-11-26 核：全库正文（index/notes/supplement/further-discussion 等全部 HTML，NFC 归一）未见该词；jaina-philosophy 行文用 omniscience 等通名，本行术语系按耆那研究通行形登记，首现待该条译出后回填；2026-11-26 核：全库去变音变体匹配未见原词，首现按文献补编记；首现待核处置 2026-11-26 | 2026-11-26 |
 | sage philosophy | — | 智者哲学（非洲语境） | 语料回收（标题词） | 学界惯例（语料回收（标题词，specs/011 主题词汇解析 a/african-sage））；凭证 2026-11-04 | 2026-11-04 |
 | sahopalambhaniyama | — | 俱缘定 | yogacara 首译 | 学界惯例；汉传量论研究通行（法尊译“俱缘定”）；原文列待考；凭证 2026-11-11 | 2026-11-11 |
 | saisei itchi | 祭政一致 | 祭政一致 | kokugaku-school | 主会话直译收口 c54a7fa4；凭证 2026-11-04 | 2026-11-04 |
@@ -7113,7 +7113,7 @@
 | sansui | 山水 | 山水 | japanese-aesthetics | 学界惯例（东亚山水画通行译法“山水”） | 2026-11-02 |
 | Santānāntaradūṣaṇa | — | 《破他相续论》 | yogacara 首译 | 梵题汉译（宝称造，无汉文古译；依源文英译 gloss）；文献译名；原文列待考；凭证 2026-11-11；原文列：工具书查无原生文字（2026-11-20 检 wisdomlib／GND／BDRC／84000／Logeion，均无“转写↔原生文字”显式配对，部分源不可达；映射表推演禁用，ADR-0030） | 2026-11-11 |
 | sapakṣa | सपक्ष | 同品 | early-modern-india | 因明传统译名（agreeing case；与 vipakṣa 异品对举）；凭证 2026-11-10 | 2026-11-10 |
-| saptabhaṅgī | सप्तभङ्गी | 七支论法 | 待核（jaina-philosophy 正文未见原词） | 学界惯例；因明与耆那逻辑通行译名；2026-11-26 核：全库正文（index/notes/supplement/further-discussion 等全部 HTML，NFC 归一）未见该词；jaina-philosophy 行文用 omniscience 等通名，本行术语系按耆那研究通行形登记，首现待该条译出后回填 | 2026-11-26 |
+| saptabhaṅgī | सप्तभङ्गी | 七支论法 | contradiction | 学界惯例；因明与耆那逻辑通行译名；2026-11-26 核：全库正文（index/notes/supplement/further-discussion 等全部 HTML，NFC 归一）未见该词；jaina-philosophy 行文用 omniscience 等通名，本行术语系按耆那研究通行形登记，首现待该条译出后回填；2026-11-26 核：原记首现未见原词，按源文变体（saptabhangi（去变音））精确匹配改记（contradiction）；首现待核处置 2026-11-26 | 2026-11-26 |
 | Sarvārthasiddhi (Pūjyapāda) | — | 《一切义成就》 | jaina-philosophy | 既有作者行已立形（Pūjyapāda 行）；简称 SAS | 2026-11-25 |
 | Satellitium animi / The Soul’s Escort | — | 《灵魂护卫队》 | vives | 本库统一形（SEP 英文对题 The Soul’s Escort）；Tello 2023 版题 Satellitium siue symbola, or the Squadron of symbolic maxims | 2026-11-25 |
 | satisfaction | — | 满足 | tarski-truth | 学界惯例；模型论通行（satisfaction） | 2026-11-09 |
@@ -7704,7 +7704,7 @@
 | śrāvaka | श्रावक | 声闻 | yogacara 首译 | 学界惯例；汉传佛典千年通行；凭证 2026-11-11；原文列联网查证：Monier-Williams《梵英辞典》śrāvaka 条（2026-11-13 查，凭证 orig-verify-2026-11-13.tsv） | 2026-11-13 |
 | Śrāvakabhūmi | श्रावकभूमि | 《声闻地》 | yogacara 首译 | 汉文古译（玄奘译《瑜伽师地论》一分）；文献译名；凭证 2026-11-11；原文列联网查证：Edgerton《佛教混合梵语辞典》 lnum 15260（p. 535,1），csl-devanagari 官（2026-11-14 查，凭证 orig-verify-2026-11-14-b7.tsv） | 2026-11-14 |
 | Śrāvakayāna | श्रावकयान | 声闻乘 | yogacara 首译 | 学界惯例；汉传佛典千年通行译名；凭证 2026-11-11；原文列联网查证：Monier-Williams《梵英辞典》 lnum 222592（p. 1097,1），csl-devanag（2026-11-14 查，凭证 orig-verify-2026-11-14-b7.tsv） | 2026-11-14 |
-| śruta-jñāna | श्रुतज्ञान | 闻知 | 待核（jaina-philosophy 正文未见原词） | 耆那五种智之一，本库自拟；2026-11-26 核：全库正文（index/notes/supplement/further-discussion 等全部 HTML，NFC 归一）未见该词；jaina-philosophy 行文用 omniscience 等通名，本行术语系按耆那研究通行形登记，首现待该条译出后回填；本库 śruta 仅见 tsongkhapa（藏传“闻”义） | 2026-11-26 |
+| śruta-jñāna | श्रुतज्ञान | 闻知 | 待核（jaina-philosophy 正文未见原词；2026-11-26 核：仅见 tsongkhapa 的 sruta-vasana 复合形；不充首现，保持待核） | 耆那五种智之一，本库自拟；2026-11-26 核：全库正文（index/notes/supplement/further-discussion 等全部 HTML，NFC 归一）未见该词；jaina-philosophy 行文用 omniscience 等通名，本行术语系按耆那研究通行形登记，首现待该条译出后回填；本库 śruta 仅见 tsongkhapa（藏传“闻”义）；2026-11-26 核：仅见 tsongkhapa 的 sruta-vasana 复合形；不充首现，保持待核；首现待核处置 2026-11-26 | 2026-11-26 |
 | St. Petersburg | — | 圣彼得堡（地名） | 语料回收（词汇表并网） | 学界通行（与圣彼得堡悖论 St. Petersburg paradox 分立）；词汇表并网（ADR-0036） | 2026-11-13 |
 | St. Petersburg paradox | — | 圣彼得堡悖论 | 语料回收（词汇表并网） | 学界惯例（词汇表并网迁移）；词汇表并网（ADR-0036）；审定库无相关命中（termonline-all 凭证 2026-11-13；2026-11-26 界面精确匹配复核：0 条）| 2026-11-26 |
 | stability | — | 稳定性 | 首现（imprecise-probabilities） | 学界惯例（Leitgeb 用语，与 resiliency 略同）；凭证 2026-11-08 | 2026-11-08 |
@@ -7978,8 +7978,8 @@
 | svātantrika | स्वातन्त्रिक | 自续派 | gelukpa | 藏传佛教通译（自续中观）；学界通行 | 2026-11-01 |
 | Swampman | — | 沼泽人 | davidson 首译 | 学界惯例；戴维森思想实验通行；凭证 2026-11-10 | 2026-11-10 |
 | swaraj | — | 自治（swaraj） | colonialism | 学界惯例；甘地研究文献通行意译，《印度自治》书名系；凭证 2026-11-07 | 2026-11-07 |
-| syādvāda | स्याद्वाद | 或然论（耆那） | 待核（jaina-philosophy 正文未见原词） | 印度哲学史学界通行（syāt 或许＋vāda 论）；2026-11-26 核：全库正文（全部 HTML，去变音符归一）未见该词；jaina-philosophy 行文用 omniscience 等通名，术语按耆那研究通行形登记，首现待该条译出后回填；撞形豁免 2026-11-26：同形异义（伦理学/学园派 probabilism 与耆那 syādvāda），不合并 | 2026-11-26 |
-| syāt | स्यात् | 或许 | 待核（jaina-philosophy 正文未见原词） | 或然论判断词义译（“或许如此”）；2026-11-26 核：全库正文（全部 HTML，去变音符归一）未见该词；jaina-philosophy 行文用 omniscience 等通名，术语按耆那研究通行形登记，首现待该条译出后回填 | 2026-11-26 |
+| syādvāda | स्याद्वाद | 或然论（耆那） | logic-india | 印度哲学史学界通行（syāt 或许＋vāda 论）；2026-11-26 核：全库正文（全部 HTML，去变音符归一）未见该词；jaina-philosophy 行文用 omniscience 等通名，术语按耆那研究通行形登记，首现待该条译出后回填；撞形豁免 2026-11-26：同形异义（伦理学/学园派 probabilism 与耆那 syādvāda），不合并；2026-11-26 核：原记首现未见原词，按源文变体（syadvada（去变音））精确匹配改记（logic-india）；首现待核处置 2026-11-26 | 2026-11-26 |
+| syāt | स्यात् | 或许 | literal-nonliteral-india | 或然论判断词义译（“或许如此”）；2026-11-26 核：全库正文（全部 HTML，去变音符归一）未见该词；jaina-philosophy 行文用 omniscience 等通名，术语按耆那研究通行形登记，首现待该条译出后回填；2026-11-26 核：原记首现未见原词，按源文变体（syat（去变音））精确匹配改记（literal-nonliteral-india）；首现待核处置 2026-11-26 | 2026-11-26 |
 | syllogism | — | 三段论 | logical-consequence | 学界惯例；逻辑史通行译法；凭证 2026-11-09；撞形豁免 2026-11-21：与阿拉伯语复数形 qiyāsāt 同形异语，不合并 | 2026-11-21 |
 | syllogistic figure | — | 三段论格 | schema | 学界惯例（亚里士多德逻辑通行） | 2026-11-06 |
 | syllogistic mnemonic | — | 三段论助记诀 | 首现（william-sherwood） | 学界惯例（Barbara, Celarent…）；凭证 2026-11-07 | 2026-11-07 |
@@ -8071,7 +8071,7 @@
 | tangent space | — | 切空间 | geometry-19th | 数学/几何学界通行译名；凭证 2026-11-11（主会话直译 g/geometry-19th） | 2026-11-11 |
 | Tantravārttika | — | 《随文释补》 | 语料回收（specs/058 全库提取） | 本库译名（鸠摩利罗著，《颂释补》姊妹篇；语料 6 处一致）（2026-11-24 联网／语料核对，凭证 works-batch30-2026-11-24.md） | 2026-11-24 |
 | tanzīh | تنزيه | 不可比拟 | ibn-taymiyya | 学界惯例（伊斯兰神学超绝论术语） | 2026-11-12 |
-| tapas | तपस् | 苦行 | 待核（jaina-philosophy 正文未见原词） | 印度宗教通行；2026-11-26 核：全库正文（index/notes/supplement/further-discussion 等全部 HTML，NFC 归一）未见该词；jaina-philosophy 行文用 omniscience 等通名，本行术语系按耆那研究通行形登记，首现待该条译出后回填；本库仅见 Tapasyananda 人名等字符串，无苦行义 | 2026-11-26 |
+| tapas | तपस् | 苦行 | 文献补编（源文未见原词，2026-11-26 核） | 印度宗教通行；2026-11-26 核：全库正文（index/notes/supplement/further-discussion 等全部 HTML，NFC 归一）未见该词；jaina-philosophy 行文用 omniscience 等通名，本行术语系按耆那研究通行形登记，首现待该条译出后回填；本库仅见 Tapasyananda 人名等字符串，无苦行义；2026-11-26 核：全库去变音变体匹配未见原词，首现按文献补编记；首现待核处置 2026-11-26 | 2026-11-26 |
 | taqlīd | تقليد | 因袭（塔格利德） | arabic-islamic-* 集群 | 学界通行 | 2026-10-28 |
 | tarakhê | ταραχή | 扰动 | epicurus | 本词条译名（与 ataraxia 心神宁静 对举） | 2026-11-12 |
 | targeted advertising | — | 定向广告 | 首现（it-moral-values） | 学界惯例；广告与信息伦理通行译名；凭证 2026-11-10 | 2026-11-10 |
@@ -9053,7 +9053,7 @@
 | 键 | 原文 | 译法 | 首现（slug 或书目） | 依据 | 裁定日期 |
 | --- | --- | --- | --- | --- | --- |
 | ẓāhir | ظاهر | 字面意义 | ibn-taymiyya | 学界惯例（与 bāṭin 隐义对举） | 2026-11-12 |
-| Zahlfiguren | Zahlenfiguren | 数的图形 | 待核（ehrenfels 正文未见原词） | 《素数定律》术语（第三阶数集合）；凭证 2026-11-13；2026-11-26 核：原记首现词条正文未见该词，按全库精确匹配改记（全库未见） | 2026-11-26 |
+| Zahlfiguren | Zahlenfiguren | 数的图形 | ehrenfels | 《素数定律》术语（第三阶数集合）；凭证 2026-11-13；2026-11-26 核：原记首现词条正文未见该词，按全库精确匹配改记（全库未见）；2026-11-26 核：原记首现未见原词，按源文变体（zahlenfiguren（小写））精确匹配改记（ehrenfels）；首现待核处置 2026-11-26 | 2026-11-26 |
 | zazen | 座禅 | 坐禅 | 语料回收（宗教与科学哲学族扫描 2026-11-25） | 学界惯例；禅宗研究通行（语料 2 次；原文列填“座禅”）；凭证 2026-11-25 | 2026-11-25 |
 | Zechariah | — | 《撒迦利亚书》 | 首译（saadya） | 学界惯例；圣经书卷通行汉译；凭证 2026-11-09 | 2026-11-09 |
 | zeitgeist | — | 时代精神 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·心理学·理论心理学与心理学史，2026-11-18 JWT 直连凭证） | 2026-11-19 |
