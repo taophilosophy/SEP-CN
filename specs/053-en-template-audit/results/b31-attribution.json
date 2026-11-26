@@ -1,9 +1,8 @@
 {
- "total": 29,
+ "total": 27,
  "counts": {
   "bib-keys": 24,
-  "text": 4,
-  "blank": 1
+  "text": 3
  },
  "items": [
   {
@@ -15,11 +14,6 @@
    "slug": "alain-locke",
    "fam": "bib-keys",
    "why": "32 键名不同"
-  },
-  {
-   "slug": "aristotle-text",
-   "fam": "text",
-   "why": "真文字差"
   },
   {
    "slug": "contract-law",
@@ -110,11 +104,6 @@
    "slug": "rorty",
    "fam": "bib-keys",
    "why": "83 键名不同"
-  },
-  {
-   "slug": "royce",
-   "fam": "blank",
-   "why": "空白归一后等值"
   },
   {
    "slug": "scholem",

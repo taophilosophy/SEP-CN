@@ -19659,9 +19659,9 @@
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/c/cell-biology.md",
-        "sha256": "14291ddcf8c61704189eb994ee4b48fe848ff78e26bfa4c4930451dcb5c3c03c",
+        "sha256": "cc673b284adab5d90633f3f365c0dd66dd77efae26175c87e2f98860d521b4ce",
         "source_sha256": "c847693a0a4d1165a202614caca571789e294edfd5ec7c73569001047015a005",
-        "cite_markers": 232,
+        "cite_markers": 231,
         "cite_defs": 252,
         "supplements": [],
         "images": [
@@ -19676,7 +19676,7 @@
           "yuanwen/assets/cell-biology/wilson-cell.jpg"
         ],
         "notes": 0,
-        "converted_at": "2026-11-21T18:55:21Z"
+        "converted_at": "2026-11-26T12:58:07Z"
       }
     },
     {
@@ -112797,10 +112797,9 @@
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/p/phylogenetic-inference.md",
-        "sha256": "e580056765515c6da63a919e899ba6c4bd182c8f464973787976b2a273e1b978",
+        "sha256": "22dce14a530b6720fef9a22d500250cf1f35ef538e75f2afdc22600b4e0ca80e",
         "source_sha256": "c910f54b9fe3b04fd19ed990a13bc0428efe6329a60c61783390fba3b81ca344",
-        "converted_at": "2026-11-25T03:29:26Z",
-        "cite_markers": 379,
+        "cite_markers": 378,
         "cite_defs": 277,
         "supplements": [
           "phylogenetic-inference.figdesc.md"
@@ -112808,7 +112807,8 @@
         "images": [
           "yuanwen/assets/phylogenetic-inference/Amemiya-2013-Fig1.jpg"
         ],
-        "notes": 7
+        "notes": 7,
+        "converted_at": "2026-11-26T13:02:32Z"
       }
     },
     {
@@ -130529,10 +130529,9 @@
       "missing": [],
       "yuanwen": {
         "md": "yuanwen/r/royce.md",
-        "sha256": "6ef07faca1f68c55cb53252df0d7fd6e112801bcb9100e15d85f02528e87f474",
+        "sha256": "d5b25157605e1378d50f70f5d3f170c782b001ded618c29ea3ec1005d3f012e8",
         "source_sha256": "035d9e1015fb88927e4f4ea72038928917e5db9738686a5edd9ccd82d49e0e7e",
-        "converted_at": "2026-11-25T03:32:24Z",
-        "cite_markers": 94,
+        "cite_markers": 93,
         "cite_defs": 73,
         "supplements": [],
         "images": [
@@ -130540,7 +130539,8 @@
           "yuanwen/assets/royce/Figure2.png",
           "yuanwen/assets/royce/Josiah_Royce_MS29_small_bw.jpg"
         ],
-        "notes": 14
+        "notes": 14,
+        "converted_at": "2026-11-26T12:49:04Z"
       }
     },
     {
@@ -154958,5 +154958,5 @@
       }
     }
   ],
-  "updated_at": "2026-11-26T12:13:26Z"
+  "updated_at": "2026-11-26T13:02:32Z"
 }

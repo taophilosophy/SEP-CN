@@ -1161,15 +1161,19 @@ def _star_parse(s):
         del out[start:]
         runs.pop(start, None)
         # 闭星前尾随空白移出强调：C 把 H0 的 `<em>x&#8239;</em>` 折成 `*x *`
-        # （薄空格→空格留在星内），不闭则整对星留成字面（aristotle-text 判例）
+        # （薄空格→空格留在星内），不闭则整对星留成字面（aristotle-text 判例）。
+        # 移出的空白写成 `&#32;` 留在标签内（specs/053 第五十六批）：C 的
+        # `_emph_tags_to_md` 在 unescape 前不认实体为空白，不再二次外移——
+        # 否则 `<em>x</em> ` 经 C 变 `*x* ?`，与 md0 的 `*x *?` 不等。
         m2 = re.match(r"(.*?)(\s+)$", content, re.S)
         trail = ""
         if m2:
             content, trail = m2.group(1), m2.group(2)
+        pad = "&#32;" * len(trail) if trail else ""
         if kind == "em":
-            out.append(_em(content.strip()) + trail)
+            out.append(_em(content.strip() + pad))
         else:
-            out.append("<strong>%s</strong>%s" % (content, trail))
+            out.append("<strong>%s%s</strong>" % (content, pad))
 
     def _open(kind):
         slot = len(out)

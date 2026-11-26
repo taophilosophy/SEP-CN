@@ -1389,9 +1389,23 @@ BARE_CITE_RE = re.compile(
 
 
 def link_citations(md_text, keys):
-    """文内引用组后追加 [^key]；返回 (新文本, 追加数, 命中 key 集)。"""
+    """文内引用组后追加 [^key]；返回 (新文本, 追加数, 命中 key 集)。
+
+    图片段先占位（specs/053 第五十六批，royce 判例）：alt 可含
+    「Author (Year)」形（`Portrait of Josiah Royce (1914)`），旧式整篇
+    匹配会把引用标记挂进 alt；R 原样带入 `<img alt>`，C 第二遍再挂一次，
+    B3.1 恒红。alt 不是正文，不参与引用匹配。"""
     used = set()
     count = [0]
+    imgs = []
+
+    def _stash_img(m):
+        imgs.append(m.group(0))
+        return '\x04IMG%d\x04' % (len(imgs) - 1)
+
+    md_text = re.sub(
+        r'!\[(?:[^\[\]]|\[[^\[\]]*\])*\]\((?:[^()\s]|\([^()]*\))*\)',
+        _stash_img, md_text)
 
     def _sub(m):
         group = m.group(0)
@@ -1413,7 +1427,10 @@ def link_citations(md_text, keys):
             return group + ''.join('[^%s]' % h for h in hits)
         return group
 
-    return GROUP_RE.sub(_sub, md_text), count[0], used
+    out = GROUP_RE.sub(_sub, md_text)
+    for i, t in enumerate(imgs):
+        out = out.replace('\x04IMG%d\x04' % i, t)
+    return out, count[0], used
 
 
 # ------------------------------------------------------------ notes/supp ----
