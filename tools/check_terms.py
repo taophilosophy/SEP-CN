@@ -33,6 +33,9 @@
   - 人名首现悬空 = 告警（2026-11-26）：人名表「首现」列写成 slug 形状但 en/ 下无该词条
     目录（ADR-0009 目录命名）；「语料回收（…）」「首现（…）」「—」等非 slug 标注不判。
     清单落 specs/013 results/person-dangling-first.txt。
+  - 术语首现悬空 = 告警（2026-11-26，同口径）：术语登记册「首现」列的裸 slug、
+    `<letter>/<slug>`、`<slug>.supplement`（落 en/<base>/supplement.html）与括注里的
+    ASCII 词条名逐条校验；散文标注不判。清单落 specs/058 results/term-dangling-first.txt。
 退出码: 0 无硬错误；1 有冲突或自洽违例（--docs 模式仅告警，恒 0；--check-ledger 违例 1）；
         2 参数错误（如 --ledger 未配 --docs）。
 """
@@ -211,6 +214,49 @@ def person_dangling_first(rows2):
                 if not os.path.isdir(os.path.join(en_dir, p)):
                     bad.append((term, p, lineno, ''))
     return bad, informal
+
+
+TERM_FIRST_REPORT = os.path.join(ROOT, 'specs', '058-term-full-reextraction', 'results',
+                                 'term-dangling-first.txt')
+
+
+def _first_targets(fs):
+    """从首现列取可校验的词条引用：裸 slug、`<letter>/<slug>`、`<slug>.supplement`
+    以及括注里的 ASCII 词条名（首现（wisdom）一类）。散文标注不产引用。"""
+    text = fs or ''
+    out = []
+    for m in re.finditer(r'[（(]([A-Za-z0-9][A-Za-z0-9_.-]*)[）)]', text):
+        if re.search(r'[a-z]', m.group(1)):
+            out.append(m.group(1))
+    s = text.strip()
+    if FIRST_SLUG_RE.match(s):
+        out.append(s)
+    else:
+        m = FIRST_PATH_RE.match(s)
+        if m:
+            out.append(m.group(2))
+    return out
+
+
+def _first_exists(ref):
+    """`X.supplement` 落在 en/X/supplement.html；其余按 en/<slug>/ 目录判。"""
+    m = re.match(r'^(.+)\.supplement$', ref)
+    if m:
+        return os.path.exists(os.path.join(ROOT, 'en', m.group(1), 'supplement.html'))
+    return os.path.isdir(os.path.join(ROOT, 'en', ref))
+
+
+def term_dangling_first(rows):
+    """术语登记册「首现」列的词条引用是否落地（告警，不判散文标注）。
+
+    rows 为 load_one 口径 (term, trans, fs, basis, date, lineno)。补编式
+    `geometry-19th.supplement` 是合法写法，落到 en/<base>/supplement.html。"""
+    bad = []
+    for (term, _trans, fs, _basis, _date, lineno) in rows:
+        for ref in _first_targets(fs):
+            if not _first_exists(ref):
+                bad.append((term, ref, lineno))
+    return bad
 
 
 def person_missing(rows2):
@@ -698,6 +744,19 @@ def main(argv=None):
             write_lib_warnings(lib_bad, LIB_REPORT)
             print('引证库名失实（告警，不计硬错误）: %d 条，清单 → %s'
                   % (len(lib_bad), LIB_REPORT))
+        # 术语表首现悬空（2026-11-26）：与「人名首现悬空」同口径，清单落 specs/058
+        term_bad = term_dangling_first(reg1_rows)
+        if not docs:
+            for term, ref, ln in term_bad[:10]:
+                print('术语首现悬空（告警）: %s → en/<%s>（行 %d）' % (term, ref, ln))
+            if len(term_bad) > 10:
+                print('…（其余 %d 条见清单）' % (len(term_bad) - 10))
+        _atomic_write(TERM_FIRST_REPORT, '\n'.join(
+            ['%s\t%s\t%d' % d for d in term_bad] +
+            ['汇总\t%d\t术语首现悬空（ADR-0009 目录命名／补编落 supplement.html）'
+             % len(term_bad)]) + '\n')
+        print('术语首现悬空（告警，不计硬错误）: %d 条，清单 → %s'
+              % (len(term_bad), TERM_FIRST_REPORT))
         # 人名缺籍属/生卒（013 工程）：同口径告警，清单落 specs/013
         if reg2_path:
             rows2, _w2 = parse_registry2_full(reg2_path)

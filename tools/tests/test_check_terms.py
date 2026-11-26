@@ -299,6 +299,36 @@ class PersonDanglingFirstTests(unittest.TestCase):
         self.assertEqual(check_terms.person_dangling_first(rows2), ([], []))
 
 
+class TermDanglingFirstTests(unittest.TestCase):
+    """术语表首现列：裸 slug／补编式／括注内词条名逐条落地；散文标注不判。"""
+
+    def _row(self, fs):
+        return [('t', 't', fs, 'b', '2026-01-01', 1)]
+
+    def test_bare_slug_exists(self):
+        self.assertEqual(check_terms.term_dangling_first(self._row('croce')), [])
+
+    def test_bare_slug_unknown(self):
+        self.assertEqual(check_terms.term_dangling_first(self._row('no-such-entry-xyz')),
+                         [('t', 'no-such-entry-xyz', 1)])
+
+    def test_supplement_form(self):
+        self.assertEqual(check_terms.term_dangling_first(self._row('geometry-19th.supplement')), [])
+
+    def test_supplement_missing_base(self):
+        self.assertEqual(
+            check_terms.term_dangling_first(self._row('no-such-entry-xyz.supplement')),
+            [('t', 'no-such-entry-xyz.supplement', 1)])
+
+    def test_paren_slug_checked(self):
+        self.assertEqual(check_terms.term_dangling_first(self._row('首现（no-such-entry-xyz）')),
+                         [('t', 'no-such-entry-xyz', 1)])
+
+    def test_prose_markers_skipped(self):
+        self.assertEqual(check_terms.term_dangling_first(self._row('语料回收（全目录）')), [])
+        self.assertEqual(check_terms.term_dangling_first(self._row('SUMMARY 定名（b/croce.md）')), [])
+
+
 if __name__ == '__main__':
     unittest.main()
 

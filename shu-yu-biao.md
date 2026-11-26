@@ -2416,9 +2416,9 @@
 | epistasis | — | 上位性 | ecological-genetics 首译 | 学界通行译名（遗传学文献）；凭证 2026-11-09 | 2026-11-09 |
 | epistêmê | ἐπιστήμη | 知识（与 doxa 意见相对） | 语料回收 | 学界惯例（希腊哲学术语）；审定“知识”（knowledge，图书馆·情报与文献学、计算机科学技术、管理科学技术名词等 4 条）佐证译形，英文对 knowledge（2026-11-26 界面复核）；撞形豁免 2026-11-21：同形异语／同概念异形，按条目语境区分，不合并 | 2026-11-26 |
 | epistemic | — | 认知的 | jury-theorems | 学界惯例（认知民主/认知社会认识论通行）；凭据 2026-11-02 | 2026-11-02 |
-| epistemic accuracy | — | 认知准确 | 首现（wisdom） | 学界惯例（Ryan 智慧理论用语）；凭证 2026-11-07 | 2026-11-07 |
+| epistemic accuracy | — | 认知准确 | 首现（旧版 Wisdom 词条，上游已撤） | 学界惯例（Ryan 智慧理论用语）；凭证 2026-11-07；2026-11-26 核：首现原记 slug“wisdom”，上游 /entries/wisdom/ 已 404（2026-07 起由 wisdom-analytic《Wisdom in Contemporary Analytic Philosophy》接替），本库未收旧版文本，改记来源说明 | 2026-11-26 |
 | epistemic aggregation | — | 认知聚合 | jury-theorems | 学界惯例（认知社会选择通行）；凭据 2026-11-02 | 2026-11-02 |
-| epistemic arrogance | — | 认知傲慢 | 首现（wisdom） | 学界惯例（与认知谦逊相对）；凭证 2026-11-07 | 2026-11-07 |
+| epistemic arrogance | — | 认知傲慢 | 首现（旧版 Wisdom 词条，上游已撤） | 学界惯例（与认知谦逊相对）；凭证 2026-11-07；2026-11-26 核：首现原记 slug“wisdom”，上游 /entries/wisdom/ 已 404（2026-07 起由 wisdom-analytic《Wisdom in Contemporary Analytic Philosophy》接替），本库未收旧版文本，改记来源说明 | 2026-11-26 |
 | epistemic blame | — | 认知责备 | blame 首译 | 学界通行译名（责备伦理学文献）；凭证 2026-11-07；FLAG 裁定 2026-11-21：族内 18/26 行 epistemic＝认知，按族统一（ADR-0048 一致性以概念为单位） | 2026-11-21 |
 | epistemic certainty | — | 认知确定性 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | epistemic closure | — |认知闭合（亦作“认知封闭”）| closure-epistemic 首译；语料回收（标题词） | 知识论通行（SUMMARY 题名“认知闭合”；亦作“认知封闭”“知识闭合”）；审定库无直接命中（凭证 2026-10-31；2026-11-26 界面精确匹配复核：认知闭合、认知封闭均 0 条）；2026-11-08 两行合并 | 2026-11-26 |
@@ -2432,7 +2432,7 @@
 | epistemic entrenchment | — | 认知固化 | epistemology-latin-america 首译 | 学界惯例（AGM 文献；亦译“知识固着”，本文统一“认知固化”） | 2026-11-11 |
 | epistemic friction | — | 认知摩擦 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | epistemic game theory | — | 认知博弈论 | s/social-procedures 首译 | 学界通行译法（博弈论通行）；凭证 2026-11-07 | 2026-11-07 |
-| epistemic humility | — | 认知谦逊 | 首现（wisdom）；george-eliot 复用 | 学界通行（智慧理论五进路之首）；词汇表主形；凭证 2026-11-07；2026-11-12 george-eliot | 2026-11-07 |
+| epistemic humility | — | 认知谦逊 | 首现（旧版 Wisdom 词条，上游已撤）；george-eliot 复用 | 学界通行（智慧理论五进路之首）；词汇表主形；凭证 2026-11-07；2026-11-12 george-eliot；2026-11-26 核：首现原记 slug“wisdom”，上游 /entries/wisdom/ 已 404（2026-07 起由 wisdom-analytic《Wisdom in Contemporary Analytic Philosophy》接替），本库未收旧版文本，改记来源说明 | 2026-11-26 |
 | epistemic injustice | — | 认知不义（亦作“认知不公正”） | 语料回收 | 学界惯例（Fricker 中译《认知不义》）；审定库无直接收录（凭证 2026-10-30；2026-11-26 界面精确匹配复核：认知不义、认知不公正均 0 条） | 2026-11-26 |
 | epistemic justice | — | 认知正义 | cosmopolitanism | 学界通行（认知不正义研究，Fricker 谱系）；凭证 2026-11-09 | 2026-11-09 |
 | epistemic justification | — | 认知证成 | justep-coherence | 学界惯例（知识论通行译法；SUMMARY 词条名“知识证成的融贯论”）；FLAG 裁定 2026-11-21：同上，族内统一认知；证成形保留 | 2026-11-21 |
@@ -2448,7 +2448,7 @@
 | epistemic realism about truth | — | 真理实在论 | truth-coherence 补记 | 学界通行汉译（接受二值原则与超越原则的立场）；凭证 2026-11-08 | 2026-11-08 |
 | epistemic relevance | — | 认知相关性 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | epistemic risk | — | 认知风险 | risk | 学界惯例（Biddle 2016 等）；凭证 2026-11-09 | 2026-11-09 |
-| epistemic self-confidence | — | 认知自信 | 首现（wisdom） | 学界惯例（智慧品格特质）；凭证 2026-11-07 | 2026-11-07 |
+| epistemic self-confidence | — | 认知自信 | 首现（旧版 Wisdom 词条，上游已撤） | 学界惯例（智慧品格特质）；凭证 2026-11-07；2026-11-26 核：首现原记 slug“wisdom”，上游 /entries/wisdom/ 已 404（2026-07 起由 wisdom-analytic《Wisdom in Contemporary Analytic Philosophy》接替），本库未收旧版文本，改记来源说明 | 2026-11-26 |
 | epistemic state | — | 认知状态 | quantum-bayesian | 沿本册 epistemic 行（认知的）之名词形；QBism 语境定“认识状态”；凭证 2026-11-12；FLAG 裁定 2026-11-21：同上，族内统一认知 | 2026-11-21 |
 | epistemic status | — | 认知地位 | 语料回收（specs/058 全库提取） | 学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22） | 2026-11-22 |
 | Epistemic Structural Realism | — | 认识论结构实在论 | 语料回收（词汇表并网） | 学界惯例（词汇表并网迁移）；词汇表并网（ADR-0036）；审定库无相关命中（termonline-all 凭证 2026-11-13；2026-11-26 界面精确匹配复核：0 条）；FLAG 裁定 2026-11-21：通行定名（与本体结构实在论 OSR 对举）去“的”，登记为族内例外 | 2026-11-26 |
@@ -3513,7 +3513,7 @@
 | Humean supervenience | — | 休谟式随附性 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | Humeanism | — | 休谟主义 | 语料回收（ism 扫描 2026-11-25） | 通行（动机与归纳语境；与已登记 hume 相关行不撞）；凭证 2026-11-25 | 2026-11-25 |
 | humility | — | 谦卑 | modesty-humility | 学界通行译法（与 modesty“谦逊”区分；凭证 2026-11-06） | 2026-11-06 |
-| humility theory of wisdom | — | 智慧的谦逊理论 | 首现（wisdom） | 学界惯例（Ryan 词条分类）；凭证 2026-11-07 | 2026-11-07 |
+| humility theory of wisdom | — | 智慧的谦逊理论 | 首现（旧版 Wisdom 词条，上游已撤） | 学界惯例（Ryan 词条分类）；凭证 2026-11-07；2026-11-26 核：首现原记 slug“wisdom”，上游 /entries/wisdom/ 已 404（2026-07 起由 wisdom-analytic《Wisdom in Contemporary Analytic Philosophy》接替），本库未收旧版文本，改记来源说明 | 2026-11-26 |
 | Humorism | — | 四体液说 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·医学模式，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | humors / humours | — | 体液 | vives | 盖伦医学通行；异形键 humours（英式拼写）并入（2026-11-25；旧键首现 locke-on-medicine） | 2026-11-25 |
 | Hungarian Uprising | — | 匈牙利起义 | 语料回收（lakatos 首译） | 史学界通行译法（1956）；凭证 2026-11-06 | 2026-11-06 |
@@ -3524,7 +3524,7 @@
 | hwalgu/sagu | 活句 / 死句 | 活句/死句 | korean-buddhism | 禅林古语（话头两类） | 2026-11-05 |
 | hybrid expressivism | — | 混合表达主义 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | hybrid logic | — | 混合逻辑 | logic-hybrid | 学界通行（modal logic 的混合化分支）；凭证 2026-11-09 | 2026-11-09 |
-| hybrid theory of wisdom | — | 智慧的混合理论 | 首现（wisdom） | 学界惯例（Ryan 词条分类）；凭证 2026-11-07 | 2026-11-07 |
+| hybrid theory of wisdom | — | 智慧的混合理论 | 首现（旧版 Wisdom 词条，上游已撤） | 学界惯例（Ryan 词条分类）；凭证 2026-11-07；2026-11-26 核：首现原记 slug“wisdom”，上游 /entries/wisdom/ 已 404（2026-07 起由 wisdom-analytic《Wisdom in Contemporary Analytic Philosophy》接替），本库未收旧版文本，改记来源说明 | 2026-11-26 |
 | Hylarchic Principle | — | 质料统辖原则 | cambridge-platonists 首译 | 莫尔术语（hylē 质料 + archē 统辖，直译）；与 18thGerman-preKant 所登记 material principles（质料原则）异名异实，勿混用 | 2026-11-08 |
 | hylomorphism | — | 质形论 | lorenzo-valla | 亚里士多德学界通行 | 2026-11-04 |
 | hylozoism | — | 物活论 | kant-science | 学界通行；审定名词库（termonline-all·自然辩证法名词 02.092，2024）作“物活论”，与本行一致（2026-11-24 JWT 直连，凭证 termonline-b5-2026-11-24.tsv） | 2026-11-05 |
@@ -4424,7 +4424,7 @@
 | living beings | — | 生命存在者 | 语料回收（specs/058 全库提取） | 学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22） | 2026-11-22 |
 | living donor | — | 活体捐献者（亦作“活体供者”） | organ-donation | 学界惯例（《人体器官移植条例》“活体器官捐献”；凭证 2026-11-06）；2026-11-15 补亦作（审定形） | 2026-11-15 |
 | living past | — | 活的过去 | oakeshott 首译 | 学界惯例（与 Croce“活的过去”史学用语同形）；凭证 2026-11-07 | 2026-11-07 |
-| living well | — | 过好生活 | 首现（wisdom） | 学界惯例（eudaimonia 语境下的 living well）；凭证 2026-11-07 | 2026-11-07 |
+| living well | — | 过好生活 | 首现（旧版 Wisdom 词条，上游已撤） | 学界惯例（eudaimonia 语境下的 living well）；凭证 2026-11-07；2026-11-26 核：首现原记 slug“wisdom”，上游 /entries/wisdom/ 已 404（2026-07 起由 wisdom-analytic《Wisdom in Contemporary Analytic Philosophy》接替），本库未收旧版文本，改记来源说明 | 2026-11-26 |
 | living will | — | 生前预嘱 | euthanasia-voluntary 首译 | 学界通行汉译（与 advance directive 预先指示并列） | 2026-11-11 |
 | lixue | 理学 | 理学 | 语料回收（中国哲学族扫描 2026-11-25） | 宋明理学（与 xinxue 心学、qixue 气学并列；语料作“理学”）；凭证 2026-11-25 | 2026-11-25 |
 | liyi | 理義 | 理义 | dai-zhen | 上游自带汉字；戴震承《孟子》原词（英 pattern and right）；凭证 2026-11-07 | 2026-11-07 |
@@ -5078,7 +5078,7 @@
 | moral truths | — | 道德真理 | 语料回收（specs/058 全库提取） | 学界通行（元伦理学文献通行术语；语料 35 处一致）（2026-11-24 联网／语料核对，凭证 pool-harvest-b3-2026-11-24.md） | 2026-11-24 |
 | moral values | — | 道德价值（价值观义） | 语料回收（specs/058 全库提取） | 审定名词库（医学伦理学名词·医学伦理学_伦理学与医学伦理学的学科界定_伦理学范畴，2025；凭证 2026-11-22） | 2026-11-25 |
 | Moral Vegetarianism | — | 伦理素食主义 | 语料回收（词汇表并网） | 学界惯例（词汇表并网迁移）；词汇表并网（ADR-0036）；审定库无相关命中（termonline-all 凭证 2026-11-13；2026-11-26 界面精确匹配复核：0 条）| 2026-11-26 |
-| moral virtue | — | 道德德性 | 首现（wisdom） | 学界通行（亚里士多德伦理学）；凭证 2026-11-07 | 2026-11-07 |
+| moral virtue | — | 道德德性 | 首现（旧版 Wisdom 词条，上游已撤） | 学界通行（亚里士多德伦理学）；凭证 2026-11-07；2026-11-26 核：首现原记 slug“wisdom”，上游 /entries/wisdom/ 已 404（2026-07 起由 wisdom-analytic《Wisdom in Contemporary Analytic Philosophy》接替），本库未收旧版文本，改记来源说明 | 2026-11-26 |
 | moral worth | — | 道德价值（康德语境） | 语料回收 | 学界惯例（伦理学/康德译本通行）；审定“道德价值”（moral value，医学伦理学名词）英文对 moral value，非 moral worth（2026-11-26 界面复核） | 2026-11-26 |
 | moral-legal self-understanding | — | 道德—法律自我理解 | oakeshott 首译 | 自译裁定（奥克肖特共同体概念；凭证 2026-11-07）；凭证 2026-11-07 | 2026-11-07 |
 | moral/conventional distinction | — | 道德/习俗区分 | moral-learning | 学界通行（Turiel 传统）；凭证 2026-11-09 | 2026-11-09 |
@@ -6151,7 +6151,7 @@
 | Practical Ethics | — | 《实践伦理学》 | 语料回收（specs/058 全库提取） | 权威译本（刘莘译，东方出版社 2005-09（政治法律哲学丛书，ISBN 9787506022699）；2026-11-24 联网核对，凭证 works-batch17-2026-11-24.md） | 2026-11-24 |
 | practical faith | — | 实践信仰 | august-rehberg 首译 | 康德研究通行；凭证 2026-11-08 | 2026-11-08 |
 | practical identity | — | 实践同一性 | kant-transcendental | Korsgaard 1996 学界通行（科尔斯戈德研究文献）；凭证 2026-11-11 | 2026-11-11 |
-| practical know-how | — | 实践诀窍 | 首现（wisdom） | 学界惯例（know-how 的实践义）；凭证 2026-11-07 | 2026-11-07 |
+| practical know-how | — | 实践诀窍 | 首现（旧版 Wisdom 词条，上游已撤） | 学界惯例（know-how 的实践义）；凭证 2026-11-07；2026-11-26 核：首现原记 slug“wisdom”，上游 /entries/wisdom/ 已 404（2026-07 起由 wisdom-analytic《Wisdom in Contemporary Analytic Philosophy》接替），本库未收旧版文本，改记来源说明 | 2026-11-26 |
 | practical knowledge | — | 实践知识 | 语料回收（标题词） | 学界惯例（行动哲学（实践知识/techne 与 phronesis 之分））；凭证 2026-11-01 | 2026-11-01 |
 | practical mode of presentation | — | 实践呈现方式 | knowledge-how | 知识论通行（Stanley–Williamson 术语）；凭证 2026-11-10 | 2026-11-10 |
 | practical moral skepticism | — | 实践道德怀疑论 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
@@ -6688,7 +6688,7 @@
 | rational theology | — | 理性神学 | antonio-rosmini | 沃尔夫式形而上学分科通行 | 2026-11-07 |
 | rationalism | — | 唯理论；理性主义 | 语料回收 | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29；2026-11-25 界面精确匹配复核在案） | 2026-11-25 |
 | Rationalist | — | 理性主义者 | 语料回收（specs/050 候选池） | 海峡两岸名词对照库（termonline-all·心理学，2026-11-18 JWT 直连凭证；非审定公布库） | 2026-11-25 |
-| rationality | — | 合理性 | 首现（wisdom） | 学界通行（与理性 reason 区分）；凭证 2026-11-07 | 2026-11-07 |
+| rationality | — | 合理性 | 首现（旧版 Wisdom 词条，上游已撤） | 学界通行（与理性 reason 区分）；凭证 2026-11-07；2026-11-26 核：首现原记 slug“wisdom”，上游 /entries/wisdom/ 已 404（2026-07 起由 wisdom-analytic《Wisdom in Contemporary Analytic Philosophy》接替），本库未收旧版文本，改记来源说明 | 2026-11-26 |
 | rationes seminales | rationes seminales | 种子理性 | binarium 首译 | 学界通行汉译（奥古斯丁 rationes seminales）；凭证 2026-11-08 | 2026-11-08 |
 | rationing | — | 配给 | disability-care-rationing | 卫生经济学通行（health care rationing 医疗配给）；凭证 2026-11-08 | 2026-11-08 |
 | Ratnagotravibhāga | — | 《宝性论》 | yogacara 首译 | 汉文古译（《究竟一乘宝性论》）；文献译名；原文列待考；凭证 2026-11-11；原文列：工具书查无原生文字（2026-11-20 检 wisdomlib／GND／BDRC／84000／Logeion，均无“转写↔原生文字”显式配对，部分源不可达；映射表推演禁用，ADR-0030） | 2026-11-11 |
@@ -8271,7 +8271,7 @@
 | theoretical science | — | 理论科学 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·自然辩证法·总论·科学观，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | Theoretical Terms | — | 理论术语 | 语料回收（词汇表并网） | 学界惯例（词汇表并网迁移）；词汇表并网（ADR-0036）；审定库一致（termonline-all 凭证 2026-11-13）| 2026-11-13 |
 | theoretical virtues | — | 理论美德（亦作“理论德性”） | 首现（abduction） | 学界惯例（逻辑学与科学哲学文献通行译法）；termonline-standard 查无直接对应，凭证 2026-10-29 | 2026-10-29 |
-| theoretical wisdom | — | 理论智慧 | 首现（wisdom） | 学界通行（亚里士多德 sophia）；凭证 2026-11-07 | 2026-11-07 |
+| theoretical wisdom | — | 理论智慧 | 首现（旧版 Wisdom 词条，上游已撤） | 学界通行（亚里士多德 sophia）；凭证 2026-11-07；2026-11-26 核：首现原记 slug“wisdom”，上游 /entries/wisdom/ 已 404（2026-07 起由 wisdom-analytic《Wisdom in Contemporary Analytic Philosophy》接替），本库未收旧版文本，改记来源说明 | 2026-11-26 |
 | theoretically/empirically progressive | — | 理论上／经验上进步 | 语料回收（lakatos 首译） | 科学研究纲领方法论通行译法；凭证 2026-11-06 | 2026-11-06 |
 | theōria | θεωρία | 静观（亦作“沉思”） | 语料回收 | 学界惯例（希腊哲学术语）；审定库无相关命中（凭证 2026-10-31；2026-11-26 界面精确匹配复核：0 条） | 2026-11-26 |
 | theoros | theoros | 观礼者 | gadamer-aesthetics | 学界通行（古希腊节庆的观礼者，伽达默尔借用）；凭证 2026-11-12 | 2026-11-12 |
