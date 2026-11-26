@@ -10,7 +10,8 @@
 * 正文取该词条目录下**全部** HTML（index、notes、supplement、further-discussion…），
   Unicode NFC 归一后小写。
 * 键取拉丁词（≥4 字母）逐个比对：任一 5 字前缀命中即算“含该词”（容复数与词形变化）；
-  含 CJK 的键另按汉字串比对，不打拉丁前缀。
+  含 CJK 的键另按汉字串比对，不打拉丁前缀；拼音／音译短键（xu、shu、zuo 一类）加一条
+  “拼音＋汉字”伴随判据（英文词条常写 `shu 恕` 形，汉字取自原文与译法列）。
 * 只列“全部词都不命中”的行，供人工回源；不判“首现是否应为该条”（语义另判）。
 """
 import html
@@ -45,7 +46,7 @@ def fold(s):
     """去变音符后小写：IAST／阿拉伯转写的 ā、ṇ、ʿ 等归一，避免正则与比对漏配。"""
     s = unicodedata.normalize('NFD', s)
     s = ''.join(ch for ch in s if not unicodedata.combining(ch))
-    s = s.replace('ʿ', '').replace('ʾ', '').replace('’', "'")
+    s = s.replace('ʿ', '').replace('ʾ', '').replace('’', '').replace('‘', '').replace("'", '')
     return re.sub(r'\s+', ' ', s).lower()
 
 
@@ -72,6 +73,18 @@ def main():
         words = [w for w in re.findall(r"[a-z][a-z'’-]+", fkey) if len(w) >= 4]
         cjk = re.findall(r'[\u4e00-\u9fff]{2,}', c[1])
         hit = any(w[:5] in txt for w in words) or any(fold(x) in txt for x in cjk)
+        # 短键兜底（cue、dik、ad hoc 一类）：整键带词界精确匹配，长度门槛在此不适用；
+        # 合写键与带括注键（“the all (to pan)”“A / B”）逐段再试
+        for piece in [fkey] + [x.strip(' ()') for x in re.split(r'[/（(]', fkey) if x.strip(' ()')]:
+            if re.search(r'\b' + re.escape(piece) + r'\b', txt):
+                hit = True
+                break
+        # 拼音／音译短键（xu、shu、zuo 一类）：英文词条常写「拼音＋汉字」，汉字取自原文/译法列
+        if not hit:
+            cjk2 = ''.join(re.findall(r'[\u4e00-\u9fff]', c[2] + c[3]))
+            if cjk2 and (any(ch in txt for ch in cjk2) or
+                         re.search(r'\b' + re.escape(fkey) + r'\b[^.;)]{0,6}[' + re.escape(cjk2) + ']', txt)):
+                hit = True
         if not hit:
             rows.append((lineno, c[1], base, c[3]))
     with io.open(OUT, 'w', encoding='utf-8', newline='\n') as f:
