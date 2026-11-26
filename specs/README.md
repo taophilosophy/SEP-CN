@@ -57,7 +57,7 @@
 | [050-term-extraction-denoise](050-term-extraction-denoise/spec.md) | specs/050 术语提取降噪（标本兼治） | — | — | ✓ | — |
 | [051-pipeline-gap-audit](051-pipeline-gap-audit/spec.md) | 翻译全流程遗漏审计（2026-11-19） | — | — | — | — |
 | [052-mandatory-backfill](052-mandatory-backfill/spec.md) | 强制集存量回补与跨机收编件处置（specs/052） | — | ✓ | ✓ | — |
-| [053-en-template-audit](053-en-template-audit/spec.md) | 053 — EN 语料模板审计与勘误装配线 | — | ✓ | ✓ | 单文件 |
+| [053-en-template-audit](053-en-template-audit/spec.md) | 053 — EN 语料模板审计与勘误装配线 | — | ✓ | ✓ | 目录 |
 | [054-catalog-network-replay](054-catalog-network-replay/spec.md) | specs/054 — 目录四方重放网络（catalog 网络转换完备性） | — | — | ✓ | 单文件 |
 | [055-mulu-frontier-recategorize](055-mulu-frontier-recategorize/spec.md) | specs/055 — mu-lu-s 前沿分类重审（两案骨架预览→选型→写回） | — | ✓ | ✓ | — |
 | [056-mulu-entrywise-adjudication](056-mulu-entrywise-adjudication/spec.md) | specs/056 — mu-lu-s 逐条目分类研判（不计成本全量覆盖） | — | ✓ | ✓ | — |
@@ -67,7 +67,7 @@
 | [060-six-axis-quality-gates](060-six-axis-quality-gates/spec.md) | 六轴独立质量工序建议书（标点、语法、语域、引文、计量、逻辑） | — | ✓ | ✓ | — |
 | [061-standards-realignment-2026](061-standards-realignment-2026/spec.md) | 翻译全流程国标／国际规范复核（2026-11-25） | — | — | — | — |
 | [062-phase12-recheck](062-phase12-recheck/spec.md) | 062 — 阶段 1.1／1.2：目录四方互转复核与 HTML 重抓·基线·转换补丁复核 | — | ✓ | ✓ | — |
-| [063-stage-naming](063-stage-naming/spec.md) | 063 — 阶段轨命名与线级标记登记（四段纯流程＋独立战役块，22 节点归位；阶段为派生视图；编号族去冗余） | — | ✓ | ✓ | — |
-| [064-flow-spec-audit](064-flow-spec-audit/spec.md) | 064 — 全流程全要素审计·公理化·标准化·规范化（三件套齐；AX1–AX30／CT1–CT17；案 B；三门定案；双登记表；E2E 试金石按 060 §5.4 名单跑全流程） | — | — | — | — |
+| [063-stage-naming](063-stage-naming/spec.md) | 063 — 阶段轨命名与线级标记登记（rev 3：四段纯流程＋独立战役块） | — | — | ✓ | — |
+| [064-flow-spec-audit](064-flow-spec-audit/spec.md) | 064 — 翻译全流程全要素审计、公理化、标准化与规范化任务书 | — | — | ✓ | — |
 
 共 63 个规格目录。

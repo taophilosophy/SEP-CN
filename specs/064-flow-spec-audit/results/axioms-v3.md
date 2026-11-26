@@ -18,9 +18,9 @@
 
 | ID | 分组 | 陈述 | 状态 |
 | ---- | ---- | ---- | ---- |
-| AX21 | 登记完整 | 15 个字段已定义；13 个无条件必填；`verified_at`／`notes` 可选；`ttl_days` 条件必填；`id` 唯一不复用 | 设计；字段数与“必填”分开 |
+| AX21 | 登记完整 | 15 个字段已定义；**12 个无条件必填＋1 个条件必填（`ttl_days` 仅 temp）**；`verified_at`／`notes` 可选；`id` 唯一不复用 | 设计；字段数与“必填”分开 |
 | AX22 | 登记单源 | 登记 path 不得复制 `en/` 逐件、tasks、patch 逐件等既有事实源；例外须显式白名单 | 设计；首批只三件 |
-| AX23 | 时序 | `created_at ≤ modified_at ≤ verified_at`（null 不参与）；使用统一 UTC 与固定判定时钟；未来时间判红 | 设计 |
+| AX23 | 时序 | `created_at ≤ modified_at`；`verified_at`（非 null）≥ `created_at`，但**不要求** ≥ `modified_at`——校验后仍可修改，届时 sha 失配由 verify 判红；使用统一 UTC 与固定判定时钟；未来时间判红 | 设计 |
 | AX24 | 清理安全 | 仅 `kind=temp ∧ status=expired ∧ clean_policy=expire` 为删除候选；`protect` 永不自动删；`--go`＋二次确认；可回退 | 设计；默认 dry-run |
 | AX25 | 语言边界 | **目标态**：已迁移的硬门禁由 Rust 实现；跨语言仍经进程边界。迁移中不禁止 Python 硬门禁 | 目标，不是现状 |
 | AX26 | 版本钉 | 每种语言的实际锁／版本钉与 CI 一致；不规定“每语言恰一个锁文件”这种不可普遍成立的形态 | 设计 |
