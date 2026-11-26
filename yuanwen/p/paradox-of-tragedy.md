@@ -410,9 +410,9 @@ aesthetic experience | aesthetics: and cognitive science | emotion | fiction: em
 
 [^schopenhauer-1818]: Schopenhauer, Arthur, 1818/1844, *Die Welt als Wille und Vorstellung*, one volume, Leipzig: F. A. Brockhaus, 1818. In 1844 a greatly expanded 2 volume edition with the first volume being mostly the 1818 book. English translations of the 1844 edition volumes:
 
-[^schopenhauer-2010]: 2010, *Schopenhauer: The World as Will and Representation, Volume 1*, Judith Norman, Alistair Welchman, and Christopher Janaway (eds). Judith Norman and Alistair Welchman (trans), Cambridge: Cambridge University Press. doi:10.1017/CBO9780511780943
+[^paradox-of-tragedy-2010]: 2010, *Schopenhauer: The World as Will and Representation, Volume 1*, Judith Norman, Alistair Welchman, and Christopher Janaway (eds). Judith Norman and Alistair Welchman (trans), Cambridge: Cambridge University Press. doi:10.1017/CBO9780511780943
 
-[^schopenhauer-2018]: 2018, *Schopenhauer: The World as Will and Representation, Volume 2*, Judith Norman, Alistair Welchman, and Christopher Janaway (eds/trans.), Cambridge: Cambridge University Press. doi:10.1017/9780511843112
+[^paradox-of-tragedy-2018]: 2018, *Schopenhauer: The World as Will and Representation, Volume 2*, Judith Norman, Alistair Welchman, and Christopher Janaway (eds/trans.), Cambridge: Cambridge University Press. doi:10.1017/9780511843112
 
 [^shelley-2003]: Shelley, James, 2003, “Imagining the Truth: An Account of Tragic Pleasure”, in *Imagination, Philosophy, and the Arts*, Matthew Kieran and Dominic Lopes (eds), London/New York: Routledge, 177–185 (ch. 10).
 

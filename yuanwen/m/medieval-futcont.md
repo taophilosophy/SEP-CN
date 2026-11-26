@@ -3,7 +3,7 @@
 
 *Frost, Gloria, Knuuttila, Simo*
 
-The philosophical debate concerning the truth-value of singular statements about future contingents derives from Chapter 9 of Aristotle’s treatise *De interpretatione* (*Peri hermeneias*). In Chapters 7–8, Aristotle deals with the contradictory pairs of assertoric statements which divide truth and falsity so that one is true and the other is false. In Chapter 9 he raises the question of whether this holds for all assertoric statements or whether there might be an exception concerning statements about singular future events or states of affairs which are neither necessary nor impossible and hence may take place, or may not. Aristotle’s famous example is tomorrow’s sea battle. Is the prediction that there will be a sea battle tomorrow necessarily true, if it is true, and does its truth entail that the sea battle is inevitable? After a discussion of deterministic arguments and the absurdity of fatalism (18a34–19a22), Aristotle gives his ambiguous reply in 19a23–39. Boethius’s (c. 480–524) Latin translation of *De interpretatione* gave rise to a long commentary tradition through the Middle Ages, beginning from the 11th century. Boethius’s own two commentaries were very influential as well and provided information about other ancient commentaries (Magee 2010)[^magee-2010]. Chapter 9 was also dealt with in theological commentaries on Peter Lombard’s *Sentences* in the context of discussing God’s knowledge of contingents (I.38) and in separate questions (Isaac 1953; Lohr 1967–1974; Craig 1988; Marenbon 2000; Braakhuis & Kneepkens 2003a; Knuuttila 2010)[^braakhuis-2003a][^craig-1988][^isaac-1953][^knuuttila-2010][^lohr-1967][^lohr-1967-2][^lohr-1974][^marenbon-2000]. Al-Fārābī’s (c. 870–950) commentary on *De interpretatione* was influential in medieval Arabic philosophy; Ibn Rushd (Averroes) (1126–1198) wrote another Arabic commentary. (For future contingents in medieval Arabic thought, see Marmura 1985; Adamson 2006; Kaukua 2024.)[^adamson-2006][^kaukua-2024][^marmura-1985]
+The philosophical debate concerning the truth-value of singular statements about future contingents derives from Chapter 9 of Aristotle’s treatise *De interpretatione* (*Peri hermeneias*). In Chapters 7–8, Aristotle deals with the contradictory pairs of assertoric statements which divide truth and falsity so that one is true and the other is false. In Chapter 9 he raises the question of whether this holds for all assertoric statements or whether there might be an exception concerning statements about singular future events or states of affairs which are neither necessary nor impossible and hence may take place, or may not. Aristotle’s famous example is tomorrow’s sea battle. Is the prediction that there will be a sea battle tomorrow necessarily true, if it is true, and does its truth entail that the sea battle is inevitable? After a discussion of deterministic arguments and the absurdity of fatalism (18a34–19a22), Aristotle gives his ambiguous reply in 19a23–39. Boethius’s (c. 480–524) Latin translation of *De interpretatione* gave rise to a long commentary tradition through the Middle Ages, beginning from the 11th century. Boethius’s own two commentaries were very influential as well and provided information about other ancient commentaries (Magee 2010)[^magee-2010]. Chapter 9 was also dealt with in theological commentaries on Peter Lombard’s *Sentences* in the context of discussing God’s knowledge of contingents (I.38) and in separate questions (Isaac 1953; Lohr 1967–1974; Craig 1988; Marenbon 2000; Braakhuis & Kneepkens 2003a; Knuuttila 2010)[^braakhuis-2003a][^craig-1988][^isaac-1953][^knuuttila-2010][^lohr-1967][^marenbon-2000]. Al-Fārābī’s (c. 870–950) commentary on *De interpretatione* was influential in medieval Arabic philosophy; Ibn Rushd (Averroes) (1126–1198) wrote another Arabic commentary. (For future contingents in medieval Arabic thought, see Marmura 1985; Adamson 2006; Kaukua 2024.)[^adamson-2006][^kaukua-2024][^marmura-1985]
 
 ## 1. From Aristotle to Boethius
 
@@ -413,19 +413,19 @@ Beginning with the 2025 update, Gloria Frost has taken responsibility for updati
 
 [^lohr-1967]: Lohr, Charles H., 1967–74, “Medieval Latin Aristotle Commentaries”, 7 parts, *Traditio*,
 
-[^lohr-1967-2]: 1967, “Authors: A–F”, 23: 313–413. doi:10.1017/S0362152900008795
+[^medieval-futcont-1967]: 1967, “Authors: A–F”, 23: 313–413. doi:10.1017/S0362152900008795
 
-[^lohr-1968]: 1968, “Authors G–I”, 24: 149–245. doi:10.1017/S0362152900004724
+[^medieval-futcont-1968]: 1968, “Authors G–I”, 24: 149–245. doi:10.1017/S0362152900004724
 
-[^lohr-1970]: 1970, “Authors: Jacobus–Johannes Juff”, 26: 135–216. doi:10.1017/S0362152900004980
+[^medieval-futcont-1970]: 1970, “Authors: Jacobus–Johannes Juff”, 26: 135–216. doi:10.1017/S0362152900004980
 
-[^lohr-1971]: 1971, “Authors: Johannes de Kanthi–Myngodus”, 27: 251–351. doi:10.1017/S0362152900005341
+[^medieval-futcont-1971]: 1971, “Authors: Johannes de Kanthi–Myngodus”, 27: 251–351. doi:10.1017/S0362152900005341
 
-[^lohr-1972]: 1972, “Authors: Narcissus–Richardus”, 28: 281–396. doi:10.1017/S0362152900011557
+[^medieval-futcont-1972]: 1972, “Authors: Narcissus–Richardus”, 28: 281–396. doi:10.1017/S0362152900011557
 
-[^lohr-1973]: 1973, “Authors: Robertus–Wilgelmus”, 29: 93–197. doi:10.1017/S0362152900008989
+[^medieval-futcont-1973]: 1973, “Authors: Robertus–Wilgelmus”, 29: 93–197. doi:10.1017/S0362152900008989
 
-[^lohr-1974]: 1974, “Supplementary Authors”, 30: 119–144. doi:10.1017/S0362152900006498
+[^medieval-futcont-1974]: 1974, “Supplementary Authors”, 30: 119–144. doi:10.1017/S0362152900006498
 
 [^lottin-1959]: Lottin, Odon, 1959, *Psychologie et morale aux XIIe et XIIIe siècles*, vol. 5, Louvain: Abbaye de Mont César.
 

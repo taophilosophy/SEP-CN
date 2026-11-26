@@ -281,17 +281,17 @@ Continuing this line of thought a bit later in the manuscript, Yorck insists tha
 
 [^note-24]: Independently of Yorck, Heidegger held similar reservations concerning Dilthey’s harnessing of Christian historical life for the *Geisteswissenschaften* in the wake of Kant and Schleiermacher. See Martin Heidegger, *Phänomenologie des Religiösen Lebens*, (Gesamtausgabe, Volume 60), Frankfurt: Vittorio Klostermann, 1995, p. 164 and Heidegger, *Phänomenologie der Anschauung und des Ausdrucks*, (Volume 59), Frankfurt: Vittorio Klostermann, 2007, pp. 163–168.
 
-[^wartenburg-1866]: 1866, *Die Katharsis des Aristoteles und der Oedipus Coloneus des Sophokles*, Berlin: Verlag von Wilhelm Hertz, Bessersche Buchhandlung, reprinted with the title *Examsarbeit von 1865* in Karfried Gründer, 1970, *Zur Philosophie des Grafen Paul Yorck von Wartenburg, Göttingen:* Vandenhoeck & Rupprecht, pp. 154–186.
+[^yorck-1866]: 1866, *Die Katharsis des Aristoteles und der Oedipus Coloneus des Sophokles*, Berlin: Verlag von Wilhelm Hertz, Bessersche Buchhandlung, reprinted with the title *Examsarbeit von 1865* in Karfried Gründer, 1970, *Zur Philosophie des Grafen Paul Yorck von Wartenburg, Göttingen:* Vandenhoeck & Rupprecht, pp. 154–186.
 
-[^wartenburg-1891]: 1891, *Das Fragment von 1891*, in Karfried Gründer, 1970, *Zur Philosophie des Grafen Paul Yorck von Wartenburg*, Göttingen: Vandenhoeck & Rupprecht, pp. 308–353.
+[^yorck-1891]: 1891, *Das Fragment von 1891*, in Karfried Gründer, 1970, *Zur Philosophie des Grafen Paul Yorck von Wartenburg*, Göttingen: Vandenhoeck & Rupprecht, pp. 308–353.
 
-[^wartenburg-1892]: 1892–1897, *Bewusstseinsstellung und Geschichte* [*Stances of Consciousness and History*]. in Iring Fetscher, 1991 (2nd edition), 1956 (1st edition), Hamburg: Felix Meiner, pp. 3–156. [Abbreviated as **ST** in the article above.]
+[^yorck-1892]: 1892–1897, *Bewusstseinsstellung und Geschichte* [*Stances of Consciousness and History*]. in Iring Fetscher, 1991 (2nd edition), 1956 (1st edition), Hamburg: Felix Meiner, pp. 3–156. [Abbreviated as **ST** in the article above.]
 
-[^wartenburg-1896]: 1896/97, *Heraklit*, Iring Fetscher (ed.) in *Archiv für Philosophie*, 9 (1959): 214–289.
+[^yorck-1896]: 1896/97, *Heraklit*, Iring Fetscher (ed.) in *Archiv für Philosophie*, 9 (1959): 214–289.
 
-[^wartenburg-1923]: 1923, *Briefwechsel zwischen Wilhelm Dilthey und dem Grafen Yorck v. Wartenburg* [*Correspondence between Wilhelm Dilthey and Count Yorck von Wartenburg*], with a preface by Sigrid v. d. Schulenburg, Erich Rothacker (ed.), Halle (Saale): Max Niemeyer. [Abbreviated as **CR** in the article above.] [A photo-mechanic reproduction of the 1923 edition has come out in 2011, Bremen: Europäischer Hochschulverlag.]
+[^yorck-1923]: 1923, *Briefwechsel zwischen Wilhelm Dilthey und dem Grafen Yorck v. Wartenburg* [*Correspondence between Wilhelm Dilthey and Count Yorck von Wartenburg*], with a preface by Sigrid v. d. Schulenburg, Erich Rothacker (ed.), Halle (Saale): Max Niemeyer. [Abbreviated as **CR** in the article above.] [A photo-mechanic reproduction of the 1923 edition has come out in 2011, Bremen: Europäischer Hochschulverlag.]
 
-[^wartenburg-1939]: 1939 (2nd edition), 1927 (1st edition), Darmstadt, *Italienisches Tagebuch*, Sigrid von der Schulenburg (ed.), Leipzig: Koehler & Amelang.
+[^yorck-1939]: 1939 (2nd edition), 1927 (1st edition), Darmstadt, *Italienisches Tagebuch*, Sigrid von der Schulenburg (ed.), Leipzig: Koehler & Amelang.
 
 [^hegel-1952]: Hegel, G.W.F., 1952 (1807), *Phänomenologie des Geistes*, Hamburg: Felix Meiner.
 

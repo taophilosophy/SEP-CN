@@ -451,9 +451,9 @@ abilities | bias, implicit | children, philosophy for | civic education | decisi
 
 [^hitchcock-2021]: –––, 2021, “Seven Philosophical Implications of Critical Thinking: Themes, Variations, Implications”, in Daniel Fasko, Jr. and Frank Fair (eds.), *Critical Thinking and Reasoning: Theory, Development, Instruction, and Assessment*, Leiden: Brill, pp. 9–30. doi: 10.1163/9789004444591_002
 
-[^hitchcock-1994]: hooks, bell, 1994, *Teaching to Transgress: Education as the Practice of Freedom*, New York and London: Routledge.
+[^critical-thinking-1994]: hooks, bell, 1994, *Teaching to Transgress: Education as the Practice of Freedom*, New York and London: Routledge.
 
-[^hitchcock-2010]: –––, 2010, *Teaching Critical Thinking: Practical Wisdom*, New York and London: Routledge.
+[^critical-thinking-2010]: –––, 2010, *Teaching Critical Thinking: Practical Wisdom*, New York and London: Routledge.
 
 [^johnson-1992]: Johnson, Ralph H., 1992, “The Problem of Defining Critical Thinking”, in Stephen P, Norris (ed.), *The Generalizability of Critical Thinking*, New York: Teachers College Press, pp. 38–53.
 

@@ -839,55 +839,55 @@ This is interesting indeed, as Brady points out: “We see here an interesting f
 
 [^ms-1865]: [Ms 339] 1865–1909, “Logic Notebook”, unpublished manuscript, Ms 339. Pages 340v, 341v, 344r replicated in Fisch and Turquette 1966: 73–75.
 
-[^entry-1866]: 1866, “Lowell Lectures on the Logic of Science 1866, Lecture II”, Ms 353. Parts quoted in Merrill 1978.
+[^peirce-logic-1866]: 1866, “Lowell Lectures on the Logic of Science 1866, Lecture II”, Ms 353. Parts quoted in Merrill 1978.
 
-[^entry-1867]: 1867, “An Improvement in Boole’s Calculus of Logic”, *Proceedings of the American Academy of Arts and Sciences*, 7: 249–261. Reprinted in CP 3.1–19. doi:10.2307/20179565
+[^peirce-logic-1867]: 1867, “An Improvement in Boole’s Calculus of Logic”, *Proceedings of the American Academy of Arts and Sciences*, 7: 249–261. Reprinted in CP 3.1–19. doi:10.2307/20179565
 
 [^dnlr-1870]: [DNLR] 1870, “Description of a Notation for the Logic of Relatives, Resulting from An Amplification of the Conceptions of Boole’s Calculus”, *Memoirs of the American Academy of Arts and Sciences*, 9(2): 317–378. Reprinted in CP 3.45–148. doi:10.2307/25058006
 
-[^entry-1878]: 1878, “How To Make Our Ideas Clear”, *Popular Science Monthly*, 12(January): 286–302. Reprinted in CP 5.388–410.
+[^peirce-logic-1878]: 1878, “How To Make Our Ideas Clear”, *Popular Science Monthly*, 12(January): 286–302. Reprinted in CP 5.388–410.
 
-[^entry-1880]: 1880, “On the Algebra of Logic”, *American Journal of Mathematics*, 3(1): 15–57. Reprinted in CP 3.154–251. doi:10.2307/2369442
+[^peirce-logic-1880]: 1880, “On the Algebra of Logic”, *American Journal of Mathematics*, 3(1): 15–57. Reprinted in CP 3.154–251. doi:10.2307/2369442
 
-[^entry-1882a]: 1882a, “Brief description of the algebra of relatives”, manuscript. Reprinted in CP 3.306–322.
+[^peirce-logic-1882a]: 1882a, “Brief description of the algebra of relatives”, manuscript. Reprinted in CP 3.306–322.
 
-[^entry-1882b]: 1882b, Letter to Oscar H. Mitchell, MS L 294 (21 December 1882), quoted in Roberts 1973, p. 18.
+[^peirce-logic-1882b]: 1882b, Letter to Oscar H. Mitchell, MS L 294 (21 December 1882), quoted in Roberts 1973, p. 18.
 
-[^entry-1883a]: 1883a, “The Logic of Relatives” also known as “NoteB”, in Peirce (ed.) 1883b: 187–203. Reprinted in CP 3.328–358.
+[^peirce-logic-1883a]: 1883a, “The Logic of Relatives” also known as “NoteB”, in Peirce (ed.) 1883b: 187–203. Reprinted in CP 3.328–358.
 
-[^entry-1883b]: 1883b, editor, *Studies in Logic by Members of the Johns Hopkins University*, Boston: Little, Brown, and Company.
+[^peirce-logic-1883b]: 1883b, editor, *Studies in Logic by Members of the Johns Hopkins University*, Boston: Little, Brown, and Company.
 
-[^entry-1885a]: 1885a, “On the Algebra of Logic: A Contribution to the Philosophy of Notation”, *The American Journal of Mathematics*, 7(2): 180–202. Reprinted in CP 3.359–403. doi:10.2307/2369451
+[^peirce-logic-1885a]: 1885a, “On the Algebra of Logic: A Contribution to the Philosophy of Notation”, *The American Journal of Mathematics*, 7(2): 180–202. Reprinted in CP 3.359–403. doi:10.2307/2369451
 
-[^entry-1885b]: 1885b, “Note”, undated but written for the issue of *The American Journal of Mathematics* just after the previous article. Reprinted in CP 4.403A–403M.
+[^peirce-logic-1885b]: 1885b, “Note”, undated but written for the issue of *The American Journal of Mathematics* just after the previous article. Reprinted in CP 4.403A–403M.
 
-[^entry-1896]: 1896, “Review of Schröder’s *Algebra und Logik der Relative*”, *The Nation*, 62: 330–331.
+[^peirce-logic-1896]: 1896, “Review of Schröder’s *Algebra und Logik der Relative*”, *The Nation*, 62: 330–331.
 
-[^entry-1897a]: 1897a, “The Logic of Relatives”, *The Monist*, 7(2): 161–217. Reprinted in CP 3.456–552. doi:10.5840/monist18977231
+[^peirce-logic-1897a]: 1897a, “The Logic of Relatives”, *The Monist*, 7(2): 161–217. Reprinted in CP 3.456–552. doi:10.5840/monist18977231
 
-[^entry-1897b]: c. 1897b, “Fallibilism, Continuity, and Evolution” (originally untitled), unpublished manuscript. Printed CP 1.141–175.
+[^peirce-logic-1897b]: c. 1897b, “Fallibilism, Continuity, and Evolution” (originally untitled), unpublished manuscript. Printed CP 1.141–175.
 
-[^entry-1903a]: 1903a, “Existential Graphs”, in his *A Syllabus of Certain Topics of Logic*, Boston: Alfred Mudge & son, pp. 15–23. Reprinted in CP 4.394–417.
+[^peirce-logic-1903a]: 1903a, “Existential Graphs”, in his *A Syllabus of Certain Topics of Logic*, Boston: Alfred Mudge & son, pp. 15–23. Reprinted in CP 4.394–417.
 
-[^entry-1903b]: 1903b, “On Existential Graphs, Euler’s Diagrams, and Logical Algebra”, from “Logical Tracts, No. 2”. Reprinted in CP 4.418–529.
+[^peirce-logic-1903b]: 1903b, “On Existential Graphs, Euler’s Diagrams, and Logical Algebra”, from “Logical Tracts, No. 2”. Reprinted in CP 4.418–529.
 
-[^entry-1903c]: 1903c, “The Gamma Part of Existential Graphs”, *Lowell Lectures of 1903*, Lecture IV, unpublished. Printed in CP 4.510–529.
+[^peirce-logic-1903c]: 1903c, “The Gamma Part of Existential Graphs”, *Lowell Lectures of 1903*, Lecture IV, unpublished. Printed in CP 4.510–529.
 
-[^entry-1903d]: c. 1903d, “Nomenclature and Divisions of Triadic Relations, as Far as They Are Determined”, manuscript, Printed in CP: 2.233–272.
+[^peirce-logic-1903d]: c. 1903d, “Nomenclature and Divisions of Triadic Relations, as Far as They Are Determined”, manuscript, Printed in CP: 2.233–272.
 
-[^entry-1905]: 1905, “The Issues of Pragmaticism”:, *The Monist*, 15(4): 481–499. Reprinted in CP 5.438–463. doi:10.5840/monist19051544/
+[^peirce-logic-1905]: 1905, “The Issues of Pragmaticism”:, *The Monist*, 15(4): 481–499. Reprinted in CP 5.438–463. doi:10.5840/monist19051544/
 
-[^entry-1906]: 1906, “Prolegomena to an Apology for Pragmaticism”, *The Monist*, 16(4): 492–546. Reprinted in CP 4.530–572. doi:10.5840/monist190616436
+[^peirce-logic-1906]: 1906, “Prolegomena to an Apology for Pragmaticism”, *The Monist*, 16(4): 492–546. Reprinted in CP 4.530–572. doi:10.5840/monist190616436
 
-[^entry-1909]: 1909, Letter to William James, 26 February 1909, 40 pages. Reprinted in Peirce’s *New Elements of Mathematics, volume 3/2: Mathematical Miscellanea 2*, Carolyn Eisele (ed.), Boston: De Gruyter, 1976, NEM 3/2: 836–866.
+[^peirce-logic-1909]: 1909, Letter to William James, 26 February 1909, 40 pages. Reprinted in Peirce’s *New Elements of Mathematics, volume 3/2: Mathematical Miscellanea 2*, Carolyn Eisele (ed.), Boston: De Gruyter, 1976, NEM 3/2: 836–866.
 
-[^entry-1910a]: 1910a, “Diversions of Definitions”, unpublished, Ms 650.
+[^peirce-logic-1910a]: 1910a, “Diversions of Definitions”, unpublished, Ms 650.
 
-[^entry-1910b]: 1910b, “The Art of Reasoning Elucidated”, unpublished, Ms 678.
+[^peirce-logic-1910b]: 1910b, “The Art of Reasoning Elucidated”, unpublished, Ms 678.
 
-[^entry-1911a]: 1911a, “Notes on Symbolic Logic and Mathematics”, with H. B. Fine, in *Dictionary of Philosophy and Psychology*, second edition, J. M. Baldwin (ed.), New York: Macmillan, volume 1, p. 518;. Reprinted in CP 3.609—3.645.
+[^peirce-logic-1911a]: 1911a, “Notes on Symbolic Logic and Mathematics”, with H. B. Fine, in *Dictionary of Philosophy and Psychology*, second edition, J. M. Baldwin (ed.), New York: Macmillan, volume 1, p. 518;. Reprinted in CP 3.609—3.645.
 
-[^entry-1911b]: 1911b, “Euler’s Diagrams”, in *Dictionary of Philosophy and Psychology*, second edition, J. M. Baldwin (ed.), New York: Macmillan, vol. 2, p. 28. Reprinted in CP 4.347–371.
+[^peirce-logic-1911b]: 1911b, “Euler’s Diagrams”, in *Dictionary of Philosophy and Psychology*, second edition, J. M. Baldwin (ed.), New York: Macmillan, vol. 2, p. 28. Reprinted in CP 4.347–371.
 
 [^anellis-2012]: Anellis, Irving H., 2012, “Peirce’s Truth-Functional Analysis and the Origin of the Truth Table”, *History and Philosophy of Logic*, 33(1): 87–97. doi:10.1080/01445340.2011.621702
 

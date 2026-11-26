@@ -233,9 +233,9 @@ The post-Kantian Salomon Maimon has been for some time now a subject of speciali
 
 Another example of thinker whose current level of interest was arguably catalyzed by being noticed as an influence on Deleuze is the mid-20th century French philosopher Gilbert Simondon, whose notions of the “pre-individual” and of “crystallization” were influential in the development of Deleuze’s notions of the virtual and actualization, respectively. An English translation of his works is Simondon 2020. Among others, see Toscano 2006 and 2009, Scott 2014, Sauvagnargues 2016, Swan 2016, Alloa and Michalet 2017, and Voss 2018 and 2020 for treatments of the Deleuze-Simondon relation.
 
-Yet another would be the early 20th century French sociologist Gabriel Tarde, whose notion of microsociology is referred to approvingly in Deleuze and Guattari’s development of their notion of “micropolitics” (Deleuze and Guattari 1980 [1987, 216–219])[^guattari-1980]. For Deleuze-inspired treatments, see Alliez 2001, Brighenti 2010, Read 2015, Tonkonoff 2017.
+Yet another would be the early 20th century French sociologist Gabriel Tarde, whose notion of microsociology is referred to approvingly in Deleuze and Guattari’s development of their notion of “micropolitics” (Deleuze and Guattari 1980 [1987, 216–219]). For Deleuze-inspired treatments, see Alliez 2001, Brighenti 2010, Read 2015, Tonkonoff 2017.
 
-More recently and to a still muted extent is the revival of interest in mid-20th century French thinker Raymond Ruyer, whose notion of *survol* or “self-survey” is mentioned by Deleuze and Guattari in their brief remarks on the consistency of the concept in its neural instantiation in *What is Philosophy?* (Deleuze and Guattari 1991 [1994, 210])[^guattari-1991]. English translations of Ruyer’s works are Ruyer 2016 and 2018. Ruyer’s relation to Deleuze is explored in Bains 2002, Bogue 2009 and 2017, and Roffe 2017. Other treatments of Ruyer that are relevant would be Massumi 2014 and Grosz 2017.
+More recently and to a still muted extent is the revival of interest in mid-20th century French thinker Raymond Ruyer, whose notion of *survol* or “self-survey” is mentioned by Deleuze and Guattari in their brief remarks on the consistency of the concept in its neural instantiation in *What is Philosophy?* (Deleuze and Guattari 1991 [1994, 210]). English translations of Ruyer’s works are Ruyer 2016 and 2018. Ruyer’s relation to Deleuze is explored in Bains 2002, Bogue 2009 and 2017, and Roffe 2017. Other treatments of Ruyer that are relevant would be Massumi 2014 and Grosz 2017.
 
 Finally, while it’s certainly the case that Whitehead has garnered continuous interest on his own, a good bit of current Whitehead scholarship includes reference to Deleuze as a leitmotif, as in Stengers 2011. A noteworthy new work influenced by both Deleuze and Whitehead is Williams 2016. See also Shaviro 2009, Robinson 2010, and Bell 2011 and 2012, on the Deleuze and Whitehead connection.
 
@@ -320,13 +320,13 @@ Bergson, Henri | Maimon, Salomon | Nietzsche, Friedrich | Spinoza, Baruch
 
 [^deleuze-2015]: (2015) *Lettres et autres textes*, ed. David Lapoujade (Paris: Minuit); tr. as *Letters and Other Texts*, by Ames Hodges, New York: Semiotext(e), 2020.
 
-[^guattari-1972]: (1972) *L’Anti-Oedipe* (Paris: Minuit); tr. as *Anti-Oedipus*, by Robert Hurley, Mark Seem and Helen R. Lane, New York: Viking, 1977; reprint University of Minnesota Press, 1983.
+[^deleuze-1972-2]: (1972) *L’Anti-Oedipe* (Paris: Minuit); tr. as *Anti-Oedipus*, by Robert Hurley, Mark Seem and Helen R. Lane, New York: Viking, 1977; reprint University of Minnesota Press, 1983.
 
-[^guattari-1975]: (1975) *Kafka: pour une littérature mineure* (Paris: Minuit); tr. as *Kafka: For a Minor Literature*, by Dana Polan, Minneapolis: University of Minnesota Press, 1986.
+[^deleuze-1975]: (1975) *Kafka: pour une littérature mineure* (Paris: Minuit); tr. as *Kafka: For a Minor Literature*, by Dana Polan, Minneapolis: University of Minnesota Press, 1986.
 
-[^guattari-1980]: (1980) *Mille plateaux* (Paris: Minuit); tr. as *A Thousand Plateaus*, by Brian Massumi, Minneapolis: University of Minnesota Press, 1987.
+[^deleuze-1980]: (1980) *Mille plateaux* (Paris: Minuit); tr. as *A Thousand Plateaus*, by Brian Massumi, Minneapolis: University of Minnesota Press, 1987.
 
-[^guattari-1991]: (1991) *Qu’est-ce que la philosophie?* (Paris: Minuit); tr. as *What is Philosophy?*, by Hugh Tomlinson and Graham Burchell, New York: Columbia University Press, 1994.
+[^deleuze-1991]: (1991) *Qu’est-ce que la philosophie?* (Paris: Minuit); tr. as *What is Philosophy?*, by Hugh Tomlinson and Graham Burchell, New York: Columbia University Press, 1994.
 
 [^alliez-1998]: Alliez, Eric (ed.), 1998, *Gilles Deleuze: une vie philosophique*, Paris: Synthélabo.
 

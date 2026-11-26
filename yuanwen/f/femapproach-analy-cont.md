@@ -227,13 +227,13 @@ Beauvoir, Simone de | feminist philosophy, topics: perspectives on sex and gende
 
 [^haslanger-2000]: Haslanger, Sally, 2000, “Gender and Race: (What) Are They? (What) Do We Want Them To Be?,” *Noûs*, 34 (1): 31–55.
 
-[^haslanger-2020]: ––, 2020, “Going On, Not in the Same Way,” in Alexis Burgess, Herman Cappelen, David Plunkett (eds.), *Conceptual Engineering and Conceptual Ethics*, Oxford: Oxford University Press: 230–260.
+[^femapproach-analy-cont-2020]: ––, 2020, “Going On, Not in the Same Way,” in Alexis Burgess, Herman Cappelen, David Plunkett (eds.), *Conceptual Engineering and Conceptual Ethics*, Oxford: Oxford University Press: 230–260.
 
 [^homan-2021]: Homan, Catherine, 2021, “Gadamer and Feminism” in Theodore George and Gert-Jan van der Heiden (eds.), *The Gadamerian Mind*, New York: Routledge:
 
 [^honneth-2023]: Honneth, Axel, 2023, “Two Interpretations of Social Disrespect: A Comparision Between Epistemic and Moral Recognition,” in Paul Giladi and Nicole McMillan (eds.) *Epistemic Injustice and the Philosophy of Recognition*, New York: Routledge: 11–35.
 
-[^honneth-1981]: hooks, bell, 1981, *Ain’t I a Woman: Black Women and Feminism*, Boston: South End Press.
+[^femapproach-analy-cont-1981]: hooks, bell, 1981, *Ain’t I a Woman: Black Women and Feminism*, Boston: South End Press.
 
 [^hornsby-1998]: Hornsby, Jennifer and Rae Langton, 1998, “Free Speech and Illocution,” *Legal Theory*, 4 (1): 21–37.
 

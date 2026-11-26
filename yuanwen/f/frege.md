@@ -656,7 +656,7 @@ where $0 < b < 1$, and $a$ is a positive odd integer, and $ab > 1 + (3/2)\pi $.
 
 [^linnebo-2003]: Linnebo, Øystein, 2003, “Frege’s Conception of Logic: From Kant to *Grundgesetze*”, *Manuscrito*, 26(2): 235–252.
 
-[^linnebo-1935]: Łukasiewicz, J., 1935, “Zur Geschichte der Aussagenlogik,” *Erkenntnis*, 5: 111–131; this is a German translation, by the author, of his original paper, “Z historii logiki zdań,” *Przegląd Filozoficzny*, 37 (1934): 417–37; English translation, “On the history of the logic of propositions,” by Storrs McCall, in *Polish Logic: 1920–1939*, Storrs McCall (ed.), Oxford: Clarendon Press, pp. 66–87.
+[^frege-1935]: Łukasiewicz, J., 1935, “Zur Geschichte der Aussagenlogik,” *Erkenntnis*, 5: 111–131; this is a German translation, by the author, of his original paper, “Z historii logiki zdań,” *Przegląd Filozoficzny*, 37 (1934): 417–37; English translation, “On the history of the logic of propositions,” by Storrs McCall, in *Polish Logic: 1920–1939*, Storrs McCall (ed.), Oxford: Clarendon Press, pp. 66–87.
 
 [^macfarlane-2002]: MacFarlane, J., 2002, “Frege, Kant, and the Logic in Logicism”, *Philosophical Review*, 111(1): 25–66.
 

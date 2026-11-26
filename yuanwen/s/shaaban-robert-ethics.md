@@ -3,7 +3,7 @@
 
 *Masolo, Dismas*
 
-Shaaban’s exposition of African virtue ethics precedes the works of African theologians who mounted the “African traditional religions” movement as a school of thought in the wake of the Second Vatican Council, also called Vatican II (1962–65). In a crucial difference from those theologians who largely adopted the work of European anthropologists in pursuit of “proof” for the existence of indigenous African religious beliefs as close to those of Christianity, Shaaban developed his own philosophical explanations which he believed to be universal. Leading scholars of the African traditional religions movement included the Nigerian E. Bolaji Idowu (1962, 1973)[^idowu-1962][^idowu-1973], the Kenyan John S. Mbiti (1969, 1970)[^mbiti-1969][^mbiti-1970], and the Congolese F. M. Lufuluabo (1962, 1966)[^lufuluabo-1962][^lufuluabo-1966]. On the converse side, critics of the assumptions of the theologians as conceptual importations that only led to the idea of “African traditional religions” as a Eurocentric invention included the Ugandan poet Okot p’Bitek (1970)[^bitek-1970], and the Congolese philosopher Valentin Y. Mudimbe (1988)[^mudimbe-1988]. A good summation of these opposing views is given by Rosalind Shaw (1990)[^shaw-1990].
+Shaaban’s exposition of African virtue ethics precedes the works of African theologians who mounted the “African traditional religions” movement as a school of thought in the wake of the Second Vatican Council, also called Vatican II (1962–65). In a crucial difference from those theologians who largely adopted the work of European anthropologists in pursuit of “proof” for the existence of indigenous African religious beliefs as close to those of Christianity, Shaaban developed his own philosophical explanations which he believed to be universal. Leading scholars of the African traditional religions movement included the Nigerian E. Bolaji Idowu (1962, 1973)[^idowu-1962][^idowu-1973], the Kenyan John S. Mbiti (1969, 1970)[^mbiti-1969][^mbiti-1970], and the Congolese F. M. Lufuluabo (1962, 1966)[^lufuluabo-1962]. On the converse side, critics of the assumptions of the theologians as conceptual importations that only led to the idea of “African traditional religions” as a Eurocentric invention included the Ugandan poet Okot p’Bitek (1970)[^bitek-1970], and the Congolese philosopher Valentin Y. Mudimbe (1988)[^mudimbe-1988]. A good summation of these opposing views is given by Rosalind Shaw (1990)[^shaw-1990].
 
 In this entry, works by Robert are cited by 2- and 3-letter abbreviations, and these abbreviations are explained, with full references, in the Primary Sources section of the Bibliography.
 
@@ -269,7 +269,7 @@ African Philosophy: sage philosophy | colonialism | ethics: virtue | race | reli
 
 [^lufuluabo-1962]: Lufuluabo, F. M., 1962, *Vers une théodicée bantoue*, Tournai: Casterman.
 
-[^lufuluabo-1966]: *–––,* 1966, *Perspective théologique bantoue et théologie scholastique*, Malines: St-François.
+[^shaaban-robert-ethics-1966]: *–––,* 1966, *Perspective théologique bantoue et théologie scholastique*, Malines: St-François.
 
 [^masolo-2019]: Masolo, D. A., 2019, “Crafting Ideal Conditions: Ubuntu and the Challenges of Modern Society,” in James Ogude (ed.), *Ubuntu and the Reconstitution of Community*, Bloomington, IN: Indiana University Press, pp. 40–72.
 

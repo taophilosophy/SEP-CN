@@ -775,16 +775,16 @@ Frege’s strategy then was to show that no appeal to intuition is required for 
 > Through the present example, moreover, we see how pure thought, irrespective of any content given by the senses or even by an intuition *a priori*, can, solely from the content that results from its own constitution, bring forth judgements that at first sight appear to be possible only on the basis of some intuition. $\ldots$ The propositions about sequences [$R$-series] in what follows far surpass in generality all those that can be derived from any intuition of sequences. [from the Bauer-Mengelberg translation in van Heijenoort 1967][^heijenoort-1967]
 >
 > [**Gl**, §62:]
-> How, then, are numbers to be given to us, if we cannot have any ideas or intuitions of them? Since it is only in the context of a proposition that words have any meaning, our problem becomes this: To define the sense of a proposition in which a number word occurs. [from the Austin translation in Frege 1953][^frege-1953]
+> How, then, are numbers to be given to us, if we cannot have any ideas or intuitions of them? Since it is only in the context of a proposition that words have any meaning, our problem becomes this: To define the sense of a proposition in which a number word occurs. [from the Austin translation in Frege 1953]
 >
 > [**Gl**, §87:]
-> I hope I may claim in the present work to have made it probable that the laws of arithmetic are analytic judgements and consequently a priori. Arithmetic thus becomes simply a development of logic, and every proposition of arithmetic a law of logic, albeit a derivative one. [from the Austin translation in Frege 1953][^frege-1953]
+> I hope I may claim in the present work to have made it probable that the laws of arithmetic are analytic judgements and consequently a priori. Arithmetic thus becomes simply a development of logic, and every proposition of arithmetic a law of logic, albeit a derivative one. [from the Austin translation in Frege 1953]
 >
 > [**Gg I**, §0:]
-> In my *Grundlagen der Arithmetik*, I sought to make it plausible that arithmetic is a branch of logic and need not borrow any ground of proof whatever from either experience or intuition. In the present book, this shall be confirmed, by the derivation of the simplest laws of Numbers by logical means alone. [from the Furth translation in Frege 1967][^frege-1967][^furth-1967]
+> In my *Grundlagen der Arithmetik*, I sought to make it plausible that arithmetic is a branch of logic and need not borrow any ground of proof whatever from either experience or intuition. In the present book, this shall be confirmed, by the derivation of the simplest laws of Numbers by logical means alone. [from the Furth translation in Frege 1967][^furth-1967]
 >
 > [**Gg II**, Appendix:]
-> The prime problem of arithmetic is the question, In what way are we to conceive logical objects, in particular, numbers? By what means are we justified in recognizing numbers as objects? Even if this problem is not solved to the degree I thought it was when I wrote this volume, still I do not doubt that the way to the solution has been found. [from the Furth translation in Frege 1967][^frege-1967][^furth-1967]
+> The prime problem of arithmetic is the question, In what way are we to conceive logical objects, in particular, numbers? By what means are we justified in recognizing numbers as objects? Even if this problem is not solved to the degree I thought it was when I wrote this volume, still I do not doubt that the way to the solution has been found. [from the Furth translation in Frege 1967][^furth-1967]
 
 ### 6.2 The Basic Problem for Frege’s Strategy
 
@@ -824,12 +824,12 @@ The point here is that the fact that an existential claim is derivable casts at 
 Though the existence of extensions falls right out of the theory of identity (§2.3) once terms of the form $\epsilon F$ are added to second-order logic, the existence of extensions that are correlated one-to-one with concepts is a consequence of Basic Law V. The question for Frege’s project, then, is why should we accept as a law of logic a statement that implies the existence of individuals and a correlation of this kind? Frege recognized that Basic Law V’s status as a logical law could be doubted:
 
 > [**Gg I**, Preface, p. 3:]
-> A dispute can arise, so far as I can see, only with regard to my Basic Law concerning courses-of-values (V) $\ldots$ I hold that it is a law of pure logic. [from the Furth translation in Frege 1967][^frege-1967][^furth-1967]
+> A dispute can arise, so far as I can see, only with regard to my Basic Law concerning courses-of-values (V) $\ldots$ I hold that it is a law of pure logic. [from the Furth translation in Frege 1967][^furth-1967]
 
 Moreover, he thought that an appeal to extensions would answer one of the questions that motivated his work:
 
 > [**Letter to Russell**, July 28, 1902:]
-> I myself was long reluctant to recognize ranges of values and hence classes [sets]; but I saw no other possibility of placing arithmetic on a logical foundation. But the question is, How do we apprehend logical objects? And I have found no other answer to it than this, We apprehend them as extensions of concepts, or more generally, as ranges of values of functions. [from the Kaal translation in Frege 1980][^frege-1980]
+> I myself was long reluctant to recognize ranges of values and hence classes [sets]; but I saw no other possibility of placing arithmetic on a logical foundation. But the question is, How do we apprehend logical objects? And I have found no other answer to it than this, We apprehend them as extensions of concepts, or more generally, as ranges of values of functions. [from the Kaal translation in Frege 1980]
 
 Now it is unclear why Frege thought that he could answer the question posed here by saying that we apprehend numbers as the extensions of concepts. He seems to think we can answer the obvious next question “How do we apprehend extensions?” by saying “by way of Basic Law V”. His idea here seems to be that since Basic Law V is supposed to be purely analytic or true in virtue of the meanings of its terms, we apprehend a pair of extensions whenever we truly judge that concepts $F$ and $G$ are materially equivalent. Some philosophers do argue that certain *consistent* principles having the same logical form as Basic Law V are analytic, and that such principles justify *reference* to the entities described in the left-side condition by grounding such reference in the *truth* of the right-side condition.[^note-15]
 
@@ -868,7 +868,7 @@ It is not clear why we should think that this last claim is implied by $F \appro
 Moreover, Frege had his own reasons for not replacing Basic Law V with Hume’s Principle. One reason was that he thought Hume’s Principle offered no answer to the epistemological question, ‘How do we grasp or apprehend logical objects, such as the numbers?’. A second reason is that Hume’s Principle is clearly subject to ‘the Julius Caesar problem’. Frege first raises this problem in connection with an inductive definition of ‘$n = \#F$’ that he tries out in **Gl**, §55. Concerning this definition, Frege says:
 
 > [**Gl**, §56:]
-> … but we can never – to take a crude example — decide by means of our definitions whether any concept has the number Julius Caesar belonging to it, or whether that conqueror of Gaul is a number or is not. [from the Austin translation in Frege 1953][^frege-1953]
+> … but we can never – to take a crude example — decide by means of our definitions whether any concept has the number Julius Caesar belonging to it, or whether that conqueror of Gaul is a number or is not. [from the Austin translation in Frege 1953]
 
 Frege raises this same concern again for a contextual definition that gives a ‘criterion of identity’ for the objects being defined. In **Gl** §66, Frege considers the following contextual definition of ‘the direction of line $x$’:
 
@@ -877,14 +877,14 @@ Frege raises this same concern again for a contextual definition that gives a �
 With regard to this definition, Frege says:
 
 > [**Gl**, §66:]
-> It will not, for instance, decide for us whether England is the same as the direction of the Earth’s axis – if I may be forgiven an example which looks nonsensical. Naturally no one is going to confuse England with the direction of the Earth’s axis; but that is no thanks to our definition of direction. [from the Austin translation in Frege 1953][^frege-1953]
+> It will not, for instance, decide for us whether England is the same as the direction of the Earth’s axis – if I may be forgiven an example which looks nonsensical. Naturally no one is going to confuse England with the direction of the Earth’s axis; but that is no thanks to our definition of direction. [from the Austin translation in Frege 1953]
 
 Now trouble for Hume’s Principle begins to arise when we recognize that it is a contextual definition that has the same logical form as this definition for directions. It is central to Frege’s view that the numbers are *objects*, and so he believes that it is incumbent upon him to say *which* objects they are. But the ‘Julius Caesar problem’ is that Hume’s Principle, if considered as the sole principle offering identity conditions for numbers, doesn’t describe the conditions under which an arbitrary object, say Julius Caesar, is or is not to be identified with the number of planets. That is, Hume’s Principle doesn’t define the condition ‘$\#F = x$’, for arbitrary $x$. It only offers identity conditions when $x$ is an object known to be a cardinal number (for then $x = \#G$, for some $G$, and Hume’s Principle tells us when $\#F = \#G$).
 
 In **Gl**, Frege solves the problem by giving his explicit definition of numbers in terms of extensions. (We described this in §4 above.) Unfortunately, this is only a stopgap measure, for when Frege later systematizes extensions in **Gg**, Basic Law V has the same logical form as Hume’s Principle and the above contextual definition of directions. Frege is aware that the Julius Caesar problem affects Basic Law V, as the discussion in **Gg I**, §10 shows. In that section, he says (remembering that for Frege, *ε* binds object variables and is not a function term):
 
 > [**Gg I**, §10:]
-> $\ldots$ this by no means fixes completely the denotation of a name like ‘$\stackrel{,}{\epsilon}\!\Phi(\epsilon)$’. We have only a means of always recognizing a course-of-values if it is designated by a name like ‘$\stackrel{,}{\epsilon}\!\Phi (\epsilon)$’, by which it is already recognizable as a course-of-values. But, we can neither decide, so far, whether an object is a course-of-values that is not given us as such $\ldots$ [from the Furth translation in Frege 1967][^frege-1967][^furth-1967]
+> $\ldots$ this by no means fixes completely the denotation of a name like ‘$\stackrel{,}{\epsilon}\!\Phi(\epsilon)$’. We have only a means of always recognizing a course-of-values if it is designated by a name like ‘$\stackrel{,}{\epsilon}\!\Phi (\epsilon)$’, by which it is already recognizable as a course-of-values. But, we can neither decide, so far, whether an object is a course-of-values that is not given us as such $\ldots$ [from the Furth translation in Frege 1967][^furth-1967]
 
 In other words, Basic Law V does not tell us the conditions under which an arbitrarily chosen object $x$ may be identified with some given extension, such as $\epsilon F$.
 
@@ -1128,19 +1128,19 @@ To prove Fact 8, assume that $R^{*}(a,b), Rcb$ and that $R$ is 1-1. We want to s
 
 [^note-19]: Wehmeier (1999)[^wehmeier-1999] shows that Frege would not have had much luck attempting to restrict the quantifiers of **Gg** to extensions. He considers two consistent subsytems that Frege might have adopted to avoid the contradiction, namely, the system H described in Heck (1996)[^heck-1996] and the system Wehmeier himself developed and labels $T_{\Delta}$. Both of these systems retain Basic Law V but place restrictions on the Comprehension Principle for Concepts. However, both systems imply the existence of objects which are not extensions (or courses-of-values), and indeed, they imply an infinite number of such objects.
 
-[^frege-1879]: 1879, *Begriffsschrift, eine der arithmetischen nachgebildete Formelsprache des reinen Denkens*, Halle a. S.: Louis Nebert; translation by S. Bauer Mengelberg as *Concept Notation: A formula language of pure thought, modelled upon that of arithmetic*, in J. van Heijenoort, *From Frege to Gödel: A Sourcebook in Mathematical Logic, 1879–1931*, Cambridge, MA: Harvard University Press
+[^frege-theorem-1879]: 1879, *Begriffsschrift, eine der arithmetischen nachgebildete Formelsprache des reinen Denkens*, Halle a. S.: Louis Nebert; translation by S. Bauer Mengelberg as *Concept Notation: A formula language of pure thought, modelled upon that of arithmetic*, in J. van Heijenoort, *From Frege to Gödel: A Sourcebook in Mathematical Logic, 1879–1931*, Cambridge, MA: Harvard University Press
 
-[^frege-1884]: 1884, *Die Grundlagen der Arithmetik: eine logisch-mathematische Untersuchung über den Begriff der Zahl*, Breslau: w. Koebner; translated by J. L. Austin as *The Foundations of Arithmetic: A Logic-Mathematical Enquiry into the Concept of Number*, Oxford: Blackwell, second revised edition, 1953.
+[^frege-theorem-1884]: 1884, *Die Grundlagen der Arithmetik: eine logisch-mathematische Untersuchung über den Begriff der Zahl*, Breslau: w. Koebner; translated by J. L. Austin as *The Foundations of Arithmetic: A Logic-Mathematical Enquiry into the Concept of Number*, Oxford: Blackwell, second revised edition, 1953.
 
-[^frege-1892]: 1892, “Über Begriff und Gegenstand”, in *Vierteljahresschrift für wissenschaftliche Philosophie*, 16: 192–205; translated as ‘Concept and Object,’ by P. Geach in *Translations from the Philosophical Writings of Gottlob Frege*, P. Geach and M. Black (eds. and trans.), Oxford: Blackwell, third edition, 1980.
+[^frege-theorem-1892]: 1892, “Über Begriff und Gegenstand”, in *Vierteljahresschrift für wissenschaftliche Philosophie*, 16: 192–205; translated as ‘Concept and Object,’ by P. Geach in *Translations from the Philosophical Writings of Gottlob Frege*, P. Geach and M. Black (eds. and trans.), Oxford: Blackwell, third edition, 1980.
 
-[^frege-1893]: 1893/1903, *Grundgesetze der Arithmetik*, Band I/II, Jena: Verlag Herman Pohle; translation by P. Ebert and M. Rossberg (with C. Wright) as *Basic Laws of Arithmetic*: *Derived using concept-script*, Oxford: Oxford University Press, 2013; partial translation of Volume I by M. Furth as *The Basic Laws of Arithmetic*, Berkeley: U. California Press, 1964.
+[^frege-theorem-1893]: 1893/1903, *Grundgesetze der Arithmetik*, Band I/II, Jena: Verlag Herman Pohle; translation by P. Ebert and M. Rossberg (with C. Wright) as *Basic Laws of Arithmetic*: *Derived using concept-script*, Oxford: Oxford University Press, 2013; partial translation of Volume I by M. Furth as *The Basic Laws of Arithmetic*, Berkeley: U. California Press, 1964.
 
-[^frege-1953]: 1953, *The Foundations of Arithmetic*, J. L. Austin (trans.), Oxford: Basil Blackwell, 2nd revised edition.
+[^frege-theorem-1953]: 1953, *The Foundations of Arithmetic*, J. L. Austin (trans.), Oxford: Basil Blackwell, 2nd revised edition.
 
-[^frege-1967]: 1967, *The Basic Laws of Arithmetic*, M. Furth (trans.), Berkeley: University of California.
+[^frege-theorem-1967]: 1967, *The Basic Laws of Arithmetic*, M. Furth (trans.), Berkeley: University of California.
 
-[^frege-1980]: 1980, *Philosophical and Mathematical Correspondence*, G. Gabriel, H. Hermes, F. Kambartel, C. Thiel, and A. Veraart (eds. of the German edition), abridged from the German edition by Brian McGuinness, translated by Hans Kaal, Chicago: University of Chicago Press.
+[^frege-theorem-1980]: 1980, *Philosophical and Mathematical Correspondence*, G. Gabriel, H. Hermes, F. Kambartel, C. Thiel, and A. Veraart (eds. of the German edition), abridged from the German edition by Brian McGuinness, translated by Hans Kaal, Chicago: University of Chicago Press.
 
 [^dedekind-1888]: Dedekind, R., 1888, *Was sind und was sollen die Zahlen*, Braunschweig: Vieweg und Sohn; 2nd edition, 1893; 7th edition, 1939; translated as “The Nature and Meaning of Numbers”, in W.W. Beman (ed. and trans.), *Essays on the Theory of Numbers*, Chicago: Open Court, 1901; reprinted, New York: Dover, 1963; also translated as “What Are Numbers and What Should They Be?”, H. Pogorzelski, W. Ryan & W. Snyder (eds. and trans.), Orono, ME: Research Institute for Mathematics, 1995.
 

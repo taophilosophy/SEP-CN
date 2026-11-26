@@ -622,7 +622,7 @@ The author would like to thank Hitoshi Omori for many stimulating discussions on
 
 [^lowe-1995]: Lowe, E.J., 1995, “The Truth about Counterfactuals”, *The Philosophical Quarterly*, 45: 41–59.
 
-[^lowe-1951]: Łukasiewicz, J. 1951, *Aristotle’s Syllogistic from the Standpoint of Modern Formal Logic*, Oxford: Clarendon Press.
+[^logic-connexive-1951]: Łukasiewicz, J. 1951, *Aristotle’s Syllogistic from the Standpoint of Modern Formal Logic*, Oxford: Clarendon Press.
 
 [^maccoll-1878]: MacColl, H., 1878, “The Calculus of Equivalent Statements (II)”, *Proceedings of the London Mathematical Society 1877–78*, 9: 177–186.
 

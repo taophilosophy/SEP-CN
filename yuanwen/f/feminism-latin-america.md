@@ -295,9 +295,9 @@ The research for this essay was supported (in part) by a Summer Stipend from the
 
 [^gargallo-2010]: ––– (comp.), 2010, *Antología del pensamiento feminista nuestroamericano*, Venezuela: Biblioteca Ayacucho.
 
-[^gargallo-2010a]: 2010a, *tomo 1 del anhelo a la emancipación*
+[^feminism-latin-america-2010a]: 2010a, *tomo 1 del anhelo a la emancipación*
 
-[^gargallo-2010b]: 2010b, *tomo 2 movimiento de liberación de las mujeres*
+[^feminism-latin-america-2010b]: 2010b, *tomo 2 movimiento de liberación de las mujeres*
 
 [^gutiérrez-2012]: Gutiérrez, Mario, 2012, “Marta Acevedo: la marcha que ha durado décadas”, in *20 años por todas las mujeres*, Mexico City: GIRE, pp. 42–45.
 

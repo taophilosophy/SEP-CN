@@ -167,7 +167,7 @@ Since the mid-1950’s, the term “Copenhagen interpretation” has been common
 
 #### 4.2.2 Non-realist and pragmatist approaches to quantum mechanics
 
-From the early days of quantum mechanics, there has been a strain of thought that holds that the proper attitude to take towards quantum mechanics is an instrumentalist or pragmatic one. On such a view, quantum mechanics is a tool for coordinating our experience and for forming expectations about the outcomes of experiments. Variants of this view include some versions of the Copenhagen interpretation. More recently, views of this sort have been advocated by physicists, including QBists, who hold that quantum states represent subjective or epistemic probabilities (see Fuchs *et al.*, 2014)[^fuchs-2014]. The philosopher Richard Healey defends a related view on which quantum states, though objective, are not to be taken as representational (see Healey 2012, 2017a, 2020)[^healey-2012][^healey-2017a][^healey-2020]. For more on these approaches, see entry on Quantum-Bayesian and pragmatist views of quantum theory.
+From the early days of quantum mechanics, there has been a strain of thought that holds that the proper attitude to take towards quantum mechanics is an instrumentalist or pragmatic one. On such a view, quantum mechanics is a tool for coordinating our experience and for forming expectations about the outcomes of experiments. Variants of this view include some versions of the Copenhagen interpretation. More recently, views of this sort have been advocated by physicists, including QBists, who hold that quantum states represent subjective or epistemic probabilities (see Fuchs *et al.*, 2014)[^fuchs-2014]. The philosopher Richard Healey defends a related view on which quantum states, though objective, are not to be taken as representational (see Healey 2012, 2017a, 2020)[^healey-2012][^healey-2017a]. For more on these approaches, see entry on Quantum-Bayesian and pragmatist views of quantum theory.
 
 #### 4.2.2 Hidden-variables and modal interpretations
 
@@ -211,7 +211,7 @@ An assumption common to all of these investigations is that it is always permiss
 
 It should be noted that each of the major avenues of approach to the measurement problem is capable of giving an account of goings-on in any physical scenario, including the ones considered in these works. Each of them, therefore, must violate some member of the set of assumptions shown to be inconsistent. These results do not pose problems for existing approaches to the measurement problem; rather, they are no-go theorems for approaches that might seek to satisfy all of the set of assumptions shown to be inconsistent. As the assumptions considered include both unitary evolution and unique outcomes of experiments, and the scenarios considered involved situations involving superpositions of distinct experimental outcomes, these results concern theories on which the quantum state, as given by the Schrödinger equation, is not a complete description of reality, as it fails to determine the unique outcomes perceived by the observers. These preceptions could be thought of as supervening on brain states, in which case there is physical structure not included in the quantum state, or as attributes of immaterial minds. On either interpretation, the sorts of theories ruled out fall under the first horn of Bell’s dilemma, mentioned in section 4.2, and these no-go results in part reproduce, and in part extend, no-go results for certain sorts of modal interpretations (see entry on modal interpretations of quantum mechanics).
 
-These results involving extended Wigner’s friend scenarios have engendered considerable philosophical discussion; see Sudbery (2017, 2019)[^sudbery-2017][^sudbery-2019], Healey (2018, 2020)[^healey-2018][^healey-2020], Dieks (2019)[^dieks-2019], Losada et al. (2019), Dascal (2020)[^dascal-2020], Evans (2020)[^evans-2020], Fortin and Lombardi (2020), Kastner (2020)[^kastner-2020], Muciño & Okon (2020), Bub (2020, 2021)[^bub-2020][^bub-2021], Cavalcanti (2021)[^cavalcanti-2021][^cavalcanti-2021-2], Cavalcanti and Wiseman (2021), and Żukowski and Markiewicz (2021).
+These results involving extended Wigner’s friend scenarios have engendered considerable philosophical discussion; see Sudbery (2017, 2019)[^sudbery-2017][^sudbery-2019], Healey (2018, 2020)[^healey-2018], Dieks (2019)[^dieks-2019], Losada et al. (2019), Dascal (2020)[^dascal-2020], Evans (2020)[^evans-2020], Fortin and Lombardi (2020), Kastner (2020)[^kastner-2020], Muciño & Okon (2020), Bub (2020, 2021)[^bub-2020][^bub-2021], Cavalcanti (2021)[^cavalcanti-2021][^cavalcanti-2021-2], Cavalcanti and Wiseman (2021), and Żukowski and Markiewicz (2021).
 
 ### 4.4 The role of decoherence
 
@@ -419,7 +419,7 @@ Bell’s Theorem | physics: holism and nonseparability | quantum mechanics | qua
 
 [^healey-2018]: –––, 2018, “Quantum theory and the limits of objectivity”, *Foundations of Physics*, 48: 1568–1589.
 
-[^healey-2020]: —, 2020, “Pragmatist Quantum Realism”, in French and Saatsi (eds.), 2021: 123–146.
+[^qt-issues-2020]: —, 2020, “Pragmatist Quantum Realism”, in French and Saatsi (eds.), 2021: 123–146.
 
 [^heisenberg-1930a]: Heisenberg, Werner, 1930a, *Die Physicalische Prinzipien der Quantentheorie*, Leipzig: Verlag von S. Hirzel.
 

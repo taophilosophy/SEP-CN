@@ -466,7 +466,7 @@ The debate in the metaphysics of race is a deep and interesting one. See Glasgow
 
 [^holroyd-2011]: Holroyd, Jules, 2011, “The Metaphysics of Relational Autonomy”, in Witt 2011a: 99–115. doi:10.1007/978-90-481-3783-1_7
 
-[^holroyd-1981]: hooks, bell, 1981, *Ain’t I A Woman: Black Women and Feminism*, Boston: South End Press.
+[^feminism-metaphysics-1981]: hooks, bell, 1981, *Ain’t I A Woman: Black Women and Feminism*, Boston: South End Press.
 
 [^hull-1982]: Hull, Gloria T., Patricia Bell Scott, and Barbara Smith, 1982, *But Some of Us Are Brave: Black Women’s Studies*, Old Westbury, N.Y: The Feminist Press.
 

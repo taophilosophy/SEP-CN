@@ -197,21 +197,21 @@ Everything covered here concerning the impoverishing and blinding superimpositio
 
 [^bb-1958]: [BB] 1958, *The Blue and Brown Books*, Oxford: Blackwell.
 
-[^bb-1921]: 1921/1922, *Logisch-Philosophische Abhandlung*, 1921. With the German and translated into English as *Tractatus Logico-Philosophicus*, Charles Kay Ogden (trans./ed.) with Frank P. Ramsey, London: Routledge & Kegan Paul. Newer translation by D. F. Pears and B. F. McGuinness, New York: Humanities Press and London Routledge & Kegan Paul, 1961.
+[^wittgenstein-aesthetics-1921]: 1921/1922, *Logisch-Philosophische Abhandlung*, 1921. With the German and translated into English as *Tractatus Logico-Philosophicus*, Charles Kay Ogden (trans./ed.) with Frank P. Ramsey, London: Routledge & Kegan Paul. Newer translation by D. F. Pears and B. F. McGuinness, New York: Humanities Press and London Routledge & Kegan Paul, 1961.
 
 [^la-1966]: [LA] 1966, *Lectures and Conversations on Aesthetics, Psychology, and Religious Belief*, Cyril Barrett (ed.), Oxford: Basil Blackwell. Compiled from notes taken by Yorick Symthies, Rush Rhees and James Taylor. The lectures on aesthetics (pages 1–40) took place in 1938.
 
-[^la-1969]: 1969, *On Certainty*, German and English, G. E. M. Anscombe and G. H. von Wright (eds) Denis Paul and G. E. M. Anscombe (trans), Oxford: Blackwell.
+[^wittgenstein-aesthetics-1969]: 1969, *On Certainty*, German and English, G. E. M. Anscombe and G. H. von Wright (eds) Denis Paul and G. E. M. Anscombe (trans), Oxford: Blackwell.
 
-[^la-1971]: 1971, *Prototractatus: An Early Version of Tractatus Logico-Philosophicus*, B. F. McGuinness, T. Nyberg, and G. H. von Wright (eds). D. F. Pears and B. F. McGuinness (trans), Ithaca, NY: Cornell University Press.
+[^wittgenstein-aesthetics-1971]: 1971, *Prototractatus: An Early Version of Tractatus Logico-Philosophicus*, B. F. McGuinness, T. Nyberg, and G. H. von Wright (eds). D. F. Pears and B. F. McGuinness (trans), Ithaca, NY: Cornell University Press.
 
-[^la-1980a]: 1980a, *Culture and Value*, G. H. von Wright and Heikki Nyman (eds), Peter Winch (trans.), Oxford: Basil Balckwell.
+[^wittgenstein-aesthetics-1980a]: 1980a, *Culture and Value*, G. H. von Wright and Heikki Nyman (eds), Peter Winch (trans.), Oxford: Basil Balckwell.
 
-[^la-1980b]: 1980b, *Remarks on the Philosophy of Psychology* (Volume I), G. E. M. Anscombe and G. H. von Wright (eds.), G. E. M. Anscombe (trans.), Oxford: Basil Blackwell, 1980.
+[^wittgenstein-aesthetics-1980b]: 1980b, *Remarks on the Philosophy of Psychology* (Volume I), G. E. M. Anscombe and G. H. von Wright (eds.), G. E. M. Anscombe (trans.), Oxford: Basil Blackwell, 1980.
 
-[^la-1980c]: 1980c, *Remarks on the Philosophy of Psychology* (Volume II), G. H. von Wright and Heikki Nyman (eds.), C. G. Luckhardt and M. A. E. Aue (trans.), Oxford: Basil Blackwell.
+[^wittgenstein-aesthetics-1980c]: 1980c, *Remarks on the Philosophy of Psychology* (Volume II), G. H. von Wright and Heikki Nyman (eds.), C. G. Luckhardt and M. A. E. Aue (trans.), Oxford: Basil Blackwell.
 
-[^la-1982]: 1982, *Last Writings on the Philosophy of Psychology*, G. H. von Wright and Heikki Nyman (eds), C. G. Luckhardt and Maximilian A. E. Aue (trans.), Oxford: Basil Blackwell.
+[^wittgenstein-aesthetics-1982]: 1982, *Last Writings on the Philosophy of Psychology*, G. H. von Wright and Heikki Nyman (eds), C. G. Luckhardt and Maximilian A. E. Aue (trans.), Oxford: Basil Blackwell.
 
 [^allen-2001]: Allen, Richard and Malcolm Turvey (eds), 2001, *Wittgenstein, Theory, and the Arts*, London/New York: Routledge. doi:10.4324/9780203870204
 

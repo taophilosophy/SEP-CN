@@ -52,7 +52,7 @@ When we talk about effective representation, then, we are talking about effectiv
 
 A seminal work on the nature of efficiency (ii) is Larkin and Simon’s “Why a Diagram is Sometimes Worth Ten Thousand Words” (1987). Central to their investigation is a distinction between the informational and computational aspects of representations. Two representations are informationally equivalent if they express the same content. They are computationally equivalent if they express the same content and allow for the same inferences to be “easily and quickly” drawn from them. Larkin and Simon compare sentential and diagrammatic representations of two example problems—one from physics and one from geometry—and argue that while equivalent informationally the two modes of representations differ computationally. The two-dimensional presentation of diagrams facilitates search in a way that a one-dimensional sentential presentation does not. Moreover, there are key concepts and relationships which are directly perceived in diagrammatic representations but require some computational work to extract from sentential representations. Larkin and Simon reiterate this point in a discussion of the supply-demand graphs ubiquitous in economics texts, which they consider to illustrate how effective diagrammatic representation extends to abstract, nonspatial subject matters. “As in our other examples, the great utility of the diagram arises from perceptual enhancement, the fact that it makes explicit the relative positions of the equilibrium points, so that the conclusion can be read off with the help of simple, direct perceptual operations” (Larkin and Simon, 1987, p.95)[^larkin-1987].
 
-The capacity of diagrammatic representations to enable a direct `reading off’ of a conclusion is often understood in the literature in terms of the notion of a free ride, introduced in Barwise and Shimojiima (1995) and more in Shimojima 1996. For Shimojima’s most recent formulation of a what free ride is, see Shimojima 2015. In Stapleton et al. 2017, a notion of observational advantages is proposed as a generalization of that of a free ride and is used to analyze the effectiveness of Euler diagrams as a representation of set-theoretic relations. Stenning(2002)[^stenning-2002] offers an alternative theoretical approach: what distinguishes diagrams as representations is the directness of the rules for interpreting their syntax, and this enables an “agglomerative” mode of reasoning.
+The capacity of diagrammatic representations to enable a direct `reading off’ of a conclusion is often understood in the literature in terms of the notion of a free ride, introduced in Barwise and Shimojiima (1995) and more in Shimojima 1996. For Shimojima’s most recent formulation of a what free ride is, see Shimojima 2015. In Stapleton et al. 2017, a notion of observational advantages is proposed as a generalization of that of a free ride and is used to analyze the effectiveness of Euler diagrams as a representation of set-theoretic relations. Stenning(2002)[^stenning-2002][^stenning-2002-2] offers an alternative theoretical approach: what distinguishes diagrams as representations is the directness of the rules for interpreting their syntax, and this enables an “agglomerative” mode of reasoning.
 
 More recent work has explored more fine-grained criteria for effective representation. After presenting five criteria (cf. 19 criteria by Cheng 2016)[^cheng-2016] for representation to be effective in relation to the internal representation (i.e. direct encoding, low-cost inference, conceptual transparency, generality, and conceptual-syntactic compatibility), Stockdill et al. (2021) discuss related, but not necessarily identical, aspects of diagrammatic representation.
 
@@ -122,7 +122,7 @@ Hence, the reader will not be surprised by the following conclusion drawn by Bar
 
 > there is no principled distinction between inference formalisms that use text and those that use diagrams. One can have rigorous, logically sound (and complete) formal systems based on diagrams. (Barwise & Etchemendy 1995: 214)[^barwise-1995][^barwise-1995-2]
 
-This conviction was necessary for the birth of their innovative computer program *Hyperproof*, which adopts both first-order languages and diagrams (in a *multi-modal* system) to teach elementary logic courses (Barwise & Etchemendy 1993 and Barwise & Etchemendy 1994)[^barwise-1993][^barwise-1993-2][^barwise-1994].
+This conviction was necessary for the birth of their innovative computer program *Hyperproof*, which adopts both first-order languages and diagrams (in a *multi-modal* system) to teach elementary logic courses (Barwise & Etchemendy 1993 and Barwise & Etchemendy 1994)[^barwise-1993][^barwise-1993-2][^barwise-1994][^barwise-1994-2].
 
 #### 3.1.1 Euler diagrams
 
@@ -248,7 +248,7 @@ It is interesting and important to notice that the gradual changes made from Eul
 
 Both Venn and Peirce adopted the same kind of solution in order to achieve these improvements: to introduce new syntactic objects, that is, shadings by Venn, and ‘x’s, ‘o’s, and lines by Peirce. However, on the negative side, these revised systems suffer from a loss of visual clarity, as seen above, mainly because of the introduction of more arbitrary conventions. The modifications from Peirce to Shin diagrams concentrate on restoring visual clarity, but without loss of expressive power.
 
-Hammer and Shin take a different path from these revisions: To revive Euler’s homomorphic relation between circles and sets—containment among circles represents the subset relation among sets, and non-overlapping of regions represents the disjoint relation—and at the same time, to adopt Venn’s primary diagrams by default. On the other hand, this revised Euler system is not a self-sufficient tool for syllogistic reasoning, since it cannot represent existential statements. For more details of this revised system, refer to (Hammer & Shin 1998)[^hammer-1998].
+Hammer and Shin take a different path from these revisions: To revive Euler’s homomorphic relation between circles and sets—containment among circles represents the subset relation among sets, and non-overlapping of regions represents the disjoint relation—and at the same time, to adopt Venn’s primary diagrams by default. On the other hand, this revised Euler system is not a self-sufficient tool for syllogistic reasoning, since it cannot represent existential statements. For more details of this revised system, refer to (Hammer & Shin 1998)[^hammer-1998][^hammer-1998-2].
 
 This case study raises an interesting question for further research on diagrammatic reasoning. Throughout the different developments of Euler diagrams, increasing its expressive power and enhancing its visual clarity seem to be complementary to each other. Depending on purposes, we need to give priority to one over the other. Hammer and Shin’s alternative system provides a simple model for the development of other efficient non-sentential representational systems, a topic that has been receiving increasing attention in computer science and cognitive science.
 
@@ -465,26 +465,6 @@ We began by motivating the philosophical interest of diagrams, by way of their r
 
 ### Relevant Literature
 
-- Barwise, J. and E. Hammer, 1994, “Diagrams and the Concept of a Logical System”, in Gabbay, D. (ed.), *What is a Logical System?* New York: Oxford University Press.
-- Hammer, E., 1995b, *Logic and Visual Information*, Studies in Logic, Language, and Computation. Stanford: CSLI Publications and FoLLI.
-- –––, 1998, “Semantics for Existential Graphs”, *Journal of Philosophical Logic*, 27: 489–503
-- Hammer, E. and S. Shin, 1996, “Euler and the Role of Visualization in Logic”, in Seligman, J. and Westerståhl, D. (eds), *Logic, Language and Computation: Volume 1*, CSLI Lecture Notes #58, pages 271–286. Stanford: CSLI Publications.
-- Kneale, W., and Kneale, M., 1962, *The Development of Logic*, Oxford: Clarendon Press.
-- Lemon, O., 1997, “Review of *Logic and Visual Information*, by E. M. Hammer”, *Journal of Logic, Language, and Information*, 6(2): 213–216.
-- Roberts, D., 1992, “The Existential Graphs of Charles S. Peirce”, *Computer and Mathematical Applications*, 23: 639–663.
-- Shimojima, A., 1996b, “Operational Constraints in Diagrammatic Reasoning”, in J. Barwise and G. Allwein, (eds), *Logical Reasoning with Diagrams*, New York: Oxford University Press, pages 27–48.
-- –––, 1996c, “Reasoning with Diagrams and Geometrical Constraints”, in Seligman, J. and Westerståhl, D. (eds), *Logic, Language and Computation: Volume 1*, CSLI Lecture Notes #58, pages 527–540. Stanford, CSLI Publications.
-- Shin, S., 1991, “A Situation-Theoretic Account of Valid Reasoning with Venn Diagrams”, in J. Barwise, J. Gawron, G. Plotkin, and S. Tutiya, (eds), *Situation Theory and its Applications: Volume 2*, CSLI Lecture Notes #26, pages 581–605. Stanford: CSLI Publications.
-- –––, 1999, “Reconstituting Beta Graphs into an Efficacious System”, *Journal of Logic, Language, and Information*, 8: 273–295.
-- –––, 2000, “Reviving the Iconicity of Beta Graphs”, in Anderson, Cheng, and Haarslev, (eds), *Theory and Application of Diagrams*, pages 58–73. Springer-Verlag.
-- –––, 2002a, *The Iconic Logic of Peirce’s Graphs*, Cambridge, MA: MIT Press.
-- –––, 2002b, “Multiple Readings of Peirce’s Alpha Graphs”, in M. Anderson, B. Meyer, and P. Olivier, (eds), *Diagrammatic Representation and Reasoning*, London: Springer-Verlag, pp. 297–314.
-- Sowa, J., 2000, *Knowledge Representation: Logical, Philosophical, Computational Foundations*, Belmont, CA: Brooks/Cole.
-- Stenning, K., 2002, *Seeing Reason: Image and Language in Learning to Think*, Oxford: Oxford University Press.
-- Stenning, K. and J. Oberlander, 1995, “A Cognitive Theory of Graphical and Linguistic Reasoning: Logic and Implementation”, *Cognitive Science*, 19(1): 97–140.
-- Tufte, E., 1983, *The Visual Display of Quantitative Information*, Connecticut: Graphics Press.
-- –––, 1990, *Envisioning Information*, Connecticut: Graphics Press.
-
 ## Academic Tools
 
 > |   | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=diagrams). |
@@ -534,7 +514,7 @@ If one is interested solely in how information from diagrams is situated logical
 
 [^note-8]: The following conferences are good evidence for this effort: VISUAL ’98: Visualization Issues in Formal Methods (Lisbon); International Roundtable Conference on Visual and Spatial Reasoning in Design (MIT, 1999); and Theories of Visual Languages—Track of VL ’99: 1999 IEEE Symposium on Visual Languages.
 
-[^note-9]: Such problems have been studied under the banner of “Topological Inference ” and are nearly all NP hard (Grigni et al. 1995; Lemon & Pratt 1997; Lemon 2001)[^grigni-1995][^lemon-1997].
+[^note-9]: Such problems have been studied under the banner of “Topological Inference ” and are nearly all NP hard (Grigni et al. 1995; Lemon & Pratt 1997; Lemon 2001)[^grigni-1995][^lemon-1997][^lemon-1997-2].
 
 [^note-10]: As a practical instance of Helly’s Theorem.
 
@@ -761,3 +741,41 @@ If one is interested solely in how information from diagrams is situated logical
 [^wittgenstein-1921]: Wittgenstein, L., 1921, *Tractatus Logico-Philosophicus*, B. Pears and B. McGuinness (trans), London: Routledge & Kegan Paul, 1961.
 
 [^zeman-1964]: Zeman, J., 1964, *The Graphical Logic of C. S. Peirce*, Ph.D. thesis, University of Chicago.
+
+[^barwise-1994-2]: Barwise, J. and E. Hammer, 1994, “Diagrams and the Concept of a Logical System”, in Gabbay, D. (ed.), *What is a Logical System?* New York: Oxford University Press.
+
+[^hammer-1995b]: Hammer, E., 1995b, *Logic and Visual Information*, Studies in Logic, Language, and Computation. Stanford: CSLI Publications and FoLLI.
+
+[^hammer-1998-2]: –––, 1998, “Semantics for Existential Graphs”, *Journal of Philosophical Logic*, 27: 489–503
+
+[^hammer-1996]: Hammer, E. and S. Shin, 1996, “Euler and the Role of Visualization in Logic”, in Seligman, J. and Westerståhl, D. (eds), *Logic, Language and Computation: Volume 1*, CSLI Lecture Notes #58, pages 271–286. Stanford: CSLI Publications.
+
+[^kneale-1962]: Kneale, W., and Kneale, M., 1962, *The Development of Logic*, Oxford: Clarendon Press.
+
+[^lemon-1997-2]: Lemon, O., 1997, “Review of *Logic and Visual Information*, by E. M. Hammer”, *Journal of Logic, Language, and Information*, 6(2): 213–216.
+
+[^roberts-1992]: Roberts, D., 1992, “The Existential Graphs of Charles S. Peirce”, *Computer and Mathematical Applications*, 23: 639–663.
+
+[^shimojima-1996b]: Shimojima, A., 1996b, “Operational Constraints in Diagrammatic Reasoning”, in J. Barwise and G. Allwein, (eds), *Logical Reasoning with Diagrams*, New York: Oxford University Press, pages 27–48.
+
+[^shimojima-1996c]: –––, 1996c, “Reasoning with Diagrams and Geometrical Constraints”, in Seligman, J. and Westerståhl, D. (eds), *Logic, Language and Computation: Volume 1*, CSLI Lecture Notes #58, pages 527–540. Stanford, CSLI Publications.
+
+[^shin-1991]: Shin, S., 1991, “A Situation-Theoretic Account of Valid Reasoning with Venn Diagrams”, in J. Barwise, J. Gawron, G. Plotkin, and S. Tutiya, (eds), *Situation Theory and its Applications: Volume 2*, CSLI Lecture Notes #26, pages 581–605. Stanford: CSLI Publications.
+
+[^shin-1999]: –––, 1999, “Reconstituting Beta Graphs into an Efficacious System”, *Journal of Logic, Language, and Information*, 8: 273–295.
+
+[^shin-2000]: –––, 2000, “Reviving the Iconicity of Beta Graphs”, in Anderson, Cheng, and Haarslev, (eds), *Theory and Application of Diagrams*, pages 58–73. Springer-Verlag.
+
+[^shin-2002a]: –––, 2002a, *The Iconic Logic of Peirce’s Graphs*, Cambridge, MA: MIT Press.
+
+[^shin-2002b]: –––, 2002b, “Multiple Readings of Peirce’s Alpha Graphs”, in M. Anderson, B. Meyer, and P. Olivier, (eds), *Diagrammatic Representation and Reasoning*, London: Springer-Verlag, pp. 297–314.
+
+[^sowa-2000]: Sowa, J., 2000, *Knowledge Representation: Logical, Philosophical, Computational Foundations*, Belmont, CA: Brooks/Cole.
+
+[^stenning-2002-2]: Stenning, K., 2002, *Seeing Reason: Image and Language in Learning to Think*, Oxford: Oxford University Press.
+
+[^stenning-1995]: Stenning, K. and J. Oberlander, 1995, “A Cognitive Theory of Graphical and Linguistic Reasoning: Logic and Implementation”, *Cognitive Science*, 19(1): 97–140.
+
+[^tufte-1983]: Tufte, E., 1983, *The Visual Display of Quantitative Information*, Connecticut: Graphics Press.
+
+[^tufte-1990]: –––, 1990, *Envisioning Information*, Connecticut: Graphics Press.

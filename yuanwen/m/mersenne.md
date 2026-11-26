@@ -265,17 +265,17 @@ Some passages in the biographical parts of this entry are borrowed from Hamou 20
 
 [^critical-2005]: Critical edition by Dominique Descotes, Paris: Champion, 1 volume, 2005
 
-[^critical-1625]: 1625 [VS], *La Vérité des sciences contre les septiques [sic] ou Pyrrhoniens, Paris*. [[available online](https://gallica.bnf.fr/ark:/12148/bpt6k579276.r=mersenne.langFR)]
+[^mersenne-1625]: 1625 [VS], *La Vérité des sciences contre les septiques [sic] ou Pyrrhoniens, Paris*. [[available online](https://gallica.bnf.fr/ark:/12148/bpt6k579276.r=mersenne.langFR)]
 
 [^critical-2003]: Critical edition by Dominique Descotes, Paris: Honoré Champion, 1 volume, 2003.
 
-[^critical-1626]: 1626, *Synopsis mathematica*, Paris.
+[^mersenne-1626]: 1626, *Synopsis mathematica*, Paris.
 
-[^critical-1627]: 1627 [THU], *Traité de l’harmonie universelle par le sieur de Serme*, Paris.
+[^mersenne-1627]: 1627 [THU], *Traité de l’harmonie universelle par le sieur de Serme*, Paris.
 
-[^critical-1630]: 1630, *Traité des mouvemens et de la chute des corps pesans […]*, Paris. Reprinted in *Corpus: revue de philosophie*, 1986, 2: 25–58.
+[^mersenne-1630]: 1630, *Traité des mouvemens et de la chute des corps pesans […]*, Paris. Reprinted in *Corpus: revue de philosophie*, 1986, 2: 25–58.
 
-[^critical-1634]: 1634 *Questions Inouyes*, edited by André Pessel, Paris, 1985, includes
+[^mersenne-1634]: 1634 *Questions Inouyes*, edited by André Pessel, Paris, 1985, includes
 
 [^qi-nd]: [QI] *Questions Inouyes ou recreation des sçavans*.
 
@@ -285,23 +285,23 @@ Some passages in the biographical parts of this entry are borrowed from Hamou 20
 
 [^phu-nd]: [PHU] *Les Préludes de l’harmonie universelle*.
 
-[^phu-1634]: 1634, *Les Méchaniques de Galilée*, Paris. Edited by Bernard Rochot, Paris: Vrin, 1966.
+[^mersenne-1634-2]: 1634, *Les Méchaniques de Galilée*, Paris. Edited by Bernard Rochot, Paris: Vrin, 1966.
 
-[^phu-1636]: 1636–1637, *Harmonie universelle*, Paris (2 volumes).
+[^mersenne-1636]: 1636–1637, *Harmonie universelle*, Paris (2 volumes).
 
 [^hu-1963]: [HU] Facsimile of Mersenne’s own annotated copy from the Bibliothèque des Arts et métiers, introduction by François Lesure. Paris, 1963 (3 volumes).
 
-[^hu-1638]: 1638 [NO], *Nouvelles Observations physiques et mathématiques*, in *Harmonie universelle*, volume 2, addition de 1638—copy of Bibliothèque nationale de France, Rés V 588.
+[^mersenne-1638]: 1638 [NO], *Nouvelles Observations physiques et mathématiques*, in *Harmonie universelle*, volume 2, addition de 1638—copy of Bibliothèque nationale de France, Rés V 588.
 
-[^hu-1638-2]: 1638, *Harmonicorum libri XII […] Harmonicorum instrumentorum libri IV*, Paris.
+[^mersenne-1638-2]: 1638, *Harmonicorum libri XII […] Harmonicorum instrumentorum libri IV*, Paris.
 
-[^hu-1639]: 1639, *Les Nouvelles Pensées de Galilée*, Paris. Edited by Pierre Costabel and Michel-Pierre Lerner, Paris: J. Vrin, 1973.
+[^mersenne-1639]: 1639, *Les Nouvelles Pensées de Galilée*, Paris. Edited by Pierre Costabel and Michel-Pierre Lerner, Paris: J. Vrin, 1973.
 
-[^hu-1644]: 1644, *Universae geometriae synopsis* and *Cogitata physico mathematica*, Paris. [[available online](https://gallica.bnf.fr/ark:/12148/bpt6k81531h.r=mersenne.langFR)]
+[^mersenne-1644]: 1644, *Universae geometriae synopsis* and *Cogitata physico mathematica*, Paris. [[available online](https://gallica.bnf.fr/ark:/12148/bpt6k81531h.r=mersenne.langFR)]
 
-[^hu-1647]: 1647 *Novarum observationum physico-mathematicarum*, Paris. [[available online](https://gallica.bnf.fr/ark:/12148/bpt6k815336.r=mersenne.langFR)]
+[^mersenne-1647]: 1647 *Novarum observationum physico-mathematicarum*, Paris. [[available online](https://gallica.bnf.fr/ark:/12148/bpt6k815336.r=mersenne.langFR)]
 
-[^hu-1651]: 1651 [OC], *L’Optique et la catoptrique nouvellement mise en lumière après la mort de l’autheur*, in *La Perspective curieuse du R. P. Nicéron*, Paris. [[available online](http://archive.wikiwix.com/cache/?url=http%3A%2F%2Fgallica.bnf.fr%2Fark%3A%2F12148%2Fbpt6k105514z.r%3Dmersenne.langFR)]
+[^mersenne-1651]: 1651 [OC], *L’Optique et la catoptrique nouvellement mise en lumière après la mort de l’autheur*, in *La Perspective curieuse du R. P. Nicéron*, Paris. [[available online](http://archive.wikiwix.com/cache/?url=http%3A%2F%2Fgallica.bnf.fr%2Fark%3A%2F12148%2Fbpt6k105514z.r%3Dmersenne.langFR)]
 
 [^mc-1932]: [MC] *Correspondance du P. Marin Mersenne*, edited by Cornelius De Waard, René Pintard, and Bernard Rochot, Paris: G. Beauchesne, 1932–1988, 17 volumes.
 

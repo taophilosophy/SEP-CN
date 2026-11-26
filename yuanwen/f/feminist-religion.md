@@ -407,7 +407,7 @@ feminist philosophy, approaches: psychoanalytic philosophy | feminist philosophy
 
 [^hollywood-2016]: –––, 2016, *Acute Melancholia and Other Essays: Mysticism, History, and the Study of Religion*, New York: Columbia University Press.
 
-[^hollywood-1990]: hooks, bell, 1990, *Yearning: Race, Gender and Cultural Politics*, Boston, MA.: South end Press.
+[^feminist-religion-1990]: hooks, bell, 1990, *Yearning: Race, Gender and Cultural Politics*, Boston, MA.: South end Press.
 
 [^howell-1988]: Howell, Nancy, 1988, “The Promise of a Process Feminist Theory of Relations”, *Process Studies*, 17(1): 78–87.
 

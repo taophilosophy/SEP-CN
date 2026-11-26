@@ -1609,11 +1609,11 @@ One could also use a primitive notion of general sum, though a proper treatment 
 
 [^lucas-2000]: Lucas, J. R., 2000, *The Conceptual Roots of Mathematics*, London: Routledge.
 
-[^lucas-1920]: Łukasiewicz, J., 1920, ‘O logice trojwartosciowej’, *Ruch Filozoficny*, 5: 169–171; Eng. trans. by H. Hiż: ‘On Three-Valued Logic’, in S. McCall (ed.), *Polish Logic 1920–1939*, Oxford: Oxford University Press, 1967, pp. 15–18.
+[^mereology-1920]: Łukasiewicz, J., 1920, ‘O logice trojwartosciowej’, *Ruch Filozoficny*, 5: 169–171; Eng. trans. by H. Hiż: ‘On Three-Valued Logic’, in S. McCall (ed.), *Polish Logic 1920–1939*, Oxford: Oxford University Press, 1967, pp. 15–18.
 
 [^luschei-1962]: Luschei, E. C., 1962, *The Logical Systems of Leśniewski*, Amsterdam: North-Holland.
 
-[^luschei-2024]: Łyczak, M., 2024, ‘Classical Mereology Is Axiomatizable Using Primitive Fusion in Two-Sorted Logic’, *Notre Dame Journal of Formal Logic*, 65: 357–365.
+[^mereology-2024]: Łyczak, M., 2024, ‘Classical Mereology Is Axiomatizable Using Primitive Fusion in Two-Sorted Logic’, *Notre Dame Journal of Formal Logic*, 65: 357–365.
 
 [^maffezioli-2016]: Maffezioli, P., 2016, ‘Sequents for Non-Wellfounded Mereology’, *Logic and Logical Philosophy*, 25: 351–369.
 
@@ -2025,7 +2025,7 @@ One could also use a primitive notion of general sum, though a proper treatment 
 
 [^sutton-2022]: Sutton, C., 2022, ‘Reducing Constitution to Composition’, *Metaphysica*, 23: 81–94.
 
-[^sutton-2020]: Świętorzecka, K. and Łyczak, M., 2020, ‘Mereology with Super-Supplementation Axioms. A Reconstruction of the Unpublished Manuscript of Jan F. Drewnowski’, *Logic and Logical Philosophy*, 29: 189–211.
+[^mereology-2020]: Świętorzecka, K. and Łyczak, M., 2020, ‘Mereology with Super-Supplementation Axioms. A Reconstruction of the Unpublished Manuscript of Jan F. Drewnowski’, *Logic and Logical Philosophy*, 29: 189–211.
 
 [^tahko-2009]: Tahko, T. E., 2009, ‘Against the Vagueness Argument’, *Philosophia*, 37: 335–340.
 

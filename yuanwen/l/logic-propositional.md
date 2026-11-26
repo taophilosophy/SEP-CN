@@ -630,22 +630,9 @@ This is no fault of linear logic, but rather one of its main contributions to th
 
 Most textbooks treat propositional logic as an elementary step *en route* to quantification theory or another more general topic. A notable exception is:
 
-- Schechter, Eric, 2005, *Classical and Nonclassical Logics: An Introduction to the Mathematics of Propositions*, N.J: Princeton University Press.
-
 Another sensitive treatment of propositional logic with attention to non-classical interpretations is:
 
-- Gamut, L. T. F., 1990, *Logic, Language, and Meaning, Volume 1: Introduction to Logic*, Chicago, IL: University of Chicago Press. Translation of *Logica, taal en betekenis I: inleiding in de logica*, Utrecht: Het Spectrum, 1982. (L. T. F. Gamut is a collective name for Johan van Benthem, J. A. G. Groenendijk, D. H. J. de Jongh, M. J. B. Stokhof, and H. J. Verkuyl.)
-
-Among standard textbook treatments, standout presentations of propositional logic can be found in Quine 1982 and in:
-
-- Buss, Samuel R., 1998, “An Introduction to Proof Theory”, in *Handbook of Proof Theory*, Samuel R. Buss (ed.), (Studies in Logic and the Foundations of Mathematics 137), Amsterdam: Elsevier, 1–78. doi:10.1016/S0049-237X(98)80016-5
-- Kleene, Stephen Cole, 1952, *Introduction to Metamathematics*, (The University Series in Higher Mathematics), New York: Van Nostrand.
-- Mendelson, Elliott, 2015, *Introduction to Mathematical Logic*, sixth edition, (Textbooks in Mathematics), Boca Raton, FL: CRC Press.
-- Von Plato, Jan, 2013, *Elements of Logical Reasoning*, Cambridge/New York: Cambridge University Press. doi:10.1017/CBO9781139567862
-
 An excellent presentation of the rapid historical development of the subject in the early twentieth century is:
-
-- Mancosu, Paolo, Richard Zach, and Calixto Badesa, 2009, “The Development of Mathematical Logic from Russell to Tarski, 1900–1935”, in *The Development of Modern Logic*, Leila Haaparanta (ed.), Oxford/New York: Oxford University Press, 318–470. doi:10.1093/acprof:oso/9780195137316.003.0029
 
 ## Academic Tools
 
@@ -758,3 +745,19 @@ Boolean algebra: the mathematics of | computational complexity theory | conditio
 [^urquhart-1984]: Urquhart, Alasdair, 1984, “The Undecidability of Entailment and Relevant Implication”, *Journal of Symbolic Logic*, 49(4): 1059–1073. doi:10.2307/2274261
 
 [^whitehead-1925]: Whitehead, Alfred North and Bertrand Russell, 1925–27, *Principia Mathematica, Volumes 1, 2 and 3*, 2nd Edition, Cambridge: Cambridge University Press.
+
+[^schechter-2005]: Schechter, Eric, 2005, *Classical and Nonclassical Logics: An Introduction to the Mathematics of Propositions*, N.J: Princeton University Press.
+
+[^gamut-1990]: Gamut, L. T. F., 1990, *Logic, Language, and Meaning, Volume 1: Introduction to Logic*, Chicago, IL: University of Chicago Press. Translation of *Logica, taal en betekenis I: inleiding in de logica*, Utrecht: Het Spectrum, 1982. (L. T. F. Gamut is a collective name for Johan van Benthem, J. A. G. Groenendijk, D. H. J. de Jongh, M. J. B. Stokhof, and H. J. Verkuyl.)
+
+[^among-1982]: Among standard textbook treatments, standout presentations of propositional logic can be found in Quine 1982 and in:
+
+[^buss-1998]: Buss, Samuel R., 1998, “An Introduction to Proof Theory”, in *Handbook of Proof Theory*, Samuel R. Buss (ed.), (Studies in Logic and the Foundations of Mathematics 137), Amsterdam: Elsevier, 1–78. doi:10.1016/S0049-237X(98)80016-5
+
+[^kleene-1952]: Kleene, Stephen Cole, 1952, *Introduction to Metamathematics*, (The University Series in Higher Mathematics), New York: Van Nostrand.
+
+[^mendelson-2015]: Mendelson, Elliott, 2015, *Introduction to Mathematical Logic*, sixth edition, (Textbooks in Mathematics), Boca Raton, FL: CRC Press.
+
+[^von-2013]: Von Plato, Jan, 2013, *Elements of Logical Reasoning*, Cambridge/New York: Cambridge University Press. doi:10.1017/CBO9781139567862
+
+[^mancosu-2009]: Mancosu, Paolo, Richard Zach, and Calixto Badesa, 2009, “The Development of Mathematical Logic from Russell to Tarski, 1900–1935”, in *The Development of Modern Logic*, Leila Haaparanta (ed.), Oxford/New York: Oxford University Press, 318–470. doi:10.1093/acprof:oso/9780195137316.003.0029

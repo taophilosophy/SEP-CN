@@ -971,9 +971,9 @@ I received helpful comments on drafts for the original 2006 version of this entr
 
 [^schlick-1979]: –––, 1979, *Philosophical Papers* (Vienna Circle Collection 11a), Henk L. Mulder and Barbara F. B. van de Velde-Schlick (eds.), Dordrecht: Reidel.
 
-[^schlick-1979a]: 1979a, Volume 1 (1909–1922)
+[^vienna-circle-1979a]: 1979a, Volume 1 (1909–1922)
 
-[^schlick-1979b]: 1979b, Volume 2 (1925–1936)
+[^vienna-circle-1979b]: 1979b, Volume 2 (1925–1936)
 
 [^schuster-2020]: Schuster, Radek (ed.), 2020, *The Vienna Circle in Czechoslovakia* (Vienna Circle Institute Yearbook 23), Cham: Springer. doi:10.1007/978-3-030-36383-3
 

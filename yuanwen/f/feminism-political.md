@@ -487,7 +487,7 @@ affirmative action | Arendt, Hannah | colonialism | democracy | Dewey, John: pol
 
 [^hooker-2009]: Hooker, Juliet, 2009, *Race and the Politics of Solidarity*, (Transgressing Boundaries: Studies in Black Politics and Black Communities), Oxford/New York: Oxford University Press. doi:10.1093/acprof:oso/9780195335361.001.0001
 
-[^hooker-1981]: hooks, bell, 1981, *Ain’t I a Woman: Black Women and Feminism*, Boston, MA: South End Press.
+[^feminism-political-1981]: hooks, bell, 1981, *Ain’t I a Woman: Black Women and Feminism*, Boston, MA: South End Press.
 
 [^howard-2017]: Howard, Katie B., 2017, “The ‘Right to Have Rights’ 65 Years Later: Justice Beyond Humanitarianism, Politics Beyond Sovereignty”, *Global Justice: Theory Practice Rhetoric*, 10(1): 79–98. doi:10.21248/gjn.10.1.124
 

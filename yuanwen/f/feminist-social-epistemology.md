@@ -342,7 +342,7 @@ epistemology: social | epistemology: virtue | feminist philosophy, approaches: a
 
 [^heldke-2001]: Heldke, Lisa, 2001. “How to be Really Responsible,” *Engendering Rationalities*, Nancy Tuana and Sandra Morgen (eds.), Albany: State University of New York Press, 81–97.
 
-[^heldke-1990]: hooks, bell, 1990. *Yearning: Race, Gender and Cultural Politics*, Boston: South End Press.
+[^feminist-social-epistemology-1990]: hooks, bell, 1990. *Yearning: Race, Gender and Cultural Politics*, Boston: South End Press.
 
 [^hubbard-1983]: Hubbard, Ruth, 1983. “Have Only Men Evolved?” *Discovering Reality: Feminist Perspectives on Epistemology, Metaphysics, Methodology, and Philosophy of Science*, Sandra Harding and Merrill Hintikka (eds.), Dordrecht: D. Reidel, 45–70.
 

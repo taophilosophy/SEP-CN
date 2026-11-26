@@ -472,7 +472,7 @@ Anaxagoras | Archytas | Aristotle | ethics: virtue | hedonism | Hegel, Georg Wil
 
 [^williams-1973]: Williams, B.A.O., 1973, “The Analogy of city and soul in Plato’s *Republic*,” in E.N Lee, A.P.D. Mourelatos and R.M. Rorty (eds.), *Exeqesis and Argument* (*Phronesis Supplementary Volume 1*, Chapter 10); reprinted in G. Fine (ed.), *Plato* (Volume 2: Ethics, Politics, Religion and Soul), Oxford: Oxford University Press, 1999.
 
-[^williams-nd]: The later dialogues
+[^plato-ethics-nd]: The later dialogues
 
 [^bobonich-2002]: Bobonich, C., 2002, *Plato’s Utopia recast: his later ethics and politics*, Oxford: Oxford University Press, 2002.
 

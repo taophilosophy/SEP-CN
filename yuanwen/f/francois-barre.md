@@ -312,19 +312,19 @@ It is my honor to offer this replacement for the previous SEP entry on Poulain w
 
 [^note-1]: When citing from *De l’égalité des deux sexes*, I use Desmond Clarke’s translation (T1en), except for some passages, where Vivien Bosley’s translation (TTen) is closer to the original. All citations from *De l’éducation des dames* and *De l’excellence des homes* use Bosley’s translation (TTen). I also give references to Marie-Frédérique Pellegrin’s modern French edition (TTfr).
 
-[^poulain-1672]: 1672, *Les rapports de la langue Latin avec la Françoise pour traduire élégamment et sans peine*, Paris: C. Thibout.
+[^francois-barre-1672]: 1672, *Les rapports de la langue Latin avec la Françoise pour traduire élégamment et sans peine*, Paris: C. Thibout.
 
-[^poulain-1673]: 1673, *De l’égalité des deux sexes: Discours physique et moral où l’on voit l’importance de se défaire des préjugés*, Paris: Jean du Puis.
+[^francois-barre-1673]: 1673, *De l’égalité des deux sexes: Discours physique et moral où l’on voit l’importance de se défaire des préjugés*, Paris: Jean du Puis.
 
-[^poulain-1674]: 1674, *De l’éducation des dames pour la conduite de l’esprit, dans les sciences et dans les moeurs: Entretiens*, Paris: Jean du Puis, [date on title page 1671].
+[^francois-barre-1674]: 1674, *De l’éducation des dames pour la conduite de l’esprit, dans les sciences et dans les moeurs: Entretiens*, Paris: Jean du Puis, [date on title page 1671].
 
-[^poulain-1675]: 1675, *De l’excellence des hommes, contre l’égalité des sexes*, Paris: Jean du Puis.
+[^francois-barre-1675]: 1675, *De l’excellence des hommes, contre l’égalité des sexes*, Paris: Jean du Puis.
 
-[^poulain-1681]: 1681, *Essai des remarques particulières sur la langue françoise pour la ville de Genève*, Geneva.
+[^francois-barre-1681]: 1681, *Essai des remarques particulières sur la langue françoise pour la ville de Genève*, Geneva.
 
-[^poulain-1720]: 1720, *La Doctrine des protestans sur la liberté et le droit de lire l’Ecriture Sainte, sur le service Divin en Langue entendue, sur l’invocation des Saints, sur le Sacrament de l’Eucharistie. Justifiés par le Missel Romain & par les Réflexions sur chaque Point, avec Un commentaire philosophique sur ces paroles de Jésus-Christ, Ceci est mon Corps; Ceci est mon Sang, Matth. Chap. XXVI, v. 26*, Geneva: Fabri & Barrillot.
+[^francois-barre-1720]: 1720, *La Doctrine des protestans sur la liberté et le droit de lire l’Ecriture Sainte, sur le service Divin en Langue entendue, sur l’invocation des Saints, sur le Sacrament de l’Eucharistie. Justifiés par le Missel Romain & par les Réflexions sur chaque Point, avec Un commentaire philosophique sur ces paroles de Jésus-Christ, Ceci est mon Corps; Ceci est mon Sang, Matth. Chap. XXVI, v. 26*, Geneva: Fabri & Barrillot.
 
-[^poulain-1677]: 1677, *The Woman as Good as the Man: Or, The Equality of Both Sexes*, trans. A. L., London: N. Brooks.
+[^francois-barre-1677]: 1677, *The Woman as Good as the Man: Or, The Equality of Both Sexes*, trans. A. L., London: N. Brooks.
 
 [^tten-2002]: [TTen], *Three Cartesian Feminist Treatises*, introduction by Marcelle Maistre Welch, translated by Vivien Bosley, Chicago & London: University of Chicago Press, 2002. Translations of *On the equality of the two sexes* (1673), *On the education of ladies* (1674), and *On the excellence of men* (1675).
 

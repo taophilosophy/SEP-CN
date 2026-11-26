@@ -196,19 +196,19 @@ Aristotle, General Topics: ethics | Bradley, Francis Herbert | character, moral 
 
 [^ce-1935]: [CE] *Collected Essays*, 2 volumes, Oxford: Clarendon Press, 1935; reprinted 1968. [[Vol. 1 available online](https://archive.org/details/collectedessays0001fhbr); [Vol. 2 available online](https://archive.org/details/collectedessays0002fhbr)]. Includes
 
-[^ce-1884]: 1884, “Can a Man Sin against Knowledge?”, *Mind* (original series), 9(34): 286–290; reprinted in CE I.142–148. doi:10.1093/mind/os-IX.34.286
+[^bradley-moral-1884]: 1884, “Can a Man Sin against Knowledge?”, *Mind* (original series), 9(34): 286–290; reprinted in CE I.142–148. doi:10.1093/mind/os-IX.34.286
 
-[^ce-1888]: 1888, “On Pleasure, Pain, Desire and Volition”, *Mind* (original series), 13(49): 1–36; reprinted in CE I.244–286. doi:10.1093/mind/os-XIII.49.1
+[^bradley-moral-1888]: 1888, “On Pleasure, Pain, Desire and Volition”, *Mind* (original series), 13(49): 1–36; reprinted in CE I.244–286. doi:10.1093/mind/os-XIII.49.1
 
-[^ce-1901]: 1901, “Some Remarks on Conation”, *Mind*, 10(40): 437–454; reprinted in CE II.387–407 doi:10.1093/mind/X.1.437
+[^bradley-moral-1901]: 1901, “Some Remarks on Conation”, *Mind*, 10(40): 437–454; reprinted in CE II.387–407 doi:10.1093/mind/X.1.437
 
-[^ce-1902a]: 1902a, “On Mental Conflict and Imputation”, *Mind*, 11(43): 289–315; reprinted in CE II.444–475. doi:10.1093/mind/XI.1.289
+[^bradley-moral-1902a]: 1902a, “On Mental Conflict and Imputation”, *Mind*, 11(43): 289–315; reprinted in CE II.444–475. doi:10.1093/mind/XI.1.289
 
-[^ce-1902b]: 1902b, “The Definition of Will (I)”, *Mind*, 11(44): 437–469; reprinted in CE II.476–514. doi:10.1093/mind/XI.1.437
+[^bradley-moral-1902b]: 1902b, “The Definition of Will (I)”, *Mind*, 11(44): 437–469; reprinted in CE II.476–514. doi:10.1093/mind/XI.1.437
 
-[^ce-1903]: 1903, “The Definition of Will (II)”, *Mind*, 12(2): 145–176; reprinted in CE II.515–551. doi:10.1093/mind/XII.2.145
+[^bradley-moral-1903]: 1903, “The Definition of Will (II)”, *Mind*, 12(2): 145–176; reprinted in CE II.515–551. doi:10.1093/mind/XII.2.145
 
-[^ce-1904]: 1904, “The Definition of Will (III)”, *Mind*, 13(1): 1–37; reprinted in CE II.552–594. doi:10.1093/mind/XIII.1.1
+[^bradley-moral-1904]: 1904, “The Definition of Will (III)”, *Mind*, 13(1): 1–37; reprinted in CE II.552–594. doi:10.1093/mind/XIII.1.1
 
 [^treatment-nd]: unpublished, “On the Treatment of Sexual Detail in Literature”, in CE II.618–626.
 

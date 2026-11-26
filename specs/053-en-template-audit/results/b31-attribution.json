@@ -1,10 +1,10 @@
 {
- "total": 188,
+ "total": 81,
  "counts": {
-  "bib-keys": 122,
-  "blank": 26,
-  "text": 33,
+  "bib-keys": 24,
+  "text": 36,
   "note-forms": 3,
+  "blank": 14,
   "links": 4
  },
  "items": [
@@ -14,19 +14,9 @@
    "why": "67 键名不同"
   },
   {
-   "slug": "adorno",
-   "fam": "bib-keys",
-   "why": "35 键名不同"
-  },
-  {
    "slug": "alain-locke",
    "fam": "bib-keys",
    "why": "32 键名不同"
-  },
-  {
-   "slug": "alexander",
-   "fam": "blank",
-   "why": "空白归一后等值"
   },
   {
    "slug": "altruism-empirical",
@@ -39,69 +29,14 @@
    "why": "真文字差"
   },
   {
-   "slug": "astell",
-   "fam": "bib-keys",
-   "why": "1 键名不同"
-  },
-  {
-   "slug": "ayer",
-   "fam": "bib-keys",
-   "why": "26 键名不同"
-  },
-  {
-   "slug": "ayn-rand",
-   "fam": "bib-keys",
-   "why": "56 键名不同"
-  },
-  {
-   "slug": "beauvoir",
-   "fam": "bib-keys",
-   "why": "77 键名不同"
-  },
-  {
-   "slug": "berlin",
-   "fam": "bib-keys",
-   "why": "48 键名不同"
-  },
-  {
    "slug": "binarium",
    "fam": "note-forms",
    "why": "注形往返"
   },
   {
-   "slug": "bohr-correspondence",
-   "fam": "bib-keys",
-   "why": "13 键名不同"
-  },
-  {
-   "slug": "bruno",
-   "fam": "bib-keys",
-   "why": "6 键名不同"
-  },
-  {
-   "slug": "buber",
-   "fam": "bib-keys",
-   "why": "55 键名不同"
-  },
-  {
    "slug": "buddhism-tiantai",
    "fam": "blank",
    "why": "空行/折行"
-  },
-  {
-   "slug": "cardano",
-   "fam": "bib-keys",
-   "why": "29 键名不同"
-  },
-  {
-   "slug": "carnap",
-   "fam": "bib-keys",
-   "why": "59 键名不同"
-  },
-  {
-   "slug": "cassirer",
-   "fam": "bib-keys",
-   "why": "21 键名不同"
   },
   {
    "slug": "category-mistakes",
@@ -124,29 +59,9 @@
    "why": "md 内链丢失"
   },
   {
-   "slug": "civil-rights",
-   "fam": "bib-keys",
-   "why": "2 键名不同"
-  },
-  {
-   "slug": "clauberg",
-   "fam": "bib-keys",
-   "why": "12 键名不同"
-  },
-  {
-   "slug": "cohen",
-   "fam": "bib-keys",
-   "why": "18 键名不同"
-  },
-  {
    "slug": "common-ground-pragmatics",
    "fam": "blank",
    "why": "空行/折行"
-  },
-  {
-   "slug": "comte",
-   "fam": "bib-keys",
-   "why": "8 键名不同"
   },
   {
    "slug": "continuity",
@@ -169,49 +84,9 @@
    "why": "真文字差"
   },
   {
-   "slug": "croce",
-   "fam": "bib-keys",
-   "why": "60 键名不同"
-  },
-  {
-   "slug": "cudworth",
-   "fam": "bib-keys",
-   "why": "14 键名不同"
-  },
-  {
-   "slug": "davidson",
-   "fam": "bib-keys",
-   "why": "42 键名不同"
-  },
-  {
-   "slug": "deleuze",
-   "fam": "bib-keys",
-   "why": "4 键名不同"
-  },
-  {
-   "slug": "descartes",
-   "fam": "bib-keys",
-   "why": "20 键名不同"
-  },
-  {
-   "slug": "dewey",
-   "fam": "bib-keys",
-   "why": "8 键名不同"
-  },
-  {
-   "slug": "diderot",
-   "fam": "bib-keys",
-   "why": "6 键名不同"
-  },
-  {
    "slug": "digital-art",
    "fam": "text",
    "why": "真文字差"
-  },
-  {
-   "slug": "double-consciousness",
-   "fam": "bib-keys",
-   "why": "6 键名不同"
   },
   {
    "slug": "dynamic-epistemic",
@@ -229,94 +104,19 @@
    "why": "md 内链丢失"
   },
   {
-   "slug": "emotions-chinese",
-   "fam": "bib-keys",
-   "why": "6 键名不同"
-  },
-  {
-   "slug": "engels",
-   "fam": "bib-keys",
-   "why": "22 键名不同"
-  },
-  {
-   "slug": "fechner",
-   "fam": "bib-keys",
-   "why": "20 键名不同"
-  },
-  {
    "slug": "feminist-science",
    "fam": "text",
    "why": "真文字差"
   },
   {
-   "slug": "findlay",
-   "fam": "bib-keys",
-   "why": "85 键名不同"
-  },
-  {
-   "slug": "fleck",
-   "fam": "blank",
-   "why": "空白归一后等值"
-  },
-  {
-   "slug": "foucault",
-   "fam": "bib-keys",
-   "why": "3 键名不同"
-  },
-  {
-   "slug": "francois-barre",
-   "fam": "bib-keys",
-   "why": "7 键名不同"
-  },
-  {
-   "slug": "frederick-douglass",
-   "fam": "bib-keys",
-   "why": "29 键名不同"
-  },
-  {
-   "slug": "frege",
-   "fam": "bib-keys",
-   "why": "1 键名不同"
-  },
-  {
-   "slug": "frege-logic",
-   "fam": "bib-keys",
-   "why": "12 键名不同"
-  },
-  {
    "slug": "frege-theorem",
-   "fam": "bib-keys",
-   "why": "7 键名不同"
-  },
-  {
-   "slug": "friedrich-jacobi",
-   "fam": "bib-keys",
-   "why": "60 键名不同"
+   "fam": "text",
+   "why": "真文字差"
   },
   {
    "slug": "friedrich-lange",
-   "fam": "bib-keys",
-   "why": "46 键名不同"
-  },
-  {
-   "slug": "gadamer",
-   "fam": "bib-keys",
-   "why": "35 键名不同"
-  },
-  {
-   "slug": "galileo",
-   "fam": "bib-keys",
-   "why": "8 键名不同"
-  },
-  {
-   "slug": "george-eliot",
-   "fam": "bib-keys",
-   "why": "10 键名不同"
-  },
-  {
-   "slug": "gianfrancesco-pico",
-   "fam": "bib-keys",
-   "why": "12 键名不同"
+   "fam": "text",
+   "why": "真文字差"
   },
   {
    "slug": "goodman",
@@ -324,74 +124,14 @@
    "why": "81 键名不同"
   },
   {
-   "slug": "goodman-aesthetics",
-   "fam": "bib-keys",
-   "why": "3 键名不同"
-  },
-  {
-   "slug": "green",
-   "fam": "bib-keys",
-   "why": "3 键名不同"
-  },
-  {
-   "slug": "grice",
-   "fam": "blank",
-   "why": "空白归一后等值"
-  },
-  {
-   "slug": "habermas",
-   "fam": "bib-keys",
-   "why": "47 键名不同"
-  },
-  {
-   "slug": "hartley",
-   "fam": "bib-keys",
-   "why": "10 键名不同"
-  },
-  {
-   "slug": "hartshorne",
-   "fam": "blank",
-   "why": "空白归一后等值"
-  },
-  {
    "slug": "heidegger",
    "fam": "bib-keys",
    "why": "200 键名不同"
   },
   {
-   "slug": "heinrich-rickert",
-   "fam": "bib-keys",
-   "why": "40 键名不同"
-  },
-  {
-   "slug": "hempel",
-   "fam": "blank",
-   "why": "空白归一后等值"
-  },
-  {
-   "slug": "henricus-regius",
-   "fam": "bib-keys",
-   "why": "15 键名不同"
-  },
-  {
-   "slug": "husserl",
-   "fam": "bib-keys",
-   "why": "4 键名不同"
-  },
-  {
-   "slug": "iamblichus",
-   "fam": "bib-keys",
-   "why": "1 键名不同"
-  },
-  {
    "slug": "ibn-bajja",
    "fam": "bib-keys",
    "why": "9 键名不同"
-  },
-  {
-   "slug": "ibn-gabirol",
-   "fam": "bib-keys",
-   "why": "11 键名不同"
   },
   {
    "slug": "ibn-rushd",
@@ -424,54 +164,14 @@
    "why": "空行/折行"
   },
   {
-   "slug": "james-mill",
-   "fam": "bib-keys",
-   "why": "15 键名不同"
-  },
-  {
    "slug": "japanese-philosophy",
    "fam": "bib-keys",
    "why": "91 键名不同"
   },
   {
-   "slug": "johann-herbart",
-   "fam": "bib-keys",
-   "why": "34 键名不同"
-  },
-  {
-   "slug": "johann-sturm",
-   "fam": "bib-keys",
-   "why": "15 键名不同"
-  },
-  {
-   "slug": "justus-lipsius",
-   "fam": "bib-keys",
-   "why": "11 键名不同"
-  },
-  {
    "slug": "kant-hume-morality",
    "fam": "bib-keys",
    "why": "106 键名不同"
-  },
-  {
-   "slug": "kant-religion",
-   "fam": "bib-keys",
-   "why": "22 键名不同"
-  },
-  {
-   "slug": "kant-transcendental",
-   "fam": "bib-keys",
-   "why": "5 键名不同"
-  },
-  {
-   "slug": "lacan",
-   "fam": "bib-keys",
-   "why": "11 键名不同"
-  },
-  {
-   "slug": "lakatos",
-   "fam": "bib-keys",
-   "why": "33 键名不同"
   },
   {
    "slug": "lambda-calculus",
@@ -497,26 +197,6 @@
    "slug": "leibniz-exoteric",
    "fam": "bib-keys",
    "why": "26 键名不同"
-  },
-  {
-   "slug": "lewis-ci",
-   "fam": "bib-keys",
-   "why": "27 键名不同"
-  },
-  {
-   "slug": "lewis-metaphysics",
-   "fam": "bib-keys",
-   "why": "31 键名不同"
-  },
-  {
-   "slug": "locke",
-   "fam": "bib-keys",
-   "why": "3 键名不同"
-  },
-  {
-   "slug": "locke-moral",
-   "fam": "bib-keys",
-   "why": "8 键名不同"
   },
   {
    "slug": "logic-conditionals",
@@ -549,59 +229,14 @@
    "why": "注形往返"
   },
   {
-   "slug": "logical-construction",
-   "fam": "bib-keys",
-   "why": "27 键名不同"
-  },
-  {
-   "slug": "lorenzo-valla",
-   "fam": "bib-keys",
-   "why": "1 键名不同"
-  },
-  {
    "slug": "luxemburg",
    "fam": "bib-keys",
    "why": "28 键名不同"
   },
   {
-   "slug": "mally",
-   "fam": "bib-keys",
-   "why": "14 键名不同"
-  },
-  {
    "slug": "mally-deontic",
    "fam": "text",
    "why": "真文字差"
-  },
-  {
-   "slug": "margaret-cavendish",
-   "fam": "bib-keys",
-   "why": "14 键名不同"
-  },
-  {
-   "slug": "margaret-fell",
-   "fam": "bib-keys",
-   "why": "31 键名不同"
-  },
-  {
-   "slug": "maritain",
-   "fam": "bib-keys",
-   "why": "87 键名不同"
-  },
-  {
-   "slug": "marriage",
-   "fam": "bib-keys",
-   "why": "1 键名不同"
-  },
-  {
-   "slug": "marty",
-   "fam": "blank",
-   "why": "空白归一后等值"
-  },
-  {
-   "slug": "mary-shepherd",
-   "fam": "bib-keys",
-   "why": "3 键名不同"
   },
   {
    "slug": "meinong",
@@ -624,31 +259,6 @@
    "why": "真文字差"
   },
   {
-   "slug": "montessori-maria",
-   "fam": "bib-keys",
-   "why": "2 键名不同"
-  },
-  {
-   "slug": "mulla-sadra",
-   "fam": "bib-keys",
-   "why": "16 键名不同"
-  },
-  {
-   "slug": "murdoch",
-   "fam": "bib-keys",
-   "why": "2 键名不同"
-  },
-  {
-   "slug": "natorp",
-   "fam": "bib-keys",
-   "why": "125 键名不同"
-  },
-  {
-   "slug": "neurath",
-   "fam": "bib-keys",
-   "why": "53 键名不同"
-  },
-  {
    "slug": "newton-stm",
    "fam": "text",
    "why": "真文字差"
@@ -659,19 +269,9 @@
    "why": "92 键名不同"
   },
   {
-   "slug": "nishida-kitaro",
-   "fam": "bib-keys",
-   "why": "7 键名不同"
-  },
-  {
    "slug": "pascal-wager",
    "fam": "text",
    "why": "真文字差"
-  },
-  {
-   "slug": "peirce-logic",
-   "fam": "bib-keys",
-   "why": "24 键名不同"
   },
   {
    "slug": "perception-contents",
@@ -689,29 +289,9 @@
    "why": "真文字差"
   },
   {
-   "slug": "poincare",
-   "fam": "bib-keys",
-   "why": "22 键名不同"
-  },
-  {
-   "slug": "popper",
-   "fam": "blank",
-   "why": "空白归一后等值"
-  },
-  {
    "slug": "possibilism-actualism",
    "fam": "text",
    "why": "真文字差"
-  },
-  {
-   "slug": "pufendorf",
-   "fam": "bib-keys",
-   "why": "1 键名不同"
-  },
-  {
-   "slug": "quine",
-   "fam": "bib-keys",
-   "why": "30 键名不同"
   },
   {
    "slug": "rationality-structural",
@@ -744,11 +324,6 @@
    "why": "67 键名不同"
   },
   {
-   "slug": "richard-price",
-   "fam": "bib-keys",
-   "why": "13 键名不同"
-  },
-  {
    "slug": "rigid-designators",
    "fam": "links",
    "why": "md 内链丢失"
@@ -759,54 +334,14 @@
    "why": "83 键名不同"
   },
   {
-   "slug": "rosenstock-huessy",
-   "fam": "blank",
-   "why": "空白归一后等值"
-  },
-  {
-   "slug": "rousseau",
-   "fam": "bib-keys",
-   "why": "15 键名不同"
-  },
-  {
    "slug": "royce",
    "fam": "blank",
    "why": "空白归一后等值"
   },
   {
-   "slug": "russell",
-   "fam": "bib-keys",
-   "why": "51 键名不同"
-  },
-  {
-   "slug": "russell-moral",
-   "fam": "bib-keys",
-   "why": "15 键名不同"
-  },
-  {
-   "slug": "sartre",
-   "fam": "bib-keys",
-   "why": "50 键名不同"
-  },
-  {
-   "slug": "schlegel-aw",
-   "fam": "bib-keys",
-   "why": "10 键名不同"
-  },
-  {
    "slug": "scholem",
    "fam": "bib-keys",
    "why": "25 键名不同"
-  },
-  {
-   "slug": "schopenhauer",
-   "fam": "bib-keys",
-   "why": "6 键名不同"
-  },
-  {
-   "slug": "schutz",
-   "fam": "blank",
-   "why": "空白归一后等值"
   },
   {
    "slug": "set-theory",
@@ -819,16 +354,6 @@
    "why": "真文字差"
   },
   {
-   "slug": "sidgwick",
-   "fam": "bib-keys",
-   "why": "16 键名不同"
-  },
-  {
-   "slug": "sidney-hook",
-   "fam": "bib-keys",
-   "why": "13 键名不同"
-  },
-  {
    "slug": "socrates",
    "fam": "text",
    "why": "真文字差"
@@ -839,54 +364,19 @@
    "why": "真文字差"
   },
   {
-   "slug": "spencer",
-   "fam": "blank",
-   "why": "空白归一后等值"
-  },
-  {
    "slug": "srigupta",
    "fam": "bib-keys",
    "why": "84 键名不同"
   },
   {
    "slug": "statphys-Boltzmann",
-   "fam": "bib-keys",
-   "why": "25 键名不同"
-  },
-  {
-   "slug": "stebbing",
-   "fam": "blank",
-   "why": "空白归一后等值"
-  },
-  {
-   "slug": "stevenson",
-   "fam": "bib-keys",
-   "why": "18 键名不同"
-  },
-  {
-   "slug": "strawson",
-   "fam": "blank",
-   "why": "空白归一后等值"
-  },
-  {
-   "slug": "stumpf",
-   "fam": "bib-keys",
-   "why": "10 键名不同"
+   "fam": "text",
+   "why": "真文字差"
   },
   {
    "slug": "supervenience",
    "fam": "text",
    "why": "真文字差"
-  },
-  {
-   "slug": "susman-margarete",
-   "fam": "bib-keys",
-   "why": "21 键名不同"
-  },
-  {
-   "slug": "thomas-kuhn",
-   "fam": "bib-keys",
-   "why": "24 键名不同"
   },
   {
    "slug": "turing",
@@ -909,24 +399,9 @@
    "why": "7 键名不同"
   },
   {
-   "slug": "wesley-salmon",
-   "fam": "bib-keys",
-   "why": "54 键名不同"
-  },
-  {
-   "slug": "whewell",
-   "fam": "bib-keys",
-   "why": "22 键名不同"
-  },
-  {
    "slug": "wilhelm-humboldt",
    "fam": "bib-keys",
    "why": "142 键名不同"
-  },
-  {
-   "slug": "wilhelm-windelband",
-   "fam": "bib-keys",
-   "why": "20 键名不同"
   },
   {
    "slug": "wilhelm-wundt",
@@ -937,16 +412,6 @@
    "slug": "wittgenstein-atomism",
    "fam": "text",
    "why": "真文字差"
-  },
-  {
-   "slug": "wolff-christian",
-   "fam": "bib-keys",
-   "why": "13 键名不同"
-  },
-  {
-   "slug": "yorck",
-   "fam": "bib-keys",
-   "why": "6 键名不同"
   }
  ]
 }

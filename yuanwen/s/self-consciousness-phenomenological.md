@@ -13,7 +13,7 @@ In contrast, prereflective self-consciousness is pre-reflective in the sense tha
 
 > This self-consciousness we ought to consider not as a new consciousness, but as *the only mode of existence which is possible for a consciousness of something* (Sartre 1943, 20 [1956, liv])[^sartre-1943].
 
-We find the same view, to mention just one more thinker, in Roman Ingarden, who writes that I don’t need any kind of introspection or reflection in order to gain acquaintance with my experiential life since the first-order experience is already characterized by a particular kind of conscious self-penetration (Ingarden 1992, 155–156)[^ingarden-1992]. And as he then points out, the original mode of being of conscious life is precisely to be in the form of being self-conscious. In the absence of such self-consciousness, an experience would not be an experience (Ingarden 1992, 156)[^ingarden-1992]. In short, unless a mental process is prereflectively self-conscious there will be nothing it is like to undergo the process, and it therefore cannot be a phenomenally conscious process (Zahavi 1999, 2005, 2014)[^zahavi-1999][^zahavi-2014]. An implication of this is obviously that the self-consciousness in question is so fundamental and basic that it can be ascribed to all creatures that are phenomenally conscious, including various non-human animals.
+We find the same view, to mention just one more thinker, in Roman Ingarden, who writes that I don’t need any kind of introspection or reflection in order to gain acquaintance with my experiential life since the first-order experience is already characterized by a particular kind of conscious self-penetration (Ingarden 1992, 155–156)[^ingarden-1992]. And as he then points out, the original mode of being of conscious life is precisely to be in the form of being self-conscious. In the absence of such self-consciousness, an experience would not be an experience (Ingarden 1992, 156)[^ingarden-1992]. In short, unless a mental process is prereflectively self-conscious there will be nothing it is like to undergo the process, and it therefore cannot be a phenomenally conscious process (Zahavi 1999, 2005, 2014)[^zahavi-1999][^zahavi-2014][^zahavi-2005]. An implication of this is obviously that the self-consciousness in question is so fundamental and basic that it can be ascribed to all creatures that are phenomenally conscious, including various non-human animals.
 
 As just noted, the notion of prereflective self-consciousness is related to the idea that experiences have a subjective ‘feel’ to them, a certain (phenomenal) quality of ‘what it is like’ or what it ‘feels’ like to have them. As it is usually expressed outside of phenomenological texts, to undergo a conscious experience necessarily means that there is something it is like for the subject to have that experience (Nagel 1974; Searle 1992)[^nagel-1974][^searle-1992]. This is obviously true of bodily sensations like pain. But it is also the case for perceptual experiences, experiences of desiring, feeling, and thinking. There is something it is like to taste chocolate, and this is different from what it is like to remember or imagine what it is like to taste chocolate, or to smell vanilla, to run, to stand still, to feel envious, nervous, depressed or happy, or to entertain an abstract belief.
 
@@ -55,7 +55,7 @@ Some philosophers who are inclined to take self-consciousness to be intrinsicall
 
 Does prereflective self-consciousness contain a reference to self? As already mentioned, our experiential life isn’t distinguished merely by its *qualitative* *features* but also by its *subjective character*. Intentional experiences are Janus-faced. They are *of* something other than the subject and they are like something *for* the subject. When feeling a stomach-ache, I am not faced with a two-step process in which the presence of an unpleasant experience is first detected, and I then wonder whose experience it might be. To put it differently, in virtue of their self-presentational character experiences are neither anonymous nor impersonal, they are precisely *first-personal*.
 
-On a standard metaphysical conception of the self, the self is viewed as an enduring substance (say a physical brain or an immaterial soul) distinct from its changing experiences but capable of retaining its identity across those experiences. In contrast, some phenomenologists have argued that one can define a (minimal) form of selfhood in processual and experiential terms as the very first-personal mode of experiencing (Zahavi 2005, 2014)[^zahavi-2014]. The French phenomenologist Michel Henry argued that the most basic form of selfhood is the one constituted by the very self-manifestation of experience (Henry 1963: 581; 1965: 53)[^henry-1963], i.e., self-consciousness is not something that the self has, but what the self is. It is not a thing that has experiences but is the very subject(ivity) of experience, which is something no experience can lack, neither metaphysically nor phenomenologically.
+On a standard metaphysical conception of the self, the self is viewed as an enduring substance (say a physical brain or an immaterial soul) distinct from its changing experiences but capable of retaining its identity across those experiences. In contrast, some phenomenologists have argued that one can define a (minimal) form of selfhood in processual and experiential terms as the very first-personal mode of experiencing (Zahavi 2005, 2014)[^zahavi-2014][^zahavi-2005]. The French phenomenologist Michel Henry argued that the most basic form of selfhood is the one constituted by the very self-manifestation of experience (Henry 1963: 581; 1965: 53)[^henry-1963], i.e., self-consciousness is not something that the self has, but what the self is. It is not a thing that has experiences but is the very subject(ivity) of experience, which is something no experience can lack, neither metaphysically nor phenomenologically.
 
 On this construal, the self is something that is necessarily present in each experience. It is present, not as a separately existing entity, i.e., as something that exists independently of, in separation from or in opposition to the stream of consciousness. Nor is it given as an additional experiential object or as an extra experiential ingredient, as if there were a distinct self-quale, next to and in addition to the quale of the smell of burnt hay or roasted almonds. No, the claim is that all experiences regardless of their object and regardless of their attitudinal character are necessarily subjective or self-involving in the sense that they feel like something for someone, they necessarily involve a point of view.
 
@@ -109,7 +109,7 @@ Furthermore, experiential aspects of my embodiment permeate my prereflective sel
 
 Another way to think of the self-awareness involved in action is to consider the sense of agency that is normally an aspect of prereflective self-consciousness in action. If, as I am walking down the street, I am pushed from behind, I am instantly aware of my body moving in a way that I did not intend. The fact that I feel a loss of control over my actions suggests that there had been an implicit sense of agency or control in my walking prior to being pushed. In voluntary action, I experience the movements of my body as my own actions, and this is replaced by a feeling of loss of bodily control in the case of involuntary movement. Voluntary actions feel different from involuntary actions, and this difference depends respectively, on the experience of agency or the experience of a lack of agency—as the case may be if my body is being moved by someone else.[^note-6]
 
-Hubert Dreyfus has famously argued that in the case of expert performance we are not self-conscious, but rather “usually involved in coping in a mindless way” (Dreyfus 2007a, 356)[^dreyfus-2007a]. On his account, our immersed bodily life is so completely and totally world-engaged that it is entirely oblivious to itself. Indeed, in total absorption, one ceases being a subject altogether (Dreyfus 2007b, 373)[^dreyfus-2007b]. It is only when this bodily absorption is interrupted that something like self-consciousness emerges. Dreyfus consequently doesn’t deny the existence of self-consciousness, but he definitely wants to see it as a capacity that is only exercised or actualized on special occasions. Moreover, when this capacity is exercised it necessarily disrupts our coping and radically transform the kind of affordances that are given to it (Dreyfus 2005, 61; 2007, 354)[^dreyfus-2005]. A number of theorists, however, have taken issue with this characterization of expert performance and have argued that in the performing arts (e.g., in dance, musical performance) and in athletics (e.g., baseball, cricket) expert performers may employ an enhanced but still prereflective awareness (Legrand 2007)[^legrand-2007], a heedful consciousness of the situation (e.g., Sutton et al. 2011)[^sutton-2011], or even a skillful reflective monitoring (Montero 2010; 2014)[^montero-2010], or some variable combination of these (Høffding 2018)[^høffding-2018], and that such consciousness does not impede performance but improves it.
+Hubert Dreyfus has famously argued that in the case of expert performance we are not self-conscious, but rather “usually involved in coping in a mindless way” (Dreyfus 2007a, 356)[^dreyfus-2007a]. On his account, our immersed bodily life is so completely and totally world-engaged that it is entirely oblivious to itself. Indeed, in total absorption, one ceases being a subject altogether (Dreyfus 2007b, 373)[^dreyfus-2007b]. It is only when this bodily absorption is interrupted that something like self-consciousness emerges. Dreyfus consequently doesn’t deny the existence of self-consciousness, but he definitely wants to see it as a capacity that is only exercised or actualized on special occasions. Moreover, when this capacity is exercised it necessarily disrupts our coping and radically transform the kind of affordances that are given to it (Dreyfus 2005, 61; 2007, 354)[^dreyfus-2005]. A number of theorists, however, have taken issue with this characterization of expert performance and have argued that in the performing arts (e.g., in dance, musical performance) and in athletics (e.g., baseball, cricket) expert performers may employ an enhanced but still prereflective awareness (Legrand 2007)[^legrand-2007][^legrand-2007-2], a heedful consciousness of the situation (e.g., Sutton et al. 2011)[^sutton-2011], or even a skillful reflective monitoring (Montero 2010; 2014)[^montero-2010], or some variable combination of these (Høffding 2018)[^høffding-2018], and that such consciousness does not impede performance but improves it.
 
 Bodily self-awareness is not influenced only by action-oriented movement or motor control processes; it is also modulated by various affective (emotional), autonomic and interoceptive processes that are contingent on current bodily states and closely related to environmental variations. What Dainton (2007) calls background sensations, as well as what Matthew Ratcliffe (2008)[^ratcliffe-2008] calls existential feelings, are part of a mix of sensory processes that can provide what William James (1890)[^james-1890] terms the “warmth and intimacy” of bodily sensations, or what Thomas Fuchs (2013)[^fuchs-2013] calls “the feeling of being alive.”
 
@@ -140,48 +140,6 @@ The notion of self-consciousness has been the subject of a rich and complex anal
 > 原文参考文献已转为脚注引用：文内“作者-年份”引用组后附 [^key] 标记，完整条目见本文末脚注定义。
 
 ### Related Bibliography
-
-- Aboulafia, M., 1986. *The Mediating Self: Mead, Sartre, and Self-Determination*, New Haven: Yale University Press.
-- Albahari, M., 2006. *Analytical Buddhism: The Two-tiered Illusion of Self*, New York: Palgrave Macmillan.
-- Barbaras, R., 1991. “Le sens de l’auto-affection chez Michel Henry et Merleau-Ponty,” *Epokhé*, 2: 91–111.
-- Bergoffen, D. B., 1978. “Sartre’s transcendence of the ego: A methodological reading,” *Philosophy Today*, 22: 224–51.
-- Bermúdez, J. L., Marcel, A., and Eilan, N., 1995. *The Body and the Self*, Cambridge, MA: MIT Press.
-- Busch, T. W., 1977. “Sartre and the senses of alienation,” *Southern Journal of Philosophy*, 15: 151–60.
-- Cassam, Q. (ed.), 1994. *Self-Knowledge*, Oxford: Oxford University Press.
-- Chisholm, R. M., 1969. “On the observability of the self,” *Philosophy and Phenomenological Research*, 30: 7–21.
-- Colombetti, G., 2011. “Varieties of pre-reflective self-awareness: Foreground and background bodily feelings in emotion experience,” *Inquiry*, 54(3): 293–313.
-- Depraz, N., 1995. “Can I anticipate myself? Self-affection and temporality,” in D. Zahavi (ed). *Self-Awareness, Temporality, and Alterity*, Dordrecht: Kluwer Academic, pp. 85–99.
-- Frank, M. (ed.), 1991. *Selbstbewusstseinstheorien von Fichte bis Sartre*, Frankfurt am Main: Suhrkamp.
-- –––, 1991. *Selbstbewusstsein und Selbsterkenntnis*, Stuttgart: Reclam.
-- Gallagher, S., 2023. “The minimal self and the flying man argument,” *Frontiers in Psychology*, 14. doi:10.3389/fpsyg.2023.1296656
-- –––, 2000. “Philosophical conceptions of the self: implications for cognitive science,” *Trends in Cognitive Sciences*, 4(1): 14–21.
-- –––, 1996. “The moral significance of primitive self-consciousness,” *Ethics*, 107(1): 129–40.
-- ––– (ed.), 2011. *The Oxford Handbook of the Self*, Oxford: Oxford University Press.
-- Gennaro, R. J., 2002. “Jean-Paul Sartre and the hot theory of consciousness,” *Canadian Journal of Philosophy*, 32 (3): 293–330.
-- Henrich, D., 1970. “Selbstbewusstsein: Kritische Einleitung in einer Theorie,” in R. Bubner (ed.) *Hermeneutik und Dialektik I*, Tübingen, pp. 257–284; English translation: “Self-consciousness: A critical introduction to a theory,” *Man and World*, 4: 3–28.
-- Kapitan, T., 1999. “The Ubiquity of self-awareness,” *Grazer Philosophische Studien*, 57: 17–43.
-- Kenevan, P. B., 1981. “Self-consciousness and the ego in the philosophy of Sartre,” in P. A. Schilpp (ed.), *The Philosophy of Sartre*, LaSalle IL: Open Court.
-- Kern, I., 1989. “Selbstbewusstein und Ich bei Husserl,” in *Husserl-Symposion Mainz 1988*, Stuttgart: Akademie der Wissenschaften und der Literatur, pp. 51–63.
-- Legrand, D., 2006. “The bodily self: The sensori-motor roots of pre-reflective self-consciousness,” *Phenomenology and the Cognitive Sciences*, 5(1): 89–118.
-- –––, 2007. “Pre-reflective self-as-subject from experiential and empirical perspectives,” *Consciousness and cognition*, 16(3): 583–599.
-- Marbach, E., 1974. *Das Problem des Ich in der Phänomenologie Husserls*, The Hague: Martinus Nijhoff.
-- Miguens, S., Preyer, G., and Morando, C. B. (eds.), 2015. *Pre-reflective Consciousness: Sartre and Contemporary Philosophy of Mind*, London: Routledge.
-- Pothast, U., 1971. *Über einige Fragen der Selbstbeziehung*, Frankfurt am Main: Vittorio Klostermann.
-- Prado, C.-G., 1978. “Reflexive Consciousness,” *Dialogue*, 17: 134–37.
-- Priest, S., 2000. “Merleau-Ponty’s concept of the body-subject,” *Nursing Philosophy*, 1(2): 173–174.
-- Rosenberg, J., 1981. “Apperception and Sartre’s pre-reflective cogito,” *American Philosophical Quarterly*, 18: 255–60.
-- Sartre, J.-P., 1948. “Conscience de soi et connaissance de soi,” *Bulletin de la Société Française de Philosophie*, 42: 49–91; English translation: “Consciousness of self and knowledge of self,” in N. Lawrence and D. O’Connor (eds.), *Readings in Existential Phenomenology*, Englewood Cliffs, NJ: Prentice-Hall, 1967, pp. 113–42.
-- Schear, J. K., 2009. “Experience and self-consciousness,” *Philosophical Studies*, 144 (1): 95–105.
-- Schmitz, H., 1991. “Leibliche und personale Konkurrenz im Selbstbewusstsein,” in B. Kienzle and H. Pape (eds), *Dimensionen des Selbst*, Frankfurt am Main: Suhrkamp, pp. 152–68.
-- Schroeder, W.-R., 1984. *Sartre and his Predecessors: The Self and the Others*, London: Routledge and Kegan Paul.
-- Shoemaker, S., 1994. “Self-knowledge and ‘inner sense’,” *Philosophy and Phenomenological Research*, 54: 249–314.
-- Tani, T., 1998. “Inquiry into the I, disclosedness, and self-consciousness: Husserl, Heidegger, Nishida,” *Continental Philosophy Review*, 31(3): 239–53.
-- Tugendhat, E., 1979. *Selbstbewusstsein und Selbstbestimmung. Sprachanalytische Interpretationen*, English translation: Stern. *Self-Consciousness and Self-Determination*, Cambridge, MA: MIT Press.
-- Varga, S., 2012. “Non-Reflective self-awareness: Towards a ‘situated’ account,” *Journal of Consciousness Studies*, 19(3–4): 164–193.
-- Wider, K., 1987. “Hell and the private language argument: Sartre and Wittgenstein on self-consciousness, the body, and others,” *Journal of the British Society for Phenomenology*, 18: 120–32.
-- –––, 1993. “Sartre and the Long Distance Truck Driver: The Reflexivity of Consciousness,” *Journal of the British Society for Phenomenology*, 24(3): 232–49.
-- –––, 1997. *The Bodily Nature of Consciousness: Sartre and Contemporary Philosophy of Mind*, Ithaca: Cornell University Press.
-- Zahavi, D., 2005. *Subjectivity and Selfhood: Investigating the first-person perspective*, Cambridge, MA: The MIT Press.
 
 ## Academic Tools
 
@@ -430,3 +388,85 @@ bodily awareness | consciousness | consciousness: higher-order theories | Husser
 [^zahavi-2018]: –––, 2018. “Consciousness, self-consciousness, selfhood: A reply to some critics,” *Review of Philosophy and Psychology*, 9: 703–718.
 
 [^zahavi-2019]: –––, 2019. “Consciousness and (minimal) selfhood: Getting clearer on for-me-ness and mineness,” in U. Kriegel (ed.), *Oxford Handbook of the Philosophy of Consciousness*, Oxford University Press, pp. 635–653.
+
+[^aboulafia-1986]: Aboulafia, M., 1986. *The Mediating Self: Mead, Sartre, and Self-Determination*, New Haven: Yale University Press.
+
+[^albahari-2006]: Albahari, M., 2006. *Analytical Buddhism: The Two-tiered Illusion of Self*, New York: Palgrave Macmillan.
+
+[^barbaras-1991]: Barbaras, R., 1991. “Le sens de l’auto-affection chez Michel Henry et Merleau-Ponty,” *Epokhé*, 2: 91–111.
+
+[^bergoffen-1978]: Bergoffen, D. B., 1978. “Sartre’s transcendence of the ego: A methodological reading,” *Philosophy Today*, 22: 224–51.
+
+[^bermúdez-1995]: Bermúdez, J. L., Marcel, A., and Eilan, N., 1995. *The Body and the Self*, Cambridge, MA: MIT Press.
+
+[^busch-1977]: Busch, T. W., 1977. “Sartre and the senses of alienation,” *Southern Journal of Philosophy*, 15: 151–60.
+
+[^cassam-1994]: Cassam, Q. (ed.), 1994. *Self-Knowledge*, Oxford: Oxford University Press.
+
+[^chisholm-1969]: Chisholm, R. M., 1969. “On the observability of the self,” *Philosophy and Phenomenological Research*, 30: 7–21.
+
+[^colombetti-2011]: Colombetti, G., 2011. “Varieties of pre-reflective self-awareness: Foreground and background bodily feelings in emotion experience,” *Inquiry*, 54(3): 293–313.
+
+[^depraz-1995]: Depraz, N., 1995. “Can I anticipate myself? Self-affection and temporality,” in D. Zahavi (ed). *Self-Awareness, Temporality, and Alterity*, Dordrecht: Kluwer Academic, pp. 85–99.
+
+[^frank-1991]: Frank, M. (ed.), 1991. *Selbstbewusstseinstheorien von Fichte bis Sartre*, Frankfurt am Main: Suhrkamp.
+
+[^frank-1991-2]: –––, 1991. *Selbstbewusstsein und Selbsterkenntnis*, Stuttgart: Reclam.
+
+[^gallagher-2023-3]: Gallagher, S., 2023. “The minimal self and the flying man argument,” *Frontiers in Psychology*, 14. doi:10.3389/fpsyg.2023.1296656
+
+[^gallagher-2000]: –––, 2000. “Philosophical conceptions of the self: implications for cognitive science,” *Trends in Cognitive Sciences*, 4(1): 14–21.
+
+[^gallagher-1996]: –––, 1996. “The moral significance of primitive self-consciousness,” *Ethics*, 107(1): 129–40.
+
+[^gallagher-2011]: ––– (ed.), 2011. *The Oxford Handbook of the Self*, Oxford: Oxford University Press.
+
+[^gennaro-2002]: Gennaro, R. J., 2002. “Jean-Paul Sartre and the hot theory of consciousness,” *Canadian Journal of Philosophy*, 32 (3): 293–330.
+
+[^henrich-1970]: Henrich, D., 1970. “Selbstbewusstsein: Kritische Einleitung in einer Theorie,” in R. Bubner (ed.) *Hermeneutik und Dialektik I*, Tübingen, pp. 257–284; English translation: “Self-consciousness: A critical introduction to a theory,” *Man and World*, 4: 3–28.
+
+[^kapitan-1999]: Kapitan, T., 1999. “The Ubiquity of self-awareness,” *Grazer Philosophische Studien*, 57: 17–43.
+
+[^kenevan-1981]: Kenevan, P. B., 1981. “Self-consciousness and the ego in the philosophy of Sartre,” in P. A. Schilpp (ed.), *The Philosophy of Sartre*, LaSalle IL: Open Court.
+
+[^kern-1989]: Kern, I., 1989. “Selbstbewusstein und Ich bei Husserl,” in *Husserl-Symposion Mainz 1988*, Stuttgart: Akademie der Wissenschaften und der Literatur, pp. 51–63.
+
+[^legrand-2006]: Legrand, D., 2006. “The bodily self: The sensori-motor roots of pre-reflective self-consciousness,” *Phenomenology and the Cognitive Sciences*, 5(1): 89–118.
+
+[^legrand-2007-2]: –––, 2007. “Pre-reflective self-as-subject from experiential and empirical perspectives,” *Consciousness and cognition*, 16(3): 583–599.
+
+[^marbach-1974]: Marbach, E., 1974. *Das Problem des Ich in der Phänomenologie Husserls*, The Hague: Martinus Nijhoff.
+
+[^miguens-2015]: Miguens, S., Preyer, G., and Morando, C. B. (eds.), 2015. *Pre-reflective Consciousness: Sartre and Contemporary Philosophy of Mind*, London: Routledge.
+
+[^pothast-1971]: Pothast, U., 1971. *Über einige Fragen der Selbstbeziehung*, Frankfurt am Main: Vittorio Klostermann.
+
+[^prado-1978]: Prado, C.-G., 1978. “Reflexive Consciousness,” *Dialogue*, 17: 134–37.
+
+[^priest-2000]: Priest, S., 2000. “Merleau-Ponty’s concept of the body-subject,” *Nursing Philosophy*, 1(2): 173–174.
+
+[^rosenberg-1981]: Rosenberg, J., 1981. “Apperception and Sartre’s pre-reflective cogito,” *American Philosophical Quarterly*, 18: 255–60.
+
+[^sartre-1948]: Sartre, J.-P., 1948. “Conscience de soi et connaissance de soi,” *Bulletin de la Société Française de Philosophie*, 42: 49–91; English translation: “Consciousness of self and knowledge of self,” in N. Lawrence and D. O’Connor (eds.), *Readings in Existential Phenomenology*, Englewood Cliffs, NJ: Prentice-Hall, 1967, pp. 113–42.
+
+[^schear-2009]: Schear, J. K., 2009. “Experience and self-consciousness,” *Philosophical Studies*, 144 (1): 95–105.
+
+[^schmitz-1991]: Schmitz, H., 1991. “Leibliche und personale Konkurrenz im Selbstbewusstsein,” in B. Kienzle and H. Pape (eds), *Dimensionen des Selbst*, Frankfurt am Main: Suhrkamp, pp. 152–68.
+
+[^schroeder-1984]: Schroeder, W.-R., 1984. *Sartre and his Predecessors: The Self and the Others*, London: Routledge and Kegan Paul.
+
+[^shoemaker-1994]: Shoemaker, S., 1994. “Self-knowledge and ‘inner sense’,” *Philosophy and Phenomenological Research*, 54: 249–314.
+
+[^tani-1998]: Tani, T., 1998. “Inquiry into the I, disclosedness, and self-consciousness: Husserl, Heidegger, Nishida,” *Continental Philosophy Review*, 31(3): 239–53.
+
+[^tugendhat-1979]: Tugendhat, E., 1979. *Selbstbewusstsein und Selbstbestimmung. Sprachanalytische Interpretationen*, English translation: Stern. *Self-Consciousness and Self-Determination*, Cambridge, MA: MIT Press.
+
+[^varga-2012]: Varga, S., 2012. “Non-Reflective self-awareness: Towards a ‘situated’ account,” *Journal of Consciousness Studies*, 19(3–4): 164–193.
+
+[^wider-1987]: Wider, K., 1987. “Hell and the private language argument: Sartre and Wittgenstein on self-consciousness, the body, and others,” *Journal of the British Society for Phenomenology*, 18: 120–32.
+
+[^wider-1993]: –––, 1993. “Sartre and the Long Distance Truck Driver: The Reflexivity of Consciousness,” *Journal of the British Society for Phenomenology*, 24(3): 232–49.
+
+[^wider-1997]: –––, 1997. *The Bodily Nature of Consciousness: Sartre and Contemporary Philosophy of Mind*, Ithaca: Cornell University Press.
+
+[^zahavi-2005]: Zahavi, D., 2005. *Subjectivity and Selfhood: Investigating the first-person perspective*, Cambridge, MA: The MIT Press.

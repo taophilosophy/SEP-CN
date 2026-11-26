@@ -277,39 +277,39 @@ Parts of this entry are adapted with significant revisions from my book *Philipp
 
 [^md-2002]: [MD] *Moral Dilemmas and Other Topics in Moral Philosophy*, Oxford: Oxford University Press, 2002. doi:10.1093/019925284X.001.0001. Includes:
 
-[^md-1970]: 1970, “Morality and Art”, *Proceedings of the British Academy*, 56: 131–144; reprinted MD, 5–19.
+[^philippa-foot-1970]: 1970, “Morality and Art”, *Proceedings of the British Academy*, 56: 131–144; reprinted MD, 5–19.
 
-[^md-1983]: 1983, “Moral Realism and Moral Dilemma”, *The Journal of Philosophy*, 80(7): 379–398; reprinted MD, 37–58.
+[^philippa-foot-1983]: 1983, “Moral Realism and Moral Dilemma”, *The Journal of Philosophy*, 80(7): 379–398; reprinted MD, 37–58.
 
-[^md-1984]: 1984, “Killing and Letting Die”, in Jay L. Garfield and Patricia Hennessey (eds.), *Abortion: Moral and Legal Perspectives*, Amherst: University of Amherst Press; reprinted MD, 78–87.
+[^philippa-foot-1984]: 1984, “Killing and Letting Die”, in Jay L. Garfield and Patricia Hennessey (eds.), *Abortion: Moral and Legal Perspectives*, Amherst: University of Amherst Press; reprinted MD, 78–87.
 
-[^md-1985]: 1985, “Morality, Action, and Outcome”, in Ted Honderich (ed.), *Morality and Objectivity: A Tribute to J.L. Mackie*, London: Routledge & Kegan Paul, pp. 23–38; reprinted MD, 88–104.
+[^philippa-foot-1985]: 1985, “Morality, Action, and Outcome”, in Ted Honderich (ed.), *Morality and Objectivity: A Tribute to J.L. Mackie*, London: Routledge & Kegan Paul, pp. 23–38; reprinted MD, 88–104.
 
-[^md-1989]: 1989, “Von Wright on Virtue”, *The Philosophy of Georg Henrik von Wright*, P.A. Schilpp (ed.), Open Court Publishing Company; reprinted MD, 105–116.
+[^philippa-foot-1989]: 1989, “Von Wright on Virtue”, *The Philosophy of Georg Henrik von Wright*, P.A. Schilpp (ed.), Open Court Publishing Company; reprinted MD, 105–116.
 
 [^vv-2002]: [VV] *Virtues and Vices and Other Essays in Moral Philosophy*, second edition, Oxford: Oxford University Press, 2002 (first edition 1978). doi:10.1093/0199252866.001.0001. Includes:
 
-[^vv-1958]: 1958, “Moral Arguments”, *Mind*, 67(268): 502–513; reprinted VV, 96–109. doi:10.1093/mind/LXVII.268.502
+[^philippa-foot-1958]: 1958, “Moral Arguments”, *Mind*, 67(268): 502–513; reprinted VV, 96–109. doi:10.1093/mind/LXVII.268.502
 
-[^vv-1959]: 1959, “Moral Beliefs”, *Proceedings of the Aristotelian Society*, 59(1): 83–104; reprinted VV, 110–131. doi:10.1093/aristotelian/59.1.83
+[^philippa-foot-1959]: 1959, “Moral Beliefs”, *Proceedings of the Aristotelian Society*, 59(1): 83–104; reprinted VV, 110–131. doi:10.1093/aristotelian/59.1.83
 
-[^vv-1961]: 1961, “Goodness and Choice”, *Aristotelian Society Supplementary Volumes*, 35(1): 45–80, part I of a two part article with Alan Montefiore; reprinted VV, 132–147. doi:10.1093/aristoteliansupp/35.1.45
+[^philippa-foot-1961]: 1961, “Goodness and Choice”, *Aristotelian Society Supplementary Volumes*, 35(1): 45–80, part I of a two part article with Alan Montefiore; reprinted VV, 132–147. doi:10.1093/aristoteliansupp/35.1.45
 
-[^vv-1967]: 1967, “The Problem of Abortion and the Doctrine of Double Effect”, *Oxford Review*, 5: 5–15; reprinted VV, 19–32.
+[^philippa-foot-1967]: 1967, “The Problem of Abortion and the Doctrine of Double Effect”, *Oxford Review*, 5: 5–15; reprinted VV, 19–32.
 
 [^mshi-1972]: [MSHI] 1972, “Morality as a System of Hypothetical Imperatives”, *The Philosophical Review*, 81(3): 305–316; reprinted VV, 157–173 with a long footnote added. doi:10.2307/2184328.
 
-[^mshi-1975]: 1975, “A Reply to Professor Frankena”, *Philosophy*, 50(194): 455–459; reprinted VV, 174–180.
+[^philippa-foot-1975]: 1975, “A Reply to Professor Frankena”, *Philosophy*, 50(194): 455–459; reprinted VV, 174–180.
 
-[^mshi-1977]: 1977, “Euthanasia”, *Philosophy and Public Affairs*, 6(2): 85–112; reprinted VV, 33–61.
+[^philippa-foot-1977]: 1977, “Euthanasia”, *Philosophy and Public Affairs*, 6(2): 85–112; reprinted VV, 33–61.
 
-[^mshi-1978]: 1978, “Virtues and Vices”, essay for this volume, VV, 1–18.
+[^philippa-foot-1978]: 1978, “Virtues and Vices”, essay for this volume, VV, 1–18.
 
 [^ng-2001]: [NG] *Natural Goodness*, Oxford: Oxford University Press, 2001. doi:10.1093/0198235089.001.0001
 
 [^rg-2004]: [RG] “Rationality and Goodness” in *Modern Moral Philosophy*, (*Royal Institute of Philosophy Supplement 54*), Anthony O’Hear (ed.), Cambridge: Cambridge University Press, 2004: 1–14. doi:10.1017/CBO9780511550836.002
 
-[^rg-1954]: 1954, with Jonathan Harrison, “When is a Principle a Moral Principle?” (Symposium), *Proceedings of the Aristotelian Society* (Supplementary Volume), 28(1): 95–134. doi:10.1093/aristoteliansupp/28.1.95
+[^philippa-foot-1954]: 1954, with Jonathan Harrison, “When is a Principle a Moral Principle?” (Symposium), *Proceedings of the Aristotelian Society* (Supplementary Volume), 28(1): 95–134. doi:10.1093/aristoteliansupp/28.1.95
 
 [^andreou-2006]: Andreou, Chrisoula, 2006, “Getting on in a Varied World,” *Social Theory and Practice*, 32(1): 61–73. doi:10.5840/soctheorpract20063213
 

@@ -65,7 +65,7 @@ The aforementioned ways of capturing the prime facts of psychology are all defec
 
 The paradigm of physics suggests that phenomenal laws can be gained through experiment, instrumentation (measurement), and calculation. But of these three paths only calculation is available to psychology.[^note-9] Calculation alone can reveal the basic laws and concepts of the psyche; psychic phenomena are then to be traced back or “reduced” to these rules; and in this way an “interconnected order” of the psychic manifold may be constructed, analogous to the one physics provides to external, sensible phenomena. As he puts it in “On Analogies, with Respect to the Foundation of Psychology”,
 
-> mathematics [is] not applied to concepts that come from naked, immediate experience in the manner of empiricism, but from experience *as processed through metaphysics*, and which [concepts, then,] returns, aided by mathematics, to experience. (Herbart 1840b: 185)[^herbart-1840b]
+> mathematics [is] not applied to concepts that come from naked, immediate experience in the manner of empiricism, but from experience *as processed through metaphysics*, and which [concepts, then,] returns, aided by mathematics, to experience. (Herbart 1840b: 185)
 
 Thus, the traditional highest “generic concepts” of representation, feeling, and desire that were formulated via an unscientific and chaotic process of abstraction, must be replaced by whatever rules calculation may reveal (LPs [1850]: 8).
 
@@ -79,7 +79,7 @@ We now turn to the heart of Herbart’s psychology, namely just this “force-in
 
 It is Herbart’s radical contention that consciousness is nothing more than the continuous stream of representations. [^note-10] These representations, he says cryptically, are the “self-preservations of the soul [*Selbsterhaltungen der Seele*]” (PsW: 171). That is, as we saw, because the soul (the terms, “psyche” and “soul”, will be used interchangeably in this article) is postulated to be simple and “originally an utter *tabula rasa*, without any life or thought” (SW VI: 120), the evident multiplicity of conscious representations generates a paradox (PsW: 171). Since the soul is by nature simple, the source of any psychic differentiation must be sought outside of it, viz., among the “objects” that affect it through the senses (PsW: 132). Thus, on the one hand, the world impinges on and perturbs the soul’s natural placidity (cf., e.g., the *Māṇḍūkya* Upaniṣad; PsW: 132–3; but see Felsch 1904: 196–7)[^felsch-1904]; on the other hand, the soul resists these disturbances (i.e., the representations themselves) by constantly seeking to reestablish a harmonious unity or equilibrium among them and thus “preserve”, as far as possible, its own simplicity.
 
-Psychology’s task, then, is to explain how the various representations mutually resolve each other to attain maximal unity (Weiss 1928: 73)[^weiss-1928]. They do this in two ways. First, wherever there are several representations of the same kind, they “merge” into a single representational activity (“*… Ein intensives Thun*”, PsW: 171; Herbart 1811; Boudewijnse, et al. 1999: 170)[^herbart-1811][^boudewijnse-1999]. On the other hand, if representations are of different or opposed kinds, they “inhibit” each other “quantitatively” (PsW: 129–30). Simply put, two representations present in consciousness may either resemble each other or not. If the former, then they will merge into one, stronger representation, and unity will be attained in this way. If they differ, then they will struggle against each other, each trying to negate the other as far as possible. In the latter case, the representing activity remains constant, its essential simplicity expressing itself in each representation’s endeavor to become the sole object of consciousness.
+Psychology’s task, then, is to explain how the various representations mutually resolve each other to attain maximal unity (Weiss 1928: 73)[^weiss-1928]. They do this in two ways. First, wherever there are several representations of the same kind, they “merge” into a single representational activity (“*… Ein intensives Thun*”, PsW: 171; Herbart 1811; Boudewijnse, et al. 1999: 170)[^boudewijnse-1999]. On the other hand, if representations are of different or opposed kinds, they “inhibit” each other “quantitatively” (PsW: 129–30). Simply put, two representations present in consciousness may either resemble each other or not. If the former, then they will merge into one, stronger representation, and unity will be attained in this way. If they differ, then they will struggle against each other, each trying to negate the other as far as possible. In the latter case, the representing activity remains constant, its essential simplicity expressing itself in each representation’s endeavor to become the sole object of consciousness.
 
 Now, as they struggle to negate each other, each of the two opposing representations is, as Herbart puts it, inhibited (*gehemmt*) by the other (PsW: 130; SW V: 274, f.). We may liken his conception of consciousness, then, to a single, general psychic activity—call it “representing”—which, like the surface of a pool in a rainstorm, is disturbed by multitudinous sensory contact with realia. Each disturbance has the effect of differentiating the “surface”; and since that surface just *is* the activity of representing, each individual ripple takes part in that activity. Which is to say: instead of a general, undifferentiated representing activity of pure consciousness, we now have in each disturbance a particular instance of representing, i.e., *a representation*. Just as the ripples caused by two raindrops will interfere and conflict with each other, they nevertheless share a common substrate—the water—that makes both their being and conflict possible in the first place: they are ripples *of* water. So too each representation, as a ripple of consciousness, shares in the latter’s essence, viz., the activity of representing (here the analogy to water breaks down, since water is not *per se* an activity). This active nature helps explain why Herbart often seems to suggest that individual representations possess their own energy or will[^note-11] to survive and prevail over others. It is simply a manifestation of consciousness’s own activity and “will” to maintain its essential simplicity, which is why he calls representations “self-preservings of the soul”.
 
@@ -561,7 +561,7 @@ We see here a special case of apperception as an interaction among conflicting r
 
 Now it is a presupposition of pedagogy that all human beings are capable of living up to the ideal of an integrated, unified, autonomous personality (PS I: 202; 93). But how does the will become decisive? In other words, how do we gain a moral character that *acts* for the good? We may approach this problem by asking how those natures that successfully form themselves do so, and through what stages they must pass in “gaining a character” (Weiss 1928: 221–2)[^weiss-1928]. This can help the pedagogue develop a plan for optimizing what is otherwise a haphazard process. The resolute character depends, first, upon a moral *eros*, and striving towards a representation. The will generates the act out of a desire (PS I: 360). But active deeds in turn depend on natural disposition—including bodily health; the will’s memory; and the spirit’s mobility or “flexibility” (PS I: 365). The less motile the spirit, the firmer the will (PS I: 365; 198).[^note-77] Now natural disposition develops very slowly and only fully matures in adults when they enter the world. Hence character-education has little latitude, since children rarely are placed in situations of true responsibility. At just the moment when the young adult takes up responsibilities, his receptivity for education is exhausted (SW II: 88, f.; PS I: 364).
 
-Herbart draws two conclusions: First, that character-formation must focus on the young person’s “sphere of desire [*Begehrungskreis*]”, as the one aspect of character apparently susceptible to “a lasting influence” (Weiss 1928: 224)[^weiss-1928]. And since desires aim at goals, and goals are representations, the educator can set to work upon the “sphere of representations”, and thus shape the ultimate targets for the mature individual’s future desire (SW II: 118, f.). Second, Herbart concludes that character-development gains stability and security by being accelerated and integrated into the actual period and process of education. The teacher must keep in mind that character “is solely formed through action out of *one’s own will*” (PS I: 251). Therefore, Herbart’s pedagogy emphasizes the importance of offering the child’s will ample opportunity to express itself: “Boys and youths must be *dared* to become men” (“*Maßregeln der Kinderregierung*”; Herbart 1887b: 17)[^herbart-1887b]. It is the work itself that fixes the bounds of thought and action, not the teacher; within those bounds the student is to be given maximal freedom (PS I: 308). By frequently exercising the freedom of the will in purposeful activity, the pedagogue is able to “harden” the pupil’s will (PS I: 368–9).
+Herbart draws two conclusions: First, that character-formation must focus on the young person’s “sphere of desire [*Begehrungskreis*]”, as the one aspect of character apparently susceptible to “a lasting influence” (Weiss 1928: 224)[^weiss-1928]. And since desires aim at goals, and goals are representations, the educator can set to work upon the “sphere of representations”, and thus shape the ultimate targets for the mature individual’s future desire (SW II: 118, f.). Second, Herbart concludes that character-development gains stability and security by being accelerated and integrated into the actual period and process of education. The teacher must keep in mind that character “is solely formed through action out of *one’s own will*” (PS I: 251). Therefore, Herbart’s pedagogy emphasizes the importance of offering the child’s will ample opportunity to express itself: “Boys and youths must be *dared* to become men” (“*Maßregeln der Kinderregierung*”; Herbart 1887b: 17). It is the work itself that fixes the bounds of thought and action, not the teacher; within those bounds the student is to be given maximal freedom (PS I: 308). By frequently exercising the freedom of the will in purposeful activity, the pedagogue is able to “harden” the pupil’s will (PS I: 368–9).
 
 We began by asking how moral character is to be formed. This question finally calls for consideration of the “influences that specially affect the moral features of character” (Weiss 1928: 225)[^weiss-1928]. Chief among these is aesthetic judgment, which must therefore be constantly exercised, so as to become the power mastering desires. The pedagogue must therefore carefully attend to the contents of the child’s or sphere of thoughts. First, the pupil should gain a clear and particularized familiarity with a “whole series of moral elements and their most common causes in life”, e.g., the main relationships of daily life, family, country, and their various conflicts and contradictions. Further, since character ultimately depends on the integration of the person, all domains of human interest must be brought into relation with the ideal: thus, for Herbart as for Montaigne,[^note-78] history in the broadest sense provides an indispensable space in which to exercise the young person’s aesthetic and practical judgment. Since passive presentation of historical, literary, or philosophical *pictures* must be avoided, the instructor must strive to bring peoples and persons of the past to the fore *as living people*: practice in recognizing many human types sharpens the pupil’s “ethical eye”, securing the child from dangerous surprises in life (SW II: 50). Again, because historical figures appear at a distance, the pupil can contemplate them in a disinterested fashion, letting “pure taste” rule action in his imagination. Such training is the best one can do in preparing the person for adulthood.
 
@@ -782,7 +782,7 @@ Because the possibility of confusion is more acute in the case of the temporal, 
 
 [^note-78]: Cf. Montaigne, “Education”: 62; SW II: 67, f., and esp. Herbart’s warning against “Polyhistorie”, 85.
 
-[^note-79]: There is confusion about this key text, first published in two parts, in 1824 and 1825, respectively. Boudewijnse et al. 1999, identify it as the only text with this title, conflating this, the first, “analytic” part of the two-volume work, with the second, “synthetic” part, which listed as Herbart 1825. Again, Diriwächter (2013)[^diriwächter-2013] follows the (admittedly misleading) indication on the Bonset reprint (see Herbart 1968)[^herbart-1968], saying that the original work was published in 1850.
+[^note-79]: There is confusion about this key text, first published in two parts, in 1824 and 1825, respectively. Boudewijnse et al. 1999, identify it as the only text with this title, conflating this, the first, “analytic” part of the two-volume work, with the second, “synthetic” part, which listed as Herbart 1825. Again, Diriwächter (2013)[^diriwächter-2013] follows the (admittedly misleading) indication on the Bonset reprint (see Herbart 1968), saying that the original work was published in 1850.
 
 [^ap-1806]: AP*Allgemeine Pädagogik aus dem Zweck der Erziehung abgeleitet* [*General Theory of Education, Derived from the Purpose of Child-rearing*], Herbart 1806, SW II: 1–139.
 
@@ -800,77 +800,77 @@ Because the possibility of confusion is more acute in the case of the temporal, 
 
 [^johann-nd]: ¹1851, ²1886, *Johann Friedrich Herbart’s* [*sic*] *Sämmtliche Werke* (*J.F. Herbart’s Complete Works*), G. Hartenstein (ed.), Leipzig: Voss.
 
-[^herbart-1906]: 1906, *Johann Friedrich Herbart’s* [*sic*] *Sämtliche Werke in chronologischer Reihenfolge* (*J.F. Herbart’s Complete Works in Chronological Order*), K. Kehrbach and O. Flügel, (eds.), 19 vols., Langensalza: Beyer.
+[^johann-herbart-1906]: 1906, *Johann Friedrich Herbart’s* [*sic*] *Sämtliche Werke in chronologischer Reihenfolge* (*J.F. Herbart’s Complete Works in Chronological Order*), K. Kehrbach and O. Flügel, (eds.), 19 vols., Langensalza: Beyer.
 
-[^herbart-1804a]: 1804a, “Pestalozzi’s [*sic*] Idee eines A B C der Anschauung”, SW I: 151–274.
+[^johann-herbart-1804a]: 1804a, “Pestalozzi’s [*sic*] Idee eines A B C der Anschauung”, SW I: 151–274.
 
-[^herbart-1804b]: 1804b, “Über die ästhetische Darstellung der Welt als das Hauptgeschäft der Erziehung”, in 1804a, pp. 259–74.
+[^johann-herbart-1804b]: 1804b, “Über die ästhetische Darstellung der Welt als das Hauptgeschäft der Erziehung”, in 1804a, pp. 259–74.
 
-[^herbart-1806]: 1806, *Allgemeine Pädagogik aus dem Zweck der Erziehung abgeleitet*, SW II: 1–139.
+[^johann-herbart-1806]: 1806, *Allgemeine Pädagogik aus dem Zweck der Erziehung abgeleitet*, SW II: 1–139.
 
-[^herbart-1806b]: 1806b, *Hauptpuncte der Metaphysik*, Göttingen: Baier (1806); reprinted, Göttingen: Danckwerts, 1808. In SW II, 175-226.
+[^johann-herbart-1806b]: 1806b, *Hauptpuncte der Metaphysik*, Göttingen: Baier (1806); reprinted, Göttingen: Danckwerts, 1808. In SW II, 175-226.
 
-[^herbart-1807]: 1807, *Über philosophisches Studium*, SW II: 227–96.
+[^johann-herbart-1807]: 1807, *Über philosophisches Studium*, SW II: 227–96.
 
-[^herbart-1808]: 1808, *Allgemeine practische Philosophie*, Göttingen: Danckwerts.
+[^johann-herbart-1808]: 1808, *Allgemeine practische Philosophie*, Göttingen: Danckwerts.
 
-[^herbart-1811]: 1811, “Psychologische Bemerkungen zur Tonlehre” (Psychological Remarks on the Doctrine of Tones), SW III: 96–118.
+[^johann-herbart-1811]: 1811, “Psychologische Bemerkungen zur Tonlehre” (Psychological Remarks on the Doctrine of Tones), SW III: 96–118.
 
 [^lehrbuch-1993]: ¹1813, ²1821, ³1834, ⁴1837, ⁵1891, *Lehrbuch zur Einleitung in die Philosophie* [*Introductory Textbook of Philosophy*], SW IV: 1–275. See 1993.
 
-[^herbart-1814]: 1814, “Bemerkungen über einen pädagogischen Aufsatz” (Remarks on a pedagogical essay [Lecture]). In Herbart 1851: 378–87.
+[^johann-herbart-1814]: 1814, “Bemerkungen über einen pädagogischen Aufsatz” (Remarks on a pedagogical essay [Lecture]). In Herbart 1851: 378–87.
 
 [^lehrbuch-nd]: ¹1816, ²1834. *Lehrbuch der Psychologie* [*Textbook of Psychology*]. SW IV: 295–436.
 
-[^herbart-1819]: 1819, “Erste Vorlesung über die practische Philosophie im Sommer 1819” (“First Lecture on practical philosophy in the summer of 1819”). SW V: 3–10.
+[^johann-herbart-1819]: 1819, “Erste Vorlesung über die practische Philosophie im Sommer 1819” (“First Lecture on practical philosophy in the summer of 1819”). SW V: 3–10.
 
-[^herbart-1822]: 1822, “Ueber die Moeglichkeit und Nothwendigkeit, Mathematik auf Psychologie anzuwenden” (“On the Possibility and Necessity of Applying Mathematics to Psychology”). SW V: 91–122.
+[^johann-herbart-1822]: 1822, “Ueber die Moeglichkeit und Nothwendigkeit, Mathematik auf Psychologie anzuwenden” (“On the Possibility and Necessity of Applying Mathematics to Psychology”). SW V: 91–122.
 
-[^herbart-1824]: 1824, *Psychologie als Wissenschaft. Neu gegründet auf Erfahrung, Metaphysik und Mathematik. Erster, synthetischer Teil.* (*Psychology as Science: Newly Founded on Experience, Metaphysics and Mathematics; First, Synthetic Part*). SW V: 177-402.[^note-79]
+[^johann-herbart-1824]: 1824, *Psychologie als Wissenschaft. Neu gegründet auf Erfahrung, Metaphysik und Mathematik. Erster, synthetischer Teil.* (*Psychology as Science: Newly Founded on Experience, Metaphysics and Mathematics; First, Synthetic Part*). SW V: 177-402.[^note-79]
 
-[^herbart-1825]: 1825, *Psychologie als Wissenschaft. Neu gegründet auf Erfahrung, Metaphysik und Mathematik. Zweiter, analytischer Teil.* (*Psychology as Science: Newly Founded on Experience, Metaphysics and Mathematics; Second, Synthetic Part*). SW VI: 1–338.
+[^johann-herbart-1825]: 1825, *Psychologie als Wissenschaft. Neu gegründet auf Erfahrung, Metaphysik und Mathematik. Zweiter, analytischer Teil.* (*Psychology as Science: Newly Founded on Experience, Metaphysics and Mathematics; Second, Synthetic Part*). SW VI: 1–338.
 
-[^herbart-1828]: 1828, *Allgemeine Metaphysik nebst den Anfängen der philosophischen Naturlehre. Erster historisch-kritischer Teil.* (*General Metaphysics in Addition to the Beginnings of the Philosophical Doctrine of Nature: First, Historico-critical Part*). SW VII.
+[^johann-herbart-1828]: 1828, *Allgemeine Metaphysik nebst den Anfängen der philosophischen Naturlehre. Erster historisch-kritischer Teil.* (*General Metaphysics in Addition to the Beginnings of the Philosophical Doctrine of Nature: First, Historico-critical Part*). SW VII.
 
-[^herbart-1829]: 1829, *Allgemeine Metaphysik nebst den Anfängen der philosophischen Naturlehre. Zweiter, synthetischer Teil.* (*General Metaphysics in Addition to the Beginnings of the Philosophical Doctrine of Nature: Second, Synthetic Part*). SW VIII.
+[^johann-herbart-1829]: 1829, *Allgemeine Metaphysik nebst den Anfängen der philosophischen Naturlehre. Zweiter, synthetischer Teil.* (*General Metaphysics in Addition to the Beginnings of the Philosophical Doctrine of Nature: Second, Synthetic Part*). SW VIII.
 
-[^herbart-1831a]: 1831a, *Kurze Encyklopädie der Philosophie*. (*Concise Encyclopedia of Philosophy*). SW IX, 17–338.
+[^johann-herbart-1831a]: 1831a, *Kurze Encyklopädie der Philosophie*. (*Concise Encyclopedia of Philosophy*). SW IX, 17–338.
 
-[^herbart-1831b]: 1831b, *Briefe über die Anwendung der Psychologie auf die Pädagogik*. (*Letters Concerning the Application of Psychology to Pedagogy*). SW IX: 339–462.
+[^johann-herbart-1831b]: 1831b, *Briefe über die Anwendung der Psychologie auf die Pädagogik*. (*Letters Concerning the Application of Psychology to Pedagogy*). SW IX: 339–462.
 
-[^herbart-1838]: 1838, “Erinnerung an die Göttingsche Katastrophe 1837”. SW XI, 27–44.
+[^johann-herbart-1838]: 1838, “Erinnerung an die Göttingsche Katastrophe 1837”. SW XI, 27–44.
 
-[^herbart-1839a]: 1839a, *Psychologische Untersuchungen* (I). (*Psychological Investigations* I). SW XI: 45–176.
+[^johann-herbart-1839a]: 1839a, *Psychologische Untersuchungen* (I). (*Psychological Investigations* I). SW XI: 45–176.
 
-[^herbart-1839b]: 1839b, “Ueber die Wichtigkeit der Lehre von den Verhältnissen der Töne, und vom Zeitmaasse, für die gesammte Psychologie”, (“On the Importance for all Psychology of the Doctrine of Tonal Relations and of the Measurement of Time”) in 1839a, 50–69.
+[^johann-herbart-1839b]: 1839b, “Ueber die Wichtigkeit der Lehre von den Verhältnissen der Töne, und vom Zeitmaasse, für die gesammte Psychologie”, (“On the Importance for all Psychology of the Doctrine of Tonal Relations and of the Measurement of Time”) in 1839a, 50–69.
 
-[^herbart-1840a]: 1840a, *Psychologische Untersuchungen* (II). (*Psychological Investigations* II). SW XI, 177–343.
+[^johann-herbart-1840a]: 1840a, *Psychologische Untersuchungen* (II). (*Psychological Investigations* II). SW XI, 177–343.
 
-[^herbart-1840b]: 1840b, “Ueber Analogien, in Bezug auf das Fundament der Psychologie”, (*On Analogies, with Respect to the Foundation of Psychology*). First essay of 1840a, 185–202.
+[^johann-herbart-1840b]: 1840b, “Ueber Analogien, in Bezug auf das Fundament der Psychologie”, (*On Analogies, with Respect to the Foundation of Psychology*). First essay of 1840a, 185–202.
 
-[^herbart-1850]: 1850, *Lehrbuch zur Psychologie* (*Textbook of Psychology*), 2ⁿᵈ ed. (=²1834; [see 1816, above]). Reprinted in Vol. I of *Herbarts Schriften zur Psychologie*. Hartenstein, G. (ed.). Leipzig: Voss. All references to this edition will be cited as “LPs (1850)”. It is available online at: <http://catalog.hathitrust.org/Record/008918764>
+[^johann-herbart-1850]: 1850, *Lehrbuch zur Psychologie* (*Textbook of Psychology*), 2ⁿᵈ ed. (=²1834; [see 1816, above]). Reprinted in Vol. I of *Herbarts Schriften zur Psychologie*. Hartenstein, G. (ed.). Leipzig: Voss. All references to this edition will be cited as “LPs (1850)”. It is available online at: <http://catalog.hathitrust.org/Record/008918764>
 
-[^herbart-1851]: 1851, *Schriften zur Pädagogik* (*Writings on Pedagogy*), Part II. Vol. XI of Hartenstein’s edition of Herbart’s complete works; see “Editions”, above.
+[^johann-herbart-1851]: 1851, *Schriften zur Pädagogik* (*Writings on Pedagogy*), Part II. Vol. XI of Hartenstein’s edition of Herbart’s complete works; see “Editions”, above.
 
-[^herbart-1878]: 1878, *Kleinere pädagogische Schriften, Reden und Abhandlungen*. (*Shorter Pedagogical Writings, Speeches, and Papers*). Richter, K., ed. Leipzig: Siegismund & Volkening.
+[^johann-herbart-1878]: 1878, *Kleinere pädagogische Schriften, Reden und Abhandlungen*. (*Shorter Pedagogical Writings, Speeches, and Papers*). Richter, K., ed. Leipzig: Siegismund & Volkening.
 
-[^herbart-1887a]: 1887a, *Johann Friedrich Herbart’s* [*sic*] *Pädagogische Schriften, mit Herbart’s Biographie*. 4ᵗʰ ed. Bartholomäi, F., ed. Vol. I. Langensalza: Beyer.
+[^johann-herbart-1887a]: 1887a, *Johann Friedrich Herbart’s* [*sic*] *Pädagogische Schriften, mit Herbart’s Biographie*. 4ᵗʰ ed. Bartholomäi, F., ed. Vol. I. Langensalza: Beyer.
 
-[^herbart-1887b]: 1887b, *Allgemeine Pädagogik aus dem Zweck der Erziehung abgeleitet* (*General Theory of Education, Derived from the Purpose of Child-rearing*), in 1887a: 1–148 (= 1806, SW II).
+[^johann-herbart-1887b]: 1887b, *Allgemeine Pädagogik aus dem Zweck der Erziehung abgeleitet* (*General Theory of Education, Derived from the Purpose of Child-rearing*), in 1887a: 1–148 (= 1806, SW II).
 
-[^herbart-1891]: 1891, *A Textbook in Psychology* [English translation of LPs (1816)]. M.K. Smith (trans.), New York: Appleton.
+[^johann-herbart-1891]: 1891, *A Textbook in Psychology* [English translation of LPs (1816)]. M.K. Smith (trans.), New York: Appleton.
 
-[^herbart-1906a]: 1906a, “Bruchstücke des dritten Heftes”. (“Fragments of the third volume” [sc. of *Psychologische Untersuchungen*, I, II {1839, 1840, above}]). SW XI, 345–81.
+[^johann-herbart-1906a]: 1906a, “Bruchstücke des dritten Heftes”. (“Fragments of the third volume” [sc. of *Psychologische Untersuchungen*, I, II {1839, 1840, above}]). SW XI, 345–81.
 
-[^herbart-1906b]: 1906b, “Zur Lehre von der Apperception”. (“On the doctrine of apperception”). In 1906a: 371–3.
+[^johann-herbart-1906b]: 1906b, “Zur Lehre von der Apperception”. (“On the doctrine of apperception”). In 1906a: 371–3.
 
-[^herbart-1906c]: 1906c, “Aphorismen zur Psychologie”. SW XI, 383–432.
+[^johann-herbart-1906c]: 1906c, “Aphorismen zur Psychologie”. SW XI, 383–432.
 
-[^herbart-1913]: 1913, 1914, 1919, *Johann Friedrich Herbarts Pädagogische Schriften.* *Mit Einleitungen[,] Anmerkungen und Registern sowie reichem bisher ungedruckten Material aus Herbarts Nachlaß* (*Johann Friedrich Herbart’s Pedagogical Writings: With Introductions, Notes, and Indices, as well as a Wealth of Hitherto Unprinted Material*), three volumes, O. Willmann and T. Fritzsch (eds.), Osterwieck/Harz & Leipzig: Zickfeldt.
+[^johann-herbart-1913]: 1913, 1914, 1919, *Johann Friedrich Herbarts Pädagogische Schriften.* *Mit Einleitungen[,] Anmerkungen und Registern sowie reichem bisher ungedruckten Material aus Herbarts Nachlaß* (*Johann Friedrich Herbart’s Pedagogical Writings: With Introductions, Notes, and Indices, as well as a Wealth of Hitherto Unprinted Material*), three volumes, O. Willmann and T. Fritzsch (eds.), Osterwieck/Harz & Leipzig: Zickfeldt.
 
-[^herbart-1968]: 1968, *Psychologie als Wissenschaft*, [*usw.*]. *Erster … Teil*. (*Psychology as Science: Newly Founded, etc.; First, Synthetic Part*). Reprint of the 1850 edition of Herbart 1824, above (= SW V: 177–434). Amsterdam: Bonset. References to this edition abbreviated as *PsW*.
+[^johann-herbart-1968]: 1968, *Psychologie als Wissenschaft*, [*usw.*]. *Erster … Teil*. (*Psychology as Science: Newly Founded, etc.; First, Synthetic Part*). Reprint of the 1850 edition of Herbart 1824, above (= SW V: 177–434). Amsterdam: Bonset. References to this edition abbreviated as *PsW*.
 
-[^herbart-1993]: 1993, *Lehrbuch zur Einleitung in die Philosophie*. (*Introductory Textbook of Philosophy*). W. Henckmann (ed.), Hamburg: Meiner (reprint of LEP).
+[^johann-herbart-1993]: 1993, *Lehrbuch zur Einleitung in die Philosophie*. (*Introductory Textbook of Philosophy*). W. Henckmann (ed.), Hamburg: Meiner (reprint of LEP).
 
 [^askay-2006]: Askay, R. and J. Farquhar, 2006, *Apprehending the Inaccessible: Freudian Psychoanalysis and Existential Phenomenology*, Evanston: Northwestern University Press.
 

@@ -336,9 +336,9 @@ I am grateful to the Chicago Early Modern Round Table for helpful feedback on an
 
 [^l-n-1689]: [L-N] 1689/1694, *An Essay Concerning Human Understanding*, (The Clarendon Edition of the Works of John Locke ), Peter H. Nidditch (ed.), Oxford: Oxford University Press, 1975. doi:10.1093/actrade/9780198243861.book.1
 
-[^l-n-1689-2]: 1689, *A Letter Concerning Toleration*, reprinted and edited by John Tully, Indianapolis: Hackett Publishing, 1989
+[^locke-personal-identity-1689]: 1689, *A Letter Concerning Toleration*, reprinted and edited by John Tully, Indianapolis: Hackett Publishing, 1989
 
-[^l-n-1693]: 1693, *Some Thoughts Concerning Education*, (The Clarendon Edition of the Works of John Locke), John W. Yolton and Jean S. Yolton (eds.), 1989. doi:10.1093/actrade/9780198245827.book.1
+[^locke-personal-identity-1693]: 1693, *Some Thoughts Concerning Education*, (The Clarendon Edition of the Works of John Locke), John W. Yolton and Jean S. Yolton (eds.), 1989. doi:10.1093/actrade/9780198245827.book.1
 
 [^drafts-1990]: *Drafts for the Essay Concerning Human Understanding, and Other Philosophical Writings: In Three Volumes, Vol. 1: Drafts A and B*, (The Clarendon Edition of the Works of John Locke), Peter H. Nidditch and G. A. J. Rogers (eds.), Oxford: Oxford University Press, 1990. doi:10.1093/actrade/9780198245452.book.1
 

@@ -362,9 +362,9 @@ My thanks go to two anonymous peer reviewers, one of whom most generously provid
 
 [^higgins-2017]: Higgins, Kathleen Marie, 2017, “Global Aesthetics—What Can We Do?”, *Journal of Aesthetics and Art Criticism*, 75(4): 339–349.
 
-[^higgins-1990]: hooks, bell, 1990 [2015], *Yearning: Race, Gender, and Cultural Politics*, Boston, MA: South End Press; 2nd edition, New York: Routledge, 2015.
+[^aesthetics-race-1990]: hooks, bell, 1990 [2015], *Yearning: Race, Gender, and Cultural Politics*, Boston, MA: South End Press; 2nd edition, New York: Routledge, 2015.
 
-[^higgins-1992]: –––, 1992 [2014], *Black Looks: Race and Representation*, Boston, MA: South End Press; 2nd edition, New York: Routledge.
+[^aesthetics-race-1992]: –––, 1992 [2014], *Black Looks: Race and Representation*, Boston, MA: South End Press; 2nd edition, New York: Routledge.
 
 [^hume-1757]: Hume, David, 1757 [1998], “Of the Standard of Taste”, *Four Dissertations*, London: A. Millar; reprinted in S. Copley and A. Edgar (eds.), *Selected Essays*, Oxford: Oxford University Press, pp. 133–153, 1998.
 

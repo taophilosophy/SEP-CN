@@ -364,9 +364,9 @@ anarchism | Beauvoir, Simone de | Engels, Friedrich | feminist philosophy, inter
 
 [^holmstrom-2002]: Holmstrom, Nancy (ed.), 2002, *The Socialist Feminist Project: A Contemporary Reader in Theory and Politics*, New York: Monthly Review.
 
-[^holmstrom-1984]: hooks, bell, 1984, *Feminist Theory from Margin to Center*, Boston: South End.
+[^feminism-class-1984]: hooks, bell, 1984, *Feminist Theory from Margin to Center*, Boston: South End.
 
-[^holmstrom-2000]: –––, 2000, *Where We Stand:* *Class Matters*, New York: Routledge.
+[^feminism-class-2000]: –––, 2000, *Where We Stand:* *Class Matters*, New York: Routledge.
 
 [^irigaray-1985]: Irigaray, Luce, 1985, *This Sex Which is not One*, tr. Catherine Porter, Ithaca NY: Cornell University, pp. 23–33.
 

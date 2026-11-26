@@ -237,9 +237,9 @@ Aristotle, commentators on | Cambridge Platonists | Ficino, Marsilio | Iamblichu
 
 [^kalligas-nd]: Kalligas, Paul, *The “Enneads” of Plotinus: A Commentary*, Princeton, NJ/Oxford: Princeton University Press
 
-[^kalligas-2014]: 2014, Volume 1, Elizabeth Key Fowden and Nicolas Pilavachi (trans), Princeton/Oxford: Princeton University Press. First published in Greek under the titles *Porphyriou: Peri tou Plōtinou biou* (1991), *Plōtinou: Enneas Prōtē* (1994), *Plōtinou: Enneas Deutera* (1997), and *Plōtinou: Enneas Tritē* (2004) by The Academy of Athens, Athens. doi:10.1515/9781400852512
+[^plotinus-2014]: 2014, Volume 1, Elizabeth Key Fowden and Nicolas Pilavachi (trans), Princeton/Oxford: Princeton University Press. First published in Greek under the titles *Porphyriou: Peri tou Plōtinou biou* (1991), *Plōtinou: Enneas Prōtē* (1994), *Plōtinou: Enneas Deutera* (1997), and *Plōtinou: Enneas Tritē* (2004) by The Academy of Athens, Athens. doi:10.1515/9781400852512
 
-[^kalligas-2023]: 2023, Volume 2, Nickolaos Koutras (trans.), First published in Greek under the titles *Plōtinou: Enneas Tetartē* (2009) and *Plōtinou: Enneas Pemptē* (2013) by The Academy of Athens, Athens. doi:10.1515/9780691241821
+[^plotinus-2023]: 2023, Volume 2, Nickolaos Koutras (trans.), First published in Greek under the titles *Plōtinou: Enneas Tetartē* (2009) and *Plōtinou: Enneas Pemptē* (2013) by The Academy of Athens, Athens. doi:10.1515/9780691241821
 
 [^o’brien-1991]: O’Brien, Denis, 1991, *Plotinus on the Origin of Matter: An Exercise in the Interpretation of the Enneads* (Elenchos 22), Napoli: Bibliopolis.
 

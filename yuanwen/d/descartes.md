@@ -31,7 +31,7 @@ His family wanted Descartes to be a lawyer, like his father and other relatives.
 
 While in Breda, Descartes met Isaac Beeckman, a Dutch mathematician and natural philosopher. Beeckman set various problems for Descartes, including questions about falling bodies, hydrostatics, and mathematics. Descartes and Beeckman engaged in what they called “physico-mathematica,” or mathematical physics (Beeckman’s journal, in Descartes, 10:52). Since antiquity, mathematics had been applied to various physical subject matters, in optics, astronomy, mechanics (focusing on the lever), and hydrostatics. Beeckman and Descartes brought to this work a commitment to atoms as the basic constituents of matter. As had ancient atomists, they attributed not only size, shape, and motion but also weight to those atoms (*10:68*). Descartes opened a section in his notebook entitled “Democritica” (10:8), in honor of the ancient atomist Democritus.
 
-Perhaps at this time, though certainly by 1628, Descartes had the fundamental insight that makes analytic geometry possible: the technique for describing lines of various sorts by using mathematical equations involving ratios between lengths in relation to coordinate lines. (Descartes did not require that the lines be perpendicular to one another.) Descartes himself did not foresee replacing geometrical constructions with algebraic formulas; rather, he viewed geometry as the basic mathematical science and he considered his algebraic techniques to provide an extension beyond compass-and-ruler constructions. When the right-angled coordinate system of algebraic geometry was subsequently developed, the name “Cartesian coordinates” honored Descartes’ discovery. (See Boyer 1968, Ch. 17, Shea 1991, Ch. 3, and, more generally, Domski 2022.)[^domski-2022][^shea-1991]
+Perhaps at this time, though certainly by 1628, Descartes had the fundamental insight that makes analytic geometry possible: the technique for describing lines of various sorts by using mathematical equations involving ratios between lengths in relation to coordinate lines. (Descartes did not require that the lines be perpendicular to one another.) Descartes himself did not foresee replacing geometrical constructions with algebraic formulas; rather, he viewed geometry as the basic mathematical science and he considered his algebraic techniques to provide an extension beyond compass-and-ruler constructions. When the right-angled coordinate system of algebraic geometry was subsequently developed, the name “Cartesian coordinates” honored Descartes’ discovery. (See Boyer 1968, Ch. 17, Shea 1991, Ch. 3, and, more generally, Domski 2022.)[^domski-2022][^shea-1991][^shea-1991-2]
 
 Descartes left Breda in 1619 to join the Catholic army of Maximilian I (Duke of Bavaria and ally of France). The war concerned the authority of Ferdinand II, a Catholic, who in September had been crowned emperor of the Holy Roman Empire (located in Central Europe and including Austria and parts of northern Italy). Descartes attended the coronation and was returning to the army when winter caught him in the small town of Ulm (or perhaps Neuburg), not far from Munich. On the night of 10 November 1619, he had three dreams that seemed to provide him with a mission in life. The dreams themselves are interesting and complex (see Sebba 1987)[^sebba-1987]. Descartes took from them the message that he should set out to reform all knowledge. He decided to begin with philosophy, since the principles of the other sciences must be derived from it (*Disc*. II, 6:21–2).
 
@@ -229,7 +229,7 @@ Although Descartes nominally subscribed to the biblical story of creation, in hi
 
 Descartes also wanted to provide an account of the formation of plants and animals by mechanical causes (*Disc*. V, 6:44–45), but he did not succeed in framing an account that he was willing to publish (so that only portions of his physiology were revealed in the *Discourse*, *Dioptrics*, *Meditations*, *Principles*, and *Passions*). In writings that were published only posthumously (in 1664), including the *Treatise on Man*, he developed an extensive physiological description of animal bodies, in which he explained the functions of life in a purely mechanical manner, without appeal to a soul or vital principle. (The *Treatise on Man* was circulated in manuscript form during Descartes’ lifetime [5:112].) The *Description of the Human Body* (1664) included his speculations on embryogenesis.
 
-In mechanizing the concept of living thing, Descartes did not deny the distinction between living and nonliving, but he redrew the line between ensouled and unensouled beings. In his view, among earthly beings, only humans have souls. He thus equated soul with mind: souls account for intellection and volition, including conscious sensory experiences, conscious experience of images, and consciously experienced memories. He regarded nonhuman animals as machines, devoid of mind and consciousness, and hence lacking in sentience. (Although Descartes’ followers understood him to have denied all feeling to animals, some recent scholars question this interpretation; on this controversy, see Cottingham 1998 and Hatfield 2008.)[^cottingham-1998][^hatfield-2008] Consequently, Descartes was required to explain all of the powers that Aristotelians had ascribed to the vegetative and sensitive soul by means of purely material and mechanistic processes (*Man* 11:202). These mechanistic explanations extended not merely to nutrition, growth, and reproduction, but also to the functions of the external and internal senses, including the ability of nonhuman animals to respond via their sense organs in a situationally appropriate manner: to approach things that are beneficial to their body (including food) and to avoid danger (as the sheep avoids the wolf).
+In mechanizing the concept of living thing, Descartes did not deny the distinction between living and nonliving, but he redrew the line between ensouled and unensouled beings. In his view, among earthly beings, only humans have souls. He thus equated soul with mind: souls account for intellection and volition, including conscious sensory experiences, conscious experience of images, and consciously experienced memories. He regarded nonhuman animals as machines, devoid of mind and consciousness, and hence lacking in sentience. (Although Descartes’ followers understood him to have denied all feeling to animals, some recent scholars question this interpretation; on this controversy, see Cottingham 1998 and Hatfield 2008.)[^cottingham-1998][^hatfield-2008][^cottingham-1998-2] Consequently, Descartes was required to explain all of the powers that Aristotelians had ascribed to the vegetative and sensitive soul by means of purely material and mechanistic processes (*Man* 11:202). These mechanistic explanations extended not merely to nutrition, growth, and reproduction, but also to the functions of the external and internal senses, including the ability of nonhuman animals to respond via their sense organs in a situationally appropriate manner: to approach things that are beneficial to their body (including food) and to avoid danger (as the sheep avoids the wolf).
 
 In the *Treatise on Man* and *Passions*, Descartes described purely mechanical processes in the sense organs, brain, and muscles, that were to account for the functions of the sensitive soul. These processes involved “animal spirits,” or fine fluid matter as distilled from the blood at the base of the brain and distributed down the nerves to cause muscle motions in accordance with current sensory stimulation. The brain structures that mediate behavior may be innate or acquired. Descartes ascribed some things that animals do to instinct; he explained other aspects of their behavior through a kind of mechanistic associative memory. He regarded human physiology as similar to nonhuman animal physiology, anent both vegetative and (some) sensitive functions—those sensitive functions that do not involve consciousness or intelligence:
 
@@ -283,7 +283,7 @@ The passions do not respond to all the properties that affect the external sense
 
 The other five passions present objects as good or bad for us. The passion of love makes us want to join ourselves willingly with its object; hatred makes us want to separate ourselves. Desire is a future-oriented feeling of wanting something it represents as good to be the case. Joy arises from the present possession of a good thing; sadness arises when an evil is represented as pertaining to us (II.78–93). Again, these passions are caused by brain states that arise in the machine of the body. States arise in the brain which then prepare the body for behaviors and cause the felt passion. Here, Descartes speaks of brain states as “representations”; joy, for example, “is a pleasant emotion that the soul has when it enjoys a good that impressions in the brain represent to it as its own” (II.91). The *Passions* relies heavily on the mechanistic physiology in Descartes’ earlier works.
 
-Descartes’ theory of the passions is complex and covers many aspects, including the role of the brain, the role of judgment in triggering passions, and the passions in morality. Entrance to the literature can be found in Brown (2006)[^brown-2006], Rutherford (2021)[^rutherford-2021], Shapiro (2003)[^shapiro-2003], and Hatfield (2007)[^hatfield-2007].
+Descartes’ theory of the passions is complex and covers many aspects, including the role of the brain, the role of judgment in triggering passions, and the passions in morality. Entrance to the literature can be found in Brown (2006)[^brown-2006], Rutherford (2021)[^rutherford-2021], Shapiro (2003)[^shapiro-2003][^shapiro-2003-2], and Hatfield (2007)[^hatfield-2007].
 
 ## 7. Reception and Legacy
 
@@ -343,47 +343,6 @@ Ordered chronologically. Not exhaustive.
 
 #### Other Readings
 
-- Alanen, Lilli, 1994, “Sensory Ideas, Objective Reality, and Material Falsity”, in John Cottingham (ed.), *Reason, Will, and Sensation: Studies in Descartes’s Metaphysics*, Oxford: Clarendon Press, 229–50.
-- Ariew, Roger, 2011, *Descartes among the Scholastics*, Leiden: Brill.
-- Broughton, Janet, 2002, *Descartes’s Method of Doubt*, Princeton: Princeton University Press.
-- Broughton, Janet, and John Carriero (eds.), 2008, *Companion to Descartes*, Malden, Mass.: Blackwell.
-- Brown, Deborah J., 2012, “Cartesian Functional Analysis”, *Australasian Journal of Philosophy*, 90(1): 75–92.
-- Carriero, John, 2009, *Between Two Worlds: A Reading of Descartes’s Meditations*, Princeton: Princeton University Press.
-- Clarke, Desmond M., 1982, *Descartes’ Philosophy of Science*, University Park: Pennsylvania State University Press.
-- Cottingham, John (ed.), 1992, *Cambridge Companion to Descartes*, Cambridge: Cambridge University Press.
-- ––– (ed.), 1994, *Reason, Will and Sensation: Studies in Descartes’s Metaphysics*, Oxford: Clarendon Press.
-- ––– (ed.), 1998, *Descartes*, Oxford: Oxford University Press.
-- Cunning, David, 2010, *Argument and Persuasion in Descartes’ Meditations*, Oxford: Oxford University Press.
-- Des Chene, Dennis, 1996, *Physiologia: Natural Philosophy in Late Aristotelian and Cartesian Thought*, Ithaca: Cornell University Press.
-- Detlefsen, Karen (ed.), 2013, *Descartes’ Meditations: A Critical Guide*, Cambridge: Cambridge University Press.
-- Dicker, Georges, 2013, *Descartes: An Analytical and Historical Introduction*, 2nd edn., New York: Oxford University Press.
-- Dobre, Mihnea, and Tammy Nyden (eds.), 2013, *Cartesian Empiricisms*, Dordrecht: Springer.
-- Flage, Daniel E., and Clarence A. Bonnen, 1999, *Descartes and Method: A Search for a Method in Meditations*, London: Routledge.
-- Frankfurt, Harry G., 1970, *Demons, Dreamers, and Madmen*, Indianapolis: Bobbs-Merrill.
-- Gaukroger, Stephen (ed.), 2006, *The Blackwell Guide to Descartes’ Meditations*, Malden, Mass.: Blackwell.
-- Gaukroger, Stephen, John Schuster, and John Sutton (eds.), 2000, *Descartes’ Natural Philosophy*, London: Routledge.
-- Gaukroger, Stephen, and Catherine Wilson (eds.), 2017, *Descartes and Cartesianism: Essays in Honour of Desmond Clarke*, Oxford: Oxford University Press.
-- Grene, Marjorie, 1985, *Descartes*, Minneapolis: University of Minnesota Press.
-- Guèroult, Martial, 1984–85, *Descartes’ Philosophy Interpreted According to the Order of Reasons*, trans. R. Ariew, 2 vols., Minneapolis: University of Minnesota Press.
-- Hatfield, Gary, 1986, “The Senses and the Fleshless Eye: The *Meditations* as Cognitive Exercises”, in Amèlie Rorty (ed.), *Essays on Descartes’ Meditations*, Berkeley: University of California Press, 45–79.
-- –––, 2014. *Descartes’ Meditations*, London: Routledge.
-- Kenny, Anthony, 1968, *Descartes: A Study of His Philosophy*, New York: Random House.
-- Laudens, Laurens, 1966, “The Clock Metaphor and Probabilism: The Impact of Descartes on English Methodological Thought, 1650–65”, *Annals of Science,* 22: 74–104.
-- Manning, Gideon, 2012, “Descartes’ Healthy Machines and the Human Exception”, in Sophie Roux and Dan Garber (eds.), *The Mechanization of Natural Philosophy*, New York: Kluwer, 237–62.
-- Menn, Stephen, 1998, *Descartes and Augustine*, Cambridge: Cambridge University Press.
-- Nelson, Alan (ed.), 2005, *Blackwell Companion to Rationalism*, Oxford: Blackwell.
-- Rorty, Amélie (ed.), 1986, *Essays on Descartes’ Meditations*, Berkeley: University of California Press.
-- Rozemond, Marleen, 1998, *Descartes’s Dualism*, Cambridge: Harvard University Press.
-- Secada, Jorge, 2000, *Cartesian Metaphysics: The Late Scholastic Origins of Modern Philosophy*, Cambridge: Cambridge University Press.
-- Shapiro, Lisa, 2003, “The Health of the Body-Machine? 17th Century Mechanism and the Concept of Health”, *Perspectives on Science*, 11: 421–42.
-- Shea, William R., 1991, *Magic of Numbers and Motion*, Canton, Mass.: Science History Publications.
-- Simmons, Alison, 1999, “Are Cartesian Sensations Representational?” *Noûs*, 33: 347–69.
-- –––, 2001, “Sensible Ends: Latent Teleology in Descartes’ Account of Sensation”, *Journal of the History of Philosophy*, 39: 49–75.
-- Smith, Norman Kemp, 1953, *New Studies in the Philosophy of Descartes: Descartes as Pioneer,* London: Macmillan.
-- Voss, Stephen (ed.), 1993, *Essays on the Philosophy and Science of René Descartes*, New York: Oxford University Press.
-- Williams, Bernard, 1978, *Descartes, The Project of Pure Inquiry*, London: Penguin.
-- Wilson, Margaret D., 1978, *Descartes*, London: Routledge & Kegan Paul.
-
 ## Academic Tools
 
 > |   | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=descartes). |
@@ -418,55 +377,55 @@ The author thanks Elle Kirsch, who served as research assistant and offered many
 
 [^see-2002]: See Otegem 2002 for a full bibliography.
 
-[^see-1637]: 1637, *Discours de la methode pour bien conduire sa raison, & chercher la verité dans les sciences. Plus La dioptrique, Les meteores, et La geometrie. Qui sont des essais de cete Methode*, Leiden: Jan Maire. Digitized photographic reproduction (DPR) [Descartes 1637 online](https://gallica.bnf.fr/ark:/12148/btv1b86069594.r=.langEN) (pdf).
+[^descartes-1637]: 1637, *Discours de la methode pour bien conduire sa raison, & chercher la verité dans les sciences. Plus La dioptrique, Les meteores, et La geometrie. Qui sont des essais de cete Methode*, Leiden: Jan Maire. Digitized photographic reproduction (DPR) [Descartes 1637 online](https://gallica.bnf.fr/ark:/12148/btv1b86069594.r=.langEN) (pdf).
 
-[^see-1641]: 1641, *Meditationes de prima philosophia, in qua Dei existentia et animae immortalitas demonstrantur*, Paris: Michel Soly. DPR [Descartes 1641 online](https://gallica.bnf.fr/ark:/12148/btv1b86002964.r=.langEN) (pdf).
+[^descartes-1641]: 1641, *Meditationes de prima philosophia, in qua Dei existentia et animae immortalitas demonstrantur*, Paris: Michel Soly. DPR [Descartes 1641 online](https://gallica.bnf.fr/ark:/12148/btv1b86002964.r=.langEN) (pdf).
 
-[^see-1642]: 1642, *Meditationes de prima philosophia, in quibus Dei existentia & animae humanae à corpore distinctio demonstrantur: his adjunctae sunt variae objectiones doctorum virorum in istas de Deo & anima demonstrationes, cum responsionibus authoris*, Amsterdam: Elzevir, 2nd edn. The main title was changed from the first edition, which had promised to demonstrate “the immortality of the soul”; this edition promises to demonstrate “the distinction of the human soul from the body.” The seventh set of Objections and Replies, by Pierre Bourdin, first appeared in the second edition, along with Descartes’ letter to Father Dinet, Bourdin’s superior in the Jesuit order.
+[^descartes-1642]: 1642, *Meditationes de prima philosophia, in quibus Dei existentia & animae humanae à corpore distinctio demonstrantur: his adjunctae sunt variae objectiones doctorum virorum in istas de Deo & anima demonstrationes, cum responsionibus authoris*, Amsterdam: Elzevir, 2nd edn. The main title was changed from the first edition, which had promised to demonstrate “the immortality of the soul”; this edition promises to demonstrate “the distinction of the human soul from the body.” The seventh set of Objections and Replies, by Pierre Bourdin, first appeared in the second edition, along with Descartes’ letter to Father Dinet, Bourdin’s superior in the Jesuit order.
 
-[^see-1643]: 1643, *Epistola ad celeberrimum virum D. Gisbertum Voetium*, Amsterdam: Elzivir. DPR [Descartes 1643 online](https://gallica.bnf.fr/ark:/12148/btv1b86015062.r=descartes%20epistola%20ad%20voetium?rk=64378;0) (pdf). Published in Dutch the same year. A related polemical work appeared posthumously (1656; see Verbeek 1988).
+[^descartes-1643]: 1643, *Epistola ad celeberrimum virum D. Gisbertum Voetium*, Amsterdam: Elzivir. DPR [Descartes 1643 online](https://gallica.bnf.fr/ark:/12148/btv1b86015062.r=descartes%20epistola%20ad%20voetium?rk=64378;0) (pdf). Published in Dutch the same year. A related polemical work appeared posthumously (1656; see Verbeek 1988).
 
-[^see-1644a]: 1644a, *Principia philosophiae*, Amsterdam: Elzevir. DPR [Descartes 1644a online](https://gallica.bnf.fr/ark:/12148/btv1b8601507g?rk=21459;2) (pdf and tiff).
+[^descartes-1644a]: 1644a, *Principia philosophiae*, Amsterdam: Elzevir. DPR [Descartes 1644a online](https://gallica.bnf.fr/ark:/12148/btv1b8601507g?rk=21459;2) (pdf and tiff).
 
-[^see-1644b]: 1644b, *Specimina philosophiae, seu Dissertatio de methodo recte regendae rationis & veritatis in scientiis investigandae: Dioptrice et Meteora*, trans. Etienne de Courcelles, Amsterdam: Elzevir. DPR [Descartes 1644b online](https://gallica.bnf.fr/ark:/12148/btv1b8601508w.r=.langEN) (pdf).
+[^descartes-1644b]: 1644b, *Specimina philosophiae, seu Dissertatio de methodo recte regendae rationis & veritatis in scientiis investigandae: Dioptrice et Meteora*, trans. Etienne de Courcelles, Amsterdam: Elzevir. DPR [Descartes 1644b online](https://gallica.bnf.fr/ark:/12148/btv1b8601508w.r=.langEN) (pdf).
 
-[^see-1647a]: 1647a, *Les meditations metaphysiques, touchant la premiere philosophie, dans lesquelles l’existence de Dieu, & la distinction réele entre l’ame & le corps de l’homme, sont demonstrées: et les Objections faites contre ces Meditations par diverses personnes tres-doctes, avec les réponses de l’Auteur*, trans. Louis-Charles d’Albert, duc de Luynes (*Meds*.) and Claude Clerselier (Objections and Replies). Paris: Jean Camusat and Pierre Le Petit. DPR [Descartes 1647 online](https://gallica.bnf.fr/ark:/12148/btv1b86015099.r=.langEN) (pdf). The Seventh Objections and Replies appeared first in the 2nd French edn. (1661).
+[^descartes-1647a]: 1647a, *Les meditations metaphysiques, touchant la premiere philosophie, dans lesquelles l’existence de Dieu, & la distinction réele entre l’ame & le corps de l’homme, sont demonstrées: et les Objections faites contre ces Meditations par diverses personnes tres-doctes, avec les réponses de l’Auteur*, trans. Louis-Charles d’Albert, duc de Luynes (*Meds*.) and Claude Clerselier (Objections and Replies). Paris: Jean Camusat and Pierre Le Petit. DPR [Descartes 1647 online](https://gallica.bnf.fr/ark:/12148/btv1b86015099.r=.langEN) (pdf). The Seventh Objections and Replies appeared first in the 2nd French edn. (1661).
 
-[^see-1647b]: 1647b, *Les principes de la philosophie*, trans. Claude Picot, Paris: Henry Le Gras. DPR [Descartes 1647b online](https://gallica.bnf.fr/ark:/12148/btv1b8600298z.r=.langEN) (pdf). Descartes added an “Author’s letter” to the translation, as a preface.
+[^descartes-1647b]: 1647b, *Les principes de la philosophie*, trans. Claude Picot, Paris: Henry Le Gras. DPR [Descartes 1647b online](https://gallica.bnf.fr/ark:/12148/btv1b8600298z.r=.langEN) (pdf). Descartes added an “Author’s letter” to the translation, as a preface.
 
-[^see-1649]: 1649, *A discourse of a method for the well guiding of reason, and the discovery of truth in the sciences*, London: Thomas Newcombe. Available through Early Modern Books (EMB), accessible through many College and University libraries.
+[^descartes-1649]: 1649, *A discourse of a method for the well guiding of reason, and the discovery of truth in the sciences*, London: Thomas Newcombe. Available through Early Modern Books (EMB), accessible through many College and University libraries.
 
-[^see-1649a]: 1649a, *Geometria*, trans. Frans van Schooten, Leiden: Jan Maire. DPR [Descartes 1649a online](https://gallica.bnf.fr/ark:/12148/btv1b8601510z?rk=128756;0) (pdf).
+[^descartes-1649a]: 1649a, *Geometria*, trans. Frans van Schooten, Leiden: Jan Maire. DPR [Descartes 1649a online](https://gallica.bnf.fr/ark:/12148/btv1b8601510z?rk=128756;0) (pdf).
 
-[^see-1649b]: 1649b, *Les passions de l’ame*, Paris: Henry Le Gras. DPR [Descartes 1649b online](https://gallica.bnf.fr/ark:/12148/btv1b8601505n.r=.langEN) (pdf).
+[^descartes-1649b]: 1649b, *Les passions de l’ame*, Paris: Henry Le Gras. DPR [Descartes 1649b online](https://gallica.bnf.fr/ark:/12148/btv1b8601505n.r=.langEN) (pdf).
 
-[^see-1650a]: 1650a, *Compendium musicae*, Utrecht: Gijsbert van Zijll and Dirck van Ackersdijck. DPR [Descartes 1650a online](https://gallica.bnf.fr/ark:/12148/btv1b8601512s/f1.item.r=compendium%20musicae) (pdf).
+[^descartes-1650a]: 1650a, *Compendium musicae*, Utrecht: Gijsbert van Zijll and Dirck van Ackersdijck. DPR [Descartes 1650a online](https://gallica.bnf.fr/ark:/12148/btv1b8601512s/f1.item.r=compendium%20musicae) (pdf).
 
-[^see-1650b]: 1650b, *Meditationes de prima philosophia, in quibus Dei existentia, & animæ humanæ à corpore distinctio, demonstrantur: his adjunctæ sunt variæ objectiones doctorum virorum in istas de Deo & anima demonstrationes; cum responsionibus authoris*, Amsterdam: Elzevir, 3rd edn. DPR [Descartes 1650b online](https://gallica.bnf.fr/ark:/12148/btv1b8601514m?rk=21459;2#) (pdf).
+[^descartes-1650b]: 1650b, *Meditationes de prima philosophia, in quibus Dei existentia, & animæ humanæ à corpore distinctio, demonstrantur: his adjunctæ sunt variæ objectiones doctorum virorum in istas de Deo & anima demonstrationes; cum responsionibus authoris*, Amsterdam: Elzevir, 3rd edn. DPR [Descartes 1650b online](https://gallica.bnf.fr/ark:/12148/btv1b8601514m?rk=21459;2#) (pdf).
 
-[^see-1650c]: 1650c, *Passiones animae*, Henry Desmarets (trans.), Amsterdam: Elzevir. DPR [Descartes 1650c online](https://gallica.bnf.fr/ark:/12148/btv1b86120184.r=.langEN) (pdf).
+[^descartes-1650c]: 1650c, *Passiones animae*, Henry Desmarets (trans.), Amsterdam: Elzevir. DPR [Descartes 1650c online](https://gallica.bnf.fr/ark:/12148/btv1b86120184.r=.langEN) (pdf).
 
-[^see-1650d]: 1650d, *The passions of the soule*, London: John Martin and John Ridley. Available through EMB.
+[^descartes-1650d]: 1650d, *The passions of the soule*, London: John Martin and John Ridley. Available through EMB.
 
-[^see-1653]: 1653, *Compendium of musick: With necessary and judicious animadversions thereupon*, William Brouncker (trans.), London: Thomas Harper. DPR [Descartes 1653 online](https://gallica.bnf.fr/ark:/12148/bpt6k581068?rk=64378;0) (pdf).
+[^descartes-1653]: 1653, *Compendium of musick: With necessary and judicious animadversions thereupon*, William Brouncker (trans.), London: Thomas Harper. DPR [Descartes 1653 online](https://gallica.bnf.fr/ark:/12148/bpt6k581068?rk=64378;0) (pdf).
 
-[^see-1656]: 1656, *Querela apologetica*, Groningen: Misopodem. A response to Voetius, written in 1648 in French and translated into Dutch and Latin (Otegem 2:472–75).
+[^descartes-1656]: 1656, *Querela apologetica*, Groningen: Misopodem. A response to Voetius, written in 1648 in French and translated into Dutch and Latin (Otegem 2:472–75).
 
-[^see-1657]: 1657–67, *Lettres, où sont traittées les plus belles questions de la morale, physique, medecine, et des mathematiques*, 3 vols., Claude Clerseliers (ed.), Paris: Charles Angot. DPRs online, [Descartes Lettres, Vol. 1](https://gallica.bnf.fr/ark:/12148/bpt6k5401225s.r=.langEN), [Descartes Lettres, Vol. 2](https://gallica.bnf.fr/ark:/12148/bpt6k58378332.r=.langEN), [Descartes Lettres, Vol. 3](https://gallica.bnf.fr/ark:/12148/bpt6k54012281.r=.langEN) (pdf).
+[^descartes-1657]: 1657–67, *Lettres, où sont traittées les plus belles questions de la morale, physique, medecine, et des mathematiques*, 3 vols., Claude Clerseliers (ed.), Paris: Charles Angot. DPRs online, [Descartes Lettres, Vol. 1](https://gallica.bnf.fr/ark:/12148/bpt6k5401225s.r=.langEN), [Descartes Lettres, Vol. 2](https://gallica.bnf.fr/ark:/12148/bpt6k58378332.r=.langEN), [Descartes Lettres, Vol. 3](https://gallica.bnf.fr/ark:/12148/bpt6k54012281.r=.langEN) (pdf).
 
-[^see-1662]: 1662, *De homine figuris*, trans. Florent Schuyl, Leiden: Leffen and Moyardum. DPR [Descartes 1662 online](https://gallica.bnf.fr/Search?q=bpt6k57493m) (pdf). A Latin translation of the original French, which was published as *L’Homme* in 1664.
+[^descartes-1662]: 1662, *De homine figuris*, trans. Florent Schuyl, Leiden: Leffen and Moyardum. DPR [Descartes 1662 online](https://gallica.bnf.fr/Search?q=bpt6k57493m) (pdf). A Latin translation of the original French, which was published as *L’Homme* in 1664.
 
-[^see-1664a]: 1664a, *Le monde, ou, Le traite de la lumiere, et des autres principaux objects des sens*, Paris: Girard. DPR [Descartes 1664a online](https://gallica.bnf.fr/ark:/12148/bpt6k5534491g.r=.langEN) (pdf).
+[^descartes-1664a]: 1664a, *Le monde, ou, Le traite de la lumiere, et des autres principaux objects des sens*, Paris: Girard. DPR [Descartes 1664a online](https://gallica.bnf.fr/ark:/12148/bpt6k5534491g.r=.langEN) (pdf).
 
-[^see-1664b]: 1664b, *L’homme, et un Traitté de la formation du foetus*, Claude Clerselier (ed.), Paris: Charles Angot. DPR [Descartes 1664b online](https://gallica.bnf.fr/Search?q=bpt6k574850) (pdf). This is the first edition of Descartes’ original French. It includes Remarks by Louis de la Forge and a translation of Florentius Schuyl’s Preface to the Latin translation.
+[^descartes-1664b]: 1664b, *L’homme, et un Traitté de la formation du foetus*, Claude Clerselier (ed.), Paris: Charles Angot. DPR [Descartes 1664b online](https://gallica.bnf.fr/Search?q=bpt6k574850) (pdf). This is the first edition of Descartes’ original French. It includes Remarks by Louis de la Forge and a translation of Florentius Schuyl’s Preface to the Latin translation.
 
-[^see-1668]: 1668, *Abbregé de la musique*, Nicolas Poisson (trans.), Paris: Charles Angot. DPR [Descartes 1668 online](https://gallica.bnf.fr/ark:/12148/bpt6k57508t?rk=42918;4) (pdf).
+[^descartes-1668]: 1668, *Abbregé de la musique*, Nicolas Poisson (trans.), Paris: Charles Angot. DPR [Descartes 1668 online](https://gallica.bnf.fr/ark:/12148/bpt6k57508t?rk=42918;4) (pdf).
 
-[^see-1677]: 1677, *L’ Homme, et La formation du foetus, avec Les remarques de Louis de La Forge; à quoy l’on a ajouté Le monde ou Traité de la lumière*, Claude Clerselier (ed.), Paris: Theodore Girard, 2nd edition. *L’Homme* and *Le Monde* are brought together in this second edition. Clerselier had the firgures for *Le Monde* redrawn, and used a putatively more accurate manuscript for that work. DPR [Descartes 1677 online](https://gallica.bnf.fr/ark:/12148/bpt6k57486b?rk=85837;2) (pdf).
+[^descartes-1677]: 1677, *L’ Homme, et La formation du foetus, avec Les remarques de Louis de La Forge; à quoy l’on a ajouté Le monde ou Traité de la lumière*, Claude Clerselier (ed.), Paris: Theodore Girard, 2nd edition. *L’Homme* and *Le Monde* are brought together in this second edition. Clerselier had the firgures for *Le Monde* redrawn, and used a putatively more accurate manuscript for that work. DPR [Descartes 1677 online](https://gallica.bnf.fr/ark:/12148/bpt6k57486b?rk=85837;2) (pdf).
 
-[^see-1680]: 1680, *Six metaphysical meditations wherein it is proved that there is a God and that mans mind is really distinct from his body: hereunto are added the objections made against these meditations by Thomas Hobbes, with the authors answers*, William Molyneux (trans.), London: Benjamin Tooke. This translation of the six Meditations is reprinted in Gaukroger (2006). The entire book (including the Third Objections and Replies) is available through EMB.
+[^descartes-1680]: 1680, *Six metaphysical meditations wherein it is proved that there is a God and that mans mind is really distinct from his body: hereunto are added the objections made against these meditations by Thomas Hobbes, with the authors answers*, William Molyneux (trans.), London: Benjamin Tooke. This translation of the six Meditations is reprinted in Gaukroger (2006). The entire book (including the Third Objections and Replies) is available through EMB.
 
-[^see-1701]: 1701, *Opuscula posthuma, physica et mathematica*, Amsterdam: Blaeu. DPR [Descartes 1701 online](https://gallica.bnf.fr/ark:/12148/btv1b8612019j/f1.image.r=.langEN) (pdf). The first publication of the *Rules* in Latin (a Dutch translation had appeared in 1684), together with other writings.
+[^descartes-1701]: 1701, *Opuscula posthuma, physica et mathematica*, Amsterdam: Blaeu. DPR [Descartes 1701 online](https://gallica.bnf.fr/ark:/12148/btv1b8612019j/f1.image.r=.langEN) (pdf). The first publication of the *Rules* in Latin (a Dutch translation had appeared in 1684), together with other writings.
 
 [^descartes-1936]: 1936–1963, *Correspondance*, Charles Adam and Gaston Milhaud (eds.), 8 vols., Paris: Presses Universitaires de France. A complete edition of the known correspondence at date, with French translations accompanying letters in Latin.
 
@@ -699,3 +658,83 @@ The author thanks Elle Kirsch, who served as research assistant and offered many
 [^williams-1986]: Williams, Michael, 1986, “Descartes and the Metaphysics of Doubt”, in Amélie Rorty (ed.), *Essays on Descartes’ Meditations*, Berkeley: University of California Press, 117–139.
 
 [^wolf-devine-1993]: Wolf-Devine, Celia, 1993, *Descartes on Seeing: Epistemology and Visual Perception*, Carbondale, IL: Southern Illinois University Press.
+
+[^alanen-1994]: Alanen, Lilli, 1994, “Sensory Ideas, Objective Reality, and Material Falsity”, in John Cottingham (ed.), *Reason, Will, and Sensation: Studies in Descartes’s Metaphysics*, Oxford: Clarendon Press, 229–50.
+
+[^ariew-2011]: Ariew, Roger, 2011, *Descartes among the Scholastics*, Leiden: Brill.
+
+[^broughton-2002]: Broughton, Janet, 2002, *Descartes’s Method of Doubt*, Princeton: Princeton University Press.
+
+[^broughton-2008]: Broughton, Janet, and John Carriero (eds.), 2008, *Companion to Descartes*, Malden, Mass.: Blackwell.
+
+[^brown-2012]: Brown, Deborah J., 2012, “Cartesian Functional Analysis”, *Australasian Journal of Philosophy*, 90(1): 75–92.
+
+[^carriero-2009]: Carriero, John, 2009, *Between Two Worlds: A Reading of Descartes’s Meditations*, Princeton: Princeton University Press.
+
+[^clarke-1982]: Clarke, Desmond M., 1982, *Descartes’ Philosophy of Science*, University Park: Pennsylvania State University Press.
+
+[^cottingham-1992]: Cottingham, John (ed.), 1992, *Cambridge Companion to Descartes*, Cambridge: Cambridge University Press.
+
+[^cottingham-1994]: ––– (ed.), 1994, *Reason, Will and Sensation: Studies in Descartes’s Metaphysics*, Oxford: Clarendon Press.
+
+[^cottingham-1998-2]: ––– (ed.), 1998, *Descartes*, Oxford: Oxford University Press.
+
+[^cunning-2010]: Cunning, David, 2010, *Argument and Persuasion in Descartes’ Meditations*, Oxford: Oxford University Press.
+
+[^des-1996]: Des Chene, Dennis, 1996, *Physiologia: Natural Philosophy in Late Aristotelian and Cartesian Thought*, Ithaca: Cornell University Press.
+
+[^detlefsen-2013]: Detlefsen, Karen (ed.), 2013, *Descartes’ Meditations: A Critical Guide*, Cambridge: Cambridge University Press.
+
+[^dicker-2013]: Dicker, Georges, 2013, *Descartes: An Analytical and Historical Introduction*, 2nd edn., New York: Oxford University Press.
+
+[^dobre-2013]: Dobre, Mihnea, and Tammy Nyden (eds.), 2013, *Cartesian Empiricisms*, Dordrecht: Springer.
+
+[^flage-1999]: Flage, Daniel E., and Clarence A. Bonnen, 1999, *Descartes and Method: A Search for a Method in Meditations*, London: Routledge.
+
+[^frankfurt-1970]: Frankfurt, Harry G., 1970, *Demons, Dreamers, and Madmen*, Indianapolis: Bobbs-Merrill.
+
+[^gaukroger-2006]: Gaukroger, Stephen (ed.), 2006, *The Blackwell Guide to Descartes’ Meditations*, Malden, Mass.: Blackwell.
+
+[^gaukroger-2000]: Gaukroger, Stephen, John Schuster, and John Sutton (eds.), 2000, *Descartes’ Natural Philosophy*, London: Routledge.
+
+[^gaukroger-2017]: Gaukroger, Stephen, and Catherine Wilson (eds.), 2017, *Descartes and Cartesianism: Essays in Honour of Desmond Clarke*, Oxford: Oxford University Press.
+
+[^grene-1985]: Grene, Marjorie, 1985, *Descartes*, Minneapolis: University of Minnesota Press.
+
+[^guèroult-1984]: Guèroult, Martial, 1984–85, *Descartes’ Philosophy Interpreted According to the Order of Reasons*, trans. R. Ariew, 2 vols., Minneapolis: University of Minnesota Press.
+
+[^hatfield-1986]: Hatfield, Gary, 1986, “The Senses and the Fleshless Eye: The *Meditations* as Cognitive Exercises”, in Amèlie Rorty (ed.), *Essays on Descartes’ Meditations*, Berkeley: University of California Press, 45–79.
+
+[^hatfield-2014]: –––, 2014. *Descartes’ Meditations*, London: Routledge.
+
+[^kenny-1968]: Kenny, Anthony, 1968, *Descartes: A Study of His Philosophy*, New York: Random House.
+
+[^laudens-1966]: Laudens, Laurens, 1966, “The Clock Metaphor and Probabilism: The Impact of Descartes on English Methodological Thought, 1650–65”, *Annals of Science,* 22: 74–104.
+
+[^manning-2012]: Manning, Gideon, 2012, “Descartes’ Healthy Machines and the Human Exception”, in Sophie Roux and Dan Garber (eds.), *The Mechanization of Natural Philosophy*, New York: Kluwer, 237–62.
+
+[^menn-1998]: Menn, Stephen, 1998, *Descartes and Augustine*, Cambridge: Cambridge University Press.
+
+[^nelson-2005]: Nelson, Alan (ed.), 2005, *Blackwell Companion to Rationalism*, Oxford: Blackwell.
+
+[^rorty-1986]: Rorty, Amélie (ed.), 1986, *Essays on Descartes’ Meditations*, Berkeley: University of California Press.
+
+[^rozemond-1998]: Rozemond, Marleen, 1998, *Descartes’s Dualism*, Cambridge: Harvard University Press.
+
+[^secada-2000]: Secada, Jorge, 2000, *Cartesian Metaphysics: The Late Scholastic Origins of Modern Philosophy*, Cambridge: Cambridge University Press.
+
+[^shapiro-2003-2]: Shapiro, Lisa, 2003, “The Health of the Body-Machine? 17th Century Mechanism and the Concept of Health”, *Perspectives on Science*, 11: 421–42.
+
+[^shea-1991-2]: Shea, William R., 1991, *Magic of Numbers and Motion*, Canton, Mass.: Science History Publications.
+
+[^simmons-1999]: Simmons, Alison, 1999, “Are Cartesian Sensations Representational?” *Noûs*, 33: 347–69.
+
+[^simmons-2001]: –––, 2001, “Sensible Ends: Latent Teleology in Descartes’ Account of Sensation”, *Journal of the History of Philosophy*, 39: 49–75.
+
+[^smith-1953]: Smith, Norman Kemp, 1953, *New Studies in the Philosophy of Descartes: Descartes as Pioneer,* London: Macmillan.
+
+[^voss-1993]: Voss, Stephen (ed.), 1993, *Essays on the Philosophy and Science of René Descartes*, New York: Oxford University Press.
+
+[^williams-1978]: Williams, Bernard, 1978, *Descartes, The Project of Pure Inquiry*, London: Penguin.
+
+[^wilson-1978]: Wilson, Margaret D., 1978, *Descartes*, London: Routledge & Kegan Paul.

@@ -412,29 +412,29 @@ Bolzano, Bernard | Husserl, Edmund | Tarski, Alfred
 
 [^vol-nd-4]: Vol. IV: §§391–718.
 
-[^vol-1841]: 1841, *Wissenschaftslehre und Religionswissenschaft in einer beurtheilenden Uebersicht*, Sulzbach: Seidel; *Gesamtausgabe*, I, 17.
+[^bolzano-logic-1841]: 1841, *Wissenschaftslehre und Religionswissenschaft in einer beurtheilenden Uebersicht*, Sulzbach: Seidel; *Gesamtausgabe*, I, 17.
 
-[^vol-1842]: 1842, *Über die Zusammensetzung der Kräfte*, Prag; *Gesamtausgabe* I, 18, 9–60.
+[^bolzano-logic-1842]: 1842, *Über die Zusammensetzung der Kräfte*, Prag; *Gesamtausgabe* I, 18, 9–60.
 
-[^vol-1851]: 1851, *Paradoxien des Unendlichen* (*Paradoxes of the Infinite*), Leipzig; new editions: 1920 with notes by H. Hahn; 1975, Hamburg: F. Meiner, with notes by B. van Rootselaar; 2012, Hamburg: Meiner, C. Tapp (ed.), D.A. Steele (trans.), 1950, London: Routledge; new transl. S. Russ, Bolzano 2004b; French transl. Paris: Seuil 1993).
+[^bolzano-logic-1851]: 1851, *Paradoxien des Unendlichen* (*Paradoxes of the Infinite*), Leipzig; new editions: 1920 with notes by H. Hahn; 1975, Hamburg: F. Meiner, with notes by B. van Rootselaar; 2012, Hamburg: Meiner, C. Tapp (ed.), D.A. Steele (trans.), 1950, London: Routledge; new transl. S. Russ, Bolzano 2004b; French transl. Paris: Seuil 1993).
 
-[^vol-1932]: 1932, *Von dem besten Staate* (On the Best State), edited with an introduction by A. Kowalewski, Prag: Königliche böhmische Gesellschaft der Wissenschaften; *Gesamtausgabe* II A 14; Engl. transl. by P. Rusnock and R. George, in *Selected Writings on Ethics and Politics*, 2007, Amsterdam: Rodopi, pp. 231–359.
+[^bolzano-logic-1932]: 1932, *Von dem besten Staate* (On the Best State), edited with an introduction by A. Kowalewski, Prag: Königliche böhmische Gesellschaft der Wissenschaften; *Gesamtausgabe* II A 14; Engl. transl. by P. Rusnock and R. George, in *Selected Writings on Ethics and Politics*, 2007, Amsterdam: Rodopi, pp. 231–359.
 
-[^vol-1969]: 1969–present, *Bernard-Bolzano Gesamtausgabe* (complete works), Stuttgart-Bad Cannstatt: Fromann-Holzboog, editors E. Winter, J. Berg., et al., altogether 132 volumes of which 107 have appeared.
+[^bolzano-logic-1969]: 1969–present, *Bernard-Bolzano Gesamtausgabe* (complete works), Stuttgart-Bad Cannstatt: Fromann-Holzboog, editors E. Winter, J. Berg., et al., altogether 132 volumes of which 107 have appeared.
 
-[^vol-1972]: 1972, *Theory of science, attempt at a detailed and in the main novel exposition of logic with constant attention to earlier authors*, edited and translated by Rolf George, Berkeley and Los Angeles: University of California Press (a selection).
+[^bolzano-logic-1972]: 1972, *Theory of science, attempt at a detailed and in the main novel exposition of logic with constant attention to earlier authors*, edited and translated by Rolf George, Berkeley and Los Angeles: University of California Press (a selection).
 
-[^vol-1973]: 1973, *Theory of science*, edited, with an introduction, by Jan Berg, translated from the German by Burnham Terrell, Dordrecht and Boston: D. Reidel (a selection).
+[^bolzano-logic-1973]: 1973, *Theory of science*, edited, with an introduction, by Jan Berg, translated from the German by Burnham Terrell, Dordrecht and Boston: D. Reidel (a selection).
 
-[^vol-1976]: 1976, *Einleitung in die Grössenlehre* und *Erste Begriffe der allgemeinen Grössenlehre (Introduction to the Theory of Magnitudes and First concepts of the general Theory of Magnitudes, Gesamtausgabe)*, II A 7, (English translation of the chapter, *On the mathematical method*, 2004, Paul Rusnock and Rolf George, Amsterdam-New York: Rodopi; French translation, Paris: Vrin, 2008; see 2004a).
+[^bolzano-logic-1976]: 1976, *Einleitung in die Grössenlehre* und *Erste Begriffe der allgemeinen Grössenlehre (Introduction to the Theory of Magnitudes and First concepts of the general Theory of Magnitudes, Gesamtausgabe)*, II A 7, (English translation of the chapter, *On the mathematical method*, 2004, Paul Rusnock and Rolf George, Amsterdam-New York: Rodopi; French translation, Paris: Vrin, 2008; see 2004a).
 
-[^vol-1978]: 1978, *Grundlegung der Logik. Wissenschaftslehre I/II*, edited, with an introduction by Friedrich Kambartel, Hamburg: Felix Meiner (a selection; French transl. 2011, Paris: Gallimard).
+[^bolzano-logic-1978]: 1978, *Grundlegung der Logik. Wissenschaftslehre I/II*, edited, with an introduction by Friedrich Kambartel, Hamburg: Felix Meiner (a selection; French transl. 2011, Paris: Gallimard).
 
-[^vol-2004a]: 2004a, *On the mathematical method and correspondence with Exner*, Paul Rusnock and Rolf George (transl.), Amsterdam-New York: Rodopi; French transl. *De la méthode mathématique et correspondance avec Exner*, 2008, introd. par C. Maigné et J. Šebestík, Paris: Vrin.
+[^bolzano-logic-2004a]: 2004a, *On the mathematical method and correspondence with Exner*, Paul Rusnock and Rolf George (transl.), Amsterdam-New York: Rodopi; French transl. *De la méthode mathématique et correspondance avec Exner*, 2008, introd. par C. Maigné et J. Šebestík, Paris: Vrin.
 
-[^vol-2004b]: 2004b, *The mathematical works of Bernard Bolzano*, S. Russ (transl.), Oxford: Oxford University Press.
+[^bolzano-logic-2004b]: 2004b, *The mathematical works of Bernard Bolzano*, S. Russ (transl.), Oxford: Oxford University Press.
 
-[^vol-2010]: 2010, *Premiers écrits, Philosophie, logique, mathématique*, trad. fr. par M. Bartzel et al., introd. par C. Maigné et J. Šebestík, Paris: Vrin.
+[^bolzano-logic-2010]: 2010, *Premiers écrits, Philosophie, logique, mathématique*, trad. fr. par M. Bartzel et al., introd. par C. Maigné et J. Šebestík, Paris: Vrin.
 
 [^arnauld-1662]: Arnauld, A. and P. Nicole, 1662, *Logique ou l’Art de Penser* (also called *Logique de Port-Royal* and *Port-Royal Logic*); reprinted Paris: Vrin, 1993.
 
@@ -638,7 +638,7 @@ Bolzano, Bernard | Husserl, Edmund | Tarski, Alfred
 
 [^laz-1993]: Laz, J., 1993, *Bolzano critique de Kant*, Paris: Vrin.
 
-[^laz-1970]: Łukasiewicz, J., 1970, *The logical foundations of probability calculus*, in *Selected Works*, Amsterdam: North Holland.
+[^bolzano-logic-1970]: Łukasiewicz, J., 1970, *The logical foundations of probability calculus*, in *Selected Works*, Amsterdam: North Holland.
 
 [^mačák-1996]: Mačák, K., 1996, “Bernard Bolzano and the calculus of probabilities,” (in Czech), in *Mathematics in the 19th century*, Prague: Prometheus, pp. 39–55.
 

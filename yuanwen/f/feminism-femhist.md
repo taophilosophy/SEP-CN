@@ -61,7 +61,7 @@ Consider that *The Encyclopedia of Philosophy* (Edwards 1967)[^edwards-1967], pu
 
 The project of retrieving women philosophers has a paradoxical relationship with contemporary feminist theory, however. On the one hand, it is clearly a feminist project; its originators were interested in establishing that women have been philosophers throughout the history of the discipline despite their routine omission from standard histories and encyclopedias of philosophy. However, the newly-recovered women philosophers suggest that there is little overlap among three groups: women philosophers, feminine philosophers, and feminist philosophers. For many of the newly discovered women philosophers were not feminist thinkers nor did they write philosophy in a feminine voice, different from their male counterparts. Indeed, their breadth of philosophical interests is comparable to that of male philosophers although their domain of application sometimes differs. In her introduction to *A History of Women Philosophers* Mary Ellen Waithe comments
 
-> If we except the Pythagorean women, we find little differences in the ways men and women did philosophy. Both have been concerned with ethics, metaphysics, cosmology, epistemology and other areas of philosophic inquiry. (Waithe 1987: xxi)[^waithe-1987][^waithe-1987-2]
+> If we except the Pythagorean women, we find little differences in the ways men and women did philosophy. Both have been concerned with ethics, metaphysics, cosmology, epistemology and other areas of philosophic inquiry. (Waithe 1987: xxi)[^waithe-1987]
 
 And another editor, Mary Warnock, comments “In the end, I have not found any clear ‘voice’ shared by women philosophers” (Warnock 1996: xlvii)[^warnock-1996]. The women philosophers restored to the tradition by feminist hands are not all proto-feminists nor do they speak in a uniform, and different, voice from their male peers.
 
@@ -105,7 +105,7 @@ At the same time as these strategies in retrieving the philosophy of early moder
 
 ### 2.2 Women in Medieval Philosophy
 
-Scholars of medieval philosophy have finally achieved widespread consensus that philosophy between the fourth and sixteenth centuries can be found in any number of places that aren’t simply texts written by Christian men in the so-called ‘Latin West’. Contemporary studies of European medieval philosophy thus increasingly address Greek, Jewish, and Islamic texts in addition to the Latin Christian ‘canon’ (see Marenbon 2007; Hyman, Walsh, & Williams 2010; and Adamson 2019)[^adamson-2019][^hyman-2010][^marenbon-2007]. Yet, on the whole, philosophical scholarship continues to ignore female-authored texts from the Middle Ages. The reason for this is simple, if pernicious: traditional conceptions of medieval philosophy as taking place in monasteries, religious schools, and university settings rule out the possibility of women-authored texts because women were excluded from participating in those settings in the Christian (both Latin and Greek), Islamic, and Jewish worlds. (See Allen 2006 for a careful study of primary texts justifying this exclusion as well as medieval responses to those texts.)[^allen-2006]
+Scholars of medieval philosophy have finally achieved widespread consensus that philosophy between the fourth and sixteenth centuries can be found in any number of places that aren’t simply texts written by Christian men in the so-called ‘Latin West’. Contemporary studies of European medieval philosophy thus increasingly address Greek, Jewish, and Islamic texts in addition to the Latin Christian ‘canon’ (see Marenbon 2007; Hyman, Walsh, & Williams 2010; and Adamson 2019)[^adamson-2019][^hyman-2010][^marenbon-2007]. Yet, on the whole, philosophical scholarship continues to ignore female-authored texts from the Middle Ages. The reason for this is simple, if pernicious: traditional conceptions of medieval philosophy as taking place in monasteries, religious schools, and university settings rule out the possibility of women-authored texts because women were excluded from participating in those settings in the Christian (both Latin and Greek), Islamic, and Jewish worlds. (See Allen 2006 for a careful study of primary texts justifying this exclusion as well as medieval responses to those texts.)
 
 In the past decade, however, there has been increasing recognition that the vast corpus of mystical and contemplative texts written by women throughout Europe in the thirteenth to the fifteenth centuries contains much of philosophical interest. Here we provide three brief examples of how medieval women engaged in central philosophical debates of their time. In order to appreciate their contributions, it is most helpful to take a topical rather than figure-based approach. Given that scholastic authors cite only figures widely recognized as authorities, women’s names do not appear in their texts; since women were excluded from university posts, we don’t have the sorts of records that allow us to trace the exchange of ideas and views between specific university masters. If we take a topic-based approach, however, we can place women’s writings into the general collage of developing views and important concepts. Our three examples concern the following topics: Self-knowledge and self-formation; reason’s role in human life; and the will’s role in human life
 
@@ -269,11 +269,11 @@ The authors note that Sections 2.2 and 2.4 of the 2021 update was written by the
 
 [^allen-nd]: Allen, Prudence, *The Concept of Woman*, 3 volumes, Grand Rapids: Wm. B. Eerdmans Publishing Co.
 
-[^allen-1997]: 1997, *Volume 1: The Aristotelian revolution, 750 BC–AD 1250*, originally published 1985, Montréal: Eden Press
+[^feminism-femhist-1997]: 1997, *Volume 1: The Aristotelian revolution, 750 BC–AD 1250*, originally published 1985, Montréal: Eden Press
 
-[^allen-2006]: 2006, *Volume II: The Early Humanist Reformation, 1250–1500*
+[^feminism-femhist-2006]: 2006, *Volume II: The Early Humanist Reformation, 1250–1500*
 
-[^allen-2016]: 2016, *Volume III: The Search for Communion of Persons, 1500–2015*
+[^feminism-femhist-2016]: 2016, *Volume III: The Search for Communion of Persons, 1500–2015*
 
 [^alcoff-2006]: Alcoff, Linda Martín, 2006, *Visible Identities: Race, Gender, and the Self* (Studies in Feminist Philosophy), New York/Oxford: Oxford University Press. doi:10.1093/0195137345.001.0001
 
@@ -643,11 +643,11 @@ The authors note that Sections 2.2 and 2.4 of the 2021 update was written by the
 
 [^waithe-1987]: Waithe, Mary Ellen (ed.), 1987–1991, *A History of Women Philosophers*, first three volumes, Boston/Dordrecht: Kluwer Academic Publishing.
 
-[^waithe-1987-2]: 1987, *Volume 1: Ancient Women Philosophers, 600 B.C.–500 A.D*
+[^feminism-femhist-1987]: 1987, *Volume 1: Ancient Women Philosophers, 600 B.C.–500 A.D*
 
-[^waithe-1989]: 1989, *Volume 2: Medieval, Renaissance, and Enlightenment Women Philosophers, A.D. 500–1600*
+[^feminism-femhist-1989]: 1989, *Volume 2: Medieval, Renaissance, and Enlightenment Women Philosophers, A.D. 500–1600*
 
-[^waithe-1991]: 1991, *Volume 3: Modern Women Philosophers, 1600–1900*
+[^feminism-femhist-1991]: 1991, *Volume 3: Modern Women Philosophers, 1600–1900*
 
 [^waithe-2023]: Waithe, Mary Ellen and Therese Boos Dykeman (eds), 2023, *Women Philosophers from Non-Western Traditions: The First Four Thousand Years* (Women in the History of Philosophy and Sciences), Cham: Springer International Publishing. doi:10.1007/978-3-031-28563-9
 

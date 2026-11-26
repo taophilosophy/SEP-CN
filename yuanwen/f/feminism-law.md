@@ -493,15 +493,15 @@ As of 2025, this entry is solely authored by Leslie Francis. Earlier versions we
 
 [^united-nd]: United Nations,
 
-[^united-1966]: 1966, [International Covenant on Civil and Political Rights (ICCPR)](https://treaties.un.org/doc/treaties/1976/03/19760323%2006-17%20am/ch_iv_04.pdf). Came into force 23 March 1976.
+[^feminism-law-1966]: 1966, [International Covenant on Civil and Political Rights (ICCPR)](https://treaties.un.org/doc/treaties/1976/03/19760323%2006-17%20am/ch_iv_04.pdf). Came into force 23 March 1976.
 
-[^united-1979]: 1979, [Convention on the Elimination of All Forms of Discrimination Against Women (CEDAW)](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-elimination-all-forms-discrimination-against-women). Came into force 3 September 1981.
+[^feminism-law-1979]: 1979, [Convention on the Elimination of All Forms of Discrimination Against Women (CEDAW)](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-elimination-all-forms-discrimination-against-women). Came into force 3 September 1981.
 
-[^united-1989]: 1989, [Convention on the Rights of the Child (CRC)](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child). Came into force 2 September 1990.
+[^feminism-law-1989]: 1989, [Convention on the Rights of the Child (CRC)](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child). Came into force 2 September 1990.
 
-[^united-1993]: 1993, [Declaration on the Elimination of Violence Against Women (DEVAW)](https://www.ohchr.org/en/instruments-mechanisms/instruments/declaration-elimination-violence-against-women). Ratified 20 December 1993.
+[^feminism-law-1993]: 1993, [Declaration on the Elimination of Violence Against Women (DEVAW)](https://www.ohchr.org/en/instruments-mechanisms/instruments/declaration-elimination-violence-against-women). Ratified 20 December 1993.
 
-[^united-2000]: 2000, [Protocol to Prevent, Suppress and Punish Trafficking in Persons, Especially Women and Children](https://www.ohchr.org/en/instruments-mechanisms/instruments/protocol-prevent-suppress-and-punish-trafficking-persons) (a Palermo Protocol). Came into force 25 December 2003. Supplements CEDAW.
+[^feminism-law-2000]: 2000, [Protocol to Prevent, Suppress and Punish Trafficking in Persons, Especially Women and Children](https://www.ohchr.org/en/instruments-mechanisms/instruments/protocol-prevent-suppress-and-punish-trafficking-persons) (a Palermo Protocol). Came into force 25 December 2003. Supplements CEDAW.
 
 [^charter-nd]: [Charter of Fundamental Rights of the European Union, Article 21 - Non-discrimination](https://fra.europa.eu/en/eu-charter/article/21-non-discrimination)
 

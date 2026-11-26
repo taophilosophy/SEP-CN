@@ -510,17 +510,17 @@ Chinese Philosophy: epistemology | Chinese Philosophy: ethics | Chinese Philosop
 
 [^legge-1885]: Legge, James (trans.), 1885–1891, *The Sacred Books of the East*, Oxford: Oxford University Press.
 
-[^text-1885a]: 1885a, *Volume 27, The Li Ki, I – X*.
+[^emotions-chinese-1885a]: 1885a, *Volume 27, The Li Ki, I – X*.
 
-[^text-1885b]: 1885b, *Volume 28, The Li Ki, XI – XLVI*.
+[^emotions-chinese-1885b]: 1885b, *Volume 28, The Li Ki, XI – XLVI*.
 
-[^text-1891]: 1891, *Volume 39, The Writings of Kwang-Tze, Books I – XVII*.
+[^emotions-chinese-1891]: 1891, *Volume 39, The Writings of Kwang-Tze, Books I – XVII*.
 
-[^text-1960]: ––– (trans.), 1960, *The Chinese Classics*, Hong Kong: Hong Kong University Press.
+[^emotions-chinese-1960]: ––– (trans.), 1960, *The Chinese Classics*, Hong Kong: Hong Kong University Press.
 
-[^text-1960a]: 1960a, Volume 1: *Confucian Analects, The Great Learning, and the Doctrine of the Mean*.
+[^emotions-chinese-1960a]: 1960a, Volume 1: *Confucian Analects, The Great Learning, and the Doctrine of the Mean*.
 
-[^text-1960b]: 1960b, Volume 2: *The Works of Mencius*.
+[^emotions-chinese-1960b]: 1960b, Volume 2: *The Works of Mencius*.
 
 [^mei-1929]: Mei, Yi-Pao (trans.), 1929, *The Ethical and Political Works of Motse*, Westport, CT: Hyperion Press.
 

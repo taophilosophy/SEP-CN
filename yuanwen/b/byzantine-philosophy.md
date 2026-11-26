@@ -640,9 +640,9 @@ afterlife | Alexander of Aphrodisias | Aristotle | Aristotle, commentators on | 
 
 [^schamp-1996b]: –––, 1996b, “La ‘localisation’ chez Photios. Traduction commentée de *Questions à Amphilochios* 145”, in *Aristotelica* *Secunda. Mélanges offerts à Chr. Rutten*, A. Motte and J. Denooz (eds.), Liège, pp. 265–279.
 
-[^schamp-1962]: Ševčenko, I., 1962, *La vie intellectuelle et politique à Byzance sous les premiers Paléologues: Études sur la polémique entre Théodore Métochite et Nicéphore Choumnos*, Brussels.
+[^byzantine-philosophy-1962]: Ševčenko, I., 1962, *La vie intellectuelle et politique à Byzance sous les premiers Paléologues: Études sur la polémique entre Théodore Métochite et Nicéphore Choumnos*, Brussels.
 
-[^schamp-1975]: –––, 1975, “Theodore Metochites, the Chora, and the Intellectual Trends of His Time”, in *The Kariye Djami.* Vol. 4. *Studies in the Art of the Kariye Djami and its Intellectual Background*, P. A. Underwood (ed.), London, 17–91.
+[^byzantine-philosophy-1975]: –––, 1975, “Theodore Metochites, the Chora, and the Intellectual Trends of His Time”, in *The Kariye Djami.* Vol. 4. *Studies in the Art of the Kariye Djami and its Intellectual Background*, P. A. Underwood (ed.), London, 17–91.
 
 [^siniossoglou-2011]: Siniossoglou, N., 2011, *Radical Platonism in Byzantium: Illumination and Utopia in Gemistos Plethon*, Cambridge: Cambridge University Press.
 

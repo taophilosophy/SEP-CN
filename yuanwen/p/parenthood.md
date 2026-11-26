@@ -580,7 +580,7 @@ We would like to thank Tim Bayne and Avery Kolers, the authors of the previous v
 
 [^holtug-2001]: Holtug, Nils, 2001, “On the Value of Coming into Existence,” *The Journal of Ethics*, 5: 361–84.
 
-[^holtug-1984]: hooks, bell, 1984, *Feminist Theory: From Margin to Center*, Boston: South End Press.
+[^parenthood-1984]: hooks, bell, 1984, *Feminist Theory: From Margin to Center*, Boston: South End Press.
 
 [^hubin-2003]: Hubin, Don, 2003, “Daddy Dilemmas: Untangling the Puzzles of Paternity,” *The Cornell Journal of Law and Public Policy*, 13: 29–80.
 

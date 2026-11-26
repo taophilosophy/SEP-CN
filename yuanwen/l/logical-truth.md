@@ -386,7 +386,7 @@ Tarski’s abstract method is also used by Beall and Restall (2000, 2006) to giv
 
 [^lewis-1986]: Lewis, D.K., 1986, *On the Plurality of Worlds*, Oxford: Blackwell.
 
-[^lewis-1957]: Łukasiewicz, J., 1957, *Aristotle’s Syllogistic from the Standpoint of Modern Formal Logic*, second edition, Oxford: Clarendon Press.
+[^logical-truth-1957]: Łukasiewicz, J., 1957, *Aristotle’s Syllogistic from the Standpoint of Modern Formal Logic*, second edition, Oxford: Clarendon Press.
 
 [^mccarthy-1981]: McCarthy, T., 1981, “The Idea of a Logical Constant”, *Journal of Philosophy*, 78: 499–523.
 

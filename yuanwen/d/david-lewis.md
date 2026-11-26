@@ -613,53 +613,53 @@ I’ve learned a lot over the years from talking about Lewis’s philosophy with
 
 [^scorekeeping-nd]: 1979f, “Scorekeeping in a Language Game,” *Journal of Philosophical Logic*, 8 (1): 339–359. doi:10.1007/BF00258436
 
-[^scorekeeping-1980a]: 1980a, “A Subjectivist’s Guide to Objective Chance,” in Richard C. Jeffrey (ed.), *Studies in Inductive Logic and Probability, Volume II*, Berkeley: University of California Press, pp. 263–293.
+[^david-lewis-1980a]: 1980a, “A Subjectivist’s Guide to Objective Chance,” in Richard C. Jeffrey (ed.), *Studies in Inductive Logic and Probability, Volume II*, Berkeley: University of California Press, pp. 263–293.
 
-[^scorekeeping-1980b]: 1980b, “Index, Context, and Content,” in Stig Kanger and Sven Öhman (eds.), *Philosophy and Grammar*, Dordrecht: Reidel, pp. 79–100.
+[^david-lewis-1980b]: 1980b, “Index, Context, and Content,” in Stig Kanger and Sven Öhman (eds.), *Philosophy and Grammar*, Dordrecht: Reidel, pp. 79–100.
 
-[^scorekeeping-1980c]: 1980c, “Mad Pain and Martian Pain,” in Ned Block (ed.), *Readings in Philosophy of Psychology, Volume I*, Cambridge, MA: Harvard University Press, pp. 216–32.
+[^david-lewis-1980c]: 1980c, “Mad Pain and Martian Pain,” in Ned Block (ed.), *Readings in Philosophy of Psychology, Volume I*, Cambridge, MA: Harvard University Press, pp. 216–32.
 
-[^scorekeeping-1980d]: 1980d, “Veridical Hallucination and Prosthetic Vision,” *Australasian Journal of Philosophy*, 58 (3): 239–249. doi:10.1080/00048408012341251
+[^david-lewis-1980d]: 1980d, “Veridical Hallucination and Prosthetic Vision,” *Australasian Journal of Philosophy*, 58 (3): 239–249. doi:10.1080/00048408012341251
 
-[^scorekeeping-1981a]: 1981a, “Are We Free to Break the Laws?,” *Theoria*, 47 (3): 113–121. doi:10.1111/j.1755-2567.1981.tb00473.x
+[^david-lewis-1981a]: 1981a, “Are We Free to Break the Laws?,” *Theoria*, 47 (3): 113–121. doi:10.1111/j.1755-2567.1981.tb00473.x
 
-[^scorekeeping-1981b]: 1981b, “Causal Decision Theory,” *Australasian Journal of Philosophy*, 59 (1): 5–30. doi:10.1080/00048408112340011
+[^david-lewis-1981b]: 1981b, “Causal Decision Theory,” *Australasian Journal of Philosophy*, 59 (1): 5–30. doi:10.1080/00048408112340011
 
-[^scorekeeping-1981c]: 1981c, “Ordering Semantics and Premise Semantics for Counterfactuals,” *Journal of Philosophical Logic*, 10 (2): 217–234. doi:10.1007/BF00248850
+[^david-lewis-1981c]: 1981c, “Ordering Semantics and Premise Semantics for Counterfactuals,” *Journal of Philosophical Logic*, 10 (2): 217–234. doi:10.1007/BF00248850
 
-[^scorekeeping-1981d]: 1981d, “What Puzzling Pierre Does Not Believe,” *Australasian Journal of Philosophy*, 59 (3): 283–289. doi:10.1080/00048408112340241
+[^david-lewis-1981d]: 1981d, “What Puzzling Pierre Does Not Believe,” *Australasian Journal of Philosophy*, 59 (3): 283–289. doi:10.1080/00048408112340241
 
-[^scorekeeping-1981e]: 1981e, “Why Ain’cha Rich?,” *Noûs*, 15 (3): 377–380. doi:10.2307/2215439
+[^david-lewis-1981e]: 1981e, “Why Ain’cha Rich?,” *Noûs*, 15 (3): 377–380. doi:10.2307/2215439
 
-[^scorekeeping-1982a]: 1982a, “‘Whether’ Report,” in Tom Pauli (ed.), *320311: Philosophical Essays Dedicated to Lennart Åqvist on his Fiftieth Birthday*, Uppsala: University of Uppsala Press, pp. 194–206.
+[^david-lewis-1982a]: 1982a, “‘Whether’ Report,” in Tom Pauli (ed.), *320311: Philosophical Essays Dedicated to Lennart Åqvist on his Fiftieth Birthday*, Uppsala: University of Uppsala Press, pp. 194–206.
 
-[^scorekeeping-1982b]: 1982b, “Censored Vision,” Written under the name “Bruce LeCatt,”, *Australasian Journal of Philosophy*, 60 (2): 158–162.
+[^david-lewis-1982b]: 1982b, “Censored Vision,” Written under the name “Bruce LeCatt,”, *Australasian Journal of Philosophy*, 60 (2): 158–162.
 
-[^scorekeeping-1982c]: 1982c, “Logic for Equivocators,” *Noûs*, 16 (3): 431–441. doi:10.2307/2216219
+[^david-lewis-1982c]: 1982c, “Logic for Equivocators,” *Noûs*, 16 (3): 431–441. doi:10.2307/2216219
 
-[^scorekeeping-1983a]: 1983a, *Philosophical Papers, Volume I*, Oxford: Oxford University Press.
+[^david-lewis-1983a]: 1983a, *Philosophical Papers, Volume I*, Oxford: Oxford University Press.
 
-[^scorekeeping-1983b]: 1983b, “Extrinsic Properties,” *Philosophical Studies*, 44 (2): 197–200. doi:10.1007/BF00354100
+[^david-lewis-1983b]: 1983b, “Extrinsic Properties,” *Philosophical Studies*, 44 (2): 197–200. doi:10.1007/BF00354100
 
-[^scorekeeping-1983c]: 1983c, “Individuation by Acquaintance and by Stipulation,” *Philosophical Review*, 92 (1): 3–32. doi:10.2307/2184519
+[^david-lewis-1983c]: 1983c, “Individuation by Acquaintance and by Stipulation,” *Philosophical Review*, 92 (1): 3–32. doi:10.2307/2184519
 
-[^scorekeeping-1983d]: 1983d, “Levi Against U-Maximization,” *Journal of Philosophy*, 80 (9): 531–534.
+[^david-lewis-1983d]: 1983d, “Levi Against U-Maximization,” *Journal of Philosophy*, 80 (9): 531–534.
 
-[^scorekeeping-1983e]: 1983e, “New Work For a Theory of Universals,” *Australasian Journal of Philosophy*, 61 (4): 343–377. doi:10.1080/00048408312341131
+[^david-lewis-1983e]: 1983e, “New Work For a Theory of Universals,” *Australasian Journal of Philosophy*, 61 (4): 343–377. doi:10.1080/00048408312341131
 
-[^scorekeeping-1984a]: 1984a, “Devil’s Bargains and the Real World,” in Douglas MacLean (ed.), *The Security Gamble: Deterrence in the Nuclear Age*, Totowa, NJ: Rowman and Allenheld, pp. 141–154.
+[^david-lewis-1984a]: 1984a, “Devil’s Bargains and the Real World,” in Douglas MacLean (ed.), *The Security Gamble: Deterrence in the Nuclear Age*, Totowa, NJ: Rowman and Allenheld, pp. 141–154.
 
-[^scorekeeping-1984b]: 1984b, “Putnam’s Paradox,” *Australasian Journal of Philosophy*, 62 (3): 221–236. doi:10.1080/00048408412340013
+[^david-lewis-1984b]: 1984b, “Putnam’s Paradox,” *Australasian Journal of Philosophy*, 62 (3): 221–236. doi:10.1080/00048408412340013
 
-[^scorekeeping-1986a]: 1986a, *On the Plurality of Worlds*, Oxford: Blackwell Publishers.
+[^david-lewis-1986a]: 1986a, *On the Plurality of Worlds*, Oxford: Blackwell Publishers.
 
-[^scorekeeping-1986b]: 1986b, *Philosophical Papers, Volume II*, Oxford: Oxford University Press.
+[^david-lewis-1986b]: 1986b, *Philosophical Papers, Volume II*, Oxford: Oxford University Press.
 
-[^scorekeeping-1986c]: 1986c, “A Comment on Armstrong and Forrest,” *Australasian Journal of Philosophy*, 64 (1): 92–93. doi:10.1080/00048408612342281
+[^david-lewis-1986c]: 1986c, “A Comment on Armstrong and Forrest,” *Australasian Journal of Philosophy*, 64 (1): 92–93. doi:10.1080/00048408612342281
 
-[^scorekeeping-1986d]: 1986d, “Against Structural Universals,” *Australasian Journal of Philosophy*, 64 (1): 25–46. doi:10.1080/00048408612342211
+[^david-lewis-1986d]: 1986d, “Against Structural Universals,” *Australasian Journal of Philosophy*, 64 (1): 25–46. doi:10.1080/00048408612342211
 
-[^scorekeeping-1986e]: 1986e, “Buy Like a MADman, Use Like a NUT”, *QQ*, 6: 5–8.
+[^david-lewis-1986e]: 1986e, “Buy Like a MADman, Use Like a NUT”, *QQ*, 6: 5–8.
 
 [^causal-1986b]: 1986f, “Causal Explanation” in Lewis 1986b, pp. 214–240.
 
@@ -667,17 +667,17 @@ I’ve learned a lot over the years from talking about Lewis’s philosophy with
 
 [^probabilities-nd]: 1986h, “Probabilities of Conditionals and Conditional Probabilities II,” *Philosophical Review*, 95 (4): 581–589. doi:10.2307/2185051
 
-[^probabilities-1987]: 1987, “The Punishment that Leaves Something to Chance,” *Proceedings of the Russellian Society, University of Sydney*, 12: 81–97.
+[^david-lewis-1987]: 1987, “The Punishment that Leaves Something to Chance,” *Proceedings of the Russellian Society, University of Sydney*, 12: 81–97.
 
-[^probabilities-1988a]: 1988a, “Ayer’s First Empiricist Criterion of Meaning: Why Does it Fail?,” *Analysis*, 48 (1): 1–3. doi:10.1093/analys/48.1.1a
+[^david-lewis-1988a]: 1988a, “Ayer’s First Empiricist Criterion of Meaning: Why Does it Fail?,” *Analysis*, 48 (1): 1–3. doi:10.1093/analys/48.1.1a
 
-[^probabilities-1988b]: 1988b, “Desire as Belief,” *Mind*, 97 (387): 323–332. doi:10.1093/mind/XCVII.387.323
+[^david-lewis-1988b]: 1988b, “Desire as Belief,” *Mind*, 97 (387): 323–332. doi:10.1093/mind/XCVII.387.323
 
-[^probabilities-1988c]: 1988c, “Rearrangement of Particles: Reply to Lowe,” *Analysis*, 48 (2): 65–72. doi:10.1093/analys/48.2.65
+[^david-lewis-1988c]: 1988c, “Rearrangement of Particles: Reply to Lowe,” *Analysis*, 48 (2): 65–72. doi:10.1093/analys/48.2.65
 
-[^probabilities-1988d]: 1988d, “Relevant Implication,” *Theoria*, 54 (3): 161–174. doi:10.1111/j.1755-2567.1988.tb00716.x
+[^david-lewis-1988d]: 1988d, “Relevant Implication,” *Theoria*, 54 (3): 161–174. doi:10.1111/j.1755-2567.1988.tb00716.x
 
-[^probabilities-1988e]: 1988e, “Statements Partly About Observation,” *Philosophical Papers*, 17 (1): 1–31. doi:10.1080/05568648809506282
+[^david-lewis-1988e]: 1988e, “Statements Partly About Observation,” *Philosophical Papers*, 17 (1): 1–31. doi:10.1080/05568648809506282
 
 [^trap’s-nd]: 1988f, “The Trap’s Dilemma,” *Australasian Journal of Philosophy*, 66 (2): 220–223. doi:10.1080/00048408812343301
 
@@ -685,119 +685,119 @@ I’ve learned a lot over the years from talking about Lewis’s philosophy with
 
 [^what-nd]: 1988h, “What Experience Teaches,” *Proceedings of the Russellian Society, University of Sydney*, 13: 29–57.
 
-[^what-1989a]: 1989a, “Academic Appointments: Why Ignore the Advantage of Being Right?,” in *Ormond Papers*, Ormond College, University of Melbourne. Reprinted in Lewis 2000a, pp. 187–200.
+[^david-lewis-1989a]: 1989a, “Academic Appointments: Why Ignore the Advantage of Being Right?,” in *Ormond Papers*, Ormond College, University of Melbourne. Reprinted in Lewis 2000a, pp. 187–200.
 
-[^what-1989b]: 1989b, “Dispositional Theories of Value,” *Proceedings of the Aristotelian Society, Supplementary Volume* 63 (1): 113–137. doi:10.1093/aristoteliansupp/63.1.89
+[^david-lewis-1989b]: 1989b, “Dispositional Theories of Value,” *Proceedings of the Aristotelian Society, Supplementary Volume* 63 (1): 113–137. doi:10.1093/aristoteliansupp/63.1.89
 
-[^what-1989c]: 1989c, “Finite Counterforce,” in Henry Shue (ed.), *Nuclear Deterrence and Moral Restraint*, Cambridge: Cambridge University Press, pp. 51–114.
+[^david-lewis-1989c]: 1989c, “Finite Counterforce,” in Henry Shue (ed.), *Nuclear Deterrence and Moral Restraint*, Cambridge: Cambridge University Press, pp. 51–114.
 
-[^what-1989d]: 1989d, “Mill and Milquetoast,” *Australasian Journal of Philosophy*, 67 (2): 152–171. doi:10.1080/00048408912343741
+[^david-lewis-1989d]: 1989d, “Mill and Milquetoast,” *Australasian Journal of Philosophy*, 67 (2): 152–171. doi:10.1080/00048408912343741
 
-[^what-1989e]: 1989e, Review of John Bigelow, *The Reality of Numbers*, *Australasian Journal of Philosophy*, 67 (4): 487–489.
+[^david-lewis-1989e]: 1989e, Review of John Bigelow, *The Reality of Numbers*, *Australasian Journal of Philosophy*, 67 (4): 487–489.
 
-[^what-1990]: 1990, “Noneism or Allism?,” *Mind*, 99 (393): 23–31. doi:10.1093/mind/XCIX.393.24
+[^david-lewis-1990]: 1990, “Noneism or Allism?,” *Mind*, 99 (393): 23–31. doi:10.1093/mind/XCIX.393.24
 
-[^what-1991]: 1991, *Parts of Classes*, Oxford: Blackwell Publishers.
+[^david-lewis-1991]: 1991, *Parts of Classes*, Oxford: Blackwell Publishers.
 
-[^what-1992a]: 1992a, “Meaning Without Use: Reply to Hawthorne,” *Australasian Journal of Philosophy*, 70 (1): 106–110. doi:10.1080/00048408112340093
+[^david-lewis-1992a]: 1992a, “Meaning Without Use: Reply to Hawthorne,” *Australasian Journal of Philosophy*, 70 (1): 106–110. doi:10.1080/00048408112340093
 
-[^what-1992b]: 1992b, Critical Notice of Armstrong, *A Combinatorial Theory of Possibility*, *Australasian Journal of Philosophy*, 70 (2): 211–224. doi:10.1080/00048409212345101
+[^david-lewis-1992b]: 1992b, Critical Notice of Armstrong, *A Combinatorial Theory of Possibility*, *Australasian Journal of Philosophy*, 70 (2): 211–224. doi:10.1080/00048409212345101
 
-[^what-1993a]: 1993a, “Counterpart Theory, Quantified Modal Logic, and Extra Argument Places,” *Analysis*, 53 (2): 69–71. doi:10.1093/analys/53.2.69
+[^david-lewis-1993a]: 1993a, “Counterpart Theory, Quantified Modal Logic, and Extra Argument Places,” *Analysis*, 53 (2): 69–71. doi:10.1093/analys/53.2.69
 
-[^what-1993b]: 1993b, “Evil for Freedom’s Sake?,” *Philosophical Papers*, 22 (3): 149–172. doi:10.1080/05568649309506401
+[^david-lewis-1993b]: 1993b, “Evil for Freedom’s Sake?,” *Philosophical Papers*, 22 (3): 149–172. doi:10.1080/05568649309506401
 
-[^what-1993c]: 1993c, “Many, But Almost One,” in Keith Campbell, John Bacon, and Lloyd Reinhardt (eds.), *Ontology, Causality and Mind: Essays on the Philosophy of D. M. Armstrong*, Cambridge: Cambridge University Press, pp. 23–38.
+[^david-lewis-1993c]: 1993c, “Many, But Almost One,” in Keith Campbell, John Bacon, and Lloyd Reinhardt (eds.), *Ontology, Causality and Mind: Essays on the Philosophy of D. M. Armstrong*, Cambridge: Cambridge University Press, pp. 23–38.
 
-[^what-1993d]: 1993d, “Mathematics is Megethology,” *Philosophia Mathematica*, 1 (1): 3–23. doi:10.1093/philmat/1.1.3
+[^david-lewis-1993d]: 1993d, “Mathematics is Megethology,” *Philosophia Mathematica*, 1 (1): 3–23. doi:10.1093/philmat/1.1.3
 
-[^what-1994a]: 1994a, “Humean Supervenience Debugged,” *Mind*, 103 (412): 473–490. doi:10.1093/mind/103.412.473
+[^david-lewis-1994a]: 1994a, “Humean Supervenience Debugged,” *Mind*, 103 (412): 473–490. doi:10.1093/mind/103.412.473
 
-[^what-1994b]: 1994b, “Reduction of Mind,” in Samuel Guttenplan (ed.), *A Companion to Philosophy of Mind*, Oxford: Blackwell Publishers, pp. 412–431.
+[^david-lewis-1994b]: 1994b, “Reduction of Mind,” in Samuel Guttenplan (ed.), *A Companion to Philosophy of Mind*, Oxford: Blackwell Publishers, pp. 412–431.
 
-[^what-1995a]: 1995a, “Ern Malley’s Namesake,” *Quadrant*, 39: 14–15.
+[^david-lewis-1995a]: 1995a, “Ern Malley’s Namesake,” *Quadrant*, 39: 14–15.
 
-[^what-1995b]: 1995b, “Should a Materialist Believe in Qualia?,” *Australasian Journal of Philosophy*, 73 (1): 140–144. doi:10.1080/00048409512346451
+[^david-lewis-1995b]: 1995b, “Should a Materialist Believe in Qualia?,” *Australasian Journal of Philosophy*, 73 (1): 140–144. doi:10.1080/00048409512346451
 
-[^what-1996a]: 1996a, “Desire as Belief II,” *Mind*, 105 (418): 303–313. doi:10.1093/mind/105.418.303
+[^david-lewis-1996a]: 1996a, “Desire as Belief II,” *Mind*, 105 (418): 303–313. doi:10.1093/mind/105.418.303
 
-[^what-1996b]: 1996b, “Elusive Knowledge,” *Australasian Journal of Philosophy*, 74 (4): 549–567. doi:10.1080/00048409612347521
+[^david-lewis-1996b]: 1996b, “Elusive Knowledge,” *Australasian Journal of Philosophy*, 74 (4): 549–567. doi:10.1080/00048409612347521
 
-[^what-1996c]: 1996c, “Maudlin and Modal Mystery,” *Australasian Journal of Philosophy*, 74 (4): 683–684. doi:10.1080/00048409612347611
+[^david-lewis-1996c]: 1996c, “Maudlin and Modal Mystery,” *Australasian Journal of Philosophy*, 74 (4): 683–684. doi:10.1080/00048409612347611
 
-[^what-1996d]: 1996d, “Illusory Innocence?” review of Peter Unger, *Living High and Letting Die*, *Eureka Street*, 6, No. 10 December 1996: 35–36.
+[^david-lewis-1996d]: 1996d, “Illusory Innocence?” review of Peter Unger, *Living High and Letting Die*, *Eureka Street*, 6, No. 10 December 1996: 35–36.
 
-[^what-1996]: 1996 (with Stephanie R. Lewis), Review of R. Casati and A. Varzi, *Holes*, *Philosophical Review*, 105 (1): 77–79. doi:10.2307/2185764
+[^david-lewis-1996]: 1996 (with Stephanie R. Lewis), Review of R. Casati and A. Varzi, *Holes*, *Philosophical Review*, 105 (1): 77–79. doi:10.2307/2185764
 
-[^what-1997a]: 1997a, “Do We Believe in Penal Substitution?,” *Philosophical Papers*, 26 (3): 203–209. doi:10.1080/05568649709506566
+[^david-lewis-1997a]: 1997a, “Do We Believe in Penal Substitution?,” *Philosophical Papers*, 26 (3): 203–209. doi:10.1080/05568649709506566
 
-[^what-1997b]: 1997b, “Finkish Dispositions,” *Philosophical Quarterly*, 47 (187): 143–158. doi:10.1111/1467-9213.00052
+[^david-lewis-1997b]: 1997b, “Finkish Dispositions,” *Philosophical Quarterly*, 47 (187): 143–158. doi:10.1111/1467-9213.00052
 
-[^what-1998a]: 1998a, *Papers in Philosophical Logic*, Cambridge: Cambridge University Press.
+[^david-lewis-1998a]: 1998a, *Papers in Philosophical Logic*, Cambridge: Cambridge University Press.
 
-[^what-1997c]: 1997c, “Naming the Colours,” *Australasian Journal of Philosophy*, 75 (3): 325–342. doi:10.1080/00048409712347931
+[^david-lewis-1997c]: 1997c, “Naming the Colours,” *Australasian Journal of Philosophy*, 75 (3): 325–342. doi:10.1080/00048409712347931
 
-[^what-1998b]: 1998b, “A World of Truthmakers?” review of D. M. Armstrong, *A World of States of Affairs*, published under the title “The Truthmakers” in *Times Literary Supplement*, 4948, 13 February 1998: 30.
+[^david-lewis-1998b]: 1998b, “A World of Truthmakers?” review of D. M. Armstrong, *A World of States of Affairs*, published under the title “The Truthmakers” in *Times Literary Supplement*, 4948, 13 February 1998: 30.
 
-[^what-1998]: 1998 (with Rae Langton), “Defining ‘Intrinsic’,” *Philosophy and Phenomenological Research*, 58 (2): 333–345. doi:10.2307/2653512
+[^david-lewis-1998]: 1998 (with Rae Langton), “Defining ‘Intrinsic’,” *Philosophy and Phenomenological Research*, 58 (2): 333–345. doi:10.2307/2653512
 
-[^what-1999a]: 1999a, *Papers in Metaphysics and Epistemology*, Cambridge: Cambridge University Press.
+[^david-lewis-1999a]: 1999a, *Papers in Metaphysics and Epistemology*, Cambridge: Cambridge University Press.
 
-[^what-1999b]: 1999b, “Why Conditionalize?,” Written in 1972 as a course handout, but not published until 1999 in Lewis 1999a.
+[^david-lewis-1999b]: 1999b, “Why Conditionalize?,” Written in 1972 as a course handout, but not published until 1999 in Lewis 1999a.
 
-[^what-1999c]: 1999c, “Zimmerman and the Spinning Sphere,” *Australasian Journal of Philosophy*, 77 (2): 209–212. doi:10.1080/00048409912348951
+[^david-lewis-1999c]: 1999c, “Zimmerman and the Spinning Sphere,” *Australasian Journal of Philosophy*, 77 (2): 209–212. doi:10.1080/00048409912348951
 
-[^what-2000a]: 2000a, *Papers in Ethics and Social Philosophy*, Cambridge: Cambridge University Press.
+[^david-lewis-2000a]: 2000a, *Papers in Ethics and Social Philosophy*, Cambridge: Cambridge University Press.
 
-[^what-2000b]: 2000b, “Causation as Influence” abridged version, *Journal of Philosophy*, 97 (4): 182–197.
+[^david-lewis-2000b]: 2000b, “Causation as Influence” abridged version, *Journal of Philosophy*, 97 (4): 182–197.
 
-[^what-2001a]: 2001a, “Forget About the ‘Correspondence Theory of Truth’,” *Analysis*, 61 (4): 275–280. doi:10.1093/analys/61.4.275
+[^david-lewis-2001a]: 2001a, “Forget About the ‘Correspondence Theory of Truth’,” *Analysis*, 61 (4): 275–280. doi:10.1093/analys/61.4.275
 
-[^what-2001b]: 2001b, “Redefining ‘Intrinsic’,” *Philosophy and Phenomenological Research*, 63 (2): 381–398. doi:10.1111/j.1933-1592.2001.tb00111.x
+[^david-lewis-2001b]: 2001b, “Redefining ‘Intrinsic’,” *Philosophy and Phenomenological Research*, 63 (2): 381–398. doi:10.1111/j.1933-1592.2001.tb00111.x
 
-[^what-2001c]: 2001c, “Sleeping Beauty: Reply to Elga,” *Analysis*, 61 (3): 171–176. doi:10.1093/analys/61.3.171
+[^david-lewis-2001c]: 2001c, “Sleeping Beauty: Reply to Elga,” *Analysis*, 61 (3): 171–176. doi:10.1093/analys/61.3.171
 
-[^what-2001d]: 2001d, “Truthmaking and Difference-Making,” *Noûs*, 35 (4): 602–615. doi:10.1111/0029-4624.00354
+[^david-lewis-2001d]: 2001d, “Truthmaking and Difference-Making,” *Noûs*, 35 (4): 602–615. doi:10.1111/0029-4624.00354
 
-[^what-2001]: 2001 (with Rae Langton), “Marshall and Parsons on ‘Intrinsic’,” *Philosophy and Phenomenological Research*, 63 (2): 353–355. doi:10.1111/j.1933-1592.2001.tb00108.x
+[^david-lewis-2001]: 2001 (with Rae Langton), “Marshall and Parsons on ‘Intrinsic’,” *Philosophy and Phenomenological Research*, 63 (2): 353–355. doi:10.1111/j.1933-1592.2001.tb00108.x
 
-[^what-2002a]: 2002a, “Tensing the Copula,” *Mind*, 111 (441): 1–14. doi:10.1093/mind/111.441.1
+[^david-lewis-2002a]: 2002a, “Tensing the Copula,” *Mind*, 111 (441): 1–14. doi:10.1093/mind/111.441.1
 
-[^what-2002b]: 2002b, “Tharp’s Third Theorem,” *Analysis*, 62 (2): 95–97. doi:10.1093/analys/62.2.95
+[^david-lewis-2002b]: 2002b, “Tharp’s Third Theorem,” *Analysis*, 62 (2): 95–97. doi:10.1093/analys/62.2.95
 
-[^what-2003a]: 2003a, “Rights to Rights,” *Theoria*, 69 (1–2): 160–165. doi:10.1111/j.1755-2567.2003.tb00760.x
+[^david-lewis-2003a]: 2003a, “Rights to Rights,” *Theoria*, 69 (1–2): 160–165. doi:10.1111/j.1755-2567.2003.tb00760.x
 
-[^what-2003b]: 2003b, “Things qua Truthmakers,” in Hallvard Lillehammer and Gonzalo Rodriguez-Pereyra (eds.), *Real Metaphysics: Essays in Honour of D. H. Mellor*, London: Routledge, pp. 25–38.
+[^david-lewis-2003b]: 2003b, “Things qua Truthmakers,” in Hallvard Lillehammer and Gonzalo Rodriguez-Pereyra (eds.), *Real Metaphysics: Essays in Honour of D. H. Mellor*, London: Routledge, pp. 25–38.
 
-[^what-2003]: 2003 (with Gideon Rosen), “Postscript to ‘Things qua Truthmakers’: Negative Existentials,”, in Hallvard Lillehammer and Gonzalo Rodriguez-Pereyra (eds.), *Real Metaphysics: Essays in Honour of D. H. Mellor*, London: Routledge, pp. 39–42.
+[^david-lewis-2003]: 2003 (with Gideon Rosen), “Postscript to ‘Things qua Truthmakers’: Negative Existentials,”, in Hallvard Lillehammer and Gonzalo Rodriguez-Pereyra (eds.), *Real Metaphysics: Essays in Honour of D. H. Mellor*, London: Routledge, pp. 39–42.
 
-[^what-2004a]: 2004a, “Causation as Influence” unabridged version, in John Collins, Ned Hall, and L.A. Paul (eds.), *Causation and Counterfactuals*, Cambridge, MA: MIT Press, pp. 75–106.
+[^david-lewis-2004a]: 2004a, “Causation as Influence” unabridged version, in John Collins, Ned Hall, and L.A. Paul (eds.), *Causation and Counterfactuals*, Cambridge, MA: MIT Press, pp. 75–106.
 
-[^what-2004b]: 2004b, “How Many Lives has Schrödinger’s Cat?,” *Australasian Journal of Philosophy*, 82 (1): 3–22. doi:10.1080/713659799
+[^david-lewis-2004b]: 2004b, “How Many Lives has Schrödinger’s Cat?,” *Australasian Journal of Philosophy*, 82 (1): 3–22. doi:10.1080/713659799
 
-[^what-2004c]: 2004c, “Tensed Quantifiers,” in Dean Zimmerman (ed.), *Oxford Studies in Metaphysics, Volume 1*, Oxford: Oxford University Press, pp. 3–14.
+[^david-lewis-2004c]: 2004c, “Tensed Quantifiers,” in Dean Zimmerman (ed.), *Oxford Studies in Metaphysics, Volume 1*, Oxford: Oxford University Press, pp. 3–14.
 
-[^what-2004d]: 2004d, “Void and Object,” in John Collins, Ned Hall, and L.A. Paul (eds.), *Causation and Counterfactuals*, Cambridge, MA: MIT Press, pp. 277–290.
+[^david-lewis-2004d]: 2004d, “Void and Object,” in John Collins, Ned Hall, and L.A. Paul (eds.), *Causation and Counterfactuals*, Cambridge, MA: MIT Press, pp. 277–290.
 
-[^what-2004e]: 2004e, “Letters to Priest and Beall,” in Graham Priest, J. C. Beall and Bradley Armour-Garb (eds.), *The Law of Non-Contradiction*, Oxford: Oxford University Press, pp. 176–177.
+[^david-lewis-2004e]: 2004e, “Letters to Priest and Beall,” in Graham Priest, J. C. Beall and Bradley Armour-Garb (eds.), *The Law of Non-Contradiction*, Oxford: Oxford University Press, pp. 176–177.
 
-[^what-2005]: 2005, “Quasi-Realism is Fictionalism” in Mark Eli Kalderon (ed.), *Fictionalism in Metaphysics*, Oxford: Clarendon Press, pp. 314–321.
+[^david-lewis-2005]: 2005, “Quasi-Realism is Fictionalism” in Mark Eli Kalderon (ed.), *Fictionalism in Metaphysics*, Oxford: Clarendon Press, pp. 314–321.
 
-[^what-2007]: 2007, “Divine Evil” in Louise Anthony (ed.), *Philosophers Without Gods*, Oxford: Oxford University Press, pp. 231–242. doi:10.1093/oso/9780195173079.003.0018
+[^david-lewis-2007]: 2007, “Divine Evil” in Louise Anthony (ed.), *Philosophers Without Gods*, Oxford: Oxford University Press, pp. 231–242. doi:10.1093/oso/9780195173079.003.0018
 
-[^what-2009]: 2009, “Ramseyan Humility” in David Braddon-Mitchell and Robert Nola (eds.), *Conceptual Analysis and Philosophical Naturalism*, Cambridge, MA: MIT Press, pp. 203–222.
+[^david-lewis-2009]: 2009, “Ramseyan Humility” in David Braddon-Mitchell and Robert Nola (eds.), *Conceptual Analysis and Philosophical Naturalism*, Cambridge, MA: MIT Press, pp. 203–222.
 
-[^what-2015a]: 2015a, “Counterparts of States of Affairs” in Barry Loewer and Jonathan Schaffer (eds.), *A Companion to David Lewis*, Chichester: Wiley Blackwell, pp. 15–17. doi:10.1002/9781118398593.ch2
+[^david-lewis-2015a]: 2015a, “Counterparts of States of Affairs” in Barry Loewer and Jonathan Schaffer (eds.), *A Companion to David Lewis*, Chichester: Wiley Blackwell, pp. 15–17. doi:10.1002/9781118398593.ch2
 
-[^what-2015b]: 2015b, “Reply to Dana Scott, ‘Is There Life on Possible Worlds?’” in Barry Loewer and Jonathan Schaffer (eds.), *A Companion to David Lewis*, Chichester: Wiley Blackwell, pp. 18–21. doi:10.1002/9781118398593.ch3
+[^david-lewis-2015b]: 2015b, “Reply to Dana Scott, ‘Is There Life on Possible Worlds?’” in Barry Loewer and Jonathan Schaffer (eds.), *A Companion to David Lewis*, Chichester: Wiley Blackwell, pp. 18–21. doi:10.1002/9781118398593.ch3
 
-[^what-2020a]: 2020a, *Philosophical Letters of David K. Lewis, volume 1: Causation, Modality, Ontology*, edited by Helen Beebee and A. R. J. Fisher, Oxford: Oxford University Press.
+[^david-lewis-2020a]: 2020a, *Philosophical Letters of David K. Lewis, volume 1: Causation, Modality, Ontology*, edited by Helen Beebee and A. R. J. Fisher, Oxford: Oxford University Press.
 
-[^what-2020b]: 2020b, *Philosophical Letters of David K. Lewis, volume 2: Mind, Language, Epistemology*, edited by Helen Beebee and A. R. J. Fisher, Oxford: Oxford University Press.
+[^david-lewis-2020b]: 2020b, *Philosophical Letters of David K. Lewis, volume 2: Mind, Language, Epistemology*, edited by Helen Beebee and A. R. J. Fisher, Oxford: Oxford University Press.
 
-[^what-2020c]: 2020c, “Outline of ‘Nihil Obstat: An Analysis of Ability’,” *The Monist*, 103 (3): 241–251. doi:10.1093/monist/onaa001
+[^david-lewis-2020c]: 2020c, “Outline of ‘Nihil Obstat: An Analysis of Ability’,” *The Monist*, 103 (3): 241–251. doi:10.1093/monist/onaa001
 
-[^what-2023]: 2023, *Philosophical Manuscripts*, edited by Frederique Janssen-Lauret and Fraser MacBride, Oxford: Oxford University Press.
+[^david-lewis-2023]: 2023, *Philosophical Manuscripts*, edited by Frederique Janssen-Lauret and Fraser MacBride, Oxford: Oxford University Press.
 
 [^adams-1974]: Adams, Robert Merrihew, 1974, “Theories of Actuality” *Noûs*, 8(3): 211–231. doi:10.2307/2214751
 

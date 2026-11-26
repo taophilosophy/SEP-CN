@@ -402,9 +402,9 @@ citizenship | common good | feminist philosophy, topics: perspectives on sex and
 
 [^hill-1990]: Hill Collins, Patricia, 1990 [2000], *Black Feminist Thought: Knowledge, Consciousness, and the Politics of Empowerment*, (Perspectives on Gender 2), Boston: Unwin Hyman. Second edition, New York: Routledge, 2000. doi:10.4324/9780203900055
 
-[^hill-1981]: hooks, bell, 1981 [2015], *Ain’t I a Woman*, London: Routledge. [First edition published 1981, second edition 2015.]
+[^solidarity-1981]: hooks, bell, 1981 [2015], *Ain’t I a Woman*, London: Routledge. [First edition published 1981, second edition 2015.]
 
-[^hill-2000]: –––, 2000 [2015], *Feminism Is for Everybody: Passionate Politics*, Cambridge, MA: South End Press. Second edition, New York: Routledge, 2015.
+[^solidarity-2000]: –––, 2000 [2015], *Feminism Is for Everybody: Passionate Politics*, Cambridge, MA: South End Press. Second edition, New York: Routledge, 2015.
 
 [^hurka-2001]: Hurka, Thomas, 2001, *Virtue, Vice, and Value*, New York: Oxford University Press. doi:10.1093/0195137167.001.0001
 

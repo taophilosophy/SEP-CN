@@ -231,7 +231,7 @@ This entry has benefited from suggestions by Andrea Carla, Federica Cittadino, P
 
 [^rousseau-1761]: \*Rousseau, Jean-Jacques, 1761, *A Lasting Peace Through the Federation of Europe*, C.E. Vaughan (trans.), London: Constable, 1917.
 
-[^rousseau-1761-2]: \*–––, 1761, “Summary and Critique of Abbé Saint-Pierre’s Project for Perpetual Peace,” in Grace G. Roosevelt (ed.), *Reading Rousseau in the Nuclear Age*, Philadelphia: Temple University Press, 1990.
+[^federalism-1761]: \*–––, 1761, “Summary and Critique of Abbé Saint-Pierre’s Project for Perpetual Peace,” in Grace G. Roosevelt (ed.), *Reading Rousseau in the Nuclear Age*, Philadelphia: Temple University Press, 1990.
 
 [^hume-1752]: Hume, David, 1752, “Idea of a Perfect Commonwealth,” in T.H. Green and T.H. Grose (eds.), *Essays moral, political and literary*, London: Longmans, Green, 1882
 
@@ -243,7 +243,7 @@ This entry has benefited from suggestions by Andrea Carla, Federica Cittadino, P
 
 [^kant-1784]: Kant, Immanuel, 1784, “An Answer to the Question: ‘What Is Enlightenment?’” in Hans Reiss (ed.), *Kant’s Political Writings*, Cambridge: Cambridge University Press, 1970, 54–60.
 
-[^kant-1796]: \*–––, 1796, “Perpetual Peace: A Philosophical Sketch,” in Hans Reiss (ed.), *Kant’s Political Writings*, Cambridge: Cambridge University Press, 1970, 93–130.
+[^federalism-1796]: \*–––, 1796, “Perpetual Peace: A Philosophical Sketch,” in Hans Reiss (ed.), *Kant’s Political Writings*, Cambridge: Cambridge University Press, 1970, 93–130.
 
 [^tocqueville-1835]: \*de Tocqueville, Alexis, 1835–40, *Democracy in America*, P. Bradley (ed.), New York: Vintage, 1945 [[Text available online](https://www.gutenberg.org/ebooks/815)].
 

@@ -36,7 +36,7 @@ Hare remained a tutor at Balliol for twenty years, and always felt attached to t
 
 He recalls that most of his cousins on his mother’s side were Americans; and two of his children emigrated to America and married Americans. Like all distinguished Oxford philosophers, he received many invitations there (of which the most welcome was to the Center for Advanced Study in the Behavioral Sciences at Stanford, where he wrote both *Moral Thinking,* 1981, and his little book *Plato*, 1982). All this made less improbable his early retirement from Oxford in 1983, and his appointment as Graduate Research Professor of Philosophy at the University of Florida at Gainesville. One desire was to escape from faculty politics at Oxford. A contributing factor was the publication of *Moral Thinking*, which left him immediately, he confessed, nothing new to say in his staple lectures. Yet his main motive was the prospect of helping to set up a Center for Applied Philosophy.
 
-The very phrase “applied ethics”, now so familiar (and yet, one may think, tendentious), presupposes a tradition of ethical theories, such as his, that invite practical applications. In fact, he published his first paper in practical ethics, titled “Ethics and Politics”, in the *Listener* (1955). (Part of it is collected, under the title “Can I be Blamed for Obeying Orders?”, in Hare 1972a; there it is followed by three papers originally published in the 1950s, and more from the 1960s.) Better known is the last chapter of *Freedom and Reason* (1963), which addressed the issue, then (it seemed) wholly recalcitrant, of apartheid. And much else followed, with a stream of papers, and memberships of various advisory bodies (Hare 2002: 294–5)[^hare-2002]. He was engaged especially by urban planning, where he favored radial over ring roads, and biomedical ethics, in which he labored to be logical and not just *bien pensant*. When a Society for Applied Philosophy was formed, he became its first President. So he looked forward to a profitable refocusing of his energies; and this, to an extent, occurred, even when the Center partly disappointed. As he notes, three out of four volumes of essays published between 1989 and 1993 fall within practical ethics (Hare 1989b, 1992a, 1993a).
+The very phrase “applied ethics”, now so familiar (and yet, one may think, tendentious), presupposes a tradition of ethical theories, such as his, that invite practical applications. In fact, he published his first paper in practical ethics, titled “Ethics and Politics”, in the *Listener* (1955). (Part of it is collected, under the title “Can I be Blamed for Obeying Orders?”, in Hare 1972a; there it is followed by three papers originally published in the 1950s, and more from the 1960s.) Better known is the last chapter of *Freedom and Reason* (1963), which addressed the issue, then (it seemed) wholly recalcitrant, of apartheid. And much else followed, with a stream of papers, and memberships of various advisory bodies (Hare 2002: 294–5)[^hare-2002-2]. He was engaged especially by urban planning, where he favored radial over ring roads, and biomedical ethics, in which he labored to be logical and not just *bien pensant*. When a Society for Applied Philosophy was formed, he became its first President. So he looked forward to a profitable refocusing of his energies; and this, to an extent, occurred, even when the Center partly disappointed. As he notes, three out of four volumes of essays published between 1989 and 1993 fall within practical ethics (Hare 1989b, 1992a, 1993a).
 
 His time in Gainesville was disturbed by the first, and slightest, of his strokes. When he fully returned with Catherine to Ewelme in 1994, further attacks cheated him of his hopes of continuing to combat “the usual misunderstandings” (2002: 304–5). He gave his last paper, appropriately, to an undergraduate audience at King’s College London. He was still able to put together *Sorting Out Ethics* (1997a), deriving from the Axel Hägerström Lectures that he had given at Uppsala University in 1991 (when he also received an honorary doctorate—his first doctorate—from the University of Lund). His eightieth birthday was marked by the publication of a final collection of papers, *Objective Prescriptions and other essays* (1999). He died suddenly but peacefully on 29 January 2002.
 
@@ -201,7 +201,7 @@ However, it must remain a problem that, precisely to the extent that intuitive t
 
 ## 8. Traces of Positivism in Religion and Metaethics
 
-Hare did not suppose that the modern thinking man could long remain what he called a “simple believer”; so he welcomed attempts by R.B. Braithwaite and others to empty religion of dogmatic content. He called himself a “Christian empiricist”, but thought the question whether he was really a *Christian* terminological. What he retained for himself was what he once called a “blik”, an attitude to the world which somehow gave him confidence to live and think morally, trusting (as he put it) “in my own continued well-being (in some sense of that world that I may not now fully understand) if I continue to do what is right according to my lights”, as also “in the general likelihood of people like Hitler coming to a bad end” (1950/1: 38). John Hare (2002: 307)[^hare-2002] connects the inhibitions that held his father back from belief not just with modern skepticism, but with “a philosophical doctrine about meaning which he inherited from Carnap and the logical positivists”; for “He thought he could not make meaningful assertions about subjects, like God, which lay beyond the limits of possible sense experience”. Thus he denied that the transcendental has anything to do with prayer, asking “What is the difference between there being a transcendental God who listens to the prayer and directs events accordingly, and it just being the case that the events take place?”, and answering “None at all” (1973: 27). The upshot is fatal to the orthodoxies of belief as of unbelief:
+Hare did not suppose that the modern thinking man could long remain what he called a “simple believer”; so he welcomed attempts by R.B. Braithwaite and others to empty religion of dogmatic content. He called himself a “Christian empiricist”, but thought the question whether he was really a *Christian* terminological. What he retained for himself was what he once called a “blik”, an attitude to the world which somehow gave him confidence to live and think morally, trusting (as he put it) “in my own continued well-being (in some sense of that world that I may not now fully understand) if I continue to do what is right according to my lights”, as also “in the general likelihood of people like Hitler coming to a bad end” (1950/1: 38). John Hare (2002: 307)[^hare-2002-2] connects the inhibitions that held his father back from belief not just with modern skepticism, but with “a philosophical doctrine about meaning which he inherited from Carnap and the logical positivists”; for “He thought he could not make meaningful assertions about subjects, like God, which lay beyond the limits of possible sense experience”. Thus he denied that the transcendental has anything to do with prayer, asking “What is the difference between there being a transcendental God who listens to the prayer and directs events accordingly, and it just being the case that the events take place?”, and answering “None at all” (1973: 27). The upshot is fatal to the orthodoxies of belief as of unbelief:
 
 > Where the transcendental is concerned, there is no difference between a true story and a myth; it is therefore wrong to speak of the person who prays having an *illusion* that there is somebody that he is praying to. (ibid.)
 
@@ -283,89 +283,89 @@ With the kind permission of the British Academy, this present piece abbreviates 
 
 [^an-nd]: unpublished (early 1940s), “An Essay in Monism”, Balliol College Archive. (I quote from the typescript, within which chs 1–12 are numbered in type pp. 1–120, after which a new pagination starts in pencil.)
 
-[^an-1949]: unpublished (1949–50), “Moral Objectivity”, Balliol College Archive.
+[^hare-1949]: unpublished (1949–50), “Moral Objectivity”, Balliol College Archive.
 
-[^an-1950]: unpublished (1950), “Practical Reason”, Balliol College Archive.
+[^hare-1950]: unpublished (1950), “Practical Reason”, Balliol College Archive.
 
-[^an-1949-2]: 1949, “Imperative Sentences”, *Mind*, 58: 21–39; reprinted in Hare 1971a: 1–21.
+[^hare-1949-2]: 1949, “Imperative Sentences”, *Mind*, 58: 21–39; reprinted in Hare 1971a: 1–21.
 
-[^an-1950-2]: 1950/1, “Theology and Falsification”, *University*, 1 (Winter); reprinted in 1992a: 37–9 (page-reference in text to reprint).
+[^hare-1950-2]: 1950/1, “Theology and Falsification”, *University*, 1 (Winter); reprinted in 1992a: 37–9 (page-reference in text to reprint).
 
-[^an-1952]: 1952, *The Language of Morals*, Oxford: Clarendon Press.
+[^hare-1952]: 1952, *The Language of Morals*, Oxford: Clarendon Press.
 
-[^an-1954]: 1954/5, “Universalizability”, *Proceedings of the Aristotelian Society*, 55: 295–312; reprinted in Hare 1972b: 13–28.
+[^hare-1954]: 1954/5, “Universalizability”, *Proceedings of the Aristotelian Society*, 55: 295–312; reprinted in Hare 1972b: 13–28.
 
-[^an-1955]: 1955, “Ethics and Politics”, *The Listener*, 54 (13 October): 593–4; 55 (20 October): 651–2; the first installment was reprinted as “Can I Be Blamed for Obeying Orders?”, Hare 1972a: 1–8.
+[^hare-1955]: 1955, “Ethics and Politics”, *The Listener*, 54 (13 October): 593–4; 55 (20 October): 651–2; the first installment was reprinted as “Can I Be Blamed for Obeying Orders?”, Hare 1972a: 1–8.
 
-[^an-1957]: 1957, “Geach: Good and Evil”, *Analysis*, 18: 103–12.
+[^hare-1957]: 1957, “Geach: Good and Evil”, *Analysis*, 18: 103–12.
 
-[^an-1959]: 1959, “Nothing Matters”, published in French in *La Philosophie Analytique*, Paris: Les Éditions de Minuit; reprinted in English in 1972a: 32–47.
+[^hare-1959]: 1959, “Nothing Matters”, published in French in *La Philosophie Analytique*, Paris: Les Éditions de Minuit; reprinted in English in 1972a: 32–47.
 
-[^an-1963]: 1963, *Freedom and Reason*, Oxford: Clarendon Press.
+[^hare-1963]: 1963, *Freedom and Reason*, Oxford: Clarendon Press.
 
-[^an-1964]: 1964, “A Question about Plato’s Theory of Ideas”, in M. Bunge (ed.), *The Critical Approach, Essays in Honor of Karl Popper*, Glencoe IL: Free Press of Glencoe; reprinted in 1971b: 54–79 (page-reference in text to reprint).
+[^hare-1964]: 1964, “A Question about Plato’s Theory of Ideas”, in M. Bunge (ed.), *The Critical Approach, Essays in Honor of Karl Popper*, Glencoe IL: Free Press of Glencoe; reprinted in 1971b: 54–79 (page-reference in text to reprint).
 
-[^an-1967]: 1967, “Some Alleged Differences between Indicatives and Imperatives”, *Mind*, 76: 309–26; reprinted in Hare 1971a: 25–43 (page-reference in text to reprint).
+[^hare-1967]: 1967, “Some Alleged Differences between Indicatives and Imperatives”, *Mind*, 76: 309–26; reprinted in Hare 1971a: 25–43 (page-reference in text to reprint).
 
-[^an-1968]: 1968, “Wanting, Some Pitfalls”, in R. Binkley (ed.), *Agent, Action and Reason* (Proceedings of the University of Western Ontario Colloquium); reprinted in Hare 1971a: 44–58.
+[^hare-1968]: 1968, “Wanting, Some Pitfalls”, in R. Binkley (ed.), *Agent, Action and Reason* (Proceedings of the University of Western Ontario Colloquium); reprinted in Hare 1971a: 44–58.
 
-[^an-1969]: 1969, “Practical Inferences”, in V. Kruse (ed.), *Festskrift til Alf Ross*, Copenhagen: Juristvorbundets Vorlag; reprinted in Hare 1971a: 59–73 (page-reference in text to reprint).
+[^hare-1969]: 1969, “Practical Inferences”, in V. Kruse (ed.), *Festskrift til Alf Ross*, Copenhagen: Juristvorbundets Vorlag; reprinted in Hare 1971a: 59–73 (page-reference in text to reprint).
 
-[^an-1970]: 1970, “Meaning and Speech Acts”, *Philosophical Review*, 79: 3–24; reprinted in Hare 1971a: 74–93.
+[^hare-1970]: 1970, “Meaning and Speech Acts”, *Philosophical Review*, 79: 3–24; reprinted in Hare 1971a: 74–93.
 
-[^an-1971a]: 1971a, *Practical Inferences*, London: Macmillan.
+[^hare-1971a]: 1971a, *Practical Inferences*, London: Macmillan.
 
-[^an-1971b]: 1971b, *Essays on Philosophical Method*, London: Macmillan.
+[^hare-1971b]: 1971b, *Essays on Philosophical Method*, London: Macmillan.
 
-[^an-1972a]: 1972a, *Applications of Moral Philosophy*, London: Macmillan.
+[^hare-1972a]: 1972a, *Applications of Moral Philosophy*, London: Macmillan.
 
-[^an-1972b]: 1972b, *Essays on the Moral Concepts*, London: Macmillan.
+[^hare-1972b]: 1972b, *Essays on the Moral Concepts*, London: Macmillan.
 
-[^an-1972c]: 1972c, “Wrongness and Harm”, in 1972b: 92–109.
+[^hare-1972c]: 1972c, “Wrongness and Harm”, in 1972b: 92–109.
 
-[^an-1973]: 1973, “The Simple Believer”, in G. Outka & J.P. Reeder (eds), *Religion and Morality*, New York: Anchor Press; reprinted in 1992a: 1–36 (page-reference in text to reprint).
+[^hare-1973]: 1973, “The Simple Believer”, in G. Outka & J.P. Reeder (eds), *Religion and Morality*, New York: Anchor Press; reprinted in 1992a: 1–36 (page-reference in text to reprint).
 
-[^an-1975]: 1975, “Abortion and the Golden Rule”, *Philosophy and Public Affairs*, 4: 201–22; reprinted in 1993a: 147–67.
+[^hare-1975]: 1975, “Abortion and the Golden Rule”, *Philosophy and Public Affairs*, 4: 201–22; reprinted in 1993a: 147–67.
 
-[^an-1976]: 1976, “Ethical Theory and Utilitarianism”, in H.D. Lewis (ed.), *Contemporary British Philosophy 4ᵗʰ Series,* London: Allen & Unwin; reprinted in 1989a: 212–30.
+[^hare-1976]: 1976, “Ethical Theory and Utilitarianism”, in H.D. Lewis (ed.), *Contemporary British Philosophy 4ᵗʰ Series,* London: Allen & Unwin; reprinted in 1989a: 212–30.
 
-[^an-1978]: 1978, “Relevance”, in A.I. Goldman & J. Kim (eds), *Values and Morals*, Dordrecht: Reidel; reprinted (with second thoughts) in Hare 1989a: 191–211.
+[^hare-1978]: 1978, “Relevance”, in A.I. Goldman & J. Kim (eds), *Values and Morals*, Dordrecht: Reidel; reprinted (with second thoughts) in Hare 1989a: 191–211.
 
-[^an-1981]: 1981, *Moral Thinking: Its Levels, Method and Point*, Oxford: Clarendon Press.
+[^hare-1981]: 1981, *Moral Thinking: Its Levels, Method and Point*, Oxford: Clarendon Press.
 
-[^an-1982]: 1982, *Plato*, Oxford: Oxford University Press.
+[^hare-1982]: 1982, *Plato*, Oxford: Oxford University Press.
 
-[^an-1985]: 1985, “Ontology in Ethics”, in T. Honderich (ed.), *Morality and Objectivity: A Tribute to J.L. Mackie*, London: Routledge; reprinted in 1989a: 82–98.
+[^hare-1985]: 1985, “Ontology in Ethics”, in T. Honderich (ed.), *Morality and Objectivity: A Tribute to J.L. Mackie*, London: Routledge; reprinted in 1989a: 82–98.
 
-[^an-1988a]: 1988a, “Comments”, in Seanor & Fotion (eds) 1988: 199–293.
+[^hare-1988a]: 1988a, “Comments”, in Seanor & Fotion (eds) 1988: 199–293.
 
-[^an-1988b]: 1988b, “When does Potentiality Count?”, *Bioethics*, 2: 214–26; reprinted in Hare 1993a: 84–97.
+[^hare-1988b]: 1988b, “When does Potentiality Count?”, *Bioethics*, 2: 214–26; reprinted in Hare 1993a: 84–97.
 
-[^an-1988c]: 1988c, “A Kantian Approach to Abortion”, in M. Bayles & K. Henley (eds), *Right Conduct*, New York: Random House; reprinted in Hare 1993a: 168–84.
+[^hare-1988c]: 1988c, “A Kantian Approach to Abortion”, in M. Bayles & K. Henley (eds), *Right Conduct*, New York: Random House; reprinted in Hare 1993a: 168–84.
 
-[^an-1989a]: 1989a, *Essays in Ethical Theory*, Oxford: Clarendon Press.
+[^hare-1989a]: 1989a, *Essays in Ethical Theory*, Oxford: Clarendon Press.
 
-[^an-1989b]: 1989b, *Essays on Political Morality*, Oxford: Clarendon Press.
+[^hare-1989b]: 1989b, *Essays on Political Morality*, Oxford: Clarendon Press.
 
-[^an-1989c]: 1989c, “Some Sub-Atomic Particles of Logic”, *Mind*, 98: 23–37; reprinted in Hare 1999: 28–42.
+[^hare-1989c]: 1989c, “Some Sub-Atomic Particles of Logic”, *Mind*, 98: 23–37; reprinted in Hare 1999: 28–42.
 
-[^an-1992a]: 1992a, *Essays on Religion and Education*, Oxford: Clarendon Press.
+[^hare-1992a]: 1992a, *Essays on Religion and Education*, Oxford: Clarendon Press.
 
-[^an-1992b]: 1992b, “Weakness of the Will”, in L. Becker (ed.), *Encyclopedia of Ethics*, New York: Garland; reprinted in Hare 1999: 109–14.
+[^hare-1992b]: 1992b, “Weakness of the Will”, in L. Becker (ed.), *Encyclopedia of Ethics*, New York: Garland; reprinted in Hare 1999: 109–14.
 
-[^an-1993a]: 1993a, *Essays on Bioethics*, Oxford: Clarendon Press.
+[^hare-1993a]: 1993a, *Essays on Bioethics*, Oxford: Clarendon Press.
 
-[^an-1993b]: 1993b, “Could Kant have been a Utilitarian?”, *Utilitas*, 5: 1–16; revised in 1997a: 147–65.
+[^hare-1993b]: 1993b, “Could Kant have been a Utilitarian?”, *Utilitas*, 5: 1–16; revised in 1997a: 147–65.
 
-[^an-1997a]: 1997a, *Sorting Out Ethics*, Oxford: Clarendon Press.
+[^hare-1997a]: 1997a, *Sorting Out Ethics*, Oxford: Clarendon Press.
 
-[^an-1997b]: 1997b, “Preferences of Possible People”, in C. Fehige & U. Wessels (eds), *Preferences*, Berlin: De Gruyter; reprinted in Hare 1999: 126–31.
+[^hare-1997b]: 1997b, “Preferences of Possible People”, in C. Fehige & U. Wessels (eds), *Preferences*, Berlin: De Gruyter; reprinted in Hare 1999: 126–31.
 
-[^an-1998]: 1998, “Prescriptivism”, in E. Craig (ed.) *The Routledge Encyclopedia of Philosophy*,London: Routledge; reprinted in Hare 1999: 19–27 (page-reference in text to reprint).
+[^hare-1998]: 1998, “Prescriptivism”, in E. Craig (ed.) *The Routledge Encyclopedia of Philosophy*,London: Routledge; reprinted in Hare 1999: 19–27 (page-reference in text to reprint).
 
-[^an-1999]: 1999, *Objective Prescriptions and Other Essays*, Oxford: Clarendon Press.
+[^hare-1999]: 1999, *Objective Prescriptions and Other Essays*, Oxford: Clarendon Press.
 
-[^an-2002]: 2002, “A Philosophical Autobiography”, *Utilitas*, 14: 269–305.
+[^hare-2002]: 2002, “A Philosophical Autobiography”, *Utilitas*, 14: 269–305.
 
 [^adu-amankwah-1997]: Adu-Amankwah, P.A., 1997, *The Moral Philosophy of R.M. Hare: A Vindication of Utilitarianism?*, New York: Peter Lang.
 
@@ -395,7 +395,7 @@ With the kind permission of the British Academy, this present piece abbreviates 
 
 [^hallich-2000]: Hallich, O., 2000, *Richard Hares Moralphilosophie*, Freiburg/München: Alber Verlag.
 
-[^hare-2002]: Hare, J.E., 2002, “A Memorial Address”, *Utilitas*, 14: 306–8.
+[^hare-2002-2]: Hare, J.E., 2002, “A Memorial Address”, *Utilitas*, 14: 306–8.
 
 [^hare-2007]: –––, 2007, *God and Morality*, Oxford: Blackwell.
 

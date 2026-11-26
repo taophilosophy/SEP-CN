@@ -1170,11 +1170,11 @@ Church, Alonzo | computability and complexity | computation: in physical systems
 
 [^gödel-nd]: –––, *Kurt Gödel: Collected Works*, 5 volumes, Solomon Feferman et al. (eds), Oxford: Clarendon Press.
 
-[^gödel-1986]: 1986, *Volume 1: Publications 1929–1936*
+[^church-turing-1986]: 1986, *Volume 1: Publications 1929–1936*
 
-[^gödel-1990]: 1990, *Volume 2: Publications 1938–1974*
+[^church-turing-1990]: 1990, *Volume 2: Publications 1938–1974*
 
-[^gödel-1995-2]: 1995, *Volume 3: Unpublished Essays and Lectures*
+[^church-turing-1995]: 1995, *Volume 3: Unpublished Essays and Lectures*
 
 [^gurevich-2012]: Gurevich, Yuri, 2012, “What Is an Algorithm?”, in *SOFSEM 2012: Theory and Practice of Computer Science*, Mária Bieliková, Gerhard Friedrich, Georg Gottlob, Stefan Katzenbeisser, and György Turán (eds), (Lecture Notes in Computer Science 7147), Berlin/Heidelberg: Springer, 31–42. doi:10.1007/978-3-642-27660-6_3
 

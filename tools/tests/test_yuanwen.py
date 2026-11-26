@@ -194,20 +194,27 @@ class TestCitations(unittest.TestCase):
         new, n, _ = link_citations('He wrote in (1990) that Smith agreed', keys)
         self.assertEqual(n, 0)
 
-    def test_year_leading_entry_uses_section_author(self):
-        # 2026-11-15：文献节内「Works by X」组的条目只写年份，无姓可扫，
-        # 旧式整条丢弃（bohr-correspondence 整节蒸发，全库 2867 条受影响）
+    def test_year_leading_entry_ignores_section_by_default(self):
+        # 2026-11-26（specs/053 第五十批）：默认不再向小节标题推断作者——键名须能由
+        # md 确定性复算；无 fallback_author 时该条照旧丢弃（无键可建）
         keys = build_cite_keys([("1913, “On the constitution of atoms and molecules,”",
                                  "Works by Bohr")])
+        self.assertEqual(keys, [])
+        keys = build_cite_keys([("1913, “On the constitution of atoms and molecules,”",
+                                 "Works by Bohr")], fallback_author='bohr-correspondence')
+        self.assertEqual(keys[0]['key'], 'bohr-correspondence-1913')
+
+    def test_year_leading_entry_section_author_when_section_free_off(self):
+        # 旧行为（section_free=False）保留为对照：小节标题「Works by X」推断作者
+        keys = build_cite_keys([("1913, “On the constitution of atoms and molecules,”",
+                                 "Works by Bohr")], section_free=False)
         self.assertEqual(len(keys), 1)
         self.assertEqual(keys[0]['key'], 'bohr-1913')
         new, n, _ = link_citations('(Bohr 1913, p. 4)', keys)
         self.assertIn('[^bohr-1913]', new)
         self.assertEqual(n, 1)
-
-    def test_year_leading_entry_section_possessive(self):
         keys = build_cite_keys([("1946, “A Functional Calculus of First Order”",
-                                 "Ruth Barcan Marcus’s Works")])
+                                 "Ruth Barcan Marcus’s Works")], section_free=False)
         self.assertEqual(keys[0]['key'], 'marcus-1946')
 
     def test_year_leading_entry_without_section_still_dropped(self):

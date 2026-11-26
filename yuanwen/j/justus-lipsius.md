@@ -156,23 +156,23 @@ Montaigne, Michel de
 
 [^deux-nd]: (1584) *Deux Livres De La Constance De Iuste Lipsius, Mis en François par de Nuysement* (Leiden: C. Plantin).
 
-[^deux-1600]: (1600) *O Stalości Księgi dwoie. Barzo roskoszne y użyteczne. Teraz świeżo z łacińskiego ná rzecz polską przełożone y annotácyámi krotkiemi obiáśnione przez Janusza Piotrowicza* (Vilnius: J. Karcan). [Polish translation by Janus Piotrowicz].
+[^justus-lipsius-1600]: (1600) *O Stalości Księgi dwoie. Barzo roskoszne y użyteczne. Teraz świeżo z łacińskiego ná rzecz polską przełożone y annotácyámi krotkiemi obiáśnione przez Janusza Piotrowicza* (Vilnius: J. Karcan). [Polish translation by Janus Piotrowicz].
 
-[^deux-1616]: (1616) *Libro De La Constancia De Iusto Lipsio. Traducido De Latin En Castellano por Juan Baptista de Mesa* (Seville: M. Clavijo, 1616).
+[^justus-lipsius-1616]: (1616) *Libro De La Constancia De Iusto Lipsio. Traducido De Latin En Castellano por Juan Baptista de Mesa* (Seville: M. Clavijo, 1616).
 
-[^deux-1939]: (1939) *Two Bookes of Constancie Written in Latine by Iustus Lipsius*, English ed. by Sir John Stradling [1594], edited with an introduction by Rudolf Kirk (New Brunswick: Rutgers University Press).
+[^justus-lipsius-1939]: (1939) *Two Bookes of Constancie Written in Latine by Iustus Lipsius*, English ed. by Sir John Stradling [1594], edited with an introduction by Rudolf Kirk (New Brunswick: Rutgers University Press).
 
-[^deux-1873]: (1873) *Traité De La Constance*. Traduction nouvelle, précédée d’une notice sur Juste Lipse par Lucien du Bois (Brussels and Leipzig: H. Merzbach).
+[^justus-lipsius-1873]: (1873) *Traité De La Constance*. Traduction nouvelle, précédée d’une notice sur Juste Lipse par Lucien du Bois (Brussels and Leipzig: H. Merzbach).
 
-[^deux-1965]: (1965) *Justus Lipsius, Von der Bestendigkeit [De Constantia]. Faksimiledruck der deutschen Übersetzung des Andreas Viritius nach der zweiten Auflage von c. 1601 mit den wichtigsten Lesarten der ersten Auflage von 1599*, ed. L. Forster (Stuttgart).
+[^justus-lipsius-1965]: (1965) *Justus Lipsius, Von der Bestendigkeit [De Constantia]. Faksimiledruck der deutschen Übersetzung des Andreas Viritius nach der zweiten Auflage von c. 1601 mit den wichtigsten Lesarten der ersten Auflage von 1599*, ed. L. Forster (Stuttgart).
 
-[^deux-1983]: (1983) *Over standvastigheid bij algemene rampspoed*. Vertaald, ingeleid en van aantekeningen voorzien door Piet H. Schrijvers (Baarn: Ambo).
+[^justus-lipsius-1983]: (1983) *Over standvastigheid bij algemene rampspoed*. Vertaald, ingeleid en van aantekeningen voorzien door Piet H. Schrijvers (Baarn: Ambo).
 
-[^deux-1998]: (1998) *De constantia. Von der Standhaftigkeit*, ed. Florian Neumann, Excerpta Classica, 16 (Mainz: Dieterich’sche Verlagsbuchhandlung).
+[^justus-lipsius-1998]: (1998) *De constantia. Von der Standhaftigkeit*, ed. Florian Neumann, Excerpta Classica, 16 (Mainz: Dieterich’sche Verlagsbuchhandlung).
 
-[^deux-2006]: (2006) *Justus Lipsius On Constancy/De Constantia*, ed. J. Sellars and transl. by Sir John Stradling (Exeter: University of Exeter Press; reprint 2008 and 2009 by Liverpool University Press).
+[^justus-lipsius-2006]: (2006) *Justus Lipsius On Constancy/De Constantia*, ed. J. Sellars and transl. by Sir John Stradling (Exeter: University of Exeter Press; reprint 2008 and 2009 by Liverpool University Press).
 
-[^deux-2016]: (2016) *Juste Lipse La Constance*, transl. Jacqueline Lagrée (Paris: Classiques Garnier).
+[^justus-lipsius-2016]: (2016) *Juste Lipse La Constance*, transl. Jacqueline Lagrée (Paris: Classiques Garnier).
 
 [^politicorum-nd]: (1589) *Politicorum sive Civilis doctrinae libri sex* (Leiden: C. Plantin).
 
@@ -186,13 +186,13 @@ Montaigne, Michel de
 
 [^von-nd]: (1599) *Von Unterweisung zum Weltlichen Regiment, Oder von Burgerlicher Lehr Sechs Bucher Iusti Lipsii… in unsere Hochteutsche Sprach transferirt und ubergesetzet. Durch Melchiorem Haganaeum* (Amberg: M. Forster).
 
-[^von-1604]: (1604) *Los Seys Libros De Las Politicas O Doctrina Ciuil de Iusto Lipsio… Traduzidos de lengua Latina en Castellana por don Bernardino de Mendoça* (Madrid: E. Bogia).
+[^justus-lipsius-1604]: (1604) *Los Seys Libros De Las Politicas O Doctrina Ciuil de Iusto Lipsio… Traduzidos de lengua Latina en Castellana por don Bernardino de Mendoça* (Madrid: E. Bogia).
 
-[^von-1604-2]: (1604) *Delle Politica Overo Dottrina Civile Di Giusto Lipsio Lib. VI. … Tradotto Dal Signor Antonio Nvmai* (Roma: G. Martinelli – G. Facciotto).
+[^justus-lipsius-1604-2]: (1604) *Delle Politica Overo Dottrina Civile Di Giusto Lipsio Lib. VI. … Tradotto Dal Signor Antonio Nvmai* (Roma: G. Martinelli – G. Facciotto).
 
-[^von-1704]: (1704) *Politicorum sive Civilis Doctrina libri sex, qui ad Principatum maxime spectant*, ex instituto Matthiae Berneggeri, cum indice accurato, praemissa dissertatione Joh. Henr. Boecleri *De Politicis Lipsianis*. Mit einem Vorwort herausgegeben von W. Weber (Hildesheim: G. Olms, 1998) [Frankfurt-Leipzig].
+[^justus-lipsius-1704]: (1704) *Politicorum sive Civilis Doctrina libri sex, qui ad Principatum maxime spectant*, ex instituto Matthiae Berneggeri, cum indice accurato, praemissa dissertatione Joh. Henr. Boecleri *De Politicis Lipsianis*. Mit einem Vorwort herausgegeben von W. Weber (Hildesheim: G. Olms, 1998) [Frankfurt-Leipzig].
 
-[^von-2004]: (2004) *Politica — Six Books of Politics or Political Instruction*, ed. J. Waszink, Bibliotheca Latinitatis Novae, 5 (Assen: Van Gorcum).
+[^justus-lipsius-2004]: (2004) *Politica — Six Books of Politics or Political Instruction*, ed. J. Waszink, Bibliotheca Latinitatis Novae, 5 (Assen: Van Gorcum).
 
 [^justus-lipsius-1604a]: (1604a) *Manuductionis ad Stoicam philosophiam libri tres, L. Annaeo Senecae, aliisque scriptoribus illustrandis* (Antwerp: J. Moretus. (1610b) revised edition Antwerp, J. Moretus. [A few chapters have been translated into English by Robert V. Young in J. Kraye (ed.), *Cambridge Translations of Renaissance Philosophical Texts* (Cambridge: Cambridge University Press, 1997), I: *Moral Philosophy*: 200–209; and into French in J. Lagrée (see below).]
 
@@ -206,15 +206,15 @@ Montaigne, Michel de
 
 [^justus-lipsius-1978]: (1978-) *Iusti Lipsi Epistolae* (Brussels: Koninklijke Vlaamse Academie van België voor Wetenschappen en Kunsten).
 
-[^lipsius-2006]: (2006) *Juste Lipse (1547–1606), Vesta et les Vestales (De Vesta et Vestalibus).* Texte édité, traduit et annoté par Filip Vanhaecke. Préface de Rudolf De Smet (Paris – Louvain – Dudley, MA: Peeters).
+[^justus-lipsius-2006-2]: (2006) *Juste Lipse (1547–1606), Vesta et les Vestales (De Vesta et Vestalibus).* Texte édité, traduit et annoté par Filip Vanhaecke. Préface de Rudolf De Smet (Paris – Louvain – Dudley, MA: Peeters).
 
-[^lipsius-2007]: (2007) *Iustus Lipsius, De recta pronuntiatione / Latinae linguae dialogus. Justus Lipsius, Dialogue sur la prononciation correcte du Latin.* Edition, traduction française et commentaire par Elisabeth Dévière (Hildesheim – Zürich – New York: Olms).
+[^justus-lipsius-2007]: (2007) *Iustus Lipsius, De recta pronuntiatione / Latinae linguae dialogus. Justus Lipsius, Dialogue sur la prononciation correcte du Latin.* Edition, traduction française et commentaire par Elisabeth Dévière (Hildesheim – Zürich – New York: Olms).
 
-[^lipsius-2011]: (2011) *Iusti Lipsii Saturnalium Sermonum libri duo, qui de gladiatoribus / Lipsius’ Saturnaliengespräche.* Eine textkritische Ausgabe mit Übersetzung, Einführung und Anmerkungen. Herausgegeben von Andrea Steenbeek (Leiden – Boston: Brill).
+[^justus-lipsius-2011]: (2011) *Iusti Lipsii Saturnalium Sermonum libri duo, qui de gladiatoribus / Lipsius’ Saturnaliengespräche.* Eine textkritische Ausgabe mit Übersetzung, Einführung und Anmerkungen. Herausgegeben von Andrea Steenbeek (Leiden – Boston: Brill).
 
-[^lipsius-2015]: (2015) *Iusti Lipsii De Amphitheatro et De Amphitheatris quae extra Romam libellus / Lipsius’ Buch über Amphitheater.* Eine textkritische Ausgabe mit Übersetzung, Einführung und Anmerkungen von Andrea Steenbeek (Leiden – Boston: Brill).
+[^justus-lipsius-2015]: (2015) *Iusti Lipsii De Amphitheatro et De Amphitheatris quae extra Romam libellus / Lipsius’ Buch über Amphitheater.* Eine textkritische Ausgabe mit Übersetzung, Einführung und Anmerkungen von Andrea Steenbeek (Leiden – Boston: Brill).
 
-[^lipsius-2017]: (2017) *Ancient Libraries and Renaissance Humanism. The De Bibliothecis of Justus Lipsius.* By Thomas Hendrickson (Leiden – Boston: Brill).
+[^justus-lipsius-2017]: (2017) *Ancient Libraries and Renaissance Humanism. The De Bibliothecis of Justus Lipsius.* By Thomas Hendrickson (Leiden – Boston: Brill).
 
 [^beuth-1990]: Beuth, K., (1990) *Weisheit und Geistesstärke. Eine philosophiegeschichtliche Untersuchung zur ‘Constantia’ des Justus Lipsius* (Frankfurt am Main: P. Lang).
 

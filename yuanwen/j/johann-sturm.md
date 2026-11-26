@@ -187,35 +187,35 @@ Boyle, Robert | Cordemoy, Géraud de | Descartes, René | La Forge, Louis de | L
 
 [^note-3]: For Sturm’s eclecticism, see especially Albrecht (1994)[^albrecht-1994], but also Ahnert (2003)[^ahnert-2003], Albrecht (2001)[^albrecht-2001], and Blackwell (1995 & 1997).
 
-[^sturm-1661]: 1661, *Universalia Euclidea*, The Hague: Adrian Ulac.
+[^johann-sturm-1661]: 1661, *Universalia Euclidea*, The Hague: Adrian Ulac.
 
-[^sturm-1670]: 1670, *Mathesis compendiaria*, Altdorf: Heinrich Meyer.
+[^johann-sturm-1670]: 1670, *Mathesis compendiaria*, Altdorf: Heinrich Meyer.
 
-[^sturm-1676]: 1676, *Collegium experimentale sive curiosum*, part one, Nuremberg: Wolfgang Mauritius & Johannes Andreas Endter.
+[^johann-sturm-1676]: 1676, *Collegium experimentale sive curiosum*, part one, Nuremberg: Wolfgang Mauritius & Johannes Andreas Endter.
 
-[^sturm-1684]: 1684 [PC], *Physica Conciliatrix*, Nuremberg: Wolfgang Mauritius Endter.
+[^johann-sturm-1684]: 1684 [PC], *Physica Conciliatrix*, Nuremberg: Wolfgang Mauritius Endter.
 
-[^sturm-1685]: 1685, *Collegium experimentale sive curiosum*, part two, Nuremberg: Wolfgang Mauritius Endter.
+[^johann-sturm-1685]: 1685, *Collegium experimentale sive curiosum*, part two, Nuremberg: Wolfgang Mauritius Endter.
 
-[^sturm-1686]: 1686, *Philosophia eclectica, h.e. Exercitationes Academicae*, Vol. 1 (a collection of thirteen academic disputations), Altdorf?: Johann Heinrich Schönnerstädt.
+[^johann-sturm-1686]: 1686, *Philosophia eclectica, h.e. Exercitationes Academicae*, Vol. 1 (a collection of thirteen academic disputations), Altdorf?: Johann Heinrich Schönnerstädt.
 
-[^sturm-1689]: 1689, *Mathesis enucleata*, Nuremberg: Wolfgang Mauritius Endter.
+[^johann-sturm-1689]: 1689, *Mathesis enucleata*, Nuremberg: Wolfgang Mauritius Endter.
 
-[^sturm-1692]: 1692, *Idolum* *Naturae*, Altdorf: Heinrich Meyer.
+[^johann-sturm-1692]: 1692, *Idolum* *Naturae*, Altdorf: Heinrich Meyer.
 
-[^sturm-1697]: 1697 [PE I], *Physica Electiva sive Hypothetica*, Vol. 1, Nuremberg: Wolfgang Mauritius Endter; reprint in Christian Wolff (2006): Gesammelte Werke, III Abt., Band 97.1.1 and 97.1.2, Hildesheim: Georg Olms Verlag.
+[^johann-sturm-1697]: 1697 [PE I], *Physica Electiva sive Hypothetica*, Vol. 1, Nuremberg: Wolfgang Mauritius Endter; reprint in Christian Wolff (2006): Gesammelte Werke, III Abt., Band 97.1.1 and 97.1.2, Hildesheim: Georg Olms Verlag.
 
-[^sturm-1698]: 1698, *Philosophia eclectica, h.e. Exercitationes Academicae*, Vol. 2 (a collection of another fourteen disputations) (Frankfurt; Leipzig); *De Natura sibi incassum vindicata*, Altdorf: Heinrich Meyer.
+[^johann-sturm-1698]: 1698, *Philosophia eclectica, h.e. Exercitationes Academicae*, Vol. 2 (a collection of another fourteen disputations) (Frankfurt; Leipzig); *De Natura sibi incassum vindicata*, Altdorf: Heinrich Meyer.
 
-[^sturm-1699]: 1699, *Mathesis juvenilis*, Vol. 1, Nuremberg: Joh. Hofmann & Engelbert Streck.
+[^johann-sturm-1699]: 1699, *Mathesis juvenilis*, Vol. 1, Nuremberg: Joh. Hofmann & Engelbert Streck.
 
-[^sturm-1701]: 1701, *Mathesis juvenilis*, Vol. 2, Nuremberg: Joh. Hofmann & Engelbert Streck.
+[^johann-sturm-1701]: 1701, *Mathesis juvenilis*, Vol. 2, Nuremberg: Joh. Hofmann & Engelbert Streck.
 
-[^sturm-1704]: 1704 [CPMS], *Physicae modernae et sanioris compendium erotematicum*, Nuremberg: Joh. Hofmann & Engelbert Streck.
+[^johann-sturm-1704]: 1704 [CPMS], *Physicae modernae et sanioris compendium erotematicum*, Nuremberg: Joh. Hofmann & Engelbert Streck.
 
-[^sturm-1713]: 1713, *Kurtzer Begriff der Physic oder Natur-Lehre*, anonymous translation of 1704 CPMS, Hamburg: Samuel Heyl.
+[^johann-sturm-1713]: 1713, *Kurtzer Begriff der Physic oder Natur-Lehre*, anonymous translation of 1704 CPMS, Hamburg: Samuel Heyl.
 
-[^sturm-1722]: 1722 [PE II], *Physica electiva sive hypothetica*, *tomus secundus*, introduced and published by Christian Wolff, Wolfgang Mauritius Endter (Nuremberg); reprint in: Christian Wolff (2006): Gesammelte Werke, III Abt., Band 97.2.1 and 97.122, Hildesheim: Georg Olms Verlag.
+[^johann-sturm-1722]: 1722 [PE II], *Physica electiva sive hypothetica*, *tomus secundus*, introduced and published by Christian Wolff, Wolfgang Mauritius Endter (Nuremberg); reprint in: Christian Wolff (2006): Gesammelte Werke, III Abt., Band 97.2.1 and 97.122, Hildesheim: Georg Olms Verlag.
 
 [^brucker-1766]: Brucker, Johann Jakob, 1766, *Historia critica philosophiae a tempore resuscitatarum in occidente literarum ad nostra tempora*, Bernh. Christoph. Breitkopf (Leipzig), Vol. IV, part 1, book 3, ch. 4, pp. 769–772.
 

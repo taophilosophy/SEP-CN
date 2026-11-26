@@ -911,7 +911,7 @@ More recently, many ‘realist’ political theorists have come to focus on more
 
 [^weber-1919]: –––, 1919, *Geistige Arbeit als Beruf, Zweiter Vortrag* [Second Lecture]*: Politik als Beruf*, München und Leipzig: Verlag von Duncker & Humblot; trans. as ‘Politics as a Vocation’, in Weber 1946: 77–128 (ch. 4).
 
-[^weber-1946]: [–––,] 1946, *From Max Weber: Essays in Sociology*, Hans Gerth and C. Wright Mills (eds & trans.), New York: Oxford University Press.
+[^berlin-1946]: [–––,] 1946, *From Max Weber: Essays in Sociology*, Hans Gerth and C. Wright Mills (eds & trans.), New York: Oxford University Press.
 
 [^weinstock-1997]: Weinstock, Daniel, 1997, ‘The Graying of Berlin’, *Critical Review*, 11(4): 481–501. doi:10.1080/08913819708443472
 

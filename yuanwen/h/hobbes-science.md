@@ -207,9 +207,9 @@ Boyle, Robert | Hobbes, Thomas | Hobbes, Thomas: moral and political philosophy 
 
 [^el-1640]: [EL] 1640/1650 [1928], *The Elements of Law*, Ferdinand Tönnies (ed.), Cambridge: Cambridge University Press.
 
-[^el-1642]: 1642–43 [1973], *Critique du de Mundo de Thomas White*, Jean Jacquot and Harold W. Jones (eds.), Paris: Vrin.
+[^hobbes-science-1642]: 1642–43 [1973], *Critique du de Mundo de Thomas White*, Jean Jacquot and Harold W. Jones (eds.), Paris: Vrin.
 
-[^el-1646]: 1646 [1983], *Thomas Hobbes’ A Minute or First Draught of the Optiques: A Critical Edition*, Elaine C. Stroud (ed.), PhD Dissertation, University of Wisconsin-Madison.
+[^hobbes-science-1646]: 1646 [1983], *Thomas Hobbes’ A Minute or First Draught of the Optiques: A Critical Edition*, Elaine C. Stroud (ed.), PhD Dissertation, University of Wisconsin-Madison.
 
 [^lev-1651]: [LEV] 1651 [2012], *Leviathan: The English and Latin Texts*, (The Clarendon Edition of the Works of Thomas Hobbes 4), Noel Malcolm (ed.) Oxford: Oxford University Press. doi:10.1093/actrade/9780199602643.book.1
 

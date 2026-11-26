@@ -640,7 +640,7 @@ al-Farabi | Arabic and Islamic Philosophy, special topics in: essence and existe
 
 [^smith-1935]: Smith, D., 1935, “Euclid, Omar Khayyam and Saccheri,” *Scripta Mathematica*, 3: 5–10.
 
-[^smith-1950]: Ṭabātabā’ī, M., 1950 (1370 A.H.), *Khayyām yā khayyāmī*, Tehran: Qoqnus Press.
+[^umar-khayyam-1950]: Ṭabātabā’ī, M., 1950 (1370 A.H.), *Khayyām yā khayyāmī*, Tehran: Qoqnus Press.
 
 [^twain-1983]: Twain, Mark, 1983. *Mark Twain’s Rubáiyát*. Kevin B. MacDonnell and Alan Gribben (eds.), Austin: Jenkins.
 

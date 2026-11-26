@@ -416,7 +416,7 @@ where 1 > *h* > 0, then the **P** and **Q** likelihood ratios are the same even 
 
 [^dale-1989]: Dale, A. I. 1989. "Thomas Bayes: A Memorial", *The Mathematical Intelligencer* **11**, 18-19.
 
-[^dale-1999]: ----- 1999. *A History of Inverse Probability*, 2nd edition. New York: Springer-Verlag.
+[^bayes-theorem-1999]: ----- 1999. *A History of Inverse Probability*, 2nd edition. New York: Springer-Verlag.
 
 [^earman-1992]: Earman, J. 1992. *Bayes or Bust?* Cambridge, MA: MIT Press.
 
@@ -438,7 +438,7 @@ where 1 > *h* > 0, then the **P** and **Q** likelihood ratios are the same even 
 
 [^jeffrey-1987]: Jeffrey, R. 1987. "Alias Smith and Jones: The Testimony of the Senses", *Erkenntnis* **26**, 391-399.
 
-[^jeffrey-1992]: ----- 1992. *Probability and the Art of Judgment*. New York: Cambridge University Press.
+[^bayes-theorem-1992]: ----- 1992. *Probability and the Art of Judgment*. New York: Cambridge University Press.
 
 [^joyce-1999]: Joyce, J. M. 1999. *The Foundations of Causal Decision Theory*. New York: Cambridge University Press.
 

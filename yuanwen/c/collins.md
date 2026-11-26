@@ -9,7 +9,7 @@ Collins’ central passion is the autonomy of reason particularly with respect t
 
 Collins was clearly a controversial figure in his time; nor has scholarly treatment down the years done much better at being objective. As Ernest Campbell Mossner remarks:
 
-> The Deists were long subjected to the *odium theologicum* and the historians of the movement have almost without exception downgraded or slandered them both socially as well as intellectually since the time of John Leland in the eighteenth century. (Mossner 1967b: 335)[^mossner-1967b]
+> The Deists were long subjected to the *odium theologicum* and the historians of the movement have almost without exception downgraded or slandered them both socially as well as intellectually since the time of John Leland in the eighteenth century. (Mossner 1967b: 335)
 
 ## 1. Life and Works
 
@@ -484,7 +484,7 @@ The editors would like to thank Sally Ferguson for noticing and reporting a numb
 
 ## Notes（原文脚注）
 
-[^note-1]: For an excellent brief account of these men and others, see the article “Deism” by Ernest Campbell Mossner (1967b)[^mossner-1967b].
+[^note-1]: For an excellent brief account of these men and others, see the article “Deism” by Ernest Campbell Mossner (1967b).
 
 [^note-2]: Collins does not use the term ‘emergent property’ but it seems strikingly appropriate. Scholars generally trace the origin of the school of British emergentism of the late nineteenth and twentieth centuries to John Stuart Mill’s System of Logic (1843) (see McLaughlin 1992 [2008])[^mclaughlin-1992]. Mill also does not use the terms ‘emergence’ or ‘emergent property’ (1992 [2008: 25]). The term was first used by George Henry Lewes in a philosophical sense in his 1875 *Problems of Life and Mind* (see the entry on emergent properties). So, it may be of some historical interest that Collins’ argument that there are wholes (such as the brain) that have properties (such as consciousness) that are not had by any of its parts in addition to wholes all of whose properties are derived from their parts (with similar causal language) antedates Mill’s distinction between heteropathic causes and effects and the Composition of causes by some 137 years. I doubt that there is any evidence of the British emergentist philosophers reading or being influenced by Collins. Nonetheless, this may affect our judgment of Collins’ originality as a philosopher.
 
@@ -568,9 +568,9 @@ The editors would like to thank Sally Ferguson for noticing and reporting a numb
 
 [^mossner-1967]: Mossner, Ernest Campbell, 1967, two articles in *The Encyclopedia of Philosophy* (Volume 2), Paul Edwards (ed.), New York: Macmillan.
 
-[^mossner-1967a]: 1967a, “Anthony Collins”, pp. 144–146. Provides a good account of Collins, though significantly shorter and less detailed than the one provided here.
+[^collins-1967a]: 1967a, “Anthony Collins”, pp. 144–146. Provides a good account of Collins, though significantly shorter and less detailed than the one provided here.
 
-[^mossner-1967b]: 1967b, “Deism”, pp. 326–336. Provides a fine overview of Deism both in England and on the continent with brief biographies of both major and minor figures.
+[^collins-1967b]: 1967b, “Deism”, pp. 326–336. Provides a fine overview of Deism both in England and on the continent with brief biographies of both major and minor figures.
 
 [^o’higgins-1970]: O’Higgins, James, 1970, *Anthony Collins The Man and His Works*, The Hague: Martinus Nijhoff. The first full length study of Anthony Collins. The book is strong in its account of Collins’ life, his predecessors, his theological views, and his influence on the continent. What is missing is depth in the account of Collins’ philosophical views.
 

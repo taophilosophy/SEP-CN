@@ -647,11 +647,11 @@ alienation | economics: in early modern philosophy | economics: philosophy of | 
 
 [^braudel-1967]: Braudel, Fernand, 1967, *Civilisation matérielle et capitalisme*, Paris: Librairie Armand Colin; translated by Siân Reynolds as *Civilization and Capitalism, 15th-18th Century*, Berkeley: University of California Press, 1992.
 
-[^braudel-1967-2]: 1967, Vol. I: *Les structures du quotidien, The Structure of Everyday Life.*
+[^capitalism-1967]: 1967, Vol. I: *Les structures du quotidien, The Structure of Everyday Life.*
 
-[^braudel-1979a]: 1979a, Vol. II: *Les jeux de l’échange*, *The Wheels of Commerce.*
+[^capitalism-1979a]: 1979a, Vol. II: *Les jeux de l’échange*, *The Wheels of Commerce.*
 
-[^braudel-1979b]: 1979b, Vol. III: *Le temps du monde, The Perspective of the World.*
+[^capitalism-1979b]: 1979b, Vol. III: *Le temps du monde, The Perspective of the World.*
 
 [^castoriadis-1975]: Castoriadis, Cornelius, 1975 [1998], *L*’*institution imaginaire de la société*, Paris: Éditions du Seuil; translated by Kathleen Blamey as *The Imaginary Institution of Society*, Cambridge, MA: The MIT Press, 1998.
 
@@ -731,7 +731,7 @@ alienation | economics: in early modern philosophy | economics: philosophy of | 
 
 [^schumpeter-1928]: –––, 1928, “The Instability of Capitalism,” *Economic Journal*, 38(151): 361–386.
 
-[^schumpeter-1939]: *–––*, 1939 [2014], *Business Cycles: A Theoretical, Historical, and Statistical Analysis of the Capitalist Process*, 2 vols., New York and London: McGraw-Hill; reprinted, Eastford, CT: Martino Fine Books, 2014.
+[^capitalism-1939]: *–––*, 1939 [2014], *Business Cycles: A Theoretical, Historical, and Statistical Analysis of the Capitalist Process*, 2 vols., New York and London: McGraw-Hill; reprinted, Eastford, CT: Martino Fine Books, 2014.
 
 [^sehon-2024]: Sehon, Scott R., 2024, *Socialism: A Logical Introduction*, New York: Oxford University Press.
 

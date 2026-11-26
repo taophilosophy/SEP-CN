@@ -27,7 +27,7 @@ In this situation Laksha should probably suspend judgment on each of the two cla
 
 That’s all well and good, but she still has to *do* something. She can’t just refuse to treat the patient. Even if she continues to investigate the case for days and days, in effect she has made the decision to not do surgery. She has made a choice even if she dithers.
 
-The point is this: when it comes to *belief-disagreements*, there are three broad options with respect to a specific claim: believe it, disbelieve it, and suspend judgment on it. (And of course there are a great many levels of confidence to take as well.) But when it comes to *action-disagreements*, there are just two options with respect to an action $X$: do $X$, don’t do $X$. Suspending judgment just doesn’t exist when it comes to an action. Or, to put it a different way, suspending judgment on whether to do $X$ does exist but is pretty much the same thing as not doing $X$, since in both cases you don’t do $X$ (Feldman 2006c)[^feldman-2006c].
+The point is this: when it comes to *belief-disagreements*, there are three broad options with respect to a specific claim: believe it, disbelieve it, and suspend judgment on it. (And of course there are a great many levels of confidence to take as well.) But when it comes to *action-disagreements*, there are just two options with respect to an action $X$: do $X$, don’t do $X$. Suspending judgment just doesn’t exist when it comes to an action. Or, to put it a different way, suspending judgment on whether to do $X$ does exist but is pretty much the same thing as not doing $X$, since in both cases you don’t do $X$ (Feldman 2006c).
 
 Thus, there are disagreements over *what to believe* and *what to do*. Despite this distinction, we can achieve some simplicity and uniformity by construing disagreements over what to do as disagreements over what to believe. We do it this way: if we disagree over whether to do action $X$, we are disagreeing over the truth of the claim ‘We should do $X$’ (or ‘I should do $X$’ or ‘$X$ is the best thing for us to do’; no, these aren’t all equivalent). This translation of action-disagreements into claim-disagreements makes it easy for us to construe *all* disagreements as disagreements about what to believe, where the belief may or may not concern an action. Keep in mind, though, that this “translation” doesn’t mean that action-disagreements are just like belief-disagreements that don’t involve actions: the former still requires a choice on what one is actually going to do.
 
@@ -414,7 +414,7 @@ This research has been supported by the programme Mobilitas Pluss project MOBTT4
 
 [^ballantyne-2013b]: –––, 2013b, “Counterfactual Philosophers,” *Philosophy and Phenomenological Research* 87 (2): 368–387.
 
-[^ballantyne-2018]: , 2018, “Is Epistemica Permissivism Intuitive?” *American Philosophical Quarterly* 55 (4): 365–378.
+[^disagreement-2018]: , 2018, “Is Epistemica Permissivism Intuitive?” *American Philosophical Quarterly* 55 (4): 365–378.
 
 [^ballantyne-2011]: Ballantyne, Nathan, and E. J. Coffman, 2011, “Uniqueness, Evidence, and Rationality,” *Philosophers Imprint* 11 (18): 1–13.
 
@@ -468,7 +468,7 @@ This research has been supported by the programme Mobilitas Pluss project MOBTT4
 
 [^carter-2014]: –––, 2014, “Group Peer Disagreement,” *Ratio* 27 (3): 11–28.
 
-[^carter-2018]: , 2018, “On behalf of controversial view agnosticism,” *European Journal of Philosophy* 26 (4): 1358–1370.
+[^disagreement-2018-2]: , 2018, “On behalf of controversial view agnosticism,” *European Journal of Philosophy* 26 (4): 1358–1370.
 
 [^choo-2021]: Choo, Frederick, 2021, “The Epistemic Significance of Religious Disagreements: Cases of Unconfirmed Superiority Disagreements,” *Topoi* 40 (5): 1139–1147.
 
@@ -548,23 +548,23 @@ This research has been supported by the programme Mobilitas Pluss project MOBTT4
 
 [^feldman-2005a]: –––, 2005a, “Respecting the Evidence,” *Philosophical Perspectives* 19: 95–119.
 
-[^feldman-2005b]: , 2005b, “Deep Disagreement, Rational Resolution, and Critical Thinking,” *Informal Logic* 25 (1): 12–23.
+[^disagreement-2005b]: , 2005b, “Deep Disagreement, Rational Resolution, and Critical Thinking,” *Informal Logic* 25 (1): 12–23.
 
-[^feldman-2009]: –––, 2009, “Evidentialism, Higher-Order Evidence, and Disagreement,” *Episteme* 6 (3): 294–312.
+[^disagreement-2009]: –––, 2009, “Evidentialism, Higher-Order Evidence, and Disagreement,” *Episteme* 6 (3): 294–312.
 
-[^feldman-2006a]: –––, 2006a, “Epistemological Puzzles about Disagreement,” in Steve Hetherington (ed.), *Epistemic Futures*, New York: Oxford University Press, pp. 216–236.
+[^disagreement-2006a]: –––, 2006a, “Epistemological Puzzles about Disagreement,” in Steve Hetherington (ed.), *Epistemic Futures*, New York: Oxford University Press, pp. 216–236.
 
-[^feldman-2006b]: –––, 2006b, “Reasonable Religious Disagreements,” in L. Antony (ed.), *Philosophers without Gods: Meditations on Atheism and the Secular Life*, New York: Oxford University Press, 194–214.
+[^disagreement-2006b]: –––, 2006b, “Reasonable Religious Disagreements,” in L. Antony (ed.), *Philosophers without Gods: Meditations on Atheism and the Secular Life*, New York: Oxford University Press, 194–214.
 
-[^feldman-2006c]: –––, 2006c, “Clifford’s Principle and James’ Options,” *Social Epistemology* 20: 19–33.
+[^disagreement-2006c]: –––, 2006c, “Clifford’s Principle and James’ Options,” *Social Epistemology* 20: 19–33.
 
 [^feldman-2010]: Feldman, Richard, and Ted Warfield (eds.), 2010, *Disagreement*, Oxford: Oxford University Press.
 
 [^fleisher-2018]: Fleisher, Will, 2018, “Rational Endorsement,” *Philosophical Studies* 175 (10): 2649–2675.
 
-[^fleisher-2021a]: , 2021a, “Endorsement and Assertion,”*Noûs* 55 (2): 363–384.
+[^disagreement-2021a]: , 2021a, “Endorsement and Assertion,”*Noûs* 55 (2): 363–384.
 
-[^fleisher-2021b]: , 2021b, “How to Endorse Conciliationism,” Synthese 198 (10): 9913–9939.
+[^disagreement-2021b]: , 2021b, “How to Endorse Conciliationism,” Synthese 198 (10): 9913–9939.
 
 [^fogelin-2005]: Fogelin, Robert, 2005, “The Logic of Deep Disagreement,” *Informal Logic* 25 (1): 3–11.
 

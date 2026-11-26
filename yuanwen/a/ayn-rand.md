@@ -41,11 +41,11 @@ Rand paid tribute to Aristotle, whom she considered the greatest of all philosop
 
 ### 1.3 Metaphysics and Epistemology
 
-Fundamental to Rand’s outlook—so fundamental that she derives the name of her philosophical system, “Objectivism”, from it—is a trichotomy among three categories: the *intrinsic*, the *subjective*, and the *objective* (ITOE: 52–54; Rand 1965: 13–23)[^rand-1965]. An intrinsic phenomenon is one whose nature depends wholly on factors external to the mind; a subjective phenomenon is one whose nature depends wholly on the mind; and an objective phenomenon is defined, variously, as that which depends on the relation between a living entity’s nature (including the nature of its mind) and its environment, or as that which depends on the relation between a properly functioning (rational) mind and extramental reality. Commentators are divided over the best way to interpret Rand’s views on this three-way distinction, but the following are plausible examples of each category. An entity’s inherent physical, mind-independent properties, such as the mass of Pluto, are intrinsic; Pluto’s status as a planet, which is partly determined by our cognitive needs, is objective; someone’s feelings about Pluto’s classification, detached from any justification, is subjective.
+Fundamental to Rand’s outlook—so fundamental that she derives the name of her philosophical system, “Objectivism”, from it—is a trichotomy among three categories: the *intrinsic*, the *subjective*, and the *objective* (ITOE: 52–54; Rand 1965: 13–23). An intrinsic phenomenon is one whose nature depends wholly on factors external to the mind; a subjective phenomenon is one whose nature depends wholly on the mind; and an objective phenomenon is defined, variously, as that which depends on the relation between a living entity’s nature (including the nature of its mind) and its environment, or as that which depends on the relation between a properly functioning (rational) mind and extramental reality. Commentators are divided over the best way to interpret Rand’s views on this three-way distinction, but the following are plausible examples of each category. An entity’s inherent physical, mind-independent properties, such as the mass of Pluto, are intrinsic; Pluto’s status as a planet, which is partly determined by our cognitive needs, is objective; someone’s feelings about Pluto’s classification, detached from any justification, is subjective.
 
 Rand holds that there is a widespread tendency to ignore the third category or to assimilate it to the second, thus setting up a false dichotomy between the intrinsic and the subjective. On Rand’s view, many of the fundamental questions of philosophy, from the existence of universals to the nature of value, involve fruitless debates over the false alternative “intrinsic or subjective?” in cases where the phenomenon in question is neither intrinsic nor subjective, but rather objective.
 
-If ethics is the branch of philosophy concerned with practice, then in a sense all of Rand’s philosophy is ethics, for Rand stresses “the supremacy of *actual living* over all other considerations”, and insists that philosophy needs to be “brought *up* to the realm of actual living”—adding “I say intentionally brought *up* to it, not down” (Journal entry, 15 May 1934, p. 72; in Rand 1997: 73)[^rand-1997]. Consequently, Rand regularly concerns herself with the practical implications and social relevance not only of moral and political philosophy, but likewise of the seemingly more arcane strata of metaphysics and epistemology—as when she identifies errors in concept-formation as one of the roots of racism (the error of grouping people by concrete, perceptible similarities rather than by essential, explanatory characteristics), or mind-body dualism as a root of the dichotomy between economic and personal freedom (the error of thinking of economic freedom as primarily physical and personal freedom as primarily spiritual). This approach likewise reflects Rand’s emphasis on integrating each piece of information into the total context of one’s knowledge.
+If ethics is the branch of philosophy concerned with practice, then in a sense all of Rand’s philosophy is ethics, for Rand stresses “the supremacy of *actual living* over all other considerations”, and insists that philosophy needs to be “brought *up* to the realm of actual living”—adding “I say intentionally brought *up* to it, not down” (Journal entry, 15 May 1934, p. 72; in Rand 1997: 73). Consequently, Rand regularly concerns herself with the practical implications and social relevance not only of moral and political philosophy, but likewise of the seemingly more arcane strata of metaphysics and epistemology—as when she identifies errors in concept-formation as one of the roots of racism (the error of grouping people by concrete, perceptible similarities rather than by essential, explanatory characteristics), or mind-body dualism as a root of the dichotomy between economic and personal freedom (the error of thinking of economic freedom as primarily physical and personal freedom as primarily spiritual). This approach likewise reflects Rand’s emphasis on integrating each piece of information into the total context of one’s knowledge.
 
 Rand’s conviction of the vital practical importance of abstract theory may help to explain the passionately polemical nature of her philosophical writing (which some readers find inspiring and others hyperbolic and off-putting), although Nietzsche’s influence, as well as the influence of her Marxist-Leninist education, also probably play a role. Rand also tended—perhaps owing in part to the same two influences—to regard philosophical errors as revelatory of the psychological flaws of their authors.
 
@@ -230,7 +230,7 @@ One reply given by some other egoistic theories is to argue that the egoist’s 
 
 ### 2.6 Altruism
 
-According to Rand, there are only two alternatives to being rationally self-interested: sacrificing one’s proper interests for the sake of other people, or for the sake of the supernatural. The former is altruism, the latter mysticism (1982a: ch. 7). “The basic principle of altruism”, she argues, “is that man has no right to exist for his own sake, that service to others is the only justification of his existence, and that self-sacrifice is his highest moral duty, virtue and value” (“Faith and Force,” PWNI 61). Kant’s ethics is a secularized mysticism insofar as it rests on categorical commands and duty for duty’s sake, which is to say: regardless of any earthly desire or interest (1970). An altruistic ethics equates right action with self-sacrifice for the sake of others’ good and immorality with “selfishness”, while saying nothing about the standard of the good (“Introduction”, 1964a: iii; 1974). It thus fails to answer the prior question of what code of values we should follow and why, and provides no motivation to be moral other than guilt over “selfishness”. When taken to its logical conclusion, altruism does not simply tell us that it is “selfish” to pursue our own desires, but also that it is “selfish to uphold… [our own] convictions, … [that we] must sacrifice them to the convictions of others” (1957 [1992]: 943; Galt’s Speech, 1961a: 142). In foreign policy, altruism is used to justify and gain support for America’s intervention in other countries (1966a). Altruism is also the reason why so many sympathize with, or even praise, bloody dictatorships that proudly proclaim that the sacrifice of the individual is a necessary and noble means to the goal of the collective good (Rand 1966a)[^rand-1966a].
+According to Rand, there are only two alternatives to being rationally self-interested: sacrificing one’s proper interests for the sake of other people, or for the sake of the supernatural. The former is altruism, the latter mysticism (1982a: ch. 7). “The basic principle of altruism”, she argues, “is that man has no right to exist for his own sake, that service to others is the only justification of his existence, and that self-sacrifice is his highest moral duty, virtue and value” (“Faith and Force,” PWNI 61). Kant’s ethics is a secularized mysticism insofar as it rests on categorical commands and duty for duty’s sake, which is to say: regardless of any earthly desire or interest (1970). An altruistic ethics equates right action with self-sacrifice for the sake of others’ good and immorality with “selfishness”, while saying nothing about the standard of the good (“Introduction”, 1964a: iii; 1974). It thus fails to answer the prior question of what code of values we should follow and why, and provides no motivation to be moral other than guilt over “selfishness”. When taken to its logical conclusion, altruism does not simply tell us that it is “selfish” to pursue our own desires, but also that it is “selfish to uphold… [our own] convictions, … [that we] must sacrifice them to the convictions of others” (1957 [1992]: 943; Galt’s Speech, 1961a: 142). In foreign policy, altruism is used to justify and gain support for America’s intervention in other countries (1966a). Altruism is also the reason why so many sympathize with, or even praise, bloody dictatorships that proudly proclaim that the sacrifice of the individual is a necessary and noble means to the goal of the collective good (Rand 1966a).
 
 As a moral code, altruism is impractical, because its requirements are contrary to the requirements of life and happiness, both the agent’s and other people’s. As such, it is also profoundly immoral. Further, its centrality to morality gives morality a bad name.
 
@@ -248,7 +248,7 @@ Rand’s defense of “selfishness” (rational self-interest) and rejection of 
 
 “Force and mind are opposites; morality ends where a gun begins” (*Atlas Shrugged* 1023). Not only actually shooting someone, but also threatening him with a gun, is an act of force. The non-initiation of force against others is the basic moral principle guiding our interactions with others, whether in a political society, or in the state of nature. It is also the basic political principle: “no man may initiate the use of physical force against others. … Men have the right to use physical force *only* in retaliation and *only* against those who initiate its use” (1961b, 1964a: 36). This political principle binds not only individuals in their interactions with each other, but also, importantly, the government. Rand’s ideal society is a society of independent individuals who respect each other’s rights to life, liberty, and property, and who trade value for value, materially and spiritually. They live, in her words, by “the trader principle”. Individual rights and the trader principle are both dictated by the fact that, as rational, independent beings, we need to think and act for our “proper survival” (1961b: 31). Both are based in human nature, and required by respect for individuals as ends in themselves, not mere means to others’ ends.
 
-> The source of man’s rights is not divine law or congressional law, but the law of identity. A is A and Man is Man. Rights are conditions of existence required by man’s nature for his proper survival (Galt’s Speech, Rand 1961a: 182)[^rand-1961a].
+> The source of man’s rights is not divine law or congressional law, but the law of identity. A is A and Man is Man. Rights are conditions of existence required by man’s nature for his proper survival (Galt’s Speech, Rand 1961a: 182).
 
 But what exactly is a right?
 
@@ -268,7 +268,7 @@ Some critics have argued that if we have rights only because we need them for ou
 
 > A right is the sanction of independent action. A right is that which can be exercised without anyone’s permission (Rand 2018 83).
 >
-> [A] right is the moral sanction of a positive, of his freedom to act on his own judgment, for his own goals, by his own voluntary, uncoerced choice. (Rand 1963b 93.)[^rand-1963b]
+> [A] right is the moral sanction of a positive, of his freedom to act on his own judgment, for his own goals, by his own voluntary, uncoerced choice. (Rand 1963b 93.)
 
 Another criticism of Rand’s theory of rights is that it is incompatible with her ethical egoism, because respect for others’ rights cannot be justified as an instrumental means to one’s own ultimate end, however conceived. Her defense of rights suffers from the same unresolved tension between the instrumentalist strand and the deontic strand that we find in her justification of morality in general (Mack 1984, 2003)[^mack-1984][^mack-2003]. As we’ve argued above, the primary reason for respecting others’ rights, or exercising any of the other-regarding virtues, is not one’s self-interest, however conceived, but the fact that others are ends in themselves. What promotes our self-interest is recognizing this and living accordingly, but our self-interest is not the primary, much less the sole, reason for respecting people’s rights (cf. Salmieri 2019 for the opposite conclusion.)[^salmieri-2019][^salmieri-2019-2]
 
@@ -282,7 +282,7 @@ Rand argues that the only just social-political system, the only system compatib
 
 > *laissez-faire* capitalism—with a separation of state and economics, in the same way and for the same reasons as the separation of state and church. (1961b, 1964a)
 
-State regulation of the market, she argues, is responsible for corrupting both state and market institutions, just as political regulation of religion (or religious regulation of politics), corrupts both state and religious institutions. Regulation creates the opportunity for the trading of favors between politicians and religious leaders, and politicians and businesses. *Atlas Shrugged* offers a complex and compelling depiction of the economic, political, and moral corruption spawned by “cronyism” between government and business. *Laissez-faire* capitalism is “the only [social] system that bans force from social relationships” domestically and abroad, because the trader and the warrior are antagonists (Rand 1966a)[^rand-1966a].
+State regulation of the market, she argues, is responsible for corrupting both state and market institutions, just as political regulation of religion (or religious regulation of politics), corrupts both state and religious institutions. Regulation creates the opportunity for the trading of favors between politicians and religious leaders, and politicians and businesses. *Atlas Shrugged* offers a complex and compelling depiction of the economic, political, and moral corruption spawned by “cronyism” between government and business. *Laissez-faire* capitalism is “the only [social] system that bans force from social relationships” domestically and abroad, because the trader and the warrior are antagonists (Rand 1966a).
 
 Rand’s conception of capitalism is, thus, more radical than the mainstream conception, and her defense of it significantly different both from the utilitarian defenses given by most economists, and the religious defenses given by many conservatives (see Den Uyl & Rasmussen 1984b; Machan 1984)[^den-1984b][^machan-1984]. She also, of course, praises capitalism (or semi-capitalism) for creating widespread prosperity, but this feature is itself explained by the fact that it leaves individuals free to produce in peace. In *Atlas Shrugged*, Rand distinguishes between the few business people who earn their money through honest effort, without seeking favors from the government, and the vast majority who are members of “the aristocracy of pull” (“crony capitalists”) and get rich only through such favors, a situation that she thinks has always prevailed in the real world (1964c). She holds that for a short period in the nineteenth-century America came closer to a *laissez-faire* system than any other society before or since, but that capitalism remains an unknown ideal.
 
@@ -316,7 +316,7 @@ If feminism is the view that women are, and ought to be recognized as, men’s i
 
 Her relationship to the feminist movement, however, was more complex. Although she praised Betty Friedan’s *The Feminine Mystique*, mainstream feminism’s collectivism and emphasis on women as victims later led her to reject feminism as such. Many theorists argue that Rand’s work, especially *Atlas Shrugged*, upholds important feminist ideals, even as it succumbs to some anti-feminist tendencies that contradict her individualistic ethics (e.g., Gladstein 1978, 1999; B. Branden 1999; Presley 1999; Sheaffer 1999; Taylor 1999)[^branden-1999][^branden-1999-2][^gladstein-1978][^gladstein-1999][^gladstein-1999-2][^presley-1999][^sheaffer-1999][^taylor-1999]. Many others regard her and her work as plainly anti-feminist, with Susan Brownmiller even calling her “a traitor to her own sex” (Brownmiller 1975)[^brownmiller-1975]. One criticism takes aim at the individualism of Rand’s ethics and politics, which rejects any special government help for women or discrimination against men (e.g., Harrison 1978)[^harrison-1978]. Another objects that Rand has internalized a masculine conception of human nature and virtue, and then created her ideal woman in light of this conception (Brownmiller 1975; Glennon 1979)[^brownmiller-1975][^glennon-1979]. This may be responsible for Rand’s puzzling (and offensive) view that the essence of femininity is to hero-worship (not men, but) masculinity, while insisting (as her novels depict) that women and men are inherently equal and that the ideal romantic relationship is between moral and intellectual equals (1968b; cf. Brown 1999)[^brown-1999]. At least as offensive to many are the violent sex scenes in her novels, especially the infamous scene in *The Fountainhead* that many regard as rape, where Howard Roark has sex with Dominique in spite of her resistance.
 
-Those who reject the charge of rape argue that in the 1940s and 50s, when Rand wrote her novels, it would have been seen as rough sex rather than non-consensual sex (McElroy 1999; Sheaffer 1999)[^mcelroy-1999][^sheaffer-1999]. That Rand herself thought of this scene as consensual is shown a few pages later, when she writes: “They had been united in an understanding beyond the violence, beyond the deliberate obscenity of his action” (1943: 218). And in letters to disturbed readers in 1946 and 1965, Rand denied that the scene is “actual rape” which, she stated, is “a dreadful crime”, a “vicious action and a violation of a woman’s rights” (Rand 1995a)[^rand-1995a]. On the other hand, she also depicts Dominique exultantly telling herself that she’s been raped. McElroy (1999)[^mcelroy-1999], wonders if having her heroine call it rape is just another instance of Rand’s desire to provoke and shock the reader, as when she uses “selfishness” to mean “rational self-interest”. Still, Rand’s claim that Roark’s forcible sex was “the action she [Dominique] wanted” seems to blur a crucial difference between “wanted” and “consented.” Moreover, a justified rape – even a “symbolic” one, for that matter – seems to clash with one of the novel’s major themes: the rejection of Nietzschean domination as a mistaken conception of self-interest,
+Those who reject the charge of rape argue that in the 1940s and 50s, when Rand wrote her novels, it would have been seen as rough sex rather than non-consensual sex (McElroy 1999; Sheaffer 1999)[^mcelroy-1999][^sheaffer-1999]. That Rand herself thought of this scene as consensual is shown a few pages later, when she writes: “They had been united in an understanding beyond the violence, beyond the deliberate obscenity of his action” (1943: 218). And in letters to disturbed readers in 1946 and 1965, Rand denied that the scene is “actual rape” which, she stated, is “a dreadful crime”, a “vicious action and a violation of a woman’s rights” (Rand 1995a). On the other hand, she also depicts Dominique exultantly telling herself that she’s been raped. McElroy (1999)[^mcelroy-1999], wonders if having her heroine call it rape is just another instance of Rand’s desire to provoke and shock the reader, as when she uses “selfishness” to mean “rational self-interest”. Still, Rand’s claim that Roark’s forcible sex was “the action she [Dominique] wanted” seems to blur a crucial difference between “wanted” and “consented.” Moreover, a justified rape – even a “symbolic” one, for that matter – seems to clash with one of the novel’s major themes: the rejection of Nietzschean domination as a mistaken conception of self-interest,
 
 ## 4. Aesthetics
 
@@ -369,9 +369,9 @@ For helpful comments, thanks to Eric Mack, Gregory Salmieri, the editors of SEP,
 
 [^note-3]: True, they owe their existence and nature—their function—to human purposes, and do not care if they are harmed. But in this they are no different from black tulips. At best, Rand’s argument supports her claim that the genesis of value is life.
 
-[^note-4]: Kira (*We the Living*) loses everyone and everything she loves to a vicious totalitarian system, but retains her passionate love for life. Roark (*Fountainhead*), condemned to work in a quarry, perhaps forever, never succumbs to bitterness or hatred towards those who have deprived him of his life-blood—building—treating his pain as an adversary to be vanquished. Francisco’s house in Galt’s Gulch (*Atlas Shrugged*) serves as a metaphor for the virtuous hero’s ability to affirm life in the face of sorrow: the “silent, locked exterior” of the house bespeaks the sorrow and loneliness of Francisco’s years of painful renunciation of the woman and the work he loves, but the interior is filled with an “invigorating brightness”, the sorrow overcome by his affirmation of life (Rand 1957 [1992]: 710)[^rand-1957].
+[^note-4]: Kira (*We the Living*) loses everyone and everything she loves to a vicious totalitarian system, but retains her passionate love for life. Roark (*Fountainhead*), condemned to work in a quarry, perhaps forever, never succumbs to bitterness or hatred towards those who have deprived him of his life-blood—building—treating his pain as an adversary to be vanquished. Francisco’s house in Galt’s Gulch (*Atlas Shrugged*) serves as a metaphor for the virtuous hero’s ability to affirm life in the face of sorrow: the “silent, locked exterior” of the house bespeaks the sorrow and loneliness of Francisco’s years of painful renunciation of the woman and the work he loves, but the interior is filled with an “invigorating brightness”, the sorrow overcome by his affirmation of life (Rand 1957 [1992]: 710).
 
-[^note-5]: In “Philosophy and Sense of Life” (Rand 1966b)[^rand-1966b], however, Rand argues that (i) we start forming our emotional outlook on life—our “sense of life”—long before we have acquired conscious convictions about the world, and that (ii) most people’s sense of life is closer to the truth than their conscious convictions. In her fiction, too, Rand often indicates that emotions can sometimes be more trustworthy in apprising us of the truth than reason, a view that has recently gained support from cognitive, evolutionary, and social psychology. Time and again she shows her heroes justifiably accepting the evidence of their emotions, without quite understanding why. Thus, in an early scene in *Atlas Shrugged* we read that Dagny is convinced that Francisco has become a worthless playboy and that she ought to grant him no personal recognition; but when during their conversation she realizes that she still desires him, we are told that she neither fights it nor regrets it (1957 [1992]: 117–18). In *The Fountainhead*, we see Dominique telling Gail Wynand, a man whose principles she despises, that it will take her “years to understand” why she has started feeling loyal to him, for it “contradicts everything” she’s done and thought—but she knows she owes it to him to warn him against Ellsworth Toohey (1943: 499–500).
+[^note-5]: In “Philosophy and Sense of Life” (Rand 1966b), however, Rand argues that (i) we start forming our emotional outlook on life—our “sense of life”—long before we have acquired conscious convictions about the world, and that (ii) most people’s sense of life is closer to the truth than their conscious convictions. In her fiction, too, Rand often indicates that emotions can sometimes be more trustworthy in apprising us of the truth than reason, a view that has recently gained support from cognitive, evolutionary, and social psychology. Time and again she shows her heroes justifiably accepting the evidence of their emotions, without quite understanding why. Thus, in an early scene in *Atlas Shrugged* we read that Dagny is convinced that Francisco has become a worthless playboy and that she ought to grant him no personal recognition; but when during their conversation she realizes that she still desires him, we are told that she neither fights it nor regrets it (1957 [1992]: 117–18). In *The Fountainhead*, we see Dominique telling Gail Wynand, a man whose principles she despises, that it will take her “years to understand” why she has started feeling loyal to him, for it “contradicts everything” she’s done and thought—but she knows she owes it to him to warn him against Ellsworth Toohey (1943: 499–500).
 
 [^note-6]: McConnell’s (2010)[^mcconnell-2010] oral history of Rand’s life contains many examples of people who attested to Rand’s generosity. One example comes from June Kuriso, née Kato (86–107). Kuriso was attending college in Los Angeles, where she lived in a church-sponsored hostel for Japanese people who had been interned. On Saturdays June would go to Rand and Frank O’Connor’s ranch in San Fernando, spending the weekend typing pages of Atlas Shrugged as Rand wrote them. Rand paid her enough for those two days (\$48, the equivalent of between \$485 and \$524 in today’s dollars) to enable June to support herself through the week and pay for her college expenses. Rand was also very kind and friendly towards her. “When you get right down to it, I’m talking about extreme fondness, love. She was so good to me” (104). Another example is Rand’s persistence over a period of three years in rescuing her first English teacher and her mother’s close friend, Maria Strakhow, from a Displaced Persons’ camp in Austria, paying for her passage and putting her up in her own home for a year (94; and Berliner, 1995a, pp. 301, 360, 362, 367, 369, 376, 377, 401, 406, 409, 426).
 
@@ -385,117 +385,117 @@ For helpful comments, thanks to Eric Mack, Gregory Salmieri, the editors of SEP,
 
 [^note-11]: 11\. Rand’s position bears some resemblance to C.S. Lewis’s self-refutation argument against naturalism, famously critiqued by G.E.M. Anscombe. See C.S. Lewis, *Miracles*, ch. 3. London & Glasgow 1947, revised 1960; and G.E.M. Anscombe, “Reply to Mr. C.S. Lewis’s Argument that ‘Naturalism’ is Self-Refuting”, *Socratic Digest* 4 (1948), 7–15; reprinted in *The Collected Philosophical Papers of G. E. M. Anscombe, Vol. II: Metaphysics and the Philosophy of Mind* (Oxford 1981), 224–232.
 
-[^rand-1943]: 1943, *The Fountainhead*, Indianapolis: Bobbs-Merrill.
+[^ayn-rand-1943]: 1943, *The Fountainhead*, Indianapolis: Bobbs-Merrill.
 
-[^rand-1953]: 1953, *Anthem*, (1ˢᵗ ed. 1938), Caldwell, Idaho: Caxton Printers.
+[^ayn-rand-1953]: 1953, *Anthem*, (1ˢᵗ ed. 1938), Caldwell, Idaho: Caxton Printers.
 
-[^rand-1957]: 1957 [1992], *Atlas Shrugged*, New York: Random House; 1992, 35th Anniversary edition, New York: Penguin Books USA Inc.
+[^ayn-rand-1957]: 1957 [1992], *Atlas Shrugged*, New York: Random House; 1992, 35th Anniversary edition, New York: Penguin Books USA Inc.
 
-[^rand-1959]: 1959, *We the Living*, (1ˢᵗ ed. 1936), New York: Macmillan.
+[^ayn-rand-1959]: 1959, *We the Living*, (1ˢᵗ ed. 1936), New York: Macmillan.
 
-[^rand-1961a]: 1961a, *For the New Intellectual: The Philosophy of Ayn Rand*, New York: New American Library.
+[^ayn-rand-1961a]: 1961a, *For the New Intellectual: The Philosophy of Ayn Rand*, New York: New American Library.
 
-[^rand-1961b]: 1961b, “The Objectivist Ethics”, in Rand 1964a: 13–39. [[Rand 1961b available online](https://courses.aynrand.org/works/the-objectivist-ethics/)]
+[^ayn-rand-1961b]: 1961b, “The Objectivist Ethics”, in Rand 1964a: 13–39. [[Rand 1961b available online](https://courses.aynrand.org/works/the-objectivist-ethics/)]
 
-[^rand-1961c]: 1961c, “America’s Persecuted Minority: Big Business”, in Rand 1967a: 44–62.
+[^ayn-rand-1961c]: 1961c, “America’s Persecuted Minority: Big Business”, in Rand 1967a: 44–62.
 
-[^rand-1962a]: 1962a, “The ‘Conflicts’ of Men’s Interests”, *Objectivist Newsletter* (August), Rand 1982b, reprinted in Rand 1964a: 57–65.
+[^ayn-rand-1962a]: 1962a, “The ‘Conflicts’ of Men’s Interests”, *Objectivist Newsletter* (August), Rand 1982b, reprinted in Rand 1964a: 57–65.
 
-[^rand-1962b]: 1962b, “The Monument Builders”, *Objectivist Newsletter* (December), Rand 1982b, reprinted in Rand 1964a: 100–107.
+[^ayn-rand-1962b]: 1962b, “The Monument Builders”, *Objectivist Newsletter* (December), Rand 1982b, reprinted in Rand 1964a: 100–107.
 
-[^rand-1963a]: 1963a, “The Nature of Government”, *Objectivist Newsletter* (December), Rand 1982b, reprinted in Rand 1964a: 125–134, and Rand 1967a: 329–337.
+[^ayn-rand-1963a]: 1963a, “The Nature of Government”, *Objectivist Newsletter* (December), Rand 1982b, reprinted in Rand 1964a: 125–134, and Rand 1967a: 329–337.
 
-[^rand-1963b]: 1963b, “Man’s Rights”, *Objectivist Newsletter* (April), Rand 1982b, reprinted in Rand 1964a: 92–100, and Rand 1967a: 320–328. [[Rand 1963b available online](http://www.aynrand.org/site/PageServer?pagename=ari_ayn_rand_man_rights)]
+[^ayn-rand-1963b]: 1963b, “Man’s Rights”, *Objectivist Newsletter* (April), Rand 1982b, reprinted in Rand 1964a: 92–100, and Rand 1967a: 320–328. [[Rand 1963b available online](http://www.aynrand.org/site/PageServer?pagename=ari_ayn_rand_man_rights)]
 
-[^rand-1963c]: 1963c, “The Ethics of Emergencies”, *Objectivist Newsletter* (February), reprinted in Rand 1964a: 43–49.
+[^ayn-rand-1963c]: 1963c, “The Ethics of Emergencies”, *Objectivist Newsletter* (February), reprinted in Rand 1964a: 43–49.
 
-[^rand-1963d]: 1963d, “Collectivized ‘Rights’”, *Objectivist Newsletter* (June), reprinted in Rand 1982b, reprinted in Rand 1964a: 118–124.
+[^ayn-rand-1963d]: 1963d, “Collectivized ‘Rights’”, *Objectivist Newsletter* (June), reprinted in Rand 1982b, reprinted in Rand 1964a: 118–124.
 
-[^rand-1964a]: 1964a, *The Virtue of Selfishness: A New Concept of Egoism*, New York: New American Library. Contains Rand’s main statement of her ethics originally delivered as a lecture, and essays by Rand and Nathaniel Branden published in *The Objectivist Newsletter* (Rand 1982b) between 1961 and 1964.
+[^ayn-rand-1964a]: 1964a, *The Virtue of Selfishness: A New Concept of Egoism*, New York: New American Library. Contains Rand’s main statement of her ethics originally delivered as a lecture, and essays by Rand and Nathaniel Branden published in *The Objectivist Newsletter* (Rand 1982b) between 1961 and 1964.
 
-[^rand-1964b]: 1964b, “Playboy Interview: Ayn Rand”, by Alvin Toffler, *Playboy* (March), 35–43.
+[^ayn-rand-1964b]: 1964b, “Playboy Interview: Ayn Rand”, by Alvin Toffler, *Playboy* (March), 35–43.
 
-[^rand-1964c]: 1964c, “Is Atlas Shrugging?” Originally delivered as a lecture, published in 1967a: 150–66.
+[^ayn-rand-1964c]: 1964c, “Is Atlas Shrugging?” Originally delivered as a lecture, published in 1967a: 150–66.
 
-[^rand-1965]: 1965, “What Is Capitalism?”, *Objectivist Newsletter* (November-December), Rand 1982b; reprinted in Rand 1967: 11–34.
+[^ayn-rand-1965]: 1965, “What Is Capitalism?”, *Objectivist Newsletter* (November-December), Rand 1982b; reprinted in Rand 1967: 11–34.
 
-[^rand-1966a]: 1966a, “The Roots of War”, *Objectivist* (June), 1982c; reprinted in Rand 1967a: 35–43.
+[^ayn-rand-1966a]: 1966a, “The Roots of War”, *Objectivist* (June), 1982c; reprinted in Rand 1967a: 35–43.
 
-[^rand-1966b]: 1966b, “Philosophy and Sense of Life”, Rand 1975: 25–33.
+[^ayn-rand-1966b]: 1966b, “Philosophy and Sense of Life”, Rand 1975: 25–33.
 
-[^rand-1967a]: 1967a, *Capitalism: The Unknown Ideal*, New York: New American Library.
+[^ayn-rand-1967a]: 1967a, *Capitalism: The Unknown Ideal*, New York: New American Library.
 
-[^rand-1967b]: 1967b, “Faith and Force: Destroyers of the Modern World”, in Rand 1982a: 70–92.
+[^ayn-rand-1967b]: 1967b, “Faith and Force: Destroyers of the Modern World”, in Rand 1982a: 70–92.
 
-[^rand-1968a]: 1968a, “Of Living Death”, *The Objectivist* (September-November), Rand 1982c; reprinted in Rand 1990b: 46–63.
+[^ayn-rand-1968a]: 1968a, “Of Living Death”, *The Objectivist* (September-November), Rand 1982c; reprinted in Rand 1990b: 46–63.
 
-[^rand-1968b]: 1968b, “On a Woman President”, in Rand 1990b: 267–270.
+[^ayn-rand-1968b]: 1968b, “On a Woman President”, in Rand 1990b: 267–270.
 
-[^rand-1970]: 1970, “Causality Versus Duty” in Rand 1982a: 95–101.
+[^ayn-rand-1970]: 1970, “Causality Versus Duty” in Rand 1982a: 95–101.
 
-[^rand-1971a]: 1971a, *The New Left: The Anti-Industrial Revolution*, New York: New American Library.
+[^ayn-rand-1971a]: 1971a, *The New Left: The Anti-Industrial Revolution*, New York: New American Library.
 
-[^rand-1971b]: 1971b [1968], *Night of January 16ᵗʰ*, (1ˢᵗ ed. 1968), New York: Plume.
+[^ayn-rand-1971b]: 1971b [1968], *Night of January 16ᵗʰ*, (1ˢᵗ ed. 1968), New York: Plume.
 
-[^rand-1973a]: 1973a, “The Metaphysical Versus the Man-Made”, *Ayn Rand Letter* 2.12–13 (Rand 1979); reprinted in Rand 1982a: 23–34.
+[^ayn-rand-1973a]: 1973a, “The Metaphysical Versus the Man-Made”, *Ayn Rand Letter* 2.12–13 (Rand 1979); reprinted in Rand 1982a: 23–34.
 
-[^rand-1973b]: 1973b, “Selfishness Without a Self”, in Rand 1982a: 46–51.
+[^ayn-rand-1973b]: 1973b, “Selfishness Without a Self”, in Rand 1982a: 46–51.
 
-[^rand-1973c]: 1973c, “Censorship: Local and Express”, in Rand 1982a: 172–188.
+[^ayn-rand-1973c]: 1973c, “Censorship: Local and Express”, in Rand 1982a: 172–188.
 
-[^rand-1974]: 1974, “Moral Inflation”, *Ayn Rand Letter* 3.12–14 (Rand 1979).
+[^ayn-rand-1974]: 1974, “Moral Inflation”, *Ayn Rand Letter* 3.12–14 (Rand 1979).
 
-[^rand-1975]: 1975 [1969], *The Romantic Manifesto: A Philosophy of Literature*: Second Revised Edition (1ˢᵗ ed. 1969), New York: New American Library.
+[^ayn-rand-1975]: 1975 [1969], *The Romantic Manifesto: A Philosophy of Literature*: Second Revised Edition (1ˢᵗ ed. 1969), New York: New American Library.
 
-[^rand-1979]: 1979, *The Ayn Rand Letter* (original pub. 1971–1976), Palo Alto, CA: Palo Alto Book Service.
+[^ayn-rand-1979]: 1979, *The Ayn Rand Letter* (original pub. 1971–1976), Palo Alto, CA: Palo Alto Book Service.
 
-[^rand-1981]: 1981, “The Age of Mediocrity”, *Objectivist Forum* (Binswanger 1993) 2.3: 1–11.
+[^ayn-rand-1981]: 1981, “The Age of Mediocrity”, *Objectivist Forum* (Binswanger 1993) 2.3: 1–11.
 
-[^rand-1982a]: 1982a, *Philosophy: Who Needs It*, New York: Bobbs-Merrill.
+[^ayn-rand-1982a]: 1982a, *Philosophy: Who Needs It*, New York: Bobbs-Merrill.
 
-[^rand-1982b]: 1982b, *The Objectivist Newsletter* (original pub. 1962–1966), Palo Alto, CA: Palo Alto Book Service.
+[^ayn-rand-1982b]: 1982b, *The Objectivist Newsletter* (original pub. 1962–1966), Palo Alto, CA: Palo Alto Book Service.
 
-[^rand-1982c]: 1982c, *The Objectivist* (original pub. 1966–1971), Palo Alto, CA: Palo Alto Book Service.
+[^ayn-rand-1982c]: 1982c, *The Objectivist* (original pub. 1966–1971), Palo Alto, CA: Palo Alto Book Service.
 
-[^rand-1986]: 1986, *The Ayn Rand Lexicon: Objectivism from A to Z*, H. Binswanger (ed.), New York: Meridian.
+[^ayn-rand-1986]: 1986, *The Ayn Rand Lexicon: Objectivism from A to Z*, H. Binswanger (ed.), New York: Meridian.
 
-[^rand-1990a]: 1990a [ITOE] [1979], *Introduction to Objectivist Epistemology*, expanded second edition, H. Binswanger and L. Peikoff (eds), New York: Meridian; 1ˢᵗ edition, 1979.
+[^ayn-rand-1990a]: 1990a [ITOE] [1979], *Introduction to Objectivist Epistemology*, expanded second edition, H. Binswanger and L. Peikoff (eds), New York: Meridian; 1ˢᵗ edition, 1979.
 
-[^rand-1990b]: 1990b, *The Voice of Reason: Essays in Objectivist Thought*, L. Peikoff (ed.), New York: Meridian.
+[^ayn-rand-1990b]: 1990b, *The Voice of Reason: Essays in Objectivist Thought*, L. Peikoff (ed.), New York: Meridian.
 
-[^rand-1995a]: 1995a, *Letters of Ayn Rand*, M. Berliner (ed.), New York: Plume.
+[^ayn-rand-1995a]: 1995a, *Letters of Ayn Rand*, M. Berliner (ed.), New York: Plume.
 
-[^rand-1995b]: 1995b, *Ayn Rand’s Marginalia: Her Critical Comments on the Writings of Over 20 Authors*, Robert Mayhew (ed.), New Milford, Conn.: Second Renaissance.
+[^ayn-rand-1995b]: 1995b, *Ayn Rand’s Marginalia: Her Critical Comments on the Writings of Over 20 Authors*, Robert Mayhew (ed.), New Milford, Conn.: Second Renaissance.
 
-[^rand-1997]: 1997, *Journals of Ayn Rand*, D. Harriman (ed.), New York: Plume.
+[^ayn-rand-1997]: 1997, *Journals of Ayn Rand*, D. Harriman (ed.), New York: Plume.
 
-[^rand-1998]: 1998 [1962], *The Ayn Rand Column*, (2ⁿᵈ ed., original pub. 1962), P. Schwartz (ed.), New Milford, Conn.: Second Renaissance.
+[^ayn-rand-1998]: 1998 [1962], *The Ayn Rand Column*, (2ⁿᵈ ed., original pub. 1962), P. Schwartz (ed.), New Milford, Conn.: Second Renaissance.
 
-[^rand-1999a]: 1999a, *Return of the Primitive: The Anti-Industrial Revolution*, P. Schwartz (ed.), New York: Meridian, 1999.
+[^ayn-rand-1999a]: 1999a, *Return of the Primitive: The Anti-Industrial Revolution*, P. Schwartz (ed.), New York: Meridian, 1999.
 
-[^rand-1999b]: 1999b, *The Ayn Rand Reader*, G. Hull and L. Peikoff, New York: Plume.
+[^ayn-rand-1999b]: 1999b, *The Ayn Rand Reader*, G. Hull and L. Peikoff, New York: Plume.
 
-[^rand-1999c]: 1999c, *Russian Writings on Hollywood*, M. Berliner (ed.), D. Garmong (trans.), Los Angeles: Ayn Rand Institute.
+[^ayn-rand-1999c]: 1999c, *Russian Writings on Hollywood*, M. Berliner (ed.), D. Garmong (trans.), Los Angeles: Ayn Rand Institute.
 
-[^rand-1999d]: 1999d, *Why Businessmen Need Philosophy*, R. Ralston (ed.), Los Angeles: Ayn Rand Institute.
+[^ayn-rand-1999d]: 1999d, *Why Businessmen Need Philosophy*, R. Ralston (ed.), Los Angeles: Ayn Rand Institute.
 
-[^rand-2000]: 2000, *The Art of Fiction: A Guide for Writers and Readers*, T. Boeckmann (ed.), New York: Plume, 2000.
+[^ayn-rand-2000]: 2000, *The Art of Fiction: A Guide for Writers and Readers*, T. Boeckmann (ed.), New York: Plume, 2000.
 
-[^rand-2001]: 2001, *The Art of Nonfiction: A Guide for Writers and Readers*, R. Mayhew (ed.), New York: Plume.
+[^ayn-rand-2001]: 2001, *The Art of Nonfiction: A Guide for Writers and Readers*, R. Mayhew (ed.), New York: Plume.
 
-[^rand-2005a]: 2005a [1984], *The Early Ayn Rand: Revised Edition: A Selection from Her Unpublished Fiction* (1ˢᵗ ed. 1984), L. Peikoff (ed.), New York: New American Library.
+[^ayn-rand-2005a]: 2005a [1984], *The Early Ayn Rand: Revised Edition: A Selection from Her Unpublished Fiction* (1ˢᵗ ed. 1984), L. Peikoff (ed.), New York: New American Library.
 
-[^rand-2005b]: 2005b, *Ayn Rand Answers: The Best of Her Q & A*, Robert Mayhew (ed.), New York: New American Library.
+[^ayn-rand-2005b]: 2005b, *Ayn Rand Answers: The Best of Her Q & A*, Robert Mayhew (ed.), New York: New American Library.
 
-[^rand-2009]: 2009, *Objectively Speaking: Ayn Rand Interviewed*, M. Podritske and P. Schwartz (eds), Lanham, MD: Lexington Books.
+[^ayn-rand-2009]: 2009, *Objectively Speaking: Ayn Rand Interviewed*, M. Podritske and P. Schwartz (eds), Lanham, MD: Lexington Books.
 
-[^rand-2014]: 2014, *The Unconquered: With Another, Earlier Adaptation of We the Living*, R. Mayhew (ed.), New York: Palgrave Macmillan.
+[^ayn-rand-2014]: 2014, *The Unconquered: With Another, Earlier Adaptation of We the Living*, R. Mayhew (ed.), New York: Palgrave Macmillan.
 
-[^rand-2015]: 2015, *Ideal: The Novel and the Play*, New York: Penguin.
+[^ayn-rand-2015]: 2015, *Ideal: The Novel and the Play*, New York: Penguin.
 
-[^rand-2018a]: 2018a, “Textbook of Americanism,” in Hoenig, 2018: 1–16.
+[^ayn-rand-2018a]: 2018a, “Textbook of Americanism,” in Hoenig, 2018: 1–16.
 
-[^rand-2018b]: 2018b, “Workshop on Ethics and Politics,” in Hoenig, 2018: 105–122.
+[^ayn-rand-2018b]: 2018b, “Workshop on Ethics and Politics,” in Hoenig, 2018: 105–122.
 
 [^annas-1993]: Annas, J., 1993, *The Morality of Happiness*, New York: Oxford University Press.
 
@@ -561,9 +561,9 @@ For helpful comments, thanks to Eric Mack, Gregory Salmieri, the editors of SEP,
 
 [^cox-1986]: Cox, S. 1986, “Ayn Rand: Theory versus Creative Life”, *Journal of Libertarian Studies*, 8 (1): 19–29.
 
-[^others-2013a]: ––,“2013a, Rand, Paterson, and the Problem of Anarchism”, *Journal of Ayn Rand Studies*, 13 (1): 3–25.
+[^ayn-rand-2013a]: ––,“2013a, Rand, Paterson, and the Problem of Anarchism”, *Journal of Ayn Rand Studies*, 13 (1): 3–25.
 
-[^others-2013b]: ––,“2013b, Rejoinder to Roderick T. Long, Anarchism and Its Own Problems,” *Journal of Ayn Rand Studies*, 13 (2): 224–245.
+[^ayn-rand-2013b]: ––,“2013b, Rejoinder to Roderick T. Long, Anarchism and Its Own Problems,” *Journal of Ayn Rand Studies*, 13 (2): 224–245.
 
 [^den-1999]: Den Uyl, D., 1999, *The Fountainhead: An American Novel*, Woodbridge, Conn.: Twayne Publishers.
 

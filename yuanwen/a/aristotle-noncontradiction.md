@@ -346,7 +346,7 @@ Thanks to Evan Keeling, Anne Veenstra, Emily Fletcher, David Ebrey, and Graham P
 
 [^long-1981]: Long, A. A., 1981. “Aristotle and the history of Greek scepticism,” in D. J. O. O’Meara (ed.), *Studies in Aristotle*, Washington D.C: Catholic University of America Press, 1981, 79–106.
 
-[^long-1910]: Łukasiewicz, J., 1910. “Aristotle on the law of contradiction,” in J. Barnes, M. Schofield, and R. Sorabji (eds.), *Articles on Aristotle*, vol. 3 Metaphysics. New York: St. Martin’s Press, 1979.
+[^aristotle-noncontradiction-1910]: Łukasiewicz, J., 1910. “Aristotle on the law of contradiction,” in J. Barnes, M. Schofield, and R. Sorabji (eds.), *Articles on Aristotle*, vol. 3 Metaphysics. New York: St. Martin’s Press, 1979.
 
 [^mackie-1964]: Mackie, J. L., 1964. “Self-Refutation: a formal analysis,” *Philosophical Quarterly*, 14: 193–203.
 

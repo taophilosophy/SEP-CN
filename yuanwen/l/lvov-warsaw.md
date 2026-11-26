@@ -247,13 +247,13 @@ The author and editors would like to thank Branden Fitelson for supplying a corr
 
 [^leśniewski-1992]: Leśniewski, S., 1992, *Collected Works*, Dodrecht: Kluwer.
 
-[^leśniewski-1957]: Łukasiewicz, J., 1957, *Aristotle’s Syllogistic from the Standpoint of Modern Formal Logic*, Oxford: Clarendon Press, 2ⁿᵈ edition.
+[^lvov-warsaw-1957]: Łukasiewicz, J., 1957, *Aristotle’s Syllogistic from the Standpoint of Modern Formal Logic*, Oxford: Clarendon Press, 2ⁿᵈ edition.
 
-[^leśniewski-1963]: Łukasiewicz, J., 1963, *Elements of Mathematical Logic*, Warszawa: Państwowe Wydawnictwo Naukowe.
+[^lvov-warsaw-1963]: Łukasiewicz, J., 1963, *Elements of Mathematical Logic*, Warszawa: Państwowe Wydawnictwo Naukowe.
 
-[^leśniewski-1970]: Łukasiewicz, J., 1970, *Selected Works*, Amsterdam: North-Holland.
+[^lvov-warsaw-1970]: Łukasiewicz, J., 1970, *Selected Works*, Amsterdam: North-Holland.
 
-[^leśniewski-1993]: Łukasiewicz, J., 1993, *Über den Satz des Widerspruchs bei Aristoteles*, Hildesheim: Olms.
+[^lvov-warsaw-1993]: Łukasiewicz, J., 1993, *Über den Satz des Widerspruchs bei Aristoteles*, Hildesheim: Olms.
 
 [^mehlberg-1956]: Mehlberg, H., 1956, *The Reach of Science*, Toronto: University of Toronto Press.
 

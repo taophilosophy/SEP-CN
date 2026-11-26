@@ -394,15 +394,15 @@ Kalle Puolakka would like to thank The Finnish Cultural Foundation for financial
 
 [^ae-1934]: [*AE*] 1934, *Art as Experience*, New York: Minton, Balch & Co.; reprinted in *LW 10*.
 
-[^ae-1926]: 1926, “Mexico’s Educational Renaissance”, *The New Republic*, 48(616): 116–117; reprinted in *LW 2*: 199–205.
+[^dewey-aesthetics-1926]: 1926, “Mexico’s Educational Renaissance”, *The New Republic*, 48(616): 116–117; reprinted in *LW 2*: 199–205.
 
-[^ae-1931]: 1931, “Qualitative Thought”, in *Philosophy and Civilization*, New York: G. P. Putnam’s Sons, 93–106; reprinted in *LW 3*: 243–262.
+[^dewey-aesthetics-1931]: 1931, “Qualitative Thought”, in *Philosophy and Civilization*, New York: G. P. Putnam’s Sons, 93–106; reprinted in *LW 3*: 243–262.
 
-[^ae-1939]: 1939, “Experience, Knowledge and Value: A Rejoinder”, in *The Philosophy of John Dewey*, P. Schilpp (ed.), Evanston, IL: Northwestern University, 517–608; reprinted in *LW 13*: 3–90. (See 15–19 for his response to Pepper.)
+[^dewey-aesthetics-1939]: 1939, “Experience, Knowledge and Value: A Rejoinder”, in *The Philosophy of John Dewey*, P. Schilpp (ed.), Evanston, IL: Northwestern University, 517–608; reprinted in *LW 13*: 3–90. (See 15–19 for his response to Pepper.)
 
-[^ae-1948]: 1948, “A Comment on the Foregoing Criticisms”, *The Journal of Aesthetics and Art Criticism*, 6(3): 207–209. doi:10.2307/426477; reprinted in *LW 15*: 97–100. Reply to Croce 1948.
+[^dewey-aesthetics-1948]: 1948, “A Comment on the Foregoing Criticisms”, *The Journal of Aesthetics and Art Criticism*, 6(3): 207–209. doi:10.2307/426477; reprinted in *LW 15*: 97–100. Reply to Croce 1948.
 
-[^ae-1950]: 1950, “Aesthetic Experience as a Primary Phase and as an Artistic Development”, *The Journal of Aesthetics and Art Criticism*, 9(1): 56–58. doi:10.2307/426103; reprinted in *LW 16*: 195–198.
+[^dewey-aesthetics-1950]: 1950, “Aesthetic Experience as a Primary Phase and as an Artistic Development”, *The Journal of Aesthetics and Art Criticism*, 9(1): 56–58. doi:10.2307/426103; reprinted in *LW 16*: 195–198.
 
 [^alexander-1987]: Alexander, Thomas M., 1987, *John Dewey’s Theory of Art, Experience, and Nature: The Horizon of Feeling*, Albany, NY: SUNY Press.
 

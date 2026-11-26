@@ -1103,6 +1103,11 @@ def render_blocks(blocks, ctx, bib_container=False):
                 # 时整段消失（h0_extra 骨干，33 件）。
                 # 无四位年份＝不可能是可引用条目 → 直接落段（文字照录）；
                 # 含年份者维持定义流（可能被正文引用，键语义照旧）。
+                # 注：曾试「以冒号收尾的引导句一律落段」（specs/053 第五十批修 B），
+                # 键名确实更干净（`among-1982` 伪键消失），但 B3.2 从 gap 1 恶化到
+                # gap 22——装配层按账 `bib_seq` 定位书目单元，引导句的段落身份
+                # 不在账里，落段即与 H0 的「导语→列表」次序脱钩（clauberg 判例）。
+                # 该族唯一出口是账/装配同改（书目区 `<p>` 入账），见第五十一批。
                 if re.search(r'\b(1[6-9]\d\d|20\d\d)\b', text):
                     ctx.bib_entries.append((text, ctx.bib_section))
                 else:
@@ -1215,11 +1220,14 @@ def _section_author(section):
     return ''
 
 
-def build_cite_keys(entry_texts, fallback_author=None):
+def build_cite_keys(entry_texts, fallback_author=None, section_free=True):
     """文献条目 → [{key, pats, text}]。key 取 首作者姓-年份[后缀]，冲突加序号。
 
     条目可为 str 或 (text, section)：section 为该条所在小节标题，
     年份起首的条目（`1913, “On the constitution…”`）靠它推断作者。
+    section_free（specs/053 第五十批，默认开）：年份起首且无姓可扫的条目不再向
+    小节标题或前条姓氏推断作者，一律用 fallback_author——使键名可由 md 确定性
+    复算（无译稿，键名重排零风险）。构建期与求值期同一规则，B3.1 方能闭合。
     fallback_author（specs/039 I3 标定，sartre 判例）：主文献区条目以年份起首、
     无作者名，节首 prev_surnames 为空时旧式整条 continue——30 条文献（含其中
     公式）从产物消失。兜底键 `<fallback_author>-<year>` 只保定义行不生文内
@@ -1279,10 +1287,10 @@ def build_cite_keys(entry_texts, fallback_author=None):
                 # 2026-11-15：年份起首条目（`1913, “On the constitution…”`）无姓可扫，
                 # 小节标题「Works by X」「X’s Works」是唯一作者线索；旧式直接落到
                 # prev_surnames，首条即整条丢弃（bohr 的「Works by Bohr」整节蒸发）。
-                sec = _section_author(section)
+                sec = '' if section_free else _section_author(section)
                 if sec:
                     surnames = [sec]
-            if not surnames:
+            if not surnames and not section_free:
                 surnames = list(prev_surnames)
             if not surnames and fallback_author:
                 # specs/039 I3 标定（sartre 判例）：主文献区节首年份起首条目

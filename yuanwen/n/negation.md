@@ -1091,7 +1091,7 @@ We would like to thank a number of anonymous referees of the Stanford Encycloped
 
 [^löbner-2000]: Löbner, S., 2000, “Polarity and natural language: Predication, quantification, and negation in particularizing and characterizing sentences”, *Linguistics and Philosophy*, 23: 213–308.
 
-[^löbner-1930]: Łukasiewicz, J., 1930, “Philosophical remarks on many-valued systems of propositional logics”, in S. McCall (ed.), *Polish Logic 1920–1939*, 40–65, Oxford: Clarendon.
+[^negation-1930]: Łukasiewicz, J., 1930, “Philosophical remarks on many-valued systems of propositional logics”, in S. McCall (ed.), *Polish Logic 1920–1939*, 40–65, Oxford: Clarendon.
 
 [^malinowski-1993]: Malinowski, G., 1993, *Many-valued Logics*, Oxford: Clarendon.
 

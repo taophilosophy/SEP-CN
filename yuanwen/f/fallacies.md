@@ -580,7 +580,7 @@ The author would like to thank the executive and subject editors who suggested a
 
 [^sidgwick-1878]: Sidgwick, A., 1878, “The negative character of logic,” *Mind*, 3: 350–357.
 
-[^sidgwick-1884]: ––, 1884, *Fallacies: A View of Logic from the Practical Side*, New York: D. Appleton and Co.
+[^fallacies-1884]: ––, 1884, *Fallacies: A View of Logic from the Practical Side*, New York: D. Appleton and Co.
 
 [^smith-1997]: Smith, R., 1997, “Commentary,” *Aristotle: Topics, Books I and VIII*, Oxford: Clarendon Press.
 
@@ -598,7 +598,7 @@ The author would like to thank the executive and subject editors who suggested a
 
 [^van-2004]: –––, 2004, *A Systematic Theory of Argumentation*, Cambridge: Cambridge University Press.
 
-[^van-2018]: ___, 2018, *Argumentation Theory: A Practical Dialectical Perspective*, Cham: Springer.
+[^fallacies-2018]: ___, 2018, *Argumentation Theory: A Practical Dialectical Perspective*, Cham: Springer.
 
 [^walton-1991]: Walton, D. N., 1991, *Begging the Question*, New York: Greenwood.
 

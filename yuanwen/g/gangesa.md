@@ -372,17 +372,17 @@ Early Modern India, analytic philosophy in | Indian Philosophy (Classical): epis
 
 [^saha-1991]: Ed. S.R. Saha and P.K. Mukhopadhyaya, *The Śabdakhaṇḍa of Gaṅgeśa’s Tattvacintāmaṇi*, Calcutta: Jadavpur University and K.P. Bagchi. 1991. **Translation**. V.P. Bhatta. 2005. 2 vols. Delhi: Eastern Book Linkers. **Translation of sections**: The *vidhi-vāda*: V.N. Jha. 1987. *The Philosophy of Injunctions*. Delhi: Pratibha Prakashan. The *apūrva-vāda*: V.N. Jha, 1986. *The Logic of the Intermediate Causal Link*. Delhi: Sri Satguru Publications. The section on *yoga-rūḍhi*: Subash Chandra Dash. 1992. *Gaṅgeśa on Yogarūḍhi*. Delhi: Sri Satguru Publications. The *ākhyāta-vāda*: Toshihoru Wada, in four installments:
 
-[^saha-2007]: 2007. “Gaṅgeśa on the Meaning of Verbal Suffixes 1,” in K. Preisendanz, ed. *Expanding and Merging Horizons: Contributions to South Asian and Cross-Cultural Studies in Commemoration of Wilhelm Halbfass*. Vienna: Austrian Academy of Sciences, pp. 415–29;
+[^gangesa-2007]: 2007. “Gaṅgeśa on the Meaning of Verbal Suffixes 1,” in K. Preisendanz, ed. *Expanding and Merging Horizons: Contributions to South Asian and Cross-Cultural Studies in Commemoration of Wilhelm Halbfass*. Vienna: Austrian Academy of Sciences, pp. 415–29;
 
-[^saha-2012]: 2012. “Gaṅgeśa on the Meaning of Verbal Suffixes 2,” in C. Watanabe, M. Desmarais, and Y. Honda, eds., *Saṃskṛta-Sādhutā: Goodness of Sanskrit: Studies in Honor of Professor Ashok N. Aklujkar*. New Delhi: D. K. Printworld, pp. 528–44;
+[^gangesa-2012]: 2012. “Gaṅgeśa on the Meaning of Verbal Suffixes 2,” in C. Watanabe, M. Desmarais, and Y. Honda, eds., *Saṃskṛta-Sādhutā: Goodness of Sanskrit: Studies in Honor of Professor Ashok N. Aklujkar*. New Delhi: D. K. Printworld, pp. 528–44;
 
-[^saha-2013]: 2013. “Gaṅgeśa on the Meaning of Verbal Suffixes 3,” *Nagoya Studies in Indian Culture and Buddhism: Saṃbhāṣā* 30:1–14;
+[^gangesa-2013]: 2013. “Gaṅgeśa on the Meaning of Verbal Suffixes 3,” *Nagoya Studies in Indian Culture and Buddhism: Saṃbhāṣā* 30:1–14;
 
-[^saha-2014]: 2014. “Gaṅgeśa on the Meaning of Verbal Suffixes,” *Sanskrit Studies* 3: 178–209. The *dhātu-vāda*: Toshihoru Wada, in two installments:
+[^gangesa-2014]: 2014. “Gaṅgeśa on the Meaning of Verbal Suffixes,” *Sanskrit Studies* 3: 178–209. The *dhātu-vāda*: Toshihoru Wada, in two installments:
 
 [^gaṅgeśa-nd]: 2115. “Gaṅgeśa on the Meaning of Verbal Roots (*dhātu*),” *Indologica Taurinensia* 41–42: 193–218;
 
-[^gaṅgeśa-2016]: 2016. “Gaṅgeśa on the Meaning of Verbal Roots (*dhātu*),”*Journal of UA Foundation for Indological Studies*, vol. 2: *Festschrift Professor Karl H. Potter*, pp. 35–50.
+[^gangesa-2016]: 2016. “Gaṅgeśa on the Meaning of Verbal Roots (*dhātu*),”*Journal of UA Foundation for Indological Studies*, vol. 2: *Festschrift Professor Karl H. Potter*, pp. 35–50.
 
 [^dharmakīrti-1993]: Dharmakīrti. *Vāda-nyāya*. Tr. Pradeep P. Gokhale. 1993. *Vādanyāya of Dharmakīrti: The Logic of Debate*. Delhi: Sri Satguru Publications.
 

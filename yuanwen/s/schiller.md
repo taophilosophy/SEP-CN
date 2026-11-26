@@ -272,7 +272,7 @@ This epigram is sometimes used to suggest that Schiller himself interpreted Kant
 
 [^gd-2005]: [GD] 2005, “On Grace and Dignity”, Jane V. Curran (trans.), in Jane V. Curran and Christophe Fricker (eds.), *Schiller’s ‘On Grace and Dignity’ in Its Cultural Context: Essays and a New Translation*, Rochester, NY: Camden House: pp. 123–170. Cited **GD** followed by page number.
 
-[^gd-1993]: [E] 1993, *Essays*, Daniel O. Dahlstrom and Walter Hinderer (eds.), New York: Continuum. Cited **E** followed by page number.
+[^schiller-1993]: [E] 1993, *Essays*, Daniel O. Dahlstrom and Walter Hinderer (eds.), New York: Continuum. Cited **E** followed by page number.
 
 [^art-nd]: “On the Art of Tragedy”, Daniel O. Dahlstrom (trans.)
 

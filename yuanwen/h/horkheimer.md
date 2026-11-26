@@ -177,51 +177,51 @@ Adorno, Theodor W. | critical theory | Dilthey, Wilhelm | Freud, Sigmund | Haber
 
 [^max-nd]: *Max Horkheimer Gesammelte Schriften*, 19 volumes, A Schmidt and G. Schmid Noerr, (eds.), Frankfurt am Main: Fischer.
 
-[^max-1931]: 1931, “The Present Situation of Social Philosophy and the Tasks of an Institute for Social Research,” in *Between Philosophy and Social Science: Selected Early Writings*, G. Hunter, M. Kramer and J. Torpey, (trans.), Cambridge, MA: MIT Press, 1993, pp. 1–14.
+[^horkheimer-1931]: 1931, “The Present Situation of Social Philosophy and the Tasks of an Institute for Social Research,” in *Between Philosophy and Social Science: Selected Early Writings*, G. Hunter, M. Kramer and J. Torpey, (trans.), Cambridge, MA: MIT Press, 1993, pp. 1–14.
 
-[^max-1932]: 1932, “Notes on Science and the Crisis,” in *Critical Theory: Selected Essays*, M. O’Connell (ed.), New York: Continuum Press, 1999, pp. 3–9.
+[^horkheimer-1932]: 1932, “Notes on Science and the Crisis,” in *Critical Theory: Selected Essays*, M. O’Connell (ed.), New York: Continuum Press, 1999, pp. 3–9.
 
-[^max-1933a]: 1933a, “Materialism and Metaphysics,” in *Critical Theory: Selected Essays*, pp. 10–46.
+[^horkheimer-1933a]: 1933a, “Materialism and Metaphysics,” in *Critical Theory: Selected Essays*, pp. 10–46.
 
-[^max-1933b]: 1933b, “Materialism and Morality,” in *Between Philosophy and Social Science: Selected Early Writings*, pp. 15–47.
+[^horkheimer-1933b]: 1933b, “Materialism and Morality,” in *Between Philosophy and Social Science: Selected Early Writings*, pp. 15–47.
 
-[^max-1934a]: 1934a, *Dämmerung*, partially translated as “Dawn: Notes 1926–1931,” in *Dawn and Decline: Notes 1926–1931 & 1950–1969*, M. Shaw, (trans.), New York: Seabury Press, 1978, pp. 15–112.
+[^horkheimer-1934a]: 1934a, *Dämmerung*, partially translated as “Dawn: Notes 1926–1931,” in *Dawn and Decline: Notes 1926–1931 & 1950–1969*, M. Shaw, (trans.), New York: Seabury Press, 1978, pp. 15–112.
 
-[^max-1934b]: 1934b, “On Bergson’s Metaphysics of Time,” P. Thomas and S. Martin, (trans.), *Radical Philosophy*, 131 (2005): 9–19.
+[^horkheimer-1934b]: 1934b, “On Bergson’s Metaphysics of Time,” P. Thomas and S. Martin, (trans.), *Radical Philosophy*, 131 (2005): 9–19.
 
-[^max-1934c]: 1934c, “The Rationalism Debate in Contemporary Philosophy,” in *Between Philosophy and Social Science: Selected Early Writings*, pp. 217–264.
+[^horkheimer-1934c]: 1934c, “The Rationalism Debate in Contemporary Philosophy,” in *Between Philosophy and Social Science: Selected Early Writings*, pp. 217–264.
 
-[^max-1935a]: 1935a, “On the Problem of Truth,” in *Between Philosophy and Social Science: Selected Early Writings*, pp. 177–215.
+[^horkheimer-1935a]: 1935a, “On the Problem of Truth,” in *Between Philosophy and Social Science: Selected Early Writings*, pp. 177–215.
 
-[^max-1935b]: 1935b, “Remarks on Philosophical Anthropology,” in *Between Philosophy and Social Science: Selected Early Writings*, pp. 151–175.
+[^horkheimer-1935b]: 1935b, “Remarks on Philosophical Anthropology,” in *Between Philosophy and Social Science: Selected Early Writings*, pp. 151–175.
 
-[^max-1935c]: 1935c, “Thoughts on Religion,” in *Critical Theory: Selected Essays*, pp. 129–131.
+[^horkheimer-1935c]: 1935c, “Thoughts on Religion,” in *Critical Theory: Selected Essays*, pp. 129–131.
 
-[^max-1936]: 1936, “Egoism and Freedom Movements: On the Anthropology of the Bourgeois Era,” in *Between Philosophy and Social Science: Selected Early Writings*, pp. 49–110.
+[^horkheimer-1936]: 1936, “Egoism and Freedom Movements: On the Anthropology of the Bourgeois Era,” in *Between Philosophy and Social Science: Selected Early Writings*, pp. 49–110.
 
-[^max-1937a]: 1937a, “The Latest Attack on Metaphysics,” *Critical Theory: Selected Essays*, pp. 132–187.
+[^horkheimer-1937a]: 1937a, “The Latest Attack on Metaphysics,” *Critical Theory: Selected Essays*, pp. 132–187.
 
-[^max-1937b]: 1937b, “Traditional and Critical Theory,” in *Critical Theory: Selected Essays*, pp. 188–243.
+[^horkheimer-1937b]: 1937b, “Traditional and Critical Theory,” in *Critical Theory: Selected Essays*, pp. 188–243.
 
-[^max-1937c]: 1937c, “Postscript,” in *Critical Theory: Selected Essays*, pp. 24–252.
+[^horkheimer-1937c]: 1937c, “Postscript,” in *Critical Theory: Selected Essays*, pp. 24–252.
 
-[^max-1941]: 1941, “Art and Mass Culture,” in *Critical Theory: Selected Essays*, pp. 273–290.
+[^horkheimer-1941]: 1941, “Art and Mass Culture,” in *Critical Theory: Selected Essays*, pp. 273–290.
 
-[^max-1947a]: 1947a, with T. Adorno, *Dialectic of Enlightenment: Philosophical Fragments*, E. Jephcott, (trans.), G. Schmid Noerr, (ed.), Stanford, CA: Stanford University Press, 2002.
+[^horkheimer-1947a]: 1947a, with T. Adorno, *Dialectic of Enlightenment: Philosophical Fragments*, E. Jephcott, (trans.), G. Schmid Noerr, (ed.), Stanford, CA: Stanford University Press, 2002.
 
-[^max-1947b]: 1947b, *Eclipse of Reason*, London: Continuum Press, 2004.
+[^horkheimer-1947b]: 1947b, *Eclipse of Reason*, London: Continuum Press, 2004.
 
-[^max-1961a]: 1961a, “Schopenhauer Today,” in *Critique of Instrumental Reason: Lectures and Essays Since the End of WWII*, M. O’Connell, (trans.), New York: Seabury Press, 1974, pp. 63–83.
+[^horkheimer-1961a]: 1961a, “Schopenhauer Today,” in *Critique of Instrumental Reason: Lectures and Essays Since the End of WWII*, M. O’Connell, (trans.), New York: Seabury Press, 1974, pp. 63–83.
 
-[^max-1961b]: 1961b, “The German Jews,” in *Critique of Instrumental Reason: Lectures and Essays Since the End of WWII*, pp. 101–118.
+[^horkheimer-1961b]: 1961b, “The German Jews,” in *Critique of Instrumental Reason: Lectures and Essays Since the End of WWII*, pp. 101–118.
 
-[^max-1963]: 1963, “Theism and Atheism,” in *Critique of Instrumental Reason: Lectures and Essays Since the End of WWII*, pp. 34–50.
+[^horkheimer-1963]: 1963, “Theism and Atheism,” in *Critique of Instrumental Reason: Lectures and Essays Since the End of WWII*, pp. 34–50.
 
-[^max-1968]: 1968, “Preface,” in *Critical Theory: Selected Essays*, pp. v–x
+[^horkheimer-1968]: 1968, “Preface,” in *Critical Theory: Selected Essays*, pp. v–x
 
-[^max-1974]: 1974, *Notizen 1950 bis 1969*, partially translated as “Decline: Notes 1950–1969,” in *Dawn and Decline: Notes 1926–1931 & 1950–1969*, pp. 113–240.
+[^horkheimer-1974]: 1974, *Notizen 1950 bis 1969*, partially translated as “Decline: Notes 1950–1969,” in *Dawn and Decline: Notes 1926–1931 & 1950–1969*, pp. 113–240.
 
-[^max-1989]: 1989, with T. Adorno, “*Diskussion über Theorie und Praxis*,” in *Max Horkheimer Gesammelte Schriften* v. 13, translated as *Towards a New Manifesto*, R. Livingstone, (trans.), London: Verso 2011.
+[^horkheimer-1989]: 1989, with T. Adorno, “*Diskussion über Theorie und Praxis*,” in *Max Horkheimer Gesammelte Schriften* v. 13, translated as *Towards a New Manifesto*, R. Livingstone, (trans.), London: Verso 2011.
 
 [^aboulafia-2002]: Aboulafia, M., M. Bookman, and C. Kemp (eds.), 2002, *Habermas and Pragmatism*, London: Routledge.
 

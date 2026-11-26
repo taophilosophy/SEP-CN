@@ -260,7 +260,7 @@ Thanks to Andrea Pitts, who helped me conceptualize parts of an early draft of t
 
 [^bey-2022b]: –––, 2022b, *Cistem Failure: Essays on Blackness and Cisgender* (Asterisk: Gender, Trans-, and All That Comes After), Durham, NC: Duke University Press. doi:10.1215/9781478023036
 
-[^bey-2014]: binaohan, b., 2014, *Decolonizing Trans/Gender 101*, Toronto: Biyuti Publishing.
+[^trans-2014]: binaohan, b., 2014, *Decolonizing Trans/Gender 101*, Toronto: Biyuti Publishing.
 
 [^birmingham-2018]: Birmingham, Peg (ed.), 2018, *Special Symposium: Rebecca Tuvel and Her Interlocutors*, part of *Philosophy Today*, 62(1): 1–88.
 

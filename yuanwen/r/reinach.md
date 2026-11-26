@@ -317,9 +317,9 @@ Alessandro Salice’s sincere thanks go to Jason Dockstader and Danny Forde for 
 
 [^von-nd]: –––, *Ästhetik*, 2 volumes
 
-[^von-1977]: 1977, 1. Teil, in his GW: vol. V
+[^reinach-1977]: 1977, 1. Teil, in his GW: vol. V
 
-[^von-1984]: 1984, 2. Teil, in his GW: vol. VI
+[^reinach-1984]: 1984, 2. Teil, in his GW: vol. VI
 
 [^walther-1923]: Walther, Gerda, 1923, “Zur Ontologie der sozialen Gemeinschaften”, *Jahrbuch für Philosophie und Phänomenologische Forschung*, 6: 1–158.
 

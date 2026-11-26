@@ -847,11 +847,11 @@ Socrates here does not say that these principles apply to all the citizens or th
 
 [^schöpsdau-nd]: Schöpsdau, Klaus (ed./trans.), *Platon Nomoi (Gesetze)*, 3 volumes, Göttingen: Vandenhoeck & Ruprecht.
 
-[^schöpsdau-1994]: 1994, *Buch I–III*
+[^plato-laws-1994]: 1994, *Buch I–III*
 
-[^schöpsdau-2003]: 2003, *Buch IV–VII*
+[^plato-laws-2003]: 2003, *Buch IV–VII*
 
-[^schöpsdau-2011]: 2011,. *Buch VIII–XII*>.
+[^plato-laws-2011]: 2011,. *Buch VIII–XII*>.
 
 [^slings-2003]: Slings, Simon Roelof (ed.), 2003, *Platonis Rempublicam* (Oxford classical texts), Oxford: Clarendon Press.
 

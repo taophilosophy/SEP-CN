@@ -706,7 +706,7 @@ The original draft of this entry was written by Paul Snowdon. After he passed aw
 
 [^kneale-1996]: Kneale, Martha, 1996, “Introduction”, in H. H. Price, *The Collected Works of Henry H. Price*, Thoemmes Continuum, pp. v–xx.
 
-[^kneale-1954]: L., A.-L., 1954, “Review: *Thinking and Experience* by H. H. Price”, *Revue Philosophique de la France et de l’Étranger*, 144: 285–288.
+[^price-1954]: L., A.-L., 1954, “Review: *Thinking and Experience* by H. H. Price”, *Revue Philosophique de la France et de l’Étranger*, 144: 285–288.
 
 [^laing-1941]: Laing, B. M., 1941, “Review: *Hume’s Theory of the External World* by H. H. Price”, *Philosophy*, 16(63): 316–318. doi:10.1017/S0031819100002618
 

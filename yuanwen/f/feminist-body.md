@@ -31,7 +31,7 @@ Nonetheless, in the early twentieth century, with the emergence of psychoanalysi
 
 ## 2. *The Second Sex*
 
-It was, however, with the publication of *The Second Sex* by Simone De Beauvoir, that feminist theorizing about the relation between the body and the self took center stage. Along with other phenomenologists, particularly Merleau-Ponty, and Sartre, Beauvoir recognizes that “to be present in the world implies strictly that there exists a body which is at once a material thing in the world and a point of view towards the world” (Beauvoir 1949 [1982: 39])[^beauvoir-1949]. The self, for phenomenologists, as for Freud, is necessarily corporeal, the body constitutes the self. It is not a separate entity to which the self stands in relation. This body, however, is not simply what biology offers us an account of. The body which gained their attention was the body *as lived*, as yielding the sensory experiences and lived intentionality of a subject negotiating its world. It is also a body which is encountered by others whose response to it mediates our own sense of being. What is central to Beauvoir’s account is that such bodily existence, the point of view it provides, and the response it garners, is different for men and women. Her account provides a complex and non-reductive picture of the intertwining of the material and the cultural in the formation of our embodied selves (see the entry on Simone de Beauvoir, Kruks 2010, Sandford 2006, Moi 1999)[^beauvoir-2010][^kruks-2010][^moi-1999][^sandford-2006].
+It was, however, with the publication of *The Second Sex* by Simone De Beauvoir, that feminist theorizing about the relation between the body and the self took center stage. Along with other phenomenologists, particularly Merleau-Ponty, and Sartre, Beauvoir recognizes that “to be present in the world implies strictly that there exists a body which is at once a material thing in the world and a point of view towards the world” (Beauvoir 1949 [1982: 39])[^beauvoir-1949]. The self, for phenomenologists, as for Freud, is necessarily corporeal, the body constitutes the self. It is not a separate entity to which the self stands in relation. This body, however, is not simply what biology offers us an account of. The body which gained their attention was the body *as lived*, as yielding the sensory experiences and lived intentionality of a subject negotiating its world. It is also a body which is encountered by others whose response to it mediates our own sense of being. What is central to Beauvoir’s account is that such bodily existence, the point of view it provides, and the response it garners, is different for men and women. Her account provides a complex and non-reductive picture of the intertwining of the material and the cultural in the formation of our embodied selves (see the entry on Simone de Beauvoir, Kruks 2010, Sandford 2006, Moi 1999)[^kruks-2010][^moi-1999][^sandford-2006].
 
 ### 2.1 The Data of Biology
 
@@ -279,9 +279,9 @@ Beauvoir, Simone de | feminist philosophy, interventions: bioethics | feminist p
 
 [^beauvoir-1949]: Beauvoir, Simone de, 1949, *Le Deuxième Sexe*, Paris: Éditions Gallimard.
 
-[^beauvoir-1982]: 1982, translated as *The Second Sex*, Howard Madison Parshley (trans.), Harmondsworth: Penguin; originally published in 1953.
+[^feminist-body-1982]: 1982, translated as *The Second Sex*, Howard Madison Parshley (trans.), Harmondsworth: Penguin; originally published in 1953.
 
-[^beauvoir-2010]: 2010, translated as *The Second Sex*, Constance Borde and Sheila Malovany-Chevallier (trans.), London: Vintage
+[^feminist-body-2010]: 2010, translated as *The Second Sex*, Constance Borde and Sheila Malovany-Chevallier (trans.), London: Vintage
 
 [^bergoffen-2011]: Bergoffen, Debra and Gail Weiss (eds.), 2011, *Ethics of Embodiment*, special issue of *Hypatia*, 26(3).
 
@@ -393,7 +393,7 @@ Beauvoir, Simone de | feminist philosophy, interventions: bioethics | feminist p
 
 [^hill-2016]: Hill Collins, Patricia and Sirma Bilge, 2016, *Intersectionality*, Cambridge: Polity
 
-[^hill-1990]: hooks, bell, 1990, *Yearning: Race, Gender and Cultural Politics*, Boston, MA: South End Press.
+[^feminist-body-1990]: hooks, bell, 1990, *Yearning: Race, Gender and Cultural Politics*, Boston, MA: South End Press.
 
 [^inahara-2009]: Inahara, Minae, 2009, *Abject Love: Undoing the Boundaries of Physical Disability*, Saarbrucken: VDM Verlag.
 

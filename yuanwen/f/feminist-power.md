@@ -345,7 +345,7 @@ Arendt, Hannah | Beauvoir, Simone de | critical theory | existentialism | femini
 
 [^hobbes-1985]: Hobbes, Thomas, 1985 (1641). *Leviathan*, New York: Penguin Books.
 
-[^hobbes-1981]: hooks, bell, 1981. *Ain’t I a Woman? Black Women and Feminism*, Boston: South End Press.
+[^feminist-power-1981]: hooks, bell, 1981. *Ain’t I a Woman? Black Women and Feminism*, Boston: South End Press.
 
 [^huffer-2013]: Huffer, Lynne, 2013. *Are the Lips a Grave? A Queer Feminist on the Ethics of Sex*, New York: Columbia University Press.
 

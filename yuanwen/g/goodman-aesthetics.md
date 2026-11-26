@@ -243,67 +243,67 @@ convention | diagrams: and diagrammatical reasoning | induction: problem of | lo
 
 [^stories-1984]: 1978h, “Stories upon Stories; or, Reality in Tiers,” originally presented at the Conference on Levels of Reality, Florence, reprinted in Goodman, 1984.
 
-[^stories-1979a]: 1979a, “J. J. Gibson’s Approach to the Visual Perception of Pictures,” *Leonardo*, 12.
+[^goodman-aesthetics-1979a]: 1979a, “J. J. Gibson’s Approach to the Visual Perception of Pictures,” *Leonardo*, 12.
 
-[^stories-1979b]: 1979b, “Metaphor as Moonlighting,” *Critical Inquiry*, 6, reprinted in Goodman, 1984.
+[^goodman-aesthetics-1979b]: 1979b, “Metaphor as Moonlighting,” *Critical Inquiry*, 6, reprinted in Goodman, 1984.
 
-[^stories-1980]: 1980, “Twisted Tales—or, Story, Study, and Symphony,” *Critical Inquiry*, 7.
+[^goodman-aesthetics-1980]: 1980, “Twisted Tales—or, Story, Study, and Symphony,” *Critical Inquiry*, 7.
 
-[^stories-1981a]: 1981a, “Routes of Reference”, Critical Inquiry, 8, reprinted in Goodman, 1984.
+[^goodman-aesthetics-1981a]: 1981a, “Routes of Reference”, Critical Inquiry, 8, reprinted in Goodman, 1984.
 
-[^stories-1981b]: 1981b, “Perspective as a Convention—on the Views of Goodman and Gombrich,” *Leonardo*, 14.
+[^goodman-aesthetics-1981b]: 1981b, “Perspective as a Convention—on the Views of Goodman and Gombrich,” *Leonardo*, 14.
 
-[^stories-1981c]: 1981c, “Routes of Reference.” *Critical Inquiry*, 8, reprinted in Goodman, 1984.
+[^goodman-aesthetics-1981c]: 1981c, “Routes of Reference.” *Critical Inquiry*, 8, reprinted in Goodman, 1984.
 
-[^stories-1981d]: 1981d, “The Telling and the Told,” *Critical Inquiry*, 7.
+[^goodman-aesthetics-1981d]: 1981d, “The Telling and the Told,” *Critical Inquiry*, 7.
 
-[^stories-1981e]: 1981e, “Ways of Worldmaking,” *Leonardo*, 14.
+[^goodman-aesthetics-1981e]: 1981e, “Ways of Worldmaking,” *Leonardo*, 14.
 
-[^stories-1982a]: 1982a, “Fiction for Five Fingers,” *Philosophy and Literature*, 6, reprinted in Goodman, 1984.
+[^goodman-aesthetics-1982a]: 1982a, “Fiction for Five Fingers,” *Philosophy and Literature*, 6, reprinted in Goodman, 1984.
 
-[^stories-1982b]: 1982b, “Implementation of the Arts,” *Journal of Aesthetics and Art Criticism*, 40.
+[^goodman-aesthetics-1982b]: 1982b, “Implementation of the Arts,” *Journal of Aesthetics and Art Criticism*, 40.
 
-[^stories-1983a]: 1983a, “Afterword: An Illustration,” in Copeland, Roger, and Marshall Cohen (eds.), *What Is Dance?* Oxford: Oxford University Press.
+[^goodman-aesthetics-1983a]: 1983a, “Afterword: An Illustration,” in Copeland, Roger, and Marshall Cohen (eds.), *What Is Dance?* Oxford: Oxford University Press.
 
-[^stories-1983b]: 1983b, “Modes of Symbolization,” in Copeland, Roger, and Marshall Cohen (eds.), *What Is Dance?* Oxford: Oxford University Press.
+[^goodman-aesthetics-1983b]: 1983b, “Modes of Symbolization,” in Copeland, Roger, and Marshall Cohen (eds.), *What Is Dance?* Oxford: Oxford University Press.
 
-[^stories-1983c]: 1983c, “Realism, Relativism, and Reality,” *New Literary History*, 14.
+[^goodman-aesthetics-1983c]: 1983c, “Realism, Relativism, and Reality,” *New Literary History*, 14.
 
-[^stories-1983d]: 1983d, (with Menachem Brinker), “Representation and Realism in Art,” printed in Hebrew as “Yitzog v’ realizem b’omanut,” *Iyyun*, 32.
+[^goodman-aesthetics-1983d]: 1983d, (with Menachem Brinker), “Representation and Realism in Art,” printed in Hebrew as “Yitzog v’ realizem b’omanut,” *Iyyun*, 32.
 
-[^stories-1983e]: 1983e, “The Role of Notations,” in Copeland, Roger, and Marshall Cohen (eds.), *What Is Dance?* Oxford: Oxford University Press.
+[^goodman-aesthetics-1983e]: 1983e, “The Role of Notations,” in Copeland, Roger, and Marshall Cohen (eds.), *What Is Dance?* Oxford: Oxford University Press.
 
-[^stories-1985a]: 1985a, “How Buildings Mean,” *Critical Inquiry*, 11, reprinted in Goodman, Elgin, 1988.
+[^goodman-aesthetics-1985a]: 1985a, “How Buildings Mean,” *Critical Inquiry*, 11, reprinted in Goodman, Elgin, 1988.
 
-[^stories-1985b]: 1985b, “Statements and Pictures,” *Erkenntnis* 22.
+[^goodman-aesthetics-1985b]: 1985b, “Statements and Pictures,” *Erkenntnis* 22.
 
-[^stories-1985c]: 1985c, “The End of the Museum?” *Journal of Aesthetic Education*, 19.
+[^goodman-aesthetics-1985c]: 1985c, “The End of the Museum?” *Journal of Aesthetic Education*, 19.
 
-[^stories-1986a]: 1986a, “A Note on Copies,” *Journal of Aesthetics and Art Criticism*, 44, pp. 291–292.
+[^goodman-aesthetics-1986a]: 1986a, “A Note on Copies,” *Journal of Aesthetics and Art Criticism*, 44, pp. 291–292.
 
-[^stories-1986b]: 1986b, (with Catherine Z. Elgin), “Interpretation and Identity—Can the Work Survive the World?” *Critical Inquiry*, 12.
+[^goodman-aesthetics-1986b]: 1986b, (with Catherine Z. Elgin), “Interpretation and Identity—Can the Work Survive the World?” *Critical Inquiry*, 12.
 
-[^stories-1986c]: 1986c, “The Nature and Function of Architecture,” *Domus*, 672.
+[^goodman-aesthetics-1986c]: 1986c, “The Nature and Function of Architecture,” *Domus*, 672.
 
-[^stories-1987a]: 1987a, with Catherine Z. Elgin, “Changing the Subject,” *Journal of Aesthetics and Art Criticism*, 46, reprinted with modifications in Shusterman, Richard (ed.), *Analytic Aesthetics*, Oxford: Blackwell, 1989.
+[^goodman-aesthetics-1987a]: 1987a, with Catherine Z. Elgin, “Changing the Subject,” *Journal of Aesthetics and Art Criticism*, 46, reprinted with modifications in Shusterman, Richard (ed.), *Analytic Aesthetics*, Oxford: Blackwell, 1989.
 
-[^stories-1987b]: 1987b, “Variations on Variation—or Picasso Back to Bach,” *Acta Philosophica Fennica*, 43.
+[^goodman-aesthetics-1987b]: 1987b, “Variations on Variation—or Picasso Back to Bach,” *Acta Philosophica Fennica*, 43.
 
-[^stories-1988]: 1988, “Aims and Claims,” *Journal of Aesthetic Education*, 22.
+[^goodman-aesthetics-1988-2]: 1988, “Aims and Claims,” *Journal of Aesthetic Education*, 22.
 
-[^stories-1988-2]: 1988, “On What Should Not Be Said about Representation,” *Journal of Aesthetics and Art Criticism* 46.
+[^goodman-aesthetics-1988-3]: 1988, “On What Should Not Be Said about Representation,” *Journal of Aesthetics and Art Criticism* 46.
 
-[^stories-1991a]: 1991a, “On Capturing Cities,” *Journal of Aesthetic Education*, 25.
+[^goodman-aesthetics-1991a]: 1991a, “On Capturing Cities,” *Journal of Aesthetic Education*, 25.
 
-[^stories-1991b]: 1991b, “Retrospections,” *Journal of Aesthetic Education*, 25.
+[^goodman-aesthetics-1991b]: 1991b, “Retrospections,” *Journal of Aesthetic Education*, 25.
 
-[^stories-1992]: 1992, “Contraverting a Contradiction, A Note On Metaphor And Simile, Reply To Kulka, Tomas,” *Poetics Today*, 13.
+[^goodman-aesthetics-1992]: 1992, “Contraverting a Contradiction, A Note On Metaphor And Simile, Reply To Kulka, Tomas,” *Poetics Today*, 13.
 
-[^stories-1994]: 1994, (with T. Kulka), “How Metaphor Works its Wonders,” in Czech, *Filosoficky Casopis*, 42.
+[^goodman-aesthetics-1994]: 1994, (with T. Kulka), “How Metaphor Works its Wonders,” in Czech, *Filosoficky Casopis*, 42.
 
-[^stories-1996]: 1996, “Authenticity,” in Turner, Jane Shoaf (ed.), *The Grover Dictionary of Art*, Oxford: Oxford University Press.
+[^goodman-aesthetics-1996]: 1996, “Authenticity,” in Turner, Jane Shoaf (ed.), *The Grover Dictionary of Art*, Oxford: Oxford University Press.
 
-[^stories-1997]: 1997, “Some Reflections on My Philosophies,” *Philosophia Scientiae*, 2.
+[^goodman-aesthetics-1997]: 1997, “Some Reflections on My Philosophies,” *Philosophia Scientiae*, 2.
 
 [^goodman-aesthetics-1972]: 1972, *Hockey Seen: A Nightmare in Three Periods and Sudden Death*, first performed in Cambridge, Mass. Drawings by Katharine Sturgis; author and producer, Nelson Goodman; choreographer, Martha Gray; composer, John C. Adams.
 

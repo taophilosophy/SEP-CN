@@ -1079,9 +1079,9 @@ We thank Anne Barnhill and Michael DiStefano for helpful feedback on earlier ver
 
 [^sreenivasan-2012]: Sreenivasan, G., 2012, “A Human Right to Health? Some Inconclusive Scepticism,” *Proceedings of the Aristotelian Society* (Supplementary Volume), 86(1): 239–265.
 
-[^sreenivasan-2016]: ––2016, “Health Care and Human Rights: Against the Split Duty Gambit,” *Theoretical Medicine and Bioethics*, 37(4): 343–364.
+[^publichealth-ethics-2016]: ––2016, “Health Care and Human Rights: Against the Split Duty Gambit,” *Theoretical Medicine and Bioethics*, 37(4): 343–364.
 
-[^sreenivasan-2018]: –––, 2018, “Justice, Inequality, and Health,” *The Stanford Encyclopedia of Philosophy* (Fall 2018 Edition), E.N. Zalta (ed.), URL = <[https://plato.stanford.edu/archives/fall2018/entries/justice-inequality-health/](https://plato.stanford.edu/archives/fall2018/entries/justice-inequality-health/)>
+[^publichealth-ethics-2018]: –––, 2018, “Justice, Inequality, and Health,” *The Stanford Encyclopedia of Philosophy* (Fall 2018 Edition), E.N. Zalta (ed.), URL = <[https://plato.stanford.edu/archives/fall2018/entries/justice-inequality-health/](https://plato.stanford.edu/archives/fall2018/entries/justice-inequality-health/)>
 
 [^stein-2002]: Stein, M.S., 2002, “The Distribution of Lifesaving Medical Resources: Equality, Life Expectancy, and Choice Behind the Veil,” *Social Philosophy and Policy*, 19: 212–45.
 

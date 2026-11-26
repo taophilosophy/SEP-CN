@@ -283,7 +283,7 @@ However, later historians have cited the date 1818. For example, the date of 181
 
 [^note-10]: See Yaure (2018)[^yaure-2018] for a distinctive reading of this speech. Yaure contends that Douglass’s refusal to acknowledge that the humanity of blacks was something that should be argued over in the first place and that instead such views and the practices they support deserve nothing but “scorching irony”, reveals that Douglass was attuned to the limits of public reason in moral suasion and challenged those limits by forcefully declaring the moral personhood of blacks persons and the civic belonging of black Americans.
 
-[^note-11]: Howard McGary and Bill E. Lawson’s *Between Slavery and Freedom: Philosophy and American Slavery* (1992) is a useful source for philosophical analyses of these arguments. Additionally, Angel Davis was an early and key contributor to the philosophical literature on Douglass and American philosophical literature. Her groundbreaking lectures on Douglass, “Lectures on Liberation,” argued for an active rather than static conception of liberty and applied Marxist analysis to the Civil Rights struggles she was involved in during the late 1960s and early 1970s (Davis 1971)[^davis-1971][^davis-1971-2]. The first was published in 1971 by the New York Committee to Free Angela Davis. The second is available as “Unfinished Lecture on Liberation–II” in *Philosophy Born of Struggle: Anthology of Afro-American Philosophy from 1917* (Davis 1971 [1983])[^davis-1971][^davis-1971-2]. Davis released an edition of Douglass’s *Narrative* that includes the full versions of both lectures (Douglass 1845 [2010])[^douglass-1845], and they are collected in Roberts’s *A Political Companion to Frederick Douglass* (2018: 107–134). See also Davis’s “From the Prison of Slavery to the Slavery of Prison: Frederick Douglass and the Convict Lease System” (Davis 1999)[^davis-1999].
+[^note-11]: Howard McGary and Bill E. Lawson’s *Between Slavery and Freedom: Philosophy and American Slavery* (1992) is a useful source for philosophical analyses of these arguments. Additionally, Angel Davis was an early and key contributor to the philosophical literature on Douglass and American philosophical literature. Her groundbreaking lectures on Douglass, “Lectures on Liberation,” argued for an active rather than static conception of liberty and applied Marxist analysis to the Civil Rights struggles she was involved in during the late 1960s and early 1970s (Davis 1971)[^davis-1971][^davis-1971-2]. The first was published in 1971 by the New York Committee to Free Angela Davis. The second is available as “Unfinished Lecture on Liberation–II” in *Philosophy Born of Struggle: Anthology of Afro-American Philosophy from 1917* (Davis 1971 [1983])[^davis-1971][^davis-1971-2]. Davis released an edition of Douglass’s *Narrative* that includes the full versions of both lectures (Douglass 1845 [2010]), and they are collected in Roberts’s *A Political Companion to Frederick Douglass* (2018: 107–134). See also Davis’s “From the Prison of Slavery to the Slavery of Prison: Frederick Douglass and the Convict Lease System” (Davis 1999)[^davis-1999].
 
 [^note-12]: A portion of that speech was quoted in Blight’s *Frederick Douglass’ Civil War* (1989: 6), which is an invaluable historical guide to Douglass’ antebellum politics and how he employed ideas like “natural law”. The passage is not a one-off; the content is there, even more so, at the beginning of the speech and is consistent with his other works. Douglass took the idea of natural law very seriously. See Martin (1984)[^martin-1984] for more on how Douglass thought about Enlightenment ideas, and how he used the idea of natural rights, which are derived from natural law. See Myers (2008)[^myers-2008] and Buccola (2012)[^buccola-2012] for more how Douglass and his use of those ideas are connected to liberalism as an ideology and political theory. And see Moses (1978)[^moses-1978] for how Douglass and his ideas were a part of and contributed to the early history of black nationalism. Furthermore, Douglass’s use of Christian doctrine reflects a central feature of the Anglo-American abolition movement; it was primarily a religiously motivated reform movement. Blight (1989 and 2018) and Myers (2008)[^myers-2008] are good sources for background information about Douglass’s religiosity and his use of Christian ideas. And Sinha’s *The Slave’s Cause: A History of Abolition* (2016) is an invaluable resource about the history and ideas, religious and otherwise, that motivated the abolition movement.
 
@@ -331,83 +331,83 @@ And about dignity, he wrote, “[t]he public worth of a man, which is the value 
 
 [^sfd-2018]: [SFD] *The Speeches of Frederick Douglass: A Critical Edition*, John R. McKivigan, Julie Husband, and Heather L. Kaufman (eds.), New Haven, CT: Yale University Press, 2018.
 
-[^sfd-1950]: 1950–1975, *The Life and Writings of Frederick Douglass*, Philip Sheldon Foner (ed.), 5 volumes, New York: International Publishers.
+[^frederick-douglass-1950]: 1950–1975, *The Life and Writings of Frederick Douglass*, Philip Sheldon Foner (ed.), 5 volumes, New York: International Publishers.
 
-[^sfd-1950-2]: 1950, *Early years, 1817–1849*, volume 1
+[^frederick-douglass-1950-2]: 1950, *Early years, 1817–1849*, volume 1
 
-[^sfd-1950-3]: 1950, *Pre-Civil War decade, 1850–1860*, volume 2
+[^frederick-douglass-1950-3]: 1950, *Pre-Civil War decade, 1850–1860*, volume 2
 
-[^sfd-1952]: 1952, *The Civil War, 1861–1865*, volume 3
+[^frederick-douglass-1952]: 1952, *The Civil War, 1861–1865*, volume 3
 
-[^sfd-1955]: 1955, *Reconstruction and After*, volume 4
+[^frederick-douglass-1955]: 1955, *Reconstruction and After*, volume 4
 
-[^sfd-1975]: 1975, *Supplementary volume, 1844–1860*, volume 5
+[^frederick-douglass-1975]: 1975, *Supplementary volume, 1844–1860*, volume 5
 
-[^sfd-1976]: 1976, *Frederick Douglass on Women’s Rights*, Philip Sheldon Foner (ed.), (Contributions in Afro-American and African Studies 25), Westport, CT: Greenwood Press.
+[^frederick-douglass-1976]: 1976, *Frederick Douglass on Women’s Rights*, Philip Sheldon Foner (ed.), (Contributions in Afro-American and African Studies 25), Westport, CT: Greenwood Press.
 
-[^sfd-2016]: 2016, *The Essential Douglass: Selected Writings & Speeches*, Nicholas Buccola (ed.), Indianapolis. IN: Hackett Publishing Company.
+[^frederick-douglass-2016]: 2016, *The Essential Douglass: Selected Writings & Speeches*, Nicholas Buccola (ed.), Indianapolis. IN: Hackett Publishing Company.
 
-[^douglass-1845]: 1845, *Narrative of the Life of Frederick Douglass, an American Slave. Written by Himself*, Boston: Anti-Slavery Office. Two modern editions are
+[^frederick-douglass-1845]: 1845, *Narrative of the Life of Frederick Douglass, an American Slave. Written by Himself*, Boston: Anti-Slavery Office. Two modern editions are
 
 [^narrative-2003]: *Narrative of the Life of Frederick Douglass, an American Slave*, David W. Blight (ed.), second edition, (Bedford Books in American History), Boston: Bedford Books of St. Martin’s Press, 2003.
 
 [^narrative-2010]: *Narrative of the Life of Frederick Douglass, an American Slave, Written by Himself: A New Critical Edition*, (Open Media Series), Angela Y. Davis (ed.), San Francisco, CA: City Lights Books, 2010; includes Angela Y. Davis, “Lectures on Liberation”.
 
-[^douglass-1846]: 1846, “American Slavery, American Religion, and the Free Church of Scotland”, London, England, 22 May; in SFD: 17–54
+[^frederick-douglass-1846]: 1846, “American Slavery, American Religion, and the Free Church of Scotland”, London, England, 22 May; in SFD: 17–54
 
-[^douglass-1848a]: 1848a “An Address to the Colored People of the United States”, *The North Star*, 29 September; in FDSW: 117–122
+[^frederick-douglass-1848a]: 1848a “An Address to the Colored People of the United States”, *The North Star*, 29 September; in FDSW: 117–122
 
-[^douglass-1848b]: 1848b, “The Folly of Racially Exclusive Organization”, Rochester, New York, 6 March; in FDP1: v.2: 109–112.
+[^frederick-douglass-1848b]: 1848b, “The Folly of Racially Exclusive Organization”, Rochester, New York, 6 March; in FDP1: v.2: 109–112.
 
-[^douglass-1850]: 1850, “At Home Again”, *The North Star*, 30 May; in FDSW: 156–157
+[^frederick-douglass-1850]: 1850, “At Home Again”, *The North Star*, 30 May; in FDSW: 156–157
 
-[^douglass-1852]: 1852, “What To the Slave Is The Fourth of July?”, Rochester, NY, 5 July; in SFD: 55–92
+[^frederick-douglass-1852]: 1852, “What To the Slave Is The Fourth of July?”, Rochester, NY, 5 July; in SFD: 55–92
 
-[^douglass-1853a]: 1853a [2015], “The Heroic Slave”, in *Autographs for Freedom*, Julia Griffiths (ed.), Boston: John P. Jewett and Company, 174–239. Reprinted, 2015, as *The Heroic Slave: A Cultural and Critical Edition*, Robert S. Levine, John Stauffer, and John R. McKivigan (eds.), New Haven, CT/London: Yale University Press.
+[^frederick-douglass-1853a]: 1853a [2015], “The Heroic Slave”, in *Autographs for Freedom*, Julia Griffiths (ed.), Boston: John P. Jewett and Company, 174–239. Reprinted, 2015, as *The Heroic Slave: A Cultural and Critical Edition*, Robert S. Levine, John Stauffer, and John R. McKivigan (eds.), New Haven, CT/London: Yale University Press.
 
-[^douglass-1853b]: 1853b, “The Present Condition And Future Prospects of the Negro People”, annual meeting of the American and Foreign Anti-Slavery Society, New York City, 11 May; FDSW: 250–259.
+[^frederick-douglass-1853b]: 1853b, “The Present Condition And Future Prospects of the Negro People”, annual meeting of the American and Foreign Anti-Slavery Society, New York City, 11 May; FDSW: 250–259.
 
-[^douglass-1854]: 1854, “The Claims of the Negro Ethnologically Considered”, Hudson, Ohio, 12 July; in SFD: 116–150
+[^frederick-douglass-1854]: 1854, “The Claims of the Negro Ethnologically Considered”, Hudson, Ohio, 12 July; in SFD: 116–150
 
-[^douglass-1855]: 1855, *My Bondage and My Freedom*, New York: Miller, Orton & Mulligan. Reprinted David W. Blight (ed.), New Haven, CT: Yale University Press, 2014. Also in FDAB: 103–452.
+[^frederick-douglass-1855]: 1855, *My Bondage and My Freedom*, New York: Miller, Orton & Mulligan. Reprinted David W. Blight (ed.), New Haven, CT: Yale University Press, 2014. Also in FDAB: 103–452.
 
-[^douglass-1857]: 1857, “The Significance of Emancipation in the West Indies”, Canandaigua, New York, 3 August.
+[^frederick-douglass-1857]: 1857, “The Significance of Emancipation in the West Indies”, Canandaigua, New York, 3 August.
 
-[^douglass-1859]: 1859, “Capt. John Brown Not Insane”, *Douglass’ Monthly*, November; FDSW: 374–375/6.
+[^frederick-douglass-1859]: 1859, “Capt. John Brown Not Insane”, *Douglass’ Monthly*, November; FDSW: 374–375/6.
 
-[^douglass-1860a]: 1860a, “The American Constitution and the Slaves”, Glasgow, Scotland, 26 March; in SFD: 151–185.
+[^frederick-douglass-1860a]: 1860a, “The American Constitution and the Slaves”, Glasgow, Scotland, 26 March; in SFD: 151–185.
 
-[^douglass-1860b]: 1860b, “Speech on John Brown”, Tremont Temple, Boston, 3 December; FDSW: 417–421.
+[^frederick-douglass-1860b]: 1860b, “Speech on John Brown”, Tremont Temple, Boston, 3 December; FDSW: 417–421.
 
-[^douglass-1860c]: 1860c, “A Plea for Freedom of Speech in Boston”, Boston, Massachusetts, 9 December; in FDP1 v.3: 420–424.
+[^frederick-douglass-1860c]: 1860c, “A Plea for Freedom of Speech in Boston”, Boston, Massachusetts, 9 December; in FDP1 v.3: 420–424.
 
-[^douglass-1860d]: 1860d, “The Trials and Triumphs of Self-Made Men”, Halifax, England: in FDP1 v.3: 289–300.
+[^frederick-douglass-1860d]: 1860d, “The Trials and Triumphs of Self-Made Men”, Halifax, England: in FDP1 v.3: 289–300.
 
-[^douglass-1862]: 1862, “What Shall be Done with the Slave if Emancipated”, *Douglass’ Monthly*, January; FDSW: 470–473.
+[^frederick-douglass-1862]: 1862, “What Shall be Done with the Slave if Emancipated”, *Douglass’ Monthly*, January; FDSW: 470–473.
 
-[^douglass-1869a]: 1869a, “Our Composite Nationality”, Boston, Massachusetts, 7 December; in SFD: 278–303.
+[^frederick-douglass-1869a]: 1869a, “Our Composite Nationality”, Boston, Massachusetts, 7 December; in SFD: 278–303.
 
-[^douglass-1869b]: 1869b, “We Welcome the Fifteenth Amendment”, Addresses delivered to the American Equal Rights Association, New York, 12–13 May; in SFD: 267–277; in FDP1 v.4: 213–219.
+[^frederick-douglass-1869b]: 1869b, “We Welcome the Fifteenth Amendment”, Addresses delivered to the American Equal Rights Association, New York, 12–13 May; in SFD: 267–277; in FDP1 v.4: 213–219.
 
-[^douglass-1876]: 1876, “Oration in Memory of Abraham Lincoln”, unveiling of Freedmen’s Monument in Memory of Abraham Lincoln, Lincoln Park, Washington, DC, 14 April; FDSW: 616–624.
+[^frederick-douglass-1876]: 1876, “Oration in Memory of Abraham Lincoln”, unveiling of Freedmen’s Monument in Memory of Abraham Lincoln, Lincoln Park, Washington, DC, 14 April; FDSW: 616–624.
 
-[^douglass-1879]: 1879, “The Negro Exodus From the Gulf States”, New York, September: in FDP1 v.4: 510–533.
+[^frederick-douglass-1879]: 1879, “The Negro Exodus From the Gulf States”, New York, September: in FDP1 v.4: 510–533.
 
-[^douglass-1881]: 1881/1893, *Life and Times of Frederick Douglass*, new revised edition, Boston: De Wolfe & Fiske; earlier shorter version, 1881. Reprinted in FDP2: volume 3, John R. McKivigan (ed.), 2012.
+[^frederick-douglass-1881]: 1881/1893, *Life and Times of Frederick Douglass*, new revised edition, Boston: De Wolfe & Fiske; earlier shorter version, 1881. Reprinted in FDP2: volume 3, John R. McKivigan (ed.), 2012.
 
-[^douglass-1883a]: 1883a, “The Civil Rights Case”, Civil Rights Mass-Meeting, Lincoln Hall, Washington, DC, 22 October; FDSW: 685–693.
+[^frederick-douglass-1883a]: 1883a, “The Civil Rights Case”, Civil Rights Mass-Meeting, Lincoln Hall, Washington, DC, 22 October; FDSW: 685–693.
 
-[^douglass-1883b]: 1883b, “‘It Moves’, Or the Philosophy of Reform”, Washington, DC, 20 November; in SFD: 374–400.
+[^frederick-douglass-1883b]: 1883b, “‘It Moves’, Or the Philosophy of Reform”, Washington, DC, 20 November; in SFD: 374–400.
 
-[^douglass-1884]: 1884, “Mr. Douglass Interviewed”, *Washington Post*, 26 January, page 1; in FDP1 v.5: 147.
+[^frederick-douglass-1884]: 1884, “Mr. Douglass Interviewed”, *Washington Post*, 26 January, page 1; in FDP1 v.5: 147.
 
-[^douglass-1888a]: 1888a, “Denounce the So-Called Emancipation as a Stupendous Fraud”, speech on the occasion of the Twenty-Sixth Anniversary of Emancipation in the District of Columbia, Washington, DC, 16 April; FDSW: 712–724.
+[^frederick-douglass-1888a]: 1888a, “Denounce the So-Called Emancipation as a Stupendous Fraud”, speech on the occasion of the Twenty-Sixth Anniversary of Emancipation in the District of Columbia, Washington, DC, 16 April; FDSW: 712–724.
 
-[^douglass-1888b]: 1888b, “In Law Free: In Fact, A Slave”, Washington, DC, 16 May: FDP1 v.5: 357–373.
+[^frederick-douglass-1888b]: 1888b, “In Law Free: In Fact, A Slave”, Washington, DC, 16 May: FDP1 v.5: 357–373.
 
-[^douglass-1893]: 1893, “Self-Made Men”, Carlisle, Pennsylvania, March; in SFD: 414–453.
+[^frederick-douglass-1893]: 1893, “Self-Made Men”, Carlisle, Pennsylvania, March; in SFD: 414–453.
 
-[^douglass-1894]: 1894, “Lessons of the Hour”, Washington, DC, 9 January; in SFD: 454–497.
+[^frederick-douglass-1894]: 1894, “Lessons of the Hour”, Washington, DC, 9 January; in SFD: 454–497.
 
 [^alfaro-2018]: Alfaro, Ange-Marie Hancock, 2018, “Black Masculinity Achieves Nothing without Restorative Care: An Intersectional Rearticulation of Frederick Douglass”, in Roberts 2018: 236–251 (ch. 7).
 

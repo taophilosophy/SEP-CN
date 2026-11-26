@@ -97,13 +97,13 @@ ethics: natural law tradition | Hume, David: moral philosophy | nature of law | 
 
 [^kelsen’s-1934]: Kelsen’s academic publications span over almost seven decades in which he published dozens of books and hundreds of articles. Only about a third of this vast literature has been translated to English. Kelsen’s two most important books on the pure theory of law are the first edition of his *Reine Rechtslehre*, published in 1934 and recently (2002) translated. The second edition, which Kelson published in 1960 (translated in 1967) is a considerably extended version of the first edition. In addition, most of the themes in these two books also appear in Kelsen’s *General Theory of Law and State*. These three works are cited in text as follows:
 
-[^kelsen’s-1957]: 1957, *What is Justice?*, Berkeley: University of California Press.
+[^lawphil-theory-1957]: 1957, *What is Justice?*, Berkeley: University of California Press.
 
-[^kelsen’s-1941]: 1941, ‘The Pure Theory of Law and Analytical Jurisprudence’, *Harvard Law Review*, 55: 44–70.
+[^lawphil-theory-1941]: 1941, ‘The Pure Theory of Law and Analytical Jurisprudence’, *Harvard Law Review*, 55: 44–70.
 
-[^kelsen’s-1965]: 1965, ‘Professor Stone and the Pure Theory of Law: A Reply’, *Stanford Law Rev*, 17(6): 1128–1157.
+[^lawphil-theory-1965]: 1965, ‘Professor Stone and the Pure Theory of Law: A Reply’, *Stanford Law Rev*, 17(6): 1128–1157.
 
-[^kelsen’s-1966]: 1966, ‘On the Pure Theory of Law’, *Israel Law Review*, 1(1): 1–7.
+[^lawphil-theory-1966]: 1966, ‘On the Pure Theory of Law’, *Israel Law Review*, 1(1): 1–7.
 
 [^for-1991]: For a complete list of Kelsen’s publications that have appeared in English see the Appendix to H. Kelsen, *General Theory of Norms*, M. Hartney (trans.), Oxford: Oxford University Press, 1991, pp. 440–454.
 

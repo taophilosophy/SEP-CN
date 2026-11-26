@@ -213,7 +213,7 @@ The author would like to thank Joshua Ayer, who provided research assistance for
 
 [^hill-2020]: Hill Collins, Patricia, and Sirma Bilge, 2020 [first edition 2016], *Intersectionality*, Cambridge: Polity.
 
-[^hill-1981]: hooks, bell, 1981, *Ain’t* *I a Woman? Black Women and Feminism*, Boston: South End Press.
+[^identity-politics-1981]: hooks, bell, 1981, *Ain’t* *I a Woman? Black Women and Feminism*, Boston: South End Press.
 
 [^ignatiev-1995]: Ignatiev, Noel, 1995, *How the Irish Became White*, New York: Routledge.
 

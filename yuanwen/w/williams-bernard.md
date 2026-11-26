@@ -79,7 +79,7 @@ Political philosophy aside, Williams also denies that personal decision-making m
 
 Williams’ Gauguin example, we have suggested, has force against the thesis that morality is inescapable. It also has force against the **seventh** thesis of the morality system, its insistence on “purity” and its denial of what Williams calls “moral luck”. To understand this notion, begin with the familiar legal facts that attempted murder is a different and less grave offence than murder, and that dangerous driving typically does not attract the same legal penalty if no one is actually hurt. Inhabitants of the morality system will characteristically be puzzled by this distinction. How can it be right to assign different levels of blame, and different punishments, to two agents whose *mens* *rea* was exactly the same—it was just that one would-be murderer dropped the knife and the other didn’t—or to two equally reckless motorists—one of whom just happened to miss the pedestrians while the other just happened to hit them?
 
-One traditional answer—much favoured by the utilitarians—is that these sorts of thoughts only go to show that the point of blame and punishment is prospective (deterrence-based), not retrospective (desert-based). There are reasons for thinking that blame and punishment cannot be made sense of in this instrumental fashion (cp. UFA: 124, 1985: 178)[^ufa-1985]. “From the inside”, both notions seem essentially retrospective, so that if a correct understanding of them said that they were really fictions serving a prospective social function, no one who knew that could continue to use these notions “from the inside”: that is, the notions would have proved unstable under reflection for this person, who would thereby have lost some ethical knowledge. If this gambit fails, another answer—favoured by Kantians, but available to utilitarians too—is that the law would need to engage in an impossible degree of mind-reading to pick up all and only those cases of *mens rea* that deserve punishment irrespective of the outcomes. Even if this is the right thing to say about the law, the answer cannot be transposed to the case of morality: morality contrasts with the law precisely because it is supposed to apply even to the inner workings of the mind. Thus, morality presumably ought to be just as severe on the attempted murderer and the reckless but lucky motorist as it is on their less fortunate doubles.
+One traditional answer—much favoured by the utilitarians—is that these sorts of thoughts only go to show that the point of blame and punishment is prospective (deterrence-based), not retrospective (desert-based). There are reasons for thinking that blame and punishment cannot be made sense of in this instrumental fashion (cp. UFA: 124, 1985: 178). “From the inside”, both notions seem essentially retrospective, so that if a correct understanding of them said that they were really fictions serving a prospective social function, no one who knew that could continue to use these notions “from the inside”: that is, the notions would have proved unstable under reflection for this person, who would thereby have lost some ethical knowledge. If this gambit fails, another answer—favoured by Kantians, but available to utilitarians too—is that the law would need to engage in an impossible degree of mind-reading to pick up all and only those cases of *mens rea* that deserve punishment irrespective of the outcomes. Even if this is the right thing to say about the law, the answer cannot be transposed to the case of morality: morality contrasts with the law precisely because it is supposed to apply even to the inner workings of the mind. Thus, morality presumably ought to be just as severe on the attempted murderer and the reckless but lucky motorist as it is on their less fortunate doubles.
 
 Williams has a different answer to the puzzle why we blame people more when they are successful murderers, or not only reckless but lethal motorists, despite the fact that they have no voluntary control over their success as murderers or their lethality as motorists. His answer is that—despite what the morality system tells us—our practice of blame is not in fact tied exclusively to voluntary control. We blame people not only for what they have *voluntarily* done, but also for what they have done *as a matter of luck*: we might also say, of their *moral* luck. The way we mostly think about these matters often does not distinguish these two elements of control and luck at all clearly—as is also witnessed by the important possibility of blaming people for what they *are*. These phenomena, Williams argues, help to reveal the basic unclarity of our notion of the voluntary; they also help to show how “what we think” about blame is not always the same as “what we think we think”.
 
@@ -289,29 +289,29 @@ My own sense is that Williams is, or ought to be, more deeply committed to the w
 
 [^these-1972]: These are referred to simply by year and page number (e.g., “1972: 2”), except where Williams published more than one book in the same year, in which case we have used the abbreviations indicated.
 
-[^these-1972-2]: 1972: *Morality: An Introduction to Ethics*, Cambridge: Cambridge University Press.
+[^williams-bernard-1972]: 1972: *Morality: An Introduction to Ethics*, Cambridge: Cambridge University Press.
 
 [^ps-1973]: PS: *Problems of the Self*, Cambridge: Cambridge University Press, 1973.
 
 [^ufa-1973]: UFA: *Utilitarianism: For and Against*, with J.J.C. Smart, Cambridge: Cambridge University Press, 1973.
 
-[^ufa-1978]: 1978: *Descartes: The Project of Pure Inquiry*, London: Pelican.
+[^williams-bernard-1978]: 1978: *Descartes: The Project of Pure Inquiry*, London: Pelican.
 
-[^ufa-1979]: 1979: *Report of the Committee on Obscenity and Film Censorship* (Chairman: Bernard Williams), Her Majesty’s Stationery Office, reprinted by Cambridge University Press.
+[^williams-bernard-1979]: 1979: *Report of the Committee on Obscenity and Film Censorship* (Chairman: Bernard Williams), Her Majesty’s Stationery Office, reprinted by Cambridge University Press.
 
-[^ufa-1981]: 1981: *Moral Luck*, Cambridge: Cambridge University Press.
+[^williams-bernard-1981]: 1981: *Moral Luck*, Cambridge: Cambridge University Press.
 
-[^ufa-1985]: 1985: *Ethics and the Limits of Philosophy*, London: Fontana.
+[^williams-bernard-1985]: 1985: *Ethics and the Limits of Philosophy*, London: Fontana.
 
-[^ufa-1993]: 1993: *Shame and Necessity*, Berkeley: University of California Press.
+[^williams-bernard-1993]: 1993: *Shame and Necessity*, Berkeley: University of California Press.
 
 [^msh-1995]: MSH: *Making Sense of Humanity*, Cambridge: Cambridge University Press, 1995.
 
 [^wme-1995]: WME: *World, Mind, and Ethics: Essays on the ethical philosophy of Bernard Williams*, J.E.J.Altham and Ross Harrison (eds.), with “Replies” by Bernard Williams. Cambridge: Cambridge University Press, 1995.
 
-[^wme-1998]: 1998: *Plato*, London: Phoenix.
+[^williams-bernard-1998]: 1998: *Plato*, London: Phoenix.
 
-[^wme-2002]: 2002: *Truth and Truthfulness: An Essay in Genealogy*, Princeton: Princeton University Press.
+[^williams-bernard-2002]: 2002: *Truth and Truthfulness: An Essay in Genealogy*, Princeton: Princeton University Press.
 
 [^sp-2005]: SP: *The Sense of the Past: Essays on the History of Philosophy*, Cambridge: Cambridge University Press, 2005.
 

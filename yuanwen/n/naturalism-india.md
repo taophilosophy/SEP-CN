@@ -209,7 +209,7 @@ epistemology: naturalism in | mathematics, philosophy of: naturalism | mind: in 
 
 [^gautama-1967]: Gautama, 1967, *Nyāyasūtra, with Vātsyāyana’s Nyāyabhāṣya, Uddyotakara’s Nyāyavārttika, Vācaspati’s Tātparyaṭīkā, Udayana’s Parisuddhi*, A. Thakur (ed.), Darbhanga: Mithila Institute.
 
-[^gautama-1972]: Īśarakṛṣṇa, 1972, *Sāṃkhya-kārikā*, with the commentary of Gauḍapāda, T.G. Manikar (tr.), Poona: Oriental Book Agency.
+[^naturalism-india-1972]: Īśarakṛṣṇa, 1972, *Sāṃkhya-kārikā*, with the commentary of Gauḍapāda, T.G. Manikar (tr.), Poona: Oriental Book Agency.
 
 [^kitcher-1983]: Kitcher, P., 1983, *The Nature of Mathematical Knowledge*, New York: Oxford University Press.
 

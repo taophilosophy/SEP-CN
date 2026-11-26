@@ -225,7 +225,7 @@ Daoism | dialetheism | Hegel, Georg Wilhelm Friedrich | Japanese Philosophy | Ja
 
 [^note-1]: Michiko Yusa gives us a translation of this address in her biography of Nishida (Yusa 2002: 314–18)[^yusa-2002].
 
-[^note-2]: Nishida’s original model is twofold: First, Richard Dedekind’s infinite system that is mirrored in any of its “proper parts,” which reflect it in their one-to-one correspondence to it but do not contain all of its elements. The set of positive integers, for example, is mirrored in the equivalent set of even integers but that equivalent set does not contain the odd integers. (See Dedekind’s *Was sind und was sollen die Zahlen*.) Secondly, Josiah Royce’s adaptation of Dedekind in his “self-representative systems,” exemplified by a perfect map that includes a depiction of itself. (See Royce’s Supplementary Essay in *The World and the Individual* and Maraldo 2017.)[^maraldo-2017][^maraldo-2017-2]
+[^note-2]: Nishida’s original model is twofold: First, Richard Dedekind’s infinite system that is mirrored in any of its “proper parts,” which reflect it in their one-to-one correspondence to it but do not contain all of its elements. The set of positive integers, for example, is mirrored in the equivalent set of even integers but that equivalent set does not contain the odd integers. (See Dedekind’s *Was sind und was sollen die Zahlen*.) Secondly, Josiah Royce’s adaptation of Dedekind in his “self-representative systems,” exemplified by a perfect map that includes a depiction of itself. (See Royce’s Supplementary Essay in *The World and the Individual* and Maraldo 2017.)[^maraldo-2017]
 
 [^note-3]: Several Japanese interpreters of Nishida relate his predicate logic, if not his entire philosophy, to the nature of the Japanese language, in which “the predicate is predominant and the subject can often be omitted” (Sakabe 2010: 13)[^sakabe-2010].
 
@@ -257,75 +257,75 @@ Daoism | dialetheism | Hegel, Georg Wilhelm Friedrich | Japanese Philosophy | Ja
 
 [^fundamentación-1944]: “Fundamentación filosófica de las matemáticas” (1944), and “Lógica del topos y cosmovisión religiosa” (1945).
 
-[^fundamentación-1911]: 1911–1945b [1999]. “Une étude sur le bein” (1911, Bernard Stevens, trans.), “Logique prédicative” (1928, Jacynthe Tremblay, trans.), “Logique de lieu et vision religieuse du monde” (1945, Yasuhiko Sugimura & Syvain Cardonnel, trans.), *Revue Philosophique de Louvain*, 97 (1).
+[^nishida-kitaro-1911-4]: 1911–1945b [1999]. “Une étude sur le bein” (1911, Bernard Stevens, trans.), “Logique prédicative” (1928, Jacynthe Tremblay, trans.), “Logique de lieu et vision religieuse du monde” (1945, Yasuhiko Sugimura & Syvain Cardonnel, trans.), *Revue Philosophique de Louvain*, 97 (1).
 
-[^fundamentación-1911-2]: 1911–45c [2011]. “Pure Experience” (1911), “The Logic of Place” (1926), “The Eternal in Art and Poetry” (1932), “A Religious View of the World” (1945), “My Logic” (1945), in *Japanese Philosophy: A Sourcebook*, James W. Heisig, Thomas P. Kasulis, & John C. Maraldo, eds., University of Hawai‘i Press.
+[^nishida-kitaro-1911-5]: 1911–45c [2011]. “Pure Experience” (1911), “The Logic of Place” (1926), “The Eternal in Art and Poetry” (1932), “A Religious View of the World” (1945), “My Logic” (1945), in *Japanese Philosophy: A Sourcebook*, James W. Heisig, Thomas P. Kasulis, & John C. Maraldo, eds., University of Hawai‘i Press.
 
-[^fundamentación-1913]: 1913–14 [2003]. “On the Role of Religion”, Gereon Kopf (trans.), *The Eastern Buddhist*, 25(1–2): 229–39.
+[^nishida-kitaro-1913]: 1913–14 [2003]. “On the Role of Religion”, Gereon Kopf (trans.), *The Eastern Buddhist*, 25(1–2): 229–39.
 
-[^fundamentación-1917]: 1917 [1987]. *Intuition and Reflection in Self-Consciousness*, Valdo H. Viglielmo, Takeuchi Toshinori and Joseph S. O’Leary (trans.), Albany: State University of New York Press.
+[^nishida-kitaro-1917]: 1917 [1987]. *Intuition and Reflection in Self-Consciousness*, Valdo H. Viglielmo, Takeuchi Toshinori and Joseph S. O’Leary (trans.), Albany: State University of New York Press.
 
-[^fundamentación-1919a]: 1919a [1997]. “Coincidentia Oppositorum and Love”, W. S. Yokoyama (trans.), *The Eastern Buddhist*, 30(1): 7–12.
+[^nishida-kitaro-1919a]: 1919a [1997]. “Coincidentia Oppositorum and Love”, W. S. Yokoyama (trans.), *The Eastern Buddhist*, 30(1): 7–12.
 
-[^fundamentación-1919b]: 1919b [2013]. “*Coincidentia Oppositorum* to Ai”, Eric Cunningham (trans.), *Comparative and Continental Philosophy*, 5(2): 116–123.
+[^nishida-kitaro-1919b]: 1919b [2013]. “*Coincidentia Oppositorum* to Ai”, Eric Cunningham (trans.), *Comparative and Continental Philosophy*, 5(2): 116–123.
 
-[^fundamentación-1920]: 1920 [1979]. “Affective Feeling”, David Dilworth and Valdo Viglielmo (trans.), in *Japanese Phenomenology* (Analecta Husserliana VIII), Y. Nitta and H. Tatematsu (eds), Dordrecht, Boston & London: D. Reidel Publishing Company, 223–247. Excerpts from *The Problem of Consciousness.*
+[^nishida-kitaro-1920]: 1920 [1979]. “Affective Feeling”, David Dilworth and Valdo Viglielmo (trans.), in *Japanese Phenomenology* (Analecta Husserliana VIII), Y. Nitta and H. Tatematsu (eds), Dordrecht, Boston & London: D. Reidel Publishing Company, 223–247. Excerpts from *The Problem of Consciousness.*
 
-[^fundamentación-1921]: 1921–23a [1973]. *Art and Morality*, David Dilworth and Valdo Viglielmo (trans.), Honolulu: University of Hawai‘i Press.
+[^nishida-kitaro-1921]: 1921–23a [1973]. *Art and Morality*, David Dilworth and Valdo Viglielmo (trans.), Honolulu: University of Hawai‘i Press.
 
-[^fundamentación-1921-2]: 1921–23b [2022]. *Art et morale*, Britta Boutry-Stadelmann (trans.), Nagoya: Chisokudō Publications.
+[^nishida-kitaro-1921-2]: 1921–23b [2022]. *Art et morale*, Britta Boutry-Stadelmann (trans.), Nagoya: Chisokudō Publications.
 
-[^fundamentación-1925]: 1925–1938 [2012] . *Ontology of Production: 3 Essays*, William Haver (trans.), (Asia-Pacific), Durham, NC: Duke University Press; includes “Expressive Activity” (1925), “The Standpoint of Active Intuition” (1935) and “Human Being” (1938). doi:10.1215/9780822394983.
+[^nishida-kitaro-1925]: 1925–1938 [2012] . *Ontology of Production: 3 Essays*, William Haver (trans.), (Asia-Pacific), Durham, NC: Duke University Press; includes “Expressive Activity” (1925), “The Standpoint of Active Intuition” (1935) and “Human Being” (1938). doi:10.1215/9780822394983.
 
-[^fundamentación-1926]: 1926 [2012]. “The Unsolved Issue of Consciousness”, J.W.M. Krummel (trans.), *Philosophy East and West*, 62(1): 44–59.
+[^nishida-kitaro-1926]: 1926 [2012]. “The Unsolved Issue of Consciousness”, J.W.M. Krummel (trans.), *Philosophy East and West*, 62(1): 44–59.
 
-[^fundamentación-1926-2]: 1926 & 1936 [2012]. *Place & Dialectic: Two Essays by Nishida Kitarō*, John W. Krummel and Shigenori Nagatomo (trans), Oxford: Oxford University Press; includes “Basho” and “Logic and Life”. doi:10.1093/acprof:oso/9780199841172.001.0001
+[^nishida-kitaro-1926-2]: 1926 & 1936 [2012]. *Place & Dialectic: Two Essays by Nishida Kitarō*, John W. Krummel and Shigenori Nagatomo (trans), Oxford: Oxford University Press; includes “Basho” and “Logic and Life”. doi:10.1093/acprof:oso/9780199841172.001.0001
 
-[^fundamentación-1926-3]: 1926–1945 [1999]. *Logik des Ortes: Der Anfang der modernen Philosophie in Japan*, Rolf Elberfeld (trans.), Darmstadt: Wissenschaftliche Buchgesellschaft; includes “Ort” (1926), “Ich und Du” (1932), “Ortlogik und religiöse Weltanschauung” (1945).
+[^nishida-kitaro-1926-3]: 1926–1945 [1999]. *Logik des Ortes: Der Anfang der modernen Philosophie in Japan*, Rolf Elberfeld (trans.), Darmstadt: Wissenschaftliche Buchgesellschaft; includes “Ort” (1926), “Ich und Du” (1932), “Ortlogik und religiöse Weltanschauung” (1945).
 
-[^fundamentación-1927]: 1927–38 [1958]. *Intelligibility and the Philosophy of Nothingness: Three Philosophical Essays* [IPN], Robert Shinzinger (trans.), Honolulu: East-West Center Press. Translations of “The Intelligible World” (1927), “Goethe’s Metaphysical Background” (1932), and “The Unity of Opposites” (1938).
+[^nishida-kitaro-1927]: 1927–38 [1958]. *Intelligibility and the Philosophy of Nothingness: Three Philosophical Essays* [IPN], Robert Shinzinger (trans.), Honolulu: East-West Center Press. Translations of “The Intelligible World” (1927), “Goethe’s Metaphysical Background” (1932), and “The Unity of Opposites” (1938).
 
-[^fundamentación-1928]: 1928–29 [2017]. *Autoéveil: Le système des universels*, Jacynthe Tremblay (trans.), Nagoya: Chisokudō Publications.
+[^nishida-kitaro-1928]: 1928–29 [2017]. *Autoéveil: Le système des universels*, Jacynthe Tremblay (trans.), Nagoya: Chisokudō Publications.
 
-[^fundamentación-1929]: 1929 [2005]. “General Summary of The System of Self-Consciousness of the Universal”, Robert J. Wargo (trans), in Wargo 2005, *The Logic of Nothingness: An Essay on Nishida Kitarō*, Honolulu: University of Hawai‘i Press.
+[^nishida-kitaro-1929]: 1929 [2005]. “General Summary of The System of Self-Consciousness of the Universal”, Robert J. Wargo (trans), in Wargo 2005, *The Logic of Nothingness: An Essay on Nishida Kitarō*, Honolulu: University of Hawai‘i Press.
 
-[^fundamentación-1930]: 1930–32 [2019]. *La Détermination du néant marquée par l’autoéveil*, Jacynthe Tremblay (trans.), Nagoya: Chisokudō Publications.
+[^nishida-kitaro-1930]: 1930–32 [2019]. *La Détermination du néant marquée par l’autoéveil*, Jacynthe Tremblay (trans.), Nagoya: Chisokudō Publications.
 
-[^fundamentación-1930-2]: 1930 & 1933 [2017]. Michiko Yusa (trans.), Yusa 2017: 365–369 (appendix); includes “The Beauty of Calligraphy (*Sho no bi*, May 1930)” and “On Japanese Short Poetry, Tanka (*Tanka ni tsuite*, January 1933)”.
+[^nishida-kitaro-1930-2]: 1930 & 1933 [2017]. Michiko Yusa (trans.), Yusa 2017: 365–369 (appendix); includes “The Beauty of Calligraphy (*Sho no bi*, May 1930)” and “On Japanese Short Poetry, Tanka (*Tanka ni tsuite*, January 1933)”.
 
-[^fundamentación-1931]: 1931–1944 [2003]. *L’Éveil à soi* Jacynthe Tremblay (trans.), Paris: CNRS Éditions; includes various essays.
+[^nishida-kitaro-1931]: 1931–1944 [2003]. *L’Éveil à soi* Jacynthe Tremblay (trans.), Paris: CNRS Éditions; includes various essays.
 
-[^fundamentación-1932a]: 1932a [1996]. *L’io e il tu*, R. Andolfato (trans.), Padova: Unipress.
+[^nishida-kitaro-1932a]: 1932a [1996]. *L’io e il tu*, R. Andolfato (trans.), Padova: Unipress.
 
-[^fundamentación-1932b]: 1932b [2017]. “Über die Philosophie des Lebens”, Ralf Müller (trans.), *European Journal of Japanese Philosophy*, 2: 295–315.
+[^nishida-kitaro-1932b]: 1932b [2017]. “Über die Philosophie des Lebens”, Ralf Müller (trans.), *European Journal of Japanese Philosophy*, 2: 295–315.
 
-[^fundamentación-1933]: 1933 [2020]. *Problèmes fondamentaux de la philosophie: Le monde de l’agir,* Jacynthe Tremblay (trans.), Nagoya: Chisokudō Publications.
+[^nishida-kitaro-1933]: 1933 [2020]. *Problèmes fondamentaux de la philosophie: Le monde de l’agir,* Jacynthe Tremblay (trans.), Nagoya: Chisokudō Publications.
 
-[^fundamentación-1933-2]: 1933–34 [1970]. *Fundamental Problems of Philosophy*, David Dilworth (trans.), Tokyo: Sophia University.
+[^nishida-kitaro-1933-2]: 1933–34 [1970]. *Fundamental Problems of Philosophy*, David Dilworth (trans.), Tokyo: Sophia University.
 
-[^fundamentación-1934]: 1934 [1990]. “Die Welt als dialektisches Allgemeines,” Matsudo Yukio (trans.), in *Die Welt als dialektisches Allgemeines: Eine Einführung in die Spätphilosophie von Kitarō Nishida*, Berlin: Vista.
+[^nishida-kitaro-1934]: 1934 [1990]. “Die Welt als dialektisches Allgemeines,” Matsudo Yukio (trans.), in *Die Welt als dialektisches Allgemeines: Eine Einführung in die Spätphilosophie von Kitarō Nishida*, Berlin: Vista.
 
-[^fundamentación-1944a]: 1944a [1970]. “Toward a Philosophy of Religion with the Concept of Preestablished Harmony as a Guide”, David Dilworth (trans.), *The Eastern Buddhist*, 3(1): 19–46.
+[^nishida-kitaro-1944a]: 1944a [1970]. “Toward a Philosophy of Religion with the Concept of Preestablished Harmony as a Guide”, David Dilworth (trans.), *The Eastern Buddhist*, 3(1): 19–46.
 
-[^fundamentación-1934-2]: 1934–45 [1998]. “The Forms of Culture of the Classical Periods of East and West Seen from a Metaphysical Perspective” (1934), “The Historical Body” (1937), “The World as Identity of Absolute Contradiction” (1939), “Fundamental Principles of a New World Order” (1943) and “On the National Polity” (1944), in *Sourcebook for Modern Japanese Philosophy: Selected Documents*, David A. Dilworth and Valdo H. Viglielmo, trans. & eds, Westport, Connecticut and London: Greenwood Press.
+[^nishida-kitaro-1934-2]: 1934–45 [1998]. “The Forms of Culture of the Classical Periods of East and West Seen from a Metaphysical Perspective” (1934), “The Historical Body” (1937), “The World as Identity of Absolute Contradiction” (1939), “Fundamental Principles of a New World Order” (1943) and “On the National Polity” (1944), in *Sourcebook for Modern Japanese Philosophy: Selected Documents*, David A. Dilworth and Valdo H. Viglielmo, trans. & eds, Westport, Connecticut and London: Greenwood Press.
 
-[^fundamentación-1935]: 1935 & 1941 [1990]. “Selbstidentität und Kontinuität der Welt” and “Das künstlerische Schaffen als Gestaltungsakt der Geschichte,” E. Weinmayr (trans.), in *Die Philsophie der Kyōto Schule*, Ôhashi Ryōsuke (ed.), Freiburg & London: Karl Alber.
+[^nishida-kitaro-1935]: 1935 & 1941 [1990]. “Selbstidentität und Kontinuität der Welt” and “Das künstlerische Schaffen als Gestaltungsakt der Geschichte,” E. Weinmayr (trans.), in *Die Philsophie der Kyōto Schule*, Ôhashi Ryōsuke (ed.), Freiburg & London: Karl Alber.
 
-[^fundamentación-1937a]: 1937a [2008]. “L’Intuition agissante”, Kuroda Akinobu (trans.), *Laval théologique et philosophique*, 64(2): 277–93.
+[^nishida-kitaro-1937a]: 1937a [2008]. “L’Intuition agissante”, Kuroda Akinobu (trans.), *Laval théologique et philosophique*, 64(2): 277–93.
 
-[^fundamentación-1937]: 1937 & 1944 [2001]. *Il corpo e la conoscenza*, Matteo Cestari (trans.), Venice: Libreria Editrice Cafoscarina; includes “L’intuizione attiva (*Kōiteki chokkan*)” (1937) and “Saggio sulla filosofia di Cartesio (*Dekaruto tetsugaku ni tsuite*)” (1944).
+[^nishida-kitaro-1937]: 1937 & 1944 [2001]. *Il corpo e la conoscenza*, Matteo Cestari (trans.), Venice: Libreria Editrice Cafoscarina; includes “L’intuizione attiva (*Kōiteki chokkan*)” (1937) and “Saggio sulla filosofia di Cartesio (*Dekaruto tetsugaku ni tsuite*)” (1944).
 
-[^fundamentación-1937b]: 1937b [2016]. “Der geschichtliche Leib”, Leon Krings (trans.), *European Journal of Japanese Philosophy*, 1: 217–246.
+[^nishida-kitaro-1937b]: 1937b [2016]. “Der geschichtliche Leib”, Leon Krings (trans.), *European Journal of Japanese Philosophy*, 1: 217–246.
 
-[^fundamentación-1938]: 1938 [1991]. *La Culture Japonaise en Question*, Pierre Lavelle (trans.), Paris: Publications Orientalistes de France.
+[^nishida-kitaro-1938]: 1938 [1991]. *La Culture Japonaise en Question*, Pierre Lavelle (trans.), Paris: Publications Orientalistes de France.
 
-[^fundamentación-1938-2]: 1938–44 [1985]. *Estado y Filosofía*, Agustín Jacinto Zavala (trans.), Michoacan, Mexico: El Colegio de Michoacan; includes “La crisis de la cultura japonesa” (1938), “El problema de la rasón de estado” (1941), and “Teoría dek *kokutai*” (1944).
+[^nishida-kitaro-1938-2]: 1938–44 [1985]. *Estado y Filosofía*, Agustín Jacinto Zavala (trans.), Michoacan, Mexico: El Colegio de Michoacan; includes “La crisis de la cultura japonesa” (1938), “El problema de la rasón de estado” (1941), and “Teoría dek *kokutai*” (1944).
 
-[^fundamentación-1944-2]: 1944 [1970]. “Religious Consciousness and the Logic of the *Prajñāpāramitā Sūtra*”, David A. Dilworth (trans.), *Monumenta Nipponica*, 25(1/2): 203–216. doi:10.2307/2383746
+[^nishida-kitaro-1944]: 1944 [1970]. “Religious Consciousness and the Logic of the *Prajñāpāramitā Sūtra*”, David A. Dilworth (trans.), *Monumenta Nipponica*, 25(1/2): 203–216. doi:10.2307/2383746
 
-[^fundamentación-1945a]: 1945a [1986]. “The Logic of *Topos* and the Religious Worldview”, Michiko Yusa (trans.), *The Eastern Buddhist* 19(2): 1–29 & 20(1): 81–119.
+[^nishida-kitaro-1945a]: 1945a [1986]. “The Logic of *Topos* and the Religious Worldview”, Michiko Yusa (trans.), *The Eastern Buddhist* 19(2): 1–29 & 20(1): 81–119.
 
-[^fundamentación-1945b]: 1945b [1987]. *Last Writings: Nothingness and the Religious Worldview*, David Dilworth (trans.), Honolulu: University of Hawai‘i Press.
+[^nishida-kitaro-1945b]: 1945b [1987]. *Last Writings: Nothingness and the Religious Worldview*, David Dilworth (trans.), Honolulu: University of Hawai‘i Press.
 
 [^abe-1988]: Abe, Masao, 1988, “Nishida’s Philosophy of ‘Place’”, *International Philosophical Quarterly*, 28(4): 355–371. doi:10.5840/ipq198828437
 
@@ -573,11 +573,11 @@ Daoism | dialetheism | Hegel, Georg Wilhelm Friedrich | Japanese Philosophy | Ja
 
 [^maraldo-2017]: –––, 2017–2023, *Japanese Philosophy in the Making*, Nagoya: Chisokudō Publications, 3 volumes.
 
-[^maraldo-2017-2]: 2017, Volume 1: *Crossing Paths with Nishida*.
+[^nishida-kitaro-2017]: 2017, Volume 1: *Crossing Paths with Nishida*.
 
-[^maraldo-2019]: 2019, Volume 2: *Borderline Interrogations*.
+[^nishida-kitaro-2019]: 2019, Volume 2: *Borderline Interrogations*.
 
-[^maraldo-2023]: 2023, Volume 3: *Alternatives with Tracks through Zen*. Critical reviews of the first two volumes with a response, in *European Journal of Japanese Philosophy*, 7(2022): 7–169. [[Maraldo reviews 2022 available online (pdf)](https://ejjpenojp.files.wordpress.com/2022/10/ejjp-7-maraldo-symposium-1.pdf)]
+[^nishida-kitaro-2023]: 2023, Volume 3: *Alternatives with Tracks through Zen*. Critical reviews of the first two volumes with a response, in *European Journal of Japanese Philosophy*, 7(2022): 7–169. [[Maraldo reviews 2022 available online (pdf)](https://ejjpenojp.files.wordpress.com/2022/10/ejjp-7-maraldo-symposium-1.pdf)]
 
 [^matsumaru-2022]: Matsumaru Hisao, Arisaka Yoko, and Lucy Christine Schultz (eds), 2022, *Tetsugaku Companion to Nishida Kitarō*, (Tetsugaku Companions to Japanese Philosophy 4), Cham: Springer. doi:10.1007/978-3-319-41784-4
 

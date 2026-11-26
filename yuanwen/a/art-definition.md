@@ -347,6 +347,6 @@ The “functionalist” vs. “proceduralist” scheme for classifying definitio
 
 [^zangwill-2001]: –––, 2001, *The Metaphysics of Beauty*, Ithaca: Cornell University Press.
 
-[^zangwill-2007]: ___, 2007, *Aesthetic Creation*, Oxford: Oxford University Press.
+[^art-definition-2007]: ___, 2007, *Aesthetic Creation*, Oxford: Oxford University Press.
 
 [^zemach-1997]: Zemach, Eddy, 1997, *Real Beauty*, University Park, PA: Pennsylvania State University Press.

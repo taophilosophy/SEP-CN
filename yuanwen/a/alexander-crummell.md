@@ -213,7 +213,7 @@ africana-philosophy | Cooper, Anna Julia | Douglass, Frederick | moral epistemol
 
 [^kirkland-1992]: Kirkland, Frank M., 1992–1993, “Modernity and Intellectual Life in Black.” *The Philosophical Forum*, 24(1–3): 136–165.
 
-[^kirkland-2021]: —, 2021, “Alexander Crummell’s Three Visions of Black Nationalism,” in Melvin L. Rogers and Jack Turner (eds.), *African American Political Thought: A Collected History*, Chicago: University of Chicago Press, pp. 142–166.
+[^alexander-crummell-2021]: —, 2021, “Alexander Crummell’s Three Visions of Black Nationalism,” in Melvin L. Rogers and Jack Turner (eds.), *African American Political Thought: A Collected History*, Chicago: University of Chicago Press, pp. 142–166.
 
 [^moses-2004]: Moses, Wilson Jeremiah, 2004, *Creative Conflict in African American Thought: Frederick Douglass, Alexander Crummell, Booker T. Washington, W. E. B. Du Bois, and Marcus Garvey,* Cambridge: Cambridge University Press, chapters 5–7.
 

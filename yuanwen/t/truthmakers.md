@@ -649,7 +649,7 @@ This entry was originally based upon a course on truth makers that Macbride gave
 
 [^raven-2012]: Raven, M.J., 2012, “In Defence of Ground,” *Australasian Journal of Philosophy*, 90: 687–701.
 
-[^raven-2015]: ––, 2015, “Ground,” *Philosophy Compass*, 10: 322–333.
+[^truthmakers-2015]: ––, 2015, “Ground,” *Philosophy Compass*, 10: 322–333.
 
 [^read-2000]: Read, S., 2000, “Truth-makers and the Disjunction Thesis,” *Mind*, 109: 67–79.
 

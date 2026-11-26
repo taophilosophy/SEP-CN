@@ -317,7 +317,7 @@ aesthetics: British, in the 18th century | aesthetics: French, in the 18th centu
 
 [^hickey-2012]: Hickey, Dave, 2012 [1993], *The Invisible Dragon: Essays on Beauty*, University of Chicago Press.
 
-[^hickey-2000]: hooks, bell, 2000, “Beauty Within and Without”, in *Feminism for Everybody*: *Passionate Politics*, London: Routledge, 31–36.
+[^beauty-2000]: hooks, bell, 2000, “Beauty Within and Without”, in *Feminism for Everybody*: *Passionate Politics*, London: Routledge, 31–36.
 
 [^hume-1757]: Hume, David, 1757, “Of the Standard of Taste,” *Essays Moral and Political*, London: George Routledge and Sons, 1894.
 

@@ -434,7 +434,7 @@ Note that semantically, it is easy to see that the formula $\Box\Diamond A \righ
 
 [^segerberg-1971]: Segerberg, K., 1971, *An Essay in Classical Modal Logic*, Uppsala: Filosofiska Föreningen och Filosofiska Institutionen vid Uppsala Universitet.
 
-[^segerberg-2000]: Švejdar, V., 2000, “On Provability Logic,” *Nordic Journal of Philosophy*, 4: 95–116.
+[^logic-provability-2000]: Švejdar, V., 2000, “On Provability Logic,” *Nordic Journal of Philosophy*, 4: 95–116.
 
 [^smoryński-1984]: Smoryński, C., 1984, “Modal Logic and Self-Reference,” in D.M. Gabbay and F. Guenthner (eds.), *Handbook of Philosophical Logic* (Volume II: Extensions of Classical Logic), Dordrecht: Springer, pp. 441–495.
 
@@ -592,7 +592,7 @@ Note that semantically, it is easy to see that the formula $\Box\Diamond A \righ
 
 [^shavrukov-1988]: Shavrukov, V.Yu., 1988, “The Logic of Relative Interpretability over Peano Arithmetic,” Technical Report No. 5, Moscow: Steklov Mathematical Institute (in Russian).
 
-[^shavrukov-1983]: Švejdar, V., 1983, “Modal Analysis of Generalized Rosser Sentences,” *Journal of Symbolic Logic*, 48: 986–999.
+[^logic-provability-1983]: Švejdar, V., 1983, “Modal Analysis of Generalized Rosser Sentences,” *Journal of Symbolic Logic*, 48: 986–999.
 
 [^visser-1990]: Visser, A., 1990, “Interpretability Logic,” in P.P. Petkov (ed.), *Mathematical Logic: Proceedings of the Heyting 1988 Summer School in Varna, Bulgaria*, Boston: Plenum Press, pp. 175–209.
 

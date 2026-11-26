@@ -550,7 +550,7 @@ Premise (3) is crucial. Moore takes it for granted that the meaning of a predica
 
 To the end of his days Russell believed that
 
-> there are words which are only significant because there is something that they mean, and if there were not this something, they would be empty noises not words. (Russell 1959: 177)[^russell-1959]
+> there are words which are only significant because there is something that they mean, and if there were not this something, they would be empty noises not words. (Russell 1959: 177)
 
 But when he was young he thought that *most* words were like this, which explains the swollen ontology of *The Principles of Mathematics*:
 
@@ -678,35 +678,35 @@ Referred to as *Papers* in the text.
 
 analysis | Ayer, Alfred Jules | Bradley, Francis Herbert | cognitivism vs. non-cognitivism, moral | consequentialism | consequentialism: rule | descriptions | Hobbes, Thomas | Hume, David | Hume, David: moral philosophy | metaethics | Moore, George Edward | Moore, George Edward: moral philosophy | moral anti-realism | moral epistemology | moral motivation | moral non-naturalism | moral relativism | moral skepticism | realism | Reid, Thomas | Russell, Bertrand | Sidgwick, Henry
 
-[^russell-2000]: 2000 [1896], *German Social Democracy*, Nottingham: Spokesman. Originally published 1896.
+[^russell-moral-2000]: 2000 [1896], *German Social Democracy*, Nottingham: Spokesman. Originally published 1896.
 
-[^russell-1992a]: 1992a [1900], *A Critical Exposition of the Philosophy of Leibniz*, London: Routledge (first published in 1900).
+[^russell-moral-1992a]: 1992a [1900], *A Critical Exposition of the Philosophy of Leibniz*, London: Routledge (first published in 1900).
 
-[^russell-1992b]: 1992b [1903], *The Principles of Mathematics*, London: Routledge. Originally published 1903, second edition with a new introduction by the author (1937).
+[^russell-moral-1992b]: 1992b [1903], *The Principles of Mathematics*, London: Routledge. Originally published 1903, second edition with a new introduction by the author (1937).
 
-[^russell-1993]: 1993 [1920], *The Practice and Theory of Bolshevism*, Nottingham: Spokesman (originally published 1920).
+[^russell-moral-1993]: 1993 [1920], *The Practice and Theory of Bolshevism*, Nottingham: Spokesman (originally published 1920).
 
-[^russell-1929]: 1929, *Marriage and Morals*, London: George Allen and Unwin: New York: Horace Liveright.
+[^russell-moral-1929]: 1929, *Marriage and Morals*, London: George Allen and Unwin: New York: Horace Liveright.
 
-[^russell-1930]: 1930, *The Conquest of Happiness*, London: Allen and Unwin.
+[^russell-moral-1930]: 1930, *The Conquest of Happiness*, London: Allen and Unwin.
 
-[^russell-1992]: 1992 [1932], *Education and the Social Order*, London: Routledge (originally published 1932).
+[^russell-moral-1992]: 1992 [1932], *Education and the Social Order*, London: Routledge (originally published 1932).
 
-[^russell-1961]: 1961 [1935], *Religion and Science*, New York: Oxford University Press (originally published 1935).
+[^russell-moral-1961]: 1961 [1935], *Religion and Science*, New York: Oxford University Press (originally published 1935).
 
-[^russell-1995]: 1995 [1938], *Power: A New Social Analysis*, London: Routledge (originally published 1938).
+[^russell-moral-1995]: 1995 [1938], *Power: A New Social Analysis*, London: Routledge (originally published 1938).
 
-[^russell-1992-2]: 1992 [1940], *An Inquiry into Meaning and Truth*, London: Routledge (originally published in 1940).
+[^russell-moral-1992-2]: 1992 [1940], *An Inquiry into Meaning and Truth*, London: Routledge (originally published in 1940).
 
-[^russell-1948]: 1948, *Human Knowledge: Its Scope and Limits*, London: George Allen and Unwin; New York: Simon and Schuster.
+[^russell-moral-1948]: 1948, *Human Knowledge: Its Scope and Limits*, London: George Allen and Unwin; New York: Simon and Schuster.
 
-[^russell-1949]: 1949, *Authority and the Individual*, London: George Allen and Unwin; New York: Simon and Schuster.
+[^russell-moral-1949]: 1949, *Authority and the Individual*, London: George Allen and Unwin; New York: Simon and Schuster.
 
-[^russell-1954]: 1954, *Human Society in Ethics and Politics*, London: George Allen and Unwin; New York: Simon and Schuster.
+[^russell-moral-1954]: 1954, *Human Society in Ethics and Politics*, London: George Allen and Unwin; New York: Simon and Schuster.
 
-[^russell-1959]: 1959, *My Philosophical Development*, London: George Allen and Unwin**.**
+[^russell-moral-1959]: 1959, *My Philosophical Development*, London: George Allen and Unwin**.**
 
-[^russell-1967]: 1967, 1968, 1969, *The Autobiography of Bertrand Russell*, 3 vols, London: George Allen and Unwin. One volume paperback edition (with introduction by Michael Foot) London: Routledge (2000).
+[^russell-moral-1967]: 1967, 1968, 1969, *The Autobiography of Bertrand Russell*, 3 vols, London: George Allen and Unwin. One volume paperback edition (with introduction by Michael Foot) London: Routledge (2000).
 
 [^basic-1903]: *The Basic Writings of Bertrand Russell, 1903–1959*, Egner and Dennon (eds.), London: Routledge, 1992 (originally published 1961).
 

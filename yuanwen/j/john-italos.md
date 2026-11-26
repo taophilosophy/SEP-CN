@@ -155,7 +155,7 @@ The entry was produced within the framework of the European Union’s Horizon 20
 
 [^kechagmadze-1967]: Kechagmadze, N., 1967, “Грамматико-логический трактат Иоанна Итала”, *Византийский временник*, 27: 197–205.
 
-[^kechagmadze-1970]: ;–––, 1970, *Ioane It’alosis shemokmedeba* [*The works of John Italos*], Tbilisi: Metsniereba. [in Georgian]
+[^john-italos-1970]: ;–––, 1970, *Ioane It’alosis shemokmedeba* [*The works of John Italos*], Tbilisi: Metsniereba. [in Georgian]
 
 [^kraft-2021]: Kraft, A., 2021, “A clash of eschatological paradigms? The condemnation of John Italos revisited”, in *Dissidence and persecution in Byzantium: from Constantine to Michael Psellos*, D. Džino and R. W. Strickler (eds), Leiden: Brill, 193–213.
 

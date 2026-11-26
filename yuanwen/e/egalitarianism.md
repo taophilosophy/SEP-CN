@@ -386,7 +386,7 @@ The authors would like to acknowledge Rioghnach Theakston, Prach Panchakunathorn
 
 [^hill-1990]: Hill Collins, Patricia, 1990 [2000], *Black Feminist Thought: Knowledge, Consciousness, and the Politics of Empowerment* (Perspectives on Gender 2), Boston: Unwin Hyman. Revised 10th anniversary edition, New York: Routledge, 2000. doi:10.4324/9780203900055
 
-[^hill-1981]: hooks, bell, 1981, *Ain’t I a Woman: Black Women and Feminism*, Boston, MA: South End Press.
+[^egalitarianism-1981]: hooks, bell, 1981, *Ain’t I a Woman: Black Women and Feminism*, Boston, MA: South End Press.
 
 [^hupfer-2019]: Hupfer, Elizabeth C., 2019, “Distributing Welfare and Resources: A Multi-Currency View”, *Journal of Philosophical Research*, 44: 273–292. doi:10.5840/jpr20191016144
 

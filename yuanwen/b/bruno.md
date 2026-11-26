@@ -280,17 +280,17 @@ My thanks to: Leen Spruit and Richard Blum for their comments on, and correction
 
 [^werke-2006]: *Werke*, 7 vols, general editor Thomas Leinkauf, Italian texts ed. Giovanni Aquilecchia and (vol. 7) Eugenio Canone, with German translations and commentaries by various authors, Hamburg: Felix Meiner, 2006–19.
 
-[^works-1950]: 1950, *On the Infinite Universe and Worlds*, in Dorothea Waley Singer, *Giordano Bruno. His Life and Thought, with Annotated Translation of His Work* On the Infinite Universe and Worlds, New York: Schuman. (Translation of *De l’infinito, universo e mondi*, first published at London in 1584. Modern edition of the Italian text in BOI II, 7–167.)
+[^bruno-1950]: 1950, *On the Infinite Universe and Worlds*, in Dorothea Waley Singer, *Giordano Bruno. His Life and Thought, with Annotated Translation of His Work* On the Infinite Universe and Worlds, New York: Schuman. (Translation of *De l’infinito, universo e mondi*, first published at London in 1584. Modern edition of the Italian text in BOI II, 7–167.)
 
-[^works-1964]: 1964, *The Expulsion of The Triumphant Beast*, tr. Arthur D. Imerti, New Brunswick, NJ: Rutgers University Press. Reprint, Lincoln, NE: University of Nebraska Press, 1992. (Translation of *Spaccio de la bestia trionfante*, first published at London in 1584. Modern edition of the Italian text in BOI II, 169–404.)
+[^bruno-1964]: 1964, *The Expulsion of The Triumphant Beast*, tr. Arthur D. Imerti, New Brunswick, NJ: Rutgers University Press. Reprint, Lincoln, NE: University of Nebraska Press, 1992. (Translation of *Spaccio de la bestia trionfante*, first published at London in 1584. Modern edition of the Italian text in BOI II, 169–404.)
 
-[^works-1998]: 1998, *Cause, Principle and Unity,* tr. Robert de Lucca, with *Essays on Magic*, tr. Richard J. Blackwell, Cambridge: Cambridge University Press. (Translations of: 1) *De la causa, principio et uno*, originally published at London in 1584, corresponding to the modern edition in BOI I, 591–746; 2) *De magia*, published for the first time in BOL III, 395–506; and 3) *De vinculis in genere*, published for the first time in BOL III, 635–700.)
+[^bruno-1998]: 1998, *Cause, Principle and Unity,* tr. Robert de Lucca, with *Essays on Magic*, tr. Richard J. Blackwell, Cambridge: Cambridge University Press. (Translations of: 1) *De la causa, principio et uno*, originally published at London in 1584, corresponding to the modern edition in BOI I, 591–746; 2) *De magia*, published for the first time in BOL III, 395–506; and 3) *De vinculis in genere*, published for the first time in BOL III, 635–700.)
 
-[^works-2002]: 2002, *The Cabala of Pegasus*, tr. Sidney L. Sondergard and Madison U. Sowell, New Haven, CT: Yale University Press. (Translation of *Cabala del cavallo pegaseo*, first published at London in 1585. Modern edition of the Italian text in BOI II, 405–484.)
+[^bruno-2002]: 2002, *The Cabala of Pegasus*, tr. Sidney L. Sondergard and Madison U. Sowell, New Haven, CT: Yale University Press. (Translation of *Cabala del cavallo pegaseo*, first published at London in 1585. Modern edition of the Italian text in BOI II, 405–484.)
 
-[^works-2013]: 2013, *On the Heroic Frenzies. A Translation of* De gli eroici furori, Italian text ed. Eugenio Canone, English translation by Ingrid D. Rowland, Toronto: University of Toronto Press. (First published at London in 1585. Modern edition of the Italian text in BOI II, 485–753.)
+[^bruno-2013]: 2013, *On the Heroic Frenzies. A Translation of* De gli eroici furori, Italian text ed. Eugenio Canone, English translation by Ingrid D. Rowland, Toronto: University of Toronto Press. (First published at London in 1585. Modern edition of the Italian text in BOI II, 485–753.)
 
-[^works-2018]: 2018, *The Ash Wednesday Supper*, tr. Hilary Gatti, Toronto: University of Toronto Press. (Translation of *La cena de la ceneri*, first published at London in 1584. Modern edition of the Italian text in BOI I, 425–590.)
+[^bruno-2018]: 2018, *The Ash Wednesday Supper*, tr. Hilary Gatti, Toronto: University of Toronto Press. (Translation of *La cena de la ceneri*, first published at London in 1584. Modern edition of the Italian text in BOI I, 425–590.)
 
 [^new-2024]: New English translations of Bruno’s Italian works are appearing in the Lorenzo Da Ponte Italian Library, a series published by the University of Toronto Press. At the time of writing (March, 2024), the series includes Rowland’s translation of *On the Heroic Frenzies* and Gatti’s translation of *The Ash Wednesday Supper*, both as listed above. A translation of the *Expulsion of the Triumphant Beast* by Gatti in the same series is due to appear in mid-2024.
 

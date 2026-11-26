@@ -775,7 +775,7 @@ The author would like to thank: Christopher Menzel for spotting an error in an e
 
 [^sànchez-1991]: Sànchez, V., 1991, *Studies on Natural Logic and Categorial Grammar*, Ph.D. Thesis, University of Amsterdam.
 
-[^sànchez-1994]: —1994, “Montonicity in Medieval Logic”, *Language and Cognition*, 4: 161–74.
+[^logical-form-1994]: —1994, “Montonicity in Medieval Logic”, *Language and Cognition*, 4: 161–74.
 
 [^schein-1993]: Schein, B., 1993, *Events and Plurals*, Cambridge, MA: MIT Press.
 

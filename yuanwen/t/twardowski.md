@@ -334,7 +334,7 @@ Many thanks to Lieven Decock, Wim de Jong, Iris Loeb, Venanzio Raspa, Stefan Ros
 
 [^kotarbiński-1959]: Kotarbiński, T., 1959, “Styl pracy Kazimierza Twardowskiego”, *Ruch Filozoficzny*, 19: 3–4.
 
-[^kotarbiński-1936]: Łukasiewicz, J., 1936, “Logistics and Philosophy”, *Przegląd Filozoficzny*, 36: 113–131
+[^twardowski-1936]: Łukasiewicz, J., 1936, “Logistics and Philosophy”, *Przegląd Filozoficzny*, 36: 113–131
 
 [^likus-2000]: Likus, E., 2000, *Spuścizna rękopiśmienna w zbiorach Biblioteki Instytutu Filozofii i Socjologii Polskiej Akademii Nauk*, MA thesis, Warsaw University: Warsaw.
 

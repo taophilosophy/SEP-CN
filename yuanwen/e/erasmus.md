@@ -258,9 +258,9 @@ Aquinas, Thomas | Aristotle | Aristotle, General Topics: rhetoric | Augustine of
 
 [^schoeck-1990]: Schoeck, Richard J., 1990–1993, *Erasmus of Europe*, Edinburgh: Edinburgh University Press.
 
-[^schoeck-1990-2]: 1990, Vol. 1: *The Making of a Humanist, 1467–1500*
+[^erasmus-1990]: 1990, Vol. 1: *The Making of a Humanist, 1467–1500*
 
-[^schoeck-1993]: 1993, Vol. 2: *The Prince of Humanists, 1501–1536*
+[^erasmus-1993]: 1993, Vol. 2: *The Prince of Humanists, 1501–1536*
 
 [^tracy-1972]: Tracy, James D., 1972, *Erasmus: The Growth of a Mind*, (Travaux d’humanisme et Renaissance, 126), Geneva: Droz.
 

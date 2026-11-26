@@ -1042,15 +1042,15 @@ Why not reject his argument against states of affairs on similar grounds? (One m
 
 [^loss-2023]: –––, 2023, “Somewhere Together: Location, Parsimony and Multilocation”, *Erkenntnis*, 88(2): 675–691. doi:10.1007/s10670-021-00376-y
 
-[^loss-1996]: owe, E. J., 1996, *Subjects of Experience* (Cambridge Studies in Philosophy), Cambridge/New York: Cambridge University Press. doi:10.1017/CBO9780511598005
+[^location-mereology-1996]: owe, E. J., 1996, *Subjects of Experience* (Cambridge Studies in Philosophy), Cambridge/New York: Cambridge University Press. doi:10.1017/CBO9780511598005
 
-[^loss-1998]: –––, 1998, *The Possibility of Metaphysics: Substance, Identity, and Time*, Oxford: Clarendon Press. doi:10.1093/0199244995.001.0001
+[^location-mereology-1998]: –––, 1998, *The Possibility of Metaphysics: Substance, Identity, and Time*, Oxford: Clarendon Press. doi:10.1093/0199244995.001.0001
 
-[^loss-2000]: –––, 2000, “In Defence of the Simplicity Argument”, *Australasian Journal of Philosophy*, 78(1): 105–112. doi:10.1080/00048400012349381
+[^location-mereology-2000]: –––, 2000, “In Defence of the Simplicity Argument”, *Australasian Journal of Philosophy*, 78(1): 105–112. doi:10.1080/00048400012349381
 
-[^loss-2001]: –––, 2001, “Identity, Composition, and the Simplicity of the Self”, in *Soul, Body, and Survival: Essays on the Metaphysics of Human Persons*, Kevin Corcoran (ed.), Ithaca, NY: Cornell University Press, 139–158.
+[^location-mereology-2001]: –––, 2001, “Identity, Composition, and the Simplicity of the Self”, in *Soul, Body, and Survival: Essays on the Metaphysics of Human Persons*, Kevin Corcoran (ed.), Ithaca, NY: Cornell University Press, 139–158.
 
-[^loss-2003]: –––, 2003, “Substantial Change and Spatiotemporal Coincidence”, *Ratio*, 16(2): 140-160. doi:10.1111/1467-9329.00212
+[^location-mereology-2003]: –––, 2003, “Substantial Change and Spatiotemporal Coincidence”, *Ratio*, 16(2): 140-160. doi:10.1111/1467-9329.00212
 
 [^macbride-1998]: MacBride, Fraser, 1998, “Where Are Particulars and Universals?”, *Dialectica*, 52(3): 203–227. doi:10.1111/j.1746-8361.1998.tb00050.x
 

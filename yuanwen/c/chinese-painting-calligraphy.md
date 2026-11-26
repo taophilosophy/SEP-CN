@@ -315,15 +315,6 @@ Immersed in the discovery of the garden as one might be in the reading of a book
 
 ### Figure Credits
 
-- Figure 1: Public domain image of calligraphy by Zhang Xu, from The China Online Museum. [https://commons.wikimedia.org/wiki/File:Crazyzhangxu.jpg](https://commons.wikimedia.org/wiki/File:Crazyzhangxu.jpg)
-- Figure 2: Public domain image part of *Lanting Xu*, Tand Dynasty copy, calligraphy by Feng Chengsu, from Palace Museum in Beijing. Full file is available at [https://commons.wikimedia.org/wiki/File:神龍蘭亭序全.JPG](https://commons.wikimedia.org/wiki/File:%E7%A5%9E%E9%BE%8D%E8%98%AD%E4%BA%AD%E5%BA%8F%E5%85%A8.JPG)
-- Figure 3: Public domain image of the “Admonitions Scroll” by Gu Kaizhi, from the British Museum [https://commons.wikimedia.org/wiki/File:Admonitions_Scroll_Scene_10.jpg](https://commons.wikimedia.org/wiki/File:Admonitions_Scroll_Scene_10.jpg)
-- Figure 4: CC-BY-SA-4.0 image taken by Tbatb of military records from the Guangdi South Platoon in the Yongyuan Era [https://commons.wikimedia.org/wiki/File:Military_documents_on_bamboo_slips_scroll_in_Han_Dynasty_08.jpg](https://commons.wikimedia.org/wiki/File:Military_documents_on_bamboo_slips_scroll_in_Han_Dynasty_08.jpg)
-- Figure 5: CC-BY-SA-4.0 image taken by 钉钉 of the entrance to the Canglang Ting (Azure Waves Pavilion) garden in Suzhou. [https://commons.wikimedia.org/wiki/File:Entrance_to_Great_Wave_Pavilion.jpg](https://commons.wikimedia.org/wiki/File:Entrance_to_Great_Wave_Pavilion.jpg)
-- Figure 6: CC-BY-SA-4.0 image taken by 钉钉 of the Great Wave Pavilion in Suzhou. [https://commons.wikimedia.org/wiki/File:Suzhou_Great_Wave_Pavilion.jpg](https://commons.wikimedia.org/wiki/File:Suzhou_Great_Wave_Pavilion.jpg)
-- Figure 7: CC-BY-SA-2.0 image taken by shizhao of a calligraphic inscription 鹅池 (“Goose Pond”). [https://commons.wikimedia.org/wiki/File:鹅池.jpg](https://commons.wikimedia.org/wiki/File:%E9%B9%85%E6%B1%A0.jpg)
-- Figure 8: CC-BY-SA-4.0 image taken by Zhangzhugang of the Hall of 36 Mandarin Ducks and 18 Camellias in Zhuozhengyuan (the Garden of the Humble Administrator). [https://en.wikipedia.org/wiki/File:Suzhou_Zhuozheng_Yuan_2015.04.23_08-33-20.jpg](https://en.wikipedia.org/wiki/File:Suzhou_Zhuozheng_Yuan_2015.04.23_08-33-20.jpg)
-
 ## Academic Tools
 
 > |   | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=chinese-aesthetics). |
@@ -415,3 +406,19 @@ aesthetics of the everyday | Chinese Philosophy: metaphysics | Husserl, Edmund |
 [^zhu-1957]: Zhu, Guangqian, 1957, *Meixue wenti taolun ji* (Collected Debates on Aesthetic Issues), Peking: Zuojia chubanshe.
 
 [^zong-1981]: Zong, Baihua, 1981, *Meixue Sanbu* (Aesthetic Wanderings). Shanghai: Shanghai renmin chubanshe.
+
+[^figure-nd]: Figure 1: Public domain image of calligraphy by Zhang Xu, from The China Online Museum. [https://commons.wikimedia.org/wiki/File:Crazyzhangxu.jpg](https://commons.wikimedia.org/wiki/File:Crazyzhangxu.jpg)
+
+[^figure-nd-2]: Figure 2: Public domain image part of *Lanting Xu*, Tand Dynasty copy, calligraphy by Feng Chengsu, from Palace Museum in Beijing. Full file is available at [https://commons.wikimedia.org/wiki/File:神龍蘭亭序全.JPG](https://commons.wikimedia.org/wiki/File:%E7%A5%9E%E9%BE%8D%E8%98%AD%E4%BA%AD%E5%BA%8F%E5%85%A8.JPG)
+
+[^figure-nd-3]: Figure 3: Public domain image of the “Admonitions Scroll” by Gu Kaizhi, from the British Museum [https://commons.wikimedia.org/wiki/File:Admonitions_Scroll_Scene_10.jpg](https://commons.wikimedia.org/wiki/File:Admonitions_Scroll_Scene_10.jpg)
+
+[^figure-nd-4]: Figure 4: CC-BY-SA-4.0 image taken by Tbatb of military records from the Guangdi South Platoon in the Yongyuan Era [https://commons.wikimedia.org/wiki/File:Military_documents_on_bamboo_slips_scroll_in_Han_Dynasty_08.jpg](https://commons.wikimedia.org/wiki/File:Military_documents_on_bamboo_slips_scroll_in_Han_Dynasty_08.jpg)
+
+[^figure-nd-5]: Figure 5: CC-BY-SA-4.0 image taken by 钉钉 of the entrance to the Canglang Ting (Azure Waves Pavilion) garden in Suzhou. [https://commons.wikimedia.org/wiki/File:Entrance_to_Great_Wave_Pavilion.jpg](https://commons.wikimedia.org/wiki/File:Entrance_to_Great_Wave_Pavilion.jpg)
+
+[^figure-nd-6]: Figure 6: CC-BY-SA-4.0 image taken by 钉钉 of the Great Wave Pavilion in Suzhou. [https://commons.wikimedia.org/wiki/File:Suzhou_Great_Wave_Pavilion.jpg](https://commons.wikimedia.org/wiki/File:Suzhou_Great_Wave_Pavilion.jpg)
+
+[^figure-nd-7]: Figure 7: CC-BY-SA-2.0 image taken by shizhao of a calligraphic inscription 鹅池 (“Goose Pond”). [https://commons.wikimedia.org/wiki/File:鹅池.jpg](https://commons.wikimedia.org/wiki/File:%E9%B9%85%E6%B1%A0.jpg)
+
+[^figure-nd-8]: Figure 8: CC-BY-SA-4.0 image taken by Zhangzhugang of the Hall of 36 Mandarin Ducks and 18 Camellias in Zhuozhengyuan (the Garden of the Humble Administrator). [https://en.wikipedia.org/wiki/File:Suzhou_Zhuozheng_Yuan_2015.04.23_08-33-20.jpg](https://en.wikipedia.org/wiki/File:Suzhou_Zhuozheng_Yuan_2015.04.23_08-33-20.jpg)

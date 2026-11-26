@@ -222,7 +222,7 @@ Alfred Russell Wallace regularly urged Darwin to jettison the term ‘selection�
 
 The problem lies in the fact that the concept of fitness plays dual roles that are instructively conflated in this quotation. For when fitnesses are viewed as measures of differential *abilities* of organisms with different genotypes to leave different numbers of offspring, the language of fitness encourages us to suppose that ‘fitness’ refers to the relative selective advantages of genotypes. On the other hand, if ‘fitness’ simply refers to the *measure* of reproductive success, it is a quantitative representation of small scale evolutionary change in a population, and leaves entirely open the question of the *causes* of the change. But then the assumed connections among the concepts of fitness, adaptation and natural selection are severed. ‘Selection coefficients’ may have nothing to do with selection; what *W* represents may have nothing to do with selective advantage.
 
-There is, however, a way of formulating the theory in its modern guise which maintains an essentially Darwinian character. Since there are a number of confirmed ways in which natural populations can evolve in the absence of natural selection, and since balancing selection, i.e. countervailing selection forces, may prevent a population from evolving in its presence, it is clear that establishing, by measuring different reproductive rates among its members, that the genetic make-up of a population has changed does not establish that natural selection was the source of that change; nor does the fact that no change has been measured establish that natural selection is not operative. Population genetics and its associated models should be treated as the ‘kinematics’, not the ‘dynamics’ of evolutionary processes (on this distinction, see also Pence 2021)[^pence-2021]. That is, it is a way of establishing that a population either is or is not in equilibrium, and it provides sophisticated tools for measuring rates of change in a population across generations. Moreover, like the kinematics of any physical theory, if it establishes cross-generational change, it also tells us that there are causes to be found—the detailed contours of those measures may even provide suggestions as to where to look for those causes. What it cannot do *on its own* is provide knowledge of the forces at work. To use language introduced by Elliott Sober, fitness, unlike natural selection, is *causally inert*. (For further information, see the entry on population genetics.)
+There is, however, a way of formulating the theory in its modern guise which maintains an essentially Darwinian character. Since there are a number of confirmed ways in which natural populations can evolve in the absence of natural selection, and since balancing selection, i.e. countervailing selection forces, may prevent a population from evolving in its presence, it is clear that establishing, by measuring different reproductive rates among its members, that the genetic make-up of a population has changed does not establish that natural selection was the source of that change; nor does the fact that no change has been measured establish that natural selection is not operative. Population genetics and its associated models should be treated as the ‘kinematics’, not the ‘dynamics’ of evolutionary processes (on this distinction, see also Pence 2021)[^pence-2021][^pence-2021-2]. That is, it is a way of establishing that a population either is or is not in equilibrium, and it provides sophisticated tools for measuring rates of change in a population across generations. Moreover, like the kinematics of any physical theory, if it establishes cross-generational change, it also tells us that there are causes to be found—the detailed contours of those measures may even provide suggestions as to where to look for those causes. What it cannot do *on its own* is provide knowledge of the forces at work. To use language introduced by Elliott Sober, fitness, unlike natural selection, is *causally inert*. (For further information, see the entry on population genetics.)
 
 That means that, as valuable as population genetics is, it should not be equated with the theory of natural selection. Too often in both biological presentations of the theory and philosophical discussions of it, this is forgotten. For example:
 
@@ -230,7 +230,7 @@ That means that, as valuable as population genetics is, it should not be equated
 
 This is a presentation of ‘the basic theory of natural selection’ that makes no reference to natural selection at all!
 
-Natural selection, if it is to resemble the Darwinian concept that bears that name, must be reserved for reference to an *interaction between a variable, heritable feature of an organic system and the environment of that system*. That interaction may or may not change the proportions of those features across generations, and those proportions may change for reasons other than those interactions. But a plausible natural selection hypothesis must posit some such interaction. (Whether this interaction is accurately described as causal is another much-debated topic in recent years; see Pence 2021 for a high-level summary.)[^pence-2021] On this issue we will give the last word to Stephen Jay Gould:
+Natural selection, if it is to resemble the Darwinian concept that bears that name, must be reserved for reference to an *interaction between a variable, heritable feature of an organic system and the environment of that system*. That interaction may or may not change the proportions of those features across generations, and those proportions may change for reasons other than those interactions. But a plausible natural selection hypothesis must posit some such interaction. (Whether this interaction is accurately described as causal is another much-debated topic in recent years; see Pence 2021 for a high-level summary.)[^pence-2021][^pence-2021-2] On this issue we will give the last word to Stephen Jay Gould:
 
 > …when we consider natural selection as a causal process, we can only wonder why so many people confused a need for measuring the results of natural selection by counting the differential increase of some hereditary attribute (bookkeeping) with the mechanism that produces relative reproductive success (causality). (Gould 2003, 619)
 
@@ -272,11 +272,11 @@ In listing the topics we would discuss under the heading of neo-Darwinism, we di
 
 > *Species are groups of actually or potentially interbreeding natural populations, which are reproductively isolated from other such groups* (Mayr 1942/1982, 120; 1976, 518)
 
-Mayr was well aware of the limitations of this definition, and treated it somewhat as a ‘regulative ideal’. Dobzhansky in 1937 gave what he claimed to be a definition of species, but which seems, as Mayr noted (Mayr 1976, 481), much more a definition of *speciation*:
+Mayr was well aware of the limitations of this definition, and treated it somewhat as a ‘regulative ideal’. Dobzhansky in 1937 gave what he claimed to be a definition of species, but which seems, as Mayr noted (Mayr 1976, 481)[^mayr-1976], much more a definition of *speciation*:
 
 > …that stage of evolutionary process, “at which the once actually or potentially interbreeding array of forms becomes segregated in two or more separate arrays which are physiologically incapable of interbreeding.” (312)
 
-Simpson (1943) and others built even more historicity into the concept. These are all, of course, intended as *definitions* of the species *category*, and they attempt to provide a test (or a ‘yardstick’: Mayr 1976, 479) that in principle will permit a researcher to decide whether a group of individuals should all be identified by a single species-level concept such as ‘homo sapiens’. The test for species membership is the *capacity* to interbreed; the test distinguishing two species is *incapacity* to interbreed. Dobzhansky makes the importance of this test transparent—the transition from a single interbreeding population to two reproductively isolated ones is the process of speciation.
+Simpson (1943) and others built even more historicity into the concept. These are all, of course, intended as *definitions* of the species *category*, and they attempt to provide a test (or a ‘yardstick’: Mayr 1976, 479)[^mayr-1976] that in principle will permit a researcher to decide whether a group of individuals should all be identified by a single species-level concept such as ‘homo sapiens’. The test for species membership is the *capacity* to interbreed; the test distinguishing two species is *incapacity* to interbreed. Dobzhansky makes the importance of this test transparent—the transition from a single interbreeding population to two reproductively isolated ones is the process of speciation.
 
 Now in each of these definitions, little attention is paid to the actual methods used by taxonomists and systematists in differentiating between varieties of a species and distinct species, something to which Darwin gave a great deal of attention. Darwin’s apparent nominalism regarding the species concept likely stemmed from his close attention to his own taxonomic practices and those of other specialists.
 
@@ -284,7 +284,7 @@ Mayr, on the contrary, relates different approaches to the species concept to th
 
 Mayr claims that his Biological Species Concept (BSC) is an advance on both; individual species members are objectively related to one another not by a shared relation to a type but by causal and historical relationships to one another. He can thus be understood as arguing for a new, objective way of understanding the epistemological grounds for grouping individuals into species. This new way of grouping stresses historical, genetic and various ecological relationships among the individuals as the grounds for determining species membership. His claim is that this is more reliable and objective than similarities of phenotypic characteristics. This makes sense of the importance he eventually places on the fact the BSC defines species relationally:
 
-> …species are relationally defined. The word species corresponds very closely to other relational terms such as, for instance, the word *brother*. … To be a different species is not a matter of degree of difference but of relational distinctness. (Mayr 1976, 518)
+> …species are relationally defined. The word species corresponds very closely to other relational terms such as, for instance, the word *brother*. … To be a different species is not a matter of degree of difference but of relational distinctness. (Mayr 1976, 518)[^mayr-1976]
 
 Mayr has in mind that brothers may or may not look alike; the question of whether two people are brothers is determined by their historical and genetic ties to a common ancestry. Notice, however, that this is a claim about which characteristics, among the many that they have, should be taken most seriously in determining the applicability to them of the concept ‘brother’. That is, it is a defense of a sort of essentialism.
 
@@ -326,53 +326,13 @@ We hope that this survey has demonstrated, first and foremost, the rich past and
 
 #### Charles Darwin’s Life
 
-- Browne, E. J. 1995, *Charles Darwin: A Biography. Vol. 1: Voyaging*, Princeton: Princeton University Press.
-- –––, 2000, *Charles Darwin: A Biography. Vol. 2: The Power of Place*, Princeton: Princeton University Press.
-- Desmond, A. and Moore, J., 1992, *Darwin: The Life of a Tormented Evolutionist*, New York: Norton.
-- Herbert, S., 2005, *Charles Darwin, Geologist*, Ithaca: Cornell University Press.
-
 #### Charles Darwin: Primary Sources
-
-- Barrett, P. H. (ed.), 1977, *The Collected Papers of Charles Darwin*, 2 Vols., Chicago: University of Chicago Press.
-- Burkhardt, F. (ed.), 1985–2023, *The Correspondence of Charles Darwin*, Volumes 1–30, Cambridge: Cambridge University Press.
-- Chancellor, G. and John van Wyhe (eds.), 2009, *Charles Darwin’s Notebooks from the Voyage of the Beagle*, Cambridge: Cambridge University Press.
-- Keynes, R. (ed.), 2000, *Charles Darwin’s Zoology Notes & Specimen Lists from H.M.S. Beagle*, Cambridge: Cambridge University Press.
-- Peckham, M. (ed.), 1959, *The Origin of Species by Charles Darwin: A Variorum Text*, Philadelphia: University of Pennsylvania Press. [1st Paperback edition, 2006]
-- Weinshank, D. et al. (eds.), 1990, *A Concordance to Charles Darwin’s Notebooks, 1836–1844*, Ithaca: Cornell University Press.
 
 #### Charles Darwin’s Context
 
-- Hodge, J. and Radick, G. (eds.), 2003, *The Cambridge Companion to Darwin*, Cambridge: Cambridge University Press.
-- Owen, R., 1837/1992, *The Hunterian Lectures in Comparative Anatomy, May and June 1837* (Edited and with an Introductory Essay and Commentary by Phillip Reid Sloan), Chicago: Chicago University Press.
-- Rudwick, M., 1997, *George Cuvier, Fossil Bones and Geological Catastrophes*, Chicago: University of Chicago Press.
-- Ruse, M., 1999, *The Darwinian Revolution: Science Red in Tooth and Claw* (Revised edition), Cambridge: Cambridge University Press.
-- Ruse, M. and Richards, R. J. (eds.), 2009, *The Cambridge Companion to the* Origin of Species, Cambridge: Cambridge University Press.
-- Snyder, L., 2010, *The Philosophical Breakfast Club*, New York: Broadway Books.
-
 #### The Evolution of Darwinism
 
-- Amundson, R., 2005, *The Changing Role of the Embryo in Evolutionary Thought: Roots of Evo-Devo*, Cambridge: Cambridge University Press.
-- Depew, D. and Weber, B., 1995, *Darwinism Evolving: Systems Dynamics and the Genealogy of Natural Selection*, Cambridge MA: MIT Press.
-- Kohn, D. (ed.), 1995, *The Darwinian Heritage*, Princeton: Princeton University Press.
-- Mayr, E., 1976, *Evolution and the Diversity of Life*, Cambridge MA: Harvard University Press.
-- Ruse, M. (ed.), 2013, *The Cambridge Encyclopedia of Darwin and Evolutionary Thought*, Cambridge: Cambridge University Press.
-
 #### Philosophy and Evolutionary Theory
-
-- Brandon, R. N., 1996, *Concepts and Methods in Evolutionary Biology*, Cambridge: Cambridge University Press.
-- Burian, R. M., 2005, *The Epistemology of Development, Evolution, and Genetics*, Cambridge: Cambridge University Press.
-- Godfrey-Smith, P., 2009, *Darwinian Populations and Natural Selection*, Oxford: Oxford University Press.
-- –––, 2014, *The Philosophy of Biology*, Princeton: Princeton University Press.
-- Hull, D. and Ruse, M. (eds.), 1998, *The Philosophy of Biology*, Oxford: Oxford University Press.
-- Lloyd, E., 1994, *The Structure and Confirmation of Evolutionary Theory*, 2ⁿᵈ edition Princeton: Princeton University Press.
-- Pence, C. H., 2021, *The Causal Structure of Natural Selection*, Cambridge: Cambridge University Press.
-- Okasha, S., 2006, *Evolution and the Levels of Selection*, Oxford: Clarendon Press.
-- –––, 2019, *Philosophy of Biology: A Very Short Introduction*, Oxford: Oxford University Press.
-- Sober, E., 1984, *The Nature of Selection: Evolutionary Theory in Philosophical Focus*, Cambridge MA: MIT Press.
-- ––– (ed.), 1994, *Conceptual Issues in Evolutionary Biology*, 2ⁿᵈ edition, Cambridge MA: MIT Press.
-- –––, 2008, *Evidence and Evolution: The Logic Behind the Science*, Cambridge: Cambridge University Press.
-- –––, 2024, *The Philosophy of Evolutionary Theory: Concepts, Inferences & Probabilities*, Cambridge: Cambridge University Press.
-- Smith, David Livingstone (ed.), 2017, *How Biology Shapes Philosophy: New Foundations for Naturalism*, Cambridge: Cambridge University Press.
 
 ## Academic Tools
 
@@ -587,3 +547,73 @@ In sum, Darwin appears reluctant to name Herschel in print in connection with �
 [^witteveen-2015]: Witteveen, J., 2015, “‘A Temporary Oversimplification’: Mayr, Simpson, Dobzhansky, and the Origins of the Typology/Population Dichotomy (Part 1 of 2)”, *Studies in History and Philosophy of Biological and Biomedical Sciences* 54: 20–33.
 
 [^witteveen-2016]: –––, 2016, “‘A Temporary Oversimplification’: Mayr, Simpson, Dobzhansky, and the Origins of the Typology/Population Dichotomy (Part 2 of 2)”, *Studies in History and Philosophy of Biological and Biomedical Sciences* 57: 96–105.
+
+[^browne-1995]: Browne, E. J. 1995, *Charles Darwin: A Biography. Vol. 1: Voyaging*, Princeton: Princeton University Press.
+
+[^browne-2000]: –––, 2000, *Charles Darwin: A Biography. Vol. 2: The Power of Place*, Princeton: Princeton University Press.
+
+[^desmond-1992]: Desmond, A. and Moore, J., 1992, *Darwin: The Life of a Tormented Evolutionist*, New York: Norton.
+
+[^herbert-2005]: Herbert, S., 2005, *Charles Darwin, Geologist*, Ithaca: Cornell University Press.
+
+[^barrett-1977]: Barrett, P. H. (ed.), 1977, *The Collected Papers of Charles Darwin*, 2 Vols., Chicago: University of Chicago Press.
+
+[^burkhardt-1985]: Burkhardt, F. (ed.), 1985–2023, *The Correspondence of Charles Darwin*, Volumes 1–30, Cambridge: Cambridge University Press.
+
+[^chancellor-2009]: Chancellor, G. and John van Wyhe (eds.), 2009, *Charles Darwin’s Notebooks from the Voyage of the Beagle*, Cambridge: Cambridge University Press.
+
+[^keynes-2000]: Keynes, R. (ed.), 2000, *Charles Darwin’s Zoology Notes & Specimen Lists from H.M.S. Beagle*, Cambridge: Cambridge University Press.
+
+[^peckham-1959]: Peckham, M. (ed.), 1959, *The Origin of Species by Charles Darwin: A Variorum Text*, Philadelphia: University of Pennsylvania Press. [1st Paperback edition, 2006]
+
+[^weinshank-1990]: Weinshank, D. et al. (eds.), 1990, *A Concordance to Charles Darwin’s Notebooks, 1836–1844*, Ithaca: Cornell University Press.
+
+[^hodge-2003-2]: Hodge, J. and Radick, G. (eds.), 2003, *The Cambridge Companion to Darwin*, Cambridge: Cambridge University Press.
+
+[^owen-1837]: Owen, R., 1837/1992, *The Hunterian Lectures in Comparative Anatomy, May and June 1837* (Edited and with an Introductory Essay and Commentary by Phillip Reid Sloan), Chicago: Chicago University Press.
+
+[^rudwick-1997]: Rudwick, M., 1997, *George Cuvier, Fossil Bones and Geological Catastrophes*, Chicago: University of Chicago Press.
+
+[^ruse-1999]: Ruse, M., 1999, *The Darwinian Revolution: Science Red in Tooth and Claw* (Revised edition), Cambridge: Cambridge University Press.
+
+[^ruse-2009]: Ruse, M. and Richards, R. J. (eds.), 2009, *The Cambridge Companion to the* Origin of Species, Cambridge: Cambridge University Press.
+
+[^snyder-2010]: Snyder, L., 2010, *The Philosophical Breakfast Club*, New York: Broadway Books.
+
+[^amundson-2005]: Amundson, R., 2005, *The Changing Role of the Embryo in Evolutionary Thought: Roots of Evo-Devo*, Cambridge: Cambridge University Press.
+
+[^depew-1995]: Depew, D. and Weber, B., 1995, *Darwinism Evolving: Systems Dynamics and the Genealogy of Natural Selection*, Cambridge MA: MIT Press.
+
+[^kohn-1995]: Kohn, D. (ed.), 1995, *The Darwinian Heritage*, Princeton: Princeton University Press.
+
+[^mayr-1976]: Mayr, E., 1976, *Evolution and the Diversity of Life*, Cambridge MA: Harvard University Press.
+
+[^ruse-2013]: Ruse, M. (ed.), 2013, *The Cambridge Encyclopedia of Darwin and Evolutionary Thought*, Cambridge: Cambridge University Press.
+
+[^brandon-1996]: Brandon, R. N., 1996, *Concepts and Methods in Evolutionary Biology*, Cambridge: Cambridge University Press.
+
+[^burian-2005]: Burian, R. M., 2005, *The Epistemology of Development, Evolution, and Genetics*, Cambridge: Cambridge University Press.
+
+[^godfrey-smith-2009]: Godfrey-Smith, P., 2009, *Darwinian Populations and Natural Selection*, Oxford: Oxford University Press.
+
+[^godfrey-smith-2014]: –––, 2014, *The Philosophy of Biology*, Princeton: Princeton University Press.
+
+[^hull-1998]: Hull, D. and Ruse, M. (eds.), 1998, *The Philosophy of Biology*, Oxford: Oxford University Press.
+
+[^lloyd-1994]: Lloyd, E., 1994, *The Structure and Confirmation of Evolutionary Theory*, 2ⁿᵈ edition Princeton: Princeton University Press.
+
+[^pence-2021-2]: Pence, C. H., 2021, *The Causal Structure of Natural Selection*, Cambridge: Cambridge University Press.
+
+[^okasha-2006]: Okasha, S., 2006, *Evolution and the Levels of Selection*, Oxford: Clarendon Press.
+
+[^okasha-2019]: –––, 2019, *Philosophy of Biology: A Very Short Introduction*, Oxford: Oxford University Press.
+
+[^sober-1984]: Sober, E., 1984, *The Nature of Selection: Evolutionary Theory in Philosophical Focus*, Cambridge MA: MIT Press.
+
+[^sober-1994]: ––– (ed.), 1994, *Conceptual Issues in Evolutionary Biology*, 2ⁿᵈ edition, Cambridge MA: MIT Press.
+
+[^sober-2008]: –––, 2008, *Evidence and Evolution: The Logic Behind the Science*, Cambridge: Cambridge University Press.
+
+[^sober-2024]: –––, 2024, *The Philosophy of Evolutionary Theory: Concepts, Inferences & Probabilities*, Cambridge: Cambridge University Press.
+
+[^smith-2017]: Smith, David Livingstone (ed.), 2017, *How Biology Shapes Philosophy: New Foundations for Naturalism*, Cambridge: Cambridge University Press.

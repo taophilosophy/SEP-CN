@@ -195,7 +195,7 @@ This remark depends on confusing a general duality or psychic “two-ness” wit
 
 Finally, a question might be raised about the relation of Du Bois’s double-consciousness conception and the sorts of self-doubts, troubled feelings, and “identity issues” that have been linked to biracial or mixed-race appearance or identity in our persisting, harshly racialized American social world. White supremacy has presented particular difficulties for persons of ambivalent racial descent, visibly marked as brought into being by “race mixing”. Mixed-race persons have encountered hostility from “both sides”, and are often deemed weak or inferior *just because they are mixed*, as Naomi Zack documents in her *Race and Mixed-Race* (1993: chapters 11, 12). Indeed, Du Bois was personally familiar with this issue. His “most interesting” professor during his university days in Berlin was Heinrich von Trietschke;
 
-> [o]ne day he startled me by suddenly declaring during a lecture on America: “*Die Mulattin sind niedrig! Sie fuhlen sich niedrig!*” [Mulattoes are inferior; they feel themselves inferior.] I felt as if he were pointing me out; but I presume he was quite unaware of my presence. However my presence or absence would have made no difference to him. … My fellow students gave no evidence of connecting what he said with me. (Du Bois 1968: 165)[^bois-1968]
+> [o]ne day he startled me by suddenly declaring during a lecture on America: “*Die Mulattin sind niedrig! Sie fuhlen sich niedrig!*” [Mulattoes are inferior; they feel themselves inferior.] I felt as if he were pointing me out; but I presume he was quite unaware of my presence. However my presence or absence would have made no difference to him. … My fellow students gave no evidence of connecting what he said with me. (Du Bois 1968: 165)
 
 Yet when Du Bois formulated “double-consciousness” in *Souls*, mixed-race and skin-color discriminations within the black racial designation were not topics he addressed in print. The duality posited in the texts of 1903 is one between “Negro” – an identity then typically keyed to a metaphysically conceived racial designation – and “American” – one based on a putative citizenship status. Racial designation at that time was determined primarily through hypodescent, and the citizenship status of black folk had recently been impugned by *Plessy v. Ferguson* (1896).
 
@@ -209,7 +209,7 @@ It seems problematic, however, to pin a full-blown account of and theoretical re
 
 While Du Bois does not present the “double-consciousness” concept in so many words in *Darkwater*, published in 1920, the second chapter of that text, “The Souls of White Folks”, seems to invoke it. There, Du Bois characterizes the development of what he calls “the religion of whiteness” and discusses its impact on social relations in the nineteenth and the early twentieth centuries. Du Bois makes a claim for a special kind of knowledge of the psychology of white people. He writes of himself that, about them, “I am singularly clairvoyant”. After specifying that his knowledge is not that of the foreigner, nor of the servant or the worker, he writes:
 
-> I see these souls undressed and from the back and sides. I see the working of their entrails. I know their thoughts and they know that I know. (Du Bois 1920: 17)[^bois-1920]
+> I see these souls undressed and from the back and sides. I see the working of their entrails. I know their thoughts and they know that I know. (Du Bois 1920: 17)
 
 Du Bois here claims an insight into the psyches of whites that depends in part on an awareness of their beliefs and attitudes concerning race, of their falseness. This insight is of the kind that double-consciousness makes possible. But what Du Bois claims here also seems to go beyond the 1903 conception, since that conception did not specifically and explicitly refer to *knowledge* of the souls of white folks. Several pages into the “Souls of White Folks” chapter, after identifying the “discovery of personal whiteness” as an historically recent phenomenon associated with “this new religion of whiteness”, Du Bois indicates that it is black folk generally – “we” – who have such powers of “clairvoyance”:
 
@@ -223,7 +223,7 @@ But there is a bit more here, and other than, “second sight”. For what Du Bo
 
 Du Bois begins the essay, published in *Crisis* in September, 1933, with a story about his grandfather, who indignantly rejected an invitation to a “Negro” picnic:
 
-> [i]t meant close association with poverty, ignorance and suppressed and disadvantaged people, dirty and with bad manners. (Du Bois 1933: 199)[^bois-1933]
+> [i]t meant close association with poverty, ignorance and suppressed and disadvantaged people, dirty and with bad manners. (Du Bois 1933: 199)
 
 He then succinctly captures the whole dilemma of those in the Negro ‘upper crust’:
 
@@ -405,17 +405,17 @@ Africana Philosophy | consciousness | Du Bois, W.E.B. | Fanon, Frantz | race rac
 
 Thanks to Tommie Shelby, who originally commissioned this article, discussed it with me, and steadily, patiently encouraged its production. Thanks also to Martha Bragin. Shout out to Jonathan Buchsbaum, whose ‘hard reading’ and suggestions made this version considerably more readable and coherent than it would have been. And thanks to Shelly Botuck, whose encouragement and support have been sustaining and indispensable throughout.
 
-[^bois-1897]: 1897, “The Strivings of the Negro People”, *The Atlantic Monthly*, August: 194–197. [[Du Bois 1897 available online](http://www.theatlantic.com/past/unbound/flashbks/black/dubstriv.htm)]
+[^double-consciousness-1897]: 1897, “The Strivings of the Negro People”, *The Atlantic Monthly*, August: 194–197. [[Du Bois 1897 available online](http://www.theatlantic.com/past/unbound/flashbks/black/dubstriv.htm)]
 
-[^bois-1903]: 1903, *The Souls of Black Folk*, Chicago: A.C. McClurg & Co., page numbers from the version edited by David W. Blight and Robert Gooding-Williams, Boston: Bedford Books, 1997.
+[^double-consciousness-1903]: 1903, *The Souls of Black Folk*, Chicago: A.C. McClurg & Co., page numbers from the version edited by David W. Blight and Robert Gooding-Williams, Boston: Bedford Books, 1997.
 
-[^bois-1920]: 1920, “The Souls of White Folks”, in *Darkwater: Voices from Within the Veil*, New York: Harcourt, Brace & Co., page numbers from the Dover Thrift Edition, 1999.
+[^double-consciousness-1920]: 1920, “The Souls of White Folks”, in *Darkwater: Voices from Within the Veil*, New York: Harcourt, Brace & Co., page numbers from the Dover Thrift Edition, 1999.
 
-[^bois-1933]: 1933, “On Being Ashamed of Oneself: An Essay on Race Pride”, in *Crisis*, 40(9, Sept.): 199–200.
+[^double-consciousness-1933]: 1933, “On Being Ashamed of Oneself: An Essay on Race Pride”, in *Crisis*, 40(9, Sept.): 199–200.
 
-[^bois-1940]: 1940, *Dusk of Dawn: An Essay Toward an Autobiography of a Race Concept*, New York: Harcourt, Brace, & Co., page numbers from the Schocken Books edition, New York, 1968.
+[^double-consciousness-1940]: 1940, *Dusk of Dawn: An Essay Toward an Autobiography of a Race Concept*, New York: Harcourt, Brace, & Co., page numbers from the Schocken Books edition, New York, 1968.
 
-[^bois-1968]: 1968, *The Autobiography of W.E.B. Du Bois: A Soliloquy on Viewing My Life from the Last Decade of Its First Century*, H. Aptheker (ed.), New York: International Publishers.
+[^double-consciousness-1968]: 1968, *The Autobiography of W.E.B. Du Bois: A Soliloquy on Viewing My Life from the Last Decade of Its First Century*, H. Aptheker (ed.), New York: International Publishers.
 
 [^adell-1994]: Adell, Sandra, 1994, *Double-Consciousness/ Double Bind: Theoretical Issues in Twentieth-Century Black Literature*, Urbana: Illinois University Press.
 

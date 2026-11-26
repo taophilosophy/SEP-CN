@@ -258,21 +258,21 @@ Althusser, Louis | desire | feminist philosophy, approaches: continental philoso
 
 [^livre-1975]: *Livre XXIII: Le sinthome, 1975–1976*, Jacques-Alain Miller (ed.), Paris: Éditions du Seuil, 2005.
 
-[^livre-1973]: 1973, *Télévision*, Paris: Éditions du Seuil.
+[^lacan-1973]: 1973, *Télévision*, Paris: Éditions du Seuil.
 
-[^livre-2005]: 2005, *Le triomphe de la religion, précédé de Discours aux catholiques*, Jacques-Alain Miller (ed.), Paris: Éditions du Seuil.
+[^lacan-2005-3]: 2005, *Le triomphe de la religion, précédé de Discours aux catholiques*, Jacques-Alain Miller (ed.), Paris: Éditions du Seuil.
 
-[^livre-2021]: 2021, *La troisième*, Jacques-Alain Miller (ed.), Paris: Navarin.
+[^lacan-2021-2]: 2021, *La troisième*, Jacques-Alain Miller (ed.), Paris: Navarin.
 
 [^écrits-2006]: *Écrits: The First Complete Edition in English*, Bruce Fink (trans.), New York: W.W. Norton and Company, 2006. Includes:
 
-[^écrits-1945]: 1945, “Logical Time and the Assertion of Anticipated Certainty: A New Sophism”
+[^lacan-1945]: 1945, “Logical Time and the Assertion of Anticipated Certainty: A New Sophism”
 
-[^écrits-1946]: 1946, “Presentation on Psychical Causality”
+[^lacan-1946]: 1946, “Presentation on Psychical Causality”
 
-[^écrits-1948]: 1948, “Aggressiveness in Psychoanalysis”
+[^lacan-1948]: 1948, “Aggressiveness in Psychoanalysis”
 
-[^écrits-1949]: 1949, “The Mirror Stage as Formative of the *I* Function as Revealed in Psychoanalytic Experience”
+[^lacan-1949]: 1949, “The Mirror Stage as Formative of the *I* Function as Revealed in Psychoanalytic Experience”
 
 [^feminine-1982]: *Feminine Sexuality: Jacques Lacan and the école freudienne*, Juliet Mitchell and Jacqueline Rose; trans. Jacqueline Rose (ed.), New York: W.W. Norton and Company, 1982.
 

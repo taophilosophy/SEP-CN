@@ -304,9 +304,9 @@ aesthetics: 19th Century Romantic | Aristotle | Beauvoir, Simone de | Comte, Aug
 
 [^scl-1858]: [SCL] 1858, [*Scenes of Clerical Life*](https://georgeeliotarchive.org/items/show/6) (two volumes), London/Edinburgh: William Blackwood and Sons. Collects three previously published stories including:
 
-[^scl-1857]: 1857, “Janet’s Repentance”, *Blackwood’s Edinburgh Magazine*, 82: 55–76, 189–206, 329–344, 457–473, 519–541. Cabinet edition SCL 2: 39–317
+[^george-eliot-1857]: 1857, “Janet’s Repentance”, *Blackwood’s Edinburgh Magazine*, 82: 55–76, 189–206, 329–344, 457–473, 519–541. Cabinet edition SCL 2: 39–317
 
-[^scl-1859]: 1859 [1878], “The Lifted Veil”, *Blackwood’s Edinburgh Magazine*, 86: 24–47. Reprinted, 1878, Cabinet edition 2: 275–342. [[“The Lifted Veil” available online](https://georgeeliotarchive.org/items/show/2789)]
+[^george-eliot-1859]: 1859 [1878], “The Lifted Veil”, *Blackwood’s Edinburgh Magazine*, 86: 24–47. Reprinted, 1878, Cabinet edition 2: 275–342. [[“The Lifted Veil” available online](https://georgeeliotarchive.org/items/show/2789)]
 
 [^ab-1859]: [AB] 1859, [*Adam Bede*](https://georgeeliotarchive.org/items/show/21) (two volumes), London/Edinburgh: William Blackwood and Sons.
 
@@ -314,11 +314,11 @@ aesthetics: 19th Century Romantic | Aristotle | Beauvoir, Simone de | Comte, Aug
 
 [^sm-1861]: [SM] 1861, [*Silas Marner*](https://georgeeliotarchive.org/items/show/594), London/Edinburgh: William Blackwood and Sons.
 
-[^sm-1863]: 1863, [*Romola*](https://georgeeliotarchive.org/items/show/55858) (three volumes), London/Edinburgh: William Blackwood and Sons.
+[^george-eliot-1863]: 1863, [*Romola*](https://georgeeliotarchive.org/items/show/55858) (three volumes), London/Edinburgh: William Blackwood and Sons.
 
-[^sm-1866]: 1866, [*Felix Holt: The Radical*](https://georgeeliotarchive.org/items/show/55859) (three volumes), London/Edinburgh: William Blackwood and Sons.
+[^george-eliot-1866]: 1866, [*Felix Holt: The Radical*](https://georgeeliotarchive.org/items/show/55859) (three volumes), London/Edinburgh: William Blackwood and Sons.
 
-[^sm-1871]: [M] 1871–72, [*Middlemarch*](https://georgeeliotarchive.org/items/show/13) (four volumes [three volumes in the Cabinet edition]), London/Edinburgh: William Blackwood and Sons.
+[^george-eliot-1871]: [M] 1871–72, [*Middlemarch*](https://georgeeliotarchive.org/items/show/13) (four volumes [three volumes in the Cabinet edition]), London/Edinburgh: William Blackwood and Sons.
 
 [^dd-1876]: [DD] 1876, [*Daniel Deronda*](https://georgeeliotarchive.org/items/show/19) (four volumes [three volumes in the Cabinet edition]), London/Edinburgh: William Blackwood and Sons.
 
@@ -338,7 +338,7 @@ aesthetics: 19th Century Romantic | Aristotle | Beauvoir, Simone de | Comte, Aug
 
 [^george-eliot-1856b]: 1856b, “[The Natural History of German Life](https://georgeeliotarchive.org/items/show/100)”, *Westminster Review*, LXVI(129/July): 51–79.
 
-[^george-eliot-1857]: 1857, “[Worldliness and Otherworldliness: The Poet Young](https://georgeeliotarchive.org/items/show/103)”, *Westminster Review*, LXVII(131/January): 1–42.
+[^george-eliot-1857-2]: 1857, “[Worldliness and Otherworldliness: The Poet Young](https://georgeeliotarchive.org/items/show/103)”, *Westminster Review*, LXVII(131/January): 1–42.
 
 [^george-eliot-1865]: 1865, “[The Influence of Rationalism](https://georgeeliotarchive.org/items/show/106)”, *Fortnightly Review*, I(1 August 1865): 43–55.
 

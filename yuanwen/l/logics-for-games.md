@@ -1389,11 +1389,11 @@ decision theory | epistemology: Bayesian | games: abstraction and completeness |
 
 [^harsanyi-1967]: Harsanyi, John C., 1967–1968, “Games with Incomplete Information Played by ‘Bayesian’ Players, I–III”, *Management Science*
 
-[^harsanyi-1967-2]: 1967, “Part I. The Basic Model”, 14(3): 159–182. doi:10.1287/mnsc.14.3.159
+[^logics-for-games-1967]: 1967, “Part I. The Basic Model”, 14(3): 159–182. doi:10.1287/mnsc.14.3.159
 
-[^harsanyi-1968a]: 1968a, “Part II. Bayesian Equilibrium Points”, 14(5): 320–334. doi:10.1287/mnsc.14.5.320
+[^logics-for-games-1968a]: 1968a, “Part II. Bayesian Equilibrium Points”, 14(5): 320–334. doi:10.1287/mnsc.14.5.320
 
-[^harsanyi-1968b]: 1968b, “Part III. The Basic Probability Distribution of the Game”, 14(7): 486–502. doi:10.1287/mnsc.14.7.486
+[^logics-for-games-1968b]: 1968b, “Part III. The Basic Probability Distribution of the Game”, 14(7): 486–502. doi:10.1287/mnsc.14.7.486
 
 [^heifetz-2006]: Heifetz, Aviad, Martin Meier, and Burkhard C. Schipper, 2006, “Interactive Unawareness”, *Journal of Economic Theory*, 130(1): 78–94. doi:10.1016/j.jet.2005.02.007
 

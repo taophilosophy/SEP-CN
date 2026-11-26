@@ -532,7 +532,7 @@ category theory | God, arguments for the existence of: moral arguments | Hume, D
 
 [^segerberg-1973]: Segerberg, K., 1973, “Two-dimensional modal logic”, *Journal of Philosophical Logic*, 2(1): 77–96.
 
-[^segerberg-1978]: Šehtman, V., 1978, “Two-dimensional modal logics”, *Akademiya Nauk SSSR. Matematicheskie Zametki*, 23(5): 759–772.
+[^logic-combining-1978]: Šehtman, V., 1978, “Two-dimensional modal logics”, *Akademiya Nauk SSSR. Matematicheskie Zametki*, 23(5): 759–772.
 
 [^sernadas-1999]: Sernadas, A., C. Sernadas, and C. Caleiro, 1999, “Fibring of logics as a categorial construction”, *Journal of Logic and Computation*, 9(2): 149–179.
 

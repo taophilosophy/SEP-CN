@@ -441,15 +441,15 @@ The co-authors jointly authored Section 1 (“Overview”). Fugate wrote most of
 
 [^kant’s-1755]: The following texts are central to Kant’s pre-critical views on religion. They are found in *Theoretical Philosophy 1755–1770* (TPpre):
 
-[^kant’s-1755a]: 1755a, *A New Elucidation of the First Principles of Metaphysical Cognition*, TPpre: 1–45. [AK 1:385–416]
+[^kant-religion-1755a]: 1755a, *A New Elucidation of the First Principles of Metaphysical Cognition*, TPpre: 1–45. [AK 1:385–416]
 
-[^kant’s-1763a]: 1763a, *Attempt to Introduce the Concept of Negative Magnitudes into Philosophy*, TPpre: 207–241. [AK 2:167–204]
+[^kant-religion-1763a]: 1763a, *Attempt to Introduce the Concept of Negative Magnitudes into Philosophy*, TPpre: 207–241. [AK 2:167–204]
 
-[^kant’s-1763b]: 1763b, *The Only Possible Argument in Support of a Demonstration of the Existence of God*, TPpre: 107–201. [AK 2:63–163]
+[^kant-religion-1763b]: 1763b, *The Only Possible Argument in Support of a Demonstration of the Existence of God*, TPpre: 107–201. [AK 2:63–163]
 
-[^kant’s-1764]: 1764, *Inquiry Concerning the Distinctness of the Principles of Natural Theology and Morality*, TPpre: 243–286. [AK 2:273–301]
+[^kant-religion-1764]: 1764, *Inquiry Concerning the Distinctness of the Principles of Natural Theology and Morality*, TPpre: 243–286. [AK 2:273–301]
 
-[^kant’s-1755b]: 1755b, *Universal Natural History and Theory of the Heavens or Essay on the Constitution and the Mechanical Origin of the whole Universe According to Newtonian Principles*, Olaf Reinhardt (trans.), in Immanuel Kant, *Natural Science*, Eric Watkins (ed.), Cambridge: Cambridge University Press, 2015, 182–308. [AK 1:215–368]
+[^kant-religion-1755b]: 1755b, *Universal Natural History and Theory of the Heavens or Essay on the Constitution and the Mechanical Origin of the whole Universe According to Newtonian Principles*, Olaf Reinhardt (trans.), in Immanuel Kant, *Natural Science*, Eric Watkins (ed.), Cambridge: Cambridge University Press, 2015, 182–308. [AK 1:215–368]
 
 [^kant-religion-1785a]: 1785a, *What Does It Mean to Orient Oneself in Thinking?* Allen W. Wood (trans.), RRT: 7–18. [AK 8:133–146] doi:10.1017/CBO9780511814433.003
 

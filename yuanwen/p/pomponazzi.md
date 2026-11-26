@@ -176,11 +176,11 @@ Alexander of Aphrodisias | Arabic and Islamic Philosophy, historical and methodo
 
 [^il-2004]: *Il fato, il libero arbitrio e la predestinazione*, translated (Italian) by Vittoria Perrone Compagni, Turin: Nino Aragno, 2004. [[*De fato…* available online](https://books.google.com/books?id=W2dMAAAAcAAJ)]
 
-[^il-1966]: 1966–1970, *Corsi inediti dell’insegnamento padovano*, 2 volumes, edited by Antonino Poppi, Padua: Antenore, volume 1 (1966), volume 2 (1970).
+[^pomponazzi-1966]: 1966–1970, *Corsi inediti dell’insegnamento padovano*, 2 volumes, edited by Antonino Poppi, Padua: Antenore, volume 1 (1966), volume 2 (1970).
 
-[^il-2004-2]: 2004, *Expositio super primo et secundo de partibus animalium*, edited by Stefano Perfetti, Florence: Olschki.
+[^pomponazzi-2004]: 2004, *Expositio super primo et secundo de partibus animalium*, edited by Stefano Perfetti, Florence: Olschki.
 
-[^il-2018]: 2018, *Expositio super I De anima Aristotelis et Commentatoris 1503 riportata da Antonio Surian*, edited by Massimiliano Chianese, Rome: Storia e Letteratura.
+[^pomponazzi-2018]: 2018, *Expositio super I De anima Aristotelis et Commentatoris 1503 riportata da Antonio Surian*, edited by Massimiliano Chianese, Rome: Storia e Letteratura.
 
 [^alexander-1983]: Alexander of Aphrodisias, *On Fate*, edited and translated by R. W. Sharples, London: Duckworth, 1983.
 

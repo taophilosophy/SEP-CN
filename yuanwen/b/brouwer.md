@@ -239,47 +239,47 @@ I thank Dirk van Dalen and the editors for their comments on earlier versions.
 
 [^brouwer’s-1997]: Brouwer’s writings are referred to according to the scheme in the bibliography van Dalen, 1997.
 
-[^brouwer’s-1905]: 1905, *Leven, Kunst en Mystiek*. Partial English translation in Brouwer, 1975, pp. 1–9. Full English translation (by W. van Stigt) in *Notre Dame Journal of Formal Logic*, 37(3):389–429.
+[^brouwer-1905]: 1905, *Leven, Kunst en Mystiek*. Partial English translation in Brouwer, 1975, pp. 1–9. Full English translation (by W. van Stigt) in *Notre Dame Journal of Formal Logic*, 37(3):389–429.
 
-[^brouwer’s-1907]: 1907, *Over de Grondslagen der Wiskunde*, Ph.D. thesis, Universiteit van Amsterdam. English translation in Brouwer, 1975, pp. 11–101.
+[^brouwer-1907]: 1907, *Over de Grondslagen der Wiskunde*, Ph.D. thesis, Universiteit van Amsterdam. English translation in Brouwer, 1975, pp. 11–101.
 
-[^brouwer’s-1908]: 1908, “De onbetrouwbaarheid der logische principes”, *Tijdschrift voor Wijsbegeerte*, 2: 152–158. English translation in Brouwer, 1975, pp. 107–111.
+[^brouwer-1908]: 1908, “De onbetrouwbaarheid der logische principes”, *Tijdschrift voor Wijsbegeerte*, 2: 152–158. English translation in Brouwer, 1975, pp. 107–111.
 
-[^brouwer’s-1914]: 1914, “A. Schoenflies und H. Hahn. Die Entwickelung der Mengenlehre und ihrer Anwendungen, Leipzig und Berlin 1913”, *Jahresb. D.M.V.*, 23: 78–83.
+[^brouwer-1914]: 1914, “A. Schoenflies und H. Hahn. Die Entwickelung der Mengenlehre und ihrer Anwendungen, Leipzig und Berlin 1913”, *Jahresb. D.M.V.*, 23: 78–83.
 
-[^brouwer’s-1918b]: 1918B, “Begründung der Mengenlehre unabhängig vom logischen Satz vom ausgeschlossenen Dritten. Erster Teil, Allgemeine Mengenlehre”, *KNAW Verhandelingen*, 5: 1–43.
+[^brouwer-1918b]: 1918B, “Begründung der Mengenlehre unabhängig vom logischen Satz vom ausgeschlossenen Dritten. Erster Teil, Allgemeine Mengenlehre”, *KNAW Verhandelingen*, 5: 1–43.
 
-[^brouwer’s-1919a]: 1919A, “Begründung der Mengenlehre unabhängig vom logischen Satz vom ausgeschlossenen Dritten. Zweiter Teil, Theorie der Punktmengen”, *KNAW Verhandelingen*, 7: 1–33.
+[^brouwer-1919a]: 1919A, “Begründung der Mengenlehre unabhängig vom logischen Satz vom ausgeschlossenen Dritten. Zweiter Teil, Theorie der Punktmengen”, *KNAW Verhandelingen*, 7: 1–33.
 
-[^brouwer’s-1919d]: 1919D, “ Intuitionistische Mengenlehre ”, *Jahresb. D.M.V.*, 28: 203–208. English translation in Mancosu 1998 pp. 23–27.
+[^brouwer-1919d]: 1919D, “ Intuitionistische Mengenlehre ”, *Jahresb. D.M.V.*, 28: 203–208. English translation in Mancosu 1998 pp. 23–27.
 
-[^brouwer’s-1921a]: 1921A, “Besitzt jede reelle Zahl eine Dezimalbruchentwicklung?”, *Mathematische Annalen*, 83: 201–210. English translation in Mancosu 1998 pp. 28–35.
+[^brouwer-1921a]: 1921A, “Besitzt jede reelle Zahl eine Dezimalbruchentwicklung?”, *Mathematische Annalen*, 83: 201–210. English translation in Mancosu 1998 pp. 28–35.
 
 [^über-1967]: 1924N, “Über die Bedeutung des Satzes vom ausgeschlossenen Dritten in der Mathematik, insbesondere in der Funktionentheorie”, *Journal für die reine und angewandte Mathematik*, 154: 1–7. English translation in van Heijenoort 1967, pp. 335–341.
 
-[^über-1927b]: 1927B, “Über Definitionsbereiche von Funktionen”, *Mathematische Annalen*, 97: 60–75. English translation of sections 1–3 in van Heijenoort 1967, pp. 457–463.
+[^brouwer-1927b]: 1927B, “Über Definitionsbereiche von Funktionen”, *Mathematische Annalen*, 97: 60–75. English translation of sections 1–3 in van Heijenoort 1967, pp. 457–463.
 
 [^a2-1998]: 1928A2, “Intuitionistische Betrachtungen über den Formalismus”, *KNAW Proceedings*, 31: 374–379. English translation in Mancosu 1998, pp. 40–44.
 
-[^a2-1929a]: 1929A, “Mathematik, Wissenschaft und Sprache”, *Monatshefte für Mathematik und Physik*, 36: 153–164. English translation in Mancosu 1998, pp.45–53.
+[^brouwer-1929a]: 1929A, “Mathematik, Wissenschaft und Sprache”, *Monatshefte für Mathematik und Physik*, 36: 153–164. English translation in Mancosu 1998, pp.45–53.
 
-[^a2-1930a]: 1930A, *Die Struktur des Kontinuums*, Wien: Komitee zur Veranstaltung von Gastvorträgen ausländischer Gelehrter der exakten Wissenschaften. English translation in Mancosu 1998, pp. 54–63.
+[^brouwer-1930a]: 1930A, *Die Struktur des Kontinuums*, Wien: Komitee zur Veranstaltung von Gastvorträgen ausländischer Gelehrter der exakten Wissenschaften. English translation in Mancosu 1998, pp. 54–63.
 
 [^a2-1990]: 1933A2, “Willen, weten, spreken”, in *De Uitdrukkingswijze der Wetenschap*, L.E.J. Brouwer *et al*., Groningen: Noordhoff, 45–63. English translation in van Stigt 1990, pp. 418–431.
 
-[^a2-1946b]: 1946B, “Toespraak van Prof.Dr. L.E.J. Brouwer en antwoord van Prof.Dr. G. Mannoury”, *Jaarboek der Universiteit van Amsterdam 1946–1947*, II. English translation of Brouwer’s part in Brouwer, 1975, pp. 472–476. English translation of Mannoury’s reply: *Synthese*, 5: 514–515.
+[^brouwer-1946b]: 1946B, “Toespraak van Prof.Dr. L.E.J. Brouwer en antwoord van Prof.Dr. G. Mannoury”, *Jaarboek der Universiteit van Amsterdam 1946–1947*, II. English translation of Brouwer’s part in Brouwer, 1975, pp. 472–476. English translation of Mannoury’s reply: *Synthese*, 5: 514–515.
 
-[^a2-1948a]: 1948A, “Essentieel negatieve eigenschappen”, *Indagationes Mathematicae*, 10: 322–323. English translation in Brouwer, 1975, pp. 478–479.
+[^brouwer-1948a]: 1948A, “Essentieel negatieve eigenschappen”, *Indagationes Mathematicae*, 10: 322–323. English translation in Brouwer, 1975, pp. 478–479.
 
-[^a2-1949a]: 1949A, “De non-aequivalentie van de constructieve en de negatieve orderelatie in het continuum”, *Indagationes Mathematicae*, 11: 37–39. English translation in Brouwer, 1975, pp. 495–496.
+[^brouwer-1949a]: 1949A, “De non-aequivalentie van de constructieve en de negatieve orderelatie in het continuum”, *Indagationes Mathematicae*, 11: 37–39. English translation in Brouwer, 1975, pp. 495–496.
 
-[^a2-1949b]: 1949B, “Contradictoriteit der elementaire meetkunde”, *KNAW Proc.*, 52: 315–316. English translation in Brouwer, 1975, pp. 497–498.
+[^brouwer-1949b]: 1949B, “Contradictoriteit der elementaire meetkunde”, *KNAW Proc.*, 52: 315–316. English translation in Brouwer, 1975, pp. 497–498.
 
-[^a2-1949c]: 1949C, “Consciousness, philosophy and mathematics”, *Proceedings of the 10th International Congress of Philosophy, Amsterdam 1948*, 3: 1235–1249.
+[^brouwer-1949c]: 1949C, “Consciousness, philosophy and mathematics”, *Proceedings of the 10th International Congress of Philosophy, Amsterdam 1948*, 3: 1235–1249.
 
 [^an-nd]: 1954F, “An example of contradictority in classical theory of functions”, *Indag. Math.*, 16: 204–205.
 
-[^an-1955]: 1955, “The effect of intuitionism on classical algebra of logic”, *Proceedings of the Royal Irish Academy*, 57: 113–116.
+[^brouwer-1955]: 1955, “The effect of intuitionism on classical algebra of logic”, *Proceedings of the Royal Irish Academy*, 57: 113–116.
 
 [^euwe-1929]: Euwe, M., 1929, “Mengentheoretische Betrachtungen über das Schachspiel”, *Ned. Akad. Wetensch. Proc.*, 32:633–644.
 

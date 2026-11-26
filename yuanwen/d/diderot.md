@@ -48,7 +48,7 @@ Begun in 1745 as a project to publish a complete French translation of Ephraim C
 
 In November 1750, Diderot released a “Prospectus” for the *Encyclopédie*, inviting readers to subscribe to a new multivolume compendium. In this preview, Diderot began to reveal his conception of what the *Encyclopédie* would become. No longer a translation of someone else’s book, and even less a staid compendium of already established learning, Diderot imagined the *Encyclopédie* as a dynamic site of living thought, an engine for changing, not codifying, existing knowledge. These ideas were further developed in Diderot’s article “Encyclopédie”, which was published in volume V of the work in 1755.
 
-The middle of the eighteenth century has appeared to many as a watershed moment in French intellectual history. As a nineteenth-century commentator put it, after this date “writings hostile to religion appeared and multiplied, and a war broke out between skepticism and faith” (Wilson 1972: 94–95, quoting an editor of Barbier 1857: vol. 4, p. 378, fn. 1)[^barbier-1857]. Whatever the prior preparation, the launch of the *Encyclopédie* at precisely this moment fueled this dynamic, and it quickly provoked a war between its editors and the religious authorities in France. At the heart of the struggle were the Jesuits, especially Guillaume-François Berthier, who used the Jesuit journal to attack the new encyclopedia project and its editors. Diderot responded with pamphlets, and this sparring continued as the first two volumes of the *Encyclopédie* appeared in print.
+The middle of the eighteenth century has appeared to many as a watershed moment in French intellectual history. As a nineteenth-century commentator put it, after this date “writings hostile to religion appeared and multiplied, and a war broke out between skepticism and faith” (Wilson 1972: 94–95, quoting an editor of Barbier 1857: vol. 4, p. 378, fn. 1)[^barbier-1857][^wilson-1972]. Whatever the prior preparation, the launch of the *Encyclopédie* at precisely this moment fueled this dynamic, and it quickly provoked a war between its editors and the religious authorities in France. At the heart of the struggle were the Jesuits, especially Guillaume-François Berthier, who used the Jesuit journal to attack the new encyclopedia project and its editors. Diderot responded with pamphlets, and this sparring continued as the first two volumes of the *Encyclopédie* appeared in print.
 
 The tension with French clerical authorities worsened when the abbé de Prades, a friend of Diderot’s and contributor to the *Encyclopédie*—he wrote the entry “Certitude”—successfully defended what was later deemed to be a theologically suspect doctoral thesis. The controversy led the crown to temporarily suspend the publication *privilège* for the *Encyclopédie*, but thanks to the favor that Diderot and his partners enjoyed in higher places, publication was resumed and Volumes II–VI appeared without pause between 1751–1756 even though accompanied by ongoing criticism from the Jesuits.
 
@@ -372,15 +372,6 @@ Diderot invented a new form of materialism, drawing on a variety of sources incl
 
 #### Biographies and bibliographical studies of Diderot
 
-- Adams, David, 2000, *Bibliographie des œuvres de Diderot*, Ferney-Voltaire: Centre international d’Études du XVIIIe siècle.
-- Korolev, Serguei V., 2014, *La Bibliothèque de Diderot, vers une reconstitution*, Ferney-Voltaire: Centre international d’Études du XVIIIe siècle.
-- Spear, Frederick A., 1980–1988, *Bibliographie de Diderot*, 2 vols. Geneva: Droz.
-- Stenger, Gerhardt, 2013, *Diderot. Le combattant de la liberté*, Paris: Perrin.
-- Trousson, Raymond, 2007, *Diderot*, (Folio Biographies), Paris: Gallimard.
-- Venturi, Franco, 1939, *Giovinezza di Diderot, 1713–1753*, unpublished in the original Italian until 1988, Palermo: Sellerio. Translated 1939 to French as *La jeunesse de Diderot (de 1713 à 1753)*, Juliette Bertrand (trans.), Paris: Skira; reprint, Geneva: Slatkine, 1976.
-- Wilson, Arthur M., 1972, *Diderot*, two volumes, New York: Oxford University Press.
-- The journal [*Recherches sur Diderot et l’Encyclopédie*](https://rde.revues.org/) is dedicated to Diderot and the *Encyclopédie*, as its name indicates.
-
 ## Academic Tools
 
 > |   | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=diderot). |
@@ -433,53 +424,53 @@ The authors wish to thank Daniel Brewer, Andrew Curran, Kate Tunstall, and John 
 
 [^bi-nd]: [*BI*] –––, *Les Bijoux indiscrets*
 
-[^bi-1749]: 1749, *Lettre sur les aveugles*
+[^diderot-1749]: 1749, *Lettre sur les aveugles*
 
 [^lsm-1750]: [*LSM*] 1750, *Lettre sur les sourds et les muets* (revised and published 1751)
 
 [^lsm-nd]: –––, “Prospectus” of the *Encyclopédie*
 
-[^lsm-1751]: 1751, *Encyclopédie* begins to appear (35 vols., 1751–1780)
+[^diderot-1751]: 1751, *Encyclopédie* begins to appear (35 vols., 1751–1780)
 
-[^lsm-nd-2]: –––, article “Âme” (additions by Diderot)
+[^diderot-nd]: –––, article “Âme” (additions by Diderot)
 
-[^lsm-1752]: 1752, *Suite de l’Apologie de l’Abbé de Prades*
+[^diderot-1752]: 1752, *Suite de l’Apologie de l’Abbé de Prades*
 
-[^lsm-1753]: [*IN*] 1753, *Pensées sur l’interprétation de la nature* / *De l’interprétation de la nature*; new edition in 1754
+[^diderot-1753]: [*IN*] 1753, *Pensées sur l’interprétation de la nature* / *De l’interprétation de la nature*; new edition in 1754
 
-[^lsm-1755]: 1755, articles “Droit naturel”, “Eclectisme”, “Encyclopédie”, “Epicurisme”
+[^diderot-1755]: 1755, articles “Droit naturel”, “Eclectisme”, “Encyclopédie”, “Epicurisme”
 
-[^lsm-1756]: 1756, Letter to Landois (on determinism)
+[^diderot-1756]: 1756, Letter to Landois (on determinism)
 
-[^lsm-1757]: 1757(–1760), *Cours de chimie de Mr Rouelle* (Diderot’s notes from the three years he attended Rouelle’s chemistry lectures at the Jardin du Roi)
+[^diderot-1757]: 1757(–1760), *Cours de chimie de Mr Rouelle* (Diderot’s notes from the three years he attended Rouelle’s chemistry lectures at the Jardin du Roi)
 
-[^lsm-1758]: 1758, *Sur “De l’Esprit” d’Helvétius*
+[^diderot-1758]: 1758, *Sur “De l’Esprit” d’Helvétius*
 
 [^dpd-nd]: [*DPD*] –––, *Discours de la poésie dramatique*
 
-[^dpd-1759]: 1759, Letter to Sophie Volland (on materialism, generation and love)
+[^diderot-1759]: 1759, Letter to Sophie Volland (on materialism, generation and love)
 
-[^dpd-1760]: 1760, *La Religieuse*
+[^diderot-1760]: 1760, *La Religieuse*
 
-[^dpd-1761]: 1761, first draft of the *Neveu de Rameau*
+[^diderot-1761]: 1761, first draft of the *Neveu de Rameau*
 
-[^dpd-1762]: 1762, “Lui et Moi” (short story, embryo of *Neveu de Rameau*)
+[^diderot-1762]: 1762, “Lui et Moi” (short story, embryo of *Neveu de Rameau*)
 
-[^dpd-1763]: 1763, *Salon de 1763*
+[^diderot-1763]: 1763, *Salon de 1763*
 
 [^ep-1765]: [*EP*] 1765?, Diderot begins the *Eléments de physiologie* (apparently unfinished, revised as late as 1780)
 
-[^ep-1765-2]: 1765, articles including “Hobbisme”, “Leibnizianisme”, “Locke” and “Spinosiste” in the volumes of the *Encyclopédie* that appeared all together in this year
+[^diderot-1765]: 1765, articles including “Hobbisme”, “Leibnizianisme”, “Locke” and “Spinosiste” in the volumes of the *Encyclopédie* that appeared all together in this year
 
-[^ep-1766]: 1766, Diderot begins work on the *Histoire des deux Indes* (pub. 1770)
+[^diderot-1766]: 1766, Diderot begins work on the *Histoire des deux Indes* (pub. 1770)
 
-[^ep-nd]: –––, *Essais sur la peinture*
+[^diderot-nd-2]: –––, *Essais sur la peinture*
 
-[^ep-1767]: 1767, second draft of the *Neveu de Rameau*
+[^diderot-1767]: 1767, second draft of the *Neveu de Rameau*
 
 [^sa-1767]: [*SA*] –––, *Salon de 1767* (including the “[promenade Vernet](http://www.artandpopularculture.com/Promenade_Vernet)”)
 
-[^sa-1768]: 1768, probable collaboration on a translation of Lucretius’ *De rerum natura* (by Lagrange, which Diderot later disavowed)
+[^diderot-1768]: 1768, probable collaboration on a translation of Lucretius’ *De rerum natura* (by Lagrange, which Diderot later disavowed)
 
 [^ra-1769]: [*RA*] 1769, *Le Rêve de D’Alembert*
 
@@ -491,9 +482,9 @@ The authors wish to thank Daniel Brewer, Andrew Curran, Kate Tunstall, and John 
 
 [^jlf-1771]: [*JLF*] 1771, Diderot begins to write *Jacques le fataliste* (–1778)
 
-[^jlf-1772]: 1772, two editions of Diderot’s works appear in Amsterdam (one containing Morelly’s *Code de la Nature*)
+[^diderot-1772]: 1772, two editions of Diderot’s works appear in Amsterdam (one containing Morelly’s *Code de la Nature*)
 
-[^jlf-1773]: 1773–1774, *Neveu de Rameau* (final version)
+[^diderot-1773]: 1773–1774, *Neveu de Rameau* (final version)
 
 [^rh-1774]: [*RH*] –––, *Réfutation d’Helvétius* (revised 1774, 1775)
 
@@ -501,11 +492,11 @@ The authors wish to thank Daniel Brewer, Andrew Curran, Kate Tunstall, and John 
 
 [^oh-nd-2]: –––, *Mémoires pour Catherine II*
 
-[^oh-1774]: 1774, *Dialogues* & *Fragments* (between the *Rêve* and the *Éléments de physiologie*: see DPV XVII)
+[^diderot-1774]: 1774, *Dialogues* & *Fragments* (between the *Rêve* and the *Éléments de physiologie*: see DPV XVII)
 
 [^ercn-1778]: [*ERCN*] 1778, *Essai sur les règnes de Claude et de Néron* (revised 1782)
 
-[^ercn-1784]: 1784, Naigeon, *Mémoires sur la vie et les ouvrages de Diderot* (1784–1795)
+[^diderot-1784]: 1784, Naigeon, *Mémoires sur la vie et les ouvrages de Diderot* (1784–1795)
 
 [^barbier-1857]: Barbier, Edmond Jean François, 1857, *Chronique de la régence et du règne de Louis XV (1718–1763), ou Journal de Barbier*, 8 volumes, Paris: Charpentier, 1857.
 
@@ -692,3 +683,19 @@ The authors wish to thank Daniel Brewer, Andrew Curran, Kate Tunstall, and John 
 [^yolton-1983]: Yolton, John W., 1983, *Thinking Matter: Materialism in Eighteenth-Century Britain*, Minneapolis: MN: University of Minnesota Press.
 
 [^yolton-1991]: –––, 1991, *Locke and French Materialism*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780198242741.001.0001
+
+[^adams-2000]: Adams, David, 2000, *Bibliographie des œuvres de Diderot*, Ferney-Voltaire: Centre international d’Études du XVIIIe siècle.
+
+[^korolev-2014]: Korolev, Serguei V., 2014, *La Bibliothèque de Diderot, vers une reconstitution*, Ferney-Voltaire: Centre international d’Études du XVIIIe siècle.
+
+[^spear-1980]: Spear, Frederick A., 1980–1988, *Bibliographie de Diderot*, 2 vols. Geneva: Droz.
+
+[^stenger-2013]: Stenger, Gerhardt, 2013, *Diderot. Le combattant de la liberté*, Paris: Perrin.
+
+[^trousson-2007]: Trousson, Raymond, 2007, *Diderot*, (Folio Biographies), Paris: Gallimard.
+
+[^venturi-1939]: Venturi, Franco, 1939, *Giovinezza di Diderot, 1713–1753*, unpublished in the original Italian until 1988, Palermo: Sellerio. Translated 1939 to French as *La jeunesse de Diderot (de 1713 à 1753)*, Juliette Bertrand (trans.), Paris: Skira; reprint, Geneva: Slatkine, 1976.
+
+[^wilson-1972]: Wilson, Arthur M., 1972, *Diderot*, two volumes, New York: Oxford University Press.
+
+[^recherches-nd]: The journal [*Recherches sur Diderot et l’Encyclopédie*](https://rde.revues.org/) is dedicated to Diderot and the *Encyclopédie*, as its name indicates.

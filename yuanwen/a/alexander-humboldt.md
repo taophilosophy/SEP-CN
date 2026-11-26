@@ -343,11 +343,11 @@ colonialism | ecology | Hegel, Georg Wilhelm Friedrich | Humboldt, Wilhelm von |
 
 [^vmn-1797]: [VMN] 1797–8, *Versuche über die gereizte Muskel- und Nervenfaser nebst Vermuthungen über den chemischen Process des Lebens in der Thier- und Pflanzenwelt*, 2 volumes, Posen: Decker und Compagnie/Berlin: Heinrich August Rottman.
 
-[^vmn-1790]: 1790, *Beobachtungen über einige Basalte am Rhein* [*Observations of some Basalt at the Rhine*], Braunschweig: Schulbuchhandlung.
+[^alexander-humboldt-1790]: 1790, *Beobachtungen über einige Basalte am Rhein* [*Observations of some Basalt at the Rhine*], Braunschweig: Schulbuchhandlung.
 
-[^vmn-1795]: 1795, “Die Lebenskraft oder der Rhodische Genius: eine Erzählung” [Life Force or the Rhodian Genius: A Tale], *Die Horen. Eine Monatsschrift* (Tübingen), 1: 90–96.
+[^alexander-humboldt-1795]: 1795, “Die Lebenskraft oder der Rhodische Genius: eine Erzählung” [Life Force or the Rhodian Genius: A Tale], *Die Horen. Eine Monatsschrift* (Tübingen), 1: 90–96.
 
-[^vmn-1830]: 1830, *Über die Haupt-Ursachen der Temperatur-Verschiedenheit auf dem Erdkörper*, Berlin: Preussische Akademie der Wissenschaften.
+[^alexander-humboldt-1830]: 1830, *Über die Haupt-Ursachen der Temperatur-Verschiedenheit auf dem Erdkörper*, Berlin: Preussische Akademie der Wissenschaften.
 
 [^nouvelle-espagne-1811]: [*Nouvelle-Espagne*] 1811, *Essai Politique sur le royaume de la Nouvelle-Espagne*, 2 volumes, Paris: Schoell.
 
@@ -357,7 +357,7 @@ colonialism | ecology | Hegel, Georg Wilhelm Friedrich | Humboldt, Wilhelm von |
 
 [^voyage-1814]: [*Voyage*] 1814–1831, *Voyage aux régions équinoxiales du Nouveau Continent par Al. de Humboldt et A. Bonpland*, with Aimé Bonpland, 7 volumes, Paris: F. Schoell.
 
-[^voyage-1810]: 1810–1813, *Vues des Cordillères, et monumens des peuples indigènes de l’Amérique*, Paris: F. Schoell.
+[^alexander-humboldt-1810]: 1810–1813, *Vues des Cordillères, et monumens des peuples indigènes de l’Amérique*, Paris: F. Schoell.
 
 [^da-1989]: [DA] *Darmstädter Ausgabe*, edited with commentary by Hanno Beck, 7 volumes, Darmstadt: Wissenschaftliche Buchgesellschaft, 1989–.
 

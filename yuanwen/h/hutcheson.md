@@ -349,17 +349,17 @@ Large thanks are due to Si-won Song for invaluable research assistance. I would 
 
 [^essay-1728]: [*Essay*] 1728, *An Essay on the Nature and Conduct of the Passions, with Illustrations on the Moral Sense*, London; second edition 1730, London; third edition 1742, London. Page numbers are from the 2002, Aaron Garret (ed.), *An Essay on the Nature and Conduct of the Passions and Affections, with Illustrations on the Moral Sense*, Indianapolis: Liberty Fund. [[*Essay* 1742 [2002] available online](https://oll.libertyfund.org/title/garrett-an-essay-on-the-nature-and-conduct-of-the-passions-and-affections-1742-2002)]
 
-[^essay-1730]: 1730, *De naturali hominum socialitate* , inaugural lecture as Professor of Moral Theology, Glasgow. Translated as *On the Natural Sociability of Mankind* in Hutcheson 2006: 189–216.
+[^hutcheson-1730]: 1730, *De naturali hominum socialitate* , inaugural lecture as Professor of Moral Theology, Glasgow. Translated as *On the Natural Sociability of Mankind* in Hutcheson 2006: 189–216.
 
-[^essay-1742]: 1742, *Philosophiae Moralis Institutio Compendiaria*. Translated as *A Short Introduction to Moral Philosophy*, 1747.
+[^hutcheson-1742]: 1742, *Philosophiae Moralis Institutio Compendiaria*. Translated as *A Short Introduction to Moral Philosophy*, 1747.
 
-[^essay-1742-2]: 1742, *Synopsis metaphysicae*, Glasgow; second edition 1744; third edition 1749. Second edition translated as *A Synopsis of Metaphysics* in Hutcheson 2006: 57–188.
+[^hutcheson-1742-2]: 1742, *Synopsis metaphysicae*, Glasgow; second edition 1744; third edition 1749. Second edition translated as *A Synopsis of Metaphysics* in Hutcheson 2006: 57–188.
 
 [^system-1755]: [*System*] 1755, *A System of Moral Philosophy*, three volumes, London. Page numbers are from the 2005 edition, Daniel Carey (ed.), *A System of Moral Philosophy*, two volumes, London: Continuum Publishing.
 
-[^system-1756]: 1756, *Logicae Compendium*, Glasgow; translated as *A Compend of Logic* in Hutcheson 2006: 1–56.
+[^hutcheson-1756]: 1756, *Logicae Compendium*, Glasgow; translated as *A Compend of Logic* in Hutcheson 2006: 1–56.
 
-[^system-2006]: 2006, *Logic, Metaphysics, and the Natural Sociability of Mankind*, Michael Silverthorne (trans.), James Moore and Michael Silverthorne (eds), Indianapolis, IN: Liberty Fund, 2006. [[Hutcheson 2006 available online](https://oll.libertyfund.org/title/hutcheson-logic-metaphysics-and-the-natural-sociability-of-mankind)]
+[^hutcheson-2006]: 2006, *Logic, Metaphysics, and the Natural Sociability of Mankind*, Michael Silverthorne (trans.), James Moore and Michael Silverthorne (eds), Indianapolis, IN: Liberty Fund, 2006. [[Hutcheson 2006 available online](https://oll.libertyfund.org/title/hutcheson-logic-metaphysics-and-the-natural-sociability-of-mankind)]
 
 [^note-2005]: Note that there is not currently scholarly agreement on the methods by which to cite Hutcheson’s text. To eliminate confusion, then, I have simply cited the pagination of the editions here. While the *Inquiry* and *Essay*’s pagination is not original, the editions cited here are the most readily available and comprehensive critical edition of his works. Insofar as there is no critical edition of the *System*, the pagination of the 2005 text is identical to the original.
 

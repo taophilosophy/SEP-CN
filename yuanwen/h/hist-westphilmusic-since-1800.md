@@ -639,21 +639,21 @@ Thanks to Stephen Davies, Andrew Kania, James O. Young, and an anonymous reviewe
 
 [^wagner-1892]: –––, 1892–1912, *Richard Wagner’s Prose Works*, in 8 volumes, William Ashton Ellis (trans.), London: Kegan Paul.
 
-[^wagner-1892-2]: 1892, Volume 1, *The Art-Work of the Future, etc.*
+[^hist-westphilmusic-since-1800-1892]: 1892, Volume 1, *The Art-Work of the Future, etc.*
 
-[^wagner-1893]: 1893, Volume 2, *Opera and Drama*
+[^hist-westphilmusic-since-1800-1893]: 1893, Volume 2, *Opera and Drama*
 
-[^wagner-1894]: 1894, Volume 3, *The Theatre*
+[^hist-westphilmusic-since-1800-1894]: 1894, Volume 3, *The Theatre*
 
-[^wagner-1895]: 1895, Volume 4, *Art and Politics*
+[^hist-westphilmusic-since-1800-1895]: 1895, Volume 4, *Art and Politics*
 
-[^wagner-1896]: 1896, Volume 5, *Actors and Singers*
+[^hist-westphilmusic-since-1800-1896]: 1896, Volume 5, *Actors and Singers*
 
-[^wagner-1897]: 1897, Volume 6, *Religion and Art*
+[^hist-westphilmusic-since-1800-1897]: 1897, Volume 6, *Religion and Art*
 
-[^wagner-1898]: 1898, Volume 7, *In Paris and Dresden*
+[^hist-westphilmusic-since-1800-1898]: 1898, Volume 7, *In Paris and Dresden*
 
-[^wagner-1899]: 1899, Volume 8, *Posthumous, etc.*
+[^hist-westphilmusic-since-1800-1899]: 1899, Volume 8, *Posthumous, etc.*
 
 [^webster-1971]: Webster, William E., 1971, “Music Is Not a ‘Notational System’”, *The Journal of Aesthetics and Art Criticism*, 29(4): 489–497. doi:10.2307/429194
 

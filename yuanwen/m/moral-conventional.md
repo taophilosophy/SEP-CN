@@ -429,11 +429,11 @@ For another example, see Killen & Dahl (2018: 21).
 
 [^carruthers-2005]: Carruthers, Peter, Stephen Laurence, and Stephen Stich (eds.), 2005–2007, *The Innate Mind*, Oxford/New York: Oxford University Press.
 
-[^carruthers-2005-2]: 2005, *Volume 1: Structure and Contents*, doi:10.1093/acprof:oso/9780195179675.001.0001
+[^moral-conventional-2005]: 2005, *Volume 1: Structure and Contents*, doi:10.1093/acprof:oso/9780195179675.001.0001
 
-[^carruthers-2006]: 2006, *Volume 2: Culture and Cognition*, doi:10.1093/acprof:oso/9780195310139.001.0001
+[^moral-conventional-2006]: 2006, *Volume 2: Culture and Cognition*, doi:10.1093/acprof:oso/9780195310139.001.0001
 
-[^carruthers-2007]: 2007, *Volume 3: Foundations and the Future*, doi:10.1093/acprof:oso/9780195332834.001.0001
+[^moral-conventional-2007]: 2007, *Volume 3: Foundations and the Future*, doi:10.1093/acprof:oso/9780195332834.001.0001
 
 [^cooper-1966]: Cooper, Neil, 1966 [1970], “Two Concepts of Morality”, *Philosophy*, 41(155): 19–33. Reprinted in Wallace and Walker 1970a: 72–90. Page references are to the Wallace and Walker reprint. doi:10.1017/S0031819100066122
 

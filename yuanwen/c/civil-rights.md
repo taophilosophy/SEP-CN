@@ -329,7 +329,7 @@ affirmative action | critical philosophy of race | democracy | disability: and j
 
 [^mackinnon-1987b]: –––, 1987b, *Feminism Unmodified: Discourses on Life and Law*, Cambridge, MA: Harvard University Press.
 
-[^mackinnon-1989]: ___, 1989, *Toward a Feminist Theory of the State*, Cambridge,MA: Harvard University Press.
+[^civil-rights-1989]: ___, 1989, *Toward a Feminist Theory of the State*, Cambridge,MA: Harvard University Press.
 
 [^matsuda-1987]: Matsuda, Mari J., 1987, “Looking to the Bottom: Critical Legal Studies and Reparations Minority Critiques of the Critical Legal Studies Movement”, *Harvard Civil Rights-Civil Liberties Law Review*, 22(2): 323–400.
 

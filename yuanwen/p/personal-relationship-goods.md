@@ -251,7 +251,7 @@ The impossibility of compensation may be relevant for the importance of protecti
 
 ### 5.8 The Bads of Personal Relationships?
 
-A topic so far not discussed by philosophers is that of the fair distribution of the bads of personal relationship goods. We are, neuro-biologically, prone to connect to other people, but relationship often go badly, creating bads as well as goods—especially when people’s attachments to others are dysfunctional (Bowlby 1968, 1973, 1980)[^bowlby-1968][^bowlby-1968-2][^bowlby-1973][^bowlby-1980]. In particular, bad relationships early in life—with parents and parental figures—can make people unable to form and maintain healthy relationships, and this generates relationship bads. Psychological evidence indicates that insecure attachment and the ensuing relationship dysfunctions is inter-generationally transmitted (Jones et al. 2015)[^jones-2015]. Whose obligation is it to address the possible unfairness that some people, out of no fault or choice of their own, have to shoulder a much larger share of relationship bads than others? Obviously, we cannot directly distribute relationship bads. And it is not obvious how we could legitimately restrict childrearing to prevent the creation of any such bads, as some of the philosophical literature on licensing parents suggests (see the discussion in 6.2). Maybe justice requires that we share the costs of helping people to overcome bad relationship dynamics—for instance through psychotherapy and counseling? This, however, will lead to a fair redistribution only if it leaves everybody having (equally good) relationships. If not, it will only be an improvement in the quality of relationships. Such improvement seems desirable, in spite of possible distributional complaints; this is likely to be an area where leveling down is, all-things-considered, undesirable.
+A topic so far not discussed by philosophers is that of the fair distribution of the bads of personal relationship goods. We are, neuro-biologically, prone to connect to other people, but relationship often go badly, creating bads as well as goods—especially when people’s attachments to others are dysfunctional (Bowlby 1968, 1973, 1980)[^bowlby-1968]. In particular, bad relationships early in life—with parents and parental figures—can make people unable to form and maintain healthy relationships, and this generates relationship bads. Psychological evidence indicates that insecure attachment and the ensuing relationship dysfunctions is inter-generationally transmitted (Jones et al. 2015)[^jones-2015]. Whose obligation is it to address the possible unfairness that some people, out of no fault or choice of their own, have to shoulder a much larger share of relationship bads than others? Obviously, we cannot directly distribute relationship bads. And it is not obvious how we could legitimately restrict childrearing to prevent the creation of any such bads, as some of the philosophical literature on licensing parents suggests (see the discussion in 6.2). Maybe justice requires that we share the costs of helping people to overcome bad relationship dynamics—for instance through psychotherapy and counseling? This, however, will lead to a fair redistribution only if it leaves everybody having (equally good) relationships. If not, it will only be an improvement in the quality of relationships. Such improvement seems desirable, in spite of possible distributional complaints; this is likely to be an area where leveling down is, all-things-considered, undesirable.
 
 ## 6. Policies and Institutions
 
@@ -329,11 +329,11 @@ The author would like to thank Elizabeth Brake, Kimberley Brownlee, Chiara Corde
 
 [^bowlby-1968]: Bowlby, John, 1968–1980, *Attachment and Loss*
 
-[^bowlby-1968-2]: 1968, *Volume 1: Attachment*, New York: Basic Books.
+[^personal-relationship-goods-1968]: 1968, *Volume 1: Attachment*, New York: Basic Books.
 
-[^bowlby-1973]: 1973, *Volume 2: Separation: Anxiety, and Anger*, London: Penguin Books.
+[^personal-relationship-goods-1973]: 1973, *Volume 2: Separation: Anxiety, and Anger*, London: Penguin Books.
 
-[^bowlby-1980]: 1980, *Volume 3: Loss: Sadness and Depression*, New York: Basic Books.
+[^personal-relationship-goods-1980]: 1980, *Volume 3: Loss: Sadness and Depression*, New York: Basic Books.
 
 [^brake-2010]: Brake, Elizabeth, 2010, “Minimal Marriage: What Political Liberalism Implies for Marriage Law”, *Ethics*, 120(2): 302–337. doi:10.1086/651429
 

@@ -53,7 +53,7 @@ Theorem 1.1 Let **T** be a theory that contains a modicum of arithmetic and let 
 
 This theorem can be expressed and proved in **PRA** and ensures that a **T**-proof of a “real”, finitistically meaningful statement *A* leads to a finitistically valid statement. This point is made clear in Hilbert’s 1927-Hamburg lecture (Hilbert 1927)[^hilbert-1927]. There he takes *A* to be the Fermat proposition and argues that if we had a proof of *A* in a theory containing “ideal” elements, a finistist consistency proof for that theory would allow us to transform that proof into a finitist one.
 
-The belief that Ackermann and von Neumann had established the consistency of elementary arithmetic was expressed as late as December 1930 by Hilbert in his third Hamburg talk (Hilbert 1931a)[^hilbert-1931a] and by Bernays in April 1931 in a letter to Gödel (see Gödel 2003: 98–103)[^gödel-2003]. Bernays asserts there that he has “repeatedly considered [Ackermann’s modified proof] and viewed it as correct”. He continues, referring to Gödel’s incompleteness results,
+The belief that Ackermann and von Neumann had established the consistency of elementary arithmetic was expressed as late as December 1930 by Hilbert in his third Hamburg talk (Hilbert 1931a)[^hilbert-1931a] and by Bernays in April 1931 in a letter to Gödel (see Gödel 2003: 98–103). Bernays asserts there that he has “repeatedly considered [Ackermann’s modified proof] and viewed it as correct”. He continues, referring to Gödel’s incompleteness results,
 
 > On the basis of your results one must now conclude, however, that that proof cannot be formalized within the system *Z* [of elementary number theory]; this must in fact hold true even if the system is restricted so that, of the recursive definitions, only those for addition and multiplication are retained. On the other hand, I don’t see at which place in Ackermann’s proof the formalization within *Z* should become impossible, …
 
@@ -368,7 +368,7 @@ According to Bernays, the reductive result due to Gödel and Gentzen, Theorem 1.
 
 > If on the other hand, one admits the intuitionistic position as a secure basis in itself, i.e., as a consistent one, the consistency of classical arithmetic is secured by my result. If one wished to satisfy Hilbert’s requirements, the task would still remain of showing intuitionistic arithmetic consistent. This, however, is not possible by even the formal apparatus of classical arithmetic, on the basis of Gödel’s result in combination with my proof. Even so, I am inclined to believe that a consistency proof for intuitionistic arithmetic, from an even more evident position, is possible and desirable. (quoted and translated in von Plato 2009: 672)[^plato-2009]
 
-Gödel took a very similar position in December of 1933 (Gödel 1995: 53)[^gödel-1995]. There he broadened the idea of a revised version of Hilbert’s program allowing constructive means that go beyond the finitist ones without accepting fully fledged intuitionism; the latter he considered to be problematic, in particular on account of the impredicative nature of intuitionist implication. As to an extension of Hilbert’s position he wrote:
+Gödel took a very similar position in December of 1933 (Gödel 1995: 53). There he broadened the idea of a revised version of Hilbert’s program allowing constructive means that go beyond the finitist ones without accepting fully fledged intuitionism; the latter he considered to be problematic, in particular on account of the impredicative nature of intuitionist implication. As to an extension of Hilbert’s position he wrote:
 
 > But there remains the hope that in future one may find other and more satisfactory methods of construction beyond the limits of the system A [capturing finitist methods], which may enable us to found classical arithmetic and analysis upon them. This question promises to be a fruitful field for further investigations.
 
@@ -389,7 +389,7 @@ At this point we will just give a very rough description of these foundational v
 
 (a) Arithmetical Predicativism originated in the writings of Poincaré and Russell in response to the set-theoretic paradoxes. It is characterized by a ban of impredicative definitions. Whilst it accepts the completed infinite set of naturals numbers, all other sets are required to be constructed out of them via an autonomous process of arithmetical definitions. A first systematic attempt at developing mathematics predicatively was made in Weyl’s 1918 monograph *Das Kontinuum* (Weyl 1918)[^weyl-1918].
 
-(b) Theories of higher type functionals comprise Gödel’s *T* and Spector’s extension of *T* via functionals defined by bar recursion. The basic idea goes back to Gödel’s 1938 lecture at Zilsel’s (Gödel 1995: 94)[^gödel-1995]. It was inspired by Hilbert’s 1926 *Über das Unendliche*, which considered a hierarchy of functionals over the natural numbers, not only of finite but also of transfinite type.
+(b) Theories of higher type functionals comprise Gödel’s *T* and Spector’s extension of *T* via functionals defined by bar recursion. The basic idea goes back to Gödel’s 1938 lecture at Zilsel’s (Gödel 1995: 94). It was inspired by Hilbert’s 1926 *Über das Unendliche*, which considered a hierarchy of functionals over the natural numbers, not only of finite but also of transfinite type.
 
 (c) To understand Takeuti’s finitist standpoint it is important to pinpoint the place where in a consistency proof à la Gentzen the means of **PRA** are exceeded. Gentzen’s proof employs a concrete ordering $\prec$ of type $\varepsilon_0$, it uses an assignment of ordinals to proofs and provides a reduction procedure on proofs such that any alleged proof of an inconsistency is reduced to another proof of an inconsistency which gets assigned a smaller element of the ordering. The ordering, the ordinal assignment and the reduction procedure are actually primitive recursive and the steps described so far can be carried out in a small fragment of **PRA**. The additional principle needed to infer the consistency of **PA** is the following:
 
@@ -510,11 +510,11 @@ A major stumbling block for proving Takeuti’s fundamental conjecture is that i
 
 #### 5.2.1 Progressions of theories: Completing the incomplete
 
-As observed earlier, Hilbert attempted to overcome the incompleteness of first-order arithmetic by introducing as axioms $\Pi^0_1$-statements all of whose instances had been finitistically proved (Hilbert 1931a)[^hilbert-1931a]. In a way he modified the concept of a “formal” theory by invoking finitist provability. Bernays, in his letter to Gödel of January 18, 1931 (Gödel 2003: 86–88)[^gödel-2003], proposed a *rule* of a more general form. He indicated also that it would allow the elimination of the induction principle—in exchange for dealing with infinite proofs.
+As observed earlier, Hilbert attempted to overcome the incompleteness of first-order arithmetic by introducing as axioms $\Pi^0_1$-statements all of whose instances had been finitistically proved (Hilbert 1931a)[^hilbert-1931a]. In a way he modified the concept of a “formal” theory by invoking finitist provability. Bernays, in his letter to Gödel of January 18, 1931 (Gödel 2003: 86–88), proposed a *rule* of a more general form. He indicated also that it would allow the elimination of the induction principle—in exchange for dealing with infinite proofs.
 
 These considerations among others raised the issue of what constitutes a properly *formal* theory. Gödel paid very special attention to it when giving his Princeton Lectures in 1934. At the very end he introduced the general recursive functions. This class of number theoretic functions was shown to be co-extensional with Church’s λ-definable ones by Church and Kleene. In Church 1936 an “identification” of effective calculability and general recursiveness was proposed, what is usually called *Church’s thesis*. Turing, of course, proposed his machine computability for a very similar purpose and proved its equivalence to λ-definability in an appendix to his 1936. Church and Turing used their respective notion to establish the undecidability of first-order logic. For Gödel, this was the background for formulating the incompleteness theorems in “full generality” for all formal theories (containing a modicum of number or set theory); see the Postscriptum to the Princeton Lectures Gödel wrote in 1964:
 
-> In consequence of later advances, in particular of the fact that, due to A.M. Turing’s work, a precise and unquestionably adequate definition of the general concept of formal system can now be given, the existence of undecidable arithmetical propositions and the non-demonstrability of the consistency of a system in the same system can now be proved rigorously for *every* consistent formal system containing a certain amount of finitary number theory. (Gödel 1986: 369)[^gödel-1986].
+> In consequence of later advances, in particular of the fact that, due to A.M. Turing’s work, a precise and unquestionably adequate definition of the general concept of formal system can now be given, the existence of undecidable arithmetical propositions and the non-demonstrability of the consistency of a system in the same system can now be proved rigorously for *every* consistent formal system containing a certain amount of finitary number theory. (Gödel 1986: 369).
 
 The first incompleteness is proved for any such theory **T**, by explicitly producing an unprovable yet true statement $G_\bT$. That formula can then be added to **T** making $\bT+G_\bT$ a “less incomplete” theory. Von Neumann had already established the equivalence of $G_\bT$ with the consistency statement for **T**, $\Con (\bT)$; the latter expresses that there is no proof in *T* of a blatantly false statement such as $0=1$. This gives then rise to an extension procedure leading from **T** to $\bT'$, namely (R1) $\bT'=\bT+G_\bT$.
 
@@ -1143,13 +1143,13 @@ If we try to achieve such a reduction to logic, Hilbert says at the very end of 
 
 [^gödel-nd]: –––, *Collected Works*, Oxford: Oxford University Press. Includes both the German originals with English translations, Solomon Feferman, Editor-in-Chief.
 
-[^gödel-1986]: 1986, *Volume I: Publications 1929–1936*, Solomon Feferman, John W. Dawson, Jr., Stephen C. Kleene, Gregory H. Moore, Robert M. Solovay, and Jean van Heijenoort (eds).
+[^proof-theory-1986]: 1986, *Volume I: Publications 1929–1936*, Solomon Feferman, John W. Dawson, Jr., Stephen C. Kleene, Gregory H. Moore, Robert M. Solovay, and Jean van Heijenoort (eds).
 
-[^gödel-1990]: 1990, *Volume II: Publications 1938–1974*, Solomon Feferman, John W. Dawson, Jr., Stephen C. Kleene, Gregory H. Moore, Robertt M. Solovay, and Jean van Heijenoort (eds).
+[^proof-theory-1990]: 1990, *Volume II: Publications 1938–1974*, Solomon Feferman, John W. Dawson, Jr., Stephen C. Kleene, Gregory H. Moore, Robertt M. Solovay, and Jean van Heijenoort (eds).
 
-[^gödel-1995]: 1995, *Volume III: Unpublished Essays and Lectures*, Solomon Feferman, John W. Dawson, Jr., Warren Goldfarb, Charles Parsons, and Robert M. Solovay (eds).
+[^proof-theory-1995]: 1995, *Volume III: Unpublished Essays and Lectures*, Solomon Feferman, John W. Dawson, Jr., Warren Goldfarb, Charles Parsons, and Robert M. Solovay (eds).
 
-[^gödel-2003]: 2003, *Volume IV: Correspondence, A–G*, Solomon Feferman, John W. Dawson, Warren Goldfarb, Charles Parsons, and Wilfred Sieg (eds).
+[^proof-theory-2003]: 2003, *Volume IV: Correspondence, A–G*, Solomon Feferman, John W. Dawson, Warren Goldfarb, Charles Parsons, and Wilfred Sieg (eds).
 
 [^goodstein-1944]: Goodstein, R.L., 1944, “On the Restricted Ordinal Theorem”, *Journal of Symbolic Logic*, 9(2): 33–41. doi:10.2307/2268019
 
@@ -1211,19 +1211,19 @@ If we try to achieve such a reduction to logic, Hilbert says at the very end of 
 
 [^hilbert-1891]: –––, *David Hilbert’s Lectures on the Foundations of Mathematics and Physics, 1891–1933*, Berlin: Springer.
 
-[^hilbert-2004]: 2004, volume 1, *David Hilbert’s Lectures on the Foundations of Geometry, 1891–1902*, Michael Hallett and Ulrich Majer (eds).
+[^proof-theory-2004]: 2004, volume 1, *David Hilbert’s Lectures on the Foundations of Geometry, 1891–1902*, Michael Hallett and Ulrich Majer (eds).
 
-[^hilbert-2009]: 2009, volume 5, *David Hilbert’s Lectures on the Foundations of Physics, 1915–1927*, Tilman Sauer and Ulrich Majer (eds). doi:10.1007/b12915
+[^proof-theory-2009]: 2009, volume 5, *David Hilbert’s Lectures on the Foundations of Physics, 1915–1927*, Tilman Sauer and Ulrich Majer (eds). doi:10.1007/b12915
 
-[^hilbert-2013]: 2013, volume 3, *David Hilbert’s Lectures on the Foundations of Arithmetic and Logic, 1917–1933*, Ewald and Sieg (eds).
+[^proof-theory-2013]: 2013, volume 3, *David Hilbert’s Lectures on the Foundations of Arithmetic and Logic, 1917–1933*, Ewald and Sieg (eds).
 
 [^hilbert-1928-2]: Hilbert, David and Wilhelm Ackermann, 1928, *Grundzüge der theoretischen Logik*, Berlin: Springer.
 
 [^hilbert-nd]: Hilbert, David and Paul Bernays, *Grundlagen der Mathematik*, Berlin: Springer, with revisions detailed in foreword by Bernays.
 
-[^hilbert-1934]: 1934, Volume 1, second edition, 1968
+[^proof-theory-1934]: 1934, Volume 1, second edition, 1968
 
-[^hilbert-1939]: 1939, Volume II, second edition, 1970
+[^proof-theory-1939]: 1939, Volume II, second edition, 1970
 
 [^howard-1963]: Howard, William A., 1963, “The Axiom of Choice ($\Sigma^1_1$-$\mathrm{AC}_{01}$), Bar Induction and Bar Recursion”, in *Reports of the Seminar on the Foundations of Analysis*, Stanford,(mimeographed), Mathematical Sciences Library, Stanford University, 2.1–2.44.
 
@@ -1279,13 +1279,13 @@ If we try to achieve such a reduction to logic, Hilbert says at the very end of 
 
 [^lejeune-nd]: Lejeune Dirichlet, Peter Gustav and Richard Dedekind, *Vorlesungen über Zahlentheorie* (*Lectures on Number Theory*), Braunschweig, Vieweg.
 
-[^lejeune-1863]: 1863, first edition
+[^proof-theory-1863]: 1863, first edition
 
-[^lejeune-1871]: 1871, second edition
+[^proof-theory-1871]: 1871, second edition
 
-[^lejeune-1879]: 1879, third edition
+[^proof-theory-1879]: 1879, third edition
 
-[^lejeune-1894]: 1894, fourth edition
+[^proof-theory-1894]: 1894, fourth edition
 
 [^lipschitz-1986]: Lipschitz, Rudolf, 1986, *Briefwechsel mit Cantor, Dedekind, Helmholtz, Kronecker, Weierstrass und anderen*, Winfried Scharlau (ed.), Braunschweig: Vieweg. doi:10.1007/978-3-663-14205-8
 

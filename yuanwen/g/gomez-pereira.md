@@ -178,7 +178,7 @@ Aristotle | Aristotle, General Topics: metaphysics | Aristotle, General Topics: 
 
 [^nvm-nd]: [NVM] 1558, *Novae, veraeque medicinae, experimentis, et evidentibus rationibus comprobatae, per Gometium Pereyra, medicum Methymnae Duelli*, cum licentia, ex Typographia Antonii Marin.
 
-[^nvm-1749]: 1749, *Antoniana Margarita, Opus nempe physicis, medicis, ac theologis non minus utile, quam necessarium, per Gometium Pereyram, medicum Methymnae Duelli, quae Hispanorum lingua Medina de el Campo appellatur, nunc secundo in lucem editum, et integro correctum*, cum Licentia, ex Typographia Antonii Marin (rep. facsimile: Santiago de Compostela, Universidad de Santiago de Compostela, 2000).
+[^gomez-pereira-1749]: 1749, *Antoniana Margarita, Opus nempe physicis, medicis, ac theologis non minus utile, quam necessarium, per Gometium Pereyram, medicum Methymnae Duelli, quae Hispanorum lingua Medina de el Campo appellatur, nunc secundo in lucem editum, et integro correctum*, cum Licentia, ex Typographia Antonii Marin (rep. facsimile: Santiago de Compostela, Universidad de Santiago de Compostela, 2000).
 
 [^am-2019]: [AM] 2019, *Gómez Pereira’s “Antoniana Margarita”: A Work on Natural Philosophy, Medicine and Theology*, two volumes, José Manuel García Valverde and Peter Maxwell-Stuart (eds), Leiden-Boston: Brill.
 

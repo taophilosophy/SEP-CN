@@ -314,13 +314,13 @@ aesthetics: German, in the 18th century | Châtelet, Émilie du | German Philoso
 
 [^ge-1720]: [GE] 1720, *Vernünftige Gedanken von der Menschen Thun und Lassen zur Beförderung ihrer Glückseligkeit* (Rational Thoughts on Human Action and Omission with a View to Promoting his Happiness), Halle.
 
-[^ge-1721]: 1721, *Vernünftige Gedanken von dem gesellschaftlichen Leben der Menschen, und insonderheit dem gemeinen Wesen* (Rational Thoughts on the Social Life of the Human Being, and in particular on the Commonwealth), Halle.
+[^wolff-christian-1721]: 1721, *Vernünftige Gedanken von dem gesellschaftlichen Leben der Menschen, und insonderheit dem gemeinen Wesen* (Rational Thoughts on the Social Life of the Human Being, and in particular on the Commonwealth), Halle.
 
-[^ge-1723]: 1723, *Vernünftige Gedanken von den Wirkungen der Natur* (Rational Thoughts on the Operations of Nature), Halle.
+[^wolff-christian-1723]: 1723, *Vernünftige Gedanken von den Wirkungen der Natur* (Rational Thoughts on the Operations of Nature), Halle.
 
-[^ge-1724]: 1724, *Vernünftige Gedanken von den Absichten der natürlichen Dingen* (Rational Thoughts on the Purposes of Natural Things), Frankfurt and Leipzig.
+[^wolff-christian-1724]: 1724, *Vernünftige Gedanken von den Absichten der natürlichen Dingen* (Rational Thoughts on the Purposes of Natural Things), Frankfurt and Leipzig.
 
-[^ge-1725]: 1725, *Vernünftige Gedanken von dem Gebrauche der Theile des menschlichen Leibes, der Thiere und Pflanzen* (Rational Thoughts on the Employment of the Parts of the Human Body, Animals, and Plants), Frankfurt.
+[^wolff-christian-1725]: 1725, *Vernünftige Gedanken von dem Gebrauche der Theile des menschlichen Leibes, der Thiere und Pflanzen* (Rational Thoughts on the Employment of the Parts of the Human Body, Animals, and Plants), Frankfurt.
 
 [^wolff-christian-1703a]: 1703a, *Philosophia practica universalis, methodo mathematica conscripta* (On Universal Practical Philosophy, composed according to the Mathematical Method).
 
@@ -348,19 +348,19 @@ aesthetics: German, in the 18th century | Châtelet, Émilie du | German Philoso
 
 [^nt-1736]: [NT] 1736–7, *Theologia naturalis scientifica pertractata* (Natural Theology), 2 vols., Frankfurt.
 
-[^nt-1738]: 1738–9, *Philosophia practica universalis methodo scientifica pertractata*, 2 vols. Frankfurt.
+[^wolff-christian-1738]: 1738–9, *Philosophia practica universalis methodo scientifica pertractata*, 2 vols. Frankfurt.
 
-[^nt-1740]: 1740–1748, *Jus naturae methodo scientifica pertractatum*, 8 vols., Frankfurt & Leipzig, and Halle.
+[^wolff-christian-1740]: 1740–1748, *Jus naturae methodo scientifica pertractatum*, 8 vols., Frankfurt & Leipzig, and Halle.
 
-[^nt-1749]: 1749, *Jus gentium methodo scientifica pertractatum* (The Law of Nations Treated According to a Scientific Method), Halle.
+[^wolff-christian-1749]: 1749, *Jus gentium methodo scientifica pertractatum* (The Law of Nations Treated According to a Scientific Method), Halle.
 
-[^nt-1750]: 1750–3, *Philosophia moralis sive ethica*, 5 vols., Halle.
+[^wolff-christian-1750]: 1750–3, *Philosophia moralis sive ethica*, 5 vols., Halle.
 
-[^nt-1963]: 1963, *Briefwechsel zwischen Leibniz und Christian Wolff*, C. I. Gerhardt (ed.). Hildesheim: Georg Olms Verlagsbuchhandlung.
+[^wolff-christian-1963]: 1963, *Briefwechsel zwischen Leibniz und Christian Wolff*, C. I. Gerhardt (ed.). Hildesheim: Georg Olms Verlagsbuchhandlung.
 
 [^wolff-christian-1770]: 1770, *Logic, or Rational Thoughts on the Powers of the Human Understanding with their Use and Application in the Knowledge and Search of Truth*, London: Printed for L. Hawes, W. Clarke, and R. Collins. Translation of *Vernünftige Gedanken von den Kräften des menschlichen Verstandes und ihrem richtigen Gebrauch in der Erkenntnis der Wahrheit* (1713/GL).
 
-[^wolff-christian-1963]: 1963, *Preliminary Discourse on Philosophy in General*, translated by Richard J. Blackwell, Indianapolis: The Bobbs-Merrill Company, Inc. Translation of *Discursus praeliminaris de philosophia in genere* (1729/DP).
+[^wolff-christian-1963-2]: 1963, *Preliminary Discourse on Philosophy in General*, translated by Richard J. Blackwell, Indianapolis: The Bobbs-Merrill Company, Inc. Translation of *Discursus praeliminaris de philosophia in genere* (1729/DP).
 
 [^wolff-christian-1992]: 1992, *Moral Enlightenment: Leibniz and Wolff on China*, translated by Julia Ching and Willard Gurdon Oxtoby, Nettetal: Steyler Verlag. Contains a translation of Wolff's *Oratio de Sinarum philosophia practica*.
 
@@ -372,9 +372,9 @@ aesthetics: German, in the 18th century | Châtelet, Émilie du | German Philoso
 
 [^emgp-2019]: [EMGP] 2019, *Early Modern German Philosophy*, edited and translated by Corey W. Dyck, Oxford: Oxford University Press. Contains a translation of selections from Wolff’s *Vernünftige Gedanken von Gott, der Welt und der Seele des Menschen, auch allen Dingen überhaupt* (1729a/GM) and of Wolff’s “Refutation of Spinoza” from the *Theologia naturalis* (1736–7/NT).
 
-[^emgp-2022]: 2022, *First Philosophy, or Ontology. Treated according to the Scientific Method, containing the Principles of all Human Cognition. Part I §§1–78*. Translated, annotated, with an introduction by Klaus Ottmann. Thomason: Spring Publications.
+[^wolff-christian-2022]: 2022, *First Philosophy, or Ontology. Treated according to the Scientific Method, containing the Principles of all Human Cognition. Part I §§1–78*. Translated, annotated, with an introduction by Klaus Ottmann. Thomason: Spring Publications.
 
-[^emgp-2024]: 2024, *Kant's Critique of Practical Reason: Background Source Materials*, translated by Michael H. Walschots, Cambridge: Cambridge University Press. Contains a partial translation of *Vernünftige Gedanken von der Menschen Thun und Lassen zur Beförderung ihrer Glückseligkeit*.
+[^wolff-christian-2024]: 2024, *Kant's Critique of Practical Reason: Background Source Materials*, translated by Michael H. Walschots, Cambridge: Cambridge University Press. Contains a partial translation of *Vernünftige Gedanken von der Menschen Thun und Lassen zur Beförderung ihrer Glückseligkeit*.
 
 [^baumeister-1747]: Baumeister, Friedrich Christian, 1747, *Elementa Philosophiae Recentioris*, Leipzig: Gleditschii.
 

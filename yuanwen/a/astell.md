@@ -78,7 +78,7 @@ With an eye toward resolving this problem, the Cambridge Platonists retained an 
 
 The occasionalist philosophers resolved the problem another way: they agreed with Descartes that the mind and body are really distinct because of their quite different natures, but they denied that there is any interaction between them. Instead, they maintained that God orchestrates a harmonious correlation between events of the mind and events of the body, and he is the efficient (and so direct) cause of human sensations.
 
-Throughout *Letters*, Norris defends his occasionalism against Astell’s critiques, which were based on Cambridge Platonist views about the nature of the mind–body union. In the appendix—written after Norris convinced Astell to allow him to publish the letters as a volume—Astell presents two final criticisms of Norris’s account. First, occasionalism makes much of God’s creation vain: if God is the efficient cause of all of our sense perceptions, then his creation of material objects is superfluous, for they play no direct role in our sense perceptions (Astell, Norris 1695, 278–80)[^astell-1695]. Second, occasionalism offends God’s majesty, for according to it he repeatedly interferes in creation in order to move bodies and create mental events (Astell, Norris 1695, 278)[^astell-1695]. Astell’s own view about the causation of sensation involves an account of a “sensible congruity” between features of external bodies and powers of the soul that are employed in sensations. See O’Neill (2007)[^o’neill-2007] for a discussion of Astell’s views and also for the history of these arguments in St. Thomas’ critiques of medieval Islamic occasionalists. See also Ackworth (1979, 174, 178), Taylor (2001, 511–2)[^taylor-2001], Broad (2002a, 109)[^broad-2002a] on Astell’s views on sensible congruity.
+Throughout *Letters*, Norris defends his occasionalism against Astell’s critiques, which were based on Cambridge Platonist views about the nature of the mind–body union. In the appendix—written after Norris convinced Astell to allow him to publish the letters as a volume—Astell presents two final criticisms of Norris’s account. First, occasionalism makes much of God’s creation vain: if God is the efficient cause of all of our sense perceptions, then his creation of material objects is superfluous, for they play no direct role in our sense perceptions (Astell, Norris 1695, 278–80)[^astell-1695]. Second, occasionalism offends God’s majesty, for according to it he repeatedly interferes in creation in order to move bodies and create mental events (Astell, Norris 1695, 278)[^astell-1695]. Astell’s own view about the causation of sensation involves an account of a “sensible congruity” between features of external bodies and powers of the soul that are employed in sensations. See O’Neill (2007) for a discussion of Astell’s views and also for the history of these arguments in St. Thomas’ critiques of medieval Islamic occasionalists. See also Ackworth (1979, 174, 178), Taylor (2001, 511–2)[^taylor-2001], Broad (2002a, 109)[^broad-2002a] on Astell’s views on sensible congruity.
 
 #### 1.3.2 Ontological Relationship
 
@@ -400,13 +400,13 @@ Cambridge Platonists | Descartes, René | feminist philosophy, interventions: et
 
 [^o’neill-1998]: O’Neill, E., 1998, “Astell, Mary (1666–1731)”, in *Routledge Encyclopedia of Philosophy*, Vol. 1, E. Craig (ed.), New York: Routledge, pp. 527–30.
 
-[^o’neill-1998b]: ––, 1998b, “Disappearing Ink: Early Modern Women Philosophers and their Fate in History,” in *Philosophy in a Feminist Voice: Critiques and Reconstructions*, J. A. Kournay (ed.), Princeton: Princeton University Press, pp. 17–62.
+[^astell-1998b]: ––, 1998b, “Disappearing Ink: Early Modern Women Philosophers and their Fate in History,” in *Philosophy in a Feminist Voice: Critiques and Reconstructions*, J. A. Kournay (ed.), Princeton: Princeton University Press, pp. 17–62.
 
-[^o’neill-1999]: –––, 1999, “Women Cartesians, ‘Feminine Philosophy’, and Historical Exclusion”, in *Feminist Interpretations of René Descartes*, S. Bordo (ed.), University Park, Pennsylvania: Pennsylvania State University Press, pp. 232–257.
+[^astell-1999]: –––, 1999, “Women Cartesians, ‘Feminine Philosophy’, and Historical Exclusion”, in *Feminist Interpretations of René Descartes*, S. Bordo (ed.), University Park, Pennsylvania: Pennsylvania State University Press, pp. 232–257.
 
-[^o’neill-2005]: –––, 2005, “Early Modern Women Philosophers and the History of Philosophy,” *Hypatia*, 20(3): 185–197.
+[^astell-2005-2]: –––, 2005, “Early Modern Women Philosophers and the History of Philosophy,” *Hypatia*, 20(3): 185–197.
 
-[^o’neill-2007]: –––, 2007, “Mary Astell on the Causation of Sensation”, in *Mary Astell: Reason, Gender, Faith*, W. Kolbrener and M. Michelson (eds.), Aldershot: Ashgate, pp. 145–64.
+[^astell-2007]: –––, 2007, “Mary Astell on the Causation of Sensation”, in *Mary Astell: Reason, Gender, Faith*, W. Kolbrener and M. Michelson (eds.), Aldershot: Ashgate, pp. 145–64.
 
 [^perry-1981]: Perry, R., 1981, “Two Forgotten Wits”, *The Antioch Review*, 39(4): 431–438.
 
@@ -470,9 +470,9 @@ Cambridge Platonists | Descartes, René | feminist philosophy, interventions: et
 
 [^taylor-2001]: Taylor, E. D., 2001, “Mary Astell’s Ironic Assault on John Locke’s Theory of Thinking Matter”, *Journal of the History of Ideas*, 62(3): 505–522.
 
-[^taylor-2005a]: ––, 2005a, “Introduction Mary Astell and John Norris: A Correspondence”, in *Mary Astell And John Norris: Letters Concerning The Love Of God*, E. D. Taylor and M. New (eds.), Aldershot: Ashgate, pp. 1–41. [Reprint available online.]
+[^astell-2005a]: ––, 2005a, “Introduction Mary Astell and John Norris: A Correspondence”, in *Mary Astell And John Norris: Letters Concerning The Love Of God*, E. D. Taylor and M. New (eds.), Aldershot: Ashgate, pp. 1–41. [Reprint available online.]
 
-[^taylor-2005b]: –––, 2005b–6, “Mary Astell’s Work toward a New Edition of ‘A Serious Proposal to the Ladies, Part II’”, *Studies in Bibliography*, 57: 197–232.
+[^astell-2005b]: –––, 2005b–6, “Mary Astell’s Work toward a New Edition of ‘A Serious Proposal to the Ladies, Part II’”, *Studies in Bibliography*, 57: 197–232.
 
 [^thickstun-1991]: Thickstun, M. O., 1991, “‘This was a Woman that taught’: Feminist Scriptural Exegesis in the Seventeenth Century”, *Studies in Eighteenth-Century Culture*, 21: 149–158.
 

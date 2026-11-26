@@ -357,19 +357,6 @@ The intricacy of secondary and, more broadly, of remedial rights in the law, far
 
 ### Legal Sources
 
-- The Constitution of the United States.
-- Universal Declaration of Human Rights (1948).
-- Canadian Charter of Rights and Freedoms (1982).
-- *Gannett Co. v. DePasquale*, 443 U.S. 368 (1979).
-- *Griswold v. Connecticut*, 381 U.S. 479 (1965).
-- *Iraqi Penal Code (Law No. 111)*, (1969)
-- *Marsh v. Alabama*, 320 U.S. 501 (1945).
-- *Newfoundland (Treasury Board) v. N.A.P.E*., [2004] 3 S.C.R. 381, 2004 SCC 66.
-- *Roberts v. United States Jaycees*, 468 U.S. 609 (1984).
-- *Obergefell v. Hodges*, 576 U.S. 644 (2015).
-- *Smith v. United States*, 361 U.S. 147 (1959).
-- *Vincent v. Lake Erie Transp. Co*., 109 Minn. 456, 124 N.W. 221 (1910).
-
 ## Academic Tools
 
 > |   | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=legal-rights). |
@@ -695,3 +682,27 @@ civil rights | communitarianism | conservatism | ethics: deontological | Marx, K
 [^wenar-2005-2]: –––, 2005 [2021], “Rights”, *The Stanford Encyclopedia of Philosophy* (Spring 2021 Edition), Edward N. Zalta (ed.), URL = <[https://plato.stanford.edu/archives/spr2021/entries/rights/](https://plato.stanford.edu/archives/spr2021/entries/rights/)>.
 
 [^zipursky-1998]: Zipursky, Benjamin C., 1998, “Rights, Wrongs, and Recourse in the Law of Torts”, *Vanderbilt Law Review*, 51(1): 3–100.
+
+[^constitution-nd]: The Constitution of the United States.
+
+[^universal-1948]: Universal Declaration of Human Rights (1948).
+
+[^canadian-1982]: Canadian Charter of Rights and Freedoms (1982).
+
+[^gannett-1979]: *Gannett Co. v. DePasquale*, 443 U.S. 368 (1979).
+
+[^griswold-1965]: *Griswold v. Connecticut*, 381 U.S. 479 (1965).
+
+[^iraqi-1969]: *Iraqi Penal Code (Law No. 111)*, (1969)
+
+[^marsh-1945]: *Marsh v. Alabama*, 320 U.S. 501 (1945).
+
+[^newfoundland-2004]: *Newfoundland (Treasury Board) v. N.A.P.E*., [2004] 3 S.C.R. 381, 2004 SCC 66.
+
+[^roberts-1984]: *Roberts v. United States Jaycees*, 468 U.S. 609 (1984).
+
+[^obergefell-2015]: *Obergefell v. Hodges*, 576 U.S. 644 (2015).
+
+[^smith-1959]: *Smith v. United States*, 361 U.S. 147 (1959).
+
+[^vincent-1910]: *Vincent v. Lake Erie Transp. Co*., 109 Minn. 456, 124 N.W. 221 (1910).

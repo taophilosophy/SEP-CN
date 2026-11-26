@@ -223,11 +223,11 @@ authenticity | biomedicine, philosophy of | feminist philosophy, topics: perspec
 
 [^histoire-nd]: *Histoire de la sexualité*, 3 volumes, Paris: Gallimard; translated as *History of Sexuality*, 3 volumes, Robert Hurley (trans.), New York: Pantheon Books.
 
-[^histoire-1976]: 1976, *La volonté de savoir*; translated as *Introduction*, 1978.
+[^foucault-1976]: 1976, *La volonté de savoir*; translated as *Introduction*, 1978.
 
-[^histoire-1984]: 1984, *L’usage des plaisirs*; translated as *The Uses of Pleasure*, 1985.
+[^foucault-1984]: 1984, *L’usage des plaisirs*; translated as *The Uses of Pleasure*, 1985.
 
-[^histoire-1984-2]: 1984, *Le souci de soi*; translated as *Care of the Self*, 1986.
+[^foucault-1984-2]: 1984, *Le souci de soi*; translated as *Care of the Self*, 1986.
 
 [^dits-1980]: *Dits et écrits*, Vol. I–IV, 1980–1988, Daniel Defert and François Ewald (eds.), Paris: Gallimard, 1994. These include virtually all Foucault’s previously published shorter writings and interviews. Some of the more important items are translated in *Essential Works of Foucault, 1954–1984*, Vol. I–III, Paul Rabinow (ed.), New York: The New Press, 1997–1999.
 

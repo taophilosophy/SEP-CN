@@ -57,7 +57,7 @@ Following Whitehead (1926)[^whitehead-1926] Langer holds that each human “epoc
 
 Our time’s idea is *symbolism*, a ubiquitous mark of human mentality (Whitehead 1927; PNK 239)[^whitehead-1927]. The forms of meaning, even mind itself, are not entities, as they were conceived in the Cartesian era, but higher-order aspects of symbolic activity, itself an evolved set of human patterns and relations within nature. Experience, sensation, perception, thought, action and creation are phase-transitions of order among relations, realized in embodied processes, particular space-time events that “include facts, notions, feelings, qualities, etc. as well as *things*” (1926a: 107–8).
 
-For Langer the distinctions between form and content, substance and accident, and mind and body do not mark fundamental categorial divisions but are logical or “formal” (Langer 1924a, 1926a, 1926c). Her hermeneutics of “meaning”, inspired by American pragmatism and semiotics (Colapietro 1998; Innis 2009)[^colapietro-1998][^innis-2009], is supported by her studies of modern logic. She shared Cassirer’s neo-Kantian aspiration “‘to compile a grammar of the symbolic function as such’ for language, art, mythology and religion” (Langer 1926a: 170, quoting Cassirer 1923–1927 Vol. 1:86)[^langer-1927-2][^cassirer-1923][^cassirer-1923-2][^cassirer-1927] by stressing the importance—derived from Frege (1892a,b [1997], 1893/1903 [2013]), Whitehead and Russell (1910), and Sheffer (1921)[^sheffer-1921]—of generalizations in the theory of relations in modern logic that outstrip the older, static “substance/property” forms of Aristotelian logic (Langer 1926a: 36, 62, 55).
+For Langer the distinctions between form and content, substance and accident, and mind and body do not mark fundamental categorial divisions but are logical or “formal” (Langer 1924a, 1926a, 1926c). Her hermeneutics of “meaning”, inspired by American pragmatism and semiotics (Colapietro 1998; Innis 2009)[^colapietro-1998][^innis-2009], is supported by her studies of modern logic. She shared Cassirer’s neo-Kantian aspiration “‘to compile a grammar of the symbolic function as such’ for language, art, mythology and religion” (Langer 1926a: 170, quoting Cassirer 1923–1927 Vol. 1:86)[^langer-1927-2][^cassirer-1923] by stressing the importance—derived from Frege (1892a,b [1997], 1893/1903 [2013]), Whitehead and Russell (1910), and Sheffer (1921)[^sheffer-1921]—of generalizations in the theory of relations in modern logic that outstrip the older, static “substance/property” forms of Aristotelian logic (Langer 1926a: 36, 62, 55).
 
 As a philosopher of logic, Langer never tried to produce a metaphysics, although, like Whitehead, she took metaphysics to be necessary, a “study of basic assumptions … in terms of which every element of our experience can be interpreted” (Langer & Gadol 1950; Langer 1951a, 1962b: 6–7, 1967; Dengerink Chaplin 2020: ch. 6)[^dengerink-2020]. Whitehead (1929)[^whitehead-1929] inspired her conception of “organic form” as processual (Langer 1924–27 [1997]; Dryden 1997b; Dengerink Chaplin 2020: ch. 6)[^dengerink-2020][^dryden-1997b]. Reacting to Frege, Russell and Wittgenstein she developed an account of facts as immediate, yet never ultimate in form (Langer 1926c, 1933). Critical assessments of Langer’s “ontology” have produced little agreement about her ultimate stance, though authors note her engagement with conceptions of mind and reality (Lachmann 1997, 2000; Auxier 1997, 2008; Felappi 2017, 2024)[^auxier-1997][^auxier-2008][^felappi-2017][^felappi-2024][^lachmann-1997][^lachmann-2000], her anticipation of later “metaontological” themes (McDaniel 2017)[^mcdaniel-2017], (Dryden 1997a,b, 2001)[^dryden-1997a][^dryden-2001], and her conviction, later absorbed into systems biology and philosophy of mind, that consciousness is a substrate of human psychology, grounded in a feeling, thought, and emotion (Dryden 2007; Dengerink Chaplin 2020)[^dengerink-2020][^dryden-2007].
 
@@ -326,69 +326,69 @@ aesthetic experience | analysis | architecture, philosophy of | Cassirer, Ernst 
 
 [^pnk-1942]: [PNK] 1942 [1957], *Philosophy in a New Key: A Study in the Symbolism of Reason, Rite and Art*, first edition, Cambridge, MA: Harvard University Press, 1942. Second edition, 1951. Third edition, 1957. [PNK references to 3rd edition, 1957.]
 
-[^pnk-1943]: 1943, “Review of *Whitehead’s Theory of Knowledge*, by John Blyte”, *Mind*, 52(205): 84–85. doi:10.1093/mind/LII.205.84
+[^langer-1943]: 1943, “Review of *Whitehead’s Theory of Knowledge*, by John Blyte”, *Mind*, 52(205): 84–85. doi:10.1093/mind/LII.205.84
 
-[^pnk-1944]: 1944, “The Lord of Creation”, *Fortune Magazine*, 30(January): 127–128, 139–140, 142, 144, 146, 148, 150, 152, 154.
+[^langer-1944]: 1944, “The Lord of Creation”, *Fortune Magazine*, 30(January): 127–128, 139–140, 142, 144, 146, 148, 150, 152, 154.
 
-[^pnk-1945a]: 1945a, “Review of *The Enjoyment of the Arts*, by Max Schoen”, *Philosophy and Phenomenological Research*, 5(4): 608–611. doi:10.2307/2102824
+[^langer-1945a]: 1945a, “Review of *The Enjoyment of the Arts*, by Max Schoen”, *Philosophy and Phenomenological Research*, 5(4): 608–611. doi:10.2307/2102824
 
-[^pnk-1945b]: 1945b, “Make Your Own World”, *Fortune Magazine*, 31(March): 156, 158–160, 192, 194.
+[^langer-1945b]: 1945b, “Make Your Own World”, *Fortune Magazine*, 31(March): 156, 158–160, 192, 194.
 
-[^pnk-1946]: 1946, “Preface to Cassirer, *Language and Myth*”, in the translation of Cassirer 1925 [1946: vii–x].
+[^langer-1946]: 1946, “Preface to Cassirer, *Language and Myth*”, in the translation of Cassirer 1925 [1946: vii–x].
 
-[^pnk-1947]: 1947, “Reply to Henry Aiken’s Criticism”, *Philosophy and Phenomenological Research*, 7(4): 671–672.
+[^langer-1947]: 1947, “Reply to Henry Aiken’s Criticism”, *Philosophy and Phenomenological Research*, 7(4): 671–672.
 
-[^pnk-1949a]: 1949a, “On Ernst Cassirer’s Theory of Language and Myth”, in *The Philosophy of Ernst Cassirer* (The Library of Living Philosophers 6), Paul Arthur Schilpp (ed.), Evanston, IL: Library of Living Philosophers, 381–400.
+[^langer-1949a]: 1949a, “On Ernst Cassirer’s Theory of Language and Myth”, in *The Philosophy of Ernst Cassirer* (The Library of Living Philosophers 6), Paul Arthur Schilpp (ed.), Evanston, IL: Library of Living Philosophers, 381–400.
 
-[^pnk-1949b]: 1949b, “Symbols and Emblems for a United World”, *Common Cause: A Journal of One World*, 2(9/April): 338–340.
+[^langer-1949b]: 1949b, “Symbols and Emblems for a United World”, *Common Cause: A Journal of One World*, 2(9/April): 338–340.
 
-[^pnk-1950a]: 1950a, “The Primary Illusions and the Great Orders of Art”, *The Hudson Review*, 3(2): 219–233. doi:10.2307/3856641
+[^langer-1950a]: 1950a, “The Primary Illusions and the Great Orders of Art”, *The Hudson Review*, 3(2): 219–233. doi:10.2307/3856641
 
-[^pnk-1950b]: 1950b, “The Principles of Creation in Art”, *The Hudson Review*, 2(4): 515–534. doi:10.2307/3847705
+[^langer-1950b]: 1950b, “The Principles of Creation in Art”, *The Hudson Review*, 2(4): 515–534. doi:10.2307/3847705
 
 [^eugene-1950]: and Eugene T. Gadol, 1950, “The Deepening Mind: A Half-Century of American Philosophy”, *American Quarterly*, 2(2): 118–132. doi:10.2307/3031449
 
-[^eugene-1951a]: 1951a, “Abstraction in Science and Abstraction in Art”, in Henle, Kallen, and Langer 1951: 171–182.
+[^langer-1951a]: 1951a, “Abstraction in Science and Abstraction in Art”, in Henle, Kallen, and Langer 1951: 171–182.
 
-[^eugene-1951b]: 1951b, “In Praise of Common Sense, Review of *The Concept of Mind* by Gilbert Ryle”, *The Hudson Review*, 4(1): 146–149. doi:10.2307/3847134
+[^langer-1951b]: 1951b, “In Praise of Common Sense, Review of *The Concept of Mind* by Gilbert Ryle”, *The Hudson Review*, 4(1): 146–149. doi:10.2307/3847134
 
-[^eugene-1951c]: 1951c, “World Law and World Reform”, *The Antioch Review*, 11(4): 462–473. doi:10.2307/4609523
+[^langer-1951c]: 1951c, “World Law and World Reform”, *The Antioch Review*, 11(4): 462–473. doi:10.2307/4609523
 
 [^ff-1953]: [FF] 1953, *Feeling and Form: A Theory of Art*, New York: Scribner.
 
-[^ff-1956]: 1956, “On the Relations between Philosophy and Education”, *Harvard Educational Review*, 26(2): 139–141.
+[^langer-1956]: 1956, “On the Relations between Philosophy and Education”, *Harvard Educational Review*, 26(2): 139–141.
 
-[^ff-1957]: 1957, *Problems of Art: Ten Philosophical Lectures*, New York: Scribner.
+[^langer-1957]: 1957, *Problems of Art: Ten Philosophical Lectures*, New York: Scribner.
 
-[^ff-1958]: 1958, “Man and Animal: The City and the Hive”, *The Antioch Review*, 18(3): 261–271. doi:10.2307/4610070
+[^langer-1958]: 1958, “Man and Animal: The City and the Hive”, *The Antioch Review*, 18(3): 261–271. doi:10.2307/4610070
 
-[^ff-1958-2]: (ed.), 1958, *Reflections on Art: A Source Book of Writings by Artists, Critics, and Philosophers*, Baltimore, MD: Johns Hopkins Press.
+[^langer-1958-2]: (ed.), 1958, *Reflections on Art: A Source Book of Writings by Artists, Critics, and Philosophers*, Baltimore, MD: Johns Hopkins Press.
 
-[^ff-1960a]: 1960a, “On Artistic Sensibility”, *Daedalus*, 89(1): 242–244.
+[^langer-1960a]: 1960a, “On Artistic Sensibility”, *Daedalus*, 89(1): 242–244.
 
-[^ff-1960b]: 1960b, “The Origins of Speech and Its Communicative Function”, *Quarterly Journal of Speech*, 46(2): 121–134. doi:10.1080/00335636009382402
+[^langer-1960b]: 1960b, “The Origins of Speech and Its Communicative Function”, *Quarterly Journal of Speech*, 46(2): 121–134. doi:10.1080/00335636009382402
 
-[^ff-1961]: 1961 [1969], “Why Philosophy?”, *The Saturday Evening Post*, 234(19/May 13): 34–35, 54, 56; reprinted in *The Journal of Critical Analysis*, 1(2): 57–66. doi:10.5840/jcritanal19691211
+[^langer-1961]: 1961 [1969], “Why Philosophy?”, *The Saturday Evening Post*, 234(19/May 13): 34–35, 54, 56; reprinted in *The Journal of Critical Analysis*, 1(2): 57–66. doi:10.5840/jcritanal19691211
 
-[^ff-1962a]: 1962a, *Philosophical Sketches*, Baltimore, MD: Johns Hopkins Press.
+[^langer-1962a]: 1962a, *Philosophical Sketches*, Baltimore, MD: Johns Hopkins Press.
 
-[^ff-1962b]: 1962b, “Scientific Civilization and Cultural Crisis”, *Annals of the Japan Association for Philosophy of Science*, 2(2): 120–126. doi:10.4288/jafpos1956.2.120
+[^langer-1962b]: 1962b, “Scientific Civilization and Cultural Crisis”, *Annals of the Japan Association for Philosophy of Science*, 2(2): 120–126. doi:10.4288/jafpos1956.2.120
 
-[^ff-1963a]: 1963a, “A Footnote to Professor Tejera’s Paper”, *Philosophy and Phenomenological Research*, 23(3): 432. doi:10.2307/2105085
+[^langer-1963a]: 1963a, “A Footnote to Professor Tejera’s Paper”, *Philosophy and Phenomenological Research*, 23(3): 432. doi:10.2307/2105085
 
-[^ff-1963b]: 1963b [2019], “Materials and Elements in Art”, Lecture, Yale University. Published in 2019 in *Graduate Faculty Philosophy Journal*, 40(2): 477–488. doi:10.5840/gfpj201940228
+[^langer-1963b]: 1963b [2019], “Materials and Elements in Art”, Lecture, Yale University. Published in 2019 in *Graduate Faculty Philosophy Journal*, 40(2): 477–488. doi:10.5840/gfpj201940228
 
-[^ff-1964a]: 1964a, “Abstraction in Art”, *The Journal of Aesthetics and Art Criticism*, 22(4): 379–392. doi:10.2307/427932
+[^langer-1964a]: 1964a, “Abstraction in Art”, *The Journal of Aesthetics and Art Criticism*, 22(4): 379–392. doi:10.2307/427932
 
-[^ff-1964b]: 1964b, “Obituary: Henry M. Sheffer (1883–1964)”, *Philosophy and Phenomenological Research*, 25(2): 305–307.
+[^langer-1964b]: 1964b, “Obituary: Henry M. Sheffer (1883–1964)”, *Philosophy and Phenomenological Research*, 25(2): 305–307.
 
-[^ff-1965]: 1965 [1966], “The Social Influence of Design”, *University: A Princeton Quarterly*, 25(1965 Summer): 7–12; reprinted in *Who Designs America? The American Civilization Conference at Princeton* (Princeton Studies in American Civilization 6), Laurence B. Holland (ed.), Garden City, NY: Anchor Books, 35–50, 1966.
+[^langer-1965]: 1965 [1966], “The Social Influence of Design”, *University: A Princeton Quarterly*, 25(1965 Summer): 7–12; reprinted in *Who Designs America? The American Civilization Conference at Princeton* (Princeton Studies in American Civilization 6), Laurence B. Holland (ed.), Garden City, NY: Anchor Books, 35–50, 1966.
 
-[^ff-1966]: 1966, “The Cultural Importance of the Arts”, *Journal of Aesthetic Education*, 1(1): 5–12. doi:10.2307/3331349
+[^langer-1966]: 1966, “The Cultural Importance of the Arts”, *Journal of Aesthetic Education*, 1(1): 5–12. doi:10.2307/3331349
 
-[^ff-1967]: 1967, “Intent: One Scientific System: Reply to Sir Herbert Read’s review of *Mind: An Essay on Human Feeling* (Vol I)”, *The Saturday Review*, 26 August 1967: 26.
+[^langer-1967]: 1967, “Intent: One Scientific System: Reply to Sir Herbert Read’s review of *Mind: An Essay on Human Feeling* (Vol I)”, *The Saturday Review*, 26 August 1967: 26.
 
-[^ff-1967-2]: 1967–1982, *Mind: An Essay on Human Feeling*, 3 volumes, Baltimore, MD: Johns Hopkins Press.
+[^langer-1967-2]: 1967–1982, *Mind: An Essay on Human Feeling*, 3 volumes, Baltimore, MD: Johns Hopkins Press.
 
 [^mehf-1967]: [MEHF I] 1967, Volume I [[Langer 1967 available online](https://staticweb.hum.uu.nl/susanne.k.langer/langerintentofmind.html)]
 
@@ -396,11 +396,11 @@ aesthetic experience | analysis | architecture, philosophy of | Cassirer, Ernst 
 
 [^mehf-1982]: [MEHF III] 1982, Volume III
 
-[^mehf-1974]: 1974, “De Profundis”, *Revue Internationale de Philosophie*, 28(110): 449–455.
+[^langer-1974]: 1974, “De Profundis”, *Revue Internationale de Philosophie*, 28(110): 449–455.
 
-[^mehf-1976]: 1976, “The Dynamic Image: Some Philosophical Reflections on Dance”, *Salmagundi*, 33/34: 76–82.
+[^langer-1976]: 1976, “The Dynamic Image: Some Philosophical Reflections on Dance”, *Salmagundi*, 33/34: 76–82.
 
-[^mehf-1988]: 1988, *Mind: An Essay on Human Feeling*, Gary Van Den Heuvel (ed.), Abridged edition, Baltimore, MD: Johns Hopkins University Press.
+[^langer-1988]: 1988, *Mind: An Essay on Human Feeling*, Gary Van Den Heuvel (ed.), Abridged edition, Baltimore, MD: Johns Hopkins University Press.
 
 [^murchison-1930]: Murchison, Carl (ed.), 1930, *A History of Psychology in Autobiography*, Volume 1, Worcester, MA: Clark University Press. [[Murchison 1930 available online](https://archive.org/details/historyofpsychol01unse)]
 
@@ -444,17 +444,17 @@ aesthetic experience | analysis | architecture, philosophy of | Cassirer, Ernst 
 
 [^cassirer-1923]: Cassirer, Ernst, 1923–1927 [1953–1957], *Philosophie der symbolischen Formen*, 3 volumes, Berlin: B. Cassirer. Translated as *The Philosophy of Symbolic Forms*, Ralph Manheim (trans.), 3 volumes, New Haven, CT: Yale University Press. References are to English translation unless otherwise stated.
 
-[^cassirer-1923-2]: 1923 [1953], *Erster Teil: Die Sprache*, translated as *Volume 1: Language*.
+[^langer-1923-2]: 1923 [1953], *Erster Teil: Die Sprache*, translated as *Volume 1: Language*.
 
-[^cassirer-1925]: 1925 [1955], *Zweiter Teil: Das mythische Denken*, translated as *Volume 2: Mythical Thought*.
+[^langer-1925]: 1925 [1955], *Zweiter Teil: Das mythische Denken*, translated as *Volume 2: Mythical Thought*.
 
-[^cassirer-1927]: 1927 [1957], *Dritter Teil: Phänomenologie der Erkenntnis*, translated as *Volume 3: The Phenomenology of Knowledge*.
+[^langer-1927-3]: 1927 [1957], *Dritter Teil: Phänomenologie der Erkenntnis*, translated as *Volume 3: The Phenomenology of Knowledge*.
 
-[^cassirer-1925-2]: –––, 1925 [1946], *Sprache und Mythos, ein Beitrag zum Problem der Götternamen.* (Studien der Bibliothek Warburg, VI), Leipzig, Berlin: B.G. Teubner. Translated as *Language and Myth*, Susanne K. Langer (trans.), New York: Dover Publications, 1946.
+[^langer-1925-2]: –––, 1925 [1946], *Sprache und Mythos, ein Beitrag zum Problem der Götternamen.* (Studien der Bibliothek Warburg, VI), Leipzig, Berlin: B.G. Teubner. Translated as *Language and Myth*, Susanne K. Langer (trans.), New York: Dover Publications, 1946.
 
-[^cassirer-1944]: –––, 1944, *An Essay on Man: An Introduction to a Philosophy of Human Culture*, New Haven, CT: Yale University Press.
+[^langer-1944-2]: –––, 1944, *An Essay on Man: An Introduction to a Philosophy of Human Culture*, New Haven, CT: Yale University Press.
 
-[^cassirer-1996]: –––, 1996, *The Philosophy of Symbolic Forms, Volume 4: The Metaphysics of Symbolic Forms*, John Michael Krois and Donald Phillip Verene (eds), John Michael Krois (trans.), New Haven, CT: Yale University Press.
+[^langer-1996]: –––, 1996, *The Philosophy of Symbolic Forms, Volume 4: The Metaphysics of Symbolic Forms*, John Michael Krois and Donald Phillip Verene (eds), John Michael Krois (trans.), New Haven, CT: Yale University Press.
 
 [^cavell-1969]: Cavell, Stanley, 1969 [2002], *Must We Mean What We Say? A Book of Essays*, New York: Scribner; updated edition, New York: Cambridge University Press, 2002. doi:10.1017/CBO9781316286616
 

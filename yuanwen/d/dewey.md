@@ -735,7 +735,7 @@ Aesthetic concepts and fine-grained meanings are rooted, then, in the organism�
 
 [^de-1916b]: [*DE*] 1916b, *Democracy and Education*
 
-[^de-1908]: [*E*] 1908, *Ethics*, with James H. Tufts,
+[^dewey-1908]: [*E*] 1908, *Ethics*, with James H. Tufts,
 
 [^e-rev-1932]: [*E-rev*] 1932, *Ethics*, revised edition, with James H. Tufts,
 
@@ -745,7 +745,7 @@ Aesthetic concepts and fine-grained meanings are rooted, then, in the organism�
 
 [^fae-1930a]: [*FAE*] 1930a, “From Absolutism to Experimentalism”
 
-[^fae-1998]: [*H&A*] 1998, *The Essential Dewey*
+[^dewey-1998]: [*H&A*] 1998, *The Essential Dewey*
 
 [^hnc-1922a]: [*HNC*] 1922a, *Human Nature and Conduct*
 
@@ -789,87 +789,87 @@ Aesthetic concepts and fine-grained meanings are rooted, then, in the organism�
 
 [^rac-1896-2]: [*RAC*] 1896, “The Reflex Arc Concept in Psychology”, *Psychological Review*, 3(4): 357–370. Reprinted in EW5: 96–109. doi:10.1037/h0070405
 
-[^rac-1897a]: 1897a, “Ethical Principles Underlying Education”, in *Third Yearbook of the National Herbart Society*, Chicago: The National Herbart Society, pp. 7–33. Reprinted in EW5: 54–83.
+[^dewey-1897a]: 1897a, “Ethical Principles Underlying Education”, in *Third Yearbook of the National Herbart Society*, Chicago: The National Herbart Society, pp. 7–33. Reprinted in EW5: 54–83.
 
-[^rac-1897b]: 1897b, “My Pedagogic Creed”, *School Journal*, 54(Jan.): 77–80. Reprinted in EW5: 84–95.
+[^dewey-1897b]: 1897b, “My Pedagogic Creed”, *School Journal*, 54(Jan.): 77–80. Reprinted in EW5: 84–95.
 
-[^rac-1897c]: 1897c, “The Aesthetic Element in Education”, *Addresses and Proceedings of the National Educational Association*, pp. 329–30. Reprinted in EW5: 202–204.
+[^dewey-1897c]: 1897c, “The Aesthetic Element in Education”, *Addresses and Proceedings of the National Educational Association*, pp. 329–30. Reprinted in EW5: 202–204.
 
-[^rac-1899]: 1899, *The School and Society*, Chicago: The University of Chicago Press. Reprinted in MW1.
+[^dewey-1899]: 1899, *The School and Society*, Chicago: The University of Chicago Press. Reprinted in MW1.
 
-[^rac-1900]: 1900 [1916], “Some Stages of Logical Thought”, *The Philosophical Review*, 9(5): 465–489. Revised and reprinted in 1916d: 183–219. Reprinted in MW1: 152–175. doi:10.2307/2176692
+[^dewey-1900]: 1900 [1916], “Some Stages of Logical Thought”, *The Philosophical Review*, 9(5): 465–489. Revised and reprinted in 1916d: 183–219. Reprinted in MW1: 152–175. doi:10.2307/2176692
 
-[^rac-1903a]: 1903a, “Democracy in Education”, *Elementary School Teacher*, 4 (1903): 193–204. Reprinted in MW3: 229–239.
+[^dewey-1903a]: 1903a, “Democracy in Education”, *Elementary School Teacher*, 4 (1903): 193–204. Reprinted in MW3: 229–239.
 
-[^rac-1903b]: 1903b, *Studies in Logical Theory*, Chicago: The University of Chicago Press. Reprinted in MW2: 293–378.
+[^dewey-1903b]: 1903b, *Studies in Logical Theory*, Chicago: The University of Chicago Press. Reprinted in MW2: 293–378.
 
 [^pie-1905-2]: [*PIE*] 1905, “The Postulate of Immediate Empiricism”, *The Journal of Philosophy, Psychology and Scientific Methods*, 2(15): 393–399. Reprinted in MW3: 158–167. doi:10.2307/2011400
 
-[^pie-1906]: 1906, “Beliefs and Realities” (later retitled “Beliefs and Existences”), *Philosophical Review*, 15(2): 113–119; originally read as the Presidential Address at the fifth annual meeting of the American Philosophical Association, at Cambridge, December 28, 1905. Reprinted in MW3: 83–100. doi:10.2307/2177731
+[^dewey-1906]: 1906, “Beliefs and Realities” (later retitled “Beliefs and Existences”), *Philosophical Review*, 15(2): 113–119; originally read as the Presidential Address at the fifth annual meeting of the American Philosophical Association, at Cambridge, December 28, 1905. Reprinted in MW3: 83–100. doi:10.2307/2177731
 
-[^pie-1908]: [*E*] 1908, with James H. Tufts, *Ethics*, New York: Henry Holt and Co. Reprinted in MW5.
+[^dewey-1908-2]: [*E*] 1908, with James H. Tufts, *Ethics*, New York: Henry Holt and Co. Reprinted in MW5.
 
-[^pie-1908-2]: 1908–1909, “The Bearings of Pragmatism Upon Education”, *Progressive Journal of Education*, originally three papers, 1(Dec. 1908): 1–3; 1(Jan. 1909): 5–8; 1–(Feb. 1909): 6–7. Reprinted in MW4: 178–191
+[^dewey-1908-3]: 1908–1909, “The Bearings of Pragmatism Upon Education”, *Progressive Journal of Education*, originally three papers, 1(Dec. 1908): 1–3; 1(Jan. 1909): 5–8; 1–(Feb. 1909): 6–7. Reprinted in MW4: 178–191
 
-[^pie-1910a]: 1910a, “A Short Catechism Concerning Truth”, in *The Influence of Darwin on Philosophy*, New York: Henry Holt and Co., pp. 154–168. Reprinted in MW6: 3–11.
+[^dewey-1910a]: 1910a, “A Short Catechism Concerning Truth”, in *The Influence of Darwin on Philosophy*, New York: Henry Holt and Co., pp. 154–168. Reprinted in MW6: 3–11.
 
-[^pie-1910b]: 1910b, “The Experimental Theory of Knowledge”, *The Influence of Darwin on Philosophy*, New York: Henry Holt and Co., pp. 77–111. Reprinted in MW3: 107–127.
+[^dewey-1910b]: 1910b, “The Experimental Theory of Knowledge”, *The Influence of Darwin on Philosophy*, New York: Henry Holt and Co., pp. 77–111. Reprinted in MW3: 107–127.
 
 [^hwt-1910c-2]: [*HWT*] 1910c, *How We Think*, Boston: D. C. Heath and Co. Reprinted in MW6.
 
-[^hwt-1912]: 1912, “Contributions to A Cyclopedia of Education”, in MW7: 207–366.
+[^dewey-1912]: 1912, “Contributions to A Cyclopedia of Education”, in MW7: 207–366.
 
-[^hwt-1915]: 1915, “The Subject-Matter of Metaphysical Inquiry”, *The Journal of Philosophy, Psychology and Scientific Methods*, 12(13): 337. Reprinted in MW8: 3–13. doi:10.2307/2013770
+[^dewey-1915]: 1915, “The Subject-Matter of Metaphysical Inquiry”, *The Journal of Philosophy, Psychology and Scientific Methods*, 12(13): 337. Reprinted in MW8: 3–13. doi:10.2307/2013770
 
-[^hwt-1916a]: 1916a, “Brief Studies in Realism”, in 1916d: 250–280. Reprinted in MW6: 103–122. Revised version of an article in two parts in 1911, *Journal of Philosophy, Psychology and Scientific Methods*, 8(15): 393–400, 8(20): 546–454.
+[^dewey-1916a]: 1916a, “Brief Studies in Realism”, in 1916d: 250–280. Reprinted in MW6: 103–122. Revised version of an article in two parts in 1911, *Journal of Philosophy, Psychology and Scientific Methods*, 8(15): 393–400, 8(20): 546–454.
 
-[^hwt-1916b]: 1916b, *Democracy and Education: An Introduction to the Philosophy of Education*, New York: Macmillan. Reprinted in MW9.
+[^dewey-1916b]: 1916b, *Democracy and Education: An Introduction to the Philosophy of Education*, New York: Macmillan. Reprinted in MW9.
 
 [^eel-1916c-2]: [*EEL*] 1916c, “Introduction” to 1916d: v–vi. Reprinted in MW10: 320–365.
 
-[^eel-1916d]: 1916d, *Essays in Experimental Logic*, Chicago: University of Chicago Press.
+[^dewey-1916d]: 1916d, *Essays in Experimental Logic*, Chicago: University of Chicago Press.
 
-[^eel-1917]: 1917, “The Need for a Recovery of Philosophy”, in his *Creative Intelligence: Essays in the Pragmatic Attitude*, New York: Henry Holt and Co., pp. 3–69. Reprinted in MW10: 3–49
+[^dewey-1917]: 1917, “The Need for a Recovery of Philosophy”, in his *Creative Intelligence: Essays in the Pragmatic Attitude*, New York: Henry Holt and Co., pp. 3–69. Reprinted in MW10: 3–49
 
 [^rip-1920-2]: [*RIP*] 1920, *Reconstruction in Philosophy*, New York: Henry Holt and Co. Reprinted in MW12.
 
 [^hnc-1922a-2]: [*HNC*] 1922a, *Human Nature and Conduct*, New York: Henry Holt and Co. Reprinted in MW14.
 
-[^hnc-1922b]: 1922b, “Realism without Monism or Dualism”, *Journal of Philosophy*, 19(12): 309–317, 19(13): 351–361 Reprinted in MW13: 40–60. doi:10.2307/2939872 doi:10.2307/2939610
+[^dewey-1922b]: 1922b, “Realism without Monism or Dualism”, *Journal of Philosophy*, 19(12): 309–317, 19(13): 351–361 Reprinted in MW13: 40–60. doi:10.2307/2939872 doi:10.2307/2939610
 
-[^hnc-1923]: 1923, “Individuality in Education”, *General Science Quarterly*, 7(3): 157–166. Reprinted in MW15: 170–179. doi:10.1002/sce.3730070301
+[^dewey-1923]: 1923, “Individuality in Education”, *General Science Quarterly*, 7(3): 157–166. Reprinted in MW15: 170–179. doi:10.1002/sce.3730070301
 
 [^en-1925a-2]: [*EN*] 1925a, *Experience and Nature*, Chicago: Open Court Publishing.
 
-[^en-1925]: 1925, “The Naturalistic Theory of Perception by the Senses”, *The Journal of Philosophy*, 22(22): 596–606. Reprinted in LW2: 44–54 as “A Naturalistic Theory of Sense-Perception”. doi:10.2307/2015056
+[^dewey-1925]: 1925, “The Naturalistic Theory of Perception by the Senses”, *The Journal of Philosophy*, 22(22): 596–606. Reprinted in LW2: 44–54 as “A Naturalistic Theory of Sense-Perception”. doi:10.2307/2015056
 
-[^en-1927a]: 1927a, “Half-Hearted Naturalism”, *The Journal of Philosophy*, 24(3): 57–64. Reprinted in LW3: 73–81. doi:10.2307/2014856
+[^dewey-1927a]: 1927a, “Half-Hearted Naturalism”, *The Journal of Philosophy*, 24(3): 57–64. Reprinted in LW3: 73–81. doi:10.2307/2014856
 
 [^pp-1927b-2]: [*PP*] 1927b, *The Public and Its Problems*, New York: Henry Holt and Co. Reprinted in LW2.
 
-[^pp-1927c]: 1927c, “The Rôle of Philosophy in the History of Civilization”, *The Philosophical Review*, 36(1): 1–9. Reprinted in LW3: 3–11 as “Philosophy and Civilization”. doi:10.2307/2179154
+[^dewey-1927c]: 1927c, “The Rôle of Philosophy in the History of Civilization”, *The Philosophical Review*, 36(1): 1–9. Reprinted in LW3: 3–11 as “Philosophy and Civilization”. doi:10.2307/2179154
 
-[^pp-1928]: 1928, “Social as a Category”, *Monist*, 38(2): 161–177. Reprinted in LW3: 41–54 as “The Inclusive Philosophical Idea”,. doi:10.5840/monist192838218
+[^dewey-1928]: 1928, “Social as a Category”, *Monist*, 38(2): 161–177. Reprinted in LW3: 41–54 as “The Inclusive Philosophical Idea”,. doi:10.5840/monist192838218
 
 [^qc-1929-2]: [*QC*] 1929, *The Quest for Certainty: A Study of the Relation of Knowledge and Action*, New York: Minton, Balch and Co. Reprinted in LW4.
 
 [^fae-1930a-2]: [*FAE*] 1930a, “From Absolutism to Experimentalism”, in *Contemporary American Philosophy: Personal Statements*, George Plimpton Adams and William Pepperell Montague (eds), London: George Allen and Unwin; New York: Macmillan Co., volume 2: 13–27. Reprinted in LW5: 147–60.
 
-[^fae-1930b]: 1930b, “Psychology and Work”, *Personnel Journal*, 8(February): 337–341. Reprinted in LW5: 236–242
+[^dewey-1930b]: 1930b, “Psychology and Work”, *Personnel Journal*, 8(February): 337–341. Reprinted in LW5: 236–242
 
-[^fae-1930c]: 1930c, “Qualitative Thought”, *Symposium*, 1(January): 5–32. Reprinted in his *Philosophy and Civilization*, New York: Minton, Balch & Company, 1931, pp. 93–116. Reprinted in LW5: 243–262.
+[^dewey-1930c]: 1930c, “Qualitative Thought”, *Symposium*, 1(January): 5–32. Reprinted in his *Philosophy and Civilization*, New York: Minton, Balch & Company, 1931, pp. 93–116. Reprinted in LW5: 243–262.
 
 [^tif-1930d-2]: [*TIF*] 1930d, “Trois facteurs indépendants en matière de morale”, Charles Cestre (trans.), *Bulletin de la société française de philosophie*, 30(4): 118–127. First publication in English, 1966, “Three Independent Factors in Morals”, *Educational Theory*, 16(3): 198–209, Jo Ann Boydston (trans.). Reprinted in LW5: 279–288. doi:10.1111/j.1741-5446.1966.tb00259.x
 
-[^tif-1930e]: 1930e, “What I Believe”, *Forum*, 83(March): 176–182. Reprinted in LW5: 267–278.
+[^dewey-1930e]: 1930e, “What I Believe”, *Forum*, 83(March): 176–182. Reprinted in LW5: 267–278.
 
 [^ion-nd-2]: [*ION*] 1930f, *Individualism, Old and New*, New York: Minton, Balch and Co. Reprinted in LW5: 41–124.
 
-[^ion-1931]: 1931, “Context and Thought”, *University of California Publications in Philosophy*, (Berkeley: University of California Press), 12(3): 203–224. Reprinted in LW6: 3–21.
+[^dewey-1931]: 1931, “Context and Thought”, *University of California Publications in Philosophy*, (Berkeley: University of California Press), 12(3): 203–224. Reprinted in LW6: 3–21.
 
 [^e-rev-1932-2]: [*E-rev*] 1932, with James H. Tufts, *Ethics, Revised Edition*, New York: Henry Holt and Co. Reprinted in LW7.
 
-[^e-rev-1933]: 1933, “Analysis of Reflective Thinking”, in *How We Think. a Restatement of the Relation of Reflective Thinking to the Educative Process*, new edition, Boston: D. C. Heath and Co., ch. 7. Reprinted in LW8: 196–209.
+[^dewey-1933]: 1933, “Analysis of Reflective Thinking”, in *How We Think. a Restatement of the Relation of Reflective Thinking to the Educative Process*, new edition, Boston: D. C. Heath and Co., ch. 7. Reprinted in LW8: 196–209.
 
 [^acf-1934a-2]: [*ACF*] 1934a, *A Common Faith*, New Haven, CT: Yale University Press. Reprinted in LW9.
 
@@ -877,39 +877,39 @@ Aesthetic concepts and fine-grained meanings are rooted, then, in the organism�
 
 [^lsa-1935-2]: [*LSA*] 1935, *Liberalism and Social Action*, New York: G. P. Putnam’s Sons. Reprinted in LW11: 1–66.
 
-[^lsa-1936a]: 1936a, “A Liberal Speaks Out for Liberalism”, *New York Times Magazine*, 23 February 1936, pp. 3, 24. Reprinted in LW11: 282–288.
+[^dewey-1936a]: 1936a, “A Liberal Speaks Out for Liberalism”, *New York Times Magazine*, 23 February 1936, pp. 3, 24. Reprinted in LW11: 282–288.
 
-[^lsa-1936b]: 1936b, “Authority and Social Change”, *School and Society*, 44(10 October 1936): 457–466. Reprinted in LW11: 130–145.
+[^dewey-1936b]: 1936b, “Authority and Social Change”, *School and Society*, 44(10 October 1936): 457–466. Reprinted in LW11: 130–145.
 
-[^lsa-1937]: 1937, “Freedom”, chapter 9 in *National Education Association, Implications of Social-Economic Goals for Education: A Report of the Committee on Social- Economic Goals of America*, Washington, DC: National Education Association, pp. 99–105. Reprinted in LW11: 247–255.
+[^dewey-1937]: 1937, “Freedom”, chapter 9 in *National Education Association, Implications of Social-Economic Goals for Education: A Report of the Committee on Social- Economic Goals of America*, Washington, DC: National Education Association, pp. 99–105. Reprinted in LW11: 247–255.
 
-[^lsa-1938a]: 1938a, “Democracy and Education in the World of Today”, pamphlet by the Society for Ethical Culture, New York. Reprinted in LW13: 294–303.
+[^dewey-1938a]: 1938a, “Democracy and Education in the World of Today”, pamphlet by the Society for Ethical Culture, New York. Reprinted in LW13: 294–303.
 
-[^lsa-1938b]: 1938b, *Experience and Education*, New York: Macmillan. Reprinted in LW13.
+[^dewey-1938b]: 1938b, *Experience and Education*, New York: Macmillan. Reprinted in LW13.
 
 [^lti-1938c-2]: [*LTI*] 1938c, *Logic: The Theory of Inquiry*, New York: Henry Holt and Co. Reprinted in LW12.
 
-[^lti-1939a]: 1939a, “Biography of John Dewey”, Jane M. Dewey (ed.), in Schilpp 1939: 3–45.
+[^dewey-1939a]: 1939a, “Biography of John Dewey”, Jane M. Dewey (ed.), in Schilpp 1939: 3–45.
 
-[^lti-1939b]: 1939b, “Creative Democracy: The Task Before Us”, in *John Dewey and the Promise of America, Progressive*, (Education Booklet No. 14), Columbus, OH: American Education Press. Reprinted in LW14: 224–230.
+[^dewey-1939b]: 1939b, “Creative Democracy: The Task Before Us”, in *John Dewey and the Promise of America, Progressive*, (Education Booklet No. 14), Columbus, OH: American Education Press. Reprinted in LW14: 224–230.
 
-[^lti-1939c]: 1939c, “Experience, Knowledge, and Value: A Rejoinder”, in Schilpp 1939: 515–608, in LW14: 3–90.
+[^dewey-1939c]: 1939c, “Experience, Knowledge, and Value: A Rejoinder”, in Schilpp 1939: 515–608, in LW14: 3–90.
 
-[^lti-1939d]: 1939d, *Freedom and Culture*, New York: G. P. Putnam’s Sons. Reprinted in LW13: 65–188.
+[^dewey-1939d]: 1939d, *Freedom and Culture*, New York: G. P. Putnam’s Sons. Reprinted in LW13: 65–188.
 
 [^tv-1939e-2]: [*TV*] 1939e, *Theory of Valuation*, Chicago: University of Chicago Press. Reprinted in LW13.
 
-[^tv-1940a]: 1940a, “Nature in Experience”, *The Philosophical Review*, 49(2): 244–258. Reprinted in LW14: 141–154. doi:10.2307/2180802
+[^dewey-1940a]: 1940a, “Nature in Experience”, *The Philosophical Review*, 49(2): 244–258. Reprinted in LW14: 141–154. doi:10.2307/2180802
 
-[^tv-1940b]: 1940b, “Time and Individuality”, in *Time and Its Mysteries*, series 2, New York: New York University Press, pp. 85–109. Reprinted in LW14: 98–114.
+[^dewey-1940b]: 1940b, “Time and Individuality”, in *Time and Its Mysteries*, series 2, New York: New York University Press, pp. 85–109. Reprinted in LW14: 98–114.
 
-[^tv-1941]: 1941, “Propositions, Warranted Assertibility, and Truth”, *The Journal of Philosophy*, 38(7): 169–186. Reprinted in LW14: 168–188. doi:10.2307/2017978
+[^dewey-1941]: 1941, “Propositions, Warranted Assertibility, and Truth”, *The Journal of Philosophy*, 38(7): 169–186. Reprinted in LW14: 168–188. doi:10.2307/2017978
 
-[^tv-1944]: 1944, “Between Two Worlds”, Address delivered at the Winter Institute of Arts and Sciences, University of Miami, Coral Gables, Fla., 20 March 1944. Printed in LW17: 451–465.
+[^dewey-1944]: 1944, “Between Two Worlds”, Address delivered at the Winter Institute of Arts and Sciences, University of Miami, Coral Gables, Fla., 20 March 1944. Printed in LW17: 451–465.
 
-[^tv-1949]: 1949, “Experience and Existence: A Comment”, *Philosophy and Phenomenological Research*, 9(4): 709–713. Reprinted in LW16: 383–390. doi:10.2307/2103300
+[^dewey-1949]: 1949, “Experience and Existence: A Comment”, *Philosophy and Phenomenological Research*, 9(4): 709–713. Reprinted in LW16: 383–390. doi:10.2307/2103300
 
-[^tv-1998]: [*H&A*] 1998, *The Essential Dewey*, L. Hickman and T. M. Alexander (eds.), Bloomington: Indiana University Press.
+[^dewey-1998-2]: [*H&A*] 1998, *The Essential Dewey*, L. Hickman and T. M. Alexander (eds.), Bloomington: Indiana University Press.
 
 [^adajian-2012]: Adajian, Thomas, 2012, “The Definition of Art”, *The Stanford Encyclopedia of Philosophy* (Fall 2012 Edition), Edward N. Zalta (ed.), URL = <[https://plato.stanford.edu/archives/fall2018/entries/art-definition/](https://plato.stanford.edu/archives/fall2018/entries/art-definition/)>.
 

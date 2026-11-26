@@ -227,19 +227,6 @@ Substantive aesthetic judgments attracted much attention in the latter half of t
 
 ### Further Reading
 
-- Bender, John W., 1995, “General but Defeasible Reasons in Aesthetic Evaluation: The Particularist/Generalist Dispute”, *Journal of Aesthetics and Art Criticism*, 53(4): 379–392. doi:10.2307/430973
-- Dickie, George, 1988, *Evaluating Art*, Philadelphia: Temple University Press.
-- Goldman, Alan, 1995, *Aesthetic Value*, Boulder, CO: Westview.
-- Greenberg, Clement, 1999, *Homemade Esthetics*, Oxford: Oxford University Press.
-- Hopkins, Robert, 2011, “How to Be a Pessimist about Aesthetic Testimony”,, *Journal of Philosophy*, 108(3): 138–157. doi:10.5840/jphil201110838
-- Kivy, Peter, 1968, “Aesthetic Aspects and Aesthetic Qualities”, *Journal of Philosophy*, 65(4): 85–93. doi:10.2307/2024481
-- Levinson, Jerrold, 1992 [1996], “Pleasure and the Value of Works of Art”, *The British Journal of Aesthetics*, 32(4): 295–306. Reprinted in his *The Pleasures of Aesthetics: Philosophical Essays*, Ithaca, NY: Cornell University Press, 11–24. doi:10.1093/bjaesthetics/32.4.295
-- McCloskey, Mary, 1987, *Kant’s Aesthetic*, New York: SUNY Press.
-- Plato, *Hippias Major*. In *Plato’s Complete Works*, edited by John Cooper, Indianapolis: Hackett, 1997.
-- Saito, Yuriko, 2001, “Everyday Aesthetics”, *Philosophy and Literature*, 25)1): 87–95. doi:10.1353/phl.2001.0018
-- –––, 2007, *Everyday Aesthetics*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199278350.001.0001
-- Scruton, Roger, 1983, “Understanding Music”, in his *The Aesthetic Understanding: Essays in the Philosophy of Art and Culture*, London: Carcanet.
-
 ## Academic Tools
 
 > |   | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=aesthetic-judgment). |
@@ -367,3 +354,27 @@ aesthetic, concept of the | aesthetic experience | Aristotle, General Topics: ae
 [^zemach-1995]: Zemach, Eddy, 1995, *Real Beauty*, University Park: Penn State Press. Argues for an extreme realist view.
 
 [^zuckert-2007]: Zuckert, Rachel, 2007, *Kant on Beauty and Biology: An Interpretation of the Critique of Judgment*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511487323 An insightful scholarly and philosophical investigation.
+
+[^bender-1995]: Bender, John W., 1995, “General but Defeasible Reasons in Aesthetic Evaluation: The Particularist/Generalist Dispute”, *Journal of Aesthetics and Art Criticism*, 53(4): 379–392. doi:10.2307/430973
+
+[^dickie-1988]: Dickie, George, 1988, *Evaluating Art*, Philadelphia: Temple University Press.
+
+[^goldman-1995]: Goldman, Alan, 1995, *Aesthetic Value*, Boulder, CO: Westview.
+
+[^greenberg-1999]: Greenberg, Clement, 1999, *Homemade Esthetics*, Oxford: Oxford University Press.
+
+[^hopkins-2011]: Hopkins, Robert, 2011, “How to Be a Pessimist about Aesthetic Testimony”,, *Journal of Philosophy*, 108(3): 138–157. doi:10.5840/jphil201110838
+
+[^kivy-1968]: Kivy, Peter, 1968, “Aesthetic Aspects and Aesthetic Qualities”, *Journal of Philosophy*, 65(4): 85–93. doi:10.2307/2024481
+
+[^levinson-1992]: Levinson, Jerrold, 1992 [1996], “Pleasure and the Value of Works of Art”, *The British Journal of Aesthetics*, 32(4): 295–306. Reprinted in his *The Pleasures of Aesthetics: Philosophical Essays*, Ithaca, NY: Cornell University Press, 11–24. doi:10.1093/bjaesthetics/32.4.295
+
+[^mccloskey-1987]: McCloskey, Mary, 1987, *Kant’s Aesthetic*, New York: SUNY Press.
+
+[^plato-1997]: Plato, *Hippias Major*. In *Plato’s Complete Works*, edited by John Cooper, Indianapolis: Hackett, 1997.
+
+[^saito-2001]: Saito, Yuriko, 2001, “Everyday Aesthetics”, *Philosophy and Literature*, 25)1): 87–95. doi:10.1353/phl.2001.0018
+
+[^saito-2007]: –––, 2007, *Everyday Aesthetics*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199278350.001.0001
+
+[^scruton-1983]: Scruton, Roger, 1983, “Understanding Music”, in his *The Aesthetic Understanding: Essays in the Philosophy of Art and Culture*, London: Carcanet.

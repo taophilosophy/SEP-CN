@@ -421,7 +421,7 @@ Archytas | Iamblichus | Philolaus | Porphyry | Pythagoras | Speusippus | Xenocra
 
 [^aristotle-1957]: –––, 1957, *Physics*, 2 volumes, Philip H. Wicksteed and Francis M. Cornford (trans.), Cambridge, Mass.: Harvard University Press.
 
-[^aristotle-1984]: ––‘, 1984, *Fragments*, Jonathan Barnes and Gavin Lawrence (trs.), in *The Complete Works of Aristotle* (Volume 2), Jonathan Barnes (ed.), Princeton: Princeton University Press, 2384–2462.
+[^pythagoreanism-1984]: ––‘, 1984, *Fragments*, Jonathan Barnes and Gavin Lawrence (trs.), in *The Complete Works of Aristotle* (Volume 2), Jonathan Barnes (ed.), Princeton: Princeton University Press, 2384–2462.
 
 [^arnott-1996]: Arnott, W. Geoffrey, 1996, *Alexis: The Fragments. A Commentary*, Cambridge: Cambridge University Press.
 

@@ -548,7 +548,7 @@ Alexander of Aphrodisias | Ammonius | Aristotle, commentators on | Aristotle, Ge
 
 [^lear-1980]: Lear, J., 1980, *Aristotle and Logical Theory*, Cambridge: Cambridge University Press.
 
-[^lear-1957]: Łukasiewicz, J., 1957, *Aristotle’s Syllogistic from the Standpoint of Modern Formal Logic*, 2nd edition, Oxford: Clarendon Press.
+[^logic-ancient-1957]: Łukasiewicz, J., 1957, *Aristotle’s Syllogistic from the Standpoint of Modern Formal Logic*, 2nd edition, Oxford: Clarendon Press.
 
 [^malink-2013]: Malink, M., 2013, *Aristotle’s Modal Syllogistic*, Cambridge, MA: Harvard University Press.
 

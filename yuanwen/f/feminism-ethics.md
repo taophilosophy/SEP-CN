@@ -540,9 +540,9 @@ This entry exists thanks to the steady work of Research Assistant Collin Chepeka
 
 [^hochschild-2015]: –––, 2015, “Global Care Chains and Emotional Surplus Value,” in Daniel Engster and Tamara Metz (eds.), *Justice, Politics, and the Family*, New York: Routledge, pp. 249–261.
 
-[^hochschild-1984]: hooks, bell, 1984, *Feminist Theory: From Margin to Center*, New York: Routledge.
+[^feminism-ethics-1984]: hooks, bell, 1984, *Feminist Theory: From Margin to Center*, New York: Routledge.
 
-[^hochschild-1992]: –––, 1992, “Is Paris Burning?”, *Black Looks: Race and Representation*, Boston: South End Press, pp. 145–156.
+[^feminism-ethics-1992]: –––, 1992, “Is Paris Burning?”, *Black Looks: Race and Representation*, Boston: South End Press, pp. 145–156.
 
 [^houston-1990]: Houston, Barbara, 1990, “Review: Caring and Exploitation,” *Hypatia*, 5(1): 115–119.
 

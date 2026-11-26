@@ -247,7 +247,7 @@ Trust can make cooperation possible, rather than simply easier, if trust is esse
 
 Trusting provides us with goods beyond those that come with cooperation, although again, for these goods to materialize, the trust must be justified. Sometimes, trust involves little or no cooperation, so that the trustor is completely dependent on the trustee while the reverse is not true. Examples are the trust of young children in their parents and the trust of severely ill or disabled people in their care providers. Trust is particularly important for these people because they tend to be powerless to exercise their rights or to enforce any kind of contract. The trust they place in their care providers also contributes to them being vulnerable, and so it is essential that they can trust these people (i.e., that their trust is justified). The goods at stake for them are all the goods involved in having a good or decent life.
 
-Among the specific goods that philosophers associate with trusting are meaningful relationships or attachments (rather than simply cooperative relationships that further individual self-interests; Harding 2011, Kirton forthcoming)[^harding-2011] as well as knowledge and autonomy.[^note-15] To expand, trust allows for the kinds of secure attachments that some developmental psychologists (“attachment” theorists) believe are crucial to our well-being and to our ability to be trusting of others (Bowlby 1969–1980; Ainsworth 1969; see Kirton 2020; Wonderly 2016)[^ainsworth-1969][^bowlby-1969][^bowlby-1969-2][^bowlby-1980][^kirton-2020][^wonderly-2016]. Particularly important here are parent-child relationships (McLeod et al. 2019)[^mcleod-2019].
+Among the specific goods that philosophers associate with trusting are meaningful relationships or attachments (rather than simply cooperative relationships that further individual self-interests; Harding 2011, Kirton forthcoming)[^harding-2011] as well as knowledge and autonomy.[^note-15] To expand, trust allows for the kinds of secure attachments that some developmental psychologists (“attachment” theorists) believe are crucial to our well-being and to our ability to be trusting of others (Bowlby 1969–1980; Ainsworth 1969; see Kirton 2020; Wonderly 2016)[^ainsworth-1969][^bowlby-1969][^kirton-2020][^wonderly-2016]. Particularly important here are parent-child relationships (McLeod et al. 2019)[^mcleod-2019].
 
 Trust is also crucial for knowledge, given that scientific knowledge (Hardwig 1991)[^hardwig-1991], moral knowledge (Jones 1999)[^jones-1999], and almost all knowledge in fact (Webb 1993)[^webb-1993] depends for its acquisition on trust in the testimony of others. The basic argument for the need to trust what others say is that no one person has the time, intellect, and experience necessary to independently learn facts about the world that many of us do know. Examples include the scientific fact that the earth is round, the moral fact that the oppression of people from social groups different from our own can be severe (Jones 1999)[^jones-1999], and the mundane fact that we were born on such-in-such a day (Webb 1993: 261)[^webb-1993]. Of course, trusting the people who testify to these facts could only generate knowledge if the trust was justified. If we were told our date of birth by people who were determined oddly to deceive us about when we were born, then we would not know when we were born.
 
@@ -386,11 +386,11 @@ Thanks to Julie Ponesse, Ken Chung, and Hale Doguoglu for their research assista
 
 [^bowlby-1969]: Bowlby, John, 1969–1980, *Attachment and Loss* London: The Hogarth Press and the Institute of Psycho-Analysis.
 
-[^bowlby-1969-2]: 1969, *Volume I: Attachment*
+[^trust-1969]: 1969, *Volume I: Attachment*
 
-[^bowlby-1973]: 1973, *Volume II: Separation, Anxiety and Anger*
+[^trust-1973]: 1973, *Volume II: Separation, Anxiety and Anger*
 
-[^bowlby-1980]: 1980, *Volume III: Loss, Sadness and Depression*
+[^trust-1980]: 1980, *Volume III: Loss, Sadness and Depression*
 
 [^brison-2002]: Brison, Susan J., 2002, *Aftermath: Violence and the Remaking of the Self*, Princeton NJ: Princeton University Press.
 

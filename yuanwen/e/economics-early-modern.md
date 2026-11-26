@@ -326,31 +326,31 @@ I wish to thank Carlos Eduardo Suprinyak for his feedback, and Zoe Zhiyu Luo and
 
 [^hume-1777]: –––, 1777 [1987], *Essays: Moral, Political, Literary*. Revised edition, Eugene F. Miller (ed.), Indianapolis, IN: Liberty Fund, 1741–77 [1985]. Essays cited in this entry and their dates of original publication are:
 
-[^hume-1741]: 1741, “Of Civil Liberty” originally titled “Of Liberty and Despotism” [1987: 87–96]
+[^economics-early-modern-1741]: 1741, “Of Civil Liberty” originally titled “Of Liberty and Despotism” [1987: 87–96]
 
-[^hume-1742]: 1742, “The Epicurean”, the first of the “Happiness Essays” [1987: 138–145]
+[^economics-early-modern-1742]: 1742, “The Epicurean”, the first of the “Happiness Essays” [1987: 138–145]
 
-[^hume-1742-2]: 1742, “The Stoic”, the second of the “Happiness Essays”, [1987: 146–154]
+[^economics-early-modern-1742-2]: 1742, “The Stoic”, the second of the “Happiness Essays”, [1987: 146–154]
 
-[^hume-1742-3]: 1742, “The Platonist”, the third of the “Happiness Essays” [1987: 155–158]
+[^economics-early-modern-1742-3]: 1742, “The Platonist”, the third of the “Happiness Essays” [1987: 155–158]
 
-[^hume-1742-4]: 1742, “The Sceptic”, the fourth of the “Happiness Essays” [1987: 159–180]
+[^economics-early-modern-1742-4]: 1742, “The Sceptic”, the fourth of the “Happiness Essays” [1987: 159–180]
 
-[^hume-1752-2]: 1752, “Of Refinement in the Arts” originally titled “Of Luxury” [1987: 268–380]
+[^economics-early-modern-1752]: 1752, “Of Refinement in the Arts” originally titled “Of Luxury” [1987: 268–380]
 
-[^hume-1752-3]: 1752, “Of Money” [1987: 281–294]
+[^economics-early-modern-1752-2]: 1752, “Of Money” [1987: 281–294]
 
-[^hume-1752-4]: 1752, “Of Interest” [1987: 295–307]
+[^economics-early-modern-1752-3]: 1752, “Of Interest” [1987: 295–307]
 
-[^hume-1752-5]: 1752, “Of the Balance of Trade” [1987: 308–326]
+[^economics-early-modern-1752-4]: 1752, “Of the Balance of Trade” [1987: 308–326]
 
-[^hume-1752-6]: 1752, “Of the Balance of Power” [1987: 332–341]
+[^economics-early-modern-1752-5]: 1752, “Of the Balance of Power” [1987: 332–341]
 
-[^hume-1742-5]: 1742, “Of the Middle Station of Life”, [1987: 545–551] [[Hume 1777 [1987] available online](https://oll.libertyfund.org/title/hume-essays-moral-political-literary-lf-ed)]
+[^economics-early-modern-1742-5]: 1742, “Of the Middle Station of Life”, [1987: 545–551] [[Hume 1777 [1987] available online](https://oll.libertyfund.org/title/hume-essays-moral-political-literary-lf-ed)]
 
-[^hume-1779]: –––, 1779 [1993], *Dialogues Concerning Natural Religion*, J.C.A. Gaskin (ed.), Oxford: Oxford University Press.
+[^economics-early-modern-1779]: –––, 1779 [1993], *Dialogues Concerning Natural Religion*, J.C.A. Gaskin (ed.), Oxford: Oxford University Press.
 
-[^hume-1955]: –––, 1955 [2007], *David Hume: Writings on Economics*, Eugene Rotwein (ed.), Madison, WI: University of Wisconsin Press. New edition with an introduction by Margaret Schabas, New Brunswick NJ: Transaction, 2007.
+[^economics-early-modern-1955]: –––, 1955 [2007], *David Hume: Writings on Economics*, Eugene Rotwein (ed.), Madison, WI: University of Wisconsin Press. New edition with an introduction by Margaret Schabas, New Brunswick NJ: Transaction, 2007.
 
 [^hutcheson-1725]: Hutcheson, Francis, 1725 [1726], *An Inquiry into the Original of Our Ideas of Beauty and Virtue*, London; second edition [B] 1726, London; third edition [C] 1729, London; fourth edition [D] 1738, London.
 

@@ -404,11 +404,11 @@ Over many revisions, thanks go to Ann Garry, Heidi Grasswick, Elizabeth Harman, 
 
 [^hoagland-1989]: Hoagland, Sarah L., 1989, *Lesbian Ethics: Toward New Values*, Palo Alto, CA: Institute for Lesbian Studies.
 
-[^hoagland-1981]: hooks, bell, 1981, *Ain’t I A Woman: Black Women and Feminism*, Boston, MA: South End Press.
+[^feminist-philosophy-1981]: hooks, bell, 1981, *Ain’t I A Woman: Black Women and Feminism*, Boston, MA: South End Press.
 
-[^hoagland-1984]: –––, 1984, *Feminist Theory from Margin to Center*, Boston, MA: South End Press.
+[^feminist-philosophy-1984]: –––, 1984, *Feminist Theory from Margin to Center*, Boston, MA: South End Press.
 
-[^hoagland-1989-2]: –––, 1989, *Talking Back: Thinking Feminist, Thinking Black*, Boston, MA: South End Press.
+[^feminist-philosophy-1989]: –––, 1989, *Talking Back: Thinking Feminist, Thinking Black*, Boston, MA: South End Press.
 
 [^hurtado-1996]: Hurtado, Aída, 1996, *The Color of Privilege: Three Blasphemies on Race and Feminism*, Ann Arbor, MI: University of Michigan Press.
 
@@ -562,13 +562,13 @@ Over many revisions, thanks go to Ann Garry, Heidi Grasswick, Elizabeth Harman, 
 
 [^waithe-1987]: Waithe, Mary Ellen (ed.), 1987–1994, *A History of Women Philosophers*, 4 volumes, Dordrecht/Boston/London: Kluwer Academic Publishers.
 
-[^waithe-1987-2]: 1987, *Ancient Women Philosophers, 600 B.C.–500 A.D.*, volume 1. doi:10.1007/978-94-009-3497-9
+[^feminist-philosophy-1987]: 1987, *Ancient Women Philosophers, 600 B.C.–500 A.D.*, volume 1. doi:10.1007/978-94-009-3497-9
 
-[^waithe-1989]: 1989, *Medieval, Renaissance, and Enlightenment Women Philosophers, 500–1600*, volume 2. doi:10.1007/978-94-009-2551-9
+[^feminist-philosophy-1989-2]: 1989, *Medieval, Renaissance, and Enlightenment Women Philosophers, 500–1600*, volume 2. doi:10.1007/978-94-009-2551-9
 
-[^waithe-1990]: 1990, *Modern Women Philosophers, 1600–1900*, volume 3. doi:10.1007/978-94-011-3790-4
+[^feminist-philosophy-1990]: 1990, *Modern Women Philosophers, 1600–1900*, volume 3. doi:10.1007/978-94-011-3790-4
 
-[^waithe-1994]: 1994, *Contemporary Women Philosophers, 1900–Today*, volume 4. doi:10.1007/978-94-011-1114-0
+[^feminist-philosophy-1994]: 1994, *Contemporary Women Philosophers, 1900–Today*, volume 4. doi:10.1007/978-94-011-1114-0
 
 [^walker-1990]: Walker, Alice, 1990, “Definition of Womanist”, in *Making Face, Making Soul: Haciendo Caras*, Gloria Anzaldúa (ed.), San Francisco: Aunt Lute Books, 370.
 

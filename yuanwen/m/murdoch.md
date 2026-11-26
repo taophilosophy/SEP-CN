@@ -379,7 +379,7 @@ The use of “will” solidifies the agentic dimension of the creation of the pe
 
 [^sg-1970]: [SG] 1970, *The Sovereignty of Good*, New York: Routledge, 1970.
 
-[^sg-1977]: 1977, *The Fire and the Sun: Why Plato Banished the Artists*, Oxford: Clarendon Press; reprinted in [EM], pp. 386–463.
+[^murdoch-1977]: 1977, *The Fire and the Sun: Why Plato Banished the Artists*, Oxford: Clarendon Press; reprinted in [EM], pp. 386–463.
 
 [^mgm-1992]: [MGM] 1992, *Metaphysics as a Guide to Morals*, New York: Penguin.
 
@@ -389,7 +389,7 @@ The use of “will” solidifies the agentic dimension of the creation of the pe
 
 [^vcm-1956]: [VCM] 1956, “Vision and Choice in Morality”, *Aristotelian Society Supplementary Volume: Dreams and Self-Knowledge*, 30: 32–58; reprinted in [EM], pp. 76–98.
 
-[^vcm-1957]: [M&E] 1957, “Metaphysics and Ethics”, in D. F. Pears (ed.), *The Nature of Metaphysics*, London: Macmillan, 1957: 99–123; reprinted in [EM], pp. 59–75.
+[^murdoch-1957]: [M&E] 1957, “Metaphysics and Ethics”, in D. F. Pears (ed.), *The Nature of Metaphysics*, London: Macmillan, 1957: 99–123; reprinted in [EM], pp. 59–75.
 
 [^ht-1958]: [HT] 1958, “A House of Theory”, in N. Mckenzie (ed.), *Conviction*, London: MacGibbon and Kee, 1958: 218–33; reprinted in [EM], pp. 171–186.
 
@@ -403,7 +403,7 @@ The use of “will” solidifies the agentic dimension of the creation of the pe
 
 [^ogg-1969]: [OGG] 1969 [1970/1997], “On ‘God’ and ‘Good”, first published in 1969, *The Anatomy of Knowledge; Papers Presented to the Study Group on Foundations of Cultural Unity, Bowdoin College, 1965 and 1966*, Marjorie Grene (ed.), Amherst, MA: University of Massachusetts Press. Collected in [SG], pp. 46–76; reprinted in [EM], pp. 337–362.
 
-[^murdoch-1977]: 1977, “Literature and Philosophy: A Conversation with Bryan Magee”, in Bryan Magee, *Men of Ideas*, London: BBC Books; reprinted in [EM], pp. 3–30.
+[^murdoch-1977-2]: 1977, “Literature and Philosophy: A Conversation with Bryan Magee”, in Bryan Magee, *Men of Ideas*, London: BBC Books; reprinted in [EM], pp. 3–30.
 
 [^murdoch-2003]: 2003, *From a Tiny Corner in the House of Fiction: Conversations with Iris Murdoch*, Gillian Dooley (ed.), Columbia, SC: University of South Carolina Press. A collection of 23 interviews by many people over the course of Murdoch’s life.
 

@@ -311,31 +311,31 @@ Arabic and Islamic Philosophy, historical and methodological topics in: Greek so
 
 [^for-1958]: For Arabic fragments of *Fons Vitae*, see main bibliography: Pines 1958/77 and Fenton 1976.
 
-[^translation)-1892]: 1892. *Avencebrolis (Ibn Gabirol) Fons Vitae, ex Arabico in Latinum Translatus ab Johanne Hispano et Dominico Gundissalino*, edited by Baeumker. Münster. In *Beiträge zur Geschichte der Philosophie des Mittelalters, Texte und Untersuchungen*, edited by Baeumker and Hertling. Münster. Contains the Latin text of the *Fons Vitae* as translated from Arabic in the 12ᵗʰ century by Dominicus Gundissalinus and John of Spain
+[^ibn-gabirol-1892]: 1892. *Avencebrolis (Ibn Gabirol) Fons Vitae, ex Arabico in Latinum Translatus ab Johanne Hispano et Dominico Gundissalino*, edited by Baeumker. Münster. In *Beiträge zur Geschichte der Philosophie des Mittelalters, Texte und Untersuchungen*, edited by Baeumker and Hertling. Münster. Contains the Latin text of the *Fons Vitae* as translated from Arabic in the 12ᵗʰ century by Dominicus Gundissalinus and John of Spain
 
-[^translation)-1950]: 1950. *La source de vie; livre III*, translated with commentary by Fernand Brunner. Paris: Librairie Philosophique J. Vrin. French translation of book three of the *Fons Vitae*, with commentary by Brunner.
+[^ibn-gabirol-1950]: 1950. *La source de vie; livre III*, translated with commentary by Fernand Brunner. Paris: Librairie Philosophique J. Vrin. French translation of book three of the *Fons Vitae*, with commentary by Brunner.
 
-[^translation)-1954]: 1954. *Fountain of Life*, translated by A. B. Jacob. Philadelphia. This is a full English translation of the *Fons* *Vitae*, but its idiosyncratic terminology greatly obscures philosophical points in the text (e.g. matter and form are translated as “material and structure”).
+[^ibn-gabirol-1954]: 1954. *Fountain of Life*, translated by A. B. Jacob. Philadelphia. This is a full English translation of the *Fons* *Vitae*, but its idiosyncratic terminology greatly obscures philosophical points in the text (e.g. matter and form are translated as “material and structure”).
 
-[^translation)-1962]: 1962. *Ozar Ha-Mahshavah shel Ha-Yahadut*, edited by Abraham Sifroni. Israel: Mosad Ha-Rav Kuk. This volume includes a contemporary Hebrew translation by Blovstein of the Latin Baeumker text (see pp. 3–432): *Rabbi Shlomo ben Gabirol, Sefer Meqor Hayyim*, translated [into Hebrew from Latin] by Yaakov Blovstein.
+[^ibn-gabirol-1962]: 1962. *Ozar Ha-Mahshavah shel Ha-Yahadut*, edited by Abraham Sifroni. Israel: Mosad Ha-Rav Kuk. This volume includes a contemporary Hebrew translation by Blovstein of the Latin Baeumker text (see pp. 3–432): *Rabbi Shlomo ben Gabirol, Sefer Meqor Hayyim*, translated [into Hebrew from Latin] by Yaakov Blovstein.
 
-[^translation)-1962-2]: 1962/2008. *The Fountain of Life*, (Book 3), translated by Henry E. Wedeck. New York: Philosophical Library. [Reprinted as *Solomon Ibn Gabirol, The Fountain of Life*. Bibliobazaar, 2008.]
+[^ibn-gabirol-1962-2]: 1962/2008. *The Fountain of Life*, (Book 3), translated by Henry E. Wedeck. New York: Philosophical Library. [Reprinted as *Solomon Ibn Gabirol, The Fountain of Life*. Bibliobazaar, 2008.]
 
-[^translation)-1853]: 1853/1955. *Extraits de la source de vie de Salomon Ibn Gebirol*. In Solomon Munk, *Mélanges de Philosophie Juive et Arabe*. Paris: Chez A. Franck, Libraire. (Reprinted Paris, 1955). Contains text of Falaquera's 13ᵗʰ century Hebrew summary of the *Fons Vitae*, as well as Munk's French translation and commentary.
+[^ibn-gabirol-1853]: 1853/1955. *Extraits de la source de vie de Salomon Ibn Gebirol*. In Solomon Munk, *Mélanges de Philosophie Juive et Arabe*. Paris: Chez A. Franck, Libraire. (Reprinted Paris, 1955). Contains text of Falaquera's 13ᵗʰ century Hebrew summary of the *Fons Vitae*, as well as Munk's French translation and commentary.
 
-[^translation)-1962-3]: 1962. *Ozar Ha-Mahshavah shel Ha-Yahadut*, edited by Abraham Sifroni. Israel: Mosad Ha-Rav Kuk. The volume includes Shem Tov ibn Falaquera's 13th century Hebrew summary translation of the original Arabic text; see pp. 433–532.
+[^ibn-gabirol-1962-3]: 1962. *Ozar Ha-Mahshavah shel Ha-Yahadut*, edited by Abraham Sifroni. Israel: Mosad Ha-Rav Kuk. The volume includes Shem Tov ibn Falaquera's 13th century Hebrew summary translation of the original Arabic text; see pp. 433–532.
 
-[^translation)-2001]: 2001. *Shelomoh ibn Gabirol, Fons Vitae*, by Roberto Gatti. Genova: Il Melangolo. A new edition of Falaquera's 13ᵗʰ century Hebrew summary of the *Fons Vitae* (based on new manuscripts not used by Munk) and Italian translation.
+[^ibn-gabirol-2001]: 2001. *Shelomoh ibn Gabirol, Fons Vitae*, by Roberto Gatti. Genova: Il Melangolo. A new edition of Falaquera's 13ᵗʰ century Hebrew summary of the *Fons Vitae* (based on new manuscripts not used by Munk) and Italian translation.
 
-[^translation)-2008]: 2008. “Solomon Ibn Gabirol and Shem Tov b. Joseph Falaquera, *Excerpts from ‘The Source of Life*’ ”, in *Medieval Jewish Philosophical Writings*, edited by Charles Manekin. Cambridge: Cambridge University Press, pp. 23–87. English translation of selections of Falaquera's Hebrew excerpts by Charles Manekin.
+[^ibn-gabirol-2008]: 2008. “Solomon Ibn Gabirol and Shem Tov b. Joseph Falaquera, *Excerpts from ‘The Source of Life*’ ”, in *Medieval Jewish Philosophical Writings*, edited by Charles Manekin. Cambridge: Cambridge University Press, pp. 23–87. English translation of selections of Falaquera's Hebrew excerpts by Charles Manekin.
 
 [^mibhar-1601]: 1484. *Mibhar ha-Peninim* (*Choice of Pearls: Maxims, Proverbs, and Moral Reflections*) [microform]. Soncino (Italian books before 1601); roll 352, item 5; Cambridge, Mass., General Microfilm Co.
 
-[^mibhar-1925]: 1925. *Solomon Ibn Gabirol's Choice of Pearls* (Library of Jewish Classics, Volume IV), translated from the Hebrew with introduction and annotation, A. Cohen (trans.). New York: Bloch Publishing Co., Inc., 1925.
+[^ibn-gabirol-1925]: 1925. *Solomon Ibn Gabirol's Choice of Pearls* (Library of Jewish Classics, Volume IV), translated from the Hebrew with introduction and annotation, A. Cohen (trans.). New York: Bloch Publishing Co., Inc., 1925.
 
-[^mibhar-1947]: 1947. *Sefer Mivhar ha-Peninim*. A. Habermann, (ed.), Jerusalem: Sifriyat haPo'alim.
+[^ibn-gabirol-1947]: 1947. *Sefer Mivhar ha-Peninim*. A. Habermann, (ed.), Jerusalem: Sifriyat haPo'alim.
 
-[^ibn-gabirol-1962]: 1962. *Ozar Ha-Mahshavah shel Ha-Yahadut*, edited by Abraham Sifroni. Israel: Mosad Ha-Rav Kuk. Contains contemporary Hebrew translation by Bar-On of the Arabic text; see second half of the volume after p. 549 (i.e. after the Blovstein and the Falaquera Hebrew translations of *Fons Vitae*), pagination starts again from p. 1; see pp. 1–112. Also contains Hebrew translation of Ibn Tibbon; see third section of the volume after the Bar-On translation; pagination starts again from p. 1; see pp. 1–85.
+[^ibn-gabirol-1962-4]: 1962. *Ozar Ha-Mahshavah shel Ha-Yahadut*, edited by Abraham Sifroni. Israel: Mosad Ha-Rav Kuk. Contains contemporary Hebrew translation by Bar-On of the Arabic text; see second half of the volume after p. 549 (i.e. after the Blovstein and the Falaquera Hebrew translations of *Fons Vitae*), pagination starts again from p. 1; see pp. 1–112. Also contains Hebrew translation of Ibn Tibbon; see third section of the volume after the Bar-On translation; pagination starts again from p. 1; see pp. 1–85.
 
 [^ibn-gabirol-1966]: 1966. *The Improvement of the Moral Qualities*, Columbia University Oriental Studies, Vol. I, Stephen S. Wise (trans.). New York: AMS Press. Arabic text and English translation of Gabirol's *Sefer Tiqun Midot ha-Nefesh*
 
@@ -363,9 +363,9 @@ Arabic and Islamic Philosophy, historical and methodological topics in: Greek so
 
 [^proclus-nd-2]: Proclus, *De Philosophia Chaldaica*:
 
-[^proclus-1971]: 1971. *De Philosophia Chaldaica*, ed. É. des Places. Paris (Oracles Chaldaïques, text établi et traduit, pp. 202–12)
+[^ibn-gabirol-1971]: 1971. *De Philosophia Chaldaica*, ed. É. des Places. Paris (Oracles Chaldaïques, text établi et traduit, pp. 202–12)
 
-[^proclus-1988]: 1988. *The exhortation to philosophy. Including the Letters of Iamblichus and Proclus' commentary on the Chaldean oracles*. Iamblichus, Johnson, T. M., Neuville, S., & Proclus. [EST: *De philosophia Chaldaica* <engl.>]. Grand Rapids, Mich: Phanes Press.
+[^ibn-gabirol-1988]: 1988. *The exhortation to philosophy. Including the Letters of Iamblichus and Proclus' commentary on the Chaldean oracles*. Iamblichus, Johnson, T. M., Neuville, S., & Proclus. [EST: *De philosophia Chaldaica* <engl.>]. Grand Rapids, Mich: Phanes Press.
 
 [^simplicius-1882]: Simplicius, 1882. *Simplicii in Aristotelis Physicorum libros quattuor priores commentaria*, edited by Herman Diels. Berlin.
 

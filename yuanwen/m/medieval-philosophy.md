@@ -595,7 +595,7 @@ and so maybe the suggestion is no longer *too* radical.
 
 [^frank-1997]: Frank, Daniel H. and Oliver Leaman (eds.), 1997, *History of Jewish Philosophy*, (Routledge History of World Philosophies 2), London/New York: Routledge. doi:10.4324/9780203983102
 
-[^frank-2003]: ––, (eds.), 2003, *The Cambridge Companion to Medieval Jewish Philosophy*, Cambridge: Cambridge University Press
+[^medieval-philosophy-2003]: ––, (eds.), 2003, *The Cambridge Companion to Medieval Jewish Philosophy*, Cambridge: Cambridge University Press
 
 [^freudenthal-2012]: Freudenthal, Gad (ed.), 2012, *Science in Medieval Jewish Cultures*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511976575
 

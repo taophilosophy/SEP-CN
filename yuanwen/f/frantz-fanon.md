@@ -141,19 +141,19 @@ Africana Philosophy | Afro-Caribbean Philosophy | colonialism | existentialism |
 
 [^algeria’s-1964]: –––, 1964 [1994], *Pour la révolution africaine. Écrits politiques*, Maspero. Translated as *Toward the African Revolution*, Haakon Chevalier (trans), New York: Grove Books, 1994. Includes the essays
 
-[^algeria’s-1955]: 1955, “West Indians and Africans”.
+[^frantz-fanon-1955]: 1955, “West Indians and Africans”.
 
-[^algeria’s-1956]: 1956, “Racism and Culture”.
+[^frantz-fanon-1956]: 1956, “Racism and Culture”.
 
-[^algeria’s-1960]: 1960, “Unity and Effective Solidarity are the Conditions for African Liberation”.
+[^frantz-fanon-1960]: 1960, “Unity and Effective Solidarity are the Conditions for African Liberation”.
 
-[^algeria’s-1961-2]: 1961, “Lumumba’s Death: Could We Do Otherwise”.
+[^frantz-fanon-1961]: 1961, “Lumumba’s Death: Could We Do Otherwise”.
 
-[^algeria’s-2006]: –––, 2006, *The Fanon Reader*, Azzedine Haddour (ed.), London: Pluto Press.
+[^frantz-fanon-2006]: –––, 2006, *The Fanon Reader*, Azzedine Haddour (ed.), London: Pluto Press.
 
-[^algeria’s-2014]: –––, 2014, *Decolonizing Madness: The Psychiatric Writings of Frantz Fanon*, Nigel Gibson (ed.), London: Palgrave.
+[^frantz-fanon-2014]: –––, 2014, *Decolonizing Madness: The Psychiatric Writings of Frantz Fanon*, Nigel Gibson (ed.), London: Palgrave.
 
-[^algeria’s-2015]: –––, 2015 [2018], *Écrits sur l’aliénation et la liberté*, Jean Khalfa and Robert J.C. Young (eds), Paris: La Découverte. Translated as *Alienation and Freedom*, Steven Corcoran (trans.), London: Bloomsbury, 2018.
+[^frantz-fanon-2015]: –––, 2015 [2018], *Écrits sur l’aliénation et la liberté*, Jean Khalfa and Robert J.C. Young (eds), Paris: La Découverte. Translated as *Alienation and Freedom*, Steven Corcoran (trans.), London: Bloomsbury, 2018.
 
 [^guex-1950]: Guex, Germaine, 1950, *La Névrose d’abandon*, Paris: Presses Universitaires de France.
 

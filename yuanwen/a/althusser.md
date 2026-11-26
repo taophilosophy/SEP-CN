@@ -181,91 +181,91 @@ epistemology: social | Foucault, Michel | Hegel, Georg Wilhelm Friedrich: dialec
 
 [^althusser’s-2006]: The following list owes much to the comprehensive bibliography of Althusser’s work compiled by Gregory Elliott in *Althusser: The Detour of Theory*, New York: Verso, 2006 [1987].
 
-[^althusser’s-1940]: (1940–45) *Journal de captivité (Stalag XA 1940–45)*, (Paris: Stock/IMEC, 1992)
+[^althusser-1940]: (1940–45) *Journal de captivité (Stalag XA 1940–45)*, (Paris: Stock/IMEC, 1992)
 
-[^althusser’s-1946]: (1946) “L’internationale des bons sentiments”, in *Ecrits Philosophiques et Politiques I* (Paris: Stock/IMEC 1994), 35–57; tr. as “The International of Decent Feelings,” by G.M. Goshgarian in *The Spectre of Hegel: Early Writings* (London, NY: Verso, 1997).
+[^althusser-1946]: (1946) “L’internationale des bons sentiments”, in *Ecrits Philosophiques et Politiques I* (Paris: Stock/IMEC 1994), 35–57; tr. as “The International of Decent Feelings,” by G.M. Goshgarian in *The Spectre of Hegel: Early Writings* (London, NY: Verso, 1997).
 
-[^althusser’s-1947]: (1947) “Du contenu dans la pensée de G.W.F. Hegel” in *Ecrits Philosophiques et Politiques I* (Paris: Stock/IMEC 1994), 59–238; tr. as “On Content in the Thought of G.W.F. Hegel,” by G.M. Goshgarian in *The Spectre of Hegel: Early Writings* (London, NY: Verso, 1997).
+[^althusser-1947]: (1947) “Du contenu dans la pensée de G.W.F. Hegel” in *Ecrits Philosophiques et Politiques I* (Paris: Stock/IMEC 1994), 59–238; tr. as “On Content in the Thought of G.W.F. Hegel,” by G.M. Goshgarian in *The Spectre of Hegel: Early Writings* (London, NY: Verso, 1997).
 
-[^althusser’s-1950]: (1950) “Le retour à Hegel. Dernier mot du révisionisme universitaire,” *La Nouvelle Critique* 20 (1950); tr. as “The Return of Hegel: The Latest Word in Academic Revisionism,” by G.M. Goshgarian in *The Spectre of Hegel: Early Writings* (London, NY: Verso, 1997).
+[^althusser-1950]: (1950) “Le retour à Hegel. Dernier mot du révisionisme universitaire,” *La Nouvelle Critique* 20 (1950); tr. as “The Return of Hegel: The Latest Word in Academic Revisionism,” by G.M. Goshgarian in *The Spectre of Hegel: Early Writings* (London, NY: Verso, 1997).
 
-[^althusser’s-1953a]: (1953a) “À propos du marxisme,” *Revue de l’enseignement philosophique*, 3:4 (1953): 15–19; tr. as “On Marxism,” by G.M. Goshgarian in *The Spectre of Hegel: Early Writings* (London, NY: Verso, 1997).
+[^althusser-1953a]: (1953a) “À propos du marxisme,” *Revue de l’enseignement philosophique*, 3:4 (1953): 15–19; tr. as “On Marxism,” by G.M. Goshgarian in *The Spectre of Hegel: Early Writings* (London, NY: Verso, 1997).
 
-[^althusser’s-1953b]: (1953b) “Note sur le matérialisme dialectique,” *Revue de l’enseignement philosophique*, 3:5 (1953): 11–17; tr. as “On Marxism,” by G.M. Goshgarian in *The Spectre of Hegel: Early Writings* (London, NY: Verso, 1997).
+[^althusser-1953b]: (1953b) “Note sur le matérialisme dialectique,” *Revue de l’enseignement philosophique*, 3:5 (1953): 11–17; tr. as “On Marxism,” by G.M. Goshgarian in *The Spectre of Hegel: Early Writings* (London, NY: Verso, 1997).
 
-[^althusser’s-1958]: (1958) *Montesquieu, la politique et l’histoire* (Paris: Presses Universitaires de France, 1959); tr. as “Montesquieu: Politics and History” by Ben Brewster, in *Politics and History: Montesquieu, Rousseau, Marx*, (London: Verso, 2007).
+[^althusser-1958]: (1958) *Montesquieu, la politique et l’histoire* (Paris: Presses Universitaires de France, 1959); tr. as “Montesquieu: Politics and History” by Ben Brewster, in *Politics and History: Montesquieu, Rousseau, Marx*, (London: Verso, 2007).
 
-[^althusser’s-1960]: (1960) “Les ‘Manifestes philosophiqes’ de Feuerbach,” *La Nouvelle Critique* 121 (1960): 32–38; tr. as “Feuerbach’s Philosophical Manifestoes” by Ben Brewster in Louis Althusser, *For Marx* (London: Verso, 2005).
+[^althusser-1960]: (1960) “Les ‘Manifestes philosophiqes’ de Feuerbach,” *La Nouvelle Critique* 121 (1960): 32–38; tr. as “Feuerbach’s Philosophical Manifestoes” by Ben Brewster in Louis Althusser, *For Marx* (London: Verso, 2005).
 
-[^althusser’s-1961]: (1961) “Sur le jeune Marx (Questions de théorie),” *La Pensée* 96 (1961):3–26; tr. as “On the Young Marx: Theoretical Questions,” by Ben Brewster in *For Marx* (London: Verso 2005).
+[^althusser-1961]: (1961) “Sur le jeune Marx (Questions de théorie),” *La Pensée* 96 (1961):3–26; tr. as “On the Young Marx: Theoretical Questions,” by Ben Brewster in *For Marx* (London: Verso 2005).
 
-[^althusser’s-1962]: (1962) “Contradiction et surdetermination (Notes pour un recherche),” *La Pensée* 106 (1962): 3–22; tr. as “Contradiction and Overdetermination: Notes for an Investigation” by Ben Brewster in *For Marx* (London: Verso 2005).
+[^althusser-1962]: (1962) “Contradiction et surdetermination (Notes pour un recherche),” *La Pensée* 106 (1962): 3–22; tr. as “Contradiction and Overdetermination: Notes for an Investigation” by Ben Brewster in *For Marx* (London: Verso 2005).
 
-[^althusser’s-1963a]: (1963a) “Marxisme et humanisme” *Cahiers de l’Institut des Sciences Économique Appliquées* 20 (1964): 109–133; tr. as “Marxism and Humanism” by Ben Brewster in *For Marx* (London: Verso 2005).
+[^althusser-1963a]: (1963a) “Marxisme et humanisme” *Cahiers de l’Institut des Sciences Économique Appliquées* 20 (1964): 109–133; tr. as “Marxism and Humanism” by Ben Brewster in *For Marx* (London: Verso 2005).
 
-[^althusser’s-1963b]: (1963b) “Sur la dialectique matérialiste (De l’inégalité des origines),” *La Pensée* 110 (1963): 5–46; tr. as “On the Materialist Dialectic: On the Unevenness of Origins,” by Ben Brewster in *For Marx* (London: Verso 2005).
+[^althusser-1963b]: (1963b) “Sur la dialectique matérialiste (De l’inégalité des origines),” *La Pensée* 110 (1963): 5–46; tr. as “On the Materialist Dialectic: On the Unevenness of Origins,” by Ben Brewster in *For Marx* (London: Verso 2005).
 
-[^althusser’s-1964]: (1964) “Freud et Lacan,” *La Nouvelle Critique* 161–162 (1964–1965): 88–108; tr. as “Freud and Lacan” by Ben Brewster in *Lenin and Philosophy and Other Essays* (New York: Monthly Review, 2002.
+[^althusser-1964]: (1964) “Freud et Lacan,” *La Nouvelle Critique* 161–162 (1964–1965): 88–108; tr. as “Freud and Lacan” by Ben Brewster in *Lenin and Philosophy and Other Essays* (New York: Monthly Review, 2002.
 
-[^althusser’s-1965a]: (1965a) *Lire le Capital, Tome 1 & 2*, with Étienne Balibar, Roger Establet, Pierre Macherey, and Jacques Rancière (Paris: Maspero, coll. “Théorie”); tr. by Ben Brewster as *Reading Capital* with the contributions of Establet, Macherey, and Rancière omitted (London: Verso 2016)
+[^althusser-1965a]: (1965a) *Lire le Capital, Tome 1 & 2*, with Étienne Balibar, Roger Establet, Pierre Macherey, and Jacques Rancière (Paris: Maspero, coll. “Théorie”); tr. by Ben Brewster as *Reading Capital* with the contributions of Establet, Macherey, and Rancière omitted (London: Verso 2016)
 
-[^althusser’s-1965b]: (1965b) “Theory, Theoretical Practice and Theoretical Formation” tr. by James Kavanaugh, in Gregory Elliott ed. *Philosophy and the Spontaneous Philosophy of the Scientists* (London: Verso, 1990).
+[^althusser-1965b]: (1965b) “Theory, Theoretical Practice and Theoretical Formation” tr. by James Kavanaugh, in Gregory Elliott ed. *Philosophy and the Spontaneous Philosophy of the Scientists* (London: Verso, 1990).
 
-[^althusser’s-1966a]: (1966a) “Lettre sur la connaissance de l’art (réponse à André Daspre) (In Ecrits philosophiques et politiques, Tome II, edited by François Matheron, 559–68. Ecrits philosophiques et politiques. Paris: Stock IMEC, 1995.
+[^althusser-1966a]: (1966a) “Lettre sur la connaissance de l’art (réponse à André Daspre) (In Ecrits philosophiques et politiques, Tome II, edited by François Matheron, 559–68. Ecrits philosophiques et politiques. Paris: Stock IMEC, 1995.
 
-[^althusser’s-1966b]: (1966b) “Sur la genèse,” *Décalages* 1(2) (2013). J. Smith (trans.), 2012, “On Genesis”, *Décalages* 1 (2).
+[^althusser-1966b]: (1966b) “Sur la genèse,” *Décalages* 1(2) (2013). J. Smith (trans.), 2012, “On Genesis”, *Décalages* 1 (2).
 
-[^althusser’s-1966c]: (1966c) “Sur Lévi-Strauss,” in *Écrits philosophiques et politiques*, Tome 2 (Paris: Stock/IMEC, 1997), 417–432; tr. by G.M. Goshgarian in *The Humanist Controversy and Other Writings* (London: Verso 2003).
+[^althusser-1966c]: (1966c) “Sur Lévi-Strauss,” in *Écrits philosophiques et politiques*, Tome 2 (Paris: Stock/IMEC, 1997), 417–432; tr. by G.M. Goshgarian in *The Humanist Controversy and Other Writings* (London: Verso 2003).
 
-[^althusser’s-1967a]: (1967a) *Philosophie et philosophie spontanée des savants (1967)*, (Maspero, coll. “Théorie”, 1974); tr. Warren Montag as “Philosophy and the Spontaneous Philosophy of the Scientists,” in Gregory Elliott ed. *Philosophy and the Spontaneous Philosophy of the Scientists* (London: Verso, 1990).
+[^althusser-1967a]: (1967a) *Philosophie et philosophie spontanée des savants (1967)*, (Maspero, coll. “Théorie”, 1974); tr. Warren Montag as “Philosophy and the Spontaneous Philosophy of the Scientists,” in Gregory Elliott ed. *Philosophy and the Spontaneous Philosophy of the Scientists* (London: Verso, 1990).
 
-[^althusser’s-1967b]: (1967b) “La tâche historique de la philosophie marxiste” tr. by G.M. Goshgarian as “The Historical Task of Marxist Philosophy” in in *The Humanist Controversy and Other Writings* (London: Verso 2003).
+[^althusser-1967b]: (1967b) “La tâche historique de la philosophie marxiste” tr. by G.M. Goshgarian as “The Historical Task of Marxist Philosophy” in in *The Humanist Controversy and Other Writings* (London: Verso 2003).
 
-[^althusser’s-1968a]: (1968a) “Lenine et la Philosophie,” *Bulleting de la Société de Philosophie* 4 (1968): 127–181; tr. as “Lenin and Philosophy” by Ben Brewster in *Lenin and Philosophy and Other Essays* (New York: Monthly Review 2002).
+[^althusser-1968a]: (1968a) “Lenine et la Philosophie,” *Bulleting de la Société de Philosophie* 4 (1968): 127–181; tr. as “Lenin and Philosophy” by Ben Brewster in *Lenin and Philosophy and Other Essays* (New York: Monthly Review 2002).
 
-[^althusser’s-1968c]: (1968c) “Sur le rapport de Marx à Hegel,” in Jacques l’Hondt ed. *Hegel et la pensée moderne* (Paris: Presses Universitaires de France, 1970), 85–111; tr. as “Marx’s Relation to Hegel” by Ben Brewster in *Lenin and Philosophy and Other Essays* (New York: Monthly Review 2002).
+[^althusser-1968c]: (1968c) “Sur le rapport de Marx à Hegel,” in Jacques l’Hondt ed. *Hegel et la pensée moderne* (Paris: Presses Universitaires de France, 1970), 85–111; tr. as “Marx’s Relation to Hegel” by Ben Brewster in *Lenin and Philosophy and Other Essays* (New York: Monthly Review 2002).
 
-[^althusser’s-1969b]: (1969b) *Ideologie et appareils idéologiques d’État (notes pour une recherche)* *La Pensée* 151 (1970): 3–38; tr. as “Ideology and Ideology and Ideological State Apparatuses: Notes Towards an Investigation” by Ben Brewster in *Lenin and Philosophy and Other Essays* (New York: Monthly Review 2002).
+[^althusser-1969b]: (1969b) *Ideologie et appareils idéologiques d’État (notes pour une recherche)* *La Pensée* 151 (1970): 3–38; tr. as “Ideology and Ideology and Ideological State Apparatuses: Notes Towards an Investigation” by Ben Brewster in *Lenin and Philosophy and Other Essays* (New York: Monthly Review 2002).
 
-[^althusser’s-1969c]: (1969c) *On The Reproduction Of Capitalism: Ideology And Ideological State Apparatuses*, tr. G. M. Goshgarian (London & New York: Verso 2013).
+[^althusser-1969c]: (1969c) *On The Reproduction Of Capitalism: Ideology And Ideological State Apparatuses*, tr. G. M. Goshgarian (London & New York: Verso 2013).
 
-[^althusser’s-1972a]: (1972a) *Élements d’autocritique* (Paris: Hachette coll. “Analyse”, 1974); tr. as “Elements of Self-Criticism” by Grahame Lock in *Essays in Self-Criticism* (New Left Books, London, 1976).
+[^althusser-1972a]: (1972a) *Élements d’autocritique* (Paris: Hachette coll. “Analyse”, 1974); tr. as “Elements of Self-Criticism” by Grahame Lock in *Essays in Self-Criticism* (New Left Books, London, 1976).
 
-[^althusser’s-1973]: (1973) “Livre sur l’imperialisme” tr. As “Book on Imperialism” by G.M. Goshgarian in History and Imperialism (Cambridge, UK and Medford, MA: Polity Press, 202
+[^althusser-1973]: (1973) “Livre sur l’imperialisme” tr. As “Book on Imperialism” by G.M. Goshgarian in History and Imperialism (Cambridge, UK and Medford, MA: Polity Press, 202
 
-[^althusser’s-1975]: (1975) “Est-il simple d’être marxiste en philosophie? (Soutenance d’Amiens)” *La Pensée* 183 (1975): 3–31; tr. as “Is it Simple to be a Marxist in Philosophy?” by Grahame Locke in *Essays in Self-Criticism* (New Left Books, London, 1976).
+[^althusser-1975]: (1975) “Est-il simple d’être marxiste en philosophie? (Soutenance d’Amiens)” *La Pensée* 183 (1975): 3–31; tr. as “Is it Simple to be a Marxist in Philosophy?” by Grahame Locke in *Essays in Self-Criticism* (New Left Books, London, 1976).
 
-[^althusser’s-1976a]: (1976a) *22éme Congrés* (Paris: Maspero, 1977); tr. as “On the Twenty-Second Congress of the French Communist Party” by Ben Brewster in *New Left Review* 104 (1977): 3–22.
+[^althusser-1976a]: (1976a) *22éme Congrés* (Paris: Maspero, 1977); tr. as “On the Twenty-Second Congress of the French Communist Party” by Ben Brewster in *New Left Review* 104 (1977): 3–22.
 
-[^althusser’s-1976b]: (1976b) Etre marxiste en philsophie (Paris: Presses universitaires de France 2016) tr. as How to Be a Marxist in Philosophy, by G.M. Goshgarian (London: Bloomsbury, 2017).
+[^althusser-1976b]: (1976b) Etre marxiste en philsophie (Paris: Presses universitaires de France 2016) tr. as How to Be a Marxist in Philosophy, by G.M. Goshgarian (London: Bloomsbury, 2017).
 
-[^althusser’s-1976c]: (1976c) “La transformation de la philosophie,” *Sur la philosophie* (Paris: Gallimard, 1994), 139–178; tr. as “The Transformation of Philosophy” by Thomas E. Lewis in Gregory Elliott ed. *Philosophy and the Spontaneous Philosophy of the Scientists* (London: Verso, 1990).
+[^althusser-1976c]: (1976c) “La transformation de la philosophie,” *Sur la philosophie* (Paris: Gallimard, 1994), 139–178; tr. as “The Transformation of Philosophy” by Thomas E. Lewis in Gregory Elliott ed. *Philosophy and the Spontaneous Philosophy of the Scientists* (London: Verso, 1990).
 
-[^althusser’s-1977a]: (1977a) “Avant-propos du livre de G. Duménil, ‘Le concept de loi économique dans ‘Le Capital’”, in *Solitude de Machiavel et autres textes*, ed. Yves Sintomer (Paris: Presses Universitaires de France, 1998), 245–266.
+[^althusser-1977a]: (1977a) “Avant-propos du livre de G. Duménil, ‘Le concept de loi économique dans ‘Le Capital’”, in *Solitude de Machiavel et autres textes*, ed. Yves Sintomer (Paris: Presses Universitaires de France, 1998), 245–266.
 
-[^althusser’s-1977b]: (1977b) “Enfin la crise du marxisme!” in *Pouvoir et opposition dans les sociétés post-révolutionnaires* (Le Seuil, coll. “Combats”, 1978), 242–253.
+[^althusser-1977b]: (1977b) “Enfin la crise du marxisme!” in *Pouvoir et opposition dans les sociétés post-révolutionnaires* (Le Seuil, coll. “Combats”, 1978), 242–253.
 
-[^althusser’s-1977c]: (1977c) “Solitude de Machiavel” in *Solitude de Machiavel et autres texts* (Paris: Presses Universitaires de France, 1998), 311–324; tr. as “Machiavell’s Solitude” by Ben Brewster in *Machiavelli and Us* (London: Verso, 1999).
+[^althusser-1977c]: (1977c) “Solitude de Machiavel” in *Solitude de Machiavel et autres texts* (Paris: Presses Universitaires de France, 1998), 311–324; tr. as “Machiavell’s Solitude” by Ben Brewster in *Machiavelli and Us* (London: Verso, 1999).
 
-[^althusser’s-1977d]: (1977d) *Les vâches noires: interview imaginaire (le malaise du XXIIe congrès) ce qui ne va pas camarades!*, ed. by G. M. Goshgarian (Paris: Presses Universitaires de France, 2016).
+[^althusser-1977d]: (1977d) *Les vâches noires: interview imaginaire (le malaise du XXIIe congrès) ce qui ne va pas camarades!*, ed. by G. M. Goshgarian (Paris: Presses Universitaires de France, 2016).
 
-[^althusser’s-1978a]: (1978a) *“Ce qui ne peut plus durer dans le Parti Communiste,”*(Paris: François Maspero 1978).
+[^althusser-1978a]: (1978a) *“Ce qui ne peut plus durer dans le Parti Communiste,”*(Paris: François Maspero 1978).
 
-[^althusser’s-1978b]: (1978b) “Marx dans ses limites,” in *Écrits philosophiques et politiques*, Tome 1 (Paris: Stock/IMEC, 1994), 357–524.
+[^althusser-1978b]: (1978b) “Marx dans ses limites,” in *Écrits philosophiques et politiques*, Tome 1 (Paris: Stock/IMEC, 1994), 357–524.
 
-[^althusser’s-1978c]: (1978c) “Le marxisme aujourd’hui,” in *Solitude de Machiavel et autres texts* (Paris: Presses Universitaires de France, 1998), 292–310; tr. as “Marxism Today” by James H. Kavanaugh in Gregory Elliott ed. *Philosophy and the Spontaneous Philosophy of the Scientists* (London: Verso, 1990).
+[^althusser-1978c]: (1978c) “Le marxisme aujourd’hui,” in *Solitude de Machiavel et autres texts* (Paris: Presses Universitaires de France, 1998), 292–310; tr. as “Marxism Today” by James H. Kavanaugh in Gregory Elliott ed. *Philosophy and the Spontaneous Philosophy of the Scientists* (London: Verso, 1990).
 
-[^althusser’s-1978d]: (1978d) *Que Faire* (Paris: Presses Universitaires de France, 2018) tr. as *What Is to Be Done?*, by G. M. Goshgarian (Cambridge [U.K.]: Polity, 2020).
+[^althusser-1978d]: (1978d) *Que Faire* (Paris: Presses Universitaires de France, 2018) tr. as *What Is to Be Done?*, by G. M. Goshgarian (Cambridge [U.K.]: Polity, 2020).
 
-[^althusser’s-1980]: (1980) Initiation à la philosophie pour les non-philosophes (Paris: Presses Universitaires de France, 2013) tr. as *Philosophy for Non-Philosophers*, by G.M. Goshgarian (New York: Bloomsbury, 2017).
+[^althusser-1980]: (1980) Initiation à la philosophie pour les non-philosophes (Paris: Presses Universitaires de France, 2013) tr. as *Philosophy for Non-Philosophers*, by G.M. Goshgarian (New York: Bloomsbury, 2017).
 
-[^althusser’s-1982]: (1982) “Sur la pensée Marxiste,” in *Future anterieur, Sur Althusser. Passages* (Paris: L’Harmattan, 1993), 11–29; and “Le courant souterrain du matérialisme de la rencontre,”in *Écrits philosophiques et politiques*, Tome 1 (Paris: Stock/IMEC, 1994), 583–594; and ‘Notes sur les Thèses sur Feuerbach,’ *Magazine Littéraire*, 324 (1994): 38–42; extracts translated as “The Underground Current of the Materialism of the Encounter” by G.M. Goshgarian in *Philosophy of the Encounter: Later Writings 1978–1987* (London: Verso, 2006).
+[^althusser-1982]: (1982) “Sur la pensée Marxiste,” in *Future anterieur, Sur Althusser. Passages* (Paris: L’Harmattan, 1993), 11–29; and “Le courant souterrain du matérialisme de la rencontre,”in *Écrits philosophiques et politiques*, Tome 1 (Paris: Stock/IMEC, 1994), 583–594; and ‘Notes sur les Thèses sur Feuerbach,’ *Magazine Littéraire*, 324 (1994): 38–42; extracts translated as “The Underground Current of the Materialism of the Encounter” by G.M. Goshgarian in *Philosophy of the Encounter: Later Writings 1978–1987* (London: Verso, 2006).
 
-[^althusser’s-1984]: (1984–1987a) “Lettres de Louis Althusser à Fernanda Navarro,” (1984), *Sur la philosophie* (Paris: Gallimard, 1994), 89–138; tr. as “Letters from Louis Althusser to Fernanda Navarro” by G.M. Goshgarian in *Philosophy of the Encounter: Later Writings 1978–1987* (London: Verso, 2006).
+[^althusser-1984]: (1984–1987a) “Lettres de Louis Althusser à Fernanda Navarro,” (1984), *Sur la philosophie* (Paris: Gallimard, 1994), 89–138; tr. as “Letters from Louis Althusser to Fernanda Navarro” by G.M. Goshgarian in *Philosophy of the Encounter: Later Writings 1978–1987* (London: Verso, 2006).
 
-[^althusser’s-1984-2]: (1984–1987a) “Philosophie et marxisme: entretiens avec Fernanda Navarra (1984–1987)” in *Sur la philosophie* (Paris: Gallimard, 1994), 13–79.
+[^althusser-1984-2]: (1984–1987a) “Philosophie et marxisme: entretiens avec Fernanda Navarra (1984–1987)” in *Sur la philosophie* (Paris: Gallimard, 1994), 13–79.
 
-[^althusser’s-1985]: (1985) “L’avenir dure longtemps,” in *L’avenir dure longtemps, suivi de Les Faits* (Paris: Stock/IMEC, 1992), 7–279; tr. as “The Future Lasts Forever” by Richard Veasey in *The Future Lasts Forever: A Memoir* (New York: New Press, 1993).
+[^althusser-1985]: (1985) “L’avenir dure longtemps,” in *L’avenir dure longtemps, suivi de Les Faits* (Paris: Stock/IMEC, 1992), 7–279; tr. as “The Future Lasts Forever” by Richard Veasey in *The Future Lasts Forever: A Memoir* (New York: New Press, 1993).
 
 [^althusser-1993]: Althusser, Louis, *et al*., 1993. *Sur Althusser: Passages*, Paris: Éditions l’Harmattan.
 

@@ -345,7 +345,7 @@ Currently, the most active subjects of investigation in the domain of foundation
 
 ### 5.4 Mathematical Proof
 
-We know much about the concepts of *formal proof* and *formal provability*, their connection with algorithmic computability, and the principles by which these concepts are governed. We know, for instance, that the proofs of a formal system are computably enumerable, and that provability in a sound (strong enough) formal system is subject to Gödel’s incompleteness theorems. But a mathematical proof as you find it in a mathematical journal is not a formal proof in the sense of the logicians: it is a (rigorous) *informal proof* (Myhill 1960, Detlefsen 1992, Antonutti 2010)[^antonutti-2010][^detlefsen-1992][^myhill-1960].
+We know much about the concepts of *formal proof* and *formal provability*, their connection with algorithmic computability, and the principles by which these concepts are governed. We know, for instance, that the proofs of a formal system are computably enumerable, and that provability in a sound (strong enough) formal system is subject to Gödel’s incompleteness theorems. But a mathematical proof as you find it in a mathematical journal is not a formal proof in the sense of the logicians: it is a (rigorous) *informal proof* (Myhill 1960, Detlefsen 1992, Antonutti 2010)[^antonutti-2010][^myhill-1960].
 
 First, whereas the collection of sentences provable in a formal system is always computably enumerable, we know much less about the *extension* of the concept of informal provability. Lucas (Lucas 1961)[^lucas-1961], and later Penrose (Penrose 1989, 1994)[^penrose-1989][^penrose-1994], have argued that informal mathematical provability outstrips provability in any given formal system. But their arguments are widely regarded as unpersuasive. Benacerraf has argued against Lucas and Penrose that it cannot be excluded that there is a formal system $T$ such that in fact mathematical provability extensionally coincides with provability in $T$, even though we cannot know that it does (Benacerraf 1967)[^benacerraf-1967]. Others have argued that the concept of informal mathematical provability is not even clear enough for the question whether its extension is computably enumerable to have a definite answer (Horsten & Welch 2016)[^horsten-2016][^welch-2016].
 
@@ -450,7 +450,7 @@ Aristotle, Special Topics: mathematics | Brouwer, Luitzen Egbertus Jan | choice,
 
 [^detlefsen-1986]: Detlefsen, M., 1986. *Hilbert’s Program*, Dordrecht: Reidel.
 
-[^detlefsen-1992]: –– (ed), 1992. *Proof, logic and formalisation*, London: Routledge.
+[^philosophy-mathematics-1992]: –– (ed), 1992. *Proof, logic and formalisation*, London: Routledge.
 
 [^deutsch-2000]: Deutsch, D., Ekert, A. & Luppacchini, R., 2000. ‘Machines, Logic and Quantum Physics’, *Bulletin of Symbolic Logic*, 6: 265–283.
 

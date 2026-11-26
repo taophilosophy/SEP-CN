@@ -69,7 +69,7 @@ The description preceding the quotation begins (82.20) with a passage on the fir
 
 The second half of the book, the author tells us, was about the number 10. Unfortunately, the description of that half of the book that precedes the quotation contains wording which it seems impossible to ascribe to Speusippus. The author tells us that Speusippus showed that the number 10 was:
 
-> a sort of artistic form for the cosmic accomplishments, obtaining in its own right (and not because we use it nor as it happens), and lying before the god that is maker of the all as an all-complete paradigm. (*DCMS* 1975a,b: 83.2–5; translation by Waterfield 1988: 112)[^dcms-1975a][^waterfield-1988]
+> a sort of artistic form for the cosmic accomplishments, obtaining in its own right (and not because we use it nor as it happens), and lying before the god that is maker of the all as an all-complete paradigm. (*DCMS* 1975a,b: 83.2–5; translation by Waterfield 1988: 112)[^waterfield-1988]
 
 The trouble is that we have already got Speusippus rejecting the Theory of Forms, and in particular denying that aspect of the Theory in which the forms are treated as ‘paradigms’: ideal cases that transmit their properties to things that participate in them.
 
@@ -235,41 +235,41 @@ For the update in August 2024, Giulia De Cesaris was primarily responsible for t
 
 [^euclid-nd]: Euclid, *Elements*. Modern editions:
 
-[^euclid-1926]: 1926, *Euclid: The Thirteen Books of the Elements*, vol. ii, Thomas L. Heath (trans/ed.), Cambridge: Cambridge University Press.
+[^speusippus-1926]: 1926, *Euclid: The Thirteen Books of the Elements*, vol. ii, Thomas L. Heath (trans/ed.), Cambridge: Cambridge University Press.
 
-[^euclid-1970]: 1970, *Euclidis Elementa*, vol. ii, J. L. Heiberg (ed.), E.S. Stamatis (ed.), Leipzig: B.G. Teubner.
+[^speusippus-1970]: 1970, *Euclidis Elementa*, vol. ii, J. L. Heiberg (ed.), E.S. Stamatis (ed.), Leipzig: B.G. Teubner.
 
 [^gellius-nd]: Gellius, Aulus, *Atticae noctes*. Modern editions:
 
-[^gellius-1927]: 1927, *Attic Nights, Books VI–XIII* (Loeb Classical Library 200), Jeffrey Henderson (ed.), John C. Rolfe (trans.), Cambridge, MA: Harvard University Press. Latin with facing English translation.
+[^speusippus-1927]: 1927, *Attic Nights, Books VI–XIII* (Loeb Classical Library 200), Jeffrey Henderson (ed.), John C. Rolfe (trans.), Cambridge, MA: Harvard University Press. Latin with facing English translation.
 
-[^gellius-1968]: 1968, *A. Gellii Noctes Atticae* (Scriptorum Classicorum Bibliotheca Oxoniensis), Peter K. Marshall (ed.), Oxford: Clarendon Press.
+[^speusippus-1968]: 1968, *A. Gellii Noctes Atticae* (Scriptorum Classicorum Bibliotheca Oxoniensis), Peter K. Marshall (ed.), Oxford: Clarendon Press.
 
 [^dcms-nd]: [DCMS] Iamblichus, *De communi mathematica scientia* (*On Mathematical Science in General*). Modern editions:
 
-[^dcms-1975a]: 1975a, V. De Falco (ed.), *[Iamblichus:] Theologumena arithmeticae*, U. Klein (ed.), Stuttgart: B.G. Teubner.
+[^speusippus-1975a]: 1975a, V. De Falco (ed.), *[Iamblichus:] Theologumena arithmeticae*, U. Klein (ed.), Stuttgart: B.G. Teubner.
 
-[^dcms-1975b]: 1975b, N. Festa (ed.), *Iamblichus: De communi mathematica scientia*, U. Klein (ed.), Stuttgart: B.G. Teubner.
+[^speusippus-1975b]: 1975b, N. Festa (ed.), *Iamblichus: De communi mathematica scientia*, U. Klein (ed.), Stuttgart: B.G. Teubner.
 
 [^nicomachus-nd]: Nicomachus of Gerasa, *Introductio arithmeticae*. Modern editions:
 
-[^nicomachus-1866]: 1866, *Nicomachi Geraseni Pythagorei Introductionis arithmeticae libri II*, Ricardus Hoche (ed.), Leipzig: B.G. Teubner.
+[^speusippus-1866]: 1866, *Nicomachi Geraseni Pythagorei Introductionis arithmeticae libri II*, Ricardus Hoche (ed.), Leipzig: B.G. Teubner.
 
-[^nicomachus-1926]: 1926, *Nicomachus of Gerasa: Introduction to Arithmetic*, Martin Luther D’Ooge (trans.), New York & London: Macmillan.
+[^speusippus-1926-2]: 1926, *Nicomachus of Gerasa: Introduction to Arithmetic*, Martin Luther D’Ooge (trans.), New York & London: Macmillan.
 
 [^plutarch-1976]: Plutarch, *De communibus notitiis adversus Stoicos* (Against the Stoics on Common Conceptions). Modern edition in *Plutarch’s Moralia, XIII: II* (Loeb Classical Library 470), Harold Cherniss (trans.), Cambridge, MA/London: Harvard University Press, 1976. Greek with facing English translation.
 
 [^proclus-nd]: Proclus, *Eis prōton Eukleidou stoicheiōn biblon* (*Commentary on Book I of Euclid’s Elements*). Modern editions:
 
-[^proclus-1873]: 1873, *Procli Diadochi in primum Euclidis Elementorum commentarii*, Gottfried Friedlein (ed.), Leipzig: B.G. Teubner.
+[^speusippus-1873]: 1873, *Procli Diadochi in primum Euclidis Elementorum commentarii*, Gottfried Friedlein (ed.), Leipzig: B.G. Teubner.
 
-[^proclus-1970]: 1970, *Proclus: A Commentary on the First Book of Euclid’s Elements*, Glenn R. Morrow (trans./ed.), Princeton, NJ: Princeton University Press.
+[^speusippus-1970-2]: 1970, *Proclus: A Commentary on the First Book of Euclid’s Elements*, Glenn R. Morrow (trans./ed.), Princeton, NJ: Princeton University Press.
 
 [^seneca-nd]: Seneca, Lucius Annaeus, *Ad Lucilium Epistulae morales*. Modern editions:
 
-[^seneca-1920]: 1920, *Epistles 2: 66–92* (Loeb classical library 76), Richard M. Gummere (trans.), London/New York: W. Heinemann/G.P. Putnam’s Sons. Latin with facing English translation.
+[^speusippus-1920]: 1920, *Epistles 2: 66–92* (Loeb classical library 76), Richard M. Gummere (trans.), London/New York: W. Heinemann/G.P. Putnam’s Sons. Latin with facing English translation.
 
-[^seneca-1965]: 1965, *L. Annaei Senecae: Ad Lucilium Epistulae Morales*, 2 volumes, L. D. Reynolds (ed.), Oxford: Clarendon Press. Latin text.
+[^speusippus-1965]: 1965, *L. Annaei Senecae: Ad Lucilium Epistulae Morales*, 2 volumes, L. D. Reynolds (ed.), Oxford: Clarendon Press. Latin text.
 
 [^sextus-1935]: Sextus Empiricus, *Adversus mathematicos*. Modern edition: *Sextus Empiricus, Volume 2: Against the Logicians* (Loeb Classical Library 291), R. G. Bury (trans.), Cambridge, MA: Harvard University Press; London: William Heinemann Ltd, 1935. Greek with facing English translation.
 
@@ -315,9 +315,9 @@ For the update in August 2024, Giulia De Cesaris was primarily responsible for t
 
 [^diogenes-nd]: Diogenes Laertius, *Lives of Eminent Philosophers*, citations are by book and chapter. Modern Editions:
 
-[^diogenes-1925]: 1925, *Diogenes Laertius: Lives of Eminent Philosophers* (Loeb Classical Library, 184, 185), 2 vols., R. D. Hicks(trans.), Cambridge, MA: Harvard University Press; London: William Heinemann Ltd. Greek with facing English translation.
+[^speusippus-1925]: 1925, *Diogenes Laertius: Lives of Eminent Philosophers* (Loeb Classical Library, 184, 185), 2 vols., R. D. Hicks(trans.), Cambridge, MA: Harvard University Press; London: William Heinemann Ltd. Greek with facing English translation.
 
-[^diogenes-1999]: 1999, *Diogenis Laertii Vitae philosophorum*, 2 vols., Miroslav Marcovich (ed.), Stuttgart & Leipzig: B.G. Teubner.
+[^speusippus-1999]: 1999, *Diogenis Laertii Vitae philosophorum*, 2 vols., Miroslav Marcovich (ed.), Stuttgart & Leipzig: B.G. Teubner.
 
 [^dodds-1928]: Dodds, E. R., 1928, “The Parmenides of Plato and the Origin of the Neoplatonic ‘One’”, *The Classical Quarterly*, 22(3–4): 129–142. doi:10.1017/S0009838800029591
 

@@ -333,65 +333,65 @@ We are grateful to Dagfinn Føllesdal, Andrew Lugg, and Ed Zalta for their comme
 
 [^see-1986]: See also the bibliography in Edwin Hahn and Paul Arthur Schilpp (eds.), 1986, *The Philosophy of W. V. Quine*, Peru, IL: Open Court; second, expanded edition, 1998, which is complete up to 1997.
 
-[^text-1951]: 1951, “Two Dogmas of Empiricism”, *Philosophical Review*, 60: 20–43; reprinted in *From a Logical Point of View*, pp. 20–46.
+[^quine-1951]: 1951, “Two Dogmas of Empiricism”, *Philosophical Review*, 60: 20–43; reprinted in *From a Logical Point of View*, pp. 20–46.
 
-[^text-1953]: 1953, *From a Logical Point of View*, Cambridge, Mass.: Harvard University Press, 1953, revised edition 1980.
+[^quine-1953]: 1953, *From a Logical Point of View*, Cambridge, Mass.: Harvard University Press, 1953, revised edition 1980.
 
-[^text-1957]: 1957, “The Scope and Language of Science”, *British Journal for the Philosophy of Science*, 8: 1–17; reprinted in Quine 1966. (Note: there is an earlier publication with what Quine describes as “a corrupt text” in Leary (ed.), *The Unity of Knowledge*, New York: Doubleday, 1955.)
+[^quine-1957]: 1957, “The Scope and Language of Science”, *British Journal for the Philosophy of Science*, 8: 1–17; reprinted in Quine 1966. (Note: there is an earlier publication with what Quine describes as “a corrupt text” in Leary (ed.), *The Unity of Knowledge*, New York: Doubleday, 1955.)
 
-[^text-1956]: 1956, “Quantifiers and Propositional Attitudes”, *Journal of Philosophy*, 53: 177–87.
+[^quine-1956]: 1956, “Quantifiers and Propositional Attitudes”, *Journal of Philosophy*, 53: 177–87.
 
-[^text-1960]: 1960, *Word and Object*, Cambridge, Mass.: M.I.T. Press, 1960.
+[^quine-1960]: 1960, *Word and Object*, Cambridge, Mass.: M.I.T. Press, 1960.
 
-[^text-1966]: 1966, *Ways of Paradox*, New York: Random House, 1966; second edition, enlarged, Cambridge: Harvard University Press, 1976.
+[^quine-1966]: 1966, *Ways of Paradox*, New York: Random House, 1966; second edition, enlarged, Cambridge: Harvard University Press, 1976.
 
-[^text-1969]: 1969, *Ontological Relativity and Other Essays*, New York: Columbia University Press, 1969.
+[^quine-1969]: 1969, *Ontological Relativity and Other Essays*, New York: Columbia University Press, 1969.
 
-[^text-1970]: 1970, “Reasons for the Indeterminacy of Translation”, *The Journal of Philosophy* 67: 178–83.
+[^quine-1970]: 1970, “Reasons for the Indeterminacy of Translation”, *The Journal of Philosophy* 67: 178–83.
 
-[^text-1974]: 1974, *Roots of Reference*, La Salle, Ill.: Open Court, 1974.
+[^quine-1974]: 1974, *Roots of Reference*, La Salle, Ill.: Open Court, 1974.
 
-[^text-1975a]: 1975a, “Empirically Equivalent Systems of the World”, *Erkenntnis*, 9: 313–28.
+[^quine-1975a]: 1975a, “Empirically Equivalent Systems of the World”, *Erkenntnis*, 9: 313–28.
 
-[^text-1975b]: 1975b, “The Nature of Natural Knowledge”, in S. Guttenplan (ed.), *Mind and Language*, Oxford: Oxford University Press, 1975, pp. 67–81.
+[^quine-1975b]: 1975b, “The Nature of Natural Knowledge”, in S. Guttenplan (ed.), *Mind and Language*, Oxford: Oxford University Press, 1975, pp. 67–81.
 
-[^text-1975c]: 1975c, “Mind and Verbal Dispositions”, in S. Guttenplan (ed.) *Mind and Language*, Oxford: Oxford University Press, 1975, pp. 83–95.
+[^quine-1975c]: 1975c, “Mind and Verbal Dispositions”, in S. Guttenplan (ed.) *Mind and Language*, Oxford: Oxford University Press, 1975, pp. 83–95.
 
-[^text-1976]: 1976, “Whither Physical Objects?”, *Boston Studies in Philosophy of Science*, 39: 497–504.
+[^quine-1976]: 1976, “Whither Physical Objects?”, *Boston Studies in Philosophy of Science*, 39: 497–504.
 
-[^text-1977]: 1977, “Intensions Revisited”, *Midwest Studies in Philosophy*, 2: 5–11.
+[^quine-1977]: 1977, “Intensions Revisited”, *Midwest Studies in Philosophy*, 2: 5–11.
 
-[^text-1981]: 1981, *Theories and Things*, Cambridge, MA: Harvard University Press, 1981.
+[^quine-1981]: 1981, *Theories and Things*, Cambridge, MA: Harvard University Press, 1981.
 
-[^text-1984]: 1984, “Relativism and Absolutism” *The Monist*, 67: 293–96.
+[^quine-1984]: 1984, “Relativism and Absolutism” *The Monist*, 67: 293–96.
 
-[^text-1986a]: 1986a, “Reply to Hilary Putnam” in Hahn and Schilpp (eds.), *The Philosophy of W. V. Quine*, pp. 427–31.
+[^quine-1986a]: 1986a, “Reply to Hilary Putnam” in Hahn and Schilpp (eds.), *The Philosophy of W. V. Quine*, pp. 427–31.
 
-[^text-1986b]: 1986b, “Reply to Roger F. Gibson Jr.” in Hahn and Schilpp (eds.), *The Philosophy of W. V. Quine*, pp. 684–85.
+[^quine-1986b]: 1986b, “Reply to Roger F. Gibson Jr.” in Hahn and Schilpp (eds.), *The Philosophy of W. V. Quine*, pp. 684–85.
 
-[^text-1986c]: 1986c, “Reply to John Woods” in Hahn and Schilpp (eds.), *The Philosophy of W. V. Quine*, pp. 726–28.
+[^quine-1986c]: 1986c, “Reply to John Woods” in Hahn and Schilpp (eds.), *The Philosophy of W. V. Quine*, pp. 726–28.
 
-[^text-1986d]: 1986d, “Reply to Paul A. Roth” in Hahn and Schilpp (eds.), *The Philosophy of W. V. Quine*, pp. 459–61.
+[^quine-1986d]: 1986d, “Reply to Paul A. Roth” in Hahn and Schilpp (eds.), *The Philosophy of W. V. Quine*, pp. 459–61.
 
-[^text-1986e]: 1986e, “Reply to Jaakko Hintikka” in Hahn and Schilpp (eds.), *The Philosophy of W. V. Quine*, pp. 227f.
+[^quine-1986e]: 1986e, “Reply to Jaakko Hintikka” in Hahn and Schilpp (eds.), *The Philosophy of W. V. Quine*, pp. 227f.
 
-[^text-1990a]: 1990a, *Pursuit of Truth*, Cambridge, MA: Harvard University Press, 1990; revised edition, 1992.
+[^quine-1990a]: 1990a, *Pursuit of Truth*, Cambridge, MA: Harvard University Press, 1990; revised edition, 1992.
 
-[^text-1990b]: 1990b, “Three Indeterminacies” in Barrett, Robert and Gibson, *Perspectives on Quine*, pp. 1–16.
+[^quine-1990b]: 1990b, “Three Indeterminacies” in Barrett, Robert and Gibson, *Perspectives on Quine*, pp. 1–16.
 
-[^text-1990c]: 1990c, “Comment on Parsons” in Barrett, Robert and Gibson, *Perspectives on Quine*, pp. 291–3.
+[^quine-1990c]: 1990c, “Comment on Parsons” in Barrett, Robert and Gibson, *Perspectives on Quine*, pp. 291–3.
 
-[^text-1990d]: 1990d, “Comment on Hintikka” in Barrett, Robert and Gibson, *Perspectives on Quine*, p. 176.
+[^quine-1990d]: 1990d, “Comment on Hintikka” in Barrett, Robert and Gibson, *Perspectives on Quine*, p. 176.
 
-[^text-1991]: 1991, “Two Dogmas in Retrospect”, *Canadian Journal of Philosophy*, 21: 265–74.
+[^quine-1991]: 1991, “Two Dogmas in Retrospect”, *Canadian Journal of Philosophy*, 21: 265–74.
 
-[^text-1995]: 1995, *From Stimulus to Science*, Cambridge, MA: Harvard University Press, 1995.
+[^quine-1995]: 1995, *From Stimulus to Science*, Cambridge, MA: Harvard University Press, 1995.
 
-[^text-1996]: 1996, “Progress on Two Fronts”, *Journal of Philosophy*, 93: 159–63,
+[^quine-1996]: 1996, “Progress on Two Fronts”, *Journal of Philosophy*, 93: 159–63,
 
-[^text-2000]: 2000, “I, You, and It”, in eds. Orenstein, Alex and Petr Kotatko, *Knowledge, Language and Logic*, Dordrecht, Holland: Kluwer Academic Publishers, 2000.
+[^quine-2000]: 2000, “I, You, and It”, in eds. Orenstein, Alex and Petr Kotatko, *Knowledge, Language and Logic*, Dordrecht, Holland: Kluwer Academic Publishers, 2000.
 
-[^text-2018]: 2018, *The Significance of the New Logic*, ed. and trans. by Walter Carnelli, Frederique Janssen-Lauret and William Pickering, Cambridge: Cambridge University Press.
+[^quine-2018]: 2018, *The Significance of the New Logic*, ed. and trans. by Walter Carnelli, Frederique Janssen-Lauret and William Pickering, Cambridge: Cambridge University Press.
 
 [^alston-1993]: Alston, William P., 1993, *The Reliability of Sense Perception*, Ithaca NY: Cornell University Press.
 

@@ -356,29 +356,29 @@ Aristotle | character, moral | egoism | ethics: virtue | friendship | Plato | pl
 
 [^nicomachean-nd]: *Nicomachean Ethics*
 
-[^nicomachean-2012]: 2012, *Aristotle’s Nicomachean Ethics*, Robert C. Bartlett, and Susan D. Collins (eds/trans.), Chicago: The University of Chicago Press.
+[^aristotle-ethics-2012]: 2012, *Aristotle’s Nicomachean Ethics*, Robert C. Bartlett, and Susan D. Collins (eds/trans.), Chicago: The University of Chicago Press.
 
-[^nicomachean-2000]: 2000, *Nicomachean Ethics*, Roger Crisp (ed./trans.), Cambridge: Cambridge University Press. doi:10.1017/CBO9780511802058
+[^aristotle-ethics-2000]: 2000, *Nicomachean Ethics*, Roger Crisp (ed./trans.), Cambridge: Cambridge University Press. doi:10.1017/CBO9780511802058
 
-[^nicomachean-1999]: 1999, *Nicomachean Ethics*, Terence H. Irwin (ed./trans.), Indianapolis: Hackett Publishing Co. With Introduction, Notes, and Glossary. Second edition.
+[^aristotle-ethics-1999]: 1999, *Nicomachean Ethics*, Terence H. Irwin (ed./trans.), Indianapolis: Hackett Publishing Co. With Introduction, Notes, and Glossary. Second edition.
 
-[^nicomachean-2014]: 2014, *Nicomachean Ethics*, C.D.C. Reeve, Indianapolis: Hackett Publishing Co.
+[^aristotle-ethics-2014]: 2014, *Nicomachean Ethics*, C.D.C. Reeve, Indianapolis: Hackett Publishing Co.
 
-[^nicomachean-1984]: 1984, *Nicomachean Ethics*, W.D. Ross (trans.), revised by J.O. Urmson, in *The Complete Works of Aristotle*, The Revised Oxford Translation, vol. 2, Jonathan Barnes (ed.), Princeton: Princeton University Press, 1984.
+[^aristotle-ethics-1984]: 1984, *Nicomachean Ethics*, W.D. Ross (trans.), revised by J.O. Urmson, in *The Complete Works of Aristotle*, The Revised Oxford Translation, vol. 2, Jonathan Barnes (ed.), Princeton: Princeton University Press, 1984.
 
-[^nicomachean-2002]: 2002, *Nicomachean Ethics*, Christopher Rowe (trans.), Oxford: Oxford University Press, With philosophical introduction and commentary by Sarah Broadie.
+[^aristotle-ethics-2002]: 2002, *Nicomachean Ethics*, Christopher Rowe (trans.), Oxford: Oxford University Press, With philosophical introduction and commentary by Sarah Broadie.
 
 [^eudemian-nd]: *Eudemian Ethics*
 
-[^eudemian-2013]: 2013, *Eudemian Ethics*, (Cambridge Texts in the History of Philosophy), Brad Inwood and Raphael Woolf (eds./trans.), Cambridge: Cambridge University Press. doi:10.1017/CBO9781139043281
+[^aristotle-ethics-2013]: 2013, *Eudemian Ethics*, (Cambridge Texts in the History of Philosophy), Brad Inwood and Raphael Woolf (eds./trans.), Cambridge: Cambridge University Press. doi:10.1017/CBO9781139043281
 
-[^eudemian-2011]: 2011, *Eudemian Ethics*, (Oxford World’s Classics), Anthony Kenny (ed./trans.), Oxford: Oxford University Press.
+[^aristotle-ethics-2011]: 2011, *Eudemian Ethics*, (Oxford World’s Classics), Anthony Kenny (ed./trans.), Oxford: Oxford University Press.
 
-[^eudemian-1984]: 1984, *Eudemian Ethics*, J. Solomon (trans.), in *The Complete Works of Aristotle*, The Revised Oxford Translation, volume 2, Jonathan Barnes (ed.), Princeton: Princeton University Press.
+[^aristotle-ethics-1984-2]: 1984, *Eudemian Ethics*, J. Solomon (trans.), in *The Complete Works of Aristotle*, The Revised Oxford Translation, volume 2, Jonathan Barnes (ed.), Princeton: Princeton University Press.
 
-[^eudemian-1952]: 1952, *Eudemian Ethics*, H. Rackham (trans.), in the Loeb Classical Library, Aristotle, vol. 20, Cambridge, MA: Harvard University Press.
+[^aristotle-ethics-1952]: 1952, *Eudemian Ethics*, H. Rackham (trans.), in the Loeb Classical Library, Aristotle, vol. 20, Cambridge, MA: Harvard University Press.
 
-[^eudemian-1992]: 1992, *Aristotle’s Eudemian Ethics: Books I, II, and VIII*, M.J. Woods (trans.), Second edition, Oxford: Clarendon Press.
+[^aristotle-ethics-1992]: 1992, *Aristotle’s Eudemian Ethics: Books I, II, and VIII*, M.J. Woods (trans.), Second edition, Oxford: Clarendon Press.
 
 [^annas-1977]: Annas, Julia, 1977, “Plato and Aristotle on Friendship and Altruism”, *Mind*, 86: 532–54. doi:10.1093/mind/LXXXVI.344.532
 

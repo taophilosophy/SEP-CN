@@ -485,7 +485,7 @@ We would like to acknowledge the help of the editors of the *Encyclopedia*, Jose
 
 [^moor-2001]: –––, 2001, “The Status and Future of the Turing Test,” *Minds and Machines*, 11: 77–93.
 
-[^moor-2003]: ___, ed., 2003 *The Turing Test: The Elusive Standard of Artificial Intelligence* Dordrecht: Springer.
+[^turing-test-2003]: ___, ed., 2003 *The Turing Test: The Elusive Standard of Artificial Intelligence* Dordrecht: Springer.
 
 [^neufeld-2020a]: Neufeld, E. and Finnestad, S., 2020a, “In Defense of the Turing Test,” *AI and Society* 35: 819–27.
 

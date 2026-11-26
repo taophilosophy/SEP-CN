@@ -322,23 +322,23 @@ In this coauthored entry, Section 1 (Biographical Sketch) was contributed by Jam
 
 [^for-2014]: For a complete list of the unpublished manuscripts by R. G. Collingwood, see Connelly, Johnson and Leach (eds.) 2014. The following is a very selective list of material which is still unpublished and is currently available in the Bodleian library.
 
-[^for-1919]: 1919 Lectures on the Ontological Proof of the Existence of God, Bodleian library, Collingwood dep. 2.
+[^collingwood-1919]: 1919 Lectures on the Ontological Proof of the Existence of God, Bodleian library, Collingwood dep. 2.
 
-[^for-1923]: 1923 Lectures on Moral Philosophy Collingwood dep 3.
+[^collingwood-1923]: 1923 Lectures on Moral Philosophy Collingwood dep 3.
 
-[^for-1928]: 1928? Commentary on the preface to the Critique of Pure Reason, Bodleian library, Collingwood dep. 22/4.
+[^collingwood-1928]: 1928? Commentary on the preface to the Critique of Pure Reason, Bodleian library, Collingwood dep. 22/4.
 
-[^for-1929]: 1929 Lectures on Moral Philosophy, Bodleian library, Collingwood dep. 10.
+[^collingwood-1929]: 1929 Lectures on Moral Philosophy, Bodleian library, Collingwood dep. 10.
 
-[^for-1932]: 1932 Lectures on Moral Philosophy, Bodleian library, Collingwood dep. 10.
+[^collingwood-1932]: 1932 Lectures on Moral Philosophy, Bodleian library, Collingwood dep. 10.
 
-[^for-1932-2]: 1932 ‘Utility, Right and Duty’, Bodleian Library, Collingwood dep. 6/3.
+[^collingwood-1932-2]: 1932 ‘Utility, Right and Duty’, Bodleian Library, Collingwood dep. 6/3.
 
-[^for-1933]: 1933 Lectures on Moral Philosophy, Bodleian library, Collingwood dep. 8.
+[^collingwood-1933]: 1933 Lectures on Moral Philosophy, Bodleian library, Collingwood dep. 8.
 
-[^for-1935]: 1935 The Central Problems of Metaphysics: Realism and Idealism, Bodleian library, Collingwood dep. 20/1.
+[^collingwood-1935]: 1935 The Central Problems of Metaphysics: Realism and Idealism, Bodleian library, Collingwood dep. 20/1.
 
-[^for-2000]: 2000 Hector, L.J. Correspondence with D. Boucher.
+[^collingwood-2000]: 2000 Hector, L.J. Correspondence with D. Boucher.
 
 [^boucher-1989]: Boucher, David, 1989, *The Social and Political Thought of R. G. Collingwood*, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511624698
 

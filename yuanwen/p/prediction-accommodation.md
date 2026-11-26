@@ -117,7 +117,7 @@ For critical discussion of Maher’s theory of predictivism see Howson and Frank
 
 ### 6.2 The Fudging Explanation
 
-It was noted above that ad hoc hypotheses stand under suspicion for various reasons, one of which was that a hypothesis that was proposed to resolve a particular difficulty may not cohere well with the theory it purports to save or relevant background beliefs.[^note-9] This could result from the fact that there is no obvious way to resolve the difficulty in a way that is wholly ‘natural’ from the standpoint of the theory itself or operative criteria of theory choice. For example, the phlogiston theory claimed that substances emitted phlogiston while burning. However, it was established that some substances actually gained weight while burning. To accommodate the latter phenomenon it was proposed that phlogiston had negative weight—but the latter hypothesis was clearly ad hoc in the sense of failing to cohere with the background belief that substances simply do not have negative weight, and with the knowledge that many objects lost weight when burned (Partington & McKie 1938a: 33–38)[^partington-1938a].
+It was noted above that ad hoc hypotheses stand under suspicion for various reasons, one of which was that a hypothesis that was proposed to resolve a particular difficulty may not cohere well with the theory it purports to save or relevant background beliefs.[^note-9] This could result from the fact that there is no obvious way to resolve the difficulty in a way that is wholly ‘natural’ from the standpoint of the theory itself or operative criteria of theory choice. For example, the phlogiston theory claimed that substances emitted phlogiston while burning. However, it was established that some substances actually gained weight while burning. To accommodate the latter phenomenon it was proposed that phlogiston had negative weight—but the latter hypothesis was clearly ad hoc in the sense of failing to cohere with the background belief that substances simply do not have negative weight, and with the knowledge that many objects lost weight when burned (Partington & McKie 1938a: 33–38).
 
 Thus the ‘fudging explanation’ defends predictivism by pointing out that the process of accommodation lends itself to the proposal of hypotheses that do not cohere naturally with operative constraints on theory choice, while successful predictions are immune from this worry (Lipton 1990, 1991: Ch. 8)[^lipton-1990][^lipton-1991]. Of course, it is an important question whether scientists actually rely on the fact that evidence was predicted (or accommodated) in their assessment of theories—if a theory was fudged to accommodate some datum, couldn’t the scientist simply note that the fudged theory suffers a defect of coherence and pay no attention to whether the data was accommodated or predicted? Some argue, however that scientists are imperfect judges of such coherence—a scientist who accommodates some datum may think his accommodation is fully coherent, while his peers may have a more accurate and objective view that it is not. The scientist’s ‘assessed support’ of his proposed accommodation may thus fail to coincide with its ‘objective support’, and the scientist might rely on the fact that his evidence was accommodated as evidence that it was fudged (or conversely, that his evidence was predicted as evidence that it was not fudged; Lipton 1991: 150f)[^lipton-1991].
 
@@ -549,11 +549,11 @@ confirmation | epistemology: Bayesian | Lakatos, Imre | Mill, John Stuart | Popp
 
 [^partington-1937]: Partington, J.R. and Douglas McKie, 1937–38, “Historical Studies on the Phlogiston Theory”, *Annals of Science*,
 
-[^partington-1937-2]: 1937, “I. The Levity of Phlogiston”, 2(4): 361–404, doi:10.1080/00033793700200691
+[^prediction-accommodation-1937]: 1937, “I. The Levity of Phlogiston”, 2(4): 361–404, doi:10.1080/00033793700200691
 
-[^partington-1938a]: 1938a, “II. The Negative Weight of Phlogiston”, 3(1): 1–58, doi:10.1080/00033793800200781
+[^prediction-accommodation-1938a]: 1938a, “II. The Negative Weight of Phlogiston”, 3(1): 1–58, doi:10.1080/00033793800200781
 
-[^partington-1938b]: 1938b, “III. Light and Heat in Combustion”, 3(4): 337–371, doi:10.1080/00033793800200951
+[^prediction-accommodation-1938b]: 1938b, “III. Light and Heat in Combustion”, 3(4): 337–371, doi:10.1080/00033793800200951
 
 [^peterson-2019]: Peterson, Clayton, 2019, “Accommodation, Prediction, and Replication: Model Selection in Scale Construction”, *Synthese*, 196: 4329–4350.
 

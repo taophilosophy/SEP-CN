@@ -601,9 +601,9 @@ The SEP editors would like to thank Dilek Huseyinzadegan, Jana McAuliffe, Tamsin
 
 [^holland-2001]: Holland, Nancy J. and Patricia Huntington (ed.), 2001, *Feminist Interpretations of Martin Heidegger*, University Park, PA: Pennsylvania University Press.
 
-[^holland-2000]: hooks, bell, 2000, *Feminist Theory: from Margin to Center*, Boston, MA: South End Press.
+[^femapproach-continental-2000]: hooks, bell, 2000, *Feminist Theory: from Margin to Center*, Boston, MA: South End Press.
 
-[^holland-2014]: –––, 2014, *Ain’t I a Woman: Black Women and Feminism*, New York: Routledge.
+[^femapproach-continental-2014]: –––, 2014, *Ain’t I a Woman: Black Women and Feminism*, New York: Routledge.
 
 [^hua-2005]: Hua, Anh, 2005, “Diaspora and Cultural Memory”, in *Diaspora, Memory, and Identity: A Search for Home*, Vijay Agnew (ed.), Toronto: University of Toronto Press, pp. 171–86.
 

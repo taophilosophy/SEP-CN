@@ -37,4 +37,4 @@ Therefore, from (9) and (10):
 
 This alternative formulation seems to me preferable. But it does require quantifiers that range over both individuals and types of states of affairs.
 
-[^note-alternate]
+[Return to Footnote 2 to The Problem of Evil](notes.html#note-alternate)

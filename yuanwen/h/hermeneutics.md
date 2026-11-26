@@ -489,7 +489,7 @@ The author wishes to thank David Liakos, co-author of Liakos and George 2019, fo
 
 [^thucydides-1972]: Thucydides, *History of the Peloponnesian War*, cited in Thucydides, 1972, *History of the Peloponnesian War*, London: Penguin Classics.
 
-[^thucydides-2020]: “tradition, n,” 2020, *OED Online*, Oxford University Press, https://www-oed-com.srv-proxy1.library.tamu.edu/view/Entry/204302?rskey=6BvQhT&result=1&isAdvanced=false (accessed August 02, 2020).
+[^hermeneutics-2020]: “tradition, n,” 2020, *OED Online*, Oxford University Press, https://www-oed-com.srv-proxy1.library.tamu.edu/view/Entry/204302?rskey=6BvQhT&result=1&isAdvanced=false (accessed August 02, 2020).
 
 [^tatjana-2024]: Tatjana Tömmel and Maurizio Passerin d’Entreves, 2024, “Hannah Arent,” in *The Stanford Encylcopedia of Philosophy* (Summer 2024), edited by Edward N. Zalta and Uri Nodelman. URL = [https://plato.stanford.edu/archives/sum2024/entries/arendt/](https://plato.stanford.edu/archives/sum2024/entries/arendt/).
 

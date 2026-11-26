@@ -544,7 +544,7 @@ ambiguity | existentialism | feminist philosophy | feminist philosophy, approach
 
 [^holveck-2002]: Holveck, Eleanore, 2002, *Simone de Beauvoir’s Philosophy of Lived Experience: Literature and Metaphysics*, Lanham, MD: Rowman and Littlefield Publishers.
 
-[^holveck-2012]: hooks, bell, 2012, “True Philosophers: Beauvoir and bell”, in *Beauvoir and Western Thought from Plato to Butler*, Shannon M. Mussett and William S. Wilkerson (eds.), Albany, NY: State University of New York Press, 227–236.
+[^beauvoir-2012-2]: hooks, bell, 2012, “True Philosophers: Beauvoir and bell”, in *Beauvoir and Western Thought from Plato to Butler*, Shannon M. Mussett and William S. Wilkerson (eds.), Albany, NY: State University of New York Press, 227–236.
 
 [^hutchings-2007]: Hutchings, Kimberly, 2007, “Simone de Beauvoir and the Ambiguous Ethics of Political Violence”, *Hypatia*, 22(3): 111–132. doi:10.1111/j.1527-2001.2007.tb01093.x
 

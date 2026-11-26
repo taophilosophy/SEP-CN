@@ -151,7 +151,7 @@ The most fundamental level on which Lukács develops his revised model of Hegeli
 
 While this general ontology remains underdeveloped and is not informed by much knowledge of concurrent philosophical developments, Lukács’s theory of social reality has contemporary relevance. Social reality, Lukács claims, differs from the other levels of reality not only insofar as it is governed by causal, non-teleological laws but also insofar as it contains an element of *teleology* as a result of “teleological positing” (*GW* 13: 20; 1971c: 12ff.). Due to their ability to perform labor, humans can “posit” functions or goals that are to govern the natural, causal processes they manipulate. By choosing one of the potential results of the employment of their natural and technological capacities as the correct one, individuals can draw a distinction between successful and unsuccessful executions of their intended actions in labor. This, Lukács argues, introduces normative distinctions or values into the world (see 1971b: 75f and 153–156; 1968: 140). In particular, Lukács claims that the objectification of human intentions in institutions enables us to understand the existence of objective values as products of social-historical developments without sliding into historical relativism. However, as some of his own students noted, this explanation remains too unclear to solve the problem of normativity for Marxism (see Fehér et al., 1976)[^fehér-1976]. The same doubts remain with regard to Lukács’s further claim that there is one fundamental, immanent value of social history, namely the unfettered development of human capacities (*GW* 14: 153).
 
-Because Lukács sees the process of labor as the foundation of all social and normative phenomena (see also 1971c: 65; Thompson 2011)[^thompson-2011], the totality of society can be described as the totality of all relations between the teleological acts of “positing” conditions of success in labor. However, even though Lukács thus acknowledges intentional consciousness as an irreducible factor in these acts (see Lukács 1968: 138)[^lukács-1968][^lukács-1968-2], their meaning is ultimately determined by the objective, historical development of social relations.
+Because Lukács sees the process of labor as the foundation of all social and normative phenomena (see also 1971c: 65; Thompson 2011)[^thompson-2011], the totality of society can be described as the totality of all relations between the teleological acts of “positing” conditions of success in labor. However, even though Lukács thus acknowledges intentional consciousness as an irreducible factor in these acts (see Lukács 1968: 138)[^lukács-1968], their meaning is ultimately determined by the objective, historical development of social relations.
 
 From these ontological commitments it follows that intentionality, which guides individual acts of labor, is a condition for the existence of the totality of social facts, and *vice versa* (see Tertullian 1988). In particular, he describes language and institutions as media of “indirect” teleological positing because they enable forms of action that do not directly modify nature but that indirectly aspire to bring others to do so (*GW* 14: 172; 1968: 142). Although he remains committed to the primacy of labor, Lukács allows that these linguistic and institutional mediations acquire a dynamic of their own over time, becoming independent of the goal of dominating nature, in particular because they allow for a generalization of the cognitive grasping of particular phenomena (see *GW* 13: 47; *GW* 14: 165ff, 342–357) and for greater distance between subject and object (1971c: 100).
 
@@ -171,7 +171,7 @@ Lukács makes a similar conceptual move by endorsing the claim that all consciou
 
 At this point, Lukács no longer derives his aesthetic commitments from purely philosophical premises—as he did in his early Heidelberg writings—instead building on anthropological premises (especially concerning the concept of everyday life, in regard to which he notes the similarity between his analysis and Heidegger’s notion of practical engagement; see *GW* 11: 68–71; for related points on the *Ontology* see Joós 1982)[^joós-1982], psychological theorizing (proposing an extension of Pavlov’s behaviorist classification of signal systems; see *GW* 12: 11–191), and a speculative notion of world history. The most important concept binding these premises together is the idea of *mimesis*. Mimetic behavior, Lukács argues, is a fundamental way of coping with the world and a source of both magic and art. Through the mimetic imitation of natural processes, humans acquire the ability to represent the salient aspects of the world in a closed and totalizing manner, gradually learning to separate such imitations from the necessity of immediate reaction. In contrast to magic, which does not separate reflection and objective causation, mimesis in art is consciously taken as reflection and has an aesthetic effect on its audience specifically in virtue of this feature (*GW* 11: 382). In other words, while both art and science overcome the superstition of magic, only art can retain the mimetic dimension of representation.
 
-Lukács’s commitment to a conception of the work of art as a closed totality structured by the strict laws of its medium and objectively reflecting the development of humanity in the mode of mimetic evocation had considerable implications for his own judgments as an aesthetic theorist. His writings on literary realism published from the 1930s to the 1950s—especially “Realism in the Balance” (1938), *The Historical Novel* (1955), and *The Meaning of Contemporary Realism* (1955)—display to various degrees a mixture of philosophical insight and Stalinist orthodoxy. In any case, they are animated by a strong commitment to the superiority of realism, as exemplified by Balzac, Tolstoy, Gorky (see *GW* 5), and Thomas Mann (see 1949), which he contrasts with the “decadent” avant-garde literature of his time. This position drew sharp criticism, for example from Seghers, Brecht, and Adorno (see Lukács 1981; Brecht 1977; Adorno [1958] 1977; on the Lukács-Brecht debate, see Pike 1985)[^lukács-1981][^brecht-1977][^pike-1985].
+Lukács’s commitment to a conception of the work of art as a closed totality structured by the strict laws of its medium and objectively reflecting the development of humanity in the mode of mimetic evocation had considerable implications for his own judgments as an aesthetic theorist. His writings on literary realism published from the 1930s to the 1950s—especially “Realism in the Balance” (1938), *The Historical Novel* (1955), and *The Meaning of Contemporary Realism* (1955)—display to various degrees a mixture of philosophical insight and Stalinist orthodoxy. In any case, they are animated by a strong commitment to the superiority of realism, as exemplified by Balzac, Tolstoy, Gorky (see *GW* 5), and Thomas Mann (see 1949), which he contrasts with the “decadent” avant-garde literature of his time. This position drew sharp criticism, for example from Seghers, Brecht, and Adorno (see Lukács 1981; Brecht 1977; Adorno [1958] 1977; on the Lukács-Brecht debate, see Pike 1985)[^brecht-1977][^pike-1985].
 
 However, to the extent that Lukács’s commitment to realism reflects a commitment to the notion that works of art should present a totality of meaning that is not alien to the life of individuals but rather overcomes the alienation they suffer in everyday life, it expresses (even in its most distorted versions) an intuition that sustained his work from the beginning: a desire to overcome the tension between human life and the objective social forms that constitute modern society.
 
@@ -213,79 +213,79 @@ feminist philosophy, interventions: epistemology and philosophy of science | Fic
 
 [^lukács-1968]: Lukács, Georg, 1968–1981, *Gesammelte Werke,* Darmstadt: Luchterhand (cited as *GW*).
 
-[^lukács-1908]: 1908, “On the Romantic Philosophy of Life. Novalis,” in *Soul and Form*, A. Bostock (trans.), Cambridge, MA: MIT Press, 1971, pp. 42–54.
+[^lukacs-1908]: 1908, “On the Romantic Philosophy of Life. Novalis,” in *Soul and Form*, A. Bostock (trans.), Cambridge, MA: MIT Press, 1971, pp. 42–54.
 
-[^lukács-1909]: 1909, *The Sociology of Modern Drama*, Oshkosh, WI: Green Mountain Editions, 1965 (A chapter from Lukács’ dissertation which is published in its entirety in *GW* 15).
+[^lukacs-1909]: 1909, *The Sociology of Modern Drama*, Oshkosh, WI: Green Mountain Editions, 1965 (A chapter from Lukács’ dissertation which is published in its entirety in *GW* 15).
 
-[^lukács-1910a]: 1910a, “The Bourgeois Way of Life and Art for Art’s Sake. Theodor Storm,” in *Soul and Form*, A. Bostock (trans.), Cambridge, MA: MIT Press, 1971, pp. 55–78.
+[^lukacs-1910a]: 1910a, “The Bourgeois Way of Life and Art for Art’s Sake. Theodor Storm,” in *Soul and Form*, A. Bostock (trans.), Cambridge, MA: MIT Press, 1971, pp. 55–78.
 
-[^lukács-1910b]: 1910b, “The Metaphysics of Tragedy. Paul Ernst,” in *Soul and Form*, A. Bostock (trans.), Cambridge, MA: MIT Press, 1971, pp. 152–174.
+[^lukacs-1910b]: 1910b, “The Metaphysics of Tragedy. Paul Ernst,” in *Soul and Form*, A. Bostock (trans.), Cambridge, MA: MIT Press, 1971, pp. 152–174.
 
-[^lukács-1910c]: 1910c, “The Foundering of Form against Life. Sören Kierkegaard and Regine Olsen,” in *Soul and Form*, A. Bostock (trans.), Cambridge, MA: MIT Press, 1971, pp. 28–41.
+[^lukacs-1910c]: 1910c, “The Foundering of Form against Life. Sören Kierkegaard and Regine Olsen,” in *Soul and Form*, A. Bostock (trans.), Cambridge, MA: MIT Press, 1971, pp. 28–41.
 
-[^lukács-1911a]: 1911a, “On the Nature and Form of the Essay,” in *Soul and Form*, A. Bostock (trans.), Cambridge, MA: MIT Press, 1971, pp. 1–18.
+[^lukacs-1911a]: 1911a, “On the Nature and Form of the Essay,” in *Soul and Form*, A. Bostock (trans.), Cambridge, MA: MIT Press, 1971, pp. 1–18.
 
-[^lukács-1911b]: 1911b, “On Poverty of Spirit,” in *The Lukács Reader*, A. Kadarkay (ed.), Cambridge, MA: Blackwell, 1995, pp. 42–56.
+[^lukacs-1911b]: 1911b, “On Poverty of Spirit,” in *The Lukács Reader*, A. Kadarkay (ed.), Cambridge, MA: Blackwell, 1995, pp. 42–56.
 
-[^lukács-1916]: 1916, *The Theory of the Novel*, A. Bostock (trans.), London: Merlin, 1971.
+[^lukacs-1916]: 1916, *The Theory of the Novel*, A. Bostock (trans.), London: Merlin, 1971.
 
-[^lukács-1918]: 1918, “Bolshevism as an Ethical Problem,” in *The Lukács Reader*, A. Kadarkay (ed.), Cambridge, MA: Blackwell, 1995, pp. 216–221.
+[^lukacs-1918]: 1918, “Bolshevism as an Ethical Problem,” in *The Lukács Reader*, A. Kadarkay (ed.), Cambridge, MA: Blackwell, 1995, pp. 216–221.
 
-[^lukács-1919a]: 1919a, “Tactics and Ethics,” in *Tactics and Ethics, Political Writings 1919–1929*, R. Livingstone (ed.), London: NLB, 1972, pp. 3–11.
+[^lukacs-1919a]: 1919a, “Tactics and Ethics,” in *Tactics and Ethics, Political Writings 1919–1929*, R. Livingstone (ed.), London: NLB, 1972, pp. 3–11.
 
-[^lukács-1919b]: 1919b, “What is Orthodox Marxism?,” in *History and Class Consciousness*, R. Livingstone (trans.), Cambridge, MA: MIT Press, 1971, pp. 1–26.
+[^lukacs-1919b]: 1919b, “What is Orthodox Marxism?,” in *History and Class Consciousness*, R. Livingstone (trans.), Cambridge, MA: MIT Press, 1971, pp. 1–26.
 
-[^lukács-1920a]: 1920a, “Class Consciousness,” in *History and Class Consciousness*, R. Livingstone (trans.), Cambridge, MA: MIT Press, 1971, pp. 46–82.
+[^lukacs-1920a]: 1920a, “Class Consciousness,” in *History and Class Consciousness*, R. Livingstone (trans.), Cambridge, MA: MIT Press, 1971, pp. 46–82.
 
-[^lukács-1920b]: 1920b, “The Moral Mission of the Communist Party,” in *Tactics and Ethics, Political Writings 1919–1929*, R. Livingstone (ed.), London: NLB, 1972, pp. 64–70.
+[^lukacs-1920b]: 1920b, “The Moral Mission of the Communist Party,” in *Tactics and Ethics, Political Writings 1919–1929*, R. Livingstone (ed.), London: NLB, 1972, pp. 64–70.
 
-[^lukács-1921]: 1921, “The Marxism of Rosa Luxemburg,” in *History and Class Consciousness*, R. Livingstone (trans.), Cambridge, MA: MIT Press, 1971, pp. 27–45.
+[^lukacs-1921]: 1921, “The Marxism of Rosa Luxemburg,” in *History and Class Consciousness*, R. Livingstone (trans.), Cambridge, MA: MIT Press, 1971, pp. 27–45.
 
-[^lukács-1923a]: 1923a, “Reification and the Consciousness of the Proletariat,” in *History and Class Consciousness*, Rodney Livingstone (trans.), Cambridge, MA: MIT Press, 1971, pp. 83–222.
+[^lukacs-1923a]: 1923a, “Reification and the Consciousness of the Proletariat,” in *History and Class Consciousness*, Rodney Livingstone (trans.), Cambridge, MA: MIT Press, 1971, pp. 83–222.
 
-[^lukács-1923b]: 1923b, “Towards a Methodology of the Problem of Organisation,” in *History and Class Consciousness*, R. Livingstone (trans.), Cambridge, MA: MIT Press, 1971, pp. 294–342.
+[^lukacs-1923b]: 1923b, “Towards a Methodology of the Problem of Organisation,” in *History and Class Consciousness*, R. Livingstone (trans.), Cambridge, MA: MIT Press, 1971, pp. 294–342.
 
-[^lukács-1924]: 1924, *Lenin: A Study on the Unity of his Thought*, Nicholas Jacobs (trans.), Cambridge, MA: MIT Press, 1971.
+[^lukacs-1924]: 1924, *Lenin: A Study on the Unity of his Thought*, Nicholas Jacobs (trans.), Cambridge, MA: MIT Press, 1971.
 
-[^lukács-1925a]: 1925a, *A Defence of History and Class Consciousness: Tailism and the Dialectics*, S. Žižek (ed.) and E. Leslie (trans.), London: Verso, 2000.
+[^lukacs-1925a]: 1925a, *A Defence of History and Class Consciousness: Tailism and the Dialectics*, S. Žižek (ed.) and E. Leslie (trans.), London: Verso, 2000.
 
-[^lukács-1925b]: 1925b, “The New Edition of Lasalle’s Letters,” in *Tactics and Ethics, Political Writings 1919–1929*, R. Livingstone (ed.), London: NLB, 1972, pp. 147–177.
+[^lukacs-1925b]: 1925b, “The New Edition of Lasalle’s Letters,” in *Tactics and Ethics, Political Writings 1919–1929*, R. Livingstone (ed.), London: NLB, 1972, pp. 147–177.
 
-[^lukács-1926]: 1926, “Moses Hess and the Problems of Idealist Dialectics,” in *Tactics and Ethics, Political Writings 1919–1929*, R. Livingstone (ed.), London: NLB, 1972, pp. 181–223.
+[^lukacs-1926]: 1926, “Moses Hess and the Problems of Idealist Dialectics,” in *Tactics and Ethics, Political Writings 1919–1929*, R. Livingstone (ed.), London: NLB, 1972, pp. 181–223.
 
-[^lukács-1928]: 1928, “Blum Theses,” in *Tactics and Ethics, Political Writings 1919–1929*, R. Livingstone (ed.), London: NLB, 1972, pp. 227–253.
+[^lukacs-1928]: 1928, “Blum Theses,” in *Tactics and Ethics, Political Writings 1919–1929*, R. Livingstone (ed.), London: NLB, 1972, pp. 227–253.
 
-[^lukács-1933a]: 1933a, *Wie ist die faschistische Philosophie in Deutschland entstanden?*, L. Sziklai (ed.), Budapest: Akadémiai Kiad, 1982.
+[^lukacs-1933a]: 1933a, *Wie ist die faschistische Philosophie in Deutschland entstanden?*, L. Sziklai (ed.), Budapest: Akadémiai Kiad, 1982.
 
-[^lukács-1933b]: 1933b, “Mein Weg zu Marx,” *Internationale Literatur*, No. 2, 185–187 (reprinted in *Schriften zur Ideologie und Politik*, Neuwied: Luchterhand, 1967, 323–329).
+[^lukacs-1933b]: 1933b, “Mein Weg zu Marx,” *Internationale Literatur*, No. 2, 185–187 (reprinted in *Schriften zur Ideologie und Politik*, Neuwied: Luchterhand, 1967, 323–329).
 
-[^lukács-1938]: 1938, “Realism in the Balance,” in *The Norton Anthology of Theory and Criticism*, V.B. Leitch (ed.), New York: Norton, 2001, pp. 1033–1058.
+[^lukacs-1938]: 1938, “Realism in the Balance,” in *The Norton Anthology of Theory and Criticism*, V.B. Leitch (ed.), New York: Norton, 2001, pp. 1033–1058.
 
-[^lukács-1948]: 1948, *The Young Hegel*, R. Livingstone (trans.), London: Merlin, 1975.
+[^lukacs-1948]: 1948, *The Young Hegel*, R. Livingstone (trans.), London: Merlin, 1975.
 
-[^lukács-1949]: 1949, *Thomas Mann*, Aufbau: Berlin.
+[^lukacs-1949]: 1949, *Thomas Mann*, Aufbau: Berlin.
 
-[^lukács-1951]: 1951, “Hegel’s Aesthetics”, in *Graduate Faculty Philosophy Journal*, 23 (2), 2002: 87–124.
+[^lukacs-1951]: 1951, “Hegel’s Aesthetics”, in *Graduate Faculty Philosophy Journal*, 23 (2), 2002: 87–124.
 
-[^lukács-1954]: 1954, *The Destruction of Reason*, London: Merlin, 1980.
+[^lukacs-1954]: 1954, *The Destruction of Reason*, London: Merlin, 1980.
 
-[^lukács-1955]: 1955, *The Historical Novel*, London: Merlin, 1962.
+[^lukacs-1955]: 1955, *The Historical Novel*, London: Merlin, 1962.
 
-[^lukács-1957]: 1957, “Postscriptum 1957 zu: Mein Weg zu Marx,” in *Marxismus und Stalinismus. Politische Aufsätze. Ausgewählte Schriften IV*, Reinbek: Rowohlt, 1970, pp. 161–171.
+[^lukacs-1957]: 1957, “Postscriptum 1957 zu: Mein Weg zu Marx,” in *Marxismus und Stalinismus. Politische Aufsätze. Ausgewählte Schriften IV*, Reinbek: Rowohlt, 1970, pp. 161–171.
 
-[^lukács-1962]: 1962, “Reflections on the Cult of Stalin,” in *Survey*, No. 47, 1963: 105–111.
+[^lukacs-1962]: 1962, “Reflections on the Cult of Stalin,” in *Survey*, No. 47, 1963: 105–111.
 
-[^lukács-1967]: 1967, “Preface to the New Edition,” in *History and Class Consciousness*, Cambridge, MA: MIT Press, 1971, pp. ix–xl.
+[^lukacs-1967]: 1967, “Preface to the New Edition,” in *History and Class Consciousness*, Cambridge, MA: MIT Press, 1971, pp. ix–xl.
 
-[^lukács-1968-2]: 1968, “The ‘Vienna Paper’: The Ontological Foundations of Human Thinking and Action,” in *Lukács’s Last Autocriticism: The Ontology*, E. Joós, Atlantic Highlands, NJ: Humanities Press, 1982, pp. 135–148.
+[^lukacs-1968]: 1968, “The ‘Vienna Paper’: The Ontological Foundations of Human Thinking and Action,” in *Lukács’s Last Autocriticism: The Ontology*, E. Joós, Atlantic Highlands, NJ: Humanities Press, 1982, pp. 135–148.
 
-[^lukács-1971a]: 1971a, *Ontology of Social Being, Vol. 1: Hegel’s False and his Genuine Ontology*, D. Fernbach (trans.), London: Merlin, 1978 (see part III in *GW* 13).
+[^lukacs-1971a]: 1971a, *Ontology of Social Being, Vol. 1: Hegel’s False and his Genuine Ontology*, D. Fernbach (trans.), London: Merlin, 1978 (see part III in *GW* 13).
 
-[^lukács-1971b]: 1971b, *Ontology of Social Being, Vol. 2: Marx’s Basic Ontological Principles*, D. Fernbach (trans.), London: Merlin, 1978 (see part IV in *GW* 13).
+[^lukacs-1971b]: 1971b, *Ontology of Social Being, Vol. 2: Marx’s Basic Ontological Principles*, D. Fernbach (trans.), London: Merlin, 1978 (see part IV in *GW* 13).
 
-[^lukács-1971c]: 1971c, *Ontology of Social Being, Vol. 3: Labour*, D. Fernbach (trans.), London: Merlin, 1980 (see part I in *GW* 14).
+[^lukacs-1971c]: 1971c, *Ontology of Social Being, Vol. 3: Labour*, D. Fernbach (trans.), London: Merlin, 1980 (see part I in *GW* 14).
 
-[^lukács-1981]: 1981, *Essays on Realism*, R. Livingstone (trans.), Cambridge, MA: MIT Press.
+[^lukacs-1981]: 1981, *Essays on Realism*, R. Livingstone (trans.), Cambridge, MA: MIT Press.
 
 [^anderson-1976]: Anderson, Perry, 1976, *Considerations on Western Marxism*, London: NLB.
 

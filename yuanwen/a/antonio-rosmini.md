@@ -191,34 +191,11 @@ Other abbreviations:
 
 ### Critical Edition
 
-- *Opere edite e inedite di Antonio Rosmini*. Rome-Stresa. 1966–. Città Nuova Editrice (80 projected volumes —including 19 of correspondence — of which approximately 40 have been published [2001])
-
 ### Other Editions
-
-- For a complete list of editions of all Rosmini’s published works in Italian or in translations, cf. Bergamaschi, Cirillo. *Bibliografia degli scritti editi di Antonio Rosmini Serbati*, 1815–1998, 4 vols., Milan-Stresa, 1970–98.
 
 ### Translations
 
-- Cleary, D., Watson, T., and Murphy, R. (trans.), 2001, *A New Essay concerning the Origin of Ideas*. 3 vols. Durham: Rosmini House.
-- Cleary, D., and Watson, T. (trans.), Durham: Rosmini House.
-- *Principles of Ethics*. 1988.
-- *Conscience*. 1989.
-- *Anthropology as an Aid to Moral Science*. 1991.
-- *The Philosophy of Politics*. 1994. vol. 1 *The Summary Cause for the Stability or Downfall of Human Societies*. vol. 2 *Society and Its Purpose*.
-- *The Philosophy of Right*. vol. 1 *The Essence of Right*. 1993. vol. 2 *Rights of the Individual*. 1993. vol. 3 *Universal Social Right*. 1995. vol. 4 *Rights in God’s Church*. 1995. vol. 5 *Rights in the Family*. 1995. vol. 6 *Rights in Civil Society*. 1996.
-- *Psychology*. 1999. vol. 1 *Essence of the Human Soul*. vol. 2 *Development of the Human Soul*. vol. 3 *Laws of Animality*. vol. 4 *Opinions about the Human Soul*.
-- *Theosophy*. 2007. vol. 1 The Problem of Ontology Being-as-one vol. 2 Trine Being vol. 3 Trine Being Continued
-- Grey, M. (trans.), 1887, *The ruling Principle of Method applied to Education*. Boston.
-- Murphy, R. (trans.), 2004, *Introduction to Philosophy*, Durham, UK: Rosmini House.
-- Signini, F. (trans.), 1912, *Theodicy*. 3 vols. London
-
 ### Secondary Works
-
-- Bergamaschi, Cirillo, 2001, *Grande dizionario antologico del pensiero di Antonio Rosmini*, (4 vols of explanations of words and phrases from Rosmini’s works in Rosmini’s own words), Rome: Città Nuova Editrice. [CD version available.]
-- Bergamaschi, Cirillo, 1967–96, *Bibliografia Rosminiana*, 8 vols, Milan-Stresa, (covers Rosminian bibliography in all languages from 1814–1995).
-- Cleary, Denis, 1992, *Antonio Rosmini: Introduction to his Life and Teaching*. Durham: Rosmini House.
-- Davidson, Thomas, 1882, *The Philosophical System of Antonio Rosmini Serbati*, London.
-- Pozzo, Riccardo, 1999, *The Philosophical Works of Antonio Rosmini in Translation* in *American Catholic Philosophical Quarterly*, LXXIII no. 4.
 
 ## Academic Tools
 
@@ -239,3 +216,41 @@ Aquinas, Thomas | Augustine of Hippo | Hegel, Georg Wilhelm Friedrich | Kant, Im
 ### Acknowledgments
 
 The SEP editors updated this entry in 2015.
+
+[^opere-1966]: *Opere edite e inedite di Antonio Rosmini*. Rome-Stresa. 1966–. Città Nuova Editrice (80 projected volumes —including 19 of correspondence — of which approximately 40 have been published [2001])
+
+[^for-1815]: For a complete list of editions of all Rosmini’s published works in Italian or in translations, cf. Bergamaschi, Cirillo. *Bibliografia degli scritti editi di Antonio Rosmini Serbati*, 1815–1998, 4 vols., Milan-Stresa, 1970–98.
+
+[^cleary-2001]: Cleary, D., Watson, T., and Murphy, R. (trans.), 2001, *A New Essay concerning the Origin of Ideas*. 3 vols. Durham: Rosmini House.
+
+[^cleary-nd]: Cleary, D., and Watson, T. (trans.), Durham: Rosmini House.
+
+[^principles-1988]: *Principles of Ethics*. 1988.
+
+[^conscience-1989]: *Conscience*. 1989.
+
+[^anthropology-1991]: *Anthropology as an Aid to Moral Science*. 1991.
+
+[^philosophy-1994]: *The Philosophy of Politics*. 1994. vol. 1 *The Summary Cause for the Stability or Downfall of Human Societies*. vol. 2 *Society and Its Purpose*.
+
+[^philosophy-1993]: *The Philosophy of Right*. vol. 1 *The Essence of Right*. 1993. vol. 2 *Rights of the Individual*. 1993. vol. 3 *Universal Social Right*. 1995. vol. 4 *Rights in God’s Church*. 1995. vol. 5 *Rights in the Family*. 1995. vol. 6 *Rights in Civil Society*. 1996.
+
+[^psychology-1999]: *Psychology*. 1999. vol. 1 *Essence of the Human Soul*. vol. 2 *Development of the Human Soul*. vol. 3 *Laws of Animality*. vol. 4 *Opinions about the Human Soul*.
+
+[^theosophy-2007]: *Theosophy*. 2007. vol. 1 The Problem of Ontology Being-as-one vol. 2 Trine Being vol. 3 Trine Being Continued
+
+[^grey-1887]: Grey, M. (trans.), 1887, *The ruling Principle of Method applied to Education*. Boston.
+
+[^murphy-2004]: Murphy, R. (trans.), 2004, *Introduction to Philosophy*, Durham, UK: Rosmini House.
+
+[^signini-1912]: Signini, F. (trans.), 1912, *Theodicy*. 3 vols. London
+
+[^bergamaschi-2001]: Bergamaschi, Cirillo, 2001, *Grande dizionario antologico del pensiero di Antonio Rosmini*, (4 vols of explanations of words and phrases from Rosmini’s works in Rosmini’s own words), Rome: Città Nuova Editrice. [CD version available.]
+
+[^bergamaschi-1967]: Bergamaschi, Cirillo, 1967–96, *Bibliografia Rosminiana*, 8 vols, Milan-Stresa, (covers Rosminian bibliography in all languages from 1814–1995).
+
+[^cleary-1992]: Cleary, Denis, 1992, *Antonio Rosmini: Introduction to his Life and Teaching*. Durham: Rosmini House.
+
+[^davidson-1882]: Davidson, Thomas, 1882, *The Philosophical System of Antonio Rosmini Serbati*, London.
+
+[^pozzo-1999]: Pozzo, Riccardo, 1999, *The Philosophical Works of Antonio Rosmini in Translation* in *American Catholic Philosophical Quarterly*, LXXIII no. 4.

@@ -341,4 +341,4 @@ Fichte, Johann Gottlieb | Hegel, Georg Wilhelm Friedrich | Heidegger, Martin | J
 
 [^zammito-2018]: Zammito, J., 2018, *The Gestation of German Biology: Philosophy and Physiology from Stahl to Schelling*, Chicago: University of Chicago Press. [On Schelling’s role in the emergence of modern biology.]
 
-[^zammito-1996]: Žižek, S., 1996, *The Indivisible Remainder: Essays on Schelling and Related Matters*, London: Verso. [Sees Schelling as “the first to formulate the post-idealist motifs of finitude, contingency and temporality”, which means that Schelling is the source of key ideas in Žižek which were previously attributed to Hegel.]
+[^schelling-1996]: Žižek, S., 1996, *The Indivisible Remainder: Essays on Schelling and Related Matters*, London: Verso. [Sees Schelling as “the first to formulate the post-idealist motifs of finitude, contingency and temporality”, which means that Schelling is the source of key ideas in Žižek which were previously attributed to Hegel.]

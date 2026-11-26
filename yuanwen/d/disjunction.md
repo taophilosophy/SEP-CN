@@ -716,7 +716,7 @@ Many thanks to Floris Roelofsen, Luca Incurvati, Martin Stokhof and Ivano Ciarde
 
 [^lokhorst-2006]: Lokhorst, G.-J., 2006, “Andersonian deontic logic, propositional quantification, and Mally”, *Notre Dame Journal of Formal Logic*, 47(3): 385–395.
 
-[^lokhorst-1920]: Łukasiewicz, J., 1920, “O logice trójwartościowej”, *Ruch Filozoficzny*, 5: 170–171. English translation in McCall (ed.), 1967, pp. 16–18.
+[^disjunction-1920]: Łukasiewicz, J., 1920, “O logice trójwartościowej”, *Ruch Filozoficzny*, 5: 170–171. English translation in McCall (ed.), 1967, pp. 16–18.
 
 [^mastop-2005]: Mastop, R., 2005, *What Can You Do? Imperative Mood in Semantic Theory*, PhD thesis, University of Amsterdam.
 

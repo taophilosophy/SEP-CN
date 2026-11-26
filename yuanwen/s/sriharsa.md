@@ -372,7 +372,7 @@ Bradley, Francis Herbert | causation: the metaphysics of | consciousness: higher
 
 [^note-10]: On the face of it, the criterion of uniformity seems too demanding. If the kind *K* is merely part of our folk classification of things, it is unclear why a disjunctive definition of *K* would necessarily be defective. To borrow an example from Kingsbury and McKeown-Green (2009), take the concept of *jazz*, which presumably has evolved in response of changing social and cultural phenomena, e.g., the interests of journalists in the late 1950s or the musical taste of musicians in the 1930s. Under such circumstances, one may indeed expect that the best definition of jazz would just be a disjunction of different conditions each of which may be sufficient condition for being a work of jazz, but none of which may be a necessary condition for its being a work of jazz. However, in defense of Śrīharṣa, it is worth pointing out that when the best definition available for a kind *K* is a disjunction of a bunch of theoretically interesting sufficient conditions, the definition won’t bring to light any theoretically interesting similarity amongst the different instances of *K*. As a result, the definition won’t provide much information about why *K*-hood—in itself—is a theoretically interesting property at all. Thus, as long as Śrīharṣa’s opponent is committed to the idea that the epistemological and ontological kinds that she defines are theoretically interesting, the criterion of uniformity might still have some force against her.
 
-In fact, while discussing definitions of *knowledge*, the later Nyāya philosopher Gaṅgeśa Upādhyāya explicitly argues that absence of uniformity is not really a defect of definitions. See, e.g., Tarkavāgīśa (1974a: 417)[^tarkavāgīśa-1974a] and Phillips (1993: 48–49)[^phillips-1993]. However, in the Chapter on Inference in *The Philosophers’ Stone* (*Tattvacintāmaṇi*), Gaṅgeśa himself attempts to offer a definition of pervasion (*vyāpti*) that satisfies uniformity; see Tarkavāgīśa (1974b: 243)[^tarkavāgīśa-1974b]. Also, see Guha (1979)[^guha-1979] for some discussion of uniformity (*anugama*) in Nyāya after Gaṅgeśa.
+In fact, while discussing definitions of *knowledge*, the later Nyāya philosopher Gaṅgeśa Upādhyāya explicitly argues that absence of uniformity is not really a defect of definitions. See, e.g., Tarkavāgīśa (1974a: 417) and Phillips (1993: 48–49)[^phillips-1993]. However, in the Chapter on Inference in *The Philosophers’ Stone* (*Tattvacintāmaṇi*), Gaṅgeśa himself attempts to offer a definition of pervasion (*vyāpti*) that satisfies uniformity; see Tarkavāgīśa (1974b: 243). Also, see Guha (1979)[^guha-1979] for some discussion of uniformity (*anugama*) in Nyāya after Gaṅgeśa.
 
 [^note-11]: According to many editions of the text (e.g., KKh 210), the proposal reads:
 
@@ -462,9 +462,9 @@ The argument that follows, quite unsurprisingly, resembles a regress argument th
 
 [^tarkavāgīśa-1974]: Tarkavāgīśa, Kāmākhyānātha (ed.), 1974, *The Tattvacintāmaṇi of Gaṅgeśa Upādhyāya with the commentary of Mathurānātha Tarkavāgīśa*, New Delhi: Motilal Banarasidass.
 
-[^tarkavāgīśa-1974a]: 1974a, *Pratyakṣa Khaṇḍa*, Volume 1
+[^sriharsa-1974a]: 1974a, *Pratyakṣa Khaṇḍa*, Volume 1
 
-[^tarkavāgīśa-1974b]: 1974b, *Anumāna Khaṇḍa*, Volume 2
+[^sriharsa-1974b]: 1974b, *Anumāna Khaṇḍa*, Volume 2
 
 [^thakur-1967]: Thakur, Anantalal (ed.), 1967, *Nyāyadarśana of Gautama; with the Bhāṣya of Vātsyāyana, the Vārttika of Uddyotakara, the Tātparyatīkā of Vācaspati, and the Pariśuddhi of Udayana*, Darbhanga: Mithila Institute.
 

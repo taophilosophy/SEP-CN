@@ -459,7 +459,7 @@ Abelard [Abailard], Peter | Anselm of Canterbury [Anselm of Bec] | Aquinas, Thom
 
 [^ravitzsky-2005]: Ravitzsky, Aviezer, 2005. “Maimonides: Esotericism and Educational Philosophy,” in *The Cambridge Companion to Maimonides*, K. Seeskin (ed.), Cambridge: Cambridge University Press, 300–23.
 
-[^ravitzsky-2019]: ----, 2019. “Ibn Gabirol and Judah ha-Levi’s Usage of Dialogue: The Role of the Disciple in *Fons Vitae* and that of the King in *Kitāb al-Khazarī*,” *Religions*, 10(10): 549.
+[^medieval-literary-2019]: ----, 2019. “Ibn Gabirol and Judah ha-Levi’s Usage of Dialogue: The Role of the Disciple in *Fons Vitae* and that of the King in *Kitāb al-Khazarī*,” *Religions*, 10(10): 549.
 
 [^putallaz-2009]: Putallaz, Franois-Xavier, 2009. “Censorship,” in *The Cambridge History of Medieval Philosophy*, Robert Pasnau (ed.), Cambridge: Cambridge University Press, 99–113.
 

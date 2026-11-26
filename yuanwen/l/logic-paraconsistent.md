@@ -315,12 +315,6 @@ Further work is actively underway.
 
 ### World Congress of Paraconsistency Volumes
 
-- [First Congress] Batens, Diderik, Chris Mortensen, Graham Priest, and Jean-Paul van Bendegem (eds.), 2000, *Frontiers of Paraconsistent Logic* (Studies in Logic and Computation 8), Baldock, England: Research Studies Press.
-- [Second Congress] Carnielli, Walter A., M. Coniglio, and Itala Maria Lof D’ottaviano (eds.), 2002, *Paraconsistency: the Logical Way to the Inconsistent* (Lecture Notes in Pure and Applied Mathematics: Volume 228), Boca Raton: CRC Press.
-- [Third Congress] Beziau, Jean-Yves, Walter A. Carnielli, and Dov M. Gabbay (eds.), 2007, *Handbook of Paraconsistency* (Studies in Logic 9), London: College Publications.
-- [Fourth Congress] Tanaka, Koji, Francesco Berto, Edwin Mares, and Francesco Paoli (eds.), 2013, *Paraconsistency: Logic and Applications* (Logic, Epistemology, and the Unity of Science 26), Dordrecht: Springer. doi:10.1007/978-94-007-4438-7
-- [Fifth Congress] Beziau, Jean-Yves, Mihir Chakraborty, and Soma Dutta (eds.), 2015, *New Directions in Paraconsistent Logic*, Dordrecht: Springer. doi:10.1007/978-81-322-2719-9
-
 ## Academic Tools
 
 > |   | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=logic-paraconsistent). |
@@ -572,3 +566,13 @@ The editors and authors would like to thank Joy Britten for noticing an error in
 [^weber-2012]: –––, 2012, “Transfinite Cardinals in Paraconsistent Set Theory”, *Review of Symbolic Logic*, 5(2): 269–293. doi:10.1017/S1755020312000019
 
 [^weber-2021]: –––, 2021, *Paradoxes and Inconsistent Mathematics*, Cambridge: Cambridge University Press.
+
+[^first-2000]: [First Congress] Batens, Diderik, Chris Mortensen, Graham Priest, and Jean-Paul van Bendegem (eds.), 2000, *Frontiers of Paraconsistent Logic* (Studies in Logic and Computation 8), Baldock, England: Research Studies Press.
+
+[^second-2002]: [Second Congress] Carnielli, Walter A., M. Coniglio, and Itala Maria Lof D’ottaviano (eds.), 2002, *Paraconsistency: the Logical Way to the Inconsistent* (Lecture Notes in Pure and Applied Mathematics: Volume 228), Boca Raton: CRC Press.
+
+[^third-2007]: [Third Congress] Beziau, Jean-Yves, Walter A. Carnielli, and Dov M. Gabbay (eds.), 2007, *Handbook of Paraconsistency* (Studies in Logic 9), London: College Publications.
+
+[^fourth-2013]: [Fourth Congress] Tanaka, Koji, Francesco Berto, Edwin Mares, and Francesco Paoli (eds.), 2013, *Paraconsistency: Logic and Applications* (Logic, Epistemology, and the Unity of Science 26), Dordrecht: Springer. doi:10.1007/978-94-007-4438-7
+
+[^fifth-2015]: [Fifth Congress] Beziau, Jean-Yves, Mihir Chakraborty, and Soma Dutta (eds.), 2015, *New Directions in Paraconsistent Logic*, Dordrecht: Springer. doi:10.1007/978-81-322-2719-9

@@ -269,13 +269,13 @@ aesthetics: German, in the 18th century | Herder, Johann Gottfried von | Novalis
 
 [^calderón-1803]: Calderón de la Barca, 1803–1809, *Spanisches Theater*, 2 vols., Berlin: Hitzig.
 
-[^calderón-1804]: assorted, 1804, *Blumensträuße italienischer, spanischer und portugiesischer Poesie*, Berlin: Realschulbuchhandlung.
+[^schlegel-aw-1804]: assorted, 1804, *Blumensträuße italienischer, spanischer und portugiesischer Poesie*, Berlin: Realschulbuchhandlung.
 
 [^albertine-1820]: Albertine Necker de Saussure, 1820, *Über den Charackter und die Schriften der Frau von Staël*, Paris, London and Strasburg: Treuttel und Würtz.
 
-[^albertine-1823]: anonymous, 1823, *Bhagavad-Gita*, Bonn: Weber.
+[^schlegel-aw-1823]: anonymous, 1823, *Bhagavad-Gita*, Bonn: Weber.
 
-[^albertine-1829]: anonymous, 1829–46, *Ramayana*, 4 vols, Bonn: Weber.
+[^schlegel-aw-1829]: anonymous, 1829–46, *Ramayana*, 4 vols, Bonn: Weber.
 
 [^schlegel-aw-1922]: 1922, *August Wilhelm Schlegels Briefwechsel mit seinen Heidelberger Verlegern*, edited by Erich Jenisch, Heidelber: Winter.
 

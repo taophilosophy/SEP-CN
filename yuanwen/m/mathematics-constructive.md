@@ -529,9 +529,6 @@ For further information about the state of modern constructive mathematics, we r
 
 ### Related Literature
 
-- Heijenoort, Jean van, 1967, *From Frege to Gödel: A Source Book in Mathematical Logic 1879–1931*, Cambridge, MA: Harvard University Press.
-- Hilbert, David, 1928, “Die Grundlagen der Mathematik”, Hamburger Mathematische Einzelschriften 5, Teubner, Leipzig. Reprinted in English translation in van Heijenoort 1967.
-
 ## Academic Tools
 
 > |   | [How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=mathematics-constructive). |
@@ -797,3 +794,7 @@ Bridges thanks Philip Catton for kindly advising him about an early version of t
 [^weyl-1946]: Weyl, H., 1946, “Mathematics and Logic”, *American Mathematical Monthly*, 53(1): 2–13.
 
 [^whitehead-1919]: Whitehead, A.N., 1919, *An Enquiry Concerning the Principles of Natural Knowledge*, Cambridge: Cambridge University Press, second edition, 1925.
+
+[^heijenoort-1967]: Heijenoort, Jean van, 1967, *From Frege to Gödel: A Source Book in Mathematical Logic 1879–1931*, Cambridge, MA: Harvard University Press.
+
+[^hilbert-1928]: Hilbert, David, 1928, “Die Grundlagen der Mathematik”, Hamburger Mathematische Einzelschriften 5, Teubner, Leipzig. Reprinted in English translation in van Heijenoort 1967.

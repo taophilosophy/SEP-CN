@@ -197,7 +197,7 @@ Overall, then, Montessori develops a distinctive empiricist epistemology, inform
 
 ### 4.2 Intellectual Virtues
 
-In the context of her interested empiricism and concern with cognitive *development*, Montessori elaborates a distinctive virtue epistemology. Like virtue reliabilists such as Ernest Sosa (1991; 2007)[^sosa-1991][^sosa-2007][^sosa-2007-2] or John Greco (2002; see too Battaly 2008)[^battaly-2008], Montessori sees basic cognitive faculties as faculties the reliable exercise of which is epistemically excellent, but like virtue responsibilists such as Linda Zagzebski or Jason Baehr (Zagzebski 1996; Baehr 2011; 2016)[^baehr-2011][^zagzebski-1996], she affirms that agents must be able to be responsible for genuine intellectual virtues. She reconciles these views by showing that even apparently basic capacities such as sensation are cultivatable and due to exercises of agency.
+In the context of her interested empiricism and concern with cognitive *development*, Montessori elaborates a distinctive virtue epistemology. Like virtue reliabilists such as Ernest Sosa (1991; 2007)[^sosa-1991][^sosa-2007] or John Greco (2002; see too Battaly 2008)[^battaly-2008], Montessori sees basic cognitive faculties as faculties the reliable exercise of which is epistemically excellent, but like virtue responsibilists such as Linda Zagzebski or Jason Baehr (Zagzebski 1996; Baehr 2011; 2016)[^baehr-2011][^zagzebski-1996], she affirms that agents must be able to be responsible for genuine intellectual virtues. She reconciles these views by showing that even apparently basic capacities such as sensation are cultivatable and due to exercises of agency.
 
 Beyond this theoretical contribution to virtue epistemological theory, Montessori has important insights that deepen our understanding of particular traits often considered intellectual virtues. Patrick Frierson (2016b; 2020)[^frierson-2016b][^frierson-2020] has discussed Montessori’s distinctive accounts of epistemic character, intellectual love, sensory acuity, intellectual patience and quickness, intellectual humility, and intellectual courage. Moreover, consistent with Montessori’s emphasis on embodied cognition, she also sees physical dexterity or excellence in intelligent movement as a kind of intellectual virtue (see, e.g., 1:123–140). Beyond those virtues, Montessori’s emphasis on “deeply engaged states of concentration”, as well as her specific pedagogical practices, enhance what has come to be known as flow (Rathunde 2023: 271; see too Rathunde 2001; Rathunde & Csikszentmihalyi 2005)[^rathunde-2001][^rathunde-2023][^rathunde-2005]. Montessorian freedom and flexibility can also contribute to creativity (Fleming et al. 2019; Lillard 2005: 163–4)[^fleming-2019][^lillard-2005]. Angeline Lillard provided, and regularly updates, the most comprehensive discussion of Montessori’s method in relation to contemporary psychological appraisals of development and proper functioning (see Lillard 2005 and subsequent editions)[^lillard-2005].
 
@@ -441,9 +441,9 @@ Many thanks to Erica Moretti, Laura Di Paolo, Emma Perrone, Joke Verheul, and Kr
 
 [^california-1915]: 15: *The California Lectures of Maria Montessori, 1915*, R. Buckenmeyer (ed.);
 
-[^montessori-1946]: 17: *The 1946 London Lectures*, A. Haines (ed.);
+[^montessori-maria-1946]: 17: *The 1946 London Lectures*, A. Haines (ed.);
 
-[^montessori-1913]: 18: *The 1913 Rome Lectures*, S. Feez (ed.);
+[^montessori-maria-1913]: 18: *The 1913 Rome Lectures*, S. Feez (ed.);
 
 [^mass-nd]: 19: *The Mass Explained to Children*;
 
@@ -623,9 +623,9 @@ Many thanks to Erica Moretti, Laura Di Paolo, Emma Perrone, Joke Verheul, and Kr
 
 [^sosa-2007]: –––, 2007/2009, *Apt Belief and Reflective Knowledge*, 2 volumes, Oxford: Clarendon Press.
 
-[^sosa-2007-2]: 2007, *Volume 1: A Virtue Epistemology*. doi:10.1093/acprof:oso/9780199297023.001.0001
+[^montessori-maria-2007]: 2007, *Volume 1: A Virtue Epistemology*. doi:10.1093/acprof:oso/9780199297023.001.0001
 
-[^sosa-2009]: 2009, *Volume 2: Reflective Knowledge*. doi:10.1093/acprof:oso/9780199217250.001.0001
+[^montessori-maria-2009]: 2009, *Volume 2: Reflective Knowledge*. doi:10.1093/acprof:oso/9780199217250.001.0001
 
 [^standing-1957]: Standing, E. Mortimer, 1957, *Maria Montessori: Her Life and Work*, London: Hollis & Carter.
 

@@ -216,57 +216,57 @@ Benjamin, Walter | Lukács, Georg [György]
 
 [^ga-1959]: [GA] Bloch, Ernst, 1959–1978, *Gesamtausgabe in 16 Bänden + 1 Ergänzungsband*, Frankfurt am Main: Suhrkamp (cited as GA).
 
-[^ga-1905]: 1905/1906 [1992], “Gedanken über religiöse Dinge”, *Das Freie Wort*, 5: 690–694; reprinted, 1992, *Bloch-Almanach*, 12: 9–13.
+[^bloch-1905]: 1905/1906 [1992], “Gedanken über religiöse Dinge”, *Das Freie Wort*, 5: 690–694; reprinted, 1992, *Bloch-Almanach*, 12: 9–13.
 
-[^ga-1909]: 1909, *Kritische Erörterungen über Rickert und das Problem der modernen Erkenntnistheorie*, Ludwigshafen am Rhein: Baur.
+[^bloch-1909]: 1909, *Kritische Erörterungen über Rickert und das Problem der modernen Erkenntnistheorie*, Ludwigshafen am Rhein: Baur.
 
-[^ga-1918]: 1918 [2000], *Geist der Utopie*, München: Duncker & Humblot [GA 16]; 2nd revised edition, 1923; 3rd edition, 1964 [GA 3]; translated as *The Spirit of Utopia*, Anthony A. Nassar (trans.), Stanford, CA: Stanford University Press, 2000.
+[^bloch-1918]: 1918 [2000], *Geist der Utopie*, München: Duncker & Humblot [GA 16]; 2nd revised edition, 1923; 3rd edition, 1964 [GA 3]; translated as *The Spirit of Utopia*, Anthony A. Nassar (trans.), Stanford, CA: Stanford University Press, 2000.
 
-[^ga-1921]: 1921, *Thomas Münzer als Theologe der Revolution*, München: Wolff; revised edition published as GA 2.
+[^bloch-1921]: 1921, *Thomas Münzer als Theologe der Revolution*, München: Wolff; revised edition published as GA 2.
 
-[^ga-1923]: 1923 [1964], *Durch die Wüste. Frühe kritische Aufsätze*, Berlin: P. Cassirer; new edition Frankfurt am Main: Suhrkamp, 1964.
+[^bloch-1923]: 1923 [1964], *Durch die Wüste. Frühe kritische Aufsätze*, Berlin: P. Cassirer; new edition Frankfurt am Main: Suhrkamp, 1964.
 
-[^ga-1930]: 1930 [2006], *Spuren*, Berlin: Cassirer; expanded in GA 1; translated as *Traces*, Anthony A. Nassar (trans.), Stanford, CA: Stanford University Press.
+[^bloch-1930]: 1930 [2006], *Spuren*, Berlin: Cassirer; expanded in GA 1; translated as *Traces*, Anthony A. Nassar (trans.), Stanford, CA: Stanford University Press.
 
-[^ga-1935]: 1935 [1991], *Erbschaft dieser Zeit*, Zurich: Oprecht & Helbling [GA 4]; translated as *Heritage of Our Times*, Neville Plaice and Stephen Plaice (trans.), Cambridge: Polity Press, 1991.
+[^bloch-1935]: 1935 [1991], *Erbschaft dieser Zeit*, Zurich: Oprecht & Helbling [GA 4]; translated as *Heritage of Our Times*, Neville Plaice and Stephen Plaice (trans.), Cambridge: Polity Press, 1991.
 
-[^ga-1951]: 1951, *Subjekt-Objekt: Erläuterungen zu Hegel*, Berlin: Aufbau-Verlag [GA 8].
+[^bloch-1951]: 1951, *Subjekt-Objekt: Erläuterungen zu Hegel*, Berlin: Aufbau-Verlag [GA 8].
 
-[^ga-1952]: 1952 [2018], *Avicenna und die Aristotelische Linke*, Berlin: Rütten & Loenin (a shorter form first appeared in *Sind und Form*, 4(3)); slightly revised and included as an appendix in GA 7; translated as *Avicenna and the Aristotelian Left*, Loren Goldman and Peter Thompson (trans.), New York: Columbia University Press, 2018.
+[^bloch-1952]: 1952 [2018], *Avicenna und die Aristotelische Linke*, Berlin: Rütten & Loenin (a shorter form first appeared in *Sind und Form*, 4(3)); slightly revised and included as an appendix in GA 7; translated as *Avicenna and the Aristotelian Left*, Loren Goldman and Peter Thompson (trans.), New York: Columbia University Press, 2018.
 
-[^ga-1954]: 1954–59 [1986a], *Das Prinzip Hoffnung*, Frankfurt am Main: Suhrkamp [GA 5]; translated as *The Principle of Hope. Vol. I–III*, Neville Plaice, Stephen Plaice, and Paul Knight (trans.), Cambridge, MA: MIT Press, 1986.
+[^bloch-1954]: 1954–59 [1986a], *Das Prinzip Hoffnung*, Frankfurt am Main: Suhrkamp [GA 5]; translated as *The Principle of Hope. Vol. I–III*, Neville Plaice, Stephen Plaice, and Paul Knight (trans.), Cambridge, MA: MIT Press, 1986.
 
-[^ga-1961]: 1961 [1986b], *Naturrecht und menschliche Würde*, Frankfurt am Main: Suhrkamp [GA 6]; translated as *Natural Law and Human Dignity*, Dennis J. Schmidt (trans.) Cambridge, MA: MIT Press, 1986.
+[^bloch-1961]: 1961 [1986b], *Naturrecht und menschliche Würde*, Frankfurt am Main: Suhrkamp [GA 6]; translated as *Natural Law and Human Dignity*, Dennis J. Schmidt (trans.) Cambridge, MA: MIT Press, 1986.
 
-[^ga-1963]: 1963/64, *Tübinger Einleitung in die Philosophie*, 2 volumes, Frankfurt am Main: Suhrkamp [GA 13].
+[^bloch-1963]: 1963/64, *Tübinger Einleitung in die Philosophie*, 2 volumes, Frankfurt am Main: Suhrkamp [GA 13].
 
-[^ga-1965]: 1965 [1998], *Literarische Aufsä̈tze*, Frankfurt am Main: Suhrkamp [GA 9]; translated as *Literary Essays*, Andrew Joron, Jack Zipes, Frank Mecklenburg, and H. Wild (trans.), Stanford: Stanford University Press, 1998.
+[^bloch-1965]: 1965 [1998], *Literarische Aufsä̈tze*, Frankfurt am Main: Suhrkamp [GA 9]; translated as *Literary Essays*, Andrew Joron, Jack Zipes, Frank Mecklenburg, and H. Wild (trans.), Stanford: Stanford University Press, 1998.
 
-[^ga-1968]: 1968 [2009], *Atheismus im Christentum: Zur Religion des Exodus und des Reichs*, Frankfurt am Main: Suhrkamp [GA 14]; translated as *Atheism in Christianity. The Religion of the Exodus and the Kingdom*, J.T. Swann (trans.), New York: Herder and Herder, 1972; translation reprinted London: Verso, 2009.
+[^bloch-1968]: 1968 [2009], *Atheismus im Christentum: Zur Religion des Exodus und des Reichs*, Frankfurt am Main: Suhrkamp [GA 14]; translated as *Atheism in Christianity. The Religion of the Exodus and the Kingdom*, J.T. Swann (trans.), New York: Herder and Herder, 1972; translation reprinted London: Verso, 2009.
 
-[^ga-1969]: 1969, *Philosophische Aufsätze zur objektiven Phantasie*, Frankfurt am Main: Suhrkamp [GA 10].
+[^bloch-1969]: 1969, *Philosophische Aufsätze zur objektiven Phantasie*, Frankfurt am Main: Suhrkamp [GA 10].
 
-[^ga-1972a]: 1972a, *Das Materialismusproblem, seine Geschichte und Substanz* (The Problem of Materialism, Its History and Substance), Frankfurt am Main: Suhrkamp [GA 7].
+[^bloch-1972a]: 1972a, *Das Materialismusproblem, seine Geschichte und Substanz* (The Problem of Materialism, Its History and Substance), Frankfurt am Main: Suhrkamp [GA 7].
 
-[^ga-1972b]: 1972b, *Vom Hasard zur Katastrophe. Politische Aufsätze 1934–1939*, Volker Michels (ed.), Frankfurt am Main: Suhrkamp.
+[^bloch-1972b]: 1972b, *Vom Hasard zur Katastrophe. Politische Aufsätze 1934–1939*, Volker Michels (ed.), Frankfurt am Main: Suhrkamp.
 
-[^ga-1975]: 1975, *Experimentum Mundi*, Frankfurt am Main: Suhrkamp [GA 15].
+[^bloch-1975]: 1975, *Experimentum Mundi*, Frankfurt am Main: Suhrkamp [GA 15].
 
-[^ga-1980]: 1980, *Abschied von der Utopie? Vorträge*, Hanna Gekle (ed.), Frankfurt am Main: Suhrkamp.
+[^bloch-1980]: 1980, *Abschied von der Utopie? Vorträge*, Hanna Gekle (ed.), Frankfurt am Main: Suhrkamp.
 
-[^ga-1985a]: 1985a, *Kampf, nicht Krieg. Politische Schriften 1917–1919*, Martin Korol (ed.), Frankfurt am Main: Suhrkamp.
+[^bloch-1985a]: 1985a, *Kampf, nicht Krieg. Politische Schriften 1917–1919*, Martin Korol (ed.), Frankfurt am Main: Suhrkamp.
 
-[^ga-1985b]: 1985b, *Leipziger Vorlesungen zur Geschichte der Philosophie 1950–1956*, Bd. I–IV, Ruth Römer and Burghart Schmidt (eds.), Frankfurt am Main: Suhrkamp.
+[^bloch-1985b]: 1985b, *Leipziger Vorlesungen zur Geschichte der Philosophie 1950–1956*, Bd. I–IV, Ruth Römer and Burghart Schmidt (eds.), Frankfurt am Main: Suhrkamp.
 
-[^ga-1985c]: 1985c, *Briefe 1903–1975*, K. Bloch, J. R. Bloch, A. Frommann, H. Gekle, I. Jens, M. Korol, I. Mülder, A. Münster, U. Opolka, and B. Schmidt (eds.), Frankfurt am Main: Suhrkamp.
+[^bloch-1985c]: 1985c, *Briefe 1903–1975*, K. Bloch, J. R. Bloch, A. Frommann, H. Gekle, I. Jens, M. Korol, I. Mülder, A. Münster, U. Opolka, and B. Schmidt (eds.), Frankfurt am Main: Suhrkamp.
 
-[^ga-1985d]: 1985d, *Essays on the Philosophy of Music*, Peter Palmer (trans.), Cambridge/New York: Cambridge University Press.
+[^bloch-1985d]: 1985d, *Essays on the Philosophy of Music*, Peter Palmer (trans.), Cambridge/New York: Cambridge University Press.
 
-[^ga-1988]: 1988, *The Utopian Function of Art and Literature: Selected Essays*, Jack Zipes and Frank Mecklenburg (trans.), Cambridge, MA: MIT Press.
+[^bloch-1988]: 1988, *The Utopian Function of Art and Literature: Selected Essays*, Jack Zipes and Frank Mecklenburg (trans.), Cambridge, MA: MIT Press.
 
-[^ga-2000]: 2000, *Logos der Materie. Eine Logik im Werden. Aus dem Nachlaß 1923–1949*, Gerardo Cunico (ed.), Frankfurt am Main: Suhrkamp.
+[^bloch-2000]: 2000, *Logos der Materie. Eine Logik im Werden. Aus dem Nachlaß 1923–1949*, Gerardo Cunico (ed.), Frankfurt am Main: Suhrkamp.
 
-[^ga-2007]: 2007, *Der unbemerkte Augenblick: Feuilletons für die »Frankfurter Zeitung« 1916–1934*, Ralf Becker (ed.), Frankfurt am Main: Suhrkamp.
+[^bloch-2007]: 2007, *Der unbemerkte Augenblick: Feuilletons für die »Frankfurter Zeitung« 1916–1934*, Ralf Becker (ed.), Frankfurt am Main: Suhrkamp.
 
 [^agar-2014]: Agar, Jolyon, 2014, *Post-Secularism, Realism and Utopia: Transcendence and Immanence from Hegel to Bloch*, London/New York: Routledge. doi:10.4324/9781315863023
 
