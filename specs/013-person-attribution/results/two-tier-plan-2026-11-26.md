@@ -73,3 +73,18 @@ B 档查无留空。
 
 人工复核抓到的反例已进防线：`Páez, Andrés` GND 记 Jurist，而 en/ 里 Paez 2022 是
 美学／知识论作者，执业域不合即可能同名异人 → 降 review（`gnd_triage.SUSPECT`）。
+
+## review 池逐条筛（2026-11-26 夜）
+
+383 条 review 中“有生卒且有职业”的 102 条已逐条判（台账
+`gnd-review-decisions-2026-11-26.tsv`）：
+
+| 判定 | 条数 | 说明 |
+| ---- | ---- | ---- |
+| 采信候选 | 6 | Thijssen, Hans（buridan 注释）、Tuna, Emine Hande（词条作者）、Planer, Ronald J.（gene 引）、Hawkins, Jennifer S.（informed-consent 引）、Wülfer, Daniel、Rötenbeck, Georg Paul（johann-sturm 正文） |
+| 存疑 | 1 | Páez, Andrés（GND 法学家 vs SEP 哲学作者） |
+| 驳回 | 95 | 非学界职业 65（摄影师／作曲家／乐手／演员／医生／牧师…）；学界职业但语境不符 30（含 Charles Mills→Tiebout、MacLeod→遗传学家、Perry→神学家等同名案） |
+
+采信四人已填生卒（`ren-ming-biao.md`，依据列记 GND 号与 en/ 行号）；Tuna、Planer 只有
+`19XX` 段，生卒仍留空。其余 281 条 review 无年份或同名多候选，须回原条目语境另查，
+不入本轮。
