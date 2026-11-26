@@ -433,4 +433,10 @@ review 池 383 条至此 146 条有判定、237 条依 B 档留空，无第三�
   现查（2026-11-26 为 19 行）。
 * 单测：`tools/tests/test_check_terms_person_terminal.py`（5 例，含台账注入、`留白` 豁免与
   显式“留白待考”不被台账覆盖）。
+* **2026-11-26 收口（告警归零）**：15 条真实待办逐条定点核查（GND 台账＋en 源文），
+  1 条补事实——Arturo Roig 生卒取 SEP 原文括注 `en/latin-american-philosophy:812`
+  “(1922–2012)”；1 条驳回同名（Páez：GND 候选为法学家 Ibarra 1966，职业不符）；
+  13 条查无（GND 无 country、日期为 `[19XX]` 残码，来源页无载）按 ADR-0091 注终态。
+  现告警 **0 条**，终态 767（依据列 32＋台账 735）；凭证
+  `results/person-missing-closure-2026-11-26.tsv`。
 * 未决：`rules/03-terminology.md:77` 仍写两列“必填”，与本口径形式冲突，待规则修订时并入。
