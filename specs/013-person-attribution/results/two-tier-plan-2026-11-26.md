@@ -108,3 +108,15 @@ Yi Hwang 1501–1570。依据列记 `en/<slug>/<file>:<line>`。
 `gnd-review-decisions-2026-11-26.tsv` 现覆盖全部 383 条 review：采信 6、存疑 1、未判 281、
 驳回 95。未判者均为“无生卒或缺职业”，旁证列已记条目内是否有引证（有 236／无 45），
 留待随译按语境定人。
+
+### 第三轮：籍属补捞（同日）
+
+缺籍属 550 行按「姓名前 90 字内出现国别形容词」扫 `en/`，得 35 条候选；**34 条是期刊名
+误配**（British Journal for the Philosophy of Science、French Enlightenment、American
+Political Science Review、Journal of Scottish Philosophy 等），只有 2 条可用：
+
+* Anantavīrya（jayaraasi）：正文称其为 South Indian Digambara 注疏者 → 印度；
+* Jurjānī（arabic-islamic-mysticism）：列于 Persian philosophers 并列句 → 伊朗。
+
+两条只补籍属，生卒仍空（Jurjānī 旁的 1097–1127 疑为活动期，不采）。结论：`en/` 正文并非
+稳定的籍属来源，误配率高，不再铺量；籍属仍随译定点核。
