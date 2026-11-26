@@ -1,115 +1,120 @@
-# 全要素清单与审计证据（实读，2026-11-26）
+# 全要素清单与审计证据（rev 10 复算）
 
-- 用途：specs/064 rev 2 的附表；每条附复算方式，便于独立复核
-- 纪律：数字均为当次实读，不做推演；“待核”项显式标注
+- 用途：specs/064 rev 10 的事实底表；数字均为 2026-11-26 实读
+- 纪律：current 与 target 分列；“有值／N/A／未实现”分开；“待核”不用来掩盖未查
+- 基点：`2ce7ac7fe`；工作树含他人既有 rev 9 改动，本轮已回读保留
 
-## 1 节点（22，案 B 后 20 活跃＋2 退役）
+## 1 节点（current 22，全非 retired）
 
-| 节点 | prev | 类型 | gate | 对象域 | 判据（owner 一致） | 案 B |
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| ex-01 | — | pipe | ✓ | source | fetch_audit | 活跃 |
-| ex-02 | ex-01 | pipe | ✓ | conversion | check_en_patches、divergence | 活跃 |
-| ex-03 | ex-02 | pipe | ✓ | conversion | check_yuanwen_fidelity | 活跃 |
-| ex-04 | ex-03 | pipe | ✓ | source | en_integrity、en_source_audit | 活跃 |
-| ex-05 | ex-04 | format | ✗ | — | **无** | **退役→rv-09** |
-| tr-01 | ex-05 | stage | ✗ | term | check_terms | 活跃 |
-| tr-02 | tr-01 | stage | ✗ | — | 无（人工） | 活跃 |
-| tr-03 | tr-02 | stage | ✓ | — | check_pairs | 活跃 |
-| tr-04 | tr-03 | stage | ✓ | — | check_prose | 活跃 |
-| tr-05 | tr-04 | format | ✗ | — | **无** | **退役→rv-09** |
-| rv-01 | tr-05 | stage | ✓ | term | check_terms、errata_check（缺工具） | 活跃 |
-| rv-02 | rv-01 | stage | ✓ | — | check_math_zh、check_quotes、check_tables_images、check_academic | 活跃 |
-| rv-03 | rv-02 | stage | ✗ | — | cite_audit | 活跃 |
-| rv-04 | rv-03 | stage | ✗ | — | logic_audit | 活跃 |
-| rv-05 | rv-04 | stage | ✗ | — | grammar_audit | 活跃 |
-| rv-06 | rv-05 | stage | ✗ | — | register_audit | 活跃 |
-| rv-07 | rv-06 | stage | ✗ | — | measure_audit | 活跃 |
-| rv-08 | rv-07 | stage | ✗ | — | punct_audit | 活跃 |
-| rv-09 | rv-08 | stage | ✓ | format | check_style、check_images、check_summary | 活跃（**净增 11 项**） |
-| sg-01 | rv-09 | review | ✗ | — | review-verity（无工具，白名单） | 活跃 |
-| sg-02 | sg-01 | review | ✗ | — | review-coherence（无工具，白名单） | 活跃 |
-| sg-03 | sg-02 | review | ✓ | aggregate | ci_all（聚合，白名单） | 活跃 |
+| 节点 | prev | 类型 | gate owner | 判据 | 对象域 |
+| ---- | ---- | ---- | ---- | ---- | ---- |
+| ex-01 | — | pipe | ✓ | fetch_audit | source |
+| ex-02 | ex-01 | pipe | ✓ | check_en_patches、divergence | conversion |
+| ex-03 | ex-02 | pipe | ✓ | check_yuanwen_fidelity | conversion |
+| ex-04 | ex-03 | pipe | ✓ | en_integrity、en_source_audit | source |
+| ex-05 | ex-04 | format | ✗ | — | — |
+| tr-01 | ex-05 | stage | ✗ | check_terms（辅助） | term |
+| tr-02 | tr-01 | stage | ✗ | —（人工） | — |
+| tr-03 | tr-02 | stage | ✓ | check_pairs | consistency |
+| tr-04 | tr-03 | stage | ✓ | check_prose | grammar |
+| tr-05 | tr-04 | format | ✗ | — | — |
+| rv-01 | tr-05 | stage | ✓ | check_terms、errata_check（check_pairs 轴） | term |
+| rv-02 | rv-01 | stage | ✓ | check_math_zh、check_quotes、check_tables_images、check_academic | 多域 |
+| rv-03 | rv-02 | stage | ✗（T0） | cite_audit | cite |
+| rv-04 | rv-03 | stage | ✗（T0） | logic_audit | logic |
+| rv-05 | rv-04 | stage | ✗（T0） | grammar_audit | grammar |
+| rv-06 | rv-05 | stage | ✗（T0） | register_audit | register |
+| rv-07 | rv-06 | stage | ✗（T0） | measure_audit | measure |
+| rv-08 | rv-07 | stage | ✗（T0） | punct_audit | punct |
+| rv-09 | rv-08 | stage | ✓ | check_style、check_images、check_summary | format |
+| sg-01 | rv-09 | review | ✗ | review-verity（人工） | review |
+| sg-02 | sg-01 | review | ✗ | review-coherence（人工） | review |
+| sg-03 | sg-02 | review | ✓ | ci_all（聚合） | aggregate |
 
-复算：`python -c "import json;d=json.load(open('rules/pipeline.json'));print(len(d['nodes']))"`
+复算：`len(json.load(open("rules/pipeline.json"))["nodes"]) == 22`。案 B 的 20＋2 是 target，不是现状。
 
-## 2 判据（26）
+## 2 判据（26）与承载体
 
-复算：`criteria_owner` 去 `note` 后键数。
+- `criteria_owner` 去 `note` 后 26 键，值均为单元素。
+- 例外承载体：`errata_check → check_pairs#errata-apply`（轴）、`review-verity`／`review-coherence`（人工）、`ci_all`（聚合）、`markdownlint`（外部告警）。
+- **`errata_check` 不是“缺工具”**；其宿主与规则名均被 `check_stages` S5 和测试校验。
 
-| 判据 | owner | 有工具 | 有单测 |
-| ---- | ---- | ---- | ---- |
-| fetch_audit | ex-01 | ✓ | ✓ |
-| check_en_patches | ex-02 | ✓ | ✓ |
-| divergence | ex-02 | ✓ | ✓ |
-| check_yuanwen_fidelity | ex-03 | ✓ | **✗** |
-| en_integrity／en_source_audit | ex-04 | ✓ | ✓ |
-| check_terms | tr-01、rv-01 | ✓ | ✓ |
-| check_pairs | tr-03 | ✓ | **✗** |
-| check_prose | tr-04 | ✓ | ✓ |
-| errata_check | rv-01 | **✗** | ✗ |
-| check_math_zh／check_quotes／check_tables_images／check_academic | rv-02 | ✓ | 部分 |
-| check_style／check_images／check_summary | rv-09 | ✓ | ✓ |
-| cite_audit | rv-03 | ✓ | ✗ |
-| logic_audit | rv-04 | ✓ | ✗ |
-| grammar_audit | rv-05 | ✓ | ✗ |
-| register_audit | rv-06 | ✓ | ✗ |
-| measure_audit | rv-07 | ✓ | ✗ |
-| punct_audit | rv-08 | ✓ | ✗ |
-| review-verity／review-coherence | sg-01／sg-02 | ✗（白名单） | — |
-| ci_all | sg-03 | ✗（聚合） | — |
+## 3 工具（96）与依赖
 
-注：`check_terms` 出现两个 owner（tr-01 辅助、rv-01 硬拦）——AX20 单元素要求下，须在 `criteria_owner` 层明确“硬拦 owner＝rv-01”，tr-01 的挂载标 `assist`（当前结构是节点 criteria 列表并列，需实施时区分）。
+| 项 | 事实 |
+| ---- | ---- |
+| 文件 | 96 个 `tools/*.py`；55 个 `tools/tests/*.py` |
+| 评级 | A26（25 A＋1 A+）／B29／C30／D10／包标记1 |
+| 未评级/重复 | 已补 `campaign`、`summary_sync`；删除重复 `en_integrity` 行 |
+| 直接非标准库导入 | `tl_crawler.py` → `cryptography`、`playwright`；其余 95 件未命中 |
+| 门禁 | `check_all.py` 当前 21 项，开工实测全绿 |
 
-## 3 工具（96）
+复算方法：目录 glob＋AST 解析（不靠 grep 猜）；评级表按行解析并核对实际 stem。
 
-| 类 | 数 | 代表 |
+## 4 规则（11 域／19 份）
+
+`rules/*.md` 顶层是 10 个编号文件＋README；05 是目录，含 9 份约束性文档。故：
+
+- 规则域：01–11 共 **11**；
+- 约束性 Markdown：顶层 10＋`rules/05/` 9＝**19**（排除 README、ADR、reference）。
+
+`applies_to` 目前不是规则头字段；是否建立、如何生成，属设计选择，不是事实。
+
+## 5 规格卡（63）
+
+| 形态 | 数 | 目录 |
 | ---- | ---- | ---- |
-| check 判据 | 24 | check_all、check_stages、check_style、check_terms… |
-| 术语 | 15 | term_*、register_*、tl_*（术语在线） |
-| 审计 | 12 | en_source_audit、cite_audit、logic_audit、grammar_audit、register_audit、measure_audit、punct_audit、indep_review、qchain、mech_audit、drift_scan、roundtrip_drift |
-| task／journal | 11 | task_ops、progress、journal_*、wipe_*、migrate_*、replay_state、mandatory_backfill |
-| fetch／sync | 10 | fetch、fetch_all、fetch_catalog、fetch_entry、compare、detect_updates、catalog_drift、sync_guard、sync_official_snapshot |
-| en／convert | 7 | en_integrity、en_patch_lib、yuanwen、parser、extract_text、divergence、wipe_history（记录类） |
-| lib／其他 | 17 | common、naming_lib、register_lib、axis_lib、spec_index、standards_table 等 |
-
-复算：`ls tools/*.py | wc -l`
-
-## 4 规则（10）与作用面
-
-见 spec §2.4 表。机检现状：`grep -c "applies_to" rules/*.md`＝0（全部无声明）。
-
-## 5 文档（64 卡）
-
-| 类 | 数 | 判据 |
-| ---- | ---- | ---- |
-| 三件套齐全（工具型） | 5 | 001、002、003、006、060 |
+| spec＋plan＋tasks | 6 | 001、002、003、006、060、064 |
 | spec＋plan | 1 | 005 |
-| 单卡 | 56 | 其余 |
-| 含 contracts | 5 | 001、006、008、012、054 |
+| 仅 spec | 56 | 其余；缺号 019（并入 021） |
+| **合计** | **63** | — |
 
-复算：`for d in specs/*/; do ...`（见 spec §1）
+`specs/README.md` 是生成物，不手改。
 
-## 6 阶段（60）与战役（6）、标记（8）
+## 6 阶段／战役／标记（063 设计）
 
-见 specs/063 §1.3／§1.4／§1.8。案 B 后：1.3.4、2.5 转 retired；活跃 58。
+- 阶段：60＝**34 实项＋26 预留**；案 B target＝32 非退役实项＋26 预留＋2 退役。
+- 战役：6（设计值，不是 naming v1 已入册事实）。
+- 标记：8（同上）。
+- 当前 `rules/naming.json` 仍为 `sep-naming/v1`，未含 stages／campaigns／marks；不得把 063 设计当现状。
 
 ## 7 标准（96 条登记）
 
-见 `standards-map.md`。
+`rules/standards.json`：adopted 23／cited 60／not_adopted 8／deviations 5，合计 96。
 
-## 8 缺口证据索引
+- 身份、版本、采纳状态的单一源是该文件；条款细则在 `rules/10`。
+- specs/061 §5 是 2026-11-25 的评估快照与证据，不是实时权威。
+- 2026-11-26 官方复核：29148:2018 现行（2024 确认，DIS 在研）；15289:2019 现行（2025 确认，2026-06-11 转 90.92）；26514:2022 现行；25010:2023 为九特性、ICT／软件产品模型。
+- 25010 不直接适用于译文质量；只能候选用于工具质量或显式类比。
 
-| 缺口 | 证据命令或位置 |
+## 8 缺口证据索引（详见 spec §2.7）
+
+| 缺口 | 证据 |
 | ---- | ---- |
-| G1 源侧规则真空 | `for id in ex-01 ex-02 ex-03 ex-05 tr-05; do grep -rl "$id" rules --include=*.md; done` → 仅 ex-01 命中 ADR-0080（**2026-11-26 rev 9 注**：`rules/11` 已为本组工序立条款，本条证据作历史快照；G1 转“部分闭合”，见 spec §2.7） |
-| G2 三无节点 | pipeline.json 中 ex-05／tr-05 `criteria: []`；rules 零条款；测试零覆盖 |
-| G3 errata_check | `ls tools/errata_check.py` → 不存在 |
-| G4 测试薄 | `ls tools/tests/*.py` 55 文件，覆盖判据 7 项 |
-| G5 标准双写 | specs/061 §5（22 行）与 specs/063 §1.3 标准列并存 |
-| G6 三件套判据 | `.specify/templates/` 有模板，但 `rules/` 与 `specs/README.md` 无判据 |
-| G7 判据—工具映射 | 无登记表，靠 `replace('-','_')` |
-| G8 规则作用面 | `grep -c applies_to rules/*.md`＝0 |
-| G9 规则↔阶段 | 063 stages 条目无 `rules` 字段 |
-| G10 ADR 头 | 88 份中 28 份匹配 `^状态：` |
-| G11 版本待核 | 061 `version-audit.md` 第 47／48 行 |
-| G12 质量模型 | standards.json 无 25010 条目 |
+| G1 源侧规则部分闭合 | `rules/11` 五节已立；T130 人工定性未完 |
+| G2 两节点无判据 | pipeline 中 ex-05／tr-05 `criteria: []` |
+| G3 `errata_check` | **关闭**：`criteria_carrier`＋`check_pairs#errata-apply`＋测试 |
+| G4 测试薄 | 15 节点无单测 |
+| G5 标准展示复制 | 061 §5／063 §1.3；源应为 standards.json＋rules/10 |
+| G6 三件套判据 | 无成文判据；不得以启发式 `check_doc_shape` 代替 |
+| G7 工具—判据全量视图 | 判据侧已闭合；全量视图可生成，低优先 |
+| G8 规则作用域 | 无 `applies_to`；可改用登记表生成 |
+| G9 规则—阶段 | 设计上未关联，非必然缺陷 |
+| G10 ADR 头 | 历史格式不均；不得改写历史 |
+| G11 版本 | **关闭**：三项已核，登记回写另批 |
+| G12 25010 | 不直接适用；可选类比 |
+| G13 候选豁免 | rules/11 §5.3 已落地；人工定性与 ADR 待补 |
+| G14 检测器噪声 | 单件 3/5 确定误报；不得外推为全局误报率 |
+| G15 案 B 与 P12 | 退役 ex-05／tr-05 使 seg1／seg2 段尾失守；**阻断** |
+| G16 061 权威倒置 | 评估快照被当实时权威 |
+| G17 证明有效性 | 旧文自相矛盾（称相容又承认红点） |
+| G18 工具与依赖 | 评级表漏项／重复；直接依赖被“零依赖”掩盖 |
+| G19 E2E 口径 | T130 未完成；18 行冒充22站；sg-03 需 mandate |
+| G20 状态错位 | rev 5 头／rev 9 记录；任务粒度不一 |
+| G21 无基线指标 | 30 s／50 ms／128 并发等无测量 |
+| G22 063 模型缺陷 | CT3 前提误指 CT5；AX1 被 AX2 蕴含；CT7 族数不符 |
+| G23 登记表设计 | 字段必填、自哈希、path 唯一、自动删除冲突 |
+| G24 AGENTS 5 秒旧约束 | ADR-0069 已废除；AGENTS 仍写“相邻至少 5 秒” |
+| G25 规则入口旧口径 | rules/README 写 P1–P28；naming authority 引 12207:2017 |
+
+本表不授权实施；G15 解决前案 B 不得落地。
