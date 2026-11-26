@@ -48,7 +48,7 @@
 | 评级 | A26（25 A＋1 A+）／B29／C30／D10／包标记1 |
 | 未评级/重复 | 已补 `campaign`、`summary_sync`；删除重复 `en_integrity` 行 |
 | 直接非标准库导入 | `tl_crawler.py` → `cryptography`、`playwright`；其余 95 件未命中 |
-| 门禁 | `check_all.py` 当前 21 项，开工实测全绿 |
+| 门禁 | `check_all.py` 当前 22 项，开工实测全绿 |
 
 复算方法：目录 glob＋AST 解析（不靠 grep 猜）；评级表按行解析并核对实际 stem。
 
