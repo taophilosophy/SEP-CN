@@ -434,8 +434,6 @@ The foregoing definition specifies **PR** as the *minimal closure* of $I_{\textb
 
 $$\begin{equation}\label{prmc} \end{equation}$$
 
-
-
 i. $I_{\textbf{PR}} \subseteq \textbf{PR}$
 
 **ii.**

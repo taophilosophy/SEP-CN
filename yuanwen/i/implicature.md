@@ -388,8 +388,6 @@ However:
 
 Relevance theorists thus propose that every utterance conveys a presumption of its own optimal relevance, defined by (a) and (b):
 
-
-
 **Presumption of Optimal Relevance**: a. The utterance is relevant enough to be worth processing.
 
 **b.**

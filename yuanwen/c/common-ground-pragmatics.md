@@ -223,8 +223,6 @@ a. In $w_{1}$, Fred believes that he believes that $p$ (because (1b) holds).
 
 In $w_{2}$, Fred believes that he believes that $p$ (because (1a) holds).
 
-
-
 And so on.
 
 Since $w_{1}$ and $w_{2}$ are the only worlds accessible from $w_{0}$, it follows that, in $w_{0}$, Fred believes that $p$, he believes that he believes that $p$, and so on.

@@ -542,8 +542,6 @@ Here now is the rigorous argument. We show that the failure of the law of exclud
 
 Now suppose that the law of excluded middle were to hold. Then we would have, for any *ε*, either $\varepsilon = 0$ or $\varepsilon \ne 0$. But (\*) allows us to eliminate the second alternative, and we infer that, for all *ε*, $\varepsilon = 0$. This may be written
 
-
-
 *for all \(\varepsilon\), $\varepsilon \cdot 1 = \varepsilon \cdot 0$,*
 
 from which we derive by microcancellation the falsehood $1 = 0$. So again the law of excluded middle must fail.

@@ -387,8 +387,6 @@ The original hope of Reichenbach and Suppes was to provide a reduction of causat
 
 Pearl (1988: Chapter 3) proves the following theorem:
 
-
-
 (Identifiability with time-order)
 
 If

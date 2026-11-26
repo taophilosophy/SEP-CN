@@ -37,11 +37,7 @@ medical assistant at a Heidelberg clinic
 
 semester of study with J. Müller and DuBois-Reymond at Berlin;
 
-
-
 doctorate in medicine at Heidelberg; habilitation as *Dozent* in physiology;
-
-
 
 nearly fatal illness
 

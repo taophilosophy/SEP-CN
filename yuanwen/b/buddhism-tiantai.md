@@ -146,57 +146,31 @@ Zhiyi takes an obscure passage from a Chinese translation of the *Mahāyāna* *M
 
 Literally, the passage reads as follows:
 
-
-
 (Reality) cannot be described in terms of the arising of what arises.
-
-
 
 It cannot be described in terms of the non-arising of what arises.
 
-
-
 It cannot be described in terms of the arising of non-arising.
-
-
 
 It cannot be described in terms of the non-arising of non-arising.
 
-
-
 It cannot be described in terms of arising or non-arising [in any of these ways].
-
-
 
 Yet under the right circumstances it can be validly described in terms of any of these.
 
 The passage can be somewhat more venturesomely translated as follows:
 
-
-
 The generated generates: that cannot be said.
-
-
 
 The generated is ungenerated: that cannot be said.
 
-
-
 The ungenerated generates: that cannot be said.
-
-
 
 The ungenerated ungenerates: that cannot be said.
 
-
-
 It cannot be said that there is either generation or the ungenerated in any of these ways.
 
-
-
 Although all four of these cannot be said, yet any of them *can* be said under the right circumstances [i.e., none is literally or absolutely valid, but all are conventionally valid—i.e., pragmatically effective in leading to liberation—in certain situations].
-
-
 
 生生 不可說，生不生亦不可說，不生生亦不可說，不生不生亦不可說，生亦不可說，不生亦不可說，以有因緣故可得說
 

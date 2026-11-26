@@ -75,15 +75,11 @@ However, even if Chomsky’s who/which argument succeeds in showing that syntax 
 
 \* Ani botzer et ha-tamrim.
 
-
-
 I am grape-picking the dates.
 
 **(6)**
 
 \* Ani gorev et ha-kfafot.
-
-
 
 I am sock-putting-on the gloves.
 

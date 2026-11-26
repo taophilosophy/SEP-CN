@@ -1733,6 +1733,13 @@ def convert_entry(slug):
 
     md = restore_cross_block_math(md, stash)
 
+    # 连续空行折叠为 1（specs/053 第五十五批）：markdown 段间只需一个空行，
+    # 3+ 连续空行是 C 的 emit 过产（多块拼接时 `''` 与段间隔叠加），HTML 侧
+    # 无对应语义、R 只能还原一个 → B3.1 恒红（blank 14 件中 13 件同型：
+    # buddhism-tiantai／church／meinong 等；全库普查 15 件 32 处）。
+    # 松散列表只需 2 个 `\n`，不受此折叠影响。
+    md = re.sub(r'\n{3,}', '\n\n', md)
+
     # 后置硬校验（2026-11-25，logic-intensional 判例）：占位哨兵是转换器内部记号，
     # 泄漏进 md 即成不可见污染（NUL 会一路进译文与站点）。宁可该件转换失败。
     leak = {c: md.count(c) for c in ('\x00', '\x07', '\x14', '\x15', '\x1b') if c in md}

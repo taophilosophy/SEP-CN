@@ -418,8 +418,6 @@ Hammurabi believes that (1)
 
 Monica said that (2)
 
-
-
 *Ad infinitum.*
 
 Replacing such constructions with the corresponding ones in LSD requires an infinity of independent names, “Hesperus₀”—“Hesperus_{*n*}”, corresponding to the occurrences of “Hesperus” in (1), (2), (3), etc. If these names named an infinity of primitive and independent concepts, Church’s proposal would be subject to the objection that a language for which LSD was a semantic theory could not be learned (Davidson 1965)[^davidson-1965]. To meet this objection, something more needs to be said about the nature of the relation $\Delta$. The issue is discussed in [supplement E](church.supplementE.md), as are Church’s numerous other achievements in the philosophy of language.

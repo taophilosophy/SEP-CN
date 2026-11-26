@@ -117,10 +117,6 @@ This is a thesis of self-consciousness in a twofold manner: First, *s* is consci
 
 Meinong would instead state:
 
-
-
-
-
 **(C1)**
 
 Being *F* is a self-presenting property for a subject *s* =_{*df*} Being *F* is necessarily such that, if *s* is *F*, and if *s* thinks about its\* being *F*, then *s* does not need any particular, separate presentation of its\* being *F*.

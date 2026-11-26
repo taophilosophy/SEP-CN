@@ -133,8 +133,6 @@ $\rBO\Phi$
 
 **So,**
 
-
-
 **(3)**
 
 $\rR(\rI\Phi)$
@@ -150,8 +148,6 @@ $\rR(\rBO\Phi\to\rI\Phi)$
 $\rBO\Phi$
 
 **So,**
-
-
 
 **(3)**
 

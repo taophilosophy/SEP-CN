@@ -165,8 +165,6 @@ Suppose that Smith and Jones have applied for a certain job. Smith believes, on 
 
 *Justified True Belief Theory of Knowledge:* *S* knows that *p* IFF *S* has a justified true belief that *p*.
 
-
-
 **The Transplant Case** (Thomson 1976)[^thomson-1976]:
 
 Suppose that you are a transplant surgeon and that you now have five patients, each in need of a different organ in order to prevent imminent and certain death. You also have a suitable donor in your hospital for a routine check-up. If you were to involuntarily (and secretly) take her organs and transplant them into the needy five, you are certain to bring about her death but also to prevent the death of the five.
@@ -175,8 +173,6 @@ Suppose that you are a transplant surgeon and that you now have five patients, e
 
 *Act Utilitarian Theory of Morality:* Action *A* is morally right IFF *A* maximizes well-being.
 
-
-
 **The Chinese Nation Case** (Block 1978)[^block-1978]
 
 Suppose that the citizens of China are organized so as to be functionally equivalent to a human brain and to interact with a human-like body in a manner functionally equivalent to that in which the brain interacts with the human body.
@@ -184,8 +180,6 @@ Suppose that the citizens of China are organized so as to be functionally equiva
 *Chinese Nation Intuition:* The nation of China, so organized, would lack qualia (i.e., there would be nothing it would be like to be the nation of China).
 
 *Functionalist Theory of Mind:* *S* has mental state *M* IFF *S* contains a realization of functional state *F*.
-
-
 
 **The Flagpole Case** (Bromberger 1966)[^bromberger-1966]
 

@@ -424,8 +424,6 @@ Pervades (*S*, *H*) only if (∃*x*)(*Hx* & *P*′*x*) → (*P* ≠ *S*).
 
 (There is an implicit quantification over *P* here). What this says is that there is no place where *H* is collocated with the absence of *S*, but it does so without actually using the potentially non-referring phrase “absence of S”, and it thereby avoids the problem of universally positive properties. However, although this condition is necessary for pervasion, it is not sufficient, for it is consistent with *H* (or *S*) being uninstantiated. So Gaṅgeśa insists too that *H* and *S* must be collocated:
 
-
-
 Pervades (*S*, *H*) iff i. ∃*x* (*Hx* & *P*′*x*) → (*P* ≠ *S*), and
 
 **ii.**

@@ -1,9 +1,9 @@
 {
- "total": 42,
+ "total": 29,
  "counts": {
   "bib-keys": 24,
   "text": 4,
-  "blank": 14
+  "blank": 1
  },
  "items": [
   {
@@ -22,44 +22,9 @@
    "why": "真文字差"
   },
   {
-   "slug": "buddhism-tiantai",
-   "fam": "blank",
-   "why": "空行/折行"
-  },
-  {
-   "slug": "category-mistakes",
-   "fam": "blank",
-   "why": "空行/折行"
-  },
-  {
-   "slug": "causation-probabilistic",
-   "fam": "blank",
-   "why": "空行/折行"
-  },
-  {
-   "slug": "church",
-   "fam": "blank",
-   "why": "空行/折行"
-  },
-  {
-   "slug": "common-ground-pragmatics",
-   "fam": "blank",
-   "why": "空行/折行"
-  },
-  {
-   "slug": "continuity",
-   "fam": "blank",
-   "why": "空行/折行"
-  },
-  {
    "slug": "contract-law",
    "fam": "bib-keys",
    "why": "174 键名不同"
-  },
-  {
-   "slug": "early-modern-india",
-   "fam": "blank",
-   "why": "空行/折行"
   },
   {
    "slug": "goodman",
@@ -87,19 +52,9 @@
    "why": "49 键名不同"
   },
   {
-   "slug": "implicature",
-   "fam": "blank",
-   "why": "空行/折行"
-  },
-  {
    "slug": "information-entropy",
    "fam": "text",
    "why": "真文字差"
-  },
-  {
-   "slug": "intuition",
-   "fam": "blank",
-   "why": "空行/折行"
   },
   {
    "slug": "japanese-philosophy",
@@ -132,11 +87,6 @@
    "why": "28 键名不同"
   },
   {
-   "slug": "meinong",
-   "fam": "blank",
-   "why": "空行/折行"
-  },
-  {
    "slug": "meister-eckhart",
    "fam": "bib-keys",
    "why": "67 键名不同"
@@ -147,24 +97,9 @@
    "why": "92 键名不同"
   },
   {
-   "slug": "possibilism-actualism",
-   "fam": "blank",
-   "why": "空行/折行"
-  },
-  {
-   "slug": "rationality-structural",
-   "fam": "blank",
-   "why": "空行/折行"
-  },
-  {
    "slug": "ratnakirti",
    "fam": "bib-keys",
    "why": "65 键名不同"
-  },
-  {
-   "slug": "recursive-functions",
-   "fam": "blank",
-   "why": "空行/折行"
   },
   {
    "slug": "reid-ethics",

@@ -498,8 +498,6 @@ $\Box\forall \sfx(\forall \sfx \Box \neg \sfB\sfx \to \Box \neg \sfB\sfx)$
 
 and the intended proof to **BF**\* stalls out. To continue along the lines of the SQML proof above we would need to be able to swap the initial necessity operator $\Box$ in line 2\* with the universal quantifier to infer
 
-
-
 $\forall \sfx\Box(\forall \sfx \Box \neg \sfB\sfx \to \Box \neg \sfB\sfx)$
 
 That is, we would need to be able to prove an instance of
