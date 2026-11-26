@@ -406,19 +406,19 @@ Newton, by contrast, held that attraction was a cause that was a result of “th
 
 [^note-8]: In the “History of Astronomy”, Hume’s close friend, Adam Smith, calls attention to this feature of Newton’s methodology (see Schliesser 2005b)[^schliesser-2005b].
 
-[^thn-1739]: [THN] 1739–40, *A Treatise of Human Nature*, David Fate Norton and Mary J. Norton (eds.), Oxford: Oxford University Press, 2000. Citations by paragraph.
+[^hume-newton-1739]: [THN] 1739–40, *A Treatise of Human Nature*, David Fate Norton and Mary J. Norton (eds.), Oxford: Oxford University Press, 2000. Citations by paragraph.
 
-[^ehu-1748]: [EHU] 1748, *An Enquiry Concerning Human Understanding* Tom L. Beauchamp (ed.), Oxford: Oxford University Press, 1999. Citations by paragraph.
+[^hume-newton-1748]: [EHU] 1748, *An Enquiry Concerning Human Understanding* Tom L. Beauchamp (ed.), Oxford: Oxford University Press, 1999. Citations by paragraph.
 
-[^epm-1751]: [EPM] 1751, *An Enquiry Concerning the Principles of Morals*, Tom L. Beauchamp (ed.), Oxford: Oxford University Press, 1998. Citations by paragraph.
+[^hume-newton-1751]: [EPM] 1751, *An Enquiry Concerning the Principles of Morals*, Tom L. Beauchamp (ed.), Oxford: Oxford University Press, 1998. Citations by paragraph.
 
-[^he-1754]: [HE] 1754–61, *The History of England from the Invasion of Julius Caesar to the Revolution in 1688*, foreword by William B. Todd, 6 vols. Indianapolis: Liberty Fund, 1983. Citations by volume and page number. [[HE available online](https://oll.libertyfund.org/titles/hume-the-history-of-england-6-vols)]
+[^hume-newton-1754]: [HE] 1754–61, *The History of England from the Invasion of Julius Caesar to the Revolution in 1688*, foreword by William B. Todd, 6 vols. Indianapolis: Liberty Fund, 1983. Citations by volume and page number. [[HE available online](https://oll.libertyfund.org/titles/hume-the-history-of-england-6-vols)]
 
-[^nhr-1757]: [NHR] 1757, *The Natural History of Religion*, Tom L. Beauchamp (ed.), Oxford: Oxford University Press, 2000. Citations by paragraph.
+[^hume-newton-1757]: [NHR] 1757, *The Natural History of Religion*, Tom L. Beauchamp (ed.), Oxford: Oxford University Press, 2000. Citations by paragraph.
 
-[^empl-1758]: [EMPL] 1758, *Essays, Moral, Political, and Literary*, edited and with a foreword, notes, and glossary by Eugene F. Miller. Indianapolis: Liberty Fund, 1985, revised edition. Citations by page-number. [[EMPL available online](https://oll.libertyfund.org/titles/hume-essays-moral-political-literary-lf-ed)]
+[^hume-newton-1758]: [EMPL] 1758, *Essays, Moral, Political, and Literary*, edited and with a foreword, notes, and glossary by Eugene F. Miller. Indianapolis: Liberty Fund, 1985, revised edition. Citations by page-number. [[EMPL available online](https://oll.libertyfund.org/titles/hume-essays-moral-political-literary-lf-ed)]
 
-[^dialogues-1779]: [*Dialogues*] 1779, *Dialogues Concerning Natural Religion*, edited with an introduction and notes by Martin Bell, London: Penguin Books, 1990. Citations by section.
+[^hume-newton-1779]: [*Dialogues*] 1779, *Dialogues Concerning Natural Religion*, edited with an introduction and notes by Martin Bell, London: Penguin Books, 1990. Citations by section.
 
 [^letters-1932]: [*Letters*] *The Letters of David Hume*, 2 vols., J.Y.T. Greig (ed.), Oxford: Oxford University Press, 1932.
 

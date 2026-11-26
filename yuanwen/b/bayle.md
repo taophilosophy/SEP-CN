@@ -190,13 +190,13 @@ conscience | Enlightenment | evil: problem of | fideism | integrity | toleration
 
 [^bayle-1702]: –––, 1702, *Dictionaire historique et critique, par Monsieur Bayle, seconde édition, revue, corrigée et augmentée par l’auteur*, three volumes, Rotterdam: R. Leers. [Second edition of the *Dictionary*, the last that Bayle lived to see published.]
 
-[^dictionary-1740]: [*Dictionary*] –––, 1740, *Dictionaire historique et critique, par Mr. Pierre Bayle*, Cinquième édition, four volumes, Amsterdam: P. Brunel et al. [The fifth edition of Bayle’s *Dictionary* is the one most often cited by Bayle scholars on account of its reliability. It includes revisions and additions that Bayle made before his death that were not included in the second edition.]
+[^bayle-1740]: [*Dictionary*] –––, 1740, *Dictionaire historique et critique, par Mr. Pierre Bayle*, Cinquième édition, four volumes, Amsterdam: P. Brunel et al. [The fifth edition of Bayle’s *Dictionary* is the one most often cited by Bayle scholars on account of its reliability. It includes revisions and additions that Bayle made before his death that were not included in the second edition.]
 
-[^od-1964]: [OD] –––, *Oeuvres diverses*, nine volumes, edited by Elisabeth Labrousse, Hildesheim: G. Olms, 1964–1990. [The first four volumes consist of all of Bayle’s major works, besides the *Dictionary*. The next five volumes include mainly works by Bayle’s contemporaries that provide helpful context for reading Bayle.]
+[^bayle-1964]: [OD] –––, *Oeuvres diverses*, nine volumes, edited by Elisabeth Labrousse, Hildesheim: G. Olms, 1964–1990. [The first four volumes consist of all of Bayle’s major works, besides the *Dictionary*. The next five volumes include mainly works by Bayle’s contemporaries that provide helpful context for reading Bayle.]
 
-[^od-1999]: –––, *Correspondance de Pierre Bayle*, Fifteen volumes, edited by Élisabeth Labrousse, Antony McKenna, et al., Oxford: Voltaire Foundation, 1999–2017. [The most complete active and passive correspondence of Bayle, along with helpful notes.]
+[^bayle-1999]: –––, *Correspondance de Pierre Bayle*, Fifteen volumes, edited by Élisabeth Labrousse, Antony McKenna, et al., Oxford: Voltaire Foundation, 1999–2017. [The most complete active and passive correspondence of Bayle, along with helpful notes.]
 
-[^od-2012]: –––, *Bayle Corpus–Oeuvres completes*, edited by Antony McKenna and Gianluca Mori, Classiques Garnier Numérique, 2012. [A digital, searchable copy of the *Oeuvres diverses*, *Dictionaire*, and other supplemental works by Bayle.]
+[^bayle-2012]: –––, *Bayle Corpus–Oeuvres completes*, edited by Antony McKenna and Gianluca Mori, Classiques Garnier Numérique, 2012. [A digital, searchable copy of the *Oeuvres diverses*, *Dictionaire*, and other supplemental works by Bayle.]
 
 [^bayle-1734]: Bayle, Pierre, 1734 (2ⁿᵈ ed.), *The Dictionary Historical and Critical of Mr Peter Bayle*, P. Desmaizeaux (trans.), London: Knapton et al.. [A reliable and complete translation of Bayle’s magnum opus, reprinted in 1984 from New York: Garland Publishing.]
 

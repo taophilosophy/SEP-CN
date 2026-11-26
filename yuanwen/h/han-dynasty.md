@@ -247,69 +247,69 @@ All citations of Chinese texts follow the Chinese Text Project (CTP) ([https://c
 
 Chinese Philosophy: Chinese medicine | Chinese Philosophy: legalism in | Chinese Philosophy: science | Daoism | Laozi | Xunzi | Zhuangzi
 
-[^analects-nd]: [Analects](https://ctext.org/analects) (*Lunyu*).
+[^lunyu-nd]: [Analects](https://ctext.org/analects) (*Lunyu*).
 
-[^xunzi-nd]: [*Xunzi*](https://ctext.org/xunzi).
+[^han-dynasty-nd]: [*Xunzi*](https://ctext.org/xunzi).
 
 [^daodejing-nd]: Daodejing (*Laozi*), https://ctext.org/dao-de-jing
 
-[^lushi-nd]: [*Lushi Chunqiu*](https://ctext.org/lv-shi-chun-qiu), commissioned by Lu Buwei.
+[^lu-nd]: [*Lushi Chunqiu*](https://ctext.org/lv-shi-chun-qiu), commissioned by Lu Buwei.
 
-[^chuci-nd]: [*Chuci*](https://ctext.org/chu-ci) (Songs of Chu).
+[^songs-nd]: [*Chuci*](https://ctext.org/chu-ci) (Songs of Chu).
 
 [^gongyang-nd]: [*Gongyang Zhuan*](https://ctext.org/gongyang-zhuan) (Gongyang Commentary on the Spring and Autumn).
 
 [^zuo-nd]: [*Zuo Zhuan*](https://ctext.org/chun-qiu-zuo-zhuan) (Zuo Commentary on the Spring and Autumn).
 
-[^hanfeizi-nd]: [*Hanfeizi*](https://ctext.org/hanfeizi).
+[^han-dynasty-nd-2]: [*Hanfeizi*](https://ctext.org/hanfeizi).
 
-[^shangjunshu-nd]: [*Shangjunshu*](https://ctext.org/shang-jun-shu) (Book of Lord Shang).
+[^book-nd]: [*Shangjunshu*](https://ctext.org/shang-jun-shu) (Book of Lord Shang).
 
-[^xinyu-nd]: [*Xinyu*](https://ctext.org/xinyu) (*New Discussions*), Lu Jia.
+[^new-nd]: [*Xinyu*](https://ctext.org/xinyu) (*New Discussions*), Lu Jia.
 
-[^xinshu-nd]: [*Xinshu*](https://ctext.org/xin-shu) (*New Writings*), Jia Yi.
+[^new-nd-2]: [*Xinshu*](https://ctext.org/xin-shu) (*New Writings*), Jia Yi.
 
-[^chunqiu-nd]: [*Chunqiu Fanlu*](https://ctext.org/chun-qiu-fan-lu) (Luxuriant Dew of the “Spring and Autumn”), traditionally attributed to Dong Zhongshu.
+[^luxuriant-nd]: [*Chunqiu Fanlu*](https://ctext.org/chun-qiu-fan-lu) (Luxuriant Dew of the “Spring and Autumn”), traditionally attributed to Dong Zhongshu.
 
-[^huainanzi-nd]: [*Huainanzi*](https://ctext.org/huainanzi), commissioned by Liu An.
+[^liu-nd]: [*Huainanzi*](https://ctext.org/huainanzi), commissioned by Liu An.
 
-[^fayan-nd]: [*Fayan*](https://ctext.org/yangzi-fayan) (*Model Sayings*), Yang Xiong.
+[^model-nd]: [*Fayan*](https://ctext.org/yangzi-fayan) (*Model Sayings*), Yang Xiong.
 
-[^taixuanjing-nd]: [*Taixuanjing*](https://ctext.org/taixuanjing) (Classic of Supreme Mystery), Yang Xiong.
+[^classic-nd]: [*Taixuanjing*](https://ctext.org/taixuanjing) (Classic of Supreme Mystery), Yang Xiong.
 
 [^xinlun-nd]: *Xinlun* (*New Discourses*), Huan Tan
 
-[^lunheng-nd]: [*Lunheng*](https://ctext.org/lunheng) (*Balanced Discourses*), Wang Chong.
+[^balanced-nd]: [*Lunheng*](https://ctext.org/lunheng) (*Balanced Discourses*), Wang Chong.
 
 [^nüjie-nd]: *Nüjie* (*Instructions for Women*), Ban Zhao
 
-[^qianfulun-nd]: [*Qianfulun*](https://ctext.org/qian-fu-lun) (*Discourses of a Hermit*), Wang Fu.
+[^discourses-nd]: [*Qianfulun*](https://ctext.org/qian-fu-lun) (*Discourses of a Hermit*), Wang Fu.
 
-[^zhonglun-nd]: [*Zhonglun*](https://ctext.org/zhong-lun) (*Discourses Hitting the Mark*), Xu Gan.
+[^discourses-nd-2]: [*Zhonglun*](https://ctext.org/zhong-lun) (*Discourses Hitting the Mark*), Xu Gan.
 
-[^kongzi-nd]: [*Kongzi Jiayu*](https://ctext.org/kongzi-jiayu) (*Discussions of the Confucius School*), Wang Su.
+[^discussions-nd]: [*Kongzi Jiayu*](https://ctext.org/kongzi-jiayu) (*Discussions of the Confucius School*), Wang Su.
 
-[^kong-nd]: [*Kong Congzi*](https://ctext.org/kongcongzi) (*Collected Sayings of Confucius*), Wang Su.
+[^collected-nd]: [*Kong Congzi*](https://ctext.org/kongcongzi) (*Collected Sayings of Confucius*), Wang Su.
 
-[^lunyu-nd]: *Lunyu Jijie* (*Collected Explanations of the* Analects), He Yan (ed.)
+[^lunyu-nd-2]: *Lunyu Jijie* (*Collected Explanations of the* Analects), He Yan (ed.)
 
-[^shuowen-nd]: [*Shuowen Jiezi* ](https://ctext.org/shuo-wen-jie-zi)(Explanation of Written Characters), Xu Shen (ed.).
+[^explanation-nd]: [*Shuowen Jiezi* ](https://ctext.org/shuo-wen-jie-zi)(Explanation of Written Characters), Xu Shen (ed.).
 
 [^baihutong-nd]: [*Baihutong Delun*](https://ctext.org/bai-hu-tong) (Virtuous Discussions at the White Tiger Hall), compiled by Ban Gu.
 
-[^yantielun-nd]: [*Yantielun*](https://ctext.org/yan-tie-lun) (Salt and Iron Discourses), Huan Kuan.
+[^salt-nd]: [*Yantielun*](https://ctext.org/yan-tie-lun) (Salt and Iron Discourses), Huan Kuan.
 
-[^han-nd]: [*Han Shu*](https://ctext.org/han-shu) (Book of the Han), Ban Gu.
+[^book-nd-2]: [*Han Shu*](https://ctext.org/han-shu) (Book of the Han), Ban Gu.
 
 [^huangdi-nd]: [*Huangdi Neijing*](https://ctext.org/huangdi-neijing) (Internal Classic of the Yellow Emperor).
 
-[^lienü-nd]: [*Lienü Zhuan*](https://ctext.org/lie-nv-zhuan) (Biographies of Exemplary Women), compiled by Liu Xiang.
+[^biographies-nd]: [*Lienü Zhuan*](https://ctext.org/lie-nv-zhuan) (Biographies of Exemplary Women), compiled by Liu Xiang.
 
 [^hongming-nd]: *Hongming Ji* (*Collection for the Expansion and Clarification [of Buddhism]*), Sengyou
 
-[^hou-nd]: [*Hou Han Shu*](https://ctext.org/hou-han-shu) (Book of the Later Han), Fan Ye.
+[^book-nd-3]: [*Hou Han Shu*](https://ctext.org/hou-han-shu) (Book of the Later Han), Fan Ye.
 
-[^sanguo-nd]: [*Sanguo Yanyi*](https://ctext.org/sanguo-yanyi) (Romance of the Three Kingdoms), Luo Guanzhong.
+[^romance-nd]: [*Sanguo Yanyi*](https://ctext.org/sanguo-yanyi) (Romance of the Three Kingdoms), Luo Guanzhong.
 
 [^czikszentmihalyi-2006]: Czikszentmihalyi, Mark (ed./trans.), 2006, *Readings in Han Chinese Thought*, Indianapolis, IN: Hackett.
 

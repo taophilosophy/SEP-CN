@@ -174,13 +174,13 @@ Aristotle | Aristotle, General Topics: metaphysics | Aristotle, General Topics: 
 
 [^antoniana-2019]: 1554, *Antoniana Margarita, Opus nempe physicis, medicis, ac theologis non minus utile, quam necessarium, per Gometium Pereiram, medicum Methinae Duelli, quae Hispanorum lingua Medina de el Campo appellatur, nunc primum in lucem aeditum*. Translated to English in the 2019 edition [AM].
 
-[^apologia-nd]: [*Apologia*] 1555, *Objectiones licenciati Michaelis a Palacios, cathedrarii sacrae Theologiae in Salmantina Universitate adversus nonnulla ex multiplicibus Paradoxis Antonianae Margaritae, et Apologia eorundem*, Excusum est Methynae Campi in officina chalcographica Guilieimi de Millis, vigesima die Martii, Anni..
+[^objectiones-nd]: [*Apologia*] 1555, *Objectiones licenciati Michaelis a Palacios, cathedrarii sacrae Theologiae in Salmantina Universitate adversus nonnulla ex multiplicibus Paradoxis Antonianae Margaritae, et Apologia eorundem*, Excusum est Methynae Campi in officina chalcographica Guilieimi de Millis, vigesima die Martii, Anni..
 
-[^nvm-nd]: [NVM] 1558, *Novae, veraeque medicinae, experimentis, et evidentibus rationibus comprobatae, per Gometium Pereyra, medicum Methymnae Duelli*, cum licentia, ex Typographia Antonii Marin.
+[^novae-nd]: [NVM] 1558, *Novae, veraeque medicinae, experimentis, et evidentibus rationibus comprobatae, per Gometium Pereyra, medicum Methymnae Duelli*, cum licentia, ex Typographia Antonii Marin.
 
 [^gomez-pereira-1749]: 1749, *Antoniana Margarita, Opus nempe physicis, medicis, ac theologis non minus utile, quam necessarium, per Gometium Pereyram, medicum Methymnae Duelli, quae Hispanorum lingua Medina de el Campo appellatur, nunc secundo in lucem editum, et integro correctum*, cum Licentia, ex Typographia Antonii Marin (rep. facsimile: Santiago de Compostela, Universidad de Santiago de Compostela, 2000).
 
-[^am-2019]: [AM] 2019, *Gómez Pereira’s “Antoniana Margarita”: A Work on Natural Philosophy, Medicine and Theology*, two volumes, José Manuel García Valverde and Peter Maxwell-Stuart (eds), Leiden-Boston: Brill.
+[^gomez-pereira-2019]: [AM] 2019, *Gómez Pereira’s “Antoniana Margarita”: A Work on Natural Philosophy, Medicine and Theology*, two volumes, José Manuel García Valverde and Peter Maxwell-Stuart (eds), Leiden-Boston: Brill.
 
 [^aquinas-1947]: Aquinas, Thomas, *Summa Theologiae*, L. Shapcote (trans.), New York: Benzinger, 1947–48.
 

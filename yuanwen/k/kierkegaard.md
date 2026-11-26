@@ -261,63 +261,63 @@ We have here focused on books: articles are only referenced if referred to in th
 
 authenticity | emotion: in the Christian tradition | existentialism | faith | fideism | Hegel, Georg Wilhelm Friedrich | hope | Kant, Immanuel | love | Luther, Martin: influence on philosophy | religion: and morality in western philosophy | Sartre, Jean-Paul
 
-[^sks-1997]: [SKS] Kierkegaard, Søren, *Søren Kierkegaard’s Skrifter*, N. J. Cappelørn et al. (eds), Copenhagen: Gad, 1997–2013, 55 volumes. Also available online at: [http://www.sks.dk/](http://www.sks.dk)
+[^kierkegaard-1997]: [SKS] Kierkegaard, Søren, *Søren Kierkegaard’s Skrifter*, N. J. Cappelørn et al. (eds), Copenhagen: Gad, 1997–2013, 55 volumes. Also available online at: [http://www.sks.dk/](http://www.sks.dk)
 
-[^ba-1997]: [BA] *The Book on Adler*, Howard V. and Edna H. Hong (ed. and trans.) (Kierkegaard’s Writings 24), Princeton, NJ: Princeton University Press, 1997. Published posthumously.
+[^book-1997]: [BA] *The Book on Adler*, Howard V. and Edna H. Hong (ed. and trans.) (Kierkegaard’s Writings 24), Princeton, NJ: Princeton University Press, 1997. Published posthumously.
 
-[^ca-1980]: [CA] *The Concept of Anxiety*, Reidar Thomte (ed. and trans.) in collaboration with Albert B. Anderson (Kierkegaard’s Writings 8), Princeton, NJ: Princeton University Press, 1980.
+[^concept-1980]: [CA] *The Concept of Anxiety*, Reidar Thomte (ed. and trans.) in collaboration with Albert B. Anderson (Kierkegaard’s Writings 8), Princeton, NJ: Princeton University Press, 1980.
 
-[^cd-1997]: [CD] *Christian Discourses*, Howard V. and Edna H. Hong (ed. and trans.) (Kierkegaard’s Writings 17), Princeton, NJ: Princeton University Press, 1997. Published with *The Crisis and a Crisis in the Life of an Actress*.
+[^christian-1997]: [CD] *Christian Discourses*, Howard V. and Edna H. Hong (ed. and trans.) (Kierkegaard’s Writings 17), Princeton, NJ: Princeton University Press, 1997. Published with *The Crisis and a Crisis in the Life of an Actress*.
 
-[^ci-1989]: [CI] *The Concept of Irony, with Continual Reference to Socrates*, Howard V. and Edna H. Hong (ed. and trans.) (Kierkegaard’s Writings 2), Princeton, NJ: Princeton University Press, 1989.
+[^concept-1989]: [CI] *The Concept of Irony, with Continual Reference to Socrates*, Howard V. and Edna H. Hong (ed. and trans.) (Kierkegaard’s Writings 2), Princeton, NJ: Princeton University Press, 1989.
 
-[^cor-1982]: [COR] *The Corsair Affair*, Howard V. and Edna H. Hong (ed. and trans.) (Kierkegaard’s Writings 13), Princeton, NJ: Princeton University Press, 1982
+[^corsair-1982]: [COR] *The Corsair Affair*, Howard V. and Edna H. Hong (ed. and trans.) (Kierkegaard’s Writings 13), Princeton, NJ: Princeton University Press, 1982
 
-[^cup-1992]: [CUP] *Concluding Unscientific Postscript to “Philosophical Fragments”*, Howard V. and Edna H. Hong (ed. and trans.), 2 volumes (Kierkegaard’s Writings 12), Princeton, NJ: Princeton University Press, 1992.
+[^concluding-1992]: [CUP] *Concluding Unscientific Postscript to “Philosophical Fragments”*, Howard V. and Edna H. Hong (ed. and trans.), 2 volumes (Kierkegaard’s Writings 12), Princeton, NJ: Princeton University Press, 1992.
 
-[^eo-1987]: [EO] *Either/Or,* Howard V. and Edna H. Hong (ed. and trans.), 2 volumes (Kierkegaard’s Writings 3–4), Princeton, NJ: Princeton University Press, 1987.
+[^either-1987]: [EO] *Either/Or,* Howard V. and Edna H. Hong (ed. and trans.), 2 volumes (Kierkegaard’s Writings 3–4), Princeton, NJ: Princeton University Press, 1987.
 
-[^epw-1990]: [EPW] *Early Polemical Writings*, Julia Watkin (ed. and trans.) (Kierkegaard’s Writings 1), Princeton, NJ: Princeton University Press, 1990.
+[^early-1990]: [EPW] *Early Polemical Writings*, Julia Watkin (ed. and trans.) (Kierkegaard’s Writings 1), Princeton, NJ: Princeton University Press, 1990.
 
-[^eud-1990]: [EUD] *Eighteen Upbuilding Discourses*, Howard V. and Edna H. Hong (ed. and trans.) (Kierkegaard’s Writings 5), Princeton, NJ: Princeton University Press, 1990.
+[^eighteen-1990]: [EUD] *Eighteen Upbuilding Discourses*, Howard V. and Edna H. Hong (ed. and trans.) (Kierkegaard’s Writings 5), Princeton, NJ: Princeton University Press, 1990.
 
-[^fse-1990]: [FSE/JFY] *For Self-Examination* and *Judge for Yourself!* Howard V. and Edna H. Hong (ed. and trans.) (Kierkegaard’s Writings 21), Princeton, NJ: Princeton University Press, 1990.
+[^for-1990]: [FSE/JFY] *For Self-Examination* and *Judge for Yourself!* Howard V. and Edna H. Hong (ed. and trans.) (Kierkegaard’s Writings 21), Princeton, NJ: Princeton University Press, 1990.
 
-[^ft-2006]: [FT] *Fear and Trembling*, C. Stephen Evans and Sylvia Walsh (eds), Sylvia Walsh (trans.), Cambridge: Cambridge University Press, 2006.
+[^fear-2006]: [FT] *Fear and Trembling*, C. Stephen Evans and Sylvia Walsh (eds), Sylvia Walsh (trans.), Cambridge: Cambridge University Press, 2006.
 
 [^prefaces-1998]: [P] *Prefaces* and “Writing Sampler”, Todd W. Nichol (ed. and trans.) (Kierkegaard’s Writings 9), Princeton, NJ: Princeton University Press, 1998.
 
-[^pc-1991]: [PC] *Practice in Christianity*, Howard V. and Edna H. Hong (ed. and trans.) (Kierkegaard’s Writings 20), Princeton, NJ: Princeton University Press, 1991.
+[^practice-1991]: [PC] *Practice in Christianity*, Howard V. and Edna H. Hong (ed. and trans.) (Kierkegaard’s Writings 20), Princeton, NJ: Princeton University Press, 1991.
 
-[^pf-1985]: [PF/JC] *Philosophical Fragments*, Howard V. and Edna H. Hong (ed. and trans.) (Kierkegaard’s Writings 7), Princeton, NJ: Princeton University Press, 1985. Published with *Johannes Climacus* or *“De omnibus dubitandum est”*.
+[^philosophical-1985]: [PF/JC] *Philosophical Fragments*, Howard V. and Edna H. Hong (ed. and trans.) (Kierkegaard’s Writings 7), Princeton, NJ: Princeton University Press, 1985. Published with *Johannes Climacus* or *“De omnibus dubitandum est”*.
 
-[^pv-1998]: [PV] *The Point of View*: “On My Work as an Author”; “The Point of View for My Work as an Author”; “Armed Neutrality”, Howard V. and Edna H. Hong (ed. and trans.) (Kierkegaard’s Writings 22), Princeton, NJ: Princeton University Press, 1998.
+[^point-1998]: [PV] *The Point of View*: “On My Work as an Author”; “The Point of View for My Work as an Author”; “Armed Neutrality”, Howard V. and Edna H. Hong (ed. and trans.) (Kierkegaard’s Writings 22), Princeton, NJ: Princeton University Press, 1998.
 
 [^repetition-1983]: [R] *Repetition*, in *Fear and Trembling; Repetition*, Howard V. and Edna H. Hong (ed. and trans.) (Kierkegaard’s Writings 6), Princeton, NJ: Princeton University Press, 1983.
 
-[^slw-1988]: [SLW] *Stages on Life’s Way*, Howard V. and Edna H. Hong (ed. and trans.) (Kierkegaard’s Writings 11), Princeton, NJ: Princeton University Press, 1988.
+[^stages-1988]: [SLW] *Stages on Life’s Way*, Howard V. and Edna H. Hong (ed. and trans.) (Kierkegaard’s Writings 11), Princeton, NJ: Princeton University Press, 1988.
 
-[^sud-1980]: [SUD] *The Sickness Unto Death*, Howard V. and Edna H. Hong (ed. and trans.) (Kierkegaard’s Writings 19), Princeton, NJ: Princeton University Press, 1980.
+[^sickness-1980]: [SUD] *The Sickness Unto Death*, Howard V. and Edna H. Hong (ed. and trans.) (Kierkegaard’s Writings 19), Princeton, NJ: Princeton University Press, 1980.
 
-[^ta-1978]: [TA] *Two Ages: The Age of Revolution and the Present Age. A Literary Review*, Howard V. and Edna H. Hong (ed. and trans.) (Kierkegaard’s Writings 14), Princeton, NJ: Princeton University Press, 1978.
+[^two-1978]: [TA] *Two Ages: The Age of Revolution and the Present Age. A Literary Review*, Howard V. and Edna H. Hong (ed. and trans.) (Kierkegaard’s Writings 14), Princeton, NJ: Princeton University Press, 1978.
 
-[^tdio-1993]: [TDIO] *Three Discourses on Imagined Occasions*, Howard V. and Edna H. Hong (ed. and trans.) (Kierkegaard’s Writings 10), Princeton, NJ: Princeton University Press, 1993.
+[^three-1993]: [TDIO] *Three Discourses on Imagined Occasions*, Howard V. and Edna H. Hong (ed. and trans.) (Kierkegaard’s Writings 10), Princeton, NJ: Princeton University Press, 1993.
 
-[^tm-1998]: [TM] *“The Moment” and Late Writings*, Howard V. and Edna H. Hong (ed. and trans.) (Kierkegaard’s Writings 23), Princeton, NJ: Princeton University Press, 1998.
+[^moment-1998]: [TM] *“The Moment” and Late Writings*, Howard V. and Edna H. Hong (ed. and trans.) (Kierkegaard’s Writings 23), Princeton, NJ: Princeton University Press, 1998.
 
-[^udvs-1993]: [UDVS] *Upbuilding Discourses in Various Spirits*, Howard V. and Edna H. Hong (ed. and trans.) (Kierkegaard’s Writings 15), Princeton, NJ: Princeton University Press, 1993.
+[^upbuilding-1993]: [UDVS] *Upbuilding Discourses in Various Spirits*, Howard V. and Edna H. Hong (ed. and trans.) (Kierkegaard’s Writings 15), Princeton, NJ: Princeton University Press, 1993.
 
-[^wa-1997]: [WA] *Without Authority*, Howard V. and Edna H. Hong (ed. and trans.) (Kierkegaard’s Writings 18), Princeton, NJ: Princeton University Press, 1997.
+[^without-1997]: [WA] *Without Authority*, Howard V. and Edna H. Hong (ed. and trans.) (Kierkegaard’s Writings 18), Princeton, NJ: Princeton University Press, 1997.
 
-[^wl-1995]: [WL] *Works of Love*, Howard V. and Edna H. Hong (ed. and trans.) (Kierkegaard’s Writings 16), Princeton, NJ: Princeton University Press, 1995.
+[^works-1995]: [WL] *Works of Love*, Howard V. and Edna H. Hong (ed. and trans.) (Kierkegaard’s Writings 16), Princeton, NJ: Princeton University Press, 1995.
 
-[^kjn-2007]: [KJN] *Kierkegaard’s Journals and Notebooks*, N. J. Cappelørn et al. (ed.), Princeton, NJ: Princeton University Press, 2007–2020. Multi-volume translation of all Kierkegaard’s journals, notebooks and miscellaneous papers, based on the relevant parts of SKS.
+[^kierkegaard’s-2007]: [KJN] *Kierkegaard’s Journals and Notebooks*, N. J. Cappelørn et al. (ed.), Princeton, NJ: Princeton University Press, 2007–2020. Multi-volume translation of all Kierkegaard’s journals, notebooks and miscellaneous papers, based on the relevant parts of SKS.
 
-[^jp-1967]: [JP] *Søren Kierkegaards Journals and Papers*, Howard V. and Edna H. Hong (ed. and trans.), Bloomington: Indiana University Press, 1967–78, 7 volumes.
+[^søren-1967]: [JP] *Søren Kierkegaards Journals and Papers*, Howard V. and Edna H. Hong (ed. and trans.), Bloomington: Indiana University Press, 1967–78, 7 volumes.
 
-[^ld-1978]: [LD] *Letters and Documents*, Hendrik Rosenmeier (ed. and trans.), Princeton, NJ: Princeton University Press, 1978.
+[^letters-1978]: [LD] *Letters and Documents*, Hendrik Rosenmeier (ed. and trans.), Princeton, NJ: Princeton University Press, 1978.
 
-[^pj-1996]: [PJ] *Papers and Journals: A Selection*, Alastair Hannay (trans. with introduction and notes), Harmondsworth: Penguin, 1996.
+[^papers-1996]: [PJ] *Papers and Journals: A Selection*, Alastair Hannay (trans. with introduction and notes), Harmondsworth: Penguin, 1996.
 
 [^adorno-1933]: Adorno, Theodor W., 1933 [1989], *Kierkegaard: Konstruktion des ästhetischen*, (Beiträge zur Philosophie und ihrer Geschichte 2), Tübingen: Mohr. Translated as *Kierkegaard: Construction of the Aesthetic*, Robert Hullot-Kentor (trans.), (Theory and History of Literature 61), Minneapolis, MN: University of Minnesota Press, 1989.
 

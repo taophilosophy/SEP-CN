@@ -261,15 +261,15 @@ Ammonius | Neoplatonism | Plotinus | Proclus | Syrianus
 
 I would very much like to thank my collaborators at the University of Cologne Anna Pavani, Manuel Lorenz, Ina Schall, Fedora Hartmann, Emil Gaub and especially Laura Marongiu. I would also like to thank the anonymous referee for most useful remarks and corrections. Thanks are due to the fantastic team of the Stanford Encyclopedia of Philosophy and its principal editor Edward N. Zalta for their patience and detailed observations. Last but not least let me thank Merrie Bergmann for correcting the English and many useful suggestions.
 
-[^cael-nd]: [*In Cael.*] *In Aristotelis De Caelo commentaria*, Johann Ludwig Heiberg (ed.)— *Commentary on Aristotle’s On the Heavens*
+[^aristotelis-nd]: [*In Cael.*] *In Aristotelis De Caelo commentaria*, Johann Ludwig Heiberg (ed.)— *Commentary on Aristotle’s On the Heavens*
 
-[^cat-nd]: [*In Cat.*] *In Aristotelis Categorias commentaria*, Carolus Kalbfleisch (ed.)—*Commentary on Aristotle’s Categories*
+[^aristotelis-nd-2]: [*In Cat.*] *In Aristotelis Categorias commentaria*, Carolus Kalbfleisch (ed.)—*Commentary on Aristotle’s Categories*
 
-[^anima-nd]: [*In de Anima*] *In libros Aristotelis de Anima commentaria*, Michael Hayduck (ed.)—*Commentary on Aristotle’s De Anima*
+[^aristotelis-nd-3]: [*In de Anima*] *In libros Aristotelis de Anima commentaria*, Michael Hayduck (ed.)—*Commentary on Aristotle’s De Anima*
 
-[^epict-1996]: [*In Epict.*] *Commentaria In Epicteti Encheiridion*, Ilsetraut Hadot (ed.)— *Commentary on Epictetus’ Handbook* [the commentary is quoted here according to the number of the lemmata (including the *praefatio* and the *epilogus*) and the pages and line numbers of Hadot’s *editio maior* (1996); the English translation by Brennan and Brittain 2002, only mentions the page numbers of Hadot’s edition and otherwise provides references to Dübner’s edition from 1840. In principle, it would suffice to quote Hadot’s edition according to the lemmata and line number, but then it would be impossible to find the corresponding passage in the English translation.]
+[^commentaria-1996]: [*In Epict.*] *Commentaria In Epicteti Encheiridion*, Ilsetraut Hadot (ed.)— *Commentary on Epictetus’ Handbook* [the commentary is quoted here according to the number of the lemmata (including the *praefatio* and the *epilogus*) and the pages and line numbers of Hadot’s *editio maior* (1996); the English translation by Brennan and Brittain 2002, only mentions the page numbers of Hadot’s edition and otherwise provides references to Dübner’s edition from 1840. In principle, it would suffice to quote Hadot’s edition according to the lemmata and line number, but then it would be impossible to find the corresponding passage in the English translation.]
 
-[^phys-nd]: [*In Phys.*] *In Aristotelis Physicorum libros quattuor priores/posteriores*, Hermann Diels (ed.)—*Commentary on Aristotle’s Physics*
+[^aristotelis-nd-4]: [*In Phys.*] *In Aristotelis Physicorum libros quattuor priores/posteriores*, Hermann Diels (ed.)—*Commentary on Aristotle’s Physics*
 
 [^baltussen-2008]: Baltussen, Han, 2008, *Philosophy and Exegesis in Simplicius: The Methodology of a Commentator*, London: Duckworth.
 

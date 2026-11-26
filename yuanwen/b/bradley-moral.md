@@ -194,7 +194,7 @@ Aristotle, General Topics: ethics | Bradley, Francis Herbert | character, moral 
 
 [^appearance-1893]: *Appearance and Reality: A Metaphysical Essay*, Oxford: Clarendon, 1893; second edition, 1897. [[*Appearance and Reality*, second edition, available online](https://archive.org/details/appearanceandrea00braduoft/page/n9/mode/2up)]
 
-[^ce-1935]: [CE] *Collected Essays*, 2 volumes, Oxford: Clarendon Press, 1935; reprinted 1968. [[Vol. 1 available online](https://archive.org/details/collectedessays0001fhbr); [Vol. 2 available online](https://archive.org/details/collectedessays0002fhbr)]. Includes
+[^collected-1935]: [CE] *Collected Essays*, 2 volumes, Oxford: Clarendon Press, 1935; reprinted 1968. [[Vol. 1 available online](https://archive.org/details/collectedessays0001fhbr); [Vol. 2 available online](https://archive.org/details/collectedessays0002fhbr)]. Includes
 
 [^bradley-moral-1884]: 1884, “Can a Man Sin against Knowledge?”, *Mind* (original series), 9(34): 286–290; reprinted in CE I.142–148. doi:10.1093/mind/os-IX.34.286
 

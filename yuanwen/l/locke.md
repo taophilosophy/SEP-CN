@@ -109,7 +109,7 @@ There has been considerable scholarly debate concerning the details of Locke’s
 
 Locke probably holds some version of the representational theory of perception, though some scholars dispute this. On such a theory what the mind immediately perceives are ideas, and the ideas are caused by and represent the objects which cause them. Thus perception is a triadic relation, rather than simply being a dyadic relation between an object and a perceiver. Such a dyadic relational theory is often called naive realism because it suggests that the perceiver is directly perceiving the object, and naive because this view is open to a variety of serious objections. Some versions of the representational theory are open to serious objections as well. If, for example, one treats ideas as things, then one can imagine that because one sees ideas, the ideas actually block one from seeing things in the external world. The idea would be like a picture or painting. The picture would copy the original object in the external world, but because our immediate object of perception is the picture we would be prevented from seeing the original just as standing in front of a painting on an easel might prevent us from seeing the person being painted. Thus, this is sometimes called the picture/original theory of perception. Alternatively, Jonathan Bennett called it “the veil of perception” to emphasize that ‘seeing’ the ideas prevents us from seeing the external world. One philosopher who arguably held such a view was Nicholas Malebranche, a follower of Descartes. Antoine Arnauld, by contrast, while believing in the representative character of ideas, is a direct realist about perception. Arnauld engaged in a lengthy controversy with Malebranche, and criticized Malebranche’s account of ideas. Locke follows Arnauld in his criticism of Malebranche on this point (Locke, 1823, Vol. IX: 250). Yet Berkeley attributed the veil of perception interpretation of the representational theory of perception to Locke as have many later commentators including Bennett. A.D. Woozley puts the difficulty of doing this succinctly:
 
-> …it is scarcely credible both that Locke should be able to see and state so clearly the fundamental objection to the picture-original theory of sense perception, and that he should have held the same theory himself. (Woozley 1964: 27)[^woozley-1964]
+> …it is scarcely credible both that Locke should be able to see and state so clearly the fundamental objection to the picture-original theory of sense perception, and that he should have held the same theory himself. (Woozley 1964: 27)
 
 Just what Locke’s account of perception involves, is still a matter of scholarly debate. A review of this issue at a symposium including John Rogers, Gideon Yaffe, Lex Newman, Tom Lennon, and Vere Chappell at a meeting of the Pacific Division of the American Philosophical Association in 2003 and later expanded and published in the *Pacific Philosophical Quarterly* (2004, volume 85, issue 3) found most of the symposiasts holding the view that Locke holds a representative theory of perception but that he is not a skeptic about the external world in the way that the veil of perception doctrine might suggest.
 
@@ -227,7 +227,7 @@ very likely represents the qualities needed for citizens in a liberal society (G
 
 Locke’s *Thoughts* represents the culmination of a century of what has been called “the discovery of the child”. In the Middle Ages the child was regarded as
 
-> only a simple plaything, as a simple animal, or a miniature adult who dressed, played and was supposed to act like his elders…Their ages were unimportant and therefore seldom known. Their education was undifferentiated, either by age, ability or intended occupation. (Axtell 1968: 63–4)[^axtell-1968]
+> only a simple plaything, as a simple animal, or a miniature adult who dressed, played and was supposed to act like his elders…Their ages were unimportant and therefore seldom known. Their education was undifferentiated, either by age, ability or intended occupation. (Axtell 1968: 63–4)
 
 Locke treated children as human beings in whom the gradual development of rationality needed to be fostered by parents. Locke urged parents to spend time with their children and tailor their education to their character and idiosyncrasies, to develop both a sound body and character, and to make play the chief strategy for learning rather than rote learning or punishment. Thus, he urged learning languages by learning to converse in them before learning rules of grammar. Locke also suggests that the child learn at least one manual trade.
 
@@ -486,17 +486,17 @@ The editors would like to thank Sally Ferguson for carefully proofreading the te
 
 [^locke’s-1987]: *Locke’s The Two Treatises of Civil Government*, Richard Ashcraft (ed.), London: Routledge, 1987.
 
-[^axtell-1968]: [Axtell 1968], *The Educational Writings of John Locke: A Critical Edition*, James L. Axtell (ed.), Cambridge: Cambridge University Press.
+[^educational-nd]: [Axtell 1968], *The Educational Writings of John Locke: A Critical Edition*, James L. Axtell (ed.), Cambridge: Cambridge University Press.
 
-[^gay-1964]: [Gay 1964], *John Locke on Education*, Peter Gay (ed.), New York: Bureau of Publications, Columbia Teachers College, 1964.
+[^john-1964]: [Gay 1964], *John Locke on Education*, Peter Gay (ed.), New York: Bureau of Publications, Columbia Teachers College, 1964.
 
 [^epistola-1968]: *Epistola de Tolerantia: A Letter on Toleration*, Latin text edited with a preface by Raymond Klibansky; English translation with an introduction and notes by J. W. Gough, Oxford: Oxford University Press, 1968.
 
-[^locke-1996]: [G&T 1996] *“Some Thoughts Concerning Education”* and *“The Conduct of the Understanding”*, Ruth W. Grant and Nathan Tarcov (eds), Indianapolis: Hackett Publishing Co., 1996.
+[^some-1996]: [G&T 1996] *“Some Thoughts Concerning Education”* and *“The Conduct of the Understanding”*, Ruth W. Grant and Nathan Tarcov (eds), Indianapolis: Hackett Publishing Co., 1996.
 
-[^laslett-1960]: [Laslett 1960] *Locke’s Two Treatises of Government*, Peter Laslett (ed.), Cambridge: Cambridge University Press, 1960.
+[^locke’s-1960]: [Laslett 1960] *Locke’s Two Treatises of Government*, Peter Laslett (ed.), Cambridge: Cambridge University Press, 1960.
 
-[^woozley-1964]: [Woozley 1964], *An Essay Concerning Human Understanding*, abridged, A.D. Woozley (ed.), London: Fontana Library, 1964.
+[^an-1964]: [Woozley 1964], *An Essay Concerning Human Understanding*, abridged, A.D. Woozley (ed.), London: Fontana Library, 1964.
 
 [^boyle-1675]: Boyle, Robert, 1675 [1979], “Some Physico-Theological Considerations About the Possibility of the Resurrection”, in *Selected Philosophical Papers of Robert Boyle*, M.A. Stewart (ed.), New York: Manchester University Press.
 

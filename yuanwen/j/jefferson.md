@@ -161,7 +161,7 @@ Thus, moral progress is movement, prompted by embrace of liberty and respect for
 
 ### 4.1 The “Mother Principle”
 
-In his First Inaugural Address (1801), Jefferson lists the “essential principles of our Government” in 15 doctrines—perhaps his first attempt at a definition of republicanism ([I₁]: 494–95).
+In his First Inaugural Address (1801)[^inaugural-1801], Jefferson lists the “essential principles of our Government” in 15 doctrines—perhaps his first attempt at a definition of republicanism ([I₁]: 494–95).
 
 1. Equal and exact justice to all men, irrespective of political or religious persuasion;
 2. peace, commerce, and honest friendship with all nations, without entangling alliances to any;
@@ -540,39 +540,39 @@ Madison’s objections to Jefferson’s notion of usufruct come in a letter the 
 
 [^wtj7-2021]: WTJ7: *The Scholars’ Thomas Jefferson: Vital Writings of a Vital American*, M. Andrew Holowchak (ed.), Wilmington, DE: Vernon, 2021.
 
-[^au-nd]: [Au] Autobiography, in WTJ5: 1–101.
+[^autobiography-nd]: [Au] Autobiography, in WTJ5: 1–101.
 
 [^jefferson’s-2019c]: [B] Jefferson’s Bible, in Holowchak 2019c: 29–90.
 
-[^bg-1779]: [BG] Bill 79: Bill for the More General Diffusion of Knowledge, 1779, in WTJ7: 279–85. [[BG available online](https://founders.archives.gov/documents/Jefferson/01-02-02-0132-0004-0079)]
+[^bill-1779]: [BG] Bill 79: Bill for the More General Diffusion of Knowledge, 1779, in WTJ7: 279–85. [[BG available online](https://founders.archives.gov/documents/Jefferson/01-02-02-0132-0004-0079)]
 
-[^bl-1779]: [BL] Bill 81: A Bill for Establishing a Public Library, 1779, WTJ7: 291–92. [[BL available online](https://founders.archives.gov/documents/Jefferson/01-02-02-0132-0004-0081)]
+[^bill-1779-2]: [BL] Bill 81: A Bill for Establishing a Public Library, 1779, WTJ7: 291–92. [[BL available online](https://founders.archives.gov/documents/Jefferson/01-02-02-0132-0004-0081)]
 
-[^bp-1817]: [BP] Bill for Establishing a System of Public Education, 1817, in WTJ7: 294–306.
+[^bill-1817]: [BP] Bill for Establishing a System of Public Education, 1817, in WTJ7: 294–306.
 
-[^br-1779]: [BR] Bill 82: Bill for Establishing Religious Freedom, 1779, in WTJ7: 153–54. [[BR available online](https://founders.archives.gov/documents/Jefferson/01-02-02-0132-0004-0082)]
+[^bill-1779-3]: [BR] Bill 82: Bill for Establishing Religious Freedom, 1779, in WTJ7: 153–54. [[BR available online](https://founders.archives.gov/documents/Jefferson/01-02-02-0132-0004-0082)]
 
-[^bwm-1779]: [BWM] Bill 80: A Bill for Amending the Constitution of the College of William and Mary, and Substituting More Certain Revenues for Its Support, 1779, WTJ7: 286–91. [[BWM available online](https://founders.archives.gov/documents/Jefferson/01-02-02-0132-0004-0080)]
+[^bill-1779-4]: [BWM] Bill 80: A Bill for Amending the Constitution of the College of William and Mary, and Substituting More Certain Revenues for Its Support, 1779, WTJ7: 286–91. [[BWM available online](https://founders.archives.gov/documents/Jefferson/01-02-02-0132-0004-0080)]
 
-[^cv-1776]: [CV] Draft Constitution for Virginia, 1776, in WTJ5: 336–45.
+[^draft-1776]: [CV] Draft Constitution for Virginia, 1776, in WTJ5: 336–45.
 
 [^declaration-1776]: [D] Declaration of Independence, 1776, in WTJ7: 26–30.
 
-[^db-1802]: [DB] Letter to Danbury Baptist Association, 1802, in WTJ5: 510.
+[^letter-1802]: [DB] Letter to Danbury Baptist Association, 1802, in WTJ5: 510.
 
 [^epitaph-nd]: [E] Epitaph, in WTJ5: 706.
 
 [^opinion-1793]: [F] Opinion on the French Treaties, 1793, in WTJ7: 40–50. [[[F] available online](https://founders.archives.gov/documents/Jefferson/01-25-02-0562-0005)]
 
-[^i₁-1801]: [I₁] Inaugural Address, 1801, in WTJ7: 55–59. [[I₁ available online](https://founders.archives.gov/documents/Jefferson/01-33-02-0116-0004)]
+[^inaugural-1801]: [I₁] Inaugural Address, 1801, in WTJ7: 55–59. [[I₁ available online](https://founders.archives.gov/documents/Jefferson/01-33-02-0116-0004)]
 
 [^letters-nd]: [L] Letters, in WTJ1, WTJ2, WTJ3, WTJ4 or WTJ5: 711–1517.
 
-[^lcb-1989]: [LCB] Literary Commonplace Book, Published as *Jefferson’s Literary Commonplace Book*, Douglas L. Wilson (ed.), Princeton: Princeton University Press, 1989.
+[^literary-1989]: [LCB] Literary Commonplace Book, Published as *Jefferson’s Literary Commonplace Book*, Douglas L. Wilson (ed.), Princeton: Princeton University Press, 1989.
 
-[^nr-nd]: [NR] Notes on Religion, in WTJ4, Vol. 1: 555–58.
+[^notes-nd]: [NR] Notes on Religion, in WTJ4, Vol. 1: 555–58.
 
-[^nv-1785]: [NV] *Notes on the State of Virginia*, 1785, in Thomas Jefferson, *Thomas Jefferson’s Notes on the State of Virginia*, William Peden (ed.), Chapel Hill: University of North Carolina Press, 1954.
+[^notes-1785]: [NV] *Notes on the State of Virginia*, 1785, in Thomas Jefferson, *Thomas Jefferson’s Notes on the State of Virginia*, William Peden (ed.), Chapel Hill: University of North Carolina Press, 1954.
 
 [^rockfish-1818]: [R] Rockfish Gap Report, 1818, in WTJ7: 306–13. [[[R] available online](https://founders.archives.gov/documents/Madison/04-01-02-0289)]
 

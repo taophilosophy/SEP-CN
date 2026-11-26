@@ -428,15 +428,15 @@ The following links are to digitized photographic reproductions of early edition
 
 demonstration: medieval theories of | Descartes, René | Descartes, René: epistemology | Descartes, René: life and works | Descartes, René: mathematics | Descartes, René: physics | logic: ancient | science: unity of | scientific method
 
-[^at-1996]: [AT] *Oeuvres de Descartes*, 11 volumes, Charles Adam and Paul Tannery (eds), Paris: Vrin, 1996.
+[^oeuvres-1996]: [AT] *Oeuvres de Descartes*, 11 volumes, Charles Adam and Paul Tannery (eds), Paris: Vrin, 1996.
 
-[^csm-1985]: [CSM or CSMK] *The Philosophical Writings of Descartes*, 3 volumes, John Cottingham, et al. (eds), Cambridge: Cambridge University Press, 1985–1991.
+[^philosophical-1985]: [CSM or CSMK] *The Philosophical Writings of Descartes*, 3 volumes, John Cottingham, et al. (eds), Cambridge: Cambridge University Press, 1985–1991.
 
-[^mogm-2001]: [MOGM] *Discourse on Method, Optics, Geometry, and Meteorology*, Paul J. Olscamp (ed.), Indianapolis, IN: Hackett, 2001.
+[^discourse-2001]: [MOGM] *Discourse on Method, Optics, Geometry, and Meteorology*, Paul J. Olscamp (ed.), Indianapolis, IN: Hackett, 2001.
 
-[^es-nd]: [ES] *Regulae ad directionem ingenii: An Early Manuscript Version*, Michael Edwards and Richard Serjeanston (eds), Oxford: Oxford University Press, forthcoming.
+[^regulae-nd]: [ES] *Regulae ad directionem ingenii: An Early Manuscript Version*, Michael Edwards and Richard Serjeanston (eds), Oxford: Oxford University Press, forthcoming.
 
-[^d1637-1637]: [D1637] *Discours de la méthode pour bien conduire sa raison et chercher la vérité dans les sciences , plus La dioptrique, Les météores et La géométrie qui sont des essais de cette méthode*, Leyde: Jan Maire, 1637. Many of the images in this entry are pulled from the scanned version at the Bibliothèque nationale de France, département Réserve des livres rares, RESM-R-76, [ark:/12148/btv1b86069594](https://gallica.bnf.fr/ark:/12148/btv1b86069594/f5.image.double)
+[^discours-1637]: [D1637] *Discours de la méthode pour bien conduire sa raison et chercher la vérité dans les sciences , plus La dioptrique, Les météores et La géométrie qui sont des essais de cette méthode*, Leyde: Jan Maire, 1637. Many of the images in this entry are pulled from the scanned version at the Bibliothèque nationale de France, département Réserve des livres rares, RESM-R-76, [ark:/12148/btv1b86069594](https://gallica.bnf.fr/ark:/12148/btv1b86069594/f5.image.double)
 
 [^aristotle-1984]: Aristotle, 1984. *The Complete Works of Aristotle*, 2 vols., ed. Jonathan Barnes. Princeton: Princeton University Press.
 
@@ -450,7 +450,7 @@ demonstration: medieval theories of | Descartes, René | Descartes, René: epist
 
 [^empiricus-2005]: Empiricus, Sextus, 2005, *Against the Logicians*, Richard Bett (ed.), Cambridge: Cambridge University Press. doi:10.1017/CBO9780511815232
 
-[^elements-1908]: [*Elements*] Euclid, 1908, *The Thirteen Books of Euclid’s Elements*, 3 volumes, Thomas L. Heath (trans.), Cambridge: Cambridge University Press. [[Euclid *Elements* available online](https://mathcs.clarku.edu/~djoyce/java/elements/toc.html)]
+[^euclid-1908]: [*Elements*] Euclid, 1908, *The Thirteen Books of Euclid’s Elements*, 3 volumes, Thomas L. Heath (trans.), Cambridge: Cambridge University Press. [[Euclid *Elements* available online](https://mathcs.clarku.edu/~djoyce/java/elements/toc.html)]
 
 [^gassendi-1658]: Gassendi, Pierre, 1658, *Opera omnia*, vol. I, Lyon: Laurent Anisson and Jean-Baptiste Devenet.
 

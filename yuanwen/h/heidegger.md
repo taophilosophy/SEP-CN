@@ -624,433 +624,219 @@ All volumes of Heidegger’s collected works or *Gesamtausgabe* (abbreviated *GA
 
 **GA3**
 
-*Kant und das Problem der Metaphysik*, first published 1929, published in GA 1991. Translated as: *Kant and the Problem of Metaphysics*, Richard Taft (trans.), Bloomington, IN: Indiana University Press, 1997.
-
 **GA4**
-
-*Erläuterungen zu Hölderlins Dichtung*, lectures given between 1936 and 1968, first published between 1936 and 1971, collected 1971, published in GA in 1981; translated as: *Elucidations of Hölderlin’s Poetry*, Keith Hoeller (trans), Amherst, NY: Humanity Books, 2000.
 
 **GA5**
 
-*Holzwege*, lectures given between 1935 and 1946, first published in 1950, published in GA in 1977; translation: OTBT.
-
 **GA6.1**
-
-*Nietzsche I*, lectures given between 1936 and 1939, reworked and published in 1961, published in GA in 1996. 1–224, “Der Wille zur Macht als Kunst”, lectures given in 1936–37; translated as: “The Will to Power as Art”, David Farrell Krell (trans.), in N1 1–220. 225–423, “Die ewige Wiederkehr des Gleichen”, lectures given in 1937; translated as: “The Eternal Recurrence of the Same”, David Farrell Krell (trans.), in N2 1–208. 425–594, “Der Wille zur Macht als Erkenntnis”, lectures given in 1939; translated as: “The Will to Power as Knowledge”, Joan Stambaugh and David Farrell Krell (trans.), in N3 1–158.
 
 **GA6.2**
 
-*Nietzsche II*, lectures and manuscripts written between 1939 and 1941, reworked and published in 1961, published in GA in 1997. 1–22, “Die ewige Wiederkehr des Gleichen und der Wille zur Macht”, written in 1939; translated as: “The Eternal Recurrence of the Same and the Will to Power”, David Farrell Krell (trans.), in N3 159–83. 23–229, “Der europäische Nihilismus”, lectures given in 1940; translated as: “European Nihilism”, Frank A. Capuzzi (trans.), in N4 1–196. 231–300, “Nietzsches Metaphysik”, written in 1940; translated as: “Nietzsche’s Metaphysics”, Frank A. Capuzzi and David Farrell Krell (trans.), in N3 187–251. 301–61, “Die seinsgeschichtliche Bestimmung des Nihilismus”, written between 1944 and 1946; translated as: “Nihilism as Determined by the History of Being”, Frank A. Capuzzi (trans.), in N4 199–250. 363–416, “Die Metaphysik als Geschichte des Seins”, written in 1941; translated as: “Metaphysics as History of Being”, Joan Stambaugh (trans.), in EP 1–54. 417–38, “Entwürfe zu Geschichte des Seins als Metaphysik”, written in 1941; translated as: “Sketches for a History of Being as Metaphysics”, Joan Stambaugh (trans.), in EP 55–74. 439–48, “Die Erinnerung in die Metaphysik”, written in 1941; translated as: “Recollection in Metaphysics”, Joan Stambaugh (trans.), in EP 75–83.
-
 **GA7**
-
-*Vorträge und Aufsätze*, collected and published in 1954, published in GA in 2000. 5–36, “Die Frage nach der Technik”, lecture given in 1953, published in 1954; translated as: “The Question Concerning Technology”, William Lovitt (trans.), in QCT 3–35. 37–65, “Wissenschaft und Besinnung”, lecture given in 1953; translated as: “Science and Reflection”, William Lovitt (trans.), in QCT 155–82. 67–98, “Überwindung der Metaphysik”, 1936–46. Translated as: “Overcoming Metaphysics”, Joan Stambaugh (trans.), in EP 84–110. 99–124. “Wer ist Nietzsches Zarathustra?”, lecture given in 1953; translated as: “Who is Nietzsche’s Zarathustra?” David Farrell Krell (trans.), in N2 211–33. 127–143, “Was heißt Denken?”, lecture given in 1952, published in 1952. 145–64, “Bauen Wohnen Denken”, lecture given in 1951, published in 1952; translated as: “Building Dwelling Thinking”, Albert Hofstadter (trans.), in PLT 145–61. 165–87, “Das Ding”, lecture given in 1950, published in 1951; translated as: “The Thing”, Albert Hofstadter (trans.), in PLT 165–86. 189–208, “… dichterisch wohnet der Mensch …”, lecture given in 1951; translated as: “… Poetically Man Dwells …”, Albert Hofstadter (trans.), in PLT 213–29. 211–34, “Logos, Heraklit, Fragment 50”, lecture given in 1951; translated as: “Logos (Heraclitus, Fragment B 50”, David Farrell Krell and Frank A. Capuzzi (trans), in EGT 59–78. 235–61, “Moira, Parmenides VIII, 34–41”, manuscript dated 1954; translated as: “Moira (Parmenides VIII, 34–41”, Frank A. Capuzzi (trans.), in EGT 79–101. 263–88, “Aletheia, Heraklit Fragment 16”, lecture given in 1954; translated as: “Aletheia (Heraclitus, Fragment B 16”, Frank A. Capuzzi (trans.), in EGT 102–23.
 
 **GA8**
 
-*Was heißt Denken?*, lectures given in 1951–1952, published in 1954, published in GA in 2002; translated as: *What is Called Thinking?* (WCT) Fred D. Wieck and J. Glenn Gray (trans), New York: Harper & Row, 1968.
-
 **GA9**
-
-*Wegmarken*, manuscripts and lectures written between 1919 and 1964, first published between 1929 and 1973, collected 1967, expanded and published in GA in 1976; translated as: *Pathmarks*, William McNeill (ed.), Cambridge/New York: Cambridge University Press, 1998.
 
 **GA10**
 
-*Der Satz vom Grund*, lectures given in 1955–1956, published in 1957, published in GA in 1997; translated as: *The Principle of Reason*, Reginald Lilly (trans.), Bloomington, IN: Indiana University Press, 1991.
-
 **GA11**
-
-*Identität und Differenz*, lectures and manuscripts written between 1955 and 1963; published between 1956 and 1963; collected and published in GA in 2006. 3–26, “Was ist das—die Philosophie?”, lecture given in 1955, published in 1956; translated as: *What is Philosophy?* Jean T. Wilde and William Kluback, London: Rowman & Littlefield, 2003; originally New York: Twayne, 1958. 31–50, “Der Satz der Identität”, lecture given in 1957; translated as: “The Principle of Identity”, Joan Stambaugh (trans.), revised Jerome Veith, in HR 284–94. 51–79, “Die onto-theo-logische Verfassung der Metaphysik”, lecture given in 1957; translated as “The Onto-Theo-Logical Constitution of Metaphysics”, Joan Stambaugh (trans.), in ID 42–74. 113–24, “Die Kehre”, lecture given in 1949, published in 1962; translated as: “The Turning”, William Lovitt (trans.), in QCT 36–49. 125–40, = GA79: 81–96, “Grundsätze des Denkens”, lecture given in 1957, published in 1958; translated as: “Basic Principles of Thinking: Freiburg Lectures 1957, Lecture I”, in *Bremen and Freiburg Lectures: “Insight Into That Which Is” and “Basic Principles of Thinking”*, Andrew J. Mitchell (trans.), Bloomington, IN: Indiana University Press, 2012: 77–91. 143–52, “Ein Vorwort, Brief an Pater William. J. Richardson”, written in 1962; published in 1963; translated as: “Preface”, William J. Richardson (trans.), in W. J. Richardson 1963: viii–xxii.
 
 **GA12**
 
-*Unterwegs zur Sprache*, lectures given between 1950 and 1959, collection published in 1959, published in GA in 1985. 7–30, “Die Sprache”, lecture given in 1950, collected in 1959; translated as: “Language”, Albert Hofstadter (trans.), in PLT 189–210. 33–78, “Die Sprache im Gedicht: Eine Erörterung von Georg Trakls Gedicht”, lecture given in 1952, published in 1953, collected in 1959; translated as: “Language in the Poem: A Discussion on Georg Trakl’s Poetic Work”, Peter D. Hertz (trans.), in OWL 159–98. 81–146, “Aus einem Gespräch von der Sprache: Zwischen einem Japaner und einem Fragenden”, manuscript “originated” in 1953/54, collected in 1959; translated as: “A Dialogue on Language”, Peter D. Hertz (trans.), in OWL 1–54. 149–204, “Das Wesen der Sprache”, lecture given in 1957–58, collected in 1959; translated as: “The Nature of Language”, Peter D. Hertz (trans.), in OWL 57–108. 207–25, “Das Wort”, lecture given in 1958, collected in 1959; translated as: “Words”, Joan Stambaugh (trans.), in OWL 139–56. 229–57, “Der Weg zur Sprache”, lecture given in 1959, collected in 1959; translated as: “The Way to Language”, Peter D. Hertz (trans.), in OWL 111–36.
-
 **GA13**
-
-*Aus der Erfahrung des Denkens*, manuscripts and lectures written between 1910 and 1976, collected and published in GA in 1983. 1–3, “Abraham a Sankta Clara”, published in 1910. 7, “Abendgang auf der Reichenau”, written in 1916, published in 1917; translated as: “Eventide on Reichenau”, William J. Richardson (trans.), in the “Introduction” to W. J. Richardson 1963: 1. 9–13, “Schöpferische Landschaft: Warum bleiben wir in der Provinz?”, broadcast in 1933, published in 1934; translated as: “Why Do I Stay in the Provinces?” Thomas Sheehan (trans.), in *Heidegger: The Man and the Thinker*, Thomas Sheehan (ed.), Chicago: Precedent Publishing, 1981, 27–30. 15–21, “Wege zur Aussprache”, published in 1937. 23–33, “Winke”, published privately in 1941. 35–36, “Chorlied aus der Antigone des Sophocles”, written in 1943. 37–74, “Zur Erörterung der Gelassenheit. Aus einem Feldweggespräch über das Denken”, written in 1944/45, published in 1959; translated as: “Conversation on a Country Path about Thinking”, John M. Anderson and E. Hans Freund (trans), in DT 58–90. 75–86, “Aus der Erfahrung des Denkens”, written in 1947, published privately in 1954; translated as: “The Thinker as Poet”, Albert Hofstadter (trans.), in PLT 1–14. 87–90, “Der Feldweg”, published in 1949; translated as: “The Pathway”, T. F. O’Meara (trans.), revised by Thomas Sheehan, in *Heidegger: The Man and the Thinker*, Thomas Sheehan (ed.), Chicago: Precedent Publishing, 1981, 45–67. 91, “Holzwege”, published in 1949. 93–109, “Zu einem Vers von Mörike: Ein Briefwechsel mit Martin Heidegger von Emil Staiger”, published in 1951; translated as: “The Staiger-Heidegger Correspondence”, Arthur A. Grugan (trans), *Man and World* 14(3): 291–307. doi:10.1007/BF01248750 (English) 111, “Was heißt Lesen?”, published in 1954; translated as: “What Is Reading?” John Sallis (trans.), in *Reading Heidegger: Commemorations*, John Sallis (ed.), Bloomington, IN: Indiana University Press, 1993, 2. 113–16, “Vom Geheimnis des Glockenturms”, written in 1954, published in 1969. 117–18, “Für das Langenharder Hebelbuch”, published in 1954. 119–121, “Über die Sixtina”, published in 1955, published in GA in 1983. 123–25, “Die Sprache Johann Peter Hebels”, published in 1955; translated as: “The Language of Johann Peter Hebel”, Jerome Veith (trans.), in HR 295–97. 127–29, “Begegnungen mit Ortega y Gasset”, written in 1955, published in 1956. 131, “Was ist die Zeit”, published in 1956. 133–50, “Hebel—der Hausfreund”, published in 1957; translated as: “Hebel—Friend of the House”, Bruce V. Foltz and Michael Heim (trans), in *Contemporary German Philosophy 3*, Darrel E. Christensen (ed.), University Park: Pennsylvania State University Press, 1983, 89–101. 151–54, “Aufzeichnungen aus der Werkstatt”, published in 1959. 155–80, “Sprache und Heimat”, lecture given in 1960, published in 1960. 181, “Über Igor Strawinsky”, published in 1962. 183, “Für René Char”, published in 1964. 185–98, “Adalbert Stifters ‘Eisengeschichte’”, published in 1964; translated as: *Adalbert Stifter’s “Ice Tale”*, Miles Groth (trans.), New York: Nino Press, 1993. 199–201, “Wink in das Gewesen”, written in 1966, published in 1976. 203–10, “Die Kunst und der Raum”, published in 1969; translated as: “Art and Space”, Jerome Veith (trans.), in HR 305–09. 211–12, “Zeichen”, published in 1969. 213–20, “Das Wohnen des Menschen”, written in 1970, published in 1971. 221–24, “Gedachtes”, written in 1970, published in 1971; translated as “Gedachtes / Thoughts”, Keith Hoeller (trans.), *Philosophy Today*, 20(4): 286–290. doi:10.5840/philtoday197620423 (German & English) 225–27, “Rimbaud Vivant”, written in 1972, published in 1976. 229, “Sprache”, written in 1972, published in 1973; translated as “Sprache / Language”, Thomas Sheehan (trans.), *Philosophy Today* 20(4): 291. doi:10.5840/philtoday197620424 (Germand & English) 231–35, “Der Fehl heiliger Namen”, written in 1974, published in 1981; translated as: “The Want of Holy Names”, Bernhard Radloff (trans.), *Man and World* 18(3): 261–267. doi:10.1007/BF01248813 (English) 237–39, “Fridolin Wiplingers letzter Besuch”, written in 1974, published in 1976. 241–42, “Erhart Kästner zum Gedächtnis”, written in 1975, published in 1980. 243, “Grußwort von Martin Heidegger”, written in 1976, published in 1978.
 
 **GA14**
 
-*Zur Sache des Denkens*, manuscripts and lectures, collected and published in GA in 2007. 3–30, “Zeit und Sein”, lecture given in 1962, collected in 1969; translated as “Time and Being,” Joan Stambaugh (trans.), in OTB 1–24. 31–66, “Protokoll zu einem Seminar über den Vortrag ‘Zeit und Sein’”, summary of a seminar held in 1962, collected in 1969; translated as “Summary of a Seminar on the Lecture ‘Time and Being’”, Joan Stambaugh (trans.), in OTB 25–54. 67–90, “Das Ende der Philosophie und die Aufgabe des Denkens”, written in 1964, collected in 1969; translated as “The End of Philosophy and the Task of Thinking”, Joan Stambaugh (trans.), in OTB 55–73. 91–102, “Mein Weg in die Phänomenologie”, written in 1963, collected in 1969; translated as “My Way to Phenomenology”, Joan Stambaugh (trans.), in OTB 74–82. 123–26, “Selbstanzeige: Martin Heidegger, Sein und Zeit. I. Hälfte”, written in 1927,. 129–32, “Brief an Edmund Husserl vom 22. Oktober 1927”, written in 1927; translated as: “Heidegger’s Letter and Appendices”, Thomas Sheehan (trans.), in *Edmund Husserl’s Psychological and Transcendental Phenomenology and the Confrontation with Heidegger, 1927–1931*, Thomas Sheehan and Richard E. Palmer (eds/trans), Dordrecht: Kluwer, 1997, 136–39. 133–36, “Vorbemerkung des Herausgebers von Edmund Husserls Vorlesungen zur Phänomenologie des inneren Zeitbewußtseins”, published in 1928. 145–48, “Über das Zeitverständnis in der Phänomenologie und im Denken der Seinsfrage”, published in 1969; translated as: “The Understanding of Time in Phenomenology and in the Thinking of the Being-Question”, Thomas Sheehan and Frederick Elliston (trans), *Southwestern Journal of Philosophy*, 10(2): 199–200. doi:10.5840/swjphil197910244
-
 **GA15**
-
-*Seminare*, seminars held between 1966 and 1973, published in GA in 1986. 9–263, “Martin Heidegger—Eugen Fink: Heraklit”, seminar held from 1966 to 1967, published 1970; translated as: *Heraclitus Seminar, 1966/67* with Eugen Fink, Charles H. Seibert (trans.), Tuscaloos, AL: University of Alabama Press, 1979. 270–400, “Vier Seminare”, seminars in 1966, 1968, 1969, 1973, published in 1977; translated 2003 as FS.
 
 **GA16**
 
-*Reden und andere Zeugnisse eines Lebensweges*, a collection of speeches, addresses, essays, lectures, official statement, letters, book reviews, poems, interviews, and other writings dating between 1910 and 1976, collected and published in GA in 2000. 372–94, “Das Rektorat 1933/34—Tatsachen und Gedanken”, written in 1945, published in 1983; translated as: “The Rectorate 1933/34: Facts and Thoughts”, Lisa Harries (trans.), in *Martin Heidegger and National Socialism*, Günther Neske and Emil Kettering (eds), New York: Paragon House, 1990, 15–32. 430–1, “Zu 1935–1945 (Brief an Marcuse, 20. Januar 1948)”, written 1948. 517–29, “Gelassenheit, 30. Oktober 1955”, speech delivered 1955, published in 1959; translated as: “Memorial Address”, John M. Anderson and E. Hans Freund (trans), in DT 43–57. 574–82, “700 Jahre Meßkirch (Ansprache zum Heimatabend am 22. Juli 1961)”, address given in 1961, published in 1961. 652–83, “Spiegel-Gespräch mit Martin Heidegger, 23. September 1966”, interview from 1966, published in 1976; translated as: “Der Spiegel Interview with Martin Heidegger”, Jerome Veith (trans.), in HR 313–33.
-
 **GA17**
-
-*Einführung in die phänomenologische Forschung*, lecture series 1923–1924, published 1994; translated as: *Introduction to Phenomenological Research*, Daniel O. Dahlstrom (trans.), Bloomington, IN: Indiana University Press, 2005.
 
 **GA18**
 
-*Grundbegriffe der Aristotelischen Philosophie*, lecture series 1924, published 2002; translated as: *The Basic Concepts of Aristotelian Philosophy*, Robert D. Metcalf and Mark B. Tanzer (trans), Bloomington, IN: Indiana University Press, 2009.
-
 **GA19**
-
-*Platon, Sophistes*, lecture series 1924–1925, published 1992; translated as: *Plato’s Sophist*, Richard Rojcewicz and André Schuwer, Bloomington, IN: Indiana University Press, 1997.
 
 **GA20**
 
-*Prolegomena zur Geschichte des Zeitbegriffs*, lecture series 1925, published 1979; translated as: *History of the Concept of Time: Prolegomena*, Theodore Kisiel (trans.), Bloomington, IN: Indiana University Press, 1985.
-
 **GA21**
-
-*Logik: Die Frage nach der Wahrheit*, lecture series 1925–1926, published 1976; translated as: *Logic: The Question of Truth*, Thomas Sheehan (trans.), Bloomington, IN: Indiana University Press, 2010.
 
 **GA22**
 
-*Die Grundbegriffe der antiken Philosophie*, lecture series 1926, published 1993; translated as: *Basic Concepts of Ancient Philosophy*, Richard Rojcewicz (trans.), Bloomington, IN: Indiana University Press, 2008.
-
 **GA23**
-
-*Geschichte der Philosophie von Thomas von Aquin bis Kant*, lecture series 1926–1927, published 2006.
 
 **GA24**
 
-*Die Grundprobleme der Phänomenologie*, lecture series 1927, published 1975; translated as: *Basic Problems of Phenomenology*, Albert Hofstadter (trans.), Bloomington, IN: Indiana University Press, 1982.
-
 **GA25**
-
-*Phänomenologische Interpretation von Kants Kritik der reinen Vernunft*, lecture series 1927–1928, published 1977; translated as: *Phenomenological Interpretation of Kant’s Critique of Pure Reason*, Parvis Emad and Kenneth Maly (trans), Bloomington, IN: Indiana University Press, 1997.
 
 **GA26**
 
-*Metaphysische Anfangsgründe der Logik im Ausgang von Leibniz*, lecture series 1928, published 1978; translated as: *The Metaphysical Foundations of Logic*, Michael Heim (trans.), Bloomington, IN: Indiana University Press, 1984.
-
 **GA27**
-
-*Einleitung in die Philosophie*, lecture series 1928–1929, published 1996; translated as: *Introduction to Philosophy*, William McNeill (trans.), Bloomington, IN: Indiana University Press, 2024.
 
 **GA28**
 
-*Der deutsche Idealismus, Fichte, Schelling, Hegel und die philosophische Problemlage der Gegenwart*, lecture series 1929, published 1997.
-
 **GA29/30**
-
-*Die Grundbegriffe der Metaphysik: Welt—Endlichkeit—Einsamkeit*, lecture series 1929–1930, published 1983; translated as: *The Fundamental Concepts of Metaphysics: World, Finitude, Solitude*, William McNeill and Nicholas Walker (trans), Bloomington, IN: Indiana University Press, 1995.
 
 **GA31**
 
-*Vom Wesen der menschlichen Freiheit: Einleitung in die Philosophie*, lecture series 1930, published 1982; translated as: *The Essence of Human Freedom: An Introduction to Philosophy*, Ted Sadler (trans.), London: Continuum, 2002.
-
 **GA32**
-
-*Hegels Phänomenologie des Geistes*, lecture series 1930–1931, published 1980; translated as: *Hegel’s Phenomenology of Spirit*, Parvis Emad and Kenneth Maly (trans), Bloomington, IN: Indiana University Press, 1988.
 
 **GA33**
 
-*Aristoteles, Metphysics Θ 1–3: Von Wesen und Wirklichkeit der Kraft*, lecture series 1931, published 1981; translated as *Aristotle’s Metaphysics Θ 1–3*, Walter Brogan and Peter Warnek (trans), Bloomington, IN: Indiana University Press, 1995.
-
 **GA34**
-
-*Vom Wesen der Wahrheit: Zu Platons Höhlengleichnis und Theätet*, lecture series 1931–1932, published 1988; translated as: *The Essence of Truth: On Plato’s Cave Allegory and Theaetetus*, Ted Sadler (trans.), London: Continuum, 2002.
 
 **GA35**
 
-*Der Anfang der abendländischen Philosophie: Auslegung des Anaximander und Parmenides*, lecture series 1932, published 2012; translated as: *The Beginnings of Western Philosophy: Interpretation of Anaximander and Parmenides*, Richard Rojcewicz (trans.), Bloomington, IN: Indiana University Press, 2015.
-
 **GA36/37**
-
-*Sein und Wahrheit*, lecture series 1933 and 1933–1934, published 2001; translated as: *Being and Truth*, Gregory Fried and Richard Polt (trans), Bloomington, IN: Indiana University Press, 2010.
 
 **GA38**
 
-*Logik als die Frage nach dem Wesen der Sprache*, lecture series 1934, published 1998; translated as: *Logic as the Question Concerning the Essence of Language*, Wanda Torres Gregory and Yvonne Unna (trans), Albany: State University of New York Press, 2009.
-
 **GA38A**
-
-*Logik als die Frage nach dem Wesen der Sprache*, original manuscripts from the 1934 lecture series (GA38), published 2020.
 
 **GA39**
 
-*Hölderlins Hymnen »Germanien« und »Der Rhein«*, lecture series 1934–1935, published 1980.; translated as: *Hölderlin’s Hymns “Germania” and “The Rhine”*, William McNeill and Julia Ireland (trans), Bloomington, IN: Indiana University Press, 2014.
-
 **GA40**
-
-*Einführung in die Metaphysik*, lecture series 1935, published 1953, published in GA in 1983; translated as *Introduction to Metaphysics*, Gregory Fried and Richard Polt (trans), 2nd rev. and expanded ed., New Haven, CT: Yale University Press, 2014.
 
 **GA41**
 
-*Die Frage nach dem Ding: Zu Kants Lehre von den transzendentalen Grundsätzen*, lecture series 1935–1936, published 1962, published in GA in 1984; translated as: *What is a Thing?* W. B. Barton, Jr. and Vera Deutsch (trans), Chicago: Henry Regnery, 1967.
-
 **GA43**
-
-*Nietzsche: Der Wille zur Macht als Kunst*, lecture series 1936–1937, published 1985.
 
 **GA45**
 
-*Grundfragen der Philosophie: Ausgewählte “Probleme” der “Logik”*, lecture series 1937–1938, published 1984; translated as: *Basic Questions of Philosophy: Selected “Problems” of “Logic”*, Richard Rojcewicz and André Schuwer (trans), Bloomington, IN: Indiana University Press, 1994.
-
 **GA46**
-
-*Zur Auslegung von Nietzsches II. Unzeitgemäßer Betrachtung*, lecture series 1938–1939, published 2003; translated as: *Interpretation of Nietzsche’s Second Untimely Meditation*, Ullrich Haase and Mark Sinclair, Bloomington, IN: Indiana University Press, 2016.
 
 **GA47**
 
-*Nietzsches Lehre vom Willen zur Macht als Erkenntnis*, lecture series 1939, published 1989.
-
 **GA48**
-
-*Nietzsche: Der europäische Nihilismus*, lecture series 1940, published 1986.
 
 **GA49**
 
-*Die Metaphysik des deutschen Idealismus, Schelling*, lecture series 1941, published 1991; translated as: *The Metaphysics of German Idealism: A New Interpretation of Schelling’s Philosophical Investigations into the Essence of Human Freedom and the Matters Connected Therewith (1809)*, Ian Alexander Moore and Rodrigo Therezo (trans), Cambridge: Polity, 2021.
-
 **GA50**
-
-1\. *Nietzsches Metaphysik*, written 1940; 2. *Einleitung in die Philosophie: Denken und Dichten*, written 1944/45; published 1990. Part 2 translated as: *Introduction to Philosophy—Thinking and Poetizing*, Phillip Jacques Braunstein (trans.), Bloomington, IN: Indiana University Press, 2011.
 
 **GA51**
 
-*Grundbegriffe*, lecture series 1941, published 1981; translated as: *Basic Concepts*, Gary E. Aylesworth (trans.), Bloomington, IN: Indiana University Press, 1993.
-
 **GA52**
-
-*Hölderlins Hymne »Andenken«*, lecture series 1941–1942, published 1982; translated as: *Hölderlins Hymn “Remembrance”*, William McNeill and Julia Ireland (trans), Bloomington, IN: Indiana University Press, 2018.
 
 **GA53**
 
-*Hölderlins Hymne »Der Ister«*, lecture series 1942, published 1984; translated as: *Hölderlin’s Hymn “The Ister”*, William McNeill and Julia Davis (trans), Bloomington, IN: Indiana University Press, 1996.
-
 **GA54**
-
-*Parmenides*, lecture series 1942–1943, published 1982; translated as: *Parmenides*, André Schuwer and Richard Rojcewicz (trans), Bloomington, IN: Indiana University Press, 1992.
 
 **GA55**
 
-*Heraklit: Der Anfang des abendländischen Denkens. Logik: Heraklits Lehre vom Logos*, lecture series 1943 and 1944, published 1979.
-
 **GA58**
-
-*Grundprobleme der Phänomenologie*, lecture series 1919–1920, published 1993; translated as: *Basic Problems of Phenomenology. Winter Semester 1919/1920*, Scott M. Campbell (trans.), London: Bloomsbury, 2013.
 
 **GA59**
 
-*Phänomenologie der Anschauung und des Ausdrucks: Theorie der philosophischen Begriffsbildung*, lecture series 1920, published 1993; translated as: *Phenomenology of Intuition and Expression*, Tracy Colony (trans.), London: Continuum, 2010.
-
 **GA60**
-
-*Phänomenologie des religiösen Lebens*, manuscripts from 1918–1919, lecture series 1920–1921, and lecture series 1921, published 1995; translated as: *The Phenomenology of Religious Life*, Matthias Fritsch and Jennifer Anna Gosetti-Ferencei (trans), Bloomington, IN: Indiana University Press, 2004.
 
 **GA61**
 
-*Phänomenologische Interpretationen zu Aristoteles: Einführung in die phänomenologische Forschung*, lecture series 1921–1922, published 1985; translated as: *Phenomenological Interpretations of Aristotle*, Richard Rojcewicz (trans.), Bloomington, IN: Indiana University Press, 2001.
-
 **GA62**
-
-*Phänomenologische Interpretationen ausgewählter Abhandlungen des Aristoteles zur Ontologie und Logik*, lecture series 1922, published 2005.
 
 **GA63**
 
-*Ontologie, Hermeneutik der Faktizität*, lecture series 1923, published 1988; translated as: *Ontology—The Hermeneutics of Facticity*, John van Buren (trans.), Bloomington, IN: Indiana University Press, 1999.
-
 **GA64**
-
-*Der Begriff der Zeit*, 2004. 1–103, “Der Begriff der Zeit (1924)”; manuscript written in 1924; translated as: *The Concept of Time: The First Draft of Being and Time*, Ingo Farin (trans.), London: Continuum, 2011. 105–125, “Der Begriff der Zeit (Vortrag 1924)”, lecture given in 1924; translated as: *The Concept of Time*, William McNeill (trans.), Oxford: Blackwell, 1992.
 
 **GA65**
 
-*Beiträge zur Philosophie, vom Ereignis*, manuscript written between 1936 and 1938, published 1989; translated as: *Contributions to Philosophy, of the Event*, Richard Rojcewicz and Daniela Vallega-Neu (trans), Bloomington, IN: Indiana University Press, 2012.
-
 **GA66**
-
-*Besinnung*, manuscript written between 1938 and 1939, published 1997; translated as: *Mindfulness*, Parvis Emad and Thomas Kalary (trans), London: Continuum, 2006.
 
 **GA67**
 
-*Metaphysik und Nihilismus*, two manuscripts written 1938–1939 and 1946–1948, published 1999; translated as: *Metaphysics and Nihilism*, Arun Iyer (trans.), Cambridge: Polity, 2022.
-
 **GA69**
-
-*Die Geschichte des Seyns*, two manuscripts written 1938–1940 and 1939–40, published 1998; translated as: *The History of Beyng*, William McNeill and Jeffrey Powell (trans), Bloomington, IN: Indiana University Press, 2015.
 
 **GA70**
 
-*Über den Anfang*, manuscript dated 1941, published 2005; translated as: *On Inception*, Peter Hanly (trans.), Bloomington, IN: Indiana University Press, 2023.
-
 **GA71**
-
-*Das Ereignis*, manuscript written 1941–42, published 2009; translated as: *The Event*, Richard Rojcewicz (trans.), Bloomington, IN: Indiana University Press, 2013.
 
 **GA73.1–2**
 
-*Zum Ereignis-Denken*, undated manuscripts written between 1932 and 1976, published 2013.
-
 **GA74**
-
-*Zum Wesen der Sprache und Zur Frage nach der Kunst*, undated manuscripts, published 2010; translated as: *On the Essence of Language and the Question of Art*, Adam Knowles (trans.), Thomas Regehly (ed.), Cambridge: Polity, 2022.
 
 **GA75**
 
-*Zu Hölderlin: Griechenlandreisen*, notes and manuscripts written between 1939 and 1970, published 2000.
-
 **GA76**
-
-*Leitgedanken zur Entstehung der Metaphysik, der neuzeitlichen Wissenschaft und der modernen Technik*, notes and manuscripts written between 1935 and 1958, published 2009.
 
 **GA77**
 
-*Feldweg-Gespräche*, written between 1944 and 1945, published 1995; translated as: *Country Path Conversations*, Brett W. Davis (trans.), Bloomington, IN: Indiana University Press, 2010.
-
 **GA78**
-
-*Der Spruch des Anaximander*, undated notes and manuscripts, probably dating from the early 1940s, published 2010.
 
 **GA79**
 
-*Bremer und Freiburger Vorträge*, two lecture series from 1949 & 1957, published 1994; translated as: *Bremen and Freiburg Lectures: “Insight Into That Which Is” and “Basic Principles of Thinking”*, Andrew J. Mitchell (trans.), Bloomington, IN: Indiana University Press, 2012.
-
 **GA80.1**
-
-*Vorträge. Teil 1: 1915–1932*, lectures given between 1915 and 1932, published 2016.
 
 **GA80.2**
 
-*Vorträge. Teil 2: 1935–1967*, lectures given between 1935 and 1967, published 2020.
-
 **GA82**
-
-*Zu eigenen Veröffentlichung*, dated and undated notes, published 2018.
 
 **GA83**
 
-*Seminare. Platon—Aristoteles—Augustinus*, notes and transcripts to seminars held between 1928 and 1952 published 2012.
-
 **GA84.2**
-
-*Seminare. Kant—Leibniz—Schiller*, notes and transcripts to seminars held between 1936 and 1942, published 2023.
 
 **GA86**
 
-*Seminare: Hegel—Schelling*, manuscripts, notes, and student transcripts of seminars held between 1927 and 1957, published 2011.
-
 **GA87**
-
-*Nietzsche: Seminare 1937 und 1944*, notes on seminars held in 1937 and 1944, published 2004.
 
 **GA94**
 
-*Überlegungen II–VI*, notebooks written between 1931 and 1938, published 2014; translated as: *Ponderings II–VI: Black Notebooks 1931– 1938*, Richard Rojcewicz (trans.), Bloomington, IN: Indiana University Press, 2016.
-
 **GA95**
-
-*Überlegungen VII–XI*, notebooks written between 1938 and 1939, published 2014; translated as: *Ponderings VII–XI: Black Notebooks 1938– 1939*, Richard Rojcewicz (trans.), Bloomington, IN: Indiana University Press, 2017.
 
 **GA96**
 
-*Überlegungen XII–XV*, notebooks written between 1939 and 1941, published 2014; translated as: *Ponderings XII–XV: Black Notebooks 1939–1941*, Richard Rojcewicz (trans.), Bloomington, IN: Indiana University Press, 2017.
-
 **GA97**
-
-*Anmerkungen II–V*, notebooks written between 1942 and 1948, published 2015.
 
 **GA98**
 
-*Anmerkungen VI–IX*, notebooks written between 1948 and 1951, published 2018.
-
 **GA100**
 
-*Vigiliae und Notturno*, notebooks written between 1952 and 1957, published 2020.
-
 **GA101**
-
-*Winke I und II*, notebooks written between 1957 and 1959, published 2020.
 
 #### A.2 Other Works by Heidegger
 
 **BH**
 
-*Becoming Heidegger: On the Trail of His Early Occasional Writings, 1910–1927* (Northwestern University Studies in Phenomenology and Existential Philosophy), Theodore Kisiel and Thomas Sheehan (eds), Evanston, IL: Northwestern University Press, 2007.
-
 **DT**
-
-*Discourse on Thinking*, John M. Anderson and E. Hans Freund (trans), New York: Harper & Row, 1966.
 
 **EB**
 
-*Martin Heidegger / Elisabeth Blochmann. Briefwechsel 1918–1969*, Joachim W. Storck (ed.), Marbach am Neckar: Deutsche Schillergesellschaft, 1989.
-
 **EGT**
-
-*Early Greek Thinking*, David Farrell Krell and Frank A. Capuzzi (trans), San Francisco: Harper & Row, 1975.
 
 **EP**
 
-*The End of Philosophy*, Joan Stambaugh (trans.), University of Chicago Press, 1973.
-
 **FS**
-
-*Four Seminars*, Andrew Mitchell and François Raffoul (trans), Bloomington, IN: Indiana University Press, 2003.
 
 **HR**
 
-*The Heidegger Reader*, Günter Figal (ed.), Jerome Veith (trans.), Bloomington, IN: Indiana University Press, 2009.
-
 **ID**
-
-*Identity and Difference*, Joan Stambaugh (trans.), Chicago: University of Chicago Press, 2002.
 
 **MR**
 
-*Being and Time*, John Macquarrie and Edward Robinson (trans), Oxford: Basil Blackwell, 1962.
-
 **N1**
-
-*Nietzsche I*, David Farrell Krell (trans.), New York: Harper & Row, 1979.
 
 **N2**
 
-*Nietzsche II*, David Farrell Krell (trans.), New York: Harper & Row, 1984.
-
 **N3**
-
-*Nietzsche III*, Joan Stambaugh, David Farrell Krell, and Frank A. Capuzzi (trans), New York: Harper & Row, 1987.
 
 **N4**
 
-*Nietzsche IV*, Frank A. Capuzzi (trans.), New York: Harper & Row, 1982.
-
 **OTB**
-
-*On Time and Being*, Joan Stambaugh (trans.), Chicago: University of Chicago Press, 1972.
 
 **OTBT**
 
-*Off the Beaten Track*, Julian Young and Kenneth Haynes (trans), New York: Cambridge University Press, 2002.
-
 **OWL**
-
-*On the Way to Language*, Peter D. Hertz (trans.), New York: Harper & Row, 1971.
 
 **P**
 
-*Pathmarks*, William McNeill (ed.), Cambridge/New York: Cambridge University Press, 1998.
-
 **PLT**
-
-*Poetry, Language, Thought*, Albert Hofstadter (trans.), New York: HarperCollins, 1971.
 
 **QCT**
 
-*The Question Concerning Technology and Other Essays*, William Lovitt (trans.), New York: Harper & Row, 1977.
-
 **SR**
-
-*Being and Time: A Revised Edition of the Stambaugh Translation*, Joan Stambaugh (trans.), Dennis J. Schmidt (ed.), Albany: State University of New York Press, 2010
 
 **SZ**
 
-*Sein und Zeit*, 7ᵗʰ edition, Tübingen: Max Niemeyer Verlag, 1953 (first published in 1927). Translated as *Being and Time*, see MR. NOTE: Page numbers for the 7ᵗʰ German Edition of Being and Time are found in the margin of English translation of *Being and Time*, and it is standard to refer to passages using the 7ᵗʰ edition’s pagination.
-
 **WCT**
-
-*What is Called Thinking?*, J. Glenn Gray (trans.), New York: Harper Torchbook, 1968.
 
 ### B. Secondary Literature
 
@@ -1335,6 +1121,220 @@ One can detect in this passage from the late 1930s and early 1940s Heidegger’s
 [^note-110]: 110\. A poetic dwelling consists in “the way [mortals] preserve the fourfold in its essence” (GA7: 152 / PLT 148).
 
 [^note-111]: 111\. “[E]arth and sky, divinities and mortals, united to each other of their own accord, belong together by way of the simpleness of the united fourfold. Each of the four reflects in its own way the essence of the others. At the same time, each in its own way is reflected back into its own, within the simple onefold of the four…. None of the four insists on its own separate particularity”. (GA7: 171 / PLT 179).
+
+[^kant-1929]: *Kant und das Problem der Metaphysik*, first published 1929, published in GA 1991. Translated as: *Kant and the Problem of Metaphysics*, Richard Taft (trans.), Bloomington, IN: Indiana University Press, 1997.
+
+[^erläuterungen-1936]: *Erläuterungen zu Hölderlins Dichtung*, lectures given between 1936 and 1968, first published between 1936 and 1971, collected 1971, published in GA in 1981; translated as: *Elucidations of Hölderlin’s Poetry*, Keith Hoeller (trans), Amherst, NY: Humanity Books, 2000.
+
+[^holzwege-1935]: *Holzwege*, lectures given between 1935 and 1946, first published in 1950, published in GA in 1977; translation: OTBT.
+
+[^nietzsche-1936]: *Nietzsche I*, lectures given between 1936 and 1939, reworked and published in 1961, published in GA in 1996. 1–224, “Der Wille zur Macht als Kunst”, lectures given in 1936–37; translated as: “The Will to Power as Art”, David Farrell Krell (trans.), in N1 1–220. 225–423, “Die ewige Wiederkehr des Gleichen”, lectures given in 1937; translated as: “The Eternal Recurrence of the Same”, David Farrell Krell (trans.), in N2 1–208. 425–594, “Der Wille zur Macht als Erkenntnis”, lectures given in 1939; translated as: “The Will to Power as Knowledge”, Joan Stambaugh and David Farrell Krell (trans.), in N3 1–158.
+
+[^nietzsche-1939]: *Nietzsche II*, lectures and manuscripts written between 1939 and 1941, reworked and published in 1961, published in GA in 1997. 1–22, “Die ewige Wiederkehr des Gleichen und der Wille zur Macht”, written in 1939; translated as: “The Eternal Recurrence of the Same and the Will to Power”, David Farrell Krell (trans.), in N3 159–83. 23–229, “Der europäische Nihilismus”, lectures given in 1940; translated as: “European Nihilism”, Frank A. Capuzzi (trans.), in N4 1–196. 231–300, “Nietzsches Metaphysik”, written in 1940; translated as: “Nietzsche’s Metaphysics”, Frank A. Capuzzi and David Farrell Krell (trans.), in N3 187–251. 301–61, “Die seinsgeschichtliche Bestimmung des Nihilismus”, written between 1944 and 1946; translated as: “Nihilism as Determined by the History of Being”, Frank A. Capuzzi (trans.), in N4 199–250. 363–416, “Die Metaphysik als Geschichte des Seins”, written in 1941; translated as: “Metaphysics as History of Being”, Joan Stambaugh (trans.), in EP 1–54. 417–38, “Entwürfe zu Geschichte des Seins als Metaphysik”, written in 1941; translated as: “Sketches for a History of Being as Metaphysics”, Joan Stambaugh (trans.), in EP 55–74. 439–48, “Die Erinnerung in die Metaphysik”, written in 1941; translated as: “Recollection in Metaphysics”, Joan Stambaugh (trans.), in EP 75–83.
+
+[^vorträge-1954]: *Vorträge und Aufsätze*, collected and published in 1954, published in GA in 2000. 5–36, “Die Frage nach der Technik”, lecture given in 1953, published in 1954; translated as: “The Question Concerning Technology”, William Lovitt (trans.), in QCT 3–35. 37–65, “Wissenschaft und Besinnung”, lecture given in 1953; translated as: “Science and Reflection”, William Lovitt (trans.), in QCT 155–82. 67–98, “Überwindung der Metaphysik”, 1936–46. Translated as: “Overcoming Metaphysics”, Joan Stambaugh (trans.), in EP 84–110. 99–124. “Wer ist Nietzsches Zarathustra?”, lecture given in 1953; translated as: “Who is Nietzsche’s Zarathustra?” David Farrell Krell (trans.), in N2 211–33. 127–143, “Was heißt Denken?”, lecture given in 1952, published in 1952. 145–64, “Bauen Wohnen Denken”, lecture given in 1951, published in 1952; translated as: “Building Dwelling Thinking”, Albert Hofstadter (trans.), in PLT 145–61. 165–87, “Das Ding”, lecture given in 1950, published in 1951; translated as: “The Thing”, Albert Hofstadter (trans.), in PLT 165–86. 189–208, “… dichterisch wohnet der Mensch …”, lecture given in 1951; translated as: “… Poetically Man Dwells …”, Albert Hofstadter (trans.), in PLT 213–29. 211–34, “Logos, Heraklit, Fragment 50”, lecture given in 1951; translated as: “Logos (Heraclitus, Fragment B 50”, David Farrell Krell and Frank A. Capuzzi (trans), in EGT 59–78. 235–61, “Moira, Parmenides VIII, 34–41”, manuscript dated 1954; translated as: “Moira (Parmenides VIII, 34–41”, Frank A. Capuzzi (trans.), in EGT 79–101. 263–88, “Aletheia, Heraklit Fragment 16”, lecture given in 1954; translated as: “Aletheia (Heraclitus, Fragment B 16”, Frank A. Capuzzi (trans.), in EGT 102–23.
+
+[^was-1951]: *Was heißt Denken?*, lectures given in 1951–1952, published in 1954, published in GA in 2002; translated as: *What is Called Thinking?* (WCT) Fred D. Wieck and J. Glenn Gray (trans), New York: Harper & Row, 1968.
+
+[^wegmarken-1919]: *Wegmarken*, manuscripts and lectures written between 1919 and 1964, first published between 1929 and 1973, collected 1967, expanded and published in GA in 1976; translated as: *Pathmarks*, William McNeill (ed.), Cambridge/New York: Cambridge University Press, 1998.
+
+[^der-1955]: *Der Satz vom Grund*, lectures given in 1955–1956, published in 1957, published in GA in 1997; translated as: *The Principle of Reason*, Reginald Lilly (trans.), Bloomington, IN: Indiana University Press, 1991.
+
+[^identität-1955]: *Identität und Differenz*, lectures and manuscripts written between 1955 and 1963; published between 1956 and 1963; collected and published in GA in 2006. 3–26, “Was ist das—die Philosophie?”, lecture given in 1955, published in 1956; translated as: *What is Philosophy?* Jean T. Wilde and William Kluback, London: Rowman & Littlefield, 2003; originally New York: Twayne, 1958. 31–50, “Der Satz der Identität”, lecture given in 1957; translated as: “The Principle of Identity”, Joan Stambaugh (trans.), revised Jerome Veith, in HR 284–94. 51–79, “Die onto-theo-logische Verfassung der Metaphysik”, lecture given in 1957; translated as “The Onto-Theo-Logical Constitution of Metaphysics”, Joan Stambaugh (trans.), in ID 42–74. 113–24, “Die Kehre”, lecture given in 1949, published in 1962; translated as: “The Turning”, William Lovitt (trans.), in QCT 36–49. 125–40, = GA79: 81–96, “Grundsätze des Denkens”, lecture given in 1957, published in 1958; translated as: “Basic Principles of Thinking: Freiburg Lectures 1957, Lecture I”, in *Bremen and Freiburg Lectures: “Insight Into That Which Is” and “Basic Principles of Thinking”*, Andrew J. Mitchell (trans.), Bloomington, IN: Indiana University Press, 2012: 77–91. 143–52, “Ein Vorwort, Brief an Pater William. J. Richardson”, written in 1962; published in 1963; translated as: “Preface”, William J. Richardson (trans.), in W. J. Richardson 1963: viii–xxii.
+
+[^unterwegs-1950]: *Unterwegs zur Sprache*, lectures given between 1950 and 1959, collection published in 1959, published in GA in 1985. 7–30, “Die Sprache”, lecture given in 1950, collected in 1959; translated as: “Language”, Albert Hofstadter (trans.), in PLT 189–210. 33–78, “Die Sprache im Gedicht: Eine Erörterung von Georg Trakls Gedicht”, lecture given in 1952, published in 1953, collected in 1959; translated as: “Language in the Poem: A Discussion on Georg Trakl’s Poetic Work”, Peter D. Hertz (trans.), in OWL 159–98. 81–146, “Aus einem Gespräch von der Sprache: Zwischen einem Japaner und einem Fragenden”, manuscript “originated” in 1953/54, collected in 1959; translated as: “A Dialogue on Language”, Peter D. Hertz (trans.), in OWL 1–54. 149–204, “Das Wesen der Sprache”, lecture given in 1957–58, collected in 1959; translated as: “The Nature of Language”, Peter D. Hertz (trans.), in OWL 57–108. 207–25, “Das Wort”, lecture given in 1958, collected in 1959; translated as: “Words”, Joan Stambaugh (trans.), in OWL 139–56. 229–57, “Der Weg zur Sprache”, lecture given in 1959, collected in 1959; translated as: “The Way to Language”, Peter D. Hertz (trans.), in OWL 111–36.
+
+[^aus-1910]: *Aus der Erfahrung des Denkens*, manuscripts and lectures written between 1910 and 1976, collected and published in GA in 1983. 1–3, “Abraham a Sankta Clara”, published in 1910. 7, “Abendgang auf der Reichenau”, written in 1916, published in 1917; translated as: “Eventide on Reichenau”, William J. Richardson (trans.), in the “Introduction” to W. J. Richardson 1963: 1. 9–13, “Schöpferische Landschaft: Warum bleiben wir in der Provinz?”, broadcast in 1933, published in 1934; translated as: “Why Do I Stay in the Provinces?” Thomas Sheehan (trans.), in *Heidegger: The Man and the Thinker*, Thomas Sheehan (ed.), Chicago: Precedent Publishing, 1981, 27–30. 15–21, “Wege zur Aussprache”, published in 1937. 23–33, “Winke”, published privately in 1941. 35–36, “Chorlied aus der Antigone des Sophocles”, written in 1943. 37–74, “Zur Erörterung der Gelassenheit. Aus einem Feldweggespräch über das Denken”, written in 1944/45, published in 1959; translated as: “Conversation on a Country Path about Thinking”, John M. Anderson and E. Hans Freund (trans), in DT 58–90. 75–86, “Aus der Erfahrung des Denkens”, written in 1947, published privately in 1954; translated as: “The Thinker as Poet”, Albert Hofstadter (trans.), in PLT 1–14. 87–90, “Der Feldweg”, published in 1949; translated as: “The Pathway”, T. F. O’Meara (trans.), revised by Thomas Sheehan, in *Heidegger: The Man and the Thinker*, Thomas Sheehan (ed.), Chicago: Precedent Publishing, 1981, 45–67. 91, “Holzwege”, published in 1949. 93–109, “Zu einem Vers von Mörike: Ein Briefwechsel mit Martin Heidegger von Emil Staiger”, published in 1951; translated as: “The Staiger-Heidegger Correspondence”, Arthur A. Grugan (trans), *Man and World* 14(3): 291–307. doi:10.1007/BF01248750 (English) 111, “Was heißt Lesen?”, published in 1954; translated as: “What Is Reading?” John Sallis (trans.), in *Reading Heidegger: Commemorations*, John Sallis (ed.), Bloomington, IN: Indiana University Press, 1993, 2. 113–16, “Vom Geheimnis des Glockenturms”, written in 1954, published in 1969. 117–18, “Für das Langenharder Hebelbuch”, published in 1954. 119–121, “Über die Sixtina”, published in 1955, published in GA in 1983. 123–25, “Die Sprache Johann Peter Hebels”, published in 1955; translated as: “The Language of Johann Peter Hebel”, Jerome Veith (trans.), in HR 295–97. 127–29, “Begegnungen mit Ortega y Gasset”, written in 1955, published in 1956. 131, “Was ist die Zeit”, published in 1956. 133–50, “Hebel—der Hausfreund”, published in 1957; translated as: “Hebel—Friend of the House”, Bruce V. Foltz and Michael Heim (trans), in *Contemporary German Philosophy 3*, Darrel E. Christensen (ed.), University Park: Pennsylvania State University Press, 1983, 89–101. 151–54, “Aufzeichnungen aus der Werkstatt”, published in 1959. 155–80, “Sprache und Heimat”, lecture given in 1960, published in 1960. 181, “Über Igor Strawinsky”, published in 1962. 183, “Für René Char”, published in 1964. 185–98, “Adalbert Stifters ‘Eisengeschichte’”, published in 1964; translated as: *Adalbert Stifter’s “Ice Tale”*, Miles Groth (trans.), New York: Nino Press, 1993. 199–201, “Wink in das Gewesen”, written in 1966, published in 1976. 203–10, “Die Kunst und der Raum”, published in 1969; translated as: “Art and Space”, Jerome Veith (trans.), in HR 305–09. 211–12, “Zeichen”, published in 1969. 213–20, “Das Wohnen des Menschen”, written in 1970, published in 1971. 221–24, “Gedachtes”, written in 1970, published in 1971; translated as “Gedachtes / Thoughts”, Keith Hoeller (trans.), *Philosophy Today*, 20(4): 286–290. doi:10.5840/philtoday197620423 (German & English) 225–27, “Rimbaud Vivant”, written in 1972, published in 1976. 229, “Sprache”, written in 1972, published in 1973; translated as “Sprache / Language”, Thomas Sheehan (trans.), *Philosophy Today* 20(4): 291. doi:10.5840/philtoday197620424 (Germand & English) 231–35, “Der Fehl heiliger Namen”, written in 1974, published in 1981; translated as: “The Want of Holy Names”, Bernhard Radloff (trans.), *Man and World* 18(3): 261–267. doi:10.1007/BF01248813 (English) 237–39, “Fridolin Wiplingers letzter Besuch”, written in 1974, published in 1976. 241–42, “Erhart Kästner zum Gedächtnis”, written in 1975, published in 1980. 243, “Grußwort von Martin Heidegger”, written in 1976, published in 1978.
+
+[^zur-2007]: *Zur Sache des Denkens*, manuscripts and lectures, collected and published in GA in 2007. 3–30, “Zeit und Sein”, lecture given in 1962, collected in 1969; translated as “Time and Being,” Joan Stambaugh (trans.), in OTB 1–24. 31–66, “Protokoll zu einem Seminar über den Vortrag ‘Zeit und Sein’”, summary of a seminar held in 1962, collected in 1969; translated as “Summary of a Seminar on the Lecture ‘Time and Being’”, Joan Stambaugh (trans.), in OTB 25–54. 67–90, “Das Ende der Philosophie und die Aufgabe des Denkens”, written in 1964, collected in 1969; translated as “The End of Philosophy and the Task of Thinking”, Joan Stambaugh (trans.), in OTB 55–73. 91–102, “Mein Weg in die Phänomenologie”, written in 1963, collected in 1969; translated as “My Way to Phenomenology”, Joan Stambaugh (trans.), in OTB 74–82. 123–26, “Selbstanzeige: Martin Heidegger, Sein und Zeit. I. Hälfte”, written in 1927,. 129–32, “Brief an Edmund Husserl vom 22. Oktober 1927”, written in 1927; translated as: “Heidegger’s Letter and Appendices”, Thomas Sheehan (trans.), in *Edmund Husserl’s Psychological and Transcendental Phenomenology and the Confrontation with Heidegger, 1927–1931*, Thomas Sheehan and Richard E. Palmer (eds/trans), Dordrecht: Kluwer, 1997, 136–39. 133–36, “Vorbemerkung des Herausgebers von Edmund Husserls Vorlesungen zur Phänomenologie des inneren Zeitbewußtseins”, published in 1928. 145–48, “Über das Zeitverständnis in der Phänomenologie und im Denken der Seinsfrage”, published in 1969; translated as: “The Understanding of Time in Phenomenology and in the Thinking of the Being-Question”, Thomas Sheehan and Frederick Elliston (trans), *Southwestern Journal of Philosophy*, 10(2): 199–200. doi:10.5840/swjphil197910244
+
+[^seminare-1966]: *Seminare*, seminars held between 1966 and 1973, published in GA in 1986. 9–263, “Martin Heidegger—Eugen Fink: Heraklit”, seminar held from 1966 to 1967, published 1970; translated as: *Heraclitus Seminar, 1966/67* with Eugen Fink, Charles H. Seibert (trans.), Tuscaloos, AL: University of Alabama Press, 1979. 270–400, “Vier Seminare”, seminars in 1966, 1968, 1969, 1973, published in 1977; translated 2003 as FS.
+
+[^reden-1910]: *Reden und andere Zeugnisse eines Lebensweges*, a collection of speeches, addresses, essays, lectures, official statement, letters, book reviews, poems, interviews, and other writings dating between 1910 and 1976, collected and published in GA in 2000. 372–94, “Das Rektorat 1933/34—Tatsachen und Gedanken”, written in 1945, published in 1983; translated as: “The Rectorate 1933/34: Facts and Thoughts”, Lisa Harries (trans.), in *Martin Heidegger and National Socialism*, Günther Neske and Emil Kettering (eds), New York: Paragon House, 1990, 15–32. 430–1, “Zu 1935–1945 (Brief an Marcuse, 20. Januar 1948)”, written 1948. 517–29, “Gelassenheit, 30. Oktober 1955”, speech delivered 1955, published in 1959; translated as: “Memorial Address”, John M. Anderson and E. Hans Freund (trans), in DT 43–57. 574–82, “700 Jahre Meßkirch (Ansprache zum Heimatabend am 22. Juli 1961)”, address given in 1961, published in 1961. 652–83, “Spiegel-Gespräch mit Martin Heidegger, 23. September 1966”, interview from 1966, published in 1976; translated as: “Der Spiegel Interview with Martin Heidegger”, Jerome Veith (trans.), in HR 313–33.
+
+[^einführung-1923]: *Einführung in die phänomenologische Forschung*, lecture series 1923–1924, published 1994; translated as: *Introduction to Phenomenological Research*, Daniel O. Dahlstrom (trans.), Bloomington, IN: Indiana University Press, 2005.
+
+[^grundbegriffe-1924]: *Grundbegriffe der Aristotelischen Philosophie*, lecture series 1924, published 2002; translated as: *The Basic Concepts of Aristotelian Philosophy*, Robert D. Metcalf and Mark B. Tanzer (trans), Bloomington, IN: Indiana University Press, 2009.
+
+[^platon-1924]: *Platon, Sophistes*, lecture series 1924–1925, published 1992; translated as: *Plato’s Sophist*, Richard Rojcewicz and André Schuwer, Bloomington, IN: Indiana University Press, 1997.
+
+[^prolegomena-1925]: *Prolegomena zur Geschichte des Zeitbegriffs*, lecture series 1925, published 1979; translated as: *History of the Concept of Time: Prolegomena*, Theodore Kisiel (trans.), Bloomington, IN: Indiana University Press, 1985.
+
+[^logik-1925]: *Logik: Die Frage nach der Wahrheit*, lecture series 1925–1926, published 1976; translated as: *Logic: The Question of Truth*, Thomas Sheehan (trans.), Bloomington, IN: Indiana University Press, 2010.
+
+[^die-1926]: *Die Grundbegriffe der antiken Philosophie*, lecture series 1926, published 1993; translated as: *Basic Concepts of Ancient Philosophy*, Richard Rojcewicz (trans.), Bloomington, IN: Indiana University Press, 2008.
+
+[^geschichte-1926]: *Geschichte der Philosophie von Thomas von Aquin bis Kant*, lecture series 1926–1927, published 2006.
+
+[^die-1927]: *Die Grundprobleme der Phänomenologie*, lecture series 1927, published 1975; translated as: *Basic Problems of Phenomenology*, Albert Hofstadter (trans.), Bloomington, IN: Indiana University Press, 1982.
+
+[^phänomenologische-1927]: *Phänomenologische Interpretation von Kants Kritik der reinen Vernunft*, lecture series 1927–1928, published 1977; translated as: *Phenomenological Interpretation of Kant’s Critique of Pure Reason*, Parvis Emad and Kenneth Maly (trans), Bloomington, IN: Indiana University Press, 1997.
+
+[^metaphysische-1928]: *Metaphysische Anfangsgründe der Logik im Ausgang von Leibniz*, lecture series 1928, published 1978; translated as: *The Metaphysical Foundations of Logic*, Michael Heim (trans.), Bloomington, IN: Indiana University Press, 1984.
+
+[^einleitung-1928]: *Einleitung in die Philosophie*, lecture series 1928–1929, published 1996; translated as: *Introduction to Philosophy*, William McNeill (trans.), Bloomington, IN: Indiana University Press, 2024.
+
+[^der-1929]: *Der deutsche Idealismus, Fichte, Schelling, Hegel und die philosophische Problemlage der Gegenwart*, lecture series 1929, published 1997.
+
+[^die-1929]: *Die Grundbegriffe der Metaphysik: Welt—Endlichkeit—Einsamkeit*, lecture series 1929–1930, published 1983; translated as: *The Fundamental Concepts of Metaphysics: World, Finitude, Solitude*, William McNeill and Nicholas Walker (trans), Bloomington, IN: Indiana University Press, 1995.
+
+[^vom-1930]: *Vom Wesen der menschlichen Freiheit: Einleitung in die Philosophie*, lecture series 1930, published 1982; translated as: *The Essence of Human Freedom: An Introduction to Philosophy*, Ted Sadler (trans.), London: Continuum, 2002.
+
+[^hegels-1930]: *Hegels Phänomenologie des Geistes*, lecture series 1930–1931, published 1980; translated as: *Hegel’s Phenomenology of Spirit*, Parvis Emad and Kenneth Maly (trans), Bloomington, IN: Indiana University Press, 1988.
+
+[^aristoteles-1931]: *Aristoteles, Metphysics Θ 1–3: Von Wesen und Wirklichkeit der Kraft*, lecture series 1931, published 1981; translated as *Aristotle’s Metaphysics Θ 1–3*, Walter Brogan and Peter Warnek (trans), Bloomington, IN: Indiana University Press, 1995.
+
+[^vom-1931]: *Vom Wesen der Wahrheit: Zu Platons Höhlengleichnis und Theätet*, lecture series 1931–1932, published 1988; translated as: *The Essence of Truth: On Plato’s Cave Allegory and Theaetetus*, Ted Sadler (trans.), London: Continuum, 2002.
+
+[^der-1932]: *Der Anfang der abendländischen Philosophie: Auslegung des Anaximander und Parmenides*, lecture series 1932, published 2012; translated as: *The Beginnings of Western Philosophy: Interpretation of Anaximander and Parmenides*, Richard Rojcewicz (trans.), Bloomington, IN: Indiana University Press, 2015.
+
+[^sein-1933]: *Sein und Wahrheit*, lecture series 1933 and 1933–1934, published 2001; translated as: *Being and Truth*, Gregory Fried and Richard Polt (trans), Bloomington, IN: Indiana University Press, 2010.
+
+[^logik-1934]: *Logik als die Frage nach dem Wesen der Sprache*, lecture series 1934, published 1998; translated as: *Logic as the Question Concerning the Essence of Language*, Wanda Torres Gregory and Yvonne Unna (trans), Albany: State University of New York Press, 2009.
+
+[^logik-1934-2]: *Logik als die Frage nach dem Wesen der Sprache*, original manuscripts from the 1934 lecture series (GA38), published 2020.
+
+[^hölderlins-1934]: *Hölderlins Hymnen »Germanien« und »Der Rhein«*, lecture series 1934–1935, published 1980.; translated as: *Hölderlin’s Hymns “Germania” and “The Rhine”*, William McNeill and Julia Ireland (trans), Bloomington, IN: Indiana University Press, 2014.
+
+[^einführung-1935]: *Einführung in die Metaphysik*, lecture series 1935, published 1953, published in GA in 1983; translated as *Introduction to Metaphysics*, Gregory Fried and Richard Polt (trans), 2nd rev. and expanded ed., New Haven, CT: Yale University Press, 2014.
+
+[^die-1935]: *Die Frage nach dem Ding: Zu Kants Lehre von den transzendentalen Grundsätzen*, lecture series 1935–1936, published 1962, published in GA in 1984; translated as: *What is a Thing?* W. B. Barton, Jr. and Vera Deutsch (trans), Chicago: Henry Regnery, 1967.
+
+[^nietzsche-1936-2]: *Nietzsche: Der Wille zur Macht als Kunst*, lecture series 1936–1937, published 1985.
+
+[^grundfragen-1937]: *Grundfragen der Philosophie: Ausgewählte “Probleme” der “Logik”*, lecture series 1937–1938, published 1984; translated as: *Basic Questions of Philosophy: Selected “Problems” of “Logic”*, Richard Rojcewicz and André Schuwer (trans), Bloomington, IN: Indiana University Press, 1994.
+
+[^zur-1938]: *Zur Auslegung von Nietzsches II. Unzeitgemäßer Betrachtung*, lecture series 1938–1939, published 2003; translated as: *Interpretation of Nietzsche’s Second Untimely Meditation*, Ullrich Haase and Mark Sinclair, Bloomington, IN: Indiana University Press, 2016.
+
+[^nietzsches-1939]: *Nietzsches Lehre vom Willen zur Macht als Erkenntnis*, lecture series 1939, published 1989.
+
+[^nietzsche-1940]: *Nietzsche: Der europäische Nihilismus*, lecture series 1940, published 1986.
+
+[^die-1941]: *Die Metaphysik des deutschen Idealismus, Schelling*, lecture series 1941, published 1991; translated as: *The Metaphysics of German Idealism: A New Interpretation of Schelling’s Philosophical Investigations into the Essence of Human Freedom and the Matters Connected Therewith (1809)*, Ian Alexander Moore and Rodrigo Therezo (trans), Cambridge: Polity, 2021.
+
+[^nietzsches-1940]: 1. *Nietzsches Metaphysik*, written 1940; 2. *Einleitung in die Philosophie: Denken und Dichten*, written 1944/45; published 1990. Part 2 translated as: *Introduction to Philosophy—Thinking and Poetizing*, Phillip Jacques Braunstein (trans.), Bloomington, IN: Indiana University Press, 2011.
+
+[^grundbegriffe-1941]: *Grundbegriffe*, lecture series 1941, published 1981; translated as: *Basic Concepts*, Gary E. Aylesworth (trans.), Bloomington, IN: Indiana University Press, 1993.
+
+[^hölderlins-1941]: *Hölderlins Hymne »Andenken«*, lecture series 1941–1942, published 1982; translated as: *Hölderlins Hymn “Remembrance”*, William McNeill and Julia Ireland (trans), Bloomington, IN: Indiana University Press, 2018.
+
+[^hölderlins-1942]: *Hölderlins Hymne »Der Ister«*, lecture series 1942, published 1984; translated as: *Hölderlin’s Hymn “The Ister”*, William McNeill and Julia Davis (trans), Bloomington, IN: Indiana University Press, 1996.
+
+[^parmenides-1942]: *Parmenides*, lecture series 1942–1943, published 1982; translated as: *Parmenides*, André Schuwer and Richard Rojcewicz (trans), Bloomington, IN: Indiana University Press, 1992.
+
+[^heraklit-1943]: *Heraklit: Der Anfang des abendländischen Denkens. Logik: Heraklits Lehre vom Logos*, lecture series 1943 and 1944, published 1979.
+
+[^grundprobleme-1919]: *Grundprobleme der Phänomenologie*, lecture series 1919–1920, published 1993; translated as: *Basic Problems of Phenomenology. Winter Semester 1919/1920*, Scott M. Campbell (trans.), London: Bloomsbury, 2013.
+
+[^phänomenologie-1920]: *Phänomenologie der Anschauung und des Ausdrucks: Theorie der philosophischen Begriffsbildung*, lecture series 1920, published 1993; translated as: *Phenomenology of Intuition and Expression*, Tracy Colony (trans.), London: Continuum, 2010.
+
+[^phänomenologie-1918]: *Phänomenologie des religiösen Lebens*, manuscripts from 1918–1919, lecture series 1920–1921, and lecture series 1921, published 1995; translated as: *The Phenomenology of Religious Life*, Matthias Fritsch and Jennifer Anna Gosetti-Ferencei (trans), Bloomington, IN: Indiana University Press, 2004.
+
+[^phänomenologische-1921]: *Phänomenologische Interpretationen zu Aristoteles: Einführung in die phänomenologische Forschung*, lecture series 1921–1922, published 1985; translated as: *Phenomenological Interpretations of Aristotle*, Richard Rojcewicz (trans.), Bloomington, IN: Indiana University Press, 2001.
+
+[^phänomenologische-1922]: *Phänomenologische Interpretationen ausgewählter Abhandlungen des Aristoteles zur Ontologie und Logik*, lecture series 1922, published 2005.
+
+[^ontologie-1923]: *Ontologie, Hermeneutik der Faktizität*, lecture series 1923, published 1988; translated as: *Ontology—The Hermeneutics of Facticity*, John van Buren (trans.), Bloomington, IN: Indiana University Press, 1999.
+
+[^der-2004]: *Der Begriff der Zeit*, 2004. 1–103, “Der Begriff der Zeit (1924)”; manuscript written in 1924; translated as: *The Concept of Time: The First Draft of Being and Time*, Ingo Farin (trans.), London: Continuum, 2011. 105–125, “Der Begriff der Zeit (Vortrag 1924)”, lecture given in 1924; translated as: *The Concept of Time*, William McNeill (trans.), Oxford: Blackwell, 1992.
+
+[^beiträge-1936]: *Beiträge zur Philosophie, vom Ereignis*, manuscript written between 1936 and 1938, published 1989; translated as: *Contributions to Philosophy, of the Event*, Richard Rojcewicz and Daniela Vallega-Neu (trans), Bloomington, IN: Indiana University Press, 2012.
+
+[^besinnung-1938]: *Besinnung*, manuscript written between 1938 and 1939, published 1997; translated as: *Mindfulness*, Parvis Emad and Thomas Kalary (trans), London: Continuum, 2006.
+
+[^metaphysik-1938]: *Metaphysik und Nihilismus*, two manuscripts written 1938–1939 and 1946–1948, published 1999; translated as: *Metaphysics and Nihilism*, Arun Iyer (trans.), Cambridge: Polity, 2022.
+
+[^die-1938]: *Die Geschichte des Seyns*, two manuscripts written 1938–1940 and 1939–40, published 1998; translated as: *The History of Beyng*, William McNeill and Jeffrey Powell (trans), Bloomington, IN: Indiana University Press, 2015.
+
+[^über-1941]: *Über den Anfang*, manuscript dated 1941, published 2005; translated as: *On Inception*, Peter Hanly (trans.), Bloomington, IN: Indiana University Press, 2023.
+
+[^das-1941]: *Das Ereignis*, manuscript written 1941–42, published 2009; translated as: *The Event*, Richard Rojcewicz (trans.), Bloomington, IN: Indiana University Press, 2013.
+
+[^zum-1932]: *Zum Ereignis-Denken*, undated manuscripts written between 1932 and 1976, published 2013.
+
+[^zum-2010]: *Zum Wesen der Sprache und Zur Frage nach der Kunst*, undated manuscripts, published 2010; translated as: *On the Essence of Language and the Question of Art*, Adam Knowles (trans.), Thomas Regehly (ed.), Cambridge: Polity, 2022.
+
+[^zu-1939]: *Zu Hölderlin: Griechenlandreisen*, notes and manuscripts written between 1939 and 1970, published 2000.
+
+[^leitgedanken-1935]: *Leitgedanken zur Entstehung der Metaphysik, der neuzeitlichen Wissenschaft und der modernen Technik*, notes and manuscripts written between 1935 and 1958, published 2009.
+
+[^feldweg-gespräche-1944]: *Feldweg-Gespräche*, written between 1944 and 1945, published 1995; translated as: *Country Path Conversations*, Brett W. Davis (trans.), Bloomington, IN: Indiana University Press, 2010.
+
+[^der-2010]: *Der Spruch des Anaximander*, undated notes and manuscripts, probably dating from the early 1940s, published 2010.
+
+[^bremer-1949]: *Bremer und Freiburger Vorträge*, two lecture series from 1949 & 1957, published 1994; translated as: *Bremen and Freiburg Lectures: “Insight Into That Which Is” and “Basic Principles of Thinking”*, Andrew J. Mitchell (trans.), Bloomington, IN: Indiana University Press, 2012.
+
+[^vorträge-1915]: *Vorträge. Teil 1: 1915–1932*, lectures given between 1915 and 1932, published 2016.
+
+[^vorträge-1935]: *Vorträge. Teil 2: 1935–1967*, lectures given between 1935 and 1967, published 2020.
+
+[^zu-2018]: *Zu eigenen Veröffentlichung*, dated and undated notes, published 2018.
+
+[^seminare-1928]: *Seminare. Platon—Aristoteles—Augustinus*, notes and transcripts to seminars held between 1928 and 1952 published 2012.
+
+[^seminare-1936]: *Seminare. Kant—Leibniz—Schiller*, notes and transcripts to seminars held between 1936 and 1942, published 2023.
+
+[^seminare-1927]: *Seminare: Hegel—Schelling*, manuscripts, notes, and student transcripts of seminars held between 1927 and 1957, published 2011.
+
+[^nietzsche-1937]: *Nietzsche: Seminare 1937 und 1944*, notes on seminars held in 1937 and 1944, published 2004.
+
+[^überlegungen-1931]: *Überlegungen II–VI*, notebooks written between 1931 and 1938, published 2014; translated as: *Ponderings II–VI: Black Notebooks 1931– 1938*, Richard Rojcewicz (trans.), Bloomington, IN: Indiana University Press, 2016.
+
+[^überlegungen-1938]: *Überlegungen VII–XI*, notebooks written between 1938 and 1939, published 2014; translated as: *Ponderings VII–XI: Black Notebooks 1938– 1939*, Richard Rojcewicz (trans.), Bloomington, IN: Indiana University Press, 2017.
+
+[^überlegungen-1939]: *Überlegungen XII–XV*, notebooks written between 1939 and 1941, published 2014; translated as: *Ponderings XII–XV: Black Notebooks 1939–1941*, Richard Rojcewicz (trans.), Bloomington, IN: Indiana University Press, 2017.
+
+[^anmerkungen-1942]: *Anmerkungen II–V*, notebooks written between 1942 and 1948, published 2015.
+
+[^anmerkungen-1948]: *Anmerkungen VI–IX*, notebooks written between 1948 and 1951, published 2018.
+
+[^vigiliae-1952]: *Vigiliae und Notturno*, notebooks written between 1952 and 1957, published 2020.
+
+[^winke-1957]: *Winke I und II*, notebooks written between 1957 and 1959, published 2020.
+
+[^becoming-1910]: *Becoming Heidegger: On the Trail of His Early Occasional Writings, 1910–1927* (Northwestern University Studies in Phenomenology and Existential Philosophy), Theodore Kisiel and Thomas Sheehan (eds), Evanston, IL: Northwestern University Press, 2007.
+
+[^discourse-1966]: *Discourse on Thinking*, John M. Anderson and E. Hans Freund (trans), New York: Harper & Row, 1966.
+
+[^martin-1918]: *Martin Heidegger / Elisabeth Blochmann. Briefwechsel 1918–1969*, Joachim W. Storck (ed.), Marbach am Neckar: Deutsche Schillergesellschaft, 1989.
+
+[^early-1975]: *Early Greek Thinking*, David Farrell Krell and Frank A. Capuzzi (trans), San Francisco: Harper & Row, 1975.
+
+[^end-1973]: *The End of Philosophy*, Joan Stambaugh (trans.), University of Chicago Press, 1973.
+
+[^four-2003]: *Four Seminars*, Andrew Mitchell and François Raffoul (trans), Bloomington, IN: Indiana University Press, 2003.
+
+[^heidegger-2009]: *The Heidegger Reader*, Günter Figal (ed.), Jerome Veith (trans.), Bloomington, IN: Indiana University Press, 2009.
+
+[^identity-2002]: *Identity and Difference*, Joan Stambaugh (trans.), Chicago: University of Chicago Press, 2002.
+
+[^being-1962]: *Being and Time*, John Macquarrie and Edward Robinson (trans), Oxford: Basil Blackwell, 1962.
+
+[^nietzsche-1979]: *Nietzsche I*, David Farrell Krell (trans.), New York: Harper & Row, 1979.
+
+[^nietzsche-1984]: *Nietzsche II*, David Farrell Krell (trans.), New York: Harper & Row, 1984.
+
+[^nietzsche-1987]: *Nietzsche III*, Joan Stambaugh, David Farrell Krell, and Frank A. Capuzzi (trans), New York: Harper & Row, 1987.
+
+[^nietzsche-1982]: *Nietzsche IV*, Frank A. Capuzzi (trans.), New York: Harper & Row, 1982.
+
+[^time-1972]: *On Time and Being*, Joan Stambaugh (trans.), Chicago: University of Chicago Press, 1972.
+
+[^off-2002]: *Off the Beaten Track*, Julian Young and Kenneth Haynes (trans), New York: Cambridge University Press, 2002.
+
+[^way-1971]: *On the Way to Language*, Peter D. Hertz (trans.), New York: Harper & Row, 1971.
+
+[^pathmarks-1998]: *Pathmarks*, William McNeill (ed.), Cambridge/New York: Cambridge University Press, 1998.
+
+[^poetry-1971]: *Poetry, Language, Thought*, Albert Hofstadter (trans.), New York: HarperCollins, 1971.
+
+[^question-1977]: *The Question Concerning Technology and Other Essays*, William Lovitt (trans.), New York: Harper & Row, 1977.
+
+[^being-2010]: *Being and Time: A Revised Edition of the Stambaugh Translation*, Joan Stambaugh (trans.), Dennis J. Schmidt (ed.), Albany: State University of New York Press, 2010
+
+[^sein-1953]: *Sein und Zeit*, 7ᵗʰ edition, Tübingen: Max Niemeyer Verlag, 1953 (first published in 1927). Translated as *Being and Time*, see MR. NOTE: Page numbers for the 7ᵗʰ German Edition of Being and Time are found in the margin of English translation of *Being and Time*, and it is standard to refer to passages using the 7ᵗʰ edition’s pagination.
+
+[^what-1968]: *What is Called Thinking?*, J. Glenn Gray (trans.), New York: Harper Torchbook, 1968.
 
 [^backman-2020]: Backman, Jussi, 2020, “Radical Contextuality in Heidegger’s Postmetaphysics”, in Figal, D’Angelo, Keiling, and Yang 2020: 191–192 (ch. 10).
 

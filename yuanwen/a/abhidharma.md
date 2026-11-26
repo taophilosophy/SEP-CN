@@ -199,57 +199,57 @@ atomism: 17th to 20th century | atomism: ancient | Buddha | consciousness: and i
 
 [^aṅguttara-nikāya-nd]: [A] *Aṅguttara-nikāya*
 
-[^dhs-a-nd]: [Dhs-a] *Atthasālinī* (*Dhammasaṅgaṇi* commentary)
+[^atthasālinī-nd]: [Dhs-a] *Atthasālinī* (*Dhammasaṅgaṇi* commentary)
 
-[^abhidh-av-nd]: [Abhidh-av] *Abhidhammāvatāra*
+[^abhidhammāvatāra-nd]: [Abhidh-av] *Abhidhammāvatāra*
 
-[^abhidh-s-nd]: [Abhidh-s] *Abhidhammatthasaṅgaha*
+[^abhidhammatthasaṅgaha-nd]: [Abhidh-s] *Abhidhammatthasaṅgaha*
 
-[^akb-1975]: [Akb] *Abhidharmakośabhāṣya*, P. Pradhan, (ed.), Patna: Jayaswal Research Institute, 1975
+[^abhidharmakośabhāṣya-1975]: [Akb] *Abhidharmakośabhāṣya*, P. Pradhan, (ed.), Patna: Jayaswal Research Institute, 1975
 
-[^kv-nd]: [Kv] *Kathāvatthu*
+[^kathāvatthu-nd]: [Kv] *Kathāvatthu*
 
-[^dhs-nd]: [Dhs] *Dhammasaṅgaṇi*
+[^dhammasaṅgaṇi-nd]: [Dhs] *Dhammasaṅgaṇi*
 
-[^dhs-mṭ-nd]: [Dhs-mṭ] *Dhammasaṅgaṇi-mūlaṭīkā* (*Dhammasaṅgaṇi* sub-commentary)
+[^dhammasaṅgaṇi-mūlaṭīkā-nd]: [Dhs-mṭ] *Dhammasaṅgaṇi-mūlaṭīkā* (*Dhammasaṅgaṇi* sub-commentary)
 
-[^nett-nd]: [Nett] *Nettippakaraṇa*
+[^nettippakaraṇa-nd]: [Nett] *Nettippakaraṇa*
 
-[^paṭis-nd]: [Paṭis] *Paṭisambhidāmagga*
+[^paṭisambhidāmagga-nd]: [Paṭis] *Paṭisambhidāmagga*
 
-[^ps-nd]: [Ps] *Papañcasūdanī* (*Majjhima-nikāya* commentary)
+[^papañcasūdanī-nd]: [Ps] *Papañcasūdanī* (*Majjhima-nikāya* commentary)
 
-[^peṭ-nd]: [Peṭ] *Peṭakopadesa*
+[^peṭakopadesa-nd]: [Peṭ] *Peṭakopadesa*
 
-[^bv-nd]: [Bv] *Buddhavaṃsa*
+[^buddhavaṃsa-nd]: [Bv] *Buddhavaṃsa*
 
 [^majjhima-nikāya-nd]: [M] *Majjhima-nikāya*
 
-[^mp-nd]: [Mp] *Manorathapūraṇī* (*Aṅguttara-nikāya* commentary)
+[^manorathapūraṇī-nd]: [Mp] *Manorathapūraṇī* (*Aṅguttara-nikāya* commentary)
 
-[^mhv-nd]: [Mhv] *Mahāvaṃsa*
+[^mahāvaṃsa-nd]: [Mhv] *Mahāvaṃsa*
 
-[^mil-nd]: [Mil] *Milindapañha*
+[^milindapañha-nd]: [Mil] *Milindapañha*
 
-[^vin-nd]: [Vin] *Vinaya-piṭaka*
+[^vinaya-piṭaka-nd]: [Vin] *Vinaya-piṭaka*
 
-[^vibh-nd]: [Vibh] *Vibhaṅga*
+[^vibhaṅga-nd]: [Vibh] *Vibhaṅga*
 
-[^vibh-mṭ-nd]: [Vibh-mṭ] *Vibhaṅga-mūlaṭīkā* (*Vibhaṅga* sub-commentary)
+[^vibhaṅga-mūlaṭīkā-nd]: [Vibh-mṭ] *Vibhaṅga-mūlaṭīkā* (*Vibhaṅga* sub-commentary)
 
-[^vism-1950]: [Vism] *Visuddhimagga*, H.C. Warren (ed.), Harvard Oriental Series, Cambridge: Harvard University Press, 1950
+[^visuddhimagga-1950]: [Vism] *Visuddhimagga*, H.C. Warren (ed.), Harvard Oriental Series, Cambridge: Harvard University Press, 1950
 
-[^vism-mhṭ-nd]: [Vism-mhṭ] *Visuddhimagga-mahāṭīkā* (*Visuddhimagga* commentary)
+[^visuddhimagga-mahāṭīkā-nd]: [Vism-mhṭ] *Visuddhimagga-mahāṭīkā* (*Visuddhimagga* commentary)
 
 [^saṃyutta-nikāya-nd]: [S] *Saṃyutta-nikāya*
 
-[^paṭis-a-nd]: [Paṭis-a] *Saddhammappakāsinī* (*Paṭisambhidāmagga* commentary)
+[^saddhammappakāsinī-nd]: [Paṭis-a] *Saddhammappakāsinī* (*Paṭisambhidāmagga* commentary)
 
-[^vibh-a-nd]: [Vibh-a] *Sammohavinodanī* (*Vibhaṅga* commentary)
+[^sammohavinodanī-nd]: [Vibh-a] *Sammohavinodanī* (*Vibhaṅga* commentary)
 
-[^spk-nd]: [Spk] *Sāratthappakāsinī* (*Saṃyutta-nikāya* commentary)
+[^sāratthappakāsinī-nd]: [Spk] *Sāratthappakāsinī* (*Saṃyutta-nikāya* commentary)
 
-[^sv-nd]: [Sv] *Sumaṅgalavilāsinī* (*Dīgha-nikāya* commentary)
+[^sumaṅgalavilāsinī-nd]: [Sv] *Sumaṅgalavilāsinī* (*Dīgha-nikāya* commentary)
 
 [^allon-2021]: Allon, M., 2021, *The Composition and Transmission of Early Buddhist Texts with Specific Reference to Sutras* (Hamburg Buddhist Studies 17), Bochum/Freiburg: projekt verlag. [[Allon 2021 available online](https://www.buddhismuskunde.uni-hamburg.de/pdf/4-publikationen/hamburg-buddhist-studies/17-allon.pdf)]
 

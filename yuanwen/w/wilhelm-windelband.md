@@ -271,7 +271,7 @@ These remarks remain cursory however, and there is room for debate over how much
 
 [^wilhelm-windelband-1914]: 1914, *Einleitung in die Philosophie*, Tübingen: Mohr.
 
-[^präludien-1915-2]: [*Präludien*] 1915, *Präludien. Aufsätze und Reden zur Philosophie und ihrer Geschichte*, 2 volumes, 5th expanded edition, Tübingen: Mohr Siebeck. 1ˢᵗ ed.: 1883. 2ⁿᵈ ed.: 1902; 3ʳᵈ ed.: 1907; 4ᵗʰ ed.: 1911. [[Windelband 1915 volume 1](https://digi.ub.uni-heidelberg.de/diglit/windelband1915bd1/0005) and [Windelband 1915 volume 2](https://digi.ub.uni-heidelberg.de/diglit/windelband1915bd2/0005) available online]
+[^wilhelm-windelband-1915]: [*Präludien*] 1915, *Präludien. Aufsätze und Reden zur Philosophie und ihrer Geschichte*, 2 volumes, 5th expanded edition, Tübingen: Mohr Siebeck. 1ˢᵗ ed.: 1883. 2ⁿᵈ ed.: 1902; 3ʳᵈ ed.: 1907; 4ᵗʰ ed.: 1911. [[Windelband 1915 volume 1](https://digi.ub.uni-heidelberg.de/diglit/windelband1915bd1/0005) and [Windelband 1915 volume 2](https://digi.ub.uni-heidelberg.de/diglit/windelband1915bd2/0005) available online]
 
 [^cohen-1871]: Cohen, Hermann, 1871, *Kants Theorie der Erfahrung*, Berlin: Dümmler. 2ⁿᵈ ed.: 1885. Partially translated as *Kant’s Theory of Experience* by D. Hyder, in NKR: 107–116.
 
@@ -285,7 +285,7 @@ These remarks remain cursory however, and there is room for debate over how much
 
 [^lotze-1874]: Lotze, Hermann, 1874, *Logik. Drei Bücher vom Denken, vom Untersuchen und vom Erkennen*, 2ⁿᵈ ed.: 1880, Leipzig: S. Hirze. Translated as *Logic*, Bosanquet Bernard (ed.), Oxford: Clarendon, 1888.
 
-[^nkr-2015]: [NKR] Luft, Sebastian (ed.), 2015, *The Neo-Kantian Reader*, New York: Routledge.
+[^luft-2015]: [NKR] Luft, Sebastian (ed.), 2015, *The Neo-Kantian Reader*, New York: Routledge.
 
 [^paulsen-1875]: Paulsen, Friedrich, 1875, *Versuch einer Entwicklungsgeschichte der Kantischen Erkenntnisstheorie*, Leipzig: Fuess.
 

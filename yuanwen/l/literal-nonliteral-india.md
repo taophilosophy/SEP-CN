@@ -267,7 +267,7 @@ The author wishes to thank Ben Blumson, Josh Dever, Jeremy Henkel, Ethan Mills, 
 
 [^mukula-2019]: Mukula Bhaṭṭa, *Abhidhāvṛttamātṛkā*, Malcolm Keating (trans.), *Language, Meaning, and Use in Indian Philosophy: An Introduction to Mukula’s ‘Fundamentals of the Communicative Function.’* London: Bloomsbury, 2019.
 
-[^ns-1936]: [NS], *Nyāyasūtra*, (with commentaries by Vātsyāyana, Uddyotakara, and Vācaspati Miśra). *Nyāyadarśanam*, A.M. Tarkatirtha, Taranatha Nyayatarkatirtha, and H.K. Tarkatirtha (eds), Calcutta Sanskrit Series 18. 1936–1944. Translated (with commentaries by Vātsyāyana and Uddyotakara) Ganganatha Jha, 1912–1919, 4 vols. Delhi: Motilal Banarsidass.
+[^nyāyasūtra-1936]: [NS], *Nyāyasūtra*, (with commentaries by Vātsyāyana, Uddyotakara, and Vācaspati Miśra). *Nyāyadarśanam*, A.M. Tarkatirtha, Taranatha Nyayatarkatirtha, and H.K. Tarkatirtha (eds), Calcutta Sanskrit Series 18. 1936–1944. Translated (with commentaries by Vātsyāyana and Uddyotakara) Ganganatha Jha, 1912–1919, 4 vols. Delhi: Motilal Banarsidass.
 
 [^patañjali-1968]: Patañjali, [VM], *Patañjali’s Vyākaraṇamahābhāṣya*, University of Pune, Pune, 1968.
 

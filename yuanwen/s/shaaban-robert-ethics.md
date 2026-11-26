@@ -241,19 +241,19 @@ African Philosophy: sage philosophy | colonialism | ethics: virtue | race | reli
 
 [^note-14]: Indeed, true to his style, Shaaban uses these names for (negative) moral character as personal names in the allegorical story to depict the struggle between virtues and vices.
 
-[^an-2010]: [AN] *Adili na Nduguze*, New edition, Dar es Salaam: Mkuki na Nyota, 2010 (Also published by Tanzania Publishing House, 1977, 1st. edition, and 2010, as 14^{th }edition).
+[^adili-2010]: [AN] *Adili na Nduguze*, New edition, Dar es Salaam: Mkuki na Nyota, 2010 (Also published by Tanzania Publishing House, 1977, 1st. edition, and 2010, as 14^{th }edition).
 
-[^kl-1969]: [KL] *Koja la Lugha*, Nairobi: Oxford University Press, 1969.
+[^koja-1969]: [KL] *Koja la Lugha*, Nairobi: Oxford University Press, 1969.
 
-[^kn-1951]: [KN] *Kusadikika*: *Nchi iliyo Angani*, London: Nelson, 1951; later edition, Nairobi: Evans Brothers Ltd, 1966.
+[^kusadikika-1951]: [KN] *Kusadikika*: *Nchi iliyo Angani*, London: Nelson, 1951; later edition, Nairobi: Evans Brothers Ltd, 1966.
 
-[^my-1991]: [MY] *Maisha Yangu na Baada ya Miaka Hamsini*, Dar es Salaam: Mkuki Na Nyota, 1991 (2003 as 3rd. edition).
+[^maisha-1991]: [MY] *Maisha Yangu na Baada ya Miaka Hamsini*, Dar es Salaam: Mkuki Na Nyota, 1991 (2003 as 3rd. edition).
 
-[^pl-1960]: [PL] *Pambo la Lugha*, Johannesburg: Witwatersrand University Press, 1960.
+[^pambo-1960]: [PL] *Pambo la Lugha*, Johannesburg: Witwatersrand University Press, 1960.
 
-[^sww-1968]: [SWW] *Siku ya Watenzi Wote*, Nairobi: Thomas Nelson and Sons, 1968.
+[^siku-1968]: [SWW] *Siku ya Watenzi Wote*, Nairobi: Thomas Nelson and Sons, 1968.
 
-[^um-1968]: [UM] *Utubora Mkulima*, Nairobi: Evans Brothers Limited, 1968.
+[^utubora-1968]: [UM] *Utubora Mkulima*, Nairobi: Evans Brothers Limited, 1968.
 
 [^adeney-riskotta-1995]: Adeney-Riskotta, Bernard T., 1995, *Strange Virtues: Ethics in a Multicultural World*, Lisle, IL: IVP Academic.
 

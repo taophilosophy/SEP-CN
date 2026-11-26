@@ -358,19 +358,19 @@ All who govern in the interests of themselves rather than of the common good are
 
 Aquinas, Thomas | ethics: natural law tradition | practical reason: medieval theories of
 
-[^eth-nd]: [Eth] *Sententia Libri Ethicorum* (*Commentary on Aristotle’s Nicomachean Ethics*) [1271–2].
+[^sententia-nd]: [Eth] *Sententia Libri Ethicorum* (*Commentary on Aristotle’s Nicomachean Ethics*) [1271–2].
 
-[^mal-nd]: [Mal] *Quaestiones Disputatae de Malo* (*Disputed Questions on Evil*) [1269–71].
+[^quaestiones-nd]: [Mal] *Quaestiones Disputatae de Malo* (*Disputed Questions on Evil*) [1269–71].
 
-[^reg-nd]: [Reg] *De Regno* [or *De Regimine Principum*] *ad regem Cyprum* (*On Government* [or *Kingship*] [or *On the Rule of Princes/Political Leaders*] *to the King of Cyprus*) [c. 1265].
+[^de-nd]: [Reg] *De Regno* [or *De Regimine Principum*] *ad regem Cyprum* (*On Government* [or *Kingship*] [or *On the Rule of Princes/Political Leaders*] *to the King of Cyprus*) [c. 1265].
 
-[^scg-nd]: [ScG] *Summa contra Gentiles* (*A Treatise against the Unbelievers*) [?1259–65].
+[^summa-nd]: [ScG] *Summa contra Gentiles* (*A Treatise against the Unbelievers*) [?1259–65].
 
-[^sent-nd]: [Sent] *Scriptum super Libros Sententiarum Petri Lombardiensis* (*A Commentary on Peter Lombard’s Sentences* [Collection of Opinions of the Church Fathers]) [1253–7]. Note that this remains untranslated save in small excerpts.
+[^scriptum-nd]: [Sent] *Scriptum super Libros Sententiarum Petri Lombardiensis* (*A Commentary on Peter Lombard’s Sentences* [Collection of Opinions of the Church Fathers]) [1253–7]. Note that this remains untranslated save in small excerpts.
 
-[^st-nd]: [ST] *Summa Theologiae* (*A Treatise on Theology*), Parts I [1265–8], I–II [1271–2], II–II [c.1271], III [1272–3].
+[^summa-nd-2]: [ST] *Summa Theologiae* (*A Treatise on Theology*), Parts I [1265–8], I–II [1271–2], II–II [c.1271], III [1272–3].
 
-[^ver-nd]: [Ver] *Quaestiones Disputatae de Veritate* (*Disputed Questions about Truth*) [1256–9].
+[^quaestiones-nd-2]: [Ver] *Quaestiones Disputatae de Veritate* (*Disputed Questions about Truth*) [1256–9].
 
 [^dyson-2002]: Dyson, R. W. (ed.), 2002, *Thomas Aquinas Political Writings*, Cambridge and New York: Cambridge University Press. A selection of texts in a new translation.
 

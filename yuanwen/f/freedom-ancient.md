@@ -289,17 +289,17 @@ I’d like to thank Anne Farrell and the SEP’s reviewer for their helpful comm
 
 [^aristotle-nd]: Aristotle
 
-[^ne-nd]: [*NE*] *Nicomachean Ethics*
+[^nicomachean-nd]: [*NE*] *Nicomachean Ethics*
 
-[^int-nd]: [*Int*.] *De Interpretatione* (On Interpretation)
+[^de-nd]: [*Int*.] *De Interpretatione* (On Interpretation)
 
 [^cicero-nd]: Cicero
 
 [^academica-nd]: *Academica*
 
-[^fat-nd]: [*Fat*.] *De Fato* (On Fate)
+[^de-nd-2]: [*Fat*.] *De Fato* (On Fate)
 
-[^fin-nd]: [*Fin*.] *De Finibus* (On Goals)
+[^de-nd-3]: [*Fin*.] *De Finibus* (On Goals)
 
 [^nature-nd]: *On the Nature of the Gods*
 
@@ -321,15 +321,15 @@ I’d like to thank Anne Farrell and the SEP’s reviewer for their helpful comm
 
 [^epicurus-nd]: Epicurus
 
-[^kd-nd]: [*KD*] *Kuriai Doxai* (Principle Doctrines)
+[^kuriai-nd]: [*KD*] *Kuriai Doxai* (Principle Doctrines)
 
-[^sv-nd]: [*SV*] *Sententiae Vaticanae* (Vatican Sayings)
+[^sententiae-nd]: [*SV*] *Sententiae Vaticanae* (Vatican Sayings)
 
-[^ep-nd]: [*Ep. Men*.] *Letter to Menoeceus*
+[^letter-nd]: [*Ep. Men*.] *Letter to Menoeceus*
 
-[^nature-nd-2]: [*On Nature*] *Peri phuseôs*
+[^peri-nd]: [*On Nature*] *Peri phuseôs*
 
-[^letter-nd]: *The Letter to Herodotus*
+[^letter-nd-2]: *The Letter to Herodotus*
 
 [^gellius-nd]: Gellius, *Noctes Atticae*
 
@@ -349,9 +349,9 @@ I’d like to thank Anne Farrell and the SEP’s reviewer for their helpful comm
 
 [^protagoras-nd]: *Protagoras*
 
-[^rep-nd]: [*Rep*.] *Republic*
+[^republic-nd]: [*Rep*.] *Republic*
 
-[^tim-nd]: [*Tim*.] *Timaeus*
+[^timaeus-nd]: [*Tim*.] *Timaeus*
 
 [^plotinus-nd]: Plotinus, [*Enn*.] *Enneads*
 

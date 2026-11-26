@@ -230,9 +230,9 @@ List of Abbreviations
 
 Albert of Saxony | Bradwardine, Thomas | Buridan, John [Jean] | Burley [Burleigh], Walter | Duns Scotus, John | Heytesbury, William | Ockham [Occam], William
 
-[^dm-nd]: [DM]*Utrum in omni motu potentia motoris excedit potentiam rei motae*
+[^utrum-nd]: [DM]*Utrum in omni motu potentia motoris excedit potentiam rei motae*
 
-[^dv-nd]: [DV] *Utrum quilibet actus voluntatis per se malus sit per se aliquid*
+[^utrum-nd-2]: [DV] *Utrum quilibet actus voluntatis per se malus sit per se aliquid*
 
 [^brugge-nd]: Brugge: Stedelijke Openbare Bibliotheek, Ms. 503, fols. 20vb–50vb (questions 1–9).
 

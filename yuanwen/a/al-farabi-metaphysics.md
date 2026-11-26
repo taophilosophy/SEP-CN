@@ -343,7 +343,7 @@ al-Farabi | al-Farabi: philosophy of logic and language | al-Farabi: philosophy 
 
 [^note-15]: Much of the discussion here of the *Book of Letters* follows Menn 2008; see also Druart 2007 and Diebler 2005, and the discussions in Abed 1991 and in the long and thorough introduction to Zimmermann 1981. On *On the One and Unity* see in detail Genç 2024; see also Janos 2016 and Martini Bonadeo 2023. On Averroes’ reception of the *Book of Letters* and *On the One and Unity*, see Menn 2011.
 
-[^note-16]: “Particle” must thus be understood, in Arabic grammar, in a somewhat broader sense than is standard, e.g., in Greek grammar. Fārābī gives an elaborate classification of particles in his *Kitāb al-alfāẓ al-musta‛mala fī l-manṭiq* (Mahdi 1968, 42–56)[^mahdi-1968]. In Arabic all such words are short, sometimes a single letter. Likewise, “noun” must be taken broadly to include adjectives.
+[^note-16]: “Particle” must thus be understood, in Arabic grammar, in a somewhat broader sense than is standard, e.g., in Greek grammar. Fārābī gives an elaborate classification of particles in his *Kitāb al-alfāẓ al-musta‛mala fī l-manṭiq* (Mahdi 1968, 42–56). In Arabic all such words are short, sometimes a single letter. Likewise, “noun” must be taken broadly to include adjectives.
 
 [^note-17]: Fārābī discusses the appearances created by the grammatical form of paronymous expressions, and instances in which they may mislead, notably in *Book of Letters* I,20–21, I,26, I,36 and I,84. Aristotle discusses sophisms of *skhêma tês lexeôs* in *On Sophistical Refutations* 4, 166b10–19, and at length in *On Sophistical Refutations* 22. Aristotle’s *Categories* 5 3b10–23 discusses the misleading grammatical appearance that a secondary substance-term like “human” signifies a this, as its *skhêma tês prosêgorias* (= *skhêma tês lexeôs*) would suggest.
 
@@ -479,11 +479,11 @@ Fārābī sees himself as reestablishing scientific philosophy when it has becom
 
 [^kitāb-1964]: *Kitāb al-siyāsa al-madanīya* = *Alfarabi’s The Political Regime*, Fauzi M. Najjar (ed.), Beirut: Imprimerie Catholique, 1964.
 
-[^mahdi-1968]: [Mahdi 1968] *Kitāb al-alfāẓ al-mustaʿmala fī l-manṭiq*, Muhsin Mahdi (ed.), Beirut: Dar el-Mashreq, 1968.
+[^kitāb-1968]: [Mahdi 1968] *Kitāb al-alfāẓ al-mustaʿmala fī l-manṭiq*, Muhsin Mahdi (ed.), Beirut: Dar el-Mashreq, 1968.
 
-[^mahdi-1969a]: [Mahdi 1969a] *Kitāb al-ḥurūf* = *Alfarabi’s Book of Letters*, Muhsin Mahdi (ed.), Beirut: Dar el-Mashreq, 1969a. [Note that *Boook of Letters* is cited by part and paragraph number followed, possibly, by page number and line number.]
+[^kitāb-1969a]: [Mahdi 1969a] *Kitāb al-ḥurūf* = *Alfarabi’s Book of Letters*, Muhsin Mahdi (ed.), Beirut: Dar el-Mashreq, 1969a. [Note that *Boook of Letters* is cited by part and paragraph number followed, possibly, by page number and line number.]
 
-[^mahdi-1976]: [Mahdi 1976] *Kitāb iḥṣāʾ al-īqāʿāt*, selections edited by Muhsin Mahdi in ʿUthmān Amīn (ed.), *Nuṣūṣ falsafīya muhdāt ilā l-Duktūr Ibrāhīm Madkūr*, Cairo: 1976, pp. 75–8.
+[^kitāb-1976]: [Mahdi 1976] *Kitāb iḥṣāʾ al-īqāʿāt*, selections edited by Muhsin Mahdi in ʿUthmān Amīn (ed.), *Nuṣūṣ falsafīya muhdāt ilā l-Duktūr Ibrāhīm Madkūr*, Cairo: 1976, pp. 75–8.
 
 [^kitāb-1989]: *Kitāb al-wāḥid wa-l-waḥda* = *Alfarabi’s On One and Unity*, Muhsin Mahdi (ed.), Casablanca: Toubkal, 1989.
 

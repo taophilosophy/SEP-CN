@@ -166,29 +166,29 @@ al-Farabi | al-Farabi: metaphysics | al-Farabi: philosophy of logic and language
 
 [^note-8]: For al-Fārābī’s understanding of demonstration see Galston 1981: 23–34. For the different types of demonstration introduced by al-Fārābī in the *Book of Demonstration*, see Strobino 2019, 42–62.
 
-[^li-1938]: [LI] *Risalat fī’l-‘aql* (*Letter on the Intellect*), M. Bouyges (ed.), Beirut: Imprimerie Catholique, 1938.
+[^risalat-1938]: [LI] *Risalat fī’l-‘aql* (*Letter on the Intellect*), M. Bouyges (ed.), Beirut: Imprimerie Catholique, 1938.
 
-[^es-1953]: [ES] *Iḥṣā’ al-Ulūm* (*Enumeration of the Sciences*), González Palencia (ed.), Madrid/Granada: CSIC, 1953.
+[^iḥṣā’-1953]: [ES] *Iḥṣā’ al-Ulūm* (*Enumeration of the Sciences*), González Palencia (ed.), Madrid/Granada: CSIC, 1953.
 
-[^ir-1956]: [IR] “Introductory *Risalah* on Logic”, D. M. Dunlop (trans.), *The Islamic Quarterly*, 3 (1956–57): 224–235.
+[^introductory-1956]: [IR] “Introductory *Risalah* on Logic”, D. M. Dunlop (trans.), *The Islamic Quarterly*, 3 (1956–57): 224–235.
 
-[^ks-1964]: [KS] *Kitāb al-siyāsa al-madaniyya (also Known as the Treatise on the Principles of Beings)* [or *Political Regime*], F. M. Najjar (ed.), Beirut: Imprimerie Catholique, 1964.
+[^kitāb-1964]: [KS] *Kitāb al-siyāsa al-madaniyya (also Known as the Treatise on the Principles of Beings)* [or *Political Regime*], F. M. Najjar (ed.), Beirut: Imprimerie Catholique, 1964.
 
-[^lc-1973]: [LC] “The Letter Concerning the Intellect”, A. Hyman (trans.), in *Philosophy in the Middle Ages. The Christian, Islamic, and Jewish Traditions*, Indianapolis & Cambridge: Hackett Publishing Company, 1973, pp. 215–221.
+[^letter-1973]: [LC] “The Letter Concerning the Intellect”, A. Hyman (trans.), in *Philosophy in the Middle Ages. The Christian, Islamic, and Jewish Traditions*, Indianapolis & Cambridge: Hackett Publishing Company, 1973, pp. 215–221.
 
-[^vc-1985]: [VC] *Mabādi’ ārā’ ahl al-madīnah al-fāḍilah* (*al-Farabi on the Perfect State*) [also known as *The Virtuous City*], R. Walzer (trans.), Oxford: Clarendon Press, 1985.
+[^mabādi’-1985]: [VC] *Mabādi’ ārā’ ahl al-madīnah al-fāḍilah* (*al-Farabi on the Perfect State*) [also known as *The Virtuous City*], R. Walzer (trans.), Oxford: Clarendon Press, 1985.
 
-[^kb-1986]: [KB & KY] *Kitāb al-Burhān wa Kitāb Šarā’iṭ al-yaqīn* (*Book of Demonstration and Book on the Conditions of Certitude*), M. Fakhry (ed.), Beirut: Dar el-Machreq, 1986–1987.
+[^kitāb-1986]: [KB & KY] *Kitāb al-Burhān wa Kitāb Šarā’iṭ al-yaqīn* (*Book of Demonstration and Book on the Conditions of Certitude*), M. Fakhry (ed.), Beirut: Dar el-Machreq, 1986–1987.
 
-[^sa-2001]: [SA] “*Fusūl al-Madanī* (Selected Aphorisms)”, C. E. Butterworth (trans.), in *The Political Writings. Selected Aphorisms and Other Texts*, Ithaca/London: Cornell University Press, 2001, pp. 11–67.
+[^fusūl-2001]: [SA] “*Fusūl al-Madanī* (Selected Aphorisms)”, C. E. Butterworth (trans.), in *The Political Writings. Selected Aphorisms and Other Texts*, Ithaca/London: Cornell University Press, 2001, pp. 11–67.
 
-[^pa-2001]: [PA] “The Philosophy of Aristotle”, C. E. Butterworth (trans.), in *Philosophy of Plato and Aristotle*, Ithaca, New York: Cornell University Press, 2001, pp. 71–130.
+[^philosophy-2001]: [PA] “The Philosophy of Aristotle”, C. E. Butterworth (trans.), in *Philosophy of Plato and Aristotle*, Ithaca, New York: Cornell University Press, 2001, pp. 71–130.
 
-[^bd-2007]: [BD] “Selections from Book of Demonstration”, J. McGinnis & D. C. Reisman (trans.), in *Classical Arabic Philosophy. An Anthology of Sources*, Indianapolis/Cambridge: Hackett Publishing Company, Inc., 2007, pp. 63–68.
+[^selections-2007]: [BD] “Selections from Book of Demonstration”, J. McGinnis & D. C. Reisman (trans.), in *Classical Arabic Philosophy. An Anthology of Sources*, Indianapolis/Cambridge: Hackett Publishing Company, Inc., 2007, pp. 63–68.
 
-[^oi-2007]: [OI] “On the Intellect”, J. McGinnis & D. C. Reisman (trans.), in *Classical Arabic Philosophy. An Anthology of Sources*, Indianapolis/Cambridge: Hackett Publishing Company, Inc., 2007, pp. 68–78.
+[^intellect-2007]: [OI] “On the Intellect”, J. McGinnis & D. C. Reisman (trans.), in *Classical Arabic Philosophy. An Anthology of Sources*, Indianapolis/Cambridge: Hackett Publishing Company, Inc., 2007, pp. 68–78.
 
-[^pr-2015]: [PR] “Political Regime”, C. E. Butterworth (trans.), in *The Political Writings II. “Political Regime” and “Summary of Plato’s Laws”*, Ithaca, New York: Cornell University Press, 2015, pp. 27–94.
+[^political-2015]: [PR] “Political Regime”, C. E. Butterworth (trans.), in *The Political Writings II. “Political Regime” and “Summary of Plato’s Laws”*, Ithaca, New York: Cornell University Press, 2015, pp. 27–94.
 
 [^aristotle-1995]: Aristotle, *The Complete Works of Aristotle*, J. Barnes (ed.), Princeton: Bollingen, 1995.
 

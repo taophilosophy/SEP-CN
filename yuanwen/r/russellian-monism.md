@@ -287,9 +287,9 @@ Descartes, René: physics | dispositions | dualism | Elisabeth, Princess of Bohe
 
 [^descartes-1644]: Descartes, René, 1644, *Principia Philosophiæ* (*Principles of Philosophy*), Paris. Translated in Descartes 1984–91: volume 1, pages 177–291.
 
-[^at-1983]: [AT] *Oeuvres De Descartes*, 11 vols., edited by Charles Adam and Paul Tannery, Paris: Librairie Philosophique J. Vrin, 1983.
+[^oeuvres-1983]: [AT] *Oeuvres De Descartes*, 11 vols., edited by Charles Adam and Paul Tannery, Paris: Librairie Philosophique J. Vrin, 1983.
 
-[^at-1984]: –––, 1984–91. *The Philosophical Writings of Descartes*, John Cottingham, Robert Stoothoff, and Dugald Murdoch (trs.), 3 vols, Cambridge: Cambridge University Press.
+[^oeuvres-1984]: –––, 1984–91. *The Philosophical Writings of Descartes*, John Cottingham, Robert Stoothoff, and Dugald Murdoch (trs.), 3 vols, Cambridge: Cambridge University Press.
 
 [^eddington-1928]: Eddington, Arthur, 1928, *The Nature of the Physical World*, Cambridge: Cambridge University Press.
 
@@ -355,11 +355,11 @@ Descartes, René: physics | dispositions | dualism | Elisabeth, Princess of Bohe
 
 [^leibniz-1698]: –––, 1698, “On Nature Itself, or on the Inherent Force and Actions of Created Things”, *Acta Eruditorum*, September 1698 [G., IV, 504–516]; English translations: Leibniz 1969, pp. 498–508, Leibniz 1989, pp. 155–166.
 
-[^russellian-monism-1875]: [G]–––, 1875–1890 [1965], *Die philosophischen Schriften*, 7 vols., C. I. Gerhardt (ed.); reprinted Hildesheim: Georg Olms Verlag, 1965.
+[^leibniz-1875]: [G]–––, 1875–1890 [1965], *Die philosophischen Schriften*, 7 vols., C. I. Gerhardt (ed.); reprinted Hildesheim: Georg Olms Verlag, 1965.
 
-[^russellian-monism-1969]: –––, 1969, *Philosophical Papers and Letters*, second edition, Leroy E. Loemker (tr. and ed.), Dordrecht: D. Reidel.
+[^leibniz-1969]: –––, 1969, *Philosophical Papers and Letters*, second edition, Leroy E. Loemker (tr. and ed.), Dordrecht: D. Reidel.
 
-[^russellian-monism-1989]: –––, 1989, *Philosophical Essays*, Roger Ariew and Dan Garber (tr. and ed.), Indianapolis: Hackett Publishing Company.
+[^leibniz-1989]: –––, 1989, *Philosophical Essays*, Roger Ariew and Dan Garber (tr. and ed.), Indianapolis: Hackett Publishing Company.
 
 [^lewis-1966]: Lewis, David K., 1966, “An Argument for the Identity Theory”, *Journal of Philosophy*, 63(1): 17–25. doi:10.2307/2024524
 

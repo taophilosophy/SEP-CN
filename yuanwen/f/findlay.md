@@ -41,7 +41,7 @@ Heidegger told Findlay that he would perhaps understand the mysteries of Angst a
 
 While in Freiburg Findlay took a quiet sidelong glance at the workings of Nazism: “the youths and maidens with their bright faces”, and “some poor Jews silently praying as they passed the ruins of their demolished synagogue” (Ibid.)
 
-Returning to England, Findlay abandoned Oxford for Cambridge, met with Moore and Wittgenstein, and attended their seminars in Fall 1939. The result was a stream of papers in a hard-core analytic style, tightly reasoned and bristling with distinctions. These include “Time: a Treatment of Some Puzzles” (1941b), “Goedelian Sentences: A Non-Numerical Approach” (1942), “Morality by Convention” (1944),“Can God’s Existence Be Disproved?”(1948), “The Notion of Infinity” (1953a), and “The Justification of Attitudes” (1954), all anthologized in *Language, Mind, and Value* (LMV, 1963)[^lmv-1963].
+Returning to England, Findlay abandoned Oxford for Cambridge, met with Moore and Wittgenstein, and attended their seminars in Fall 1939. The result was a stream of papers in a hard-core analytic style, tightly reasoned and bristling with distinctions. These include “Time: a Treatment of Some Puzzles” (1941b), “Goedelian Sentences: A Non-Numerical Approach” (1942), “Morality by Convention” (1944),“Can God’s Existence Be Disproved?”(1948), “The Notion of Infinity” (1953a), and “The Justification of Attitudes” (1954), all anthologized in *Language, Mind, and Value* (LMV, 1963).
 
 When Findlay was appointed to King’s College at the University of London in 1951, he found himself in competition with A. J. Ayer, the leading light at the University College branch of the same university. Ayer, still professing logical positivism, was attracting the best students and professors, so Findlay, by way of strategic contrast, made Hegel the Special Author in the curriculum at Kings. The choice proved surprisingly popular. Ayer generously responded with an offer to publish a book by Findlay on Hegel. The book, *Hegel: A Re-examination* (1958) written in a clear style, was for decades a life raft for those graduate students who despaired of ever understanding Hegel in the raw.
 
@@ -368,23 +368,23 @@ Brentano, Franz | Frege, Gottlob | Hegel, Georg Wilhelm Friedrich: dialectics | 
 
 [^findlay-1972]: 1972, Italian translation, *Hegel Oggi*, Milan: Instituto Librario.
 
-[^vi-1961]: [VI] 1961, *Values and Intentions: A Study in Value-theory and Philosophy of Mind*, London: Allen and Unwin and New York: Macmillan.
+[^findlay-1961]: [VI] 1961, *Values and Intentions: A Study in Value-theory and Philosophy of Mind*, London: Allen and Unwin and New York: Macmillan.
 
-[^lmv-1963]: [LMV] 1963, *Language, Mind, and Value: Philosophical Essays*, London: Allen and Unwin and New York: Humanities Press.
+[^findlay-1963-2]: [LMV] 1963, *Language, Mind, and Value: Philosophical Essays*, London: Allen and Unwin and New York: Humanities Press.
 
-[^dc-1966]: [DC] 1966, *The Discipline of the Cave*, London: Allen and Unwin
+[^findlay-1966]: [DC] 1966, *The Discipline of the Cave*, London: Allen and Unwin
 
 [^findlay-1969-2]: 1969, Spanish translation, *La Disciplina de la Caverna*, Madrid: Gredo.
 
-[^tc-1967]: [TC] 1967, *The Transcendence of the Cave*, London: Allen and Unwin.
+[^findlay-1967]: [TC] 1967, *The Transcendence of the Cave*, London: Allen and Unwin.
 
 [^findlay-1969-3]: 1969, Spanish translation, *La Transcendencia de la Caverna*, Madrid: Gredo.
 
-[^ae-1970]: [AE] 1970, *Axiological Ethics*, London: Macmillan.
+[^findlay-1970]: [AE] 1970, *Axiological Ethics*, London: Macmillan.
 
 [^findlay-1972-2]: 1972, *Psyche and Cerebrum*, Aquinas lecture, Milwaukee: Marquette University Press.
 
-[^aa-1970]: [AA] 1970, *Ascent to the Absolute: Metaphysical Papers and Lectures*, London: Allen and Unwin. New York: Humanities Press, 1974.
+[^findlay-1970-2]: [AA] 1970, *Ascent to the Absolute: Metaphysical Papers and Lectures*, London: Allen and Unwin. New York: Humanities Press, 1974.
 
 [^findlay-1974]: 1974, *Plato: The Written and the Unwritten Doctrines*, London: Routledge and Kegan Paul and New York: Humanities Press.
 
@@ -450,7 +450,7 @@ Brentano, Franz | Frege, Gottlob | Hegel, Georg Wilhelm Friedrich: dialectics | 
 
 [^findlay-1962]: 1962, “The Teaching of Meaning”, *Logique et Analyse*, (Thinking and Meaning: Entretiens d’Oxford 1962), 5(20): 169–172; reprinted in AA: ch 4.
 
-[^findlay-1963-2]: 1963, “Metaphysics and Affinity”:, *Monist*, 47(2): 159–187; reprinted in AA: ch 7. doi:10.5840/monist196347212
+[^findlay-1963-3]: 1963, “Metaphysics and Affinity”:, *Monist*, 47(2): 159–187; reprinted in AA: ch 7. doi:10.5840/monist196347212
 
 [^findlay-1964a]: 1964a, “The Diremptive Tendencies of Western Philosophy”, *Philosophy East and West*, 14(2): 167–178; reprinted in AA: ch 9. doi:10.2307/1396984
 
@@ -480,7 +480,7 @@ Brentano, Franz | Frege, Gottlob | Hegel, Georg Wilhelm Friedrich: dialectics | 
 
 [^findlay-1973b]: 1973b, “Meinong the Phenomenologist”, *Revue Internationale de Philosophie*, 27(104/105 (2/3)): 161–177; reprinted, 1975, in *Dialogues in Phenomenology*, Don Ihde and Richard M. Zaner (eds.), Dordrecht: Springer Netherlands, 117–135. doi:10.1007/978-94-010-1615-5_7
 
-[^eq-1973c]: [EQ], 1973c [1985], “My Encounters with Wittgenstein”, *The Philosophical Forum*, 4(2): 167–185; reprinted in SF: 52–69. Citations from the original.
+[^findlay-1973c]: [EQ], 1973c [1985], “My Encounters with Wittgenstein”, *The Philosophical Forum*, 4(2): 167–185; reprinted in SF: 52–69. Citations from the original.
 
 [^findlay-1974-2]: 1974, “Hegelianism and Platonism”, *Hegel and the History of Philosophy: Proceedings of the 1972 Hegel Society of America Conference*, Joseph J.O’Malley, K.W.Algozin, and Frederick G.Weiss (eds.), The Hague: Nijhoff.
 
@@ -524,7 +524,7 @@ Brentano, Franz | Frege, Gottlob | Hegel, Georg Wilhelm Friedrich: dialectics | 
 
 [^findlay-1984b]: 1984b, “Identity and Identification”, *Religious Studies*, 20(1): 55–62.
 
-[^ml-1985]: [ML] 1985, “My Life: 1903–1973”, in SF: 1–51.
+[^findlay-1985]: [ML] 1985, “My Life: 1903–1973”, in SF: 1–51.
 
 [^findlay-2005a]: 2005a, “Philosophy as a Discipline”, *The Philosophical Forum*, 36(2): 141–148. doi:10.1111/j.1467-9191.2005.00196.x
 
@@ -544,9 +544,9 @@ Brentano, Franz | Frege, Gottlob | Hegel, Georg Wilhelm Friedrich: dialectics | 
 
 [^findlay-2018]: 2018, “Notes on the *Ideen* of Husserl”, *The Philosophical Forum*, 49(3): 283–307, doi:10.1111/phil.12193
 
-[^findlay-1970]: 1970, translation of *Logical Investigations* (*Logische Untersuchungen*), by Edmund Husserl, with an introduction by J.N. Findlay, London: Routledge and Kegan Paul.
+[^findlay-1970-3]: 1970, translation of *Logical Investigations* (*Logische Untersuchungen*), by Edmund Husserl, with an introduction by J.N. Findlay, London: Routledge and Kegan Paul.
 
-[^findlay-1970-2]: 1970, foreword to *Hegel’s Philosophy of Nature*, A.V. Miller (trans.), Oxford: Clarendon Press.
+[^findlay-1970-4]: 1970, foreword to *Hegel’s Philosophy of Nature*, A.V. Miller (trans.), Oxford: Clarendon Press.
 
 [^findlay-1971]: 1971, foreword to *Hegel’s Philosophy of Mind*, William Wallace and A.V. Miller (trans.), Oxford: Clarendon Press.
 
@@ -604,7 +604,7 @@ Brentano, Franz | Frege, Gottlob | Hegel, Georg Wilhelm Friedrich: dialectics | 
 
 [^casey-1985]: Casey, Edward S., 1985, “Findlay’s Philosophy of Mind”, in SF: 114–139.
 
-[^sf-1985]: [SF] Cohen, Robert S., Richard M. Martin, and Merold Westphal (eds.), 1985, *Studies in the Philosophy of J. N. Findlay*, Albany, NY: State University of New York Press.
+[^cohen-1985]: [SF] Cohen, Robert S., Richard M. Martin, and Merold Westphal (eds.), 1985, *Studies in the Philosophy of J. N. Findlay*, Albany, NY: State University of New York Press.
 
 [^coleman-1985]: Coleman, Francis X. J., 1985, “Can God Know Me?”, in SF: 408–420
 

@@ -334,11 +334,11 @@ Chinese Philosophy: Song-Ming Confucianism | Confucius | Korean Philosophy | Kor
 
 [^chŏng-2015-2]: –––, *Simgiri p’yŏn* (心氣理篇) [On Mind, Material Force and Principle]. Translated to English in Muller 2015: 45–53.
 
-[^sb-bb-1999]: [SB-BB] De Bary, Wm Theodore and Irene Bloom (eds), 1999, *Sources of Chinese Tradition*, volume 1, New York: Columbia University Press.
+[^de-1999]: [SB-BB] De Bary, Wm Theodore and Irene Bloom (eds), 1999, *Sources of Chinese Tradition*, volume 1, New York: Columbia University Press.
 
 [^hamhǒ-2015]: Hamhǒ Kihwa, *Hyǒnjǒng-non* (顯正論) [*The Exposition of the Correct*]. Translated to Muller 2015: 82–110.
 
-[^sb-lee-1993]: [SB-Lee]––– (ed.), 1993, *Sourcebook of Korean Civilization, Volume 1: From Early Times to the Sixteenth Century*, New York: Columbia University Press.
+[^hamhǒ-1993]: [SB-Lee]––– (ed.), 1993, *Sourcebook of Korean Civilization, Volume 1: From Early Times to the Sixteenth Century*, New York: Columbia University Press.
 
 [^robinson-2016]: Robinson, David M. (trans.), 2016, *Seeking Order in a Tumultuous Age: The Writings of Chŏng Tojŏn, a Korean Neo-Confucian*, Honolulu, HI: University of Hawaiʻi Press.
 
@@ -440,7 +440,7 @@ Chinese Philosophy: Song-Ming Confucianism | Confucius | Korean Philosophy | Kor
 
 [^kim-2017-4]: Kim, Yung Sik, 2017, “Another Look at Yi Hwang’s Views about Li and Qi”, in Back and Ivanhoe 2017: 25–47.
 
-[^knc-2004]: [KNC] Korean National Commission for UNESCO (eds.), 2004, *Korean Philosophy: Its Tradition and Modern Transformation*, Seoul: Hollym.
+[^korean-2004]: [KNC] Korean National Commission for UNESCO (eds.), 2004, *Korean Philosophy: Its Tradition and Modern Transformation*, Seoul: Hollym.
 
 [^lee-2011]: Lee, Cheon-Sung, 2011, “*Philosophical Implications of the Discussion of Mibal in the Horak Debate of the Late Joseon Period*”, *Korea Journal*, 51(1): 97–117.
 

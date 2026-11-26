@@ -275,7 +275,7 @@ Parts of this entry are adapted with significant revisions from my book *Philipp
 
 [^note-8]: Portions of this section were published previously; see Hacker-Wright 2009 and see also 2012, 2013a.
 
-[^md-2002]: [MD] *Moral Dilemmas and Other Topics in Moral Philosophy*, Oxford: Oxford University Press, 2002. doi:10.1093/019925284X.001.0001. Includes:
+[^moral-2002]: [MD] *Moral Dilemmas and Other Topics in Moral Philosophy*, Oxford: Oxford University Press, 2002. doi:10.1093/019925284X.001.0001. Includes:
 
 [^philippa-foot-1970]: 1970, “Morality and Art”, *Proceedings of the British Academy*, 56: 131–144; reprinted MD, 5–19.
 
@@ -287,7 +287,7 @@ Parts of this entry are adapted with significant revisions from my book *Philipp
 
 [^philippa-foot-1989]: 1989, “Von Wright on Virtue”, *The Philosophy of Georg Henrik von Wright*, P.A. Schilpp (ed.), Open Court Publishing Company; reprinted MD, 105–116.
 
-[^vv-2002]: [VV] *Virtues and Vices and Other Essays in Moral Philosophy*, second edition, Oxford: Oxford University Press, 2002 (first edition 1978). doi:10.1093/0199252866.001.0001. Includes:
+[^virtues-2002]: [VV] *Virtues and Vices and Other Essays in Moral Philosophy*, second edition, Oxford: Oxford University Press, 2002 (first edition 1978). doi:10.1093/0199252866.001.0001. Includes:
 
 [^philippa-foot-1958]: 1958, “Moral Arguments”, *Mind*, 67(268): 502–513; reprinted VV, 96–109. doi:10.1093/mind/LXVII.268.502
 
@@ -297,7 +297,7 @@ Parts of this entry are adapted with significant revisions from my book *Philipp
 
 [^philippa-foot-1967]: 1967, “The Problem of Abortion and the Doctrine of Double Effect”, *Oxford Review*, 5: 5–15; reprinted VV, 19–32.
 
-[^mshi-1972]: [MSHI] 1972, “Morality as a System of Hypothetical Imperatives”, *The Philosophical Review*, 81(3): 305–316; reprinted VV, 157–173 with a long footnote added. doi:10.2307/2184328.
+[^philippa-foot-1972]: [MSHI] 1972, “Morality as a System of Hypothetical Imperatives”, *The Philosophical Review*, 81(3): 305–316; reprinted VV, 157–173 with a long footnote added. doi:10.2307/2184328.
 
 [^philippa-foot-1975]: 1975, “A Reply to Professor Frankena”, *Philosophy*, 50(194): 455–459; reprinted VV, 174–180.
 
@@ -305,9 +305,9 @@ Parts of this entry are adapted with significant revisions from my book *Philipp
 
 [^philippa-foot-1978]: 1978, “Virtues and Vices”, essay for this volume, VV, 1–18.
 
-[^ng-2001]: [NG] *Natural Goodness*, Oxford: Oxford University Press, 2001. doi:10.1093/0198235089.001.0001
+[^natural-2001]: [NG] *Natural Goodness*, Oxford: Oxford University Press, 2001. doi:10.1093/0198235089.001.0001
 
-[^rg-2004]: [RG] “Rationality and Goodness” in *Modern Moral Philosophy*, (*Royal Institute of Philosophy Supplement 54*), Anthony O’Hear (ed.), Cambridge: Cambridge University Press, 2004: 1–14. doi:10.1017/CBO9780511550836.002
+[^rationality-2004]: [RG] “Rationality and Goodness” in *Modern Moral Philosophy*, (*Royal Institute of Philosophy Supplement 54*), Anthony O’Hear (ed.), Cambridge: Cambridge University Press, 2004: 1–14. doi:10.1017/CBO9780511550836.002
 
 [^philippa-foot-1954]: 1954, with Jonathan Harrison, “When is a Principle a Moral Principle?” (Symposium), *Proceedings of the Aristotelian Society* (Supplementary Volume), 28(1): 95–134. doi:10.1093/aristoteliansupp/28.1.95
 

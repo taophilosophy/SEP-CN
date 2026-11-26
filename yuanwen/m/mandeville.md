@@ -208,19 +208,19 @@ Bayle, Pierre | Butler, Joseph: moral philosophy | economics: in early modern ph
 
 We would like to thank Andrea Branchi and John Callanan for helpful feedback on a draft of this entry.
 
-[^eft-1999]: [EFT] *By a Society of Ladies: Essays in the Female Tatler* (Primary sources in political thought), Maurice M. Goldsmith (ed.), Bristol: Thoemmes Press, 1999.
+[^by-1999]: [EFT] *By a Society of Ladies: Essays in the Female Tatler* (Primary sources in political thought), Maurice M. Goldsmith (ed.), Bristol: Thoemmes Press, 1999.
 
-[^fb-1714]: [FB] *The Fable of the Bees: or, Private Vices, Publick Benefits*, London, part I in 1714/1723; part II in 1729. New edition in two volumes, F. B. Kaye (ed.), Oxford: Clarendon Press, 1924. This edition reprinted by Indianapolis: Liberty Fund, 1988. Page numbers from the 1924/88 edition. [[Mandeville 1714/23 [1988 volume 1] available online](https://oll.libertyfund.org/titles/kaye-the-fable-of-the-bees-or-private-vices-publick-benefits-vol-1) and [Mandeville 1729 [1988 volume 2] available online](https://oll.libertyfund.org/titles/kaye-the-fable-of-the-bees-or-private-vices-publick-benefits-vol-2)]
+[^fable-1714]: [FB] *The Fable of the Bees: or, Private Vices, Publick Benefits*, London, part I in 1714/1723; part II in 1729. New edition in two volumes, F. B. Kaye (ed.), Oxford: Clarendon Press, 1924. This edition reprinted by Indianapolis: Liberty Fund, 1988. Page numbers from the 1924/88 edition. [[Mandeville 1714/23 [1988 volume 1] available online](https://oll.libertyfund.org/titles/kaye-the-fable-of-the-bees-or-private-vices-publick-benefits-vol-1) and [Mandeville 1729 [1988 volume 2] available online](https://oll.libertyfund.org/titles/kaye-the-fable-of-the-bees-or-private-vices-publick-benefits-vol-2)]
 
-[^ft-1720]: [FT] *Free Thoughts on Religion, the Church, and National Happiness*, London, 1720/1729. New edition, Irwin Primer (ed.), New Brunswick, NJ: Transaction Publishers, 2001. This edition reprinted London/New York: Routledge, 2017. Page numbers from the 2017 edition. doi:10.4324/9781351326643
+[^free-1720]: [FT] *Free Thoughts on Religion, the Church, and National Happiness*, London, 1720/1729. New edition, Irwin Primer (ed.), New Brunswick, NJ: Transaction Publishers, 2001. This edition reprinted London/New York: Routledge, 2017. Page numbers from the 2017 edition. doi:10.4324/9781351326643
 
-[^ld-1732]: [LD] *A Letter to Dion, Occasion’d by his Book call’d Alciphron, or The Minute Philosopher*, London: J. Roberts, 1732. [[LD available online](https://archive.org/details/bim_eighteenth-century_a-letter-to-dion-occasi_mandeville-bernard-de_1732)]
+[^letter-1732]: [LD] *A Letter to Dion, Occasion’d by his Book call’d Alciphron, or The Minute Philosopher*, London: J. Roberts, 1732. [[LD available online](https://archive.org/details/bim_eighteenth-century_a-letter-to-dion-occasi_mandeville-bernard-de_1732)]
 
-[^oh-1732]: [OH] *An Enquiry into the Origin of Honour, and the Usefulness of Christianity in War*, London: John Brotherton, 1732. [[OH available online](https://archive.org/details/bim_eighteenth-century_an-enquiry-into-the-orig_mandeville-bernard_1732/mode/2up)]
+[^an-1732]: [OH] *An Enquiry into the Origin of Honour, and the Usefulness of Christianity in War*, London: John Brotherton, 1732. [[OH available online](https://archive.org/details/bim_eighteenth-century_an-enquiry-into-the-orig_mandeville-bernard_1732/mode/2up)]
 
-[^th-1730]: [TH] *A Treatise of the Hypochondriack and Hysterick Diseases*, third edition, London, 1730. New edition, Sylvie Kleiman-Lafon (ed.), Cham: Springer, 2017. Page numbers from the 2017 edition. doi:10.1007/978-3-319-57781-4
+[^treatise-1730]: [TH] *A Treatise of the Hypochondriack and Hysterick Diseases*, third edition, London, 1730. New edition, Sylvie Kleiman-Lafon (ed.), Cham: Springer, 2017. Page numbers from the 2017 edition. doi:10.1007/978-3-319-57781-4
 
-[^vu-1709]: [VU] *The Virgin Unmask’d: or Female Dialogues Betwixt an Elderly Maiden Lady, and her Niece, On Several Diverting Discourses on Love, Marriage, Memoirs, Morals, &c. of the Times*, London: J. Morphew and J. Woodward, 1709. [[VU available online](https://archive.org/details/bim_eighteenth-century_the-virgin-unmaskd-or-_mandeville-bernard_1709)]
+[^virgin-1709]: [VU] *The Virgin Unmask’d: or Female Dialogues Betwixt an Elderly Maiden Lady, and her Niece, On Several Diverting Discourses on Love, Marriage, Memoirs, Morals, &c. of the Times*, London: J. Morphew and J. Woodward, 1709. [[VU available online](https://archive.org/details/bim_eighteenth-century_the-virgin-unmaskd-or-_mandeville-bernard_1709)]
 
 [^bluet-1725]: Bluet, George, 1725, *An Enquiry whether A general Practice of Virtue tends to the Wealth or Poverty, Benefit or Disadvantage of a People?* London: R. Wilkin. [[Bluet 1725 available online](https://archive.org/details/bim_eighteenth-century_an-enquiry-whether-a-gen_blewitt-george_1725)]
 

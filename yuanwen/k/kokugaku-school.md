@@ -313,23 +313,23 @@ Japanese Philosophy | Japanese Philosophy: aesthetics | Japanese Philosophy: Con
 
 [^kokugaku-1690]: A wealth of primary and secondary readings on Kokugaku are accessible in English owing to the growing scholarship on this important intellectual tradition. John R. Bentley’s *An Anthology of Kokugaku Scholars 1690–1868* introduces 13 key Kokugaku scholars ranging from Keichū to Suzuki Masayuki, and provides their various writings in translation under the categories of poetry, literature, scholarship, and “Japan/Religion.” Published over six decades since 1958, *Sources of Japanese Tradition* offers selected excerpts from representative works by major Kokugaku scholars including Kada no Azumamaro, Kamo no Mabuchi, and Hirata Atsutane. *Japanese Philosophy: A Sourcebook* devotes a section titled “Shinto and Native Studies” to key scholars of the Kokugaku and Shinto traditions. The above primary sources are accompanied by introductions to the authors and their writings. While the above collections demonstrate variety and breadth within the Kokugaku school, several annotated translations of Motoori Norinaga’s major texts allow for further in-depth study on the school’s single-most influential intellectual. These are the book-length *Kojikiden* Book 1 by Ann Wehmeyer and *Tamakatsuma* (*Basket of Jewels*) by Bentley, as well as article-length translations of “Naobi no mitama” (Rectifying Spirit) and “Uiyambumi” (First Steps Into the Mountains) by Sey Nishimura.
 
-[^sjta-2006]: [SJTa] De Bary, Wm Theodore, Carol Gluck, Arthur E. Tiedemann, W. J. J. Boot, and William M. Bodiford (eds.), 2006, *Volume Two Sources of Japanese Tradition: 1600 to 2000: Part One: 1600 to 1868*, second edition, abridged, (Introduction to Asian Civilizations), New York: Columbia University Press.
+[^de-2006]: [SJTa] De Bary, Wm Theodore, Carol Gluck, Arthur E. Tiedemann, W. J. J. Boot, and William M. Bodiford (eds.), 2006, *Volume Two Sources of Japanese Tradition: 1600 to 2000: Part One: 1600 to 1868*, second edition, abridged, (Introduction to Asian Civilizations), New York: Columbia University Press.
 
-[^sjt-1964]: [SJT] Tsunoda, Ryūsaku, Wm. Theodore de Bary, and Donald Keene (eds.), 1964, *Sources of Japanese Tradition*, volume two, first edition, New York: Columbia University Press.
+[^tsunoda-1964]: [SJT] Tsunoda, Ryūsaku, Wm. Theodore de Bary, and Donald Keene (eds.), 1964, *Sources of Japanese Tradition*, volume two, first edition, New York: Columbia University Press.
 
 [^haga-1971]: [H&M] Haga Noboru and Matsumoto Sannosuke (eds), 1971 *Kokugaku undō no shisō*, (Nihon Shisō Taikei, vol. 51), Tokyo: Iwanami shoten.
 
-[^jps-2011]: [JPS] Heisig, James W., Thomas P. Kasulis, and John C. Maraldo (eds.), 2011, *Japanese Philosophy: A Sourcebook*, Honolulu: University of Hawai‘i Press.
+[^heisig-2011]: [JPS] Heisig, James W., Thomas P. Kasulis, and John C. Maraldo (eds.), 2011, *Japanese Philosophy: A Sourcebook*, Honolulu: University of Hawai‘i Press.
 
-[^haz-1911]: [HAZ] Hirata Atsutane, 1911–1918, *Hirata Atsutane zenshū*, Muromatsu Iwao (comp.), Tokyo: Itchidō Shoten.
+[^hirata-1911]: [HAZ] Hirata Atsutane, 1911–1918, *Hirata Atsutane zenshū*, Muromatsu Iwao (comp.), Tokyo: Itchidō Shoten.
 
-[^kkmz-1942]: [KKMZ:SH] Kamo no Mabuchi, 1942, *Kōhon Kamo no Mabuchi zenshū: shisō hen*, Yamamoto Yutaka (comp.), Tokyo: Kōbundō.
+[^kamo-1942]: [KKMZ:SH] Kamo no Mabuchi, 1942, *Kōhon Kamo no Mabuchi zenshū: shisō hen*, Yamamoto Yutaka (comp.), Tokyo: Kōbundō.
 
-[^kkmz-1765]: –––, 1765, *Kokui kō* (Inquiry into the Idea of the Nation), adapted from SJT: 404–408.
+[^kamo-1765]: –––, 1765, *Kokui kō* (Inquiry into the Idea of the Nation), adapted from SJT: 404–408.
 
 [^keichū-1690]: Keichū, c. 1690, *Man’yō daishōki: zassetsu* in SJT: 395.
 
-[^kh-nd]: [KH] Miyahiro Sadao, *Kokueki honron*, in H&M.
+[^miyahiro-nd]: [KH] Miyahiro Sadao, *Kokueki honron*, in H&M.
 
 [^motoori-1790]: Motoori Norinaga, 1790 [1991], “The Way of the Gods: Motoori Norinaga’s *Naobi no mitama*”, Nishimura Sey (trans.), *Monumenta Nipponica*, 46(1): 21–41. doi:10.2307/2385145
 

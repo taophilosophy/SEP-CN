@@ -325,7 +325,7 @@ Bradley, Francis Herbert | common good | Hegel, Georg Wilhelm Friedrich | ideali
 
 [^works-1885]: *Works of T.H. Green*, 3 vols., Richard Lewis Nettleship (ed.), London: Longmans, Green, and Co., 1885–1888. Nettleship’s edition contains Green’s main philosophical publications (except the *Prolegomena to Ethics*), miscellaneous lectures, and Nettleship’s memoir of Green.
 
-[^works-1997]: [*Works*] *Collected Works of T.H. Green*, 5 vols., Peter P. Nicholson (ed.), Bristol: Thoemmes Press, 1997. Cited as *Works*. The first three volumes of Nicholson’s edition reprint Nettleship’s edition, the fourth volume contains the 1883 edition of the *Prolegomena to Ethics*, and the fifth volume contains additional unpublished essays, lectures, and selected correspondence.
+[^collected-1997]: [*Works*] *Collected Works of T.H. Green*, 5 vols., Peter P. Nicholson (ed.), Bristol: Thoemmes Press, 1997. Cited as *Works*. The first three volumes of Nicholson’s edition reprint Nettleship’s edition, the fourth volume contains the 1883 edition of the *Prolegomena to Ethics*, and the fifth volume contains additional unpublished essays, lectures, and selected correspondence.
 
 [^green-1874]: 1874–75, *The Philosophical Works of David Hume*, 4 vols., T.H. Green and T.H. Grose (eds), London: Longmans, Green, and Co. Green wrote the introductions to Hume’s *Treatise* in the first and second volumes. Green’s introductions to the *Treatise* are reprinted in *Works* I, 1–371, and its main themes are incorporated into Book I of Green’s *Prolegomena to Ethics*.
 
@@ -333,13 +333,13 @@ Bradley, Francis Herbert | common good | Hegel, Georg Wilhelm Friedrich | ideali
 
 [^green-1882]: 1882, “Can There Be a Natural Science of Man?” *Mind*, original series, 7(25): 1–29, 7(26): 161–185, 7(27): 321–348. This three-part article appeared in the year of Green’s death and was incorporated into Book I of the *Prolegomena*. [doi:10.1093/mind/os-VII.25.1, doi:10.1093/mind/os-VII.26.161, doi:10.1093/mind/os-VII.27.321]
 
-[^pe-1883]: [*PE*] 1883, *Prolegomena to Ethics*, A.C. Bradley (ed.), Oxford: Clarendon Press. Cited as *Prolegomena* or *PE*. The *Prolegomena* was published posthumously in 1883. A.C. Bradley edited Green’s unfinished manuscript and supplied a useful analytical table of contents. *The Prolegomena* was out of print for many years. It is reprinted in *Works* IV. A recent edition is T.H. Green, *Prolegomena to Ethics*, edited by D. Brink, Oxford: Clarendon Press, 2003, which follows Bradley’s 1883 edition and contains a substantial introduction.
+[^green-1883]: [*PE*] 1883, *Prolegomena to Ethics*, A.C. Bradley (ed.), Oxford: Clarendon Press. Cited as *Prolegomena* or *PE*. The *Prolegomena* was published posthumously in 1883. A.C. Bradley edited Green’s unfinished manuscript and supplied a useful analytical table of contents. *The Prolegomena* was out of print for many years. It is reprinted in *Works* IV. A recent edition is T.H. Green, *Prolegomena to Ethics*, edited by D. Brink, Oxford: Clarendon Press, 2003, which follows Bradley’s 1883 edition and contains a substantial introduction.
 
 [^lectures-nd]: *Lectures on the Philosophy of Kant*. Published posthumously in *Works* II, 1–155, and cited as *Lectures on Kant*. There are two lectures, one on Kant’s *Critique of Pure Reason* and one on Kant’s Metaphysics of Ethics.]
 
 [^different-nd]: “On the Different Senses of ‘Freedom’ as Applied to Will and the Moral Progress of Man”. Published posthumously in *Works* II, 308–333, and cited as “Freedom.”
 
-[^lppo-nd]: [*LPPO*] *Lectures on the Principles of Political Obligation*. Published posthumously in *Works* II, 335–553, and cited as *LPPO* by section number.
+[^lectures-nd-2]: [*LPPO*] *Lectures on the Principles of Political Obligation*. Published posthumously in *Works* II, 335–553, and cited as *LPPO* by section number.
 
 [^more-1987]: More comprehensive bibliographies of Green’s published and unpublished writings can be found in *Works* V; Thomas 1987; and Tyler 2018.
 

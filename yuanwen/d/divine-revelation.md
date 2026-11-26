@@ -642,7 +642,7 @@ Aquinas, Thomas | Christian theology, philosophy and | faith | hiddenness of God
 
 [^williams-2000]: Williams, Rowan, 2000, *On Christian Theology*, Oxford: Blackwell Publishers.
 
-[^vatican-1965]: [Vatican II] Second Vatican Council, 1965, “*Dei Verbum* [Dogmatic Constitution on Divine Revelation]”. [[*Dei Verbum* available online](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html)]
+[^second-1965]: [Vatican II] Second Vatican Council, 1965, “*Dei Verbum* [Dogmatic Constitution on Divine Revelation]”. [[*Dei Verbum* available online](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html)]
 
 [^visala-2011]: Visala, Aku, 2011, *Naturalism, Theism and the Cognitive Study of Religion: Religion Explained?* London: Routledge.
 

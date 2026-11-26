@@ -405,21 +405,21 @@ al-Razi, Fakhr al-Din | Arabic and Islamic Philosophy, disciplines in: philosoph
 
 [^note-1]: All translations are by the author of this entry.
 
-[^khulāṣa-2018]: [*Khulāṣa*] *Khulāṣat al-afkār wa-naqāwat al-asrār*, edited by M. ʿAẓīmī and H. Qurbānī, Tehran: Iranian Institute of Philosophy, 2018.
+[^khulāṣat-2018]: [*Khulāṣa*] *Khulāṣat al-afkār wa-naqāwat al-asrār*, edited by M. ʿAẓīmī and H. Qurbānī, Tehran: Iranian Institute of Philosophy, 2018.
 
-[^isagoge-1952]: [*Isagoge*] *Shifā, al-Manṭiq, al-Madḫal*, edited by Gh. Sh. Qanawatī, M. al-Khuḍayrī, A. F. al-Ahwānī, Cairo: al-Maṭbaʿa al-amīriyya, 1952.
+[^shifā-1952]: [*Isagoge*] *Shifā, al-Manṭiq, al-Madḫal*, edited by Gh. Sh. Qanawatī, M. al-Khuḍayrī, A. F. al-Ahwānī, Cairo: al-Maṭbaʿa al-amīriyya, 1952.
 
-[^burhān-1956]: [*Burhān*] *Shifā, al-Manṭiq, al-Burhān*, edited by A. ʿAfīfī, Cairo: al-Maṭbaʿa al-amīriyya, 1956.
+[^shifā-1956]: [*Burhān*] *Shifā, al-Manṭiq, al-Burhān*, edited by A. ʿAfīfī, Cairo: al-Maṭbaʿa al-amīriyya, 1956.
 
-[^qiyās-1964]: [*Qiyās*] *Shifā, al-Manṭiq, al-Qiyās*, edited by S. Zāyid, Cairo: al-Hayʾa al-ʿāmma li-šuʾūn al-maṭābiʿ al-amīriyya, 1964.
+[^shifā-1964]: [*Qiyās*] *Shifā, al-Manṭiq, al-Qiyās*, edited by S. Zāyid, Cairo: al-Hayʾa al-ʿāmma li-šuʾūn al-maṭābiʿ al-amīriyya, 1964.
 
-[^ibāra-1970]: [*al-ʿIbāra*] *Shifāʾ: al-ʿibāra*, edited by M. al-Khuḍayrī, Cairo: al-Hayʾa al-miṣrīyya al-ʿāmma li-t-taʿlīf wa-n-nashr, 1970.
+[^shifāʾ-1970]: [*al-ʿIbāra*] *Shifāʾ: al-ʿibāra*, edited by M. al-Khuḍayrī, Cairo: al-Hayʾa al-miṣrīyya al-ʿāmma li-t-taʿlīf wa-n-nashr, 1970.
 
 [^metaphysics-2004]: [I*lāhiyyāt*] *The Metaphysics of The Healing: A Parallel English–Arabic Text* (al-Ilāhiyyāt min al-Shifāʾ), translated and annotated by Michael E. Marmura, Provo, UT: Brigham Young University Press, 2004.
 
-[^ishārāt-2008]: [*Ishārāt*] *Al-Ishārāt wa al-Tanbīhāt*, edited by Mujtabā Zāriʿī, Tehran: Būstān-i kitāb, 2008.
+[^al-ishārāt-2008]: [*Ishārāt*] *Al-Ishārāt wa al-Tanbīhāt*, edited by Mujtabā Zāriʿī, Tehran: Būstān-i kitāb, 2008.
 
-[^taʿlīqāt-2022]: [*Taʿlīqāt*] *Al-Taʿlīqāt*, edited by Sayyid Ḥusayn Mūsaviyān, 2nd edition, Tehran: Iranian Institute of Philosophy, 2022.
+[^al-taʿlīqāt-2022]: [*Taʿlīqāt*] *Al-Taʿlīqāt*, edited by Sayyid Ḥusayn Mūsaviyān, 2nd edition, Tehran: Iranian Institute of Philosophy, 2022.
 
 [^sharḥ-nd]: [*Sharḥ*] *Sharḥ* *Kashf al-Asrār*, MS: Süleymaniye Kütüphanesi, Istanbul, Carullah 1418.
 
@@ -431,7 +431,7 @@ al-Razi, Fakhr al-Din | Arabic and Islamic Philosophy, disciplines in: philosoph
 
 [^talkhīṣ-2019]: [*Talkhīṣ*] *Talkhīṣ al-Maṭālib al-ʿāliyya*, edited by A. M. Ismāʿīl and M. Ḍarghām, Cairo: Iḥyāʾ Center for Research and Studies, 2019.
 
-[^sharḥ-2022]: [*Sharḥ*] *Commentary on the Jumal on Logic by Khūnajī*, edited by Khaled El-Rouayheb, Leiden and Boston: Brill, 2022.
+[^commentary-2022]: [*Sharḥ*] *Commentary on the Jumal on Logic by Khūnajī*, edited by Khaled El-Rouayheb, Leiden and Boston: Brill, 2022.
 
 [^mulakhkhaṣ-2003]: [*Mulakhkhaṣ*] *al-Mulakhkhaṣ: al-Manṭiq*, edited by A. Qarāmalkī and A. Ashgarīnizhād, Tehran: Dānishgāh-i Imām Ṣādiq, 2003.
 

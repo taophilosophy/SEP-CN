@@ -1146,6 +1146,12 @@ def render_blocks(blocks, ctx, bib_container=False):
                 # （第五十批修 B 首轮 22 件 gap 即此因）。
                 if text.rstrip().endswith((':', '：')):
                     ctx.emit('', _escape_leading_hash(text))
+                elif re.fullmatch(r'\*\*[^*]+\*\*', text.strip()):
+                    # 整段单一加粗短语＝书目区 dt 产物（年份分组标记 `**1940**`／
+                    # `**1857–64**`）的回放形态：dt 分支发段不入账，若此处按含
+                    # 年份入账，第二遍与第一遍键集不等（goodman／wilhelm-humboldt／
+                    # wilhelm-wundt「多 dt 一 dd」判例，specs/053 第五十八批）。
+                    ctx.emit('', _escape_leading_hash(text))
                 elif re.search(r'\b(1[6-9]\d\d|20\d\d)\b', text):
                     ctx.bib_entries.append((text, ctx.bib_section))
                 else:
@@ -1231,7 +1237,20 @@ def render_blocks(blocks, ctx, bib_container=False):
                     # 7 表曾被行内剥壳）：文本段与表段按序完整转出
                     segs = _split_tables(dm.group(2))
                     if not any(t for t, _ in segs):
-                        ctx.emit('', _escape_leading_hash(inline_to_md(dm.group(2), ctx.slug)))
+                        txt = inline_to_md(dm.group(2), ctx.slug)
+                        if txt:
+                            # specs/053 第五十八批（addams-jane 判例）：书目区内
+                            # <dl><dt>缩写</dt><dd>条目</dd> 的 dd 是文献条目本体，
+                            # 旧式一律发散文段——第一遍不建键，R 重建后第二遍把
+                            # 同段认成条目建键，B3.1 键集恒不等（22 件 bib-keys）。
+                            # 含四位年份者入定义流（判据与 <p> 分支同）；无年份
+                            # dd 是散文/版本信息，仍落段。dt 仍原位发段：dl 位形
+                            # 属账（bib_dl），装配按账从定义行取 dd（同批账/装配
+                            # 同改），文字流顺序由账复原，不靠 md 段序。
+                            if ctx.in_bib and re.search(r'\b(1[6-9]\d\d|20\d\d)\b', txt):
+                                ctx.bib_entries.append((txt, ctx.bib_section))
+                            else:
+                                ctx.emit('', _escape_leading_hash(txt))
                         continue
                     for is_t, chunk in segs:
                         if is_t:
@@ -1239,7 +1258,11 @@ def render_blocks(blocks, ctx, bib_container=False):
                         else:
                             txt = inline_to_md(chunk, ctx.slug)
                             if txt:
-                                ctx.emit('', _escape_leading_hash(txt))
+                                if (ctx.in_bib
+                                        and re.search(r'\b(1[6-9]\d\d|20\d\d)\b', txt)):
+                                    ctx.bib_entries.append((txt, ctx.bib_section))
+                                else:
+                                    ctx.emit('', _escape_leading_hash(txt))
             _emit_gap(inner[pos:])
         elif t == 'pre':
             code = unescape(re.sub(r'<[^>]+>', '', inner))
@@ -1297,10 +1320,20 @@ def build_cite_keys(entry_texts, fallback_author=None, section_free=True):
         text = re.sub(r'\s+', ' ', raw or '').strip()
         if not text:
             continue
+        # 书目 `dl` 条目 dt 缩写前缀（`[DSE] Addams, Jane. …`）：缩写不是作者名，
+        # 年代与姓氏扫描一律用剥离形；定义行输出（k['text']）保留原形
+        # （specs/053 第五十八批——不剥则首作者姓被扫成 "DSE"，键名 dse-1902）。
+        _abbr = re.match(r'^\[[^\]]{1,16}\]\s*', text)
+        scan = text[_abbr.end():] if _abbr and _abbr.end() < len(text) else text
         if section != prev_section:
-            prev_surnames = []
+            # section_free（第五十八批补修）：小节边界不清空继承链——续行的
+            # 「同上作者」在扁平定义列表里跨节可读，第一遍若在此清空会向小节
+            # 标题取作者（watsuji-tetsuro 的 "Work"、ibn-bajja 的 "Books"），
+            # 与第二遍跨节继承不等，B3.1 恒红。
+            if not section_free:
+                prev_surnames = []
             prev_section = section
-        continued = text.startswith('–––') or text.startswith('———')
+        continued = scan.startswith('–––') or scan.startswith('———')
         # 缩写表把「作者名」单独作 <li>，其后另起 <dl> 列各版本（Descartes,
         # René／Leibniz, G. W.）：这类裸姓名条目无年份、无内容。旧式整条
         # continue——建 -nd 键只得一行残名，但**丢弃会让 H0 的 li 在产物中
@@ -1308,11 +1341,11 @@ def build_cite_keys(entry_texts, fallback_author=None, section_free=True):
         # 定义行：无年份即无 pats，不会挂文内标记，只保文字（2026-11-23）。
         # 年份后缀大小写都认（2026-11-13 审计：1992A/2004B 旧正则只认小写，
         # 被当无年份条目，键退化为 gethin-nd / cox-nd-2，键名与年份脱钩）
-        ym = re.search(r'\b(1[6-9]\d\d|20\d\d)([a-eA-E]?)\b', text)
+        ym = re.search(r'\b(1[6-9]\d\d|20\d\d)([a-eA-E]?)\b', scan)
         year, suffix = (ym.group(1), ym.group(2).lower()) if ym else (None, '')
         if continued:
             surnames = list(prev_surnames)
-            if not surnames and section:
+            if not surnames and section and not section_free:
                 # 续行小节（「Works by X」）标题是唯一作者线索，与前一并分支同法
                 sec = _section_author(section)
                 if sec:
@@ -1329,8 +1362,8 @@ def build_cite_keys(entry_texts, fallback_author=None, section_free=True):
         else:
             # 无年份条目（如版本卷次引用）：作者名在条目头部，
             # 取前 120 字符做姓氏扫描——此类条目不得整条丢弃
-            scan_to = ym.start() if ym else min(len(text), 120)
-            toks = re.findall(r"[A-ZÀ-ÿ][\wÀ-ÿ'’\-]*\.?", text[:scan_to])
+            scan_to = ym.start() if ym else min(len(scan), 120)
+            toks = re.findall(r"[A-ZÀ-ÿ][\wÀ-ÿ'’\-]*\.?", scan[:scan_to])
             surnames = [t.rstrip('.') for t in toks
                         if not re.fullmatch(r"[A-ZÀ-ÿ]\.?", t)
                         and t.rstrip('.').lower() not in ('and', 'the', 'in', 'on', 'eds',

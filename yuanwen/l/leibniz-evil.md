@@ -169,15 +169,9 @@ Through his *Theodicy*, Leibniz offered hope that past sufferings will still bea
 
 **A**
 
-German Academy of Sciences (eds.), *Gottfried Wilhelm Leibniz: Sämtliche Schriften und Briefe*, Darmstadt and Berlin: Akademie Verlag, 1926–; cited by series, volume and page.
-
 **ARN**
 
-S. Voss (editor and translator), *The Leibniz-Arnauld Correspondence: With Selections From the Correspondence with Ernst, Landgrave of Hessen-Rheinfels*, New Haven: Yale University Press, 2016.
-
 **AG**
-
-R. Ariew and D. Garber (editors and translators), *G. W. Leibniz: Philosophical Essays*, Indianapolis: Hackett, 1989.
 
 **CD**
 
@@ -185,35 +179,19 @@ R. Ariew and D. Garber (editors and translators), *G. W. Leibniz: Philosophical 
 
 **CP**
 
-R. C. Sleigh, Jr. (editor and translator, with introduction), *Confessio Philosophi: Papers Concerning the Problem of Evil, 1671–1678*, New Haven: Yale University Press, 2005.
-
 **DPG**
-
-M. Murray (editor and translator), *Dissertation on Predestination and Grace*, New Haven: Yale University Press, 2011.
 
 **DSR**
 
-G. H. R. Parkinson (editor and translator) *G. W. Leibniz: De Summa Rerum: Metaphysical Papers 1675–1676*, New Haven: Yale University Press, 1992.
-
 **G**
-
-C. I. Gerhardt (ed.), *Die philosophischen Schriften von Gottfried Wilhelm Leibniz*, Berlin: Weidman, 1875–1890; cited by volume and page; Volume VI contains the original text of the *Theodicy*, as translated in H (below).
 
 **H**
 
-E. M. Huggard (trans.), *Theodicy: Essays on the Goodness of God, the Freedom of Man, and the Origin of Evil* (*Essais de théodicée*), La Salle, IL: Open Court, 1985; cited by page number.
-
 **LGR**
-
-L. Strickland (ed.), *Leibniz on God and Religion: A Reader*, London: Bloomsbury, 2016.
 
 **S**
 
-P. Schrecker and Anne Martin Schrecker (eds.), 1965, *Monadology, and Other Philosophical Essays*, Indianapolis: Bobbs-Merrill Co.
-
 **SLT**
-
-L. Strickland (trans.), *The Shorter Leibniz Texts*, London: Bloomsbury, 2010.
 
 ### Other Sources
 
@@ -241,6 +219,28 @@ L. Strickland (trans.), *The Shorter Leibniz Texts*, London: Bloomsbury, 2010.
 ## Related Entries
 
 Aquinas, Thomas | evil: problem of | Leibniz, Gottfried Wilhelm | Leibniz, Gottfried Wilhelm: ethics | theodicies
+
+[^german-1926]: German Academy of Sciences (eds.), *Gottfried Wilhelm Leibniz: Sämtliche Schriften und Briefe*, Darmstadt and Berlin: Akademie Verlag, 1926–; cited by series, volume and page.
+
+[^voss-2016]: S. Voss (editor and translator), *The Leibniz-Arnauld Correspondence: With Selections From the Correspondence with Ernst, Landgrave of Hessen-Rheinfels*, New Haven: Yale University Press, 2016.
+
+[^ariew-1989]: R. Ariew and D. Garber (editors and translators), *G. W. Leibniz: Philosophical Essays*, Indianapolis: Hackett, 1989.
+
+[^sleigh-1671]: R. C. Sleigh, Jr. (editor and translator, with introduction), *Confessio Philosophi: Papers Concerning the Problem of Evil, 1671–1678*, New Haven: Yale University Press, 2005.
+
+[^murray-2011]: M. Murray (editor and translator), *Dissertation on Predestination and Grace*, New Haven: Yale University Press, 2011.
+
+[^parkinson-1675]: G. H. R. Parkinson (editor and translator) *G. W. Leibniz: De Summa Rerum: Metaphysical Papers 1675–1676*, New Haven: Yale University Press, 1992.
+
+[^gerhardt-1875]: C. I. Gerhardt (ed.), *Die philosophischen Schriften von Gottfried Wilhelm Leibniz*, Berlin: Weidman, 1875–1890; cited by volume and page; Volume VI contains the original text of the *Theodicy*, as translated in H (below).
+
+[^huggard-1985]: E. M. Huggard (trans.), *Theodicy: Essays on the Goodness of God, the Freedom of Man, and the Origin of Evil* (*Essais de théodicée*), La Salle, IL: Open Court, 1985; cited by page number.
+
+[^strickland-2016]: L. Strickland (ed.), *Leibniz on God and Religion: A Reader*, London: Bloomsbury, 2016.
+
+[^schrecker-1965]: P. Schrecker and Anne Martin Schrecker (eds.), 1965, *Monadology, and Other Philosophical Essays*, Indianapolis: Bobbs-Merrill Co.
+
+[^strickland-2010]: L. Strickland (trans.), *The Shorter Leibniz Texts*, London: Bloomsbury, 2010.
 
 [^adams-1972]: Adams, Robert Merrihew, 1972, “Must God Create the Best?”, *Philosophical Review*, 81(3): 317–332.
 

@@ -477,21 +477,21 @@ Other contexts include [IHT] arg. 11. Also, disjunctive and conditional form of 
 
 [^note-49]: At least John Mair’s catalogue of solutions to paradoxes displays influences of the Italian tradition (see Mair 1505, analyzed in Hanke 2015, 27–308)[^hanke-2015].
 
-[^co-nd]: [CO] *Casus obligationis*
+[^casus-nd]: [CO] *Casus obligationis*
 
-[^dml-nd]: [DML] *De motu locali*
+[^de-nd]: [DML] *De motu locali*
 
-[^iht-nd]: [IHT] *Iuxta hunc textum* (*Consequentie subtiles Hentisberi*)
+[^iuxta-nd]: [IHT] *Iuxta hunc textum* (*Consequentie subtiles Hentisberi*)
 
-[^pc-nd]: [PC] *Probationes conclusionum*
+[^probationes-nd]: [PC] *Probationes conclusionum*
 
-[^rss-nd]: [RSS] *Regulae solvendi sophismata* (=*Logica* )
+[^regulae-nd]: [RSS] *Regulae solvendi sophismata* (=*Logica* )
 
-[^scd-nd]: [SCD] *De sensu composito et diviso*
+[^de-nd-2]: [SCD] *De sensu composito et diviso*
 
-[^soph-nd]: [Soph] *Sophismata*
+[^sophismata-nd]: [Soph] *Sophismata*
 
-[^sophas-nd]: [SophAs] *Sophismata asinina*
+[^sophismata-nd-2]: [SophAs] *Sophismata asinina*
 
 [^sharpe-2001]: Sharpe, Richard, 2001, *A Handlist of the Latin Writers of Great Britain and Ireland before 1540. With Additions and Corrections*, Turnhout: Brepols.
 
@@ -501,7 +501,7 @@ Other contexts include [IHT] arg. 11. Also, disjunctive and conditional form of 
 
 [^weisheipl-1969]: Weisheipl, James A., 1969, “Repertorium Mertonense”, *Mediaeval Studies*, 31: 174–224. doi:10.1484/J.MS.2.306064
 
-[^de-nd]: ***De propositionibus multiplicibus*:**
+[^de-nd-3]: ***De propositionibus multiplicibus*:**
 
 [^cambridge-nd]: Cambridge: Gonville and Caius College, ms. 434/434, fols. 19r–21.
 
@@ -577,13 +577,13 @@ Other contexts include [IHT] arg. 11. Also, disjunctive and conditional form of 
 
 [^warszawa-nd]: Warszawa: Biblioteka Narodowa III. 8058, fols. 7ra–134vb [c. 1–5].
 
-[^sophismata-nd]: ***Sophismata* [Soph]:**
+[^sophismata-nd-3]: ***Sophismata* [Soph]:**
 
 [^paris-nd]: Paris: Bibliothèque nationale de France 16134, fols. 81ra–146ra.
 
 [^città-nd-7]: Città del Vaticano: Biblioteca Apostolica Vaticana Vat. lat. 2138, fols. 1ra–86va.
 
-[^probationes-nd]: ***Probationes conclusionum*:**
+[^probationes-nd-2]: ***Probationes conclusionum*:**
 
 [^praha-nd-2]: Praha: Národní knihovna X.H.11, fols. 45ra–67ra.
 
@@ -645,7 +645,7 @@ Other contexts include [IHT] arg. 11. Also, disjunctive and conditional form of 
 
 [^de-1688]: De Benedictis, Giovanni Battista, 1688, *Philosophia peripatetica*, (vol. I), Napoli: Jacobus Raillard.
 
-[^de-nd-2]: De Medici, Manfredus, 1542, *Annotationes eximii artium et medicinae doctoris Divi magistri Manfredi de Medicis supra logicam parvam Pauli Veneti ubi multa adducuntur ex Tisbero, Strodo et Petri Mantuani valde utilia, quae omnia fuerunt diligenter recognita*, in *Subtilissimae expositiones quaestionesque super Summulis magistri Pauli Veneti una cum argutissimis additionibus Jacobi Ritii Aretini et Manfredi de Medicis*, Venezia: Antonius Junte Florentini, fols. 104ra–106vb.
+[^de-nd-4]: De Medici, Manfredus, 1542, *Annotationes eximii artium et medicinae doctoris Divi magistri Manfredi de Medicis supra logicam parvam Pauli Veneti ubi multa adducuntur ex Tisbero, Strodo et Petri Mantuani valde utilia, quae omnia fuerunt diligenter recognita*, in *Subtilissimae expositiones quaestionesque super Summulis magistri Pauli Veneti una cum argutissimis additionibus Jacobi Ritii Aretini et Manfredi de Medicis*, Venezia: Antonius Junte Florentini, fols. 104ra–106vb.
 
 [^johannes-1999]: Johannes Venator Anglicus (= John Hunter), 1999, *Logica 2: Tractatus iii–iv*, L. M. de Rijk (ed.), Stuttgart-Bad Cannstatt: Frommann-Holzboog.
 

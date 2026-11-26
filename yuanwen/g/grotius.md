@@ -217,13 +217,13 @@ Aquinas, Thomas | ethics: natural law tradition | Leibniz, Gottfried Wilhelm: et
 
 [^mare-1609]: *Mare liberum*, Leiden: Elzevier, 1609; reprinted and translated many times since. The translation and edition by Ralph van Deman Magoffin (Oxford: Oxford University Press, 1916) contains a facsimile of the 1633 edition. See also the recently published *The Free Sea*, translated by Richard Hakluyt (done circa 1616) with William Welwod’s critique and Grotius’s reply, edited and with an introduction by David Armitage (Indianapolis: Liberty Fund, 2004).
 
-[^dib-1625]: [*DIB*] *De iure belli ac pacis libri tres*, Paris: Buon, 1625; reprinted and translated many times since. Jean Barbeyrac’s 1735 edition, with extensive notes and commentary, was the most important; it was translated into English and published in London by Innys et al. in 1738. It has been recently reprinted as *The Rights of War and Peace*, Books I–III, edited and with an introduction by Richard Tuck, Indianapolis, IN: Liberty Fund, 2005. Another commonly used edition and translation is by Frank W. Kelsey et al. for the Classics of International Law series, Oxford: Oxford University Press, 1925. Kelsey’s version is printed with a facsimile of the 1646 edition.
+[^de-1625]: [*DIB*] *De iure belli ac pacis libri tres*, Paris: Buon, 1625; reprinted and translated many times since. Jean Barbeyrac’s 1735 edition, with extensive notes and commentary, was the most important; it was translated into English and published in London by Innys et al. in 1738. It has been recently reprinted as *The Rights of War and Peace*, Books I–III, edited and with an introduction by Richard Tuck, Indianapolis, IN: Liberty Fund, 2005. Another commonly used edition and translation is by Frank W. Kelsey et al. for the Classics of International Law series, Oxford: Oxford University Press, 1925. Kelsey’s version is printed with a facsimile of the 1646 edition.
 
 [^annales-1657]: *Annales et Historiae de Rebus Belgicis*, Amsterdam: Blaeu, 1657; translated by Thomas Manley, as *De rebus belgicis, or, The annals and history of the Low-Countrey-warrs*, London: Twyford and Paulet, 1665.
 
 [^opera-1679]: *Opera omnia theologica*, London: Moses Pitt, 1679.
 
-[^dip-1868]: [*DIP*] *De iure praedae commentarius*, G. Hamaker (ed.), The Hague: Nijhoff, 1868. Until fairly recently, the most commonly used edition and translation was *Commentary on the Law of Prize and Booty*, by Gwladys L. Williams et al. for the Classics of International Law series, Oxford: Clarendon Press, 1950. Williams’ version is printed along with a collotype of Grotius’ manuscript. The edition of Williams’ translation with Martine Julia van Ittersum as editor (Indianapolis, IN: Liberty Fund, 2006) has superseded Williams’ original.
+[^de-1868]: [*DIP*] *De iure praedae commentarius*, G. Hamaker (ed.), The Hague: Nijhoff, 1868. Until fairly recently, the most commonly used edition and translation was *Commentary on the Law of Prize and Booty*, by Gwladys L. Williams et al. for the Classics of International Law series, Oxford: Clarendon Press, 1950. Williams’ version is printed along with a collotype of Grotius’ manuscript. The edition of Williams’ translation with Martine Julia van Ittersum as editor (Indianapolis, IN: Liberty Fund, 2006) has superseded Williams’ original.
 
 [^briefwisseling-1928]: *Briefwisseling van Hugo Grotius*, P.C. Molhuysen et al. (eds.), The Hague: Nijhoff, 1928–2001.
 
@@ -231,7 +231,7 @@ Aquinas, Thomas | ethics: natural law tradition | Leibniz, Gottfried Wilhelm: et
 
 [^de-2000]: *De antiquitate Reipublicae Batavicae*, Translated as *The Antiquity of the Batavian Republic*, Jan Waszink et al. (eds. and trans.), Assen: Royal van Gorcum, 2000.
 
-[^anonymous-1984]: [Anonymous] (ed.), 1984, *The World of Hugo Grotius: Proceedings of the international colloquium organized by the Grotius Committee of the Royal Netherlands Academy of Arts and Sciences, Rotterdam 6–9 April 1983*, Amsterdam and Maarssen: APA—Holland University Press.
+[^grotius-1984]: [Anonymous] (ed.), 1984, *The World of Hugo Grotius: Proceedings of the international colloquium organized by the Grotius Committee of the Royal Netherlands Academy of Arts and Sciences, Rotterdam 6–9 April 1983*, Amsterdam and Maarssen: APA—Holland University Press.
 
 [^asser-1985]: Asser Instituut (eds.), 1985, *International Law and the Grotian Heritage*, The Hague: T.M.C. Asser Instituut.
 

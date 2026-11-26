@@ -59,9 +59,9 @@ Abu Ja‛far Yusuf ibn Hasday moved to the East and from 1121 to 1125 he worked 
 
 Ibn al-Imam (IB-coll-fakhry: 177–178) produced the first list of Avempace’s writings, which was followed by Ibn Abi Usaybi‛a in his bio-bibliography (mentioned above, 1886, 2001). A scholarly account was first made by the late Jamal ad-Din al-‛Alawi (1983)[^alawi-1983] who not only described manuscripts and printings, but also tried to determine which works ascribed to Avempace are authentic, as well as to establish the chronology of his writings and, on this basis, to draw a developmental account of his thought.
 
-Al-‛Alawi based his chronology on the before mentioned letter which Avempace sent to his friend Abu Jaʻfar Yusuf ibn Hasday in which he explained that he first learned about mathematical sciences, music and astronomy. He studied music until he reached a satisfactory level and he also became proficient in astronomy, but he realized that those who claimed to have mastered it completely were not telling the truth. He came to this realization when he went to Seville, the birthplace and stronghold of astronomy.(IB-coll-alawi 1983, 78-79)[^ib-coll-alawi-1983]
+Al-‛Alawi based his chronology on the before mentioned letter which Avempace sent to his friend Abu Jaʻfar Yusuf ibn Hasday in which he explained that he first learned about mathematical sciences, music and astronomy. He studied music until he reached a satisfactory level and he also became proficient in astronomy, but he realized that those who claimed to have mastered it completely were not telling the truth. He came to this realization when he went to Seville, the birthplace and stronghold of astronomy.(IB-coll-alawi 1983, 78-79)
 
-He went on to study logic using the books of Alfarabi and later devoted himself to physics, the philosophy of nature. Avempace mentions two issues that he was particularly (*khassast*) concerned with: indivisibility, which Aristotle discussed in Book VI of Physics, and the thesis that everything that moves is moved by a motor, which he discussed in Book VII of the same treatise (IB-coll-alawi 1983, 79-80)[^ib-coll-alawi-1983]. We understand that Avempace had not worked with metaphysics yet. J. Al-ʻAlawi distinguished three stages in Avempace’s development and classified his writings according to these stages. His writings on music, astronomy and logic belong to the first stage; those on natural philosophy to the second; and those most representative of his thinking—the *Rule of the Solitary*, the *Epistle of Conjunction* and the *Farewell Message*—to the third and last stage.
+He went on to study logic using the books of Alfarabi and later devoted himself to physics, the philosophy of nature. Avempace mentions two issues that he was particularly (*khassast*) concerned with: indivisibility, which Aristotle discussed in Book VI of Physics, and the thesis that everything that moves is moved by a motor, which he discussed in Book VII of the same treatise (IB-coll-alawi 1983, 79-80). We understand that Avempace had not worked with metaphysics yet. J. Al-ʻAlawi distinguished three stages in Avempace’s development and classified his writings according to these stages. His writings on music, astronomy and logic belong to the first stage; those on natural philosophy to the second; and those most representative of his thinking—the *Rule of the Solitary*, the *Epistle of Conjunction* and the *Farewell Message*—to the third and last stage.
 
 Avempace himself tells us how these sciences are organized. He followed other Andalusians in turning to Abu Nasr al-Farabi, Alfarabi (d. *ca*. 950), for instruction in logic and in classifying the sciences. Alfarabi is the author of a treatise “enumerating” the sciences (Farabi 1952)[^farabi-1952] and some books of the introductory genre: *Epistle with which the book on logic begins* (Dunlop 1957a)[^dunlop-1957a], *Sections containing all what needs the beginner in logic* (Dunlop 1955), and the *Book of the Eisagoge or Introduction* (Dunlop 1956)[^dunlop-1956].
 
@@ -75,19 +75,19 @@ The term *taṣawwur* is sometimes translated as ‘concept’, ‘conception,�
 
 In the first section Alfarabi pleads for having a specific technical language in each discipline. He refers to expressions that have different meanings in the colloquial and in the technical language. When the grammarian hears *raf*ʻ, he understands the vowel of the nominative case, and not “lifting a weight” as the unlearned man does.
 
-Avempace points to the distinction between term (sound, *lafẓ*) and meaning (*maʻnà*): man listens to a sound, and gets the meaning that he conceptualized. He may have conceptualized a first meaning but he must learn that the term has more than one meaning and how the various meanings are derivate. This learning happens by means either of a strong mind or of instruction and Avempace blames the mental deficiency of a student for not being capable of grasping the derived meaning of the term. While Alfarabi provided examples from grammar, Ibn Bajja provides examples from medicine and pharmacy instead. He distinguishes two ways in which new meanings are derived: through external likeness or efficacy. Physicians call a medicament “dog’s testicle” because the tubercle from which the potion is made resembles it. Dioscorides had already named this tubercle *cynosorchis* in his *Materia Medica*. As for efficacy, Avempace gives the example of a medicine called “the Chinese king.” When a doctor says, “Drink the Chinese king,” we are supposed to understand that we are to drink the potion by that name (IB-taaliq 1994, 65)[^ib-taaliq-1994].
+Avempace points to the distinction between term (sound, *lafẓ*) and meaning (*maʻnà*): man listens to a sound, and gets the meaning that he conceptualized. He may have conceptualized a first meaning but he must learn that the term has more than one meaning and how the various meanings are derivate. This learning happens by means either of a strong mind or of instruction and Avempace blames the mental deficiency of a student for not being capable of grasping the derived meaning of the term. While Alfarabi provided examples from grammar, Ibn Bajja provides examples from medicine and pharmacy instead. He distinguishes two ways in which new meanings are derived: through external likeness or efficacy. Physicians call a medicament “dog’s testicle” because the tubercle from which the potion is made resembles it. Dioscorides had already named this tubercle *cynosorchis* in his *Materia Medica*. As for efficacy, Avempace gives the example of a medicine called “the Chinese king.” When a doctor says, “Drink the Chinese king,” we are supposed to understand that we are to drink the potion by that name (IB-taaliq 1994, 65).
 
 The second section deals with issues raised in Aristotle’s *Topics*. Alfarabi classifies knowledge into argumentative and intuitive knowledge. Demonstration (*istidlal*), cogitation (*fikr*), deliberation (*ru’ya*), and deduction (inference, *instinbat*) are four kinds of argumentative knowledge. Cogitation and deliberaation belong to the Aristotelian tradition (*dianoia*, *boulê*), but demonstration and deduction are found in Islamic theology and other Islamic sciences. Intuitive knowledge comprises accepted opinions, things generally known, sense perceptions, and first intelligibles.
 
-Avempace does not address these important issues. Instead, he focuses on the classes of assent and complains that many people lack the ability to distinguish between the degrees of assent. He adds that “maybe the most difficult degree is the most powerful” (IB-taaliq 1994, 65)[^ib-taaliq-1994]. He will broaden his view on the subject in his annotations to Alfarabi’s treatise on the *Second Analytics (IB-taaliq2 1987, 106-111)* where he distinguishes three kinds of assent: certainty, opinion close to certainty and withholding of assent.
+Avempace does not address these important issues. Instead, he focuses on the classes of assent and complains that many people lack the ability to distinguish between the degrees of assent. He adds that “maybe the most difficult degree is the most powerful” (IB-taaliq 1994, 65). He will broaden his view on the subject in his annotations to Alfarabi’s treatise on the *Second Analytics (IB-taaliq2 1987, 106-111)* where he distinguishes three kinds of assent: certainty, opinion close to certainty and withholding of assent.
 
 The third section is related to Aristotle’s *Categories* but it deals only with the difference between the essential and the accidental; there Alfarabi distinguishes further the ways how “being essentially” is predicated (F-Mantiq 1985-1987, v.1, 65). The opposition between ‘essential-accidental’ lies in the background of Avempace’s annotations too, but, in addition, he aims at conceptualization and assent; concerning the former he writes:
 
 > What exists in something either exists in it by itself, and it is that which is intended by the conceptualization, or it exists in it accidentally, and is that which is not intended but it is flung away (IB-taaliq: 65).
 
-A concept is only possible for that which belongs essentially to the substance. Consequently, philosophers and practitioners of any art must conceptualize what is essential, although he acknowledges that the accidental and the essential often coincide in one subject. He provides examples of the incorrect use of accidents that differ from Alfarabi’s, one of them is “when one imagines that the eclipse is a condition of the moon that causes fear in people”. Avempace introduces the category “essential accidents,” which appears to be his original contribution: “their subjects or the genera of their subjects are parts of their definitions; their subjects sustain them and their existence takes place because of them, like the ability to laugh in man” (IB-taaliq 1994, 66)[^ib-taaliq-1994]. Clearly, “essential accidents” correspond to the predicable ‘property’ in Porphyry’s *Eisagoge*, (Eisagoge 1887, c. 5, 12: 12-22), but Avempace creates a new category after opposing essential to accidental, and he justifies the conceptualization of “essential accidents”, and he comments:
+A concept is only possible for that which belongs essentially to the substance. Consequently, philosophers and practitioners of any art must conceptualize what is essential, although he acknowledges that the accidental and the essential often coincide in one subject. He provides examples of the incorrect use of accidents that differ from Alfarabi’s, one of them is “when one imagines that the eclipse is a condition of the moon that causes fear in people”. Avempace introduces the category “essential accidents,” which appears to be his original contribution: “their subjects or the genera of their subjects are parts of their definitions; their subjects sustain them and their existence takes place because of them, like the ability to laugh in man” (IB-taaliq 1994, 66). Clearly, “essential accidents” correspond to the predicable ‘property’ in Porphyry’s *Eisagoge*, (Eisagoge 1887, c. 5, 12: 12-22), but Avempace creates a new category after opposing essential to accidental, and he justifies the conceptualization of “essential accidents”, and he comments:
 
-> The benefits of this [third] section are enormous with regard to conceptualization and assent. Man must adopt the two divisions and distinguish the essential properties of all matters in all necessary derivations (IB-taaliq 1994, 68)[^ib-taaliq-1994].
+> The benefits of this [third] section are enormous with regard to conceptualization and assent. Man must adopt the two divisions and distinguish the essential properties of all matters in all necessary derivations (IB-taaliq 1994, 68).
 
 The Alfarabian fourth section describes the five ways of anterior and posterior: in time, by nature, in precedence, in excellence, nobility and perfection and as cause of the existence of the other thing (Dunlop 1955, 276-277). His division echoes that of Aristotle in the book of *Categories,* but he adds the fifth way. Avempace sees the fivefold distinction as the way to understand equivocity — primary and derivative sense — and focuses on three senses of anterior and posterior: in precedence, in excellence, as cause, because the three kinds affect conceptualization and assent.
 
@@ -125,7 +125,7 @@ Metaphysics aims at those beings which are the ultimate causes; they are neither
 
 Mathematics deals with beings abstract from their matters, although endowed with number and measure, and is divided into arithmetic, geometry, optics, astronomy, music, mechanics or the science of weights, and the “science of devices,” which studies:
 
-> How to bring into existence many of the things proved theoretically in mathematics, where the worth of the device consists of removing hindrances that, perhaps, hindered their existence. There are numerical devices—like algebra, geometrical ones—like those for measuring the surface of bodies which are impossible to access, astronomical devices, optical—like the art of mirrors— musical, and mechanical. (Alwuzad 1988: 253. 7–11; IB-taaliq 1994: 28. 9–11)[^ib-taaliq-1994]
+> How to bring into existence many of the things proved theoretically in mathematics, where the worth of the device consists of removing hindrances that, perhaps, hindered their existence. There are numerical devices—like algebra, geometrical ones—like those for measuring the surface of bodies which are impossible to access, astronomical devices, optical—like the art of mirrors— musical, and mechanical. (Alwuzad 1988: 253. 7–11; IB-taaliq 1994: 28. 9–11)
 
 We shall soon see that astronomy occupies a particular place in the system because its subject results from optical observation. Logic is the fifth and last division of philosophy and focuses on properties that beings acquire in the human mind; “because of such properties and their knowledge [logic] becomes an instrument for apprehending the right and the truth in beings” (IB-taaliq: 28. 13–14). Avempace remarks that for this reason some people consider logic to be only an instrument and not a part of philosophy, but insofar as these properties have real existence, logic can be integrated into philosophy. He concludes that logic is both part and instrument of philosophy.
 
@@ -189,13 +189,13 @@ Avempace affirms that the five predicables are not primitive concepts, but const
 
 Avempace’s annotations to Alfarabi’s *Kitab al-Madkhal* are more innovative than they might seem at first sight. He points out that the *Eisagoge* should not be limited to the exposition of the five “sounds”—maybe six, if the individual is added[^note-14]—and that a particular science was needed to lay the foundations for the *Organon*. He conceives this science as a formal theory of individuals and classes that is followed by the theory of definition and description.
 
-In addition to his commentaries on Alfarabi’s *Five Sections* and his *Introduction* , Avempace wrote commentaries on Alfarabi’s treatises on the Aristotelian *logic* which were edited by M. T. Danishpazhuh (Daneshpazhuh 1989) and by Majid Fakhry (IB-taaliq 1994)[^ib-taaliq-1994]; the Center of Averroic Studies in Fes, Morocco, which had begun publishing of some of them (Wouzad 1988) completed their publication by 2006. One exception is his commentary on the *Topics*, which was edited and translated by Mallet (Mallet 1992)[^mallet-1992][^mallet-1992-2], and later translated by DiPasquale (2019)[^dipasquale-2019] but for which no commentary by Avempace is available. Regarding the *Categories*, he left supercommentaries as well as an “Exercitation” (IB-taaliq 1994, 104)[^ib-taaliq-1994]; exercitation (*irtiyad*) is a more flexible form of commentary in which Avempace focuses on issues relevant to him.
+In addition to his commentaries on Alfarabi’s *Five Sections* and his *Introduction* , Avempace wrote commentaries on Alfarabi’s treatises on the Aristotelian *logic* which were edited by M. T. Danishpazhuh (Daneshpazhuh 1989) and by Majid Fakhry (IB-taaliq 1994); the Center of Averroic Studies in Fes, Morocco, which had begun publishing of some of them (Wouzad 1988) completed their publication by 2006. One exception is his commentary on the *Topics*, which was edited and translated by Mallet (Mallet 1992)[^mallet-1992][^mallet-1992-2], and later translated by DiPasquale (2019)[^dipasquale-2019] but for which no commentary by Avempace is available. Regarding the *Categories*, he left supercommentaries as well as an “Exercitation” (IB-taaliq 1994, 104); exercitation (*irtiyad*) is a more flexible form of commentary in which Avempace focuses on issues relevant to him.
 
 The category of substance has proved highly productive within the context of the history of philosophy. At its origin, Aristotle distinguished between its primary and secondary senses, defining the former as “that which is neither asserted of, nor can be found in a subject” (transl. H. P. Cooke,1938; *Cat.* 2a 11-13). Alfarabi began his commentary on the *Categories* with an analysis of the concepts ‘universal’ and ‘individual’ in order to assert that substance possesses these dimensions essentially, whereas accident possesses them non-essentially and he observes: “Accident is nine supreme genera” (F-Mantiq 1985-1987, v. 1, p. 90) opposed to the ten substantial categories. Given the long tradition of Greek commentators—including the Latin Boethius—on the *Categories*, most of whom are mentioned and discussed by Simplicius in his introduction to the commentary (Simplicius 2014), their influence on Alfarabi is evident. He then explained substance and pointed to the intelligibles and once again, the ancient commentators with their debates are present. Intelligibles (*ma‘qulat*) exist only because their individuals exist and these inviduals need the universals insofar as they are intelligibles: Consequently universals and intelligibles are substances but of a secondary rank (F-Mantiq 1985-1987, v. 1, p. 92). Avempace is expected to comment on his words, but he uses the concept of *ma‘ná* to explain what categories are:
 
-> Category is predicated in general and particular terms. If it is said in general, it denotes every universal meaning (*ma*‛*ná*) sustained by an object of knowledge (*ma*‛*lum*), and not by inference nor by any thought denoted by some term, no matter whether it is a supreme, intermediate or ultimate genus, singular or composite If it is predicated in particular, it denotes the supreme genera sustained by the sensible due to the fact that only terms denote them (IB-taaliq 1994, 80)[^ib-taaliq-1994] (IB-danesh 1983, v. 3, p. 52).
+> Category is predicated in general and particular terms. If it is said in general, it denotes every universal meaning (*ma*‛*ná*) sustained by an object of knowledge (*ma*‛*lum*), and not by inference nor by any thought denoted by some term, no matter whether it is a supreme, intermediate or ultimate genus, singular or composite If it is predicated in particular, it denotes the supreme genera sustained by the sensible due to the fact that only terms denote them (IB-taaliq 1994, 80) (IB-danesh 1983, v. 3, p. 52).
 
-Avempace continues to follow the "particular" path that Aristotle travelled, leading him to establish the ten categories. He starts with the meanings denoted by universal terms and takes them as predicates of an individual. He then looks for what is essentially predicated, setting aside what is not, and searches for the general. He ends up with a general meaning, and no other meaning is more general than it. Aristotle did so and arrived at ten meanings “encompassing everything which is generally admitted and known with natural reason, without reflection nor deliberation” (IB-taaliq 1994, 80. 20-21)[^ib-taaliq-1994]. Regarding the categories themselves, Daneshpazhuh edited Avempace’s *Treatise on the* *Properties of the Categories* where Avempace defines what are properties in the context:
+Avempace continues to follow the "particular" path that Aristotle travelled, leading him to establish the ten categories. He starts with the meanings denoted by universal terms and takes them as predicates of an individual. He then looks for what is essentially predicated, setting aside what is not, and searches for the general. He ends up with a general meaning, and no other meaning is more general than it. Aristotle did so and arrived at ten meanings “encompassing everything which is generally admitted and known with natural reason, without reflection nor deliberation” (IB-taaliq 1994, 80. 20-21). Regarding the categories themselves, Daneshpazhuh edited Avempace’s *Treatise on the* *Properties of the Categories* where Avempace defines what are properties in the context:
 
 > Properties are accidents that adhere to the categories due to the fact that they exist in the mind, and the mind is the efficient caus of these accidents in the categories. If these accidents materialize in the categories, the mind returns, apprehends them and extracts them deprived from the primary intelligibles making them intelligible in their imagination (IB-danesh 1983, v. 3, p. 132).
 
@@ -219,7 +219,7 @@ The fourth figure is not rejected by Avempace, who tries to safeguard it by usin
 
 To this wider framework it belongs Avempace’s use of the syllogism in his book on *Coming-to-be and Passing-away*. When man argues, he accomplishes a kind of mental movement and the movers are the premises of the syllogism. Avempace illustrates it with an example: A man takes our money and travels with it towards Cairo. We go after him and we have to stop over in the different places of his way up to when we reach the final point, Cairo. Avempace explains us the story:
 
-> Since the existence of the final aim depends on the accomplishment of a desire, to grasp it is pleasant, and since no other desire accompanies it, it is pleasant with such a delight that no pain interferes it, neither essentially nor accidentally. In all intermediate degrees there is pleasure and pain, and in the first degree, that is first matter, only pain. That final aim is permanent pleasure and first matter is permanent pain. The desired thing is the first mover and the final aim, so that it is both efficient and final cause.The arrangement of the premises is similar to that of motion, while the concept (*tasawwur*) is similar to first matter, and the existence of the final aim is the accomplishment. (IB-GC 1995: 35. 7–36. 3)[^ib-gc-1995]
+> Since the existence of the final aim depends on the accomplishment of a desire, to grasp it is pleasant, and since no other desire accompanies it, it is pleasant with such a delight that no pain interferes it, neither essentially nor accidentally. In all intermediate degrees there is pleasure and pain, and in the first degree, that is first matter, only pain. That final aim is permanent pleasure and first matter is permanent pain. The desired thing is the first mover and the final aim, so that it is both efficient and final cause.The arrangement of the premises is similar to that of motion, while the concept (*tasawwur*) is similar to first matter, and the existence of the final aim is the accomplishment. (IB-GC 1995: 35. 7–36. 3)
 
 The reference to the syllogism, its premises and its conclusion is far distant, but the topic how man can attain his perfection, and therefore his happiness is present here as it is in most of Avempace’s writings as we will see.
 
@@ -261,7 +261,7 @@ Avempace makes clear that natural science or physics is a theoretical science wh
 
 Motion is one of the main issues in the *Physics* and Avempace had original views on the issue. Book VII of the Aristotelian *Physics* does not fit into the sequence of Books V, VI and VIII and its chapters deal with subjects not related to each other. One of them mentions that every movable or mobile is moved by a mover different from itself (*Phys.* VII.1, 241b 24). Avempace considers the tenet that everything is moved by something else, and says:
 
-> It is evident that the rest of the whole caused by the rest of one of its parts takes place in so far as the movable is other than the mover, and when the influence (*athar*) of the latter ends, it comes to rest. Its influence ends because the mover ceases to act either on its own or because something else exerts resistance on it. Whenever the mover ceases to act on its own, this happens due either to its destruction, or to exhaustion (*kalal*) of the power of the mover, or because the cause disappears, or because the motion is complete, since the movable has reached the end toward which it was moving. (IB-Phys-fakhry: 99.16–20. Lettinck 1994: 532–533)
+> It is evident that the rest of the whole caused by the rest of one of its parts takes place in so far as the movable is other than the mover, and when the influence (*athar*) of the latter ends, it comes to rest. Its influence ends because the mover ceases to act either on its own or because something else exerts resistance on it. Whenever the mover ceases to act on its own, this happens due either to its destruction, or to exhaustion (*kalal*) of the power of the mover, or because the cause disappears, or because the motion is complete, since the movable has reached the end toward which it was moving. (IB-Phys-fakhry: 99.16–20. Lettinck 1994: 532–533)[^lettinck-1994]
 
 “Influence” is not a technical term, but the words following the quoted text clarify it. Motion necessarily takes place if a moving power exists in such a condition that enables it to cause motion and if no contrary moving power exerts resistance. If the moving power ceases, its influence does too.
 
@@ -275,7 +275,7 @@ Aristotle rejected the possibility of motion in the void because the medium was 
 
 > [In the heavens] there are no elements of violent motion, because nothing bends their movement, the place of the sphere remains the same and no new place is taken by it. Therefore, circular movement should be instantaneous, but we observe that some spheres move slowly—such as the sphere of fixed stars—and others fast—the daily movement—and that there is neither violence nor resistance among them. The cause for the different velocities is the difference in nobility (*sharf*) between mover and movable. (IB-Phys-fakhry: 116.13–17)
 
-The role of the medium is not essential, but is only a kind of resistance, and thus motion in the void is both theoretically possible and confirmed by the observation of the spheres. Avempace contradicts Aristotle and advances a doctrine that Galileo will later prove to be right.[^note-23] The similarity with Philoponus’ doctrine is clear, but an influence is not certain (Lettinck 1994: 549). Said El Bousklaoui shares the view that Avempace’s doctrine although similar to Philoponus’s it is not inherited from it (Bouskaloui 2020). Bousklaoui links the impetus theory to movement by itself, “spontaneously”, but this view needs further development.
+The role of the medium is not essential, but is only a kind of resistance, and thus motion in the void is both theoretically possible and confirmed by the observation of the spheres. Avempace contradicts Aristotle and advances a doctrine that Galileo will later prove to be right.[^note-23] The similarity with Philoponus’ doctrine is clear, but an influence is not certain (Lettinck 1994: 549)[^lettinck-1994]. Said El Bousklaoui shares the view that Avempace’s doctrine although similar to Philoponus’s it is not inherited from it (Bouskaloui 2020). Bousklaoui links the impetus theory to movement by itself, “spontaneously”, but this view needs further development.
 
 The treatise *On the Heavens* followed next in the Aristotelian order but no commentary of Avempace has reached us, and the following extant commentary is on *Coming-to-be and Passing-away* (IB-GC). Avempace coincided with Philoponus in a preliminary remark observing that Aristotle proved in his book *On the Heavens* the existence of four elementary bodies: fire, air, water, earth. Since one of the subjects of *Coming-to-be and Passing-away* is the mutual generation of these bodies, it is the logical continuation. Thus, Avempace’s lost commentary *On the Heavens* likely comes after the one on *Physics* and before the one on *Coming-to-be and Passing-away*.
 
@@ -283,7 +283,7 @@ This commentary runs parallel to the Aristotelian text. After explaining changes
 
 > If the causes of the qualities exist primarily in their subjects and belong to the same species, the qualities are movers […] Absolute actuality is the existence of this moving power as moving and this is only the case because of the existence of the movable being in motion, and this is coherent if we assume the movable power to exist. (IB-GC: 26. 1–7)
 
-For Wirmer the passage is one of the pillars, on which he develops the ontological system based on “Potenz” in Avempace (Wirmer 2014: 346–352)[^wirmer-2014] and, as expected, most of the passages where the term *quwwa* comes out, are found in his book *On the Soul*.
+For Wirmer the passage is one of the pillars, on which he develops the ontological system based on “Potenz” in Avempace (Wirmer 2014: 346–352)[^wirmer-2014][^wirmer-2014-2] and, as expected, most of the passages where the term *quwwa* comes out, are found in his book *On the Soul*.
 
 Avempace does not extend in the issue of elementary qualities as moving powers, and focuses on the soul as a moving power (elemental bodies do not have souls; instead, they have natures). The case of the human soul interests him most and he wants to explain how intellectual apprehension moves man in reasoning and action. Avempace will deal, in a more satisfactory way, with the issue of rank of ideas and forms in relation to human activity in other works.
 
@@ -435,7 +435,7 @@ The Arabic does not make a distinction between when *natiq* refers to the origin
 
 Avempace launches his own thesis: “Because the human intellect belongs to the totality of intellects, despite being the lowermost of them (*akhassu*), it possesses an afterlife (*ma*‛*ad*)” (Dunlop 1984: 298)[^dunlop-1984]. But this requires that human intellect does not need matter for existing “despite being the lowermost” intellect of the emanationist chain, and Avempace has to provide an argument to support his claim. While we can accept that the First Intellect and the intellects of the heavenly bodies are eternal, there are good reasons to doubt that this is the case for individual intellects, and Avempace encourages us:
 
-> Look into [the power of] insight of your soul (*basira*), for the sake of your own perfection. Pleasure is there: Do you not find in your soul that a power of insight exists compellingly and thanks to which you apprehend objects of knowledge (*ma*‛*lumat*) that are neither felt by the senses nor imagined in things existing in the imaginative faculty? These objects of knowledge are called the intelligibles (IB-danesh 1988, v. 3, p. 327)[^ib-danesh-1988] (IB-coll-alawi : 200).
+> Look into [the power of] insight of your soul (*basira*), for the sake of your own perfection. Pleasure is there: Do you not find in your soul that a power of insight exists compellingly and thanks to which you apprehend objects of knowledge (*ma*‛*lumat*) that are neither felt by the senses nor imagined in things existing in the imaginative faculty? These objects of knowledge are called the intelligibles (IB-danesh 1988, v. 3, p. 327) (IB-coll-alawi : 200).
 
 This translation mainly follows Dunlop’s (Dunlop 1984: 293)[^dunlop-1984]. “This power of insight (*basira*) is a divine faculty emanating from the Active Intellect” (IB-Coll-Alawi, 1983: 201)[^alawi-1983], though it is not identical. Avempace believes that Alfarabi referred to it in his book ‘On the Intellect’ (Alfarabi, 1938: 9–11). While the power of insight enables your soul to find delight in intelligibles, which is highly valuable, Avempace now relies on it to prove the survival of the human intellect, so that man has an afterlife.
 
@@ -572,23 +572,23 @@ Philoponus’ comments in Arabic have been partially translated into English by 
 
 [^for-2016]: For a complementing bibliography, see Rashaq 2016.
 
-[^ib-coll-fakhry-1968]: [IB-coll-fakhry] *Rasa’il Ibn Bâjja al-ilahiyya*, Majid Fakhry (ed.), Beirut: Dar an-nahar li-n-nashr, 1968.
+[^rasa’il-1968]: [IB-coll-fakhry] *Rasa’il Ibn Bâjja al-ilahiyya*, Majid Fakhry (ed.), Beirut: Dar an-nahar li-n-nashr, 1968.
 
-[^ib-coll-alawi-1983]: [IB-coll-alawi] *Rasa’il falsafiyya li-Abi Bakr Ibn Bâjja*, J. al-‛Alawi (ed.), Beirut-Casablanca: Dar ath-Thaqafa – Dar an-Nashr al-Maghribiyya, 1983.
+[^rasa’il-1983]: [IB-coll-alawi] *Rasa’il falsafiyya li-Abi Bakr Ibn Bâjja*, J. al-‛Alawi (ed.), Beirut-Casablanca: Dar ath-Thaqafa – Dar an-Nashr al-Maghribiyya, 1983.
 
 [^ib-coll-genequand-2010]: [IB-coll-genequand] *Ibn Bāğğa (Avempace): La conduite de l’isolé et deux autres épitres* (Epître de l’adieu ; Conjonction de l’intellect). Introduction, édition critique du texte arabe, traduction et commentaire par Charles Genequand. Paris: Vrin, 2010.
 
-[^ib-coll-lettinck-1994]: [IB-coll-lettinck] Lettinck, Paul, *Aristotle’s Physics and its reception in the Arabic world with an edition of the unpublished parts of Ibn Bâjja’s “Commentary on the Physics”*, (Aristoteles Semitico-Latinus, 7), Leiden: Brill, 1994,
+[^lettinck-1994]: [IB-coll-lettinck] Lettinck, Paul, *Aristotle’s Physics and its reception in the Arabic world with an edition of the unpublished parts of Ibn Bâjja’s “Commentary on the Physics”*, (Aristoteles Semitico-Latinus, 7), Leiden: Brill, 1994,
 
-[^ib-rs-dunlop-1945]: [IB-RS-dunlop] Dunlop, D.M., 1945, “Ibn Bâjjah’s *Tadbiru’l-Mutawaḥḥid* (Rule of the solitary)”, *Journal of the Royal Asiatic Society*, 77(1–2): 61–81. doi:10.1017/S0035869X00099305
+[^dunlop-1945]: [IB-RS-dunlop] Dunlop, D.M., 1945, “Ibn Bâjjah’s *Tadbiru’l-Mutawaḥḥid* (Rule of the solitary)”, *Journal of the Royal Asiatic Society*, 77(1–2): 61–81. doi:10.1017/S0035869X00099305
 
-[^ib-rs-ap-1946]: [IB-RS-AP] *Tadbir al-mutawahhid*, Edited and Spanish translation by M. Asín Palacios, *El régimen del solitario*, Madrid-Granada: CSIC, 1946. Reprinted in Publications of the Institute for the History of Arabic and Islamic Science. Islamic Philosophy 77, Frankfurt am Main, 1999.
+[^tadbir-1946]: [IB-RS-AP] *Tadbir al-mutawahhid*, Edited and Spanish translation by M. Asín Palacios, *El régimen del solitario*, Madrid-Granada: CSIC, 1946. Reprinted in Publications of the Institute for the History of Arabic and Islamic Science. Islamic Philosophy 77, Frankfurt am Main, 1999.
 
-[^ib-rs-berman-1963]: [IB-RS-berman] *Tadbir al-mutawahhid*, Partial English translation by Lawrence Berman as *The Governance of the Solitary* in Ralph Lerner and Muhsin Mahdi, *Medieval Political Philosophy, A Source Book*, Toronto: The Free Press of Glencoe, 1963, pp. 122–133.
+[^tadbir-1963]: [IB-RS-berman] *Tadbir al-mutawahhid*, Partial English translation by Lawrence Berman as *The Governance of the Solitary* in Ralph Lerner and Muhsin Mahdi, *Medieval Political Philosophy, A Source Book*, Toronto: The Free Press of Glencoe, 1963, pp. 122–133.
 
-[^ib-rs-lomba-1997]: [IB-RS-lomba] *Avempace: El régimen del solitario (Tadbir al-mutawaḥḥid*). Introducción, trad. y notas de J. Lomba. Madrid: Trotta, 1997.
+[^avempace-1997]: [IB-RS-lomba] *Avempace: El régimen del solitario (Tadbir al-mutawaḥḥid*). Introducción, trad. y notas de J. Lomba. Madrid: Trotta, 1997.
 
-[^ib-rs-campanini-2002]: [IB-RS-campanini] *Tadbir al-mutawahhid*, bilingual edition, Arabic and Italian, by Massimo Campanini, *Il regime del solitario*, Rome, 2002.
+[^tadbir-2002]: [IB-RS-campanini] *Tadbir al-mutawahhid*, bilingual edition, Arabic and Italian, by Massimo Campanini, *Il regime del solitario*, Rome, 2002.
 
 [^ib-coll-fakhry-nd]: IB-coll-fakhry: 37–96
 
@@ -598,37 +598,37 @@ Philoponus’ comments in Arabic have been partially translated into English by 
 
 [^asín-1943]: Asín Palacios, Miguel, 1943, “La *Carta de adiós* de Avempace”, *Al-Andalus*, 8: 1–87.
 
-[^ib-cim-1942]: [IB-CIM] Asín Palacios, Miguel, 1942, “Tratado de Avempace sobre la unión del intelecto con el hombre”, *Al-Andalus*, 7: 1–47.
+[^asín-1942]: [IB-CIM] Asín Palacios, Miguel, 1942, “Tratado de Avempace sobre la unión del intelecto con el hombre”, *Al-Andalus*, 7: 1–47.
 
-[^ib-cim-lagardere-1981]: [IB-CIM-lagardere] Lagardère, Vincent, 1981, « L’Épître d’Ibn Bâjja sur la conjunction de l’intellect avec l’esprit humain », *Revue des Études Islamiques*, 49: 175–196.
+[^lagardère-1981]: [IB-CIM-lagardere] Lagardère, Vincent, 1981, « L’Épître d’Ibn Bâjja sur la conjunction de l’intellect avec l’esprit humain », *Revue des Études Islamiques*, 49: 175–196.
 
 [^ib-coll-fakhry-nd-3]: IB-coll-fakhry: 153–173.
 
 [^ib-coll-genequand-nd-2]: IB-coll-genequand: 183–203
 
-[^ib-gc-1995]: [IB-GC] *Avempace. Libro de la generación y la corrupción*, (Pensamiento islámico, 4), editor and Spanish translator, Josep Puig Montada, Madrid: Consejo Superior de Investigaciones Cientf̕icas, 1995.
+[^avempace-1995]: [IB-GC] *Avempace. Libro de la generación y la corrupción*, (Pensamiento islámico, 4), editor and Spanish translator, Josep Puig Montada, Madrid: Consejo Superior de Investigaciones Cientf̕icas, 1995.
 
-[^ib-anim-2000]: [IB-Anim], *Kitab al-hayawan*, J. al-‛Imarati (ed.), Beirut-Casablanca: Al-markaz ath-thaqafi al-‛arabi, 2000.
+[^kitab-2000]: [IB-Anim], *Kitab al-hayawan*, J. al-‛Imarati (ed.), Beirut-Casablanca: Al-markaz ath-thaqafi al-‛arabi, 2000.
 
-[^ib-s1a-1960]: [IB-S1a] *Kitab an-nafs*, Muhammad Saghir Hasan al-Ma‛sumi (ed.), Damascus: al-Majma‛ al-‛ilmi al-‛arabi, 1379/1960. First published in the journal of the Arabic Academy: *Majallat Majma‛ al-Lugha al-‛Arabiyya*, vols. 33 (1958) 96–111; 278–301; 424–442; 609–632. 34 (1959) 112–126; 332–344; 490–506; 634–645; 35 (1960) 114–122.
+[^kitab-1960]: [IB-S1a] *Kitab an-nafs*, Muhammad Saghir Hasan al-Ma‛sumi (ed.), Damascus: al-Majma‛ al-‛ilmi al-‛arabi, 1379/1960. First published in the journal of the Arabic Academy: *Majallat Majma‛ al-Lugha al-‛Arabiyya*, vols. 33 (1958) 96–111; 278–301; 424–442; 609–632. 34 (1959) 112–126; 332–344; 490–506; 634–645; 35 (1960) 114–122.
 
-[^ib-s1e-1961]: [IB-S1e] *‛Ilm al-nafs, English translation and notes*, (Pakistan Historical Society, 26), Muhammad Saghir Hasan al-Ma‛sumi (ed.), Karachi: Pakistan Historical Society, 1961. Reprinted together with “Ibn Bâjja 1960” by F. Sezgin in Publications of the Institute for the History of Arabic and Islamic Science. Islamic Philosophy 75, Franfkurt am Main, 1999.
+[^ilm-1961]: [IB-S1e] *‛Ilm al-nafs, English translation and notes*, (Pakistan Historical Society, 26), Muhammad Saghir Hasan al-Ma‛sumi (ed.), Karachi: Pakistan Historical Society, 1961. Reprinted together with “Ibn Bâjja 1960” by F. Sezgin in Publications of the Institute for the History of Arabic and Islamic Science. Islamic Philosophy 75, Franfkurt am Main, 1999.
 
-[^ib-s-wirmer-2014]: [IB-S-wirmer] Wirmer, David, “Deutsche Übersetzung des *Kitāb an-nafs*”, in Wirmer 2014: 657–727.
+[^wirmer-2014]: [IB-S-wirmer] Wirmer, David, “Deutsche Übersetzung des *Kitāb an-nafs*”, in Wirmer 2014: 657–727.
 
-[^ib-s-lomba-2007]: [IB-S-lomba] *Kitab al-nafs. Libro sobre el alma*. Spanish translation by Joaquín Lomba. Madrid: Trotta, 2007.
+[^kitab-2007]: [IB-S-lomba] *Kitab al-nafs. Libro sobre el alma*. Spanish translation by Joaquín Lomba. Madrid: Trotta, 2007.
 
-[^ib-phys-fakhry-1973]: [IB-Phys-fakhry] *Sharh as-sama‛ at-tabi‛i li-Aristutalis*, Majid Fakhry (ed.), Beirut: Dar an-nahar, 1973.
+[^sharh-1973]: [IB-Phys-fakhry] *Sharh as-sama‛ at-tabi‛i li-Aristutalis*, Majid Fakhry (ed.), Beirut: Dar an-nahar, 1973.
 
-[^ib-phys-ziyada-1978a]: [IB-Phys-ziyada] *Shuruhat as-Sama῾at-tabi῾i*, Ma‛an Ziyada (ed.), Beirut: Dar al-Kindi – Dar al-Fikr. New edition: Cairo: Ru’ya li-n-nashr wa-li-t-tawzi‛, 1978a.
+[^shuruhat-1978a]: [IB-Phys-ziyada] *Shuruhat as-Sama῾at-tabi῾i*, Ma‛an Ziyada (ed.), Beirut: Dar al-Kindi – Dar al-Fikr. New edition: Cairo: Ru’ya li-n-nashr wa-li-t-tawzi‛, 1978a.
 
 [^ib-coll-lettinick-nd]: IB-coll-lettinick: 676–769.
 
-[^ib-phys-hafs-2024]: [IB-Phys-hafs] *Shuruhat al-Sama῾ at-tabi῾i*, Jamal Rachak; Mohamed Abouhafs (eds.), Marrakech: AFAQ, 2024.
+[^shuruhat-2024]: [IB-Phys-hafs] *Shuruhat al-Sama῾ at-tabi῾i*, Jamal Rachak; Mohamed Abouhafs (eds.), Marrakech: AFAQ, 2024.
 
 [^lettinck-1999]: Lettinck 1999: 383–481.
 
-[^ib-danesh-1988]: [IB-danesh] *Al-Mantiqiyyat li-l-Farabi*, Muhammad Taqi Danishpazhuh (ed.), 3 vols. Qum: Manshurat Maktabat Ayatollah al-‛Uthmà al-Mar‛ashi, 1988. Repr. 2026, vol. 3 contains Avempace’s annotations:
+[^al-mantiqiyyat-1988]: [IB-danesh] *Al-Mantiqiyyat li-l-Farabi*, Muhammad Taqi Danishpazhuh (ed.), 3 vols. Qum: Manshurat Maktabat Ayatollah al-‛Uthmà al-Mar‛ashi, 1988. Repr. 2026, vol. 3 contains Avempace’s annotations:
 
 [^fusul-nd]: *Fusul* , pp. 3–15.
 
@@ -646,7 +646,7 @@ Philoponus’ comments in Arabic have been partially translated into English by 
 
 [^qiyas-nd]: *Qiyas*, pp. 255–266.
 
-[^ib-taaliq-1994]: [IB-taaliq] *Ta‛aliq Ibn Bâjja ‛alà mantiq al-Farabi*, Majid Fakhry (ed.), Beirut: Dar al-Mashreq, 1994.
+[^ta-1994]: [IB-taaliq] *Ta‛aliq Ibn Bâjja ‛alà mantiq al-Farabi*, Majid Fakhry (ed.), Beirut: Dar al-Mashreq, 1994.
 
 [^isaguji-nd]: *Isaguji*, pp. 26–51.
 
@@ -670,27 +670,27 @@ Philoponus’ comments in Arabic have been partially translated into English by 
 
 [^alwozad-2006]: –––; Rachak, Jamal, et.al. (eds.), 2006, *Al-Irtiyad fi kitab at-tahlil*, Fes, Centre d’études Ibn Rushd.
 
-[^ib-tibbiya-2014]: [IB-tibbiya] *Al-Maqalat al-Tibbiyya li-Abi Bakr Ibn Bajja*, Mohammed Abouhafs (ed.), Fez: Info Print, 2014
+[^al-maqalat-2014]: [IB-tibbiya] *Al-Maqalat al-Tibbiyya li-Abi Bakr Ibn Bajja*, Mohammed Abouhafs (ed.), Fez: Info Print, 2014
 
 [^asín-1940]: Asín Palacios, Miguel, 1940, “Avempace botánico”, *Al-Andalus*, 5: 255–299.
 
-[^books-1976]: –––, 1976, *Ta‛liqat fi Kitab Bari Arminiyas wa min Kitab al-‛Ibara li-Abi Nasr al-Farabi*, Muhammad Salim Salim (ed.), Cairo: al-Hay’a al-Misriyya al-‛Amma li-l-Kitab, repr. 2019.
+[^asín-1976]: –––, 1976, *Ta‛liqat fi Kitab Bari Arminiyas wa min Kitab al-‛Ibara li-Abi Nasr al-Farabi*, Muhammad Salim Salim (ed.), Cairo: al-Hay’a al-Misriyya al-‛Amma li-l-Kitab, repr. 2019.
 
-[^books-1978b]: –––, 1978b, *Kitab tadbir al-mutawahhid*, Ma‛an Ziyada (ed.), Beirut: Dar al-Fikr al-Islami – Dar al-Fikr.
+[^asín-1978b]: –––, 1978b, *Kitab tadbir al-mutawahhid*, Ma‛an Ziyada (ed.), Beirut: Dar al-Fikr al-Islami – Dar al-Fikr.
 
-[^books-1987]: –––, 1987, *Ta‛aliq Ibn Bâjja ‛alà l-burhan*, in *Al-Mantiq ‛ind al-Farabi*, Majid Fakhry (ed.), Beirut: Dar al-Mashreq.
+[^asín-1987]: –––, 1987, *Ta‛aliq Ibn Bâjja ‛alà l-burhan*, in *Al-Mantiq ‛ind al-Farabi*, Majid Fakhry (ed.), Beirut: Dar al-Mashreq.
 
-[^books-1999a]: –––, 1999a, *Sharh al-Athar al-῾Ulwiyya li-Bn Bâjja*, Muhammad Musa῾id (ed.), Fez. Dafatir majmu῾at al-bahth fi l-falsafa al-islamiyya 5, pp. 9–85.
+[^asín-1999a]: –––, 1999a, *Sharh al-Athar al-῾Ulwiyya li-Bn Bâjja*, Muhammad Musa῾id (ed.), Fez. Dafatir majmu῾at al-bahth fi l-falsafa al-islamiyya 5, pp. 9–85.
 
-[^books-1999b]: –––, 1999b, *Kitab an-Nafs*, Jamal Rashaq (ed.), Fez. Dafatir majmu῾at al-bahth fi l-falsafa al-islamiyya 5, pp. 86–211.
+[^asín-1999b]: –––, 1999b, *Kitab an-Nafs*, Jamal Rashaq (ed.), Fez. Dafatir majmu῾at al-bahth fi l-falsafa al-islamiyya 5, pp. 86–211.
 
-[^books-2006a]: –––, 2006a, *Risalat al-wida*‛*. Carta del adiós y otros tratados filosóficos*, Spanish translation by Joaquín Lomba. Madrid: Trotta.
+[^asín-2006a]: –––, 2006a, *Risalat al-wida*‛*. Carta del adiós y otros tratados filosóficos*, Spanish translation by Joaquín Lomba. Madrid: Trotta.
 
-[^books-2006b]: –––, 2006b, *Irtiyaḍ fi Kitab at-Tahlil*, Muhammad Alwuzad, ῾Abd al-῾Aziz Lam῾ul, Muhammad Musa῾id, Jamal Rashaq (eds.), Dafatir majmu῾at al-bahth fi l-falsafa al-islamiyya 5.
+[^asín-2006b]: –––, 2006b, *Irtiyaḍ fi Kitab at-Tahlil*, Muhammad Alwuzad, ῾Abd al-῾Aziz Lam῾ul, Muhammad Musa῾id, Jamal Rashaq (eds.), Dafatir majmu῾at al-bahth fi l-falsafa al-islamiyya 5.
 
-[^books-2009]: –––, 2009, *Kalam fì l-qiyas*, Muhammad Musa῾id, Muhammad Abu Hafs, Jamal Rashaq. Fez (eds), Dafatir majmu῾at al-bahth fi l-falsafa al-islamiyya 6.
+[^asín-2009]: –––, 2009, *Kalam fì l-qiyas*, Muhammad Musa῾id, Muhammad Abu Hafs, Jamal Rashaq. Fez (eds), Dafatir majmu῾at al-bahth fi l-falsafa al-islamiyya 6.
 
-[^books-2021]: –––, 2021, *Commentary on Aristotle’s* On generation and corruption. Critical edition and translation with an introduction and glossaries by Corrado la Martire, Berlin : De Gruyter.
+[^asín-2021]: –––, 2021, *Commentary on Aristotle’s* On generation and corruption. Critical edition and translation with an introduction and glossaries by Corrado la Martire, Berlin : De Gruyter.
 
 [^ahwani-1951]: Ahwani, Ahmad Fu’ad, 1951, “Risalat al-ittisal li-Abi Bakr ibn as-Sa’igh”, in *Talkhis kitab an-nafs li-Abi l-Walid Ibn Rushd wa-arba‛ rasa’il*, Cairo: Maktabat an-Nahḍa al-Misriyya, pp. 102–118.
 
@@ -910,7 +910,7 @@ Philoponus’ comments in Arabic have been partially translated into English by 
 
 [^taylor-1982]: Taylor, Richard C., 1982, “Neoplatonic Texts in Turkey”, *Mélanges de l’Institut Dominicain d’Études Orientales*, 15: 251–264.
 
-[^wirmer-2014]: Wirmer, David, 2014, *Vom Denken der Natur zur Natur des Denkens*, (Scientia Graeco-Arabica 13), Berlin: De Gruyter.
+[^wirmer-2014-2]: Wirmer, David, 2014, *Vom Denken der Natur zur Natur des Denkens*, (Scientia Graeco-Arabica 13), Berlin: De Gruyter.
 
 [^wirmer-2025]: –––, 2025, “Ibn Bājja,” in *Philosophie in der islamischen Welt*, Band 2: *11. und 12. Jahrhundert*, Halbband 2/2: *Westliche Gebiete*, Basel: Schwabe Verlag, pp. 21–102.
 

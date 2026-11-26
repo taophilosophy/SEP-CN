@@ -221,15 +221,9 @@ The following editions of Nietzsche’s works have been referenced. Translations
 
 **[SB]**
 
-*Sämtliche Briefe: kritische Studienausgabe*, edited by Giorgio Colli and Mazzino Montinari. Berlin: Walter de Gruyter, 1975–84.
-
 **[FS]**
 
-*Frühe Schriften*, 5 volumes, Mette and Schlechta (eds.), Munich: C.H. Beck, 1994.
-
 **[WEN]**
-
-*Writings from the Early Notebooks*, Nehamas and Geuss (eds.), Löb (trans.), Cambridge: Cambridge University Press, 2009.
 
 ### Abbreviations of Nietzsche’s Works
 
@@ -308,6 +302,12 @@ Where helpful for locating a particular passage, references have also been given
 ## Related Entries
 
 aesthetics: 19th Century Romantic | aesthetics: aesthetic judgment | Aristotle, General Topics: aesthetics | art and ethical value | Kant, Immanuel | music: history of western philosophy of, since 1800 | Nietzsche, Friedrich | paradox of tragedy | Plato | Schelling, Friedrich Wilhelm Joseph von | Schiller, Friedrich | Schlegel, Friedrich | Schopenhauer, Arthur | Schopenhauer, Arthur: aesthetics
+
+[^sämtliche-1975]: *Sämtliche Briefe: kritische Studienausgabe*, edited by Giorgio Colli and Mazzino Montinari. Berlin: Walter de Gruyter, 1975–84.
+
+[^frühe-1994]: *Frühe Schriften*, 5 volumes, Mette and Schlechta (eds.), Munich: C.H. Beck, 1994.
+
+[^writings-2009]: *Writings from the Early Notebooks*, Nehamas and Geuss (eds.), Löb (trans.), Cambridge: Cambridge University Press, 2009.
 
 [^aristotle-1985]: Aristotle, [*CW*], *The Complete Works of Aristotle*, vol. 2, Barnes (ed.), Princeton, NJ: Princeton University Press, 1985.
 

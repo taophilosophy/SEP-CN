@@ -307,19 +307,19 @@ Chinese Philosophy: Mohism | Confucius | Mencius
 
 [^note-14]: Akin to the Greek concept of *philia*, the term *you* 友 is used to cover a wide range of associations from kinship, civil/political alliance, to erotic attachment in various classics; see for instance, *Shujing*, “*Dagao*”, “*Shaogao*”, “*Mushi*”, “*Kanggao*” and “*Junchen*” chapters; *Shijing*, Song 1 “*Guanju*” and Song 165 “*Famu*”.
 
-[^baihutong-1949]: [*Baihutong*](https://ctext.org/bai-hu-tong) (白虎通) [The Comprehensive Discussions in the White Tiger Hall], [[ available online ](https://ctext.org/bai-hu-tong)], compiled by Ban Gu (32–92 CE). For a translation see Tjan 1949 [1952]*.*
+[^comprehensive-1949]: [*Baihutong*](https://ctext.org/bai-hu-tong) (白虎通) [The Comprehensive Discussions in the White Tiger Hall], [[ available online ](https://ctext.org/bai-hu-tong)], compiled by Ban Gu (32–92 CE). For a translation see Tjan 1949 [1952]*.*
 
-[^chunqiu-2003]: [*Chunqiu fanlu*](https://ctext.org/chun-qiu-fan-lu) (春秋繁露) (*Luxurious Dews of the Spring and Autumn*), [[ available online](https://ctext.org/chun-qiu-fan-lu)], by Dong Zhongshu (2ⁿᵈ century BCE). For a partial translation see Csikszentmihalyi 2003.
+[^luxurious-2003]: [*Chunqiu fanlu*](https://ctext.org/chun-qiu-fan-lu) (春秋繁露) (*Luxurious Dews of the Spring and Autumn*), [[ available online](https://ctext.org/chun-qiu-fan-lu)], by Dong Zhongshu (2ⁿᵈ century BCE). For a partial translation see Csikszentmihalyi 2003.
 
 [^dadai-nd]: *Dadai liji* (大戴禮記) [The Rite by Dai De] [available online: https://ctext.org/da-dai-li-ji], by Dai De (c. 1st century BCE).
 
-[^daodejing-1964]: [*Daodejing*](https://ctext.org/dao-de-jing) (道德經) (*Laozi*) [[available online](https://ctext.org/dao-de-jing)]. For a translation see Lau 1964; also see Hall and Ames 2003.
+[^laozi-1964]: [*Daodejing*](https://ctext.org/dao-de-jing) (道德經) (*Laozi*) [[available online](https://ctext.org/dao-de-jing)]. For a translation see Lau 1964; also see Hall and Ames 2003.
 
 [^hanshi-nd]: *Hanshi waizhuan* (韓詩外傳) [The Outer Commentary to the *Book of Songs* by Master Han] [[available online](https://ctext.org/han-shi-wai-zhuan)], by Han Ying (2nd century BCE text).
 
 [^jiutang-nd]: *Jiutang shu* (舊唐書) [Old History of Tang] [[available online](https://ctext.org/wiki.pl?if=en&res=456206)], by Liu Xu (c. 888–947 CE).
 
-[^kongzi-1950]: [*Kongzi Jiayu*](https://ctext.org/kongzi-jiayu) (孔子家語) [Family Sayings of Confucius] [[available online](https://ctext.org/kongzi-jiayu)], by Wang Su, a Han text. For a translation see Kramers 1950.
+[^family-1950]: [*Kongzi Jiayu*](https://ctext.org/kongzi-jiayu) (孔子家語) [Family Sayings of Confucius] [[available online](https://ctext.org/kongzi-jiayu)], by Wang Su, a Han text. For a translation see Kramers 1950.
 
 [^lienü-2014]: *Lienü zhuan* (列女傳) (*Exemplary Women’s Biographies*) [[available online](https://ctext.org/lie-nv-zhuan)], by Liu Xiang (c. 18 BCE). For a translation see Kinney 2014.
 
@@ -353,7 +353,7 @@ Chinese Philosophy: Mohism | Confucius | Mencius
 
 [^shuoyuan-2022]: *Shuoyuan* (說苑) [Garden of Persuasions] [[available online](https://ctext.org/shuo-yuan)], by Liu Xiang (c.17 BCE). For a translation see Henry 2022.
 
-[^shuowen-nd]: [*Shuowen Jiezi*](https://ctext.org/shuo-wen-jie-zi) (說文解字) [Discussing Writings and Explaining Characters] [[available online](https://ctext.org/shuo-wen-jie-zi)], by Xu Shen (c. 58–148 CE, ed.).
+[^discussing-nd]: [*Shuowen Jiezi*](https://ctext.org/shuo-wen-jie-zi) (說文解字) [Discussing Writings and Explaining Characters] [[available online](https://ctext.org/shuo-wen-jie-zi)], by Xu Shen (c. 58–148 CE, ed.).
 
 [^xiaojing-2008]: *Xiaojing* (孝經) [Book of Filiality] [available online: https://ctext.org/xiao-jing] (4th-3rd century BCE text). For a translation see Ames and Rosemont 2008.
 

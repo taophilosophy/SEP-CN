@@ -253,23 +253,23 @@ All works below are by Antonio Gramsci.
 
 Croce, Benedetto: aesthetics | Hegel, Georg Wilhelm Friedrich | Marx, Karl | socialism
 
-[^fspn-1995]: [FSPN] *Further Selections from the Prison Notebooks*, Derek Boothman (ed./tran.), Minneapolis, MN: University of Minnesota Press, 1995.
+[^further-1995]: [FSPN] *Further Selections from the Prison Notebooks*, Derek Boothman (ed./tran.), Minneapolis, MN: University of Minnesota Press, 1995.
 
-[^gpl-1988]: [GPL] *Gramsci’s Prison Letters: A Selection*, Hamish Henderson (trans.), London: Zwan Publications, 1988.
+[^gramsci’s-1988]: [GPL] *Gramsci’s Prison Letters: A Selection*, Hamish Henderson (trans.), London: Zwan Publications, 1988.
 
-[^gtw-1908]: [GTW] *A Great and Terrible World: The Pre-Prison Letters 1908–1926*, Derek Boothman (ed./tran.), London: Lawrence and Wishart, 2014.
+[^great-1908]: [GTW] *A Great and Terrible World: The Pre-Prison Letters 1908–1926*, Derek Boothman (ed./tran.), London: Lawrence and Wishart, 2014.
 
-[^ppw-1994]: [PPW] *Antonio Gramsci: Pre-Prison Writings*, Richard Bellamy (ed.), Virginia Cox (trans.), (Cambridge Texts in the History of Political Thought), Cambridge/New York: Cambridge University Press, 1994.
+[^antonio-1994]: [PPW] *Antonio Gramsci: Pre-Prison Writings*, Richard Bellamy (ed.), Virginia Cox (trans.), (Cambridge Texts in the History of Political Thought), Cambridge/New York: Cambridge University Press, 1994.
 
-[^qc-1975]: [QC] *Quaderni del Carcere*, Valentino Gerratana (ed.), 4 vols, (Nuova Universale Einaudi. Nuova Serie, 1), Torino: G.Einaudi, 1975.
+[^quaderni-1975]: [QC] *Quaderni del Carcere*, Valentino Gerratana (ed.), 4 vols, (Nuova Universale Einaudi. Nuova Serie, 1), Torino: G.Einaudi, 1975.
 
-[^scw-1985]: [SCW] *Selections from Cultural Writings*, David Forgacs and Geoffrey Nowell-Smith (eds.), William Boelhower (trans.), Cambridge, MA: Harvard University Press, 1985.
+[^selections-1985]: [SCW] *Selections from Cultural Writings*, David Forgacs and Geoffrey Nowell-Smith (eds.), William Boelhower (trans.), Cambridge, MA: Harvard University Press, 1985.
 
-[^spn-1971]: [SPN] *Selections from the Prison Notebooks of Antonio Gramsci*, Quintin Hoare and Geoffrey Nowell-Smith (eds/trans), London: Lawrence & Wishart, 1971.
+[^selections-1971]: [SPN] *Selections from the Prison Notebooks of Antonio Gramsci*, Quintin Hoare and Geoffrey Nowell-Smith (eds/trans), London: Lawrence & Wishart, 1971.
 
-[^spwi-1910]: [SPWI] *Selections from Political Writings (1910–1920)*, Quintin Hoare (ed.), John Mathews (trans.), London: Lawrence and Wishart, 1977.
+[^selections-1910]: [SPWI] *Selections from Political Writings (1910–1920)*, Quintin Hoare (ed.), John Mathews (trans.), London: Lawrence and Wishart, 1977.
 
-[^spwii-1921]: [SPWII] *Selections from Political Writings (1921–1926)*, Quintin Hoare (ed./tran.), London: Lawrence and Wishart, 1978.
+[^selections-1921]: [SPWII] *Selections from Political Writings (1921–1926)*, Quintin Hoare (ed./tran.), London: Lawrence and Wishart, 1978.
 
 [^anderson-1976]: Anderson, Perry, 1976, *Considerations on Western Marxism*, London: NLB.
 

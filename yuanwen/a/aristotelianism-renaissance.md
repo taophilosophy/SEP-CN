@@ -196,7 +196,7 @@ Arabic and Islamic Philosophy, historical and methodological topics in: influenc
 
 [^vermigli-2011]: –––, 2011. *Kommentar zur Nikomachischen Ethik des Aristoteles* (Studies in Medieval and Reformation Traditions: Texts & Sources), Luca Baschera and Christian Moser (eds.), Leiden: Brill.
 
-[^ckr-1948]: [CKR] Cassirer, Ernst, Paul Oskar Kristeller, and John Herman Randall, Jr. (eds.), 1948, *The Renaissance Philosophy of Man: Petrarca, Valla, Ficino, Pico, Pomponazzi, Vives*, Chicago, IL: University of Chicago Press.
+[^cassirer-1948]: [CKR] Cassirer, Ernst, Paul Oskar Kristeller, and John Herman Randall, Jr. (eds.), 1948, *The Renaissance Philosophy of Man: Petrarca, Valla, Ficino, Pico, Pomponazzi, Vives*, Chicago, IL: University of Chicago Press.
 
 [^kraye-1997]: Kraye, Jill (ed.), 1997, *Cambridge Translations of Renaissance Philosophical Texts*, 2 volumes, Cambridge: Cambridge University Press. doi:10.1017/CBO9780511803048
 

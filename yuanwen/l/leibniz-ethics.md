@@ -208,7 +208,7 @@ The author is indebted to Saja Parvizian for his help in producing the Bibliogra
 
 [^descartes-nd]: Descartes, René
 
-[^csm-1985]: [**CSM I**] *The Philosophical Writings of Descartes,*translated by John Cottingham, Robert Stoothoff, and Dugald Murdoch. Cambridge: Cambridge University Press, 1985. [**CSMK**] *The Philosophical Writings of Descartes: The Correspondence* (Vol III), translated by John Cottingham, Robert Stoothoff, Dugald Murdoch, and Anthony Kenny. Cambridge: Cambridge University Press, 1991.
+[^philosophical-1985]: [**CSM I**] *The Philosophical Writings of Descartes,*translated by John Cottingham, Robert Stoothoff, and Dugald Murdoch. Cambridge: Cambridge University Press, 1985. [**CSMK**] *The Philosophical Writings of Descartes: The Correspondence* (Vol III), translated by John Cottingham, Robert Stoothoff, Dugald Murdoch, and Anthony Kenny. Cambridge: Cambridge University Press, 1991.
 
 [^leibniz-nd]: Leibniz, G. W.
 

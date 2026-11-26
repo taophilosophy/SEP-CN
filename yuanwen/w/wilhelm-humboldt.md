@@ -157,8 +157,6 @@ A comprehensive account and just assessment of Humboldt’s achievements in phil
 
 **1841–52**
 
-*Gesammelte Werke*, Carl Brandes (ed.), 7 vols, Berlin: G. Reimer. Reprint Berlin: De Gruyer, 1988.
-
 **1883–84**
 
 *Die Sprachphilosophischen Werke Wilhelm von Humboldts*, 2 vols, Heymann Steinthal (ed.), Berlin: F. Dümmler.
@@ -181,13 +179,9 @@ A comprehensive account and just assessment of Humboldt’s achievements in phil
 
 **1994–**
 
-*Schriften zur Sprachwissenschaft* (*Writings on Linguistics*), edited by Kurt Mueller-Vollmer in cooperation with Tilman Borsche, Bernhard Hurch, Manfred Ringmacher, Jürgen Trabant, and Gordon Whittaker. Sponsored by the Berlin Brandenburg Academy of Sciences, Paderborn, München, Wien, Zürich: Schöningh Verlag. For an overview of the plan and structure of this edition, see [note 6](notes.html#note-6). Appeared so far or about to appear, by part (*Abteilung*) and volume (*Band*): Abt. 2. Bd. 1. *Schriften zur Anthropologie der Basken*, with introduction and commentary, Bernhard Hurch (ed.), 2010, VIII + 432 pages. Abt. 2. Bd. 2. *Baskische Wortstudien und Grammatik*, with introduction and commentary, Bernhard Hurch (ed.), 2012, XIII + 427 pages. Abt. 2. Bd. 3. *Schriften zur Geschichte und Frühgeschichte der Basken und des Baskischen*, with introduction and commentary, 2022, Bernhard Hurch (ed.), [forthcoming]. Abt. 3. Bd. 1. *Einleitende und vergleichende Amerikanische Arbeiten*, with introduction and commentary, Manfred Ringmacher (ed.), VIII + 496 pages. Abt. 3. Bd. 2. *Mexicanische Grammatik*, with introduction and commentary, Manfred Ringmacher (ed.), 1994, VIII + 352 pages. Abt. 3. Bd. 3. *Wörterbuch der Mexicanischen Sprache / Eduard Buschmann und Wilhelm von Humboldt*, with introduction and commentary, Manfred Ringmacher (ed.), 2000, LXXVI + 1,034 pages. Abt. 3. Bd. 4. *Mittelamerikanische Grammatiken*, Manfred Ringmacher and Ute Tintemann (eds.), 2009, VII + 388 pages. Abt. 3, Bd. 5. *Südamerikanische Grammatiken*, Note: Summaries in English and Spanish, Manfred Ringmacher and Ute Tintemann (eds.), 2011, VII + 727 pages. Abt. 3, Bd. 6. *Nordamerikanische Grammatiken*, with introduction and commentary, Micaela Verlato (ed.), 2013, X + 427 pages. Abt. 4. Bd. 1. *Von den Sprachen Amerikas zum allgemeinen Typus der Sprache*, with introduction and commentary, Bettina Lindorfer and Jürgen Trabant (eds.), 2017, VI + 293 pages. Abt. 6. Bd. 1. *Südsee- und Südostasiatische Sprachen / Vorarbeiten zu “Über die Kawi-Sprache...”*, with introduction and commentary, Ulrike Folie et.al. (eds.), 2017, VI + 675 pages.
-
 #### English Translations
 
 **1854**
-
-*The Spheres and Duties of Government*, translated from the German by Joseph Coulthard, London: Chapman. Reprint: Bristol: Thoemmes Press, 1994
 
 **1997**
 
@@ -203,11 +197,7 @@ A comprehensive account and just assessment of Humboldt’s achievements in phil
 
 **2006**
 
-“Korrespondenz von Wilhelm von Humboldt mit Jean-Louis Burnouf und Eugène Burnouf”, in Sarah Bösch, *Wilhelm vom Humboldt in Frankreich. Studien zur Rezeption (1797–2005)*, Paderborn, München, Wien, Zürich: F. Schöningh, pp. 253–275.
-
 **2008**
-
-“Erstedition des Briefwechsel zwischen WvH und Jean-François Champollion le Jeune (1824–1827)”, in Markus Messling, *Pariser Orientlektüren. Zu Wilhelm von Humboldts Theorie der Schrift*, Paderborn, München, Wien, Zürich: F.Schöningh, pp. 313–400.
 
 **2013**
 
@@ -251,8 +241,6 @@ There is as yet no complete edition of Humboldt’s correspondence.
 
 **1916–17**
 
-*Wilhelm von Humboldt und Frau von Staël*, Albert Leitzmann (ed.), Deutsche Rundschau, Vol 169 (1916), 95–112, 271–280, 431–442; Vol 170 (1917), 95–108, 256–266, 425–435; Vol 171 (1917), 82–95.
-
 **1936**
 
 *Georg und Therese Forster und die Brüder v. Humboldt Urkunden und Umrisse*, Albert Leitzmann (ed.), Bonn: Röhrscheid.
@@ -279,11 +267,7 @@ There is as yet no complete edition of Humboldt’s correspondence.
 
 **1999**
 
-*Lettres édifiantes et curieuses sur la langue chinoise: un débat philosophico-grammatical entre Wilhelm von Humboldt et Jean-Pierre Abel-Rémusat (1821–1831)*, Jean Rousseau and Denis Thouard (eds.), with new correspondence of Humboldt (1824–1831), introduction by Jean Rousseau, Villeneuve-d’Ascq: Presses universitaires du Septentrion.
-
 **2014–**
-
-*Briefe. Historisch-kritische Ausgabe*, Philipp Mattson (ed.), Berlin/New York: De Gruyter. Bd. 1: 1781–1791 (2014), Bd. 2: 1791–1795 (2015), Bd. 3: 1795–1797 (2016)
 
 ### Secondary Literature
 
@@ -344,6 +328,22 @@ The editors would like to thank Cord-Friedrich Berghahn for working on the 2022 
 So far 6 volumes have appeared, see Works.
 
 The edition is published by the Schöningh Verlag, Paderborn, Wien, and Zürich and produced under the auspices of the Berlin-Brandenburg Academy of Sciences (Berlin-Brandenburgische Akademie der Wissenschaften). The project is sponsored by the Deutsche Forschungsgemeinschaft (German Research Council). See the Other Internet Resources for the website of the editorial working group.
+
+[^gesammelte-1988]: *Gesammelte Werke*, Carl Brandes (ed.), 7 vols, Berlin: G. Reimer. Reprint Berlin: De Gruyer, 1988.
+
+[^schriften-2010]: *Schriften zur Sprachwissenschaft* (*Writings on Linguistics*), edited by Kurt Mueller-Vollmer in cooperation with Tilman Borsche, Bernhard Hurch, Manfred Ringmacher, Jürgen Trabant, and Gordon Whittaker. Sponsored by the Berlin Brandenburg Academy of Sciences, Paderborn, München, Wien, Zürich: Schöningh Verlag. For an overview of the plan and structure of this edition, see [note 6](notes.html#note-6). Appeared so far or about to appear, by part (*Abteilung*) and volume (*Band*): Abt. 2. Bd. 1. *Schriften zur Anthropologie der Basken*, with introduction and commentary, Bernhard Hurch (ed.), 2010, VIII + 432 pages. Abt. 2. Bd. 2. *Baskische Wortstudien und Grammatik*, with introduction and commentary, Bernhard Hurch (ed.), 2012, XIII + 427 pages. Abt. 2. Bd. 3. *Schriften zur Geschichte und Frühgeschichte der Basken und des Baskischen*, with introduction and commentary, 2022, Bernhard Hurch (ed.), [forthcoming]. Abt. 3. Bd. 1. *Einleitende und vergleichende Amerikanische Arbeiten*, with introduction and commentary, Manfred Ringmacher (ed.), VIII + 496 pages. Abt. 3. Bd. 2. *Mexicanische Grammatik*, with introduction and commentary, Manfred Ringmacher (ed.), 1994, VIII + 352 pages. Abt. 3. Bd. 3. *Wörterbuch der Mexicanischen Sprache / Eduard Buschmann und Wilhelm von Humboldt*, with introduction and commentary, Manfred Ringmacher (ed.), 2000, LXXVI + 1,034 pages. Abt. 3. Bd. 4. *Mittelamerikanische Grammatiken*, Manfred Ringmacher and Ute Tintemann (eds.), 2009, VII + 388 pages. Abt. 3, Bd. 5. *Südamerikanische Grammatiken*, Note: Summaries in English and Spanish, Manfred Ringmacher and Ute Tintemann (eds.), 2011, VII + 727 pages. Abt. 3, Bd. 6. *Nordamerikanische Grammatiken*, with introduction and commentary, Micaela Verlato (ed.), 2013, X + 427 pages. Abt. 4. Bd. 1. *Von den Sprachen Amerikas zum allgemeinen Typus der Sprache*, with introduction and commentary, Bettina Lindorfer and Jürgen Trabant (eds.), 2017, VI + 293 pages. Abt. 6. Bd. 1. *Südsee- und Südostasiatische Sprachen / Vorarbeiten zu “Über die Kawi-Sprache...”*, with introduction and commentary, Ulrike Folie et.al. (eds.), 2017, VI + 675 pages.
+
+[^spheres-1994]: *The Spheres and Duties of Government*, translated from the German by Joseph Coulthard, London: Chapman. Reprint: Bristol: Thoemmes Press, 1994
+
+[^korrespondenz-1797]: “Korrespondenz von Wilhelm von Humboldt mit Jean-Louis Burnouf und Eugène Burnouf”, in Sarah Bösch, *Wilhelm vom Humboldt in Frankreich. Studien zur Rezeption (1797–2005)*, Paderborn, München, Wien, Zürich: F. Schöningh, pp. 253–275.
+
+[^erstedition-1824]: “Erstedition des Briefwechsel zwischen WvH und Jean-François Champollion le Jeune (1824–1827)”, in Markus Messling, *Pariser Orientlektüren. Zu Wilhelm von Humboldts Theorie der Schrift*, Paderborn, München, Wien, Zürich: F.Schöningh, pp. 313–400.
+
+[^wilhelm-1916]: *Wilhelm von Humboldt und Frau von Staël*, Albert Leitzmann (ed.), Deutsche Rundschau, Vol 169 (1916), 95–112, 271–280, 431–442; Vol 170 (1917), 95–108, 256–266, 425–435; Vol 171 (1917), 82–95.
+
+[^lettres-1821]: *Lettres édifiantes et curieuses sur la langue chinoise: un débat philosophico-grammatical entre Wilhelm von Humboldt et Jean-Pierre Abel-Rémusat (1821–1831)*, Jean Rousseau and Denis Thouard (eds.), with new correspondence of Humboldt (1824–1831), introduction by Jean Rousseau, Villeneuve-d’Ascq: Presses universitaires du Septentrion.
+
+[^briefe-1781]: *Briefe. Historisch-kritische Ausgabe*, Philipp Mattson (ed.), Berlin/New York: De Gruyter. Bd. 1: 1781–1791 (2014), Bd. 2: 1791–1795 (2015), Bd. 3: 1795–1797 (2016)
 
 [^goedeke-1959]: Goedeke, Karl, 1959, *Grundriss zur Geschichte der Deutschen Dichtunge*, Vol 14, 2ⁿᵈ revised edition, Dresden: Ehlermann, pp. 502–78, 1015–16.
 

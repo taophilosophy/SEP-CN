@@ -308,11 +308,11 @@ aesthetics: German, in the 18th century | Châtelet, Émilie du | German Philoso
 
 [^wolff-christian-1710]: 1710, *Der Anfangs-Gründe aller mathematischen Wissenschafften* (Elements of All the Mathematical Sciences), Halle.
 
-[^gl-1713]: [GL] 1713, *Vernünftige Gedanken von den Kräften des menschlichen Verstandes und ihrem richtigen Gebrauch in der Erkenntnis der Wahrheit* (Rational Thoughts on the Powers of the Human Understanding and its Proper Use in the Cognition of Truth), Halle. 14ᵗʰ edition [1754] reprinted with an introduction by Hans Werner Arndt in *Christian Wolff, Gesammelte Werke*, 1.Abt., Deutsche Schriften, Bd.1. Hildesheim: Olms, 1965.
+[^wolff-christian-1713]: [GL] 1713, *Vernünftige Gedanken von den Kräften des menschlichen Verstandes und ihrem richtigen Gebrauch in der Erkenntnis der Wahrheit* (Rational Thoughts on the Powers of the Human Understanding and its Proper Use in the Cognition of Truth), Halle. 14ᵗʰ edition [1754] reprinted with an introduction by Hans Werner Arndt in *Christian Wolff, Gesammelte Werke*, 1.Abt., Deutsche Schriften, Bd.1. Hildesheim: Olms, 1965.
 
-[^gm-1719]: [GM] 1719/20, *Vernünftige Gedanken von Gott, der Welt und der Seele des Menschen, auch allen Dingen überhaupt* (Rational Thoughts on God, the World and the Soul of Man, and on All Things in General), Halle. 7th edition [1751] reprinted with introduction by Charles A. Corr in *Christian Wolff, Gesammelte Werke*, 1.Abt., Deutsche Schriften, Bd.3. Hildesheim: Olms, 1983.
+[^wolff-christian-1719]: [GM] 1719/20, *Vernünftige Gedanken von Gott, der Welt und der Seele des Menschen, auch allen Dingen überhaupt* (Rational Thoughts on God, the World and the Soul of Man, and on All Things in General), Halle. 7th edition [1751] reprinted with introduction by Charles A. Corr in *Christian Wolff, Gesammelte Werke*, 1.Abt., Deutsche Schriften, Bd.3. Hildesheim: Olms, 1983.
 
-[^ge-1720]: [GE] 1720, *Vernünftige Gedanken von der Menschen Thun und Lassen zur Beförderung ihrer Glückseligkeit* (Rational Thoughts on Human Action and Omission with a View to Promoting his Happiness), Halle.
+[^wolff-christian-1720]: [GE] 1720, *Vernünftige Gedanken von der Menschen Thun und Lassen zur Beförderung ihrer Glückseligkeit* (Rational Thoughts on Human Action and Omission with a View to Promoting his Happiness), Halle.
 
 [^wolff-christian-1721]: 1721, *Vernünftige Gedanken von dem gesellschaftlichen Leben der Menschen, und insonderheit dem gemeinen Wesen* (Rational Thoughts on the Social Life of the Human Being, and in particular on the Commonwealth), Halle.
 
@@ -328,25 +328,25 @@ aesthetics: German, in the 18th century | Châtelet, Émilie du | German Philoso
 
 [^wolff-christian-1709]: 1709, *Aërometriæ elementa*, Leipzig.
 
-[^wolff-christian-1713]: 1713–15, *Elementa matheseos universae* (Elements of All the Mathematical Sciences), 2 vols. Halle.
+[^wolff-christian-1713-2]: 1713–15, *Elementa matheseos universae* (Elements of All the Mathematical Sciences), 2 vols. Halle.
 
 [^wolff-christian-1716]: 1716, *Mathematisches Lexicon* (Mathematical Lexicon), Leipzig.
 
 [^wolff-christian-1718]: 1718, *Ratio prælectionum Wolfianarum*, Halle.
 
-[^ll-1728]: [LL] 1728, *Philosophia rationalis sive Logica, methodo scientifica pertractata, et ad usum scientiarum. atque vitae aptata. Praemittitur discursus praeliminaris de philosophia in genere* (Rational Philosophy, or Logic), Frankfurt. Includes
+[^wolff-christian-1728]: [LL] 1728, *Philosophia rationalis sive Logica, methodo scientifica pertractata, et ad usum scientiarum. atque vitae aptata. Praemittitur discursus praeliminaris de philosophia in genere* (Rational Philosophy, or Logic), Frankfurt. Includes
 
-[^dp-nd]: [DP] *Discursus praeliminaris de philosophia in genere* (Preliminary Discourse on Philosophy in General)
+[^discursus-nd]: [DP] *Discursus praeliminaris de philosophia in genere* (Preliminary Discourse on Philosophy in General)
 
-[^ont-1730]: [Ont.] 1730, *Philosophia prima sive ontologia methodo scientifica pertractata qua omnis cognitionis humanae principia continentur* (First Philosophy, or Ontology), Frankfurt.
+[^wolff-christian-1730]: [Ont.] 1730, *Philosophia prima sive ontologia methodo scientifica pertractata qua omnis cognitionis humanae principia continentur* (First Philosophy, or Ontology), Frankfurt.
 
-[^cosm-1731]: [Cosm.] 1731, *Cosmologia generalis methodo scientifica pertractata, qua ad solidam imprimis Dei atque naturae cognitionem via sternitur* (General Cosmology), Frankfurt and Leipzig.
+[^wolff-christian-1731]: [Cosm.] 1731, *Cosmologia generalis methodo scientifica pertractata, qua ad solidam imprimis Dei atque naturae cognitionem via sternitur* (General Cosmology), Frankfurt and Leipzig.
 
-[^ep-1732]: [EP] 1732, *Psychologia empirica methodo scientifica pertractata, qua ea quae de anima humana indubia experientiae fide constant, continentur* (Empirical Psychology), Frankfurt and Leipzig.
+[^wolff-christian-1732]: [EP] 1732, *Psychologia empirica methodo scientifica pertractata, qua ea quae de anima humana indubia experientiae fide constant, continentur* (Empirical Psychology), Frankfurt and Leipzig.
 
-[^rp-1734]: [RP] 1734, *Psychologia rationalis methodo scientifica pertractata, qua ea, quae de anima humana indubia experientiae fide innotescunt* (Rational Psychology), Frankfurt.
+[^wolff-christian-1734]: [RP] 1734, *Psychologia rationalis methodo scientifica pertractata, qua ea, quae de anima humana indubia experientiae fide innotescunt* (Rational Psychology), Frankfurt.
 
-[^nt-1736]: [NT] 1736–7, *Theologia naturalis scientifica pertractata* (Natural Theology), 2 vols., Frankfurt.
+[^wolff-christian-1736]: [NT] 1736–7, *Theologia naturalis scientifica pertractata* (Natural Theology), 2 vols., Frankfurt.
 
 [^wolff-christian-1738]: 1738–9, *Philosophia practica universalis methodo scientifica pertractata*, 2 vols. Frankfurt.
 
@@ -370,7 +370,7 @@ aesthetics: German, in the 18th century | Châtelet, Émilie du | German Philoso
 
 [^wolff-christian-2017]: 2017, *The Law of Nations Treated according to a Scientific Method*, translated by Joseph H. Drake, revised and edited by Thomas Ahnert, Carmel, IN: Liberty Fund. Translation of *Jus gentium methodo scientifica pertractatum* (1749).
 
-[^emgp-2019]: [EMGP] 2019, *Early Modern German Philosophy*, edited and translated by Corey W. Dyck, Oxford: Oxford University Press. Contains a translation of selections from Wolff’s *Vernünftige Gedanken von Gott, der Welt und der Seele des Menschen, auch allen Dingen überhaupt* (1729a/GM) and of Wolff’s “Refutation of Spinoza” from the *Theologia naturalis* (1736–7/NT).
+[^wolff-christian-2019]: [EMGP] 2019, *Early Modern German Philosophy*, edited and translated by Corey W. Dyck, Oxford: Oxford University Press. Contains a translation of selections from Wolff’s *Vernünftige Gedanken von Gott, der Welt und der Seele des Menschen, auch allen Dingen überhaupt* (1729a/GM) and of Wolff’s “Refutation of Spinoza” from the *Theologia naturalis* (1736–7/NT).
 
 [^wolff-christian-2022]: 2022, *First Philosophy, or Ontology. Treated according to the Scientific Method, containing the Principles of all Human Cognition. Part I §§1–78*. Translated, annotated, with an introduction by Klaus Ottmann. Thomason: Spring Publications.
 

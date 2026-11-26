@@ -5,7 +5,7 @@
 
 We generally think that the observations we make are able to justify some expectations or predictions about observations we have not yet made, as well as general claims that go beyond the observed. For example, the observation that bread of a certain appearance has thus far been nourishing seems to justify the expectation that the next similar piece of bread I eat will also be nourishing, as well as the claim that bread of this sort is generally nourishing. Such inferences from the observed to the unobserved, or to general laws, are known as “inductive inferences”.
 
-The original source of what has become known as the “problem of induction” is in Book 1, part iii, section 6 of *A Treatise of Human Nature* by David Hume, published in 1739 (Hume 1739)[^hume-1739]. In 1748, Hume gave a shorter version of the argument in Section iv of *An enquiry concerning human understanding* (Hume 1748). Throughout this article we will give references to the *Treatise* as “T”, and the *Enquiry* as “E”.
+The original source of what has become known as the “problem of induction” is in Book 1, part iii, section 6 of *A Treatise of Human Nature* by David Hume, published in 1739 (Hume 1739)[^hume-1739]. In 1748, Hume gave a shorter version of the argument in Section iv of *An enquiry concerning human understanding* (Hume 1748)[^hume-1748]. Throughout this article we will give references to the *Treatise* as “T”, and the *Enquiry* as “E”.
 
 Hume asks on what grounds we come to our beliefs about the unobserved on the basis of inductive inferences. He presents an argument in the form of a dilemma which appears to rule out the possibility of any reasoning from the premises to the conclusion of an inductive inference. There are, he says, two possible types of arguments, “demonstrative” and “probable”, but neither will serve. A demonstrative argument produces the wrong kind of conclusion, and a probable argument would be circular. Therefore, for Hume, the problem remains of how to explain why we form any conclusions that go beyond the past instances of which we have had experience (T. 1.3.6.10). Hume stresses that he is not disputing that we do draw such inferences. The challenge, as he sees it, is to understand the “foundation” of the inference—the “logic” or “process of argument” that it is based upon (E. 4.2.21). The problem of meeting this challenge, while evading Hume’s argument against the possibility of doing so, has become known as “the problem of induction”.
 
@@ -621,7 +621,7 @@ Particular thanks are due to Don Garrett and Tom Sterkenburg for helpful feedbac
 
 [^hume-1739]: [T] Hume, David, 1739, *A Treatise of Human Nature*, Oxford: Oxford University Press. (Cited by book.part.section.paragraph.)
 
-[^induction-problem-1748]: [E] –––, 1748, *An Enquiry Concerning Human Understanding*, Oxford: Oxford University Press. (Cited by section.part.paragraph.)
+[^hume-1748]: [E] –––, 1748, *An Enquiry Concerning Human Understanding*, Oxford: Oxford University Press. (Cited by section.part.paragraph.)
 
 [^jackson-2019]: Jackson, Alexander, 2019, “How to solve Hume’s problem of induction”, *Episteme* 16: 157–174.
 

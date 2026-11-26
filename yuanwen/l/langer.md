@@ -324,7 +324,7 @@ aesthetic experience | analysis | architecture, philosophy of | Cassirer, Ernst 
 
 [^langer-1939c]: 1939c, “Review of *The Doctrine of Signatures: A Defense of Theory in Medicine*, by Scott Buchanan”, *Ethics*, 49(2): 236–237. doi:10.1086/290075
 
-[^pnk-1942]: [PNK] 1942 [1957], *Philosophy in a New Key: A Study in the Symbolism of Reason, Rite and Art*, first edition, Cambridge, MA: Harvard University Press, 1942. Second edition, 1951. Third edition, 1957. [PNK references to 3rd edition, 1957.]
+[^langer-1942]: [PNK] 1942 [1957], *Philosophy in a New Key: A Study in the Symbolism of Reason, Rite and Art*, first edition, Cambridge, MA: Harvard University Press, 1942. Second edition, 1951. Third edition, 1957. [PNK references to 3rd edition, 1957.]
 
 [^langer-1943]: 1943, “Review of *Whitehead’s Theory of Knowledge*, by John Blyte”, *Mind*, 52(205): 84–85. doi:10.1093/mind/LII.205.84
 
@@ -354,7 +354,7 @@ aesthetic experience | analysis | architecture, philosophy of | Cassirer, Ernst 
 
 [^langer-1951c]: 1951c, “World Law and World Reform”, *The Antioch Review*, 11(4): 462–473. doi:10.2307/4609523
 
-[^ff-1953]: [FF] 1953, *Feeling and Form: A Theory of Art*, New York: Scribner.
+[^langer-1953]: [FF] 1953, *Feeling and Form: A Theory of Art*, New York: Scribner.
 
 [^langer-1956]: 1956, “On the Relations between Philosophy and Education”, *Harvard Educational Review*, 26(2): 139–141.
 
@@ -390,11 +390,11 @@ aesthetic experience | analysis | architecture, philosophy of | Cassirer, Ernst 
 
 [^langer-1967-2]: 1967–1982, *Mind: An Essay on Human Feeling*, 3 volumes, Baltimore, MD: Johns Hopkins Press.
 
-[^mehf-1967]: [MEHF I] 1967, Volume I [[Langer 1967 available online](https://staticweb.hum.uu.nl/susanne.k.langer/langerintentofmind.html)]
+[^langer-1967-3]: [MEHF I] 1967, Volume I [[Langer 1967 available online](https://staticweb.hum.uu.nl/susanne.k.langer/langerintentofmind.html)]
 
-[^mehf-1972]: [MEHF II] 1972, Volume II
+[^langer-1972]: [MEHF II] 1972, Volume II
 
-[^mehf-1982]: [MEHF III] 1982, Volume III
+[^langer-1982]: [MEHF III] 1982, Volume III
 
 [^langer-1974]: 1974, “De Profundis”, *Revue Internationale de Philosophie*, 28(110): 449–455.
 

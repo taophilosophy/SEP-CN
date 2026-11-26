@@ -382,7 +382,7 @@ The author would like to thank Ada Browowski, Pr Phillip Mitsis and Lex Paulson,
 
 [^spanish-2009]: A Spanish Translation, with introduction and notes, of the Philonian corpus, is edited under the responsibility of José Pablo Martín, by the Editorial Trotta in Madrid, under the title *Filón de Alejandría: Obras Completas*. Eight volumes are programmed in this series, five have been published, 2009–
 
-[^anrw-1984]: [ANRW II.21.1] Haase Wolfgang (ed.), *Hellenistisches Judentum in römischer Zeit. Philon und Josephus*, (ANRW [Aufstieg und Niedergang der römischen Welt], II 21.1), Berlin: Walter de Gruyter, 1984.
+[^haase-1984]: [ANRW II.21.1] Haase Wolfgang (ed.), *Hellenistisches Judentum in römischer Zeit. Philon und Josephus*, (ANRW [Aufstieg und Niedergang der römischen Welt], II 21.1), Berlin: Walter de Gruyter, 1984.
 
 [^cicero-1841]: Cicero, circa 51 BCE, *De re publica*, 6 books, translated by Francis Barham as “Treatise on the Commonwealth”, in *The Political Works of Marcus Tullius Cicero*, volume 1, London: Edmund Spettigue, 1841. Elsewhere translated as “Treatise on the Republic”. [[Treatise on the Commonwealth available online](http://oll.libertyfund.org/titles/cicero-treatise-on-the-commonwealth--5)]
 

@@ -353,31 +353,31 @@ Austin, John Langshaw | knowledge: analysis of | moral non-naturalism | percepti
 
 Thanks to Guy Longworth, whose comments greatly improved this entry, along with Benoît Castelnérac, Maxime Deschênes, Cora Diamond, Pascal Engel, Mark Kalderon, Vincent Lizotte, Alessandro Moscarítolo, Colin Tyler and two anonymous referees.
 
-[^as-1871]: [AS] *Aristotelian Studies I. On the Structure of the Seventh Book of the Nicomachean Ethics, ch. i–x*, Oxford, Clarendon Press, 1871, second edition, 1912.
+[^aristotelian-1871]: [AS] *Aristotelian Studies I. On the Structure of the Seventh Book of the Nicomachean Ethics, ch. i–x*, Oxford, Clarendon Press, 1871, second edition, 1912.
 
-[^asv-1880]: [ASV] ‘*Aristotelian Studies I. On the Structure of the Seventh Book of the Nicomachean Ethics, ch. i–x*, vom Verfasser’, *Göttingische gelehrte Anzeige*, April 14, 1880, pp. 449–474.
+[^aristotelian-1880]: [ASV] ‘*Aristotelian Studies I. On the Structure of the Seventh Book of the Nicomachean Ethics, ch. i–x*, vom Verfasser’, *Göttingische gelehrte Anzeige*, April 14, 1880, pp. 449–474.
 
-[^ipt-1889]: [IPT] *On the Interpretation of Plato’s Timaeus. Critical Studies with Reference to a Recent Edition*, Oxford, Clarendon Press, 1889.
+[^interpretation-1889]: [IPT] *On the Interpretation of Plato’s Timaeus. Critical Studies with Reference to a Recent Edition*, Oxford, Clarendon Press, 1889.
 
-[^eta-1889]: [ETA] *On an Evolutionist Theory of the Axioms, An Inaugural Lecture*, Oxford, Clarendon Press, 1889.
+[^evolutionist-1889]: [ETA] *On an Evolutionist Theory of the Axioms, An Inaugural Lecture*, Oxford, Clarendon Press, 1889.
 
-[^apt-1892]: [APT] ‘Apelt’s Pseudo-Aristotelian Treatises’, *The Classical Review* 6 (1892): pp. 16–19, 100–107, 156–162, 209–214, 441–446 & 7 (1893): 33–39.
+[^apelt’s-1892]: [APT] ‘Apelt’s Pseudo-Aristotelian Treatises’, *The Classical Review* 6 (1892): pp. 16–19, 100–107, 156–162, 209–214, 441–446 & 7 (1893): 33–39.
 
-[^ip-1900]: [IP] ‘Inverse or “a posteriori” Probability’, *Nature*, December 13, 1900, pp. 154–6. Reproduced partly as (SI, §§ 325–327).
+[^inverse-1900]: [IP] ‘Inverse or “a posteriori” Probability’, *Nature*, December 13, 1900, pp. 154–6. Reproduced partly as (SI, §§ 325–327).
 
-[^pbt-1901]: [PBT] ‘Probability—James Bernoulli’s Theorem’, *Nature*, March 14, 1901, pp. 465–6.
+[^probability-1901]: [PBT] ‘Probability—James Bernoulli’s Theorem’, *Nature*, March 14, 1901, pp. 465–6.
 
-[^gpp-1903]: [GPP] ‘On the Geometrical Problem in Plato’s *Meno*, 86e sqq.: With a Note on a Passage in the Treatise De Lineis Insecabilibus’, *The Journal of Philology*, January 1, 1903, pp. 222–240
+[^geometrical-1903]: [GPP] ‘On the Geometrical Problem in Plato’s *Meno*, 86e sqq.: With a Note on a Passage in the Treatise De Lineis Insecabilibus’, *The Journal of Philology*, January 1, 1903, pp. 222–240
 
-[^opd-1904]: [OPD] ‘On the Platonist Doctrine of the ἀσύμβλητοι ἀριθμοί’, *The Classical Review*, 18 (1904): 247–60.
+[^platonist-1904]: [OPD] ‘On the Platonist Doctrine of the ἀσύμβλητοι ἀριθμοί’, *The Classical Review*, 18 (1904): 247–60.
 
-[^tgf-1905]: [TGF] *On the Traversing of Geometrical Figures*, Oxford, Clarendon Press, 1905.
+[^traversing-1905]: [TGF] *On the Traversing of Geometrical Figures*, Oxford, Clarendon Press, 1905.
 
-[^clp-1905]: [CLP] ‘Lewis Carroll’s Logical Paradox’, *Mind*, 14 (1905): 292–293. With correction, *Mind*, 14 (1905): 439.
+[^lewis-1905]: [CLP] ‘Lewis Carroll’s Logical Paradox’, *Mind*, 14 (1905): 292–293. With correction, *Mind*, 14 (1905): 439.
 
-[^si-1926]: [SI] *Statement and Inference with other Philosophical Papers*, 2 vols., Oxford, Clarendon Press, 1926; reprint: Bristol 2002.
+[^statement-1926]: [SI] *Statement and Inference with other Philosophical Papers*, 2 vols., Oxford, Clarendon Press, 1926; reprint: Bristol 2002.
 
-[^ul-1913]: [UL] *Unpublished Lectures from 1913–1914* (Charlottesville VA, Intelex, 2005). Electronic edition in the Past Masters series [available online](http://www.nlx.com/collections/141).
+[^unpublished-1913]: [UL] *Unpublished Lectures from 1913–1914* (Charlottesville VA, Intelex, 2005). Electronic edition in the Past Masters series [available online](http://www.nlx.com/collections/141).
 
 [^for-1970]: For a complete list of Cook Wilson’s publications during his lifetime, see (SI, lxv–lxxii). Cook Wilson’s papers were deposited at the Bodleian Library, University of Oxford in 1970, ref. GB 161 MSS. Top. Oxon. c. 580–4, and a carbon copy of his lecture notes on Plato’s *The Republic*, that had been in possession of A. D. Woozley, was donated to the Houghton Library, Harvard University in 2008. Another such typescript was deposited among the papers of Percy William Dodd at Jesus College, Oxford (JC:F12/MS5/I).
 

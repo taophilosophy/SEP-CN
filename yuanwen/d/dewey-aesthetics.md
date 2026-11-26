@@ -376,23 +376,23 @@ Kalle Puolakka would like to thank The Finnish Cultural Foundation for financial
 
 [^most-1882]: Most of John Dewey’s works are collected to the thirty-seven volume critical edition *The Collected Works of John Dewey, 1882–1953*, edited by Jo Ann Boydston (Southern Illinois University Press, 1969–1991). The citations to Dewey’s major works are to the electronic edition of *The Collected Works*, which preserves the pagination of the print edition. *The Collected Works of John Dewey, 1882–1953*, edited by Larry A. Hickman (InteLex Corporation, 1996).
 
-[^ew-1967]: [*EW*] 1967, *The Early Works*, 1882–1898, 5 volumes.
+[^dewey-aesthetics-1967]: [*EW*] 1967, *The Early Works*, 1882–1898, 5 volumes.
 
-[^mw-1976]: [*MW*] 1976, *The Middle Works*, 1899–1924, 15 volumes.
+[^dewey-aesthetics-1976]: [*MW*] 1976, *The Middle Works*, 1899–1924, 15 volumes.
 
-[^lw-1981]: [*LW*] 1981, *The Later Works*, 1925–1953, 17 volumes.
+[^dewey-aesthetics-1981]: [*LW*] 1981, *The Later Works*, 1925–1953, 17 volumes.
 
-[^ps-1887]: [*PS*] 1887, *Psychology*, New York: Harper & Brothers; reprinted in *EW 2*.
+[^dewey-aesthetics-1887]: [*PS*] 1887, *Psychology*, New York: Harper & Brothers; reprinted in *EW 2*.
 
-[^de-1916]: [*DE*] 1916, *Democracy and Education. An Introduction to the Philosophy of Education*, New York: Macmillan; reprinted in *MW 9*. [[*DE* 1916 available online](https://www.gutenberg.org/ebooks/852)]
+[^dewey-aesthetics-1916]: [*DE*] 1916, *Democracy and Education. An Introduction to the Philosophy of Education*, New York: Macmillan; reprinted in *MW 9*. [[*DE* 1916 available online](https://www.gutenberg.org/ebooks/852)]
 
-[^rp-1920]: [*RP*] 1920, *Reconstructions in Philosophy*, New York: H. Holt and Company; reprinted in *MW 12*.
+[^dewey-aesthetics-1920]: [*RP*] 1920, *Reconstructions in Philosophy*, New York: H. Holt and Company; reprinted in *MW 12*.
 
-[^en-1925]: [*EN*] 1925, *Experience and Nature*, Chicago: Open Court; reprinted in *LW 1*.
+[^dewey-aesthetics-1925]: [*EN*] 1925, *Experience and Nature*, Chicago: Open Court; reprinted in *LW 1*.
 
-[^pp-1927]: [*PP*] 1927, *The Public and its Problems*, New York: H. Holt and Company; reprinted in *LW 2*.
+[^dewey-aesthetics-1927]: [*PP*] 1927, *The Public and its Problems*, New York: H. Holt and Company; reprinted in *LW 2*.
 
-[^ae-1934]: [*AE*] 1934, *Art as Experience*, New York: Minton, Balch & Co.; reprinted in *LW 10*.
+[^dewey-aesthetics-1934]: [*AE*] 1934, *Art as Experience*, New York: Minton, Balch & Co.; reprinted in *LW 10*.
 
 [^dewey-aesthetics-1926]: 1926, “Mexico’s Educational Renaissance”, *The New Republic*, 48(616): 116–117; reprinted in *LW 2*: 199–205.
 

@@ -216,59 +216,33 @@ While I have only scratched the surface of the riches of Avicenna’s natural ph
 
 **[AP]**
 
-*al-Ṭabīʿa*, ʿA. Badawī (ed.), 2 volumes, Cairo: The General Egyptian Book Organization, 1964/65; 2nd edition, 1984.
-
 #### Avicenna
 
 **[Int]**
 
-*The Healing, Logic: Isagoge*. *A New Edition, English translation and Commentary of the Kitāb al-Madḫal of Avicenna’s Kitāb al-Šifāʾ*, Silvia Di Vincenzo (ed. and trans.) Berlin: De Gruyter, 2021.
-
 **[Dem]**
-
-*Shifāʾ, al-Burhān*, A. E. Affifi (ed.), Cairo: The General Egyptian Book Organization, 1956.
 
 **[PR]**
 
-*Kitāb al-Ishārāt wa-l-tanbīhāt maʿa sharḥ Naṣīr al-Dīn al-Ṭūsī*, S. Dunyā (ed.), 4 volumes, Cairo: Dār al-Maʿārif, 1957–60; reprints 1985, 1994; translation of physics section in *Ibn Sina’s Remarks and Admonitions: Physics & Metaphysics*, S. C. Inati (trans.), New York: Columbia University Press, 2014.
-
 **[Cat]**
-
-*Shifāʾ, al-Maqūlāt*, I. Madkur (ed.), Cairo: The General Egyptian Book Organization, 1959.
 
 **[DC]**
 
-*Shifāʾ, al-Samāʾ wa-l-ʿālam*, M. Qāsim (ed.), Cairo: The General Egyptian Book Organization, 1969.
-
 **[GC]**
-
-*Shifāʾ, Kawn wa-l-fasād*, M. Qāsim (ed.), Cairo: The General Egyptian Book Organization, 1969.
 
 **[AP]**
 
-*Shifāʾ, al-Afʿāl wa-l-infiʿālāt*, M. Qāsim (ed.), Cairo: The General Egyptian Book Organization, 1969.
-
 **[Sal]**
-
-*al-Najāt*, M. Danishpaẓūh (ed.), Tehran: Dānishgāh-yi Tihrān, 1985.
 
 **[MPh]**
 
-*The Metaphysics of* The Healing, M. E. Marmura (ed. and trans.), Provo, UT: Brigham Young University Press, 2005.
-
 **[Ph]**
-
-*The Physics of* The Healing, J. McGinnis (ed. and trans.), 2 volumes, Provo, UT: Brigham Young University Press, 2009.
 
 #### al-Kindī
 
 **[OPS]**
 
-*Oeuvres philosophiques & scientifiques d’al-Kindī: Métaphysique et Cosmologie*, R. Rashed and J. Jolivet (eds.), Leiden: Brill, 1998.
-
 **[PWK]**
-
-*The Philosophical Works of al-Kindī*, P. Adamson and P. E. Pormann (trans.), Oxford: Oxford University Press, 2012.
 
 #### Philoponus
 
@@ -315,6 +289,32 @@ al-Ghazali | Alexander of Aphrodisias | Arabic and Islamic Philosophy, disciplin
 [^note-11]: Lammer maintains that Avicenna did not intend his initial discussion at *Physics*, 2.11 [1–2] to be an argument for the existence of time but only to show that there is a particular magnitude associated with motion. Instead, according to Lammer, Avicenna first shows what the essence of time is and then only at *Physics*, 2.11 [5] does he prove that time exits (Lammer 2018, 431–2)[^lammer-2018]. This claim is only half correct. At *Kitāb al-Burhān*, 1.3–6, the Avicennan text that most closely follows Aristotle’s *Posterior Analytics*, Avicenna discusses how scientific inquiry proceeds from prior knowledge. He notes that the first step of scientific inquiry begins with some pre-scientific notion of what a term (*ism*), “*x*” means. As part of this first step, one next proves that *x* in fact exists, that is, that “*x*” refers at all. In other word, the first step in a scientific inquiry into *x* is to see if *x* exists absolutely. The second step is to provide a rigorous account of what the true essence of *x* is and then to confirm that *x* exists as the purported essence claims. Thus contrary to Lammer, Avicenna does begin with a proof that time exists absolutely. The passage that Lammer cites is Avicenna’s proof that time exists in the way that Avicenna’s account of time’s essence suggests.
 
 [^de-1949]: *De Potentia*, in *In Quaestiones Disputatae*, Spiazzi, Pession, Calcaterra, Centi, Bazzi, Odetto (eds.), 2 vols., Turin: Marietti, 1949, vol. 2.
+
+[^badawī-1964]: *al-Ṭabīʿa*, ʿA. Badawī (ed.), 2 volumes, Cairo: The General Egyptian Book Organization, 1964/65; 2nd edition, 1984.
+
+[^healing-2021]: *The Healing, Logic: Isagoge*. *A New Edition, English translation and Commentary of the Kitāb al-Madḫal of Avicenna’s Kitāb al-Šifāʾ*, Silvia Di Vincenzo (ed. and trans.) Berlin: De Gruyter, 2021.
+
+[^shifāʾ-1956]: *Shifāʾ, al-Burhān*, A. E. Affifi (ed.), Cairo: The General Egyptian Book Organization, 1956.
+
+[^kitāb-1957]: *Kitāb al-Ishārāt wa-l-tanbīhāt maʿa sharḥ Naṣīr al-Dīn al-Ṭūsī*, S. Dunyā (ed.), 4 volumes, Cairo: Dār al-Maʿārif, 1957–60; reprints 1985, 1994; translation of physics section in *Ibn Sina’s Remarks and Admonitions: Physics & Metaphysics*, S. C. Inati (trans.), New York: Columbia University Press, 2014.
+
+[^shifāʾ-1959]: *Shifāʾ, al-Maqūlāt*, I. Madkur (ed.), Cairo: The General Egyptian Book Organization, 1959.
+
+[^shifāʾ-1969]: *Shifāʾ, al-Samāʾ wa-l-ʿālam*, M. Qāsim (ed.), Cairo: The General Egyptian Book Organization, 1969.
+
+[^shifāʾ-1969-2]: *Shifāʾ, Kawn wa-l-fasād*, M. Qāsim (ed.), Cairo: The General Egyptian Book Organization, 1969.
+
+[^shifāʾ-1969-3]: *Shifāʾ, al-Afʿāl wa-l-infiʿālāt*, M. Qāsim (ed.), Cairo: The General Egyptian Book Organization, 1969.
+
+[^najāt-1985]: *al-Najāt*, M. Danishpaẓūh (ed.), Tehran: Dānishgāh-yi Tihrān, 1985.
+
+[^metaphysics-2005]: *The Metaphysics of* The Healing, M. E. Marmura (ed. and trans.), Provo, UT: Brigham Young University Press, 2005.
+
+[^physics-2009]: *The Physics of* The Healing, J. McGinnis (ed. and trans.), 2 volumes, Provo, UT: Brigham Young University Press, 2009.
+
+[^oeuvres-1998]: *Oeuvres philosophiques & scientifiques d’al-Kindī: Métaphysique et Cosmologie*, R. Rashed and J. Jolivet (eds.), Leiden: Brill, 1998.
+
+[^philosophical-2012]: *The Philosophical Works of al-Kindī*, P. Adamson and P. E. Pormann (trans.), Oxford: Oxford University Press, 2012.
 
 [^aristotelis-1887]: *In Aristotelis Physicorum Libros Quinque Posteriores Commentaria* (Commentaria in Aristotelem Graeca: Volume 16), H. Vitelli (ed.), Berlin: George Reimer, 1887.
 

@@ -214,31 +214,17 @@ Note that all quotes from untranslated sources listed below are translated by th
 
 **[A]**
 
-*Sämtliche Schriften und Briefe*, Darmstadt and Berlin: Berlin Academy, 1923–, (cited by series, volume, and page).
-
 **[AG]**
-
-*Philosophical Essays*, Roger Ariew and Daniel Garber (trans.), Indianapolis, IN: Hackett, 1989.
 
 **[CP]**
 
-*Confessio Philosophi: Papers Concerning the Problem of Evil, 1671–1678*. Translated and edited by Robert C. Sleigh, Jr. New Haven, CT: Yale University Press, 2005.
-
 **[FC]**
-
-*Lettres et opuscules inedits*, Louis Alexandre Foucher de Careil (ed.), Hildesheim, New York: George Olms, 1975.
 
 **[G]**
 
-*Die philosophischen Schriften von Gottfried Wilhelm Leibniz*, C. I. Gerhardt (ed.), Berlin: Weidman, 1875–1890 (cited by volume and page).
-
 **[L]**
 
-*Philosophical Papers and Letters*, second edition, Leroy E. Loemker (trans.), Dordrecht and Boston: Reidel, 1969.
-
 **[LR]**
-
-*The Leibniz-Des Bosses Correspondence*, Brandon C. Look and Donald Rutherford (trans.), New Haven, CT: Yale University Press, 2007.
 
 **[LBr]**
 
@@ -246,23 +232,13 @@ Note that all quotes from untranslated sources listed below are translated by th
 
 **[NE]**
 
-*New Essays on Human Understanding* (*Nouveaux essais sur l’entendement humain*), Peter Remnant and Jonathan Bennett (trans.), Cambridge: Cambridge University Press, 1981 (the pagination of this work corresponds to that of the Academy edition A vi 6; thus only one reference is required).
-
 **[RA]**
-
-*The Labyrinth of the Continuum: Writings on the Continuum Problem, 1672–1686*, Richard T. W. Arthur (trans.), New Haven, CT: Yale University Press, 2001.
 
 **[SR]**
 
-*De Summa Rerum: Metaphysical Paper, 1675–1676*. Translated and edited by G.H.R. Parkinson. New Haven, CT: Yale University Press, 1992.
-
 **[T]**
 
-*Theodicy: Essays on the Goodness of God, the Freedom of Man, and the Origin of Evil* (*Essais de théodicée*), E. M. Huggard (trans.), La Salle, IL: Open Court, 1985 (cited from G 4 by section number).
-
 **[WF]**
-
-*Leibniz’s ‘New System’ and Associated Contemporary Texts*, Roger S. Woolhouse and Richard Francks (trans), Oxford: Clarendon Press, 1997. doi:10.1093/actrade/9780198248460.book.1
 
 ### Secondary Sources
 
@@ -281,6 +257,30 @@ Note that all quotes from untranslated sources listed below are translated by th
 ## Related Entries
 
 Arnauld, Antoine | Bayle, Pierre | identity: of indiscernibles | Leibniz, Gottfried Wilhelm | Leibniz, Gottfried Wilhelm: on causation | metaphor
+
+[^sämtliche-1923]: *Sämtliche Schriften und Briefe*, Darmstadt and Berlin: Berlin Academy, 1923–, (cited by series, volume, and page).
+
+[^philosophical-1989]: *Philosophical Essays*, Roger Ariew and Daniel Garber (trans.), Indianapolis, IN: Hackett, 1989.
+
+[^confessio-1671]: *Confessio Philosophi: Papers Concerning the Problem of Evil, 1671–1678*. Translated and edited by Robert C. Sleigh, Jr. New Haven, CT: Yale University Press, 2005.
+
+[^lettres-1975]: *Lettres et opuscules inedits*, Louis Alexandre Foucher de Careil (ed.), Hildesheim, New York: George Olms, 1975.
+
+[^die-1875]: *Die philosophischen Schriften von Gottfried Wilhelm Leibniz*, C. I. Gerhardt (ed.), Berlin: Weidman, 1875–1890 (cited by volume and page).
+
+[^philosophical-1969]: *Philosophical Papers and Letters*, second edition, Leroy E. Loemker (trans.), Dordrecht and Boston: Reidel, 1969.
+
+[^leibniz-des-2007]: *The Leibniz-Des Bosses Correspondence*, Brandon C. Look and Donald Rutherford (trans.), New Haven, CT: Yale University Press, 2007.
+
+[^new-1981]: *New Essays on Human Understanding* (*Nouveaux essais sur l’entendement humain*), Peter Remnant and Jonathan Bennett (trans.), Cambridge: Cambridge University Press, 1981 (the pagination of this work corresponds to that of the Academy edition A vi 6; thus only one reference is required).
+
+[^labyrinth-1672]: *The Labyrinth of the Continuum: Writings on the Continuum Problem, 1672–1686*, Richard T. W. Arthur (trans.), New Haven, CT: Yale University Press, 2001.
+
+[^de-1675]: *De Summa Rerum: Metaphysical Paper, 1675–1676*. Translated and edited by G.H.R. Parkinson. New Haven, CT: Yale University Press, 1992.
+
+[^theodicy-1985]: *Theodicy: Essays on the Goodness of God, the Freedom of Man, and the Origin of Evil* (*Essais de théodicée*), E. M. Huggard (trans.), La Salle, IL: Open Court, 1985 (cited from G 4 by section number).
+
+[^leibniz’s-1997]: *Leibniz’s ‘New System’ and Associated Contemporary Texts*, Roger S. Woolhouse and Richard Francks (trans), Oxford: Clarendon Press, 1997. doi:10.1093/actrade/9780198248460.book.1
 
 [^adams-1994]: Adams, Robert Merrihew, 1994, *Leibniz: Determinist, Theist, Idealist*, New York: Oxford University Press. doi:10.1093/0195126491.001.0001
 

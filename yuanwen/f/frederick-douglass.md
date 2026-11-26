@@ -317,19 +317,19 @@ And about dignity, he wrote, “[t]he public worth of a man, which is the value 
 
 [^note-25]: The conservation of race debate, especially Du Bois’s argument, has a lengthy bibliography. Two touchstone essays are Anthony Appiah’s “The Uncompleted Argument: Du Bois and the Illusion of Race” (1985) and Lucius Outlaw’s “Against the Grain of Modernity: The Politics of Difference and the Conservation of ‘Race’” (1992). For an analysis of the debate, see Gooding-Williams, *In the Shadow of Du Bois: Afro-modern Political Thought in America* (2009) and Paul Taylor’s *Race* (2022).
 
-[^fdab-1994]: [FDAB] *Autobiographies: Narrative of the Life of Frederick Douglass, an American Slave ; My Bondage and My Freedom ; Life and Times of Frederick Douglass*, Henry Louis Gates (ed.), (The Library of America 68), New York: Literary Classics of the United States, 1994.
+[^autobiographies-1994]: [FDAB] *Autobiographies: Narrative of the Life of Frederick Douglass, an American Slave ; My Bondage and My Freedom ; Life and Times of Frederick Douglass*, Henry Louis Gates (ed.), (The Library of America 68), New York: Literary Classics of the United States, 1994.
 
 [^frederick-1979]: *The Frederick Douglass Papers*, New Haven, CT: Yale University Press, 1979–
 
-[^fdp1-1979]: [FDP1] *Series One, Speeches, Debates, and Interviews*, John W. Blassingame and John R. McKivigan (eds.), 5 volumes, 1979–1992.
+[^series-1979]: [FDP1] *Series One, Speeches, Debates, and Interviews*, John W. Blassingame and John R. McKivigan (eds.), 5 volumes, 1979–1992.
 
-[^fdp2-1999]: [FDP2] *Series Two, Autobiographical Writings*, John W. Blassingame (ed.), 3 volumes, 1999–2012.
+[^series-1999]: [FDP2] *Series Two, Autobiographical Writings*, John W. Blassingame (ed.), 3 volumes, 1999–2012.
 
-[^fdp3-2009]: [FDP3] *Series Three, Correspondence*, 2 volumes (3 more forthcoming), John R. McKivigan (ed.), 2009–.
+[^series-2009]: [FDP3] *Series Three, Correspondence*, 2 volumes (3 more forthcoming), John R. McKivigan (ed.), 2009–.
 
-[^fdsw-1999]: [FDSW] *Frederick Douglass: Selected Speeches and Writings*, Philip Sheldon Foner and Yuval Taylor (eds.), (Library of Black America), Chicago: Lawrence Hill Books, 1999.
+[^frederick-1999]: [FDSW] *Frederick Douglass: Selected Speeches and Writings*, Philip Sheldon Foner and Yuval Taylor (eds.), (Library of Black America), Chicago: Lawrence Hill Books, 1999.
 
-[^sfd-2018]: [SFD] *The Speeches of Frederick Douglass: A Critical Edition*, John R. McKivigan, Julie Husband, and Heather L. Kaufman (eds.), New Haven, CT: Yale University Press, 2018.
+[^speeches-2018]: [SFD] *The Speeches of Frederick Douglass: A Critical Edition*, John R. McKivigan, Julie Husband, and Heather L. Kaufman (eds.), New Haven, CT: Yale University Press, 2018.
 
 [^frederick-douglass-1950]: 1950–1975, *The Life and Writings of Frederick Douglass*, Philip Sheldon Foner (ed.), 5 volumes, New York: International Publishers.
 

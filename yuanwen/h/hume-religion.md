@@ -530,7 +530,7 @@ The author and editors are grateful to Doug Jesseph for comments on an earlier v
 
 [^yandell-1990]: Yandell, Keith E., 1990, *Hume’s “Inexplicable Mystery”: His Views on Religion*, Philadelphia: Temple University Press.
 
-[^hume-nd]: [Hume Studies](http://www.humesociety.org/hs/). [This journal provides a comprehensive review of Hume literature, updated annually.]
+[^this-nd]: [Hume Studies](http://www.humesociety.org/hs/). [This journal provides a comprehensive review of Hume literature, updated annually.]
 
 [^morris-2012]: Morris, William, “David Hume,” *Stanford Encyclopedia of Philosophy* (Winter 2012 Edition), Edward N. Zalta (ed.), URL = <[https://plato.stanford.edu/archives/win2012/entries/hume/](https://plato.stanford.edu/archives/win2012/entries/hume/)>. [Contains an excellent bibliography relating to Hume’s philosophy in general.]
 

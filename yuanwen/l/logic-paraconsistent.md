@@ -567,12 +567,12 @@ The editors and authors would like to thank Joy Britten for noticing an error in
 
 [^weber-2021]: –––, 2021, *Paradoxes and Inconsistent Mathematics*, Cambridge: Cambridge University Press.
 
-[^first-2000]: [First Congress] Batens, Diderik, Chris Mortensen, Graham Priest, and Jean-Paul van Bendegem (eds.), 2000, *Frontiers of Paraconsistent Logic* (Studies in Logic and Computation 8), Baldock, England: Research Studies Press.
+[^batens-2000-2]: [First Congress] Batens, Diderik, Chris Mortensen, Graham Priest, and Jean-Paul van Bendegem (eds.), 2000, *Frontiers of Paraconsistent Logic* (Studies in Logic and Computation 8), Baldock, England: Research Studies Press.
 
-[^second-2002]: [Second Congress] Carnielli, Walter A., M. Coniglio, and Itala Maria Lof D’ottaviano (eds.), 2002, *Paraconsistency: the Logical Way to the Inconsistent* (Lecture Notes in Pure and Applied Mathematics: Volume 228), Boca Raton: CRC Press.
+[^carnielli-2002-2]: [Second Congress] Carnielli, Walter A., M. Coniglio, and Itala Maria Lof D’ottaviano (eds.), 2002, *Paraconsistency: the Logical Way to the Inconsistent* (Lecture Notes in Pure and Applied Mathematics: Volume 228), Boca Raton: CRC Press.
 
-[^third-2007]: [Third Congress] Beziau, Jean-Yves, Walter A. Carnielli, and Dov M. Gabbay (eds.), 2007, *Handbook of Paraconsistency* (Studies in Logic 9), London: College Publications.
+[^beziau-2007-2]: [Third Congress] Beziau, Jean-Yves, Walter A. Carnielli, and Dov M. Gabbay (eds.), 2007, *Handbook of Paraconsistency* (Studies in Logic 9), London: College Publications.
 
-[^fourth-2013]: [Fourth Congress] Tanaka, Koji, Francesco Berto, Edwin Mares, and Francesco Paoli (eds.), 2013, *Paraconsistency: Logic and Applications* (Logic, Epistemology, and the Unity of Science 26), Dordrecht: Springer. doi:10.1007/978-94-007-4438-7
+[^tanaka-2013-2]: [Fourth Congress] Tanaka, Koji, Francesco Berto, Edwin Mares, and Francesco Paoli (eds.), 2013, *Paraconsistency: Logic and Applications* (Logic, Epistemology, and the Unity of Science 26), Dordrecht: Springer. doi:10.1007/978-94-007-4438-7
 
-[^fifth-2015]: [Fifth Congress] Beziau, Jean-Yves, Mihir Chakraborty, and Soma Dutta (eds.), 2015, *New Directions in Paraconsistent Logic*, Dordrecht: Springer. doi:10.1007/978-81-322-2719-9
+[^beziau-2015-2]: [Fifth Congress] Beziau, Jean-Yves, Mihir Chakraborty, and Soma Dutta (eds.), 2015, *New Directions in Paraconsistent Logic*, Dordrecht: Springer. doi:10.1007/978-81-322-2719-9

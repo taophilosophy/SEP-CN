@@ -357,7 +357,7 @@ $$ x(t,n) = \sum_{k=1}^{\infty} C_k(n)\cos(k\omega(n)t) $$
 
 [^bohr-correspondence-1922]: 1922, “Seven lectures on the theory of atomic structure,” unpublished, in Bohr (1977), pp. 341–419.
 
-[^bohr-correspondence-1923]: [1923] 1924, “On the application of the quantum theory to atomic structure,” *Proceedings of the Cambridge Philosophical Society (supplement)*, Cambridge: Cambridge University Press, pp. 1–42. First published in *Zeitschrift für Physik*, 13 (1923): 117. Reprinted in Bohr (1976), pp. 457–499.
+[^bohr-correspondence-1924]: [1923] 1924, “On the application of the quantum theory to atomic structure,” *Proceedings of the Cambridge Philosophical Society (supplement)*, Cambridge: Cambridge University Press, pp. 1–42. First published in *Zeitschrift für Physik*, 13 (1923): 117. Reprinted in Bohr (1976), pp. 457–499.
 
 [^bohr-correspondence-1925]: 1925, “Atomic theory and mechanics,” *Nature* (Supplement), 116: 845–852. Reprinted in Bohr (1984), pp. 273–280.
 

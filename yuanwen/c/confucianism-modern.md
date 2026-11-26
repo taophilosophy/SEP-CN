@@ -385,29 +385,29 @@ This entry makes use of some of material previously published by the author (Els
 
 [^mou-2003]: –––, 2003, *Complete Works of Mou Zongsan* 牟宗三先生全集, 32 volumes, Taibei: Linking Books.
 
-[^mzcw-nd]: [MZCW 5] *Heart-Mind and Human Nature as Reality Book 1* 心體與性體1冊, volume 1 of 3.
+[^heart-mind-nd]: [MZCW 5] *Heart-Mind and Human Nature as Reality Book 1* 心體與性體1冊, volume 1 of 3.
 
-[^mzcw-nd-2]: [MZCW 6] *Heart-Mind and Human Nature as Reality Book 2* 心體與性體2冊, volume 2 of 3.
+[^heart-mind-nd-2]: [MZCW 6] *Heart-Mind and Human Nature as Reality Book 2* 心體與性體2冊, volume 2 of 3.
 
-[^mzcw-nd-3]: [MZCW 7] *Heart-Mind and Human Nature as Reality Book 3* 心體與性體3冊, volume 3 of 3.
+[^heart-mind-nd-3]: [MZCW 7] *Heart-Mind and Human Nature as Reality Book 3* 心體與性體3冊, volume 3 of 3.
 
-[^mzcw-nd-4]: [MZCW 9a] *Moral Idealism* 道德的理想主義.
+[^moral-nd]: [MZCW 9a] *Moral Idealism* 道德的理想主義.
 
-[^mzcw-nd-5]: [MZCW 9b] *Philosophy of History* 歷史哲學.
+[^philosophy-nd]: [MZCW 9b] *Philosophy of History* 歷史哲學.
 
-[^mzcw-nd-6]: [MZCW 10] *Authority and Governance* 政道與治道.
+[^authority-nd]: [MZCW 10] *Authority and Governance* 政道與治道.
 
-[^mzcw-nd-7]: [MZCW 20] *Intellectual Intuition and Chinese Philosophy* 智的直覺與中國哲學.
+[^intellectual-nd]: [MZCW 20] *Intellectual Intuition and Chinese Philosophy* 智的直覺與中國哲學.
 
-[^mzcw-nd-8]: [MZCW 21] *Appearances and Things-in-Themselves* 現象與物自身.
+[^appearances-nd]: [MZCW 21] *Appearances and Things-in-Themselves* 現象與物自身.
 
-[^mzcw-nd-9]: [MZCW 22] *On the Perfect Good* 圓善論.
+[^perfect-nd]: [MZCW 22] *On the Perfect Good* 圓善論.
 
-[^mzcw-nd-10]: [MZCW 27] *Anthology of Late Writings of Mou Zongsan* 牟宗三先生晚期文集.
+[^anthology-nd]: [MZCW 27] *Anthology of Late Writings of Mou Zongsan* 牟宗三先生晚期文集.
 
-[^mzcw-nd-11]: [MZCW 29] *Nineteen Lectures on Chinese Philosophy* 中國哲學十九講.
+[^nineteen-nd]: [MZCW 29] *Nineteen Lectures on Chinese Philosophy* 中國哲學十九講.
 
-[^mzcw-2014]: –––, 2014, *Late Works of Mou Zongsan: Selected Essays on Chinese Philosophy*, Jason Clower (ed./trans.), (Modern Chinese Philosophy 7), Leiden/Boston: Brill. doi:10.1163/9789004278905
+[^nineteen-2014]: –––, 2014, *Late Works of Mou Zongsan: Selected Essays on Chinese Philosophy*, Jason Clower (ed./trans.), (Modern Chinese Philosophy 7), Leiden/Boston: Brill. doi:10.1163/9789004278905
 
 [^ng-1998]: Ng, William (吳有能), 1998, “T’ang Chun-I on Transcendence: Foundations of a New-Confucian Religious Humanism”, *Monumenta Serica*, 46(1): 291–322. doi:10.1080/02549948.1998.11731320
 
@@ -433,41 +433,41 @@ This entry makes use of some of material previously published by the author (Els
 
 [^tang-1953]: Tang Junyi 唐君毅, 1953, *The Spiritual Value of Chinese Culture* 中國文化之精神價值. Taibei: Zhengzhong Books; reprinted in [TJCW 9].
 
-[^t’ang-1955]: [T’ang Chün-i], 1955 [1981], “The Spirit of Religion and Modern Man: The Co-Operation of Man with Heaven for the Salvation of Mankind from Being Regarded as Purely Material”, in *Chinese Essays on Religion and Faith*, Douglas Lancanshire (ed.), San Francisco: Chinese Materials Center, 45–52.
+[^confucianism-modern-1955]: [T’ang Chün-i], 1955 [1981], “The Spirit of Religion and Modern Man: The Co-Operation of Man with Heaven for the Salvation of Mankind from Being Regarded as Purely Material”, in *Chinese Essays on Religion and Faith*, Douglas Lancanshire (ed.), San Francisco: Chinese Materials Center, 45–52.
 
-[^t’ang-1958]: –––, 1958, *The Development of the Chinese Humanistic Spirit* 中國人文精神之發展, Hong Kong: Rensheng Press; reprinted in [TJCW 11].
+[^confucianism-modern-1958]: –––, 1958, *The Development of the Chinese Humanistic Spirit* 中國人文精神之發展, Hong Kong: Rensheng Press; reprinted in [TJCW 11].
 
-[^t’ang-1958-2]: –––, 1958, *Cultural Consciousness and Moral Reason* 文化意識與道德理性, Hong Kong: Youlian Press; reprinted in [TJCW 12].
+[^confucianism-modern-1958-2]: –––, 1958, *Cultural Consciousness and Moral Reason* 文化意識與道德理性, Hong Kong: Youlian Press; reprinted in [TJCW 12].
 
-[^t’ang-1966]: –––, 1966, *Origins of Chinese Philosophy: Introduction* 中國哲學原論: 導論, Hong Kong: Rensheng Press; reprinted in [TJCW 17].
+[^confucianism-modern-1966]: –––, 1966, *Origins of Chinese Philosophy: Introduction* 中國哲學原論: 導論, Hong Kong: Rensheng Press; reprinted in [TJCW 17].
 
-[^t’ang-1968]: –––, 1968, *Origins of Chinese Philosophy: On Human Nature* 中國哲學原論: 原性篇, Hong Kong: New Asia College; reprinted in [TJCW 18].
+[^confucianism-modern-1968]: –––, 1968, *Origins of Chinese Philosophy: On Human Nature* 中國哲學原論: 原性篇, Hong Kong: New Asia College; reprinted in [TJCW 18].
 
-[^t’ang-1973]: –––, 1973, *Origins of Chinese Philosophy: On the Way* 中國哲學原論: 原道篇, 3 vols., Hong Kong: New Asia College; reprinted in [TJCW 19–21].
+[^confucianism-modern-1973]: –––, 1973, *Origins of Chinese Philosophy: On the Way* 中國哲學原論: 原道篇, 3 vols., Hong Kong: New Asia College; reprinted in [TJCW 19–21].
 
-[^t’ang-1977]: –––, 1977, *Life Existence and the Horizons of Mind* 生命存在與心靈境界, 2 vols., Taibei: Student Books; [TJCW 25–26].
+[^confucianism-modern-1977]: –––, 1977, *Life Existence and the Horizons of Mind* 生命存在與心靈境界, 2 vols., Taibei: Student Books; [TJCW 25–26].
 
-[^t’ang-2016]: –––, 2016, *Complete Works of Tang Junyi* 唐君毅全集, Beijing: Jiuzhou chubanshe.
+[^confucianism-modern-2016]: –––, 2016, *Complete Works of Tang Junyi* 唐君毅全集, Beijing: Jiuzhou chubanshe.
 
-[^tjcw-nd]: [TJCW 9] *The Spiritual Value of Chinese Culture* 中国文化之精神价值.
+[^spiritual-nd]: [TJCW 9] *The Spiritual Value of Chinese Culture* 中国文化之精神价值.
 
-[^tjcw-nd-2]: [TJCW 11] *The Development of the Chinese Humanistic Spirit* 中国人文精神之发展.
+[^development-nd]: [TJCW 11] *The Development of the Chinese Humanistic Spirit* 中国人文精神之发展.
 
-[^tjcw-nd-3]: [TJCW 12] *Cultural Consciousness and Moral Reason* 文化意识与道德理性.
+[^cultural-nd]: [TJCW 12] *Cultural Consciousness and Moral Reason* 文化意识与道德理性.
 
-[^tjcw-nd-4]: [TJCW 17] *Origins of Chinese Philosophy: Introduction* 中国哲学原论: 导论.
+[^origins-nd]: [TJCW 17] *Origins of Chinese Philosophy: Introduction* 中国哲学原论: 导论.
 
-[^tjcw-nd-5]: [TJCW 18] *Origins of Chinese Philosophy: On Human Nature* 中国哲学原论: 原性篇.
+[^origins-nd-2]: [TJCW 18] *Origins of Chinese Philosophy: On Human Nature* 中国哲学原论: 原性篇.
 
-[^tjcw-nd-6]: [TJCW 19] *Origins of Chinese Philosophy: On the Way* 中国哲学原论: 原道篇, volume 1 of 3.
+[^origins-nd-3]: [TJCW 19] *Origins of Chinese Philosophy: On the Way* 中国哲学原论: 原道篇, volume 1 of 3.
 
-[^tjcw-nd-7]: [TJCW 20] *Origins of Chinese Philosophy: On the Way* 中国哲学原论: 原道篇, volume 2 of 3.
+[^origins-nd-4]: [TJCW 20] *Origins of Chinese Philosophy: On the Way* 中国哲学原论: 原道篇, volume 2 of 3.
 
-[^tjcw-nd-8]: [TJCW 21] *Origins of Chinese Philosophy: On the Way* 中国哲学原论: 原道篇, volume 3 of 3.
+[^origins-nd-5]: [TJCW 21] *Origins of Chinese Philosophy: On the Way* 中国哲学原论: 原道篇, volume 3 of 3.
 
-[^tjcw-nd-9]: [TJCW 25] *Life Existence and the Horizons of Mind, Volume 1* 生命存在与心灵境界, volume 1 of 2.
+[^life-nd]: [TJCW 25] *Life Existence and the Horizons of Mind, Volume 1* 生命存在与心灵境界, volume 1 of 2.
 
-[^tjcw-nd-10]: [TJCW 26] *Life Existence and the Horizons of Mind, Volume 2* 生命存在与心灵境界, volume 2 of 2.
+[^life-nd-2]: [TJCW 26] *Life Existence and the Horizons of Mind, Volume 2* 生命存在与心灵境界, volume 2 of 2.
 
 [^tseng-2019]: Tseng, Roy, 2019, “The Endless Pursuit of Self-Perfection: A Hidden Dialogue between Mou Zongsan and F. H. Bradley”, *Philosophy East and West*, 69(3): 828–848. doi:10.1353/pew.2019.0065
 

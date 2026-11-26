@@ -275,27 +275,15 @@ Rather few contemporary philosophers could accept all of Reid’s central commit
 
 **[C]**
 
-*The Correspondence of Thomas Reid*. Paul Wood (ed.), Edinburgh: Edinburgh University Press, 2002.
-
 **[AC]**
-
-*Thomas Reid on the Animate Creation: Papers Relating to the Life Sciences*, Paul Wood (ed.), Edinburgh: Edinburgh University Press, 1995.
 
 **[PE]**
 
-*Thomas Reid on Practical Ethics*, Knud Haakonssen (ed.), Edinburgh: Edinburgh University Press, 2007.
-
 **[EAP]**
-
-*Essays on the Active Powers of Man* (1788). Knud Haakonssen and James Harris (eds.), Edinburgh: Edinburgh University Press, 2010.
 
 **[EIP]**
 
-*Essays on the Intellectual Powers of Man* (1785). Derek R. Brookes (ed.), Edinburgh University Press, 2002.
-
 **[IHM]**
-
-*An Inquiry into the Human Mind on the Principles of Common Sense* (1764). Derek R. Brookes (ed.), Edinburgh University Press, 1997.
 
 #### Works by Others
 
@@ -322,6 +310,18 @@ Moore, George Edward | Moore, George Edward: moral philosophy | moral non-natura
 ### Acknowledgments
 
 Portions of this entry draw from Cuneo 2015, 2014, 2013, and 2011. I thank Tyler Doggett, Tom Dougherty, and Lori Wilson for comments on an earlier draft of this entry.
+
+[^correspondence-2002]: *The Correspondence of Thomas Reid*. Paul Wood (ed.), Edinburgh: Edinburgh University Press, 2002.
+
+[^thomas-1995]: *Thomas Reid on the Animate Creation: Papers Relating to the Life Sciences*, Paul Wood (ed.), Edinburgh: Edinburgh University Press, 1995.
+
+[^thomas-2007]: *Thomas Reid on Practical Ethics*, Knud Haakonssen (ed.), Edinburgh: Edinburgh University Press, 2007.
+
+[^essays-1788]: *Essays on the Active Powers of Man* (1788). Knud Haakonssen and James Harris (eds.), Edinburgh: Edinburgh University Press, 2010.
+
+[^essays-1785]: *Essays on the Intellectual Powers of Man* (1785). Derek R. Brookes (ed.), Edinburgh University Press, 2002.
+
+[^an-1764]: *An Inquiry into the Human Mind on the Principles of Common Sense* (1764). Derek R. Brookes (ed.), Edinburgh University Press, 1997.
 
 [^balguy-1778]: Balguy, John, 1778. *The Foundation of Moral Goodness*. New York: Garland, 1976.
 

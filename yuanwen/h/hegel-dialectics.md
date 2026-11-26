@@ -256,25 +256,25 @@ Although Hegel’s writing and his use of technical terms can make his philosoph
 
 Aristotle | Aristotle, General Topics: logic | Fichte, Johann Gottlieb | Hegel, Georg Wilhelm Friedrich | Hume, David | Kant, Immanuel | Plato
 
-[^el-nd]: [EL], *The Encyclopedia Logic [Enzyklopädie der philosophischen Wissenschaften I]*. Because the translations of EL listed below use the same section numbers as well as sub-paragraphs (“Remarks”) and sub-sub-paragraphs (“Additions”), citations simply to “EL” refer to either translation. If the phrasing in English is unique to a specific translation, the translators’ initials are added.
+[^encyclopedia-nd]: [EL], *The Encyclopedia Logic [Enzyklopädie der philosophischen Wissenschaften I]*. Because the translations of EL listed below use the same section numbers as well as sub-paragraphs (“Remarks”) and sub-sub-paragraphs (“Additions”), citations simply to “EL” refer to either translation. If the phrasing in English is unique to a specific translation, the translators’ initials are added.
 
-[^el-bd-2010]: [EL-BD], *Encyclopedia of the Philosophical Sciences in Basic Outline Part I: Science of Logic [Enzyklopädie der philosophischen Wissenschaften I]*, translated by Klaus Brinkmann and Daniel O. Dahlstrom, Cambridge: Cambridge University Press, 2010.
+[^encyclopedia-2010]: [EL-BD], *Encyclopedia of the Philosophical Sciences in Basic Outline Part I: Science of Logic [Enzyklopädie der philosophischen Wissenschaften I]*, translated by Klaus Brinkmann and Daniel O. Dahlstrom, Cambridge: Cambridge University Press, 2010.
 
-[^el-gsh-1991]: [EL-GSH], *The Encyclopedia Logic: Part 1 of the Encyclopaedia of Philosophical Sciences [Enzyklopädie der philosophischen Wissenschaften I]*, translated by T.F. Geraets, W.A. Suchting, and H.S. Harris, Indianapolis: Hackett, 1991.
+[^encyclopedia-1991]: [EL-GSH], *The Encyclopedia Logic: Part 1 of the Encyclopaedia of Philosophical Sciences [Enzyklopädie der philosophischen Wissenschaften I]*, translated by T.F. Geraets, W.A. Suchting, and H.S. Harris, Indianapolis: Hackett, 1991.
 
-[^lhp-1974]: [LHP], *Lectures on the History of Philosophy [Geschichte der Philosophie]*, in three volumes, translated by E.S. Haldane and Frances H. Simson, New Jersey: Humanities Press, 1974.
+[^lectures-1974]: [LHP], *Lectures on the History of Philosophy [Geschichte der Philosophie]*, in three volumes, translated by E.S. Haldane and Frances H. Simson, New Jersey: Humanities Press, 1974.
 
-[^phg-nd]: [PhG], *Phenomenology of Spirit [Phänomenologie des Geistes]*. Because the translations of PhG listed below use the same section numbers, citations simply to “PhG” refer to either translation. If the phrasing in English is unique to a specific translation, the translator’s initial is added.
+[^phenomenology-nd]: [PhG], *Phenomenology of Spirit [Phänomenologie des Geistes]*. Because the translations of PhG listed below use the same section numbers, citations simply to “PhG” refer to either translation. If the phrasing in English is unique to a specific translation, the translator’s initial is added.
 
-[^phg-m-1977]: [PhG-M], *Hegel’s Phenomenology of Spirit [Phänomenologie des Geistes]*, translated by A.V. Miller, Oxford: Oxford University Press, 1977.
+[^hegel’s-1977]: [PhG-M], *Hegel’s Phenomenology of Spirit [Phänomenologie des Geistes]*, translated by A.V. Miller, Oxford: Oxford University Press, 1977.
 
-[^phg-p-2018]: [PhG-P], *Georg Wilhelm Friedrich Hegel: The Phenomenology of Spirit [Phänomenologie des Geistes]*, translated and edited by Terry Pinkard, Cambridge: Cambridge University Press, 2018.
+[^georg-2018]: [PhG-P], *Georg Wilhelm Friedrich Hegel: The Phenomenology of Spirit [Phänomenologie des Geistes]*, translated and edited by Terry Pinkard, Cambridge: Cambridge University Press, 2018.
 
-[^pr-1991]: [PR], *Elements of the Philosophy of Right [Philosophie des Rechts]*, edited by Allen W. Wood and translated by H.B. Nisbet, Cambridge: Cambridge University Press, 1991.
+[^elements-1991]: [PR], *Elements of the Philosophy of Right [Philosophie des Rechts]*, edited by Allen W. Wood and translated by H.B. Nisbet, Cambridge: Cambridge University Press, 1991.
 
-[^sl-dg-2010]: [SL-dG], *Georg Wilhelm Friedrich Hegel: The Science of Logic [Wissenschaft der Logik]*, translated by George di Giovanni, New York: Cambridge University Press, 2010.
+[^georg-2010]: [SL-dG], *Georg Wilhelm Friedrich Hegel: The Science of Logic [Wissenschaft der Logik]*, translated by George di Giovanni, New York: Cambridge University Press, 2010.
 
-[^sl-m-1977]: [SL-M], *Hegel’s Science of Logic [Wissenschaft der Logik]*, translated by A.V. Miller, Oxford: Oxford University Press, 1977.
+[^hegel’s-1977-2]: [SL-M], *Hegel’s Science of Logic [Wissenschaft der Logik]*, translated by A.V. Miller, Oxford: Oxford University Press, 1977.
 
 [^aristotle-1954]: Aristotle, 1954, *The Complete Works of Aristotle: The Revised Oxford Translation* (in two volumes), edited by Jonathan Barnes. Princeton: Princeton University Press. (Citations to Aristotle’s text use the Bekker numbers, which appear in the margins of many translations of Aristotle’s works.)
 

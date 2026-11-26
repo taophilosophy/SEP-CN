@@ -129,7 +129,7 @@ Cambridge Platonists | consciousness: seventeenth-century theories of | Descarte
 
 [^newton-nd]: Newton, Isaac, “Out of Cudworth”, Los Angeles, CA, William Andrews Clark Memorial Library MS, fN563Z. [[“Out of Cudworth” available online](http://www.newtonproject.ox.ac.uk/view/texts/normalized/THEM00118)]
 
-[^tisu-1678]: [*TISU*], 1678, *The True Intellectual System of the Universe*, London: Richard Royston. All quotations are taken from this first edition, with spelling and punctuation modernised. [[*TISU* 1678 available online](https://archive.org/details/trueintellectual1678cudw)]
+[^cudworth-1678]: [*TISU*], 1678, *The True Intellectual System of the Universe*, London: Richard Royston. All quotations are taken from this first edition, with spelling and punctuation modernised. [[*TISU* 1678 available online](https://archive.org/details/trueintellectual1678cudw)]
 
 [^cudworth-1706]: 1706, *A Confutation of the Reason and Philosophy of Atheism being an Abridgement or an Improvement of what Dr Cudworth Offered in his ‘True Intellectual System’*, Thomas Wise (ed.), London, reprinted 1732.
 
@@ -145,7 +145,7 @@ Cambridge Platonists | consciousness: seventeenth-century theories of | Descarte
 
 [^cudworth-1964]: 1964, *The True Intellectual System of the Universe*, London; facsimile reprint Stuttgart-Bad Cannstatt: Friedrich Frommann.
 
-[^teim-1996]: [*TEIM*], *A Treatise Concerning Eternal and Immutable Morality*. Quotations are from the 1996 edition.
+[^treatise-1996]: [*TEIM*], *A Treatise Concerning Eternal and Immutable Morality*. Quotations are from the 1996 edition.
 
 [^cudworth-1731]: 1731, *A Treatise Concerning Eternal and Immutable Morality*, Edward Chandler (ed.), London.
 
@@ -157,7 +157,7 @@ Cambridge Platonists | consciousness: seventeenth-century theories of | Descarte
 
 [^cudworth-1996]: 1996, *A Treatise Concerning Eternal and Immutable Morality with A Treatise of Freewill*, Sarah Hutton (ed.), Cambridge: Cambridge University Press. doi:10.1017/CBO9781139166720
 
-[^fw-1996]: [*FW*], *Of Freewill*. Quotations above are from the 1996 edition edition printed with *TEIM* 1996.
+[^freewill-1996]: [*FW*], *Of Freewill*. Quotations above are from the 1996 edition edition printed with *TEIM* 1996.
 
 [^cudworth-1838]: 1838, *A Treatise of Freewill*, J. Allen (ed.), London.
 

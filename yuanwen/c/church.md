@@ -11,7 +11,7 @@ Alonzo Church (1903–1995) was a renowned mathematical logician, philosophical 
 
 Church brought both the general outlook and the specific distinctions of formal logic to bear on philosophy in a distinctive way by applying his “logistic method” to the philosophical topics he discussed. Conversely, he also wove certain aspects of his philosophy into the fabric of formal, mathematical logic as he presented it. The result was a formidable combination of philosophical vision and focused argumentation. For Church, the logistic method (or formalization) was not only necessary to obtain additional clarification beyond informal discussion and to make meta-mathematical investigations possible; it was also the ideal method for dealing with philosophical problems in epistemology, metaphysics and philosophy of language. It was Church’s view that one who does not aspire to this ideal falls short. However, he also recognized that formalization is not always appropriate. He did not demand that the natural sciences be formalized and even provided an informal philosophical discussion of semantics in the introductory chapter of his *Introduction to Mathematical Logic* (1956a). The theories and arguments discussed in this article describe and illustrate Church’s logistic method.
 
-In the following, we often use the notational conventions that Church adopted from *Principia Mathematica* (Whitehead & Russell 1910; hereafter PM). When we do so, these conventions are explained and sometimes compared with modern notation.
+In the following, we often use the notational conventions that Church adopted from *Principia Mathematica* (Whitehead & Russell 1910; hereafter PM)[^whitehead-1910]. When we do so, these conventions are explained and sometimes compared with modern notation.
 
 ## 1. Computability and Church’s Thesis
 
@@ -703,7 +703,7 @@ Bolzano, Bernard | Carnap, Rudolf | Church-Turing Thesis | empiricism: logical |
 
 The authors are grateful to C. Anthony Anderson, Allen Hazen, Hasen Khudairi, Gary Ostertag, Nathan Salmón and to those who participated in the Santa Barbarians Discussion Group in 2020. We are also grateful to the referees for their comments on an earlier version.
 
-[^be-2019]: [BE] Burge, Tyler and Herbert Enderton (eds), 2019, *The Collected Works of Alonzo Church*, Cambridge, MA: MIT Press.
+[^burge-2019]: [BE] Burge, Tyler and Herbert Enderton (eds), 2019, *The Collected Works of Alonzo Church*, Cambridge, MA: MIT Press.
 
 [^church-1927]: 1927, “Alternatives to Zermelo’s Assumption”, *Transactions of the American Mathematical Society*, 29(1): 178–208. Reprinted in BE: 19–42. doi:10.2307/1989285
 
@@ -893,7 +893,7 @@ The authors are grateful to C. Anthony Anderson, Allen Hazen, Hasen Khudairi, Ga
 
 [^burge-2009]: –––, 2009, “Five Theses on De Re States and Attitudes”, in Almog and Leonardi 2009: 246–316. doi:10.1093/acprof:oso/9780195367881.003.0015
 
-[^burge-2019]: –––, 2019, “Alonzo Church: Life and Work”, in BE: xx–xxiv.
+[^burge-2019-2]: –––, 2019, “Alonzo Church: Life and Work”, in BE: xx–xxiv.
 
 [^burgess-2001]: Burgess, John P., 2001, “Nominalist Paraphrase and Ontological Commitment”, in Anderson and Zelëny 2001: 429–443. doi:10.1007/978-94-010-0526-5_20
 
@@ -1127,4 +1127,4 @@ The authors are grateful to C. Anthony Anderson, Allen Hazen, Hasen Khudairi, Ga
 
 [^uzquiano-2015]: Uzquiano, Gabriel, 2015, “A Neglected Resolution of Russell’s Paradox of Propositions”, *The Review of Symbolic Logic*, 8(2): 328–344. doi:10.1017/S1755020315000106
 
-[^pm-1910]: [PM] Whitehead, Alfred North and Bertrand Russell, 1910 [1925–1927], *Principia Mathematica*, vol. I, Cambridge: Cambridge University Press. Second edition 1925–1927.
+[^whitehead-1910]: [PM] Whitehead, Alfred North and Bertrand Russell, 1910 [1925–1927], *Principia Mathematica*, vol. I, Cambridge: Cambridge University Press. Second edition 1925–1927.

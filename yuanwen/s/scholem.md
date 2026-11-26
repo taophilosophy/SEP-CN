@@ -147,75 +147,39 @@ These Monographs are supplemented by a number of other useful resources. Jay How
 
 **[Br]**
 
-*Briefe*, Itta Shedletzky and Thomas Sparr (eds), 3 volumes, Munich: Beck, 1994–1999.
-
 **[Corr]**
-
-*Briefwechsel 1933–1940*, Gershom Scholem (ed.), Frankfurt am Main: Suhrkamp, 1980; translated as *The Correspondence of Walter Benjamin and Gershom Scholem, 1932–1940*, Gershom Gerhard Scholem (ed.), Gary Smith and Andre LeFevere (trans), New York: Schocken Books, 1989.
 
 **[FBJ]**
 
-*Von Berlin nach Jerusalem : Jugenderinnerungen*, Frankfurt am Main: Suhrkamp, 1977; translated as *From Berlin to Jerusalem: Memories of My Youth*, Harry Zohn (trans.), New York: Schocken Books, 1980.
-
 **•**
-
-*Kabbalah*, Jerusalem: Keter, 1974.
 
 **[LY]**
 
-*Lamentations of Youth: The Diaries of Gershom Scholem, 1913–1919*, Anthony David Skinner (ed./trans.), Cambridge, MA: Belknap Press of Harvard University Press, 2007.
-
 **[LL]**
-
-*A Life in Letters, 1914–1982*, Anthony David Skinner (ed./trans.), Cambridge, MA: Harvard University Press, 2002.
 
 **[MT]**
 
-*Major Trends in Jewish Mysticism* (Hilda Stich Stroock Lectures 1938), Jerusalem: Schocken Publishing House, 1941. Third edition, London: Thames and Hudson, 1954. Page numbers to 1955 edition.
-
 **[MI]**
 
-*The Messianic Idea in Judaism and Other Essays on Jewish Spirituality*, New York: Schocken Books, 1971.
-
 **•**
-
-“The Name of God and the Linguistic Theory of the Kabbala”, Simon Pleasance (trans.), *Diogenes*, 20(79): 59–80 and 20(80): 164–194, 1972. doi:10.1177/039219217202007903 doi:10.1177/039219217202008008
 
 **[JJC]**
 
-*On Jews and Judaism in Crisis: Selected Essays*, Werner J. Dannhauser (ed.), New York: Schocken Books, 1976.
-
 **•**
-
-“On Our Language: A Confession”, Ora Wiskind (trans.), *History and Memory*, 2(2): 97–99, 1990.
 
 **[KS]**
 
-*Zur Kabbala und ihrer Symbolik*, Zürich: Rhein-Verlag, 1960; translated as *On the Kabbalah and Its Symbolism*, Ralph Manheim (trans.), New York: Schocken Books, 1965. Page numbers from the 1965 translation.
-
 **[MS]**
-
-*Von der mystischen Gestalt der Gottheit: Studien zu Grundbegriffen der Kabbala*, Zürich: Rhein-Verlag, 1962; translated as *On the Mystical Shape of the Godhead: Basic Concepts in the Kabbalah*, Jonathan Chipman (ed.); Joachim Neugroschel (trans.), New York: Schocken Books. Page numbers from the 1991 translation.
 
 **[PM]**
 
-*On the Possibility of Jewish Mysticism in Our Time: & Other Essays*, Avraham Shapira (ed.), Jonathan Chipman (trans.), Philadelphia, PA: Jewish Publication Society, 1997.
-
 **[SS]**
 
-*Sabbatai Sevi: The Mystical Messiah, 1626–1676* (Bollingen Series 93), R. J. Zwi Werblowsky (trans.), Princeton, NJ: Princeton University Press, 1973. A revised and augmented translation of the Hebrew edition, *Shabtai Tsevi Ṿeha-Tenuʻah Ha-Shabtaʼit Bi-Yeme Ḥayaṿ*, Tel Aviv: Am Oved, 1957.
+**•**
 
 **•**
 
-“Ursprünge, Widersprüche und Auswirkungen des Sabbatianismus”, in *Judaica 5: Erlösung durch Sünde*, edited and translated into German by Michael Brocke, Frankfurt am Main: Suhrkamp, 1992: 117–130.
-
 **•**
-
-*Walter Benjamin—Die Geschichte Einer Freundschaft*, Frankfurt am Main: Suhrkamp Verlag, 1975; translated as *Walter Benjamin: The Story of a Friendship*, Harry Zohn (trans.), Philadelphia, PA: Jewish Publication Society of America, 1981.
-
-**•**
-
-“Zehn unhistorische Sätze über Kabbala”, in *Judaica 3: Studien zur jüdischen Mystik*, Frankfurt am Main: Suhrkamp, 1973: 264–271.
 
 ### Secondary Sources
 
@@ -239,6 +203,42 @@ These Monographs are supplemented by a number of other useful resources. Jay How
 ## Related Entries
 
 Arendt, Hannah | Benjamin, Walter | Buber, Martin | Cohen, Hermann | Rosenzweig, Franz
+
+[^briefe-1994]: *Briefe*, Itta Shedletzky and Thomas Sparr (eds), 3 volumes, Munich: Beck, 1994–1999.
+
+[^briefwechsel-1933]: *Briefwechsel 1933–1940*, Gershom Scholem (ed.), Frankfurt am Main: Suhrkamp, 1980; translated as *The Correspondence of Walter Benjamin and Gershom Scholem, 1932–1940*, Gershom Gerhard Scholem (ed.), Gary Smith and Andre LeFevere (trans), New York: Schocken Books, 1989.
+
+[^von-1977]: *Von Berlin nach Jerusalem : Jugenderinnerungen*, Frankfurt am Main: Suhrkamp, 1977; translated as *From Berlin to Jerusalem: Memories of My Youth*, Harry Zohn (trans.), New York: Schocken Books, 1980.
+
+[^kabbalah-1974]: *Kabbalah*, Jerusalem: Keter, 1974.
+
+[^lamentations-1913]: *Lamentations of Youth: The Diaries of Gershom Scholem, 1913–1919*, Anthony David Skinner (ed./trans.), Cambridge, MA: Belknap Press of Harvard University Press, 2007.
+
+[^life-1914]: *A Life in Letters, 1914–1982*, Anthony David Skinner (ed./trans.), Cambridge, MA: Harvard University Press, 2002.
+
+[^major-1938]: *Major Trends in Jewish Mysticism* (Hilda Stich Stroock Lectures 1938), Jerusalem: Schocken Publishing House, 1941. Third edition, London: Thames and Hudson, 1954. Page numbers to 1955 edition.
+
+[^messianic-1971]: *The Messianic Idea in Judaism and Other Essays on Jewish Spirituality*, New York: Schocken Books, 1971.
+
+[^name-1972]: “The Name of God and the Linguistic Theory of the Kabbala”, Simon Pleasance (trans.), *Diogenes*, 20(79): 59–80 and 20(80): 164–194, 1972. doi:10.1177/039219217202007903 doi:10.1177/039219217202008008
+
+[^jews-1976]: *On Jews and Judaism in Crisis: Selected Essays*, Werner J. Dannhauser (ed.), New York: Schocken Books, 1976.
+
+[^our-1990]: “On Our Language: A Confession”, Ora Wiskind (trans.), *History and Memory*, 2(2): 97–99, 1990.
+
+[^zur-1960]: *Zur Kabbala und ihrer Symbolik*, Zürich: Rhein-Verlag, 1960; translated as *On the Kabbalah and Its Symbolism*, Ralph Manheim (trans.), New York: Schocken Books, 1965. Page numbers from the 1965 translation.
+
+[^von-1962]: *Von der mystischen Gestalt der Gottheit: Studien zu Grundbegriffen der Kabbala*, Zürich: Rhein-Verlag, 1962; translated as *On the Mystical Shape of the Godhead: Basic Concepts in the Kabbalah*, Jonathan Chipman (ed.); Joachim Neugroschel (trans.), New York: Schocken Books. Page numbers from the 1991 translation.
+
+[^possibility-1997]: *On the Possibility of Jewish Mysticism in Our Time: & Other Essays*, Avraham Shapira (ed.), Jonathan Chipman (trans.), Philadelphia, PA: Jewish Publication Society, 1997.
+
+[^sabbatai-1626]: *Sabbatai Sevi: The Mystical Messiah, 1626–1676* (Bollingen Series 93), R. J. Zwi Werblowsky (trans.), Princeton, NJ: Princeton University Press, 1973. A revised and augmented translation of the Hebrew edition, *Shabtai Tsevi Ṿeha-Tenuʻah Ha-Shabtaʼit Bi-Yeme Ḥayaṿ*, Tel Aviv: Am Oved, 1957.
+
+[^ursprünge-1992]: “Ursprünge, Widersprüche und Auswirkungen des Sabbatianismus”, in *Judaica 5: Erlösung durch Sünde*, edited and translated into German by Michael Brocke, Frankfurt am Main: Suhrkamp, 1992: 117–130.
+
+[^walter-1975]: *Walter Benjamin—Die Geschichte Einer Freundschaft*, Frankfurt am Main: Suhrkamp Verlag, 1975; translated as *Walter Benjamin: The Story of a Friendship*, Harry Zohn (trans.), Philadelphia, PA: Jewish Publication Society of America, 1981.
+
+[^zehn-1973]: “Zehn unhistorische Sätze über Kabbala”, in *Judaica 3: Studien zur jüdischen Mystik*, Frankfurt am Main: Suhrkamp, 1973: 264–271.
 
 [^alter-1991]: Alter, Robert, 1991, *Necessary Angels: Tradition and Modernity in Kafka, Benjamin, and Scholem*, Cambridge, MA: Harvard University Press.
 

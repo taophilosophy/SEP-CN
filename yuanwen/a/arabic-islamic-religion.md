@@ -352,49 +352,49 @@ al-Ghazali | al-Razi, Fakhr al-Din | Arabic and Islamic Philosophy, disciplines 
 
 [^abd-nd]: ʿAbd al-Jabbār (d. 1025)
 
-[^taʿdīl-1962]: [*al-Taʿdīl*], *al-Mughnī fī abwāb al-tawḥīd wa-l-ʿadl*, Aḥmad Fuʾād al-Ahwānī (ed.), Cairo: al-Dār al-Miṣriyya lil-Taʾlīf wa-l-Nashr, vol. 6, part 1: *al-Taʿdīl wa-l-tajwīr*, 1962.
+[^mughnī-1962]: [*al-Taʿdīl*], *al-Mughnī fī abwāb al-tawḥīd wa-l-ʿadl*, Aḥmad Fuʾād al-Ahwānī (ed.), Cairo: al-Dār al-Miṣriyya lil-Taʾlīf wa-l-Nashr, vol. 6, part 1: *al-Taʿdīl wa-l-tajwīr*, 1962.
 
-[^aṣlaḥ-1965]: [*al-Aṣlaḥ*], *al-Mughnī fī abwāb al-tawḥīd wa-l-ʿadl*, Muṣṭafā al-Saqqā (ed.), Cairo: al-Dār al-Miṣriyya lil-Taʾlīf wa-l-Nashr, vol. 14: *al-Aṣlaḥ, istiḥqāq al-dhamm, al-tawba*, 1965.
+[^mughnī-1965]: [*al-Aṣlaḥ*], *al-Mughnī fī abwāb al-tawḥīd wa-l-ʿadl*, Muṣṭafā al-Saqqā (ed.), Cairo: al-Dār al-Miṣriyya lil-Taʾlīf wa-l-Nashr, vol. 14: *al-Aṣlaḥ, istiḥqāq al-dhamm, al-tawba*, 1965.
 
-[^suk-1996]: [SUK], *Sharḥ al-Usūl al-khamsa*, ʿAbd al-Karīm Uthmān (ed.), Cairo: Maktabat al-Wahba, 1996; first printing 1965.
+[^sharḥ-1996]: [SUK], *Sharḥ al-Usūl al-khamsa*, ʿAbd al-Karīm Uthmān (ed.), Cairo: Maktabat al-Wahba, 1996; first printing 1965.
 
 [^ashʿarī-nd]: Ashʿarī, Abū l-Ḥasan (d. 935/6)
 
-[^mi-1980]: [MI], *Maqālāt al-Islāmiyyīn*, Hellmut Ritter (ed.), second edition, Wiesbaden: Franz Steiner Verlag, 1980. First edition published in 1929.
+[^maqālāt-1980]: [MI], *Maqālāt al-Islāmiyyīn*, Hellmut Ritter (ed.), second edition, Wiesbaden: Franz Steiner Verlag, 1980. First edition published in 1929.
 
-[^eif-1940]: [EIF], *al-Ibāna ʿan Uṣūl al-Diyāna: The Elucidation of Islam’s Foundation*, Walter C. Klein (trans.), New Haven, CT: American Oriental Association, 1940.
+[^ibāna-1940]: [EIF], *al-Ibāna ʿan Uṣūl al-Diyāna: The Elucidation of Islam’s Foundation*, Walter C. Klein (trans.), New Haven, CT: American Oriental Association, 1940.
 
-[^taat-1953]: [TAAT], *The Theology of al-Ashʻarī: The Arabic Texts of al-Ashʻarī’s Kitāb al-Lumaʻ and Risālat Istiḥsān al-khawḍ fī ʻilm al-kalām*, Richard J. McCarthy (ed./tran.), Beirut: Imprimerie Catholique, 1953.
+[^theology-1953]: [TAAT], *The Theology of al-Ashʻarī: The Arabic Texts of al-Ashʻarī’s Kitāb al-Lumaʻ and Risālat Istiḥsān al-khawḍ fī ʻilm al-kalām*, Richard J. McCarthy (ed./tran.), Beirut: Imprimerie Catholique, 1953.
 
 [^avicenna-nd]: Avicenna (d. 1037)
 
-[^at-1951]: [AT], *Avicenna on Theology*, Arthur J. Arberry (trans.), Westpoint, CT: Hyperion Press, 1951.
+[^avicenna-1951]: [AT], *Avicenna on Theology*, Arthur J. Arberry (trans.), Westpoint, CT: Hyperion Press, 1951.
 
-[^da-1959]: [DA], *Avicenna’s De Anima (Arabic Text), Being the Psychological Part of the Kitāb al-Shifāʾ*, Fazlur Rahman (ed.), London: Oxford University Press, 1959.
+[^avicenna’s-1959]: [DA], *Avicenna’s De Anima (Arabic Text), Being the Psychological Part of the Kitāb al-Shifāʾ*, Fazlur Rahman (ed.), London: Oxford University Press, 1959.
 
-[^najāt-1985]: [*al-Najāt*], *Kitāb al-Najāt fī l-ḥikma al-manṭiqiyya wa-l-ṭabīʿiyya wa-al-Ilāhiyya*, Majid Fakhry (ed.), Beirut: Dār al-Āfāqi l-Jadīda, 1985.
+[^kitāb-1985]: [*al-Najāt*], *Kitāb al-Najāt fī l-ḥikma al-manṭiqiyya wa-l-ṭabīʿiyya wa-al-Ilāhiyya*, Majid Fakhry (ed.), Beirut: Dār al-Āfāqi l-Jadīda, 1985.
 
-[^itn1-2014]: [ITN1], *Ibn Sina’s Remarks & Admonitions: Physics & Metaphysics, An Analysis and Annotated Translation* (= *al-Ishārāt wa-l-tanbīhāt, nimāṭ* 1–7), Shams C. Inati (trans.), New York: Columbia University Press, 2014.
+[^ibn-2014]: [ITN1], *Ibn Sina’s Remarks & Admonitions: Physics & Metaphysics, An Analysis and Annotated Translation* (= *al-Ishārāt wa-l-tanbīhāt, nimāṭ* 1–7), Shams C. Inati (trans.), New York: Columbia University Press, 2014.
 
-[^itn2-1996]: [ITN2], *Ibn Sina and Mysticism: Remarks and Admonitions, Part Four* (= *al-Ishārāt wa-l-tanbīhāt, nimāṭ* 8–10), Shams Inati (trans.), London & New York: Kegan Paul International, 1996.
+[^ibn-1996]: [ITN2], *Ibn Sina and Mysticism: Remarks and Admonitions, Part Four* (= *al-Ishārāt wa-l-tanbīhāt, nimāṭ* 8–10), Shams Inati (trans.), London & New York: Kegan Paul International, 1996.
 
-[^metah-2005]: [MetaH] *The Metaphysics of The Healing*, Michael E. Marmura (ed./trans.), Provo, Utah: Brigham Young University Press, 2005.
+[^metaphysics-2005]: [MetaH] *The Metaphysics of The Healing*, Michael E. Marmura (ed./trans.), Provo, Utah: Brigham Young University Press, 2005.
 
-[^physh-2009]: [PhysH], *The Physics of The Healing*, Jon McGinnis (ed./trans.), Provo, Utah: Brigham Young University Press, 2009.
+[^physics-2009]: [PhysH], *The Physics of The Healing*, Jon McGinnis (ed./trans.), Provo, Utah: Brigham Young University Press, 2009.
 
 [^bāqillānī-nd]: Bāqillānī, Muḥammad ibn al-Ṭayyib (d. 1013)
 
-[^tamhīd-1957]: [*al-Tamhīd*], *Kitāb al-Tamhīd*, Richard J. McCarthy (ed.), Beirut: Librairie Orientale, 1957.
+[^kitāb-1957]: [*al-Tamhīd*], *Kitāb al-Tamhīd*, Richard J. McCarthy (ed.), Beirut: Librairie Orientale, 1957.
 
 [^fārābī-nd]: Fārābī, Abū Naṣr (d. 950)
 
 [^siyāsa-1964]: [*al-Siyāsa*], *al-Siyāsa l-madaniyya l-mulaqqab bi-mabādiʾ al-mawjūdāt*, Fauzi Najjār (ed.), Beirut: Imprimerie Catholique, 1964.
 
-[^perfect-1985]: [*Perfect State*], *al-Farabi on the Perfect State* (*Mabādiʼ ārāʼ ahl al-madīnat al-fāḍilah*), Richard Walzer (ed./trans.), Oxford: Clarendon Press, 1985.
+[^farabi-1985]: [*Perfect State*], *al-Farabi on the Perfect State* (*Mabādiʼ ārāʼ ahl al-madīnat al-fāḍilah*), Richard Walzer (ed./trans.), Oxford: Clarendon Press, 1985.
 
 [^tanbīh-1985]: [*al-Tanbīh*], *al-Tanbīh ʿalá sabīl al-saʿāda*, Jaʿfar Āl Yāsīn (ed.), Beirut: Dār al-Manāhil, 1985.
 
-[^milla-2001]: [*al-Milla*], *Kitāb al-Milla wa nuṣūṣ ukhrā*, Muḥsin Mahdī (ed.), third edition, Beirut: Dār al-Mashriq, 2001.
+[^kitāb-2001]: [*al-Milla*], *Kitāb al-Milla wa nuṣūṣ ukhrā*, Muḥsin Mahdī (ed.), third edition, Beirut: Dār al-Mashriq, 2001.
 
 [^alfarabi-2001]: *Alfarabi: The Political Writings, Volume 1: “Selected Aphorisms” and Other Texts*, Charles E. Butterworth (trans.), Ithaca, NY/London: Cornell University Press, 2001.
 
@@ -408,11 +408,11 @@ al-Ghazali | al-Razi, Fakhr al-Din | Arabic and Islamic Philosophy, disciplines 
 
 [^incoherence-2000]: [*Incoherence*], *The Incoherence of the Philosophers*, Michael E. Marmura (ed./trans.), Provo: Brigham Young University Press, 2000.
 
-[^fdu-2001]: [FDU], *Faith in Divine Unity and Trust in Divine Providence: The Revival of the Religious Sciences Book XXXV*, David B. Burrell (trans.), Louisville, KY: Fons Vitae, 2001.
+[^faith-2001]: [FDU], *Faith in Divine Unity and Trust in Divine Providence: The Revival of the Religious Sciences Book XXXV*, David B. Burrell (trans.), Louisville, KY: Fons Vitae, 2001.
 
 [^return-2008]: *A Return to Purity in Creed*, ʿAbduhhāh bin Ḥamīd ʿAlī (trans.), Philadelphia, PA: Lamp Post Productions, 2008.
 
-[^moderation-2013]: [*Moderation*], *Ghazālī’s Moderation in Belief*, Aladdin M. Yaqub (trans.), Chicago & London: Chicago University Press, 2013.
+[^ghazālī’s-2013]: [*Moderation*], *Ghazālī’s Moderation in Belief*, Aladdin M. Yaqub (trans.), Chicago & London: Chicago University Press, 2013.
 
 [^forty-2016]: [*Forty Principles*], *Al-Ghazālī’s Forty Principles of the Religion* (*al-Arbaʿin fī Uṣūl al-Dīn*), Nasir Abdussalam (trans.), London: Turath Publishing, 2016.
 
@@ -432,7 +432,7 @@ al-Ghazali | al-Razi, Fakhr al-Din | Arabic and Islamic Philosophy, disciplines 
 
 [^ibn-nd-4]: Ibn al-Malāhimī (d. 1141)
 
-[^fāʾiq-2007]: [*al-Fāʾiq*], *Kitāb al-Fāʾiq fī uṣūl al-dīn*, W. Madelung and M. McDermott (eds), Tehran: Iranian Institute of Philosophy, 2007.
+[^kitāb-2007]: [*al-Fāʾiq*], *Kitāb al-Fāʾiq fī uṣūl al-dīn*, W. Madelung and M. McDermott (eds), Tehran: Iranian Institute of Philosophy, 2007.
 
 [^ibn-nd-5]: Ibn Mattawayh
 
@@ -440,43 +440,43 @@ al-Ghazali | al-Razi, Fakhr al-Din | Arabic and Islamic Philosophy, disciplines 
 
 [^ibn-nd-6]: Ibn Rushd (or Averroes, d. 1198)
 
-[^tahafut-1992]: [*Tahafut*], *Averroès’ Tahafot al-Tahafot*, Maurice Bouyges (ed.), Beirut: Dār al-Mashriq Sarl, 1992. Translated in *Averroes’ Tahafut al-Tahafut* (*The Incoherence of the Incoherence*), Simon van den Bergh (trans.), Oxford: Oxford University Press, 1954.
+[^averroès’-1992]: [*Tahafut*], *Averroès’ Tahafot al-Tahafot*, Maurice Bouyges (ed.), Beirut: Dār al-Mashriq Sarl, 1992. Translated in *Averroes’ Tahafut al-Tahafut* (*The Incoherence of the Incoherence*), Simon van den Bergh (trans.), Oxford: Oxford University Press, 1954.
 
-[^metaphysics-1986]: [*Metaphysics*], *Ibn Rushd’s Metaphysics: A Translation with Introduction of Ibn Rushd’s Commentary on Aristotle’s Metaphysics, Book Lām*, Charles Genequand (trans.), Leiden: Brill, 1986. doi:10.1163/9789004451087
+[^ibn-1986]: [*Metaphysics*], *Ibn Rushd’s Metaphysics: A Translation with Introduction of Ibn Rushd’s Commentary on Aristotle’s Metaphysics, Book Lām*, Charles Genequand (trans.), Leiden: Brill, 1986. doi:10.1163/9789004451087
 
-[^questions-1991]: [*Questions*], *Averroes’ Questions in Physics: from the unpublished Sêfer ha-derûšîm ha-tibʼîyîm*, Helen Tunik Goldstein (ed./tran.), (The new *Synthese* historical library : texts and studies in the history of philosophy 39), Dordrecht/Boston: Kluwer Academic Publishers, 1991. doi:10.1007/978-94-009-2151-1
+[^averroes’-1991]: [*Questions*], *Averroes’ Questions in Physics: from the unpublished Sêfer ha-derûšîm ha-tibʼîyîm*, Helen Tunik Goldstein (ed./tran.), (The new *Synthese* historical library : texts and studies in the history of philosophy 39), Dordrecht/Boston: Kluwer Academic Publishers, 1991. doi:10.1007/978-94-009-2151-1
 
 [^decisive-2001]: [*Decisive*], *Decisive Treatise & Epistle Dedicatory*, Charles E. Butterworth (ed./trans.), Provo, Utah: Brigham Young University Press, 2001.
 
-[^expositions-2001]: [*Expositions*], *Faith and Reason in Islam: Averroes’ Exposition of Religious Arguments*, Ibrahim Y. Najjar (trans.), Oxford: Oneworld Publication, 2001.
+[^faith-2001-2]: [*Expositions*], *Faith and Reason in Islam: Averroes’ Exposition of Religious Arguments*, Ibrahim Y. Najjar (trans.), Oxford: Oneworld Publication, 2001.
 
 [^ibn-nd-7]: Ibn Ṭufayl (d. 1185)
 
-[^hiy-2003]: [HIY], *Hayy Ibn Yaqzān*, Lenn E. Goodman (trans.), Los Angeles, CA: Gee Tee Bee, 2003.
+[^hayy-2003]: [HIY], *Hayy Ibn Yaqzān*, Lenn E. Goodman (trans.), Los Angeles, CA: Gee Tee Bee, 2003.
 
 [^juwaynī-nd]: Juwaynī, Imām al-Haramayn (d. 1085)
 
-[^al-irshād-2002]: [*Al-Irshād*], *Kitāb al-Irshād ilá qawāṭiʿ al-adilla fī uṣūl al-iʿtiqād*, Muḥammad Yūsuf Mūsā and ʿAlī ʿAbd al-Munʿim ʿAbd al-Ḥamīd (eds), Cairo: Maktabat al-Khānjī, 2002.
+[^kitāb-2002]: [*Al-Irshād*], *Kitāb al-Irshād ilá qawāṭiʿ al-adilla fī uṣūl al-iʿtiqād*, Muḥammad Yūsuf Mūsā and ʿAlī ʿAbd al-Munʿim ʿAbd al-Ḥamīd (eds), Cairo: Maktabat al-Khānjī, 2002.
 
-[^proofs-2000]: [*Proofs*], *A Guide to Conclusive Proofs for the Principles of Belief*, (*Kitāb al-Irshād ilá qawāṭiʿ al-adilla fī uṣūl al-iʿtiqād*), Paul E. Walker (trans.), Reading, UK: Garnet Press, 2000.
+[^guide-2000]: [*Proofs*], *A Guide to Conclusive Proofs for the Principles of Belief*, (*Kitāb al-Irshād ilá qawāṭiʿ al-adilla fī uṣūl al-iʿtiqād*), Paul E. Walker (trans.), Reading, UK: Garnet Press, 2000.
 
 [^kindī-nd]: Kindī, Abū Yūsuf (d. ca. 866)
 
-[^rkf-1950]: [RKF], *Rasāʾil al-Kindī l-falsafiyya*, Muhammad Abū Rīda (ed.), Cairo: Dār al-Fikr al-ʿArabī, 1950–1953.
+[^rasāʾil-1950]: [RKF], *Rasāʾil al-Kindī l-falsafiyya*, Muhammad Abū Rīda (ed.), Cairo: Dār al-Fikr al-ʿArabī, 1950–1953.
 
-[^pwk-2012]: [PWK], *The Philosophical Works of al-Kindī*, Peter Adamson and Peter E. Porman (trans.), Oxford/New York: Oxford University Press, 2012.
+[^philosophical-2012]: [PWK], *The Philosophical Works of al-Kindī*, Peter Adamson and Peter E. Porman (trans.), Oxford/New York: Oxford University Press, 2012.
 
 [^māturīdī-nd]: Māturīdī, Abū Manṣūr (d. 944)
 
-[^kt-2003]: [KT] *Kitāb al-Tawḥīd*, Bekir Topaloğlu and Muhammed Aruçi (eds.), Ankara: İSAM, 2003.
+[^kitāb-2003]: [KT] *Kitāb al-Tawḥīd*, Bekir Topaloğlu and Muhammed Aruçi (eds.), Ankara: İSAM, 2003.
 
 [^mullā-1636]: Mullā Ṣadrā (d. 1636)
 
-[^penetrations-2014]: [*Penetrations*], 2014, *The Book of Metaphysical Penetrations: A Parallel English-Arabic Text*, Seyyed Hossein Nasr (ed./trans.), Provo: Brigham Young University, 2014.
+[^arabic-islamic-religion-2014]: [*Penetrations*], 2014, *The Book of Metaphysical Penetrations: A Parallel English-Arabic Text*, Seyyed Hossein Nasr (ed./trans.), Provo: Brigham Young University, 2014.
 
 [^nasafī-nd]: Nasafī, Abū l-Muʿīn Maymūn ibn Muḥammad (d. 1115)
 
-[^ta-2003]: [TA], *Tabṣirat al-adilla*, Hüseyin Atay and Şaban Ali Düzgün (eds), Ankara: Diyanet İşleri Başkanlığı Yayınları, 2003.
+[^tabṣirat-2003]: [TA], *Tabṣirat al-adilla*, Hüseyin Atay and Şaban Ali Düzgün (eds), Ankara: Diyanet İşleri Başkanlığı Yayınları, 2003.
 
 [^rāzī-nd]: Rāzī, Abū Ḥātim (d. ca. 933)
 
@@ -484,7 +484,7 @@ al-Ghazali | al-Razi, Fakhr al-Din | Arabic and Islamic Philosophy, disciplines 
 
 [^rāzī-nd-2]: Rāzī, Fakhr al-Dīn (d. 1210)
 
-[^opinions-1978]: [*Opinions*], *Muḥaṣṣal afkār al-mutaqaddimīn wa-l-mutaʾakhkhirīn min al-ʿulamāʾ wa-l-ḥukamāʾ wa-l-mutakallimīn*, Ṭāhā ʿAbd al-Raʾūf Saʿd (ed.), Cairo: Maktabat al-Kulliyyāt al-Azhariyya, 1978.
+[^muḥaṣṣal-1978]: [*Opinions*], *Muḥaṣṣal afkār al-mutaqaddimīn wa-l-mutaʾakhkhirīn min al-ʿulamāʾ wa-l-ḥukamāʾ wa-l-mutakallimīn*, Ṭāhā ʿAbd al-Raʾūf Saʿd (ed.), Cairo: Maktabat al-Kulliyyāt al-Azhariyya, 1978.
 
 [^maṭālib-1987]: [*al-Maṭālib*], *al-Maṭālib al-ʿāliyya min al-ʿilm al-ilāhī*, Aḥmad Ḥijāzī al-Saqqā (ed.), Beirut: Dār al-Kitāb al-ʿArabī, 1987.
 
@@ -496,13 +496,13 @@ al-Ghazali | al-Razi, Fakhr al-Din | Arabic and Islamic Philosophy, disciplines 
 
 [^taftāzānī-nd]: Taftāzānī, Masʿūd ibn ʿUmar (d. 1390)
 
-[^creed-1950]: [*Creed*], 1950, *A Commentary on the Creed of Islam: Saʿd al-Dīn al-Taftāzānī on the Creed of Najm al-Dīn al-Nasafī*, Earl Edgar Elder (trans.), New York: Columbia University Press, 1950.
+[^arabic-islamic-religion-1950]: [*Creed*], 1950, *A Commentary on the Creed of Islam: Saʿd al-Dīn al-Taftāzānī on the Creed of Najm al-Dīn al-Nasafī*, Earl Edgar Elder (trans.), New York: Columbia University Press, 1950.
 
 [^tirmidhī-nd]: Tirmidhī, Muḥammad ibn ʿAlī Ḥakīm (d. ca. 869)
 
 [^kitāb-1998]: *Kitāb Ithbāt al-ʿilal*, Khālid Zahrī (ed.), Rabat: Jāmiʻat Muḥammad al-Khāmis, Kulliyyat al-Ādāb wa-l-ʿUlūm al-Insāniyya, 1998.
 
-[^mr07-2007]: [MR07] McGinnis, Jon and David C. Reisman (eds.), 2007, *Classical Arabic Philosophy: An Anthology of Sources*, Indianapolis, IN: Hackett Publishing Company.
+[^mcginnis-2007]: [MR07] McGinnis, Jon and David C. Reisman (eds.), 2007, *Classical Arabic Philosophy: An Anthology of Sources*, Indianapolis, IN: Hackett Publishing Company.
 
 [^abou-2019]: Abou El Fadl, Khaled, Ahmad Atif Ahmad, and Said Fares Hassan (eds.), 2019, *Routledge Handbook of Islamic Law*, (Routledge Handbooks), London/New York: Routledge. doi:10.4324/9781315753881
 

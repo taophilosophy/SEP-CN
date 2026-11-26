@@ -178,7 +178,7 @@ Aristotle | atheism and agnosticism | doxography of ancient philosophy | Plato |
 
 [^bonazzi-2007]: Bonazzi, Mauro, 2007, *I sofisti*, Milan: Rizzoli.
 
-[^dk-1951]: [DK] Diels, Hermann and Walther Kranz, 1951–1952, *Die Fragmente der Vorsokratiker*, sixth edition, Berlin: Weidmann.
+[^diels-1951]: [DK] Diels, Hermann and Walther Kranz, 1951–1952, *Die Fragmente der Vorsokratiker*, sixth edition, Berlin: Weidmann.
 
 [^dillon-2003]: Dillon, John and Tania Gergel, 2003, *The Greek Sophists*, London: Penguin.
 

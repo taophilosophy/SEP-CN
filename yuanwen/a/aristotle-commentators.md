@@ -343,13 +343,13 @@ Thanks to Christopher Shields for commenting on a draft of this entry.
 
 [^simplicius-2009-2]: –––, *On Aristotle On the Heavens 3.7–4.6*, I. Müller (trans.), Bristol: Bristol Classical Press, 2009.
 
-[^simplicius-1996]: [Simplicius], *On Aristotle’s On the Soul 1.1–2.4* , J. O. Urmson, P. Lautner (trans.), Ithaca: Cornell University Press, 1996.
+[^aristotle’s-1996]: [Simplicius], *On Aristotle’s On the Soul 1.1–2.4* , J. O. Urmson, P. Lautner (trans.), Ithaca: Cornell University Press, 1996.
 
-[^simplicius-1997-3]: –––, *On Aristotle’s On the Soul 2.5–12* , C. Steel, C. J. O. Urmson (trans.), London: Duckworth and Ithaca: Cornell University Press, 1997.
+[^aristotle’s-1997]: –––, *On Aristotle’s On the Soul 2.5–12* , C. Steel, C. J. O. Urmson (trans.), London: Duckworth and Ithaca: Cornell University Press, 1997.
 
-[^simplicius-1995]: –––, *On Aristotle’s On the Soul 3.1–5*, H. J. Blumenthal, (trans.), London: Duckworth and Ithaca: Cornell University Press, 1995.
+[^aristotle’s-1995]: –––, *On Aristotle’s On the Soul 3.1–5*, H. J. Blumenthal, (trans.), London: Duckworth and Ithaca: Cornell University Press, 1995.
 
-[^simplicius-2013-2]: –––, *On Aristotle’s On the Soul 3.6–13*, C. Steel (trans.), Bristol: Bristol Classical Press, 2013.
+[^aristotle’s-2013]: –––, *On Aristotle’s On the Soul 3.6–13*, C. Steel (trans.), Bristol: Bristol Classical Press, 2013.
 
 [^strabo-2002]: Strabo, *Geographika*, S. Radt (ed.) (10 volumes), Göttingen: Vandenhoeck & Ruprecht, 2002–2010.
 

@@ -724,15 +724,15 @@ analysis | Ayer, Alfred Jules | Bradley, Francis Herbert | cognitivism vs. non-c
 
 [^mysticism-1994]: *Mysticism and Logic and Other Essays*, London: Routledge, 1994 (originally published 1918).
 
-[^pe-1994]: [*PE*], *Philosophical Essays*, London: Routledge, 1994 (originally published in this format 1961 and in an earlier version with a slightly different selection of essays in 1910).
+[^philosophical-1994]: [*PE*], *Philosophical Essays*, London: Routledge, 1994 (originally published in this format 1961 and in an earlier version with a slightly different selection of essays in 1910).
 
 [^portraits-1956]: *Portraits From Memory and Other Essays*, London: George Allen and Unwin, 1956.
 
-[^roe-1999]: [*RoE*], *Russell on Ethics*, edited by Charles Pigden, London: Routledge, 1999.
+[^russell-1999]: [*RoE*], *Russell on Ethics*, edited by Charles Pigden, London: Routledge, 1999.
 
-[^rom-2003]: [*RoM*], *Russell on Metaphysics*, edited by Stephen Mumford, London: Routledge, 2003.
+[^russell-2003]: [*RoM*], *Russell on Metaphysics*, edited by Stephen Mumford, London: Routledge, 2003.
 
-[^ror-1999]: [*RoR*], *Russell on Religion*, edited by Louis Greenspan and Stefan Anderson, London: Routledge, 1999.
+[^russell-1999-2]: [*RoR*], *Russell on Religion*, edited by Louis Greenspan and Stefan Anderson, London: Routledge, 1999.
 
 [^selected-1884]: *The Selected Letters of Bertrand Russell*: *The Private Years, 1884–1914*, edited by Nicholas Griffin, London: Routledge, 2002.
 

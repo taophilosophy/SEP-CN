@@ -226,7 +226,7 @@ To the anatomization of metaphysics conceived as a science of being, should be a
 
 Menn (2013: 144–147)[^menn-2013] highlights the points that Avicenna and Aristotle have in common: Avicenna’s *Metaphysics* begins with an account of being and unity and their attributes, proceeds to examine the different kinds of cause, and then argues that the first cause of being is a single first being (God); this could be said to correspond in a very broad sense to the structure of Aristotle’s *Metaphysics*: Α, Β, Γ discuss being and unity; Δ deals with general concepts such as the kinds of cause, the kinds of priority, and the different senses and attributes of being and unity, ΕΖΗΘ discuss being and describe kinds of being such as substance (ΖΗ) and potentiality and actuality (Θ); Book I describes unity and plurality and related attributes; the conclusions reached in previous books are used to argue for the existence of a divine First Principle and Its attributes (Λ). (Κ repeats other material, ΜΝ argue against Academic theories of forms and numbers); Lambda considers God, primarily as a first cause of motion, whereas for Avicenna the First Principle is a cause of being. In addition to these detailed divisions there is a more general one: in his *Metaphysics* Avicenna first presents his ontology and the founding elements of the analysis of being (existence, the species and the properties of being, the causes), then builds up his system using the Neo-Platonic idea of emanation: VII discusses the idea of separation, VIII–IX deal with the Principle and Its emanation and X (which might be read as a treatise on human being, in which the descending moment of procession and the ascending moment to the Principle coincide), deals with social, political and religious issues in the light of metaphysics and of the necessity that the human species be permanent. X (especially X 4–5) has its ultimate source in Plato’s *Republic* and it is clearly reminiscent of the metaphysical-political ideas al-Fārābī expresses in his *Virtuous City* (*Kitāb fī ārāʾ ahl al-Madīna al-fāḍila)* and in his *The Principles of beings* or *The Book of the Political Government* (*K. al-Siyāsa al-madaniya*). For the project of a critical edition of the *Ilāhiyyāt* of *K. al-Šifā*, see Bertolacci 2008a,b.
 
-[^note-3]: *Maqāla […] fī agrād al-ḥakīm fī kulli maqālatin min al-Kitāb al-mawsūm bi-l-ḥurūf* in Dieterici 1890. Avicenna declares in his Autobiography (Gohlman 1974: 32–35)[^gohlman-1974] that he understood the purpose Aristotle had in writing his *Metaphysics* only after reading this short work by al-Fārābī. See Bertolacci 2006; Gutas 2014; Koutzarova 2009: 13–30.
+[^note-3]: *Maqāla […] fī agrād al-ḥakīm fī kulli maqālatin min al-Kitāb al-mawsūm bi-l-ḥurūf* in Dieterici 1890. Avicenna declares in his Autobiography (Gohlman 1974: 32–35) that he understood the purpose Aristotle had in writing his *Metaphysics* only after reading this short work by al-Fārābī. See Bertolacci 2006; Gutas 2014; Koutzarova 2009: 13–30.
 
 [^note-4]: Avicenna refers to the Principle in various ways, e.g., as First Principle, First Cause, the First, Pure Good (VIII, 6, 355, 11), First Good (IX, 3, 401, 6), the Necessary Existent; one occurrence (I, 1, 4, 16)—if one accepts Bertolacci’s correction (*Le cose divine* and the new edition project)—refers to “the cause of the causes” and “the Principle of the principles”. One must consider not only these philosophical determinations, but also the religious ones: God (see here below note 9) and the “Lord of the world” (*rabb al-ʿalāmīna*) as in IX, 7, 424, 14–15 or “the Lord who is a knower” (*al-ʿālim al-rububī*: VIII, 7, 364,13), a locution which is reminiscent of the pseudo-*Theology of Aristotle*.
 
@@ -240,7 +240,7 @@ Menn (2013: 144–147)[^menn-2013] highlights the points that Avicenna and Arist
 
 [^note-9]: The main conceptual reference here is the Neo-Platonic theme of the one and the manifold effect; nonetheless, the Islamic assertion of divine oneness (*tawḥīd*) is also confirmed: Avicenna equates the Necessary Existent to God in several passages: e.g., *Ilāhiyyāt*, I, 1, 5, 13–7, 6; VIII, 6, 362, 4–11 (the First); 359 (the Necessary Existent); IX, 6, 418, 12–15 (the First Ruler); 7, 424, 14–15 (the Lord of the Worlds); 431, 8 (God); X, 2, 3; cf. *Taʿlīqāt*, 80, 81; 175–176; Janssens 2004, 2006. Nevertheless, this identification is obviously problematic (Adamson 2013a)[^adamson-2013a].
 
-[^note-10]: In *Ilāhiyyāt*, VI, 3, 276, 12–14 one reads *fī ʿiddat aḥkām*; Marmura (*The Metaphysics of “The Healing”*, 213) translates it as «in terms of a number of [modes]»; a possible correction is *fī ṯalāṯati aḥkām* (see Avicenna, *Metafisica*, 613; *Le cose divine*, 121 and 535); the Latin text (*Liber de philosophia prima*, 317) has: «*tribus modis*»; cf. also *Išārāt*, III, ed. Dunyā, 118–127; Michot 1997: 186. The question cannot be resolved without a comparative examination of Avicenna’s writings (see e.g., the *Epistle on the divisions of the rational sciences*). To some extent, these distinctions are traditional; see al-Fārābī, who in his *Aims* (or *Scopes*, Arabic *Aġrāḍ*) *in each Book of the Treatise Designated by Letters* (*Maqāla… fī aġrāḍ*, see Dieterici 1890: 35, 8–11)[^dieterici-1890], asserts that metaphysics (the universal science) investigates existence and oneness, which are common to all beings, together with priority and posteriority (*al-taqaddum wa-l-taʾaḫḫur*), potency and act (or potentiality and actuality: *al-quwwa wa-l-fiʿl*), and perfection and deficiency (literally: the perfect and the deficient or defective: *al-tāmm wa-l-nāqiṣ*); these three are defined as both types (*anwāʿ*) and concomitants (*lawāḥiq*) of existence and oneness; on this, see Wisnovsky 2003a: Ch. 5, pp. 108 *et seq.*; and in chap. 11 Wisnovsky notes that necessity and possibility do not appear in al-Fārābī’s analysis.
+[^note-10]: In *Ilāhiyyāt*, VI, 3, 276, 12–14 one reads *fī ʿiddat aḥkām*; Marmura (*The Metaphysics of “The Healing”*, 213) translates it as «in terms of a number of [modes]»; a possible correction is *fī ṯalāṯati aḥkām* (see Avicenna, *Metafisica*, 613; *Le cose divine*, 121 and 535); the Latin text (*Liber de philosophia prima*, 317) has: «*tribus modis*»; cf. also *Išārāt*, III, ed. Dunyā, 118–127; Michot 1997: 186. The question cannot be resolved without a comparative examination of Avicenna’s writings (see e.g., the *Epistle on the divisions of the rational sciences*). To some extent, these distinctions are traditional; see al-Fārābī, who in his *Aims* (or *Scopes*, Arabic *Aġrāḍ*) *in each Book of the Treatise Designated by Letters* (*Maqāla… fī aġrāḍ*, see Dieterici 1890: 35, 8–11), asserts that metaphysics (the universal science) investigates existence and oneness, which are common to all beings, together with priority and posteriority (*al-taqaddum wa-l-taʾaḫḫur*), potency and act (or potentiality and actuality: *al-quwwa wa-l-fiʿl*), and perfection and deficiency (literally: the perfect and the deficient or defective: *al-tāmm wa-l-nāqiṣ*); these three are defined as both types (*anwāʿ*) and concomitants (*lawāḥiq*) of existence and oneness; on this, see Wisnovsky 2003a: Ch. 5, pp. 108 *et seq.*; and in chap. 11 Wisnovsky notes that necessity and possibility do not appear in al-Fārābī’s analysis.
 
 [^note-11]: Each status combines Neo-Platonic and religious usage. Anteriority and posteriority—which legitimate the idea of hierarchy—are clearly Neo-Platonic but also evoke some of the divine names of the Islamic tradition (the First—*al-awwal*—and the anterior or pre-eternal : *qadīm, mutaqaddim*); the term “rich” (*ġanī*) is to be found in both the Neo-Platonic texts and in the Qurʾanic lexicon.
 
@@ -262,13 +262,13 @@ Menn (2013: 144–147)[^menn-2013] highlights the points that Avicenna and Arist
 
 [^metafisica-2002]: *Metafisica. La scienza delle cose divine dal Libro della guarigione (Kitāb al-Šifāʾ)*, Testo arabo a fronte, testo latino in nota. Traduzione dall’arabo, introduzioni, note e apparati di O. Lizzini. Prefazione e cura editoriale di P. Porro, Milano: Bompiani, 2006² (I ed. 2002).
 
-[^le-2007]: [*Le cose divine*] *Libro della guarigione. Le cose divine*, a cura di A. Bertolacci, Torino: Utet, 2007.
+[^libro-2007]: [*Le cose divine*] *Libro della guarigione. Le cose divine*, a cura di A. Bertolacci, Torino: Utet, 2007.
 
 [^naǧāt-1985]: [*Naǧāt*/*Salvation*] *K. al-Naǧāt min al-ġaraq fī baḥr al-ḍalālāt (Salvation of the Immersion in the Sea of Errors)*, [ed. and introduction by] M. Dānišpazūh (Daneshpazhuh), Tehran: Dānišga (Daneshga) Tehran, 1985/1405.
 
 [^išārāt-1957]: [*Išārāt*] *K. al-Išārāt wa-l-Tanbīhāt li-Abī ʿAlī ibn Sīnā maʿa šarḥ Naṣīr al-Dīn al-Ṭūsī*, edited by S. Dunyā, al-Qāhira [Cairo]: Dār al-Maʿārif, 1957, IV voll.
 
-[^remarks-2014]: [*Remarks*] *Ibn Sina’s Remarks and Admonitions: Physics and Metaphysics. An Analysis and Annotated Translation*, New York: Columbia University Press, 2014.
+[^ibn-2014]: [*Remarks*] *Ibn Sina’s Remarks and Admonitions: Physics and Metaphysics. An Analysis and Annotated Translation*, New York: Columbia University Press, 2014.
 
 [^livre-1951]: *Livre des directives et remarques (Kitāb al-Ishārāt wa-l-Tanbīhāt)*. Traduction avec introduction et notes par A.M. Goichon, Paris: Vrin, 1951 [reprint Paris: Vrin—Unesco, 1999].
 
@@ -282,7 +282,7 @@ Menn (2013: 144–147)[^menn-2013] highlights the points that Avicenna and Arist
 
 [^livre-2002]: *Livre de la Genèse et du Retour*, Traduction française intégrale par Y. Michot, Oxford 2002. http://www.muslimphilosophy.com/sina/works/AN195.pdf.
 
-[^science-1955]: [*Science*] *Le livre de Science: I (Logique, Métaphysique), II (Science naturelle, Mathématiques)*, trad. par M. Achena et H. Massé, Paris: Les Belles Lettres, 1955–1958 [2. éd. revue et corrigée 1986].
+[^le-1955]: [*Science*] *Le livre de Science: I (Logique, Métaphysique), II (Science naturelle, Mathématiques)*, trad. par M. Achena et H. Massé, Paris: Les Belles Lettres, 1955–1958 [2. éd. revue et corrigée 1986].
 
 [^metaphysica-1973]: *The “Metaphysica” of Avicenna (Ibn Sīnā): A Critical Translation-Commentary and Analysis of the Fundamental Arguments in Avicenna’s “Metaphysica” in the “Dānish Nāma-i ʿalāʾi” (The Book of Scientific Knowledge)*, P. Morewedge (ed.), London: Routledge and Kegan, 1973.
 
@@ -296,17 +296,17 @@ Menn (2013: 144–147)[^menn-2013] highlights the points that Avicenna and Arist
 
 [^physics-2010]: [*Physics of “The Healing”*] –––, *The Physics of “The Healing” (Books I & II): A parallel English-Arabic text*, Jon McGinnis (ed. and trans.), Provo, UT: Brigham Young University Press, 2010.
 
-[^kitāb-1963]: [*Ḥudūd*] –––, *Kitāb al-Ḥudūd: Le livre des définitions, (Kitāb al-Ḥudūd)*, édité, traduit et annoté par A.M. Goichon, Le Caire: Institut Français d’Archéologie Orientale, 1963.
+[^physics-1963]: [*Ḥudūd*] –––, *Kitāb al-Ḥudūd: Le livre des définitions, (Kitāb al-Ḥudūd)*, édité, traduit et annoté par A.M. Goichon, Le Caire: Institut Français d’Archéologie Orientale, 1963.
 
-[^gohlman-1974]: [Gohlman 1974] –––, *The Life of Ibn Sīnā: A Critical Edition and Annotated Translation*, W.E. Gohlman, Albany: State University of New York Press, 1974.
+[^physics-1974]: [Gohlman 1974] –––, *The Life of Ibn Sīnā: A Critical Edition and Annotated Translation*, W.E. Gohlman, Albany: State University of New York Press, 1974.
 
 [^averroes-2010]: [*Averroes on Aristotle’s “Metaphysics”*] Averroes, *Averroes on Aristotle’s “Metaphysics”: An Annotated Translation of the So-called “Epitome”*, by R. D. Arnzen, Berlin: De Gruyter, 2010.
 
-[^badawi-1947]: [Badawi] *Arīsṭū ʿinda al-ʿArab (Aristoteles apud Arabes). Dirāsāt wa-nuṣūṣ ġayr manšūra*, A. Badawi (ed.),al-Qāhira: Maṭbaʿa Miṣr, 1947. Reprinted al-Kuwayt: Wikālat al-maṭbūʿāt, 1978.
+[^arīsṭū-1947]: [Badawi] *Arīsṭū ʿinda al-ʿArab (Aristoteles apud Arabes). Dirāsāt wa-nuṣūṣ ġayr manšūra*, A. Badawi (ed.),al-Qāhira: Maṭbaʿa Miṣr, 1947. Reprinted al-Kuwayt: Wikālat al-maṭbūʿāt, 1978.
 
 [^pormann-2012]: Pormann, P. and P. Adamson (eds.), *The Philosophical Works by al-Kindī*, Karachi: Oxford University Press, 2012.
 
-[^dieterici-1890]: [Dieterici 1890] al-Fārābī, *Maqāla fī aġrāḍ al-ḥakīm fī kulli maqālatin min al-kitāb al-mawsūm bi-l-ḥurūf*, F. Dieterici (ed.), *(Alfarabis philosophische Abhandlungen)*, Leiden 1890.
+[^fārābī-1890]: [Dieterici 1890] al-Fārābī, *Maqāla fī aġrāḍ al-ḥakīm fī kulli maqālatin min al-kitāb al-mawsūm bi-l-ḥurūf*, F. Dieterici (ed.), *(Alfarabis philosophische Abhandlungen)*, Leiden 1890.
 
 [^adamson-2013a]: Adamson, P., 2013a, “From the necessary existent to God”, in Adamson 2013b: 170–189.
 

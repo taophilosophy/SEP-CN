@@ -388,11 +388,11 @@ Aristotle, General Topics: logic | atomism: ancient | form vs. matter | rational
 
 The author wishes to acknowledge the support of both the Wellcome Trust and the Alexander von Humboldt Foundation for funding of the research project in the course of which this article was written.
 
-[^cmg-1914]: [**CMG**] *Corpus Medicorum Graecorum*, various editors, Leipzig: Teubner, and Berlin: Akademie Verlag, 1914– ; [CMG available online](http://cmg.bbaw.de/epubl/online/editionen.html).
+[^corpus-1914]: [**CMG**] *Corpus Medicorum Graecorum*, various editors, Leipzig: Teubner, and Berlin: Akademie Verlag, 1914– ; [CMG available online](http://cmg.bbaw.de/epubl/online/editionen.html).
 
-[^kühn-1821]: [**Kühn**] *C. Galeni Opera Omnia*, ed. C.G. Kühn, 20 volumes, Leipzig: C. Cnoblochii, 1821–33, repr. Hildesheim: Georg Olms, 1964–65; [Kühn available online](http://www.biusante.parisdescartes.fr/histoire/medica/resultats/?intro=galien&statut=charge&fille=o&cotemere=45674).
+[^galeni-1821]: [**Kühn**] *C. Galeni Opera Omnia*, ed. C.G. Kühn, 20 volumes, Leipzig: C. Cnoblochii, 1821–33, repr. Hildesheim: Georg Olms, 1964–65; [Kühn available online](http://www.biusante.parisdescartes.fr/histoire/medica/resultats/?intro=galien&statut=charge&fille=o&cotemere=45674).
 
-[^sm-1884]: [**SM**] *C. Galeni Pergameni Scripta Minora*, ed. J. Marquardt, I. Müller and G. Helmreich, 3 volumes, Leipzig: Teubner, 1884–93; [SM available online](http://cmg.bbaw.de/epubl/online/publiweitereausgaben_galen.html).
+[^galeni-1884]: [**SM**] *C. Galeni Pergameni Scripta Minora*, ed. J. Marquardt, I. Müller and G. Helmreich, 3 volumes, Leipzig: Teubner, 1884–93; [SM available online](http://cmg.bbaw.de/epubl/online/publiweitereausgaben_galen.html).
 
 [^singer-1997a]: Singer, P.N., 1997a, *Galen: Selected Works*, Oxford: Oxford University Press.
 
@@ -402,55 +402,55 @@ The author wishes to acknowledge the support of both the Wellcome Trust and the 
 
 [^aff-1937]: [***Aff. Pecc. Dig.***] *Affections and Errors of the Soul* (*De propriorum animi cuiuslibet affectuum et peccatorum dignotione et curatione*), ed. W. de Boer, CMG V 4.1.1, 1937; English trans. in Singer 1997a and 2013.
 
-[^cc-1969]: [***CC***] *Containing Causes* (*De causis contentivis*), ed. and English trans. M. Lyons, K. Kalbfleisch, J. Kollesch, D. Nickel, and G. Strohmaier, CMG, Supplementum Orientale II, 1969.
+[^containing-1969]: [***CC***] *Containing Causes* (*De causis contentivis*), ed. and English trans. M. Lyons, K. Kalbfleisch, J. Kollesch, D. Nickel, and G. Strohmaier, CMG, Supplementum Orientale II, 1969.
 
-[^cp-1998]: [***CP***] *Antecedent Causes* (*De causis procatarcticis*), ed. and English trans. R.J. Hankinson, *Galen on Antecedent Causes*, Cambridge: Cambridge University Press, 1998.
+[^antecedent-1998]: [***CP***] *Antecedent Causes* (*De causis procatarcticis*), ed. and English trans. R.J. Hankinson, *Galen on Antecedent Causes*, Cambridge: Cambridge University Press, 1998.
 
-[^di-2011]: [***Di. Dec.***] *Critical Days* (*De diebus decretoriis*), ed. and English trans. G. M. Cooper, *Galen, De diebus decretoriis, from Greek into Arabic*, Ashgate, 2011.
+[^critical-2011]: [***Di. Dec.***] *Critical Days* (*De diebus decretoriis*), ed. and English trans. G. M. Cooper, *Galen, De diebus decretoriis, from Greek into Arabic*, Ashgate, 2011.
 
 [^foet-2001]: [***Foet. Form.***] *The Shaping of the Embryo* (*De foetuum formatione*), ed. and German trans. D. Nickel, CMG V 3.3, 2001; English trans. in Singer 1997a.
 
 [^hipp-1996]: [***Hipp. Elem.***] *Elements According to Hippocrates* (*De elementis ex Hippocrate*), ed. and English trans. P. de Lacy, CMG V 1.2, 1996.
 
-[^hnh-1914]: [***HNH***] *Commentary on Hippocrates’ “Nature of the Human Being”* (*In Hippocratis De natura hominis*), ed. J. Mewaldt, CMG V 9.1, 1914.
+[^commentary-1914]: [***HNH***] *Commentary on Hippocrates’ “Nature of the Human Being”* (*In Hippocratis De natura hominis*), ed. J. Mewaldt, CMG V 9.1, 1914.
 
-[^ind-2010]: [***Ind.***] *Avoiding Distress* (*De indolentia*), ed. and French trans. V. Boudon-Millot and J. Jouanna, with A. Pietrobelli, *Galien: Oeuvres*, IV, Paris: Les Belles Lettres, 2010; English trans. by V. Nutton in Singer 2013.
+[^avoiding-2010]: [***Ind.***] *Avoiding Distress* (*De indolentia*), ed. and French trans. V. Boudon-Millot and J. Jouanna, with A. Pietrobelli, *Galien: Oeuvres*, IV, Paris: Les Belles Lettres, 2010; English trans. by V. Nutton in Singer 2013.
 
-[^inst-1896]: [***Inst. Log.***] *Introduction to Logic* (*Institutio logica*), ed. K. Kalbfleisch, Leipzig: Teubner, 1896, [Inst. Log. available online](http://cmg.bbaw.de/epubl/online/wa_galen_inst_log.php); English trans. J. S. Kieffer, *Galen’s Institutio Logica*, Baltimore, 1964.
+[^introduction-1896]: [***Inst. Log.***] *Introduction to Logic* (*Institutio logica*), ed. K. Kalbfleisch, Leipzig: Teubner, 1896, [Inst. Log. available online](http://cmg.bbaw.de/epubl/online/wa_galen_inst_log.php); English trans. J. S. Kieffer, *Galen’s Institutio Logica*, Baltimore, 1964.
 
-[^lib-2007]: [***Lib. Prop.***] *My Own Books* (*De libris propriis*, ed. and French trans. V. Boudon-Millot in *Galien: Oeuvres*, I, Paris: Les Belles Lettres, 2007; English trans. in Singer 1997a.
+[^my-2007]: [***Lib. Prop.***] *My Own Books* (*De libris propriis*, ed. and French trans. V. Boudon-Millot in *Galien: Oeuvres*, I, Paris: Les Belles Lettres, 2007; English trans. in Singer 1997a.
 
-[^mm-2011]: [***MM***] *The Method of Healing* (*De methodo medendi*), ed. Kühn X, pp. 1–1021; English trans. I. Johnston and G.H.R. Horsley, 3 vols., Loeb Classical Library, 2011.
+[^method-2011]: [***MM***] *The Method of Healing* (*De methodo medendi*), ed. Kühn X, pp. 1–1021; English trans. I. Johnston and G.H.R. Horsley, 3 vols., Loeb Classical Library, 2011.
 
-[^mor-1937]: [***Mor.***] *Character Traits* (*De moribus*), Arabic text ed. P. Kraus, “Kitāb al-Akhlāq li-Jālīnus”, *Bulletin of the Faculty of Arts of the Egyptian University*, 5.1 (1937): 1–51; English trans. by D. Davies in Singer 2013.
+[^character-1937]: [***Mor.***] *Character Traits* (*De moribus*), Arabic text ed. P. Kraus, “Kitāb al-Akhlāq li-Jālīnus”, *Bulletin of the Faculty of Arts of the Egyptian University*, 5.1 (1937): 1–51; English trans. by D. Davies in Singer 2013.
 
-[^mot-2009]: [***Mot. Musc.***] *The Motion of Muscles* (*De motu musculorum*), ed. and Italian trans. P. Rosa, Pisa and Rome: Fabrizio Serra, 2009.
+[^motion-2009]: [***Mot. Musc.***] *The Motion of Muscles* (*De motu musculorum*), ed. and Italian trans. P. Rosa, Pisa and Rome: Fabrizio Serra, 2009.
 
-[^nat-1893]: [***Nat. Fac.***] *Natural Capacities* (*De naturalibus facultatibus*), ed. G. Helmreich, SM III, 1893; English trans. A.J. Brock, Loeb Classical Library, 1916.
+[^natural-1893]: [***Nat. Fac.***] *Natural Capacities* (*De naturalibus facultatibus*), ed. G. Helmreich, SM III, 1893; English trans. A.J. Brock, Loeb Classical Library, 1916.
 
-[^opt-1991]: [***Opt. Doc.***] *The Best Teaching* (*De optima doctrina*), ed. and Italian trans. A. Barigazzi, CMG V 1.1, 1991.
+[^best-1991]: [***Opt. Doc.***] *The Best Teaching* (*De optima doctrina*), ed. and Italian trans. A. Barigazzi, CMG V 1.1, 1991.
 
-[^opt-2007]: [***Opt. Med.***] *The Best Doctor is Also a Philosopher* (*Quod optimus medicus sit quoque philosophus*), ed. and French trans. V. Boudon-Millot in *Galien: Oeuvres*, I, Paris: Les Belles Lettres, 2007; English trans. in Singer 1997a.
+[^best-2007]: [***Opt. Med.***] *The Best Doctor is Also a Philosopher* (*Quod optimus medicus sit quoque philosophus*), ed. and French trans. V. Boudon-Millot in *Galien: Oeuvres*, I, Paris: Les Belles Lettres, 2007; English trans. in Singer 1997a.
 
 [^ord-2007]: [***Ord. Lib. Prop.***] *The Order of My Own Books* (*De ordine librorum propriorum*), ed. and French trans. V. Boudon-Millot in *Galien: Oeuvres*, I, Paris: Les Belles Lettres, 2007; English trans. in Singer 1997a.
 
-[^php-1978]: [***PHP***] *The Doctrines of Hippocrates and Plato* (*De placitis Hippocratis et Platonis*, ed. and English trans. P. de Lacy, CMG V 4.1.2, 1978–84, 2ⁿᵈ edn. 2005.
+[^doctrines-1978]: [***PHP***] *The Doctrines of Hippocrates and Plato* (*De placitis Hippocratis et Platonis*, ed. and English trans. P. de Lacy, CMG V 4.1.2, 1978–84, 2ⁿᵈ edn. 2005.
 
-[^praen-1979]: [***Praen.***] *Prognosis* (*De praenotione ad Epigenem*), ed. and English trans. V. Nutton, CMG V 8.1, 1979.
+[^prognosis-1979]: [***Praen.***] *Prognosis* (*De praenotione ad Epigenem*), ed. and English trans. V. Nutton, CMG V 8.1, 1979.
 
 [^prop-1999]: [***Prop. Plac.***] *My Own Doctrines* (*De propriis placitis*), ed. and English trans. V. Nutton, CMG V 3.2, 1999 (ed. and French trans. of fuller Greek text V. Boudon-Millot and A. Pietrobelli, “Galien Ressuscité: Édition Princeps du Texte Grec du De Propriis Placitis”, *Revue des Études Grecques*, 118 (2005): 168–213).
 
-[^qam-1891]: [***QAM***] *The Capacities of the Soul Depend on the Mixture of the Body* (*Quod animi mores corporis temperamenta sequantur*), ed. I. Müller, SM II, 1891; English trans. in Singer 1997a and 2013.
+[^capacities-1891]: [***QAM***] *The Capacities of the Soul Depend on the Mixture of the Body* (*Quod animi mores corporis temperamenta sequantur*), ed. I. Müller, SM II, 1891; English trans. in Singer 1997a and 2013.
 
-[^san-1923]: [***San. Tu.***] *Matters of Health* (*De sanitate tuenda*), ed. K. Koch, CMG V 4.2, 1923.
+[^matters-1923]: [***San. Tu.***] *Matters of Health* (*De sanitate tuenda*), ed. K. Koch, CMG V 4.2, 1923.
 
-[^sem-1992]: [***Sem.***] *Semen* (*De semine*), ed. and English trans. P. de Lacy, CMG V 3.1, 1992.
+[^semen-1992]: [***Sem.***] *Semen* (*De semine*), ed. and English trans. P. de Lacy, CMG V 3.1, 1992.
 
-[^si-1893]: [***SI***] *Sects for Beginners* (*De sectis ad eos qui introducuntur*), ed. G. Helmreich, SM III, 1893; translation in Walzer and Frede 1985.
+[^sects-1893]: [***SI***] *Sects for Beginners* (*De sectis ad eos qui introducuntur*), ed. G. Helmreich, SM III, 1893; translation in Walzer and Frede 1985.
 
-[^temp-1904]: [***Temp.***] *Mixtures* (*De temperamentis*), ed. G. Helmreich, Teubner, 1904, [[*Temp.* available online](http://cmg.bbaw.de/epubl/online/publiweitereausgaben_galen.html)]. English trans. in Singer 1997a and Singer and van der Eijk 2013.
+[^mixtures-1904]: [***Temp.***] *Mixtures* (*De temperamentis*), ed. G. Helmreich, Teubner, 1904, [[*Temp.* available online](http://cmg.bbaw.de/epubl/online/publiweitereausgaben_galen.html)]. English trans. in Singer 1997a and Singer and van der Eijk 2013.
 
-[^up-1907]: [***UP***] *The Function of the Parts of the Body* (*De usu partium*), ed. G. Helmreich, Teubner, 1907–9, [[*UP* available online](http://cmg.bbaw.de/epubl/online/publiweitereausgaben_galen.html)]; English trans. M.T. May, *Galen on the Usefulness of the Parts of the Body*, Ithaca, N.Y.: Cornell University Press, 1968.
+[^function-1907]: [***UP***] *The Function of the Parts of the Body* (*De usu partium*), ed. G. Helmreich, Teubner, 1907–9, [[*UP* available online](http://cmg.bbaw.de/epubl/online/publiweitereausgaben_galen.html)]; English trans. M.T. May, *Galen on the Usefulness of the Parts of the Body*, Ithaca, N.Y.: Cornell University Press, 1968.
 
 [^adamson-2014]: Adamson, P., R. Hansberger, and J. Wilberding (eds.), 2014, *Philosophical Themes in Galen*, London: Institute of Classical Studies.
 

@@ -74,7 +74,7 @@ Further examination of the history of the rights to privacy and data protection 
 
 The next important step was taken in 1995, with the adoption of the *Data Protection Directive by the European Union*, which was a legally binding directive (Directive 95/46/EC) adopted by EU member states. The purpose of this directive was twofold: to harmonize data protection laws, so as to facilitate cross-border trade by companies, and to protect people’s rights and freedoms when their personal data are used. Thus, the directive was largely based on the rationale of market integration. In 2016, the Data Protection Directive was followed up in Europe by the General Data Protection Regulation (GDPR). The GDPR has been in law since 2016, but its provisions became enforceable only in 2018. The GDPR is the most consequential regulatory development in information policy in decades (see Lindroos-Hovinheimo 2021)[^lindroos-hovinheimo-2021], imposing significant fines on companies that fail to comply. As Hoofnagle et al. (2019) explain, the GDPR brings personal data into a complex and protective regulatory regime. Many data protection principles (for instance about data security) have been incorporated into US law as well, albeit mostly in Federal Trade Commission settlements with companies (Hoofnagle et al. 2019)[^hoofnagle-2019].
 
-The juridification and jurisdiction in the US, especially concerning a constitutional right to privacy, has taken a very different course. On the one hand, there have been many advances with respect to laws protecting informational privacy. While US data protection law is fragmented, there have been recent developments that may result in closer alignment with EU law (e.g., the California Consumer Privacy Act of 2018 and the American Data Privacy and Protection Act—the latter being a Bill introduced in the US House of Representatives in 2022).
+The juridification and jurisdiction in the US, especially concerning a constitutional right to privacy, has taken a very different course. On the one hand, there have been many advances with respect to laws protecting informational privacy. While US data protection law is fragmented, there have been recent developments that may result in closer alignment with EU law (e.g., the California Consumer Privacy Act of 2018 and the American Data Privacy and Protection Act—the latter being a Bill introduced in the US House of Representatives in 2022)[^california-2018].
 
 On the other hand, the most significant focus in US law is on *decisional* privacy, the right to make decisions (here with respect to one’s body) without interference from others, i.e., on same-sex marriage and abortion. In 1965, a right to privacy, independent of informational privacy and the Fourth Amendment, was recognized explicitly by the Supreme Court. It has commonly been referred to as the constitutional right to privacy. The right was first recognized in *Griswold v. Connecticut* (381 U.S. 479), which overturned the convictions of the Director of Planned Parenthood and a doctor at Yale Medical School for dispersing contraceptive-related information, instruction, and medical advice to married persons. Justice Brennan’s explanation contained the now famous sentence:
 
@@ -1000,15 +1000,15 @@ artificial intelligence: ethics of | autonomy: in moral and political philosophy
 
 [^council-nd]: Council of Europe
 
-[^cets-1981]: [CETS No. 108] *Convention for the Protection of Individuals with regard to Automatic Processing of Personal Data*, ETS 108, Strasbourg, 28/01/1981. [[CETS No. 108 available online](https://www.coe.int/en/web/data-protection/convention108-and-protocol)]
+[^convention-1981]: [CETS No. 108] *Convention for the Protection of Individuals with regard to Automatic Processing of Personal Data*, ETS 108, Strasbourg, 28/01/1981. [[CETS No. 108 available online](https://www.coe.int/en/web/data-protection/convention108-and-protocol)]
 
-[^echr-1950]: [ECHR] *European Convention on Human Rights*, signed 1950, effective 1953, In particular, Article 8: Right to respect for private and family life. [[ECHR available online](https://www.coe.int/en/web/human-rights-convention)]
+[^european-1950]: [ECHR] *European Convention on Human Rights*, signed 1950, effective 1953, In particular, Article 8: Right to respect for private and family life. [[ECHR available online](https://www.coe.int/en/web/human-rights-convention)]
 
 [^european-nd]: European Union,
 
 [^directive-1995]: *Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995: on the protection of individuals with regard to the processing of personal data and on the free movement of such data*. [[Directive 95/46/EC available online](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A31995L0046)]
 
-[^gdpr-2016]: [GDPR] *Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation)* [2016] OJ L 119/1. [[GDPR available online](https://eur-lex.europa.eu/eli/reg/2016/679/oj)]
+[^regulation-2016]: [GDPR] *Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation)* [2016] OJ L 119/1. [[GDPR available online](https://eur-lex.europa.eu/eli/reg/2016/679/oj)]
 
 [^charter-2010]: “Charter of Fundamental Rights of the European Union”, *Official Journal of the European Union*, 2010, 53(C83): 389–403. [[EU Fundamental Rights available online](https://commission.europa.eu/aid-development-cooperation-fundamental-rights/your-rights-eu/eu-charter-fundamental-rights_en)]
 
@@ -1030,4 +1030,4 @@ artificial intelligence: ethics of | autonomy: in moral and political philosophy
 
 [^us-2022]: US House of Representative, “ H.R.8152 American Data Privacy and Protection Act”, proposed 2022. [[H.R.8152 available online](https://www.congress.gov/bill/117th-congress/house-bill/8152/text)]
 
-[^ccpa-2018]: [CCPA] *California Consumer Privacy Act of 2018*, [[CCPA available online](https://oag.ca.gov/privacy/ccpa)]
+[^california-2018]: [CCPA] *California Consumer Privacy Act of 2018*, [[CCPA available online](https://oag.ca.gov/privacy/ccpa)]

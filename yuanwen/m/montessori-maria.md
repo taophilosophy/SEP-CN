@@ -387,7 +387,7 @@ Many thanks to Erica Moretti, Laura Di Paolo, Emma Perrone, Joke Verheul, and Kr
 
 ## Notes（原文脚注）
 
-[^note-1]: Hereafter, references to *The Montessori Series* (24 volumes, Montessori-Pierson Publishing, published starting in 2007), will simply refer to the volume and page number in that series. If necessary to avoid confusion, the abbreviation, MS, might prefix this.
+[^note-1]: Hereafter, references to *The Montessori Series* (24 volumes, Montessori-Pierson Publishing, published starting in 2007)[^montessori-2007], will simply refer to the volume and page number in that series. If necessary to avoid confusion, the abbreviation, MS, might prefix this.
 
 [^note-2]: The term “normal” here distinguishes this pedagogy from the medicalized approach to children she had engaged in as co-director of the orthophrenic school.
 
@@ -421,7 +421,7 @@ Many thanks to Erica Moretti, Laura Di Paolo, Emma Perrone, Joke Verheul, and Kr
 
 [^montessori-1950]: –––, 1950, *La scoperta del bambino*, Milano: Garzanti, a new edition of Montessori 1909 (retranslated as MS 2).
 
-[^ms-2007]: [MS] –––, 2007–, *The Montessori Series*, 24 volumes, Amsterdam, Montessori-Pierson Publishing. Works that are cited in this entry are listed here by volume number:
+[^montessori-2007]: [MS] –––, 2007–, *The Montessori Series*, 24 volumes, Amsterdam, Montessori-Pierson Publishing. Works that are cited in this entry are listed here by volume number:
 
 [^absorbent-nd]: 1: *The Absorbent Mind*, Claude A. Claremont (trans.);
 

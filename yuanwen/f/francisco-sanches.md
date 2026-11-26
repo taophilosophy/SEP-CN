@@ -319,15 +319,15 @@ Bacon, Francis | Carneades | Comte, Auguste | Descartes, René | Galen | Hegel, 
 
 [^sanches-1955]: Sanches, Francisco, 1955, *Opera philosophica*, Joaquim de Carvalho (ed.), Coimbra: Revista de Universidade de Coimbra.
 
-[^lc-1945]: [LC] Sanches, Francisco, *Uma carta de Francisco Sanches a Cristóvão Clávio. Revista Portuguesa de Filosofia*, July–September 1945, 294–305. Latin/Portuguese.
+[^sanches-1945]: [LC] Sanches, Francisco, *Uma carta de Francisco Sanches a Cristóvão Clávio. Revista Portuguesa de Filosofia*, July–September 1945, 294–305. Latin/Portuguese.
 
-[^lc-1955]: –––, *Tratados filosóficos*, Artur Moreira de Sá (Preface and notes), Basilio de Vasconcelos and Miguel Pinto de Meneses (trans.), Lisbon: Instituto de Alta Cultura, 1955, Prefàcio, iii–x.
+[^sanches-1955-2]: –––, *Tratados filosóficos*, Artur Moreira de Sá (Preface and notes), Basilio de Vasconcelos and Miguel Pinto de Meneses (trans.), Lisbon: Instituto de Alta Cultura, 1955, Prefàcio, iii–x.
 
-[^lc-1984]: –––, *Il n’est science de rien = (Quod nihil scitur)*, éd. critique latin-français, Andrée Comparot (trans.), André Mandouze (preface), Paris: Klincksieck, 1984.
+[^sanches-1984]: –––, *Il n’est science de rien = (Quod nihil scitur)*, éd. critique latin-français, Andrée Comparot (trans.), André Mandouze (preface), Paris: Klincksieck, 1984.
 
-[^tnk-1988]: [TNK] –––, *That Nothing is Known* (*Quod Nihil Sciture*), Elaine Limbrick (Introduction, notes, and bibliography), Douglas F.S. Thomson (trans., and annotations), Cambridge: Cambridge University Press, 1988.
+[^sanches-1988]: [TNK] –––, *That Nothing is Known* (*Quod Nihil Sciture*), Elaine Limbrick (Introduction, notes, and bibliography), Douglas F.S. Thomson (trans., and annotations), Cambridge: Cambridge University Press, 1988.
 
-[^cc-1996]: [CC] Sánchez, Francisco, *La canción del cometa del 1577/Carmen de cometa anni M.D. LXXVII*, Juan de Churruca and Joaquín Iriarte (eds.), Bilbao, Spain. Universidad de Deusto, 1996.
+[^sánchez-1996]: [CC] Sánchez, Francisco, *La canción del cometa del 1577/Carmen de cometa anni M.D. LXXVII*, Juan de Churruca and Joaquín Iriarte (eds.), Bilbao, Spain. Universidad de Deusto, 1996.
 
 [^sanchez-2011]: Sanchez, Francisco, *Francisco Sanchez: Tutte le opera filosofiche*, testo latino afronte, Ettore Lojacono and Claudia Montuschi (eds.), Ettore Lojacono (Prologue), Claudio Buccolini (Intro.), Milan: Bompiani, 2011, Prologue, vii–l, Intro., liii–c.
 
@@ -361,9 +361,9 @@ Bacon, Francis | Carneades | Comte, Auguste | Descartes, René | Galen | Hegel, 
 
 [^descartes-2007]: –––, [DM], *Discourse on Method*, Richard Kennington (trans.), Pamela Kraus and Frank Hunt (eds.), Indianapolis, IN: Hackett Publishing, 2007.
 
-[^gal1-1985]: [GAL1] Galen, *Three Treatises on the Nature of Science: On Sects for Beginners, An Outline of Empiricism, On Medical Experience*, Richard Walzer and Michael Frede (eds.), Michael Frede (Intro.), Indianapolis: Hackett Publishing Company, 1985.
+[^galen-1985]: [GAL1] Galen, *Three Treatises on the Nature of Science: On Sects for Beginners, An Outline of Empiricism, On Medical Experience*, Richard Walzer and Michael Frede (eds.), Michael Frede (Intro.), Indianapolis: Hackett Publishing Company, 1985.
 
-[^gal2-nd]: [GAL2] –––, *Galen: Selected Works*, P. N. Singer (trans.), Oxford: Oxford University Press, 199.
+[^galen-nd]: [GAL2] –––, *Galen: Selected Works*, P. N. Singer (trans.), Oxford: Oxford University Press, 199.
 
 [^hegel-1801]: Hegel, G. W. F., 1801 [1985], “Relationship of Skepticism to Philosophy: Exposition of its Different Modifications and Comparison to the Latest Form with the Ancient One”, H.S. Harris (trans. notes), in *Between Kant and Hegel: Texts in the Development of Post-Kantian Idealism*, George di Giovanni and H.S. Harris (eds., trans.) Albany, NY: State University of New York Press, 311–362.
 
@@ -373,7 +373,7 @@ Bacon, Francis | Carneades | Comte, Auguste | Descartes, René | Galen | Hegel, 
 
 [^sextus-1949]: Sextus Empiricus, 1949, *Against Professors*, R. G. Bury (trans.), (Sextus Empircus IV, Loeb Classical Library 383), Cambridge, MA: Harvard University Press.
 
-[^se-os-2000]: [SE-OS] –––, 2000, *Outlines of Scepticism*, second edition, Julia Annas and Jonathan Barnes (eds.), Cambridge: Cambridge University Press.
+[^sextus-2000]: [SE-OS] –––, 2000, *Outlines of Scepticism*, second edition, Julia Annas and Jonathan Barnes (eds.), Cambridge: Cambridge University Press.
 
 [^ariew-1998]: Ariew, Roger, John Cottingham, and Tom Sorell (eds.), 1998, *Descartes’ Meditations: Background Source Materials*, Cambridge: Cambridge University Press. doi:10.1017/CBO9781139172844
 

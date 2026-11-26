@@ -830,15 +830,30 @@ def extract_bib_seq(art_inner, md, tails=None):
                         ok = False
                         break
                     pi = dti + 1
-                ddi = None
+                ddi = ddef = None
                 if norm_html(dd_in):
+                    _vis = norm_html(dd_in)
                     ddi = next((i for i in range(pi, len(md_prose))
-                                if md_prose[i] == norm_html(dd_in)), None)
-                    if ddi is None:
-                        ok = False
-                        break
-                    pi = ddi + 1
-                rec["pairs"].append([dti, ddi, dt_attrs, dd_attrs])
+                                if md_prose[i] == _vis), None)
+                    if ddi is not None:
+                        pi = ddi + 1
+                    else:
+                        # specs/053 第五十八批：书目 dd 入定义流后不再有散文段，
+                        # 按定义行文字定位（定义行序＝装配 items 序），第 5 位记
+                        # 定义行索引供 article_build 取文字；dl 位形仍按账复原。
+                        # 只对含四位年份的 dd 回退——C 侧正是按此判据把 dd 并入
+                        # 定义流；无年份 dd（如 wundt 的「多 dt 一 dd」年表条目）
+                        # 仍在散文段，找不到即配对失败回落（dl 位形交池），
+                        # 不得改按同名定义行误配。
+                        if re.search(r'\b(1[6-9]\d\d|20\d\d)\b', _vis):
+                            ddef = next((i for i, t in enumerate(defs_plain)
+                                         if i not in used and t == _vis), None)
+                        if ddef is not None:
+                            used.add(ddef)
+                        else:
+                            ok = False
+                            break
+                rec["pairs"].append([dti, ddi, dt_attrs, dd_attrs, ddef])
             if ok and rec["pairs"]:
                 dls.append(rec)
                 seq.append(["dl", len(dls) - 1])

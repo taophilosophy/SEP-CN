@@ -177,7 +177,7 @@ Although there are only some very few explicit references to Taurellus in Leibni
 
 Aristotelianism: in the Renaissance | emergent properties | Feuerbach, Ludwig Andreas | idealism | Leibniz, Gottfried Wilhelm | Leibniz, Gottfried Wilhelm: on causation | monism | natural philosophy: in the Renaissance
 
-[^anonymous-1611]: [Anonymous], 1611, *Bedenckingen. Over de Beroepinghe D.D. Conradi Vorstii tot de Professie der H. Theologie in de Universiteyt tot Leyden*, [no place].
+[^taurellus-1611]: [Anonymous], 1611, *Bedenckingen. Over de Beroepinghe D.D. Conradi Vorstii tot de Professie der H. Theologie in de Universiteyt tot Leyden*, [no place].
 
 [^arnaldus-nd]: Arnaldus of Villanova, 1585, *Opera Omnia. Cum Nicolai Taurelli Medici & Philosophi in quosdam libros annotationes*, Basel.
 

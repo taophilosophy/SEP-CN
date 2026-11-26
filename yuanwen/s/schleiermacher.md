@@ -366,19 +366,19 @@ A further useful resource is:
 
 Hamann, Johann Georg | Hegel, Georg Wilhelm Friedrich: dialectics | Herder, Johann Gottfried von | hermeneutics | Jacobi, Friedrich Heinrich | Kant, Immanuel | Kant, Immanuel: moral philosophy | religion: philosophy of | Schlegel, Friedrich | Spinoza, Baruch
 
-[^sw-1835]: [**SW**] *Gesamtausgabe der Werke Schleiermachers in drei Abteilungen* = *Friedrich Schleiermacher’s sämmtliche Werke*, Berlin: G. Reimer, 1835–62.
+[^gesamtausgabe-1835]: [**SW**] *Gesamtausgabe der Werke Schleiermachers in drei Abteilungen* = *Friedrich Schleiermacher’s sämmtliche Werke*, Berlin: G. Reimer, 1835–62.
 
-[^kga-1980]: [**KGA**] *Kritische Gesamtausgabe*, Hans-Joachim Birkner et al. (eds.), Berlin/New York: de Gruyter, 1980–. (This edition should eventually supersede the former one, but it is still far from complete.)
+[^kritische-1980]: [**KGA**] *Kritische Gesamtausgabe*, Hans-Joachim Birkner et al. (eds.), Berlin/New York: de Gruyter, 1980–. (This edition should eventually supersede the former one, but it is still far from complete.)
 
 [^kga-1831]: The following are the locations in **KGA** for some of the less well known pieces referred to in this article (listed in the order in which they were mentioned in the article): *Spinozism* (**KGA** I.1, 513–557); *Brief Presentation of the Spinozistic System* (**KGA** I.1, 563–582); *Idea for a Catechism of Reason for Noble Ladies* (**KGA**, I.2, xxxviii, 153-154); *Letters on the Occasion of the Political-Theological Task and the Open Letter of Jewish Householders* (**KGA** I.2, lxxviii–lxxxv, 327–361); *Outlines of a Critique of Previous Ethical Theory* (**KGA** I.4, 27–357); *Confidential Letters Concerning Friedrich Schlegel’s Lucinde* (**KGA** I.3, xlviii–lxviii, 139–216); 1831 address on Leibniz’s idea of a universal language (**KGA** I.11, 707–717).
 
 [^friedrich-1959]: [**H**] *Friedrich Schleiermacher: Hermeneutik*, Heinz Kimmerle (ed.), 1959; second, revised edition, Heidelberg: Heidelberger Akademie der Wissenschaften, 1974.
 
-[^hk-1972]: [**HK**] *Friedrich Schleiermacher: Hermeneutik und Kritik*, Manfred Frank (ed.), 1972; seventh edition, Frankfurt am Main: Suhrkamp, 1999.
+[^friedrich-1972]: [**HK**] *Friedrich Schleiermacher: Hermeneutik und Kritik*, Manfred Frank (ed.), 1972; seventh edition, Frankfurt am Main: Suhrkamp, 1999.
 
 [^friedrich-2001]: [**D**] *Friedrich Schleiermacher: Dialektik*, Manfred Frank (ed.), 2 vols., Frankfurt am Main: Suhrkamp, 2001.
 
-[^tp-2000]: [**TP**] *Friedrich Schleiermacher: Texte zur Pädagogik. Kommentierte Studienausgabe*, 2 vols., Michael Winkler and Jens Brachmann (eds.), Frankfurt am Main: Suhrkamp, 2000. (Includes an abbreviated version of *Occasional Thoughts on Universities in a German Spirit* [1808], i.e., without the important Appendix. The full version can be found in **SW** III.1, 535–644.)
+[^friedrich-2000]: [**TP**] *Friedrich Schleiermacher: Texte zur Pädagogik. Kommentierte Studienausgabe*, 2 vols., Michael Winkler and Jens Brachmann (eds.), Frankfurt am Main: Suhrkamp, 2000. (Includes an abbreviated version of *Occasional Thoughts on Universities in a German Spirit* [1808], i.e., without the important Appendix. The full version can be found in **SW** III.1, 535–644.)
 
 [^psychologie-1862]: *Psychologie*, G. Leopold (ed.), 1862, Berlin: Georg Reimer.
 
@@ -388,17 +388,17 @@ Hamann, Johann Georg | Hegel, Georg Wilhelm Friedrich: dialectics | Herder, Joha
 
 [^aus-1858]: *Aus Schleiermachers Leben in Briefen*, 4 vols., Ludwig Jonas and Wilhelm Dilthey (eds.), Berlin: Georg Reimer, 1858–1863.
 
-[^hhm-1978]: [**HHM**] *Hermeneutics: The Handwritten Manuscripts*, James Duke and Jack Forstman (trans.), Oxford: Oxford University Press, 1978; Atlanta: Scholars Press, 1986. (This is a translation of **H.**)
+[^hermeneutics-1978]: [**HHM**] *Hermeneutics: The Handwritten Manuscripts*, James Duke and Jack Forstman (trans.), Oxford: Oxford University Press, 1978; Atlanta: Scholars Press, 1986. (This is a translation of **H.**)
 
-[^hc-1998]: [**HC**] *Hermeneutics and Criticism*, Andrew Bowie (ed.), Cambridge: Cambridge University Press, 1998. (This is a translation of **HK.**)
+[^hermeneutics-1998]: [**HC**] *Hermeneutics and Criticism*, Andrew Bowie (ed.), Cambridge: Cambridge University Press, 1998. (This is a translation of **HK.**)
 
-[^dm-1813]: [**DM**] “On the Different Methods of Translation” (1813), André Lefevere (trans.), in *German Romantic Criticism*, A. Leslie Willson (ed.), New York: Continuum, 1982. (This is a good translation of Schleiermacher’s essay though unfortunately it omits an important footnote on the translation of verse.)
+[^different-1813]: [**DM**] “On the Different Methods of Translation” (1813), André Lefevere (trans.), in *German Romantic Criticism*, A. Leslie Willson (ed.), New York: Continuum, 1982. (This is a good translation of Schleiermacher’s essay though unfortunately it omits an important footnote on the translation of verse.)
 
 [^introductions-1836]: *Introductions to the Dialogues of Plato*, William Dobson (trans.), Cambridge and London: Pitt Press, Deighton, and Parker, 1836.
 
 [^dialectic-1996]: *Dialectic or The Art of Doing Philosophy*, Terrence N. Tice (ed.), Atlanta, GA: Scholars Press, 1996. (This contains Schleiermacher’s first lecture notes on dialectics from 1811.)
 
-[^sc-1995]: [**SC**] *Friedrich Schleiermacher’s “Toward a Theory of Sociable Conduct” and Essays on Its Intellectual-Cultural Context*, Ruth D. Richardson (ed.), Lewiston, NY: Edwin Mellen, 1995.
+[^friedrich-1995]: [**SC**] *Friedrich Schleiermacher’s “Toward a Theory of Sociable Conduct” and Essays on Its Intellectual-Cultural Context*, Ruth D. Richardson (ed.), Lewiston, NY: Edwin Mellen, 1995.
 
 [^highest-1992]: *On the Highest Good* (*Ueber das höchste Gut*), H. Victor Froese (ed.), Lewiston, NY: Edwin Mellen, 1992.
 
@@ -408,11 +408,11 @@ Hamann, Johann Georg | Hegel, Georg Wilhelm Friedrich: dialectics | Herder, Joha
 
 [^schleiermacher’s-1926]: *Schleiermacher’s Soliloquies: an English translation of the Monologen*, Horace L. Friess (ed.), Chicago: Open Court, 1926.
 
-[^lpe-2002]: [**LPE**] *Lectures on Philosophical Ethics*, Robert B. Louden (ed.) and Louise Adey Huish (trans.), Cambridge: Cambridge University Press, 2002.
+[^lectures-2002]: [**LPE**] *Lectures on Philosophical Ethics*, Robert B. Louden (ed.) and Louise Adey Huish (trans.), Cambridge: Cambridge University Press, 2002.
 
 [^occasional-1991]: *Occasional Thoughts on Universities in a German Spirit*, T.N. Tice and E. Lawler (trans.), Lewiston: Edwin Mellen, 1991.
 
-[^or-1988]: [**OR**] *On Religion: Speeches to Its Cultured Despisers*, Richard Crouter (trans. & ed.), Cambridge: Cambridge University Press, 1988.
+[^religion-1988]: [**OR**] *On Religion: Speeches to Its Cultured Despisers*, Richard Crouter (trans. & ed.), Cambridge: Cambridge University Press, 1988.
 
 [^christmas-1990]: *Christmas Eve: Dialogue on the Incarnation* (*Die Weihnachtsfeier; ein Gespräch*), Terrence N. Tice (ed.), San Francisco: Edwin Mellen, 1990.
 

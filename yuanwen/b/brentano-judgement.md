@@ -495,31 +495,31 @@ For critical discussions and further elaborations of Brentano’s logic reform s
 
 [^psychologie-1874]: *Psychologie vom empirischen Standpunkt*, 2 books, 1874. In 1911 an edition of part of the second book with new appendices was published as *Von der Klassifikation der psychischen Phänomene*. A revised edition of the whole including the 1911 appendices, edited by Oskar Kraus, was published in 1924. An English translation, *Psychology from an Empirical Standpoint*, based on the 1924 edition was published in 1973.
 
-[^pes-1973]: [PES] *Psychology from an Empirical Standpoint*, Linda L. McAlister (ed.). Antos C. Rancurello, D.B. Terrell, and Linda L. McAlister (trans.), London: Routledge, 1973, page numbers from the 1995 edition edited by Tim Crane and Jonathan Wolff. Page references in brackets refer to the 1973 German edition, Volume I and II, Hamburg: Meiner and to SVS volume 1
+[^psychology-1973]: [PES] *Psychology from an Empirical Standpoint*, Linda L. McAlister (ed.). Antos C. Rancurello, D.B. Terrell, and Linda L. McAlister (trans.), London: Routledge, 1973, page numbers from the 1995 edition edited by Tim Crane and Jonathan Wolff. Page references in brackets refer to the 1973 German edition, Volume I and II, Hamburg: Meiner and to SVS volume 1
 
-[^el80-nd]: [EL80] Logik. Manuscript, Houghton Library: Harvard. [available online](https://gams.uni-graz.at/archive/objects/o:bag.el.80-html-norm/methods/sdef:HTML/get).
+[^logik-nd]: [EL80] Logik. Manuscript, Houghton Library: Harvard. [available online](https://gams.uni-graz.at/archive/objects/o:bag.el.80-html-norm/methods/sdef:HTML/get).
 
-[^lru-1956]: [LRU] *Die Lehre vom richtigen Urteil*, Franziska Mayer-Hillebrand (ed.), Bern: Francke Verlag, 1956.
+[^die-1956]: [LRU] *Die Lehre vom richtigen Urteil*, Franziska Mayer-Hillebrand (ed.), Bern: Francke Verlag, 1956.
 
 [^wahrheit-1930]: *Wahrheit und Evidenz*, Oskar Kraus (ed.), 1930.
 
-[^te-1966]: [TE] *The True and the Evident*, Roderick M. Chisholm (ed.), Roderick M. Chisholm, Ilse Politzer, and Kurt R. Fischer (trans.), London: Routledge and Kegan Paul, 1966. Page numbers from the 2010 edition.
+[^true-1966]: [TE] *The True and the Evident*, Roderick M. Chisholm (ed.), Roderick M. Chisholm, Ilse Politzer, and Kurt R. Fischer (trans.), London: Routledge and Kegan Paul, 1966. Page numbers from the 2010 edition.
 
 [^page-1974]: Page reference are to the 1974 German edition, Hamburg: Felix Meiner Verlag.
 
 [^grundlegung-1952]: *Grundlegung und Aufbau der Ethik*, Bern: Francke Verlag, 1952.
 
-[^fce-1973]: [FCE] *Foundation and Construction of Ethics*, Elizabeth Hughes Schneewind (trans.), London: Routledge & Kegan Paul, 1973. Page numbers from the 2009 edition. Page references in brackets refer to the 1978 German edition, Hamburg: Felix Meiner Verlag and to SVS volume 3.
+[^foundation-1973]: [FCE] *Foundation and Construction of Ethics*, Elizabeth Hughes Schneewind (trans.), London: Routledge & Kegan Paul, 1973. Page numbers from the 2009 edition. Page references in brackets refer to the 1978 German edition, Hamburg: Felix Meiner Verlag and to SVS volume 3.
 
 [^vom-1889]: *Vom Ursprung sittlicher Erkenntnis*, Leipzig: Duncker and Humblot, 1889. Second edition with Oskar Kraus as editor, 1921, Leipzig: Felix Meiner. Third revised edition also edited by Kraus in 1934.
 
-[^okrw-1969]: [OKRW] *The Origin of Our Knowledge of Right and Wrong*, Roderick M. Chisholm (ed.), Roderick M. Chisholm and Elizabeth H. Schneewind (trans.), London: Routledge and Kegan Paul, 1969. Based on the third edition. Page numbers from the 2009 reprint. Page references in brackets to the 1969 German reprint, Hamburg: Felix Meiner Verlag.
+[^origin-1969]: [OKRW] *The Origin of Our Knowledge of Right and Wrong*, Roderick M. Chisholm (ed.), Roderick M. Chisholm and Elizabeth H. Schneewind (trans.), London: Routledge and Kegan Paul, 1969. Based on the third edition. Page numbers from the 2009 reprint. Page references in brackets to the 1969 German reprint, Hamburg: Felix Meiner Verlag.
 
-[^vnv-1903]: [VNV] “Von der Natur der Vorstellung” (Diktat 1903). Printed 1987, Johannes Brandl (ed.), in *Conceptus: Zeitschrift für Philosophie* 21(53/54): 25–31, 1987.
+[^von-1903]: [VNV] “Von der Natur der Vorstellung” (Diktat 1903). Printed 1987, Johannes Brandl (ed.), in *Conceptus: Zeitschrift für Philosophie* 21(53/54): 25–31, 1987.
 
-[^dp-1982]: [DP] *Deskriptive Psychologie*, Hamburg: Felix Meiner Verlag, 1982, based on a series of lectures given in 1887. Translated as *Descriptive Psychology* by Benito Müller, London: Routledge, 1995.
+[^deskriptive-1982]: [DP] *Deskriptive Psychologie*, Hamburg: Felix Meiner Verlag, 1982, based on a series of lectures given in 1887. Translated as *Descriptive Psychology* by Benito Müller, London: Routledge, 1995.
 
-[^svs-2008]: [SVS] *Sämtliche veröffentlichte Schriften* (Complete Published Works), Thomas Binder and Arkadiusz Chrudzimski (eds), Berlin: De Gruyter, 2008.
+[^sämtliche-2008]: [SVS] *Sämtliche veröffentlichte Schriften* (Complete Published Works), Thomas Binder and Arkadiusz Chrudzimski (eds), Berlin: De Gruyter, 2008.
 
 [^aquinas-1947]: Aquinas, Thomas, 1265ff, *Summa Theologica*. English translation, 1947, by the Fathers of the English Dominican Province, Benziger Bros. [*Summa Theologica* available online](http://dhspriory.org/thomas/summa/)
 

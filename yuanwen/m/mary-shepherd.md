@@ -170,11 +170,11 @@ The author thanks Jennifer McRobert for sharing some of her research on Shepherd
 
 [^note-4]: Garrett (forthcoming) argues it is not clear whether this means external objects are independent of individual human minds or all minds.
 
-[^pwms-2000]: [PWMS] 2000, *Philosophical Writings of Mary Shepherd* (facsimile reproductions), edited with Introduction by Jennifer McRobert, 2 volumes, Bristol: Thoemmes Press.
+[^mary-shepherd-2000]: [PWMS] 2000, *Philosophical Writings of Mary Shepherd* (facsimile reproductions), edited with Introduction by Jennifer McRobert, 2 volumes, Bristol: Thoemmes Press.
 
-[^erce-1824]: [ERCE] 1824, *An Essay upon the Relation of Cause and Effect*, London: T. Hookam; Reprinted in Shepherd 2000, v. 1.
+[^mary-shepherd-1824]: [ERCE] 1824, *An Essay upon the Relation of Cause and Effect*, London: T. Hookam; Reprinted in Shepherd 2000, v. 1.
 
-[^epeu-1827]: [EPEU] 1827, *Essays on the Perception of an External Universe and Other Subjects Connected with the Doctrine of Causation*, London: John Hatchard and Son. Reprinted in Shepherd 2000, v. 2. Also reprinted in *Essays on the Perception of the External Universe*, Antonia LoLordo (ed.) with Introduction. Citations refer to marginal page numbers which are the same as in PWMS, v. 2.
+[^mary-shepherd-1827]: [EPEU] 1827, *Essays on the Perception of an External Universe and Other Subjects Connected with the Doctrine of Causation*, London: John Hatchard and Son. Reprinted in Shepherd 2000, v. 2. Also reprinted in *Essays on the Perception of the External Universe*, Antonia LoLordo (ed.) with Introduction. Citations refer to marginal page numbers which are the same as in PWMS, v. 2.
 
 [^mary-shepherd-1828a]: 1828a, “Observations by Lady Mary Shepherd on the ‘First Lines of the Human Mind’,” *Pariana*: 624–627.
 
@@ -242,7 +242,7 @@ The author thanks Jennifer McRobert for sharing some of her research on Shepherd
 
 [^tanner-2022]: Tanner, Travis, 2022, “How Good was Shepherd’s Response to Hume’s Epistemological Challenge?”, *British Journal for the History of Philosophy* (30.1): 71–89.
 
-[^eip-1785]: [EIP] Reid, Thomas, 1785 [2002], *Essays on the Intellectual Powers of Man*, Dublin. Reprinted Derek Brookes (ed. and annotation) and Knud Haakonssen (annotation and Introduction), University Park, PA, Pennsylvania State University Press, 2002.
+[^reid-1785]: [EIP] Reid, Thomas, 1785 [2002], *Essays on the Intellectual Powers of Man*, Dublin. Reprinted Derek Brookes (ed. and annotation) and Knud Haakonssen (annotation and Introduction), University Park, PA, Pennsylvania State University Press, 2002.
 
 [^snyder-2012]: Snyder, Laura J., 2012 “William Whewell”, *The Stanford Encyclopedia of Philosophy* (Winter 2012 Edition), Edward N. Zalta (ed.), URL = <[https://plato.stanford.edu/archives/win2012/entries/whewell/](https://plato.stanford.edu/archives/win2012/entries/whewell/)>.
 

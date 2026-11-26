@@ -9,7 +9,7 @@ Bonaventure of Bagnoregio (b. ca. 1221, d. 15 July 1274) was a Franciscan, a mas
 
 Bonaventure was born in Civita di Bagnoregio in central Italy, an ancient city perched atop a constantly eroding volcanic butte. Though Dante placed Bonaventure among the saints in his *Paradiso* (Canto 12), and reports of Bonaventure’s holiness circulated in the thirteenth and fourteenth centuries, no official cult emerged after his death and the papacy did not recognize him as a saint until 1482 (on Bonaventure’s canonization see Finucane 2011: 33–70)[^finucane-2011]. Had Bonaventure been canonized earlier, there might be more information about his life to sift, as there is in the case of his contemporary, Thomas Aquinas. What we can know about Bonaventure’s early life comes from his own hagiographical work on St. Francis of Assisi, the *Legenda major* and *minor*, where he attests to being healed miraculously by St. Francis:
 
-> when I was a boy, as I still vividly remember, I was snatched from the jaws of death by his invocation and merits. (*Legenda maior*, prol. 3, [FA:ED: Volume 2, 528]; cf. *Legenda minor*, lec. 8. Texts of Bonaventure will be quoted in the Quaracchi edition, 1882–1902, unless a more recent edition exists[^note-1])[^quaracchi-1882]
+> when I was a boy, as I still vividly remember, I was snatched from the jaws of death by his invocation and merits. (*Legenda maior*, prol. 3, [FA:ED: Volume 2, 528]; cf. *Legenda minor*, lec. 8. Texts of Bonaventure will be quoted in the Quaracchi edition, 1882–1902, unless a more recent edition exists[^note-1])
 
 One certain date, Bonaventure’s election as Minister General of the Franciscans on 2 February 1257, permits a broad division of his life into two clear periods: an academic and a pastoral period.[^note-2] The academic period runs from c. 1235–1257. During those years, Bonaventure studied and taught philosophy and theology at the University of Paris and acquired the degree of Master in both disciplines. The pastoral period runs from 1257–1274. During that time, Bonaventure served as Minister General, relinquishing the office on 19 May 1274 when Jerome of Ascoli was elected to replace him. On 28 May 1273 Bonaventure became a Cardinal and was later consecrated bishop of Albano (11 November 1273). Bonaventure died at the second council of Lyon, 15 July 1274.
 
@@ -417,9 +417,9 @@ Much of Bonaventure’s argumentation here depends upon the teaching of Guibert 
 
 [^commentaria-nd]: *Commentaria in Quattuor Libros Sententiarum* (*Commentary on the Sentences*), Quaracchi I–IV.
 
-[^sent-nd]: [*In I Sent.*] *In Primum Librum Sententiarum*, Quaracchi I.
+[^primum-nd]: [*In I Sent.*] *In Primum Librum Sententiarum*, Quaracchi I.
 
-[^ii-nd]: [*In II Sent.*] *In Secundum Librum Sententiarum*, Quaracchi II.
+[^secundum-nd]: [*In II Sent.*] *In Secundum Librum Sententiarum*, Quaracchi II.
 
 [^quaestiones-nd]: *Quaestiones disputatae* (*Disputed Questions*)
 
@@ -437,7 +437,7 @@ Much of Bonaventure’s argumentation here depends upon the teaching of Guibert 
 
 [^legenda-nd-2]: *Legenda minor*, in Legendae, 653–678. Translated in FA:ED: Volume 2, 684–717.
 
-[^journey-2020]: [*Journey*] *Itinerarium mentis in Deum* (Journey of the Mind to God), Quaracchi V: 293–316. Translated Armstrong 2020, Cousins 1978.
+[^itinerarium-2020]: [*Journey*] *Itinerarium mentis in Deum* (Journey of the Mind to God), Quaracchi V: 293–316. Translated Armstrong 2020, Cousins 1978.
 
 [^collationes-2018]: [*Collationes in Hexaëmeron*], Quaracchi V: 327–454. Translated in Hammond 2018.
 
@@ -471,7 +471,7 @@ Much of Bonaventure’s argumentation here depends upon the teaching of Guibert 
 
 [^delorme-1951]: Delorme, Ferdinand-Marie (ed.), 1951, “Textes Franciscains: III. Lettre de S. Bonaventura «Innominato Magistro»”, *Archivio Italiano per la Storia della Pietà*, 1: 209–218.
 
-[^legendae-1941]: [Legendae] *Doctoris Seraphici S. Bonaventuare Legenda Maior et Legenda Minor S. Francisci*, in *Legendae S. Francisci Assisiensis saec. XIII et XIV conscriptae, I* (Analecta Franciscana X), The Fathers of the Collegii S. Bonaventura (eds.), Florence: Quaracchi, 1941, 555–678.
+[^doctoris-1941]: [Legendae] *Doctoris Seraphici S. Bonaventuare Legenda Maior et Legenda Minor S. Francisci*, in *Legendae S. Francisci Assisiensis saec. XIII et XIV conscriptae, I* (Analecta Franciscana X), The Fathers of the Collegii S. Bonaventura (eds.), Florence: Quaracchi, 1941, 555–678.
 
 [^bonaventurae-1934]: *S. Bonaventurae opera theologica selecta*, Vols. I–V, The Fathers of the Collegii S. Bonaventura (eds.), Florence: Quaracchi, 1934–1965.
 
@@ -479,13 +479,13 @@ Much of Bonaventure’s argumentation here depends upon the teaching of Guibert 
 
 [^bonaventurae-1949]: *S. Bonaventurae decem opuscula ad theologiam mysticam spectantia*, The Fathers of the Collegii S. Bonaventura (eds.), Florence: Quaracchi, 1949.
 
-[^quaracchi-1882]: [Quaracchi] *S. Bonaventurae opera omnia*, Vols. I–IX, The Fathers of the Collegii S. Bonaventura (eds), Florence: Quaracchi, 1882–1902.
+[^bonaventurae-1882]: [Quaracchi] *S. Bonaventurae opera omnia*, Vols. I–IX, The Fathers of the Collegii S. Bonaventura (eds), Florence: Quaracchi, 1882–1902.
 
 [^tria-1938]: *Tria opuscula Seraphici Doctoris S. Bonaventurae. Breviloquium, Itinerarium mentis in Deum, et De reductione artium ad theologiam*, The Fathers of the Collegii S. Bonaventura (eds.), Florence: Quaracchi, 1938.
 
 [^armstrong-2020]: Armstrong, Regis J. (trans.), 2020, *Into God: Itinerarium Mentis in Deum of Saint Bonaventure, An Annotated Translation*, Washington DC: The Catholic University of America Press.
 
-[^fa-1999]: [FA:ED] Armstrong, Regis J., J. A. Wayne Hellmann, and William J. Short (eds.), 1999–2001, *Francis of Assisi: Early Documents*, 4 volumes, Hyde Park, NY: New City Press.
+[^armstrong-1999]: [FA:ED] Armstrong, Regis J., J. A. Wayne Hellmann, and William J. Short (eds.), 1999–2001, *Francis of Assisi: Early Documents*, 4 volumes, Hyde Park, NY: New City Press.
 
 [^bougerol-2017]: Bougerol, Jacques-Guy and Luc Mathieu (eds.), 2017, *Breviloquium*, Paris: Editions Franciscains; French translation of Breviloquium.
 

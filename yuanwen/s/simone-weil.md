@@ -248,31 +248,31 @@ attention | Beauvoir, Simone de | Descartes, René | Kant, Immanuel | Marx, Karl
 
 The authors would like to thank Scott Ritner and Catherine Fullarton for their generosity and support, hospitality and friendship, during the writing of this entry.
 
-[^fln-1970]: [FLN], 1970, *First and Last Notebooks*, Richard Rees (trans.), Oxford: Oxford University Press.
+[^simone-weil-1970]: [FLN], 1970, *First and Last Notebooks*, Richard Rees (trans.), Oxford: Oxford University Press.
 
-[^fw-1987]: [FW] 1987, *Formative Writings: 1929–1941*, Dorothy Tuck McFarland and Wilhelmina Van Ness (eds. and trans.), Amherst, MA: The University of Massachusetts Press.
+[^simone-weil-1987]: [FW] 1987, *Formative Writings: 1929–1941*, Dorothy Tuck McFarland and Wilhelmina Van Ness (eds. and trans.), Amherst, MA: The University of Massachusetts Press.
 
-[^gg-1947]: [GG] 1947 [2004], *Gravity and Grace*, Emma Crawford and Mario von der Ruhr (trans), New York: Routledge; *La pesanteur et la grâce*, Paris: Librairie Plon, 1947.
+[^simone-weil-1947]: [GG] 1947 [2004], *Gravity and Grace*, Emma Crawford and Mario von der Ruhr (trans), New York: Routledge; *La pesanteur et la grâce*, Paris: Librairie Plon, 1947.
 
-[^lp-1959]: [LP] 1959 [1978], *Lectures on Philosophy*, Hugh Price (trans.), New York: Cambridge University Press; *Leçons de philosophie*, Paris: Union Générale d’Éditions, 1959.
+[^simone-weil-1959]: [LP] 1959 [1978], *Lectures on Philosophy*, Hugh Price (trans.), New York: Cambridge University Press; *Leçons de philosophie*, Paris: Union Générale d’Éditions, 1959.
 
-[^lpr-1951]: [LPr] 1951 [2002], *Letter to a Priest*, A. F. Wills (trans.), London: Routledge; *Lettre à un religieux*, Paris: Gallimard, 1951.
+[^simone-weil-1951]: [LPr] 1951 [2002], *Letter to a Priest*, A. F. Wills (trans.), London: Routledge; *Lettre à un religieux*, Paris: Gallimard, 1951.
 
-[^lpw-2015]: [LPW] 2015, *Simone Weil: Late Philosophical Writings*, Eric O. Springsted and Lawrence E. Schmidt (trans.), Notre Dame, IN: University of Notre Dame Press.
+[^simone-weil-2015]: [LPW] 2015, *Simone Weil: Late Philosophical Writings*, Eric O. Springsted and Lawrence E. Schmidt (trans.), Notre Dame, IN: University of Notre Dame Press.
 
-[^nb-1956]: [NB] 1956, *The Notebooks of Simone Weil*, Arthur Wills (trans.), 2 vols., New York: G. P. Putnam’s Sons.
+[^simone-weil-1956]: [NB] 1956, *The Notebooks of Simone Weil*, Arthur Wills (trans.), 2 vols., New York: G. P. Putnam’s Sons.
 
-[^nr-1949]: [NR] 1949 [2002], *The Need for Roots: Prelude to a Declaration of Duties toward Mankind*, Arthur Wills (trans.), New York: Routledge; *L’enracinement. Prélude à une déclaration des devoirs envers l’être humain*, Paris: Éditions Gallimard, 1949.
+[^simone-weil-1949]: [NR] 1949 [2002], *The Need for Roots: Prelude to a Declaration of Duties toward Mankind*, Arthur Wills (trans.), New York: Routledge; *L’enracinement. Prélude à une déclaration des devoirs envers l’être humain*, Paris: Éditions Gallimard, 1949.
 
-[^ol-1955]: [OL] 1955 [2001], *Oppression and Liberty*, Arthur Wills and John Petrie (trans.), New York: Routledge; *Oppression et liberté*, Paris: Éditions Gallimard, 1955.
+[^simone-weil-1955]: [OL] 1955 [2001], *Oppression and Liberty*, Arthur Wills and John Petrie (trans.), New York: Routledge; *Oppression et liberté*, Paris: Éditions Gallimard, 1955.
 
-[^se-1962]: [SE] 1962, *Selected Essays: 1934–1943*, Richard Rees (trans.), London: Oxford University Press.
+[^simone-weil-1962]: [SE] 1962, *Selected Essays: 1934–1943*, Richard Rees (trans.), London: Oxford University Press.
 
-[^sl-1965]: [SL] 1965, *Seventy Letters*, Richard Rees (trans.), London: Oxford University Press.
+[^simone-weil-1965]: [SL] 1965, *Seventy Letters*, Richard Rees (trans.), London: Oxford University Press.
 
-[^swa-2005]: [SWA] 2005, *Simone Weil: An Anthology*, Siân Miles (ed.), New York: Penguin.
+[^simone-weil-2005]: [SWA] 2005, *Simone Weil: An Anthology*, Siân Miles (ed.), New York: Penguin.
 
-[^wfg-1966]: [WFG] 1966 [2009], *Waiting for God*, Emma Craufurd (trans.), New York: HarperCollins; *Attente de Dieu*, Paris: Éditions Fayard, 1966.
+[^simone-weil-1966]: [WFG] 1966 [2009], *Waiting for God*, Emma Craufurd (trans.), New York: HarperCollins; *Attente de Dieu*, Paris: Éditions Fayard, 1966.
 
 [^écrits-1957]: *Écrits de Londres et dernières lettres*, Paris: Gallimard, 1957.
 

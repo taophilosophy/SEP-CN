@@ -372,13 +372,13 @@ In the same passage, Adorno also calls Kierkegaard “the founder of inwardness�
 
 [^martin-1883]: *D. Martin Luthers Werke: Kritische Gesamtausgabe*, Weimar: Hermann Böhlau, 1883–1929. Multivolume collection of Luther’s works in their original languages (German and Latin).
 
-[^wa-nd]: [WA] Abteilung 1: Schriften (Series 1: Writings), Volumes 1–60, plus Volumes 61–73 (indexes).
+[^abteilung-nd]: [WA] Abteilung 1: Schriften (Series 1: Writings), Volumes 1–60, plus Volumes 61–73 (indexes).
 
-[^wa-nd-2]: [WA TR] Abteilung 2: Tischreden (Series 2: Table talk), Volumes 1–6.
+[^abteilung-nd-2]: [WA TR] Abteilung 2: Tischreden (Series 2: Table talk), Volumes 1–6.
 
-[^wa-nd-3]: [WA DB] Abteilung 3: Die Deutsche Bibel (Series 3: German Bible), Volumes 1–12.
+[^abteilung-nd-3]: [WA DB] Abteilung 3: Die Deutsche Bibel (Series 3: German Bible), Volumes 1–12.
 
-[^lw-1958]: [LW] *Luther’s Works*, American edition, 55 vols., St Louis and Philadephia: Concordia and Fortress Press, 1958–86; new series, vols. 56–75, 2009–.
+[^luther’s-1958]: [LW] *Luther’s Works*, American edition, 55 vols., St Louis and Philadephia: Concordia and Fortress Press, 1958–86; new series, vols. 56–75, 2009–.
 
 [^martin-1961]: *Martin Luther: Selections from his Writings*, edited by John Dillenberger, Garden City: Anchor Books, 1961.
 

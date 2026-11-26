@@ -311,15 +311,9 @@ A final complaint is that the use of the term “idealism” is anachronistic or
 
 **AKBh**
 
-Pradhan, Prahlad (ed.), 1975. *Abhidharmakośabhāṣyam of Vasubandhu*. Tibetan Sanskrit Works 8. First Edition 1967. Patna: K. P. Jayaswal Research Institute. See also Śāstrī (2008).
-
 **TSN**
 
-La Vallée Poussin, Louis de (ed.), 1932–33. “Le petit traite de Vasubandhu-Nagarjuna sur les trois natures,” *Melanges chinois et bouddhiques* 2: 147–161. See also Mimaki *et al*. (1989).
-
 **Viṃś**
-
-Lévi, Sylvain (ed.), 1925. *Vijñaptimātratāsiddhi: Deux Traités de Vasubandhu: Viṃśatikā et Triṃśikā*. Paris: Bibliothèque de l’École des Hautes Études. See also Mimaki *et al*. (1989).
 
 ### Secondary Sources
 
@@ -367,7 +361,7 @@ Abhidharma | Buddha | Dharmakīrti | Madhyamaka | mind: in Indian Buddhist Philo
 
 [^note-12]: Louis de la Vallée Poussin's French translation from the Chinese (1923–25) is one of the great monumental accomplishments of the field of Buddhist Studies. Subsequent to his translation, an original Sanskrit manuscript was discovered in Tibet by Rāhula Sāṃkṛtyāyana, and edited separately by Pradhan (1967; herein AKBh) and Śāstrī (2008). English translations based upon the Sanskrit include, for the first chapter Hall (1983)[^hall-1983], and for the ninth chapter Kapstein (2001a)[^kapstein-2001a] and Duerlinger (2003)[^duerlinger-2003]. Pruden (1988-90) is an English translation of Poussin's French translation of the Chinese translation(s) of Vasubandhu's Sanskrit. Appropriate caution should be taken with regard to any close readings.
 
-[^note-13]: What is “best known” is of course somewhat arbitrary, but given the most likely readership of this encyclopedia, I mean here what is most often written about by modern, English language philosophers. All three have been discovered and edited in Sanskrit manuscript (Lévi 1925; herein Viṃś) and translated repeatedly. Available in English are the translations of all three texts in Anacker (1998)[^anacker-1998] and Kochumuttom (1982)[^kochumuttom-1982], of the *Twenty* *Verses* and the *Three Natures Exposition* in Tola & Dragonetti (2004), and of the *Three Natures Exposition* alone in Tola & Dragonetti (1983) and Wood (1991)[^wood-1991] and, from the Tibetan, Garfield (2009)[^garfield-2009].
+[^note-13]: What is “best known” is of course somewhat arbitrary, but given the most likely readership of this encyclopedia, I mean here what is most often written about by modern, English language philosophers. All three have been discovered and edited in Sanskrit manuscript (Lévi 1925; herein Viṃś)[^lévi-1925] and translated repeatedly. Available in English are the translations of all three texts in Anacker (1998)[^anacker-1998] and Kochumuttom (1982)[^kochumuttom-1982], of the *Twenty* *Verses* and the *Three Natures Exposition* in Tola & Dragonetti (2004), and of the *Three Natures Exposition* alone in Tola & Dragonetti (1983) and Wood (1991)[^wood-1991] and, from the Tibetan, Garfield (2009)[^garfield-2009].
 
 [^note-14]: These have all been translated by Anacker (1998)[^anacker-1998].
 
@@ -442,6 +436,12 @@ Abhidharma | Buddha | Dharmakīrti | Madhyamaka | mind: in Indian Buddhist Philo
 [^note-49]: For this reason, Lusthaus (2002, p. 313, n. 66) is probably mistaken to express uncertainty as to the ultimate reality of real “things” (*vastu*) for Vasubandhu. Nothing genuinely real could fit into our ordinary categories of existence and non-existence; but a “thing” is an ordinary reality. It is important not to confuse doctrinal discussions of conventional realities with the ultimate. Yogācāra traditions include a number of categories of analysis—including various forms of physicality (*rūpa*)—in their doctrinal systems as merely *conventional*, but not ultimate realities (Gold 2006a, pp. 36–37 n. 70)[^gold-2006a].
 
 [^note-50]: Lusthaus (2002)[^lusthaus-2002] is primarily an investigation of Hsüan-tsang's commentary on Vasubandhu's *Triṃśikā*, and I am not arguing here that Lusthaus has misrepresented Hsüan-tsang's view in his analysis of Yogācāra as “phenomenology.” For a critique of Lusthaus's treatment of the question of idealism in Hsüan-tsang's *Ch’eng Wei-shih lun*, see Schmithausen (2005)[^schmithausen-2005]. I am concerned here only with Lusthaus's interpretation of Vasubandhu based on Sanskrit and Tibetan sources.
+
+[^pradhan-1975]: Pradhan, Prahlad (ed.), 1975. *Abhidharmakośabhāṣyam of Vasubandhu*. Tibetan Sanskrit Works 8. First Edition 1967. Patna: K. P. Jayaswal Research Institute. See also Śāstrī (2008).
+
+[^la-1932]: La Vallée Poussin, Louis de (ed.), 1932–33. “Le petit traite de Vasubandhu-Nagarjuna sur les trois natures,” *Melanges chinois et bouddhiques* 2: 147–161. See also Mimaki *et al*. (1989).
+
+[^lévi-1925]: Lévi, Sylvain (ed.), 1925. *Vijñaptimātratāsiddhi: Deux Traités de Vasubandhu: Viṃśatikā et Triṃśikā*. Paris: Bibliothèque de l’École des Hautes Études. See also Mimaki *et al*. (1989).
 
 [^anacker-1972]: Anacker, Stefan, 1972. “Vasubandhu’s *Karmasiddhiprakaraṇa* and the Problem of the Highest Meditations,” *Philosophy East and West*, 22: 247–258.
 
@@ -519,7 +519,7 @@ Abhidharma | Buddha | Dharmakīrti | Madhyamaka | mind: in Indian Buddhist Philo
 
 [^la-1923]: La Vallée Poussin, Louis de, 1923–25. *L’Abhidharmakośa de Vasubandhu*, 6 volumes, Société Belge D’Études Orientales, Paris: Geuthner.
 
-[^la-1932]: –––, 1932–33. “Le petit traite de Vasubandhu-Nagarjuna sur les trois natures,” *Melanges chinois et bouddhiques*, 2: 147–161.
+[^la-1932-2]: –––, 1932–33. “Le petit traite de Vasubandhu-Nagarjuna sur les trois natures,” *Melanges chinois et bouddhiques*, 2: 147–161.
 
 [^lusthaus-2002]: Lusthaus, Dan, 2002. *Buddhist Phenomenology: A Philosophical Investigation of Yogācāra Philosophy and the* Ch’eng Wei-shih lun, New York: Routledge Curzon.
 

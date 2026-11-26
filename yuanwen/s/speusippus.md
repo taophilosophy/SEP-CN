@@ -245,7 +245,7 @@ For the update in August 2024, Giulia De Cesaris was primarily responsible for t
 
 [^speusippus-1968]: 1968, *A. Gellii Noctes Atticae* (Scriptorum Classicorum Bibliotheca Oxoniensis), Peter K. Marshall (ed.), Oxford: Clarendon Press.
 
-[^dcms-nd]: [DCMS] Iamblichus, *De communi mathematica scientia* (*On Mathematical Science in General*). Modern editions:
+[^iamblichus-nd]: [DCMS] Iamblichus, *De communi mathematica scientia* (*On Mathematical Science in General*). Modern editions:
 
 [^speusippus-1975a]: 1975a, V. De Falco (ed.), *[Iamblichus:] Theologumena arithmeticae*, U. Klein (ed.), Stuttgart: B.G. Teubner.
 

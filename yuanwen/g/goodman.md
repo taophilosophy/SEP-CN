@@ -375,23 +375,13 @@ Putnam also points out that there is a tension between Goodman’s notion of wor
 
 **SQ**
 
-*A Study of Qualities*, Ph.D. dissertation thesis, Harvard University, 1941. First published New York: Garland, 1990 (Harvard Dissertations in Philosophy Series).
-
 **SA**
-
-*The Structure of Appearance*, Cambridge, MA: Harvard University Press, 1951; 2nd ed. Indianapolis: Bobbs-Merrill, 1966; 3rd ed. Boston: Reidel, 1977 (page numbers in our text refer to this last edition).
 
 **FFF**
 
-*Fact, Fiction, and Forecast*, University of London: Athlone Press, 1954; Cambridge, MA: Harvard University Press, 1955; 2nd ed. Indianapolis: Bobbs-Merrill, 1965; 3rd ed. Indianapolis: Bobbs-Merrill, 1973; 4th ed. Cambridge, MA: Harvard University Press, 1983.
-
 **LA**
 
-*Languages of Art: An Approach to a Theory of Symbols*, Indianapolis: Bobbs-Merrill, 1968; 2nd ed. Indianapolis: Hackett, 1976.
-
 **PP**
-
-*Problems and Projects*, Indianapolis: Bobbs-Merrill, 1972.
 
 **BA**
 
@@ -399,15 +389,9 @@ Putnam also points out that there is a tension between Goodman’s notion of wor
 
 **WW**
 
-*Ways of Worldmaking*, Indianapolis: Hackett, 1978; paperback edition Indianapolis: Hackett, 1985.
-
 **MM**
 
-*Of Mind and Other Matters*, Cambridge, MA: Harvard University Press, 1984.
-
 **RP**
-
-(with Catherine Z. Elgin) *Reconceptions in Philosophy and other Arts and Sciences*, Indianapolis: Hackett; London: Routledge, 1988; paperback edition, London: Routledge, Indianapolis: Hackett, 1990.
 
 #### Works by Goodman cited in this entry
 
@@ -437,11 +421,7 @@ Putnam also points out that there is a tension between Goodman’s notion of wor
 
 **1980**
 
-“Conversation with Franz Boenders and Mia Gosselin” (revised text of a television interview, Belgium Radio-Television System, Brussels, August 1980), in MM, 189–200.
-
 **2005**
-
-“Gewissheit ist etwas ganz und gar Absurdes” [“Certainty is something altogether Absurd”] (interviewed by Karlheinz Lüdeking), in Steinbrenner et al. 2005: 261–69.
 
 ### B. Secondary sources
 
@@ -463,7 +443,27 @@ Putnam also points out that there is a tension between Goodman’s notion of wor
 
 Carnap, Rudolf | Goodman, Nelson: aesthetics | induction: problem of | Leśniewski, Stanisław | Lewis, Clarence Irving | logic: conditionals | mathematics, philosophy of: nominalism | mathematics, philosophy of: Platonism | mereology | nominalism: in metaphysics | Quine, Willard Van Orman | reflective equilibrium | relativism | Russell, Bertrand | Vienna Circle | Whitehead, Alfred North
 
+[^study-1941]: *A Study of Qualities*, Ph.D. dissertation thesis, Harvard University, 1941. First published New York: Garland, 1990 (Harvard Dissertations in Philosophy Series).
+
+[^structure-1951]: *The Structure of Appearance*, Cambridge, MA: Harvard University Press, 1951; 2nd ed. Indianapolis: Bobbs-Merrill, 1966; 3rd ed. Boston: Reidel, 1977 (page numbers in our text refer to this last edition).
+
+[^fact-1954]: *Fact, Fiction, and Forecast*, University of London: Athlone Press, 1954; Cambridge, MA: Harvard University Press, 1955; 2nd ed. Indianapolis: Bobbs-Merrill, 1965; 3rd ed. Indianapolis: Bobbs-Merrill, 1973; 4th ed. Cambridge, MA: Harvard University Press, 1983.
+
+[^languages-1968]: *Languages of Art: An Approach to a Theory of Symbols*, Indianapolis: Bobbs-Merrill, 1968; 2nd ed. Indianapolis: Hackett, 1976.
+
+[^problems-1972]: *Problems and Projects*, Indianapolis: Bobbs-Merrill, 1972.
+
+[^ways-1978]: *Ways of Worldmaking*, Indianapolis: Hackett, 1978; paperback edition Indianapolis: Hackett, 1985.
+
+[^mind-1984]: *Of Mind and Other Matters*, Cambridge, MA: Harvard University Press, 1984.
+
+[^catherine-1988]: (with Catherine Z. Elgin) *Reconceptions in Philosophy and other Arts and Sciences*, Indianapolis: Hackett; London: Routledge, 1988; paperback edition, London: Routledge, Indianapolis: Hackett, 1990.
+
 [^for-1991]: For attempts at compilations of Goodman’s complete corpus see Berka 1991, the bibliography in Cohnitz and Rossberg 2006, or follow the link in Other Internet Resources below to the list of writings by Goodman compiled by John Lee (University of Edinburgh).
+
+[^conversation-1980]: “Conversation with Franz Boenders and Mia Gosselin” (revised text of a television interview, Belgium Radio-Television System, Brussels, August 1980), in MM, 189–200.
+
+[^gewissheit-2005]: “Gewissheit ist etwas ganz und gar Absurdes” [“Certainty is something altogether Absurd”] (interviewed by Karlheinz Lüdeking), in Steinbrenner et al. 2005: 261–69.
 
 [^berka-1991]: Berka, Sigrid, 1991, “An International Bibliography of Works by and Selected Works about Nelson Goodman”, *Journal of Aesthetic Education*, 25 (special issue: *More Ways of Worldmaking*): 99–112.
 

@@ -139,73 +139,39 @@ Abbreviations of Addams’ principal works referred to in this article appear in
 
 **[DSE]**
 
-Addams, Jane. *Democracy and Social Ethics*, 1902; Urbana, IL: University of Illinois Press, 2002.
-
 **[NIP]**
-
-–––. *Newer Ideals of Peace*, 1906; Urbana, IL: University of Illinois Press, 2007.
 
 **[SYC]**
 
-–––. *The Spirit of Youth and the City Streets*, 1909; Urbana, IL: University of Illinois Press, 1972.
-
 **[TYH]**
-
-–––. *Twenty Years at Hull House*, 1910; Urbana, IL: University of Illinois Press, 1990.
 
 **[NCA]**
 
-–––. *A New Conscience and an Ancient Evil*, 1912; Urbana, IL: University of Illinois Press, 2002.
-
 **[LRW]**
-
-–––. *The Long Road of Woman’s Memory*, 1916; Urbana, IL: University of Illinois Press, 2002.
 
 **[PBT]**
 
-–––. *Peace and Bread in Time of War*, 1922; Urbana, IL: University of Illinois Press, 2002.
-
 **[STY]**
-
-–––. *Second Twenty Years at Hull House*, New York: Macmillan, 1930.
 
 **[EBP]**
 
-–––. *The Excellent Becomes the Permanent*, New York: Macmillan, 1932.
-
 **[MFJ]**
-
-–––. *My Friend, Julia Lathrop*, 1935; Urbana, IL: University of Illinois Press, 2004.
 
 **[WH]**
 
-Addams, Jane, Emily G. Balch and Alice Hamilton. *Women at The Hague: The International Congress Of Women And Its Results*, 1915; Urbana, IL: University of Illinois Press, 2003.
-
 **[HHM]**
-
-Residents of Hull-House. *Hull-House Maps and Papers*, 1895; Urbana, IL: University of Illinois Press, 2007.
 
 #### Selected Articles
 
 **[ABI]**
 
-Addams, Jane. “A Belated Industry,” 1896, *American Journal of Sociology*, 1 (5) (March).
-
 **[FSS]**
-
-–––. “A Function of the Social Settlement,” 1899; reprinted in Christopher Lasch (ed.), *The Social Thought of Jane Addams*, Indianapolis: The Bobbs-Merrill Company, Inc., 1965.
 
 **[AML]**
 
-–––. “A Modern Lear,” 1912; reprinted in Jean Bethke Elshtain (ed.), *Jane Addams and the Dream of American Democracy*, New York: Basic Books, 2002.
-
 **[OVS]**
 
-–––. “The Objective Value of the Social Settlement,” 1893; reprinted in Jean Bethke Elshtain (ed.), *Jane Addams and the Dream of American Democracy*, New York: Basic Books, 2002.
-
 **[SNS]**
-
-–––. “The Subjective Necessity for Social Settlements,” 1893; reprinted in Jean Bethke Elshtain (ed.), *Jane Addams and the Dream of American Democracy*, New York: Basic Books, 2002.
 
 #### Collections
 
@@ -239,6 +205,40 @@ Dewey, John | Dewey, John: political philosophy | feminist philosophy, approache
 ## Notes（原文脚注）
 
 [^note-1]: Recent reprints of Addams’ work by the University of Illinois Press include: *Democracy and Social Ethics* (2002), *The Long Road of Woman’s Memory* (2002), *A New Conscience and an Ancient Evil* (2002), *My Friend, Julia Lathrop* (2004), *Newer Ideals of* Peace (2007), Peace *and Bread in Time of War* (2002), and *Women at The Hague: The International Congress Of Women And Its Results* with Emily G. Balch and Alice Hamilton (2003).
+
+[^addams-1902]: Addams, Jane. *Democracy and Social Ethics*, 1902; Urbana, IL: University of Illinois Press, 2002.
+
+[^addams-1906]: –––. *Newer Ideals of Peace*, 1906; Urbana, IL: University of Illinois Press, 2007.
+
+[^addams-1909]: –––. *The Spirit of Youth and the City Streets*, 1909; Urbana, IL: University of Illinois Press, 1972.
+
+[^addams-1910]: –––. *Twenty Years at Hull House*, 1910; Urbana, IL: University of Illinois Press, 1990.
+
+[^addams-1912]: –––. *A New Conscience and an Ancient Evil*, 1912; Urbana, IL: University of Illinois Press, 2002.
+
+[^addams-1916]: –––. *The Long Road of Woman’s Memory*, 1916; Urbana, IL: University of Illinois Press, 2002.
+
+[^addams-1922]: –––. *Peace and Bread in Time of War*, 1922; Urbana, IL: University of Illinois Press, 2002.
+
+[^addams-1930]: –––. *Second Twenty Years at Hull House*, New York: Macmillan, 1930.
+
+[^addams-1932]: –––. *The Excellent Becomes the Permanent*, New York: Macmillan, 1932.
+
+[^addams-1935]: –––. *My Friend, Julia Lathrop*, 1935; Urbana, IL: University of Illinois Press, 2004.
+
+[^addams-1915]: Addams, Jane, Emily G. Balch and Alice Hamilton. *Women at The Hague: The International Congress Of Women And Its Results*, 1915; Urbana, IL: University of Illinois Press, 2003.
+
+[^residents-1895]: Residents of Hull-House. *Hull-House Maps and Papers*, 1895; Urbana, IL: University of Illinois Press, 2007.
+
+[^addams-1896]: Addams, Jane. “A Belated Industry,” 1896, *American Journal of Sociology*, 1 (5) (March).
+
+[^addams-1899]: –––. “A Function of the Social Settlement,” 1899; reprinted in Christopher Lasch (ed.), *The Social Thought of Jane Addams*, Indianapolis: The Bobbs-Merrill Company, Inc., 1965.
+
+[^addams-1912-2]: –––. “A Modern Lear,” 1912; reprinted in Jean Bethke Elshtain (ed.), *Jane Addams and the Dream of American Democracy*, New York: Basic Books, 2002.
+
+[^addams-1893]: –––. “The Objective Value of the Social Settlement,” 1893; reprinted in Jean Bethke Elshtain (ed.), *Jane Addams and the Dream of American Democracy*, New York: Basic Books, 2002.
+
+[^addams-1893-2]: –––. “The Subjective Necessity for Social Settlements,” 1893; reprinted in Jean Bethke Elshtain (ed.), *Jane Addams and the Dream of American Democracy*, New York: Basic Books, 2002.
 
 [^bryan-1860]: Bryan, Mary Lynn McCree, Barbara Bair, and Maree De Angury (eds.), *The Selected Papers of Jane Addams* (Volume 1: Preparing to Lead, 1860–1881), Urbana, IL: University of Illinois Press, 2003.
 

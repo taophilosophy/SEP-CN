@@ -404,11 +404,11 @@ Berkeley, George | cognition: embodied | Condillac, Étienne Bonnot de | Descart
 
 The authors wish to thank Daniel Brewer, Andrew Curran, Kate Tunstall, and John Zammito for their helpful comments and criticisms.
 
-[^dpv-1975]: [DPV] *Œuvres complètes*, Herbert Dieckmann, Jacques Proust, and Jean Varloot (eds.), 33 volumes planned, 25 done; Paris: Hermann, 1975–.
+[^ètes-1975]: [DPV] *Œuvres complètes*, Herbert Dieckmann, Jacques Proust, and Jean Varloot (eds.), 33 volumes planned, 25 done; Paris: Hermann, 1975–.
 
 [^correspondance-1955]: *Correspondance*, G. Roth (ed.), 9 vols. Paris: Éditions de Minuit, 1955–1970.
 
-[^enc-1751]: [*Enc.*] *Encyclopédie des arts et des métiers*, 35 vols., with J. D’Alembert (eds.), Paris: Briasson, 1751–1780. Reprint, Stuttgart/Bad Cannstatt: Frommann, 1966. Different online versions exist, from excerpts and links on [Lexilogos](http://www.lexilogos.com/encyclopedie_diderot_alembert.htm) to the more official [ARTFL](http://encyclopedie.uchicago.edu/) project and the new [ENCRRE project](http://enccre.academie-sciences.fr/).
+[^encyclopédie-1751]: [*Enc.*] *Encyclopédie des arts et des métiers*, 35 vols., with J. D’Alembert (eds.), Paris: Briasson, 1751–1780. Reprint, Stuttgart/Bad Cannstatt: Frommann, 1966. Different online versions exist, from excerpts and links on [Lexilogos](http://www.lexilogos.com/encyclopedie_diderot_alembert.htm) to the more official [ARTFL](http://encyclopedie.uchicago.edu/) project and the new [ENCRRE project](http://enccre.academie-sciences.fr/).
 
 [^diderot-1744]: 1744, translation of Temple Stanyan, *Histoire de Grèce*
 
@@ -422,17 +422,17 @@ The authors wish to thank Daniel Brewer, Andrew Curran, Kate Tunstall, and John 
 
 [^diderot-1748]: 1748, *Mémoires de mathématiques* (including on acoustics)
 
-[^bi-nd]: [*BI*] –––, *Les Bijoux indiscrets*
+[^diderot-nd]: [*BI*] –––, *Les Bijoux indiscrets*
 
 [^diderot-1749]: 1749, *Lettre sur les aveugles*
 
-[^lsm-1750]: [*LSM*] 1750, *Lettre sur les sourds et les muets* (revised and published 1751)
+[^diderot-1750]: [*LSM*] 1750, *Lettre sur les sourds et les muets* (revised and published 1751)
 
-[^lsm-nd]: –––, “Prospectus” of the *Encyclopédie*
+[^diderot-nd-2]: –––, “Prospectus” of the *Encyclopédie*
 
 [^diderot-1751]: 1751, *Encyclopédie* begins to appear (35 vols., 1751–1780)
 
-[^diderot-nd]: –––, article “Âme” (additions by Diderot)
+[^diderot-nd-3]: –––, article “Âme” (additions by Diderot)
 
 [^diderot-1752]: 1752, *Suite de l’Apologie de l’Abbé de Prades*
 
@@ -446,7 +446,7 @@ The authors wish to thank Daniel Brewer, Andrew Curran, Kate Tunstall, and John 
 
 [^diderot-1758]: 1758, *Sur “De l’Esprit” d’Helvétius*
 
-[^dpd-nd]: [*DPD*] –––, *Discours de la poésie dramatique*
+[^diderot-nd-4]: [*DPD*] –––, *Discours de la poésie dramatique*
 
 [^diderot-1759]: 1759, Letter to Sophie Volland (on materialism, generation and love)
 
@@ -458,43 +458,43 @@ The authors wish to thank Daniel Brewer, Andrew Curran, Kate Tunstall, and John 
 
 [^diderot-1763]: 1763, *Salon de 1763*
 
-[^ep-1765]: [*EP*] 1765?, Diderot begins the *Eléments de physiologie* (apparently unfinished, revised as late as 1780)
+[^diderot-1765]: [*EP*] 1765?, Diderot begins the *Eléments de physiologie* (apparently unfinished, revised as late as 1780)
 
-[^diderot-1765]: 1765, articles including “Hobbisme”, “Leibnizianisme”, “Locke” and “Spinosiste” in the volumes of the *Encyclopédie* that appeared all together in this year
+[^diderot-1765-2]: 1765, articles including “Hobbisme”, “Leibnizianisme”, “Locke” and “Spinosiste” in the volumes of the *Encyclopédie* that appeared all together in this year
 
 [^diderot-1766]: 1766, Diderot begins work on the *Histoire des deux Indes* (pub. 1770)
 
-[^diderot-nd-2]: –––, *Essais sur la peinture*
+[^diderot-nd-5]: –––, *Essais sur la peinture*
 
 [^diderot-1767]: 1767, second draft of the *Neveu de Rameau*
 
-[^sa-1767]: [*SA*] –––, *Salon de 1767* (including the “[promenade Vernet](http://www.artandpopularculture.com/Promenade_Vernet)”)
+[^diderot-1767-2]: [*SA*] –––, *Salon de 1767* (including the “[promenade Vernet](http://www.artandpopularculture.com/Promenade_Vernet)”)
 
 [^diderot-1768]: 1768, probable collaboration on a translation of Lucretius’ *De rerum natura* (by Lagrange, which Diderot later disavowed)
 
-[^ra-1769]: [*RA*] 1769, *Le Rêve de D’Alembert*
+[^diderot-1769]: [*RA*] 1769, *Le Rêve de D’Alembert*
 
-[^pc-nd]: [*PC*] –––, *Paradoxe sur le comédien*
+[^diderot-nd-6]: [*PC*] –––, *Paradoxe sur le comédien*
 
-[^ppmm-1770]: [*PPMM*] 1770, *Principes philosophiques sur la matière et le mouvement; Additions aux Pensées philosophiques*
+[^diderot-1770]: [*PPMM*] 1770, *Principes philosophiques sur la matière et le mouvement; Additions aux Pensées philosophiques*
 
-[^ppmm-nd]: –––, Diderot/Raynal, *Histoire philosophique et politique des Deux Indes*
+[^diderot-nd-7]: –––, Diderot/Raynal, *Histoire philosophique et politique des Deux Indes*
 
-[^jlf-1771]: [*JLF*] 1771, Diderot begins to write *Jacques le fataliste* (–1778)
+[^diderot-1771]: [*JLF*] 1771, Diderot begins to write *Jacques le fataliste* (–1778)
 
 [^diderot-1772]: 1772, two editions of Diderot’s works appear in Amsterdam (one containing Morelly’s *Code de la Nature*)
 
 [^diderot-1773]: 1773–1774, *Neveu de Rameau* (final version)
 
-[^rh-1774]: [*RH*] –––, *Réfutation d’Helvétius* (revised 1774, 1775)
+[^diderot-1774]: [*RH*] –––, *Réfutation d’Helvétius* (revised 1774, 1775)
 
-[^oh-nd]: [*OH*] –––, *Observations sur Hemsterhuis*
+[^diderot-nd-8]: [*OH*] –––, *Observations sur Hemsterhuis*
 
-[^oh-nd-2]: –––, *Mémoires pour Catherine II*
+[^diderot-nd-9]: –––, *Mémoires pour Catherine II*
 
-[^diderot-1774]: 1774, *Dialogues* & *Fragments* (between the *Rêve* and the *Éléments de physiologie*: see DPV XVII)
+[^diderot-1774-2]: 1774, *Dialogues* & *Fragments* (between the *Rêve* and the *Éléments de physiologie*: see DPV XVII)
 
-[^ercn-1778]: [*ERCN*] 1778, *Essai sur les règnes de Claude et de Néron* (revised 1782)
+[^diderot-1778]: [*ERCN*] 1778, *Essai sur les règnes de Claude et de Néron* (revised 1782)
 
 [^diderot-1784]: 1784, Naigeon, *Mémoires sur la vie et les ouvrages de Diderot* (1784–1795)
 

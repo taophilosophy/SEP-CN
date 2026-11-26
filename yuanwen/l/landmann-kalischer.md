@@ -213,9 +213,9 @@ aesthetic, concept of the | aesthetic experience | aesthetics: aesthetic judgmen
 
 [^essays-2024]: [*Essays*] *Essays on Art, Aesthetics, and Value* (Oxford New Histories of Philosophy), Samantha Matherne (ed.). Daniel O. Dahlstrom (trans.), New York: Oxford University Press, 2024. doi:10.1093/oso/9780197682043.001.0001
 
-[^ls-1952]: [*LS*] *Die Lehre vom Schönen* [*The Doctrine of the Beautiful*], Vienna: Amandus, 1952.
+[^die-1952]: [*LS*] *Die Lehre vom Schönen* [*The Doctrine of the Beautiful*], Vienna: Amandus, 1952.
 
-[^te-1923]: [*TE*] *Die Transcendenz des Erkennens* [*Transcendence of Knowing*], Berlin: Bondi, 1923.
+[^die-1923]: [*TE*] *Die Transcendenz des Erkennens* [*Transcendence of Knowing*], Berlin: Bondi, 1923.
 
 [^kalischer-1902]: Kalischer, Edith, 1902, *Analyse der ästhetischen Contemplation (Malerei und Plastik)* [Analysis of Aesthetic Contemplation (Painting and Sculpture)], Barth: Leipzig.
 

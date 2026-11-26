@@ -470,19 +470,19 @@ His skill as a performer was the stuff of legends; Netton (1992: 6)[^netton-1992
 
 [^note-28]: Avicenna (Ibn Sīnā *Al-qiyās* 57.11f) gives a slight variant of this syllogism as an example of a poetic syllogism. See Black 1989: 258.
 
-[^analysis-nd]: [*Analysis*] *Kitāb al-taḥlīl* (*Analysis*), in [*Logic*] 2: 95–129.
+[^kitāb-nd]: [*Analysis*] *Kitāb al-taḥlīl* (*Analysis*), in [*Logic*] 2: 95–129.
 
 [^aristotle-2001]: [*Aristotle*] “The philosophy of Aristotle, the parts of his philosophy, the ranks of order of its parts, the position from which he started and the one he reached.” Translated by Mohsin Mahdi from an Arabic manuscript in Istanbul. Mahdi’s translation is Part III of his book Mahdi 2001 (below).
 
-[^attainment-1981]: [*Attainment*] *Kitāb taḥṣīl al-saʻāda*, Jaʻfar Āl Yāsīn (ed.), Beirut: Dār al-Andalus, 1981; translated as “The Attainment of Happiness” in Mahdi 2001: 13–50.
+[^kitāb-1981]: [*Attainment*] *Kitāb taḥṣīl al-saʻāda*, Jaʻfar Āl Yāsīn (ed.), Beirut: Dār al-Andalus, 1981; translated as “The Attainment of Happiness” in Mahdi 2001: 13–50.
 
-[^canons-1938]: [*Canons*] “Fārābī’s Canons of Poetry”, A. J. Arberry (ed./trans.), 1938, *Rivista degli Studi Orientali*, 17(2): 266–278. (Arabic and translation.)
+[^fārābī’s-1938]: [*Canons*] “Fārābī’s Canons of Poetry”, A. J. Arberry (ed./trans.), 1938, *Rivista degli Studi Orientali*, 17(2): 266–278. (Arabic and translation.)
 
-[^catalogue-2005]: [*Catalogue*] *Iḥṣā al-‘ulūm* (*Catalogue of the sciences*), ‘Uthmān Amīn (ed.), Paris: Dar Bibliyun, 2005. Latin translations (1) by Gundisalvi in Jakob Schneider, *De Scientiis: secundum versionem Dominici Gundisalvi*, Herder, Freiburg 2006 (includes German translation); (2) by Gerard of Cremona in Alain Galonnier, *Le De Scientiis Alfarabii de Gérard de Crémone: Contribution aux problèmes de l’acculturation au XIIe siècle (édition et traduction du texte)*, Turnhout: Brepols, 2017 (includes English translation).
+[^iḥṣā-2005]: [*Catalogue*] *Iḥṣā al-‘ulūm* (*Catalogue of the sciences*), ‘Uthmān Amīn (ed.), Paris: Dar Bibliyun, 2005. Latin translations (1) by Gundisalvi in Jakob Schneider, *De Scientiis: secundum versionem Dominici Gundisalvi*, Herder, Freiburg 2006 (includes German translation); (2) by Gerard of Cremona in Alain Galonnier, *Le De Scientiis Alfarabii de Gérard de Crémone: Contribution aux problèmes de l’acculturation au XIIe siècle (édition et traduction du texte)*, Turnhout: Brepols, 2017 (includes English translation).
 
-[^categories-1958]: [*Categories*] *Kitāb al-qāṭāghūrīyās ayy al-maqūlāt*, in [*Logic*] 1: 89–131; translated in D. M. Dunlop, 1958/1959, in “Al-Fārābī’s paraphrase of the *Categories* of Aristotle”, *Islamic Quarterly*, 4: 168–197 and 5(1): 21–54.
+[^kitāb-1958]: [*Categories*] *Kitāb al-qāṭāghūrīyās ayy al-maqūlāt*, in [*Logic*] 1: 89–131; translated in D. M. Dunlop, 1958/1959, in “Al-Fārābī’s paraphrase of the *Categories* of Aristotle”, *Islamic Quarterly*, 4: 168–197 and 5(1): 21–54.
 
-[^certainty-1986]: [*Certainty*] *Sharā’iṭ al-yaqīn* (*Conditions of certainty*), in *Kitāb al-burhān wa-kitāb al-sharā’iṭ al-yaqīn* (*Book of demonstration and book of conditions of certainty*), Majid Fakhry (ed.), Beirut: Dar el-Machreq, 1986, pp. 97–104.
+[^sharā’iṭ-1986]: [*Certainty*] *Sharā’iṭ al-yaqīn* (*Conditions of certainty*), in *Kitāb al-burhān wa-kitāb al-sharā’iṭ al-yaqīn* (*Book of demonstration and book of conditions of certainty*), Majid Fakhry (ed.), Beirut: Dar el-Machreq, 1986, pp. 97–104.
 
 [^commentary-2006]: [*Commentary on Categories*] “Al-Fārābī’s *Long Commentary* on Aristotle’s *Categoriae* in Hebrew and Arabic: A critical edition and English translation of the newly found extant fragments”, Mauro Zonta (ed./trans.), *Studies in Arabic and Islamic Culture II*, Binyamin Abrahamov (ed.), Ramat-Gan: Bar-Ilan University Press, 2006, pp. 185–253.
 
@@ -490,41 +490,41 @@ His skill as a performer was the stuff of legends; Netton (1992: 6)[^netton-1992
 
 [^commentary-1988]: [*Commentary on Prior Analytics*] *Kitāb sharḥ al-qiyās*, surviving part in *Almanṭiqīyāt lil-Fārābī* (*The logical works of al-Fārābī*), M. T. Daneshpazhuh (ed.), Qum: Maktabat Ayat Allah, 1988, vol. 2, pp. 263–553.
 
-[^debate-2019]: [*Debate*] *Kitāb al-jadal* (*Debate*), in [*Logic*] 3: 13–107. A fuller text is translated in David M. DiPasquale, *Alfarabi’s Book of Dialectic (Kitab al-Jadal): On the Starting Point of Islamic Philosophy*, Cambridge: CUP, 2019. (DiPasquale’s references to the Arabic text are to an edition not generally available.)
+[^kitāb-2019]: [*Debate*] *Kitāb al-jadal* (*Debate*), in [*Logic*] 3: 13–107. A fuller text is translated in David M. DiPasquale, *Alfarabi’s Book of Dialectic (Kitab al-Jadal): On the Starting Point of Islamic Philosophy*, Cambridge: CUP, 2019. (DiPasquale’s references to the Arabic text are to an edition not generally available.)
 
-[^demonstration-1986]: [*Demonstration*] *Kitāb al-burhān* (*Demonstration*), in *Kitāb al-burhān wa-kitāb al-sharā’iṭ al-yaqīn* (*Book of demonstration and book of conditions of certainty*), Majid Fakhry (ed.), Beirut: Dar el-Machreq, 1986, pp. 19–96.
+[^kitāb-1986]: [*Demonstration*] *Kitāb al-burhān* (*Demonstration*), in *Kitāb al-burhān wa-kitāb al-sharā’iṭ al-yaqīn* (*Book of demonstration and book of conditions of certainty*), Majid Fakhry (ed.), Beirut: Dar el-Machreq, 1986, pp. 19–96.
 
-[^eisagoge-1956]: [*Eisagoge*] *Kitāb al-īsāḡūjī*, in [*Logic*] 1: 75–87; translated in D. M. Dunlop, 1956, “AlFārābī’s *Eisagoge*”, *Islamic Quarterly*, 3(2): 117–138.
+[^kitāb-1956]: [*Eisagoge*] *Kitāb al-īsāḡūjī*, in [*Logic*] 1: 75–87; translated in D. M. Dunlop, 1956, “AlFārābī’s *Eisagoge*”, *Islamic Quarterly*, 3(2): 117–138.
 
-[^expressions-1968]: [*Expressions*] *Kitāb al-alfāẓ al-musta‘mala fī al-manṭiq* (*Expressions used in logic*), Muhsin Mahdi (ed.), Beirut: Dar el-Machreq, 1968.
+[^kitāb-1968]: [*Expressions*] *Kitāb al-alfāẓ al-musta‘mala fī al-manṭiq* (*Expressions used in logic*), Muhsin Mahdi (ed.), Beirut: Dar el-Machreq, 1968.
 
-[^harmony-2009]: [*Harmony*] Al-Fārābī(?), *L’armonia delle opinioni dei due sapienti: il divino Platone e Aristotele* (*Al-jam‘ bayna ra’yay al-ḥakīmayn aflaṭūn al-ilāhī wa-arisṭūṭālīs*), Cecilia Martini Bonadeo (ed.), Pisa: Plus, 2009; English translation in Charles E. Butterworth, *Alfārābī, The Political Writings, ‘Selected Aphorisms’ and other texts*, Ithaca, NY: Cornell University Press, 2001, pp. 117–167.
+[^al-fārābī-2009]: [*Harmony*] Al-Fārābī(?), *L’armonia delle opinioni dei due sapienti: il divino Platone e Aristotele* (*Al-jam‘ bayna ra’yay al-ḥakīmayn aflaṭūn al-ilāhī wa-arisṭūṭālīs*), Cecilia Martini Bonadeo (ed.), Pisa: Plus, 2009; English translation in Charles E. Butterworth, *Alfārābī, The Political Writings, ‘Selected Aphorisms’ and other texts*, Ithaca, NY: Cornell University Press, 2001, pp. 117–167.
 
-[^indication-1987]: [*Indication*] *Risālat al-tanbīh ‘alā sabīl al-sa‘āda* (*Indication of the way to happiness*), S. Khālīfāt (ed.), Amman: Jami‘at al-urdunīya, 1987; translated in Jon McGinnis and David C. Reisman, *Classical Arabic Philosophy: An Anthology of Sources*, Indianapolis: Hackett, 2007, pp. 104–120.
+[^risālat-1987]: [*Indication*] *Risālat al-tanbīh ‘alā sabīl al-sa‘āda* (*Indication of the way to happiness*), S. Khālīfāt (ed.), Amman: Jami‘at al-urdunīya, 1987; translated in Jon McGinnis and David C. Reisman, *Classical Arabic Philosophy: An Anthology of Sources*, Indianapolis: Hackett, 2007, pp. 104–120.
 
-[^interpretation-1981]: [*Interpretation*] *Kitāb pārī armīniyās ayy al-‘ibāra*, in [*Logic*] 1: 133–163; translated in Zimmermann 1981: 220–247.
+[^kitāb-1981-2]: [*Interpretation*] *Kitāb pārī armīniyās ayy al-‘ibāra*, in [*Logic*] 1: 133–163; translated in Zimmermann 1981: 220–247.
 
-[^introductory-1957]: [*Introductory*] *Al-tawṭi’a aw al-risāla ṣuddira bihā al-manṭiq* (*Preparation, or essay introducing logic*), in [*Logic*] 1: 55–62; translated in D. M. Dunlop, 1957, “Al-Fārābī’s Introductory *Risālah* on logic”, *Islamic Quarterly*, 3: 224–235.
+[^al-tawṭi’a-1957]: [*Introductory*] *Al-tawṭi’a aw al-risāla ṣuddira bihā al-manṭiq* (*Preparation, or essay introducing logic*), in [*Logic*] 1: 55–62; translated in D. M. Dunlop, 1957, “Al-Fārābī’s Introductory *Risālah* on logic”, *Islamic Quarterly*, 3: 224–235.
 
-[^letters-1990]: [*Letters*] *Kitāb al-ḥurūf* (*Book of letters*), Muhsin Mahdi (ed.), Beirut: Dar al-Machreq, 1990. Paragraphs (108) to (157) are translated in Khalidi 2005, pp. 1–26. A new edition with full translation by Charles E. Butterworth is near publication. We cite this work in the style (*m*) *n*.*p*, where *m* is the paragraph number, *n* the page number and *p* the line number, all as in Mahdi’s edition; Khalidi gives the paragraph numbers.
+[^kitāb-1990]: [*Letters*] *Kitāb al-ḥurūf* (*Book of letters*), Muhsin Mahdi (ed.), Beirut: Dar al-Machreq, 1990. Paragraphs (108) to (157) are translated in Khalidi 2005, pp. 1–26. A new edition with full translation by Charles E. Butterworth is near publication. We cite this work in the style (*m*) *n*.*p*, where *m* is the paragraph number, *n* the page number and *p* the line number, all as in Mahdi’s edition; Khalidi gives the paragraph numbers.
 
-[^logic-1985]: [*Logic*] *Al-manṭiq ‘inda al-Fārābī* (*The Logic of al-Fārābī*), Rafiq al-‘Ajam (ed.), Beirut: Dar al-Machreq, vol. 1 1985, vols. 2 and 3 1986.
+[^al-manṭiq-1985]: [*Logic*] *Al-manṭiq ‘inda al-Fārābī* (*The Logic of al-Fārābī*), Rafiq al-‘Ajam (ed.), Beirut: Dar al-Machreq, vol. 1 1985, vols. 2 and 3 1986.
 
-[^music-1967]: [*Music*] *Kitāb al-Mūsīqā al-kabīr* (*Great Book of Music*), Ghattas ‘Abd-al-Malik Khashaba (ed.), Cairo: Dār al-Kātib al-‘arabī li-al-ṭibā‘a wa-al-nashr, 1967; French translation in Rudolphe D’Erlanger, 1930, *La Musique Arabe*, vols 1, 2 (of six), Paris: Librairie Orientaliste Paul Geuthner.
+[^kitāb-1967]: [*Music*] *Kitāb al-Mūsīqā al-kabīr* (*Great Book of Music*), Ghattas ‘Abd-al-Malik Khashaba (ed.), Cairo: Dār al-Kātib al-‘arabī li-al-ṭibā‘a wa-al-nashr, 1967; French translation in Rudolphe D’Erlanger, 1930, *La Musique Arabe*, vols 1, 2 (of six), Paris: Librairie Orientaliste Paul Geuthner.
 
-[^poetry-1959]: [*Poetry*] “Kitāb al-shi‘r”, M. Mahdi (ed.), *Shi‘r*, 1959: 90–95; English translation in Geert Jan van Gelder and Marlé Hammond, 2008, *Takhyīl: The Imaginary in Classical Arabic Poetics*, Warminster: Gibb Memorial Trust: 15–18; French translation in Benmakhlouf et al. 2007: 112–118.
+[^kitāb-1959]: [*Poetry*] “Kitāb al-shi‘r”, M. Mahdi (ed.), *Shi‘r*, 1959: 90–95; English translation in Geert Jan van Gelder and Marlé Hammond, 2008, *Takhyīl: The Imaginary in Classical Arabic Poetics*, Warminster: Gibb Memorial Trust: 15–18; French translation in Benmakhlouf et al. 2007: 112–118.
 
-[^proportion-1988]: [*Proportion*] *Qawl al-Fārābī fī al-tanāsub wa-al-ta’līf* (*About proportion and composition*), in M. T. Daneshpazhuh (ed.), *Al-manṭiqīyāt lil-Fārābī* (*The logical works of alFārābī*), Qum: Maktabat Ayat Allah, Qum, 1988, vol. 1, pp. 504.1–506.6; French translation in Benmakhlouf et al. 2007: 107–111.
+[^qawl-1988]: [*Proportion*] *Qawl al-Fārābī fī al-tanāsub wa-al-ta’līf* (*About proportion and composition*), in M. T. Daneshpazhuh (ed.), *Al-manṭiqīyāt lil-Fārābī* (*The logical works of alFārābī*), Qum: Maktabat Ayat Allah, Qum, 1988, vol. 1, pp. 504.1–506.6; French translation in Benmakhlouf et al. 2007: 107–111.
 
-[^rhetoric-1971]: [*Rhetoric*] *Kitāb al-Ḫaṭāba*, in J. Langhade and M. Grignaschi (eds.), *Al-Fārābī, deux ouvrages inédits sur la rhétorique*, Beirut: Dar el-Machreq, 1971, pp. 30–121.
+[^kitāb-1971]: [*Rhetoric*] *Kitāb al-Ḫaṭāba*, in J. Langhade and M. Grignaschi (eds.), *Al-Fārābī, deux ouvrages inédits sur la rhétorique*, Beirut: Dar el-Machreq, 1971, pp. 30–121.
 
-[^sections-1955]: [*Sections*] *Al-fuṣūl al-khamsa* (*The five sections*), in [*Logic*] 1: 63–73; translated in D. M. Dunlop, 1955, “Al-Fārābī’s Introductory Sections on Logic”, *Islamic Quarterly*, 2: 264–282.
+[^al-fuṣūl-1955]: [*Sections*] *Al-fuṣūl al-khamsa* (*The five sections*), in [*Logic*] 1: 63–73; translated in D. M. Dunlop, 1955, “Al-Fārābī’s Introductory Sections on Logic”, *Islamic Quarterly*, 2: 264–282.
 
 [^short-1986]: [*Short Syllogism*] *Kitāb al-qiyās al-ṣaḡīr* (Also known as *Logic of the Theologians*) in *Al-manṭiq ‘inda al-Fārābī* (*The Logic of al-Fārābī*), R. al-‘Ajam (ed.), Beirut: Dar al-Mashreq, 1986, vol 2, pp. 65–93; translated in Nicholas Rescher, “Al-Fārābī’s short commentary on Aristotle’s *Prior Analytics*”, Pittsburgh, PA: University of Pittsburgh Press, 1963.
 
-[^sophistry-nd]: [*Sophistry*] *Kitāb al-amkinati al-muḡliṭa* (*Situations of sophistry*), in [*Logic*] 2: 131–164.
+[^kitāb-nd-2]: [*Sophistry*] *Kitāb al-amkinati al-muḡliṭa* (*Situations of sophistry*), in [*Logic*] 2: 131–164.
 
-[^syllogism-2020]: [*Syllogism*] *Kitāb al-qiyās* (*Syllogism*), in [*Logic*] 2: 11–64; translated in Saloua Chatti and Wilfrid Hodges, 2020, *Al-Fārābī, Syllogism*, (Ancient Commentators on Aristotle), London: Bloomsbury Academic.
+[^kitāb-2020]: [*Syllogism*] *Kitāb al-qiyās* (*Syllogism*), in [*Logic*] 2: 11–64; translated in Saloua Chatti and Wilfrid Hodges, 2020, *Al-Fārābī, Syllogism*, (Ancient Commentators on Aristotle), London: Bloomsbury Academic.
 
 [^abed-1991]: Abed, Shukri B., 1991, *Aristotelian Logic and the Arabic Language in Alfārābī*, Albany: State University of New York Press.
 

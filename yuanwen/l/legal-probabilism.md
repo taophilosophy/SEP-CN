@@ -41,7 +41,7 @@ This notion is crucial in legal applications. The fact-finders at trial might wa
 
 Most legal probabilists agree that the probabilities ascribed to statements that are disputed in a trial—such as “The defendant is the source of the crime traces” or “The defendant was at the crime scene when the crime was committed”—should be understood as evidence-based degrees of belief (see, for example, Cullison 1969; Kaye 1979b; Nance 2016)[^cullison-1969][^kaye-1979b][^nance-2016]. This interpretation addresses the worry that since past events did or did not happen, their probabilities should be 1 or 0. Even if the objective chances are 1 or 0, statements about past events could still be assigned different degrees of belief given the evidence available. In addition, degrees of belief are better suited than frequencies for applications to unrepeatable events, such as actions of individuals, which are often the focus of trial disputes Further engagement with these issues lies beyond the scope of this entry (for a more extensive discussion, see the entry on the interpretations of probability as well as Childers 2013; Gillies 2000; Mellor 2004; Skyrms 1966)[^childers-2013][^gillies-2000][^mellor-2004][^skyrms-1966].
 
-Some worry that, except for obeying the axioms of probability, degrees of belief are in the end assigned in a subjective and arbitrary manner (Allen and Pardo 2019)[^allen-2019][^pardo-2019]. This worry can be alleviated by noting that degrees of belief should reflect a conscientious assessment of the evidence available which may also include empirical frequencies (see §1.2 below and the examples in ENFSI 2015)[^enfsi-2015]. In some cases, however, the relevant empirical frequencies will not be available. When this happens, degrees of belief can still be assessed by relying on common sense and experience. Sometimes there will be no need to assign exact probabilities to every statement about the past. In such cases, the relevant probabilities can be expressed approximately with sets of probability measures (Shafer 1976; Walley 1991)[^shafer-1976][^walley-1991], probability distributions over parameter values, or intervals (see later in §1.4).
+Some worry that, except for obeying the axioms of probability, degrees of belief are in the end assigned in a subjective and arbitrary manner (Allen and Pardo 2019)[^allen-2019][^pardo-2019]. This worry can be alleviated by noting that degrees of belief should reflect a conscientious assessment of the evidence available which may also include empirical frequencies (see §1.2 below and the examples in ENFSI 2015)[^european-2015]. In some cases, however, the relevant empirical frequencies will not be available. When this happens, degrees of belief can still be assessed by relying on common sense and experience. Sometimes there will be no need to assign exact probabilities to every statement about the past. In such cases, the relevant probabilities can be expressed approximately with sets of probability measures (Shafer 1976; Walley 1991)[^shafer-1976][^walley-1991], probability distributions over parameter values, or intervals (see later in §1.4).
 
 ### 1.2 Probabilistic fallacies
 
@@ -255,7 +255,7 @@ A competitor of the likelihood ratio as a measure of evidentiary strength is an 
 
 $$\frac{\Pr(\textsf{child rocks} \pmid \textsf{abuse})}{\Pr(\textsf{child rocks} \pmid \textsf{no abuse})}$$
 
-equals one—rocking cannot count as evidence of abuse. In order to avoid exaggerations of the evidence, it is best to assess it by means of the likelihood ratio rather the probability of the evidence given a hypothesis (ENFSI 2015; Royall 1997)[^enfsi-2015][^royall-1997].
+equals one—rocking cannot count as evidence of abuse. In order to avoid exaggerations of the evidence, it is best to assess it by means of the likelihood ratio rather the probability of the evidence given a hypothesis (ENFSI 2015; Royall 1997)[^european-2015][^royall-1997].
 
 ### 2.2 Cold-hit DNA matches
 
@@ -940,7 +940,7 @@ For comments on an earlier version of this entry, many thanks to Ronald Allen, A
 
 [^ekelöf-1964]: Ekelöf, Per Olof, 1964, “Free Evaluation of Evidence”, *Scandinavian Studies in Law*, 8: 47–66.
 
-[^enfsi-2015]: [ENFSI] European Network of Forensic Science Institutes, 2015, *ENFSI Guidelines for Evaluative Reporting in Forensic Sciences*. [[ENFSI 2015 available online](https://enfsi.eu/wp-content/uploads/2016/09/m1_guideline.pdf)]
+[^european-2015]: [ENFSI] European Network of Forensic Science Institutes, 2015, *ENFSI Guidelines for Evaluative Reporting in Forensic Sciences*. [[ENFSI 2015 available online](https://enfsi.eu/wp-content/uploads/2016/09/m1_guideline.pdf)]
 
 [^engel-2012]: Engel, Christoph, 2012, “Neglect the Base Rate: It’s the Law!”, Max Planck Institute (MPI) for Research on Collective Goods Preprint, 2012/23. doi:10.2139/ssrn.2192423
 

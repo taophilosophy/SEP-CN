@@ -337,7 +337,7 @@ Chinese Philosophy: Chan Buddhism | Chinese Philosophy: Huayan Buddhism | Chines
 
 [^chŏng-2015]: Chŏng Tojŏn and Hamhŏ Tŭkt’ong, 2015, *Korea’s Great Buddhist-Confucian Debate: The Treatises of Chŏng Tojŏn (Sambong) and Hamho Tŭkt’ong (Kihwa)* (Korean Classics Library: Philosophy and Religion), A. Charles Muller (ed./trans.), Honolulu: University of Hawaiʻi Press.
 
-[^cb-nd]: [CB] Chŏng To-jŏn, *An Array of Critiques of Buddhism* (*Pulssi jappyŏn*, 佛氏雜辨), pp. 54–81.
+[^chŏng-nd]: [CB] Chŏng To-jŏn, *An Array of Critiques of Buddhism* (*Pulssi jappyŏn*, 佛氏雜辨), pp. 54–81.
 
 [^daehaeng-2007]: Daehaeng, 2007, *No River to Cross: Trusting the Enlightenment That’s Always Right Here*, Chongo (ed.), Boston, MA: Wisdom Publication.
 

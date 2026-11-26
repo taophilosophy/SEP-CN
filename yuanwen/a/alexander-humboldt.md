@@ -331,17 +331,17 @@ colonialism | ecology | Hegel, Georg Wilhelm Friedrich | Humboldt, Wilhelm von |
 
 [^note-1]: Humboldt included it in volume one of *Kosmos* and in his 1827 essay on geographical differences in climate, “*Über die Haupt-Ursachen der Temperatur-Verschiedenheit auf dem Erdkörper*”. See *Kosmos* 1: 176; CO 1: 336. The *Edinburgh Encyclopedia*, for instance, references Humboldt’s description of cloud formation and electrical storms in its section on Physical Geography. See Brewster 1832: 589.
 
-[^an-1808]: [AN] 1808, *Ansichten der Natur mit wissenschaftlichen Erläuterungen*, Tübingen: Cotta.
+[^alexander-humboldt-1808]: [AN] 1808, *Ansichten der Natur mit wissenschaftlichen Erläuterungen*, Tübingen: Cotta.
 
-[^aml-1987]: [AML] *Aus meinem Leben*, edited by Kurt-R. Biermann, Leipzig: Urania Verlag, 1987.
+[^aus-1987]: [AML] *Aus meinem Leben*, edited by Kurt-R. Biermann, Leipzig: Urania Verlag, 1987.
 
-[^bve-1870]: [BVE] *Briefe von Alexander von Humboldt an Varnhagen von Ense*, edited by Ludmilla Assing, Leipzig: Brockhaus, 1870.
+[^briefe-1870]: [BVE] *Briefe von Alexander von Humboldt an Varnhagen von Ense*, edited by Ludmilla Assing, Leipzig: Brockhaus, 1870.
 
-[^jb-1787]: [JB] *Die Jugendbriefe Alexander von Humboldts. 1787–1799*, edited by Ilse Jahn and Fritz Lange, Berlin: Akademie Verlag, 1973.
+[^die-1787]: [JB] *Die Jugendbriefe Alexander von Humboldts. 1787–1799*, edited by Ilse Jahn and Fritz Lange, Berlin: Akademie Verlag, 1973.
 
-[^kosmos-1845]: [*Kosmos*] 1845–1862, *Kosmos: eine physische Wetlbeschreibung*, 5 volumes, Stüttgart: Johann Georg Cotta.
+[^alexander-humboldt-1845]: [*Kosmos*] 1845–1862, *Kosmos: eine physische Wetlbeschreibung*, 5 volumes, Stüttgart: Johann Georg Cotta.
 
-[^vmn-1797]: [VMN] 1797–8, *Versuche über die gereizte Muskel- und Nervenfaser nebst Vermuthungen über den chemischen Process des Lebens in der Thier- und Pflanzenwelt*, 2 volumes, Posen: Decker und Compagnie/Berlin: Heinrich August Rottman.
+[^alexander-humboldt-1797]: [VMN] 1797–8, *Versuche über die gereizte Muskel- und Nervenfaser nebst Vermuthungen über den chemischen Process des Lebens in der Thier- und Pflanzenwelt*, 2 volumes, Posen: Decker und Compagnie/Berlin: Heinrich August Rottman.
 
 [^alexander-humboldt-1790]: 1790, *Beobachtungen über einige Basalte am Rhein* [*Observations of some Basalt at the Rhine*], Braunschweig: Schulbuchhandlung.
 
@@ -351,15 +351,15 @@ colonialism | ecology | Hegel, Georg Wilhelm Friedrich | Humboldt, Wilhelm von |
 
 [^nouvelle-espagne-1811]: [*Nouvelle-Espagne*] 1811, *Essai Politique sur le royaume de la Nouvelle-Espagne*, 2 volumes, Paris: Schoell.
 
-[^l’ile-1826]: [*L’ile de Cuba*] 1826, *Essai Politique sur l’ile de Cuba*, 2 volumes, Paris: Gide Fils.
+[^alexander-humboldt-1826]: [*L’ile de Cuba*] 1826, *Essai Politique sur l’ile de Cuba*, 2 volumes, Paris: Gide Fils.
 
 [^relation-1814]: [*Relation historique*] 1814, *Relation historique du voyage aux regions équinoxiales du Nouveau Continent*, 3 volumes. Part of *Voyage*.
 
-[^voyage-1814]: [*Voyage*] 1814–1831, *Voyage aux régions équinoxiales du Nouveau Continent par Al. de Humboldt et A. Bonpland*, with Aimé Bonpland, 7 volumes, Paris: F. Schoell.
+[^alexander-humboldt-1814]: [*Voyage*] 1814–1831, *Voyage aux régions équinoxiales du Nouveau Continent par Al. de Humboldt et A. Bonpland*, with Aimé Bonpland, 7 volumes, Paris: F. Schoell.
 
 [^alexander-humboldt-1810]: 1810–1813, *Vues des Cordillères, et monumens des peuples indigènes de l’Amérique*, Paris: F. Schoell.
 
-[^da-1989]: [DA] *Darmstädter Ausgabe*, edited with commentary by Hanno Beck, 7 volumes, Darmstadt: Wissenschaftliche Buchgesellschaft, 1989–.
+[^darmstädter-1989]: [DA] *Darmstädter Ausgabe*, edited with commentary by Hanno Beck, 7 volumes, Darmstadt: Wissenschaftliche Buchgesellschaft, 1989–.
 
 [^bd-nd]: Bd. 1: *Schriften zur Geographie der Pflanzen*
 
@@ -375,23 +375,23 @@ colonialism | ecology | Hegel, Georg Wilhelm Friedrich | Humboldt, Wilhelm von |
 
 [^bd-nd-7]: Bd. 7: *Kosmos, Entwurf einer physischen Weltbeschreibung*, 2 books
 
-[^co-1849]: [CO 1] *Cosmos*, Volume 1, edited and translated by E. C. Otté, London: Bohn, 1849. Reprinted 1858–59, New York: Harper & Brothers. Reprint of the latter with introduction by Nicolaas A. Rupke, Baltimore, MD: Johns Hopkins University Press, 1997].
+[^cosmos-1849]: [CO 1] *Cosmos*, Volume 1, edited and translated by E. C. Otté, London: Bohn, 1849. Reprinted 1858–59, New York: Harper & Brothers. Reprint of the latter with introduction by Nicolaas A. Rupke, Baltimore, MD: Johns Hopkins University Press, 1997].
 
-[^co-1850]: [CO 2] *Cosmos*, Volume 2, edited and translated by E. C. Otté, London: Bohn, 1850. New printing with introduction by Michael Dettelbach, Baltimore, MD: Johns Hopkins University Press, 1997].
+[^cosmos-1850]: [CO 2] *Cosmos*, Volume 2, edited and translated by E. C. Otté, London: Bohn, 1850. New printing with introduction by Michael Dettelbach, Baltimore, MD: Johns Hopkins University Press, 1997].
 
-[^co-1851]: [CO 3] *Cosmos*, Volume 3, edited and translated by E. C. Otté, London: Bohn, 1851.
+[^cosmos-1851]: [CO 3] *Cosmos*, Volume 3, edited and translated by E. C. Otté, London: Bohn, 1851.
 
-[^kns-2019]: [KNS] *Essay on the Kingdom of New Spain, Volume 1: A Critical Edition*, edited with an Introduction by Vera M. Kutzinski and Ottmar Ette, Chicago: University of Chicago Press, 2019.
+[^essay-2019]: [KNS] *Essay on the Kingdom of New Spain, Volume 1: A Critical Edition*, edited with an Introduction by Vera M. Kutzinski and Ottmar Ette, Chicago: University of Chicago Press, 2019.
 
-[^vn-2014]: [VN] *Views of Nature*, edited by Stephen T. Jackson and Laura Dassow Walls; translated by Mark W. Person, Chicago: University of Chicago Press, 2014.
+[^views-2014]: [VN] *Views of Nature*, edited by Stephen T. Jackson and Laura Dassow Walls; translated by Mark W. Person, Chicago: University of Chicago Press, 2014.
 
-[^egp-2009]: [EGP] *Essay on the Geography of Plants*, with Aimé Bonpland, edited with an introduction by Stephen T. Jackson, translated (from French) by Sylvie Romanowski, Chicago: University of Chicago Press, 2009.
+[^essay-2009]: [EGP] *Essay on the Geography of Plants*, with Aimé Bonpland, edited with an introduction by Stephen T. Jackson, translated (from French) by Sylvie Romanowski, Chicago: University of Chicago Press, 2009.
 
-[^pn-1799]: [PN] *Personal Narrative of Travels to the Equionoctial Regions of America, During the Years 1799–1804*, with Aimé Bonpland, edited and translated by Helen Maria Williams, 7 volumes, London: Longman, Hurst, Rees, Orme, and Brown, 1814–1829.
+[^personal-1799]: [PN] *Personal Narrative of Travels to the Equionoctial Regions of America, During the Years 1799–1804*, with Aimé Bonpland, edited and translated by Helen Maria Williams, 7 volumes, London: Longman, Hurst, Rees, Orme, and Brown, 1814–1829.
 
-[^ma-1985]: [MA] Goethe, Johann Wolfgang von, *Sämtliche Werke nach Epochen seines Schaffens* (Münchner Ausgabe), edited by K. Richter et al., Munich: Carl Hanser, 1985–1998.
+[^goethe-1985]: [MA] Goethe, Johann Wolfgang von, *Sämtliche Werke nach Epochen seines Schaffens* (Münchner Ausgabe), edited by K. Richter et al., Munich: Carl Hanser, 1985–1998.
 
-[^na-1943]: [NA] Schiller, Friedrich, *Schillers Werke. Nationalausgabe*, edited by Julius Petersen et al. 43 volumes, Weimar: Hermann Böhlaus Nachfolger, 1943–.
+[^schiller-1943]: [NA] Schiller, Friedrich, *Schillers Werke. Nationalausgabe*, edited by Julius Petersen et al. 43 volumes, Weimar: Hermann Böhlaus Nachfolger, 1943–.
 
 [^appel-1994]: Appel, John Wilton, 1994, “Francisco José de Caldas: A Scientist at Work in Nueva Granada”, *Transactions of the American Philosophical Society*, 84(5): 1–154. doi:10.2307/1006650
 

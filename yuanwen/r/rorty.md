@@ -125,7 +125,7 @@ Throughout the 1970s Rorty’s metaphilosophical papers prodded the self-underst
 
 Nevertheless, within the philosophical community at large, Rorty’s standing was such that he was elected President of the Eastern Division of the American Philosophical Association for the academic year 1979–1980. Just weeks before he gave the Presidential Address (“Pragmatism, Relativism, and Irrationalism,” see RR), however, PMN was published by Princeton University Press. To Rorty’s surprise (Rorty in Lewis-Kraus, 2003)[^lewis-kraus-2003], this monograph was read as an attack on the basic creed of analytic philosophy as such, rather than as an attempt at benevolent reform. Most reviews were hostile to what was regarded as Rorty’s end-of-philosophy message, and in the years that followed, Rorty’s challenge to representationalist epistemology was in many influential quarters studiously ignored.
 
-In retrospect, the hostility may appear excessive, but understandable. As we have seen in connection with Rorty’s attitude to science, it is particularly Rorty’s treatment of truth and knowledge that drew fire from philosophers. While a great variety of philosophers have criticized Rorty on this general score in a great variety of ways, a common concern stands out; Rorty’s conversationalist view of truth and knowledge leaves us entirely unable to account for the notion that a reasonable view of how things are is a view suitably constrained by how the world actually is. This criticism is levelled against Rorty not only from the standpoint of metaphysical and scientific realist views of the sort that Rorty hoped would soon be extinct. It is expressed also by thinkers who respect Rorty’s dialectical acumen, who have some sympathy with Rorty’s historicist view of intellectual progress, and who find persuasive his critique of Kantian and Platonist features of modern philosophy. John McDowell (McDowell, 1994)[^mcdowell-1994], for instance, claims that Rorty’s view of the relation between agent and world as merely causal runs afoul of the notion that our very concept of a creature with beliefs involves the idea of a rational constraint of the world on our epistemic states. Pascal Engel, in his exchange with Rorty on the notion of truth (Rorty and Engel, 2007)[^rorty-2007-2], takes Rorty to task for giving up the very notion that undergirds rational argument and conviction, without which it is hard to see what the remit of philosophy might possibly be.
+In retrospect, the hostility may appear excessive, but understandable. As we have seen in connection with Rorty’s attitude to science, it is particularly Rorty’s treatment of truth and knowledge that drew fire from philosophers. While a great variety of philosophers have criticized Rorty on this general score in a great variety of ways, a common concern stands out; Rorty’s conversationalist view of truth and knowledge leaves us entirely unable to account for the notion that a reasonable view of how things are is a view suitably constrained by how the world actually is. This criticism is levelled against Rorty not only from the standpoint of metaphysical and scientific realist views of the sort that Rorty hoped would soon be extinct. It is expressed also by thinkers who respect Rorty’s dialectical acumen, who have some sympathy with Rorty’s historicist view of intellectual progress, and who find persuasive his critique of Kantian and Platonist features of modern philosophy. John McDowell (McDowell, 1994)[^mcdowell-1994], for instance, claims that Rorty’s view of the relation between agent and world as merely causal runs afoul of the notion that our very concept of a creature with beliefs involves the idea of a rational constraint of the world on our epistemic states. Pascal Engel, in his exchange with Rorty on the notion of truth (Rorty and Engel, 2007)[^rorty-2007-3], takes Rorty to task for giving up the very notion that undergirds rational argument and conviction, without which it is hard to see what the remit of philosophy might possibly be.
 
 However, critics are not concerned only with what they see as a misguided view of belief, truth, and knowledge, whether relativist, subjectivist, or idealist in nature. An important reason for the high temperature of much of the debate that Rorty has inspired is that he appears to some to reject the very values that are the basis for any articulation of a philosophical view of truth and knowledge at all. As Engel emphasizes, Rorty is indeed critical of the role of argument in intellectual progress, and he is dismissive of the very idea of theories of truth, of knowledge, of rationality, and the like. Philosophers such as Hilary Putnam and Susan Haack, who shared Rorty’s view that analytic philosophy would do well to incorporate the lessons of American pragmatism, focused their criticisms on exactly this aspect of Rorty’s views. Haack, in particular, frames her attacks on Rorty along these lines in moral terms; to her mind, Rorty’s efforts to abandon the basic concepts of traditional epistemology are symptoms of a vulgar cynicism, which contributes to the decline of reason and intellectual integrity that Haack and others find to be characteristic of much contemporary thought. The charge of intellectual irresponsibility is sometimes raised, or at last implied, in connection with Rorty’s use of historical figures. Rorty’s reading of Descartes and of Kant in PMN have often been challenged, as has his more constructive uses of Hegel, Nietzsche, Heidegger, and Wittgenstein. The kind of appropriation of other writers and thinkers that Rorty performs will at times seem to do violence to the views and intentions of the protagonists. Rorty, however, is quite clear about the rhetorical point and scholarly limitations of these kinds of redescriptions, as he explains in “The Historiography of Philosophy: Four Genres” (Rorty, 1984).
 
@@ -167,51 +167,27 @@ In the years since Rorty’s death, the publication of monographs and anthologie
 
 **[PMN]**
 
-1979, *Philosophy and the Mirror of Nature*, Princeton: Princeton University Press.
-
 **[CP]**
-
-1982, *Consequences of Pragmatism*, Minneapolis: University of Minnesota Press.
 
 **[CIS]**
 
-1989, *Contingency, Irony, and Solidarity*, New York: Cambridge University Press.
-
 **[ORT]**
-
-1991, *Objectivity, Relativism, and Truth: Philosophical Papers, Volume 1*, New York: Cambridge University Press.
 
 **[EHO]**
 
-1991, *Essays on Heidegger and Others: Philosophical Papers, Volume 2*, New York: Cambridge University Press.
-
 **[TP]**
-
-1998, *Truth and Progress: Philosophical Papers, Volume 3*, New York: Cambridge University Press.
 
 **[AOC]**
 
-1998, *Achieving Our Country: Leftist Thought in Twentieth Century America*. Cambridge, MA: Harvard University Press.
-
 **[PSH]**
-
-2000, *Philosophy and Social Hope*. New York: Penguin Books.
 
 **[PCP]**
 
-2007, *Philosophy as Cultural Politics*, *Philosophical Papers*, Volume 4, New York: Cambridge University Press.
-
 **[RR]**
-
-2010, *The Rorty Reader*. Voparil, C. J., and R. J. Bernstein (eds), Oxford: Wiley-Blackwell.
 
 **[MLM]**
 
-2014, *Mind, Language, and Metaphilosophy: Early Philosophical Papers*. Leach, S., and J. Tartaglia (eds.). New York: Cambridge University Press.
-
 **[OPP]**
-
-2020, *On Philosophy and Philosophers: Unpublished Papers, 1960–2000*. Małecki, W. P., and C. Voparil (eds.). New York: Cambridge University Press.
 
 #### Other Works by Rorty
 
@@ -242,6 +218,30 @@ In the years since Rorty’s death, the publication of monographs and anthologie
 
 Davidson, Donald | Dewey, John | liberalism | naturalism | postmodernism | pragmatism | relativism | Sellars, Wilfrid | truth: pragmatic theory of
 
+[^rorty-1979]: 1979, *Philosophy and the Mirror of Nature*, Princeton: Princeton University Press.
+
+[^rorty-1982]: 1982, *Consequences of Pragmatism*, Minneapolis: University of Minnesota Press.
+
+[^rorty-1989]: 1989, *Contingency, Irony, and Solidarity*, New York: Cambridge University Press.
+
+[^rorty-1991]: 1991, *Objectivity, Relativism, and Truth: Philosophical Papers, Volume 1*, New York: Cambridge University Press.
+
+[^rorty-1991-2]: 1991, *Essays on Heidegger and Others: Philosophical Papers, Volume 2*, New York: Cambridge University Press.
+
+[^rorty-1998]: 1998, *Truth and Progress: Philosophical Papers, Volume 3*, New York: Cambridge University Press.
+
+[^rorty-1998-2]: 1998, *Achieving Our Country: Leftist Thought in Twentieth Century America*. Cambridge, MA: Harvard University Press.
+
+[^rorty-2000]: 2000, *Philosophy and Social Hope*. New York: Penguin Books.
+
+[^rorty-2007]: 2007, *Philosophy as Cultural Politics*, *Philosophical Papers*, Volume 4, New York: Cambridge University Press.
+
+[^rorty-2010]: 2010, *The Rorty Reader*. Voparil, C. J., and R. J. Bernstein (eds), Oxford: Wiley-Blackwell.
+
+[^rorty-2014]: 2014, *Mind, Language, and Metaphilosophy: Early Philosophical Papers*. Leach, S., and J. Tartaglia (eds.). New York: Cambridge University Press.
+
+[^rorty-2020]: 2020, *On Philosophy and Philosophers: Unpublished Papers, 1960–2000*. Małecki, W. P., and C. Voparil (eds.). New York: Cambridge University Press.
+
 [^rorty-1952]: 1952, “Whitehead’s Use of the Concept of Potentiality,” MA thesis, University of Chicago.
 
 [^rorty-1956]: 1956, “The Concept of Potentiality,” PhD dissertation, Yale University.
@@ -256,9 +256,9 @@ Davidson, Donald | Dewey, John | liberalism | naturalism | postmodernism | pragm
 
 [^rorty-1977]: 1977, “Derrida on Language, Being, and Abnormal Philosophy,” *Journal of Philosophy*, 74(11): 673–681.
 
-[^rorty-1979]: 1979, “Transcendental Arguments, Self-Reference and Pragmatism,” in P. Bieri, R. P. Hortsman, and L. Kruger (eds.), *Transcendental Arguments and Science*, Dordrecht: D. Reidel, pp. 77–103.
+[^rorty-1979-2]: 1979, “Transcendental Arguments, Self-Reference and Pragmatism,” in P. Bieri, R. P. Hortsman, and L. Kruger (eds.), *Transcendental Arguments and Science*, Dordrecht: D. Reidel, pp. 77–103.
 
-[^rorty-1982]: 1982, “Contemporary Philosophy of Mind,” *Synthese*, 53(2): 323–348.
+[^rorty-1982-2]: 1982, “Contemporary Philosophy of Mind,” *Synthese*, 53(2): 323–348.
 
 [^rorty-1984]: 1984, “The Historiography of Philosophy: Four Genres,” in R. Rorty, J. B. Schneewind, and Q. Skinner (eds.), *Philosophy in History*, Cambridge: Cambridge University Press, pp. 49–76.
 
@@ -272,7 +272,7 @@ Davidson, Donald | Dewey, John | liberalism | naturalism | postmodernism | pragm
 
 [^rorty-1999]: 1999, “Pragmatism as Anti-Authoritarianism,” *Revue Internationale de Philosophie*, 53(207): 7–20.
 
-[^rorty-2007]: 2007, “Dewey and Posner on Pragmatism and Moral Progress,” *University of Chicago Law Review*, 74(3): 915–927.
+[^rorty-2007-2]: 2007, “Dewey and Posner on Pragmatism and Moral Progress,” *University of Chicago Law Review*, 74(3): 915–927.
 
 [^rorty-2021]: 2021, *Pragmatism as Anti-Authoritarianism*, Cambridge, MA: Belknap Press.
 
@@ -306,7 +306,7 @@ Davidson, Donald | Dewey, John | liberalism | naturalism | postmodernism | pragm
 
 [^rorty-2005]: Rorty, R., and G. Vattimo, 2005, *The Future of Religion*, S. Zabala (ed.), New York: Columbia University Press.
 
-[^rorty-2007-2]: Rorty, R., and P. Engel, 2007, *What’s the Use of Truth?*, W. McCuaig (trans.), New York: Columbia University Press.
+[^rorty-2007-3]: Rorty, R., and P. Engel, 2007, *What’s the Use of Truth?*, W. McCuaig (trans.), New York: Columbia University Press.
 
 [^rorty-2011]: Rorty, R., 2011, *An Ethics for Today: Finding Common ground between Philosophy and Religion*. New York: Columbia University Press.
 

@@ -203,7 +203,7 @@ The original version of this entry was written by the late Desmond Clarke. As of
 
 [^la-1974]: [*T*] La Forge, Louis de, 1974, *Oeuvres philosophiques, avec une étude bio-bibliographique*, Pierre Claire (ed.), Paris: Presses universitaires de France.
 
-[^thm-1997]: [*THM*] La Forge, Louis de, 1997, *Treatise on the Human Mind*, trans. Desmond M. Clarke, Dordrecht: Kluwer.
+[^la-1997]: [*THM*] La Forge, Louis de, 1997, *Treatise on the Human Mind*, trans. Desmond M. Clarke, Dordrecht: Kluwer.
 
 [^cavendish-1664]: Cavendish, Margaret, 1664, *Philosophical Letters or, Modest Reflections Upon some Opinions in Natural Philosophy, maintained by several Famous and Learned Authors of this Age* …, London.
 

@@ -643,9 +643,9 @@ Archytas | Iamblichus | Philolaus | Porphyry | Pythagoras | Speusippus | Xenocra
 
 [^huizenga-2013]: Huizenga, A. B., 2013, *Moral Education for Women in the Pastoral and Pythagorean Letters*, Boston: Brill.
 
-[^iamblichus-1922]: [Iamblichus], 1922, *Theologoumena Arithmeticae*, Victorius De Falco (ed.), Leipzig: Teubner.
+[^pythagoreanism-1922]: [Iamblichus], 1922, *Theologoumena Arithmeticae*, Victorius De Falco (ed.), Leipzig: Teubner.
 
-[^iamblichus-1988]: –––, 1988, *The Theology of Arithmetic*, Robin Waterfield (trans.), Grand Rapids: Phanes Press.
+[^pythagoreanism-1988]: –––, 1988, *The Theology of Arithmetic*, Robin Waterfield (trans.), Grand Rapids: Phanes Press.
 
 [^iamblichus-1888]: Iamblichus, 1888, *Protrepticus*, H. Pistelli (ed.), Stuttgart and Leipzig: Teubner.
 

@@ -549,73 +549,73 @@ Special thanks to Dr. David Shatz and Dr. T. M. Rudavksy for being my first Maim
 
 [^note-32]: See Stroumsa 2009, 123-4; there Stroumsa also emphasizes how Maimonides seems to go beyond all Muslim thinkers (aside from overtly heretical Muslim thinkers) in his willingness to denounce certain Talmudic/midrashic ideas as nonsense.
 
-[^bwa-1941]: [BWA] *Metaphysics*, and *De Anima*. McKeon, Richard (ed.) *The Basic Works of Aristotle*. New York: Random House, 1941.
+[^metaphysics-1941]: [BWA] *Metaphysics*, and *De Anima*. McKeon, Richard (ed.) *The Basic Works of Aristotle*. New York: Random House, 1941.
 
-[^cda-2009]: [CDA] Long Commentary on Aristotle's *De Anima*. Taylor, Richard C. (tr.) with Druart, Thérèse-Anne (ed.) *Averroes (Ibn Rushd) of Cordoba: Long Commentary on the De Anima of Aristotle*. New Haven, Yale University Press, 2009.
+[^long-2009]: [CDA] Long Commentary on Aristotle's *De Anima*. Taylor, Richard C. (tr.) with Druart, Thérèse-Anne (ed.) *Averroes (Ibn Rushd) of Cordoba: Long Commentary on the De Anima of Aristotle*. New Haven, Yale University Press, 2009.
 
-[^cam-nd]: [CAM] *Commentary on Aristotle’s Metaphysics*.
+[^commentary-nd]: [CAM] *Commentary on Aristotle’s Metaphysics*.
 
 [^genequand-1986]: [G] Genequand, Charles (tr.) *Ibn Rushd’s Metaphysics: A Translation with Introduction of Ibn Rushd’s Commentary on Aristotle’s Metaphysics, Book Lām.* Leiden: E. J. Brill, 1986.
 
-[^cpr-1974]: [CPR] *Commentary on Plato's Republic*. Lerner, Ralph (tr.) *Averroes on Plato's Republic.* Ithaca; London: Cornell University Press, 1974.
+[^commentary-1974]: [CPR] *Commentary on Plato's Republic*. Lerner, Ralph (tr.) *Averroes on Plato's Republic.* Ithaca; London: Cornell University Press, 1974.
 
-[^cap-1977]: [CAP] *Short Commentary on Aristotle's “Poetics*”. Butterworth, Charles E. (tr.) *Short Commentary on Aristotle's “Poetics*.” In his *Averroes' Three Short Commentaries on Aristotle's “Topics,” “Rhetoric,” and “Poetics”.*, 81-84. Albany: State University of New York Press, 1977
+[^short-1977]: [CAP] *Short Commentary on Aristotle's “Poetics*”. Butterworth, Charles E. (tr.) *Short Commentary on Aristotle's “Poetics*.” In his *Averroes' Three Short Commentaries on Aristotle's “Topics,” “Rhetoric,” and “Poetics”.*, 81-84. Albany: State University of New York Press, 1977
 
-[^car-1977]: [CAR] *Short Commentary on Aristotle's “Rhetoric”*. Butterworth, Charles E. (tr.) *Short Commentary on Aristotle's “Poetics*.” In his *Averroes' Three Short Commentaries on Aristotle's “Topics,” “Rhetoric,” and “Poetics”*, 59-78. Albany: State University of New York Press, 1977.
+[^short-1977-2]: [CAR] *Short Commentary on Aristotle's “Rhetoric”*. Butterworth, Charles E. (tr.) *Short Commentary on Aristotle's “Poetics*.” In his *Averroes' Three Short Commentaries on Aristotle's “Topics,” “Rhetoric,” and “Poetics”*, 59-78. Albany: State University of New York Press, 1977.
 
 [^tahāfut-1969]: *Tahāfut al-Tahāfut* (*The Incoherence of the Incoherence*); see: Van Den Bergh, Simon (tr.), *Averroes' Tahafut Al-Tahafut (The Incoherence of the Philosophers)*. London, 1969.
 
-[^dt-nd]: [DT] *The Decisive Treatise* (*Faṣl al-maqāl wa-taqrīr mā bayna al-sharī‘a wa’l-ḥikma min al-ittiṣāl*).
+[^decisive-nd]: [DT] *The Decisive Treatise* (*Faṣl al-maqāl wa-taqrīr mā bayna al-sharī‘a wa’l-ḥikma min al-ittiṣāl*).
 
 [^butterworth-2001]: [B] Butterworth, Charles E. (tr.) *Averroes, The Book of the Decisive Treatise Determining the Connection Between the Law and Wisdom, and Epistle Dedicatory (translation with facing page Arabic text)*. Utah: Brigham Young University Press, 2001.
 
 [^hourani-1959]: Hourani, George F. (ed., revised by Mahdi, Muhsin). *Kitāb faṣl al-maqāl*. Leiden: E. J. Brill, 1959.
 
-[^gh-1961]: [GH] Hourani, George F. *On the Harmony of Religion and Philosophy*. In his *Averroes on the Harmony of Religion and Philosophy*. London: Luzac and Co., Ltd., 1961.
+[^hourani-1961]: [GH] Hourani, George F. *On the Harmony of Religion and Philosophy*. In his *Averroes on the Harmony of Religion and Philosophy*. London: Luzac and Co., Ltd., 1961.
 
-[^hw-1973]: [HW] Hyman, Arthur and Walsh, James J. (eds.) Selections from Hourani translation of *On the Harmony of Religion and Philosophy*. In their *Philosophy in the Middle Ages*, 297-316. Indianapolis: Hackett Publishing Co.,1973.
+[^hyman-1973]: [HW] Hyman, Arthur and Walsh, James J. (eds.) Selections from Hourani translation of *On the Harmony of Religion and Philosophy*. In their *Philosophy in the Middle Ages*, 297-316. Indianapolis: Hackett Publishing Co.,1973.
 
-[^rfi-nd]: [RFI] *“Risālah fī’l-‘ishq*” (“Treatise on Love”)
+[^risālah-nd]: [RFI] *“Risālah fī’l-‘ishq*” (“Treatise on Love”)
 
 [^arabic-1891]: [M] Arabic text, see: A. F. M. Mehren, *Traités Mystiques*, Leiden: Brill, 1891.
 
 [^english-1945]: [F]English translation, see: Emil Fackenheim, “A Treatise on Love by Ibn Sina,” *Mediaeval Studies* 7 (1945): 208-228.
 
-[^hm-nd]: [HM] *The Healing, Metaphysics* (*Al-Shifā’, al-Ilāhiyyāt*).
+[^healing-nd]: [HM] *The Healing, Metaphysics* (*Al-Shifā’, al-Ilāhiyyāt*).
 
 [^marmura-2005]: [M] Marmura, Michael E. (tr.) *Avicenna, The Metaphysics of the Healing: A Parallel English-Arabic Text (Al-Shifā’: Al-lIlāhiyāt)*. Provo: Brigham Young University Press, 2005.
 
-[^hyman-1973]: [H] Hyman, Arthur (tr.) *The Healing, Metaphysics*. Selections in Hyman, Arthur and Walsh, James J. (eds.) *Philosophy in the Middle Ages*, 234-263. Indianapolis: Hackett Publishing Co., 1973.
+[^hyman-1973-2]: [H] Hyman, Arthur (tr.) *The Healing, Metaphysics*. Selections in Hyman, Arthur and Walsh, James J. (eds.) *Philosophy in the Middle Ages*, 234-263. Indianapolis: Hackett Publishing Co., 1973.
 
-[^az-1960]: [AZ] Anawati, G. C. and Zayed, Sa‘id (eds.) *Ibn Sīnā, Al-Shifā’, al-Ilāhiyyāt*. Cairo: Organisation Générale des Imprimeries Gouvernementales, 1960.
+[^anawati-1960]: [AZ] Anawati, G. C. and Zayed, Sa‘id (eds.) *Ibn Sīnā, Al-Shifā’, al-Ilāhiyyāt*. Cairo: Organisation Générale des Imprimeries Gouvernementales, 1960.
 
-[^pp-1963]: [PP] *On the Proof of the Prophecies and the Interpretation of the Prophet's Symbols and Metaphors* (*fī ithbāt al-nubuwwāt*). Marmura, Michael E. (tr.) *On the Proof of the Prophecies and the Interpretation of the Prophet's Symbols and Metaphors*, selections in Lerner, Ralph and Mahdi, Muhsin (eds.) *Medieval Political Philosophy: A Sourcebook*, 112-121. New York: The Free Press of Glencoe / Collier–MacMillan Ltd., 1963.
+[^proof-1963]: [PP] *On the Proof of the Prophecies and the Interpretation of the Prophet's Symbols and Metaphors* (*fī ithbāt al-nubuwwāt*). Marmura, Michael E. (tr.) *On the Proof of the Prophecies and the Interpretation of the Prophet's Symbols and Metaphors*, selections in Lerner, Ralph and Mahdi, Muhsin (eds.) *Medieval Political Philosophy: A Sourcebook*, 112-121. New York: The Free Press of Glencoe / Collier–MacMillan Ltd., 1963.
 
-[^ah-1963]: [AH] *The Attainment of Happiness* (*Taḥṣīl al-sa‘ādah*). Mahdi, Muhsin (tr.) “The Attainment of Happiness.” In Lerner, Ralph and Mahdi, Muhsin (eds.) *Medieval Political Philosophy: A Sourcebook*, 58-82. New York: The Free Press of Glencoe / Collier–MacMillan Ltd., 1963.
+[^attainment-1963]: [AH] *The Attainment of Happiness* (*Taḥṣīl al-sa‘ādah*). Mahdi, Muhsin (tr.) “The Attainment of Happiness.” In Lerner, Ralph and Mahdi, Muhsin (eds.) *Medieval Political Philosophy: A Sourcebook*, 58-82. New York: The Free Press of Glencoe / Collier–MacMillan Ltd., 1963.
 
-[^br-nd]: [BR] *The Book of Religion (Kitāb al-Milla wa Nuṣūṣ Ukhrā)*
+[^book-nd]: [BR] *The Book of Religion (Kitāb al-Milla wa Nuṣūṣ Ukhrā)*
 
 [^butterworth-2001-2]: [B] Butterworth, C. (tr.) “*Book of Religion* (Farabi).” In Butterworth, Charles E. (tr.) *Alfarabi, The Political Writings*, 87-113. Ithaca: Cornell University Press, 2001.
 
 [^mahdi-1968]: [M] Mahdi, Muhsin (ed.) *Abū Nasr al-Fārābī, Kitāb al-Milla wa Nuṣūṣ Ukhrā*. Beirut: Dār al-Mashriq, 1968.
 
-[^ps-nd]: [PS] *Perfect State* (*Mabādi’ Arā’ Ahl al-Madīna al-Faḍila*).
+[^perfect-nd]: [PS] *Perfect State* (*Mabādi’ Arā’ Ahl al-Madīna al-Faḍila*).
 
 [^walzer-1985]: [W] Walzer, Richard (ed., tr.) *Al-Farabi on The Perfect State, Abū Nasr al-Fārābī‘s Mabādi’ Arā’ Ahl al-Madīna al-Faḍila (revised Arabic text with translation and commentary)*. Oxford: Clarendon Press, 1985.
 
-[^hto-nd]: [HTO] *The Harmonization of the Two Opinions of the Two Sages, Plato the Divine and Aristotle* (*Kitāb al-Jam‘ bayn Ra’yay al-Ḥakīmayn Aflāṭūn al-Ilāhī wa Arisṭūṭālīs*).
+[^harmonization-nd]: [HTO] *The Harmonization of the Two Opinions of the Two Sages, Plato the Divine and Aristotle* (*Kitāb al-Jam‘ bayn Ra’yay al-Ḥakīmayn Aflāṭūn al-Ilāhī wa Arisṭūṭālīs*).
 
 [^butterworth-2001-3]: [B] Butterworth, Charles E. (tr.) “Al-Farabi, *The Harmonization of the Two Opinions of the Two Sages, Plato the Divine and Aristotle*.” In his *Alfarabi, The Political Writings*, 117-167. Ithaca; London: Cornell University Press, 2001.
 
 [^najjar-1999]: [N] Najjar, Fauzi Mitri and Mallet, Dominique (eds.) *Abū Nasr al-Fārābī, L'Harmonie entre les opinions de Platon et d'Aristote*. Damascus: Institut Français de Damas, 1999.
 
-[^na-1960]: [Na] Nader, Albert (ed.) *Kitāb al-Jam‘ bayn Ra’yay al-Ḥakīmayn Aflāṭūn al-Ilāhī wa Arisṭūṭālīs*. Beirut, 1960.
+[^nader-1960]: [Na] Nader, Albert (ed.) *Kitāb al-Jam‘ bayn Ra’yay al-Ḥakīmayn Aflāṭūn al-Ilāhī wa Arisṭūṭālīs*. Beirut, 1960.
 
-[^pr-nd]: [PR] *The Political Regime* (or *The Treatise on the Principles of Being*) (*al-Siyāsah al-Madanīyah*).
+[^political-nd]: [PR] *The Political Regime* (or *The Treatise on the Principles of Being*) (*al-Siyāsah al-Madanīyah*).
 
-[^n1-1963]: [N1] Najjar, Fauzi M. (tr.) “*The Political Regime*.” Selections in Lerner, Ralph and Mahdi, Muhsin (eds.) *Medieval Political Philosophy: A Sourcebook*, 31-57. New York: The Free Press of Glencoe / Collier–MacMillan Ltd., 1963.
+[^najjar-1963]: [N1] Najjar, Fauzi M. (tr.) “*The Political Regime*.” Selections in Lerner, Ralph and Mahdi, Muhsin (eds.) *Medieval Political Philosophy: A Sourcebook*, 31-57. New York: The Free Press of Glencoe / Collier–MacMillan Ltd., 1963.
 
-[^n2-1964]: [N2] Najjar, Fauzi M. (ed.) *Alfarabi, Kitāb al-Siyāsa al-Madaniyya*. Beirut: Imprimerie Catholique, 1964.
+[^najjar-1964]: [N2] Najjar, Fauzi M. (ed.) *Alfarabi, Kitāb al-Siyāsa al-Madaniyya*. Beirut: Imprimerie Catholique, 1964.
 
 [^iḥṣā’-nd]: *Iḥṣā’ al-‘Ulūm* (*The Enumeration of the Sciences*).
 
@@ -625,7 +625,7 @@ Special thanks to Dr. David Shatz and Dr. T. M. Rudavksy for being my first Maim
 
 [^butterworth-2001-4]: Butterworth, Charles E. *Enumeration of the Sciences*, in his *Alfarabi, The Political Writings*, 71-84. Ithaca: Cornell University Press, 2001.
 
-[^pl-1963]: [PL] *Plato's Laws*. Mahdi, Muhsin (tr.) *Alfarabi, Plato's Laws*. Selections in Lerner, Ralph and Mahdi, Muhsin (eds.) *Medieval Political Philosophy: A Sourcebook*, 83-94. New York: The Free Press of Glencoe / Collier–MacMillan Ltd., 1963.
+[^plato’s-1963]: [PL] *Plato's Laws*. Mahdi, Muhsin (tr.) *Alfarabi, Plato's Laws*. Selections in Lerner, Ralph and Mahdi, Muhsin (eds.) *Medieval Political Philosophy: A Sourcebook*, 83-94. New York: The Free Press of Glencoe / Collier–MacMillan Ltd., 1963.
 
 [^badawi-1955]: Badawi, A. (ed.) 1955. *Neoplatonici apud Arabes: Liber (Pseudo-Aristotelis) de expositione bonitatis purae*. Cairo: *Maktabat al-nahda al-Misriya*.
 
@@ -643,9 +643,9 @@ Special thanks to Dr. David Shatz and Dr. T. M. Rudavksy for being my first Maim
 
 [^enneads-1966]: *The Enneads*. Armstrong, A. H. (tr.) Plotinus, *The Enneads*. The Loeb Classical Library. Cambridge: Harvard University Press, 1966.
 
-[^tab-1955]: [TAB] Badawi, A. (ed.) 1955. *Plotinus Apud Arabes, Theologia Aristotelis et fragmenta quae supersunt. Cairo: Maktabat al-nahda al-Misriya.*
+[^badawi-1955-2]: [TAB] Badawi, A. (ed.) 1955. *Plotinus Apud Arabes, Theologia Aristotelis et fragmenta quae supersunt. Cairo: Maktabat al-nahda al-Misriya.*
 
-[^tal-1959]: [TAL] Lewis, G.L. (trans.) 1959. *Plotiniana Arabica. In Plotini Opera*, vol. 2, P. Henry & H.-R. Schwyzer (eds). *Bruxelles: Edition universelle.*
+[^lewis-1959]: [TAL] Lewis, G.L. (trans.) 1959. *Plotiniana Arabica. In Plotini Opera*, vol. 2, P. Henry & H.-R. Schwyzer (eds). *Bruxelles: Edition universelle.*
 
 [^adler-1995]: Adler, Eve. 1995. *Introduction to Philosophy and Law: Contributions to the Understanding of Maimonides and His Predecessors*, by Leo Strauss, tr. Eve Adler. Albany, NY: State University of New York Press.
 
@@ -723,7 +723,7 @@ Special thanks to Dr. David Shatz and Dr. T. M. Rudavksy for being my first Maim
 
 [^lerner-1963]: Lerner, Ralph and Mahdi, Muhsin (eds.) 1963. *Medieval Political Philosophy: A Sourcebook*. New York: The Free Press of Glencoe / Collier–MacMillan Ltd.
 
-[^lewis-1959]: Lewis, Geoffrey (tr.) *The Theology of Aristotle*. In Henry, Paul and Schwyzer, Hans-Rudolf (eds.) *Plotini Opera*. Paris, 1959.
+[^lewis-1959-2]: Lewis, Geoffrey (tr.) *The Theology of Aristotle*. In Henry, Paul and Schwyzer, Hans-Rudolf (eds.) *Plotini Opera*. Paris, 1959.
 
 [^marx-1935]: Marx, Alexander. 1935. “Texts by and about Maimonides,” *The Jewish Quarterly Review*, 25 (4): 371-428.
 

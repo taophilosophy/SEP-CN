@@ -207,7 +207,7 @@ Among the founders of the so-called Kamakura New Religions, the Pure Land philos
 
 With some variation, Pure Land thinkers like Hōnen and Shinran (1173–1263) concentrated on the mythos of the Vow of Amida Buddha. The event of “entrusting faith” (*shinjin*) as embodied in voicing the expression of the *nenbutsu* (“I take refuge in Amida Buddha”) dissolves the ego-self into the power of Amida Buddha’s Vow (see the entry on Japanese Pure Land Philosophy). That surrender of ego allows one to “naturally” escape the limitations of the Degenerate Age and be born into the sphere of influence made possible by Amida Buddha’s practice (the “Pure Land”). From there, free of mappō’s restrictions, one can attain enlightenment.
 
-Dōgen (1200–1253), the founder of the Japanese Sōtō Zen tradition, also displayed the single-minded focus typical of the medieval philosophers, even though he did not accept the theory of the Degenerate Age itself. Dōgen selected what he considered central to all Buddhist traditions from the outset: the nondichotomous state of bodymind achieved in seated meditation (*zazen*) under the guidance of a master. (See the entry on Japanese Zen Buddhist Philosophy.) He advocated a single practice of full engagement with as-ness or suchness (*inmo* or *nyoze*, how phenomena are before they are structured by concepts). It is a prereflective point that is in itself without meaning, but is the basis from which meaning is generated in any context. (Kasulis 2018, 218–34)
+Dōgen (1200–1253), the founder of the Japanese Sōtō Zen tradition, also displayed the single-minded focus typical of the medieval philosophers, even though he did not accept the theory of the Degenerate Age itself. Dōgen selected what he considered central to all Buddhist traditions from the outset: the nondichotomous state of bodymind achieved in seated meditation (*zazen*) under the guidance of a master. (See the entry on Japanese Zen Buddhist Philosophy.) He advocated a single practice of full engagement with as-ness or suchness (*inmo* or *nyoze*, how phenomena are before they are structured by concepts). It is a prereflective point that is in itself without meaning, but is the basis from which meaning is generated in any context. (Kasulis 2018, 218–34)[^kasulis-2018]
 
 For Nichiren (1222–1282), the founder of the Nichiren School, the despair of the Degenerate Age was again the critical point of departure, but in his interpretation, the second half of the *Lotus Sutra* was written specifically for those times and should be the sole focus of selection. He refined that focus down even further to a vocalized expression of entrusting faith in the title of the *Lotus Sutra* itself, expressed in a meditative recitation. That selective practice activated the power of the wondrous teachings in the sutra designed to offset the negative effects of the Degenerate Age, not only spiritual, but material as well. Thus, Nichiren called for a political and social transformation of the nation as intrinsic to his religious message, a call that motivates some sectors of Japanese politics even today.
 
@@ -375,11 +375,7 @@ These five broad themes and approaches suggest just a few of the riches in Japan
 
 **[JPS]**
 
-Heisig, James W., Thomas P. Kasulis, and John C. Maraldo (eds.), 2011, *Japanese Philosophy: A Sourcebook,* Honolulu: University of Hawai‘i. [Comprehensive coverage of the whole Japanese philosophical tradition; Contains relevant selections from all philosophers mentioned in this article and references to original sources in Japanese or Chinese]
-
 **[EJP]**
-
-Kasulis, Thomas P., 2018, *Engaging Japanese Philosophy: A Short History*, Honolulu: University of Hawai‘i. [A comprehensive history that has cross-references to the sources in JPS listed above]
 
 #### Other Works Cited
 
@@ -410,6 +406,10 @@ Kasulis, Thomas P., 2018, *Engaging Japanese Philosophy: A Short History*, Honol
 ## Related Entries
 
 Japanese Philosophy: aesthetics | Japanese Philosophy: Confucian | Japanese Philosophy: Kokugaku School [Native Japan Studies School] | Japanese Philosophy: Kūkai | Japanese Philosophy: Kyoto School | Japanese Philosophy: Pure Land | Japanese Philosophy: Zen Buddhism | Nishida Kitarō | Watsuji Tetsurō
+
+[^heisig-2011]: Heisig, James W., Thomas P. Kasulis, and John C. Maraldo (eds.), 2011, *Japanese Philosophy: A Sourcebook,* Honolulu: University of Hawai‘i. [Comprehensive coverage of the whole Japanese philosophical tradition; Contains relevant selections from all philosophers mentioned in this article and references to original sources in Japanese or Chinese]
+
+[^kasulis-2018]: Kasulis, Thomas P., 2018, *Engaging Japanese Philosophy: A Short History*, Honolulu: University of Hawai‘i. [A comprehensive history that has cross-references to the sources in JPS listed above]
 
 [^arisaka-2000]: Arisaka, Yoko, 2000, “Asian Women: Invisibility, Locations, and Claims to Philosophy,” in Naomi Zack, ed., *Women of Color in Philosophy. A Critical Reader*, New York: Blackwell, pp. 209–234.
 

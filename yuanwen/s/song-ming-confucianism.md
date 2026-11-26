@@ -180,53 +180,53 @@ Chinese Philosophy: Chan Buddhism | Chinese Philosophy: epistemology | Chinese P
 
 The discussion in this entry sometimes relies on work that appeared in a book co-authored with Stephen C. Angle. I am indebted to Steve for agreeing to let me make use of our joint work and for his tremendous contributions to my own understanding of the material. I also thank Steve, Philip J. Ivanhoe, Harvey Lederman, and Zuo Ya for comments on an earlier draft of this essay.
 
-[^bxzy-nd]: [*BXZY*] *Beixi ziyi* 北溪字義, by Chen Chun 陳淳 (1159–1223), cited by section number in the English translation below.
+[^beixi-nd]: [*BXZY*] *Beixi ziyi* 北溪字義, by Chen Chun 陳淳 (1159–1223), cited by section number in the English translation below.
 
 [^chen-1983]: Chen Chun陳淳, 1983, *Beixi ziyi* 北溪字義, Beijing: Zhonghua shuju (Chinese edition).
 
 [^ch’en-1986]: Ch’en, Ch’un, 1986, *Neo-Confucian Terms Explained (the Pei-Hsi Tzu-I)*, Wing-tsit Chan (trans.), New York: Columbia University Press (English translation).
 
-[^cxl-nd]: [*CXL*] *Chuanxi lu* 傳習錄, by Wang Yangming 王陽明 (1472–1529), cited by section number in the English translation below.
+[^chuanxi-nd]: [*CXL*] *Chuanxi lu* 傳習錄, by Wang Yangming 王陽明 (1472–1529), cited by section number in the English translation below.
 
 [^wang-1992]: Wang Yangming 王陽明, “*Chuanxi lu* 傳習錄”, in Wang Yangming 王陽明, *Wang Yangming quanji* 王陽明全集, Shanghai: Shanghai guji chuban she, 1–143, 1992 (Chinese edition).
 
 [^wang-1963]: Wang, Yang-ming, *Instructions for Practical Living*, Wing-tsit Chan (trans.), New York: Columbia University Press, 1963 (English translation).
 
-[^dsqxl-nd]: [*DSQXL*] *Dasheng qixin lun* 大乘起信論, attributed to Aśavaghoṣa, cited by Taishō numbers in the Chinese edition below.
+[^dasheng-nd]: [*DSQXL*] *Dasheng qixin lun* 大乘起信論, attributed to Aśavaghoṣa, cited by Taishō numbers in the Chinese edition below.
 
 [^taishō-nd]: *Taishō shinshū dai zōkyō* 大正新脩大藏經, ([Chinese edition available online](http://cbeta.org/)).
 
 [^treatise-2019]: *Treatise on Awakening Mahāyāna Faith*, John Jorgensen, Dan Lusthaus, John Makeham, and Mark Strange (trans.), New York: Oxford University Press, 2019 (English translation).
 
-[^hncsys-nd]: [*HNCSYS*] *Henan Chengshi yishu* 河南程氏遺書, by Cheng Hao 程顥 (1032–1085) and Cheng Yi 程頤 (1033–1107), cited by *juan* and page number in the Chinese edition below.
+[^henan-nd]: [*HNCSYS*] *Henan Chengshi yishu* 河南程氏遺書, by Cheng Hao 程顥 (1032–1085) and Cheng Yi 程頤 (1033–1107), cited by *juan* and page number in the Chinese edition below.
 
 [^cheng-1981]: Cheng Hao 程顥 and Cheng Yi 程頤, “*Henan Chengshi yishu* 河南程氏遺書”, in Cheng Hao 程顥 and Cheng Yi 程頤, *Ercheng ji* 二程集, vol. 1., Wang Xiaoyu 王孝魚 (ed.), Beijing: Zhonghua shuju, 1–349, 1981 (Chinese edition).
 
-[^jsl-nd]: [*JSL*] *Jinsi lu* 近思錄, edited by Zhu Xi 朱熹 (1130–1200) and Lü Zuqian 呂祖謙 (1137–1181), cited by chapter and section number in the English translation below.
+[^jinsi-nd]: [*JSL*] *Jinsi lu* 近思錄, edited by Zhu Xi 朱熹 (1130–1200) and Lü Zuqian 呂祖謙 (1137–1181), cited by chapter and section number in the English translation below.
 
 [^zhu-2008]: Zhu Xi 朱熹and Lü Zuqian 呂祖, 謙*Jinsi Lu* 近思錄, Zhengzhou: Zhongzhou guji chuban she, 2008 (Chinese edition).
 
 [^chu-1965]: Chu, Hsi, and Lü, Tsu-ch’ien, *Reflections on Things at Hand*, Wing-tsit Chan (trans.), New York: Columbia University Press, 1965 (English translation).
 
-[^mencius-nd]: [*Mencius*] *Mengzi* 孟子, attributed to Mengzi 孟子 (4ᵗʰ century BCE), cited by book and section number in the following editions.
+[^mengzi-nd]: [*Mencius*] *Mengzi* 孟子, attributed to Mengzi 孟子 (4ᵗʰ century BCE), cited by book and section number in the following editions.
 
 [^mengzi-1987]: *Mengzi zhengyi* 孟子正義, Jiao Xun焦循 (comm. and ed.), Beijing: Zhonghua shuju, 1987 (Chinese edition).
 
 [^mengzi-2008]: *Mengzi: With Selections from Traditional Commentaries*, Bryan Van Norden (trans.), Cambridge, MA: Hackett Publishing, 2008 (English translation).
 
-[^mrxa-1610]: [*MRXA*] *Mingru xue’an* 明儒學案, by Huang Zongxi 黃宗羲 (1610–1695), cited by *juan* and page number in the Chinese edition below.
+[^mingru-1610]: [*MRXA*] *Mingru xue’an* 明儒學案, by Huang Zongxi 黃宗羲 (1610–1695), cited by *juan* and page number in the Chinese edition below.
 
 [^huang-1965]: Huang Zongxi 黃宗羲, *Mingru xue’an* 明儒學案, vols. 1–4, Taibei: Zhonghua shuju, 1965 (Chinese edition).
 
 [^huang-1987]: Huang Zongxi, *The Records of the Ming Scholars*, Julia Ching (trans. and ed.), Honolulu: University of Hawai’i Press, 1987 (partial English translation).
 
-[^mydfl-1610]: [*MYDFL*] *Mingyi daifanglu* 明夷待訪錄, by Huang Zongxi 黃宗羲 (1610–1695).
+[^mingyi-1610]: [*MYDFL*] *Mingyi daifanglu* 明夷待訪錄, by Huang Zongxi 黃宗羲 (1610–1695).
 
 [^huang-2011]: Huang Zongxi 黃宗羲, *Mingyi daifanglu* 明夷待訪錄, Beijing: Zhonghua shuju, 2011 (Chinese edition).
 
 [^huang-1993]: Huang, Zongxi, *Waiting for the Dawn*, Wm. Theodore de Bary (trans.). New York: Columbia University Press, 1993 (English translation).
 
-[^syxa-1610]: [*SYXA*] *Song-Yuan xue’an* 宋元學案, by Huang Zongxi 黃宗羲 (1610–1695).
+[^song-yuan-1610]: [*SYXA*] *Song-Yuan xue’an* 宋元學案, by Huang Zongxi 黃宗羲 (1610–1695).
 
 [^huang-1986]: Huang Zongxi 黃宗羲, *Song-Yuan xue’an* 宋元學案, vols. 1–4, Huang Zongxi 黃宗羲, edited and supplemented by Quan Zuwang 全祖望, Beijing: Zhonghua shuju, 1986–2012 (Chinese edition).
 
@@ -236,11 +236,11 @@ The discussion in this entry sometimes relies on work that appeared in a book co
 
 [^xunzi-2014]: *Xunzi: The Complete Text*, Eric L. Hutton (trans.), Princeton: Princeton University Press, 2014 (English translation).
 
-[^zm-nd]: [*ZM*] *Zhengmeng* 正蒙, by Zhang Zai 張載 (1020–1077), cited by *juan* and page number in the Chinese edition below.
+[^zhengmeng-nd]: [*ZM*] *Zhengmeng* 正蒙, by Zhang Zai 張載 (1020–1077), cited by *juan* and page number in the Chinese edition below.
 
 [^zhang-1978]: Zhang Zai 張載, *Zhang Zai ji* 張載集, Beijing: Zhonghua shuju, 1978 (Chinese edition).
 
-[^zzyl-nd]: [*ZZYL*] *Zhuzi yulei* 朱子語類, by Zhu Xi 朱熹 (1130–1200), cited by *juan* and (when necessary) page number in the Chinese edition below.
+[^zhuzi-nd]: [*ZZYL*] *Zhuzi yulei* 朱子語類, by Zhu Xi 朱熹 (1130–1200), cited by *juan* and (when necessary) page number in the Chinese edition below.
 
 [^zhu-1986]: Zhu Xi 朱熹, *Zhuzi yulei* 朱子語類, Beijing: Zhonghua shuju, 1986 (Chinese edition).
 

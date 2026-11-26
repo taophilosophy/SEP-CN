@@ -263,19 +263,19 @@ authority | contractarianism | democracy | Hobbes, Thomas: moral and political p
 
 I wish to thank Michael Della Rocca, Michael Rosenthal, Steven B. Smith for many helpful comments and suggestions.
 
-[^cws-1985]: [CWS], *The Collected Works of Spinoza*, Edwin Curley (ed./trans.), 2 volumes, Princeton, NJ: Princeton University Press, 1985–2016.
+[^collected-1985]: [CWS], *The Collected Works of Spinoza*, Edwin Curley (ed./trans.), 2 volumes, Princeton, NJ: Princeton University Press, 1985–2016.
 
-[^ttp-nd]: [TTP] and [TP] refer to the chapter and section in [CWS] (e.g., TP 6.4 refers to TP chapter 6, section 4). The following abbreviations for the *Ethics* are used: Roman numerals refer to parts; “P” denotes proposition; “C” denotes corollary; “D” denotes definition; “dem.” denotes demonstration; “S” denotes scholium (e.g., *E*IIIP59S refers to *Ethics*, part III, proposition 59, scholium).
+[^tp-nd]: [TTP] and [TP] refer to the chapter and section in [CWS] (e.g., TP 6.4 refers to TP chapter 6, section 4). The following abbreviations for the *Ethics* are used: Roman numerals refer to parts; “P” denotes proposition; “C” denotes corollary; “D” denotes definition; “dem.” denotes demonstration; “S” denotes scholium (e.g., *E*IIIP59S refers to *Ethics*, part III, proposition 59, scholium).
 
-[^so-1925]: [SO], *Spinoza Opera*, Carl Gebhardt (ed.), 4 volumes, Heidelberg: Carl Winter, 1925.
+[^spinoza-1925]: [SO], *Spinoza Opera*, Carl Gebhardt (ed.), 4 volumes, Heidelberg: Carl Winter, 1925.
 
-[^pw-1958]: [PW], *The Political Works: The Tractatus Theologico-Politicus in Part, and the Tracatatus Politicus in Full*, A. G. Wernham (ed./tran.), Oxford: Clarendon Press, 1958.
+[^political-1958]: [PW], *The Political Works: The Tractatus Theologico-Politicus in Part, and the Tracatatus Politicus in Full*, A. G. Wernham (ed./tran.), Oxford: Clarendon Press, 1958.
 
 [^hobbes-1640]: Hobbes, Thomas, 1640 [1994], *The Elements of Law, Natural and Politic*, circulated manuscript. Included in *The Elements of Law, Natural and Politic: Part I, Human Nature, Part II, De corpore politico ; with Three Lives* (World’s Classics), J. C. A. Gaskin (ed.), Oxford/New York: Oxford University Press, 1994.
 
-[^dcv-1642]: [DCv] –––, 1642 [1998], *De Cive*, Paris; translated as *On the Citizen* (Cambridge Texts in the History of Political Thought), Richard Tuck and Michael Silverthorne (eds/trans), Cambridge/New York: Cambridge University Press, 1998. doi:10.1017/CBO9780511808173
+[^hobbes-1642]: [DCv] –––, 1642 [1998], *De Cive*, Paris; translated as *On the Citizen* (Cambridge Texts in the History of Political Thought), Richard Tuck and Michael Silverthorne (eds/trans), Cambridge/New York: Cambridge University Press, 1998. doi:10.1017/CBO9780511808173
 
-[^dcv-1651]: –––, 1651 [1996], *Leviathan*, London: Crooke. Republished, Richard Tuck (ed.) (Cambridge Texts in the History of Political Thought), Cambridge/New York: Cambridge University Press, 1996. doi:10.1017/CBO9780511808166
+[^hobbes-1651]: –––, 1651 [1996], *Leviathan*, London: Crooke. Republished, Richard Tuck (ed.) (Cambridge Texts in the History of Political Thought), Cambridge/New York: Cambridge University Press, 1996. doi:10.1017/CBO9780511808166
 
 [^machiavelli-1988]: Machiavelli, Niccolò, 1532 [1988], *Il Principe*; translated as *The Prince* (Cambridge Texts in the History of Political Thought), Quentin Skinner and Russell Price (eds), Cambridge/New York: Cambridge University Press, 1988.
 

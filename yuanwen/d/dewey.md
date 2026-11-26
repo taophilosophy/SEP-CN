@@ -721,55 +721,55 @@ Aesthetic concepts and fine-grained meanings are rooted, then, in the organism�
 
 > The things in civilization we most prize are not of ourselves. They exist by grace of the doings and sufferings of the continuous human community in which we are a link. Ours is the responsibility of conserving, transmitting, rectifying and expanding the heritage of values we have received that those who come after us may receive it more solid and secure, more widely accessible and more generously shared than we have received it. Here are all the elements for a religious faith that shall not be confined to sect, class, or race. (*ACF*, LW9: 57–58)
 
-[^ew-1967]: [EW] 1967, *The Early Works*, 1882–1898, 5 volumes.
+[^dewey-1967]: [EW] 1967, *The Early Works*, 1882–1898, 5 volumes.
 
-[^mw-1976]: [MW] 1976, *The Middle Works*, 1899–1924, 15 volumes.
+[^dewey-1976]: [MW] 1976, *The Middle Works*, 1899–1924, 15 volumes.
 
-[^lw-1981]: [LW] 1981, *The Later Works*, 1925–1953, 17 volumes.
+[^dewey-1981]: [LW] 1981, *The Later Works*, 1925–1953, 17 volumes.
 
 [^collected-1882]: *The Collected Works of John Dewey, 1882–1953: The Electronic Edition*, Larry A. Hickman (ed.), Charlottesville, Va.: InteLex Corporation, 1996, [available online](http://www.nlx.com/collections/133). To insure uniformity of citation, the electronic edition preserves the line and page breaks of the print edition.
 
-[^acf-1934a]: [*ACF*] 1934a, *A Common Faith*
+[^dewey-1934a]: [*ACF*] 1934a, *A Common Faith*
 
-[^ae-1934b]: [*AE*] 1934b, *Art as Experience*
+[^dewey-1934b]: [*AE*] 1934b, *Art as Experience*
 
-[^de-1916b]: [*DE*] 1916b, *Democracy and Education*
+[^dewey-1916b]: [*DE*] 1916b, *Democracy and Education*
 
 [^dewey-1908]: [*E*] 1908, *Ethics*, with James H. Tufts,
 
-[^e-rev-1932]: [*E-rev*] 1932, *Ethics*, revised edition, with James H. Tufts,
+[^dewey-1932]: [*E-rev*] 1932, *Ethics*, revised edition, with James H. Tufts,
 
-[^eel-1916c]: [*EEL*] 1916c, “Introduction” to *Essays in Experimental Logic*
+[^dewey-1916c]: [*EEL*] 1916c, “Introduction” to *Essays in Experimental Logic*
 
-[^en-1925a]: [*EN*] 1925a, *Experience and Nature*
+[^dewey-1925a]: [*EN*] 1925a, *Experience and Nature*
 
-[^fae-1930a]: [*FAE*] 1930a, “From Absolutism to Experimentalism”
+[^dewey-1930a]: [*FAE*] 1930a, “From Absolutism to Experimentalism”
 
 [^dewey-1998]: [*H&A*] 1998, *The Essential Dewey*
 
-[^hnc-1922a]: [*HNC*] 1922a, *Human Nature and Conduct*
+[^dewey-1922a]: [*HNC*] 1922a, *Human Nature and Conduct*
 
-[^hwt-1910c]: [*HWT*] 1910c, *How We Think*
+[^dewey-1910c]: [*HWT*] 1910c, *How We Think*
 
-[^ion-nd]: [*ION*] 1930f, *Individualism, Old and New*
+[^individualism-nd]: [*ION*] 1930f, *Individualism, Old and New*
 
-[^lsa-1935]: [*LSA*] 1935, *Liberalism and Social Action*
+[^dewey-1935]: [*LSA*] 1935, *Liberalism and Social Action*
 
-[^lti-1938c]: [*LTI*] 1938c, *Logic: The Theory of Inquiry*
+[^dewey-1938c]: [*LTI*] 1938c, *Logic: The Theory of Inquiry*
 
-[^pie-1905]: [*PIE*] 1905, “The Postulate of Immediate Empiricism”
+[^dewey-1905]: [*PIE*] 1905, “The Postulate of Immediate Empiricism”
 
-[^pp-1927b]: [*PP*] 1927b, *The Public and Its Problems*
+[^dewey-1927b]: [*PP*] 1927b, *The Public and Its Problems*
 
-[^qc-1929]: [*QC*] 1929, *The Quest for Certainty: A Study of the Relation of Knowledge and Action*
+[^dewey-1929]: [*QC*] 1929, *The Quest for Certainty: A Study of the Relation of Knowledge and Action*
 
-[^rac-1896]: [*RAC*] 1896, “The Reflex Arc Concept in Psychology”
+[^dewey-1896]: [*RAC*] 1896, “The Reflex Arc Concept in Psychology”
 
-[^rip-1920]: [*RIP*] 1920, *Reconstruction in Philosophy*
+[^dewey-1920]: [*RIP*] 1920, *Reconstruction in Philosophy*
 
-[^tif-1930d]: [*TIF*] 1930d, “Three Independent Factors in Morals”
+[^dewey-1930d]: [*TIF*] 1930d, “Three Independent Factors in Morals”
 
-[^tv-1939e]: [*TV*] 1939e, *Theory of Valuation*
+[^dewey-1939e]: [*TV*] 1939e, *Theory of Valuation*
 
 [^dewey-1884]: 1884, “The New Psychology”, *Andover Review*, 2(Sept.): 278–289. Reprinted in EW1: 48–60.
 
@@ -787,7 +787,7 @@ Aesthetic concepts and fine-grained meanings are rooted, then, in the organism�
 
 [^dewey-1895]: 1895, “The Theory of Emotion II: The Significance of Emotions”, *Psychological Review*, 2(1): 13–32. Reprinted in EW4: 169–188. doi:10.1037/h0070927
 
-[^rac-1896-2]: [*RAC*] 1896, “The Reflex Arc Concept in Psychology”, *Psychological Review*, 3(4): 357–370. Reprinted in EW5: 96–109. doi:10.1037/h0070405
+[^dewey-1896-2]: [*RAC*] 1896, “The Reflex Arc Concept in Psychology”, *Psychological Review*, 3(4): 357–370. Reprinted in EW5: 96–109. doi:10.1037/h0070405
 
 [^dewey-1897a]: 1897a, “Ethical Principles Underlying Education”, in *Third Yearbook of the National Herbart Society*, Chicago: The National Herbart Society, pp. 7–33. Reprinted in EW5: 54–83.
 
@@ -803,7 +803,7 @@ Aesthetic concepts and fine-grained meanings are rooted, then, in the organism�
 
 [^dewey-1903b]: 1903b, *Studies in Logical Theory*, Chicago: The University of Chicago Press. Reprinted in MW2: 293–378.
 
-[^pie-1905-2]: [*PIE*] 1905, “The Postulate of Immediate Empiricism”, *The Journal of Philosophy, Psychology and Scientific Methods*, 2(15): 393–399. Reprinted in MW3: 158–167. doi:10.2307/2011400
+[^dewey-1905-2]: [*PIE*] 1905, “The Postulate of Immediate Empiricism”, *The Journal of Philosophy, Psychology and Scientific Methods*, 2(15): 393–399. Reprinted in MW3: 158–167. doi:10.2307/2011400
 
 [^dewey-1906]: 1906, “Beliefs and Realities” (later retitled “Beliefs and Existences”), *Philosophical Review*, 15(2): 113–119; originally read as the Presidential Address at the fifth annual meeting of the American Philosophical Association, at Cambridge, December 28, 1905. Reprinted in MW3: 83–100. doi:10.2307/2177731
 
@@ -815,7 +815,7 @@ Aesthetic concepts and fine-grained meanings are rooted, then, in the organism�
 
 [^dewey-1910b]: 1910b, “The Experimental Theory of Knowledge”, *The Influence of Darwin on Philosophy*, New York: Henry Holt and Co., pp. 77–111. Reprinted in MW3: 107–127.
 
-[^hwt-1910c-2]: [*HWT*] 1910c, *How We Think*, Boston: D. C. Heath and Co. Reprinted in MW6.
+[^dewey-1910c-2]: [*HWT*] 1910c, *How We Think*, Boston: D. C. Heath and Co. Reprinted in MW6.
 
 [^dewey-1912]: 1912, “Contributions to A Cyclopedia of Education”, in MW7: 207–366.
 
@@ -823,59 +823,59 @@ Aesthetic concepts and fine-grained meanings are rooted, then, in the organism�
 
 [^dewey-1916a]: 1916a, “Brief Studies in Realism”, in 1916d: 250–280. Reprinted in MW6: 103–122. Revised version of an article in two parts in 1911, *Journal of Philosophy, Psychology and Scientific Methods*, 8(15): 393–400, 8(20): 546–454.
 
-[^dewey-1916b]: 1916b, *Democracy and Education: An Introduction to the Philosophy of Education*, New York: Macmillan. Reprinted in MW9.
+[^dewey-1916b-2]: 1916b, *Democracy and Education: An Introduction to the Philosophy of Education*, New York: Macmillan. Reprinted in MW9.
 
-[^eel-1916c-2]: [*EEL*] 1916c, “Introduction” to 1916d: v–vi. Reprinted in MW10: 320–365.
+[^dewey-1916c-2]: [*EEL*] 1916c, “Introduction” to 1916d: v–vi. Reprinted in MW10: 320–365.
 
 [^dewey-1916d]: 1916d, *Essays in Experimental Logic*, Chicago: University of Chicago Press.
 
 [^dewey-1917]: 1917, “The Need for a Recovery of Philosophy”, in his *Creative Intelligence: Essays in the Pragmatic Attitude*, New York: Henry Holt and Co., pp. 3–69. Reprinted in MW10: 3–49
 
-[^rip-1920-2]: [*RIP*] 1920, *Reconstruction in Philosophy*, New York: Henry Holt and Co. Reprinted in MW12.
+[^dewey-1920-2]: [*RIP*] 1920, *Reconstruction in Philosophy*, New York: Henry Holt and Co. Reprinted in MW12.
 
-[^hnc-1922a-2]: [*HNC*] 1922a, *Human Nature and Conduct*, New York: Henry Holt and Co. Reprinted in MW14.
+[^dewey-1922a-2]: [*HNC*] 1922a, *Human Nature and Conduct*, New York: Henry Holt and Co. Reprinted in MW14.
 
 [^dewey-1922b]: 1922b, “Realism without Monism or Dualism”, *Journal of Philosophy*, 19(12): 309–317, 19(13): 351–361 Reprinted in MW13: 40–60. doi:10.2307/2939872 doi:10.2307/2939610
 
 [^dewey-1923]: 1923, “Individuality in Education”, *General Science Quarterly*, 7(3): 157–166. Reprinted in MW15: 170–179. doi:10.1002/sce.3730070301
 
-[^en-1925a-2]: [*EN*] 1925a, *Experience and Nature*, Chicago: Open Court Publishing.
+[^dewey-1925a-2]: [*EN*] 1925a, *Experience and Nature*, Chicago: Open Court Publishing.
 
 [^dewey-1925]: 1925, “The Naturalistic Theory of Perception by the Senses”, *The Journal of Philosophy*, 22(22): 596–606. Reprinted in LW2: 44–54 as “A Naturalistic Theory of Sense-Perception”. doi:10.2307/2015056
 
 [^dewey-1927a]: 1927a, “Half-Hearted Naturalism”, *The Journal of Philosophy*, 24(3): 57–64. Reprinted in LW3: 73–81. doi:10.2307/2014856
 
-[^pp-1927b-2]: [*PP*] 1927b, *The Public and Its Problems*, New York: Henry Holt and Co. Reprinted in LW2.
+[^dewey-1927b-2]: [*PP*] 1927b, *The Public and Its Problems*, New York: Henry Holt and Co. Reprinted in LW2.
 
 [^dewey-1927c]: 1927c, “The Rôle of Philosophy in the History of Civilization”, *The Philosophical Review*, 36(1): 1–9. Reprinted in LW3: 3–11 as “Philosophy and Civilization”. doi:10.2307/2179154
 
 [^dewey-1928]: 1928, “Social as a Category”, *Monist*, 38(2): 161–177. Reprinted in LW3: 41–54 as “The Inclusive Philosophical Idea”,. doi:10.5840/monist192838218
 
-[^qc-1929-2]: [*QC*] 1929, *The Quest for Certainty: A Study of the Relation of Knowledge and Action*, New York: Minton, Balch and Co. Reprinted in LW4.
+[^dewey-1929-2]: [*QC*] 1929, *The Quest for Certainty: A Study of the Relation of Knowledge and Action*, New York: Minton, Balch and Co. Reprinted in LW4.
 
-[^fae-1930a-2]: [*FAE*] 1930a, “From Absolutism to Experimentalism”, in *Contemporary American Philosophy: Personal Statements*, George Plimpton Adams and William Pepperell Montague (eds), London: George Allen and Unwin; New York: Macmillan Co., volume 2: 13–27. Reprinted in LW5: 147–60.
+[^dewey-1930a-2]: [*FAE*] 1930a, “From Absolutism to Experimentalism”, in *Contemporary American Philosophy: Personal Statements*, George Plimpton Adams and William Pepperell Montague (eds), London: George Allen and Unwin; New York: Macmillan Co., volume 2: 13–27. Reprinted in LW5: 147–60.
 
 [^dewey-1930b]: 1930b, “Psychology and Work”, *Personnel Journal*, 8(February): 337–341. Reprinted in LW5: 236–242
 
 [^dewey-1930c]: 1930c, “Qualitative Thought”, *Symposium*, 1(January): 5–32. Reprinted in his *Philosophy and Civilization*, New York: Minton, Balch & Company, 1931, pp. 93–116. Reprinted in LW5: 243–262.
 
-[^tif-1930d-2]: [*TIF*] 1930d, “Trois facteurs indépendants en matière de morale”, Charles Cestre (trans.), *Bulletin de la société française de philosophie*, 30(4): 118–127. First publication in English, 1966, “Three Independent Factors in Morals”, *Educational Theory*, 16(3): 198–209, Jo Ann Boydston (trans.). Reprinted in LW5: 279–288. doi:10.1111/j.1741-5446.1966.tb00259.x
+[^dewey-1930d-2]: [*TIF*] 1930d, “Trois facteurs indépendants en matière de morale”, Charles Cestre (trans.), *Bulletin de la société française de philosophie*, 30(4): 118–127. First publication in English, 1966, “Three Independent Factors in Morals”, *Educational Theory*, 16(3): 198–209, Jo Ann Boydston (trans.). Reprinted in LW5: 279–288. doi:10.1111/j.1741-5446.1966.tb00259.x
 
 [^dewey-1930e]: 1930e, “What I Believe”, *Forum*, 83(March): 176–182. Reprinted in LW5: 267–278.
 
-[^ion-nd-2]: [*ION*] 1930f, *Individualism, Old and New*, New York: Minton, Balch and Co. Reprinted in LW5: 41–124.
+[^individualism-nd-2]: [*ION*] 1930f, *Individualism, Old and New*, New York: Minton, Balch and Co. Reprinted in LW5: 41–124.
 
 [^dewey-1931]: 1931, “Context and Thought”, *University of California Publications in Philosophy*, (Berkeley: University of California Press), 12(3): 203–224. Reprinted in LW6: 3–21.
 
-[^e-rev-1932-2]: [*E-rev*] 1932, with James H. Tufts, *Ethics, Revised Edition*, New York: Henry Holt and Co. Reprinted in LW7.
+[^dewey-1932-2]: [*E-rev*] 1932, with James H. Tufts, *Ethics, Revised Edition*, New York: Henry Holt and Co. Reprinted in LW7.
 
 [^dewey-1933]: 1933, “Analysis of Reflective Thinking”, in *How We Think. a Restatement of the Relation of Reflective Thinking to the Educative Process*, new edition, Boston: D. C. Heath and Co., ch. 7. Reprinted in LW8: 196–209.
 
-[^acf-1934a-2]: [*ACF*] 1934a, *A Common Faith*, New Haven, CT: Yale University Press. Reprinted in LW9.
+[^dewey-1934a-2]: [*ACF*] 1934a, *A Common Faith*, New Haven, CT: Yale University Press. Reprinted in LW9.
 
-[^ae-1934b-2]: [*AE*] 1934b, *Art as Experience*, New York: Minton, Balch and Co. Reprinted in LW10.
+[^dewey-1934b-2]: [*AE*] 1934b, *Art as Experience*, New York: Minton, Balch and Co. Reprinted in LW10.
 
-[^lsa-1935-2]: [*LSA*] 1935, *Liberalism and Social Action*, New York: G. P. Putnam’s Sons. Reprinted in LW11: 1–66.
+[^dewey-1935-2]: [*LSA*] 1935, *Liberalism and Social Action*, New York: G. P. Putnam’s Sons. Reprinted in LW11: 1–66.
 
 [^dewey-1936a]: 1936a, “A Liberal Speaks Out for Liberalism”, *New York Times Magazine*, 23 February 1936, pp. 3, 24. Reprinted in LW11: 282–288.
 
@@ -887,7 +887,7 @@ Aesthetic concepts and fine-grained meanings are rooted, then, in the organism�
 
 [^dewey-1938b]: 1938b, *Experience and Education*, New York: Macmillan. Reprinted in LW13.
 
-[^lti-1938c-2]: [*LTI*] 1938c, *Logic: The Theory of Inquiry*, New York: Henry Holt and Co. Reprinted in LW12.
+[^dewey-1938c-2]: [*LTI*] 1938c, *Logic: The Theory of Inquiry*, New York: Henry Holt and Co. Reprinted in LW12.
 
 [^dewey-1939a]: 1939a, “Biography of John Dewey”, Jane M. Dewey (ed.), in Schilpp 1939: 3–45.
 
@@ -897,7 +897,7 @@ Aesthetic concepts and fine-grained meanings are rooted, then, in the organism�
 
 [^dewey-1939d]: 1939d, *Freedom and Culture*, New York: G. P. Putnam’s Sons. Reprinted in LW13: 65–188.
 
-[^tv-1939e-2]: [*TV*] 1939e, *Theory of Valuation*, Chicago: University of Chicago Press. Reprinted in LW13.
+[^dewey-1939e-2]: [*TV*] 1939e, *Theory of Valuation*, Chicago: University of Chicago Press. Reprinted in LW13.
 
 [^dewey-1940a]: 1940a, “Nature in Experience”, *The Philosophical Review*, 49(2): 244–258. Reprinted in LW14: 141–154. doi:10.2307/2180802
 

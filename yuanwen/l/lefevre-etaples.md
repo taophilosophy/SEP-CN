@@ -307,13 +307,13 @@ The author would like to thank Jill Kraye and Lodi Nauta, who offered especially
 
 [^clichtove’s-nd-4]: 1517b (with Clichtove’s commentary), *Introductorium Astronomicum theorias corporum coelestium duobus libris complectens, adiecto commentario declaratum*, Paris: H. Estienne.
 
-[^ee-1964]: [EE], *Épistres & Évangiles pour les cinquante & deux sepmaines de l’an: fac-simile de la premiere edition, Simon du Bois*, edited by M. A. Screech. Geneva: Droz, 1964.
+[^épistres-1964]: [EE], *Épistres & Évangiles pour les cinquante & deux sepmaines de l’an: fac-simile de la premiere edition, Simon du Bois*, edited by M. A. Screech. Geneva: Droz, 1964.
 
-[^jl-1976]: [JL], *Jacques Lefèvre d’Étaples et ses disciples: Epistres et Evangiles pour les cinquante et deux dimenches de l’an*, edited by Pierre de Vingle, Guy Bedouelle, and Franco Giacone. Brill: Leiden, 1976.
+[^jacques-1976]: [JL], *Jacques Lefèvre d’Étaples et ses disciples: Epistres et Evangiles pour les cinquante et deux dimenches de l’an*, edited by Pierre de Vingle, Guy Bedouelle, and Franco Giacone. Brill: Leiden, 1976.
 
-[^hl-1979]: [HL], *Hecatonomiarum libri: texte latin des Hécatonomies de Lefèvre d’Étaples, en parallèle avec la traduction latine de Platon par Marsile Ficini*, edited by Jean Boisset and Robert Combès. Paris: Vrin, 1979.
+[^hecatonomiarum-1979]: [HL], *Hecatonomiarum libri: texte latin des Hécatonomies de Lefèvre d’Étaples, en parallèle avec la traduction latine de Platon par Marsile Ficini*, edited by Jean Boisset and Robert Combès. Paris: Vrin, 1979.
 
-[^mn-2018]: [MN], *La Magie naturelle / De Magia naturali: I. L’Influence des astres*, edited and translated by Jean-Marc Mandosio, Paris: Les Belles Lettres, 2018.
+[^la-2018]: [MN], *La Magie naturelle / De Magia naturali: I. L’Influence des astres*, edited and translated by Jean-Marc Mandosio, Paris: Les Belles Lettres, 2018.
 
 [^ashworth-2010]: Ashworth, E. Jennifer, 2010, “Terminist Logic”, in *The Cambridge History of Medieval Philosophy*, edited by Robert Pasnau and Christina van Dyke, Cambridge: Cambridge University Press, 146–58.
 

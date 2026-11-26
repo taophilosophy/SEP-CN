@@ -202,9 +202,9 @@ al-Farabi | al-Kindi | Arabic and Islamic Philosophy, disciplines in: metaphysic
 
 [^avicenna-2009]: –––, *The Physics of “The Healing”*, 4 books. Translated in 2 volumes by Jon McGinnis (ed. and trans.), Provo, UT: Brigham Young University Press, 2009.
 
-[^ph1-nd]: [Ph1], *Books I & II*
+[^books-nd]: [Ph1], *Books I & II*
 
-[^ph2-nd]: [Ph2], *Books III & IV*
+[^books-nd-2]: [Ph2], *Books III & IV*
 
 [^badawī-1947]: Badawī, ʿAbd al-Raḥmān (ed.), 1947, *Al-muthul al-ʿaqlīya al-aflāṭūnīya*, Cairo: Printing House of the Egyption Library.
 

@@ -208,9 +208,9 @@ Christian theology, philosophy and | divine: illumination | emotion: in the Chri
 
 [^lazcano-2021]: –––, 2021, “Boletín bibliográfico de San Agustín en castellano (2007–2020)”, *Ciudad de Dios*. *Revista Agustiniana*, 234: 1031–1077.
 
-[^csel-nd]: [*CSEL*] *Corpus Scriptorum Ecclesiasticorum Latinorum* (Wien: Holder, Pichler, Tempsky, latest volumes Berlin: De Gruyter) and
+[^corpus-nd]: [*CSEL*] *Corpus Scriptorum Ecclesiasticorum Latinorum* (Wien: Holder, Pichler, Tempsky, latest volumes Berlin: De Gruyter) and
 
-[^ccl-nd]: [*CCL*] *Corpus Christianorum Series Latina* (Turnhout: Brepols). New critical editions are continually being prepared and older ones replaced.
+[^corpus-nd-2]: [*CCL*] *Corpus Christianorum Series Latina* (Turnhout: Brepols). New critical editions are continually being prepared and older ones replaced.
 
 [^patrologia-1877]: The *Patrologia Latina* edition [*PL*] (Jacques-Paul Migne (ed.), Paris 1877), which used to be the standard edition, is a reprint of the edition of the Benedictines of St.-Maur in Paris from the seventeenth century and naturally does not meet modern critical standards; it remains necessary only for about a third of the sermons for which modern editions are still lacking.
 
@@ -218,13 +218,13 @@ Christian theology, philosophy and | divine: illumination | emotion: in the Chri
 
 [^fuhrer-2018a]: A complete work list is also found in Fuhrer 2018a: 1680–1687.
 
-[^wsa-1991]: [*WSA*] *The Works of Saint Augustine. A Translation for the 21st Century*, 46 vols., John E. Rotelle et al. (eds.), New York: New City Press, 1991–2019. Reliable and modern, but almost without annotation.
+[^works-1991]: [*WSA*] *The Works of Saint Augustine. A Translation for the 21st Century*, 46 vols., John E. Rotelle et al. (eds.), New York: New City Press, 1991–2019. Reliable and modern, but almost without annotation.
 
-[^fc-nd]: [*FC*] *The Fathers of the Church*, Ludwig Schopp et al. (eds.), New York: Cima Publishing, 1947ff.
+[^fathers-nd]: [*FC*] *The Fathers of the Church*, Ludwig Schopp et al. (eds.), New York: Cima Publishing, 1947ff.
 
-[^acw-nd]: [*ACW*] *Ancient Christian Writers. The Works of the Fathers in Translation*, Johannes Quasten et al. (eds.), New York: Newman Press 1946ff.
+[^ancient-nd]: [*ACW*] *Ancient Christian Writers. The Works of the Fathers in Translation*, Johannes Quasten et al. (eds.), New York: Newman Press 1946ff.
 
-[^ba-nd]: [*BA*] *Bibliothèque Augustinienne. Œuvres de saint Augustin*, Paris: Études Augustiniennes 1936ff. Bilingual editions with rich annotation that often comes close to a commentary. Especially important are the volumes on
+[^bibliothèque-nd]: [*BA*] *Bibliothèque Augustinienne. Œuvres de saint Augustin*, Paris: Études Augustiniennes 1936ff. Bilingual editions with rich annotation that often comes close to a commentary. Especially important are the volumes on
 
 [^confessiones-1962]: *Confessiones* (*BA* 13–14, edited by Aimé Solignac et al., 1962),
 
@@ -234,13 +234,13 @@ Christian theology, philosophy and | divine: illumination | emotion: in the Chri
 
 [^letters-2011]: *Letters* 1–30 (*BA* 40/A, edited by Serge Lancel, Emmanuel Bermon et al., 2011).
 
-[^aow-nd]: [*AOW*] *Augustinus: Opera—Werke*, Wilhelm Geerlings, Johannes Brachtendorf, and Volker Henning Drecoll (eds.), Paderborn: Schöningh, 2002ff. 82 volumes planned, 14 completed.
+[^augustinus-nd]: [*AOW*] *Augustinus: Opera—Werke*, Wilhelm Geerlings, Johannes Brachtendorf, and Volker Henning Drecoll (eds.), Paderborn: Schöningh, 2002ff. 82 volumes planned, 14 completed.
 
 [^kopp-1955]: Kopp, Sebastian, Thomas Gerhard Ring, and Adolar Zumkeller (eds.), 1955–2005, *Sankt Augustinus—Der Lehrer der Gnade. Gesamtausgabe seiner antipelagianischen Schriften*, 8 vols. (5 completed) + 3 vols. Prolegomena, Würzburg: Augustinus-Verlag.
 
-[^nba-1965]: [*NBA*] *Nuova Biblioteca Agostiniana. Opere di Sant’Agostino. Edizione latino-italiana*, 44 vols., Agostino Trapé et al. (eds.), Roma: Città Nuova Editrice, 1965–2010. Complete.
+[^nuova-1965]: [*NBA*] *Nuova Biblioteca Agostiniana. Opere di Sant’Agostino. Edizione latino-italiana*, 44 vols., Agostino Trapé et al. (eds.), Roma: Città Nuova Editrice, 1965–2010. Complete.
 
-[^bac-1946]: [*BAC*] *Obras completas de San Agustín. Edición bilingüe (Biblioteca de Autores Cristianos)*, 41 vols., Victorino Capánaga et al. (eds.), 1946–2002. Complete.
+[^obras-1946]: [*BAC*] *Obras completas de San Agustín. Edición bilingüe (Biblioteca de Autores Cristianos)*, 41 vols., Victorino Capánaga et al. (eds.), 1946–2002. Complete.
 
 [^o’donnell-1992]: O’Donnell; James J., 1992, *Augustine: Confessions*, 3 vols., Oxford: Oxford University Press. Introduction, text and commentary. [[O’Donnell 1992 available online](https://faculty.georgetown.edu/jod/conf/)]
 
@@ -268,7 +268,7 @@ Christian theology, philosophy and | divine: illumination | emotion: in the Chri
 
 [^augustinus-lexikon-1986]: *Augustinus-Lexikon*, edited by Cornelius Mayer et al., Basel: Schwabe, 1986–2024. 5 volumes. Articles in English, French and German, lemmata in Latin. Also available online (license required).
 
-[^corpus-nd]: *Corpus Augustinianum Gissense*, a Cornelio Mayer editum 3.0 (CAG-online), Basel: Schwabe. Searchable database of Augustine’s complete works in Latin, based on the most recent editions (including quotation search), and bibliographical database with over 50,000 titles. License required. Free access to the bibliographical database at the “Literatur-Portal” of *Zentrum für Augustinusforschung*, Würzburg ([available online](https://www.augustinus.de/literatur/literaturdatenbank)).
+[^corpus-nd-3]: *Corpus Augustinianum Gissense*, a Cornelio Mayer editum 3.0 (CAG-online), Basel: Schwabe. Searchable database of Augustine’s complete works in Latin, based on the most recent editions (including quotation search), and bibliographical database with over 50,000 titles. License required. Free access to the bibliographical database at the “Literatur-Portal” of *Zentrum für Augustinusforschung*, Würzburg ([available online](https://www.augustinus.de/literatur/literaturdatenbank)).
 
 [^drecoll-2007]: Drecoll, Volker Henning (ed.), 2007, *Augustin Handbuch*, Tübingen: Mohr Siebeck.
 

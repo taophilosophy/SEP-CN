@@ -530,23 +530,23 @@ Chinese Philosophy: epistemology | Chinese Philosophy: ethics | Chinese Philosop
 
 [^watson-2013]: Watson, Burton (trans.), 2013, *The Complete Works of Zhuangzi*, New York: Columbia University Press.
 
-[^analects-nd]: [*Analects*](https://ctext.org/analects)
+[^emotions-chinese-nd]: [*Analects*](https://ctext.org/analects)
 
-[^bai-nd]: [*Bai Hu Tong*](https://ctext.org/bai-hu-tong)
+[^emotions-chinese-nd-2]: [*Bai Hu Tong*](https://ctext.org/bai-hu-tong)
 
 [^laozi-nd]: *Laozi*, [*Dao de jing*](https://ctext.org/dao-de-jing)
 
-[^liji-nd]: [*Liji*](https://ctext.org/liji)
+[^emotions-chinese-nd-3]: [*Liji*](https://ctext.org/liji)
 
-[^mencius-nd]: [*Mencius/Mengzi*](https://ctext.org/mengzi)
+[^emotions-chinese-nd-4]: [*Mencius/Mengzi*](https://ctext.org/mengzi)
 
-[^mozi-nd]: [*Mozi*](https://ctext.org/mozi)
+[^emotions-chinese-nd-5]: [*Mozi*](https://ctext.org/mozi)
 
-[^xunzi-nd]: [*Xunzi*](https://ctext.org/xunzi)
+[^emotions-chinese-nd-6]: [*Xunzi*](https://ctext.org/xunzi)
 
-[^zhuangzi-nd]: [*Zhuangzi*](https://ctext.org/zhuangzi)
+[^emotions-chinese-nd-7]: [*Zhuangzi*](https://ctext.org/zhuangzi)
 
-[^zhong-nd]: [*Zhong Yong*](https://ctext.org/liji/zhong-yong)
+[^emotions-chinese-nd-8]: [*Zhong Yong*](https://ctext.org/liji/zhong-yong)
 
 [^andreini-2006]: Andreini, Attilio, 2006, “The Meaning of *Qing* in Texts from Guodian Tomb no. 1”, in Paolo Santangelo and Donatella Guida (eds.), *Love, Hatred, and Other Passions: Questions and Themes on Emotions in Chinese Civilization*, Leiden: Brill, 149–165.
 

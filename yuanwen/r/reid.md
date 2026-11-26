@@ -543,17 +543,17 @@ Other works by Reid include:
 
 action | aesthetics: British, in the 18th century | Berkeley, George | causation: the metaphysics of | Collins, Anthony | free will | Gassendi, Pierre | Hobbes, Thomas | Hume, David | incompatibilism: (nondeterministic) theories of free will | legalpunishment | Locke, John | memory: epistemological problems of | Molyneux’s problem | ordinary language | perception: epistemological problems of | primary and secondary qualities in early modern philosophy | realism | Scottish Philosophy: in the 18th Century | skepticism
 
-[^reid-1748]: [1748] *An Essay on Quantity; Occasioned by Reading a Treatise in which Simple and Compound Ratios are Applied to Virtue and Merit*
+[^an-nd]: [1748] *An Essay on Quantity; Occasioned by Reading a Treatise in which Simple and Compound Ratios are Applied to Virtue and Merit*
 
-[^reid-1764]: [1764] *An Inquiry into the Human Mind on the Principles of Common Sense*
+[^an-nd-2]: [1764] *An Inquiry into the Human Mind on the Principles of Common Sense*
 
-[^reid-1774]: [1774] *A Brief Account of Aristotle's Logic*
+[^brief-nd]: [1774] *A Brief Account of Aristotle's Logic*
 
-[^reid-1785]: [1785] *Essays on the Intellectual Powers of Man*
+[^essays-nd]: [1785] *Essays on the Intellectual Powers of Man*
 
-[^reid-1788]: [1788] *Essays on the Active Powers of Man*
+[^essays-nd-2]: [1788] *Essays on the Active Powers of Man*
 
-[^reid-1799]: [1799] *A Statistical Account of the University of Glasgow*
+[^statistical-nd]: [1799] *A Statistical Account of the University of Glasgow*
 
 [^reid-1736]: Reid, Thomas, 1736–1796/2002, *The Correspondence of Thomas Reid*, Paul Wood (ed.), University Park: Pennsylvania State University Press. [Abbreviated ‘Correspondence’]
 
@@ -563,13 +563,13 @@ action | aesthetics: British, in the 18th century | Berkeley, George | causation
 
 [^reid-1753-2]: –––, 1753–1762/1989, *Philosophical Orations of Thomas Reid, delivered at Graduation Ceremonies in King's College, Aberdeen, 1753, 1756, 1759, 1762*, D.D. Todd (ed.), S. Duncan (trans.), Carbondale: Southern Illinois University Press. [Abbreviated ‘Philosophical Orations’]
 
-[^reid-1764-2]: –––, 1764/1997, *An Inquiry into the Human Mind on the Principles of Common Sense*, Derek R. Brookes (ed.), University Park: Pennsylvania State University Press. [Abbreviated ‘IHM’]
+[^reid-1764]: –––, 1764/1997, *An Inquiry into the Human Mind on the Principles of Common Sense*, Derek R. Brookes (ed.), University Park: Pennsylvania State University Press. [Abbreviated ‘IHM’]
 
 [^reid-1780]: –––\*, 1780/1981, *Lectures on Natural Theology*, Elmer H. Duncan (ed.), Washington, D.C.: University Press of America.
 
-[^reid-1785-2]: –––, 1785/2002, *Essays on the Intellectual Powers of Man*, Derek Brookes (ed.), University Park: Pennsylvania State University Press. [Abbreviated ‘EIP’]
+[^reid-1785]: –––, 1785/2002, *Essays on the Intellectual Powers of Man*, Derek Brookes (ed.), University Park: Pennsylvania State University Press. [Abbreviated ‘EIP’]
 
-[^reid-1788-2]: –––. 1788/2010, *Essays on the Active Powers of Man*, Knud Haakonssen and James A. Harris (eds.), University Park: Pennsylvania State University Press. [Abbreviated ‘EAP’]
+[^reid-1788]: –––. 1788/2010, *Essays on the Active Powers of Man*, Knud Haakonssen and James A. Harris (eds.), University Park: Pennsylvania State University Press. [Abbreviated ‘EAP’]
 
 [^reid-1973]: –––\*, 1973, *Lectures on the Fine Arts*, Peter Kivy (ed.), The Hague: Martinus Nijhoff. [Abbreviated ‘Fine Arts’]
 

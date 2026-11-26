@@ -668,15 +668,15 @@ Acknowledgement goes here.
 
 [^beardsley-1958]: –––, 1958 [1981], *Aesthetics: Problems in the Philosophy of Criticism*, New York: Harcourt, Brace. Second edition with new postscript, Indianapolis, IN: Hackett Publishing, 1981. Page numbers are from the 1981 edition
 
-[^pc-1970]: [PC] –––, 1970, *The Possibility of Criticism*, (Criticism Monograph 2), Detroit, MI: Wayne State University Press.
+[^beardsley-1970]: [PC] –––, 1970, *The Possibility of Criticism*, (Criticism Monograph 2), Detroit, MI: Wayne State University Press.
 
-[^apv-1982a]: [APV] –––, 1982a, *The Aesthetic Point of View: Selected Essays*, Michael J. Wreen and Donald M. Callen (eds.), Ithaca, NY: Cornell University Press.
+[^beardsley-1982a]: [APV] –––, 1982a, *The Aesthetic Point of View: Selected Essays*, Michael J. Wreen and Donald M. Callen (eds.), Ithaca, NY: Cornell University Press.
 
-[^ii-1982b]: [II] –––, 1982b, “Intentions and Interpretations: A Fallacy Revived”, in 1982a: 188–207.
+[^beardsley-1982b]: [II] –––, 1982b, “Intentions and Interpretations: A Fallacy Revived”, in 1982a: 188–207.
 
-[^if-1946]: [IF] Wimsatt, William K. and Monroe C. Beardsley, 1946 [1987], “The Intentional Fallacy”, *The Sewanee Review*, 54(3): 468–488. Reprinted in *Philosophy Looks at the Arts*, third edition, Joseph Margolis (ed.), Philadelphia, PA: Temple University Press, 1987, pp. 367–380. Page numbers from 1946
+[^wimsatt-1946]: [IF] Wimsatt, William K. and Monroe C. Beardsley, 1946 [1987], “The Intentional Fallacy”, *The Sewanee Review*, 54(3): 468–488. Reprinted in *Philosophy Looks at the Arts*, third edition, Joseph Margolis (ed.), Philadelphia, PA: Temple University Press, 1987, pp. 367–380. Page numbers from 1946
 
-[^if-1949]: –––, 1949 [1971], “The Affective Fallacy”, *The Sewanee Review*, 57(1): 31–55. Reprinted in *Critical Theory since Plato*, Hazard Adams (ed.), New York: Harcourt Brace Jovanovich, 1971, pp. 1022–1031.
+[^wimsatt-1949]: –––, 1949 [1971], “The Affective Fallacy”, *The Sewanee Review*, 57(1): 31–55. Reprinted in *Critical Theory since Plato*, Hazard Adams (ed.), New York: Harcourt Brace Jovanovich, 1971, pp. 1022–1031.
 
 [^carney-1983]: Carney, James D., 1983, “Interpreting Poetry”, *Journal of Aesthetic Education*, 17(3): 53–60. doi:10.2307/3332408
 

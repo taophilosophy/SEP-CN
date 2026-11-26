@@ -132,13 +132,13 @@ Cambridge Platonists | Emerson, Ralph Waldo | Neoplatonism | Plato | Thoreau, He
 
 [^dial-1840]: *The Dial*, Volumes 1–4, quarterly journal published July 1840–April 1844, in Boston, edited by M. Fuller, R. E. Emerson, G. Ripley. Reprinted 1961. Also available online:
 
-[^volume-1840]: [Volume I](https://books.google.com/books?id=-ukAAAAAYAAJ), covering July 1840–April 1841.
+[^aaaaayaaj-1840]: [Volume I](https://books.google.com/books?id=-ukAAAAAYAAJ), covering July 1840–April 1841.
 
-[^volume-1841]: [Volume II](https://books.google.com/books?id=dj0AAAAAYAAJ), covering July 1841–April 1842.
+[^aaaaayaaj-1841]: [Volume II](https://books.google.com/books?id=dj0AAAAAYAAJ), covering July 1841–April 1842.
 
-[^volume-1842]: [Volume III](https://books.google.com/books?id=P3sAAAAAYAAJ), covering July 1842–April 1843.
+[^p3saaaaayaaj-1842]: [Volume III](https://books.google.com/books?id=P3sAAAAAYAAJ), covering July 1842–April 1843.
 
-[^volume-1843]: [Volume IV](https://books.google.com/books?id=VnsAAAAAYAAJ), covering July 1843–April 1844.
+[^vnsaaaaayaaj-1843]: [Volume IV](https://books.google.com/books?id=VnsAAAAAYAAJ), covering July 1843–April 1844.
 
 [^emerson-2003]: Emerson, Ralph Waldo and Margaret Fuller, *Selected Works: Essays, Poems, and Dispatches*, edited with Introduction by John Carlos Rowe, Boston: Houghton Mifflin, c. 2003.
 

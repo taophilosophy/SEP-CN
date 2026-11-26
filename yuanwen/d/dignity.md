@@ -842,9 +842,9 @@ One wonders exactly what King meant by “dignity.” But that is partly the poi
 
 [^trinkaus-1970]: Trinkaus, Charles Edward, 1970, *In Our Image and Likeness: Humanity and Divinity in Italian Humanist Thought*, 2 vols., London: Constable.
 
-[^un-1945]: [UN] United Nations, 1945, *United Nations Charter*. [[UN 1945 available online](https://www.un.org/en/about-us/un-charter/full-text)]
+[^united-1945]: [UN] United Nations, 1945, *United Nations Charter*. [[UN 1945 available online](https://www.un.org/en/about-us/un-charter/full-text)]
 
-[^un-1948]: –––, 1948, *Universal Declaration of Human Rights*. [[UN 1948 available online](https://www.un.org/en/about-us/universal-declaration-of-human-rights)]
+[^united-1948]: –––, 1948, *Universal Declaration of Human Rights*. [[UN 1948 available online](https://www.un.org/en/about-us/universal-declaration-of-human-rights)]
 
 [^valadier-2003]: Valadier, Paul, 2003, “The Person who Lacks Dignity”, in Ammicht-Quinn, Junker-Kerry, and Tamez, 2003: 49–56.
 

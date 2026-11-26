@@ -193,13 +193,13 @@ Everything covered here concerning the impoverishing and blinding superimpositio
 
 [^note-9]: This discussion emphasizes that Wittgenstein sees both language and the arts as culturally situated, that is, we fathom more of both the reach and depth of a word or a work by seeing it in the discursive or cultural context from which it drew its “life”, or in which it exhibits its greatest resonance within an expansive discursive or cultural web or network. But it is of interest to note that Wittgenstein’s own work can become the cultural background against which other work can be seen; see for example Zumhagen-Yekplé 2020.
 
-[^pi-1953]: [PI] 1953, *Philosophical Investigations*, G. E. M. Anscombe (trans.), Oxford: Blackwell. Revised fourth edition, P. M. S. Hacker and Joachim Schulte (eds), G. E. M. Anscombe, P. M. S. Hacker, and Joachim Schulte (trans), Chichester/Malden, MA: Wiley-Blackwell, 2009.
+[^wittgenstein-aesthetics-1953]: [PI] 1953, *Philosophical Investigations*, G. E. M. Anscombe (trans.), Oxford: Blackwell. Revised fourth edition, P. M. S. Hacker and Joachim Schulte (eds), G. E. M. Anscombe, P. M. S. Hacker, and Joachim Schulte (trans), Chichester/Malden, MA: Wiley-Blackwell, 2009.
 
-[^bb-1958]: [BB] 1958, *The Blue and Brown Books*, Oxford: Blackwell.
+[^wittgenstein-aesthetics-1958]: [BB] 1958, *The Blue and Brown Books*, Oxford: Blackwell.
 
 [^wittgenstein-aesthetics-1921]: 1921/1922, *Logisch-Philosophische Abhandlung*, 1921. With the German and translated into English as *Tractatus Logico-Philosophicus*, Charles Kay Ogden (trans./ed.) with Frank P. Ramsey, London: Routledge & Kegan Paul. Newer translation by D. F. Pears and B. F. McGuinness, New York: Humanities Press and London Routledge & Kegan Paul, 1961.
 
-[^la-1966]: [LA] 1966, *Lectures and Conversations on Aesthetics, Psychology, and Religious Belief*, Cyril Barrett (ed.), Oxford: Basil Blackwell. Compiled from notes taken by Yorick Symthies, Rush Rhees and James Taylor. The lectures on aesthetics (pages 1–40) took place in 1938.
+[^wittgenstein-aesthetics-1966]: [LA] 1966, *Lectures and Conversations on Aesthetics, Psychology, and Religious Belief*, Cyril Barrett (ed.), Oxford: Basil Blackwell. Compiled from notes taken by Yorick Symthies, Rush Rhees and James Taylor. The lectures on aesthetics (pages 1–40) took place in 1938.
 
 [^wittgenstein-aesthetics-1969]: 1969, *On Certainty*, German and English, G. E. M. Anscombe and G. H. von Wright (eds) Denis Paul and G. E. M. Anscombe (trans), Oxford: Blackwell.
 

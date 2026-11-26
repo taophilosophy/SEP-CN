@@ -251,13 +251,7 @@ In the final analysis, a broad range of distributive considerations arguably oug
 
 **[R2]**
 
-Restatement (Second) of Contracts, 1981.
-
-Restatement (Second) of Torts, 1977.
-
 **[UCC]**
-
-Uniform Commercial Code, 2003.
 
 #### Cases
 
@@ -574,6 +568,12 @@ ambiguity | coercion | economics: philosophy of | intention | justice: distribut
 [^zimmerman-1981]: Zimmerman, David, 1981, “Coercive Wage Offers”, *Philosophy & Public Affairs*, 10(2): 121–145.
 
 [^zamir-2020]: Zamir, Eyal and Ian Ayres, 2020, “A Theory of Mandatory Rules: Typology, Policy, and Design”, *Texas Law Review*, 99(2): 283–340.
+
+[^restatement-1981]: Restatement (Second) of Contracts, 1981.
+
+[^restatement-1977]: Restatement (Second) of Torts, 1977.
+
+[^uniform-2003]: Uniform Commercial Code, 2003.
 
 [^alcoa-1980]: *Alcoa v. Essex*, 499 F. Supp. 53 (W.D. Pa. 1980).
 

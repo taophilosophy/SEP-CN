@@ -228,7 +228,7 @@ We have now come quite close to a modern notation of quantifiers. Dipert emphasi
 
 Ten years later, in a more comprehensive and more survey-style paper, “On the algebra of logic” (1880), we find Peirce’s ideas of DNLR emerge more tightly and more systematically. Below we will now summarize the developments of quantification presented in “Brief description of the algebra of relatives” (1882a), “The logic of relatives” (1883a), and “On the algebra of logic: A contribution to the philosophy of notations” (1885a plus 1885b).
 
-First, he modifies the previous idea of representing a property in terms of individual terms and extends it to relations. In DNLR (1870)[^dnlr-1870], “$\unary{w}$”, which stands for the property “being a woman”, is expressed as
+First, he modifies the previous idea of representing a property in terms of individual terms and extends it to relations. In DNLR (1870), “$\unary{w}$”, which stands for the property “being a woman”, is expressed as
 
 $$\unary{w} = \unary{W}' + \unary{W}'' + \unary{W}''' + \cdots$$
 
@@ -330,7 +330,7 @@ Afterwards well-known mathematicians and logicians, Löwenheim, Skolem and Zerme
 
 Interestingly enough, Putnam points out that this portion of Whitehead’s work was prior to his collaboration with Russell, and during this early period Whitehead’s work, especially on quantifiers, mentions Peirce and his students, but not Frege. Clearly we needed to wait until Russell drew our attention to Frege, but “it was Peirce who seems to have been known to the entire world logical community” (Putnam 1982: 297)[^putnam-1982]. Putnam’s label of the Peirce group as “effective” discoverers of the quantifier and Frege as a discoverer could be a resolution to the Frege-first versus Peirce-first debate.
 
-While many have focused on the development of quantifiers, it is quite noteworthy that Tarski drew our attention to the importance of the algebra of relations in his 1941 paper “On the Calculus of Relations”.[^note-20] Just as Peirce did in his DNLR (1870)[^dnlr-1870] paper, Tarski acknowledges De Morgan’s contribution: It is De Morgan who first realized the necessity of representing relations as well as qualities and struggled over the limits of traditional logic. And Tarski gives full credit to Peirce in terms of solid advance over the calculus of relations.
+While many have focused on the development of quantifiers, it is quite noteworthy that Tarski drew our attention to the importance of the algebra of relations in his 1941 paper “On the Calculus of Relations”.[^note-20] Just as Peirce did in his DNLR (1870) paper, Tarski acknowledges De Morgan’s contribution: It is De Morgan who first realized the necessity of representing relations as well as qualities and struggled over the limits of traditional logic. And Tarski gives full credit to Peirce in terms of solid advance over the calculus of relations.
 
 > The title of creator of the theory of relations was reserved for C. S. Peirce. In several papers published between 1870 and 1882a, he introduced and made precise all the fundamental concepts of the theory of relations and formulated and established its fundamental laws.…In particular, his investigations made it clear that a large part of the theory of relations can be presented as a calculus which is formally much like the calculus of classes developed by G. Boole and W. S. Jevons, but which greatly exceeds it in richness of expression and is therefore incomparably more interesting from the deductive point of view. (Tarski 1941: 73)[^tarski-1941]
 
@@ -833,17 +833,17 @@ This is interesting indeed, as Brady points out: “We see here an interesting f
 
 [^note-40]: Recently, Odland discovered three more pages from Peirce’s *Logic Notebook* related to his discussion on triadic logic in *Peirce’s Triadic Logic: Continuity, Modality, and L* (Odland 2020)[^odland-2020].
 
-[^cp-1960]: [CP], *Collected Papers of Charles Sanders Peirce*, Charles Hartshorne and Paul Weiss (eds), Cambridge, MA: Harvard University Press, 1960, Volumes 1—5.
+[^collected-1960]: [CP], *Collected Papers of Charles Sanders Peirce*, Charles Hartshorne and Paul Weiss (eds), Cambridge, MA: Harvard University Press, 1960, Volumes 1—5.
 
 [^writings-nd]: [W], *Writings of Charles S. Peirce: A Chronological Edition*, 6 volumes, The Peirce Edition Project, M. Fisch, C. Kloesel, and N. Houser (eds), Bloomington, IN: Indiana University Press.
 
-[^ms-1865]: [Ms 339] 1865–1909, “Logic Notebook”, unpublished manuscript, Ms 339. Pages 340v, 341v, 344r replicated in Fisch and Turquette 1966: 73–75.
+[^peirce-logic-1865]: [Ms 339] 1865–1909, “Logic Notebook”, unpublished manuscript, Ms 339. Pages 340v, 341v, 344r replicated in Fisch and Turquette 1966: 73–75.
 
 [^peirce-logic-1866]: 1866, “Lowell Lectures on the Logic of Science 1866, Lecture II”, Ms 353. Parts quoted in Merrill 1978.
 
 [^peirce-logic-1867]: 1867, “An Improvement in Boole’s Calculus of Logic”, *Proceedings of the American Academy of Arts and Sciences*, 7: 249–261. Reprinted in CP 3.1–19. doi:10.2307/20179565
 
-[^dnlr-1870]: [DNLR] 1870, “Description of a Notation for the Logic of Relatives, Resulting from An Amplification of the Conceptions of Boole’s Calculus”, *Memoirs of the American Academy of Arts and Sciences*, 9(2): 317–378. Reprinted in CP 3.45–148. doi:10.2307/25058006
+[^peirce-logic-1870]: [DNLR] 1870, “Description of a Notation for the Logic of Relatives, Resulting from An Amplification of the Conceptions of Boole’s Calculus”, *Memoirs of the American Academy of Arts and Sciences*, 9(2): 317–378. Reprinted in CP 3.45–148. doi:10.2307/25058006
 
 [^peirce-logic-1878]: 1878, “How To Make Our Ideas Clear”, *Popular Science Monthly*, 12(January): 286–302. Reprinted in CP 5.388–410.
 

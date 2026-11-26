@@ -431,15 +431,15 @@ afterlife | evil: problem of | free will | German Philosophy: in the 18th centur
 
 The co-authors jointly authored Section 1 (“Overview”). Fugate wrote most of Section 2 (“Kant’s Pre-Critical Religious Thought”) and provided input on Sections 3 and 4. Pasternack wrote the remaining material. The authors would like to acknowledge the contributions of Rob Gressis, who spent time reading through various drafts and offered valuable input for Section 4 (“Religion in the *Opus Postumum*”).
 
-[^ak-1900]: [AK] Königlichen Preußischen (later Deutschen) Akademie der Wissenschaften (ed.), 1900–, Kants gesammelte Schriften, Berlin: Georg Reimer (later Walter De Gruyter).
+[^königlichen-1900]: [AK] Königlichen Preußischen (later Deutschen) Akademie der Wissenschaften (ed.), 1900–, Kants gesammelte Schriften, Berlin: Georg Reimer (later Walter De Gruyter).
 
 [^correspondence-1999]: [C] *Correspondence*, Arnulf Zweig (trans. and ed.), Cambridge, Cambridge University Press, 1999. doi:10.1017/CBO9780511527289
 
-[^tppre-1755]: [TPpre] *Theoretical Philosophy 1755–1770*, David Walford (trans. and ed.), Cambridge, Cambridge University Press, 1992. doi:10.1017/CBO9780511840180
+[^theoretical-1755]: [TPpre] *Theoretical Philosophy 1755–1770*, David Walford (trans. and ed.), Cambridge, Cambridge University Press, 1992. doi:10.1017/CBO9780511840180
 
-[^rrt-1996]: [RRT] *Religion and Rational Theology*, Allen W. Wood and George di Giovanni (eds. & trans.), Cambridge: Cambridge University Press, 1996. doi:10.1017/CBO9780511814433
+[^religion-1996]: [RRT] *Religion and Rational Theology*, Allen W. Wood and George di Giovanni (eds. & trans.), Cambridge: Cambridge University Press, 1996. doi:10.1017/CBO9780511814433
 
-[^pp-1996]: [PP] *Immanuel Kant: Practical Philosophy*, Mary J. Gregor (ed.), Cambridge: Cambridge University Press, 1996. doi:10.1017/CBO9780511813306
+[^immanuel-1996]: [PP] *Immanuel Kant: Practical Philosophy*, Mary J. Gregor (ed.), Cambridge: Cambridge University Press, 1996. doi:10.1017/CBO9780511813306
 
 [^kant-religion-1755a]: 1755a, *A New Elucidation of the First Principles of Metaphysical Cognition*, TPpre: 1–45. [AK 1:385–416]
 
@@ -495,7 +495,7 @@ The co-authors jointly authored Section 1 (“Overview”). Fugate wrote most of
 
 [^kant-religion-1968]: 1968, *Metaphysik Volckmann*. [AK 28:355–459]
 
-[^op-1993]: [OP] *Opus Postumum*, unpublished at his death, Ekart Förster (ed.), Ekart Förster and Michael Rosen (trans.) Cambridge: Cambridge University Press, 1993. [AK 21 and AK 22] doi:10.1017/CBO9780511625169
+[^opus-1993]: [OP] *Opus Postumum*, unpublished at his death, Ekart Förster (ed.), Ekart Förster and Michael Rosen (trans.) Cambridge: Cambridge University Press, 1993. [AK 21 and AK 22] doi:10.1017/CBO9780511625169
 
 [^baumgarten-1739]: Baumgarten, Alexander Gottlieb, 1739, *Metaphysics: A Critical Translation with Kant’s Elucidations, Selected Notes, and Related Materials*, Courtney Fugate, and John Hymers (trans.), London: Bloomsbury, 2013.
 

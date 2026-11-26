@@ -359,7 +359,7 @@ Aristotle | doxography of ancient philosophy | Plato | Presocratic Philosophy | 
 
 [^diels-1898]: Diels, Hermann, 1898, “Über die Gedichte des Empedokles”, *Sitzungberichte der Preussischen Akademie der Wissenschaften*, 63: 396–415.
 
-[^dk-1951]: [DK] Diels, Hermann and Walther Kranz, 1951–2, *Die Fragmente der Vorsokratiker: griechish und deutsch*, 6th edition, 3 volumes, Berlin: WeidmannscheVerlagsbuchhandlung.
+[^diels-1951]: [DK] Diels, Hermann and Walther Kranz, 1951–2, *Die Fragmente der Vorsokratiker: griechish und deutsch*, 6th edition, 3 volumes, Berlin: WeidmannscheVerlagsbuchhandlung.
 
 [^ferella-2021]: Ferella, Chiara, 2021, “The Byzantine Scholia to Aristotle and Empedocles’ Cosmic Cycle”, *Mnemosyne*, 74(6): 978-1000. doi:10.1163/1568525X-BJA10010
 

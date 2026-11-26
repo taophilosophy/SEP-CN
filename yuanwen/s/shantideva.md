@@ -298,7 +298,7 @@ Buddha | ethics: in Indian Buddhism | Madhyamaka | Nāgārjuna | Śāntarakṣit
 
 [^compendium-1922]: *Śikshā-samuccaya: A Compendium of Buddhist Doctrine*, Cecil Bendall and W.H.D. Rouse (trans.), First published 1922; First Indian edition 1971. Delhi: Motilal Banarsidass.
 
-[^ss-g-2016]: [SS-G] *The Training Anthology of Śāntideva: A Translation of the Śikṣā-samuccaya*, Charles Goodman (trans.), New York: Oxford University Press, 2016.
+[^training-2016]: [SS-G] *The Training Anthology of Śāntideva: A Translation of the Śikṣā-samuccaya*, Charles Goodman (trans.), New York: Oxford University Press, 2016.
 
 [^harrison-2013]: Harrison, Paul, 2013 [2009], “Verses by Śāntideva in the *Śikṣāsamuccaya*: A New English Translation”, in *Evo ṣuyadi: Essays in Honor of Richard Salomon’s 65th Birthday* (*Bulletin of the Asia Institute* 23), Carol Altman Bromberg, Timothy J. Lenz, and Jason Neelis (eds), pp. 87–103.
 

@@ -523,7 +523,7 @@ cosmopolitanism | Dilthey, Wilhelm | dualism | egalitarianism | Hamann, Johann G
 
 [^outlines-1803]: *Outlines of a Philosophy of the History of Man*, T. Churchill (ed.), London: J. Johnson/L. Hansard, 1803. (This is a translation of the *Ideas*.)
 
-[^hpw-2002]: [**HPW**] *J.G. Herder: Philosophical Writings*, Michael N. Forster (trans. & ed.), Cambridge: Cambridge University Press, 2002. Contains translations of
+[^herder-2002]: [**HPW**] *J.G. Herder: Philosophical Writings*, Michael N. Forster (trans. & ed.), Cambridge: Cambridge University Press, 2002. Contains translations of
 
 [^how-1765]: *How Philosophy Can Become More Universal and Useful for the Benefit of the People* (1765), pages 3–30
 

@@ -747,6 +747,12 @@ def _render_bib(bib, hid_map, ledger):
                         dd_in = (_p_inner(ps[dd_i])
                                  if isinstance(dd_i, int) and dd_i < len(ps)
                                  else "")
+                        if (not dd_in and len(pair) > 4
+                                and isinstance(pair[4], int)
+                                and 0 <= pair[4] < len(items)):
+                            # specs/053 第五十八批：书目 dd 入定义流后 md 无散文段，
+                            # 文字从定义行（装配 items 与 md 定义行同序）取
+                            dd_in = items[pair[4]]
                         rows.append("<dt%s>%s</dt>\n<dd%s>%s</dd>"
                                     % (dt_a, dt_in, dd_a, dd_in))
                     if rows:

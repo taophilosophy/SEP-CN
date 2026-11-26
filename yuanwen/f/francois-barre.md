@@ -326,11 +326,11 @@ It is my honor to offer this replacement for the previous SEP entry on Poulain w
 
 [^francois-barre-1677]: 1677, *The Woman as Good as the Man: Or, The Equality of Both Sexes*, trans. A. L., London: N. Brooks.
 
-[^tten-2002]: [TTen], *Three Cartesian Feminist Treatises*, introduction by Marcelle Maistre Welch, translated by Vivien Bosley, Chicago & London: University of Chicago Press, 2002. Translations of *On the equality of the two sexes* (1673), *On the education of ladies* (1674), and *On the excellence of men* (1675).
+[^three-2002]: [TTen], *Three Cartesian Feminist Treatises*, introduction by Marcelle Maistre Welch, translated by Vivien Bosley, Chicago & London: University of Chicago Press, 2002. Translations of *On the equality of the two sexes* (1673), *On the education of ladies* (1674), and *On the excellence of men* (1675).
 
-[^ttfr-2011]: [TTfr], *De l’égalité des deux sexes, De l’éducation des dames, De l’excellence des hommes*, Marie-Frédérique Pellegrin (ed.), Paris: Vrin, 2011.
+[^de-2011]: [TTfr], *De l’égalité des deux sexes, De l’éducation des dames, De l’excellence des hommes*, Marie-Frédérique Pellegrin (ed.), Paris: Vrin, 2011.
 
-[^t1en-1673]: [T1en], *A Physical and Moral Discourse Concerning the Equality of Both Sexes*, translation of Poulain 1673 in C-trans: 119–200, 2013.
+[^physical-1673]: [T1en], *A Physical and Moral Discourse Concerning the Equality of Both Sexes*, translation of Poulain 1673 in C-trans: 119–200, 2013.
 
 [^agrippa-1990]: Agrippa von Nettesheim, Henricus Cornelius, 1509/1529, *De nobilitate et praecellentia foeminei sexus*, R. Antonioli (ed.), Geneva: Librairie Droz, 1990. Translated as *Declamation on the Nobility and Preeminence of the Female Sex*, Albert Rabil, Jr. (trans. and ed.), Chicago & London: University of Chicago Press, 1996.
 

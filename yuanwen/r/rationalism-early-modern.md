@@ -276,7 +276,7 @@ In Amo scholarship, the two main discussions of intention are Menn and Smith 202
 
 #### 3.4.2 Margaret Cavendish on the Order of Nature
 
-The order of material nature is a prominent theme in Cavendish’s metaphysics. She holds that nature is composed of infinitely many parts exhibiting infinitely various motions, which gives rise to a fundamentally diverse and ever-changing flux of matter. (PPO 1663, 6–10)[^ppo-1663] Additionally, she holds that this flux of matter exhibits order. Cavendish writes, “Nature hath but One Law, which is a wise Law, viz., to keep Infinite matter in order” (PL, 2.5). The order of nature can be understood in various ways. Some interpreters argue that Cavendish is committed to a teleological conception of nature wherein every action is guided either by an intelligence or by the norms of nature (Detlefsen 2007, Cunning 2016)[^cunning-2016][^detlefsen-2007]. Others focus on how nature establishes order by counterbalancing infinitely various motions and figures (Boyle 2017, McNulty 2018)[^boyle-2017][^mcnulty-2018]. The order of nature is one of Cavendish’s main disagreements with atomism, which in her view represents nature as a disorderly flux (PPO 1655, “A Condemning Treatise of Atomes”)[^ppo-1655].
+The order of material nature is a prominent theme in Cavendish’s metaphysics. She holds that nature is composed of infinitely many parts exhibiting infinitely various motions, which gives rise to a fundamentally diverse and ever-changing flux of matter. (PPO 1663, 6–10) Additionally, she holds that this flux of matter exhibits order. Cavendish writes, “Nature hath but One Law, which is a wise Law, viz., to keep Infinite matter in order” (PL, 2.5). The order of nature can be understood in various ways. Some interpreters argue that Cavendish is committed to a teleological conception of nature wherein every action is guided either by an intelligence or by the norms of nature (Detlefsen 2007, Cunning 2016)[^cunning-2016][^detlefsen-2007]. Others focus on how nature establishes order by counterbalancing infinitely various motions and figures (Boyle 2017, McNulty 2018)[^boyle-2017][^mcnulty-2018]. The order of nature is one of Cavendish’s main disagreements with atomism, which in her view represents nature as a disorderly flux (PPO 1655, “A Condemning Treatise of Atomes”).
 
 Cavendish holds that nature’s order is intrinsically intelligible. Nature exhibits order only because it is self-knowing and perceptive. She writes, “If Nature were not Self-knowing, Self-living, and also Perceptive, she would run into Confusion: for, there could be neither Order, nor Method, in Ignorant motion” (GNP, 7). Ignorant motion is impossible because every action that takes place in nature happens within the influence of nature’s self-knowledge and perception. Ignorance would require absolute freedom and separability from the rest of material nature, which more properly characterize the rival view of atomism (PL, 1.29). Since such a separation is impossible, every part of nature is subject to nature’s self-knowing order.
 
@@ -372,39 +372,39 @@ All references to Spinoza’s *Ethics* start with *E* and the Part Numbers (1–
 
 Cavendish, Margaret Lucas | Descartes, René | Descartes, René: epistemology | Descartes, René: method | Descartes, René: modal metaphysics | Desgabets, Robert | feminist philosophy, interventions: history of philosophy | Hobbes, Thomas | innateness: historical controversies | Kant, Immanuel | Leibniz, Gottfried Wilhelm | Leibniz, Gottfried Wilhelm: modal metaphysics | Locke, John | Malebranche, Nicolas: theory of ideas and vision in God | principle of sufficient reason | Spinoza, Baruch: epistemology and philosophy of mind | Spinoza, Baruch: modal metaphysics
 
-[^at-1996]: [AT] *Oeuvres de Descartes*. 11 vols. Edited by Charles Adam and Paul Tannery. Paris: Vrin/CNRS, new edition 1996.
+[^oeuvres-1996]: [AT] *Oeuvres de Descartes*. 11 vols. Edited by Charles Adam and Paul Tannery. Paris: Vrin/CNRS, new edition 1996.
 
-[^csm-1984]: [CSM] *Philosophical Writings of Descartes*. 3 vols. Edited and translated by John Cottingham, Robert Stoothoff, Dugald Murdoch, and Anthony Kenny. Cambridge: Cambridge University Press, 1984–1991.
+[^philosophical-1984]: [CSM] *Philosophical Writings of Descartes*. 3 vols. Edited and translated by John Cottingham, Robert Stoothoff, Dugald Murdoch, and Anthony Kenny. Cambridge: Cambridge University Press, 1984–1991.
 
-[^rd-1983]: [RD] *Supplément à la Philosophie de Monsieur Descartes*, in *Robert Desgabets: Œuvres complètes*, 7 vols., A. Beaulieu and G. Rodis-Lewis (eds.), Amsterdam: APA-Holland University Press, 1983–1985.
+[^supplément-1983]: [RD] *Supplément à la Philosophie de Monsieur Descartes*, in *Robert Desgabets: Œuvres complètes*, 7 vols., A. Beaulieu and G. Rodis-Lewis (eds.), Amsterdam: APA-Holland University Press, 1983–1985.
 
 [^collected-1985]: *The Collected Writings of Spinoza*. Translated by Edwin Curley. Princeton: Princeton University Press, vol. 1: 1985; vol. 2: 2016.
 
 [^sa-1923]: [A] *Sämtliche Schriften und Briefe.* Edited by Deutsche Akademie der Wissenschaften, Darmstadt and Berlin. 1923–. cited by series, volume, and page.
 
-[^ag-1989]: [AG] *Philosophical Essays*. Translated and edited by Roger Ariew and Dan Garber. Indianapolis: Hackett, 1989.
+[^philosophical-1989]: [AG] *Philosophical Essays*. Translated and edited by Roger Ariew and Dan Garber. Indianapolis: Hackett, 1989.
 
-[^gp-1875]: [GP] *Die philosophischen Schriften*. 7 vols. Edited by C. I. Gerhardt. Berlin, 1875–1890. Reprint, Hildesheim: Georg Olms, 1965.
+[^die-1875]: [GP] *Die philosophischen Schriften*. 7 vols. Edited by C. I. Gerhardt. Berlin, 1875–1890. Reprint, Hildesheim: Georg Olms, 1965.
 
-[^ne-1996]: [NE] *New Essays on Human Understanding*. Translated by Peter Remnant and Jonathan Bennett. Cambridge University Press, 1996.
+[^new-1996]: [NE] *New Essays on Human Understanding*. Translated by Peter Remnant and Jonathan Bennett. Cambridge University Press, 1996.
 
-[^dissertation-1734]: [*Dissertation*] *Inaugural Dissertation on the Impassivity of the Human Mind*, 1734. In Stephen Menn and Justin E. H. Smith (eds.), *Anton Wilhelm Amo’s Philosophical Dissertations on Mind and Body*, Oxford University Press, 2020: 153–197.
+[^inaugural-1734]: [*Dissertation*] *Inaugural Dissertation on the Impassivity of the Human Mind*, 1734. In Stephen Menn and Justin E. H. Smith (eds.), *Anton Wilhelm Amo’s Philosophical Dissertations on Mind and Body*, Oxford University Press, 2020: 153–197.
 
 [^tractatus-1738]: [*Tractatus*] *Tractatus de arte sobrie et accurate philosophandi*, 1738. In T. U. Nwala (ed.) *William Amo’s Treatise on the Art of Philosophising Soberly and Accurately (with commentaries)*. William Amo Centre for African Philosophy, University of Nigeria, 1990.
 
 [^la-1662]: *La Logique, ou L’Art de penser*, 1662*.* Paris: Flammarion, 1970.
 
-[^wo-1655]: [WO] 1655. *The Worlds Olio Written by the Right Honorable, the Lady Margaret Newcastle*. 1655. London: printed for J. Martin and J. Allestrye. Available through Early English Books Online (EEBO). [[Cavendish [WO] available online](https://quod.lib.umich.edu/e/eebo/A53065.0001.001/1:7?rgn=div1;view=toc)]
+[^rationalism-early-modern-1655]: [WO] 1655. *The Worlds Olio Written by the Right Honorable, the Lady Margaret Newcastle*. 1655. London: printed for J. Martin and J. Allestrye. Available through Early English Books Online (EEBO). [[Cavendish [WO] available online](https://quod.lib.umich.edu/e/eebo/A53065.0001.001/1:7?rgn=div1;view=toc)]
 
-[^ppo-1655]: [PPO 1655] 1655. *Philosophical and Physical Opinions*. London: printed for William Wilson. Available through Digital Cavendish Project. [[Cavendish [PPO 1655] available online](http://digitalcavendish.org/complete-works/philosophical-and-physical-opinions-1655/)]
+[^rationalism-early-modern-1655-2]: [PPO 1655] 1655. *Philosophical and Physical Opinions*. London: printed for William Wilson. Available through Digital Cavendish Project. [[Cavendish [PPO 1655] available online](http://digitalcavendish.org/complete-works/philosophical-and-physical-opinions-1655/)]
 
-[^ppo-1663]: [PPO 1663] 1663. *Philosophical and Physical Opinions*. London: printed for William Wilson. Digital Edition edited by Marcy P. Lascano. [[Cavendish [PPO 1663] available online](https://cavendish-ppo.ku.edu/)]
+[^rationalism-early-modern-1663]: [PPO 1663] 1663. *Philosophical and Physical Opinions*. London: printed for William Wilson. Digital Edition edited by Marcy P. Lascano. [[Cavendish [PPO 1663] available online](https://cavendish-ppo.ku.edu/)]
 
-[^pl-1664]: [PL] 1664. *Philosophical Letters*. London: printed for J. Martin and J. Allestrye. Available through Early English Books Online (EEBO). [[Cavendish [PL] available online](https://quod.lib.umich.edu/e/eebo/A53065.0001.001/1:7?rgn=div1;view=toc)]
+[^rationalism-early-modern-1664]: [PL] 1664. *Philosophical Letters*. London: printed for J. Martin and J. Allestrye. Available through Early English Books Online (EEBO). [[Cavendish [PL] available online](https://quod.lib.umich.edu/e/eebo/A53065.0001.001/1:7?rgn=div1;view=toc)]
 
-[^oep-1666]: [OEP] 1666. *Observations upon Experimental Philosophy*. London: printed by A. Maxwell. Edition of 1668, revised and reprinted, London: A. Maxwell. Edition of 2012, edited by Eileen O’Neill, Cambridge: Cambridge University Press.
+[^rationalism-early-modern-1666]: [OEP] 1666. *Observations upon Experimental Philosophy*. London: printed by A. Maxwell. Edition of 1668, revised and reprinted, London: A. Maxwell. Edition of 2012, edited by Eileen O’Neill, Cambridge: Cambridge University Press.
 
-[^gnp-1668]: [GNP] 1668. *Grounds of Natural Philosophy*. London: printed by A. Maxwell. Available through Early English Books Online (EEBO). [[Cavendish [GNP] available online](https://quod.lib.umich.edu/e/eebo/A53045.0001.001/1:3.6.3?rgn=div3;view=toc)]
+[^rationalism-early-modern-1668]: [GNP] 1668. *Grounds of Natural Philosophy*. London: printed by A. Maxwell. Available through Early English Books Online (EEBO). [[Cavendish [GNP] available online](https://quod.lib.umich.edu/e/eebo/A53045.0001.001/1:3.6.3?rgn=div3;view=toc)]
 
 [^principia-1690]: *Principia philosophiae antiquissimae et recentissimae de Deo, Christo et Creatura id est de materia et spiritu in genere*. Amsterdam, 1690.
 
@@ -420,7 +420,7 @@ Cavendish, Margaret Lucas | Descartes, René | Descartes, René: epistemology | 
 
 [^selected-2014]: *Selected Works*. New York: Norton, 2014.
 
-[^sat-1997b]: [SAT] *The Search after Truth*, T. M. Lennon and P. J. Olscamp (trans.), New York: Cambridge University Press, 1997b; Columbus: Ohio State University Press, 1980.
+[^search-1997b]: [SAT] *The Search after Truth*, T. M. Lennon and P. J. Olscamp (trans.), New York: Cambridge University Press, 1997b; Columbus: Ohio State University Press, 1980.
 
 [^de-1673]: *De l’égalité des deux sexes: Discours physique et moral où l’on voit l’importance de se défaire des préjugés*. Paris: Jean du Puis, 1673.
 

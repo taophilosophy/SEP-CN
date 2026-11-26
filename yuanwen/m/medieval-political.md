@@ -447,13 +447,13 @@ al-Farabi | al-Farabi: philosophy of society and religion | Aquinas, Thomas | Aq
 
 [^ibn-nd]: Ibn Rushd/Averroes, *Commentary on Plato’s Republic*. Translated in
 
-[^republic-1969]: [*Republic A*] *Averroes’ Commentary on Plato’s Republic*, Franz Rosenthal (trans.) Cambridge: Cambridge University Press, 1969.
+[^averroes’-1969]: [*Republic A*] *Averroes’ Commentary on Plato’s Republic*, Franz Rosenthal (trans.) Cambridge: Cambridge University Press, 1969.
 
-[^republic-1974]: [*Republic B*] *Averroës on Plato’s Republic*, Ralph Lerner (trans.), Ithaca, NY: Cornell University Press, 1974.
+[^averroës-1974]: [*Republic B*] *Averroës on Plato’s Republic*, Ralph Lerner (trans.), Ithaca, NY: Cornell University Press, 1974.
 
-[^republic-1999]: –––, *ha-Beʼur ha-emtsaʻi shel Ibn Roshd le-Sefer ha-midot ʻal-shem Niḳomakhus le-Arisṭo* (Averroes’ Middle commentary on Aristotle’s Nicomachean ethics) (Corpus Averrois), Lawrence V. Berman (ed.). Samuel ben Judah (trans.), Yerushalayim: ha-Aḳademyah ha-leʼumit ha-Yiśreʼelit le-madaʻim, 1999.
+[^averroës-1999]: –––, *ha-Beʼur ha-emtsaʻi shel Ibn Roshd le-Sefer ha-midot ʻal-shem Niḳomakhus le-Arisṭo* (Averroes’ Middle commentary on Aristotle’s Nicomachean ethics) (Corpus Averrois), Lawrence V. Berman (ed.). Samuel ben Judah (trans.), Yerushalayim: ha-Aḳademyah ha-leʼumit ha-Yiśreʼelit le-madaʻim, 1999.
 
-[^republic-2001]: –––, *The Book of the Decisive Treatise Determining the Connection between the Law and Wisdom: &, Epistle Dedicatory* (Islamic Translation Series), Charles E. Butterworth (trans.), Provo, Utah: Brigham Young University Press, 2001.
+[^averroës-2001]: –––, *The Book of the Decisive Treatise Determining the Connection between the Law and Wisdom: &, Epistle Dedicatory* (Islamic Translation Series), Charles E. Butterworth (trans.), Provo, Utah: Brigham Young University Press, 2001.
 
 [^james-2009]: James of Viterbo, [*On Christian Government*], *De Regimine Christiano: A Critical Edition and Translation* (Brill’s Studies in Intellectual History 174), R. W. Dyson (ed./tran.), Leiden/Boston: Brill, 2009. References are of the form Latin page number/English page number. doi:10.1163/ej.9789004175976.i-334
 

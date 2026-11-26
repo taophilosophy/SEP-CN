@@ -265,7 +265,7 @@ Citations to Susman’s works given above reference the German editions and also
 
 Bloch, Ernst | Buber, Martin | Cohen, Hermann | Derrida, Jacques | Levinas, Emmanuel | Mendelssohn, Moses | Rosenzweig, Franz | Spinoza, Baruch
 
-[^juk-1907]: [JuK] 1907, “Judentum und Kultur” (Judaism and Culture), *Frankfurter Zeitung*, 16 May 1907, 1–2.
+[^susman-margarete-1907]: [JuK] 1907, “Judentum und Kultur” (Judaism and Culture), *Frankfurter Zeitung*, 16 May 1907, 1–2.
 
 [^susman-margarete-1910]: 1910, *Das Wesen der modernen deutschen Lyrik* (*The Character of Modern German Poetry*), Stuttgart: Strecker and Schröder.
 
@@ -281,7 +281,7 @@ Bloch, Ernst | Buber, Martin | Cohen, Hermann | Derrida, Jacques | Levinas, Emma
 
 [^susman-margarete-1926]: 1926, “Das Frauenproblem in der gegenwärtigen Welt” (The Question of the Woman in the World Today), *Der Morgen: Monatschrift der Juden in Deutschland*, 2(5): 431–452.
 
-[^aw-1928]: [AW] 1928, “Auflösung und Werden in unserer Zeit” (Dissolution and Becoming in Our Age), *Der Morgen: Monatschrift der Juden in Deutschland*, 4(4): 335–353.
+[^susman-margarete-1928]: [AW] 1928, “Auflösung und Werden in unserer Zeit” (Dissolution and Becoming in Our Age), *Der Morgen: Monatschrift der Juden in Deutschland*, 4(4): 335–353.
 
 [^susman-margarete-1929]: 1929 [1930], *Frauen der Romantik* (*Women of the Romantic Period*), Jena: Diederichs. Second edition revised 1930.
 
@@ -295,7 +295,7 @@ Bloch, Ernst | Buber, Martin | Cohen, Hermann | Derrida, Jacques | Levinas, Emma
 
 [^susman-margarete-1932-2]: 1932 [1946], “Moses Mendelssohn und seine Entscheidung” (Moses Mendelssohn and his Decision), *Blätter des jüdischen Frauenbundes für Fraenarbeit und Frauenbewegung*, 8(3/4); revised and reprinted 1946 in *Neue Wege*, 40: 339–364; reprinted in GK 259–286.
 
-[^wf-1933]: [WF] 1933, “Wandlungen der Frau” (Transformations of the Woman), *Die neue Rundschau*, 44: 105–124; reprinted GK: 160–177.
+[^susman-margarete-1933]: [WF] 1933, “Wandlungen der Frau” (Transformations of the Woman), *Die neue Rundschau*, 44: 105–124; reprinted GK: 160–177.
 
 [^susman-margarete-1935a]: 1935a, “Stifters Abdias”, *Der Morgen*, 11(1): 27–37; reprinted as a “Nachwort” (postface) in an edition of *Abdias : Erzählung*, by Adalbert Stifter, (Bücherei des Schocken Verlags 31), Berlin: Schocken Verlag, 1935.
 
@@ -307,23 +307,23 @@ Bloch, Ernst | Buber, Martin | Cohen, Hermann | Derrida, Jacques | Levinas, Emma
 
 [^susman-margarete-1951]: 1951, *Deutung einer grossen Liebe: Goethe und Charlotte von Stein* (*Interpretation of a Great Love: Goethe and Charlotte von Stein*), Zürich/Stuttgart: Artemis.
 
-[^gk-1954]: [GK] 1954, *Gestalten und Kreise* (*Figures and Circles*), Zurich: Diana.
+[^susman-margarete-1954]: [GK] 1954, *Gestalten und Kreise* (*Figures and Circles*), Zurich: Diana.
 
-[^susman-margarete-1954]: 1954, “Die Friedensbotschaft der Propheten” (The Prophets’ “Message of Peace”), Festschrift zum 50 jährigen Bestehen, Schweizerischer Israelitischer Gemeindebund (ed.), Zurich: Schweizerischer Israelitischer Gemeindebund, 265–272; reprinted in DBG 132–144.
+[^susman-margarete-1954-2]: 1954, “Die Friedensbotschaft der Propheten” (The Prophets’ “Message of Peace”), Festschrift zum 50 jährigen Bestehen, Schweizerischer Israelitischer Gemeindebund (ed.), Zurich: Schweizerischer Israelitischer Gemeindebund, 265–272; reprinted in DBG 132–144.
 
-[^dbg-1955]: [DBG] 1955, *Deutung biblischer Gestalten* (*Interpretation of Biblical Figures*), Zurich: Diana.
+[^susman-margarete-1955]: [DBG] 1955, *Deutung biblischer Gestalten* (*Interpretation of Biblical Figures*), Zurich: Diana.
 
 [^susman-margarete-1959]: 1959, *Die geistige Gestalt Georg Simmels* (*Georg Simmel’s Intellectual Contour*), Tübingen: Mohr (Siebeck).
 
 [^susman-margarete-1964]: 1964, *Ich habe viele Leben gelebt: Erinnerungen* (*I have lived many lives*), Stuttgart: Deutsche Verlagsanstalt.
 
-[^gf-1965]: [GF] 1965, *Vom Geheimnis der Freiheit: Gesammelte Aufsätze 1914–1964*, Manfred Schlösser (ed.), Darmstadt and Zurich: Agora.
+[^susman-margarete-1965]: [GF] 1965, *Vom Geheimnis der Freiheit: Gesammelte Aufsätze 1914–1964*, Manfred Schlösser (ed.), Darmstadt and Zurich: Agora.
 
-[^nff-1992]: [NFF] 1992, *“Das Nah- und Fernsein des Fremden”: Essays und Briefe*, Ingeborg Nordmann (ed.), Frankfurt am Main: Jüdischer Verlag.
+[^susman-margarete-1992]: [NFF] 1992, *“Das Nah- und Fernsein des Fremden”: Essays und Briefe*, Ingeborg Nordmann (ed.), Frankfurt am Main: Jüdischer Verlag.
 
-[^mw-2015]: [MW] 2015, “Mächte im Weltgeschehen”, Elisa Klapheck (ed.), *Sinn und Form*, 5: 640–657.
+[^susman-margarete-2015]: [MW] 2015, “Mächte im Weltgeschehen”, Elisa Klapheck (ed.), *Sinn und Form*, 5: 640–657.
 
-[^rpe-2021]: [RPE] 2021, *Margarete Susman—Religious-Political Essays on Judaism*, Laura Radosh (trans.), Elisa Klapheck (ed.), New York: Palgrave. doi:10.1007/978-3-030-89474-0
+[^susman-margarete-2021]: [RPE] 2021, *Margarete Susman—Religious-Political Essays on Judaism*, Laura Radosh (trans.), Elisa Klapheck (ed.), New York: Palgrave. doi:10.1007/978-3-030-89474-0
 
 [^kircher-1906]: Kircher, Erwin, 1906, *Philosophie der Romantik*, Margarete Susman and Heinrich Simon (eds), Jena: Diederichs.
 

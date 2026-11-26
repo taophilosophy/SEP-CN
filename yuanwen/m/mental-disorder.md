@@ -9,7 +9,7 @@ Mental disorder is a widely contested concept and there are longstanding debates
 
 ## 1. Terminology
 
-The language here is highly contentious. There are exceptions, but in a long history mental disorders or illnesses have been characterized as “evil”, “sinful”, and “willful error” or, at the very least, regarded as unwelcome misfortune.[^note-1] With some regularity, conditions listed in the “*Diagnostic and Statistical Manual of Mental Disorders*” (DSM) of the American Psychiatric Association (APA 2013)[^apa-2013] and the “*International Classification of Disease*” (ICD) of the World Health Organization (WHO 2020)[^who-2020] have provided new classificatory titles and terminology, such revisions often solely aimed at reducing negative and stigmatizing associations. Authors cited in what follows use “mental disorder”, “psychiatric disability”, “psychiatric disorder”, “mental illness”, “madness”, “psychopathology”, and “neuro-atypicality”. Controversy attaches to these terms, as it does to particular diagnostic labels (such as “schizophrenia”). Because some would question whether these mental differences are forms of illness or disorder at all, the more neutral but rarely used, “mental difference” perhaps better accommodates each side of this controversy, so the choice of “disorder” here is for its greater familiarity, and not intended to promote a disorder or illness view.
+The language here is highly contentious. There are exceptions, but in a long history mental disorders or illnesses have been characterized as “evil”, “sinful”, and “willful error” or, at the very least, regarded as unwelcome misfortune.[^note-1] With some regularity, conditions listed in the “*Diagnostic and Statistical Manual of Mental Disorders*” (DSM) of the American Psychiatric Association (APA 2013)[^american-2013] and the “*International Classification of Disease*” (ICD) of the World Health Organization (WHO 2020)[^world-2020] have provided new classificatory titles and terminology, such revisions often solely aimed at reducing negative and stigmatizing associations. Authors cited in what follows use “mental disorder”, “psychiatric disability”, “psychiatric disorder”, “mental illness”, “madness”, “psychopathology”, and “neuro-atypicality”. Controversy attaches to these terms, as it does to particular diagnostic labels (such as “schizophrenia”). Because some would question whether these mental differences are forms of illness or disorder at all, the more neutral but rarely used, “mental difference” perhaps better accommodates each side of this controversy, so the choice of “disorder” here is for its greater familiarity, and not intended to promote a disorder or illness view.
 
 Three changes of language require special attention. With increasing frequency, the term “*illness*” in “mental illness” has been replaced by “*disorder*”, apparently without a consistent rationale beyond avoiding explicitly medical associations. In a parallel recent trend “the cognitive” and “cognition” are sometimes introduced as equivalents or replacements for “the mental”. This new language around “cognition” collapses the earlier faculty psychology divisions of affection and cognition: as much as doxastic states, emotions are “cognitive”.[^note-2] Finally, increasing use of “mental *and behavioral*”, sometimes shortened to “behavioral” (as in “behavioral health”), reflects substantive changes, such as the inclusion of addictions in the class of disorders and a preference for precisely measurable symptoms over subjective report.
 
@@ -29,7 +29,7 @@ A taxonomy of these varying foundational assumptions includes intersecting issue
 
 ## 3. The *Mental* in Mental Disorder
 
-In a once-common practice, mental or “functional” disorders were diagnosed just when no somatic traits were evident. Such language is now explicitly disavowed, eclipsed by a growing recognition that all disorders involve bodily states (APA 2013: 309; O’Leary 2021)[^apa-2013][^o’leary-2021]. Still, the “mental” in mental disorder is variously construed.
+In a once-common practice, mental or “functional” disorders were diagnosed just when no somatic traits were evident. Such language is now explicitly disavowed, eclipsed by a growing recognition that all disorders involve bodily states (APA 2013: 309; O’Leary 2021)[^american-2013][^o’leary-2021]. Still, the “mental” in mental disorder is variously construed.
 
 ### 3.1 Internal Causes and External Symptoms
 
@@ -37,7 +37,7 @@ On traditional, two-part models from cell pathology, dysfunctional organic proce
 
 On two-stage accounts both internal and external features form integral parts (Graham [2013] argues that this holds for prototypical disorders). Internal and external features are each included in the DSM definition of mental disorder:
 
-> a syndrome characterized by clinically significant disturbance in an individual’s cognition, emotion regulation, or behavior, that reflects a dysfunction in the psychological, biological *or* developmental processes underlying mental functioning. (APA 2013: 20, emphasis added)[^apa-2013]
+> a syndrome characterized by clinically significant disturbance in an individual’s cognition, emotion regulation, or behavior, that reflects a dysfunction in the psychological, biological *or* developmental processes underlying mental functioning. (APA 2013: 20, emphasis added)[^american-2013]
 
 The different positions on mental disorder just sketched—emphasizing internal conditions, observable manifestations (“symptoms”), and both—are discussed in Section 4. Each position exhibits vulnerabilities. Accounts stressing inherent features regularly rely on hypothetical entities or processes, expecting that future discoveries will reveal knowledge of causal mechanisms presently hidden from view (This position has a long history; see Murphy 2006, Tabb 2015)[^murphy-2006][^tabb-2015]. Often accounted for by its status as a new science, this faith has been sorely tested, thus far, by confused classifications, apparently ill-grounded research, and other liabilities, as well as incomplete models of mental dysfunction (see §4 and §6). If these impediments can be overcome, emphasis on internal causes may be expected to yield powerful explanatory models, laying the ground for targeted interventions and effective prevention and treatment (see the entry on Philosophy of Psychiatry). Placing emphasis on disabling or dysfunctional observable symptoms has comparable vulnerabilities. One setting’s dysfunctional mental symptom may be another’s normal, admired, or useful trait; and mental disorder must be distinguished conceptually from deviance, as well as from normal responses to the normal losses and setbacks that are common in human experience (see §4, §8, and §10).
 
@@ -71,11 +71,11 @@ Confidence that irrationality defines mental disorder is similarly eroded if, un
 
 Other depictions of disorder rely on one or both of the groups of traits around *harm, suffering*, and *distress*, on the one hand, and *disability, incapacity* and personal or behavioral *dysfunction*, on the other. These are the features noted in a series of influential prefatory remarks in the diagnostic and statistical manuals (the DSMs and ICDs). The wording of the fifth edition of the DSM introduces a disjunction:
 
-> Mental disorders are usually associated with significant distress *or* disability in social, occupational, or other important activities. (APA 2013 emphasis added)[^apa-2013]
+> Mental disorders are usually associated with significant distress *or* disability in social, occupational, or other important activities. (APA 2013 emphasis added)[^american-2013]
 
 A very similar passage from the ICD-11 is comparably qualified:
 
-> “Disorder”…is…a clinically recognizable set of symptoms or behavior associated *in most cases* with distress *and* with interference with personal functions. (WHO 2020, emphasis added)[^who-2020]
+> “Disorder”…is…a clinically recognizable set of symptoms or behavior associated *in most cases* with distress *and* with interference with personal functions. (WHO 2020, emphasis added)[^world-2020]
 
 Psychodynamic or psychoanalytic presuppositions may posit underlying distresses that are masked or submerged within the psyche; and the elusive phenomenology of some conditions suggests the presence of nameless existential anxieties hidden from awareness (Ratcliffe 2008, 2017)[^ratcliffe-2008][^ratcliffe-2017]. But such explanations aside, distress has been widely regarded as a ubiquitous feature of disorder. In symptom-focused accounts laying stress on the *consequences* of the syndrome, distress becomes prominent as a form of disabling dysfunction (Stein et al. 2010)[^stein-2010]. Instead of separate criteria (and either singly or jointly sufficient for disorder, as in the respective DSM and ICD definitions above), suffering and dysfunction are conjoined on a “distress-impairment” analysis, where disorder status is assigned with (and defined by) distress that is “unmanageable or disabling” (Bolton 2013)[^bolton-2013]. The plausibility of this analysis increases with what have been called “distress related conditions”, such as depression and anxiety, that are “more constitutive of the illness” (Bolton 2012: 10; also see §4)[^bolton-2012].
 
@@ -270,9 +270,9 @@ Several colleagues offered suggestions about earlier drafts of this entry, for w
 
 [^note-1]: In some traditions, madness and particularly melancholy, have been valorized, and recently, such disorder is celebrated in a literature on mad pride, as well as in particular first person memoirs (see Rashed 2019)[^rashed-2019]. Similar acknowledgment is associated with the so-called neuro-diversity model, in contrast to the medical one, within which the manifestations of mental disorder are neither worse, nor better, but merely atypical. (And as Ginger Hoffman has illustrated, no findings from neuroscience can adjudicate between these different conceptions (Hoffman 2019)[^hoffman-2019].
 
-[^note-2]: Somewhat confusingly, the sub-group “neurocognitive disorders” within orthodox classifications still refers to cognitive function narrowly construed (APA 2013: 591)[^apa-2013].
+[^note-2]: Somewhat confusingly, the sub-group “neurocognitive disorders” within orthodox classifications still refers to cognitive function narrowly construed (APA 2013: 591)[^american-2013].
 
-[^note-3]: With recent renaming (now, “somatic symptom disorders”), it is required that as well as somatic symptoms, diagnostic criteria include significant mental distress, and observable impairment (APA 2013)[^apa-2013].
+[^note-3]: With recent renaming (now, “somatic symptom disorders”), it is required that as well as somatic symptoms, diagnostic criteria include significant mental distress, and observable impairment (APA 2013)[^american-2013].
 
 [^note-4]: That in writing about madness, Aristotle seems to have envisioned something like our contemporary observations is evidenced in references to apparently delusionally-motivated actions: the slave who ate the liver of his fellow, and the man who sacrificed and ate his mother (Nicomachean Ethics, book 7, 1148b25–30, quoted by Harcourt 2013: 49).
 
@@ -294,7 +294,7 @@ Several colleagues offered suggestions about earlier drafts of this entry, for w
 
 [^amundson-2007]: Amundson, Ron and Shari Tresky, 2007, “On a Bioethical Challenge to Disability Rights”, *Journal of Medicine and Philosophy*, 32(6): 541–561. doi:10.1080/03605310701680924
 
-[^apa-2013]: [APA] American Psychiatric Association, 2013, *Diagnostic and Statistical Manual of Mental Disorders*, fifth edition, Washington DC: American Psychiatric Association.
+[^american-2013]: [APA] American Psychiatric Association, 2013, *Diagnostic and Statistical Manual of Mental Disorders*, fifth edition, Washington DC: American Psychiatric Association.
 
 [^baron-cohen-2013]: Baron-Cohen, Simon, Michael Lombardo, and Helen Tager-Flusberg (eds.), 2013, *Understanding Other Minds: Perspectives from Developmental Social Neuroscience*, Oxford: Oxford University Press. doi:10.1093/acprof:oso/9780199692972.001.0001
 
@@ -822,7 +822,7 @@ Several colleagues offered suggestions about earlier drafts of this entry, for w
 
 [^whitaker-2015]: Whitaker, Robert and Lisa Cosgrove, 2015, *Psychiatry under the Influence: Institutional Corruption, Social Injury and Prescriptions for Reform*, New York: Palgrave Macmillan.
 
-[^who-2020]: [WHO] World Health Organization, 2020, *The ICD-11 Classification of Mental and Behavioural Disorders*, Geneva: World Health Organization.
+[^world-2020]: [WHO] World Health Organization, 2020, *The ICD-11 Classification of Mental and Behavioural Disorders*, Geneva: World Health Organization.
 
 [^wickham-2016]: Wickham, Sophie and Richard Bentall, 2016, “Are Specific Early-Life Adversities Associated With Specific Symptoms of Psychosis?: A Patient Study Considering Just World Beliefs as a Mediator”, *The Journal of Nervous and Mental Disease*, 204(8): 606–613. doi:10.1097/NMD.0000000000000511
 

@@ -633,7 +633,7 @@ On this view, forgiveness should come after atonement.
 
 [^note-23]: Both Garvey and Radzik (2009: 101f) argue that the same goes for self-punishment, which they describe as a sort of penance.
 
-[^note-24]: God is a person or God is personal, according to these traditions (although how to understand these claims, and which is to be preferred, is disputed; see, e.g., Swinburne 1977 [2016]; Thatcher 1985; Davies 2020)[^davies-2020][^swinburne-1977][^thatcher-1985]. God can be wronged. According to Anselm, “to sin is nothing other than not to give God what is owed to him” (*CDH* I.11, Davies & Evans 1998)[^cdh-1998][^cdh-1998-2][^davies-1998] and many monotheists in the Judeo-Christian tradition would say that humans owe God obedience and love (see the SEP entry on sin in christian thought). To sin, then, is to wrong God. Wronging God results in a ruptured relationship with God and a need for humans to atone for, make amends for, and expiate their sin.
+[^note-24]: God is a person or God is personal, according to these traditions (although how to understand these claims, and which is to be preferred, is disputed; see, e.g., Swinburne 1977 [2016]; Thatcher 1985; Davies 2020)[^davies-2020][^swinburne-1977][^thatcher-1985]. God can be wronged. According to Anselm, “to sin is nothing other than not to give God what is owed to him” (*CDH* I.11, Davies & Evans 1998)[^cdh-1998][^davies-1998] and many monotheists in the Judeo-Christian tradition would say that humans owe God obedience and love (see the SEP entry on sin in christian thought). To sin, then, is to wrong God. Wronging God results in a ruptured relationship with God and a need for humans to atone for, make amends for, and expiate their sin.
 
 [^note-25]: According to the Christian doctrine of incarnation, God the Son can be physically and emotionally harmed and threatened in his human nature.
 
@@ -713,9 +713,9 @@ The theory faces several objections. First, repentance appears to be something t
 
 [^anderson-2009]: Anderson, Gary, 2009, *Sin: A History*, New Haven, CT: Yale University Press.
 
-[^cdh-1998-2]: [*CDH*] Anselm, c. 1098 [1998], *Cur Deus Homo*. Translated as “Why God Became Man”, in Davies and Evans 1998: 260–356.
+[^anselm-1998]: [*CDH*] Anselm, c. 1098 [1998], *Cur Deus Homo*. Translated as “Why God Became Man”, in Davies and Evans 1998: 260–356.
 
-[^st-nd-2]: [*ST*] Aquinas, Thomas, 1267–73, *Summa theologica*. See the entry on Aquinas especially the bibliography.
+[^aquinas-nd]: [*ST*] Aquinas, Thomas, 1267–73, *Summa theologica*. See the entry on Aquinas especially the bibliography.
 
 [^aspenson-1990]: Aspenson, Steven S., 1990, “In Defense of Anselm”, *History of Philosophy Quarterly*, 7(1): 33–45.
 
@@ -883,7 +883,7 @@ The theory faces several objections. First, repentance appears to be something t
 
 [^hodges-1955]: Hodges, H.A., 1955, *The Pattern of Atonement*, London: SCM Press.
 
-[^ah-nd-2]: [*AH*] Irenaeus, c. 180 CE, *Adversus Haereses* (*Against Heresies*), originally in Greek though much is known only from Latin translations.
+[^irenaeus-nd]: [*AH*] Irenaeus, c. 180 CE, *Adversus Haereses* (*Against Heresies*), originally in Greek though much is known only from Latin translations.
 
 [^isaacs-2011]: Isaacs, Tracy Lynn, 2011, *Moral Responsibility in Collective Contexts*, Oxford/New York: Oxford University Press. doi:10.1093/acprof:oso/9780199782963.001.0001
 

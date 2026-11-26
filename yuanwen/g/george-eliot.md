@@ -302,17 +302,17 @@ aesthetics: 19th Century Romantic | Aristotle | Beauvoir, Simone de | Comte, Aug
 
 [^all-1878]: All references to George Eliot’s fictional works are to the Cabinet Edition of her works. These volumes were all published in 1878 by John Blackwood in Edinburgh, with the exception of *Impressions of Theophrastus Such* which was published in 1879.
 
-[^scl-1858]: [SCL] 1858, [*Scenes of Clerical Life*](https://georgeeliotarchive.org/items/show/6) (two volumes), London/Edinburgh: William Blackwood and Sons. Collects three previously published stories including:
+[^george-eliot-1858]: [SCL] 1858, [*Scenes of Clerical Life*](https://georgeeliotarchive.org/items/show/6) (two volumes), London/Edinburgh: William Blackwood and Sons. Collects three previously published stories including:
 
 [^george-eliot-1857]: 1857, “Janet’s Repentance”, *Blackwood’s Edinburgh Magazine*, 82: 55–76, 189–206, 329–344, 457–473, 519–541. Cabinet edition SCL 2: 39–317
 
 [^george-eliot-1859]: 1859 [1878], “The Lifted Veil”, *Blackwood’s Edinburgh Magazine*, 86: 24–47. Reprinted, 1878, Cabinet edition 2: 275–342. [[“The Lifted Veil” available online](https://georgeeliotarchive.org/items/show/2789)]
 
-[^ab-1859]: [AB] 1859, [*Adam Bede*](https://georgeeliotarchive.org/items/show/21) (two volumes), London/Edinburgh: William Blackwood and Sons.
+[^george-eliot-1859-2]: [AB] 1859, [*Adam Bede*](https://georgeeliotarchive.org/items/show/21) (two volumes), London/Edinburgh: William Blackwood and Sons.
 
-[^mf-1860]: [MF] 1860, [*The Mill on the Floss*](https://georgeeliotarchive.org/items/show/10) (three volumes), London/Edinburgh: William Blackwood and Sons.
+[^george-eliot-1860]: [MF] 1860, [*The Mill on the Floss*](https://georgeeliotarchive.org/items/show/10) (three volumes), London/Edinburgh: William Blackwood and Sons.
 
-[^sm-1861]: [SM] 1861, [*Silas Marner*](https://georgeeliotarchive.org/items/show/594), London/Edinburgh: William Blackwood and Sons.
+[^george-eliot-1861]: [SM] 1861, [*Silas Marner*](https://georgeeliotarchive.org/items/show/594), London/Edinburgh: William Blackwood and Sons.
 
 [^george-eliot-1863]: 1863, [*Romola*](https://georgeeliotarchive.org/items/show/55858) (three volumes), London/Edinburgh: William Blackwood and Sons.
 
@@ -320,9 +320,9 @@ aesthetics: 19th Century Romantic | Aristotle | Beauvoir, Simone de | Comte, Aug
 
 [^george-eliot-1871]: [M] 1871–72, [*Middlemarch*](https://georgeeliotarchive.org/items/show/13) (four volumes [three volumes in the Cabinet edition]), London/Edinburgh: William Blackwood and Sons.
 
-[^dd-1876]: [DD] 1876, [*Daniel Deronda*](https://georgeeliotarchive.org/items/show/19) (four volumes [three volumes in the Cabinet edition]), London/Edinburgh: William Blackwood and Sons.
+[^george-eliot-1876]: [DD] 1876, [*Daniel Deronda*](https://georgeeliotarchive.org/items/show/19) (four volumes [three volumes in the Cabinet edition]), London/Edinburgh: William Blackwood and Sons.
 
-[^its-1879]: [ITS] 1879, [*Impressions of Theophrastus Such*](https://georgeeliotarchive.org/items/show/2), London/Edinburgh: William Blackwood and Sons.
+[^george-eliot-1879]: [ITS] 1879, [*Impressions of Theophrastus Such*](https://georgeeliotarchive.org/items/show/2), London/Edinburgh: William Blackwood and Sons.
 
 [^george-eliot-1852]: 1852 with John Chapman, “Prospectus of the Westminster and Foreign Quarterly Review, Under the Direction of New Editors”, *Westminster Review*, vol. 57, January 1852, London: John Chapman.
 
@@ -350,7 +350,7 @@ aesthetics: 19th Century Romantic | Aristotle | Beauvoir, Simone de | Comte, Aug
 
 [^feuerbach-1854]: Feuerbach, Ludwig, 1854, *The Essence of Christianity*, translated by Marian Evans from the second German edition of *Das Wesen des Christentums*, London: Edward Chapman and William Hall. The original German version was published in 1841. [[Evans translation of Feuerbach 1854 available online](https://archive.org/details/dli.ministry.01993/page/n1/mode/2up)]
 
-[^ethics-1856]: [*Ethics*] de Spinoza, Benedict, *The Ethics of Benedict de Spinoza*, translated by George Eliot in 1856 but not published in her lifetime. Her translation was later published as *Spinoza’s Ethics, translated by George Eliot*, Clare Carlisle (ed.), Princeton, NJ: Princeton University Press, 2020.
+[^spinoza-1856]: [*Ethics*] de Spinoza, Benedict, *The Ethics of Benedict de Spinoza*, translated by George Eliot in 1856 but not published in her lifetime. Her translation was later published as *Spinoza’s Ethics, translated by George Eliot*, Clare Carlisle (ed.), Princeton, NJ: Princeton University Press, 2020.
 
 [^mill-1843]: Mill, John Stuart, 1843 [1889], *A System of Logic, Ratiocinative and Inductive*, 2 volumes, London: J. W. Parker. People’s edition, London: Longmans, Green and Co. 1889.
 

@@ -283,7 +283,7 @@ Arabic and Islamic Philosophy, historical and methodological topics in: influenc
 
 [^opera-2010]: *Opera homiletica*, 2010–2013, Franco Morenzoni (ed.), 4 vols., Turnhout: Brepols [vol. 1: *Sermones de tempore*, I–CXXXV (CCCM 230); vol. 2: *Sermones de tempore*, CXXXVI–CCCXXIII (CCCM 230A); vol. 3: *Sermones de sanctis* (CCCM 230B); vol. 4: *Sermones de communi sanctorum et de occasionibus* (CCCM 230C)]. Critical edition of all sermons attributable to William.
 
-[^oo-1674]: [OO] *Opera omnia*, 1674, 2 vols., ed. F. Hotot, with *Supplementum*, ed. Blaise Le Feron, Orléans-Paris; reprinted Frankfurt am Main: Minerva, 1963. This edition remains the standard text for a large number of William’s writings. Available online from the links listed below.
+[^opera-1674]: [OO] *Opera omnia*, 1674, 2 vols., ed. F. Hotot, with *Supplementum*, ed. Blaise Le Feron, Orléans-Paris; reprinted Frankfurt am Main: Minerva, 1963. This edition remains the standard text for a large number of William’s writings. Available online from the links listed below.
 
 [^bülow-1897]: Bülow, Georg (ed.), 1897, *Des Dominicus Gundissalinus Schrift von der Unsterblichkeit der Seele nebst einem Anhange, enthaltend die Abhandlung des Wilhelm von Paris (Auvergne)* De immortalitate animae (Beiträge zur Geschichte der Philosophie des Mittelalters, II, 3), Münster: Aschendorff. An edition of *De immortalitate animae*. Bülow’s attribution of this work to Dominicus Gundissalinus is now generally rejected.
 

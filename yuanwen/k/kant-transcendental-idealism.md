@@ -946,7 +946,7 @@ But assuming that classes of properties are *entities* then “phenomena” and 
 
 [^note-71]: 71\. Cf. B71 and a long passage in the Pölitz lectures on theology (Ak. 28: 1053–4) where Kant expresses agnosticism about whether, after death, our separated souls might be able to cognize things in themselves.
 
-[^ak-1900]: [Ak.] Königlichen Preußischen (later Deutschen) Akademie der Wissenschaften (ed.), 1900–, *Kants gesammelte Schriften*, Berlin: Georg Reimer (later Walter De Gruyter).
+[^königlichen-1900]: [Ak.] Königlichen Preußischen (later Deutschen) Akademie der Wissenschaften (ed.), 1900–, *Kants gesammelte Schriften*, Berlin: Georg Reimer (later Walter De Gruyter).
 
 [^guyer-1992]: Guyer, P. and A. Wood (eds.), 1992–, *The Cambridge Edition of the Works of Immanuel Kant*, Cambridge: Cambridge University Press.
 

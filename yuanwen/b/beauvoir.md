@@ -274,15 +274,15 @@ ambiguity | existentialism | feminist philosophy | feminist philosophy, approach
 
 [^beauvoir-1948]: 1948, *L’Amerique au jour le jour*, Paris: Editions Paul Marihein; translated as *America Day by Day*, P. Dudley [pseud.] (trans.), London: Duckworth, 1952.
 
-[^esn-1948]: [ESN] 1948, L’Existentialisme et la sagesse des nations, Paris: Nagel. A collection of some of her essays.
+[^beauvoir-1948-2]: [ESN] 1948, L’Existentialisme et la sagesse des nations, Paris: Nagel. A collection of some of her essays.
 
-[^ss-1949]: [SS] 1949, *Le Deuxième sexe*, Paris: Editions Gallimard.
+[^beauvoir-1949]: [SS] 1949, *Le Deuxième sexe*, Paris: Editions Gallimard.
 
 [^beauvoir-1953]: 1953, *The Second Sex*, H. M. Pashley (trans.), New York: Knopf.
 
 [^beauvoir-2010]: 2010, *The Second Sex*, C. Borde and S. Malovany-Chevallier (trans.), New York: Alfred A. Knopf.
 
-[^beauvoir-1949]: 1949, Review in *Les Temps Modernes*, 7(49): 943–949; translated as “A Review of The Elementary Structures of Kinship by Claude Lévi-Strauss”, Véronique Zaytzeff and Frederick Morrison (trans.), in FemW: 58–66.
+[^beauvoir-1949-2]: 1949, Review in *Les Temps Modernes*, 7(49): 943–949; translated as “A Review of The Elementary Structures of Kinship by Claude Lévi-Strauss”, Véronique Zaytzeff and Frederick Morrison (trans.), in FemW: 58–66.
 
 [^beauvoir-1950]: 1950, “It’s About Time Women Put a New Face on Love”, *Flair*, 1, 3, April, 76–77, translator unknown. Reprinted with some modifications in FemW: 76–80
 
@@ -408,17 +408,17 @@ ambiguity | existentialism | feminist philosophy | feminist philosophy, approach
 
 [^beauvoir-1998]: 1998, *A Transatlantic Love Affair: Letters to Nelson Algren*, Sylvie Le Bon de Beauvoir (ed.), New York: The New Press. Letters written in English.
 
-[^philw-2004]: [PhilW] 2004, *Philosophical Writings*, Margaret A. Simons (ed.) with Marybeth Timmerman, and Mary Beth Mader (eds.), (The Beauvoir Series), Urbana, IL: University of Illinois Press.
+[^beauvoir-2004]: [PhilW] 2004, *Philosophical Writings*, Margaret A. Simons (ed.) with Marybeth Timmerman, and Mary Beth Mader (eds.), (The Beauvoir Series), Urbana, IL: University of Illinois Press.
 
 [^beauvoir-2006]: 2006, *Diary of a Philosophy Student: Volume 1, 1926–27*, Barbara Klaw, Sylvie Le Bon de Beauvoir, and Margaret A. Simons (eds.), (The Beauvoir Series), Urbana, IL: University of Illinois Press,
 
 [^beauvoir-2009]: 2009, *Wartime Diary*, Anne Deing Cordero (trans.), Sylvie Le Bon de Beauvoir, and Margaret Simons (eds.), (The Beauvoir Series), Urbana, IL: University of Illinois Press.
 
-[^litw-2011]: [LitW] 2011, “The Useless Mouths” and Other Literary Writings, Margaret A. Simons, and Marybeth Timmerman (eds.), (The Beauvoir Series), Urbana, IL: University of Illinois Press.
+[^beauvoir-2011]: [LitW] 2011, “The Useless Mouths” and Other Literary Writings, Margaret A. Simons, and Marybeth Timmerman (eds.), (The Beauvoir Series), Urbana, IL: University of Illinois Press.
 
-[^polw-2012]: [PolW] 2012, *Political Writings*, Margaret A. Simons, Marybeth Timmerman, and Mary Beth Mader (eds.), (The Beauvoir Series), Urbana, IL: University of Illinois Press.
+[^beauvoir-2012-2]: [PolW] 2012, *Political Writings*, Margaret A. Simons, Marybeth Timmerman, and Mary Beth Mader (eds.), (The Beauvoir Series), Urbana, IL: University of Illinois Press.
 
-[^femw-2015]: [FemW] 2015, *Feminist Writings*, M.A. Simons and M.B. Timmerman (eds.), Urbana, IL: University of Illinois Press.
+[^beauvoir-2015]: [FemW] 2015, *Feminist Writings*, M.A. Simons and M.B. Timmerman (eds.), Urbana, IL: University of Illinois Press.
 
 [^beauvoir-2019]: 2019, *Diary of a Philosophy Student: Volume 2, 1926–27*, Barbara Klaw, Sylvie Le Bon de Beauvoir, and Margaret A. Simons (eds.), (The Beauvoir Series), Urbana, IL: University of Illinois Press.
 
@@ -544,7 +544,7 @@ ambiguity | existentialism | feminist philosophy | feminist philosophy, approach
 
 [^holveck-2002]: Holveck, Eleanore, 2002, *Simone de Beauvoir’s Philosophy of Lived Experience: Literature and Metaphysics*, Lanham, MD: Rowman and Littlefield Publishers.
 
-[^beauvoir-2012-2]: hooks, bell, 2012, “True Philosophers: Beauvoir and bell”, in *Beauvoir and Western Thought from Plato to Butler*, Shannon M. Mussett and William S. Wilkerson (eds.), Albany, NY: State University of New York Press, 227–236.
+[^beauvoir-2012-3]: hooks, bell, 2012, “True Philosophers: Beauvoir and bell”, in *Beauvoir and Western Thought from Plato to Butler*, Shannon M. Mussett and William S. Wilkerson (eds.), Albany, NY: State University of New York Press, 227–236.
 
 [^hutchings-2007]: Hutchings, Kimberly, 2007, “Simone de Beauvoir and the Ambiguous Ethics of Political Violence”, *Hypatia*, 22(3): 111–132. doi:10.1111/j.1527-2001.2007.tb01093.x
 

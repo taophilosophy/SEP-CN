@@ -256,47 +256,47 @@ abortion, ethics of | action | consequentialism | Davidson, Donald | double effe
 
 We would like to thank an editor for the *Stanford Encyclopedia of Philosophy* for his or her extremely helpful comments on earlier drafts. We would also like to thank Simon Blackburn, Roger Crisp, and John Schwenkler for their very helpful feedback on this essay.
 
-[^iwt-1959]: [IWT] *An Introduction to Wittgenstein’s Tractatus*, London: Hutchinson, 1959; 2nd edition, 1963; 3rd edition, 1971.
+[^an-1959]: [IWT] *An Introduction to Wittgenstein’s Tractatus*, London: Hutchinson, 1959; 2nd edition, 1963; 3rd edition, 1971.
 
-[^int-1957]: [INT] *Intention*, Oxford: Basil Blackwell, 1957; 2nd edition, 1963; reprinted in 2000 by Harvard University Press.
+[^intention-1957]: [INT] *Intention*, Oxford: Basil Blackwell, 1957; 2nd edition, 1963; reprinted in 2000 by Harvard University Press.
 
-[^thp-2002]: [THP] *Three Philosophers: Aristotle, Aquinas, Frege*, with Peter Geach, Oxford: Basil Blackwell, 2002.
+[^three-2002]: [THP] *Three Philosophers: Aristotle, Aquinas, Frege*, with Peter Geach, Oxford: Basil Blackwell, 2002.
 
-[^fpw-1981]: [FPW] *From Parmenides to Wittgenstein (The Collected Philosophical Papers of G. E. M. Anscombe, Volume 1)*, Minneapolis, MN: University of Minnesota Press, 1981.
+[^from-1981]: [FPW] *From Parmenides to Wittgenstein (The Collected Philosophical Papers of G. E. M. Anscombe, Volume 1)*, Minneapolis, MN: University of Minnesota Press, 1981.
 
-[^mpm-1981]: [MPM] *Metaphysics and the Philosophy of Mind (The Collected Philosophical Papers of G. E. M. Anscombe, Volume 2)*, Minneapolis, MN: University of Minnesota Press, 1981.
+[^metaphysics-1981]: [MPM] *Metaphysics and the Philosophy of Mind (The Collected Philosophical Papers of G. E. M. Anscombe, Volume 2)*, Minneapolis, MN: University of Minnesota Press, 1981.
 
-[^erp-1981]: [ERP] *Ethics, Religion and Politics (The Collected Philosophical Papers of G. E. M. Anscombe, Volume 3)*, Minneapolis, MN: University of Minnesota Press, 1981.
+[^ethics-1981]: [ERP] *Ethics, Religion and Politics (The Collected Philosophical Papers of G. E. M. Anscombe, Volume 3)*, Minneapolis, MN: University of Minnesota Press, 1981.
 
-[^hae-2005]: [HAE] *Human Life, Action, and Ethics: Essays by G. E. M. Anscombe (St. Andrews Studies in Philosophy and Public Affairs, Volume IV)*, M. Geach and L. Gormally (eds.), Exeter: Imprint Academic, 2005.
+[^human-2005]: [HAE] *Human Life, Action, and Ethics: Essays by G. E. M. Anscombe (St. Andrews Studies in Philosophy and Public Affairs, Volume IV)*, M. Geach and L. Gormally (eds.), Exeter: Imprint Academic, 2005.
 
-[^fhg-2008]: [FHG] *Faith in a Hard Ground: Essays on Religion, Philosophy, and Ethics*, Mary Geach and Luke Gormally (eds.), Exeter: Imprint Academic, 2008.
+[^faith-2008]: [FHG] *Faith in a Hard Ground: Essays on Religion, Philosophy, and Ethics*, Mary Geach and Luke Gormally (eds.), Exeter: Imprint Academic, 2008.
 
-[^fpw-2015]: [FPW] *From Plato to Wittgenstein: Essays by G. E. M. Anscombe*, M. Geach and L. Gormally (eds.), Exeter: Imprint Academic, 2015.
+[^from-2015]: [FPW] *From Plato to Wittgenstein: Essays by G. E. M. Anscombe*, M. Geach and L. Gormally (eds.), Exeter: Imprint Academic, 2015.
 
-[^ltm-2015]: [LTM] *Logic, Truth and Meaning: Writings by G. E. M. Anscombe*, M. Geach and L. Gormally (eds.), Exeter: Imprint Academic, 2015.
+[^logic-2015]: [LTM] *Logic, Truth and Meaning: Writings by G. E. M. Anscombe*, M. Geach and L. Gormally (eds.), Exeter: Imprint Academic, 2015.
 
-[^mtd-nd]: [MTD] “Mr. Truman’s Degree” (privately produced pamphlet); reprinted in [ERP], 62–71.
+[^mr-nd]: [MTD] “Mr. Truman’s Degree” (privately produced pamphlet); reprinted in [ERP], 62–71.
 
-[^wam-1961]: [WAM] “War and Murder,” in *Nuclear Weapons: a Catholic Response*, Walter Stein (ed.), London: Merlin, 1961, 43–62; reprinted in [ERP], 51–61.
+[^war-1961]: [WAM] “War and Murder,” in *Nuclear Weapons: a Catholic Response*, Walter Stein (ed.), London: Merlin, 1961, 43–62; reprinted in [ERP], 51–61.
 
-[^sas-1978]: [SAS] “On the Source of the Authority of the State,” *Ratio* 20 (1978); reprinted in [MPM], 130–155.
+[^source-1978]: [SAS] “On the Source of the Authority of the State,” *Ratio* 20 (1978); reprinted in [MPM], 130–155.
 
-[^mmp-1958]: [MMP] “Modern Moral Philosophy,” *Philosophy* 33 (1958): 1–19; reprinted in [ERP], 26–42. [CAD] Causality and Determination: An Inaugural Lecture, Cambridge: Cambridge University Press, 1971; reprinted in [MPM], 133–147.
+[^modern-1958]: [MMP] “Modern Moral Philosophy,” *Philosophy* 33 (1958): 1–19; reprinted in [ERP], 26–42. [CAD] Causality and Determination: An Inaugural Lecture, Cambridge: Cambridge University Press, 1971; reprinted in [MPM], 133–147.
 
-[^tfp-1974]: [TFP] “The First Person,” in *Mind and Language: Wolfson College Lectures 1974*, Oxford: Clarendon Press, 1975, 45–64; reprinted in [MPM], 21–36.
+[^first-1974]: [TFP] “The First Person,” in *Mind and Language: Wolfson College Lectures 1974*, Oxford: Clarendon Press, 1975, 45–64; reprinted in [MPM], 21–36.
 
-[^ios-1948]: [IOS] “The Immortality of the Soul” in [FHG], 69–83; previously unpublished. [CSL] “A Reply to Mr. C.S. Lewis’s Argument that ‘Naturalism’ is Self-Refuting,” Socratic Digest 4:2 (1948), 7–16; reprinted in [MPM], 224–232.
+[^immortality-1948]: [IOS] “The Immortality of the Soul” in [FHG], 69–83; previously unpublished. [CSL] “A Reply to Mr. C.S. Lewis’s Argument that ‘Naturalism’ is Self-Refuting,” Socratic Digest 4:2 (1948), 7–16; reprinted in [MPM], 224–232.
 
-[^cac-1972]: [CAC] “Contraception and Chastity,” The Human World 9 (1972): 41–51; reprinted in [FHG], 170–192.
+[^contraception-1972]: [CAC] “Contraception and Chastity,” The Human World 9 (1972): 41–51; reprinted in [FHG], 170–192.
 
-[^ios-1965]: [IOS] “The Intentionality of Sensation: A Grammatical Feature,” *Analytical Philosophy* (second series), R. J. Butler (ed.), Oxford: Oxford University Press, 1965; reprinted in [MPM], 3–20.
+[^intentionality-1965]: [IOS] “The Intentionality of Sensation: A Grammatical Feature,” *Analytical Philosophy* (second series), R. J. Butler (ed.), Oxford: Oxford University Press, 1965; reprinted in [MPM], 3–20.
 
-[^hjc-1973]: [HJC] “Hume and Julius Caesar,” *Analysis* 34 (1973): 1–7; reprinted in [FPW], 86–93.
+[^hume-1973]: [HJC] “Hume and Julius Caesar,” *Analysis* 34 (1973): 1–7; reprinted in [FPW], 86–93.
 
-[^wbs-1979]: [WBS] “What Is It to Believe Someone?” in *Rationality and Religious Belief*, C. F. Delaney (ed.), Notre Dame, IN: University of Notre Dame Press, 1979, 141–151; reprinted in [FHG], 1–10.
+[^what-1979]: [WBS] “What Is It to Believe Someone?” in *Rationality and Religious Belief*, C. F. Delaney (ed.), Notre Dame, IN: University of Notre Dame Press, 1979, 141–151; reprinted in [FHG], 1–10.
 
-[^aim-1962]: [AIM] “Authority in Morals” in *Problems of Authority*, J. Todd (ed.), London: Darton, Longman and Todd, 1962; reprinted in [ERP], 43–50.
+[^authority-1962]: [AIM] “Authority in Morals” in *Problems of Authority*, J. Todd (ed.), London: Darton, Longman and Todd, 1962; reprinted in [ERP], 43–50.
 
 [^descartes-1954]: Descartes, René, *Philosophical Writings*, translated by G. E. M. Anscombe and Peter Geach, London: Thomas Nelson and Sons, 1954.
 

@@ -505,21 +505,21 @@ Anselm of Canterbury [Anselm of Bec] | Arabic and Islamic Philosophy, historical
 
 [^quomodo-nd]: *Quomodo terra sancta recuperari potest*, Manuscript Palma, Vivot, 4. (XVIII). 207–209v; 211–212v
 
-[^mog-1721]: [MOG] 1721–1742, *Raymundi Lulli Opera omnia*, Ivo Salzinger et al. (eds), 8 vols. Mainz (Reprinted Frankfur am Main 1965).
+[^llull-1721]: [MOG] 1721–1742, *Raymundi Lulli Opera omnia*, Ivo Salzinger et al. (eds), 8 vols. Mainz (Reprinted Frankfur am Main 1965).
 
-[^rol-1959]: [ROL] 1959–1967, 1975–, *Raimundi Lulli Opera Latina*, I–V (Palma) and VI– Turnholt, Belgium: Brepols.
+[^llull-1959]: [ROL] 1959–1967, 1975–, *Raimundi Lulli Opera Latina*, I–V (Palma) and VI– Turnholt, Belgium: Brepols.
 
-[^cccm-nd]: [CCCM], Corpus Christianorum Continuatio Mediaevalis. This is a reference to the series by the publisher Brepols in which [ROL] appear.
+[^corpus-nd]: [CCCM], Corpus Christianorum Continuatio Mediaevalis. This is a reference to the series by the publisher Brepols in which [ROL] appear.
 
-[^neorl-1990]: [NEORL] 1990, *Nova Edició de les Obres de Ramon Llull*, Palma de Mallorca.
+[^llull-1990]: [NEORL] 1990, *Nova Edició de les Obres de Ramon Llull*, Palma de Mallorca.
 
-[^oe-1957]: [OE] 1957–1960, *Obras essencials*, Joaquín Carreras y Artau et al. (eds), 2 Vol., Barcelona.
+[^llull-1957]: [OE] 1957–1960, *Obras essencials*, Joaquín Carreras y Artau et al. (eds), 2 Vol., Barcelona.
 
-[^ol-1948]: [OL] 1948, *Obras literarias*, Miquel Batllori and Miguel Caldentey (eds), Madrid.
+[^llull-1948]: [OL] 1948, *Obras literarias*, Miquel Batllori and Miguel Caldentey (eds), Madrid.
 
-[^orl-1906]: [ORL] 1906–1950, *Obres de Ramon Llull*, Salvador Galmés et al. (eds), 21 vols., Palma de Mallorca.
+[^llull-1906]: [ORL] 1906–1950, *Obres de Ramon Llull*, Salvador Galmés et al. (eds), 21 vols., Palma de Mallorca.
 
-[^sw-1985]: [SW] Bonner, Anthony (ed. and trans.), 1985, *Selected Works of Ramon Llull*, 2 vols., Princeton: Princeton University Press. Includes translations of *Ars demonstrativa* and *Ars brevis*.
+[^bonner-1985]: [SW] Bonner, Anthony (ed. and trans.), 1985, *Selected Works of Ramon Llull*, 2 vols., Princeton: Princeton University Press. Includes translations of *Ars demonstrativa* and *Ars brevis*.
 
 [^johnston-1996]: Johnston, Mark D. (ed. and trans.), 1996, *The Book of the Lover and the Beloved*, Warminster: Aris & Phillips.
 
@@ -533,7 +533,7 @@ Anselm of Canterbury [Anselm of Bec] | Arabic and Islamic Philosophy, historical
 
 [^peers-1978]: Peers, Allison E. (trans.), 1978, *The Book of the Beasts*, Westport: Hyperion Press.
 
-[^llull-1990]: Llull, Ramon, *Llibre de Les Bèsties*, Col·lecció L’Aljub, núm. 2. Alicante: Editorial Aguaclara, 1990. (Catalan)
+[^llull-1990-2]: Llull, Ramon, *Llibre de Les Bèsties*, Col·lecció L’Aljub, núm. 2. Alicante: Editorial Aguaclara, 1990. (Catalan)
 
 [^garcías-1978]: Garcías Palou, Sebastián (ed. and trans.), 1978, *Proverbis de Ramon*, Madrid: Editora Nacional. (Spanish)
 

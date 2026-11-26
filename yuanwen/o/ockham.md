@@ -423,39 +423,39 @@ For the update to this entry published in the summer of 2011, Claude Panaccio be
 
 [^guillelmi-1967]: *Guillelmi de Ockham Opera Philosophica et Theologica. Opera Theologica*, 18 volumes, St. Bonaventure, NY: St. Bonaventure University, 1967–1988.
 
-[^oph-nd]: [*OPh*] Opera Philosophica, 7 volumes
+[^opera-nd]: [*OPh*] Opera Philosophica, 7 volumes
 
-[^sl-nd]: [*SL*] Vol. I: *Summa Logicae* [*Summa of Logic*]
+[^vol-nd]: [*SL*] Vol. I: *Summa Logicae* [*Summa of Logic*]
 
-[^vol-nd]: Vol. II: *Expositionis in Libros Artis Logicae Prooemium et Expositio in Librum Porphyrii de Praedicabilibus*
+[^vol-nd-2]: Vol. II: *Expositionis in Libros Artis Logicae Prooemium et Expositio in Librum Porphyrii de Praedicabilibus*
 
-[^vol-nd-2]: Vol. III: *Expositio super Libros Elenchorum Aristotelis*
+[^vol-nd-3]: Vol. III: *Expositio super Libros Elenchorum Aristotelis*
 
-[^vol-nd-3]: Vol. IV: *Expositio in Libros Physicorum* (Books I–III)
+[^vol-nd-4]: Vol. IV: *Expositio in Libros Physicorum* (Books I–III)
 
-[^vol-nd-4]: Vol. V: *Expositio in Libros Physicorum* (Books IV–VIII)
+[^vol-nd-5]: Vol. V: *Expositio in Libros Physicorum* (Books IV–VIII)
 
-[^vol-nd-5]: Vol. VI: *Summulae in Libros Physicorum*. *Brevis Summa Libri Physicorum. Quaestiones in Libros Physicorum*.
+[^vol-nd-6]: Vol. VI: *Summulae in Libros Physicorum*. *Brevis Summa Libri Physicorum. Quaestiones in Libros Physicorum*.
 
-[^vol-nd-6]: Vol. VII: *Opera Dubia et Spuria. Tractatus Minor Logicae et Elementarium Logicae*. *Tractatus de Succesivis*
+[^vol-nd-7]: Vol. VII: *Opera Dubia et Spuria. Tractatus Minor Logicae et Elementarium Logicae*. *Tractatus de Succesivis*
 
-[^oth-nd]: [*OTh*] Opera Theologica, 10 volumes
+[^opera-nd-2]: [*OTh*] Opera Theologica, 10 volumes
 
 [^vols-nd]: Vols. I-IV: *Scriptum in Librum Primum Sententiarum. Ordinatio* (Prol. Et Dist. I-XLVIII)
 
-[^vol-nd-7]: Vol. V: *Quaestiones in Secundum Librum Sententiarum. Reportatio*
+[^vol-nd-8]: Vol. V: *Quaestiones in Secundum Librum Sententiarum. Reportatio*
 
-[^vol-nd-8]: Vol. VI: *Quaestiones in Tertium Librum Sententiarum. Reportio*
+[^vol-nd-9]: Vol. VI: *Quaestiones in Tertium Librum Sententiarum. Reportio*
 
-[^vol-nd-9]: Vol. VII: *Quaestiones in Quartum Librum Sententiarum. Reportatio*
+[^vol-nd-10]: Vol. VII: *Quaestiones in Quartum Librum Sententiarum. Reportatio*
 
-[^vol-nd-10]: Vol. VIII: *Quaestiones Variae in Libros Sententiarum*
+[^vol-nd-11]: Vol. VIII: *Quaestiones Variae in Libros Sententiarum*
 
-[^quodl-nd]: [*Quodl*] Vol. IX: *Quodlibeta Septem* [*Seven Quodlibets*]
+[^vol-nd-12]: [*Quodl*] Vol. IX: *Quodlibeta Septem* [*Seven Quodlibets*]
 
-[^vol-nd-11]: Vol. X: *Tractatus de Quantitate* [*Treatise on Quantity*] et *Tractatus de Corpore Christi* [*On the Body of Christ*].
+[^vol-nd-13]: Vol. X: *Tractatus de Quantitate* [*Treatise on Quantity*] et *Tractatus de Corpore Christi* [*On the Body of Christ*].
 
-[^opol-nd]: [*OPol*] *Opera politica*
+[^opera-nd-3]: [*OPol*] *Opera politica*
 
 [^vol-1940]: Vol. 1: J. G. Sikes, B. L. Manning, H. S. Offler, R. F. Bennett, and R. H. Snape (eds.), Manchester: University of Manchester, 1940; second edition 1974. Contains:
 

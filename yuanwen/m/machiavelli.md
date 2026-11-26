@@ -216,7 +216,7 @@ civic humanism | corruption | dirty hands, the problem of | political realism: i
 
 [^machiavelli-1997]: Machiavelli, *Opere*, Corrado Vivanti (ed.), 3 volumes, Turin: Einaudi-Gallimard, 1997.
 
-[^cw-1965]: [CW] *Machiavelli: The Chief Works and Others*, Alan H. Gilbert (ed. and trans.), 3 volumes, continuous pagination, Durham, NC: Duke University Press, 1965.
+[^machiavelli-1965]: [CW] *Machiavelli: The Chief Works and Others*, Alan H. Gilbert (ed. and trans.), 3 volumes, continuous pagination, Durham, NC: Duke University Press, 1965.
 
 [^prince-nd]: *The Prince* (in Volume 1, pp. 10–96)
 
@@ -224,9 +224,9 @@ civic humanism | corruption | dirty hands, the problem of | political realism: i
 
 [^art-nd]: *The Art of War* (in Volume 2, pp. 561–726)
 
-[^mp-1988]: [MP] *The Prince*, Quentin Skinner and Russell Price (eds.), (Cambridge Texts in the History of Political Thought), Cambridge: Cambridge University Press, 1988.
+[^prince-1988]: [MP] *The Prince*, Quentin Skinner and Russell Price (eds.), (Cambridge Texts in the History of Political Thought), Cambridge: Cambridge University Press, 1988.
 
-[^mf-1996]: [MF] *Machiavelli and His Friends: Their Personal Correspondence*, James B. Atkinson and David Sices (eds.), Dekalb, IL: Northern Illinois University Press, 1996.
+[^machiavelli-1996]: [MF] *Machiavelli and His Friends: Their Personal Correspondence*, James B. Atkinson and David Sices (eds.), Dekalb, IL: Northern Illinois University Press, 1996.
 
 [^anglo-2005]: Anglo, Sydney, 2005, *Machiavelli: The First Century*, (Oxford-Warburg Studies), Oxford: Oxford University Press.
 

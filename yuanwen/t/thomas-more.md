@@ -309,7 +309,7 @@ Aquinas, Thomas | Aristotle, General Topics: rhetoric | Augustine of Hippo | Cic
 
 [^more’s-1978]: More’s execution discouraged publication of his work; in the Catholic interim under Mary I, however, his nephew William Rastell edited the vernacular writings, *The Works of Sir Thomas More in the Englysh tonge*, London, 1557 (reprinted with an introduction by K. J. Wilson, Menston: Scolar Press, 1978). His Latin works, *Opera omnia*, were printed at Louvain in 1565 and 1566, and at Frankfurt in 1689. Except for his complete correspondence, More’s extant works are now available in the Yale edition, which provides authoritative texts with comprehensive introductory material and annotation. Many of More’s letters were edited by Elizabeth F. Rogers in 1947, but she did not include his exchanges with Erasmus; for these the reader must consult *Opus epistolarum Des. Erasmi Roterodami*, ed. P.S. Allen et al., 12 vols., Oxford: Clarendon Press, 1906–58, or the correspondence volumes in the Toronto *Collected Works of Erasmus*. Rogers published in 1960 (revised in 1967) More’s *Selected Letters*—all these and fifty others by More are in *EW.* A critical edition of More’s correspondence (some 280 letters) was planned for Yale University’s *Complete Works,* but has not yet been completed.
 
-[^cw-1963]: [*CW*] *The Complete Works of St. Thomas More*, 15 vols., New Haven, CT/London: Yale University Press, 1963–97:
+[^complete-1963]: [*CW*] *The Complete Works of St. Thomas More*, 15 vols., New Haven, CT/London: Yale University Press, 1963–97:
 
 [^volume-1997]: Volume 1: *English Poems, Life of Pico, The Last Things.* Edited by Anthony S.G. Edwards, Clarence H. Miller and Katherine Gardiner Rodgers. 1997.
 
@@ -343,13 +343,13 @@ Aquinas, Thomas | Aristotle, General Topics: rhetoric | Augustine of Hippo | Cic
 
 [^volume-1986]: Volume 15: *In Defense of Humanism: Letters to Dorp, Oxford, Lee, and a Monk; Historia Richardi Tertii*. Edited by Daniel Kinney. 1986.
 
-[^corr-1947]: [*Corr.*] *The Correspondence of Sir Thomas More.* Edited by E. F. Rogers, Princeton, NJ: Princeton University Press. 1947; contains or lists 218 of More’s 280 letters.
+[^correspondence-1947]: [*Corr.*] *The Correspondence of Sir Thomas More.* Edited by E. F. Rogers, Princeton, NJ: Princeton University Press. 1947; contains or lists 218 of More’s 280 letters.
 
-[^ew-2020]: [*EW*] *The Essential Works of Thomas More.* Edited by Gerard B. Wegemer and Stephen W. Smith. New Haven, CT: Yale University Press, 2020; contains 20 of More’s books in full, 106 of his letters in English, and his 291 poems. doi:10.12987/9780300249415
+[^essential-2020]: [*EW*] *The Essential Works of Thomas More.* Edited by Gerard B. Wegemer and Stephen W. Smith. New Haven, CT: Yale University Press, 2020; contains 20 of More’s books in full, 106 of his letters in English, and his 291 poems. doi:10.12987/9780300249415
 
-[^sl-1961]: [*SL*] *St. Thomas More: Selected Letters*. Edited by E.F. Rogers, New Haven, CT: Yale University Press, 1961, 1967 (revised edition); contains 66 letters, including English translations of the Latin letters.
+[^st-1961]: [*SL*] *St. Thomas More: Selected Letters*. Edited by E.F. Rogers, New Haven, CT: Yale University Press, 1961, 1967 (revised edition); contains 66 letters, including English translations of the Latin letters.
 
-[^cwe-1974]: [*CWE*] *Collected Works of Erasmus*, Toronto: University of Toronto Press, 1974–.
+[^collected-1974]: [*CWE*] *Collected Works of Erasmus*, Toronto: University of Toronto Press, 1974–.
 
 [^history-2005]: *The History of King Richard the Third*. Edited by George M. Logan, Bloomington and Indianapolis: Indiana University Press, 2005.
 

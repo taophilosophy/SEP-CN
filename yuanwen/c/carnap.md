@@ -397,7 +397,7 @@ analytic/synthetic distinction | constructive empiricism | epsilon calculus | le
 
 [^carnap-1927]: 1927, “Eigentliche und uneigentliche Begriffe”, *Symposion*, 1: 355–374.
 
-[^aufbau-1928a]: [*Aufbau*] 1928a [1967], *Der logische Aufbau der Welt*, Berlin: Weltkreis. Second edition, Hamburg: Meiner, 1961. Translated into English as *The Logical Structure of the World*, Rolf A. George (trans.), Berkeley, CA: University of California Press, 1967.
+[^carnap-1928a]: [*Aufbau*] 1928a [1967], *Der logische Aufbau der Welt*, Berlin: Weltkreis. Second edition, Hamburg: Meiner, 1961. Translated into English as *The Logical Structure of the World*, Rolf A. George (trans.), Berkeley, CA: University of California Press, 1967.
 
 [^carnap-1928b]: 1928b, *Scheinprobleme in der Philosophie*, Berlin: Weltkreis.
 
@@ -427,7 +427,7 @@ analytic/synthetic distinction | constructive empiricism | epsilon calculus | le
 
 [^carnap-1932e]: 1932e [1987], “Über Protokollsätze”, *Erkenntnis*, 3: 215–228. Translated in 1987 as “On Protocol Sentences”, Richard Creath and Richard Nollan (trans.), *Noûs*, 21(4): 457–470. doi:10.2307/2215667 (en) doi:10.1007/BF01886421 (de)
 
-[^lss-1934a]: [LSS] 1934a [1937], *Logische Syntax der Sprache*, Vienna: Springer. Translated by Amethe Smeaton as *The Logical Syntax of Language*, London: Routledge, 1937.
+[^carnap-1934a]: [LSS] 1934a [1937], *Logische Syntax der Sprache*, Vienna: Springer. Translated by Amethe Smeaton as *The Logical Syntax of Language*, London: Routledge, 1937.
 
 [^carnap-1934b]: 1934b, “Theoretische Fragen und praktische Entscheidungen”, *Natur und Geist*, 2: 257–260.
 
@@ -441,11 +441,11 @@ analytic/synthetic distinction | constructive empiricism | epsilon calculus | le
 
 [^carnap-1936]: 1936 [1949], “Wahrheit und Bewährung”, in *Actes du Congrès international de philosophie scientifique, Sorbonne, Paris 1935*, fasc. 4. *Unité de la science*, Paris: Hermann, pp. 18–23. A modified version is translated as “Truth and Confirmation”, in Feigl and Sellars 1949: 119–127.
 
-[^tm-1936]: [TM] 1936–37, “Testability and Meaning”, *Philosophy of Science*,
+[^carnap-1936-2]: [TM] 1936–37, “Testability and Meaning”, *Philosophy of Science*,
 
-[^tm1-nd]: [TM1] 3(4): 419–471 (sections 1–16). doi:10.1086/286432,
+[^carnap-nd]: [TM1] 3(4): 419–471 (sections 1–16). doi:10.1086/286432,
 
-[^tm2-nd]: [TM2] 4(1): 1–40 (sections 17–28). doi:10.1086/286443
+[^carnap-nd-2]: [TM2] 4(1): 1–40 (sections 17–28). doi:10.1086/286443
 
 [^carnap-1939]: 1939, *Foundations of Logic and Mathematics*, Chicago: University of Chicago Press.
 
@@ -463,9 +463,9 @@ analytic/synthetic distinction | constructive empiricism | epsilon calculus | le
 
 [^carnap-1949]: 1949, “A Reply to Leonard Linsky”, *Philosophy of Science*, 16(4): 347–350. doi:10.1086/287056
 
-[^eso-1950a]: [ESO] 1950a [1956], “Empiricism, Semantics, and Ontology”, *Revue Internationale de Philosophie*, 4(11): 20–40. Reprinted in Carnap 1956b: 205–221.
+[^carnap-1950a]: [ESO] 1950a [1956], “Empiricism, Semantics, and Ontology”, *Revue Internationale de Philosophie*, 4(11): 20–40. Reprinted in Carnap 1956b: 205–221.
 
-[^lfp-1950b]: [LFP] 1950b, *Logical Foundations of Probability*, first edition, Chicago: University of Chicago Press.
+[^carnap-1950b]: [LFP] 1950b, *Logical Foundations of Probability*, first edition, Chicago: University of Chicago Press.
 
 [^carnap-1952a]: 1952a [1956], “Meaning Postulates”, *Philosophical Studies*, 3(5): 65–73. Reprinted in Carnap 1956b: 222–229. doi:10.1007/BF02350366
 

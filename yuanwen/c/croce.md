@@ -306,13 +306,13 @@ This entry includes, in section 1.3, a revised and edited version of Gary Kemp�
 
 [^opere-1902]: The *Opere di Benedetto Croce* published by Laterza of Bari from 1902–55, and organised according to Croce’s own plan and consisting of the last editions of each book as approved by the author, comes to 53 vols. The best bibliography of these works and their various editions is Silvano Borsari, *L’opera di Benedetto Croce. Bibliografia*, Napoli, Istituto italiano per gli studi storici, 1964. To these works can be added his voluminous correspondance with Gentile, Sorel and other major figures of the time, which are still in the process of publication by a variety of different publishers. The National Edition of his works, involving a full scholarly apparatus, has at the time of writing reached 29 volumes. Various digital resources are available from the web site of the Library of the Croce Foundation, including a link to an on line version of Borsari’s bibliography -- see the Other Internet Resources section below.
 
-[^aes-1902]: [**Aes**] = 1902 below.
+[^croce-1902]: [**Aes**] = 1902 below.
 
-[^logica-1909a]: [**Logica**] = 1909a below.
+[^croce-1909a]: [**Logica**] = 1909a below.
 
-[^ea-1913]: [**EA**] = 1913 below
+[^croce-1913]: [**EA**] = 1913 below
 
-[^pph-1951]: [**PPH**] = 1951 below.
+[^croce-1951]: [**PPH**] = 1951 below.
 
 [^croce-1891]: 1891, *I teatri di Napoli del Secolo XV–XVIII* (The Theatres of Naples from the Fifteenth to the Eighteenth Centuries), Naples: Pierro.
 
@@ -328,7 +328,7 @@ This entry includes, in section 1.3, a revised and edited version of Gary Kemp�
 
 [^croce-1900]: 1900, *Materialismo storico ed economia marxista*, Palermo: Sandron; trans. C.M. Meredith, *Historical Materialism and the Economics of Karl Marx*, London: Latimer, 1914.
 
-[^croce-1902]: 1902 [**Aes**], *Estetica come scienza dell’espressione e linguistica generale*, Milan, Palermo, Naples: Sandron; trans. D. Ainslie, *Aesthetic*, London: Macmillan, 1909; 2nd complete edn, 1922.
+[^croce-1902-2]: 1902 [**Aes**], *Estetica come scienza dell’espressione e linguistica generale*, Milan, Palermo, Naples: Sandron; trans. D. Ainslie, *Aesthetic*, London: Macmillan, 1909; 2nd complete edn, 1922.
 
 [^croce-1903]: 1903, ‘Introduzione’, *La Critica*, 1: 1–5.
 
@@ -340,7 +340,7 @@ This entry includes, in section 1.3, a revised and edited version of Gary Kemp�
 
 [^croce-1908b]: 1908b, ‘Per la rinascita dell’idealismo’, in Croce 1914: 35–43.
 
-[^croce-1909a]: 1909a [**Logica**], *Logica come scienza del concetto puro*, Bari: Laterza; 2nd edn, trans. D. Ainslie, *Logic as the Science of the Pure Concept*, London: Macmillan, 1917; citations to the 7ᵗʰ revised edition, Bari: Laterza, 1947.
+[^croce-1909a-2]: 1909a [**Logica**], *Logica come scienza del concetto puro*, Bari: Laterza; 2nd edn, trans. D. Ainslie, *Logic as the Science of the Pure Concept*, London: Macmillan, 1917; citations to the 7ᵗʰ revised edition, Bari: Laterza, 1947.
 
 [^croce-1909b]: 1909b, *La filosofia della pratica: economia ed etica* (1909), trans. D. Ainslie, *Philosophy of the Practical*, London: Macmillan, 1913; citations to the second edition, Bari: Laterza: 1915.
 
@@ -352,7 +352,7 @@ This entry includes, in section 1.3, a revised and edited version of Gary Kemp�
 
 [^croce-1912b]: 1912b, ‘Amore con le nuvole’, *La Voce*, IV n. 14 4 April: 789, republished in Croce 1914: 147–53.
 
-[^croce-1913]: 1913 [**EA**], *Breviario di estetica*, Naples: Laterza, *The Essence of Aesthetic*, trans, Douglas Ainslie, London: Heinemann, 1921.
+[^croce-1913-2]: 1913 [**EA**], *Breviario di estetica*, Naples: Laterza, *The Essence of Aesthetic*, trans, Douglas Ainslie, London: Heinemann, 1921.
 
 [^croce-1914]: 1914, *Cultura e Vita Morale: Intermezzi Polemiche*, Bari: Laterza
 
@@ -430,7 +430,7 @@ This entry includes, in section 1.3, a revised and edited version of Gary Kemp�
 
 [^croce-1949]: 1949, ‘Una pagina sconosciuta degli ultimi mesi della vita di Hegel’, *Quaderni della Critica*, 5(13): 1–19.
 
-[^croce-1951]: 1951 [**PPH**], *Filosofia, poesia, storia : pagine tratte da tutte le opera*, a cura del autore Milano: Ricciardi; sections 1–8 trans and introduced by Cecil Sprigge, *Philosophy, Poetry, History: An Anthology of Essays*, London: Oxford University Press, 1966.
+[^croce-1951-2]: 1951 [**PPH**], *Filosofia, poesia, storia : pagine tratte da tutte le opera*, a cura del autore Milano: Ricciardi; sections 1–8 trans and introduced by Cecil Sprigge, *Philosophy, Poetry, History: An Anthology of Essays*, London: Oxford University Press, 1966.
 
 [^croce-1981]: 1981, *Lettere a Giovanni Gentile (1896–1924)*, ed. A. Croce, Milan: Arnaldo Mondadori.
 

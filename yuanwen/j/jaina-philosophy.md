@@ -365,53 +365,53 @@ ethics: in Indian Buddhism | Indian Philosophy (Classical): language and testimo
 
 [^radhakrishnan-1923]: Radhakrishnan, Sarvepalli, 1923, “The Pluralistic Realism of the Jainas”, in his *Indian Philosophy*, London: Georges Allen & Unwin Ltd, volume 1, pp. 286–340 (ch. 6). New edition, Delhi: Oxford University Press, 2008.
 
-[^ajp-1940]: [AJP] Haribhadrasūri, *Anekāntajayapatākā*, in *Anekāntajayapatākā*, 2 vols., Hiralal Rasikdas Kapadia (ed.), Baroda: Gaekwad’s Oriental Series 88/105, 1940.
+[^haribhadrasūri-1940]: [AJP] Haribhadrasūri, *Anekāntajayapatākā*, in *Anekāntajayapatākā*, 2 vols., Hiralal Rasikdas Kapadia (ed.), Baroda: Gaekwad’s Oriental Series 88/105, 1940.
 
-[^mī-2002]: [ĀMī] Samantabhadra, *Āptamīmāṁsā*, in *Āpta-mīmāṁsā of Āchārya Samantabhadra*, Saratchandra Ghoshal (trans.), Delhi: Bharatiya Jnanpith, 2002.
+[^samantabhadra-2002]: [ĀMī] Samantabhadra, *Āptamīmāṁsā*, in *Āpta-mīmāṁsā of Āchārya Samantabhadra*, Saratchandra Ghoshal (trans.), Delhi: Bharatiya Jnanpith, 2002.
 
 [^gaina-1884]: [ĀS] *Āyāraṃgasutta*, in *Gaina Sûtras, Part 1* (*Sacred Books of the East* 22), Hermann Jacobi (trans.), Oxford: Clarendon Press, 1884. New edition, *Jaina Sutras*, Delhi: Motilal Banarsidass, 1964.
 
-[^gs-1927]: [GS] Nemicandra, *Gommaṭasāra*, in *Gommatsara Jiva-Kanda (the soul)*, Rai Bahadur J. L. Jainia (trans.), *The Sacred books of the Jainas* 5, Lucknow: The Central Jaina Publishin House, 1927.
+[^nemicandra-1927]: [GS] Nemicandra, *Gommaṭasāra*, in *Gommatsara Jiva-Kanda (the soul)*, Rai Bahadur J. L. Jainia (trans.), *The Sacred books of the Jainas* 5, Lucknow: The Central Jaina Publishin House, 1927.
 
-[^jtbh-1938]: [JTBh] Yaśovijaya, *Jainatarkabhāṣā*, in *Jainatarkabhāṣā*, Sukhlalji Sanghvi, Mahendra Kumar and Dalsukh Malvania (eds.), Ahmedabad: Sri Bahadur Singh Jaina Series, 1938/1942/1997.
+[^yaśovijaya-1938]: [JTBh] Yaśovijaya, *Jainatarkabhāṣā*, in *Jainatarkabhāṣā*, Sukhlalji Sanghvi, Mahendra Kumar and Dalsukh Malvania (eds.), Ahmedabad: Sri Bahadur Singh Jaina Series, 1938/1942/1997.
 
-[^jds-2005]: [JDS] Haribhadra, *Jambūdvīpasaṃgrahaṇī*, in *Elements of Jaina Geography*, Frank Van Den Bossche (trans.), Delhi: Motilal Banarsidass, 2005.
+[^haribhadra-2005]: [JDS] Haribhadra, *Jambūdvīpasaṃgrahaṇī*, in *Elements of Jaina Geography*, Frank Van Den Bossche (trans.), Delhi: Motilal Banarsidass, 2005.
 
-[^na-2001]: [NA] Siddhasena Mahāmati, *Nyāyāvatāra*, in *Jaina Epistemology In Historical And Comparative Perspective – A Critical Edition And An Annotated Translation Of Siddhasena Mahāmati’s Nyāyâvatāra, Siddharṣigaṇin’s Nyāyāvatāra-vivṛti And Devabhadrasūri’s Nyāyâvatāra-ṭippana*. 2 vols, Piotr Balcerowicz (trans.), Stuttgart: Franz Steiner Stuttgart, 2001 (reed. Delhi: Motilal Banarsidass, 2009).
+[^siddhasena-2001]: [NA] Siddhasena Mahāmati, *Nyāyāvatāra*, in *Jaina Epistemology In Historical And Comparative Perspective – A Critical Edition And An Annotated Translation Of Siddhasena Mahāmati’s Nyāyâvatāra, Siddharṣigaṇin’s Nyāyāvatāra-vivṛti And Devabhadrasūri’s Nyāyâvatāra-ṭippana*. 2 vols, Piotr Balcerowicz (trans.), Stuttgart: Franz Steiner Stuttgart, 2001 (reed. Delhi: Motilal Banarsidass, 2009).
 
-[^nav-nd]: [NAv] Siddharṣigaṇi, *Nyāyāvatāravivṛtti*, in NA.
+[^siddharṣigaṇi-nd]: [NAv] Siddharṣigaṇi, *Nyāyāvatāravivṛtti*, in NA.
 
-[^ns-2009]: [NS] Gautama, *Nyāyasūtra*, in *Le Nyāyasūtra de Gautama Akṣapāda. Le Nyāyabhāṣya d’Akṣapāda Pakṣilasvāmin*, Michel Angot (trans.), Paris: Les Belles Lettres, 2009.
+[^gautama-2009]: [NS] Gautama, *Nyāyasūtra*, in *Le Nyāyasūtra de Gautama Akṣapāda. Le Nyāyabhāṣya d’Akṣapāda Pakṣilasvāmin*, Michel Angot (trans.), Paris: Les Belles Lettres, 2009.
 
-[^nsbh-nd]: [NSBh] Vātsyāyana, *Nyāyasūtrabhāṣya*, in NS.
+[^vātsyāyana-nd]: [NSBh] Vātsyāyana, *Nyāyasūtrabhāṣya*, in NS.
 
-[^pkm-1912]: [PKM] Prabhācandra, *Prameyakāmalamārtaṇḍa*, in The *Prameyakāmalamārtaṇḍa of* Prabhācandra, Mahendra Kumar Shastri (ed.), *Garib Dass Oriental Series* 94, Delhi: Sri Satguru Publication, 1912.
+[^prabhācandra-1912]: [PKM] Prabhācandra, *Prameyakāmalamārtaṇḍa*, in The *Prameyakāmalamārtaṇḍa of* Prabhācandra, Mahendra Kumar Shastri (ed.), *Garib Dass Oriental Series* 94, Delhi: Sri Satguru Publication, 1912.
 
-[^pnt-1967]: [PNT] Vādi Devasūri, *Pramāṇanayatattvālokālaṃkāra*, in *Vādi Devasūri‘s Pramāṇanayatattvālokālaṃkāra*, Hari Satya Bhattacharya, Bombay: Jaina Sahitya Vikas Mandal, 1967.
+[^vādi-1967]: [PNT] Vādi Devasūri, *Pramāṇanayatattvālokālaṃkāra*, in *Vādi Devasūri‘s Pramāṇanayatattvālokālaṃkāra*, Hari Satya Bhattacharya, Bombay: Jaina Sahitya Vikas Mandal, 1967.
 
-[^pv-1991]: [PV] Dharmakīrti*: Pramāṇavārttika*, partially in “Introduction to Dharmakīrti’s theory of inference as presented in *Pramāṇavārttika Svopajñāvṛtti* 1–10”, Gillon, Brendan and Richard Hayes (trans.), 1991, *Journal of Indian Philosophy*, 19(1): pp. 1–73.
+[^dharmakīrti-1991]: [PV] Dharmakīrti*: Pramāṇavārttika*, partially in “Introduction to Dharmakīrti’s theory of inference as presented in *Pramāṇavārttika Svopajñāvṛtti* 1–10”, Gillon, Brendan and Richard Hayes (trans.), 1991, *Journal of Indian Philosophy*, 19(1): pp. 1–73.
 
-[^rkśā-2016]: [RKŚĀ] Samantabhadra, *Ratnakaraṇḍaśrāvakâcāra*, in *The Jewel-casket of Houselholder’s Conduct*, Vijay K. Jaina (trans.), Dehradun: Vikalp Printers, 2016.
+[^samantabhadra-2016]: [RKŚĀ] Samantabhadra, *Ratnakaraṇḍaśrāvakâcāra*, in *The Jewel-casket of Houselholder’s Conduct*, Vijay K. Jaina (trans.), Dehradun: Vikalp Printers, 2016.
 
-[^rv-1953]: [RV] Akalaṅka, *Rājavārttika*, in *Tattvārtha-vārttika [Rājavārttika] of Śrī Akalaṅkadeva*, Mahendra Kumar Jain (ed.), Delhi: Jñānapīṭha Mūrtidevī Jaina Grantha-mālā 10, 20, 1953–1957.
+[^akalaṅka-1953]: [RV] Akalaṅka, *Rājavārttika*, in *Tattvārtha-vārttika [Rājavārttika] of Śrī Akalaṅkadeva*, Mahendra Kumar Jain (ed.), Delhi: Jñānapīṭha Mūrtidevī Jaina Grantha-mālā 10, 20, 1953–1957.
 
-[^sas-1960]: [SAS] Pūjyapāda, *Sarvārthasiddhi*, in *Reality. English Translation of Shri Pujyapada’s Sarvarthasiddhi*, S. A. Jain (trans.), Calcutta: Vira Sasana Sangha, 1960.
+[^pūjyapāda-1960]: [SAS] Pūjyapāda, *Sarvārthasiddhi*, in *Reality. English Translation of Shri Pujyapada’s Sarvarthasiddhi*, S. A. Jain (trans.), Calcutta: Vira Sasana Sangha, 1960.
 
-[^ssā-1950]: [SSā] Kundakunda, *Samayasāra*, in *Ācārya Kundakunda’s Samayasāra*, A. Chakravarti (trans.), Benares: Bharatiya Jnanapitha Publication, 1950 (reed. Delhi: Bharatiya Jnanpith, 2008).
+[^kundakunda-1950]: [SSā] Kundakunda, *Samayasāra*, in *Ācārya Kundakunda’s Samayasāra*, A. Chakravarti (trans.), Benares: Bharatiya Jnanapitha Publication, 1950 (reed. Delhi: Bharatiya Jnanpith, 2008).
 
-[^sśp-2020]: [SŚP] Vidyānandin, *Satyaśāsanaparīkṣā*, in *Investigation into the True Teaching*, Jens Borgland (trans.), 2020, Wiesbaden: Harrassowitz Verlag.
+[^vidyānandin-2020]: [SŚP] Vidyānandin, *Satyaśāsanaparīkṣā*, in *Investigation into the True Teaching*, Jens Borgland (trans.), 2020, Wiesbaden: Harrassowitz Verlag.
 
 [^sthānāṅgasūtra-2002]: [Ṭhāṇ.] *Ṭhāṇaṃgasutta*, in *Sthānāṅgasūtra*, 3 volumes, (Jaina Āgama Series 19), Muni Jambūvijaya (ed.), Bombay: Shri Mahāvira Jaina Vidyālaya, 2002–3.
 
-[^ts-1994]: [TS] Umāsvāmin, *Tattvārthasūtra*, translted in *That Which Is*, Nathmal Tatia (trans.), New York: Harper Collins, 1994.
+[^umāsvāmin-1994]: [TS] Umāsvāmin, *Tattvārthasūtra*, translted in *That Which Is*, Nathmal Tatia (trans.), New York: Harper Collins, 1994.
 
-[^tsbh-nd]: [TSBh] *Tattvārthasūtrabhāṣya* of Umāsvāti, in TS.
+[^tattvārthasūtrabhāṣya-nd]: [TSBh] *Tattvārthasūtrabhāṣya* of Umāsvāti, in TS.
 
-[^utt-1895]: [Utt.] *Uttarajjhāyā*, in *Gaina Sûtras. Part II: The Uttarâdhyayana Sûtra ; the Sûtrakritâṅga Sûtra* (*Sacred Books of the East* 45), Hermann Georg Jacobi (trans.), Oxford: Oxford University Press, 1895 (reed. Delhi: Motilal Banarsidass, 1964).
+[^uttarajjhāyā-1895]: [Utt.] *Uttarajjhāyā*, in *Gaina Sûtras. Part II: The Uttarâdhyayana Sûtra ; the Sûtrakritâṅga Sûtra* (*Sacred Books of the East* 45), Hermann Georg Jacobi (trans.), Oxford: Oxford University Press, 1895 (reed. Delhi: Motilal Banarsidass, 1964).
 
-[^viy-1973]: [Viy.] *Viyāhapannatti* = *Bhagavaī*, in *Sudharma Svāmi’s Bhāgavatīsūtra*, vol. 2, K.C. Lalwani (trans.), Calcutta: Jaina Bhawan, 1973.
+[^viyāhapannatti-1973]: [Viy.] *Viyāhapannatti* = *Bhagavaī*, in *Sudharma Svāmi’s Bhāgavatīsūtra*, vol. 2, K.C. Lalwani (trans.), Calcutta: Jaina Bhawan, 1973.
 
-[^ys-2002]: [YS] *Yogaśāstra*, Hemacandra, in *The Yogaśāstra of Hemacandra. A twelfth century Handbook on Śvetāmbara Jainims*, Olle Qvarnstrōm (trans.), 2002, Cambridge, MA: Harvard University Press.
+[^yogaśāstra-2002]: [YS] *Yogaśāstra*, Hemacandra, in *The Yogaśāstra of Hemacandra. A twelfth century Handbook on Śvetāmbara Jainims*, Olle Qvarnstrōm (trans.), 2002, Cambridge, MA: Harvard University Press.
 
 [^bajželj-2013]: Bajželj, Ana, 2013, “The Jain Ontological Model According to Kundakunda and Umāsvāti”, *Asian Studies*, 1(1): 3–16. doi:10.4312/as.2013.1.1.3-16
 

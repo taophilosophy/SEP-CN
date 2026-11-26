@@ -358,35 +358,19 @@ Race prejudices, Locke claims, result from aberrant psychological predisposition
 
 **[AOP]**
 
-“Art or Propaganda?”(1928)
-
 **[CRASC]**
-
-“The Concept of Race as Applied to Social Culture” (1924)
 
 **[CRIP]**
 
-“Cultural Relativism and Ideological Peace” (1944)
-
 **[FVVU]**
-
-“A Functional View of Value Ultimates” (1945)
 
 **[PID]**
 
-“Pluralism and Intellectual Democracy” (1942)
-
 **[NN]**
-
-*The New Negro* (1925)
 
 **[VI]**
 
-“Values and Imperatives” (1935)
-
 **[WWN]**
-
-“Who and What Is “Negro”?” (1944)
 
 ### Primary Literature
 
@@ -409,6 +393,22 @@ Race prejudices, Locke claims, result from aberrant psychological predisposition
 ## Related Entries
 
 Africana Philosophy | Dewey, John | Du Bois, W.E.B. | James, William | pragmatism | race | relativism | value theory
+
+[^art-1928]: “Art or Propaganda?”(1928)
+
+[^concept-1924]: “The Concept of Race as Applied to Social Culture” (1924)
+
+[^cultural-1944]: “Cultural Relativism and Ideological Peace” (1944)
+
+[^functional-1945]: “A Functional View of Value Ultimates” (1945)
+
+[^pluralism-1942]: “Pluralism and Intellectual Democracy” (1942)
+
+[^new-1925]: *The New Negro* (1925)
+
+[^values-1935]: “Values and Imperatives” (1935)
+
+[^who-1944]: “Who and What Is “Negro”?” (1944)
 
 [^locke-1989]: Locke, A., 1989. *The Philosophy of Alain Locke: Harlem Renaissance and Beyond*, L. Harris (ed.), Philadelphia: Temple University Press.
 

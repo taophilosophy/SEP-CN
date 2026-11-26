@@ -301,11 +301,11 @@ Chinese Confucianism: Modern Confucianism | Chinese Philosophy: ethics | Chinese
 
 [^note-3]: References to the *Mengzi Ziyi Shuzheng* (abbreviated “*Sz*”) give Dai’s section numbers in the work.
 
-[^sz-1961]: [*Sz*] *Mengzi Ziyi Shuzheng* 孟子字義疏證 (*Evidential Commentary on the Meaning of Terms in the Mencius*), He Wenguang 何文光 (ed.), Bejing: Zhonghua, 1961.
+[^mengzi-1961]: [*Sz*] *Mengzi Ziyi Shuzheng* 孟子字義疏證 (*Evidential Commentary on the Meaning of Terms in the Mencius*), He Wenguang 何文光 (ed.), Bejing: Zhonghua, 1961.
 
 [^dai-2009]: *Dai Zhen Ji* 戴震集 (*Collected Works of Dai Zhen*), Shanghai: Shanghai Guji, 2009.
 
-[^dzqs-2010]: [DZQS] *Dai Zhen Quan Shu* 戴震全書 (*Complete Works of Dai Zhen*), revised edition, 7 vols., Yang Yingjin 楊應芹 and Zhu Weiqi 諸偉奇 (eds.), Hefei: Huangshan, 2010.
+[^dai-2010]: [DZQS] *Dai Zhen Quan Shu* 戴震全書 (*Complete Works of Dai Zhen*), revised edition, 7 vols., Yang Yingjin 楊應芹 and Zhu Weiqi 諸偉奇 (eds.), Hefei: Huangshan, 2010.
 
 [^angle-nd]: Angle, Stephen, forthcoming, “Dai Zhen’s Metaphysics”, in Zheng forthcoming.
 

@@ -258,9 +258,9 @@ al-Kindi | Augustine of Hippo | Boethius, Anicius Manlius Severinus | Christian 
 
 [^scottus-eriugena-nd-2]: [https://www.ontology.co/biblio/eriugena-biblio-two.htm](https://www.ontology.co/biblio/eriugena-biblio-two.htm)
 
-[^pl-1853]: [PL 122] *Johannis Scoti Opera quae supersunt Omnia*, Henricus Josephus Floss (ed.), (Patrologia Latina 122), Paris, 1853. [[PL 122 available online](https://archive.org/details/operaquaesupers01flosgoog/page/n11)]
+[^johannis-1853]: [PL 122] *Johannis Scoti Opera quae supersunt Omnia*, Henricus Josephus Floss (ed.), (Patrologia Latina 122), Paris, 1853. [[PL 122 available online](https://archive.org/details/operaquaesupers01flosgoog/page/n11)]
 
-[^gale-1681]: [Gale] *De divisione naturae libri quinque div desiderati*, Oxford: Theatro Sheldoniano, 1681. [[Gale edition available online](http://archive.org/details/bub_gb_hGQyB47F348C)]
+[^de-1681]: [Gale] *De divisione naturae libri quinque div desiderati*, Oxford: Theatro Sheldoniano, 1681. [[Gale edition available online](http://archive.org/details/bub_gb_hGQyB47F348C)]
 
 [^iohannis-1996]: *Iohannis Scotti seu Eriugenae Periphyseon*, Édouard Jeauneau (ed.), Turnhout: Brepols, 1996–2003
 
@@ -290,13 +290,13 @@ al-Kindi | Augustine of Hippo | Boethius, Anicius Manlius Severinus | Christian 
 
 [^carmina-1993]: *Carmina*, edited by M. Herren, Dublin: School of Celtic Studies, Dublin Institute for Advanced Studies, 1993.
 
-[^di-cappyuns-1965]: [DI-cappyuns] “Le *De imagine* de Grégoire de Nysse traduit par Jean Scot Erigène”, Maiul Cappuyns (ed), *Recherches de théologie ancienne et médiévale*, 32(2): 205–262, 1965.
+[^le-1965]: [DI-cappyuns] “Le *De imagine* de Grégoire de Nysse traduit par Jean Scot Erigène”, Maiul Cappuyns (ed), *Recherches de théologie ancienne et médiévale*, 32(2): 205–262, 1965.
 
-[^dp-madec-1978]: [DP-madec] *Iohannis Scotti de divina praedestinatione*, Goulven Madec (ed.) (Corpus Christianorum Series Continuatio Mediaevalis 50), Turnhout: Brepols, 1978.
+[^iohannis-1978]: [DP-madec] *Iohannis Scotti de divina praedestinatione*, Goulven Madec (ed.) (Corpus Christianorum Series Continuatio Mediaevalis 50), Turnhout: Brepols, 1978.
 
 [^de-2003]: *De praedestinatione liber. Dialettica e teologia all’apogeo della Rinascenza carolingia* (Edizione Critica, saggio introduttivo, traduzione e indici lessicali), Edizioni del Galluzzo (Per verba 18), Firenze, 2003.
 
-[^dp-brennan-1998]: [DP-brennan] *John Scottus Eriugena. Treatise on Divine Predestination*, English translation by Mary Brennan with an Introduction by Avital Wohlman, Notre Dame: University of Notre Dame Press, 1998.
+[^john-1998]: [DP-brennan] *John Scottus Eriugena. Treatise on Divine Predestination*, English translation by Mary Brennan with an Introduction by Avital Wohlman, Notre Dame: University of Notre Dame Press, 1998.
 
 [^glossae-1997]: [*Glossae*] *Glossae Divinae Historiae. The Biblical Glosses of John Scottus Eriugena*, John J. Contreni and Pádraig P. Ó Néill (ed.), Firenze: Sismel: Edizioni del Galluzo, 1997.
 
@@ -306,7 +306,7 @@ al-Kindi | Augustine of Hippo | Boethius, Anicius Manlius Severinus | Christian 
 
 [^maximi-1988]: *Maximi Confessoris Ambigua ad Iohannem iuxta Iohannis Scotti Eriugenae latinam interpretationem*, Jeauneau, Édouard (ed.), (Corpus Christianorum Series Graeca 18), Turnout/Leuven: Brepols/ Leuven University Press, 1988.
 
-[^am-1939]: [AM] *Iohannis Scotti Annotationes in Marcianum*, Cora Lutz (ed.), Cambridge, MA: Medieval Academy of America, 1939.
+[^iohannis-1939]: [AM] *Iohannis Scotti Annotationes in Marcianum*, Cora Lutz (ed.), Cambridge, MA: Medieval Academy of America, 1939.
 
 [^iohannis-1975]: *Iohannis Scoti Eriugenae Expositiones in Ierarchiam coelestem* (*Expositions on the Celestial Hierarchy*), Jeanne Barbet (ed.), (Corpus Christianorum Continuatio Mediaevalis 21), Turnhout: Brepols, 1975.
 

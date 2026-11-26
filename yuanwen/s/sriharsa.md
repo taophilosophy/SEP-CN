@@ -430,7 +430,7 @@ The argument that follows, quite unsurprisingly, resembles a regress argument th
 
 [^khaṇḍanakhaṇḍakhādya-1936]: *Khaṇḍanakhaṇḍakhādya.* Edited by Sūrya Nārāyaṇa Śukla, 1936, in *Khaṇḍanakhaṇḍakhādyam Śrīharṣapraṇītam; Śrīmaccitsukhācāryapraṇītayā Khaṇḍanabhāvadīpikayā, Śaṅkaramiśrapraṇītayā Śāṅkaryā, Raghunāthabhaṭṭācāryapraṇītayā Khaṇḍanabhūṣāmaṇiṭīkayā, Pragalbhamiśrapraṇītena Khaṇḍanadarpaṇena, Sūryanārāyaṇaśuklapraṇītayā Khaṇḍanaratnamālikayā ca sametam*, Varanasi: Chowkhamba Sanskrit Series.
 
-[^kkh-1979]: [KKh] *Khaṇḍanakhaṇḍakhādya.* Edited by Swāmī Yogīndrānanda, 1979, in *Kavitārkikacakracūḍāmaṇiśrīharṣapraṇītam; Śrīvidyāsāgaropahvānandapurṇamunīndraviracita-Khaṇḍanaphakkikavibhajanasamvalitam ; Śrīr̥ṣirāmaśiṣyasvāmiyogīndrānandakr̥ta-Khaṇḍanapañjikayopetam*, Varanasi: Saḍdarśana-prakāśana-pratiṣṭhāna, Varanasi: Chowkhamba Vidyābhavana. [2010 reprinted edition referred to as *KKh*.]
+[^khaṇḍanakhaṇḍakhādya-1979]: [KKh] *Khaṇḍanakhaṇḍakhādya.* Edited by Swāmī Yogīndrānanda, 1979, in *Kavitārkikacakracūḍāmaṇiśrīharṣapraṇītam; Śrīvidyāsāgaropahvānandapurṇamunīndraviracita-Khaṇḍanaphakkikavibhajanasamvalitam ; Śrīr̥ṣirāmaśiṣyasvāmiyogīndrānandakr̥ta-Khaṇḍanapañjikayopetam*, Varanasi: Saḍdarśana-prakāśana-pratiṣṭhāna, Varanasi: Chowkhamba Vidyābhavana. [2010 reprinted edition referred to as *KKh*.]
 
 [^granoff-1978]: Granoff, Phyllis E., 1978, *Philosophy and Argument in Late Vedānta: Śrī Harṣa’s Khaṇḍanakhaṇḍakhādya*, Dodrecht: D. Reidel. [Contains a translation of the introduction to *Khaṇḍanakhaṇḍakhādya* on pages 71–208]. doi:10.1007/978-94-009-9822-3
 

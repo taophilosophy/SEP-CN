@@ -220,17 +220,17 @@ English Translations of Key Texts
 
 Hegel, Georg Wilhelm Friedrich | Hegel, Georg Wilhelm Friedrich: dialectics | Kant, Immanuel
 
-[^el-1991]: [EL], *The Encyclopaedia Logic: Part 1 of the Encyclopaedia of Philosophical Sciences with the Zusätze*, translated by T. F. Geraets, W. A. Suchting and H. S. Harris. Indianapolis: Hackett, 1991.
+[^encyclopaedia-1991]: [EL], *The Encyclopaedia Logic: Part 1 of the Encyclopaedia of Philosophical Sciences with the Zusätze*, translated by T. F. Geraets, W. A. Suchting and H. S. Harris. Indianapolis: Hackett, 1991.
 
-[^lnr-1817]: [LNR], *Lectures on Natural Right and Political Science: The First Philosophy of Right, Heidelberg 1817–1818 with Additions from the Lectures of 1818–1819*, translated by J. Michael Stewart and Peter C. Hodgson. Berkeley: University of California Press, 1995.
+[^lectures-1817]: [LNR], *Lectures on Natural Right and Political Science: The First Philosophy of Right, Heidelberg 1817–1818 with Additions from the Lectures of 1818–1819*, translated by J. Michael Stewart and Peter C. Hodgson. Berkeley: University of California Press, 1995.
 
-[^pw-1999]: [PW], *Political Writings*, edited by Laurence Dickey and H. B. Nisbet. Cambridge: Cambridge University Press, 1999.
+[^political-1999]: [PW], *Political Writings*, edited by Laurence Dickey and H. B. Nisbet. Cambridge: Cambridge University Press, 1999.
 
-[^pm-1830]: [PM], *Hegel’s Philosophy of Mind*, translated from the 1830 Edition, together with the *Zusätze* by William Wallace and A.V. Miller, with Revisions and Commentary by M. J Inwood, Oxford: Clarendon Press, 2007.
+[^hegel’s-1830]: [PM], *Hegel’s Philosophy of Mind*, translated from the 1830 Edition, together with the *Zusätze* by William Wallace and A.V. Miller, with Revisions and Commentary by M. J Inwood, Oxford: Clarendon Press, 2007.
 
-[^pr-1991]: [PR], *Elements of the Philosophy of Right*, edited by Allen W. Wood, translated by H.B. Nisbet, Cambridge: Cambridge University Press, 1991.
+[^elements-1991]: [PR], *Elements of the Philosophy of Right*, edited by Allen W. Wood, translated by H.B. Nisbet, Cambridge: Cambridge University Press, 1991.
 
-[^sl-1969]: [SL], *Science of Logic*, trans. A. V. Miller. Amherst: Humanity Books, 1969.
+[^science-1969]: [SL], *Science of Logic*, trans. A. V. Miller. Amherst: Humanity Books, 1969.
 
 [^avineri-1961]: Avineri, Shlomo, 1961, “The Problem of War in Hegel’s Thought,” *Journal of the History of Ideas*, 22: 463–74.
 

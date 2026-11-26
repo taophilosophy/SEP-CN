@@ -286,35 +286,35 @@ action | Collingwood, Robin George: aesthetics | Davidson, Donald | Gadamer, Han
 
 In this coauthored entry, Section 1 (Biographical Sketch) was contributed by James Connelly, while the rest of the entry was written by Giuseppina D’Oro.
 
-[^rp-1916]: [RP] *Religion and Philosophy*, London: Macmillan Press, 1916.
+[^religion-1916]: [RP] *Religion and Philosophy*, London: Macmillan Press, 1916.
 
-[^sm-1924]: [SM] *Speculum Mentis*, Oxford: Clarendon Press, 1924.
+[^speculum-1924]: [SM] *Speculum Mentis*, Oxford: Clarendon Press, 1924.
 
-[^epm-1933]: [EPM] *An Essay on Philosophical Method*, Oxford: Clarendon Press, 1933; revised edition, with an introduction by James Connelly and Giuseppina D’Oro, Oxford: Oxford University Press, 2005.
+[^an-1933]: [EPM] *An Essay on Philosophical Method*, Oxford: Clarendon Press, 1933; revised edition, with an introduction by James Connelly and Giuseppina D’Oro, Oxford: Oxford University Press, 2005.
 
-[^pa-1938]: [PA] *The Principles of Art*, Oxford: Clarendon Press, 1938.
+[^principles-1938]: [PA] *The Principles of Art*, Oxford: Clarendon Press, 1938.
 
-[^aa-1939]: [AA] *An Autobiography*, Oxford: Oxford University Press, 1939; revised edition, *R.G. Collingwood: An Autobiography and other writings, with essays on Collingwood’s life and work*, edited by David Boucher and Teresa Smith, Oxford: Oxford University Press, 2013.
+[^an-1939]: [AA] *An Autobiography*, Oxford: Oxford University Press, 1939; revised edition, *R.G. Collingwood: An Autobiography and other writings, with essays on Collingwood’s life and work*, edited by David Boucher and Teresa Smith, Oxford: Oxford University Press, 2013.
 
-[^em-1940]: [EM] *An Essay on Metaphysics*, Oxford: Clarendon Press, 1940; revised edition, with an introduction by Rex Martin, Oxford: Oxford University Press, 1998.
+[^an-1940]: [EM] *An Essay on Metaphysics*, Oxford: Clarendon Press, 1940; revised edition, with an introduction by Rex Martin, Oxford: Oxford University Press, 1998.
 
-[^nl-1942]: [NL] *The New Leviathan*, Oxford: Clarendon Press, 1942; revised edition, edited and introduced by David Boucher, Oxford: Clarendon Press, 1992.
+[^new-1942]: [NL] *The New Leviathan*, Oxford: Clarendon Press, 1942; revised edition, edited and introduced by David Boucher, Oxford: Clarendon Press, 1992.
 
 [^idea-1945]: [IN] *The Idea of Nature*, Oxford: Clarendon Press, 1945.
 
-[^ih-1946]: [IH] *The Idea of History*, Oxford: Clarendon Press, 1946; revised edition, with an introduction by Jan Van der Dussen, Oxford: Oxford University Press, 1993.
+[^idea-1946]: [IH] *The Idea of History*, Oxford: Clarendon Press, 1946; revised edition, with an introduction by Jan Van der Dussen, Oxford: Oxford University Press, 1993.
 
-[^epa-1964]: [EPA] *Essays in the Philosophy of Art*, edited and introduced by A. Donagan, Bloomington: University of Indiana Press, 1964.
+[^essays-1964]: [EPA] *Essays in the Philosophy of Art*, edited and introduced by A. Donagan, Bloomington: University of Indiana Press, 1964.
 
-[^eph-1965]: [EPH] *Essays in the Philosophy of History*, edited and introduced by W. Debbins, Austin: University of Texas Press, 1965.
+[^essays-1965]: [EPH] *Essays in the Philosophy of History*, edited and introduced by W. Debbins, Austin: University of Texas Press, 1965.
 
-[^fr-1968]: [FR] *Faith and Reason: Essays in the Philosophy of Religion*, edited and introduced by L. Rubinoff, Chicago: Quadrangle Books, 1968.
+[^faith-1968]: [FR] *Faith and Reason: Essays in the Philosophy of Religion*, edited and introduced by L. Rubinoff, Chicago: Quadrangle Books, 1968.
 
-[^epp-1989]: [EPP] *Essays in Political Philosophy*, D. Boucher (ed.), Oxford: Oxford University Press, 1989.
+[^essays-1989]: [EPP] *Essays in Political Philosophy*, D. Boucher (ed.), Oxford: Oxford University Press, 1989.
 
-[^ph-1999]: [PH] *The Principles of History*, W. H. Dray and Jan Van der Dussen (eds.), Oxford: Oxford University Press, 1999.
+[^principles-1999]: [PH] *The Principles of History*, W. H. Dray and Jan Van der Dussen (eds.), Oxford: Oxford University Press, 1999.
 
-[^pe-2005]: [PE] *The Philosophy of Enchantment*, David Boucher, Wendy James and Philip Smallwood (eds.), Oxford: Oxford University Press, 2005.
+[^philosophy-2005]: [PE] *The Philosophy of Enchantment*, David Boucher, Wendy James and Philip Smallwood (eds.), Oxford: Oxford University Press, 2005.
 
 [^connelly-2014]: Connelly, J., Johnson, P. and Leach, S., 2014, *R. G. Collingwood: A Research Companion*, London: Bloomsbury. [Comprehensive bibliography of works by Collingwood as well as bibliographies of secondary literature, together with a chronology and details of correspondence.]
 

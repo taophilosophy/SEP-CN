@@ -454,7 +454,7 @@ Interestingly, the Samkhya school has a view of God reminiscent of Aristotle’s
 
 [^dawkins-2006]: Dawkins, Richard, 2006, *The God Delusion*, Boston: Houghton Mifflin Company.
 
-[^ddj-1963]: [*DDJ*] *Daodejing* attributed to Lao Tzu. Translated as *Tao Te Ching*, D. C. Lau (trans./ed.), New York: Penguin Books, 1963.
+[^daodejing-1963]: [*DDJ*] *Daodejing* attributed to Lao Tzu. Translated as *Tao Te Ching*, D. C. Lau (trans./ed.), New York: Penguin Books, 1963.
 
 [^descartes-1641]: Descartes, René, 1641, replies in *Objections and Replies* to the *Meditations on First Philosophy* in *The Philosophical Writings of Descartes, vol. II*, J. Cottingham, R. Stoothoff, & D. Murdoch (trans.), Cambridge: Cambridge University Press, 1984, reprinted 1988, pages 66–383.
 

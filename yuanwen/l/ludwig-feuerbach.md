@@ -309,39 +309,39 @@ afterlife | atheism and agnosticism | Bauer, Bruno | Bayle, Pierre | death | ego
 
 [^references-1981]: References to Feuerbach’s published writings are to the critical edition of his collected works or *Gesammelte Werke* (hereafter *GW*) edited by Werner Schuffenhauer, Berlin: Akademie Verlag, 1981–. Feuerbach’s writings are cited in the text using the following system of abbreviation. Page numbers refer to the relevant volume of *GW* as indicated below. In cases where two page numbers are separated by a slash, the second refers to the relevant translation as indicated below. Although I have made use of these translations, in many cases I have preferred to provide my own.
 
-[^ap-1841]: [*AP*] “Einige Bemerkungen über den *Anfang der Philosophie* von D.J.F. Reiff” (1841) = *GW*, v. 9, 143–153 = “On ‘The Beginning of Philosophy,’” in *FB* 135–144.
+[^einige-1841]: [*AP*] “Einige Bemerkungen über den *Anfang der Philosophie* von D.J.F. Reiff” (1841) = *GW*, v. 9, 143–153 = “On ‘The Beginning of Philosophy,’” in *FB* 135–144.
 
 [^zur-1842]: [*B*] “Zur Beurteilung der Schrift *Das Wesen des Christentums*” (1842) = *GW* v. 9, 229–242. No translation available.
 
-[^eewr-1846]: [*EEWR*] *Ergänzungen und Erläuterungen zum “Wesen der Religion”* (1846) = *GW* v. 10, 80–121.
+[^ergänzungen-1846]: [*EEWR*] *Ergänzungen und Erläuterungen zum “Wesen der Religion”* (1846) = *GW* v. 10, 80–121.
 
-[^fb-1972]: [*FB*] *The Fiery Brook: Selected Writings of Ludwig Feuerbach*, trans. with an introduction by Z. Hanfi, Garden City, N.Y., Doubleday, 1972.
+[^fiery-1972]: [*FB*] *The Fiery Brook: Selected Writings of Ludwig Feuerbach*, trans. with an introduction by Z. Hanfi, Garden City, N.Y., Doubleday, 1972.
 
-[^gpz-1986]: [*GPZ*] *Grundsätze der Philosophie der Zukunft* = *GW* v. 9, 264–341 = *Principles of the Philosophy of the Future*, trans. M. Vogel with an intro by T.E. Wartenberg, Indianapolis: Hackett, 1986.
+[^grundsätze-1986]: [*GPZ*] *Grundsätze der Philosophie der Zukunft* = *GW* v. 9, 264–341 = *Principles of the Philosophy of the Future*, trans. M. Vogel with an intro by T.E. Wartenberg, Indianapolis: Hackett, 1986.
 
-[^gtu-1830]: [*GTU*] *Gedanken über Tod und Unsterblichkeit aus den Papieren eines Denkers* (1830), *GW* v. 1, 175–515 = *Thoughts on Death and Immortality from the Papers of a Thinker*, trans. with intro and notes by J.A. Massey, Berkeley: University of California Press, 1980.
+[^gedanken-1830]: [*GTU*] *Gedanken über Tod und Unsterblichkeit aus den Papieren eines Denkers* (1830), *GW* v. 1, 175–515 = *Thoughts on Death and Immortality from the Papers of a Thinker*, trans. with intro and notes by J.A. Massey, Berkeley: University of California Press, 1980.
 
-[^gw-1981]: [*GW*] Feuerbach, L. (1981–), *Gesammelte Werke*, W. Schuffenhauer (ed.), Berlin: Akademie Verlag.
+[^feuerbach-1981]: [*GW*] Feuerbach, L. (1981–), *Gesammelte Werke*, W. Schuffenhauer (ed.), Berlin: Akademie Verlag.
 
-[^kpp-1839]: [*KPP*] *Zur Kritik der “positiven Philosophie”* (1839) = *GW*, v. 8, 181–207. No translation available.
+[^zur-1839]: [*KPP*] *Zur Kritik der “positiven Philosophie”* (1839) = *GW*, v. 8, 181–207. No translation available.
 
 [^zur-1868]: [*M*] “Zur Moralphilosophie” (1868), W. Schuffenhauer (ed.), in Braun, 1994: 353–430. No translation available.
 
-[^nv-1996]: [*NV*] “Grundsätze der Philosophie: Notwendigkeit einer Veränderung” (date uncertain), in Feuerbach, 1996: 119–135 = “The Necessity of a Reform of Philosophy”, in *FB*, 145–152. This unpublished manuscript is not included in any of the volumes of *GW* that have appeared to date.
+[^grundsätze-1996]: [*NV*] “Grundsätze der Philosophie: Notwendigkeit einer Veränderung” (date uncertain), in Feuerbach, 1996: 119–135 = “The Necessity of a Reform of Philosophy”, in *FB*, 145–152. This unpublished manuscript is not included in any of the volumes of *GW* that have appeared to date.
 
-[^sm-1866]: [*SM*] “Über Spiritualismus und Materialismus, besonders in Beziehung auf die Willensfreiheit” (1866) = *GW* v. 11, 53–186. No translation available.
+[^über-1866]: [*SM*] “Über Spiritualismus und Materialismus, besonders in Beziehung auf die Willensfreiheit” (1866) = *GW* v. 11, 53–186. No translation available.
 
-[^vgp-1974]: [*VGP*] *Vorlesungen über die Geschichte der neueren Philosophie*, E. Thies (ed.), Darmstadt: Wissenschaftliche Buchgesellschaft, 1974. This volume contains notes for lectures on the history of modern philosophy delivered by Feuerbach in Erlangen during the 1835/36 academic year.
+[^vorlesungen-1974]: [*VGP*] *Vorlesungen über die Geschichte der neueren Philosophie*, E. Thies (ed.), Darmstadt: Wissenschaftliche Buchgesellschaft, 1974. This volume contains notes for lectures on the history of modern philosophy delivered by Feuerbach in Erlangen during the 1835/36 academic year.
 
-[^vwr-1967]: [*VWR*] *Vorlesungen über das Wesen der Religion* = *GW* v. 6 = *Lectures on the Essence of Religion*, trans. R. Manheim, New York: Harper & Row, 1967.
+[^vorlesungen-1967]: [*VWR*] *Vorlesungen über das Wesen der Religion* = *GW* v. 6 = *Lectures on the Essence of Religion*, trans. R. Manheim, New York: Harper & Row, 1967.
 
-[^vt-1842]: [*VT*] “Vorläufige Thesen zur Reformation der Philosophie” (1842) = *GW* v. 9, 243–263.
+[^vorläufige-1842]: [*VT*] “Vorläufige Thesen zur Reformation der Philosophie” (1842) = *GW* v. 9, 243–263.
 
-[^wc-1841]: [*WC*] *Das Wesen des Christentums* (1841) = *GW*, v. 5 = *The Essence of Christianity*, trans. G. Eliot with an intro by K. Barth and a foreword by H.R. Niebuhr, New York: Harper Torchbooks, 1957.
+[^das-1841]: [*WC*] *Das Wesen des Christentums* (1841) = *GW*, v. 5 = *The Essence of Christianity*, trans. G. Eliot with an intro by K. Barth and a foreword by H.R. Niebuhr, New York: Harper Torchbooks, 1957.
 
-[^wgl-1967]: [*WGL*] *Das Wesen des Glaubens im Sinne* Luthers = *GW*, v. 9, 353–412 = *The Essence of Faith According to Luther*, trans. and with an introduction by M. Cherno, New York: Harper & Row, 1967.
+[^das-1967]: [*WGL*] *Das Wesen des Glaubens im Sinne* Luthers = *GW*, v. 9, 353–412 = *The Essence of Faith According to Luther*, trans. and with an introduction by M. Cherno, New York: Harper & Row, 1967.
 
-[^wr-1846]: [*WR*] *Das Wesen der Religion* (1846) = *GW* v. 10, 3–19.
+[^das-1846]: [*WR*] *Das Wesen der Religion* (1846) = *GW* v. 10, 3–19.
 
 [^theogonie-1857]: [*T*] *Theogonie nach den Quellen des klassischen, hebräischen und christlichen Altertums* (1857) = *GW* v. 7.
 

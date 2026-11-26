@@ -430,7 +430,7 @@ Kant, Immanuel | Kant, Immanuel: philosophy of mathematics | Kant, Immanuel: tra
 
 Thanks to Lucy Allais, Anil Gomes, Lisa Shabel, Nick Stang, Andrew Stephenson, Clinton Tolley, and the Kant subject editors for the SEP for helpful comments and discussion concerning the structure and content of this piece.
 
-[^ak-1900]: [Ak.] Königlichen Preußischen (later Deutschen) Akademie der Wissenschaften (ed.), 1900-, *Kants gesammelte Schriften*, Berlin: Georg Reimer (later Walter De Gruyter).
+[^königlichen-1900]: [Ak.] Königlichen Preußischen (later Deutschen) Akademie der Wissenschaften (ed.), 1900-, *Kants gesammelte Schriften*, Berlin: Georg Reimer (later Walter De Gruyter).
 
 [^guyer-1992]: Guyer, Paul and Allen W. Wood (eds.), 1992–, *The Cambridge Edition of the Works of Immanuel Kant*, Cambridge: Cambridge University Press.
 

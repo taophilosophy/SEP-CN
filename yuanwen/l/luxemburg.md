@@ -117,15 +117,9 @@ The main sources for Luxemburg's work are as follows, where the abbreviations us
 
 **[AK]**
 
-1913, *Die Akkumulation des Kapitals*, Berlin: Paul Singer; translated as *The Accumulation of Capital*, Agnes Schwarzschild (trans.), London: Routledge, 2003 [1951].
-
 **[CW]**
 
-*The Complete Works*, Peter Hudis (ed.), London: Verso, 2013.
-
 **[RLR]**
-
-*The Rosa Luxemburg Reader*, Peter Hudis and Kevin Anderson (eds.), New York: Monthly Review Press, 2004.
 
 #### Individual Original Works
 
@@ -146,6 +140,12 @@ The main sources for Luxemburg's work are as follows, where the abbreviations us
 ## Related Entries
 
 capitalism | colonialism | democracy | exploitation | feminist philosophy, topics: perspectives on class and work | markets | Marx, Karl | Marxism, analytical | nationalism | revolution | social democracy | socialism
+
+[^luxemburg-1913]: 1913, *Die Akkumulation des Kapitals*, Berlin: Paul Singer; translated as *The Accumulation of Capital*, Agnes Schwarzschild (trans.), London: Routledge, 2003 [1951].
+
+[^complete-2013]: *The Complete Works*, Peter Hudis (ed.), London: Verso, 2013.
+
+[^rosa-2004]: *The Rosa Luxemburg Reader*, Peter Hudis and Kevin Anderson (eds.), New York: Monthly Review Press, 2004.
 
 [^luxemburg-1900]: 1900, “Social Reform or Revolution” [“*Sozialreform oder Revolution?*”], Dick Howard (trans.), in [RLR], pp. 128–167.
 

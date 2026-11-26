@@ -266,11 +266,11 @@ This epigram is sometimes used to suggest that Schiller himself interpreted Kant
 
 [^note-9]: Goethe himself perpetuated an oversimplified reading of this essay, claiming thirty years after Schiller’s death that Schiller had written it in order to vindicate his own poetic disposition against Goethe’s (Sharpe 1991: 189)[^sharpe-1991]. As should be clear, Schiller’s distinction between naïve and sentimental is too multi-layered to reduce to a description of two people; he is also critical of his own sentimental tendencies and so hardly uniformly critical of Goethe.
 
-[^na-1943]: [NA] 1943 ff., *Schillers Werke, Nationalausgabe*, Julius Petersen et al. (eds.), 43 vols., Weimar: Hermann Böhlaus Nachfolger. Cited **NA** followed by volume and page number, then by English translation abbreviation and page number.
+[^schiller-1943]: [NA] 1943 ff., *Schillers Werke, Nationalausgabe*, Julius Petersen et al. (eds.), 43 vols., Weimar: Hermann Böhlaus Nachfolger. Cited **NA** followed by volume and page number, then by English translation abbreviation and page number.
 
-[^kl-2003]: [KL] 2003, “Kallias or Concerning Beauty: Letters to Gottfried Körner”, Stefan Bird-Polan (trans.), in J. M. Bernstein (ed.), *Classic and Romantic German Aesthetics*, Cambridge: Cambridge University Press: pp. 145–183. Cited **KL** followed by page number.
+[^schiller-2003]: [KL] 2003, “Kallias or Concerning Beauty: Letters to Gottfried Körner”, Stefan Bird-Polan (trans.), in J. M. Bernstein (ed.), *Classic and Romantic German Aesthetics*, Cambridge: Cambridge University Press: pp. 145–183. Cited **KL** followed by page number.
 
-[^gd-2005]: [GD] 2005, “On Grace and Dignity”, Jane V. Curran (trans.), in Jane V. Curran and Christophe Fricker (eds.), *Schiller’s ‘On Grace and Dignity’ in Its Cultural Context: Essays and a New Translation*, Rochester, NY: Camden House: pp. 123–170. Cited **GD** followed by page number.
+[^schiller-2005]: [GD] 2005, “On Grace and Dignity”, Jane V. Curran (trans.), in Jane V. Curran and Christophe Fricker (eds.), *Schiller’s ‘On Grace and Dignity’ in Its Cultural Context: Essays and a New Translation*, Rochester, NY: Camden House: pp. 123–170. Cited **GD** followed by page number.
 
 [^schiller-1993]: [E] 1993, *Essays*, Daniel O. Dahlstrom and Walter Hinderer (eds.), New York: Continuum. Cited **E** followed by page number.
 

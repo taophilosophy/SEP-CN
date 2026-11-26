@@ -142,17 +142,17 @@ Bardout (2000)[^bardout-2000], 111–62, includes the argument that Malebranche�
 
 Augustine of Hippo | Descartes, René: epistemology | Descartes, René: ethics | Descartes, René: life and works | Descartes, René: modal metaphysics | Descartes, René: ontological argument | Descartes, René: physics | Desgabets, Robert | emotion: 17th and 18th century theories of | Leibniz, Gottfried Wilhelm: ethics | Leibniz, Gottfried Wilhelm: on causation | Leibniz, Gottfried Wilhelm: on the problem of evil | Leibniz, Gottfried Wilhelm: philosophy of mind | Malebranche, Nicolas: theory of ideas and vision in God | rationalism, early modern | Spinoza, Baruch | Spinoza, Baruch: psychological theory
 
-[^oc-1958]: [OC], *Œuvres complètes de Malebranche* (20 volumes), A. Robinet (ed.), Paris: J. Vrin, 1958–84.
+[^ètes-1958]: [OC], *Œuvres complètes de Malebranche* (20 volumes), A. Robinet (ed.), Paris: J. Vrin, 1958–84.
 
-[^dm-1980]: [DM], *Dialogues on Metaphysics*, W. Doney (trans.), New York: Abaris Books, 1980.
+[^dialogues-1980]: [DM], *Dialogues on Metaphysics*, W. Doney (trans.), New York: Abaris Books, 1980.
 
-[^dc-1980]: [DC], *Dialogue between a Christian Philosopher and a Chinese Philosopher on the Existence and Nature of God*, D. A. Iorio (trans.), Washington, DC: Catholic University Press, 1980.
+[^dialogue-1980]: [DC], *Dialogue between a Christian Philosopher and a Chinese Philosopher on the Existence and Nature of God*, D. A. Iorio (trans.), Washington, DC: Catholic University Press, 1980.
 
-[^te-1993]: [TE], *Treatise on Ethics*, C. Walton (trans.), Dordrecht: Kluwer, 1993.
+[^treatise-1993]: [TE], *Treatise on Ethics*, C. Walton (trans.), Dordrecht: Kluwer, 1993.
 
-[^dmr-1997]: [DMR], *Dialogues on Metaphysics and on Religion*, N. Jolley and D. Scott (trans.), Cambridge: Cambridge University Press, 1997.
+[^dialogues-1997]: [DMR], *Dialogues on Metaphysics and on Religion*, N. Jolley and D. Scott (trans.), Cambridge: Cambridge University Press, 1997.
 
-[^st-1997b]: [ST], *The Search after Truth*, T. M. Lennon and P. J. Olscamp (trans.), New York: Cambridge University Press, 1997b; Columbus: Ohio State University Press, 1980.
+[^search-1997b]: [ST], *The Search after Truth*, T. M. Lennon and P. J. Olscamp (trans.), New York: Cambridge University Press, 1997b; Columbus: Ohio State University Press, 1980.
 
 [^andré-1886]: André, Y. M., *La vie du R. P. Malebranche*, Paris: Ingold, 1886; Geneva: Slatkin Reprints, 1970.
 

@@ -298,7 +298,7 @@ Hegel, Georg Wilhelm Friedrich | Herbart, Johann Friedrich | Lotze, Hermann | me
 
 [^fechner-1846b]: 1846b, as Dr. Mises, *Vier Paradoxa*, Leipzig: Leopold Voß.
 
-[^nanna-1848a]: [*Nanna*] 1848a [1908], *Nanna oder über das Seelenleben der Pflanzen*, Leipzig: Leopold Voß. Fourth edition (Vierte Auflage), 1908. Page references are to the fourth edition.
+[^fechner-1848a]: [*Nanna*] 1848a [1908], *Nanna oder über das Seelenleben der Pflanzen*, Leipzig: Leopold Voß. Fourth edition (Vierte Auflage), 1908. Page references are to the fourth edition.
 
 [^fechner-1848b]: 1848b, “Ueber das Lustprincip des Handeln”, *Zeitschrift für Philosophie und philosophische Kritik*, 19: 1–30, 163–94.
 
@@ -306,9 +306,9 @@ Hegel, Georg Wilhelm Friedrich | Herbart, Johann Friedrich | Lotze, Hermann | me
 
 [^fechner-1851a]: 1851a, “Zur Kritik der Grundlagen von Herbarts Metaphysik”, *Zeitschrift für Philosophie und philosophische Kritik* 21: 193–209.
 
-[^za-1851b]: [*ZA*] 1851b [1901], *Zend-Avesta oder über die Dinge des Himmels und des Jenseits. Vom Standpunkt der Naturbetrachtung*, Leipzig: Leopold Voß. Second edition, Kurd Laßwitz (ed.), 1901. Page references are to the second edition.
+[^fechner-1851b]: [*ZA*] 1851b [1901], *Zend-Avesta oder über die Dinge des Himmels und des Jenseits. Vom Standpunkt der Naturbetrachtung*, Leipzig: Leopold Voß. Second edition, Kurd Laßwitz (ed.), 1901. Page references are to the second edition.
 
-[^atom-1855]: [*Atom*] 1855, *Über die physikalische und philosophische Atomlehre*, Leipzig: Hermann Mendelssohn. A second expanded edition appeared in 1864. All page references are to the first edition.
+[^fechner-1855]: [*Atom*] 1855, *Über die physikalische und philosophische Atomlehre*, Leipzig: Hermann Mendelssohn. A second expanded edition appeared in 1864. All page references are to the first edition.
 
 [^fechner-1856]: 1856, *Professor Schleiden und der Mond*, Leipzig: Adolf Gumprecht.
 

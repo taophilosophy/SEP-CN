@@ -259,8 +259,6 @@ a. If either the left or the right switch were flipped up, the light would be on
 
 So, if the left switch were flipped up, the light would be on.
 
-
-
 Generally, inferences of this form seem valid. This suggests the following principle holds:
 
 - **Simplification of Disjunctive Antecedents (SDA)**: $({{A}} \vee {{B}}) \mathbin{>} {{C}} \vDash ({{A}} \mathbin{>} {{C}}) \wedge ({{B}} \mathbin{>} {{C}})$

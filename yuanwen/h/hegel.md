@@ -263,7 +263,7 @@ Plato and especially Aristotle represent the pinnacle of ancient philosophy, but
 
 Philosophy proper only thrives under conditions of at-homeness in the world, and such conditions obtained in neither the Roman nor the medieval world. Hegel then sees both periods of philosophy as effectively marking time, and it is only in the modern world that philosophy once more develops. What modern philosophy will reflect is the universalization of the type of subjectivity we have seen represented by Socrates in the Greek polis and Jesus in the Christian religious community (de Boer 2017). Strangely, Hegel nominates two very antithetic figures as marking the onset of modern philosophy, Francis Bacon and the German Christian mystic Jacob Böhme (LHP III: 170–216). In the 1825–6 lectures, Hegel traces the path of modern philosophy from there through three phases: a first period of metaphysics comprising Descartes, Spinoza and Malebranche; a second comprising Locke, Leibniz and others; and the recent philosophies of Kant, Fichte, Jacobi and Schelling. Of course the perspective from which this narrative has been written is the absent final stage within this sequence—that represented by Hegel himself. Hegel concludes the lectures with the claim that he has
 
-> tried to exhibit the necessary procession of this series of spiritual configurations out of one another, so that each philosophy necessarily presupposes the one preceding it. Our standpoint is the cognition of spirit, the knowledge of the idea as spirit, as absolute spirit, which as absolute opposes itself to another spirit, to the finite spirit. To recognize that absolute spirit can be *for it* is this finite spirit’s principle and vocation. (LHP 1825–6, III: 212, italics in original)[^lhp-1825]
+> tried to exhibit the necessary procession of this series of spiritual configurations out of one another, so that each philosophy necessarily presupposes the one preceding it. Our standpoint is the cognition of spirit, the knowledge of the idea as spirit, as absolute spirit, which as absolute opposes itself to another spirit, to the finite spirit. To recognize that absolute spirit can be *for it* is this finite spirit’s principle and vocation. (LHP 1825–6, III: 212, italics in original)[^lectures-1825]
 
 ## References（引用注释）
 
@@ -308,35 +308,35 @@ I am grateful to the section editor Allen Wood for very helpful suggestions and 
 
 [^difference-1977]: *The Difference Between Fichte’s and Schelling’s System of Philosophy*, translated by H.S. Harris and W. Cerf, Albany: State University of New York Press, 1977.
 
-[^phen-2017]: [Phen] *Phenomenology of Spirit*, translated by Terry Pinkard, Cambridge: Cambridge University Press, 2017.
+[^phenomenology-2017]: [Phen] *Phenomenology of Spirit*, translated by Terry Pinkard, Cambridge: Cambridge University Press, 2017.
 
 [^hegel’s-1979]: *Hegel’s Phenomenology of Spirit*, translated by A. V. Miller, with analysis of the text and foreword by J. N. Findlay, Oxford: Clarendon Press, 1979.
 
-[^sl-2010]: [SL] *The Science of Logic*, translated by George di Giovanni, New York: Cambridge University Press, 2010.
+[^science-2010]: [SL] *The Science of Logic*, translated by George di Giovanni, New York: Cambridge University Press, 2010.
 
 [^encyclopaedia-2010]: *Encyclopaedia of the Philosophical Sciences in Basic Outline, Part 1: Logic*, translated and edited by Klaus Brinkmann and Daniel O. Dahlstrom, Cambridge: Cambridge University Press, 2010.
 
-[^pn-1970]: [PN] *Hegel’s Philosophy of Nature*, 3 volumes, translated and with an introduction by Michael John Petry, London: George Allen and Unwin, 1970.
+[^hegel’s-1970]: [PN] *Hegel’s Philosophy of Nature*, 3 volumes, translated and with an introduction by Michael John Petry, London: George Allen and Unwin, 1970.
 
-[^pm-1830]: [PM] *Hegel’s Philosophy of Mind*, translated from the 1830 edition, together with the Zusätze, by William Wallace and A.V. Miller, with revisions and commentary by M.J. Inwood, Oxford: Clarendon Press, 2007.
+[^hegel’s-1830]: [PM] *Hegel’s Philosophy of Mind*, translated from the 1830 edition, together with the Zusätze, by William Wallace and A.V. Miller, with revisions and commentary by M.J. Inwood, Oxford: Clarendon Press, 2007.
 
 [^lectures-1827]: *Lectures on the Philosophy of Spirit, 1827–8*, translated with an introduction by Robert R. Williams, Oxford: Oxford University Press, 2007. (Translation of G.W.F. Hegel: Vorlesungen: Ausgewählte Nachschriften und Manuskripte, vol. 13.)
 
-[^pr-1991]: [PR] *Elements of the Philosophy of Right*, edited by Allen W. Wood, translated by H.B. Nisbet, Cambridge: Cambridge University Press, 1991.
+[^elements-1991]: [PR] *Elements of the Philosophy of Right*, edited by Allen W. Wood, translated by H.B. Nisbet, Cambridge: Cambridge University Press, 1991.
 
 [^lectures-1995]: *Lectures on Natural Right and Political Science: The First Philosophy of Right*, translated by J. Michael Stewart and Peter C. Hodgson, edited by the staff of the Hegel Archives with an introduction by Otto Pöggeler, Berkeley: University of California Press, 1995.
 
-[^pwh-1956]: [PWH] *The Philosophy of World History*, edited and translated by John Sibree, New York: Dover, 1956. (First published 1857.)
+[^philosophy-1956]: [PWH] *The Philosophy of World History*, edited and translated by John Sibree, New York: Dover, 1956. (First published 1857.)
 
 [^lectures-1822]: *Lectures on the Philosophy of World History, Volume 1: Manuscripts of the Introduction and the Lectures of 1822–3*, edited and translated by Robert F. Brown and Peter C. Hodgson with the assistance of William G. Geuss, Oxford: Oxford University Press, 2011. (Translation of G.W.F. Hegel: *Vorlesungen: Ausgewählte Nachschriften und Manuskripte*, vol. 12.)
 
-[^aes-1998]: [Aes] *Aesthetics: Lectures on Fine Art*, 2 volumes, translated by T.M. Knox, Oxford: Oxford University Press, 1998. (First published 1975.)
+[^aesthetics-1998]: [Aes] *Aesthetics: Lectures on Fine Art*, 2 volumes, translated by T.M. Knox, Oxford: Oxford University Press, 1998. (First published 1975.)
 
 [^lectures-2007]: *Lectures on the Philosophy of Religion*, 3 volumes, edited by Peter C. Hodgson, translated by R.F. Brown, P.C. Hodgson, and J. M Stewart with the assistance of H.S. Harris, Oxford: Oxford University Press, 2007–8. (Translation of G.W.F. Hegel: *Vorlesungen: Ausgewählte Nachschriften und Manuskripte*, vols. 3–5.)
 
-[^lhp-1995]: [LHP] *Lectures on the History of Philosophy*, 3 volumes, translated by E.S. Haldane and F.H. Simson, with introduction by F.C. Beiser, Lincoln: University of Nebraska Press, 1995. (This translation, first published 1892–6, is of the second edition of Hegel’s *Vorlesungen über die Geschichte der Philosophie*, in 3 volumes, edited by Karl Ludwig Michelet. Berlin: Duncker und Humblot, 1840–4.)
+[^lectures-1995-2]: [LHP] *Lectures on the History of Philosophy*, 3 volumes, translated by E.S. Haldane and F.H. Simson, with introduction by F.C. Beiser, Lincoln: University of Nebraska Press, 1995. (This translation, first published 1892–6, is of the second edition of Hegel’s *Vorlesungen über die Geschichte der Philosophie*, in 3 volumes, edited by Karl Ludwig Michelet. Berlin: Duncker und Humblot, 1840–4.)
 
-[^lhp-1825]: [LHP 1825–6] *Lectures on the History of Philosophy, 1825–6*, 3 volumes, edited by Robert F. Brown, translated by R.F. Brown and J.M. Stewart with the assistance of H.S. Harris, Oxford: Oxford University Press, 2006–9. (Translation of G.W.F. Hegel: *Vorlesungen: Ausgewählte Nachschriften und Manuskripte*, vols. 6–9.)
+[^lectures-1825]: [LHP 1825–6] *Lectures on the History of Philosophy, 1825–6*, 3 volumes, edited by Robert F. Brown, translated by R.F. Brown and J.M. Stewart with the assistance of H.S. Harris, Oxford: Oxford University Press, 2006–9. (Translation of G.W.F. Hegel: *Vorlesungen: Ausgewählte Nachschriften und Manuskripte*, vols. 6–9.)
 
 [^political-1999]: *Political Writings*, ed. Laurence Dickey and H.B. Nisbet, trans. H. B Nisbet, Cambridge: Cambridge University Press, 1999.
 

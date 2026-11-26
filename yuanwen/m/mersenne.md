@@ -277,19 +277,19 @@ Some passages in the biographical parts of this entry are borrowed from Hamou 20
 
 [^mersenne-1634]: 1634 *Questions Inouyes*, edited by André Pessel, Paris, 1985, includes
 
-[^qi-nd]: [QI] *Questions Inouyes ou recreation des sçavans*.
+[^questions-nd]: [QI] *Questions Inouyes ou recreation des sçavans*.
 
-[^qh-nd]: [QH] *Questions harmoniques*.
+[^questions-nd-2]: [QH] *Questions harmoniques*.
 
-[^qt-nd]: [QT] *Les Questions théologiques, physiques, morales et mathématiques*.
+[^les-nd]: [QT] *Les Questions théologiques, physiques, morales et mathématiques*.
 
-[^phu-nd]: [PHU] *Les Préludes de l’harmonie universelle*.
+[^les-nd-2]: [PHU] *Les Préludes de l’harmonie universelle*.
 
 [^mersenne-1634-2]: 1634, *Les Méchaniques de Galilée*, Paris. Edited by Bernard Rochot, Paris: Vrin, 1966.
 
 [^mersenne-1636]: 1636–1637, *Harmonie universelle*, Paris (2 volumes).
 
-[^hu-1963]: [HU] Facsimile of Mersenne’s own annotated copy from the Bibliothèque des Arts et métiers, introduction by François Lesure. Paris, 1963 (3 volumes).
+[^facsimile-1963]: [HU] Facsimile of Mersenne’s own annotated copy from the Bibliothèque des Arts et métiers, introduction by François Lesure. Paris, 1963 (3 volumes).
 
 [^mersenne-1638]: 1638 [NO], *Nouvelles Observations physiques et mathématiques*, in *Harmonie universelle*, volume 2, addition de 1638—copy of Bibliothèque nationale de France, Rés V 588.
 
@@ -303,7 +303,7 @@ Some passages in the biographical parts of this entry are borrowed from Hamou 20
 
 [^mersenne-1651]: 1651 [OC], *L’Optique et la catoptrique nouvellement mise en lumière après la mort de l’autheur*, in *La Perspective curieuse du R. P. Nicéron*, Paris. [[available online](http://archive.wikiwix.com/cache/?url=http%3A%2F%2Fgallica.bnf.fr%2Fark%3A%2F12148%2Fbpt6k105514z.r%3Dmersenne.langFR)]
 
-[^mc-1932]: [MC] *Correspondance du P. Marin Mersenne*, edited by Cornelius De Waard, René Pintard, and Bernard Rochot, Paris: G. Beauchesne, 1932–1988, 17 volumes.
+[^correspondance-1932]: [MC] *Correspondance du P. Marin Mersenne*, edited by Cornelius De Waard, René Pintard, and Bernard Rochot, Paris: G. Beauchesne, 1932–1988, 17 volumes.
 
 [^l’anti-bigot-1623]: [anonymous], *L’Anti-bigot ou le Faux Devotieux* [= *Quatrains du déiste*]. (In Frédéric Lachèvre, *Le Procès du poète Théophile de Viau : 11 juillet 1623–1er septembre 1625*, Paris, 1909–1928, t. 2, p. 91–126. Reprinted Genève, 1968).
 
@@ -315,7 +315,7 @@ Some passages in the biographical parts of this entry are borrowed from Hamou 20
 
 [^coste-1649]: Coste, Hilarion de, 1649, *La Vie du R. P. Mersenne* […]. Paris.
 
-[^at-1897]: [AT] Descartes, Rene, 1897–1910, *Oeuvres de Descartes*, 11 volumes, Charles Adam and Paul Tannery (eds), Paris: Vrin. New edition in 1964–1976.
+[^descartes-1897]: [AT] Descartes, Rene, 1897–1910, *Oeuvres de Descartes*, 11 volumes, Charles Adam and Paul Tannery (eds), Paris: Vrin. New edition in 1964–1976.
 
 [^fludd-1629]: Fludd, Robert, 1629, *Sophia cum moria certamen* […], Frankfurt.
 

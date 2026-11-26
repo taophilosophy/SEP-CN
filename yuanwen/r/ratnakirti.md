@@ -181,8 +181,6 @@ Ratnakīrti, “Citrādvaitaprakāśavāda”, in Thakur (ed.) 1975b: 129–144.
 
 **KBh**
 
-Jñānaśrīmitra, “Kṣaṇabhaṅgādhyāya”, in Thakur (ed.) 1987: 1–159.
-
 **KBhSA**
 
 Ratnakīrti, “Kṣaṇabhaṅgasiddhiḥ—anvayātmikā”, in Thakur (ed.) 1975b: 67–82.
@@ -193,23 +191,15 @@ Ratnakīrti, “Kṣaṇabhaṅgasiddhiḥ—vyatirekātmikā”, in Thakur (ed.
 
 **PS(V)**
 
-Dignāga, “Restored Sanskrit Text of Pramāṇasamuccayavṛtti V”, in Pind 2015: vol. 1, 1–63.
-
 **PV 3**
 
-Dharmakīrti, “Pramāṇavārttika: Chapter on perception”, in Tosaki (ed.) 1985: 1–222.
-
 **PVin 1**
-
-Dharmakīrti, “Pramāṇaviniścayaḥ: Chapter 1”, in Steinkellner (ed.) 2007: 1–44.
 
 **SAD**
 
 Ratnakīrti, “Santānāntaradūṣaṇa”, in Thakur (ed.) 1975b: 145–149.
 
 **Saund.**
-
-Aśvaghoṣa, “Saundarananda”, in Johnston (ed.) 1928: 1–142.
 
 **SJS**
 
@@ -368,6 +358,16 @@ with a reading given in Bühnemann 1980: 98, n40: *nāpi saptamaḥ, duḥkhe vi
 > [Opponent:] If a *yogin* simultaneously sees [things] through both [faculties,] direct mental perception and direct sense perception, then would it not follow, [contrary to your principles,] that two cognitive forms are manifest [simultaneously]? [Proponent:] True! To begin with, the cognitive form belonging to the awareness of the [first noble] truth cannot be in a different location than the thing [being perceived through the senses,] because [otherwise] one awareness or the other would be erroneous. So who could determine in what manner these two cognitive forms, which do not oppose each other, appear? This was said [also by Dharmakīrti:] “The state of *yogin*-s is inconceivable”. (PV 3.530d)
 
 I follow the German translation in Bühnemann 1980: 66. SJS, 23, 3–6: *nanu yogino manovijñā nendriyajñānābhyāṃ paśyata ākāradvayasphuraṇaprasaṅga iti cet. satyam. satyajñānākāras tāvad vastuno na bhinnadeśo ’nyatarabhrāntiprasaṅgāt. atas tāv ākārāv apratighau kayā gatyā sphurata iti ko nirṇetuṃ kṣamaḥ. yad āha: “acintyā yogināṃ gatir” iti.*
+
+[^jñānaśrīmitra-1987]: Jñānaśrīmitra, “Kṣaṇabhaṅgādhyāya”, in Thakur (ed.) 1987: 1–159.
+
+[^dignāga-2015]: Dignāga, “Restored Sanskrit Text of Pramāṇasamuccayavṛtti V”, in Pind 2015: vol. 1, 1–63.
+
+[^dharmakīrti-1985]: Dharmakīrti, “Pramāṇavārttika: Chapter on perception”, in Tosaki (ed.) 1985: 1–222.
+
+[^dharmakīrti-2007]: Dharmakīrti, “Pramāṇaviniścayaḥ: Chapter 1”, in Steinkellner (ed.) 2007: 1–44.
+
+[^aśvaghoṣa-1928]: Aśvaghoṣa, “Saundarananda”, in Johnston (ed.) 1928: 1–142.
 
 [^bühnemann-1980]: Bühnemann, Gudrun, 1980, *Der allwissende Buddha: ein Beweis und seine Probleme: Ratnakīrtis Sarvajñasiddhi* (Wiener Studien zur Tibetologie und Buddhismuskunde 4), Wien: Arbeitskreis für Tibetische und Buddhistische Studien, Universität Wien.
 

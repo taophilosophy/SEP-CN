@@ -379,15 +379,11 @@ Despite the fact that Śrīgupta’s unusual position on conceptual enlightened 
 
 **[AAA]**
 
-Haribhadra, *Abhisamayālaṃkārālokā Prajñāpāramitāvyākhyā*, in *Abhisamayālaṃkārālokā Prajñāpāramitāvyākhyā* (*Commentary on Aṣṭasāhasrikā-Prajñāpāramitā*) *by Haribhadra Together with the Text Commented on*, 2 volumes, Unrai Wogihara (ed.), Tokyo: The Toyo Bunko, 1932–35.
-
 **[AAP]**
 
 Dharmamitra, *Abhisamayālaṃkāraprasphuṭapadā*, PD 3021, vol. 52, 709–987.
 
 **[AK]**
-
-Vasubandhu, *Abhidharmakośakārikā*, in *Abhidharmakośabhāṣya of Vasubandhu* (rev. 2nd ed.), Prahlad Pradhan (ed.), Patna: K. P. Jayaswal Research Center, 1967 [1975].
 
 **[AKBh]**
 
@@ -395,23 +391,13 @@ Vasubandhu, *Abhidharmakośabhāṣya,* see AK.
 
 **[BCAP]**
 
-Prajñākaramati, *Bodhicaryāvatārapañjikā*, in *Prajñākaramati’s Commentary to the Bodhicaryāvatāra of Śāntidev*, Louis de La Vallée Poussin (ed.), Calcutta: Asiatic Society, 1901–14.
-
 **[CŚ]**
-
-Āryadeva, *Catuḥśatakaśāstra*, in *Āryadeva’s* Catuḥśataka: *On the Bodhisattva’s Cultivation of Merit and Knowledge*, Indiske Studier VII, Karen Lang (ed.), Copenhagen: Akademisk Forlag, 1986.
 
 **[D]**
 
-*sDe dge Tibetan Tripiṭaka – bsTan ’gyur Preserved at the Faculty of Letters, University of Tokyo*, Z. Yamaguchi et al. (eds). Tokyo: Tokyo University Press, 1977–88.
-
 **[MA]**
 
-Śāntarakṣita, *Madhyamakālaṃkārakārikā*, in “Śāntarakṣita’s *Madhyamakālaṃkāra*”, Masamichi Ichigō (ed.), in *Studies in the Literature of the Great Vehicle: Three Mahāyāna Buddhist Texts*, Luis O. Goméz and Jonathan A. Silk (eds), Ann Arbor: Center for South and Southeast Asian Studies, University of Michigan, 1989, 141–240.
-
 **[MAP]**
-
-Kamalaśīla, *Madhyamakālaṃkārapañjikā*, in *Madhyamakālaṃkāra of Śāntarakṣita with His Own Commentary or Vṛtti and with the Subcommentary or Pañjikā of Kamalaśīla*, Masamichi Ichigō (ed.), Kyoto: Buneido, 1985.
 
 **[MAS]**
 
@@ -423,15 +409,9 @@ Bhāviveka II, *Madhyamakārthasaṃgraha*, PD 3084, vol. 58, 851–53.
 
 **[MAv]**
 
-Candrakīrti, *Madhyamakāvatāra*, in “*Madhyamakāvatāra-kārikā* Chapter 6”, Li Xuezhu (ed.), *Journal of Indian Philosophy*, 43(1): 1–30, 2015. doi:10.1007/s10781-014-9227-6
-
 **[MHK]**
 
-Bhāviveka, *Madhyamakahṛdayakārikā*, in *Madhyamakahṛdayam of Bhavya*, Christian Lindtner (ed.), The Adyar Library Series, vol. 123, Chennai: The Adyar Library and Research Centre, 2001; chapter 5 in *Bhāviveka and his Buddhist Opponents: Chapters 4 and 5 of the Verses on the Heart of the Middle Way* (*Madhyamakahṛdayakārikāḥ*) *with the Commentary Entitled The Flame of Reason* (*Tarkajvālā*), Malcolm David Eckel (ed.), Harvard Oriental Series 70. Cambridge, MA: Harvard University Department of South Asian Studies, 2008.
-
 **[MMK]**
-
-Nāgārjuna, *Mūlamadhyamakakārikā*, in *Zhong lun song: Fan Zang Han he jiao, dao du, yi zhu*, Ye Shaoyong (ed.), Shanghai: Zhongxi shuju, 2011.
 
 **[MRP]**
 
@@ -439,43 +419,23 @@ Bhāviveka II, *Madhyamakaratnapradīpa*, PD 3081, vol. 57, 1487–1567.
 
 **[NB]**
 
-Dharmakīrti, *Nyāyabindu*, in *Nyāyabindu of Dharmakīrti with Nyāyabinduṭīkā of Dharmottara and Paṇḍita Durvekamiśra’s Dharmottarapradīpa*, Dalsukh Malvania (ed.), Tibetan Sanskrit Works Series 2. Patna: Kashi Prasad Jayaswal Research Institute, 1955.
-
 **[PD]**
-
-Bka’ ’gyur and Bstan ’gyur Dpe bsdur ma. Beijing: Krung go’i bod rig pa’i dpe skrun khang, 1994–2008. (Reference is to text number and page number)
 
 **[PPṬ]**
 
-Avalokitavrata, *Prajñāpradīpaṭīkā*, PD 3086, vol. 58, 859–1622.
-
 **[PV]**
-
-Dharmakīrti, *Pramāṇavārttika*, in “Pramāṇavārttika-Kārikā (Sanskrit and Tibetan)”, Yūsho Miyasaka (ed.), *Acta Indologica* 2 (1971–72): 1–206.
 
 **[PVA]**
 
-Prajñākaragupta, *Pramāṇavārttikālaṃkāra*, in “Second search for Sanskrit palm-leaf manuscripts in Tibet”, Rāhula Sāṅkṛtyāyana (ed.), *Journal of the Bihar and Orissa Research Society* 23 (1953): 1–57.
-
 **[PVin]**
-
-Dharmakīrti, *Pramāṇaviniścaya*, chapters 1 and 2 in *Dharmakīrti’s Pramāṇaviniścaya, Chapters 1 and 2*, Ernst Steinkellner (ed.), Beijing-Vienna: China Tibetology Publishing House, Austrian Academy of Sciences Press, 2007; chapter 3 in *Dharmakīrti’s Pramāṇaviniścaya: Chapter 3*, Pascale Hugon and Toru Tomabechi (eds), Sanskrit Texts from the Tibetan Autonomous Region 8. Beijing: China Tibetology Publishing House and Vienna: Austrian Academy of Sciences Press, 2011.
 
 **[PVSV]**
 
-Dharmakīrti, *Pramāṇavārttikasvavṛtti*, in *The Pramāṇavārttikam of Dharmakīrti: The First Chapter with the Autocommentary*, Raniero Gnoli (ed.), Serie Orientale Roma 23. Rome: Istituto Italiano per il Medio ed Estremo Oriente, 1960.
-
 **[RĀ]**
-
-Nāgārjuna, *Ratnāvalī*, *Nāgārjuna’s Ratnāvalī*, Michael Hahn (ed.), vol. 1. Bonn: Indica et Tibetica, 1982.
 
 **[SDA]**
 
-Atiśa, *Satyadvayāvatāra*, in “Atīsha no Ni-shinri-setsu” (Atīśa’s Theory of the Two Truths), Yasunori Ejima, (ed.), *Ryūjukyōgaku no kenkyū* (*Studies of Teaching of Nāgārjuna*), Taishun Mibu, (ed.), 359–391. Tokyo: Daizô̂ Shuppan Co., 1983.
-
 **[SDV]**
-
-Jñānagarbha, *Satyadvayavibhaṅgakārikā*, in *A New Critical Edition of Jñānagarbha’s Satyadvayavibhaṅga with Śāntarakṣita’s Commentary*, Ritsu Akahane (primary editor), Ryo Nishiyama, Yukio Yamanaka, and Yasutaka Muroya (eds), Wiener Studen zur Tibetologie und Buddhismuskunde, Heft 98, Vienna: Arbeitskreis für Tibetische und Buddhistische Studien Universität Wien, 2020.
 
 **[SDVP]**
 
@@ -487,11 +447,7 @@ Jñānagarbha, *Satyadvayavibhaṅgavṛtti*, see SDV.
 
 **[SP]**
 
-Dharmakīrti, *Sambandhaparīkṣā*, in *Dharmakīrti’s Sambandhaparīkṣākārikā and Devendrabuddhi’s Sambandhaparīkṣāvṛtti* (Sanskrit Texts from the Tibetan Autonomous Region 23), Ernst Steinkellner (ed.), Beijing/Vienna: China Tibetology Publishing House, Austrian Academy of Sciences Press, 2022.
-
 **[ŚS]**
-
-Nāgārjuna, *Śūnyatāsaptati*, in *Nagarjuniana: Studies in the Writings and Philosophy of Nāgārjuna*, Christian Lindtner (ed.), Delhi: Motilal Banarsidass, 1982.
 
 **[TA]**
 
@@ -499,27 +455,15 @@ Nāgārjuna, *Śūnyatāsaptati*, in *Nagarjuniana: Studies in the Writings and 
 
 **[TAV]**
 
-Śrīgupta *Tattvāvatāravṛtti*, in *Introduction to Reality: Śrīgupta’s Tattvāvatāravṛtti*, Allison Aitken (ed.), Harvard Oriental Series, Cambridge, MA: Harvard University Department of South Asian Studies, 2025; PD 3121, vol. 63, 101–12; D 3892 *dbu ma*, *ha* 39b4–43b5.
-
 **[TJ]**
-
-Bhāviveka, *Tarkajvālā*, chapters 1–3.26 in *Nektar der Erkenntnis: Buddhistische Philosophie des 6. Jh.: Bhavyas Tarkajvālā I–III.26*, Annette L. Heitmann (ed.), Aachen: Shaker Verlag, 2004.
 
 **[TS]**
 
-Śāntarakṣita *Tattvasaṃgraha*, in *Tattvasaṃgrahapañjikā*. *Tattvasaṃgraha of Śāntarakṣita, with the Commentary “Pañjikā” of Śrī Kamalaśīla in two volumes*, Swami Dwarikadas Shastri (ed.), Varanasi: Bauddha Bhāratī Series I. 2 vols, 1968; Bahirarthaparīkṣā chapter in *On the Nature of Things: A Buddhist Debate on Cognitions and their Objects, with a Manuscript Description by Paolo Giunta*, Margherita Serena Saccone (ed.), Wiener Studien zur Tibetologie und Buddhismuskunde, Heft 94. Vienna: Arbeitskreis für Tibetische und Buddhistische Studien Universität Wien, 2018.
-
 **[VS]**
-
-Kaṇāda *Vaiśeṣikasūtra*, in *Vaiśeṣikasūtra of Kaṇāda: with the Commentary of Candrānanda*, Muni Jambuvijayi (ed.), Gaekwad’s Oriental Series 136. Baroda: Oriental Institute, 1961.
 
 **[Vś]**
 
-Vasubandhu, *Viṃśikā*, *Materials toward the study of Vasubandhuʼs Viṁśikā* (*I*)*: Sanskrit and Tibetan critical editions of the verses and autocommentary, an English translation and annotations*, Jonathan Silk (ed.), Harvard Oriental Series 81. Cambridge, MA: Department of South Asian Studies, Harvard University, 2016.
-
 **[VP]**
-
-Nāgārjuna, *Vaidalyaprakaraṇa*, in *Nāgārjuna’s Refutation of Logic (Nyāya): Vaidalyaprakaraṇa / Źib mo rnam par ḥthag pa źes bya baḥi rab tu byed pa*, Fernando Tola and Carmen Dragonetti (eds), Delhi: Motilal Banarsidass, 1995.
 
 ### B. Secondary Literature
 
@@ -691,6 +635,62 @@ Portions of the present entry were taken from the author’s *Introduction to Re
 [^note-70]: PVin 1 *ad* k. 58: *sāṃvyavahārikasya caitat pramāṇasya rūpam uktam atrāpi pare mūḍhā visaṃvādayanti lokam iti / cintāmayīm eva tu prajñām anuśīlayanto vibhramavivekanirmalam anapāyi pāramārthikapramāṇam abhimukhīkurvanti /* (PVin [Steinkellner 2007: 44.2–5]). See also Eltschinger’s (2016: 40–44)[^eltschinger-2016] discussion and translation of this section.
 
 [^note-71]: See Almogi (2009)[^almogi-2009] and Aitken (2021b)[^aitken-2021b] for discussions of the reception of Śrīgupta’s account of conceptual gnosis.
+
+[^haribhadra-1932]: Haribhadra, *Abhisamayālaṃkārālokā Prajñāpāramitāvyākhyā*, in *Abhisamayālaṃkārālokā Prajñāpāramitāvyākhyā* (*Commentary on Aṣṭasāhasrikā-Prajñāpāramitā*) *by Haribhadra Together with the Text Commented on*, 2 volumes, Unrai Wogihara (ed.), Tokyo: The Toyo Bunko, 1932–35.
+
+[^vasubandhu-1967]: Vasubandhu, *Abhidharmakośakārikā*, in *Abhidharmakośabhāṣya of Vasubandhu* (rev. 2nd ed.), Prahlad Pradhan (ed.), Patna: K. P. Jayaswal Research Center, 1967 [1975].
+
+[^prajñākaramati-1901]: Prajñākaramati, *Bodhicaryāvatārapañjikā*, in *Prajñākaramati’s Commentary to the Bodhicaryāvatāra of Śāntidev*, Louis de La Vallée Poussin (ed.), Calcutta: Asiatic Society, 1901–14.
+
+[^catuḥśatakaśāstra-1986]: Āryadeva, *Catuḥśatakaśāstra*, in *Āryadeva’s* Catuḥśataka: *On the Bodhisattva’s Cultivation of Merit and Knowledge*, Indiske Studier VII, Karen Lang (ed.), Copenhagen: Akademisk Forlag, 1986.
+
+[^de-1977]: *sDe dge Tibetan Tripiṭaka – bsTan ’gyur Preserved at the Faculty of Letters, University of Tokyo*, Z. Yamaguchi et al. (eds). Tokyo: Tokyo University Press, 1977–88.
+
+[^madhyamakālaṃkārakārikā-1989]: Śāntarakṣita, *Madhyamakālaṃkārakārikā*, in “Śāntarakṣita’s *Madhyamakālaṃkāra*”, Masamichi Ichigō (ed.), in *Studies in the Literature of the Great Vehicle: Three Mahāyāna Buddhist Texts*, Luis O. Goméz and Jonathan A. Silk (eds), Ann Arbor: Center for South and Southeast Asian Studies, University of Michigan, 1989, 141–240.
+
+[^kamalaśīla-1985]: Kamalaśīla, *Madhyamakālaṃkārapañjikā*, in *Madhyamakālaṃkāra of Śāntarakṣita with His Own Commentary or Vṛtti and with the Subcommentary or Pañjikā of Kamalaśīla*, Masamichi Ichigō (ed.), Kyoto: Buneido, 1985.
+
+[^candrakīrti-2015]: Candrakīrti, *Madhyamakāvatāra*, in “*Madhyamakāvatāra-kārikā* Chapter 6”, Li Xuezhu (ed.), *Journal of Indian Philosophy*, 43(1): 1–30, 2015. doi:10.1007/s10781-014-9227-6
+
+[^bhāviveka-2001]: Bhāviveka, *Madhyamakahṛdayakārikā*, in *Madhyamakahṛdayam of Bhavya*, Christian Lindtner (ed.), The Adyar Library Series, vol. 123, Chennai: The Adyar Library and Research Centre, 2001; chapter 5 in *Bhāviveka and his Buddhist Opponents: Chapters 4 and 5 of the Verses on the Heart of the Middle Way* (*Madhyamakahṛdayakārikāḥ*) *with the Commentary Entitled The Flame of Reason* (*Tarkajvālā*), Malcolm David Eckel (ed.), Harvard Oriental Series 70. Cambridge, MA: Harvard University Department of South Asian Studies, 2008.
+
+[^nāgārjuna-2011]: Nāgārjuna, *Mūlamadhyamakakārikā*, in *Zhong lun song: Fan Zang Han he jiao, dao du, yi zhu*, Ye Shaoyong (ed.), Shanghai: Zhongxi shuju, 2011.
+
+[^dharmakīrti-1955]: Dharmakīrti, *Nyāyabindu*, in *Nyāyabindu of Dharmakīrti with Nyāyabinduṭīkā of Dharmottara and Paṇḍita Durvekamiśra’s Dharmottarapradīpa*, Dalsukh Malvania (ed.), Tibetan Sanskrit Works Series 2. Patna: Kashi Prasad Jayaswal Research Institute, 1955.
+
+[^bka’-1994]: Bka’ ’gyur and Bstan ’gyur Dpe bsdur ma. Beijing: Krung go’i bod rig pa’i dpe skrun khang, 1994–2008. (Reference is to text number and page number)
+
+[^avalokitavrata-1622]: Avalokitavrata, *Prajñāpradīpaṭīkā*, PD 3086, vol. 58, 859–1622.
+
+[^dharmakīrti-1971]: Dharmakīrti, *Pramāṇavārttika*, in “Pramāṇavārttika-Kārikā (Sanskrit and Tibetan)”, Yūsho Miyasaka (ed.), *Acta Indologica* 2 (1971–72): 1–206.
+
+[^prajñākaragupta-1953]: Prajñākaragupta, *Pramāṇavārttikālaṃkāra*, in “Second search for Sanskrit palm-leaf manuscripts in Tibet”, Rāhula Sāṅkṛtyāyana (ed.), *Journal of the Bihar and Orissa Research Society* 23 (1953): 1–57.
+
+[^dharmakīrti-2007]: Dharmakīrti, *Pramāṇaviniścaya*, chapters 1 and 2 in *Dharmakīrti’s Pramāṇaviniścaya, Chapters 1 and 2*, Ernst Steinkellner (ed.), Beijing-Vienna: China Tibetology Publishing House, Austrian Academy of Sciences Press, 2007; chapter 3 in *Dharmakīrti’s Pramāṇaviniścaya: Chapter 3*, Pascale Hugon and Toru Tomabechi (eds), Sanskrit Texts from the Tibetan Autonomous Region 8. Beijing: China Tibetology Publishing House and Vienna: Austrian Academy of Sciences Press, 2011.
+
+[^dharmakīrti-1960]: Dharmakīrti, *Pramāṇavārttikasvavṛtti*, in *The Pramāṇavārttikam of Dharmakīrti: The First Chapter with the Autocommentary*, Raniero Gnoli (ed.), Serie Orientale Roma 23. Rome: Istituto Italiano per il Medio ed Estremo Oriente, 1960.
+
+[^nāgārjuna-1982]: Nāgārjuna, *Ratnāvalī*, *Nāgārjuna’s Ratnāvalī*, Michael Hahn (ed.), vol. 1. Bonn: Indica et Tibetica, 1982.
+
+[^atiśa-1983]: Atiśa, *Satyadvayāvatāra*, in “Atīsha no Ni-shinri-setsu” (Atīśa’s Theory of the Two Truths), Yasunori Ejima, (ed.), *Ryūjukyōgaku no kenkyū* (*Studies of Teaching of Nāgārjuna*), Taishun Mibu, (ed.), 359–391. Tokyo: Daizô̂ Shuppan Co., 1983.
+
+[^jñānagarbha-2020]: Jñānagarbha, *Satyadvayavibhaṅgakārikā*, in *A New Critical Edition of Jñānagarbha’s Satyadvayavibhaṅga with Śāntarakṣita’s Commentary*, Ritsu Akahane (primary editor), Ryo Nishiyama, Yukio Yamanaka, and Yasutaka Muroya (eds), Wiener Studen zur Tibetologie und Buddhismuskunde, Heft 98, Vienna: Arbeitskreis für Tibetische und Buddhistische Studien Universität Wien, 2020.
+
+[^dharmakīrti-2022]: Dharmakīrti, *Sambandhaparīkṣā*, in *Dharmakīrti’s Sambandhaparīkṣākārikā and Devendrabuddhi’s Sambandhaparīkṣāvṛtti* (Sanskrit Texts from the Tibetan Autonomous Region 23), Ernst Steinkellner (ed.), Beijing/Vienna: China Tibetology Publishing House, Austrian Academy of Sciences Press, 2022.
+
+[^nāgārjuna-1982-2]: Nāgārjuna, *Śūnyatāsaptati*, in *Nagarjuniana: Studies in the Writings and Philosophy of Nāgārjuna*, Christian Lindtner (ed.), Delhi: Motilal Banarsidass, 1982.
+
+[^tattvāvatāravṛtti-2025]: Śrīgupta *Tattvāvatāravṛtti*, in *Introduction to Reality: Śrīgupta’s Tattvāvatāravṛtti*, Allison Aitken (ed.), Harvard Oriental Series, Cambridge, MA: Harvard University Department of South Asian Studies, 2025; PD 3121, vol. 63, 101–12; D 3892 *dbu ma*, *ha* 39b4–43b5.
+
+[^bhāviveka-2004]: Bhāviveka, *Tarkajvālā*, chapters 1–3.26 in *Nektar der Erkenntnis: Buddhistische Philosophie des 6. Jh.: Bhavyas Tarkajvālā I–III.26*, Annette L. Heitmann (ed.), Aachen: Shaker Verlag, 2004.
+
+[^tattvasaṃgraha-1968]: Śāntarakṣita *Tattvasaṃgraha*, in *Tattvasaṃgrahapañjikā*. *Tattvasaṃgraha of Śāntarakṣita, with the Commentary “Pañjikā” of Śrī Kamalaśīla in two volumes*, Swami Dwarikadas Shastri (ed.), Varanasi: Bauddha Bhāratī Series I. 2 vols, 1968; Bahirarthaparīkṣā chapter in *On the Nature of Things: A Buddhist Debate on Cognitions and their Objects, with a Manuscript Description by Paolo Giunta*, Margherita Serena Saccone (ed.), Wiener Studien zur Tibetologie und Buddhismuskunde, Heft 94. Vienna: Arbeitskreis für Tibetische und Buddhistische Studien Universität Wien, 2018.
+
+[^kaṇāda-1961]: Kaṇāda *Vaiśeṣikasūtra*, in *Vaiśeṣikasūtra of Kaṇāda: with the Commentary of Candrānanda*, Muni Jambuvijayi (ed.), Gaekwad’s Oriental Series 136. Baroda: Oriental Institute, 1961.
+
+[^vasubandhu-2016]: Vasubandhu, *Viṃśikā*, *Materials toward the study of Vasubandhuʼs Viṁśikā* (*I*)*: Sanskrit and Tibetan critical editions of the verses and autocommentary, an English translation and annotations*, Jonathan Silk (ed.), Harvard Oriental Series 81. Cambridge, MA: Department of South Asian Studies, Harvard University, 2016.
+
+[^nāgārjuna-1995]: Nāgārjuna, *Vaidalyaprakaraṇa*, in *Nāgārjuna’s Refutation of Logic (Nyāya): Vaidalyaprakaraṇa / Źib mo rnam par ḥthag pa źes bya baḥi rab tu byed pa*, Fernando Tola and Carmen Dragonetti (eds), Delhi: Motilal Banarsidass, 1995.
 
 [^aitken-2021a]: Aitken, Allison, 2021a, “No Unity, No Problem: Madhyamaka Metaphysical Indefinitism”, *Philosopher’s Imprint*, 21: article 31 (24pp).
 

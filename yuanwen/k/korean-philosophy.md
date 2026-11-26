@@ -207,15 +207,15 @@ The author would like to express his deepest gratitude to Don Baker, In Bang, Ro
 
 [^cawley-2019]: Cawley, Kevin N., 2019, *Religious and Philosophical Traditions of Korea*, London: Routledge. doi:10.4324/9781315639369
 
-[^chinul-cw-1983]: [Chinul-CW] Chinul, *The Korean Approach to Zen: The Collected Works of Chinul*, Robert E. Buswell (trans.), Honolulu, HI: University of Hawaii Press, 1983.
+[^chinul-1983]: [Chinul-CW] Chinul, *The Korean Approach to Zen: The Collected Works of Chinul*, Robert E. Buswell (trans.), Honolulu, HI: University of Hawaii Press, 1983.
 
-[^chinul-cw-nd]: –––, *Encouragement to Practice*, in Chinul-CW: pp. 96-134.
+[^chinul-nd]: –––, *Encouragement to Practice*, in Chinul-CW: pp. 96-134.
 
-[^chinul-nd]: Chinul, *Secrets on Cultivating the Mind*, in Chinul-CW: pp. 140-159.
+[^chinul-nd-2]: Chinul, *Secrets on Cultivating the Mind*, in Chinul-CW: pp. 140-159.
 
-[^chinul-nd-2]: –––, *Straight Talk on the True Mind*, in Chinul-CW: pp. 160-190.
+[^chinul-nd-3]: –––, *Straight Talk on the True Mind*, in Chinul-CW: pp. 160-190.
 
-[^chinul-nd-3]: –––, *Dharma Collection*, in Chinul-CW: pp. 262-274
+[^chinul-nd-4]: –––, *Dharma Collection*, in Chinul-CW: pp. 262-274
 
 [^ch’oe-2007]: Ch’oe Che-u, *Tongkyŏng Taechŏn*. Translated to English as *Chondogyo Scripture: Donggyeong Daejeon (Great Scripture of Eastern Learning)*, Yong Choon Kim and Suk San Yoon (trans.), Lanham, MD: University Press of America, 2007.
 
@@ -243,7 +243,7 @@ The author would like to express his deepest gratitude to Don Baker, In Bang, Ro
 
 [^hong-2011]: –––, 2011, *Uisanmundap* (Dialogues at Ui mountain), Kim Taejun and Kim Hyomin (trans.), Seoul: Jimanji Publishing Company.
 
-[^hpc-1979]: [HPC] Committee on Korean Buddhism (eds), 1979–2004, *Han’guk Pulgyo Chŏnsŏ* (韓國佛教 全書 The Complete Works of Korean Buddhism), 14 volumes, Seoul: Dongguk University Press.
+[^committee-1979]: [HPC] Committee on Korean Buddhism (eds), 1979–2004, *Han’guk Pulgyo Chŏnsŏ* (韓國佛教 全書 The Complete Works of Korean Buddhism), 14 volumes, Seoul: Dongguk University Press.
 
 [^iryŏn-1993]: Iryŏn, 1281, *Memorabilia of the Three Kingdoms*, translated in P. H. Lee 1993, Vol. I, 5–6.
 
@@ -257,7 +257,7 @@ The author would like to express his deepest gratitude to Don Baker, In Bang, Ro
 
 [^ivanhoe-nd]: Ivanhoe, Philip J. and Hwayeong Wang (trans), forthcoming, *Korean Women Philosophers and the Idea of a Female Sage: The Essential Writings of Im Yunjidang and Gang Jeongildang*, New York: Oxford University Press.
 
-[^jokb-2010]: [JOKB] Jogye Order of Korean Buddhism (eds), 2010, *The Collected Works of Korean Buddhism*, 12 volumes, Seoul: Jogye Order of Korean Buddhism. [[some of JOKB 2010 available online](http://www.acmuller.net/kor-bud/collected_works.html)]
+[^jogye-2010]: [JOKB] Jogye Order of Korean Buddhism (eds), 2010, *The Collected Works of Korean Buddhism*, 12 volumes, Seoul: Jogye Order of Korean Buddhism. [[some of JOKB 2010 available online](http://www.acmuller.net/kor-bud/collected_works.html)]
 
 [^kallander-2013]: Kallander, George, 2013, *Salvation through Dissent: Tonghak Heterodoxy and Early Modern Korean*, Honolulu, HI: University of Hawaii Press.
 
@@ -297,7 +297,7 @@ The author would like to express his deepest gratitude to Don Baker, In Bang, Ro
 
 [^kim-2008]: Kim Suk-Soo, 2008, *Hankuk hyŏndae silc’hŏn ch’ŏrak* (Contemporary Practical Philosophy in Korea), Seoul: Tolbeigei.
 
-[^knc-1983]: [KNC] Korean National Commission for UNESCO (eds), 1983, *Main Currents of Korean Thoughts*, Seoul: Si-sa-yong-o-sa.
+[^korean-1983]: [KNC] Korean National Commission for UNESCO (eds), 1983, *Main Currents of Korean Thoughts*, Seoul: Si-sa-yong-o-sa.
 
 [^kwŏn-1990]: Kwŏn, Kŭn, 1990, *Iphakdosol* (A Diagrammatical Introduction to Learning), Kwŏn, Dŏkju (trans.), Seoul: Ŭlyumunhwasa.
 
@@ -341,18 +341,18 @@ The author would like to express his deepest gratitude to Don Baker, In Bang, Ro
 
 [^wŏnchŭk-1996]: Wŏnchŭk, *Commentary on the Samdhinirmocana-sutra*, translated in P. H. Lee 1996.
 
-[^wŏnhyo-sw-2010]: [Wŏnhyo-SW] Wŏnhyo, *Wŏnhyo: Selected Works*, A. Charles Muller, Jin Y. Park, and Sem Vermeersch (trans), A. Charles Muller (ed.), JOKB 2010, volume 1, 元堯. [[Wŏnhyo-SW available online](http://www.acmuller.net/kor-bud/01_wonhyo.pdf)]
+[^wŏnhyo-2010]: [Wŏnhyo-SW] Wŏnhyo, *Wŏnhyo: Selected Works*, A. Charles Muller, Jin Y. Park, and Sem Vermeersch (trans), A. Charles Muller (ed.), JOKB 2010, volume 1, 元堯. [[Wŏnhyo-SW available online](http://www.acmuller.net/kor-bud/01_wonhyo.pdf)]
 
-[^wŏnhyo-sw-1979]: –––, *Commentary on the Awakening of Mahayana Faith* (起信論疏) in HPC, vol. 23. For an English translation, see Sung Bae Park’s translation in *Wonhyo’s Commentaries on the ”Awakening of Faith in Mahayana“*, PhD thesis, UC Berkeley, 1979, pp. 120–185.
+[^wŏnhyo-1979]: –––, *Commentary on the Awakening of Mahayana Faith* (起信論疏) in HPC, vol. 23. For an English translation, see Sung Bae Park’s translation in *Wonhyo’s Commentaries on the ”Awakening of Faith in Mahayana“*, PhD thesis, UC Berkeley, 1979, pp. 120–185.
 
-[^wŏnhyo-sw-nd]: –––, *Expository Notes on the Awakening of Mahayana Faith* (大乘起信論別記), in HPC, vol. 47.
+[^wŏnhyo-nd]: –––, *Expository Notes on the Awakening of Mahayana Faith* (大乘起信論別記), in HPC, vol. 47.
 
-[^wŏnhyo-sw-2007]: –––, *Commentary on the Adamantine Absorption Sūtra* (金剛三昧經論), in HPC, vol. 20. For English translation, see Buswell 2007.
+[^wŏnhyo-2007]: –––, *Commentary on the Adamantine Absorption Sūtra* (金剛三昧經論), in HPC, vol. 20. For English translation, see Buswell 2007.
 
-[^t’oegye-cw-1958]: [T’oegye-CW] Yi Hwang [T’oegye], *T’oegye Chŏnsŏ* (Complete Works of T’oegye), Seoul: Sungkyunkwan University Press, 1958, 2 volumes.
+[^yi-1958]: [T’oegye-CW] Yi Hwang [T’oegye], *T’oegye Chŏnsŏ* (Complete Works of T’oegye), Seoul: Sungkyunkwan University Press, 1958, 2 volumes.
 
-[^t’oegye-cw-2016]: –––, 2016, *A Korean Confucian Way of Life and Thought: The Chasŏngnok (Record of Self-Reflection)*, Edward Y. J. Chung (trans.), Honolulu, HI: University of Hawaii Press.
+[^yi-2016]: –––, 2016, *A Korean Confucian Way of Life and Thought: The Chasŏngnok (Record of Self-Reflection)*, Edward Y. J. Chung (trans.), Honolulu, HI: University of Hawaii Press.
 
-[^yulgok-cw-1956]: [Yulgok-CW] Yi I [Yulgok], *Yulgok Chŏnsŏ* (Complete Works of Yulgok), Seoul: Sungkyunkwan University Press, 1956, 2 volumes.
+[^yi-1956]: [Yulgok-CW] Yi I [Yulgok], *Yulgok Chŏnsŏ* (Complete Works of Yulgok), Seoul: Sungkyunkwan University Press, 1956, 2 volumes.
 
 [^xuanzang-2019]: Xuanzang, Cheng wei xi lun, Johnson, Peter Lunde (trans.), *On Realizing There is Only The Virtual Nature of Consciousness*, An Lac Publications, 2019.

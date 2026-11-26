@@ -127,39 +127,39 @@ As the new science took hold in the seventeenth century and as, in the eighteent
 
 Aquinas, Thomas | Aristotle | Neoplatonism | Pico della Mirandola, Giovanni | Plato | Plotinus | Porphyry | Proclus
 
-[^fcph-1975]: [FCPh] *In Philebum*. Translated in *The Philebus Commentary* (Center for Medieval and Renaissance Studies 9), Latin and English, M.J.B. Allen (ed./tr.), Berkeley, CA: University of California Press, 1975. Reprinted Tempe, Arizona: MRTS, 2000.
+[^philebum-1975]: [FCPh] *In Philebum*. Translated in *The Philebus Commentary* (Center for Medieval and Renaissance Studies 9), Latin and English, M.J.B. Allen (ed./tr.), Berkeley, CA: University of California Press, 1975. Reprinted Tempe, Arizona: MRTS, 2000.
 
-[^fcpl-2017]: [FCPl] *Commentary on Plotinus*, Stephen Gersh (ed./trans.), Cambridge, MA: Harvard University Press, 2017–.
+[^commentary-2017]: [FCPl] *Commentary on Plotinus*, Stephen Gersh (ed./trans.), Cambridge, MA: Harvard University Press, 2017–.
 
 [^ennead-nd]: volume 4: *Ennead* III, Part 1 (books I–IV),
 
 [^ennead-nd-2]: volume 5: *Ennead* III, Part 2 (books V–IX), and Ennead IV.
 
-[^fda-2015]: [FDA] *On Dionysius the Areopagite* (I Tatti Renaissance library 66–67), Latin and English, Michael J. B. Allen (ed./trans.), Cambridge, MA: Harvard University Press, 2015.
+[^dionysius-2015]: [FDA] *On Dionysius the Areopagite* (I Tatti Renaissance library 66–67), Latin and English, Michael J. B. Allen (ed./trans.), Cambridge, MA: Harvard University Press, 2015.
 
 [^mystical-nd]: volume 1: *Mystical Theology and The Divine Names* , Part 1 (chapters 1–135),
 
 [^divine-nd]: volume 2: *The Divine Names*, Part II (chapters 136–351).
 
-[^fcr-latin-2019]: [FCR-latin] *De Christiana religione*, Guido Bartolucci (ed.), Pisa: Edizioni della Normale, 2019.
+[^de-2019]: [FCR-latin] *De Christiana religione*, Guido Bartolucci (ed.), Pisa: Edizioni della Normale, 2019.
 
-[^fcr-english-2022]: [FCR-english] *On the Christian Religion*,. Dan Attrell, Barett Bartlett, and David Porreca (trans), Toronto: University of Toronto Press, 2022.
+[^christian-2022]: [FCR-english] *On the Christian Religion*,. Dan Attrell, Barett Bartlett, and David Porreca (trans), Toronto: University of Toronto Press, 2022.
 
-[^fn1-2010]: [FN1] (Ficino translation) *Pimander sive de potestate et sapientia dei* by Mercurio Trismegisto, (Opere di Marsilio Ficino I; Ficinus Novus I), Maurizio Campanelli (ed.), Turin: Aragno, 2010 (critical edition of Ficino’s translation of the “Pimander”)
+[^ficino-2010]: [FN1] (Ficino translation) *Pimander sive de potestate et sapientia dei* by Mercurio Trismegisto, (Opere di Marsilio Ficino I; Ficinus Novus I), Maurizio Campanelli (ed.), Turin: Aragno, 2010 (critical edition of Ficino’s translation of the “Pimander”)
 
-[^fn2-2014]: [FN2] *Predicationes* (Ficinus Novus II), Daniele Conti (ed.), Turin: Aragno, 2014.
+[^predicationes-2014]: [FN2] *Predicationes* (Ficinus Novus II), Daniele Conti (ed.), Turin: Aragno, 2014.
 
-[^fn3-2018]: [FN3] *Commentarium in Epistolas Pauli* (Ficinus Novus III), Daniele Conti (ed.), Turin: Aragno, 2018.
+[^commentarium-2018]: [FN3] *Commentarium in Epistolas Pauli* (Ficinus Novus III), Daniele Conti (ed.), Turin: Aragno, 2018.
 
-[^fnn-1994]: [FNN] Commentary on the “nuptial numbers” in Plato’s *Republic*, 1496. Translated in Michael J. B. Allen’s *Nuptial Arithmetic: Marsilio Ficino’s Commentary on the Fatal Number in Book VIII of Plato’s Republic*, Berkeley: University of California Press, 1994.
+[^commentary-1994]: [FNN] Commentary on the “nuptial numbers” in Plato’s *Republic*, 1496. Translated in Michael J. B. Allen’s *Nuptial Arithmetic: Marsilio Ficino’s Commentary on the Fatal Number in Book VIII of Plato’s Republic*, Berkeley: University of California Press, 1994.
 
-[^foo-1959]: [FOO] *Opera Omnia*, Basel, 1576. Photographic reproduction, Torino: Bottega d’Erasmo, 1959–.
+[^opera-1959]: [FOO] *Opera Omnia*, Basel, 1576. Photographic reproduction, Torino: Bottega d’Erasmo, 1959–.
 
-[^fsf-1938]: [FSF] *Supplementum Ficinianum*, 2 volumes, P.O. Kristeller (ed.), Florence: Leo S. Olschki, 1938.
+[^supplementum-1938]: [FSF] *Supplementum Ficinianum*, 2 volumes, P.O. Kristeller (ed.), Florence: Leo S. Olschki, 1938.
 
-[^fpt-2001]: [FPT] *Theologia Platonica*, 18 volumes, 1482. Translated as *Platonic Theology* (I Tatti Renaissance library 2), 6 volumes, Latin and English, James Hankins with William Bowen (ed.), Michael J. B. Allen and John Warden (trans.), Cambridge, MA: Harvard University Press, 2001–2006.
+[^theologia-2001]: [FPT] *Theologia Platonica*, 18 volumes, 1482. Translated as *Platonic Theology* (I Tatti Renaissance library 2), 6 volumes, Latin and English, James Hankins with William Bowen (ed.), Michael J. B. Allen and John Warden (trans.), Cambridge, MA: Harvard University Press, 2001–2006.
 
-[^ftbl-1989]: [FTBL] *De vita libri tres*, 1489. Translated as *Three Books on Life* (Medieval & Renaissance Texts & Studies 57), Carol V. Kaske and John R. Clark (eds/trans), Binghamton, NY: Center for Medieval and Early Renaissance Studies, State University of New York at Binghamton, 1989.
+[^de-1989]: [FTBL] *De vita libri tres*, 1489. Translated as *Three Books on Life* (Medieval & Renaissance Texts & Studies 57), Carol V. Kaske and John R. Clark (eds/trans), Binghamton, NY: Center for Medieval and Early Renaissance Studies, State University of New York at Binghamton, 1989.
 
 [^letters-1975]: *The Letters of Marsilio Ficino*, 11 volumes so far, members of the Language Dept. of School of Economic Science (trans), London: Shepheard-Walwyn, 1975–2020. One more volume is planned.
 

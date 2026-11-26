@@ -113,7 +113,7 @@ The argument says nothing about why hurting animals on industrial animal farms i
 
 So long as we accept that animals feel, it is uncontroversial that industrial farms do make animals suffer. No one in the contemporary literature denies that part of the second premise, and Norwood and Lusk go so far as to say that industrial animal agriculture is impossible without quite a bit of pain (2011: 113).
 
-It’s not just physical suffering. Industrial farms make animals suffer psychologically by crowding them and by depriving them of interesting environments. Animals are bred to grow quickly on minimal food. This selective breeding has led to a significant percentage of meat birds walking with painful impairments (see the extensive citations in HSUS 2009)[^hsus-2009].
+It’s not just physical suffering. Industrial farms make animals suffer psychologically by crowding them and by depriving them of interesting environments. Animals are bred to grow quickly on minimal food. This selective breeding has led to a significant percentage of meat birds walking with painful impairments (see the extensive citations in HSUS 2009)[^humane-2009].
 
 The argument can be adapted to apply to freerange farming and hunting. Freerange farms ideally do not hurt, but actual approximations of freerange farms do. For one thing, animals typically go to the same slaughterhouses as industrially-produced animals do. Both slaughter and transport can be painful and stressful.
 
@@ -339,7 +339,7 @@ As it might be that meat farming is wrong, it might be that animal product farmi
 
 #### 5.1.1 Eggs
 
-Like meat birds, egg layers on industrial farms are tightly confined, given on average a letter-sized page of space. Their beaks are seared off. They are given a cocktail of antibiotics. Males, useless as layers, are killed right away: crushed, dehydrated, starved, suffocated. As they age and their laying-rate slows, females are starved so as to force them to shed feathers and induce more laying. They are killed within a couple years (HSUS 2009; cf. Norwood & Lusk 2011: 113–127, which rates layer hen lives as not worth living)[^hsus-2009][^norwood-2011].
+Like meat birds, egg layers on industrial farms are tightly confined, given on average a letter-sized page of space. Their beaks are seared off. They are given a cocktail of antibiotics. Males, useless as layers, are killed right away: crushed, dehydrated, starved, suffocated. As they age and their laying-rate slows, females are starved so as to force them to shed feathers and induce more laying. They are killed within a couple years (HSUS 2009; cf. Norwood & Lusk 2011: 113–127, which rates layer hen lives as not worth living)[^humane-2009][^norwood-2011].
 
 Freerange egg farming ideally avoids much of this. Yet it still involves killing off young but spent hens and also baby roosters. It often involves painful, stressful trips to industrial slaughterhouses. So, as it is plausible that industrially and freerange farming chickens for meat makes them suffer, so too is it plausible that industrially and freerange farming them for eggs does. Killing raises only slightly more complex issues, but if the case against killing chickens for meat goes through, so, too, does the case for killing them on egg farms.
 
@@ -349,7 +349,7 @@ In sum, arguments much like arguments against chicken production seem to apply a
 
 #### 5.1.2 Dairy
 
-Like beef cattle, dairy cows on industrial farms are tightly confined and bereft of much stimulation. As dairy cows, however, they are routinely impregnated and then constantly milked. Their calves are taken from them. Males, useless as milkers, are typically turned to veal within a matter of months. Females live for maybe five years. (HSUS 2009; cf. Norwood & Lusk 2011: 145–150)[^hsus-2009][^norwood-2011].
+Like beef cattle, dairy cows on industrial farms are tightly confined and bereft of much stimulation. As dairy cows, however, they are routinely impregnated and then constantly milked. Their calves are taken from them. Males, useless as milkers, are typically turned to veal within a matter of months. Females live for maybe five years. (HSUS 2009; cf. Norwood & Lusk 2011: 145–150)[^humane-2009][^norwood-2011].
 
 Freerange milk production does not avoid very much of this. Ideally, it involves less pain and suffering but it typically involves forced impregnation, separation of mother and calf, and an early death, typically in an industrial slaughterhouse. So far as arguments against raising cows for meat on the basis that doing so kills them and makes them suffer are plausible, so are analogous arguments against raising cows for dairy.
 
@@ -689,7 +689,7 @@ Some material in this entry started life in Barnhill & Doggett 2017a and 2017b.
 
 [^hsiao-2017]: –––, 2017, “Industrial Farming is Not Cruel to Animals”, *Journal of Agricultural and Environmental Ethics*, 30(1): 37–54. doi:10.1007/s10806-017-9652-0
 
-[^hsus-2009]: [HSUS] Humane Society of the United States, 2009, “An HSUS Report: The Welfare of Animals in the Meat, Egg, and Dairy Industries”, Humane Society of the United States. [[HSUS 2009 available online](http://www.humanesociety.org/assets/pdfs/farm/welfare_overview.pdf)]
+[^humane-2009]: [HSUS] Humane Society of the United States, 2009, “An HSUS Report: The Welfare of Animals in the Meat, Egg, and Dairy Industries”, Humane Society of the United States. [[HSUS 2009 available online](http://www.humanesociety.org/assets/pdfs/farm/welfare_overview.pdf)]
 
 [^hurka-2003]: Hurka, Thomas, 2003, *Virtue, Vice, and Value*, New York: Oxford University Press. doi:10.1093/0195137167.001.0001
 

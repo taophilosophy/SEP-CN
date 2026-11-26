@@ -311,15 +311,11 @@ Let us return to James’s mean remark[^note-53] about Wundt: he has no *noeud v
 
 **1865**
 
-*Lehrbuch der Physiologie des Menschen*, Erlangen: Enke. 2ⁿᵈ edition, 1868; 3ʳᵈ edition, 1873.
-
 **1867**
 
 *Handbuch der medicinischen Physik*, Erlangen: Enke.
 
 **1873–4**
-
-*Grundzüge der physiologischen Psychologie*, 2 volumes. 4ᵗʰ edition, 1893, 5ᵗʰ edition, 1903 (vol. 3); 6ᵗʰ edition, 1908 (vol. 1), 1910 (vol. 2), 1911 (vol. 3), Leipzig: Engelmann.
 
 **1876**
 
@@ -327,11 +323,7 @@ Let us return to James’s mean remark[^note-53] about Wundt: he has no *noeud v
 
 **1880–83**
 
-*Logik: Eine Untersuchung der Prinzipien der Erkenntnis und der Methoden wissenschaftlicher Forschung*, (2 volumes), Stuttgart: Enke. 2ⁿᵈ edition, 1893; 3ʳᵈ edition, 1906; 4ᵗʰ edition, 1921; 5ᵗʰ edition, 1924 (3 volumes): Stuttgart: Enke. 1919 *Logik* (Volume 1), Stuttgart: Enke; abbreviated as [*L* I]
-
 **1921**
-
-*Logik* (Volume 3), Page numbers from this the 4ᵗʰ edition, 1921, Stuttgart: Enke; abbreviated as [*L* III].
 
 **1882**
 
@@ -339,11 +331,7 @@ Let us return to James’s mean remark[^note-53] about Wundt: he has no *noeud v
 
 **1885**
 
-*Essays*, Leipzig: Engelmann. 2ⁿᵈ edition, 1906.
-
 **1886¹**
-
-*Ethik. Eine Untersuchung der Thatsachen und Gesetze des sittlichen Lebens*, Stuttgart: Enke. 3ʳᵈ edition, 1903; 4ᵗʰ edition, 1923–24.
 
 **1888a**
 
@@ -354,8 +342,6 @@ Let us return to James’s mean remark[^note-53] about Wundt: he has no *noeud v
 “Über Ziele und Wege der Völkerpsychologie”, *Philosophische Studien*, 4: 1–27.
 
 **1889a**
-
-*System der Philosophie*, 2 volumes, Leipzig: Wilhelm Engelmann; 2ⁿᵈ (revised) edition, Leipzig: Engelmann, 1897; 4ᵗʰ (revised) edition, Leipzig: A. Kroner, 1919. Page reference is to the 1919 edition, with volumes abbreviated in this entry as “*SP* I” or “*SP* II”.
 
 **1889b**
 
@@ -371,15 +357,11 @@ Let us return to James’s mean remark[^note-53] about Wundt: he has no *noeud v
 
 **1896a**
 
-*Grundriss der Psychologie*, Leipzig: Engelmann. Revised editions in 1897, 1898, 1901, 1902, 1904, 1905, 1907, 1909, 1911, followed by five unaltered editions. See Boring 1950: 345.
-
 **1896b**
 
 “Über die Definition der Psychologie”, *Philosophische Studien*, 12: 1–66.
 
 **1900**
-
-*Völkerpsychologie. Eine Untersuchung der Entwicklungsgesetze von Sprache, Mythus und Sitte*, 10 volumes, Leipzig: Kröner. 3ʳᵈ edition, 1904; 3ʳᵈ edition, 1911–1920.
 
 **1901**
 
@@ -394,8 +376,6 @@ Let us return to James’s mean remark[^note-53] about Wundt: he has no *noeud v
 “Psychologie”, in W. Windelband (ed.), *Die Philosophie im Beginn des zwanzigsten Jahrhunderts*, Heidelberg: Carl Winter’s Universitätsbuchhandlung, pp. 1–57.
 
 **1907b**
-
-“Über Ausfrageexperimente und über die Methoden zur Psychologie des Denkens”, *Psychologische Studien*; *Psychologische Studien* is the renamed new series of the *Philosophische Studien*, founded by Wundt in 1883.
 
 **1908a**
 
@@ -435,19 +415,13 @@ Let us return to James’s mean remark[^note-53] about Wundt: he has no *noeud v
 
 **1911**
 
-*Probleme der Völkerpsychologie*, Leipzig, E. Wiegandt. 2ⁿᵈ edition, 1921, Stuttgart: Kröner.
-
 **1912**
 
 *Elemente der Völkerpsychologie. Grundlinien einer psychologischen Entwicklungsgeschichte der Menschheit*, Leipzig: Barth.
 
 **1915**
 
-*Die Nationen und ihre Philosophie: Ein Kapitel zum Weltkrieg*, Leipzig: Kröner. [1916, 1918, 1941]
-
 **1916**
-
-*Leibniz: zu seinem zweihundertjährigen Todestag 14. November 1916*, Leipzig: Kröner.
 
 **1920**
 
@@ -461,27 +435,17 @@ Let us return to James’s mean remark[^note-53] about Wundt: he has no *noeud v
 
 **1894**
 
-*Lectures on human and animal psychology*, J.G. Creighton and E.B. Titchener (trans.), London: Allen. Translation of *Vorlesungen über die Menschen- und Thier-Seele*, 1863 (2ⁿᵈ edition). [[Lectures available online](https://archive.org/details/lecturesonhumana00wundrich)]
-
 **1897**
-
-*Outlines of Psychology*, C.H. Judd (trans.), Leipzig: Wilhelm Engelmann, translation of *Grundriss der Psychologie*, 1896. [[Outlines available online](https://archive.org/details/cu31924014474534)]
 
 **1901**
 
-*The Principles of Morality and the Departments of the Moral Life*, M.F. Washburn (trans.), London: Swan Sonnenschein; New York: Macmillan. Translation of part of *Ethik* 1886. [[Principles 1901 available online](https://archive.org/details/principlesofmora00wund)]
-
 **1904**
-
-*Principles of physiological psychology*, E.B. Titchener (trans.), London: Allen. Translation of *Grundzüge der physiologischen Psychologie*, 1873–4 but based mostly on the 5ᵗʰ edition. [[Principles 1904 available online](https://archive.org/details/principlesofphys00wundiala)]
 
 **1912**
 
 *An Introduction to Psychology*, Rudolf Pintner (trans.), New York: MacMillan, translated from the 2ⁿᵈ edition of *Einleitung in die Psychologie*. Leipzig: Engelmann. [[Introduction to Psychology available online](https://archive.org/details/introductiontops1912wund)]
 
 **1916**
-
-*Elements of folk-psychology: Outlines of a Psychological History of the Development of Mankind*, E.L. Schaub (trans.), London: Allen, translation of *Elemente der Völkerpsychologie*, 1912. [[Elements available online](https://archive.org/details/elementsoffolkps00wunduoft)]
 
 **1973**
 
@@ -662,6 +626,42 @@ that lets psychology found the historical sciences (*L* III: 227–8).
 [^note-53]: See note 1, above.
 
 [^boring-1950]: Boring 1950 has an excellent annotated bibliography (344, ff.). Wundt’s entire *oeuvre* was compiled by his daughter, Eleonore Wundt (1927; cf. esp. Wong 2009: 230–3). An excellent select bibliography organized by theme has been compiled by S. Araujo for [*Oxford Bibliographies*](https://www.oxfordbibliographies.com/view/document/obo-9780199828340/obo-9780199828340-0273.xml) (subscription required). It includes volumes on Wundt’s correspondence, his estate, international library collections and archives, and his global influence.
+
+[^lehrbuch-1868]: *Lehrbuch der Physiologie des Menschen*, Erlangen: Enke. 2ⁿᵈ edition, 1868; 3ʳᵈ edition, 1873.
+
+[^grundzüge-1893]: *Grundzüge der physiologischen Psychologie*, 2 volumes. 4ᵗʰ edition, 1893, 5ᵗʰ edition, 1903 (vol. 3); 6ᵗʰ edition, 1908 (vol. 1), 1910 (vol. 2), 1911 (vol. 3), Leipzig: Engelmann.
+
+[^logik-1893]: *Logik: Eine Untersuchung der Prinzipien der Erkenntnis und der Methoden wissenschaftlicher Forschung*, (2 volumes), Stuttgart: Enke. 2ⁿᵈ edition, 1893; 3ʳᵈ edition, 1906; 4ᵗʰ edition, 1921; 5ᵗʰ edition, 1924 (3 volumes): Stuttgart: Enke. 1919 *Logik* (Volume 1), Stuttgart: Enke; abbreviated as [*L* I]
+
+[^logik-1921]: *Logik* (Volume 3), Page numbers from this the 4ᵗʰ edition, 1921, Stuttgart: Enke; abbreviated as [*L* III].
+
+[^essays-1906]: *Essays*, Leipzig: Engelmann. 2ⁿᵈ edition, 1906.
+
+[^ethik-1903]: *Ethik. Eine Untersuchung der Thatsachen und Gesetze des sittlichen Lebens*, Stuttgart: Enke. 3ʳᵈ edition, 1903; 4ᵗʰ edition, 1923–24.
+
+[^system-1897]: *System der Philosophie*, 2 volumes, Leipzig: Wilhelm Engelmann; 2ⁿᵈ (revised) edition, Leipzig: Engelmann, 1897; 4ᵗʰ (revised) edition, Leipzig: A. Kroner, 1919. Page reference is to the 1919 edition, with volumes abbreviated in this entry as “*SP* I” or “*SP* II”.
+
+[^grundriss-1897]: *Grundriss der Psychologie*, Leipzig: Engelmann. Revised editions in 1897, 1898, 1901, 1902, 1904, 1905, 1907, 1909, 1911, followed by five unaltered editions. See Boring 1950: 345.
+
+[^völkerpsychologie-1904]: *Völkerpsychologie. Eine Untersuchung der Entwicklungsgesetze von Sprache, Mythus und Sitte*, 10 volumes, Leipzig: Kröner. 3ʳᵈ edition, 1904; 3ʳᵈ edition, 1911–1920.
+
+[^über-1883]: “Über Ausfrageexperimente und über die Methoden zur Psychologie des Denkens”, *Psychologische Studien*; *Psychologische Studien* is the renamed new series of the *Philosophische Studien*, founded by Wundt in 1883.
+
+[^probleme-1921]: *Probleme der Völkerpsychologie*, Leipzig, E. Wiegandt. 2ⁿᵈ edition, 1921, Stuttgart: Kröner.
+
+[^die-1916]: *Die Nationen und ihre Philosophie: Ein Kapitel zum Weltkrieg*, Leipzig: Kröner. [1916, 1918, 1941]
+
+[^leibniz-1916]: *Leibniz: zu seinem zweihundertjährigen Todestag 14. November 1916*, Leipzig: Kröner.
+
+[^lectures-1863]: *Lectures on human and animal psychology*, J.G. Creighton and E.B. Titchener (trans.), London: Allen. Translation of *Vorlesungen über die Menschen- und Thier-Seele*, 1863 (2ⁿᵈ edition). [[Lectures available online](https://archive.org/details/lecturesonhumana00wundrich)]
+
+[^outlines-1896]: *Outlines of Psychology*, C.H. Judd (trans.), Leipzig: Wilhelm Engelmann, translation of *Grundriss der Psychologie*, 1896. [[Outlines available online](https://archive.org/details/cu31924014474534)]
+
+[^principles-1886]: *The Principles of Morality and the Departments of the Moral Life*, M.F. Washburn (trans.), London: Swan Sonnenschein; New York: Macmillan. Translation of part of *Ethik* 1886. [[Principles 1901 available online](https://archive.org/details/principlesofmora00wund)]
+
+[^principles-1873]: *Principles of physiological psychology*, E.B. Titchener (trans.), London: Allen. Translation of *Grundzüge der physiologischen Psychologie*, 1873–4 but based mostly on the 5ᵗʰ edition. [[Principles 1904 available online](https://archive.org/details/principlesofphys00wundiala)]
+
+[^elements-1912]: *Elements of folk-psychology: Outlines of a Psychological History of the Development of Mankind*, E.L. Schaub (trans.), London: Allen, translation of *Elemente der Völkerpsychologie*, 1912. [[Elements available online](https://archive.org/details/elementsoffolkps00wunduoft)]
 
 [^araujo-2003]: Araujo, S.F., 2003, “A obra inicial de Wundt: Um capitulo esquecido nahistoriografia da psicologia”, *Revista do Departamento de Psicologia da UFF*, 15(2): 63–76.
 

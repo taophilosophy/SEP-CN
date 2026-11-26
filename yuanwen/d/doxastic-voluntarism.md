@@ -444,9 +444,9 @@ Both authors contributed equally to this article, and were equally involved in e
 
 [^descartes-1648]: –––, 1648, *Notae in Programma quoddam*, Amsterdam: Elzevir. Collected in AT VIIIa. Translated as *Comments on a Certain Broadsheet* in CSM I:294–310.
 
-[^at-1983]: [AT] –––, *Oeuvres De Descartes*, 11 vols, edited by Charles Adam and Paul Tannery, Paris: Librairie Philosophique J. Vrin, 1983. [cited as AT followed by volume and page number]
+[^descartes-1983]: [AT] –––, *Oeuvres De Descartes*, 11 vols, edited by Charles Adam and Paul Tannery, Paris: Librairie Philosophique J. Vrin, 1983. [cited as AT followed by volume and page number]
 
-[^csm-1985]: [CSM] –––, *The Philosophical Writings of Descartes*, 3 vols, translated by John Cottingham, Robert Stoothoff, and Dugald Murdoch, volume 3 including Anthony Kenny, Cambridge: Cambridge University Press, 1985–91. [cited as CSM followed by volume and page number]
+[^descartes-1985]: [CSM] –––, *The Philosophical Writings of Descartes*, 3 vols, translated by John Cottingham, Robert Stoothoff, and Dugald Murdoch, volume 3 including Anthony Kenny, Cambridge: Cambridge University Press, 1985–91. [cited as CSM followed by volume and page number]
 
 [^elder-2019]: Elder, Jamee, 2019, “Defending Stance Voluntarism”, *Philosophical Studies*, 176(11): 3019–3039. doi:10.1007/s11098-018-1161-0
 
@@ -528,9 +528,9 @@ Both authors contributed equally to this article, and were equally involved in e
 
 [^kant-1800]: –––, *Jäsche Logic*, Konigsberg: Friedrich Nicolovius, 1800. Collected in Ak 9:1–150. Translated in Kant 1992: 517–640.
 
-[^ak-1900]: [Ak] –––, 1900–, *Königlichen Preußischen (later Deutschen) Akademie der Wissenschaften*, Kants gesammelte Schriften, Berlin: Georg Reimer (later Walter De Gruyter).
+[^kant-1900]: [Ak] –––, 1900–, *Königlichen Preußischen (later Deutschen) Akademie der Wissenschaften*, Kants gesammelte Schriften, Berlin: Georg Reimer (later Walter De Gruyter).
 
-[^ak-1992]: –––, 1992, *Lectures on Logic*, J. Michael Young (ed./tran.), Cambridge/New York: Cambridge University Press. doi:10.1017/CBO9780511810039
+[^kant-1992-2]: –––, 1992, *Lectures on Logic*, J. Michael Young (ed./tran.), Cambridge/New York: Cambridge University Press. doi:10.1017/CBO9780511810039
 
 [^kearl-2023]: Kearl, Timothy R., 2023, “Epistemic Control without Voluntarism”, *Philosophical Issues*, 33: 95–109. doi:10.1111/phis.12245
 

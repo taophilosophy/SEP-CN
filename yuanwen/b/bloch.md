@@ -214,7 +214,7 @@ Benjamin, Walter | Lukács, Georg [György]
 
 [^gekle-2019]: Gekle, Hanna, 2019, *Der Fall des Philosophen: eine Archäologie des Denkens am Beispiel von Ernst Bloch*, Frankfurt am Main: Vittorio Klostermann GmbH.
 
-[^ga-1959]: [GA] Bloch, Ernst, 1959–1978, *Gesamtausgabe in 16 Bänden + 1 Ergänzungsband*, Frankfurt am Main: Suhrkamp (cited as GA).
+[^bloch-1959]: [GA] Bloch, Ernst, 1959–1978, *Gesamtausgabe in 16 Bänden + 1 Ergänzungsband*, Frankfurt am Main: Suhrkamp (cited as GA).
 
 [^bloch-1905]: 1905/1906 [1992], “Gedanken über religiöse Dinge”, *Das Freie Wort*, 5: 690–694; reprinted, 1992, *Bloch-Almanach*, 12: 9–13.
 

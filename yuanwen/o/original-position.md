@@ -267,19 +267,19 @@ The following works by John Rawls are cited above.
 
 ethics: deontological | justice: international distributive | justification, political: public | liberalism | Rawls, John | reflective equilibrium | social contract: contemporary approaches to
 
-[^tj-1999]: [TJ] *A Theory of Justice*, Cambridge, MA: Harvard University Press. Revised edition, 1999. The page citations refer first to the 1971 edition first, and the revised edition thereafter, as in (TJ 17/16 rev.).
+[^theory-1999]: [TJ] *A Theory of Justice*, Cambridge, MA: Harvard University Press. Revised edition, 1999. The page citations refer first to the 1971 edition first, and the revised edition thereafter, as in (TJ 17/16 rev.).
 
-[^pl-1993]: [PL] *Political Liberalism*, New York: Columbia University Press, 1993. Paperback edition, 1996; Expanded edition, 2005.
+[^political-1993]: [PL] *Political Liberalism*, New York: Columbia University Press, 1993. Paperback edition, 1996; Expanded edition, 2005.
 
-[^lp-1999]: [LP] *The Law of Peoples*, Cambridge, MA: Harvard University Press, 1999.
+[^law-1999]: [LP] *The Law of Peoples*, Cambridge, MA: Harvard University Press, 1999.
 
-[^cp-1999]: [CP] *Collected Papers*, S. Freeman (ed.), Cambridge, MA: Harvard University Press, 1999.
+[^collected-1999]: [CP] *Collected Papers*, S. Freeman (ed.), Cambridge, MA: Harvard University Press, 1999.
 
-[^lhmp-1999]: [LHMP] *Lectures on the History of Moral Philosophy*, B. Herman (ed.), Cambridge, MA: Harvard University Press, 1999.
+[^lectures-1999]: [LHMP] *Lectures on the History of Moral Philosophy*, B. Herman (ed.), Cambridge, MA: Harvard University Press, 1999.
 
-[^jf-2001]: [JF] *Justice as Fairness: A Restatement*, E. Kelly (ed.), Cambridge, MA: Harvard University Press, 2001.
+[^justice-2001]: [JF] *Justice as Fairness: A Restatement*, E. Kelly (ed.), Cambridge, MA: Harvard University Press, 2001.
 
-[^lhpp-2007]: [LHPP] *Lectures on the History of Political Philosophy*, S. Freeman (ed.), Cambridge, MA: Harvard University Press, 2007.
+[^lectures-2007]: [LHPP] *Lectures on the History of Political Philosophy*, S. Freeman (ed.), Cambridge, MA: Harvard University Press, 2007.
 
 [^appiah-2017]: Appiah, Anthony, 2017, *As If: Idealization and Ideals*, Cambridge, MA: Harvard University Press.
 

@@ -481,9 +481,9 @@ James, William | Kierkegaard, Søren | Pascal’s wager | pragmatic arguments an
 
 [^tertullian-1951]: Tertullian, *The Ante-Nicene Fathers*, Volume III, Alexander Roberts and James Donaldson (eds), Peter Holmes (trans.), Grand Rapids: Wm. B. Eerdmans Publishing Company, 1951
 
-[^dph-nd]: [DPH] “On Prescription Against Heretics” (*De Praescriptione Haereticorum*), 243–267.
+[^prescription-nd]: [DPH] “On Prescription Against Heretics” (*De Praescriptione Haereticorum*), 243–267.
 
-[^dcc-nd]: [DCC] “On the Flesh of Christ” (*De Carne Christi*), 521–543.
+[^flesh-nd]: [DCC] “On the Flesh of Christ” (*De Carne Christi*), 521–543.
 
 [^fraassen-2002]: van Fraassen, Bas, 2002, *The Empirical Stance*, New Haven: Yale University Press.
 

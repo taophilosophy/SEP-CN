@@ -278,9 +278,9 @@ The author would like to acknowledge the research and editorial assistance of Me
 
 [^ofb-2000-3]: OFB XV: *The Essayes or Counsels, Civill and Morall*, Michael Kiernan (ed.), 2000. doi:10.1093/actrade/9780198186731.book.1
 
-[^no-nd]: [NO] *Novum Organum*, in OFB XI, listed above. [All citations to NO give the book and the aphorism; they also include citations to OFB XI with page reference.]
+[^novum-nd]: [NO] *Novum Organum*, in OFB XI, listed above. [All citations to NO give the book and the aphorism; they also include citations to OFB XI with page reference.]
 
-[^seh-1857]: [SEH] *The Works of Francis Bacon Baron of Verulam, Viscount St. Alban, and Lord High Chancellor of England*, 14 Vols. James Spedding, Robert Leslie Ellis & Douglas Denon Heath (eds), London: Longman & Co. 1857–74.
+[^works-1857]: [SEH] *The Works of Francis Bacon Baron of Verulam, Viscount St. Alban, and Lord High Chancellor of England*, 14 Vols. James Spedding, Robert Leslie Ellis & Douglas Denon Heath (eds), London: Longman & Co. 1857–74.
 
 [^francis-1996]: *Francis Bacon: A Critical Edition of the Major Works*, Brian Vickers (ed.), Oxford and New York: Oxford University Press, 1996.
 

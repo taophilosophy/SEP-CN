@@ -33,7 +33,7 @@ Languages, both object languages and metalanguages, are in the monograph not jus
 
 Tarski doesn’t give a general formulation of his method. Such a general formulation would not be too illuminating. Instead he helpfully chooses to illustrate his method as it would work for a few languages. The most basic example he uses, to which about half of his monograph is devoted, is what he calls “the language of the calculus of classes” (LCC). Here is a quick description in more current notation (Tarski uses Łukasiewicz’s Polish notation):
 
-1. primitive signs of LCC: ∀, ∨, ¬, (, ), I (a binary predicate), *x*, _{′} (a subindex accent to generate variables by suffixing to “*x*”; let’s use the notation *x*_{*n*} for the *x* followed by *n* accents).
+1. primitive signs of LCC: ∀, ∨, ¬, (, ), I (a binary predicate), *x*, _{_{′}} (a subindex accent to generate variables by suffixing to “*x*”; let’s use the notation *x*_{*n*} for the *x* followed by *n* accents).
 2. grammar of LCC: Atomic formulae are of the form I*x*_{*k*}*x*_{*l*}. Complex formulae are obtained by negation, disjunction and universal quantification.
 3. interpretation of LCC: The range of the variables is the class of all subclasses of individuals (of the universe). I stands for the relation of inclusion among these subclasses. The other signs mean what you would expect.
 
@@ -96,7 +96,7 @@ LCC has the property of being what Tarski calls a “language of finite order”
 
 But there are also languages of infinite order. In these the order of the available variables is not bounded above. Tarski gives an example, which he calls “the language of the general theory of classes” (LGTC). Here again is a quick description in more current notation:
 
-1. primitive signs of LGTC: ∀, ∨, ¬, (, ), X, _{′}, ′ (The last two are a subindex accent and a superindex accent to generate variables by suffixing to “*X*”; let’s use the notation *X*_{*n*}^{*m*} for the *X* followed by *n* subindex accents and *m* superindex accents. The superindex must be positive.)
+1. primitive signs of LGTC: ∀, ∨, ¬, (, ), X, _{_{′}}, ′ (The last two are a subindex accent and a superindex accent to generate variables by suffixing to “*X*”; let’s use the notation *X*_{*n*}^{*m*} for the *X* followed by *n* subindex accents and *m* superindex accents. The superindex must be positive.)
 2. grammar of LGTC: Atomic formulae are of the form *X*_{*n*}^{*m*+1}*X*_{*p*}^{*m*}. Complex formulae are obtained by negation, disjunction and universal quantification with respect to the variables of all orders.
 3. interpretation of LGTC: A variable of the form *X*_{*n*}¹ takes as values individuals, a variable of the form *X*_{*n*}² takes as values classes of individuals, a variable of the form *X*_{*n*}³ takes as values classes of classes of individuals, etc. *X*_{*n*}^{*m*+1}*X*_{*p*}^{*m*} “means” that the object assigned to *X*_{*n*}^{*m*+1} “contains” the object assigned to *X*_{*p*}^{*m*}. The other signs mean what you would expect.
 
@@ -152,7 +152,7 @@ Tarski considers the possibility of adding an ω-rule to the accepted rules of i
 
 The best way of appreciating the nature of Tarski’s theory of logical consequence and how it constitutes an application of the methods of Tarskian semantics is to see how it applies to a particular formal language of a simple structure, of a kind that Tarski seems to have primarily in mind in his paper of 1936. We will choose a simple language of this kind for a fragment of elementary arithmetic. This language, LAr, can be given this quick description:
 
-1. primitive signs of LAr: ∀, →, ¬, (, ), x, _{′} (a subindex accent to generate variables by suffixing to “*x*”; let’s use again the notation *x*_{*n*} for the *x* followed by *n* accents), 0 (an individual constant), N (a monadic predicate), M (a dyadic predicate).
+1. primitive signs of LAr: ∀, →, ¬, (, ), x, _{_{′}} (a subindex accent to generate variables by suffixing to “*x*”; let’s use again the notation *x*_{*n*} for the *x* followed by *n* accents), 0 (an individual constant), N (a monadic predicate), M (a dyadic predicate).
 2. grammar of LAr: Atomic formulae are of the forms N*t*₁ and M*t*₁*t*₂, where *t*₁ and *t*₂ are either variables or the constant 0. Complex formulae are obtained by negation, conditionalization and universal quantification relativized to “N”.
 3. interpretation of LAr: The range of the variables is the set of all natural numbers. N stands for the set of natural numbers and M for the relation of being less than among natural numbers. The other signs mean what you would expect.
 

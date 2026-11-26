@@ -273,7 +273,7 @@ Cavell’s engagement with perfectionism springs from a response to his colleagu
 
 Anaxagoras | Augustine of Hippo | Bacon, Francis | Cambridge Platonists | Cicero | Dewey, John | Heraclitus | Iamblichus | James, William | Lucretius | Mencius | Nietzsche, Friedrich | Plotinus | Pythagoras | Schiller, Friedrich | Schlegel, Friedrich | Socrates | transcendentalism
 
-[^cw-1971]: [**CW**] *The Collected Works of Ralph Waldo Emerson*, ed. Robert Spiller et al, Cambridge, MA: Harvard University Press, 1971–
+[^collected-1971]: [**CW**] *The Collected Works of Ralph Waldo Emerson*, ed. Robert Spiller et al, Cambridge, MA: Harvard University Press, 1971–
 
 [^education-1883]: [**E**] “Education,” in *Lectures and Biographical Sketches*, in *The Complete Works of Ralph Waldo Emerson*, ed. Edward Waldo Emerson, Boston: Houghton Mifflin, 1883, pp. 125–59
 

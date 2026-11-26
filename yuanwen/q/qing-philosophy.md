@@ -371,39 +371,39 @@ consequentialism | Wang Yangming
 
 [^dai-1723]: Dai Zhen 戴震 (1723–1777)
 
-[^dzwj-1974]: [DZWJ] *Dai Zhen wenji*戴震文集, Xianggang: Zhonghua shuju, 1974.
+[^dai-1974]: [DZWJ] *Dai Zhen wenji*戴震文集, Xianggang: Zhonghua shuju, 1974.
 
-[^mzzysz-1982]: [MZZYSZ] *Mengzi ziyi shuzhen*g孟子字义疏证, Beijing: Zhonghua shuju, 1982.
+[^mengzi-1982]: [MZZYSZ] *Mengzi ziyi shuzhen*g孟子字义疏证, Beijing: Zhonghua shuju, 1982.
 
 [^gu-1613]: Gu Yanwu 顧炎武 (1613–82)
 
-[^rzl-1934]: [RZL] *Rizhi lu* 日知錄, Shanghai: Shangwu yinshuguan, 1934.
+[^rizhi-1934]: [RZL] *Rizhi lu* 日知錄, Shanghai: Shangwu yinshuguan, 1934.
 
-[^gtlswj-1959]: [GTLSWJ] *Gu Tinglin shiwenji* 顾亭林詩文集, Beijing: Zhonghua shuju, 1959.
+[^gu-1959]: [GTLSWJ] *Gu Tinglin shiwenji* 顾亭林詩文集, Beijing: Zhonghua shuju, 1959.
 
 [^huang-1610]: Huang Zongxi 黃宗羲 (1610–1695)
 
-[^mydfl-1959]: [MYDFL] *Mingyi daigfanglu* 明夷待访录, Taibei: Shijie shuju, 1959.
+[^mingyi-1959]: [MYDFL] *Mingyi daigfanglu* 明夷待访录, Taibei: Shijie shuju, 1959.
 
-[^nlwdhj-1969]: [NLWDHJ] *Nanlei wending houji* 南雷文定后集, in Shen Yunlong, ed. *Ming Qing shiliao huibian.* Taibei: Wenhai chubanshe, 1969.
+[^nanlei-1969]: [NLWDHJ] *Nanlei wending houji* 南雷文定后集, in Shen Yunlong, ed. *Ming Qing shiliao huibian.* Taibei: Wenhai chubanshe, 1969.
 
-[^nlwdqj-1969]: [NLWDQJ] *Nanlei wending qianji*南雷文定前集, in Shen Yunlong, ed. *Ming Qing shiliao huibian.* Taibei: Wenhai chubanshe, 1969.
+[^nanlei-1969-2]: [NLWDQJ] *Nanlei wending qianji*南雷文定前集, in Shen Yunlong, ed. *Ming Qing shiliao huibian.* Taibei: Wenhai chubanshe, 1969.
 
-[^nlwy-1969]: [NLWY] *Nanlei wenyue*南雷文约, in Shen Yunlong, ed. *Ming Qing shiliao huibian.* Taibei: Wenhai chubanshe, 1969.
+[^nanlei-1969-3]: [NLWY] *Nanlei wenyue*南雷文约, in Shen Yunlong, ed. *Ming Qing shiliao huibian.* Taibei: Wenhai chubanshe, 1969.
 
-[^mrxa-1985]: [MRXA] *Mingru xue’an* 明儒學案, Beijing: Zhonghua shuju, 1985.
+[^mingru-1985]: [MRXA] *Mingru xue’an* 明儒學案, Beijing: Zhonghua shuju, 1985.
 
 [^qian-1895]: Qian Daxin 钱大盺 (1895–1990)
 
-[^qytwj-1935]: [QYTWJ] *Qian Yantang wenji* 潜研堂文集, Shanghai: Shangwu yinshuguan, 1935.
+[^qian-1935]: [QYTWJ] *Qian Yantang wenji* 潜研堂文集, Shanghai: Shangwu yinshuguan, 1935.
 
 [^wang-1619]: Wang Fuzhi 王夫之 (1619–92)
 
-[^qsys-1935]: [QSYS] *Quanshan yishu* 船山遗书, Shanghai: Shangwu yinshuguan, 1935.
+[^quanshan-1935]: [QSYS] *Quanshan yishu* 船山遗书, Shanghai: Shangwu yinshuguan, 1935.
 
 [^zhang-1738]: Zhang Xuecheng 章学诚 (1738–1801)
 
-[^wsty-1973]: [WSTY] *Wenshi tongyi* 文史通义, Xianggang: Zhonghua shuju, 1973.
+[^wenshi-1973]: [WSTY] *Wenshi tongyi* 文史通义, Xianggang: Zhonghua shuju, 1973.
 
 [^chan-1963]: Chan, Wing-tsit (ed.), 1963, *A Source Book in Chinese Philosophy*, Princeton, NJ: Princeton University Press.
 

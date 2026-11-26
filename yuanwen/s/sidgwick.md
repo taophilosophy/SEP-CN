@@ -524,9 +524,9 @@ consequentialism | egoism | Green, Thomas Hill | hedonism | Mill, John Stuart | 
 
 [^bryce-1919]: Bryce, James and E. M. Sidgwick (eds), 1919, *National and International Right and Wrong: Two Essays by Henry Sidgwick*, London: George Allen and Unwin.
 
-[^cw-1996]: [CW] *The Complete Works and Select Correspondence of Henry Sidgwick*, Bart Schultz *et al*. (eds), Charlottesville, VA: InteLex Corp, 1996, 1999.
+[^complete-1996]: [CW] *The Complete Works and Select Correspondence of Henry Sidgwick*, Bart Schultz *et al*. (eds), Charlottesville, VA: InteLex Corp, 1996, 1999.
 
-[^em-2000]: [EM] *Essays on Ethics and Method*, Marcus G. Singer (ed.), Oxford: Clarendon Press, 2000. doi:10.1093/0198250231.001.0001
+[^essays-2000]: [EM] *Essays on Ethics and Method*, Marcus G. Singer (ed.), Oxford: Clarendon Press, 2000. doi:10.1093/0198250231.001.0001
 
 [^sidgwick-1870]: 1870, “The Ethics of Conformity and Subscription”, London: Williams and Norgate. [[Sidgwick 1870 available online](https://archive.org/details/ethicsconformit00sidggoog/page/n4/mode/2up)]
 
@@ -560,11 +560,11 @@ consequentialism | egoism | Green, Thomas Hill | hedonism | Mill, John Stuart | 
 
 [^sidgwick-1903]: 1903, *The Development of European Polity*, E. M. Sidgwick (ed.), London: Macmillan.
 
-[^miscellaneous-1904]: [*Miscellaneous*] 1904, *Miscellaneous Essays and Addresses*, E. M. Sidgwick and A. Sidgwick (eds), London: Macmillan. [[Sidgwick *Miscellaneous* available online](https://archive.org/details/miscellaneousess00sidg/page/n5/mode/2up)]
+[^sidgwick-1904]: [*Miscellaneous*] 1904, *Miscellaneous Essays and Addresses*, E. M. Sidgwick and A. Sidgwick (eds), London: Macmillan. [[Sidgwick *Miscellaneous* available online](https://archive.org/details/miscellaneousess00sidg/page/n5/mode/2up)]
 
 [^sidgwick-1905]: 1905, *Lectures on the Philosophy of Kant and Other Philosophical Lectures and Essays*, James Ward (ed.), London: Macmillan. [[Sidgwick 1905 available online](https://archive.org/details/lecturesonphilo00sidguoft/page/n1/mode/2up)]
 
-[^memoir-1906]: [*Memoir*] 1906, *Henry Sidgwick, A Memoir*, Arthur Sidgwick and Eleanor Mildred M. Sidgwick (eds), London: Macmillan.
+[^sidgwick-1906]: [*Memoir*] 1906, *Henry Sidgwick, A Memoir*, Arthur Sidgwick and Eleanor Mildred M. Sidgwick (eds), London: Macmillan.
 
 [^adams-1999]: Adams, Robert Merrihew, 1999, *Finite and Infinite Goods: A Framework for Ethics*, New York: Oxford University Press. doi:10.1093/0195153715.001.0001
 

@@ -325,7 +325,7 @@ Many thanks to Bryce Huebner, Evan Thompson, Meir-Simchah Panzer, Teri Merrick, 
 
 [^carroll-2008]: Carroll, William E., 2008, “Divine Agency, Contemporary Physics, and the Autonomy of Nature”, *The Heythrop Journal*, 49(4): 582–602. doi:10.1111/j.1468-2265.2008.00385.x
 
-[^chambers-1844]: [Chambers, Robert], 1844, *Vestiges of the Natural History of Creation*, London: John Churchill.
+[^religion-science-1844]: [Chambers, Robert], 1844, *Vestiges of the Natural History of Creation*, London: John Churchill.
 
 [^cherry-2003]: Cherry, Shai, 2003, “Three Twentieth-Century Jewish Responses to Evolutionary Theory”, *Aleph: Historical Studies in Science and Judaism*, 3(1): 247–290. doi:10.2979/ALE.2003.-.3.247
 

@@ -1275,7 +1275,7 @@ Mabbott (1951: 165)[^mabbott-1951] usefully summarizes Boring’s changes of vie
 
 [^rashbrook-2017]: –––, 2017, “Atomism, Extensionalism and Temporal Presence”, in Phillips 2017: ch. 10.
 
-[^eip-1785]: [EIP] Reid, Thomas, 1785, *Essays on the Intellectual Powers of Man*, Edinburgh: John Bell. New edition edited by James Walker (ed.), Boston: Phillips, Sampson, and Company, 1855. Another edition, Derek R. Brookes (ed.), Edinburgh: Edinburgh University Press, 2002. Citations are by essay, chapter, and page number of the 1785 original.
+[^reid-1785]: [EIP] Reid, Thomas, 1785, *Essays on the Intellectual Powers of Man*, Edinburgh: John Bell. New edition edited by James Walker (ed.), Boston: Phillips, Sampson, and Company, 1855. Another edition, Derek R. Brookes (ed.), Edinburgh: Edinburgh University Press, 2002. Citations are by essay, chapter, and page number of the 1785 original.
 
 [^rizzo-1995]: Rizzo, Matthew, Mark Nawrot, and Josef Zihl, 1995, “Motion and Shape Perception in Cerebral Akinetopsia”, *Brain*, 118(5): 1105–1127. doi:10.1093/brain/118.5.1105
 

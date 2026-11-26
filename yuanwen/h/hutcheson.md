@@ -345,9 +345,9 @@ aesthetic, concept of the | aesthetics: British, in the 18th century | Clarke, S
 
 Large thanks are due to Si-won Song for invaluable research assistance. I would also like to thank Mark Timmons for asking me to write this entry.
 
-[^inquiry-1725]: [*Inquiry*] [A] 1725 , *An Inquiry into the Original of Our Ideas of Beauty and Virtue*, London; second edition [B] 1726, London; third edition [C] 1729, London; fourth edition [D] 1738, London. Page numbers are from the 2004 edition, Wolfgang Leidhold (ed.), *An Inquiry into the Original of our Ideas of Beauty and Virtue*, Indianapolis: Liberty Fund. [[*Inquiry* 1726 [2004] available online](https://oll.libertyfund.org/title/leidhold-an-inquiry-into-the-original-of-our-ideas-of-beauty-and-virtue-1726-2004)]
+[^hutcheson-1725]: [*Inquiry*] [A] 1725 , *An Inquiry into the Original of Our Ideas of Beauty and Virtue*, London; second edition [B] 1726, London; third edition [C] 1729, London; fourth edition [D] 1738, London. Page numbers are from the 2004 edition, Wolfgang Leidhold (ed.), *An Inquiry into the Original of our Ideas of Beauty and Virtue*, Indianapolis: Liberty Fund. [[*Inquiry* 1726 [2004] available online](https://oll.libertyfund.org/title/leidhold-an-inquiry-into-the-original-of-our-ideas-of-beauty-and-virtue-1726-2004)]
 
-[^essay-1728]: [*Essay*] 1728, *An Essay on the Nature and Conduct of the Passions, with Illustrations on the Moral Sense*, London; second edition 1730, London; third edition 1742, London. Page numbers are from the 2002, Aaron Garret (ed.), *An Essay on the Nature and Conduct of the Passions and Affections, with Illustrations on the Moral Sense*, Indianapolis: Liberty Fund. [[*Essay* 1742 [2002] available online](https://oll.libertyfund.org/title/garrett-an-essay-on-the-nature-and-conduct-of-the-passions-and-affections-1742-2002)]
+[^hutcheson-1728]: [*Essay*] 1728, *An Essay on the Nature and Conduct of the Passions, with Illustrations on the Moral Sense*, London; second edition 1730, London; third edition 1742, London. Page numbers are from the 2002, Aaron Garret (ed.), *An Essay on the Nature and Conduct of the Passions and Affections, with Illustrations on the Moral Sense*, Indianapolis: Liberty Fund. [[*Essay* 1742 [2002] available online](https://oll.libertyfund.org/title/garrett-an-essay-on-the-nature-and-conduct-of-the-passions-and-affections-1742-2002)]
 
 [^hutcheson-1730]: 1730, *De naturali hominum socialitate* , inaugural lecture as Professor of Moral Theology, Glasgow. Translated as *On the Natural Sociability of Mankind* in Hutcheson 2006: 189–216.
 
@@ -355,7 +355,7 @@ Large thanks are due to Si-won Song for invaluable research assistance. I would 
 
 [^hutcheson-1742-2]: 1742, *Synopsis metaphysicae*, Glasgow; second edition 1744; third edition 1749. Second edition translated as *A Synopsis of Metaphysics* in Hutcheson 2006: 57–188.
 
-[^system-1755]: [*System*] 1755, *A System of Moral Philosophy*, three volumes, London. Page numbers are from the 2005 edition, Daniel Carey (ed.), *A System of Moral Philosophy*, two volumes, London: Continuum Publishing.
+[^hutcheson-1755]: [*System*] 1755, *A System of Moral Philosophy*, three volumes, London. Page numbers are from the 2005 edition, Daniel Carey (ed.), *A System of Moral Philosophy*, two volumes, London: Continuum Publishing.
 
 [^hutcheson-1756]: 1756, *Logicae Compendium*, Glasgow; translated as *A Compend of Logic* in Hutcheson 2006: 1–56.
 

@@ -514,13 +514,13 @@ See also *Against the Heavenly Prophets*, 1525, WA 18:81/LW 40:98, where Luther 
 
 > It is true that the rulers do wrong when they supress the gospel and oppress you in temporal matters. But you do far greater wrong when you not only supress God’s word, but tread it underfoot, invade his authority and law, and put yourselves above God.
 
-[^wa-1883]: [WA] *D. Martin Luthers Werke: Kritische Gesamtausgabe*, 65 vols. in 127, Weimar: Hermann Böhlau, 1883–1929; Abteilung 1: Schriften (Series 1: Writings), Volumes 1–60, plus Volumes 61–73 (indexes).
+[^martin-1883]: [WA] *D. Martin Luthers Werke: Kritische Gesamtausgabe*, 65 vols. in 127, Weimar: Hermann Böhlau, 1883–1929; Abteilung 1: Schriften (Series 1: Writings), Volumes 1–60, plus Volumes 61–73 (indexes).
 
-[^wa-1883-2]: [WA TR] *D. Martin Luthers Werke: Kritische Gesamtausgabe*, 65 vols. in 127, Weimar: Hermann Böhlau, 1883–1929; Abteilung 2: Tischreden, vols. 1–6.
+[^martin-1883-2]: [WA TR] *D. Martin Luthers Werke: Kritische Gesamtausgabe*, 65 vols. in 127, Weimar: Hermann Böhlau, 1883–1929; Abteilung 2: Tischreden, vols. 1–6.
 
-[^wa-1883-3]: [WA DB] *D. Martin Luthers Werke: Kritische Gesamtausgabe*, 65 vols. in 127, Weimar: Hermann Böhlau, 1883–1929; Abteilung 3: Die Deutsche Bibel, vols. 1–12.
+[^martin-1883-3]: [WA DB] *D. Martin Luthers Werke: Kritische Gesamtausgabe*, 65 vols. in 127, Weimar: Hermann Böhlau, 1883–1929; Abteilung 3: Die Deutsche Bibel, vols. 1–12.
 
-[^lw-1958]: [LW] *Luther’s Works*, American edition, 55 vols., St Louis and Philadephia: Concordia and Fortress Press, 1958–86; new series, vols. 56–75, 2009–.
+[^luther’s-1958]: [LW] *Luther’s Works*, American edition, 55 vols., St Louis and Philadephia: Concordia and Fortress Press, 1958–86; new series, vols. 56–75, 2009–.
 
 [^sermons-1989]: *The Sermons of Martin Luther*, edited by John Lenker, 8 vols.; reprinted, Grand Rapids: Baker, 1989.
 

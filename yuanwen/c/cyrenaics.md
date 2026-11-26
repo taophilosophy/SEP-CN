@@ -217,45 +217,45 @@ Eventually, the Cyrenaics seem to disappear from the philosophical stage, though
 
 Cicero | doxography of ancient philosophy | Epicurus | ethics: ancient | hedonism | Plato | Plato: on knowledge in the *Theaetetus* | pleasure | Plutarch | Sextus Empiricus | skepticism: ancient | Socrates
 
-[^pherc-nd]: [PHerc.] Herculaneum Papyri. A collection of more than 1,800 papyri that were found in Herculaneum carbonized after the eruption of Mt. Vesuvius.
+[^herculaneum-nd]: [PHerc.] Herculaneum Papyri. A collection of more than 1,800 papyri that were found in Herculaneum carbonized after the eruption of Mt. Vesuvius.
 
 [^cologne-nd]: [Cologne papyrus] Cologne Papyrus Collection in Cologne, Germany
 
-[^tht-1995]: [*ad Tht.*] Anonymous, “Commentarium in Platonis Theaetetum” (Commentary to the *Theaetetus*), G. Bastianini and David Sedley (eds), *Corpus dei papiri filosofici greci e latini: CPF. Testi e lessico nei papiri di cultura greca e latina. Parte III: Commentari*, Florence: Leo S. Olschki, 1995, 227–562. Draft English translation by George Boys-Stones, *Commentary on the Theaetetus: P.Berol. inv. 9782*, 10.vi.2024. [[*ad Tht.* translation available online](https://www.academia.edu/6394469/Anonymous_commentary_on_Platos_Theaetetus)]
+[^anonymous-1995]: [*ad Tht.*] Anonymous, “Commentarium in Platonis Theaetetum” (Commentary to the *Theaetetus*), G. Bastianini and David Sedley (eds), *Corpus dei papiri filosofici greci e latini: CPF. Testi e lessico nei papiri di cultura greca e latina. Parte III: Commentari*, Florence: Leo S. Olschki, 1995, 227–562. Draft English translation by George Boys-Stones, *Commentary on the Theaetetus: P.Berol. inv. 9782*, 10.vi.2024. [[*ad Tht.* translation available online](https://www.academia.edu/6394469/Anonymous_commentary_on_Platos_Theaetetus)]
 
-[^gnom-1963]: [*Gnom. Vat.*] Anonymous, *Gnomologium Vaticanum: (E Codice Vaticano Graeco 743)* (Texte und Kommentare 2), Leo Sternbach (ed.), Berlin: De Gruyter, 1963. doi:10.1515/9783110828917
+[^anonymous-1963]: [*Gnom. Vat.*] Anonymous, *Gnomologium Vaticanum: (E Codice Vaticano Graeco 743)* (Texte und Kommentare 2), Leo Sternbach (ed.), Berlin: De Gruyter, 1963. doi:10.1515/9783110828917
 
-[^vh-nd]: [*VH*] Aelian, “Varia Historia”. Printed and translated in *Historical Miscellany* (Loeb Classical Library 486), N. G. Wilson (trans.), Cambridge, MA: Harvard University Press.
+[^aelian-nd]: [*VH*] Aelian, “Varia Historia”. Printed and translated in *Historical Miscellany* (Loeb Classical Library 486), N. G. Wilson (trans.), Cambridge, MA: Harvard University Press.
 
-[^de-1958]: [*De nat. an.*] –––, *De Natura Animalium*, Printed and translated in *On Animals* (Loeb Classical Library 446, 448–449), A. F. Scholfield (trans.), 3 vols., Cambridge, MA: Harvard University Press, 1958–59.
+[^aelian-1958]: [*De nat. an.*] –––, *De Natura Animalium*, Printed and translated in *On Animals* (Loeb Classical Library 446, 448–449), A. F. Scholfield (trans.), 3 vols., Cambridge, MA: Harvard University Press, 1958–59.
 
-[^metaph-2016]: [*Metaph.*] Aristotle, *Metaphysics*. Translated by C. D. C. Reeve (The New Hackett Aristotle), Indianapolis, IN: Hackett Publishing Company 2016.
+[^aristotle-2016]: [*Metaph.*] Aristotle, *Metaphysics*. Translated by C. D. C. Reeve (The New Hackett Aristotle), Indianapolis, IN: Hackett Publishing Company 2016.
 
-[^deipn-2007]: [*Deipn.*] Athenaeus, *Deipnosophistae*. Translated as *The Learned Banqueters*, 8 volumes (Loeb Classical Library 204, 208, 224, 235, 274, 327, 345, 519), S. Douglas Olson (ed./trans.), Cambridge, MA: Harvard University Press, 2007.
+[^athenaeus-2007]: [*Deipn.*] Athenaeus, *Deipnosophistae*. Translated as *The Learned Banqueters*, 8 volumes (Loeb Classical Library 204, 208, 224, 235, 274, 327, 345, 519), S. Douglas Olson (ed./trans.), Cambridge, MA: Harvard University Press, 2007.
 
-[^matth-1888]: [*Matth. hom.*] Chrysostomos, Ioannis, *Saint John Chrysostom: Homilies on the Gospel of Saint Matthew* (A Select Library of the Nicene and Post-Nicene Fathers of the Christian Church, Philip Schaff [ed.], vol. X), translated to English by George Prevost; revised, with notes, by M.B. Riddle, New York: The Christian Literature Company, 1888.
+[^chrysostomos-1888]: [*Matth. hom.*] Chrysostomos, Ioannis, *Saint John Chrysostom: Homilies on the Gospel of Saint Matthew* (A Select Library of the Nicene and Post-Nicene Fathers of the Christian Church, Philip Schaff [ed.], vol. X), translated to English by George Prevost; revised, with notes, by M.B. Riddle, New York: The Christian Literature Company, 1888.
 
-[^acad-2014]: [*Acad.*] Cicero, Marcus Tullius, 2014, *Academica*. Collected and translated in *De Natura Deorum: Academica* (Loeb Classical Library 268), H. Rackham (trans.), Cambridge, MA: Harvard University Press, 1933.
+[^cicero-2014]: [*Acad.*] Cicero, Marcus Tullius, 2014, *Academica*. Collected and translated in *De Natura Deorum: Academica* (Loeb Classical Library 268), H. Rackham (trans.), Cambridge, MA: Harvard University Press, 1933.
 
-[^de-1914]: [*De fin.*] –––, *De finibus bonorum et malorum* (Loeb Classical Library 40), H. Rackham (trans.), Cambridge, MA: Harvard University Press, 1914.
+[^cicero-1914]: [*De fin.*] –––, *De finibus bonorum et malorum* (Loeb Classical Library 40), H. Rackham (trans.), Cambridge, MA: Harvard University Press, 1914.
 
-[^de-1913]: [*De off.*] –––, *De Officiis* (Loeb Classical Library 30), Walter Miller (trans.), Cambridge, Mass: Harvard University Press, 1913.
+[^cicero-1913]: [*De off.*] –––, *De Officiis* (Loeb Classical Library 30), Walter Miller (trans.), Cambridge, Mass: Harvard University Press, 1913.
 
-[^luc-1933]: [*Luc.*] –––, *Lucullus* (Second Academica). Collected and translated in *De Natura Deorum: Academica* (Loeb Classical Library 268), H. Rackham (trans.), Cambridge, MA: Harvard University Press, 1933.
+[^cicero-1933]: [*Luc.*] –––, *Lucullus* (Second Academica). Collected and translated in *De Natura Deorum: Academica* (Loeb Classical Library 268), H. Rackham (trans.), Cambridge, MA: Harvard University Press, 1933.
 
-[^tusc-1927]: [*Tusc.*] –––, *Tusculan Disputations* (Loeb Classical Library 141), J. E. King (trans.), Cambridge, MA: Harvard University Press, 1927.
+[^cicero-1927]: [*Tusc.*] –––, *Tusculan Disputations* (Loeb Classical Library 141), J. E. King (trans.), Cambridge, MA: Harvard University Press, 1927.
 
-[^strom-1885]: [*Strom.*] Clement of Alexandria, *Stromata*. Translated as “The Stromata, or Miscellanies”, William Wilson (trans.), in *Ante-Nicene Fathers. Translations of the Writings of the Fathers down to AD 325. Volume 2*, Alexander Roberts, James Donaldson, and A. Cleveland Coxe (eds), Buffalo, NY: Christian Literature Publishing Co., 1885, 299–568.
+[^clement-1885]: [*Strom.*] Clement of Alexandria, *Stromata*. Translated as “The Stromata, or Miscellanies”, William Wilson (trans.), in *Ante-Nicene Fathers. Translations of the Writings of the Fathers down to AD 325. Volume 2*, Alexander Roberts, James Donaldson, and A. Cleveland Coxe (eds), Buffalo, NY: Christian Literature Publishing Co., 1885, 299–568.
 
-[^de-2013]: [*De fide*] Epiphanius of Salamis, *De fide*. Translated in *The Panarion of Epiphanius of Salamis. Books II and III: De Fide* (Nag Hammadi and Manichaean Studies 79), second, revised edition, Frank Williams (trans.), Leiden/Boston: Brill, 2013.
+[^epiphanius-2013]: [*De fide*] Epiphanius of Salamis, *De fide*. Translated in *The Panarion of Epiphanius of Salamis. Books II and III: De Fide* (Nag Hammadi and Manichaean Studies 79), second, revised edition, Frank Williams (trans.), Leiden/Boston: Brill, 2013.
 
-[^pe-1903]: [*PE*] Eusebius, *De evangelica praeparatione*. Translated as *Preparation for the Gospel*, 2 vols., Edwin Hamilton Gifford (trans.), London: Oxford at the Clarendon Press, 1903.
+[^eusebius-1903]: [*PE*] Eusebius, *De evangelica praeparatione*. Translated as *Preparation for the Gospel*, 2 vols., Edwin Hamilton Gifford (trans.), London: Oxford at the Clarendon Press, 1903.
 
 [^giannantoni-1990]: Giannantoni, Gabriele (ed.), 1990, *Socratis et Socraticorum reliquiae* (Elenchos 18), 4 vols, Naples: Bibliopolis.
 
-[^socr-1997]: [Socr. Ep.] *Socratis quae feruntur epistolae* (Beiträge zur Altertumskunde, 94), Josef-Friedrich Borkowski (ed./trans.), Berlin: De Gruyter, 1997.
+[^socratis-1997]: [Socr. Ep.] *Socratis quae feruntur epistolae* (Beiträge zur Altertumskunde, 94), Josef-Friedrich Borkowski (ed./trans.), Berlin: De Gruyter, 1997.
 
-[^protr-2024]: [*Protr.*] Galen, *Protrepticus*. Translated as “An Exhortation to Study the Arts” in *Galen: An Anthology*, P. N. Singer (ed./trans.), Oxford: Oxford University Press, 2024.
+[^galen-2024]: [*Protr.*] Galen, *Protrepticus*. Translated as “An Exhortation to Study the Arts” in *Galen: An Anthology*, P. N. Singer (ed./trans.), Oxford: Oxford University Press, 2024.
 
 [^gouirand-2005]: Gouirand, Pierre, 2005, *Aristippe de Cyrène, le chien royal: une morale du plaisir et de la liberté*, Paris: Maisonneuve et Larose.
 
@@ -263,9 +263,9 @@ Cicero | doxography of ancient philosophy | Epicurus | ethics: ancient | hedonis
 
 [^hicks-1925]: [D.L.] Hicks, Robert Drew (trans.), 1925, *Lives of Eminent Philosophers: Diogenes Laertius* (Loeb Classical Library, 184–185), 2 vols., London/New York: W. Heinemann/G. P. Putnam’s sons. Reprinted Cambridge, MA: Harvard University Press, 1972 (same pagination except for intro material). Greek and English.
 
-[^divin-1964]: [*Divin.instit.*] Lactantius, *Divinae institutiones*. Translated as *The Divine Institutes, Books I–VII* (The Fathers of the Church 49), Mary Francis McDonald (trans.), Washington, DC: Catholic University of America Press, 1964.
+[^lactantius-1964]: [*Divin.instit.*] Lactantius, *Divinae institutiones*. Translated as *The Divine Institutes, Books I–VII* (The Fathers of the Church 49), Mary Francis McDonald (trans.), Washington, DC: Catholic University of America Press, 1964.
 
-[^epit-1994]: [*Epit.*] –––, *Epitome Divinarum institutionum*. Printed in *L. Caeli Firmiani Lactanti Epitome Divinarum Institutionum* (Bibliotheca Scriptorum Graecorum et Romanorum Teubneriana), Eberhard Heck and Antonie Wlosok (eds), Leipzig: Teubner, 1994. Translated as “The Epitome of the Divine Institutes”, William Wilson (trans.), in *The Ante-Nicene Fathers: Translations of the Writings of the Fathers down to AD 325. Vol. 7*, Alexander Roberts, James Donaldson, and A. Cleveland Coxe (eds), Buffalo, NY: The Christian Literature Company, 1886, 224–258.
+[^lactantius-1994]: [*Epit.*] –––, *Epitome Divinarum institutionum*. Printed in *L. Caeli Firmiani Lactanti Epitome Divinarum Institutionum* (Bibliotheca Scriptorum Graecorum et Romanorum Teubneriana), Eberhard Heck and Antonie Wlosok (eds), Leipzig: Teubner, 1994. Translated as “The Epitome of the Divine Institutes”, William Wilson (trans.), in *The Ante-Nicene Fathers: Translations of the Writings of the Fathers down to AD 325. Vol. 7*, Alexander Roberts, James Donaldson, and A. Cleveland Coxe (eds), Buffalo, NY: The Christian Literature Company, 1886, 224–258.
 
 [^mannebach-1961]: Mannebach, Erich (ed.), 1961, *Aristippi et Cyrenaicorum Fragmenta*, Leiden: E. J. Brill.
 
@@ -273,33 +273,33 @@ Cicero | doxography of ancient philosophy | Epicurus | ethics: ancient | hedonis
 
 [^index-nd]: [*Index Stoicorum*] Philodemus, *Index Stoicorum*. Collected and translated (Italian) in *Filodemo – Storia dei filosofi. La Stoà da Zenone a Panezio (PHerc. 1018)* (Philosophia antiqua 60), Tiziano Dorandi (ed./trans.), Leiden: Brill. doi:10.1163/9789004320826
 
-[^choices-1995]: [*de elect.*] –––, *On Choices and Avoidances* (Scuola di Epicuro 15), Giovanni Indelli and Voula Tsouna (eds/trans), Napoli: Bibliopolis, 1995.
+[^index-1995]: [*de elect.*] –––, *On Choices and Avoidances* (Scuola di Epicuro 15), Giovanni Indelli and Voula Tsouna (eds/trans), Napoli: Bibliopolis, 1995.
 
 [^plato-1997]: Plato, *Complete Works*, John M. Cooper (ed.), Indianapolis: Hackett Publishing Company, 1997.
 
-[^col-1967]: [*adv. Col.*] Plutarch, “Adversus Colotem”. Translated as “Reply to Colotes in Defence of the Other Philosophers” in *Moralia, Volume XIV* (Loeb Classical Library 428), Benedict Einerson and Phillip H. De Lacey (trans), Cambridge, MA: Harvard University Press, 1967.
+[^plutarch-1967]: [*adv. Col.*] Plutarch, “Adversus Colotem”. Translated as “Reply to Colotes in Defence of the Other Philosophers” in *Moralia, Volume XIV* (Loeb Classical Library 428), Benedict Einerson and Phillip H. De Lacey (trans), Cambridge, MA: Harvard University Press, 1967.
 
-[^de-1939]: [*De curios.*] –––, “De curiositate”. Translated as “On Being a Busybody” in *Moralia, Volume VI* (Loeb Classical Library 337), W. C. Helmbold (trans.), Cambridge, MA: Harvard University Press, 1939.
+[^plutarch-1939]: [*De curios.*] –––, “De curiositate”. Translated as “On Being a Busybody” in *Moralia, Volume VI* (Loeb Classical Library 337), W. C. Helmbold (trans.), Cambridge, MA: Harvard University Press, 1939.
 
 [^de-1927]: [*De prof. in virt.*] –––, “De profectibus in virtute”. Translated as “How a Man May Become Aware of His Progress in Virture” in *Moralia, Volume I* (Loeb Classical Library 197), Frank Cole Babbitt (trans.), Cambridge, MA: Harvard University Press, 1927.
 
-[^lib-1927]: [*Lib.ed.*] –––, “De liberis educandis”. Translated as “The Education of Children” in *Moralia, Volume I* (Loeb Classical Library 197), Frank Cole Babbitt (trans.), Cambridge, MA: Harvard University Press, 1927.
+[^de-1927-2]: [*Lib.ed.*] –––, “De liberis educandis”. Translated as “The Education of Children” in *Moralia, Volume I* (Loeb Classical Library 197), Frank Cole Babbitt (trans.), Cambridge, MA: Harvard University Press, 1927.
 
-[^mor-1939]: [*Mor.*] –––, “De amore prolis”. Translated as “On affection for offspring” in *Moralia, Volume VI* (Loeb Classical Library 337), W. C. Helmbold (trans.), Cambridge, MA: Harvard University Press, 1939.
+[^de-1939]: [*Mor.*] –––, “De amore prolis”. Translated as “On affection for offspring” in *Moralia, Volume VI* (Loeb Classical Library 337), W. C. Helmbold (trans.), Cambridge, MA: Harvard University Press, 1939.
 
-[^non-1967]: [*Non posse …*] –––, “Non posse suaviter vivi secundum Epicurum”. Translated as “That Epicurus Actually Makes a Pleasant Life Impossible” in *Moralia, Volume XIV* (Loeb Classical Library 428), Benedict Einerson and Phillip H. De Lacey (trans), Cambridge, MA: Harvard University Press, 1967.
+[^de-1967]: [*Non posse …*] –––, “Non posse suaviter vivi secundum Epicurum”. Translated as “That Epicurus Actually Makes a Pleasant Life Impossible” in *Moralia, Volume XIV* (Loeb Classical Library 428), Benedict Einerson and Phillip H. De Lacey (trans), Cambridge, MA: Harvard University Press, 1967.
 
-[^quaest-1969]: [*Quaest. conv.*] –––, *Quaestiones convivalium*. Translated as *Table Talk* with books 1–6 in *Moralia, Volume VIII* (Loeb Classical Library 424), Paul A. Clement and Herbert B. Hoffleit (trans), Cambridge, MA: Harvard University Press, 1969; books 7–9 in *Moralia, Volume IX* (Loeb Classical Library 425), Edwin L. Minar, F. H. Sandbach, and W. C. Helmbold (trans), Cambridge, MA: Harvard University Press, 1961.
+[^de-1969]: [*Quaest. conv.*] –––, *Quaestiones convivalium*. Translated as *Table Talk* with books 1–6 in *Moralia, Volume VIII* (Loeb Classical Library 424), Paul A. Clement and Herbert B. Hoffleit (trans), Cambridge, MA: Harvard University Press, 1969; books 7–9 in *Moralia, Volume IX* (Loeb Classical Library 425), Edwin L. Minar, F. H. Sandbach, and W. C. Helmbold (trans), Cambridge, MA: Harvard University Press, 1961.
 
 [^sextus-1935]: [*M*] Sextus Empiricus, *Adversus Mathematicos*. Books VII and VIII translated as books I and II of *Sextus Empiricus II: Against the Logicians* (Loeb Classical Library 291), Robert Gregg Bury (trans.), Cambridge, MA: Harvard University Press, 1935.
 
-[^ph-1933]: [*PH*] –––, *Pyrrhoniae Hypotyposes*. Translated as *Sextus Empiricus I: Outlines of Pyrrhonism* (Loeb Classical Library 273), Robert Gregg Bury (trans.), Cambridge, MA: Harvard University Press, 1933.
+[^sextus-1933]: [*PH*] –––, *Pyrrhoniae Hypotyposes*. Translated as *Sextus Empiricus I: Outlines of Pyrrhonism* (Loeb Classical Library 273), Robert Gregg Bury (trans.), Cambridge, MA: Harvard University Press, 1933.
 
-[^geog-1932]: [*Geog.*] Strabo, *Geographica*, 17 books. Book 17 translated in *Strabo VIII: Geography* (Loeb Classical Library 267), Horace Leonard Jones (trans.), Cambridge, MA: Harvard University Press, 1932.
+[^strabo-1932]: [*Geog.*] Strabo, *Geographica*, 17 books. Book 17 translated in *Strabo VIII: Geography* (Loeb Classical Library 267), Horace Leonard Jones (trans.), Cambridge, MA: Harvard University Press, 1932.
 
-[^suda-1928]: [*Suda*] *Suidae lexicon* (Lexicographi Graeci 1), Ada Sara Adler (ed.), 5 volumes, Stuttgart: In aedibus B. G. Teubneri, 1928–1938. English translations can be found in *Suda On-Line: Byzantine Lexicography*, David Whitehead (ed.), 2019. [[English *Suda* available online](https://www.cs.uky.edu/~raphael/sol/sol-html/)]
+[^suidae-1928]: [*Suda*] *Suidae lexicon* (Lexicographi Graeci 1), Ada Sara Adler (ed.), 5 volumes, Stuttgart: In aedibus B. G. Teubneri, 1928–1938. English translations can be found in *Suda On-Line: Byzantine Lexicography*, David Whitehead (ed.), 2019. [[English *Suda* available online](https://www.cs.uky.edu/~raphael/sol/sol-html/)]
 
-[^mem-1923]: [*Mem.*] Xenophon, *Memorabilia*. Transated by E. C. Marchant in *Xenophon IV: Memorabilia; Oeconomicus ; Symposium ; Apology* (Loeb Classical Library 168), E. C. Marchant and O. J. Todd (trans), Jeffrey Henderson (reviser), Cambridge, MA: Harvard University Press, 1923 [2013 new edition].
+[^xenophon-1923]: [*Mem.*] Xenophon, *Memorabilia*. Transated by E. C. Marchant in *Xenophon IV: Memorabilia; Oeconomicus ; Symposium ; Apology* (Loeb Classical Library 168), E. C. Marchant and O. J. Todd (trans), Jeffrey Henderson (reviser), Cambridge, MA: Harvard University Press, 1923 [2013 new edition].
 
 [^annas-1993]: Annas, Julia, 1993, *The Morality of Happiness*, New York: Oxford University Press. doi:10.1093/0195096525.001.0001
 

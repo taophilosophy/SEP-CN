@@ -301,7 +301,7 @@ Anaxagoras was famous as a prognosticator of everything from meteor falls to rai
 
 Democritus | doxography of ancient philosophy | Empedocles | Parmenides | Plato | Presocratic Philosophy | soul, ancient theories of | Zeno of Elea
 
-[^dk-1974]: [DK] Diels, H., and W. Kranz (eds.), 1974, *Die Fragmente der Vorsokratiker*, 3 volumes, reprint of sixth edition, Berlin: Weidmann. (Chapter 59 presents Anaxagoras’ texts in testimonia (A) and fragments (B).)
+[^diels-1974]: [DK] Diels, H., and W. Kranz (eds.), 1974, *Die Fragmente der Vorsokratiker*, 3 volumes, reprint of sixth edition, Berlin: Weidmann. (Chapter 59 presents Anaxagoras’ texts in testimonia (A) and fragments (B).)
 
 [^curd-2007]: Curd, P., 2007, *Anaxagoras of Clazomenae, Fragments and Testimonia: A Text and Translation with Notes and Essays*, Toronto: University of Toronto Press.
 

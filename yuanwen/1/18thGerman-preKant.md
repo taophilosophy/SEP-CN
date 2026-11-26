@@ -336,17 +336,17 @@ aesthetics: German, in the 18th century | Châtelet, Émilie du | feminist philo
 
 [^unzer-1751]: Unzer, Johanna Charlotte, 1751, *Grundriß einer Weltweisheit für das Frauenzimmer* (*Outline of a Philosophy for the Lady*), Halle.
 
-[^gl-1713]: [GL] Wolff, Christian, 1713, *Vernünftige Gedanken von den Kräften des menschlichen Verstandes und ihrem richtigen Gebrauch in der Erkenntnis der Wahrheit* (*Rational Thoughts on the Powers of the Human Understanding and its Propert Use in the Cognition of Truth*), Halle.
+[^wolff-1713]: [GL] Wolff, Christian, 1713, *Vernünftige Gedanken von den Kräften des menschlichen Verstandes und ihrem richtigen Gebrauch in der Erkenntnis der Wahrheit* (*Rational Thoughts on the Powers of the Human Understanding and its Propert Use in the Cognition of Truth*), Halle.
 
-[^gm-1720a]: [GM] –––, 1720a [2019], *Vernünftige Gedanken von Gott, der Welt und der Seele des Menschen, auch allen Dingen überhaupt* (*Rational Thoughts on God, the World and the Soul of Man, and on All Things in General*), Halle. Extracts translated in Dyck 2019: ch. 5
+[^wolff-1720a]: [GM] –––, 1720a [2019], *Vernünftige Gedanken von Gott, der Welt und der Seele des Menschen, auch allen Dingen überhaupt* (*Rational Thoughts on God, the World and the Soul of Man, and on All Things in General*), Halle. Extracts translated in Dyck 2019: ch. 5
 
-[^ge-1720b]: [GE] –––, 1720b, *Vernünftige Gedanken von der Menschen Thun und Lassen zur Beförderung ihrer Glückseligkeit* (*Rational Thoughts on Human Actions for the Promotion of their Happiness*), Halle. Selection translated in Schneewind 2003: 333–347.
+[^wolff-1720b]: [GE] –––, 1720b, *Vernünftige Gedanken von der Menschen Thun und Lassen zur Beförderung ihrer Glückseligkeit* (*Rational Thoughts on Human Actions for the Promotion of their Happiness*), Halle. Selection translated in Schneewind 2003: 333–347.
 
-[^ge-1721]: –––, 1721, *Vernünftige Gedanken von dem gesellschaftlichen Leben der Menschen, und insonderheit dem gemeinen Wesen*, Halle.
+[^wolff-1721]: –––, 1721, *Vernünftige Gedanken von dem gesellschaftlichen Leben der Menschen, und insonderheit dem gemeinen Wesen*, Halle.
 
-[^ge-1723]: –––, 1723, *Vernünftige Gedanken von den Wirkungen der Natur*, Halle.
+[^wolff-1723]: –––, 1723, *Vernünftige Gedanken von den Wirkungen der Natur*, Halle.
 
-[^ge-1724]: –––, 1724, *Vernünftige Gedanken von den Absichten der natürlichen Dingen*, Frankfurt and Leipzig.
+[^wolff-1724]: –––, 1724, *Vernünftige Gedanken von den Absichten der natürlichen Dingen*, Frankfurt and Leipzig.
 
 [^unless-nd]: (Unless noted otherwise, all translations in the foregoing entry are the authors’.)
 
