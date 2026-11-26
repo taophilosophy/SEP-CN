@@ -635,7 +635,7 @@ def _inline_md_to_html(text):
 
     def _stash_img(alt, url):
         m2 = re.fullmatch(
-            r"\.\./assets/[a-z0-9-]+/([A-Za-z0-9._%+-]+)", url)
+            r"\.\./assets/[A-Za-z0-9-]+/([A-Za-z0-9._%+-]+)", url)
         src = m2.group(1) if m2 else url
         img_store.append('<img src="%s" alt="%s" />' % (src, alt))
         return "\x03%d\x03" % (len(img_store) - 1)
@@ -772,7 +772,7 @@ def _inline_md_to_html(text):
         if url.startswith(("http://", "https://")):
             # 站点惯例：外链带 target="other"（正文 21,345:1,440 实测；异形入补集）
             return '<a href="%s" target="other">%s</a>' % (url, t)
-        m2 = re.fullmatch(r"\.\./assets/[a-z0-9-]+/([A-Za-z0-9._%+-]+)", url)
+        m2 = re.fullmatch(r"\.\./assets/[A-Za-z0-9-]+/([A-Za-z0-9._%+-]+)", url)
         if m2:
             return '<a href="%s">%s</a>' % (m2.group(1), t)
         mnote = re.fullmatch(r"notes\.html#note-(.+)", url)
@@ -787,7 +787,12 @@ def _inline_md_to_html(text):
             if k < len(forms) and forms[k]["n"] == mnote.group(1):
                 _NOTE_IDX[0] = k + 1
             return '<a href="%s">%s</a>' % (url, t)
-        m3 = re.fullmatch(r"([a-z0-9-]+)\.([a-z0-9-]+)\.md", url)
+        # 补充材料链 `slug.base.md` → `base.html`。段字符类须含大写与下划线：
+        # SEP 的附录名常带大写（set-theory.ZF／frege-theorem.Gl-Hume／
+        # mohist-canons.B73／church.supplementB），也有下划线
+        # （spacetime-holearg.leibniz_equivalence）；旧式 `[a-z0-9-]+` 只覆盖
+        # 小写，这类链落到 `return t` 丢链接（B3.1 红；2026-11-26 第五十二批）
+        m3 = re.fullmatch(r"([A-Za-z0-9_-]+)\.([A-Za-z0-9_-]+)\.md", url)
         if m3:
             return '<a href="%s.%s">%s</a>' % (m3.group(2), "html", t)
         # 内部链接账还原形（C 丢弃的两族：跨词条 `../slug/`、页内 `#anchor`）
@@ -1565,8 +1570,15 @@ def reassemble_article(md, authors, entity_map=None, links=None, greek=None,
             i = j
             continue
         if stripped.startswith("|"):
-            rows, i = _pipe_rows_collect(lines, i)
-            out.append(_table_html(rows))
+            start = i
+            rows, i, saw_sep = _pipe_rows_collect(lines, i)
+            if saw_sep:
+                out.append(_table_html(rows))
+            else:
+                # 无分隔行＝字面管道段落（Related Entries 单行形），见
+                # _pipe_rows_collect 文档串
+                out.append("<p>%s</p>" % _inline_md_to_html(
+                    " ".join(l.strip() for l in lines[start:i])))
             continue
         if MD_LIST_RE.match(ln):
             items, i = _collect_list(lines, i)
@@ -1591,8 +1603,14 @@ def reassemble_article(md, authors, entity_map=None, links=None, greek=None,
         while j < n and not lines[j].strip():
             j += 1
         if cm and j < n and lines[j].strip().startswith("|"):
-            rows, i = _pipe_rows_collect(lines, j)
-            out.append(_table_html(rows, cap_md=cm.group(1)))
+            rows, i, saw_sep = _pipe_rows_collect(lines, j)
+            if saw_sep:
+                out.append(_table_html(rows, cap_md=cm.group(1)))
+                continue
+            # 无分隔行：题注后接字面管道段（罕见）——题注与管道各按段落发
+            out.append("<p>%s</p>" % _inline_md_to_html(text))
+            out.append("<p>%s</p>" % _inline_md_to_html(
+                " ".join(l.strip() for l in lines[j:i])))
             continue
         out.append("<p>%s</p>" % _inline_md_to_html(text))
     # 文献 ul 已在 References（引用注释）分支原位发射（bib_ul_emitted 守卫）；
@@ -1644,6 +1662,16 @@ def _split_pipe_cells(line):
     return [p.replace("\\|", "|") for p in parts]
 
 
+def _is_pipe_sep(s):
+    """md 表格分隔行：只含 `|`/空白/`:`/`-`，且**至少一个 `-`**。
+
+    旧判据 `[\\s:|-]+` 缺 `-` 约束，纯空单元格行 `|   |   |`（H0 真有空
+    `<tr><td></td>…`，C 产出空行）被当分隔行丢弃 → C 第二遍不再产该行，
+    B3.1 红（altruism-empirical／logic-connexive 等 7 件，2026-11-26
+    第五十二批）。Markdown 分隔行必有 `-`，空单元格行必无。"""
+    return "-" in s and re.fullmatch(r"[\s:|-]+", s.strip("|")) is not None
+
+
 def _pipe_rows(body):
     rows = []
     for ln in body.split("\n"):
@@ -1651,21 +1679,28 @@ def _pipe_rows(body):
         if not s.startswith("|"):
             continue
         cells = _split_pipe_cells(s)
-        if re.fullmatch(r"[\s:|-]+", s.strip("|")):
+        if _is_pipe_sep(s):
             continue  # 分隔行
         rows.append(cells)
     return rows
 
 
 def _pipe_rows_collect(lines, i):
-    rows = []
+    """→ (rows, 新 i, saw_sep)。saw_sep＝本块是否见过 `---` 分隔行。
+
+    无分隔行的管道块**不是表格**：C 的 table_to_md 对真表格无条件插分隔行，
+    故 md 里无分隔行者只能是字面管道段落（Related Entries 单行形，
+    feminist-science／friedrich-lange／realism 判例，2026-11-26 第五十二批）——
+    调用方按段落字面发，否则 R 造表、C 加分隔行，B3.1 红。"""
+    rows, saw = [], False
     while i < len(lines) and lines[i].strip().startswith("|"):
         s = lines[i].strip()
-        cells = _split_pipe_cells(s)
-        if not re.fullmatch(r"[\s:|-]+", s.strip("|")):
-            rows.append(cells)
+        if _is_pipe_sep(s):
+            saw = True
+        else:
+            rows.append(_split_pipe_cells(s))
         i += 1
-    return rows, i
+    return rows, i, saw
 
 
 def _table_html(rows, cap_md=None):
@@ -1678,19 +1713,42 @@ def _table_html(rows, cap_md=None):
 
 
 def _collect_list(lines, i):
-    items = []  # (indent, ordered, text)
+    items = []  # (indent, ordered, text, blocks)；blocks=[("t", rows)|("p", text)]
     base_indent = len(lines[i]) - len(lines[i].lstrip())
     while i < len(lines):
         ln = lines[i]
         if not ln.strip():
-            break  # 松散列表：项间空行即列表边界（C 每 <ul> 紧排输出；
-            # 桥接会把两个列表并成一个——atheism-agnosticism 判例）
+            # 松散列表：项间空行即列表边界（C 每 <ul> 紧排输出；
+            # 桥接会把两个列表并成一个——atheism-agnosticism 判例）。
+            # 例外：空行后接**更深缩进**的块属上一列表项的内容列
+            # （C list_to_md 的 content_pad 形：表与续文本，logic-dialogical／
+            # mally-deontic／pascal-wager／ibn-sina-logic 判例，2026-11-26
+            # 第五十二批）——吸收进该 <li>，否则缩进丢失、块升顶层。
+            j = i
+            while j < len(lines) and not lines[j].strip():
+                j += 1
+            if (j < len(lines) and items
+                    and len(lines[j]) - len(lines[j].lstrip()) > base_indent):
+                s2 = lines[j].strip()
+                blocks = items[-1][3]
+                if s2.startswith("|"):
+                    rows, k, saw = _pipe_rows_collect(lines, j)
+                    if saw and rows:
+                        blocks.append(("t", rows))
+                        i = k
+                        continue
+                elif not MD_LIST_RE.match(lines[j]):
+                    # 列表项续文本（C 的 content_pad + t 单行）
+                    blocks.append(("p", s2))
+                    i = j + 1
+                    continue
+            break
         m = MD_LIST_RE.match(ln)
         if not m or (len(ln) - len(ln.lstrip())) < base_indent:
             break
         ind = len(ln) - len(ln.lstrip())
         ordered = m.group(2)[0].isdigit()
-        items.append((ind, ordered, m.group(3)))
+        items.append((ind, ordered, m.group(3), []))
         i += 1
     return items, i
 
@@ -1699,8 +1757,13 @@ def _list_html(items):
     """一层列表 → <ul>/<ol><li>（嵌套缩进扁平化＝C list_to_md 的可逆形）。"""
     ordered = items[0][1]
     tag = "ol" if ordered else "ul"
-    lis = "".join("<li>%s</li>" % _inline_md_to_html(tx) for _, _, tx in items)
-    return "<%s>%s</%s>" % (tag, lis, tag)
+    parts = []
+    for it in items:
+        body = _inline_md_to_html(it[2])
+        for kind, payload in (it[3] if len(it) > 3 else []):
+            body += _table_html(payload) if kind == "t" else _inline_md_to_html(payload)
+        parts.append("<li>%s</li>" % body)
+    return "<%s>%s</%s>" % (tag, "".join(parts), tag)
 
 
 def _bib_ul_html(defs):

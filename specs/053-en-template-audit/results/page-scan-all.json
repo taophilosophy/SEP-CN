@@ -10,7 +10,7 @@
   "stale": 0
  },
  "page_bytes": 236108340,
- "pool_bytes": 123163292,
+ "pool_bytes": 123155454,
  "entries": [
   {
    "slug": "18thGerman-preKant",
@@ -3499,8 +3499,8 @@
     "Epistemic Paradoxes"
    ],
    "status": "pool",
-   "n_patches": 195,
-   "pool_bytes": 201565
+   "n_patches": 199,
+   "pool_bytes": 200299
   },
   {
    "slug": "dynamic-semantics",
@@ -3513,8 +3513,8 @@
    "slug": "early-modern-india",
    "page_len": 186889,
    "status": "pool",
-   "n_patches": 263,
-   "pool_bytes": 123697
+   "n_patches": 274,
+   "pool_bytes": 123497
   },
   {
    "slug": "ecological-genetics",
@@ -3661,7 +3661,7 @@
    "page_len": 105560,
    "status": "pool",
    "n_patches": 180,
-   "pool_bytes": 63441
+   "pool_bytes": 63181
   },
   {
    "slug": "emotions-chinese",
@@ -4842,8 +4842,8 @@
    "slug": "frege-theorem",
    "page_len": 176998,
    "status": "pool",
-   "n_patches": 338,
-   "pool_bytes": 118522
+   "n_patches": 342,
+   "pool_bytes": 118492
   },
   {
    "slug": "friedrich-hayek",
@@ -5766,8 +5766,8 @@
    "slug": "ibn-sina-logic",
    "page_len": 195878,
    "status": "pool",
-   "n_patches": 476,
-   "pool_bytes": 142160
+   "n_patches": 486,
+   "pool_bytes": 142065
   },
   {
    "slug": "ibn-sina-metaphysics",
@@ -6805,7 +6805,7 @@
    ],
    "status": "pool",
    "n_patches": 359,
-   "pool_bytes": 73429
+   "pool_bytes": 73468
   },
   {
    "slug": "lambert-auxerre",
@@ -7354,15 +7354,15 @@
     "section 5.3.2"
    ],
    "status": "pool",
-   "n_patches": 680,
-   "pool_bytes": 95479
+   "n_patches": 681,
+   "pool_bytes": 95472
   },
   {
    "slug": "logic-connexive",
    "page_len": 167006,
    "status": "pool",
-   "n_patches": 336,
-   "pool_bytes": 133816
+   "n_patches": 397,
+   "pool_bytes": 132937
   },
   {
    "slug": "logic-deontic",
@@ -7382,8 +7382,8 @@
    "slug": "logic-dialogical",
    "page_len": 240643,
    "status": "pool",
-   "n_patches": 659,
-   "pool_bytes": 167449
+   "n_patches": 859,
+   "pool_bytes": 162281
   },
   {
    "slug": "logic-dynamic",
@@ -7459,8 +7459,8 @@
    "slug": "logic-inductive",
    "page_len": 160600,
    "status": "pool",
-   "n_patches": 374,
-   "pool_bytes": 120882
+   "n_patches": 411,
+   "pool_bytes": 120463
   },
   {
    "slug": "logic-infinitary",
@@ -7902,7 +7902,7 @@
    "page_len": 84682,
    "status": "pool",
    "n_patches": 492,
-   "pool_bytes": 44318
+   "pool_bytes": 44426
   },
   {
    "slug": "mandeville",
@@ -9454,7 +9454,7 @@
    "page_len": 91566,
    "status": "pool",
    "n_patches": 185,
-   "pool_bytes": 50562
+   "pool_bytes": 50693
   },
   {
    "slug": "paternalism",
@@ -9690,8 +9690,8 @@
    "slug": "phil-multimodallogic",
    "page_len": 202630,
    "status": "pool",
-   "n_patches": 388,
-   "pool_bytes": 158520
+   "n_patches": 368,
+   "pool_bytes": 159047
   },
   {
    "slug": "phil-science-latin-america",
@@ -10913,8 +10913,8 @@
    "slug": "reasoning-automated",
    "page_len": 283862,
    "status": "pool",
-   "n_patches": 583,
-   "pool_bytes": 180998
+   "n_patches": 584,
+   "pool_bytes": 180964
   },
   {
    "slug": "reasoning-defeasible",
@@ -12456,8 +12456,8 @@
    "slug": "supervenience",
    "page_len": 161626,
    "status": "pool",
-   "n_patches": 265,
-   "pool_bytes": 111877
+   "n_patches": 287,
+   "pool_bytes": 111592
   },
   {
    "slug": "supervenience-ethics",

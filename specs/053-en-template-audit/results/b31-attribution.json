@@ -1,11 +1,10 @@
 {
- "total": 81,
+ "total": 58,
  "counts": {
   "bib-keys": 24,
-  "text": 36,
+  "text": 17,
   "note-forms": 3,
-  "blank": 14,
-  "links": 4
+  "blank": 14
  },
  "items": [
   {
@@ -17,11 +16,6 @@
    "slug": "alain-locke",
    "fam": "bib-keys",
    "why": "32 键名不同"
-  },
-  {
-   "slug": "altruism-empirical",
-   "fam": "text",
-   "why": "真文字差"
   },
   {
    "slug": "aristotle-text",
@@ -55,8 +49,8 @@
   },
   {
    "slug": "church",
-   "fam": "links",
-   "why": "md 内链丢失"
+   "fam": "blank",
+   "why": "空行/折行"
   },
   {
    "slug": "common-ground-pragmatics",
@@ -89,34 +83,9 @@
    "why": "真文字差"
   },
   {
-   "slug": "dynamic-epistemic",
-   "fam": "links",
-   "why": "md 内链丢失"
-  },
-  {
    "slug": "early-modern-india",
-   "fam": "text",
-   "why": "真文字差"
-  },
-  {
-   "slug": "emotions-17th18th",
-   "fam": "links",
-   "why": "md 内链丢失"
-  },
-  {
-   "slug": "feminist-science",
-   "fam": "text",
-   "why": "真文字差"
-  },
-  {
-   "slug": "frege-theorem",
-   "fam": "text",
-   "why": "真文字差"
-  },
-  {
-   "slug": "friedrich-lange",
-   "fam": "text",
-   "why": "真文字差"
+   "fam": "blank",
+   "why": "空行/折行"
   },
   {
    "slug": "goodman",
@@ -137,11 +106,6 @@
    "slug": "ibn-rushd",
    "fam": "bib-keys",
    "why": "122 键名不同"
-  },
-  {
-   "slug": "ibn-sina-logic",
-   "fam": "text",
-   "why": "真文字差"
   },
   {
    "slug": "ibn-sina-natural",
@@ -174,11 +138,6 @@
    "why": "106 键名不同"
   },
   {
-   "slug": "lambda-calculus",
-   "fam": "blank",
-   "why": "空白归一后等值"
-  },
-  {
    "slug": "large-cardinals-determinacy",
    "fam": "text",
    "why": "真文字差"
@@ -197,26 +156,6 @@
    "slug": "leibniz-exoteric",
    "fam": "bib-keys",
    "why": "26 键名不同"
-  },
-  {
-   "slug": "logic-conditionals",
-   "fam": "blank",
-   "why": "空白归一后等值"
-  },
-  {
-   "slug": "logic-connexive",
-   "fam": "text",
-   "why": "真文字差"
-  },
-  {
-   "slug": "logic-dialogical",
-   "fam": "text",
-   "why": "真文字差"
-  },
-  {
-   "slug": "logic-inductive",
-   "fam": "text",
-   "why": "真文字差"
   },
   {
    "slug": "logic-informal",
@@ -254,11 +193,6 @@
    "why": "真文字差"
   },
   {
-   "slug": "mohist-canons",
-   "fam": "text",
-   "why": "真文字差"
-  },
-  {
    "slug": "newton-stm",
    "fam": "text",
    "why": "真文字差"
@@ -269,22 +203,7 @@
    "why": "92 键名不同"
   },
   {
-   "slug": "pascal-wager",
-   "fam": "text",
-   "why": "真文字差"
-  },
-  {
    "slug": "perception-contents",
-   "fam": "text",
-   "why": "真文字差"
-  },
-  {
-   "slug": "phil-multimodallogic",
-   "fam": "text",
-   "why": "真文字差"
-  },
-  {
-   "slug": "physics-Rpcc",
    "fam": "text",
    "why": "真文字差"
   },
@@ -304,14 +223,9 @@
    "why": "65 键名不同"
   },
   {
-   "slug": "realism",
-   "fam": "text",
-   "why": "真文字差"
-  },
-  {
    "slug": "reasoning-automated",
-   "fam": "text",
-   "why": "真文字差"
+   "fam": "blank",
+   "why": "空白归一后等值"
   },
   {
    "slug": "recursive-functions",
@@ -322,11 +236,6 @@
    "slug": "reid-ethics",
    "fam": "bib-keys",
    "why": "67 键名不同"
-  },
-  {
-   "slug": "rigid-designators",
-   "fam": "links",
-   "why": "md 内链丢失"
   },
   {
    "slug": "rorty",
@@ -344,22 +253,7 @@
    "why": "25 键名不同"
   },
   {
-   "slug": "set-theory",
-   "fam": "text",
-   "why": "真文字差"
-  },
-  {
-   "slug": "set-theory-constructive",
-   "fam": "text",
-   "why": "真文字差"
-  },
-  {
    "slug": "socrates",
-   "fam": "text",
-   "why": "真文字差"
-  },
-  {
-   "slug": "spacetime-holearg",
    "fam": "text",
    "why": "真文字差"
   },
@@ -367,11 +261,6 @@
    "slug": "srigupta",
    "fam": "bib-keys",
    "why": "84 键名不同"
-  },
-  {
-   "slug": "statphys-Boltzmann",
-   "fam": "text",
-   "why": "真文字差"
   },
   {
    "slug": "supervenience",
@@ -382,11 +271,6 @@
    "slug": "turing",
    "fam": "text",
    "why": "真文字差"
-  },
-  {
-   "slug": "typelogical-grammar",
-   "fam": "blank",
-   "why": "空白归一后等值"
   },
   {
    "slug": "vasubandhu",
