@@ -259,13 +259,89 @@ def term_dangling_first(rows):
     return bad
 
 
-def person_missing(rows2):
-    """人名缺「籍属」「生卒/鼎盛年」：返回 [(term, lineno, 缺项)]。
+PERSON_TERMINAL_RE = re.compile(r'终态|NOSOURCE')
+PERSON_TERMINAL_SOFT_RE = re.compile(r'不适用|无考|不传|未见|不详|留空|无来源|无权威')
+PERSON_PENDING_RE = re.compile(r'待考|待补|待查|待核|待定')
 
-    rows2 为 parse_registry2_full 口径；nation/years 为 None（旧六列）或空/「—」
-    都记为缺。只对人物登记册调用。
+# 013 判定台账（2026-11-26）：终态不写回登记册（013 两档方案明令 B 档不追加
+# 记录），由本工具读台账作机检豁免源；台账缺失即退化，不影响硬错误判定。
+PERSON_TERMINAL_LEDGERS = (
+    ('specs/013-person-attribution/results/per-line-adjudication-2026-11-20.jsonl',
+     'per-line'),
+    ('specs/013-person-attribution/results/gnd-triage-2026-11-26.tsv', 'triage'),
+    ('specs/013-person-attribution/results/gnd-review-decisions-2026-11-26.tsv',
+     'decisions'),
+)
+_PERSON_TERMINAL_CACHE = None
+
+
+def load_person_terminal_keys():
+    """返回 {键: 来源} —— 013 已判终态的缺项人名。
+
+    来源：
+      * per-line-adjudication v=NOSOURCE：逐人查无、留空（含 B 档历史判定）
+      * gnd-triage verdict=none：GND 无任何候选
+      * gnd-review-decisions 判定“驳回/同名驳回”，或判定“未判”且候选生卒为空
+        （B 档“查无确年”）
     """
-    out = []
+    global _PERSON_TERMINAL_CACHE
+    if _PERSON_TERMINAL_CACHE is not None:
+        return _PERSON_TERMINAL_CACHE
+    out = {}
+
+    def base(rel):
+        return os.path.join(ROOT, rel.replace('/', os.sep))
+
+    for rel, kind in PERSON_TERMINAL_LEDGERS:
+        p = base(rel)
+        if not os.path.exists(p):
+            continue
+        if kind == 'per-line':
+            with open(p, encoding='utf-8') as f:
+                for line in f:
+                    line = line.strip()
+                    if not line:
+                        continue
+                    try:
+                        row = json.loads(line)
+                    except ValueError:
+                        continue
+                    if row.get('v') == 'NOSOURCE':
+                        out.setdefault((row.get('key') or '').strip().casefold(),
+                                       'per-line')
+        elif kind == 'triage':
+            with open(p, encoding='utf-8') as f:
+                next(f, None)
+                for line in f:
+                    c = line.rstrip('\n').split('\t')
+                    if len(c) >= 2 and c[1].strip() == 'none':
+                        out.setdefault(c[0].strip().casefold(), 'triage')
+        elif kind == 'decisions':
+            with open(p, encoding='utf-8') as f:
+                next(f, None)
+                for line in f:
+                    c = line.rstrip('\n').split('\t')
+                    if len(c) < 8:
+                        continue
+                    verdict = c[6].strip()
+                    if verdict in ('驳回', '同名驳回'):
+                        out.setdefault(c[0].strip().casefold(), 'decisions')
+                    elif verdict == '未判' and not re.search(r'\d{3,4}', c[2] or ''):
+                        out.setdefault(c[0].strip().casefold(), 'decisions')
+    _PERSON_TERMINAL_CACHE = out
+    return out
+
+
+def _person_lack(rows2):
+    """逐行产出 (term, lineno, 缺项, terminal, source)。
+
+    终态判据（2026-11-26）：依据列明确写「终态」或「NOSOURCE」即豁免；写
+    「不适用/无考/不传/未见/不详/留空/无来源/无权威」且不带「待考/待补/待查/
+    待核/待定」的也豁免（「留空并登记」是结论，「留白待考」是待办）。另读 013
+    台账的 NOSOURCE／GND none／驳回 判定作豁免源（load_person_terminal_keys）。
+    豁免只影响告警与清单，不改登记册。
+    """
+    terminal_keys = load_person_terminal_keys()
     for (term, _orig, _trans, nation, years,
          _fs, _basis, _date, lineno) in rows2:
         lack = []
@@ -273,9 +349,54 @@ def person_missing(rows2):
             lack.append('籍属')
         if years is None or years.strip() in ORIG_BLANK:
             lack.append('生卒/鼎盛年')
-        if lack:
-            out.append((term, lineno, '、'.join(lack)))
-    return out
+        if not lack:
+            continue
+        basis = _basis or ''
+        source = None
+        if PERSON_TERMINAL_RE.search(basis):
+            source = 'basis'
+        elif PERSON_TERMINAL_SOFT_RE.search(basis):
+            if not PERSON_PENDING_RE.search(basis):
+                source = 'basis'
+        if source is None:
+            source = terminal_keys.get((term or '').strip().casefold())
+        if source is not None:
+            yield term, lineno, '、'.join(lack), True, source
+            continue
+        yield term, lineno, '、'.join(lack), False, None
+
+
+def person_missing(rows2):
+    """人名缺「籍属」「生卒/鼎盛年」且未判终态：返回 [(term, lineno, 缺项)]。
+
+    rows2 为 parse_registry2_full 口径；nation/years 为 None（旧六列）或空/「—」
+    都记为缺。只对人物登记册调用。已判终态行不计入（见 _person_lack）。
+    """
+    return [(t, ln, lack) for t, ln, lack, terminal, _src in _person_lack(rows2)
+            if not terminal]
+
+
+def person_terminal_stats(rows2):
+    """已判终态的缺项行：返回 (总数, 按来源计数 dict)。"""
+    cnt = {}
+    total = 0
+    for _t, _ln, _lack, terminal, source in _person_lack(rows2):
+        if terminal:
+            total += 1
+            cnt[source] = cnt.get(source, 0) + 1
+    return total, cnt
+
+
+def write_person_terminal_index(rows2, path):
+    """生成终态索引（供审计，不写登记册）：键\t行号\t缺项\t来源。"""
+    lines = []
+    for term, lineno, lack, terminal, source in _person_lack(rows2):
+        if terminal:
+            lines.append('%s\t%d\t%s\t%s' % (term, lineno, lack, source))
+    _atomic_write(path, '\n'.join(lines) + '\n' if lines else '')
+    return len(lines)
+
+
 
 
 def _atomic_write(path, text):
@@ -307,10 +428,14 @@ def _atomic_write(path, text):
     raise last
 
 
-def write_person_missing(entries, path):
-    """person-missing.txt：每行「人名\t行号\t缺项」，末行汇总（原子写）。"""
+def write_person_missing(entries, path, terminal=0):
+    """person-missing.txt：每行「人名\t行号\t缺项」，末行汇总（原子写）。
+
+    terminal 为已判终态、未计入 entries 的行数（2026-11-26 起单列，便于读进度）。
+    """
     lines = ['%s\t%d\t%s' % e for e in entries]
-    lines.append('汇总\t%d\t人名缺籍属/生卒' % len(entries))
+    lines.append('汇总\t%d\t人名缺籍属/生卒（已判终态 %d 条未计入）'
+                 % (len(entries), terminal))
     _atomic_write(path, '\n'.join(lines) + '\n')
 
 
@@ -761,14 +886,23 @@ def main(argv=None):
         if reg2_path:
             rows2, _w2 = parse_registry2_full(reg2_path)
             person_entries = person_missing(rows2)
+            person_terminal, terminal_by_src = person_terminal_stats(rows2)
+            terminal_index = os.path.join(
+                ROOT, 'specs', '013-person-attribution', 'results',
+                'person-terminal-2026-11-26.tsv')
+            write_person_terminal_index(rows2, terminal_index)
             if not docs:
                 for term, lineno, lack in person_entries[:22]:
                     print('人名缺%s（告警）: %s（行 %d）' % (lack, term, lineno))
                 if len(person_entries) > 22:
                     print('…（其余 %d 条见清单）' % (len(person_entries) - 22))
-            write_person_missing(person_entries, PERSON_REPORT)
-            print('人名缺籍属/生卒（告警，不计硬错误）: %d 条，清单 → %s'
-                  % (len(person_entries), PERSON_REPORT))
+            write_person_missing(person_entries, PERSON_REPORT, person_terminal)
+            print('人名缺籍属/生卒（告警，不计硬错误）: %d 条（已判终态 %d 条未计入：'
+                  '依据列 %d／013 台账 %d），清单 → %s'
+                  % (len(person_entries), person_terminal,
+                     terminal_by_src.get('basis', 0),
+                     person_terminal - terminal_by_src.get('basis', 0),
+                     PERSON_REPORT))
             dangling, informal = person_dangling_first(rows2)
             if not docs:
                 for term, slug, ln, _c in dangling[:10]:

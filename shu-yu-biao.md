@@ -5,6 +5,8 @@
 > **排序体例**：全表按词条首字母 A–Z 分节；分节键=首列键剥离前置装饰符（《》、引号、括号、ʿ/ʾ 等）与变音符后的首个拉丁字母，非拉丁字母（希腊/阿拉伯/汉字）或数字起首归末节 `#`；节内按折叠键排序，同键行保持原相对次序。
 >
 > **列序**：键 ｜ 原文 ｜ 译法 ｜ 首现（slug 或书目）｜ 依据 ｜ 裁定日期。依据档位见 ADR-0012（知网系权威源 → 权威译本 → 学界惯例；禁维基）。
+>
+> **撞形记录体例**（2026-11-26）：同一译法对应多键时，在“依据”列留痕，规范句为 `撞形{豁免|改定|处置|残余并键} YYYY-MM-DD：{理由}（{对象}），不合并`；理由词取同概念异语／同形异语／同概念异形／同形异源／同形异义／同形异书等，须可读。历史变体（如“（YYYY-MM-DD 撞形处置）”）机检兼容，不强制迁移。机检：`specs/058-term-full-reextraction/bin/term_collision_notes.py`。
 <!-- az-sort:v1 -->
 
 ## A
@@ -428,7 +430,7 @@
 | aṇuvrata | अणुव्रत | 小誓 | 待核（jaina-philosophy 正文未见原词） | 耆那戒律通行（在家五戒）；2026-11-26 核：全库正文（index/notes/supplement/further-discussion 等全部 HTML，NFC 归一）未见该词；jaina-philosophy 行文用 omniscience 等通名，本行术语系按耆那研究通行形登记，首现待该条译出后回填 | 2026-11-26 |
 | anvaya | अन्वय | 同有 | early-modern-india | 因明“同品有”通行（agreement in presence；与 vyatireka 同无对举）；凭证 2026-11-10 | 2026-11-10 |
 | anvaya-vyatirekin | अन्वयव्यतिरेकिन् | 同有同无（推理） | early-modern-india | 印度逻辑三分推理之一（positive-and-negative）；凭证 2026-11-11 | 2026-11-11 |
-| anyāpoha（gzhan sel） | གཞན་སེལ་ | 遣他（亦作“遮诠”） | epistemology-language-tibetan | 佛学界通行；原文列联网查证：Monlam 藏英词典 gzhan sel 条（“other exclusion; other-eliminat（2026-11-14 查，凭证 orig-verify-2026-11-14-b8.tsv）；FLAG 裁定 2026-11-21（联网凭证）：法尊译《集量论》卷五《观遣他品》作“遣他”；华文哲学百科述陈那遮诠理论作“遮诠” | 2026-11-21 |
+| anyāpoha(gzhan sel) | གཞན་སེལ་ | 遣他（亦作“遮诠”） | epistemology-language-tibetan | 佛学界通行；原文列联网查证：Monlam 藏英词典 gzhan sel 条（“other exclusion; other-eliminat（2026-11-14 查，凭证 orig-verify-2026-11-14-b8.tsv）；FLAG 裁定 2026-11-21（联网凭证）：法尊译《集量论》卷五《观遣他品》作“遣他”；华文哲学百科述陈那遮诠理论作“遮诠” | 2026-11-21 |
 | anyatarābhāva | अन्यतराभाव | 任一皆无（任一非存在） | early-modern-india | 否定语义译（absence of either A or B）；凭证 2026-11-10；正文作“任一皆无”（校 2026-11-11）| 2026-11-10 |
 | anyathākhyāti | अन्यथाख्याति | 错置他相 | early-modern-india 首译 | 印度哲学史通行义译（错误论“误认作他物”说）；凭证 2026-11-10 | 2026-11-10 |
 | anyathānupapatti | अन्यथानुपपत्ति | 不可他存 | jaina-philosophy | 耆那逻辑义译（非如此不可） | 2026-11-25 |
@@ -3292,7 +3294,7 @@
 | ḥads | حدس | 直觉 | ibn-kammuna | 学界惯例（阿拉伯-伊斯兰哲学“most usually translated as intuition”；与康德传统 intuition=直观 分立即）；凭证 2026-11-10；撞形豁免 2026-11-21：同形异语／同概念异形，按条目语境区分，不合并 | 2026-11-21 |
 | ḥadsiyyāt | حدسيات | 直觉判断 | ibn-kammuna | 构词直译（ḥads 之复数形容词形，指直觉性前提）；凭证 2026-11-10 | 2026-11-10 |
 | haecceitism | — | 此性论 | 语料回收（标题词） | 学界惯例（语料回收（标题词，specs/011 主题词汇解析 h/haecceitism））；凭证 2026-11-04 | 2026-11-04 |
-| haecceity；ecceitas（司各脱拉丁异形） | — | 此性（haecceity） | omniscience | 学界通行译名（司各脱此性说）；凭证 2026-11-09；ecceitas（vives 正文作 ecceitates）并条 2026-11-25 | 2026-11-09 |
+| haecceity；ecceitas(司各脱拉丁异形) | — | 此性（haecceity） | omniscience | 学界通行译名（司各脱此性说）；凭证 2026-11-09；ecceitas（vives 正文作 ecceitates）并条 2026-11-25 | 2026-11-09 |
 | haiku | 俳句 | 俳句 | japanese-aesthetics | 学界惯例（日本文学研究通行译法“俳句”） | 2026-11-08 |
 | hairesis | αἵρεσις | 宗派（古代学派组织） | dialectical-school | 古代哲学史文献通行（有共同学说与制度关联的学派组织；与师承对举）；凭证 2026-11-07 | 2026-11-25 |
 | Halakhah / Halakhist | — | 哈拉哈／哈拉哈学者 | gersonides | 犹太研究通行（犹太律法及其研治者） | 2026-11-09 |
@@ -4679,7 +4681,7 @@
 | matter field | — | 物质场 | spacetime-holearg | A 档（物理学通行译名） | 2026-10-28 |
 | matter theory (of evil) | — | 质料论 | evil-kinds-origins | 本词条译名 | 2026-11-12 |
 | matters of fact | — | 事实问题 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
-| Māturīdī | ماتريدي | 马图里迪（人名） | al-din-al-razi 首译 | 学界通行（中亚伊斯兰教义学派）；原文列取证：GND 规范档（lobid）条目变体形 检索 2026-11-20（2026-11-20 查）；撞形改定 2026-11-21：人名与派别分列；派别归 Maṭurīdiyya | 2026-11-21 |
+| Māturīdī | ماتريدي | 马图里迪派的（形容词）／马图里迪派信徒（源文作 Maturidite／Maturidites） | arabic-islamic-religion | 学界通行（中亚伊斯兰教义学派）；原文列取证：GND 规范档（lobid）条目变体形 检索 2026-11-20（2026-11-20 查）；撞形改定 2026-11-21：人名与派别分列；派别归 Maṭurīdiyya；首现订正 2026-11-26：源文在 en/arabic-islamic-religion（Maturidites／Maturidite），al-din-al-razi 无该词；人名义归人名表 Al-Maturidi，本行只承载形容词／信徒义 | 2026-11-26 |
 | Maṭurīdiyya | المَاتُريدِيَّةُ | 马图里迪派 | arabic-islamic-* 集群 | 学界通行 | 2026-10-28 |
 | mawjūd | موجود | 存在者（阿拉伯存在论） | 语料回收（外文术语审计 2026-11-25） | 伊斯兰哲学通行（与 māhiyya 本质对举；原文形为通行转写对）；凭证 2026-11-25 | 2026-11-25 |
 | maximal act-set | — | 极大行动集 | 语料回收（标题词） | 学界惯例（行动哲学（A批正文定案）；审定“极大集”（maximal set，数学名词；2026-11-26 界面精确匹配复核）为数学域佐证）；凭证 2026-11-01 | 2026-11-26 |
@@ -5415,7 +5417,7 @@
 | nonidentity problem | — | 非同一性问题 | repugnant-conclusion（首见；语料回收同现） | 学界通行（Parfit 1984；与既有 the nonidentical“非同一之物”分立）；高景柱《论代际正义视域中的“非同一性问题”》（爱思想 147258）；王灵芝、周斌、郝明《帕菲特非同一性问题的再审视——以人类生殖系基因编辑为例》，《医学与哲学》2023 年第 18 期，英文题 A Reflection of Parfit's Non-identity Problem；审定库无对口命中，2026-11-24 | 2026-11-24 |
 | noninstrumental | — | 非工具性 | oakeshott 首译 | 学界惯例（工具性/非工具性对举）；凭证 2026-11-07 | 2026-11-07 |
 | nonlocality | — | 非定域性 | qt-entangle | 审定名词库（物理学名词 nonlocality）；凭证 2026-11-09 | 2026-11-09 |
-| nonsectarian movement | — | 无派别运动 | gorampa | 藏传佛教近现代史通行（ris med，利美运动）；本条目从“无派别运动”并括注原词 | 2026-11-09 |
+| nonsectarian movement | — | 无派别运动 | 待核（gorampa 正文未见原词） | 藏传佛教近现代史通行（ris med，利美运动）；本条目从“无派别运动”并括注原词；2026-11-26 核：gorampa 正文无英文对译形，亦无 ris med／khyab；全库 overpervad 0 命中，nonsectarian 仅见异义（feminism-femhist）与他条（tsongkhapa），khyab 见 dharmakiirti／tsongkhapa；术语按藏传研究通行形登记，首现待该条译出后回填 | 2026-11-26 |
 | nonstandard model | — | 非标准模型 | quine-nf | 模型论通行译名；凭证 2026-11-09 | 2026-11-09 |
 | norm | — | 范数（亦作“模”） | qm | 审定作“范数”（norm，数学名词、物理学名词各 1 条；2026-11-26 界面精确匹配复核）；“模”在审定库对 mode/module/modulus，非本义 | 2026-11-26 |
 | norm psychology | — | 规范心理学 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
@@ -5678,7 +5680,7 @@
 | overdiagnosis | — | 过度诊断 | cancer | 学界通行（筛查与预防医学）；凭证 2026-11-09；2026-11-09 合并同键变体（来源列并双 slug） | 2026-11-09 |
 | overimitation | — | 过度模仿 | moral-learning | 学界通行（儿童模仿研究）；凭证 2026-11-09 | 2026-11-09 |
 | overlapping consensus | — | 重叠共识 | reflective-equilibrium | 学界通行（罗尔斯《政治自由主义》汉译）；凭证 2026-11-11 | 2026-11-11 |
-| overpervades | — | 周遍过宽 | gorampa | 藏传因明通行（khyab che ba）；果让巴反批评宗喀巴“否定过多”之术语 | 2026-11-09 |
+| overpervades | — | 周遍过宽 | 待核（gorampa 正文未见原词） | 藏传因明通行（khyab che ba）；果让巴反批评宗喀巴“否定过多”之术语；2026-11-26 核：gorampa 正文无英文对译形，亦无 ris med／khyab；全库 overpervad 0 命中，nonsectarian 仅见异义（feminism-femhist）与他条（tsongkhapa），khyab 见 dharmakiirti／tsongkhapa；术语按藏传研究通行形登记，首现待该条译出后回填 | 2026-11-26 |
 | overtaking criterion | — | 赶超标准 | ramsey-economics | 学界惯例（Koopmans 1965、von Weizsacker 1965）；凭证 2026-11-11 | 2026-11-11 |
 | overtone | — | 泛音 | bohr-correspondence 首译 | 学界通行译名（量子物理学史与科学哲学文献）；凭证 2026-11-07 | 2026-11-07 |
 | ownership | — | 所有权 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·农业经济与管理·农业制度经济，2026-11-18 JWT 直连凭证） | 2026-11-19 |

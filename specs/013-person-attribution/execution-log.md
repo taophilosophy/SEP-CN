@@ -410,3 +410,17 @@ review 池里 114 条候选 GND 有职业无生卒，若出生地可映射国别
 
 结论：该档“职业无年份”无可填项，两档方案的 B 档（查无留空、随译定点）即为终态；
 review 池 383 条至此 146 条有判定、237 条依 B 档留空，无第三轮可做。
+
+## 2026-11-26 终态机检口径（check_terms 工具侧）
+
+* `tools/check_terms.py` 的 `person_missing()` 拆为 `_person_lack()`＋`person_terminal_stats()`：
+  依据列注明「终态/NOSOURCE/不适用/无考/不传/未见/不详/留空」且不带「待考/待补/待查/待核/待定」
+  者不计告警；同时读本目录三份台账作豁免源：`per-line-adjudication-2026-11-20.jsonl`（v=NOSOURCE）、
+  `gnd-triage-2026-11-26.tsv`（verdict=none）、`gnd-review-decisions-2026-11-26.tsv`（驳回/同名驳回；
+  未判且候选无年份按 B 档）。
+* **不写回登记册**：两档方案明令 B 档不追加记录（`results/two-tier-plan-2026-11-26.md:19`），
+  豁免只存在于机检口径；审计入口为生成的 `results/person-terminal-2026-11-26.tsv`（键/行号/缺项/来源）。
+* 实测：告警 771 → 18（终态 753：依据列 10＋台账 743）；剩 18 条为 GND auto 待过目（6）、
+  采信候选未补全、不在 GND 池等真实待办，清单见 `results/person-missing.txt`。
+* 单测：`tools/tests/test_check_terms_person_terminal.py`（5 例，含台账注入与「留白待考」不豁免）。
+* 未决：`rules/03-terminology.md:77` 仍写两列“必填”，与本口径形式冲突，待规则修订时并入。
