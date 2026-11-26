@@ -39,6 +39,7 @@
 退出码: 0 无硬错误；1 有冲突或自洽违例（--docs 模式仅告警，恒 0；--check-ledger 违例 1）；
         2 参数错误（如 --ledger 未配 --docs）。
 """
+import glob
 import io
 import json
 import os
@@ -265,14 +266,19 @@ PERSON_PENDING_RE = re.compile(r'待考|待补|待查|待核|待定')
 
 # 013 判定台账（2026-11-26）：终态不写回登记册（013 两档方案明令 B 档不追加
 # 记录），由本工具读台账作机检豁免源；台账缺失即退化，不影响硬错误判定。
-PERSON_TERMINAL_LEDGERS = (
-    ('specs/013-person-attribution/results/per-line-adjudication-2026-11-20.jsonl',
-     'per-line'),
-    ('specs/013-person-attribution/results/gnd-triage-2026-11-26.tsv', 'triage'),
-    ('specs/013-person-attribution/results/gnd-review-decisions-2026-11-26.tsv',
-     'decisions'),
+# 前缀 glob 取最新一份：新批次按全量重判落盘，YYYY-MM-DD 后缀字典序即时间序。
+PERSON_TERMINAL_GLOBS = (
+    ('specs/013-person-attribution/results/per-line-adjudication-*.jsonl', 'per-line'),
+    ('specs/013-person-attribution/results/gnd-triage-*.tsv', 'triage'),
+    ('specs/013-person-attribution/results/gnd-review-decisions-*.tsv', 'decisions'),
 )
+PERSON_TERMINAL_LEDGERS = None   # 非 None 时覆盖 glob（测试注入或临时口径）
 _PERSON_TERMINAL_CACHE = None
+
+
+def _pick_latest(paths):
+    """同前缀多份时取文件名最新（YYYY-MM-DD 后缀字典序即时间序）。"""
+    return sorted(paths)[-1] if paths else None
 
 
 def load_person_terminal_keys():
@@ -290,9 +296,17 @@ def load_person_terminal_keys():
     out = {}
 
     def base(rel):
-        return os.path.join(ROOT, rel.replace('/', os.sep))
+        return rel if os.path.isabs(rel) else os.path.join(ROOT, rel.replace('/', os.sep))
 
-    for rel, kind in PERSON_TERMINAL_LEDGERS:
+    specs = PERSON_TERMINAL_LEDGERS
+    if specs is None:
+        specs = []
+        for pat, kind in PERSON_TERMINAL_GLOBS:
+            latest = _pick_latest(glob.glob(base(pat)))
+            if latest:
+                specs.append((latest, kind))
+
+    for rel, kind in specs:
         p = base(rel)
         if not os.path.exists(p):
             continue

@@ -45,6 +45,16 @@ class PersonTerminalTests(unittest.TestCase):
         check_terms.PERSON_TERMINAL_LEDGERS = self._ledgers
         check_terms._PERSON_TERMINAL_CACHE = None
 
+    def test_pick_latest_by_date_suffix(self):
+        paths = [
+            'x/gnd-triage-2026-11-26.tsv',
+            'x/gnd-triage-2026-12-03.tsv',
+            'x/gnd-triage-2026-11-30.tsv',
+        ]
+        self.assertEqual(check_terms._pick_latest(paths),
+                         'x/gnd-triage-2026-12-03.tsv')
+        self.assertIsNone(check_terms._pick_latest([]))
+
     def test_terminal_excluded_pending_kept(self):
         missing = check_terms.person_missing(ROWS)
         self.assertEqual([m[0] for m in missing],

@@ -51,6 +51,8 @@ python tools/campaign.py claim <批次> --session <你的会话名>
 
 每阶段完成后：`campaign.py advance <批次> <下一阶段> --note "计数依据"`。**账本阶段只在事实满足时推进**（note 写明计数）。注意 `advance --note` 会覆盖该批 note 历史，只在确需改写时使用。
 
+> **术语两件事（2026-11-26 并入）**：① 新登记术语同写概念行——`baseline/term-concepts.md`（ADR-0084 D5=B；2026-12-01 起 `check_term_concepts` 已入 `check_all` 门禁）；② 首现回填——该件涉及的“语料回收”行在正文译出后改记实际 slug（全库去变音命中口径，参照 `specs/058-term-full-reextraction/execution-log/2026-11-26-shouxian-chuzhi.md`）。
+
 > **工作量提示（ADR-0011）**：含中国文献的词条（`chinese-*` 簇约 30 条 + 全库罗马化线索约 170–280 条，探针见 `tools/biblio_audit.py --all` 的 flagged）文献还原额外 +10–15% 工时。
 
 ## 4. 并行线（不占批次，独立交接）
