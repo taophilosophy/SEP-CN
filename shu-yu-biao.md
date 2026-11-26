@@ -1041,7 +1041,7 @@
 | Chakravarti | चक्रवर्तिन् | 转轮圣王 | korean-buddhism | 佛典古译（转轮圣王/转轮王） | 2026-11-05 |
 | Chaldean Oracles | — | 《迦勒底神谕》 | 语料回收（specs/058 全库提取） | 本库译名（新柏拉图主义秘传文献；语料 9 处一致）（2026-11-24 语料核对，凭证 works-batch28-2026-11-24.md） | 2026-11-24 |
 | Chan Buddhism | — | 禅宗 | 语料回收（标题词） | 审定作“禅宗”（Chan Zong;Zen Buddhism，中国古代史名词 5.246；2026-11-26 配对复核） | 2026-11-26 |
-| Chancellor | — | 校长（大学） | 词汇表复核（源提交 bbeff276） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核在案（同名噪声/辅助档差异，保留现译 2026-10-29）；FLAG 裁定 2026-11-21：审定名词库 chancellor＝大学校长（president, chancellor, rector）；中世纪大学语境取校长 | 2026-11-21 |
+| Chancellor | — | 校长（大学） | 词汇表复核（源提交 bbeff276） | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定作“大学校长”（president, chancellor, rector，教育学名词 08.109；与 chancellor 的大学主管义对口，2026-11-26 复核）；FLAG 裁定 2026-11-21：审定名词库 chancellor＝大学校长（president, chancellor, rector）；中世纪大学语境取校长 | 2026-11-26 |
 | channel | — | 信道 | logic-relevance | 同 channel theory 既有行；凭证 2026-11-09 | 2026-11-09 |
 | channel theory | — | 信道论 | logic-relevance | Barwise 信息论术语通行译法；凭证 2026-11-09 | 2026-11-09 |
 | chaos theory | — | 混沌理论 | 语料回收（specs/058 全库提取） | 审定名词库（termonline-all·生物物理学，凭证 2026-11-23） | 2026-11-23 |
