@@ -396,3 +396,17 @@ Yin Xian 为其中唯一的年代不可能者，其余（Gollwitzer、Stout、Ta
 （A. J. Ayer 的点空格形、Caroline of Ansbach 的封号形、Emperor Wu (Han) 的汉名转写），
 以及人名在正文以异拼出现（Schopenhauer 于 landmann-kalischer 确实在文，但姓氏外的名形干扰判定）。
 信噪比过低，不做机检、不据此改册；人名侧仍靠“悬空检查＋随译定点”两条。
+
+### 批 70（量测即收口）：114 条“有职业无年份”候选无可填
+
+review 池里 114 条候选 GND 有职业无生卒，若出生地可映射国别尚能补籍属。实测：**仅 4 条有出生地**，
+其余 110 条连出生地也无，职业（Philosoph、Linguist、Hochschullehrer…）不足以定籍属。四条逐一看：
+
+* Himma, Kenneth（Seattle）；Pease, Adam（San Jose）：在册籍属已记美国，无需改；
+* Schmidt, Christoph（Hof/Saale，GND 职业地球物理／物理学者）：语境为施olem 研究的犹太思想学者
+  （Schmidt 1998 论政治神学），**职业不合，判同名候选驳回**；
+* Shalkowski, Scott（Leeds，职业 Philosoph）：语境为宗教知识论者（Shalkowski 1989 APQ），
+  职业相符、出生地利兹，但出生地不等于国籍（其人长期在英美两地任教），**存疑不填**。
+
+结论：该档“职业无年份”无可填项，两档方案的 B 档（查无留空、随译定点）即为终态；
+review 池 383 条至此 146 条有判定、237 条依 B 档留空，无第三轮可做。
