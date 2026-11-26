@@ -30,6 +30,9 @@
   - 引证库名如实 = 告警（非硬错误，ADR-0088 第 2 条／ADR-0090 2026-11-26）：行内
     「审定…作“X”」所声称的库别与索引内 X 的实际库别不符，或同段既称审定又称
     对照库／其他库；带条文号的纸质引证跳过。清单落 specs/058 results/citation-lib-warnings.txt。
+  - 人名首现悬空 = 告警（2026-11-26）：人名表「首现」列写成 slug 形状但 en/ 下无该词条
+    目录（ADR-0009 目录命名）；「语料回收（…）」「首现（…）」「—」等非 slug 标注不判。
+    清单落 specs/013 results/person-dangling-first.txt。
 退出码: 0 无硬错误；1 有冲突或自洽违例（--docs 模式仅告警，恒 0；--check-ledger 违例 1）；
         2 参数错误（如 --ledger 未配 --docs）。
 """
@@ -64,6 +67,8 @@ ORIG_REPORT = os.path.join(ROOT, 'specs', '008-terminology-campaign', 'results',
                            'orig-missing.txt')
 PERSON_REPORT = os.path.join(ROOT, 'specs', '013-person-attribution', 'results',
                              'person-missing.txt')
+PERSON_FIRST_REPORT = os.path.join(ROOT, 'specs', '013-person-attribution', 'results',
+                                   'person-dangling-first.txt')
 PAIR_INDEX = os.path.join(ROOT, term_pairing.INDEX_PATH)
 STD_PAIR_INDEX = os.path.join(ROOT, term_pairing.STD_INDEX_PATH)
 STD_PAIR_REPORT = os.path.join(ROOT, 'specs', '058-term-full-reextraction', 'results',
@@ -173,6 +178,22 @@ def translations(cell):
     for m in re.finditer(r'《([^《》]{1,60})》', cell):
         variants.add(m.group(1).strip())
     return {v for v in variants if v}
+
+
+def person_dangling_first(rows2):
+    """人名表「首现」列写了 slug 形状但 en/ 下无该词条目录 → 悬空（告警）。
+
+    非 slug 标注（语料回收（…）、首现（…）、书名、—）不判。判据与 ADR-0009 的
+    `<letter>/<slug>.md` 目录命名同源：只认纯 ASCII 词条名。"""
+    en_dir = os.path.join(ROOT, 'en')
+    bad = []
+    for (term, _orig, _trans, _nation, _years, fs, _basis, _date, lineno) in rows2:
+        s = (fs or '').strip()
+        if not re.match(r'^[A-Za-z0-9][A-Za-z0-9_.-]*$', s):
+            continue
+        if not os.path.isdir(os.path.join(en_dir, s)):
+            bad.append((term, s, lineno))
+    return bad
 
 
 def person_missing(rows2):
@@ -672,6 +693,17 @@ def main(argv=None):
             write_person_missing(person_entries, PERSON_REPORT)
             print('人名缺籍属/生卒（告警，不计硬错误）: %d 条，清单 → %s'
                   % (len(person_entries), PERSON_REPORT))
+            dangling = person_dangling_first(rows2)
+            if not docs:
+                for term, slug, ln in dangling[:10]:
+                    print('人名首现悬空（告警）: %s → en/%s（行 %d）' % (term, slug, ln))
+                if len(dangling) > 10:
+                    print('…（其余 %d 条见清单）' % (len(dangling) - 10))
+            _atomic_write(PERSON_FIRST_REPORT, '\n'.join(
+                ['%s\t%s\t%d' % d for d in dangling] +
+                ['汇总\t%d\t人名首现悬空（ADR-0009 目录命名）' % len(dangling)]) + '\n')
+            print('人名首现悬空（告警，不计硬错误）: %d 条，清单 → %s'
+                  % (len(dangling), PERSON_FIRST_REPORT))
     if docs:
         return 0
     return 1 if hard else 0

@@ -265,6 +265,20 @@ class LibHonestyGateTests(unittest.TestCase):
         self.assertEqual(self.code, 0)
 
 
+class PersonDanglingFirstTests(unittest.TestCase):
+    """人名表首现列：slug 形但库内无目录 → 悬空；非 slug 标注不判。"""
+
+    def test_slug_shaped_unknown_flagged(self):
+        rows2 = [('X', '—', 'X', '—', '—', 'no-such-entry-xyz', 'b', '2026-01-01', 1)]
+        self.assertEqual(check_terms.person_dangling_first(rows2),
+                         [('X', 'no-such-entry-xyz', 1)])
+
+    def test_non_slug_markers_skipped(self):
+        rows2 = [('Y', '—', 'Y', '—', '—', '语料回收（全目录）', 'b', '2026-01-01', 2),
+                 ('Z', '—', 'Z', '—', '—', '—', 'b', '2026-01-01', 3)]
+        self.assertEqual(check_terms.person_dangling_first(rows2), [])
+
+
 if __name__ == '__main__':
     unittest.main()
 
