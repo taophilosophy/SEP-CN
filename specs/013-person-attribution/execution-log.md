@@ -422,5 +422,15 @@ review 池 383 条至此 146 条有判定、237 条依 B 档留空，无第三�
   豁免只存在于机检口径；审计入口为生成的 `results/person-terminal-2026-11-26.tsv`（键/行号/缺项/来源）。
 * 实测：告警 771 → 18（终态 753：依据列 10＋台账 743）；剩 18 条为 GND auto 待过目（6）、
   采信候选未补全、不在 GND 池等真实待办，清单见 `results/person-missing.txt`。
-* 单测：`tools/tests/test_check_terms_person_terminal.py`（5 例，含台账注入与「留白待考」不豁免）。
+* **2026-11-26 审查修正**（测试覆盖子代理复核后）：
+  ① 软终态正则补 `留白`（`留白待考` 仍因待考互斥保留）；
+  ② **显式待考优先于台账**——依据列含待考类词时台账不得覆盖，`Arturo Roig`（留白待考，
+  gnd-triage=none）回到队列，告警口径修正为 **19 条**（终态 751：依据列 14＋台账 737）；
+  ③ `triage=none` 的 101 行已移出清单（机检豁免），与 `two-tier-plan-2026-11-26.md:19`
+  “B 档在 person-missing.txt 维持查无状态”存在文字张力，取舍为“清单只留真实待办、
+  终态另存索引”，该句待 013 线修订时并入；
+  ④ 下游 `bin/gnd_batch_candidates.py` docstring 的“780 行”改为按 `person-missing.txt`
+  现查（2026-11-26 为 19 行）。
+* 单测：`tools/tests/test_check_terms_person_terminal.py`（5 例，含台账注入、`留白` 豁免与
+  显式“留白待考”不被台账覆盖）。
 * 未决：`rules/03-terminology.md:77` 仍写两列“必填”，与本口径形式冲突，待规则修订时并入。

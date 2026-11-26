@@ -29,6 +29,8 @@ ROWS = [
     row('Pending', '—', '—', '留白待考', 3),
     row('HardTerminal', '—', '—', '终态：013 B 档', 4),
     row('HalfMissing', '法国', '—', '凭证', 5),
+    row('BlankTerminal', '—', '—', '生卒留白（生年无考）', 6),
+    row('LedgerOnly', '—', '—', '凭证', 7),
 ]
 
 
@@ -45,30 +47,33 @@ class PersonTerminalTests(unittest.TestCase):
 
     def test_terminal_excluded_pending_kept(self):
         missing = check_terms.person_missing(ROWS)
-        self.assertEqual([m[0] for m in missing], ['Pending', 'HalfMissing'])
+        self.assertEqual([m[0] for m in missing],
+                         ['Pending', 'HalfMissing', 'LedgerOnly'])
 
     def test_stats_split_by_source(self):
         total, by = check_terms.person_terminal_stats(ROWS)
-        self.assertEqual(total, 2)
-        self.assertEqual(by, {'basis': 2})
+        self.assertEqual(total, 3)
+        self.assertEqual(by, {'basis': 3})
 
-    def test_nosource_ledger_exempts(self):
+    def test_nosource_ledger_exempts_but_pending_wins(self):
         with tempfile.TemporaryDirectory() as d:
             p = os.path.join(d, 'per-line.jsonl')
             with open(p, 'w', encoding='utf-8') as f:
+                f.write(json.dumps({'key': 'LedgerOnly', 'v': 'NOSOURCE'},
+                                   ensure_ascii=False) + '\n')
                 f.write(json.dumps({'key': 'Pending', 'v': 'NOSOURCE'},
                                    ensure_ascii=False) + '\n')
             check_terms.PERSON_TERMINAL_LEDGERS = ((p, 'per-line'),)
             check_terms._PERSON_TERMINAL_CACHE = None
             missing = check_terms.person_missing(ROWS)
-            self.assertEqual([m[0] for m in missing], ['HalfMissing'])
+            self.assertEqual([m[0] for m in missing], ['Pending', 'HalfMissing'])
 
     def test_gnd_none_and_reject_ledgers(self):
         with tempfile.TemporaryDirectory() as d:
             tri = os.path.join(d, 'triage.tsv')
             with open(tri, 'w', encoding='utf-8') as f:
                 f.write('键\tverdict\t理由\t候选\n')
-                f.write('Pending\tnone\t查无\t-\n')
+                f.write('LedgerOnly\tnone\t查无\t-\n')
             dec = os.path.join(d, 'decisions.tsv')
             with open(dec, 'w', encoding='utf-8') as f:
                 f.write('键\t候选名\t生卒\t出生地\t职业\tGND\t判定\t理由\n')
@@ -77,16 +82,17 @@ class PersonTerminalTests(unittest.TestCase):
                                                    (dec, 'decisions'))
             check_terms._PERSON_TERMINAL_CACHE = None
             missing = check_terms.person_missing(ROWS)
-            self.assertEqual(missing, [])
+            self.assertEqual([m[0] for m in missing], ['Pending'])
 
     def test_terminal_index_written(self):
         with tempfile.TemporaryDirectory() as d:
             p = os.path.join(d, 'terminal.tsv')
             n = check_terms.write_person_terminal_index(ROWS, p)
-            self.assertEqual(n, 2)
+            self.assertEqual(n, 3)
             with open(p, encoding='utf-8') as f:
                 text = f.read()
             self.assertIn('SoftTerminal', text)
+            self.assertIn('BlankTerminal', text)
             self.assertIn('basis', text)
             self.assertNotIn('Pending', text)
 

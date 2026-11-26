@@ -260,7 +260,7 @@ def term_dangling_first(rows):
 
 
 PERSON_TERMINAL_RE = re.compile(r'终态|NOSOURCE')
-PERSON_TERMINAL_SOFT_RE = re.compile(r'不适用|无考|不传|未见|不详|留空|无来源|无权威')
+PERSON_TERMINAL_SOFT_RE = re.compile(r'不适用|无考|不传|未见|不详|留空|留白|无来源|无权威')
 PERSON_PENDING_RE = re.compile(r'待考|待补|待查|待核|待定')
 
 # 013 判定台账（2026-11-26）：终态不写回登记册（013 两档方案明令 B 档不追加
@@ -336,9 +336,10 @@ def _person_lack(rows2):
     """逐行产出 (term, lineno, 缺项, terminal, source)。
 
     终态判据（2026-11-26）：依据列明确写「终态」或「NOSOURCE」即豁免；写
-    「不适用/无考/不传/未见/不详/留空/无来源/无权威」且不带「待考/待补/待查/
-    待核/待定」的也豁免（「留空并登记」是结论，「留白待考」是待办）。另读 013
-    台账的 NOSOURCE／GND none／驳回 判定作豁免源（load_person_terminal_keys）。
+    「不适用/无考/不传/未见/不详/留空/留白/无来源/无权威」且不带「待考/待补/
+    待查/待核/待定」的也豁免（「留空并登记」是结论，「留白待考」是待办）。另读
+    013 台账的 NOSOURCE／GND none／驳回 判定作豁免源（load_person_terminal_keys）。
+    **显式待办优先**：依据列含待考类词时，台账不得覆盖（2026-11-26 审查修正）。
     豁免只影响告警与清单，不改登记册。
     """
     terminal_keys = load_person_terminal_keys()
@@ -352,13 +353,13 @@ def _person_lack(rows2):
         if not lack:
             continue
         basis = _basis or ''
+        pending = bool(PERSON_PENDING_RE.search(basis))
         source = None
         if PERSON_TERMINAL_RE.search(basis):
             source = 'basis'
-        elif PERSON_TERMINAL_SOFT_RE.search(basis):
-            if not PERSON_PENDING_RE.search(basis):
-                source = 'basis'
-        if source is None:
+        elif PERSON_TERMINAL_SOFT_RE.search(basis) and not pending:
+            source = 'basis'
+        if source is None and not pending:
             source = terminal_keys.get((term or '').strip().casefold())
         if source is not None:
             yield term, lineno, '、'.join(lack), True, source

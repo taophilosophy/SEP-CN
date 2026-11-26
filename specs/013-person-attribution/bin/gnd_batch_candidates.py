@@ -2,13 +2,14 @@
 """GND（lobid）批量候选池：人名缺籍属/生卒两档收口的第一步（2026-11-26）。
 
 策略（specs/013 两档收口方案，2026-11-26 用户批准）：
-  本脚本只**采集**候选，不写登记册——780 行全量过 lobid 精确名检索，每名最多取
+  本脚本只**采集**候选，不写登记册——对 `person-missing.txt` 全量过 lobid 精确名检索，每名最多取
   3 条命中，落 `results/gnd-candidates-2026-11-26.tsv`（四列：键｜原文｜译法｜候选；
   候选列形如 q=…; gnd=…; name=…; birth=…; death=…; coa=…; occ=…，制表符已清洗）；
   判定（防误采防线）由 `bin/gnd_triage.py` 完成。
 
 请求间隔 ≥5s（rules/05 礼貌抓取，按“相邻请求”计）；断点 state 落
-script/tmp/gnd-batch-state.json，中断重跑自动续。行数 780、限速 5s ≈ 70 分钟。
+script/tmp/gnd-batch-state.json，中断重跑自动续。行数以 `person-missing.txt` 现查为准
+（2026-11-26 收口后为 19 行），限速 5s。
 
 用法：
   python -I specs/013-person-attribution/bin/gnd_batch_candidates.py [--limit N]
