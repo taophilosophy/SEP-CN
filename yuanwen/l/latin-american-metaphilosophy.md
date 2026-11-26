@@ -140,7 +140,7 @@ A number of recent contributors to the debate about the nature of Latin American
 
 Middle-way theories reject both strong universalism and strong distinctivism. If successful, they would avoid the problems facing each of those extremes—which, as we saw above, are skepticism about Latin American philosophy (in strong universalism) and ungrounded assumptions (in strong distinctivism). Here we’ll briefly consider three recent middle-way positions. The first two agree that it would be possible to provide examples of sufficient conditions for a work to count as Latin American philosophy. The position discussed last undertakes the more ambitious project of proposing a set of conditions that are necessary and jointly sufficient.
 
-2\.3.1 Gracia’s Ethnic-Philosophy Account
+2.3.1 Gracia’s Ethnic-Philosophy Account
 
 What we may call ‘the ethnic-philosophy account’ (Gracia’s 2003, 2008)[^gracia-2003][^gracia-2008] is a neo-Wittgensteinian view holding that Latin American philosophy (and more broadly, Hispanic and Latino/a philosophy) is
 
@@ -156,7 +156,7 @@ One of the advantages of this account is its flexibility. For it entails that La
 
 The main challenge for this view is how to avoid an anything-goes form of metaphilosophical relativism. Gracia (2003, p. 66) has sought to eliminate this threat by emphasizing that it is not only a contextually determined, selective point of view that matters for individuating ethnic philosophies. Reality also has a role, possibly in connection with history, which Gracia invokes to explain the nature of “philosophical texts.” On his view, these are “historical entities, the product of historical beings in particular times and places whose identities are linked to the context in which they were produced and which, for that reason, depend on them” (2003, p. 65). Metaphilosophical relativists can, however, welcome this appeal to history, though they would further insist that it is not only philosophical texts but also the truth of philosophical theories that’s similarly contingent upon historical context. In fact, more than a mere logical possibility, relativism of this sort is by now a strong twentieth century tradition in the philosophy of science (see, e.g., Kuhn 1962, especially chapter 10)[^kuhn-1962].
 
-2\.3.2 Moulines’s Compromise Account
+2.3.2 Moulines’s Compromise Account
 
 Also a middle way between universalism and distinctivism is Moulines’s 2010 position. Like Gracia’s account, it vindicates only sufficient conditions for being an instance of Latin American philosophy. But unlike Gracia’s account, Moulines’s does not argue against the possibility of conditions that are both necessary and jointly sufficient. His positive proposal consists of four sufficient conditions that, on his view, a number of recent works meet—namely, they are universal in the sense that they use concepts and provide arguments that are intended to be universally valid; (2) they have been developed by Latin American authors; (3) they have been originally devised, at least partially, in some Latin American countries; and (4) they have found widespread interest both *in* and *outside* Latin America.
 
@@ -164,7 +164,7 @@ Satisfying (1) through (4) is considered sufficient for a work to be “an insta
 
 According to Moulines, conditions (1) through (4) express an understanding of Latin American philosophy that is “‘universalist’ as much as ‘distinctivist’” (2010, p. 460). A quick look at them suggests that (1) is relevant to universalism, (2) and (3) to distinctivism, and (4) to neither because it is neutral, though it bears on the external invisibility problem mentioned above. But note that(2) and (3) are distinctivist only in terms of ‘peculiarity’—which, as pointed out earlier, is the cheapest of the distinctive properties at issue on this debate.
 
-2\.3.3 Nuccetelli’s Applied-Philosophy Account
+2.3.3 Nuccetelli’s Applied-Philosophy Account
 
 Another mid-way position to be considered here was developed in Nuccetelli 2002, 2009, and 2020. It proposes a set of conditions that are taken to be both necessary and jointly sufficient for being an instance of a *characteristically* Latin American philosophy—namely, that any qualifying work must
 

@@ -112,7 +112,6 @@ Suffice it to say for the moment that it is a common misunderstanding that in th
 
 > **Argument 2 from Properties** [Paragraph IX]
 >
->
 > **Property**: If a part of a body maintains a fixed position with respect to the body as a whole, then it participates in the motion of the whole body.
 >
 > **Conclusion**: True and absolute motion cannot be defined as a translation from the vicinity of (the immediately surrounding) bodies, viewing the latter as if they were at rest.

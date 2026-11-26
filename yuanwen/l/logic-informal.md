@@ -187,7 +187,6 @@ Other modes of arguing invoke the senses in other ways. p> Here is an example fr
 
 > EXAMPLE 5:
 >
->
 > A wine steward attempts to convince a customer that Napa Valley “Frogs Leap PS 2015” is an exceptional Petite Syrah by quoting high praise in a wine guide, and by handing them a glass, inviting them to taste it.
 
 In this case, the steward provides evidence for the claim that Frogs Leap PS 2015 is an exceptional Petite Syrah in two ways: (i) via a verbal premise that cites the authority of a wine guide, and (ii) via a taste test that aims to support this conclusion. In the first case, the result is a verbal appeal to authority, in the second an argument from taste.
@@ -249,11 +248,9 @@ Different systems of IL may standardize arguments in different ways. In its simp
 
 > EXAMPLE 6:
 >
->
 > - The weather report indicates heavy rain this afternoon, so you should take an umbrella to work.
 >
 > EXAMPLE 6 STANDARDIZED:
->
 >
 > - *Premise*: The weather report indicates heavy rain this afternoon.
 > - *Conclusion*: You should take an umbrella to work.
@@ -267,7 +264,6 @@ One issue that frequently arises in standardization is an argument’s dependenc
 The following report from the New Hampshire *Rockingham News* (30/8/2002) comments on a court case which sent the organizer of dog fights to jail for cruelty to animals.
 
 > EXAMPLE 7:
->
 >
 > A co-ordinator for the Humane Society supported a prison sentence, claiming that the minor penalties normally associated with misdemeanor convictions are not a sufficient deterrent in this case.
 
@@ -285,7 +281,6 @@ Recognizing an argument’s implicit premises prepares the way for argument eval
 Arguments with implicit premises or conclusions are recognized in traditional discussions of *enthymemes*: syllogisms with unstated premises. A contemporary example is the American Vice-President Dick Cheney’s defense of the Bush administration’s decision not to try foreigners charged with terrorism offenses as prisoners of war (to avoid granting those accused of terrorism the same legal protections).
 
 > EXAMPLE 8 (from a report in the *New York Times*, 15/11/2001):
->
 >
 > “The basic proposition here is that somebody who comes into the United States of America illegally ... is not a lawful combatant.... They don’t [therefore] deserve to be treated as a prisoner of war.”
 

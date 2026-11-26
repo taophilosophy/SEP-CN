@@ -200,7 +200,6 @@ In chapter 21 of *On What Matters*, Parfit presents further arguments that can b
 
 > *Case Six*: The only possible alternatives are these:
 >
->
 > |   | Blue will live to the age of: | Each of some number of other people will live to: |
 > | --- | --- | --- |
 > | We do nothing | 30 | 30 |
@@ -212,7 +211,6 @@ Following Parfit, utilitarians will object that, if we endorse the individualist
 Second, Parfit offers a new argument that, when the individualist restriction does enable the contractualist to reach the right conclusions, it cannot do so for the right reasons. Consider the following case (Parfit 2011, volume 2, p. 196)[^parfit-2011]:
 
 > *Case Three*: The only possible alternatives are these:
->
 >
 > |   | Future days of pain |   |
 > | --- | --- | --- |

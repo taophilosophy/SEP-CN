@@ -1,9 +1,9 @@
 {
- "total": 58,
+ "total": 45,
  "counts": {
   "bib-keys": 24,
-  "text": 17,
-  "note-forms": 3,
+  "text": 5,
+  "note-forms": 2,
   "blank": 14
  },
  "items": [
@@ -73,16 +73,6 @@
    "why": "174 键名不同"
   },
   {
-   "slug": "contractualism",
-   "fam": "text",
-   "why": "真文字差"
-  },
-  {
-   "slug": "digital-art",
-   "fam": "text",
-   "why": "真文字差"
-  },
-  {
    "slug": "early-modern-india",
    "fam": "blank",
    "why": "空行/折行"
@@ -143,11 +133,6 @@
    "why": "真文字差"
   },
   {
-   "slug": "law-limits",
-   "fam": "text",
-   "why": "真文字差"
-  },
-  {
    "slug": "leibniz-evil",
    "fam": "bib-keys",
    "why": "39 键名不同"
@@ -158,24 +143,9 @@
    "why": "26 键名不同"
   },
   {
-   "slug": "logic-informal",
-   "fam": "text",
-   "why": "真文字差"
-  },
-  {
-   "slug": "logical-constants",
-   "fam": "note-forms",
-   "why": "注形往返"
-  },
-  {
    "slug": "luxemburg",
    "fam": "bib-keys",
    "why": "28 键名不同"
-  },
-  {
-   "slug": "mally-deontic",
-   "fam": "text",
-   "why": "真文字差"
   },
   {
    "slug": "meinong",
@@ -188,29 +158,14 @@
    "why": "67 键名不同"
   },
   {
-   "slug": "modality-medieval",
-   "fam": "text",
-   "why": "真文字差"
-  },
-  {
-   "slug": "newton-stm",
-   "fam": "text",
-   "why": "真文字差"
-  },
-  {
    "slug": "nietzsche-aesthetics",
    "fam": "bib-keys",
    "why": "92 键名不同"
   },
   {
-   "slug": "perception-contents",
-   "fam": "text",
-   "why": "真文字差"
-  },
-  {
    "slug": "possibilism-actualism",
-   "fam": "text",
-   "why": "真文字差"
+   "fam": "blank",
+   "why": "空行/折行"
   },
   {
    "slug": "rationality-structural",
@@ -221,11 +176,6 @@
    "slug": "ratnakirti",
    "fam": "bib-keys",
    "why": "65 键名不同"
-  },
-  {
-   "slug": "reasoning-automated",
-   "fam": "blank",
-   "why": "空白归一后等值"
   },
   {
    "slug": "recursive-functions",
@@ -263,16 +213,6 @@
    "why": "84 键名不同"
   },
   {
-   "slug": "supervenience",
-   "fam": "text",
-   "why": "真文字差"
-  },
-  {
-   "slug": "turing",
-   "fam": "text",
-   "why": "真文字差"
-  },
-  {
    "slug": "vasubandhu",
    "fam": "bib-keys",
    "why": "68 键名不同"
@@ -291,11 +231,6 @@
    "slug": "wilhelm-wundt",
    "fam": "bib-keys",
    "why": "114 键名不同"
-  },
-  {
-   "slug": "wittgenstein-atomism",
-   "fam": "text",
-   "why": "真文字差"
   }
  ]
 }

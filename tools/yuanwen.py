@@ -1004,7 +1004,11 @@ def _escape_leading_hash(text):
         # 行首列表标记形（berkeley 判例：H0 引块首行 `+ Mind is a congeries…`）：
         # 不转义则被当无序列表，符号丢失且体例失真
         return '\\' + text
-    return re.sub(r'^(\d+)\.', r'\1\\.', text)
+    # 仅当点号后有空白/行尾才构成有序列表标记（specs/053 第五十三批，
+    # possibilism-actualism 判例）：`1.\*` 的点后紧跟反斜杠，本不会渲染成
+    # 列表，旧式无 lookahead 一律转义 → R 侧还原成 `1.` 后与 md0 的
+    # `1\.` 不等
+    return re.sub(r'^(\d+)\.(?=\s|$)', r'\1\\.', text)
 
 
 def _drop_duplicate_h1(md):
@@ -1125,9 +1129,23 @@ def render_blocks(blocks, ctx, bib_container=False):
             sub = Ctx(ctx.slug)
             render_blocks(extract_blocks_raw(_split_br_lines(inner)), sub)
             body = '\n'.join(sub.out).strip().replace(BR_MARK, '\n')
+            # 连续空行折叠为 1（specs/053 第五十三批）：HTML 无法编码空行游程
+            # （`<p>` 段间与 `<br />` 行都是同一空白语义），md0 却会生成
+            # 2 个以上空 `>`——R 侧 _blocks 只能还原 1 个，B3.1 恒红
+            # （contractualism／law-limits／logic-informal 等 5 件判例）。
+            # 归一在 C 侧一次做净：md 里引块内最多一个空 `>`。
+            body = re.sub(r'\n{2,}', '\n\n', body)
             if body:
                 ctx.emit('')
                 for ln in body.split('\n'):
+                    # 引块行首多余空格归一（specs/053 第五十三批）：HTML 侧
+                    # 空白折叠，`<br /> **AOT…` 的行首空格在 md 里成
+                    # `>  **…`（双空格），R 无法保留（再经 HTML 折叠即丢），
+                    # B3.1 恒红（reasoning-automated 判例）。列表标记行除外
+                    # ——`>   - sub` 的缩进是嵌套层级，不可动。
+                    if (ln[:1] == ' ' and ln.strip()
+                            and not re.match(r'\s*(?:[-*+]|\d+[.)])\s', ln)):
+                        ln = ln.lstrip()
                     ctx.emit('> ' + ln if ln.strip() else '>')
         elif t == 'table':
             ctx.emit('', table_to_md(inner, ctx.slug))

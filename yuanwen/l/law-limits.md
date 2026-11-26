@@ -99,8 +99,6 @@ Devlin’s account is a moral relativist one. He relativizes what is morally goo
 >
 > (therefore) it is wrong for people in one society to condemn, interfere with, etc., the values of another society.
 >
->
->
 > (B. Williams 1972: 34–39, numbering added; cf. the distinction between “positive morality” and “critical morality” in Hart 1963 [1982: 17–24])[^hart-1963][^williams-1972]
 
 As noted above, Devlin affirmed the first of William’s propositions. In industrialized societies, Devlin tells us, it is generally true that monogamy “is built into the house in which we live and could not be removed without bringing it down” (Devlin 1965: 10)[^devlin-1965][^devlin-1965-2]. But this is merely a contingent truth and if our houses were built differently—around polygamy—the content of the law to be enforced could legitimately be the opposite of what it is (Devlin 1965: 114)[^devlin-1965][^devlin-1965-2]. As for the second, it is equally clear that Devlin understood wrongness “for a given society” in “the functional sense” of what threatened the persistence of that society. A society is constituted by its “common morality” or “moral structure” or “public morality” and its morality is as necessary to it as “a recognised government”, If a society’s morality is not sufficiently enforced the society will “disintegrate”; and the society accordingly has a right to defend itself against attacks on that morality (Devlin 1965: 10)[^devlin-1965][^devlin-1965-2].

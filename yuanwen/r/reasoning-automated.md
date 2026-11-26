@@ -816,19 +816,19 @@ An additional 1,000 lines of such computational derivations lead to the result t
 After establishing further results about basic logical objects, restricted variables, the extended relation comprehension, and possible worlds, the computational exploration can then be redirected to Dedekind-Peano arithmetic where its postulates for natural numbers are formally derived in a system free of mathematical primitive notions and mathematical axioms—Frege’s Theorem—and thereby supporting the claim that AOT can provide a philosophically grounded basis for objects of mathematics. The computational approach in Kirchner 2021 is guided by a proof outline that was previously given in Zalta 1999 but that now, being reconstructed in Isabelle/HOL, produces derivations of the postulates in full detail and formality.
 
 > *Postulate 1*
->  **AOT_theorem** "0-n": ❬ [ℕ]0 ❭
+> **AOT_theorem** "0-n": ❬ [ℕ]0 ❭
 >
 > *Postulate 2*
->  **AOT_theorem** "0-pred": ❬ ¬∃n [ℙ]n 0 ❭
+> **AOT_theorem** "0-pred": ❬ ¬∃n [ℙ]n 0 ❭
 >
 > *Postulate 3*
->  **AOT_theorem** "no-same-succ": ❬ ∀n∀m∀k([ℙ]nk & [ℙ]mk → n = m) ❭
+> **AOT_theorem** "no-same-succ": ❬ ∀n∀m∀k([ℙ]nk & [ℙ]mk → n = m) ❭
 >
 > *Postulate 4*
->  **AOT_theorem** "th-succ": ❬ ∀n∃!m [ℙ]nm ❭
+> **AOT_theorem** "th-succ": ❬ ∀n∃!m [ℙ]nm ❭
 >
 > *Postulate 5*
->  **AOT_theorem** induction: ❬ ∀F([F]0 & ∀n∀m([ℙ]nm → ([F]n → [F]m)) → ∀n[F]n) ❭
+> **AOT_theorem** induction: ❬ ∀F([F]0 & ∀n∀m([ℙ]nm → ([F]n → [F]m)) → ∀n[F]n) ❭
 
 The computational explorations described above were done using the second-order fragment of AOT but the SSE could be extended to the full higher-order logic AOT (Kirchner 2021)[^kirchner-2021] where it could be applied to the analysis of theoretical mathematics. It is important to stress that embedding a target theory within the higher-order logic of an existing prover results in more than just a formalization of the theory: The SSE allows for the discovery of new results within the target theory, as exemplified above, as well as the study and further development of the target theory itself such as placing the theory on firmer foundations, e.g. avoiding known paradoxes (Zalta 2018, Kirchner 2021)[^kirchner-2021][^zalta-2018]. The computational analysis of AOT described in here can also be construed as yet another test of the concept of embedding theories, simple and complex alike, within the framework of a higher-order prover. It illustrates the power and convenience of the approach, and researchers in automated reasoning may want to seriously consider using an SSE in their theorem-proving efforts (Benzmüller 2019)[^benzmüller-2019].
 

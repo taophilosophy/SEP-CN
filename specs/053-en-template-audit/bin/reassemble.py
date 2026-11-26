@@ -119,14 +119,21 @@ SUPSUB_ENT = {
 }
 
 
-def _supsub_inner(x):
+def _supsub_inner(x, mp=None):
     """`^{…}`/`_{…}` 内文 → H0 拼写（命中实体表者写实体形，余者原样）。
 
     表只含非 ASCII 字符，故 R 自己插入的标签（`<sub>`/`<em>`，如 `^{n₀}` ←
     H0 `<sup>n<sub>0</sub></sup>` 的嵌套降级）天然不受影响。表外字符（`½`
     等 H0 从不出现者）原样，交装配补集池吸收。
-    """
+
+    整段 ASCII 且在 C 的字形映射表内者写数字实体（specs/053 第五十三批）：
+    md0 的 `_{1}` 只可能来自「H0 inner 含标签/不可映射字符」（C 判不可映射
+    才保留记号）；R 若回 `<sub>1</sub>`，C 第二遍可映射 → 折成 `₁`，B3.1 红
+    （modality-medieval／continuum-hypothesis／supervenience／turing 判例）。
+    写 `&#49;` 后 C 判不可映射，原样还原 `_{1}`。"""
     if not any(c in SUPSUB_ENT for c in x):
+        if mp and x and all(c in mp for c in x):
+            return "".join("&#%d;" % ord(c) for c in x)
         return x
     return "".join(SUPSUB_ENT.get(c, c) for c in x)
 _EM = None  # 按件实体策略（codepoint → 实体串）；reassemble_article 入口设置
@@ -822,7 +829,9 @@ def _inline_md_to_html(text):
             # 不下标——H0 该处是正文层 TeX 文本而非 md 上标记号
             if re.search("\x12[A-Za-z]+$", s[:m.start()]):
                 return m.group(0)
-            return "<%s>%s</%s>" % (tag, _supsub_inner(m.group(1)), tag)
+            return "<%s>%s</%s>" % (
+                tag, _supsub_inner(m.group(1), SUB_MAP if tag == "sub" else SUP_MAP),
+                tag)
         return rep
 
     s = re.sub(r"_\{([^}]*)\}", _sup_sub_repl("sub"), s)
@@ -1240,6 +1249,13 @@ def _render_bq(q, _depth=0):
     （有空格）靠“标记后是否空白”区分，故 NEST_RE 要求 `>` 后为空白或行尾。"""
     NEST_RE = re.compile(r"^>(?:\s|$)")
 
+    # 首/尾空 `>` 行＝C 侧引块内首尾的 <br />（`_split_br_lines` 的 BR_MARK
+    # 还原成 \n 后经 `> ` 前缀落成空行，digital-art／perception-contents
+    # 判例）。_blocks 丢弃空行，这里补回 `<br />`——C 会把首尾 <br /> 再变
+    # 成空 `>` 行，B3.1 闭合（2026-11-26 第五十三批）
+    lead_br = bool(q) and not q[0].strip()
+    trail_br = bool(q) and not q[-1].strip()
+
     def _blocks(lines):
         out, cur = [], []
         for line in lines:
@@ -1322,6 +1338,18 @@ def _render_bq(q, _depth=0):
             else:
                 inner += "<p>%s</p>" % "<br>".join(
                     _inline_md_to_html(x) for x in p)
+    if lead_br:
+        # 放进首个 <p> 内（BR_MARK 若单独成段，C 侧段间还会再出一个空行，
+        # 折叠后仍 2 个空 `>`——digital-art 判例）
+        if inner.startswith("<p>"):
+            inner = "<p><br />" + inner[3:]
+        else:
+            inner = "<br />" + inner
+    if trail_br:
+        if inner.endswith("</p>"):
+            inner = inner[:-4] + "<br /></p>"
+        else:
+            inner += "<br />"
     return "<blockquote>%s</blockquote>" % inner
 
 
@@ -1543,7 +1571,15 @@ def reassemble_article(md, authors, entity_map=None, links=None, greek=None,
             # <blockquote>），此处维持单层语义。
             q = []
             while i < n and lines[i].startswith(">"):
-                q.append(lines[i][1:].lstrip(" "))
+                seg = lines[i][1:]
+                # 只剥 `> ` 的一个分隔空格，保留行内前导空格（C 的
+                # `'> ' + ln` 会把 ln 的前导空格留成第二个空格，
+                # `>  **AOT_theorem**` 判例）。旧式 lstrip(" ") 全吃 →
+                # C 再产 `> **…`，B3.1 红（reasoning-automated，2026-11-26
+                # 第五十三批）
+                if seg.startswith(" "):
+                    seg = seg[1:]
+                q.append(seg)
                 i += 1
             bq = _render_bq(q)
             if bq:
