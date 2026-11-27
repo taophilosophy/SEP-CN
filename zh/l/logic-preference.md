@@ -387,6 +387,131 @@ Osherson 与 Weinstein 探讨可判定性问题以及模型子类的各种条件
 
 双层结构已成为建模有理由偏好的标准进路，并在各领域有潜在应用。近期一例是源于底层因果考量的偏好——见 Xie 与 Yan（2024）的相关工作。类似地，Chen、Shi 与 Wang（2024）把偏好与依赖整合进合作博弈，为纳什均衡、帕累托最优与沙普利核心等概念提供统一视角。
 
+## 5. 偏好改变
+
+偏好会因多种触发因素而改变，因此偏好改变是一个自然会纳入考虑的现象。逻辑建模因而被提出来研究关于这些动态的推理。本节部分遵循 Lang 与 Van der Torre（2008）对偏好改变的分类，该分类以驱动改变的信息输入类型为依据。此外，本节强调双层结构中可能发生的动态变化。Grüne-Yanoff 与 Hansson（2009）讨论了偏好改变为何在社会科学、尤其是经济学中被忽视，该文集呈现了研究偏好改变的各种进路（另见“偏好”词条中关于偏好改变的一节）。本节考察逻辑传统中的主要观念与形式框架。
+
+### 5.1 内在偏好修正
+
+第一类偏好改变类似于信念改变：正如信念修正把新获得的信念纳入既有信念状态，内在偏好修正把新偏好纳入既有偏好状态。在这里，偏好由其他偏好修正以形成新偏好，信念并不介入。
+
+建模偏好改变主要有两种方法：Alchourrón、Gärdenfors 与 Makinson（AGM）的公设框架（见“信念修正逻辑”词条中对 AGM 信念修正理论的描述），以及基于动态逻辑的系统（见“动态认知逻辑”词条）。两者都已被研究者广泛采用，以探讨各种形式的偏好改变。
+
+Sven Ove Hansson（1995）[^hansson-1995] 对偏好改变作了细致分析，在 AGM 框架内区分出四种不同类型：
+
+- **修正**：以修正语句“*φ* 优于 *ψ*”获得对 *φ* 而非 *ψ* 的偏好。
+- **收缩**：移除“*φ* 优于 *ψ*”这一偏好。
+- **增加**：向所考虑选项集中加入一个新选项。
+- **删减**：从所考虑选项集中移除一个选项。
+
+信念修正会分配优先级以尽量减少对先前信念的改动，而 Hansson 主张优先级并不适用于偏好修正。在偏好修正中，接纳诸如 $\varphi\succeq \psi$ 的新语句，可能涉及调整 *φ* 或 *ψ* 的位置。他还提出一种相似性度量，使修正后的偏好模型尽可能接近原模型，并为这些算子给出 AGM 式公设。
+
+Van Benthem 与 Liu（2007）发展了一种动态认知逻辑的扩展，用以推理偏好改变。他们引入一个“建议”算子，记作 $\sharp\varphi$。公式 $[\sharp\varphi]\psi$ 意为“在 *φ* 被公开建议之后，*ψ* 成立”，其定义为：
+
+$$(\mathcal{M}, s) \models [\sharp \varphi]\psi \quad\textrm{ 当且仅当 }\quad \mathcal{M}_{\sharp \varphi}, s \models \psi$$
+
+其中 $\mathcal{M}_{\sharp \varphi}$ 与 $(\mathcal{M}, s)$ 具有相同的论域、赋值和现实世界，但偏好关系通过删去从 *φ* 世界到 $\neg \varphi$ 世界的偏好链接而更新：
+
+$$\leq^{*} = \leq - \{(s, t) \mid \mathfrak{M}, s \models \varphi \textrm{ 与 } \mathfrak{M}, t \models \neg \varphi\}.$$
+
+更一般地，在此框架中，建议 $\sharp(\varphi)$ 可理解为命题动态逻辑（PDL）中的一个关系程序（参 Harel、Kozen 与 Tiuryn 2000）[^harel-2000]，即
+
+$$(?\neg \varphi ; R) \cup (R ; ?\varphi)$$
+
+它表示保留所有既有 *R* 链接，唯独去掉从 *φ* 世界到 $\neg \varphi$ 世界的链接。这一设置允许不同类型的偏好改变。例如，添加偏好链接（使每个 *φ* 世界都优于每个 $\neg \varphi$ 世界）可表示为
+
+$$R := R \cup (?\neg \varphi ; \top; ?\varphi)$$
+
+其中 $\top$ 表示全关系。**激进偏好升级** 定义为
+
+$$\Uparrow \varphi(R) := (?\varphi;R;?\varphi)\cup(?\neg \varphi; R;?\neg \varphi) \cup (?\neg \varphi;\top;?\varphi)$$
+
+它使所有 *φ* 世界都优于所有 $\neg \varphi$ 世界，同时保留各组内部的原有排序。
+
+这一动态偏好逻辑通过支持多种改变关系的算子而扩展了 DEL，Van Benthem 与 Liu（2007）为这些算子给出了完全性定理。他们的结果利用 PDL 形式，使得动态模态可归约，并可递归计算归约公理。
+
+### 5.2 信念更新驱动的偏好改变
+
+第二类偏好改变源于信念的改变，反映了行动者所信与其评价选项方式之间的动态互动。这一主题已获得相当关注（见 Bradley 2007、Lang 与 Van der Torre 2008、Liu 2011b 的工作）[^bradley-2007][^lang-2008][^liu-2011b]。例如，沿袭 Savage（1954）[^savage-1954] 所奠定的决策论传统，Bradley 主张偏好改变可源于信念改变，即“偏好改变是由信念在可能性空间某一划分上的重新分配所引发的”。他用贝叶斯进路形式化这一原则。考虑 Lang 与 Van der Torre（2008）的如下例子：
+
+> 起初，我想吃这盘里的寿司。随后我得知这寿司是用不新鲜的鱼做的。现在我不想吃这寿司了。（2008：351）
+
+得知寿司用不新鲜的鱼制作改变了我的信念，进而逆转了我最初的偏好。在这里，偏好改变是信念改变的结果，因此信念改变成为建模的关键要素。
+
+AGM 框架通过为信念集应如何适应新的、可能冲突的信息建立公设来处理信念修正。Lang 与 Van der Torre（2008）把类似进路用于由信念更新引起的偏好改变。他们提出的形式语言包括：一个信念二元模态算子 $N(\alpha\mid\beta)$，意为“给定 *β*，*α* 是正常的（或被相信的）”；一个偏好算子 $P(\alpha\mid\beta)$，意为“给定 *β*，*α* 更受偏好”；以及一个动态算子 $[*\alpha]\beta$，读作“在学习 *α* 之后，*β* 成立”。为刻画偏好改变的性质，他们提出八条公设。下面给出两例：
+
+$$\tag{P1} P\alpha \rightarrow [*\alpha]P\alpha $$
+
+（P1）意为：得知某事已被偏好，并不会改变最初的偏好。例如，如果我渴望财富，那么在我变得富有之后，这一偏好仍然保留。这种持续性通常显得自然，但有争议；例如在 Jeffrey 的决策论中，一旦你变得富有，想变得富有的欲望可能不再适用。
+
+$$\tag{P5} P\alpha \land N\beta \rightarrow [*\beta]P\alpha$$
+
+（P5）蕴含：得知原本预期之事确实如此，不应改变既有偏好。该原则等价地表述为 $P\alpha \land \neg[*\beta]P\alpha \rightarrow \neg N\beta$，它表达的是：意外信息是偏好改变得以发生的必要条件。
+
+总之，信念更新驱动偏好改变，这表明两者关系密切。AGM 理论与动态逻辑系统等框架为建模这一演化提供了工具。
+
+### 5.3 偏好改变的双层模型
+
+在双层结构中，优先基可因各因素相对重要性的变化而移动，从而自然导致偏好的相应改变。De Jongh 与 Liu（2009）考察了线性优先基与偏好之间的互动，并展示了优先性移动如何影响偏好关系。在相关语境中，Andréka、Ryan 与 Schobbens（2002）在更一般的非线性图结构中探讨了从各种优先排序导出偏好的方法。在这些观念的基础上，Girard（2008）[^girard-2008] 与 Liu（2011a）[^liu-2011a] 引入基本图更新操作，为分析优先结构的变化提供形式框架。Christoff、Gratzl 与 Roy（2021）研究了标签相继式中的优先合并证明论。
+
+#### 5.3.1 图更新：基本操作
+
+假设有一个优先基，记作 $\mathscr{B}$，它是一组带优先级的命题。当加入新命题 *A* 时，有几种直接的纳入方式：
+
+- **赋予 *A* 最高优先级**：可将 *A* 置于优先基顶端，使其成为最重要的命题。
+- **赋予 *A* 最低优先级**：可将 *A* 加到底部，使其优先级最低。
+- **并置**：可将 *A* 与 $\mathscr{B}$ 并排放置，而不在 *A* 与其他优先项之间建立次序。
+
+基本图更新的集合 $\alpha(\mathscr{B}, A)$ 以能够刻画这些可能变化的方式定义：
+
+$$\alpha(\mathscr{B}, A) := A \mid \mathscr{B}_1 ; \mathscr{B}_2 \mid \mathscr{B}_1 \parallel \mathscr{B}_2.$$
+
+这里，$\mathscr{B}_1 ; \mathscr{B}_2$ 表示把 $\mathscr{B}_1$ 加到 $\mathscr{B}_2$ 之上的顺序组合，使得 $\mathscr{B}_1$ 中每个元素都优先于 $\mathscr{B}_2$ 中每个元素。并行组合（$\mathscr{B}_1 \parallel \mathscr{B}_2$）把 $\mathscr{B}_1$ 与 $\mathscr{B}_2$ 作为彼此无优先次序的不相交集合组合起来。
+
+优先基不仅可通过插入新命题来修改，也可通过删除操作移除优先关系。例如，顶部删除会移除优先基中那些不被其他项“支配”的项，即处于最高优先级层次的项。
+
+这些基本图更新为通过增删命题来重构给定优先基提供了简单方式。
+
+#### 5.3.2 追踪动态
+
+为追踪不同层次——世界层与优先层——之间的变化，我们定义一个特定的技术概念。给定优先更新 $\alpha: (\mathscr{B}, A) \rightarrow \mathscr{B'}$ 与世界层映射 $\sigma: (\preceq, A) \rightarrow \preceq'$，称 *α* **诱导** *σ*，当且仅当：
+
+$$\sigma(\preceq_{\mathscr{B}}, A) = \preceq_{\alpha(\mathscr{B}, A).}$$
+
+一个操作 *α* 是 *PDL 可定义操作*，如果它通过使用语言中公式的测试、弱与严格基本偏好关系 *R* 以及全关系，并允许任意并集与顺序组合，诱导出一个 *PDL* 可定义的关系变换器 *σ*：
+
+$$\pi:=?\varphi \mid R\mid R^{<} \mid \top\mid ;\mid \cup.$$
+
+这些被解释为 *PDL* 的标准程序操作：**测试** $?\varphi$、**顺序组合** “;”与 **选择** “∪”。
+
+在双层框架中，考察优先动态如何映照偏好动态是很有意思的。例如，既可通过改变世界层偏好关系，也可通过修改优先基，来实现由“建议”算子引起的偏好改变。若把新命题 *A* 并行加入既有基 $\mathscr{B}$，偏好关系会按下图更新：
+
+![交换图：扩展说明见下](../../assets/logic-preference/figxy1.svg)
+
+*图 A*：把新命题 A 并行加入既有基的交换图 [图 A 的扩展说明见补充材料。]
+
+类似地，把新命题 *A* 置于优先图 $(\mathscr{B}, <)$ 顶端，对应于世界层的一次激进升级：
+
+![图：扩展说明见下](../../assets/logic-preference/figxy2.svg)
+
+*图 B*：把新命题 A 置于优先图顶端的交换图 [图 B 的扩展说明见补充材料。]
+
+这些例子表明，优先层变换与世界层关系更新可以无缝对应。
+
+尽管优先动态与偏好动态常常一致，但也存在限制。例如，删除操作 $\textit{del}(\mathscr{B})$ 不是 *PDL* 可定义的（Liu 2011a）[^liu-2011a]。某些自然的优先层修改无法在世界层完全表示。
+
+#### 5.3.3 双层结构中的信念驱动偏好改变
+
+在双层结构中，考虑由信念更新驱动的偏好改变同样合理。在 De Jongh 与 Liu（2009）的框架中，采用多种策略从优先基与信念导出偏好，如下例所示：
+
+> Alice 正在找公寓。她认为价格比邻里环境更重要。她相信公寓 $d_1$ 价格低但邻里环境差。她对公寓 $d_2$ 的价格 **没有信息**，但相信其邻里环境好。
+
+在涉及不确定性的情形中，“决策策略”通过优先考虑每个选项被相信满足的最重要标准来比较两个选项。在此语境中，Alice 会基于其信念偏好 $d_1$ 而非 $d_2$。
+
+然而，如果她的信念改变（例如得知 $d_2$ 价格低），她的偏好可能转向偏好 $d_2$ 而非 $d_1$。这突显了由信念更新引起的偏好改变与由优先性移动引起的偏好改变之间的区别，如前面例子所示。
+
+总之，优先动态与偏好动态虽然密切相关，却各自保留独特特征，这凸显了同时建模内在偏好与基于理由的偏好在全面理解行动者决策方面的价值。
+
 ## 脚注
 
 [^halldén-1957]: Halldén, Sören, 1957, *On the Logic of “Better”* (Library of Theoria 2), Lund: C.W.K. Gleerup.
@@ -436,3 +561,17 @@ Osherson 与 Weinstein 探讨可判定性问题以及模型子类的各种条件
 [^van-2010]: Van Benthem, Johan, Davide Grossi, and Fenrong Liu, 2010, “Deontics = Betterness + Priority”, in *Deontic Logic in Computer Science: 10th International Conference (DEON 2010)* (Lecture Notes in Computer Science 6181), Guido Governatori and Giovanni Sartor (eds), Berlin/Heidelberg: Springer, 50–65. doi:10.1007/978-3-642-14183-6_6
 
 [^pettit-2002]: Pettit, Philip, 2002, *Rules, Reasons, and Norms: Selected Essays*, Oxford/New York: Oxford University Press. doi:10.1093/0199251878.001.0001
+
+[^hansson-1995]: Hansson, Sven Ove, 1995, “Changes in Preference”, *Theory and Decision*, 38(1): 1–28. doi:10.1007/bf01083166
+
+[^harel-2000]: Harel, David, Dexter Kozen, and Jerzy Tiuryn, 2000, *Dynamic Logic*, Cambridge, MA: MIT Press. doi:10.7551/mitpress/2516.001.0001
+
+[^bradley-2007]: Bradley, Richard, 2007, “The Kinematics of Belief and Desire”, *Synthese*, 156(3): 513–535. doi:10.1007/s11229-006-9136-7
+
+[^lang-2008]: Lang, Jérôme and Leendert van der Torre, 2008, “From Belief Change to Preference Change”, in *Proceedings of the 18th European Conference on Artificial Intelligence (ECAI-2008)* (Frontiers in Artificial Intelligence and Applications 178), Malik Ghallab, Constantine D. Spyropoulos, Nikos Fakotakis, Nikos Avouris (eds), IOS Press, 351–355. doi:10.3233/978-1-58603-891-5-351
+
+[^savage-1954]: Savage, Leonard J., 1954, *The Foundations of Statistics* (Wiley Publications in Statistics), New York: Wiley.
+
+[^girard-2008]: Girard, Patrick, 2008, *Modal Logics for Belief and Preference Change*, Ph.D. thesis, Stanford University.
+
+[^liu-2011a]: –––, 2011a, “A Two-Level Perspective on Preference”, *Journal of Philosophical Logic*, 40(3): 421–439. doi:10.1007/s10992-010-9168-9
