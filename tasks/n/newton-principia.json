@@ -2,7 +2,7 @@
   "slug": "newton-principia",
   "kind": "retranslate",
   "zh_doc": "zh/n/newton-principia.md",
-  "state": "rv-09_checked",
+  "state": "ex-04_checked",
   "steps": [
     {
       "step": "ex-04",
@@ -10,90 +10,6 @@
       "actor": "trae-main",
       "at": "2026-11-27T18:31:20Z",
       "evidence": "T229 ex-04 源审计完成（results/t229-review.md）：en_integrity clean 1/1、hard 0；en_source_audit hard 0、warn 3（heading_skip 为页面模板 h4、orphan_note 为 notes.html 数字锚点口径、pp. 31-70.. 为 D 类真候选）；check_math 0 公式；96 脚注定义（59 编号注 59/59 闭合＋37 书目键，其中 35 条按设计无文内引用）；3 图与文件哈希同基线，fetch_audit complete 缺件 0；版本钉 Winter 2024／Dec 20, 2007 一致；勘误第十九节 1 条"
-    },
-    {
-      "step": "tr-02",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-27T18:51:20Z",
-      "evidence": "T231 tr-02 全量完成（results/t231-review.md），五批逐段译后编辑（PE）：导论＋§1–§10＋尾节＋96 脚注定义（59 编号注译、37 书目键照录）；255 段账本；35,900 汉字（目标 36,082）；全件 255 块与 en 一一对应；3 图、23 引块、62 note 引用；check_style／quotes／math_zh 0、check_pairs hard 0／out_of_scope 0、terms 硬 0、academic 无硬错误；勘误第十九节 5 条"
-    },
-    {
-      "step": "tr-03",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-27T18:57:10Z",
-      "evidence": "T232 tr-03 一校完成（results/t232-tr03.md）：255 段块配对、96 脚注键集合一致、62 引用、3 图、23 引块、12 链接、15 H2／2 H3 守恒；残留外文仅 H1 英文题与 quam proxime；数字年代抽核 20 项一致；重点段落 10 处回源一致；修正 3 项（太阳地平视差、残留星号、被压下的失败）；无 Critical／Major"
-    },
-    {
-      "step": "tr-04",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-27T18:57:10Z",
-      "evidence": "T232 tr-04 二校完成（results/t232-tr04.md）：check_prose 184→156；weak-verb 17→0、passive-bei 11→3（3 条引文照录）、plural-men 1→0；long-sentence 78／de-chain 75 逐条豁免留痕；语体：现代汉语学术书面语，无弱动词堆叠与欧化被动；check_style／quotes 0、terms 硬 0"
-    },
-    {
-      "step": "rv-01",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-27T18:59:25Z",
-      "evidence": "T233 rv-01 完成（results/t233-rv01.md）：术语轴 check_terms 硬 0（5 条告警逐条定性：Cohen-Whitman 复合名、科里奥利力术语、Pourciau／Whiteside 书目引文，均豁免）；体例轴 check_pairs hard 0／out_of_scope 0、check_style 0、check_quotes 0；勘误轴第十九节 5 条（guest／maris nostril／Rudolphime／2986／pp. 31-70..），均纯排版"
-    },
-    {
-      "step": "rv-02",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-27T18:59:29Z",
-      "evidence": "T233 rv-02 完成（results/t233-rv02.md）：冷置回读＋密度统计（35,900 汉字／255 账本段／96 脚注定义／3 图／23 引块）；块配对 257/257、脚注键 96/96、引用 62/62；账本 step2 与正文一致；check_terms 硬 0、check_style 0、check_pairs 0"
-    },
-    {
-      "step": "rv-03",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-27T19:02:48Z",
-      "evidence": "T233 rv-03 完成（results/t233-rv03.md）：q1 候选 89 全部 waived（译本引文，原文在 en 镜像与书目；不代造原文），block anchor 21 条映射 en 行；cite_audit --gate 0、--check-hash 0"
-    },
-    {
-      "step": "rv-04",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-27T19:02:49Z",
-      "evidence": "T233 rv-04 完成（results/t233-rv04.md）：q2 散句 708、逻辑承载 249、算子候选 37，全部 equivalent；3 条算子计数为 now／Newton／some other 子串误报；logic_audit --gate 0"
-    },
-    {
-      "step": "rv-05",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-27T19:02:49Z",
-      "evidence": "T233 rv-05 完成（results/t233-rv05.md）：q3 告警 157 全部 waived（沿用 tr-04 口径）；弱动词 0、被动 3 条引文、复数们 0；grammar_audit --gate 0"
-    },
-    {
-      "step": "rv-06",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-27T19:02:56Z",
-      "evidence": "T233 rv-06 完成（results/t233-rv06.md）：q4 10 节均 R-1、无 R-4／R-5；候选 2 条 false-positive waived；register_audit --gate 0"
-    },
-    {
-      "step": "rv-07",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-27T19:02:57Z",
-      "evidence": "T233 rv-07 完成（results/t233-rv07.md）：q5 量值 5 条（2%／0.4%／80%／98%／50%）全部 pass；M-4 2 条为 fig2／fig3 文件名误判 false-positive；measure_audit --gate 0"
-    },
-    {
-      "step": "rv-08",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-27T19:02:57Z",
-      "evidence": "T233 rv-08 完成（results/t233-rv08.md）：q6 P-13 7 处数值范围改一字线、P-7 双冒号拆句、P-5 4 条序数并列 false-positive；punct_audit --gate 退出码 0；check_style／quotes 0"
-    },
-    {
-      "step": "rv-09",
-      "status": "ok",
-      "actor": "trae-main",
-      "at": "2026-11-27T19:02:59Z",
-      "evidence": "T233 rv-09 完成（results/t233-rv09.md）：冷置回读＋密度统计（35,900 汉字／255 段／96 定义／3 图／23 引块）；H1／pubinfo／尾序合体例；六轴 gate 全 0；check_style／quotes／math_zh 0、check_pairs hard 0、terms 硬 0、academic 无硬错误"
     }
   ],
   "blockers": [],
