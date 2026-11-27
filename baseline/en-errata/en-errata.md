@@ -627,3 +627,12 @@
 | slug | 位置 | 上游原文 | 缺陷定性 | 参考读法 | 中文承载 | 凭证 |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | logic-preference | §6.1 “严格子关系”条（HTML L1910；en L540） | `\trianglerighteq_{\Gamma}` | ②（同页自相矛盾：弱关系符号用于严格子关系） | `\vartriangleright_{\Gamma}` | 译者注释①（§6.1 条目内锚点） | 同段下一行真值条件 HTML L1930／en L545 用 `\vartriangleright_{\Gamma}`；且定义式 `w\succ v` 为严格关系（2026-11-27 复核） |
+
+## 十五、2026-11-27 T211 imprecise-probabilities 新发现
+
+**来源**：`specs/064-flow-spec-audit/results/t211-review.md`；`html/` 冻结不改，`en/i/imprecise-probabilities.md` 忠实照录；中文按正确读法呈现并加译者注释。
+
+| slug | 位置 | 上游原文 | 缺陷定性 | 参考读法 | 中文承载 | 凭证 |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| imprecise-probabilities | §2.3 首段（HTML “C.S. Pierce”；en L138） | `C.S. Pierce` | ①排印手误 | `C.S. Peirce`（皮尔士） | 译者注释①（§2.3 首段句末锚点） | 同段上下文列举 Keynes、Carnap、Popper，所指为 C.S. Peirce；HTML 全文 `Peirce` 0 次、`Pierce` 1 次（2026-11-27 核对） |
+| imprecise-probabilities | §2.3 Keynes 引块（HTML “saying than an accession”；en L140） | `saying than an accession` | ①排印手误 | `saying that an accession` | 译者注释②（引块句末锚点） | 固定搭配 say that；HTML 全文 `than an accession` 仅此 1 次（2026-11-27 核对） |
