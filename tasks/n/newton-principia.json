@@ -2,7 +2,7 @@
   "slug": "newton-principia",
   "kind": "retranslate",
   "zh_doc": "zh/n/newton-principia.md",
-  "state": "tr-02_checked",
+  "state": "tr-04_checked",
   "steps": [
     {
       "step": "ex-04",
@@ -17,6 +17,20 @@
       "actor": "trae-main",
       "at": "2026-11-27T18:51:20Z",
       "evidence": "T231 tr-02 全量完成（results/t231-review.md），五批逐段译后编辑（PE）：导论＋§1–§10＋尾节＋96 脚注定义（59 编号注译、37 书目键照录）；255 段账本；35,900 汉字（目标 36,082）；全件 255 块与 en 一一对应；3 图、23 引块、62 note 引用；check_style／quotes／math_zh 0、check_pairs hard 0／out_of_scope 0、terms 硬 0、academic 无硬错误；勘误第十九节 5 条"
+    },
+    {
+      "step": "tr-03",
+      "status": "ok",
+      "actor": "trae-main",
+      "at": "2026-11-27T18:57:10Z",
+      "evidence": "T232 tr-03 一校完成（results/t232-tr03.md）：255 段块配对、96 脚注键集合一致、62 引用、3 图、23 引块、12 链接、15 H2／2 H3 守恒；残留外文仅 H1 英文题与 quam proxime；数字年代抽核 20 项一致；重点段落 10 处回源一致；修正 3 项（太阳地平视差、残留星号、被压下的失败）；无 Critical／Major"
+    },
+    {
+      "step": "tr-04",
+      "status": "ok",
+      "actor": "trae-main",
+      "at": "2026-11-27T18:57:10Z",
+      "evidence": "T232 tr-04 二校完成（results/t232-tr04.md）：check_prose 184→156；weak-verb 17→0、passive-bei 11→3（3 条引文照录）、plural-men 1→0；long-sentence 78／de-chain 75 逐条豁免留痕；语体：现代汉语学术书面语，无弱动词堆叠与欧化被动；check_style／quotes 0、terms 硬 0"
     }
   ],
   "blockers": [],
