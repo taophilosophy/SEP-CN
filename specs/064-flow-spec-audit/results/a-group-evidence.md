@@ -2,7 +2,7 @@
 
 - 组：**a**（准入；T168／T169／T130）
 - start tag：`batch/064-a-start` → `6b01e803e`（已推送）
-- end tag：**未打**；T130 待用户复核签字，G0 未通过
+- end tag：待打（T130 已完成，G0 条件满足；本文件提交后打 `batch/064-a-end`）
 - 门禁：`python tools/check_all.py` **22/22 全绿**（2026-11-27，组 A 改动后）
 - 口径：本文件只登记组 A 的实际执行与验证；不改写任务定义，不替代 `tasks.md` 的勾选与用户签字
 
@@ -43,29 +43,29 @@ json ok
 
 ## 3 T130 ex-04 人工定性
 
-**状态：部分完成（草案已落，待用户签字）**；不得勾选。
+**状态：完成**（2026-11-27 用户全部批准；T130 已勾选）。
 
 - 证据落点：`results/e2e-habermas.md` §“T130 人工定性（2026-11-27，待用户复核签字）”
 - 候选总数：**5**（hard 0／warn 5／info 0，与 `e2e-habermas-source-audit.json` 一致）
 - 豁免类计数：A 1／B 2／C 1／D 1（不豁免）／E 0
 - 逐条结论：真候选 **1**（`,,`，D 类，HTML L4199–4201，系排印手误）；误报 **4**；待核 **0**
-- 处置建议：`habermas` 勘误行要素已列（slug／位置／上游原文／定性／参考读法／中文承载／凭证），**未写** `baseline/en-errata/en-errata.md`，待用户裁定
-- 附带观察：HTML L4179–4181 `Theory on Empitical Research` 疑为 `Empirical` 之误；`en_source_audit` 未检出（拼写类不在范围），未计入 5 候选，待裁定是否另立勘误条
-- 缺口：用户复核签字（T130 完成与 G0 的硬前置）
+- 处置：`baseline/en-errata/en-errata.md` 第十三节已登记两条——`habermas` `des Ritus”,,`（①双逗号）与 `Theory on Empitical Research`（①拼写，用户批准另立）；`en/` 零改动，中文承载待重译时落地
+- 附带观察：`Empitical` 已按用户批准入表；`en_source_audit` 拼写类未检出，工具改进仅作建议
+- 缺口：无（T130 已完成；用户 2026-11-27 批准记录见 `results/e2e-habermas.md`）
 
 ## 4 组界与闸门
 
 | 项 | 结果 |
 | ---- | ---- |
 | `batch/064-a-start` | 已创建并推送，指向 `6b01e803e` |
-| `batch/064-a-end` | 未创建；T130 未签字，不能宣称组 A 收口 |
-| G0 | **未通过**：T168／T169 完成，T130 待签字；b 组可并行但未启动 |
+| `batch/064-a-end` | 待打；A 三任务已完成，G0 条件满足，本文件提交后打 |
+| G0 | **条件满足**：T168／T169／T130 全部完成；b 组可并行启动 |
 | 全量门禁 | 22/22 全绿（组 A 改动后） |
-| 未改动 | `en/`、`yuanwen/`、译文、`tasks/*.json`、`baseline/` 均未改 |
+| 未改动 | `en/`、`yuanwen/`、译文、`tasks/*.json` 未改；`baseline/en-errata/` 按用户批准新增第十三节 |
 
 ## 5 残留与后续
 
-1. T130 需用户逐条复核并签字；签字后才可勾选 T130、打 `batch/064-a-end`、通过 G0。
-2. `Empitical` 是否另立勘误条、`,,` 是否落 `baseline/en-errata/en-errata.md`，均待用户裁定；本组不擅自改全局勘误表。
-3. `en_source_audit` 的“标题末词＝段落首词”误报抑制仅为建议，未改工具。
+1. 打 `batch/064-a-end`；随后打 `batch/064-b-start`，B 组（T020–T024）由主代理单干（本轮未授权子代理）。
+2. `,,` 与 `Empitical` 已入勘误表；中文译注在该件重译时按 ADR-0065 落地，属后续 tr 链，不在本组。
+3. `en_source_audit` 的“标题末词＝段落首词”抑制与拼写类缺口仅为建议，未改工具。
 4. 组 A 改动与本证据文件应同批提交；提交后核对 `git log origin/main..main` 为空。
