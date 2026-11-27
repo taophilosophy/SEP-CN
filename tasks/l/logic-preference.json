@@ -16,7 +16,7 @@
     "system": "DeepSeek-V4.1-Flash",
     "disclosure": "任务 evidence 与词条译后编辑记录"
   },
-  "state": "rv-09_checked",
+  "state": "sg-02_checked",
   "steps": [
     {
       "step": "ex-04",
@@ -108,6 +108,20 @@
       "actor": "trae-main",
       "at": "2026-11-27T09:59:05Z",
       "evidence": "T146 rv-09 体例终校完成：H1/pubinfo/小节编号/尾序（参考文献>学术工具>其他网络资源>相关词条>脚注>译者注释）/脚注闭合 64 标记·43 键·67 定义·悬空 0/勘误锚点与第十四节可追溯；六轴出口齐备（rv-03 引文、rv-04 逻辑、rv-05 语法、rv-06 语域、rv-07 计量、rv-08 标点均 0）；check_style、check_quotes、check_pairs --gate 0，check_academic --strict 与 check_math_zh --strict 0 硬错误，check_all 23/23；未改文；证据 results/t146-rv09.md、t147-rv03–rv08.md"
+    },
+    {
+      "step": "sg-01",
+      "status": "ok",
+      "actor": "trae-main",
+      "at": "2026-11-27T10:02:24Z",
+      "evidence": "T148 sg-01 初审通过：抽读 §1/§2.2/§4.2/§5.3/§6.2/§7.2；可读性、术语习惯、背景提示、语体一致四维均通过；无 Critical/Major；Minor 2（±φ 记号、§2.1 R3 源文自指）不阻断；未改文；证据 results/t148-sg01.md"
+    },
+    {
+      "step": "sg-02",
+      "status": "ok",
+      "actor": "trae-main",
+      "at": "2026-11-27T10:02:29Z",
+      "evidence": "T148 sg-02 复审通过：六段逻辑链完整；七节指代与跨节呼应一致（内外偏好/优先基/其他条件不变/CP 网）；图 1–8 与图 A/B 引用对应；问题单无 Critical/Major，Minor 2 同 sg-01；未改文；证据 results/t148-sg02.md；sg-03 待用户显式 mandate"
     }
   ],
   "blockers": [],
