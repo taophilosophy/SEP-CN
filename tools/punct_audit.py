@@ -53,7 +53,7 @@ RANGE_ENDASH = re.compile(r"(?<![\w–])(\d+(?:[.,]\d+)?)–(\d+(?:[.,]\d+)?)")
 RANGE_TILDE = re.compile(r"(?<![\w~])(\d+(?:[.,]\d+)?)~(\d+(?:[.,]\d+)?)")
 ELLIPSIS = re.compile(r"(?<!\.)\.{3,}(?!\.)|。{3,}")
 HALF = re.compile(r"[%s][,;:?!]" % HAN)
-QUOTE_GAP = re.compile(r"[“”][ \t]+[%s]|[ \t]+[“”]" % HAN)
+QUOTE_GAP = re.compile(r"[“”][ \t]+[%s]|[%s][ \t]+[“”]" % (HAN, HAN))
 KANJI_GAI = re.compile(r"[一二三四五六七八九十]\s*、\s*[一二三四五六七八九十]")
 
 

@@ -23,6 +23,10 @@ class ScanTextTest(unittest.TestCase):
         data = punct_audit.scan_text("他说 “你好”，随后离开。", "demo")
         self.assertTrue([i for i in data["issues"] if i["rule"] == "P-18"])
 
+    def test_english_quote_space_not_flagged(self):
+        data = punct_audit.scan_text("> a product of “reeducation” in English.", "demo")
+        self.assertEqual([i for i in data["issues"] if i["rule"] == "P-18"], [])
+
     def test_half_width_after_han(self):
         data = punct_audit.scan_text("第 5 章, 101–105。", "demo")
         self.assertTrue([i for i in data["issues"] if i["rule"] == "P-20"])
