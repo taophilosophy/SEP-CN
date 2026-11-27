@@ -20,11 +20,11 @@ $$\begin{align} f_{1}(\{0\}) &= 0 \\ f_{1}(\{1\}) &= 1 \\ f_{1}(\{0, 1\}) &= 0 \
 
 **AC1**：任何非空集合族都有一个选择函数。
 
-**AC1** 也可以用 **索引集族** 或 **变元集** 来重新表述。集合的索引集族 $\mathcal{A} = \{A_{i}: i \in I\}$ 可以设想为一个 **变元集**，即一个在索引集 $I$ 上 **变动** 的集合。此时每个 $A_{i}$ 都是变元集 $\mathcal{A}$ 在 **阶段** $i$ 的“值”。$\mathcal{A}$ 上的 **选择函数** 是一个映射 $f: I \rightarrow \bigcup_{i\in I} A_{i}$，使得对所有 $i\in I$ 都有 $f(i) \in A_{i}$。于是 $\mathcal{A}$ 上的选择函数就是在每一阶段对变元集 $\mathcal{A}$ 的某个元素作出的“选择”；换言之，$\mathcal{A}$ 上的选择函数是 $\mathcal{A}$ 的一个 **可变元素**。**AC1** 于是等价于下述断言：
+**AC1** 也可以用 **索引集族** 或 **变元集** 来重新表述。集合的索引集族 $\mathcal{A} = \{A_{i}: i \in I\}$ 可以设想为一个 **变元集**，即一个在索引集 $I$ 上 **变动** 的集合。此时每个 $A_{i}$ 都是变元集 $\mathcal{A}$ 在 **阶段** $i$ 的“值”。$\mathcal{A}$ 上的 **选择函数** 是一个映射 $f: I \rightarrow \bigcup_{i\in I} A_{i}$，使得对所有 $i\in I$ 都有 $f(i) \in A_{i}$。于是 $\mathcal{A}$ 上的选择函数就是在每一阶段对变元集 $\mathcal{A}$ 的某个元素作出的“选择”；换言之，$\mathcal{A}$ 上的选择函数是 $\mathcal{A}$ 的一个 **变元元素**。**AC1** 于是等价于下述断言：
 
 **AC2**：任何集合的索引集族都有一个选择函数。
 
-非正式地说，**AC2** 相当于断言：一个在每一阶段都有元素的变元集有一个可变元素。
+非正式地说，**AC2** 相当于断言：一个在每一阶段都有元素的变元集有一个变元元素。
 
 **AC1** 也可以用关系来重新表述，即：
 
@@ -130,6 +130,211 @@ Gödel（1964）[^gödel-1964] 也注意到（Myhill 与 Scott 1971、Takeuti 19
 | 1935 | Max Zorn 显然并不熟悉此前关于极大原理的各种表述，他发表了（Zorn 1935）[^zorn-1935] 自己关于该原理的定稿版本，此版本后来以他的引理（**ZL**）之名广为人知。**ZL** 最早于 1933 年在汉堡被表述出来，Chevalley 与 Artin 很快“采纳”了它。似乎正是 Artin 最先认识到 **ZL** 能够推出 *AC*，从而在集合论其余公理之上两者等价。Zorn 本人更多地把他的原理视为一条 **公理** 而非一条定理——他希望它能取代代数中超限归纳与良序的那些笨重应用，而 Noether 学派的代数学家当时已开始把这些应用视为“超越性的”手段。 |
 | 1939–40 | Teichmüller、Bourbaki 与 Tukey 各自独立地用“有限特征的性质”重新表述了 **ZL**（Bourbaki 1939, Teichmuller 1939, Tukey 1940）[^bourbaki-1939][^teichmuller-1939]。 |
 
+## 4. 选择公理的数学应用
+
+选择公理在数学中有众多应用，其中若干已被证明在形式上与它等价[^note-13]。历史上最重要的应用是第一个，即：
+
+**良序定理**（Zermelo 1904, 1908）[^zermelo-1904][^zermelo-1908]。每个集合都能被良序化。
+
+Zermelo 发表 1904 年从 *AC* 出发对良序定理的证明之后，人们很快便看出两者等价。
+
+另一个早期的 *AC* 等价形式是
+
+**乘法公理**（Russell 1906）[^russell-1906]。任何由非零基数构成的集合之积非零。
+
+*AC* 的早期应用包括：
+
+- 每个无限集都有一个可数子集。这一原理同样弱于 *AC*，在集合论其余公理的语境中，没有 *AC* 便无法证明这一原理。
+- 每个无限基数都等于其平方。这一点在 Tarski 1924 中被证明等价于 *AC*。
+- 每个向量空间都有基（由 Hamel 1905 首倡）[^hamel-1905]。这一点在 Blass 1984 中被证明等价于 *AC*。
+- 每个域都有代数闭包（Steinitz 1910）[^steinitz-1910]。这一断言弱于 *AC*，实际上是（更弱的）一阶逻辑紧致性定理的推论（见下文）。
+- 存在勒贝格不可测的实数集（Vitali 1905）[^vitali-1905]。很久以后人们才表明，它是 **BPI**（见下文）的推论，因而弱于 *AC*。Solovay（1970）[^solovay-1970] 确立了它相对于集合论其余公理的独立性。
+
+一个重要的“民间”*AC* 等价形式是
+
+**集合论分配律**。对任意的双重索引集族 $\{M_{i,j}: i \in I,j \in J\}$，其中 $J^I$ 是以 $I$ 为定义域、取值于 $J$ 的一切函数所构成的集合：
+
+$$ \bigcap_{i\in I} \bigcup_{j\in J} M_{i,j} = \bigcup_{f\in J^I} \bigcap_{i\in I} M_{i,f(i)} $$
+
+*AC* 的一个被广泛研究的特例是
+
+**依赖性选择原理**（Bernays 1942, Tarski 1948）[^bernays-1942][^tarski-1948]。对集合 $A$ 上任一满足 $\mathrm{range}(R) \subseteq \mathrm{domain}(R)$ 的非空关系 $R$，存在函数 $f: \omega \rightarrow A$，使得对所有的 $n\in \omega, R(f(n),f(n+1))$ 都成立。这一原理尽管（远）弱于 *AC*，在集合论其余公理的语境中，没有 *AC* 便无法证明它。
+
+*AC* 的数学等价形式包括：
+
+- **吉洪诺夫定理**（1930）：紧致拓扑空间的积是紧致的。这一点在 Kelley 1950 中被证明等价于 *AC*。但对紧致豪斯多夫空间，它等价于 **BPI**（见下文），因而弱于 *AC*。
+- **勒文海姆—斯科伦—塔斯基定理**（Löwenheim 1915, Skolem 1920, Tarski and Vaught 1957）[^tarski-1957]：具有无限基数 *κ* 之模型的一阶语句，也具有任一满足 $\mu \le \kappa$ 的无限基数 *μ* 之模型。Tarski 证明了它等价于 *AC*。
+- **克莱因—米尔曼定理**：实赋范线性空间的对偶空间的单位球 $B$ 有一个极点，即一个不是 $B$ 中任何线段内点的点。这一点在 Bell and Fremlin 1972a 中被证明等价于 *AC*。该文表明，给定任一由非空集构成的索引族 $\mathcal{A}$，$\mathcal{A}$ 上的选择函数与由 $\mathcal{A}$ 构造的某个实赋范线性空间之对偶的单位球的极点之间存在自然的双射。
+- 每个分配格都有极大理想。这一点在 Klimovsky 1958 中被证明等价于 *AC*；对由集合构成的格的情形则在 Bell and Fremlin 1972 中得到证明。
+- 每个含单位元的交换环都有极大理想。Hodges 1979 证明了它等价于 *AC*。
+
+*AC* 还有若干已知弱于[^note-14]它的数学推论，特别是：
+
+- **布尔素理想定理**（**BPI**）：每个布尔代数都有极大（或素）理想。Halpern and Levy 1971 表明它弱于 *AC*。
+- **布尔代数的斯通表示定理**（Stone 1936）[^stone-1936]：每个布尔代数都同构于一个集合域。它等价于 **BPI**，因而弱于 *AC*。
+- **一阶逻辑紧致性定理**（Gödel 1930, Malcev 1937 等）：若一阶语句集的每个有限子集都有模型，则该集合有模型。Henkin 1954 表明它等价于 **BPI**，因而弱于 *AC*。
+- **一阶逻辑完全性定理**（Gödel 1930, Henkin 1954）：每个一致的一阶语句集都有模型。Henkin 于 1954 年表明它等价于 **BPI**，因而弱于 *AC*。若以恰当方式指定模型的基数，该断言便等价于 *AC*。
+
+最后还有
+
+- **布尔代数的西科尔斯基扩张定理**（Sikorski 1949）：每个完备布尔代数都是内射的，即对任一布尔代数 $A$ 与任一完备布尔代数 $B$，从 $A$ 的子代数到 $B$ 的任一同态都可扩张到整个 $A$ 上。
+
+这一原理是否等价于 *AC*，是该领域中少数几个尚存的有趣未决问题之一；它显然蕴涵 **BPI**，但 Bell 1983 证明了它独立于 **BPI**。
+
+这些定理中有许多在 Bell and Machover（1977）中得到讨论。
+
+## 5. 选择公理与逻辑
+
+*AC* 与逻辑之间最初的联系，可以通过回到它用关系表述的形式 **AC3** 而显现出来，即：任何二元关系都包含一个具有相同定义域的函数。**AC** 的这一版本可以自然地在一个二阶语言 $L$ 中表达，该语言有个体变元 $x$、$y$、$z$、……以及函数变元 $f$、$g$、$h$、……。在 $L$ 中，二元关系由带有两个自由个体变元 $x$、$y$ 的公式 $\phi(x, y)$ 表示。于是断言 **AC3** 在 $L$ 中的对应物是
+
+> **ACL**：
+> $\forall x \exists y \phi(x, y) \rightarrow \exists f \forall x \phi(x, fx).$
+
+这一语句模式是 *AC* 的标准逻辑形式。
+
+Zermelo 对选择公理的原始表述 **AC1**，可以在 $L$ 的一个适当加强版本中表达为一个语句模式。据此，我们现在假定 $L$ 还包含谓词变元 $X$、$Y$、$Z$、……以及二阶函数变元 $F$、$G$、$H$、……。这里，二阶函数变元 $F$ 可以施用于谓词变元 $X$，从而得到个体项 $FX$。语句模式
+
+> **AC1L**：
+> $\forall X [\Phi(X) \rightarrow \exists x X(x)] \rightarrow \exists F \forall X[\Phi(X) \rightarrow X(FX)]$
+
+它就是 **AC1** 在这一加强的二阶语言中的直接对应物。用文字来说，**AC1L** 断言：若每个具有某种性质 *Φ* 的谓词都有实例，则存在一个定义在谓词上的函数 $F$，使得对任一满足 *Φ* 的谓词 $X$，$FX$ 都是 $X$ 的一个实例。这里谓词扮演着集合的角色。
+
+迄今为止，我们一直默契地假定背景逻辑是通常的经典逻辑。但 **AC** 与逻辑之间联系的真正深度，只有在把 **直觉主义** 或 **构造性** 逻辑引入视野之后才会显现。一个值得注意的事实是：仅假定直觉主义逻辑的框架，再加上某些温和的进一步预设，就可以表明选择公理蕴涵经典逻辑的根本规则——排中律，即对任一命题 $A$ 都有 $A \vee \neg A$ 的断言。确切地说，我们在加强语言 $L$ 中使用直觉主义逻辑的规则，将从 **AC1L** 连同下述附加原理一起，推导出[^note-15]排中律：
+
+**直谓概括**：$\exists X \forall x[X(x) \leftrightarrow \phi(x)]$，其中 *φ* 不含受约束的函数变元或谓词变元。
+
+**函数的外延性**：$\forall X \forall Y \forall F[X \approx Y \rightarrow FX = FY]$，其中 $X \approx Y$ 是 $\forall x[X(x) \leftrightarrow Y(x)]$ 的缩写，也就是说，$X$ 与 $Y$ 是 **外延等价** 的。
+
+**两个不同的个体**：$\underline{0} \ne \underline{1}$，其中 $\underline{0}$ 与 $\underline{1}$ 是个体常项。
+
+现在设 $A$ 为给定命题。根据直谓概括，我们可以引入谓词常项 $U$、$V$，连同以下断言：
+
+$$\begin{align} \tag{1} &\forall x[U(x) \leftrightarrow (A \vee x = 0)] \\ \notag &\forall x[V(x) \leftrightarrow (A \vee x = 1)] \end{align}$$
+
+令 $\Phi(X)$ 为公式 $X \approx U \vee X \approx V$。于是显然可以断言 $\forall X[\Phi(X) \rightarrow \exists xX(x)]$，因此可以援引 **AC1L** 来断言 $\exists F \forall X[\Phi(X) \rightarrow X(FX)]$。现在我们可以引入函数常项 $K$，连同断言
+
+$$ \tag{2} \forall X[\Phi(X) \rightarrow X(KX)]. $$
+
+既然显然可以断言 $\Phi(U)$ 与 $\Phi(V)$，由 (2) 即知可以断言 $U(KU)$ 与 $V(KV)$，于是再利用 (1)，
+
+$$ [A \vee KU = 0] \wedge [A \vee KV = 1]. $$
+
+利用分配律（它在直觉主义逻辑中成立），即知可以断言
+
+$$ A \vee [KU = 0 \wedge KV = 1]. $$
+
+由 $0 \ne 1$ 这一预设即知
+
+$$ \tag{3} A \vee KU \ne KV $$
+
+是可断言的。但由 (1) 可知可以断言 $A \rightarrow U ≈ V$，因而利用函数的外延性，也可以断言 $A \rightarrow KU = KV$。这就给出 $KU \ne KV \rightarrow \neg A$ 的可断言性，而它连同 (3) 又给出
+
+$$ A \vee \neg A $$
+
+即排中律。
+
+选择公理蕴涵排中律这一事实，初看似乎与下述事实相左：在受直觉主义逻辑支配的构造性数学系统——例如比肖普的《构造性分析》[^note-16] 与马丁-洛夫的构造性类型论[^note-17]——中，前者常被视为一条 **有效** 原理，而这些系统并不肯定排中律。用比肖普的话说：“在构造性数学中，选择函数存在，因为选择 **正是由存在的意义本身所蕴涵的**。”因此，举例来说，**ACL** 的前件 $\forall x \exists y \phi(x,y)$，在作构造性解读时，恰恰 **意味着** 我们有一个程序，把它施用于每个 $x$，就产生一个使 $\phi(x, y)$ 成立的 $y$。而这正是 **ACL** 的后件 $\exists f \forall x \phi(x,fx)$ 所表达的东西。
+
+为化解这一困难，我们注意到，从 **AC1L** 推导排中律时，本质地使用了直谓概括原理与函数的外延性原理[^note-18]。由此可知，在肯定 **AC**（但不肯定排中律）的构造性数学系统中，**要么直谓概括原理失效，要么函数的外延性原理失效**。直谓概括原理尚可给出构造性的证成，而函数的外延性原理却无法得到这样的证成。谓词上的函数是内涵地给出的，只满足相应的内涵性原理 $\forall X \forall Y \forall F[X = Y \rightarrow FX = FY]$。外延性原理很容易被弄成失效：例如考虑谓词 $P$：**有理性、无羽的两足动物** 与 $Q$：**人**，以及定义在谓词上的函数 $K$，它给每个谓词指派其描述中的词数。于是我们可以同意 $P \approx Q$，但 $KP = 3$ 而 $KQ = 2$。
+
+在直觉主义集合论（即以直觉主义逻辑而非经典逻辑为基础的集合论——我们将其缩写为 **IST**）与拓扑斯理论中，直谓概括原理与函数的外延性原理（两者都作适当解读）成立，因此在其中 **AC** 蕴涵排中律。[^note-19][^note-20]
+
+Diaconescu（1975）[^diaconescu-1975] 最早在范畴论框架中给出了从 *AC* 推导排中律的论证。他的证明所使用的基本想法与上文给出的证明不同；特别是，它不使用外延性原理，而是采用以等价关系对对象（或集合）作商的想法。在 **IST** 中表述 Diaconescu 的论证是有教益的。为此，我们称集合 $A$ 的子集 $U$ 是 **可分离的**，如果存在 $A$ 的子集 $V$，使得 $U \cap V = \varnothing$ 且 $U \cup V = A$。Diaconescu 的论证相当于从 **AC4**（见上文）推出如下断言：集合的每个子集都是可分离的；由此即可容易地得出排中律。论证如下。
+
+首先，给定 $U \subseteq A$，$U$（在 $A$ 中）的一个 **指示映射** 是一个满足下式的映射 $g: A \times 2 \rightarrow 2$：
+
+$$ U = \{ x \in A: g(x,0) = g(x,1) \} $$
+
+于是不难证明：一个子集可分离，当且仅当它有指示映射。
+
+现在我们来证明：若 **AC4** 成立，则集合的任何子集都有指示映射，因而都是可分离的。
+
+对 $U \subseteq A$，令 $R$ 为 $A + A = A \times \{0\} \cup A \times \{1\}$ 上的二元关系，由下式给出：
+
+$$ R = \{ ((x,0),(x,0)) : x \in A \} \cup \{ ((x,1),(x,1)) : x \in A \} \cup \{ ((x,0),(x,1) : x \in A \} \cup \{ ((x,1),(x,0) \} : x \in A $$
+
+可以验证 $R$ 是一个等价关系。用 $r$ 表示从 $A + A$ 到 $(A + A)$ 关于 $R$ 的商[^note-21] $Q$ 的自然映射，它把 $A + A$ 的每个成员送到其 $R-$等价类。
+
+现在施用 **AC4**，得到映射 $f: Q \rightarrow A + A$，使得对所有 $X \in Q$ 都有 $f(X) \in X$。于是不难证明：若用 $\pi_{1}$ 表示向第一坐标的投影，则
+
+$$ \tag{*} \mbox{对 } n=0,1 \mbox{ 且 } x \in A, \pi_1(f(r(x,n))) = x; $$
+
+并且
+
+$$ \tag{**} x \in U \leftrightarrow f(r(x,0)) = f(r(x,1)). $$
+
+现在由 $g = \pi_{2} \circ f \circ r$ 定义 $g: A \times 2 \rightarrow 2$，其中 $\pi_2$ 是向第二坐标的投影。于是 $g$ 是 $U$ 的一个指示映射，正如以下等价关系所示：
+
+$$\begin{align} x \in U &\leftrightarrow f(r(x,0))=f(r(x,1)) \ldots \mbox{由 (**)} \\ &\leftrightarrow \pi_{1}(f(r(x,0))) = \pi_{1}(f(r(x,1))) \wedge \pi_{2}(f(r(x,0))) = \pi_{2}(f(r(x,1))) \\ &\leftrightarrow \pi_{2}(f(r(x,0))) = \pi_{2}(f(r(x,1))) \ldots \mbox{利用 (*)} \\ &\leftrightarrow g(x,0) = g(x,1). \end{align}$$
+
+证毕。
+
+可以证明（Bell 2006）[^bell-2006]：若干在直觉主义下无效的逻辑原理——包括排中律在内——各自都（在直觉主义集合论中）**等价** 于选择公理的某个适当弱化版本。据此，这些逻辑原理可以被视为选择原理。
+
+以下是所涉及的逻辑原理：
+
+| **SLEM** | $\alpha \vee \neg \alpha$（*α* 为任意语句） |
+| --- | --- |
+| **Lin** | $(\alpha \rightarrow \beta) \vee (\beta \rightarrow \alpha)$（*α*、*β* 为任意语句） |
+| **Stone** | $\neg \alpha \vee \neg\neg \alpha$（*α* 为任意语句） |
+| **Ex** | $\exists x[ \exists x \alpha(x) \rightarrow \alpha(x)]$（$\alpha(x)$ 为至多以 $x$ 为自由变元的任意公式） |
+| **Un** | $\exists x[\alpha(x) \rightarrow \forall x\alpha(x)]$（$\alpha(x)$ 为至多以 $x$ 为自由变元的任意公式） |
+| **Dis** | $\forall x[\alpha \vee \beta(x)] \rightarrow \alpha\vee\forall x\beta(x)$（*α* 为任意语句，$\beta(x)$ 为至多以 $x$ 为自由变元的任意公式） |
+
+在直觉主义逻辑之上，**Lin**、**Stone** 与 **Ex** 都是 **SLEM** 的推论；而 **Un** 蕴涵 **Dis**。当然，所有这些模式都可由完整的排中律——即对任意公式的 **SLEM**——推出。
+
+下文用 0 表示空集，用 1 表示 $\{0\}$，用 2 表示 $\{0, 1\}$。
+
+我们表述以下选择原理——这里 $X$ 是任意集合，$\mathrm{Fun}(X)$ 是以 $X$ 为定义域的函数所构成的类，$\phi(x,y)$ 是集合论语言中至多以 $x$、$y$ 为自由变元的任意公式：
+
+| **AC** $_X$ | $\forall x\in X\ \exists y \phi(x,y) \rightarrow \exists f \in \mathrm{Fun}(X)\ \forall x \in X\ \phi(x,fx)$ |
+| --- | --- |
+| **AC** $^*_X$ | ${\exists f \in \mathrm{Fun}(X)} [{\forall x\in X}\ \exists y \phi(x,y) \rightarrow {\forall x \in X}\ \phi(x,fx)]$ |
+| **DAC** $_X$ | $\forall f \in Fun(X)\ {\exists x \in X}\ \phi(x,fx) \rightarrow {\exists x \in X}\ \forall y \phi(x,y)$ |
+| **DAC** $^*_X$ | ${\exists f \in \mathrm{Fun}(X)}\ [{\exists x\in X}\ \phi(x,fx) \rightarrow {\exists x\in X}\ \forall y \phi(x,y)]$ |
+
+其中前两个是 *AC* 对 $X$ 的形式；它们在经典逻辑下等价，但在 **IST** 中 **AC** $^*_X$ 蕴涵 **AC** $_X$，反之则不然。原理 **DAC** $_X$ 与 **DAC** $^*_X$ 是选择公理对 $X$ 的 **对偶** 形式：在经典逻辑下它们都等价于 **AC** $_X$ 与 **AC** $^*_X$，但在直觉主义下 **DAC** $^*_X$ 蕴涵 **DAC** $_X$，反之则不然。
+
+我们还表述 **弱外延选择原理**，其中 $\alpha(x)$ 与 $\beta(x)$ 是至多以变元 $x$ 为自由变元的任意公式：
+
+**WESP**：${\exists x\in 2}\ \alpha(x) \wedge {\exists x \in 2}\ \beta(x) \rightarrow {\exists x \in 2}\ {\exists y \in 2}\ [\alpha(x) \wedge \beta(y) \wedge [{\forall x \in 2}\ [\alpha(x) \leftrightarrow \beta(x)] \rightarrow x = y]].$
+
+这一原理是选择公理的直接推论，它断言：对 2 的成员之任意一对有实例的性质，都可以按照仅取决于其外延的方式为这些性质指派实例。
+
+上表所列的每个逻辑原理都（在 **IST** 中）等价于某个选择原理。事实上：
+
+- **WESP** 与 **SLEM** 在 **IST** 上等价。
+- **AC** $^*_1$ 与 **Ex** 在 **IST** 上等价。
+
+此外，虽然容易看出 **DAC** $_1$ 在 **IST** 中可证，我们却有
+
+- **DAC** $^*_1$ 与 **Un** 在 **IST** 上等价。
+
+其次，虽然 **AC** $_2$ 在 **IST** 中容易证明，与之相对，我们却有
+
+- **DAC** $_2$ 与 **Dis** 在 **IST** 上等价。
+- 在 **IST** 上，**DAC** $^*_2$ 等价于 **Un**，因而也等价于 **DAC** $^*_1$。
+
+为了给出与 **Lin** 和 **Stone** 等价的选择模式，我们引入
+
+**ac** $^*_X$：${\exists f \in 2^X} [{\forall x\in X}\ {\exists y \in 2}\ \phi(x,y) \rightarrow {\exists x \in X}\ \phi(x,fx)]$
+
+**wac** $^*_X$：${\exists f \in 2^X} [{\forall x \in X}\ {\exists y \in 2}\ \phi(x,y) \rightarrow {\forall x \in X}\ \phi(x,fx)]$，前提是 **IST** 中可证 $\forall x[\phi(x,0) \rightarrow \neg\phi(x,1)]$
+
+显然 **ac** $^*_X$ 等价于
+
+${\exists f \in 2^X}[{\forall x \in X}[\phi(x,0) \vee \phi(x,1)] \rightarrow {\forall x \in X}\ \phi(x,fx)]$
+
+**dac** $^*_X$ 类似。
+
+于是，在 **IST** 上，**ac** $^*_1$ 与 **dac** $^*_1$ 分别等价于 **Lin** 与 **Stone**。
+
+这些结果恰好表明，当背景逻辑被假定为直觉主义逻辑时，选择原理与逻辑的相互作用有多么深刻。而在假定排中律的经典框架中，这些联系则荡然无存。
+
+对选择公理与类型论这一主题感兴趣的读者，可参阅以下补充文档：
+
+> [选择公理与类型论](axiom-choice.choice-and-type-theory.md)
+
 ## 脚注
 
 [^zermelo-1904]: Zermelo, E., 1904. “Neuer Beweis, dass jede Menge Wohlordnung werden kann (Aus einem an Herrn Hilbert gerichteten Briefe)”, *Mathematische Annalen*, 59: 514–16. Translated in J. van Heijenoort (ed.), *From Frege to Gödel: A Source Book in Mathematical Logic, 1879–1931*, Cambridge, MA: Harvard University Press, 1967, pp. 139–141.
@@ -207,3 +412,49 @@ Gödel（1964）[^gödel-1964] 也注意到（Myhill 与 Scott 1971、Takeuti 19
 [^bourbaki-1939]: Bourbaki, N., 1939. *Elements de Mathematique, Livre I: Theorie des Ensembles*, Paris: Hermann.
 
 [^teichmuller-1939]: Teichmuller, O., 1939. “Brauch der Algebraiker das Auswahlaxiom?” *Deutsches Mathematik*, 4: 567–577.
+
+[^note-13]: For equivalents of the Axiom of Choice, see Rubin and Rubin 1985; for consequences, see Howard and Rubin 1998.
+
+[^zermelo-1908]: –––, 1908. Neuer Beweis für die Möglichkeit einer Wohlordnung, *Mathematische Annalen*, 65: 107–128. Translated in J. van Heijenoort (ed.), *From Frege to Gödel: A Source Book in Mathematical Logic, 1879–1931*, Cambridge, MA: Harvard University Press, 1967, pp. 183–198.
+
+[^russell-1906]: Russell, B., 1906. “On some difficulties in the theory of transfinite numbers and order types,” *Proceedings of the London Mathematical Society*, 4(2): 29–53.
+
+[^hamel-1905]: Hamel, G., 1905. “Eine Basis aller Zahlen und die unstetigen Lösungen der Funktionalgleichung: *f(x* + *y*) = *f(x*) + *f(y*),” *Mathematische Annalen*, 60: 459–62.
+
+[^steinitz-1910]: Steinitz, E., 1910. “Algebraische Theorie der Körper,” *Journal für die Reine und angewandte Mathematik (Crelle)*, 137: 167–309.
+
+[^vitali-1905]: Vitali, G., 1905. *Sul problema della misura dei gruppi di punti di una retta*, Bologna: Tip. Gamberini e Parmeggiani.
+
+[^solovay-1970]: Solovay, R., 1970. “A model of set theory in which every set of reals is Lebesgue measurable,” *Annals of Mathematics*, 92: 1–56.
+
+[^bernays-1942]: Bernays, P., 1942. “A system of axiomatic set theory, Part III,” *Journal of Symbolic Logic*, 7: 65–89.
+
+[^tarski-1948]: Tarski, A., 1948. “Axiomatic and algebraic aspects of two theorems on sums of cardinals,” *Fundamenta Mathematicae*, 35: 79–104.
+
+[^tarski-1957]: Tarski, A., and Robert L. Vaught, 1957. “Arithmetical extensions of relational systems,” *Compositio Mathematica*, 13: 81–102. [[Tarski & Vaught 1957 available online](http://www.numdam.org/article/CM_1956-1958__13__81_0.pdf)]
+
+[^note-14]: “Weaker” here means that, within the context of the axioms of set theory (minus, of course, *AC*), the proposition in question is entailed by *AC*, but not vice-versa.
+
+[^stone-1936]: Stone, M.H., 1936. “The theory of representations for Boolean algebras,” *Transactions of the American Mathematical Society*, 40: 37–111.
+
+[^note-15]: The idea of the proof goes back to Goodman and Myhill 1978, which was itself built on a result of Diaconescu 1975. See below.
+
+[^note-16]: See Bishop and Bridges 1985.
+
+[^note-17]: See Supplementary Document. For an analysis of various versions of *AC* within constructive type theory, see Martin-Löf 2006.
+
+[^note-18]: Also, of course, use was made of $0 \ne 1$, but this assumption is so weak that it may be consistently added to virtually any axiomatic system.
+
+[^note-19]: But in weak set theories lacking the axiom of extensionality the derivation of Excluded Middle from *AC* does not go through: some form of extensionality, or the existence of quotient sets for equivalence relations, needs to be assumed. See Bell 2008.
+
+[^note-20]: With Zorn’s Lemma the situation is otherwise. For despite its equivalence to *AC* in classical set theory, in intuitionistic set theory Zorn’s Lemma *does not imply* **LEM:** in fact, it has no “non-constructive” logical consequences whatsoever (Grayson 1975, Bell 1997)[^bell-1997][^grayson-1975]. Thus Zorn’s Lemma is considerably weaker than *AC* in intuitionistic set theory. Intuitionistic equivalents of Zorn’s Lemma are scarce; a few have been formulated in Bell 2003.
+
+[^bell-1997]: –––, 1997. “Zorn’s lemma and complete Boolean algebras in intuitionistic type theories,” *Journal of Symbolic Logic*, 62: 1265–1279.
+
+[^grayson-1975]: Grayson, R.J., 1975. “A sheaf approach to models of set theory,” M.Sc. Thesis, Mathematics Department, Oxford University.
+
+[^diaconescu-1975]: Diaconescu, R., 1975. “Axiom of choice and complementation,” *Proceedings of the American Mathematical Society*, 51: 176–8.
+
+[^note-21]: That is, the set of all $R$-equivalence classes of members of $A$.  ### Notes to Supplementary Document: The Axiom of Choice and Type Theory  1. Dependent types were actually first studied in the late 1960s by de Bruijn and his colleagues at the University of Eindhoven in connection with the AUTOMATH project. CDTT has been employed as a basis for various computational devices employed for the verification of mathematical theories and of software and hardware systems in computer science.  2. Analogous constructive versions of set theory, incorporating choice principles, have been developed by Peter Aczel. See Aczel 1978, 1982, 2005 and Aczel & Rathjen 2001.  3. This idea was advanced by Curry and Feys 1958 and later by Howard 1980. As the *Curry-Howard correspondence* it has come to play an important role in theoretical computer science.  4. For a complete specification of the operations and rules of DCTT, see Chapter 10 of Jacobs 1999 or Gambino & Aczel 2005.  5. See §4.  6. It is interesting to note that Ramsey 1926 also asserted the tautological character of *AC* but for quite different reasons. Like Zermelo, Ramsey construed—and accepted the truth of—*AC* as asserting the objective existence of choice functions, given extensionally and so independently of the manner in which they might be described. But the intensional nature of constructive mathematics, and, in particular, of **CDTT**, decrees that nothing is given completely independently of its description. This leads to a strong construal of the quantifiers which, as we have observed, essentially trivializes *AC* by rendering the antecedent of the implication constituting it essentially equivalent to the consequent. It is remarkable that *AC* can be considered tautological both from an extensional and from an intensional point of view.  7. While in classical set theory each singleton in this sense is either empty or a one-element set, in intuitionistic set theory there are many additional “intermediate” sets qualifying as singletons.
+
+[^bell-2006]: –––, 2006. “Choice principles in intuitionistic set theory,” in *A Logical Approach to Philosophy*, Devidi, D. and Kenyon, T.(eds.), Berlin: Springer, 36–44.

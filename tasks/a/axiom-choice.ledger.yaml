@@ -1,7 +1,7 @@
 version: 1
 slug: axiom-choice
 params:
-  model: "DeepSeek-V4.1-Flash（Trae 主会话直译＋子代理复核；T222–T223）"
+  model: "DeepSeek-V4.1-Flash（Trae 主会话直译＋子代理复核；T222–T224）"
   temperature: 0.2
   batch_segments: all
   rate_limit_s: 0
@@ -84,9 +84,9 @@ segments:
     source: |-
       **AC1** can be reformulated in terms of *indexed* or *variable sets*. An indexed collection of sets $\sA = \{A_{i}: i \in I\}$ may be conceived as a *variable set*, to wit, as a set *varying* over the index set $I$. Each $A_{i}$ is then the “value” of the variable set $\sA$ at *stage* $i$. A *choice function* on $\sA$ is a map $f: I \rightarrow \bigcup_{i\in I} A_{i}$ such that $f(i) \in A_{i}$ for all $i\in I$. A choice function on $\sA$ is thus a “choice” of an element of the variable set $\sA$ at each stage; in other words, a choice function on $\sA$ is a *variable element* of $\sA$. **AC1** is then equivalent to the assertion
     step1: |-
-      **AC1** 也可以用 **索引集族** 或 **变元集** 来重新表述。集合的索引集族 $\mathcal{A} = \{A_{i}: i \in I\}$ 可以设想为一个 **变元集**，即一个在索引集 $I$ 上 **变动** 的集合。此时每个 $A_{i}$ 都是变元集 $\mathcal{A}$ 在 **阶段** $i$ 的“值”。$\mathcal{A}$ 上的 **选择函数** 是一个映射 $f: I \rightarrow \bigcup_{i\in I} A_{i}$，使得对所有 $i\in I$ 都有 $f(i) \in A_{i}$。于是 $\mathcal{A}$ 上的选择函数就是在每一阶段对变元集 $\mathcal{A}$ 的某个元素作出的“选择”；换言之，$\mathcal{A}$ 上的选择函数是 $\mathcal{A}$ 的一个 **可变元素**。**AC1** 于是等价于下述断言：
+      **AC1** 也可以用 **索引集族** 或 **变元集** 来重新表述。集合的索引集族 $\mathcal{A} = \{A_{i}: i \in I\}$ 可以设想为一个 **变元集**，即一个在索引集 $I$ 上 **变动** 的集合。此时每个 $A_{i}$ 都是变元集 $\mathcal{A}$ 在 **阶段** $i$ 的“值”。$\mathcal{A}$ 上的 **选择函数** 是一个映射 $f: I \rightarrow \bigcup_{i\in I} A_{i}$，使得对所有 $i\in I$ 都有 $f(i) \in A_{i}$。于是 $\mathcal{A}$ 上的选择函数就是在每一阶段对变元集 $\mathcal{A}$ 的某个元素作出的“选择”；换言之，$\mathcal{A}$ 上的选择函数是 $\mathcal{A}$ 的一个 **变元元素**。**AC1** 于是等价于下述断言：
     step2: |-
-      **AC1** 也可以用 **索引集族** 或 **变元集** 来重新表述。集合的索引集族 $\mathcal{A} = \{A_{i}: i \in I\}$ 可以设想为一个 **变元集**，即一个在索引集 $I$ 上 **变动** 的集合。此时每个 $A_{i}$ 都是变元集 $\mathcal{A}$ 在 **阶段** $i$ 的“值”。$\mathcal{A}$ 上的 **选择函数** 是一个映射 $f: I \rightarrow \bigcup_{i\in I} A_{i}$，使得对所有 $i\in I$ 都有 $f(i) \in A_{i}$。于是 $\mathcal{A}$ 上的选择函数就是在每一阶段对变元集 $\mathcal{A}$ 的某个元素作出的“选择”；换言之，$\mathcal{A}$ 上的选择函数是 $\mathcal{A}$ 的一个 **可变元素**。**AC1** 于是等价于下述断言：
+      **AC1** 也可以用 **索引集族** 或 **变元集** 来重新表述。集合的索引集族 $\mathcal{A} = \{A_{i}: i \in I\}$ 可以设想为一个 **变元集**，即一个在索引集 $I$ 上 **变动** 的集合。此时每个 $A_{i}$ 都是变元集 $\mathcal{A}$ 在 **阶段** $i$ 的“值”。$\mathcal{A}$ 上的 **选择函数** 是一个映射 $f: I \rightarrow \bigcup_{i\in I} A_{i}$，使得对所有 $i\in I$ 都有 $f(i) \in A_{i}$。于是 $\mathcal{A}$ 上的选择函数就是在每一阶段对变元集 $\mathcal{A}$ 的某个元素作出的“选择”；换言之，$\mathcal{A}$ 上的选择函数是 $\mathcal{A}$ 的一个 **变元元素**。**AC1** 于是等价于下述断言：
   - id: 11
     kind: body
     source: |-
@@ -100,9 +100,9 @@ segments:
     source: |-
       Informally speaking, **AC2** amounts to the assertion that a variable set with an element at each stage has a variable element.
     step1: |-
-      非正式地说，**AC2** 相当于断言：一个在每一阶段都有元素的变元集有一个可变元素。
+      非正式地说，**AC2** 相当于断言：一个在每一阶段都有元素的变元集有一个变元元素。
     step2: |-
-      非正式地说，**AC2** 相当于断言：一个在每一阶段都有元素的变元集有一个可变元素。
+      非正式地说，**AC2** 相当于断言：一个在每一阶段都有元素的变元集有一个变元元素。
   - id: 13
     kind: body
     source: |-
@@ -503,3 +503,798 @@ segments:
       | 1926–28 | Bochner 等人各自独立地引入极大原理（Bochner 1928, Moore 1932）[^bochner-1928][^moore-1932]。 |
       | 1935 | Max Zorn 显然并不熟悉此前关于极大原理的各种表述，他发表了（Zorn 1935）[^zorn-1935] 自己关于该原理的定稿版本，此版本后来以他的引理（**ZL**）之名广为人知。**ZL** 最早于 1933 年在汉堡被表述出来，Chevalley 与 Artin 很快“采纳”了它。似乎正是 Artin 最先认识到 **ZL** 能够推出 *AC*，从而在集合论其余公理之上两者等价。Zorn 本人更多地把他的原理视为一条 **公理** 而非一条定理——他希望它能取代代数中超限归纳与良序的那些笨重应用，而 Noether 学派的代数学家当时已开始把这些应用视为“超越性的”手段。 |
       | 1939–40 | Teichmüller、Bourbaki 与 Tukey 各自独立地用“有限特征的性质”重新表述了 **ZL**（Bourbaki 1939, Teichmuller 1939, Tukey 1940）[^bourbaki-1939][^teichmuller-1939]。 |
+  - id: 57
+    kind: body
+    source: |-
+      ## 4. Mathematical Applications of the Axiom of Choice
+    step1: |-
+      ## 4. 选择公理的数学应用
+    step2: |-
+      ## 4. 选择公理的数学应用
+  - id: 58
+    kind: body
+    source: |-
+      The Axiom of Choice has numerous applications in mathematics, a number of which have proved to be formally equivalent to it[^note-13]. Historically the most important application was the first, namely:
+    step1: |-
+      选择公理在数学中有众多应用，其中若干已被证明在形式上与它等价[^note-13]。历史上最重要的应用是第一个，即：
+    step2: |-
+      选择公理在数学中有众多应用，其中若干已被证明在形式上与它等价[^note-13]。历史上最重要的应用是第一个，即：
+  - id: 59
+    kind: body
+    source: |-
+      **The Well-Ordering Theorem** (Zermelo 1904, 1908)[^zermelo-1904][^zermelo-1908]. Every set can be well-ordered.
+    step1: |-
+      **良序定理**（Zermelo 1904, 1908）[^zermelo-1904][^zermelo-1908]。每个集合都能被良序化。
+    step2: |-
+      **良序定理**（Zermelo 1904, 1908）[^zermelo-1904][^zermelo-1908]。每个集合都能被良序化。
+  - id: 60
+    kind: body
+    source: |-
+      After Zermelo published his 1904 proof of the well-ordering theorem from *AC*, it was quickly seen that the two are equivalent.
+    step1: |-
+      Zermelo 发表 1904 年从 *AC* 出发对良序定理的证明之后，人们很快便看出两者等价。
+    step2: |-
+      Zermelo 发表 1904 年从 *AC* 出发对良序定理的证明之后，人们很快便看出两者等价。
+  - id: 61
+    kind: body
+    source: |-
+      Another early equivalent of *AC* is
+    step1: |-
+      另一个早期的 *AC* 等价形式是
+    step2: |-
+      另一个早期的 *AC* 等价形式是
+  - id: 62
+    kind: body
+    source: |-
+      **The Multiplicative Axiom** (Russell 1906)[^russell-1906]. The product of any set of non-zero cardinal numbers is non-zero.
+    step1: |-
+      **乘法公理**（Russell 1906）[^russell-1906]。任何由非零基数构成的集合之积非零。
+    step2: |-
+      **乘法公理**（Russell 1906）[^russell-1906]。任何由非零基数构成的集合之积非零。
+  - id: 63
+    kind: body
+    source: |-
+      Early applications of *AC* include:
+    step1: |-
+      *AC* 的早期应用包括：
+    step2: |-
+      *AC* 的早期应用包括：
+  - id: 64
+    kind: body
+    source: |-
+      - Every infinite set has a denumerable subset. This principle, again weaker than *AC*, cannot be proved without it in the context of the remaining axioms of set theory.
+      - Every infinite cardinal number is equal to its square. This was proved equivalent to *AC* in Tarski 1924.
+      - Every vector space has a basis (initiated by Hamel 1905)[^hamel-1905]. This was proved equivalent to *AC* in Blass 1984.
+      - Every field has an algebraic closure (Steinitz 1910)[^steinitz-1910]. This assertion is weaker than *AC*, indeed is a consequence of the (weaker) compactness theorem for first-order logic (see below).
+      - There is a Lebesgue nonmeasurable set of real numbers (Vitali 1905)[^vitali-1905]. This was shown much later to be a consequence of **BPI** (see below) and hence weaker than *AC*. Solovay (1970)[^solovay-1970] established its independence of the remaining axioms of set theory.
+    step1: |-
+      - 每个无限集都有一个可数子集。这一原理同样弱于 *AC*，在集合论其余公理的语境中，没有 *AC* 便无法证明这一原理。
+      - 每个无限基数都等于其平方。这一点在 Tarski 1924 中被证明等价于 *AC*。
+      - 每个向量空间都有基（由 Hamel 1905 首倡）[^hamel-1905]。这一点在 Blass 1984 中被证明等价于 *AC*。
+      - 每个域都有代数闭包（Steinitz 1910）[^steinitz-1910]。这一断言弱于 *AC*，实际上是（更弱的）一阶逻辑紧致性定理的推论（见下文）。
+      - 存在勒贝格不可测的实数集（Vitali 1905）[^vitali-1905]。很久以后人们才表明，它是 **BPI**（见下文）的推论，因而弱于 *AC*。Solovay（1970）[^solovay-1970] 确立了它相对于集合论其余公理的独立性。
+    step2: |-
+      - 每个无限集都有一个可数子集。这一原理同样弱于 *AC*，在集合论其余公理的语境中，没有 *AC* 便无法证明这一原理。
+      - 每个无限基数都等于其平方。这一点在 Tarski 1924 中被证明等价于 *AC*。
+      - 每个向量空间都有基（由 Hamel 1905 首倡）[^hamel-1905]。这一点在 Blass 1984 中被证明等价于 *AC*。
+      - 每个域都有代数闭包（Steinitz 1910）[^steinitz-1910]。这一断言弱于 *AC*，实际上是（更弱的）一阶逻辑紧致性定理的推论（见下文）。
+      - 存在勒贝格不可测的实数集（Vitali 1905）[^vitali-1905]。很久以后人们才表明，它是 **BPI**（见下文）的推论，因而弱于 *AC*。Solovay（1970）[^solovay-1970] 确立了它相对于集合论其余公理的独立性。
+  - id: 65
+    kind: body
+    source: |-
+      A significant “folklore” equivalent of *AC* is
+    step1: |-
+      一个重要的“民间”*AC* 等价形式是
+    step2: |-
+      一个重要的“民间”*AC* 等价形式是
+  - id: 66
+    kind: body
+    source: |-
+      **The Set-Theoretic Distributive Law**. For an arbitrary doubly-indexed family of sets $\{M_{i,j}: i \in I,j \in J\}$, and where $J^I$ is the set of all functions with domain $I$ and which take values in $J$:
+    step1: |-
+      **集合论分配律**。对任意的双重索引集族 $\{M_{i,j}: i \in I,j \in J\}$，其中 $J^I$ 是以 $I$ 为定义域、取值于 $J$ 的一切函数所构成的集合：
+    step2: |-
+      **集合论分配律**。对任意的双重索引集族 $\{M_{i,j}: i \in I,j \in J\}$，其中 $J^I$ 是以 $I$ 为定义域、取值于 $J$ 的一切函数所构成的集合：
+  - id: 67
+    kind: body
+    source: |-
+      $$ \bigcap_{i\in I} \bigcup_{j\in J} M_{i,j} = \bigcup_{f\in J^I} \bigcap_{i\in I} M_{i,f(i)} $$
+    step1: |-
+      $$ \bigcap_{i\in I} \bigcup_{j\in J} M_{i,j} = \bigcup_{f\in J^I} \bigcap_{i\in I} M_{i,f(i)} $$
+    step2: |-
+      $$ \bigcap_{i\in I} \bigcup_{j\in J} M_{i,j} = \bigcup_{f\in J^I} \bigcap_{i\in I} M_{i,f(i)} $$
+  - id: 68
+    kind: body
+    source: |-
+      A much-studied special case of *AC* is the
+    step1: |-
+      *AC* 的一个被广泛研究的特例是
+    step2: |-
+      *AC* 的一个被广泛研究的特例是
+  - id: 69
+    kind: body
+    source: |-
+      **Principle of Dependent Choices** (Bernays 1942, Tarski 1948)[^bernays-1942][^tarski-1948]. For any nonempty relation $R$ on a set $A$ for which $\range(R) \subseteq \domain(R)$, there is a function $f: \omega \rightarrow A$ such that, for all $n\in \omega, R(f(n),f(n+1))$. This principle, although (much) weaker than *AC*, cannot be proved without it in the context of the remaining axioms of set theory.
+    step1: |-
+      **依赖性选择原理**（Bernays 1942, Tarski 1948）[^bernays-1942][^tarski-1948]。对集合 $A$ 上任一满足 $\mathrm{range}(R) \subseteq \mathrm{domain}(R)$ 的非空关系 $R$，存在函数 $f: \omega \rightarrow A$，使得对所有的 $n\in \omega, R(f(n),f(n+1))$ 都成立。这一原理尽管（远）弱于 *AC*，在集合论其余公理的语境中，没有 *AC* 便无法证明它。
+    step2: |-
+      **依赖性选择原理**（Bernays 1942, Tarski 1948）[^bernays-1942][^tarski-1948]。对集合 $A$ 上任一满足 $\mathrm{range}(R) \subseteq \mathrm{domain}(R)$ 的非空关系 $R$，存在函数 $f: \omega \rightarrow A$，使得对所有的 $n\in \omega, R(f(n),f(n+1))$ 都成立。这一原理尽管（远）弱于 *AC*，在集合论其余公理的语境中，没有 *AC* 便无法证明它。
+  - id: 70
+    kind: body
+    source: |-
+      Mathematical equivalents of *AC* include:
+    step1: |-
+      *AC* 的数学等价形式包括：
+    step2: |-
+      *AC* 的数学等价形式包括：
+  - id: 71
+    kind: body
+    source: |-
+      - **Tychonov’s Theorem** (1930): the product of compact topological spaces is compact. This was proved equivalent to *AC* in Kelley 1950. But for compact Hausdorff spaces it is equivalent to **BPI** (see below) and hence weaker than *AC*
+      - **Löwenheim-Skolem-Tarski Theorem** (Löwenheim 1915, Skolem 1920, Tarski and Vaught 1957)[^tarski-1957]: a first-order sentence having a model of infinite cardinality *κ* also has a model of any infinite cardinality $\mu$ such that $\mu \le \kappa$. This was proved equivalent to *AC* by Tarski.
+      - **Krein-Milman Theorem**: the unit ball $B$ of the dual of a real normed linear space has an extreme point, that is, one which is not an interior point of any line segment in $B$. This was proved equivalent to *AC* in Bell and Fremlin 1972a. There it is shown that, given any indexed family $\sA$ of nonempty sets, there is a natural bijection between choice functions on $\sA$ and the extreme points of the unit ball of the dual of a certain real normed linear space constructed from $\sA$.
+      - Every distributive lattice has a maximal ideal. This was proved equivalent to *AC* in Klimovsky 1958, and for lattices of sets in Bell and Fremlin 1972.
+      - Every commutative ring with identity has a maximal ideal. This was proved equivalent to *AC* by Hodges 1979.
+    step1: |-
+      - **吉洪诺夫定理**（1930）：紧致拓扑空间的积是紧致的。这一点在 Kelley 1950 中被证明等价于 *AC*。但对紧致豪斯多夫空间，它等价于 **BPI**（见下文），因而弱于 *AC*。
+      - **勒文海姆—斯科伦—塔斯基定理**（Löwenheim 1915, Skolem 1920, Tarski and Vaught 1957）[^tarski-1957]：具有无限基数 *κ* 之模型的一阶语句，也具有任一满足 $\mu \le \kappa$ 的无限基数 *μ* 之模型。Tarski 证明了它等价于 *AC*。
+      - **克莱因—米尔曼定理**：实赋范线性空间的对偶空间的单位球 $B$ 有一个极点，即一个不是 $B$ 中任何线段内点的点。这一点在 Bell and Fremlin 1972a 中被证明等价于 *AC*。该文表明，给定任一由非空集构成的索引族 $\mathcal{A}$，$\mathcal{A}$ 上的选择函数与由 $\mathcal{A}$ 构造的某个实赋范线性空间之对偶的单位球的极点之间存在自然的双射。
+      - 每个分配格都有极大理想。这一点在 Klimovsky 1958 中被证明等价于 *AC*；对由集合构成的格的情形则在 Bell and Fremlin 1972 中得到证明。
+      - 每个含单位元的交换环都有极大理想。Hodges 1979 证明了它等价于 *AC*。
+    step2: |-
+      - **吉洪诺夫定理**（1930）：紧致拓扑空间的积是紧致的。这一点在 Kelley 1950 中被证明等价于 *AC*。但对紧致豪斯多夫空间，它等价于 **BPI**（见下文），因而弱于 *AC*。
+      - **勒文海姆—斯科伦—塔斯基定理**（Löwenheim 1915, Skolem 1920, Tarski and Vaught 1957）[^tarski-1957]：具有无限基数 *κ* 之模型的一阶语句，也具有任一满足 $\mu \le \kappa$ 的无限基数 *μ* 之模型。Tarski 证明了它等价于 *AC*。
+      - **克莱因—米尔曼定理**：实赋范线性空间的对偶空间的单位球 $B$ 有一个极点，即一个不是 $B$ 中任何线段内点的点。这一点在 Bell and Fremlin 1972a 中被证明等价于 *AC*。该文表明，给定任一由非空集构成的索引族 $\mathcal{A}$，$\mathcal{A}$ 上的选择函数与由 $\mathcal{A}$ 构造的某个实赋范线性空间之对偶的单位球的极点之间存在自然的双射。
+      - 每个分配格都有极大理想。这一点在 Klimovsky 1958 中被证明等价于 *AC*；对由集合构成的格的情形则在 Bell and Fremlin 1972 中得到证明。
+      - 每个含单位元的交换环都有极大理想。Hodges 1979 证明了它等价于 *AC*。
+  - id: 72
+    kind: body
+    source: |-
+      There are a number of mathematical consequences of *AC* which are known to be weaker[^note-14] than it, in particular:
+    step1: |-
+      *AC* 还有若干已知弱于[^note-14]它的数学推论，特别是：
+    step2: |-
+      *AC* 还有若干已知弱于[^note-14]它的数学推论，特别是：
+  - id: 73
+    kind: body
+    source: |-
+      - **The Boolean Prime Ideal Theorem** (**BPI**): every Boolean algebra has a maximal (or prime) ideal. This was shown to be weaker than *AC* in Halpern and Levy 1971.
+      - **The Stone Representation Theorem for Boolean algebras** (Stone 1936)[^stone-1936]: every Boolean algebra is isomorphic to a field of sets. This is equivalent to **BPI** and hence weaker than *AC*
+      - **Compactness Theorem for First-Order Logic** (Gödel 1930, Malcev 1937, others): if every finite subset of a set of first-order sentences has a model, then the set has a model. This was shown, in Henkin 1954, to be equivalent to **BPI**, and hence weaker than *AC*.
+      - **Completeness Theorem for First-Order Logic** (Gödel 1930, Henkin 1954): each consistent set of first-order sentences has a model. This was shown by Henkin in 1954 to be equivalent to **BPI**, and hence weaker than *AC*. If the cardinality of the model is specified in the right way, the assertion becomes equivalent to *AC*.
+    step1: |-
+      - **布尔素理想定理**（**BPI**）：每个布尔代数都有极大（或素）理想。Halpern and Levy 1971 表明它弱于 *AC*。
+      - **布尔代数的斯通表示定理**（Stone 1936）[^stone-1936]：每个布尔代数都同构于一个集合域。它等价于 **BPI**，因而弱于 *AC*。
+      - **一阶逻辑紧致性定理**（Gödel 1930, Malcev 1937 等）：若一阶语句集的每个有限子集都有模型，则该集合有模型。Henkin 1954 表明它等价于 **BPI**，因而弱于 *AC*。
+      - **一阶逻辑完全性定理**（Gödel 1930, Henkin 1954）：每个一致的一阶语句集都有模型。Henkin 于 1954 年表明它等价于 **BPI**，因而弱于 *AC*。若以恰当方式指定模型的基数，该断言便等价于 *AC*。
+    step2: |-
+      - **布尔素理想定理**（**BPI**）：每个布尔代数都有极大（或素）理想。Halpern and Levy 1971 表明它弱于 *AC*。
+      - **布尔代数的斯通表示定理**（Stone 1936）[^stone-1936]：每个布尔代数都同构于一个集合域。它等价于 **BPI**，因而弱于 *AC*。
+      - **一阶逻辑紧致性定理**（Gödel 1930, Malcev 1937 等）：若一阶语句集的每个有限子集都有模型，则该集合有模型。Henkin 1954 表明它等价于 **BPI**，因而弱于 *AC*。
+      - **一阶逻辑完全性定理**（Gödel 1930, Henkin 1954）：每个一致的一阶语句集都有模型。Henkin 于 1954 年表明它等价于 **BPI**，因而弱于 *AC*。若以恰当方式指定模型的基数，该断言便等价于 *AC*。
+  - id: 74
+    kind: body
+    source: |-
+      Finally, there is
+    step1: |-
+      最后还有
+    step2: |-
+      最后还有
+  - id: 75
+    kind: body
+    source: |-
+      - **The Sikorski Extension Theorem for Boolean algebras** (Sikorski 1949): every complete Boolean algebra is injective, i.e., for any Boolean algebra $A$ and any complete Boolean algebra $B$, any homomorphism of a subalgebra of $A$ into $B$ can be extended to the whole of $A$.
+    step1: |-
+      - **布尔代数的西科尔斯基扩张定理**（Sikorski 1949）：每个完备布尔代数都是内射的，即对任一布尔代数 $A$ 与任一完备布尔代数 $B$，从 $A$ 的子代数到 $B$ 的任一同态都可扩张到整个 $A$ 上。
+    step2: |-
+      - **布尔代数的西科尔斯基扩张定理**（Sikorski 1949）：每个完备布尔代数都是内射的，即对任一布尔代数 $A$ 与任一完备布尔代数 $B$，从 $A$ 的子代数到 $B$ 的任一同态都可扩张到整个 $A$ 上。
+  - id: 76
+    kind: body
+    source: |-
+      The question of the equivalence of this with *AC* is one of the few remaining interesting open questions in this area; while it clearly implies **BPI**, it was proved independent of **BPI** in Bell 1983.
+    step1: |-
+      这一原理是否等价于 *AC*，是该领域中少数几个尚存的有趣未决问题之一；它显然蕴涵 **BPI**，但 Bell 1983 证明了它独立于 **BPI**。
+    step2: |-
+      这一原理是否等价于 *AC*，是该领域中少数几个尚存的有趣未决问题之一；它显然蕴涵 **BPI**，但 Bell 1983 证明了它独立于 **BPI**。
+  - id: 77
+    kind: body
+    source: |-
+      Many of these theorems are discussed in Bell and Machover (1977).
+    step1: |-
+      这些定理中有许多在 Bell and Machover（1977）中得到讨论。
+    step2: |-
+      这些定理中有许多在 Bell and Machover（1977）中得到讨论。
+  - id: 78
+    kind: body
+    source: |-
+      ## 5. The Axiom of Choice and Logic
+    step1: |-
+      ## 5. 选择公理与逻辑
+    step2: |-
+      ## 5. 选择公理与逻辑
+  - id: 79
+    kind: body
+    source: |-
+      An initial connection between *AC* and logic emerges by returning to its formulation **AC3** in terms of relations, namely: any binary relation contains a function with the same domain. This version of **AC** is naturally expressible within a second-order language $L$ with individual variables $x$, $y$, $z$, … and function variables $f$, $g$, $h$, …. In $L$, binary relations are represented by formulas $\phi(x, y)$ with two free individual variables $x$, $y$. The counterpart in $L$ of the assertion **AC3** is then
+    step1: |-
+      *AC* 与逻辑之间最初的联系，可以通过回到它用关系表述的形式 **AC3** 而显现出来，即：任何二元关系都包含一个具有相同定义域的函数。**AC** 的这一版本可以自然地在一个二阶语言 $L$ 中表达，该语言有个体变元 $x$、$y$、$z$、……以及函数变元 $f$、$g$、$h$、……。在 $L$ 中，二元关系由带有两个自由个体变元 $x$、$y$ 的公式 $\phi(x, y)$ 表示。于是断言 **AC3** 在 $L$ 中的对应物是
+    step2: |-
+      *AC* 与逻辑之间最初的联系，可以通过回到它用关系表述的形式 **AC3** 而显现出来，即：任何二元关系都包含一个具有相同定义域的函数。**AC** 的这一版本可以自然地在一个二阶语言 $L$ 中表达，该语言有个体变元 $x$、$y$、$z$、……以及函数变元 $f$、$g$、$h$、……。在 $L$ 中，二元关系由带有两个自由个体变元 $x$、$y$ 的公式 $\phi(x, y)$ 表示。于是断言 **AC3** 在 $L$ 中的对应物是
+  - id: 80
+    kind: body
+    source: |-
+      > **ACL**:
+      > $\forall x \exists y \phi(x, y) \rightarrow \exists f \forall x \phi(x, fx).$
+    step1: |-
+      > **ACL**：
+      > $\forall x \exists y \phi(x, y) \rightarrow \exists f \forall x \phi(x, fx).$
+    step2: |-
+      > **ACL**：
+      > $\forall x \exists y \phi(x, y) \rightarrow \exists f \forall x \phi(x, fx).$
+  - id: 81
+    kind: body
+    source: |-
+      This scheme of sentences is the standard logical form of *AC*.
+    step1: |-
+      这一语句模式是 *AC* 的标准逻辑形式。
+    step2: |-
+      这一语句模式是 *AC* 的标准逻辑形式。
+  - id: 82
+    kind: body
+    source: |-
+      Zermelo’s original form of the Axiom of Choice, **AC1**, can be expressed as a scheme of sentences within a suitably strengthened version of $L$. Accordingly we now suppose $L$ to contain in addition predicate variables $X$, $Y$, $Z$, … and second-order function variables $F$, $G$, $H$, …. Here a second-order function variable $F$ may be applied to a predicate variable $X$ to yield an individual term $FX$. The scheme of sentences
+    step1: |-
+      Zermelo 对选择公理的原始表述 **AC1**，可以在 $L$ 的一个适当加强版本中表达为一个语句模式。据此，我们现在假定 $L$ 还包含谓词变元 $X$、$Y$、$Z$、……以及二阶函数变元 $F$、$G$、$H$、……。这里，二阶函数变元 $F$ 可以施用于谓词变元 $X$，从而得到个体项 $FX$。语句模式
+    step2: |-
+      Zermelo 对选择公理的原始表述 **AC1**，可以在 $L$ 的一个适当加强版本中表达为一个语句模式。据此，我们现在假定 $L$ 还包含谓词变元 $X$、$Y$、$Z$、……以及二阶函数变元 $F$、$G$、$H$、……。这里，二阶函数变元 $F$ 可以施用于谓词变元 $X$，从而得到个体项 $FX$。语句模式
+  - id: 83
+    kind: body
+    source: |-
+      > **AC1L**:
+      > $\forall X [\Phi(X) \rightarrow \exists x X(x)] \rightarrow \exists F \forall X[\Phi(X) \rightarrow X(FX)]$
+    step1: |-
+      > **AC1L**：
+      > $\forall X [\Phi(X) \rightarrow \exists x X(x)] \rightarrow \exists F \forall X[\Phi(X) \rightarrow X(FX)]$
+    step2: |-
+      > **AC1L**：
+      > $\forall X [\Phi(X) \rightarrow \exists x X(x)] \rightarrow \exists F \forall X[\Phi(X) \rightarrow X(FX)]$
+  - id: 84
+    kind: body
+    source: |-
+      is the direct counterpart of **AC1** in this strengthened second-order language. In words, **AC1L** asserts that, if each predicate having a certain property *Φ* has instances, then there is a function $F$ on predicates such that, for any predicate $X$ satisfying *Φ*, $FX$ is an instance of $X$. Here predicates are playing the role of sets.
+    step1: |-
+      它就是 **AC1** 在这一加强的二阶语言中的直接对应物。用文字来说，**AC1L** 断言：若每个具有某种性质 *Φ* 的谓词都有实例，则存在一个定义在谓词上的函数 $F$，使得对任一满足 *Φ* 的谓词 $X$，$FX$ 都是 $X$ 的一个实例。这里谓词扮演着集合的角色。
+    step2: |-
+      它就是 **AC1** 在这一加强的二阶语言中的直接对应物。用文字来说，**AC1L** 断言：若每个具有某种性质 *Φ* 的谓词都有实例，则存在一个定义在谓词上的函数 $F$，使得对任一满足 *Φ* 的谓词 $X$，$FX$ 都是 $X$ 的一个实例。这里谓词扮演着集合的角色。
+  - id: 85
+    kind: body
+    source: |-
+      Up to now we have tacitly assumed our background logic to be the usual classical logic. But the true depth of the connection between **AC** and logic emerges only when *intuitionistic* or *constructive* logic is brought into the picture. It is a remarkable fact that, assuming only the framework of intuitionistic logic together with certain mild further presuppositions, the Axiom of Choice can be shown to entail the cardinal rule of classical logic, the law of excluded middle—the assertion that $A \vee \neg A$ for any proposition $A$. To be precise, using the rules of intuitionistic logic within our augmented language $L$, we shall derive[^note-15] the law of excluded middle from **AC1L** conjoined with the following additional principles:
+    step1: |-
+      迄今为止，我们一直默契地假定背景逻辑是通常的经典逻辑。但 **AC** 与逻辑之间联系的真正深度，只有在把 **直觉主义** 或 **构造性** 逻辑引入视野之后才会显现。一个值得注意的事实是：仅假定直觉主义逻辑的框架，再加上某些温和的进一步预设，就可以表明选择公理蕴涵经典逻辑的根本规则——排中律，即对任一命题 $A$ 都有 $A \vee \neg A$ 的断言。确切地说，我们在加强语言 $L$ 中使用直觉主义逻辑的规则，将从 **AC1L** 连同下述附加原理一起，推导出[^note-15]排中律：
+    step2: |-
+      迄今为止，我们一直默契地假定背景逻辑是通常的经典逻辑。但 **AC** 与逻辑之间联系的真正深度，只有在把 **直觉主义** 或 **构造性** 逻辑引入视野之后才会显现。一个值得注意的事实是：仅假定直觉主义逻辑的框架，再加上某些温和的进一步预设，就可以表明选择公理蕴涵经典逻辑的根本规则——排中律，即对任一命题 $A$ 都有 $A \vee \neg A$ 的断言。确切地说，我们在加强语言 $L$ 中使用直觉主义逻辑的规则，将从 **AC1L** 连同下述附加原理一起，推导出[^note-15]排中律：
+  - id: 86
+    kind: body
+    source: |-
+      **Predicative Comprehension**: $\exists X \forall x[X(x) \leftrightarrow \phi(x)]$, where *φ* contains no bound function or predicate variables.
+    step1: |-
+      **直谓概括**：$\exists X \forall x[X(x) \leftrightarrow \phi(x)]$，其中 *φ* 不含受约束的函数变元或谓词变元。
+    step2: |-
+      **直谓概括**：$\exists X \forall x[X(x) \leftrightarrow \phi(x)]$，其中 *φ* 不含受约束的函数变元或谓词变元。
+  - id: 87
+    kind: body
+    source: |-
+      **Extensionality of Functions**: $\forall X \forall Y \forall F[X \approx Y \rightarrow FX = FY]$, where $X \approx Y$ is an abbreviation for $\forall x[X(x) \leftrightarrow Y(x)]$, that is, $X$ and $Y$ are *extensionally equivalent*.
+    step1: |-
+      **函数的外延性**：$\forall X \forall Y \forall F[X \approx Y \rightarrow FX = FY]$，其中 $X \approx Y$ 是 $\forall x[X(x) \leftrightarrow Y(x)]$ 的缩写，也就是说，$X$ 与 $Y$ 是 **外延等价** 的。
+    step2: |-
+      **函数的外延性**：$\forall X \forall Y \forall F[X \approx Y \rightarrow FX = FY]$，其中 $X \approx Y$ 是 $\forall x[X(x) \leftrightarrow Y(x)]$ 的缩写，也就是说，$X$ 与 $Y$ 是 **外延等价** 的。
+  - id: 88
+    kind: body
+    source: |-
+      **Two Distinct Individuals**: $\uO \ne \uI$, where $\uO$ and $\uI$ are individual constants.
+    step1: |-
+      **两个不同的个体**：$\underline{0} \ne \underline{1}$，其中 $\underline{0}$ 与 $\underline{1}$ 是个体常项。
+    step2: |-
+      **两个不同的个体**：$\underline{0} \ne \underline{1}$，其中 $\underline{0}$ 与 $\underline{1}$ 是个体常项。
+  - id: 89
+    kind: body
+    source: |-
+      Now let $A$ be a given proposition. By Predicative Comprehension, we may introduce predicate constants $U$, $V$ together with the assertions
+    step1: |-
+      现在设 $A$ 为给定命题。根据直谓概括，我们可以引入谓词常项 $U$、$V$，连同以下断言：
+    step2: |-
+      现在设 $A$ 为给定命题。根据直谓概括，我们可以引入谓词常项 $U$、$V$，连同以下断言：
+  - id: 90
+    kind: body
+    source: |-
+      $$\begin{align} \tag{1} &\forall x[U(x) \leftrightarrow (A \vee x = 0)] \\ \notag &\forall x[V(x) \leftrightarrow (A \vee x = 1)] \end{align}$$
+    step1: |-
+      $$\begin{align} \tag{1} &\forall x[U(x) \leftrightarrow (A \vee x = 0)] \\ \notag &\forall x[V(x) \leftrightarrow (A \vee x = 1)] \end{align}$$
+    step2: |-
+      $$\begin{align} \tag{1} &\forall x[U(x) \leftrightarrow (A \vee x = 0)] \\ \notag &\forall x[V(x) \leftrightarrow (A \vee x = 1)] \end{align}$$
+  - id: 91
+    kind: body
+    source: |-
+      Let $\Phi(X)$ be the formula $X \approx U \vee X \approx V$. Then clearly we may assert $\forall X[\Phi(X) \rightarrow \exists xX(x)]$ so **AC1L** may be invoked to assert $\exists F \forall X[\Phi(X) \rightarrow X(FX)]$. Now we can introduce a function constant $K$ together with the assertion
+    step1: |-
+      令 $\Phi(X)$ 为公式 $X \approx U \vee X \approx V$。于是显然可以断言 $\forall X[\Phi(X) \rightarrow \exists xX(x)]$，因此可以援引 **AC1L** 来断言 $\exists F \forall X[\Phi(X) \rightarrow X(FX)]$。现在我们可以引入函数常项 $K$，连同断言
+    step2: |-
+      令 $\Phi(X)$ 为公式 $X \approx U \vee X \approx V$。于是显然可以断言 $\forall X[\Phi(X) \rightarrow \exists xX(x)]$，因此可以援引 **AC1L** 来断言 $\exists F \forall X[\Phi(X) \rightarrow X(FX)]$。现在我们可以引入函数常项 $K$，连同断言
+  - id: 92
+    kind: body
+    source: |-
+      $$ \tag{2} \forall X[\Phi(X) \rightarrow X(KX)]. $$
+    step1: |-
+      $$ \tag{2} \forall X[\Phi(X) \rightarrow X(KX)]. $$
+    step2: |-
+      $$ \tag{2} \forall X[\Phi(X) \rightarrow X(KX)]. $$
+  - id: 93
+    kind: body
+    source: |-
+      Since evidently we may assert $\Phi(U)$ and $\Phi(V)$, it follows from (2) that we may assert $U(KU)$ and $V(KV)$, whence also, using (1),
+    step1: |-
+      既然显然可以断言 $\Phi(U)$ 与 $\Phi(V)$，由 (2) 即知可以断言 $U(KU)$ 与 $V(KV)$，于是再利用 (1)，
+    step2: |-
+      既然显然可以断言 $\Phi(U)$ 与 $\Phi(V)$，由 (2) 即知可以断言 $U(KU)$ 与 $V(KV)$，于是再利用 (1)，
+  - id: 94
+    kind: body
+    source: |-
+      $$ [A \vee KU = 0] \wedge [A \vee KV = 1]. $$
+    step1: |-
+      $$ [A \vee KU = 0] \wedge [A \vee KV = 1]. $$
+    step2: |-
+      $$ [A \vee KU = 0] \wedge [A \vee KV = 1]. $$
+  - id: 95
+    kind: body
+    source: |-
+      Using the distributive law (which holds in intuitionistic logic), it follows that we may assert
+    step1: |-
+      利用分配律（它在直觉主义逻辑中成立），即知可以断言
+    step2: |-
+      利用分配律（它在直觉主义逻辑中成立），即知可以断言
+  - id: 96
+    kind: body
+    source: |-
+      $$ A \vee [KU = 0 \wedge KV = 1]. $$
+    step1: |-
+      $$ A \vee [KU = 0 \wedge KV = 1]. $$
+    step2: |-
+      $$ A \vee [KU = 0 \wedge KV = 1]. $$
+  - id: 97
+    kind: body
+    source: |-
+      From the presupposition that $0 \ne 1$ it follows that
+    step1: |-
+      由 $0 \ne 1$ 这一预设即知
+    step2: |-
+      由 $0 \ne 1$ 这一预设即知
+  - id: 98
+    kind: body
+    source: |-
+      $$ \tag{3} A \vee KU \ne KV $$
+    step1: |-
+      $$ \tag{3} A \vee KU \ne KV $$
+    step2: |-
+      $$ \tag{3} A \vee KU \ne KV $$
+  - id: 99
+    kind: body
+    source: |-
+      is assertable. But it follows from (1) that we may assert $A \rightarrow U ≈ V$, and so also, using the Extensionality of Functions, $A \rightarrow KU = KV$. This yields the assertability of $KU \ne KV \rightarrow \neg A$, which, together with (3) in turn yields the assertability of
+    step1: |-
+      是可断言的。但由 (1) 可知可以断言 $A \rightarrow U ≈ V$，因而利用函数的外延性，也可以断言 $A \rightarrow KU = KV$。这就给出 $KU \ne KV \rightarrow \neg A$ 的可断言性，而它连同 (3) 又给出
+    step2: |-
+      是可断言的。但由 (1) 可知可以断言 $A \rightarrow U ≈ V$，因而利用函数的外延性，也可以断言 $A \rightarrow KU = KV$。这就给出 $KU \ne KV \rightarrow \neg A$ 的可断言性，而它连同 (3) 又给出
+  - id: 100
+    kind: body
+    source: |-
+      $$ A \vee \neg A $$
+    step1: |-
+      $$ A \vee \neg A $$
+    step2: |-
+      $$ A \vee \neg A $$
+  - id: 101
+    kind: body
+    source: |-
+      that is, the law of excluded middle.
+    step1: |-
+      即排中律。
+    step2: |-
+      即排中律。
+  - id: 102
+    kind: body
+    source: |-
+      The fact that the Axiom of Choice implies Excluded Middle seems at first sight to be at variance with the fact that the former is often taken as a *valid* principle in systems of constructive mathematics governed by intuitionistic logic, e.g. Bishop’s Constructive Analysis[^note-16] and Martin-Löf’s Constructive Type Theory[^note-17], in which Excluded Middle is not affirmed. In Bishop’s words, “A choice function exists in constructive mathematics because a choice is *implied by the very meaning of existence*.” Thus, for example, the antecedent $\forall x \exists y \phi(x,y)$ of **ACL**, given a constructive construal, just *means* that we have a procedure which, applied to each $x$, yields a $y$ for which $\phi(x, y)$. But this is precisely what is expressed by the consequent $\exists f \forall x \phi(x,fx)$ of **ACL**.
+    step1: |-
+      选择公理蕴涵排中律这一事实，初看似乎与下述事实相左：在受直觉主义逻辑支配的构造性数学系统——例如比肖普的《构造性分析》[^note-16] 与马丁-洛夫的构造性类型论[^note-17]——中，前者常被视为一条 **有效** 原理，而这些系统并不肯定排中律。用比肖普的话说：“在构造性数学中，选择函数存在，因为选择 **正是由存在的意义本身所蕴涵的**。”因此，举例来说，**ACL** 的前件 $\forall x \exists y \phi(x,y)$，在作构造性解读时，恰恰 **意味着** 我们有一个程序，把它施用于每个 $x$，就产生一个使 $\phi(x, y)$ 成立的 $y$。而这正是 **ACL** 的后件 $\exists f \forall x \phi(x,fx)$ 所表达的东西。
+    step2: |-
+      选择公理蕴涵排中律这一事实，初看似乎与下述事实相左：在受直觉主义逻辑支配的构造性数学系统——例如比肖普的《构造性分析》[^note-16] 与马丁-洛夫的构造性类型论[^note-17]——中，前者常被视为一条 **有效** 原理，而这些系统并不肯定排中律。用比肖普的话说：“在构造性数学中，选择函数存在，因为选择 **正是由存在的意义本身所蕴涵的**。”因此，举例来说，**ACL** 的前件 $\forall x \exists y \phi(x,y)$，在作构造性解读时，恰恰 **意味着** 我们有一个程序，把它施用于每个 $x$，就产生一个使 $\phi(x, y)$ 成立的 $y$。而这正是 **ACL** 的后件 $\exists f \forall x \phi(x,fx)$ 所表达的东西。
+  - id: 103
+    kind: body
+    source: |-
+      To resolve the difficulty, we note that in deriving Excluded Middle from **ACL1** essential use was made of the principles of Predicative Comprehension and Extensionality of Functions[^note-18]. It follows that, in systems of constructive mathematics affirming **AC** (but not Excluded Middle) *either the principle of Predicative Comprehension or the principle of Extensionality of Functions must fail*. While the principle of Predicative Comprehension can be given a constructive justification, no such justification can be provided for the principle of Extensionality of Functions. Functions on predicates are given intensionally, and satisfy just the corresponding principle of Intensionality $\forall X \forall Y \forall F[X = Y \rightarrow FX = FY]$. The principle of Extensionality can easily be made to fail by considering, for example, the predicates $P$: *rational featherless biped* and $Q$: *human being* and the function $K$ on predicates which assigns to each predicate the number of words in its description. Then we can agree that $P \approx Q$ but $KP = 3$ and $KQ = 2$.
+    step1: |-
+      为化解这一困难，我们注意到，从 **AC1L** 推导排中律时，本质地使用了直谓概括原理与函数的外延性原理[^note-18]。由此可知，在肯定 **AC**（但不肯定排中律）的构造性数学系统中，**要么直谓概括原理失效，要么函数的外延性原理失效**。直谓概括原理尚可给出构造性的证成，而函数的外延性原理却无法得到这样的证成。谓词上的函数是内涵地给出的，只满足相应的内涵性原理 $\forall X \forall Y \forall F[X = Y \rightarrow FX = FY]$。外延性原理很容易被弄成失效：例如考虑谓词 $P$：**有理性、无羽的两足动物** 与 $Q$：**人**，以及定义在谓词上的函数 $K$，它给每个谓词指派其描述中的词数。于是我们可以同意 $P \approx Q$，但 $KP = 3$ 而 $KQ = 2$。
+    step2: |-
+      为化解这一困难，我们注意到，从 **AC1L** 推导排中律时，本质地使用了直谓概括原理与函数的外延性原理[^note-18]。由此可知，在肯定 **AC**（但不肯定排中律）的构造性数学系统中，**要么直谓概括原理失效，要么函数的外延性原理失效**。直谓概括原理尚可给出构造性的证成，而函数的外延性原理却无法得到这样的证成。谓词上的函数是内涵地给出的，只满足相应的内涵性原理 $\forall X \forall Y \forall F[X = Y \rightarrow FX = FY]$。外延性原理很容易被弄成失效：例如考虑谓词 $P$：**有理性、无羽的两足动物** 与 $Q$：**人**，以及定义在谓词上的函数 $K$，它给每个谓词指派其描述中的词数。于是我们可以同意 $P \approx Q$，但 $KP = 3$ 而 $KQ = 2$。
+  - id: 104
+    kind: body
+    source: |-
+      In intuitionistic set theory (that is, set theory based on intuitionistic as opposed to classical logic—we shall abbreviate this as **IST**) and in topos theory the principles of Predicative Comprehension and Extensionality of Functions (both appropriately construed) hold and so there **AC** implies Excluded Middle.[^note-19] ^{,} [^note-20]
+    step1: |-
+      在直觉主义集合论（即以直觉主义逻辑而非经典逻辑为基础的集合论——我们将其缩写为 **IST**）与拓扑斯理论中，直谓概括原理与函数的外延性原理（两者都作适当解读）成立，因此在其中 **AC** 蕴涵排中律。[^note-19][^note-20]
+    step2: |-
+      在直觉主义集合论（即以直觉主义逻辑而非经典逻辑为基础的集合论——我们将其缩写为 **IST**）与拓扑斯理论中，直谓概括原理与函数的外延性原理（两者都作适当解读）成立，因此在其中 **AC** 蕴涵排中律。[^note-19][^note-20]
+  - id: 105
+    kind: body
+    source: |-
+      The derivation of Excluded Middle from *AC* was first given by Diaconescu (1975)[^diaconescu-1975] in a category-theoretic setting. His proof employed essentially different ideas from the proof presented above; in particular, it makes no use of extensionality principles but instead employs the idea of the quotient of an object (or set) by an equivalence relation. It is instructive to formulate Diaconescu’s argument within **IST**. To do this, let us call a subset $U$ of a set $A$ *detachable* if there is a subset $V$ of $A$ for which $U \cap V = \varnothing$ and $U \cup V = A$. Diaconescu’s argument amounts to a derivation from **AC4** (see above) of the assertion that every subset of a set is detachable, from which Excluded Middle readily follows. Here it is.
+    step1: |-
+      Diaconescu（1975）[^diaconescu-1975] 最早在范畴论框架中给出了从 *AC* 推导排中律的论证。他的证明所使用的基本想法与上文给出的证明不同；特别是，它不使用外延性原理，而是采用以等价关系对对象（或集合）作商的想法。在 **IST** 中表述 Diaconescu 的论证是有教益的。为此，我们称集合 $A$ 的子集 $U$ 是 **可分离的**，如果存在 $A$ 的子集 $V$，使得 $U \cap V = \varnothing$ 且 $U \cup V = A$。Diaconescu 的论证相当于从 **AC4**（见上文）推出如下断言：集合的每个子集都是可分离的；由此即可容易地得出排中律。论证如下。
+    step2: |-
+      Diaconescu（1975）[^diaconescu-1975] 最早在范畴论框架中给出了从 *AC* 推导排中律的论证。他的证明所使用的基本想法与上文给出的证明不同；特别是，它不使用外延性原理，而是采用以等价关系对对象（或集合）作商的想法。在 **IST** 中表述 Diaconescu 的论证是有教益的。为此，我们称集合 $A$ 的子集 $U$ 是 **可分离的**，如果存在 $A$ 的子集 $V$，使得 $U \cap V = \varnothing$ 且 $U \cup V = A$。Diaconescu 的论证相当于从 **AC4**（见上文）推出如下断言：集合的每个子集都是可分离的；由此即可容易地得出排中律。论证如下。
+  - id: 106
+    kind: body
+    source: |-
+      First, given $U \subseteq A$, an *indicator* for $U$ (in $A$) is a map $g: A \times 2 \rightarrow 2$ satisfying
+    step1: |-
+      首先，给定 $U \subseteq A$，$U$（在 $A$ 中）的一个 **指示映射** 是一个满足下式的映射 $g: A \times 2 \rightarrow 2$：
+    step2: |-
+      首先，给定 $U \subseteq A$，$U$（在 $A$ 中）的一个 **指示映射** 是一个满足下式的映射 $g: A \times 2 \rightarrow 2$：
+  - id: 107
+    kind: body
+    source: |-
+      $$ U = \{ x \in A: g(x,0) = g(x,1) \} $$
+    step1: |-
+      $$ U = \{ x \in A: g(x,0) = g(x,1) \} $$
+    step2: |-
+      $$ U = \{ x \in A: g(x,0) = g(x,1) \} $$
+  - id: 108
+    kind: body
+    source: |-
+      It is then easy to show that a subset is detachable if and only if it has an indicator.
+    step1: |-
+      于是不难证明：一个子集可分离，当且仅当它有指示映射。
+    step2: |-
+      于是不难证明：一个子集可分离，当且仅当它有指示映射。
+  - id: 109
+    kind: body
+    source: |-
+      Now we show that, if **AC4** holds, then any subset of a set has an indicator, and hence is detachable.
+    step1: |-
+      现在我们来证明：若 **AC4** 成立，则集合的任何子集都有指示映射，因而都是可分离的。
+    step2: |-
+      现在我们来证明：若 **AC4** 成立，则集合的任何子集都有指示映射，因而都是可分离的。
+  - id: 110
+    kind: body
+    source: |-
+      For $U \subseteq A$, let $R$ be the binary relation on $A + A = A \times \{0\} \cup A \times \{1\}$ given by
+    step1: |-
+      对 $U \subseteq A$，令 $R$ 为 $A + A = A \times \{0\} \cup A \times \{1\}$ 上的二元关系，由下式给出：
+    step2: |-
+      对 $U \subseteq A$，令 $R$ 为 $A + A = A \times \{0\} \cup A \times \{1\}$ 上的二元关系，由下式给出：
+  - id: 111
+    kind: body
+    source: |-
+      $$ R = \{ ((x,0),(x,0)) : x \in A \} \cup \{ ((x,1),(x,1)) : x \in A \} \cup \{ ((x,0),(x,1) : x \in A \} \cup \{ ((x,1),(x,0) \} : x \in A $$
+    step1: |-
+      $$ R = \{ ((x,0),(x,0)) : x \in A \} \cup \{ ((x,1),(x,1)) : x \in A \} \cup \{ ((x,0),(x,1) : x \in A \} \cup \{ ((x,1),(x,0) \} : x \in A $$
+    step2: |-
+      $$ R = \{ ((x,0),(x,0)) : x \in A \} \cup \{ ((x,1),(x,1)) : x \in A \} \cup \{ ((x,0),(x,1) : x \in A \} \cup \{ ((x,1),(x,0) \} : x \in A $$
+  - id: 112
+    kind: body
+    source: |-
+      It can be checked that $R$ is an equivalence relation. Write $r$ for the natural map from $A + A$ to the quotient[^note-21] $Q$ of $(A + A)$ by $R$ which carries each member of $A + A$ to its $R-$equivalence class.
+    step1: |-
+      可以验证 $R$ 是一个等价关系。用 $r$ 表示从 $A + A$ 到 $(A + A)$ 关于 $R$ 的商[^note-21] $Q$ 的自然映射，它把 $A + A$ 的每个成员送到其 $R-$等价类。
+    step2: |-
+      可以验证 $R$ 是一个等价关系。用 $r$ 表示从 $A + A$ 到 $(A + A)$ 关于 $R$ 的商[^note-21] $Q$ 的自然映射，它把 $A + A$ 的每个成员送到其 $R-$等价类。
+  - id: 113
+    kind: body
+    source: |-
+      Now apply **AC4** to obtain a map $f: Q \rightarrow A + A$ satisfying $f(X) \in X$ for all $X \in Q$. It is then not hard to show that, writing $\pi_{1}$ for projection on the first coordinate,
+    step1: |-
+      现在施用 **AC4**，得到映射 $f: Q \rightarrow A + A$，使得对所有 $X \in Q$ 都有 $f(X) \in X$。于是不难证明：若用 $\pi_{1}$ 表示向第一坐标的投影，则
+    step2: |-
+      现在施用 **AC4**，得到映射 $f: Q \rightarrow A + A$，使得对所有 $X \in Q$ 都有 $f(X) \in X$。于是不难证明：若用 $\pi_{1}$ 表示向第一坐标的投影，则
+  - id: 114
+    kind: body
+    source: |-
+      $$ \tag{*} \mbox{for } n=0,1 \mbox{ and } x \in A, \pi_1(f(r(x,n))) = x; $$
+    step1: |-
+      $$ \tag{*} \mbox{对 } n=0,1 \mbox{ 且 } x \in A, \pi_1(f(r(x,n))) = x; $$
+    step2: |-
+      $$ \tag{*} \mbox{对 } n=0,1 \mbox{ 且 } x \in A, \pi_1(f(r(x,n))) = x; $$
+  - id: 115
+    kind: body
+    source: |-
+      and
+    step1: |-
+      并且
+    step2: |-
+      并且
+  - id: 116
+    kind: body
+    source: |-
+      $$ \tag{**} x \in U \leftrightarrow f(r(x,0)) = f(r(x,1)). $$
+    step1: |-
+      $$ \tag{**} x \in U \leftrightarrow f(r(x,0)) = f(r(x,1)). $$
+    step2: |-
+      $$ \tag{**} x \in U \leftrightarrow f(r(x,0)) = f(r(x,1)). $$
+  - id: 117
+    kind: body
+    source: |-
+      Now define $g: A \times 2 \rightarrow 2$ by $g = \pi_{2} \circ f \circ r$, where $\pi_2$ is a projection on the second coordinate. Then $g$ is an indicator for $U$, as the following equivalences show:
+    step1: |-
+      现在由 $g = \pi_{2} \circ f \circ r$ 定义 $g: A \times 2 \rightarrow 2$，其中 $\pi_2$ 是向第二坐标的投影。于是 $g$ 是 $U$ 的一个指示映射，正如以下等价关系所示：
+    step2: |-
+      现在由 $g = \pi_{2} \circ f \circ r$ 定义 $g: A \times 2 \rightarrow 2$，其中 $\pi_2$ 是向第二坐标的投影。于是 $g$ 是 $U$ 的一个指示映射，正如以下等价关系所示：
+  - id: 118
+    kind: body
+    source: |-
+      $$\begin{align} x \in U &\leftrightarrow f(r(x,0))=f(r(x,1)) \ldots \mbox{by (**)} \\ &\leftrightarrow \pi_{1}(f(r(x,0))) = \pi_{1}(f(r(x,1))) \wedge \pi_{2}(f(r(x,0))) = \pi_{2}(f(r(x,1))) \\ &\leftrightarrow \pi_{2}(f(r(x,0))) = \pi_{2}(f(r(x,1))) \ldots \mbox{using (*)} \\ &\leftrightarrow g(x,0) = g(x,1). \end{align}$$
+    step1: |-
+      $$\begin{align} x \in U &\leftrightarrow f(r(x,0))=f(r(x,1)) \ldots \mbox{由 (**)} \\ &\leftrightarrow \pi_{1}(f(r(x,0))) = \pi_{1}(f(r(x,1))) \wedge \pi_{2}(f(r(x,0))) = \pi_{2}(f(r(x,1))) \\ &\leftrightarrow \pi_{2}(f(r(x,0))) = \pi_{2}(f(r(x,1))) \ldots \mbox{利用 (*)} \\ &\leftrightarrow g(x,0) = g(x,1). \end{align}$$
+    step2: |-
+      $$\begin{align} x \in U &\leftrightarrow f(r(x,0))=f(r(x,1)) \ldots \mbox{由 (**)} \\ &\leftrightarrow \pi_{1}(f(r(x,0))) = \pi_{1}(f(r(x,1))) \wedge \pi_{2}(f(r(x,0))) = \pi_{2}(f(r(x,1))) \\ &\leftrightarrow \pi_{2}(f(r(x,0))) = \pi_{2}(f(r(x,1))) \ldots \mbox{利用 (*)} \\ &\leftrightarrow g(x,0) = g(x,1). \end{align}$$
+  - id: 119
+    kind: body
+    source: |-
+      The proof is complete.
+    step1: |-
+      证毕。
+    step2: |-
+      证毕。
+  - id: 120
+    kind: body
+    source: |-
+      It can be shown (Bell 2006)[^bell-2006] that each of a number of intuitionistically invalid logical principles, including the law of excluded middle, is *equivalent* (in intuitionistic set theory) to a suitably weakened version of the axiom of choice. Accordingly these logical principles may be viewed as choice principles.
+    step1: |-
+      可以证明（Bell 2006）[^bell-2006]：若干在直觉主义下无效的逻辑原理——包括排中律在内——各自都（在直觉主义集合论中）**等价** 于选择公理的某个适当弱化版本。据此，这些逻辑原理可以被视为选择原理。
+    step2: |-
+      可以证明（Bell 2006）[^bell-2006]：若干在直觉主义下无效的逻辑原理——包括排中律在内——各自都（在直觉主义集合论中）**等价** 于选择公理的某个适当弱化版本。据此，这些逻辑原理可以被视为选择原理。
+  - id: 121
+    kind: body
+    source: |-
+      Here are the logical principles at issue:
+    step1: |-
+      以下是所涉及的逻辑原理：
+    step2: |-
+      以下是所涉及的逻辑原理：
+  - id: 122
+    kind: body
+    source: |-
+      | **SLEM** | $\alpha \vee \neg \alpha$ (*α* any sentence) |
+      | --- | --- |
+      | **Lin** | $(\alpha \rightarrow \beta) \vee (\beta \rightarrow \alpha)$ (*α*, *β* any sentences) |
+      | **Stone** | $\neg \alpha \vee \neg\neg \alpha$ (*α* any sentence) |
+      | **Ex** | $\exists x[ \exists x \alpha(x) \rightarrow \alpha(x)]$ ($\alpha(x)$ any formula with at most $x$ free) |
+      | **Un** | $\exists x[\alpha(x) \rightarrow \forall x\alpha(x)]$ ($\alpha(x)$ any formula with at most $x$ free) |
+      | **Dis** | $\forall x[\alpha \vee \beta(x)] \rightarrow \alpha\vee\forall x\beta(x)$ (*α* any sentence, $\beta(x)$ any formula with at most $x$ free) |
+    step1: |-
+      | **SLEM** | $\alpha \vee \neg \alpha$（*α* 为任意语句） |
+      | --- | --- |
+      | **Lin** | $(\alpha \rightarrow \beta) \vee (\beta \rightarrow \alpha)$（*α*、*β* 为任意语句） |
+      | **Stone** | $\neg \alpha \vee \neg\neg \alpha$（*α* 为任意语句） |
+      | **Ex** | $\exists x[ \exists x \alpha(x) \rightarrow \alpha(x)]$（$\alpha(x)$ 为至多以 $x$ 为自由变元的任意公式） |
+      | **Un** | $\exists x[\alpha(x) \rightarrow \forall x\alpha(x)]$（$\alpha(x)$ 为至多以 $x$ 为自由变元的任意公式） |
+      | **Dis** | $\forall x[\alpha \vee \beta(x)] \rightarrow \alpha\vee\forall x\beta(x)$（*α* 为任意语句，$\beta(x)$ 为至多以 $x$ 为自由变元的任意公式） |
+    step2: |-
+      | **SLEM** | $\alpha \vee \neg \alpha$（*α* 为任意语句） |
+      | --- | --- |
+      | **Lin** | $(\alpha \rightarrow \beta) \vee (\beta \rightarrow \alpha)$（*α*、*β* 为任意语句） |
+      | **Stone** | $\neg \alpha \vee \neg\neg \alpha$（*α* 为任意语句） |
+      | **Ex** | $\exists x[ \exists x \alpha(x) \rightarrow \alpha(x)]$（$\alpha(x)$ 为至多以 $x$ 为自由变元的任意公式） |
+      | **Un** | $\exists x[\alpha(x) \rightarrow \forall x\alpha(x)]$（$\alpha(x)$ 为至多以 $x$ 为自由变元的任意公式） |
+      | **Dis** | $\forall x[\alpha \vee \beta(x)] \rightarrow \alpha\vee\forall x\beta(x)$（*α* 为任意语句，$\beta(x)$ 为至多以 $x$ 为自由变元的任意公式） |
+  - id: 123
+    kind: body
+    source: |-
+      Over intuitionistic logic, **Lin**, **Stone** and **Ex** are consequences of **SLEM**; and **Un** implies **Dis**. All of these schemes follow, of course, from the full law of excluded middle, that is **SLEM** for arbitrary formulas.
+    step1: |-
+      在直觉主义逻辑之上，**Lin**、**Stone** 与 **Ex** 都是 **SLEM** 的推论；而 **Un** 蕴涵 **Dis**。当然，所有这些模式都可由完整的排中律——即对任意公式的 **SLEM**——推出。
+    step2: |-
+      在直觉主义逻辑之上，**Lin**、**Stone** 与 **Ex** 都是 **SLEM** 的推论；而 **Un** 蕴涵 **Dis**。当然，所有这些模式都可由完整的排中律——即对任意公式的 **SLEM**——推出。
+  - id: 124
+    kind: body
+    source: |-
+      In what follows the empty set is denoted by 0, $\{0\}$ by 1, and $\{0, 1\}$ by 2.
+    step1: |-
+      下文用 0 表示空集，用 1 表示 $\{0\}$，用 2 表示 $\{0, 1\}$。
+    step2: |-
+      下文用 0 表示空集，用 1 表示 $\{0\}$，用 2 表示 $\{0, 1\}$。
+  - id: 125
+    kind: body
+    source: |-
+      We formulate the following choice principles—here $X$ is an arbitrary set, $\Fun(X)$ the class of functions with domain $X$ and $\phi(x,y)$ an arbitrary formula of the language of set theory with at most the free variables $x$, $y$:
+    step1: |-
+      我们表述以下选择原理——这里 $X$ 是任意集合，$\mathrm{Fun}(X)$ 是以 $X$ 为定义域的函数所构成的类，$\phi(x,y)$ 是集合论语言中至多以 $x$、$y$ 为自由变元的任意公式：
+    step2: |-
+      我们表述以下选择原理——这里 $X$ 是任意集合，$\mathrm{Fun}(X)$ 是以 $X$ 为定义域的函数所构成的类，$\phi(x,y)$ 是集合论语言中至多以 $x$、$y$ 为自由变元的任意公式：
+  - id: 126
+    kind: body
+    source: |-
+      | **AC**$_X$ | $\forall x\in X\ \exists y \phi(x,y) \rightarrow \exists f \in \Fun(X)\ \forall x \in X\ \phi(x,fx)$ |
+      | --- | --- |
+      | **AC**$^*_X$ | ${\exists f \inn \Fun(X)} [{\forall x\inn X}\ \exists y \phi(x,y) \rightarrow {\forall x \inn X}\ \phi(x,fx)]$ |
+      | **DAC**$_X$ | $\forall f \inn Fun(X)\ {\exists x \inn X}\ \phi(x,fx) \rightarrow {\exists x \inn X}\ \forall y \phi(x,y)$ |
+      | **DAC**$^*_X$ | ${\exists f \inn \Fun(X)}\ [{\exists x\inn X}\ \phi(x,fx) \rightarrow {\exists x \inn X}\ \forall y \phi(x,y)]$ |
+    step1: |-
+      | **AC** $_X$ | $\forall x\in X\ \exists y \phi(x,y) \rightarrow \exists f \in \mathrm{Fun}(X)\ \forall x \in X\ \phi(x,fx)$ |
+      | --- | --- |
+      | **AC** $^*_X$ | ${\exists f \in \mathrm{Fun}(X)} [{\forall x\in X}\ \exists y \phi(x,y) \rightarrow {\forall x \in X}\ \phi(x,fx)]$ |
+      | **DAC** $_X$ | $\forall f \in Fun(X)\ {\exists x \in X}\ \phi(x,fx) \rightarrow {\exists x \in X}\ \forall y \phi(x,y)$ |
+      | **DAC** $^*_X$ | ${\exists f \in \mathrm{Fun}(X)}\ [{\exists x\in X}\ \phi(x,fx) \rightarrow {\exists x\in X}\ \forall y \phi(x,y)]$ |
+    step2: |-
+      | **AC** $_X$ | $\forall x\in X\ \exists y \phi(x,y) \rightarrow \exists f \in \mathrm{Fun}(X)\ \forall x \in X\ \phi(x,fx)$ |
+      | --- | --- |
+      | **AC** $^*_X$ | ${\exists f \in \mathrm{Fun}(X)} [{\forall x\in X}\ \exists y \phi(x,y) \rightarrow {\forall x \in X}\ \phi(x,fx)]$ |
+      | **DAC** $_X$ | $\forall f \in Fun(X)\ {\exists x \in X}\ \phi(x,fx) \rightarrow {\exists x \in X}\ \forall y \phi(x,y)$ |
+      | **DAC** $^*_X$ | ${\exists f \in \mathrm{Fun}(X)}\ [{\exists x\in X}\ \phi(x,fx) \rightarrow {\exists x\in X}\ \forall y \phi(x,y)]$ |
+  - id: 127
+    kind: body
+    source: |-
+      The first two of these are forms of *AC* for $X$; while classically equivalent, in **IST** **AC**$^*_X$ implies **AC**$_X$, but not conversely. The principles **DAC**$_X$ and **DAC**$^*_X$ are *dual* forms of the axiom of choice for $X$: classically they are both equivalent to **AC**$_X$ and **AC**$^*_X$ but intuitionistically **DAC**$^*_X$ implies **DAC**$_X$, and not conversely.
+    step1: |-
+      其中前两个是 *AC* 对 $X$ 的形式；它们在经典逻辑下等价，但在 **IST** 中 **AC** $^*_X$ 蕴涵 **AC** $_X$，反之则不然。原理 **DAC** $_X$ 与 **DAC** $^*_X$ 是选择公理对 $X$ 的 **对偶** 形式：在经典逻辑下它们都等价于 **AC** $_X$ 与 **AC** $^*_X$，但在直觉主义下 **DAC** $^*_X$ 蕴涵 **DAC** $_X$，反之则不然。
+    step2: |-
+      其中前两个是 *AC* 对 $X$ 的形式；它们在经典逻辑下等价，但在 **IST** 中 **AC** $^*_X$ 蕴涵 **AC** $_X$，反之则不然。原理 **DAC** $_X$ 与 **DAC** $^*_X$ 是选择公理对 $X$ 的 **对偶** 形式：在经典逻辑下它们都等价于 **AC** $_X$ 与 **AC** $^*_X$，但在直觉主义下 **DAC** $^*_X$ 蕴涵 **DAC** $_X$，反之则不然。
+  - id: 128
+    kind: body
+    source: |-
+      We also formulate the *weak extensional selection principle*, in which $\alpha(x)$ and $\beta(x)$ are any formulas with at most the variable $x$ free:
+    step1: |-
+      我们还表述 **弱外延选择原理**，其中 $\alpha(x)$ 与 $\beta(x)$ 是至多以变元 $x$ 为自由变元的任意公式：
+    step2: |-
+      我们还表述 **弱外延选择原理**，其中 $\alpha(x)$ 与 $\beta(x)$ 是至多以变元 $x$ 为自由变元的任意公式：
+  - id: 129
+    kind: body
+    source: |-
+      **WESP**: ${\exists x\inn 2}\ \alpha(x) \wedge {\exists x \inn 2}\ \beta(x) \rightarrow {\exists x \inn 2}\ {\exists y \inn 2}\ [\alpha(x) \wedge \beta(y) \wedge [{\forall x \inn 2}\ [\alpha(x) \leftrightarrow \beta(x)] \rightarrow x = y]].$
+    step1: |-
+      **WESP**：${\exists x\in 2}\ \alpha(x) \wedge {\exists x \in 2}\ \beta(x) \rightarrow {\exists x \in 2}\ {\exists y \in 2}\ [\alpha(x) \wedge \beta(y) \wedge [{\forall x \in 2}\ [\alpha(x) \leftrightarrow \beta(x)] \rightarrow x = y]].$
+    step2: |-
+      **WESP**：${\exists x\in 2}\ \alpha(x) \wedge {\exists x \in 2}\ \beta(x) \rightarrow {\exists x \in 2}\ {\exists y \in 2}\ [\alpha(x) \wedge \beta(y) \wedge [{\forall x \in 2}\ [\alpha(x) \leftrightarrow \beta(x)] \rightarrow x = y]].$
+  - id: 130
+    kind: body
+    source: |-
+      This principle, a straightforward consequence of the axiom of choice, asserts that, for any pair of instantiated properties of members of 2, instances may be assigned to the properties in a manner that depends just on their extensions.
+    step1: |-
+      这一原理是选择公理的直接推论，它断言：对 2 的成员之任意一对有实例的性质，都可以按照仅取决于其外延的方式为这些性质指派实例。
+    step2: |-
+      这一原理是选择公理的直接推论，它断言：对 2 的成员之任意一对有实例的性质，都可以按照仅取决于其外延的方式为这些性质指派实例。
+  - id: 131
+    kind: body
+    source: |-
+      Each of the logical principles tabulated above is equivalent (in **IST**) to a choice principle. In fact:
+    step1: |-
+      上表所列的每个逻辑原理都（在 **IST** 中）等价于某个选择原理。事实上：
+    step2: |-
+      上表所列的每个逻辑原理都（在 **IST** 中）等价于某个选择原理。事实上：
+  - id: 132
+    kind: body
+    source: |-
+      - **WESP** and **SLEM** are equivalent over **IST**.
+      - **AC**$^*_1$ and **Ex** are equivalent over **IST**.
+    step1: |-
+      - **WESP** 与 **SLEM** 在 **IST** 上等价。
+      - **AC** $^*_1$ 与 **Ex** 在 **IST** 上等价。
+    step2: |-
+      - **WESP** 与 **SLEM** 在 **IST** 上等价。
+      - **AC** $^*_1$ 与 **Ex** 在 **IST** 上等价。
+  - id: 133
+    kind: body
+    source: |-
+      Further, while **DAC**$_1$ is easily seen to be provable in **IST**, we have
+    step1: |-
+      此外，虽然容易看出 **DAC** $_1$ 在 **IST** 中可证，我们却有
+    step2: |-
+      此外，虽然容易看出 **DAC** $_1$ 在 **IST** 中可证，我们却有
+  - id: 134
+    kind: body
+    source: |-
+      - **DAC**$^*_1$ and **Un** are equivalent over **IST**.
+    step1: |-
+      - **DAC** $^*_1$ 与 **Un** 在 **IST** 上等价。
+    step2: |-
+      - **DAC** $^*_1$ 与 **Un** 在 **IST** 上等价。
+  - id: 135
+    kind: body
+    source: |-
+      Next, while **AC**$_2$ is easily proved in **IST**, by contrast we have
+    step1: |-
+      其次，虽然 **AC** $_2$ 在 **IST** 中容易证明，与之相对，我们却有
+    step2: |-
+      其次，虽然 **AC** $_2$ 在 **IST** 中容易证明，与之相对，我们却有
+  - id: 136
+    kind: body
+    source: |-
+      - **DAC**$_2$ and **Dis** are equivalent over **IST**.
+      - Over **IST**, **DAC**$^*_2$ is equivalent to **Un**, and hence also to **DAC**$^*_1$.
+    step1: |-
+      - **DAC** $_2$ 与 **Dis** 在 **IST** 上等价。
+      - 在 **IST** 上，**DAC** $^*_2$ 等价于 **Un**，因而也等价于 **DAC** $^*_1$。
+    step2: |-
+      - **DAC** $_2$ 与 **Dis** 在 **IST** 上等价。
+      - 在 **IST** 上，**DAC** $^*_2$ 等价于 **Un**，因而也等价于 **DAC** $^*_1$。
+  - id: 137
+    kind: body
+    source: |-
+      In order to provide choice schemes equivalent to **Lin** and **Stone** we introduce
+    step1: |-
+      为了给出与 **Lin** 和 **Stone** 等价的选择模式，我们引入
+    step2: |-
+      为了给出与 **Lin** 和 **Stone** 等价的选择模式，我们引入
+  - id: 138
+    kind: body
+    source: |-
+      **ac**$^*_X$: ${\exists f \inn 2^X} [{\forall x\inn X}\ {\exists y \inn 2}\ \phi(x,y) \rightarrow {\exists x \inn X}\ \phi(x,fx)]$
+    step1: |-
+      **ac** $^*_X$：${\exists f \in 2^X} [{\forall x\in X}\ {\exists y \in 2}\ \phi(x,y) \rightarrow {\exists x \in X}\ \phi(x,fx)]$
+    step2: |-
+      **ac** $^*_X$：${\exists f \in 2^X} [{\forall x\in X}\ {\exists y \in 2}\ \phi(x,y) \rightarrow {\exists x \in X}\ \phi(x,fx)]$
+  - id: 139
+    kind: body
+    source: |-
+      **wac**$^*_X$: ${\exists f \inn 2^X} [{\forall x \inn X}\ {\exists y \inn 2}\ \phi(x,y) \rightarrow {\forall x \inn X}\ \phi(x,fx)]$ provided it is provable in **IST** that $\forall x[\phi(x,0) \rightarrow \neg\phi(x,1)]$
+    step1: |-
+      **wac** $^*_X$：${\exists f \in 2^X} [{\forall x \in X}\ {\exists y \in 2}\ \phi(x,y) \rightarrow {\forall x \in X}\ \phi(x,fx)]$，前提是 **IST** 中可证 $\forall x[\phi(x,0) \rightarrow \neg\phi(x,1)]$
+    step2: |-
+      **wac** $^*_X$：${\exists f \in 2^X} [{\forall x \in X}\ {\exists y \in 2}\ \phi(x,y) \rightarrow {\forall x \in X}\ \phi(x,fx)]$，前提是 **IST** 中可证 $\forall x[\phi(x,0) \rightarrow \neg\phi(x,1)]$
+  - id: 140
+    kind: body
+    source: |-
+      Clearly **ac**$^*_X$ is equivalent to
+    step1: |-
+      显然 **ac** $^*_X$ 等价于
+    step2: |-
+      显然 **ac** $^*_X$ 等价于
+  - id: 141
+    kind: body
+    source: |-
+      ${\exists f \inn 2^X}[{\forall x \inn X}[\phi(x,0) \vee \phi(x,1)] \rightarrow {\forall x \inn X}\ \phi(x,fx)]$
+    step1: |-
+      ${\exists f \in 2^X}[{\forall x \in X}[\phi(x,0) \vee \phi(x,1)] \rightarrow {\forall x \in X}\ \phi(x,fx)]$
+    step2: |-
+      ${\exists f \in 2^X}[{\forall x \in X}[\phi(x,0) \vee \phi(x,1)] \rightarrow {\forall x \in X}\ \phi(x,fx)]$
+  - id: 142
+    kind: body
+    source: |-
+      and similarly for **dac**$^*_X$.
+    step1: |-
+      **dac** $^*_X$ 类似。
+    step2: |-
+      **dac** $^*_X$ 类似。
+  - id: 143
+    kind: body
+    source: |-
+      Then, over **IST**, **ac**$^*_1$ and **dac**$^*_1$ are equivalent, respectively, to **Lin** and **Stone**.
+    step1: |-
+      于是，在 **IST** 上，**ac** $^*_1$ 与 **dac** $^*_1$ 分别等价于 **Lin** 与 **Stone**。
+    step2: |-
+      于是，在 **IST** 上，**ac** $^*_1$ 与 **dac** $^*_1$ 分别等价于 **Lin** 与 **Stone**。
+  - id: 144
+    kind: body
+    source: |-
+      These results show just how deeply choice principles interact with logic, when the background logic is assumed to be intuitionistic. In a classical setting where the Law of Excluded Middle is assumed these connections are obliterated.
+    step1: |-
+      这些结果恰好表明，当背景逻辑被假定为直觉主义逻辑时，选择原理与逻辑的相互作用有多么深刻。而在假定排中律的经典框架中，这些联系则荡然无存。
+    step2: |-
+      这些结果恰好表明，当背景逻辑被假定为直觉主义逻辑时，选择原理与逻辑的相互作用有多么深刻。而在假定排中律的经典框架中，这些联系则荡然无存。
+  - id: 145
+    kind: body
+    source: |-
+      Readers interested in the topic of the axiom of choice and type theory may consult the following supplementary document:
+    step1: |-
+      对选择公理与类型论这一主题感兴趣的读者，可参阅以下补充文档：
+    step2: |-
+      对选择公理与类型论这一主题感兴趣的读者，可参阅以下补充文档：
+  - id: 146
+    kind: body
+    source: |-
+      > [The Axiom of Choice and Type Theory](axiom-choice.choice-and-type-theory.md)
+    step1: |-
+      > [选择公理与类型论](axiom-choice.choice-and-type-theory.md)
+    step2: |-
+      > [选择公理与类型论](axiom-choice.choice-and-type-theory.md)
