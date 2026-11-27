@@ -1,0 +1,257 @@
+version: 1
+slug: action
+params:
+  model: "DeepSeek-V4.1-Flash（Trae 主会话直译＋full PE）"
+  temperature: 0.2
+  batch_segments: all
+  rate_limit_s: 0
+  timeout_s: 60
+segments:
+  - id: 1
+    kind: body
+    source: |-
+      There is an important difference between activity and passivity: the fire is active with respect to the log when it burns it (and the log passive with respect to the fire). Within activity, there is also an important difference between the acts of certain organisms and the activities of non-living things like fire: when ants build a nest, or a cat stalks a bird, they *act* in a sense in which the fire does not. Finally, there is a long-standing tradition in philosophy going back at least as far as Plato and Aristotle that recognizes an important distinction between the acts that (non-human) animals in general are capable of, and the special sorts of actions that human beings do intentionally, such as going to the store, making phone calls, protesting an injustice, or knitting a sweater. This tradition views the latter group as practical manifestations of our rational capacities.
+    step1: |-
+      活动与被动之间存在重要区别：火在烧木头时对木头而言是主动的（木头对火而言则是被动的）。在活动内部，某些有机体的行为与火这类非生命物的活动之间也存在重要区别：蚂蚁筑巢或猫潜近鸟时，它们是在某种意义上 **行动**，而火并非如此。最后，哲学中有一个至少可追溯至柏拉图与亚里士多德的悠久传统，它承认（非人）动物一般所能做出的行为，与人类有意向地做出的特殊行动——例如去商店、打电话、抗议不公或织毛衣——之间存在重要区别。这一传统把后一类行动视为我们理性能力的实践表现。
+    step2: |-
+      活动与被动之间存在重要区别：火在烧木头时对木头而言是主动的（木头对火而言则是被动的）。在活动内部，某些有机体的行为与火这类非生命物的活动之间也存在重要区别：蚂蚁筑巢或猫潜近鸟时，它们是在某种意义上 **行动**，而火并非如此。最后，哲学中有一个至少可追溯至柏拉图与亚里士多德的悠久传统，它承认（非人）动物一般所能做出的行为，与人类有意向地做出的特殊行动——例如去商店、打电话、抗议不公或织毛衣——之间存在重要区别。这一传统把后一类行动视为我们理性能力的实践表现。
+  - id: 2
+    kind: body
+    source: |-
+      Although this entry largely follows suit in focusing on intentional human action as a manifestation of reason, we flag from the start that there are other philosophical traditions that call this assumption into question. For example, Japanese (as well as Buddhist) philosophers have discussed the possibility of action without the need of a self (Kasulis 2019, section 5.3)[^kasulis-2019]. And on one reading of the *Daode Jing*, the highest forms of human agency are, in some sense, beyond reason. This is one way to understand the notion of wuwei, or “nonaction,” which describes an ideal way of acting that is neither unconscious or involuntary, nor purposeful or goal-oriented (cf. Hansen 2020, section 9.4 and Wong 2021, section 4.1)[^hansen-2020]. Similarly, the Inner Chapters of the *Zhuangzi* may present a view of human action as going beyond thought and reason. By ceasing to think about his action, Butcher Ding, appears to achieve such a sublime level of harmony with his activity as to obviate the need for effort (3.2). On one reading, Zhuangzi is presenting a non-intellectualist account of skill, not unlike that defended by Dreyfus and Dreyfus (2004) as the highest form of expertise (Ivanhoe 1993)[^ivanhoe-1993]. On a more radical reading, the Inner Chapters do not present a higher form of skill, but rather a more radical notion, *Dao* (way), opposing skill (Schwitzgebel 2019)[^schwitzgebel-2019].[^note-1]
+    step1: |-
+      本词条大体上也沿此路径，聚焦于作为理性表现的人类意向行动；但我们要从一开始就指出，还有其他哲学传统质疑这一假定。例如，日本（以及佛教）哲学家讨论过无需自我的行动的可能性（Kasulis 2019, section 5.3）[^kasulis-2019]。而按对《道德经》的一种解读，人类能动性的最高形式在某种意义上超出理性。这是理解“无为”（wuwei）或“非行动”（nonaction）的一条途径：无为描述一种理想的行动方式，它既不是无意识或非自愿的，也不是有目的或以目标为导向的（参看 Hansen 2020, section 9.4 与 Wong 2021, section 4.1）[^hansen-2020]。同样，《庄子》内篇也可能呈现了一种超出思想与理性的人类行动观。庖丁通过停止思考自己的行动，似乎达到了与其活动如此崇高的和谐，以致无需努力（3.2）。按一种解读，庄子提出了一种非理智主义的技能说明，与德雷福斯与德雷福斯（2004）所主张的最高专长形式并无二致（Ivanhoe 1993）[^ivanhoe-1993]。按一种更激进的解读，内篇呈现的不是更高形式的技能，而是一个更激进的概念——道（way），它与技能相对（Schwitzgebel 2019）[^schwitzgebel-2019]。[^note-1]
+    step2: |-
+      本词条大体上也沿此路径，聚焦于作为理性表现的人类意向行动；但我们要从一开始就指出，还有其他哲学传统质疑这一假定。例如，日本（以及佛教）哲学家讨论过无需自我的行动的可能性（Kasulis 2019, section 5.3）[^kasulis-2019]。而按对《道德经》的一种解读，人类能动性的最高形式在某种意义上超出理性。这是理解“无为”（wuwei）或“非行动”（nonaction）的一条途径：无为描述一种理想的行动方式，它既不是无意识或非自愿的，也不是有目的或以目标为导向的（参看 Hansen 2020, section 9.4 与 Wong 2021, section 4.1）[^hansen-2020]。同样，《庄子》内篇也可能呈现了一种超出思想与理性的人类行动观。庖丁通过停止思考自己的行动，似乎达到了与其活动如此崇高的和谐，以致无需努力（3.2）。按一种解读，庄子提出了一种非理智主义的技能说明，与德雷福斯与德雷福斯（2004）所主张的最高专长形式并无二致（Ivanhoe 1993）[^ivanhoe-1993]。按一种更激进的解读，内篇呈现的不是更高形式的技能，而是一个更激进的概念——道（way），它与技能相对（Schwitzgebel 2019）[^schwitzgebel-2019]。[^note-1]
+  - id: 3
+    kind: body
+    source: |-
+      The entry is divided in eight sections. Section 1 discusses the question “What is an action?”. Section 2 examines a classic account of intentional action in terms of causation, associated with Donald Davidson’s work. Section 3 considers the challenge that extended actions—actions that take more than an instant to accomplish—pose for such a theory, as explored especially in Michael Bratman’s work, and different reactions to this challenge. Section 4 considers the notion of practical knowledge, as presented by Elizabeth Anscombe, which has served as the basis for the most important rival account to causal theories. Section 5 explores foundational questions about the ontology of action. Section 6 considers the question: does action have a constitutive aim–something it aims at just by being an intentional action? Section 7 considers whether omissions are actions, and, if so, how various accounts might accommodate this. Finally, Section 8 explores whether animals can act intentionally.
+    step1: |-
+      本词条分为八节。第 1 节讨论“什么是行动？”这一问题。第 2 节考察一种经典的意向行动说明，它以因果作用来解释意向行动，与唐纳德·戴维森的工作相联系。第 3 节考虑延展行动——需要不止一个瞬间才能完成的行动——对此类理论构成的挑战，尤其是迈克尔·布拉特曼工作中所探讨的挑战，以及对此挑战的各种回应。第 4 节考虑伊丽莎白·安斯康姆提出的实践知识概念，它已成为最重要的与因果理论相竞争的说明的基础。第 5 节探讨行动本体论的基础问题。第 6 节考虑这一问题：行动是否具有构成性目的——某种仅仅因为它是意向行动就追求的目的？第 7 节考虑遗漏是否为行动，若是，各种说明如何容纳这一点。最后，第 8 节探讨动物能否有意向地行动。
+    step2: |-
+      本词条分为八节。第 1 节讨论“什么是行动？”这一问题。第 2 节考察一种经典的意向行动说明，它以因果作用来解释意向行动，与唐纳德·戴维森的工作相联系。第 3 节考虑延展行动——需要不止一个瞬间才能完成的行动——对此类理论构成的挑战，尤其是迈克尔·布拉特曼工作中所探讨的挑战，以及对此挑战的各种回应。第 4 节考虑伊丽莎白·安斯康姆提出的实践知识概念，它已成为最重要的与因果理论相竞争的说明的基础。第 5 节探讨行动本体论的基础问题。第 6 节考虑这一问题：行动是否具有构成性目的——某种仅仅因为它是意向行动就追求的目的？第 7 节考虑遗漏是否为行动，若是，各种说明如何容纳这一点。最后，第 8 节探讨动物能否有意向地行动。
+  - id: 4
+    kind: body
+    source: |-
+      ## 1. About the Question: What is an Action?
+    step1: |-
+      ## 1. 关于问题：什么是行动？
+    step2: |-
+      ## 1. 关于问题：什么是行动？
+  - id: 5
+    kind: body
+    source: |-
+      The central question in philosophy of action is standardly taken to be: “What makes something an action?” However, we obtain different versions of the question depending on what we take as the contrast class from which actions are to be differentiated. The different questions in turn encode important presuppositions. First, we may understand the question as asking us to differentiate between intentional action and the notions of acting and activity considered above (cf. Hyman 2015)[^hyman-2015]. Most commonly, however, the question is taken in terms of Wittgenstein’s classic formulation: “What is left over if I subtract the fact that my arm goes up from the fact that I raise my arm?” (1953 [2010], §621). A common, though contested, reading of this passage is this: there are certain events of an arm’s going up that are actions, and some that are not (e.g. if someone tickles me in my sleep). What further factor does the action have that the event resulting from tickling lacks?
+    step1: |-
+      行动哲学的核心问题通常被理解为：“是什么使某物成为行动？”然而，取决于我们把什么当作据以区分行动的对照类，我们会得到该问题的不同版本。这些不同的问题又蕴含重要预设。首先，我们可以把该问题理解为要求我们区分意向行动与上文考察的行动（acting）与活动（activity）概念（参看 Hyman 2015）[^hyman-2015]。然而，最常见的是按维特根斯坦的经典表述来理解该问题：“如果我从‘我抬起手臂’这一事实中减去‘我的手臂抬起’这一事实，还剩下什么？”（1953 [2010], §621）。对这段话的一种常见但有争议的读法是：有些手臂抬起的事件是行动，有些则不是（例如，有人在我睡着时挠我）。行动具有什么进一步的因素，而挠痒所导致的事件却不具有？
+    step2: |-
+      行动哲学的核心问题通常被理解为：“是什么使某物成为行动？”然而，取决于我们把什么当作据以区分行动的对照类，我们会得到该问题的不同版本。这些不同的问题又蕴含重要预设。首先，我们可以把该问题理解为要求我们区分意向行动与上文考察的行动（acting）与活动（activity）概念（参看 Hyman 2015）[^hyman-2015]。然而，最常见的是按维特根斯坦的经典表述来理解该问题：“如果我从‘我抬起手臂’这一事实中减去‘我的手臂抬起’这一事实，还剩下什么？”（1953 [2010], §621）。对这段话的一种常见但有争议的读法是：有些手臂抬起的事件是行动，有些则不是（例如，有人在我睡着时挠我）。行动具有什么进一步的因素，而挠痒所导致的事件却不具有？
+  - id: 6
+    kind: body
+    source: |-
+      Many historical as well as contemporary thinkers hope to answer just this question. A simple answer, common in the early modern period (e.g. Descartes 1641 AT VII 57; Hobbes 1651/1668, i.6; Hume 1739–1740 T II.3.iii; SB 413–18)[^descartes-1641][^hobbes-1651][^hume-1739], is that what distinguishes actions from other events is that they are the causal outcomes of desires, volitions, or acts of will. A modern version of this view, considered below, appeals instead to intentions, regarded as distinctive mental states. Despite the intuitiveness of these “standard” answers, there have been increasing worries that they are based on disputable assumptions. First, there is an assumption about the metaphysical category to which actions belong. Although it is natural to take them as events, some philosophers have argued that there are good reasons to group them under a different category. Second, the common reading of Wittgenstein’s question presupposes what has been called “additive” or “decompositional” conceptions of action (Ford 2011; Lavin 2015, 2013; cf. Boyle 2016)[^boyle-2016][^ford-2011][^lavin-2015]: it is assumed that an account of action can be given in terms of distinct, and simpler components. However, a number of authors have argued that this reductive project is bound to fail (Anscombe 1995; Vogler 2001; O’Brien 2012; Levy 2013; Horst 2015; Valaris 2015; Della Rocca 2020, ch.4)[^anscombe-1995][^della-2020][^horst-2015][^levy-2013][^o’brien-2012][^valaris-2015][^vogler-2001].
+    step1: |-
+      许多历史与当代思想家都希望回答的正是这一问题。近代早期常见的一个简单回答是：行动区别于其他事件之处，在于它们是欲望、意志行为或意愿行为的因果结果（例如 Descartes 1641 AT VII 57; Hobbes 1651/1668, i.6; Hume 1739–1740 T II.3.iii; SB 413–18）[^descartes-1641][^hobbes-1651][^hume-1739]。下文将考察该观点的一种现代版本，它转而诉诸意图，把意图视为独特的心理状态。尽管这些“标准”回答颇为直观，但人们越来越担心它们基于可疑的假定。首先是一个关于行动所属形而上学范畴的假定。虽然把行动视为事件很自然，但一些哲学家已论证，有充分理由把它们归入另一范畴。其次，对维特根斯坦问题的常见读法预设了所谓“加法式”或“分解式”的行动概念（Ford 2011; Lavin 2015, 2013; 参看 Boyle 2016）[^boyle-2016][^ford-2011][^lavin-2015]：它假定可以用彼此不同且更简单的组分来给出行动说明。然而，不少作者已论证，这一还原方案注定失败（Anscombe 1995; Vogler 2001; O’Brien 2012; Levy 2013; Horst 2015; Valaris 2015; Della Rocca 2020, ch.4）[^anscombe-1995][^della-2020][^horst-2015][^levy-2013][^o’brien-2012][^valaris-2015][^vogler-2001]。
+    step2: |-
+      许多历史与当代思想家都希望回答的正是这一问题。近代早期常见的一个简单回答是：行动区别于其他事件之处，在于它们是欲望、意志行为或意愿行为的因果结果（例如 Descartes 1641 AT VII 57; Hobbes 1651/1668, i.6; Hume 1739–1740 T II.3.iii; SB 413–18）[^descartes-1641][^hobbes-1651][^hume-1739]。下文将考察该观点的一种现代版本，它转而诉诸意图，把意图视为独特的心理状态。尽管这些“标准”回答颇为直观，但人们越来越担心它们基于可疑的假定。首先是一个关于行动所属形而上学范畴的假定。虽然把行动视为事件很自然，但一些哲学家已论证，有充分理由把它们归入另一范畴。其次，对维特根斯坦问题的常见读法预设了所谓“加法式”或“分解式”的行动概念（Ford 2011; Lavin 2015, 2013; 参看 Boyle 2016）[^boyle-2016][^ford-2011][^lavin-2015]：它假定可以用彼此不同且更简单的组分来给出行动说明。然而，不少作者已论证，这一还原方案注定失败（Anscombe 1995; Vogler 2001; O’Brien 2012; Levy 2013; Horst 2015; Valaris 2015; Della Rocca 2020, ch.4）[^anscombe-1995][^della-2020][^horst-2015][^levy-2013][^o’brien-2012][^valaris-2015][^vogler-2001]。
+  - id: 7
+    kind: body
+    source: |-
+      It has also been contended that philosophers who offer the standard answers make important methodological assumptions. These philosophers approach questions about agency as though they were on par with scientific questions to this extent: they seek mechanistic, or causal explanations of agency, explanations that can be grasped from an objective perspective. However, drawing inspiration from Kant, some philosophers contend that philosophy of action should be done from the agential perspective (Nagel 1989; Korsgaard 2009; Bilgrami 2012; Schapiro 2021)[^bilgrami-2012][^korsgaard-2009][^nagel-1989][^schapiro-2021]; and other philosophers drawing from Aristotle and Frege have argued for similar views (Thompson 2008; Lavin 2013; Ford 2017)[^ford-2017][^thompson-2008]. From a different standpoint, the standard methodology has been criticized as not being scientific enough. It has been argued that certain empirical results disprove some of the basic assumptions behind these answers. For example, Libet’s experiments have been taken to suggest that intentions are causally ineffective, and that to understand the true causes of action we would have to focus on neural processes (‘action potentials’) about which we could only learn through standard scientific methods (Libet 1985; Libet et al. 1993)[^libet-1985][^libet-1993]. Although these radical views are now widely held to be based on faulty conceptual and empirical grounds (e.g. Mele. 2010; Levy 2005; Brass, Furstenberg, and Mele 2019)[^brass-2019][^levy-2005][^mele-2010], surprising scientific results continue to challenge commonly held views in philosophy of action (see e.g. Wegner 2002 and Nahmias 2014 for critical discussion of recent findings)[^nahmias-2014][^wegner-2002].
+    step1: |-
+      也有人主张，给出标准回答的哲学家作出了重要的方法论假定。这些哲学家处理能动性问题的方式，在如下意义上与科学问题等量齐观：他们寻求对能动性的机械论说明或因果说明，即可以从客观视角把握的说明。然而，一些哲学家受康德启发，主张行动哲学应当从能动者视角来做（Nagel 1989; Korsgaard 2009; Bilgrami 2012; Schapiro 2021）[^bilgrami-2012][^korsgaard-2009][^nagel-1989][^schapiro-2021]；另一些哲学家则从亚里士多德与弗雷格出发，主张类似观点（Thompson 2008; Lavin 2013; Ford 2017）[^ford-2017][^thompson-2008]。从另一立场看，标准方法论又被批评为不够科学。有人论证，某些经验结果否证了这些回答背后的部分基本假定。例如，利贝特实验曾被用来暗示意图在因果上无效，要理解行动的真正原因，我们必须关注神经过程（“动作电位”），而我们只能通过标准科学方法了解这些过程（Libet 1985; Libet et al. 1993）[^libet-1985][^libet-1993]。尽管这些激进观点如今被广泛认为基于错误的概念与经验根据（例如 Mele. 2010; Levy 2005; Brass, Furstenberg, and Mele 2019）[^brass-2019][^levy-2005][^mele-2010]，令人惊讶的科学结果仍在继续挑战行动哲学中的常见观点（关于近期发现的批判性讨论，参见例如 Wegner 2002 与 Nahmias 2014）[^nahmias-2014][^wegner-2002]。
+    step2: |-
+      也有人主张，给出标准回答的哲学家作出了重要的方法论假定。这些哲学家处理能动性问题的方式，在如下意义上与科学问题等量齐观：他们寻求对能动性的机械论说明或因果说明，即可以从客观视角把握的说明。然而，一些哲学家受康德启发，主张行动哲学应当从能动者视角来做（Nagel 1989; Korsgaard 2009; Bilgrami 2012; Schapiro 2021）[^bilgrami-2012][^korsgaard-2009][^nagel-1989][^schapiro-2021]；另一些哲学家则从亚里士多德与弗雷格出发，主张类似观点（Thompson 2008; Lavin 2013; Ford 2017）[^ford-2017][^thompson-2008]。从另一立场看，标准方法论又被批评为不够科学。有人论证，某些经验结果否证了这些回答背后的部分基本假定。例如，利贝特实验曾被用来暗示意图在因果上无效，要理解行动的真正原因，我们必须关注神经过程（“动作电位”），而我们只能通过标准科学方法了解这些过程（Libet 1985; Libet et al. 1993）[^libet-1985][^libet-1993]。尽管这些激进观点如今被广泛认为基于错误的概念与经验根据（例如 Mele. 2010; Levy 2005; Brass, Furstenberg, and Mele 2019）[^brass-2019][^levy-2005][^mele-2010]，令人惊讶的科学结果仍在继续挑战行动哲学中的常见观点（关于近期发现的批判性讨论，参见例如 Wegner 2002 与 Nahmias 2014）[^nahmias-2014][^wegner-2002]。
+  - id: 8
+    kind: body
+    source: |-
+      In this entry we draw from the work of philosophers working through different methodological paradigms. We will not bring up these differences again, but they may be worth keeping in mind as we consider the various debates below.
+    step1: |-
+      本词条取材于在不同方法论范式下工作的哲学家的成果。我们不会再提及这些差异，但在下文考察各种争论时，它们或许值得记在心里。
+    step2: |-
+      本词条取材于在不同方法论范式下工作的哲学家的成果。我们不会再提及这些差异，但在下文考察各种争论时，它们或许值得记在心里。
+  - id: 9
+    kind: body
+    source: |-
+      ## 2. Causalism and Causal Theories of Action
+    step1: |-
+      ## 2. 因果论与行动因果论
+    step2: |-
+      ## 2. 因果论与行动因果论
+  - id: 10
+    kind: body
+    source: |-
+      Possibly the most widespread and accepted theory of intentional action (though by no means without its challengers) is the causal theory of action, a theory according to which something counts as an intentional action in virtue of its causal connection to certain mental states. In fact, this view is often dubbed (following Velleman 1992) the ‘standard story of action’. Although other philosophers proposed similar views before, the contemporary causal theory of action, or “causalism,” was pioneered by Donald Davidson, especially the essays collected in Davidson (2001a)[^davidson-2001a]. Davidson has contributed to many topics in the philosophy of action, such as action individuation, the logical form of action sentences, the relation between intention and evaluative judgments, among others, but here we will focus mostly on his arguments for, and his formulation of, the causal theory of action. In *Action, Reasons, and Causes* (ARC), Davidson provides an account of the nature of rationalizing explanations of actions, or what is often called ‘intentional explanations’. Such explanations explain the action by providing the reason why the agent acted. ARC tries to understand how a reason can explain an action. The two central theses of ARC, or modified versions of them, became subsequently widely, though certainly not universally, accepted. The first thesis is that the explanation of an action involves a “primary reason”: a belief and a desire pair that rationalizes the action by expressing the end pursued in the action (desire) and how the agent thought the action would accomplish this end (instrumental belief). So, for instance, in “Larry went to Gus the Barber because he wanted a haircut”, Larry’s action is explained by a desire (his wanting a haircut) and a belief, left implicit in this case (his believing that he could get a haircut by going to Gus the Barber). The second central thesis is that the primary reason is also the cause of the action.
+    step1: |-
+      关于意向行动，流传最广、接受度最高的理论（尽管绝非没有挑战者）或许是行动因果论。按此理论，某物凭借其与某些心理状态的因果联系而算作意向行动。事实上，这一观点常被称为（沿袭 Velleman 1992）“行动的标准故事”。尽管此前已有其他哲学家提出类似观点，当代的行动因果论，或称“因果论”，是由唐纳德·戴维森开创的，尤其是收于 Davidson（2001a）的诸篇论文[^davidson-2001a]。戴维森在行动哲学的许多主题上都有贡献，例如行动个体化、行动语句的逻辑形式、意图与评价判断的关系等，但这里我们主要关注他为行动因果论所作的论证及其表述。在《行动、理由与原因》（Action, Reasons, and Causes，简称 ARC）中，戴维森说明了行动的合理化解释——常被称为“意向解释”——的性质。此类解释通过提供行动者行动的理由来解释行动。ARC 试图理解理由如何能够解释行动。ARC 的两个核心论题（或其修正版本）随后被广泛接受，尽管当然并非普遍接受。第一个论题是：对行动的解释涉及一个“首要理由”，即信念与欲望的配对，它通过表达行动所追求的目的（欲望）以及行动者认为该行动将如何实现这一目的（工具性信念）而使行动合理化。例如，在“拉里因为想理发而去格斯理发店”中，拉里的行动由一种欲望（他想理发）和一种在此例中未明言的信念（他相信去格斯理发店就能理发）来解释。第二个核心论题是：首要理由同时也是行动的原因。
+    step2: |-
+      关于意向行动，流传最广、接受度最高的理论（尽管绝非没有挑战者）或许是行动因果论。按此理论，某物凭借其与某些心理状态的因果联系而算作意向行动。事实上，这一观点常被称为（沿袭 Velleman 1992）“行动的标准故事”。尽管此前已有其他哲学家提出类似观点，当代的行动因果论，或称“因果论”，是由唐纳德·戴维森开创的，尤其是收于 Davidson（2001a）的诸篇论文[^davidson-2001a]。戴维森在行动哲学的许多主题上都有贡献，例如行动个体化、行动语句的逻辑形式、意图与评价判断的关系等，但这里我们主要关注他为行动因果论所作的论证及其表述。在《行动、理由与原因》（Action, Reasons, and Causes，简称 ARC）中，戴维森说明了行动的合理化解释——常被称为“意向解释”——的性质。此类解释通过提供行动者行动的理由来解释行动。ARC 试图理解理由如何能够解释行动。ARC 的两个核心论题（或其修正版本）随后被广泛接受，尽管当然并非普遍接受。第一个论题是：对行动的解释涉及一个“首要理由”，即信念与欲望的配对，它通过表达行动所追求的目的（欲望）以及行动者认为该行动将如何实现这一目的（工具性信念）而使行动合理化。例如，在“拉里因为想理发而去格斯理发店”中，拉里的行动由一种欲望（他想理发）和一种在此例中未明言的信念（他相信去格斯理发店就能理发）来解释。第二个核心论题是：首要理由同时也是行动的原因。
+  - id: 11
+    kind: body
+    source: |-
+      ### 2.1 Davidson’s Predecessors and the Central Arguments in the Debate
+    step1: |-
+      ### 2.1 戴维森的前辈与争论中的核心论证
+    step2: |-
+      ### 2.1 戴维森的前辈与争论中的核心论证
+  - id: 12
+    kind: body
+    source: |-
+      Davidson’s view in ARC is presented against a number of philosophers (mostly influenced by Wittgenstein), who, on his view, take action explanations to provide a different kind of understanding than causal explanations (for a sympathetic overview of this Wittgenstein-inspired work, see Sandis 2015)[^sandis-2015]. Some of the identified targets of the paper (such as Melden 1961) are clearly arguing for the views Davidson rejects. Others (such as Anscombe 1957 and Ryle 1949)[^anscombe-1957][^ryle-1949] do not clearly embrace the theses Davidson objects to, or at least not all of them. These philosophers took intentional explanations to display how an action is made intelligible or justified. So Melden says that “citing a motive [gives] a fuller characterization of the action; it [provides] a better understanding of what the [agent] is doing” (Melden 1961, 88). Similarly, Anscombe’s special sense of the question ‘Why?’, discussed below (section 4.1), is supposed to pick out the particular way in which actions are explained. This claim is not one that Davidson denies; according to Davidson, in intentional explanations, or ‘rationalizations’, “the agent is shown in his Role of Rational Animal … There is an irreducible … sense in which every rationalization justifies: from the agent’s point of view there was, when he acted, something to be said for the action.” (Davidson 1963, 690–1)[^davidson-1963]. But Melden, and other Wittgensteineans, argue that this kind of explanation cannot be a causal explanation. Melden’s central argument is the “logical connection” argument. According to Melden, since the supposedly causal antecedents of an action (mental items such as desires and intentions) are logically related to the intentional action (I would not count as intentionally signalling a turn if I did not desire/intend to signal a turn), the explanation of the action in terms of such mental items cannot be an explanation in terms of “Humean causes”. After all, Humean causation connects events that are logically independent.
+    step1: |-
+      戴维森在 ARC 中的观点是针对若干（大多受维特根斯坦影响的）哲学家提出的。在他看来，这些人认为行动解释提供的是一种不同于因果解释的理解（关于这项受维特根斯坦启发的工作的同情性概述，见 Sandis 2015）[^sandis-2015]。该文所确定的一些靶子（如 Melden 1961）显然在论证戴维森所拒斥的观点。另一些（如 Anscombe 1957 与 Ryle 1949）[^anscombe-1957][^ryle-1949] 则并未明确接受戴维森所反对的论题，或至少并未全部接受。这些哲学家认为，意向解释展示了行动如何变得可理解或得到证成。因此，Melden 说：“给出一个动机［会］对行动作出更充分的刻画；它［提供］对［行动者］正在做什么的更好理解”（Melden 1961, 88）。同样，安斯康姆对“为什么？”这一问题的特殊用法（下文第 4.1 节讨论）理应标识出行动得到解释的特定方式。这一主张并非戴维森所否认；按戴维森的说法，在意向解释或“合理化”中，“行动者被展示在‘理性动物’这一角色中……在一种不可还原的意义上，每一种合理化都在证成：从行动者的观点看，当他行动时，该行动总有某种可取之处。”（Davidson 1963, 690–1）[^davidson-1963]。但 Melden 及其他维特根斯坦派论证，这类解释不可能是因果解释。Melden 的核心论证是“逻辑关联”论证。按 Melden 的看法，既然行动所谓的原因性先行项（欲望与意图之类的心理项目）与意向行动有逻辑关联（如果我不想／不意图示意转弯，我就不会算作有意地示意转弯），那么用这类心理项目对行动所作的解释就不可能是用“休谟式原因”所作的解释。毕竟，休谟式因果关系连接的是逻辑上独立的事件。
+    step2: |-
+      戴维森在 ARC 中的观点是针对若干（大多受维特根斯坦影响的）哲学家提出的。在他看来，这些人认为行动解释提供的是一种不同于因果解释的理解（关于这项受维特根斯坦启发的工作的同情性概述，见 Sandis 2015）[^sandis-2015]。该文所确定的一些靶子（如 Melden 1961）显然在论证戴维森所拒斥的观点。另一些（如 Anscombe 1957 与 Ryle 1949）[^anscombe-1957][^ryle-1949] 则并未明确接受戴维森所反对的论题，或至少并未全部接受。这些哲学家认为，意向解释展示了行动如何变得可理解或得到证成。因此，Melden 说：“给出一个动机［会］对行动作出更充分的刻画；它［提供］对［行动者］正在做什么的更好理解”（Melden 1961, 88）。同样，安斯康姆对“为什么？”这一问题的特殊用法（下文第 4.1 节讨论）理应标识出行动得到解释的特定方式。这一主张并非戴维森所否认；按戴维森的说法，在意向解释或“合理化”中，“行动者被展示在‘理性动物’这一角色中……在一种不可还原的意义上，每一种合理化都在证成：从行动者的观点看，当他行动时，该行动总有某种可取之处。”（Davidson 1963, 690–1）[^davidson-1963]。但 Melden 及其他维特根斯坦派论证，这类解释不可能是因果解释。Melden 的核心论证是“逻辑关联”论证。按 Melden 的看法，既然行动所谓的原因性先行项（欲望与意图之类的心理项目）与意向行动有逻辑关联（如果我不想／不意图示意转弯，我就不会算作有意地示意转弯），那么用这类心理项目对行动所作的解释就不可能是用“休谟式原因”所作的解释。毕竟，休谟式因果关系连接的是逻辑上独立的事件。
+  - id: 13
+    kind: body
+    source: |-
+      Davidson’s ARC exposes a crucial fallacy with Melden’s argument (similar problems had been pointed out by Annette Baier (then Annette Stoop) in Stoop 1962). Accepting Hume’s account of causal relations does not commit us to the view that any description of a cause is logically independent of any description of its effect. An event can only be described as “sunburning” if it is caused by exposure to the sun, but this does not mean that the cause of a sunburn is not a “separate entity” from the sunburn. We can describe an event as “The event that caused X” without thereby refuting Humeanism about causation. Davidson argues that, on the contrary, the mental items cited in an action explanation can only explain the action if they are also the cause of the action (the second central thesis of ARC). In our example above, Larry might have had other belief-desire pairs that rationalized his action of going to the barber. For instance, Larry might also have wanted a bottle of cream soda and believed that he could procure such an item at Gus the Barber. However, he did not (we may stipulate) go there because he wanted cream soda but because he wanted a haircut (and believed he could get one at Gus the Barber). The only way we can explain the difference between potentially rationalizing, but non-explanatory belief-desire pairs, is that the belief-desire pair that genuinely explains the action, the primary reason, also causes the action. The question of how non-causal theories can distinguish between merely potentially explanatory reasons for an action from the reasons that actually explain it became known as “Davidson’s Challenge” to non-causal theories of action (Mele 1992; Mele 2013)[^mele-1992][^mele-2013].
+    step1: |-
+      戴维森的 ARC 揭示了 Melden 论证中的一个关键谬误（Annette Baier（当时姓 Stoop）已在 Stoop 1962 中指出类似问题）。接受休谟的因果关系说明，并不使我们承诺如下观点：对原因的任何描述都与其对结果的任何描述在逻辑上独立。一个事件只有由日晒引起，才能被描述为“晒伤”，但这并不意味着晒伤的原因与晒伤不是“分离的实体”。我们可以把某事件描述为“引起 X 的事件”，却并不因此驳倒关于因果作用的休谟主义。戴维森论证，恰恰相反，行动解释所援引的心理项目只有同时也是行动的原因，才能解释该行动（ARC 的第二个核心论题）。在上文例子中，拉里可能还有其他使自己去理发店这一行动合理化的信念—欲望配对。例如，拉里可能也想喝一瓶奶油苏打，并相信他能在格斯理发店弄到这种饮料。然而（我们可以规定），他去那里不是因为他想喝奶油苏打，而是因为他想理发（并相信能在格斯理发店理发）。要解释那些可能使行动合理化但不具解释力的信念—欲望配对与真正解释行动的配对之间的差别，唯一办法是：真正解释行动的那个信念—欲望配对，即首要理由，同时也引起该行动。非因果理论如何区分仅仅可能解释行动的理由与真正解释行动的理由，这一问题被称为针对非因果行动理论的“戴维森挑战”（Mele 1992; Mele 2013）[^mele-1992][^mele-2013]。
+    step2: |-
+      戴维森的 ARC 揭示了 Melden 论证中的一个关键谬误（Annette Baier（当时姓 Stoop）已在 Stoop 1962 中指出类似问题）。接受休谟的因果关系说明，并不使我们承诺如下观点：对原因的任何描述都与其对结果的任何描述在逻辑上独立。一个事件只有由日晒引起，才能被描述为“晒伤”，但这并不意味着晒伤的原因与晒伤不是“分离的实体”。我们可以把某事件描述为“引起 X 的事件”，却并不因此驳倒关于因果作用的休谟主义。戴维森论证，恰恰相反，行动解释所援引的心理项目只有同时也是行动的原因，才能解释该行动（ARC 的第二个核心论题）。在上文例子中，拉里可能还有其他使自己去理发店这一行动合理化的信念—欲望配对。例如，拉里可能也想喝一瓶奶油苏打，并相信他能在格斯理发店弄到这种饮料。然而（我们可以规定），他去那里不是因为他想喝奶油苏打，而是因为他想理发（并相信能在格斯理发店理发）。要解释那些可能使行动合理化但不具解释力的信念—欲望配对与真正解释行动的配对之间的差别，唯一办法是：真正解释行动的那个信念—欲望配对，即首要理由，同时也引起该行动。非因果理论如何区分仅仅可能解释行动的理由与真正解释行动的理由，这一问题被称为针对非因果行动理论的“戴维森挑战”（Mele 1992; Mele 2013）[^mele-1992][^mele-2013]。
+  - id: 14
+    kind: body
+    source: |-
+      ### 2.2 Davidson on the Nature of Intentional Actions
+    step1: |-
+      ### 2.2 戴维森论意向行动的本性
+    step2: |-
+      ### 2.2 戴维森论意向行动的本性
+  - id: 15
+    kind: body
+    source: |-
+      Although initially presented as an account of the nature of action explanation, Davidson’s account also contains the basic structure of an understanding of human action: according to Davidson, a true action statement (of the form “x φ-ed”) denotes an event, and more specifically, a bodily movement. A bodily movement is an action if, and only if, the event is an intentional action (Davidson 1971)[^davidson-1971]. Davidson does not say this explicitly,[^note-2] but clearly on his view, an event is an intentional action under a certain description, if and only if, there is a true rationalizing explanation of the event under this description. Davidson (1971)[^davidson-1971] (following Anscombe) points out that “x φ-ed intentionally” creates an intensional context; that is whether an action is intentional depends on how the action is described. To use Davidson’s example, if I flip a switch, I also turn on the light, and alert the burglar. On Davidson’s view “flipping the switch”, “turning on the light”, and “alerting the burglar” are all descriptions of the same action. The “accordion effect” (so dubbed by Feinberg 1965), characteristic of human action, makes it the case that the causal consequences of an intentional action provide further descriptions of human actions. If my flipping the switch caused the light to go on and the burglar to be alerted, then I also turned the light on and alerted the burglar. However, only the first two are intentional actions. On Davidson’s view, all these descriptions are descriptions of the same action; alerting the burglar is an action in virtue of the fact that these same bodily movements, under a different description, are a case of intentional action (flipping the switch). Thus Davidson concludes that, “we never do more than move our bodies: the rest is up to nature” (Davidson 1971, 23)[^davidson-1971]. We can see now how the claims developed in these papers provide us with a theory of action: an action is a bodily movement such that, under some description, the bodily movement is causally explained by a primary reason.
+    step1: |-
+      戴维森的说明最初虽旨在阐明行动解释的本性，却也包含一种理解人类行动的基本结构：按戴维森的看法，一个为真的行动陈述（形式为“x φ 了”）指称一个事件，更具体地说，指称一个身体运动。一个身体运动是行动，当且仅当该事件是意向行动（Davidson 1971）[^davidson-1971]。戴维森并未明确这样说，[^note-2] 但按他的观点，一个事件在某种描述下是意向行动，当且仅当对该描述下的事件存在一个为真的合理化解释。戴维森（1971）[^davidson-1971]（沿袭安斯康姆）指出，“x 有意向地 φ 了”造成一种内涵语境；也就是说，一个行动是否为意向行动取决于该行动如何被描述。用戴维森的例子：如果我扳动开关，我也打开了灯，并惊动了窃贼。按戴维森的观点，“扳动开关”“打开灯”与“惊动窃贼”都是对同一行动的描述。人类行动特有的“手风琴效应”（Feinberg 1965 如此命名）使得意向行动的因果后果为人类行动提供了更多描述。如果我扳动开关导致了灯亮并使窃贼警觉，那么我也打开了灯并惊动了窃贼。然而，只有前两个是意向行动。按戴维森的观点，所有这些描述都是对同一行动的描述；惊动窃贼之所以是行动，是因为这些相同的身体运动在另一种描述下属于意向行动（扳动开关）。因此戴维森得出结论：“我们从未做得比移动自己的身体更多：其余的都取决于自然”（Davidson 1971, 23）[^davidson-1971]。现在我们可以看到，这些论文中提出的主张如何为我们提供了一种行动理论：行动是这样一种身体运动——在某种描述下，该身体运动由首要理由因果地解释。
+    step2: |-
+      戴维森的说明最初虽旨在阐明行动解释的本性，却也包含一种理解人类行动的基本结构：按戴维森的看法，一个为真的行动陈述（形式为“x φ 了”）指称一个事件，更具体地说，指称一个身体运动。一个身体运动是行动，当且仅当该事件是意向行动（Davidson 1971）[^davidson-1971]。戴维森并未明确这样说，[^note-2] 但按他的观点，一个事件在某种描述下是意向行动，当且仅当对该描述下的事件存在一个为真的合理化解释。戴维森（1971）[^davidson-1971]（沿袭安斯康姆）指出，“x 有意向地 φ 了”造成一种内涵语境；也就是说，一个行动是否为意向行动取决于该行动如何被描述。用戴维森的例子：如果我扳动开关，我也打开了灯，并惊动了窃贼。按戴维森的观点，“扳动开关”“打开灯”与“惊动窃贼”都是对同一行动的描述。人类行动特有的“手风琴效应”（Feinberg 1965 如此命名）使得意向行动的因果后果为人类行动提供了更多描述。如果我扳动开关导致了灯亮并使窃贼警觉，那么我也打开了灯并惊动了窃贼。然而，只有前两个是意向行动。按戴维森的观点，所有这些描述都是对同一行动的描述；惊动窃贼之所以是行动，是因为这些相同的身体运动在另一种描述下属于意向行动（扳动开关）。因此戴维森得出结论：“我们从未做得比移动自己的身体更多：其余的都取决于自然”（Davidson 1971, 23）[^davidson-1971]。现在我们可以看到，这些论文中提出的主张如何为我们提供了一种行动理论：行动是这样一种身体运动——在某种描述下，该身体运动由首要理由因果地解释。
+  - id: 16
+    kind: body
+    source: |-
+      This also gives us the barebones of a causal theory of action: according to “causalists”, intentional action is explained in terms of mental states that are the causal antecedents, or concomitants, of the agent’s behaviour or bodily movement. Subsequent to Davidson, causalists have aimed to provide reductive explanations: intentional action is identified with behaviour or bodily movement (or in less “ambitious” versions of the view, a more general form of action, see Setiya 2011)[^setiya-2011] whose causal antecedents (or concomitants) are certain specified mental states. Although Davidson himself is often portrayed as proposing a reductive analysis, he never presents any of his views as fulfilling such ambition and expresses skepticism that such analysis is possible given the problem of deviance (see below).
+    step1: |-
+      这也为我们提供了行动因果论的骨架：按“因果论者”的看法，意向行动要用心理状态来解释，这些心理状态是行动者行为或身体运动的因果先行项或伴随项。在戴维森之后，因果论者力求提供还原式解释：他们把意向行动等同于行为或身体运动（或者在较不“雄心勃勃”的版本中，等同于更一般的行动形式，见 Setiya 2011）[^setiya-2011]，其因果先行项（或伴随项）是某些特定心理状态。尽管戴维森本人常被描绘为提出了一种还原分析，但他从未把自己的任何观点呈现为实现了这种雄心，并且鉴于偏离问题（见下文），他对这种分析是否可能表示怀疑。
+    step2: |-
+      这也为我们提供了行动因果论的骨架：按“因果论者”的看法，意向行动要用心理状态来解释，这些心理状态是行动者行为或身体运动的因果先行项或伴随项。在戴维森之后，因果论者力求提供还原式解释：他们把意向行动等同于行为或身体运动（或者在较不“雄心勃勃”的版本中，等同于更一般的行动形式，见 Setiya 2011）[^setiya-2011]，其因果先行项（或伴随项）是某些特定心理状态。尽管戴维森本人常被描绘为提出了一种还原分析，但他从未把自己的任何观点呈现为实现了这种雄心，并且鉴于偏离问题（见下文），他对这种分析是否可能表示怀疑。
+  - id: 17
+    kind: body
+    source: |-
+      ### 2.3 Mental states as the causal explanans of actions
+    step1: |-
+      ### 2.3 心理状态作为行动的因果解释项
+    step2: |-
+      ### 2.3 心理状态作为行动的因果解释项
+  - id: 18
+    kind: body
+    source: |-
+      The idea that an action is rationalized by its mental states is still very popular; much less so is the view that the only relevant states are beliefs and desires (though see Sinhababu 2017 for a modern defense of this simple “Humean” account)[^sinhababu-2017]. As Bratman (1987)[^bratman-1987] argues, desires do not have the conduct-controlling and settling functions characteristic of intentions, and thus intentions seem to be better placed to be at the center of an account in which intentional actions are constituted by their causal genesis. My desire to have my teeth cleaned, when conjoined with my belief that in order to get my teeth cleaned I need to go to a dentist, will not result in my moving towards the dentist until I actually *intend* to go to the dentist. In fact, when Velleman comes to dub this kind of causal theory of action “the standard story of action”, he explicitly describes the view as one in which intention plays a central role between the “primary reason” and the action. In the standard story, the agent’s “desire for the end, and his belief in the action as a means … *jointly cause an intention to take it*, which in turn causes the corresponding movements of the agent’s body.” (Velleman 1992, 461). Davidson (1970b)[^davidson-1970b] himself came to accept that intentions play an important role in the causation and constitution of action and that intentions could not be reduced to beliefs or desires. But common to all these views is the idea that human actions are events that bear the right kind of causal relation to certain mental states or events of the agent that also explain the action.
+    step1: |-
+      行动由其心理状态合理化，这一观念仍然十分流行；不那么流行的是如下观点：唯一相关的状态是信念与欲望（不过可参看 Sinhababu 2017 对这一简单“休谟式”说明的现代辩护）[^sinhababu-2017]。正如 Bratman（1987）[^bratman-1987] 所论证，欲望不具有意图特有的控制行为与定夺功能，因此意图似乎更适合居于这样一种说明的中心：意向行动由其因果发生过程构成。我想清洁牙齿的欲望，连同“要清洁牙齿就得去看牙医”这一信念，并不会使我走向牙医，除非我实际 **意图** 去看牙医。事实上，当 Velleman 把这种行动因果论称为“行动的标准故事”时，他明确把该观点描述为：意图在“首要理由”与行动之间起核心作用。在标准故事中，行动者“对目的的欲望，以及他把行动视为手段的信念…… **共同导致采取该行动的意图**，后者又导致行动者身体的相应运动。”（Velleman 1992, 461）。戴维森（1970b）[^davidson-1970b] 本人后来也接受，意图在行动的因果作用与构成中起重要作用，且意图不能还原为信念或欲望。但所有这些观点的共同之处在于：人类行动是与行动者的某些心理状态或事件具有恰当因果联系的事件，而这些心理状态或事件同时也解释该行动。
+    step2: |-
+      行动由其心理状态合理化，这一观念仍然十分流行；不那么流行的是如下观点：唯一相关的状态是信念与欲望（不过可参看 Sinhababu 2017 对这一简单“休谟式”说明的现代辩护）[^sinhababu-2017]。正如 Bratman（1987）[^bratman-1987] 所论证，欲望不具有意图特有的控制行为与定夺功能，因此意图似乎更适合居于这样一种说明的中心：意向行动由其因果发生过程构成。我想清洁牙齿的欲望，连同“要清洁牙齿就得去看牙医”这一信念，并不会使我走向牙医，除非我实际 **意图** 去看牙医。事实上，当 Velleman 把这种行动因果论称为“行动的标准故事”时，他明确把该观点描述为：意图在“首要理由”与行动之间起核心作用。在标准故事中，行动者“对目的的欲望，以及他把行动视为手段的信念…… **共同导致采取该行动的意图**，后者又导致行动者身体的相应运动。”（Velleman 1992, 461）。戴维森（1970b）[^davidson-1970b] 本人后来也接受，意图在行动的因果作用与构成中起重要作用，且意图不能还原为信念或欲望。但所有这些观点的共同之处在于：人类行动是与行动者的某些心理状态或事件具有恰当因果联系的事件，而这些心理状态或事件同时也解释该行动。
+  - id: 19
+    kind: body
+    source: |-
+      One alternative to the causal view understands agency as a form of irreducible agent-causation. Chisholm (1964)[^chisholm-1964] presents a classic version of the view; Alvarez and Hyman (1998) presents a radically different version which denies that agents cause the actions themselves; Mayr (2011)[^mayr-2011] develops a version of the view that, unlike Chisholm’s version, tries to show that human agency is not essentially different from other forms of substance causation that we find in the natural world. A second alternative sees intentional explanations as teleological rather than causal explanations (Wilson 1980; Cleveland 1997; Schueler 2003; Sehon 2005)[^cleveland-1997][^schueler-2003][^sehon-2005][^wilson-1980]; that is, an intentional explanation cites the goal, the purpose, or the reason for which the agent acted *rather than* the antecedent causes of the action. Defenders of this view also try to provide an understanding of the teleological structure of intentional action that denies that teleological explanations reduce to causal explanations; they are instead a *sui generis* form of explanation. One way this view can meet Davidson’s Challenge is to argue that the truth of certain counterfactuals distinguishes potential reasons from the actual reasons. For instance, it could be true that even though the fact that the asparagus was delicious was a potential reason for Mary to eat asparagus, she would not have eaten them if they were not healthy and she would have eaten them even if they were not delicious (Löhrer and Sehon 2016)[^löhrer-2016]; such counterfactuals, on this view, are not grounded on causal relations between mental states and the bodily movements, but on the teleological structures that constitute intentional action. Finally, the causal account also contrasts with the neo-Aristotelian view in which human action is constituted, roughly, by a special form of practical knowledge (Anscombe 1957)[^anscombe-1957]; on this view, in intentional action, “knowledge is the [formal] cause of what it understands” (see section 4 of this entry).
+    step1: |-
+      因果观点的一种替代方案把能动性理解为一种不可还原的行动者因果性。Chisholm（1964）[^chisholm-1964] 给出了该观点的经典版本；Alvarez 与 Hyman（1998）给出了一个截然不同的版本，它否认行动者引起行动本身；Mayr（2011）[^mayr-2011] 发展出一种版本，与 Chisholm 的版本不同，它试图表明人类能动性与我们在自然界中发现的其他实体因果形式并无本质区别。第二种替代方案把意向解释视为目的论解释而非因果解释（Wilson 1980; Cleveland 1997; Schueler 2003; Sehon 2005）[^cleveland-1997][^schueler-2003][^sehon-2005][^wilson-1980]；也就是说，意向解释援引行动者行动的目的、目标或理由，**而非** 行动的先行原因。该观点的辩护者还试图提供一种对意向行动目的论结构的理解，否认目的论解释可还原为因果解释；它们毋宁是一种 *sui generis* 的解释。该观点回应戴维森挑战的一种方式是论证：某些反事实的真值可区分潜在理由与实际理由。例如，情形可能是：尽管芦笋美味是玛丽吃芦笋的潜在理由，但如果芦笋不健康，她就不会吃；而即使芦笋不美味，她也会吃（Löhrer and Sehon 2016）[^löhrer-2016]；按该观点，这类反事实并非基于心理状态与身体运动之间的因果关系，而是基于构成意向行动的目的论结构。最后，因果说明还与一种新亚里士多德主义观点形成对比：按该观点，人类行动大体上由一种特殊形式的实践知识构成（Anscombe 1957）[^anscombe-1957]；在该观点看来，在意向行动中，“知识是其所理解之物的［形式］原因”（见本词条第 4 节）。
+    step2: |-
+      因果观点的一种替代方案把能动性理解为一种不可还原的行动者因果性。Chisholm（1964）[^chisholm-1964] 给出了该观点的经典版本；Alvarez 与 Hyman（1998）给出了一个截然不同的版本，它否认行动者引起行动本身；Mayr（2011）[^mayr-2011] 发展出一种版本，与 Chisholm 的版本不同，它试图表明人类能动性与我们在自然界中发现的其他实体因果形式并无本质区别。第二种替代方案把意向解释视为目的论解释而非因果解释（Wilson 1980; Cleveland 1997; Schueler 2003; Sehon 2005）[^cleveland-1997][^schueler-2003][^sehon-2005][^wilson-1980]；也就是说，意向解释援引行动者行动的目的、目标或理由，**而非** 行动的先行原因。该观点的辩护者还试图提供一种对意向行动目的论结构的理解，否认目的论解释可还原为因果解释；它们毋宁是一种 *sui generis* 的解释。该观点回应戴维森挑战的一种方式是论证：某些反事实的真值可区分潜在理由与实际理由。例如，情形可能是：尽管芦笋美味是玛丽吃芦笋的潜在理由，但如果芦笋不健康，她就不会吃；而即使芦笋不美味，她也会吃（Löhrer and Sehon 2016）[^löhrer-2016]；按该观点，这类反事实并非基于心理状态与身体运动之间的因果关系，而是基于构成意向行动的目的论结构。最后，因果说明还与一种新亚里士多德主义观点形成对比：按该观点，人类行动大体上由一种特殊形式的实践知识构成（Anscombe 1957）[^anscombe-1957]；在该观点看来，在意向行动中，“知识是其所理解之物的［形式］原因”（见本词条第 4 节）。
+  - id: 20
+    kind: body
+    source: |-
+      ### 2.4 The Problem of Causal Deviance
+    step1: |-
+      ### 2.4 因果偏离问题
+    step2: |-
+      ### 2.4 因果偏离问题
+  - id: 21
+    kind: body
+    source: |-
+      Let us take the following as the general form of a (reductive) causal theory of action:
+    step1: |-
+      让我们把以下形式当作（还原式）行动因果论的一般形式：
+    step2: |-
+      让我们把以下形式当作（还原式）行动因果论的一般形式：
+  - id: 22
+    kind: body
+    source: |-
+      > An event (bodily movement) *B* is an intentional action if and only if it is an event caused by mental states [S₁, … Sₙ].
+    step1: |-
+      > 一个事件（身体运动）*B* 是意向行动，当且仅当它是由心理状态 [S₁, … Sₙ] 引起的事件。
+    step2: |-
+      > 一个事件（身体运动）*B* 是意向行动，当且仅当它是由心理状态 [S₁, … Sₙ] 引起的事件。
+  - id: 23
+    kind: body
+    source: |-
+      We can immediately see how to generate counterexamples to any such formula: find cases in which there is a causal path from [S₁, …, Sₙ] to *B*, but not through the “normal” causal path that would presumably give rise to the bodily movement in a genuine case of action. This is the problem of deviance for the causal theory of action; Davidson himself was among the first who provided classical examples of such causal deviance for his own account of action (but Frankfurt 1978’s presentation of the problem was particularly influential)[^frankfurt-1978]:
+    step1: |-
+      我们可以立刻看出如何为任何此类公式构造反例：找出这样的情形——从 [S₁, …, Sₙ] 到 *B* 存在一条因果路径，但它不是经由真正行动情形中大概会产生该身体运动的那条“正常”因果路径。这就是行动因果论的偏离问题；戴维森本人是最早为其行动说明给出此类因果偏离经典例子的人之一（但 Frankfurt 1978 对该问题的呈现尤具影响力）[^frankfurt-1978]：
+    step2: |-
+      我们可以立刻看出如何为任何此类公式构造反例：找出这样的情形——从 [S₁, …, Sₙ] 到 *B* 存在一条因果路径，但它不是经由真正行动情形中大概会产生该身体运动的那条“正常”因果路径。这就是行动因果论的偏离问题；戴维森本人是最早为其行动说明给出此类因果偏离经典例子的人之一（但 Frankfurt 1978 对该问题的呈现尤具影响力）[^frankfurt-1978]：
+  - id: 24
+    kind: body
+    source: |-
+      > A climber might want to rid himself of the weight and danger of holding another man on a rope, and he might know that by loosening his hold on the rope he could rid himself of the weight and danger. This belief and want might so unnerve him as to cause him to loosen his hold, and yet it might be the case that he never chose to loosen his hold, nor did he do it intentionally. (Davidson 1973, 153–4)[^davidson-1973]
+    step1: |-
+      > 一个登山者可能想摆脱用绳子拉住另一个人的重量与危险，并且可能知道，只要松开绳子，他就能摆脱这种重量与危险。这一信念与欲望可能使他如此紧张不安，以致引起他松开绳子，然而情形可能是：他从未选择松开绳子，也不是有意为之。（Davidson 1973, 153–4）[^davidson-1973]
+    step2: |-
+      > 一个登山者可能想摆脱用绳子拉住另一个人的重量与危险，并且可能知道，只要松开绳子，他就能摆脱这种重量与危险。这一信念与欲望可能使他如此紧张不安，以致引起他松开绳子，然而情形可能是：他从未选择松开绳子，也不是有意为之。（Davidson 1973, 153–4）[^davidson-1973]
+  - id: 25
+    kind: body
+    source: |-
+      This is a case of what is often called “primary deviance” (Mele and Moser 1994)[^mele-1994], in which the bodily movements in question are not even actions, but the causal theory seems to imply they are. In contrast, in cases of “secondary deviance”, the theory misdescribes one of the consequences of the action as intentional when it clearly is not. The same Davidson paper provides an example of the latter:
+    step1: |-
+      这是常被称为“原发偏离”的情形（Mele and Moser 1994）[^mele-1994]：其中所涉身体运动甚至不是行动，但因果论似乎蕴涵它们是行动。相反，在“继发偏离”情形中，该理论把行动的某个后果错误地描述为意向性的，而该后果显然不是。同一篇戴维森论文为后一种情形提供了例子：
+    step2: |-
+      这是常被称为“原发偏离”的情形（Mele and Moser 1994）[^mele-1994]：其中所涉身体运动甚至不是行动，但因果论似乎蕴涵它们是行动。相反，在“继发偏离”情形中，该理论把行动的某个后果错误地描述为意向性的，而该后果显然不是。同一篇戴维森论文为后一种情形提供了例子：
+  - id: 26
+    kind: body
+    source: |-
+      > A man may try to kill someone by shooting at him. Suppose the killer misses his victim by a mile, but the shot stampedes a herd of wild pigs that trample the intended victim to death. Do we want to say the man killed his victim intentionally? (Davidson 1973, 152–3)[^davidson-1973]
+    step1: |-
+      > 一个人可能试图枪杀某人。假设凶手差了一英里没打中受害者，但枪声惊动了一群野猪，野猪把预定受害者踩死了。我们想说这个人有意杀死了他的受害者吗？（Davidson 1973, 152–3）[^davidson-1973]
+    step2: |-
+      > 一个人可能试图枪杀某人。假设凶手差了一英里没打中受害者，但枪声惊动了一群野猪，野猪把预定受害者踩死了。我们想说这个人有意杀死了他的受害者吗？（Davidson 1973, 152–3）[^davidson-1973]
+  - id: 27
+    kind: body
+    source: |-
+      There are very many attempts to solve the problem of causal deviance for a causal theory of action and we cannot cover in detail any of them or mention all of them; here we’ll just list a few influential strategies (and, of course, some solutions incorporate more than one of these strategies). The first appeals to the notion of a “proximate cause” (Mele 1992)[^mele-1992] such that an action is intentional only if, for instance, the formation of an intention to φ is the proximate cause of your φ-ing. Another family of solutions appeal to sensitivity and feedback conditions (Peacocke 1979; Bishop 1989; Smith 2012)[^bishop-1989][^peacocke-1979][^smith-2012]: the climber’s bodily movements would not count as an intentional action because they would not be sensitive to variations in conditions and information on what needs to be done (the climber would not release their hands differently if the rope turned out to be stickier or would not change their behaviour if they were to realize that the rope had a safety latch fastened to their hips). A different type of approach (though with some relevant similarities to the latter) takes the central problem for the Davidsonian approach, the reason why the problem of deviance is endemic to Davidson’s causalism, to be the attempt to understand action in terms of its *causal antecedents*, rather than its *sustaining* causes. For Frankfurt (1978)[^frankfurt-1978] the relevant causal mechanisms involved must be guiding the action. Given that action is a form of purposive behaviour, we cannot hope to understand what distinguishes action from mere bodily movements by focusing on what *precedes* the action, rather than by what happens *while the agent is acting*. As Setiya puts it:
+    step1: |-
+      为行动因果论解决因果偏离问题的尝试非常之多，我们无法详细讨论其中任何一种，也无法全部提及；这里只列出若干有影响力的策略（当然，有些解决方案融合了不止一种策略）。第一种策略诉诸“近因”概念（Mele 1992）[^mele-1992]：例如，只有当做 φ 的意图之形成是你做 φ 的近因时，行动才是意向性的。另一类解决方案诉诸敏感性与反馈条件（Peacocke 1979; Bishop 1989; Smith 2012）[^bishop-1989][^peacocke-1979][^smith-2012]：登山者的身体运动不会算作意向行动，因为这些运动对条件变化以及关于需要做什么的信息不敏感（如果绳子更黏，登山者不会以不同方式松手；或者，如果他意识到绳子上有安全扣系在腰间，他也不会改变行为）。另一种进路（尽管与后一类有一些相关相似之处）认为，戴维森式进路的中心问题——偏离问题何以在戴维森因果论中根深蒂固——在于它试图根据行动的 **因果先行项** 而非 **维持性原因** 来理解行动。对 Frankfurt（1978）[^frankfurt-1978] 而言，所涉及的因果机制必须始终在引导行动。既然行动是一种有目的的行为，我们就不能指望靠关注行动 **之前** 发生了什么、而不是关注 **行动者行动之际** 发生了什么，来理解行动与单纯身体运动的区别。正如 Setiya 所说：
+    step2: |-
+      为行动因果论解决因果偏离问题的尝试非常之多，我们无法详细讨论其中任何一种，也无法全部提及；这里只列出若干有影响力的策略（当然，有些解决方案融合了不止一种策略）。第一种策略诉诸“近因”概念（Mele 1992）[^mele-1992]：例如，只有当做 φ 的意图之形成是你做 φ 的近因时，行动才是意向性的。另一类解决方案诉诸敏感性与反馈条件（Peacocke 1979; Bishop 1989; Smith 2012）[^bishop-1989][^peacocke-1979][^smith-2012]：登山者的身体运动不会算作意向行动，因为这些运动对条件变化以及关于需要做什么的信息不敏感（如果绳子更黏，登山者不会以不同方式松手；或者，如果他意识到绳子上有安全扣系在腰间，他也不会改变行为）。另一种进路（尽管与后一类有一些相关相似之处）认为，戴维森式进路的中心问题——偏离问题何以在戴维森因果论中根深蒂固——在于它试图根据行动的 **因果先行项** 而非 **维持性原因** 来理解行动。对 Frankfurt（1978）[^frankfurt-1978] 而言，所涉及的因果机制必须始终在引导行动。既然行动是一种有目的的行为，我们就不能指望靠关注行动 **之前** 发生了什么、而不是关注 **行动者行动之际** 发生了什么，来理解行动与单纯身体运动的区别。正如 Setiya 所说：
+  - id: 28
+    kind: body
+    source: |-
+      > In the case of basic action, the crucial concept is that of *guidance*: when an agent intentionally φs, he *wants* to φ, and this desire not only causes but continues to guide behaviour towards its object. (It is this condition that fails in Davidson’s example). (Setiya 2007, 32)[^setiya-2007]
+    step1: |-
+      > 就基本行动而言，关键概念是 **引导**：当行动者有意向地 φ 时，他 **想要** φ，而这种欲望不仅引起行为，还持续引导行为朝向其对象。（戴维森的例子所缺失的正是这一条件）。（Setiya 2007, 32）[^setiya-2007]
+    step2: |-
+      > 就基本行动而言，关键概念是 **引导**：当行动者有意向地 φ 时，他 **想要** φ，而这种欲望不仅引起行为，还持续引导行为朝向其对象。（戴维森的例子所缺失的正是这一条件）。（Setiya 2007, 32）[^setiya-2007]
+  - id: 29
+    kind: body
+    source: |-
+      In the case of secondary deviance, a seemingly promising approach is to require that a “non-basic” action counts as intentional only if (roughly) it follows the agent’s plan (Mele and Moser 1994)[^mele-1994]. Davidson’s killer’s plan to kill his enemy did not involve a stampede, and thus it should not count as intentional action.
+    step1: |-
+      就继发偏离而言，一个看似有希望的办法是要求：“非基本”行动只有（大致）遵循行动者的计划时，才算意向行动（Mele and Moser 1994）[^mele-1994]。戴维森笔下凶手的杀敌计划并不包括惊动野猪，因此不应算作意向行动。
+    step2: |-
+      就继发偏离而言，一个看似有希望的办法是要求：“非基本”行动只有（大致）遵循行动者的计划时，才算意向行动（Mele and Moser 1994）[^mele-1994]。戴维森笔下凶手的杀敌计划并不包括惊动野猪，因此不应算作意向行动。
+  - id: 30
+    kind: body
+    source: |-
+      Another strategy has been developed by “empirically informed” philosophers, who hold that attention to the details of control mechanisms implemented at the cognitive level yields a response to the deviance problem. For example, it has been argued that cases of deviance involve lack of attention (Wu 2016), failures at the fine-grained level of motor (as opposed to distal and proximal) intentions (Mylopoulos and Pacherie 2019)[^mylopoulos-2019], or failures in the causal pathways responsible for flexible agency (Shepherd 2021)[^shepherd-2021].
+    step1: |-
+      另一种策略由受经验研究启发的哲学家提出，他们认为关注认知层面所实现的控制机制细节，可以为偏离问题提供回答。例如，有人论证，偏离情形涉及注意力缺失（Wu 2016）、运动意图（而非远端与近端意图）这一精细层面的失败（Mylopoulos and Pacherie 2019）[^mylopoulos-2019]，或负责灵活能动性的因果通路失败（Shepherd 2021）[^shepherd-2021]。
+    step2: |-
+      另一种策略由受经验研究启发的哲学家提出，他们认为关注认知层面所实现的控制机制细节，可以为偏离问题提供回答。例如，有人论证，偏离情形涉及注意力缺失（Wu 2016）、运动意图（而非远端与近端意图）这一精细层面的失败（Mylopoulos and Pacherie 2019）[^mylopoulos-2019]，或负责灵活能动性的因果通路失败（Shepherd 2021）[^shepherd-2021]。
+  - id: 31
+    kind: body
+    source: |-
+      Needless to say, there is no agreed upon solution to the problem of deviance (for general skepticism about the possibility of a solution see Anscombe 1995; Vogler 2001; O’Brien 2012; Levy 2013; Horst 2015; Valaris 2015)[^anscombe-1995][^horst-2015][^levy-2013][^o’brien-2012][^valaris-2015][^vogler-2001]; on the other hand, philosophers have also argued that competing accounts suffer from problems that parallel the problem of deviant causation for theories of action (Paul 2011b)[^paul-2011b].
+    step1: |-
+      毋庸赘言，关于偏离问题尚无公认的解决方案（关于解决方案之可能性的普遍怀疑，见 Anscombe 1995; Vogler 2001; O’Brien 2012; Levy 2013; Horst 2015; Valaris 2015）[^anscombe-1995][^horst-2015][^levy-2013][^o’brien-2012][^valaris-2015][^vogler-2001]；另一方面，哲学家也论证，竞争性说明同样受制于与行动理论中偏离因果问题相平行的问题（Paul 2011b）[^paul-2011b]。
+    step2: |-
+      毋庸赘言，关于偏离问题尚无公认的解决方案（关于解决方案之可能性的普遍怀疑，见 Anscombe 1995; Vogler 2001; O’Brien 2012; Levy 2013; Horst 2015; Valaris 2015）[^anscombe-1995][^horst-2015][^levy-2013][^o’brien-2012][^valaris-2015][^vogler-2001]；另一方面，哲学家也论证，竞争性说明同样受制于与行动理论中偏离因果问题相平行的问题（Paul 2011b）[^paul-2011b]。

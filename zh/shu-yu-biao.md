@@ -96,6 +96,7 @@
 | accidentality | — | 偶在性 | existentialism-mexican | 亚里士多德偶性（accident）范畴之存在方式义译；取“偶在性”以别于“偶然性”（contingency）；凭证 2026-11-12 | 2026-11-12 |
 | accidents | — | 偶性 | 语料回收（marsilius-inghen 首译） | 学界惯例；经院哲学通行译法（accidentia）；凭证 2026-11-06；撞形豁免 2026-11-21：亚里士多德 accident 与阿维森纳 aʿrāḍ 同概念异语，不合并 | 2026-11-21 |
 | accommodation | — | 顺应（亦作“容纳”） | 语料回收（词汇表并网） | 按语境取义：科学哲学“顺应”、语用学“顺应”，认知论“容纳（新证据）”义（日志 2024-04-21 纠“住宿”误译）；词汇表并网（ADR-0036）；2026-11-21 撞形处置：删“调节”（视觉生理学义非本条语境，与他行 tashkīk 撞形） | 2026-11-21 |
+| accordion effect | — | 手风琴效应 | 首现（action） | 构词直译（Feinberg 1965 命名；2026-11-27 联网检索中文哲学文献无对口固定译名，凭证 results/t216-review.md） | 2026-11-27 |
 | Account | — | 解释；说明；原理 | 语料回收（词汇表并网） | 按语境取义（give an account of 译“对……给出说明/解释”）；词汇表并网（ADR-0036）；撞形豁免 2026-11-21：多义占位行（解释/说明/原理），与 interpretation、tafsīr 分行按条区分，不合并 | 2026-11-21 |
 | accountability | — | 问责 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·新闻学与传播学·媒体与传播法·媒体责任与公共服务，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | accounting price | — | 核算价格 | ramsey-economics | 学界惯例（von Weizsacker 1965；社会成本收益分析）；凭证 2026-11-11 | 2026-11-11 |
@@ -112,6 +113,7 @@
 | act-utilitarianism / act utilitarianism | — | 行为功利主义（亦作“行为功利论”） | godwin | 功利主义分类标准译名；2026-11-09 合并同键变体（来源列并双 slug）；2026-11-15 联网复核补亦作（审定形“行为功利论”；“行动功利主义”为少数译本形，账留不堆叠）；2026-11-23 合并同日重复登记形（同概念异拼写：act utilitarianism） | 2026-11-15 |
 | action | — | 行动 | 语料回收（标题词） | 学界惯例（语料回收（标题词，specs/011 主题词汇解析 a/action））；凭证 2026-11-04 | 2026-11-04 |
 | action at a distance | — | 超距作用 | newton | 物理学通行；凭证 2026-11-08；审定名词库（termonline-all·自然辩证法名词 03.399，2024，物理学哲学）作“超距作用”，与本行一致（2026-11-24 JWT 直连，凭证 termonline-b1-2026-11-24.tsv） | 2026-11-08 |
+| action individuation | — | 行动个体化 | 首现（action） | 学界通行（行动哲学；戴维森行动个体化论题）；凭证 2026-11-27（results/t216-review.md） | 2026-11-27 |
 | action model | — | 行动模型 | 语料回收（specs/058 全库提取） | 学界通行译名（动态认知逻辑；西南大学逻辑与智能研究中心《西南大学—卑尔根大学逻辑工作坊》综述（2024-03-27/28）述 Galimullin 报告“结合公开宣告逻辑与行动模型”，与 BMS action model 相应；审定库无对口命中，2026-11-24） | 2026-11-24 |
 | action quantum | — | 量子作用（亦作“作用量子”） | bohr-correspondence 首译 | 审定作“量子作用”（quantum of action，物理学名词 06.0375；英文为异序形，2026-11-26 索引复核） | 2026-11-26 |
 | action theory | — | 行动理论 | anscombe 首现 | 学界惯例（行动哲学核心分支）；凭证 2026-11-12 | 2026-11-12 |
@@ -224,6 +226,7 @@
 | agenda | — | 议程 | belief-merging | 学界通行（社会选择理论与判断聚合文献）；凭证 2026-11-10 | 2026-11-10 |
 | agens praecipuum | agens praecipuum | 首要动原 | vives | 义译（principal agent），De anima et vita 灵魂定义语 | 2026-11-25 |
 | agent causality | — | 行动者因果性 | bradley-moral 首译 | 学界通行译名（布拉德雷与英国观念论研究文献）；凭证 2026-11-08 | 2026-11-08 |
+| agent causation (philosophy of action) | — | 行动者因果性 | 首现（action） | 学界通行（与 agent causality 同概念；中文文献有“行动者因果性理论”用例，2026-11-27 联网检索，凭证 results/t216-review.md）；撞形豁免 2026-11-27：与 agent causation / exemplar causation（动力因作用）同形异义（行动哲学／中世纪），按条目语境分立，不合并 | 2026-11-27 |
 | agent causation / exemplar causation | — | 动力因作用／范型因作用 | analogy-medieval 首译 | 学界通行（agent 施动因与 exemplar 范型因对举）；凭证 2026-11-08 | 2026-11-08 |
 | agent intellect | — | 能动理智 | delmedigo | 学界通行（亚里士多德 nous poietikos 通译之一；亦作“主动理智”）；删亦作“主动理智”（与他行主译撞形，2026-11-21 撞形处置） | 2026-11-21 |
 | agent model | — | 行动者模型 | moral-responsibility-empirical | 学界惯例；AI 与认知科学通行（Russell & Norvig 的 agent） | 2026-11-07 |
@@ -992,6 +995,7 @@
 | causal connection | — | 因果联系 | 语料回收（specs/058 全库提取） | 学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22） | 2026-11-22 |
 | Causal Decision Theory | — | 因果决策论 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·自然辩证法·科学哲学·分支科学哲学·数学哲学，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | causal determinism | — | 因果决定论 | 语料回收（specs/058 全库提取） | 学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22） | 2026-11-22 |
+| causal deviance | — | 因果偏离 | 首现（action） | 学界通行汉译（与 deviant causal chain＝偏离的因果链 同族）；凭证 2026-11-27（results/t216-review.md） | 2026-11-27 |
 | causal essentialism | — | 因果本质主义 | 首现（zombies） | 学界惯例（形而上学通行）；凭证 2026-11-10 | 2026-11-10 |
 | causal explanation | — | 因果说明 | 语料回收 | 审定名词库（termonline-all·自然辩证法名词“因果说明的可操控性观念”复合词佐证，2026-10-29 浏览器通道凭证） | 2026-10-29 |
 | causal factors | — | 因果因素 | 语料回收（specs/058 全库提取） | 学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22） | 2026-11-22 |
@@ -1010,8 +1014,10 @@
 | causal role | — | 因果作用 | 语料回收（specs/058 全库提取） | 学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22） | 2026-11-22 |
 | causal structure | — | 因果结构 | 语料回收（specs/058 全库提取） | 学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22） | 2026-11-22 |
 | causal theory | — | 因果理论 | 语料回收（specs/058 全库提取） | 学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22） | 2026-11-22 |
+| causal theory of action | — | 行动因果论（亦作“行动的因果理论”） | 首现（action） | 学界通行（戴维森行动哲学；2026-11-27 联网检索中文文献多作“行动因果论／行动因果理论”，凭证 results/t216-review.md） | 2026-11-27 |
 | causal transmission | — | 因果传递 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-24）；凭证 2026-11-24 | 2026-11-24 |
 | causal-doxastic theory | — | 因果—信念论 | basing-epistemic 首译 | 构词直译，与因果论／信念论对举；凭证 2026-11-08 | 2026-11-08 |
+| causalism | — | 因果论 | 首现（action） | 学界通行（行动哲学，与“非因果论”对举）；凭证 2026-11-27（results/t216-review.md） | 2026-11-27 |
 | causality | — | 因果性 | 语料回收（标题词） | 学界惯例（学界传统通行译法（specs/011 传统对照审查 2026-11-04））；凭证 2026-11-04 | 2026-11-04 |
 | causally relevant | — | 因果相关 | 语料回收（specs/058 全库提取） | 学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22） | 2026-11-22 |
 | causally sufficient condition | — | 因果充分条件 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
@@ -2724,6 +2730,7 @@
 | expressiveness | — | 表现力（音乐的情感表现） | music | 学界通行；凭证 2026-11-09 | 2026-11-09 |
 | expressivism | — | 表达主义（expressivist 表达主义者） | aesthetic-testimony | 学界惯例；元伦理学通行译法（Gibbard 式规范表达主义）；美学证言论战语境沿用 | 2026-11-11 |
 | expulsive faculty | — | 排出官能 | la-forge | 经院生理学术语直译（facultas expulsiva）；凭证 2026-11-09 | 2026-11-09 |
+| extended action | — | 延展行动 | 首现（action） | 学界惯例（布拉特曼行动哲学；构词直译，2026-11-27 登记） | 2026-11-27 |
 | extended cognition | — | 延展认知 | 语料回收（specs/050 候选池） | 审定名词库（termonline-all·自然辩证法·科学哲学·分支科学哲学·认知科学哲学，2026-11-18 JWT 直连凭证） | 2026-11-19 |
 | extended discourse | — | 扩展话语 | ricoeur | 利科术语（discours étendu）；本词条首译；凭证 2026-11-11 | 2026-11-11 |
 | extended fiction | — | 扩展虚构 | deductivism-mathematics | Leng 虚构主义术语；凭证 2026-11-08 | 2026-11-08 |
@@ -3896,6 +3903,7 @@
 | intentional agency | — | 意向性能动性 | innateness-cognition | 首译（Tomasello 2022）；凭证 2026-11-12 | 2026-11-12 |
 | intentional content | — | 意向内容 | 语料回收（specs/058 全库提取） | 学界通行（教科书级标准术语，specs/058 A 档直裁；审定库命中他义或形不完全一致，未采；凭证 2026-11-22） | 2026-11-22 |
 | intentional design | — | 有意设计 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
+| intentional explanation | — | 意向解释 | 首现（action） | 学界惯例（戴维森；与“合理化解释”同族）；凭证 2026-11-27（results/t216-review.md） | 2026-11-27 |
 | intentional inexistence | — | 意向内的存在（布伦塔诺） | 语料回收（标题词） | 学界惯例（布伦塔诺现象学术语）；审定库无相关命中（凭证 2026-10-31；2026-11-26 界面精确匹配复核：0 条） | 2026-11-26 |
 | intentional object / conceived object(zhen yul) | ཞེན་ཡུལ་ | 意向境（zhen yul，亦作“所执境”） | epistemology-language-tibetan | 量论通译+英译对齐（intentional object）；原文列联网查证：Monlam 藏英词典 zhen yul 条（“conceived object; referent objec（2026-11-14 查，凭证 orig-verify-2026-11-14-b8.tsv）；键形归一 2026-11-21：全角括注／斜线改半角（键须为源语形）；旧键 intentional object / conceived object（zhen yul） | 2026-11-21 |
 | Intentional realism | — | 意向实在论 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
@@ -6273,6 +6281,7 @@
 | prima facie evidence | — | 初步证据 | 语料回收（specs/050 候选池） | 海峡两岸名词对照库（termonline-all·航海科学技术，2026-11-18 JWT 直连凭证；非审定公布库） | 2026-11-25 |
 | primal impressions | — | 原初印象 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | primary beauty / secondary beauty | — | 首要之美／次要之美 | edwards 首译 | 自译裁定（《真美德》true/primary beauty 与 secondary beauty 之别；不译“初级/次级”以免与逻辑层级混同）；凭证 2026-11-10 | 2026-11-10 |
+| primary deviance | — | 原发偏离 | 首现（action） | 构词直译（Mele & Moser 1994 区分 primary／secondary deviance；与“继发偏离”对举）；凭证 2026-11-27（results/t216-review.md） | 2026-11-27 |
 | primary intelligibles | — | 第一可理解物 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | primary obligation | — | 初级义务 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | primary quality | — | 第一性质 | 语料回收（molyneux-problem 首译） | 学界惯例（洛克研究通行译法，与第二性质对举）；凭证 2026-11-06 | 2026-11-06 |
@@ -6693,6 +6702,7 @@
 | rationalism | — | 唯理论；理性主义 | 语料回收 | 知网系查证无收录（GB 标准库凭证在案 2026-10-28）；审定库复核一致（termonline-all 浏览器通道凭证 2026-10-29；2026-11-25 界面精确匹配复核在案） | 2026-11-25 |
 | Rationalist | — | 理性主义者 | 语料回收（specs/050 候选池） | 海峡两岸名词对照库（termonline-all·心理学，2026-11-18 JWT 直连凭证；非审定公布库） | 2026-11-25 |
 | rationality | — | 合理性 | 首现（旧版 Wisdom 词条，上游已撤） | 学界通行（与理性 reason 区分）；凭证 2026-11-07；2026-11-26 核：首现原记 slug“wisdom”，上游 /entries/wisdom/ 已 404（2026-07 起由 wisdom-analytic《Wisdom in Contemporary Analytic Philosophy》接替），本库未收旧版文本，改记来源说明 | 2026-11-26 |
+| rationalization (action) | — | 合理化 | 首现（action） | 学界惯例（戴维森行动理论；rationalizing explanation＝合理化解释）；凭证 2026-11-27（results/t216-review.md） | 2026-11-27 |
 | rationes seminales | rationes seminales | 种子理性 | binarium 首译 | 学界通行汉译（奥古斯丁 rationes seminales）；凭证 2026-11-08 | 2026-11-08 |
 | rationing | — | 配给 | disability-care-rationing | 学界惯例；卫生经济学通行（health care rationing 医疗配给）；凭证 2026-11-08 | 2026-11-08 |
 | Ratnagotravibhāga | — | 《宝性论》 | yogacara 首译 | 汉文古译（《究竟一乘宝性论》）；文献译名；原文列待考；凭证 2026-11-11；原文列：工具书查无原生文字（2026-11-20 检 wisdomlib／GND／BDRC／84000／Logeion，均无“转写↔原生文字”显式配对，部分源不可达；映射表推演禁用，ADR-0030） | 2026-11-11 |
@@ -7208,6 +7218,7 @@
 | second-order volitions | — | 二阶意愿 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | second-person experience | — | 第二人称体验 | omnipresence | 学界通行（Stump 语；第二人称）；凭证 2026-11-08 | 2026-11-08 |
 | secondary causes | — | 次级原因 | la-forge | 学界通行（与第一原因对举）；凭证 2026-11-09；撞形豁免 2026-11-21：与 sabab 语境对应（偶因论），不合并 | 2026-11-21 |
+| secondary deviance | — | 继发偏离 | 首现（action） | 构词直译（与 primary deviance＝原发偏离 对举）；凭证 2026-11-27（results/t216-review.md） | 2026-11-27 |
 | secondary intelligible | — | 次级可理解物 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | secondary literature | — | 二手文献 | 语料回收（zh 频次审计 2026-11-25） | 文献学与学术规范通行（参照文献节体例用）；审定库无对口命中，2026-11-25；凭证 2026-11-25 | 2026-11-25 |
 | secondary qualities | — | 第二性质 | hobbes-science 首译 | 学界通行（洛克—霍布斯认识论术语）；凭证 2026-11-11 | 2026-11-11 |
@@ -7720,6 +7731,7 @@
 | standard account | — | 标准说明 | paradox-suspense | 构词直译（Ortony 等人的悬念理论）；凭证 2026-11-09 | 2026-11-09 |
 | standard deviation | — | 标准差 | risk | 审定名词库统计学术语通行译名；凭证 2026-11-09 | 2026-11-09 |
 | standard model | — | 标准模型 | 语料回收（specs/058 全库提取） | 审定名词库（航天科学技术名词·航天科学技术_空气动力学与飞行原理，2005，06.576；凭证 2026-11-22） | 2026-11-22 |
+| standard story of action | — | 行动的标准故事 | 首现（action） | 学界通行（Velleman 1992 命名；戴维森因果论通称）；凭证 2026-11-27（results/t216-review.md） | 2026-11-27 |
 | standard synchrony | — |标准同步（亦作“标准同时性”）| spacetime-convensimul | 学界惯例（ε=1/2 情形；亦作“标准同时性”） | 2026-11-06 |
 | standard theory (of conditions) | — | 标准理论 | necessary-sufficient | 本词条命名（Blumberg 等教材进路的通称）；凭证 2026-11-08 | 2026-11-08 |
 | standard translation | — | 标准翻译 | logic-hybrid | 学界惯例；模态逻辑研究通行（standard translation）；凭证 2026-11-09 | 2026-11-09 |
@@ -7972,6 +7984,7 @@
 | suspense | — | 悬念 | paradox-suspense | 学界惯例；电影与叙事美学通行译法（suspense 通译“悬念”；SUMMARY 条目标题沿用既有“悬疑悖论”命名，正文术语统一作“悬念”）；凭证 2026-11-09 | 2026-11-09 |
 | suspension of judgment | — | 悬置判断 | epistemology-latin-america 首译 | 学界通行（古代怀疑论）；旧键“suspending judgement”并入（2026-11-21 逐行研判；旧键首现：首现（imprecise-probabilities）） | 2026-11-21 |
 | suspicio | suspicio | 疑念 | 首现（simon-faversham） | 学界（Marmo 1990 论修辞学接受；保留拉丁）；凭证 2026-11-08 | 2026-11-08 |
+| sustaining cause | — | 维持性原因 | 首现（action） | 构词直译（Frankfurt 1978 引导论；与“先行原因”对举）；凭证 2026-11-27（results/t216-review.md） | 2026-11-27 |
 | Suszko's Thesis | — | 苏什科论题 | 语料回收（specs/058 全库提取） | 学界通行译名（审定库无对口命中，2026-11-23）；凭证 2026-11-23 | 2026-11-23 |
 | svabhāva | स्वभाव | 自性（佛教） | 语料回收 | 学界惯例（佛典译语）；审定“自性”（prakrti，自然辩证法名词）系数论概念，与佛教 svabhāva 非同概念，不采（2026-11-26 界面复核）；撞形豁免 2026-11-26：同形异义（数论 prakṛti 与佛教 svabhāva），不合并 | 2026-11-26 |
 | svārthānumāna | स्वार्थानुमान | 为己比量 | jaina-philosophy | 因明传统译名；旧键“svārtha”并入（2026-11-21 FLAG 裁定） | 2026-11-21 |
