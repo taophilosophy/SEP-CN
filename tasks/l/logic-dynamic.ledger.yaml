@@ -84,9 +84,9 @@ segments:
     source: |-
       Additional topics related to PDL include results concerning comparative power of expression, decidability, complexity, and completeness of a number of interesting variants obtained by extending or restricting PDL in various ways. Since its inception, many variants of PDL have received attention. These variants may consider deterministic programs, restricted tests, non-regular programs, programs as automata, complementation and intersection of programs, converse and infinite computations, etc. We will present some of them in section 4, providing some pointers regarding their relative expressivity, their axiomatizations, and their computational complexity.
     step1: |-
-      与 PDL 相关的其他主题包括：关于若干有趣变体的比较表达力、可判定性、复杂度与完全性的结果，这些变体通过以各种方式扩展或限制 PDL 而得到。自 PDL 诞生以来，许多变体受到关注。这些变体可能考虑确定的程序、受限的测试、非正则程序、作为自动机的程序、程序的补与交、逆与无限计算，等等。我们将在第 4 节呈现其中一些，并提供关于其相对表达力、公理化与计算复杂度的若干指引。
+      与 PDL 相关的其他主题包括：关于若干有趣变体的比较表达力、可判定性、复杂性与完全性的结果，这些变体通过以各种方式扩展或限制 PDL 而得到。自 PDL 诞生以来，许多变体受到关注。这些变体可能考虑确定的程序、受限的测试、非正则程序、作为自动机的程序、程序的补与交、逆与无限计算，等等。我们将在第 4 节呈现其中一些，并提供关于其相对表达力、公理化与计算复杂度的若干指引。
     step2: |-
-      与 PDL 相关的其他主题包括：关于若干有趣变体的比较表达力、可判定性、复杂度与完全性的结果，这些变体通过以各种方式扩展或限制 PDL 而得到。自 PDL 诞生以来，许多变体受到关注。这些变体可能考虑确定的程序、受限的测试、非正则程序、作为自动机的程序、程序的补与交、逆与无限计算，等等。我们将在第 4 节呈现其中一些，并提供关于其相对表达力、公理化与计算复杂度的若干指引。
+      与 PDL 相关的其他主题包括：关于若干有趣变体的比较表达力、可判定性、复杂性与完全性的结果，这些变体通过以各种方式扩展或限制 PDL 而得到。自 PDL 诞生以来，许多变体受到关注。这些变体可能考虑确定的程序、受限的测试、非正则程序、作为自动机的程序、程序的补与交、逆与无限计算，等等。我们将在第 4 节呈现其中一些，并提供关于其相对表达力、公理化与计算复杂度的若干指引。
   - id: 11
     kind: body
     source: |-
@@ -108,9 +108,9 @@ segments:
     source: |-
       We present the syntax and semantics of PDL in section 2.1. The proof theory of PDL is presented in section 2.2 with axiomatizations and pointers to the literature on completeness. We address the problem of decidability and complexity in section 2.3.
     step1: |-
-      我们在 §2.1 呈现 PDL 的句法与语义。PDL 的证明论在 §2.2 呈现，并给出公理化与完全性文献指引。我们在 §2.3 讨论可判定性与复杂度问题。
+      我们在 §2.1 呈现 PDL 的句法与语义。PDL 的证明论在 §2.2 呈现，并给出公理化与完全性文献指引。我们在 §2.3 讨论可判定性与复杂性问题。
     step2: |-
-      我们在 §2.1 呈现 PDL 的句法与语义。PDL 的证明论在 §2.2 呈现，并给出公理化与完全性文献指引。我们在 §2.3 讨论可判定性与复杂度问题。
+      我们在 §2.1 呈现 PDL 的句法与语义。PDL 的证明论在 §2.2 呈现，并给出公理化与完全性文献指引。我们在 §2.3 讨论可判定性与复杂性问题。
   - id: 14
     kind: body
     source: |-
@@ -755,9 +755,9 @@ segments:
     source: |-
       An alternative formulation of a deducibility predicate for PDL exploits an infinitary rule of inference, as for instance in Goldblatt [1992a]. (An infinitary rule of inference takes an infinite number of premises.) Let $\vdash'$ be the deducibility predicate corresponding in the language of propositional dynamic logic to the least normal modal logic containing every instance of the axiom schemas (A1), (A2), (A3) and (A4) and closed under the following infinitary rule of inference:
     step1: |-
-      PDL 可推演谓词的另一种表述方式，利用一条无穷推理规则，例如见 Goldblatt [1992a]。（无穷推理规则取无穷多个前提。）设 $\vdash'$ 为命题动态逻辑语言中对应于下述最小正规模态逻辑的可推演谓词：该逻辑包含公理图式 (A1)、(A2)、(A3) 与 (A4) 的每一实例，并在下述无穷推理规则下封闭：
+      PDL 可推演谓词的另一种表述方式，利用一条无穷推理规则，例如见 Goldblatt [1992a]。（无穷推理规则取无穷多个前提。）设 $\vdash'$ 为命题动态逻辑语言中对应于下述最小正规模态逻辑的可推演谓词，该逻辑包含公理图式 (A1)、(A2)、(A3) 与 (A4) 的每一实例，并在下述无穷推理规则下封闭：
     step2: |-
-      PDL 可推演谓词的另一种表述方式，利用一条无穷推理规则，例如见 Goldblatt [1992a]。（无穷推理规则取无穷多个前提。）设 $\vdash'$ 为命题动态逻辑语言中对应于下述最小正规模态逻辑的可推演谓词：该逻辑包含公理图式 (A1)、(A2)、(A3) 与 (A4) 的每一实例，并在下述无穷推理规则下封闭：
+      PDL 可推演谓词的另一种表述方式，利用一条无穷推理规则，例如见 Goldblatt [1992a]。（无穷推理规则取无穷多个前提。）设 $\vdash'$ 为命题动态逻辑语言中对应于下述最小正规模态逻辑的可推演谓词，该逻辑包含公理图式 (A1)、(A2)、(A3) 与 (A4) 的每一实例，并在下述无穷推理规则下封闭：
   - id: 81
     kind: body
     source: |-
@@ -803,17 +803,17 @@ segments:
     source: |-
       ### 2.3 Decidability and complexity
     step1: |-
-      ### 2.3 可判定性与复杂度
+      ### 2.3 可判定性与复杂性
     step2: |-
-      ### 2.3 可判定性与复杂度
+      ### 2.3 可判定性与复杂性
   - id: 87
     kind: body
     source: |-
       The aim of the complexity theory is to establish the computability of the property sat $A$ in terms of resources of time or space. The complexity of a logic $\mathcal{L}$ is often identified with the problem of deciding the satisfiability of its formulas, defined as:
     step1: |-
-      复杂性理论的目标，在于以时间或空间资源来确立性质 sat $A$ 的可计算性。逻辑 $\mathcal{L}$ 的复杂度，常被等同于判定其公式可满足性的问题，该问题定义如下：
+      复杂性理论的目标，在于以时间或空间资源来确立性质 sat $A$ 的可计算性。逻辑 $\mathcal{L}$ 的复杂性，常被等同于判定其公式可满足性的问题，该问题定义如下：
     step2: |-
-      复杂性理论的目标，在于以时间或空间资源来确立性质 sat $A$ 的可计算性。逻辑 $\mathcal{L}$ 的复杂度，常被等同于判定其公式可满足性的问题，该问题定义如下：
+      复杂性理论的目标，在于以时间或空间资源来确立性质 sat $A$ 的可计算性。逻辑 $\mathcal{L}$ 的复杂性，常被等同于判定其公式可满足性的问题，该问题定义如下：
   - id: 88
     kind: body
     source: |-
@@ -835,9 +835,9 @@ segments:
     source: |-
       In this section, we investigate the complexity of the following decision problem:
     step1: |-
-      本节我们考察下述判定问题的复杂度：
+      本节我们考察下述判定问题的复杂性：
     step2: |-
-      本节我们考察下述判定问题的复杂度：
+      本节我们考察下述判定问题的复杂性：
   - id: 91
     kind: body
     source: |-
@@ -1214,9 +1214,9 @@ segments:
     source: |-
       The expression $\langle\alpha\rangle B$ means that there is an execution of *α* that terminates in a state that satisfies $B$. Moreover, if *α* is deterministic, this possible terminating execution is the unique execution of *α*. Thus, if one first manages to prove that a program is deterministic, this trick works well enough to prove its total correctness.
     step1: |-
-      表达式 $\langle\alpha\rangle B$ 的意思是：*α* 有一次执行终止于满足 $B$ 的状态。此外，若 *α* 确定，则它可能终止的执行只有一次。因此，若能先证明一个程序是确定的，这一手法就足以用来证明它的完全正确性。
+      表达式 $\langle\alpha\rangle B$ 的意思是：*α* 有一次执行终止于满足 $B$ 的状态。此外，若 *α* 是确定的，则其可能终止的执行只有一次。因此，若能先证明一个程序是确定的，这一手法就足以用来证明它的完全正确性。
     step2: |-
-      表达式 $\langle\alpha\rangle B$ 的意思是：*α* 有一次执行终止于满足 $B$ 的状态。此外，若 *α* 确定，则它可能终止的执行只有一次。因此，若能先证明一个程序是确定的，这一手法就足以用来证明它的完全正确性。
+      表达式 $\langle\alpha\rangle B$ 的意思是：*α* 有一次执行终止于满足 $B$ 的状态。此外，若 *α* 是确定的，则其可能终止的执行只有一次。因此，若能先证明一个程序是确定的，这一手法就足以用来证明它的完全正确性。
   - id: 129
     kind: body
     source: |-
