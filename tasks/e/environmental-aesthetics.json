@@ -2,8 +2,16 @@
   "slug": "environmental-aesthetics",
   "kind": "retranslate",
   "zh_doc": "zh/e/environmental-aesthetics.md",
-  "state": "cleared",
-  "steps": [],
+  "state": "ex-04_checked",
+  "steps": [
+    {
+      "step": "ex-04",
+      "status": "ok",
+      "actor": "trae-main",
+      "at": "2026-11-27T10:04:35Z",
+      "evidence": "T149 ex-04 源审计完成：en_integrity clean 1/1（hard 0、资产缺件 0）；en_source_audit hard 0、warn 2（win2016/sum2024 均为 SEP 存档版 URL 段，false-positive）；结构计数：脚注定义 369、标记 489（不同键 341）、标题 24、表 1、图 0、公式 0；无 Critical/Major；证据 results/t149-review.md"
+    }
+  ],
   "blockers": [],
   "created_at": "2026-11-01T11:02:17Z",
   "version_pin": {
