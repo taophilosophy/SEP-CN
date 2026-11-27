@@ -16,7 +16,7 @@
     "system": "DeepSeek-V4.1-Flash",
     "disclosure": "任务 evidence 与词条译后编辑记录"
   },
-  "state": "sg-02_checked",
+  "state": "done",
   "steps": [
     {
       "step": "ex-04",
@@ -44,7 +44,7 @@
       "status": "ok",
       "actor": "trae-main",
       "at": "2026-11-27T09:38:30Z",
-      "evidence": "T145 tr-04 二校完成：check_prose 12→0（12 处逐条改写，无豁免）；check_style/check_quotes/check_pairs 0、check_math_zh 0 硬错误、check_academic --strict 无硬错误、check_all 23/23；改写后账本重建 301 段（300 body＋1 oir），step2 与正文 300/300 块一致；证据 results/t145-tr04.md"
+      "evidence": "T145 tr-04 二校完成：check_prose 12→0（12 处逐条改写，无豁免）；check_style/check_quotes/check_pairs 0、check_math_zh 0 硬错误、check_academic --strict 无硬错误、check_all 23/23；改写后账本重建 301 段（300 body＋1 oir），step2 与正文 300/300 块一致；证据 results/t145-tr04.md；补记（2026-11-27）：语体：现代汉语学术书面语，二校后全文一致"
     },
     {
       "step": "rv-01",
@@ -122,6 +122,21 @@
       "actor": "trae-main",
       "at": "2026-11-27T10:02:29Z",
       "evidence": "T148 sg-02 复审通过：六段逻辑链完整；七节指代与跨节呼应一致（内外偏好/优先基/其他条件不变/CP 网）；图 1–8 与图 A/B 引用对应；问题单无 Critical/Major，Minor 2 同 sg-01；未改文；证据 results/t148-sg02.md；sg-03 待用户显式 mandate"
+    },
+    {
+      "step": "sg-03",
+      "status": "ok",
+      "actor": "user",
+      "at": "2026-11-27T10:09:42Z",
+      "evidence": "T148 sg-03 终审签字（user）：交付清单完整（正文 §1–§8、H1/pubinfo、尾节六序、脚注 67、账本 301 段、SUMMARY 链接）；version_pin dae6ec00…b922b 有效；check_all 23/23、check_academic --strict 与 check_math_zh --strict 0 硬错误；六轴 gate 0；同源盲区已按 rv-02 密度统计＋冷置回读补偿；遗留观察 3 条不阻断；证据 results/t148-sg03.md",
+      "mandate": "2026-11-27 用户指令：请授权 sg-03 并继续；范围：zh/l/logic-preference.md 终审"
+    },
+    {
+      "step": "done",
+      "status": "ok",
+      "actor": "user",
+      "at": "2026-11-27T10:09:46Z",
+      "evidence": "sg-03 用户签字后置 done：用户 2026-11-27 授权 sg-03（范围 zh/l/logic-preference.md）；check_all 23/23；交付清单完整、version_pin 有效、六轴 gate 0；证据 results/t148-sg03.md"
     }
   ],
   "blockers": [],
