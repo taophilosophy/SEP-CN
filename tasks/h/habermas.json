@@ -16,7 +16,7 @@
     "system": "DeepSeek-V4.1-Flash",
     "disclosure": "任务 evidence 与词条译后编辑记录"
   },
-  "state": "tr-02_checked",
+  "state": "tr-03_checked",
   "steps": [
     {
       "step": "ex-04",
@@ -31,6 +31,13 @@
       "actor": "trae-main",
       "at": "2026-11-27T00:54:37Z",
       "evidence": "LLM 辅助初译＋full PE（译后编辑）；账本 tasks/h/habermas.ledger.yaml（16 段，source 逐段回源、step1/step2 双版）；样章 §1–§2 约 2,350 汉字；check_style 0 issue；check_terms 硬错误 0；check_pairs 尾节与两条勘误承载为样章已知缺口（T133 补齐）"
+    },
+    {
+      "step": "tr-03",
+      "status": "ok",
+      "actor": "trae-main",
+      "at": "2026-11-27T02:05:13Z",
+      "evidence": "T134 一校完成（首轮）：账本 239 段守恒、239/239 step2；check_pairs/check_style/check_academic --strict/check_math_zh 0 硬错误；残留外文 0；逐节锚点抽核无硬错误；术语混形与源缺陷候选挂 T136／勘误表；证据 results/t134-review.md"
     }
   ],
   "blockers": [],
