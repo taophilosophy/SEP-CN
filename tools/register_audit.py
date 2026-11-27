@@ -57,28 +57,36 @@ def _load_lexicon():
 _load_lexicon()
 
 
-def scan(path):
-    text = ax.read_doc(path)
-    slug = ax.slug_of(path)
+def scan_text(text, slug):
+    """扫描一篇正文；issue 的 line 为全文绝对行号（节内相对行号＋节首偏移）。"""
     issues, sections = [], []
     for head, body in ax.h2_sections(text):
+        m = re.search(r"(?m)^" + re.escape(head) + r"$", text)
+        offset = text.count("\n", 0, m.start()) if m else 0
         sections.append({"section": head, "register": "", "verdict": "pending"})
         for line_no, base, sent in ax.sentences(body):
+            abs_line = line_no + offset
             clean = sent
             for pat, label in CLASSICAL:
                 if re.search(pat, clean):
-                    issues.append({"rule": "R-d", "line": line_no, "label": label,
+                    issues.append({"rule": "R-d", "line": abs_line, "label": label,
                                    "detail": ax.snippet(clean), "verdict": "pending"})
             for w in COLLOQUIAL:
                 if w in clean:
-                    issues.append({"rule": "R-e", "line": line_no, "label": "口语/网络词：%s" % w,
+                    issues.append({"rule": "R-e", "line": abs_line, "label": "口语/网络词：%s" % w,
                                    "detail": ax.snippet(clean, 60), "verdict": "pending"})
             for w, label in ADDRESS:
                 if w in clean:
-                    issues.append({"rule": "R-f", "line": line_no, "label": label,
+                    issues.append({"rule": "R-f", "line": abs_line, "label": label,
                                    "detail": ax.snippet(clean, 60), "verdict": "pending"})
-    return slug, {"schema": "register-report/v1", "slug": slug,
-                  "sections": sections, "issues": issues}
+    return {"schema": "register-report/v1", "slug": slug,
+            "sections": sections, "issues": issues}
+
+
+def scan(path):
+    text = ax.read_doc(path)
+    slug = ax.slug_of(path)
+    return slug, scan_text(text, slug)
 
 
 def report_path(slug):
