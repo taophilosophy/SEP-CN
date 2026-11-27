@@ -209,12 +209,12 @@
 
 > 依据 `results/layout-migration-plan.md`。目标：`en/` 与 `yuanwen/` 互换目录名；`a–z`、`1`、`fang-fa-lun`、`guan-yu`、`jian-yi-shu`、`qian-yan` 归入新建 `zh/`；`SUMMARY.md` 迁入 `zh/SUMMARY.md`；站点接受 `/zh/…`、`/en/…` 新前缀；同步工具链、日志、记忆、文档、任务书、specs、`.vitepress` 与壳仓 `taophilosophy.github.io`。T202–T207 为原子步骤，顺序不可跳；开始／结束各打 `batch/064-migrate-start|end`。
 
-- [ ] T202 [S16] 盘点与备份：生成 `en/`、`yuanwen/`、27 个字母目录、4 个中文目录、`SUMMARY.md`、`.gitbook.yaml`、`.vitepress/` 的文件清单（路径＋SHA-256＋字节数），复制到 `state/layout-backup/2026-11-27/`；登记壳仓 HEAD 与 `deploy.yml`／`README.md` 路径引用现状；生成回退脚本——验收：清单与备份校验一致、回退步骤可执行；证据 `results/t202-review.md`
+- [x] T202 [S16] 起点登记（免备份）：按用户 2026-11-27 裁定不设 `state/layout-backup`，以 Git 历史为唯一回退；记录起始 commit、`git status`、待迁目录清单与回退命令；壳仓 HEAD 与路径引用现状留档——验收：起始 commit 与回退命令可复核、工作区干净；证据 `results/t202-review.md`
 - [ ] T203 [S16] 双写 en／yuanwen＋站点常量：以旧 `yuanwen/` 生成新 `en/`（Markdown 镜像，含 `SUMMARY.md`、`SUMMARY-en.md`、`.gitbook.yaml`、`assets/`），以旧 `en/` 生成新 `yuanwen/`（HTML）；复制 `SUMMARY.md` 为 `zh/SUMMARY.md`；旧目录仍在备份中；同步 `axis_lib`、`fetch_entry`、`yuanwen.py`、`en_*` 等工具常量；改 `.vitepress/config.mts` 的分片、SUMMARY 路径、配对、侧栏、srcExclude、locales、watch，改 `prepare-gitstamps.mjs` 排除项与 `VersionPin.vue` 镜像判定——验收：只读门禁与抽样路径解析通过；证据 `results/t203-review.md`（前置 T202）
 - [ ] T204 [S16] 根目录归集 `zh/`＋壳仓：移动 27 个字母目录＋4 个中文目录到 `zh/`；改写 `zh/SUMMARY.md` 与根级说明页链接；更新 `rules/layout.json`、`check_*` 扫描根、`tasks/**/*.json` 的 `zh_doc`；同步 `.vitepress/README.md`；更新壳仓 `README.md` 布局说明，复核 `deploy.yml` 路径不需改——验收：`SUMMARY` 无失效链接、任务 `zh_doc` 全解析、壳仓说明与新布局一致；证据 `results/t204-review.md`（前置 T203）
 - [ ] T205 [S16] 历史文本改写：`journal/`、`specs/`、`rules/`、`README`／`AGENTS`、`.vitepress/README.md`、壳仓 `README.md`、项目记忆中的旧路径与 `en`／`yuanwen` 语义一并改写；生成旧→新映射表；不改写 Git 历史——验收：旧路径扫描仅剩映射表与归档说明；证据 `results/t205-review.md`（前置 T204）
 - [ ] T206 [S16] 全量验证：`check_all` 23/23、`unittest discover`、VitePress 分片构建（至少 `ad`，最好四片＋合并）、壳仓 `bun run build`、`/zh/…` 与 `/en/…` 页面与死链检查、GitBook 两份配置可解析、11 件抽样三路径解析；修复残余——验收：门禁全绿、站点与壳仓构建通过、抽样通过；证据 `results/t206-review.md`（前置 T205）
-- [ ] T207 [S16] 收口：二次确认后删除备份与旧目录；更新 `PROGRESS.md`、`schedule.md`、`axioms-tasks.md`；提交并推送本仓与壳仓（壳仓只含壳侧改动）；打 `batch/064-migrate-end`——验收：两仓工作区干净、远端同步、回退备份已按指示处置；证据 `results/t207-review.md`（前置 T206）
+- [ ] T207 [S16] 收口：确认无误后提交并推送本仓与壳仓（壳仓只含壳侧改动）；更新 `PROGRESS.md`、`schedule.md`、`axioms-tasks.md`；打 `batch/064-migrate-end`——验收：两仓工作区干净、远端同步；证据 `results/t207-review.md`（前置 T206）
 
 ## 非本卡工作项与交接（不计入 W／114）
 

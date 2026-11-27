@@ -23,11 +23,11 @@
 
 ## 2 双写与回退
 
-1. **T202 备份**：`en/`、`yuanwen/`、27 个字母目录、4 个中文目录、`SUMMARY.md`、`.gitbook.yaml`、`.vitepress/` 清单化并复制到 `state/layout-backup/2026-11-27/`；同时记录壳仓 HEAD 与 `deploy.yml`／`README.md` 的路径引用现状；生成 SHA-256 清单与回退脚本。
-2. **T203 双写**：以旧 `yuanwen/` 生成新 `en/`，以旧 `en/` 生成新 `yuanwen/`；复制 `SUMMARY.md` 为 `zh/SUMMARY.md`；旧目录保留，可随时回退。
+1. **T202 起点登记**：按用户 2026-11-27 裁定**不设备份目录**，以 Git 历史为唯一回退；记录起始 commit、`git status` 与待迁目录清单，回退方式为 `git restore`／`git reset --hard <起始 commit>`。
+2. **T203 双写**：以旧 `yuanwen/` 生成新 `en/`，以旧 `en/` 生成新 `yuanwen/`；复制 `SUMMARY.md` 为 `zh/SUMMARY.md`；旧目录由 Git 跟踪，可随时回退。
 3. **T204 归集**：移动 27 个字母目录＋4 个中文目录到 `zh/`；改写 `zh/SUMMARY.md` 与根级说明页链接；同步 `rules/layout.json`、扫描器与任务 JSON。
-4. **T206 验证**：全量门禁、单测、`zh`／`en`／`yuanwen` 三路径抽样、VitePress 分片构建与壳仓构建；不过即从备份回退。
-5. **T207 收口**：二次确认后删除备份与旧目录；提交并推送本仓与壳仓；打 `batch/064-migrate-end`。
+4. **T206 验证**：全量门禁、单测、`zh`／`en`／`yuanwen` 三路径抽样、VitePress 分片构建与壳仓构建；不过即用 Git 回退到起始 commit。
+5. **T207 收口**：确认无误后提交并推送本仓与壳仓；打 `batch/064-migrate-end`。
 
 ## 3 工具链与关联者
 
@@ -85,6 +85,6 @@
 - **根级相对链接**：中文词条移入 `zh/` 后，指向 `../README.md` 等根级文件的链接需改 `../../`；VitePress 死链检查会硬拦。
 - **GitBook 中文空间**：`root: ./` 不变，`summary: zh/SUMMARY.md` 已就位；`zh/SUMMARY.md` 内根级链接用 `../`。
 - **英文空间**：`yuanwen/.gitbook.yaml` 随目录互换进入 `en/`，HTML 侧不得残留同名配置；T202/T206 各查一次。
-- **硬编码路径最多**：先跑只读门禁再改任务 JSON；任何一步失败从 `state/layout-backup` 回退。
+- **硬编码路径最多**：先跑只读门禁再改任务 JSON；任何一步失败用 `git restore`／`git reset --hard <起始 commit>` 回退（用户裁定不设备份目录）。
 - **壳仓独立版本库**：`docs/` 本地为目录联接，壳仓提交只含壳侧文件；CI 用真实子模块，需本仓推送后再验证站点。
 - **VitePress 路由与相对路径**：本次不做 `rewrites`，接受 `/zh/`、`/en/` 前缀；`transformPageData` 注入的 `enPath`／`zhPath` 必须用新前缀。
