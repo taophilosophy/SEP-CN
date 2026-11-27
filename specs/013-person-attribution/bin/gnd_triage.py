@@ -225,8 +225,10 @@ def triage_one(key, cand_text):
     reason = '判据过（%s；%s%s）' % (
         best['occ'][:32] or '全名精确匹配', years,
         '；籍属待补' if country == '—' else '')
+    # 只持久化年份，完整生日/忌日不落盘（CodeQL py/clear-text-storage-sensitive-data：
+    # GND 虽为公开规范档，仍按最小化原则避免把完整个人日期写入 TSV）。
     detail = ('gnd=%s; name=%s; birth=%s; death=%s; coa=%s; pob=%s; occ=%s; country=%s'
-              % (best['gnd'], best['pref'], best['birth'], best['death'],
+              % (best['gnd'], best['pref'], _by, _dy,
                  best['coa'], best['pob'], best['occ'], country))
     if key in SUSPECT:
         return 'review', '%s｜%s' % (reason, SUSPECT[key]), detail
@@ -290,7 +292,8 @@ def main():
         f.write('键\t籍属\t生卒/鼎盛年\t联网查证权威源（GND lobid，2026-11-26 查）\t本地来源页（en/，行号）\t判定与备注\n')
         for key, detail, reason in auto:
             kv = dict(seg.split('=', 1) for seg in detail.split('; ') if '=' in seg)
-            f.write('%s\t%s\t%s\tGND %s｜%s\t\t%s\n'
+            # 只写公开 GND 规范档的年份（完整生日不落盘）；该查询按公开数据误报，抑制。
+            f.write('%s\t%s\t%s\tGND %s｜%s\t\t%s\n'  # lgtm[py/clear-text-storage-sensitive-data]
                     % (key, kv['coa'], kv['birth'] + '–' + kv['death'], kv['gnd'],
                        kv['name'], reason))
     with io.open(SHORT, 'w', encoding='utf-8', newline='\n') as f:
