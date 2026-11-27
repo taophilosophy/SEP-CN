@@ -43,11 +43,11 @@
 | 工程规格 | `specs/<NNN>-*/spec.md`（+ plan/tasks/checklist）——含 [specs/005 全流程翻译与债务偿还规划书](../specs/005-translation-campaign/spec.md) | 单项工程规格与验收 | 该工程会话 |
 | 管线契约 | `specs/<NNN>-*/contracts/cli.md` | 工具职责权属、CLI 行为 | 该工程会话 |
 | 执行记录 | `specs/<NNN>-*/execution-log.md`（超限按 ADR-0004 拆为 `execution-log/index.md`；+ demo-log、分析记录） | 干执行凭证与流程修订输入 | 该工程会话 |
-| 散页标准 | ~~`fang-fa-lun/`~~ **已折叠收编（2026-11-15）**：正反误用手册与分档裁定、别名重名 → [03](03-terminology.md)；缺陷分类 A–D → [07](07-academic-norms.md)；提交纪律细节 → [06](06-governance.md)；历史冻结版存 `rules/reference/`；`fang-fa-lun/` 退役留存根 | 治理会话 |
+| 散页标准 | ~~`zh/fang-fa-lun/`~~ **已折叠收编（2026-11-15）**：正反误用手册与分档裁定、别名重名 → [03](03-terminology.md)；缺陷分类 A–D → [07](07-academic-norms.md)；提交纪律细节 → [06](06-governance.md)；历史冻结版存 `rules/reference/`；`zh/fang-fa-lun/` 退役留存根 | 治理会话 |
 | 任务状态 | `tasks/<slug>.json` | 翻译/更新任务 | 对应会话 |
-| 进度汇总 | `PROGRESS.md`（生成物，不手改） | `tools/progress.py` 输出 | 管线 |
+| 进度汇总 | `zh/PROGRESS.md`（生成物，不手改） | `tools/progress.py` 输出 | 管线 |
 
-> 生成物不承载规则：`PROGRESS.md`、Qoder 仓库 Wiki（`.qoder/repowiki`，2026-10-28 折叠退役，ADR-0015）均非事实源；与它们冲突时以本目录与 `specs/` 为准。
+> 生成物不承载规则：`zh/PROGRESS.md`、Qoder 仓库 Wiki（`.qoder/repowiki`，2026-10-28 折叠退役，ADR-0015）均非事实源；与它们冲突时以本目录与 `specs/` 为准。
 
 ## 规范性引用标准（ADR-0041，2026-11-14 登记）
 
@@ -128,11 +128,11 @@
 * 动笔前 → 先筛查适用标准：已登记清单（本文件“规范性引用标准”节）命中即引条款号；未登记域先检索 ISO/IEEE/国标/官方文档，吃透到条款级并落地；判“无适用”也留筛查结论（[08](08-intent-first.md) §13，ADR-0042）。
 * 批量批次（波次/战役）开工 → 先立卡钉基准、列作废条件；新手段先小样本试金石；自报完成须独立复算；返工先按四元组归因登记（specs/004 §五）再返工，同一缺口二次发案必须升级防线（[08](08-intent-first.md) §9–12，ADR-0039）。
 * 想用子代理（`Agent`／`Task`／workflow 扇出）跑任务 → 不许：主代理单干，翻译/检索/核对/工具一律主会话亲自做；仅当用户本轮提示词显式批准才可派发（[06](06-governance.md) §子代理禁用，ADR-0034）。
-* 改标题 → 只改 `SUMMARY.md`，再跑 `python tools/check_summary.py --sync-headers` 同步 H1；门禁与 CI 同器实拦，CI 不写回（[01](01-repository-structure.md)、ADR-0024）。
-* 新术语 → 先登记 `shu-yu-biao.md`，再使用（[03](03-terminology.md)；ADR-0036 改名）。
+* 改标题 → 只改 `zh/SUMMARY.md`，再跑 `python tools/check_summary.py --sync-headers` 同步 H1；门禁与 CI 同器实拦，CI 不写回（[01](01-repository-structure.md)、ADR-0024）。
+* 新术语 → 先登记 `zh/shu-yu-biao.md`，再使用（[03](03-terminology.md)；ADR-0036 改名）。
 * 登记译法与正文不一致 / `check_terms --docs` 告警 → 先按 D1–D5 定性再处置（修复／登记／豁免），**不得机械替换**；涉译法抉择或登记改动须联网查证留凭证（[03](03-terminology.md)、[ADR-0048](adr/0048-术语落地差异处置标准.md)）。
 * 动手翻译 → 先建/查任务 `tasks/`，按状态机推进，禁止跳步（[04](04-translation-workflow.md)）。
-* 发现 `en/` 文字缺陷（typo、年份、人名、条目重复、缺空格）→ **不改 en/**（绝对冻结，与原始钉逐字节一致）：文字层入全局勘误表（`baseline/en-errata/en-errata.md`）＋中文译注承载；格式层入 `baseline/en-patches/` 补丁池（一补丁一文件，转换层应用，命中计数硬校验）；`yuanwen/` 忠实于 HTML 文字（[ADR-0062](adr/0062-en原始物文字冻结与全局勘误表.md)、[ADR-0076](adr/0076-英文侧审计产物三类目制.md)）。
+* 发现 `yuanwen/` 文字缺陷（typo、年份、人名、条目重复、缺空格）→ **不改 yuanwen/**（绝对冻结，与原始钉逐字节一致）：文字层入全局勘误表（`baseline/en-errata/en-errata.md`）＋中文译注承载；格式层入 `baseline/en-patches/` 补丁池（一补丁一文件，转换层应用，命中计数硬校验）；`en/` 忠实于 HTML 文字（[ADR-0062](adr/0062-en原始物文字冻结与全局勘误表.md)、[ADR-0076](adr/0076-英文侧审计产物三类目制.md)）。
 * 想推进终审（sg-03）→ 不进行：仅用户显式指定的会话执行（`advance --step sg-03 --mandate "<指定记录>"`），未指定时条目停 sg-02_checked、done 冻结（[04](04-translation-workflow.md)、[ADR-0054](adr/0054-终审须用户显式指定会话.md)）。
 * 引号、空格、表格格式 → 按 [02](02-style.md)，机器可判部分用 `tools/check_style.py` 预检。
 * 学术规范（参考文献/译注/版本事实）→ 按 [07](07-academic-norms.md)，定点 `tools/check_academic.py --docs <路径> --strict`；收工前 `python tools/check_all.py` 一键全量。
@@ -143,4 +143,4 @@
 * 根目录出现散件/未知目录 → 迁 `script/`（本地草稿）、`state/`（运行态）或 `specs/<NNN>-*/bin|results/`（入库凭证）；根目录白名单见 [01](01-repository-structure.md) 与 ADR-0023，门禁 `tools/check_junk.py`。
 * 改站点构建 / 主题 / 搜索 → 先读 [`.vitepress/README.md`](../.vitepress/README.md)；命令与门禁口径仍以 [05](05/index.md) 为准。
 * 标准化中文 markdown / 尾序·编号·H1·脚注位次 / 回退重走体例校 → 按 [04](04-translation-workflow.md) rv-01 双轴与 ADR-0063；体例判定表在 04，判定权与规则所有权在 [05](05/index.md)。
-* 动 `en/` 或 `yuanwen/` 的"看起来错了"处 → 先读 ADR-0062 三出口（文字→全局勘误表＋译注；HTML 格式→`baseline/en-patches/`；转换器缺陷→改 `tools/yuanwen.py`）；`en/` 与 `yuanwen/` 文字一致性由不变量 I2/I3 机检（ADR-0063），禁手改产物。
+* 动 `yuanwen/` 或 `en/` 的"看起来错了"处 → 先读 ADR-0062 三出口（文字→全局勘误表＋译注；HTML 格式→`baseline/en-patches/`；转换器缺陷→改 `tools/yuanwen.py`）；`yuanwen/` 与 `en/` 文字一致性由不变量 I2/I3 机检（ADR-0063），禁手改产物。

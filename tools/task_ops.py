@@ -187,7 +187,8 @@ def create(slug, kind, zh_doc=None, change_file=None, translation_mode="human",
     # 版本钉一并取：check_academic 对词条绑定任务查 pin、缺失即硬错误（2026-11-04 修潜在陷阱）
     task["version_pin"] = _version_pin(slug)
     if task["zh_doc"] is None:
-        task["zh_doc"] = find_zh_doc({"slug": slug, "title": _baseline_title(slug)})
+        zh = find_zh_doc({"slug": slug, "title": _baseline_title(slug)})
+        task["zh_doc"] = ("zh/" + zh) if zh else None
     save_task(task)
     return task
 

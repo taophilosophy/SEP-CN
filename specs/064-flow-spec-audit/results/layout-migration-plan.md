@@ -14,6 +14,10 @@
 | `<letter>/<slug>.md`、`1/**` | `zh/<letter>/<slug>.md`、`zh/1/**` | 词条正文归入 `zh/` |
 | `fang-fa-lun/`、`guan-yu/`、`jian-yi-shu/`、`qian-yan/` | `zh/<同名>/` | 中文目录一并归集 |
 | `SUMMARY.md` | `zh/SUMMARY.md` | 中文导航随正文归集；条目链接改为相对 `zh/` |
+| `mu-lu-s.md`、`shu-yu-biao.md`、`ren-ming-biao.md` | `zh/` 同名 | 分类目录与两本登记册迁入中文根 |
+| `PROGRESS.md`、`RELEASE-NOTES.md` | `zh/` 同名 | 进度与发布说明迁入中文根；`tools/progress.py` 输出路径同步 |
+| `README.md` | 不变 | 站点首页与访客说明留在根目录 |
+| `开源翻译.md` | 删除 | 用户 2026-11-27 指令删除 |
 | `README.md`、`mu-lu-s.md`、`shu-yu-biao.md`、`ren-ming-biao.md`、`PROGRESS.md`、`RELEASE-NOTES.md`、`AGENTS.md` | 不变 | 根级说明页与登记册留在根目录 |
 | `assets/`、`baseline/`、`journal/`、`rules/`、`specs/`、`tasks/`、`tools/`、`.vitepress/` | 不变 | 非词条正文 |
 | `.gitbook.yaml` | 不变（`summary: zh/SUMMARY.md`） | 中文 GitBook 空间；英文空间改由 `en/.gitbook.yaml` 承担 |
@@ -35,7 +39,7 @@
 
 | 文件 | 必改点 |
 | ---- | ---- |
-| `config.mts` | 分片 `shardExclude`：`${l}/**`→`zh/${l}/**`、`yuanwen/${l}/**`→`en/${l}/**`；非字母目录与根级页面同步；`parseSummary` 改读 `zh/SUMMARY.md`、`en/SUMMARY.md` 并把 href 归一为仓库根相对路径；配对正则改 `^en/.+\.md$`；字母桶 `seg` 改取 `zh/` 后第一段；`zhSidebarByLetter`／`dirSidebars` 键改 `/zh/…/`；英文侧栏与 `i18nRouting` 键改 `/en/`；`siteExclude` 改 `yuanwen/**` 并排除 `zh/SUMMARY.md`、`en/SUMMARY.md`、`en/SUMMARY-en.md`；`locales` 键 `yuanwen`→`en`；`watch.ignored` 改 `**/yuanwen/**` |
+| `config.mts` | 分片 `shardExclude`：`${l}/**`→`zh/${l}/**`、`yuanwen/${l}/**`→`en/${l}/**`；非字母目录与根级页面同步；`parseSummary` 改读 `zh/SUMMARY.md`、`en/SUMMARY.md` 并把 href 归一为仓库根相对路径；配对正则改 `^en/.+\.md$`；字母桶 `seg` 改取 `zh/` 后第一段；`zhSidebarByLetter`／`dirSidebars` 键改 `/zh/…/`；英文侧栏与 `i18nRouting` 键改 `/en/`；`siteExclude` 改 `yuanwen/**` 并排除 `en/SUMMARY.md`、`en/SUMMARY-en.md`；`locales` 键 `yuanwen`→`en`；`watch.ignored` 改 `**/yuanwen/**`；导航与 `catLink` 改 `/zh/mu-lu-s`、`/zh/shu-yu-biao`、`/zh/qian-yan/ci-hui-biao` |
 | `theme/components/VersionPin.vue` | 镜像判定 `relativePath.startsWith('yuanwen/')`→`startsWith('en/')` |
 | `prepare-gitstamps.mjs` | 排除目录 `'en/'`→`'yuanwen/'`；`en/`、`zh/` 作为站点页面保留 |
 | `.vitepress/README.md` | 分片、srcExclude、双语配对、反向入口等全部路径示例改新布局 |
@@ -48,6 +52,7 @@
 
 - `tools/`：`repo_path("en"|"yuanwen")` 语义反转；字母目录扫描改 `zh/`；`axis_lib`、`fetch_entry`、`yuanwen.py`、`check_*`、`clean.py`、`progress.py`、`summary_sync.py`、`rebuild_dir.py`、`gen_en_summary.py` 全部核对。
 - `SUMMARY.md`：改为 `zh/SUMMARY.md`；词条链接去 `zh/` 前缀（相对自身），根级页面链接补 `../`。
+- 登记册与根级中文文档：`zh/mu-lu-s.md`、`zh/shu-yu-biao.md`、`zh/ren-ming-biao.md`、`zh/PROGRESS.md`、`zh/RELEASE-NOTES.md`；`register_lib.term_path/person_path`、`progress.py` 输出、`check_mulu_s`／`check_terms`／`check_term_concepts`／`check_doc_size` 同步。
 - `rules/layout.json`：`letter_dirs.path` 改 `zh/<letter>`；新增 `zh` 根条目并登记 `en`／`yuanwen` 新语义；`check_summary`／`check_layout`／`check_junk` 同步。
 - `tasks/**/*.json`：`zh_doc` 全部改 `zh/<letter>/<slug>.md`；账本 `source` 文本不变。
 - `journal/`、`specs/`、`rules/`、`README.md`、`AGENTS.md`、`.vitepress/README.md`、项目记忆：旧路径与 `en`／`yuanwen` 语义一并改写；生成“旧→新”映射表，保留可审计性；不重写 Git 历史。

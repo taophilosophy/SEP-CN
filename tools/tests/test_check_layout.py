@@ -31,14 +31,15 @@ class NormalizeCellTest(unittest.TestCase):
 
 
 class DeclaredPathsTest(unittest.TestCase):
-    def test_letters_expanded(self):
+    def test_zh_container(self):
         declared = declared_paths(LAYOUT)
+        self.assertIn("zh", declared)
         for c in "abcdefghijklmnopqrstuvwxyz1":
-            self.assertIn(c, declared)
+            self.assertNotIn(c, declared)
 
     def test_known_entries(self):
         declared = declared_paths(LAYOUT)
-        for p in ("rules", "specs", "en", "yuanwen", ".github", "AGENTS.md"):
+        for p in ("rules", "specs", "en", "yuanwen", "zh", ".github", "AGENTS.md"):
             self.assertIn(p, declared)
 
 

@@ -1698,7 +1698,7 @@ def apply_en_patches(slug, html, filename='index.html'):
 
 
 def convert_entry(slug):
-    src_dir = repo_path('en', slug)
+    src_dir = repo_path('yuanwen', slug)
     idx_path = os.path.join(src_dir, 'index.html')
     if not os.path.exists(idx_path):
         return {'slug': slug, 'error': 'no local snapshot（先 fetch_entry）'}
@@ -1719,7 +1719,7 @@ def convert_entry(slug):
                if a.strip()]
 
     letter = slug[0]
-    ydir = repo_path('yuanwen', letter)
+    ydir = repo_path('en', letter)
     os.makedirs(ydir, exist_ok=True)
 
     ctx = Ctx(slug)
@@ -1747,9 +1747,9 @@ def convert_entry(slug):
             md += '\n\n## Notes（原文脚注）\n\n' + '\n\n'.join(note_defs)
 
     # 图片本地化（用户 2026-10-27 裁定复制而非外链；ADR-0008 上游同名，存
-    # yuanwen/assets/<slug>/）。仅复制图片类资产：local.js 等站点脚本不被
+    # en/assets/<slug>/）。仅复制图片类资产：local.js 等站点脚本不被
     # md 引用（2026-10-28 D15 复核），历史误复制的一并清除。
-    adir = repo_path('yuanwen', 'assets', slug)
+    adir = repo_path('en', 'assets', slug)
     image_exts = ('.png', '.jpg', '.jpeg', '.gif', '.svg', '.webp', '.pdf')
     image_files = []
     for f in sorted(os.listdir(src_dir)):
@@ -1765,7 +1765,7 @@ def convert_entry(slug):
         data = open(src_f, 'rb').read()
         with open(dst_f, 'wb') as fh:
             fh.write(data)
-        image_files.append('yuanwen/assets/%s/%s' % (slug, f))
+        image_files.append('en/assets/%s/%s' % (slug, f))
 
     # 补充材料
     supp_files = []
@@ -1826,7 +1826,7 @@ def convert_entry(slug):
         raise OSError('yuanwen write failed: %s' % md_path)
 
     update_baseline(slug, {'yuanwen': {
-        'md': 'yuanwen/%s/%s.md' % (letter, slug),
+        'md': 'en/%s/%s.md' % (letter, slug),
         'sha256': sha256_file(md_path),
         'source_sha256': sha256_file(idx_path),
         'converted_at': utcnow_iso(),
@@ -1836,20 +1836,20 @@ def convert_entry(slug):
         'images': image_files,
         'notes': len(note_defs),
     }})
-    return {'slug': slug, 'md': 'yuanwen/%s/%s.md' % (letter, slug),
+    return {'slug': slug, 'md': 'en/%s/%s.md' % (letter, slug),
             'cite_markers': cite_markers, 'cite_defs': cite_defs,
             'supplements': supp_files, 'notes': len(note_defs)}
 
 
 def write_summary():
-    """镜像根 SUMMARY.md → yuanwen/SUMMARY.md。
+    """镜像 zh/SUMMARY.md → en/SUMMARY.md。
 
     条目链接（<letter>/<slug>.md）两侧相对路径逐字符一致，原样拷贝；
-    zh 侧导航行（README.md、mu-lu-s.md、qian-yan/*、guan-yu/*）在 yuanwen/
-    下无镜像对应文件，改写为 ../ 前缀使其自 yuanwen/ 可解析
-    （specs/007-review-campaign 审阅实证 167 处断链，2026-10-28）。
+    导航行（../README.md、../mu-lu-s.md）已是根相对，原样保留；中文目录
+    （qian-yan/*、guan-yu/* 等）在 en/ 下无镜像，改写为 ../zh/ 前缀使其
+    自 en/ 可解析（specs/007-review-campaign 审阅实证 167 处断链，2026-10-28）。
     """
-    src = read_text(repo_path('SUMMARY.md'))
+    src = read_text(repo_path('zh', 'SUMMARY.md'))
     out = []
     for line in src.split('\n'):
         if '](../' in line:
@@ -1860,14 +1860,19 @@ def write_summary():
             target, frag = m.group(1), m.group(2) or ''
             if re.match(r'^(https?:|mailto:)', target):
                 return m.group(0)
-            yuanwen_side = repo_path('yuanwen', target)
+            en_side = repo_path('en', target)
+            zh_side = repo_path('zh', target)
             root_side = repo_path(target)
-            if not os.path.exists(yuanwen_side) and os.path.exists(root_side):
+            if os.path.exists(en_side):
+                return m.group(0)
+            if os.path.exists(zh_side):
+                return '](../zh/%s%s)' % (target, frag)
+            if os.path.exists(root_side):
                 return '](../%s%s)' % (target, frag)
             return m.group(0)
 
         out.append(re.sub(r'\]\(([^)#\s]+)(#[^)]*)?\)', _rw, line))
-    _write_if_changed(repo_path('yuanwen', 'SUMMARY.md'), '\n'.join(out))
+    _write_if_changed(repo_path('en', 'SUMMARY.md'), '\n'.join(out))
     return 0
 
 

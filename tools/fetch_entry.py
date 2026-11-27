@@ -77,7 +77,7 @@ def entry_base(slug, archive_edition=None):
 def fetch_one(slug, force, archive_edition=None):
     base = entry_base(slug, archive_edition)
     rec = {"slug": slug, "fetched_at": utcnow_iso(), "source_url": base}
-    edir = repo_path("en", slug)
+    edir = repo_path("yuanwen", slug)
     os.makedirs(edir, exist_ok=True)
     files, missing = [], []
 
@@ -111,7 +111,8 @@ def fetch_one(slug, force, archive_edition=None):
     rec["pubinfo"] = {"first_published": pub["first_published"] if pub else None,
                       "substantive_revision": pub["substantive_revision"] if pub else None}
     rec["in_article_markers"] = entry["in_article_markers"]
-    rec["zh_doc"] = find_zh_doc(slug, entry["title"])
+    zh = find_zh_doc(slug, entry["title"])
+    rec["zh_doc"] = ("zh/" + zh) if zh else None
 
     def save(relpath, payload):
         path = os.path.join(edir, relpath.replace("/", os.sep))
@@ -119,10 +120,10 @@ def fetch_one(slug, force, archive_edition=None):
         if force or not same:
             with open(path, "wb") as f:
                 f.write(payload)
-        return {"path": "en/%s/%s" % (slug, relpath), "sha256": sha256_file(path),
+        return {"path": "yuanwen/%s/%s" % (slug, relpath), "sha256": sha256_file(path),
                 "bytes": os.path.getsize(path)}
 
-    files.append({"path": "en/%s/index.html" % slug, "sha256": sha256_file(idx_path),
+    files.append({"path": "yuanwen/%s/index.html" % slug, "sha256": sha256_file(idx_path),
                   "bytes": os.path.getsize(idx_path), "kind": "main"})
 
     # 脚注：正文有引用才抓（spec：404 为显式缺省件）

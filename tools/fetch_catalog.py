@@ -37,22 +37,22 @@ def main(argv=None):
     ensure_dirs()
 
     if args.reparse:
-        snaps = sorted(n for n in __import__("os").listdir(repo_path("en", "_catalog"))
+        snaps = sorted(n for n in __import__("os").listdir(repo_path("yuanwen", "_catalog"))
                        if n.endswith("-contents.html"))
         if not snaps:
-            print(json.dumps({"error": "en/_catalog 无快照"}, ensure_ascii=False))
+            print(json.dumps({"error": "yuanwen/_catalog 无快照"}, ensure_ascii=False))
             return 1
         raw_name = args.reparse_snap if args.reparse_snap else snaps[-1]
         if args.reparse_snap and args.reparse_snap not in snaps:
             print(json.dumps({"error": "快照不存在: %s" % args.reparse_snap}, ensure_ascii=False))
             return 1
-        raw_path = repo_path("en", "_catalog", raw_name)
+        raw_path = repo_path("yuanwen", "_catalog", raw_name)
         m = re.match(r"(\d{4})(\d{2})(\d{2})T(\d{2})(\d{2})(\d{2})Z-", snaps[-1])
         fetched_at = ("%s-%s-%sT%s:%s:%sZ" % m.groups()) if m else utcnow_iso()
         data = open(raw_path, "rb").read()
     else:
         ts = utcnow_iso().replace(":", "").replace("-", "")
-        raw_path = repo_path("en", "_catalog", "%s-contents.html" % ts)
+        raw_path = repo_path("yuanwen", "_catalog", "%s-contents.html" % ts)
         status, data = fetch.get(CATALOG_URL, dest=raw_path)
         if status != 200:
             print(json.dumps({"error": "contents.html HTTP %s" % status}, ensure_ascii=False))
@@ -64,14 +64,14 @@ def main(argv=None):
     items = sorted(full["items"], key=lambda x: x["slug"])
     if args.snapshot_only:
         print(json.dumps({"fetched_at": fetched_at,
-                          "snapshot": "en/_catalog/" + __import__("os").path.basename(raw_path),
+                          "snapshot": "yuanwen/_catalog/" + __import__("os").path.basename(raw_path),
                           "entries": len(items),
                           "alias_rows": len(full["alias_rows"]),
                           "cluster_mothers": len(full["cluster_mothers"]),
                           "snapshot_only": True}, ensure_ascii=False))
         return 0
     catalog = {"fetched_at": fetched_at,
-               "source": "en/_catalog/" + __import__("os").path.basename(raw_path),
+               "source": "yuanwen/_catalog/" + __import__("os").path.basename(raw_path),
                "items": items,
                "alias_rows": sorted(full["alias_rows"], key=lambda x: x["doc_order"]),
                "cluster_mothers": sorted(full["cluster_mothers"], key=lambda x: x["doc_order"])}
@@ -79,9 +79,9 @@ def main(argv=None):
 
     # 与上次目录对比（无上次则全部视为 added 之外保持空 diff）
     prev_path = None
-    for name in sorted(__import__("os").listdir(repo_path("en", "_catalog"))):
+    for name in sorted(__import__("os").listdir(repo_path("yuanwen", "_catalog"))):
         if name.endswith("-contents.html") and name != __import__("os").path.basename(raw_path):
-            prev_path = repo_path("en", "_catalog", name)
+            prev_path = repo_path("yuanwen", "_catalog", name)
     diff = {"added": [], "removed": [], "renamed": [], "alias_changed": []}
     if prev_path:
         prev = parser.parse_catalog(open(prev_path, "rb").read().decode("utf-8", "replace"))

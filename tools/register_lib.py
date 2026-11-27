@@ -25,8 +25,8 @@ import unicodedata
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
-TERM_FILE = 'shu-yu-biao.md'
-PERSON_FILE = 'ren-ming-biao.md'
+TERM_FILE = 'zh/shu-yu-biao.md'
+PERSON_FILE = 'zh/ren-ming-biao.md'
 
 
 def term_path():

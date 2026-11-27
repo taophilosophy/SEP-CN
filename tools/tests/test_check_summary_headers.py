@@ -39,17 +39,17 @@ class HeaderConsistencyTest(unittest.TestCase):
             f.write(text)
 
     def summary(self, *lines):
-        self.write("SUMMARY.md", "# Table of contents\n\n" + "\n".join(lines) + "\n")
+        self.write("zh/SUMMARY.md", "# Table of contents\n\n" + "\n".join(lines) + "\n")
 
     def test_escaped_brackets_parse_in_full_and_match(self):
         self.summary("* [格鲁派 Gelukpa \\[dge lugs pa\\] (Douglas Duckworth)](g/gelukpa.md)")
-        self.write("g/gelukpa.md", "# 格鲁派 Gelukpa [dge lugs pa] (Douglas Duckworth)\n")
+        self.write("zh/g/gelukpa.md", "# 格鲁派 Gelukpa [dge lugs pa] (Douglas Duckworth)\n")
         r = run(self.root, "--headers")
         self.assertEqual(r.returncode, 0, r.stdout + r.stderr)
 
     def test_mismatch_is_hard_error(self):
         self.summary("* [知识的价值 The Value of Knowledge (Duncan Pritchard)](k/knowledge-value.md)")
-        self.write("k/knowledge-value.md", "# 知识的价值 knowledge, value of (Duncan Pritchard)\n")
+        self.write("zh/k/knowledge-value.md", "# 知识的价值 knowledge, value of (Duncan Pritchard)\n")
         r = run(self.root, "--headers")
         self.assertEqual(r.returncode, 1)
         self.assertIn("k/knowledge-value.md", r.stdout)
@@ -57,11 +57,11 @@ class HeaderConsistencyTest(unittest.TestCase):
     def test_alias_placeholder_readme_and_frontmatter_skipped(self):
         self.summary(
             "* [\\*知识——见知识的价值 knowledge — see knowledge, value of](k/knowledge-value.md)",
-            "* [\\*知识 knowledge](README.md)",
-            "* [首页](README.md)",
-            "* [分类目录](mu-lu-s.md)",
+            "* [\\*知识 knowledge](../README.md)",
+            "* [首页](../README.md)",
+            "* [分类目录](../mu-lu-s.md)",
         )
-        self.write("k/knowledge-value.md", "# 知识的价值 The Value of Knowledge\n")
+        self.write("zh/k/knowledge-value.md", "# 知识的价值 The Value of Knowledge\n")
         self.write("README.md", "# 斯坦福哲学百科全书简体中文版\n")
         self.write("mu-lu-s.md", "---\noutline: [1, 6]\n---\n")
         r = run(self.root, "--headers")
@@ -69,10 +69,10 @@ class HeaderConsistencyTest(unittest.TestCase):
 
     def test_sync_rewrites_h1_idempotently(self):
         self.summary("* [韩国佛教 Korean Buddhism (Lucy Hyekyung Jee)](k/korean-buddhism.md)")
-        self.write("k/korean-buddhism.md", "# 韩国佛教 Buddhism\n\n正文段落\n")
+        self.write("zh/k/korean-buddhism.md", "# 韩国佛教 Buddhism\n\n正文段落\n")
         r = run(self.root, "--sync-headers")
         self.assertEqual(r.returncode, 0, r.stdout + r.stderr)
-        with open(os.path.join(self.root, "k/korean-buddhism.md"), encoding="utf-8") as f:
+        with open(os.path.join(self.root, "zh/k/korean-buddhism.md"), encoding="utf-8") as f:
             self.assertEqual(f.read(), "# 韩国佛教 Korean Buddhism (Lucy Hyekyung Jee)\n\n正文段落\n")
         # 幂等：第二次同步改动 0 处
         r2 = run(self.root, "--sync-headers")
@@ -103,15 +103,15 @@ class AliasFragmentTest(unittest.TestCase):
 
     def test_dangling_fragment_is_hard_error(self):
         # ADR-0060 起别名行是不带链接的标签行；带链接的行按正式条目解析、不进别名门
-        self.write("SUMMARY.md", "* \\*生物学——见生物学：实验生物学 in biology — see biology: experiment in\n")
-        self.write("b/biology-experiment.md", "# 生物学中的实验 Experiment in Biology\n")
+        self.write("zh/SUMMARY.md", "* \\*生物学——见生物学：实验生物学 in biology — see biology: experiment in\n")
+        self.write("zh/b/biology-experiment.md", "# 生物学中的实验 Experiment in Biology\n")
         r = run(self.root)
         self.assertEqual(r.returncode, 1)
         self.assertIn("ALIAS", r.stdout)
 
     def test_full_title_fragment_passes(self):
-        self.write("SUMMARY.md", "* \\*生物学——见生物学：实验生物学 Experiment in Biology — see biology: experiment in\n")
-        self.write("b/biology-experiment.md", "# 生物学中的实验 Experiment in Biology\n")
+        self.write("zh/SUMMARY.md", "* \\*生物学——见生物学：实验生物学 Experiment in Biology — see biology: experiment in\n")
+        self.write("zh/b/biology-experiment.md", "# 生物学中的实验 Experiment in Biology\n")
         r = run(self.root)
         self.assertEqual(r.returncode, 0, r.stdout + r.stderr)
 

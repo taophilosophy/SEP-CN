@@ -52,7 +52,7 @@ def main(argv=None):
 
     results = []
     for slug in args.slugs:
-        src = repo_path("en", slug, "index.html")
+        src = repo_path("yuanwen", slug, "index.html")
         try:
             html = read_text(src)
         except FileNotFoundError:
@@ -61,10 +61,10 @@ def main(argv=None):
         sha_in = sha256_file(src)
         entry = parser.parse_entry(html)
         text = render_blocks(entry)
-        out = args.to or repo_path("en", "%s.txt" % slug)
+        out = args.to or repo_path("yuanwen", "%s.txt" % slug)
         write_text(out, text)
         sha_out = sha256_file(out)
-        results.append({"slug": slug, "source": "en/%s/index.html" % slug,
+        results.append({"slug": slug, "source": "yuanwen/%s/index.html" % slug,
                         "sha256_in": sha_in, "sha256_out": sha_out,
                         "blocks": len(entry["blocks"]), "out": out, "at": utcnow_iso()})
     print(json.dumps({"results": results}, ensure_ascii=False, indent=2))

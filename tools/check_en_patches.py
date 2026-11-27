@@ -80,7 +80,7 @@ def probe_key(find, replace):
 
 def public_hits(keys, en_root=None):
     """跨件公共性：{key: {slug,...}}，只统计含该 key 的 en/<slug>/index.html。"""
-    root = en_root or repo_path('en')
+    root = en_root or repo_path('yuanwen')
     out = {k: set() for k in keys if k}
     if not out:
         return out

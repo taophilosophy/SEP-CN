@@ -41,7 +41,7 @@ def _upstream_doc_order():
     """上游 contents.html 最新快照中真条目（alias_of=None）的文档顺序。"""
     import glob
     from tools import parser as _parser
-    snaps = sorted(glob.glob(repo_path('en', '_catalog', '*-contents.html')))
+    snaps = sorted(glob.glob(repo_path('yuanwen', '_catalog', '*-contents.html')))
     if not snaps:
         return []
     p = _parser._CatalogHTMLParser()
@@ -82,11 +82,11 @@ def load_upstream():
 
 
 def summary_lines():
-    return read_text(repo_path('SUMMARY.md')).split('\n')
+    return read_text(repo_path('zh', 'SUMMARY.md')).split('\n')
 
 
 def write_summary_lines(lines):
-    write_text_verified(repo_path('SUMMARY.md'), '\n'.join(lines))
+    write_text_verified(repo_path('zh', 'SUMMARY.md'), '\n'.join(lines))
 
 
 def entry_from_baseline(slug):
@@ -190,7 +190,7 @@ def apply_add(slug, title_zh, file_name=None):
         raise Precondition('基线记录缺 title')
     fname = slug_file(file_name or slug)
     rel = '%s/%s.md' % (slug[0], fname)
-    full = repo_path(rel)
+    full = repo_path('zh', rel)
     if os.path.exists(full):
         raise Precondition('目标文件已存在: %s' % rel)
     title_en = rec['title']
@@ -232,7 +232,7 @@ def apply_add(slug, title_zh, file_name=None):
     base = load_json(repo_path('baseline', 'entries.json'))
     for r in base['entries']:
         if r['slug'] == slug:
-            r['zh_doc'] = rel
+            r['zh_doc'] = 'zh/' + rel
             break
     base['updated_at'] = utcnow_iso()
     write_json_verified(repo_path('baseline', 'entries.json'), base)
@@ -240,7 +240,7 @@ def apply_add(slug, title_zh, file_name=None):
 
     print(json.dumps({'added': slug, 'file': rel, 'summary_line': ins + 1,
                       'link_text': link_text,
-                      'todo': 'git add %s SUMMARY.md baseline/entries.json 后提交' % rel},
+                      'todo': 'git add %s zh/SUMMARY.md baseline/entries.json 后提交' % rel},
                      ensure_ascii=False, indent=2))
     return 0
 
@@ -271,7 +271,7 @@ def apply_remove(slug, yes=False):
     lines = summary_lines()
     lines = [l for l in lines if not (zh in l and '](%s)' % zh in l)]
     write_summary_lines(lines)
-    full = repo_path(zh)
+    full = repo_path('zh', zh)
     if os.path.exists(full):
         os.remove(full)
     base = load_json(repo_path('baseline', 'entries.json'))
@@ -290,7 +290,7 @@ def apply_rename(slug, new_slug, yes=False):
     if not old_zh:
         raise Precondition('SUMMARY 中找不到 %s' % slug)
     new_zh = '%s/%s.md' % (new_slug[0], slug_file(new_slug))
-    old_full, new_full = repo_path(old_zh), repo_path(new_zh)
+    old_full, new_full = repo_path('zh', old_zh), repo_path('zh', new_zh)
     plan = {'slug': slug, 'new_slug': new_slug, 'old': old_zh, 'new': new_zh,
             'policy': 'FR-022 文件名同步改'}
     refs = []
@@ -307,12 +307,13 @@ def apply_rename(slug, new_slug, yes=False):
         plan['note'] = 'dry-run：确认后加 --yes 执行'
         print(json.dumps(plan, ensure_ascii=False, indent=2))
         return 0
-    subprocess.run(['git', 'mv', old_zh.replace('/', os.sep), new_zh.replace('/', os.sep)],
+    subprocess.run(['git', 'mv', ('zh/' + old_zh).replace('/', os.sep),
+                    ('zh/' + new_zh).replace('/', os.sep)],
                    check=True, cwd=repo_path('.'))
     for rel in refs:
         fp = repo_path(rel)
         t = read_text(fp).replace(old_zh, new_zh)
-        if rel == 'SUMMARY.md':
+        if rel == 'zh/SUMMARY.md':
             # 链接文字中的旧 slug 段同步更新（如 "... old-slug (Author)" → new-slug）
             t = re.sub(r'(?<![\w-])%s(?![\w-])' % re.escape(slug), new_slug, t)
         write_text_verified(fp, t)
@@ -320,7 +321,7 @@ def apply_rename(slug, new_slug, yes=False):
     for r in base['entries']:
         if r['slug'] == slug:
             r['slug'] = new_slug
-            r['zh_doc'] = new_zh
+            r['zh_doc'] = 'zh/' + new_zh
     base['updated_at'] = utcnow_iso()
     write_json_verified(repo_path('baseline', 'entries.json'), base)
     plan['executed'] = True
@@ -331,7 +332,7 @@ def apply_rename(slug, new_slug, yes=False):
 # ---------------------------------------------------------- mu-lu-s -------
 
 def mu_lu_s_dedupe():
-    path = repo_path('mu-lu-s.md')
+    path = repo_path('zh', 'mu-lu-s.md')
     lines = read_text(path).split('\n')
     seen, out, removed = set(), [], []
     for l in lines:

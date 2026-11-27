@@ -99,12 +99,12 @@ def check_slug(slug, rec=None):
 
     n = 0
     htmls = []
-    idx = repo_path('en', slug, 'index.html')
+    idx = repo_path('yuanwen', slug, 'index.html')
     if os.path.exists(idx):
         html = read_text(idx)
         m, e = parser.HEAD_RE.search(html), parser.TAIL_RE.search(html)
         htmls.append(html[m.end():e.start()] if (m and e) else html)
-        notes = repo_path('en', slug, 'notes.html')
+        notes = repo_path('yuanwen', slug, 'notes.html')
         if os.path.exists(notes):
             htmls.append(read_text(notes))
     for h in htmls:

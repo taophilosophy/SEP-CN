@@ -23,31 +23,37 @@ def is_fake(title):
     right = m.group(1).strip()
     return left == right
 
-# SUMMARY.md 条目
+# zh/SUMMARY.md 条目（路径相对 zh/，统一归一为仓库根相对）
+def summary_key(p):
+    return p[3:] if p.startswith('../') else 'zh/' + p
+
+
 summary = {}  # path -> title(已解转义)
-with open(os.path.join(root, 'SUMMARY.md'), encoding='utf-8') as f:
+with open(os.path.join(root, 'zh', 'SUMMARY.md'), encoding='utf-8') as f:
     for line in f:
         m = re.match(r'^\s*\* \[(.*)\]\(([^)]*)\)\s*$', line.rstrip('\n'))
         if m:
+            key = summary_key(m.group(2))
             # ADR-0007：别名行（— see）链到目标词条路径，不得覆盖条目行标题
             if '— see' in m.group(1) or '——见' in m.group(1):
-                summary.setdefault(m.group(2), unescape(m.group(1)))
+                summary.setdefault(key, unescape(m.group(1)))
             else:
-                summary[m.group(2)] = unescape(m.group(1))
+                summary[key] = unescape(m.group(1))
 
-# mu-lu-s.md 链接
+# zh/mu-lu-s.md 链接（路径相对 zh/，统一归一为仓库根相对）
 mulu = {}  # path -> list of titles
 broken = []  # 文件不存在的链接
-with open(os.path.join(root, 'mu-lu-s.md'), encoding='utf-8') as f:
+with open(os.path.join(root, 'zh', 'mu-lu-s.md'), encoding='utf-8') as f:
     for i, line in enumerate(f, 1):
         # 链接文字允许 `\]` 转义；两分支互斥（反斜杠 vs 非反斜杠），避免指数回溯（CodeQL py/redos）
         for m in re.finditer(r'\[((?:\\.|[^\\\]])*)\]\(([^)]*)\)', line):
             title, path = m.group(1), m.group(2)
             if not path.endswith('.md'):
                 continue
-            mulu.setdefault(path, []).append(unescape(title))
-            if not os.path.isfile(os.path.join(root, path)):
-                broken.append((i, path))
+            key = summary_key(path)
+            mulu.setdefault(key, []).append(unescape(title))
+            if not os.path.isfile(os.path.join(root, key)):
+                broken.append((i, key))
 
 print('SUMMARY 条目: %d | mu-lu-s 链接路径: %d' % (len(summary), len(mulu)))
 
@@ -102,7 +108,7 @@ H_RE = re.compile(r'^(#{1,6}) (.+?)\s*$')
 E_RE = re.compile(r'^\s*\* \[')
 heads = []
 entry_linenos = []
-with open(os.path.join(root, 'mu-lu-s.md'), encoding='utf-8') as f:
+with open(os.path.join(root, 'zh', 'mu-lu-s.md'), encoding='utf-8') as f:
     for i, line in enumerate(f, 1):
         m = H_RE.match(line)
         if m:

@@ -12,7 +12,7 @@
   - 跳过 .git/、node_modules/、en/、yuanwen/、baseline/、script/、.specify/、.zcode/；
   - 垃圾目录整体作为目标（target/、__pycache__、pytest/mypy/ruff 缓存、
     .vitepress/cache|dist），不逐个枚举其内部文件；
-  - 保护件（en/、yuanwen/、baseline/、SUMMARY.md）缺失或目标越界时，--strict 退 1。
+  - 保护件（en/、yuanwen/、zh/、baseline/、zh/SUMMARY.md）缺失或目标越界时，--strict 退 1。
 
 退出码: 0 成功/只读正常；1 --strict 发现保护件缺失或越界风险；2 用法错误。
 """
@@ -27,7 +27,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 SKIP_DIRS = {'.git', 'node_modules', 'en', 'yuanwen', 'baseline', 'script',
              '.specify', '.zcode'}
-PROTECTED_PATHS = ('en', 'yuanwen', 'baseline', 'SUMMARY.md')
+PROTECTED_PATHS = ('en', 'yuanwen', 'zh', 'baseline', 'zh/SUMMARY.md')
 JUNK_DIRS = {'__pycache__', '.pytest_cache', '.mypy_cache', '.ruff_cache',
              'target', '.screenshots'}
 JUNK_DIR_PREFIXES = ('.vitepress/cache', '.vitepress/dist')

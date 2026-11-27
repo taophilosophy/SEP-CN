@@ -44,7 +44,7 @@ class CollectTest(unittest.TestCase):
         os.makedirs(os.path.join(self.root, "target"))
         os.makedirs(os.path.join(self.root, ".vitepress", "cache"))
         for rel in ("en/index.html", "yuanwen/x.md", "baseline/pin.json",
-                    "SUMMARY.md", "keep.txt"):
+                    "zh/SUMMARY.md", "keep.txt"):
             path = os.path.join(self.root, rel)
             os.makedirs(os.path.dirname(path), exist_ok=True)
             open(path, "w", encoding="utf-8").close()
@@ -57,7 +57,7 @@ class CollectTest(unittest.TestCase):
 
     def test_collect_prunes_junk_dirs_and_keeps_tracked(self):
         tracked = {"en/index.html", "yuanwen/x.md", "baseline/pin.json",
-                   "SUMMARY.md", "keep.txt"}
+                   "zh/SUMMARY.md", "keep.txt"}
         with mock.patch.object(clean, "ROOT", self.root):
             targets = clean.collect(tracked)
         rels = {rel for _, rel, _ in targets}
@@ -73,7 +73,7 @@ class CollectTest(unittest.TestCase):
 
     def test_delete_removes_only_targets(self):
         tracked = {"en/index.html", "yuanwen/x.md", "baseline/pin.json",
-                   "SUMMARY.md", "keep.txt"}
+                   "zh/SUMMARY.md", "keep.txt"}
         with mock.patch.object(clean, "ROOT", self.root):
             targets = clean.collect(tracked)
             failures = clean.delete(targets)
@@ -86,17 +86,17 @@ class CollectTest(unittest.TestCase):
     def test_protected_issues(self):
         with mock.patch.object(clean, "ROOT", self.root):
             self.assertEqual(clean.protected_issues([]), [])
-        os.remove(os.path.join(self.root, "SUMMARY.md"))
+        os.remove(os.path.join(self.root, "zh", "SUMMARY.md"))
         with mock.patch.object(clean, "ROOT", self.root):
             self.assertEqual(clean.protected_issues([]),
-                             ["保护件缺失：SUMMARY.md"])
+                             ["保护件缺失：zh/SUMMARY.md"])
 
 
 class MainContractTest(unittest.TestCase):
     def setUp(self):
         self.tmp = tempfile.TemporaryDirectory()
         self.root = self.tmp.name
-        for rel in ("en/x", "yuanwen/x", "baseline/x", "SUMMARY.md"):
+        for rel in ("en/x", "yuanwen/x", "baseline/x", "zh/SUMMARY.md"):
             path = os.path.join(self.root, rel)
             os.makedirs(os.path.dirname(path), exist_ok=True)
             open(path, "w", encoding="utf-8").close()
@@ -112,7 +112,7 @@ class MainContractTest(unittest.TestCase):
             self.assertEqual(clean.main(["--check"]), 0)
 
     def test_strict_missing_protected_returns_one(self):
-        os.remove(os.path.join(self.root, "SUMMARY.md"))
+        os.remove(os.path.join(self.root, "zh", "SUMMARY.md"))
         with mock.patch.object(clean, "ROOT", self.root), \
                 mock.patch.object(clean, "tracked_set", return_value=set()):
             self.assertEqual(clean.main(["--check", "--strict"]), 1)

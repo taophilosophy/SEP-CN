@@ -23,8 +23,8 @@ sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 from tools.common import load_json, repo_path, write_json_verified  # noqa: E402
 
-MULU = "mu-lu-s.md"
-SUMMARY = "SUMMARY.md"
+MULU = "zh/mu-lu-s.md"
+SUMMARY = "zh/SUMMARY.md"
 MAP_PATH = ("baseline", "mulu-map.json")
 OLD_SNAP = "20261027T171130Z-contents.html"
 OLD_ACCOUNT = "specs/054-catalog-network-replay/results/catalog-20261027.json"
@@ -91,6 +91,11 @@ def summary_path_text():
         m = LINK_RE.match(l)
         if m:
             p = m.group(3)
+            # SUMMARY 条目路径相对 zh/；统一归一为仓库根相对（../ 开头为根级页）
+            if p.startswith('../'):
+                p = p[3:]
+            elif not p.startswith('zh/'):
+                p = 'zh/' + p
             if p in out and out[p] != m.group(2):
                 raise SystemExit(json.dumps({"error": "SUMMARY path 重复且文字不一致",
                                              "path": p}, ensure_ascii=False))
@@ -120,14 +125,19 @@ def replay_mulu():
         out.extend(fixed.get(r["order"], []))
         ind = " " * r["indent"]
         if r["kind"] == "link":
-            if r["path"] not in spt:
+            key = r["path"]
+            if key.startswith('../'):
+                key = key[3:]
+            elif not key.startswith('zh/'):
+                key = 'zh/' + key
+            if key not in spt:
                 return None, {"error": "SUMMARY 缺 mu-lu-s 链接路径", "path": r["path"]}
             if follow_err is None and \
-                    _unesc_md(r["text"]) != _unesc_md(spt[r["path"]]):
+                    _unesc_md(r["text"]) != _unesc_md(spt[key]):
                 follow_err = {"error": "mu-lu-s 文字未跟随 SUMMARY",
                               "path": r["path"],
                               "map_text": r["text"][:100],
-                              "summary_text": spt[r["path"]][:100]}
+                              "summary_text": spt[key][:100]}
             out.append("%s* [%s](%s)" % (ind, r["text"], r["path"]))
         else:
             out.append("%s* \\*%s" % (ind, r["text"]))
@@ -166,7 +176,7 @@ def g4():
         if not m:
             continue
         p = m.group(3)
-        if not re.fullmatch(r"[a-z0-9]/[A-Za-z0-9][A-Za-z0-9.\-]*\.md", p):
+        if not re.fullmatch(r"(?:zh/)?[a-z0-9]/[A-Za-z0-9][A-Za-z0-9.\-]*\.md", p):
             continue
         slug = p.rsplit("/", 1)[-1][:-3]
         if "-see-" in slug.lower():
@@ -238,14 +248,14 @@ def g1():
             (None, None, None, None, "latest"),
             (OLD_SNAP, _split_slashes(OLD_ACCOUNT), _split_slashes(OLD_SKEL),
              _split_slashes(OLD_RESID), "20261027")):
-        snaps = sorted(n for n in os.listdir(repo_path("en", "_catalog"))
+        snaps = sorted(n for n in os.listdir(repo_path("yuanwen", "_catalog"))
                        if n.endswith("-contents.html"))
         snap_name = snap or snaps[-1]
         if snap and snap not in snaps:
             res.append({"tag": tag, "ok": False, "error": "快照不存在: %s" % snap})
             ok = False
             continue
-        entry = R.compute(repo_path("en", "_catalog", snap_name), acc, skel, resid)
+        entry = R.compute(repo_path("yuanwen", "_catalog", snap_name), acc, skel, resid)
         entry["tag"] = tag
         entry["ok"] = bool(entry.get("equal"))
         res.append(entry)

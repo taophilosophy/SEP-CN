@@ -34,7 +34,7 @@
 
 豁免: 围栏代码块、行内代码、数学定界符、表格行（结构项除外）；桩件（无二级标题或
       <2KB）、带点补充材料子文档（`<slug>.<part>.md`）不适用体例轴。
-对照文件推导: <letter>/<slug>.md → en/<slug>/index.html、yuanwen/<letter>/<slug>.md。
+对照文件推导: zh/<letter>/<slug>.md → yuanwen/<slug>/index.html、en/<letter>/<slug>.md。
 退出码: 0 无问题（告警级）；1 有 issue（仅 --strict）；1 且仅体例轴四则命中（--gate）。
 """
 import json
@@ -129,7 +129,7 @@ def check_tail_order(path, text, issues):
 
 
 def _yuanwen_headings(path):
-    """同件 yuanwen 标题 (level, title) 序列——供「编号与原文一致」豁免（ADR-0063）。
+    """同件 en 标题 (level, title) 序列——供「编号与原文一致」豁免（ADR-0063）。
 
     原文偶有作者自身异常：H2 承载 `N.M`（early-modern-india）、重复编号
     （kaspi-joseph／kilvington 两个 `6.`）、编号倒序（representation-medieval
@@ -137,9 +137,9 @@ def _yuanwen_headings(path):
     """
     name = os.path.basename(path)
     letter = os.path.basename(os.path.dirname(os.path.abspath(path)))
-    root = os.path.dirname(os.path.dirname(os.path.abspath(path)))
-    for cand in (os.path.join(root, "yuanwen", letter, name),
-                 os.path.join("yuanwen", letter, name)):
+    root = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(path))))
+    for cand in (os.path.join(root, "en", letter, name),
+                 os.path.join("en", letter, name)):
         if os.path.exists(cand):
             t = read_text(cand)
             return [(len(m.group(1)), m.group(2).strip())
@@ -455,8 +455,9 @@ def check_authoryear(path, lineno, line, issues, defs, en_text=None):
 
 
 def check_counts(path, slug, zh_text, issues, tol_head=2, tol_bib=2):
-    en_p = os.path.join(os.path.dirname(path).rsplit(os.sep, 1)[0], "en", slug, "index.html")
-    yw_p = os.path.join(os.path.dirname(path), "..", "yuanwen",
+    en_p = os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(path))),
+                        "yuanwen", slug, "index.html")
+    yw_p = os.path.join(os.path.dirname(path), "..", "..", "en",
                         os.path.basename(os.path.dirname(path)), slug + ".md")
     en = read_text(en_p) if os.path.exists(en_p) else None
     yw = read_text(yw_p) if os.path.exists(yw_p) else None
@@ -490,9 +491,10 @@ def check_file(path):
     text = read_text(path)
     slug = os.path.splitext(os.path.basename(path))[0]
     defs, dup = extract_bib_defs(text)
-    en_p = os.path.join(os.path.dirname(base_dir), "en", slug, "index.html")
+    en_p = os.path.join(os.path.dirname(os.path.dirname(base_dir)),
+                        "yuanwen", slug, "index.html")
     en_text = read_text(en_p) if os.path.exists(en_p) else None
-    yw_p = os.path.join(os.path.dirname(base_dir), "yuanwen",
+    yw_p = os.path.join(os.path.dirname(os.path.dirname(base_dir)), "en",
                         os.path.basename(base_dir), slug + ".md")
     yw_text = read_text(yw_p) if os.path.exists(yw_p) else None
     for k in set(dup):
@@ -550,7 +552,7 @@ def _task_state(path):
     name = os.path.basename(path)
     slug = name[:-3] if name.endswith(".md") else name
     letter = os.path.basename(os.path.dirname(os.path.abspath(path)))
-    root = os.path.dirname(os.path.dirname(os.path.abspath(path)))
+    root = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(path))))
     for d in (os.path.join(root, "tasks", letter), os.path.join("tasks", letter)):
         cand = os.path.join(d, slug + ".json")
         if os.path.exists(cand):
@@ -568,7 +570,7 @@ def main(argv):
     gate = "--gate" in argv
     if "--all" in argv:
         import glob
-        args = sorted(glob.glob("[0-9a-z]/*.md"))
+        args = sorted(glob.glob("zh/[0-9a-z]/*.md"))
     if not args:
         print(__doc__)
         return 2

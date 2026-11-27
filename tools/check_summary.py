@@ -1,6 +1,15 @@
 import os, re, sys, io, json
 sys.stdout.reconfigure(encoding='utf-8')
 root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+SUMMARY = os.path.join(root, 'zh', 'SUMMARY.md')
+ZH_ROOT = os.path.join(root, 'zh')
+
+
+def resolve(p):
+    """SUMMARY 条目路径（相对 zh/）→ 磁盘绝对路径；../ 开头指向仓库根。"""
+    if p.startswith('../'):
+        return os.path.join(root, p[3:])
+    return os.path.join(ZH_ROOT, p)
 
 # 2026-11-07 裁定（ADR-0024）：H1 与 SUMMARY 条目文字必须一致；CI 只校验不写回，
 # 本地用 --sync-headers 同步。默认全量结构审计；--headers 只查标题一致性（CI 用）。
@@ -12,7 +21,7 @@ entries = []  # (title, path, raw_line)
 navs = []     # (line_no, indent, title)：无链接分组行（集群占位母行，ADR-0057）
 rows_meta = []  # (line_no, indent) 全部列表行，供「空标签」判定
 unparsed = 0
-with open(os.path.join(root, 'SUMMARY.md'), encoding='utf-8') as f:
+with open(SUMMARY, encoding='utf-8') as f:
     for i, line in enumerate(f, 1):
         s = line.rstrip('\n')
         m = re.match(r'^\s*\*\s+(.*)$', s)
@@ -69,7 +78,7 @@ def header_lines():
     （2026-11-07 实例：误用后 31 个 H1 被截断，已回退）。
     """
     out = []
-    with open(os.path.join(root, 'SUMMARY.md'), encoding='utf-8') as f:
+    with open(SUMMARY, encoding='utf-8') as f:
         for line in f:
             m = re.match(r'^\s*\* \[(.*)\]\(([^)]*)\)\s*$', line.rstrip('\n'))
             if not m:
@@ -136,9 +145,9 @@ def header_mismatches():
     """
     rows = []
     for t, p in header_lines():
-        if p == 'README.md' or is_alias(t):
+        if p == '../README.md' or is_alias(t):
             continue
-        full = os.path.join(root, p)
+        full = resolve(p)
         if not os.path.isfile(full):
             continue
         with open(full, encoding='utf-8-sig') as f:
@@ -155,7 +164,7 @@ def header_mismatches():
 
 
 def rewrite_h1(path, want):
-    full = os.path.join(root, path)
+    full = resolve(path)
     with open(full, 'rb') as f:
         raw = f.read()
     bom = raw.startswith(b'\xef\xbb\xbf')
@@ -204,7 +213,7 @@ for t, p, s in entries:
     lv[ind] = lv.get(ind, 0) + 1
 print('indent levels:', lv)
 
-missing = [(t, p) for t, p, _ in entries if not os.path.isfile(os.path.join(root, p))]
+missing = [(t, p) for t, p, _ in entries if not os.path.isfile(resolve(p))]
 print('missing files: %d' % len(missing))
 for t, p in missing[:30]:
     print('  MISSING: %s -> %s' % (t, p))
@@ -212,13 +221,12 @@ for t, p in missing[:30]:
 # orphan md files (on disk, not referenced by SUMMARY.md)
 ref = set(p for _, p, _ in entries)
 orphans = []
-for dirpath, dirnames, filenames in os.walk(root):
-    dirnames[:] = [d for d in dirnames if d not in ('.git', '.gitbook', 'node_modules', 'script', 'yuanwen', 'en')]
+for dirpath, dirnames, filenames in os.walk(ZH_ROOT):
+    dirnames[:] = [d for d in dirnames if d not in ('.git', 'node_modules', 'script')]
     for fn in filenames:
         if fn.endswith('.md'):
             full = os.path.join(dirpath, fn)
-            rel = os.path.relpath(full, root)
-            rel = rel.replace(os.sep, '/')
+            rel = os.path.relpath(full, ZH_ROOT).replace(os.sep, '/')
             if rel not in ref:
                 orphans.append(rel)
 print('orphan md files: %d' % len(orphans))
@@ -238,7 +246,7 @@ for b in bad[:20]:
 # duplicate paths（ADR-0007：别名行链目标词条路径、导航节点链 README 属预期共享，不计入硬错误）
 from collections import Counter
 c = Counter(p for t, p, _ in entries
-            if '— see' not in t and '——见' not in t and p != 'README.md')
+            if '— see' not in t and '——见' not in t and p != '../README.md')
 dups = [(p, n) for p, n in c.items() if n > 1]
 print('duplicate path entries: %d' % len(dups))
 for p, n in dups[:20]:
@@ -248,7 +256,7 @@ for p, n in dups[:20]:
 fm = []
 near_empty = 0
 for t, p, _ in entries:
-    full = os.path.join(root, p)
+    full = resolve(p)
     if not os.path.isfile(full):
         continue
     with open(full, encoding='utf-8-sig') as f:

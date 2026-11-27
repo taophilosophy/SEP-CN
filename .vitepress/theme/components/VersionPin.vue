@@ -7,7 +7,7 @@ import { useData } from 'vitepress'
 // transformPageData 按页面路径注入 frontmatter.srcMeta，此处只做展示。
 const { page } = useData()
 const m = computed<any>(() => page.value.frontmatter?.srcMeta)
-const isMirror = computed(() => String(page.value.relativePath).startsWith('yuanwen/'))
+const isMirror = computed(() => String(page.value.relativePath).startsWith('en/'))
 const short = computed(() => (m.value?.sha256 ? String(m.value.sha256).slice(0, 12) : ''))
 </script>
 

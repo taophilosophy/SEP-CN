@@ -157,7 +157,7 @@ class TestIterEntriesDirScope(unittest.TestCase):
     """iter_entries 的目录枚举面（回归：2026-11-18 修数字目录漏扫）。
 
     原实现只认 ``d.isalpha() and d.islower()`` 的单字母目录，漏掉数字目录
-    ``yuanwen/1/``，使数字开头词条（如 18thGerman-preKant）在 B1 全库审计里
+    ``en/1/``，使数字开头词条（如 18thGerman-preKant）在 B1 全库审计里
     报 "no yuanwen md"——把"审计器看不见"误报成"产物不存在"。这是覆盖面缺陷，
     不是数据缺陷，故须以回归测试钉住枚举面。
     """
@@ -165,14 +165,14 @@ class TestIterEntriesDirScope(unittest.TestCase):
     def setUp(self):
         self._dir = tempfile.mkdtemp()
         for letter, slug in (("a", "abduction"), ("1", "18thGerman-preKant")):
-            d = os.path.join(self._dir, "yuanwen", letter)
+            d = os.path.join(self._dir, "en", letter)
             os.makedirs(d)
             with open(os.path.join(d, slug + ".md"), "w",
                       encoding="utf-8", newline="\n") as fh:
                 fh.write("# t\n")
         # 非单字符目录（容器）须跳过；点号命名是补充材料子文档，不入主件面
-        os.makedirs(os.path.join(self._dir, "yuanwen", "ab"))
-        with open(os.path.join(self._dir, "yuanwen", "a", "abduction.notes.md"), "w",
+        os.makedirs(os.path.join(self._dir, "en", "ab"))
+        with open(os.path.join(self._dir, "en", "a", "abduction.notes.md"), "w",
                   encoding="utf-8", newline="\n") as fh:
             fh.write("# s\n")
         self._old = cyf.repo_path

@@ -11,9 +11,9 @@ import { fileURLToPath } from 'node:url'
 
 const repoRoot = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..')
 
-// 与站点无关的大目录不进映射，压体积（yuanwen/ 与字母目录是站点页面，保留）
+// 与站点无关的大目录不进映射，压体积（en/、zh/ 与字母目录是站点页面，保留）
 const EXCLUDE = [
-  'en/',
+  'yuanwen/',
   'node_modules/',
   'baseline/',
   'state/',

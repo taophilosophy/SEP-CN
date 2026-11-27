@@ -8,11 +8,11 @@
 
 | 事实域 | 登记源 | 派生视图 / 校验工具 |
 | ---- | ---- | ---- |
-| 目录结构与标题 | `SUMMARY.md` | 各文件 H1（CI 同步，别名行不覆盖）；`tools/check_summary.py` |
-| 学科分类目录 | `mu-lu-s.md`（手编） | `tools/check_mulu_s.py` 对应性检测 |
-| 英文原文镜像 | `yuanwen/<letter>/<slug>.md`（管线转换，不入库） | `tools/compare.py`、`rebuild_dir.py check`、`baseline_audit.py` |
-| 术语译法 | `shu-yu-biao.md` 登记册（ADR-0036 改名） | ——（发布词汇表已并网删除，ADR-0036） |
-| 人名译法 | `ren-ming-biao.md` 登记册（ADR-0012） | ——（发布词汇表已并网删除，ADR-0036） |
+| 目录结构与标题 | `zh/SUMMARY.md` | 各文件 H1（CI 同步，别名行不覆盖）；`tools/check_summary.py` |
+| 学科分类目录 | `zh/mu-lu-s.md`（手编） | `tools/check_mulu_s.py` 对应性检测 |
+| 英文原文镜像 | `en/<letter>/<slug>.md`（管线转换，不入库） | `tools/compare.py`、`rebuild_dir.py check`、`baseline_audit.py` |
+| 术语译法 | `zh/shu-yu-biao.md` 登记册（ADR-0036 改名） | ——（发布词汇表已并网删除，ADR-0036） |
+| 人名译法 | `zh/ren-ming-biao.md` 登记册（ADR-0012） | ——（发布词汇表已并网删除，ADR-0036） |
 | 词条版本事实 | `baseline/` 元数据清单 | `tools/baseline_audit.py` |
 | 文档任务状态 | `tasks/<首字母>/<slug>.json` | `tools/task_ops.py show` |
 | 流程与验收标准 | `specs/<NNN>-*/spec.md`、`plan.md` | `checklists/`、`demo-log.md` |
@@ -57,8 +57,8 @@
 * **提交即推（ADR-0059，2026-11-16 用户裁定）**：每次 `git commit` 成功后立即 `git push`；推前 `git fetch`，落后先 `python tools/sync_guard.py pull`，被拒重跑再推；`--force` 仍禁。ADR-0028 的“积压线”（途中 ≤1、收工清零）作废，收工核对改为 `git log origin/main..main` 为空；推不出去（代理不可用、网络中断）时记录失败命令与时间，恢复后第一时间补推。批次认领／`campaign.py advance`／条目 done 三个检查点仍必须已推送。
 * **孤儿件处置（ADR-0028）**：本地提交不在远程历史时，先 `git cherry` 判内容是否已在远程；已在→本地弃置；不在→reflog 恢复后推送。处置记入对应 spec execution-log，禁止静默。
 * **机器身份以 IP 区分**（两机 git 用户名同为 `ykla`）：M1 `192.168.5.6` → `pc6`，M2 `192.168.5.4` → `pc4`；标签存各克隆本地配置 `git config --local ykla.machine`，会话 ID 前缀取之（`pc6-c-s3-20261109`）。当场取法：`ipconfig | grep -a IPv4 | head -1`。批次交接用 `campaign.py release <批> --note`，接手方重新 claim。
-* **生成物冲突不手工解**：`PROGRESS.md` 任取一侧后 `tools/progress.py` 重生成；`SUMMARY.md` 取并集后 `check_summary.py`；账本 rebase 后重放 `campaign.py advance`（幂等）；术语表／人名表追加式书写，冲突取并集后 `check_terms.py`。
-* 两机尽量不同时开工同一字母批，压低 `SUMMARY.md` 与登记册的文本冲突面；本地相（`script/`、`state/`、`.secrets/`；`en/`、`yuanwen/` 已随 ADR-0027 入库）各机自持，不入库不共享。
+* **生成物冲突不手工解**：`zh/PROGRESS.md` 任取一侧后 `tools/progress.py` 重生成；`zh/SUMMARY.md` 取并集后 `check_summary.py`；账本 rebase 后重放 `campaign.py advance`（幂等）；术语表／人名表追加式书写，冲突取并集后 `check_terms.py`。
+* 两机尽量不同时开工同一字母批，压低 `zh/SUMMARY.md` 与登记册的文本冲突面；本地相（`script/`、`state/`、`.secrets/`；`yuanwen/`、`en/` 已随 ADR-0027 入库）各机自持，不入库不共享。
 * **M1 的 GitHub 访问经 M2 代理**（`192.168.5.4:7890`，本机直连因 TLS 吊销检查脱机不可用）；M2 关机时 M1 无法 push/pull，需等其上线或改用局域网直连仓库应急。`check_all --all` 每次会改写 `specs/001/en-integrity-full.json` 的 `ran_at`，提交前还原，别把时间戳当改动。
 
 ## 质量门与完成定义
@@ -74,7 +74,7 @@
 ## 审计与可追溯（宪法 I/II 落地）
 
 * 每件成品可回溯到英文源版本：任务 JSON 的 `version_pin`（pubinfo 日期 + 存档版名 + SHA-256）+ `baseline/entries.json`。
-* 原始物双账：`en/` 的台账 sha256 永远是**原始网页钉**（不随勘误/重转改写），批准勘误的本地偏离逐条登记 `baseline/en-errata/divergences.json`（ADR-0076），未登记的静默改动由 `divergence.py verify` 门禁红灯；`yuanwen/` 的抓取与转换副本不修改，一切产物可由原始字节复算复核（ADR-0027/0038/0045）。
+* 原始物双账：`yuanwen/` 的台账 sha256 永远是**原始网页钉**（不随勘误/重转改写），批准勘误的本地偏离逐条登记 `baseline/en-errata/divergences.json`（ADR-0076），未登记的静默改动由 `divergence.py verify` 门禁红灯；`en/` 的抓取与转换副本不修改，一切产物可由原始字节复算复核（ADR-0027/0038/0045）。
 * 演示轮的流程问题与裁定记录在 `specs/<feature>/demo-log.md`，作为流程文档修订的输入。
 
 ## 规则自身的维护

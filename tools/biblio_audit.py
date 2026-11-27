@@ -88,7 +88,7 @@ def likely_chinese(probe):
 
 def analyze_slug(slug):
     """单词条 → 文献节盘点；无文献节返回 None。"""
-    p = repo_path("en", slug, "index.html")
+    p = repo_path("yuanwen", slug, "index.html")
     if not os.path.isfile(p):
         return None
     with open(p, encoding="utf-8", errors="replace") as fh:

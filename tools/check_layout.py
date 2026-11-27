@@ -39,11 +39,12 @@ def load_layout(path=LAYOUT):
 
 
 def declared_paths(layout):
-    """声明集合：entries 的 path ＋ letter_dirs 的展开字符。"""
-    declared = {e["path"] for e in layout["entries"]}
-    ld = layout.get("letter_dirs") or {}
-    declared |= set(ld.get("match", ""))
-    return declared
+    """声明集合：entries 的 path。
+
+    letter_dirs 自 2026-11-27 起位于 zh/ 下，不再展开为根级单字符目录；
+    根级只认 entries（zh、en、yuanwen 等）。
+    """
+    return {e["path"].split("/")[0] for e in layout["entries"]}
 
 
 def normalize_table_cell(cell):

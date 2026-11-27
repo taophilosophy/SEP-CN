@@ -78,7 +78,7 @@ def batch_counts(letter):
     for slug, _t in slugs:
         if slug in base:
             fetched += 1
-        if os.path.isfile(repo_path("yuanwen", letter, slug + ".md")):
+        if os.path.isfile(repo_path("en", letter, slug + ".md")):
             converted += 1
         tp = repo_path("tasks", letter, slug + ".json")
         if os.path.isfile(tp):

@@ -185,7 +185,7 @@ def _pristine_html(slug, rec):
     本地件与原始钉一致 → 直接用；有批准分歧 → 经分歧账 base_commit 回溯 git
     原始字节；二者皆无 → 返回错误说明（静默改原文会被 divergence.py verify 拦）。
     返回 (text, None) 或 (None, error_dict)。"""
-    old_path = repo_path("en", slug, "index.html")
+    old_path = repo_path("yuanwen", slug, "index.html")
     main = next((f for f in rec.get("files", []) if f.get("kind") == "main"), None)
     pin = main["sha256"] if main else None
     if pin and sha256_file(old_path) == pin:

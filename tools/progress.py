@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
-"""进度汇总：从 SUMMARY/baseline/journal/tasks 生成 PROGRESS.md（自动生成，不手改）。
+"""进度汇总：从 SUMMARY/baseline/journal/tasks 生成 zh/PROGRESS.md（自动生成，不手改）。
 
-用法: python tools/progress.py [--out PROGRESS.md]
+用法: python tools/progress.py [--out zh/PROGRESS.md]
 数据源（ADR-0068 W4 切读面后）:
   SUMMARY.md（条目结构与分类，清单）＋ baseline/entries.json（已建基线，清单）
   journal/<letter>/<slug>.ndjson（进度事实：pass 事件集合，唯一进度读面）
@@ -51,7 +51,7 @@ def load_summary():
     total_alias = 0
     per_letter = defaultdict(lambda: [0, 0, 0])  # formal, alias, placeholder（按字母分节，ADR-0009）
     section = None
-    with open(os.path.join(ROOT, 'SUMMARY.md'), encoding='utf-8') as f:
+    with open(os.path.join(ROOT, 'zh', 'SUMMARY.md'), encoding='utf-8') as f:
         for line in f:
             s = line.rstrip('\n')
             h = re.match(r'^##\s+([A-Za-z0-9])\s*$', s)
@@ -218,7 +218,7 @@ def count_skeletons(journal_slugs=None, summary_paths=None, root=ROOT):
     """
     if summary_paths is None:
         summary_paths = []
-        with open(os.path.join(root, 'SUMMARY.md'), encoding='utf-8') as f:
+        with open(os.path.join(root, 'zh', 'SUMMARY.md'), encoding='utf-8') as f:
             for line in f:
                 m = re.match(r'^\s*\* \[(.*)\]\(([^)]*)\)\s*$', line.rstrip('\n'))
                 if not m:
@@ -239,7 +239,7 @@ def count_skeletons(journal_slugs=None, summary_paths=None, root=ROOT):
                     journal_slugs.add(fn[:-7])
     skel = body = skel_off = skel_on = 0
     for path in summary_paths:
-        fp = os.path.join(root, path.replace('/', os.sep))
+        fp = os.path.join(root, 'zh', path.replace('/', os.sep))
         try:
             with open(fp, encoding='utf-8') as fh:
                 text = fh.read()
@@ -384,7 +384,7 @@ def main():
 
     lines.append('')
     out = os.path.join(ROOT, sys.argv[sys.argv.index('--out') + 1]) if '--out' in sys.argv \
-        else os.path.join(ROOT, 'PROGRESS.md')
+        else os.path.join(ROOT, 'zh', 'PROGRESS.md')
     with open(out, 'w', encoding='utf-8', newline='\n') as f:
         f.write('\n'.join(lines))
     print('生成 %s（正式词条 %d，核心段完成 %d，在途 %d，强制集完成 %d，完整饱和 %d，阻塞 %d）'

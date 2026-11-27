@@ -14,7 +14,7 @@ from tools.common import repo_path
 
 class TestReferencedAssets(unittest.TestCase):
     def setUp(self):
-        self.tmp = tempfile.mkdtemp(dir=repo_path("en"), prefix="_audit_test_")
+        self.tmp = tempfile.mkdtemp(dir=repo_path("yuanwen"), prefix="_audit_test_")
 
     def tearDown(self):
         shutil.rmtree(self.tmp, ignore_errors=True)

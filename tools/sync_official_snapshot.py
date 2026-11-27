@@ -26,7 +26,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 BASELINE = ROOT / ".github" / "sep-baseline" / "official-snapshot.json"
-CATDIR = ROOT / "en" / "_catalog"
+CATDIR = ROOT / "yuanwen" / "_catalog"
 MIN_MAIN = 1800
 MIN_ALIAS = 600
 
@@ -37,7 +37,7 @@ ALIAS_RE = re.compile(r"^(.*?)\s*[—–]\s*see\s+")
 def latest_snap():
     snaps = sorted(CATDIR.glob("*contents.html"))
     if not snaps:
-        raise SystemExit("en/_catalog 下没有 contents.html 快照")
+        raise SystemExit("yuanwen/_catalog 下没有 contents.html 快照")
     return snaps[-1]
 
 

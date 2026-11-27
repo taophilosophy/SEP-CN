@@ -116,7 +116,7 @@ def version_line(slug):
     return None
 
 def source_blocks(slug):
-    txt = open(f'yuanwen/h/{slug}.md', encoding='utf-8').read()
+    txt = open(f'en/h/{slug}.md', encoding='utf-8').read()
     return [b for b in re.split(r'\n\s*\n', txt) if b.strip()]
 
 def tail_after_last(slug, last_src):

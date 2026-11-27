@@ -18,7 +18,7 @@
 | ---- | ---- |
 | 收到新指令、需求含糊 | `rules/08-intent-first.md`：先复述目标、非目标与验收判据，再选手段；含糊先问不猜 |
 | 翻译、校对词条 | `rules/04-translation-workflow.md`（任务先行，状态机禁跳步）、`rules/02-style.md`、`rules/03-terminology.md`（含正反误用手册）、`rules/07-academic-norms.md`（含缺陷分类 A–D） |
-| 改目录、标题、结构 | `rules/01-repository-structure.md`：`SUMMARY.md` 唯一数据源；词条为 `<letter>/<slug>.md`（ADR-0009）；`mu-lu-s.md` 为手编分类目录 |
+| 改目录、标题、结构 | `rules/01-repository-structure.md`：`zh/SUMMARY.md` 唯一数据源；词条为 `zh/<letter>/<slug>.md`（ADR-0009）；`zh/mu-lu-s.md` 为手编分类目录 |
 | 接入新词条、更新任务 | `specs/001-sep-sync-pipeline/contracts/cli.md` 职责权属表：`apply-add` 唯一入口；`compare` 产出变更文件后建账置空待译（done 件 `reopen --clear`、在途件 `reopen --upstream-sync`、无账件 `create --from`，ADR-0050/0051/0068） |
 | 提交、用工具、CI | `rules/05/index.md` |
 | 过程符合性、信息项凭证、评审与度量 | `rules/09-process-standard.md`（ADR-0044） |
@@ -32,7 +32,7 @@
 1. **基点核对**：`git log --oneline -5`、`git status`；开工先 `python tools/sync_guard.py pull`（判弃自检实拦，ADR-0028），落后不干活。双机克隆任一机可做全部工作（定岗取消，ADR-0066 收编 2026-11-16 裁定）。
 2. **读规则地图**：`rules/README.md` 的规则地图与快速判例。
 3. **跑门禁**：`python tools/check_all.py`（门禁清单以 `--list-gates` 为准，应全绿；本文件不复制项数）。
-4. **看进度与任务**：`PROGRESS.md`、`python tools/task_ops.py show <slug>`。
+4. **看进度与任务**：`zh/PROGRESS.md`、`python tools/task_ops.py show <slug>`。
 
 收工：复跑相关检查器；相关文件提交并推送（中文一行信息；提交即推，ADR-0059）；`git log origin/main..main` 为空；不留半成品。推送后站点更新走壳仓拉取制（ADR-0064）：壳仓每 30 分钟定时拉取子模块、有新指针才重建；手动两档 `gh workflow run -R taophilosophy/taophilosophy.github.io deploy.yml`（默认＝手动拉取；`-F sync_docs=false`＝不动指针原样重建成站）；deploy_bump 与 push 触发已按 2026-11-17 裁定撤除。
 
@@ -43,13 +43,13 @@
 | 知难行易 | 先明确方向与验收判据，再选手段；工具与文档篇幅都不是完成证据 | `rules/08-intent-first.md`、宪法 VII |
 | 零信任 | 既有中文译文不作底稿或修改依据；可疑处回 `en/`、`yuanwen/` 核对；成品可回溯到英文源版本钉（pubinfo、存档版名、SHA-256） | 宪法、ADR-0027 |
 | 主代理单干 | 禁止调用子代理（`Agent`、`Task` 及 workflow 扇出）；唯一例外是用户当轮显式批准并写明范围 | ADR-0034 |
-| 单一事实源 | 结构 `SUMMARY.md`、术语 `shu-yu-biao.md`、人名 `ren-ming-biao.md`、版本 `baseline/`、任务 `tasks/`；不一致时修弱势方 | ADR-0012、ADR-0036 |
+| 单一事实源 | 结构 `zh/SUMMARY.md`、术语 `zh/shu-yu-biao.md`、人名 `zh/ren-ming-biao.md`、版本 `baseline/`、任务 `tasks/`；不一致时修弱势方 | ADR-0012、ADR-0036 |
 | 流程先行 | 动笔前先建任务；先登记术语后使用；每步留 `evidence` | `rules/04`、`rules/03` |
 | 提交纪律 | 小步提交、中文一行信息、只提交相关文件、直接提交 main；**提交即推**（自动 push；推前 fetch，落后先 pull --rebase；禁 force）；收工核对 `git log origin/main..main` 为空 | `rules/06`、ADR-0026、ADR-0059 |
 | 抓取失败显式化 | 4xx／5xx／超时退避重试并记录最终状态，禁止静默跳过；不设最小请求间隔（ADR-0069） | `rules/05` |
 | 抓取完整性 | 词条包内被引用资产必须齐备；`tools/fetch_audit.py` 闭包迭代至不动点，缺件自动补抓 | `tools/fetch_audit.py` |
-| 更新流程 | `fetch_catalog` 检测漂移，`compare.py` 产出变更文件，建账置空待译（done 件 `reopen --clear`、在途件 `reopen --upstream-sync`、无账件 `create --from`；证据 `changes:` 开头；ADR-0050/0051/0068），置空后全量重译走 retranslate 链；**en/ 绝对冻结（ADR-0062）**——与原始钉逐字节一致，文字与格式层一律不改；文字缺陷入全局勘误表（`baseline/en-errata/en-errata.md`，ADR-0076）并在中文译文加译注，格式问题走 `baseline/en-patches/` 补丁池（一补丁一文件，转换层应用，命中计数硬校验）；`yuanwen/` 与 HTML 文字一致（忠实转换，上游错字照录）；en/ 与钉不一致未登记即门禁红（ADR-0045） | `specs/001-sep-sync-pipeline/contracts/cli.md`、`rules/adr/0062-*.md` |
-| 结构形态 | 词条 `<letter>/<slug>.md`，别名链目标；集群占位母行为无链接分组行（不指向文件）；`yuanwen/<letter>/<slug>.md` 镜像逐字符一致 | `rules/01`、ADR-0009、ADR-0057 |
+| 更新流程 | `fetch_catalog` 检测漂移，`compare.py` 产出变更文件，建账置空待译（done 件 `reopen --clear`、在途件 `reopen --upstream-sync`、无账件 `create --from`；证据 `changes:` 开头；ADR-0050/0051/0068），置空后全量重译走 retranslate 链；**`yuanwen/` 原始 HTML 绝对冻结（ADR-0062）**——与原始钉逐字节一致，文字与格式层一律不改；文字缺陷入全局勘误表（`baseline/en-errata/en-errata.md`，ADR-0076）并在中文译文加译注，格式问题走 `baseline/en-patches/` 补丁池（一补丁一文件，转换层应用，命中计数硬校验）；`en/` 是 `yuanwen/` 的 Markdown 转换镜像（忠实转换，上游错字照录）；`en/` 与钉不一致未登记即门禁红（ADR-0045） | `specs/001-sep-sync-pipeline/contracts/cli.md`、`rules/adr/0062-*.md` |
+| 结构形态 | 词条 `zh/<letter>/<slug>.md`，别名链目标；集群占位母行为无链接分组行（不指向文件）；`en/<letter>/<slug>.md` 为 `yuanwen/` HTML 的逐字符镜像 | `rules/01`、ADR-0009、ADR-0057 |
 | 单体文件 | 叙事、规则、规格类 md 超 1000 行或 100 KB 必须按文件夹拆分（登记册与生成物豁免） | ADR-0004、`check_doc_size.py` |
 | 根目录白名单 | 根层只放白名单条目；散件归 `script/`（本地）、`state/`（运行态）或 `specs/<NNN>-*/` 的 `bin`、`results` 子目录；新增根级条目走 ADR | ADR-0023、`check_junk.py` |
 | 批量改写 | 写回前置门（残余不为 0 禁止写回）、幂等、逐行身份追踪、改写前强制基线还原；**把译法套进正文不属于批量改写** | `rules/05` |
@@ -61,4 +61,4 @@
 
 ## 现状与进度
 
-阶段、计数与主战场一律看 `PROGRESS.md`（`tools/progress.py` 生成）与 `specs/005-translation-campaign/session-handoff.md`（开工卡：status、next、claim）；**本文件不复制数字**（ADR-0015）。多机克隆与同步协议（定岗已取消，ADR-0066；只经 `origin/main` 同步）见 `rules/06-governance.md` 的多机并行一节。
+阶段、计数与主战场一律看 `zh/PROGRESS.md`（`tools/progress.py` 生成）与 `specs/005-translation-campaign/session-handoff.md`（开工卡：status、next、claim）；**本文件不复制数字**（ADR-0015）。多机克隆与同步协议（定岗已取消，ADR-0066；只经 `origin/main` 同步）见 `rules/06-governance.md` 的多机并行一节。

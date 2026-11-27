@@ -72,6 +72,7 @@ EXCLUDE_FILES = {
     'ren-ming-biao.md',  # ADR-0012 人名登记册，与术语登记册同性质
     'PROGRESS.md', 'AGENTS.md', 'CODE_OF_CONDUCT.md', 'CONTRIBUTING.md',
     'RELEASE-NOTES.md',  # G5 发布登记页（ADR-0016），非词条（008 第八轮补）
+    '开源翻译.md',  # 调研整理，非 SEP 词条
 }
 
 STUB_BODY_LINES = 10      # 非空行 ≤ 此数（含 H1）视为存根
@@ -441,6 +442,11 @@ def collect_docs(root):
         if parts and (parts[0] in EXCLUDE_DIRS or rel_dir.startswith('.')):
             dirnames[:] = []
             continue
+        # zh/ 下的中文目录：qian-yan、guan-yu、jian-yi-shu、fang-fa-lun 为项目页/交付物，
+        # 不是 SEP 词条，沿用根级时代 EXCLUDE_DIRS 的豁免。
+        if len(parts) > 1 and parts[0] == 'zh' and parts[1] in EXCLUDE_DIRS:
+            dirnames[:] = []
+            continue
         # `_` 前缀目录/文件=会话脚手架（批量子代理提示词、拼装工作台等），
         # 非词条文档，不按词条体例检查
         dirnames[:] = [d for d in dirnames if not d.startswith('_')]
@@ -489,7 +495,7 @@ def check_one_doc(fp, root, by_zh_doc, records, hard, warns, stats, task_states=
     cross_refs = set()
     en_available = False
     slug = os.path.basename(rel)[:-3] if rel.endswith('.md') else ''
-    en_dir = os.path.join(root, 'en', slug)
+    en_dir = os.path.join(root, 'yuanwen', slug)
     if slug and os.path.isdir(en_dir):
         en_available = True
         for fn in os.listdir(en_dir):

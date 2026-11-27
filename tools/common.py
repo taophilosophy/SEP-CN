@@ -150,7 +150,8 @@ def load_json(path):
 
 
 def ensure_dirs():
-    for d in ("en", "en/_catalog", "baseline", "baseline/changes", "tasks", "script"):
+    for d in ("zh", "en", "yuanwen", "yuanwen/_catalog", "baseline", "baseline/changes",
+              "tasks", "script"):
         os.makedirs(repo_path(d), exist_ok=True)
 
 
@@ -218,14 +219,14 @@ def zh_doc_from_lines(slug, title_en, lines):
 
 
 def find_zh_doc(slug, title_en=None):
-    """SUMMARY.md → 中文文档路径（三级匹配，演示轮 2 教训：
+    """zh/SUMMARY.md → 中文文档路径（相对 zh/，三级匹配，演示轮 2 教训：
 
     1) 路径以 slug.md 结尾；
     2) slug 首字母目录下、文件名含 slug（子串或分词）——排除 '— see' 别名词条；
     3) 链接文字含英文标题全词（title_en 来自 citation_title）。
-    目录型词条（如 s/ji-he-lun-set-theory-joan-bagaria/）按 SUMMARY 实际链接形态匹配。
+    目录型词条（如 ji-he-lun-set-theory-joan-bagaria/）按 SUMMARY 实际链接形态匹配。
     """
-    summary = repo_path("SUMMARY.md")
+    summary = repo_path("zh", "SUMMARY.md")
     try:
         text = open(summary, encoding="utf-8-sig").read()
     except FileNotFoundError:

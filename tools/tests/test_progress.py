@@ -91,7 +91,7 @@ class TestCountSkeletons(unittest.TestCase):
                  ("a-alias", True, "alias"),
                  ("a-mother", True, "mother")]
         for slug, has_body, kind in cases:
-            sub = os.path.join(root, "a")
+            sub = os.path.join(root, "zh", "a")
             os.makedirs(sub, exist_ok=True)
             body = ("# 标题 Title (Author)\n\n"
                     + ("哲学论证的内容段落，足够长以过阈值，" * 12 if has_body else ""))
@@ -104,7 +104,7 @@ class TestCountSkeletons(unittest.TestCase):
                 lines.append("* \\*标题——见别处 (X — see Y)")
             else:
                 lines.append("* \\*分类名")
-        with open(os.path.join(root, "SUMMARY.md"), "w",
+        with open(os.path.join(root, "zh", "SUMMARY.md"), "w",
                   encoding="utf-8", newline="\n") as f:
             f.write("\n".join(lines) + "\n")
 

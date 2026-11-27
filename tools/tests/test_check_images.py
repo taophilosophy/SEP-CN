@@ -75,14 +75,14 @@ class ScanTest(unittest.TestCase):
         self.assertEqual([r for _, r in res["remote"]], ["https://example.org/a.png"])
 
     def test_yuanwen_ref_skipped_when_mirror_absent(self):
-        self.write("a/x.md", "![m](../yuanwen/assets/x/fig.png)\n")
+        self.write("a/x.md", "![m](../en/assets/x/fig.png)\n")
         res = self.scan()
         self.assertEqual(res["dangling"], [])
 
     def test_yuanwen_ref_skipped_when_only_mirror_shell_present(self):
         # CI 检出含 yuanwen 的少量跟踪文件（目录在、assets 不在）——仍应跳过镜像引用
-        self.write("a/x.md", "![m](../yuanwen/assets/x/fig.png)\n")
-        self.write("yuanwen/README.md", "# 镜像\n")
+        self.write("a/x.md", "![m](../en/assets/x/fig.png)\n")
+        self.write("en/README.md", "# 镜像\n")
         res = self.scan()
         self.assertEqual(res["dangling"], [])
 

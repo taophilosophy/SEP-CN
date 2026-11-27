@@ -104,11 +104,11 @@ def load_baseline():
 
 
 def iter_entries(only=None, letter=None, limit=None):
-    """枚举 yuanwen 主件（带点补充材料子文档另档，不在此面）。"""
-    root = repo_path("yuanwen")
+    """枚举 en 主件（带点补充材料子文档另档，不在此面）。"""
+    root = repo_path("en")
     out = []
     for d in sorted(os.listdir(root)):
-        # 目录名：单字母（a-z 小写）或单数字（数字开头词条，如 18thGerman-preKant 在 yuanwen/1/）
+        # 目录名：单字母（a-z 小写）或单数字（数字开头词条，如 18thGerman-preKant 在 en/1/）
         if len(d) != 1 or not (d.isdigit() or (d.isalpha() and d.islower())):
             continue
         if letter and d != letter:
@@ -119,7 +119,7 @@ def iter_entries(only=None, letter=None, limit=None):
             slug = f[:-3]
             if "." in slug or (only and slug != only):
                 continue
-            out.append((slug, os.path.join("yuanwen", d, f)))
+            out.append((slug, os.path.join("en", d, f)))
             if limit and len(out) >= limit:
                 return out
     return out
@@ -140,12 +140,12 @@ def check_pins(slug, relpath, baseline):
             issues.append({"slug": slug, "rule": "md-hand-edited",
                            "detail": "md sha256 %s ≠ 登记 %s（产物被手改或未重转即改字）"
                                      % (got[:12], yw["sha256"][:12])})
-    src_path = repo_path("en", slug, "index.html")
+    src_path = repo_path("yuanwen", slug, "index.html")
     if os.path.exists(src_path) and yw.get("source_sha256"):
         got = sha256_file(src_path)
         if got != yw["source_sha256"]:
             issues.append({"slug": slug, "rule": "source-drift",
-                           "detail": "en index.html sha256 %s ≠ 登记 %s（源变未重转）"
+                           "detail": "yuanwen index.html sha256 %s ≠ 登记 %s（源变未重转）"
                                      % (got[:12], yw["source_sha256"][:12])})
     return issues
 
@@ -206,7 +206,7 @@ def html_text(slug, apply_patches=False):
     后解析）同源；默认 False 保持 fidelity 门禁原行为不变。notes.html 补丁另议
     （当前池仅有 index.html 缺空格补丁）。
     """
-    base = repo_path("en", slug)
+    base = repo_path("yuanwen", slug)
     idx = os.path.join(base, "index.html")
     if not os.path.exists(idx):
         return None

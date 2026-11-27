@@ -46,7 +46,7 @@ EXEMPT_RES = (
 
 
 def is_exempt(rel: str) -> bool:
-    return rel in EXEMPT or any(p.match(rel) for p in EXEMPT_RES)
+    return rel.split('/')[-1] in EXEMPT or any(p.match(rel) for p in EXEMPT_RES)
 
 
 def limits_for(rel: str) -> tuple[int, int]:

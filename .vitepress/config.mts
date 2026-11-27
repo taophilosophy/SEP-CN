@@ -19,7 +19,7 @@ const isBuild = process.argv.includes('build')
 // **死链检查在分片模式照常开启**：跨片链接在本片的 pages 里必然“缺失”，但只
 // 要它指向的是本站真实存在的页面就豁免（collectSitePages 扫全仓生成页面集，
 // 与构建无关）。页面在全站都不存在时依旧硬失败——检查强度与全量构建一致。
-// 根级页面与 1/、qian-yan 等非字母目录只进第一片（ad），其 yuanwen/ 英文镜像同片。
+// 根级页面与 zh/1/、zh/qian-yan 等非字母目录只进第一片（ad），其 en/ 英文镜像同片。
 const SHARD_LETTERS: Record<string, string> = {
   ad: 'abcd',
   ek: 'efghijk',
@@ -31,8 +31,8 @@ const shard = (process.env.SEP_SHARD || '').toLowerCase()
 const shardLetters = SHARD_LETTERS[shard]
 const isShard = Boolean(shardLetters)
 const ALL_LETTERS = 'abcdefghijklmnopqrstuvwxyz'
-// 非字母目录（1/ 是 Kant 前德国哲学等的既有落位）——与同名字母目录一样成对处理，
-// 中文与 yuanwen/ 英文镜像必须同片，否则某片只有译文没有原文、双语切换指向未构建页。
+// 非字母目录（zh/1/ 是 Kant 前德国哲学等的既有落位）——与同名字母目录一样成对处理，
+// 中文与 en/ 英文镜像必须同片，否则某片只有译文没有原文、双语切换指向未构建页。
 const NON_LETTER_DIRS = ['1', 'qian-yan', 'guan-yu', 'jian-yi-shu', 'fang-fa-lun']
 const isRootShard = shardLetters === ROOT_SHARD_LETTERS
 const shardExclude: string[] = isShard
@@ -40,15 +40,16 @@ const shardExclude: string[] = isShard
       // 非本片字母的词条目录与英文镜像
       ...ALL_LETTERS.split('')
         .filter((l) => !shardLetters!.includes(l))
-        .flatMap((l) => [`${l}/**`, `yuanwen/${l}/**`]),
-      // 根级页面（README、mu-lu-s、两本登记册、SUMMARY 等）与非字母目录只进首片
-      // （ad）；英文侧根级页面（yuanwen/README.md）同理，保持中英同片。
+        .flatMap((l) => [`zh/${l}/**`, `en/${l}/**`]),
+      // 根级页面（README、mu-lu-s、两本登记册等）与非字母目录只进首片
+      // （ad）；英文侧根级页面（en/README.md）同理，保持中英同片。
       ...(isRootShard
         ? []
         : [
             '*.md',
-            'yuanwen/README.md',
-            ...NON_LETTER_DIRS.flatMap((d) => [`${d}/**`, `yuanwen/${d}/**`]),
+            'zh/*.md',
+            'en/README.md',
+            ...NON_LETTER_DIRS.flatMap((d) => [`zh/${d}/**`, `en/${d}/**`]),
           ]),
     ]
   : []
@@ -185,16 +186,19 @@ function buildSidebar(items: Item[]): (VpItem | { text: string; collapsed: boole
   return result
 }
 
-const zhItems = parseSummary(path.join(repoRoot, 'SUMMARY.md'))
-const enItems = parseSummary(path.join(repoRoot, 'yuanwen', 'SUMMARY.md'))
-// yuanwen/SUMMARY.md 的条目 href 相对 yuanwen/ 目录（../ 开头的导航行指向仓库外），
-// 统一改写为仓库根相对路径。此前未做此改写时 zhToEn 配对恒为空：对照按钮从不
-// 渲染、英文侧栏字母分组取错、链接指到中文页（2026-10-30 实测发现并修复）
-for (const it of enItems) {
-  if (it.kind === 'item' && it.href && !it.href.startsWith('../') && !/^https?:/.test(it.href)) {
-    it.href = 'yuanwen/' + it.href
+const zhItems = parseSummary(path.join(repoRoot, 'zh', 'SUMMARY.md'))
+const enItems = parseSummary(path.join(repoRoot, 'en', 'SUMMARY.md'))
+// zh/SUMMARY.md 的 href 相对 zh/，en/SUMMARY.md 的 href 相对 en/。
+// 统一归一为仓库根相对路径：../ 开头的根级页去前缀，其余补目录前缀。
+function normalizeSummaryHrefs(items: Item[], dir: 'zh' | 'en') {
+  for (const it of items) {
+    if (it.kind !== 'item' || !it.href || /^https?:/.test(it.href)) continue
+    if (it.href.startsWith('../')) it.href = it.href.replace(/^(\.\.\/)+/, '')
+    else it.href = dir + '/' + it.href.replace(/^\.\//, '')
   }
 }
+normalizeSummaryHrefs(zhItems, 'zh')
+normalizeSummaryHrefs(enItems, 'en')
 
 // ------------------------------------------------------- 中英页面配对（按序对齐）--
 
@@ -207,7 +211,7 @@ for (let i = 0; i < Math.min(flatZh.length, flatEn.length); i++) {
   const zh = flatZh[i]
   const en = flatEn[i]
   if (zh.title !== en.title) continue // 结构漂移保护：标题不一致就不配对
-  if (!/^yuanwen\/.+\.md$/.test(en.href!)) continue
+  if (!/^en\/.+\.md$/.test(en.href!)) continue
   zhToEn[zh.href!] = en.href!
   enToZh[en.href!] = zh.href!
   const letter = en.href!.split('/')[1] || '其他'
@@ -221,19 +225,19 @@ const enSidebar: any[] = Object.keys(enGroups)
 // ------------------------------------------------ 侧栏按字母分键（A1） --
 // VitePress 按前缀最长匹配取侧栏：词条页只内联本字母条目树（页重 1.2MB→约
 // 300KB），非词条页（/、mu-lu-s 等）仍走 '/' 全树。2026-10-30 用户拍板。
-const catLink = { text: '分类目录', link: '/mu-lu-s' }
+const catLink = { text: '分类目录', link: '/zh/mu-lu-s' }
 
 const zhSidebarByLetter: Record<string, any[]> = {}
 const byLetter: Record<string, Item[]> = {}
 {
   for (const it of zhItems) {
     if (it.kind !== 'item' || !it.href) continue
-    const seg = it.href.split('/')[0]
+    const seg = it.href.split('/')[1]
     if (!/^[a-z0-9]$/.test(seg)) continue // 单字符字母/数字桶；qian-yan 等目录页走 slim 索引
     ;(byLetter[seg] ||= []).push(it)
   }
   for (const seg of Object.keys(byLetter).sort()) {
-    zhSidebarByLetter[`/${seg}/`] = [
+    zhSidebarByLetter[`/zh/${seg}/`] = [
       catLink,
       { text: seg.toUpperCase(), collapsed: true, items: toTree(byLetter[seg]) },
     ]
@@ -265,8 +269,8 @@ const slimIndexSidebar: any[] = [
 
 const dirSidebars: Record<string, any[]> = {}
 for (const seg of ['qian-yan', 'guan-yu', 'jian-yi-shu']) {
-  const own = zhItems.filter((i) => i.kind === 'item' && i.href?.startsWith(seg + '/'))
-  dirSidebars[`/${seg}/`] = [
+  const own = zhItems.filter((i) => i.kind === 'item' && i.href?.startsWith(`zh/${seg}/`))
+  dirSidebars[`/zh/${seg}/`] = [
     catLink,
     ...own.map((i) => ({ text: cleanTitle(i.title), link: sidebarLink(i.href!) })),
   ]
@@ -274,7 +278,7 @@ for (const seg of ['qian-yan', 'guan-yu', 'jian-yi-shu']) {
 
 const enSidebarByLetter: Record<string, any[]> = {}
 for (const letter of Object.keys(enGroups).sort()) {
-  enSidebarByLetter[`/yuanwen/${letter}/`] = [
+  enSidebarByLetter[`/en/${letter}/`] = [
     catLink,
     { text: letter.toUpperCase(), collapsed: true, items: enGroups[letter] },
   ]
@@ -333,7 +337,7 @@ const pendingSupplementPages = [
 // shardExclude：这里只描述“哪些文件不是站点页面”，与分片无关，故分片模式的死链
 // 判定可以直接复用它扫全仓（见 collectSitePages）。
 const siteExclude = [
-  'en/**',
+  'yuanwen/**',
   'specs/**',
   '.specify/**',
   'tools/**',
@@ -348,8 +352,8 @@ const siteExclude = [
   'AGENTS.md',
   'CONTRIBUTING.md',
   'CODE_OF_CONDUCT.md',
-  'yuanwen/SUMMARY.md',
-  'yuanwen/SUMMARY-en.md',
+  'en/SUMMARY.md',
+  'en/SUMMARY-en.md',
 ]
 
 // 分片模式的死链检查（2026-11-16 用户裁定：必须打开）。
@@ -394,8 +398,8 @@ export default defineConfig({
   lang: 'zh-CN',
   title: 'SEP 中文版',
   description: '斯坦福哲学百科全书（SEP）简体中文翻译项目，与英文原文对照阅读',
-  // 语言切换（VitePress 原生 locales）：root=中文词条，/yuanwen/=英文原文页。
-  // 两个 locale 只是同一站点树的路径前缀语义（yuanwen 页即中文词条的英文镜像），
+  // 语言切换（VitePress 原生 locales）：root=根级中文页，/zh/=中文词条，
+  // /en/=英文原文页。两个 locale 只是同一站点树的路径前缀语义，
   // 页面集不受 locales 影响。en locale 的 themeConfig 覆盖根级同名键（浅合并：
   // 对象键整体覆盖，故 outline/editLink 须连子键一起重给）。切换目标由
   // themeConfig.i18nRouting 接管：按 frontmatter.enPath/zhPath 配对直达，
@@ -404,17 +408,17 @@ export default defineConfig({
   locales: {
     root: { lang: 'zh-CN', label: '简体中文' },
     // 键必须是「不带前导斜杠的目录名」（getLocaleForPath 按正则 ^/<键>/ 匹配
-    // relativePath，带斜杠的键会拼成 ^//yuanwen/ 永不命中，lang="en" 就不会
+    // relativePath，带斜杠的键会拼成 ^//en/ 永不命中，lang="en" 就不会
     // 落到 HTML——2026-11-23 ad 片构建实测 0 页 en 后按 node 源码定位）。
-    yuanwen: {
+    en: {
       lang: 'en',
       label: 'English',
       themeConfig: {
         nav: [
           { text: 'Home', link: '/' },
-          { text: 'Categories', link: '/mu-lu-s' },
-          { text: 'Glossary', link: '/qian-yan/ci-hui-biao' },
-          { text: 'Terminology', link: '/shu-yu-biao' },
+          { text: 'Categories', link: '/zh/mu-lu-s' },
+          { text: 'Glossary', link: '/zh/qian-yan/ci-hui-biao' },
+          { text: 'Terminology', link: '/zh/shu-yu-biao' },
         ],
         outline: { level: [2, 3], label: 'On this page' },
         docFooter: { prev: 'Previous', next: 'Next' },
@@ -439,7 +443,7 @@ export default defineConfig({
   // VitePress 把死链记为构建硬失败（renderStart 抛错），故下列数组仅登记已核实的存量缺口，
   // 任何新增死链都会阻断构建。台账：
   // specs/005-translation-campaign/results/supplement-translation-gap-2026-11-13.md
-  // 收敛规则：每落地一个 <letter>/<slug>.<x>.md 译文，即从 pendingSupplementPages 删除对应一条；
+  // 收敛规则：每落地一个 zh/<letter>/<slug>.<x>.md 译文，即从 pendingSupplementPages 删除对应一条；
   // 清空后删除本配置项，恢复零豁免。
   // VitePress shouldIgnoreDeadLink 传入的 url 带 ./ 前缀且已去 .md 后缀，故统一加前缀。
   // 分片构建下跨片链接必然“缺失”：靠数组末尾的 isExistingSitePage 豁免指向全站
@@ -451,6 +455,10 @@ export default defineConfig({
     './Unmarried',
     './*Gx*',
     './f',
+    // 英文镜像保留原文的 notes.html 链接（脚注原页），站点不构建 HTML 原包；
+    // ADR-0062 要求镜像逐字符一致，故此处按已知缺口豁免。
+    './notes',
+    /^\.\/notes(\.html)?(#.*)?$/,
     isExistingSitePage,
   ],
   // 2026-10-29 逐项选定：URL 去 .html；词条页标签加站名后缀；显示更新时间。
@@ -524,7 +532,7 @@ export default defineConfig({
       // 生成仅含被引用条目的脚注区——回跳锚与 littlefoot 气泡内容源均不受影响。
       // 自定义 token 类型与类名和脚注体系隔离，避开 littlefoot 对脚注容器的
       // 清空删除逻辑；li 加 v-pre（定义行含字面 {{ 的实例如
-      // yuanwen/z/zermelo-set-theory note-29），杜绝新渲染内容触发 Vue 插值。
+      // en/z/zermelo-set-theory note-29），杜绝新渲染内容触发 Vue 插值。
       md.core.ruler.after('inline', 'refsInPlace', (state) => {
         const { tokens, Token } = state
         const groups: { start: number; end: number; tokens: typeof tokens }[] = []
@@ -561,12 +569,12 @@ export default defineConfig({
     siteTitle: 'SEP 中文版',
     nav: [
       { text: '首页', link: '/' },
-      { text: '分类目录', link: '/mu-lu-s' },
-      { text: '词汇表', link: '/qian-yan/ci-hui-biao' },
-      { text: '术语对照', link: '/shu-yu-biao' },
+      { text: '分类目录', link: '/zh/mu-lu-s' },
+      { text: '词汇表', link: '/zh/qian-yan/ci-hui-biao' },
+      { text: '术语对照', link: '/zh/shu-yu-biao' },
     ],
     sidebar: {
-      '/yuanwen/': enSidebar,
+      '/en/': enSidebar,
       ...enSidebarByLetter,
       '/': slimIndexSidebar,
       ...zhSidebarByLetter,
@@ -581,8 +589,8 @@ export default defineConfig({
     // 看到切换器，本函数只是构建期 href 的确定性兜底）。
     i18nRouting: (data, _route, targetLocale) => {
       const fm = (data.page.value?.frontmatter ?? {}) as Record<string, string>
-      const toEn = targetLocale === 'yuanwen'
-      return (toEn ? fm.enPath : fm.zhPath) || (toEn ? '/yuanwen/' : '/')
+      const toEn = targetLocale === 'en'
+      return (toEn ? fm.enPath : fm.zhPath) || (toEn ? '/en/' : '/')
     },
     docFooter: { prev: '上一篇', next: '下一篇' },
     returnToTopLabel: '回到顶部',
@@ -762,7 +770,7 @@ export default defineConfig({
           '**/.git/**',
           '**/.vitepress/dist/**',
           '**/.vitepress/cache-build/**',
-          '**/en/**',
+          '**/yuanwen/**',
           '**/tools/**',
           '**/state/**',
           '**/tasks/**',

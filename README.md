@@ -2,9 +2,9 @@
 
 [原版英文目录](https://plato.stanford.edu/contents.html)
 
-[SEP 原版中文目录](SUMMARY.md)
+[SEP 原版中文目录](zh/SUMMARY.md)
 
-[SEP 分类目录](mu-lu-s.md)
+[SEP 分类目录](zh/mu-lu-s.md)
 
 [开源地址](https://github.com/taophilosophy/SEP-CN)
 
@@ -18,7 +18,7 @@
 
 ## 项目进度
 
-全库处于**全量重译战役**期（FR-013）：既有机器翻译正文已清空，各词条正按"抓取基线 → 三审三校"状态机逐条重译。实时进度由 `python tools/progress.py` 生成，见 [PROGRESS.md](PROGRESS.md)（自动生成，不手改）。
+全库处于**全量重译战役**期（FR-013）：既有机器翻译正文已清空，各词条正按"抓取基线 → 三审三校"状态机逐条重译。实时进度由 `python tools/progress.py` 生成，见 [zh/PROGRESS.md](zh/PROGRESS.md)（自动生成，不手改）。
 
 ## 关于 SEP
 

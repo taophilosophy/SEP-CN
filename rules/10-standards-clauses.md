@@ -9,12 +9,12 @@
 
 | 条款 | 要求（摘） | 本库落点 | 判定方式 |
 | ---- | ---- | ---- | ---- |
-| 4.1.1–4.1.2 | 部件按原文顺序；篇章结构与内容一致，删略须说明 | `SUMMARY.md` 顺序、H1 后正文结构；差异记入 `project_spec` | `check_pairs`／`check_counts`＋人工 |
+| 4.1.1–4.1.2 | 部件按原文顺序；篇章结构与内容一致，删略须说明 | `zh/SUMMARY.md` 顺序、H1 后正文结构；差异记入 `project_spec` | `check_pairs`／`check_counts`＋人工 |
 | 4.4.3 | 译者注与原文注释**不同注码序列** | 译者注释节圈号锚点独立编号 | `check_academic`（s2.4 三轴） |
 | 4.4.5 | 译者注不用正文夹注 | 注释节／脚注承载 | 部分：存量句内括注为过渡形态，随重译收口（ADR-0065） |
-| 5.2.4 | 人名间隔号“·”、缩写下脚点、原文连字符→半字线 | `ren-ming-biao.md`＋[03](03-terminology.md) | `check_terms`（形态）＋人工 |
+| 5.2.4 | 人名间隔号“·”、缩写下脚点、原文连字符→半字线 | `zh/ren-ming-biao.md`＋[03](03-terminology.md) | `check_terms`（形态）＋人工 |
 | 5.2.5 | 首现译名后括注原文 | [03](03-terminology.md) 首现括注 | 人工 |
-| 5.5.3–5.5.4 | 术语用规范／通行译名，首现括注原文 | `shu-yu-biao.md`、`baseline/term-concepts.md` | `check_terms`／`check_term_pool` |
+| 5.5.3–5.5.4 | 术语用规范／通行译名，首现括注原文 | `zh/shu-yu-biao.md`、`baseline/term-concepts.md` | `check_terms`／`check_term_pool` |
 | 5.6 | 缩写词首现译全并括注原文全称 | [03](03-terminology.md) 缩写处理 | 人工 |
 | 5.7 | 世纪—年代保留阿拉伯数字 | [02](02-style.md) 数字主随源 | `connector-scan`（告警） |
 | 5.8 | 量和单位符号按 GB 3100／GB/T 3101 | [02](02-style.md) 照录 | 人工 |
@@ -33,7 +33,7 @@
 | 5.5.2 | 并列英文字母／词用顿号 | [02](02-style.md) | 人工 |
 | 5.8.2 | 中文句内夹英文句子用中文引号，内部用英文标点 | [02](02-style.md) | `check_style` curly-quotes（部分） |
 | 5.12.2 | 英文内部用英文连接号；中英之间用中文连接号 | [02](02-style.md) | `connector-form`（告警级） |
-| 6.1–6.2 | 中文人名缩略用中圆点，英文用下脚点 | `ren-ming-biao.md` | `check_terms`＋人工 |
+| 6.1–6.2 | 中文人名缩略用中圆点，英文用下脚点 | `zh/ren-ming-biao.md` | `check_terms`＋人工 |
 | 7.1–7.3 | 普通词小写；专名保留大写；整句首词大写 | 引文照录，不改源文字 | 人工（照录豁免） |
 | 8.1 | 中英之间留空与否三选一，但全书统一 | 统一留一个半角空格 | `check_style` cjk-spacing |
 | 8.2 | 英文与中文标点之间不设空格 | **偏离 V03**：引号／括号邻接保留半角空格（ADR-0041） | `quote-spacing`（偏离感知） |

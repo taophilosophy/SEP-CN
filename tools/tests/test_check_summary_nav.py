@@ -31,7 +31,7 @@ class NavRowTest(unittest.TestCase):
         os.makedirs(os.path.join(self.root, "tools"))
         shutil.copy(SCRIPT, os.path.join(self.root, "tools", "check_summary.py"))
         self.write("README.md", "# 斯坦福哲学百科全书简体中文版\n")
-        self.write("a/a.md", "# 词条 A\n")
+        self.write("zh/a/a.md", "# 词条 A\n")
 
     def tearDown(self):
         self._tmp.cleanup()
@@ -43,11 +43,11 @@ class NavRowTest(unittest.TestCase):
             f.write(text)
 
     def summary(self, *rows):
-        self.write("SUMMARY.md", "\n".join(rows) + "\n")
+        self.write("zh/SUMMARY.md", "\n".join(rows) + "\n")
 
     def test_linkless_nav_row_passes(self):
         self.summary(
-            "* [斯坦福哲学百科全书简体中文版](README.md)",
+            "* [斯坦福哲学百科全书简体中文版](../README.md)",
             "",
             "## A",
             "",
@@ -62,7 +62,7 @@ class NavRowTest(unittest.TestCase):
 
     def test_empty_nav_row_fails(self):
         self.summary(
-            "* [斯坦福哲学百科全书简体中文版](README.md)",
+            "* [斯坦福哲学百科全书简体中文版](../README.md)",
             "",
             "## A",
             "",
@@ -76,7 +76,7 @@ class NavRowTest(unittest.TestCase):
 
     def test_broken_link_still_unparsed(self):
         self.summary(
-            "* [斯坦福哲学百科全书简体中文版](README.md)",
+            "* [斯坦福哲学百科全书简体中文版](../README.md)",
             "",
             "## A",
             "",
@@ -89,7 +89,7 @@ class NavRowTest(unittest.TestCase):
 
     def test_headers_mode_ignores_nav_rows(self):
         self.summary(
-            "* [斯坦福哲学百科全书简体中文版](README.md)",
+            "* [斯坦福哲学百科全书简体中文版](../README.md)",
             "",
             "## A",
             "",
@@ -103,7 +103,7 @@ class NavRowTest(unittest.TestCase):
     def test_childless_alias_row_passes(self):
         """别名词条行（ADR-0060）没有子条目是常态，不得计入空分组硬错误。"""
         self.summary(
-            "* [斯坦福哲学百科全书简体中文版](README.md)",
+            "* [斯坦福哲学百科全书简体中文版](../README.md)",
             "",
             "## A",
             "",
@@ -120,7 +120,7 @@ class NavRowTest(unittest.TestCase):
         self.write("baseline/entries.json", json.dumps(
             {"entries": [{"slug": "a", "title": "A Thing"}]}, ensure_ascii=False))
         self.summary(
-            "* [斯坦福哲学百科全书简体中文版](README.md)",
+            "* [斯坦福哲学百科全书简体中文版](../README.md)",
             "",
             "## A",
             "",
@@ -135,7 +135,7 @@ class NavRowTest(unittest.TestCase):
         self.write("baseline/entries.json", json.dumps(
             {"entries": [{"slug": "a", "title": "A Thing"}]}, ensure_ascii=False))
         self.summary(
-            "* [斯坦福哲学百科全书简体中文版](README.md)",
+            "* [斯坦福哲学百科全书简体中文版](../README.md)",
             "",
             "## A",
             "",

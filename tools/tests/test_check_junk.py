@@ -33,10 +33,10 @@ class RootAllowlistTest(unittest.TestCase):
             f.write('')
 
     def test_allowlisted_entries_pass(self):
-        self.touch('SUMMARY.md')
+        self.touch('zh/SUMMARY.md')
         self.touch('rules/01-repository-structure.md')
-        os.makedirs(os.path.join(self.root, 'a'))
-        self.assertEqual(hits_of(['SUMMARY.md', 'rules/x.md', 'a/b.md'], self.root), {})
+        os.makedirs(os.path.join(self.root, 'zh'), exist_ok=True)
+        self.assertEqual(hits_of(['zh/SUMMARY.md', 'rules/x.md', 'zh/a/b.md'], self.root), {})
 
     def test_stray_root_file_flagged(self):
         self.touch('dev_null.json')

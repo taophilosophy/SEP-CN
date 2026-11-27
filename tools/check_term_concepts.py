@@ -3,7 +3,7 @@
 """术语概念层校验（ADR-0084 D5=B）：新登记术语必须同时有概念行。
 
 口径：
-  * 指称层 `shu-yu-biao.md`（键｜原文｜译法｜首现｜依据｜裁定日期）——由 check_terms 管。
+  * 指称层 `zh/shu-yu-biao.md`（键｜原文｜译法｜首现｜依据｜裁定日期）——由 check_terms 管。
   * 概念层 `baseline/term-concepts.md`（键｜定义｜学科域｜概念关系｜依据｜裁定日期）——本工具管。
   * 仅检查裁定日期 ≥ --since（默认 2026-12-01）的指称行；存量随重译补齐，不追溯。
 
@@ -23,7 +23,7 @@ except (AttributeError, ValueError, OSError):
     pass
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-REG = os.path.join(ROOT, "shu-yu-biao.md")
+REG = os.path.join(ROOT, "zh", "shu-yu-biao.md")
 CON = os.path.join(ROOT, "baseline", "term-concepts.md")
 DATE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 

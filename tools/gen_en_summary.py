@@ -1,16 +1,16 @@
 # -*- coding: utf-8 -*-
-"""生成 GitBook 英文空间（yuanwen/）的目录文件 `yuanwen/SUMMARY-en.md`（ADR-0056）。
+"""生成 GitBook 英文空间（en/）的目录文件 `en/SUMMARY-en.md`（ADR-0056）。
 
-为什么需要它：`yuanwen/SUMMARY.md` 是中文侧目录的**逐字符镜像**（标题为中文、条目路径
+为什么需要它：`en/SUMMARY.md` 是中文侧目录的**逐字符镜像**（标题为中文、条目路径
 以 `../` 指回仓库根），既被 VitePress 的中英配对使用（标题相等才配对，不能改），又不能
 直接当 GitBook 英文空间的 TOC——GitBook 以 space 根为界，`../` 条目会出界被丢弃。
 
-本工具从 `SUMMARY.md` 派生英文 TOC：
-  * 只保留目标文件在 `yuanwen/` 内存在的条目（中文侧导航行如 `qian-yan/*` 自然被剔除）；
+本工具从 `zh/SUMMARY.md` 派生英文 TOC：
+  * 只保留目标文件在 `en/` 内存在的条目（中文侧导航行如 `qian-yan/*` 自然被剔除）；
   * 标题取「最后一个汉字之后的英文部分」，并保留别名行首的 `*` / `\\*` 标记；
     英文写在前面时（如 `\\*Confucianism 儒学`）取汉字之前的部分；
   * 英文部分内的顿号 `、`（SEP 作者并列）统一为半角逗号；
-  * 条目路径改写为相对 `yuanwen/` 根的形态（即去掉 `../`）；
+  * 条目路径改写为相对 `en/` 根的形态（即去掉 `../`）；
   * 母词条占位行按 ADR-0057 §6 输出为**无链接分组行**（去 `\\*` 标记、留英文标签与缩进）：
     中文侧两形态（`* [\\*美学 aesthetics](README.md)` 与 `* \\*美学 aesthetics`）产出同一结果，
     且绝不指向文件——GitBook 一文件一页，重复引用 `README.md` 会被拒收；
@@ -19,7 +19,7 @@
 确定性：同一输入必得同一输出，不依赖时间与网络；`--check` 只校验不写回（可入 CI）。
 
 用法:
-  python tools/gen_en_summary.py             # 生成/覆盖 yuanwen/SUMMARY-en.md
+  python tools/gen_en_summary.py             # 生成/覆盖 en/SUMMARY-en.md
   python tools/gen_en_summary.py --check     # 校验是否最新（退出码 1 = 需重生成）
   python tools/gen_en_summary.py --verbose   # 附逐条跳过原因
   python tools/gen_en_summary.py --no-groups # 省略分组行（ADR-0057 回退形态）
@@ -36,8 +36,8 @@ except (AttributeError, ValueError, OSError):
     pass
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-SUMMARY = os.path.join(ROOT, "SUMMARY.md")
-TARGET = os.path.join(ROOT, "yuanwen", "SUMMARY-en.md")
+SUMMARY = os.path.join(ROOT, "zh", "SUMMARY.md")
+TARGET = os.path.join(ROOT, "en", "SUMMARY-en.md")
 
 CJK = re.compile(r"[\u3400-\u4dbf\u4e00-\u9fff]")
 # 汉字与英文标题之间常夹全角标点（书名号、括号、顿号、破折号），切分后须一并剥掉；
@@ -74,7 +74,7 @@ def english_title(title):
 
 
 def build(summary_path=SUMMARY, groups=True, base=None):
-    base = base or os.path.join(ROOT, "yuanwen")
+    base = base or os.path.join(ROOT, "en")
     with open(summary_path, encoding="utf-8") as fh:
         lines = fh.read().split("\n")
 
@@ -105,7 +105,7 @@ def build(summary_path=SUMMARY, groups=True, base=None):
                 skipped.append((href, title, "目标不在 yuanwen/ 内"))
                 continue
             if not os.path.exists(os.path.join(base, href)):
-                skipped.append((href, title, "yuanwen/ 中无此文件"))
+                skipped.append((href, title, "en/ 中无此文件"))
                 continue
             en = english_title(title)
             if en is None:

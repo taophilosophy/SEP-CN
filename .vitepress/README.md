@@ -43,7 +43,7 @@ bun run preview  # 预览构建产物（不跑 prepare-*）
 
 单次全量构建的固定成本结构：打包约 3.5 min、渲染 4326 页约 15 min、pagefind 索引约 5.3 min。CI 把渲染摊到四个分片并行：
 
-* `SEP_SHARD=ad|ek|lp|qz` 时每片只渲染约 1/4 页面（2026-11-16 实测内容页：a–d 1164、e–k 1050、l–p 1196、q–z 915，中英两侧同片；各片另出 404 一页）。根级页面（README、`mu-lu-s`、两本登记册、SUMMARY）、`1/` 与 `qian-yan`、`guan-yu`、`jian-yi-shu`、`fang-fa-lun` 等非字母目录**连同其 `yuanwen/` 英文镜像**只进 `ad` 片（`yuanwen/README.md` 亦同）——中英必须同片，否则某片只有译文没有原文、双语切换指向未构建的页面。产物写 `.vitepress/dist-<shard>`，pagefind 不在分片内跑。
+* `SEP_SHARD=ad|ek|lp|qz` 时每片只渲染约 1/4 页面（2026-11-16 实测内容页：a–d 1164、e–k 1050、l–p 1196、q–z 915，中英两侧同片；各片另出 404 一页）。根级页面（README、`zh/mu-lu-s`、`zh` 两本登记册、`zh/SUMMARY`）、`zh/1` 与 `zh/qian-yan`、`zh/guan-yu`、`zh/jian-yi-shu`、`zh/fang-fa-lun` 等非字母目录**连同其 `en/` 英文镜像**只进 `ad` 片（`en/README.md` 亦同）——中英必须同片，否则某片只有译文没有原文、双语切换指向未构建的页面。产物写 `.vitepress/dist-<shard>`，pagefind 不在分片内跑。
 * 分片模式**死链检查照常开启**（2026-11-16 用户裁定，`config.mts` 的 `isExistingSitePage`）：分片只渲染本片页面，跨片链接按 VitePress 规则会判死链，故扫描全仓 md 生成"全站页面集"（排除规则与 `siteExclude` 同源），指向其中任一页面的链接豁免、全站都不存在的链接仍硬失败。强度与全量构建一致：实测在分片页里插入一条死链，构建在该处报 `1 dead link(s) found` 退出。
 * `.vitepress/merge-shards.mjs` 依次：叠加各片 dist → `hashmap.json` 取并集（客户端在本片哈希表缺项时会回退 fetch `/hashmap.json` 重试，并集后跨片跳转正常）→ 拼接各片 `sitemap.xml` 的 `<url>` 条目 → 对整份 dist 跑一次 pagefind（参数与插件一致：`--exclude-selectors "div.aside, a.header-anchor"`）。
 * 实测：本地单片（打包＋渲染）117–201 s，合并（含 pagefind）288 s；CI 四片并行各 1:55–2:20，合并 3:06，全流程 **6 分 21 秒**（改造前单进程约 20 分钟）。CI 侧 `deploy.yml` 为 sync（可选）→ matrix → merge → deploy 四段（`sync_docs` 开关决定是否先拉子模块）。
@@ -51,12 +51,12 @@ bun run preview  # 预览构建产物（不跑 prepare-*）
 ## dev 服务器
 
 * 固定 `host: '0.0.0.0'`、`port: 81`、`strictPort: true`——端口被占用即启动失败，不自动换端口。
-* `watch.usePolling: true`（1500 ms）：本仓库所在盘的 `ReadDirectoryChangesW` 会报 UNKNOWN 错误；`en/`、`tools/`、`tasks/`、`baseline/`、`specs/` 等大目录不监听。
+* `watch.usePolling: true`（1500 ms）：本仓库所在盘的 `ReadDirectoryChangesW` 会报 UNKNOWN 错误；`yuanwen/`、`tools/`、`tasks/`、`baseline/`、`specs/` 等大目录不监听。
 * dev 端 `index.md → README.md` 中间件：VitePress 2.0 alpha 的 dev 只按 `/index.md` 解析页面，本仓库沿用 GitBook 的 `README.md` 作首页与目录首页；中间件把请求改写为同路径的 `README.md`（存在时），使 dev 与 build 行为一致。
 
 ## 页面范围（srcExclude）
 
-`en/`、`specs/`、`.specify/`、`tools/`、`tasks/`、`baseline/`、`script/`、`state/`、`rules/`、`.github/`、`.zcode/`、`.qoder/`、`AGENTS.md`、`CONTRIBUTING.md`、`CODE_OF_CONDUCT.md`、`yuanwen/SUMMARY.md`、`yuanwen/SUMMARY-en.md` 不参与构建。**新增治理/管线目录时必须同步补 `srcExclude`**，否则其中的 md 会成为站点页面并被全文搜索索引（ADR-0015）。
+`yuanwen/`、`specs/`、`.specify/`、`tools/`、`tasks/`、`baseline/`、`script/`、`state/`、`rules/`、`.github/`、`.zcode/`、`.qoder/`、`AGENTS.md`、`CONTRIBUTING.md`、`CODE_OF_CONDUCT.md`、`en/SUMMARY.md`、`en/SUMMARY-en.md` 不参与构建。**新增治理/管线目录时必须同步补 `srcExclude`**，否则其中的 md 会成为站点页面并被全文搜索索引（ADR-0015）。
 
 ## Markdown 处理
 
@@ -66,9 +66,9 @@ bun run preview  # 预览构建产物（不跑 prepare-*）
 
 ## 双语配对与侧边栏
 
-* 中英两侧 SUMMARY（`SUMMARY.md`、`yuanwen/SUMMARY.md`）各自解析为扁平条目序列，**按序号对齐**；仅当清理转义后的标题完全相等、且英文侧路径匹配 `yuanwen/*.md` 时才配对。标题不一致即跳过（结构漂移保护），不会错配。
+* 中英两侧 SUMMARY（`zh/SUMMARY.md`、`en/SUMMARY.md`）各自解析为扁平条目序列，**按序号对齐**；仅当清理转义后的标题完全相等、且英文侧路径匹配 `en/<letter>/*.md` 时才配对。标题不一致即跳过（结构漂移保护），不会错配。
 * 配对结果由 `transformPageData` 注入 frontmatter `enPath` / `zhPath`，供双语对照面板与语言切换按钮使用（2026-11-16 起对照不再用 iframe，见下节）。
-* 中文侧边栏由 SUMMARY 的 `##` 分组与缩进生成（组内折叠）；SUMMARY 目前无 `##` 分组时段落平铺。英文侧边栏按字母目录分组（`A–Z`，取自 `yuanwen/<letter>/`）。
+* 中文侧边栏由 SUMMARY 的 `##` 分组与缩进生成（组内折叠）；SUMMARY 目前无 `##` 分组时段落平铺。英文侧边栏按字母目录分组（`A–Z`，取自 `en/<letter>/`）。
 
 ## 中英对照界面（specs/038，2026-11-16 重做）
 
@@ -78,7 +78,7 @@ bun run preview  # 预览构建产物（不跑 prepare-*）
 * **交错退化**：同区段中英块数比值 <0.5 或差 >8（参考文献、延伸阅读、致谢）整段并列，避免“251 个中文条目各配 0 个英文条目”式碎块；实测 `a/abduction` 94 块 / 2 个退化段，`z/zhu-xi` 129 块 / 5 个退化段。
 * **窄屏（≤959px）**：左右两栏在手机上不成立，`side` 自动降为**上下分屏**（`effLayout`，偏好仍按用户原选择存；布局循环在此宽度只在 上下 ⇄ 交错）；入口不用导航位——VitePress 在这个宽度换 VPLocalNav，`nav-bar-content-after` 槽位被塞进 `display:none` 的 VPNavBar（`position:fixed` 也救不了），故组件在窄屏 `Teleport to="body"` 渲染右下浮窗。控制条会折 2–3 行，高度由 `ResizeObserver` 写进 `--bili-bar-h`，正文留白用 `calc()` 消费（取 `borderBoxSize`，`contentRect` 会少算 padding）。
 * **body 状态类**（`bili-mode`/`bili-side`/`bili-stack`/`bili-inter`/`bili-show-*`/`bili-bottombar`）只在对照真的开启时写：它们直接驱动 `vp-compat.css` 的中文让位规则，面板关闭后若残留会让正文一直缩在左半屏。
-* **反向入口**（2026-11-16 补）：英文原文页（`yuanwen/**`）由 `transformPageData` 注入的 `zhPath` 只在 `BilingualCompare` 里消费——导航位渲染“⇦ 中文译文”药丸（`.bili-btn` 的 `<a>` 形态），点回该词条中文页；原文页不渲染对照面板与“目录/对照原文”按钮。无配对页（`guan-yu` 等）两个入口都不出现。
+* **反向入口**（2026-11-16 补）：英文原文页（`en/**`）由 `transformPageData` 注入的 `zhPath` 只在 `BilingualCompare` 里消费——导航位渲染“⇦ 中文译文”药丸（`.bili-btn` 的 `<a>` 形态），点回该词条中文页；原文页不渲染对照面板与“目录/对照原文”按钮。无配对页（`zh/guan-yu` 等）两个入口都不出现。
 
 ## 搜索
 
